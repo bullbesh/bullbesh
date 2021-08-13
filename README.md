@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Print In Python Explained In 1 Minute (With examples)](https://www.reddit.com/r/Python/comments/p3u87y/print_in_python_explained_in_1_minute_with/)
+- [Keep your image repository tidy with the github action I made 👏](https://www.reddit.com/r/Python/comments/p3u59g/keep_your_image_repository_tidy_with_the_github/)
+- [I made a terminal ODBC database client, pretty basic, but configurable](https://www.reddit.com/r/Python/comments/p3tvz3/i_made_a_terminal_odbc_database_client_pretty/)
+- [Connect 4 & Brick N Ball Crusher In python](https://www.reddit.com/r/Python/comments/p3tgsb/connect_4_brick_n_ball_crusher_in_python/)
 - [How I learned Python](https://www.reddit.com/r/Python/comments/p3r7oi/how_i_learned_python/)
-- [What inspired you the most through your journey of learning python?](https://www.reddit.com/r/Python/comments/p3r79u/what_inspired_you_the_most_through_your_journey/)
-- [Creating Your First Neural Network in Python w/ Tensorflow](https://www.reddit.com/r/Python/comments/p3o6q6/creating_your_first_neural_network_in_python_w/)
-- [Visualizing Python modules and dependencies with Neo4j](https://www.reddit.com/r/Python/comments/p3o4ct/visualizing_python_modules_and_dependencies_with/)
-- [Test-driven development (TDD) is a software development technique in which you write tests before you write the code. Here’s an example in Python of how to do TDD as well as a few practical tips related to software testing.](https://www.reddit.com/r/Python/comments/p3n1bt/testdriven_development_tdd_is_a_software/)
 <!-- BLOG-POST-LIST:END -->
