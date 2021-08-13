@@ -6,6 +6,8 @@
 - [physicsopedia](https://github.com/bullbesh/physicsopedia)
 
 ## 🔎 Connect with me:
+[<img height="32" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg" />](https://t.me/bullbesh)
+[<img height="32" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vk.svg" />](https://vk.com/bullbesh)
 [<img height="32" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/bullbesh1)
 [<img height="32" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/bullbesh)
 [<img height="32" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reddit.svg" />](https://www.reddit.com/user/bullbesh)
