@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [I just learned something interesting about Python!](https://www.reddit.com/r/Python/comments/p3p0e9/i_just_learned_something_interesting_about_python/)
+- [Creating Your First Neural Network in Python w/ Tensorflow](https://www.reddit.com/r/Python/comments/p3o6q6/creating_your_first_neural_network_in_python_w/)
 - [Visualizing Python modules and dependencies with Neo4j](https://www.reddit.com/r/Python/comments/p3o4ct/visualizing_python_modules_and_dependencies_with/)
 - [Test-driven development (TDD) is a software development technique in which you write tests before you write the code. Here’s an example in Python of how to do TDD as well as a few practical tips related to software testing.](https://www.reddit.com/r/Python/comments/p3n1bt/testdriven_development_tdd_is_a_software/)
 - [I’ve just released a package for FastAPI to implement Azure AD auth!](https://www.reddit.com/r/Python/comments/p3n0hr/ive_just_released_a_package_for_fastapi_to/)
-- [byexample: a multilanguage improved version of Python's doctest](https://www.reddit.com/r/Python/comments/p3m5a5/byexample_a_multilanguage_improved_version_of/)
 <!-- BLOG-POST-LIST:END -->
