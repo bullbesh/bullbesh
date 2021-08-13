@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Script for Backing up Multiple Files to Dropbox](https://www.reddit.com/r/Python/comments/p3vib5/simple_script_for_backing_up_multiple_files_to/)
+- [Setting up a python virtual environment](https://www.reddit.com/r/Python/comments/p3v7jy/setting_up_a_python_virtual_environment/)
+- [Class inherited variables (sometimes X layers deep) best practice](https://www.reddit.com/r/Python/comments/p3urn7/class_inherited_variables_sometimes_x_layers_deep/)
+- [Unit testing Pandas code](https://www.reddit.com/r/Python/comments/p3ueez/unit_testing_pandas_code/)
 - [Print In Python Explained In 1 Minute (With examples)](https://www.reddit.com/r/Python/comments/p3u87y/print_in_python_explained_in_1_minute_with/)
-- [Keep your image repository tidy with the github action I made 👏](https://www.reddit.com/r/Python/comments/p3u59g/keep_your_image_repository_tidy_with_the_github/)
-- [I made a terminal ODBC database client, pretty basic, but configurable](https://www.reddit.com/r/Python/comments/p3tvz3/i_made_a_terminal_odbc_database_client_pretty/)
-- [Connect 4 & Brick N Ball Crusher In python](https://www.reddit.com/r/Python/comments/p3tgsb/connect_4_brick_n_ball_crusher_in_python/)
-- [How I learned Python](https://www.reddit.com/r/Python/comments/p3r7oi/how_i_learned_python/)
 <!-- BLOG-POST-LIST:END -->
