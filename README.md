@@ -11,7 +11,7 @@
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reddit.svg" />](https://www.reddit.com/user/bullbesh)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />](https://www.youtube.com/channel/UCtfjRs6uzgq5mfm8S06WTcg)
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How hard is it to automate the process of turning on my minecraft server with python?](https://www.reddit.com/r/Python/comments/p3h7xj/how_hard_is_it_to_automate_the_process_of_turning/)
 - [Weekly newsletter recommendation](https://www.reddit.com/r/Python/comments/p3h70u/weekly_newsletter_recommendation/)
