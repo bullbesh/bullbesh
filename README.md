@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Most Frequently Asked Python Interview Questions](https://www.reddit.com/r/Python/comments/p3mgff/most_frequently_asked_python_interview_questions/)
 - [byexample: a multilanguage improved version of Python's doctest](https://www.reddit.com/r/Python/comments/p3m5a5/byexample_a_multilanguage_improved_version_of/)
 - [What I Learnt From Going Head to Head with Codex and Winning](https://www.reddit.com/r/Python/comments/p3lu68/what_i_learnt_from_going_head_to_head_with_codex/)
 - [Celery/FastAPI/Flower example](https://www.reddit.com/r/Python/comments/p3lp72/celeryfastapiflower_example/)
 - [Challenge: Make Doodle Jump Style Game in 1 Minute](https://www.reddit.com/r/Python/comments/p3khfs/challenge_make_doodle_jump_style_game_in_1_minute/)
-- [UNITED KIGDOM ONLY // HIRING // PYTHON DEVELOPER // FINANCE](https://www.reddit.com/r/Python/comments/p3j46o/united_kigdom_only_hiring_python_developer_finance/)
 <!-- BLOG-POST-LIST:END -->
