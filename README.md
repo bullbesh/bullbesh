@@ -11,6 +11,10 @@
 - [Reddit](https://www.reddit.com/user/bullbesh)
 - [Youtube](https://www.youtube.com/channel/UCtfjRs6uzgq5mfm8S06WTcg)
 
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **bullbesh/bullbesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
