@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Challenge: Make Doodle Jump Style Game in 1 Minute](https://www.reddit.com/r/Python/comments/p3khfs/challenge_make_doodle_jump_style_game_in_1_minute/)
 - [UNITED KIGDOM ONLY // HIRING // PYTHON DEVELOPER // FINANCE](https://www.reddit.com/r/Python/comments/p3j46o/united_kigdom_only_hiring_python_developer_finance/)
 - [i have maked a virtual painter by opencv python. (source code in the coment box)](https://www.reddit.com/r/Python/comments/p3imc1/i_have_maked_a_virtual_painter_by_opencv_python/)
 - [My start](https://www.reddit.com/r/Python/comments/p3i4wb/my_start/)
 - [How hard is it to automate the process of turning on my minecraft server with python?](https://www.reddit.com/r/Python/comments/p3h7xj/how_hard_is_it_to_automate_the_process_of_turning/)
-- [Weekly newsletter recommendation](https://www.reddit.com/r/Python/comments/p3h70u/weekly_newsletter_recommendation/)
 <!-- BLOG-POST-LIST:END -->
