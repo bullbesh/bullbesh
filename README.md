@@ -6,10 +6,10 @@
 - [physicsopedia](https://github.com/bullbesh/physicsopedia)
 
 ## 🔎 Connect with me:
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/bullbesh1)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/bullbesh)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reddit.svg" />](https://www.reddit.com/user/bullbesh)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />](https://www.youtube.com/channel/UCtfjRs6uzgq5mfm8S06WTcg)
+[<img height="32" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/bullbesh1)
+[<img height="32" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/bullbesh)
+[<img height="32" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/reddit.svg" />](https://www.reddit.com/user/bullbesh)
+[<img height="32" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />](https://www.youtube.com/channel/UCtfjRs6uzgq5mfm8S06WTcg)
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
