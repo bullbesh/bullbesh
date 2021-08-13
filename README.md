@@ -1,6 +1,6 @@
 # Henlo, I'm bullbesh 👋
 
-## A list of some of my projects:
+## My currently projects:
 - [COVID-19_telegram_bot](https://github.com/bullbesh/COVID-19_telegram_bot)
 - [persistence](https://github.com/bullbesh/persistence)
 - [physicsopedia](https://github.com/bullbesh/physicsopedia)
