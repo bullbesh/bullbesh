@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Visualizing Python modules and dependencies with Neo4j](https://www.reddit.com/r/Python/comments/p3o4ct/visualizing_python_modules_and_dependencies_with/)
+- [Test-driven development (TDD) is a software development technique in which you write tests before you write the code. Here’s an example in Python of how to do TDD as well as a few practical tips related to software testing.](https://www.reddit.com/r/Python/comments/p3n1bt/testdriven_development_tdd_is_a_software/)
+- [I’ve just released a package for FastAPI to implement Azure AD auth!](https://www.reddit.com/r/Python/comments/p3n0hr/ive_just_released_a_package_for_fastapi_to/)
 - [Most Frequently Asked Python Interview Questions](https://www.reddit.com/r/Python/comments/p3mgff/most_frequently_asked_python_interview_questions/)
 - [byexample: a multilanguage improved version of Python's doctest](https://www.reddit.com/r/Python/comments/p3m5a5/byexample_a_multilanguage_improved_version_of/)
-- [What I Learnt From Going Head to Head with Codex and Winning](https://www.reddit.com/r/Python/comments/p3lu68/what_i_learnt_from_going_head_to_head_with_codex/)
-- [Celery/FastAPI/Flower example](https://www.reddit.com/r/Python/comments/p3lp72/celeryfastapiflower_example/)
-- [Challenge: Make Doodle Jump Style Game in 1 Minute](https://www.reddit.com/r/Python/comments/p3khfs/challenge_make_doodle_jump_style_game_in_1_minute/)
 <!-- BLOG-POST-LIST:END -->
