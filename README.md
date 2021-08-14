@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [i have make tis game in one week fully by python and pygame and object oriented programming](https://www.reddit.com/r/Python/comments/p415cn/i_have_make_tis_game_in_one_week_fully_by_python/)
+- [Jobs Without a CS degree](https://www.reddit.com/r/Python/comments/p41xfm/jobs_without_a_cs_degree/)
 - [Beginner Project Showcase "DecDec" Learned about Decorators and thought of some ideas to extend them and made a project](https://www.reddit.com/r/Python/comments/p40qmy/beginner_project_showcase_decdec_learned_about/)
 - [Introducing the Python Launcher for Unix](https://www.reddit.com/r/Python/comments/p3zqh5/introducing_the_python_launcher_for_unix/)
 - [Twitter Avatar Wizardry 🔮](https://www.reddit.com/r/Python/comments/p3zisl/twitter_avatar_wizardry/)
