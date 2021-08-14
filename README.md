@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python零基础爬虫教程：从零带你用python带你打造一个非常实用的小说下载器，想下那部小说就下那个！#python #程序员 #爬虫 #p...](https://www.reddit.com/r/Python/comments/p434sc/python零基础爬虫教程从零带你用python带你打造一个非常实用的小说下载器想下那部小说就下那个/)
 - [Beginner Project Showcase "DecDec" Learned about Decorators and thought of some ideas to extend them and made a project](https://www.reddit.com/r/Python/comments/p40qmy/beginner_project_showcase_decdec_learned_about/)
 - [Introducing the Python Launcher for Unix](https://www.reddit.com/r/Python/comments/p3zqh5/introducing_the_python_launcher_for_unix/)
 - [Twitter Avatar Wizardry 🔮](https://www.reddit.com/r/Python/comments/p3zisl/twitter_avatar_wizardry/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/p3xc2k/saturday_daily_thread_resource_request_and/)
-- [I made a Zombie Survival Game in Python!](https://www.reddit.com/r/Python/comments/p3x1za/i_made_a_zombie_survival_game_in_python/)
 <!-- BLOG-POST-LIST:END -->
