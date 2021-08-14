@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Environment Utils is a set of command line tools to provide information about the Python folder layout.](https://www.reddit.com/r/Python/comments/p4ayro/python_environment_utils_is_a_set_of_command_line/)
+- [Can i convert the delimiter from an csv file?](https://www.reddit.com/r/Python/comments/p4a9kc/can_i_convert_the_delimiter_from_an_csv_file/)
+- [Let's Learn Python - Lists](https://www.reddit.com/r/Python/comments/p49yvs/lets_learn_python_lists/)
 - [import * should be yes or no ? ... or when ?](https://www.reddit.com/r/Python/comments/p49ke0/import_should_be_yes_or_no_or_when/)
 - [Free to read draft of my book - Zero to production web apps](https://www.reddit.com/r/Python/comments/p49j89/free_to_read_draft_of_my_book_zero_to_production/)
-- [Python Project Opportunity](https://www.reddit.com/r/Python/comments/p49h2v/python_project_opportunity/)
-- [Experience with Finxter?](https://www.reddit.com/r/Python/comments/p49c62/experience_with_finxter/)
-- [Popular python beginning course?](https://www.reddit.com/r/Python/comments/p49c06/popular_python_beginning_course/)
 <!-- BLOG-POST-LIST:END -->
