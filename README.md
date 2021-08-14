@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/p3xc2k/saturday_daily_thread_resource_request_and/)
+- [I made a Zombie Survival Game in Python!](https://www.reddit.com/r/Python/comments/p3x1za/i_made_a_zombie_survival_game_in_python/)
+- [Gauging interest in an App to make learning API's bearable](https://www.reddit.com/r/Python/comments/p3wntv/gauging_interest_in_an_app_to_make_learning_apis/)
 - [How important is learning and remembering Binary data?](https://www.reddit.com/r/Python/comments/p3w4ar/how_important_is_learning_and_remembering_binary/)
 - [Reproducible Builds for Python Bytecode](https://www.reddit.com/r/Python/comments/p3vlu6/reproducible_builds_for_python_bytecode/)
-- [Simple Script for Backing up Multiple Files to Dropbox](https://www.reddit.com/r/Python/comments/p3vib5/simple_script_for_backing_up_multiple_files_to/)
-- [Setting up a python virtual environment](https://www.reddit.com/r/Python/comments/p3v7jy/setting_up_a_python_virtual_environment/)
-- [Class inherited variables (sometimes X layers deep) best practice](https://www.reddit.com/r/Python/comments/p3urn7/class_inherited_variables_sometimes_x_layers_deep/)
 <!-- BLOG-POST-LIST:END -->
