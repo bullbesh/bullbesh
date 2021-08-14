@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A github template to generate your next python project](https://www.reddit.com/r/Python/comments/p4erlw/a_github_template_to_generate_your_next_python/)
+- [My first python game made using pygame](https://www.reddit.com/r/Python/comments/p4ea7m/my_first_python_game_made_using_pygame/)
 - [Open source Craigslist API written in Python](https://www.reddit.com/r/Python/comments/p4dpf4/open_source_craigslist_api_written_in_python/)
-- [Introduction to algorithm](https://www.reddit.com/r/Python/comments/p4dmoa/introduction_to_algorithm/)
 - [Despite f-string formatting being the newest way of writing formatted strings, why do lots of people still use the old style % formatting in Python?](https://www.reddit.com/r/Python/comments/p4d6k6/despite_fstring_formatting_being_the_newest_way/)
 - [How to create star graphic alphabets using Python ? Any other way of doing this ?](https://www.reddit.com/r/Python/comments/p4cdab/how_to_create_star_graphic_alphabets_using_python/)
-- [Python Environment Utils is a set of command line tools to provide information about the Python folder layout.](https://www.reddit.com/r/Python/comments/p4ayro/python_environment_utils_is_a_set_of_command_line/)
 <!-- BLOG-POST-LIST:END -->
