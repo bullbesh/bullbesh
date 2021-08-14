@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Numba's documentation misleading?](https://www.reddit.com/r/Python/comments/p4gflq/is_numbas_documentation_misleading/)
 - [Automation with Selenium and MoviePy [Part 1] - 100 days of running](https://www.reddit.com/r/Python/comments/p4fth2/automation_with_selenium_and_moviepy_part_1_100/)
 - [Bot for learning English](https://www.reddit.com/r/Python/comments/p4fno4/bot_for_learning_english/)
 - [A github template to generate your next python project](https://www.reddit.com/r/Python/comments/p4erlw/a_github_template_to_generate_your_next_python/)
 - [My first python game made using pygame](https://www.reddit.com/r/Python/comments/p4ea7m/my_first_python_game_made_using_pygame/)
-- [Open source Craigslist API written in Python](https://www.reddit.com/r/Python/comments/p4dpf4/open_source_craigslist_api_written_in_python/)
 <!-- BLOG-POST-LIST:END -->
