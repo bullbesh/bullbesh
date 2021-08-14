@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Avatar Wizardry 🔮](https://www.reddit.com/r/Python/comments/p3zisl/twitter_avatar_wizardry/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/p3xc2k/saturday_daily_thread_resource_request_and/)
 - [I made a Zombie Survival Game in Python!](https://www.reddit.com/r/Python/comments/p3x1za/i_made_a_zombie_survival_game_in_python/)
 - [How important is learning and remembering Binary data?](https://www.reddit.com/r/Python/comments/p3w4ar/how_important_is_learning_and_remembering_binary/)
 - [Reproducible Builds for Python Bytecode](https://www.reddit.com/r/Python/comments/p3vlu6/reproducible_builds_for_python_bytecode/)
-- [Simple Script for Backing up Multiple Files to Dropbox](https://www.reddit.com/r/Python/comments/p3vib5/simple_script_for_backing_up_multiple_files_to/)
 <!-- BLOG-POST-LIST:END -->
