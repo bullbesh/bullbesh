@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My style/coding preferences, what are yours?](https://www.reddit.com/r/Python/comments/p48gfj/my_stylecoding_preferences_what_are_yours/)
-- [flake8-too-many: a flake8 plugin that prevents you from writing "too many" bad codes.](https://www.reddit.com/r/Python/comments/p470mi/flake8toomany_a_flake8_plugin_that_prevents_you/)
-- [Gravitational Potential field Simulation](https://www.reddit.com/r/Python/comments/p45txv/gravitational_potential_field_simulation/)
-- [18 Common Python anti-patterns and worst practices I wish I had known before](https://www.reddit.com/r/Python/comments/p44z0w/18_common_python_antipatterns_and_worst_practices/)
-- [Pythonic monotonic](https://www.reddit.com/r/Python/comments/p44gty/pythonic_monotonic/)
+- [import * should be yes or no ? ... or when ?](https://www.reddit.com/r/Python/comments/p49ke0/import_should_be_yes_or_no_or_when/)
+- [Free to read draft of my book - Zero to production web apps](https://www.reddit.com/r/Python/comments/p49j89/free_to_read_draft_of_my_book_zero_to_production/)
+- [Python Project Opportunity](https://www.reddit.com/r/Python/comments/p49h2v/python_project_opportunity/)
+- [Experience with Finxter?](https://www.reddit.com/r/Python/comments/p49c62/experience_with_finxter/)
+- [Popular python beginning course?](https://www.reddit.com/r/Python/comments/p49c06/popular_python_beginning_course/)
 <!-- BLOG-POST-LIST:END -->
