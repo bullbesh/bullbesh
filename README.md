@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My style/coding preferences, what are yours?](https://www.reddit.com/r/Python/comments/p48gfj/my_stylecoding_preferences_what_are_yours/)
 - [flake8-too-many: a flake8 plugin that prevents you from writing "too many" bad codes.](https://www.reddit.com/r/Python/comments/p470mi/flake8toomany_a_flake8_plugin_that_prevents_you/)
 - [Gravitational Potential field Simulation](https://www.reddit.com/r/Python/comments/p45txv/gravitational_potential_field_simulation/)
 - [18 Common Python anti-patterns and worst practices I wish I had known before](https://www.reddit.com/r/Python/comments/p44z0w/18_common_python_antipatterns_and_worst_practices/)
 - [Pythonic monotonic](https://www.reddit.com/r/Python/comments/p44gty/pythonic_monotonic/)
-- [Python for Data Science | Beginner Friendly Full Course in 5 Hours](https://www.reddit.com/r/Python/comments/p43qca/python_for_data_science_beginner_friendly_full/)
 <!-- BLOG-POST-LIST:END -->
