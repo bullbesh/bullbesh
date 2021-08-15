@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What inspired you to start coding?](https://www.reddit.com/r/Python/comments/p4nzts/what_inspired_you_to_start_coding/)
 - [How to send an email using Outlook Application with Python](https://www.reddit.com/r/Python/comments/p4mj03/how_to_send_an_email_using_outlook_application/)
 - [My first socket-based program](https://www.reddit.com/r/Python/comments/p4lkuw/my_first_socketbased_program/)
 - [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/p4j0ui/sunday_daily_thread_whats_everyone_working_on/)
 - [Is Numba's documentation misleading?](https://www.reddit.com/r/Python/comments/p4gflq/is_numbas_documentation_misleading/)
-- [Automation with Selenium and MoviePy [Part 1] - 100 days of running](https://www.reddit.com/r/Python/comments/p4fth2/automation_with_selenium_and_moviepy_part_1_100/)
 <!-- BLOG-POST-LIST:END -->
