@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are the advantages of using Jijna2 in Python. Or can we achieve same using f-String and functions?](https://www.reddit.com/r/Python/comments/p4qpkf/what_are_the_advantages_of_using_jijna2_in_python/)
 - [Building a simple interpreter in Python](https://www.reddit.com/r/Python/comments/p4pwhr/building_a_simple_interpreter_in_python/)
 - [Question anaconda/python/kivy](https://www.reddit.com/r/Python/comments/p4pbky/question_anacondapythonkivy/)
 - [Python package to generate synthetic time series data.](https://www.reddit.com/r/Python/comments/p4p5os/python_package_to_generate_synthetic_time_series/)
 - [#100DaysOfCode - Python](https://www.reddit.com/r/Python/comments/p4p45e/100daysofcode_python/)
-- [Udemy front-end course scraper without authentication using selenium](https://www.reddit.com/r/Python/comments/p4p3ua/udemy_frontend_course_scraper_without/)
 <!-- BLOG-POST-LIST:END -->
