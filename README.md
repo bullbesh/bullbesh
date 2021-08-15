@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [some really useless fps program for ur android emulators](https://www.reddit.com/r/Python/comments/p4spke/some_really_useless_fps_program_for_ur_android/)
+- [OAuth2 in Python](https://www.reddit.com/r/Python/comments/p4soct/oauth2_in_python/)
 - [ConnectionError != requests.ConnectionError](https://www.reddit.com/r/Python/comments/p4rrto/connectionerror_requestsconnectionerror/)
 - [Made a small VSCode extension to add folders to python path in just a click](https://www.reddit.com/r/Python/comments/p4rmtn/made_a_small_vscode_extension_to_add_folders_to/)
 - [What are the advantages of using Jijna2 in Python. Or can we achieve same using f-String and functions?](https://www.reddit.com/r/Python/comments/p4qpkf/what_are_the_advantages_of_using_jijna2_in_python/)
-- [Building a simple interpreter in Python](https://www.reddit.com/r/Python/comments/p4pwhr/building_a_simple_interpreter_in_python/)
-- [Question anaconda/python/kivy](https://www.reddit.com/r/Python/comments/p4pbky/question_anacondapythonkivy/)
 <!-- BLOG-POST-LIST:END -->
