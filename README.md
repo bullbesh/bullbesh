@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI JWT Auth Tutorial (with working Github code)](https://www.reddit.com/r/Python/comments/p4yqge/fastapi_jwt_auth_tutorial_with_working_github_code/)
+- [I have created a small GUI python application to generate schedules for shift and set-based employees. Output is an MS teams' shifts template file that can be directly uploaded to the plug-in.](https://www.reddit.com/r/Python/comments/p4yais/i_have_created_a_small_gui_python_application_to/)
 - [localstack - a fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline](https://www.reddit.com/r/Python/comments/p4xjl3/localstack_a_fully_functional_local_aws_cloud/)
-- [Question](https://www.reddit.com/r/Python/comments/p4wa98/question/)
-- [https://geekyhumans.com/how-to-extract-text-and-images-from-pdf-using-python/](https://www.reddit.com/r/Python/comments/p4w6v1/httpsgeekyhumanscomhowtoextracttextandimagesfrompd/)
-- [5 Effective Methods of Staying up to Date in Computer Science](https://www.reddit.com/r/Python/comments/p4voyp/5_effective_methods_of_staying_up_to_date_in/)
-- [Best program to run python for "deep learning with python 2017"](https://www.reddit.com/r/Python/comments/p4trk2/best_program_to_run_python_for_deep_learning_with/)
+- [I've learned a little bit of python. Now what?](https://www.reddit.com/r/Python/comments/p4tmv0/ive_learned_a_little_bit_of_python_now_what/)
+- [some really useless fps program for ur android emulators](https://www.reddit.com/r/Python/comments/p4spke/some_really_useless_fps_program_for_ur_android/)
 <!-- BLOG-POST-LIST:END -->
