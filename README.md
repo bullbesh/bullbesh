@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Could someone make me a python code to boost my snap score on Snapchat?](https://www.reddit.com/r/Python/comments/p51lbj/could_someone_make_me_a_python_code_to_boost_my/)
 - [FastAPI JWT Auth Tutorial (with working Github code)](https://www.reddit.com/r/Python/comments/p4yqge/fastapi_jwt_auth_tutorial_with_working_github_code/)
 - [I have created a small GUI python application to generate schedules for shift and set-based employees. Output is an MS teams' shifts template file that can be directly uploaded to the plug-in.](https://www.reddit.com/r/Python/comments/p4yais/i_have_created_a_small_gui_python_application_to/)
 - [localstack - a fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline](https://www.reddit.com/r/Python/comments/p4xjl3/localstack_a_fully_functional_local_aws_cloud/)
 - [I've learned a little bit of python. Now what?](https://www.reddit.com/r/Python/comments/p4tmv0/ive_learned_a_little_bit_of_python_now_what/)
-- [some really useless fps program for ur android emulators](https://www.reddit.com/r/Python/comments/p4spke/some_really_useless_fps_program_for_ur_android/)
 <!-- BLOG-POST-LIST:END -->
