@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Question](https://www.reddit.com/r/Python/comments/p4wa98/question/)
+- [https://geekyhumans.com/how-to-extract-text-and-images-from-pdf-using-python/](https://www.reddit.com/r/Python/comments/p4w6v1/httpsgeekyhumanscomhowtoextracttextandimagesfrompd/)
+- [5 Effective Methods of Staying up to Date in Computer Science](https://www.reddit.com/r/Python/comments/p4voyp/5_effective_methods_of_staying_up_to_date_in/)
 - [Best program to run python for "deep learning with python 2017"](https://www.reddit.com/r/Python/comments/p4trk2/best_program_to_run_python_for_deep_learning_with/)
 - [I've learned a little bit of python. Now what?](https://www.reddit.com/r/Python/comments/p4tmv0/ive_learned_a_little_bit_of_python_now_what/)
-- [Web Design UI UX or Data Science](https://www.reddit.com/r/Python/comments/p4tkeg/web_design_ui_ux_or_data_science/)
-- [some really useless fps program for ur android emulators](https://www.reddit.com/r/Python/comments/p4spke/some_really_useless_fps_program_for_ur_android/)
-- [OAuth2 in Python](https://www.reddit.com/r/Python/comments/p4soct/oauth2_in_python/)
 <!-- BLOG-POST-LIST:END -->
