@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best program to run python for "deep learning with python 2017"](https://www.reddit.com/r/Python/comments/p4trk2/best_program_to_run_python_for_deep_learning_with/)
+- [I've learned a little bit of python. Now what?](https://www.reddit.com/r/Python/comments/p4tmv0/ive_learned_a_little_bit_of_python_now_what/)
+- [Web Design UI UX or Data Science](https://www.reddit.com/r/Python/comments/p4tkeg/web_design_ui_ux_or_data_science/)
 - [some really useless fps program for ur android emulators](https://www.reddit.com/r/Python/comments/p4spke/some_really_useless_fps_program_for_ur_android/)
 - [OAuth2 in Python](https://www.reddit.com/r/Python/comments/p4soct/oauth2_in_python/)
-- [ConnectionError != requests.ConnectionError](https://www.reddit.com/r/Python/comments/p4rrto/connectionerror_requestsconnectionerror/)
-- [Made a small VSCode extension to add folders to python path in just a click](https://www.reddit.com/r/Python/comments/p4rmtn/made_a_small_vscode_extension_to_add_folders_to/)
-- [What are the advantages of using Jijna2 in Python. Or can we achieve same using f-String and functions?](https://www.reddit.com/r/Python/comments/p4qpkf/what_are_the_advantages_of_using_jijna2_in_python/)
 <!-- BLOG-POST-LIST:END -->
