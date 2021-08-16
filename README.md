@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [correct way to do negative modulo and integer division](https://www.reddit.com/r/Python/comments/p5p5ao/correct_way_to_do_negative_modulo_and_integer/)
-- [Best practices for setting up a Python environment](https://www.reddit.com/r/Python/comments/p5omgh/best_practices_for_setting_up_a_python_environment/)
-- [Image Recognition to Detect Traffic Signs using Python with a Processing Library](https://www.reddit.com/r/Python/comments/p5oas9/image_recognition_to_detect_traffic_signs_using/)
 - [Fake having bad wifi on video calls with Python!](https://www.reddit.com/r/Python/comments/p5nz9n/fake_having_bad_wifi_on_video_calls_with_python/)
 - [PyQt5 template for beginners](https://www.reddit.com/r/Python/comments/p5nnqx/pyqt5_template_for_beginners/)
+- [dotmatrix – A dot matrix rendered using braille characters.](https://www.reddit.com/r/Python/comments/p5ndun/dotmatrix_a_dot_matrix_rendered_using_braille/)
+- [Library for fetching coin/token historical data, trends and more](https://www.reddit.com/r/Python/comments/p5ndew/library_for_fetching_cointoken_historical_data/)
+- [What is your preferred way to install Python on Windows? The Poll option is blocked for some reason...](https://www.reddit.com/r/Python/comments/p5mhv3/what_is_your_preferred_way_to_install_python_on/)
 <!-- BLOG-POST-LIST:END -->
