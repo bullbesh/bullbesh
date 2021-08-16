@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is your preferred way to install Python on Windows? The Poll option is blocked for some reason...](https://www.reddit.com/r/Python/comments/p5mhv3/what_is_your_preferred_way_to_install_python_on/)
 - [Open Source Patterns in Python](https://www.reddit.com/r/Python/comments/p5lvxx/open_source_patterns_in_python/)
 - [Is there a free/open source distribution similar to anaconda?](https://www.reddit.com/r/Python/comments/p5le6l/is_there_a_freeopen_source_distribution_similar/)
 - [I made a webapp for python devs that generates a customizable Docker Compose template project with just a few clicks](https://www.reddit.com/r/Python/comments/p5jl93/i_made_a_webapp_for_python_devs_that_generates_a/)
 - [Visualization of fractals with python turtle](https://www.reddit.com/r/Python/comments/p5iqg5/visualization_of_fractals_with_python_turtle/)
-- [Love 3Blue1Brown Animations? Learn How to Create Your Own in Python in 10 Minutes](https://www.reddit.com/r/Python/comments/p5iac2/love_3blue1brown_animations_learn_how_to_create/)
 <!-- BLOG-POST-LIST:END -->
