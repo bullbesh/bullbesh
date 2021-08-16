@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a webapp for python devs that generates a customizable Docker Compose template project with just a few clicks](https://www.reddit.com/r/Python/comments/p5jl93/i_made_a_webapp_for_python_devs_that_generates_a/)
+- [Visualization of fractals with python turtle](https://www.reddit.com/r/Python/comments/p5iqg5/visualization_of_fractals_with_python_turtle/)
+- [Love 3Blue1Brown Animations? Learn How to Create Your Own in Python in 10 Minutes](https://www.reddit.com/r/Python/comments/p5iac2/love_3blue1brown_animations_learn_how_to_create/)
 - [Python Zen and Anti-patterns](https://www.reddit.com/r/Python/comments/p5gt9e/python_zen_and_antipatterns/)
 - [I created a simulation of a Sports website (data being refreshed live) using Python's Flask and some JavaScript to fetch data continuously.](https://www.reddit.com/r/Python/comments/p5gq0x/i_created_a_simulation_of_a_sports_website_data/)
-- [✔ Python: Intro To Lists](https://www.reddit.com/r/Python/comments/p5emlf/python_intro_to_lists/)
-- [I made a command-line tool to check files for bitrot or modification: checkr](https://www.reddit.com/r/Python/comments/p5dycx/i_made_a_commandline_tool_to_check_files_for/)
-- [Bulk exif photo data export to Excel](https://www.reddit.com/r/Python/comments/p5dl9y/bulk_exif_photo_data_export_to_excel/)
 <!-- BLOG-POST-LIST:END -->
