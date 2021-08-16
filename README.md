@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Best Python libraries for Machine Learning - Coding Vidya](https://www.reddit.com/r/Python/comments/p5cbfd/10_best_python_libraries_for_machine_learning/)
+- [Hiring - Python Senior Developer/Lead](https://www.reddit.com/r/Python/comments/p5bvo9/hiring_python_senior_developerlead/)
 - [AutoML with FLAML & Python: Machine Learning in 15 Seconds](https://www.reddit.com/r/Python/comments/p5b3qq/automl_with_flaml_python_machine_learning_in_15/)
 - [Moving on to JS, nodeJS and angular. - advise needed.](https://www.reddit.com/r/Python/comments/p5awjq/moving_on_to_js_nodejs_and_angular_advise_needed/)
 - [looking for Python Senior Developer/Lead](https://www.reddit.com/r/Python/comments/p5amwl/looking_for_python_senior_developerlead/)
-- [How to build an Online Learning Platform (LMS) with Python and Django Framework.](https://www.reddit.com/r/Python/comments/p5aji4/how_to_build_an_online_learning_platform_lms_with/)
-- [Discord Server for Beginner Python Learners](https://www.reddit.com/r/Python/comments/p5accq/discord_server_for_beginner_python_learners/)
 <!-- BLOG-POST-LIST:END -->
