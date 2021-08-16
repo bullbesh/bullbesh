@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AutoML with FLAML & Python: Machine Learning in 15 Seconds](https://www.reddit.com/r/Python/comments/p5b3qq/automl_with_flaml_python_machine_learning_in_15/)
+- [Moving on to JS, nodeJS and angular. - advise needed.](https://www.reddit.com/r/Python/comments/p5awjq/moving_on_to_js_nodejs_and_angular_advise_needed/)
+- [looking for Python Senior Developer/Lead](https://www.reddit.com/r/Python/comments/p5amwl/looking_for_python_senior_developerlead/)
+- [How to build an Online Learning Platform (LMS) with Python and Django Framework.](https://www.reddit.com/r/Python/comments/p5aji4/how_to_build_an_online_learning_platform_lms_with/)
 - [Discord Server for Beginner Python Learners](https://www.reddit.com/r/Python/comments/p5accq/discord_server_for_beginner_python_learners/)
-- [Check out this timelapse!](https://www.reddit.com/r/Python/comments/p5a8qd/check_out_this_timelapse/)
-- [recommend me a best course to learn python….](https://www.reddit.com/r/Python/comments/p5a7bq/recommend_me_a_best_course_to_learn_python/)
-- [I made an simple 'directory branch making' module, easy to use !](https://www.reddit.com/r/Python/comments/p59cky/i_made_an_simple_directory_branch_making_module/)
-- [Anyone else despises Matplotlib?](https://www.reddit.com/r/Python/comments/p59091/anyone_else_despises_matplotlib/)
 <!-- BLOG-POST-LIST:END -->
