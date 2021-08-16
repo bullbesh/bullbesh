@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I have made my own personal assistant using python.](https://www.reddit.com/r/Python/comments/p586o3/i_have_made_my_own_personal_assistant_using_python/)
 - [I forget how to compress and extract tar/zip/gz files, so I hacked a CLI app together that handles any compression/archival format.](https://www.reddit.com/r/Python/comments/p57tnj/i_forget_how_to_compress_and_extract_tarzipgz/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/p54sjw/monday_daily_thread_project_ideas/)
 - [Reining in the thundering herd - Scaling Django at Clubhouse](https://www.reddit.com/r/Python/comments/p54i5z/reining_in_the_thundering_herd_scaling_django_at/)
 - [What is the best method to monitor a website without data scraping?](https://www.reddit.com/r/Python/comments/p53cdx/what_is_the_best_method_to_monitor_a_website/)
-- [FastAPI JWT Auth Tutorial (with working Github code)](https://www.reddit.com/r/Python/comments/p4yqge/fastapi_jwt_auth_tutorial_with_working_github_code/)
 <!-- BLOG-POST-LIST:END -->
