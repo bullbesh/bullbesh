@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hey guys! I published the release 1.4.3 of Pyluos. Pyluos allows Python developers to control embedded C code inside a machine directly from their computer, a kind of embedded API.](https://www.reddit.com/r/Python/comments/p5d78s/hey_guys_i_published_the_release_143_of_pyluos/)
+- [User Study on Debugging Behavior](https://www.reddit.com/r/Python/comments/p5d5i7/user_study_on_debugging_behavior/)
+- [Cython Tutorial: Fast & Efficient Python](https://www.reddit.com/r/Python/comments/p5cnmt/cython_tutorial_fast_efficient_python/)
 - [10 Best Python libraries for Machine Learning - Coding Vidya](https://www.reddit.com/r/Python/comments/p5cbfd/10_best_python_libraries_for_machine_learning/)
 - [Hiring - Python Senior Developer/Lead](https://www.reddit.com/r/Python/comments/p5bvo9/hiring_python_senior_developerlead/)
-- [AutoML with FLAML & Python: Machine Learning in 15 Seconds](https://www.reddit.com/r/Python/comments/p5b3qq/automl_with_flaml_python_machine_learning_in_15/)
-- [Moving on to JS, nodeJS and angular. - advise needed.](https://www.reddit.com/r/Python/comments/p5awjq/moving_on_to_js_nodejs_and_angular_advise_needed/)
-- [looking for Python Senior Developer/Lead](https://www.reddit.com/r/Python/comments/p5amwl/looking_for_python_senior_developerlead/)
 <!-- BLOG-POST-LIST:END -->
