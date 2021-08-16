@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Discord Server for Beginner Python Learners](https://www.reddit.com/r/Python/comments/p5accq/discord_server_for_beginner_python_learners/)
+- [Check out this timelapse!](https://www.reddit.com/r/Python/comments/p5a8qd/check_out_this_timelapse/)
+- [recommend me a best course to learn python….](https://www.reddit.com/r/Python/comments/p5a7bq/recommend_me_a_best_course_to_learn_python/)
 - [I made an simple 'directory branch making' module, easy to use !](https://www.reddit.com/r/Python/comments/p59cky/i_made_an_simple_directory_branch_making_module/)
-- [What are things you would want to be automated?](https://www.reddit.com/r/Python/comments/p591wo/what_are_things_you_would_want_to_be_automated/)
 - [Anyone else despises Matplotlib?](https://www.reddit.com/r/Python/comments/p59091/anyone_else_despises_matplotlib/)
-- [I have made my own personal assistant using python.](https://www.reddit.com/r/Python/comments/p586o3/i_have_made_my_own_personal_assistant_using_python/)
-- [I forget how to compress and extract tar/zip/gz files, so I hacked a CLI app together that handles any compression/archival format.](https://www.reddit.com/r/Python/comments/p57tnj/i_forget_how_to_compress_and_extract_tarzipgz/)
 <!-- BLOG-POST-LIST:END -->
