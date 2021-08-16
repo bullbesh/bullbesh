@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Big update to Enso! Help us improve the visual programming environment for Python, Java, R, and JavaScript. Written in Rust and running in WebGL and GraalVM!](https://www.reddit.com/r/Python/comments/p5gbkz/big_update_to_enso_help_us_improve_the_visual/)
+- [Python Zen and Anti-patterns](https://www.reddit.com/r/Python/comments/p5gt9e/python_zen_and_antipatterns/)
+- [I created a simulation of a Sports website (data being refreshed live) using Python's Flask and some JavaScript to fetch data continuously.](https://www.reddit.com/r/Python/comments/p5gq0x/i_created_a_simulation_of_a_sports_website_data/)
 - [✔ Python: Intro To Lists](https://www.reddit.com/r/Python/comments/p5emlf/python_intro_to_lists/)
 - [I made a command-line tool to check files for bitrot or modification: checkr](https://www.reddit.com/r/Python/comments/p5dycx/i_made_a_commandline_tool_to_check_files_for/)
 - [Bulk exif photo data export to Excel](https://www.reddit.com/r/Python/comments/p5dl9y/bulk_exif_photo_data_export_to_excel/)
-- [Hey guys! I published the release 1.4.3 of Pyluos. Pyluos allows Python developers to control embedded C code inside a machine directly from their computer, a kind of embedded API.](https://www.reddit.com/r/Python/comments/p5d78s/hey_guys_i_published_the_release_143_of_pyluos/)
 <!-- BLOG-POST-LIST:END -->
