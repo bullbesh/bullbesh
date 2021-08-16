@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/p54sjw/monday_daily_thread_project_ideas/)
+- [Reining in the thundering herd - Scaling Django at Clubhouse](https://www.reddit.com/r/Python/comments/p54i5z/reining_in_the_thundering_herd_scaling_django_at/)
 - [What is the best method to monitor a website without data scraping?](https://www.reddit.com/r/Python/comments/p53cdx/what_is_the_best_method_to_monitor_a_website/)
 - [FastAPI JWT Auth Tutorial (with working Github code)](https://www.reddit.com/r/Python/comments/p4yqge/fastapi_jwt_auth_tutorial_with_working_github_code/)
 - [I have created a small GUI python application to generate schedules for shift and set-based employees. Output is an MS teams' shifts template file that can be directly uploaded to the plug-in.](https://www.reddit.com/r/Python/comments/p4yais/i_have_created_a_small_gui_python_application_to/)
-- [localstack - a fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline](https://www.reddit.com/r/Python/comments/p4xjl3/localstack_a_fully_functional_local_aws_cloud/)
-- [I've learned a little bit of python. Now what?](https://www.reddit.com/r/Python/comments/p4tmv0/ive_learned_a_little_bit_of_python_now_what/)
 <!-- BLOG-POST-LIST:END -->
