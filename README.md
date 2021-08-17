@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Time spent coding vs other activities](https://www.reddit.com/r/Python/comments/p65njd/time_spent_coding_vs_other_activities/)
+- [Complete Python Course Online to Learn 2021](https://www.reddit.com/r/Python/comments/p65057/complete_python_course_online_to_learn_2021/)
 - [Python News: What's New From July 2021? – Real Python](https://www.reddit.com/r/Python/comments/p63uco/python_news_whats_new_from_july_2021_real_python/)
 - [Hikaru 0.7b just released with support for K8s watches. Now you can monitor Kubernetes activity with Hikaru, receiving events in the form of Hikaru objects.](https://www.reddit.com/r/Python/comments/p61500/hikaru_07b_just_released_with_support_for_k8s/)
 - [Caesar Cipher in 2 lines, just for fun](https://www.reddit.com/r/Python/comments/p60vne/caesar_cipher_in_2_lines_just_for_fun/)
-- [What is median Python Backend Developer salary (after taxes) in your country? Is it worth trying to find remote developer job in EU or USA?](https://www.reddit.com/r/Python/comments/p5z5gz/what_is_median_python_backend_developer_salary/)
-- [Verse: Visual Scripting Tool for Python](https://www.reddit.com/r/Python/comments/p5xq1o/verse_visual_scripting_tool_for_python/)
 <!-- BLOG-POST-LIST:END -->
