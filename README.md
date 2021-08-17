@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [When you want classes but you don't want classes](https://www.reddit.com/r/Python/comments/p5wy1g/when_you_want_classes_but_you_dont_want_classes/)
 - [FuzzyWuzzy, compare columns](https://www.reddit.com/r/Python/comments/p5wmn1/fuzzywuzzy_compare_columns/)
 - [I'm new to python and this is my first thing I've made :)](https://www.reddit.com/r/Python/comments/p5v3e9/im_new_to_python_and_this_is_my_first_thing_ive/)
 - [Eterm](https://www.reddit.com/r/Python/comments/p5uffx/eterm/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/p5sed0/tuesday_daily_thread_advanced_questions/)
-- [Fake having bad wifi on video calls with Python!](https://www.reddit.com/r/Python/comments/p5nz9n/fake_having_bad_wifi_on_video_calls_with_python/)
 <!-- BLOG-POST-LIST:END -->
