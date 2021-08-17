@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Web Development Resources - Books & Casts Recommendations?](https://www.reddit.com/r/Python/comments/p5ssko/python_web_development_resources_books_casts/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/p5sed0/tuesday_daily_thread_advanced_questions/)
 - [Fake having bad wifi on video calls with Python!](https://www.reddit.com/r/Python/comments/p5nz9n/fake_having_bad_wifi_on_video_calls_with_python/)
 - [PyQt5 template for beginners](https://www.reddit.com/r/Python/comments/p5nnqx/pyqt5_template_for_beginners/)
 - [dotmatrix – A dot matrix rendered using braille characters.](https://www.reddit.com/r/Python/comments/p5ndun/dotmatrix_a_dot_matrix_rendered_using_braille/)
-- [Library for fetching coin/token historical data, trends and more](https://www.reddit.com/r/Python/comments/p5ndew/library_for_fetching_cointoken_historical_data/)
-- [What is your preferred way to install Python on Windows? The Poll option is blocked for some reason...](https://www.reddit.com/r/Python/comments/p5mhv3/what_is_your_preferred_way_to_install_python_on/)
 <!-- BLOG-POST-LIST:END -->
