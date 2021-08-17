@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I know The Basics (I think)… Now What?](https://www.reddit.com/r/Python/comments/p5ubwx/i_know_the_basics_i_think_now_what/)
 - [Python Web Development Resources - Books & Casts Recommendations?](https://www.reddit.com/r/Python/comments/p5ssko/python_web_development_resources_books_casts/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/p5sed0/tuesday_daily_thread_advanced_questions/)
 - [Fake having bad wifi on video calls with Python!](https://www.reddit.com/r/Python/comments/p5nz9n/fake_having_bad_wifi_on_video_calls_with_python/)
 - [PyQt5 template for beginners](https://www.reddit.com/r/Python/comments/p5nnqx/pyqt5_template_for_beginners/)
-- [dotmatrix – A dot matrix rendered using braille characters.](https://www.reddit.com/r/Python/comments/p5ndun/dotmatrix_a_dot_matrix_rendered_using_braille/)
 <!-- BLOG-POST-LIST:END -->
