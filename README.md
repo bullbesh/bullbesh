@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Verse: Visual Scripting Tool for Python](https://www.reddit.com/r/Python/comments/p5xq1o/verse_visual_scripting_tool_for_python/)
+- [用Python制作一个表白神器：从零带你用你女神的照片制作一个自定义文字的照片表白墙 #python #python教程](https://www.reddit.com/r/Python/comments/p5xjv0/用python制作一个表白神器从零带你用你女神的照片制作一个自定义文字的照片表白墙_python/)
+- [用Python制作一个表白神器：从零带你用你女神的照片制作一个自定义文字的照片表白墙 #python #python教程](https://www.reddit.com/r/Python/comments/p5xhri/用python制作一个表白神器从零带你用你女神的照片制作一个自定义文字的照片表白墙_python/)
 - [When you want classes but you don't want classes](https://www.reddit.com/r/Python/comments/p5wy1g/when_you_want_classes_but_you_dont_want_classes/)
 - [FuzzyWuzzy, compare columns](https://www.reddit.com/r/Python/comments/p5wmn1/fuzzywuzzy_compare_columns/)
-- [I'm new to python and this is my first thing I've made :)](https://www.reddit.com/r/Python/comments/p5v3e9/im_new_to_python_and_this_is_my_first_thing_ive/)
-- [Eterm](https://www.reddit.com/r/Python/comments/p5uffx/eterm/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/p5sed0/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
