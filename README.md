@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do I actually start learning Python?](https://www.reddit.com/r/Python/comments/p68v5y/how_do_i_actually_start_learning_python/)
 - [QuickAI version 2 released!](https://www.reddit.com/r/Python/comments/p65zpe/quickai_version_2_released/)
 - [Calling backend developers!](https://www.reddit.com/r/Python/comments/p65ytl/calling_backend_developers/)
 - [Time spent coding vs other activities](https://www.reddit.com/r/Python/comments/p65njd/time_spent_coding_vs_other_activities/)
 - [Complete Python Course Online to Learn 2021](https://www.reddit.com/r/Python/comments/p65057/complete_python_course_online_to_learn_2021/)
-- [Python News: What's New From July 2021? – Real Python](https://www.reddit.com/r/Python/comments/p63uco/python_news_whats_new_from_july_2021_real_python/)
 <!-- BLOG-POST-LIST:END -->
