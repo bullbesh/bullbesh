@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning to use GitHub w/ Python Virtual Environments !!](https://www.reddit.com/r/Python/comments/p6chyg/learning_to_use_github_w_python_virtual/)
+- [[serious question] How do people code in languages other than Python?](https://www.reddit.com/r/Python/comments/p6dptb/serious_question_how_do_people_code_in_languages/)
+- [A simpler? Static site generator](https://www.reddit.com/r/Python/comments/p6d2ne/a_simpler_static_site_generator/)
 - [Ray Tracing in One Weekend in Python Executing on the GPU](https://www.reddit.com/r/Python/comments/p6c7ly/ray_tracing_in_one_weekend_in_python_executing_on/)
 - [Chuy: Set alias to long commands and speed up your workflow!](https://www.reddit.com/r/Python/comments/p6blxo/chuy_set_alias_to_long_commands_and_speed_up_your/)
 - [What is the best way to reduce HTTP POST time for concurrent requests? Don't know exact term to search.](https://www.reddit.com/r/Python/comments/p69xnb/what_is_the_best_way_to_reduce_http_post_time_for/)
-- [Parakeet a script to calculate the time needed to run a program](https://www.reddit.com/r/Python/comments/p69gbo/parakeet_a_script_to_calculate_the_time_needed_to/)
 <!-- BLOG-POST-LIST:END -->
