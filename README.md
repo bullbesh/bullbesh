@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[serious question] How do people code in languages other than Python?](https://www.reddit.com/r/Python/comments/p6dptb/serious_question_how_do_people_code_in_languages/)
+- [Open source investment portfolio tool entirely written in Python](https://www.reddit.com/r/Python/comments/p6e5va/open_source_investment_portfolio_tool_entirely/)
 - [A simpler? Static site generator](https://www.reddit.com/r/Python/comments/p6d2ne/a_simpler_static_site_generator/)
 - [Ray Tracing in One Weekend in Python Executing on the GPU](https://www.reddit.com/r/Python/comments/p6c7ly/ray_tracing_in_one_weekend_in_python_executing_on/)
 - [Chuy: Set alias to long commands and speed up your workflow!](https://www.reddit.com/r/Python/comments/p6blxo/chuy_set_alias_to_long_commands_and_speed_up_your/)
