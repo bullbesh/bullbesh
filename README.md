@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tornado as_future() problem](https://www.reddit.com/r/Python/comments/p5zpdh/tornado_as_future_problem/)
+- [Python cannot find pip3 packages, even though they are installed correctly.](https://www.reddit.com/r/Python/comments/p5zn0n/python_cannot_find_pip3_packages_even_though_they/)
 - [Guide to Hyperparameter Tuning and Optimization with Python](https://www.reddit.com/r/Python/comments/p5z9kd/guide_to_hyperparameter_tuning_and_optimization/)
 - [What is median Python Backend Developer salary (after taxes) in your country? Is it worth trying to find remote developer job in EU or USA?](https://www.reddit.com/r/Python/comments/p5z5gz/what_is_median_python_backend_developer_salary/)
 - [Check out my cool Minecraft Launcher that I just made using Python.](https://www.reddit.com/r/Python/comments/p5z0zo/check_out_my_cool_minecraft_launcher_that_i_just/)
-- [Verse: Visual Scripting Tool for Python](https://www.reddit.com/r/Python/comments/p5xq1o/verse_visual_scripting_tool_for_python/)
-- [用Python制作一个表白神器：从零带你用你女神的照片制作一个自定义文字的照片表白墙 #python #python教程](https://www.reddit.com/r/Python/comments/p5xjv0/用python制作一个表白神器从零带你用你女神的照片制作一个自定义文字的照片表白墙_python/)
 <!-- BLOG-POST-LIST:END -->
