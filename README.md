@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Limiting Max. allowed integer](https://www.reddit.com/r/Python/comments/p624kc/limiting_max_allowed_integer/)
-- [Help needed to create a dialogue in an Anki add on](https://www.reddit.com/r/Python/comments/p618ng/help_needed_to_create_a_dialogue_in_an_anki_add_on/)
+- [Looking for new programmers to team up!](https://www.reddit.com/r/Python/comments/p63hnd/looking_for_new_programmers_to_team_up/)
 - [Hikaru 0.7b just released with support for K8s watches. Now you can monitor Kubernetes activity with Hikaru, receiving events in the form of Hikaru objects.](https://www.reddit.com/r/Python/comments/p61500/hikaru_07b_just_released_with_support_for_k8s/)
 - [Caesar Cipher in 2 lines, just for fun](https://www.reddit.com/r/Python/comments/p60vne/caesar_cipher_in_2_lines_just_for_fun/)
-- [Tornado as_future() problem](https://www.reddit.com/r/Python/comments/p5zpdh/tornado_as_future_problem/)
+- [What is median Python Backend Developer salary (after taxes) in your country? Is it worth trying to find remote developer job in EU or USA?](https://www.reddit.com/r/Python/comments/p5z5gz/what_is_median_python_backend_developer_salary/)
+- [Check out my cool Minecraft Launcher that I just made using Python.](https://www.reddit.com/r/Python/comments/p5z0zo/check_out_my_cool_minecraft_launcher_that_i_just/)
 <!-- BLOG-POST-LIST:END -->
