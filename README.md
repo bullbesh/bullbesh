@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How do I actually start learning Python?](https://www.reddit.com/r/Python/comments/p68v5y/how_do_i_actually_start_learning_python/)
+- [What is the best way to reduce HTTP POST time for concurrent requests? Don't know exact term to search.](https://www.reddit.com/r/Python/comments/p69xnb/what_is_the_best_way_to_reduce_http_post_time_for/)
+- [Parakeet a script to calculate the time needed to run a program](https://www.reddit.com/r/Python/comments/p69gbo/parakeet_a_script_to_calculate_the_time_needed_to/)
 - [QuickAI version 2 released!](https://www.reddit.com/r/Python/comments/p65zpe/quickai_version_2_released/)
 - [Calling backend developers!](https://www.reddit.com/r/Python/comments/p65ytl/calling_backend_developers/)
 - [Time spent coding vs other activities](https://www.reddit.com/r/Python/comments/p65njd/time_spent_coding_vs_other_activities/)
-- [Complete Python Course Online to Learn 2021](https://www.reddit.com/r/Python/comments/p65057/complete_python_course_online_to_learn_2021/)
 <!-- BLOG-POST-LIST:END -->
