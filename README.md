@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I know The Basics (I think)… Now What?](https://www.reddit.com/r/Python/comments/p5ubwx/i_know_the_basics_i_think_now_what/)
-- [Python Web Development Resources - Books & Casts Recommendations?](https://www.reddit.com/r/Python/comments/p5ssko/python_web_development_resources_books_casts/)
+- [I'm new to python and this is my first thing I've made :)](https://www.reddit.com/r/Python/comments/p5v3e9/im_new_to_python_and_this_is_my_first_thing_ive/)
+- [Eterm](https://www.reddit.com/r/Python/comments/p5uffx/eterm/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/p5sed0/tuesday_daily_thread_advanced_questions/)
 - [Fake having bad wifi on video calls with Python!](https://www.reddit.com/r/Python/comments/p5nz9n/fake_having_bad_wifi_on_video_calls_with_python/)
 - [PyQt5 template for beginners](https://www.reddit.com/r/Python/comments/p5nnqx/pyqt5_template_for_beginners/)
