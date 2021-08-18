@@ -18,6 +18,6 @@
 - [Learning Python changed my life](https://www.reddit.com/r/Python/comments/p6pxko/learning_python_changed_my_life/)
 - [Fluid Simulation with Lattice Boltzmann Method](https://www.reddit.com/r/Python/comments/p6pvxr/fluid_simulation_with_lattice_boltzmann_method/)
 - [Python — Retrieve Matching Rows From Two Dataframes](https://www.reddit.com/r/Python/comments/p6pokj/python_retrieve_matching_rows_from_two_dataframes/)
-- [Cython Tutorial: Fast & Efficient Python](https://www.reddit.com/r/Python/comments/p6pjmn/cython_tutorial_fast_efficient_python/)
 - [Shamika Mohanan has joined the PSF as Packaging Project Manager](https://www.reddit.com/r/Python/comments/p6oj47/shamika_mohanan_has_joined_the_psf_as_packaging/)
+- [Top Reasons to Use Python Language for Web Application Development](https://www.reddit.com/r/Python/comments/p6nwfw/top_reasons_to_use_python_language_for_web/)
 <!-- BLOG-POST-LIST:END -->
