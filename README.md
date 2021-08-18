@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Shamika Mohanan has joined the PSF as Packaging Project Manager](https://www.reddit.com/r/Python/comments/p6oj47/shamika_mohanan_has_joined_the_psf_as_packaging/)
+- [Web scraping sport activities from runalyze.com](https://www.reddit.com/r/Python/comments/p6oj38/web_scraping_sport_activities_from_runalyzecom/)
 - [Guide to Hyperparameter Tuning and Optimization with Python](https://www.reddit.com/r/Python/comments/p6o6vl/guide_to_hyperparameter_tuning_and_optimization/)
 - [Visualizing Python modules and dependencies with Neo4j](https://www.reddit.com/r/Python/comments/p6o308/visualizing_python_modules_and_dependencies_with/)
 - [Top Reasons to Use Python Language for Web Application Development](https://www.reddit.com/r/Python/comments/p6nwfw/top_reasons_to_use_python_language_for_web/)
-- [FastAPI Crash Course](https://www.reddit.com/r/Python/comments/p6nf4m/fastapi_crash_course/)
-- [Type Checkers: which one you use and why?](https://www.reddit.com/r/Python/comments/p6nbgh/type_checkers_which_one_you_use_and_why/)
 <!-- BLOG-POST-LIST:END -->
