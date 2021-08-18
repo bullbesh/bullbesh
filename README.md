@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Chess App with Kivy in November of 2020 and Forgot to Make a Post About It Here](https://www.reddit.com/r/Python/comments/p6lizk/i_built_a_chess_app_with_kivy_in_november_of_2020/)
-- [Python Attribute Access Modifiers— AKA "Adding C#'s get; set; to Python attributes](https://www.reddit.com/r/Python/comments/p6jb5b/python_attribute_access_modifiers_aka_adding_cs/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/p6frmn/wednesday_daily_thread_beginner_questions/)
-- [String translate and maketrans methods | Pydon't](https://www.reddit.com/r/Python/comments/p6fjkw/string_translate_and_maketrans_methods_pydont/)
-- [Open source investment portfolio tool entirely written in Python](https://www.reddit.com/r/Python/comments/p6e5va/open_source_investment_portfolio_tool_entirely/)
+- [How to convert string to set in python](https://www.reddit.com/r/Python/comments/p6m5bc/how_to_convert_string_to_set_in_python/)
+- [Version management tools. Which one is your favorite?](https://www.reddit.com/r/Python/comments/p6lsx0/version_management_tools_which_one_is_your/)
+- [18 Common Python anti-patterns and worst practices I wish I had known before](https://www.reddit.com/r/Python/comments/p6lqyh/18_common_python_antipatterns_and_worst_practices/)
+- [Increase, Fruitfulness, Multiplication, and Celebration](https://www.reddit.com/r/Python/comments/p6lpjk/increase_fruitfulness_multiplication_and/)
+- [Learn about basics of Python Dictionary | Interactive Python Manim Animation | Python for Beginners](https://www.reddit.com/r/Python/comments/p6lnxp/learn_about_basics_of_python_dictionary/)
 <!-- BLOG-POST-LIST:END -->
