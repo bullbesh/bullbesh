@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LIHIM: A note-taking CLI tool glorified by added security and complexity for listing key-value pairs.](https://www.reddit.com/r/Python/comments/p6uf64/lihim_a_notetaking_cli_tool_glorified_by_added/)
+- [How to build your own AI art installation from scratch](https://www.reddit.com/r/Python/comments/p6u2zk/how_to_build_your_own_ai_art_installation_from/)
+- [I need help with this please anyone](https://www.reddit.com/r/Python/comments/p6tsn5/i_need_help_with_this_please_anyone/)
+- [Is Django/Flask enough for a modern web app?](https://www.reddit.com/r/Python/comments/p6tg0a/is_djangoflask_enough_for_a_modern_web_app/)
 - [how to store data into CSV file](https://www.reddit.com/r/Python/comments/p6t4k6/how_to_store_data_into_csv_file/)
-- [Simple Image encrypt/decrypt](https://www.reddit.com/r/Python/comments/p6soii/simple_image_encryptdecrypt/)
-- [Plotting Precipitation with Python, Pandas, and Matplotlib](https://www.reddit.com/r/Python/comments/p6sah5/plotting_precipitation_with_python_pandas_and/)
-- [Learning Python changed my life](https://www.reddit.com/r/Python/comments/p6pxko/learning_python_changed_my_life/)
-- [Fluid Simulation with Lattice Boltzmann Method](https://www.reddit.com/r/Python/comments/p6pvxr/fluid_simulation_with_lattice_boltzmann_method/)
 <!-- BLOG-POST-LIST:END -->
