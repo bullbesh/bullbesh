@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dataframe SQL: Python or SQL? Why Not Both?](https://www.reddit.com/r/Python/comments/p6vnw5/dataframe_sql_python_or_sql_why_not_both/)
+- [Facemesh using mediapipe and opencv python](https://www.reddit.com/r/Python/comments/p6vnjr/facemesh_using_mediapipe_and_opencv_python/)
+- [How much / What python knowledge do you need to have to get a junior job?](https://www.reddit.com/r/Python/comments/p6vhpj/how_much_what_python_knowledge_do_you_need_to/)
+- [Creating Python API Using FastAPI](https://www.reddit.com/r/Python/comments/p6va7m/creating_python_api_using_fastapi/)
 - [LIHIM: A note-taking CLI tool glorified by added security and complexity for listing key-value pairs.](https://www.reddit.com/r/Python/comments/p6uf64/lihim_a_notetaking_cli_tool_glorified_by_added/)
-- [How to build your own AI art installation from scratch](https://www.reddit.com/r/Python/comments/p6u2zk/how_to_build_your_own_ai_art_installation_from/)
-- [I need help with this please anyone](https://www.reddit.com/r/Python/comments/p6tsn5/i_need_help_with_this_please_anyone/)
-- [Is Django/Flask enough for a modern web app?](https://www.reddit.com/r/Python/comments/p6tg0a/is_djangoflask_enough_for_a_modern_web_app/)
-- [how to store data into CSV file](https://www.reddit.com/r/Python/comments/p6t4k6/how_to_store_data_into_csv_file/)
 <!-- BLOG-POST-LIST:END -->
