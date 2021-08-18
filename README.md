@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I'm seeking critique on the chosen technologies and GUI architecture for a FOSS note organization app I'm writing (pre-alpha)](https://www.reddit.com/r/Python/comments/p6mmbx/im_seeking_critique_on_the_chosen_technologies/)
+- [Malware analysis tool](https://www.reddit.com/r/Python/comments/p6mbme/malware_analysis_tool/)
 - [How to convert string to set in python](https://www.reddit.com/r/Python/comments/p6m5bc/how_to_convert_string_to_set_in_python/)
 - [Version management tools. Which one is your favorite?](https://www.reddit.com/r/Python/comments/p6lsx0/version_management_tools_which_one_is_your/)
 - [18 Common Python anti-patterns and worst practices I wish I had known before](https://www.reddit.com/r/Python/comments/p6lqyh/18_common_python_antipatterns_and_worst_practices/)
-- [Increase, Fruitfulness, Multiplication, and Celebration](https://www.reddit.com/r/Python/comments/p6lpjk/increase_fruitfulness_multiplication_and/)
-- [Learn about basics of Python Dictionary | Interactive Python Manim Animation | Python for Beginners](https://www.reddit.com/r/Python/comments/p6lnxp/learn_about_basics_of_python_dictionary/)
 <!-- BLOG-POST-LIST:END -->
