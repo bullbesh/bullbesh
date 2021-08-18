@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Attribute Access Modifiers— AKA "Adding C#'s get; set; to Python attributes](https://www.reddit.com/r/Python/comments/p6jb5b/python_attribute_access_modifiers_aka_adding_cs/)
+- [Suggest a name for my new app](https://www.reddit.com/r/Python/comments/p6j5ks/suggest_a_name_for_my_new_app/)
 - [Help in Python](https://www.reddit.com/r/Python/comments/p6horw/help_in_python/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/p6frmn/wednesday_daily_thread_beginner_questions/)
 - [String translate and maketrans methods | Pydon't](https://www.reddit.com/r/Python/comments/p6fjkw/string_translate_and_maketrans_methods_pydont/)
-- [Open source investment portfolio tool entirely written in Python](https://www.reddit.com/r/Python/comments/p6e5va/open_source_investment_portfolio_tool_entirely/)
-- [A simpler? Static site generator](https://www.reddit.com/r/Python/comments/p6d2ne/a_simpler_static_site_generator/)
 <!-- BLOG-POST-LIST:END -->
