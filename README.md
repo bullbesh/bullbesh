@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for algorithmic composition](https://www.reddit.com/r/Python/comments/p6wrx9/python_for_algorithmic_composition/)
+- [Added some recursion concepts using Python in DSA directory.. Do give it a look](https://www.reddit.com/r/Python/comments/p6wn3m/added_some_recursion_concepts_using_python_in_dsa/)
 - [Dataframe SQL: Python or SQL? Why Not Both?](https://www.reddit.com/r/Python/comments/p6vnw5/dataframe_sql_python_or_sql_why_not_both/)
 - [Facemesh using mediapipe and opencv python](https://www.reddit.com/r/Python/comments/p6vnjr/facemesh_using_mediapipe_and_opencv_python/)
-- [How much / What python knowledge do you need to have to get a junior job?](https://www.reddit.com/r/Python/comments/p6vhpj/how_much_what_python_knowledge_do_you_need_to/)
 - [Creating Python API Using FastAPI](https://www.reddit.com/r/Python/comments/p6va7m/creating_python_api_using_fastapi/)
-- [LIHIM: A note-taking CLI tool glorified by added security and complexity for listing key-value pairs.](https://www.reddit.com/r/Python/comments/p6uf64/lihim_a_notetaking_cli_tool_glorified_by_added/)
 <!-- BLOG-POST-LIST:END -->
