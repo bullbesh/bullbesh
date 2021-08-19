@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Basic Soundboard created with Python](https://www.reddit.com/r/Python/comments/p753lb/basic_soundboard_created_with_python/)
 - [Choices](https://www.reddit.com/r/Python/comments/p7456m/choices/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/p73h5t/thursday_daily_thread_python_careers_courses_and/)
 - [Speed Volume Adjuster](https://www.reddit.com/r/Python/comments/p733au/speed_volume_adjuster/)
 - [Exploratory Data Analysis in Python takes 5 Minutes](https://www.reddit.com/r/Python/comments/p726oz/exploratory_data_analysis_in_python_takes_5/)
-- [What are the specific use-cases for threading over using asyncio?](https://www.reddit.com/r/Python/comments/p726gm/what_are_the_specific_usecases_for_threading_over/)
 <!-- BLOG-POST-LIST:END -->
