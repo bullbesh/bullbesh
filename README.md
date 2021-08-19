@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Draw a robot in Python | Using turtle module](https://www.reddit.com/r/Python/comments/p7b3cl/draw_a_robot_in_python_using_turtle_module/)
+- [Mentorship conference for learning Python on 4 and 5 September](https://www.reddit.com/r/Python/comments/p7ar6x/mentorship_conference_for_learning_python_on_4/)
 - [MFW Conference 2021 (Mentorship for Women) to learn Python Programs](https://www.reddit.com/r/Python/comments/p7ak9g/mfw_conference_2021_mentorship_for_women_to_learn/)
 - [ParselTongue : We Speak Python](https://www.reddit.com/r/Python/comments/p7ad6d/parseltongue_we_speak_python/)
 - [GIS analyst/ developer --> non-GIS data analyst/ developer](https://www.reddit.com/r/Python/comments/p79ly9/gis_analyst_developer_nongis_data_analyst/)
-- [Nice one, post was removed because it wasn't "relevant"? Oh well, any enthusiasm I had for Python is completely gone now.](https://www.reddit.com/r/Python/comments/p79lc3/nice_one_post_was_removed_because_it_wasnt/)
-- [Here's how I built a simple Sudoku Solver using Backtracking in Python!](https://www.reddit.com/r/Python/comments/p78oso/heres_how_i_built_a_simple_sudoku_solver_using/)
 <!-- BLOG-POST-LIST:END -->
