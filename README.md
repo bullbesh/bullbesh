@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Basic Soundboard created with Python](https://www.reddit.com/r/Python/comments/p753lb/basic_soundboard_created_with_python/)
-- [Choices](https://www.reddit.com/r/Python/comments/p7456m/choices/)
+- [Programmer's guide to Python, learn almost everything in python.](https://www.reddit.com/r/Python/comments/p76m7o/programmers_guide_to_python_learn_almost/)
+- [Basic Soundboard created with Python](https://www.reddit.com/r/Python/comments/p769w5/basic_soundboard_created_with_python/)
+- [Python Mutable vs Immutable: Learn with Realtime example | Tutorial](https://www.reddit.com/r/Python/comments/p769re/python_mutable_vs_immutable_learn_with_realtime/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/p73h5t/thursday_daily_thread_python_careers_courses_and/)
 - [Speed Volume Adjuster](https://www.reddit.com/r/Python/comments/p733au/speed_volume_adjuster/)
-- [Exploratory Data Analysis in Python takes 5 Minutes](https://www.reddit.com/r/Python/comments/p726oz/exploratory_data_analysis_in_python_takes_5/)
 <!-- BLOG-POST-LIST:END -->
