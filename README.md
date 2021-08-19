@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python web framework for commercial use?](https://www.reddit.com/r/Python/comments/p7j3t1/python_web_framework_for_commercial_use/)
+- [I created a Start Xorg Script in Python](https://www.reddit.com/r/Python/comments/p7j2uz/i_created_a_start_xorg_script_in_python/)
+- [Google Open-Sources Its Data Validation Tool (DVT), A Python CLI Tool That Provides An Automated And Repeatable Solution For Validation Across Different Environments](https://www.reddit.com/r/Python/comments/p7j26z/google_opensources_its_data_validation_tool_dvt_a/)
+- [HOE TO GET STARTED WITH KITE CONNECT?](https://www.reddit.com/r/Python/comments/p7j1uv/hoe_to_get_started_with_kite_connect/)
 - [3D Spinning Donut Tutorial](https://www.reddit.com/r/Python/comments/p7g4gf/3d_spinning_donut_tutorial/)
-- [Machine Learning Ensemble Pipeline in Python](https://www.reddit.com/r/Python/comments/p7fvzp/machine_learning_ensemble_pipeline_in_python/)
-- [Programming Helper - Any kind of help is welcomed! Including and not limited to Python.](https://www.reddit.com/r/Python/comments/p7c47f/programming_helper_any_kind_of_help_is_welcomed/)
-- [Draw a robot in Python | Using turtle module](https://www.reddit.com/r/Python/comments/p7b3cl/draw_a_robot_in_python_using_turtle_module/)
-- [MFW Conference 2021 (Mentorship for Women) to learn Python Programs](https://www.reddit.com/r/Python/comments/p7ak9g/mfw_conference_2021_mentorship_for_women_to_learn/)
 <!-- BLOG-POST-LIST:END -->
