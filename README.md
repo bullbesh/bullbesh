@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Programming Helper - Any kind of help is welcomed! Including and not limited to Python.](https://www.reddit.com/r/Python/comments/p7c47f/programming_helper_any_kind_of_help_is_welcomed/)
+- [How do I write a code of linear equation in python?](https://www.reddit.com/r/Python/comments/p7brep/how_do_i_write_a_code_of_linear_equation_in_python/)
 - [Draw a robot in Python | Using turtle module](https://www.reddit.com/r/Python/comments/p7b3cl/draw_a_robot_in_python_using_turtle_module/)
 - [Mentorship conference for learning Python on 4 and 5 September](https://www.reddit.com/r/Python/comments/p7ar6x/mentorship_conference_for_learning_python_on_4/)
 - [MFW Conference 2021 (Mentorship for Women) to learn Python Programs](https://www.reddit.com/r/Python/comments/p7ak9g/mfw_conference_2021_mentorship_for_women_to_learn/)
-- [ParselTongue : We Speak Python](https://www.reddit.com/r/Python/comments/p7ad6d/parseltongue_we_speak_python/)
-- [GIS analyst/ developer --> non-GIS data analyst/ developer](https://www.reddit.com/r/Python/comments/p79ly9/gis_analyst_developer_nongis_data_analyst/)
 <!-- BLOG-POST-LIST:END -->
