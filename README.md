@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Choices](https://www.reddit.com/r/Python/comments/p7456m/choices/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/p73h5t/thursday_daily_thread_python_careers_courses_and/)
+- [Speed Volume Adjuster](https://www.reddit.com/r/Python/comments/p733au/speed_volume_adjuster/)
 - [Exploratory Data Analysis in Python takes 5 Minutes](https://www.reddit.com/r/Python/comments/p726oz/exploratory_data_analysis_in_python_takes_5/)
 - [What are the specific use-cases for threading over using asyncio?](https://www.reddit.com/r/Python/comments/p726gm/what_are_the_specific_usecases_for_threading_over/)
-- [Announcing Library pydebugstring](https://www.reddit.com/r/Python/comments/p7087u/announcing_library_pydebugstring/)
-- [Started my first real Python project today. Went awfully, feel I didn't get anywhere and feel so demoralised](https://www.reddit.com/r/Python/comments/p703r7/started_my_first_real_python_project_today_went/)
-- [simulating a LIDAR sensor from scratch with python](https://www.reddit.com/r/Python/comments/p6zjb8/simulating_a_lidar_sensor_from_scratch_with_python/)
 <!-- BLOG-POST-LIST:END -->
