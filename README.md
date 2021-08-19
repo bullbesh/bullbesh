@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Where should I start?](https://www.reddit.com/r/Python/comments/p7l0bq/where_should_i_start/)
-- [Help with turtle](https://www.reddit.com/r/Python/comments/p7ky67/help_with_turtle/)
-- [Passing Query Parameters in FastAPI](https://www.reddit.com/r/Python/comments/p7kocu/passing_query_parameters_in_fastapi/)
+- [Python Competitions for Intermediate Level](https://www.reddit.com/r/Python/comments/p7q16c/python_competitions_for_intermediate_level/)
+- [Let's make this the first good resource about the class creation process.](https://www.reddit.com/r/Python/comments/p7nl4g/lets_make_this_the_first_good_resource_about_the/)
+- [Game Of Life - (pygame)](https://www.reddit.com/r/Python/comments/p7mhlc/game_of_life_pygame/)
 - [Any thoughts on Sourcery pro?](https://www.reddit.com/r/Python/comments/p7jhf6/any_thoughts_on_sourcery_pro/)
 - [Python web framework for commercial use?](https://www.reddit.com/r/Python/comments/p7j3t1/python_web_framework_for_commercial_use/)
 <!-- BLOG-POST-LIST:END -->
