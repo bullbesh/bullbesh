@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Programming Helper - Any kind of help is welcomed! Including and not limited to Python.](https://www.reddit.com/r/Python/comments/p7c47f/programming_helper_any_kind_of_help_is_welcomed/)
+- [Show me your Projects](https://www.reddit.com/r/Python/comments/p7fgp5/show_me_your_projects/)
 - [Draw a robot in Python | Using turtle module](https://www.reddit.com/r/Python/comments/p7b3cl/draw_a_robot_in_python_using_turtle_module/)
 - [MFW Conference 2021 (Mentorship for Women) to learn Python Programs](https://www.reddit.com/r/Python/comments/p7ak9g/mfw_conference_2021_mentorship_for_women_to_learn/)
 - [GIS analyst/ developer --> non-GIS data analyst/ developer](https://www.reddit.com/r/Python/comments/p79ly9/gis_analyst_developer_nongis_data_analyst/)
