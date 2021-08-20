@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created an image shuffler!](https://www.reddit.com/r/Python/comments/p8546y/i_created_an_image_shuffler/)
+- [Fastest method in Python to get unique values from list](https://www.reddit.com/r/Python/comments/p84mt1/fastest_method_in_python_to_get_unique_values/)
+- [Feodora - Script for resaving images with GUI V3 (python 3 and tkinter)](https://www.reddit.com/r/Python/comments/p84kq9/feodora_script_for_resaving_images_with_gui_v3/)
 - [I created simple temp-mail wrapper](https://www.reddit.com/r/Python/comments/p840k6/i_created_simple_tempmail_wrapper/)
 - [Translate a JSON file to multiple languages in python](https://www.reddit.com/r/Python/comments/p83k3m/translate_a_json_file_to_multiple_languages_in/)
-- [ktot: A simple, hotkeys-based time tracker](https://www.reddit.com/r/Python/comments/p81s1i/ktot_a_simple_hotkeysbased_time_tracker/)
-- [Performance Monitor](https://www.reddit.com/r/Python/comments/p7xjp0/performance_monitor/)
-- [Chocs - Building and testing AWS Lambda Rest API couldn't be simpler.](https://www.reddit.com/r/Python/comments/p7wpgi/chocs_building_and_testing_aws_lambda_rest_api/)
 <!-- BLOG-POST-LIST:END -->
