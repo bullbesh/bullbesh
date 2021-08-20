@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Abstract Factory in Python 3 with Generic Typing](https://www.reddit.com/r/Python/comments/p85ygh/abstract_factory_in_python_3_with_generic_typing/)
 - [I created an image shuffler!](https://www.reddit.com/r/Python/comments/p8546y/i_created_an_image_shuffler/)
 - [Fastest method in Python to get unique values from list](https://www.reddit.com/r/Python/comments/p84mt1/fastest_method_in_python_to_get_unique_values/)
 - [Feodora - Script for resaving images with GUI V3 (python 3 and tkinter)](https://www.reddit.com/r/Python/comments/p84kq9/feodora_script_for_resaving_images_with_gui_v3/)
 - [I created simple temp-mail wrapper](https://www.reddit.com/r/Python/comments/p840k6/i_created_simple_tempmail_wrapper/)
-- [Translate a JSON file to multiple languages in python](https://www.reddit.com/r/Python/comments/p83k3m/translate_a_json_file_to_multiple_languages_in/)
 <!-- BLOG-POST-LIST:END -->
