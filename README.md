@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [From .bin to .jpg convert](https://www.reddit.com/r/Python/comments/p8csvq/from_bin_to_jpg_convert/)
 - [GETTING STARTED WITH CONDA](https://www.reddit.com/r/Python/comments/p8bdk1/getting_started_with_conda/)
 - [borb - the pure python, open source, PDF engine](https://www.reddit.com/r/Python/comments/p8b7u6/borb_the_pure_python_open_source_pdf_engine/)
 - [Created a Piano Tiles Bot using Python. Link to repo is included below. GitHub account is @akkik04](https://www.reddit.com/r/Python/comments/p8aan5/created_a_piano_tiles_bot_using_python_link_to/)
 - [Created a gallery with Python (PyQt5)](https://www.reddit.com/r/Python/comments/p89ghq/created_a_gallery_with_python_pyqt5/)
-- [Visual-heavy article covering Shingling -> MinHash -> LSH in Python](https://www.reddit.com/r/Python/comments/p88rzv/visualheavy_article_covering_shingling_minhash/)
 <!-- BLOG-POST-LIST:END -->
