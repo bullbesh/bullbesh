@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Read and write in Excel with Python : beginners tutorial](https://www.reddit.com/r/Python/comments/p7vnh1/read_and_write_in_excel_with_python_beginners/)
+- [Hey everyone i have made a spotify playlist downloader pls feel free to check it out](https://www.reddit.com/r/Python/comments/p7vi44/hey_everyone_i_have_made_a_spotify_playlist/)
+- [Python and the PATH variable in Windows 10](https://www.reddit.com/r/Python/comments/p7v4po/python_and_the_path_variable_in_windows_10/)
 - [cx freeze - not loading images/gifs](https://www.reddit.com/r/Python/comments/p7uz5t/cx_freeze_not_loading_imagesgifs/)
 - [I created a A Desktop Environment Switcher for Linux using Python](https://www.reddit.com/r/Python/comments/p7u8tf/i_created_a_a_desktop_environment_switcher_for/)
-- [Implementing RSA from scratch in Python](https://www.reddit.com/r/Python/comments/p7tglv/implementing_rsa_from_scratch_in_python/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/p7qtgd/friday_daily_thread_free_chat_friday_daily_thread/)
-- [Python Competitions for Intermediate Level](https://www.reddit.com/r/Python/comments/p7q16c/python_competitions_for_intermediate_level/)
 <!-- BLOG-POST-LIST:END -->
