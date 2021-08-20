@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Mentorship opportunities](https://www.reddit.com/r/Python/comments/p81z40/mentorship_opportunities/)
+- [I created simple temp-mail wrapper](https://www.reddit.com/r/Python/comments/p840k6/i_created_simple_tempmail_wrapper/)
+- [Translate a JSON file to multiple languages in python](https://www.reddit.com/r/Python/comments/p83k3m/translate_a_json_file_to_multiple_languages_in/)
 - [ktot: A simple, hotkeys-based time tracker](https://www.reddit.com/r/Python/comments/p81s1i/ktot_a_simple_hotkeysbased_time_tracker/)
 - [Performance Monitor](https://www.reddit.com/r/Python/comments/p7xjp0/performance_monitor/)
 - [Chocs - Building and testing AWS Lambda Rest API couldn't be simpler.](https://www.reddit.com/r/Python/comments/p7wpgi/chocs_building_and_testing_aws_lambda_rest_api/)
-- [Read and write in Excel with Python : beginners tutorial](https://www.reddit.com/r/Python/comments/p7vnh1/read_and_write_in_excel_with_python_beginners/)
 <!-- BLOG-POST-LIST:END -->
