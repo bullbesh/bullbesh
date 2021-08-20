@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NumPy For Scientific Computation With Python [Free Course] - Would love to hear your feedback on the overall course experience!](https://www.reddit.com/r/Python/comments/p87nal/numpy_for_scientific_computation_with_python_free/)
+- [I made a website to scientifically and comprehensively find the best Reviewbrah video.](https://www.reddit.com/r/Python/comments/p87k5y/i_made_a_website_to_scientifically_and/)
 - [Just made a video about unit testing in python(unittest). Would appreciate some feedback on it:)](https://www.reddit.com/r/Python/comments/p877ee/just_made_a_video_about_unit_testing_in/)
 - [Best online programs for learning Python?](https://www.reddit.com/r/Python/comments/p86zba/best_online_programs_for_learning_python/)
 - [Anomaly detection in Python using the pyod library](https://www.reddit.com/r/Python/comments/p866ep/anomaly_detection_in_python_using_the_pyod_library/)
-- [Automation with python in a nutshell](https://www.reddit.com/r/Python/comments/p865j7/automation_with_python_in_a_nutshell/)
-- [Abstract Factory in Python 3 with Generic Typing](https://www.reddit.com/r/Python/comments/p85ygh/abstract_factory_in_python_3_with_generic_typing/)
 <!-- BLOG-POST-LIST:END -->
