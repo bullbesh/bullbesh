@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a handwritten number recognizer](https://www.reddit.com/r/Python/comments/p8fxs7/i_made_a_handwritten_number_recognizer/)
+- [this is my home in my game, it may not look to good but it still feels like home :)](https://www.reddit.com/r/Python/comments/p8fdn5/this_is_my_home_in_my_game_it_may_not_look_to/)
 - [Steganography encoder/decoder with integrated encryption in python](https://www.reddit.com/r/Python/comments/p8egii/steganography_encoderdecoder_with_integrated/)
 - [Solving peg solitaire in python](https://www.reddit.com/r/Python/comments/p8djlz/solving_peg_solitaire_in_python/)
 - [Rock Paper Scissors game with GUI made with Python](https://www.reddit.com/r/Python/comments/p8d83r/rock_paper_scissors_game_with_gui_made_with_python/)
-- [GETTING STARTED WITH CONDA](https://www.reddit.com/r/Python/comments/p8bdk1/getting_started_with_conda/)
-- [borb - the pure python, open source, PDF engine](https://www.reddit.com/r/Python/comments/p8b7u6/borb_the_pure_python_open_source_pdf_engine/)
 <!-- BLOG-POST-LIST:END -->
