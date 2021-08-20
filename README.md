@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Steganography encoder/decoder with integrated encryption in python](https://www.reddit.com/r/Python/comments/p8egii/steganography_encoderdecoder_with_integrated/)
 - [Solving peg solitaire in python](https://www.reddit.com/r/Python/comments/p8djlz/solving_peg_solitaire_in_python/)
 - [Rock Paper Scissors game with GUI made with Python](https://www.reddit.com/r/Python/comments/p8d83r/rock_paper_scissors_game_with_gui_made_with_python/)
 - [GETTING STARTED WITH CONDA](https://www.reddit.com/r/Python/comments/p8bdk1/getting_started_with_conda/)
 - [borb - the pure python, open source, PDF engine](https://www.reddit.com/r/Python/comments/p8b7u6/borb_the_pure_python_open_source_pdf_engine/)
-- [Created a Piano Tiles Bot using Python. Link to repo is included below. GitHub account is @akkik04](https://www.reddit.com/r/Python/comments/p8aan5/created_a_piano_tiles_bot_using_python_link_to/)
 <!-- BLOG-POST-LIST:END -->
