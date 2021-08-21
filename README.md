@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Question about courses on Image recognition via Python](https://www.reddit.com/r/Python/comments/p8mxfa/question_about_courses_on_image_recognition_via/)
+- [I know Python basics and now want want to learn Tkinter, what is the best way to learn it for free?](https://www.reddit.com/r/Python/comments/p8mgc9/i_know_python_basics_and_now_want_want_to_learn/)
 - [Remove/Mue audio from video](https://www.reddit.com/r/Python/comments/p8lx5z/removemue_audio_from_video/)
 - [Chem++ (Chemistry Aid)](https://www.reddit.com/r/Python/comments/p8lbw1/chem_chemistry_aid/)
 - [Creating Fake Data Using Python](https://www.reddit.com/r/Python/comments/p8l2ia/creating_fake_data_using_python/)
-- [Are there any discord servers I can join for discussion about python? If I create one for discussing programming anyone interested to join?](https://www.reddit.com/r/Python/comments/p8jsid/are_there_any_discord_servers_i_can_join_for/)
-- [Pygments Monokai Theme - Want to use the colors in Xterm](https://www.reddit.com/r/Python/comments/p8jegg/pygments_monokai_theme_want_to_use_the_colors_in/)
 <!-- BLOG-POST-LIST:END -->
