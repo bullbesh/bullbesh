@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [A Data-Centric Introduction to Computing (Pyret and Python) | Hacker News](https://www.reddit.com/r/Python/comments/p8z97g/a_datacentric_introduction_to_computing_pyret_and/)
-- [A Reddit bot to return MMA fighter statistics](https://www.reddit.com/r/Python/comments/p8z7jo/a_reddit_bot_to_return_mma_fighter_statistics/)
 - [Python without a CS Degree](https://www.reddit.com/r/Python/comments/p8yj2q/python_without_a_cs_degree/)
 - [Not Another Python Blackjack](https://www.reddit.com/r/Python/comments/p8yb19/not_another_python_blackjack/)
 - [Zoofs, a feature selection Library](https://www.reddit.com/r/Python/comments/p8xs2j/zoofs_a_feature_selection_library/)
+- [Quiddler (Solo / Multiplayer) Card Game in Python](https://www.reddit.com/r/Python/comments/p8xepg/quiddler_solo_multiplayer_card_game_in_python/)
 <!-- BLOG-POST-LIST:END -->
