@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I started coding yesterday with a 30min tutorial from yt, is this good considering im new? it should be a registration for a website.](https://www.reddit.com/r/Python/comments/p8qsto/i_started_coding_yesterday_with_a_30min_tutorial/)
+- [PyLibreSSL -- CFFI bindings to LibreSSL](https://www.reddit.com/r/Python/comments/p8qrp6/pylibressl_cffi_bindings_to_libressl/)
 - [I made a tutorial how to create fractals using L-system (A Lindenmayer system)](https://www.reddit.com/r/Python/comments/p8pspp/i_made_a_tutorial_how_to_create_fractals_using/)
 - [I made a discord bot (in Python3.9) that follows stock trends on /r/wallstreetbets, and you can use it too.](https://www.reddit.com/r/Python/comments/p8os0b/i_made_a_discord_bot_in_python39_that_follows/)
 - [Anyscale - Introducing Ray Lightning: Multi-node PyTorch Lightning training made easy](https://www.reddit.com/r/Python/comments/p8opno/anyscale_introducing_ray_lightning_multinode/)
-- [Create an install package for Python Apps](https://www.reddit.com/r/Python/comments/p8nypn/create_an_install_package_for_python_apps/)
-- [I made an nhentai discord bot with Python!](https://www.reddit.com/r/Python/comments/p8nxtx/i_made_an_nhentai_discord_bot_with_python/)
 <!-- BLOG-POST-LIST:END -->
