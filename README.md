@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Structures and Algos](https://www.reddit.com/r/Python/comments/p8igwy/data_structures_and_algos/)
 - [Moviesdownloader](https://www.reddit.com/r/Python/comments/p8i36d/moviesdownloader/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/p8gz8n/saturday_daily_thread_resource_request_and/)
 - [What incentives are there for a language author to have it be popular?](https://www.reddit.com/r/Python/comments/p8gfkk/what_incentives_are_there_for_a_language_author/)
 - [I made a handwritten number recognizer](https://www.reddit.com/r/Python/comments/p8fxs7/i_made_a_handwritten_number_recognizer/)
+- [this is my home in my game, it may not look to good but it still feels like home :)](https://www.reddit.com/r/Python/comments/p8fdn5/this_is_my_home_in_my_game_it_may_not_look_to/)
 <!-- BLOG-POST-LIST:END -->
