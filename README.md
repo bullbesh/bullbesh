@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to end a loop with return?](https://www.reddit.com/r/Python/comments/p8rzob/how_to_end_a_loop_with_return/)
+- [I know the basics of python now I want to learn pygame what is the best way to learn it](https://www.reddit.com/r/Python/comments/p8rswp/i_know_the_basics_of_python_now_i_want_to_learn/)
+- [Simple way to train Transformers models](https://www.reddit.com/r/Python/comments/p8rfei/simple_way_to_train_transformers_models/)
 - [I started coding yesterday with a 30min tutorial from yt, is this good considering im new? it should be a registration for a website.](https://www.reddit.com/r/Python/comments/p8qsto/i_started_coding_yesterday_with_a_30min_tutorial/)
 - [PyLibreSSL -- CFFI bindings to LibreSSL](https://www.reddit.com/r/Python/comments/p8qrp6/pylibressl_cffi_bindings_to_libressl/)
-- [I made a tutorial how to create fractals using L-system (A Lindenmayer system)](https://www.reddit.com/r/Python/comments/p8pspp/i_made_a_tutorial_how_to_create_fractals_using/)
-- [I made a discord bot (in Python3.9) that follows stock trends on /r/wallstreetbets, and you can use it too.](https://www.reddit.com/r/Python/comments/p8os0b/i_made_a_discord_bot_in_python39_that_follows/)
-- [Anyscale - Introducing Ray Lightning: Multi-node PyTorch Lightning training made easy](https://www.reddit.com/r/Python/comments/p8opno/anyscale_introducing_ray_lightning_multinode/)
 <!-- BLOG-POST-LIST:END -->
