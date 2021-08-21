@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to end a loop with return?](https://www.reddit.com/r/Python/comments/p8rzob/how_to_end_a_loop_with_return/)
-- [I know the basics of python now I want to learn pygame what is the best way to learn it](https://www.reddit.com/r/Python/comments/p8rswp/i_know_the_basics_of_python_now_i_want_to_learn/)
-- [Simple way to train Transformers models](https://www.reddit.com/r/Python/comments/p8rfei/simple_way_to_train_transformers_models/)
-- [I started coding yesterday with a 30min tutorial from yt, is this good considering im new? it should be a registration for a website.](https://www.reddit.com/r/Python/comments/p8qsto/i_started_coding_yesterday_with_a_30min_tutorial/)
-- [PyLibreSSL -- CFFI bindings to LibreSSL](https://www.reddit.com/r/Python/comments/p8qrp6/pylibressl_cffi_bindings_to_libressl/)
+- [How to...](https://www.reddit.com/r/Python/comments/p8taqb/how_to/)
+- [Made a Code that Returns the Average Price of an Item on Ebay!](https://www.reddit.com/r/Python/comments/p8stxb/made_a_code_that_returns_the_average_price_of_an/)
+- [UnicodeDecodeError. After i ran python manage.py. on my termux terminal.](https://www.reddit.com/r/Python/comments/p8soj9/unicodedecodeerror_after_i_ran_python_managepy_on/)
+- [Learn about basic of Python Dictionary | Explained using Interactive Python Manim Animation](https://www.reddit.com/r/Python/comments/p8sob5/learn_about_basic_of_python_dictionary_explained/)
+- [Classes and OOP](https://www.reddit.com/r/Python/comments/p8so4a/classes_and_oop/)
 <!-- BLOG-POST-LIST:END -->
