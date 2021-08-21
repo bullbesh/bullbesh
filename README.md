@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a discord bot (in Python3.9) that follows stock trends on /r/wallstreetbets, and you can use it too.](https://www.reddit.com/r/Python/comments/p8os0b/i_made_a_discord_bot_in_python39_that_follows/)
+- [Anyscale - Introducing Ray Lightning: Multi-node PyTorch Lightning training made easy](https://www.reddit.com/r/Python/comments/p8opno/anyscale_introducing_ray_lightning_multinode/)
 - [Create an install package for Python Apps](https://www.reddit.com/r/Python/comments/p8nypn/create_an_install_package_for_python_apps/)
 - [I made an nhentai discord bot with Python!](https://www.reddit.com/r/Python/comments/p8nxtx/i_made_an_nhentai_discord_bot_with_python/)
 - [RillRate - real-time UI for Python bots (embedded web-dashboard with live controls)](https://www.reddit.com/r/Python/comments/p8nooy/rillrate_realtime_ui_for_python_bots_embedded/)
-- [Question about courses on Image recognition via Python](https://www.reddit.com/r/Python/comments/p8mxfa/question_about_courses_on_image_recognition_via/)
-- [I know Python basics and now want want to learn Tkinter, what is the best way to learn it for free?](https://www.reddit.com/r/Python/comments/p8mgc9/i_know_python_basics_and_now_want_want_to_learn/)
 <!-- BLOG-POST-LIST:END -->
