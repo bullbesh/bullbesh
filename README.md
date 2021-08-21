@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a tutorial how to create fractals using L-system (A Lindenmayer system)](https://www.reddit.com/r/Python/comments/p8pspp/i_made_a_tutorial_how_to_create_fractals_using/)
 - [I made a discord bot (in Python3.9) that follows stock trends on /r/wallstreetbets, and you can use it too.](https://www.reddit.com/r/Python/comments/p8os0b/i_made_a_discord_bot_in_python39_that_follows/)
 - [Anyscale - Introducing Ray Lightning: Multi-node PyTorch Lightning training made easy](https://www.reddit.com/r/Python/comments/p8opno/anyscale_introducing_ray_lightning_multinode/)
 - [Create an install package for Python Apps](https://www.reddit.com/r/Python/comments/p8nypn/create_an_install_package_for_python_apps/)
 - [I made an nhentai discord bot with Python!](https://www.reddit.com/r/Python/comments/p8nxtx/i_made_an_nhentai_discord_bot_with_python/)
-- [RillRate - real-time UI for Python bots (embedded web-dashboard with live controls)](https://www.reddit.com/r/Python/comments/p8nooy/rillrate_realtime_ui_for_python_bots_embedded/)
 <!-- BLOG-POST-LIST:END -->
