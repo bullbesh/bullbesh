@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to...](https://www.reddit.com/r/Python/comments/p8taqb/how_to/)
-- [Made a Code that Returns the Average Price of an Item on Ebay!](https://www.reddit.com/r/Python/comments/p8stxb/made_a_code_that_returns_the_average_price_of_an/)
-- [UnicodeDecodeError. After i ran python manage.py. on my termux terminal.](https://www.reddit.com/r/Python/comments/p8soj9/unicodedecodeerror_after_i_ran_python_managepy_on/)
-- [Learn about basic of Python Dictionary | Explained using Interactive Python Manim Animation](https://www.reddit.com/r/Python/comments/p8sob5/learn_about_basic_of_python_dictionary_explained/)
-- [Classes and OOP](https://www.reddit.com/r/Python/comments/p8so4a/classes_and_oop/)
+- [How to spam a company’s email account? (Read before hating)](https://www.reddit.com/r/Python/comments/p8ubjr/how_to_spam_a_companys_email_account_read_before/)
+- [Guide to Hyperparameter Tuning and Optimization with Python](https://www.reddit.com/r/Python/comments/p8ub0n/guide_to_hyperparameter_tuning_and_optimization/)
+- [ghfetch - a *fetch-style GitHub personal README generator](https://www.reddit.com/r/Python/comments/p8tucy/ghfetch_a_fetchstyle_github_personal_readme/)
+- [Will SmartPy establish Python in crypto?](https://www.reddit.com/r/Python/comments/p8tovp/will_smartpy_establish_python_in_crypto/)
+- [OC VaxPass DEMO - Make your own Vaccination Passport - Written in Python3 using Flask](https://www.reddit.com/r/Python/comments/p8til7/oc_vaxpass_demo_make_your_own_vaccination/)
 <!-- BLOG-POST-LIST:END -->
