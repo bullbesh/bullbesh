@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to spam a company’s email account? (Read before hating)](https://www.reddit.com/r/Python/comments/p8ubjr/how_to_spam_a_companys_email_account_read_before/)
-- [Guide to Hyperparameter Tuning and Optimization with Python](https://www.reddit.com/r/Python/comments/p8ub0n/guide_to_hyperparameter_tuning_and_optimization/)
+- [Parametrize unit tests from config files](https://www.reddit.com/r/Python/comments/p8vatf/parametrize_unit_tests_from_config_files/)
+- [I created a command line based Torrent streaming client using Python](https://www.reddit.com/r/Python/comments/p8v5b7/i_created_a_command_line_based_torrent_streaming/)
 - [ghfetch - a *fetch-style GitHub personal README generator](https://www.reddit.com/r/Python/comments/p8tucy/ghfetch_a_fetchstyle_github_personal_readme/)
-- [Will SmartPy establish Python in crypto?](https://www.reddit.com/r/Python/comments/p8tovp/will_smartpy_establish_python_in_crypto/)
-- [OC VaxPass DEMO - Make your own Vaccination Passport - Written in Python3 using Flask](https://www.reddit.com/r/Python/comments/p8til7/oc_vaxpass_demo_make_your_own_vaccination/)
+- [Made a Code that Returns the Average Price of an Item on Ebay!](https://www.reddit.com/r/Python/comments/p8stxb/made_a_code_that_returns_the_average_price_of_an/)
+- [Simple way to train Transformers models](https://www.reddit.com/r/Python/comments/p8rfei/simple_way_to_train_transformers_models/)
 <!-- BLOG-POST-LIST:END -->
