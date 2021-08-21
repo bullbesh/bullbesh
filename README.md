@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Not Another Python Blackjack](https://www.reddit.com/r/Python/comments/p8yb19/not_another_python_blackjack/)
+- [Zoofs, a feature selection Library](https://www.reddit.com/r/Python/comments/p8xs2j/zoofs_a_feature_selection_library/)
 - [Quiddler (Solo / Multiplayer) Card Game in Python](https://www.reddit.com/r/Python/comments/p8xepg/quiddler_solo_multiplayer_card_game_in_python/)
 - [Python Devs who Use Vim, Share Your Expertise!](https://www.reddit.com/r/Python/comments/p8xdpf/python_devs_who_use_vim_share_your_expertise/)
 - [Made Telegram Bot For Reading xkcd Comics](https://www.reddit.com/r/Python/comments/p8x6pw/made_telegram_bot_for_reading_xkcd_comics/)
-- [gslides - programmatically create charts, tables and slides in Google slides](https://www.reddit.com/r/Python/comments/p8w7xa/gslides_programmatically_create_charts_tables_and/)
-- [Join the Python Discord as they Introduce and Walk Through PEP 636--Structural Pattern Matching--this Sunday, August 22 at 1500 UTC](https://www.reddit.com/r/Python/comments/p8vwda/join_the_python_discord_as_they_introduce_and/)
 <!-- BLOG-POST-LIST:END -->
