@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [gslides - programmatically create charts, tables and slides in Google slides](https://www.reddit.com/r/Python/comments/p8w7xa/gslides_programmatically_create_charts_tables_and/)
+- [Join the Python Discord as they Introduce and Walk Through PEP 636--Structural Pattern Matching--this Sunday, August 22 at 1500 UTC](https://www.reddit.com/r/Python/comments/p8vwda/join_the_python_discord_as_they_introduce_and/)
 - [Parametrize unit tests from config files](https://www.reddit.com/r/Python/comments/p8vatf/parametrize_unit_tests_from_config_files/)
 - [I created a command line based Torrent streaming client using Python](https://www.reddit.com/r/Python/comments/p8v5b7/i_created_a_command_line_based_torrent_streaming/)
 - [ghfetch - a *fetch-style GitHub personal README generator](https://www.reddit.com/r/Python/comments/p8tucy/ghfetch_a_fetchstyle_github_personal_readme/)
-- [Made a Code that Returns the Average Price of an Item on Ebay!](https://www.reddit.com/r/Python/comments/p8stxb/made_a_code_that_returns_the_average_price_of_an/)
-- [Simple way to train Transformers models](https://www.reddit.com/r/Python/comments/p8rfei/simple_way_to_train_transformers_models/)
 <!-- BLOG-POST-LIST:END -->
