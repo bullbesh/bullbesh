@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Are there any discord servers I can join for discussion about python? If I create one for discussing programming anyone interested to join?](https://www.reddit.com/r/Python/comments/p8jsid/are_there_any_discord_servers_i_can_join_for/)
-- [Give me python automation ideas and/or app ideas](https://www.reddit.com/r/Python/comments/p8jntx/give_me_python_automation_ideas_andor_app_ideas/)
 - [Pygments Monokai Theme - Want to use the colors in Xterm](https://www.reddit.com/r/Python/comments/p8jegg/pygments_monokai_theme_want_to_use_the_colors_in/)
 - [Moviesdownloader](https://www.reddit.com/r/Python/comments/p8i36d/moviesdownloader/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/p8gz8n/saturday_daily_thread_resource_request_and/)
+- [What incentives are there for a language author to have it be popular?](https://www.reddit.com/r/Python/comments/p8gfkk/what_incentives_are_there_for_a_language_author/)
 <!-- BLOG-POST-LIST:END -->
