@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I've been maintaining a minimal Flask REST API to serve as a template for new projects. I've now added Flask 2 support among other things](https://www.reddit.com/r/Python/comments/p9he42/ive_been_maintaining_a_minimal_flask_rest_api_to/)
+- [A real-time tech course finder, created using Elasticsearch, Python, React+Redux, Docker, and Kubernetes.](https://www.reddit.com/r/Python/comments/p9gpoa/a_realtime_tech_course_finder_created_using/)
 - [Draw a robot in python](https://www.reddit.com/r/Python/comments/p9fg9l/draw_a_robot_in_python/)
 - [Grimoire: Create Interactive Fiction as Hyperlinked Html](https://www.reddit.com/r/Python/comments/p9f2dr/grimoire_create_interactive_fiction_as/)
 - [Visualizing Earthquake Data Using Matplotlib In Python](https://www.reddit.com/r/Python/comments/p9e4cb/visualizing_earthquake_data_using_matplotlib_in/)
-- [Python makes it easy to code a Telegram bot with pyTelegramBotAPI](https://www.reddit.com/r/Python/comments/p9dhmi/python_makes_it_easy_to_code_a_telegram_bot_with/)
-- [Simple way to train a text classifier](https://www.reddit.com/r/Python/comments/p9dd4d/simple_way_to_train_a_text_classifier/)
 <!-- BLOG-POST-LIST:END -->
