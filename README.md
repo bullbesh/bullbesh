@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Draw a robot in python](https://www.reddit.com/r/Python/comments/p9fg9l/draw_a_robot_in_python/)
+- [Grimoire: Create Interactive Fiction as Hyperlinked Html](https://www.reddit.com/r/Python/comments/p9f2dr/grimoire_create_interactive_fiction_as/)
 - [Visualizing Earthquake Data Using Matplotlib In Python](https://www.reddit.com/r/Python/comments/p9e4cb/visualizing_earthquake_data_using_matplotlib_in/)
 - [Python makes it easy to code a Telegram bot with pyTelegramBotAPI](https://www.reddit.com/r/Python/comments/p9dhmi/python_makes_it_easy_to_code_a_telegram_bot_with/)
 - [Simple way to train a text classifier](https://www.reddit.com/r/Python/comments/p9dd4d/simple_way_to_train_a_text_classifier/)
-- [Network scanner : Discover all ip address on your network](https://www.reddit.com/r/Python/comments/p9cf54/network_scanner_discover_all_ip_address_on_your/)
-- [What comes after learning Python basics](https://www.reddit.com/r/Python/comments/p9ajhl/what_comes_after_learning_python_basics/)
 <!-- BLOG-POST-LIST:END -->
