@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I just found this and is too overwhelming -and a crime- not to share…](https://www.reddit.com/r/Python/comments/p92x55/i_just_found_this_and_is_too_overwhelming_and_a/)
+- [Voice Assistant Bot with Google for discord](https://www.reddit.com/r/Python/comments/p93iil/voice_assistant_bot_with_google_for_discord/)
+- [Exploring NLP Topic Modeling with LDA using Python GENSIM and NLTK](https://www.reddit.com/r/Python/comments/p93atk/exploring_nlp_topic_modeling_with_lda_using/)
 - [RSS feed reader in terminal with multiple feed urls support](https://www.reddit.com/r/Python/comments/p92k66/rss_feed_reader_in_terminal_with_multiple_feed/)
 - [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/p9250g/sunday_daily_thread_whats_everyone_working_on/)
 - [Is there any data that shows the percentage of python users use which version?](https://www.reddit.com/r/Python/comments/p91lf4/is_there_any_data_that_shows_the_percentage_of/)
-- [A Data-Centric Introduction to Computing (Pyret and Python) | Hacker News](https://www.reddit.com/r/Python/comments/p8z97g/a_datacentric_introduction_to_computing_pyret_and/)
 <!-- BLOG-POST-LIST:END -->
