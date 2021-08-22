@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [multiprocessing](https://www.reddit.com/r/Python/comments/p9cxdc/multiprocessing/)
+- [Visualizing Earthquake Data Using Matplotlib In Python](https://www.reddit.com/r/Python/comments/p9e4cb/visualizing_earthquake_data_using_matplotlib_in/)
+- [Python makes it easy to code a Telegram bot with pyTelegramBotAPI](https://www.reddit.com/r/Python/comments/p9dhmi/python_makes_it_easy_to_code_a_telegram_bot_with/)
+- [Simple way to train a text classifier](https://www.reddit.com/r/Python/comments/p9dd4d/simple_way_to_train_a_text_classifier/)
 - [Network scanner : Discover all ip address on your network](https://www.reddit.com/r/Python/comments/p9cf54/network_scanner_discover_all_ip_address_on_your/)
-- [A bit of fun hhhhh](https://www.reddit.com/r/Python/comments/p9c638/a_bit_of_fun_hhhhh/)
 - [What comes after learning Python basics](https://www.reddit.com/r/Python/comments/p9ajhl/what_comes_after_learning_python_basics/)
-- [Sorting Algorithm Visualizer using Tkinter](https://www.reddit.com/r/Python/comments/p99d3a/sorting_algorithm_visualizer_using_tkinter/)
 <!-- BLOG-POST-LIST:END -->
