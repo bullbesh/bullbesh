@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Pig Latin Translator](https://www.reddit.com/r/Python/comments/p99jrr/python_pig_latin_translator/)
 - [Sorting Algorithm Visualizer using Tkinter](https://www.reddit.com/r/Python/comments/p99d3a/sorting_algorithm_visualizer_using_tkinter/)
 - [Bash like command line shell ? Only Xonsh ?](https://www.reddit.com/r/Python/comments/p996ud/bash_like_command_line_shell_only_xonsh/)
 - [Heroku application error](https://www.reddit.com/r/Python/comments/p98zax/heroku_application_error/)
 - [When Excel fails you. How to load 2.8 million records with Pandas](https://www.reddit.com/r/Python/comments/p98nmh/when_excel_fails_you_how_to_load_28_million/)
-- [Qutebrowser, a web browser assembled with Python](https://www.reddit.com/r/Python/comments/p985j2/qutebrowser_a_web_browser_assembled_with_python/)
 <!-- BLOG-POST-LIST:END -->
