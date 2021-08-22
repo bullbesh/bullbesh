@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [When Excel fails you. How to load 2.8 million records with Pandas](https://www.reddit.com/r/Python/comments/p98nmh/when_excel_fails_you_how_to_load_28_million/)
+- [Qutebrowser, a web browser assembled with Python](https://www.reddit.com/r/Python/comments/p985j2/qutebrowser_a_web_browser_assembled_with_python/)
 - [Right Triangle variable solver.](https://www.reddit.com/r/Python/comments/p97zen/right_triangle_variable_solver/)
 - [Generate canvas maps with html5 .toDataURL and chromedriver](https://www.reddit.com/r/Python/comments/p976gg/generate_canvas_maps_with_html5_todataurl_and/)
 - [Annoying Tkinter app. Take off one head, two shall take its place](https://www.reddit.com/r/Python/comments/p95rvd/annoying_tkinter_app_take_off_one_head_two_shall/)
-- [Python beginner here](https://www.reddit.com/r/Python/comments/p94sui/python_beginner_here/)
-- [Create content rich slides in Jupyter](https://www.reddit.com/r/Python/comments/p93u9r/create_content_rich_slides_in_jupyter/)
 <!-- BLOG-POST-LIST:END -->
