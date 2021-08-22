@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sorting Algorithm Visualizer using Tkinter](https://www.reddit.com/r/Python/comments/p99d3a/sorting_algorithm_visualizer_using_tkinter/)
+- [Bash like command line shell ? Only Xonsh ?](https://www.reddit.com/r/Python/comments/p996ud/bash_like_command_line_shell_only_xonsh/)
+- [Heroku application error](https://www.reddit.com/r/Python/comments/p98zax/heroku_application_error/)
 - [When Excel fails you. How to load 2.8 million records with Pandas](https://www.reddit.com/r/Python/comments/p98nmh/when_excel_fails_you_how_to_load_28_million/)
 - [Qutebrowser, a web browser assembled with Python](https://www.reddit.com/r/Python/comments/p985j2/qutebrowser_a_web_browser_assembled_with_python/)
-- [Right Triangle variable solver.](https://www.reddit.com/r/Python/comments/p97zen/right_triangle_variable_solver/)
-- [Generate canvas maps with html5 .toDataURL and chromedriver](https://www.reddit.com/r/Python/comments/p976gg/generate_canvas_maps_with_html5_todataurl_and/)
-- [Annoying Tkinter app. Take off one head, two shall take its place](https://www.reddit.com/r/Python/comments/p95rvd/annoying_tkinter_app_take_off_one_head_two_shall/)
 <!-- BLOG-POST-LIST:END -->
