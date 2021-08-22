@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Annoying Tkinter app. Take off one head, two shall take its place](https://www.reddit.com/r/Python/comments/p95rvd/annoying_tkinter_app_take_off_one_head_two_shall/)
 - [Python beginner here](https://www.reddit.com/r/Python/comments/p94sui/python_beginner_here/)
 - [Create content rich slides in Jupyter](https://www.reddit.com/r/Python/comments/p93u9r/create_content_rich_slides_in_jupyter/)
 - [Voice Assistant Bot with Google for discord](https://www.reddit.com/r/Python/comments/p93iil/voice_assistant_bot_with_google_for_discord/)
 - [Exploring NLP Topic Modeling with LDA using Python GENSIM and NLTK](https://www.reddit.com/r/Python/comments/p93atk/exploring_nlp_topic_modeling_with_lda_using/)
-- [RSS feed reader in terminal with multiple feed urls support](https://www.reddit.com/r/Python/comments/p92k66/rss_feed_reader_in_terminal_with_multiple_feed/)
 <!-- BLOG-POST-LIST:END -->
