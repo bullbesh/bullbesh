@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Got locked out for trolling on Twitter](https://www.reddit.com/r/Python/comments/pa9kh0/got_locked_out_for_trolling_on_twitter/)
+- [Decided to try my hand at creating a python series dedicated to poker](https://www.reddit.com/r/Python/comments/pabbeb/decided_to_try_my_hand_at_creating_a_python/)
 - [I made a speech recognizer library that combines wakeword detection, voice activity detection, and speech recognition.](https://www.reddit.com/r/Python/comments/pa2ymg/i_made_a_speech_recognizer_library_that_combines/)
 - [A PyQt5 application for managing your photos. Github Project link and screenshot in comments](https://www.reddit.com/r/Python/comments/pa2lzm/a_pyqt5_application_for_managing_your_photos/)
 - [Name libraries](https://www.reddit.com/r/Python/comments/pa2ayo/name_libraries/)
