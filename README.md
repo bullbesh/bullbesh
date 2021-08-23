@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Good resources for getting started with ML](https://www.reddit.com/r/Python/comments/p9t1no/good_resources_for_getting_started_with_ml/)
+- [Python for Atom Probe Tomography](https://www.reddit.com/r/Python/comments/p9sv4j/python_for_atom_probe_tomography/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/p9o1s2/monday_daily_thread_project_ideas/)
 - [University of Tübingen Researchers Open-Source ‘CARLA’, A Python Library for Benchmarking Counterfactual Explanation Methods Across Data Sets and Machine Learning Models](https://www.reddit.com/r/Python/comments/p9nv4a/university_of_tübingen_researchers_opensource/)
 - [Writing your First Distributed Python Application with Ray (without multiprocessing)](https://www.reddit.com/r/Python/comments/p9ni8m/writing_your_first_distributed_python_application/)
-- [dingsound: An oven timer 'ding' sound once your code finishes processing! (Yes, I'm serious)](https://www.reddit.com/r/Python/comments/p9j7pd/dingsound_an_oven_timer_ding_sound_once_your_code/)
-- [Install Python packages from git repository with pip](https://www.reddit.com/r/Python/comments/p9j4g1/install_python_packages_from_git_repository_with/)
 <!-- BLOG-POST-LIST:END -->
