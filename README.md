@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a speech recognizer library that combines wakeword detection, voice activity detection, and speech recognition.](https://www.reddit.com/r/Python/comments/pa2ymg/i_made_a_speech_recognizer_library_that_combines/)
+- [A PyQt5 application for managing your photos. Github Project link and screenshot in comments](https://www.reddit.com/r/Python/comments/pa2lzm/a_pyqt5_application_for_managing_your_photos/)
+- [Name libraries](https://www.reddit.com/r/Python/comments/pa2ayo/name_libraries/)
 - [A Python implementation of the Apollo Entry Guidance algorithm as used by NASA's MSL spacecraft](https://www.reddit.com/r/Python/comments/pa1uz1/a_python_implementation_of_the_apollo_entry/)
 - [Am I the only one having this annoying problem with Python shell?](https://www.reddit.com/r/Python/comments/pa17ja/am_i_the_only_one_having_this_annoying_problem/)
-- [History of the Python Dask library from Matt Rocklin, the library creator (video)](https://www.reddit.com/r/Python/comments/pa0bo9/history_of_the_python_dask_library_from_matt/)
-- [Self taught coders with no degree who landed a good job by working hard, tell me your process.](https://www.reddit.com/r/Python/comments/pa0a76/self_taught_coders_with_no_degree_who_landed_a/)
-- [Premiership Football Stats](https://www.reddit.com/r/Python/comments/p9z7vw/premiership_football_stats/)
 <!-- BLOG-POST-LIST:END -->
