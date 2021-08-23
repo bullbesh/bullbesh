@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Got locked out for trolling on Twitter](https://www.reddit.com/r/Python/comments/pa9kh0/got_locked_out_for_trolling_on_twitter/)
 - [I made a speech recognizer library that combines wakeword detection, voice activity detection, and speech recognition.](https://www.reddit.com/r/Python/comments/pa2ymg/i_made_a_speech_recognizer_library_that_combines/)
 - [A PyQt5 application for managing your photos. Github Project link and screenshot in comments](https://www.reddit.com/r/Python/comments/pa2lzm/a_pyqt5_application_for_managing_your_photos/)
 - [Name libraries](https://www.reddit.com/r/Python/comments/pa2ayo/name_libraries/)
 - [A Python implementation of the Apollo Entry Guidance algorithm as used by NASA's MSL spacecraft](https://www.reddit.com/r/Python/comments/pa1uz1/a_python_implementation_of_the_apollo_entry/)
-- [History of the Python Dask library from Matt Rocklin, the library creator (video)](https://www.reddit.com/r/Python/comments/pa0bo9/history_of_the_python_dask_library_from_matt/)
 <!-- BLOG-POST-LIST:END -->
