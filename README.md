@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why 1 == 1.0000000000000001 is True ?](https://www.reddit.com/r/Python/comments/p9yqi3/why_1_10000000000000001_is_true/)
+- [Premiership Football Stats](https://www.reddit.com/r/Python/comments/p9z7vw/premiership_football_stats/)
+- [Projectile Motion (With Air Friction) in PYTHON and finding optimal launch angles for maximum distance (hint: no longer 45 degrees).](https://www.reddit.com/r/Python/comments/p9yxar/projectile_motion_with_air_friction_in_python_and/)
 - [The formatting, linting, and testing tooling I use on all my web projects](https://www.reddit.com/r/Python/comments/p9ynck/the_formatting_linting_and_testing_tooling_i_use/)
-- [Pluo Weekly Job Summary](https://www.reddit.com/r/Python/comments/p9yn89/pluo_weekly_job_summary/)
-- [I will teach you python!](https://www.reddit.com/r/Python/comments/p9ycbs/i_will_teach_you_python/)
 - [Analyse Premier League First Two Decades of the 21st Century Using Python](https://www.reddit.com/r/Python/comments/p9ybpf/analyse_premier_league_first_two_decades_of_the/)
+- [ASR/Automatic Speech Recognition toolkit that provides precise word-level timing data? (eg, where in the audio stream a word starts and ends?)](https://www.reddit.com/r/Python/comments/p9xnvi/asrautomatic_speech_recognition_toolkit_that/)
 <!-- BLOG-POST-LIST:END -->
