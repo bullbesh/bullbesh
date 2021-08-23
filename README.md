@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[TIL] not not x > bool(x) in terms of speed](https://www.reddit.com/r/Python/comments/p9ul62/til_not_not_x_boolx_in_terms_of_speed/)
+- [零基础学习Python爬虫：用多线程批量下载某表情包网站上全部表情包](https://www.reddit.com/r/Python/comments/p9ufhg/零基础学习python爬虫用多线程批量下载某表情包网站上全部表情包/)
 - [Python for Atom Probe Tomography](https://www.reddit.com/r/Python/comments/p9sv4j/python_for_atom_probe_tomography/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/p9o1s2/monday_daily_thread_project_ideas/)
 - [University of Tübingen Researchers Open-Source ‘CARLA’, A Python Library for Benchmarking Counterfactual Explanation Methods Across Data Sets and Machine Learning Models](https://www.reddit.com/r/Python/comments/p9nv4a/university_of_tübingen_researchers_opensource/)
-- [Writing your First Distributed Python Application with Ray (without multiprocessing)](https://www.reddit.com/r/Python/comments/p9ni8m/writing_your_first_distributed_python_application/)
-- [dingsound: An oven timer 'ding' sound once your code finishes processing! (Yes, I'm serious)](https://www.reddit.com/r/Python/comments/p9j7pd/dingsound_an_oven_timer_ding_sound_once_your_code/)
 <!-- BLOG-POST-LIST:END -->
