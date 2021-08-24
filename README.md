@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python's deque: Implement Efficient Queues and Stacks – Real Python](https://www.reddit.com/r/Python/comments/pami9j/pythons_deque_implement_efficient_queues_and/)
 - [PEPs on strings.](https://www.reddit.com/r/Python/comments/pam72s/peps_on_strings/)
 - [First Personal Portfolio - Django](https://www.reddit.com/r/Python/comments/pam56g/first_personal_portfolio_django/)
 - [Peter Norvig's legendary lis.py implemented with Python 3.10's structural pattern matching](https://www.reddit.com/r/Python/comments/palxf2/peter_norvigs_legendary_lispy_implemented_with/)
 - [School Management System Project In Python With Source Code](https://www.reddit.com/r/Python/comments/palhel/school_management_system_project_in_python_with/)
-- [Different values using Google and Python to calculate areas and perimeters](https://www.reddit.com/r/Python/comments/pal59e/different_values_using_google_and_python_to/)
 <!-- BLOG-POST-LIST:END -->
