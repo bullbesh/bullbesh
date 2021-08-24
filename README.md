@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Electric - A Windows Package Manager that's 2x Faster than Winget and 5x Faster than Chocolatey](https://www.reddit.com/r/Python/comments/pahqco/electric_a_windows_package_manager_thats_2x/)
 - [I want to simulate clicking and drawing through adb in termux.](https://www.reddit.com/r/Python/comments/pageg3/i_want_to_simulate_clicking_and_drawing_through/)
 - [What exactly do the version numbers for Python actually mean?](https://www.reddit.com/r/Python/comments/pafwo4/what_exactly_do_the_version_numbers_for_python/)
 - [Python Cloud Developer opportunity](https://www.reddit.com/r/Python/comments/pafs0d/python_cloud_developer_opportunity/)
 - [My First Text Adventure Game!](https://www.reddit.com/r/Python/comments/pac9az/my_first_text_adventure_game/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/pac09d/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
