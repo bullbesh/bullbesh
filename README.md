@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dice_GUI - A Dice rolling calculator for D&D 5e](https://www.reddit.com/r/Python/comments/patuev/dice_gui_a_dice_rolling_calculator_for_dd_5e/)
 - [Python Craps Simulator Part #1 - Rolling The Dice](https://www.reddit.com/r/Python/comments/pat0t4/python_craps_simulator_part_1_rolling_the_dice/)
 - [Pure Python Go parser, AST and unparser library](https://www.reddit.com/r/Python/comments/pasvxx/pure_python_go_parser_ast_and_unparser_library/)
 - [Math for data science ( list of 55+ classes )](https://www.reddit.com/r/Python/comments/pas8yc/math_for_data_science_list_of_55_classes/)
 - [How to Automate Formatting and Linting in Python - PreCommit Hooks](https://www.reddit.com/r/Python/comments/paq98e/how_to_automate_formatting_and_linting_in_python/)
-- [Automating Unit Tests for Jupyter Python Notebooks using ipynb and nbmake](https://www.reddit.com/r/Python/comments/paq2oo/automating_unit_tests_for_jupyter_python/)
 <!-- BLOG-POST-LIST:END -->
