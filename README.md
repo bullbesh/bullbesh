@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What exactly do the version numbers for Python actually mean?](https://www.reddit.com/r/Python/comments/pafwo4/what_exactly_do_the_version_numbers_for_python/)
+- [Python Cloud Developer opportunity](https://www.reddit.com/r/Python/comments/pafs0d/python_cloud_developer_opportunity/)
 - [My First Text Adventure Game!](https://www.reddit.com/r/Python/comments/pac9az/my_first_text_adventure_game/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/pac09d/tuesday_daily_thread_advanced_questions/)
 - [I made a speech recognizer library that combines wakeword detection, voice activity detection, and speech recognition.](https://www.reddit.com/r/Python/comments/pa2ymg/i_made_a_speech_recognizer_library_that_combines/)
-- [A PyQt5 application for managing your photos. Github Project link and screenshot in comments](https://www.reddit.com/r/Python/comments/pa2lzm/a_pyqt5_application_for_managing_your_photos/)
-- [Name libraries](https://www.reddit.com/r/Python/comments/pa2ayo/name_libraries/)
 <!-- BLOG-POST-LIST:END -->
