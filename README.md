@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Automate Formatting and Linting in Python - PreCommit Hooks](https://www.reddit.com/r/Python/comments/paq98e/how_to_automate_formatting_and_linting_in_python/)
+- [Automating Unit Tests for Jupyter Python Notebooks using ipynb and nbmake](https://www.reddit.com/r/Python/comments/paq2oo/automating_unit_tests_for_jupyter_python/)
 - [Python — Pandas dataframe to Google BigQuery table](https://www.reddit.com/r/Python/comments/papbzn/python_pandas_dataframe_to_google_bigquery_table/)
 - [Managing Dependencies](https://www.reddit.com/r/Python/comments/pao97l/managing_dependencies/)
 - [Python application template for elementary OS.](https://www.reddit.com/r/Python/comments/panwc5/python_application_template_for_elementary_os/)
-- [Python's deque: Implement Efficient Queues and Stacks – Real Python](https://www.reddit.com/r/Python/comments/pami9j/pythons_deque_implement_efficient_queues_and/)
-- [PEPs on strings.](https://www.reddit.com/r/Python/comments/pam72s/peps_on_strings/)
 <!-- BLOG-POST-LIST:END -->
