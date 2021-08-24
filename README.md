@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SQLModel – SQL Databases in FastAPI](https://www.reddit.com/r/Python/comments/pax6ew/sqlmodel_sql_databases_in_fastapi/)
+- [SQLModel: SQL DBs based on Python type hints. The biggest thing I've built since FastAPI and Typer. 😅](https://www.reddit.com/r/Python/comments/pawqhw/sqlmodel_sql_dbs_based_on_python_type_hints_the/)
 - [Introducing Speechloop, answering the question, what is the best ASR?](https://www.reddit.com/r/Python/comments/paunpq/introducing_speechloop_answering_the_question/)
 - [ETL in docker-compose, showcase.](https://www.reddit.com/r/Python/comments/pau9z3/etl_in_dockercompose_showcase/)
 - [Dice_GUI - A Dice rolling calculator for D&D 5e](https://www.reddit.com/r/Python/comments/patuev/dice_gui_a_dice_rolling_calculator_for_dd_5e/)
-- [Python Craps Simulator Part #1 - Rolling The Dice](https://www.reddit.com/r/Python/comments/pat0t4/python_craps_simulator_part_1_rolling_the_dice/)
-- [Pure Python Go parser, AST and unparser library](https://www.reddit.com/r/Python/comments/pasvxx/pure_python_go_parser_ast_and_unparser_library/)
 <!-- BLOG-POST-LIST:END -->
