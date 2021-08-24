@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free source to learn?](https://www.reddit.com/r/Python/comments/pad0lo/free_source_to_learn/)
 - [My First Text Adventure Game!](https://www.reddit.com/r/Python/comments/pac9az/my_first_text_adventure_game/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/pac09d/tuesday_daily_thread_advanced_questions/)
 - [I made a speech recognizer library that combines wakeword detection, voice activity detection, and speech recognition.](https://www.reddit.com/r/Python/comments/pa2ymg/i_made_a_speech_recognizer_library_that_combines/)
 - [A PyQt5 application for managing your photos. Github Project link and screenshot in comments](https://www.reddit.com/r/Python/comments/pa2lzm/a_pyqt5_application_for_managing_your_photos/)
-- [Name libraries](https://www.reddit.com/r/Python/comments/pa2ayo/name_libraries/)
 <!-- BLOG-POST-LIST:END -->
