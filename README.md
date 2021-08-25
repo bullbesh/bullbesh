@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How hard would learning how to automate jobs be?](https://www.reddit.com/r/Python/comments/pbmegj/how_hard_would_learning_how_to_automate_jobs_be/)
 - [Django Admin As An API](https://www.reddit.com/r/Python/comments/pbllmr/django_admin_as_an_api/)
 - [Boost your productivity with the REPL | Pydon't](https://www.reddit.com/r/Python/comments/pbkq3z/boost_your_productivity_with_the_repl_pydont/)
 - [Porting from 2 to 3: to branch or not to branch...](https://www.reddit.com/r/Python/comments/pbii43/porting_from_2_to_3_to_branch_or_not_to_branch/)
 - [I Made a Bot that Blocks Accounts with Annoying Keywords in their Bio](https://www.reddit.com/r/Python/comments/pbiaft/i_made_a_bot_that_blocks_accounts_with_annoying/)
-- [Get started with Python type hints](https://www.reddit.com/r/Python/comments/pbi6qc/get_started_with_python_type_hints/)
 <!-- BLOG-POST-LIST:END -->
