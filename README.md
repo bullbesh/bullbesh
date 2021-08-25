@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Artificial Intelligence based web scraper](https://www.reddit.com/r/Python/comments/pb5wqx/artificial_intelligence_based_web_scraper/)
+- [Django project](https://www.reddit.com/r/Python/comments/pb5quj/django_project/)
+- [Even after almost 2 years, Migration to Python 3 from Python 2 is still very slow](https://www.reddit.com/r/Python/comments/pb5j08/even_after_almost_2_years_migration_to_python_3/)
 - [microtest - a simple unittesting framework](https://www.reddit.com/r/Python/comments/pb5hi1/microtest_a_simple_unittesting_framework/)
 - [HELP](https://www.reddit.com/r/Python/comments/pb53dd/help/)
-- [sqlite-utils - my Python library and CLI tool for manipulating SQLite databases](https://www.reddit.com/r/Python/comments/pb4ugs/sqliteutils_my_python_library_and_cli_tool_for/)
-- [absorb: An extensible CLI for kannan boards, task lists and for storing ideas!](https://www.reddit.com/r/Python/comments/pb2ebr/absorb_an_extensible_cli_for_kannan_boards_task/)
-- [Whython updates](https://www.reddit.com/r/Python/comments/pb0xpz/whython_updates/)
 <!-- BLOG-POST-LIST:END -->
