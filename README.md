@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Udemy 14 (100% off Coupons) Programming Courses [Limited Time]](https://www.reddit.com/r/Python/comments/pb6tp1/udemy_14_100_off_coupons_programming_courses/)
+- [DataKund Artificial Intelligence Scraper](https://www.reddit.com/r/Python/comments/pb6907/datakund_artificial_intelligence_scraper/)
 - [Artificial Intelligence based web scraper](https://www.reddit.com/r/Python/comments/pb5wqx/artificial_intelligence_based_web_scraper/)
 - [Django project](https://www.reddit.com/r/Python/comments/pb5quj/django_project/)
 - [Even after almost 2 years, Migration to Python 3 from Python 2 is still very slow](https://www.reddit.com/r/Python/comments/pb5j08/even_after_almost_2_years_migration_to_python_3/)
-- [microtest - a simple unittesting framework](https://www.reddit.com/r/Python/comments/pb5hi1/microtest_a_simple_unittesting_framework/)
-- [HELP](https://www.reddit.com/r/Python/comments/pb53dd/help/)
 <!-- BLOG-POST-LIST:END -->
