@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Whython updates](https://www.reddit.com/r/Python/comments/pb0xpz/whython_updates/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/pazk4b/wednesday_daily_thread_beginner_questions/)
 - [Frustration](https://www.reddit.com/r/Python/comments/pazagg/frustration/)
 - [PyBlock (Found)](https://www.reddit.com/r/Python/comments/pay5om/pyblock_found/)
-- [Python script to buy an asset when bitcoin price increases](https://www.reddit.com/r/Python/comments/pay40b/python_script_to_buy_an_asset_when_bitcoin_price/)
 - [SQLModel – SQL Databases in FastAPI](https://www.reddit.com/r/Python/comments/pax6ew/sqlmodel_sql_databases_in_fastapi/)
 <!-- BLOG-POST-LIST:END -->
