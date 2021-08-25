@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Propel Projects: Free cohort-based program focused on education through application](https://www.reddit.com/r/Python/comments/pbcqah/propel_projects_free_cohortbased_program_focused/)
+- [Mastering Web Scraping in Python: Scaling to Distributed Crawling](https://www.reddit.com/r/Python/comments/pbcjhx/mastering_web_scraping_in_python_scaling_to/)
 - [prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data](https://www.reddit.com/r/Python/comments/pbbjeo/prettymaps_a_small_set_of_python_functions_to/)
 - [PEP 667 -- Consistent views of namespaces](https://www.reddit.com/r/Python/comments/pbb60o/pep_667_consistent_views_of_namespaces/)
 - [Write an SQL query builder in 150 lines of Python!](https://www.reddit.com/r/Python/comments/pbb4pc/write_an_sql_query_builder_in_150_lines_of_python/)
-- [Ned Batchelder (creator of coverage.py) on The Bug Hunters Café](https://www.reddit.com/r/Python/comments/pbb463/ned_batchelder_creator_of_coveragepy_on_the_bug/)
-- [Common mistakes we make in Python and why we should avoid that](https://www.reddit.com/r/Python/comments/pb9dca/common_mistakes_we_make_in_python_and_why_we/)
 <!-- BLOG-POST-LIST:END -->
