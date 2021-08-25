@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django Admin As An API](https://www.reddit.com/r/Python/comments/pbllmr/django_admin_as_an_api/)
+- [Boost your productivity with the REPL | Pydon't](https://www.reddit.com/r/Python/comments/pbkq3z/boost_your_productivity_with_the_repl_pydont/)
 - [Porting from 2 to 3: to branch or not to branch...](https://www.reddit.com/r/Python/comments/pbii43/porting_from_2_to_3_to_branch_or_not_to_branch/)
 - [I Made a Bot that Blocks Accounts with Annoying Keywords in their Bio](https://www.reddit.com/r/Python/comments/pbiaft/i_made_a_bot_that_blocks_accounts_with_annoying/)
 - [Get started with Python type hints](https://www.reddit.com/r/Python/comments/pbi6qc/get_started_with_python_type_hints/)
-- [Is it hard to find a job as a python backend dev these days?](https://www.reddit.com/r/Python/comments/pbhlsk/is_it_hard_to_find_a_job_as_a_python_backend_dev/)
-- [Want to keep your computer active during working hours? Set it and forget it with this script I made with Pyautogui and Task Scheduler!](https://www.reddit.com/r/Python/comments/pber0z/want_to_keep_your_computer_active_during_working/)
 <!-- BLOG-POST-LIST:END -->
