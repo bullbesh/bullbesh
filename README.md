@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Common mistakes we make in Python and why we should avoid that](https://www.reddit.com/r/Python/comments/pb9dca/common_mistakes_we_make_in_python_and_why_we/)
+- [Automated Twitter Fortune Cookies](https://www.reddit.com/r/Python/comments/pb97zm/automated_twitter_fortune_cookies/)
+- [Python](https://www.reddit.com/r/Python/comments/pb96xv/python/)
 - [Python api test Need some help in mocking some public API response . what is the suitable way in python, im trying requests_mock but need some good examples](https://www.reddit.com/r/Python/comments/pb81m7/python_api_test_need_some_help_in_mocking_some/)
 - [Python Tutorials](https://www.reddit.com/r/Python/comments/pb7qp2/python_tutorials/)
-- [Udemy 14 (100% off Coupons) Programming Courses [Limited Time]](https://www.reddit.com/r/Python/comments/pb6tp1/udemy_14_100_off_coupons_programming_courses/)
-- [DataKund Artificial Intelligence Scraper](https://www.reddit.com/r/Python/comments/pb6907/datakund_artificial_intelligence_scraper/)
-- [Artificial Intelligence based web scraper](https://www.reddit.com/r/Python/comments/pb5wqx/artificial_intelligence_based_web_scraper/)
 <!-- BLOG-POST-LIST:END -->
