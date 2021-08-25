@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Porting from 2 to 3: to branch or not to branch...](https://www.reddit.com/r/Python/comments/pbii43/porting_from_2_to_3_to_branch_or_not_to_branch/)
+- [I Made a Bot that Blocks Accounts with Annoying Keywords in their Bio](https://www.reddit.com/r/Python/comments/pbiaft/i_made_a_bot_that_blocks_accounts_with_annoying/)
+- [Get started with Python type hints](https://www.reddit.com/r/Python/comments/pbi6qc/get_started_with_python_type_hints/)
 - [Is it hard to find a job as a python backend dev these days?](https://www.reddit.com/r/Python/comments/pbhlsk/is_it_hard_to_find_a_job_as_a_python_backend_dev/)
 - [Want to keep your computer active during working hours? Set it and forget it with this script I made with Pyautogui and Task Scheduler!](https://www.reddit.com/r/Python/comments/pber0z/want_to_keep_your_computer_active_during_working/)
-- [FastApi Quick CRUD - SQLAlchemy based FastApi CRUD router generator](https://www.reddit.com/r/Python/comments/pbef1s/fastapi_quick_crud_sqlalchemy_based_fastapi_crud/)
-- [Propel Projects: Free cohort-based program focused on education through application](https://www.reddit.com/r/Python/comments/pbcqah/propel_projects_free_cohortbased_program_focused/)
-- [Mastering Web Scraping in Python: Scaling to Distributed Crawling](https://www.reddit.com/r/Python/comments/pbcjhx/mastering_web_scraping_in_python_scaling_to/)
 <!-- BLOG-POST-LIST:END -->
