@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [absorb: An extensible CLI for kannan boards, task lists and for storing ideas!](https://www.reddit.com/r/Python/comments/pb2ebr/absorb_an_extensible_cli_for_kannan_boards_task/)
 - [Whython updates](https://www.reddit.com/r/Python/comments/pb0xpz/whython_updates/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/pazk4b/wednesday_daily_thread_beginner_questions/)
 - [Frustration](https://www.reddit.com/r/Python/comments/pazagg/frustration/)
-- [PyBlock (Found)](https://www.reddit.com/r/Python/comments/pay5om/pyblock_found/)
 - [SQLModel – SQL Databases in FastAPI](https://www.reddit.com/r/Python/comments/pax6ew/sqlmodel_sql_databases_in_fastapi/)
 <!-- BLOG-POST-LIST:END -->
