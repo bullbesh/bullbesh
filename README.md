@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 667 -- Consistent views of namespaces](https://www.reddit.com/r/Python/comments/pbb60o/pep_667_consistent_views_of_namespaces/)
+- [Write an SQL query builder in 150 lines of Python!](https://www.reddit.com/r/Python/comments/pbb4pc/write_an_sql_query_builder_in_150_lines_of_python/)
+- [Ned Batchelder (creator of coverage.py) on The Bug Hunters Café](https://www.reddit.com/r/Python/comments/pbb463/ned_batchelder_creator_of_coveragepy_on_the_bug/)
 - [Common mistakes we make in Python and why we should avoid that](https://www.reddit.com/r/Python/comments/pb9dca/common_mistakes_we_make_in_python_and_why_we/)
 - [Automated Twitter Fortune Cookies](https://www.reddit.com/r/Python/comments/pb97zm/automated_twitter_fortune_cookies/)
-- [Python](https://www.reddit.com/r/Python/comments/pb96xv/python/)
-- [Python api test Need some help in mocking some public API response . what is the suitable way in python, im trying requests_mock but need some good examples](https://www.reddit.com/r/Python/comments/pb81m7/python_api_test_need_some_help_in_mocking_some/)
-- [Python Tutorials](https://www.reddit.com/r/Python/comments/pb7qp2/python_tutorials/)
 <!-- BLOG-POST-LIST:END -->
