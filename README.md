@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fast AutoML with Microsoft's FLAML + Ray Tune](https://www.reddit.com/r/Python/comments/pboorj/fast_automl_with_microsofts_flaml_ray_tune/)
+- [Creating MS Teams invite link from Python](https://www.reddit.com/r/Python/comments/pboaba/creating_ms_teams_invite_link_from_python/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/pbnr5e/thursday_daily_thread_python_careers_courses_and/)
 - [How hard would learning how to automate jobs be?](https://www.reddit.com/r/Python/comments/pbmegj/how_hard_would_learning_how_to_automate_jobs_be/)
 - [Django Admin As An API](https://www.reddit.com/r/Python/comments/pbllmr/django_admin_as_an_api/)
-- [Boost your productivity with the REPL | Pydon't](https://www.reddit.com/r/Python/comments/pbkq3z/boost_your_productivity_with_the_repl_pydont/)
-- [Porting from 2 to 3: to branch or not to branch...](https://www.reddit.com/r/Python/comments/pbii43/porting_from_2_to_3_to_branch_or_not_to_branch/)
-- [I Made a Bot that Blocks Accounts with Annoying Keywords in their Bio](https://www.reddit.com/r/Python/comments/pbiaft/i_made_a_bot_that_blocks_accounts_with_annoying/)
 <!-- BLOG-POST-LIST:END -->
