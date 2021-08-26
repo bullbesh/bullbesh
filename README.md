@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I'd like to introduce MPIRE: MultiProcessing Is Really Easy](https://www.reddit.com/r/Python/comments/pbuj0g/id_like_to_introduce_mpire_multiprocessing_is/)
 - [Self hosted Telegram bot to receive push events from GitHub repo](https://www.reddit.com/r/Python/comments/pbt68d/self_hosted_telegram_bot_to_receive_push_events/)
 - [Making a coding slash IT playlist on Spotify let me know if theres and music you listen to while writing that helps with your process please post in the comments](https://www.reddit.com/r/Python/comments/pbs52m/making_a_coding_slash_it_playlist_on_spotify_let/)
 - [Fast AutoML with Microsoft's FLAML + Ray Tune](https://www.reddit.com/r/Python/comments/pboorj/fast_automl_with_microsofts_flaml_ray_tune/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/pbnr5e/thursday_daily_thread_python_careers_courses_and/)
-- [How hard would learning how to automate jobs be?](https://www.reddit.com/r/Python/comments/pbmegj/how_hard_would_learning_how_to_automate_jobs_be/)
 <!-- BLOG-POST-LIST:END -->
