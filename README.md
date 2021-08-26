@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [diff between np.full and np.zeros](https://www.reddit.com/r/Python/comments/pbycrh/diff_between_npfull_and_npzeros/)
+- [Deciding to Become an Event-Driven Enterprise](https://www.reddit.com/r/Python/comments/pbz889/deciding_to_become_an_eventdriven_enterprise/)
+- [Marketplace Software](https://www.reddit.com/r/Python/comments/pbz7e8/marketplace_software/)
 - [A story how we've created our own pandas-stubs library, which enhances pandas with type information that’s necessary for maintaining a high level of type-safety for all pandas-dependent projects, and has already been downloaded a few hundred thousand times.](https://www.reddit.com/r/Python/comments/pby0en/a_story_how_weve_created_our_own_pandasstubs/)
 - [Python SDK - AI engines aggregator](https://www.reddit.com/r/Python/comments/pbxwar/python_sdk_ai_engines_aggregator/)
 - [JsonHelper](https://www.reddit.com/r/Python/comments/pbx8js/jsonhelper/)
-- [paintable GitHub contribute table with PyQt5](https://www.reddit.com/r/Python/comments/pbwxz4/paintable_github_contribute_table_with_pyqt5/)
 <!-- BLOG-POST-LIST:END -->
