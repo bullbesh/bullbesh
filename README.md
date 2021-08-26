@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hey anyone want to learn System Design for Interviews??](https://www.reddit.com/r/Python/comments/pbph5u/hey_anyone_want_to_learn_system_design_for/)
 - [Fast AutoML with Microsoft's FLAML + Ray Tune](https://www.reddit.com/r/Python/comments/pboorj/fast_automl_with_microsofts_flaml_ray_tune/)
-- [Creating MS Teams invite link from Python](https://www.reddit.com/r/Python/comments/pboaba/creating_ms_teams_invite_link_from_python/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/pbnr5e/thursday_daily_thread_python_careers_courses_and/)
 - [How hard would learning how to automate jobs be?](https://www.reddit.com/r/Python/comments/pbmegj/how_hard_would_learning_how_to_automate_jobs_be/)
+- [Django Admin As An API](https://www.reddit.com/r/Python/comments/pbllmr/django_admin_as_an_api/)
+- [Boost your productivity with the REPL | Pydon't](https://www.reddit.com/r/Python/comments/pbkq3z/boost_your_productivity_with_the_repl_pydont/)
 <!-- BLOG-POST-LIST:END -->
