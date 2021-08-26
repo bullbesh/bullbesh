@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Cool Python Tips and Tricks For Writing Better Code](https://www.reddit.com/r/Python/comments/pc04l3/10_cool_python_tips_and_tricks_for_writing_better/)
+- [How to communicate between two python scripts: One in Termux, Second in Pydroid](https://www.reddit.com/r/Python/comments/pc1f7a/how_to_communicate_between_two_python_scripts_one/)
+- [Write Better Python Code With These 10 Tips and Tricks!](https://www.reddit.com/r/Python/comments/pc0u7s/write_better_python_code_with_these_10_tips_and/)
+- [looking for a python tutor in vellore, tamil nadu india](https://www.reddit.com/r/Python/comments/pc0nj8/looking_for_a_python_tutor_in_vellore_tamil_nadu/)
 - [Deciding to Become an Event-Driven Enterprise](https://www.reddit.com/r/Python/comments/pbz889/deciding_to_become_an_eventdriven_enterprise/)
 - [Marketplace Software](https://www.reddit.com/r/Python/comments/pbz7e8/marketplace_software/)
-- [A story how we've created our own pandas-stubs library, which enhances pandas with type information that’s necessary for maintaining a high level of type-safety for all pandas-dependent projects, and has already been downloaded a few hundred thousand times.](https://www.reddit.com/r/Python/comments/pby0en/a_story_how_weve_created_our_own_pandasstubs/)
-- [Python SDK - AI engines aggregator](https://www.reddit.com/r/Python/comments/pbxwar/python_sdk_ai_engines_aggregator/)
 <!-- BLOG-POST-LIST:END -->
