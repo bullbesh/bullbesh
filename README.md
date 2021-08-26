@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Making a coding slash IT playlist on Spotify let me know if theres and music you listen to while writing that helps with your process please post in the comments](https://www.reddit.com/r/Python/comments/pbs52m/making_a_coding_slash_it_playlist_on_spotify_let/)
 - [Fast AutoML with Microsoft's FLAML + Ray Tune](https://www.reddit.com/r/Python/comments/pboorj/fast_automl_with_microsofts_flaml_ray_tune/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/pbnr5e/thursday_daily_thread_python_careers_courses_and/)
 - [How hard would learning how to automate jobs be?](https://www.reddit.com/r/Python/comments/pbmegj/how_hard_would_learning_how_to_automate_jobs_be/)
 - [Django Admin As An API](https://www.reddit.com/r/Python/comments/pbllmr/django_admin_as_an_api/)
-- [Boost your productivity with the REPL | Pydon't](https://www.reddit.com/r/Python/comments/pbkq3z/boost_your_productivity_with_the_repl_pydont/)
 <!-- BLOG-POST-LIST:END -->
