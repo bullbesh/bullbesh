@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [diff between np.full and np.zeros](https://www.reddit.com/r/Python/comments/pbycrh/diff_between_npfull_and_npzeros/)
+- [A story how we've created our own pandas-stubs library, which enhances pandas with type information that’s necessary for maintaining a high level of type-safety for all pandas-dependent projects, and has already been downloaded a few hundred thousand times.](https://www.reddit.com/r/Python/comments/pby0en/a_story_how_weve_created_our_own_pandasstubs/)
+- [Python SDK - AI engines aggregator](https://www.reddit.com/r/Python/comments/pbxwar/python_sdk_ai_engines_aggregator/)
 - [JsonHelper](https://www.reddit.com/r/Python/comments/pbx8js/jsonhelper/)
 - [paintable GitHub contribute table with PyQt5](https://www.reddit.com/r/Python/comments/pbwxz4/paintable_github_contribute_table_with_pyqt5/)
-- [I'd like to introduce MPIRE: MultiProcessing Is Really Easy](https://www.reddit.com/r/Python/comments/pbuj0g/id_like_to_introduce_mpire_multiprocessing_is/)
-- [Self hosted Telegram bot to receive push events from GitHub repo](https://www.reddit.com/r/Python/comments/pbt68d/self_hosted_telegram_bot_to_receive_push_events/)
-- [Making a coding slash IT playlist on Spotify let me know if theres and music you listen to while writing that helps with your process please post in the comments](https://www.reddit.com/r/Python/comments/pbs52m/making_a_coding_slash_it_playlist_on_spotify_let/)
 <!-- BLOG-POST-LIST:END -->
