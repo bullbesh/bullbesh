@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Cool Python Tips and Tricks For Writing Better Code](https://www.reddit.com/r/Python/comments/pc04l3/10_cool_python_tips_and_tricks_for_writing_better/)
 - [Deciding to Become an Event-Driven Enterprise](https://www.reddit.com/r/Python/comments/pbz889/deciding_to_become_an_eventdriven_enterprise/)
 - [Marketplace Software](https://www.reddit.com/r/Python/comments/pbz7e8/marketplace_software/)
 - [A story how we've created our own pandas-stubs library, which enhances pandas with type information that’s necessary for maintaining a high level of type-safety for all pandas-dependent projects, and has already been downloaded a few hundred thousand times.](https://www.reddit.com/r/Python/comments/pby0en/a_story_how_weve_created_our_own_pandasstubs/)
 - [Python SDK - AI engines aggregator](https://www.reddit.com/r/Python/comments/pbxwar/python_sdk_ai_engines_aggregator/)
-- [JsonHelper](https://www.reddit.com/r/Python/comments/pbx8js/jsonhelper/)
 <!-- BLOG-POST-LIST:END -->
