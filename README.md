@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Telepythy: A desktop Python shell inspired by DreamPie](https://www.reddit.com/r/Python/comments/pcg2o8/introducing_telepythy_a_desktop_python_shell/)
+- [Badge Link Creater](https://www.reddit.com/r/Python/comments/pcg09d/badge_link_creater/)
+- [Data visualization: Plot three-dimensional scatter plots using python](https://www.reddit.com/r/Python/comments/pcf4c0/data_visualization_plot_threedimensional_scatter/)
 - [Did I do anything wrong? How to improve?](https://www.reddit.com/r/Python/comments/pcehnx/did_i_do_anything_wrong_how_to_improve/)
 - [A Python wrapper for the Windscribe VPN CLI](https://www.reddit.com/r/Python/comments/pcca3o/a_python_wrapper_for_the_windscribe_vpn_cli/)
-- [Bluetooth Low Energy (BTLE) libraries in 2021?](https://www.reddit.com/r/Python/comments/pcbrro/bluetooth_low_energy_btle_libraries_in_2021/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/pcbrax/friday_daily_thread_free_chat_friday_daily_thread/)
-- [Simulating a Direct Digital Frequency Synthesizer in Python](https://www.reddit.com/r/Python/comments/pc5zjs/simulating_a_direct_digital_frequency_synthesizer/)
 <!-- BLOG-POST-LIST:END -->
