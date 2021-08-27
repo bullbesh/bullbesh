@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can we use python to create WordPress plugins?](https://www.reddit.com/r/Python/comments/pcwvcn/can_we_use_python_to_create_wordpress_plugins/)
+- [I made a GitHub statistic tracker with pandas](https://www.reddit.com/r/Python/comments/pcwm21/i_made_a_github_statistic_tracker_with_pandas/)
 - [I suck at coding](https://www.reddit.com/r/Python/comments/pcvwko/i_suck_at_coding/)
 - [Beginning a new project](https://www.reddit.com/r/Python/comments/pculxp/beginning_a_new_project/)
 - [Python projects idea as major project](https://www.reddit.com/r/Python/comments/pculth/python_projects_idea_as_major_project/)
-- [Python isn't industry compatible](https://www.reddit.com/r/Python/comments/pctuet/python_isnt_industry_compatible/)
-- [Questions about bootcamps and jobs](https://www.reddit.com/r/Python/comments/pcrf6i/questions_about_bootcamps_and_jobs/)
 <!-- BLOG-POST-LIST:END -->
