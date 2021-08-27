@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beginning a new project](https://www.reddit.com/r/Python/comments/pculxp/beginning_a_new_project/)
+- [Python projects idea as major project](https://www.reddit.com/r/Python/comments/pculth/python_projects_idea_as_major_project/)
 - [Python isn't industry compatible](https://www.reddit.com/r/Python/comments/pctuet/python_isnt_industry_compatible/)
 - [Questions about bootcamps and jobs](https://www.reddit.com/r/Python/comments/pcrf6i/questions_about_bootcamps_and_jobs/)
 - [Flask API wrapper for youtube-dl](https://www.reddit.com/r/Python/comments/pcr7zu/flask_api_wrapper_for_youtubedl/)
-- [Copy Word tables to Excel](https://www.reddit.com/r/Python/comments/pcqfn0/copy_word_tables_to_excel/)
-- [So I am using python for work and I am saving a huge amount of data. It seems like openpyxl is not the best way to go because it is maxing out my RAM. Any ideas of a better way to save the data and then analyze it without excel?](https://www.reddit.com/r/Python/comments/pcqckm/so_i_am_using_python_for_work_and_i_am_saving_a/)
 <!-- BLOG-POST-LIST:END -->
