@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 668 -- Graceful cooperation between external and Python package managers](https://www.reddit.com/r/Python/comments/pckgre/pep_668_graceful_cooperation_between_external_and/)
+- [Printing py.file to HTML](https://www.reddit.com/r/Python/comments/pck2tn/printing_pyfile_to_html/)
 - [[Telegram] Python module to build automatic conversation for a Telegram Bot](https://www.reddit.com/r/Python/comments/pcjoa2/telegram_python_module_to_build_automatic/)
 - [Eden AI Launches Management Platform for Machine Learning APIs](https://www.reddit.com/r/Python/comments/pcjmxo/eden_ai_launches_management_platform_for_machine/)
 - [rclip: An AI-Powered Command-Line Photo Search Tool Written in Python and Built With OpenAI's CLIP](https://www.reddit.com/r/Python/comments/pcj7f9/rclip_an_aipowered_commandline_photo_search_tool/)
-- [🌌 A Python script to generate blog banners from the command line](https://www.reddit.com/r/Python/comments/pcj7by/a_python_script_to_generate_blog_banners_from_the/)
-- [Made COVID 19 tracker Web App Tutorial with Python and Low Code Tools such as PythonAnywhere and Anvil. Hope you enjoy it 🤞](https://www.reddit.com/r/Python/comments/pcieo5/made_covid_19_tracker_web_app_tutorial_with/)
 <!-- BLOG-POST-LIST:END -->
