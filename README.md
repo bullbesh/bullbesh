@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python wrapper for the Windscribe VPN CLI](https://www.reddit.com/r/Python/comments/pcca3o/a_python_wrapper_for_the_windscribe_vpn_cli/)
+- [Bluetooth Low Energy (BTLE) libraries in 2021?](https://www.reddit.com/r/Python/comments/pcbrro/bluetooth_low_energy_btle_libraries_in_2021/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/pcbrax/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Simulating a Direct Digital Frequency Synthesizer in Python](https://www.reddit.com/r/Python/comments/pc5zjs/simulating_a_direct_digital_frequency_synthesizer/)
 - [Know How to Create and Visualize a Decision Tree with Python](https://www.reddit.com/r/Python/comments/pc40s9/know_how_to_create_and_visualize_a_decision_tree/)
-- [UPDATE: Started my first real Python project and feeling demoralised](https://www.reddit.com/r/Python/comments/pc3wpb/update_started_my_first_real_python_project_and/)
-- [✔ Python: How To Slice - Add - Remove - Sort A List](https://www.reddit.com/r/Python/comments/pc2ari/python_how_to_slice_add_remove_sort_a_list/)
-- [A story how we've created our own pandas-stubs library, which enhances pandas with type information that’s necessary for maintaining a high level of type-safety for all pandas-dependent projects, and has already been downloaded a few hundred thousand times.](https://www.reddit.com/r/Python/comments/pby0en/a_story_how_weve_created_our_own_pandasstubs/)
 <!-- BLOG-POST-LIST:END -->
