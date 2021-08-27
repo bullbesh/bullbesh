@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Questions about bootcamps and jobs](https://www.reddit.com/r/Python/comments/pcrf6i/questions_about_bootcamps_and_jobs/)
+- [Flask API wrapper for youtube-dl](https://www.reddit.com/r/Python/comments/pcr7zu/flask_api_wrapper_for_youtubedl/)
 - [Copy Word tables to Excel](https://www.reddit.com/r/Python/comments/pcqfn0/copy_word_tables_to_excel/)
 - [So I am using python for work and I am saving a huge amount of data. It seems like openpyxl is not the best way to go because it is maxing out my RAM. Any ideas of a better way to save the data and then analyze it without excel?](https://www.reddit.com/r/Python/comments/pcqckm/so_i_am_using_python_for_work_and_i_am_saving_a/)
 - [What is the level you actually reach with 100 Days?](https://www.reddit.com/r/Python/comments/pcq902/what_is_the_level_you_actually_reach_with_100_days/)
-- [Hey, Hope you are doing good. If you are looking for #Python Course this will be the best bet to learn basics under 30 mins with 1 simple project. This is not something like fake or promotion just a suggestion. Link - You can look into this https://youtu.be/xHWdjufvBfY](https://www.reddit.com/r/Python/comments/pcoq9v/hey_hope_you_are_doing_good_if_you_are_looking/)
-- [5 reasons you should use FastAPI to get stuff done quickly](https://www.reddit.com/r/Python/comments/pcoii5/5_reasons_you_should_use_fastapi_to_get_stuff/)
 <!-- BLOG-POST-LIST:END -->
