@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Telegram] Python module to build automatic conversation for a Telegram Bot](https://www.reddit.com/r/Python/comments/pcjoa2/telegram_python_module_to_build_automatic/)
+- [Eden AI Launches Management Platform for Machine Learning APIs](https://www.reddit.com/r/Python/comments/pcjmxo/eden_ai_launches_management_platform_for_machine/)
+- [rclip: An AI-Powered Command-Line Photo Search Tool Written in Python and Built With OpenAI's CLIP](https://www.reddit.com/r/Python/comments/pcj7f9/rclip_an_aipowered_commandline_photo_search_tool/)
+- [🌌 A Python script to generate blog banners from the command line](https://www.reddit.com/r/Python/comments/pcj7by/a_python_script_to_generate_blog_banners_from_the/)
 - [Made COVID 19 tracker Web App Tutorial with Python and Low Code Tools such as PythonAnywhere and Anvil. Hope you enjoy it 🤞](https://www.reddit.com/r/Python/comments/pcieo5/made_covid_19_tracker_web_app_tutorial_with/)
-- [Why do you love Python?](https://www.reddit.com/r/Python/comments/pcgii4/why_do_you_love_python/)
-- [My company has launched a 4 hour+ FREE course on Python for Newbies on YouTube. Please do check it out and let us know if it was helpful. Thank you!](https://www.reddit.com/r/Python/comments/pcgeau/my_company_has_launched_a_4_hour_free_course_on/)
-- [Introducing Telepythy: A desktop Python shell inspired by DreamPie](https://www.reddit.com/r/Python/comments/pcg2o8/introducing_telepythy_a_desktop_python_shell/)
-- [Badge Link Creater](https://www.reddit.com/r/Python/comments/pcg09d/badge_link_creater/)
 <!-- BLOG-POST-LIST:END -->
