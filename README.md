@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [List of platforms with a bot API and library in python ?](https://www.reddit.com/r/Python/comments/pdiyfq/list_of_platforms_with_a_bot_api_and_library_in/)
 - [7 Reasons Why You Should Use the Streamlit AgGrid Component](https://www.reddit.com/r/Python/comments/pdgnn5/7_reasons_why_you_should_use_the_streamlit_aggrid/)
 - [My 2nd Tic Tac Toe game](https://www.reddit.com/r/Python/comments/pdfwe2/my_2nd_tic_tac_toe_game/)
 - [Zen of Python poster, now in Monokai Light](https://www.reddit.com/r/Python/comments/pdflip/zen_of_python_poster_now_in_monokai_light/)
 - [How you do your side-projects?](https://www.reddit.com/r/Python/comments/pdf95g/how_you_do_your_sideprojects/)
-- [I made a Sudoku Game/Solver using Python](https://www.reddit.com/r/Python/comments/pddzrz/i_made_a_sudoku_gamesolver_using_python/)
 <!-- BLOG-POST-LIST:END -->
