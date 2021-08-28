@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data visualization: Create a Pie Chart using Python](https://www.reddit.com/r/Python/comments/pd20c1/data_visualization_create_a_pie_chart_using_python/)
+- [How to throttle your API with Django Rest Framework](https://www.reddit.com/r/Python/comments/pd1xmj/how_to_throttle_your_api_with_django_rest/)
 - [Getting started with Distributed Computing / Distributed Machine Learning using Ray in Notebooks using Free AWS Resources!](https://www.reddit.com/r/Python/comments/pd06hf/getting_started_with_distributed_computing/)
 - [Danny, creator of discord.py, is halting development of the library. Discord.py has come to an end - will likely have a major effect on bots](https://www.reddit.com/r/Python/comments/pczw4q/danny_creator_of_discordpy_is_halting_development/)
 - [Codeacademy?](https://www.reddit.com/r/Python/comments/pczoim/codeacademy/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/pcz7eg/saturday_daily_thread_resource_request_and/)
-- [Can we use python to create WordPress plugins?](https://www.reddit.com/r/Python/comments/pcwvcn/can_we_use_python_to_create_wordpress_plugins/)
 <!-- BLOG-POST-LIST:END -->
