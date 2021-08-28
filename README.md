@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [1- Pass Arrows - Python Football Data Analysis and Visualization](https://www.reddit.com/r/Python/comments/pd9juw/1_pass_arrows_python_football_data_analysis_and/)
-- [Pycharm Installation Complete Guide Windows Version](https://www.reddit.com/r/Python/comments/pd9jq7/pycharm_installation_complete_guide_windows/)
-- [protogen: write protoc plugins in Python](https://www.reddit.com/r/Python/comments/pd9hnc/protogen_write_protoc_plugins_in_python/)
-- [Download & Install Python 3.8.3 on Windows](https://www.reddit.com/r/Python/comments/pd9f7m/download_install_python_383_on_windows/)
-- [Complete Introduction to Python](https://www.reddit.com/r/Python/comments/pd9aww/complete_introduction_to_python/)
+- [Call for Speakers Gauteng Python User Group](https://www.reddit.com/r/Python/comments/pda71y/call_for_speakers_gauteng_python_user_group/)
+- [If anyone's interested in building apps with a cross-functional team and industry mentorship (FOR Free), this program's open for 5 more days!](https://www.reddit.com/r/Python/comments/pda1ep/if_anyones_interested_in_building_apps_with_a/)
+- [Python String Concatenation](https://www.reddit.com/r/Python/comments/pd9uip/python_string_concatenation/)
+- [How to Create & Use Variable in Python](https://www.reddit.com/r/Python/comments/pd9s8w/how_to_create_use_variable_in_python/)
+- [Create First Hello World Python Program](https://www.reddit.com/r/Python/comments/pd9nzd/create_first_hello_world_python_program/)
 <!-- BLOG-POST-LIST:END -->
