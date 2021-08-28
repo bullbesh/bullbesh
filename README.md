@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is this project difficult? I'm new to Python.](https://www.reddit.com/r/Python/comments/pd7aqn/is_this_project_difficult_im_new_to_python/)
-- [Automate Arknights Missions and Image Sorter](https://www.reddit.com/r/Python/comments/pd7a04/automate_arknights_missions_and_image_sorter/)
-- [Why is Django more popular than Flask?](https://www.reddit.com/r/Python/comments/pd6xa4/why_is_django_more_popular_than_flask/)
-- [The Future of discord.py - to be archived 2022](https://www.reddit.com/r/Python/comments/pd6po5/the_future_of_discordpy_to_be_archived_2022/)
-- [I’m an accounting manager on an IT oriented company and I want to learn Python from Zero to potentially become a developer. What would be the steps you guys will recommend me?](https://www.reddit.com/r/Python/comments/pd6fnp/im_an_accounting_manager_on_an_it_oriented/)
+- [1- Pass Arrows - Python Football Data Analysis and Visualization](https://www.reddit.com/r/Python/comments/pd9juw/1_pass_arrows_python_football_data_analysis_and/)
+- [Pycharm Installation Complete Guide Windows Version](https://www.reddit.com/r/Python/comments/pd9jq7/pycharm_installation_complete_guide_windows/)
+- [protogen: write protoc plugins in Python](https://www.reddit.com/r/Python/comments/pd9hnc/protogen_write_protoc_plugins_in_python/)
+- [Download & Install Python 3.8.3 on Windows](https://www.reddit.com/r/Python/comments/pd9f7m/download_install_python_383_on_windows/)
+- [Complete Introduction to Python](https://www.reddit.com/r/Python/comments/pd9aww/complete_introduction_to_python/)
 <!-- BLOG-POST-LIST:END -->
