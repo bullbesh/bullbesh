@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m an accounting manager on an IT oriented company and I want to learn Python from Zero to potentially become a developer. What would be the steps you guys will recommend me?](https://www.reddit.com/r/Python/comments/pd6fnp/im_an_accounting_manager_on_an_it_oriented/)
 - [Fastest method in Python to get list with random numbers](https://www.reddit.com/r/Python/comments/pd50nl/fastest_method_in_python_to_get_list_with_random/)
 - [Short Form Builder](https://www.reddit.com/r/Python/comments/pd4j9b/short_form_builder/)
 - [A tank game using PyGame](https://www.reddit.com/r/Python/comments/pd3wdk/a_tank_game_using_pygame/)
 - [https://parseltongue.co.in/common-mistakes-we-make-in-python-and-why-we-should-avoid-that-part-2/](https://www.reddit.com/r/Python/comments/pd3ipe/httpsparseltonguecoincommonmistakeswemakeinpythona/)
-- [Data visualization: Create a Pie Chart using Python](https://www.reddit.com/r/Python/comments/pd20c1/data_visualization_create_a_pie_chart_using_python/)
 <!-- BLOG-POST-LIST:END -->
