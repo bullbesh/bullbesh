@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Danny, creator of discord.py, is halting development of the library. Discord.py has come to an end - will likely have a major effect on bots](https://www.reddit.com/r/Python/comments/pczw4q/danny_creator_of_discordpy_is_halting_development/)
+- [Codeacademy?](https://www.reddit.com/r/Python/comments/pczoim/codeacademy/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/pcz7eg/saturday_daily_thread_resource_request_and/)
+- [Publishing Python Packages: New Manning book in early access](https://www.reddit.com/r/Python/comments/pcyyfa/publishing_python_packages_new_manning_book_in/)
 - [Can we use python to create WordPress plugins?](https://www.reddit.com/r/Python/comments/pcwvcn/can_we_use_python_to_create_wordpress_plugins/)
-- [I made a GitHub statistic tracker with pandas](https://www.reddit.com/r/Python/comments/pcwm21/i_made_a_github_statistic_tracker_with_pandas/)
-- [I suck at coding](https://www.reddit.com/r/Python/comments/pcvwko/i_suck_at_coding/)
-- [Beginning a new project](https://www.reddit.com/r/Python/comments/pculxp/beginning_a_new_project/)
-- [Python projects idea as major project](https://www.reddit.com/r/Python/comments/pculth/python_projects_idea_as_major_project/)
 <!-- BLOG-POST-LIST:END -->
