@@ -19,5 +19,5 @@
 - [Call for Speakers Gauteng Python User Group](https://www.reddit.com/r/Python/comments/pda71y/call_for_speakers_gauteng_python_user_group/)
 - [If anyone's interested in building apps with a cross-functional team and industry mentorship (FOR Free), this program's open for 5 more days!](https://www.reddit.com/r/Python/comments/pda1ep/if_anyones_interested_in_building_apps_with_a/)
 - [Python String Concatenation](https://www.reddit.com/r/Python/comments/pd9uip/python_string_concatenation/)
-- [Create First Hello World Python Program](https://www.reddit.com/r/Python/comments/pd9nzd/create_first_hello_world_python_program/)
+- [1- Pass Arrows - Python Football Data Analysis and Visualization](https://www.reddit.com/r/Python/comments/pd9juw/1_pass_arrows_python_football_data_analysis_and/)
 <!-- BLOG-POST-LIST:END -->
