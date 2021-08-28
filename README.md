@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [QR Code Decoder](https://www.reddit.com/r/Python/comments/pd7bsa/qr_code_decoder/)
-- [Build QR Code](https://www.reddit.com/r/Python/comments/pd7bam/build_qr_code/)
 - [Is this project difficult? I'm new to Python.](https://www.reddit.com/r/Python/comments/pd7aqn/is_this_project_difficult_im_new_to_python/)
 - [Automate Arknights Missions and Image Sorter](https://www.reddit.com/r/Python/comments/pd7a04/automate_arknights_missions_and_image_sorter/)
 - [Why is Django more popular than Flask?](https://www.reddit.com/r/Python/comments/pd6xa4/why_is_django_more_popular_than_flask/)
+- [The Future of discord.py - to be archived 2022](https://www.reddit.com/r/Python/comments/pd6po5/the_future_of_discordpy_to_be_archived_2022/)
+- [I’m an accounting manager on an IT oriented company and I want to learn Python from Zero to potentially become a developer. What would be the steps you guys will recommend me?](https://www.reddit.com/r/Python/comments/pd6fnp/im_an_accounting_manager_on_an_it_oriented/)
 <!-- BLOG-POST-LIST:END -->
