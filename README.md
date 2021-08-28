@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My 2nd Tic Tac Toe game](https://www.reddit.com/r/Python/comments/pdfwe2/my_2nd_tic_tac_toe_game/)
+- [Zen of Python poster, now in Monokai Light](https://www.reddit.com/r/Python/comments/pdflip/zen_of_python_poster_now_in_monokai_light/)
+- [How you do your side-projects?](https://www.reddit.com/r/Python/comments/pdf95g/how_you_do_your_sideprojects/)
 - [I made a Sudoku Game/Solver using Python](https://www.reddit.com/r/Python/comments/pddzrz/i_made_a_sudoku_gamesolver_using_python/)
 - [Python Volunteer](https://www.reddit.com/r/Python/comments/pddyox/python_volunteer/)
-- [Chocopy -> JVM Compiler: compiles a subset of Python 3 to JVM bytecode](https://www.reddit.com/r/Python/comments/pddaff/chocopy_jvm_compiler_compiles_a_subset_of_python/)
-- [Wrote a TwitchBot to fill up some SQL tables using pyodbc and twitchio](https://www.reddit.com/r/Python/comments/pdd4oz/wrote_a_twitchbot_to_fill_up_some_sql_tables/)
-- [Residual Networks in PyTorch](https://www.reddit.com/r/Python/comments/pdd40p/residual_networks_in_pytorch/)
 <!-- BLOG-POST-LIST:END -->
