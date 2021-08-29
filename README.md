@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What do you use to monitor your applications in production ?](https://www.reddit.com/r/Python/comments/pe1hwt/what_do_you_use_to_monitor_your_applications_in/)
 - [Python Projects: How to Interact with APIs in Python | Episode 2. Let me know what you guys think.](https://www.reddit.com/r/Python/comments/pdy3ec/python_projects_how_to_interact_with_apis_in/)
 - [Algorithms and Data Structures FREE COURSE || Arrays || Part 1](https://www.reddit.com/r/Python/comments/pdy04h/algorithms_and_data_structures_free_course_arrays/)
 - [Requests-Cache – An easy way to get better performance with the python requests library](https://www.reddit.com/r/Python/comments/pdx10z/requestscache_an_easy_way_to_get_better/)
 - [How async/await works in Python](https://www.reddit.com/r/Python/comments/pdtmtw/how_asyncawait_works_in_python/)
-- [Zen of Python poster, now in Monokai Light (corrected)](https://www.reddit.com/r/Python/comments/pdnf1f/zen_of_python_poster_now_in_monokai_light/)
 <!-- BLOG-POST-LIST:END -->
