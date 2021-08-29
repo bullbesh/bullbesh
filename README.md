@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My first working program in python!](https://www.reddit.com/r/Python/comments/pdvw7k/my_first_working_program_in_python/)
+- [Requests-Cache – An easy way to get better performance with the python requests library](https://www.reddit.com/r/Python/comments/pdx10z/requestscache_an_easy_way_to_get_better/)
 - [How programmers can prevent obesity | Weight loss training](https://www.reddit.com/r/Python/comments/pdv89i/how_programmers_can_prevent_obesity_weight_loss/)
 - [Machine Learning with Python, Reddit and GPT-3](https://www.reddit.com/r/Python/comments/pdu3gx/machine_learning_with_python_reddit_and_gpt3/)
 - [How async/await works in Python](https://www.reddit.com/r/Python/comments/pdtmtw/how_asyncawait_works_in_python/)
