@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/pdksmj/sunday_daily_thread_whats_everyone_working_on/)
 - [I made the basic TIC TAC TOE using VRBS, a new functional based oldschool programming language I created using Python](https://www.reddit.com/r/Python/comments/pdj8wp/i_made_the_basic_tic_tac_toe_using_vrbs_a_new/)
 - [List of platforms with a bot API and library in python ?](https://www.reddit.com/r/Python/comments/pdiyfq/list_of_platforms_with_a_bot_api_and_library_in/)
 - [7 Reasons Why You Should Use the Streamlit AgGrid Component](https://www.reddit.com/r/Python/comments/pdgnn5/7_reasons_why_you_should_use_the_streamlit_aggrid/)
 - [My 2nd Tic Tac Toe game](https://www.reddit.com/r/Python/comments/pdfwe2/my_2nd_tic_tac_toe_game/)
-- [Zen of Python poster, now in Monokai Light](https://www.reddit.com/r/Python/comments/pdflip/zen_of_python_poster_now_in_monokai_light/)
 <!-- BLOG-POST-LIST:END -->
