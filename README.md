@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Projects: How to Interact with APIs in Python | Episode 2. Let me know what you guys think.](https://www.reddit.com/r/Python/comments/pdy3ec/python_projects_how_to_interact_with_apis_in/)
+- [Algorithms and Data Structures FREE COURSE || Arrays || Part 1](https://www.reddit.com/r/Python/comments/pdy04h/algorithms_and_data_structures_free_course_arrays/)
 - [Requests-Cache – An easy way to get better performance with the python requests library](https://www.reddit.com/r/Python/comments/pdx10z/requestscache_an_easy_way_to_get_better/)
-- [How programmers can prevent obesity | Weight loss training](https://www.reddit.com/r/Python/comments/pdv89i/how_programmers_can_prevent_obesity_weight_loss/)
 - [Machine Learning with Python, Reddit and GPT-3](https://www.reddit.com/r/Python/comments/pdu3gx/machine_learning_with_python_reddit_and_gpt3/)
 - [How async/await works in Python](https://www.reddit.com/r/Python/comments/pdtmtw/how_asyncawait_works_in_python/)
-- [Best Ways to Learn Python](https://www.reddit.com/r/Python/comments/pdqz4x/best_ways_to_learn_python/)
 <!-- BLOG-POST-LIST:END -->
