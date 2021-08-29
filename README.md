@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first working program in python!](https://www.reddit.com/r/Python/comments/pdvw7k/my_first_working_program_in_python/)
+- [How programmers can prevent obesity | Weight loss training](https://www.reddit.com/r/Python/comments/pdv89i/how_programmers_can_prevent_obesity_weight_loss/)
 - [Machine Learning with Python, Reddit and GPT-3](https://www.reddit.com/r/Python/comments/pdu3gx/machine_learning_with_python_reddit_and_gpt3/)
 - [How async/await works in Python](https://www.reddit.com/r/Python/comments/pdtmtw/how_asyncawait_works_in_python/)
 - [Best Ways to Learn Python](https://www.reddit.com/r/Python/comments/pdqz4x/best_ways_to_learn_python/)
-- [Zen of Python poster, now in Monokai Light (corrected)](https://www.reddit.com/r/Python/comments/pdnf1f/zen_of_python_poster_now_in_monokai_light/)
-- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/pdksmj/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
