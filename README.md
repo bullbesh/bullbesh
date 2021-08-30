@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [help needed :/](https://www.reddit.com/r/Python/comments/peojzv/help_needed/)
+- [Python script to "hide" your web traffic](https://www.reddit.com/r/Python/comments/peob36/python_script_to_hide_your_web_traffic/)
 - [Run python on mobile phone (full guide)](https://www.reddit.com/r/Python/comments/pemvcg/run_python_on_mobile_phone_full_guide/)
 - [Python for Beginners in under 2 hours](https://www.reddit.com/r/Python/comments/pemicb/python_for_beginners_in_under_2_hours/)
-- [7 Levels of Using F-Strings in Python](https://www.reddit.com/r/Python/comments/pem0za/7_levels_of_using_fstrings_in_python/)
 - [How to Secure a FastAPI + SQLAlchemy App](https://www.reddit.com/r/Python/comments/pelku8/how_to_secure_a_fastapi_sqlalchemy_app/)
-- [Alexa Inquiry | Bulk site Alexa Inquiry | How to find site rank?](https://www.reddit.com/r/Python/comments/pelc3d/alexa_inquiry_bulk_site_alexa_inquiry_how_to_find/)
 <!-- BLOG-POST-LIST:END -->
