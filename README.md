@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [help needed :/](https://www.reddit.com/r/Python/comments/peojzv/help_needed/)
-- [Python script to "hide" your web traffic](https://www.reddit.com/r/Python/comments/peob36/python_script_to_hide_your_web_traffic/)
+- [WordPress VS Flask in building a site with a backend](https://www.reddit.com/r/Python/comments/pepslq/wordpress_vs_flask_in_building_a_site_with_a/)
+- [Little advice or feedback on a simple program I wrote.](https://www.reddit.com/r/Python/comments/pepah1/little_advice_or_feedback_on_a_simple_program_i/)
 - [Run python on mobile phone (full guide)](https://www.reddit.com/r/Python/comments/pemvcg/run_python_on_mobile_phone_full_guide/)
 - [Python for Beginners in under 2 hours](https://www.reddit.com/r/Python/comments/pemicb/python_for_beginners_in_under_2_hours/)
 - [How to Secure a FastAPI + SQLAlchemy App](https://www.reddit.com/r/Python/comments/pelku8/how_to_secure_a_fastapi_sqlalchemy_app/)
