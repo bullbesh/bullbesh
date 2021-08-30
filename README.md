@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for Beginners in under 2 hours](https://www.reddit.com/r/Python/comments/pemicb/python_for_beginners_in_under_2_hours/)
+- [7 Levels of Using F-Strings in Python](https://www.reddit.com/r/Python/comments/pem0za/7_levels_of_using_fstrings_in_python/)
 - [How to Secure a FastAPI + SQLAlchemy App](https://www.reddit.com/r/Python/comments/pelku8/how_to_secure_a_fastapi_sqlalchemy_app/)
 - [Alexa Inquiry | Bulk site Alexa Inquiry | How to find site rank?](https://www.reddit.com/r/Python/comments/pelc3d/alexa_inquiry_bulk_site_alexa_inquiry_how_to_find/)
 - [Interactable Game of Life - by Giocrom](https://www.reddit.com/r/Python/comments/pekmlz/interactable_game_of_life_by_giocrom/)
-- [I created a python package.](https://www.reddit.com/r/Python/comments/pekdl4/i_created_a_python_package/)
-- [I developed a Python library that preprocesses datasets in 1 command for audio AI](https://www.reddit.com/r/Python/comments/pek3oq/i_developed_a_python_library_that_preprocesses/)
 <!-- BLOG-POST-LIST:END -->
