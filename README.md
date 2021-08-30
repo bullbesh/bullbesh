@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I developed a Python library that preprocesses datasets in 1 command for audio AI](https://www.reddit.com/r/Python/comments/pek3oq/i_developed_a_python_library_that_preprocesses/)
+- [Turn your python scripts into websites using streamlit](https://www.reddit.com/r/Python/comments/pejnlz/turn_your_python_scripts_into_websites_using/)
+- [What is your experience with async Flask?](https://www.reddit.com/r/Python/comments/pej9bl/what_is_your_experience_with_async_flask/)
 - [The Python 2D game library Arcade 2.6.0 has been released](https://www.reddit.com/r/Python/comments/pei2su/the_python_2d_game_library_arcade_260_has_been/)
 - [How to Solve Integrals in Python: A Complete and Quick Guide to Symbolic and Numerical Integration using Sympy and Scipy](https://www.reddit.com/r/Python/comments/peh7gy/how_to_solve_integrals_in_python_a_complete_and/)
-- [How to learn programming to be efficient and not outburn in the long run.](https://www.reddit.com/r/Python/comments/peg6r7/how_to_learn_programming_to_be_efficient_and_not/)
-- [I made a 'lazy' remote on Flask!](https://www.reddit.com/r/Python/comments/peg2ig/i_made_a_lazy_remote_on_flask/)
-- [Loading Screen PyQt5 pyqtCuWi](https://www.reddit.com/r/Python/comments/pef2lc/loading_screen_pyqt5_pyqtcuwi/)
 <!-- BLOG-POST-LIST:END -->
