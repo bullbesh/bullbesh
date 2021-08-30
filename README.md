@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [pip install postgresql-wheel: Install PostgreSQL Server as a local non-root pip package](https://www.reddit.com/r/Python/comments/pe33ki/pip_install_postgresqlwheel_install_postgresql/)
-- [What do you use to monitor your applications in production ?](https://www.reddit.com/r/Python/comments/pe1hwt/what_do_you_use_to_monitor_your_applications_in/)
-- [Python Projects: How to Interact with APIs in Python | Episode 2. Let me know what you guys think.](https://www.reddit.com/r/Python/comments/pdy3ec/python_projects_how_to_interact_with_apis_in/)
-- [Algorithms and Data Structures FREE COURSE || Arrays || Part 1](https://www.reddit.com/r/Python/comments/pdy04h/algorithms_and_data_structures_free_course_arrays/)
-- [Requests-Cache – An easy way to get better performance with the python requests library](https://www.reddit.com/r/Python/comments/pdx10z/requestscache_an_easy_way_to_get_better/)
+- [Query a Search Engine via SMS using Python](https://www.reddit.com/r/Python/comments/pe7ncl/query_a_search_engine_via_sms_using_python/)
+- [How to translate text using googletrans library in Python](https://www.reddit.com/r/Python/comments/pe74w6/how_to_translate_text_using_googletrans_library/)
+- [Advanced Finance Python](https://www.reddit.com/r/Python/comments/pe6uyw/advanced_finance_python/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/pe6ttr/monday_daily_thread_project_ideas/)
+- [How to Sort Lists in Python](https://www.reddit.com/r/Python/comments/pe67ec/how_to_sort_lists_in_python/)
 <!-- BLOG-POST-LIST:END -->
