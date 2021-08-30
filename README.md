@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to run a python venv in an electron environment ?](https://www.reddit.com/r/Python/comments/pef3ko/how_to_run_a_python_venv_in_an_electron/)
+- [Loading Screen PyQt5 pyqtCuWi](https://www.reddit.com/r/Python/comments/pef2lc/loading_screen_pyqt5_pyqtcuwi/)
 - [Python 3.10 – Top 5 Features in the new Python Version](https://www.reddit.com/r/Python/comments/peeeic/python_310_top_5_features_in_the_new_python/)
 - [Getting insights from political violence and protests around the world](https://www.reddit.com/r/Python/comments/pedkt8/getting_insights_from_political_violence_and/)
 - [How to open source, privately?](https://www.reddit.com/r/Python/comments/pebps7/how_to_open_source_privately/)
-- [Query a Search Engine via SMS using Python](https://www.reddit.com/r/Python/comments/pe7ncl/query_a_search_engine_via_sms_using_python/)
-- [How to translate text using googletrans library in Python](https://www.reddit.com/r/Python/comments/pe74w6/how_to_translate_text_using_googletrans_library/)
 <!-- BLOG-POST-LIST:END -->
