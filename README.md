@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Python 2D game library Arcade 2.6.0 has been released](https://www.reddit.com/r/Python/comments/pei2su/the_python_2d_game_library_arcade_260_has_been/)
 - [How to Solve Integrals in Python: A Complete and Quick Guide to Symbolic and Numerical Integration using Sympy and Scipy](https://www.reddit.com/r/Python/comments/peh7gy/how_to_solve_integrals_in_python_a_complete_and/)
 - [How to learn programming to be efficient and not outburn in the long run.](https://www.reddit.com/r/Python/comments/peg6r7/how_to_learn_programming_to_be_efficient_and_not/)
 - [I made a 'lazy' remote on Flask!](https://www.reddit.com/r/Python/comments/peg2ig/i_made_a_lazy_remote_on_flask/)
 - [Loading Screen PyQt5 pyqtCuWi](https://www.reddit.com/r/Python/comments/pef2lc/loading_screen_pyqt5_pyqtcuwi/)
-- [Python 3.10 – Top 5 Features in the new Python Version](https://www.reddit.com/r/Python/comments/peeeic/python_310_top_5_features_in_the_new_python/)
 <!-- BLOG-POST-LIST:END -->
