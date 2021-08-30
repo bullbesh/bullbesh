@@ -19,5 +19,5 @@
 - [How to translate text using googletrans library in Python](https://www.reddit.com/r/Python/comments/pe74w6/how_to_translate_text_using_googletrans_library/)
 - [Advanced Finance Python](https://www.reddit.com/r/Python/comments/pe6uyw/advanced_finance_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/pe6ttr/monday_daily_thread_project_ideas/)
-- [How to Sort Lists in Python](https://www.reddit.com/r/Python/comments/pe67ec/how_to_sort_lists_in_python/)
+- [pip install postgresql-wheel: Install PostgreSQL Server as a local non-root pip package](https://www.reddit.com/r/Python/comments/pe33ki/pip_install_postgresqlwheel_install_postgresql/)
 <!-- BLOG-POST-LIST:END -->
