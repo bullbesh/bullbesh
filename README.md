@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Secure a FastAPI + SQLAlchemy App](https://www.reddit.com/r/Python/comments/pelku8/how_to_secure_a_fastapi_sqlalchemy_app/)
+- [Alexa Inquiry | Bulk site Alexa Inquiry | How to find site rank?](https://www.reddit.com/r/Python/comments/pelc3d/alexa_inquiry_bulk_site_alexa_inquiry_how_to_find/)
+- [Interactable Game of Life - by Giocrom](https://www.reddit.com/r/Python/comments/pekmlz/interactable_game_of_life_by_giocrom/)
+- [I created a python package.](https://www.reddit.com/r/Python/comments/pekdl4/i_created_a_python_package/)
 - [I developed a Python library that preprocesses datasets in 1 command for audio AI](https://www.reddit.com/r/Python/comments/pek3oq/i_developed_a_python_library_that_preprocesses/)
-- [Turn your python scripts into websites using streamlit](https://www.reddit.com/r/Python/comments/pejnlz/turn_your_python_scripts_into_websites_using/)
-- [What is your experience with async Flask?](https://www.reddit.com/r/Python/comments/pej9bl/what_is_your_experience_with_async_flask/)
-- [The Python 2D game library Arcade 2.6.0 has been released](https://www.reddit.com/r/Python/comments/pei2su/the_python_2d_game_library_arcade_260_has_been/)
-- [How to Solve Integrals in Python: A Complete and Quick Guide to Symbolic and Numerical Integration using Sympy and Scipy](https://www.reddit.com/r/Python/comments/peh7gy/how_to_solve_integrals_in_python_a_complete_and/)
 <!-- BLOG-POST-LIST:END -->
