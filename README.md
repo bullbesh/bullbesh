@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to open source, privately?](https://www.reddit.com/r/Python/comments/pebps7/how_to_open_source_privately/)
 - [Query a Search Engine via SMS using Python](https://www.reddit.com/r/Python/comments/pe7ncl/query_a_search_engine_via_sms_using_python/)
 - [How to translate text using googletrans library in Python](https://www.reddit.com/r/Python/comments/pe74w6/how_to_translate_text_using_googletrans_library/)
 - [Advanced Finance Python](https://www.reddit.com/r/Python/comments/pe6uyw/advanced_finance_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/pe6ttr/monday_daily_thread_project_ideas/)
-- [pip install postgresql-wheel: Install PostgreSQL Server as a local non-root pip package](https://www.reddit.com/r/Python/comments/pe33ki/pip_install_postgresqlwheel_install_postgresql/)
 <!-- BLOG-POST-LIST:END -->
