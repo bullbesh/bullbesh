@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Face Mask Detection using Python and Machine Learning - Kaggle Tutorials](https://www.reddit.com/r/Python/comments/pf6eco/face_mask_detection_using_python_and_machine/)
+- [Using Python Optional Arguments When Defining Functions](https://www.reddit.com/r/Python/comments/pf6593/using_python_optional_arguments_when_defining/)
 - [Python Interview Questions app](https://www.reddit.com/r/Python/comments/pf5p4o/python_interview_questions_app/)
 - [I created Bunnybook, a social network built with FastAPI + React/RxJs, Neo4j, PostgreSQL and Redis](https://www.reddit.com/r/Python/comments/pf5dt0/i_created_bunnybook_a_social_network_built_with/)
 - [barely, a lightweight but highly extensible SSG - would love some feedback, esp. on the documentation!](https://www.reddit.com/r/Python/comments/pf5ase/barely_a_lightweight_but_highly_extensible_ssg/)
-- [CreateThread.py](https://www.reddit.com/r/Python/comments/pf4yy1/createthreadpy/)
-- [Made a Free tool for translating between coding Languages. (https://translate-code.com/) It is built on top of OpenAI codex model which is state of the art code generation model.](https://www.reddit.com/r/Python/comments/pf4dnq/made_a_free_tool_for_translating_between_coding/)
 <!-- BLOG-POST-LIST:END -->
