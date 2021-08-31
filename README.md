@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made a Free tool for translating between coding Languages. (https://translate-code.com/) It is built on top of OpenAI codex model which is state of the art code generation model.](https://www.reddit.com/r/Python/comments/pf4dnq/made_a_free_tool_for_translating_between_coding/)
+- [Python Insider: Python 3.9.7 and 3.8.12 are now available](https://www.reddit.com/r/Python/comments/pf49sw/python_insider_python_397_and_3812_are_now/)
 - [Leverage tests to catch non-functional issues](https://www.reddit.com/r/Python/comments/pf2m5x/leverage_tests_to_catch_nonfunctional_issues/)
 - [Why python is so easy for beginners?](https://www.reddit.com/r/Python/comments/pf2lpt/why_python_is_so_easy_for_beginners/)
 - [Sync Code in Async Manner](https://www.reddit.com/r/Python/comments/pf1t9q/sync_code_in_async_manner/)
-- [Spatial binning using rectangular grids](https://www.reddit.com/r/Python/comments/pf1gkc/spatial_binning_using_rectangular_grids/)
-- [What are the best practices for using the requests library?](https://www.reddit.com/r/Python/comments/pf1cmh/what_are_the_best_practices_for_using_the/)
 <!-- BLOG-POST-LIST:END -->
