@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I sped up my TUI library's custom markup language by up to 60%!](https://www.reddit.com/r/Python/comments/pfdi7q/i_sped_up_my_tui_librarys_custom_markup_language/)
+- [What is the Pythonic way to implement a client for GraphQL API?](https://www.reddit.com/r/Python/comments/pfczrz/what_is_the_pythonic_way_to_implement_a_client/)
 - [Pretty printing JSON with Rich](https://www.reddit.com/r/Python/comments/pfcbnc/pretty_printing_json_with_rich/)
 - [Weekly Summary of remote jobs in Pluo](https://www.reddit.com/r/Python/comments/pfbqje/weekly_summary_of_remote_jobs_in_pluo/)
 - [I created an app that does for tox, what create-react-app does for React.](https://www.reddit.com/r/Python/comments/pfbptq/i_created_an_app_that_does_for_tox_what/)
-- [Fractal Tree Generator](https://www.reddit.com/r/Python/comments/pfad2j/fractal_tree_generator/)
-- [Simple Mandelbrot Browser](https://www.reddit.com/r/Python/comments/pfa6ev/simple_mandelbrot_browser/)
 <!-- BLOG-POST-LIST:END -->
