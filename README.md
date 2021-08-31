@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Dicify an image](https://www.reddit.com/r/Python/comments/pf92b4/dicify_an_image/)
-- [AI writing Python Code](https://www.reddit.com/r/Python/comments/pf8bh2/ai_writing_python_code/)
-- [Python Numpy Tutorial for Beginners](https://www.reddit.com/r/Python/comments/pf7git/python_numpy_tutorial_for_beginners/)
-- [A module for parsing boarding pass data.](https://www.reddit.com/r/Python/comments/pf7ccw/a_module_for_parsing_boarding_pass_data/)
-- [How different is python 3.9 from 3.6?](https://www.reddit.com/r/Python/comments/pf75av/how_different_is_python_39_from_36/)
+- [Fractal Tree Generator](https://www.reddit.com/r/Python/comments/pfad2j/fractal_tree_generator/)
+- [Simple Mandelbrot Browser](https://www.reddit.com/r/Python/comments/pfa6ev/simple_mandelbrot_browser/)
+- [A Discord.py-less Python Discord Bot](https://www.reddit.com/r/Python/comments/pf9w58/a_discordpyless_python_discord_bot/)
+- [Blender course?](https://www.reddit.com/r/Python/comments/pf9uux/blender_course/)
+- [I made a free interactive Python course for beginners](https://www.reddit.com/r/Python/comments/pf9q2d/i_made_a_free_interactive_python_course_for/)
 <!-- BLOG-POST-LIST:END -->
