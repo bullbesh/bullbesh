@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Interview Questions app](https://www.reddit.com/r/Python/comments/pf5p4o/python_interview_questions_app/)
+- [I created Bunnybook, a social network built with FastAPI + React/RxJs, Neo4j, PostgreSQL and Redis](https://www.reddit.com/r/Python/comments/pf5dt0/i_created_bunnybook_a_social_network_built_with/)
+- [barely, a lightweight but highly extensible SSG - would love some feedback, esp. on the documentation!](https://www.reddit.com/r/Python/comments/pf5ase/barely_a_lightweight_but_highly_extensible_ssg/)
+- [CreateThread.py](https://www.reddit.com/r/Python/comments/pf4yy1/createthreadpy/)
 - [Made a Free tool for translating between coding Languages. (https://translate-code.com/) It is built on top of OpenAI codex model which is state of the art code generation model.](https://www.reddit.com/r/Python/comments/pf4dnq/made_a_free_tool_for_translating_between_coding/)
-- [Python Insider: Python 3.9.7 and 3.8.12 are now available](https://www.reddit.com/r/Python/comments/pf49sw/python_insider_python_397_and_3812_are_now/)
-- [Leverage tests to catch non-functional issues](https://www.reddit.com/r/Python/comments/pf2m5x/leverage_tests_to_catch_nonfunctional_issues/)
-- [Why python is so easy for beginners?](https://www.reddit.com/r/Python/comments/pf2lpt/why_python_is_so_easy_for_beginners/)
-- [Sync Code in Async Manner](https://www.reddit.com/r/Python/comments/pf1t9q/sync_code_in_async_manner/)
 <!-- BLOG-POST-LIST:END -->
