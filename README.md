@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dicify an image](https://www.reddit.com/r/Python/comments/pf92b4/dicify_an_image/)
+- [AI writing Python Code](https://www.reddit.com/r/Python/comments/pf8bh2/ai_writing_python_code/)
 - [Python Numpy Tutorial for Beginners](https://www.reddit.com/r/Python/comments/pf7git/python_numpy_tutorial_for_beginners/)
 - [A module for parsing boarding pass data.](https://www.reddit.com/r/Python/comments/pf7ccw/a_module_for_parsing_boarding_pass_data/)
 - [How different is python 3.9 from 3.6?](https://www.reddit.com/r/Python/comments/pf75av/how_different_is_python_39_from_36/)
-- [Face Mask Detection using Python and Machine Learning - Kaggle Tutorials](https://www.reddit.com/r/Python/comments/pf6eco/face_mask_detection_using_python_and_machine/)
-- [Using Python Optional Arguments When Defining Functions](https://www.reddit.com/r/Python/comments/pf6593/using_python_optional_arguments_when_defining/)
 <!-- BLOG-POST-LIST:END -->
