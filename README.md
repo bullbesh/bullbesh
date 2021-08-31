@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pretty printing JSON with Rich](https://www.reddit.com/r/Python/comments/pfcbnc/pretty_printing_json_with_rich/)
+- [Weekly Summary of remote jobs in Pluo](https://www.reddit.com/r/Python/comments/pfbqje/weekly_summary_of_remote_jobs_in_pluo/)
+- [I created an app that does for tox, what create-react-app does for React.](https://www.reddit.com/r/Python/comments/pfbptq/i_created_an_app_that_does_for_tox_what/)
 - [Fractal Tree Generator](https://www.reddit.com/r/Python/comments/pfad2j/fractal_tree_generator/)
 - [Simple Mandelbrot Browser](https://www.reddit.com/r/Python/comments/pfa6ev/simple_mandelbrot_browser/)
-- [A Discord.py-less Python Discord Bot](https://www.reddit.com/r/Python/comments/pf9w58/a_discordpyless_python_discord_bot/)
-- [Blender course?](https://www.reddit.com/r/Python/comments/pf9uux/blender_course/)
-- [I made a free interactive Python course for beginners](https://www.reddit.com/r/Python/comments/pf9q2d/i_made_a_free_interactive_python_course_for/)
 <!-- BLOG-POST-LIST:END -->
