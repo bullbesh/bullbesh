@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Numpy Tutorial for Beginners](https://www.reddit.com/r/Python/comments/pf7git/python_numpy_tutorial_for_beginners/)
+- [A module for parsing boarding pass data.](https://www.reddit.com/r/Python/comments/pf7ccw/a_module_for_parsing_boarding_pass_data/)
+- [How different is python 3.9 from 3.6?](https://www.reddit.com/r/Python/comments/pf75av/how_different_is_python_39_from_36/)
 - [Face Mask Detection using Python and Machine Learning - Kaggle Tutorials](https://www.reddit.com/r/Python/comments/pf6eco/face_mask_detection_using_python_and_machine/)
 - [Using Python Optional Arguments When Defining Functions](https://www.reddit.com/r/Python/comments/pf6593/using_python_optional_arguments_when_defining/)
-- [Python Interview Questions app](https://www.reddit.com/r/Python/comments/pf5p4o/python_interview_questions_app/)
-- [I created Bunnybook, a social network built with FastAPI + React/RxJs, Neo4j, PostgreSQL and Redis](https://www.reddit.com/r/Python/comments/pf5dt0/i_created_bunnybook_a_social_network_built_with/)
-- [barely, a lightweight but highly extensible SSG - would love some feedback, esp. on the documentation!](https://www.reddit.com/r/Python/comments/pf5ase/barely_a_lightweight_but_highly_extensible_ssg/)
 <!-- BLOG-POST-LIST:END -->
