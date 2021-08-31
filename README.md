@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Leverage tests to catch non-functional issues](https://www.reddit.com/r/Python/comments/pf2m5x/leverage_tests_to_catch_nonfunctional_issues/)
+- [Why python is so easy for beginners?](https://www.reddit.com/r/Python/comments/pf2lpt/why_python_is_so_easy_for_beginners/)
 - [Sync Code in Async Manner](https://www.reddit.com/r/Python/comments/pf1t9q/sync_code_in_async_manner/)
 - [Spatial binning using rectangular grids](https://www.reddit.com/r/Python/comments/pf1gkc/spatial_binning_using_rectangular_grids/)
 - [What are the best practices for using the requests library?](https://www.reddit.com/r/Python/comments/pf1cmh/what_are_the_best_practices_for_using_the/)
-- [GitHub - tbehner/pps: Search PyPI for packages from the command line.](https://www.reddit.com/r/Python/comments/pf127q/github_tbehnerpps_search_pypi_for_packages_from/)
-- [The Python YourSuper API Now Let's You Check Historical Investment Returns](https://www.reddit.com/r/Python/comments/pezj2i/the_python_yoursuper_api_now_lets_you_check/)
 <!-- BLOG-POST-LIST:END -->
