@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spatial binning using rectangular grids](https://www.reddit.com/r/Python/comments/pf1gkc/spatial_binning_using_rectangular_grids/)
+- [What are the best practices for using the requests library?](https://www.reddit.com/r/Python/comments/pf1cmh/what_are_the_best_practices_for_using_the/)
+- [GitHub - tbehner/pps: Search PyPI for packages from the command line.](https://www.reddit.com/r/Python/comments/pf127q/github_tbehnerpps_search_pypi_for_packages_from/)
 - [The Python YourSuper API Now Let's You Check Historical Investment Returns](https://www.reddit.com/r/Python/comments/pezj2i/the_python_yoursuper_api_now_lets_you_check/)
 - [What were the first 5 programs you made?](https://www.reddit.com/r/Python/comments/pex2f2/what_were_the_first_5_programs_you_made/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/peue5k/tuesday_daily_thread_advanced_questions/)
-- [New to Python - is the new Humble Bundle a good resource?](https://www.reddit.com/r/Python/comments/pet6c2/new_to_python_is_the_new_humble_bundle_a_good/)
-- [Little advice or feedback on a simple program I wrote.](https://www.reddit.com/r/Python/comments/pepah1/little_advice_or_feedback_on_a_simple_program_i/)
 <!-- BLOG-POST-LIST:END -->
