@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My eyes, oh god my eyes!](https://www.reddit.com/r/Python/comments/pewrkx/my_eyes_oh_god_my_eyes/)
-- [Tips on how to build a discord bot using python](https://www.reddit.com/r/Python/comments/pew9jf/tips_on_how_to_build_a_discord_bot_using_python/)
+- [What were the first 5 programs you made?](https://www.reddit.com/r/Python/comments/pex2f2/what_were_the_first_5_programs_you_made/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/peue5k/tuesday_daily_thread_advanced_questions/)
 - [New to Python - is the new Humble Bundle a good resource?](https://www.reddit.com/r/Python/comments/pet6c2/new_to_python_is_the_new_humble_bundle_a_good/)
 - [Little advice or feedback on a simple program I wrote.](https://www.reddit.com/r/Python/comments/pepah1/little_advice_or_feedback_on_a_simple_program_i/)
+- [Run python on mobile phone (full guide)](https://www.reddit.com/r/Python/comments/pemvcg/run_python_on_mobile_phone_full_guide/)
 <!-- BLOG-POST-LIST:END -->
