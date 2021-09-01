@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why TODO might be better than an Abstract Base Class [David Beazley]](https://www.reddit.com/r/Python/comments/pfpd51/why_todo_might_be_better_than_an_abstract_base/)
 - [Here are a bunch of FREE Practical Deep Learning courses:](https://www.reddit.com/r/Python/comments/pfnnl6/here_are_a_bunch_of_free_practical_deep_learning/)
 - [how to build your own free neural search engine from scratch using open source framework Jina](https://www.reddit.com/r/Python/comments/pflwfc/how_to_build_your_own_free_neural_search_engine/)
 - [Making a Python course for beginners on YouTube at the age of 13](https://www.reddit.com/r/Python/comments/pfko2t/making_a_python_course_for_beginners_on_youtube/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/pfi1wz/wednesday_daily_thread_beginner_questions/)
-- [I made a gratient/fade text module (and for banners)](https://www.reddit.com/r/Python/comments/pffthf/i_made_a_gratientfade_text_module_and_for_banners/)
 <!-- BLOG-POST-LIST:END -->
