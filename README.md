@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pass Flow - Python Football Data Analysis and Visualization](https://www.reddit.com/r/Python/comments/pfsgd6/pass_flow_python_football_data_analysis_and/)
+- [Beginning Python](https://www.reddit.com/r/Python/comments/pfrzce/beginning_python/)
 - [Cooperative package management for Python](https://www.reddit.com/r/Python/comments/pfqzqg/cooperative_package_management_for_python/)
 - [How to find the best Python web developer for your company?](https://www.reddit.com/r/Python/comments/pfqunx/how_to_find_the_best_python_web_developer_for/)
 - [Speed up your coding using Anki](https://www.reddit.com/r/Python/comments/pfqd68/speed_up_your_coding_using_anki/)
-- [Why TODO might be better than an Abstract Base Class [David Beazley]](https://www.reddit.com/r/Python/comments/pfpd51/why_todo_might_be_better_than_an_abstract_base/)
-- [Here are a bunch of FREE Practical Deep Learning courses:](https://www.reddit.com/r/Python/comments/pfnnl6/here_are_a_bunch_of_free_practical_deep_learning/)
 <!-- BLOG-POST-LIST:END -->
