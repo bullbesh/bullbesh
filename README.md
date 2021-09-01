@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [corr, count, cov methods of Series in Pandas #python](https://www.reddit.com/r/Python/comments/pfx3z3/corr_count_cov_methods_of_series_in_pandas_python/)
+- [I have created a Web Application Reconnaissance Framework (WARF) in Django. It gathers pieces of information about the target website and helps you to properly maintain the information of each individual target. [Reconnaissance is the first phase of Hacking which is an information-gathering phase]](https://www.reddit.com/r/Python/comments/pfwakw/i_have_created_a_web_application_reconnaissance/)
+- [I created an interactive Python exercise workbook to help students practice Python. Available online for free, no downloads or registration required!](https://www.reddit.com/r/Python/comments/pfw3ht/i_created_an_interactive_python_exercise_workbook/)
 - [Using Pygame, I made an application that simulates sorting algorithms](https://www.reddit.com/r/Python/comments/pfuyfu/using_pygame_i_made_an_application_that_simulates/)
 - [✔ Python: Tuple For Beginners](https://www.reddit.com/r/Python/comments/pfu86y/python_tuple_for_beginners/)
-- [When/Why Anaconda](https://www.reddit.com/r/Python/comments/pfu54a/whenwhy_anaconda/)
-- [These are the 10 best Python courses on the internet according to my data analysis (using Python)](https://www.reddit.com/r/Python/comments/pftwtc/these_are_the_10_best_python_courses_on_the/)
-- [🐍 Best Practices for Flask API Development](https://www.reddit.com/r/Python/comments/pftl80/best_practices_for_flask_api_development/)
 <!-- BLOG-POST-LIST:END -->
