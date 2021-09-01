@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cooperative package management for Python](https://www.reddit.com/r/Python/comments/pfqzqg/cooperative_package_management_for_python/)
+- [How to find the best Python web developer for your company?](https://www.reddit.com/r/Python/comments/pfqunx/how_to_find_the_best_python_web_developer_for/)
+- [Speed up your coding using Anki](https://www.reddit.com/r/Python/comments/pfqd68/speed_up_your_coding_using_anki/)
 - [Why TODO might be better than an Abstract Base Class [David Beazley]](https://www.reddit.com/r/Python/comments/pfpd51/why_todo_might_be_better_than_an_abstract_base/)
 - [Here are a bunch of FREE Practical Deep Learning courses:](https://www.reddit.com/r/Python/comments/pfnnl6/here_are_a_bunch_of_free_practical_deep_learning/)
-- [how to build your own free neural search engine from scratch using open source framework Jina](https://www.reddit.com/r/Python/comments/pflwfc/how_to_build_your_own_free_neural_search_engine/)
-- [Making a Python course for beginners on YouTube at the age of 13](https://www.reddit.com/r/Python/comments/pfko2t/making_a_python_course_for_beginners_on_youtube/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/pfi1wz/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
