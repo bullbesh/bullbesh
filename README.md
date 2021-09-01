@@ -19,5 +19,5 @@
 - [Data workflow ETL / analytics pipeline with Knime and Python](https://www.reddit.com/r/Python/comments/pflp6n/data_workflow_etl_analytics_pipeline_with_knime/)
 - [Common mistakes we make in Python and why we should avoid that part 3](https://www.reddit.com/r/Python/comments/pflfng/common_mistakes_we_make_in_python_and_why_we/)
 - [Making a Python course for beginners on YouTube at the age of 13](https://www.reddit.com/r/Python/comments/pfko2t/making_a_python_course_for_beginners_on_youtube/)
-- [Here are a bunch of FREE Practical Deep Learning courses:](https://www.reddit.com/r/Python/comments/pfk0bt/here_are_a_bunch_of_free_practical_deep_learning/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/pfi1wz/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
