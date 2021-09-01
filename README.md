@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [✔ Python: Tuple For Beginners](https://www.reddit.com/r/Python/comments/pfu86y/python_tuple_for_beginners/)
+- [When/Why Anaconda](https://www.reddit.com/r/Python/comments/pfu54a/whenwhy_anaconda/)
+- [These are the 10 best Python courses on the internet according to my data analysis (using Python)](https://www.reddit.com/r/Python/comments/pftwtc/these_are_the_10_best_python_courses_on_the/)
 - [🐍 Best Practices for Flask API Development](https://www.reddit.com/r/Python/comments/pftl80/best_practices_for_flask_api_development/)
 - [Pass Flow - Python Football Data Analysis and Visualization](https://www.reddit.com/r/Python/comments/pfsgd6/pass_flow_python_football_data_analysis_and/)
-- [Cooperative package management for Python](https://www.reddit.com/r/Python/comments/pfqzqg/cooperative_package_management_for_python/)
-- [How to find the best Python web developer for your company?](https://www.reddit.com/r/Python/comments/pfqunx/how_to_find_the_best_python_web_developer_for/)
-- [Speed up your coding using Anki](https://www.reddit.com/r/Python/comments/pfqd68/speed_up_your_coding_using_anki/)
 <!-- BLOG-POST-LIST:END -->
