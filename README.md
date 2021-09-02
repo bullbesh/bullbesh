@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [starsessions 1.1 - pluggable session backends for Starlette and FastAPI (or any other ASGI framework)](https://www.reddit.com/r/Python/comments/pgism3/starsessions_11_pluggable_session_backends_for/)
+- [I created an open community for developers trying to learn Python in the form of micro-content ( concepts broken down as 30 seconds read ). Feel free to use it as a free resource and also contribute](https://www.reddit.com/r/Python/comments/pgidia/i_created_an_open_community_for_developers_trying/)
+- [Password generator with ascii table in Python 3.9](https://www.reddit.com/r/Python/comments/pgi525/password_generator_with_ascii_table_in_python_39/)
+- [Analyze your Spotify music listening](https://www.reddit.com/r/Python/comments/pghtmi/analyze_your_spotify_music_listening/)
 - [How to Beat the Heck Out of XGBoost with LightGBM](https://www.reddit.com/r/Python/comments/pghgq9/how_to_beat_the_heck_out_of_xgboost_with_lightgbm/)
-- [What do I use for a tamagotchi type game?](https://www.reddit.com/r/Python/comments/pghbmq/what_do_i_use_for_a_tamagotchi_type_game/)
-- [Interesting Fact about Python I wasn't aware until now.](https://www.reddit.com/r/Python/comments/pggkf7/interesting_fact_about_python_i_wasnt_aware_until/)
-- [Learn, How del keyword, remove() and pop() method remove values from the Python list | Explained using Animation (Manim Library) | Python for Beginners](https://www.reddit.com/r/Python/comments/pgg2m3/learn_how_del_keyword_remove_and_pop_method/)
-- [Introduction to the Infamous Python GIL](https://www.reddit.com/r/Python/comments/pgeg07/introduction_to_the_infamous_python_gil/)
 <!-- BLOG-POST-LIST:END -->
