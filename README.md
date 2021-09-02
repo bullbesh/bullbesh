@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [starsessions 1.1 - pluggable session backends for Starlette and FastAPI (or any other ASGI framework)](https://www.reddit.com/r/Python/comments/pgism3/starsessions_11_pluggable_session_backends_for/)
-- [I created an open community for developers trying to learn Python in the form of micro-content ( concepts broken down as 30 seconds read ). Feel free to use it as a free resource and also contribute](https://www.reddit.com/r/Python/comments/pgidia/i_created_an_open_community_for_developers_trying/)
-- [Password generator with ascii table in Python 3.9](https://www.reddit.com/r/Python/comments/pgi525/password_generator_with_ascii_table_in_python_39/)
-- [Analyze your Spotify music listening](https://www.reddit.com/r/Python/comments/pghtmi/analyze_your_spotify_music_listening/)
-- [How to Beat the Heck Out of XGBoost with LightGBM](https://www.reddit.com/r/Python/comments/pghgq9/how_to_beat_the_heck_out_of_xgboost_with_lightgbm/)
+- [ramsh (Relational Algebra Modeling Shell)](https://www.reddit.com/r/Python/comments/pgl1fq/ramsh_relational_algebra_modeling_shell/)
+- [Am able to run my programmes but cant see the code for edit anymore](https://www.reddit.com/r/Python/comments/pgkv36/am_able_to_run_my_programmes_but_cant_see_the/)
+- [Python in 2021: The Good, The Bad, and the Ugly](https://www.reddit.com/r/Python/comments/pgkogm/python_in_2021_the_good_the_bad_and_the_ugly/)
+- [Open Outlook MSG files on Mac for Free (using Automator and Python)](https://www.reddit.com/r/Python/comments/pgkkl4/open_outlook_msg_files_on_mac_for_free_using/)
+- [I analyzed the last year of popular news podcasts to see if the frequency of negative news could be used to predict the stock market.](https://www.reddit.com/r/Python/comments/pgk2l4/i_analyzed_the_last_year_of_popular_news_podcasts/)
 <!-- BLOG-POST-LIST:END -->
