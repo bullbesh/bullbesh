@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can I get help on this please? I’m stuck!](https://www.reddit.com/r/Python/comments/pg9w1p/can_i_get_help_on_this_please_im_stuck/)
 - [Critique my logging module](https://www.reddit.com/r/Python/comments/pg9e4d/critique_my_logging_module/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/pg6a71/thursday_daily_thread_python_careers_courses_and/)
 - [I created a simple correspondence chess web app to practice web dev in Python](https://www.reddit.com/r/Python/comments/pg66ok/i_created_a_simple_correspondence_chess_web_app/)
 - [I finished my first genetic algorithm thingy in Python!](https://www.reddit.com/r/Python/comments/pg561a/i_finished_my_first_genetic_algorithm_thingy_in/)
-- [corr, count, cov methods of Series in Pandas #python](https://www.reddit.com/r/Python/comments/pfx3z3/corr_count_cov_methods_of_series_in_pandas_python/)
 <!-- BLOG-POST-LIST:END -->
