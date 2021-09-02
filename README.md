@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to the Infamous Python GIL](https://www.reddit.com/r/Python/comments/pgeg07/introduction_to_the_infamous_python_gil/)
+- [The Advantages of Python: do you agree with this?](https://www.reddit.com/r/Python/comments/pgebw1/the_advantages_of_python_do_you_agree_with_this/)
 - [Torrent Streaming CLI APP - Python](https://www.reddit.com/r/Python/comments/pgdxe1/torrent_streaming_cli_app_python/)
 - [Torrent Streaming CLI APP - Python, API](https://www.reddit.com/r/Python/comments/pgdwyk/torrent_streaming_cli_app_python_api/)
 - [Introductory Reinforcement Learning with Python, OpenAI Gym, and Google Colab](https://www.reddit.com/r/Python/comments/pgdij8/introductory_reinforcement_learning_with_python/)
-- [is the unittest important??](https://www.reddit.com/r/Python/comments/pgdaqy/is_the_unittest_important/)
-- [KivyMD Python - Build Mobile apps using Material Design | Youtube Playlist](https://www.reddit.com/r/Python/comments/pgd2px/kivymd_python_build_mobile_apps_using_material/)
 <!-- BLOG-POST-LIST:END -->
