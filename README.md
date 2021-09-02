@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Basics of Python Programming Online Tutorial Available for Free](https://www.reddit.com/r/Python/comments/pgrtn5/basics_of_python_programming_online_tutorial/)
 - [I ported openskill.js to python. No need to rely on the trueskill package and worry about licensing issues anymore!](https://www.reddit.com/r/Python/comments/pgoza3/i_ported_openskilljs_to_python_no_need_to_rely_on/)
 - ["Automate the Boring Stuff with Python" online course is free to sign up for the next few days with code SEP2021FREE](https://www.reddit.com/r/Python/comments/pgodht/automate_the_boring_stuff_with_python_online/)
 - [🐍 State Pattern in Python](https://www.reddit.com/r/Python/comments/pgo5fp/state_pattern_in_python/)
 - [I created this computer vision game using python](https://www.reddit.com/r/Python/comments/pgn47s/i_created_this_computer_vision_game_using_python/)
-- [Recently made a video about unit testing in Python and best unit testing principles in general. Would appreciate some feedback :)](https://www.reddit.com/r/Python/comments/pglf1u/recently_made_a_video_about_unit_testing_in/)
 <!-- BLOG-POST-LIST:END -->
