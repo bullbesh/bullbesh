@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created this computer vision game using python](https://www.reddit.com/r/Python/comments/pgn47s/i_created_this_computer_vision_game_using_python/)
 - [Recently made a video about unit testing in Python and best unit testing principles in general. Would appreciate some feedback :)](https://www.reddit.com/r/Python/comments/pglf1u/recently_made_a_video_about_unit_testing_in/)
 - [ramsh (Relational Algebra Modeling Shell)](https://www.reddit.com/r/Python/comments/pgl1fq/ramsh_relational_algebra_modeling_shell/)
 - [Python in 2021: The Good, The Bad, and the Ugly](https://www.reddit.com/r/Python/comments/pgkogm/python_in_2021_the_good_the_bad_and_the_ugly/)
 - [Open Outlook MSG files on Mac for Free (using Automator and Python)](https://www.reddit.com/r/Python/comments/pgkkl4/open_outlook_msg_files_on_mac_for_free_using/)
-- [I analyzed the last year of popular news podcasts to see if the frequency of negative news could be used to predict the stock market.](https://www.reddit.com/r/Python/comments/pgk2l4/i_analyzed_the_last_year_of_popular_news_podcasts/)
 <!-- BLOG-POST-LIST:END -->
