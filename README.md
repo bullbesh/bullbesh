@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Basic Data Types Introduction](https://www.reddit.com/r/Python/comments/pgvz9u/basic_data_types_introduction/)
+- [Cython, why should I care?](https://www.reddit.com/r/Python/comments/pgxrex/cython_why_should_i_care/)
+- [Free piano visualizer by 15 year old](https://www.reddit.com/r/Python/comments/pgx707/free_piano_visualizer_by_15_year_old/)
 - [Exciting New Ways To Be Told That Your Python Code is Bad](https://www.reddit.com/r/Python/comments/pgv0os/exciting_new_ways_to_be_told_that_your_python/)
 - [Migrating Discord Bots from Discord.py to Nextcord](https://www.reddit.com/r/Python/comments/pgu3ym/migrating_discord_bots_from_discordpy_to_nextcord/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/pgtstv/friday_daily_thread_free_chat_friday_daily_thread/)
-- [(Py)Bran - Basic Python Serialization/Deserialization Library](https://www.reddit.com/r/Python/comments/pgth4f/pybran_basic_python_serializationdeserialization/)
 <!-- BLOG-POST-LIST:END -->
