@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Image compression based on Principal Component Analysis. PCA is an unsupervised machine learning algorithm primarily used for dimension reduction of large dataset.](https://www.reddit.com/r/Python/comments/phai73/image_compression_based_on_principal_component/)
 - [QFBoxLayout](https://www.reddit.com/r/Python/comments/ph9dct/qfboxlayout/)
 - [Pomodoro App 🍅 - Increase Productivity using Own Built Apps](https://www.reddit.com/r/Python/comments/ph8x0p/pomodoro_app_increase_productivity_using_own/)
 - [Easy GUI Calculator In Python](https://www.reddit.com/r/Python/comments/ph8vvk/easy_gui_calculator_in_python/)
 - [Sudoku solving algorithm](https://www.reddit.com/r/Python/comments/ph8qwl/sudoku_solving_algorithm/)
-- [I made Blackjack 21 in Python!](https://www.reddit.com/r/Python/comments/ph8lsq/i_made_blackjack_21_in_python/)
 <!-- BLOG-POST-LIST:END -->
