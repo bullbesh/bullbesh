@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [create a basic game](https://www.reddit.com/r/Python/comments/phfihv/create_a_basic_game/)
 - [Favorite development tools setup and configuration?](https://www.reddit.com/r/Python/comments/phc3qa/favorite_development_tools_setup_and_configuration/)
 - [Run ONNX Transformers pipelines](https://www.reddit.com/r/Python/comments/phb0en/run_onnx_transformers_pipelines/)
 - [Image compression based on Principal Component Analysis. PCA is an unsupervised machine learning algorithm primarily used for dimension reduction of large dataset.](https://www.reddit.com/r/Python/comments/phai73/image_compression_based_on_principal_component/)
 - [QFBoxLayout](https://www.reddit.com/r/Python/comments/ph9dct/qfboxlayout/)
-- [Pomodoro App 🍅 - Increase Productivity using Own Built Apps](https://www.reddit.com/r/Python/comments/ph8x0p/pomodoro_app_increase_productivity_using_own/)
 <!-- BLOG-POST-LIST:END -->
