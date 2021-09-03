@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My learning tips for anything](https://www.reddit.com/r/Python/comments/ph1y3k/my_learning_tips_for_anything/)
+- [NLP quote maker - feedback please](https://www.reddit.com/r/Python/comments/ph1t3n/nlp_quote_maker_feedback_please/)
 - [What is Nuitka](https://www.reddit.com/r/Python/comments/ph1jom/what_is_nuitka/)
 - [I though that double slash was an integer division](https://www.reddit.com/r/Python/comments/ph17yn/i_though_that_double_slash_was_an_integer_division/)
 - [If you use the matrix feature in your Github actions workflows, I made an action you might like 🤞](https://www.reddit.com/r/Python/comments/ph15rf/if_you_use_the_matrix_feature_in_your_github/)
-- [Metadata Injection for JPEG Following Adobe's Content Authenticity Initiative (CAI) metadata standards and C2PA specs (Python Implementation)](https://www.reddit.com/r/Python/comments/ph0f8n/metadata_injection_for_jpeg_following_adobes/)
-- [Django details: What are the benefits of Python Django?](https://www.reddit.com/r/Python/comments/pgyrc0/django_details_what_are_the_benefits_of_python/)
 <!-- BLOG-POST-LIST:END -->
