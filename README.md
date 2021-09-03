@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrating Discord Bots from Discord.py to Nextcord](https://www.reddit.com/r/Python/comments/pgu3ym/migrating_discord_bots_from_discordpy_to_nextcord/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/pgtstv/friday_daily_thread_free_chat_friday_daily_thread/)
+- [(Py)Bran - Basic Python Serialization/Deserialization Library](https://www.reddit.com/r/Python/comments/pgth4f/pybran_basic_python_serializationdeserialization/)
+- [Learn about Kurtosis and calculate it in Python](https://www.reddit.com/r/Python/comments/pgt4rp/learn_about_kurtosis_and_calculate_it_in_python/)
 - [Reasons to use an array to interpolate a set of data points](https://www.reddit.com/r/Python/comments/pgsm92/reasons_to_use_an_array_to_interpolate_a_set_of/)
-- [Basics of Python Programming Online Tutorial Available for Free](https://www.reddit.com/r/Python/comments/pgrtn5/basics_of_python_programming_online_tutorial/)
-- [I ported openskill.js to python. No need to rely on the trueskill package and worry about licensing issues anymore!](https://www.reddit.com/r/Python/comments/pgoza3/i_ported_openskilljs_to_python_no_need_to_rely_on/)
-- ["Automate the Boring Stuff with Python" online course is free to sign up for the next few days with code SEP2021FREE](https://www.reddit.com/r/Python/comments/pgodht/automate_the_boring_stuff_with_python_online/)
-- [🐍 State Pattern in Python](https://www.reddit.com/r/Python/comments/pgo5fp/state_pattern_in_python/)
 <!-- BLOG-POST-LIST:END -->
