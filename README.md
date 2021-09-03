@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [check for duplicates dicts inside a list.. not working?](https://www.reddit.com/r/Python/comments/ph0yvk/check_for_duplicates_dicts_inside_a_list_not/)
+- [Metadata Injection for JPEG Following Adobe's Content Authenticity Initiative (CAI) metadata standards and C2PA specs (Python Implementation)](https://www.reddit.com/r/Python/comments/ph0f8n/metadata_injection_for_jpeg_following_adobes/)
 - [Django details: What are the benefits of Python Django?](https://www.reddit.com/r/Python/comments/pgyrc0/django_details_what_are_the_benefits_of_python/)
 - [Cython, why should I care?](https://www.reddit.com/r/Python/comments/pgxrex/cython_why_should_i_care/)
 - [Free piano visualizer by 15 year old](https://www.reddit.com/r/Python/comments/pgx707/free_piano_visualizer_by_15_year_old/)
-- [Exciting New Ways To Be Told That Your Python Code is Bad](https://www.reddit.com/r/Python/comments/pgv0os/exciting_new_ways_to_be_told_that_your_python/)
-- [Migrating Discord Bots from Discord.py to Nextcord](https://www.reddit.com/r/Python/comments/pgu3ym/migrating_discord_bots_from_discordpy_to_nextcord/)
 <!-- BLOG-POST-LIST:END -->
