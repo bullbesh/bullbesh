@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Basic Data Types Introduction](https://www.reddit.com/r/Python/comments/pgvz9u/basic_data_types_introduction/)
+- [Exciting New Ways To Be Told That Your Python Code is Bad](https://www.reddit.com/r/Python/comments/pgv0os/exciting_new_ways_to_be_told_that_your_python/)
 - [Migrating Discord Bots from Discord.py to Nextcord](https://www.reddit.com/r/Python/comments/pgu3ym/migrating_discord_bots_from_discordpy_to_nextcord/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/pgtstv/friday_daily_thread_free_chat_friday_daily_thread/)
 - [(Py)Bran - Basic Python Serialization/Deserialization Library](https://www.reddit.com/r/Python/comments/pgth4f/pybran_basic_python_serializationdeserialization/)
-- [Learn about Kurtosis and calculate it in Python](https://www.reddit.com/r/Python/comments/pgt4rp/learn_about_kurtosis_and_calculate_it_in_python/)
-- [Reasons to use an array to interpolate a set of data points](https://www.reddit.com/r/Python/comments/pgsm92/reasons_to_use_an_array_to_interpolate_a_set_of/)
 <!-- BLOG-POST-LIST:END -->
