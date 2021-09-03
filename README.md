@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My own try at a classic Blackjack](https://www.reddit.com/r/Python/comments/ph5ixx/my_own_try_at_a_classic_blackjack/)
+- [describe and diff methods of Pandas Series #python](https://www.reddit.com/r/Python/comments/ph52tv/describe_and_diff_methods_of_pandas_series_python/)
 - [Gravity simulation](https://www.reddit.com/r/Python/comments/ph4pwt/gravity_simulation/)
 - [Remove backslash in postman output when using json.dumps.](https://www.reddit.com/r/Python/comments/ph4k4b/remove_backslash_in_postman_output_when_using/)
 - [A simple randomic "Rock Paper Scissors"](https://www.reddit.com/r/Python/comments/ph4dmc/a_simple_randomic_rock_paper_scissors/)
-- ["Introducing Python" - This will remind some memories to a lot of us](https://www.reddit.com/r/Python/comments/ph4a24/introducing_python_this_will_remind_some_memories/)
-- [Clean code in Python](https://www.reddit.com/r/Python/comments/ph46zv/clean_code_in_python/)
 <!-- BLOG-POST-LIST:END -->
