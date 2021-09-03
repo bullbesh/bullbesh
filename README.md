@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made Blackjack 21 in Python!](https://www.reddit.com/r/Python/comments/ph8lsq/i_made_blackjack_21_in_python/)
 - [Web Scraping Cryptocurrency Price with Python (and Selenium)](https://www.reddit.com/r/Python/comments/ph69mi/web_scraping_cryptocurrency_price_with_python_and/)
 - [My own try at a classic Blackjack](https://www.reddit.com/r/Python/comments/ph5ixx/my_own_try_at_a_classic_blackjack/)
 - [describe and diff methods of Pandas Series #python](https://www.reddit.com/r/Python/comments/ph52tv/describe_and_diff_methods_of_pandas_series_python/)
 - [Gravity simulation](https://www.reddit.com/r/Python/comments/ph4pwt/gravity_simulation/)
-- [Remove backslash in postman output when using json.dumps.](https://www.reddit.com/r/Python/comments/ph4k4b/remove_backslash_in_postman_output_when_using/)
 <!-- BLOG-POST-LIST:END -->
