@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gravity simulation](https://www.reddit.com/r/Python/comments/ph4pwt/gravity_simulation/)
+- [Remove backslash in postman output when using json.dumps.](https://www.reddit.com/r/Python/comments/ph4k4b/remove_backslash_in_postman_output_when_using/)
+- [A simple randomic "Rock Paper Scissors"](https://www.reddit.com/r/Python/comments/ph4dmc/a_simple_randomic_rock_paper_scissors/)
+- ["Introducing Python" - This will remind some memories to a lot of us](https://www.reddit.com/r/Python/comments/ph4a24/introducing_python_this_will_remind_some_memories/)
 - [Clean code in Python](https://www.reddit.com/r/Python/comments/ph46zv/clean_code_in_python/)
-- [Check and delete file](https://www.reddit.com/r/Python/comments/ph43xh/check_and_delete_file/)
-- [My learning tips for anything](https://www.reddit.com/r/Python/comments/ph1y3k/my_learning_tips_for_anything/)
-- [NLP quote maker - feedback please](https://www.reddit.com/r/Python/comments/ph1t3n/nlp_quote_maker_feedback_please/)
-- [What is Nuitka](https://www.reddit.com/r/Python/comments/ph1jom/what_is_nuitka/)
 <!-- BLOG-POST-LIST:END -->
