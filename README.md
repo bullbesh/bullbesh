@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [check for duplicates dicts inside a list.. not working?](https://www.reddit.com/r/Python/comments/ph0yvk/check_for_duplicates_dicts_inside_a_list_not/)
+- [What is Nuitka](https://www.reddit.com/r/Python/comments/ph1jom/what_is_nuitka/)
+- [I though that double slash was an integer division](https://www.reddit.com/r/Python/comments/ph17yn/i_though_that_double_slash_was_an_integer_division/)
+- [If you use the matrix feature in your Github actions workflows, I made an action you might like 🤞](https://www.reddit.com/r/Python/comments/ph15rf/if_you_use_the_matrix_feature_in_your_github/)
 - [Metadata Injection for JPEG Following Adobe's Content Authenticity Initiative (CAI) metadata standards and C2PA specs (Python Implementation)](https://www.reddit.com/r/Python/comments/ph0f8n/metadata_injection_for_jpeg_following_adobes/)
 - [Django details: What are the benefits of Python Django?](https://www.reddit.com/r/Python/comments/pgyrc0/django_details_what_are_the_benefits_of_python/)
-- [Cython, why should I care?](https://www.reddit.com/r/Python/comments/pgxrex/cython_why_should_i_care/)
-- [Free piano visualizer by 15 year old](https://www.reddit.com/r/Python/comments/pgx707/free_piano_visualizer_by_15_year_old/)
 <!-- BLOG-POST-LIST:END -->
