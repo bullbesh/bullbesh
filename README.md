@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [python newbie here - help me understand the code!!](https://www.reddit.com/r/Python/comments/phs9w8/python_newbie_here_help_me_understand_the_code/)
+- [Pyxdu 1.0.0: Display the output of "du" disk usage tool in a window. A Python port of classic "xdu" that tries to follow the style of 1990s in its visual design. Version 1.0 is dedicated to the original XDU 1.0 released by Phil Dykstra exactly 30 years ago in 1991](https://www.reddit.com/r/Python/comments/phs9fs/pyxdu_100_display_the_output_of_du_disk_usage/)
 - [10 Awesome Python One-Liners Look Like A Pro 😎](https://www.reddit.com/r/Python/comments/phqopf/10_awesome_python_oneliners_look_like_a_pro/)
 - [I made a Twitch Live Stream Highlights Detector in Python!](https://www.reddit.com/r/Python/comments/phqhlz/i_made_a_twitch_live_stream_highlights_detector/)
 - [Today, I'm releasing the early version of TCR - a platform for accelerated Python and Machine Learning education. I hope you would take the time to provide some public/private feedback.](https://www.reddit.com/r/Python/comments/phqfk1/today_im_releasing_the_early_version_of_tcr_a/)
-- [Practical use of Python blog](https://www.reddit.com/r/Python/comments/phpc5f/practical_use_of_python_blog/)
-- [Finding area of polygon with unordered given points](https://www.reddit.com/r/Python/comments/phjm3l/finding_area_of_polygon_with_unordered_given/)
 <!-- BLOG-POST-LIST:END -->
