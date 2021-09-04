@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beginner level jobs for coding with Python?](https://www.reddit.com/r/Python/comments/phudky/beginner_level_jobs_for_coding_with_python/)
 - [VAERS Covid-19 Data Scrubber (Pandas)](https://www.reddit.com/r/Python/comments/phtaci/vaers_covid19_data_scrubber_pandas/)
-- [BIG DATA DATABASES - MONGODB QUERIES TUTORIAL - UNDERSTANDING MOST FREQU...](https://www.reddit.com/r/Python/comments/phsftk/big_data_databases_mongodb_queries_tutorial/)
 - [Pyxdu 1.0.0: Display the output of "du" disk usage tool in a window. A Python port of classic "xdu" that tries to follow the style of 1990s in its visual design. Version 1.0 is dedicated to the original XDU 1.0 released by Phil Dykstra exactly 30 years ago in 1991](https://www.reddit.com/r/Python/comments/phs9fs/pyxdu_100_display_the_output_of_du_disk_usage/)
 - [10 Awesome Python One-Liners Look Like A Pro 😎](https://www.reddit.com/r/Python/comments/phqopf/10_awesome_python_oneliners_look_like_a_pro/)
 - [I made a Twitch Live Stream Highlights Detector in Python!](https://www.reddit.com/r/Python/comments/phqhlz/i_made_a_twitch_live_stream_highlights_detector/)
