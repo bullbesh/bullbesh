@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Did I fail?](https://www.reddit.com/r/Python/comments/phhnvg/did_i_fail/)
+- [Open AI Codex/GitHub Copilot alternative for VS Code -- absolutely free of cost.](https://www.reddit.com/r/Python/comments/phh7hx/open_ai_codexgithub_copilot_alternative_for_vs/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/phgue0/saturday_daily_thread_resource_request_and/)
+- [Why your mock doesn’t work](https://www.reddit.com/r/Python/comments/phgaru/why_your_mock_doesnt_work/)
 - [create a basic game](https://www.reddit.com/r/Python/comments/phfihv/create_a_basic_game/)
-- [Favorite development tools setup and configuration?](https://www.reddit.com/r/Python/comments/phc3qa/favorite_development_tools_setup_and_configuration/)
-- [Run ONNX Transformers pipelines](https://www.reddit.com/r/Python/comments/phb0en/run_onnx_transformers_pipelines/)
-- [Image compression based on Principal Component Analysis. PCA is an unsupervised machine learning algorithm primarily used for dimension reduction of large dataset.](https://www.reddit.com/r/Python/comments/phai73/image_compression_based_on_principal_component/)
-- [QFBoxLayout](https://www.reddit.com/r/Python/comments/ph9dct/qfboxlayout/)
 <!-- BLOG-POST-LIST:END -->
