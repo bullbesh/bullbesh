@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Join us for an AMA with the developers of Black, the Uncompromising Code Formatter, this Saturday, September 11th at 10 AM PST, (17:00 pm UTC)](https://www.reddit.com/r/Python/comments/pihblq/join_us_for_an_ama_with_the_developers_of_black/)
 - [I Created an OOP Course for Beginners, divided into episodes, here is the link to the playlist of the Course. I hope to simplify the concepts for whoever struggled to understand Classes and OOP principles in general.](https://www.reddit.com/r/Python/comments/pigv2t/i_created_an_oop_course_for_beginners_divided/)
 - [Algorithms and Data Structures FREE COURSE || Arrays || Part 2 - LeetCode 1089. Duplicate Zeros](https://www.reddit.com/r/Python/comments/pig7jw/algorithms_and_data_structures_free_course_arrays/)
 - [I made a Super Calculator & Converter using Python!](https://www.reddit.com/r/Python/comments/pig3tt/i_made_a_super_calculator_converter_using_python/)
 - [Virtual Mouse using Python (Controlling cursor with hand motion and clicking with finger)](https://www.reddit.com/r/Python/comments/pify26/virtual_mouse_using_python_controlling_cursor/)
-- [I built futurecoder: a free interactive Python course, including an IDE with enhancements useful for any developer or teacher, all running in the browser](https://www.reddit.com/r/Python/comments/pieyuu/i_built_futurecoder_a_free_interactive_python/)
 <!-- BLOG-POST-LIST:END -->
