@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple "Rock, Paper, Scissor" with a couple of oddities](https://www.reddit.com/r/Python/comments/pia3bh/simple_rock_paper_scissor_with_a_couple_of/)
 - [12 Useful Python-based Content Management Systems (CMS)](https://www.reddit.com/r/Python/comments/pi9jzh/12_useful_pythonbased_content_management_systems/)
 - [How to scrape emails from Twitter using python](https://www.reddit.com/r/Python/comments/pi9hgf/how_to_scrape_emails_from_twitter_using_python/)
 - [Python Insider: Python 3.7.12 and 3.6.15 security updates now available](https://www.reddit.com/r/Python/comments/pi8dx0/python_insider_python_3712_and_3615_security/)
 - [Got a job that requires Python and Django developement, also using Tkinter and Pyqt for desktop apps.](https://www.reddit.com/r/Python/comments/pi88q6/got_a_job_that_requires_python_and_django/)
-- [Download Playlist From Youtube In MP3 Format](https://www.reddit.com/r/Python/comments/pi6vmb/download_playlist_from_youtube_in_mp3_format/)
 <!-- BLOG-POST-LIST:END -->
