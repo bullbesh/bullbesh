@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Useful Python-based Content Management Systems (CMS)](https://www.reddit.com/r/Python/comments/pi9jzh/12_useful_pythonbased_content_management_systems/)
+- [How to scrape emails from Twitter using python](https://www.reddit.com/r/Python/comments/pi9hgf/how_to_scrape_emails_from_twitter_using_python/)
 - [Python Insider: Python 3.7.12 and 3.6.15 security updates now available](https://www.reddit.com/r/Python/comments/pi8dx0/python_insider_python_3712_and_3615_security/)
 - [Got a job that requires Python and Django developement, also using Tkinter and Pyqt for desktop apps.](https://www.reddit.com/r/Python/comments/pi88q6/got_a_job_that_requires_python_and_django/)
 - [Download Playlist From Youtube In MP3 Format](https://www.reddit.com/r/Python/comments/pi6vmb/download_playlist_from_youtube_in_mp3_format/)
-- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/pi2ive/sunday_daily_thread_whats_everyone_working_on/)
-- [Cool or Useful twitter bot idea](https://www.reddit.com/r/Python/comments/pi1tkf/cool_or_useful_twitter_bot_idea/)
 <!-- BLOG-POST-LIST:END -->
