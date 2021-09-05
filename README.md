@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Algorithms and Data Structures FREE COURSE || Arrays || Part 2 - LeetCode 1089. Duplicate Zeros](https://www.reddit.com/r/Python/comments/pig7jw/algorithms_and_data_structures_free_course_arrays/)
+- [I made a Super Calculator & Converter using Python!](https://www.reddit.com/r/Python/comments/pig3tt/i_made_a_super_calculator_converter_using_python/)
+- [Virtual Mouse using Python (Controlling cursor with hand motion and clicking with finger)](https://www.reddit.com/r/Python/comments/pify26/virtual_mouse_using_python_controlling_cursor/)
 - [I built futurecoder: a free interactive Python course, including an IDE with enhancements useful for any developer or teacher, all running in the browser](https://www.reddit.com/r/Python/comments/pieyuu/i_built_futurecoder_a_free_interactive_python/)
 - [I created a Numpy Tutorial series on Youtube because I wanted to learn it](https://www.reddit.com/r/Python/comments/pidtup/i_created_a_numpy_tutorial_series_on_youtube/)
-- [How you can track your personal finances using Python 🐍](https://www.reddit.com/r/Python/comments/pidoc6/how_you_can_track_your_personal_finances_using/)
-- [Getting started with Machine Learning](https://www.reddit.com/r/Python/comments/pida11/getting_started_with_machine_learning/)
-- [Which field in Python should i learn so i can get a job when i finish?](https://www.reddit.com/r/Python/comments/picisl/which_field_in_python_should_i_learn_so_i_can_get/)
 <!-- BLOG-POST-LIST:END -->
