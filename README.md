@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built futurecoder: a free interactive Python course, including an IDE with enhancements useful for any developer or teacher, all running in the browser](https://www.reddit.com/r/Python/comments/pieyuu/i_built_futurecoder_a_free_interactive_python/)
 - [I created a Numpy Tutorial series on Youtube because I wanted to learn it](https://www.reddit.com/r/Python/comments/pidtup/i_created_a_numpy_tutorial_series_on_youtube/)
 - [How you can track your personal finances using Python 🐍](https://www.reddit.com/r/Python/comments/pidoc6/how_you_can_track_your_personal_finances_using/)
 - [Getting started with Machine Learning](https://www.reddit.com/r/Python/comments/pida11/getting_started_with_machine_learning/)
 - [Which field in Python should i learn so i can get a job when i finish?](https://www.reddit.com/r/Python/comments/picisl/which_field_in_python_should_i_learn_so_i_can_get/)
-- [Pass Network - Python Football Data Analysis and Visualization](https://www.reddit.com/r/Python/comments/pic02e/pass_network_python_football_data_analysis_and/)
 <!-- BLOG-POST-LIST:END -->
