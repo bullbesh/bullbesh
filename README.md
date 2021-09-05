@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Question on quiz please help.](https://www.reddit.com/r/Python/comments/pi1uos/question_on_quiz_please_help/)
+- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/pi2ive/sunday_daily_thread_whats_everyone_working_on/)
 - [Cool or Useful twitter bot idea](https://www.reddit.com/r/Python/comments/pi1tkf/cool_or_useful_twitter_bot_idea/)
 - [Looking for a way to receive SMS Verification Codes and then integrate said code into python](https://www.reddit.com/r/Python/comments/pi12ku/looking_for_a_way_to_receive_sms_verification/)
 - [Python for Distributed Systems: How to write scripts that are horizontally scalable for big data](https://www.reddit.com/r/Python/comments/pi0jce/python_for_distributed_systems_how_to_write/)
