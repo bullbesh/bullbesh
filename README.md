@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a Numpy Tutorial series on Youtube because I wanted to learn it](https://www.reddit.com/r/Python/comments/pidtup/i_created_a_numpy_tutorial_series_on_youtube/)
+- [How you can track your personal finances using Python 🐍](https://www.reddit.com/r/Python/comments/pidoc6/how_you_can_track_your_personal_finances_using/)
+- [Getting started with Machine Learning](https://www.reddit.com/r/Python/comments/pida11/getting_started_with_machine_learning/)
 - [Which field in Python should i learn so i can get a job when i finish?](https://www.reddit.com/r/Python/comments/picisl/which_field_in_python_should_i_learn_so_i_can_get/)
 - [Pass Network - Python Football Data Analysis and Visualization](https://www.reddit.com/r/Python/comments/pic02e/pass_network_python_football_data_analysis_and/)
-- [The Ultimate Face-off: Flask vs. FastAPI](https://www.reddit.com/r/Python/comments/piauix/the_ultimate_faceoff_flask_vs_fastapi/)
-- [12 Useful Python-based Content Management Systems (CMS)](https://www.reddit.com/r/Python/comments/pi9jzh/12_useful_pythonbased_content_management_systems/)
-- [How to scrape emails from Twitter using python](https://www.reddit.com/r/Python/comments/pi9hgf/how_to_scrape_emails_from_twitter_using_python/)
 <!-- BLOG-POST-LIST:END -->
