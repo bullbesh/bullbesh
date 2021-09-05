@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for Part-Time Python Instructors (side-gig) - request coming from Nucamp Coding Bootcamp CEO](https://www.reddit.com/r/Python/comments/pimr1f/looking_for_parttime_python_instructors_sidegig/)
+- [I builded an wrapper for CoinMarketCap API](https://www.reddit.com/r/Python/comments/pimpb5/i_builded_an_wrapper_for_coinmarketcap_api/)
 - [How to Track the Progress of Parallel Tasks In Python with TQDM](https://www.reddit.com/r/Python/comments/pik6dy/how_to_track_the_progress_of_parallel_tasks_in/)
 - [I made a python module for Linux! It does macros and key detection!](https://www.reddit.com/r/Python/comments/pik2ex/i_made_a_python_module_for_linux_it_does_macros/)
 - [Image Classification with 100% using EfficientNet](https://www.reddit.com/r/Python/comments/pijj1e/image_classification_with_100_using_efficientnet/)
-- [I made an OpenCV-based fishing bot for fishton.io game, it can auto fishes.](https://www.reddit.com/r/Python/comments/piiufb/i_made_an_opencvbased_fishing_bot_for_fishtonio/)
-- [Recursion Is Not A Superpower: An Iterative Ackermann in Python](https://www.reddit.com/r/Python/comments/piiq1i/recursion_is_not_a_superpower_an_iterative/)
 <!-- BLOG-POST-LIST:END -->
