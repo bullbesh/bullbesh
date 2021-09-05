@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made an OpenCV-based fishing bot for fishton.io game, it can auto fishes.](https://www.reddit.com/r/Python/comments/piiufb/i_made_an_opencvbased_fishing_bot_for_fishtonio/)
+- [Recursion Is Not A Superpower: An Iterative Ackermann in Python](https://www.reddit.com/r/Python/comments/piiq1i/recursion_is_not_a_superpower_an_iterative/)
+- [The beauty of recursion](https://www.reddit.com/r/Python/comments/piicbt/the_beauty_of_recursion/)
 - [Join us for an AMA with the developers of Black, the Uncompromising Code Formatter, this Saturday, September 11th at 10 AM PST, (17:00 pm UTC)](https://www.reddit.com/r/Python/comments/pihblq/join_us_for_an_ama_with_the_developers_of_black/)
 - [I Created an OOP Course for Beginners, divided into episodes, here is the link to the playlist of the Course. I hope to simplify the concepts for whoever struggled to understand Classes and OOP principles in general.](https://www.reddit.com/r/Python/comments/pigv2t/i_created_an_oop_course_for_beginners_divided/)
-- [Algorithms and Data Structures FREE COURSE || Arrays || Part 2 - LeetCode 1089. Duplicate Zeros](https://www.reddit.com/r/Python/comments/pig7jw/algorithms_and_data_structures_free_course_arrays/)
-- [I made a Super Calculator & Converter using Python!](https://www.reddit.com/r/Python/comments/pig3tt/i_made_a_super_calculator_converter_using_python/)
-- [Virtual Mouse using Python (Controlling cursor with hand motion and clicking with finger)](https://www.reddit.com/r/Python/comments/pify26/virtual_mouse_using_python_controlling_cursor/)
 <!-- BLOG-POST-LIST:END -->
