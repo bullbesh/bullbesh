@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Download Playlist From Youtube In MP3 Format](https://www.reddit.com/r/Python/comments/pi6vmb/download_playlist_from_youtube_in_mp3_format/)
 - [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/pi2ive/sunday_daily_thread_whats_everyone_working_on/)
 - [Cool or Useful twitter bot idea](https://www.reddit.com/r/Python/comments/pi1tkf/cool_or_useful_twitter_bot_idea/)
 - [Looking for a way to receive SMS Verification Codes and then integrate said code into python](https://www.reddit.com/r/Python/comments/pi12ku/looking_for_a_way_to_receive_sms_verification/)
 - [Python for Distributed Systems: How to write scripts that are horizontally scalable for big data](https://www.reddit.com/r/Python/comments/pi0jce/python_for_distributed_systems_how_to_write/)
-- [PEG - Parsing Combinators - Simple JSON parser](https://www.reddit.com/r/Python/comments/phzjkh/peg_parsing_combinators_simple_json_parser/)
 <!-- BLOG-POST-LIST:END -->
