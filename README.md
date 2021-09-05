@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Track the Progress of Parallel Tasks In Python with TQDM](https://www.reddit.com/r/Python/comments/pik6dy/how_to_track_the_progress_of_parallel_tasks_in/)
+- [I made a python module for Linux! It does macros and key detection!](https://www.reddit.com/r/Python/comments/pik2ex/i_made_a_python_module_for_linux_it_does_macros/)
+- [Image Classification with 100% using EfficientNet](https://www.reddit.com/r/Python/comments/pijj1e/image_classification_with_100_using_efficientnet/)
 - [I made an OpenCV-based fishing bot for fishton.io game, it can auto fishes.](https://www.reddit.com/r/Python/comments/piiufb/i_made_an_opencvbased_fishing_bot_for_fishtonio/)
 - [Recursion Is Not A Superpower: An Iterative Ackermann in Python](https://www.reddit.com/r/Python/comments/piiq1i/recursion_is_not_a_superpower_an_iterative/)
-- [The beauty of recursion](https://www.reddit.com/r/Python/comments/piicbt/the_beauty_of_recursion/)
-- [Join us for an AMA with the developers of Black, the Uncompromising Code Formatter, this Saturday, September 11th at 10 AM PST, (17:00 pm UTC)](https://www.reddit.com/r/Python/comments/pihblq/join_us_for_an_ama_with_the_developers_of_black/)
-- [I Created an OOP Course for Beginners, divided into episodes, here is the link to the playlist of the Course. I hope to simplify the concepts for whoever struggled to understand Classes and OOP principles in general.](https://www.reddit.com/r/Python/comments/pigv2t/i_created_an_oop_course_for_beginners_divided/)
 <!-- BLOG-POST-LIST:END -->
