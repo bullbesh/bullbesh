@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Created my first Tkinter Project! A simple shopping calculator with a currency converter.](https://www.reddit.com/r/Python/comments/piytc3/created_my_first_tkinter_project_a_simple/)
 - [New to programing. " hello world "](https://www.reddit.com/r/Python/comments/piygx0/new_to_programing_hello_world/)
 - [Uncle Bob SOLID principles for Machine Learning](https://www.reddit.com/r/Python/comments/pixxxn/uncle_bob_solid_principles_for_machine_learning/)
 - [Cryptographic primitives in plain Python](https://www.reddit.com/r/Python/comments/piwreh/cryptographic_primitives_in_plain_python/)
 - [Top Machine Learning NLP Tools for Python](https://www.reddit.com/r/Python/comments/piw8o1/top_machine_learning_nlp_tools_for_python/)
-- [Performance comparison of String formatting Methods using timeit library](https://www.reddit.com/r/Python/comments/pivojb/performance_comparison_of_string_formatting/)
 <!-- BLOG-POST-LIST:END -->
