@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Where do you begin learning how to contribute to Open-source with Python ?](https://www.reddit.com/r/Python/comments/pir5y4/where_do_you_begin_learning_how_to_contribute_to/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/pioa8m/monday_daily_thread_project_ideas/)
 - [Looking for Part-Time Python Instructors (side-gig) - request coming from Nucamp Coding Bootcamp CEO](https://www.reddit.com/r/Python/comments/pimr1f/looking_for_parttime_python_instructors_sidegig/)
 - [I builded an wrapper for CoinMarketCap API](https://www.reddit.com/r/Python/comments/pimpb5/i_builded_an_wrapper_for_coinmarketcap_api/)
 - [How to Track the Progress of Parallel Tasks In Python with TQDM](https://www.reddit.com/r/Python/comments/pik6dy/how_to_track_the_progress_of_parallel_tasks_in/)
-- [I made a python module for Linux! It does macros and key detection!](https://www.reddit.com/r/Python/comments/pik2ex/i_made_a_python_module_for_linux_it_does_macros/)
 <!-- BLOG-POST-LIST:END -->
