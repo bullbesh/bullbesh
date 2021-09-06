@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top Machine Learning NLP Tools for Python](https://www.reddit.com/r/Python/comments/piw8o1/top_machine_learning_nlp_tools_for_python/)
 - [Performance comparison of String formatting Methods using timeit library](https://www.reddit.com/r/Python/comments/pivojb/performance_comparison_of_string_formatting/)
 - [Interesting advanced python books - Gift](https://www.reddit.com/r/Python/comments/piv80m/interesting_advanced_python_books_gift/)
 - [ATM Simulation](https://www.reddit.com/r/Python/comments/piv0be/atm_simulation/)
 - [life4/textdistance: Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.](https://www.reddit.com/r/Python/comments/piubst/life4textdistance_compute_distance_between/)
-- [Stock Price Prediction Using Hidden Markov Model](https://www.reddit.com/r/Python/comments/piu9fx/stock_price_prediction_using_hidden_markov_model/)
 <!-- BLOG-POST-LIST:END -->
