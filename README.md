@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Performance comparison of String formatting Methods using timeit library](https://www.reddit.com/r/Python/comments/pivojb/performance_comparison_of_string_formatting/)
 - [Interesting advanced python books - Gift](https://www.reddit.com/r/Python/comments/piv80m/interesting_advanced_python_books_gift/)
 - [ATM Simulation](https://www.reddit.com/r/Python/comments/piv0be/atm_simulation/)
 - [life4/textdistance: Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.](https://www.reddit.com/r/Python/comments/piubst/life4textdistance_compute_distance_between/)
 - [Stock Price Prediction Using Hidden Markov Model](https://www.reddit.com/r/Python/comments/piu9fx/stock_price_prediction_using_hidden_markov_model/)
-- [Common mistakes we make in Python and why we should avoid that part 4](https://www.reddit.com/r/Python/comments/pisn02/common_mistakes_we_make_in_python_and_why_we/)
 <!-- BLOG-POST-LIST:END -->
