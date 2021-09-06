@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Infinity Search - search engine with its crawlers and web framework built with Python](https://www.reddit.com/r/Python/comments/pjao3j/infinity_search_search_engine_with_its_crawlers/)
+- [Elegant One-Liners in Python](https://www.reddit.com/r/Python/comments/pjak25/elegant_oneliners_in_python/)
+- [Test for Normality Using Python: Beginner’s Guide - PyShark](https://www.reddit.com/r/Python/comments/pja21j/test_for_normality_using_python_beginners_guide/)
 - [Python-based realtime spectrogram (lets you visualize sound)](https://www.reddit.com/r/Python/comments/pj4khe/pythonbased_realtime_spectrogram_lets_you/)
 - [Finding the International Space Station with Python](https://www.reddit.com/r/Python/comments/pj27g8/finding_the_international_space_station_with/)
-- [Created my first Tkinter Project! A simple shopping calculator with a currency converter.](https://www.reddit.com/r/Python/comments/piytc3/created_my_first_tkinter_project_a_simple/)
-- [Uncle Bob SOLID principles for Machine Learning](https://www.reddit.com/r/Python/comments/pixxxn/uncle_bob_solid_principles_for_machine_learning/)
-- [Cryptographic primitives in plain Python](https://www.reddit.com/r/Python/comments/piwreh/cryptographic_primitives_in_plain_python/)
 <!-- BLOG-POST-LIST:END -->
