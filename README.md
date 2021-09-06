@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I keep getting a 'There is no current event loop in thread 'Stream''](https://www.reddit.com/r/Python/comments/pj0psk/i_keep_getting_a_there_is_no_current_event_loop/)
+- [Finding the International Space Station with Python](https://www.reddit.com/r/Python/comments/pj27g8/finding_the_international_space_station_with/)
 - [Created my first Tkinter Project! A simple shopping calculator with a currency converter.](https://www.reddit.com/r/Python/comments/piytc3/created_my_first_tkinter_project_a_simple/)
-- [New to programing. " hello world "](https://www.reddit.com/r/Python/comments/piygx0/new_to_programing_hello_world/)
 - [Uncle Bob SOLID principles for Machine Learning](https://www.reddit.com/r/Python/comments/pixxxn/uncle_bob_solid_principles_for_machine_learning/)
 - [Cryptographic primitives in plain Python](https://www.reddit.com/r/Python/comments/piwreh/cryptographic_primitives_in_plain_python/)
+- [Top Machine Learning NLP Tools for Python](https://www.reddit.com/r/Python/comments/piw8o1/top_machine_learning_nlp_tools_for_python/)
 <!-- BLOG-POST-LIST:END -->
