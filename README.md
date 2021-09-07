@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Final Year Project on Python](https://www.reddit.com/r/Python/comments/pji326/final_year_project_on_python/)
+- [@staticmethod and @classmethods](https://www.reddit.com/r/Python/comments/pji1xu/staticmethod_and_classmethods/)
+- [Barely an Interface [David Beazley continues questioning the need for ABC]](https://www.reddit.com/r/Python/comments/pjhrrt/barely_an_interface_david_beazley_continues/)
 - [What is python braces?](https://www.reddit.com/r/Python/comments/pjgyf1/what_is_python_braces/)
 - [Wallpaper-News: A script that brings news to your desktop.](https://www.reddit.com/r/Python/comments/pjgmqe/wallpapernews_a_script_that_brings_news_to_your/)
-- [Hi, I made a python script that changes your desktop wallpaper depending on the weather.](https://www.reddit.com/r/Python/comments/pjffa8/hi_i_made_a_python_script_that_changes_your/)
-- [Why is Python Best for your next web development Project?](https://www.reddit.com/r/Python/comments/pjf80s/why_is_python_best_for_your_next_web_development/)
-- [I made a tutorial on making a simple random number generator in python.](https://www.reddit.com/r/Python/comments/pjefs6/i_made_a_tutorial_on_making_a_simple_random/)
 <!-- BLOG-POST-LIST:END -->
