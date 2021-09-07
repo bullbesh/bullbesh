@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Made a script to find exposed API keys based on RegEx and get exploitation methods for some of keys that are found](https://www.reddit.com/r/Python/comments/pjma3p/made_a_script_to_find_exposed_api_keys_based_on/)
-- [Fluent Python: Clear, Concise and Effective Programming, 2nd Edition ebook](https://www.reddit.com/r/Python/comments/pjm6he/fluent_python_clear_concise_and_effective/)
-- [How to use python firebase authentication to authenticate users to your app](https://www.reddit.com/r/Python/comments/pjlxbh/how_to_use_python_firebase_authentication_to/)
-- [Deriving, Solving, and Animating the Double Pendulum in Python: No Pencil Required! An introduction to symbolic and numerical computing in python.](https://www.reddit.com/r/Python/comments/pjlv2n/deriving_solving_and_animating_the_double/)
-- [Top Reasons to Use Python Language for Web Application Development](https://www.reddit.com/r/Python/comments/pjl9gi/top_reasons_to_use_python_language_for_web/)
+- [🛠 Testing AWS Chalice Applications](https://www.reddit.com/r/Python/comments/pjncg4/testing_aws_chalice_applications/)
+- [Dask vs PySpark - Performance and Other Thoughts.](https://www.reddit.com/r/Python/comments/pjn86n/dask_vs_pyspark_performance_and_other_thoughts/)
+- [how to write a factorial program in python | python program for beginners](https://www.reddit.com/r/Python/comments/pjn5fu/how_to_write_a_factorial_program_in_python_python/)
+- [how to write a factorial program in python](https://www.reddit.com/r/Python/comments/pjn4le/how_to_write_a_factorial_program_in_python/)
+- [How Long Does It Take to Learn Python? – Real Python](https://www.reddit.com/r/Python/comments/pjmzh7/how_long_does_it_take_to_learn_python_real_python/)
 <!-- BLOG-POST-LIST:END -->
