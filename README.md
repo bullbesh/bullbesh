@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/pjbn04/tuesday_daily_thread_advanced_questions/)
 - [Infinity Search - search engine with its crawlers and web framework built with Python](https://www.reddit.com/r/Python/comments/pjao3j/infinity_search_search_engine_with_its_crawlers/)
 - [Elegant One-Liners in Python](https://www.reddit.com/r/Python/comments/pjak25/elegant_oneliners_in_python/)
 - [Test for Normality Using Python: Beginner’s Guide - PyShark](https://www.reddit.com/r/Python/comments/pja21j/test_for_normality_using_python_beginners_guide/)
 - [Python-based realtime spectrogram (lets you visualize sound)](https://www.reddit.com/r/Python/comments/pj4khe/pythonbased_realtime_spectrogram_lets_you/)
-- [Finding the International Space Station with Python](https://www.reddit.com/r/Python/comments/pj27g8/finding_the_international_space_station_with/)
 <!-- BLOG-POST-LIST:END -->
