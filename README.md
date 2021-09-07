@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a keyboard-only pixel art editor with VIM keybindings and pygame](https://www.reddit.com/r/Python/comments/pjukd8/i_made_a_keyboardonly_pixel_art_editor_with_vim/)
 - [I don't trust myself](https://www.reddit.com/r/Python/comments/pjrppi/i_dont_trust_myself/)
 - [Basic blockchain implementation](https://www.reddit.com/r/Python/comments/pjpy9k/basic_blockchain_implementation/)
 - [ICMP DDoS Firewall with netfilterqueue](https://www.reddit.com/r/Python/comments/pjp8al/icmp_ddos_firewall_with_netfilterqueue/)
 - [Wallpaper-News: Bring news from your favorite news sites to your wallpaper.](https://www.reddit.com/r/Python/comments/pjoiad/wallpapernews_bring_news_from_your_favorite_news/)
-- [Dask vs PySpark - Performance and Other Thoughts.](https://www.reddit.com/r/Python/comments/pjn86n/dask_vs_pyspark_performance_and_other_thoughts/)
 <!-- BLOG-POST-LIST:END -->
