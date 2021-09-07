@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use python firebase authentication to authenticate users to your app](https://www.reddit.com/r/Python/comments/pjlxbh/how_to_use_python_firebase_authentication_to/)
+- [Deriving, Solving, and Animating the Double Pendulum in Python: No Pencil Required! An introduction to symbolic and numerical computing in python.](https://www.reddit.com/r/Python/comments/pjlv2n/deriving_solving_and_animating_the_double/)
+- [Top Reasons to Use Python Language for Web Application Development](https://www.reddit.com/r/Python/comments/pjl9gi/top_reasons_to_use_python_language_for_web/)
 - [From Banking to Python - Any Advice?](https://www.reddit.com/r/Python/comments/pjk625/from_banking_to_python_any_advice/)
 - [Webinar: Building a unified development platform for Python developers @ Picnic (Free)](https://www.reddit.com/r/Python/comments/pjjycn/webinar_building_a_unified_development_platform/)
-- [DALL-E Pytorch Demo](https://www.reddit.com/r/Python/comments/pjivud/dalle_pytorch_demo/)
-- [How to get flair ID from subreddits I'm not mod](https://www.reddit.com/r/Python/comments/pjiqk4/how_to_get_flair_id_from_subreddits_im_not_mod/)
-- [50+ Python String Methods - A Cheat Sheet](https://www.reddit.com/r/Python/comments/pjic3t/50_python_string_methods_a_cheat_sheet/)
 <!-- BLOG-POST-LIST:END -->
