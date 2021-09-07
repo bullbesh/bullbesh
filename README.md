@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made a script to find exposed API keys based on RegEx and get exploitation methods for some of keys that are found](https://www.reddit.com/r/Python/comments/pjma3p/made_a_script_to_find_exposed_api_keys_based_on/)
+- [Fluent Python: Clear, Concise and Effective Programming, 2nd Edition ebook](https://www.reddit.com/r/Python/comments/pjm6he/fluent_python_clear_concise_and_effective/)
 - [How to use python firebase authentication to authenticate users to your app](https://www.reddit.com/r/Python/comments/pjlxbh/how_to_use_python_firebase_authentication_to/)
 - [Deriving, Solving, and Animating the Double Pendulum in Python: No Pencil Required! An introduction to symbolic and numerical computing in python.](https://www.reddit.com/r/Python/comments/pjlv2n/deriving_solving_and_animating_the_double/)
 - [Top Reasons to Use Python Language for Web Application Development](https://www.reddit.com/r/Python/comments/pjl9gi/top_reasons_to_use_python_language_for_web/)
-- [From Banking to Python - Any Advice?](https://www.reddit.com/r/Python/comments/pjk625/from_banking_to_python_any_advice/)
-- [Webinar: Building a unified development platform for Python developers @ Picnic (Free)](https://www.reddit.com/r/Python/comments/pjjycn/webinar_building_a_unified_development_platform/)
 <!-- BLOG-POST-LIST:END -->
