@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a tutorial on making a simple random number generator in python.](https://www.reddit.com/r/Python/comments/pjefs6/i_made_a_tutorial_on_making_a_simple_random/)
 - [Python Course](https://www.reddit.com/r/Python/comments/pjd1ya/python_course/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/pjbn04/tuesday_daily_thread_advanced_questions/)
 - [Infinity Search - search engine with its crawlers and web framework built with Python](https://www.reddit.com/r/Python/comments/pjao3j/infinity_search_search_engine_with_its_crawlers/)
 - [Elegant One-Liners in Python](https://www.reddit.com/r/Python/comments/pjak25/elegant_oneliners_in_python/)
-- [Test for Normality Using Python: Beginner’s Guide - PyShark](https://www.reddit.com/r/Python/comments/pja21j/test_for_normality_using_python_beginners_guide/)
 <!-- BLOG-POST-LIST:END -->
