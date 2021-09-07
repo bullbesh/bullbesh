@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DALL-E Pytorch Demo](https://www.reddit.com/r/Python/comments/pjivud/dalle_pytorch_demo/)
 - [How to get flair ID from subreddits I'm not mod](https://www.reddit.com/r/Python/comments/pjiqk4/how_to_get_flair_id_from_subreddits_im_not_mod/)
 - [50+ Python String Methods - A Cheat Sheet](https://www.reddit.com/r/Python/comments/pjic3t/50_python_string_methods_a_cheat_sheet/)
 - [New to PRAW :)](https://www.reddit.com/r/Python/comments/pjib0x/new_to_praw/)
 - [Final Year Project on Python](https://www.reddit.com/r/Python/comments/pji326/final_year_project_on_python/)
-- [@staticmethod and @classmethods](https://www.reddit.com/r/Python/comments/pji1xu/staticmethod_and_classmethods/)
 <!-- BLOG-POST-LIST:END -->
