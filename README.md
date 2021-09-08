@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Logging in Python like a PRO 🐍🌴](https://www.reddit.com/r/Python/comments/pk954c/logging_in_python_like_a_pro/)
+- [Need Free Product Label Designer and Software](https://www.reddit.com/r/Python/comments/pk94hd/need_free_product_label_designer_and_software/)
+- [Facial Recognition Technology: Impacting Smart Cities](https://www.reddit.com/r/Python/comments/pk8pmj/facial_recognition_technology_impacting_smart/)
+- [How to install Python, Numpy, Pandas for Windows](https://www.reddit.com/r/Python/comments/pk8p2i/how_to_install_python_numpy_pandas_for_windows/)
 - [PyInstaller help](https://www.reddit.com/r/Python/comments/pk8ea8/pyinstaller_help/)
-- [Class Based Streamlit Example](https://www.reddit.com/r/Python/comments/pk8ayt/class_based_streamlit_example/)
-- [My own Medium blog](https://www.reddit.com/r/Python/comments/pk86l3/my_own_medium_blog/)
-- [CleanAPI library: creating Python microservice for 30 seconds](https://www.reddit.com/r/Python/comments/pk7nmy/cleanapi_library_creating_python_microservice_for/)
-- [Where can I apply this knowledge?](https://www.reddit.com/r/Python/comments/pk6rsl/where_can_i_apply_this_knowledge/)
 <!-- BLOG-POST-LIST:END -->
