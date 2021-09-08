@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate Instagram Messages Using Python | Python Coding AI](https://www.reddit.com/r/Python/comments/pkcrll/automate_instagram_messages_using_python_python/)
 - [Is it illegal to request to delete a website?](https://www.reddit.com/r/Python/comments/pkbq52/is_it_illegal_to_request_to_delete_a_website/)
 - [Logging in Python like a PRO 🐍🌴](https://www.reddit.com/r/Python/comments/pk954c/logging_in_python_like_a_pro/)
 - [Need Free Product Label Designer and Software](https://www.reddit.com/r/Python/comments/pk94hd/need_free_product_label_designer_and_software/)
 - [Facial Recognition Technology: Impacting Smart Cities](https://www.reddit.com/r/Python/comments/pk8pmj/facial_recognition_technology_impacting_smart/)
-- [How to install Python, Numpy, Pandas for Windows](https://www.reddit.com/r/Python/comments/pk8p2i/how_to_install_python_numpy_pandas_for_windows/)
 <!-- BLOG-POST-LIST:END -->
