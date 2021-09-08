@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A new sub for ML Engineering](https://www.reddit.com/r/Python/comments/pkgmly/a_new_sub_for_ml_engineering/)
 - [Tired of checking backlinks manually](https://www.reddit.com/r/Python/comments/pke8xc/tired_of_checking_backlinks_manually/)
 - [Automate Instagram Messages Using Python | Python Coding AI](https://www.reddit.com/r/Python/comments/pkcrll/automate_instagram_messages_using_python_python/)
 - [Logging in Python like a PRO 🐍🌴](https://www.reddit.com/r/Python/comments/pk954c/logging_in_python_like_a_pro/)
 - [How to install Python, Numpy, Pandas for Windows](https://www.reddit.com/r/Python/comments/pk8p2i/how_to_install_python_numpy_pandas_for_windows/)
-- [Class Based Streamlit Example](https://www.reddit.com/r/Python/comments/pk8ayt/class_based_streamlit_example/)
 <!-- BLOG-POST-LIST:END -->
