@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyInstaller help](https://www.reddit.com/r/Python/comments/pk8ea8/pyinstaller_help/)
+- [Class Based Streamlit Example](https://www.reddit.com/r/Python/comments/pk8ayt/class_based_streamlit_example/)
+- [My own Medium blog](https://www.reddit.com/r/Python/comments/pk86l3/my_own_medium_blog/)
 - [CleanAPI library: creating Python microservice for 30 seconds](https://www.reddit.com/r/Python/comments/pk7nmy/cleanapi_library_creating_python_microservice_for/)
 - [Where can I apply this knowledge?](https://www.reddit.com/r/Python/comments/pk6rsl/where_can_i_apply_this_knowledge/)
-- [Context managers: setup in constructor or in `__enter__`?](https://www.reddit.com/r/Python/comments/pk6bis/context_managers_setup_in_constructor_or_in_enter/)
-- [Development and Release of Type4Py: Machine Learning-based Type Auto-completion for Python](https://www.reddit.com/r/Python/comments/pk5bam/development_and_release_of_type4py_machine/)
-- [Python 3.10.0rc2 is available](https://www.reddit.com/r/Python/comments/pk59es/python_3100rc2_is_available/)
 <!-- BLOG-POST-LIST:END -->
