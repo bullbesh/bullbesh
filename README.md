@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Development and Release of Type4Py: Machine Learning-based Type Auto-completion for Python](https://www.reddit.com/r/Python/comments/pk5bam/development_and_release_of_type4py_machine/)
+- [Python 3.10.0rc2 is available](https://www.reddit.com/r/Python/comments/pk59es/python_3100rc2_is_available/)
+- [Monolithic to Microservices Architecture with Patterns & Best Practices](https://www.reddit.com/r/Python/comments/pk56gg/monolithic_to_microservices_architecture_with/)
 - [Asset Inventory Help](https://www.reddit.com/r/Python/comments/pk4qy1/asset_inventory_help/)
 - [Slimak - Small tool to upgrade IOS switches](https://www.reddit.com/r/Python/comments/pk48ch/slimak_small_tool_to_upgrade_ios_switches/)
-- [want to start python](https://www.reddit.com/r/Python/comments/pk3gp2/want_to_start_python/)
-- [Machine Learning with Python | FULL course | 15 lessons with 15 projects | Material available (see in comments) | First lesson: k-Nearest Classifier | Apply model on real data: weather data](https://www.reddit.com/r/Python/comments/pk23md/machine_learning_with_python_full_course_15/)
-- [Second time around](https://www.reddit.com/r/Python/comments/pk21in/second_time_around/)
 <!-- BLOG-POST-LIST:END -->
