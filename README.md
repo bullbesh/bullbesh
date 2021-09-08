@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/pjz7ed/wednesday_daily_thread_beginner_questions/)
 - [Mailers 2.0 - convenient emailing library for asyncio](https://www.reddit.com/r/Python/comments/pjwq4t/mailers_20_convenient_emailing_library_for_asyncio/)
 - [I made a tool to "deobfuscate" Pyarmor and pyc](https://www.reddit.com/r/Python/comments/pjvhfo/i_made_a_tool_to_deobfuscate_pyarmor_and_pyc/)
 - [I made a keyboard-only pixel art editor with VIM keybindings and pygame](https://www.reddit.com/r/Python/comments/pjukd8/i_made_a_keyboardonly_pixel_art_editor_with_vim/)
 - [I don't trust myself](https://www.reddit.com/r/Python/comments/pjrppi/i_dont_trust_myself/)
-- [Basic blockchain implementation](https://www.reddit.com/r/Python/comments/pjpy9k/basic_blockchain_implementation/)
 <!-- BLOG-POST-LIST:END -->
