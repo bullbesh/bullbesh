@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Switch Statements (might contain traces of irony)](https://www.reddit.com/r/Python/comments/pkjang/python_switch_statements_might_contain_traces_of/)
 - [Girl with a Pearl Earring](https://www.reddit.com/r/Python/comments/pki872/girl_with_a_pearl_earring/)
 - [JetBrains releases DataSpell for public EAP](https://www.reddit.com/r/Python/comments/pkhy6m/jetbrains_releases_dataspell_for_public_eap/)
 - [Debugging your code in Python — pdb vs. rpdb](https://www.reddit.com/r/Python/comments/pkhv29/debugging_your_code_in_python_pdb_vs_rpdb/)
 - [An evolving HTML, DOM and JavaScript API in Python. domonic 0.5.0](https://www.reddit.com/r/Python/comments/pkhb0s/an_evolving_html_dom_and_javascript_api_in_python/)
-- [A new sub for ML Engineering](https://www.reddit.com/r/Python/comments/pkgmly/a_new_sub_for_ml_engineering/)
 <!-- BLOG-POST-LIST:END -->
