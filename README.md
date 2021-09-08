@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Asset Inventory Help](https://www.reddit.com/r/Python/comments/pk4qy1/asset_inventory_help/)
+- [Slimak - Small tool to upgrade IOS switches](https://www.reddit.com/r/Python/comments/pk48ch/slimak_small_tool_to_upgrade_ios_switches/)
 - [want to start python](https://www.reddit.com/r/Python/comments/pk3gp2/want_to_start_python/)
 - [Machine Learning with Python | FULL course | 15 lessons with 15 projects | Material available (see in comments) | First lesson: k-Nearest Classifier | Apply model on real data: weather data](https://www.reddit.com/r/Python/comments/pk23md/machine_learning_with_python_full_course_15/)
 - [Second time around](https://www.reddit.com/r/Python/comments/pk21in/second_time_around/)
-- [Clean your Spotify Playlists with SqueaPyCleanSpotify on GitHub!](https://www.reddit.com/r/Python/comments/pk0xbz/clean_your_spotify_playlists_with/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/pjz7ed/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
