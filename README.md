@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Support Vector Machines in 2 minutes (python code included)](https://www.reddit.com/r/Python/comments/pl2l58/support_vector_machines_in_2_minutes_python_code/)
 - [How to log and print to terminal](https://www.reddit.com/r/Python/comments/pl1o8n/how_to_log_and_print_to_terminal/)
 - [Phyterminal: The Physics Renderer for Terminal, written in Python](https://www.reddit.com/r/Python/comments/pl0zlh/phyterminal_the_physics_renderer_for_terminal/)
 - [Building a Flappy Bird game in Python ( Too much Speed )](https://www.reddit.com/r/Python/comments/pl08gt/building_a_flappy_bird_game_in_python_too_much/)
 - [My Python package: directory-structure](https://www.reddit.com/r/Python/comments/pkzf6y/my_python_package_directorystructure/)
-- [Domain-Driven Design Patterns in Python](https://www.reddit.com/r/Python/comments/pkyqlu/domaindriven_design_patterns_in_python/)
 <!-- BLOG-POST-LIST:END -->
