@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TicTacToe using OOP](https://www.reddit.com/r/Python/comments/pkvkqw/tictactoe_using_oop/)
 - [Python for Excel: A Modern Environment for Automation and Data Analysis ebook](https://www.reddit.com/r/Python/comments/pku1ns/python_for_excel_a_modern_environment_for/)
 - [A dictionary with the ability to cache results](https://www.reddit.com/r/Python/comments/pkt15g/a_dictionary_with_the_ability_to_cache_results/)
 - [Introducing Pedalboard: Spotify’s Audio Effects Library for Python : Spotify Engineering](https://www.reddit.com/r/Python/comments/pkszid/introducing_pedalboard_spotifys_audio_effects/)
 - [I made a shutdown timer in Python](https://www.reddit.com/r/Python/comments/pkrmya/i_made_a_shutdown_timer_in_python/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/pkmc5p/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
