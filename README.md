@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Hacktober is approaching fast!](https://www.reddit.com/r/Python/comments/pl3sp8/hacktober_is_approaching_fast/)
-- [I wrote an article with some tips that helped me when I first started programming. Let me know what you think.](https://www.reddit.com/r/Python/comments/pl3jiy/i_wrote_an_article_with_some_tips_that_helped_me/)
 - [Gaming in Python : PyGame vs Arcade vs PyGame Zero](https://www.reddit.com/r/Python/comments/pl3h06/gaming_in_python_pygame_vs_arcade_vs_pygame_zero/)
 - [Support Vector Machines in 2 minutes (python code included)](https://www.reddit.com/r/Python/comments/pl2l58/support_vector_machines_in_2_minutes_python_code/)
-- [How to log and print to terminal](https://www.reddit.com/r/Python/comments/pl1o8n/how_to_log_and_print_to_terminal/)
+- [Phyterminal: The Physics Renderer for Terminal, written in Python](https://www.reddit.com/r/Python/comments/pl0zlh/phyterminal_the_physics_renderer_for_terminal/)
+- [Building a Flappy Bird game in Python ( Too much Speed )](https://www.reddit.com/r/Python/comments/pl08gt/building_a_flappy_bird_game_in_python_too_much/)
 <!-- BLOG-POST-LIST:END -->
