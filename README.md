@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Tello Drone Capable of Barcode Scanning through Python. I found this medium article very helpful. Click to get the link. Hope you will enjoy.](https://www.reddit.com/r/Python/comments/pl66vh/how_to_make_tello_drone_capable_of_barcode/)
 - [Hacktober is approaching fast!](https://www.reddit.com/r/Python/comments/pl3sp8/hacktober_is_approaching_fast/)
 - [Gaming in Python : PyGame vs Arcade vs PyGame Zero](https://www.reddit.com/r/Python/comments/pl3h06/gaming_in_python_pygame_vs_arcade_vs_pygame_zero/)
 - [Support Vector Machines in 2 minutes (python code included)](https://www.reddit.com/r/Python/comments/pl2l58/support_vector_machines_in_2_minutes_python_code/)
 - [Phyterminal: The Physics Renderer for Terminal, written in Python](https://www.reddit.com/r/Python/comments/pl0zlh/phyterminal_the_physics_renderer_for_terminal/)
-- [Building a Flappy Bird game in Python ( Too much Speed )](https://www.reddit.com/r/Python/comments/pl08gt/building_a_flappy_bird_game_in_python_too_much/)
 <!-- BLOG-POST-LIST:END -->
