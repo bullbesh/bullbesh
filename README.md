@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Python package: directory-structure](https://www.reddit.com/r/Python/comments/pkzf6y/my_python_package_directorystructure/)
+- [Domain-Driven Design Patterns in Python](https://www.reddit.com/r/Python/comments/pkyqlu/domaindriven_design_patterns_in_python/)
 - [✔ Python Tutorial Sets For Beginners](https://www.reddit.com/r/Python/comments/pky09f/python_tutorial_sets_for_beginners/)
 - [I heard the best way of installing from source is with `pip install package-dir/` is this still accurate ?](https://www.reddit.com/r/Python/comments/pkwkzh/i_heard_the_best_way_of_installing_from_source_is/)
 - [Convert String Into Alphabetic Number In Python "Hey" to 8 5 25](https://www.reddit.com/r/Python/comments/pkw2td/convert_string_into_alphabetic_number_in_python/)
-- [TicTacToe using OOP](https://www.reddit.com/r/Python/comments/pkvkqw/tictactoe_using_oop/)
-- [A dictionary with the ability to cache results](https://www.reddit.com/r/Python/comments/pkt15g/a_dictionary_with_the_ability_to_cache_results/)
 <!-- BLOG-POST-LIST:END -->
