@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/pkmc5p/thursday_daily_thread_python_careers_courses_and/)
+- [What are the benefits of declaring @classmethods and @staticmethods to class functions](https://www.reddit.com/r/Python/comments/pkmb9y/what_are_the_benefits_of_declaring_classmethods/)
+- [Local Password Storage](https://www.reddit.com/r/Python/comments/pklo7h/local_password_storage/)
 - [Python Switch Statements (might contain traces of irony)](https://www.reddit.com/r/Python/comments/pkjang/python_switch_statements_might_contain_traces_of/)
 - [Girl with a Pearl Earring](https://www.reddit.com/r/Python/comments/pki872/girl_with_a_pearl_earring/)
-- [JetBrains releases DataSpell for public EAP](https://www.reddit.com/r/Python/comments/pkhy6m/jetbrains_releases_dataspell_for_public_eap/)
-- [Debugging your code in Python — pdb vs. rpdb](https://www.reddit.com/r/Python/comments/pkhv29/debugging_your_code_in_python_pdb_vs_rpdb/)
-- [An evolving HTML, DOM and JavaScript API in Python. domonic 0.5.0](https://www.reddit.com/r/Python/comments/pkhb0s/an_evolving_html_dom_and_javascript_api_in_python/)
 <!-- BLOG-POST-LIST:END -->
