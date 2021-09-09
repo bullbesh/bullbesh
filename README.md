@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/pkmc5p/thursday_daily_thread_python_careers_courses_and/)
-- [What are the benefits of declaring @classmethods and @staticmethods to class functions](https://www.reddit.com/r/Python/comments/pkmb9y/what_are_the_benefits_of_declaring_classmethods/)
 - [Local Password Storage](https://www.reddit.com/r/Python/comments/pklo7h/local_password_storage/)
 - [Python Switch Statements (might contain traces of irony)](https://www.reddit.com/r/Python/comments/pkjang/python_switch_statements_might_contain_traces_of/)
 - [Girl with a Pearl Earring](https://www.reddit.com/r/Python/comments/pki872/girl_with_a_pearl_earring/)
+- [JetBrains releases DataSpell for public EAP](https://www.reddit.com/r/Python/comments/pkhy6m/jetbrains_releases_dataspell_for_public_eap/)
 <!-- BLOG-POST-LIST:END -->
