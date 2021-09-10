@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Machine Psychology: Python Generated NFT Art](https://www.reddit.com/r/Python/comments/pljyx9/machine_psychology_python_generated_nft_art/)
+- [I'm making a wallpaper Engine in Python!!!!](https://www.reddit.com/r/Python/comments/pljro3/im_making_a_wallpaper_engine_in_python/)
+- [Hickory Script Running: Cant Kill](https://www.reddit.com/r/Python/comments/pljqua/hickory_script_running_cant_kill/)
+- [How do I import functions/modules into the main code?](https://www.reddit.com/r/Python/comments/pljksb/how_do_i_import_functionsmodules_into_the_main/)
 - [New Python Tkinter Blog](https://www.reddit.com/r/Python/comments/plhha2/new_python_tkinter_blog/)
-- [GitHub - recognai/rubrix: A Python framework to explore, label, and monitor data for NLP projects](https://www.reddit.com/r/Python/comments/plh8l4/github_recognairubrix_a_python_framework_to/)
-- [Real Time Bitcoin Price Tracker Using Arduino and Python](https://www.reddit.com/r/Python/comments/plh2s4/real_time_bitcoin_price_tracker_using_arduino_and/)
-- [How to Detect and extract objects in Images using Python OpenCV Pixellib [project]](https://www.reddit.com/r/Python/comments/plgljp/how_to_detect_and_extract_objects_in_images_using/)
-- [How to Deploy a Python Django Application using PlanetScale and Koyeb Serverless Platform](https://www.reddit.com/r/Python/comments/plg4cn/how_to_deploy_a_python_django_application_using/)
 <!-- BLOG-POST-LIST:END -->
