@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Companies That Use Python Are Making A Mark In 2021](https://www.reddit.com/r/Python/comments/pldqz3/top_7_companies_that_use_python_are_making_a_mark/)
 - [Concurrency in Python with FastAPI](https://www.reddit.com/r/Python/comments/plbsfb/concurrency_in_python_with_fastapi/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/pl9rr4/friday_daily_thread_free_chat_friday_daily_thread/)
 - [What was the reason for building Python on top of C?](https://www.reddit.com/r/Python/comments/pl9lzg/what_was_the_reason_for_building_python_on_top_of/)
 - [A Python Guide to the Fibonacci Sequence – Real Python](https://www.reddit.com/r/Python/comments/pl7b18/a_python_guide_to_the_fibonacci_sequence_real/)
-- [How to Make Tello Drone Capable of Barcode Scanning through Python. I found this medium article very helpful. Click to get the link. Hope you will enjoy.](https://www.reddit.com/r/Python/comments/pl66vh/how_to_make_tello_drone_capable_of_barcode/)
 <!-- BLOG-POST-LIST:END -->
