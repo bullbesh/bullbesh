@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Notification for bitcoin prices - App idea](https://www.reddit.com/r/Python/comments/ploag8/notification_for_bitcoin_prices_app_idea/)
 - [Semantic And Instance Segmentation On Videos Using PixelLib In Python](https://www.reddit.com/r/Python/comments/plnqiy/semantic_and_instance_segmentation_on_videos/)
 - [dot and drop methods of Pandas Series #python](https://www.reddit.com/r/Python/comments/plnqft/dot_and_drop_methods_of_pandas_series_python/)
 - [Various Ways to Parallelize Python Code](https://www.reddit.com/r/Python/comments/plnetc/various_ways_to_parallelize_python_code/)
 - [We made a launcher for a Raspberry Pi CM3 Gameboy device](https://www.reddit.com/r/Python/comments/pln5id/we_made_a_launcher_for_a_raspberry_pi_cm3_gameboy/)
+- [Machine Psychology: Python Generated NFT Art](https://www.reddit.com/r/Python/comments/pljyx9/machine_psychology_python_generated_nft_art/)
 <!-- BLOG-POST-LIST:END -->
