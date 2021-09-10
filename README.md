@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it possible to create a "custom printer"](https://www.reddit.com/r/Python/comments/plljya/is_it_possible_to_create_a_custom_printer/)
 - [Help creating a username and password prompt](https://www.reddit.com/r/Python/comments/plkxsc/help_creating_a_username_and_password_prompt/)
 - [[QUESTION] - Connecting MySQL with Python.](https://www.reddit.com/r/Python/comments/plkxo2/question_connecting_mysql_with_python/)
 - [Machine Psychology: Python Generated NFT Art](https://www.reddit.com/r/Python/comments/pljyx9/machine_psychology_python_generated_nft_art/)
 - [I'm making a wallpaper Engine in Python!!!!](https://www.reddit.com/r/Python/comments/pljro3/im_making_a_wallpaper_engine_in_python/)
-- [New Python Tkinter Blog](https://www.reddit.com/r/Python/comments/plhha2/new_python_tkinter_blog/)
 <!-- BLOG-POST-LIST:END -->
