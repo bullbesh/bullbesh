@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [We're the core team behind the popular Python autoformatter: Black. AMA!](https://www.reddit.com/r/Python/comments/plvtlx/were_the_core_team_behind_the_popular_python/)
 - [I created my first Django app - django-admin-sticky-notes](https://www.reddit.com/r/Python/comments/pluhpr/i_created_my_first_django_app/)
 - [I just got to love my teacher](https://www.reddit.com/r/Python/comments/plt8cu/i_just_got_to_love_my_teacher/)
 - [Let's build a unit test framework in Python!](https://www.reddit.com/r/Python/comments/plqcgd/lets_build_a_unit_test_framework_in_python/)
 - [Python newbie](https://www.reddit.com/r/Python/comments/plq80c/python_newbie/)
-- [AutoDeploy - Automated machine learning model deployment.](https://www.reddit.com/r/Python/comments/plpmph/autodeploy_automated_machine_learning_model/)
 <!-- BLOG-POST-LIST:END -->
