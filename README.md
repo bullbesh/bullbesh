@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Python Tkinter Blog](https://www.reddit.com/r/Python/comments/plhha2/new_python_tkinter_blog/)
+- [GitHub - recognai/rubrix: A Python framework to explore, label, and monitor data for NLP projects](https://www.reddit.com/r/Python/comments/plh8l4/github_recognairubrix_a_python_framework_to/)
+- [Real Time Bitcoin Price Tracker Using Arduino and Python](https://www.reddit.com/r/Python/comments/plh2s4/real_time_bitcoin_price_tracker_using_arduino_and/)
 - [How to Detect and extract objects in Images using Python OpenCV Pixellib [project]](https://www.reddit.com/r/Python/comments/plgljp/how_to_detect_and_extract_objects_in_images_using/)
 - [How to Deploy a Python Django Application using PlanetScale and Koyeb Serverless Platform](https://www.reddit.com/r/Python/comments/plg4cn/how_to_deploy_a_python_django_application_using/)
-- [My first PyPI release: "GeneticAlgos" - a package for creating Genetic Algorithms](https://www.reddit.com/r/Python/comments/plfzkb/my_first_pypi_release_geneticalgos_a_package_for/)
-- [Hello! I never saw an ASCII spinning cards project, so I did it. What do you think?](https://www.reddit.com/r/Python/comments/plff8y/hello_i_never_saw_an_ascii_spinning_cards_project/)
-- [Tricky interview questions and answers](https://www.reddit.com/r/Python/comments/pler1t/tricky_interview_questions_and_answers/)
 <!-- BLOG-POST-LIST:END -->
