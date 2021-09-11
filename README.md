@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for Data Science | 100% Off Udemy Course](https://www.reddit.com/r/Python/comments/pmgczs/python_for_data_science_100_off_udemy_course/)
 - [Created a GUI to generate Avatars](https://www.reddit.com/r/Python/comments/pmepxb/created_a_gui_to_generate_avatars/)
 - [auto-optional Automatically ensures that type-hints are Optional when the default argument is None](https://www.reddit.com/r/Python/comments/pmdemh/autooptional_automatically_ensures_that_typehints/)
 - [What would the Factory Pattern look like if it was invented today instead of in the 90s? I talk about the design principles behind the pattern, and how you can achieve the same thing but even better, using modern Python features.](https://www.reddit.com/r/Python/comments/pmddbq/what_would_the_factory_pattern_look_like_if_it/)
 - [Execution time of built-in data structures | Calling the function vs literal syntax](https://www.reddit.com/r/Python/comments/pm9gb5/execution_time_of_builtin_data_structures_calling/)
-- [I created a 3D explosion animation with Pygame.](https://www.reddit.com/r/Python/comments/pm98vn/i_created_a_3d_explosion_animation_with_pygame/)
 <!-- BLOG-POST-LIST:END -->
