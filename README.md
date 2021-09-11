@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I have a problem with my kivy app (voice assistance) ?](https://www.reddit.com/r/Python/comments/pm5cp9/i_have_a_problem_with_my_kivy_app_voice_assistance/)
 - [Convolutional Neural Networks in Python: CNN Computer Vision | 100% Off Udemy Course](https://www.reddit.com/r/Python/comments/pm4gje/convolutional_neural_networks_in_python_cnn/)
 - [amazon bot](https://www.reddit.com/r/Python/comments/pm4dxl/amazon_bot/)
 - [An opensource wrapper library for PyOpenGL](https://www.reddit.com/r/Python/comments/pm3d6u/an_opensource_wrapper_library_for_pyopengl/)
 - [Please suggest a good book for learning python from basics to advanced!?!](https://www.reddit.com/r/Python/comments/pm33fu/please_suggest_a_good_book_for_learning_python/)
-- [Writing unit tests for Lambda functions in Python](https://www.reddit.com/r/Python/comments/pm2gdl/writing_unit_tests_for_lambda_functions_in_python/)
 <!-- BLOG-POST-LIST:END -->
