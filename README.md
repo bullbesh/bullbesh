@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there any TopSpeed driver which can be used by Python? I'm planning to rewrite a data aggregation application from C#, but it uses a DLL file for TopSpeed. I'm looking to make it work on Linux as well.](https://www.reddit.com/r/Python/comments/pm87iv/is_there_any_topspeed_driver_which_can_be_used_by/)
+- [A new subreddit to discuss Spotify's new Python DSP library, Pedalboard](https://www.reddit.com/r/Python/comments/pm7o85/a_new_subreddit_to_discuss_spotifys_new_python/)
 - [Make lambdas proper closures](https://www.reddit.com/r/Python/comments/pm6iw9/make_lambdas_proper_closures/)
 - [I have a problem with my kivy app (voice assistance) ?](https://www.reddit.com/r/Python/comments/pm5cp9/i_have_a_problem_with_my_kivy_app_voice_assistance/)
 - [Convolutional Neural Networks in Python: CNN Computer Vision | 100% Off Udemy Course](https://www.reddit.com/r/Python/comments/pm4gje/convolutional_neural_networks_in_python_cnn/)
-- [amazon bot](https://www.reddit.com/r/Python/comments/pm4dxl/amazon_bot/)
-- [An opensource wrapper library for PyOpenGL](https://www.reddit.com/r/Python/comments/pm3d6u/an_opensource_wrapper_library_for_pyopengl/)
 <!-- BLOG-POST-LIST:END -->
