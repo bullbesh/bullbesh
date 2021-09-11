@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [CODING OPPORTUNITY!! SOAR Nonprofit](https://www.reddit.com/r/Python/comments/plz8n1/coding_opportunity_soar_nonprofit/)
 - [Draw Transparent Rectangle on screen. (like Snipping tool)](https://www.reddit.com/r/Python/comments/plyi20/draw_transparent_rectangle_on_screen_like/)
 - [I made a Kanye West lyrics generator in Python](https://www.reddit.com/r/Python/comments/plxqtz/i_made_a_kanye_west_lyrics_generator_in_python/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/plwns2/saturday_daily_thread_resource_request_and/)
 - [What did everyone automate using python ?](https://www.reddit.com/r/Python/comments/plwc52/what_did_everyone_automate_using_python/)
+- [We're the core team behind the popular Python autoformatter: Black. AMA!](https://www.reddit.com/r/Python/comments/plvtlx/were_the_core_team_behind_the_popular_python/)
 <!-- BLOG-POST-LIST:END -->
