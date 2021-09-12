@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How would you learn Python if you had to learn it all over again?](https://www.reddit.com/r/Python/comments/pmj6nt/how_would_you_learn_python_if_you_had_to_learn_it/)
+- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/pmi8jc/sunday_daily_thread_whats_everyone_working_on/)
+- [Chaos Game using pygame](https://www.reddit.com/r/Python/comments/pmi0ep/chaos_game_using_pygame/)
 - [I'm making a Superhero Index in Python!](https://www.reddit.com/r/Python/comments/pmgraz/im_making_a_superhero_index_in_python/)
 - [Created a GUI to generate Avatars](https://www.reddit.com/r/Python/comments/pmepxb/created_a_gui_to_generate_avatars/)
-- [auto-optional Automatically ensures that type-hints are Optional when the default argument is None](https://www.reddit.com/r/Python/comments/pmdemh/autooptional_automatically_ensures_that_typehints/)
-- [What would the Factory Pattern look like if it was invented today instead of in the 90s? I talk about the design principles behind the pattern, and how you can achieve the same thing but even better, using modern Python features.](https://www.reddit.com/r/Python/comments/pmddbq/what_would_the_factory_pattern_look_like_if_it/)
-- [Execution time of built-in data structures | Calling the function vs literal syntax](https://www.reddit.com/r/Python/comments/pm9gb5/execution_time_of_builtin_data_structures_calling/)
 <!-- BLOG-POST-LIST:END -->
