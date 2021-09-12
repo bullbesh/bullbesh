@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop wasting time and please learn Python in the right way](https://www.reddit.com/r/Python/comments/pmvl86/stop_wasting_time_and_please_learn_python_in_the/)
+- [Using Markov Chains to Code A.I. That Tweets](https://www.reddit.com/r/Python/comments/pmwgs1/using_markov_chains_to_code_ai_that_tweets/)
+- [Blog Article Generator using Python and Machine Learning (GPT-2) in 3 lines of code](https://www.reddit.com/r/Python/comments/pmwanh/blog_article_generator_using_python_and_machine/)
 - [Introduction to #Python | Python Tutorial for Beginners | #Python3 Progr...](https://www.reddit.com/r/Python/comments/pmvjp2/introduction_to_python_python_tutorial_for/)
 - [IRAF & PyRAF installation using conda virtual environment for Debian based systems](https://www.reddit.com/r/Python/comments/pmvg7n/iraf_pyraf_installation_using_conda_virtual/)
 - [Understanding pickle in Python](https://www.reddit.com/r/Python/comments/pmuo8d/understanding_pickle_in_python/)
-- [A type safe transpiler for Python](https://www.reddit.com/r/Python/comments/pmuk46/a_type_safe_transpiler_for_python/)
 <!-- BLOG-POST-LIST:END -->
