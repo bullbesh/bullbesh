@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Language Translation using Hugging Face and Python in 3 lines of code](https://www.reddit.com/r/Python/comments/pmpx83/language_translation_using_hugging_face_and/)
+- [Parse data with Extractive QA](https://www.reddit.com/r/Python/comments/pmpwmu/parse_data_with_extractive_qa/)
 - [What is a Good Path to Learn Programming](https://www.reddit.com/r/Python/comments/pmnyxe/what_is_a_good_path_to_learn_programming/)
 - [How would you design this django app](https://www.reddit.com/r/Python/comments/pmnr32/how_would_you_design_this_django_app/)
 - [What technically counts as machine learning?](https://www.reddit.com/r/Python/comments/pmmuf9/what_technically_counts_as_machine_learning/)
-- [I created a linear algebra library to work with matrixes and lists](https://www.reddit.com/r/Python/comments/pml4nf/i_created_a_linear_algebra_library_to_work_with/)
-- [Is this well known?](https://www.reddit.com/r/Python/comments/pmjo5r/is_this_well_known/)
 <!-- BLOG-POST-LIST:END -->
