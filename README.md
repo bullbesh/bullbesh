@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [FINALLY v0.2.0.0 RELEASE!](https://www.reddit.com/r/Python/comments/pmtfhk/finally_v0200_release/)
-- [Here's how you can use Django Rest Framework to create REST APIs](https://www.reddit.com/r/Python/comments/pmsus9/heres_how_you_can_use_django_rest_framework_to/)
-- [Declaring symbolic variables using SymPy module](https://www.reddit.com/r/Python/comments/pmsbxj/declaring_symbolic_variables_using_sympy_module/)
-- [Any link/site having sample Problems/Projects to practice beginner to intermediate level of Python programming](https://www.reddit.com/r/Python/comments/pmrpxm/any_linksite_having_sample_problemsprojects_to/)
-- [SymPy Module](https://www.reddit.com/r/Python/comments/pmrp91/sympy_module/)
+- [A type safe transpiler for Python](https://www.reddit.com/r/Python/comments/pmuk46/a_type_safe_transpiler_for_python/)
+- [Computer shutdown with this 200 IQ Python Code (GONE WRONG)](https://www.reddit.com/r/Python/comments/pmufgo/computer_shutdown_with_this_200_iq_python_code/)
+- [This Painting was made my an ai](https://www.reddit.com/r/Python/comments/pmubcv/this_painting_was_made_my_an_ai/)
+- [You Don’t Need a High-End System to Train Your Machine Learning Model](https://www.reddit.com/r/Python/comments/pmtmif/you_dont_need_a_highend_system_to_train_your/)
+- [Finding Derivative, Integral and Exponent value using SymPy Module](https://www.reddit.com/r/Python/comments/pmtk0u/finding_derivative_integral_and_exponent_value/)
 <!-- BLOG-POST-LIST:END -->
