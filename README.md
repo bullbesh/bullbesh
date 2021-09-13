@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PSA: Kite is a viral plugin that kills your system performance](https://www.reddit.com/r/Python/comments/pn49pa/psa_kite_is_a_viral_plugin_that_kills_your_system/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/pn45bn/monday_daily_thread_project_ideas/)
+- [Building a Random Movie Picker Using Python and Selenium](https://www.reddit.com/r/Python/comments/pn3i8p/building_a_random_movie_picker_using_python_and/)
 - [All of the arguments for GO vs Python are the single binary go provides, the community should settle on 1 and perfect it](https://www.reddit.com/r/Python/comments/pn2v4l/all_of_the_arguments_for_go_vs_python_are_the/)
 - [I tried to make a circle follow the cursor in python using math, ended up making this (I'm not sure exactly what I made, I know it has something to do with circles?)](https://www.reddit.com/r/Python/comments/pn2j5y/i_tried_to_make_a_circle_follow_the_cursor_in/)
-- [Comparing rating between the players on the chess website](https://www.reddit.com/r/Python/comments/pmxfan/comparing_rating_between_the_players_on_the_chess/)
-- [Introduction to #Python | Python Tutorial for Beginners | #Python3 Progr...](https://www.reddit.com/r/Python/comments/pmvjp2/introduction_to_python_python_tutorial_for/)
-- [IRAF & PyRAF installation using conda virtual environment for Debian based systems](https://www.reddit.com/r/Python/comments/pmvg7n/iraf_pyraf_installation_using_conda_virtual/)
 <!-- BLOG-POST-LIST:END -->
