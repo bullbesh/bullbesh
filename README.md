@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a simple program to scrape wikipedia to get the Best Drama Film Awards](https://www.reddit.com/r/Python/comments/png7ou/i_made_a_simple_program_to_scrape_wikipedia_to/)
+- [This are some of paintings made by the machine learning algorithm i made](https://www.reddit.com/r/Python/comments/png3ck/this_are_some_of_paintings_made_by_the_machine/)
+- [How to interpret these datasets](https://www.reddit.com/r/Python/comments/pnfu5u/how_to_interpret_these_datasets/)
+- [All The Ways to Compress and Archive Files in Python](https://www.reddit.com/r/Python/comments/pnfl4z/all_the_ways_to_compress_and_archive_files_in/)
 - [A Simulation of the Economy](https://www.reddit.com/r/Python/comments/pnfajy/a_simulation_of_the_economy/)
-- [How to Solve Differential Equations in Python: A guide to first order, coupled, and higher order ODEs](https://www.reddit.com/r/Python/comments/pneiah/how_to_solve_differential_equations_in_python_a/)
-- [Making a Search Engine for MKBHD's Waveform Podcast using FastAPI & React](https://www.reddit.com/r/Python/comments/pndoaw/making_a_search_engine_for_mkbhds_waveform/)
-- [Klara: Python automatic test generations and static analysis library](https://www.reddit.com/r/Python/comments/pncg9r/klara_python_automatic_test_generations_and/)
-- [DataQA: the new Python app to do rules-based text annotation](https://www.reddit.com/r/Python/comments/pnc4mv/dataqa_the_new_python_app_to_do_rulesbased_text/)
 <!-- BLOG-POST-LIST:END -->
