@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Program to Find Derivative, Integration, Limits and Quadratic Equation using SymPy Module](https://www.reddit.com/r/Python/comments/pnitn6/python_program_to_find_derivative_integration/)
+- [Using Arduino and ultrasonic sensor with python to measure distance and trigger action like opening application based on distance](https://www.reddit.com/r/Python/comments/pnjvfd/using_arduino_and_ultrasonic_sensor_with_python/)
+- [Visualizing Python modules and dependencies with Neo4j](https://www.reddit.com/r/Python/comments/pnjoz6/visualizing_python_modules_and_dependencies_with/)
+- [✔ Python How To Use Dictionary](https://www.reddit.com/r/Python/comments/pnjk9n/python_how_to_use_dictionary/)
 - [Python analog clock using turtle module](https://www.reddit.com/r/Python/comments/pnit58/python_analog_clock_using_turtle_module/)
 - [Enable ++x and --x expressions in Python](https://www.reddit.com/r/Python/comments/pnie05/enable_x_and_x_expressions_in_python/)
-- [Phyterminal Update 2: Circles](https://www.reddit.com/r/Python/comments/pni8om/phyterminal_update_2_circles/)
-- [Python to EXE with GUI panel](https://www.reddit.com/r/Python/comments/pnhe3c/python_to_exe_with_gui_panel/)
 <!-- BLOG-POST-LIST:END -->
