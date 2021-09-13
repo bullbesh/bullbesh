@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I'm making a Superhero Index in Python!](https://www.reddit.com/r/Python/comments/pn7za6/im_making_a_superhero_index_in_python/)
 - [Tic tac toe without "if".](https://www.reddit.com/r/Python/comments/pn6xnf/tic_tac_toe_without_if/)
 - [Python and macOS GUI coding.](https://www.reddit.com/r/Python/comments/pn6nk8/python_and_macos_gui_coding/)
 - [Automated typing websites (monkeytype.com and 10fastfingures.com)](https://www.reddit.com/r/Python/comments/pn6c2u/automated_typing_websites_monkeytypecom_and/)
 - [PSA: Kite is a viral plugin that kills your system performance](https://www.reddit.com/r/Python/comments/pn49pa/psa_kite_is_a_viral_plugin_that_kills_your_system/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/pn45bn/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
