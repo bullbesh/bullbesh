@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Making a Search Engine for MKBHD's Waveform Podcast using FastAPI & React](https://www.reddit.com/r/Python/comments/pndoaw/making_a_search_engine_for_mkbhds_waveform/)
 - [I published a video where I explain how to write cleaner code using the Open-Closed Principle from SOLID](https://www.reddit.com/r/Python/comments/pnchu4/i_published_a_video_where_i_explain_how_to_write/)
 - [Klara: Python automatic test generations and static analysis library](https://www.reddit.com/r/Python/comments/pncg9r/klara_python_automatic_test_generations_and/)
 - [DataQA: the new Python app to do rules-based text annotation](https://www.reddit.com/r/Python/comments/pnc4mv/dataqa_the_new_python_app_to_do_rulesbased_text/)
-- [Python Program to Evaluate Expressions using evalf Method of SymPy Module](https://www.reddit.com/r/Python/comments/pnc366/python_program_to_evaluate_expressions_using/)
 - [Python Program to Filter All the Files Starting with Same Pattern using fnmatch Module](https://www.reddit.com/r/Python/comments/pnc1pq/python_program_to_filter_all_the_files_starting/)
 <!-- BLOG-POST-LIST:END -->
