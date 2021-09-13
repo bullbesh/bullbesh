@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Text Message Automation using Airmore and Python](https://www.reddit.com/r/Python/comments/pnbrzy/text_message_automation_using_airmore_and_python/)
+- [Python Program to search all the files ending with .py using fnmatch module](https://www.reddit.com/r/Python/comments/pnbmll/python_program_to_search_all_the_files_ending/)
+- [Unravelling `async for` loops](https://www.reddit.com/r/Python/comments/pnblzs/unravelling_async_for_loops/)
+- [Python Program to Declare Symbolic Variables Explicitly using Symbol Method of SymPy Module](https://www.reddit.com/r/Python/comments/pnbj2t/python_program_to_declare_symbolic_variables/)
 - [Creation of Array using Array Module](https://www.reddit.com/r/Python/comments/pnb4cn/creation_of_array_using_array_module/)
-- [Azure AD authentication for FastAPI 🔒 Now supports both single- and multi-tenants. Documentation includes a full tutorial on how to set it up from scratch](https://www.reddit.com/r/Python/comments/pnao6w/azure_ad_authentication_for_fastapi_now_supports/)
-- [Teaching Python to kids who are reluctant to type the code](https://www.reddit.com/r/Python/comments/pnak0h/teaching_python_to_kids_who_are_reluctant_to_type/)
-- [NLP Tutorial with Flair & Python](https://www.reddit.com/r/Python/comments/pna8ax/nlp_tutorial_with_flair_python/)
-- [20 Python Functions You Should Know](https://www.reddit.com/r/Python/comments/pn9xsm/20_python_functions_you_should_know/)
 <!-- BLOG-POST-LIST:END -->
