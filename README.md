@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python: Tutorials for Beginners, Intermediate, and Advanced Programmers](https://www.reddit.com/r/Python/comments/pn9vhj/learn_python_tutorials_for_beginners_intermediate/)
+- [Introducing Mold - yet another library for project initialisation](https://www.reddit.com/r/Python/comments/pn9tll/introducing_mold_yet_another_library_for_project/)
+- [Wanna learn Python Django in a fun way?](https://www.reddit.com/r/Python/comments/pn9sf4/wanna_learn_python_django_in_a_fun_way/)
 - [I'm making a Superhero Index in Python!](https://www.reddit.com/r/Python/comments/pn7za6/im_making_a_superhero_index_in_python/)
 - [Tic tac toe without "if".](https://www.reddit.com/r/Python/comments/pn6xnf/tic_tac_toe_without_if/)
-- [Python and macOS GUI coding.](https://www.reddit.com/r/Python/comments/pn6nk8/python_and_macos_gui_coding/)
-- [Automated typing websites (monkeytype.com and 10fastfingures.com)](https://www.reddit.com/r/Python/comments/pn6c2u/automated_typing_websites_monkeytypecom_and/)
-- [PSA: Kite is a viral plugin that kills your system performance](https://www.reddit.com/r/Python/comments/pn49pa/psa_kite_is_a_viral_plugin_that_kills_your_system/)
 <!-- BLOG-POST-LIST:END -->
