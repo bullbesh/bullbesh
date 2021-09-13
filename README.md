@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Program to Find Derivative, Integration, Limits and Quadratic Equation using SymPy Module](https://www.reddit.com/r/Python/comments/pnitn6/python_program_to_find_derivative_integration/)
+- [Python analog clock using turtle module](https://www.reddit.com/r/Python/comments/pnit58/python_analog_clock_using_turtle_module/)
+- [Enable ++x and --x expressions in Python](https://www.reddit.com/r/Python/comments/pnie05/enable_x_and_x_expressions_in_python/)
+- [Phyterminal Update 2: Circles](https://www.reddit.com/r/Python/comments/pni8om/phyterminal_update_2_circles/)
 - [Python to EXE with GUI panel](https://www.reddit.com/r/Python/comments/pnhe3c/python_to_exe_with_gui_panel/)
-- [Cosmetic Shop Automation using python](https://www.reddit.com/r/Python/comments/pnh2qn/cosmetic_shop_automation_using_python/)
-- [Apparently nobody needs front-end stack...](https://www.reddit.com/r/Python/comments/pngqvs/apparently_nobody_needs_frontend_stack/)
-- [I made a simple program to scrape wikipedia to get the Best Drama Film Awards](https://www.reddit.com/r/Python/comments/png7ou/i_made_a_simple_program_to_scrape_wikipedia_to/)
-- [This are some of paintings made by the machine learning algorithm i made](https://www.reddit.com/r/Python/comments/png3ck/this_are_some_of_paintings_made_by_the_machine/)
 <!-- BLOG-POST-LIST:END -->
