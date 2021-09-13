@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python to EXE with GUI panel](https://www.reddit.com/r/Python/comments/pnhe3c/python_to_exe_with_gui_panel/)
+- [Cosmetic Shop Automation using python](https://www.reddit.com/r/Python/comments/pnh2qn/cosmetic_shop_automation_using_python/)
+- [Apparently nobody needs front-end stack...](https://www.reddit.com/r/Python/comments/pngqvs/apparently_nobody_needs_frontend_stack/)
 - [I made a simple program to scrape wikipedia to get the Best Drama Film Awards](https://www.reddit.com/r/Python/comments/png7ou/i_made_a_simple_program_to_scrape_wikipedia_to/)
 - [This are some of paintings made by the machine learning algorithm i made](https://www.reddit.com/r/Python/comments/png3ck/this_are_some_of_paintings_made_by_the_machine/)
-- [How to interpret these datasets](https://www.reddit.com/r/Python/comments/pnfu5u/how_to_interpret_these_datasets/)
-- [All The Ways to Compress and Archive Files in Python](https://www.reddit.com/r/Python/comments/pnfl4z/all_the_ways_to_compress_and_archive_files_in/)
-- [A Simulation of the Economy](https://www.reddit.com/r/Python/comments/pnfajy/a_simulation_of_the_economy/)
 <!-- BLOG-POST-LIST:END -->
