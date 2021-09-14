@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first ever python script, PConfig!](https://www.reddit.com/r/Python/comments/pocjba/my_first_ever_python_script_pconfig/)
+- [Python Utilities For Mundane Tasks](https://www.reddit.com/r/Python/comments/pocf5l/python_utilities_for_mundane_tasks/)
+- [Python utilities for AWS](https://www.reddit.com/r/Python/comments/pocbip/python_utilities_for_aws/)
+- [I would really love to get your feedbacks! (especially if you are a backend developers who building microservices). I have developed a RabbitMQ asynchronous connector library for Python (named Bunny-Storm). It contains an easy one-liner implementation for asynchronous RPC among other features.](https://www.reddit.com/r/Python/comments/poc4le/i_would_really_love_to_get_your_feedbacks/)
 - [Create A Data Analytics & Visualization Application | Python | Django | Introduction](https://www.reddit.com/r/Python/comments/poaci3/create_a_data_analytics_visualization_application/)
-- [Interactive Trignometry Function Visualisation In Jupyter Notebook](https://www.reddit.com/r/Python/comments/po608g/interactive_trignometry_function_visualisation_in/)
-- [4 Anti-Patterns in Python (And How to Avoid Them)](https://www.reddit.com/r/Python/comments/po5lhf/4_antipatterns_in_python_and_how_to_avoid_them/)
-- [Python News: What's New From August 2021? – Real Python](https://www.reddit.com/r/Python/comments/po418p/python_news_whats_new_from_august_2021_real_python/)
-- [What is the most interesting / funniest solution you have seen done with Python & Selenium?](https://www.reddit.com/r/Python/comments/po1j0n/what_is_the_most_interesting_funniest_solution/)
 <!-- BLOG-POST-LIST:END -->
