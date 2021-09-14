@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Program to Filter All the Files Starting with Same Pattern using fnmatch Module](https://www.reddit.com/r/Python/comments/pnvmig/python_program_to_filter_all_the_files_starting/)
+- [Python Program to Represent Rational Number and Integers using SymPy Module](https://www.reddit.com/r/Python/comments/pnvhgv/python_program_to_represent_rational_number_and/)
 - [Querying and Counting Massive Datasets](https://www.reddit.com/r/Python/comments/pntug6/querying_and_counting_massive_datasets/)
-- [Making a Search Engine for MKBHD's Waveform Podcast with a Python & FastAPI Backend](https://www.reddit.com/r/Python/comments/pntsjo/making_a_search_engine_for_mkbhds_waveform/)
 - [I just made a MuseScore PDF scraper for online scores. They don't allow non-subscription paying users to download scores in any format.](https://www.reddit.com/r/Python/comments/pntp42/i_just_made_a_musescore_pdf_scraper_for_online/)
 - [TensorFlow Introduces ‘TensorFlow Similarity’, An Easy And Fast Python Package To Train Similarity Models Using TensorFlow](https://www.reddit.com/r/Python/comments/pnspnq/tensorflow_introduces_tensorflow_similarity_an/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/pnrish/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
