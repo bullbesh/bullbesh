@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the most interesting / funniest solution you have seen done with Python & Selenium?](https://www.reddit.com/r/Python/comments/po1j0n/what_is_the_most_interesting_funniest_solution/)
+- [How do you utilise pandas DataFrames?](https://www.reddit.com/r/Python/comments/po0snu/how_do_you_utilise_pandas_dataframes/)
+- [How to create a football data visualization - from getting the data to plotting the passing networks](https://www.reddit.com/r/Python/comments/po0rss/how_to_create_a_football_data_visualization_from/)
 - [HTTPX 1.0.beta1 is here](https://www.reddit.com/r/Python/comments/pnzhk9/httpx_10beta1_is_here/)
 - [Datasette Desktop 0.2.0: The annotated release notes](https://www.reddit.com/r/Python/comments/pnzh50/datasette_desktop_020_the_annotated_release_notes/)
-- [Regex for Can’t have more than 1 operator together.](https://www.reddit.com/r/Python/comments/pnynqi/regex_for_cant_have_more_than_1_operator_together/)
-- [Python Excel automation part 2: apply formula and conditional formatting](https://www.reddit.com/r/Python/comments/pnvsn1/python_excel_automation_part_2_apply_formula_and/)
-- [Querying and Counting Massive Datasets](https://www.reddit.com/r/Python/comments/pntug6/querying_and_counting_massive_datasets/)
 <!-- BLOG-POST-LIST:END -->
