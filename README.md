@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python certification](https://www.reddit.com/r/Python/comments/po621q/python_certification/)
+- [#Python Basics | Python Tutorial for Beginners | #Python3 Programming](https://www.reddit.com/r/Python/comments/po6mo0/python_basics_python_tutorial_for_beginners/)
 - [Interactive Trignometry Function Visualisation In Jupyter Notebook](https://www.reddit.com/r/Python/comments/po608g/interactive_trignometry_function_visualisation_in/)
 - [4 Anti-Patterns in Python (And How to Avoid Them)](https://www.reddit.com/r/Python/comments/po5lhf/4_antipatterns_in_python_and_how_to_avoid_them/)
 - [Python News: What's New From August 2021? – Real Python](https://www.reddit.com/r/Python/comments/po418p/python_news_whats_new_from_august_2021_real_python/)
