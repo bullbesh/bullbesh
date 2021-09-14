@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Querying and Counting Massive Datasets](https://www.reddit.com/r/Python/comments/pntug6/querying_and_counting_massive_datasets/)
+- [Making a Search Engine for MKBHD's Waveform Podcast with a Python & FastAPI Backend](https://www.reddit.com/r/Python/comments/pntsjo/making_a_search_engine_for_mkbhds_waveform/)
+- [I just made a MuseScore PDF scraper for online scores. They don't allow non-subscription paying users to download scores in any format.](https://www.reddit.com/r/Python/comments/pntp42/i_just_made_a_musescore_pdf_scraper_for_online/)
+- [TensorFlow Introduces ‘TensorFlow Similarity’, An Easy And Fast Python Package To Train Similarity Models Using TensorFlow](https://www.reddit.com/r/Python/comments/pnspnq/tensorflow_introduces_tensorflow_similarity_an/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/pnrish/tuesday_daily_thread_advanced_questions/)
-- [It be insightful on whats everyone career over here](https://www.reddit.com/r/Python/comments/pnr4t5/it_be_insightful_on_whats_everyone_career_over/)
-- [Simple dashboard with history logging of the DHT-22 (Raspberry Pi) sensor output - build with python + flask](https://www.reddit.com/r/Python/comments/pnm37a/simple_dashboard_with_history_logging_of_the/)
-- [Using Arduino and ultrasonic sensor with python to measure distance and trigger action like opening application based on distance](https://www.reddit.com/r/Python/comments/pnjvfd/using_arduino_and_ultrasonic_sensor_with_python/)
-- [Visualizing Python modules and dependencies with Neo4j](https://www.reddit.com/r/Python/comments/pnjoz6/visualizing_python_modules_and_dependencies_with/)
 <!-- BLOG-POST-LIST:END -->
