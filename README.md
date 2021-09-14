@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python certification](https://www.reddit.com/r/Python/comments/po621q/python_certification/)
+- [Interactive Trignometry Function Visualisation In Jupyter Notebook](https://www.reddit.com/r/Python/comments/po608g/interactive_trignometry_function_visualisation_in/)
+- [4 Anti-Patterns in Python (And How to Avoid Them)](https://www.reddit.com/r/Python/comments/po5lhf/4_antipatterns_in_python_and_how_to_avoid_them/)
 - [Python News: What's New From August 2021? – Real Python](https://www.reddit.com/r/Python/comments/po418p/python_news_whats_new_from_august_2021_real_python/)
 - [What is the most interesting / funniest solution you have seen done with Python & Selenium?](https://www.reddit.com/r/Python/comments/po1j0n/what_is_the_most_interesting_funniest_solution/)
-- [How do you utilise pandas DataFrames?](https://www.reddit.com/r/Python/comments/po0snu/how_do_you_utilise_pandas_dataframes/)
-- [How to create a football data visualization - from getting the data to plotting the passing networks](https://www.reddit.com/r/Python/comments/po0rss/how_to_create_a_football_data_visualization_from/)
-- [HTTPX 1.0.beta1 is here](https://www.reddit.com/r/Python/comments/pnzhk9/httpx_10beta1_is_here/)
 <!-- BLOG-POST-LIST:END -->
