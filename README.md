@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTPX 1.0.beta1 is here](https://www.reddit.com/r/Python/comments/pnzhk9/httpx_10beta1_is_here/)
+- [Datasette Desktop 0.2.0: The annotated release notes](https://www.reddit.com/r/Python/comments/pnzh50/datasette_desktop_020_the_annotated_release_notes/)
 - [Regex for Can’t have more than 1 operator together.](https://www.reddit.com/r/Python/comments/pnynqi/regex_for_cant_have_more_than_1_operator_together/)
 - [Python Excel automation part 2: apply formula and conditional formatting](https://www.reddit.com/r/Python/comments/pnvsn1/python_excel_automation_part_2_apply_formula_and/)
 - [Querying and Counting Massive Datasets](https://www.reddit.com/r/Python/comments/pntug6/querying_and_counting_massive_datasets/)
-- [I just made a MuseScore PDF scraper for online scores. They don't allow non-subscription paying users to download scores in any format.](https://www.reddit.com/r/Python/comments/pntp42/i_just_made_a_musescore_pdf_scraper_for_online/)
-- [TensorFlow Introduces ‘TensorFlow Similarity’, An Easy And Fast Python Package To Train Similarity Models Using TensorFlow](https://www.reddit.com/r/Python/comments/pnspnq/tensorflow_introduces_tensorflow_similarity_an/)
 <!-- BLOG-POST-LIST:END -->
