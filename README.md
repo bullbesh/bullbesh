@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do y’all get the motivation to finish your projects?](https://www.reddit.com/r/Python/comments/poh10t/how_do_yall_get_the_motivation_to_finish_your/)
 - [How to use sets and frozensets like a Python ninja](https://www.reddit.com/r/Python/comments/pof82m/how_to_use_sets_and_frozensets_like_a_python_ninja/)
 - [Generating Twitter Lists with Python](https://www.reddit.com/r/Python/comments/pof4bn/generating_twitter_lists_with_python/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/poerld/wednesday_daily_thread_beginner_questions/)
 - [My first ever python script, PConfig!](https://www.reddit.com/r/Python/comments/pocjba/my_first_ever_python_script_pconfig/)
-- [Python Utilities For Mundane Tasks](https://www.reddit.com/r/Python/comments/pocf5l/python_utilities_for_mundane_tasks/)
 <!-- BLOG-POST-LIST:END -->
