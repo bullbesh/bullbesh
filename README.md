@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [First CLI tool, multithreaded portscanner](https://www.reddit.com/r/Python/comments/pop1wa/first_cli_tool_multithreaded_portscanner/)
+- [Python Anti-Pattern](https://www.reddit.com/r/Python/comments/pooxg7/python_antipattern/)
 - [Why is python binary AND of integers is slower than modulu operator?](https://www.reddit.com/r/Python/comments/ponw6e/why_is_python_binary_and_of_integers_is_slower/)
-- [Is Python just a simpler way to write C?](https://www.reddit.com/r/Python/comments/ponkvt/is_python_just_a_simpler_way_to_write_c/)
 - [celery + redis freeze the last few tasks](https://www.reddit.com/r/Python/comments/pone5r/celery_redis_freeze_the_last_few_tasks/)
 - [Hierarchical Treemap from scratch with no aggregation](https://www.reddit.com/r/Python/comments/poncnh/hierarchical_treemap_from_scratch_with_no/)
-- [Using SQLite Database With Python + Simple Project With SQLite](https://www.reddit.com/r/Python/comments/pomxg6/using_sqlite_database_with_python_simple_project/)
 <!-- BLOG-POST-LIST:END -->
