@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [26 Useful Python Snippets for Lazy Developers](https://www.reddit.com/r/Python/comments/poltdh/26_useful_python_snippets_for_lazy_developers/)
+- [Configuration based arguments parsing](https://www.reddit.com/r/Python/comments/polnk3/configuration_based_arguments_parsing/)
+- [This Raspberry Pi is heading into space for a Python programming challenge](https://www.reddit.com/r/Python/comments/polgx7/this_raspberry_pi_is_heading_into_space_for_a/)
 - [First Web App with Flask: Quick Test](https://www.reddit.com/r/Python/comments/pokxcz/first_web_app_with_flask_quick_test/)
 - [I made a thing... a Digital Ocean Spaces client.](https://www.reddit.com/r/Python/comments/poiy0r/i_made_a_thing_a_digital_ocean_spaces_client/)
-- [What makes Python a good programming language for mobile app development?](https://www.reddit.com/r/Python/comments/poiweu/what_makes_python_a_good_programming_language_for/)
-- [Application to Build Crypto Price Database](https://www.reddit.com/r/Python/comments/poiw3n/application_to_build_crypto_price_database/)
-- [Check out my new VS code theme - Dark Mattr](https://www.reddit.com/r/Python/comments/poio5a/check_out_my_new_vs_code_theme_dark_mattr/)
 <!-- BLOG-POST-LIST:END -->
