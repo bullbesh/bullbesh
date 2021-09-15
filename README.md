@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is python binary AND of integers is slower than modulu operator?](https://www.reddit.com/r/Python/comments/ponw6e/why_is_python_binary_and_of_integers_is_slower/)
+- [Is Python just a simpler way to write C?](https://www.reddit.com/r/Python/comments/ponkvt/is_python_just_a_simpler_way_to_write_c/)
+- [celery + redis freeze the last few tasks](https://www.reddit.com/r/Python/comments/pone5r/celery_redis_freeze_the_last_few_tasks/)
+- [Hierarchical Treemap from scratch with no aggregation](https://www.reddit.com/r/Python/comments/poncnh/hierarchical_treemap_from_scratch_with_no/)
 - [Using SQLite Database With Python + Simple Project With SQLite](https://www.reddit.com/r/Python/comments/pomxg6/using_sqlite_database_with_python_simple_project/)
-- [GitHub - mfarragher/obsidiantools: Obsidian tools - a Python package for analysing an Obsidian.md vault](https://www.reddit.com/r/Python/comments/pomllu/github_mfarragherobsidiantools_obsidian_tools_a/)
-- [26 Useful Python Snippets for Lazy Developers](https://www.reddit.com/r/Python/comments/poltdh/26_useful_python_snippets_for_lazy_developers/)
-- [Configuration based arguments parsing](https://www.reddit.com/r/Python/comments/polnk3/configuration_based_arguments_parsing/)
-- [This Raspberry Pi is heading into space for a Python programming challenge](https://www.reddit.com/r/Python/comments/polgx7/this_raspberry_pi_is_heading_into_space_for_a/)
 <!-- BLOG-POST-LIST:END -->
