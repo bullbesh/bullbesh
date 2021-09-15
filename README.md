@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [nlp suggestions please.....](https://www.reddit.com/r/Python/comments/pohpyz/nlp_suggestions_please/)
-- [How do y’all get the motivation to finish your projects?](https://www.reddit.com/r/Python/comments/poh10t/how_do_yall_get_the_motivation_to_finish_your/)
-- [How to use sets and frozensets like a Python ninja](https://www.reddit.com/r/Python/comments/pof82m/how_to_use_sets_and_frozensets_like_a_python_ninja/)
-- [Generating Twitter Lists with Python](https://www.reddit.com/r/Python/comments/pof4bn/generating_twitter_lists_with_python/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/poerld/wednesday_daily_thread_beginner_questions/)
+- [I made a thing... a Digital Ocean Spaces client.](https://www.reddit.com/r/Python/comments/poiy0r/i_made_a_thing_a_digital_ocean_spaces_client/)
+- [What makes Python a good programming language for mobile app development?](https://www.reddit.com/r/Python/comments/poiweu/what_makes_python_a_good_programming_language_for/)
+- [Application to Build Crypto Price Database](https://www.reddit.com/r/Python/comments/poiw3n/application_to_build_crypto_price_database/)
+- [Check out my new VS code theme - Dark Mattr](https://www.reddit.com/r/Python/comments/poio5a/check_out_my_new_vs_code_theme_dark_mattr/)
+- [Analyze DNA with embedding](https://www.reddit.com/r/Python/comments/poifvo/analyze_dna_with_embedding/)
 <!-- BLOG-POST-LIST:END -->
