@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Authorization is Hard](https://www.reddit.com/r/Python/comments/poxwxe/why_authorization_is_hard/)
+- [Interactive Python Interpreter on VSCode](https://www.reddit.com/r/Python/comments/poygkj/interactive_python_interpreter_on_vscode/)
 - [Testing in Python sucks, let’s make it better](https://www.reddit.com/r/Python/comments/povrfb/testing_in_python_sucks_lets_make_it_better/)
 - [How to go from good to great?](https://www.reddit.com/r/Python/comments/povpnr/how_to_go_from_good_to_great/)
 - [What cool projects have you make with BeautifulSoup to make your life easier?](https://www.reddit.com/r/Python/comments/potbjt/what_cool_projects_have_you_make_with/)
