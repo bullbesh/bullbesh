@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What's the Scraper Mother load?](https://www.reddit.com/r/Python/comments/poq38e/whats_the_scraper_mother_load/)
 - [Preptember - Prepare For HacktoberFest 2021](https://www.reddit.com/r/Python/comments/popm8a/preptember_prepare_for_hacktoberfest_2021/)
 - [First CLI tool, multithreaded portscanner](https://www.reddit.com/r/Python/comments/pop1wa/first_cli_tool_multithreaded_portscanner/)
 - [Python Anti-Pattern](https://www.reddit.com/r/Python/comments/pooxg7/python_antipattern/)
 - [Why is python binary AND of integers is slower than modulu operator?](https://www.reddit.com/r/Python/comments/ponw6e/why_is_python_binary_and_of_integers_is_slower/)
-- [celery + redis freeze the last few tasks](https://www.reddit.com/r/Python/comments/pone5r/celery_redis_freeze_the_last_few_tasks/)
 <!-- BLOG-POST-LIST:END -->
