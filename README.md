@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use sets and frozensets like a Python ninja](https://www.reddit.com/r/Python/comments/pof82m/how_to_use_sets_and_frozensets_like_a_python_ninja/)
+- [Generating Twitter Lists with Python](https://www.reddit.com/r/Python/comments/pof4bn/generating_twitter_lists_with_python/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/poerld/wednesday_daily_thread_beginner_questions/)
 - [My first ever python script, PConfig!](https://www.reddit.com/r/Python/comments/pocjba/my_first_ever_python_script_pconfig/)
 - [Python Utilities For Mundane Tasks](https://www.reddit.com/r/Python/comments/pocf5l/python_utilities_for_mundane_tasks/)
-- [Python utilities for AWS](https://www.reddit.com/r/Python/comments/pocbip/python_utilities_for_aws/)
-- [I would really love to get your feedbacks! (especially if you are a backend developers who building microservices). I have developed a RabbitMQ asynchronous connector library for Python (named Bunny-Storm). It contains an easy one-liner implementation for asynchronous RPC among other features.](https://www.reddit.com/r/Python/comments/poc4le/i_would_really_love_to_get_your_feedbacks/)
-- [Create A Data Analytics & Visualization Application | Python | Django | Introduction](https://www.reddit.com/r/Python/comments/poaci3/create_a_data_analytics_visualization_application/)
 <!-- BLOG-POST-LIST:END -->
