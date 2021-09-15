@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Functions and Modules | python3 tutorial for beginners | Python P...](https://www.reddit.com/r/Python/comments/pou844/python_functions_and_modules_python3_tutorial_for/)
+- [Testing in Python sucks, let’s make it better](https://www.reddit.com/r/Python/comments/povrfb/testing_in_python_sucks_lets_make_it_better/)
+- [How to go from good to great?](https://www.reddit.com/r/Python/comments/povpnr/how_to_go_from_good_to_great/)
 - [What cool projects have you make with BeautifulSoup to make your life easier?](https://www.reddit.com/r/Python/comments/potbjt/what_cool_projects_have_you_make_with/)
 - [Python: Django Development on Kubernetes with DevSpace](https://www.reddit.com/r/Python/comments/poswgk/python_django_development_on_kubernetes_with/)
 - [New release of Firebird driver for Python v1.3.0 is available with Improved Firebird 4 support](https://www.reddit.com/r/Python/comments/posqm5/new_release_of_firebird_driver_for_python_v130_is/)
-- [Using openpyxl with lambda](https://www.reddit.com/r/Python/comments/porayh/using_openpyxl_with_lambda/)
 <!-- BLOG-POST-LIST:END -->
