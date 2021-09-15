@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What's the Scraper Mother load?](https://www.reddit.com/r/Python/comments/poq38e/whats_the_scraper_mother_load/)
-- [Preptember - Prepare For HacktoberFest 2021](https://www.reddit.com/r/Python/comments/popm8a/preptember_prepare_for_hacktoberfest_2021/)
-- [First CLI tool, multithreaded portscanner](https://www.reddit.com/r/Python/comments/pop1wa/first_cli_tool_multithreaded_portscanner/)
-- [Python Anti-Pattern](https://www.reddit.com/r/Python/comments/pooxg7/python_antipattern/)
-- [Why is python binary AND of integers is slower than modulu operator?](https://www.reddit.com/r/Python/comments/ponw6e/why_is_python_binary_and_of_integers_is_slower/)
+- [Ayuda](https://www.reddit.com/r/Python/comments/pormbn/ayuda/)
+- [Using openpyxl with lambda](https://www.reddit.com/r/Python/comments/porayh/using_openpyxl_with_lambda/)
+- [To my fellow Latin Americans, I made a script to search for low prices periodically in Mercado Libre](https://www.reddit.com/r/Python/comments/por8c7/to_my_fellow_latin_americans_i_made_a_script_to/)
+- [The Matrix Code Rain](https://www.reddit.com/r/Python/comments/por2gt/the_matrix_code_rain/)
+- [Disk Update: Phyterminal, The Physics Renderer for Terminal, written in Python](https://www.reddit.com/r/Python/comments/por0fz/disk_update_phyterminal_the_physics_renderer_for/)
 <!-- BLOG-POST-LIST:END -->
