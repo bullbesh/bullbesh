@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Search images by an image! Check out our project (with online demo)! #reverse-image-search](https://www.reddit.com/r/Python/comments/pp8pl7/search_images_by_an_image_check_out_our_project/)
+- [Trying to read a Parquet file but instead getting and error: AttributeError: 'pyarrow._fs.PyFileSystem' object has no attribute 'is_file'](https://www.reddit.com/r/Python/comments/pp8m5u/trying_to_read_a_parquet_file_but_instead_getting/)
 - [I am new to programming and python. Want to know the best ways to learn?](https://www.reddit.com/r/Python/comments/pp7z9b/i_am_new_to_programming_and_python_want_to_know/)
 - [I Built a Python/Brython Program that Completes Syntactic Derivations in Symbolic Logics](https://www.reddit.com/r/Python/comments/pp7jyv/i_built_a_pythonbrython_program_that_completes/)
 - [Why don't dataclasses allow for immutability at the field level?](https://www.reddit.com/r/Python/comments/pp68bk/why_dont_dataclasses_allow_for_immutability_at/)
-- [Announcing the Flow FLIP Fest](https://www.reddit.com/r/Python/comments/pp45xo/announcing_the_flow_flip_fest/)
-- [How to Unsubscribe All YouTube Subscriptions With Python and YouTube Data API](https://www.reddit.com/r/Python/comments/pp2ojp/how_to_unsubscribe_all_youtube_subscriptions_with/)
 <!-- BLOG-POST-LIST:END -->
