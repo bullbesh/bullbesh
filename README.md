@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Interactive Python Interpreter on VSCode](https://www.reddit.com/r/Python/comments/poygkj/interactive_python_interpreter_on_vscode/)
-- [Testing in Python sucks, let’s make it better](https://www.reddit.com/r/Python/comments/povrfb/testing_in_python_sucks_lets_make_it_better/)
-- [How to go from good to great?](https://www.reddit.com/r/Python/comments/povpnr/how_to_go_from_good_to_great/)
-- [What cool projects have you make with BeautifulSoup to make your life easier?](https://www.reddit.com/r/Python/comments/potbjt/what_cool_projects_have_you_make_with/)
-- [Python: Django Development on Kubernetes with DevSpace](https://www.reddit.com/r/Python/comments/poswgk/python_django_development_on_kubernetes_with/)
+- [How to Unsubscribe All YouTube Subscriptions With Python and YouTube Data API](https://www.reddit.com/r/Python/comments/pp2ojp/how_to_unsubscribe_all_youtube_subscriptions_with/)
+- [Python Superpowers Software Bundle](https://www.reddit.com/r/Python/comments/pp2joc/python_superpowers_software_bundle/)
+- [Given list of integers, find all possible sums](https://www.reddit.com/r/Python/comments/pp2gq5/given_list_of_integers_find_all_possible_sums/)
+- [Programming languages](https://www.reddit.com/r/Python/comments/pp2f9r/programming_languages/)
+- [Backend Developer Role Requires Data Structures and Algorithms?](https://www.reddit.com/r/Python/comments/pp26rp/backend_developer_role_requires_data_structures/)
 <!-- BLOG-POST-LIST:END -->
