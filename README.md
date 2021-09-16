@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free api to fetch longitude and latitude from zipcode](https://www.reddit.com/r/Python/comments/ppd9ps/free_api_to_fetch_longitude_and_latitude_from/)
 - [The new (beta) Anvil editor has been released](https://www.reddit.com/r/Python/comments/ppcv6p/the_new_beta_anvil_editor_has_been_released/)
 - [My First Discord-Bot: A Rhythm alternative! (RIP Rhythm)](https://www.reddit.com/r/Python/comments/ppcmx0/my_first_discordbot_a_rhythm_alternative_rip/)
 - [Python study methods](https://www.reddit.com/r/Python/comments/ppcdxf/python_study_methods/)
 - [I Created a Basic Command Line Tool to Create New Repositories on Github Using Requests](https://www.reddit.com/r/Python/comments/ppc85y/i_created_a_basic_command_line_tool_to_create_new/)
-- [Free Python Crash Course (Limited Time)](https://www.reddit.com/r/Python/comments/ppa3f6/free_python_crash_course_limited_time/)
 <!-- BLOG-POST-LIST:END -->
