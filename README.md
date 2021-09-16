@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am new to programming and python. Want to know the best ways to learn?](https://www.reddit.com/r/Python/comments/pp7z9b/i_am_new_to_programming_and_python_want_to_know/)
 - [I Built a Python/Brython Program that Completes Syntactic Derivations in Symbolic Logics](https://www.reddit.com/r/Python/comments/pp7jyv/i_built_a_pythonbrython_program_that_completes/)
-- [python programming](https://www.reddit.com/r/Python/comments/pp75qs/python_programming/)
 - [Why don't dataclasses allow for immutability at the field level?](https://www.reddit.com/r/Python/comments/pp68bk/why_dont_dataclasses_allow_for_immutability_at/)
-- [Has anyone used Selenium on a recent version of Python?](https://www.reddit.com/r/Python/comments/pp61c1/has_anyone_used_selenium_on_a_recent_version_of/)
-- [What are some good project ideas for extending Python with C-Extensions?](https://www.reddit.com/r/Python/comments/pp5isy/what_are_some_good_project_ideas_for_extending/)
+- [Announcing the Flow FLIP Fest](https://www.reddit.com/r/Python/comments/pp45xo/announcing_the_flow_flip_fest/)
+- [How to Unsubscribe All YouTube Subscriptions With Python and YouTube Data API](https://www.reddit.com/r/Python/comments/pp2ojp/how_to_unsubscribe_all_youtube_subscriptions_with/)
 <!-- BLOG-POST-LIST:END -->
