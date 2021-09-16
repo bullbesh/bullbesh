@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What next? PyQt/tkinter or Django?](https://www.reddit.com/r/Python/comments/ppnr4j/what_next_pyqttkinter_or_django/)
 - [Looking for feedback on Hacktoberfest Participants Page - What could be done better?](https://www.reddit.com/r/Python/comments/ppm2pl/looking_for_feedback_on_hacktoberfest/)
 - [Machine Learning Raspberry Pi (Includes Python Libraries)](https://www.reddit.com/r/Python/comments/pplm29/machine_learning_raspberry_pi_includes_python/)
 - [What’s in which Python 3.7–3.9?](https://www.reddit.com/r/Python/comments/ppkqul/whats_in_which_python_3739/)
 - [Write five lines of python code which can download YouTube videos](https://www.reddit.com/r/Python/comments/ppj4ad/write_five_lines_of_python_code_which_can/)
-- [My first time using PyQt5 and Qt Designer! Created a simple python script executor](https://www.reddit.com/r/Python/comments/ppiwbr/my_first_time_using_pyqt5_and_qt_designer_created/)
 <!-- BLOG-POST-LIST:END -->
