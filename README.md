@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [JIDE - Open Source JSON IDE made with Tkinter](https://www.reddit.com/r/Python/comments/pq3cec/jide_open_source_json_ide_made_with_tkinter/)
+- [Attandance Management Project with OpenCV](https://www.reddit.com/r/Python/comments/pq32w9/attandance_management_project_with_opencv/)
+- [How to remove nesting from json data and storing in Pandas dataframe](https://www.reddit.com/r/Python/comments/pq2lte/how_to_remove_nesting_from_json_data_and_storing/)
 - [[Q] How does the super function work?](https://www.reddit.com/r/Python/comments/pq23l7/q_how_does_the_super_function_work/)
 - [Math and Python](https://www.reddit.com/r/Python/comments/pq219u/math_and_python/)
-- [I think I have installed a dodgy pip package](https://www.reddit.com/r/Python/comments/ppzkg4/i_think_i_have_installed_a_dodgy_pip_package/)
-- [5 tips for writing production-ready Celery tasks](https://www.reddit.com/r/Python/comments/ppz26g/5_tips_for_writing_productionready_celery_tasks/)
-- [Tips for saving memory when using pandas](https://www.reddit.com/r/Python/comments/ppxpoe/tips_for_saving_memory_when_using_pandas/)
 <!-- BLOG-POST-LIST:END -->
