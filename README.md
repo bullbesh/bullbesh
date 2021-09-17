@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best UI for (HIL) testing with Python back-end](https://www.reddit.com/r/Python/comments/ppwr8u/best_ui_for_hil_testing_with_python_backend/)
 - [Created my first puzzle game (pygame)](https://www.reddit.com/r/Python/comments/ppvxrn/created_my_first_puzzle_game_pygame/)
 - [Anyscale - Parallelizing Python Code](https://www.reddit.com/r/Python/comments/ppvnba/anyscale_parallelizing_python_code/)
 - [Machine Learning Model](https://www.reddit.com/r/Python/comments/ppvfbk/machine_learning_model/)
 - [Freelance work, where to start](https://www.reddit.com/r/Python/comments/ppv6on/freelance_work_where_to_start/)
-- [Build a Personal Diary With Django and Python – Real Python](https://www.reddit.com/r/Python/comments/ppsxk7/build_a_personal_diary_with_django_and_python/)
 <!-- BLOG-POST-LIST:END -->
