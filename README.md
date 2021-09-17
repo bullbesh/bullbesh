@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a BlockTheSpot auto-apply program](https://www.reddit.com/r/Python/comments/pq4iw2/i_made_a_blockthespot_autoapply_program/)
+- [Add your program to file context menu](https://www.reddit.com/r/Python/comments/pq4962/add_your_program_to_file_context_menu/)
 - [JIDE - Open Source JSON IDE made with Tkinter](https://www.reddit.com/r/Python/comments/pq3cec/jide_open_source_json_ide_made_with_tkinter/)
 - [Attandance Management Project with OpenCV](https://www.reddit.com/r/Python/comments/pq32w9/attandance_management_project_with_opencv/)
 - [How to remove nesting from json data and storing in Pandas dataframe](https://www.reddit.com/r/Python/comments/pq2lte/how_to_remove_nesting_from_json_data_and_storing/)
-- [[Q] How does the super function work?](https://www.reddit.com/r/Python/comments/pq23l7/q_how_does_the_super_function_work/)
-- [Math and Python](https://www.reddit.com/r/Python/comments/pq219u/math_and_python/)
 <!-- BLOG-POST-LIST:END -->
