@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I think I have installed a dodgy pip package](https://www.reddit.com/r/Python/comments/ppzkg4/i_think_i_have_installed_a_dodgy_pip_package/)
 - [5 tips for writing production-ready Celery tasks](https://www.reddit.com/r/Python/comments/ppz26g/5_tips_for_writing_productionready_celery_tasks/)
 - [Tips for saving memory when using pandas](https://www.reddit.com/r/Python/comments/ppxpoe/tips_for_saving_memory_when_using_pandas/)
 - [Send Emails With Just a Voice Command Using Python 🔥](https://www.reddit.com/r/Python/comments/ppx6ou/send_emails_with_just_a_voice_command_using_python/)
-- [Best UI for (HIL) testing with Python back-end](https://www.reddit.com/r/Python/comments/ppwr8u/best_ui_for_hil_testing_with_python_backend/)
 - [Created my first puzzle game (pygame)](https://www.reddit.com/r/Python/comments/ppvxrn/created_my_first_puzzle_game_pygame/)
 <!-- BLOG-POST-LIST:END -->
