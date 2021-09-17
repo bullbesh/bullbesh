@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Q] How does the super function work?](https://www.reddit.com/r/Python/comments/pq23l7/q_how_does_the_super_function_work/)
+- [Math and Python](https://www.reddit.com/r/Python/comments/pq219u/math_and_python/)
 - [I think I have installed a dodgy pip package](https://www.reddit.com/r/Python/comments/ppzkg4/i_think_i_have_installed_a_dodgy_pip_package/)
 - [5 tips for writing production-ready Celery tasks](https://www.reddit.com/r/Python/comments/ppz26g/5_tips_for_writing_productionready_celery_tasks/)
 - [Tips for saving memory when using pandas](https://www.reddit.com/r/Python/comments/ppxpoe/tips_for_saving_memory_when_using_pandas/)
-- [Send Emails With Just a Voice Command Using Python 🔥](https://www.reddit.com/r/Python/comments/ppx6ou/send_emails_with_just_a_voice_command_using_python/)
-- [Created my first puzzle game (pygame)](https://www.reddit.com/r/Python/comments/ppvxrn/created_my_first_puzzle_game_pygame/)
 <!-- BLOG-POST-LIST:END -->
