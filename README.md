@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning Model](https://www.reddit.com/r/Python/comments/ppvfbk/machine_learning_model/)
+- [Freelance work, where to start](https://www.reddit.com/r/Python/comments/ppv6on/freelance_work_where_to_start/)
 - [Build a Personal Diary With Django and Python – Real Python](https://www.reddit.com/r/Python/comments/ppsxk7/build_a_personal_diary_with_django_and_python/)
 - [SpotifyCleaner: A Python script to convert your explicit Spotify playlist into a clean one.](https://www.reddit.com/r/Python/comments/ppr1ve/spotifycleaner_a_python_script_to_convert_your/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/ppp588/friday_daily_thread_free_chat_friday_daily_thread/)
-- [Looking for feedback on Hacktoberfest Participants Page - What could be done better?](https://www.reddit.com/r/Python/comments/ppm2pl/looking_for_feedback_on_hacktoberfest/)
-- [Machine Learning Raspberry Pi (Includes Python Libraries)](https://www.reddit.com/r/Python/comments/pplm29/machine_learning_raspberry_pi_includes_python/)
 <!-- BLOG-POST-LIST:END -->
