@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Bank ATM machine in python](https://www.reddit.com/r/Python/comments/pptam3/creating_bank_atm_machine_in_python/)
 - [Build a Personal Diary With Django and Python – Real Python](https://www.reddit.com/r/Python/comments/ppsxk7/build_a_personal_diary_with_django_and_python/)
 - [Animated NYT style map of avg new COVID-19 case](https://www.reddit.com/r/Python/comments/ppsjes/animated_nyt_style_map_of_avg_new_covid19_case/)
 - [SpotifyCleaner: A Python script to convert your explicit Spotify playlist into a clean one.](https://www.reddit.com/r/Python/comments/ppr1ve/spotifycleaner_a_python_script_to_convert_your/)
 - [Does something like this exist? Debugging for algorithm development.](https://www.reddit.com/r/Python/comments/pppnsh/does_something_like_this_exist_debugging_for/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/ppp588/friday_daily_thread_free_chat_friday_daily_thread/)
 <!-- BLOG-POST-LIST:END -->
