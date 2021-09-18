@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Should I just give up](https://www.reddit.com/r/Python/comments/pqpa9l/should_i_just_give_up/)
+- [fuck yeah](https://www.reddit.com/r/Python/comments/pqotlt/fuck_yeah/)
+- [Generative ASCII Art In 60 Lines of Python](https://www.reddit.com/r/Python/comments/pqoixn/generative_ascii_art_in_60_lines_of_python/)
 - [Kompute v0.8.0 Released: Numpy Optimized General Purpose GPU Accelerated Compute for Cross Vendor Graphic Cards (AMD, NVIDIA, Qualcomm & Friends). Adding Convolutional Neural Network (CNN) Implementations, Edge-Device Support, Variable Types Extension, MatMul Benchmarks, Optimisations + more 🚀](https://www.reddit.com/r/Python/comments/pqn8w0/kompute_v080_released_numpy_optimized_general/)
 - [10 Best python libraries for Natural language processing](https://www.reddit.com/r/Python/comments/pqmggv/10_best_python_libraries_for_natural_language/)
-- [I built a custom 8-Bit Processor following the design by Ben Eater and Sebastian Lague. It is Turing complete and runs a program that multiplies in that video](https://www.reddit.com/r/Python/comments/pqkxdd/i_built_a_custom_8bit_processor_following_the/)
-- [HTTP refresher: things you should know about HTTP](https://www.reddit.com/r/Python/comments/pqk9di/http_refresher_things_you_should_know_about_http/)
-- [EpyNN: Educational python for Neural Networks](https://www.reddit.com/r/Python/comments/pqk0wd/epynn_educational_python_for_neural_networks/)
 <!-- BLOG-POST-LIST:END -->
