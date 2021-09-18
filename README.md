@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a custom 8-Bit Processor following the design by Ben Eater and Sebastian Lague. It is Turing complete and runs a program that multiplies in that video](https://www.reddit.com/r/Python/comments/pqkxdd/i_built_a_custom_8bit_processor_following_the/)
 - [HTTP refresher: things you should know about HTTP](https://www.reddit.com/r/Python/comments/pqk9di/http_refresher_things_you_should_know_about_http/)
 - [EpyNN: Educational python for Neural Networks](https://www.reddit.com/r/Python/comments/pqk0wd/epynn_educational_python_for_neural_networks/)
 - [GitHub - microsoft/PythonProgrammingPuzzles: A Dataset of Python Challenges for AI Research](https://www.reddit.com/r/Python/comments/pqj6u1/github_microsoftpythonprogrammingpuzzles_a/)
 - [Unravelling the `async with` statement](https://www.reddit.com/r/Python/comments/pqir74/unravelling_the_async_with_statement/)
-- [Has anyone built a dApp here? If so can you share what you built? Anyone want to build one together?](https://www.reddit.com/r/Python/comments/pqhiv6/has_anyone_built_a_dapp_here_if_so_can_you_share/)
 <!-- BLOG-POST-LIST:END -->
