@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why doesn't I get an error message for the code below?](https://www.reddit.com/r/Python/comments/pqwpou/why_doesnt_i_get_an_error_message_for_the_code/)
+- [Pandas Data Processing Basics | Python Libraries for Data Science and Machine Learning](https://www.reddit.com/r/Python/comments/pqwpf0/pandas_data_processing_basics_python_libraries/)
 - [diepvries, a Python library to generate Data Vault SQL statements](https://www.reddit.com/r/Python/comments/pqschw/diepvries_a_python_library_to_generate_data_vault/)
 - [The most WTF Python code I've ever seen](https://www.reddit.com/r/Python/comments/pqs9au/the_most_wtf_python_code_ive_ever_seen/)
 - [How you can track your personal finances using Python 🐍](https://www.reddit.com/r/Python/comments/pqrrzr/how_you_can_track_your_personal_finances_using/)
-- [yampex: Yet Another Matplotlib Extension, with easy subplots, annotations, and plotting options.](https://www.reddit.com/r/Python/comments/pqr60t/yampex_yet_another_matplotlib_extension_with_easy/)
-- [Notes App Ui design.](https://www.reddit.com/r/Python/comments/pqr5fo/notes_app_ui_design/)
 <!-- BLOG-POST-LIST:END -->
