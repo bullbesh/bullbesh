@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [OCD and Web Scraping](https://www.reddit.com/r/Python/comments/prbby7/ocd_and_web_scraping/)
+- [Secure Live Collaboration in Jupyter Lab](https://www.reddit.com/r/Python/comments/prce3y/secure_live_collaboration_in_jupyter_lab/)
 - [Automate Instagram Account Creation](https://www.reddit.com/r/Python/comments/prb5ve/automate_instagram_account_creation/)
 - [A Production-Grade Websockets Setup with Nginx, uWSGI and Python](https://www.reddit.com/r/Python/comments/pr85mw/a_productiongrade_websockets_setup_with_nginx/)
 - [rope 0.20.1: python refactoring library is just released (+project news)](https://www.reddit.com/r/Python/comments/pr5dzx/rope_0201_python_refactoring_library_is_just/)
