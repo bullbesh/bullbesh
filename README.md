@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made a replica of HBO Silicon Valley's Gilfoyle Bitcoin price drop alert using Python](https://www.reddit.com/r/Python/comments/pr4y25/made_a_replica_of_hbo_silicon_valleys_gilfoyle/)
 - [(100% Free) Learn to Code with Python 3! - Free Udemy Course](https://www.reddit.com/r/Python/comments/pr4n22/100_free_learn_to_code_with_python_3_free_udemy/)
 - [Retrieving tables from PDF (INSPIRATION NEEDED)](https://www.reddit.com/r/Python/comments/pr47ma/retrieving_tables_from_pdf_inspiration_needed/)
 - [Throttling Bulk SMS Campaigns with Python and Vonage API](https://www.reddit.com/r/Python/comments/pr3s22/throttling_bulk_sms_campaigns_with_python_and/)
 - [GitHub - Technologicat/pyan: Static call graph generator. The official Python 3 version. Development repo.](https://www.reddit.com/r/Python/comments/pr3gk6/github_technologicatpyan_static_call_graph/)
-- [I made a Twitter bot that tweets randomly-selected chess puzzles.](https://www.reddit.com/r/Python/comments/pr2wii/i_made_a_twitter_bot_that_tweets_randomlyselected/)
 <!-- BLOG-POST-LIST:END -->
