@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OCD and Web Scraping](https://www.reddit.com/r/Python/comments/prbby7/ocd_and_web_scraping/)
 - [Automate Instagram Account Creation](https://www.reddit.com/r/Python/comments/prb5ve/automate_instagram_account_creation/)
 - [A Production-Grade Websockets Setup with Nginx, uWSGI and Python](https://www.reddit.com/r/Python/comments/pr85mw/a_productiongrade_websockets_setup_with_nginx/)
 - [rope 0.20.1: python refactoring library is just released (+project news)](https://www.reddit.com/r/Python/comments/pr5dzx/rope_0201_python_refactoring_library_is_just/)
 - [Made a replica of HBO Silicon Valley's Gilfoyle Bitcoin price drop alert using Python](https://www.reddit.com/r/Python/comments/pr4y25/made_a_replica_of_hbo_silicon_valleys_gilfoyle/)
-- [(100% Free) Learn to Code with Python 3! - Free Udemy Course](https://www.reddit.com/r/Python/comments/pr4n22/100_free_learn_to_code_with_python_3_free_udemy/)
 <!-- BLOG-POST-LIST:END -->
