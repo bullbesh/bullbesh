@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a Python script to backup Reddit Posts to PDF's - It's open source! Feel free to use or provide feedback](https://www.reddit.com/r/Python/comments/prfd7q/i_created_a_python_script_to_backup_reddit_posts/)
 - [Secure Live Collaboration in Jupyter Lab](https://www.reddit.com/r/Python/comments/prce3y/secure_live_collaboration_in_jupyter_lab/)
 - [Automate Instagram Account Creation](https://www.reddit.com/r/Python/comments/prb5ve/automate_instagram_account_creation/)
 - [A Production-Grade Websockets Setup with Nginx, uWSGI and Python](https://www.reddit.com/r/Python/comments/pr85mw/a_productiongrade_websockets_setup_with_nginx/)
 - [rope 0.20.1: python refactoring library is just released (+project news)](https://www.reddit.com/r/Python/comments/pr5dzx/rope_0201_python_refactoring_library_is_just/)
-- [Made a replica of HBO Silicon Valley's Gilfoyle Bitcoin price drop alert using Python](https://www.reddit.com/r/Python/comments/pr4y25/made_a_replica_of_hbo_silicon_valleys_gilfoyle/)
 <!-- BLOG-POST-LIST:END -->
