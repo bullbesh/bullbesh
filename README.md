@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why doesn't I get an error message for the code below?](https://www.reddit.com/r/Python/comments/pqwpou/why_doesnt_i_get_an_error_message_for_the_code/)
+- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/pqxe18/sunday_daily_thread_whats_everyone_working_on/)
 - [Pandas Data Processing Basics | Python Libraries for Data Science and Machine Learning](https://www.reddit.com/r/Python/comments/pqwpf0/pandas_data_processing_basics_python_libraries/)
 - [diepvries, a Python library to generate Data Vault SQL statements](https://www.reddit.com/r/Python/comments/pqschw/diepvries_a_python_library_to_generate_data_vault/)
 - [The most WTF Python code I've ever seen](https://www.reddit.com/r/Python/comments/pqs9au/the_most_wtf_python_code_ive_ever_seen/)
