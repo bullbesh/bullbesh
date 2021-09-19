@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recently made a video about unit testing in Python and best unit testing principles in general. Would appreciate some feedback :)](https://www.reddit.com/r/Python/comments/prgik3/recently_made_a_video_about_unit_testing_in/)
+- [Python script to Query the YouTube API for the Most Popular Music Videos then Add them to an existing Playlist.](https://www.reddit.com/r/Python/comments/prfnw4/python_script_to_query_the_youtube_api_for_the/)
 - [I created a Python script to backup Reddit Posts to PDF's - It's open source! Feel free to use or provide feedback](https://www.reddit.com/r/Python/comments/prfd7q/i_created_a_python_script_to_backup_reddit_posts/)
 - [Secure Live Collaboration in Jupyter Lab](https://www.reddit.com/r/Python/comments/prce3y/secure_live_collaboration_in_jupyter_lab/)
 - [Automate Instagram Account Creation](https://www.reddit.com/r/Python/comments/prb5ve/automate_instagram_account_creation/)
-- [A Production-Grade Websockets Setup with Nginx, uWSGI and Python](https://www.reddit.com/r/Python/comments/pr85mw/a_productiongrade_websockets_setup_with_nginx/)
-- [rope 0.20.1: python refactoring library is just released (+project news)](https://www.reddit.com/r/Python/comments/pr5dzx/rope_0201_python_refactoring_library_is_just/)
 <!-- BLOG-POST-LIST:END -->
