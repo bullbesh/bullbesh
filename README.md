@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [(100% Free) Learn to Code with Python 3! - Free Udemy Course](https://www.reddit.com/r/Python/comments/pr4n22/100_free_learn_to_code_with_python_3_free_udemy/)
+- [Retrieving tables from PDF (INSPIRATION NEEDED)](https://www.reddit.com/r/Python/comments/pr47ma/retrieving_tables_from_pdf_inspiration_needed/)
 - [Throttling Bulk SMS Campaigns with Python and Vonage API](https://www.reddit.com/r/Python/comments/pr3s22/throttling_bulk_sms_campaigns_with_python_and/)
 - [GitHub - Technologicat/pyan: Static call graph generator. The official Python 3 version. Development repo.](https://www.reddit.com/r/Python/comments/pr3gk6/github_technologicatpyan_static_call_graph/)
 - [I made a Twitter bot that tweets randomly-selected chess puzzles.](https://www.reddit.com/r/Python/comments/pr2wii/i_made_a_twitter_bot_that_tweets_randomlyselected/)
-- [Assigning to a subset of a list - do you know python as well as you think you do?](https://www.reddit.com/r/Python/comments/pr0ox3/assigning_to_a_subset_of_a_list_do_you_know/)
-- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/pqxe18/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
