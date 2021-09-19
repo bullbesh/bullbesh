@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python, web development, and more with these FREE Udemy Courses!](https://www.reddit.com/r/Python/comments/pqyyp1/learn_python_web_development_and_more_with_these/)
 - [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/pqxe18/sunday_daily_thread_whats_everyone_working_on/)
 - [Pandas Data Processing Basics | Python Libraries for Data Science and Machine Learning](https://www.reddit.com/r/Python/comments/pqwpf0/pandas_data_processing_basics_python_libraries/)
 - [diepvries, a Python library to generate Data Vault SQL statements](https://www.reddit.com/r/Python/comments/pqschw/diepvries_a_python_library_to_generate_data_vault/)
 - [The most WTF Python code I've ever seen](https://www.reddit.com/r/Python/comments/pqs9au/the_most_wtf_python_code_ive_ever_seen/)
-- [How you can track your personal finances using Python 🐍](https://www.reddit.com/r/Python/comments/pqrrzr/how_you_can_track_your_personal_finances_using/)
 <!-- BLOG-POST-LIST:END -->
