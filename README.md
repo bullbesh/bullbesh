@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a Twitter bot that tweets randomly-selected chess puzzles.](https://www.reddit.com/r/Python/comments/pr2wii/i_made_a_twitter_bot_that_tweets_randomlyselected/)
 - [Assigning to a subset of a list - do you know python as well as you think you do?](https://www.reddit.com/r/Python/comments/pr0ox3/assigning_to_a_subset_of_a_list_do_you_know/)
 - [Learn Python, web development, and more with these FREE Udemy Courses!](https://www.reddit.com/r/Python/comments/pqyyp1/learn_python_web_development_and_more_with_these/)
 - [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/pqxe18/sunday_daily_thread_whats_everyone_working_on/)
 - [Pandas Data Processing Basics | Python Libraries for Data Science and Machine Learning](https://www.reddit.com/r/Python/comments/pqwpf0/pandas_data_processing_basics_python_libraries/)
-- [diepvries, a Python library to generate Data Vault SQL statements](https://www.reddit.com/r/Python/comments/pqschw/diepvries_a_python_library_to_generate_data_vault/)
 <!-- BLOG-POST-LIST:END -->
