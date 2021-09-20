@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Structural pattern matching in Python 3.10](https://www.reddit.com/r/Python/comments/prq8rb/structural_pattern_matching_in_python_310/)
+- [i have maked jarvis in python !](https://www.reddit.com/r/Python/comments/prq4kc/i_have_maked_jarvis_in_python/)
 - [Improving Python Dependency Management With pipx and Poetry](https://www.reddit.com/r/Python/comments/prpiug/improving_python_dependency_management_with_pipx/)
 - [Python map() function useful Tips and Tricks | Created using Python Manim library(Animation)](https://www.reddit.com/r/Python/comments/prpa54/python_map_function_useful_tips_and_tricks/)
 - [Python Wordlist Generator](https://www.reddit.com/r/Python/comments/prou1m/python_wordlist_generator/)
-- [What are some of the best project ideas to do](https://www.reddit.com/r/Python/comments/prn8s2/what_are_some_of_the_best_project_ideas_to_do/)
-- [I created a notification library for Django that i think will be very helpful for any Pythonista](https://www.reddit.com/r/Python/comments/prm7bt/i_created_a_notification_library_for_django_that/)
 <!-- BLOG-POST-LIST:END -->
