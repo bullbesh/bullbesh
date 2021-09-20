@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Get football H2H match history results with Web-scraping](https://www.reddit.com/r/Python/comments/prsndo/get_football_h2h_match_history_results_with/)
+- [4 Python Performance Techniques to Remember](https://www.reddit.com/r/Python/comments/prsgri/4_python_performance_techniques_to_remember/)
+- [Token read from a file different than parsed from command line token ( JWT ). Error decoding](https://www.reddit.com/r/Python/comments/prryw8/token_read_from_a_file_different_than_parsed_from/)
 - [New release of Firebird driver for Python v1.3.2 is available for download with a few fixes.](https://www.reddit.com/r/Python/comments/prrhb6/new_release_of_firebird_driver_for_python_v132_is/)
 - [Is Nameko still worth using, and what to use instead if not?](https://www.reddit.com/r/Python/comments/prqzhr/is_nameko_still_worth_using_and_what_to_use/)
-- [Structural pattern matching in Python 3.10](https://www.reddit.com/r/Python/comments/prq8rb/structural_pattern_matching_in_python_310/)
-- [i have maked jarvis in python !](https://www.reddit.com/r/Python/comments/prq4kc/i_have_maked_jarvis_in_python/)
-- [Improving Python Dependency Management With pipx and Poetry](https://www.reddit.com/r/Python/comments/prpiug/improving_python_dependency_management_with_pipx/)
 <!-- BLOG-POST-LIST:END -->
