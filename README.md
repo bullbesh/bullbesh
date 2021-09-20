@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Text to Speech with 400 IQ Python code | Speech Recognition](https://www.reddit.com/r/Python/comments/prwuae/text_to_speech_with_400_iq_python_code_speech/)
-- [Let's Get Started with PYTHON in 2021! (3.9)](https://www.reddit.com/r/Python/comments/prwu0o/lets_get_started_with_python_in_2021_39/)
-- [Python for Data Science: Why, How & The Libraries used](https://www.reddit.com/r/Python/comments/prwqba/python_for_data_science_why_how_the_libraries_used/)
-- [What is the dumbest problem you have tried to solve with a python program?](https://www.reddit.com/r/Python/comments/prwlni/what_is_the_dumbest_problem_you_have_tried_to/)
-- [Archiver tool](https://www.reddit.com/r/Python/comments/prvwrm/archiver_tool/)
+- [Your First Game in Python: Create an Arkanoid Clone in less than 30 minutes](https://www.reddit.com/r/Python/comments/pry0mg/your_first_game_in_python_create_an_arkanoid/)
+- [My first bot made using python.](https://www.reddit.com/r/Python/comments/prxri4/my_first_bot_made_using_python/)
+- [✔ Python Open And Writing To A File](https://www.reddit.com/r/Python/comments/prxkjq/python_open_and_writing_to_a_file/)
+- ["Learn Python: Get Started Now with Our Beginner's Guide to Coding, Programming, and Understanding Artificial Intelligence in the Fastest-Growing Machine Learning Language" is now for $6.93 (80% off)](https://www.reddit.com/r/Python/comments/prxhue/learn_python_get_started_now_with_our_beginners/)
+- [[Tutorial] Interactive Color detection in Jupyter Notebook for beginners](https://www.reddit.com/r/Python/comments/prxdrc/tutorial_interactive_color_detection_in_jupyter/)
 <!-- BLOG-POST-LIST:END -->
