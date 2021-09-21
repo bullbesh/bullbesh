@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Projects Ideas](https://www.reddit.com/r/Python/comments/psmar7/python_projects_ideas/)
+- [Pandas in Action ebook](https://www.reddit.com/r/Python/comments/pslsuh/pandas_in_action_ebook/)
+- [GitHub - cdpierse/breame: A lightweight package of utility tools for British and American English for the detection of multiple spellings, meanings, and language-specific terminology.](https://www.reddit.com/r/Python/comments/pslgnz/github_cdpiersebreame_a_lightweight_package_of/)
+- [If you frequently use pymssql, checkout my first library: pymssql-utils. Any feedback would also be greatly appreciated!](https://www.reddit.com/r/Python/comments/pslenh/if_you_frequently_use_pymssql_checkout_my_first/)
 - [Sending emails from GMail using Python](https://www.reddit.com/r/Python/comments/psj2o3/sending_emails_from_gmail_using_python/)
-- [Using the "and" Boolean Operator in Python – Real Python](https://www.reddit.com/r/Python/comments/psilnn/using_the_and_boolean_operator_in_python_real/)
-- [Heyy! I wanted to ask if there were any legit tool for Instagram reporting bots! I tried the ig bot but it seems to have an error anyone help please?🥺](https://www.reddit.com/r/Python/comments/pshqwl/heyy_i_wanted_to_ask_if_there_were_any_legit_tool/)
-- [I created a debugging module to easily trace instance attribute changes!](https://www.reddit.com/r/Python/comments/pshmhv/i_created_a_debugging_module_to_easily_trace/)
-- [Free secure coding tournament with Python and more](https://www.reddit.com/r/Python/comments/pshf6t/free_secure_coding_tournament_with_python_and_more/)
 <!-- BLOG-POST-LIST:END -->
