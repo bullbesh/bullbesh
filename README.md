@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Python Pitfalls that can save you HOURS of debugging!](https://www.reddit.com/r/Python/comments/psezbn/5_python_pitfalls_that_can_save_you_hours_of/)
 - [Zappa is no longer maintained. Current state is rather broken without a couple recently submitted PRs.](https://www.reddit.com/r/Python/comments/psdd3j/zappa_is_no_longer_maintained_current_state_is/)
 - [Guide to Autoencoders with TensorFlow & Keras](https://www.reddit.com/r/Python/comments/psd79q/guide_to_autoencoders_with_tensorflow_keras/)
 - [Why do I need Python for Data Analysis?](https://www.reddit.com/r/Python/comments/psc1xi/why_do_i_need_python_for_data_analysis/)
 - [River, a library for online ML](https://www.reddit.com/r/Python/comments/psbkg1/river_a_library_for_online_ml/)
-- [Frappe, Low code, open source, web framework in Python and Javascript for the 21st century](https://www.reddit.com/r/Python/comments/psbc6t/frappe_low_code_open_source_web_framework_in/)
 <!-- BLOG-POST-LIST:END -->
