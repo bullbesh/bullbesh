@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/ps6zpw/tuesday_daily_thread_advanced_questions/)
 - [Is it worth doing a Master of Data Science](https://www.reddit.com/r/Python/comments/ps5n4z/is_it_worth_doing_a_master_of_data_science/)
 - [Introducing Roid! The opinionated Discord slash commands framework.](https://www.reddit.com/r/Python/comments/ps56sb/introducing_roid_the_opinionated_discord_slash/)
 - [Would pandas benefit from "pandas express?"](https://www.reddit.com/r/Python/comments/ps567z/would_pandas_benefit_from_pandas_express/)
 - [Why does wxpython cause so many troubles ?](https://www.reddit.com/r/Python/comments/ps4lzz/why_does_wxpython_cause_so_many_troubles/)
-- [Wrote a program to display pictures in the Terminal](https://www.reddit.com/r/Python/comments/ps2qq8/wrote_a_program_to_display_pictures_in_the/)
 <!-- BLOG-POST-LIST:END -->
