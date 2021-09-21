@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I used python to automate a task that would take some hours of tedious manual labor!](https://www.reddit.com/r/Python/comments/psfdnh/i_used_python_to_automate_a_task_that_would_take/)
-- [Open Source Experimental P2P Social Platform - Microsocial](https://www.reddit.com/r/Python/comments/psfctb/open_source_experimental_p2p_social_platform/)
-- [Struggling with Dictionaries?? You should have a glance at this tutorial](https://www.reddit.com/r/Python/comments/psfc02/struggling_with_dictionaries_you_should_have_a/)
-- [5 Python Pitfalls that can save you HOURS of debugging!](https://www.reddit.com/r/Python/comments/psezbn/5_python_pitfalls_that_can_save_you_hours_of/)
-- [Zappa is no longer maintained. Current state is rather broken without a couple recently submitted PRs.](https://www.reddit.com/r/Python/comments/psdd3j/zappa_is_no_longer_maintained_current_state_is/)
+- [Heyy! I wanted to ask if there were any legit tool for Instagram reporting bots! I tried the ig bot but it seems to have an error anyone help please?🥺](https://www.reddit.com/r/Python/comments/pshqwl/heyy_i_wanted_to_ask_if_there_were_any_legit_tool/)
+- [I created a debugging module to easily trace instance attribute changes!](https://www.reddit.com/r/Python/comments/pshmhv/i_created_a_debugging_module_to_easily_trace/)
+- [Free secure coding tournament with Python and more](https://www.reddit.com/r/Python/comments/pshf6t/free_secure_coding_tournament_with_python_and_more/)
+- [Improving SFDR in a Python Direct Digital Synthesis Model](https://www.reddit.com/r/Python/comments/psh5l5/improving_sfdr_in_a_python_direct_digital/)
+- [Shots Expected Goals - Python Football Data Analysis and Visualization](https://www.reddit.com/r/Python/comments/psh0go/shots_expected_goals_python_football_data/)
 <!-- BLOG-POST-LIST:END -->
