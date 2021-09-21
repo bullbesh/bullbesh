@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why do I need Python for Data Analysis?](https://www.reddit.com/r/Python/comments/psc1xi/why_do_i_need_python_for_data_analysis/)
+- [River, a library for online ML](https://www.reddit.com/r/Python/comments/psbkg1/river_a_library_for_online_ml/)
 - [Frappe, Low code, open source, web framework in Python and Javascript for the 21st century](https://www.reddit.com/r/Python/comments/psbc6t/frappe_low_code_open_source_web_framework_in/)
 - [A function decorator that rewrites the bytecode to enable goto](https://www.reddit.com/r/Python/comments/ps8uud/a_function_decorator_that_rewrites_the_bytecode/)
 - [What’s the best source to learn python? Thank you for your help](https://www.reddit.com/r/Python/comments/ps8hu7/whats_the_best_source_to_learn_python_thank_you/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/ps6zpw/tuesday_daily_thread_advanced_questions/)
-- [Is it worth doing a Master of Data Science](https://www.reddit.com/r/Python/comments/ps5n4z/is_it_worth_doing_a_master_of_data_science/)
 <!-- BLOG-POST-LIST:END -->
