@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Frappe, Low code, open source, web framework in Python and Javascript for the 21st century](https://www.reddit.com/r/Python/comments/psbc6t/frappe_low_code_open_source_web_framework_in/)
 - [A function decorator that rewrites the bytecode to enable goto](https://www.reddit.com/r/Python/comments/ps8uud/a_function_decorator_that_rewrites_the_bytecode/)
 - [What’s the best source to learn python? Thank you for your help](https://www.reddit.com/r/Python/comments/ps8hu7/whats_the_best_source_to_learn_python_thank_you/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/ps6zpw/tuesday_daily_thread_advanced_questions/)
 - [Is it worth doing a Master of Data Science](https://www.reddit.com/r/Python/comments/ps5n4z/is_it_worth_doing_a_master_of_data_science/)
-- [Introducing Roid! The opinionated Discord slash commands framework.](https://www.reddit.com/r/Python/comments/ps56sb/introducing_roid_the_opinionated_discord_slash/)
 <!-- BLOG-POST-LIST:END -->
