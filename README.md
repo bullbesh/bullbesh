@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I used python to automate a task that would take some hours of tedious manual labor!](https://www.reddit.com/r/Python/comments/psfdnh/i_used_python_to_automate_a_task_that_would_take/)
+- [Open Source Experimental P2P Social Platform - Microsocial](https://www.reddit.com/r/Python/comments/psfctb/open_source_experimental_p2p_social_platform/)
+- [Struggling with Dictionaries?? You should have a glance at this tutorial](https://www.reddit.com/r/Python/comments/psfc02/struggling_with_dictionaries_you_should_have_a/)
 - [5 Python Pitfalls that can save you HOURS of debugging!](https://www.reddit.com/r/Python/comments/psezbn/5_python_pitfalls_that_can_save_you_hours_of/)
 - [Zappa is no longer maintained. Current state is rather broken without a couple recently submitted PRs.](https://www.reddit.com/r/Python/comments/psdd3j/zappa_is_no_longer_maintained_current_state_is/)
-- [Guide to Autoencoders with TensorFlow & Keras](https://www.reddit.com/r/Python/comments/psd79q/guide_to_autoencoders_with_tensorflow_keras/)
-- [Why do I need Python for Data Analysis?](https://www.reddit.com/r/Python/comments/psc1xi/why_do_i_need_python_for_data_analysis/)
-- [River, a library for online ML](https://www.reddit.com/r/Python/comments/psbkg1/river_a_library_for_online_ml/)
 <!-- BLOG-POST-LIST:END -->
