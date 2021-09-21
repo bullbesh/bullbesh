@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Histogramming libraries for Python updated (boost-histogram / Hist)](https://www.reddit.com/r/Python/comments/psthdk/histogramming_libraries_for_python_updated/)
+- [Functions](https://www.reddit.com/r/Python/comments/pstbse/functions/)
+- [Simple Password Checker](https://www.reddit.com/r/Python/comments/psst4m/simple_password_checker/)
+- [M1 Mac vs Windows PC for Python development?](https://www.reddit.com/r/Python/comments/pssnmz/m1_mac_vs_windows_pc_for_python_development/)
 - [Experimenting with GPT-2 for Song Generation without Fine-Tuning](https://www.reddit.com/r/Python/comments/pss6ow/experimenting_with_gpt2_for_song_generation/)
-- [Adding E2E Encryption for proxied data between Python client and Go server](https://www.reddit.com/r/Python/comments/pss5rz/adding_e2e_encryption_for_proxied_data_between/)
-- [Aerie - asyncio database kit built on top of SQLAlchemy](https://www.reddit.com/r/Python/comments/pspm5v/aerie_asyncio_database_kit_built_on_top_of/)
-- [Script or Code?](https://www.reddit.com/r/Python/comments/psmmj5/script_or_code/)
-- [GitHub - cdpierse/breame: A lightweight package of utility tools for British and American English for the detection of multiple spellings, meanings, and language-specific terminology.](https://www.reddit.com/r/Python/comments/pslgnz/github_cdpiersebreame_a_lightweight_package_of/)
 <!-- BLOG-POST-LIST:END -->
