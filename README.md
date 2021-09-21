@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sending emails from GMail using Python](https://www.reddit.com/r/Python/comments/psj2o3/sending_emails_from_gmail_using_python/)
 - [Using the "and" Boolean Operator in Python – Real Python](https://www.reddit.com/r/Python/comments/psilnn/using_the_and_boolean_operator_in_python_real/)
 - [Heyy! I wanted to ask if there were any legit tool for Instagram reporting bots! I tried the ig bot but it seems to have an error anyone help please?🥺](https://www.reddit.com/r/Python/comments/pshqwl/heyy_i_wanted_to_ask_if_there_were_any_legit_tool/)
 - [I created a debugging module to easily trace instance attribute changes!](https://www.reddit.com/r/Python/comments/pshmhv/i_created_a_debugging_module_to_easily_trace/)
 - [Free secure coding tournament with Python and more](https://www.reddit.com/r/Python/comments/pshf6t/free_secure_coding_tournament_with_python_and_more/)
-- [Improving SFDR in a Python Direct Digital Synthesis Model](https://www.reddit.com/r/Python/comments/psh5l5/improving_sfdr_in_a_python_direct_digital/)
 <!-- BLOG-POST-LIST:END -->
