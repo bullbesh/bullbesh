@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Robyn - An async backend Python framework with a rust runtime. [v0.6.1 Update]](https://www.reddit.com/r/Python/comments/psty8j/robyn_an_async_backend_python_framework_with_a/)
+- [Designing A Notes App - Design Retouch](https://www.reddit.com/r/Python/comments/pstu6m/designing_a_notes_app_design_retouch/)
 - [Histogramming libraries for Python updated (boost-histogram / Hist)](https://www.reddit.com/r/Python/comments/psthdk/histogramming_libraries_for_python_updated/)
 - [Functions](https://www.reddit.com/r/Python/comments/pstbse/functions/)
 - [Simple Password Checker](https://www.reddit.com/r/Python/comments/psst4m/simple_password_checker/)
-- [M1 Mac vs Windows PC for Python development?](https://www.reddit.com/r/Python/comments/pssnmz/m1_mac_vs_windows_pc_for_python_development/)
-- [Experimenting with GPT-2 for Song Generation without Fine-Tuning](https://www.reddit.com/r/Python/comments/pss6ow/experimenting_with_gpt2_for_song_generation/)
 <!-- BLOG-POST-LIST:END -->
