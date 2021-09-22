@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Webinar: “A Look At — and Inside — Textual” with Will McGugan](https://www.reddit.com/r/Python/comments/pt2nk5/webinar_a_look_at_and_inside_textual_with_will/)
+- [sphinx-codeautolink - embed links to reference documentation in code examples with the flick of a switch](https://www.reddit.com/r/Python/comments/pt2en8/sphinxcodeautolink_embed_links_to_reference/)
 - [GitHub - alexdlaird/pyngrok: A Python wrapper for ngrok](https://www.reddit.com/r/Python/comments/pt1qei/github_alexdlairdpyngrok_a_python_wrapper_for/)
 - [Improving Python Dependency Management with pipx and poetry](https://www.reddit.com/r/Python/comments/pt1ot0/improving_python_dependency_management_with_pipx/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/psvfyj/wednesday_daily_thread_beginner_questions/)
-- [Lorenz attractor [matplotlib]](https://www.reddit.com/r/Python/comments/psv3fg/lorenz_attractor_matplotlib/)
-- [Robyn - An async backend Python framework with a rust runtime. [v0.6.1 Update]](https://www.reddit.com/r/Python/comments/psty8j/robyn_an_async_backend_python_framework_with_a/)
 <!-- BLOG-POST-LIST:END -->
