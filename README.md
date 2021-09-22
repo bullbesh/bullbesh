@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Automate the Boring Stuff chapter project: Multi-clipboard Automatic Messages](https://www.reddit.com/r/Python/comments/ptam5i/automate_the_boring_stuff_chapter_project/)
-- [Scanning your Conda environment for security vulnerabilities](https://www.reddit.com/r/Python/comments/pta0io/scanning_your_conda_environment_for_security/)
-- [How to Automate Your Data Management Discipline with Python](https://www.reddit.com/r/Python/comments/pt97qf/how_to_automate_your_data_management_discipline/)
-- [is there a way to add your name to a python script and people will not be able to remove it?](https://www.reddit.com/r/Python/comments/pt7x2c/is_there_a_way_to_add_your_name_to_a_python/)
-- [Python GIL and Why not allowing a tool that bypass it ?](https://www.reddit.com/r/Python/comments/pt3mgd/python_gil_and_why_not_allowing_a_tool_that/)
+- [JupyterLab Desktop App now available!](https://www.reddit.com/r/Python/comments/ptdh3i/jupyterlab_desktop_app_now_available/)
+- [Why i get error when i use global variable in side function?](https://www.reddit.com/r/Python/comments/ptdgca/why_i_get_error_when_i_use_global_variable_in/)
+- [I wanted to see how well AI transcribes song lyrics, so I transcribed 15 songs from 3 different genres using Python](https://www.reddit.com/r/Python/comments/ptdcvx/i_wanted_to_see_how_well_ai_transcribes_song/)
+- [Today i made a password generator :)](https://www.reddit.com/r/Python/comments/ptd8oj/today_i_made_a_password_generator/)
+- [5 Powerful Functions in Python](https://www.reddit.com/r/Python/comments/ptd5di/5_powerful_functions_in_python/)
 <!-- BLOG-POST-LIST:END -->
