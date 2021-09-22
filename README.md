@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyFitness - Dragon Ball Themed CLI Fitness App](https://www.reddit.com/r/Python/comments/ptfe2c/pyfitness_dragon_ball_themed_cli_fitness_app/)
+- [I tried to catch the rodents destroying my yard on camera](https://www.reddit.com/r/Python/comments/ptesut/i_tried_to_catch_the_rodents_destroying_my_yard/)
 - [Animated spider/radar plot](https://www.reddit.com/r/Python/comments/ptdqob/animated_spiderradar_plot/)
 - [JupyterLab Desktop App now available!](https://www.reddit.com/r/Python/comments/ptdh3i/jupyterlab_desktop_app_now_available/)
 - [Why i get error when i use global variable in side function?](https://www.reddit.com/r/Python/comments/ptdgca/why_i_get_error_when_i_use_global_variable_in/)
-- [I wanted to see how well AI transcribes song lyrics, so I transcribed 15 songs from 3 different genres using Python](https://www.reddit.com/r/Python/comments/ptdcvx/i_wanted_to_see_how_well_ai_transcribes_song/)
-- [Today i made a password generator :)](https://www.reddit.com/r/Python/comments/ptd8oj/today_i_made_a_password_generator/)
 <!-- BLOG-POST-LIST:END -->
