@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I need a new project](https://www.reddit.com/r/Python/comments/ptgxic/i_need_a_new_project/)
 - [What is your best one-liner of code, a single line of python code that runs alone and does one or many functions, and what does it do/did you want it to do?](https://www.reddit.com/r/Python/comments/ptfwq7/what_is_your_best_oneliner_of_code_a_single_line/)
 - [PyFitness - Dragon Ball Themed CLI Fitness App](https://www.reddit.com/r/Python/comments/ptfe2c/pyfitness_dragon_ball_themed_cli_fitness_app/)
 - [I tried to catch the rodents destroying my yard on camera](https://www.reddit.com/r/Python/comments/ptesut/i_tried_to_catch_the_rodents_destroying_my_yard/)
 - [Animated spider/radar plot](https://www.reddit.com/r/Python/comments/ptdqob/animated_spiderradar_plot/)
-- [JupyterLab Desktop App now available!](https://www.reddit.com/r/Python/comments/ptdh3i/jupyterlab_desktop_app_now_available/)
 <!-- BLOG-POST-LIST:END -->
