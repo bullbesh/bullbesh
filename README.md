@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python does not have access modifiers, yet you can use double underscore as a prefix to your attributes to control access. I prepared a tutorial where I explain how Encapsulation, Abstraction, Inheritance&Polymorphism take a role in Python.](https://www.reddit.com/r/Python/comments/pt7ang/python_does_not_have_access_modifiers_yet_you_can/)
+- [is there a way to add your name to a python script and people will not be able to remove it?](https://www.reddit.com/r/Python/comments/pt7x2c/is_there_a_way_to_add_your_name_to_a_python/)
 - [Python GIL and Why not allowing a tool that bypass it ?](https://www.reddit.com/r/Python/comments/pt3mgd/python_gil_and_why_not_allowing_a_tool_that/)
 - [Salesforce research team introduces Merlion, an open-source Python library for time series intelligence](https://www.reddit.com/r/Python/comments/pt34zk/salesforce_research_team_introduces_merlion_an/)
 - [Webinar: “A Look At — and Inside — Textual” with Will McGugan](https://www.reddit.com/r/Python/comments/pt2nk5/webinar_a_look_at_and_inside_textual_with_will/)
