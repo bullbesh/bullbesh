@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SD Python Meetup on Zoom at 7 PM Pacific](https://www.reddit.com/r/Python/comments/pu6g0t/sd_python_meetup_on_zoom_at_7_pm_pacific/)
 - [I made Tkinter turn into a UWP app](https://www.reddit.com/r/Python/comments/pu5bva/i_made_tkinter_turn_into_a_uwp_app/)
 - [Python is actually just Haskell with few extra steps, learn the hidden Python syntax that even the most seasoned Python developers don't know about](https://www.reddit.com/r/Python/comments/pu55xb/python_is_actually_just_haskell_with_few_extra/)
 - [Python as a build tool](https://www.reddit.com/r/Python/comments/pu4lv9/python_as_a_build_tool/)
 - [How is Python Used in Finance?](https://www.reddit.com/r/Python/comments/pu45xn/how_is_python_used_in_finance/)
-- [I made a Python Bot that plays Friday Night Funkin'](https://www.reddit.com/r/Python/comments/pu3hxo/i_made_a_python_bot_that_plays_friday_night_funkin/)
 <!-- BLOG-POST-LIST:END -->
