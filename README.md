@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [got any great libraries for reverse image search?](https://www.reddit.com/r/Python/comments/pu25g4/got_any_great_libraries_for_reverse_image_search/)
+- [I made a Python Bot that plays Friday Night Funkin'](https://www.reddit.com/r/Python/comments/pu3hxo/i_made_a_python_bot_that_plays_friday_night_funkin/)
+- [Comparison of Time Series Forecasting Discussion](https://www.reddit.com/r/Python/comments/pu31l7/comparison_of_time_series_forecasting_discussion/)
 - [Using "global" in functions are bad. But what about changing a global mutable object?](https://www.reddit.com/r/Python/comments/pu14av/using_global_in_functions_are_bad_but_what_about/)
 - [Gunicorn graceful restarts](https://www.reddit.com/r/Python/comments/ptzyo7/gunicorn_graceful_restarts/)
 - [I wrote a script that automates the process of sorting through my downloads folder](https://www.reddit.com/r/Python/comments/ptzo3u/i_wrote_a_script_that_automates_the_process_of/)
-- [Phython on second stage](https://www.reddit.com/r/Python/comments/ptxc7u/phython_on_second_stage/)
 <!-- BLOG-POST-LIST:END -->
