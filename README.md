@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python as a build tool](https://www.reddit.com/r/Python/comments/pu4lv9/python_as_a_build_tool/)
+- [How is Python Used in Finance?](https://www.reddit.com/r/Python/comments/pu45xn/how_is_python_used_in_finance/)
 - [I made a Python Bot that plays Friday Night Funkin'](https://www.reddit.com/r/Python/comments/pu3hxo/i_made_a_python_bot_that_plays_friday_night_funkin/)
 - [Comparison of Time Series Forecasting Discussion](https://www.reddit.com/r/Python/comments/pu31l7/comparison_of_time_series_forecasting_discussion/)
 - [Using "global" in functions are bad. But what about changing a global mutable object?](https://www.reddit.com/r/Python/comments/pu14av/using_global_in_functions_are_bad_but_what_about/)
-- [Gunicorn graceful restarts](https://www.reddit.com/r/Python/comments/ptzyo7/gunicorn_graceful_restarts/)
-- [I wrote a script that automates the process of sorting through my downloads folder](https://www.reddit.com/r/Python/comments/ptzo3u/i_wrote_a_script_that_automates_the_process_of/)
 <!-- BLOG-POST-LIST:END -->
