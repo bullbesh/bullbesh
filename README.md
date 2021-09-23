@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Overuse of Pandas - a valid concern?](https://www.reddit.com/r/Python/comments/pts3nm/overuse_of_pandas_a_valid_concern/)
+- [12 requests per second: A realistic look at Python web frameworks](https://www.reddit.com/r/Python/comments/ptre4l/12_requests_per_second_a_realistic_look_at_python/)
 - [Set-up Jupyterhub easily using Docker](https://www.reddit.com/r/Python/comments/ptqmdi/setup_jupyterhub_easily_using_docker/)
 - [For those of you who would like to create Malware using python, check this link out... Have a Great day.](https://www.reddit.com/r/Python/comments/ptq9bx/for_those_of_you_who_would_like_to_create_malware/)
 - [What is your most painful memory of Python code without types?](https://www.reddit.com/r/Python/comments/ptq4di/what_is_your_most_painful_memory_of_python_code/)
-- [PyFirebirdSql 1.2.0 is released with Firebird 4 changes](https://www.reddit.com/r/Python/comments/ptpuq6/pyfirebirdsql_120_is_released_with_firebird_4/)
-- [A text editor in python?](https://www.reddit.com/r/Python/comments/ptpkbz/a_text_editor_in_python/)
 <!-- BLOG-POST-LIST:END -->
