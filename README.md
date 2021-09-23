@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Set-up Jupyterhub easily using Docker](https://www.reddit.com/r/Python/comments/ptqmdi/setup_jupyterhub_easily_using_docker/)
+- [For those of you who would like to create Malware using python, check this link out... Have a Great day.](https://www.reddit.com/r/Python/comments/ptq9bx/for_those_of_you_who_would_like_to_create_malware/)
+- [What is your most painful memory of Python code without types?](https://www.reddit.com/r/Python/comments/ptq4di/what_is_your_most_painful_memory_of_python_code/)
 - [PyFirebirdSql 1.2.0 is released with Firebird 4 changes](https://www.reddit.com/r/Python/comments/ptpuq6/pyfirebirdsql_120_is_released_with_firebird_4/)
 - [A text editor in python?](https://www.reddit.com/r/Python/comments/ptpkbz/a_text_editor_in_python/)
-- [A visualiser for atomic decay chains](https://www.reddit.com/r/Python/comments/ptp9br/a_visualiser_for_atomic_decay_chains/)
-- [Free Programming Notes for Python (and other languages too)](https://www.reddit.com/r/Python/comments/ptm5vk/free_programming_notes_for_python_and_other/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/ptj3jr/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
