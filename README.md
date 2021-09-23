@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyFirebirdSql 1.2.0 is released with Firebird 4 changes](https://www.reddit.com/r/Python/comments/ptpuq6/pyfirebirdsql_120_is_released_with_firebird_4/)
+- [A text editor in python?](https://www.reddit.com/r/Python/comments/ptpkbz/a_text_editor_in_python/)
+- [A visualiser for atomic decay chains](https://www.reddit.com/r/Python/comments/ptp9br/a_visualiser_for_atomic_decay_chains/)
 - [Free Programming Notes for Python (and other languages too)](https://www.reddit.com/r/Python/comments/ptm5vk/free_programming_notes_for_python_and_other/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/ptj3jr/thursday_daily_thread_python_careers_courses_and/)
-- [What is your best one-liner of code, a single line of python code that runs alone and does one or many functions, and what does it do/did you want it to do?](https://www.reddit.com/r/Python/comments/ptfwq7/what_is_your_best_oneliner_of_code_a_single_line/)
-- [PyFitness - Dragon Ball Themed CLI Fitness App](https://www.reddit.com/r/Python/comments/ptfe2c/pyfitness_dragon_ball_themed_cli_fitness_app/)
-- [I tried to catch the rodents destroying my yard on camera](https://www.reddit.com/r/Python/comments/ptesut/i_tried_to_catch_the_rodents_destroying_my_yard/)
 <!-- BLOG-POST-LIST:END -->
