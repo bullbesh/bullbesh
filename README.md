@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made Tkinter turn into a UWP app](https://www.reddit.com/r/Python/comments/pu5bva/i_made_tkinter_turn_into_a_uwp_app/)
+- [Python is actually just Haskell with few extra steps, learn the hidden Python syntax that even the most seasoned Python developers don't know about](https://www.reddit.com/r/Python/comments/pu55xb/python_is_actually_just_haskell_with_few_extra/)
 - [Python as a build tool](https://www.reddit.com/r/Python/comments/pu4lv9/python_as_a_build_tool/)
 - [How is Python Used in Finance?](https://www.reddit.com/r/Python/comments/pu45xn/how_is_python_used_in_finance/)
 - [I made a Python Bot that plays Friday Night Funkin'](https://www.reddit.com/r/Python/comments/pu3hxo/i_made_a_python_bot_that_plays_friday_night_funkin/)
-- [Comparison of Time Series Forecasting Discussion](https://www.reddit.com/r/Python/comments/pu31l7/comparison_of_time_series_forecasting_discussion/)
-- [Using "global" in functions are bad. But what about changing a global mutable object?](https://www.reddit.com/r/Python/comments/pu14av/using_global_in_functions_are_bad_but_what_about/)
 <!-- BLOG-POST-LIST:END -->
