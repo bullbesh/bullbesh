@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [pygamewrap OO wrapper for pygame](https://www.reddit.com/r/Python/comments/pugqqa/pygamewrap_oo_wrapper_for_pygame/)
+- [Python for beginner #1](https://www.reddit.com/r/Python/comments/puglgw/python_for_beginner_1/)
+- [Jetson Nanofor beginners : How to classify objects in videos using Jetson Nano inference [project]](https://www.reddit.com/r/Python/comments/pugck6/jetson_nanofor_beginners_how_to_classify_objects/)
 - [People using Ternary expressions.....who hurt you?](https://www.reddit.com/r/Python/comments/pufzbo/people_using_ternary_expressionswho_hurt_you/)
 - [Type Check Your Django App](https://www.reddit.com/r/Python/comments/pufsg7/type_check_your_django_app/)
-- [How I patched Python to include this great Ruby feature](https://www.reddit.com/r/Python/comments/puetks/how_i_patched_python_to_include_this_great_ruby/)
-- [pretty printer that shows object felds](https://www.reddit.com/r/Python/comments/pudued/pretty_printer_that_shows_object_felds/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/pu7ynl/friday_daily_thread_free_chat_friday_daily_thread/)
 <!-- BLOG-POST-LIST:END -->
