@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a Superhero & Villain Index!](https://www.reddit.com/r/Python/comments/pu8f5w/i_made_a_superhero_villain_index/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/pu7ynl/friday_daily_thread_free_chat_friday_daily_thread/)
 - [SD Python Meetup on Zoom at 7 PM Pacific](https://www.reddit.com/r/Python/comments/pu6g0t/sd_python_meetup_on_zoom_at_7_pm_pacific/)
 - [I made Tkinter turn into a UWP app](https://www.reddit.com/r/Python/comments/pu5bva/i_made_tkinter_turn_into_a_uwp_app/)
 - [Python is actually just Haskell with few extra steps, learn the hidden Python syntax that even the most seasoned Python developers don't know about](https://www.reddit.com/r/Python/comments/pu55xb/python_is_actually_just_haskell_with_few_extra/)
-- [Python as a build tool](https://www.reddit.com/r/Python/comments/pu4lv9/python_as_a_build_tool/)
-- [How is Python Used in Finance?](https://www.reddit.com/r/Python/comments/pu45xn/how_is_python_used_in_finance/)
 <!-- BLOG-POST-LIST:END -->
