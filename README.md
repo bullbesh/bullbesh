@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [People using Ternary expressions.....who hurt you?](https://www.reddit.com/r/Python/comments/pufzbo/people_using_ternary_expressionswho_hurt_you/)
+- [Type Check Your Django App](https://www.reddit.com/r/Python/comments/pufsg7/type_check_your_django_app/)
 - [How I patched Python to include this great Ruby feature](https://www.reddit.com/r/Python/comments/puetks/how_i_patched_python_to_include_this_great_ruby/)
 - [pretty printer that shows object felds](https://www.reddit.com/r/Python/comments/pudued/pretty_printer_that_shows_object_felds/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/pu7ynl/friday_daily_thread_free_chat_friday_daily_thread/)
-- [SD Python Meetup on Zoom at 7 PM Pacific](https://www.reddit.com/r/Python/comments/pu6g0t/sd_python_meetup_on_zoom_at_7_pm_pacific/)
-- [I made Tkinter turn into a UWP app](https://www.reddit.com/r/Python/comments/pu5bva/i_made_tkinter_turn_into_a_uwp_app/)
 <!-- BLOG-POST-LIST:END -->
