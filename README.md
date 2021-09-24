@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can anyone recommend resources to prepare for Pandas and Numpy interview questions?](https://www.reddit.com/r/Python/comments/pup94x/can_anyone_recommend_resources_to_prepare_for/)
+- [mingus library for music theory](https://www.reddit.com/r/Python/comments/pup02z/mingus_library_for_music_theory/)
+- [Student Placement Prediction using python](https://www.reddit.com/r/Python/comments/puomgy/student_placement_prediction_using_python/)
 - [Which ORM should I learn?](https://www.reddit.com/r/Python/comments/punugl/which_orm_should_i_learn/)
 - [👀 Chem.py has started development 🎉 A python library for doing chemistry simulations!! It's open-source too!!!!](https://www.reddit.com/r/Python/comments/punlg2/chempy_has_started_development_a_python_library/)
-- [Used Jupyter notebook for the first time](https://www.reddit.com/r/Python/comments/pun3lt/used_jupyter_notebook_for_the_first_time/)
-- [How to Show Progress Bar in Python](https://www.reddit.com/r/Python/comments/pumqhe/how_to_show_progress_bar_in_python/)
-- [I made a python Twitter Bot that checks if accounts are likely to be Bots. (reply to any tweet using keyword "RealOrFake" and copy the bot @savetweetplease, and it'll send you the report).](https://www.reddit.com/r/Python/comments/pumjz4/i_made_a_python_twitter_bot_that_checks_if/)
 <!-- BLOG-POST-LIST:END -->
