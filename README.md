@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Let the Cats and Dogs Code for you!](https://www.reddit.com/r/Python/comments/purdaa/let_the_cats_and_dogs_code_for_you/)
-- [Can anyone recommend resources to prepare for Pandas and Numpy interview questions?](https://www.reddit.com/r/Python/comments/pup94x/can_anyone_recommend_resources_to_prepare_for/)
 - [mingus library for music theory](https://www.reddit.com/r/Python/comments/pup02z/mingus_library_for_music_theory/)
 - [Student Placement Prediction using python](https://www.reddit.com/r/Python/comments/puomgy/student_placement_prediction_using_python/)
 - [Which ORM should I learn?](https://www.reddit.com/r/Python/comments/punugl/which_orm_should_i_learn/)
+- [👀 Chem.py has started development 🎉 A python library for doing chemistry simulations!! It's open-source too!!!!](https://www.reddit.com/r/Python/comments/punlg2/chempy_has_started_development_a_python_library/)
 <!-- BLOG-POST-LIST:END -->
