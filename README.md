@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What does this do?](https://www.reddit.com/r/Python/comments/pukokg/what_does_this_do/)
-- [Machine Learning Model](https://www.reddit.com/r/Python/comments/pujh6c/machine_learning_model/)
-- [I have integrate Google reCaptcha in Odoo Login Form using python.](https://www.reddit.com/r/Python/comments/puia7m/i_have_integrate_google_recaptcha_in_odoo_login/)
-- [pygamewrap OO wrapper for pygame](https://www.reddit.com/r/Python/comments/pugqqa/pygamewrap_oo_wrapper_for_pygame/)
-- [Python for beginner #1](https://www.reddit.com/r/Python/comments/puglgw/python_for_beginner_1/)
+- [Used Jupyter notebook for the first time](https://www.reddit.com/r/Python/comments/pun3lt/used_jupyter_notebook_for_the_first_time/)
+- [How to Show Progress Bar in Python](https://www.reddit.com/r/Python/comments/pumqhe/how_to_show_progress_bar_in_python/)
+- [I made a python Twitter Bot that checks if accounts are likely to be Bots. (reply to any tweet using keyword "RealOrFake" and copy the bot @savetweetplease, and it'll send you the report).](https://www.reddit.com/r/Python/comments/pumjz4/i_made_a_python_twitter_bot_that_checks_if/)
+- [I Scraped Jumia In Just 20 Lines Of Python!](https://www.reddit.com/r/Python/comments/pum947/i_scraped_jumia_in_just_20_lines_of_python/)
+- [One of the ways to convert a docx file to pdf using python (using Word)](https://www.reddit.com/r/Python/comments/pum5zx/one_of_the_ways_to_convert_a_docx_file_to_pdf/)
 <!-- BLOG-POST-LIST:END -->
