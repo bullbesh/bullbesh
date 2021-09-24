@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which ORM should I learn?](https://www.reddit.com/r/Python/comments/punugl/which_orm_should_i_learn/)
+- [👀 Chem.py has started development 🎉 A python library for doing chemistry simulations!! It's open-source too!!!!](https://www.reddit.com/r/Python/comments/punlg2/chempy_has_started_development_a_python_library/)
 - [Used Jupyter notebook for the first time](https://www.reddit.com/r/Python/comments/pun3lt/used_jupyter_notebook_for_the_first_time/)
 - [How to Show Progress Bar in Python](https://www.reddit.com/r/Python/comments/pumqhe/how_to_show_progress_bar_in_python/)
 - [I made a python Twitter Bot that checks if accounts are likely to be Bots. (reply to any tweet using keyword "RealOrFake" and copy the bot @savetweetplease, and it'll send you the report).](https://www.reddit.com/r/Python/comments/pumjz4/i_made_a_python_twitter_bot_that_checks_if/)
-- [I Scraped Jumia In Just 20 Lines Of Python!](https://www.reddit.com/r/Python/comments/pum947/i_scraped_jumia_in_just_20_lines_of_python/)
-- [One of the ways to convert a docx file to pdf using python (using Word)](https://www.reddit.com/r/Python/comments/pum5zx/one_of_the_ways_to_convert_a_docx_file_to_pdf/)
 <!-- BLOG-POST-LIST:END -->
