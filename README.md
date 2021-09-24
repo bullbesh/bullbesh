@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a tictactoe game in less than a day :D](https://www.reddit.com/r/Python/comments/pueffd/i_made_a_tictactoe_game_in_less_than_a_day_d/)
 - [pretty printer that shows object felds](https://www.reddit.com/r/Python/comments/pudued/pretty_printer_that_shows_object_felds/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/pu7ynl/friday_daily_thread_free_chat_friday_daily_thread/)
 - [SD Python Meetup on Zoom at 7 PM Pacific](https://www.reddit.com/r/Python/comments/pu6g0t/sd_python_meetup_on_zoom_at_7_pm_pacific/)
 - [I made Tkinter turn into a UWP app](https://www.reddit.com/r/Python/comments/pu5bva/i_made_tkinter_turn_into_a_uwp_app/)
-- [Python is actually just Haskell with few extra steps, learn the hidden Python syntax that even the most seasoned Python developers don't know about](https://www.reddit.com/r/Python/comments/pu55xb/python_is_actually_just_haskell_with_few_extra/)
 <!-- BLOG-POST-LIST:END -->
