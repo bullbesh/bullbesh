@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Extract structured data with machine learning](https://www.reddit.com/r/Python/comments/pv58sk/extract_structured_data_with_machine_learning/)
 - [Python just surpassed Java as the 2nd programming language with the highest number of questions in SO.](https://www.reddit.com/r/Python/comments/pv4if3/python_just_surpassed_java_as_the_2nd_programming/)
-- [Is there anyone here from frontend, let it be from web or mobile, success to learn Python?](https://www.reddit.com/r/Python/comments/pv46ye/is_there_anyone_here_from_frontend_let_it_be_from/)
 - [Project Ideas](https://www.reddit.com/r/Python/comments/pv2f0q/project_ideas/)
 - [I built KV Store: Key-value or config or settings store in Redis with beautiful UI and code generation](https://www.reddit.com/r/Python/comments/pv24o9/i_built_kv_store_keyvalue_or_config_or_settings/)
 - [PyDiceroll 3.3](https://www.reddit.com/r/Python/comments/pv09r8/pydiceroll_33/)
