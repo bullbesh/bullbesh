@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [what more should i learn ?](https://www.reddit.com/r/Python/comments/pv9jx6/what_more_should_i_learn/)
 - [Measuring The Efficiency Of Algorithms - With Python Code Examples](https://www.reddit.com/r/Python/comments/pv7djy/measuring_the_efficiency_of_algorithms_with/)
 - [3D graph animation in Jupyter Notebook using ipywidgets](https://www.reddit.com/r/Python/comments/pv6q08/3d_graph_animation_in_jupyter_notebook_using/)
 - [What is the best resource to get cheat sheets?](https://www.reddit.com/r/Python/comments/pv6pjb/what_is_the_best_resource_to_get_cheat_sheets/)
 - [Python behind the scenes #13: the GIL and its effects on Python multithreading](https://www.reddit.com/r/Python/comments/pv6cv4/python_behind_the_scenes_13_the_gil_and_its/)
-- [Is there a website like Learn CPP but for python?](https://www.reddit.com/r/Python/comments/pv64bt/is_there_a_website_like_learn_cpp_but_for_python/)
 <!-- BLOG-POST-LIST:END -->
