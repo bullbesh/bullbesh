@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Save your entire LastFM history in seconds](https://www.reddit.com/r/Python/comments/pvf5va/save_your_entire_lastfm_history_in_seconds/)
 - [Python + Postgres: The Hunt for Long Running Queries](https://www.reddit.com/r/Python/comments/pvenr7/python_postgres_the_hunt_for_long_running_queries/)
 - [Stop Hardcoding Sensitive Data in Your Python Applications](https://www.reddit.com/r/Python/comments/pvelc1/stop_hardcoding_sensitive_data_in_your_python/)
 - [PyQt React Desktop Application](https://www.reddit.com/r/Python/comments/pvcn49/pyqt_react_desktop_application/)
 - [Free Udemy courses every day on Telegram!](https://www.reddit.com/r/Python/comments/pvca4u/free_udemy_courses_every_day_on_telegram/)
-- [Making a Telegram bot using Python](https://www.reddit.com/r/Python/comments/pvc9cy/making_a_telegram_bot_using_python/)
 <!-- BLOG-POST-LIST:END -->
