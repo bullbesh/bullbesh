@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyDiceroll 3.3](https://www.reddit.com/r/Python/comments/pv09r8/pydiceroll_33/)
+- [Hey all, a noob here trying to get computer info using powershell with a python script](https://www.reddit.com/r/Python/comments/pv02gg/hey_all_a_noob_here_trying_to_get_computer_info/)
+- [Anyone have legitimate resources?](https://www.reddit.com/r/Python/comments/puztu8/anyone_have_legitimate_resources/)
 - [Spotify Gestures! - A Computer Vision application for automating Spotify](https://www.reddit.com/r/Python/comments/puz45p/spotify_gestures_a_computer_vision_application/)
 - [✨Announcing development of a benchmark forecasting library to be used as alongside AI forecasting methods. ✨](https://www.reddit.com/r/Python/comments/puxyge/announcing_development_of_a_benchmark_forecasting/)
-- [Implement Your Own range() Function with Python Generators](https://www.reddit.com/r/Python/comments/puvusu/implement_your_own_range_function_with_python/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/puvi83/saturday_daily_thread_resource_request_and/)
-- [Easy Forms using Pydantic and Piccolo Admin](https://www.reddit.com/r/Python/comments/puswr8/easy_forms_using_pydantic_and_piccolo_admin/)
 <!-- BLOG-POST-LIST:END -->
