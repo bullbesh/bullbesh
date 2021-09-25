@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyQt React Desktop Application](https://www.reddit.com/r/Python/comments/pvcn49/pyqt_react_desktop_application/)
 - [Free Udemy courses every day on Telegram!](https://www.reddit.com/r/Python/comments/pvca4u/free_udemy_courses_every_day_on_telegram/)
 - [Making a Telegram bot using Python](https://www.reddit.com/r/Python/comments/pvc9cy/making_a_telegram_bot_using_python/)
 - [The best way to add 'cast' in models.py](https://www.reddit.com/r/Python/comments/pvbcol/the_best_way_to_add_cast_in_modelspy/)
 - [Is it possible in python to create a cursor like windows which follows the mouse movement?.Is there a feature which allows that?](https://www.reddit.com/r/Python/comments/pvbc64/is_it_possible_in_python_to_create_a_cursor_like/)
-- [Asyncio streams vs. low level sockets for speed](https://www.reddit.com/r/Python/comments/pvbbiv/asyncio_streams_vs_low_level_sockets_for_speed/)
 <!-- BLOG-POST-LIST:END -->
