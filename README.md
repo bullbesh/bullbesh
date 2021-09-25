@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python FAST API | Demo CRUD with SQLite3](https://www.reddit.com/r/Python/comments/pvb990/python_fast_api_demo_crud_with_sqlite3/)
+- [Make Python Run Faster: A Machine Learning Perspective](https://www.reddit.com/r/Python/comments/pvayd8/make_python_run_faster_a_machine_learning/)
+- [Algorithms and Data Structures FREE COURSE || Strings || Part 2 - LeetCode 67. Add Binary || Algorithm explained](https://www.reddit.com/r/Python/comments/pvakt8/algorithms_and_data_structures_free_course/)
 - [what more should i learn ?](https://www.reddit.com/r/Python/comments/pv9jx6/what_more_should_i_learn/)
 - [Measuring The Efficiency Of Algorithms - With Python Code Examples](https://www.reddit.com/r/Python/comments/pv7djy/measuring_the_efficiency_of_algorithms_with/)
-- [3D graph animation in Jupyter Notebook using ipywidgets](https://www.reddit.com/r/Python/comments/pv6q08/3d_graph_animation_in_jupyter_notebook_using/)
-- [What is the best resource to get cheat sheets?](https://www.reddit.com/r/Python/comments/pv6pjb/what_is_the_best_resource_to_get_cheat_sheets/)
-- [Python behind the scenes #13: the GIL and its effects on Python multithreading](https://www.reddit.com/r/Python/comments/pv6cv4/python_behind_the_scenes_13_the_gil_and_its/)
 <!-- BLOG-POST-LIST:END -->
