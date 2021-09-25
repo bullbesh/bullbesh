@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python FAST API | Demo CRUD with SQLite3](https://www.reddit.com/r/Python/comments/pvb990/python_fast_api_demo_crud_with_sqlite3/)
-- [Make Python Run Faster: A Machine Learning Perspective](https://www.reddit.com/r/Python/comments/pvayd8/make_python_run_faster_a_machine_learning/)
-- [Algorithms and Data Structures FREE COURSE || Strings || Part 2 - LeetCode 67. Add Binary || Algorithm explained](https://www.reddit.com/r/Python/comments/pvakt8/algorithms_and_data_structures_free_course/)
-- [what more should i learn ?](https://www.reddit.com/r/Python/comments/pv9jx6/what_more_should_i_learn/)
-- [Measuring The Efficiency Of Algorithms - With Python Code Examples](https://www.reddit.com/r/Python/comments/pv7djy/measuring_the_efficiency_of_algorithms_with/)
+- [Free Udemy courses every day on Telegram!](https://www.reddit.com/r/Python/comments/pvca4u/free_udemy_courses_every_day_on_telegram/)
+- [Making a Telegram bot using Python](https://www.reddit.com/r/Python/comments/pvc9cy/making_a_telegram_bot_using_python/)
+- [The best way to add 'cast' in models.py](https://www.reddit.com/r/Python/comments/pvbcol/the_best_way_to_add_cast_in_modelspy/)
+- [Is it possible in python to create a cursor like windows which follows the mouse movement?.Is there a feature which allows that?](https://www.reddit.com/r/Python/comments/pvbc64/is_it_possible_in_python_to_create_a_cursor_like/)
+- [Asyncio streams vs. low level sockets for speed](https://www.reddit.com/r/Python/comments/pvbbiv/asyncio_streams_vs_low_level_sockets_for_speed/)
 <!-- BLOG-POST-LIST:END -->
