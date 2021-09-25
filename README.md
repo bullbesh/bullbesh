@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [✨Announcing development of a benchmark forecasting library to be used as alongside AI forecasting methods. ✨](https://www.reddit.com/r/Python/comments/puxyge/announcing_development_of_a_benchmark_forecasting/)
 - [Implement Your Own range() Function with Python Generators](https://www.reddit.com/r/Python/comments/puvusu/implement_your_own_range_function_with_python/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/puvi83/saturday_daily_thread_resource_request_and/)
 - [Easy Forms using Pydantic and Piccolo Admin](https://www.reddit.com/r/Python/comments/puswr8/easy_forms_using_pydantic_and_piccolo_admin/)
 - [Let the Cats and Dogs Code for you!](https://www.reddit.com/r/Python/comments/purdaa/let_the_cats_and_dogs_code_for_you/)
-- [mingus library for music theory](https://www.reddit.com/r/Python/comments/pup02z/mingus_library_for_music_theory/)
 <!-- BLOG-POST-LIST:END -->
