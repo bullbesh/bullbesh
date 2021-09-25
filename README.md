@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [navyseals.py](https://www.reddit.com/r/Python/comments/puwepk/navysealspy/)
+- [Implement Your Own range() Function with Python Generators](https://www.reddit.com/r/Python/comments/puvusu/implement_your_own_range_function_with_python/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/puvi83/saturday_daily_thread_resource_request_and/)
 - [Easy Forms using Pydantic and Piccolo Admin](https://www.reddit.com/r/Python/comments/puswr8/easy_forms_using_pydantic_and_piccolo_admin/)
 - [Let the Cats and Dogs Code for you!](https://www.reddit.com/r/Python/comments/purdaa/let_the_cats_and_dogs_code_for_you/)
-- [mingus library for music theory](https://www.reddit.com/r/Python/comments/pup02z/mingus_library_for_music_theory/)
-- [Student Placement Prediction using python](https://www.reddit.com/r/Python/comments/puomgy/student_placement_prediction_using_python/)
-- [Which ORM should I learn?](https://www.reddit.com/r/Python/comments/punugl/which_orm_should_i_learn/)
 <!-- BLOG-POST-LIST:END -->
