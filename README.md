@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project Ideas](https://www.reddit.com/r/Python/comments/pv2f0q/project_ideas/)
+- [I built KV Store: Key-value or config or settings store in Redis with beautiful UI and code generation](https://www.reddit.com/r/Python/comments/pv24o9/i_built_kv_store_keyvalue_or_config_or_settings/)
 - [PyDiceroll 3.3](https://www.reddit.com/r/Python/comments/pv09r8/pydiceroll_33/)
 - [Hey all, a noob here trying to get computer info using powershell with a python script](https://www.reddit.com/r/Python/comments/pv02gg/hey_all_a_noob_here_trying_to_get_computer_info/)
 - [Anyone have legitimate resources?](https://www.reddit.com/r/Python/comments/puztu8/anyone_have_legitimate_resources/)
-- [Spotify Gestures! - A Computer Vision application for automating Spotify](https://www.reddit.com/r/Python/comments/puz45p/spotify_gestures_a_computer_vision_application/)
-- [✨Announcing development of a benchmark forecasting library to be used as alongside AI forecasting methods. ✨](https://www.reddit.com/r/Python/comments/puxyge/announcing_development_of_a_benchmark_forecasting/)
 <!-- BLOG-POST-LIST:END -->
