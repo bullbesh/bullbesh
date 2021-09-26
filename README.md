@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Multiple list shallow copy methods.](https://www.reddit.com/r/Python/comments/pvjhr4/multiple_list_shallow_copy_methods/)
+- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/pviitn/sunday_daily_thread_whats_everyone_working_on/)
 - [Newbie for sure.](https://www.reddit.com/r/Python/comments/pvhuip/newbie_for_sure/)
 - [Brython](https://www.reddit.com/r/Python/comments/pvhrvg/brython/)
 - [Kivy Android App Calculator built in Python 100 Lines 90 seconds](https://www.reddit.com/r/Python/comments/pvhb86/kivy_android_app_calculator_built_in_python_100/)
-- [Space Science with Python - An upcoming YouTube tutorial series](https://www.reddit.com/r/Python/comments/pvfubq/space_science_with_python_an_upcoming_youtube/)
-- [Save your entire LastFM history in seconds](https://www.reddit.com/r/Python/comments/pvf5va/save_your_entire_lastfm_history_in_seconds/)
 <!-- BLOG-POST-LIST:END -->
