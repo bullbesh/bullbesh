@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What age should u start yo learn coding/programming??](https://www.reddit.com/r/Python/comments/pw0yy7/what_age_should_u_start_yo_learn_codingprogramming/)
 - [How popular is GUI programming in Python? What are some popular applications made from Python (any framework)?](https://www.reddit.com/r/Python/comments/pvycu4/how_popular_is_gui_programming_in_python_what_are/)
 - [Objexplore: A terminal UI to inspect and explore Python objects](https://www.reddit.com/r/Python/comments/pvwddj/objexplore_a_terminal_ui_to_inspect_and_explore/)
 - [Simple python game with Tkinter](https://www.reddit.com/r/Python/comments/pvvv6x/simple_python_game_with_tkinter/)
 - [Cleanbay - A metasearch engine for torrents](https://www.reddit.com/r/Python/comments/pvvrzr/cleanbay_a_metasearch_engine_for_torrents/)
-- [SQL SETUP WITH PYTHON](https://www.reddit.com/r/Python/comments/pvvnbl/sql_setup_with_python/)
 <!-- BLOG-POST-LIST:END -->
