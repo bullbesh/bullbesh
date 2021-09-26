@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [If you like the pythonic "Leo" literate programming editor, there's now an extension that integrates it with VSCode!](https://www.reddit.com/r/Python/comments/pvn0bu/if_you_like_the_pythonic_leo_literate_programming/)
+- [Why I started Rust instead of stick to Python](https://www.reddit.com/r/Python/comments/pvmsci/why_i_started_rust_instead_of_stick_to_python/)
 - [If Python is so good for AI programming, why can't Python just read my mind?](https://www.reddit.com/r/Python/comments/pvmd3o/if_python_is_so_good_for_ai_programming_why_cant/)
 - [My Rust-based Python library to detect file type](https://www.reddit.com/r/Python/comments/pvlz2h/my_rustbased_python_library_to_detect_file_type/)
 - [Multiple list shallow copy methods.](https://www.reddit.com/r/Python/comments/pvjhr4/multiple_list_shallow_copy_methods/)
-- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/pviitn/sunday_daily_thread_whats_everyone_working_on/)
-- [Brython](https://www.reddit.com/r/Python/comments/pvhrvg/brython/)
 <!-- BLOG-POST-LIST:END -->
