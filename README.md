@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Make A Security Camera With Python](https://www.reddit.com/r/Python/comments/pvumju/make_a_security_camera_with_python/)
-- [Weather App using OpenWeatherMap API and Tkinter](https://www.reddit.com/r/Python/comments/pvul9n/weather_app_using_openweathermap_api_and_tkinter/)
-- [How can I make this programme better?](https://www.reddit.com/r/Python/comments/pvujid/how_can_i_make_this_programme_better/)
-- [Building a Multilingual Translation Based Audiobook Generator Using Python and Deep Learning](https://www.reddit.com/r/Python/comments/pvu7wg/building_a_multilingual_translation_based/)
-- [Esparto - Build webpages and PDF documents with Markdown, Pandas, Matplotlib, Plotly - version 2.0.0](https://www.reddit.com/r/Python/comments/pvtmil/esparto_build_webpages_and_pdf_documents_with/)
+- [Simple python game with Tkinter](https://www.reddit.com/r/Python/comments/pvvv6x/simple_python_game_with_tkinter/)
+- [Cleanbay - A metasearch engine for torrents](https://www.reddit.com/r/Python/comments/pvvrzr/cleanbay_a_metasearch_engine_for_torrents/)
+- [SQL SETUP WITH PYTHON](https://www.reddit.com/r/Python/comments/pvvnbl/sql_setup_with_python/)
+- [ValueError: could not convert string to float: '20/05/20, 06:09'](https://www.reddit.com/r/Python/comments/pvv7sh/valueerror_could_not_convert_string_to_float/)
+- [List Comprehension in 60Sec!](https://www.reddit.com/r/Python/comments/pvv1xy/list_comprehension_in_60sec/)
 <!-- BLOG-POST-LIST:END -->
