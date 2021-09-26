@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are the best things to code for work, when not a programmer?](https://www.reddit.com/r/Python/comments/pvo2fb/what_are_the_best_things_to_code_for_work_when/)
+- [Python function contd](https://www.reddit.com/r/Python/comments/pvnv9p/python_function_contd/)
+- [JupyterLab Desktop App Now Available: A Data Science Tool That Bundles A Python Environment With Python Libraries](https://www.reddit.com/r/Python/comments/pvnlj2/jupyterlab_desktop_app_now_available_a_data/)
 - [If you like the pythonic "Leo" literate programming editor, there's now an extension that integrates it with VSCode!](https://www.reddit.com/r/Python/comments/pvn0bu/if_you_like_the_pythonic_leo_literate_programming/)
 - [Why I started Rust instead of stick to Python](https://www.reddit.com/r/Python/comments/pvmsci/why_i_started_rust_instead_of_stick_to_python/)
-- [If Python is so good for AI programming, why can't Python just read my mind?](https://www.reddit.com/r/Python/comments/pvmd3o/if_python_is_so_good_for_ai_programming_why_cant/)
-- [My Rust-based Python library to detect file type](https://www.reddit.com/r/Python/comments/pvlz2h/my_rustbased_python_library_to_detect_file_type/)
-- [Multiple list shallow copy methods.](https://www.reddit.com/r/Python/comments/pvjhr4/multiple_list_shallow_copy_methods/)
 <!-- BLOG-POST-LIST:END -->
