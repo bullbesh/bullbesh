@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Objexplore: A terminal UI to inspect and explore Python objects](https://www.reddit.com/r/Python/comments/pvwddj/objexplore_a_terminal_ui_to_inspect_and_explore/)
 - [Simple python game with Tkinter](https://www.reddit.com/r/Python/comments/pvvv6x/simple_python_game_with_tkinter/)
 - [Cleanbay - A metasearch engine for torrents](https://www.reddit.com/r/Python/comments/pvvrzr/cleanbay_a_metasearch_engine_for_torrents/)
 - [SQL SETUP WITH PYTHON](https://www.reddit.com/r/Python/comments/pvvnbl/sql_setup_with_python/)
-- [ValueError: could not convert string to float: '20/05/20, 06:09'](https://www.reddit.com/r/Python/comments/pvv7sh/valueerror_could_not_convert_string_to_float/)
 - [List Comprehension in 60Sec!](https://www.reddit.com/r/Python/comments/pvv1xy/list_comprehension_in_60sec/)
 <!-- BLOG-POST-LIST:END -->
