@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python List Comprehension Explained in 49seconds!!](https://www.reddit.com/r/Python/comments/pvsk1g/python_list_comprehension_explained_in_49seconds/)
-- [Speech Synthesis on Linux](https://www.reddit.com/r/Python/comments/pvqnac/speech_synthesis_on_linux/)
-- [Platformer with Randomly Generated Levels](https://www.reddit.com/r/Python/comments/pvqizr/platformer_with_randomly_generated_levels/)
-- [Awesome Bootcamp.](https://www.reddit.com/r/Python/comments/pvpymi/awesome_bootcamp/)
-- [Replit](https://www.reddit.com/r/Python/comments/pvofy4/replit/)
+- [Esparto - Build webpages and PDF documents with Markdown, Pandas, Matplotlib, Plotly - version 2.0.0](https://www.reddit.com/r/Python/comments/pvtmil/esparto_build_webpages_and_pdf_documents_with/)
+- [Print images in the console using python :)](https://www.reddit.com/r/Python/comments/pvt82u/print_images_in_the_console_using_python/)
+- [Copying a list using built-in features only](https://www.reddit.com/r/Python/comments/pvt3ey/copying_a_list_using_builtin_features_only/)
+- [I have just release Zero! A fast and high performance Python microservice framework](https://www.reddit.com/r/Python/comments/pvsxd0/i_have_just_release_zero_a_fast_and_high/)
+- [Twitter Scraper](https://www.reddit.com/r/Python/comments/pvsx1m/twitter_scraper/)
 <!-- BLOG-POST-LIST:END -->
