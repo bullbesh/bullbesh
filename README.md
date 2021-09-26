@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python books free to read online or download](https://www.reddit.com/r/Python/comments/pw490d/python_books_free_to_read_online_or_download/)
+- [Any noteback for beginners?](https://www.reddit.com/r/Python/comments/pw41kg/any_noteback_for_beginners/)
 - [Using Composite Actions with GitHub Actions](https://www.reddit.com/r/Python/comments/pw3e3m/using_composite_actions_with_github_actions/)
 - [Space Science with Python - Part 2: Setup with venv](https://www.reddit.com/r/Python/comments/pw2yti/space_science_with_python_part_2_setup_with_venv/)
 - [How popular is GUI programming in Python? What are some popular applications made from Python (any framework)?](https://www.reddit.com/r/Python/comments/pvycu4/how_popular_is_gui_programming_in_python_what_are/)
-- [Objexplore: A terminal UI to inspect and explore Python objects](https://www.reddit.com/r/Python/comments/pvwddj/objexplore_a_terminal_ui_to_inspect_and_explore/)
-- [Simple python game with Tkinter](https://www.reddit.com/r/Python/comments/pvvv6x/simple_python_game_with_tkinter/)
 <!-- BLOG-POST-LIST:END -->
