@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python List Comprehension Explained in 49seconds!!](https://www.reddit.com/r/Python/comments/pvsk1g/python_list_comprehension_explained_in_49seconds/)
 - [Speech Synthesis on Linux](https://www.reddit.com/r/Python/comments/pvqnac/speech_synthesis_on_linux/)
 - [Platformer with Randomly Generated Levels](https://www.reddit.com/r/Python/comments/pvqizr/platformer_with_randomly_generated_levels/)
 - [Awesome Bootcamp.](https://www.reddit.com/r/Python/comments/pvpymi/awesome_bootcamp/)
 - [Replit](https://www.reddit.com/r/Python/comments/pvofy4/replit/)
-- [need good resource for dsa in py](https://www.reddit.com/r/Python/comments/pvoc6h/need_good_resource_for_dsa_in_py/)
 <!-- BLOG-POST-LIST:END -->
