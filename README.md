@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Make A Security Camera With Python](https://www.reddit.com/r/Python/comments/pvumju/make_a_security_camera_with_python/)
+- [Weather App using OpenWeatherMap API and Tkinter](https://www.reddit.com/r/Python/comments/pvul9n/weather_app_using_openweathermap_api_and_tkinter/)
+- [How can I make this programme better?](https://www.reddit.com/r/Python/comments/pvujid/how_can_i_make_this_programme_better/)
+- [Building a Multilingual Translation Based Audiobook Generator Using Python and Deep Learning](https://www.reddit.com/r/Python/comments/pvu7wg/building_a_multilingual_translation_based/)
 - [Esparto - Build webpages and PDF documents with Markdown, Pandas, Matplotlib, Plotly - version 2.0.0](https://www.reddit.com/r/Python/comments/pvtmil/esparto_build_webpages_and_pdf_documents_with/)
-- [Print images in the console using python :)](https://www.reddit.com/r/Python/comments/pvt82u/print_images_in_the_console_using_python/)
-- [Copying a list using built-in features only](https://www.reddit.com/r/Python/comments/pvt3ey/copying_a_list_using_builtin_features_only/)
-- [I have just release Zero! A fast and high performance Python microservice framework](https://www.reddit.com/r/Python/comments/pvsxd0/i_have_just_release_zero_a_fast_and_high/)
-- [Twitter Scraper](https://www.reddit.com/r/Python/comments/pvsx1m/twitter_scraper/)
 <!-- BLOG-POST-LIST:END -->
