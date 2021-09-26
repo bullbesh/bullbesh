@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Speech Synthesis on Linux](https://www.reddit.com/r/Python/comments/pvqnac/speech_synthesis_on_linux/)
+- [Platformer with Randomly Generated Levels](https://www.reddit.com/r/Python/comments/pvqizr/platformer_with_randomly_generated_levels/)
 - [Awesome Bootcamp.](https://www.reddit.com/r/Python/comments/pvpymi/awesome_bootcamp/)
 - [Replit](https://www.reddit.com/r/Python/comments/pvofy4/replit/)
 - [need good resource for dsa in py](https://www.reddit.com/r/Python/comments/pvoc6h/need_good_resource_for_dsa_in_py/)
-- [What are the best things to code for work, when not a programmer?](https://www.reddit.com/r/Python/comments/pvo2fb/what_are_the_best_things_to_code_for_work_when/)
-- [Python function contd](https://www.reddit.com/r/Python/comments/pvnv9p/python_function_contd/)
 <!-- BLOG-POST-LIST:END -->
