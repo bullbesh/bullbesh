@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Awesome Bootcamp.](https://www.reddit.com/r/Python/comments/pvpymi/awesome_bootcamp/)
 - [Replit](https://www.reddit.com/r/Python/comments/pvofy4/replit/)
 - [need good resource for dsa in py](https://www.reddit.com/r/Python/comments/pvoc6h/need_good_resource_for_dsa_in_py/)
 - [What are the best things to code for work, when not a programmer?](https://www.reddit.com/r/Python/comments/pvo2fb/what_are_the_best_things_to_code_for_work_when/)
 - [Python function contd](https://www.reddit.com/r/Python/comments/pvnv9p/python_function_contd/)
-- [JupyterLab Desktop App Now Available: A Data Science Tool That Bundles A Python Environment With Python Libraries](https://www.reddit.com/r/Python/comments/pvnlj2/jupyterlab_desktop_app_now_available_a_data/)
 <!-- BLOG-POST-LIST:END -->
