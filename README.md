@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Big update for CRUD router builder in python FastApi!](https://www.reddit.com/r/Python/comments/pw6jvx/big_update_for_crud_router_builder_in_python/)
 - [API Logic Server, now with Docker](https://www.reddit.com/r/Python/comments/pw5ntg/api_logic_server_now_with_docker/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/pw5epw/monday_daily_thread_project_ideas/)
 - [EPI Python 5.15 possible error](https://www.reddit.com/r/Python/comments/pw59cx/epi_python_515_possible_error/)
 - [Imia - the authentication library for Starlette, FastAPI.](https://www.reddit.com/r/Python/comments/pw4uj8/imia_the_authentication_library_for_starlette/)
-- [Python books free to read online or download](https://www.reddit.com/r/Python/comments/pw490d/python_books_free_to_read_online_or_download/)
 <!-- BLOG-POST-LIST:END -->
