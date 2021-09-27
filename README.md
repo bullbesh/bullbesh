@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help please with a bot in python i'm trying to make](https://www.reddit.com/r/Python/comments/pwe16y/help_please_with_a_bot_in_python_im_trying_to_make/)
+- [Why are all machine learning algorithms based on python?](https://www.reddit.com/r/Python/comments/pwdxr8/why_are_all_machine_learning_algorithms_based_on/)
+- [PyTorch Tutorial for Beginners – Building Neural Networks](https://www.reddit.com/r/Python/comments/pwdlql/pytorch_tutorial_for_beginners_building_neural/)
+- [Best way to share environment on a repository](https://www.reddit.com/r/Python/comments/pwdgde/best_way_to_share_environment_on_a_repository/)
 - [What would be the best way to do 2D multiple objects movement simulation with Python? (dance choreography)](https://www.reddit.com/r/Python/comments/pwd6z5/what_would_be_the_best_way_to_do_2d_multiple/)
-- [CRUD Operations Using AWS DynamoDB with Flask APIs and Boto3](https://www.reddit.com/r/Python/comments/pw9q0e/crud_operations_using_aws_dynamodb_with_flask/)
-- [Create a BOT Personal Assistant in Python | Season 1 - Ep1](https://www.reddit.com/r/Python/comments/pw9pxa/create_a_bot_personal_assistant_in_python_season/)
-- [Whatsapp Bot that Detects Chat Messages and joins your Zoom Meetings](https://www.reddit.com/r/Python/comments/pw9n1c/whatsapp_bot_that_detects_chat_messages_and_joins/)
-- [Create a BOT Personal Assistant in Python | Season 1 - Ep1](https://www.reddit.com/r/Python/comments/pw9mbz/create_a_bot_personal_assistant_in_python_season/)
 <!-- BLOG-POST-LIST:END -->
