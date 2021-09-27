@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CRUD Operations Using AWS DynamoDB with Flask APIs and Boto3](https://www.reddit.com/r/Python/comments/pw9q0e/crud_operations_using_aws_dynamodb_with_flask/)
+- [Create a BOT Personal Assistant in Python | Season 1 - Ep1](https://www.reddit.com/r/Python/comments/pw9pxa/create_a_bot_personal_assistant_in_python_season/)
 - [Whatsapp Bot that Detects Chat Messages and joins your Zoom Meetings](https://www.reddit.com/r/Python/comments/pw9n1c/whatsapp_bot_that_detects_chat_messages_and_joins/)
 - [Create a BOT Personal Assistant in Python | Season 1 - Ep1](https://www.reddit.com/r/Python/comments/pw9mbz/create_a_bot_personal_assistant_in_python_season/)
 - [I'm currently working on 2D portal game](https://www.reddit.com/r/Python/comments/pw991n/im_currently_working_on_2d_portal_game/)
-- [Big update for CRUD router builder in python FastApi!](https://www.reddit.com/r/Python/comments/pw6jvx/big_update_for_crud_router_builder_in_python/)
-- [API Logic Server, now with Docker](https://www.reddit.com/r/Python/comments/pw5ntg/api_logic_server_now_with_docker/)
 <!-- BLOG-POST-LIST:END -->
