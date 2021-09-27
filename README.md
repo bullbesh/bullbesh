@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ETL Library for Python](https://www.reddit.com/r/Python/comments/pwq8q7/etl_library_for_python/)
+- [Post Form Data in Python Flask](https://www.reddit.com/r/Python/comments/pwpn8i/post_form_data_in_python_flask/)
 - [PYTHON GAME](https://www.reddit.com/r/Python/comments/pwol14/python_game/)
 - [Using Minimax Algorithm to create an Unbeatable Tic-Tac-Toe Opponent in Python](https://www.reddit.com/r/Python/comments/pwmu4q/using_minimax_algorithm_to_create_an_unbeatable/)
 - [Geo Reverse Location](https://www.reddit.com/r/Python/comments/pwmnf6/geo_reverse_location/)
-- [Introducing: The Policy Wonk, a tool for combining a set of AWS policy files into smaller compiled policy sets](https://www.reddit.com/r/Python/comments/pwme5o/introducing_the_policy_wonk_a_tool_for_combining/)
-- [✔ Python Open and Reading Files](https://www.reddit.com/r/Python/comments/pwlra9/python_open_and_reading_files/)
 <!-- BLOG-POST-LIST:END -->
