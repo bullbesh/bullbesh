@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Minimax Algorithm to create an Unbeatable Tic-Tac-Toe Opponent in Python](https://www.reddit.com/r/Python/comments/pwmu4q/using_minimax_algorithm_to_create_an_unbeatable/)
+- [Geo Reverse Location](https://www.reddit.com/r/Python/comments/pwmnf6/geo_reverse_location/)
+- [Introducing: The Policy Wonk, a tool for combining a set of AWS policy files into smaller compiled policy sets](https://www.reddit.com/r/Python/comments/pwme5o/introducing_the_policy_wonk_a_tool_for_combining/)
 - [✔ Python Open and Reading Files](https://www.reddit.com/r/Python/comments/pwlra9/python_open_and_reading_files/)
 - [Python Create a MEGA BOT Personal Assistant, Functions Speak and Listen | Robot Automation | S1 - E1](https://www.reddit.com/r/Python/comments/pwlkyo/python_create_a_mega_bot_personal_assistant/)
-- [Working on making a full cryptocurrency in python with aiohttp :)](https://www.reddit.com/r/Python/comments/pwkset/working_on_making_a_full_cryptocurrency_in_python/)
-- [Introducing Pants 2.7: Python tool lockfiles, Yapf, Docker, and easier introspection](https://www.reddit.com/r/Python/comments/pwkb0q/introducing_pants_27_python_tool_lockfiles_yapf/)
-- [Using Python To Make Games](https://www.reddit.com/r/Python/comments/pwjwx7/using_python_to_make_games/)
 <!-- BLOG-POST-LIST:END -->
