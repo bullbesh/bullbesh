@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Whatsapp Bot that Detects Chat Messages and joins your Zoom Meetings](https://www.reddit.com/r/Python/comments/pw9n1c/whatsapp_bot_that_detects_chat_messages_and_joins/)
+- [Create a BOT Personal Assistant in Python | Season 1 - Ep1](https://www.reddit.com/r/Python/comments/pw9mbz/create_a_bot_personal_assistant_in_python_season/)
+- [I'm currently working on 2D portal game](https://www.reddit.com/r/Python/comments/pw991n/im_currently_working_on_2d_portal_game/)
 - [Big update for CRUD router builder in python FastApi!](https://www.reddit.com/r/Python/comments/pw6jvx/big_update_for_crud_router_builder_in_python/)
 - [API Logic Server, now with Docker](https://www.reddit.com/r/Python/comments/pw5ntg/api_logic_server_now_with_docker/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/pw5epw/monday_daily_thread_project_ideas/)
-- [EPI Python 5.15 possible error](https://www.reddit.com/r/Python/comments/pw59cx/epi_python_515_possible_error/)
-- [Imia - the authentication library for Starlette, FastAPI.](https://www.reddit.com/r/Python/comments/pw4uj8/imia_the_authentication_library_for_starlette/)
 <!-- BLOG-POST-LIST:END -->
