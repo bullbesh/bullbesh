@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Udemy Course For Beginners](https://www.reddit.com/r/Python/comments/px1k78/best_udemy_course_for_beginners/)
+- [I have built KV Store: Config or Settings key-value store in Redis with UI and code generation](https://www.reddit.com/r/Python/comments/px1ddc/i_have_built_kv_store_config_or_settings_keyvalue/)
 - [Should I get a Python Certificate](https://www.reddit.com/r/Python/comments/pwxtnf/should_i_get_a_python_certificate/)
-- [Looking for Hungry iOS engineers!](https://www.reddit.com/r/Python/comments/pwx4xw/looking_for_hungry_ios_engineers/)
 - [What tasks have you automated using Python to make your life a little easier?](https://www.reddit.com/r/Python/comments/pwwhag/what_tasks_have_you_automated_using_python_to/)
 - [Free Python (and Azure Cloud) Learning Resource Provided By Microsoft](https://www.reddit.com/r/Python/comments/pwvi0t/free_python_and_azure_cloud_learning_resource/)
-- [DraftFast or pydfs-lineup-optimizer for building daily fantasy lineups in python](https://www.reddit.com/r/Python/comments/pwv1k0/draftfast_or_pydfslineupoptimizer_for_building/)
 <!-- BLOG-POST-LIST:END -->
