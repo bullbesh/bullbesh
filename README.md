@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for Hungry iOS engineers!](https://www.reddit.com/r/Python/comments/pwx4xw/looking_for_hungry_ios_engineers/)
 - [What tasks have you automated using Python to make your life a little easier?](https://www.reddit.com/r/Python/comments/pwwhag/what_tasks_have_you_automated_using_python_to/)
 - [Free Python (and Azure Cloud) Learning Resource Provided By Microsoft](https://www.reddit.com/r/Python/comments/pwvi0t/free_python_and_azure_cloud_learning_resource/)
 - [DraftFast or pydfs-lineup-optimizer for building daily fantasy lineups in python](https://www.reddit.com/r/Python/comments/pwv1k0/draftfast_or_pydfslineupoptimizer_for_building/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/pwtxfm/tuesday_daily_thread_advanced_questions/)
-- [gRPC with Python](https://www.reddit.com/r/Python/comments/pws3nf/grpc_with_python/)
 <!-- BLOG-POST-LIST:END -->
