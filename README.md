@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - kylepollina/objexplore: A terminal UI to inspect and explore Python objects](https://www.reddit.com/r/Python/comments/px1sry/github_kylepollinaobjexplore_a_terminal_ui_to/)
 - [Best Udemy Course For Beginners](https://www.reddit.com/r/Python/comments/px1k78/best_udemy_course_for_beginners/)
 - [I have built KV Store: Config or Settings key-value store in Redis with UI and code generation](https://www.reddit.com/r/Python/comments/px1ddc/i_have_built_kv_store_config_or_settings_keyvalue/)
 - [Should I get a Python Certificate](https://www.reddit.com/r/Python/comments/pwxtnf/should_i_get_a_python_certificate/)
 - [What tasks have you automated using Python to make your life a little easier?](https://www.reddit.com/r/Python/comments/pwwhag/what_tasks_have_you_automated_using_python_to/)
-- [Free Python (and Azure Cloud) Learning Resource Provided By Microsoft](https://www.reddit.com/r/Python/comments/pwvi0t/free_python_and_azure_cloud_learning_resource/)
 <!-- BLOG-POST-LIST:END -->
