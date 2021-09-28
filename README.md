@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello Reddit](https://www.reddit.com/r/Python/comments/pxdb78/hello_reddit/)
 - [How did you start learning Python?](https://www.reddit.com/r/Python/comments/pxd50l/how_did_you_start_learning_python/)
 - [How to scrape emails from Twitter using python](https://www.reddit.com/r/Python/comments/pxd38a/how_to_scrape_emails_from_twitter_using_python/)
 - [A short introduction to RabbitMQ](https://www.reddit.com/r/Python/comments/pxcwr3/a_short_introduction_to_rabbitmq/)
 - [Objconf - Object Configuration for Python](https://www.reddit.com/r/Python/comments/pxcmhx/objconf_object_configuration_for_python/)
+- [Create a Web App With 100% Python in 5 Minutes](https://www.reddit.com/r/Python/comments/pxc2pi/create_a_web_app_with_100_python_in_5_minutes/)
 <!-- BLOG-POST-LIST:END -->
