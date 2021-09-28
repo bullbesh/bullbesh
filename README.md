@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Blockchain with Python (FastAPI)](https://www.reddit.com/r/Python/comments/px8kot/build_a_blockchain_with_python_fastapi/)
+- [The Hub of Heliopolis - Spy on Python down to the Linux kernel level](https://www.reddit.com/r/Python/comments/px8fog/the_hub_of_heliopolis_spy_on_python_down_to_the/)
+- [Share Files Easily Using Python](https://www.reddit.com/r/Python/comments/px7tiz/share_files_easily_using_python/)
+- [what is a log ?](https://www.reddit.com/r/Python/comments/px7rit/what_is_a_log/)
 - [Learn how to create spinning 3D ASCII Earth using Python with Pygame](https://www.reddit.com/r/Python/comments/px6uff/learn_how_to_create_spinning_3d_ascii_earth_using/)
-- [Do You Really Need Environment Variables in Python?](https://www.reddit.com/r/Python/comments/px6are/do_you_really_need_environment_variables_in_python/)
-- [Reverse Strings in Python: reversed(), Slicing, and More – Real Python](https://www.reddit.com/r/Python/comments/px5zbu/reverse_strings_in_python_reversed_slicing_and/)
-- [Hacktober!](https://www.reddit.com/r/Python/comments/px3yif/hacktober/)
-- [Why Random Module is not so random](https://www.reddit.com/r/Python/comments/px3nk4/why_random_module_is_not_so_random/)
 <!-- BLOG-POST-LIST:END -->
