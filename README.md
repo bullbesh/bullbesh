@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a Web App With 100% Python in 5 Minutes](https://www.reddit.com/r/Python/comments/pxc2pi/create_a_web_app_with_100_python_in_5_minutes/)
+- [When would python be better suited for an automation script than bash (unix)](https://www.reddit.com/r/Python/comments/pxbram/when_would_python_be_better_suited_for_an/)
+- [Unravelling data structure displays](https://www.reddit.com/r/Python/comments/pxbmf9/unravelling_data_structure_displays/)
 - [Do not confuse Assertions with Exceptions](https://www.reddit.com/r/Python/comments/pxagk7/do_not_confuse_assertions_with_exceptions/)
 - [Control YouTube, and other media on your computer using your phone as a remote.](https://www.reddit.com/r/Python/comments/pxaagf/control_youtube_and_other_media_on_your_computer/)
-- [My first project: an introspective 90-year Life Calendar](https://www.reddit.com/r/Python/comments/pxa4u9/my_first_project_an_introspective_90year_life/)
-- [Free Python daily newsletter, created by Python & ML!](https://www.reddit.com/r/Python/comments/pxa2mq/free_python_daily_newsletter_created_by_python_ml/)
-- [Data Science Bookcamp: Five Python Projects ebook](https://www.reddit.com/r/Python/comments/px9vdc/data_science_bookcamp_five_python_projects_ebook/)
 <!-- BLOG-POST-LIST:END -->
