@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New ✨ match statement cheatsheet](https://www.reddit.com/r/Python/comments/pxt1dv/new_match_statement_cheatsheet/)
+- [Python behind the scenes #13: the GIL and its effects on Python multithreading](https://www.reddit.com/r/Python/comments/pxsvqi/python_behind_the_scenes_13_the_gil_and_its/)
 - [EpyNN: Educational python for Neural Networks](https://www.reddit.com/r/Python/comments/pxqfxf/epynn_educational_python_for_neural_networks/)
 - [Pie Chart Races with Python and PlotAPI](https://www.reddit.com/r/Python/comments/pxpxdd/pie_chart_races_with_python_and_plotapi/)
 - [Python is the second most Loved and Famous Language in the World.](https://www.reddit.com/r/Python/comments/pxpt7w/python_is_the_second_most_loved_and_famous/)
-- [If you want to manage embedded code (C & C++) from your Python console, check out the new Luos and Pyluos releases.](https://www.reddit.com/r/Python/comments/pxpjk7/if_you_want_to_manage_embedded_code_c_c_from_your/)
-- [Kinda proud of this :)](https://www.reddit.com/r/Python/comments/pxojip/kinda_proud_of_this/)
 <!-- BLOG-POST-LIST:END -->
