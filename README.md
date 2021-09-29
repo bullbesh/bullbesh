@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pablo Galindo (release manager) invites to Python 3.10 Release Party](https://www.reddit.com/r/Python/comments/pxv53z/pablo_galindo_release_manager_invites_to_python/)
+- [Hacktoberfest'21](https://www.reddit.com/r/Python/comments/pxuue6/hacktoberfest21/)
 - [I was sick of my Netflix list movies disappearing, so I wrote some code to tell me what content will be expiring soon](https://www.reddit.com/r/Python/comments/pxu1yi/i_was_sick_of_my_netflix_list_movies_disappearing/)
 - [New ✨ match statement cheatsheet](https://www.reddit.com/r/Python/comments/pxt1dv/new_match_statement_cheatsheet/)
 - [Python behind the scenes #13: the GIL and its effects on Python multithreading](https://www.reddit.com/r/Python/comments/pxsvqi/python_behind_the_scenes_13_the_gil_and_its/)
-- [EpyNN: Educational python for Neural Networks](https://www.reddit.com/r/Python/comments/pxqfxf/epynn_educational_python_for_neural_networks/)
-- [Pie Chart Races with Python and PlotAPI](https://www.reddit.com/r/Python/comments/pxpxdd/pie_chart_races_with_python_and_plotapi/)
 <!-- BLOG-POST-LIST:END -->
