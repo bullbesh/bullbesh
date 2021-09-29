@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding at college](https://www.reddit.com/r/Python/comments/py62ru/coding_at_college/)
+- [Panda grammar 🤔](https://www.reddit.com/r/Python/comments/py5gfj/panda_grammar/)
 - [Hey guys, I am taking an intro to python class and really want to understand the foundation. Someone please explain to me thoroughly what I did wrong.](https://www.reddit.com/r/Python/comments/py4w68/hey_guys_i_am_taking_an_intro_to_python_class_and/)
 - [How to keep efficiently & effectively keep Pythoning without a computer?](https://www.reddit.com/r/Python/comments/py44g2/how_to_keep_efficiently_effectively_keep/)
 - [Space Science with Python - Part 3: Setup Remote Containers](https://www.reddit.com/r/Python/comments/py3prj/space_science_with_python_part_3_setup_remote/)
-- [Just starting out learning](https://www.reddit.com/r/Python/comments/py2oiu/just_starting_out_learning/)
-- [Hi,i am a begineer .I finished learning python basics.](https://www.reddit.com/r/Python/comments/py1m20/hii_am_a_begineer_i_finished_learning_python/)
 <!-- BLOG-POST-LIST:END -->
