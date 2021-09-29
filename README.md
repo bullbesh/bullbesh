@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kinda proud of this :)](https://www.reddit.com/r/Python/comments/pxojip/kinda_proud_of_this/)
+- [Guide to the python import system](https://www.reddit.com/r/Python/comments/pxohhc/guide_to_the_python_import_system/)
+- [Selenium Tor Driver?](https://www.reddit.com/r/Python/comments/pxo1zu/selenium_tor_driver/)
 - [Trying to understand this error...](https://www.reddit.com/r/Python/comments/pxlw42/trying_to_understand_this_error/)
 - [made a python game](https://www.reddit.com/r/Python/comments/pxj9x0/made_a_python_game/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/pxj9ca/wednesday_daily_thread_beginner_questions/)
-- [PCAP - Programming Essentials In Python](https://www.reddit.com/r/Python/comments/pxit0a/pcap_programming_essentials_in_python/)
-- [how to plot a graph of these TSX Index?](https://www.reddit.com/r/Python/comments/pxiqfi/how_to_plot_a_graph_of_these_tsx_index/)
 <!-- BLOG-POST-LIST:END -->
