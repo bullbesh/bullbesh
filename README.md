@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [made a python game](https://www.reddit.com/r/Python/comments/pxj9x0/made_a_python_game/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/pxj9ca/wednesday_daily_thread_beginner_questions/)
+- [PCAP - Programming Essentials In Python](https://www.reddit.com/r/Python/comments/pxit0a/pcap_programming_essentials_in_python/)
+- [how to plot a graph of these TSX Index?](https://www.reddit.com/r/Python/comments/pxiqfi/how_to_plot_a_graph_of_these_tsx_index/)
 - [CLI UI library similar to BubbleTea](https://www.reddit.com/r/Python/comments/pxhlzu/cli_ui_library_similar_to_bubbletea/)
-- [How did you start learning Python?](https://www.reddit.com/r/Python/comments/pxd50l/how_did_you_start_learning_python/)
-- [How to scrape emails from Twitter using python](https://www.reddit.com/r/Python/comments/pxd38a/how_to_scrape_emails_from_twitter_using_python/)
-- [A short introduction to RabbitMQ](https://www.reddit.com/r/Python/comments/pxcwr3/a_short_introduction_to_rabbitmq/)
-- [Objconf - Object Configuration for Python](https://www.reddit.com/r/Python/comments/pxcmhx/objconf_object_configuration_for_python/)
 <!-- BLOG-POST-LIST:END -->
