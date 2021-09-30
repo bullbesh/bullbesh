@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Spatial Analysis and Geospatial Data Science](https://www.reddit.com/r/Python/comments/pyux1s/learn_spatial_analysis_and_geospatial_data_science/)
+- [Self-hosted temp mail](https://www.reddit.com/r/Python/comments/pyup8r/selfhosted_temp_mail/)
+- [Is this a flaw or just a mistake of mine?](https://www.reddit.com/r/Python/comments/pyudzm/is_this_a_flaw_or_just_a_mistake_of_mine/)
+- [How I created a bot in python to participate in NFT giveaways](https://www.reddit.com/r/Python/comments/pyud1l/how_i_created_a_bot_in_python_to_participate_in/)
 - [Cyber-Powered PC Builder: Find your ideal PC at the best possible price!](https://www.reddit.com/r/Python/comments/pyu7nl/cyberpowered_pc_builder_find_your_ideal_pc_at_the/)
-- [I made a script to 'lookup' the url for specific Netflix's genres](https://www.reddit.com/r/Python/comments/pyty38/i_made_a_script_to_lookup_the_url_for_specific/)
-- [node crypto js decryption in pycryptodomex python](https://www.reddit.com/r/Python/comments/pysv9m/node_crypto_js_decryption_in_pycryptodomex_python/)
-- [Is anyone using Django and Go in the same production setup?](https://www.reddit.com/r/Python/comments/pysm6n/is_anyone_using_django_and_go_in_the_same/)
-- [AutoDeploy - an automated mlops library.](https://www.reddit.com/r/Python/comments/pyq36q/autodeploy_an_automated_mlops_library/)
 <!-- BLOG-POST-LIST:END -->
