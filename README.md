@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cyber-Powered PC Builder: Find your ideal PC at the best possible price!](https://www.reddit.com/r/Python/comments/pyu7nl/cyberpowered_pc_builder_find_your_ideal_pc_at_the/)
+- [I made a script to 'lookup' the url for specific Netflix's genres](https://www.reddit.com/r/Python/comments/pyty38/i_made_a_script_to_lookup_the_url_for_specific/)
 - [node crypto js decryption in pycryptodomex python](https://www.reddit.com/r/Python/comments/pysv9m/node_crypto_js_decryption_in_pycryptodomex_python/)
 - [Is anyone using Django and Go in the same production setup?](https://www.reddit.com/r/Python/comments/pysm6n/is_anyone_using_django_and_go_in_the_same/)
 - [AutoDeploy - an automated mlops library.](https://www.reddit.com/r/Python/comments/pyq36q/autodeploy_an_automated_mlops_library/)
-- [My first project - Pytracker](https://www.reddit.com/r/Python/comments/pyoj3i/my_first_project_pytracker/)
-- [Draw Love Heart shape in Python](https://www.reddit.com/r/Python/comments/pynuk2/draw_love_heart_shape_in_python/)
 <!-- BLOG-POST-LIST:END -->
