@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gunicorn vs Python GIL - Deep Dive](https://www.reddit.com/r/Python/comments/pykjk9/gunicorn_vs_python_gil_deep_dive/)
+- [Writing elegant code with map, filter, and reduce in Python](https://www.reddit.com/r/Python/comments/pykhcw/writing_elegant_code_with_map_filter_and_reduce/)
+- [Professional-grade mypy configuration](https://www.reddit.com/r/Python/comments/pyk3s1/professionalgrade_mypy_configuration/)
+- [Help for installing Scikit-learn in M1 Macbook Air](https://www.reddit.com/r/Python/comments/pyjywk/help_for_installing_scikitlearn_in_m1_macbook_air/)
 - [Pandas in Production Software](https://www.reddit.com/r/Python/comments/pyjls0/pandas_in_production_software/)
-- [Solve differential equations with Python and LLVM](https://www.reddit.com/r/Python/comments/pyhftk/solve_differential_equations_with_python_and_llvm/)
-- [Python Pandas csv file error](https://www.reddit.com/r/Python/comments/pyh44l/python_pandas_csv_file_error/)
-- [pyrustic/litemark: Lightweight Markdown dialect for Python desktop apps](https://www.reddit.com/r/Python/comments/pygaep/pyrusticlitemark_lightweight_markdown_dialect_for/)
-- [Mypy does not work - in general](https://www.reddit.com/r/Python/comments/pyfzn1/mypy_does_not_work_in_general/)
 <!-- BLOG-POST-LIST:END -->
