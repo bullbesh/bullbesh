@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Channel 'Current Video' Downloader](https://www.reddit.com/r/Python/comments/pycpir/youtube_channel_current_video_downloader/)
 - [Openpyxl question](https://www.reddit.com/r/Python/comments/pybkqd/openpyxl_question/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/py7xbu/thursday_daily_thread_python_careers_courses_and/)
 - [Coding at college](https://www.reddit.com/r/Python/comments/py62ru/coding_at_college/)
 - [Panda grammar 🤔](https://www.reddit.com/r/Python/comments/py5gfj/panda_grammar/)
-- [How to keep efficiently & effectively keep Pythoning without a computer?](https://www.reddit.com/r/Python/comments/py44g2/how_to_keep_efficiently_effectively_keep/)
 <!-- BLOG-POST-LIST:END -->
