@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote this code to help myself study for GRE exams. Might come handy for someone over here.](https://www.reddit.com/r/Python/comments/pye6ml/i_wrote_this_code_to_help_myself_study_for_gre/)
 - [YouTube Channel 'Current Video' Downloader](https://www.reddit.com/r/Python/comments/pycpir/youtube_channel_current_video_downloader/)
 - [Openpyxl question](https://www.reddit.com/r/Python/comments/pybkqd/openpyxl_question/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/py7xbu/thursday_daily_thread_python_careers_courses_and/)
-- [Coding at college](https://www.reddit.com/r/Python/comments/py62ru/coding_at_college/)
 - [Panda grammar 🤔](https://www.reddit.com/r/Python/comments/py5gfj/panda_grammar/)
 <!-- BLOG-POST-LIST:END -->
