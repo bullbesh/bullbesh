@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [node crypto js decryption in pycryptodomex python](https://www.reddit.com/r/Python/comments/pysv9m/node_crypto_js_decryption_in_pycryptodomex_python/)
+- [Is anyone using Django and Go in the same production setup?](https://www.reddit.com/r/Python/comments/pysm6n/is_anyone_using_django_and_go_in_the_same/)
 - [AutoDeploy - an automated mlops library.](https://www.reddit.com/r/Python/comments/pyq36q/autodeploy_an_automated_mlops_library/)
 - [My first project - Pytracker](https://www.reddit.com/r/Python/comments/pyoj3i/my_first_project_pytracker/)
 - [Draw Love Heart shape in Python](https://www.reddit.com/r/Python/comments/pynuk2/draw_love_heart_shape_in_python/)
-- [I am giving my Python course on algorithmic Trading for the first days if you have a feedback](https://www.reddit.com/r/Python/comments/pylub8/i_am_giving_my_python_course_on_algorithmic/)
-- [How SQL injection is explored: using IBM and Python as example](https://www.reddit.com/r/Python/comments/pyltj7/how_sql_injection_is_explored_using_ibm_and/)
 <!-- BLOG-POST-LIST:END -->
