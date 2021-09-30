@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first project - Pytracker](https://www.reddit.com/r/Python/comments/pyoj3i/my_first_project_pytracker/)
 - [Draw Love Heart shape in Python](https://www.reddit.com/r/Python/comments/pynuk2/draw_love_heart_shape_in_python/)
 - [I am giving my Python course on algorithmic Trading for the first days if you have a feedback](https://www.reddit.com/r/Python/comments/pylub8/i_am_giving_my_python_course_on_algorithmic/)
 - [How SQL injection is explored: using IBM and Python as example](https://www.reddit.com/r/Python/comments/pyltj7/how_sql_injection_is_explored_using_ibm_and/)
 - [How I create reliable builds for my game with Buildout and Python scripting](https://www.reddit.com/r/Python/comments/pyl99b/how_i_create_reliable_builds_for_my_game_with/)
-- [I made a short RPG battle](https://www.reddit.com/r/Python/comments/pyksat/i_made_a_short_rpg_battle/)
 <!-- BLOG-POST-LIST:END -->
