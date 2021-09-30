@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am giving my Python course on algorithmic Trading for the first days if you have a feedback](https://www.reddit.com/r/Python/comments/pylub8/i_am_giving_my_python_course_on_algorithmic/)
+- [How SQL injection is explored: using IBM and Python as example](https://www.reddit.com/r/Python/comments/pyltj7/how_sql_injection_is_explored_using_ibm_and/)
+- [How I create reliable builds for my game with Buildout and Python scripting](https://www.reddit.com/r/Python/comments/pyl99b/how_i_create_reliable_builds_for_my_game_with/)
+- [I made a short RPG battle](https://www.reddit.com/r/Python/comments/pyksat/i_made_a_short_rpg_battle/)
 - [Gunicorn vs Python GIL - Deep Dive](https://www.reddit.com/r/Python/comments/pykjk9/gunicorn_vs_python_gil_deep_dive/)
-- [Writing elegant code with map, filter, and reduce in Python](https://www.reddit.com/r/Python/comments/pykhcw/writing_elegant_code_with_map_filter_and_reduce/)
-- [Professional-grade mypy configuration](https://www.reddit.com/r/Python/comments/pyk3s1/professionalgrade_mypy_configuration/)
-- [Help for installing Scikit-learn in M1 Macbook Air](https://www.reddit.com/r/Python/comments/pyjywk/help_for_installing_scikitlearn_in_m1_macbook_air/)
-- [Pandas in Production Software](https://www.reddit.com/r/Python/comments/pyjls0/pandas_in_production_software/)
 <!-- BLOG-POST-LIST:END -->
