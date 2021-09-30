@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mypy does not work - in general](https://www.reddit.com/r/Python/comments/pyfzn1/mypy_does_not_work_in_general/)
+- [Writing Python Extensions in Assembly](https://www.reddit.com/r/Python/comments/pyfwy9/writing_python_extensions_in_assembly/)
+- [Python behind the scenes #13: the GIL and its effects on Python multithreading](https://www.reddit.com/r/Python/comments/pyfn3h/python_behind_the_scenes_13_the_gil_and_its/)
+- [Tips for saving memory with pandas](https://www.reddit.com/r/Python/comments/pyfm4c/tips_for_saving_memory_with_pandas/)
 - [Nested FastAPI REST API calls slow down with every nested level](https://www.reddit.com/r/Python/comments/pyfanl/nested_fastapi_rest_api_calls_slow_down_with/)
-- [I wrote this code to help myself study for GRE exams. Might come handy for someone over here.](https://www.reddit.com/r/Python/comments/pye6ml/i_wrote_this_code_to_help_myself_study_for_gre/)
-- [YouTube Channel 'Current Video' Downloader](https://www.reddit.com/r/Python/comments/pycpir/youtube_channel_current_video_downloader/)
-- [Openpyxl question](https://www.reddit.com/r/Python/comments/pybkqd/openpyxl_question/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/py7xbu/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
