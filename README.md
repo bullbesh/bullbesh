@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Should I start with Python?](https://www.reddit.com/r/Python/comments/pzjilk/should_i_start_with_python/)
 - [My first python package (progressbars)!](https://www.reddit.com/r/Python/comments/pzgalr/my_first_python_package_progressbars/)
 - [Advice for beginners](https://www.reddit.com/r/Python/comments/pzfh1c/advice_for_beginners/)
 - [What do you think about pandas multiindex?](https://www.reddit.com/r/Python/comments/pzejk7/what_do_you_think_about_pandas_multiindex/)
 - [FOSS Fiesta](https://www.reddit.com/r/Python/comments/pzecl2/foss_fiesta/)
-- [Flask 2 and Vue.js simple TODO project](https://www.reddit.com/r/Python/comments/pzdcrr/flask_2_and_vuejs_simple_todo_project/)
 <!-- BLOG-POST-LIST:END -->
