@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Beginner to Advanced by Bryan Cairns](https://www.reddit.com/r/Python/comments/pz6wv7/python_beginner_to_advanced_by_bryan_cairns/)
+- [Bash vs. Python vs. JavaScript: Which Is Better for Automation?](https://www.reddit.com/r/Python/comments/pz6n86/bash_vs_python_vs_javascript_which_is_better_for/)
+- [Open-source Python projects to celebrate Hacktoberfest!](https://www.reddit.com/r/Python/comments/pz6lo4/opensource_python_projects_to_celebrate/)
+- [sphinx-codeautolink: automatic links from code examples to reference documentation](https://www.reddit.com/r/Python/comments/pz6bah/sphinxcodeautolink_automatic_links_from_code/)
 - [analysing a 2 span beam for engineers](https://www.reddit.com/r/Python/comments/pz4uxm/analysing_a_2_span_beam_for_engineers/)
-- [I'm working on visual programming for Python notebooks - alternative for node-based programming environments](https://www.reddit.com/r/Python/comments/pz4jlr/im_working_on_visual_programming_for_python/)
-- [Gentle Introduction to PCA: What Makes a Country Happy? (Animations made with Blender+Python)](https://www.reddit.com/r/Python/comments/pz25bh/gentle_introduction_to_pca_what_makes_a_country/)
-- [3 ways to test your API with Python](https://www.reddit.com/r/Python/comments/pz1wpj/3_ways_to_test_your_api_with_python/)
-- [All keyboard shortcuts for python programmers](https://www.reddit.com/r/Python/comments/pz1h3q/all_keyboard_shortcuts_for_python_programmers/)
 <!-- BLOG-POST-LIST:END -->
