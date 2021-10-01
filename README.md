@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I want to learn Python. Which Udemy course do you suggest? I am a totally NOOB :-q](https://www.reddit.com/r/Python/comments/pz106a/i_want_to_learn_python_which_udemy_course_do_you/)
 - [Implementing a Virtual CAN Bus into the CARLA Simulator using Python. A great way to experiment with manipulating vehicles with Python!](https://www.reddit.com/r/Python/comments/pz0f9e/implementing_a_virtual_can_bus_into_the_carla/)
 - [Guessing Game Discord Bot](https://www.reddit.com/r/Python/comments/pyx3aw/guessing_game_discord_bot/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/pyw36y/friday_daily_thread_free_chat_friday_daily_thread/)
-- [Learn Spatial Analysis and Geospatial Data Science](https://www.reddit.com/r/Python/comments/pyux1s/learn_spatial_analysis_and_geospatial_data_science/)
 - [Self-hosted temp mail](https://www.reddit.com/r/Python/comments/pyup8r/selfhosted_temp_mail/)
 <!-- BLOG-POST-LIST:END -->
