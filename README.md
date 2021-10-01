@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flask 2 and Vue.js simple TODO project](https://www.reddit.com/r/Python/comments/pzdcrr/flask_2_and_vuejs_simple_todo_project/)
+- [Thank you for helping me reach one million sign ups: Use code OCT2021FREE to sign up for the "Automate the Boring Stuff with Python" online course.](https://www.reddit.com/r/Python/comments/pzcxc0/thank_you_for_helping_me_reach_one_million_sign/)
 - [fliscopt : An small optimization library for flight scheduling .](https://www.reddit.com/r/Python/comments/pzc5p5/fliscopt_an_small_optimization_library_for_flight/)
 - [The Indie Python Extravaganza Book Bundle](https://www.reddit.com/r/Python/comments/pzai4q/the_indie_python_extravaganza_book_bundle/)
 - [Have you ever found yourself writing a litany of if-elif-else statements peppered with isinstance() calls? Try singledispatch instead!](https://www.reddit.com/r/Python/comments/pza630/have_you_ever_found_yourself_writing_a_litany_of/)
-- [Binomial Distribution and Binomial Test in Python](https://www.reddit.com/r/Python/comments/pz94aj/binomial_distribution_and_binomial_test_in_python/)
-- [What are your CI tests for your Python Project](https://www.reddit.com/r/Python/comments/pz8pzy/what_are_your_ci_tests_for_your_python_project/)
 <!-- BLOG-POST-LIST:END -->
