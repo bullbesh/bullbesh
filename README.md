@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Node.js 14 is over 20x faster than Python3.8 for fib(n) | Not](https://www.reddit.com/r/Python/comments/pzfo1n/nodejs_14_is_over_20x_faster_than_python38_for/)
+- [Advice for beginners](https://www.reddit.com/r/Python/comments/pzfh1c/advice_for_beginners/)
 - [What do you think about pandas multiindex?](https://www.reddit.com/r/Python/comments/pzejk7/what_do_you_think_about_pandas_multiindex/)
 - [FOSS Fiesta](https://www.reddit.com/r/Python/comments/pzecl2/foss_fiesta/)
 - [Flask 2 and Vue.js simple TODO project](https://www.reddit.com/r/Python/comments/pzdcrr/flask_2_and_vuejs_simple_todo_project/)
-- [Thank you for helping me reach one million sign ups: Use code OCT2021FREE to sign up for the "Automate the Boring Stuff with Python" online course.](https://www.reddit.com/r/Python/comments/pzcxc0/thank_you_for_helping_me_reach_one_million_sign/)
-- [fliscopt : An small optimization library for flight scheduling .](https://www.reddit.com/r/Python/comments/pzc5p5/fliscopt_an_small_optimization_library_for_flight/)
 <!-- BLOG-POST-LIST:END -->
