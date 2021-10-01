@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Guessing Game Discord Bot](https://www.reddit.com/r/Python/comments/pyx3aw/guessing_game_discord_bot/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/pyw36y/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Learn Spatial Analysis and Geospatial Data Science](https://www.reddit.com/r/Python/comments/pyux1s/learn_spatial_analysis_and_geospatial_data_science/)
 - [Self-hosted temp mail](https://www.reddit.com/r/Python/comments/pyup8r/selfhosted_temp_mail/)
 - [Is this a flaw or just a mistake of mine?](https://www.reddit.com/r/Python/comments/pyudzm/is_this_a_flaw_or_just_a_mistake_of_mine/)
-- [How I created a bot in python to participate in NFT giveaways](https://www.reddit.com/r/Python/comments/pyud1l/how_i_created_a_bot_in_python_to_participate_in/)
-- [Cyber-Powered PC Builder: Find your ideal PC at the best possible price!](https://www.reddit.com/r/Python/comments/pyu7nl/cyberpowered_pc_builder_find_your_ideal_pc_at_the/)
 <!-- BLOG-POST-LIST:END -->
