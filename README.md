@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Indie Python Extravaganza Book Bundle](https://www.reddit.com/r/Python/comments/pzai4q/the_indie_python_extravaganza_book_bundle/)
 - [Have you ever found yourself writing a litany of if-elif-else statements peppered with isinstance() calls? Try singledispatch instead!](https://www.reddit.com/r/Python/comments/pza630/have_you_ever_found_yourself_writing_a_litany_of/)
 - [Binomial Distribution and Binomial Test in Python](https://www.reddit.com/r/Python/comments/pz94aj/binomial_distribution_and_binomial_test_in_python/)
 - [What are your CI tests for your Python Project](https://www.reddit.com/r/Python/comments/pz8pzy/what_are_your_ci_tests_for_your_python_project/)
 - [Data Manipulation/Analysis - Python vs. Excel Question](https://www.reddit.com/r/Python/comments/pz8jak/data_manipulationanalysis_python_vs_excel_question/)
-- [I made another Python RPG battle](https://www.reddit.com/r/Python/comments/pz8i00/i_made_another_python_rpg_battle/)
 <!-- BLOG-POST-LIST:END -->
