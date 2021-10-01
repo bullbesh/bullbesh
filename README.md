@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are your CI tests for your Python Project](https://www.reddit.com/r/Python/comments/pz8pzy/what_are_your_ci_tests_for_your_python_project/)
+- [Data Manipulation/Analysis - Python vs. Excel Question](https://www.reddit.com/r/Python/comments/pz8jak/data_manipulationanalysis_python_vs_excel_question/)
+- [I made another Python RPG battle](https://www.reddit.com/r/Python/comments/pz8i00/i_made_another_python_rpg_battle/)
 - [Best Data Analysis Environments?](https://www.reddit.com/r/Python/comments/pz7wtj/best_data_analysis_environments/)
 - [In your opinion what are the essential modules/frameworks?](https://www.reddit.com/r/Python/comments/pz7uw7/in_your_opinion_what_are_the_essential/)
-- [What are some good books for beginners to start learning Python with?](https://www.reddit.com/r/Python/comments/pz7ryn/what_are_some_good_books_for_beginners_to_start/)
-- [Make Python Talk ebook](https://www.reddit.com/r/Python/comments/pz7ef9/make_python_talk_ebook/)
-- [Backend testing checklist](https://www.reddit.com/r/Python/comments/pz7dhw/backend_testing_checklist/)
 <!-- BLOG-POST-LIST:END -->
