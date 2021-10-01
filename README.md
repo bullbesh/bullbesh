@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [analysing a 2 span beam for engineers](https://www.reddit.com/r/Python/comments/pz4uxm/analysing_a_2_span_beam_for_engineers/)
+- [I'm working on visual programming for Python notebooks - alternative for node-based programming environments](https://www.reddit.com/r/Python/comments/pz4jlr/im_working_on_visual_programming_for_python/)
 - [Gentle Introduction to PCA: What Makes a Country Happy? (Animations made with Blender+Python)](https://www.reddit.com/r/Python/comments/pz25bh/gentle_introduction_to_pca_what_makes_a_country/)
 - [3 ways to test your API with Python](https://www.reddit.com/r/Python/comments/pz1wpj/3_ways_to_test_your_api_with_python/)
 - [All keyboard shortcuts for python programmers](https://www.reddit.com/r/Python/comments/pz1h3q/all_keyboard_shortcuts_for_python_programmers/)
-- [I want to learn Python. Which Udemy course do you suggest? I am a totally NOOB :-q](https://www.reddit.com/r/Python/comments/pz106a/i_want_to_learn_python_which_udemy_course_do_you/)
-- [Implementing a Virtual CAN Bus into the CARLA Simulator using Python. A great way to experiment with manipulating vehicles with Python!](https://www.reddit.com/r/Python/comments/pz0f9e/implementing_a_virtual_can_bus_into_the_carla/)
 <!-- BLOG-POST-LIST:END -->
