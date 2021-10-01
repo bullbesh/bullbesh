@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Beginner to Advanced by Bryan Cairns](https://www.reddit.com/r/Python/comments/pz6wv7/python_beginner_to_advanced_by_bryan_cairns/)
-- [Bash vs. Python vs. JavaScript: Which Is Better for Automation?](https://www.reddit.com/r/Python/comments/pz6n86/bash_vs_python_vs_javascript_which_is_better_for/)
-- [Open-source Python projects to celebrate Hacktoberfest!](https://www.reddit.com/r/Python/comments/pz6lo4/opensource_python_projects_to_celebrate/)
-- [sphinx-codeautolink: automatic links from code examples to reference documentation](https://www.reddit.com/r/Python/comments/pz6bah/sphinxcodeautolink_automatic_links_from_code/)
-- [analysing a 2 span beam for engineers](https://www.reddit.com/r/Python/comments/pz4uxm/analysing_a_2_span_beam_for_engineers/)
+- [Best Data Analysis Environments?](https://www.reddit.com/r/Python/comments/pz7wtj/best_data_analysis_environments/)
+- [In your opinion what are the essential modules/frameworks?](https://www.reddit.com/r/Python/comments/pz7uw7/in_your_opinion_what_are_the_essential/)
+- [What are some good books for beginners to start learning Python with?](https://www.reddit.com/r/Python/comments/pz7ryn/what_are_some_good_books_for_beginners_to_start/)
+- [Make Python Talk ebook](https://www.reddit.com/r/Python/comments/pz7ef9/make_python_talk_ebook/)
+- [Backend testing checklist](https://www.reddit.com/r/Python/comments/pz7dhw/backend_testing_checklist/)
 <!-- BLOG-POST-LIST:END -->
