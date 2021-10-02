@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/pzk91a/saturday_daily_thread_resource_request_and/)
+- [File Deduper and Undeduper](https://www.reddit.com/r/Python/comments/pzk16f/file_deduper_and_undeduper/)
+- [Python ASCII Art Generator.](https://www.reddit.com/r/Python/comments/pzjlhz/python_ascii_art_generator/)
 - [Should I start with Python?](https://www.reddit.com/r/Python/comments/pzjilk/should_i_start_with_python/)
 - [My first python package (progressbars)!](https://www.reddit.com/r/Python/comments/pzgalr/my_first_python_package_progressbars/)
-- [Advice for beginners](https://www.reddit.com/r/Python/comments/pzfh1c/advice_for_beginners/)
-- [What do you think about pandas multiindex?](https://www.reddit.com/r/Python/comments/pzejk7/what_do_you_think_about_pandas_multiindex/)
-- [FOSS Fiesta](https://www.reddit.com/r/Python/comments/pzecl2/foss_fiesta/)
 <!-- BLOG-POST-LIST:END -->
