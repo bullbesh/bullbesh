@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s your strategy on refactoring?](https://www.reddit.com/r/Python/comments/pzscwb/whats_your_strategy_on_refactoring/)
+- [Goofing off with pointless/inefficient nested for-loops with a fun result!](https://www.reddit.com/r/Python/comments/pzs7sw/goofing_off_with_pointlessinefficient_nested/)
 - [I love python!!](https://www.reddit.com/r/Python/comments/pzrlo0/i_love_python/)
 - [Sentiment analysis backend developed with django](https://www.reddit.com/r/Python/comments/pzqzfg/sentiment_analysis_backend_developed_with_django/)
 - [A Huge List of Python Projects for Beginners, Intermediate and Advanced Programmers](https://www.reddit.com/r/Python/comments/pzpmfu/a_huge_list_of_python_projects_for_beginners/)
-- [Build a Discord Bot with Python, Hikari, & Tanjun](https://www.reddit.com/r/Python/comments/pzossa/build_a_discord_bot_with_python_hikari_tanjun/)
-- [Any IBM employees willing to access something off the git for me?](https://www.reddit.com/r/Python/comments/pzo6ht/any_ibm_employees_willing_to_access_something_off/)
 <!-- BLOG-POST-LIST:END -->
