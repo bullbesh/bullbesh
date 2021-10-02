@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recursion in Python](https://www.reddit.com/r/Python/comments/q00ttp/recursion_in_python/)
 - [Weekend Project -> Created 2048 Game with Pygame](https://www.reddit.com/r/Python/comments/pzzht5/weekend_project_created_2048_game_with_pygame/)
 - [I made a live logger for your projects](https://www.reddit.com/r/Python/comments/pzyyx3/i_made_a_live_logger_for_your_projects/)
 - [Why does it feel like everyone is trying to play code golf??](https://www.reddit.com/r/Python/comments/pzylot/why_does_it_feel_like_everyone_is_trying_to_play/)
 - [10+ maze algorithms rendered with pygame](https://www.reddit.com/r/Python/comments/pzvw7q/10_maze_algorithms_rendered_with_pygame/)
-- [Convex Hull - Python Football Data Analysis and Visualization](https://www.reddit.com/r/Python/comments/pzvktl/convex_hull_python_football_data_analysis_and/)
 <!-- BLOG-POST-LIST:END -->
