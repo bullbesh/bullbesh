@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Discord Bot with Python, Hikari, & Tanjun](https://www.reddit.com/r/Python/comments/pzossa/build_a_discord_bot_with_python_hikari_tanjun/)
 - [Any IBM employees willing to access something off the git for me?](https://www.reddit.com/r/Python/comments/pzo6ht/any_ibm_employees_willing_to_access_something_off/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/pzk91a/saturday_daily_thread_resource_request_and/)
 - [File Deduper and Undeduper](https://www.reddit.com/r/Python/comments/pzk16f/file_deduper_and_undeduper/)
 - [Python ASCII Art Generator.](https://www.reddit.com/r/Python/comments/pzjlhz/python_ascii_art_generator/)
-- [Should I start with Python?](https://www.reddit.com/r/Python/comments/pzjilk/should_i_start_with_python/)
 <!-- BLOG-POST-LIST:END -->
