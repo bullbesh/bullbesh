@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first open source app that visualises Urban Data! (Dashmap.io)](https://www.reddit.com/r/Python/comments/pzsyfc/my_first_open_source_app_that_visualises_urban/)
+- [Problems with Tensorflow](https://www.reddit.com/r/Python/comments/pzsndt/problems_with_tensorflow/)
 - [What’s your strategy on refactoring?](https://www.reddit.com/r/Python/comments/pzscwb/whats_your_strategy_on_refactoring/)
 - [Goofing off with pointless/inefficient nested for-loops with a fun result!](https://www.reddit.com/r/Python/comments/pzs7sw/goofing_off_with_pointlessinefficient_nested/)
 - [I love python!!](https://www.reddit.com/r/Python/comments/pzrlo0/i_love_python/)
-- [Sentiment analysis backend developed with django](https://www.reddit.com/r/Python/comments/pzqzfg/sentiment_analysis_backend_developed_with_django/)
-- [A Huge List of Python Projects for Beginners, Intermediate and Advanced Programmers](https://www.reddit.com/r/Python/comments/pzpmfu/a_huge_list_of_python_projects_for_beginners/)
 <!-- BLOG-POST-LIST:END -->
