@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Most Fun Python Projects I Have Built Thus Far](https://www.reddit.com/r/Python/comments/q02h7i/the_most_fun_python_projects_i_have_built_thus_far/)
+- [Building And Deploying Rock Paper Scissors With Python FastAPI And Deta](https://www.reddit.com/r/Python/comments/q023hn/building_and_deploying_rock_paper_scissors_with/)
+- [The best way to start learning python?](https://www.reddit.com/r/Python/comments/q01kar/the_best_way_to_start_learning_python/)
+- [Bizarre .filter() output](https://www.reddit.com/r/Python/comments/q01iut/bizarre_filter_output/)
 - [Recursion in Python](https://www.reddit.com/r/Python/comments/q00ttp/recursion_in_python/)
-- [Weekend Project -> Created 2048 Game with Pygame](https://www.reddit.com/r/Python/comments/pzzht5/weekend_project_created_2048_game_with_pygame/)
-- [I made a live logger for your projects](https://www.reddit.com/r/Python/comments/pzyyx3/i_made_a_live_logger_for_your_projects/)
-- [Why does it feel like everyone is trying to play code golf??](https://www.reddit.com/r/Python/comments/pzylot/why_does_it_feel_like_everyone_is_trying_to_play/)
-- [10+ maze algorithms rendered with pygame](https://www.reddit.com/r/Python/comments/pzvw7q/10_maze_algorithms_rendered_with_pygame/)
 <!-- BLOG-POST-LIST:END -->
