@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [(100% Free) Automate the Boring Stuff with Python Programming - Free Udemy Course](https://www.reddit.com/r/Python/comments/q0fk5g/100_free_automate_the_boring_stuff_with_python/)
+- [Python Coding Style Compliance on Stack Overflow · It Will Never Work in Theory](https://www.reddit.com/r/Python/comments/q0fiet/python_coding_style_compliance_on_stack_overflow/)
 - [How do today's software developers proceed from design to code?](https://www.reddit.com/r/Python/comments/q0dvc8/how_do_todays_software_developers_proceed_from/)
 - [Cool projects?](https://www.reddit.com/r/Python/comments/q0ds7s/cool_projects/)
 - [I made a live logger for your projects](https://www.reddit.com/r/Python/comments/q0ds4q/i_made_a_live_logger_for_your_projects/)
-- [Hey, I made an odd number based fractal star creator. It can create any type of fractal stars based on any base polygon](https://www.reddit.com/r/Python/comments/q0cgx1/hey_i_made_an_odd_number_based_fractal_star/)
-- [Why doesnt Python add itself to PATH on Windows?](https://www.reddit.com/r/Python/comments/q0ax13/why_doesnt_python_add_itself_to_path_on_windows/)
 <!-- BLOG-POST-LIST:END -->
