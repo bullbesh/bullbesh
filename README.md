@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [how can I do this, I dont now how to save more than one number in just one input](https://www.reddit.com/r/Python/comments/q07164/how_can_i_do_this_i_dont_now_how_to_save_more/)
+- [Twitter Bot to do Reverse Image Search of Tweeted Images](https://www.reddit.com/r/Python/comments/q06ic8/twitter_bot_to_do_reverse_image_search_of_tweeted/)
+- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/q06gvz/sunday_daily_thread_whats_everyone_working_on/)
 - [How fun is Python in reality?](https://www.reddit.com/r/Python/comments/q03gjh/how_fun_is_python_in_reality/)
 - [The Most Fun Python Projects I Have Built Thus Far](https://www.reddit.com/r/Python/comments/q02h7i/the_most_fun_python_projects_i_have_built_thus_far/)
-- [Building And Deploying Rock Paper Scissors With Python FastAPI And Deta](https://www.reddit.com/r/Python/comments/q023hn/building_and_deploying_rock_paper_scissors_with/)
-- [The best way to start learning python?](https://www.reddit.com/r/Python/comments/q01kar/the_best_way_to_start_learning_python/)
-- [Bizarre .filter() output](https://www.reddit.com/r/Python/comments/q01iut/bizarre_filter_output/)
 <!-- BLOG-POST-LIST:END -->
