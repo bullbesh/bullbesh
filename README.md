@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [textAdventure](https://www.reddit.com/r/Python/comments/q0gjnh/textadventure/)
+- [My first turtle project with python](https://www.reddit.com/r/Python/comments/q0g4ys/my_first_turtle_project_with_python/)
+- [A SQL ORM and migrations tool for a Django lover in a non-Django project?](https://www.reddit.com/r/Python/comments/q0g1aa/a_sql_orm_and_migrations_tool_for_a_django_lover/)
+- [Writing Your Own Debugger In Python](https://www.reddit.com/r/Python/comments/q0fuuy/writing_your_own_debugger_in_python/)
 - [(100% Free) Automate the Boring Stuff with Python Programming - Free Udemy Course](https://www.reddit.com/r/Python/comments/q0fk5g/100_free_automate_the_boring_stuff_with_python/)
-- [Python Coding Style Compliance on Stack Overflow · It Will Never Work in Theory](https://www.reddit.com/r/Python/comments/q0fiet/python_coding_style_compliance_on_stack_overflow/)
-- [How do today's software developers proceed from design to code?](https://www.reddit.com/r/Python/comments/q0dvc8/how_do_todays_software_developers_proceed_from/)
-- [Cool projects?](https://www.reddit.com/r/Python/comments/q0ds7s/cool_projects/)
-- [I made a live logger for your projects](https://www.reddit.com/r/Python/comments/q0ds4q/i_made_a_live_logger_for_your_projects/)
 <!-- BLOG-POST-LIST:END -->
