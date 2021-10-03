@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just released lazy_table, a Python wrapper for pretty-streaming tables to the CLI!](https://www.reddit.com/r/Python/comments/q0j7dt/i_just_released_lazy_table_a_python_wrapper_for/)
 - [The PyJamas Online Conference on Dec. 4th has extended the deadline to submit a talk until Oct. 18th. If you ever wanted to hold a Python related talk, here your chance: This volunteer-run conference is free and beginner friendly.](https://www.reddit.com/r/Python/comments/q0ibe5/the_pyjamas_online_conference_on_dec_4th_has/)
 - [textAdventure](https://www.reddit.com/r/Python/comments/q0gjnh/textadventure/)
 - [My first turtle project with python](https://www.reddit.com/r/Python/comments/q0g4ys/my_first_turtle_project_with_python/)
 - [A SQL ORM and migrations tool for a Django lover in a non-Django project?](https://www.reddit.com/r/Python/comments/q0g1aa/a_sql_orm_and_migrations_tool_for_a_django_lover/)
-- [Writing Your Own Debugger In Python](https://www.reddit.com/r/Python/comments/q0fuuy/writing_your_own_debugger_in_python/)
 <!-- BLOG-POST-LIST:END -->
