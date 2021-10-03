@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Mind-bending metaclasses - adding function overloads to Python](https://www.reddit.com/r/Python/comments/q0mm14/mindbending_metaclasses_adding_function_overloads/)
+- [Python 3.10 Release Stream](https://www.reddit.com/r/Python/comments/q0o6ud/python_310_release_stream/)
+- [I made a CLI tool that tells you the weather!](https://www.reddit.com/r/Python/comments/q0nq26/i_made_a_cli_tool_that_tells_you_the_weather/)
 - [Anyone using Pycharm?](https://www.reddit.com/r/Python/comments/q0kami/anyone_using_pycharm/)
 - [Stuck on the 2d array spiral traverse problem.](https://www.reddit.com/r/Python/comments/q0k2vs/stuck_on_the_2d_array_spiral_traverse_problem/)
 - [I just released lazy_table, a Python wrapper for pretty-streaming tables to the CLI!](https://www.reddit.com/r/Python/comments/q0j7dt/i_just_released_lazy_table_a_python_wrapper_for/)
-- [The PyJamas Online Conference on Dec. 4th has extended the deadline to submit a talk until Oct. 18th. If you ever wanted to hold a Python related talk, here your chance: This volunteer-run conference is free and beginner friendly.](https://www.reddit.com/r/Python/comments/q0ibe5/the_pyjamas_online_conference_on_dec_4th_has/)
 <!-- BLOG-POST-LIST:END -->
