@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [No idea what to do next](https://www.reddit.com/r/Python/comments/q0knlw/no_idea_what_to_do_next/)
+- [Mind-bending metaclasses - adding function overloads to Python](https://www.reddit.com/r/Python/comments/q0mm14/mindbending_metaclasses_adding_function_overloads/)
 - [Anyone using Pycharm?](https://www.reddit.com/r/Python/comments/q0kami/anyone_using_pycharm/)
 - [Stuck on the 2d array spiral traverse problem.](https://www.reddit.com/r/Python/comments/q0k2vs/stuck_on_the_2d_array_spiral_traverse_problem/)
 - [I just released lazy_table, a Python wrapper for pretty-streaming tables to the CLI!](https://www.reddit.com/r/Python/comments/q0j7dt/i_just_released_lazy_table_a_python_wrapper_for/)
