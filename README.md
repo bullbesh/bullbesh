@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Encrypt and Decrypt PDF Files using Python | iRead](https://www.reddit.com/r/Python/comments/q0ae8a/encrypt_and_decrypt_pdf_files_using_python_iread/)
 - [Just started learning Python through a course on Udemy!](https://www.reddit.com/r/Python/comments/q07rn8/just_started_learning_python_through_a_course_on/)
 - [Checking Costco Inventory](https://www.reddit.com/r/Python/comments/q07mdb/checking_costco_inventory/)
 - [how can I do this, I dont now how to save more than one number in just one input](https://www.reddit.com/r/Python/comments/q07164/how_can_i_do_this_i_dont_now_how_to_save_more/)
 - [Twitter Bot to do Reverse Image Search of Tweeted Images](https://www.reddit.com/r/Python/comments/q06ic8/twitter_bot_to_do_reverse_image_search_of_tweeted/)
-- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/q06gvz/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
