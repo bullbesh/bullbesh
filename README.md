@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 11 Python Libraries for Mathematics and Computation](https://www.reddit.com/r/Python/comments/q0pa6d/top_11_python_libraries_for_mathematics_and/)
+- [Yet Another Caching Library](https://www.reddit.com/r/Python/comments/q0ot14/yet_another_caching_library/)
 - [Python 3.10 Release Stream](https://www.reddit.com/r/Python/comments/q0o6ud/python_310_release_stream/)
 - [I made a CLI tool that tells you the weather!](https://www.reddit.com/r/Python/comments/q0nq26/i_made_a_cli_tool_that_tells_you_the_weather/)
 - [Anyone using Pycharm?](https://www.reddit.com/r/Python/comments/q0kami/anyone_using_pycharm/)
-- [Stuck on the 2d array spiral traverse problem.](https://www.reddit.com/r/Python/comments/q0k2vs/stuck_on_the_2d_array_spiral_traverse_problem/)
-- [I just released lazy_table, a Python wrapper for pretty-streaming tables to the CLI!](https://www.reddit.com/r/Python/comments/q0j7dt/i_just_released_lazy_table_a_python_wrapper_for/)
 <!-- BLOG-POST-LIST:END -->
