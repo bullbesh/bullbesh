@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created this simple python program that will organise files into different folders according to file type](https://www.reddit.com/r/Python/comments/q1b5zb/i_created_this_simple_python_program_that_will/)
+- [IDE](https://www.reddit.com/r/Python/comments/q1auot/ide/)
+- [First project, looking for critique of it's Pythonicity](https://www.reddit.com/r/Python/comments/q1al7t/first_project_looking_for_critique_of_its/)
 - [Generate code from comments: Code available + Javascript [and Python] support for Codeon, a GitHub Copilot alternative.](https://www.reddit.com/r/Python/comments/q19szv/generate_code_from_comments_code_available/)
 - [Python 3.10 Release Stream — with Pablo Galindo](https://www.reddit.com/r/Python/comments/q19n58/python_310_release_stream_with_pablo_galindo/)
-- [Desktop organization with Python](https://www.reddit.com/r/Python/comments/q19h2i/desktop_organization_with_python/)
-- [I wrote a simple music bot for discord and would like to share with you guys!](https://www.reddit.com/r/Python/comments/q1909k/i_wrote_a_simple_music_bot_for_discord_and_would/)
-- [Runtype 0.2 - faster than Pydantic, highly configurable, and with unique features for working with types at runtime.](https://www.reddit.com/r/Python/comments/q183h3/runtype_02_faster_than_pydantic_highly/)
 <!-- BLOG-POST-LIST:END -->
