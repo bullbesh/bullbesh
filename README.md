@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Coverage 6.0 released](https://www.reddit.com/r/Python/comments/q17d7n/coverage_60_released/)
+- [What's new in Python 3.10 with Brandt Bucher, Sebastian Ramirez and Lukasz Llanga](https://www.reddit.com/r/Python/comments/q16hgv/whats_new_in_python_310_with_brandt_bucher/)
 - [Mastering Structural Pattern Matching](https://www.reddit.com/r/Python/comments/q169to/mastering_structural_pattern_matching/)
 - [✔ Python: How To Install Selenium](https://www.reddit.com/r/Python/comments/q14514/python_how_to_install_selenium/)
 - [How to determine the optimal number of threads to pick when doing some repeated number of async tasks?](https://www.reddit.com/r/Python/comments/q144r5/how_to_determine_the_optimal_number_of_threads_to/)
-- [A (soft) introduction to Python dependency management | Snyk](https://www.reddit.com/r/Python/comments/q1291d/a_soft_introduction_to_python_dependency/)
-- [GitHub - kitao/pyxel: A retro game engine for Python](https://www.reddit.com/r/Python/comments/q11sv5/github_kitaopyxel_a_retro_game_engine_for_python/)
 <!-- BLOG-POST-LIST:END -->
