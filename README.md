@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Large database to python - SQL advantageous? (mysql)](https://www.reddit.com/r/Python/comments/q0y4zz/large_database_to_python_sql_advantageous_mysql/)
 - [Beginner trying to learn](https://www.reddit.com/r/Python/comments/q0w5yh/beginner_trying_to_learn/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/q0tyvb/monday_daily_thread_project_ideas/)
 - [I wrote a Docker for newbies tutorial with a FastAPI project example](https://www.reddit.com/r/Python/comments/q0ss45/i_wrote_a_docker_for_newbies_tutorial_with_a/)
 - [Regarding the Trailing Comma](https://www.reddit.com/r/Python/comments/q0qhdj/regarding_the_trailing_comma/)
-- [Space Science with Python - Part 4: The Earth](https://www.reddit.com/r/Python/comments/q0px6m/space_science_with_python_part_4_the_earth/)
 <!-- BLOG-POST-LIST:END -->
