@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - kitao/pyxel: A retro game engine for Python](https://www.reddit.com/r/Python/comments/q11sv5/github_kitaopyxel_a_retro_game_engine_for_python/)
 - [Python 3.10 – Top 5 Features in the new Version](https://www.reddit.com/r/Python/comments/q103nf/python_310_top_5_features_in_the_new_version/)
 - [Im looking for some useful python bot ideas](https://www.reddit.com/r/Python/comments/q0zyvz/im_looking_for_some_useful_python_bot_ideas/)
 - [Red Engine: A scheduler for productivity.](https://www.reddit.com/r/Python/comments/q0z76j/red_engine_a_scheduler_for_productivity/)
 - [Large database to python - SQL advantageous? (mysql)](https://www.reddit.com/r/Python/comments/q0y4zz/large_database_to_python_sql_advantageous_mysql/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/q0tyvb/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
