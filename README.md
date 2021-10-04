@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [✔ Python: How To Install Selenium](https://www.reddit.com/r/Python/comments/q14514/python_how_to_install_selenium/)
+- [How to determine the optimal number of threads to pick when doing some repeated number of async tasks?](https://www.reddit.com/r/Python/comments/q144r5/how_to_determine_the_optimal_number_of_threads_to/)
 - [A (soft) introduction to Python dependency management | Snyk](https://www.reddit.com/r/Python/comments/q1291d/a_soft_introduction_to_python_dependency/)
 - [GitHub - kitao/pyxel: A retro game engine for Python](https://www.reddit.com/r/Python/comments/q11sv5/github_kitaopyxel_a_retro_game_engine_for_python/)
 - [Python 3.10 – Top 5 Features in the new Version](https://www.reddit.com/r/Python/comments/q103nf/python_310_top_5_features_in_the_new_version/)
-- [Im looking for some useful python bot ideas](https://www.reddit.com/r/Python/comments/q0zyvz/im_looking_for_some_useful_python_bot_ideas/)
-- [Red Engine: A scheduler for productivity.](https://www.reddit.com/r/Python/comments/q0z76j/red_engine_a_scheduler_for_productivity/)
 <!-- BLOG-POST-LIST:END -->
