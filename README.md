@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Runtype 0.2 - faster than Pydantic, highly configurable, and with unique features for working with types at runtime.](https://www.reddit.com/r/Python/comments/q183h3/runtype_02_faster_than_pydantic_highly/)
+- [ClointFusion Hackathon's 1st Anniversary !](https://www.reddit.com/r/Python/comments/q17xlo/clointfusion_hackathons_1st_anniversary/)
+- [8 Reasons to Start Using Pydantic to Improve Data Parsing and Validation](https://www.reddit.com/r/Python/comments/q17m70/8_reasons_to_start_using_pydantic_to_improve_data/)
 - [Coverage 6.0 released](https://www.reddit.com/r/Python/comments/q17d7n/coverage_60_released/)
 - [What's new in Python 3.10 with Brandt Bucher, Sebastian Ramirez and Lukasz Llanga](https://www.reddit.com/r/Python/comments/q16hgv/whats_new_in_python_310_with_brandt_bucher/)
-- [Mastering Structural Pattern Matching](https://www.reddit.com/r/Python/comments/q169to/mastering_structural_pattern_matching/)
-- [✔ Python: How To Install Selenium](https://www.reddit.com/r/Python/comments/q14514/python_how_to_install_selenium/)
-- [How to determine the optimal number of threads to pick when doing some repeated number of async tasks?](https://www.reddit.com/r/Python/comments/q144r5/how_to_determine_the_optimal_number_of_threads_to/)
 <!-- BLOG-POST-LIST:END -->
