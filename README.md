@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Did you know? Python is the second most in-demand programming language in 2021.](https://www.reddit.com/r/Python/comments/q1c9yf/did_you_know_python_is_the_second_most_indemand/)
+- [Would y’all be interested in a Python YouTuber that’s a fresh beginner?](https://www.reddit.com/r/Python/comments/q1dwht/would_yall_be_interested_in_a_python_youtuber/)
+- [Python 3.10 Released](https://www.reddit.com/r/Python/comments/q1dqg0/python_310_released/)
+- [Python 3.10 Released!](https://www.reddit.com/r/Python/comments/q1dqcv/python_310_released/)
 - [I created this simple python program that will organise files into different folders according to file type](https://www.reddit.com/r/Python/comments/q1b5zb/i_created_this_simple_python_program_that_will/)
 - [IDE](https://www.reddit.com/r/Python/comments/q1auot/ide/)
-- [First project, looking for critique of it's Pythonicity](https://www.reddit.com/r/Python/comments/q1al7t/first_project_looking_for_critique_of_its/)
-- [Generate code from comments: Code available + Javascript [and Python] support for Codeon, a GitHub Copilot alternative.](https://www.reddit.com/r/Python/comments/q19szv/generate_code_from_comments_code_available/)
 <!-- BLOG-POST-LIST:END -->
