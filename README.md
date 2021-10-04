@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [UdemyPy: free Udemy courses now on Twitter!](https://www.reddit.com/r/Python/comments/q1hcer/udemypy_free_udemy_courses_now_on_twitter/)
 - [How to create Windows EXEs for Python on Linux, using PyInstaller and WINE](https://www.reddit.com/r/Python/comments/q1gcec/how_to_create_windows_exes_for_python_on_linux/)
 - [I made a live logger for your projects](https://www.reddit.com/r/Python/comments/q1ez70/i_made_a_live_logger_for_your_projects/)
 - [22 Examples of Recursive Functions in Python](https://www.reddit.com/r/Python/comments/q1es2i/22_examples_of_recursive_functions_in_python/)
 - [Best engineering practices for a Python package: seeking feedback](https://www.reddit.com/r/Python/comments/q1ere4/best_engineering_practices_for_a_python_package/)
-- [Welcome to the AMA with the Core Developers and Steering Council of Python in Celebration of the 3.10 Release!](https://www.reddit.com/r/Python/comments/q1e5y0/welcome_to_the_ama_with_the_core_developers_and/)
 <!-- BLOG-POST-LIST:END -->
