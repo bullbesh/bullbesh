@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Will this subreddit crash if I put a space](https://www.reddit.com/r/Python/comments/q0zp4v/will_this_subreddit_crash_if_i_put_a_space/)
+- [Python 3.10 – Top 5 Features in the new Version](https://www.reddit.com/r/Python/comments/q103nf/python_310_top_5_features_in_the_new_version/)
+- [Im looking for some useful python bot ideas](https://www.reddit.com/r/Python/comments/q0zyvz/im_looking_for_some_useful_python_bot_ideas/)
 - [Red Engine: A scheduler for productivity.](https://www.reddit.com/r/Python/comments/q0z76j/red_engine_a_scheduler_for_productivity/)
 - [Large database to python - SQL advantageous? (mysql)](https://www.reddit.com/r/Python/comments/q0y4zz/large_database_to_python_sql_advantageous_mysql/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/q0tyvb/monday_daily_thread_project_ideas/)
-- [I wrote a Docker for newbies tutorial with a FastAPI project example](https://www.reddit.com/r/Python/comments/q0ss45/i_wrote_a_docker_for_newbies_tutorial_with_a/)
 <!-- BLOG-POST-LIST:END -->
