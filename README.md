@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Will this subreddit crash if I put a space](https://www.reddit.com/r/Python/comments/q0zp4v/will_this_subreddit_crash_if_i_put_a_space/)
+- [Red Engine: A scheduler for productivity.](https://www.reddit.com/r/Python/comments/q0z76j/red_engine_a_scheduler_for_productivity/)
 - [Large database to python - SQL advantageous? (mysql)](https://www.reddit.com/r/Python/comments/q0y4zz/large_database_to_python_sql_advantageous_mysql/)
-- [Beginner trying to learn](https://www.reddit.com/r/Python/comments/q0w5yh/beginner_trying_to_learn/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/q0tyvb/monday_daily_thread_project_ideas/)
 - [I wrote a Docker for newbies tutorial with a FastAPI project example](https://www.reddit.com/r/Python/comments/q0ss45/i_wrote_a_docker_for_newbies_tutorial_with_a/)
-- [Regarding the Trailing Comma](https://www.reddit.com/r/Python/comments/q0qhdj/regarding_the_trailing_comma/)
 <!-- BLOG-POST-LIST:END -->
