@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/q0tyvb/monday_daily_thread_project_ideas/)
 - [I wrote a Docker for newbies tutorial with a FastAPI project example](https://www.reddit.com/r/Python/comments/q0ss45/i_wrote_a_docker_for_newbies_tutorial_with_a/)
 - [Regarding the Trailing Comma](https://www.reddit.com/r/Python/comments/q0qhdj/regarding_the_trailing_comma/)
 - [Space Science with Python - Part 4: The Earth](https://www.reddit.com/r/Python/comments/q0px6m/space_science_with_python_part_4_the_earth/)
 - [Top 11 Python Libraries for Mathematics and Computation](https://www.reddit.com/r/Python/comments/q0pa6d/top_11_python_libraries_for_mathematics_and/)
-- [Yet Another Caching Library](https://www.reddit.com/r/Python/comments/q0ot14/yet_another_caching_library/)
 <!-- BLOG-POST-LIST:END -->
