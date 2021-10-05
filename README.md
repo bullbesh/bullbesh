@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker Best Practices for Python Developers](https://www.reddit.com/r/Python/comments/q1vdea/docker_best_practices_for_python_developers/)
+- [I made a live logger for your projects](https://www.reddit.com/r/Python/comments/q1v0j7/i_made_a_live_logger_for_your_projects/)
+- [Welcome to the AMA with the CPython Core Developers and Steering Council of Python in Celebration of the 3.10 Release!](https://www.reddit.com/r/Python/comments/q1uqd1/welcome_to_the_ama_with_the_cpython_core/)
+- [Python 3.10: Cool New Features for You to Try – Real Python](https://www.reddit.com/r/Python/comments/q1uetm/python_310_cool_new_features_for_you_to_try_real/)
 - [Minecraft in Python with 31 lines of code](https://www.reddit.com/r/Python/comments/q1u47d/minecraft_in_python_with_31_lines_of_code/)
-- [Making a career switch as Python data analyst/developer at age 40](https://www.reddit.com/r/Python/comments/q1tmkq/making_a_career_switch_as_python_data/)
-- [Python 3.x on BigSur](https://www.reddit.com/r/Python/comments/q1sevd/python_3x_on_bigsur/)
-- [PEP 8103 -- 2022 Term steering council election](https://www.reddit.com/r/Python/comments/q1s2df/pep_8103_2022_term_steering_council_election/)
-- [I spent several hours trying to figure out why setuptools 58.2.0 wouldn't work with a package that was asking for "setuptools<52,>=8.0"...](https://www.reddit.com/r/Python/comments/q1rv0s/i_spent_several_hours_trying_to_figure_out_why/)
 <!-- BLOG-POST-LIST:END -->
