@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[2021] 5 Phần mềm Lập trình Python phổ biến nhất](https://www.reddit.com/r/Python/comments/q1nae2/2021_5_phần_mềm_lập_trình_python_phổ_biến_nhất/)
+- [Need help for reading USB barcode scanner](https://www.reddit.com/r/Python/comments/q1n3iz/need_help_for_reading_usb_barcode_scanner/)
+- [Amazing project - Playing Atari with your hands as motion controls [project]](https://www.reddit.com/r/Python/comments/q1n2in/amazing_project_playing_atari_with_your_hands_as/)
 - [Too old to switch to computer programming by 40?](https://www.reddit.com/r/Python/comments/q1ls6q/too_old_to_switch_to_computer_programming_by_40/)
 - [MovBot - The mood Changer App using python](https://www.reddit.com/r/Python/comments/q1jey4/movbot_the_mood_changer_app_using_python/)
-- [Password Generator (Random Strings of Length)](https://www.reddit.com/r/Python/comments/q1j3xf/password_generator_random_strings_of_length/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/q1iqze/tuesday_daily_thread_advanced_questions/)
-- [Chicago Python User Group looking for speakers](https://www.reddit.com/r/Python/comments/q1iqit/chicago_python_user_group_looking_for_speakers/)
 <!-- BLOG-POST-LIST:END -->
