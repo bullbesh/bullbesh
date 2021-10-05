@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [UdemyPy: free Udemy courses now on Twitter!](https://www.reddit.com/r/Python/comments/q1hcer/udemypy_free_udemy_courses_now_on_twitter/)
-- [How to create Windows EXEs for Python on Linux, using PyInstaller and WINE](https://www.reddit.com/r/Python/comments/q1gcec/how_to_create_windows_exes_for_python_on_linux/)
-- [I made a live logger for your projects](https://www.reddit.com/r/Python/comments/q1ez70/i_made_a_live_logger_for_your_projects/)
-- [22 Examples of Recursive Functions in Python](https://www.reddit.com/r/Python/comments/q1es2i/22_examples_of_recursive_functions_in_python/)
-- [Best engineering practices for a Python package: seeking feedback](https://www.reddit.com/r/Python/comments/q1ere4/best_engineering_practices_for_a_python_package/)
+- [MovBot - The mood Changer App using python](https://www.reddit.com/r/Python/comments/q1jey4/movbot_the_mood_changer_app_using_python/)
+- [Password Generator (Random Strings of Length)](https://www.reddit.com/r/Python/comments/q1j3xf/password_generator_random_strings_of_length/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/q1iqze/tuesday_daily_thread_advanced_questions/)
+- [Chicago Python User Group looking for speakers](https://www.reddit.com/r/Python/comments/q1iqit/chicago_python_user_group_looking_for_speakers/)
+- [Automating The Boring Stuff With Python](https://www.reddit.com/r/Python/comments/q1hxyj/automating_the_boring_stuff_with_python/)
 <!-- BLOG-POST-LIST:END -->
