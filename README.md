@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Pyroscope (open source continuous profiling) has released a Pip package](https://www.reddit.com/r/Python/comments/q20xbz/pyroscope_open_source_continuous_profiling_has/)
-- [Does anybody know where I can find a console that has all the dependencies ready?When I repo GitHub files I run into issues I would download the zip and drag the location of the file then I would python ——.py on windows but it never works. Google collaboration sometimes work.](https://www.reddit.com/r/Python/comments/q20ufy/does_anybody_know_where_i_can_find_a_console_that/)
-- [Google AI 0pen Sources ‘FedJAX’, A JAX-based Python Library for Federated Learning Simulations](https://www.reddit.com/r/Python/comments/q20m5x/google_ai_0pen_sources_fedjax_a_jaxbased_python/)
-- [[Free Workshop] Learn to Code Games with Stanford Alumni !!](https://www.reddit.com/r/Python/comments/q20b30/free_workshop_learn_to_code_games_with_stanford/)
-- [Best / not worst choice for DSL parser construction and interpretation in python?](https://www.reddit.com/r/Python/comments/q1zyfr/best_not_worst_choice_for_dsl_parser_construction/)
+- [Python style guide: Why do they wrap lines at 79 characters?](https://www.reddit.com/r/Python/comments/q227q1/python_style_guide_why_do_they_wrap_lines_at_79/)
+- [Free Data Science course](https://www.reddit.com/r/Python/comments/q21tv0/free_data_science_course/)
+- [Putting Pants On: One Thing We Did Right After 5 Years with Django](https://www.reddit.com/r/Python/comments/q21epo/putting_pants_on_one_thing_we_did_right_after_5/)
+- [python code for explicit Euler's method](https://www.reddit.com/r/Python/comments/q21dva/python_code_for_explicit_eulers_method/)
+- [RoboRabbit - A rabbitmq abstraction and configurator!](https://www.reddit.com/r/Python/comments/q218cq/roborabbit_a_rabbitmq_abstraction_and_configurator/)
 <!-- BLOG-POST-LIST:END -->
