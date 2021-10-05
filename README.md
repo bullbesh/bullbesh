@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any idea for a project? Or I should call her?](https://www.reddit.com/r/Python/comments/q1kqhw/any_idea_for_a_project_or_i_should_call_her/)
 - [MovBot - The mood Changer App using python](https://www.reddit.com/r/Python/comments/q1jey4/movbot_the_mood_changer_app_using_python/)
 - [Password Generator (Random Strings of Length)](https://www.reddit.com/r/Python/comments/q1j3xf/password_generator_random_strings_of_length/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/q1iqze/tuesday_daily_thread_advanced_questions/)
 - [Chicago Python User Group looking for speakers](https://www.reddit.com/r/Python/comments/q1iqit/chicago_python_user_group_looking_for_speakers/)
-- [Automating The Boring Stuff With Python](https://www.reddit.com/r/Python/comments/q1hxyj/automating_the_boring_stuff_with_python/)
 <!-- BLOG-POST-LIST:END -->
