@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [When can we expect Python 3.10 in Anaconda?](https://www.reddit.com/r/Python/comments/q1w6ek/when_can_we_expect_python_310_in_anaconda/)
-- [Top 5 Companies to Hire Dedicated Python Developers 2021–22](https://www.reddit.com/r/Python/comments/q1vw70/top_5_companies_to_hire_dedicated_python/)
-- [How I found 2 BUGS in the "TOP 3 Most Downloaded" PyPI package with Google's Atheris Fuzzer](https://www.reddit.com/r/Python/comments/q1vsgt/how_i_found_2_bugs_in_the_top_3_most_downloaded/)
-- [Docker Best Practices for Python Developers](https://www.reddit.com/r/Python/comments/q1vdea/docker_best_practices_for_python_developers/)
-- [I made a live logger for your projects](https://www.reddit.com/r/Python/comments/q1v0j7/i_made_a_live_logger_for_your_projects/)
+- [Free 'course' on vector similarity search and Faiss!](https://www.reddit.com/r/Python/comments/q1xs6k/free_course_on_vector_similarity_search_and_faiss/)
+- [Quick overview of python 3.10 main feature: Structural Pattern Matching (Match Statement)](https://www.reddit.com/r/Python/comments/q1x1ye/quick_overview_of_python_310_main_feature/)
+- [bracelogger v1.1.0 - easily use new-style formatting in your log messages!](https://www.reddit.com/r/Python/comments/q1wyhl/bracelogger_v110_easily_use_newstyle_formatting/)
+- [Why you can’t switch to Python 3.10 just yet](https://www.reddit.com/r/Python/comments/q1wnl5/why_you_cant_switch_to_python_310_just_yet/)
+- [Where can I learn more advanced concepts in Python as well as Pythonic design patterns?](https://www.reddit.com/r/Python/comments/q1wcc7/where_can_i_learn_more_advanced_concepts_in/)
 <!-- BLOG-POST-LIST:END -->
