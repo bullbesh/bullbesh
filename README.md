@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [When can we expect Python 3.10 in Anaconda?](https://www.reddit.com/r/Python/comments/q1w6ek/when_can_we_expect_python_310_in_anaconda/)
+- [Top 5 Companies to Hire Dedicated Python Developers 2021–22](https://www.reddit.com/r/Python/comments/q1vw70/top_5_companies_to_hire_dedicated_python/)
+- [How I found 2 BUGS in the "TOP 3 Most Downloaded" PyPI package with Google's Atheris Fuzzer](https://www.reddit.com/r/Python/comments/q1vsgt/how_i_found_2_bugs_in_the_top_3_most_downloaded/)
 - [Docker Best Practices for Python Developers](https://www.reddit.com/r/Python/comments/q1vdea/docker_best_practices_for_python_developers/)
 - [I made a live logger for your projects](https://www.reddit.com/r/Python/comments/q1v0j7/i_made_a_live_logger_for_your_projects/)
-- [Welcome to the AMA with the CPython Core Developers and Steering Council of Python in Celebration of the 3.10 Release!](https://www.reddit.com/r/Python/comments/q1uqd1/welcome_to_the_ama_with_the_cpython_core/)
-- [Python 3.10: Cool New Features for You to Try – Real Python](https://www.reddit.com/r/Python/comments/q1uetm/python_310_cool_new_features_for_you_to_try_real/)
-- [Minecraft in Python with 31 lines of code](https://www.reddit.com/r/Python/comments/q1u47d/minecraft_in_python_with_31_lines_of_code/)
 <!-- BLOG-POST-LIST:END -->
