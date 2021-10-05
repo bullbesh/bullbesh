@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best / not worst choice for DSL parser construction and interpretation in python?](https://www.reddit.com/r/Python/comments/q1zyfr/best_not_worst_choice_for_dsl_parser_construction/)
+- [Learning Python (Things I Wish I Knew)](https://www.reddit.com/r/Python/comments/q1z8cp/learning_python_things_i_wish_i_knew/)
+- [IDE Similar to PyCharm for Work](https://www.reddit.com/r/Python/comments/q1z7q9/ide_similar_to_pycharm_for_work/)
+- [Using Apache Airflow ETL to fetch and analyze BTC data](https://www.reddit.com/r/Python/comments/q1y0lm/using_apache_airflow_etl_to_fetch_and_analyze_btc/)
 - [Free 'course' on vector similarity search and Faiss!](https://www.reddit.com/r/Python/comments/q1xs6k/free_course_on_vector_similarity_search_and_faiss/)
-- [Quick overview of python 3.10 main feature: Structural Pattern Matching (Match Statement)](https://www.reddit.com/r/Python/comments/q1x1ye/quick_overview_of_python_310_main_feature/)
-- [bracelogger v1.1.0 - easily use new-style formatting in your log messages!](https://www.reddit.com/r/Python/comments/q1wyhl/bracelogger_v110_easily_use_newstyle_formatting/)
-- [Why you can’t switch to Python 3.10 just yet](https://www.reddit.com/r/Python/comments/q1wnl5/why_you_cant_switch_to_python_310_just_yet/)
-- [Where can I learn more advanced concepts in Python as well as Pythonic design patterns?](https://www.reddit.com/r/Python/comments/q1wcc7/where_can_i_learn_more_advanced_concepts_in/)
 <!-- BLOG-POST-LIST:END -->
