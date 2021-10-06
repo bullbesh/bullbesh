@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [3D Plotting in Matplotlib](https://www.reddit.com/r/Python/comments/q2kit2/3d_plotting_in_matplotlib/)
+- [Help](https://www.reddit.com/r/Python/comments/q2jvts/help/)
 - [Faster Python with Guido van Rossum (podcast + transcript)](https://www.reddit.com/r/Python/comments/q2j4dp/faster_python_with_guido_van_rossum_podcast/)
-- [NeoVim setup for Python for beginners](https://www.reddit.com/r/Python/comments/q2i8rg/neovim_setup_for_python_for_beginners/)
 - [Help with Asycio/aiohttp on Windows?](https://www.reddit.com/r/Python/comments/q2hztf/help_with_asycioaiohttp_on_windows/)
 - [Generating Semi-Natural Landmasses using a Random Walk](https://www.reddit.com/r/Python/comments/q2h5og/generating_seminatural_landmasses_using_a_random/)
-- [Creating Your First Neural Network in Python w/ Tensorflow](https://www.reddit.com/r/Python/comments/q2grow/creating_your_first_neural_network_in_python_w/)
 <!-- BLOG-POST-LIST:END -->
