@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tkinter for python 3.10 broken on MacOS?](https://www.reddit.com/r/Python/comments/q2rpmp/tkinter_for_python_310_broken_on_macos/)
 - [Four years of Python](https://www.reddit.com/r/Python/comments/q2qk0x/four_years_of_python/)
-- [Python 3.10: Cool New Features for You to Try](https://www.reddit.com/r/Python/comments/q2py17/python_310_cool_new_features_for_you_to_try/)
 - [Sending an SMS with Python, FastAPI, and Vonage](https://www.reddit.com/r/Python/comments/q2onei/sending_an_sms_with_python_fastapi_and_vonage/)
 - [8 Reasons to Start Using Pydantic to Improve Data Parsing and Validation](https://www.reddit.com/r/Python/comments/q2okhx/8_reasons_to_start_using_pydantic_to_improve_data/)
 - [I need to check several websites every day, so I wrote a script that will do it for me!](https://www.reddit.com/r/Python/comments/q2lv75/i_need_to_check_several_websites_every_day_so_i/)
