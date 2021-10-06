@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [First project code review](https://www.reddit.com/r/Python/comments/q29t7c/first_project_code_review/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/q28uqy/wednesday_daily_thread_beginner_questions/)
+- [Error on manjaro, "no module named tkinter"](https://www.reddit.com/r/Python/comments/q28hj4/error_on_manjaro_no_module_named_tkinter/)
 - [Where is win32com for Python 3.10](https://www.reddit.com/r/Python/comments/q27jnl/where_is_win32com_for_python_310/)
 - [Good Resources for Starting a Python User Group?](https://www.reddit.com/r/Python/comments/q27fe6/good_resources_for_starting_a_python_user_group/)
-- [Putting Pants On: One Thing We Did Right After 5 Years with Django](https://www.reddit.com/r/Python/comments/q24pnx/putting_pants_on_one_thing_we_did_right_after_5/)
-- [sphinx-codeautolink 0.3.0: automatic links from code examples to reference documentation](https://www.reddit.com/r/Python/comments/q23fyf/sphinxcodeautolink_030_automatic_links_from_code/)
-- [Python style guide: Why do they wrap lines at 79 characters?](https://www.reddit.com/r/Python/comments/q227q1/python_style_guide_why_do_they_wrap_lines_at_79/)
 <!-- BLOG-POST-LIST:END -->
