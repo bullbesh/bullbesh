@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Stock Trading Bot with Python](https://www.reddit.com/r/Python/comments/q2gsp9/how_to_build_a_stock_trading_bot_with_python/)
+- [I found this really cool new feature which eases the creation and sharing of embedded services and drivers with high-level languages, such as Python ➡️](https://www.reddit.com/r/Python/comments/q2grq6/i_found_this_really_cool_new_feature_which_eases/)
+- [Creating Your First Neural Network in Python w/ Tensorflow](https://www.reddit.com/r/Python/comments/q2grow/creating_your_first_neural_network_in_python_w/)
 - [whoooooo, I found the value of Googol (not google) with python!!!!!!!!!!](https://www.reddit.com/r/Python/comments/q2fz1b/whoooooo_i_found_the_value_of_googol_not_google/)
 - [Looking for a blog post telling how somebody found a bug in python with a thermal cleaner or something](https://www.reddit.com/r/Python/comments/q2flmg/looking_for_a_blog_post_telling_how_somebody/)
-- [How To Scrape Data From A Website’s Store Locator | Cooding](https://www.reddit.com/r/Python/comments/q2feku/how_to_scrape_data_from_a_websites_store_locator/)
-- [A new Constraint Solver in Python for the vehicle routing problem (VRP), TSP, employee rostering, school timetabling, ...: OptaPy (open source)](https://www.reddit.com/r/Python/comments/q2euxw/a_new_constraint_solver_in_python_for_the_vehicle/)
-- [Python 3.10 : Here's What's New](https://www.reddit.com/r/Python/comments/q2eq3r/python_310_heres_whats_new/)
 <!-- BLOG-POST-LIST:END -->
