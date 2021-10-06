@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unique HTTP client for sync & async python](https://www.reddit.com/r/Python/comments/q2dvy9/unique_http_client_for_sync_async_python/)
 - [I created a basic Reddit Scraper in Python.](https://www.reddit.com/r/Python/comments/q2d8kc/i_created_a_basic_reddit_scraper_in_python/)
 - [Show /r/Python: MaryJane MJPEG server in less than 30 lines of Python.](https://www.reddit.com/r/Python/comments/q2chqn/show_rpython_maryjane_mjpeg_server_in_less_than/)
 - [I made a Recursive Descent Parser with a clever "pythonic" API](https://www.reddit.com/r/Python/comments/q2al2v/i_made_a_recursive_descent_parser_with_a_clever/)
 - [First project code review](https://www.reddit.com/r/Python/comments/q29t7c/first_project_code_review/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/q28uqy/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
