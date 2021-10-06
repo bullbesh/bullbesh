@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [whoooooo, I found the value of Googol (not google) with python!!!!!!!!!!](https://www.reddit.com/r/Python/comments/q2fz1b/whoooooo_i_found_the_value_of_googol_not_google/)
+- [Looking for a blog post telling how somebody found a bug in python with a thermal cleaner or something](https://www.reddit.com/r/Python/comments/q2flmg/looking_for_a_blog_post_telling_how_somebody/)
+- [How To Scrape Data From A Website’s Store Locator | Cooding](https://www.reddit.com/r/Python/comments/q2feku/how_to_scrape_data_from_a_websites_store_locator/)
 - [A new Constraint Solver in Python for the vehicle routing problem (VRP), TSP, employee rostering, school timetabling, ...: OptaPy (open source)](https://www.reddit.com/r/Python/comments/q2euxw/a_new_constraint_solver_in_python_for_the_vehicle/)
 - [Python 3.10 : Here's What's New](https://www.reddit.com/r/Python/comments/q2eq3r/python_310_heres_whats_new/)
-- [Unique HTTP client for sync & async python](https://www.reddit.com/r/Python/comments/q2dvy9/unique_http_client_for_sync_async_python/)
-- [I created a basic Reddit Scraper in Python.](https://www.reddit.com/r/Python/comments/q2d8kc/i_created_a_basic_reddit_scraper_in_python/)
-- [Show /r/Python: MaryJane MJPEG server in less than 30 lines of Python.](https://www.reddit.com/r/Python/comments/q2chqn/show_rpython_maryjane_mjpeg_server_in_less_than/)
 <!-- BLOG-POST-LIST:END -->
