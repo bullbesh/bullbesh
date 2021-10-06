@@ -19,5 +19,5 @@
 - [8 Reasons to Start Using Pydantic to Improve Data Parsing and Validation](https://www.reddit.com/r/Python/comments/q2okhx/8_reasons_to_start_using_pydantic_to_improve_data/)
 - [I need to check several websites every day, so I wrote a script that will do it for me!](https://www.reddit.com/r/Python/comments/q2lv75/i_need_to_check_several_websites_every_day_so_i/)
 - [3D Plotting in Matplotlib](https://www.reddit.com/r/Python/comments/q2kit2/3d_plotting_in_matplotlib/)
-- [Help](https://www.reddit.com/r/Python/comments/q2jvts/help/)
+- [Faster Python with Guido van Rossum (podcast + transcript)](https://www.reddit.com/r/Python/comments/q2j4dp/faster_python_with_guido_van_rossum_podcast/)
 <!-- BLOG-POST-LIST:END -->
