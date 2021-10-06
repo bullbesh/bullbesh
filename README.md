@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Space Science with Python - Part 5: Earth's Velocity](https://www.reddit.com/r/Python/comments/q2uf1x/space_science_with_python_part_5_earths_velocity/)
 - [Tkinter for python 3.10 broken on MacOS?](https://www.reddit.com/r/Python/comments/q2rpmp/tkinter_for_python_310_broken_on_macos/)
 - [Four years of Python](https://www.reddit.com/r/Python/comments/q2qk0x/four_years_of_python/)
+- [Reactive, DAG-based notebooks in Hex 2.0](https://www.reddit.com/r/Python/comments/q2q01r/reactive_dagbased_notebooks_in_hex_20/)
 - [Sending an SMS with Python, FastAPI, and Vonage](https://www.reddit.com/r/Python/comments/q2onei/sending_an_sms_with_python_fastapi_and_vonage/)
-- [8 Reasons to Start Using Pydantic to Improve Data Parsing and Validation](https://www.reddit.com/r/Python/comments/q2okhx/8_reasons_to_start_using_pydantic_to_improve_data/)
-- [I need to check several websites every day, so I wrote a script that will do it for me!](https://www.reddit.com/r/Python/comments/q2lv75/i_need_to_check_several_websites_every_day_so_i/)
 <!-- BLOG-POST-LIST:END -->
