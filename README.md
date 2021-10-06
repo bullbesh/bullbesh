@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I need to check several websites every day, so I wrote a script that will do it for me!](https://www.reddit.com/r/Python/comments/q2lv75/i_need_to_check_several_websites_every_day_so_i/)
+- [4 Python Looping Techniques You Should Know](https://www.reddit.com/r/Python/comments/q2npy8/4_python_looping_techniques_you_should_know/)
 - [3D Plotting in Matplotlib](https://www.reddit.com/r/Python/comments/q2kit2/3d_plotting_in_matplotlib/)
 - [Help](https://www.reddit.com/r/Python/comments/q2jvts/help/)
 - [Faster Python with Guido van Rossum (podcast + transcript)](https://www.reddit.com/r/Python/comments/q2j4dp/faster_python_with_guido_van_rossum_podcast/)
