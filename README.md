@@ -19,5 +19,5 @@
 - [Python Insider: Python 3.11.0a1 is available](https://www.reddit.com/r/Python/comments/q3gqt9/python_insider_python_3110a1_is_available/)
 - [Python Project: Detailed Code Walkthrough / Explanation](https://www.reddit.com/r/Python/comments/q3fli1/python_project_detailed_code_walkthrough/)
 - [Python Pattern Examples for beginners](https://www.reddit.com/r/Python/comments/q3emx2/python_pattern_examples_for_beginners/)
-- [Faster Python with Guido van Rossum](https://www.reddit.com/r/Python/comments/q3dh1u/faster_python_with_guido_van_rossum/)
+- [Building fuzzy grep in 30 lines of code](https://www.reddit.com/r/Python/comments/q3a8xk/building_fuzzy_grep_in_30_lines_of_code/)
 <!-- BLOG-POST-LIST:END -->
