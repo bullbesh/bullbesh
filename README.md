@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - mjmikulski/horology: timing functions, contexts and for-loops](https://www.reddit.com/r/Python/comments/q34zpm/github_mjmikulskihorology_timing_functions/)
+- [3x+1 turtle.shape()](https://www.reddit.com/r/Python/comments/q34wok/3x1_turtleshape/)
 - [Python Beginner Project - Loot Generator](https://www.reddit.com/r/Python/comments/q32u4x/python_beginner_project_loot_generator/)
 - [I built a Selenium bot to remove the background from images.](https://www.reddit.com/r/Python/comments/q32j21/i_built_a_selenium_bot_to_remove_the_background/)
 - [30 Very Useful Python String Snippets](https://www.reddit.com/r/Python/comments/q325cm/30_very_useful_python_string_snippets/)
-- [Python or Node.js: Which is Best for your Web Application?](https://www.reddit.com/r/Python/comments/q31l6c/python_or_nodejs_which_is_best_for_your_web/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/q2wscw/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
