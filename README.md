@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beginner OOP coffee machine](https://www.reddit.com/r/Python/comments/q36su0/beginner_oop_coffee_machine/)
 - [Attempting REPL-Driven Development in Python](https://www.reddit.com/r/Python/comments/q35plz/attempting_repldriven_development_in_python/)
 - [GitHub - mjmikulski/horology: timing functions, contexts and for-loops](https://www.reddit.com/r/Python/comments/q34zpm/github_mjmikulskihorology_timing_functions/)
 - [3x+1 turtle.shape()](https://www.reddit.com/r/Python/comments/q34wok/3x1_turtleshape/)
 - [Python Beginner Project - Loot Generator](https://www.reddit.com/r/Python/comments/q32u4x/python_beginner_project_loot_generator/)
-- [I built a Selenium bot to remove the background from images.](https://www.reddit.com/r/Python/comments/q32j21/i_built_a_selenium_bot_to_remove_the_background/)
 <!-- BLOG-POST-LIST:END -->
