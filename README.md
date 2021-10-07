@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why should I learn Python (advice)](https://www.reddit.com/r/Python/comments/q381qt/why_should_i_learn_python_advice/)
+- [Efficient List manipulation in python with useful Facts | Explained with Animation (Manim) | Created using Python Manim library(Animation)](https://www.reddit.com/r/Python/comments/q381n1/efficient_list_manipulation_in_python_with_useful/)
+- [Book Review: The Big Book of Small Python Projects: 81 Easy Practice Programs](https://www.reddit.com/r/Python/comments/q37xtk/book_review_the_big_book_of_small_python_projects/)
+- [AI Website builder](https://www.reddit.com/r/Python/comments/q37tx2/ai_website_builder/)
 - [Beginner OOP coffee machine](https://www.reddit.com/r/Python/comments/q36su0/beginner_oop_coffee_machine/)
-- [Attempting REPL-Driven Development in Python](https://www.reddit.com/r/Python/comments/q35plz/attempting_repldriven_development_in_python/)
-- [GitHub - mjmikulski/horology: timing functions, contexts and for-loops](https://www.reddit.com/r/Python/comments/q34zpm/github_mjmikulskihorology_timing_functions/)
-- [3x+1 turtle.shape()](https://www.reddit.com/r/Python/comments/q34wok/3x1_turtleshape/)
-- [Python Beginner Project - Loot Generator](https://www.reddit.com/r/Python/comments/q32u4x/python_beginner_project_loot_generator/)
 <!-- BLOG-POST-LIST:END -->
