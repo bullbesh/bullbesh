@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/q2wscw/thursday_daily_thread_python_careers_courses_and/)
 - [Space Science with Python - Part 5: Earth's Velocity](https://www.reddit.com/r/Python/comments/q2uf1x/space_science_with_python_part_5_earths_velocity/)
 - [Tkinter for python 3.10 broken on MacOS?](https://www.reddit.com/r/Python/comments/q2rpmp/tkinter_for_python_310_broken_on_macos/)
 - [Four years of Python](https://www.reddit.com/r/Python/comments/q2qk0x/four_years_of_python/)
-- [Reactive, DAG-based notebooks in Hex 2.0](https://www.reddit.com/r/Python/comments/q2q01r/reactive_dagbased_notebooks_in_hex_20/)
-- [Sending an SMS with Python, FastAPI, and Vonage](https://www.reddit.com/r/Python/comments/q2onei/sending_an_sms_with_python_fastapi_and_vonage/)
+- [Creating a CLI Blackjack game in Python](https://www.reddit.com/r/Python/comments/q2q1gt/creating_a_cli_blackjack_game_in_python/)
 <!-- BLOG-POST-LIST:END -->
