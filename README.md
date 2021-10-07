@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Project: Detailed Code Walkthrough / Explanation](https://www.reddit.com/r/Python/comments/q3fli1/python_project_detailed_code_walkthrough/)
 - [Python Pattern Examples for beginners](https://www.reddit.com/r/Python/comments/q3emx2/python_pattern_examples_for_beginners/)
 - [Faster Python with Guido van Rossum](https://www.reddit.com/r/Python/comments/q3dh1u/faster_python_with_guido_van_rossum/)
 - [Building fuzzy grep in 30 lines of code](https://www.reddit.com/r/Python/comments/q3a8xk/building_fuzzy_grep_in_30_lines_of_code/)
 - [Hello! I created a simple tutorial on how to create an image of 1s and 0s](https://www.reddit.com/r/Python/comments/q3a8im/hello_i_created_a_simple_tutorial_on_how_to/)
-- [first time learning python](https://www.reddit.com/r/Python/comments/q38grx/first_time_learning_python/)
 <!-- BLOG-POST-LIST:END -->
