@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Science vs. Machine Learning vs. Artificial Intelligence](https://www.reddit.com/r/Python/comments/q3afz1/data_science_vs_machine_learning_vs_artificial/)
+- [Building fuzzy grep in 30 lines of code](https://www.reddit.com/r/Python/comments/q3a8xk/building_fuzzy_grep_in_30_lines_of_code/)
+- [Hello! I created a simple tutorial on how to create an image of 1s and 0s](https://www.reddit.com/r/Python/comments/q3a8im/hello_i_created_a_simple_tutorial_on_how_to/)
 - [first time learning python](https://www.reddit.com/r/Python/comments/q38grx/first_time_learning_python/)
-- [I need help !!!!!!](https://www.reddit.com/r/Python/comments/q38gqv/i_need_help/)
 - [Why should I learn Python (advice)](https://www.reddit.com/r/Python/comments/q381qt/why_should_i_learn_python_advice/)
-- [Efficient List manipulation in python with useful Facts | Explained with Animation (Manim) | Created using Python Manim library(Animation)](https://www.reddit.com/r/Python/comments/q381n1/efficient_list_manipulation_in_python_with_useful/)
-- [Book Review: The Big Book of Small Python Projects: 81 Easy Practice Programs](https://www.reddit.com/r/Python/comments/q37xtk/book_review_the_big_book_of_small_python_projects/)
 <!-- BLOG-POST-LIST:END -->
