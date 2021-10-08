@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Homework Question - While Loop Accumulator Python](https://www.reddit.com/r/Python/comments/q42cw6/homework_question_while_loop_accumulator_python/)
 - [Steno : Stenography implementation in Python [hide your data/message], made to share coded messages.](https://www.reddit.com/r/Python/comments/q40fk3/steno_stenography_implementation_in_python_hide/)
 - [laz3 Encoding algorithm written in python](https://www.reddit.com/r/Python/comments/q40emh/laz3_encoding_algorithm_written_in_python/)
 - [Converting an algorithm to use Pythons' new Structural Pattern Matching](https://www.reddit.com/r/Python/comments/q3zmjp/converting_an_algorithm_to_use_pythons_new/)
 - [My first NLP pipeline using SpaCy: detect news headlines with company acquisitions](https://www.reddit.com/r/Python/comments/q3y30d/my_first_nlp_pipeline_using_spacy_detect_news/)
-- [Top Online Python Courses for Enthusiasts to Learn Coding](https://www.reddit.com/r/Python/comments/q3xwtg/top_online_python_courses_for_enthusiasts_to/)
 <!-- BLOG-POST-LIST:END -->
