@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there a library for basic type inference?](https://www.reddit.com/r/Python/comments/q44maz/is_there_a_library_for_basic_type_inference/)
+- [I created a web app that makes generative SVG characters that you can download](https://www.reddit.com/r/Python/comments/q43r2f/i_created_a_web_app_that_makes_generative_svg/)
 - [Quick example how to create datetime series with Pandas for an availability reservation system](https://www.reddit.com/r/Python/comments/q42wyo/quick_example_how_to_create_datetime_series_with/)
 - [Steno : Stenography implementation in Python [hide your data/message], made to share coded messages.](https://www.reddit.com/r/Python/comments/q40fk3/steno_stenography_implementation_in_python_hide/)
 - [laz3 Encoding algorithm written in python](https://www.reddit.com/r/Python/comments/q40emh/laz3_encoding_algorithm_written_in_python/)
-- [Converting an algorithm to use Pythons' new Structural Pattern Matching](https://www.reddit.com/r/Python/comments/q3zmjp/converting_an_algorithm_to_use_pythons_new/)
-- [My first NLP pipeline using SpaCy: detect news headlines with company acquisitions](https://www.reddit.com/r/Python/comments/q3y30d/my_first_nlp_pipeline_using_spacy_detect_news/)
 <!-- BLOG-POST-LIST:END -->
