@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My beginning attempt at networking device backups](https://www.reddit.com/r/Python/comments/q3xbsn/my_beginning_attempt_at_networking_device_backups/)
+- [Random Password Generator!](https://www.reddit.com/r/Python/comments/q3wsfc/random_password_generator/)
 - [Here are Top 100 frequently asked Python Interview Questions and Answers.](https://www.reddit.com/r/Python/comments/q3v6ic/here_are_top_100_frequently_asked_python/)
 - [Should Kivy be part of the standard library?](https://www.reddit.com/r/Python/comments/q3v6dn/should_kivy_be_part_of_the_standard_library/)
 - [Offline reverse geocoder](https://www.reddit.com/r/Python/comments/q3uwgs/offline_reverse_geocoder/)
-- [Create a Stunning PDF Flyer in Python with borb](https://www.reddit.com/r/Python/comments/q3t9iv/create_a_stunning_pdf_flyer_in_python_with_borb/)
-- [100 days of ML](https://www.reddit.com/r/Python/comments/q3sw6s/100_days_of_ml/)
 <!-- BLOG-POST-LIST:END -->
