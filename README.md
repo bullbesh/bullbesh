@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are dependent variable and independent variable?](https://www.reddit.com/r/Python/comments/q3q11e/what_are_dependent_variable_and_independent/)
+- [Andrei Neagoie's Complete Python Developer](https://www.reddit.com/r/Python/comments/q3pqx0/andrei_neagoies_complete_python_developer/)
+- [Is there something like io-ts in Python?](https://www.reddit.com/r/Python/comments/q3ppdl/is_there_something_like_iots_in_python/)
 - [I wanted to share with you a lib I just published on PyPI for handling AWS services](https://www.reddit.com/r/Python/comments/q3o3dx/i_wanted_to_share_with_you_a_lib_i_just_published/)
 - [Single Image 3D Reconstruction](https://www.reddit.com/r/Python/comments/q3n70u/single_image_3d_reconstruction/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/q3lxsi/friday_daily_thread_free_chat_friday_daily_thread/)
-- [Are there any good Python modules for helping workflow?](https://www.reddit.com/r/Python/comments/q3gvti/are_there_any_good_python_modules_for_helping/)
-- [Python Insider: Python 3.11.0a1 is available](https://www.reddit.com/r/Python/comments/q3gqt9/python_insider_python_3110a1_is_available/)
 <!-- BLOG-POST-LIST:END -->
