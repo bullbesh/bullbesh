@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a Stunning PDF Flyer in Python with borb](https://www.reddit.com/r/Python/comments/q3t9iv/create_a_stunning_pdf_flyer_in_python_with_borb/)
+- [100 days of ML](https://www.reddit.com/r/Python/comments/q3sw6s/100_days_of_ml/)
 - [The Flask Mega Tutorial Part 5: User Login System | iRead](https://www.reddit.com/r/Python/comments/q3soe9/the_flask_mega_tutorial_part_5_user_login_system/)
 - [Hi,here's how to create chart and pivot table in Excel using python - python excel automation](https://www.reddit.com/r/Python/comments/q3rx91/hiheres_how_to_create_chart_and_pivot_table_in/)
-- [Can Machine learning and AI control the eCommerce industry?](https://www.reddit.com/r/Python/comments/q3qlvj/can_machine_learning_and_ai_control_the_ecommerce/)
 - [Andrei Neagoie's Complete Python Developer](https://www.reddit.com/r/Python/comments/q3pqx0/andrei_neagoies_complete_python_developer/)
-- [Is there something like io-ts in Python?](https://www.reddit.com/r/Python/comments/q3ppdl/is_there_something_like_iots_in_python/)
 <!-- BLOG-POST-LIST:END -->
