@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Here are Top 100 frequently asked Python Interview Questions and Answers.](https://www.reddit.com/r/Python/comments/q3v6ic/here_are_top_100_frequently_asked_python/)
+- [Should Kivy be part of the standard library?](https://www.reddit.com/r/Python/comments/q3v6dn/should_kivy_be_part_of_the_standard_library/)
 - [Offline reverse geocoder](https://www.reddit.com/r/Python/comments/q3uwgs/offline_reverse_geocoder/)
 - [Create a Stunning PDF Flyer in Python with borb](https://www.reddit.com/r/Python/comments/q3t9iv/create_a_stunning_pdf_flyer_in_python_with_borb/)
 - [100 days of ML](https://www.reddit.com/r/Python/comments/q3sw6s/100_days_of_ml/)
-- [Hi,here's how to create chart and pivot table in Excel using python - python excel automation](https://www.reddit.com/r/Python/comments/q3rx91/hiheres_how_to_create_chart_and_pivot_table_in/)
-- [Andrei Neagoie's Complete Python Developer](https://www.reddit.com/r/Python/comments/q3pqx0/andrei_neagoies_complete_python_developer/)
 <!-- BLOG-POST-LIST:END -->
