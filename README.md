@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Homework Question - While Loop Accumulator Python](https://www.reddit.com/r/Python/comments/q42cw6/homework_question_while_loop_accumulator_python/)
+- [Quick example how to create datetime series with Pandas for an availability reservation system](https://www.reddit.com/r/Python/comments/q42wyo/quick_example_how_to_create_datetime_series_with/)
 - [Steno : Stenography implementation in Python [hide your data/message], made to share coded messages.](https://www.reddit.com/r/Python/comments/q40fk3/steno_stenography_implementation_in_python_hide/)
 - [laz3 Encoding algorithm written in python](https://www.reddit.com/r/Python/comments/q40emh/laz3_encoding_algorithm_written_in_python/)
 - [Converting an algorithm to use Pythons' new Structural Pattern Matching](https://www.reddit.com/r/Python/comments/q3zmjp/converting_an_algorithm_to_use_pythons_new/)
