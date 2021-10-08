@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A python telegram bot to check who's currently home](https://www.reddit.com/r/Python/comments/q3ydyj/a_python_telegram_bot_to_check_whos_currently_home/)
+- [My first NLP pipeline using SpaCy: detect news headlines with company acquisitions](https://www.reddit.com/r/Python/comments/q3y30d/my_first_nlp_pipeline_using_spacy_detect_news/)
+- [Top Online Python Courses for Enthusiasts to Learn Coding](https://www.reddit.com/r/Python/comments/q3xwtg/top_online_python_courses_for_enthusiasts_to/)
+- [Paul Ganssle - Generating k-Smooth numbers in Python](https://www.reddit.com/r/Python/comments/q3xryc/paul_ganssle_generating_ksmooth_numbers_in_python/)
 - [My beginning attempt at networking device backups](https://www.reddit.com/r/Python/comments/q3xbsn/my_beginning_attempt_at_networking_device_backups/)
-- [Random Password Generator!](https://www.reddit.com/r/Python/comments/q3wsfc/random_password_generator/)
-- [Here are Top 100 frequently asked Python Interview Questions and Answers.](https://www.reddit.com/r/Python/comments/q3v6ic/here_are_top_100_frequently_asked_python/)
-- [Should Kivy be part of the standard library?](https://www.reddit.com/r/Python/comments/q3v6dn/should_kivy_be_part_of_the_standard_library/)
-- [Offline reverse geocoder](https://www.reddit.com/r/Python/comments/q3uwgs/offline_reverse_geocoder/)
 <!-- BLOG-POST-LIST:END -->
