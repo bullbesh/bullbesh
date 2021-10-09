@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Python Programming A-Z Definitive Diploma in 2021 (100%off)](https://www.reddit.com/r/Python/comments/q4rnwc/the_python_programming_az_definitive_diploma_in/)
+- [Wrote a blog on - Suckerbug: A python script to scrape photos from facebook's public pages](https://www.reddit.com/r/Python/comments/q4rh39/wrote_a_blog_on_suckerbug_a_python_script_to/)
 - [Simple and Fast OCR service!](https://www.reddit.com/r/Python/comments/q4ps43/simple_and_fast_ocr_service/)
 - [I have found a intresting article 'Eye and Face Recognition in Under 25 Lines of Python Code". Check it out](https://www.reddit.com/r/Python/comments/q4pk2o/i_have_found_a_intresting_article_eye_and_face/)
 - [ConsoleDraw (A Python Module to Draw to the Console Without Flashing!)](https://www.reddit.com/r/Python/comments/q4ojyq/consoledraw_a_python_module_to_draw_to_the/)
-- [please stop with the cryptography projects](https://www.reddit.com/r/Python/comments/q4o97r/please_stop_with_the_cryptography_projects/)
-- [Summon The JSON: Python 5.0 released](https://www.reddit.com/r/Python/comments/q4n81z/summon_the_json_python_50_released/)
 <!-- BLOG-POST-LIST:END -->
