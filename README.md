@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [txtai 3.4 released - Build AI-powered semantic search applications](https://www.reddit.com/r/Python/comments/q4jrro/txtai_34_released_build_aipowered_semantic_search/)
 - [Finding and reporting an asyncio bug in Python 3.10](https://www.reddit.com/r/Python/comments/q4hu84/finding_and_reporting_an_asyncio_bug_in_python_310/)
 - [Just launched my new python based SaaS (MixedCRM.com)](https://www.reddit.com/r/Python/comments/q4hqn2/just_launched_my_new_python_based_saas_mixedcrmcom/)
 - [why is pip having so many issues recently?](https://www.reddit.com/r/Python/comments/q4crzm/why_is_pip_having_so_many_issues_recently/)
 - [Avenues for networking?](https://www.reddit.com/r/Python/comments/q4ce1i/avenues_for_networking/)
-- [Can python be as fast as some other languages?](https://www.reddit.com/r/Python/comments/q4bq4y/can_python_be_as_fast_as_some_other_languages/)
 <!-- BLOG-POST-LIST:END -->
