@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Denoising Diffusion Probabilistic Models implementation with notes](https://www.reddit.com/r/Python/comments/q4lyqw/denoising_diffusion_probabilistic_models/)
+- [Track editor (catmull rom spline) and Self driving car AI with python](https://www.reddit.com/r/Python/comments/q4lo56/track_editor_catmull_rom_spline_and_self_driving/)
+- [Algorithms and Data Structures FREE COURSE || Strings || Part 3 - Two Pointers Technique || Algorithm explained](https://www.reddit.com/r/Python/comments/q4lh6d/algorithms_and_data_structures_free_course/)
+- [Learn the basics of NumPy in < 2 hours. (Free)](https://www.reddit.com/r/Python/comments/q4ldih/learn_the_basics_of_numpy_in_2_hours_free/)
 - [Script that downloads youtube vidoes?](https://www.reddit.com/r/Python/comments/q4l5c8/script_that_downloads_youtube_vidoes/)
-- [PBar, my "first" Python project.](https://www.reddit.com/r/Python/comments/q4ktvz/pbar_my_first_python_project/)
-- [txtai 3.4 released - Build AI-powered semantic search applications](https://www.reddit.com/r/Python/comments/q4jrro/txtai_34_released_build_aipowered_semantic_search/)
-- [Finding and reporting an asyncio bug in Python 3.10](https://www.reddit.com/r/Python/comments/q4hu84/finding_and_reporting_an_asyncio_bug_in_python_310/)
-- [Just launched my new python based SaaS (MixedCRM.com)](https://www.reddit.com/r/Python/comments/q4hqn2/just_launched_my_new_python_based_saas_mixedcrmcom/)
 <!-- BLOG-POST-LIST:END -->
