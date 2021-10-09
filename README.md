@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Summon The JSON: Python 5.0 released](https://www.reddit.com/r/Python/comments/q4n81z/summon_the_json_python_50_released/)
+- [how to fetch details from a JSON file while running .exe. I am trying to fetch details from a JSON file which will be inputs for the .exe file to run, the challenge here is I don't want to mention the file path explicitly in the .py script which is being converted as .exe](https://www.reddit.com/r/Python/comments/q4mx9d/how_to_fetch_details_from_a_json_file_while/)
+- [Simple OCR web service!](https://www.reddit.com/r/Python/comments/q4mvp3/simple_ocr_web_service/)
+- [Tips for debugging with print()](https://www.reddit.com/r/Python/comments/q4moab/tips_for_debugging_with_print/)
 - [Denoising Diffusion Probabilistic Models implementation with notes](https://www.reddit.com/r/Python/comments/q4lyqw/denoising_diffusion_probabilistic_models/)
-- [Track editor (catmull rom spline) and Self driving car AI with python](https://www.reddit.com/r/Python/comments/q4lo56/track_editor_catmull_rom_spline_and_self_driving/)
-- [Algorithms and Data Structures FREE COURSE || Strings || Part 3 - Two Pointers Technique || Algorithm explained](https://www.reddit.com/r/Python/comments/q4lh6d/algorithms_and_data_structures_free_course/)
-- [Learn the basics of NumPy in < 2 hours. (Free)](https://www.reddit.com/r/Python/comments/q4ldih/learn_the_basics_of_numpy_in_2_hours_free/)
-- [Script that downloads youtube vidoes?](https://www.reddit.com/r/Python/comments/q4l5c8/script_that_downloads_youtube_vidoes/)
 <!-- BLOG-POST-LIST:END -->
