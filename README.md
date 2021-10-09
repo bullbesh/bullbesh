@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Avenues for networking?](https://www.reddit.com/r/Python/comments/q4ce1i/avenues_for_networking/)
+- [Can python be as fast as some other languages?](https://www.reddit.com/r/Python/comments/q4bq4y/can_python_be_as_fast_as_some_other_languages/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/q4a1eo/saturday_daily_thread_resource_request_and/)
 - [A* implementation and visualization](https://www.reddit.com/r/Python/comments/q46v0t/a_implementation_and_visualization/)
 - [Quadtree implementation and visualization](https://www.reddit.com/r/Python/comments/q46uig/quadtree_implementation_and_visualization/)
-- [Is there a library for basic type inference?](https://www.reddit.com/r/Python/comments/q44maz/is_there_a_library_for_basic_type_inference/)
-- [I created a web app that makes generative SVG characters that you can download](https://www.reddit.com/r/Python/comments/q43r2f/i_created_a_web_app_that_makes_generative_svg/)
 <!-- BLOG-POST-LIST:END -->
