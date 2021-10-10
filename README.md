@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Generating READMEs Using AI in Python](https://www.reddit.com/r/Python/comments/q5071s/generating_readmes_using_ai_in_python/)
-- [[Tool][Windows] Clean Your Desktop (No imports needed)](https://www.reddit.com/r/Python/comments/q4yx3p/toolwindows_clean_your_desktop_no_imports_needed/)
-- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/q4x39f/sunday_daily_thread_whats_everyone_working_on/)
-- [W3C HTML Validation with Python](https://www.reddit.com/r/Python/comments/q4wvsg/w3c_html_validation_with_python/)
-- [Gradient Descent Crash Course in 3 minutes](https://www.reddit.com/r/Python/comments/q4vp9w/gradient_descent_crash_course_in_3_minutes/)
+- [I wrote a pre-commit hook that prevents mypy silently skipping files](https://www.reddit.com/r/Python/comments/q53z2k/i_wrote_a_precommit_hook_that_prevents_mypy/)
+- [Artificial intelligence opportunity](https://www.reddit.com/r/Python/comments/q53xis/artificial_intelligence_opportunity/)
+- [Top 10 Easy Leetcode Questions that a beginner should have in your arsenal Part 1](https://www.reddit.com/r/Python/comments/q53so0/top_10_easy_leetcode_questions_that_a_beginner/)
+- [casually made an app with python that simulates a crash on your pc :D](https://www.reddit.com/r/Python/comments/q53rgc/casually_made_an_app_with_python_that_simulates_a/)
+- [look at this pls](https://www.reddit.com/r/Python/comments/q53mv7/look_at_this_pls/)
 <!-- BLOG-POST-LIST:END -->
