@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Guido van Rossum "honored" as Python becomes #1 most popular programming language on TIOBE ranking, passing C and Java](https://www.reddit.com/r/Python/comments/q5cnnk/guido_van_rossum_honored_as_python_becomes_1_most/)
 - [What are some things you have automated, using python?](https://www.reddit.com/r/Python/comments/q5cael/what_are_some_things_you_have_automated_using/)
 - [I am releasing an educational mobile application, made in Python and Kivy](https://www.reddit.com/r/Python/comments/q5c3sk/i_am_releasing_an_educational_mobile_application/)
 - [Professional Certificate: Google IT Automation with Python 2020](https://www.reddit.com/r/Python/comments/q5bz0t/professional_certificate_google_it_automation/)
 - [Why do PyWeek accepts Godot and Unreal?](https://www.reddit.com/r/Python/comments/q5bdt5/why_do_pyweek_accepts_godot_and_unreal/)
-- [Ide For Python *And* Cpp](https://www.reddit.com/r/Python/comments/q5a728/ide_for_python_and_cpp/)
 <!-- BLOG-POST-LIST:END -->
