@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are some things you have automated, using python?](https://www.reddit.com/r/Python/comments/q5cael/what_are_some_things_you_have_automated_using/)
+- [I am releasing an educational mobile application, made in Python and Kivy](https://www.reddit.com/r/Python/comments/q5c3sk/i_am_releasing_an_educational_mobile_application/)
+- [Professional Certificate: Google IT Automation with Python 2020](https://www.reddit.com/r/Python/comments/q5bz0t/professional_certificate_google_it_automation/)
+- [Why do PyWeek accepts Godot and Unreal?](https://www.reddit.com/r/Python/comments/q5bdt5/why_do_pyweek_accepts_godot_and_unreal/)
 - [Ide For Python *And* Cpp](https://www.reddit.com/r/Python/comments/q5a728/ide_for_python_and_cpp/)
-- [RedDownloader 2.0.0 to download videos from reddit with sound without having a praw bot and manually installing ffmpeg](https://www.reddit.com/r/Python/comments/q5a2yr/reddownloader_200_to_download_videos_from_reddit/)
-- [Overwriting Print Statements | How to undo or overwrite previously printed lines.](https://www.reddit.com/r/Python/comments/q59raw/overwriting_print_statements_how_to_undo_or/)
-- [Understanding all of Python, through its builtins](https://www.reddit.com/r/Python/comments/q59qk3/understanding_all_of_python_through_its_builtins/)
-- [InputValidation (An Easy-To-Use Python Module to Validate User Input Without Having to Write Loops!)](https://www.reddit.com/r/Python/comments/q59jj5/inputvalidation_an_easytouse_python_module_to/)
 <!-- BLOG-POST-LIST:END -->
