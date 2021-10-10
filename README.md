@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Guido van Rossum "honored" as Python becomes #1 most popular programming language on TIOBE ranking, passing C and Java](https://www.reddit.com/r/Python/comments/q5cnnk/guido_van_rossum_honored_as_python_becomes_1_most/)
-- [What are some things you have automated, using python?](https://www.reddit.com/r/Python/comments/q5cael/what_are_some_things_you_have_automated_using/)
-- [I am releasing an educational mobile application, made in Python and Kivy](https://www.reddit.com/r/Python/comments/q5c3sk/i_am_releasing_an_educational_mobile_application/)
-- [Why do PyWeek accepts Godot and Unreal?](https://www.reddit.com/r/Python/comments/q5bdt5/why_do_pyweek_accepts_godot_and_unreal/)
-- [Ide For Python *And* Cpp](https://www.reddit.com/r/Python/comments/q5a728/ide_for_python_and_cpp/)
+- [Downloaded ‘numbers.txt’ on to my PC. prompted python to read the file but claims it doesn’t exist.](https://www.reddit.com/r/Python/comments/q5fuz6/downloaded_numberstxt_on_to_my_pc_prompted_python/)
+- [Alternatives to Jupyter Notbook](https://www.reddit.com/r/Python/comments/q5fus4/alternatives_to_jupyter_notbook/)
+- [HTTPie and Print HTTP Request](https://www.reddit.com/r/Python/comments/q5f1w6/httpie_and_print_http_request/)
+- [I made a library to interact with gmail](https://www.reddit.com/r/Python/comments/q5etll/i_made_a_library_to_interact_with_gmail/)
+- [Learn to write a CPU Performance Monitor desktop app with a modern web-based GUI in < 30 minutes. (Free)](https://www.reddit.com/r/Python/comments/q5es10/learn_to_write_a_cpu_performance_monitor_desktop/)
 <!-- BLOG-POST-LIST:END -->
