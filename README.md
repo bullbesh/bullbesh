@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generating READMEs Using AI in Python](https://www.reddit.com/r/Python/comments/q5071s/generating_readmes_using_ai_in_python/)
 - [[Tool][Windows] Clean Your Desktop (No imports needed)](https://www.reddit.com/r/Python/comments/q4yx3p/toolwindows_clean_your_desktop_no_imports_needed/)
 - [Socket programming errors](https://www.reddit.com/r/Python/comments/q4yiqr/socket_programming_errors/)
 - [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/q4x39f/sunday_daily_thread_whats_everyone_working_on/)
 - [W3C HTML Validation with Python](https://www.reddit.com/r/Python/comments/q4wvsg/w3c_html_validation_with_python/)
-- [Gradient Descent Crash Course in 3 minutes](https://www.reddit.com/r/Python/comments/q4vp9w/gradient_descent_crash_course_in_3_minutes/)
 <!-- BLOG-POST-LIST:END -->
