@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ide For Python *And* Cpp](https://www.reddit.com/r/Python/comments/q5a728/ide_for_python_and_cpp/)
+- [RedDownloader 2.0.0 to download videos from reddit with sound without having a praw bot and manually installing ffmpeg](https://www.reddit.com/r/Python/comments/q5a2yr/reddownloader_200_to_download_videos_from_reddit/)
 - [Overwriting Print Statements | How to undo or overwrite previously printed lines.](https://www.reddit.com/r/Python/comments/q59raw/overwriting_print_statements_how_to_undo_or/)
 - [Understanding all of Python, through its builtins](https://www.reddit.com/r/Python/comments/q59qk3/understanding_all_of_python_through_its_builtins/)
 - [InputValidation (An Easy-To-Use Python Module to Validate User Input Without Having to Write Loops!)](https://www.reddit.com/r/Python/comments/q59jj5/inputvalidation_an_easytouse_python_module_to/)
-- [Script to remove duplicate photo's](https://www.reddit.com/r/Python/comments/q59hln/script_to_remove_duplicate_photos/)
-- [Are there any python packages that can be used to measure speech audio?](https://www.reddit.com/r/Python/comments/q59etm/are_there_any_python_packages_that_can_be_used_to/)
 <!-- BLOG-POST-LIST:END -->
