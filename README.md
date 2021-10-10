@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Cheat Sheet](https://www.reddit.com/r/Python/comments/q56jch/python_cheat_sheet/)
-- [Streamlit Cheat Sheet - Build a web application with python in 5 minutes](https://www.reddit.com/r/Python/comments/q56iaf/streamlit_cheat_sheet_build_a_web_application/)
-- [A Package that allows to download reddit videos with sound WITHOUT installing ffmpeg](https://www.reddit.com/r/Python/comments/q56226/a_package_that_allows_to_download_reddit_videos/)
-- [Delete VS Code workspaceStorage cache folders that are older than 60 days](https://www.reddit.com/r/Python/comments/q54sg3/delete_vs_code_workspacestorage_cache_folders/)
-- [Full guide on how to set up backend app with FastAPI (Python), async SQLAlchemy ORM and alembic with full project example](https://www.reddit.com/r/Python/comments/q54cvd/full_guide_on_how_to_set_up_backend_app_with/)
+- [Overwriting Print Statements | How to undo or overwrite previously printed lines.](https://www.reddit.com/r/Python/comments/q59raw/overwriting_print_statements_how_to_undo_or/)
+- [Understanding all of Python, through its builtins](https://www.reddit.com/r/Python/comments/q59qk3/understanding_all_of_python_through_its_builtins/)
+- [InputValidation (An Easy-To-Use Python Module to Validate User Input Without Having to Write Loops!)](https://www.reddit.com/r/Python/comments/q59jj5/inputvalidation_an_easytouse_python_module_to/)
+- [Script to remove duplicate photo's](https://www.reddit.com/r/Python/comments/q59hln/script_to_remove_duplicate_photos/)
+- [Are there any python packages that can be used to measure speech audio?](https://www.reddit.com/r/Python/comments/q59etm/are_there_any_python_packages_that_can_be_used_to/)
 <!-- BLOG-POST-LIST:END -->
