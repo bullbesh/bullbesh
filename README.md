@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Full guide on how to set up backend app with FastAPI (Python), async SQLAlchemy ORM and alembic with full project example](https://www.reddit.com/r/Python/comments/q54cvd/full_guide_on_how_to_set_up_backend_app_with/)
+- [Python and Lua](https://www.reddit.com/r/Python/comments/q546e1/python_and_lua/)
+- [I made a python ocr tool for windows with a good GUI.](https://www.reddit.com/r/Python/comments/q5403e/i_made_a_python_ocr_tool_for_windows_with_a_good/)
 - [I wrote a pre-commit hook that prevents mypy silently skipping files](https://www.reddit.com/r/Python/comments/q53z2k/i_wrote_a_precommit_hook_that_prevents_mypy/)
-- [Artificial intelligence opportunity](https://www.reddit.com/r/Python/comments/q53xis/artificial_intelligence_opportunity/)
 - [Top 10 Easy Leetcode Questions that a beginner should have in your arsenal Part 1](https://www.reddit.com/r/Python/comments/q53so0/top_10_easy_leetcode_questions_that_a_beginner/)
-- [casually made an app with python that simulates a crash on your pc :D](https://www.reddit.com/r/Python/comments/q53rgc/casually_made_an_app_with_python_that_simulates_a/)
-- [look at this pls](https://www.reddit.com/r/Python/comments/q53mv7/look_at_this_pls/)
 <!-- BLOG-POST-LIST:END -->
