@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first code PR to an open source project and it was to optimize Pip's new resolver!](https://www.reddit.com/r/Python/comments/q67ho0/my_first_code_pr_to_an_open_source_project_and_it/)
 - [book or online?](https://www.reddit.com/r/Python/comments/q672fp/book_or_online/)
 - [Ruck - Simple, Efficient & Modular Genetic Algorithms Inspired By PyTorch Lightning](https://www.reddit.com/r/Python/comments/q662bi/ruck_simple_efficient_modular_genetic_algorithms/)
 - [Recently migrated to the foot terminal emulator, and made a helper tool to automate converting colorschemes.](https://www.reddit.com/r/Python/comments/q64ogc/recently_migrated_to_the_foot_terminal_emulator/)
 - [Automate the Structure of Your Data Science Projects with Cookiecutter](https://www.reddit.com/r/Python/comments/q64hkr/automate_the_structure_of_your_data_science/)
-- [Is there any CPython discord I can ask questions about CPython specifically?](https://www.reddit.com/r/Python/comments/q60ln9/is_there_any_cpython_discord_i_can_ask_questions/)
 <!-- BLOG-POST-LIST:END -->
