@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Crawling Google Scholar to obtain researcher information](https://www.reddit.com/r/Python/comments/q5pnuo/crawling_google_scholar_to_obtain_researcher/)
+- [Python 3.11 (Alpha) is on the Microsoft Win11/Win10 application store](https://www.reddit.com/r/Python/comments/q5pkx7/python_311_alpha_is_on_the_microsoft_win11win10/)
 - [Want to be level up in Python? Here's your answer!](https://www.reddit.com/r/Python/comments/q5oosi/want_to_be_level_up_in_python_heres_your_answer/)
 - [Algebraic Data Types (Rust style enums) implementation in Python 3.10 (incl pattern matching).](https://www.reddit.com/r/Python/comments/q5m83l/algebraic_data_types_rust_style_enums/)
 - [Pyxel](https://www.reddit.com/r/Python/comments/q5lcl2/pyxel/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/q5jurn/monday_daily_thread_project_ideas/)
-- [HTTPie and Print HTTP Request](https://www.reddit.com/r/Python/comments/q5f1w6/httpie_and_print_http_request/)
 <!-- BLOG-POST-LIST:END -->
