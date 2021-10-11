@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Algebraic Data Types (Rust style enums) implementation in Python 3.10 (incl pattern matching).](https://www.reddit.com/r/Python/comments/q5m83l/algebraic_data_types_rust_style_enums/)
+- [Pyxel](https://www.reddit.com/r/Python/comments/q5lcl2/pyxel/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/q5jurn/monday_daily_thread_project_ideas/)
 - [HTTPie and Print HTTP Request](https://www.reddit.com/r/Python/comments/q5f1w6/httpie_and_print_http_request/)
 - [I made a library to interact with gmail](https://www.reddit.com/r/Python/comments/q5etll/i_made_a_library_to_interact_with_gmail/)
-- [Learn to write a CPU Performance Monitor desktop app with a modern web-based GUI in < 30 minutes. (Free)](https://www.reddit.com/r/Python/comments/q5es10/learn_to_write_a_cpu_performance_monitor_desktop/)
-- [Guido van Rossum "honored" as Python becomes #1 most popular programming language on TIOBE ranking, passing C and Java](https://www.reddit.com/r/Python/comments/q5cnnk/guido_van_rossum_honored_as_python_becomes_1_most/)
 <!-- BLOG-POST-LIST:END -->
