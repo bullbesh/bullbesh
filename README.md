@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interface Segregation Principle (Uncle Bob’s SOLID principles): Theory and implementation](https://www.reddit.com/r/Python/comments/q5tlme/interface_segregation_principle_uncle_bobs_solid/)
+- [My desktop was messy so I made my first program to sort my files based on file extension!](https://www.reddit.com/r/Python/comments/q5tk2b/my_desktop_was_messy_so_i_made_my_first_program/)
 - [How To Solve Gee Captcha in Python Using 2Captcha](https://www.reddit.com/r/Python/comments/q5se42/how_to_solve_gee_captcha_in_python_using_2captcha/)
 - [How to Buy a Playstation 5 in Your Sleep](https://www.reddit.com/r/Python/comments/q5s5i5/how_to_buy_a_playstation_5_in_your_sleep/)
 - [SqlAlchemy 1.4 async ORM with FastAPI | rogulski.it](https://www.reddit.com/r/Python/comments/q5r043/sqlalchemy_14_async_orm_with_fastapi_rogulskiit/)
-- [Python overtakes Java, JavaScript as most popular programming language for first time in 20 years](https://www.reddit.com/r/Python/comments/q5qmec/python_overtakes_java_javascript_as_most_popular/)
-- [How can i create a script that can navigate to a webpage automatically](https://www.reddit.com/r/Python/comments/q5q83a/how_can_i_create_a_script_that_can_navigate_to_a/)
 <!-- BLOG-POST-LIST:END -->
