@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recently migrated to the foot terminal emulator, and made a helper tool to automate converting colorschemes.](https://www.reddit.com/r/Python/comments/q64ogc/recently_migrated_to_the_foot_terminal_emulator/)
+- [Automate the Structure of Your Data Science Projects with Cookiecutter](https://www.reddit.com/r/Python/comments/q64hkr/automate_the_structure_of_your_data_science/)
+- [Anyone work with Samsung MagicInfo Express 2?](https://www.reddit.com/r/Python/comments/q64bb8/anyone_work_with_samsung_magicinfo_express_2/)
 - [Is there any CPython discord I can ask questions about CPython specifically?](https://www.reddit.com/r/Python/comments/q60ln9/is_there_any_cpython_discord_i_can_ask_questions/)
 - [Managing different python versions in PyCharm](https://www.reddit.com/r/Python/comments/q5ysxb/managing_different_python_versions_in_pycharm/)
-- [PageDownloader : First desktop app (100% python)](https://www.reddit.com/r/Python/comments/q5yls4/pagedownloader_first_desktop_app_100_python/)
-- [I’m doing a fresh install on my pc due to upgrades any recommendations on how to stop python projects becoming a cluttered mess ?](https://www.reddit.com/r/Python/comments/q5x975/im_doing_a_fresh_install_on_my_pc_due_to_upgrades/)
-- [✔ Python: How To Use String Methods](https://www.reddit.com/r/Python/comments/q5x1u4/python_how_to_use_string_methods/)
 <!-- BLOG-POST-LIST:END -->
