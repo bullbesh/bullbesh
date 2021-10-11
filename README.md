@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Managing different python versions in PyCharm](https://www.reddit.com/r/Python/comments/q5ysxb/managing_different_python_versions_in_pycharm/)
+- [PageDownloader : First desktop app (100% python)](https://www.reddit.com/r/Python/comments/q5yls4/pagedownloader_first_desktop_app_100_python/)
 - [I’m doing a fresh install on my pc due to upgrades any recommendations on how to stop python projects becoming a cluttered mess ?](https://www.reddit.com/r/Python/comments/q5x975/im_doing_a_fresh_install_on_my_pc_due_to_upgrades/)
 - [✔ Python: How To Use String Methods](https://www.reddit.com/r/Python/comments/q5x1u4/python_how_to_use_string_methods/)
 - [I have created CLI for scanning networks/machines and configuring network interfaces and would be happy to hear your thoughts.](https://www.reddit.com/r/Python/comments/q5whrl/i_have_created_cli_for_scanning_networksmachines/)
-- [Win the Lottery With Python](https://www.reddit.com/r/Python/comments/q5w30w/win_the_lottery_with_python/)
-- [Don't be a w*nker, be a thanker! (Python package creditor)](https://www.reddit.com/r/Python/comments/q5v2qf/dont_be_a_wnker_be_a_thanker_python_package/)
 <!-- BLOG-POST-LIST:END -->
