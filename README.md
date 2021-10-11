@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Want to be level up in Python? Here's your answer!](https://www.reddit.com/r/Python/comments/q5oosi/want_to_be_level_up_in_python_heres_your_answer/)
 - [Algebraic Data Types (Rust style enums) implementation in Python 3.10 (incl pattern matching).](https://www.reddit.com/r/Python/comments/q5m83l/algebraic_data_types_rust_style_enums/)
 - [Pyxel](https://www.reddit.com/r/Python/comments/q5lcl2/pyxel/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/q5jurn/monday_daily_thread_project_ideas/)
 - [HTTPie and Print HTTP Request](https://www.reddit.com/r/Python/comments/q5f1w6/httpie_and_print_http_request/)
-- [I made a library to interact with gmail](https://www.reddit.com/r/Python/comments/q5etll/i_made_a_library_to_interact_with_gmail/)
 <!-- BLOG-POST-LIST:END -->
