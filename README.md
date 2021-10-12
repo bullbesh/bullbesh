@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flask QR code generator on AWS](https://www.reddit.com/r/Python/comments/q6n5jw/flask_qr_code_generator_on_aws/)
+- [Life is a Life](https://www.reddit.com/r/Python/comments/q6mx9l/life_is_a_life/)
+- [Python 3.10: Know the Exciting Features in the Latest Python Version](https://www.reddit.com/r/Python/comments/q6mhj4/python_310_know_the_exciting_features_in_the/)
 - [GitHub - l74d/scoping: Probably the best solution to Python block scoping](https://www.reddit.com/r/Python/comments/q6lx3x/github_l74dscoping_probably_the_best_solution_to/)
 - [Python 3.10: What's New](https://www.reddit.com/r/Python/comments/q6liek/python_310_whats_new/)
-- [How to Fit Data to Functions and obtain parameters in python: a comprehensive guide to scipy's curvefit function.](https://www.reddit.com/r/Python/comments/q6l604/how_to_fit_data_to_functions_and_obtain/)
-- [🚀 Automated blog publishing from Hashnode to Medium and Dev.to](https://www.reddit.com/r/Python/comments/q6ku01/automated_blog_publishing_from_hashnode_to_medium/)
-- [Representing Rational Numbers With Python Fractions – Real Python](https://www.reddit.com/r/Python/comments/q6krmh/representing_rational_numbers_with_python/)
 <!-- BLOG-POST-LIST:END -->
