@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - l74d/scoping: Probably the best solution to Python block scoping](https://www.reddit.com/r/Python/comments/q6lx3x/github_l74dscoping_probably_the_best_solution_to/)
+- [Python 3.10: What's New](https://www.reddit.com/r/Python/comments/q6liek/python_310_whats_new/)
+- [How to Fit Data to Functions and obtain parameters in python: a comprehensive guide to scipy's curvefit function.](https://www.reddit.com/r/Python/comments/q6l604/how_to_fit_data_to_functions_and_obtain/)
 - [🚀 Automated blog publishing from Hashnode to Medium and Dev.to](https://www.reddit.com/r/Python/comments/q6ku01/automated_blog_publishing_from_hashnode_to_medium/)
 - [Representing Rational Numbers With Python Fractions – Real Python](https://www.reddit.com/r/Python/comments/q6krmh/representing_rational_numbers_with_python/)
-- [Python's graphlib is awesome](https://www.reddit.com/r/Python/comments/q6kilu/pythons_graphlib_is_awesome/)
-- [Need to find midpoints between contours/points and nearest neighbours for each of the point](https://www.reddit.com/r/Python/comments/q6gnm8/need_to_find_midpoints_between_contourspoints_and/)
-- [Free online editor for translating PO files from Python projects](https://www.reddit.com/r/Python/comments/q6gezq/free_online_editor_for_translating_po_files_from/)
 <!-- BLOG-POST-LIST:END -->
