@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Units in attribute and method names](https://www.reddit.com/r/Python/comments/q6sang/units_in_attribute_and_method_names/)
+- [Can anyone explain why it fails to install pandas library with version 3.10 please ?](https://www.reddit.com/r/Python/comments/q6s8yo/can_anyone_explain_why_it_fails_to_install_pandas/)
+- [Incident on Python 2 to 3 Migration: Redis Cache and Pickle](https://www.reddit.com/r/Python/comments/q6rhyp/incident_on_python_2_to_3_migration_redis_cache/)
+- [How to convert any PythonFile (.py) to .EXE File?](https://www.reddit.com/r/Python/comments/q6rbj5/how_to_convert_any_pythonfile_py_to_exe_file/)
 - [The Comprehensive Guide to mypy](https://www.reddit.com/r/Python/comments/q6qfbt/the_comprehensive_guide_to_mypy/)
-- [Simplest replacement for Anaconda [for Jupyter notebook] in a commercial setting?](https://www.reddit.com/r/Python/comments/q6p7es/simplest_replacement_for_anaconda_for_jupyter/)
-- [Made a Twitter Bot that can reply to every tweet in which it got mentioned with a specific hashtag(#qod). The reply will be in the form of an image with a quote written on it.](https://www.reddit.com/r/Python/comments/q6oppr/made_a_twitter_bot_that_can_reply_to_every_tweet/)
-- [Tic Tac Toe](https://www.reddit.com/r/Python/comments/q6nn6e/tic_tac_toe/)
-- [[Tool] Send emails using SMTP. Who needs MailChimp?](https://www.reddit.com/r/Python/comments/q6n7tb/tool_send_emails_using_smtp_who_needs_mailchimp/)
 <!-- BLOG-POST-LIST:END -->
