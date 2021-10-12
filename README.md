@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Add Images to Gatsby Blog](https://www.reddit.com/r/Python/comments/q6uqg5/add_images_to_gatsby_blog/)
+- [Top Python Tools for Malware Analysis.](https://www.reddit.com/r/Python/comments/q6uqdr/top_python_tools_for_malware_analysis/)
+- [How relevant is my current job for getting into software engineering type positions?](https://www.reddit.com/r/Python/comments/q6tth7/how_relevant_is_my_current_job_for_getting_into/)
+- [MLOps project based template](https://www.reddit.com/r/Python/comments/q6ttbw/mlops_project_based_template/)
 - [IT denied my request for python at work](https://www.reddit.com/r/Python/comments/q6stpy/it_denied_my_request_for_python_at_work/)
-- [did list comprehensions develop in the wild? or like in a lab?](https://www.reddit.com/r/Python/comments/q6sd1i/did_list_comprehensions_develop_in_the_wild_or/)
-- [Units in attribute and method names](https://www.reddit.com/r/Python/comments/q6sang/units_in_attribute_and_method_names/)
-- [Can anyone explain why it fails to install pandas library with version 3.10 please ?](https://www.reddit.com/r/Python/comments/q6s8yo/can_anyone_explain_why_it_fails_to_install_pandas/)
-- [Incident on Python 2 to 3 Migration: Redis Cache and Pickle](https://www.reddit.com/r/Python/comments/q6rhyp/incident_on_python_2_to_3_migration_redis_cache/)
 <!-- BLOG-POST-LIST:END -->
