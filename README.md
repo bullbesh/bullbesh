@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I've created an interactive bookshelf.](https://www.reddit.com/r/Python/comments/q6dnzx/ive_created_an_interactive_bookshelf/)
 - [I created a machine learning model and webapp to generate new minecraft skins](https://www.reddit.com/r/Python/comments/q6ajac/i_created_a_machine_learning_model_and_webapp_to/)
 - [What project are you proud of the most?](https://www.reddit.com/r/Python/comments/q69xfi/what_project_are_you_proud_of_the_most/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/q69amo/tuesday_daily_thread_advanced_questions/)
 - [My first code PR to an open source project and it was to optimize Pip's new resolver!](https://www.reddit.com/r/Python/comments/q67ho0/my_first_code_pr_to_an_open_source_project_and_it/)
-- [Ruck - Simple, Efficient & Modular Genetic Algorithms Inspired By PyTorch Lightning](https://www.reddit.com/r/Python/comments/q662bi/ruck_simple_efficient_modular_genetic_algorithms/)
 <!-- BLOG-POST-LIST:END -->
