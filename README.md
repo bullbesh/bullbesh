@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [IT denied my request for python at work](https://www.reddit.com/r/Python/comments/q6stpy/it_denied_my_request_for_python_at_work/)
+- [did list comprehensions develop in the wild? or like in a lab?](https://www.reddit.com/r/Python/comments/q6sd1i/did_list_comprehensions_develop_in_the_wild_or/)
 - [Units in attribute and method names](https://www.reddit.com/r/Python/comments/q6sang/units_in_attribute_and_method_names/)
 - [Can anyone explain why it fails to install pandas library with version 3.10 please ?](https://www.reddit.com/r/Python/comments/q6s8yo/can_anyone_explain_why_it_fails_to_install_pandas/)
 - [Incident on Python 2 to 3 Migration: Redis Cache and Pickle](https://www.reddit.com/r/Python/comments/q6rhyp/incident_on_python_2_to_3_migration_redis_cache/)
-- [How to convert any PythonFile (.py) to .EXE File?](https://www.reddit.com/r/Python/comments/q6rbj5/how_to_convert_any_pythonfile_py_to_exe_file/)
-- [The Comprehensive Guide to mypy](https://www.reddit.com/r/Python/comments/q6qfbt/the_comprehensive_guide_to_mypy/)
 <!-- BLOG-POST-LIST:END -->
