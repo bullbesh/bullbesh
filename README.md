@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Automated blog publishing from Hashnode to Medium and Dev.to](https://www.reddit.com/r/Python/comments/q6ku01/automated_blog_publishing_from_hashnode_to_medium/)
+- [Representing Rational Numbers With Python Fractions – Real Python](https://www.reddit.com/r/Python/comments/q6krmh/representing_rational_numbers_with_python/)
+- [Python's graphlib is awesome](https://www.reddit.com/r/Python/comments/q6kilu/pythons_graphlib_is_awesome/)
 - [Need to find midpoints between contours/points and nearest neighbours for each of the point](https://www.reddit.com/r/Python/comments/q6gnm8/need_to_find_midpoints_between_contourspoints_and/)
 - [Free online editor for translating PO files from Python projects](https://www.reddit.com/r/Python/comments/q6gezq/free_online_editor_for_translating_po_files_from/)
-- [Coding with friends](https://www.reddit.com/r/Python/comments/q6fm11/coding_with_friends/)
-- [Python Takes First Place in TIOBE Programming Languages ​​Ranking](https://www.reddit.com/r/Python/comments/q6f0z9/python_takes_first_place_in_tiobe_programming/)
-- [Using Saxon/C in Python](https://www.reddit.com/r/Python/comments/q6eyf6/using_saxonc_in_python/)
 <!-- BLOG-POST-LIST:END -->
