@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a machine learning model and webapp to generate new minecraft skins](https://www.reddit.com/r/Python/comments/q6ajac/i_created_a_machine_learning_model_and_webapp_to/)
+- [What project are you proud of the most?](https://www.reddit.com/r/Python/comments/q69xfi/what_project_are_you_proud_of_the_most/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/q69amo/tuesday_daily_thread_advanced_questions/)
 - [My first code PR to an open source project and it was to optimize Pip's new resolver!](https://www.reddit.com/r/Python/comments/q67ho0/my_first_code_pr_to_an_open_source_project_and_it/)
 - [book or online?](https://www.reddit.com/r/Python/comments/q672fp/book_or_online/)
-- [Ruck - Simple, Efficient & Modular Genetic Algorithms Inspired By PyTorch Lightning](https://www.reddit.com/r/Python/comments/q662bi/ruck_simple_efficient_modular_genetic_algorithms/)
-- [Recently migrated to the foot terminal emulator, and made a helper tool to automate converting colorschemes.](https://www.reddit.com/r/Python/comments/q64ogc/recently_migrated_to_the_foot_terminal_emulator/)
-- [Automate the Structure of Your Data Science Projects with Cookiecutter](https://www.reddit.com/r/Python/comments/q64hkr/automate_the_structure_of_your_data_science/)
 <!-- BLOG-POST-LIST:END -->
