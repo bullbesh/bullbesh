@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need to find midpoints between contours/points and nearest neighbours for each of the point](https://www.reddit.com/r/Python/comments/q6gnm8/need_to_find_midpoints_between_contourspoints_and/)
 - [Free online editor for translating PO files from Python projects](https://www.reddit.com/r/Python/comments/q6gezq/free_online_editor_for_translating_po_files_from/)
 - [Coding with friends](https://www.reddit.com/r/Python/comments/q6fm11/coding_with_friends/)
 - [Python Takes First Place in TIOBE Programming Languages ​​Ranking](https://www.reddit.com/r/Python/comments/q6f0z9/python_takes_first_place_in_tiobe_programming/)
 - [Using Saxon/C in Python](https://www.reddit.com/r/Python/comments/q6eyf6/using_saxonc_in_python/)
-- [I made a hack for writing switch statements, in acknowledgement of Python’s new match case statements.](https://www.reddit.com/r/Python/comments/q6ead0/i_made_a_hack_for_writing_switch_statements_in/)
 <!-- BLOG-POST-LIST:END -->
