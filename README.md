@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tic Tac Toe](https://www.reddit.com/r/Python/comments/q6nn6e/tic_tac_toe/)
+- [[Tool] Send emails using SMTP. Who needs MailChimp?](https://www.reddit.com/r/Python/comments/q6n7tb/tool_send_emails_using_smtp_who_needs_mailchimp/)
 - [Flask QR code generator on AWS](https://www.reddit.com/r/Python/comments/q6n5jw/flask_qr_code_generator_on_aws/)
-- [Life is a Life](https://www.reddit.com/r/Python/comments/q6mx9l/life_is_a_life/)
 - [Python 3.10: Know the Exciting Features in the Latest Python Version](https://www.reddit.com/r/Python/comments/q6mhj4/python_310_know_the_exciting_features_in_the/)
 - [GitHub - l74d/scoping: Probably the best solution to Python block scoping](https://www.reddit.com/r/Python/comments/q6lx3x/github_l74dscoping_probably_the_best_solution_to/)
-- [Python 3.10: What's New](https://www.reddit.com/r/Python/comments/q6liek/python_310_whats_new/)
 <!-- BLOG-POST-LIST:END -->
