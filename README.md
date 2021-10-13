@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Flask | iRead](https://www.reddit.com/r/Python/comments/q75k0e/getting_started_with_flask_iread/)
+- [Dear PyGui v 1.0.0](https://www.reddit.com/r/Python/comments/q75h30/dear_pygui_v_100/)
 - [video player for tkinter](https://www.reddit.com/r/Python/comments/q74x7g/video_player_for_tkinter/)
 - [Alyorjon](https://www.reddit.com/r/Python/comments/q74mkb/alyorjon/)
 - [command-line thesaurus written in python](https://www.reddit.com/r/Python/comments/q74e5h/commandline_thesaurus_written_in_python/)
-- [can't able to scrape this website](https://www.reddit.com/r/Python/comments/q74c1y/cant_able_to_scrape_this_website/)
-- [7 Visual Studio Code Tricks For Python Developers](https://www.reddit.com/r/Python/comments/q741ma/7_visual_studio_code_tricks_for_python_developers/)
 <!-- BLOG-POST-LIST:END -->
