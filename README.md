@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pausing a specific section of code](https://www.reddit.com/r/Python/comments/q7jpvx/pausing_a_specific_section_of_code/)
 - [Python Crash Course vs Automate The Boring Stuff](https://www.reddit.com/r/Python/comments/q7hvro/python_crash_course_vs_automate_the_boring_stuff/)
 - [Are there any user-friendly apps to run python?](https://www.reddit.com/r/Python/comments/q7hil5/are_there_any_userfriendly_apps_to_run_python/)
 - [Should i use django rest framework or only use django for creating rest api or any web api ?](https://www.reddit.com/r/Python/comments/q7h3fo/should_i_use_django_rest_framework_or_only_use/)
 - [Psycopg 3.0 released](https://www.reddit.com/r/Python/comments/q7gyki/psycopg_30_released/)
-- [Streamline your Docker builds with Pants: How to use one command to deploy precisely the images affected by a change](https://www.reddit.com/r/Python/comments/q7gwaf/streamline_your_docker_builds_with_pants_how_to/)
 <!-- BLOG-POST-LIST:END -->
