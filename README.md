@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/q6yypp/wednesday_daily_thread_beginner_questions/)
+- [Boss wants me to pick a certificate program](https://www.reddit.com/r/Python/comments/q6yvtg/boss_wants_me_to_pick_a_certificate_program/)
 - [Python Experts! Interested in Social Impact?](https://www.reddit.com/r/Python/comments/q6xqlu/python_experts_interested_in_social_impact/)
 - [The Python programming language repository summary](https://www.reddit.com/r/Python/comments/q6wmrg/the_python_programming_language_repository_summary/)
 - [Opytimizer: A Nature-Inspired Python Optimizer](https://www.reddit.com/r/Python/comments/q6w6ar/opytimizer_a_natureinspired_python_optimizer/)
-- [Add Images to Gatsby Blog](https://www.reddit.com/r/Python/comments/q6uqg5/add_images_to_gatsby_blog/)
-- [Top Python Tools for Malware Analysis.](https://www.reddit.com/r/Python/comments/q6uqdr/top_python_tools_for_malware_analysis/)
 <!-- BLOG-POST-LIST:END -->
