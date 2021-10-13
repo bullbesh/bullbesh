@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My music streaming project](https://www.reddit.com/r/Python/comments/q77cja/my_music_streaming_project/)
 - [Building a realtime ticket booking solution with Kafka, FastAPI, and Ably](https://www.reddit.com/r/Python/comments/q7729a/building_a_realtime_ticket_booking_solution_with/)
 - [Mailman 3 Python multithreading without the GIL - Python-Dev](https://www.reddit.com/r/Python/comments/q76py6/mailman_3_python_multithreading_without_the_gil/)
 - [Getting Started with Flask | iRead](https://www.reddit.com/r/Python/comments/q75k0e/getting_started_with_flask_iread/)
 - [Dear PyGui v 1.0.0](https://www.reddit.com/r/Python/comments/q75h30/dear_pygui_v_100/)
-- [video player for tkinter](https://www.reddit.com/r/Python/comments/q74x7g/video_player_for_tkinter/)
 <!-- BLOG-POST-LIST:END -->
