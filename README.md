@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Visual Studio Code Tricks For Python Developers](https://www.reddit.com/r/Python/comments/q741ma/7_visual_studio_code_tricks_for_python_developers/)
 - [How Safe is Kite?](https://www.reddit.com/r/Python/comments/q70zop/how_safe_is_kite/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/q6yypp/wednesday_daily_thread_beginner_questions/)
 - [Boss wants me to pick a certificate program](https://www.reddit.com/r/Python/comments/q6yvtg/boss_wants_me_to_pick_a_certificate_program/)
 - [Python Experts! Interested in Social Impact?](https://www.reddit.com/r/Python/comments/q6xqlu/python_experts_interested_in_social_impact/)
-- [The Python programming language repository summary](https://www.reddit.com/r/Python/comments/q6wmrg/the_python_programming_language_repository_summary/)
 <!-- BLOG-POST-LIST:END -->
