@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pygame Vs Kivy for Mobile Development: Any Insights?](https://www.reddit.com/r/Python/comments/q7bzlx/pygame_vs_kivy_for_mobile_development_any_insights/)
 - [Hey so I have too much time on my hands and I wanna try a big project. If you have time, please fill out the super short survey below. The reason I'm posting to r/python is that I will be making it with what I think is helpful, and I love python so it'll probs help you guys too.](https://www.reddit.com/r/Python/comments/q7aru1/hey_so_i_have_too_much_time_on_my_hands_and_i/)
 - [Publishing Book for Free in Initial Stage](https://www.reddit.com/r/Python/comments/q7a9xe/publishing_book_for_free_in_initial_stage/)
 - [How I built an open source CLI based Pomodoro app?](https://www.reddit.com/r/Python/comments/q78kmy/how_i_built_an_open_source_cli_based_pomodoro_app/)
 - [Building a realtime ticket booking solution with Kafka, FastAPI, and Ably](https://www.reddit.com/r/Python/comments/q7729a/building_a_realtime_ticket_booking_solution_with/)
-- [Mailman 3 Python multithreading without the GIL - Python-Dev](https://www.reddit.com/r/Python/comments/q76py6/mailman_3_python_multithreading_without_the_gil/)
 <!-- BLOG-POST-LIST:END -->
