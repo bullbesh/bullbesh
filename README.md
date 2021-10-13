@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [video player for tkinter](https://www.reddit.com/r/Python/comments/q74x7g/video_player_for_tkinter/)
+- [Alyorjon](https://www.reddit.com/r/Python/comments/q74mkb/alyorjon/)
+- [command-line thesaurus written in python](https://www.reddit.com/r/Python/comments/q74e5h/commandline_thesaurus_written_in_python/)
+- [can't able to scrape this website](https://www.reddit.com/r/Python/comments/q74c1y/cant_able_to_scrape_this_website/)
 - [7 Visual Studio Code Tricks For Python Developers](https://www.reddit.com/r/Python/comments/q741ma/7_visual_studio_code_tricks_for_python_developers/)
-- [How Safe is Kite?](https://www.reddit.com/r/Python/comments/q70zop/how_safe_is_kite/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/q6yypp/wednesday_daily_thread_beginner_questions/)
-- [Boss wants me to pick a certificate program](https://www.reddit.com/r/Python/comments/q6yvtg/boss_wants_me_to_pick_a_certificate_program/)
-- [Python Experts! Interested in Social Impact?](https://www.reddit.com/r/Python/comments/q6xqlu/python_experts_interested_in_social_impact/)
 <!-- BLOG-POST-LIST:END -->
