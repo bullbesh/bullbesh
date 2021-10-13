@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cliff-man challenge. Try this one out. The man should rest at the top.](https://www.reddit.com/r/Python/comments/q7eo0d/cliffman_challenge_try_this_one_out_the_man/)
+- [Space Science with Python - Part 6: The Solar System Barycenter](https://www.reddit.com/r/Python/comments/q7ejhp/space_science_with_python_part_6_the_solar_system/)
+- [PyFLP - A library to read and edit FL Studio project files](https://www.reddit.com/r/Python/comments/q7dpfr/pyflp_a_library_to_read_and_edit_fl_studio/)
 - [Do you learn a lot python?](https://www.reddit.com/r/Python/comments/q7czgk/do_you_learn_a_lot_python/)
 - [Is there a Python graphics library that makes it simple to plot a single point?](https://www.reddit.com/r/Python/comments/q7cdjw/is_there_a_python_graphics_library_that_makes_it/)
-- [Pygame Vs Kivy for Mobile Development: Any Insights?](https://www.reddit.com/r/Python/comments/q7bzlx/pygame_vs_kivy_for_mobile_development_any_insights/)
-- [Hey so I have too much time on my hands and I wanna try a big project. If you have time, please fill out the super short survey below. The reason I'm posting to r/python is that I will be making it with what I think is helpful, and I love python so it'll probs help you guys too.](https://www.reddit.com/r/Python/comments/q7aru1/hey_so_i_have_too_much_time_on_my_hands_and_i/)
-- [Publishing Book for Free in Initial Stage](https://www.reddit.com/r/Python/comments/q7a9xe/publishing_book_for_free_in_initial_stage/)
 <!-- BLOG-POST-LIST:END -->
