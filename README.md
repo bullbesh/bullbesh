@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cambridge Quantum (CQ) Open-Sources ‘lambeq’: A Python Library For Experimental Quantum Natural Language Processing (QNLP)](https://www.reddit.com/r/Python/comments/q7leow/cambridge_quantum_cq_opensources_lambeq_a_python/)
 - [I animated Newton fractals in Python using Matplotlib and Moviepy](https://www.reddit.com/r/Python/comments/q7k8lr/i_animated_newton_fractals_in_python_using/)
 - [Python Crash Course vs Automate The Boring Stuff](https://www.reddit.com/r/Python/comments/q7hvro/python_crash_course_vs_automate_the_boring_stuff/)
 - [Are there any user-friendly apps to run python?](https://www.reddit.com/r/Python/comments/q7hil5/are_there_any_userfriendly_apps_to_run_python/)
 - [Should i use django rest framework or only use django for creating rest api or any web api ?](https://www.reddit.com/r/Python/comments/q7h3fo/should_i_use_django_rest_framework_or_only_use/)
-- [Psycopg 3.0 released](https://www.reddit.com/r/Python/comments/q7gyki/psycopg_30_released/)
 <!-- BLOG-POST-LIST:END -->
