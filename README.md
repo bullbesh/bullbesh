@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate MonkeyType Typing Test Engine With Python and Selenium.](https://www.reddit.com/r/Python/comments/q7zau8/automate_monkeytype_typing_test_engine_with/)
+- [What should a resume of a senior would look like or how to tell if a person is a senior engineer or not by their resume.](https://www.reddit.com/r/Python/comments/q7z403/what_should_a_resume_of_a_senior_would_look_like/)
+- [Simple and Probabilistic Benchmark Forecasts](https://www.reddit.com/r/Python/comments/q7yvgb/simple_and_probabilistic_benchmark_forecasts/)
 - [Modern account handler/creator with support for mongodb, postgresql, mysql, sqlite & smtp](https://www.reddit.com/r/Python/comments/q7yh7k/modern_account_handlercreator_with_support_for/)
 - [Creating a News Application using Flask | iRead](https://www.reddit.com/r/Python/comments/q7wp90/creating_a_news_application_using_flask_iread/)
-- [Top Python Data Science and Machine Learning Resources](https://www.reddit.com/r/Python/comments/q7vfj9/top_python_data_science_and_machine_learning/)
-- [GitHub - ranahaani/GNews: A Happy and lightweight Python Package that Provides an API to search for articles on Google News and returns a JSON response.](https://www.reddit.com/r/Python/comments/q7u3fp/github_ranahaanignews_a_happy_and_lightweight/)
-- [What are some good practice but functional projects? (Desktop analyst/Azure AD admin)](https://www.reddit.com/r/Python/comments/q7trf3/what_are_some_good_practice_but_functional/)
 <!-- BLOG-POST-LIST:END -->
