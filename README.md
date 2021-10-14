@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a News Application using Flask | iRead](https://www.reddit.com/r/Python/comments/q7wp90/creating_a_news_application_using_flask_iread/)
+- [I need a and entry or junior backend developer job.](https://www.reddit.com/r/Python/comments/q7wbi2/i_need_a_and_entry_or_junior_backend_developer_job/)
 - [Top Python Data Science and Machine Learning Resources](https://www.reddit.com/r/Python/comments/q7vfj9/top_python_data_science_and_machine_learning/)
 - [GitHub - ranahaani/GNews: A Happy and lightweight Python Package that Provides an API to search for articles on Google News and returns a JSON response.](https://www.reddit.com/r/Python/comments/q7u3fp/github_ranahaanignews_a_happy_and_lightweight/)
 - [What are some good practice but functional projects? (Desktop analyst/Azure AD admin)](https://www.reddit.com/r/Python/comments/q7trf3/what_are_some_good_practice_but_functional/)
-- [I want to make an artificial intelligence that recognizes a clown fish](https://www.reddit.com/r/Python/comments/q7tixa/i_want_to_make_an_artificial_intelligence_that/)
-- [What is the significance of GIL in Python?](https://www.reddit.com/r/Python/comments/q7t0yz/what_is_the_significance_of_gil_in_python/)
 <!-- BLOG-POST-LIST:END -->
