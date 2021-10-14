@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Preferential Attachment and the Barabási-Albert model](https://www.reddit.com/r/Python/comments/q87dru/preferential_attachment_and_the_barabásialbert/)
+- [Flask Web Server + Web Scraper tool](https://www.reddit.com/r/Python/comments/q86x3m/flask_web_server_web_scraper_tool/)
+- [Free Python class for beginners](https://www.reddit.com/r/Python/comments/q86tnd/free_python_class_for_beginners/)
 - [Collection of Projects](https://www.reddit.com/r/Python/comments/q86fjq/collection_of_projects/)
 - [Python module to resize image without pixel limit](https://www.reddit.com/r/Python/comments/q85b4s/python_module_to_resize_image_without_pixel_limit/)
-- [An idea for someone who needs a project - self signed cert detection](https://www.reddit.com/r/Python/comments/q84y7d/an_idea_for_someone_who_needs_a_project_self/)
-- [Python Project - Machine Learning & Trading](https://www.reddit.com/r/Python/comments/q83o3g/python_project_machine_learning_trading/)
-- [Shortest Path Algorithm (Part 1)](https://www.reddit.com/r/Python/comments/q81uf4/shortest_path_algorithm_part_1/)
 <!-- BLOG-POST-LIST:END -->
