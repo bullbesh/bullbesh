@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [FolderIkon](https://www.reddit.com/r/Python/comments/q80mic/folderikon/)
-- [FLPInspect](https://www.reddit.com/r/Python/comments/q80fmt/flpinspect/)
-- [Automate MonkeyType Typing Test Engine With Python and Selenium.](https://www.reddit.com/r/Python/comments/q7zau8/automate_monkeytype_typing_test_engine_with/)
-- [What should a resume of a senior would look like or how to tell if a person is a senior engineer or not by their resume.](https://www.reddit.com/r/Python/comments/q7z403/what_should_a_resume_of_a_senior_would_look_like/)
-- [Simple and Probabilistic Benchmark Forecasts](https://www.reddit.com/r/Python/comments/q7yvgb/simple_and_probabilistic_benchmark_forecasts/)
+- [Shortest Path Algorithm (Part 1)](https://www.reddit.com/r/Python/comments/q81uf4/shortest_path_algorithm_part_1/)
+- [The firebird-lib package provides extensions to firebird-driver - an official Python driver for the open source relational database Firebird](https://www.reddit.com/r/Python/comments/q81u3b/the_firebirdlib_package_provides_extensions_to/)
+- [Just a help](https://www.reddit.com/r/Python/comments/q81q8e/just_a_help/)
+- [Learn how to do some cool stuff with itertools](https://www.reddit.com/r/Python/comments/q812v9/learn_how_to_do_some_cool_stuff_with_itertools/)
+- [I just released my re-written AntiSpam package for Python discord bots!](https://www.reddit.com/r/Python/comments/q8118e/i_just_released_my_rewritten_antispam_package_for/)
 <!-- BLOG-POST-LIST:END -->
