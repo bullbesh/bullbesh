@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - ranahaani/GNews: A Happy and lightweight Python Package that Provides an API to search for articles on Google News and returns a JSON response.](https://www.reddit.com/r/Python/comments/q7u3fp/github_ranahaanignews_a_happy_and_lightweight/)
 - [What are some good practice but functional projects? (Desktop analyst/Azure AD admin)](https://www.reddit.com/r/Python/comments/q7trf3/what_are_some_good_practice_but_functional/)
 - [I want to make an artificial intelligence that recognizes a clown fish](https://www.reddit.com/r/Python/comments/q7tixa/i_want_to_make_an_artificial_intelligence_that/)
 - [What is the significance of GIL in Python?](https://www.reddit.com/r/Python/comments/q7t0yz/what_is_the_significance_of_gil_in_python/)
 - [Unified diff between a list of strings and a list of regexes?](https://www.reddit.com/r/Python/comments/q7s398/unified_diff_between_a_list_of_strings_and_a_list/)
-- [Arcserve udp python script last backup](https://www.reddit.com/r/Python/comments/q7pu8y/arcserve_udp_python_script_last_backup/)
 <!-- BLOG-POST-LIST:END -->
