@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the significance of GIL in Python?](https://www.reddit.com/r/Python/comments/q7t0yz/what_is_the_significance_of_gil_in_python/)
 - [Unified diff between a list of strings and a list of regexes?](https://www.reddit.com/r/Python/comments/q7s398/unified_diff_between_a_list_of_strings_and_a_list/)
 - [Arcserve udp python script last backup](https://www.reddit.com/r/Python/comments/q7pu8y/arcserve_udp_python_script_last_backup/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/q7nwyw/thursday_daily_thread_python_careers_courses_and/)
 - [Cambridge Quantum (CQ) Open-Sources ‘lambeq’: A Python Library For Experimental Quantum Natural Language Processing (QNLP)](https://www.reddit.com/r/Python/comments/q7leow/cambridge_quantum_cq_opensources_lambeq_a_python/)
-- [I animated Newton fractals in Python using Matplotlib and Moviepy](https://www.reddit.com/r/Python/comments/q7k8lr/i_animated_newton_fractals_in_python_using/)
 <!-- BLOG-POST-LIST:END -->
