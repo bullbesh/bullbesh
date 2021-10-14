@@ -18,6 +18,6 @@
 - [10 Best Python Libraries for NLP in 2021 and their Use Cases](https://www.reddit.com/r/Python/comments/q88lc6/10_best_python_libraries_for_nlp_in_2021_and/)
 - [Preferential Attachment and the Barabási-Albert model](https://www.reddit.com/r/Python/comments/q87dru/preferential_attachment_and_the_barabásialbert/)
 - [Flask Web Server + Web Scraper tool](https://www.reddit.com/r/Python/comments/q86x3m/flask_web_server_web_scraper_tool/)
-- [Free Python class for beginners](https://www.reddit.com/r/Python/comments/q86tnd/free_python_class_for_beginners/)
 - [Collection of Projects](https://www.reddit.com/r/Python/comments/q86fjq/collection_of_projects/)
+- [Python module to resize image without pixel limit](https://www.reddit.com/r/Python/comments/q85b4s/python_module_to_resize_image_without_pixel_limit/)
 <!-- BLOG-POST-LIST:END -->
