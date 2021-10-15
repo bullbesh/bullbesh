@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Analytics/Data Science Tutorials](https://www.reddit.com/r/Python/comments/q8lh9m/python_analyticsdata_science_tutorials/)
+- [Make Your Own Chrome Browser with Python PyQt5](https://www.reddit.com/r/Python/comments/q8l1a2/make_your_own_chrome_browser_with_python_pyqt5/)
+- [Can you become a software engineer (or similar job using programming skills) at a high tech company like Tesla without a degree in that area of field?](https://www.reddit.com/r/Python/comments/q8l06f/can_you_become_a_software_engineer_or_similar_job/)
 - [Shortest Path Algorithm (Part 2)](https://www.reddit.com/r/Python/comments/q8k5kq/shortest_path_algorithm_part_2/)
 - [Getting Started with Python](https://www.reddit.com/r/Python/comments/q8jfcr/getting_started_with_python/)
-- [pySimpleRSS - An RSS reader made with python that also extracts full text of articles(alpha)](https://www.reddit.com/r/Python/comments/q8hm0q/pysimplerss_an_rss_reader_made_with_python_that/)
-- [I made a great productivity tool but will I be able to make a living out of it?](https://www.reddit.com/r/Python/comments/q8h9kh/i_made_a_great_productivity_tool_but_will_i_be/)
-- [I built a python package + app that allows you to halt your program until the user swipes left or right.](https://www.reddit.com/r/Python/comments/q8grsv/i_built_a_python_package_app_that_allows_you_to/)
 <!-- BLOG-POST-LIST:END -->
