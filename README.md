@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Craigslist web scraper that I made with Selenium](https://www.reddit.com/r/Python/comments/q8ntin/craigslist_web_scraper_that_i_made_with_selenium/)
 - [Generate Python in plain English for data analytics.](https://www.reddit.com/r/Python/comments/q8nbh7/generate_python_in_plain_english_for_data/)
 - [Pycharm o VScode for beginner](https://www.reddit.com/r/Python/comments/q8n398/pycharm_o_vscode_for_beginner/)
 - [Python Analytics/Data Science Tutorials](https://www.reddit.com/r/Python/comments/q8lh9m/python_analyticsdata_science_tutorials/)
 - [Make Your Own Chrome Browser with Python PyQt5](https://www.reddit.com/r/Python/comments/q8l1a2/make_your_own_chrome_browser_with_python_pyqt5/)
-- [Can you become a software engineer (or similar job using programming skills) at a high tech company like Tesla without a degree in that area of field?](https://www.reddit.com/r/Python/comments/q8l06f/can_you_become_a_software_engineer_or_similar_job/)
 <!-- BLOG-POST-LIST:END -->
