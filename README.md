@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a great productivity tool but will I be able to make a living out of it?](https://www.reddit.com/r/Python/comments/q8h9kh/i_made_a_great_productivity_tool_but_will_i_be/)
+- [I built a python package + app that allows you to halt your program until the user swipes left or right.](https://www.reddit.com/r/Python/comments/q8grsv/i_built_a_python_package_app_that_allows_you_to/)
+- [Pandas/numpy broadcasting question](https://www.reddit.com/r/Python/comments/q8gn2i/pandasnumpy_broadcasting_question/)
 - [My first python package Search Algorithm Playground](https://www.reddit.com/r/Python/comments/q8gip2/my_first_python_package_search_algorithm/)
 - ["Give me one example of something you can do in pandas that you can't do in excel"](https://www.reddit.com/r/Python/comments/q8fdfp/give_me_one_example_of_something_you_can_do_in/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/q8c0d2/friday_daily_thread_free_chat_friday_daily_thread/)
-- [Redistribute python with a finished product?](https://www.reddit.com/r/Python/comments/q8b4dj/redistribute_python_with_a_finished_product/)
-- [10 Best Python Libraries for NLP in 2021 and their Use Cases](https://www.reddit.com/r/Python/comments/q88lc6/10_best_python_libraries_for_nlp_in_2021_and/)
 <!-- BLOG-POST-LIST:END -->
