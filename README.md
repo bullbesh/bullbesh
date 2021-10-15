@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pip install deactivated… best way to load files in VS for python.](https://www.reddit.com/r/Python/comments/q8pswo/pip_install_deactivated_best_way_to_load_files_in/)
 - [Craigslist web scraper that I made with Selenium](https://www.reddit.com/r/Python/comments/q8ntin/craigslist_web_scraper_that_i_made_with_selenium/)
 - [Generate Python in plain English for data analytics.](https://www.reddit.com/r/Python/comments/q8nbh7/generate_python_in_plain_english_for_data/)
 - [Pycharm o VScode for beginner](https://www.reddit.com/r/Python/comments/q8n398/pycharm_o_vscode_for_beginner/)
 - [Python Analytics/Data Science Tutorials](https://www.reddit.com/r/Python/comments/q8lh9m/python_analyticsdata_science_tutorials/)
-- [Make Your Own Chrome Browser with Python PyQt5](https://www.reddit.com/r/Python/comments/q8l1a2/make_your_own_chrome_browser_with_python_pyqt5/)
 <!-- BLOG-POST-LIST:END -->
