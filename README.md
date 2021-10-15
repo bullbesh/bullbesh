@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A viable solution for Python concurrency [LWN.net]](https://www.reddit.com/r/Python/comments/q8wb3z/a_viable_solution_for_python_concurrency_lwnnet/)
+- [Epilog: A simple log aggregation workflow leveraging the ELK stack](https://www.reddit.com/r/Python/comments/q8vmpl/epilog_a_simple_log_aggregation_workflow/)
 - [Pip vs Conda: an in-depth comparison of Python’s two packaging systems](https://www.reddit.com/r/Python/comments/q8sd5x/pip_vs_conda_an_indepth_comparison_of_pythons_two/)
 - [I made a command-line-interface for PyPI as a 14 year old](https://www.reddit.com/r/Python/comments/q8rrx7/i_made_a_commandlineinterface_for_pypi_as_a_14/)
 - [convtools - Table: a helper for stream processing of table-like data](https://www.reddit.com/r/Python/comments/q8qwf4/convtools_table_a_helper_for_stream_processing_of/)
-- [Craigslist web scraper that I made with Selenium](https://www.reddit.com/r/Python/comments/q8ntin/craigslist_web_scraper_that_i_made_with_selenium/)
-- [Pycharm o VScode for beginner](https://www.reddit.com/r/Python/comments/q8n398/pycharm_o_vscode_for_beginner/)
 <!-- BLOG-POST-LIST:END -->
