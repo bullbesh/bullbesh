@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beginner doubt](https://www.reddit.com/r/Python/comments/q8ciur/beginner_doubt/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/q8c0d2/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Redistribute python with a finished product?](https://www.reddit.com/r/Python/comments/q8b4dj/redistribute_python_with_a_finished_product/)
 - [10 Best Python Libraries for NLP in 2021 and their Use Cases](https://www.reddit.com/r/Python/comments/q88lc6/10_best_python_libraries_for_nlp_in_2021_and/)
 - [Preferential Attachment and the Barabási-Albert model](https://www.reddit.com/r/Python/comments/q87dru/preferential_attachment_and_the_barabásialbert/)
-- [Flask Web Server + Web Scraper tool](https://www.reddit.com/r/Python/comments/q86x3m/flask_web_server_web_scraper_tool/)
-- [Python module to resize image without pixel limit](https://www.reddit.com/r/Python/comments/q85b4s/python_module_to_resize_image_without_pixel_limit/)
 <!-- BLOG-POST-LIST:END -->
