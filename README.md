@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Codility 1st interview Tips - Broad Institute](https://www.reddit.com/r/Python/comments/q9fzek/codility_1st_interview_tips_broad_institute/)
+- [How can i get a cloud based mysql database for python](https://www.reddit.com/r/Python/comments/q9fyeh/how_can_i_get_a_cloud_based_mysql_database_for/)
 - [Pyston - A JIT Interpreter for Python](https://www.reddit.com/r/Python/comments/q9en4m/pyston_a_jit_interpreter_for_python/)
 - [Can't find GUI engine package](https://www.reddit.com/r/Python/comments/q9emq0/cant_find_gui_engine_package/)
 - [I rewrote my own 3D rendering desktop app from scratch (written using Tkinter & Numpy) in an OOP approach](https://www.reddit.com/r/Python/comments/q9eark/i_rewrote_my_own_3d_rendering_desktop_app_from/)
-- [List Comprehension Best Practice](https://www.reddit.com/r/Python/comments/q9cr7n/list_comprehension_best_practice/)
-- [Created a quora space for programmers for any language! Anyone is open to join](https://www.reddit.com/r/Python/comments/q9bi3u/created_a_quora_space_for_programmers_for_any/)
 <!-- BLOG-POST-LIST:END -->
