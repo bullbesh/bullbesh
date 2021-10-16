@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Improve type annotations with Generic and TypeVar: quick guide!](https://www.reddit.com/r/Python/comments/q99th7/improve_type_annotations_with_generic_and_typevar/)
 - [Taking average of non-empty files from file1 file2 ...so on](https://www.reddit.com/r/Python/comments/q990ns/taking_average_of_nonempty_files_from_file1_file2/)
 - [GitHub - James-P-D/GeniusSquare: Genius Square puzzle solver in Python](https://www.reddit.com/r/Python/comments/q98zfw/github_jamespdgeniussquare_genius_square_puzzle/)
 - [Python bytes() method:](https://www.reddit.com/r/Python/comments/q98qdb/python_bytes_method/)
 - [3 Ways to Render Pandas DataFrames | A Practical Guide to Export Data from Dataframe.](https://www.reddit.com/r/Python/comments/q98p0t/3_ways_to_render_pandas_dataframes_a_practical/)
-- [should I use Linux as a noob programmer?](https://www.reddit.com/r/Python/comments/q98fj8/should_i_use_linux_as_a_noob_programmer/)
 <!-- BLOG-POST-LIST:END -->
