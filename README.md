@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pyston - A JIT Interpreter for Python](https://www.reddit.com/r/Python/comments/q9en4m/pyston_a_jit_interpreter_for_python/)
+- [Can't find GUI engine package](https://www.reddit.com/r/Python/comments/q9emq0/cant_find_gui_engine_package/)
+- [I rewrote my own 3D rendering desktop app from scratch (written using Tkinter & Numpy) in an OOP approach](https://www.reddit.com/r/Python/comments/q9eark/i_rewrote_my_own_3d_rendering_desktop_app_from/)
 - [List Comprehension Best Practice](https://www.reddit.com/r/Python/comments/q9cr7n/list_comprehension_best_practice/)
 - [Created a quora space for programmers for any language! Anyone is open to join](https://www.reddit.com/r/Python/comments/q9bi3u/created_a_quora_space_for_programmers_for_any/)
-- [Improve type annotations with Generic and TypeVar: quick guide!](https://www.reddit.com/r/Python/comments/q99th7/improve_type_annotations_with_generic_and_typevar/)
-- [GitHub - James-P-D/GeniusSquare: Genius Square puzzle solver in Python](https://www.reddit.com/r/Python/comments/q98zfw/github_jamespdgeniussquare_genius_square_puzzle/)
-- [3 Ways to Render Pandas DataFrames | A Practical Guide to Export Data from Dataframe.](https://www.reddit.com/r/Python/comments/q98p0t/3_ways_to_render_pandas_dataframes_a_practical/)
 <!-- BLOG-POST-LIST:END -->
