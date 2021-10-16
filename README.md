@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can I use ngrok as a socket bridge in python? If yes how?](https://www.reddit.com/r/Python/comments/q95l4d/can_i_use_ngrok_as_a_socket_bridge_in_python_if/)
 - [Python stands to lose its GIL, and gain a lot of speed](https://www.reddit.com/r/Python/comments/q9326p/python_stands_to_lose_its_gil_and_gain_a_lot_of/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/q90mlc/saturday_daily_thread_resource_request_and/)
 - [In search for that page with documentation](https://www.reddit.com/r/Python/comments/q8zntq/in_search_for_that_page_with_documentation/)
 - [A viable solution for Python concurrency [LWN.net]](https://www.reddit.com/r/Python/comments/q8wb3z/a_viable_solution_for_python_concurrency_lwnnet/)
-- [Epilog: A simple log aggregation workflow leveraging the ELK stack](https://www.reddit.com/r/Python/comments/q8vmpl/epilog_a_simple_log_aggregation_workflow/)
 <!-- BLOG-POST-LIST:END -->
