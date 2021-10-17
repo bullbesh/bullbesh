@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Efficient use of panda dataframes](https://www.reddit.com/r/Python/comments/q9yhgq/efficient_use_of_panda_dataframes/)
+- [I redid yesterday's Squid Game in C with Monte Carlo](https://www.reddit.com/r/Python/comments/q9y7k5/i_redid_yesterdays_squid_game_in_c_with_monte/)
+- [How I Have Used Python Professionally](https://www.reddit.com/r/Python/comments/q9y6ff/how_i_have_used_python_professionally/)
+- [A Python Bot to find Opensource Projects to contribute to](https://www.reddit.com/r/Python/comments/q9y33r/a_python_bot_to_find_opensource_projects_to/)
 - [Build a Python HTML Parser for Web Scraping](https://www.reddit.com/r/Python/comments/q9xlyj/build_a_python_html_parser_for_web_scraping/)
-- [LVGL - Light and Versatile Embedded Graphics Library (micropython)](https://www.reddit.com/r/Python/comments/q9tf54/lvgl_light_and_versatile_embedded_graphics/)
-- [Open source file sharing service for tor built with starlette & backblaze](https://www.reddit.com/r/Python/comments/q9r4d6/open_source_file_sharing_service_for_tor_built/)
-- [Game of Life simulation in python! (browser run)](https://www.reddit.com/r/Python/comments/q9pn3r/game_of_life_simulation_in_python_browser_run/)
-- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/q9nl55/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
