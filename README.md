@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/q9nl55/sunday_daily_thread_whats_everyone_working_on/)
 - [Functional Programming With Python](https://www.reddit.com/r/Python/comments/q9mokr/functional_programming_with_python/)
 - [The DS/Statistics approach to the glass bridge from Squid Game.](https://www.reddit.com/r/Python/comments/q9m6a0/the_dsstatistics_approach_to_the_glass_bridge/)
 - [I made and ISS data research with Python!](https://www.reddit.com/r/Python/comments/q9lbmo/i_made_and_iss_data_research_with_python/)
 - [A python Notifier](https://www.reddit.com/r/Python/comments/q9i00j/a_python_notifier/)
-- [Pyston - A JIT Interpreter for Python](https://www.reddit.com/r/Python/comments/q9en4m/pyston_a_jit_interpreter_for_python/)
 <!-- BLOG-POST-LIST:END -->
