@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generating UML Diagrams from Python Code](https://www.reddit.com/r/Python/comments/qa43wo/generating_uml_diagrams_from_python_code/)
+- [Space Science with Python - Part 7: Gravitational Pull](https://www.reddit.com/r/Python/comments/qa3avh/space_science_with_python_part_7_gravitational/)
 - [PyPy 7.3.6 release: now with python3.8](https://www.reddit.com/r/Python/comments/qa2lzi/pypy_736_release_now_with_python38/)
 - [Flash Card Script](https://www.reddit.com/r/Python/comments/qa2k9s/flash_card_script/)
 - [learning Python](https://www.reddit.com/r/Python/comments/qa2dr2/learning_python/)
-- [Simple java to python converter](https://www.reddit.com/r/Python/comments/qa1wev/simple_java_to_python_converter/)
-- [Req. Python challenges website](https://www.reddit.com/r/Python/comments/qa1suz/req_python_challenges_website/)
 <!-- BLOG-POST-LIST:END -->
