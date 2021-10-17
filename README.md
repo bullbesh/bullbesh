@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is 200 lines of code In 5 hours good for a 13 year old?](https://www.reddit.com/r/Python/comments/qa69l6/is_200_lines_of_code_in_5_hours_good_for_a_13/)
+- [zoom API integration tutorial | create a meeting with zoom API in Python](https://www.reddit.com/r/Python/comments/qa7wj0/zoom_api_integration_tutorial_create_a_meeting/)
+- [I present to you The Public Movie Database. What I think is the biggest public database of movies on the internet.](https://www.reddit.com/r/Python/comments/qa6zge/i_present_to_you_the_public_movie_database_what_i/)
 - [I wrote an article on the usage of *args in functions and methods in Python](https://www.reddit.com/r/Python/comments/qa69gn/i_wrote_an_article_on_the_usage_of_args_in/)
 - [Learn to create Ethereum Tokens (ERC20) with Python](https://www.reddit.com/r/Python/comments/qa53xw/learn_to_create_ethereum_tokens_erc20_with_python/)
 - [hydrosolver: optimization driven hydroponic nutrient calculator and domain-specific language](https://www.reddit.com/r/Python/comments/qa4xqn/hydrosolver_optimization_driven_hydroponic/)
-- [Generating UML Diagrams from Python Code](https://www.reddit.com/r/Python/comments/qa43wo/generating_uml_diagrams_from_python_code/)
 <!-- BLOG-POST-LIST:END -->
