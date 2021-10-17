@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyPy 7.3.6 release: now with python3.8](https://www.reddit.com/r/Python/comments/qa2lzi/pypy_736_release_now_with_python38/)
+- [Flash Card Script](https://www.reddit.com/r/Python/comments/qa2k9s/flash_card_script/)
+- [learning Python](https://www.reddit.com/r/Python/comments/qa2dr2/learning_python/)
 - [Simple java to python converter](https://www.reddit.com/r/Python/comments/qa1wev/simple_java_to_python_converter/)
 - [Req. Python challenges website](https://www.reddit.com/r/Python/comments/qa1suz/req_python_challenges_website/)
-- [Prisma Client Python - Type safe database access](https://www.reddit.com/r/Python/comments/qa1i3j/prisma_client_python_type_safe_database_access/)
-- [Is there a Python->Webassembly browser frontend framework?](https://www.reddit.com/r/Python/comments/qa1aao/is_there_a_pythonwebassembly_browser_frontend/)
-- [This week in the Console newsletter, I interviewed the developer of a fully automated decryption/decoding/cracking Python tool which uses natural language processing & artificial intelligence to do the cracking. I thought /r/Python might be interested in checking it out! :)](https://www.reddit.com/r/Python/comments/qa17b6/this_week_in_the_console_newsletter_i_interviewed/)
 <!-- BLOG-POST-LIST:END -->
