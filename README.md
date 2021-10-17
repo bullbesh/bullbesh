@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Made a Telegram Bot that lets you set price alerts for your Amazon products](https://www.reddit.com/r/Python/comments/q9zf4x/made_a_telegram_bot_that_lets_you_set_price/)
-- [Create a python program that will show the entry word as well as the word’s color](https://www.reddit.com/r/Python/comments/q9z7jp/create_a_python_program_that_will_show_the_entry/)
-- [Efficient use of panda dataframes](https://www.reddit.com/r/Python/comments/q9yhgq/efficient_use_of_panda_dataframes/)
-- [I redid yesterday's Squid Game in C with Monte Carlo](https://www.reddit.com/r/Python/comments/q9y7k5/i_redid_yesterdays_squid_game_in_c_with_monte/)
-- [How I Have Used Python Professionally](https://www.reddit.com/r/Python/comments/q9y6ff/how_i_have_used_python_professionally/)
+- [Simple java to python converter](https://www.reddit.com/r/Python/comments/qa1wev/simple_java_to_python_converter/)
+- [Req. Python challenges website](https://www.reddit.com/r/Python/comments/qa1suz/req_python_challenges_website/)
+- [Prisma Client Python - Type safe database access](https://www.reddit.com/r/Python/comments/qa1i3j/prisma_client_python_type_safe_database_access/)
+- [Is there a Python->Webassembly browser frontend framework?](https://www.reddit.com/r/Python/comments/qa1aao/is_there_a_pythonwebassembly_browser_frontend/)
+- [This week in the Console newsletter, I interviewed the developer of a fully automated decryption/decoding/cracking Python tool which uses natural language processing & artificial intelligence to do the cracking. I thought /r/Python might be interested in checking it out! :)](https://www.reddit.com/r/Python/comments/qa17b6/this_week_in_the_console_newsletter_i_interviewed/)
 <!-- BLOG-POST-LIST:END -->
