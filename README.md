@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tests aren’t enough: Case study after adding type hints to urllib3](https://www.reddit.com/r/Python/comments/qaoez8/tests_arent_enough_case_study_after_adding_type/)
+- [Python API for Photoshop - menu creation](https://www.reddit.com/r/Python/comments/qao89n/python_api_for_photoshop_menu_creation/)
 - [rope 0.21.0 released - pure Python refactoring library (+announcing pylsp-rope)](https://www.reddit.com/r/Python/comments/qan7y8/rope_0210_released_pure_python_refactoring/)
 - [Secure Password Handling in Python](https://www.reddit.com/r/Python/comments/qan28b/secure_password_handling_in_python/)
 - [Script for Terraform variables](https://www.reddit.com/r/Python/comments/qamvpn/script_for_terraform_variables/)
-- [Continuously deploy a Flask App using Gunicorn on Koyeb](https://www.reddit.com/r/Python/comments/qamuor/continuously_deploy_a_flask_app_using_gunicorn_on/)
-- [8 Excellent Python Courses on Udemy (2021)](https://www.reddit.com/r/Python/comments/qamhg6/8_excellent_python_courses_on_udemy_2021/)
 <!-- BLOG-POST-LIST:END -->
