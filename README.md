@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project py](https://www.reddit.com/r/Python/comments/qak9jx/project_py/)
 - [🎶 Etudka: Generate musical pieces on click to practise sight-reading](https://www.reddit.com/r/Python/comments/qaj9ql/etudka_generate_musical_pieces_on_click_to/)
 - [How to create an Ethereum Token with Python (ERC20)](https://www.reddit.com/r/Python/comments/qaihmt/how_to_create_an_ethereum_token_with_python_erc20/)
 - [18 Machine Learning Best Practices | Rubik's Code](https://www.reddit.com/r/Python/comments/qahnjs/18_machine_learning_best_practices_rubiks_code/)
 - [What did I do right and wrong on this project?](https://www.reddit.com/r/Python/comments/qahlss/what_did_i_do_right_and_wrong_on_this_project/)
-- [Beginnings…](https://www.reddit.com/r/Python/comments/qag2th/beginnings/)
 <!-- BLOG-POST-LIST:END -->
