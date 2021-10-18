@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Excellent Python Courses on Udemy (2021)](https://www.reddit.com/r/Python/comments/qamhg6/8_excellent_python_courses_on_udemy_2021/)
+- [Opentraveldata is looking for new maintainer(s)](https://www.reddit.com/r/Python/comments/qamfq8/opentraveldata_is_looking_for_new_maintainers/)
+- [Mobile website](https://www.reddit.com/r/Python/comments/qam7bc/mobile_website/)
 - [Rejected after successfully solving a given task](https://www.reddit.com/r/Python/comments/qal9ve/rejected_after_successfully_solving_a_given_task/)
 - [Project py](https://www.reddit.com/r/Python/comments/qak9jx/project_py/)
-- [🎶 Etudka: Generate musical pieces on click to practise sight-reading](https://www.reddit.com/r/Python/comments/qaj9ql/etudka_generate_musical_pieces_on_click_to/)
-- [How to create an Ethereum Token with Python (ERC20)](https://www.reddit.com/r/Python/comments/qaihmt/how_to_create_an_ethereum_token_with_python_erc20/)
-- [18 Machine Learning Best Practices | Rubik's Code](https://www.reddit.com/r/Python/comments/qahnjs/18_machine_learning_best_practices_rubiks_code/)
 <!-- BLOG-POST-LIST:END -->
