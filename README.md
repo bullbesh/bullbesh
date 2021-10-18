@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [18 Machine Learning Best Practices | Rubik's Code](https://www.reddit.com/r/Python/comments/qahnjs/18_machine_learning_best_practices_rubiks_code/)
 - [What did I do right and wrong on this project?](https://www.reddit.com/r/Python/comments/qahlss/what_did_i_do_right_and_wrong_on_this_project/)
 - [Beginnings…](https://www.reddit.com/r/Python/comments/qag2th/beginnings/)
 - [FUNCTOOLS CHANGED MY LIFE](https://www.reddit.com/r/Python/comments/qacvb4/functools_changed_my_life/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/qaavwc/monday_daily_thread_project_ideas/)
-- [Learn how to extract tables from PDF using Python in a few lines of code!](https://www.reddit.com/r/Python/comments/qaa6us/learn_how_to_extract_tables_from_pdf_using_python/)
 <!-- BLOG-POST-LIST:END -->
