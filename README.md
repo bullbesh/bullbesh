@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free Data Science Month - all our courses unlocked for free!](https://www.reddit.com/r/Python/comments/qb6zvx/free_data_science_month_all_our_courses_unlocked/)
 - [Measuring average pulse width in a wave.](https://www.reddit.com/r/Python/comments/qb65cc/measuring_average_pulse_width_in_a_wave/)
 - [Should I Use Brython to Learn Python?](https://www.reddit.com/r/Python/comments/qb3iw4/should_i_use_brython_to_learn_python/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/qazc0e/tuesday_daily_thread_advanced_questions/)
 - [Join the Python Developers Survey 2021: Share and learn about the community](https://www.reddit.com/r/Python/comments/qatljr/join_the_python_developers_survey_2021_share_and/)
-- [Where does all the effort go? Looking at Python core developer activity](https://www.reddit.com/r/Python/comments/qatk8t/where_does_all_the_effort_go_looking_at_python/)
 <!-- BLOG-POST-LIST:END -->
