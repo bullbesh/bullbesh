@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [19 Hour Python Web Development course + Deployment + CI/CD + Docker](https://www.reddit.com/r/Python/comments/qbg8os/19_hour_python_web_development_course_deployment/)
+- [Python Debugger](https://www.reddit.com/r/Python/comments/qbg4vp/python_debugger/)
+- [Getting Started with Streamlit for Python](https://www.reddit.com/r/Python/comments/qbftm0/getting_started_with_streamlit_for_python/)
+- [Does there exist a python package that clears the dataset/columns in terms of exact and similar duplicates?](https://www.reddit.com/r/Python/comments/qbfjo2/does_there_exist_a_python_package_that_clears_the/)
 - [How to check whether multiple strings are similar?](https://www.reddit.com/r/Python/comments/qbdl51/how_to_check_whether_multiple_strings_are_similar/)
-- [Where does all the effort go? Looking at Python core developer activity - Łukasz Langa](https://www.reddit.com/r/Python/comments/qbco4z/where_does_all_the_effort_go_looking_at_python/)
-- [Why you shouldn't invoke setup.py directly](https://www.reddit.com/r/Python/comments/qbcdnn/why_you_shouldnt_invoke_setuppy_directly/)
-- [7 Considerations Before Pushing Machine Learning Models to Production](https://www.reddit.com/r/Python/comments/qbaxld/7_considerations_before_pushing_machine_learning/)
-- [Python package extending codecs featuring CLI tools for encoding/decoding almost anything](https://www.reddit.com/r/Python/comments/qbarrj/python_package_extending_codecs_featuring_cli/)
 <!-- BLOG-POST-LIST:END -->
