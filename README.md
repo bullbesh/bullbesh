@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I Can Solve Problems But. I Can’t Code](https://www.reddit.com/r/Python/comments/qaztqu/i_can_solve_problems_but_i_cant_code/)
-- [Help!](https://www.reddit.com/r/Python/comments/qazi4i/help/)
+- [Should I Use Brython to Learn Python?](https://www.reddit.com/r/Python/comments/qb3iw4/should_i_use_brython_to_learn_python/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/qazc0e/tuesday_daily_thread_advanced_questions/)
 - [Join the Python Developers Survey 2021: Share and learn about the community](https://www.reddit.com/r/Python/comments/qatljr/join_the_python_developers_survey_2021_share_and/)
 - [Where does all the effort go? Looking at Python core developer activity](https://www.reddit.com/r/Python/comments/qatk8t/where_does_all_the_effort_go_looking_at_python/)
+- [True multi user applications with Lona 1.7.4](https://www.reddit.com/r/Python/comments/qasyxe/true_multi_user_applications_with_lona_174/)
 <!-- BLOG-POST-LIST:END -->
