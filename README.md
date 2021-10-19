@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NVDLib, a NVD API wrapper and my first attempt at a library](https://www.reddit.com/r/Python/comments/qbkp6a/nvdlib_a_nvd_api_wrapper_and_my_first_attempt_at/)
 - [Reviving one of the best tkinter documentation from effbot.org. (work in progress)](https://www.reddit.com/r/Python/comments/qbj27f/reviving_one_of_the_best_tkinter_documentation/)
 - [I wrote a Cryptocurrency in Python called Skepticoin](https://www.reddit.com/r/Python/comments/qbiwir/i_wrote_a_cryptocurrency_in_python_called/)
 - [Wouldn't a "node_modules + package.json" equivalent for python be convenient?](https://www.reddit.com/r/Python/comments/qbhvrs/wouldnt_a_node_modules_packagejson_equivalent_for/)
 - [Top Feature of DataFrame often Under-Utilized, Markdown](https://www.reddit.com/r/Python/comments/qbhuci/top_feature_of_dataframe_often_underutilized/)
-- [Python converts assignment writeups into my handwriting !!!](https://www.reddit.com/r/Python/comments/qbhrqh/python_converts_assignment_writeups_into_my/)
 <!-- BLOG-POST-LIST:END -->
