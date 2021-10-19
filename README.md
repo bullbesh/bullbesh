@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I wrote a Cryptocurrency in Python called Skepticoin](https://www.reddit.com/r/Python/comments/qbi2f5/i_wrote_a_cryptocurrency_in_python_called/)
+- [Reviving one of the best tkinter documentation from effbot.org. (work in progress)](https://www.reddit.com/r/Python/comments/qbj27f/reviving_one_of_the_best_tkinter_documentation/)
+- [I wrote a Cryptocurrency in Python called Skepticoin](https://www.reddit.com/r/Python/comments/qbiwir/i_wrote_a_cryptocurrency_in_python_called/)
 - [Wouldn't a "node_modules + package.json" equivalent for python be convenient?](https://www.reddit.com/r/Python/comments/qbhvrs/wouldnt_a_node_modules_packagejson_equivalent_for/)
 - [Top Feature of DataFrame often Under-Utilized, Markdown](https://www.reddit.com/r/Python/comments/qbhuci/top_feature_of_dataframe_often_underutilized/)
 - [Python converts assignment writeups into my handwriting !!!](https://www.reddit.com/r/Python/comments/qbhrqh/python_converts_assignment_writeups_into_my/)
-- [My first Python Package (GNews) reached 100 stars milestone on Github](https://www.reddit.com/r/Python/comments/qbh0np/my_first_python_package_gnews_reached_100_stars/)
 <!-- BLOG-POST-LIST:END -->
