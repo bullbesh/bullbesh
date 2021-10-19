@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any one got a YouTube channel, website or even a book that will teach me basic python.](https://www.reddit.com/r/Python/comments/qbmyb1/any_one_got_a_youtube_channel_website_or_even_a/)
 - [Learn the basics of NumPy in < 2 hours. (Free)](https://www.reddit.com/r/Python/comments/qbluax/learn_the_basics_of_numpy_in_2_hours_free/)
 - [NVDLib, a NVD API wrapper and my first attempt at a library](https://www.reddit.com/r/Python/comments/qbkp6a/nvdlib_a_nvd_api_wrapper_and_my_first_attempt_at/)
 - [Reviving one of the best tkinter documentation from effbot.org. (work in progress)](https://www.reddit.com/r/Python/comments/qbj27f/reviving_one_of_the_best_tkinter_documentation/)
 - [I wrote a Cryptocurrency in Python called Skepticoin](https://www.reddit.com/r/Python/comments/qbiwir/i_wrote_a_cryptocurrency_in_python_called/)
-- [Wouldn't a "node_modules + package.json" equivalent for python be convenient?](https://www.reddit.com/r/Python/comments/qbhvrs/wouldnt_a_node_modules_packagejson_equivalent_for/)
 <!-- BLOG-POST-LIST:END -->
