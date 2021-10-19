@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a Cryptocurrency in Python called Skepticoin](https://www.reddit.com/r/Python/comments/qbi2f5/i_wrote_a_cryptocurrency_in_python_called/)
+- [Wouldn't a "node_modules + package.json" equivalent for python be convenient?](https://www.reddit.com/r/Python/comments/qbhvrs/wouldnt_a_node_modules_packagejson_equivalent_for/)
+- [Top Feature of DataFrame often Under-Utilized, Markdown](https://www.reddit.com/r/Python/comments/qbhuci/top_feature_of_dataframe_often_underutilized/)
+- [Python converts assignment writeups into my handwriting !!!](https://www.reddit.com/r/Python/comments/qbhrqh/python_converts_assignment_writeups_into_my/)
 - [My first Python Package (GNews) reached 100 stars milestone on Github](https://www.reddit.com/r/Python/comments/qbh0np/my_first_python_package_gnews_reached_100_stars/)
-- [19 Hour Python Web Development course + Deployment + CI/CD + Docker](https://www.reddit.com/r/Python/comments/qbg8os/19_hour_python_web_development_course_deployment/)
-- [Python Debugger](https://www.reddit.com/r/Python/comments/qbg4vp/python_debugger/)
-- [Getting Started with Streamlit for Python](https://www.reddit.com/r/Python/comments/qbftm0/getting_started_with_streamlit_for_python/)
-- [Does there exist a python package that clears the dataset/columns in terms of exact and similar duplicates?](https://www.reddit.com/r/Python/comments/qbfjo2/does_there_exist_a_python_package_that_clears_the/)
 <!-- BLOG-POST-LIST:END -->
