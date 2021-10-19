@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to check whether multiple strings are similar?](https://www.reddit.com/r/Python/comments/qbdl51/how_to_check_whether_multiple_strings_are_similar/)
+- [Where does all the effort go? Looking at Python core developer activity - Łukasz Langa](https://www.reddit.com/r/Python/comments/qbco4z/where_does_all_the_effort_go_looking_at_python/)
 - [Why you shouldn't invoke setup.py directly](https://www.reddit.com/r/Python/comments/qbcdnn/why_you_shouldnt_invoke_setuppy_directly/)
 - [7 Considerations Before Pushing Machine Learning Models to Production](https://www.reddit.com/r/Python/comments/qbaxld/7_considerations_before_pushing_machine_learning/)
 - [Python package extending codecs featuring CLI tools for encoding/decoding almost anything](https://www.reddit.com/r/Python/comments/qbarrj/python_package_extending_codecs_featuring_cli/)
-- [Looking for a forgotten python project](https://www.reddit.com/r/Python/comments/qbac9s/looking_for_a_forgotten_python_project/)
-- [A Roadmap to XML Parsers in Python – Real Python](https://www.reddit.com/r/Python/comments/qb9pai/a_roadmap_to_xml_parsers_in_python_real_python/)
 <!-- BLOG-POST-LIST:END -->
