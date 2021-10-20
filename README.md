@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [compatlib - Easily write backwards-and-forwards compatible libraries](https://www.reddit.com/r/Python/comments/qc33yv/compatlib_easily_write_backwardsandforwards/)
-- [AutoFlask-Setup](https://www.reddit.com/r/Python/comments/qc2it9/autoflasksetup/)
-- [Build career in software development 2021](https://www.reddit.com/r/Python/comments/qc2igc/build_career_in_software_development_2021/)
-- [Sanic Security: An effective, simple, and async security library for Sanic.](https://www.reddit.com/r/Python/comments/qc1rh0/sanic_security_an_effective_simple_and_async/)
-- [Learn how to improve you pytest tests with a simple decorator](https://www.reddit.com/r/Python/comments/qc0s0x/learn_how_to_improve_you_pytest_tests_with_a/)
+- [Git push and login](https://www.reddit.com/r/Python/comments/qc4sf1/git_push_and_login/)
+- [improvements on basic script](https://www.reddit.com/r/Python/comments/qc40m7/improvements_on_basic_script/)
+- [✨Implementing Switch Case In Python✨](https://www.reddit.com/r/Python/comments/qc3ym3/implementing_switch_case_in_python/)
+- [PEP 670 -- Convert macros to functions in the Python C API](https://www.reddit.com/r/Python/comments/qc3u7p/pep_670_convert_macros_to_functions_in_the_python/)
+- [Feedback on Python on Delphi?](https://www.reddit.com/r/Python/comments/qc3sdk/feedback_on_python_on_delphi/)
 <!-- BLOG-POST-LIST:END -->
