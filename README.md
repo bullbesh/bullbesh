@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Today while I was bored I decided to make a quick fun program in python that would smear a given picture. Because, why not?](https://www.reddit.com/r/Python/comments/qbt1vb/today_while_i_was_bored_i_decided_to_make_a_quick/)
-- [Top 5 Posts of this week](https://www.reddit.com/r/Python/comments/qbsyh9/top_5_posts_of_this_week/)
+- [Storing Scraped Data Alternatives](https://www.reddit.com/r/Python/comments/qbug7j/storing_scraped_data_alternatives/)
+- [Python Training Course in Noida](https://www.reddit.com/r/Python/comments/qbtxlt/python_training_course_in_noida/)
 - [I'd love some feedback on SecureCV, my security program using OpenCV, Twilio and VLC](https://www.reddit.com/r/Python/comments/qbozpi/id_love_some_feedback_on_securecv_my_security/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/qbocp9/wednesday_daily_thread_beginner_questions/)
 - [Learn the basics of NumPy in < 2 hours. (Free)](https://www.reddit.com/r/Python/comments/qbluax/learn_the_basics_of_numpy_in_2_hours_free/)
