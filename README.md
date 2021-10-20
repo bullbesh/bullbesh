@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Git push and login](https://www.reddit.com/r/Python/comments/qc4sf1/git_push_and_login/)
+- [20 Python Snippets You Should Learn in 2021](https://www.reddit.com/r/Python/comments/qc5qvy/20_python_snippets_you_should_learn_in_2021/)
+- [What's your favorite API?](https://www.reddit.com/r/Python/comments/qc5588/whats_your_favorite_api/)
 - [improvements on basic script](https://www.reddit.com/r/Python/comments/qc40m7/improvements_on_basic_script/)
 - [✨Implementing Switch Case In Python✨](https://www.reddit.com/r/Python/comments/qc3ym3/implementing_switch_case_in_python/)
 - [PEP 670 -- Convert macros to functions in the Python C API](https://www.reddit.com/r/Python/comments/qc3u7p/pep_670_convert_macros_to_functions_in_the_python/)
-- [Feedback on Python on Delphi?](https://www.reddit.com/r/Python/comments/qc3sdk/feedback_on_python_on_delphi/)
 <!-- BLOG-POST-LIST:END -->
