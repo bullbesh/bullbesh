@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Create the database table to save data with python and Tkinter](https://www.reddit.com/r/Python/comments/qbvjl3/create_the_database_table_to_save_data_with/)
-- [programming patterns for "data science" (pipelines, analyses, visualization)](https://www.reddit.com/r/Python/comments/qbv7rd/programming_patterns_for_data_science_pipelines/)
-- [Storing Scraped Data Alternatives](https://www.reddit.com/r/Python/comments/qbug7j/storing_scraped_data_alternatives/)
-- [Python Training Course in Noida](https://www.reddit.com/r/Python/comments/qbtxlt/python_training_course_in_noida/)
-- [I'd love some feedback on SecureCV, my security program using OpenCV, Twilio and VLC](https://www.reddit.com/r/Python/comments/qbozpi/id_love_some_feedback_on_securecv_my_security/)
+- [GitHub - michalc/stream-inflate: Uncompress Deflate and Deflate64 streams in pure Python](https://www.reddit.com/r/Python/comments/qbxirn/github_michalcstreaminflate_uncompress_deflate/)
+- [whelp](https://www.reddit.com/r/Python/comments/qbxi6q/whelp/)
+- [Mau v2 - A template-based markup language written in Python](https://www.reddit.com/r/Python/comments/qbx9r4/mau_v2_a_templatebased_markup_language_written_in/)
+- [Problem statement: gdrive save and fetch](https://www.reddit.com/r/Python/comments/qbx35q/problem_statement_gdrive_save_and_fetch/)
+- [PYTHON](https://www.reddit.com/r/Python/comments/qbx21x/python/)
 <!-- BLOG-POST-LIST:END -->
