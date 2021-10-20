@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create the database table to save data with python and Tkinter](https://www.reddit.com/r/Python/comments/qbvjl3/create_the_database_table_to_save_data_with/)
 - [programming patterns for "data science" (pipelines, analyses, visualization)](https://www.reddit.com/r/Python/comments/qbv7rd/programming_patterns_for_data_science_pipelines/)
 - [Storing Scraped Data Alternatives](https://www.reddit.com/r/Python/comments/qbug7j/storing_scraped_data_alternatives/)
 - [Python Training Course in Noida](https://www.reddit.com/r/Python/comments/qbtxlt/python_training_course_in_noida/)
 - [I'd love some feedback on SecureCV, my security program using OpenCV, Twilio and VLC](https://www.reddit.com/r/Python/comments/qbozpi/id_love_some_feedback_on_securecv_my_security/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/qbocp9/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
