@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for friends to join Python discord](https://www.reddit.com/r/Python/comments/qby34r/looking_for_friends_to_join_python_discord/)
 - [GitHub - michalc/stream-inflate: Uncompress Deflate and Deflate64 streams in pure Python](https://www.reddit.com/r/Python/comments/qbxirn/github_michalcstreaminflate_uncompress_deflate/)
 - [whelp](https://www.reddit.com/r/Python/comments/qbxi6q/whelp/)
 - [Mau v2 - A template-based markup language written in Python](https://www.reddit.com/r/Python/comments/qbx9r4/mau_v2_a_templatebased_markup_language_written_in/)
 - [Problem statement: gdrive save and fetch](https://www.reddit.com/r/Python/comments/qbx35q/problem_statement_gdrive_save_and_fetch/)
-- [PYTHON](https://www.reddit.com/r/Python/comments/qbx21x/python/)
 <!-- BLOG-POST-LIST:END -->
