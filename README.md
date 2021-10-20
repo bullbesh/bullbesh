@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a live logger for your projects](https://www.reddit.com/r/Python/comments/qbzk3c/i_made_a_live_logger_for_your_projects/)
+- [Best database to store, manage & productize scraped data](https://www.reddit.com/r/Python/comments/qbz31f/best_database_to_store_manage_productize_scraped/)
+- [Python Syntax](https://www.reddit.com/r/Python/comments/qbz04c/python_syntax/)
+- [I didn't understand framework](https://www.reddit.com/r/Python/comments/qbz024/i_didnt_understand_framework/)
 - [Looking for friends to join Python discord](https://www.reddit.com/r/Python/comments/qby34r/looking_for_friends_to_join_python_discord/)
-- [GitHub - michalc/stream-inflate: Uncompress Deflate and Deflate64 streams in pure Python](https://www.reddit.com/r/Python/comments/qbxirn/github_michalcstreaminflate_uncompress_deflate/)
-- [whelp](https://www.reddit.com/r/Python/comments/qbxi6q/whelp/)
-- [Mau v2 - A template-based markup language written in Python](https://www.reddit.com/r/Python/comments/qbx9r4/mau_v2_a_templatebased_markup_language_written_in/)
-- [Problem statement: gdrive save and fetch](https://www.reddit.com/r/Python/comments/qbx35q/problem_statement_gdrive_save_and_fetch/)
 <!-- BLOG-POST-LIST:END -->
