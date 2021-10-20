@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to build a neural network to classify fruits and vegetables using Python, TensorFlow and OpenCV [project]](https://www.reddit.com/r/Python/comments/qc88sq/how_to_build_a_neural_network_to_classify_fruits/)
+- [Where can I get feedback on my very beginner coding projects?](https://www.reddit.com/r/Python/comments/qc862a/where_can_i_get_feedback_on_my_very_beginner/)
 - [20 Python Snippets You Should Learn in 2021](https://www.reddit.com/r/Python/comments/qc5qvy/20_python_snippets_you_should_learn_in_2021/)
 - [What's your favorite API?](https://www.reddit.com/r/Python/comments/qc5588/whats_your_favorite_api/)
 - [improvements on basic script](https://www.reddit.com/r/Python/comments/qc40m7/improvements_on_basic_script/)
-- [PEP 670 -- Convert macros to functions in the Python C API](https://www.reddit.com/r/Python/comments/qc3u7p/pep_670_convert_macros_to_functions_in_the_python/)
-- [Feedback on Python on Delphi?](https://www.reddit.com/r/Python/comments/qc3sdk/feedback_on_python_on_delphi/)
 <!-- BLOG-POST-LIST:END -->
