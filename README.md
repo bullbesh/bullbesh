@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to count double a in a string ?](https://www.reddit.com/r/Python/comments/qcpcr1/how_to_count_double_a_in_a_string/)
 - [Python for Cybersecurity](https://www.reddit.com/r/Python/comments/qcoicp/python_for_cybersecurity/)
 - [One week left for FlaskCon Call For Proposals](https://www.reddit.com/r/Python/comments/qcohqv/one_week_left_for_flaskcon_call_for_proposals/)
 - [Most impactful way you used Python for?](https://www.reddit.com/r/Python/comments/qcnxn6/most_impactful_way_you_used_python_for/)
 - [What's your favorite package for game creation Pygame or Arcade?](https://www.reddit.com/r/Python/comments/qcnm0k/whats_your_favorite_package_for_game_creation/)
-- [I made thousands of Youtube videos using Python](https://www.reddit.com/r/Python/comments/qcna3v/i_made_thousands_of_youtube_videos_using_python/)
 <!-- BLOG-POST-LIST:END -->
