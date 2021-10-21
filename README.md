@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best packages for accessing Wikipedia articles on larger scale?](https://www.reddit.com/r/Python/comments/qcspvn/best_packages_for_accessing_wikipedia_articles_on/)
+- [How to solve this exercise in a simple way?](https://www.reddit.com/r/Python/comments/qcry3h/how_to_solve_this_exercise_in_a_simple_way/)
+- [Retrieve data from the sqlite3 database and display it on the message box with Python](https://www.reddit.com/r/Python/comments/qcrwve/retrieve_data_from_the_sqlite3_database_and/)
 - [Improving Code Confidently with Test-Driven Development](https://www.reddit.com/r/Python/comments/qcqucp/improving_code_confidently_with_testdriven/)
 - [What is a Python Interpreter?](https://www.reddit.com/r/Python/comments/qcq6ek/what_is_a_python_interpreter/)
-- [10 Python Tips & Tricks That You Should Know](https://www.reddit.com/r/Python/comments/qcprhx/10_python_tips_tricks_that_you_should_know/)
-- [Amazing project - Playing Atari with your hands as motion controls [project]](https://www.reddit.com/r/Python/comments/qcpje2/amazing_project_playing_atari_with_your_hands_as/)
-- [How to count double a in a string ?](https://www.reddit.com/r/Python/comments/qcpcr1/how_to_count_double_a_in_a_string/)
 <!-- BLOG-POST-LIST:END -->
