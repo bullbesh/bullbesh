@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for Cybersecurity](https://www.reddit.com/r/Python/comments/qcoicp/python_for_cybersecurity/)
+- [One week left for FlaskCon Call For Proposals](https://www.reddit.com/r/Python/comments/qcohqv/one_week_left_for_flaskcon_call_for_proposals/)
+- [Most impactful way you used Python for?](https://www.reddit.com/r/Python/comments/qcnxn6/most_impactful_way_you_used_python_for/)
 - [What's your favorite package for game creation Pygame or Arcade?](https://www.reddit.com/r/Python/comments/qcnm0k/whats_your_favorite_package_for_game_creation/)
 - [I made thousands of Youtube videos using Python](https://www.reddit.com/r/Python/comments/qcna3v/i_made_thousands_of_youtube_videos_using_python/)
-- [Design patterns articles (3 min read each).](https://www.reddit.com/r/Python/comments/qcmd7f/design_patterns_articles_3_min_read_each/)
-- [What is the one case where Python is faster than NumPy?](https://www.reddit.com/r/Python/comments/qcky3m/what_is_the_one_case_where_python_is_faster_than/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/qcekxo/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
