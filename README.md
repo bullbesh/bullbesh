@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What's the most Pythonic way to interact with the shell? shell hasn't had a release since 2013 (even though the git repo was updated in 2017) and peasyshell is not on PyPi.](https://www.reddit.com/r/Python/comments/qctsms/whats_the_most_pythonic_way_to_interact_with_the/)
+- [Learning Python](https://www.reddit.com/r/Python/comments/qctgyf/learning_python/)
 - [Best packages for accessing Wikipedia articles on larger scale?](https://www.reddit.com/r/Python/comments/qcspvn/best_packages_for_accessing_wikipedia_articles_on/)
 - [How to solve this exercise in a simple way?](https://www.reddit.com/r/Python/comments/qcry3h/how_to_solve_this_exercise_in_a_simple_way/)
 - [Retrieve data from the sqlite3 database and display it on the message box with Python](https://www.reddit.com/r/Python/comments/qcrwve/retrieve_data_from_the_sqlite3_database_and/)
-- [Improving Code Confidently with Test-Driven Development](https://www.reddit.com/r/Python/comments/qcqucp/improving_code_confidently_with_testdriven/)
-- [What is a Python Interpreter?](https://www.reddit.com/r/Python/comments/qcq6ek/what_is_a_python_interpreter/)
 <!-- BLOG-POST-LIST:END -->
