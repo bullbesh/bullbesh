@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [FizzBuzz game using python](https://www.reddit.com/r/Python/comments/qcx56n/fizzbuzz_game_using_python/)
+- [How to properly flatten Pandas dataframe MultiIndex](https://www.reddit.com/r/Python/comments/qcwm5s/how_to_properly_flatten_pandas_dataframe/)
 - [Learning Python and found this great resource](https://www.reddit.com/r/Python/comments/qcvvs6/learning_python_and_found_this_great_resource/)
-- [What's the most Pythonic way to interact with the shell? shell hasn't had a release since 2013 (even though the git repo was updated in 2017) and peasyshell is not on PyPi.](https://www.reddit.com/r/Python/comments/qctsms/whats_the_most_pythonic_way_to_interact_with_the/)
-- [Learning Python](https://www.reddit.com/r/Python/comments/qctgyf/learning_python/)
-- [Best packages for accessing Wikipedia articles on larger scale?](https://www.reddit.com/r/Python/comments/qcspvn/best_packages_for_accessing_wikipedia_articles_on/)
+- [Retrieve data from the sqlite3 database and display it on the message box with Python](https://www.reddit.com/r/Python/comments/qcrwve/retrieve_data_from_the_sqlite3_database_and/)
+- [Improving Code Confidently with Test-Driven Development](https://www.reddit.com/r/Python/comments/qcqucp/improving_code_confidently_with_testdriven/)
 <!-- BLOG-POST-LIST:END -->
