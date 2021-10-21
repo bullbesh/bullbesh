@@ -18,6 +18,6 @@
 - [FizzBuzz game using python](https://www.reddit.com/r/Python/comments/qcx56n/fizzbuzz_game_using_python/)
 - [How to properly flatten Pandas dataframe MultiIndex](https://www.reddit.com/r/Python/comments/qcwm5s/how_to_properly_flatten_pandas_dataframe/)
 - [Learning Python and found this great resource](https://www.reddit.com/r/Python/comments/qcvvs6/learning_python_and_found_this_great_resource/)
-- [Retrieve data from the sqlite3 database and display it on the message box with Python](https://www.reddit.com/r/Python/comments/qcrwve/retrieve_data_from_the_sqlite3_database_and/)
 - [Improving Code Confidently with Test-Driven Development](https://www.reddit.com/r/Python/comments/qcqucp/improving_code_confidently_with_testdriven/)
+- [Amazing project - Playing Atari with your hands as motion controls [project]](https://www.reddit.com/r/Python/comments/qcpje2/amazing_project_playing_atari_with_your_hands_as/)
 <!-- BLOG-POST-LIST:END -->
