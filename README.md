@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I was very impressed with a webcast I saw of Param, a class definition system. I decided to write an article that discusses it and a few other high-quality Python class definition systems](https://www.reddit.com/r/Python/comments/qd16k6/i_was_very_impressed_with_a_webcast_i_saw_of/)
+- [Whats the smart way to have a Python Script talk to a Postgres database?](https://www.reddit.com/r/Python/comments/qd139g/whats_the_smart_way_to_have_a_python_script_talk/)
 - [FizzBuzz game using python](https://www.reddit.com/r/Python/comments/qcx56n/fizzbuzz_game_using_python/)
 - [How to properly flatten Pandas dataframe MultiIndex](https://www.reddit.com/r/Python/comments/qcwm5s/how_to_properly_flatten_pandas_dataframe/)
 - [Learning Python and found this great resource](https://www.reddit.com/r/Python/comments/qcvvs6/learning_python_and_found_this_great_resource/)
-- [Improving Code Confidently with Test-Driven Development](https://www.reddit.com/r/Python/comments/qcqucp/improving_code_confidently_with_testdriven/)
-- [Amazing project - Playing Atari with your hands as motion controls [project]](https://www.reddit.com/r/Python/comments/qcpje2/amazing_project_playing_atari_with_your_hands_as/)
 <!-- BLOG-POST-LIST:END -->
