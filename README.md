@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Improving Code Confidently with Test-Driven Development](https://www.reddit.com/r/Python/comments/qcqucp/improving_code_confidently_with_testdriven/)
 - [What is a Python Interpreter?](https://www.reddit.com/r/Python/comments/qcq6ek/what_is_a_python_interpreter/)
 - [10 Python Tips & Tricks That You Should Know](https://www.reddit.com/r/Python/comments/qcprhx/10_python_tips_tricks_that_you_should_know/)
 - [Amazing project - Playing Atari with your hands as motion controls [project]](https://www.reddit.com/r/Python/comments/qcpje2/amazing_project_playing_atari_with_your_hands_as/)
 - [How to count double a in a string ?](https://www.reddit.com/r/Python/comments/qcpcr1/how_to_count_double_a_in_a_string/)
-- [Python for Cybersecurity](https://www.reddit.com/r/Python/comments/qcoicp/python_for_cybersecurity/)
 <!-- BLOG-POST-LIST:END -->
