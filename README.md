@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Design patterns articles (3 min read each).](https://www.reddit.com/r/Python/comments/qcmd7f/design_patterns_articles_3_min_read_each/)
 - [What is the one case where Python is faster than NumPy?](https://www.reddit.com/r/Python/comments/qcky3m/what_is_the_one_case_where_python_is_faster_than/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/qcekxo/thursday_daily_thread_python_careers_courses_and/)
 - [Cookie sim (updated)](https://www.reddit.com/r/Python/comments/qce86s/cookie_sim_updated/)
 - [How to build a neural network to classify fruits and vegetables using Python, TensorFlow and OpenCV [project]](https://www.reddit.com/r/Python/comments/qc88sq/how_to_build_a_neural_network_to_classify_fruits/)
-- [Where can I get feedback on my very beginner coding projects?](https://www.reddit.com/r/Python/comments/qc862a/where_can_i_get_feedback_on_my_very_beginner/)
 <!-- BLOG-POST-LIST:END -->
