@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PDM - modern Python package manager. First time user impression](https://www.reddit.com/r/Python/comments/qd22lm/pdm_modern_python_package_manager_first_time_user/)
 - [I was very impressed with a webcast I saw of Param, a class definition system. I decided to write an article that discusses it and a few other high-quality Python class definition systems](https://www.reddit.com/r/Python/comments/qd16k6/i_was_very_impressed_with_a_webcast_i_saw_of/)
 - [Whats the smart way to have a Python Script talk to a Postgres database?](https://www.reddit.com/r/Python/comments/qd139g/whats_the_smart_way_to_have_a_python_script_talk/)
 - [FizzBuzz game using python](https://www.reddit.com/r/Python/comments/qcx56n/fizzbuzz_game_using_python/)
 - [How to properly flatten Pandas dataframe MultiIndex](https://www.reddit.com/r/Python/comments/qcwm5s/how_to_properly_flatten_pandas_dataframe/)
-- [Learning Python and found this great resource](https://www.reddit.com/r/Python/comments/qcvvs6/learning_python_and_found_this_great_resource/)
 <!-- BLOG-POST-LIST:END -->
