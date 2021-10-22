@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyTorch 1.10 Release, including CUDA Graphs APIs, Frontend and Compiler Improvements](https://www.reddit.com/r/Python/comments/qdef2a/pytorch_110_release_including_cuda_graphs_apis/)
+- [Home Automation using Python, Arduino and Smart Phone](https://www.reddit.com/r/Python/comments/qde967/home_automation_using_python_arduino_and_smart/)
+- [How to set up Python Environment?](https://www.reddit.com/r/Python/comments/qde3xu/how_to_set_up_python_environment/)
+- [How to make a discord.py bot send random messages to a channel after every 2m or given time?](https://www.reddit.com/r/Python/comments/qddy9k/how_to_make_a_discordpy_bot_send_random_messages/)
 - [Algorithm to put a number in its bucket range ?](https://www.reddit.com/r/Python/comments/qdd3y2/algorithm_to_put_a_number_in_its_bucket_range/)
-- [First processor designed using Artificial Intelligence.](https://www.reddit.com/r/Python/comments/qdcjda/first_processor_designed_using_artificial/)
-- [How to automate your deployment and SSH activities with Fabric | Adnan's Random bytes](https://www.reddit.com/r/Python/comments/qdbu61/how_to_automate_your_deployment_and_ssh/)
-- [Bowler · Safe code refactoring for modern Python](https://www.reddit.com/r/Python/comments/qdblnt/bowler_safe_code_refactoring_for_modern_python/)
-- [I made a Tiny Blockchain where blocks can be mined using an Arduino and similar microcontrollers](https://www.reddit.com/r/Python/comments/qdauzn/i_made_a_tiny_blockchain_where_blocks_can_be/)
 <!-- BLOG-POST-LIST:END -->
