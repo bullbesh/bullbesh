@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lakshmi: Command-line tool for managing your investment portfolio](https://www.reddit.com/r/Python/comments/qdqbis/lakshmi_commandline_tool_for_managing_your/)
+- [Python passwords manager and generator](https://www.reddit.com/r/Python/comments/qdpx3n/python_passwords_manager_and_generator/)
+- [I’m new to python!](https://www.reddit.com/r/Python/comments/qdptae/im_new_to_python/)
 - [How to colorize old black and white movies [project]](https://www.reddit.com/r/Python/comments/qdo06u/how_to_colorize_old_black_and_white_movies_project/)
 - [Package for writing an interactive command line tool](https://www.reddit.com/r/Python/comments/qdnyrf/package_for_writing_an_interactive_command_line/)
-- [async support in the VSCode Python debugging console](https://www.reddit.com/r/Python/comments/qdju9b/async_support_in_the_vscode_python_debugging/)
-- [Best TUI Library/Framework](https://www.reddit.com/r/Python/comments/qdj1xr/best_tui_libraryframework/)
-- [Watch our Python MeetUp talks on YouTube!](https://www.reddit.com/r/Python/comments/qdit2a/watch_our_python_meetup_talks_on_youtube/)
 <!-- BLOG-POST-LIST:END -->
