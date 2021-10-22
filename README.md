@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Algorithm to put a number in its bucket range ?](https://www.reddit.com/r/Python/comments/qdd3y2/algorithm_to_put_a_number_in_its_bucket_range/)
 - [First processor designed using Artificial Intelligence.](https://www.reddit.com/r/Python/comments/qdcjda/first_processor_designed_using_artificial/)
 - [How to automate your deployment and SSH activities with Fabric | Adnan's Random bytes](https://www.reddit.com/r/Python/comments/qdbu61/how_to_automate_your_deployment_and_ssh/)
 - [Bowler · Safe code refactoring for modern Python](https://www.reddit.com/r/Python/comments/qdblnt/bowler_safe_code_refactoring_for_modern_python/)
 - [I made a Tiny Blockchain where blocks can be mined using an Arduino and similar microcontrollers](https://www.reddit.com/r/Python/comments/qdauzn/i_made_a_tiny_blockchain_where_blocks_can_be/)
-- [Formatting for programming assignments in schools](https://www.reddit.com/r/Python/comments/qd9jbj/formatting_for_programming_assignments_in_schools/)
 <!-- BLOG-POST-LIST:END -->
