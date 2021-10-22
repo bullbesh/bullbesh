@@ -17,7 +17,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to colorize old black and white movies [project]](https://www.reddit.com/r/Python/comments/qdo06u/how_to_colorize_old_black_and_white_movies_project/)
 - [Package for writing an interactive command line tool](https://www.reddit.com/r/Python/comments/qdnyrf/package_for_writing_an_interactive_command_line/)
-- [I am a GIS coordinator for a small county of less than 20k people. My career has reached a point of stagnation and I'm not really sure what to do. Any advice?](https://www.reddit.com/r/Python/comments/qdn1zo/i_am_a_gis_coordinator_for_a_small_county_of_less/)
 - [async support in the VSCode Python debugging console](https://www.reddit.com/r/Python/comments/qdju9b/async_support_in_the_vscode_python_debugging/)
 - [Best TUI Library/Framework](https://www.reddit.com/r/Python/comments/qdj1xr/best_tui_libraryframework/)
+- [Watch our Python MeetUp talks on YouTube!](https://www.reddit.com/r/Python/comments/qdit2a/watch_our_python_meetup_talks_on_youtube/)
 <!-- BLOG-POST-LIST:END -->
