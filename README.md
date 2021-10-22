@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is best way to model web app subscription architecture?](https://www.reddit.com/r/Python/comments/qdr2kp/what_is_best_way_to_model_web_app_subscription/)
 - [Lakshmi: Command-line tool for managing your investment portfolio](https://www.reddit.com/r/Python/comments/qdqbis/lakshmi_commandline_tool_for_managing_your/)
 - [Python passwords manager and generator](https://www.reddit.com/r/Python/comments/qdpx3n/python_passwords_manager_and_generator/)
 - [I’m new to python!](https://www.reddit.com/r/Python/comments/qdptae/im_new_to_python/)
 - [How to colorize old black and white movies [project]](https://www.reddit.com/r/Python/comments/qdo06u/how_to_colorize_old_black_and_white_movies_project/)
-- [Package for writing an interactive command line tool](https://www.reddit.com/r/Python/comments/qdnyrf/package_for_writing_an_interactive_command_line/)
 <!-- BLOG-POST-LIST:END -->
