@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I have a python interview in capgemini india . can you guys please give me any suggestion or tips for me ?](https://www.reddit.com/r/Python/comments/qdlfc1/i_have_a_python_interview_in_capgemini_india_can/)
-- [I am looking for a team of devs (quite experienced) for a project that if programmed in the right way could bring a big monthly income (it is a scraper connected to discord in a nutshell. If you are interested (knowledge in web-scraping-networking is required ) or you want more info write me](https://www.reddit.com/r/Python/comments/qdjxz2/i_am_looking_for_a_team_of_devs_quite_experienced/)
 - [async support in the VSCode Python debugging console](https://www.reddit.com/r/Python/comments/qdju9b/async_support_in_the_vscode_python_debugging/)
-- [searching for a team](https://www.reddit.com/r/Python/comments/qdjoke/searching_for_a_team/)
 - [Best TUI Library/Framework](https://www.reddit.com/r/Python/comments/qdj1xr/best_tui_libraryframework/)
+- [Watch our Python MeetUp talks on YouTube!](https://www.reddit.com/r/Python/comments/qdit2a/watch_our_python_meetup_talks_on_youtube/)
+- [Exception handling with multiple APIs](https://www.reddit.com/r/Python/comments/qdicg2/exception_handling_with_multiple_apis/)
+- [I wrote a CLI tool to send PostgreSQL statistics to InfluxDB](https://www.reddit.com/r/Python/comments/qdi54x/i_wrote_a_cli_tool_to_send_postgresql_statistics/)
 <!-- BLOG-POST-LIST:END -->
