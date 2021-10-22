@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best TUI Library/Framework](https://www.reddit.com/r/Python/comments/qdj1xr/best_tui_libraryframework/)
+- [Watch our Python MeetUp talks on YouTube!](https://www.reddit.com/r/Python/comments/qdit2a/watch_our_python_meetup_talks_on_youtube/)
+- [Exception handling with multiple APIs](https://www.reddit.com/r/Python/comments/qdicg2/exception_handling_with_multiple_apis/)
+- [I wrote a CLI tool to send PostgreSQL statistics to InfluxDB](https://www.reddit.com/r/Python/comments/qdi54x/i_wrote_a_cli_tool_to_send_postgresql_statistics/)
 - [PyTorch 1.10 Release, including CUDA Graphs APIs, Frontend and Compiler Improvements](https://www.reddit.com/r/Python/comments/qdef2a/pytorch_110_release_including_cuda_graphs_apis/)
-- [How to set up Python Environment?](https://www.reddit.com/r/Python/comments/qde3xu/how_to_set_up_python_environment/)
-- [How to make a discord.py bot send random messages to a channel after every 2m or given time?](https://www.reddit.com/r/Python/comments/qddy9k/how_to_make_a_discordpy_bot_send_random_messages/)
-- [Algorithm to put a number in its bucket range ?](https://www.reddit.com/r/Python/comments/qdd3y2/algorithm_to_put_a_number_in_its_bucket_range/)
-- [First processor designed using Artificial Intelligence.](https://www.reddit.com/r/Python/comments/qdcjda/first_processor_designed_using_artificial/)
 <!-- BLOG-POST-LIST:END -->
