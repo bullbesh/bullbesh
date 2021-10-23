@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Offline reverse image search](https://www.reddit.com/r/Python/comments/qe6hph/offline_reverse_image_search/)
+- [ElectriPy: play around with electrons and protons and visualize their electric forces.](https://www.reddit.com/r/Python/comments/qe5pjx/electripy_play_around_with_electrons_and_protons/)
 - [Attribute error](https://www.reddit.com/r/Python/comments/qe5gfi/attribute_error/)
 - [Created an instagram account for python tips and tricks](https://www.reddit.com/r/Python/comments/qe4648/created_an_instagram_account_for_python_tips_and/)
 - [Python Financial Analysis: Investment & Data Fundamentals [Udemy free course]](https://www.reddit.com/r/Python/comments/qe2ugm/python_financial_analysis_investment_data/)
-- [Python Scanner, Faster than Nmap.](https://www.reddit.com/r/Python/comments/qe2tti/python_scanner_faster_than_nmap/)
-- [Apple’s new M1 Pro and M1 Max MacBooks](https://www.reddit.com/r/Python/comments/qe2qqf/apples_new_m1_pro_and_m1_max_macbooks/)
 <!-- BLOG-POST-LIST:END -->
