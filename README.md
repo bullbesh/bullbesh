@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Growing cells from kernels in NumPy /w support for geodata](https://www.reddit.com/r/Python/comments/qede5g/growing_cells_from_kernels_in_numpy_w_support_for/)
+- [What are some of the Command-Line Commands writing using Python that you have developed? Link to a tutorial for the basics.](https://www.reddit.com/r/Python/comments/qed5eo/what_are_some_of_the_commandline_commands_writing/)
 - [How is Python interpreted?](https://www.reddit.com/r/Python/comments/qeaoib/how_is_python_interpreted/)
-- [List of popular libraries that work with v3.10?](https://www.reddit.com/r/Python/comments/qea3hd/list_of_popular_libraries_that_work_with_v310/)
 - [Searching for most effective libraries of python](https://www.reddit.com/r/Python/comments/qe9rwq/searching_for_most_effective_libraries_of_python/)
-- [Making an interface for non-programmers](https://www.reddit.com/r/Python/comments/qe9qmv/making_an_interface_for_nonprogrammers/)
 - [How to Merge PDF on Linux with Python](https://www.reddit.com/r/Python/comments/qe7d8i/how_to_merge_pdf_on_linux_with_python/)
 <!-- BLOG-POST-LIST:END -->
