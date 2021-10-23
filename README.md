@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How is Python interpreted?](https://www.reddit.com/r/Python/comments/qeaoib/how_is_python_interpreted/)
 - [List of popular libraries that work with v3.10?](https://www.reddit.com/r/Python/comments/qea3hd/list_of_popular_libraries_that_work_with_v310/)
 - [Searching for most effective libraries of python](https://www.reddit.com/r/Python/comments/qe9rwq/searching_for_most_effective_libraries_of_python/)
 - [Making an interface for non-programmers](https://www.reddit.com/r/Python/comments/qe9qmv/making_an_interface_for_nonprogrammers/)
 - [How to Merge PDF on Linux with Python](https://www.reddit.com/r/Python/comments/qe7d8i/how_to_merge_pdf_on_linux_with_python/)
-- [Offline reverse image search](https://www.reddit.com/r/Python/comments/qe6hph/offline_reverse_image_search/)
 <!-- BLOG-POST-LIST:END -->
