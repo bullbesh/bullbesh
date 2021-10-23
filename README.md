@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Financial Analysis: Investment & Data Fundamentals [Udemy free course]](https://www.reddit.com/r/Python/comments/qe2ugm/python_financial_analysis_investment_data/)
+- [Python Scanner, Faster than Nmap.](https://www.reddit.com/r/Python/comments/qe2tti/python_scanner_faster_than_nmap/)
+- [Apple’s new M1 Pro and M1 Max MacBooks](https://www.reddit.com/r/Python/comments/qe2qqf/apples_new_m1_pro_and_m1_max_macbooks/)
+- [What algorithms social medias use for trending and capture attention?](https://www.reddit.com/r/Python/comments/qe2ps3/what_algorithms_social_medias_use_for_trending/)
 - [Recover deleted and overwritten files with RecoverPy 1.4.0](https://www.reddit.com/r/Python/comments/qe1ovu/recover_deleted_and_overwritten_files_with/)
-- [Python Billing System: A Scenario-based Programming](https://www.reddit.com/r/Python/comments/qe1jif/python_billing_system_a_scenariobased_programming/)
-- [What sorts of lesser known operators and statements are there?](https://www.reddit.com/r/Python/comments/qe09fe/what_sorts_of_lesser_known_operators_and/)
-- [Free bundle with 5 Python books from beginner to advanced (Python 101, Practice Python Projects, Pydon'ts, Clean Architectures in Python, and Python re(gex)?)](https://www.reddit.com/r/Python/comments/qdzbua/free_bundle_with_5_python_books_from_beginner_to/)
-- [Hamster++, the crypto wisdom giver](https://www.reddit.com/r/Python/comments/qdz14h/hamster_the_crypto_wisdom_giver/)
 <!-- BLOG-POST-LIST:END -->
