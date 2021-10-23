@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TRPG: A text-based RPG for your terminal](https://www.reddit.com/r/Python/comments/qefs6u/trpg_a_textbased_rpg_for_your_terminal/)
 - [Growing cells from kernels in NumPy /w support for geodata](https://www.reddit.com/r/Python/comments/qede5g/growing_cells_from_kernels_in_numpy_w_support_for/)
 - [What are some of the Command-Line Commands writing using Python that you have developed? Link to a tutorial for the basics.](https://www.reddit.com/r/Python/comments/qed5eo/what_are_some_of_the_commandline_commands_writing/)
 - [How is Python interpreted?](https://www.reddit.com/r/Python/comments/qeaoib/how_is_python_interpreted/)
 - [Searching for most effective libraries of python](https://www.reddit.com/r/Python/comments/qe9rwq/searching_for_most_effective_libraries_of_python/)
-- [How to Merge PDF on Linux with Python](https://www.reddit.com/r/Python/comments/qe7d8i/how_to_merge_pdf_on_linux_with_python/)
 <!-- BLOG-POST-LIST:END -->
