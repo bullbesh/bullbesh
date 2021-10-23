@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What sorts of lesser known operators and statements are there?](https://www.reddit.com/r/Python/comments/qe09fe/what_sorts_of_lesser_known_operators_and/)
 - [Free bundle with 5 Python books from beginner to advanced (Python 101, Practice Python Projects, Pydon'ts, Clean Architectures in Python, and Python re(gex)?)](https://www.reddit.com/r/Python/comments/qdzbua/free_bundle_with_5_python_books_from_beginner_to/)
 - [Hamster++, the crypto wisdom giver](https://www.reddit.com/r/Python/comments/qdz14h/hamster_the_crypto_wisdom_giver/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/qdtj5q/saturday_daily_thread_resource_request_and/)
 - [What is your most controversial Python-related opinion?](https://www.reddit.com/r/Python/comments/qdt2yo/what_is_your_most_controversial_pythonrelated/)
-- [What is best way to model web app subscription architecture?](https://www.reddit.com/r/Python/comments/qdr2kp/what_is_best_way_to_model_web_app_subscription/)
 <!-- BLOG-POST-LIST:END -->
