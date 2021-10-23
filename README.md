@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Merge PDF on Linux with Python](https://www.reddit.com/r/Python/comments/qe7d8i/how_to_merge_pdf_on_linux_with_python/)
-- [my 10 year old is a nightmare need advice](https://www.reddit.com/r/Python/comments/qe6ytk/my_10_year_old_is_a_nightmare_need_advice/)
 - [Offline reverse image search](https://www.reddit.com/r/Python/comments/qe6hph/offline_reverse_image_search/)
 - [ElectriPy: play around with electrons and protons and visualize their electric forces.](https://www.reddit.com/r/Python/comments/qe5pjx/electripy_play_around_with_electrons_and_protons/)
-- [Attribute error](https://www.reddit.com/r/Python/comments/qe5gfi/attribute_error/)
+- [Created an instagram account for python tips and tricks](https://www.reddit.com/r/Python/comments/qe4648/created_an_instagram_account_for_python_tips_and/)
+- [Python Financial Analysis: Investment & Data Fundamentals [Udemy free course]](https://www.reddit.com/r/Python/comments/qe2ugm/python_financial_analysis_investment_data/)
 <!-- BLOG-POST-LIST:END -->
