@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Cybersecurity— Network Tracking using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/qenyw2/python_cybersecurity_network_tracking_using/)
 - [When researching and developing new algorithms to be used in the real-world production environment, what is your workflow and how do you usually do it? Do I have to prototype in Python, and then rewrite all code in C++/Rust?](https://www.reddit.com/r/Python/comments/qemhls/when_researching_and_developing_new_algorithms_to/)
 - [Quick guide to virtual environments](https://www.reddit.com/r/Python/comments/qegxoa/quick_guide_to_virtual_environments/)
 - [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/qego2j/sunday_daily_thread_whats_everyone_working_on/)
 - [I created a package to generate DHCP configurations by pulling data from PHPIPAM](https://www.reddit.com/r/Python/comments/qegnzm/i_created_a_package_to_generate_dhcp/)
-- [TRPG: A text-based RPG for your terminal](https://www.reddit.com/r/Python/comments/qefs6u/trpg_a_textbased_rpg_for_your_terminal/)
 <!-- BLOG-POST-LIST:END -->
