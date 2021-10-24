@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Download en imagen from lazy load](https://www.reddit.com/r/Python/comments/qeyi42/download_en_imagen_from_lazy_load/)
 - [GUI Quiz Application using Tkinter and Open Trivia DB | iRead](https://www.reddit.com/r/Python/comments/qey9yc/gui_quiz_application_using_tkinter_and_open/)
-- [Code for Sudoku Solver Python](https://www.reddit.com/r/Python/comments/qexcsv/code_for_sudoku_solver_python/)
-- [Automatic CPU speed & power optimizer for Linux](https://www.reddit.com/r/Python/comments/qewldy/automatic_cpu_speed_power_optimizer_for_linux/)
 - [I've been using Pycharm Community Edition for a year now. What are the best reasons I should upgrade to professional?](https://www.reddit.com/r/Python/comments/qevzjj/ive_been_using_pycharm_community_edition_for_a/)
+- [Tensor contractions with numpy's einsum function seem slow compared to simple code.](https://www.reddit.com/r/Python/comments/qevahz/tensor_contractions_with_numpys_einsum_function/)
+- [Decode NOAA Weather Satellite images using Python.](https://www.reddit.com/r/Python/comments/qerlb3/decode_noaa_weather_satellite_images_using_python/)
+- [FastAPI JWT User Authentication](https://www.reddit.com/r/Python/comments/qeqgac/fastapi_jwt_user_authentication/)
 <!-- BLOG-POST-LIST:END -->
