@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Decode NOAA Weather Satellite images using Python.](https://www.reddit.com/r/Python/comments/qerlb3/decode_noaa_weather_satellite_images_using_python/)
+- [Can you please check if you can import "getpass" in python 3.10](https://www.reddit.com/r/Python/comments/qerj1d/can_you_please_check_if_you_can_import_getpass_in/)
 - [What the global statement really means in Python](https://www.reddit.com/r/Python/comments/qer3hz/what_the_global_statement_really_means_in_python/)
 - [FastAPI JWT User Authentication](https://www.reddit.com/r/Python/comments/qeqgac/fastapi_jwt_user_authentication/)
 - [[WYC] Easily Build Web Components With Python](https://www.reddit.com/r/Python/comments/qeqb62/wyc_easily_build_web_components_with_python/)
-- [Napoleon's army in color using AI (Generative Adversarial Networks)](https://www.reddit.com/r/Python/comments/qepzdo/napoleons_army_in_color_using_ai_generative/)
-- [Learn the basics of NumPy in < 2 hours. (Free)](https://www.reddit.com/r/Python/comments/qeoqh0/learn_the_basics_of_numpy_in_2_hours_free/)
 <!-- BLOG-POST-LIST:END -->
