@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automatic CPU speed & power optimizer for Linux](https://www.reddit.com/r/Python/comments/qewldy/automatic_cpu_speed_power_optimizer_for_linux/)
+- [I've been using Pycharm Community Edition for a year now. What are the best reasons I should upgrade to professional?](https://www.reddit.com/r/Python/comments/qevzjj/ive_been_using_pycharm_community_edition_for_a/)
 - [Tensor contractions with numpy's einsum function seem slow compared to simple code.](https://www.reddit.com/r/Python/comments/qevahz/tensor_contractions_with_numpys_einsum_function/)
 - [The Complete Intro to Machine Learning with Python | 100%OFF Udemy Coupons For 2 Days](https://www.reddit.com/r/Python/comments/qes98d/the_complete_intro_to_machine_learning_with/)
 - [Decode NOAA Weather Satellite images using Python.](https://www.reddit.com/r/Python/comments/qerlb3/decode_noaa_weather_satellite_images_using_python/)
-- [Can you please check if you can import "getpass" in python 3.10](https://www.reddit.com/r/Python/comments/qerj1d/can_you_please_check_if_you_can_import_getpass_in/)
-- [FastAPI JWT User Authentication](https://www.reddit.com/r/Python/comments/qeqgac/fastapi_jwt_user_authentication/)
 <!-- BLOG-POST-LIST:END -->
