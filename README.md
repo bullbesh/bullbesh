@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Napoleon's army in color using AI (Generative Adversarial Networks)](https://www.reddit.com/r/Python/comments/qepzdo/napoleons_army_in_color_using_ai_generative/)
 - [Learn the basics of NumPy in < 2 hours. (Free)](https://www.reddit.com/r/Python/comments/qeoqh0/learn_the_basics_of_numpy_in_2_hours_free/)
 - [Python Cybersecurity— Network Tracking using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/qenyw2/python_cybersecurity_network_tracking_using/)
 - [When researching and developing new algorithms to be used in the real-world production environment, what is your workflow and how do you usually do it? Do I have to prototype in Python, and then rewrite all code in C++/Rust?](https://www.reddit.com/r/Python/comments/qemhls/when_researching_and_developing_new_algorithms_to/)
 - [Quick guide to virtual environments](https://www.reddit.com/r/Python/comments/qegxoa/quick_guide_to_virtual_environments/)
-- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/qego2j/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
