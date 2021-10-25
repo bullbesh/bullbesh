@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [can't PATCH to SQL server, using fastAPI](https://www.reddit.com/r/Python/comments/qf7m7e/cant_patch_to_sql_server_using_fastapi/)
 - [Where to begin on automating a RFP )tech spec) analysis?](https://www.reddit.com/r/Python/comments/qf6t47/where_to_begin_on_automating_a_rfp_tech_spec/)
 - [Spyder or Eric?](https://www.reddit.com/r/Python/comments/qf6eam/spyder_or_eric/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/qf4gub/monday_daily_thread_project_ideas/)
 - [Hey everyone! I just posted a video on my YouTube Channel on how to perform Simple Linear Regression in Python. If you're getting started with machine learning or just want to learn more about Python, feel free to check it out and let me know what you think. Thanks in advance, hope this helps!](https://www.reddit.com/r/Python/comments/qf24z9/hey_everyone_i_just_posted_a_video_on_my_youtube/)
-- [GUI Quiz Application using Tkinter and Open Trivia DB | iRead](https://www.reddit.com/r/Python/comments/qey9yc/gui_quiz_application_using_tkinter_and_open/)
 <!-- BLOG-POST-LIST:END -->
