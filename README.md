@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ditch jupyter notebook](https://www.reddit.com/r/Python/comments/qfliwu/ditch_jupyter_notebook/)
 - [When you discover deepcopy in python](https://www.reddit.com/r/Python/comments/qfkh1e/when_you_discover_deepcopy_in_python/)
-- [How to correct the error: 'Entry' object is not callable](https://www.reddit.com/r/Python/comments/qfi9s2/how_to_correct_the_error_entry_object_is_not/)
 - [Windows 11 and Python: A good idea or not yet?](https://www.reddit.com/r/Python/comments/qfi67z/windows_11_and_python_a_good_idea_or_not_yet/)
 - [Finding The Electric Potential From Polarized Objects: An Exercise for Vector Calculus Applications in Python](https://www.reddit.com/r/Python/comments/qffpv1/finding_the_electric_potential_from_polarized/)
 - [I Created a Snake AI that always beats the game](https://www.reddit.com/r/Python/comments/qfewne/i_created_a_snake_ai_that_always_beats_the_game/)
