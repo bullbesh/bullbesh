@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created my first NFTs using Python!](https://www.reddit.com/r/Python/comments/qfgou5/i_created_my_first_nfts_using_python/)
 - [Finding The Electric Potential From Polarized Objects: An Exercise for Vector Calculus Applications in Python](https://www.reddit.com/r/Python/comments/qffpv1/finding_the_electric_potential_from_polarized/)
 - [I Created a Snake AI that always beats the game](https://www.reddit.com/r/Python/comments/qfewne/i_created_a_snake_ai_that_always_beats_the_game/)
 - [Notes From the Meeting On Python GIL Removal Between Python Core and Sam Gross](https://www.reddit.com/r/Python/comments/qfefif/notes_from_the_meeting_on_python_gil_removal/)
 - [Know Top Python Projects Every Developer Should Try in 2021](https://www.reddit.com/r/Python/comments/qfe88d/know_top_python_projects_every_developer_should/)
-- [Are you using async httpx for remote service?](https://www.reddit.com/r/Python/comments/qfe70w/are_you_using_async_httpx_for_remote_service/)
 <!-- BLOG-POST-LIST:END -->
