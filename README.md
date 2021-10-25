@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [PSO: Easy concurrency with Python Shared Objects](https://www.reddit.com/r/Python/comments/qfdj8m/pso_easy_concurrency_with_python_shared_objects/)
-- [Build 12 Data Science Apps with Python and Streamlit - Full Course](https://www.reddit.com/r/Python/comments/qfdb0e/build_12_data_science_apps_with_python_and/)
-- [(fastAPI) can't update SQL server data using rest API](https://www.reddit.com/r/Python/comments/qfc11g/fastapi_cant_update_sql_server_data_using_rest_api/)
-- [Structural pattern matching in python 3.10 with examples](https://www.reddit.com/r/Python/comments/qf9slz/structural_pattern_matching_in_python_310_with/)
-- [Must-have projects for a junior dev?](https://www.reddit.com/r/Python/comments/qf9h8s/musthave_projects_for_a_junior_dev/)
+- [Notes From the Meeting On Python GIL Removal Between Python Core and Sam Gross](https://www.reddit.com/r/Python/comments/qfefif/notes_from_the_meeting_on_python_gil_removal/)
+- [Know Top Python Projects Every Developer Should Try in 2021](https://www.reddit.com/r/Python/comments/qfe88d/know_top_python_projects_every_developer_should/)
+- [Are you using async httpx for remote service?](https://www.reddit.com/r/Python/comments/qfe70w/are_you_using_async_httpx_for_remote_service/)
+- [Solve the Traveling salesman problem (Genetic Algorithm , Ant colony optimization)](https://www.reddit.com/r/Python/comments/qfe560/solve_the_traveling_salesman_problem_genetic/)
+- [Removing the GIL: Notes From the Meeting Between Core Devs and the Author of the `nogil`Fork](https://www.reddit.com/r/Python/comments/qfe1sq/removing_the_gil_notes_from_the_meeting_between/)
 <!-- BLOG-POST-LIST:END -->
