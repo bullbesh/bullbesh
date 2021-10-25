@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python I for Power BI Users | 100%OFF | 2 Days](https://www.reddit.com/r/Python/comments/qfmxm5/python_i_for_power_bi_users_100off_2_days/)
+- [Python Bootcamp 2021 Build 15 working Applications and Games | 100%OFF | 2 days](https://www.reddit.com/r/Python/comments/qfmx1v/python_bootcamp_2021_build_15_working/)
 - [ditch jupyter notebook](https://www.reddit.com/r/Python/comments/qfliwu/ditch_jupyter_notebook/)
 - [When you discover deepcopy in python](https://www.reddit.com/r/Python/comments/qfkh1e/when_you_discover_deepcopy_in_python/)
 - [Windows 11 and Python: A good idea or not yet?](https://www.reddit.com/r/Python/comments/qfi67z/windows_11_and_python_a_good_idea_or_not_yet/)
-- [Finding The Electric Potential From Polarized Objects: An Exercise for Vector Calculus Applications in Python](https://www.reddit.com/r/Python/comments/qffpv1/finding_the_electric_potential_from_polarized/)
-- [I Created a Snake AI that always beats the game](https://www.reddit.com/r/Python/comments/qfewne/i_created_a_snake_ai_that_always_beats_the_game/)
 <!-- BLOG-POST-LIST:END -->
