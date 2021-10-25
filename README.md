@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to correct the error: 'Entry' object is not callable](https://www.reddit.com/r/Python/comments/qfi9s2/how_to_correct_the_error_entry_object_is_not/)
+- [Windows 11 and Python: A good idea or not yet?](https://www.reddit.com/r/Python/comments/qfi67z/windows_11_and_python_a_good_idea_or_not_yet/)
 - [I created my first NFTs using Python!](https://www.reddit.com/r/Python/comments/qfgou5/i_created_my_first_nfts_using_python/)
 - [Finding The Electric Potential From Polarized Objects: An Exercise for Vector Calculus Applications in Python](https://www.reddit.com/r/Python/comments/qffpv1/finding_the_electric_potential_from_polarized/)
 - [I Created a Snake AI that always beats the game](https://www.reddit.com/r/Python/comments/qfewne/i_created_a_snake_ai_that_always_beats_the_game/)
-- [Notes From the Meeting On Python GIL Removal Between Python Core and Sam Gross](https://www.reddit.com/r/Python/comments/qfefif/notes_from_the_meeting_on_python_gil_removal/)
-- [Know Top Python Projects Every Developer Should Try in 2021](https://www.reddit.com/r/Python/comments/qfe88d/know_top_python_projects_every_developer_should/)
 <!-- BLOG-POST-LIST:END -->
