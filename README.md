@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PSO: Easy concurrency with Python Shared Objects](https://www.reddit.com/r/Python/comments/qfdj8m/pso_easy_concurrency_with_python_shared_objects/)
+- [Build 12 Data Science Apps with Python and Streamlit - Full Course](https://www.reddit.com/r/Python/comments/qfdb0e/build_12_data_science_apps_with_python_and/)
 - [(fastAPI) can't update SQL server data using rest API](https://www.reddit.com/r/Python/comments/qfc11g/fastapi_cant_update_sql_server_data_using_rest_api/)
 - [Structural pattern matching in python 3.10 with examples](https://www.reddit.com/r/Python/comments/qf9slz/structural_pattern_matching_in_python_310_with/)
 - [Must-have projects for a junior dev?](https://www.reddit.com/r/Python/comments/qf9h8s/musthave_projects_for_a_junior_dev/)
-- [Event-Driven Architectures with Kafka and Python](https://www.reddit.com/r/Python/comments/qf85wr/eventdriven_architectures_with_kafka_and_python/)
-- [can't PATCH to SQL server, using fastAPI](https://www.reddit.com/r/Python/comments/qf7m7e/cant_patch_to_sql_server_using_fastapi/)
 <!-- BLOG-POST-LIST:END -->
