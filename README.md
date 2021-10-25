@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Structural pattern matching in python 3.10 with examples](https://www.reddit.com/r/Python/comments/qf9slz/structural_pattern_matching_in_python_310_with/)
 - [Must-have projects for a junior dev?](https://www.reddit.com/r/Python/comments/qf9h8s/musthave_projects_for_a_junior_dev/)
 - [Event-Driven Architectures with Kafka and Python](https://www.reddit.com/r/Python/comments/qf85wr/eventdriven_architectures_with_kafka_and_python/)
-- [how do I get first job as a Python Software Developer?](https://www.reddit.com/r/Python/comments/qf848m/how_do_i_get_first_job_as_a_python_software/)
 - [can't PATCH to SQL server, using fastAPI](https://www.reddit.com/r/Python/comments/qf7m7e/cant_patch_to_sql_server_using_fastapi/)
-- [Where to begin on automating a RFP )tech spec) analysis?](https://www.reddit.com/r/Python/comments/qf6t47/where_to_begin_on_automating_a_rfp_tech_spec/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/qf4gub/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
