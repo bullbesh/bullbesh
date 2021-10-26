@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [A No-code TwitterBot platform with tweepy and fastapi](https://www.reddit.com/r/Python/comments/qg1iv6/a_nocode_twitterbot_platform_with_tweepy_and/)
-- [I made an Artificial Intelligence Twitter bot that is trained to create parody news posts.](https://www.reddit.com/r/Python/comments/qg1gmh/i_made_an_artificial_intelligence_twitter_bot/)
-- [What is logistic regression stand for in python?](https://www.reddit.com/r/Python/comments/qfye0u/what_is_logistic_regression_stand_for_in_python/)
-- [Python in 100 Seconds - by Fireship](https://www.reddit.com/r/Python/comments/qfu53m/python_in_100_seconds_by_fireship/)
-- [Pymail](https://www.reddit.com/r/Python/comments/qfu2yp/pymail/)
+- [Flask QR code generator on AWS BeanStalk](https://www.reddit.com/r/Python/comments/qg2h00/flask_qr_code_generator_on_aws_beanstalk/)
+- [Memory tests solver with using OpenCV and Python](https://www.reddit.com/r/Python/comments/qg2c3p/memory_tests_solver_with_using_opencv_and_python/)
+- [Python for secure / safety critical embedded solutions](https://www.reddit.com/r/Python/comments/qg2aop/python_for_secure_safety_critical_embedded/)
+- [Giving birth to natural instances in object oriented programming](https://www.reddit.com/r/Python/comments/qg25fe/giving_birth_to_natural_instances_in_object/)
+- [How is the conversion of 2D mouse coordinates calculated in the fps game?](https://www.reddit.com/r/Python/comments/qg1y5f/how_is_the_conversion_of_2d_mouse_coordinates/)
 <!-- BLOG-POST-LIST:END -->
