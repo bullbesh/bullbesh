@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Key logger In Python](https://www.reddit.com/r/Python/comments/qg8g5r/simple_key_logger_in_python/)
 - [GUI programming using PyQt/PySide for beginners](https://www.reddit.com/r/Python/comments/qg7dlf/gui_programming_using_pyqtpyside_for_beginners/)
 - [Using the "not" Boolean Operator in Python – Real Python](https://www.reddit.com/r/Python/comments/qg6maq/using_the_not_boolean_operator_in_python_real/)
 - [Flask QR code generator on AWS BeanStalk](https://www.reddit.com/r/Python/comments/qg2h00/flask_qr_code_generator_on_aws_beanstalk/)
 - [Memory tests solver with using OpenCV and Python](https://www.reddit.com/r/Python/comments/qg2c3p/memory_tests_solver_with_using_opencv_and_python/)
-- [Python for secure / safety critical embedded solutions](https://www.reddit.com/r/Python/comments/qg2aop/python_for_secure_safety_critical_embedded/)
 <!-- BLOG-POST-LIST:END -->
