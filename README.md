@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can Python use a GUI as a human can? For example...](https://www.reddit.com/r/Python/comments/qgfmbk/can_python_use_a_gui_as_a_human_can_for_example/)
+- [Hyperparameter Tuning and CIFAR-10](https://www.reddit.com/r/Python/comments/qgihud/hyperparameter_tuning_and_cifar10/)
+- [wanna vote what to build?](https://www.reddit.com/r/Python/comments/qghyvb/wanna_vote_what_to_build/)
 - [Where to code in python on a cellphone](https://www.reddit.com/r/Python/comments/qge596/where_to_code_in_python_on_a_cellphone/)
 - [Web Scraping in a professional setting: Selenium vs. BeautifulSoup](https://www.reddit.com/r/Python/comments/qgdx1z/web_scraping_in_a_professional_setting_selenium/)
 - [Grouping and storing several clusters separately from a scatter graph](https://www.reddit.com/r/Python/comments/qgd826/grouping_and_storing_several_clusters_separately/)
-- [Intro to Webhooks and How to Receive them with Python](https://www.reddit.com/r/Python/comments/qgbaiz/intro_to_webhooks_and_how_to_receive_them_with/)
 <!-- BLOG-POST-LIST:END -->
