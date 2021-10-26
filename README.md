@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Where to code in python on a cellphone](https://www.reddit.com/r/Python/comments/qge596/where_to_code_in_python_on_a_cellphone/)
+- [Web Scraping in a professional setting: Selenium vs. BeautifulSoup](https://www.reddit.com/r/Python/comments/qgdx1z/web_scraping_in_a_professional_setting_selenium/)
 - [Grouping and storing several clusters separately from a scatter graph](https://www.reddit.com/r/Python/comments/qgd826/grouping_and_storing_several_clusters_separately/)
 - [Intro to Webhooks and How to Receive them with Python](https://www.reddit.com/r/Python/comments/qgbaiz/intro_to_webhooks_and_how_to_receive_them_with/)
 - [Python Access to a Locally Stored BTC blockchain?](https://www.reddit.com/r/Python/comments/qg9qzz/python_access_to_a_locally_stored_btc_blockchain/)
-- [[Showcasing] A beginner telegram crypto bot](https://www.reddit.com/r/Python/comments/qg8uz2/showcasing_a_beginner_telegram_crypto_bot/)
-- [Simple Key logger In Python](https://www.reddit.com/r/Python/comments/qg8g5r/simple_key_logger_in_python/)
 <!-- BLOG-POST-LIST:END -->
