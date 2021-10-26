@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Grouping and storing several clusters separately from a scatter graph](https://www.reddit.com/r/Python/comments/qgd826/grouping_and_storing_several_clusters_separately/)
 - [Intro to Webhooks and How to Receive them with Python](https://www.reddit.com/r/Python/comments/qgbaiz/intro_to_webhooks_and_how_to_receive_them_with/)
 - [Python Access to a Locally Stored BTC blockchain?](https://www.reddit.com/r/Python/comments/qg9qzz/python_access_to_a_locally_stored_btc_blockchain/)
 - [[Showcasing] A beginner telegram crypto bot](https://www.reddit.com/r/Python/comments/qg8uz2/showcasing_a_beginner_telegram_crypto_bot/)
 - [Simple Key logger In Python](https://www.reddit.com/r/Python/comments/qg8g5r/simple_key_logger_in_python/)
-- [GUI programming using PyQt/PySide for beginners](https://www.reddit.com/r/Python/comments/qg7dlf/gui_programming_using_pyqtpyside_for_beginners/)
 <!-- BLOG-POST-LIST:END -->
