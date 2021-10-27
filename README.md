@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [logram: Get Telegram alerts from prod environment](https://www.reddit.com/r/Python/comments/qgxjru/logram_get_telegram_alerts_from_prod_environment/)
+- [Train Invaders: Jupyter Notebook + Space Invaders!?](https://www.reddit.com/r/Python/comments/qgxejy/train_invaders_jupyter_notebook_space_invaders/)
+- [Web Scraping: Intercepting XHR Requests](https://www.reddit.com/r/Python/comments/qgx567/web_scraping_intercepting_xhr_requests/)
+- [Python - Combine excel files and remove duplication tutorial](https://www.reddit.com/r/Python/comments/qgx3l3/python_combine_excel_files_and_remove_duplication/)
 - [Why does a function with a mutable default argument, like a list, uses the same list in each successive call?](https://www.reddit.com/r/Python/comments/qgwdgs/why_does_a_function_with_a_mutable_default/)
-- [A fun little script I've made.](https://www.reddit.com/r/Python/comments/qgw8c7/a_fun_little_script_ive_made/)
-- [PyWisher | Automatic Birthday Wisher](https://www.reddit.com/r/Python/comments/qgw7ft/pywisher_automatic_birthday_wisher/)
-- [Learn Object Oriented Programming in Python in 69 Seconds](https://www.reddit.com/r/Python/comments/qgw508/learn_object_oriented_programming_in_python_in_69/)
-- [Numpy on the GPU? Speeding up Simple Machine Learning Algorithms with JAX](https://www.reddit.com/r/Python/comments/qgvz5u/numpy_on_the_gpu_speeding_up_simple_machine/)
 <!-- BLOG-POST-LIST:END -->
