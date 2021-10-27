@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [If I were to develop a decent game using Python, would I be able to port it to Nintendo eShop? (Given I follow their regulations and developer portal)](https://www.reddit.com/r/Python/comments/qgqvna/if_i_were_to_develop_a_decent_game_using_python/)
+- [Pyston roadmap | The Pyston Blog](https://www.reddit.com/r/Python/comments/qgq8de/pyston_roadmap_the_pyston_blog/)
 - [LinkedList, PriorityQueue, TreeMap in Python ?](https://www.reddit.com/r/Python/comments/qgpail/linkedlist_priorityqueue_treemap_in_python/)
 - [Use customized and isolated python environment in Apache Zeppelin notebook](https://www.reddit.com/r/Python/comments/qglyle/use_customized_and_isolated_python_environment_in/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/qgjqzd/wednesday_daily_thread_beginner_questions/)
-- [Play Python in Zeppelin Docker Container](https://www.reddit.com/r/Python/comments/qgj0ls/play_python_in_zeppelin_docker_container/)
-- [Hyperparameter Tuning and CIFAR-10](https://www.reddit.com/r/Python/comments/qgihud/hyperparameter_tuning_and_cifar10/)
 <!-- BLOG-POST-LIST:END -->
