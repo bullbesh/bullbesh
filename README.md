@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [75% discount to PyData Global 2021, Oct 28–30 (via IBM Data Science Community)](https://www.reddit.com/r/Python/comments/qh0bdj/75_discount_to_pydata_global_2021_oct_2830_via/)
+- [Python executable installation mess](https://www.reddit.com/r/Python/comments/qh06bq/python_executable_installation_mess/)
+- [Yet Another Voice Activity Detection Engine](https://www.reddit.com/r/Python/comments/qh03nd/yet_another_voice_activity_detection_engine/)
 - [An Quick Introduction to Parser Combinators](https://www.reddit.com/r/Python/comments/qgyqiw/an_quick_introduction_to_parser_combinators/)
 - [logram: Get Telegram alerts from prod environment](https://www.reddit.com/r/Python/comments/qgxjru/logram_get_telegram_alerts_from_prod_environment/)
-- [Train Invaders: Jupyter Notebook + Space Invaders!?](https://www.reddit.com/r/Python/comments/qgxejy/train_invaders_jupyter_notebook_space_invaders/)
-- [Web Scraping: Intercepting XHR Requests](https://www.reddit.com/r/Python/comments/qgx567/web_scraping_intercepting_xhr_requests/)
-- [Python - Combine excel files and remove duplication tutorial](https://www.reddit.com/r/Python/comments/qgx3l3/python_combine_excel_files_and_remove_duplication/)
 <!-- BLOG-POST-LIST:END -->
