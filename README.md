@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is this why its not recommended to use __del__ ?](https://www.reddit.com/r/Python/comments/qh7n04/is_this_why_its_not_recommended_to_use_del/)
-- [My First package too!](https://www.reddit.com/r/Python/comments/qh79kh/my_first_package_too/)
 - [download videos and music off youtube](https://www.reddit.com/r/Python/comments/qh6hv5/download_videos_and_music_off_youtube/)
 - [Playing with Python `__path__` attribute](https://www.reddit.com/r/Python/comments/qh68wz/playing_with_python_path_attribute/)
 - [Announcing the Modzy AI Hackathon 2021- build an app with our Python SDK and win part of the $25K prize pool!](https://www.reddit.com/r/Python/comments/qh5xla/announcing_the_modzy_ai_hackathon_2021_build_an/)
+- [A platform to schedule python scripts. What do you think?](https://www.reddit.com/r/Python/comments/qh3pyf/a_platform_to_schedule_python_scripts_what_do_you/)
+- [2D graph Animation in Jupyter Notebook](https://www.reddit.com/r/Python/comments/qh2dvh/2d_graph_animation_in_jupyter_notebook/)
 <!-- BLOG-POST-LIST:END -->
