@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2D graph Animation in Jupyter Notebook](https://www.reddit.com/r/Python/comments/qh2dvh/2d_graph_animation_in_jupyter_notebook/)
+- [Collection of Python scripts that are split by topics and contain code examples with explanations.](https://www.reddit.com/r/Python/comments/qh1yol/collection_of_python_scripts_that_are_split_by/)
 - [Cython vs Python vs PyPy vs CPython: Python with C and Beyond](https://www.reddit.com/r/Python/comments/qh1e8u/cython_vs_python_vs_pypy_vs_cpython_python_with_c/)
 - [Pants 2.8 supports PEP 517 to more easily build native extensions](https://www.reddit.com/r/Python/comments/qh15m6/pants_28_supports_pep_517_to_more_easily_build/)
 - [Python Financial Stock analysis (Algo Trading)](https://www.reddit.com/r/Python/comments/qh14vs/python_financial_stock_analysis_algo_trading/)
-- [Space Science with Python - Part 8: Planets in the sky](https://www.reddit.com/r/Python/comments/qh0wg8/space_science_with_python_part_8_planets_in_the/)
-- [75% discount to PyData Global 2021, Oct 28–30 (via IBM Data Science Community)](https://www.reddit.com/r/Python/comments/qh0bdj/75_discount_to_pydata_global_2021_oct_2830_via/)
 <!-- BLOG-POST-LIST:END -->
