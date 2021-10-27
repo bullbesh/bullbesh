@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python For Kids FREE STEM Course](https://www.reddit.com/r/Python/comments/qgu6wc/python_for_kids_free_stem_course/)
+- [Hyperparameter Tuning and CIFAR-10](https://www.reddit.com/r/Python/comments/qgu16d/hyperparameter_tuning_and_cifar10/)
 - [Hash Verify App](https://www.reddit.com/r/Python/comments/qgt5en/hash_verify_app/)
 - [My First Python package](https://www.reddit.com/r/Python/comments/qgslea/my_first_python_package/)
 - [I made VidGear that makes Video-Processing with Python as easy as can be](https://www.reddit.com/r/Python/comments/qgrx9x/i_made_vidgear_that_makes_videoprocessing_with/)
-- [If I were to develop a decent game using Python, would I be able to port it to Nintendo eShop? (Given I follow their regulations and developer portal)](https://www.reddit.com/r/Python/comments/qgqvna/if_i_were_to_develop_a_decent_game_using_python/)
-- [Pyston roadmap | The Pyston Blog](https://www.reddit.com/r/Python/comments/qgq8de/pyston_roadmap_the_pyston_blog/)
 <!-- BLOG-POST-LIST:END -->
