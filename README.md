@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [FREE Udemy Bestseller - git & GitHub Crash Course (4.5★) - Limited for <24 hours!](https://www.reddit.com/r/Python/comments/qh4sdy/free_udemy_bestseller_git_github_crash_course_45/)
+- [download videos and music off youtube](https://www.reddit.com/r/Python/comments/qh6hv5/download_videos_and_music_off_youtube/)
+- [Playing with Python `__path__` attribute](https://www.reddit.com/r/Python/comments/qh68wz/playing_with_python_path_attribute/)
+- [Announcing the Modzy AI Hackathon 2021- build an app with our Python SDK and win part of the $25K prize pool!](https://www.reddit.com/r/Python/comments/qh5xla/announcing_the_modzy_ai_hackathon_2021_build_an/)
 - [A platform to schedule python scripts. What do you think?](https://www.reddit.com/r/Python/comments/qh3pyf/a_platform_to_schedule_python_scripts_what_do_you/)
 - [2D graph Animation in Jupyter Notebook](https://www.reddit.com/r/Python/comments/qh2dvh/2d_graph_animation_in_jupyter_notebook/)
-- [Collection of Python scripts that are split by topics and contain code examples with explanations.](https://www.reddit.com/r/Python/comments/qh1yol/collection_of_python_scripts_that_are_split_by/)
-- [Cython vs Python vs PyPy vs CPython: Python with C and Beyond](https://www.reddit.com/r/Python/comments/qh1e8u/cython_vs_python_vs_pypy_vs_cpython_python_with_c/)
 <!-- BLOG-POST-LIST:END -->
