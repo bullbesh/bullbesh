@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LinkedList, PriorityQueue, TreeMap in Python ?](https://www.reddit.com/r/Python/comments/qgpail/linkedlist_priorityqueue_treemap_in_python/)
 - [Use customized and isolated python environment in Apache Zeppelin notebook](https://www.reddit.com/r/Python/comments/qglyle/use_customized_and_isolated_python_environment_in/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/qgjqzd/wednesday_daily_thread_beginner_questions/)
 - [Play Python in Zeppelin Docker Container](https://www.reddit.com/r/Python/comments/qgj0ls/play_python_in_zeppelin_docker_container/)
 - [Hyperparameter Tuning and CIFAR-10](https://www.reddit.com/r/Python/comments/qgihud/hyperparameter_tuning_and_cifar10/)
-- [Where to code in python on a cellphone](https://www.reddit.com/r/Python/comments/qge596/where_to_code_in_python_on_a_cellphone/)
 <!-- BLOG-POST-LIST:END -->
