@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Image classification using deep learning projects based on TensorFlow Pixellib and Python [project]](https://www.reddit.com/r/Python/comments/qhflxy/image_classification_using_deep_learning_projects/)
+- [I made a python game](https://www.reddit.com/r/Python/comments/qhf7fe/i_made_a_python_game/)
 - [First Package](https://www.reddit.com/r/Python/comments/qhanlj/first_package/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/qha339/thursday_daily_thread_python_careers_courses_and/)
 - [download videos and music off youtube](https://www.reddit.com/r/Python/comments/qh6hv5/download_videos_and_music_off_youtube/)
-- [Playing with Python `__path__` attribute](https://www.reddit.com/r/Python/comments/qh68wz/playing_with_python_path_attribute/)
-- [Announcing the Modzy AI Hackathon 2021- build an app with our Python SDK and win part of the $25K prize pool!](https://www.reddit.com/r/Python/comments/qh5xla/announcing_the_modzy_ai_hackathon_2021_build_an/)
 <!-- BLOG-POST-LIST:END -->
