@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thanks to python, I've created a script that can automatically create and upload videos to YouTube](https://www.reddit.com/r/Python/comments/qhkcfg/thanks_to_python_ive_created_a_script_that_can/)
+- [Cannot install twisted web](https://www.reddit.com/r/Python/comments/qhjz8c/cannot_install_twisted_web/)
 - [PEP 671: Syntax for late-bound function defaults](https://www.reddit.com/r/Python/comments/qhjgbn/pep_671_syntax_for_latebound_function_defaults/)
-- [Cancel indentation, seriously](https://www.reddit.com/r/Python/comments/qhjfk0/cancel_indentation_seriously/)
 - [Python Data Science](https://www.reddit.com/r/Python/comments/qhj7lx/python_data_science/)
 - [How to Analyze Football Event Data Using Python](https://www.reddit.com/r/Python/comments/qhi156/how_to_analyze_football_event_data_using_python/)
-- [Airtable FDW python package for Multicorn](https://www.reddit.com/r/Python/comments/qhhwg9/airtable_fdw_python_package_for_multicorn/)
 <!-- BLOG-POST-LIST:END -->
