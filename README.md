@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Apache Airflow with GraalVM](https://www.reddit.com/r/Python/comments/qhosqd/using_apache_airflow_with_graalvm/)
 - [Those of you working with python: How much business logic do you have to code? How complex is it?](https://www.reddit.com/r/Python/comments/qhnuzs/those_of_you_working_with_python_how_much/)
 - [PEP 671: Syntax for late-bound function defaults](https://www.reddit.com/r/Python/comments/qhjgbn/pep_671_syntax_for_latebound_function_defaults/)
 - [Python Data Science](https://www.reddit.com/r/Python/comments/qhj7lx/python_data_science/)
 - [How to Analyze Football Event Data Using Python](https://www.reddit.com/r/Python/comments/qhi156/how_to_analyze_football_event_data_using_python/)
-- [Airtable FDW python package for Multicorn](https://www.reddit.com/r/Python/comments/qhhwg9/airtable_fdw_python_package_for_multicorn/)
 <!-- BLOG-POST-LIST:END -->
