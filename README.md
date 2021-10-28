@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 671: Syntax for late-bound function defaults](https://www.reddit.com/r/Python/comments/qhjgbn/pep_671_syntax_for_latebound_function_defaults/)
+- [Cancel indentation, seriously](https://www.reddit.com/r/Python/comments/qhjfk0/cancel_indentation_seriously/)
+- [Python Data Science](https://www.reddit.com/r/Python/comments/qhj7lx/python_data_science/)
 - [How to Analyze Football Event Data Using Python](https://www.reddit.com/r/Python/comments/qhi156/how_to_analyze_football_event_data_using_python/)
 - [Airtable FDW python package for Multicorn](https://www.reddit.com/r/Python/comments/qhhwg9/airtable_fdw_python_package_for_multicorn/)
-- [list = list + new_list (invoke __add__) . Do not use this example to prove lists are mutable. Use list += new_list (invoke __iadd__) instead.](https://www.reddit.com/r/Python/comments/qhhncv/list_list_new_list_invoke_add_do_not_use_this/)
-- [Image classification using deep learning projects based on TensorFlow Pixellib and Python [project]](https://www.reddit.com/r/Python/comments/qhflxy/image_classification_using_deep_learning_projects/)
-- [I made a python game](https://www.reddit.com/r/Python/comments/qhf7fe/i_made_a_python_game/)
 <!-- BLOG-POST-LIST:END -->
