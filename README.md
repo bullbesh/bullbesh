@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Curious: anyone of you give up on Julia? and why ?](https://www.reddit.com/r/Python/comments/qhljhx/curious_anyone_of_you_give_up_on_julia_and_why/)
+- [Amazing Python Libraries 🛠 For Data Science, In 2021.💥](https://www.reddit.com/r/Python/comments/qhlcrj/amazing_python_libraries_for_data_science_in_2021/)
 - [Thanks to python, I've created a script that can automatically create and upload videos to YouTube](https://www.reddit.com/r/Python/comments/qhkcfg/thanks_to_python_ive_created_a_script_that_can/)
 - [Cannot install twisted web](https://www.reddit.com/r/Python/comments/qhjz8c/cannot_install_twisted_web/)
 - [PEP 671: Syntax for late-bound function defaults](https://www.reddit.com/r/Python/comments/qhjgbn/pep_671_syntax_for_latebound_function_defaults/)
-- [Python Data Science](https://www.reddit.com/r/Python/comments/qhj7lx/python_data_science/)
-- [How to Analyze Football Event Data Using Python](https://www.reddit.com/r/Python/comments/qhi156/how_to_analyze_football_event_data_using_python/)
 <!-- BLOG-POST-LIST:END -->
