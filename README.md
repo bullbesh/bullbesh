@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Update on my Python, C++ and Rust Library](https://www.reddit.com/r/Python/comments/qhr9iu/update_on_my_python_c_and_rust_library/)
-- [Here are a bunch of FREE Beginner & Practical Artificial Intelligence courses:](https://www.reddit.com/r/Python/comments/qhr5s7/here_are_a_bunch_of_free_beginner_practical/)
 - [Improve your Pytest Tests with Nice Fixtures](https://www.reddit.com/r/Python/comments/qhqm0t/improve_your_pytest_tests_with_nice_fixtures/)
 - [Using Apache Airflow with GraalVM](https://www.reddit.com/r/Python/comments/qhosqd/using_apache_airflow_with_graalvm/)
 - [Those of you working with python: How much business logic do you have to code? How complex is it?](https://www.reddit.com/r/Python/comments/qhnuzs/those_of_you_working_with_python_how_much/)
+- [PEP 671: Syntax for late-bound function defaults](https://www.reddit.com/r/Python/comments/qhjgbn/pep_671_syntax_for_latebound_function_defaults/)
 <!-- BLOG-POST-LIST:END -->
