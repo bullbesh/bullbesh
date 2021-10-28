@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Analyze Football Event Data Using Python](https://www.reddit.com/r/Python/comments/qhi156/how_to_analyze_football_event_data_using_python/)
+- [Airtable FDW python package for Multicorn](https://www.reddit.com/r/Python/comments/qhhwg9/airtable_fdw_python_package_for_multicorn/)
+- [list = list + new_list (invoke __add__) . Do not use this example to prove lists are mutable. Use list += new_list (invoke __iadd__) instead.](https://www.reddit.com/r/Python/comments/qhhncv/list_list_new_list_invoke_add_do_not_use_this/)
 - [Image classification using deep learning projects based on TensorFlow Pixellib and Python [project]](https://www.reddit.com/r/Python/comments/qhflxy/image_classification_using_deep_learning_projects/)
 - [I made a python game](https://www.reddit.com/r/Python/comments/qhf7fe/i_made_a_python_game/)
-- [First Package](https://www.reddit.com/r/Python/comments/qhanlj/first_package/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/qha339/thursday_daily_thread_python_careers_courses_and/)
-- [download videos and music off youtube](https://www.reddit.com/r/Python/comments/qh6hv5/download_videos_and_music_off_youtube/)
 <!-- BLOG-POST-LIST:END -->
