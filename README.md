@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Increase the Cell Width in a Jupyter Notebook](https://www.reddit.com/r/Python/comments/qinkm0/how_to_increase_the_cell_width_in_a_jupyter/)
+- [a function that removes nested dicts or class instances from a dict or class instance](https://www.reddit.com/r/Python/comments/qin3oj/a_function_that_removes_nested_dicts_or_class/)
 - [Password Generator using Python and Tkinter](https://www.reddit.com/r/Python/comments/qiinmz/password_generator_using_python_and_tkinter/)
 - [What the "global" statement really means in Python](https://www.reddit.com/r/Python/comments/qihqta/what_the_global_statement_really_means_in_python/)
 - [Getting Started With Selenium Python [Tutorial] | LambdaTest](https://www.reddit.com/r/Python/comments/qig65b/getting_started_with_selenium_python_tutorial/)
-- [Adapt This Excellent Method for Code Resilience, DataFrame Pipe](https://www.reddit.com/r/Python/comments/qifcv6/adapt_this_excellent_method_for_code_resilience/)
-- [Quickly optimizing Python code with FunctionTrace](https://www.reddit.com/r/Python/comments/qiewfa/quickly_optimizing_python_code_with_functiontrace/)
 <!-- BLOG-POST-LIST:END -->
