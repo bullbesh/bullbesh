@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Good 1 udemy course, 1 book to start learning python as well as making projects?](https://www.reddit.com/r/Python/comments/qi80ti/good_1_udemy_course_1_book_to_start_learning/)
 - [Reverse Shell with Python Socket - Taking it Global](https://www.reddit.com/r/Python/comments/qi6rqg/reverse_shell_with_python_socket_taking_it_global/)
 - [Rest API with Python](https://www.reddit.com/r/Python/comments/qi50ev/rest_api_with_python/)
 - [This is why I always end up using NUMBA on my Python projects...](https://www.reddit.com/r/Python/comments/qi1bcg/this_is_why_i_always_end_up_using_numba_on_my/)
 - [I built a PDF scrapper that works with OCR and a GUI making PDF scraping quite easy](https://www.reddit.com/r/Python/comments/qi1815/i_built_a_pdf_scrapper_that_works_with_ocr_and_a/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/qhzyns/friday_daily_thread_free_chat_friday_daily_thread/)
 <!-- BLOG-POST-LIST:END -->
