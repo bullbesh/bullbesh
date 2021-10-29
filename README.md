@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [run python codes on your phone](https://www.reddit.com/r/Python/comments/qiddjr/run_python_codes_on_your_phone/)
+- [Visualize Missing Values with Missingno](https://www.reddit.com/r/Python/comments/qicry3/visualize_missing_values_with_missingno/)
 - [Did anyone take "Web And API Scraping" course? How was the quality?](https://www.reddit.com/r/Python/comments/qicpie/did_anyone_take_web_and_api_scraping_course_how/)
 - [Python for time series visualisation: is it that obvious?](https://www.reddit.com/r/Python/comments/qicl4e/python_for_time_series_visualisation_is_it_that/)
 - [Javscript to Python/PHP transpiler?](https://www.reddit.com/r/Python/comments/qibjgt/javscript_to_pythonphp_transpiler/)
-- [Tell me please. Will I be able to learn a little Python in one year? I want to become a programmer.](https://www.reddit.com/r/Python/comments/qibhnr/tell_me_please_will_i_be_able_to_learn_a_little/)
-- [Why didn't b and c values change after i run the code?b and c stay 0 even if they need to take other values, i'm begginer, pls help me!!!](https://www.reddit.com/r/Python/comments/qib39r/why_didnt_b_and_c_values_change_after_i_run_the/)
 <!-- BLOG-POST-LIST:END -->
