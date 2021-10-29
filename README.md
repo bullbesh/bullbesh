@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Quickly optimizing Python code with FunctionTrace](https://www.reddit.com/r/Python/comments/qiewfa/quickly_optimizing_python_code_with_functiontrace/)
 - [run python codes on your phone](https://www.reddit.com/r/Python/comments/qiddjr/run_python_codes_on_your_phone/)
 - [Visualize Missing Values with Missingno](https://www.reddit.com/r/Python/comments/qicry3/visualize_missing_values_with_missingno/)
 - [Did anyone take "Web And API Scraping" course? How was the quality?](https://www.reddit.com/r/Python/comments/qicpie/did_anyone_take_web_and_api_scraping_course_how/)
 - [Python for time series visualisation: is it that obvious?](https://www.reddit.com/r/Python/comments/qicl4e/python_for_time_series_visualisation_is_it_that/)
-- [Javscript to Python/PHP transpiler?](https://www.reddit.com/r/Python/comments/qibjgt/javscript_to_pythonphp_transpiler/)
 <!-- BLOG-POST-LIST:END -->
