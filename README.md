@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I need to list's name and type's to excel](https://www.reddit.com/r/Python/comments/qi9caq/i_need_to_lists_name_and_types_to_excel/)
 - [Make music with Python! Online workshop with the Music Hackspace](https://www.reddit.com/r/Python/comments/qi8blv/make_music_with_python_online_workshop_with_the/)
 - [GitHub - dionhaefner/pyhpc-benchmarks: A suite of benchmarks for CPU and GPU performance of the most popular high-performance libraries for Python](https://www.reddit.com/r/Python/comments/qi8bdu/github_dionhaefnerpyhpcbenchmarks_a_suite_of/)
 - [Good 1 udemy course, 1 book to start learning python as well as making projects?](https://www.reddit.com/r/Python/comments/qi80ti/good_1_udemy_course_1_book_to_start_learning/)
 - [Reverse Shell with Python Socket - Taking it Global](https://www.reddit.com/r/Python/comments/qi6rqg/reverse_shell_with_python_socket_taking_it_global/)
-- [Rest API with Python](https://www.reddit.com/r/Python/comments/qi50ev/rest_api_with_python/)
 <!-- BLOG-POST-LIST:END -->
