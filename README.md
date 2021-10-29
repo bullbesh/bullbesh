@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Password Generator using Python and Tkinter](https://www.reddit.com/r/Python/comments/qiinmz/password_generator_using_python_and_tkinter/)
 - [What the "global" statement really means in Python](https://www.reddit.com/r/Python/comments/qihqta/what_the_global_statement_really_means_in_python/)
 - [Career Advancement opportunities (this is a jobs post)](https://www.reddit.com/r/Python/comments/qigjyl/career_advancement_opportunities_this_is_a_jobs/)
 - [Getting Started With Selenium Python [Tutorial] | LambdaTest](https://www.reddit.com/r/Python/comments/qig65b/getting_started_with_selenium_python_tutorial/)
 - [Adapt This Excellent Method for Code Resilience, DataFrame Pipe](https://www.reddit.com/r/Python/comments/qifcv6/adapt_this_excellent_method_for_code_resilience/)
-- [Quickly optimizing Python code with FunctionTrace](https://www.reddit.com/r/Python/comments/qiewfa/quickly_optimizing_python_code_with_functiontrace/)
 <!-- BLOG-POST-LIST:END -->
