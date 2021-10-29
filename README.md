@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Javscript to Python/PHP transpiler?](https://www.reddit.com/r/Python/comments/qibjgt/javscript_to_pythonphp_transpiler/)
+- [Tell me please. Will I be able to learn a little Python in one year? I want to become a programmer.](https://www.reddit.com/r/Python/comments/qibhnr/tell_me_please_will_i_be_able_to_learn_a_little/)
+- [Why didn't b and c values change after i run the code?b and c stay 0 even if they need to take other values, i'm begginer, pls help me!!!](https://www.reddit.com/r/Python/comments/qib39r/why_didnt_b_and_c_values_change_after_i_run_the/)
 - [I programmed an app using only python and python packages and published it to the app store take a look!!!](https://www.reddit.com/r/Python/comments/qiaf3o/i_programmed_an_app_using_only_python_and_python/)
 - [In need Mini project Ideas using data structures (prefarably TREE DS like AVL trees)](https://www.reddit.com/r/Python/comments/qiaefg/in_need_mini_project_ideas_using_data_structures/)
-- [I need to list's name and type's to excel](https://www.reddit.com/r/Python/comments/qi9caq/i_need_to_lists_name_and_types_to_excel/)
-- [Make music with Python! Online workshop with the Music Hackspace](https://www.reddit.com/r/Python/comments/qi8blv/make_music_with_python_online_workshop_with_the/)
-- [GitHub - dionhaefner/pyhpc-benchmarks: A suite of benchmarks for CPU and GPU performance of the most popular high-performance libraries for Python](https://www.reddit.com/r/Python/comments/qi8bdu/github_dionhaefnerpyhpcbenchmarks_a_suite_of/)
 <!-- BLOG-POST-LIST:END -->
