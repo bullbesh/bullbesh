@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Algorithms and Data Structures FREE COURSE || Stacks + Min Stack](https://www.reddit.com/r/Python/comments/qj5voa/algorithms_and_data_structures_free_course_stacks/)
+- [Why is the closed form of the Fibonacci sequence not used in competitive programming?](https://www.reddit.com/r/Python/comments/qj5cgf/why_is_the_closed_form_of_the_fibonacci_sequence/)
+- [discover who is connected to your network](https://www.reddit.com/r/Python/comments/qj555j/discover_who_is_connected_to_your_network/)
+- [I am not able to remove the duplicate cards. They have to just have the number in common thats it. Help would be much appreciated](https://www.reddit.com/r/Python/comments/qj52of/i_am_not_able_to_remove_the_duplicate_cards_they/)
 - [PHP vs. Python: Which is better for web development in 2021?](https://www.reddit.com/r/Python/comments/qj4tb0/php_vs_python_which_is_better_for_web_development/)
-- [How can a small open-source project be improved?](https://www.reddit.com/r/Python/comments/qj4516/how_can_a_small_opensource_project_be_improved/)
-- [A password manager](https://www.reddit.com/r/Python/comments/qj2fn2/a_password_manager/)
-- [What is route for DSA for a python beginner](https://www.reddit.com/r/Python/comments/qj12yb/what_is_route_for_dsa_for_a_python_beginner/)
-- [Daemon threads in python](https://www.reddit.com/r/Python/comments/qj10nr/daemon_threads_in_python/)
 <!-- BLOG-POST-LIST:END -->
