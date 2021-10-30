@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [AttributeError: 'tuple' object has no attribute 'endswith'](https://www.reddit.com/r/Python/comments/qisd39/attributeerror_tuple_object_has_no_attribute/)
 - [Electronic configuration of an element](https://www.reddit.com/r/Python/comments/qisb1f/electronic_configuration_of_an_element/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/qiplsx/saturday_daily_thread_resource_request_and/)
 - [The honeymoon period...](https://www.reddit.com/r/Python/comments/qipcp2/the_honeymoon_period/)
 - [Password Generator using Python and Tkinter](https://www.reddit.com/r/Python/comments/qiinmz/password_generator_using_python_and_tkinter/)
+- [What the "global" statement really means in Python](https://www.reddit.com/r/Python/comments/qihqta/what_the_global_statement_really_means_in_python/)
 <!-- BLOG-POST-LIST:END -->
