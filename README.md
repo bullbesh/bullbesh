@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [write game matchstick in python without loops](https://www.reddit.com/r/Python/comments/qiyl0o/write_game_matchstick_in_python_without_loops/)
+- [Python 3.8, 3.9 or 3.10 for new projects?](https://www.reddit.com/r/Python/comments/qiyeqi/python_38_39_or_310_for_new_projects/)
+- [Introduction to Tensorflow-Probability](https://www.reddit.com/r/Python/comments/qiy7o5/introduction_to_tensorflowprobability/)
 - [Electronic configuration of an element](https://www.reddit.com/r/Python/comments/qisb1f/electronic_configuration_of_an_element/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/qiplsx/saturday_daily_thread_resource_request_and/)
-- [The honeymoon period...](https://www.reddit.com/r/Python/comments/qipcp2/the_honeymoon_period/)
-- [Password Generator using Python and Tkinter](https://www.reddit.com/r/Python/comments/qiinmz/password_generator_using_python_and_tkinter/)
-- [What the "global" statement really means in Python](https://www.reddit.com/r/Python/comments/qihqta/what_the_global_statement_really_means_in_python/)
 <!-- BLOG-POST-LIST:END -->
