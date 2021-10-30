@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A password manager](https://www.reddit.com/r/Python/comments/qj2fn2/a_password_manager/)
 - [What is route for DSA for a python beginner](https://www.reddit.com/r/Python/comments/qj12yb/what_is_route_for_dsa_for_a_python_beginner/)
 - [Daemon threads in python](https://www.reddit.com/r/Python/comments/qj10nr/daemon_threads_in_python/)
 - [I just Created A Reddit Scraper that will make Auto-Podcasts](https://www.reddit.com/r/Python/comments/qiz9wt/i_just_created_a_reddit_scraper_that_will_make/)
 - [A (geospatial) python module for DSM to DTM conversion](https://www.reddit.com/r/Python/comments/qiz9dq/a_geospatial_python_module_for_dsm_to_dtm/)
-- [write game matchstick in python without loops](https://www.reddit.com/r/Python/comments/qiyl0o/write_game_matchstick_in_python_without_loops/)
 <!-- BLOG-POST-LIST:END -->
