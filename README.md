@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PHP vs. Python: Which is better for web development in 2021?](https://www.reddit.com/r/Python/comments/qj4tb0/php_vs_python_which_is_better_for_web_development/)
+- [How can a small open-source project be improved?](https://www.reddit.com/r/Python/comments/qj4516/how_can_a_small_opensource_project_be_improved/)
 - [A password manager](https://www.reddit.com/r/Python/comments/qj2fn2/a_password_manager/)
 - [What is route for DSA for a python beginner](https://www.reddit.com/r/Python/comments/qj12yb/what_is_route_for_dsa_for_a_python_beginner/)
 - [Daemon threads in python](https://www.reddit.com/r/Python/comments/qj10nr/daemon_threads_in_python/)
-- [I just Created A Reddit Scraper that will make Auto-Podcasts](https://www.reddit.com/r/Python/comments/qiz9wt/i_just_created_a_reddit_scraper_that_will_make/)
-- [A (geospatial) python module for DSM to DTM conversion](https://www.reddit.com/r/Python/comments/qiz9dq/a_geospatial_python_module_for_dsm_to_dtm/)
 <!-- BLOG-POST-LIST:END -->
