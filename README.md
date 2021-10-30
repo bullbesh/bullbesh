@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [When would it ever be better to use ‘iter’ instead of a loop?](https://www.reddit.com/r/Python/comments/qj951r/when_would_it_ever_be_better_to_use_iter_instead/)
+- [Is my first major project goal realistic?](https://www.reddit.com/r/Python/comments/qj8xg7/is_my_first_major_project_goal_realistic/)
+- [I made a Python tool that helps you know what to say!](https://www.reddit.com/r/Python/comments/qj8une/i_made_a_python_tool_that_helps_you_know_what_to/)
 - [Usage of `global`- yes or nogo?](https://www.reddit.com/r/Python/comments/qj692s/usage_of_global_yes_or_nogo/)
 - [Algorithms and Data Structures FREE COURSE || Stacks + Min Stack](https://www.reddit.com/r/Python/comments/qj5voa/algorithms_and_data_structures_free_course_stacks/)
-- [Why is the closed form of the Fibonacci sequence not used in competitive programming?](https://www.reddit.com/r/Python/comments/qj5cgf/why_is_the_closed_form_of_the_fibonacci_sequence/)
-- [discover who is connected to your network](https://www.reddit.com/r/Python/comments/qj555j/discover_who_is_connected_to_your_network/)
-- [PHP vs. Python: Which is better for web development in 2021?](https://www.reddit.com/r/Python/comments/qj4tb0/php_vs_python_which_is_better_for_web_development/)
 <!-- BLOG-POST-LIST:END -->
