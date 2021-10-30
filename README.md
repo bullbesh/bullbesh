@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Making histogram](https://www.reddit.com/r/Python/comments/qj6zvw/making_histogram/)
 - [Usage of `global`- yes or nogo?](https://www.reddit.com/r/Python/comments/qj692s/usage_of_global_yes_or_nogo/)
 - [Algorithms and Data Structures FREE COURSE || Stacks + Min Stack](https://www.reddit.com/r/Python/comments/qj5voa/algorithms_and_data_structures_free_course_stacks/)
 - [Why is the closed form of the Fibonacci sequence not used in competitive programming?](https://www.reddit.com/r/Python/comments/qj5cgf/why_is_the_closed_form_of_the_fibonacci_sequence/)
 - [discover who is connected to your network](https://www.reddit.com/r/Python/comments/qj555j/discover_who_is_connected_to_your_network/)
+- [PHP vs. Python: Which is better for web development in 2021?](https://www.reddit.com/r/Python/comments/qj4tb0/php_vs_python_which_is_better_for_web_development/)
 <!-- BLOG-POST-LIST:END -->
