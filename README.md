@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just Created A Reddit Scraper that will make Auto-Podcasts](https://www.reddit.com/r/Python/comments/qiz9wt/i_just_created_a_reddit_scraper_that_will_make/)
+- [I'm working on a GUI app to help you practice Python regular expressions, feedback appreciated on MVP](https://www.reddit.com/r/Python/comments/qiz9g5/im_working_on_a_gui_app_to_help_you_practice/)
+- [A (geospatial) python module for DSM to DTM conversion](https://www.reddit.com/r/Python/comments/qiz9dq/a_geospatial_python_module_for_dsm_to_dtm/)
 - [write game matchstick in python without loops](https://www.reddit.com/r/Python/comments/qiyl0o/write_game_matchstick_in_python_without_loops/)
 - [Python 3.8, 3.9 or 3.10 for new projects?](https://www.reddit.com/r/Python/comments/qiyeqi/python_38_39_or_310_for_new_projects/)
-- [Introduction to Tensorflow-Probability](https://www.reddit.com/r/Python/comments/qiy7o5/introduction_to_tensorflowprobability/)
-- [Electronic configuration of an element](https://www.reddit.com/r/Python/comments/qisb1f/electronic_configuration_of_an_element/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/qiplsx/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
