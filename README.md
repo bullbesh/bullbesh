@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [pycamloops - making OpenCV camera loops less of a chore with Python decorators](https://www.reddit.com/r/Python/comments/qjekew/pycamloops_making_opencv_camera_loops_less_of_a/)
+- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/qjdqsk/sunday_daily_thread_whats_everyone_working_on/)
+- [Specific job titles a Python beginner-intermediate could apply and grow knowledge with when seeking out a full time position?](https://www.reddit.com/r/Python/comments/qjd3h0/specific_job_titles_a_python_beginnerintermediate/)
 - [PyFirebirdSql 1.2.1 is released with Firebird4 changes](https://www.reddit.com/r/Python/comments/qjc4ho/pyfirebirdsql_121_is_released_with_firebird4/)
 - [Space Science with Python - Part 9: Ecliptic Coordiantes](https://www.reddit.com/r/Python/comments/qjbqdl/space_science_with_python_part_9_ecliptic/)
-- [When would it ever be better to use ‘iter’ instead of a loop?](https://www.reddit.com/r/Python/comments/qj951r/when_would_it_ever_be_better_to_use_iter_instead/)
-- [Is my first major project goal realistic?](https://www.reddit.com/r/Python/comments/qj8xg7/is_my_first_major_project_goal_realistic/)
-- [I made a Python tool that helps you know what to say!](https://www.reddit.com/r/Python/comments/qj8une/i_made_a_python_tool_that_helps_you_know_what_to/)
 <!-- BLOG-POST-LIST:END -->
