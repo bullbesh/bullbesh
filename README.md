@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [my friend put a script on my pc, what does it mean.](https://www.reddit.com/r/Python/comments/qjg5x9/my_friend_put_a_script_on_my_pc_what_does_it_mean/)
+- [Help_Python](https://www.reddit.com/r/Python/comments/qjffqe/help_python/)
 - [pycamloops - making OpenCV camera loops less of a chore with Python decorators](https://www.reddit.com/r/Python/comments/qjekew/pycamloops_making_opencv_camera_loops_less_of_a/)
 - [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/qjdqsk/sunday_daily_thread_whats_everyone_working_on/)
 - [Specific job titles a Python beginner-intermediate could apply and grow knowledge with when seeking out a full time position?](https://www.reddit.com/r/Python/comments/qjd3h0/specific_job_titles_a_python_beginnerintermediate/)
-- [PyFirebirdSql 1.2.1 is released with Firebird4 changes](https://www.reddit.com/r/Python/comments/qjc4ho/pyfirebirdsql_121_is_released_with_firebird4/)
-- [Space Science with Python - Part 9: Ecliptic Coordiantes](https://www.reddit.com/r/Python/comments/qjbqdl/space_science_with_python_part_9_ecliptic/)
 <!-- BLOG-POST-LIST:END -->
