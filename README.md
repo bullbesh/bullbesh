@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How hard would it be to go from Python to C#?](https://www.reddit.com/r/Python/comments/qjvkbb/how_hard_would_it_be_to_go_from_python_to_c/)
+- [Where can i find a Debugger like Thony IDE?](https://www.reddit.com/r/Python/comments/qjvjpl/where_can_i_find_a_debugger_like_thony_ide/)
 - [Automating Birthday wishes on Facebook using Python](https://www.reddit.com/r/Python/comments/qjuyza/automating_birthday_wishes_on_facebook_using/)
 - [Sourcery.ai - Automatically refactor your code and simplify the structure! Works in PyCharm and VS Code](https://www.reddit.com/r/Python/comments/qjunum/sourceryai_automatically_refactor_your_code_and/)
 - [Native Webscraping on iPad using python (Finally!!)](https://www.reddit.com/r/Python/comments/qjqb27/native_webscraping_on_ipad_using_python_finally/)
-- [I googled how to modify a string during a coding interview](https://www.reddit.com/r/Python/comments/qjpgon/i_googled_how_to_modify_a_string_during_a_coding/)
-- [API creation pricing](https://www.reddit.com/r/Python/comments/qjof7t/api_creation_pricing/)
 <!-- BLOG-POST-LIST:END -->
