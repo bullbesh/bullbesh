@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A command-line tool to download and package novels from multiple sources](https://www.reddit.com/r/Python/comments/qjjed8/a_commandline_tool_to_download_and_package_novels/)
+- [a new way to do documentation](https://www.reddit.com/r/Python/comments/qjj42s/a_new_way_to_do_documentation/)
 - [Would anybody be interested in a file processing tool?](https://www.reddit.com/r/Python/comments/qjic2b/would_anybody_be_interested_in_a_file_processing/)
 - [Help_Python](https://www.reddit.com/r/Python/comments/qjffqe/help_python/)
 - [pycamloops - making OpenCV camera loops less of a chore with Python decorators](https://www.reddit.com/r/Python/comments/qjekew/pycamloops_making_opencv_camera_loops_less_of_a/)
-- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/qjdqsk/sunday_daily_thread_whats_everyone_working_on/)
-- [Specific job titles a Python beginner-intermediate could apply and grow knowledge with when seeking out a full time position?](https://www.reddit.com/r/Python/comments/qjd3h0/specific_job_titles_a_python_beginnerintermediate/)
 <!-- BLOG-POST-LIST:END -->
