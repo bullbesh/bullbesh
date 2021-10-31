@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [A command-line tool to download and package novels from multiple sources](https://www.reddit.com/r/Python/comments/qjjed8/a_commandline_tool_to_download_and_package_novels/)
-- [a new way to do documentation](https://www.reddit.com/r/Python/comments/qjj42s/a_new_way_to_do_documentation/)
-- [Would anybody be interested in a file processing tool?](https://www.reddit.com/r/Python/comments/qjic2b/would_anybody_be_interested_in_a_file_processing/)
-- [Help_Python](https://www.reddit.com/r/Python/comments/qjffqe/help_python/)
-- [pycamloops - making OpenCV camera loops less of a chore with Python decorators](https://www.reddit.com/r/Python/comments/qjekew/pycamloops_making_opencv_camera_loops_less_of_a/)
+- [I built a game that will test your memory power.](https://www.reddit.com/r/Python/comments/qjl3x3/i_built_a_game_that_will_test_your_memory_power/)
+- [I built a game that will test your memory power.](https://www.reddit.com/r/Python/comments/qjl3e4/i_built_a_game_that_will_test_your_memory_power/)
+- [How do you stick to a project without getting tired of it?](https://www.reddit.com/r/Python/comments/qjl2t7/how_do_you_stick_to_a_project_without_getting/)
+- [I built a game that will test your memory power.](https://www.reddit.com/r/Python/comments/qjkq7m/i_built_a_game_that_will_test_your_memory_power/)
+- [ML-KULeuven/socceraction: Convert soccer event stream data to SPADL and value player actions](https://www.reddit.com/r/Python/comments/qjkjff/mlkuleuvensocceraction_convert_soccer_event/)
 <!-- BLOG-POST-LIST:END -->
