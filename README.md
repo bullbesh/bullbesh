@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Pyshell, A Linux Subprocess Module](https://www.reddit.com/r/Python/comments/qjwzz5/pyshell_a_linux_subprocess_module/)
-- [What topics related to Python you wish were covered by tutorials on Youtube?](https://www.reddit.com/r/Python/comments/qjwl79/what_topics_related_to_python_you_wish_were/)
 - [How hard would it be to go from Python to C#?](https://www.reddit.com/r/Python/comments/qjvkbb/how_hard_would_it_be_to_go_from_python_to_c/)
 - [Where can i find a Debugger like Thony IDE?](https://www.reddit.com/r/Python/comments/qjvjpl/where_can_i_find_a_debugger_like_thony_ide/)
 - [Automating Birthday wishes on Facebook using Python](https://www.reddit.com/r/Python/comments/qjuyza/automating_birthday_wishes_on_facebook_using/)
+- [Sourcery.ai - Automatically refactor your code and simplify the structure! Works in PyCharm and VS Code](https://www.reddit.com/r/Python/comments/qjunum/sourceryai_automatically_refactor_your_code_and/)
 <!-- BLOG-POST-LIST:END -->
