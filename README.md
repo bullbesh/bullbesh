@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Branch out from numerical computation and simulations to something more lucrative?](https://www.reddit.com/r/Python/comments/qkm6nk/branch_out_from_numerical_computation_and/)
+- [Am I correct for being disappointed that global statements were part of exercise in class](https://www.reddit.com/r/Python/comments/qklkso/am_i_correct_for_being_disappointed_that_global/)
 - [(PROJECT) My first python game!](https://www.reddit.com/r/Python/comments/qkjt3t/project_my_first_python_game/)
 - [I published a package on PyPi for styling text on the terminal](https://www.reddit.com/r/Python/comments/qkiqce/i_published_a_package_on_pypi_for_styling_text_on/)
 - [Mito: Spreadsheet-like library for Python](https://www.reddit.com/r/Python/comments/qkhx3a/mito_spreadsheetlike_library_for_python/)
-- [orinoco: Functional composable pipelines allowing clean separation of the business logic and its implementation](https://www.reddit.com/r/Python/comments/qkhr3q/orinoco_functional_composable_pipelines_allowing/)
-- [Python error handling in AWS Lambda](https://www.reddit.com/r/Python/comments/qketa0/python_error_handling_in_aws_lambda/)
 <!-- BLOG-POST-LIST:END -->
