@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why is the vector plotting function called “quiver” in matplotlib? This seems so unintuitive](https://www.reddit.com/r/Python/comments/qk3sl3/why_is_the_vector_plotting_function_called_quiver/)
 - [bump-semver-anywhere: bump your semantic version of any software using regex](https://www.reddit.com/r/Python/comments/qk3033/bumpsemveranywhere_bump_your_semantic_version_of/)
 - [How good is python For hope opportunities and salary wise](https://www.reddit.com/r/Python/comments/qk2lho/how_good_is_python_for_hope_opportunities_and/)
 - [Question since I'm into python](https://www.reddit.com/r/Python/comments/qk2g1y/question_since_im_into_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/qk1xna/monday_daily_thread_project_ideas/)
+- [Fresh cipher in python](https://www.reddit.com/r/Python/comments/qk1dcg/fresh_cipher_in_python/)
 <!-- BLOG-POST-LIST:END -->
