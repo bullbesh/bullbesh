@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Index Value](https://www.reddit.com/r/Python/comments/qk46t6/index_value/)
+- [Where to start with chatbots?](https://www.reddit.com/r/Python/comments/qk4zla/where_to_start_with_chatbots/)
 - [Why is the vector plotting function called “quiver” in matplotlib? This seems so unintuitive](https://www.reddit.com/r/Python/comments/qk3sl3/why_is_the_vector_plotting_function_called_quiver/)
 - [bump-semver-anywhere: bump your semantic version of any software using regex](https://www.reddit.com/r/Python/comments/qk3033/bumpsemveranywhere_bump_your_semantic_version_of/)
 - [How good is python For hope opportunities and salary wise](https://www.reddit.com/r/Python/comments/qk2lho/how_good_is_python_for_hope_opportunities_and/)
