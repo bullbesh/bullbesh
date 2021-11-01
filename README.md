@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [(PROJECT) My first python game!](https://www.reddit.com/r/Python/comments/qkjt3t/project_my_first_python_game/)
 - [I published a package on PyPi for styling text on the terminal](https://www.reddit.com/r/Python/comments/qkiqce/i_published_a_package_on_pypi_for_styling_text_on/)
 - [Mito: Spreadsheet-like library for Python](https://www.reddit.com/r/Python/comments/qkhx3a/mito_spreadsheetlike_library_for_python/)
 - [orinoco: Functional composable pipelines allowing clean separation of the business logic and its implementation](https://www.reddit.com/r/Python/comments/qkhr3q/orinoco_functional_composable_pipelines_allowing/)
 - [Python error handling in AWS Lambda](https://www.reddit.com/r/Python/comments/qketa0/python_error_handling_in_aws_lambda/)
-- [Implemented python online compiler](https://www.reddit.com/r/Python/comments/qkeski/implemented_python_online_compiler/)
 <!-- BLOG-POST-LIST:END -->
