@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interesting read about how to boost your pytest tests](https://www.reddit.com/r/Python/comments/qkaxel/interesting_read_about_how_to_boost_your_pytest/)
+- [Text Search](https://www.reddit.com/r/Python/comments/qkavc1/text_search/)
+- [Solve salesman problem (TSP) using mixed integer programming (MIP) technique](https://www.reddit.com/r/Python/comments/qkafsn/solve_salesman_problem_tsp_using_mixed_integer/)
 - [[Beginners] Python 3 Cheat Sheet (syntax, libs, projects..)](https://www.reddit.com/r/Python/comments/qka3fp/beginners_python_3_cheat_sheet_syntax_libs/)
 - [Um hello everyone this is my first post on this subreddit and really my first not copy pasted python program and please tell me if you have any suggestion um thanks?](https://www.reddit.com/r/Python/comments/qk8sbl/um_hello_everyone_this_is_my_first_post_on_this/)
-- [Bypassing reCaptcha using 2Captcha in Python](https://www.reddit.com/r/Python/comments/qk82jr/bypassing_recaptcha_using_2captcha_in_python/)
-- [Getting started with CCXT Crypto Exchange Library and Python | Adnan's Random bytes](https://www.reddit.com/r/Python/comments/qk82j0/getting_started_with_ccxt_crypto_exchange_library/)
-- [bump-semver-anywhere: bump your semantic version of any software using regex](https://www.reddit.com/r/Python/comments/qk3033/bumpsemveranywhere_bump_your_semantic_version_of/)
 <!-- BLOG-POST-LIST:END -->
