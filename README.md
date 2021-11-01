@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Beginners] Python 3 Cheat Sheet (syntax, libs, projects..)](https://www.reddit.com/r/Python/comments/qka3fp/beginners_python_3_cheat_sheet_syntax_libs/)
 - [Um hello everyone this is my first post on this subreddit and really my first not copy pasted python program and please tell me if you have any suggestion um thanks?](https://www.reddit.com/r/Python/comments/qk8sbl/um_hello_everyone_this_is_my_first_post_on_this/)
 - [Bypassing reCaptcha using 2Captcha in Python](https://www.reddit.com/r/Python/comments/qk82jr/bypassing_recaptcha_using_2captcha_in_python/)
 - [Getting started with CCXT Crypto Exchange Library and Python | Adnan's Random bytes](https://www.reddit.com/r/Python/comments/qk82j0/getting_started_with_ccxt_crypto_exchange_library/)
 - [bump-semver-anywhere: bump your semantic version of any software using regex](https://www.reddit.com/r/Python/comments/qk3033/bumpsemveranywhere_bump_your_semantic_version_of/)
-- [How good is python For hope opportunities and salary wise](https://www.reddit.com/r/Python/comments/qk2lho/how_good_is_python_for_hope_opportunities_and/)
 <!-- BLOG-POST-LIST:END -->
