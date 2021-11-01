@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python error handling in AWS Lambda](https://www.reddit.com/r/Python/comments/qketa0/python_error_handling_in_aws_lambda/)
+- [Implemented python online compiler](https://www.reddit.com/r/Python/comments/qkeski/implemented_python_online_compiler/)
+- [7 Commands for Beginners](https://www.reddit.com/r/Python/comments/qkem8m/7_commands_for_beginners/)
+- [GitHub - dionhaefner/pyhpc-benchmarks: A suite of benchmarks for CPU and GPU performance of the most popular high-performance libraries for Python](https://www.reddit.com/r/Python/comments/qke7bp/github_dionhaefnerpyhpcbenchmarks_a_suite_of/)
 - [Python Developers Survey 2021](https://www.reddit.com/r/Python/comments/qkdq1s/python_developers_survey_2021/)
-- [Introducing The C++ DataFrame for data analysis](https://www.reddit.com/r/Python/comments/qkdaey/introducing_the_c_dataframe_for_data_analysis/)
-- [Has someone of biology background switched from R to Python? Was it useful?](https://www.reddit.com/r/Python/comments/qkb4k6/has_someone_of_biology_background_switched_from_r/)
-- [Interesting read about how to boost your pytest tests](https://www.reddit.com/r/Python/comments/qkaxel/interesting_read_about_how_to_boost_your_pytest/)
-- [Text Search](https://www.reddit.com/r/Python/comments/qkavc1/text_search/)
 <!-- BLOG-POST-LIST:END -->
