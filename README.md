@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Pyshell, A Linux Subprocess Module](https://www.reddit.com/r/Python/comments/qjwzz5/pyshell_a_linux_subprocess_module/)
-- [How hard would it be to go from Python to C#?](https://www.reddit.com/r/Python/comments/qjvkbb/how_hard_would_it_be_to_go_from_python_to_c/)
-- [Where can i find a Debugger like Thony IDE?](https://www.reddit.com/r/Python/comments/qjvjpl/where_can_i_find_a_debugger_like_thony_ide/)
-- [Automating Birthday wishes on Facebook using Python](https://www.reddit.com/r/Python/comments/qjuyza/automating_birthday_wishes_on_facebook_using/)
-- [Sourcery.ai - Automatically refactor your code and simplify the structure! Works in PyCharm and VS Code](https://www.reddit.com/r/Python/comments/qjunum/sourceryai_automatically_refactor_your_code_and/)
+- [bump-semver-anywhere: bump your semantic version of any software using regex](https://www.reddit.com/r/Python/comments/qk3033/bumpsemveranywhere_bump_your_semantic_version_of/)
+- [How good is python For hope opportunities and salary wise](https://www.reddit.com/r/Python/comments/qk2lho/how_good_is_python_for_hope_opportunities_and/)
+- [Question since I'm into python](https://www.reddit.com/r/Python/comments/qk2g1y/question_since_im_into_python/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/qk1xna/monday_daily_thread_project_ideas/)
+- [Fresh cipher in python](https://www.reddit.com/r/Python/comments/qk1dcg/fresh_cipher_in_python/)
 <!-- BLOG-POST-LIST:END -->
