@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can I have the best ressources to learn Python ? (I have some background in programming, I learned C and Matlab (along with some Java and MySQL)](https://www.reddit.com/r/Python/comments/qkfd8i/can_i_have_the_best_ressources_to_learn_python_i/)
 - [Python error handling in AWS Lambda](https://www.reddit.com/r/Python/comments/qketa0/python_error_handling_in_aws_lambda/)
 - [Implemented python online compiler](https://www.reddit.com/r/Python/comments/qkeski/implemented_python_online_compiler/)
 - [7 Commands for Beginners](https://www.reddit.com/r/Python/comments/qkem8m/7_commands_for_beginners/)
 - [GitHub - dionhaefner/pyhpc-benchmarks: A suite of benchmarks for CPU and GPU performance of the most popular high-performance libraries for Python](https://www.reddit.com/r/Python/comments/qke7bp/github_dionhaefnerpyhpcbenchmarks_a_suite_of/)
+- [Python Developers Survey 2021](https://www.reddit.com/r/Python/comments/qkdq1s/python_developers_survey_2021/)
 <!-- BLOG-POST-LIST:END -->
