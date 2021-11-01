@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [A Tutorial for all you Python & Matplotlib beginners](https://www.reddit.com/r/Python/comments/qkcdv9/a_tutorial_for_all_you_python_matplotlib_beginners/)
+- [Python Developers Survey 2021](https://www.reddit.com/r/Python/comments/qkdq1s/python_developers_survey_2021/)
+- [Introducing The C++ DataFrame for data analysis](https://www.reddit.com/r/Python/comments/qkdaey/introducing_the_c_dataframe_for_data_analysis/)
 - [Has someone of biology background switched from R to Python? Was it useful?](https://www.reddit.com/r/Python/comments/qkb4k6/has_someone_of_biology_background_switched_from_r/)
 - [Interesting read about how to boost your pytest tests](https://www.reddit.com/r/Python/comments/qkaxel/interesting_read_about_how_to_boost_your_pytest/)
 - [Text Search](https://www.reddit.com/r/Python/comments/qkavc1/text_search/)
-- [Solve salesman problem (TSP) using mixed integer programming (MIP) technique](https://www.reddit.com/r/Python/comments/qkafsn/solve_salesman_problem_tsp_using_mixed_integer/)
 <!-- BLOG-POST-LIST:END -->
