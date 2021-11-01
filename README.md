@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Has someone of biology background switched from R to Python? Was it useful?](https://www.reddit.com/r/Python/comments/qkb4k6/has_someone_of_biology_background_switched_from_r/)
 - [Interesting read about how to boost your pytest tests](https://www.reddit.com/r/Python/comments/qkaxel/interesting_read_about_how_to_boost_your_pytest/)
 - [Text Search](https://www.reddit.com/r/Python/comments/qkavc1/text_search/)
 - [Solve salesman problem (TSP) using mixed integer programming (MIP) technique](https://www.reddit.com/r/Python/comments/qkafsn/solve_salesman_problem_tsp_using_mixed_integer/)
 - [[Beginners] Python 3 Cheat Sheet (syntax, libs, projects..)](https://www.reddit.com/r/Python/comments/qka3fp/beginners_python_3_cheat_sheet_syntax_libs/)
-- [Um hello everyone this is my first post on this subreddit and really my first not copy pasted python program and please tell me if you have any suggestion um thanks?](https://www.reddit.com/r/Python/comments/qk8sbl/um_hello_everyone_this_is_my_first_post_on_this/)
 <!-- BLOG-POST-LIST:END -->
