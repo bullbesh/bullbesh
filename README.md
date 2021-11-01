@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bypassing reCaptcha using 2Captcha in Python](https://www.reddit.com/r/Python/comments/qk82jr/bypassing_recaptcha_using_2captcha_in_python/)
+- [Getting started with CCXT Crypto Exchange Library and Python | Adnan's Random bytes](https://www.reddit.com/r/Python/comments/qk82j0/getting_started_with_ccxt_crypto_exchange_library/)
 - [bump-semver-anywhere: bump your semantic version of any software using regex](https://www.reddit.com/r/Python/comments/qk3033/bumpsemveranywhere_bump_your_semantic_version_of/)
 - [How good is python For hope opportunities and salary wise](https://www.reddit.com/r/Python/comments/qk2lho/how_good_is_python_for_hope_opportunities_and/)
 - [Question since I'm into python](https://www.reddit.com/r/Python/comments/qk2g1y/question_since_im_into_python/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/qk1xna/monday_daily_thread_project_ideas/)
-- [Fresh cipher in python](https://www.reddit.com/r/Python/comments/qk1dcg/fresh_cipher_in_python/)
 <!-- BLOG-POST-LIST:END -->
