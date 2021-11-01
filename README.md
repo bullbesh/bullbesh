@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I published a package on PyPi for styling text on the terminal](https://www.reddit.com/r/Python/comments/qkiqce/i_published_a_package_on_pypi_for_styling_text_on/)
+- [Mito: Spreadsheet-like library for Python](https://www.reddit.com/r/Python/comments/qkhx3a/mito_spreadsheetlike_library_for_python/)
+- [orinoco: Functional composable pipelines allowing clean separation of the business logic and its implementation](https://www.reddit.com/r/Python/comments/qkhr3q/orinoco_functional_composable_pipelines_allowing/)
 - [Python error handling in AWS Lambda](https://www.reddit.com/r/Python/comments/qketa0/python_error_handling_in_aws_lambda/)
 - [Implemented python online compiler](https://www.reddit.com/r/Python/comments/qkeski/implemented_python_online_compiler/)
-- [7 Commands for Beginners](https://www.reddit.com/r/Python/comments/qkem8m/7_commands_for_beginners/)
-- [GitHub - dionhaefner/pyhpc-benchmarks: A suite of benchmarks for CPU and GPU performance of the most popular high-performance libraries for Python](https://www.reddit.com/r/Python/comments/qke7bp/github_dionhaefnerpyhpcbenchmarks_a_suite_of/)
-- [Python Developers Survey 2021](https://www.reddit.com/r/Python/comments/qkdq1s/python_developers_survey_2021/)
 <!-- BLOG-POST-LIST:END -->
