@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SpaCy vs NLTK. Text normalization comparison (with code)](https://www.reddit.com/r/Python/comments/ql817b/spacy_vs_nltk_text_normalization_comparison_with/)
+- [Augmented Analytics: The Future Of Data & Analytics](https://www.reddit.com/r/Python/comments/ql7cg9/augmented_analytics_the_future_of_data_analytics/)
+- [Multiple nested loops](https://www.reddit.com/r/Python/comments/ql75em/multiple_nested_loops/)
+- [Deploying Python apps on Kubernetes without complexities](https://www.reddit.com/r/Python/comments/ql6w5r/deploying_python_apps_on_kubernetes_without/)
 - [Need someone in helping to build , an small desktop automation AI i am currently working on](https://www.reddit.com/r/Python/comments/ql6evh/need_someone_in_helping_to_build_an_small_desktop/)
-- [Python While Loop HELP PLEASE](https://www.reddit.com/r/Python/comments/ql6ek7/python_while_loop_help_please/)
-- [SNI Support in Requests Library](https://www.reddit.com/r/Python/comments/ql5xu8/sni_support_in_requests_library/)
-- [Extract text from PDF](https://www.reddit.com/r/Python/comments/ql4xkf/extract_text_from_pdf/)
-- [Python's zipapp: Build Executable Zip Applications – Real Python](https://www.reddit.com/r/Python/comments/ql2qlp/pythons_zipapp_build_executable_zip_applications/)
 <!-- BLOG-POST-LIST:END -->
