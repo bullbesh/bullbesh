@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 50 Important Python Libraries!](https://www.reddit.com/r/Python/comments/ql1tts/top_50_important_python_libraries/)
+- [Kaggle typo? My mind was blowing up..](https://www.reddit.com/r/Python/comments/ql1rbx/kaggle_typo_my_mind_was_blowing_up/)
+- [I am 14 years old, please rate my work!](https://www.reddit.com/r/Python/comments/ql1opv/i_am_14_years_old_please_rate_my_work/)
+- [Python for Web App Development](https://www.reddit.com/r/Python/comments/ql19et/python_for_web_app_development/)
 - [Optimising a Taskmaster Task with Python](https://www.reddit.com/r/Python/comments/ql0iea/optimising_a_taskmaster_task_with_python/)
-- [Python pathlib Cookbook: 57+ Examples to Master It (2021)](https://www.reddit.com/r/Python/comments/qkyxj2/python_pathlib_cookbook_57_examples_to_master_it/)
-- [Intro To SQLAlchemy](https://www.reddit.com/r/Python/comments/qkwhth/intro_to_sqlalchemy/)
-- [Word doc <> JSON converter in development in Python, would you use it?](https://www.reddit.com/r/Python/comments/qkwcdr/word_doc_json_converter_in_development_in_python/)
-- [Table of Contents (TOC) for python files (.py) in VScode](https://www.reddit.com/r/Python/comments/qkufbr/table_of_contents_toc_for_python_files_py_in/)
 <!-- BLOG-POST-LIST:END -->
