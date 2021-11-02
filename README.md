@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Intro To SQLAlchemy](https://www.reddit.com/r/Python/comments/qkwhth/intro_to_sqlalchemy/)
+- [Word doc <> JSON converter in development in Python, would you use it?](https://www.reddit.com/r/Python/comments/qkwcdr/word_doc_json_converter_in_development_in_python/)
 - [Table of Contents (TOC) for python files (.py) in VScode](https://www.reddit.com/r/Python/comments/qkufbr/table_of_contents_toc_for_python_files_py_in/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/qkrg14/tuesday_daily_thread_advanced_questions/)
 - [Branch out from numerical computation and simulations to something more lucrative?](https://www.reddit.com/r/Python/comments/qkm6nk/branch_out_from_numerical_computation_and/)
-- [Am I correct for being disappointed that global statements were part of exercise in class](https://www.reddit.com/r/Python/comments/qklkso/am_i_correct_for_being_disappointed_that_global/)
-- [(PROJECT) My first python game!](https://www.reddit.com/r/Python/comments/qkjt3t/project_my_first_python_game/)
 <!-- BLOG-POST-LIST:END -->
