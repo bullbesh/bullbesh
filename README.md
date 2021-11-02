@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python's zipapp: Build Executable Zip Applications – Real Python](https://www.reddit.com/r/Python/comments/ql2qlp/pythons_zipapp_build_executable_zip_applications/)
+- [What is a Tensor? | 100 Days of TensorFlow: Episode 1](https://www.reddit.com/r/Python/comments/ql2jaa/what_is_a_tensor_100_days_of_tensorflow_episode_1/)
+- [There's plenty in the data professions that is not glamorous](https://www.reddit.com/r/Python/comments/ql2box/theres_plenty_in_the_data_professions_that_is_not/)
 - [Top 50 Important Python Libraries!](https://www.reddit.com/r/Python/comments/ql1tts/top_50_important_python_libraries/)
 - [Kaggle typo? My mind was blowing up..](https://www.reddit.com/r/Python/comments/ql1rbx/kaggle_typo_my_mind_was_blowing_up/)
-- [I am 14 years old, please rate my work!](https://www.reddit.com/r/Python/comments/ql1opv/i_am_14_years_old_please_rate_my_work/)
-- [Python for Web App Development](https://www.reddit.com/r/Python/comments/ql19et/python_for_web_app_development/)
-- [Optimising a Taskmaster Task with Python](https://www.reddit.com/r/Python/comments/ql0iea/optimising_a_taskmaster_task_with_python/)
 <!-- BLOG-POST-LIST:END -->
