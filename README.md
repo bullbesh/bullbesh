@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 672 -- Unicode-related Security Considerations for Python](https://www.reddit.com/r/Python/comments/qldmin/pep_672_unicoderelated_security_considerations/)
 - [Beautifulsoup - I want to remove all attributes from all tags. But attribute key has a strange encoding](https://www.reddit.com/r/Python/comments/qlbywi/beautifulsoup_i_want_to_remove_all_attributes/)
 - [What is the fastest way to learn Python?](https://www.reddit.com/r/Python/comments/qlbkue/what_is_the_fastest_way_to_learn_python/)
 - [Basic Authentication in Password Manager using Tkinter | iRead](https://www.reddit.com/r/Python/comments/ql9mud/basic_authentication_in_password_manager_using/)
 - [I used Matplotlib to make a timeline of over 7000 SCP articles (AKA all hail spaghetti code)](https://www.reddit.com/r/Python/comments/ql9ihw/i_used_matplotlib_to_make_a_timeline_of_over_7000/)
-- [Use This Simple Rich Method For Best Accuracy, DataFrame Where](https://www.reddit.com/r/Python/comments/ql8yf0/use_this_simple_rich_method_for_best_accuracy/)
 <!-- BLOG-POST-LIST:END -->
