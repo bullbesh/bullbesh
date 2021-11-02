@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python pathlib Cookbook: 57+ Examples to Master It (2021)](https://www.reddit.com/r/Python/comments/qkyxj2/python_pathlib_cookbook_57_examples_to_master_it/)
 - [Intro To SQLAlchemy](https://www.reddit.com/r/Python/comments/qkwhth/intro_to_sqlalchemy/)
 - [Word doc <> JSON converter in development in Python, would you use it?](https://www.reddit.com/r/Python/comments/qkwcdr/word_doc_json_converter_in_development_in_python/)
 - [Table of Contents (TOC) for python files (.py) in VScode](https://www.reddit.com/r/Python/comments/qkufbr/table_of_contents_toc_for_python_files_py_in/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/qkrg14/tuesday_daily_thread_advanced_questions/)
-- [Branch out from numerical computation and simulations to something more lucrative?](https://www.reddit.com/r/Python/comments/qkm6nk/branch_out_from_numerical_computation_and/)
 <!-- BLOG-POST-LIST:END -->
