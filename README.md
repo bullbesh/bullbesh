@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Space Science with Python - Part 10: Equatorial Coordinates](https://www.reddit.com/r/Python/comments/qm2uxg/space_science_with_python_part_10_equatorial/)
+- [Automating file organization with watchdog](https://www.reddit.com/r/Python/comments/qm2s8k/automating_file_organization_with_watchdog/)
 - [PyQtGraph Code Sprint On November 13th and 14th!](https://www.reddit.com/r/Python/comments/qm0bmz/pyqtgraph_code_sprint_on_november_13th_and_14th/)
 - [Python Challenge: Find the program!](https://www.reddit.com/r/Python/comments/qlzszr/python_challenge_find_the_program/)
 - [DUQO: A design uncertainty quantification and optimization framework](https://www.reddit.com/r/Python/comments/qlz5xb/duqo_a_design_uncertainty_quantification_and/)
-- [Great read on how to manage your Python apps' configuration](https://www.reddit.com/r/Python/comments/qlyk2d/great_read_on_how_to_manage_your_python_apps/)
-- [2D game library Arcade 2.6.4 is out!](https://www.reddit.com/r/Python/comments/qlvcqd/2d_game_library_arcade_264_is_out/)
 <!-- BLOG-POST-LIST:END -->
