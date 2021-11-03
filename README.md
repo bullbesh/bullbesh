@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Domain-driven Design (DDD) example project](https://www.reddit.com/r/Python/comments/qm436h/python_domaindriven_design_ddd_example_project/)
+- [Fluid simulation in Python](https://www.reddit.com/r/Python/comments/qm3ltp/fluid_simulation_in_python/)
 - [Space Science with Python - Part 10: Equatorial Coordinates](https://www.reddit.com/r/Python/comments/qm2uxg/space_science_with_python_part_10_equatorial/)
 - [Automating file organization with watchdog](https://www.reddit.com/r/Python/comments/qm2s8k/automating_file_organization_with_watchdog/)
 - [PyQtGraph Code Sprint On November 13th and 14th!](https://www.reddit.com/r/Python/comments/qm0bmz/pyqtgraph_code_sprint_on_november_13th_and_14th/)
-- [Python Challenge: Find the program!](https://www.reddit.com/r/Python/comments/qlzszr/python_challenge_find_the_program/)
-- [DUQO: A design uncertainty quantification and optimization framework](https://www.reddit.com/r/Python/comments/qlz5xb/duqo_a_design_uncertainty_quantification_and/)
 <!-- BLOG-POST-LIST:END -->
