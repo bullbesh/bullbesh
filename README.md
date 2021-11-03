@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DUQO: A design uncertainty quantification and optimization framework](https://www.reddit.com/r/Python/comments/qlz5xb/duqo_a_design_uncertainty_quantification_and/)
+- [Great read on how to manage your Python apps' configuration](https://www.reddit.com/r/Python/comments/qlyk2d/great_read_on_how_to_manage_your_python_apps/)
 - [Bug in Python](https://www.reddit.com/r/Python/comments/qlvw6v/bug_in_python/)
 - [2D game library Arcade 2.6.4 is out!](https://www.reddit.com/r/Python/comments/qlvcqd/2d_game_library_arcade_264_is_out/)
-- [Tricky Python Trivia](https://www.reddit.com/r/Python/comments/qlv3a3/tricky_python_trivia/)
 - [How to manage configurations like a boss in modern python](https://www.reddit.com/r/Python/comments/qludpx/how_to_manage_configurations_like_a_boss_in/)
-- [OctoTube: Voice Search for YouTube](https://www.reddit.com/r/Python/comments/qltxf5/octotube_voice_search_for_youtube/)
 <!-- BLOG-POST-LIST:END -->
