@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unravelling decorators](https://www.reddit.com/r/Python/comments/qlrdl6/unravelling_decorators/)
+- [CryptSIS_2.6 python encryptor](https://www.reddit.com/r/Python/comments/qlqv6a/cryptsis_26_python_encryptor/)
 - [19-State Universal Cellular-Automaton (left) simulating all the Elementary Cellular-Automata (right) in Python](https://www.reddit.com/r/Python/comments/qlpihx/19state_universal_cellularautomaton_left/)
 - [GitHub - beartype/beartype: Unbearably fast O(1) runtime type-checking in pure Python.](https://www.reddit.com/r/Python/comments/qlotne/github_beartypebeartype_unbearably_fast_o1/)
 - [What's the difference between Pyodide and Skulpt?](https://www.reddit.com/r/Python/comments/qlont9/whats_the_difference_between_pyodide_and_skulpt/)
-- [I'm sorry r/Python](https://www.reddit.com/r/Python/comments/qlnune/im_sorry_rpython/)
-- [As a person with Python skills, what do you think of spreadsheet software like Excel, Airtable, etc.?](https://www.reddit.com/r/Python/comments/qlnr83/as_a_person_with_python_skills_what_do_you_think/)
 <!-- BLOG-POST-LIST:END -->
