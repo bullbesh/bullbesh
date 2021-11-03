@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2D game library Arcade 2.6.4 is out!](https://www.reddit.com/r/Python/comments/qlvcqd/2d_game_library_arcade_264_is_out/)
+- [Tricky Python Trivia](https://www.reddit.com/r/Python/comments/qlv3a3/tricky_python_trivia/)
+- [How to manage configurations like a boss in modern python](https://www.reddit.com/r/Python/comments/qludpx/how_to_manage_configurations_like_a_boss_in/)
 - [OctoTube: Voice Search for YouTube](https://www.reddit.com/r/Python/comments/qltxf5/octotube_voice_search_for_youtube/)
 - [Learn Most of Python Syntax in 22 Minutes](https://www.reddit.com/r/Python/comments/qltmmm/learn_most_of_python_syntax_in_22_minutes/)
-- [Created my own API for the first time including docs! Feedback? :)](https://www.reddit.com/r/Python/comments/qltkya/created_my_own_api_for_the_first_time_including/)
-- [Top Ways Python is Helping the World Financial Ecosystem in 2021](https://www.reddit.com/r/Python/comments/qlthni/top_ways_python_is_helping_the_world_financial/)
-- [So what should I do with Python?](https://www.reddit.com/r/Python/comments/qlrtm4/so_what_should_i_do_with_python/)
 <!-- BLOG-POST-LIST:END -->
