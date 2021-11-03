@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/qlhv6y/wednesday_daily_thread_beginner_questions/)
+- [i've been to get around this problem for 2 days but i couldn't fine any similar question online. how can we generate a random string without using lists nor random.choice()](https://www.reddit.com/r/Python/comments/qlhmja/ive_been_to_get_around_this_problem_for_2_days/)
 - [GUI python app to show a stocks graph performance. Made with Matplotlib and Tiingo API.](https://www.reddit.com/r/Python/comments/qlgjqz/gui_python_app_to_show_a_stocks_graph_performance/)
 - [my_ezql - using MySQL the easy way](https://www.reddit.com/r/Python/comments/qlg291/my_ezql_using_mysql_the_easy_way/)
 - [python terminal game engine (textAdventure) now in a usable state](https://www.reddit.com/r/Python/comments/qlg0fw/python_terminal_game_engine_textadventure_now_in/)
-- [How difficult is it to get an entry level/part time programming job with no experience?](https://www.reddit.com/r/Python/comments/qleon8/how_difficult_is_it_to_get_an_entry_levelpart/)
-- [PEP 672 -- Unicode-related Security Considerations for Python](https://www.reddit.com/r/Python/comments/qldmin/pep_672_unicoderelated_security_considerations/)
 <!-- BLOG-POST-LIST:END -->
