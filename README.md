@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OctoTube: Voice Search for YouTube](https://www.reddit.com/r/Python/comments/qltxf5/octotube_voice_search_for_youtube/)
+- [Learn Most of Python Syntax in 22 Minutes](https://www.reddit.com/r/Python/comments/qltmmm/learn_most_of_python_syntax_in_22_minutes/)
+- [Created my own API for the first time including docs! Feedback? :)](https://www.reddit.com/r/Python/comments/qltkya/created_my_own_api_for_the_first_time_including/)
+- [Top Ways Python is Helping the World Financial Ecosystem in 2021](https://www.reddit.com/r/Python/comments/qlthni/top_ways_python_is_helping_the_world_financial/)
 - [So what should I do with Python?](https://www.reddit.com/r/Python/comments/qlrtm4/so_what_should_i_do_with_python/)
-- [Python Virtual Environments Explained ELI5 with House, Power Stations, and Robots](https://www.reddit.com/r/Python/comments/qlrmyp/python_virtual_environments_explained_eli5_with/)
-- [Unravelling decorators](https://www.reddit.com/r/Python/comments/qlrdl6/unravelling_decorators/)
-- [CryptSIS_2.6 python encryptor](https://www.reddit.com/r/Python/comments/qlqv6a/cryptsis_26_python_encryptor/)
-- [19-State Universal Cellular-Automaton (left) simulating all the Elementary Cellular-Automata (right) in Python](https://www.reddit.com/r/Python/comments/qlpihx/19state_universal_cellularautomaton_left/)
 <!-- BLOG-POST-LIST:END -->
