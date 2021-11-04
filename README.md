@@ -17,7 +17,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Scraping window sticker data for a comparison tool?](https://www.reddit.com/r/Python/comments/qmaaha/scraping_window_sticker_data_for_a_comparison_tool/)
 - [Too many climate data resources use closed source, I think that's stupid so made a quick example in Python](https://www.reddit.com/r/Python/comments/qm9ypa/too_many_climate_data_resources_use_closed_source/)
-- [Hey everyone, just wanted to share my favorite playlist for coding! Has a really relaxing/ mellow vibe, quite nice to just put on in the background for a calming atmosphere! If you enjoy how it sounds, make sure to give it a like for easier access to find in your Spotify library 😊 Cheers!](https://www.reddit.com/r/Python/comments/qm8sr5/hey_everyone_just_wanted_to_share_my_favorite/)
 - [Python Package: Lucid Sonic Dreams](https://www.reddit.com/r/Python/comments/qm8nnj/python_package_lucid_sonic_dreams/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/qm7wmt/thursday_daily_thread_python_careers_courses_and/)
+- [A simple brute force tool for WiFi (Linux Only)](https://www.reddit.com/r/Python/comments/qm72x6/a_simple_brute_force_tool_for_wifi_linux_only/)
 <!-- BLOG-POST-LIST:END -->
