@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [where do i learn pseudo code?](https://www.reddit.com/r/Python/comments/qmj6c8/where_do_i_learn_pseudo_code/)
 - [Making a telegram groups data collecting bot](https://www.reddit.com/r/Python/comments/qmhm4j/making_a_telegram_groups_data_collecting_bot/)
 - [Managing Complexity with Architecture Patterns in Python](https://www.reddit.com/r/Python/comments/qmgsja/managing_complexity_with_architecture_patterns_in/)
 - [EazyLoader | Downloading Made Easy](https://www.reddit.com/r/Python/comments/qmgbtr/eazyloader_downloading_made_easy/)
 - [Python is not pass-by-value, nor is it pass-by-reference. It's actually pass-by-assignment.](https://www.reddit.com/r/Python/comments/qmg9h8/python_is_not_passbyvalue_nor_is_it/)
-- [Python script to correlate csv data with api call data](https://www.reddit.com/r/Python/comments/qmep8h/python_script_to_correlate_csv_data_with_api_call/)
 <!-- BLOG-POST-LIST:END -->
