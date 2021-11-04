@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I automated my GitHub profile so it shows a map with the largest earthquakes in the past 24 hours using Plotly and GitHub Actions](https://www.reddit.com/r/Python/comments/qmu762/i_automated_my_github_profile_so_it_shows_a_map/)
 - [Python Developers Survey 2021](https://www.reddit.com/r/Python/comments/qmtlo9/python_developers_survey_2021/)
-- [A python API script modification](https://www.reddit.com/r/Python/comments/qmt65o/a_python_api_script_modification/)
 - [An oral history of Bank Python](https://www.reddit.com/r/Python/comments/qmpymp/an_oral_history_of_bank_python/)
 - [PyData Global 2021: Top 5 Highlights](https://www.reddit.com/r/Python/comments/qmotyp/pydata_global_2021_top_5_highlights/)
 - [API Keys / Secrets](https://www.reddit.com/r/Python/comments/qmlerj/api_keys_secrets/)
