@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [EazyLoader | Downloading Made Easy](https://www.reddit.com/r/Python/comments/qmgbtr/eazyloader_downloading_made_easy/)
+- [Python is not pass-by-value, nor is it pass-by-reference. It's actually pass-by-assignment.](https://www.reddit.com/r/Python/comments/qmg9h8/python_is_not_passbyvalue_nor_is_it/)
 - [Python script to correlate csv data with api call data](https://www.reddit.com/r/Python/comments/qmep8h/python_script_to_correlate_csv_data_with_api_call/)
 - [I finally found a reason to use python at work and would like some constructive criticism on what I came up with.](https://www.reddit.com/r/Python/comments/qmchrg/i_finally_found_a_reason_to_use_python_at_work/)
 - [Scraping window sticker data for a comparison tool?](https://www.reddit.com/r/Python/comments/qmaaha/scraping_window_sticker_data_for_a_comparison_tool/)
-- [Too many climate data resources use closed source, I think that's stupid so made a quick example in Python](https://www.reddit.com/r/Python/comments/qm9ypa/too_many_climate_data_resources_use_closed_source/)
-- [Python Package: Lucid Sonic Dreams](https://www.reddit.com/r/Python/comments/qm8nnj/python_package_lucid_sonic_dreams/)
 <!-- BLOG-POST-LIST:END -->
