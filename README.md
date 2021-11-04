@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [API Keys / Secrets](https://www.reddit.com/r/Python/comments/qmlerj/api_keys_secrets/)
+- [Made a website containing various python algorithms](https://www.reddit.com/r/Python/comments/qml21a/made_a_website_containing_various_python/)
+- [Just a Basic Text Editor... For Your Python Calc!](https://www.reddit.com/r/Python/comments/qmknb3/just_a_basic_text_editor_for_your_python_calc/)
 - [where do i learn pseudo code?](https://www.reddit.com/r/Python/comments/qmj6c8/where_do_i_learn_pseudo_code/)
 - [Making a telegram groups data collecting bot](https://www.reddit.com/r/Python/comments/qmhm4j/making_a_telegram_groups_data_collecting_bot/)
-- [Managing Complexity with Architecture Patterns in Python](https://www.reddit.com/r/Python/comments/qmgsja/managing_complexity_with_architecture_patterns_in/)
-- [EazyLoader | Downloading Made Easy](https://www.reddit.com/r/Python/comments/qmgbtr/eazyloader_downloading_made_easy/)
-- [Python is not pass-by-value, nor is it pass-by-reference. It's actually pass-by-assignment.](https://www.reddit.com/r/Python/comments/qmg9h8/python_is_not_passbyvalue_nor_is_it/)
 <!-- BLOG-POST-LIST:END -->
