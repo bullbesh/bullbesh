@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What're some learning resources and projects for python?](https://www.reddit.com/r/Python/comments/qmo85f/whatre_some_learning_resources_and_projects_for/)
+- [Coding Bootcamps worth the cost? Any other options out there?](https://www.reddit.com/r/Python/comments/qmn5v3/coding_bootcamps_worth_the_cost_any_other_options/)
 - [API Keys / Secrets](https://www.reddit.com/r/Python/comments/qmlerj/api_keys_secrets/)
 - [Made a website containing various python algorithms](https://www.reddit.com/r/Python/comments/qml21a/made_a_website_containing_various_python/)
 - [Just a Basic Text Editor... For Your Python Calc!](https://www.reddit.com/r/Python/comments/qmknb3/just_a_basic_text_editor_for_your_python_calc/)
-- [where do i learn pseudo code?](https://www.reddit.com/r/Python/comments/qmj6c8/where_do_i_learn_pseudo_code/)
-- [Making a telegram groups data collecting bot](https://www.reddit.com/r/Python/comments/qmhm4j/making_a_telegram_groups_data_collecting_bot/)
 <!-- BLOG-POST-LIST:END -->
