@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need ideas for a project for school](https://www.reddit.com/r/Python/comments/qmq069/need_ideas_for_a_project_for_school/)
+- [An oral history of Bank Python](https://www.reddit.com/r/Python/comments/qmpymp/an_oral_history_of_bank_python/)
 - [PyData Global 2021: Top 5 Highlights](https://www.reddit.com/r/Python/comments/qmotyp/pydata_global_2021_top_5_highlights/)
 - [What're some learning resources and projects for python?](https://www.reddit.com/r/Python/comments/qmo85f/whatre_some_learning_resources_and_projects_for/)
 - [API Keys / Secrets](https://www.reddit.com/r/Python/comments/qmlerj/api_keys_secrets/)
-- [Made a website containing various python algorithms](https://www.reddit.com/r/Python/comments/qml21a/made_a_website_containing_various_python/)
-- [Just a Basic Text Editor... For Your Python Calc!](https://www.reddit.com/r/Python/comments/qmknb3/just_a_basic_text_editor_for_your_python_calc/)
 <!-- BLOG-POST-LIST:END -->
