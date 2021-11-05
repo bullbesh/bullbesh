@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- ["Syntax"?](https://www.reddit.com/r/Python/comments/qndsud/syntax/)
 - [I made a 'click the blocks before they fall' game](https://www.reddit.com/r/Python/comments/qncl69/i_made_a_click_the_blocks_before_they_fall_game/)
 - [New to Python and pywinauto](https://www.reddit.com/r/Python/comments/qnc6gp/new_to_python_and_pywinauto/)
 - [EasyOCR - Text and Number Detection in Image | Performance of EasyOCR on different types of Images](https://www.reddit.com/r/Python/comments/qnbfyc/easyocr_text_and_number_detection_in_image/)
 - [Speed performance: generators vs map/filter](https://www.reddit.com/r/Python/comments/qnabfm/speed_performance_generators_vs_mapfilter/)
-- [Basic Encryption/Decryption program](https://www.reddit.com/r/Python/comments/qn9x33/basic_encryptiondecryption_program/)
 <!-- BLOG-POST-LIST:END -->
