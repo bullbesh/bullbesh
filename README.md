@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Voice Assistant using python 2021|Virtual Voice Assistant in Python |Python projects 2021](https://www.reddit.com/r/Python/comments/qn3zw2/voice_assistant_using_python_2021virtual_voice/)
+- [Automate your GitHub repo with Memes](https://www.reddit.com/r/Python/comments/qn4s27/automate_your_github_repo_with_memes/)
 - [A Terminal in Telegram!](https://www.reddit.com/r/Python/comments/qmz61q/a_terminal_in_telegram/)
 - [Obitupy: For when you want to know who passed away on that day](https://www.reddit.com/r/Python/comments/qmyvji/obitupy_for_when_you_want_to_know_who_passed_away/)
-- [Hi, can you help me with the best python and django course for web development ?](https://www.reddit.com/r/Python/comments/qmysu6/hi_can_you_help_me_with_the_best_python_and/)
-- [Hello Girls n Guys New to Python and excited!](https://www.reddit.com/r/Python/comments/qmyo6g/hello_girls_n_guys_new_to_python_and_excited/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/qmyda9/friday_daily_thread_free_chat_friday_daily_thread/)
+- [How to build, test and publish an open source Python library](https://www.reddit.com/r/Python/comments/qmweoa/how_to_build_test_and_publish_an_open_source/)
 <!-- BLOG-POST-LIST:END -->
