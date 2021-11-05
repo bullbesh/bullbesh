@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m confused and I need help with building an mvp for a big data platform.](https://www.reddit.com/r/Python/comments/qnjmzl/im_confused_and_i_need_help_with_building_an_mvp/)
 - [Download Multiple Files Concurrently with the ThreadPoolExecutor in Python](https://www.reddit.com/r/Python/comments/qnhjtj/download_multiple_files_concurrently_with_the/)
 - [I really don't like python. How can I learn to enjoy it?](https://www.reddit.com/r/Python/comments/qnh38d/i_really_dont_like_python_how_can_i_learn_to/)
 - [How to classify sports using TensorFlow and Mobilenet (Neural network project) - [project]](https://www.reddit.com/r/Python/comments/qngoer/how_to_classify_sports_using_tensorflow_and/)
-- [Python Developer (Remote)](https://www.reddit.com/r/Python/comments/qng9oy/python_developer_remote/)
 - [As a fun little project, I wrote a mastermind clone in python](https://www.reddit.com/r/Python/comments/qnfasf/as_a_fun_little_project_i_wrote_a_mastermind/)
 <!-- BLOG-POST-LIST:END -->
