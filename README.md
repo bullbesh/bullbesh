@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to build, test and publish an open source Python library](https://www.reddit.com/r/Python/comments/qmweoa/how_to_build_test_and_publish_an_open_source/)
-- [I automated my GitHub profile so it shows a map with the largest earthquakes in the past 24 hours using Plotly and GitHub Actions](https://www.reddit.com/r/Python/comments/qmu762/i_automated_my_github_profile_so_it_shows_a_map/)
-- [Python Developers Survey 2021](https://www.reddit.com/r/Python/comments/qmtlo9/python_developers_survey_2021/)
-- [An oral history of Bank Python](https://www.reddit.com/r/Python/comments/qmpymp/an_oral_history_of_bank_python/)
-- [PyData Global 2021: Top 5 Highlights](https://www.reddit.com/r/Python/comments/qmotyp/pydata_global_2021_top_5_highlights/)
+- [A Terminal in Telegram!](https://www.reddit.com/r/Python/comments/qmz61q/a_terminal_in_telegram/)
+- [Obitupy: For when you want to know who passed away on that day](https://www.reddit.com/r/Python/comments/qmyvji/obitupy_for_when_you_want_to_know_who_passed_away/)
+- [Hi, can you help me with the best python and django course for web development ?](https://www.reddit.com/r/Python/comments/qmysu6/hi_can_you_help_me_with_the_best_python_and/)
+- [Hello Girls n Guys New to Python and excited!](https://www.reddit.com/r/Python/comments/qmyo6g/hello_girls_n_guys_new_to_python_and_excited/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/qmyda9/friday_daily_thread_free_chat_friday_daily_thread/)
 <!-- BLOG-POST-LIST:END -->
