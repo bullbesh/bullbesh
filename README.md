@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CIA Factbook - 250 countries & 66 Columns of Dataset & API](https://www.reddit.com/r/Python/comments/qn5yem/cia_factbook_250_countries_66_columns_of_dataset/)
+- [Django integration with Centrifugo real-time messaging server – building a basic WebSocket chat application](https://www.reddit.com/r/Python/comments/qn5ppb/django_integration_with_centrifugo_realtime/)
 - [Jython vs. Python: Main differences and when to use them](https://www.reddit.com/r/Python/comments/qn5j3m/jython_vs_python_main_differences_and_when_to_use/)
 - [Automate your GitHub repo with Memes](https://www.reddit.com/r/Python/comments/qn4s27/automate_your_github_repo_with_memes/)
 - [A Terminal in Telegram!](https://www.reddit.com/r/Python/comments/qmz61q/a_terminal_in_telegram/)
-- [Obitupy: For when you want to know who passed away on that day](https://www.reddit.com/r/Python/comments/qmyvji/obitupy_for_when_you_want_to_know_who_passed_away/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/qmyda9/friday_daily_thread_free_chat_friday_daily_thread/)
 <!-- BLOG-POST-LIST:END -->
