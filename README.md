@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a 'click the blocks before they fall' game](https://www.reddit.com/r/Python/comments/qncl69/i_made_a_click_the_blocks_before_they_fall_game/)
+- [New to Python and pywinauto](https://www.reddit.com/r/Python/comments/qnc6gp/new_to_python_and_pywinauto/)
 - [EasyOCR - Text and Number Detection in Image | Performance of EasyOCR on different types of Images](https://www.reddit.com/r/Python/comments/qnbfyc/easyocr_text_and_number_detection_in_image/)
 - [Speed performance: generators vs map/filter](https://www.reddit.com/r/Python/comments/qnabfm/speed_performance_generators_vs_mapfilter/)
 - [Basic Encryption/Decryption program](https://www.reddit.com/r/Python/comments/qn9x33/basic_encryptiondecryption_program/)
-- [How variables are saved in Python and Rust. Side by Side 2: int / long](https://www.reddit.com/r/Python/comments/qn9pea/how_variables_are_saved_in_python_and_rust_side/)
-- [I made a Python tool to help prevent dangerous Craigslist encounters and find nice people](https://www.reddit.com/r/Python/comments/qn84p1/i_made_a_python_tool_to_help_prevent_dangerous/)
 <!-- BLOG-POST-LIST:END -->
