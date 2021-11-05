@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How can I extract a specific element in a list of lists?](https://www.reddit.com/r/Python/comments/qnfb9j/how_can_i_extract_a_specific_element_in_a_list_of/)
+- [As a fun little project, I wrote a mastermind clone in python](https://www.reddit.com/r/Python/comments/qnfasf/as_a_fun_little_project_i_wrote_a_mastermind/)
 - ["Syntax"?](https://www.reddit.com/r/Python/comments/qndsud/syntax/)
 - [I made a 'click the blocks before they fall' game](https://www.reddit.com/r/Python/comments/qncl69/i_made_a_click_the_blocks_before_they_fall_game/)
 - [New to Python and pywinauto](https://www.reddit.com/r/Python/comments/qnc6gp/new_to_python_and_pywinauto/)
-- [EasyOCR - Text and Number Detection in Image | Performance of EasyOCR on different types of Images](https://www.reddit.com/r/Python/comments/qnbfyc/easyocr_text_and_number_detection_in_image/)
-- [Speed performance: generators vs map/filter](https://www.reddit.com/r/Python/comments/qnabfm/speed_performance_generators_vs_mapfilter/)
 <!-- BLOG-POST-LIST:END -->
