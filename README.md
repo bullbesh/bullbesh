@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Voice Machine VS Anime Voice Actor](https://www.reddit.com/r/Python/comments/qn7l44/google_voice_machine_vs_anime_voice_actor/)
+- [Iterators appear to be view-like objects...](https://www.reddit.com/r/Python/comments/qn7jia/iterators_appear_to_be_viewlike_objects/)
 - [Give advice for supplementing the program](https://www.reddit.com/r/Python/comments/qn6kqo/give_advice_for_supplementing_the_program/)
 - [CIA Factbook - 250 countries & 66 Columns of Dataset & API](https://www.reddit.com/r/Python/comments/qn5yem/cia_factbook_250_countries_66_columns_of_dataset/)
 - [Django integration with Centrifugo real-time messaging server – building a basic WebSocket chat application](https://www.reddit.com/r/Python/comments/qn5ppb/django_integration_with_centrifugo_realtime/)
-- [Jython vs. Python: Main differences and when to use them](https://www.reddit.com/r/Python/comments/qn5j3m/jython_vs_python_main_differences_and_when_to_use/)
-- [Automate your GitHub repo with Memes](https://www.reddit.com/r/Python/comments/qn4s27/automate_your_github_repo_with_memes/)
 <!-- BLOG-POST-LIST:END -->
