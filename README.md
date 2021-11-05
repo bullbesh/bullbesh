@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Speed performance: generators vs map/filter](https://www.reddit.com/r/Python/comments/qnabfm/speed_performance_generators_vs_mapfilter/)
 - [Basic Encryption/Decryption program](https://www.reddit.com/r/Python/comments/qn9x33/basic_encryptiondecryption_program/)
 - [How variables are saved in Python and Rust. Side by Side 2: int / long](https://www.reddit.com/r/Python/comments/qn9pea/how_variables_are_saved_in_python_and_rust_side/)
-- [Why is python indentation logic is bad](https://www.reddit.com/r/Python/comments/qn9c7w/why_is_python_indentation_logic_is_bad/)
 - [I made a Python tool to help prevent dangerous Craigslist encounters and find nice people](https://www.reddit.com/r/Python/comments/qn84p1/i_made_a_python_tool_to_help_prevent_dangerous/)
 - [Google Voice Machine VS Anime Voice Actor](https://www.reddit.com/r/Python/comments/qn7l44/google_voice_machine_vs_anime_voice_actor/)
 <!-- BLOG-POST-LIST:END -->
