@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [spaCy NLP v3.2 released](https://www.reddit.com/r/Python/comments/qnn7m6/spacy_nlp_v32_released/)
+- [FastAPI is the highest performing (speed) web development framework for Python](https://www.reddit.com/r/Python/comments/qnm5cn/fastapi_is_the_highest_performing_speed_web/)
 - [Building a Chess AI](https://www.reddit.com/r/Python/comments/qnloko/building_a_chess_ai/)
-- [Tangle with Python](https://www.reddit.com/r/Python/comments/qnli5x/tangle_with_python/)
-- [Python as a language of equivalent level to C/C++](https://www.reddit.com/r/Python/comments/qnkmv0/python_as_a_language_of_equivalent_level_to_cc/)
 - [Download Multiple Files Concurrently with the ThreadPoolExecutor in Python](https://www.reddit.com/r/Python/comments/qnhjtj/download_multiple_files_concurrently_with_the/)
 - [I really don't like python. How can I learn to enjoy it?](https://www.reddit.com/r/Python/comments/qnh38d/i_really_dont_like_python_how_can_i_learn_to/)
 <!-- BLOG-POST-LIST:END -->
