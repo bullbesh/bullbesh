@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Chess AI](https://www.reddit.com/r/Python/comments/qnloko/building_a_chess_ai/)
+- [Tangle with Python](https://www.reddit.com/r/Python/comments/qnli5x/tangle_with_python/)
 - [Python as a language of equivalent level to C/C++](https://www.reddit.com/r/Python/comments/qnkmv0/python_as_a_language_of_equivalent_level_to_cc/)
 - [Download Multiple Files Concurrently with the ThreadPoolExecutor in Python](https://www.reddit.com/r/Python/comments/qnhjtj/download_multiple_files_concurrently_with_the/)
 - [I really don't like python. How can I learn to enjoy it?](https://www.reddit.com/r/Python/comments/qnh38d/i_really_dont_like_python_how_can_i_learn_to/)
-- [How to classify sports using TensorFlow and Mobilenet (Neural network project) - [project]](https://www.reddit.com/r/Python/comments/qngoer/how_to_classify_sports_using_tensorflow_and/)
-- [As a fun little project, I wrote a mastermind clone in python](https://www.reddit.com/r/Python/comments/qnfasf/as_a_fun_little_project_i_wrote_a_mastermind/)
 <!-- BLOG-POST-LIST:END -->
