@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows Python Editor with Jedi Code Navigation](https://www.reddit.com/r/Python/comments/qnx0ha/windows_python_editor_with_jedi_code_navigation/)
+- [Deep Learning with Python, 2nd Edition by François Chollet (Final Version PDF)](https://www.reddit.com/r/Python/comments/qnwts6/deep_learning_with_python_2nd_edition_by_françois/)
 - [Python 3.9.8 and 3.11.0a2 are now available](https://www.reddit.com/r/Python/comments/qnviyc/python_398_and_3110a2_are_now_available/)
 - [Is C better than Python?](https://www.reddit.com/r/Python/comments/qnviag/is_c_better_than_python/)
 - [Auto-Hidden Markov Model](https://www.reddit.com/r/Python/comments/qnvgh1/autohidden_markov_model/)
-- [PycON US 2022](https://www.reddit.com/r/Python/comments/qnuyrp/pycon_us_2022/)
-- [Improvised my python DSA website](https://www.reddit.com/r/Python/comments/qnux8k/improvised_my_python_dsa_website/)
 <!-- BLOG-POST-LIST:END -->
