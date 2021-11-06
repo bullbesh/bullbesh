@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help sprite](https://www.reddit.com/r/Python/comments/qnz9nc/help_sprite/)
 - [file arranger](https://www.reddit.com/r/Python/comments/qnz0fl/file_arranger/)
-- [What do Python experts think of Java?](https://www.reddit.com/r/Python/comments/qnyu2y/what_do_python_experts_think_of_java/)
 - [What are some programming practice websites that filter problems by topic?](https://www.reddit.com/r/Python/comments/qnxy2h/what_are_some_programming_practice_websites_that/)
 - [Combination Of Web Scrapping, Pandas and Matplotlib](https://www.reddit.com/r/Python/comments/qnxo8w/combination_of_web_scrapping_pandas_and_matplotlib/)
 - [Windows Python Editor with Jedi Code Navigation](https://www.reddit.com/r/Python/comments/qnx0ha/windows_python_editor_with_jedi_code_navigation/)
