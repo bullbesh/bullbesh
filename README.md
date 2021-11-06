@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Free DDNS with CloudFlare Script](https://www.reddit.com/r/Python/comments/qo59cn/free_ddns_with_cloudflare_script/)
-- [Encryption](https://www.reddit.com/r/Python/comments/qo4yet/encryption/)
-- [Guys I'm 13 and I'm interested in coding and I'm a begginer any YouTube videos where I can learn?](https://www.reddit.com/r/Python/comments/qo4im1/guys_im_13_and_im_interested_in_coding_and_im_a/)
 - [Is it okay to copy codes from other people’s projects on github for work?](https://www.reddit.com/r/Python/comments/qo3btb/is_it_okay_to_copy_codes_from_other_peoples/)
 - [[repost] I made a git project to help new users get started with a Python project.](https://www.reddit.com/r/Python/comments/qo393y/repost_i_made_a_git_project_to_help_new_users_get/)
+- [file arranger](https://www.reddit.com/r/Python/comments/qnz0fl/file_arranger/)
+- [What are some programming practice websites that filter problems by topic?](https://www.reddit.com/r/Python/comments/qnxy2h/what_are_some_programming_practice_websites_that/)
+- [Combination Of Web Scrapping, Pandas and Matplotlib](https://www.reddit.com/r/Python/comments/qnxo8w/combination_of_web_scrapping_pandas_and_matplotlib/)
 <!-- BLOG-POST-LIST:END -->
