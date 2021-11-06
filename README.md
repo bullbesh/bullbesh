@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MLOPS with DVC and DAGsHub](https://www.reddit.com/r/Python/comments/qntctp/mlops_with_dvc_and_dagshub/)
 - [SHA-256](https://www.reddit.com/r/Python/comments/qnsoa3/sha256/)
 - [Math Games](https://www.reddit.com/r/Python/comments/qnsfl6/math_games/)
 - [I just published an article to help people get started with python virtual environments. I hope it's useful to those of you who have recently started with python](https://www.reddit.com/r/Python/comments/qnrwoo/i_just_published_an_article_to_help_people_get/)
 - [Interesting question with emoji](https://www.reddit.com/r/Python/comments/qnppdb/interesting_question_with_emoji/)
-- [Build a Content Aggregator in Python – Real Python](https://www.reddit.com/r/Python/comments/qnokes/build_a_content_aggregator_in_python_real_python/)
 <!-- BLOG-POST-LIST:END -->
