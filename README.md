@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is anyone interested in developing an idea based on crypto. I can provide further info if interested](https://www.reddit.com/r/Python/comments/qnu65c/is_anyone_interested_in_developing_an_idea_based/)
 - [MLOPS with DVC and DAGsHub](https://www.reddit.com/r/Python/comments/qntctp/mlops_with_dvc_and_dagshub/)
 - [SHA-256](https://www.reddit.com/r/Python/comments/qnsoa3/sha256/)
 - [Math Games](https://www.reddit.com/r/Python/comments/qnsfl6/math_games/)
 - [I just published an article to help people get started with python virtual environments. I hope it's useful to those of you who have recently started with python](https://www.reddit.com/r/Python/comments/qnrwoo/i_just_published_an_article_to_help_people_get/)
-- [Interesting question with emoji](https://www.reddit.com/r/Python/comments/qnppdb/interesting_question_with_emoji/)
 <!-- BLOG-POST-LIST:END -->
