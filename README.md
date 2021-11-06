@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interesting question with emoji](https://www.reddit.com/r/Python/comments/qnppdb/interesting_question_with_emoji/)
 - [Build a Content Aggregator in Python – Real Python](https://www.reddit.com/r/Python/comments/qnokes/build_a_content_aggregator_in_python_real_python/)
 - [What're some people you learn programming from?](https://www.reddit.com/r/Python/comments/qnobjz/whatre_some_people_you_learn_programming_from/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/qno354/saturday_daily_thread_resource_request_and/)
 - [spaCy NLP v3.2 released](https://www.reddit.com/r/Python/comments/qnn7m6/spacy_nlp_v32_released/)
-- [Building a Chess AI](https://www.reddit.com/r/Python/comments/qnloko/building_a_chess_ai/)
 <!-- BLOG-POST-LIST:END -->
