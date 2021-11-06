@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Projects with Source Code](https://www.reddit.com/r/Python/comments/qobc8m/python_projects_with_source_code/)
+- [We made a Zombie Survival Game!](https://www.reddit.com/r/Python/comments/qob2n6/we_made_a_zombie_survival_game/)
 - [I created a Python course for beginners](https://www.reddit.com/r/Python/comments/qo9f30/i_created_a_python_course_for_beginners/)
 - [Copying roaming user profiles for old python versions](https://www.reddit.com/r/Python/comments/qo8sc5/copying_roaming_user_profiles_for_old_python/)
 - [Plot Graph with Python & Kivy on Android](https://www.reddit.com/r/Python/comments/qo81p6/plot_graph_with_python_kivy_on_android/)
-- [Machine Learning Online Course Recommendation With Python](https://www.reddit.com/r/Python/comments/qo78n3/machine_learning_online_course_recommendation/)
-- [Is it okay to copy codes from other people’s projects on github for work?](https://www.reddit.com/r/Python/comments/qo3btb/is_it_okay_to_copy_codes_from_other_peoples/)
 <!-- BLOG-POST-LIST:END -->
