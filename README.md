@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.9.8 and 3.11.0a2 are now available](https://www.reddit.com/r/Python/comments/qnviyc/python_398_and_3110a2_are_now_available/)
+- [Is C better than Python?](https://www.reddit.com/r/Python/comments/qnviag/is_c_better_than_python/)
+- [Auto-Hidden Markov Model](https://www.reddit.com/r/Python/comments/qnvgh1/autohidden_markov_model/)
 - [PycON US 2022](https://www.reddit.com/r/Python/comments/qnuyrp/pycon_us_2022/)
 - [Improvised my python DSA website](https://www.reddit.com/r/Python/comments/qnux8k/improvised_my_python_dsa_website/)
-- [Is anyone interested in developing an idea based on crypto. I can provide further info if interested](https://www.reddit.com/r/Python/comments/qnu65c/is_anyone_interested_in_developing_an_idea_based/)
-- [MLOPS with DVC and DAGsHub](https://www.reddit.com/r/Python/comments/qntctp/mlops_with_dvc_and_dagshub/)
-- [Math Games](https://www.reddit.com/r/Python/comments/qnsfl6/math_games/)
 <!-- BLOG-POST-LIST:END -->
