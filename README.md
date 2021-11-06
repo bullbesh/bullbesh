@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Content Aggregator in Python – Real Python](https://www.reddit.com/r/Python/comments/qnokes/build_a_content_aggregator_in_python_real_python/)
+- [What're some people you learn programming from?](https://www.reddit.com/r/Python/comments/qnobjz/whatre_some_people_you_learn_programming_from/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/qno354/saturday_daily_thread_resource_request_and/)
 - [spaCy NLP v3.2 released](https://www.reddit.com/r/Python/comments/qnn7m6/spacy_nlp_v32_released/)
-- [FastAPI is the highest performing (speed) web development framework for Python](https://www.reddit.com/r/Python/comments/qnm5cn/fastapi_is_the_highest_performing_speed_web/)
 - [Building a Chess AI](https://www.reddit.com/r/Python/comments/qnloko/building_a_chess_ai/)
-- [Download Multiple Files Concurrently with the ThreadPoolExecutor in Python](https://www.reddit.com/r/Python/comments/qnhjtj/download_multiple_files_concurrently_with_the/)
-- [I really don't like python. How can I learn to enjoy it?](https://www.reddit.com/r/Python/comments/qnh38d/i_really_dont_like_python_how_can_i_learn_to/)
 <!-- BLOG-POST-LIST:END -->
