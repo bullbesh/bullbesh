@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Swapping elements, by Counting Elements (Codility example)](https://www.reddit.com/r/Python/comments/qof8yz/swapping_elements_by_counting_elements_codility/)
+- [Code that decides whether noun is bad or good.](https://www.reddit.com/r/Python/comments/qoe4b8/code_that_decides_whether_noun_is_bad_or_good/)
 - [How variables are saved in Python and Rust. Side by Side 3: bool](https://www.reddit.com/r/Python/comments/qodf8x/how_variables_are_saved_in_python_and_rust_side/)
 - [AI assistant and machine Learning](https://www.reddit.com/r/Python/comments/qodbzw/ai_assistant_and_machine_learning/)
 - [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/qocl2m/sunday_daily_thread_whats_everyone_working_on/)
-- [Python Projects with Source Code](https://www.reddit.com/r/Python/comments/qobc8m/python_projects_with_source_code/)
-- [We made a Zombie Survival Game!](https://www.reddit.com/r/Python/comments/qob2n6/we_made_a_zombie_survival_game/)
 <!-- BLOG-POST-LIST:END -->
