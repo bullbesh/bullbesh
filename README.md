@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How variables are saved in Python and Rust. Side by Side 3: bool](https://www.reddit.com/r/Python/comments/qodf8x/how_variables_are_saved_in_python_and_rust_side/)
+- [AI assistant and machine Learning](https://www.reddit.com/r/Python/comments/qodbzw/ai_assistant_and_machine_learning/)
+- [Sunday Daily Thread: What's everyone working on this week?](https://www.reddit.com/r/Python/comments/qocl2m/sunday_daily_thread_whats_everyone_working_on/)
 - [Python Projects with Source Code](https://www.reddit.com/r/Python/comments/qobc8m/python_projects_with_source_code/)
 - [We made a Zombie Survival Game!](https://www.reddit.com/r/Python/comments/qob2n6/we_made_a_zombie_survival_game/)
-- [I created a Python course for beginners](https://www.reddit.com/r/Python/comments/qo9f30/i_created_a_python_course_for_beginners/)
-- [Copying roaming user profiles for old python versions](https://www.reddit.com/r/Python/comments/qo8sc5/copying_roaming_user_profiles_for_old_python/)
-- [Plot Graph with Python & Kivy on Android](https://www.reddit.com/r/Python/comments/qo81p6/plot_graph_with_python_kivy_on_android/)
 <!-- BLOG-POST-LIST:END -->
