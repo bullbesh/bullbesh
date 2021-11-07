@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [feedback re: package idea: python code -> sql transpiler - is this interesting?](https://www.reddit.com/r/Python/comments/qooa0b/feedback_re_package_idea_python_code_sql/)
 - [Password Generator GUI](https://www.reddit.com/r/Python/comments/qonfs6/password_generator_gui/)
 - [I made a Spotify playlist Downloader.](https://www.reddit.com/r/Python/comments/qon3cz/i_made_a_spotify_playlist_downloader/)
 - [Python Cybersecurity 101 — Build your own tools in 10 min](https://www.reddit.com/r/Python/comments/qomovg/python_cybersecurity_101_build_your_own_tools_in/)
 - [Python Environment Variables: A Primer](https://www.reddit.com/r/Python/comments/qomb9i/python_environment_variables_a_primer/)
-- [does anyone know where i could learn more about python internals](https://www.reddit.com/r/Python/comments/qoka9q/does_anyone_know_where_i_could_learn_more_about/)
 <!-- BLOG-POST-LIST:END -->
