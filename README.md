@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Environment Variables: A Primer](https://www.reddit.com/r/Python/comments/qomb9i/python_environment_variables_a_primer/)
 - [does anyone know where i could learn more about python internals](https://www.reddit.com/r/Python/comments/qoka9q/does_anyone_know_where_i_could_learn_more_about/)
 - [Free DDNS with Python and CloudFlare](https://www.reddit.com/r/Python/comments/qojmq6/free_ddns_with_python_and_cloudflare/)
 - [Unified linting + formatting standards for a python project, what things should be considered, what are some good templates?](https://www.reddit.com/r/Python/comments/qojic3/unified_linting_formatting_standards_for_a_python/)
 - [Re: codility test. How do you know whether it is the case that you are too stupid for python and you should cut your losses and stop trying to learn, or it is just normal that you don't understand certain things as you are only in early stages?](https://www.reddit.com/r/Python/comments/qoidkv/re_codility_test_how_do_you_know_whether_it_is/)
-- [If you are using Apple's M1 Macs, compiling numpy against Accelerate results in much better performance](https://www.reddit.com/r/Python/comments/qog8x3/if_you_are_using_apples_m1_macs_compiling_numpy/)
 <!-- BLOG-POST-LIST:END -->
