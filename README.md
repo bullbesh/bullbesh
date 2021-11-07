@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How do you think demonstrating Python with Selenium projects (or posting them online) is perceived in interviews at companies?](https://www.reddit.com/r/Python/comments/qovv5h/how_do_you_think_demonstrating_python_with/)
+- [How to Add a Callbacks for the ThreadPoolExecutor](https://www.reddit.com/r/Python/comments/qoxai9/how_to_add_a_callbacks_for_the_threadpoolexecutor/)
+- [I created a super simple script to help with Mac OS customization](https://www.reddit.com/r/Python/comments/qox3d5/i_created_a_super_simple_script_to_help_with_mac/)
+- [FastAPI with celery and rabbitmq](https://www.reddit.com/r/Python/comments/qox33b/fastapi_with_celery_and_rabbitmq/)
 - [Contribute questions to a survey about how different people approach the same problem!](https://www.reddit.com/r/Python/comments/qov45x/contribute_questions_to_a_survey_about_how/)
 - [I created a CLI financial tool using a Text User Interface (TUI)](https://www.reddit.com/r/Python/comments/qouywd/i_created_a_cli_financial_tool_using_a_text_user/)
-- [Send An E-mail 📩 using python programming language](https://www.reddit.com/r/Python/comments/qotb77/send_an_email_using_python_programming_language/)
-- [Programming language order](https://www.reddit.com/r/Python/comments/qosmnc/programming_language_order/)
 <!-- BLOG-POST-LIST:END -->
