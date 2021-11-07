@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [need help on how to input string and print output as true or false for Symmetrical values](https://www.reddit.com/r/Python/comments/qoowv0/need_help_on_how_to_input_string_and_print_output/)
+- [Python Code Quality - Improve the quality of your Python code with linters, code formatters, and security vulnerability scanners](https://www.reddit.com/r/Python/comments/qoowu5/python_code_quality_improve_the_quality_of_your/)
 - [feedback re: package idea: python code -> sql transpiler - is this interesting?](https://www.reddit.com/r/Python/comments/qooa0b/feedback_re_package_idea_python_code_sql/)
 - [Password Generator GUI](https://www.reddit.com/r/Python/comments/qonfs6/password_generator_gui/)
 - [I made a Spotify playlist Downloader.](https://www.reddit.com/r/Python/comments/qon3cz/i_made_a_spotify_playlist_downloader/)
-- [Python Cybersecurity 101 — Build your own tools in 10 min](https://www.reddit.com/r/Python/comments/qomovg/python_cybersecurity_101_build_your_own_tools_in/)
-- [Python Environment Variables: A Primer](https://www.reddit.com/r/Python/comments/qomb9i/python_environment_variables_a_primer/)
 <!-- BLOG-POST-LIST:END -->
