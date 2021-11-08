@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Problem with converting my python game to .exe with nuitka](https://www.reddit.com/r/Python/comments/qpj305/problem_with_converting_my_python_game_to_exe/)
+- [I created a bot that notifies users when specific deals are posted to various deal subreddits. Looking for suggestions to make it better!](https://www.reddit.com/r/Python/comments/qpksty/i_created_a_bot_that_notifies_users_when_specific/)
+- [I made a simple mandelbrot visualizer](https://www.reddit.com/r/Python/comments/qpkifk/i_made_a_simple_mandelbrot_visualizer/)
+- [pifuHD problem](https://www.reddit.com/r/Python/comments/qpjxyl/pifuhd_problem/)
+- [Learn Python with Football](https://www.reddit.com/r/Python/comments/qpjx9y/learn_python_with_football/)
 - [What I&#39;ve learned about psychology &amp; motivation while creating my first real project](https://www.reddit.com/r/Python/comments/qpih5g/what_ive_learned_about_psychology_motivation/)
-- [requesting some scam links](https://www.reddit.com/r/Python/comments/qpgrhf/requesting_some_scam_links/)
-- [NLP Tutorial with Flair &amp; Python: Achieve SOTA NLP in 5 Minutes](https://www.reddit.com/r/Python/comments/qpfrxg/nlp_tutorial_with_flair_python_achieve_sota_nlp/)
-- [Tutorial: Getting your top Gmail senders with the Google Cloud API using Python](https://www.reddit.com/r/Python/comments/qpf7hb/tutorial_getting_your_top_gmail_senders_with_the/)
 <!-- BLOG-POST-LIST:END -->
