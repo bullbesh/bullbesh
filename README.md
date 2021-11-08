@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NLP Tutorial with Flair &amp; Python: Achieve SOTA NLP in 5 Minutes](https://www.reddit.com/r/Python/comments/qpfrxg/nlp_tutorial_with_flair_python_achieve_sota_nlp/)
+- [Tutorial: Getting your top Gmail senders with the Google Cloud API using Python](https://www.reddit.com/r/Python/comments/qpf7hb/tutorial_getting_your_top_gmail_senders_with_the/)
+- [Introduction - Unit Testing With Python](https://www.reddit.com/r/Python/comments/qpelpt/introduction_unit_testing_with_python/)
 - [OpenCV Course in Python](https://www.reddit.com/r/Python/comments/qpeebs/opencv_course_in_python/)
 - [I created a Gmail API client for python](https://www.reddit.com/r/Python/comments/qpe8n6/i_created_a_gmail_api_client_for_python/)
-- [Introduction to Monte Carlo Simulations in Python: How to Generate Random Variables and How to Conduct Experiments](https://www.reddit.com/r/Python/comments/qpdpvo/introduction_to_monte_carlo_simulations_in_python/)
-- [Sending an email ✉️ using python programming language.](https://www.reddit.com/r/Python/comments/qpc0mk/sending_an_email_using_python_programming_language/)
-- [gevent For the Working Python Developer](https://www.reddit.com/r/Python/comments/qpbgz3/gevent_for_the_working_python_developer/)
 <!-- BLOG-POST-LIST:END -->
