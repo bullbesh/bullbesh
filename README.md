@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta AI Releases ReSkin Python Sensor Library To Interface With ReSkin Sensors](https://www.reddit.com/r/Python/comments/qp1jye/meta_ai_releases_reskin_python_sensor_library_to/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/qp1atb/monday_daily_thread_project_ideas/)
 - [BREP - Binary Search compressed files at O(log n)](https://www.reddit.com/r/Python/comments/qozzq5/brep_binary_search_compressed_files_at_olog_n/)
-- [Executing a program at a timestamp](https://www.reddit.com/r/Python/comments/qoyuyr/executing_a_program_at_a_timestamp/)
 - [How to Add a Callbacks for the ThreadPoolExecutor](https://www.reddit.com/r/Python/comments/qoxai9/how_to_add_a_callbacks_for_the_threadpoolexecutor/)
 - [I created a super simple script to help with Mac OS customization](https://www.reddit.com/r/Python/comments/qox3d5/i_created_a_super_simple_script_to_help_with_mac/)
-- [FastAPI with celery and rabbitmq](https://www.reddit.com/r/Python/comments/qox33b/fastapi_with_celery_and_rabbitmq/)
 <!-- BLOG-POST-LIST:END -->
