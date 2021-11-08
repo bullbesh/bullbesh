@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I build a cookiecutter project generator with Django Rest Framework, Postgres, CircleCi, Error tracking, Code coverage](https://www.reddit.com/r/Python/comments/qp6nau/i_build_a_cookiecutter_project_generator_with/)
+- [What exactly do I need to learn in Python to get an internship/job?](https://www.reddit.com/r/Python/comments/qp6jcq/what_exactly_do_i_need_to_learn_in_python_to_get/)
 - [Function closures... what's the big deal?](https://www.reddit.com/r/Python/comments/qp5kg2/function_closures_whats_the_big_deal/)
 - [20 Latest Wildfires in US, automatically updated with Github Actions, built with BeautifulSoup](https://www.reddit.com/r/Python/comments/qp59zj/20_latest_wildfires_in_us_automatically_updated/)
 - [Tell me…](https://www.reddit.com/r/Python/comments/qp3dro/tell_me/)
-- [Meta AI Releases ReSkin Python Sensor Library To Interface With ReSkin Sensors](https://www.reddit.com/r/Python/comments/qp1jye/meta_ai_releases_reskin_python_sensor_library_to/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/qp1atb/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
