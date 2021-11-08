@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Function closures... what's the big deal?](https://www.reddit.com/r/Python/comments/qp5kg2/function_closures_whats_the_big_deal/)
+- [20 Latest Wildfires in US, automatically updated with Github Actions, built with BeautifulSoup](https://www.reddit.com/r/Python/comments/qp59zj/20_latest_wildfires_in_us_automatically_updated/)
 - [Tell me…](https://www.reddit.com/r/Python/comments/qp3dro/tell_me/)
 - [Meta AI Releases ReSkin Python Sensor Library To Interface With ReSkin Sensors](https://www.reddit.com/r/Python/comments/qp1jye/meta_ai_releases_reskin_python_sensor_library_to/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/qp1atb/monday_daily_thread_project_ideas/)
-- [BREP - Binary Search compressed files at O(log n)](https://www.reddit.com/r/Python/comments/qozzq5/brep_binary_search_compressed_files_at_olog_n/)
-- [How to Add a Callbacks for the ThreadPoolExecutor](https://www.reddit.com/r/Python/comments/qoxai9/how_to_add_a_callbacks_for_the_threadpoolexecutor/)
 <!-- BLOG-POST-LIST:END -->
