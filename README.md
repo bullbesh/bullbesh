@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a program to find out what the most common phrases in the titles of videos on YouTube&#39;s front page are](https://www.reddit.com/r/Python/comments/qpm58x/i_made_a_program_to_find_out_what_the_most_common/)
+- [Simple versions and tests of ml models](https://www.reddit.com/r/Python/comments/qpkxbg/simple_versions_and_tests_of_ml_models/)
 - [I created a bot that notifies users when specific deals are posted to various deal subreddits. Looking for suggestions to make it better!](https://www.reddit.com/r/Python/comments/qpksty/i_created_a_bot_that_notifies_users_when_specific/)
 - [I made a simple mandelbrot visualizer](https://www.reddit.com/r/Python/comments/qpkifk/i_made_a_simple_mandelbrot_visualizer/)
 - [pifuHD problem](https://www.reddit.com/r/Python/comments/qpjxyl/pifuhd_problem/)
-- [Learn Python with Football](https://www.reddit.com/r/Python/comments/qpjx9y/learn_python_with_football/)
-- [What I&#39;ve learned about psychology &amp; motivation while creating my first real project](https://www.reddit.com/r/Python/comments/qpih5g/what_ive_learned_about_psychology_motivation/)
 <!-- BLOG-POST-LIST:END -->
