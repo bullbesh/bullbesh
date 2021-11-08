@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenCV Course in Python](https://www.reddit.com/r/Python/comments/qpeebs/opencv_course_in_python/)
+- [I created a Gmail API client for python](https://www.reddit.com/r/Python/comments/qpe8n6/i_created_a_gmail_api_client_for_python/)
+- [Introduction to Monte Carlo Simulations in Python: How to Generate Random Variables and How to Conduct Experiments](https://www.reddit.com/r/Python/comments/qpdpvo/introduction_to_monte_carlo_simulations_in_python/)
 - [Sending an email ✉️ using python programming language.](https://www.reddit.com/r/Python/comments/qpc0mk/sending_an_email_using_python_programming_language/)
 - [gevent For the Working Python Developer](https://www.reddit.com/r/Python/comments/qpbgz3/gevent_for_the_working_python_developer/)
-- [Is it possible to convert Jupyter Notebook to desktop app with GUI?](https://www.reddit.com/r/Python/comments/qparxe/is_it_possible_to_convert_jupyter_notebook_to/)
-- [found this while checking out one of my old codes](https://www.reddit.com/r/Python/comments/qp97oi/found_this_while_checking_out_one_of_my_old_codes/)
-- [PSA: If you update a YML file used in CI to install or use Python 3.10, make sure to use “3.10” as a string. Otherwise is will most likely install Python 3.1.](https://www.reddit.com/r/Python/comments/qp7rg7/psa_if_you_update_a_yml_file_used_in_ci_to/)
 <!-- BLOG-POST-LIST:END -->
