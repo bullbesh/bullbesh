@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Django-set only one review per user and movie](https://www.reddit.com/r/Python/comments/qpy2nj/djangoset_only_one_review_per_user_and_movie/)
-- [telemetry library](https://www.reddit.com/r/Python/comments/qpxtxv/telemetry_library/)
-- [An Incredibly Easy Way to Build a Python Chatroom](https://www.reddit.com/r/Python/comments/qpxdxh/an_incredibly_easy_way_to_build_a_python_chatroom/)
-- [Fast Coding!](https://www.reddit.com/r/Python/comments/qprtr6/fast_coding/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/qpqtp6/tuesday_daily_thread_advanced_questions/)
+- [Integrating Python with mobile money payments API for instant payment](https://www.reddit.com/r/Python/comments/qq0opa/integrating_python_with_mobile_money_payments_api/)
+- [Is it possible to automate off page sei related web submissions using python? If yes then how? Help a brother out!](https://www.reddit.com/r/Python/comments/qq0glc/is_it_possible_to_automate_off_page_sei_related/)
+- [CryptSIS-3.x · CryptSIS evolution](https://www.reddit.com/r/Python/comments/qq0fl4/cryptsis3x_cryptsis_evolution/)
+- [ASGI correlation ID middleware now supports Python 3.6 - 3.10 🎉](https://www.reddit.com/r/Python/comments/qq06x5/asgi_correlation_id_middleware_now_supports/)
+- [Pyjion, a drop-in JIT compiler for Python 3.10 is now v1.0](https://www.reddit.com/r/Python/comments/qq013x/pyjion_a_dropin_jit_compiler_for_python_310_is/)
 <!-- BLOG-POST-LIST:END -->
