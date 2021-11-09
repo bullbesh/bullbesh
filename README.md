@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An Incredibly Easy Way to Build a Python Chatroom](https://www.reddit.com/r/Python/comments/qpxdxh/an_incredibly_easy_way_to_build_a_python_chatroom/)
 - [Fast Coding!](https://www.reddit.com/r/Python/comments/qprtr6/fast_coding/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/qpqtp6/tuesday_daily_thread_advanced_questions/)
 - [Basic Notes on Refactoring and Code Style &lpar;in Python&rpar;](https://www.reddit.com/r/Python/comments/qpnzju/basic_notes_on_refactoring_and_code_style_in/)
 - [I made a program to find out what the most common phrases in the titles of videos on YouTube&#39;s front page are](https://www.reddit.com/r/Python/comments/qpm58x/i_made_a_program_to_find_out_what_the_most_common/)
-- [Simple versions and tests of ml models](https://www.reddit.com/r/Python/comments/qpkxbg/simple_versions_and_tests_of_ml_models/)
 <!-- BLOG-POST-LIST:END -->
