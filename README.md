@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django-set only one review per user and movie](https://www.reddit.com/r/Python/comments/qpy2nj/djangoset_only_one_review_per_user_and_movie/)
+- [telemetry library](https://www.reddit.com/r/Python/comments/qpxtxv/telemetry_library/)
 - [An Incredibly Easy Way to Build a Python Chatroom](https://www.reddit.com/r/Python/comments/qpxdxh/an_incredibly_easy_way_to_build_a_python_chatroom/)
 - [Fast Coding!](https://www.reddit.com/r/Python/comments/qprtr6/fast_coding/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/qpqtp6/tuesday_daily_thread_advanced_questions/)
-- [Basic Notes on Refactoring and Code Style &lpar;in Python&rpar;](https://www.reddit.com/r/Python/comments/qpnzju/basic_notes_on_refactoring_and_code_style_in/)
-- [I made a program to find out what the most common phrases in the titles of videos on YouTube&#39;s front page are](https://www.reddit.com/r/Python/comments/qpm58x/i_made_a_program_to_find_out_what_the_most_common/)
 <!-- BLOG-POST-LIST:END -->
