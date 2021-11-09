@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [csv/json time based versionning](https://www.reddit.com/r/Python/comments/qq88vi/csvjson_time_based_versionning/)
+- [MILESTONE: I finally tried to organize a project! Instead of being a one-filer I made classes, packages, and used a DB instead of a CSV. To most that will seem obvious, but I know I&#39;m not the only analyst who hasn&#39;t had the best coding habits. So, this post is to encourage those to make the change!](https://www.reddit.com/r/Python/comments/qq83e6/milestone_i_finally_tried_to_organize_a_project/)
+- [What&#39;s the Future of IDEs?](https://www.reddit.com/r/Python/comments/qq7sau/whats_the_future_of_ides/)
+- [The Top 10 Python Libraries for Ethical Hacking](https://www.reddit.com/r/Python/comments/qq7q6x/the_top_10_python_libraries_for_ethical_hacking/)
 - [Composable NLP Workflows](https://www.reddit.com/r/Python/comments/qq60at/composable_nlp_workflows/)
-- [Best GUI package for interacting with the screen](https://www.reddit.com/r/Python/comments/qq5he6/best_gui_package_for_interacting_with_the_screen/)
-- [Single entry tuples need a trailing comma](https://www.reddit.com/r/Python/comments/qq5amx/single_entry_tuples_need_a_trailing_comma/)
-- [How To Make Your Pytest Tests as DRY as Bone](https://www.reddit.com/r/Python/comments/qq5707/how_to_make_your_pytest_tests_as_dry_as_bone/)
-- [A question regarding Python GUI](https://www.reddit.com/r/Python/comments/qq4ctj/a_question_regarding_python_gui/)
 <!-- BLOG-POST-LIST:END -->
