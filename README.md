@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A question regarding Python GUI](https://www.reddit.com/r/Python/comments/qq4ctj/a_question_regarding_python_gui/)
+- [hope you love my eye hurting fizz buzz approach](https://www.reddit.com/r/Python/comments/qq3wz5/hope_you_love_my_eye_hurting_fizz_buzz_approach/)
+- [Composable NLP Workflows](https://www.reddit.com/r/Python/comments/qq3wa8/composable_nlp_workflows/)
 - [Resume Writing Tips](https://www.reddit.com/r/Python/comments/qq2618/resume_writing_tips/)
 - [FlaskCon Tickets Sales Started](https://www.reddit.com/r/Python/comments/qq20gs/flaskcon_tickets_sales_started/)
-- [Made a Paycheck Calculator as my first Python Project](https://www.reddit.com/r/Python/comments/qq1skh/made_a_paycheck_calculator_as_my_first_python/)
-- [Pydbantic - A single model &lpar; DB &amp; Pydantic&rpar; with automatic migrations](https://www.reddit.com/r/Python/comments/qq17zw/pydbantic_a_single_model_db_pydantic_with/)
-- [Best GUI for Python](https://www.reddit.com/r/Python/comments/qq1320/best_gui_for_python/)
 <!-- BLOG-POST-LIST:END -->
