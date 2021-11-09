@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Resume Writing Tips](https://www.reddit.com/r/Python/comments/qq2618/resume_writing_tips/)
+- [FlaskCon Tickets Sales Started](https://www.reddit.com/r/Python/comments/qq20gs/flaskcon_tickets_sales_started/)
+- [Made a Paycheck Calculator as my first Python Project](https://www.reddit.com/r/Python/comments/qq1skh/made_a_paycheck_calculator_as_my_first_python/)
 - [Pydbantic - A single model &lpar; DB &amp; Pydantic&rpar; with automatic migrations](https://www.reddit.com/r/Python/comments/qq17zw/pydbantic_a_single_model_db_pydantic_with/)
 - [Best GUI for Python](https://www.reddit.com/r/Python/comments/qq1320/best_gui_for_python/)
-- [⭐Install Python Without Errors⭐](https://www.reddit.com/r/Python/comments/qq1075/install_python_without_errors/)
-- [Coding a Telegram Bot using the Python-Telegram-Bot module](https://www.reddit.com/r/Python/comments/qq0zvy/coding_a_telegram_bot_using_the_pythontelegrambot/)
-- [Integrating Python with mobile money payments API for instant payment](https://www.reddit.com/r/Python/comments/qq0opa/integrating_python_with_mobile_money_payments_api/)
 <!-- BLOG-POST-LIST:END -->
