@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [EfficientWord-Net: An Open Source hotword detector](https://www.reddit.com/r/Python/comments/qqod6s/efficientwordnet_an_open_source_hotword_detector/)
 - [Wanting to change career, from civil engineering to programmer any advices ?](https://www.reddit.com/r/Python/comments/qqj34e/wanting_to_change_career_from_civil_engineering/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/qqgxls/wednesday_daily_thread_beginner_questions/)
 - [How popular is DDD in Python?](https://www.reddit.com/r/Python/comments/qqgwaz/how_popular_is_ddd_in_python/)
 - [Quality Control of Code in Practice](https://www.reddit.com/r/Python/comments/qqexi4/quality_control_of_code_in_practice/)
-- [Youtube Analytics &amp; Utility Tool](https://www.reddit.com/r/Python/comments/qqek01/youtube_analytics_utility_tool/)
 <!-- BLOG-POST-LIST:END -->
