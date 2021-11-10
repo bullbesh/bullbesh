@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cython, Rust, and more: choosing a language for Python extensions](https://www.reddit.com/r/Python/comments/qqy5uf/cython_rust_and_more_choosing_a_language_for/)
+- [Setting up a Private PyPI Server](https://www.reddit.com/r/Python/comments/qqxclk/setting_up_a_private_pypi_server/)
 - [Samila : A Generative Art Generator in Python](https://www.reddit.com/r/Python/comments/qqvvkp/samila_a_generative_art_generator_in_python/)
 - [Multi-Py: Multiplatform Container Images for Python Packages](https://www.reddit.com/r/Python/comments/qqvkiv/multipy_multiplatform_container_images_for_python/)
 - [Full-length tutorial on deploying production-ready python REST API on AWS using chalice](https://www.reddit.com/r/Python/comments/qqu6w5/fulllength_tutorial_on_deploying_productionready/)
-- [Comparing a Rust extension to other methods of speeding up python](https://www.reddit.com/r/Python/comments/qqtv3e/comparing_a_rust_extension_to_other_methods_of/)
-- [I built a library in python to detect hotwords like &quot;Ok Google&quot; / &quot;Hey Siri&quot; / &quot;Hey Alexa&quot;](https://www.reddit.com/r/Python/comments/qqt8tx/i_built_a_library_in_python_to_detect_hotwords/)
 <!-- BLOG-POST-LIST:END -->
