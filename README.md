@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploration and questions on &quot;\033[Nm&quot;](https://www.reddit.com/r/Python/comments/qqz32f/exploration_and_questions_on_033nm/)
+- [End-to-end semantic image annotation + model training + inference with S3A](https://www.reddit.com/r/Python/comments/qqz00y/endtoend_semantic_image_annotation_model_training/)
+- [Python mouse tracker](https://www.reddit.com/r/Python/comments/qqylis/python_mouse_tracker/)
 - [Cython, Rust, and more: choosing a language for Python extensions](https://www.reddit.com/r/Python/comments/qqy5uf/cython_rust_and_more_choosing_a_language_for/)
 - [Setting up a Private PyPI Server](https://www.reddit.com/r/Python/comments/qqxclk/setting_up_a_private_pypi_server/)
-- [Samila : A Generative Art Generator in Python](https://www.reddit.com/r/Python/comments/qqvvkp/samila_a_generative_art_generator_in_python/)
-- [Multi-Py: Multiplatform Container Images for Python Packages](https://www.reddit.com/r/Python/comments/qqvkiv/multipy_multiplatform_container_images_for_python/)
-- [Full-length tutorial on deploying production-ready python REST API on AWS using chalice](https://www.reddit.com/r/Python/comments/qqu6w5/fulllength_tutorial_on_deploying_productionready/)
 <!-- BLOG-POST-LIST:END -->
