@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a library in python to detect hotwords like &quot;Ok Google&quot; / &quot;Hey Siri&quot; / &quot;Hey Alexa&quot;](https://www.reddit.com/r/Python/comments/qqt8tx/i_built_a_library_in_python_to_detect_hotwords/)
+- [Keywords and Identifiers in Python-InsideAIML](https://www.reddit.com/r/Python/comments/qqszuy/keywords_and_identifiers_in_pythoninsideaiml/)
+- [Carnage Engine: I made a game Engine based on Pygames -https://github.com/ivanrj7j/CarnageEngine](https://www.reddit.com/r/Python/comments/qqsi95/carnage_engine_i_made_a_game_engine_based_on/)
+- [A Beginner’s Guide to Hoeffding Tree with Python Implementation](https://www.reddit.com/r/Python/comments/qqsdx4/a_beginners_guide_to_hoeffding_tree_with_python/)
 - [Code that Fits in your Head](https://www.reddit.com/r/Python/comments/qqs4p0/code_that_fits_in_your_head/)
-- [Easy, readable data processing in functional manner using pypely](https://www.reddit.com/r/Python/comments/qqrtbm/easy_readable_data_processing_in_functional/)
-- [Prefect has doubled its free tier](https://www.reddit.com/r/Python/comments/qqpzk0/prefect_has_doubled_its_free_tier/)
-- [Music Synthesis with python](https://www.reddit.com/r/Python/comments/qqp687/music_synthesis_with_python/)
-- [Just a question about python&#39;s pip](https://www.reddit.com/r/Python/comments/qqot5y/just_a_question_about_pythons_pip/)
 <!-- BLOG-POST-LIST:END -->
