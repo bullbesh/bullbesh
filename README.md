@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Music Synthesis with python](https://www.reddit.com/r/Python/comments/qqp687/music_synthesis_with_python/)
+- [Just a question about python&#39;s pip](https://www.reddit.com/r/Python/comments/qqot5y/just_a_question_about_pythons_pip/)
 - [EfficientWord-Net: An Open Source hotword detector](https://www.reddit.com/r/Python/comments/qqod6s/efficientwordnet_an_open_source_hotword_detector/)
 - [Wanting to change career, from civil engineering to programmer any advices ?](https://www.reddit.com/r/Python/comments/qqj34e/wanting_to_change_career_from_civil_engineering/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/qqgxls/wednesday_daily_thread_beginner_questions/)
-- [How popular is DDD in Python?](https://www.reddit.com/r/Python/comments/qqgwaz/how_popular_is_ddd_in_python/)
-- [Quality Control of Code in Practice](https://www.reddit.com/r/Python/comments/qqexi4/quality_control_of_code_in_practice/)
 <!-- BLOG-POST-LIST:END -->
