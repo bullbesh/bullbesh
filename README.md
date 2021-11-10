@@ -19,5 +19,5 @@
 - [Add the working directory to python sys.path in vscode.](https://www.reddit.com/r/Python/comments/qqizlx/add_the_working_directory_to_python_syspath_in/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/qqgxls/wednesday_daily_thread_beginner_questions/)
 - [How popular is DDD in Python?](https://www.reddit.com/r/Python/comments/qqgwaz/how_popular_is_ddd_in_python/)
-- [Learn how Intel optimized Facebook DLRM &lpar;Deep Learning Recommendation Model&rpar;](https://www.reddit.com/r/Python/comments/qqg9es/learn_how_intel_optimized_facebook_dlrm_deep/)
+- [Quality Control of Code in Practice](https://www.reddit.com/r/Python/comments/qqexi4/quality_control_of_code_in_practice/)
 <!-- BLOG-POST-LIST:END -->
