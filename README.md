@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Full-length tutorial on deploying production-ready python REST API on AWS using chalice](https://www.reddit.com/r/Python/comments/qqu6w5/fulllength_tutorial_on_deploying_productionready/)
+- [Comparing a Rust extension to other methods of speeding up python](https://www.reddit.com/r/Python/comments/qqtv3e/comparing_a_rust_extension_to_other_methods_of/)
 - [I built a library in python to detect hotwords like &quot;Ok Google&quot; / &quot;Hey Siri&quot; / &quot;Hey Alexa&quot;](https://www.reddit.com/r/Python/comments/qqt8tx/i_built_a_library_in_python_to_detect_hotwords/)
 - [Keywords and Identifiers in Python-InsideAIML](https://www.reddit.com/r/Python/comments/qqszuy/keywords_and_identifiers_in_pythoninsideaiml/)
 - [Carnage Engine: I made a game Engine based on Pygames -https://github.com/ivanrj7j/CarnageEngine](https://www.reddit.com/r/Python/comments/qqsi95/carnage_engine_i_made_a_game_engine_based_on/)
-- [A Beginner’s Guide to Hoeffding Tree with Python Implementation](https://www.reddit.com/r/Python/comments/qqsdx4/a_beginners_guide_to_hoeffding_tree_with_python/)
-- [Code that Fits in your Head](https://www.reddit.com/r/Python/comments/qqs4p0/code_that_fits_in_your_head/)
 <!-- BLOG-POST-LIST:END -->
