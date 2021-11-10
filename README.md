@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code that Fits in your Head](https://www.reddit.com/r/Python/comments/qqs4p0/code_that_fits_in_your_head/)
+- [Easy, readable data processing in functional manner using pypely](https://www.reddit.com/r/Python/comments/qqrtbm/easy_readable_data_processing_in_functional/)
 - [Prefect has doubled its free tier](https://www.reddit.com/r/Python/comments/qqpzk0/prefect_has_doubled_its_free_tier/)
 - [Music Synthesis with python](https://www.reddit.com/r/Python/comments/qqp687/music_synthesis_with_python/)
 - [Just a question about python&#39;s pip](https://www.reddit.com/r/Python/comments/qqot5y/just_a_question_about_pythons_pip/)
-- [EfficientWord-Net: An Open Source hotword detector](https://www.reddit.com/r/Python/comments/qqod6s/efficientwordnet_an_open_source_hotword_detector/)
-- [Wanting to change career, from civil engineering to programmer any advices ?](https://www.reddit.com/r/Python/comments/qqj34e/wanting_to_change_career_from_civil_engineering/)
 <!-- BLOG-POST-LIST:END -->
