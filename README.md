@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Tkinter with SQL Stored Procedure Paremeter?](https://www.reddit.com/r/Python/comments/qr1cll/tkinter_with_sql_stored_procedure_paremeter/)
 - [Unicode Names and why they’re bad](https://www.reddit.com/r/Python/comments/qr17sx/unicode_names_and_why_theyre_bad/)
 - [Create Photo Thumbnails Concurrently With the ProcessPoolExecutor](https://www.reddit.com/r/Python/comments/qr0z44/create_photo_thumbnails_concurrently_with_the/)
 - [End-to-end semantic image annotation + model training + inference with S3A](https://www.reddit.com/r/Python/comments/qqz00y/endtoend_semantic_image_annotation_model_training/)
 - [Python mouse tracker](https://www.reddit.com/r/Python/comments/qqylis/python_mouse_tracker/)
+- [Cython, Rust, and more: choosing a language for Python extensions](https://www.reddit.com/r/Python/comments/qqy5uf/cython_rust_and_more_choosing_a_language_for/)
 <!-- BLOG-POST-LIST:END -->
