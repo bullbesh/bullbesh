@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/qqgxls/wednesday_daily_thread_beginner_questions/)
+- [How popular is DDD in Python?](https://www.reddit.com/r/Python/comments/qqgwaz/how_popular_is_ddd_in_python/)
+- [Learn how Intel optimized Facebook DLRM &lpar;Deep Learning Recommendation Model&rpar;](https://www.reddit.com/r/Python/comments/qqg9es/learn_how_intel_optimized_facebook_dlrm_deep/)
 - [Quality Control of Code in Practice](https://www.reddit.com/r/Python/comments/qqexi4/quality_control_of_code_in_practice/)
 - [Youtube Analytics &amp; Utility Tool](https://www.reddit.com/r/Python/comments/qqek01/youtube_analytics_utility_tool/)
-- [How and why I use pytest&#39;s xfail](https://www.reddit.com/r/Python/comments/qqcn76/how_and_why_i_use_pytests_xfail/)
-- [PyCryptodome AES CBC fresh Cipher !!! No Auth](https://www.reddit.com/r/Python/comments/qqb9zh/pycryptodome_aes_cbc_fresh_cipher_no_auth/)
-- [03 List Less Than Ten Solutions](https://www.reddit.com/r/Python/comments/qq9o6j/03_list_less_than_ten_solutions/)
 <!-- BLOG-POST-LIST:END -->
