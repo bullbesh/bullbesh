@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just released my Youtube Video where I teach you how to generate INCREDIBLE A.I. art in just 5 minutes! check it out :&rpar;](https://www.reddit.com/r/Python/comments/qrawnh/i_just_released_my_youtube_video_where_i_teach/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/qr7vob/thursday_daily_thread_python_careers_courses_and/)
 - [are there any good python video Tutorials? &lpar; I prefer watch videos&rpar;,My friend recommend me CS61A from UCB， but.. its very hard for me to understand. I&#39;m a beginner](https://www.reddit.com/r/Python/comments/qr6dku/are_there_any_good_python_video_tutorials_i/)
 - [Unicode Names and why they’re bad](https://www.reddit.com/r/Python/comments/qr17sx/unicode_names_and_why_theyre_bad/)
 - [Create Photo Thumbnails Concurrently With the ProcessPoolExecutor](https://www.reddit.com/r/Python/comments/qr0z44/create_photo_thumbnails_concurrently_with_the/)
-- [End-to-end semantic image annotation + model training + inference with S3A](https://www.reddit.com/r/Python/comments/qqz00y/endtoend_semantic_image_annotation_model_training/)
 <!-- BLOG-POST-LIST:END -->
