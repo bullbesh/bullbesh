@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New to Coding](https://www.reddit.com/r/Python/comments/qrte14/new_to_coding/)
+- [Journey to writing an RSI trading algorithm- Week 1](https://www.reddit.com/r/Python/comments/qrsri5/journey_to_writing_an_rsi_trading_algorithm_week_1/)
+- [Where can I find Metadata catalogs?](https://www.reddit.com/r/Python/comments/qrsogl/where_can_i_find_metadata_catalogs/)
 - [PEP 673 -- Self Type](https://www.reddit.com/r/Python/comments/qrs0vq/pep_673_self_type/)
 - [Not a good sportsman....](https://www.reddit.com/r/Python/comments/qrrqzb/not_a_good_sportsman/)
-- [Simple cli tool for converting requirement.txt to poetry lock](https://www.reddit.com/r/Python/comments/qrr8ir/simple_cli_tool_for_converting_requirementtxt_to/)
-- [Simple Code Help](https://www.reddit.com/r/Python/comments/qrqwa8/simple_code_help/)
-- [Understanding Python through its builtins](https://www.reddit.com/r/Python/comments/qrq99o/understanding_python_through_its_builtins/)
 <!-- BLOG-POST-LIST:END -->
