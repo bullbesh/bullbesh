@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - zopefoundation/RestrictedPython: A restricted execution environment for Python to run untrusted code.](https://www.reddit.com/r/Python/comments/qrj5dt/github_zopefoundationrestrictedpython_a/)
 - [PyGaze - Open source eye-tracking software and more.](https://www.reddit.com/r/Python/comments/qrj06h/pygaze_open_source_eyetracking_software_and_more/)
 - [Modules - General Question](https://www.reddit.com/r/Python/comments/qrioc3/modules_general_question/)
 - [Simulate A Client-Server Application](https://www.reddit.com/r/Python/comments/qrijex/simulate_a_clientserver_application/)
 - [Guys Please help KIVY or Beeware or pyQT](https://www.reddit.com/r/Python/comments/qriej1/guys_please_help_kivy_or_beeware_or_pyqt/)
-- [A new tool for calling C++ from python](https://www.reddit.com/r/Python/comments/qrhz5f/a_new_tool_for_calling_c_from_python/)
 <!-- BLOG-POST-LIST:END -->
