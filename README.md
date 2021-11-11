@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lol you can really get paid to go on stack overflow and fix someone’s problem😂](https://www.reddit.com/r/Python/comments/qrox0s/lol_you_can_really_get_paid_to_go_on_stack/)
+- [PYTHON HELP NOW, HOW SHOULD I DO THIS](https://www.reddit.com/r/Python/comments/qrosds/python_help_now_how_should_i_do_this/)
+- [Recommend me some good free Heroku add-ons you use for your python bots?](https://www.reddit.com/r/Python/comments/qroqxt/recommend_me_some_good_free_heroku_addons_you_use/)
+- [Rounded edges square pulsate radially | Rotating Square illusion | Created using Manim Library](https://www.reddit.com/r/Python/comments/qrnlb7/rounded_edges_square_pulsate_radially_rotating/)
 - [Plexus Effect](https://www.reddit.com/r/Python/comments/qrn8yq/plexus_effect/)
-- [Youtube video downloader using python](https://www.reddit.com/r/Python/comments/qrmfjh/youtube_video_downloader_using_python/)
-- [Merge PDF Using Python](https://www.reddit.com/r/Python/comments/qrkzym/merge_pdf_using_python/)
-- [WhatsApp Automation using Python](https://www.reddit.com/r/Python/comments/qrksw6/whatsapp_automation_using_python/)
-- [GitHub - zopefoundation/RestrictedPython: A restricted execution environment for Python to run untrusted code.](https://www.reddit.com/r/Python/comments/qrj5dt/github_zopefoundationrestrictedpython_a/)
 <!-- BLOG-POST-LIST:END -->
