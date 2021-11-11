@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyGaze - Open source eye-tracking software and more.](https://www.reddit.com/r/Python/comments/qrj06h/pygaze_open_source_eyetracking_software_and_more/)
+- [Modules - General Question](https://www.reddit.com/r/Python/comments/qrioc3/modules_general_question/)
+- [Simulate A Client-Server Application](https://www.reddit.com/r/Python/comments/qrijex/simulate_a_clientserver_application/)
+- [Guys Please help KIVY or Beeware or pyQT](https://www.reddit.com/r/Python/comments/qriej1/guys_please_help_kivy_or_beeware_or_pyqt/)
 - [A new tool for calling C++ from python](https://www.reddit.com/r/Python/comments/qrhz5f/a_new_tool_for_calling_c_from_python/)
-- [Helpful python projects for beginners all the way to advanced](https://www.reddit.com/r/Python/comments/qrhi8v/helpful_python_projects_for_beginners_all_the_way/)
-- [Why Learn Python in 2022?](https://www.reddit.com/r/Python/comments/qrhcjj/why_learn_python_in_2022/)
-- [Data Anonymization Libraries](https://www.reddit.com/r/Python/comments/qre2gt/data_anonymization_libraries/)
-- [What Did You Find Hardest To Learn As A Beginner In Python ?](https://www.reddit.com/r/Python/comments/qrd1kj/what_did_you_find_hardest_to_learn_as_a_beginner/)
 <!-- BLOG-POST-LIST:END -->
