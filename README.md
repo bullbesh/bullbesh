@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Merge PDF Using Python](https://www.reddit.com/r/Python/comments/qrkzym/merge_pdf_using_python/)
+- [WhatsApp Automation using Python](https://www.reddit.com/r/Python/comments/qrksw6/whatsapp_automation_using_python/)
 - [GitHub - zopefoundation/RestrictedPython: A restricted execution environment for Python to run untrusted code.](https://www.reddit.com/r/Python/comments/qrj5dt/github_zopefoundationrestrictedpython_a/)
 - [PyGaze - Open source eye-tracking software and more.](https://www.reddit.com/r/Python/comments/qrj06h/pygaze_open_source_eyetracking_software_and_more/)
 - [Modules - General Question](https://www.reddit.com/r/Python/comments/qrioc3/modules_general_question/)
-- [Simulate A Client-Server Application](https://www.reddit.com/r/Python/comments/qrijex/simulate_a_clientserver_application/)
-- [Guys Please help KIVY or Beeware or pyQT](https://www.reddit.com/r/Python/comments/qriej1/guys_please_help_kivy_or_beeware_or_pyqt/)
 <!-- BLOG-POST-LIST:END -->
