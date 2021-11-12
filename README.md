@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - szabolcsdombi/zengl: ⚡ high-performance rendering for python](https://www.reddit.com/r/Python/comments/qs8mz2/github_szabolcsdombizengl_highperformance/)
+- [Cybersecurity Vs Software Development: Here is Everything You Must Know](https://www.reddit.com/r/Python/comments/qs8deg/cybersecurity_vs_software_development_here_is/)
 - [Currency Converter - Python | By Planet KVSK](https://www.reddit.com/r/Python/comments/qs7ed4/currency_converter_python_by_planet_kvsk/)
 - [Kalimba](https://www.reddit.com/r/Python/comments/qs6z71/kalimba/)
 - [Django Application Dockerisation in Production](https://www.reddit.com/r/Python/comments/qs62f4/django_application_dockerisation_in_production/)
-- [Space Science with Python - Part 11: The Horizon](https://www.reddit.com/r/Python/comments/qs5u68/space_science_with_python_part_11_the_horizon/)
-- [Script for the Mask attack](https://www.reddit.com/r/Python/comments/qs5dzg/script_for_the_mask_attack/)
 <!-- BLOG-POST-LIST:END -->
