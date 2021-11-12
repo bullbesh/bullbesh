@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/qryjg8/friday_daily_thread_free_chat_friday_daily_thread/)
 - [iPad coding 3.9 ?](https://www.reddit.com/r/Python/comments/qrvs7y/ipad_coding_39/)
 - [Imagine this!](https://www.reddit.com/r/Python/comments/qruwuk/imagine_this/)
 - [New to Coding](https://www.reddit.com/r/Python/comments/qrte14/new_to_coding/)
 - [Journey to writing an RSI trading algorithm- Week 1](https://www.reddit.com/r/Python/comments/qrsri5/journey_to_writing_an_rsi_trading_algorithm_week_1/)
-- [Where can I find Metadata catalogs?](https://www.reddit.com/r/Python/comments/qrsogl/where_can_i_find_metadata_catalogs/)
 <!-- BLOG-POST-LIST:END -->
