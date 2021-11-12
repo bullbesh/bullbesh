@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Group Project?](https://www.reddit.com/r/Python/comments/qs3co5/group_project/)
 - [Automating legacy excel workflows](https://www.reddit.com/r/Python/comments/qs3170/automating_legacy_excel_workflows/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/qryjg8/friday_daily_thread_free_chat_friday_daily_thread/)
 - [iPad coding 3.9 ?](https://www.reddit.com/r/Python/comments/qrvs7y/ipad_coding_39/)
 - [Imagine this!](https://www.reddit.com/r/Python/comments/qruwuk/imagine_this/)
-- [New to Coding](https://www.reddit.com/r/Python/comments/qrte14/new_to_coding/)
 <!-- BLOG-POST-LIST:END -->
