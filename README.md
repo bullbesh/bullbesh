@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [If I&#39;m able to use a recorder like Katalon studio, what purposes does knowing Python serve in testing?](https://www.reddit.com/r/Python/comments/qsde1e/if_im_able_to_use_a_recorder_like_katalon_studio/)
+- [Leverage Python built in caching to speed up your scripts!](https://www.reddit.com/r/Python/comments/qsce0w/leverage_python_built_in_caching_to_speed_up_your/)
 - [What are the advanced concepts someone should learn to be considered as an expert in Python?](https://www.reddit.com/r/Python/comments/qsc3g3/what_are_the_advanced_concepts_someone_should/)
 - [Gunicorn hot reload with Docker Compose](https://www.reddit.com/r/Python/comments/qsc0im/gunicorn_hot_reload_with_docker_compose/)
 - [Tool for running alembic without alembic init](https://www.reddit.com/r/Python/comments/qsbcz2/tool_for_running_alembic_without_alembic_init/)
-- [Create an Automated Web Bot with Selenium in Python](https://www.reddit.com/r/Python/comments/qsbchx/create_an_automated_web_bot_with_selenium_in/)
-- [Python MongoX: async MongoDB ODM &lpar;Object Document Mapper&rpar;](https://www.reddit.com/r/Python/comments/qsb57e/python_mongox_async_mongodb_odm_object_document/)
 <!-- BLOG-POST-LIST:END -->
