@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Runaway Noob needs help](https://www.reddit.com/r/Python/comments/qsf9p7/python_runaway_noob_needs_help/)
+- [Can anyone explain to me how __init__ == ‘__main__’ is used properly? I’ve watched multiple videos but it just hard for me to understand.](https://www.reddit.com/r/Python/comments/qsezbh/can_anyone_explain_to_me_how_init_main_is_used/)
 - [Double the Speed of Your Python Code With Numba](https://www.reddit.com/r/Python/comments/qsdubi/double_the_speed_of_your_python_code_with_numba/)
 - [Leverage Python built in caching to speed up your scripts!](https://www.reddit.com/r/Python/comments/qsce0w/leverage_python_built_in_caching_to_speed_up_your/)
 - [What are the advanced concepts someone should learn to be considered as an expert in Python?](https://www.reddit.com/r/Python/comments/qsc3g3/what_are_the_advanced_concepts_someone_should/)
-- [Gunicorn hot reload with Docker Compose](https://www.reddit.com/r/Python/comments/qsc0im/gunicorn_hot_reload_with_docker_compose/)
-- [Tool for running alembic without alembic init](https://www.reddit.com/r/Python/comments/qsbcz2/tool_for_running_alembic_without_alembic_init/)
 <!-- BLOG-POST-LIST:END -->
