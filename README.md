@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Download YouTube videos/audio using python](https://www.reddit.com/r/Python/comments/qs9z2z/download_youtube_videosaudio_using_python/)
 - [GitHub - szabolcsdombi/zengl: ⚡ high-performance rendering for python](https://www.reddit.com/r/Python/comments/qs8mz2/github_szabolcsdombizengl_highperformance/)
 - [Cybersecurity Vs Software Development: Here is Everything You Must Know](https://www.reddit.com/r/Python/comments/qs8deg/cybersecurity_vs_software_development_here_is/)
 - [Currency Converter - Python | By Planet KVSK](https://www.reddit.com/r/Python/comments/qs7ed4/currency_converter_python_by_planet_kvsk/)
 - [Kalimba](https://www.reddit.com/r/Python/comments/qs6z71/kalimba/)
-- [Django Application Dockerisation in Production](https://www.reddit.com/r/Python/comments/qs62f4/django_application_dockerisation_in_production/)
 <!-- BLOG-POST-LIST:END -->
