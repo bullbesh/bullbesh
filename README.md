@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [You can generate extremely detailed dummy data using schema-based generators of Mimesis.](https://www.reddit.com/r/Python/comments/qsb18i/you_can_generate_extremely_detailed_dummy_data/)
-- [What a easy code?](https://www.reddit.com/r/Python/comments/qsaouh/what_a_easy_code/)
-- [Download YouTube videos/audio using python](https://www.reddit.com/r/Python/comments/qs9z2z/download_youtube_videosaudio_using_python/)
-- [GitHub - szabolcsdombi/zengl: ⚡ high-performance rendering for python](https://www.reddit.com/r/Python/comments/qs8mz2/github_szabolcsdombizengl_highperformance/)
-- [Cybersecurity Vs Software Development: Here is Everything You Must Know](https://www.reddit.com/r/Python/comments/qs8deg/cybersecurity_vs_software_development_here_is/)
+- [What are the advanced concepts someone should learn to be considered as an expert in Python?](https://www.reddit.com/r/Python/comments/qsc3g3/what_are_the_advanced_concepts_someone_should/)
+- [Gunicorn hot reload with Docker Compose](https://www.reddit.com/r/Python/comments/qsc0im/gunicorn_hot_reload_with_docker_compose/)
+- [Tool for running alembic without alembic init](https://www.reddit.com/r/Python/comments/qsbcz2/tool_for_running_alembic_without_alembic_init/)
+- [Create an Automated Web Bot with Selenium in Python](https://www.reddit.com/r/Python/comments/qsbchx/create_an_automated_web_bot_with_selenium_in/)
+- [Python MongoX: async MongoDB ODM &lpar;Object Document Mapper&rpar;](https://www.reddit.com/r/Python/comments/qsb57e/python_mongox_async_mongodb_odm_object_document/)
 <!-- BLOG-POST-LIST:END -->
