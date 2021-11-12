@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [When performance becomes a thing, is switching from python to GO the ultimate solution for backend API dev ?](https://www.reddit.com/r/Python/comments/qs5509/when_performance_becomes_a_thing_is_switching/)
 - [Group Project?](https://www.reddit.com/r/Python/comments/qs3co5/group_project/)
 - [Automating legacy excel workflows](https://www.reddit.com/r/Python/comments/qs3170/automating_legacy_excel_workflows/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/qryjg8/friday_daily_thread_free_chat_friday_daily_thread/)
 - [iPad coding 3.9 ?](https://www.reddit.com/r/Python/comments/qrvs7y/ipad_coding_39/)
-- [Imagine this!](https://www.reddit.com/r/Python/comments/qruwuk/imagine_this/)
 <!-- BLOG-POST-LIST:END -->
