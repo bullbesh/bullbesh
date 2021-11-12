@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Runaway Noob needs help](https://www.reddit.com/r/Python/comments/qsf9p7/python_runaway_noob_needs_help/)
+- [I created a python program to replicate Red light Green light Game from Squid Games using Opencv Python &lpar;this is my first attempt will be updating as i will add more features&rpar;](https://www.reddit.com/r/Python/comments/qsgzju/i_created_a_python_program_to_replicate_red_light/)
+- [Ruby vs Python comes down to the for loop](https://www.reddit.com/r/Python/comments/qsgy13/ruby_vs_python_comes_down_to_the_for_loop/)
+- [Is data architecture and ETL difficult to learn compared to python?](https://www.reddit.com/r/Python/comments/qsgdcu/is_data_architecture_and_etl_difficult_to_learn/)
+- [Free Online Live Python program from Zero to Hero Course With Certification By LetsUpgrade](https://www.reddit.com/r/Python/comments/qsgbn4/free_online_live_python_program_from_zero_to_hero/)
 - [Can anyone explain to me how __init__ == ‘__main__’ is used properly? I’ve watched multiple videos but it just hard for me to understand.](https://www.reddit.com/r/Python/comments/qsezbh/can_anyone_explain_to_me_how_init_main_is_used/)
-- [Double the Speed of Your Python Code With Numba](https://www.reddit.com/r/Python/comments/qsdubi/double_the_speed_of_your_python_code_with_numba/)
-- [Leverage Python built in caching to speed up your scripts!](https://www.reddit.com/r/Python/comments/qsce0w/leverage_python_built_in_caching_to_speed_up_your/)
-- [What are the advanced concepts someone should learn to be considered as an expert in Python?](https://www.reddit.com/r/Python/comments/qsc3g3/what_are_the_advanced_concepts_someone_should/)
 <!-- BLOG-POST-LIST:END -->
