@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Currency Converter - Python | By Planet KVSK](https://www.reddit.com/r/Python/comments/qs7ed4/currency_converter_python_by_planet_kvsk/)
+- [Kalimba](https://www.reddit.com/r/Python/comments/qs6z71/kalimba/)
 - [Django Application Dockerisation in Production](https://www.reddit.com/r/Python/comments/qs62f4/django_application_dockerisation_in_production/)
 - [Space Science with Python - Part 11: The Horizon](https://www.reddit.com/r/Python/comments/qs5u68/space_science_with_python_part_11_the_horizon/)
 - [Script for the Mask attack](https://www.reddit.com/r/Python/comments/qs5dzg/script_for_the_mask_attack/)
-- [When performance becomes a thing, is switching from python to GO the ultimate solution for backend API dev ?](https://www.reddit.com/r/Python/comments/qs5509/when_performance_becomes_a_thing_is_switching/)
-- [Group Project?](https://www.reddit.com/r/Python/comments/qs3co5/group_project/)
 <!-- BLOG-POST-LIST:END -->
