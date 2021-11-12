@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [If I&#39;m able to use a recorder like Katalon studio, what purposes does knowing Python serve in testing?](https://www.reddit.com/r/Python/comments/qsde1e/if_im_able_to_use_a_recorder_like_katalon_studio/)
+- [Double the Speed of Your Python Code With Numba](https://www.reddit.com/r/Python/comments/qsdubi/double_the_speed_of_your_python_code_with_numba/)
 - [Leverage Python built in caching to speed up your scripts!](https://www.reddit.com/r/Python/comments/qsce0w/leverage_python_built_in_caching_to_speed_up_your/)
 - [What are the advanced concepts someone should learn to be considered as an expert in Python?](https://www.reddit.com/r/Python/comments/qsc3g3/what_are_the_advanced_concepts_someone_should/)
 - [Gunicorn hot reload with Docker Compose](https://www.reddit.com/r/Python/comments/qsc0im/gunicorn_hot_reload_with_docker_compose/)
