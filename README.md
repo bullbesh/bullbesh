@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The future of python](https://www.reddit.com/r/Python/comments/qssxl2/the_future_of_python/)
+- [Options to Convert Python to JavaScript and Back](https://www.reddit.com/r/Python/comments/qssiib/options_to_convert_python_to_javascript_and_back/)
+- [I wrote an article on how you can make your computer talk with Python and the pyttsx3 library. I hope it helps people build their very own robot butlers someday!](https://www.reddit.com/r/Python/comments/qssdwf/i_wrote_an_article_on_how_you_can_make_your/)
 - [Config Snacks: service configuration made a little easier](https://www.reddit.com/r/Python/comments/qss3v3/config_snacks_service_configuration_made_a_little/)
-- [Beginner, need some tip](https://www.reddit.com/r/Python/comments/qss0db/beginner_need_some_tip/)
 - [Is the next step for python language evolution to become ultra fast as well as super readable?](https://www.reddit.com/r/Python/comments/qspcq6/is_the_next_step_for_python_language_evolution_to/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/qsoenl/saturday_daily_thread_resource_request_and/)
-- [Checking simple equations or inequalities with Z3](https://www.reddit.com/r/Python/comments/qsldpd/checking_simple_equations_or_inequalities_with_z3/)
 <!-- BLOG-POST-LIST:END -->
