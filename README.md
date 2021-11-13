@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Join the PyQtGraph Code Sprint!](https://www.reddit.com/r/Python/comments/qt7zue/join_the_pyqtgraph_code_sprint/)
+- [python for VR](https://www.reddit.com/r/Python/comments/qt7wmh/python_for_vr/)
+- [god&#39;s sake someone please help me. how can i make computer understand whether i am cheating or not](https://www.reddit.com/r/Python/comments/qt7n9n/gods_sake_someone_please_help_me_how_can_i_make/)
+- [What’s the big deal about a JIT compiler for Python &lpar;Pyjion&rpar;?](https://www.reddit.com/r/Python/comments/qt7jzw/whats_the_big_deal_about_a_jit_compiler_for/)
 - [Python without IDLE](https://www.reddit.com/r/Python/comments/qt6rmb/python_without_idle/)
-- [I was bored and I created a FizzBuzz Generator](https://www.reddit.com/r/Python/comments/qt692m/i_was_bored_and_i_created_a_fizzbuzz_generator/)
-- [Ivy: a static website generator in Python for people who enjoy the simpler things in life](https://www.reddit.com/r/Python/comments/qt633y/ivy_a_static_website_generator_in_python_for/)
-- [Advanced Visual Studio Code for Python Developers – Real Python](https://www.reddit.com/r/Python/comments/qt3x3w/advanced_visual_studio_code_for_python_developers/)
-- [ROCK, PAPER ,SCISSORS](https://www.reddit.com/r/Python/comments/qt0l8r/rock_paper_scissors/)
 <!-- BLOG-POST-LIST:END -->
