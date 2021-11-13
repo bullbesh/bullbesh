@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to make a python package from scratch?](https://www.reddit.com/r/Python/comments/qsxe5e/how_to_make_a_python_package_from_scratch/)
-- [Is Automation using Python considered to be part of Data Science? Data Engineering or Machine Learning?](https://www.reddit.com/r/Python/comments/qsx3mc/is_automation_using_python_considered_to_be_part/)
-- [Quick Sort Algorithm In Python](https://www.reddit.com/r/Python/comments/qsw3g6/quick_sort_algorithm_in_python/)
-- [The future of python](https://www.reddit.com/r/Python/comments/qssxl2/the_future_of_python/)
-- [Options to Convert Python to JavaScript and Back](https://www.reddit.com/r/Python/comments/qssiib/options_to_convert_python_to_javascript_and_back/)
+- [a = a[&#39;k&#39;] = {}; # An Infinitely Nested Dictionary](https://www.reddit.com/r/Python/comments/qsy7u1/a_ak_an_infinitely_nested_dictionary/)
+- [Create a Stat Tweet bot using Python , Tweepy and FPL API | Fantasy Premier League | Twitter](https://www.reddit.com/r/Python/comments/qsy0jy/create_a_stat_tweet_bot_using_python_tweepy_and/)
+- [WorldCloud | Python | Create a wordcloud from recent tweets for a keyword using python in easy steps](https://www.reddit.com/r/Python/comments/qsxy9m/worldcloud_python_create_a_wordcloud_from_recent/)
+- [Why do arrays not have .join?](https://www.reddit.com/r/Python/comments/qsxqsp/why_do_arrays_not_have_join/)
+- [A complete guide to organizing settings in Django](https://www.reddit.com/r/Python/comments/qsxmnx/a_complete_guide_to_organizing_settings_in_django/)
 <!-- BLOG-POST-LIST:END -->
