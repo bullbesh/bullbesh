@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Visual Studio Code for Python Developers – Real Python](https://www.reddit.com/r/Python/comments/qt3x3w/advanced_visual_studio_code_for_python_developers/)
 - [Python Beginner](https://www.reddit.com/r/Python/comments/qt1vy0/python_beginner/)
 - [ROCK, PAPER ,SCISSORS](https://www.reddit.com/r/Python/comments/qt0l8r/rock_paper_scissors/)
 - [Is there a website like this for python as well](https://www.reddit.com/r/Python/comments/qsypwx/is_there_a_website_like_this_for_python_as_well/)
 - [Spotify playlist helper &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/qsyhac/spotify_playlist_helper_python/)
-- [a = a[&#39;k&#39;] = {}; # An Infinitely Nested Dictionary](https://www.reddit.com/r/Python/comments/qsy7u1/a_ak_an_infinitely_nested_dictionary/)
 <!-- BLOG-POST-LIST:END -->
