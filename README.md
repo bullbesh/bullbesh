@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick Sort Algorithm In Python](https://www.reddit.com/r/Python/comments/qsw3g6/quick_sort_algorithm_in_python/)
 - [A “Book Bank Application” described below and made in Python only is required](https://www.reddit.com/r/Python/comments/qsvx0y/a_book_bank_application_described_below_and_made/)
 - [The future of python](https://www.reddit.com/r/Python/comments/qssxl2/the_future_of_python/)
 - [Options to Convert Python to JavaScript and Back](https://www.reddit.com/r/Python/comments/qssiib/options_to_convert_python_to_javascript_and_back/)
 - [I wrote an article on how you can make your computer talk with Python and the pyttsx3 library. I hope it helps people build their very own robot butlers someday!](https://www.reddit.com/r/Python/comments/qssdwf/i_wrote_an_article_on_how_you_can_make_your/)
-- [Config Snacks: service configuration made a little easier](https://www.reddit.com/r/Python/comments/qss3v3/config_snacks_service_configuration_made_a_little/)
 <!-- BLOG-POST-LIST:END -->
