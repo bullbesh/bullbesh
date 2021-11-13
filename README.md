@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A simple script I made after learning about some Os/Threading and networking. Its not a big deal but its a simple one and i enjoyed it a lot!](https://www.reddit.com/r/Python/comments/qtb0qw/a_simple_script_i_made_after_learning_about_some/)
 - [Join the PyQtGraph Code Sprint!](https://www.reddit.com/r/Python/comments/qt7zue/join_the_pyqtgraph_code_sprint/)
 - [What’s the big deal about a JIT compiler for Python &lpar;Pyjion&rpar;?](https://www.reddit.com/r/Python/comments/qt7jzw/whats_the_big_deal_about_a_jit_compiler_for/)
 - [I was bored and I created a FizzBuzz Generator](https://www.reddit.com/r/Python/comments/qt692m/i_was_bored_and_i_created_a_fizzbuzz_generator/)
 - [Ivy: a static website generator in Python for people who enjoy the simpler things in life](https://www.reddit.com/r/Python/comments/qt633y/ivy_a_static_website_generator_in_python_for/)
-- [Advanced Visual Studio Code for Python Developers – Real Python](https://www.reddit.com/r/Python/comments/qt3x3w/advanced_visual_studio_code_for_python_developers/)
 <!-- BLOG-POST-LIST:END -->
