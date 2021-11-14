@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;d like to share my experience with my very first useful code and maybe ask for a little help](https://www.reddit.com/r/Python/comments/qtrv4s/id_like_to_share_my_experience_with_my_very_first/)
+- [Привет , я начал делать движок на библиотеке Pygame. Набираю помощников , есть дискорд и телеграмм.](https://www.reddit.com/r/Python/comments/qtr61b/привет_я_начал_делать_движок_на_библиотеке_pygame/)
+- [I created a website where people can upload their files it will be uploaded on siasky and the fun thing is they can download google chrome extension to get access their files in one sec](https://www.reddit.com/r/Python/comments/qtr3jg/i_created_a_website_where_people_can_upload_their/)
 - [Time zone conversion — What time is it in China if it is 13:00 in New York?](https://www.reddit.com/r/Python/comments/qtq5ia/time_zone_conversion_what_time_is_it_in_china_if/)
 - [An introductory guide to PyTorch](https://www.reddit.com/r/Python/comments/qtphnk/an_introductory_guide_to_pytorch/)
-- [SIMPLE CODE HELP](https://www.reddit.com/r/Python/comments/qtoqyd/simple_code_help/)
-- [I made a Python script that converts your favourite TV series into an Anki deck.](https://www.reddit.com/r/Python/comments/qtm1d0/i_made_a_python_script_that_converts_your/)
-- [How To Create A Basic Single-Page App Using Django](https://www.reddit.com/r/Python/comments/qtl3bn/how_to_create_a_basic_singlepage_app_using_django/)
 <!-- BLOG-POST-LIST:END -->
