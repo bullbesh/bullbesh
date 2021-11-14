@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Time zone conversion — What time is it in China if it is 13:00 in New York?](https://www.reddit.com/r/Python/comments/qtq5ia/time_zone_conversion_what_time_is_it_in_china_if/)
 - [An introductory guide to PyTorch](https://www.reddit.com/r/Python/comments/qtphnk/an_introductory_guide_to_pytorch/)
 - [SIMPLE CODE HELP](https://www.reddit.com/r/Python/comments/qtoqyd/simple_code_help/)
 - [I made a Python script that converts your favourite TV series into an Anki deck.](https://www.reddit.com/r/Python/comments/qtm1d0/i_made_a_python_script_that_converts_your/)
 - [How To Create A Basic Single-Page App Using Django](https://www.reddit.com/r/Python/comments/qtl3bn/how_to_create_a_basic_singlepage_app_using_django/)
-- [Python ARP Stuffing Implementation](https://www.reddit.com/r/Python/comments/qtkpbr/python_arp_stuffing_implementation/)
 <!-- BLOG-POST-LIST:END -->
