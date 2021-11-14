@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can I use SQLite DB in production if we&#39;re not going to access it concurrently?](https://www.reddit.com/r/Python/comments/qtf28h/can_i_use_sqlite_db_in_production_if_were_not/)
 - [Morse Code Translator](https://www.reddit.com/r/Python/comments/qtdps4/morse_code_translator/)
 - [Python HTTP API client design patterns](https://www.reddit.com/r/Python/comments/qtdn0i/python_http_api_client_design_patterns/)
 - [What would be your first reaction](https://www.reddit.com/r/Python/comments/qtdlh0/what_would_be_your_first_reaction/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/qtddtc/sunday_daily_thread_whats_everyone_working_on/)
-- [Comprehensive guidelines for all stages](https://www.reddit.com/r/Python/comments/qtcjz9/comprehensive_guidelines_for_all_stages/)
 <!-- BLOG-POST-LIST:END -->
