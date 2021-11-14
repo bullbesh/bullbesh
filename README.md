@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Convert PDF to docx and docx to PDF using Python](https://www.reddit.com/r/Python/comments/qty4is/convert_pdf_to_docx_and_docx_to_pdf_using_python/)
+- [Dependency/virtual environment management tool of choice](https://www.reddit.com/r/Python/comments/qtxp3b/dependencyvirtual_environment_management_tool_of/)
+- [Package for adding .map&lpar;&rpar;, .filter&lpar;&rpar; and .reduce&lpar;&rpar; as list methods](https://www.reddit.com/r/Python/comments/qtxa97/package_for_adding_map_filter_and_reduce_as_list/)
 - [Things I Like about Python](https://www.reddit.com/r/Python/comments/qtwcor/things_i_like_about_python/)
 - [Generate your own favourite TV episode using python](https://www.reddit.com/r/Python/comments/qtvm7a/generate_your_own_favourite_tv_episode_using/)
-- [I created a service to search for geodata in the text](https://www.reddit.com/r/Python/comments/qttxv4/i_created_a_service_to_search_for_geodata_in_the/)
-- [I made my first website for my Python project!](https://www.reddit.com/r/Python/comments/qtslkd/i_made_my_first_website_for_my_python_project/)
-- [I&#39;d like to share my experience with my very first useful code and maybe ask for a little help](https://www.reddit.com/r/Python/comments/qtrv4s/id_like_to_share_my_experience_with_my_very_first/)
 <!-- BLOG-POST-LIST:END -->
