@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [For those getting started with Machine Learning, I just made a video regarding how to perform Logistic Regression in Python with Sklearn. If this sounds interesting, feel free to check it out! Hope this helps.](https://www.reddit.com/r/Python/comments/qtk0mt/for_those_getting_started_with_machine_learning_i/)
 - [Morse Code Translator](https://www.reddit.com/r/Python/comments/qtdps4/morse_code_translator/)
 - [Python HTTP API client design patterns](https://www.reddit.com/r/Python/comments/qtdn0i/python_http_api_client_design_patterns/)
 - [What would be your first reaction](https://www.reddit.com/r/Python/comments/qtdlh0/what_would_be_your_first_reaction/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/qtddtc/sunday_daily_thread_whats_everyone_working_on/)
-- [Comprehensive guidelines for all stages](https://www.reddit.com/r/Python/comments/qtcjz9/comprehensive_guidelines_for_all_stages/)
 <!-- BLOG-POST-LIST:END -->
