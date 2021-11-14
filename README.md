@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a python code timing library called ticktock](https://www.reddit.com/r/Python/comments/qtygwe/i_built_a_python_code_timing_library_called/)
 - [Convert PDF to docx and docx to PDF using Python](https://www.reddit.com/r/Python/comments/qty4is/convert_pdf_to_docx_and_docx_to_pdf_using_python/)
 - [Dependency/virtual environment management tool of choice](https://www.reddit.com/r/Python/comments/qtxp3b/dependencyvirtual_environment_management_tool_of/)
 - [Package for adding .map&lpar;&rpar;, .filter&lpar;&rpar; and .reduce&lpar;&rpar; as list methods](https://www.reddit.com/r/Python/comments/qtxa97/package_for_adding_map_filter_and_reduce_as_list/)
 - [Things I Like about Python](https://www.reddit.com/r/Python/comments/qtwcor/things_i_like_about_python/)
-- [Generate your own favourite TV episode using python](https://www.reddit.com/r/Python/comments/qtvm7a/generate_your_own_favourite_tv_episode_using/)
 <!-- BLOG-POST-LIST:END -->
