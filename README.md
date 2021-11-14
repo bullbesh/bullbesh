@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Morse Code Translator](https://www.reddit.com/r/Python/comments/qtdps4/morse_code_translator/)
+- [Python HTTP API client design patterns](https://www.reddit.com/r/Python/comments/qtdn0i/python_http_api_client_design_patterns/)
+- [What would be your first reaction](https://www.reddit.com/r/Python/comments/qtdlh0/what_would_be_your_first_reaction/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/qtddtc/sunday_daily_thread_whats_everyone_working_on/)
 - [Comprehensive guidelines for all stages](https://www.reddit.com/r/Python/comments/qtcjz9/comprehensive_guidelines_for_all_stages/)
-- [A simple script I made after learning about some Os/Threading and networking. Its not a big deal but its a simple one and i enjoyed it a lot!](https://www.reddit.com/r/Python/comments/qtb0qw/a_simple_script_i_made_after_learning_about_some/)
-- [Join the PyQtGraph Code Sprint!](https://www.reddit.com/r/Python/comments/qt7zue/join_the_pyqtgraph_code_sprint/)
-- [What’s the big deal about a JIT compiler for Python &lpar;Pyjion&rpar;?](https://www.reddit.com/r/Python/comments/qt7jzw/whats_the_big_deal_about_a_jit_compiler_for/)
-- [I was bored and I created a FizzBuzz Generator](https://www.reddit.com/r/Python/comments/qt692m/i_was_bored_and_i_created_a_fizzbuzz_generator/)
 <!-- BLOG-POST-LIST:END -->
