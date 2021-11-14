@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Change Detection](https://www.reddit.com/r/Python/comments/qtu5r5/change_detection/)
+- [I created a service to search for geodata in the text](https://www.reddit.com/r/Python/comments/qttxv4/i_created_a_service_to_search_for_geodata_in_the/)
 - [I made my first website for my Python project!](https://www.reddit.com/r/Python/comments/qtslkd/i_made_my_first_website_for_my_python_project/)
 - [I&#39;d like to share my experience with my very first useful code and maybe ask for a little help](https://www.reddit.com/r/Python/comments/qtrv4s/id_like_to_share_my_experience_with_my_very_first/)
-- [Привет , я начал делать движок на библиотеке Pygame. Набираю помощников , есть дискорд и телеграмм.](https://www.reddit.com/r/Python/comments/qtr61b/привет_я_начал_делать_движок_на_библиотеке_pygame/)
 - [Time zone conversion — What time is it in China if it is 13:00 in New York?](https://www.reddit.com/r/Python/comments/qtq5ia/time_zone_conversion_what_time_is_it_in_china_if/)
-- [An introductory guide to PyTorch](https://www.reddit.com/r/Python/comments/qtphnk/an_introductory_guide_to_pytorch/)
 <!-- BLOG-POST-LIST:END -->
