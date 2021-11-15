@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Heroku Alternatives for 2022](https://www.reddit.com/r/Python/comments/qucal9/best_heroku_alternatives_for_2022/)
+- [Python Engineering Articles](https://www.reddit.com/r/Python/comments/qubvz2/python_engineering_articles/)
+- [First &lpar;very basic&rpar; data science using Python in Jupyter notebook! Comparing programming languages.](https://www.reddit.com/r/Python/comments/qubuwm/first_very_basic_data_science_using_python_in/)
+- [I built a standalone version of FastAPI&#39;s dependency injection system](https://www.reddit.com/r/Python/comments/qubuku/i_built_a_standalone_version_of_fastapis/)
 - [AWS boto3 auto-complete and type checking made easy](https://www.reddit.com/r/Python/comments/qubndb/aws_boto3_autocomplete_and_type_checking_made_easy/)
-- [Receptive Field Calculations for Convolutional Neural Networks](https://www.reddit.com/r/Python/comments/quaj64/receptive_field_calculations_for_convolutional/)
-- [OpenCv and WebRtc?](https://www.reddit.com/r/Python/comments/qua1ci/opencv_and_webrtc/)
-- [Is it possible to learn python without creating handwritten notes](https://www.reddit.com/r/Python/comments/qu9yv1/is_it_possible_to_learn_python_without_creating/)
-- [How to Build Text to Speech App with Python &amp; PyQt5](https://www.reddit.com/r/Python/comments/qu8g7m/how_to_build_text_to_speech_app_with_python_pyqt5/)
 <!-- BLOG-POST-LIST:END -->
