@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS boto3 auto-complete and type checking made easy](https://www.reddit.com/r/Python/comments/qubndb/aws_boto3_autocomplete_and_type_checking_made_easy/)
 - [Receptive Field Calculations for Convolutional Neural Networks](https://www.reddit.com/r/Python/comments/quaj64/receptive_field_calculations_for_convolutional/)
-- [Create a QR Code](https://www.reddit.com/r/Python/comments/quacfc/create_a_qr_code/)
 - [OpenCv and WebRtc?](https://www.reddit.com/r/Python/comments/qua1ci/opencv_and_webrtc/)
 - [Is it possible to learn python without creating handwritten notes](https://www.reddit.com/r/Python/comments/qu9yv1/is_it_possible_to_learn_python_without_creating/)
 - [How to Build Text to Speech App with Python &amp; PyQt5](https://www.reddit.com/r/Python/comments/qu8g7m/how_to_build_text_to_speech_app_with_python_pyqt5/)
