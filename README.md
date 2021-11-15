@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Gps correction with python](https://www.reddit.com/r/Python/comments/qu92n0/gps_correction_with_python/)
-- [get help in a python and boost your grades](https://www.reddit.com/r/Python/comments/qu8rr8/get_help_in_a_python_and_boost_your_grades/)
+- [Receptive Field Calculations for Convolutional Neural Networks](https://www.reddit.com/r/Python/comments/quaj64/receptive_field_calculations_for_convolutional/)
+- [Create a QR Code](https://www.reddit.com/r/Python/comments/quacfc/create_a_qr_code/)
+- [OpenCv and WebRtc?](https://www.reddit.com/r/Python/comments/qua1ci/opencv_and_webrtc/)
+- [Is it possible to learn python without creating handwritten notes](https://www.reddit.com/r/Python/comments/qu9yv1/is_it_possible_to_learn_python_without_creating/)
 - [How to Build Text to Speech App with Python &amp; PyQt5](https://www.reddit.com/r/Python/comments/qu8g7m/how_to_build_text_to_speech_app_with_python_pyqt5/)
-- [Don&#39;t show me numbers!! Tell me a story.](https://www.reddit.com/r/Python/comments/qu8diq/dont_show_me_numbers_tell_me_a_story/)
-- [3 useful methods to combine the little python strings](https://www.reddit.com/r/Python/comments/qu7x28/3_useful_methods_to_combine_the_little_python/)
 <!-- BLOG-POST-LIST:END -->
