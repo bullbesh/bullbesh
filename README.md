@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Make Anime Move Like Your Head ? [tutorial]](https://www.reddit.com/r/Python/comments/quqkbz/how_to_make_anime_move_like_your_head_tutorial/)
 - [How to Scrape and Extract Hyperlink Networks with BeautifulSoup and NetworkX](https://www.reddit.com/r/Python/comments/quocl5/how_to_scrape_and_extract_hyperlink_networks_with/)
-- [Python 3](https://www.reddit.com/r/Python/comments/qulbrl/python_3/)
 - [I built a type safe ORM with auto-complete support!](https://www.reddit.com/r/Python/comments/quk8gp/i_built_a_type_safe_orm_with_autocomplete_support/)
 - [Improving Automated Ad Insertion with Audio Analysis in Python](https://www.reddit.com/r/Python/comments/qujwpv/improving_automated_ad_insertion_with_audio/)
 - [I don&#39;t have time to read the news but I want to know what&#39;s going on in the news anyway so I used Python and NLP to summarize all the NY Times headlines in a month](https://www.reddit.com/r/Python/comments/qujmt6/i_dont_have_time_to_read_the_news_but_i_want_to/)
