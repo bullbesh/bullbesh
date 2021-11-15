@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [3 useful methods to combine the little python strings](https://www.reddit.com/r/Python/comments/qu7x28/3_useful_methods_to_combine_the_little_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/qu31sa/monday_daily_thread_project_ideas/)
 - [Brainfuck python compiler](https://www.reddit.com/r/Python/comments/qu25wl/brainfuck_python_compiler/)
 - [I built a python code timing library called ticktock](https://www.reddit.com/r/Python/comments/qtygwe/i_built_a_python_code_timing_library_called/)
 - [Convert PDF to docx and docx to PDF using Python](https://www.reddit.com/r/Python/comments/qty4is/convert_pdf_to_docx_and_docx_to_pdf_using_python/)
-- [Dependency/virtual environment management tool of choice](https://www.reddit.com/r/Python/comments/qtxp3b/dependencyvirtual_environment_management_tool_of/)
 <!-- BLOG-POST-LIST:END -->
