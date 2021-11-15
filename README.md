@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An introduction to Pydbantic — a single model solution to Data Verification &amp; Storage](https://www.reddit.com/r/Python/comments/quggys/an_introduction_to_pydbantic_a_single_model/)
 - [Machine Learning with Python - All-in-One Bootcamp](https://www.reddit.com/r/Python/comments/qufxrg/machine_learning_with_python_allinone_bootcamp/)
 - [How Python list really works](https://www.reddit.com/r/Python/comments/quf6up/how_python_list_really_works/)
 - [Open Access Book on Matplotlib by the creator of the cheatsheets &lpar;me&rpar;](https://www.reddit.com/r/Python/comments/queazr/open_access_book_on_matplotlib_by_the_creator_of/)
 - [Django Translation: Agile Localization for Developers](https://www.reddit.com/r/Python/comments/qud9k6/django_translation_agile_localization_for/)
-- [What features an ideal IDE for Python notebooks should have?](https://www.reddit.com/r/Python/comments/qud5vc/what_features_an_ideal_ide_for_python_notebooks/)
 <!-- BLOG-POST-LIST:END -->
