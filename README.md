@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning with Python - All-in-One Bootcamp](https://www.reddit.com/r/Python/comments/qufxrg/machine_learning_with_python_allinone_bootcamp/)
 - [How Python list really works](https://www.reddit.com/r/Python/comments/quf6up/how_python_list_really_works/)
 - [Open Access Book on Matplotlib by the creator of the cheatsheets &lpar;me&rpar;](https://www.reddit.com/r/Python/comments/queazr/open_access_book_on_matplotlib_by_the_creator_of/)
 - [Django Translation: Agile Localization for Developers](https://www.reddit.com/r/Python/comments/qud9k6/django_translation_agile_localization_for/)
 - [What features an ideal IDE for Python notebooks should have?](https://www.reddit.com/r/Python/comments/qud5vc/what_features_an_ideal_ide_for_python_notebooks/)
-- [Best Heroku Alternatives for 2022](https://www.reddit.com/r/Python/comments/qucal9/best_heroku_alternatives_for_2022/)
 <!-- BLOG-POST-LIST:END -->
