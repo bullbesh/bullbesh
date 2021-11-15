@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python is now a first-class citizen on Apify - releasing a new Python API client](https://www.reddit.com/r/Python/comments/quimc8/python_is_now_a_firstclass_citizen_on_apify/)
-- [16 Reasons to Use VS Code for Developing Jupyter Notebooks](https://www.reddit.com/r/Python/comments/quhyry/16_reasons_to_use_vs_code_for_developing_jupyter/)
-- [The Ultimate Selenium Python Cheat Sheet for Test Automation](https://www.reddit.com/r/Python/comments/quhmlf/the_ultimate_selenium_python_cheat_sheet_for_test/)
-- [An introduction to Pydbantic — a single model solution to Data Verification &amp; Storage](https://www.reddit.com/r/Python/comments/quggys/an_introduction_to_pydbantic_a_single_model/)
-- [Machine Learning with Python - All-in-One Bootcamp](https://www.reddit.com/r/Python/comments/qufxrg/machine_learning_with_python_allinone_bootcamp/)
+- [I built a type safe ORM with auto-complete support!](https://www.reddit.com/r/Python/comments/quk8gp/i_built_a_type_safe_orm_with_autocomplete_support/)
+- [Improving Automated Ad Insertion with Audio Analysis in Python](https://www.reddit.com/r/Python/comments/qujwpv/improving_automated_ad_insertion_with_audio/)
+- [I don&#39;t have time to read the news but I want to know what&#39;s going on in the news anyway so I used Python and NLP to summarize all the NY Times headlines in a month](https://www.reddit.com/r/Python/comments/qujmt6/i_dont_have_time_to_read_the_news_but_i_want_to/)
+- [A collection of simple python mini projects to enhance your python skills](https://www.reddit.com/r/Python/comments/qujhp6/a_collection_of_simple_python_mini_projects_to/)
+- [A Project based tutorial by developing the single-player Minesweeper game &lpar;suits people that just started to learn and have a basic experience&rpar;](https://www.reddit.com/r/Python/comments/quitd4/a_project_based_tutorial_by_developing_the/)
 <!-- BLOG-POST-LIST:END -->
