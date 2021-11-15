@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django Translation: Agile Localization for Developers](https://www.reddit.com/r/Python/comments/qud9k6/django_translation_agile_localization_for/)
+- [What features an ideal IDE for Python notebooks should have?](https://www.reddit.com/r/Python/comments/qud5vc/what_features_an_ideal_ide_for_python_notebooks/)
 - [Best Heroku Alternatives for 2022](https://www.reddit.com/r/Python/comments/qucal9/best_heroku_alternatives_for_2022/)
 - [Python Engineering Articles](https://www.reddit.com/r/Python/comments/qubvz2/python_engineering_articles/)
 - [First &lpar;very basic&rpar; data science using Python in Jupyter notebook! Comparing programming languages.](https://www.reddit.com/r/Python/comments/qubuwm/first_very_basic_data_science_using_python_in/)
-- [I built a standalone version of FastAPI&#39;s dependency injection system](https://www.reddit.com/r/Python/comments/qubuku/i_built_a_standalone_version_of_fastapis/)
-- [AWS boto3 auto-complete and type checking made easy](https://www.reddit.com/r/Python/comments/qubndb/aws_boto3_autocomplete_and_type_checking_made_easy/)
 <!-- BLOG-POST-LIST:END -->
