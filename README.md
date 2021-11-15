@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [get help in a python and boost your grades](https://www.reddit.com/r/Python/comments/qu8rr8/get_help_in_a_python_and_boost_your_grades/)
+- [How to Build Text to Speech App with Python &amp; PyQt5](https://www.reddit.com/r/Python/comments/qu8g7m/how_to_build_text_to_speech_app_with_python_pyqt5/)
+- [Don&#39;t show me numbers!! Tell me a story.](https://www.reddit.com/r/Python/comments/qu8diq/dont_show_me_numbers_tell_me_a_story/)
 - [3 useful methods to combine the little python strings](https://www.reddit.com/r/Python/comments/qu7x28/3_useful_methods_to_combine_the_little_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/qu31sa/monday_daily_thread_project_ideas/)
-- [Brainfuck python compiler](https://www.reddit.com/r/Python/comments/qu25wl/brainfuck_python_compiler/)
-- [I built a python code timing library called ticktock](https://www.reddit.com/r/Python/comments/qtygwe/i_built_a_python_code_timing_library_called/)
-- [Convert PDF to docx and docx to PDF using Python](https://www.reddit.com/r/Python/comments/qty4is/convert_pdf_to_docx_and_docx_to_pdf_using_python/)
 <!-- BLOG-POST-LIST:END -->
