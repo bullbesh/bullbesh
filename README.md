@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am frustrated with packaging python, please educate me.](https://www.reddit.com/r/Python/comments/qv1zwc/i_am_frustrated_with_packaging_python_please/)
 - [Complete Selenium Cheatsheet](https://www.reddit.com/r/Python/comments/qv1ba2/complete_selenium_cheatsheet/)
 - [Rock paper sizors](https://www.reddit.com/r/Python/comments/qv0dnl/rock_paper_sizors/)
 - [Automating the Set Card Game!](https://www.reddit.com/r/Python/comments/quz6xq/automating_the_set_card_game/)
-- [What are the best online courses an intermediate level Python developer should learn to upgrade his skills?](https://www.reddit.com/r/Python/comments/quxcuq/what_are_the_best_online_courses_an_intermediate/)
 - [How variables are saved in Python and Rust. Side by Side 4: str/string](https://www.reddit.com/r/Python/comments/quwysj/how_variables_are_saved_in_python_and_rust_side/)
 <!-- BLOG-POST-LIST:END -->
