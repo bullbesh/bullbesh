@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Command line JSONPath parser tool](https://www.reddit.com/r/Python/comments/qv62aj/command_line_jsonpath_parser_tool/)
+- [Python: Please stop screwing over Linux distros](https://www.reddit.com/r/Python/comments/qv5zv0/python_please_stop_screwing_over_linux_distros/)
 - [10 Big Tech Companies Using Python to Streamline Processes](https://www.reddit.com/r/Python/comments/qv5h8l/10_big_tech_companies_using_python_to_streamline/)
 - [Does anyone wanna Collab for a POC parody malware??](https://www.reddit.com/r/Python/comments/qv5bde/does_anyone_wanna_collab_for_a_poc_parody_malware/)
 - [Python books](https://www.reddit.com/r/Python/comments/qv485x/python_books/)
-- [I added a simple build tool using PyInstaller to my custom Visual Novel game engine written in Pygame and PyQt5](https://www.reddit.com/r/Python/comments/qv3sy2/i_added_a_simple_build_tool_using_pyinstaller_to/)
-- [GitHub - RobertCraigie/prisma-client-py: Prisma Client Python is an auto-generated and fully type-safe database client](https://www.reddit.com/r/Python/comments/qv3puj/github_robertcraigieprismaclientpy_prisma_client/)
 <!-- BLOG-POST-LIST:END -->
