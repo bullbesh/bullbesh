@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [11 Algorithm to generate mazes: &lpar; kruskal&#39;s, Ellers,...&rpar;](https://www.reddit.com/r/Python/comments/qvaww2/11_algorithm_to_generate_mazes_kruskals_ellers/)
+- [Graphene 3.0 is released](https://www.reddit.com/r/Python/comments/qvan8z/graphene_30_is_released/)
 - [All freelancers with ANY SKILL join today](https://www.reddit.com/r/Python/comments/qv9k4h/all_freelancers_with_any_skill_join_today/)
 - [How Python passes Arguments you might be wrong....](https://www.reddit.com/r/Python/comments/qv9fen/how_python_passes_arguments_you_might_be_wrong/)
 - [How did u learn DSA in python](https://www.reddit.com/r/Python/comments/qv8v6e/how_did_u_learn_dsa_in_python/)
-- [First computations using NumPy in Jupyter Notebook!](https://www.reddit.com/r/Python/comments/qv8hqb/first_computations_using_numpy_in_jupyter_notebook/)
-- [Python Programming eBook Bundle by O’Reilly](https://www.reddit.com/r/Python/comments/qv8cq5/python_programming_ebook_bundle_by_oreilly/)
 <!-- BLOG-POST-LIST:END -->
