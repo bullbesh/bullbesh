@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are the best online courses an intermediate level Python developer should learn to upgrade his skills?](https://www.reddit.com/r/Python/comments/quxcuq/what_are_the_best_online_courses_an_intermediate/)
 - [How variables are saved in Python and Rust. Side by Side 4: str/string](https://www.reddit.com/r/Python/comments/quwysj/how_variables_are_saved_in_python_and_rust_side/)
 - [Hello r/Python! Here is a taylor series polynomial calculator I wrote in python!](https://www.reddit.com/r/Python/comments/quwmjo/hello_rpython_here_is_a_taylor_series_polynomial/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/quu6ri/tuesday_daily_thread_advanced_questions/)
 - [Simple typing test](https://www.reddit.com/r/Python/comments/qurbha/simple_typing_test/)
-- [I made my first python Rick, paper, scissors game](https://www.reddit.com/r/Python/comments/qur6cb/i_made_my_first_python_rick_paper_scissors_game/)
 <!-- BLOG-POST-LIST:END -->
