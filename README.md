@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How variables are saved in Python and Rust. Side by Side 5: list/array](https://www.reddit.com/r/Python/comments/qvl07z/how_variables_are_saved_in_python_and_rust_side/)
+- [tiptop, a command-line &quot;graphical&quot; system monitor](https://www.reddit.com/r/Python/comments/qvklbv/tiptop_a_commandline_graphical_system_monitor/)
 - [New paper out in Chaos, Solitons &amp; Fractals: Forecasting of noisy chaotic systems with deep neural networks Project developed in PyTorch/Keras/Sklearn](https://www.reddit.com/r/Python/comments/qvjfml/new_paper_out_in_chaos_solitons_fractals/)
 - [Word Search Using Pygame](https://www.reddit.com/r/Python/comments/qvivzs/word_search_using_pygame/)
 - [Python &amp; AWS](https://www.reddit.com/r/Python/comments/qvigiz/python_aws/)
-- [We had to make a form about something we are passionate about and send it to that community for my English class, so I made a one about coding:](https://www.reddit.com/r/Python/comments/qvhmt0/we_had_to_make_a_form_about_something_we_are/)
-- [ThreadPoolExecutor: Quick-Start Guide](https://www.reddit.com/r/Python/comments/qvfn5k/threadpoolexecutor_quickstart_guide/)
 <!-- BLOG-POST-LIST:END -->
