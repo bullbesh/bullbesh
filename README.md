@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python books](https://www.reddit.com/r/Python/comments/qv485x/python_books/)
 - [I added a simple build tool using PyInstaller to my custom Visual Novel game engine written in Pygame and PyQt5](https://www.reddit.com/r/Python/comments/qv3sy2/i_added_a_simple_build_tool_using_pyinstaller_to/)
 - [GitHub - RobertCraigie/prisma-client-py: Prisma Client Python is an auto-generated and fully type-safe database client](https://www.reddit.com/r/Python/comments/qv3puj/github_robertcraigieprismaclientpy_prisma_client/)
 - [Notebook VS Ide](https://www.reddit.com/r/Python/comments/qv3khv/notebook_vs_ide/)
 - [PyCharm vs VSCode-InsideAIML](https://www.reddit.com/r/Python/comments/qv2ywn/pycharm_vs_vscodeinsideaiml/)
-- [Program that generates melodies](https://www.reddit.com/r/Python/comments/qv2v16/program_that_generates_melodies/)
 <!-- BLOG-POST-LIST:END -->
