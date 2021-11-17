@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [We created a step-by-step guide about how spaCy v3&#39;s configuration and project systems can help you enhance your Natural Language Processing workflows!](https://www.reddit.com/r/Python/comments/qw45w0/we_created_a_stepbystep_guide_about_how_spacy_v3s/)
-- [whats the risk/downside to using open source license/library with a paid product.](https://www.reddit.com/r/Python/comments/qw3los/whats_the_riskdownside_to_using_open_source/)
-- [The Python on Microcontrollers Newsletter](https://www.reddit.com/r/Python/comments/qw1ckg/the_python_on_microcontrollers_newsletter/)
-- [An experimental Python-to-C transpiler and domain specific language for embedded high-performance computing](https://www.reddit.com/r/Python/comments/qw120k/an_experimental_pythontoc_transpiler_and_domain/)
-- [Speed up your Conda installs with Mamba](https://www.reddit.com/r/Python/comments/qw10se/speed_up_your_conda_installs_with_mamba/)
+- [Python R replication](https://www.reddit.com/r/Python/comments/qw52ao/python_r_replication/)
+- [PLOT AREA IN A TIME SERIES SEGMENT](https://www.reddit.com/r/Python/comments/qw4v16/plot_area_in_a_time_series_segment/)
+- [How Python can be useful for Daya Analysis ?](https://www.reddit.com/r/Python/comments/qw4qzt/how_python_can_be_useful_for_daya_analysis/)
+- [*args, **kwargs, and custom class wrappers in Python](https://www.reddit.com/r/Python/comments/qw4ble/args_kwargs_and_custom_class_wrappers_in_python/)
+- [spaCy v3&#39;s project and config systems are pretty great](https://www.reddit.com/r/Python/comments/qw4au7/spacy_v3s_project_and_config_systems_are_pretty/)
 <!-- BLOG-POST-LIST:END -->
