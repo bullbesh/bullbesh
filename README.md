@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/qvlvlt/wednesday_daily_thread_beginner_questions/)
 - [How variables are saved in Python and Rust. Side by Side 5: list/array](https://www.reddit.com/r/Python/comments/qvl07z/how_variables_are_saved_in_python_and_rust_side/)
 - [tiptop, a command-line &quot;graphical&quot; system monitor](https://www.reddit.com/r/Python/comments/qvklbv/tiptop_a_commandline_graphical_system_monitor/)
 - [New paper out in Chaos, Solitons &amp; Fractals: Forecasting of noisy chaotic systems with deep neural networks Project developed in PyTorch/Keras/Sklearn](https://www.reddit.com/r/Python/comments/qvjfml/new_paper_out_in_chaos_solitons_fractals/)
 - [Word Search Using Pygame](https://www.reddit.com/r/Python/comments/qvivzs/word_search_using_pygame/)
-- [Python &amp; AWS](https://www.reddit.com/r/Python/comments/qvigiz/python_aws/)
 <!-- BLOG-POST-LIST:END -->
