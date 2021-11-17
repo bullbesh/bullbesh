@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am an intermediate in Python and now I want to make mobile apps, what should I learn?](https://www.reddit.com/r/Python/comments/qvvdgp/i_am_an_intermediate_in_python_and_now_i_want_to/)
+- [Best Python Classes in Pune | Python Course in Pune | SevenMentor](https://www.reddit.com/r/Python/comments/qvuvy7/best_python_classes_in_pune_python_course_in_pune/)
+- [Namespaces and Scope in Python](https://www.reddit.com/r/Python/comments/qvusd2/namespaces_and_scope_in_python/)
 - [Lark 1.0 released - a parsing toolkit that is friendly, production-ready, and comprehensive.](https://www.reddit.com/r/Python/comments/qvu3ib/lark_10_released_a_parsing_toolkit_that_is/)
 - [Monads and Python](https://www.reddit.com/r/Python/comments/qvte5l/monads_and_python/)
-- [Getting to Know Asyncio · Python Concurrency with asyncio MEAP V10](https://www.reddit.com/r/Python/comments/qvsv0m/getting_to_know_asyncio_python_concurrency_with/)
-- [Smaller Python Docker Images with Build Mounts](https://www.reddit.com/r/Python/comments/qvsew8/smaller_python_docker_images_with_build_mounts/)
-- [Download images from twitter using python](https://www.reddit.com/r/Python/comments/qvrz68/download_images_from_twitter_using_python/)
 <!-- BLOG-POST-LIST:END -->
