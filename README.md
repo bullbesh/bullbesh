@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking for programmers that live in Texas. We are needing tech that can work with python software. Please message me if you are interested. This is a paid position at our company. Starting wages depend on experience.](https://www.reddit.com/r/Python/comments/qvzx8s/looking_for_programmers_that_live_in_texas_we_are/)
-- [Looking for programmers that live in Texas. We are needing tech that can work with python,json and/or ignition software. Please message me if you are interested. This is a paid position at our company. Starting wages depend on experience.](https://www.reddit.com/r/Python/comments/qvzum3/looking_for_programmers_that_live_in_texas_we_are/)
+- [The Python on Microcontrollers Newsletter](https://www.reddit.com/r/Python/comments/qw1ckg/the_python_on_microcontrollers_newsletter/)
+- [An experimental Python-to-C transpiler and domain specific language for embedded high-performance computing](https://www.reddit.com/r/Python/comments/qw120k/an_experimental_pythontoc_transpiler_and_domain/)
+- [Speed up your Conda installs with Mamba](https://www.reddit.com/r/Python/comments/qw10se/speed_up_your_conda_installs_with_mamba/)
 - [Continuous integration and testing with custom GitHub workflow for Windows base image](https://www.reddit.com/r/Python/comments/qvz6lt/continuous_integration_and_testing_with_custom/)
-- [You cannot represent infinity as an integer in any coding language. But with python, you can represent an infinite integer via float values.](https://www.reddit.com/r/Python/comments/qvymyl/you_cannot_represent_infinity_as_an_integer_in/)
 - [When to use Conda and when to use Poetry?](https://www.reddit.com/r/Python/comments/qvymk0/when_to_use_conda_and_when_to_use_poetry/)
 <!-- BLOG-POST-LIST:END -->
