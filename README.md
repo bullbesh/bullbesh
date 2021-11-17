@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python developers - help set a Guinness World Record](https://www.reddit.com/r/Python/comments/qvol5l/python_developers_help_set_a_guinness_world_record/)
+- [Mechanized-Branch: Your own github repo is now automated.](https://www.reddit.com/r/Python/comments/qvp5bi/mechanizedbranch_your_own_github_repo_is_now/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/qvlvlt/wednesday_daily_thread_beginner_questions/)
 - [How variables are saved in Python and Rust. Side by Side 5: list/array](https://www.reddit.com/r/Python/comments/qvl07z/how_variables_are_saved_in_python_and_rust_side/)
 - [tiptop, a command-line &quot;graphical&quot; system monitor](https://www.reddit.com/r/Python/comments/qvklbv/tiptop_a_commandline_graphical_system_monitor/)
