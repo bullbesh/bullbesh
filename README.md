@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [using regex&#39;s findall in a for loop comparing two specific columns in different datasets.](https://www.reddit.com/r/Python/comments/qvxipc/using_regexs_findall_in_a_for_loop_comparing_two/)
+- [Password Manager Using Tkinter | iRead](https://www.reddit.com/r/Python/comments/qvx4dm/password_manager_using_tkinter_iread/)
 - [Mini Project Question](https://www.reddit.com/r/Python/comments/qvx1mm/mini_project_question/)
 - [PLOT HISTOGRAM ON TIME SERIES](https://www.reddit.com/r/Python/comments/qvx14g/plot_histogram_on_time_series/)
 - [I created a module for undo and redo in Python.](https://www.reddit.com/r/Python/comments/qvw72e/i_created_a_module_for_undo_and_redo_in_python/)
-- [I am an intermediate in Python and now I want to make mobile apps, what should I learn?](https://www.reddit.com/r/Python/comments/qvvdgp/i_am_an_intermediate_in_python_and_now_i_want_to/)
-- [Best Python Classes in Pune | Python Course in Pune | SevenMentor](https://www.reddit.com/r/Python/comments/qvuvy7/best_python_classes_in_pune_python_course_in_pune/)
 <!-- BLOG-POST-LIST:END -->
