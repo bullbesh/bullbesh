@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monads and Python](https://www.reddit.com/r/Python/comments/qvte5l/monads_and_python/)
 - [Getting to Know Asyncio · Python Concurrency with asyncio MEAP V10](https://www.reddit.com/r/Python/comments/qvsv0m/getting_to_know_asyncio_python_concurrency_with/)
 - [Smaller Python Docker Images with Build Mounts](https://www.reddit.com/r/Python/comments/qvsew8/smaller_python_docker_images_with_build_mounts/)
 - [Download images from twitter using python](https://www.reddit.com/r/Python/comments/qvrz68/download_images_from_twitter_using_python/)
 - [Mechanized-Branch: Your own github repo is now automated.](https://www.reddit.com/r/Python/comments/qvp5bi/mechanizedbranch_your_own_github_repo_is_now/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/qvlvlt/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
