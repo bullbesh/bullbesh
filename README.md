@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made something cool... Collatz Conjecture](https://www.reddit.com/r/Python/comments/qw99x3/i_made_something_cool_collatz_conjecture/)
 - [Pandera 0.8.0: Schema Validation for Pandas, Dask, Modin, and Koalas DataFrames. Oh, and also out-of-the-box Pydantic and Mypy support :&rpar;](https://www.reddit.com/r/Python/comments/qw8r4s/pandera_080_schema_validation_for_pandas_dask/)
 - [spaCy v3&#39;s config and project systems](https://www.reddit.com/r/Python/comments/qw74zj/spacy_v3s_config_and_project_systems/)
 - [CryptSIS/Full_version at CryptSIS_F_app.1.0.2 · Retr0Kr0dy/CryptSIS](https://www.reddit.com/r/Python/comments/qw74it/cryptsisfull_version_at_cryptsis_f_app102/)
 - [Modules for 3d simulations &lpar;such as robotic arms&rpar;?](https://www.reddit.com/r/Python/comments/qw6bm3/modules_for_3d_simulations_such_as_robotic_arms/)
-- [How Python can be useful for Daya Analysis ?](https://www.reddit.com/r/Python/comments/qw4qzt/how_python_can_be_useful_for_daya_analysis/)
 <!-- BLOG-POST-LIST:END -->
