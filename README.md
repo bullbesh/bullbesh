@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Continuous integration and testing with custom GitHub workflow for Windows base image](https://www.reddit.com/r/Python/comments/qvz6lt/continuous_integration_and_testing_with_custom/)
+- [You cannot represent infinity as an integer in any coding language. But with python, you can represent an infinite integer via float values.](https://www.reddit.com/r/Python/comments/qvymyl/you_cannot_represent_infinity_as_an_integer_in/)
+- [When to use Conda and when to use Poetry?](https://www.reddit.com/r/Python/comments/qvymk0/when_to_use_conda_and_when_to_use_poetry/)
+- [&lpar;Over?&rpar;use of continue in for loops in python](https://www.reddit.com/r/Python/comments/qvydse/overuse_of_continue_in_for_loops_in_python/)
 - [using regex&#39;s findall in a for loop comparing two specific columns in different datasets.](https://www.reddit.com/r/Python/comments/qvxipc/using_regexs_findall_in_a_for_loop_comparing_two/)
-- [Password Manager Using Tkinter | iRead](https://www.reddit.com/r/Python/comments/qvx4dm/password_manager_using_tkinter_iread/)
-- [Mini Project Question](https://www.reddit.com/r/Python/comments/qvx1mm/mini_project_question/)
-- [PLOT HISTOGRAM ON TIME SERIES](https://www.reddit.com/r/Python/comments/qvx14g/plot_histogram_on_time_series/)
-- [I created a module for undo and redo in Python.](https://www.reddit.com/r/Python/comments/qvw72e/i_created_a_module_for_undo_and_redo_in_python/)
 <!-- BLOG-POST-LIST:END -->
