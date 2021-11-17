@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a module for undo and redo in Python.](https://www.reddit.com/r/Python/comments/qvw72e/i_created_a_module_for_undo_and_redo_in_python/)
 - [I am an intermediate in Python and now I want to make mobile apps, what should I learn?](https://www.reddit.com/r/Python/comments/qvvdgp/i_am_an_intermediate_in_python_and_now_i_want_to/)
 - [Best Python Classes in Pune | Python Course in Pune | SevenMentor](https://www.reddit.com/r/Python/comments/qvuvy7/best_python_classes_in_pune_python_course_in_pune/)
 - [Namespaces and Scope in Python](https://www.reddit.com/r/Python/comments/qvusd2/namespaces_and_scope_in_python/)
 - [Lark 1.0 released - a parsing toolkit that is friendly, production-ready, and comprehensive.](https://www.reddit.com/r/Python/comments/qvu3ib/lark_10_released_a_parsing_toolkit_that_is/)
-- [Monads and Python](https://www.reddit.com/r/Python/comments/qvte5l/monads_and_python/)
 <!-- BLOG-POST-LIST:END -->
