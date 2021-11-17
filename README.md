@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Modules for 3d simulations &lpar;such as robotic arms&rpar;?](https://www.reddit.com/r/Python/comments/qw6bm3/modules_for_3d_simulations_such_as_robotic_arms/)
+- [Good way to learn about microservices?](https://www.reddit.com/r/Python/comments/qw5ghc/good_way_to_learn_about_microservices/)
 - [Python R replication](https://www.reddit.com/r/Python/comments/qw52ao/python_r_replication/)
-- [PLOT AREA IN A TIME SERIES SEGMENT](https://www.reddit.com/r/Python/comments/qw4v16/plot_area_in_a_time_series_segment/)
 - [How Python can be useful for Daya Analysis ?](https://www.reddit.com/r/Python/comments/qw4qzt/how_python_can_be_useful_for_daya_analysis/)
 - [*args, **kwargs, and custom class wrappers in Python](https://www.reddit.com/r/Python/comments/qw4ble/args_kwargs_and_custom_class_wrappers_in_python/)
-- [spaCy v3&#39;s project and config systems are pretty great](https://www.reddit.com/r/Python/comments/qw4au7/spacy_v3s_project_and_config_systems_are_pretty/)
 <!-- BLOG-POST-LIST:END -->
