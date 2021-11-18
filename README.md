@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Issue: flask.cli.NoAppException: While importing &#39;app&#39;, an ImportError was raised.](https://www.reddit.com/r/Python/comments/qwohym/python_issue_flaskclinoappexception_while/)
 - [The pdfplumber module is awesome](https://www.reddit.com/r/Python/comments/qwnelz/the_pdfplumber_module_is_awesome/)
 - [Virtual Assistant using Python | iRead](https://www.reddit.com/r/Python/comments/qwndfc/virtual_assistant_using_python_iread/)
 - [Why I&#39;m not seeing Output in tic-tac-toe in python?](https://www.reddit.com/r/Python/comments/qwmuxm/why_im_not_seeing_output_in_tictactoe_in_python/)
 - [My first Django project](https://www.reddit.com/r/Python/comments/qwmer7/my_first_django_project/)
-- [Extracting Interactions Networks from Twitter using TWINT and Python](https://www.reddit.com/r/Python/comments/qwlyxm/extracting_interactions_networks_from_twitter/)
 <!-- BLOG-POST-LIST:END -->
