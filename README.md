@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Project](https://www.reddit.com/r/Python/comments/qwjic2/python_project/)
 - [Python is awesome!](https://www.reddit.com/r/Python/comments/qwi8d1/python_is_awesome/)
 - [Dask – a flexible library for parallel computing in Python](https://www.reddit.com/r/Python/comments/qwgbah/dask_a_flexible_library_for_parallel_computing_in/)
 - [Introduction To Python Programming](https://www.reddit.com/r/Python/comments/qwelre/introduction_to_python_programming/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/qwcjlc/thursday_daily_thread_python_careers_courses_and/)
-- [Pants 2.8: Support for Autoflake &amp; Pyupgrade, Docker publishing, Golang, and Google Cloud Functions](https://www.reddit.com/r/Python/comments/qwbegx/pants_28_support_for_autoflake_pyupgrade_docker/)
 <!-- BLOG-POST-LIST:END -->
