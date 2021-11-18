@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pants vs. Bazel: Why Pants may be the right choice for your team](https://www.reddit.com/r/Python/comments/qwyjfl/pants_vs_bazel_why_pants_may_be_the_right_choice/)
+- [I really want to learn python. What’s a good course that is completely free?](https://www.reddit.com/r/Python/comments/qwy4lx/i_really_want_to_learn_python_whats_a_good_course/)
+- [Eros: A down time - built simple programming language](https://www.reddit.com/r/Python/comments/qwxtqi/eros_a_down_time_built_simple_programming_language/)
+- [node-beryl](https://www.reddit.com/r/Python/comments/qwxhb1/nodeberyl/)
 - [Non-Data Python SWE Jobs?](https://www.reddit.com/r/Python/comments/qww4b6/nondata_python_swe_jobs/)
-- [Invertible Dictionary](https://www.reddit.com/r/Python/comments/qwvpg6/invertible_dictionary/)
-- [Why Python single thread ops are slower than Javascript single thread ops](https://www.reddit.com/r/Python/comments/qwvelo/why_python_single_thread_ops_are_slower_than/)
-- [Website for supply chain management](https://www.reddit.com/r/Python/comments/qwv038/website_for_supply_chain_management/)
-- [SynapseML: A simple, multilingual, and massively parallel machine learning library - Microsoft Research](https://www.reddit.com/r/Python/comments/qwu1nq/synapseml_a_simple_multilingual_and_massively/)
 <!-- BLOG-POST-LIST:END -->
