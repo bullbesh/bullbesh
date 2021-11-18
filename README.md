@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Invertible Dictionary](https://www.reddit.com/r/Python/comments/qwvpg6/invertible_dictionary/)
+- [Why Python single thread ops are slower than Javascript single thread ops](https://www.reddit.com/r/Python/comments/qwvelo/why_python_single_thread_ops_are_slower_than/)
+- [Website for supply chain management](https://www.reddit.com/r/Python/comments/qwv038/website_for_supply_chain_management/)
 - [SynapseML: A simple, multilingual, and massively parallel machine learning library - Microsoft Research](https://www.reddit.com/r/Python/comments/qwu1nq/synapseml_a_simple_multilingual_and_massively/)
 - [How should I start learning Python](https://www.reddit.com/r/Python/comments/qwtrw4/how_should_i_start_learning_python/)
-- [Replicating Minecraft World Generation in Python](https://www.reddit.com/r/Python/comments/qwta3r/replicating_minecraft_world_generation_in_python/)
-- [Postcoderoonie -- UK Postcode Validation/ Search API &lpar;made with Flask&rpar;](https://www.reddit.com/r/Python/comments/qwqh96/postcoderoonie_uk_postcode_validation_search_api/)
-- [Making an e-commerce website using only Python - Tech With Tim](https://www.reddit.com/r/Python/comments/qwqg72/making_an_ecommerce_website_using_only_python/)
 <!-- BLOG-POST-LIST:END -->
