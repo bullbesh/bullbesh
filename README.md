@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get all output of speech to text microphone using recognize_using_websocket?](https://www.reddit.com/r/Python/comments/qwkidj/how_to_get_all_output_of_speech_to_text/)
 - [Python Project](https://www.reddit.com/r/Python/comments/qwjic2/python_project/)
 - [Python is awesome!](https://www.reddit.com/r/Python/comments/qwi8d1/python_is_awesome/)
 - [Dask – a flexible library for parallel computing in Python](https://www.reddit.com/r/Python/comments/qwgbah/dask_a_flexible_library_for_parallel_computing_in/)
 - [Introduction To Python Programming](https://www.reddit.com/r/Python/comments/qwelre/introduction_to_python_programming/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/qwcjlc/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
