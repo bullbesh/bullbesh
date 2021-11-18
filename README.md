@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Jobs with Open Source tools](https://www.reddit.com/r/Python/comments/qx093l/data_jobs_with_open_source_tools/)
 - [Learn how to improve your python coding with context managers](https://www.reddit.com/r/Python/comments/qwza1q/learn_how_to_improve_your_python_coding_with/)
 - [Dear PyGui on &quot;Talk Python To Me Podcast&quot; on November 18th](https://www.reddit.com/r/Python/comments/qwyq4b/dear_pygui_on_talk_python_to_me_podcast_on/)
-- [Looking for a tutor for my intro to python/data science class&lpar;jupyter notebook&rpar;](https://www.reddit.com/r/Python/comments/qwyn9b/looking_for_a_tutor_for_my_intro_to_pythondata/)
 - [Pants vs. Bazel: Why Pants may be the right choice for your team](https://www.reddit.com/r/Python/comments/qwyjfl/pants_vs_bazel_why_pants_may_be_the_right_choice/)
-- [I really want to learn python. What’s a good course that is completely free?](https://www.reddit.com/r/Python/comments/qwy4lx/i_really_want_to_learn_python_whats_a_good_course/)
+- [Eros: A down time - built simple programming language](https://www.reddit.com/r/Python/comments/qwxtqi/eros_a_down_time_built_simple_programming_language/)
 <!-- BLOG-POST-LIST:END -->
