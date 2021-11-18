@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The pdfplumber module is awesome](https://www.reddit.com/r/Python/comments/qwnelz/the_pdfplumber_module_is_awesome/)
+- [Virtual Assistant using Python | iRead](https://www.reddit.com/r/Python/comments/qwndfc/virtual_assistant_using_python_iread/)
+- [Why I&#39;m not seeing Output in tic-tac-toe in python?](https://www.reddit.com/r/Python/comments/qwmuxm/why_im_not_seeing_output_in_tictactoe_in_python/)
 - [My first Django project](https://www.reddit.com/r/Python/comments/qwmer7/my_first_django_project/)
 - [Extracting Interactions Networks from Twitter using TWINT and Python](https://www.reddit.com/r/Python/comments/qwlyxm/extracting_interactions_networks_from_twitter/)
-- [Building a CLI tool Love Calculator&lpar;FLAMES&rpar; using Python](https://www.reddit.com/r/Python/comments/qwlvkt/building_a_cli_tool_love_calculatorflames_using/)
-- [How to get all output of speech to text microphone using recognize_using_websocket?](https://www.reddit.com/r/Python/comments/qwkidj/how_to_get_all_output_of_speech_to_text/)
-- [Python Project](https://www.reddit.com/r/Python/comments/qwjic2/python_project/)
 <!-- BLOG-POST-LIST:END -->
