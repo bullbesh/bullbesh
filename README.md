@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Postcoderoonie -- UK Postcode Validation/ Search API &lpar;made with Flask&rpar;](https://www.reddit.com/r/Python/comments/qwqh96/postcoderoonie_uk_postcode_validation_search_api/)
+- [Making an e-commerce website using only Python - Tech With Tim](https://www.reddit.com/r/Python/comments/qwqg72/making_an_ecommerce_website_using_only_python/)
+- [I run untested, viewer-submitted code on my 500-LED christmas tree.](https://www.reddit.com/r/Python/comments/qwqb8c/i_run_untested_viewersubmitted_code_on_my_500led/)
 - [Task queue vs Actor models](https://www.reddit.com/r/Python/comments/qwpizm/task_queue_vs_actor_models/)
 - [There is way to build Operating system by python?](https://www.reddit.com/r/Python/comments/qwoysw/there_is_way_to_build_operating_system_by_python/)
-- [Python Issue: flask.cli.NoAppException: While importing &#39;app&#39;, an ImportError was raised.](https://www.reddit.com/r/Python/comments/qwohym/python_issue_flaskclinoappexception_while/)
-- [The pdfplumber module is awesome](https://www.reddit.com/r/Python/comments/qwnelz/the_pdfplumber_module_is_awesome/)
-- [Virtual Assistant using Python | iRead](https://www.reddit.com/r/Python/comments/qwndfc/virtual_assistant_using_python_iread/)
 <!-- BLOG-POST-LIST:END -->
