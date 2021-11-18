@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Non-Data Python SWE Jobs?](https://www.reddit.com/r/Python/comments/qww4b6/nondata_python_swe_jobs/)
 - [Invertible Dictionary](https://www.reddit.com/r/Python/comments/qwvpg6/invertible_dictionary/)
 - [Why Python single thread ops are slower than Javascript single thread ops](https://www.reddit.com/r/Python/comments/qwvelo/why_python_single_thread_ops_are_slower_than/)
 - [Website for supply chain management](https://www.reddit.com/r/Python/comments/qwv038/website_for_supply_chain_management/)
 - [SynapseML: A simple, multilingual, and massively parallel machine learning library - Microsoft Research](https://www.reddit.com/r/Python/comments/qwu1nq/synapseml_a_simple_multilingual_and_massively/)
-- [How should I start learning Python](https://www.reddit.com/r/Python/comments/qwtrw4/how_should_i_start_learning_python/)
 <!-- BLOG-POST-LIST:END -->
