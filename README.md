@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SynapseML: A simple, multilingual, and massively parallel machine learning library - Microsoft Research](https://www.reddit.com/r/Python/comments/qwu1nq/synapseml_a_simple_multilingual_and_massively/)
+- [How should I start learning Python](https://www.reddit.com/r/Python/comments/qwtrw4/how_should_i_start_learning_python/)
 - [Replicating Minecraft World Generation in Python](https://www.reddit.com/r/Python/comments/qwta3r/replicating_minecraft_world_generation_in_python/)
 - [Postcoderoonie -- UK Postcode Validation/ Search API &lpar;made with Flask&rpar;](https://www.reddit.com/r/Python/comments/qwqh96/postcoderoonie_uk_postcode_validation_search_api/)
 - [Making an e-commerce website using only Python - Tech With Tim](https://www.reddit.com/r/Python/comments/qwqg72/making_an_ecommerce_website_using_only_python/)
-- [I run untested, viewer-submitted code on my 500-LED christmas tree.](https://www.reddit.com/r/Python/comments/qwqb8c/i_run_untested_viewersubmitted_code_on_my_500led/)
-- [Task queue vs Actor models](https://www.reddit.com/r/Python/comments/qwpizm/task_queue_vs_actor_models/)
 <!-- BLOG-POST-LIST:END -->
