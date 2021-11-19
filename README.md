@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cookiecutter template for rapidly creating modern &amp; high-quality Python packages](https://www.reddit.com/r/Python/comments/qxeywr/cookiecutter_template_for_rapidly_creating_modern/)
+- [PrettyErrors, a module to format exception reports](https://www.reddit.com/r/Python/comments/qxeyrn/prettyerrors_a_module_to_format_exception_reports/)
 - [Boolean Operators in Python-InsideAIML](https://www.reddit.com/r/Python/comments/qxd2r1/boolean_operators_in_pythoninsideaiml/)
 - [Next to Basic python 💌](https://www.reddit.com/r/Python/comments/qxcl77/next_to_basic_python/)
 - [AI, DS, Python,... news mobile app](https://www.reddit.com/r/Python/comments/qxao23/ai_ds_python_news_mobile_app/)
-- [Customize Python dependency resolution with machine learning](https://www.reddit.com/r/Python/comments/qxan65/customize_python_dependency_resolution_with/)
-- [Top 10 Hadoop Analytics Tools to Keep an Eye On in 2021](https://www.reddit.com/r/Python/comments/qxa1bf/top_10_hadoop_analytics_tools_to_keep_an_eye_on/)
 <!-- BLOG-POST-LIST:END -->
