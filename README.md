@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Parallelism, Concurrency, and AsyncIO in Python - by example](https://www.reddit.com/r/Python/comments/qxg217/parallelism_concurrency_and_asyncio_in_python_by/)
+- [Making retro-style games with Python, Tilengine and PyTilengine](https://www.reddit.com/r/Python/comments/qxfcf0/making_retrostyle_games_with_python_tilengine_and/)
 - [Cookiecutter template for rapidly creating modern &amp; high-quality Python packages](https://www.reddit.com/r/Python/comments/qxeywr/cookiecutter_template_for_rapidly_creating_modern/)
 - [PrettyErrors, a module to format exception reports](https://www.reddit.com/r/Python/comments/qxeyrn/prettyerrors_a_module_to_format_exception_reports/)
 - [Boolean Operators in Python-InsideAIML](https://www.reddit.com/r/Python/comments/qxd2r1/boolean_operators_in_pythoninsideaiml/)
-- [Next to Basic python 💌](https://www.reddit.com/r/Python/comments/qxcl77/next_to_basic_python/)
-- [AI, DS, Python,... news mobile app](https://www.reddit.com/r/Python/comments/qxao23/ai_ds_python_news_mobile_app/)
 <!-- BLOG-POST-LIST:END -->
