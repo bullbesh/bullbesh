@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Maps with Django &lpar;part 2&rpar;: GeoDjango, PostGIS and Leaflet](https://www.reddit.com/r/Python/comments/qxl0tk/maps_with_django_part_2_geodjango_postgis_and/)
 - [Absolute beginner tips?](https://www.reddit.com/r/Python/comments/qxkds1/absolute_beginner_tips/)
 - [In this video, I talk about the command design pattern and show you one change that makes this pattern really flexible.](https://www.reddit.com/r/Python/comments/qxjtd6/in_this_video_i_talk_about_the_command_design/)
 - [Using the WordPress API to Find Hyperlinked Blog Post Networks](https://www.reddit.com/r/Python/comments/qxiv3c/using_the_wordpress_api_to_find_hyperlinked_blog/)
 - [Got bored, so here you have Conway&#39;s game of life in a single line.](https://www.reddit.com/r/Python/comments/qxi12q/got_bored_so_here_you_have_conways_game_of_life/)
-- [Python using Selenium to crawl data from Google Maps](https://www.reddit.com/r/Python/comments/qxhxo3/python_using_selenium_to_crawl_data_from_google/)
 <!-- BLOG-POST-LIST:END -->
