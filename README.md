@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [You can insert Emoji using `\N{NAME_OF_EMOJI}`](https://www.reddit.com/r/Python/comments/qy4iym/you_can_insert_emoji_using_nname_of_emoji/)
+- [About use of global](https://www.reddit.com/r/Python/comments/qy4he6/about_use_of_global/)
 - [Totally silly](https://www.reddit.com/r/Python/comments/qy2kk4/totally_silly/)
 - [Python appending *args to list](https://www.reddit.com/r/Python/comments/qy1oh9/python_appending_args_to_list/)
 - [Vaex - a pandas alternative for large datasets](https://www.reddit.com/r/Python/comments/qxxrp1/vaex_a_pandas_alternative_for_large_datasets/)
-- [A good thing about unit tests are that you can test your application against multiple version of language](https://www.reddit.com/r/Python/comments/qxwt85/a_good_thing_about_unit_tests_are_that_you_can/)
-- [My IT department at work wants to ban Anaconda and replace it with ???](https://www.reddit.com/r/Python/comments/qxuh9e/my_it_department_at_work_wants_to_ban_anaconda/)
 <!-- BLOG-POST-LIST:END -->
