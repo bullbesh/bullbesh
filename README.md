@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Totally silly](https://www.reddit.com/r/Python/comments/qy2kk4/totally_silly/)
-- [Key Features of Python-InsideAIML](https://www.reddit.com/r/Python/comments/qy2kcm/key_features_of_pythoninsideaiml/)
 - [Python appending *args to list](https://www.reddit.com/r/Python/comments/qy1oh9/python_appending_args_to_list/)
-- [loop through the list to get Maximum sum for a given range in python](https://www.reddit.com/r/Python/comments/qy16ip/loop_through_the_list_to_get_maximum_sum_for_a/)
 - [Vaex - a pandas alternative for large datasets](https://www.reddit.com/r/Python/comments/qxxrp1/vaex_a_pandas_alternative_for_large_datasets/)
+- [A good thing about unit tests are that you can test your application against multiple version of language](https://www.reddit.com/r/Python/comments/qxwt85/a_good_thing_about_unit_tests_are_that_you_can/)
+- [My IT department at work wants to ban Anaconda and replace it with ???](https://www.reddit.com/r/Python/comments/qxuh9e/my_it_department_at_work_wants_to_ban_anaconda/)
 <!-- BLOG-POST-LIST:END -->
