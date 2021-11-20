@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python beginner](https://www.reddit.com/r/Python/comments/qydtem/python_beginner/)
+- [Run Python code snippets directly in the browser via WASM](https://www.reddit.com/r/Python/comments/qyh93m/run_python_code_snippets_directly_in_the_browser/)
+- [Zipfly - Write large ZIP archives without memory inflation in Python](https://www.reddit.com/r/Python/comments/qyglfa/zipfly_write_large_zip_archives_without_memory/)
+- [This is how I built a simple app that pulls &amp; calculates the 1h/23h % change of rate &amp; volume for ~500 crypto currencies](https://www.reddit.com/r/Python/comments/qygdto/this_is_how_i_built_a_simple_app_that_pulls/)
 - [Why hedge funds now love Python as a programming language](https://www.reddit.com/r/Python/comments/qyckew/why_hedge_funds_now_love_python_as_a_programming/)
 - [How to Use map&lpar;&rpar; with the ThreadPoolExecutor](https://www.reddit.com/r/Python/comments/qycaqt/how_to_use_map_with_the_threadpoolexecutor/)
-- [Tic-Tac-Toe](https://www.reddit.com/r/Python/comments/qybmxh/tictactoe/)
-- [Odin Project but for Python](https://www.reddit.com/r/Python/comments/qyajtm/odin_project_but_for_python/)
 <!-- BLOG-POST-LIST:END -->
