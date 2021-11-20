@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An app I&#39;ve been working on to make mashups of music videos... feedback welcome :&rpar;](https://www.reddit.com/r/Python/comments/qxxccj/an_app_ive_been_working_on_to_make_mashups_of/)
+- [A good thing about unit tests are that you can test your application against multiple version of language](https://www.reddit.com/r/Python/comments/qxwt85/a_good_thing_about_unit_tests_are_that_you_can/)
 - [My IT department at work wants to ban Anaconda and replace it with ???](https://www.reddit.com/r/Python/comments/qxuh9e/my_it_department_at_work_wants_to_ban_anaconda/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/qxsxkr/saturday_daily_thread_resource_request_and/)
 - [Introducing Caterpillar; a un-opinionated API library for Django](https://www.reddit.com/r/Python/comments/qxstxz/introducing_caterpillar_a_unopinionated_api/)
-- [Colorization Table for Jupyterlab fonts](https://www.reddit.com/r/Python/comments/qxssrn/colorization_table_for_jupyterlab_fonts/)
-- [PyML - A python library to build html.](https://www.reddit.com/r/Python/comments/qxpagm/pyml_a_python_library_to_build_html/)
 <!-- BLOG-POST-LIST:END -->
