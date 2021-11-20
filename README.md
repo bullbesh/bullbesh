@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/qxsxkr/saturday_daily_thread_resource_request_and/)
+- [Introducing Caterpillar; a un-opinionated API library for Django](https://www.reddit.com/r/Python/comments/qxstxz/introducing_caterpillar_a_unopinionated_api/)
+- [Colorization Table for Jupyterlab fonts](https://www.reddit.com/r/Python/comments/qxssrn/colorization_table_for_jupyterlab_fonts/)
 - [PyML - A python library to build html.](https://www.reddit.com/r/Python/comments/qxpagm/pyml_a_python_library_to_build_html/)
 - [Finding why Pytorch Lightning made my training 4x slower.](https://www.reddit.com/r/Python/comments/qxnr20/finding_why_pytorch_lightning_made_my_training_4x/)
-- [Maps with Django &lpar;part 2&rpar;: GeoDjango, PostGIS and Leaflet](https://www.reddit.com/r/Python/comments/qxl0tk/maps_with_django_part_2_geodjango_postgis_and/)
-- [In this video, I talk about the command design pattern and show you one change that makes this pattern really flexible.](https://www.reddit.com/r/Python/comments/qxjtd6/in_this_video_i_talk_about_the_command_design/)
-- [Using the WordPress API to Find Hyperlinked Blog Post Networks](https://www.reddit.com/r/Python/comments/qxiv3c/using_the_wordpress_api_to_find_hyperlinked_blog/)
 <!-- BLOG-POST-LIST:END -->
