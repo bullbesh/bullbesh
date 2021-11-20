@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use map&lpar;&rpar; with the ThreadPoolExecutor](https://www.reddit.com/r/Python/comments/qycaqt/how_to_use_map_with_the_threadpoolexecutor/)
+- [Tic-Tac-Toe](https://www.reddit.com/r/Python/comments/qybmxh/tictactoe/)
 - [Odin Project but for Python](https://www.reddit.com/r/Python/comments/qyajtm/odin_project_but_for_python/)
 - [Explaining single line Conway&#39;s game of life from yesterday&#39;s post.](https://www.reddit.com/r/Python/comments/qyaa9t/explaining_single_line_conways_game_of_life_from/)
 - [python dictionaries problem ?](https://www.reddit.com/r/Python/comments/qya7kw/python_dictionaries_problem/)
-- [Algorithms and Data Structures FREE COURSE || Stacks and Queues || Part 2 - LeetCode 20. Valid Parentheses || Algorithm explained](https://www.reddit.com/r/Python/comments/qy9vkh/algorithms_and_data_structures_free_course_stacks/)
-- [Essentials-of-Compilation: A book about compiling Racket and Python to x86-64 assembly](https://www.reddit.com/r/Python/comments/qy9mdj/essentialsofcompilation_a_book_about_compiling/)
 <!-- BLOG-POST-LIST:END -->
