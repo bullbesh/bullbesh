@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [python dictionaries problem ?](https://www.reddit.com/r/Python/comments/qya7kw/python_dictionaries_problem/)
+- [Algorithms and Data Structures FREE COURSE || Stacks and Queues || Part 2 - LeetCode 20. Valid Parentheses || Algorithm explained](https://www.reddit.com/r/Python/comments/qy9vkh/algorithms_and_data_structures_free_course_stacks/)
+- [Essentials-of-Compilation: A book about compiling Racket and Python to x86-64 assembly](https://www.reddit.com/r/Python/comments/qy9mdj/essentialsofcompilation_a_book_about_compiling/)
+- [Static Duck Typing in Python with Protocols](https://www.reddit.com/r/Python/comments/qy9ivo/static_duck_typing_in_python_with_protocols/)
 - [Build a Command-Line To-Do App With Python and Typer – Real Python](https://www.reddit.com/r/Python/comments/qy93m1/build_a_commandline_todo_app_with_python_and/)
-- [STEPS to be a good python coder](https://www.reddit.com/r/Python/comments/qy92rg/steps_to_be_a_good_python_coder/)
-- [Learn Python for Data Science and Machine Learning](https://www.reddit.com/r/Python/comments/qy7f01/learn_python_for_data_science_and_machine_learning/)
-- [Use PyO3 to call Rust directly from you Python](https://www.reddit.com/r/Python/comments/qy6uym/use_pyo3_to_call_rust_directly_from_you_python/)
-- [Late-bound argument defaults for Python [LWN.net]](https://www.reddit.com/r/Python/comments/qy4vvs/latebound_argument_defaults_for_python_lwnnet/)
 <!-- BLOG-POST-LIST:END -->
