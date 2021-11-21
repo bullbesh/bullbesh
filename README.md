@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generating a Graph with 0 correlation](https://www.reddit.com/r/Python/comments/qyujde/generating_a_graph_with_0_correlation/)
 - [I made a telegram Bot to running Linux commands](https://www.reddit.com/r/Python/comments/qytf27/i_made_a_telegram_bot_to_running_linux_commands/)
 - [Plague of the print&lpar;&rpar; statements](https://www.reddit.com/r/Python/comments/qyt2zd/plague_of_the_print_statements/)
 - [Idiomatic algebraic data types in Python with dataclasses and Union : ezyang’s blog](https://www.reddit.com/r/Python/comments/qyt1gg/idiomatic_algebraic_data_types_in_python_with/)
 - [PyConverse: Conversational Text Transcript Analysis library.](https://www.reddit.com/r/Python/comments/qysvwk/pyconverse_conversational_text_transcript/)
-- [Advantages and Disadvantages of Python](https://www.reddit.com/r/Python/comments/qyssfp/advantages_and_disadvantages_of_python/)
 <!-- BLOG-POST-LIST:END -->
