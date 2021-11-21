@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cookietemple: A cookiecutter based project creation tool](https://www.reddit.com/r/Python/comments/qywzmz/cookietemple_a_cookiecutter_based_project/)
-- [Generating a Graph with 0 correlation](https://www.reddit.com/r/Python/comments/qyujde/generating_a_graph_with_0_correlation/)
-- [I made a telegram Bot to running Linux commands](https://www.reddit.com/r/Python/comments/qytf27/i_made_a_telegram_bot_to_running_linux_commands/)
-- [Plague of the print&lpar;&rpar; statements](https://www.reddit.com/r/Python/comments/qyt2zd/plague_of_the_print_statements/)
-- [Idiomatic algebraic data types in Python with dataclasses and Union : ezyang’s blog](https://www.reddit.com/r/Python/comments/qyt1gg/idiomatic_algebraic_data_types_in_python_with/)
+- [Converting python code to .exe and run it on another PC!!!??](https://www.reddit.com/r/Python/comments/qyy9d1/converting_python_code_to_exe_and_run_it_on/)
+- [How to create a loop to combine multiply files with different names in python?](https://www.reddit.com/r/Python/comments/qyy8hn/how_to_create_a_loop_to_combine_multiply_files/)
+- [Minimax algorithm and alpha-beta pruning from a beginner&#39;s perspective](https://www.reddit.com/r/Python/comments/qyy0qj/minimax_algorithm_and_alphabeta_pruning_from_a/)
+- [Universal Wrapper: a module to make cli integration more convenient](https://www.reddit.com/r/Python/comments/qyxs8a/universal_wrapper_a_module_to_make_cli/)
+- [This week in the Console newsletter we interviewed David Buniatyan of Activeloop! Activeloop is pushing the boundaries of ML infrastructure and in this interview we get into what that really means. I thought /r/Python might be interested since their flagship product is an open source Python repo! :&rpar;](https://www.reddit.com/r/Python/comments/qyxbip/this_week_in_the_console_newsletter_we/)
 <!-- BLOG-POST-LIST:END -->
