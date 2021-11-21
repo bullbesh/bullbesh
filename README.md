@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Integrate Chatbot with Python Django Website](https://www.reddit.com/r/Python/comments/qypifu/how_to_integrate_chatbot_with_python_django/)
+- [Learn Python: Complete Beginner to PRO](https://www.reddit.com/r/Python/comments/qyp7lf/learn_python_complete_beginner_to_pro/)
 - [Consider a Python course with Udemy Black Friday Discount peeps 🙏](https://www.reddit.com/r/Python/comments/qylfh9/consider_a_python_course_with_udemy_black_friday/)
 - [Learn Python](https://www.reddit.com/r/Python/comments/qyivxz/learn_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/qyi8ia/sunday_daily_thread_whats_everyone_working_on/)
-- [What is the most efficient yet cheap way to learn python?](https://www.reddit.com/r/Python/comments/qyhx22/what_is_the_most_efficient_yet_cheap_way_to_learn/)
-- [GUI Python Auto Text Bot Made With tkinter + pyautogui](https://www.reddit.com/r/Python/comments/qyhwoo/gui_python_auto_text_bot_made_with_tkinter/)
 <!-- BLOG-POST-LIST:END -->
