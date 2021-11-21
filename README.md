@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Our Beginner-Friendly Python Course Is On Sale For $9.99](https://www.reddit.com/r/Python/comments/qyjb3v/our_beginnerfriendly_python_course_is_on_sale_for/)
+- [Consider a Python course with Udemy Black Friday Discount peeps 🙏](https://www.reddit.com/r/Python/comments/qylfh9/consider_a_python_course_with_udemy_black_friday/)
 - [Learn Python](https://www.reddit.com/r/Python/comments/qyivxz/learn_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/qyi8ia/sunday_daily_thread_whats_everyone_working_on/)
 - [What is the most efficient yet cheap way to learn python?](https://www.reddit.com/r/Python/comments/qyhx22/what_is_the_most_efficient_yet_cheap_way_to_learn/)
