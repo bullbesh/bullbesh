@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyConverse: Conversational Text Transcript Analysis library.](https://www.reddit.com/r/Python/comments/qysvwk/pyconverse_conversational_text_transcript/)
+- [Advantages and Disadvantages of Python](https://www.reddit.com/r/Python/comments/qyssfp/advantages_and_disadvantages_of_python/)
+- [&quot;I love Python&quot; Print Animation](https://www.reddit.com/r/Python/comments/qysjkq/i_love_python_print_animation/)
+- [Dodecaphony: Configurable algorithm that generates avant-garde music](https://www.reddit.com/r/Python/comments/qysh0d/dodecaphony_configurable_algorithm_that_generates/)
 - [How to Integrate Chatbot with Python Django Website](https://www.reddit.com/r/Python/comments/qypifu/how_to_integrate_chatbot_with_python_django/)
-- [Consider a Python course with Udemy Black Friday Discount peeps 🙏](https://www.reddit.com/r/Python/comments/qylfh9/consider_a_python_course_with_udemy_black_friday/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/qyi8ia/sunday_daily_thread_whats_everyone_working_on/)
-- [GUI Python Auto Text Bot Made With tkinter + pyautogui](https://www.reddit.com/r/Python/comments/qyhwoo/gui_python_auto_text_bot_made_with_tkinter/)
-- [Run Python code snippets directly in the browser via WASM](https://www.reddit.com/r/Python/comments/qyh93m/run_python_code_snippets_directly_in_the_browser/)
 <!-- BLOG-POST-LIST:END -->
