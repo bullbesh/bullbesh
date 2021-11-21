@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python Crypto Bot](https://www.reddit.com/r/Python/comments/qz1ktm/a_python_crypto_bot/)
+- [POC package for virtual environments management](https://www.reddit.com/r/Python/comments/qz129q/poc_package_for_virtual_environments_management/)
 - [Fusing Rust with Python](https://www.reddit.com/r/Python/comments/qz0wau/fusing_rust_with_python/)
 - [A program to get quick information on something from wiki. &lpar;Web-scraping from wikipedia&rpar;](https://www.reddit.com/r/Python/comments/qyzkpw/a_program_to_get_quick_information_on_something/)
 - [Converting python code to .exe and run it on another PC!!!??](https://www.reddit.com/r/Python/comments/qyy9d1/converting_python_code_to_exe_and_run_it_on/)
-- [How to create a loop to combine multiply files with different names in python?](https://www.reddit.com/r/Python/comments/qyy8hn/how_to_create_a_loop_to_combine_multiply_files/)
-- [Minimax algorithm and alpha-beta pruning from a beginner&#39;s perspective](https://www.reddit.com/r/Python/comments/qyy0qj/minimax_algorithm_and_alphabeta_pruning_from_a/)
 <!-- BLOG-POST-LIST:END -->
