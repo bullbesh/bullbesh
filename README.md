@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a telegram Bot to running Linux commands](https://www.reddit.com/r/Python/comments/qytf27/i_made_a_telegram_bot_to_running_linux_commands/)
+- [Plague of the print&lpar;&rpar; statements](https://www.reddit.com/r/Python/comments/qyt2zd/plague_of_the_print_statements/)
+- [Idiomatic algebraic data types in Python with dataclasses and Union : ezyang’s blog](https://www.reddit.com/r/Python/comments/qyt1gg/idiomatic_algebraic_data_types_in_python_with/)
 - [PyConverse: Conversational Text Transcript Analysis library.](https://www.reddit.com/r/Python/comments/qysvwk/pyconverse_conversational_text_transcript/)
 - [Advantages and Disadvantages of Python](https://www.reddit.com/r/Python/comments/qyssfp/advantages_and_disadvantages_of_python/)
-- [&quot;I love Python&quot; Print Animation](https://www.reddit.com/r/Python/comments/qysjkq/i_love_python_print_animation/)
-- [Dodecaphony: Configurable algorithm that generates avant-garde music](https://www.reddit.com/r/Python/comments/qysh0d/dodecaphony_configurable_algorithm_that_generates/)
-- [How to Integrate Chatbot with Python Django Website](https://www.reddit.com/r/Python/comments/qypifu/how_to_integrate_chatbot_with_python_django/)
 <!-- BLOG-POST-LIST:END -->
