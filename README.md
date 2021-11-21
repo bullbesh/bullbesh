@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Run Python code snippets directly in the browser via WASM](https://www.reddit.com/r/Python/comments/qyh93m/run_python_code_snippets_directly_in_the_browser/)
-- [Zipfly - Write large ZIP archives without memory inflation in Python](https://www.reddit.com/r/Python/comments/qyglfa/zipfly_write_large_zip_archives_without_memory/)
-- [This is how I built a simple app that pulls &amp; calculates the 1h/23h % change of rate &amp; volume for ~500 crypto currencies](https://www.reddit.com/r/Python/comments/qygdto/this_is_how_i_built_a_simple_app_that_pulls/)
-- [Why hedge funds now love Python as a programming language](https://www.reddit.com/r/Python/comments/qyckew/why_hedge_funds_now_love_python_as_a_programming/)
-- [How to Use map&lpar;&rpar; with the ThreadPoolExecutor](https://www.reddit.com/r/Python/comments/qycaqt/how_to_use_map_with_the_threadpoolexecutor/)
+- [Our Beginner-Friendly Python Course Is On Sale For $9.99](https://www.reddit.com/r/Python/comments/qyjb3v/our_beginnerfriendly_python_course_is_on_sale_for/)
+- [Learn Python](https://www.reddit.com/r/Python/comments/qyivxz/learn_python/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/qyi8ia/sunday_daily_thread_whats_everyone_working_on/)
+- [What is the most efficient yet cheap way to learn python?](https://www.reddit.com/r/Python/comments/qyhx22/what_is_the_most_efficient_yet_cheap_way_to_learn/)
+- [GUI Python Auto Text Bot Made With tkinter + pyautogui](https://www.reddit.com/r/Python/comments/qyhwoo/gui_python_auto_text_bot_made_with_tkinter/)
 <!-- BLOG-POST-LIST:END -->
