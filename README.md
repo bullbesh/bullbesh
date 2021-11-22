@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Watch a professional software engineer &lpar;me!&rpar; screw up making a webscraper about 3 times before getting it to work](https://www.reddit.com/r/Python/comments/qzrlow/watch_a_professional_software_engineer_me_screw/)
+- [BairesDev Webinar - Diversity in the Workplace](https://www.reddit.com/r/Python/comments/qzrcxt/bairesdev_webinar_diversity_in_the_workplace/)
+- [Twitter bot to let you know when it&#39;s Wednesday](https://www.reddit.com/r/Python/comments/qzr8ex/twitter_bot_to_let_you_know_when_its_wednesday/)
+- [My library and what should I add?](https://www.reddit.com/r/Python/comments/qzqu3t/my_library_and_what_should_i_add/)
 - [Best way to code a double auction market mechanism](https://www.reddit.com/r/Python/comments/qzqjbo/best_way_to_code_a_double_auction_market_mechanism/)
-- [How to convert any image to a 3D image videos ? [tutorial]](https://www.reddit.com/r/Python/comments/qzos6e/how_to_convert_any_image_to_a_3d_image_videos/)
-- [How to convert any image to a 3D image videos ? [tutorial]](https://www.reddit.com/r/Python/comments/qzos0a/how_to_convert_any_image_to_a_3d_image_videos/)
-- [Wonderful combination: pathlib conditions and the &amp;= assignment operator](https://www.reddit.com/r/Python/comments/qzn6og/wonderful_combination_pathlib_conditions_and_the/)
-- [Making Tetris in Python using Pygame](https://www.reddit.com/r/Python/comments/qzn421/making_tetris_in_python_using_pygame/)
 <!-- BLOG-POST-LIST:END -->
