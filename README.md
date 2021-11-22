@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [new to python](https://www.reddit.com/r/Python/comments/qzk2zg/new_to_python/)
+- [You can use 3.10&#39;s new structural pattern matching feature to easily flatten deeply nested lists, tuples and sets.](https://www.reddit.com/r/Python/comments/qzjrby/you_can_use_310s_new_structural_pattern_matching/)
 - [Have you heard of the Python Zen?](https://www.reddit.com/r/Python/comments/qzj1k6/have_you_heard_of_the_python_zen/)
 - [what is the wrong with this code codedef favorite_city&lpar;&rpar;: cities = [ &#39;lisboa&#39;, &#39;oporto&#39;, &#39;faro&#39; ] print&lpar;cities[3]&rpar;favorite_city&lpar;&rpar;](https://www.reddit.com/r/Python/comments/qzizc7/what_is_the_wrong_with_this_code_codedef_favorite/)
 - [When does using __call__ instead of a function makes sense?](https://www.reddit.com/r/Python/comments/qzirmi/when_does_using_call_instead_of_a_function_makes/)
-- [zeroshot_topics: Label your text data automatically!](https://www.reddit.com/r/Python/comments/qziaqc/zeroshot_topics_label_your_text_data_automatically/)
-- [Keywords and Identifiers in Python-InsideAIML](https://www.reddit.com/r/Python/comments/qzgr78/keywords_and_identifiers_in_pythoninsideaiml/)
 <!-- BLOG-POST-LIST:END -->
