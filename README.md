@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Patterns - A collection of design patterns and idioms in Python.](https://www.reddit.com/r/Python/comments/qzsfcl/python_patterns_a_collection_of_design_patterns/)
 - [Watch a professional software engineer &lpar;me!&rpar; screw up making a webscraper about 3 times before getting it to work](https://www.reddit.com/r/Python/comments/qzrlow/watch_a_professional_software_engineer_me_screw/)
-- [BairesDev Webinar - Diversity in the Workplace](https://www.reddit.com/r/Python/comments/qzrcxt/bairesdev_webinar_diversity_in_the_workplace/)
 - [Twitter bot to let you know when it&#39;s Wednesday](https://www.reddit.com/r/Python/comments/qzr8ex/twitter_bot_to_let_you_know_when_its_wednesday/)
 - [My library and what should I add?](https://www.reddit.com/r/Python/comments/qzqu3t/my_library_and_what_should_i_add/)
 - [Best way to code a double auction market mechanism](https://www.reddit.com/r/Python/comments/qzqjbo/best_way_to_code_a_double_auction_market_mechanism/)
