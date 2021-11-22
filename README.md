@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can I get front end developer position with grad certificates?](https://www.reddit.com/r/Python/comments/qzba30/can_i_get_front_end_developer_position_with_grad/)
 - [Life-Cycle of Futures in the ThreadPoolExecutor](https://www.reddit.com/r/Python/comments/qza4ns/lifecycle_of_futures_in_the_threadpoolexecutor/)
 - [Command/Code injection prevention for Python](https://www.reddit.com/r/Python/comments/qz9ad2/commandcode_injection_prevention_for_python/)
 - [I created a program to translate any language in-person or online](https://www.reddit.com/r/Python/comments/qz8os3/i_created_a_program_to_translate_any_language/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/qz7zm3/monday_daily_thread_project_ideas/)
-- [Everything About Python Dictionary Data Structure: Beginner’s Guide](https://www.reddit.com/r/Python/comments/qz6w5v/everything_about_python_dictionary_data_structure/)
 <!-- BLOG-POST-LIST:END -->
