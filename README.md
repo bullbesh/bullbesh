@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Have you heard of the Python Zen?](https://www.reddit.com/r/Python/comments/qzj1k6/have_you_heard_of_the_python_zen/)
+- [what is the wrong with this code codedef favorite_city&lpar;&rpar;: cities = [ &#39;lisboa&#39;, &#39;oporto&#39;, &#39;faro&#39; ] print&lpar;cities[3]&rpar;favorite_city&lpar;&rpar;](https://www.reddit.com/r/Python/comments/qzizc7/what_is_the_wrong_with_this_code_codedef_favorite/)
+- [When does using __call__ instead of a function makes sense?](https://www.reddit.com/r/Python/comments/qzirmi/when_does_using_call_instead_of_a_function_makes/)
 - [zeroshot_topics: Label your text data automatically!](https://www.reddit.com/r/Python/comments/qziaqc/zeroshot_topics_label_your_text_data_automatically/)
 - [Keywords and Identifiers in Python-InsideAIML](https://www.reddit.com/r/Python/comments/qzgr78/keywords_and_identifiers_in_pythoninsideaiml/)
-- [I made an email scraper](https://www.reddit.com/r/Python/comments/qzew4v/i_made_an_email_scraper/)
-- [Why does python have to be so damn difficult to install????](https://www.reddit.com/r/Python/comments/qze8vy/why_does_python_have_to_be_so_damn_difficult_to/)
-- [Event-Driven Architectures with Kafka and Python — Revision 1](https://www.reddit.com/r/Python/comments/qzcvgu/eventdriven_architectures_with_kafka_and_python/)
 <!-- BLOG-POST-LIST:END -->
