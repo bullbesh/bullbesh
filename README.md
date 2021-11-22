@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Auto send mail to a list of mails](https://www.reddit.com/r/Python/comments/qzwyxe/auto_send_mail_to_a_list_of_mails/)
+- [Authorization &amp; Authentication with EasyAuth](https://www.reddit.com/r/Python/comments/qzym06/authorization_authentication_with_easyauth/)
+- [WebRocketX version 1.7 released supporting Django csrfmiddlewaretoken](https://www.reddit.com/r/Python/comments/qzy4s8/webrocketx_version_17_released_supporting_django/)
+- [Python Cybersecurity— Network Tracking using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/qzxk6v/python_cybersecurity_network_tracking_using/)
 - [My first tutorial! Web-scrapping in Python for job hunting &lpar;part 1&rpar;](https://www.reddit.com/r/Python/comments/qzwjzf/my_first_tutorial_webscrapping_in_python_for_job/)
 - [Introducing Analyx - An Open Source Plug-N-Play Python Analytic Library.](https://www.reddit.com/r/Python/comments/qzvovk/introducing_analyx_an_open_source_plugnplay/)
-- [conda 4.11 released &lpar;including Python 3.10 support&rpar;](https://www.reddit.com/r/Python/comments/qzu7ix/conda_411_released_including_python_310_support/)
-- [Python Patterns - A collection of design patterns and idioms in Python.](https://www.reddit.com/r/Python/comments/qzsfcl/python_patterns_a_collection_of_design_patterns/)
 <!-- BLOG-POST-LIST:END -->
