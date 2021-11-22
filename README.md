@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to convert any image to a 3D image videos ? [tutorial]](https://www.reddit.com/r/Python/comments/qzos6e/how_to_convert_any_image_to_a_3d_image_videos/)
+- [How to convert any image to a 3D image videos ? [tutorial]](https://www.reddit.com/r/Python/comments/qzos0a/how_to_convert_any_image_to_a_3d_image_videos/)
 - [Wonderful combination: pathlib conditions and the &amp;= assignment operator](https://www.reddit.com/r/Python/comments/qzn6og/wonderful_combination_pathlib_conditions_and_the/)
 - [Making Tetris in Python using Pygame](https://www.reddit.com/r/Python/comments/qzn421/making_tetris_in_python_using_pygame/)
 - [A pseudo-TDD workflow using expected failures](https://www.reddit.com/r/Python/comments/qzlylg/a_pseudotdd_workflow_using_expected_failures/)
-- [Django 4.0 release candidate 1 released &lpar;expected release on/around Dec 6&rpar;](https://www.reddit.com/r/Python/comments/qzl6rm/django_40_release_candidate_1_released_expected/)
-- [Create your own python package and upload it to pypi.org](https://www.reddit.com/r/Python/comments/qzkuq3/create_your_own_python_package_and_upload_it_to/)
 <!-- BLOG-POST-LIST:END -->
