@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a program to translate any language in-person or online](https://www.reddit.com/r/Python/comments/qz8os3/i_created_a_program_to_translate_any_language/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/qz7zm3/monday_daily_thread_project_ideas/)
 - [Everything About Python Dictionary Data Structure: Beginner’s Guide](https://www.reddit.com/r/Python/comments/qz6w5v/everything_about_python_dictionary_data_structure/)
 - [Traffic Simulation in Python](https://www.reddit.com/r/Python/comments/qz5x0o/traffic_simulation_in_python/)
 - [sphinx-codeautolink 0.6.0: automatic links from code examples to reference documentation](https://www.reddit.com/r/Python/comments/qz2u0n/sphinxcodeautolink_060_automatic_links_from_code/)
-- [POC package for virtual environments management](https://www.reddit.com/r/Python/comments/qz129q/poc_package_for_virtual_environments_management/)
-- [Fusing Rust with Python](https://www.reddit.com/r/Python/comments/qz0wau/fusing_rust_with_python/)
 <!-- BLOG-POST-LIST:END -->
