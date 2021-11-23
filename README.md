@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Are there any popular or indie games made with python that did well?](https://www.reddit.com/r/Python/comments/r06ipb/are_there_any_popular_or_indie_games_made_with/)
-- [Is it common to have a Github repo name copied as an empty PyPi entry?](https://www.reddit.com/r/Python/comments/r05xy9/is_it_common_to_have_a_github_repo_name_copied_as/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/qzzpw8/tuesday_daily_thread_advanced_questions/)
-- [Authorization &amp; Authentication with EasyAuth](https://www.reddit.com/r/Python/comments/qzym06/authorization_authentication_with_easyauth/)
-- [WebRocketX version 1.7 released supporting Django csrfmiddlewaretoken](https://www.reddit.com/r/Python/comments/qzy4s8/webrocketx_version_17_released_supporting_django/)
+- [I created a C preprocessor in Python](https://www.reddit.com/r/Python/comments/r08c72/i_created_a_c_preprocessor_in_python/)
+- [Alternative project managing frontends to poetry](https://www.reddit.com/r/Python/comments/r084hk/alternative_project_managing_frontends_to_poetry/)
+- [Static Duck Typing in Python with Protocols](https://www.reddit.com/r/Python/comments/r07wvw/static_duck_typing_in_python_with_protocols/)
+- [Coconut tutorial - Coconut is a variant of Python built for simple, elegant, Pythonic functional programming](https://www.reddit.com/r/Python/comments/r07vja/coconut_tutorial_coconut_is_a_variant_of_python/)
+- [How variables are saved in Python and Rust. Side by Side 6: tuple](https://www.reddit.com/r/Python/comments/r07o9f/how_variables_are_saved_in_python_and_rust_side/)
 <!-- BLOG-POST-LIST:END -->
