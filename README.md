@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CodeGenX, A code generation system powered by GPT-J!](https://www.reddit.com/r/Python/comments/r0hloq/codegenx_a_code_generation_system_powered_by_gptj/)
+- [conda python version](https://www.reddit.com/r/Python/comments/r0hgva/conda_python_version/)
 - [A simple question](https://www.reddit.com/r/Python/comments/r0f8jw/a_simple_question/)
 - [Prettify Python exception output to make it legible.](https://www.reddit.com/r/Python/comments/r0eb1y/prettify_python_exception_output_to_make_it/)
 - [python tabulate wont work](https://www.reddit.com/r/Python/comments/r0dypz/python_tabulate_wont_work/)
-- [arrow-odbc: Fetch arrow arrays from an ODBC data source in a pip installable environment](https://www.reddit.com/r/Python/comments/r0dsvy/arrowodbc_fetch_arrow_arrays_from_an_odbc_data/)
-- [Can you help me fix my code?](https://www.reddit.com/r/Python/comments/r0dqiy/can_you_help_me_fix_my_code/)
 <!-- BLOG-POST-LIST:END -->
