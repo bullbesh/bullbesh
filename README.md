@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Motion-induced blindness - Dots disappear due to the brain prioritizing plus sign motion information| Animation created using Python Manim Library](https://www.reddit.com/r/Python/comments/r0a3o5/motioninduced_blindness_dots_disappear_due_to_the/)
 - [Finding why Pytorch Lightning made my training 4x slower.](https://www.reddit.com/r/Python/comments/r09dbi/finding_why_pytorch_lightning_made_my_training_4x/)
 - [The true nature of python import error: ModuleNotFoundError](https://www.reddit.com/r/Python/comments/r090gz/the_true_nature_of_python_import_error/)
 - [I created a C preprocessor in Python](https://www.reddit.com/r/Python/comments/r08c72/i_created_a_c_preprocessor_in_python/)
 - [Alternative project managing frontends to poetry](https://www.reddit.com/r/Python/comments/r084hk/alternative_project_managing_frontends_to_poetry/)
-- [Static Duck Typing in Python with Protocols](https://www.reddit.com/r/Python/comments/r07wvw/static_duck_typing_in_python_with_protocols/)
 <!-- BLOG-POST-LIST:END -->
