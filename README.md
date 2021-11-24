@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [VevestaX - Library to track ML experiments and data into an excel file](https://www.reddit.com/r/Python/comments/r11tyo/vevestax_library_to_track_ml_experiments_and_data/)
+- [Which package manager do you use?](https://www.reddit.com/r/Python/comments/r11szr/which_package_manager_do_you_use/)
 - [Building pyodbc for Lambda&#39;s Python 3.9 Runtime - Randy Westergren](https://www.reddit.com/r/Python/comments/r0z2hc/building_pyodbc_for_lambdas_python_39_runtime/)
 - [Python Programming: Top 10 Applications of Python in Business in 2021](https://www.reddit.com/r/Python/comments/r0yq01/python_programming_top_10_applications_of_python/)
 - [11 Malicious PyPI Python Libraries Caught Stealing Discord Tokens and Installing Shells](https://www.reddit.com/r/Python/comments/r0yohc/11_malicious_pypi_python_libraries_caught/)
-- [I created a tts-generator gui with praw and pysimplegui](https://www.reddit.com/r/Python/comments/r0x9hd/i_created_a_ttsgenerator_gui_with_praw_and/)
-- [What are some real-world applications where we use Python List?](https://www.reddit.com/r/Python/comments/r0wlzu/what_are_some_realworld_applications_where_we_use/)
 <!-- BLOG-POST-LIST:END -->
