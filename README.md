@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there a reason lists don&#39;t have a .sum&lpar;&rpar; method?](https://www.reddit.com/r/Python/comments/r1734w/is_there_a_reason_lists_dont_have_a_sum_method/)
+- [Python](https://www.reddit.com/r/Python/comments/r16pn9/python/)
 - [Documenting a gRPC API - tools comparison](https://www.reddit.com/r/Python/comments/r165qm/documenting_a_grpc_api_tools_comparison/)
 - [I Started Learning Python Almost 3 Days Ago, And This Is My First Script Ever. How Is It?](https://www.reddit.com/r/Python/comments/r162wc/i_started_learning_python_almost_3_days_ago_and/)
 - [Learn how Magic methods can improve your Python classes and interfaces](https://www.reddit.com/r/Python/comments/r15xke/learn_how_magic_methods_can_improve_your_python/)
-- [Baseball fans! I created a website that lets you view a trade tree of any player in history, all using python&lpar;pandas and flask&rpar;. Non baseball fans- I am new to coding so I would appreciate any feedback!](https://www.reddit.com/r/Python/comments/r134xr/baseball_fans_i_created_a_website_that_lets_you/)
-- [Andrei Neagoie Python Course](https://www.reddit.com/r/Python/comments/r12xjk/andrei_neagoie_python_course/)
 <!-- BLOG-POST-LIST:END -->
