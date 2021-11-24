@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving Navier-Stokes equations in low viscosity regime](https://www.reddit.com/r/Python/comments/r1hwc3/solving_navierstokes_equations_in_low_viscosity/)
+- [Space Science with Python - Part 13: A Close Visitor](https://www.reddit.com/r/Python/comments/r1h936/space_science_with_python_part_13_a_close_visitor/)
+- [Odd symbols got me lost](https://www.reddit.com/r/Python/comments/r1h1ct/odd_symbols_got_me_lost/)
+- [ending a while loop with user input that doesn&#39;t stop at that line](https://www.reddit.com/r/Python/comments/r1gx5j/ending_a_while_loop_with_user_input_that_doesnt/)
 - [Finally made my first functioning &quot;Game&quot; without a tutorial!](https://www.reddit.com/r/Python/comments/r1greh/finally_made_my_first_functioning_game_without_a/)
-- [How to use parameters in Python](https://www.reddit.com/r/Python/comments/r1gces/how_to_use_parameters_in_python/)
-- [Python game prototype &lpar;video&rpar; [1:36] - Dani to The Rescue](https://www.reddit.com/r/Python/comments/r1etkc/python_game_prototype_video_136_dani_to_the_rescue/)
-- [Should I use pre-commit.ci for my GitHub project?](https://www.reddit.com/r/Python/comments/r1e0cs/should_i_use_precommitci_for_my_github_project/)
-- [Neural edit-tree lemmatization for spaCy](https://www.reddit.com/r/Python/comments/r1c2rr/neural_edittree_lemmatization_for_spacy/)
 <!-- BLOG-POST-LIST:END -->
