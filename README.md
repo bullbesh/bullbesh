@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Documenting a gRPC API - tools comparison](https://www.reddit.com/r/Python/comments/r165qm/documenting_a_grpc_api_tools_comparison/)
+- [I Started Learning Python Almost 3 Days Ago, And This Is My First Script Ever. How Is It?](https://www.reddit.com/r/Python/comments/r162wc/i_started_learning_python_almost_3_days_ago_and/)
+- [Learn how Magic methods can improve your Python classes and interfaces](https://www.reddit.com/r/Python/comments/r15xke/learn_how_magic_methods_can_improve_your_python/)
 - [Baseball fans! I created a website that lets you view a trade tree of any player in history, all using python&lpar;pandas and flask&rpar;. Non baseball fans- I am new to coding so I would appreciate any feedback!](https://www.reddit.com/r/Python/comments/r134xr/baseball_fans_i_created_a_website_that_lets_you/)
 - [Andrei Neagoie Python Course](https://www.reddit.com/r/Python/comments/r12xjk/andrei_neagoie_python_course/)
-- [How to Become a Python Developer?](https://www.reddit.com/r/Python/comments/r12ktj/how_to_become_a_python_developer/)
-- [VevestaX - Library to track ML experiments and data into an excel file](https://www.reddit.com/r/Python/comments/r11tyo/vevestax_library_to_track_ml_experiments_and_data/)
-- [Which package manager do you use?](https://www.reddit.com/r/Python/comments/r11szr/which_package_manager_do_you_use/)
 <!-- BLOG-POST-LIST:END -->
