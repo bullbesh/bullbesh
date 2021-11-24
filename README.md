@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finally made my first functioning &quot;Game&quot; without a tutorial!](https://www.reddit.com/r/Python/comments/r1greh/finally_made_my_first_functioning_game_without_a/)
+- [How to use parameters in Python](https://www.reddit.com/r/Python/comments/r1gces/how_to_use_parameters_in_python/)
 - [Python game prototype &lpar;video&rpar; [1:36] - Dani to The Rescue](https://www.reddit.com/r/Python/comments/r1etkc/python_game_prototype_video_136_dani_to_the_rescue/)
 - [Should I use pre-commit.ci for my GitHub project?](https://www.reddit.com/r/Python/comments/r1e0cs/should_i_use_precommitci_for_my_github_project/)
 - [Neural edit-tree lemmatization for spaCy](https://www.reddit.com/r/Python/comments/r1c2rr/neural_edittree_lemmatization_for_spacy/)
-- [made a python program that helps you read really fast](https://www.reddit.com/r/Python/comments/r1bjiw/made_a_python_program_that_helps_you_read_really/)
-- [Confused with homework](https://www.reddit.com/r/Python/comments/r1bhya/confused_with_homework/)
 <!-- BLOG-POST-LIST:END -->
