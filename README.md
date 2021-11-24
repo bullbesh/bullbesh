@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Neural edit-tree lemmatization for spaCy](https://www.reddit.com/r/Python/comments/r1c2rr/neural_edittree_lemmatization_for_spacy/)
 - [made a python program that helps you read really fast](https://www.reddit.com/r/Python/comments/r1bjiw/made_a_python_program_that_helps_you_read_really/)
 - [Confused with homework](https://www.reddit.com/r/Python/comments/r1bhya/confused_with_homework/)
 - [DevOps Bootcamp | Clarusway DevOps Program](https://www.reddit.com/r/Python/comments/r1balw/devops_bootcamp_clarusway_devops_program/)
 - [is this code good?](https://www.reddit.com/r/Python/comments/r1aan1/is_this_code_good/)
-- [argparse-subdec: A very simple library to create argparse subcommands with decorators.](https://www.reddit.com/r/Python/comments/r196f6/argparsesubdec_a_very_simple_library_to_create/)
 <!-- BLOG-POST-LIST:END -->
