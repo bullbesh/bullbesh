@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Baseball fans! I created a website that lets you view a trade tree of any player in history, all using python&lpar;pandas and flask&rpar;. Non baseball fans- I am new to coding so I would appreciate any feedback!](https://www.reddit.com/r/Python/comments/r134xr/baseball_fans_i_created_a_website_that_lets_you/)
+- [Andrei Neagoie Python Course](https://www.reddit.com/r/Python/comments/r12xjk/andrei_neagoie_python_course/)
 - [How to Become a Python Developer?](https://www.reddit.com/r/Python/comments/r12ktj/how_to_become_a_python_developer/)
 - [VevestaX - Library to track ML experiments and data into an excel file](https://www.reddit.com/r/Python/comments/r11tyo/vevestax_library_to_track_ml_experiments_and_data/)
 - [Which package manager do you use?](https://www.reddit.com/r/Python/comments/r11szr/which_package_manager_do_you_use/)
-- [Building pyodbc for Lambda&#39;s Python 3.9 Runtime - Randy Westergren](https://www.reddit.com/r/Python/comments/r0z2hc/building_pyodbc_for_lambdas_python_39_runtime/)
-- [Python Programming: Top 10 Applications of Python in Business in 2021](https://www.reddit.com/r/Python/comments/r0yq01/python_programming_top_10_applications_of_python/)
 <!-- BLOG-POST-LIST:END -->
