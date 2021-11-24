@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pyconverse – Conversational transcript text analysis library](https://www.reddit.com/r/Python/comments/r18oho/pyconverse_conversational_transcript_text/)
+- [Python from Beginner to Intermediate in 30 min.](https://www.reddit.com/r/Python/comments/r180e4/python_from_beginner_to_intermediate_in_30_min/)
 - [Is there a reason lists don&#39;t have a .sum&lpar;&rpar; method?](https://www.reddit.com/r/Python/comments/r1734w/is_there_a_reason_lists_dont_have_a_sum_method/)
-- [Python](https://www.reddit.com/r/Python/comments/r16pn9/python/)
 - [Documenting a gRPC API - tools comparison](https://www.reddit.com/r/Python/comments/r165qm/documenting_a_grpc_api_tools_comparison/)
 - [I Started Learning Python Almost 3 Days Ago, And This Is My First Script Ever. How Is It?](https://www.reddit.com/r/Python/comments/r162wc/i_started_learning_python_almost_3_days_ago_and/)
-- [Learn how Magic methods can improve your Python classes and interfaces](https://www.reddit.com/r/Python/comments/r15xke/learn_how_magic_methods_can_improve_your_python/)
 <!-- BLOG-POST-LIST:END -->
