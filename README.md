@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pydantic Factories](https://www.reddit.com/r/Python/comments/r1rkoy/pydantic_factories/)
+- [Introduction to CryptoCounterBot.](https://www.reddit.com/r/Python/comments/r1r8sh/introduction_to_cryptocounterbot/)
 - [yoink.py a dumb clone of wget for windows users.](https://www.reddit.com/r/Python/comments/r1qhs6/yoinkpy_a_dumb_clone_of_wget_for_windows_users/)
 - [Why is Python The perfect language for machine learning?](https://www.reddit.com/r/Python/comments/r1q976/why_is_python_the_perfect_language_for_machine/)
 - [Coursera Plus Subscription at $1 with Cyber Week](https://www.reddit.com/r/Python/comments/r1q40h/coursera_plus_subscription_at_1_with_cyber_week/)
-- [Discussion- about how to contribute to r/python](https://www.reddit.com/r/Python/comments/r1n8ee/discussion_about_how_to_contribute_to_rpython/)
-- [Experienced pythonistas, how do you manage keys and tokens?](https://www.reddit.com/r/Python/comments/r1kfhk/experienced_pythonistas_how_do_you_manage_keys/)
 <!-- BLOG-POST-LIST:END -->
