@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exiting distributed ledger project in its infancy, click to learn more!](https://www.reddit.com/r/Python/comments/r1l3ro/exiting_distributed_ledger_project_in_its_infancy/)
+- [Experienced pythonistas, how do you manage keys and tokens?](https://www.reddit.com/r/Python/comments/r1kfhk/experienced_pythonistas_how_do_you_manage_keys/)
 - [made a simple tool to generate pdf invoices called invoicepy](https://www.reddit.com/r/Python/comments/r1k0ps/made_a_simple_tool_to_generate_pdf_invoices/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/r1itff/thursday_daily_thread_python_careers_courses_and/)
 - [Youtube Downloader](https://www.reddit.com/r/Python/comments/r1i68d/youtube_downloader/)
-- [Solving Navier-Stokes equations in low viscosity regime](https://www.reddit.com/r/Python/comments/r1hwc3/solving_navierstokes_equations_in_low_viscosity/)
-- [Space Science with Python - Part 13: A Close Visitor](https://www.reddit.com/r/Python/comments/r1h936/space_science_with_python_part_13_a_close_visitor/)
 <!-- BLOG-POST-LIST:END -->
