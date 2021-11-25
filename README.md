@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [made a simple tool to generate pdf invoices called invoicepy](https://www.reddit.com/r/Python/comments/r1k0ps/made_a_simple_tool_to_generate_pdf_invoices/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/r1itff/thursday_daily_thread_python_careers_courses_and/)
+- [Youtube Downloader](https://www.reddit.com/r/Python/comments/r1i68d/youtube_downloader/)
 - [Solving Navier-Stokes equations in low viscosity regime](https://www.reddit.com/r/Python/comments/r1hwc3/solving_navierstokes_equations_in_low_viscosity/)
 - [Space Science with Python - Part 13: A Close Visitor](https://www.reddit.com/r/Python/comments/r1h936/space_science_with_python_part_13_a_close_visitor/)
-- [Odd symbols got me lost](https://www.reddit.com/r/Python/comments/r1h1ct/odd_symbols_got_me_lost/)
-- [ending a while loop with user input that doesn&#39;t stop at that line](https://www.reddit.com/r/Python/comments/r1gx5j/ending_a_while_loop_with_user_input_that_doesnt/)
-- [Finally made my first functioning &quot;Game&quot; without a tutorial!](https://www.reddit.com/r/Python/comments/r1greh/finally_made_my_first_functioning_game_without_a/)
 <!-- BLOG-POST-LIST:END -->
