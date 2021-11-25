@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Handle Exceptions With the ThreadPoolExecutor in Python](https://www.reddit.com/r/Python/comments/r1smet/how_to_handle_exceptions_with_the/)
+- [Future of Python](https://www.reddit.com/r/Python/comments/r1thxa/future_of_python/)
+- [DataSpell 2021.3 Release Candidate Is Out!](https://www.reddit.com/r/Python/comments/r1spkj/dataspell_20213_release_candidate_is_out/)
 - [GitHub - mauro-balades/expross: Expross is a lightweight web server to introduce JavaScript developers familiar with Express to Python.](https://www.reddit.com/r/Python/comments/r1shy2/github_maurobaladesexpross_expross_is_a/)
 - [Pydantic Factories](https://www.reddit.com/r/Python/comments/r1rkoy/pydantic_factories/)
 - [Introduction to CryptoCounterBot.](https://www.reddit.com/r/Python/comments/r1r8sh/introduction_to_cryptocounterbot/)
-- [yoink.py a dumb clone of wget for windows users.](https://www.reddit.com/r/Python/comments/r1qhs6/yoinkpy_a_dumb_clone_of_wget_for_windows_users/)
 <!-- BLOG-POST-LIST:END -->
