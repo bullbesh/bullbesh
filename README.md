@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Handle Exceptions With the ThreadPoolExecutor in Python](https://www.reddit.com/r/Python/comments/r1smet/how_to_handle_exceptions_with_the/)
+- [GitHub - mauro-balades/expross: Expross is a lightweight web server to introduce JavaScript developers familiar with Express to Python.](https://www.reddit.com/r/Python/comments/r1shy2/github_maurobaladesexpross_expross_is_a/)
 - [Pydantic Factories](https://www.reddit.com/r/Python/comments/r1rkoy/pydantic_factories/)
 - [Introduction to CryptoCounterBot.](https://www.reddit.com/r/Python/comments/r1r8sh/introduction_to_cryptocounterbot/)
 - [yoink.py a dumb clone of wget for windows users.](https://www.reddit.com/r/Python/comments/r1qhs6/yoinkpy_a_dumb_clone_of_wget_for_windows_users/)
-- [Why is Python The perfect language for machine learning?](https://www.reddit.com/r/Python/comments/r1q976/why_is_python_the_perfect_language_for_machine/)
-- [Coursera Plus Subscription at $1 with Cyber Week](https://www.reddit.com/r/Python/comments/r1q40h/coursera_plus_subscription_at_1_with_cyber_week/)
 <!-- BLOG-POST-LIST:END -->
