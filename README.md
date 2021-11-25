@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Exiting distributed ledger project in its infancy, click to learn more!](https://www.reddit.com/r/Python/comments/r1l3ro/exiting_distributed_ledger_project_in_its_infancy/)
+- [What is the best online course to learn Python?](https://www.reddit.com/r/Python/comments/r1nriz/what_is_the_best_online_course_to_learn_python/)
+- [Discussion- about how to contribute to r/python](https://www.reddit.com/r/Python/comments/r1n8ee/discussion_about_how_to_contribute_to_rpython/)
 - [Experienced pythonistas, how do you manage keys and tokens?](https://www.reddit.com/r/Python/comments/r1kfhk/experienced_pythonistas_how_do_you_manage_keys/)
 - [made a simple tool to generate pdf invoices called invoicepy](https://www.reddit.com/r/Python/comments/r1k0ps/made_a_simple_tool_to_generate_pdf_invoices/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/r1itff/thursday_daily_thread_python_careers_courses_and/)
-- [Youtube Downloader](https://www.reddit.com/r/Python/comments/r1i68d/youtube_downloader/)
 <!-- BLOG-POST-LIST:END -->
