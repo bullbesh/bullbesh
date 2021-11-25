@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A python program to deny internet access to other device on your network using scapy.](https://www.reddit.com/r/Python/comments/r20enk/a_python_program_to_deny_internet_access_to_other/)
 - [I wrote a Python Wrapper for ADB &lpar;Android Debugging Bridge&rpar;. Free to do whatever you want with the code.](https://www.reddit.com/r/Python/comments/r1xw1j/i_wrote_a_python_wrapper_for_adb_android/)
 - [Object Detection in Few Lines of Code using IceVision](https://www.reddit.com/r/Python/comments/r1xkif/object_detection_in_few_lines_of_code_using/)
 - [A Pygame Space Adventure I&#39;ve been working on as a hobby](https://www.reddit.com/r/Python/comments/r1w6t0/a_pygame_space_adventure_ive_been_working_on_as_a/)
 - [Just finished the 1st day &lpar;Python&rpar;. Will try to maintain 1 day per 2 days pace](https://www.reddit.com/r/Python/comments/r1vj71/just_finished_the_1st_day_python_will_try_to/)
-- [IKM Python test coming up for job application. Any recommendations for multiple choice practice?](https://www.reddit.com/r/Python/comments/r1uou6/ikm_python_test_coming_up_for_job_application_any/)
 <!-- BLOG-POST-LIST:END -->
