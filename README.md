@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Pandas | Pivot a Single Column on Multiple Rows to Multiple Columns in Multiple Rows](https://www.reddit.com/r/Python/comments/r1o8mp/pandas_pivot_a_single_column_on_multiple_rows_to/)
+- [yoink.py a dumb clone of wget for windows users.](https://www.reddit.com/r/Python/comments/r1qhs6/yoinkpy_a_dumb_clone_of_wget_for_windows_users/)
+- [Why is Python The perfect language for machine learning?](https://www.reddit.com/r/Python/comments/r1q976/why_is_python_the_perfect_language_for_machine/)
+- [Coursera Plus Subscription at $1 with Cyber Week](https://www.reddit.com/r/Python/comments/r1q40h/coursera_plus_subscription_at_1_with_cyber_week/)
 - [Discussion- about how to contribute to r/python](https://www.reddit.com/r/Python/comments/r1n8ee/discussion_about_how_to_contribute_to_rpython/)
 - [Experienced pythonistas, how do you manage keys and tokens?](https://www.reddit.com/r/Python/comments/r1kfhk/experienced_pythonistas_how_do_you_manage_keys/)
-- [made a simple tool to generate pdf invoices called invoicepy](https://www.reddit.com/r/Python/comments/r1k0ps/made_a_simple_tool_to_generate_pdf_invoices/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/r1itff/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
