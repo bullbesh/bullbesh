@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just finished the 1st day &lpar;Python&rpar;. Will try to maintain 1 day per 2 days pace](https://www.reddit.com/r/Python/comments/r1vj71/just_finished_the_1st_day_python_will_try_to/)
+- [IKM Python test coming up for job application. Any recommendations for multiple choice practice?](https://www.reddit.com/r/Python/comments/r1uou6/ikm_python_test_coming_up_for_job_application_any/)
 - [Grocery Bag using Django &lpar;Part-1&rpar; - Introduction and Project Setup | iRead](https://www.reddit.com/r/Python/comments/r1ud98/grocery_bag_using_django_part1_introduction_and/)
 - [Very basic question, what&#39;s it called when a database software/ code does this?](https://www.reddit.com/r/Python/comments/r1u3wd/very_basic_question_whats_it_called_when_a/)
 - [Pattern/libreries/guides needed to deploy an http server that is used to trigger a long running operation](https://www.reddit.com/r/Python/comments/r1u0ie/patternlibreriesguides_needed_to_deploy_an_http/)
-- [Future of Python](https://www.reddit.com/r/Python/comments/r1thxa/future_of_python/)
-- [DataSpell 2021.3 Release Candidate Is Out!](https://www.reddit.com/r/Python/comments/r1spkj/dataspell_20213_release_candidate_is_out/)
 <!-- BLOG-POST-LIST:END -->
