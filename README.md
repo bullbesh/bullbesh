@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Arp0_attacker is finally complete, thanks for all the feedback! - Kick devices off your network now!](https://www.reddit.com/r/Python/comments/r2uu8l/arp0_attacker_is_finally_complete_thanks_for_all/)
+- [How to Show Progress for Tasks With the ThreadPoolExecutor](https://www.reddit.com/r/Python/comments/r2ukux/how_to_show_progress_for_tasks_with_the/)
 - [Documentation sucks :&lpar;](https://www.reddit.com/r/Python/comments/r2tfys/documentation_sucks/)
 - [New project idea](https://www.reddit.com/r/Python/comments/r2s2de/new_project_idea/)
 - [PyJamas, the free online 24h Python conference is happening next Saturday &lpar;Dec 4th&rpar;](https://www.reddit.com/r/Python/comments/r2s1ja/pyjamas_the_free_online_24h_python_conference_is/)
-- [Minecraft not registering win32con.WM_KEYUP in python](https://www.reddit.com/r/Python/comments/r2rzcf/minecraft_not_registering_win32conwm_keyup_in/)
-- [Understanding hypothesis testing and it&#39;s application using python. If you don&#39;t understand anything in blog feel to comment so I can edit the blog so that you can understand more clearly](https://www.reddit.com/r/Python/comments/r2qgj5/understanding_hypothesis_testing_and_its/)
 <!-- BLOG-POST-LIST:END -->
