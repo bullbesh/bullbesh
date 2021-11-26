@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Phantom - A multi-platform HTTP&lpar;S&rpar; Reverse Shell Server and Client in Python 3](https://www.reddit.com/r/Python/comments/r2lxw4/phantom_a_multiplatform_https_reverse_shell/)
+- [Write Shorter Conditionals &lpar;Using Dictionaries&rpar;](https://www.reddit.com/r/Python/comments/r2lx3i/write_shorter_conditionals_using_dictionaries/)
+- [How to make bar chart race in Turtle](https://www.reddit.com/r/Python/comments/r2lvl4/how_to_make_bar_chart_race_in_turtle/)
+- [**SEARCHING FOR PYTHON DEVS** **AMAZING OPPORTUNITY** **WORKING WITH AI TECHNOLOGY** CREATING GLOBAL CONTENT FOR EVERYBODY - 5 YEARS MIN EXP **MESSAGE ME AND LETS GET THE BALL ROLLING**](https://www.reddit.com/r/Python/comments/r2ltxi/searching_for_python_devs_amazing_opportunity/)
 - [Looking for people to collect data on GTA-V to train a deep learning model](https://www.reddit.com/r/Python/comments/r2kl3r/looking_for_people_to_collect_data_on_gtav_to/)
-- [Introduction to Python](https://www.reddit.com/r/Python/comments/r2kf9t/introduction_to_python/)
-- [Im expecting a lot of hate, but change my mind.](https://www.reddit.com/r/Python/comments/r2j28d/im_expecting_a_lot_of_hate_but_change_my_mind/)
-- [How to edit frames from camera input and output them into meeting app?](https://www.reddit.com/r/Python/comments/r2iye3/how_to_edit_frames_from_camera_input_and_output/)
-- [Infinite Sequences: A Case Study in Functional Python](https://www.reddit.com/r/Python/comments/r2ibyj/infinite_sequences_a_case_study_in_functional/)
 <!-- BLOG-POST-LIST:END -->
