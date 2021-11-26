@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [game of life in python](https://www.reddit.com/r/Python/comments/r2od3r/game_of_life_in_python/)
+- [A question on appending](https://www.reddit.com/r/Python/comments/r2ntzi/a_question_on_appending/)
+- [Announcing a problem-solving bootcamp throughout December](https://www.reddit.com/r/Python/comments/r2ng1h/announcing_a_problemsolving_bootcamp_throughout/)
 - [Phantom - A multi-platform HTTP&lpar;S&rpar; Reverse Shell Server and Client in Python 3](https://www.reddit.com/r/Python/comments/r2lxw4/phantom_a_multiplatform_https_reverse_shell/)
 - [Write Shorter Conditionals &lpar;Using Dictionaries&rpar;](https://www.reddit.com/r/Python/comments/r2lx3i/write_shorter_conditionals_using_dictionaries/)
-- [How to make bar chart race in Turtle](https://www.reddit.com/r/Python/comments/r2lvl4/how_to_make_bar_chart_race_in_turtle/)
-- [Looking for people to collect data on GTA-V to train a deep learning model](https://www.reddit.com/r/Python/comments/r2kl3r/looking_for_people_to_collect_data_on_gtav_to/)
-- [Introduction to Python](https://www.reddit.com/r/Python/comments/r2kf9t/introduction_to_python/)
 <!-- BLOG-POST-LIST:END -->
