@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for people to collect data on GTA-V to train a deep learning model](https://www.reddit.com/r/Python/comments/r2kl3r/looking_for_people_to_collect_data_on_gtav_to/)
+- [Introduction to Python](https://www.reddit.com/r/Python/comments/r2kf9t/introduction_to_python/)
 - [Im expecting a lot of hate, but change my mind.](https://www.reddit.com/r/Python/comments/r2j28d/im_expecting_a_lot_of_hate_but_change_my_mind/)
 - [How to edit frames from camera input and output them into meeting app?](https://www.reddit.com/r/Python/comments/r2iye3/how_to_edit_frames_from_camera_input_and_output/)
 - [Infinite Sequences: A Case Study in Functional Python](https://www.reddit.com/r/Python/comments/r2ibyj/infinite_sequences_a_case_study_in_functional/)
-- [i have just learned python basics recently and i want to know some page or website where i can get information of pips , extension and all that together ?](https://www.reddit.com/r/Python/comments/r2i4j6/i_have_just_learned_python_basics_recently_and_i/)
-- [Running Python packages natively on a MacBook Air M1](https://www.reddit.com/r/Python/comments/r2h1er/running_python_packages_natively_on_a_macbook_air/)
 <!-- BLOG-POST-LIST:END -->
