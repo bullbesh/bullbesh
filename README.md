@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/r29z4g/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Where to learn about test data structures?](https://www.reddit.com/r/Python/comments/r280dc/where_to_learn_about_test_data_structures/)
 - [Python script to extract news from RSS feeds and save it as json.](https://www.reddit.com/r/Python/comments/r25mjo/python_script_to_extract_news_from_rss_feeds_and/)
 - [Introducing arp0_attacker, my 1st networking python tool to kickout/block other devices from network. &lpar;This is a followup post to the previous one where i was testing it out&rpar;](https://www.reddit.com/r/Python/comments/r256ct/introducing_arp0_attacker_my_1st_networking/)
 - [What is a better option: Python or Business analytics with excel?](https://www.reddit.com/r/Python/comments/r2557a/what_is_a_better_option_python_or_business/)
-- [Rock Paper Scissors game where Computer player doesn&#39;t lose](https://www.reddit.com/r/Python/comments/r24zdy/rock_paper_scissors_game_where_computer_player/)
 <!-- BLOG-POST-LIST:END -->
