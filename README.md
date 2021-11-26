@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Python packages natively on a MacBook Air M1](https://www.reddit.com/r/Python/comments/r2h1er/running_python_packages_natively_on_a_macbook_air/)
 - [Python Programming 2021: Top 10 Python Applications in Business](https://www.reddit.com/r/Python/comments/r2emyr/python_programming_2021_top_10_python/)
 - [I&#39;ve Updated My Quiz Game, And This Is My Second Code That I&#39;ve Ever Written!](https://www.reddit.com/r/Python/comments/r2e9ug/ive_updated_my_quiz_game_and_this_is_my_second/)
 - [Learning the language starting today!](https://www.reddit.com/r/Python/comments/r2ckqz/learning_the_language_starting_today/)
 - [Learn Python Through Anime](https://www.reddit.com/r/Python/comments/r2bz2u/learn_python_through_anime/)
-- [Grocery Bag using Django &lpar;Part-2&rpar; - Fixing Templates and Static Files](https://www.reddit.com/r/Python/comments/r2bccy/grocery_bag_using_django_part2_fixing_templates/)
 <!-- BLOG-POST-LIST:END -->
