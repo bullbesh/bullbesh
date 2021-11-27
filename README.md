@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Steganography Image/Data Injector.](https://www.reddit.com/r/Python/comments/r3k1yd/steganography_imagedata_injector/)
 - [Introduction to GeoPandas: Analysing 311 call data](https://www.reddit.com/r/Python/comments/r3ivvl/introduction_to_geopandas_analysing_311_call_data/)
 - [Teaching A Generalized AI Chess](https://www.reddit.com/r/Python/comments/r3im2o/teaching_a_generalized_ai_chess/)
 - [Python Community Interview With Eric Wastl – Real Python](https://www.reddit.com/r/Python/comments/r3hum3/python_community_interview_with_eric_wastl_real/)
 - [What are your bad python habits?](https://www.reddit.com/r/Python/comments/r3h72p/what_are_your_bad_python_habits/)
-- [Virus simulation and recovery with ball collision made in Python, based on an online tutorial](https://www.reddit.com/r/Python/comments/r3h6vb/virus_simulation_and_recovery_with_ball_collision/)
 <!-- BLOG-POST-LIST:END -->
