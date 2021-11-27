@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a primitive calculator](https://www.reddit.com/r/Python/comments/r3gigi/i_made_a_primitive_calculator/)
 - [Python program not counting points and money correctly](https://www.reddit.com/r/Python/comments/r3epm1/python_program_not_counting_points_and_money/)
 - [Gmail Monitoring Console](https://www.reddit.com/r/Python/comments/r3e7pm/gmail_monitoring_console/)
 - [I created an even better module for state-based undo and redo of Python 3 objects.](https://www.reddit.com/r/Python/comments/r3d2sm/i_created_an_even_better_module_for_statebased/)
 - [Python Numbers](https://www.reddit.com/r/Python/comments/r3br8z/python_numbers/)
-- [[13yo] This code is very botched, but I FINALLY managed to get an interactive, visual terminal menu working!](https://www.reddit.com/r/Python/comments/r3bf06/13yo_this_code_is_very_botched_but_i_finally/)
 <!-- BLOG-POST-LIST:END -->
