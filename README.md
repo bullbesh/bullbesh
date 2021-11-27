@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Community Interview With Eric Wastl – Real Python](https://www.reddit.com/r/Python/comments/r3hum3/python_community_interview_with_eric_wastl_real/)
+- [What are your bad python habits?](https://www.reddit.com/r/Python/comments/r3h72p/what_are_your_bad_python_habits/)
+- [Virus simulation and recovery with ball collision made in Python, based on an online tutorial](https://www.reddit.com/r/Python/comments/r3h6vb/virus_simulation_and_recovery_with_ball_collision/)
 - [I made a primitive calculator](https://www.reddit.com/r/Python/comments/r3gigi/i_made_a_primitive_calculator/)
 - [Python program not counting points and money correctly](https://www.reddit.com/r/Python/comments/r3epm1/python_program_not_counting_points_and_money/)
-- [Gmail Monitoring Console](https://www.reddit.com/r/Python/comments/r3e7pm/gmail_monitoring_console/)
-- [I created an even better module for state-based undo and redo of Python 3 objects.](https://www.reddit.com/r/Python/comments/r3d2sm/i_created_an_even_better_module_for_statebased/)
-- [Python Numbers](https://www.reddit.com/r/Python/comments/r3br8z/python_numbers/)
 <!-- BLOG-POST-LIST:END -->
