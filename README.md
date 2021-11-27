@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [python training in Credosystemz](https://www.reddit.com/r/Python/comments/r362dl/python_training_in_credosystemz/)
 - [I think I just had my first &quot;coder moment&quot; in Python. My program wasn&#39;t working, so I look, and look and look. Until finally....](https://www.reddit.com/r/Python/comments/r31ryl/i_think_i_just_had_my_first_coder_moment_in/)
 - [Created a Discord spam bot](https://www.reddit.com/r/Python/comments/r30d3b/created_a_discord_spam_bot/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/r308ee/saturday_daily_thread_resource_request_and/)
 - [Looking for Open source project to get involved in.](https://www.reddit.com/r/Python/comments/r2zq7b/looking_for_open_source_project_to_get_involved_in/)
+- [Arp0_attacker is finally complete, thanks for all the feedback! - Kick devices off your network now!](https://www.reddit.com/r/Python/comments/r2uu8l/arp0_attacker_is_finally_complete_thanks_for_all/)
 <!-- BLOG-POST-LIST:END -->
