@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Created a Discord spam bot](https://www.reddit.com/r/Python/comments/r30d3b/created_a_discord_spam_bot/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/r308ee/saturday_daily_thread_resource_request_and/)
+- [Looking for Open source project to get involved in.](https://www.reddit.com/r/Python/comments/r2zq7b/looking_for_open_source_project_to_get_involved_in/)
 - [Arp0_attacker is finally complete, thanks for all the feedback! - Kick devices off your network now!](https://www.reddit.com/r/Python/comments/r2uu8l/arp0_attacker_is_finally_complete_thanks_for_all/)
 - [How to Show Progress for Tasks With the ThreadPoolExecutor](https://www.reddit.com/r/Python/comments/r2ukux/how_to_show_progress_for_tasks_with_the/)
-- [Documentation sucks :&lpar;](https://www.reddit.com/r/Python/comments/r2tfys/documentation_sucks/)
-- [New project idea](https://www.reddit.com/r/Python/comments/r2s2de/new_project_idea/)
-- [PyJamas, the free online 24h Python conference is happening next Saturday &lpar;Dec 4th&rpar;](https://www.reddit.com/r/Python/comments/r2s1ja/pyjamas_the_free_online_24h_python_conference_is/)
 <!-- BLOG-POST-LIST:END -->
