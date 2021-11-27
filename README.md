@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning Python from Mark Lutz seems to be the most comprehensive introduction to Python &lpar;and programming&rpar; for beginners with its over 1600 pages. But the last edition was written in 2013. I have no prior programming experience. Should I find a more recent book to learn?](https://www.reddit.com/r/Python/comments/r3prjm/learning_python_from_mark_lutz_seems_to_be_the/)
+- [Learn Streamlit For Creating Data Web App With Python](https://www.reddit.com/r/Python/comments/r3ob53/learn_streamlit_for_creating_data_web_app_with/)
+- [What are the important things you think one should know for Python?](https://www.reddit.com/r/Python/comments/r3mwjt/what_are_the_important_things_you_think_one/)
 - [Steganography Image/Data Injector.](https://www.reddit.com/r/Python/comments/r3k1yd/steganography_imagedata_injector/)
 - [Introduction to GeoPandas: Analysing 311 call data](https://www.reddit.com/r/Python/comments/r3ivvl/introduction_to_geopandas_analysing_311_call_data/)
-- [Teaching A Generalized AI Chess](https://www.reddit.com/r/Python/comments/r3im2o/teaching_a_generalized_ai_chess/)
-- [Python Community Interview With Eric Wastl – Real Python](https://www.reddit.com/r/Python/comments/r3hum3/python_community_interview_with_eric_wastl_real/)
-- [What are your bad python habits?](https://www.reddit.com/r/Python/comments/r3h72p/what_are_your_bad_python_habits/)
 <!-- BLOG-POST-LIST:END -->
