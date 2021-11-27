@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Numbers](https://www.reddit.com/r/Python/comments/r3br8z/python_numbers/)
 - [[13yo] This code is very botched, but I FINALLY managed to get an interactive, visual terminal menu working!](https://www.reddit.com/r/Python/comments/r3bf06/13yo_this_code_is_very_botched_but_i_finally/)
 - [SIMPLE CODE HELP -- STRING](https://www.reddit.com/r/Python/comments/r3bdm7/simple_code_help_string/)
 - [TriOTP, the OTP framework for Python Trio](https://www.reddit.com/r/Python/comments/r3b3in/triotp_the_otp_framework_for_python_trio/)
 - [DeepNone: None-safe accessor to optional nested attributes and more](https://www.reddit.com/r/Python/comments/r3atdl/deepnone_nonesafe_accessor_to_optional_nested/)
-- [Hiring someone for an auto-cliker &lpar;up to 200$&rpar;](https://www.reddit.com/r/Python/comments/r3ami7/hiring_someone_for_an_autocliker_up_to_200/)
 <!-- BLOG-POST-LIST:END -->
