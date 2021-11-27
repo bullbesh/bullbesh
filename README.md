@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[13yo] This code is very botched, but I FINALLY managed to get an interactive, visual terminal menu working!](https://www.reddit.com/r/Python/comments/r3bf06/13yo_this_code_is_very_botched_but_i_finally/)
+- [SIMPLE CODE HELP -- STRING](https://www.reddit.com/r/Python/comments/r3bdm7/simple_code_help_string/)
+- [TriOTP, the OTP framework for Python Trio](https://www.reddit.com/r/Python/comments/r3b3in/triotp_the_otp_framework_for_python_trio/)
+- [DeepNone: None-safe accessor to optional nested attributes and more](https://www.reddit.com/r/Python/comments/r3atdl/deepnone_nonesafe_accessor_to_optional_nested/)
 - [Hiring someone for an auto-cliker &lpar;up to 200$&rpar;](https://www.reddit.com/r/Python/comments/r3ami7/hiring_someone_for_an_autocliker_up_to_200/)
-- [I think I just had my first &quot;coder moment&quot; in Python. My program wasn&#39;t working, so I look, and look and look. Until finally....](https://www.reddit.com/r/Python/comments/r31ryl/i_think_i_just_had_my_first_coder_moment_in/)
-- [Created a Discord spam bot](https://www.reddit.com/r/Python/comments/r30d3b/created_a_discord_spam_bot/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/r308ee/saturday_daily_thread_resource_request_and/)
-- [Looking for Open source project to get involved in.](https://www.reddit.com/r/Python/comments/r2zq7b/looking_for_open_source_project_to_get_involved_in/)
 <!-- BLOG-POST-LIST:END -->
