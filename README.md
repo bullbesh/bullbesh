@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial on fast ray-casting using the GPU](https://www.reddit.com/r/Python/comments/r466yx/tutorial_on_fast_raycasting_using_the_gpu/)
+- [Calling Rust from Python using PyO3](https://www.reddit.com/r/Python/comments/r45u9s/calling_rust_from_python_using_pyo3/)
+- [Space Science with Python - Part 14: Asteroid Flyby](https://www.reddit.com/r/Python/comments/r45m2f/space_science_with_python_part_14_asteroid_flyby/)
 - [New undocumented APIs in Python 3.10: The future of trust stores in Python](https://www.reddit.com/r/Python/comments/r44ysk/new_undocumented_apis_in_python_310_the_future_of/)
 - [IAM STUCK😰. CAN ANYONE EXPLAIN ME HOW](https://www.reddit.com/r/Python/comments/r44rug/iam_stuck_can_anyone_explain_me_how/)
-- [Chroma Key software built with python](https://www.reddit.com/r/Python/comments/r44obd/chroma_key_software_built_with_python/)
-- [Code Like A Pro eBooks Bundle by Manning](https://www.reddit.com/r/Python/comments/r43wnd/code_like_a_pro_ebooks_bundle_by_manning/)
-- [Grocery Bag using Django &lpar;Part-3&rpar; - User Authentication](https://www.reddit.com/r/Python/comments/r43fvm/grocery_bag_using_django_part3_user_authentication/)
 <!-- BLOG-POST-LIST:END -->
