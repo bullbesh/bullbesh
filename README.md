@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Programming to Students](https://www.reddit.com/r/Python/comments/r47vud/introducing_programming_to_students/)
+- [PEP 663 -- Standardizing Enum str&lpar;&rpar;, repr&lpar;&rpar;, and format&lpar;&rpar; behaviors](https://www.reddit.com/r/Python/comments/r47ssm/pep_663_standardizing_enum_str_repr_and_format/)
+- [GitHub - myhdl/myhdl: MyHDL is a free, open-source package for using Python as a hardware description and verification language.](https://www.reddit.com/r/Python/comments/r47j0k/github_myhdlmyhdl_myhdl_is_a_free_opensource/)
+- [Created a series on how to develop Minesweeper with Python | Almost failed to beat the game that I developed | Either consider downloading the source code or watching the full Series](https://www.reddit.com/r/Python/comments/r470jw/created_a_series_on_how_to_develop_minesweeper/)
 - [Tutorial on fast ray-casting using the GPU](https://www.reddit.com/r/Python/comments/r466yx/tutorial_on_fast_raycasting_using_the_gpu/)
-- [Calling Rust from Python using PyO3](https://www.reddit.com/r/Python/comments/r45u9s/calling_rust_from_python_using_pyo3/)
-- [Space Science with Python - Part 14: Asteroid Flyby](https://www.reddit.com/r/Python/comments/r45m2f/space_science_with_python_part_14_asteroid_flyby/)
-- [New undocumented APIs in Python 3.10: The future of trust stores in Python](https://www.reddit.com/r/Python/comments/r44ysk/new_undocumented_apis_in_python_310_the_future_of/)
-- [IAM STUCK😰. CAN ANYONE EXPLAIN ME HOW](https://www.reddit.com/r/Python/comments/r44rug/iam_stuck_can_anyone_explain_me_how/)
 <!-- BLOG-POST-LIST:END -->
