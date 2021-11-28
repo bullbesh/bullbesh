@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/r3qked/sunday_daily_thread_whats_everyone_working_on/)
 - [Learning Python from Mark Lutz seems to be the most comprehensive introduction to Python &lpar;and programming&rpar; for beginners with its over 1600 pages. But the last edition was written in 2013. I have no prior programming experience. Should I find a more recent book to learn?](https://www.reddit.com/r/Python/comments/r3prjm/learning_python_from_mark_lutz_seems_to_be_the/)
 - [Learn Streamlit For Creating Data Web App With Python](https://www.reddit.com/r/Python/comments/r3ob53/learn_streamlit_for_creating_data_web_app_with/)
 - [What are the important things you think one should know for Python?](https://www.reddit.com/r/Python/comments/r3mwjt/what_are_the_important_things_you_think_one/)
 - [Steganography Image/Data Injector.](https://www.reddit.com/r/Python/comments/r3k1yd/steganography_imagedata_injector/)
-- [Introduction to GeoPandas: Analysing 311 call data](https://www.reddit.com/r/Python/comments/r3ivvl/introduction_to_geopandas_analysing_311_call_data/)
 <!-- BLOG-POST-LIST:END -->
