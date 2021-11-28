@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exit Button on GUIs](https://www.reddit.com/r/Python/comments/r42469/exit_button_on_guis/)
+- [I made a Reminder inspired by some Twitch streamer in chat commands.](https://www.reddit.com/r/Python/comments/r41uk6/i_made_a_reminder_inspired_by_some_twitch/)
+- [Python Operators](https://www.reddit.com/r/Python/comments/r41lyt/python_operators/)
 - [Application of Numpy randint &lpar;Dice Game&rpar;](https://www.reddit.com/r/Python/comments/r3xlr0/application_of_numpy_randint_dice_game/)
 - [What&#39;s your favorite Python full stack setup?](https://www.reddit.com/r/Python/comments/r3ufac/whats_your_favorite_python_full_stack_setup/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/r3qked/sunday_daily_thread_whats_everyone_working_on/)
-- [Learning Python from Mark Lutz seems to be the most comprehensive introduction to Python &lpar;and programming&rpar; for beginners with its over 1600 pages. But the last edition was written in 2013. I have no prior programming experience. Should I find a more recent book to learn?](https://www.reddit.com/r/Python/comments/r3prjm/learning_python_from_mark_lutz_seems_to_be_the/)
-- [Learn Streamlit For Creating Data Web App With Python](https://www.reddit.com/r/Python/comments/r3ob53/learn_streamlit_for_creating_data_web_app_with/)
 <!-- BLOG-POST-LIST:END -->
