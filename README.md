@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web scraping &lpar;python vs golang &rpar;](https://www.reddit.com/r/Python/comments/r437ku/web_scraping_python_vs_golang/)
 - [Exit Button on GUIs](https://www.reddit.com/r/Python/comments/r42469/exit_button_on_guis/)
 - [I made a Reminder inspired by some Twitch streamer in chat commands.](https://www.reddit.com/r/Python/comments/r41uk6/i_made_a_reminder_inspired_by_some_twitch/)
 - [Python Operators](https://www.reddit.com/r/Python/comments/r41lyt/python_operators/)
 - [Application of Numpy randint &lpar;Dice Game&rpar;](https://www.reddit.com/r/Python/comments/r3xlr0/application_of_numpy_randint_dice_game/)
-- [What&#39;s your favorite Python full stack setup?](https://www.reddit.com/r/Python/comments/r3ufac/whats_your_favorite_python_full_stack_setup/)
 <!-- BLOG-POST-LIST:END -->
