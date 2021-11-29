@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Namespace and Scope](https://www.reddit.com/r/Python/comments/r4tilg/python_namespace_and_scope/)
+- [Killer Python Inspiration With Influencer Mike Driscoll](https://www.reddit.com/r/Python/comments/r4xxkw/killer_python_inspiration_with_influencer_mike/)
+- [Exploring Google Analytics Realtime Data with Python](https://www.reddit.com/r/Python/comments/r4xoen/exploring_google_analytics_realtime_data_with/)
+- [Rise of the Pydantic Stack](https://www.reddit.com/r/Python/comments/r4ucz9/rise_of_the_pydantic_stack/)
 - [Python vs JavaScript: Which is a Better Programming Language?](https://www.reddit.com/r/Python/comments/r4t9gt/python_vs_javascript_which_is_a_better/)
-- [Learn Python, ethical hacking, web development and more with these FREE Udemy courses!](https://www.reddit.com/r/Python/comments/r4sq92/learn_python_ethical_hacking_web_development_and/)
 - [Dear PyGui devs on Talk Python To Me podcast &lpar;live on YouTube on Monday, Nov 29, 9pm US Eastern time&rpar;](https://www.reddit.com/r/Python/comments/r4r80m/dear_pygui_devs_on_talk_python_to_me_podcast_live/)
-- [The pydantic stack](https://www.reddit.com/r/Python/comments/r4qqa4/the_pydantic_stack/)
 <!-- BLOG-POST-LIST:END -->
