@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [short video guide for managing multiple git repos with the tool gita](https://www.reddit.com/r/Python/comments/r4paaz/short_video_guide_for_managing_multiple_git_repos/)
+- [Relaying data back and forth: OpenCV, Threading, Pickle, Socket](https://www.reddit.com/r/Python/comments/r4oqw6/relaying_data_back_and_forth_opencv_threading/)
 - [I recently acquired a small server. What can I do with it?](https://www.reddit.com/r/Python/comments/r4o9o6/i_recently_acquired_a_small_server_what_can_i_do/)
 - [Chatbot](https://www.reddit.com/r/Python/comments/r4n5s8/chatbot/)
 - [Record Robinhood Stock Information in Notion !!!](https://www.reddit.com/r/Python/comments/r4mndo/record_robinhood_stock_information_in_notion/)
-- [Arduino with Python](https://www.reddit.com/r/Python/comments/r4kxzc/arduino_with_python/)
-- [Suggest python learning tutorials](https://www.reddit.com/r/Python/comments/r4kqi4/suggest_python_learning_tutorials/)
 <!-- BLOG-POST-LIST:END -->
