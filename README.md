@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Namespace and Scope](https://www.reddit.com/r/Python/comments/r4tilg/python_namespace_and_scope/)
+- [Python vs JavaScript: Which is a Better Programming Language?](https://www.reddit.com/r/Python/comments/r4t9gt/python_vs_javascript_which_is_a_better/)
 - [Learn Python, ethical hacking, web development and more with these FREE Udemy courses!](https://www.reddit.com/r/Python/comments/r4sq92/learn_python_ethical_hacking_web_development_and/)
 - [Dear PyGui devs on Talk Python To Me podcast &lpar;live on YouTube on Monday, Nov 29, 9pm US Eastern time&rpar;](https://www.reddit.com/r/Python/comments/r4r80m/dear_pygui_devs_on_talk_python_to_me_podcast_live/)
 - [The pydantic stack](https://www.reddit.com/r/Python/comments/r4qqa4/the_pydantic_stack/)
-- [After months of trial and error, my nHentai Code Generator is finally working.](https://www.reddit.com/r/Python/comments/r4qlpe/after_months_of_trial_and_error_my_nhentai_code/)
-- [Hi, this video explains text to image conversion using python](https://www.reddit.com/r/Python/comments/r4qb6p/hi_this_video_explains_text_to_image_conversion/)
 <!-- BLOG-POST-LIST:END -->
