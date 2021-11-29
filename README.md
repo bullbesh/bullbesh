@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The pydantic stack](https://www.reddit.com/r/Python/comments/r4qqa4/the_pydantic_stack/)
+- [After months of trial and error, my nHentai Code Generator is finally working.](https://www.reddit.com/r/Python/comments/r4qlpe/after_months_of_trial_and_error_my_nhentai_code/)
+- [Hi, this video explains text to image conversion using python](https://www.reddit.com/r/Python/comments/r4qb6p/hi_this_video_explains_text_to_image_conversion/)
 - [What should I learn next?](https://www.reddit.com/r/Python/comments/r4plmy/what_should_i_learn_next/)
 - [short video guide for managing multiple git repos with the tool gita](https://www.reddit.com/r/Python/comments/r4paaz/short_video_guide_for_managing_multiple_git_repos/)
-- [Relaying data back and forth: OpenCV, Threading, Pickle, Socket](https://www.reddit.com/r/Python/comments/r4oqw6/relaying_data_back_and_forth_opencv_threading/)
-- [Record Robinhood Stock Information in Notion !!!](https://www.reddit.com/r/Python/comments/r4mndo/record_robinhood_stock_information_in_notion/)
-- [Flask-Postgres: Simple stupid, zero code Flask + Postgres CLI for small apps.](https://www.reddit.com/r/Python/comments/r4jmva/flaskpostgres_simple_stupid_zero_code_flask/)
 <!-- BLOG-POST-LIST:END -->
