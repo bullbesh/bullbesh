@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I recently acquired a small server. What can I do with it?](https://www.reddit.com/r/Python/comments/r4o9o6/i_recently_acquired_a_small_server_what_can_i_do/)
 - [Chatbot](https://www.reddit.com/r/Python/comments/r4n5s8/chatbot/)
 - [Record Robinhood Stock Information in Notion !!!](https://www.reddit.com/r/Python/comments/r4mndo/record_robinhood_stock_information_in_notion/)
 - [Arduino with Python](https://www.reddit.com/r/Python/comments/r4kxzc/arduino_with_python/)
 - [Suggest python learning tutorials](https://www.reddit.com/r/Python/comments/r4kqi4/suggest_python_learning_tutorials/)
-- [Flask-Postgres: Simple stupid, zero code Flask + Postgres CLI for small apps.](https://www.reddit.com/r/Python/comments/r4jmva/flaskpostgres_simple_stupid_zero_code_flask/)
 <!-- BLOG-POST-LIST:END -->
