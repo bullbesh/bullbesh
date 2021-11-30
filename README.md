@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The problem I have with Pip&#39;s dependency version handling](https://www.reddit.com/r/Python/comments/r4z4sj/the_problem_i_have_with_pips_dependency_version/)
-- [PyPass: A password manager written in python](https://www.reddit.com/r/Python/comments/r4yd10/pypass_a_password_manager_written_in_python/)
-- [Killer Python Inspiration With Influencer Mike Driscoll](https://www.reddit.com/r/Python/comments/r4xxkw/killer_python_inspiration_with_influencer_mike/)
-- [Exploring Google Analytics Realtime Data with Python](https://www.reddit.com/r/Python/comments/r4xoen/exploring_google_analytics_realtime_data_with/)
-- [Rise of the Pydantic Stack](https://www.reddit.com/r/Python/comments/r4ucz9/rise_of_the_pydantic_stack/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/r59dvz/tuesday_daily_thread_advanced_questions/)
+- [Python Bootcamp](https://www.reddit.com/r/Python/comments/r593qd/python_bootcamp/)
+- [Watch a Professional Software Engineer Learn a New Library &lpar;PyQT6&rpar; and make a High Low Guessing Game from it](https://www.reddit.com/r/Python/comments/r553fv/watch_a_professional_software_engineer_learn_a/)
+- [I made a forever repeating calculator](https://www.reddit.com/r/Python/comments/r54sek/i_made_a_forever_repeating_calculator/)
+- [Python Developer in Residence Weekly Report, November 22 - 28](https://www.reddit.com/r/Python/comments/r54no6/python_developer_in_residence_weekly_report/)
 <!-- BLOG-POST-LIST:END -->
