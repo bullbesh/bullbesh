@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Help- Trading Robot](https://www.reddit.com/r/Python/comments/r5s06t/python_help_trading_robot/)
+- [I made an advanced system monitor for GNU/Linux distributions in Python 3.10 and Qt 5.15.0 for fun - Hope you like it!](https://www.reddit.com/r/Python/comments/r5t63f/i_made_an_advanced_system_monitor_for_gnulinux/)
+- [VSC or PyCharm](https://www.reddit.com/r/Python/comments/r5sp87/vsc_or_pycharm/)
 - [Multiple Python arrays visualized with seaborn](https://www.reddit.com/r/Python/comments/r5rjj3/multiple_python_arrays_visualized_with_seaborn/)
 - [/r/Python&#39;s 2021 Advent of Code](https://www.reddit.com/r/Python/comments/r5ri3x/rpythons_2021_advent_of_code/)
 - [Improve your Python regex skills with 75 interactive exercises](https://www.reddit.com/r/Python/comments/r5qsie/improve_your_python_regex_skills_with_75/)
-- [Web Scraping with Selenium in Python - ZenRows](https://www.reddit.com/r/Python/comments/r5qbni/web_scraping_with_selenium_in_python_zenrows/)
 <!-- BLOG-POST-LIST:END -->
