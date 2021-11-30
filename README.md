@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Help- Trading Robot](https://www.reddit.com/r/Python/comments/r5s06t/python_help_trading_robot/)
+- [Multiple Python arrays visualized with seaborn](https://www.reddit.com/r/Python/comments/r5rjj3/multiple_python_arrays_visualized_with_seaborn/)
+- [/r/Python&#39;s 2021 Advent of Code](https://www.reddit.com/r/Python/comments/r5ri3x/rpythons_2021_advent_of_code/)
 - [Improve your Python regex skills with 75 interactive exercises](https://www.reddit.com/r/Python/comments/r5qsie/improve_your_python_regex_skills_with_75/)
 - [Web Scraping with Selenium in Python - ZenRows](https://www.reddit.com/r/Python/comments/r5qbni/web_scraping_with_selenium_in_python_zenrows/)
-- [Cryptocurrency fully written in Python](https://www.reddit.com/r/Python/comments/r5pubb/cryptocurrency_fully_written_in_python/)
-- [Python, Junior Developer Roles &amp; Computer Science???](https://www.reddit.com/r/Python/comments/r5pgcf/python_junior_developer_roles_computer_science/)
-- [I built an Image Search Engine using OpenAI CLIP and Images from Wikimedia](https://www.reddit.com/r/Python/comments/r5pa1d/i_built_an_image_search_engine_using_openai_clip/)
 <!-- BLOG-POST-LIST:END -->
