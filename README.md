@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/r59dvz/tuesday_daily_thread_advanced_questions/)
-- [Python Bootcamp](https://www.reddit.com/r/Python/comments/r593qd/python_bootcamp/)
-- [Watch a Professional Software Engineer Learn a New Library &lpar;PyQT6&rpar; and make a High Low Guessing Game from it](https://www.reddit.com/r/Python/comments/r553fv/watch_a_professional_software_engineer_learn_a/)
-- [I made a forever repeating calculator](https://www.reddit.com/r/Python/comments/r54sek/i_made_a_forever_repeating_calculator/)
-- [Python Developer in Residence Weekly Report, November 22 - 28](https://www.reddit.com/r/Python/comments/r54no6/python_developer_in_residence_weekly_report/)
+- [Python, Junior Developer Roles &amp; Computer Science???](https://www.reddit.com/r/Python/comments/r5pgcf/python_junior_developer_roles_computer_science/)
+- [I built an Image Search Engine using OpenAI CLIP and Images from Wikimedia](https://www.reddit.com/r/Python/comments/r5pa1d/i_built_an_image_search_engine_using_openai_clip/)
+- [Grocery Bag using Django &lpar;Part-5&rpar; - Filter Items by Date | iRead](https://www.reddit.com/r/Python/comments/r5p15s/grocery_bag_using_django_part5_filter_items_by/)
+- [PyCasbin: An authorization library that supports access control models like ACL, RBAC, ABAC in Python](https://www.reddit.com/r/Python/comments/r5oxo0/pycasbin_an_authorization_library_that_supports/)
+- [PyQt &amp; Relational Databases](https://www.reddit.com/r/Python/comments/r5ob11/pyqt_relational_databases/)
 <!-- BLOG-POST-LIST:END -->
