@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Site for identifying which pip package needs to be installed](https://www.reddit.com/r/Python/comments/r5utjl/site_for_identifying_which_pip_package_needs_to/)
+- [How to generate random numbers with python](https://www.reddit.com/r/Python/comments/r5tutk/how_to_generate_random_numbers_with_python/)
 - [I made an advanced system monitor for GNU/Linux distributions in Python 3.10 and Qt 5.15.0 for fun - Hope you like it!](https://www.reddit.com/r/Python/comments/r5t63f/i_made_an_advanced_system_monitor_for_gnulinux/)
-- [VSC or PyCharm](https://www.reddit.com/r/Python/comments/r5sp87/vsc_or_pycharm/)
 - [Multiple Python arrays visualized with seaborn](https://www.reddit.com/r/Python/comments/r5rjj3/multiple_python_arrays_visualized_with_seaborn/)
 - [/r/Python&#39;s 2021 Advent of Code](https://www.reddit.com/r/Python/comments/r5ri3x/rpythons_2021_advent_of_code/)
-- [Improve your Python regex skills with 75 interactive exercises](https://www.reddit.com/r/Python/comments/r5qsie/improve_your_python_regex_skills_with_75/)
 <!-- BLOG-POST-LIST:END -->
