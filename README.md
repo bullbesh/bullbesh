@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Improve your Python regex skills with 75 interactive exercises](https://www.reddit.com/r/Python/comments/r5qsie/improve_your_python_regex_skills_with_75/)
+- [Web Scraping with Selenium in Python - ZenRows](https://www.reddit.com/r/Python/comments/r5qbni/web_scraping_with_selenium_in_python_zenrows/)
+- [Cryptocurrency fully written in Python](https://www.reddit.com/r/Python/comments/r5pubb/cryptocurrency_fully_written_in_python/)
 - [Python, Junior Developer Roles &amp; Computer Science???](https://www.reddit.com/r/Python/comments/r5pgcf/python_junior_developer_roles_computer_science/)
 - [I built an Image Search Engine using OpenAI CLIP and Images from Wikimedia](https://www.reddit.com/r/Python/comments/r5pa1d/i_built_an_image_search_engine_using_openai_clip/)
-- [Grocery Bag using Django &lpar;Part-5&rpar; - Filter Items by Date | iRead](https://www.reddit.com/r/Python/comments/r5p15s/grocery_bag_using_django_part5_filter_items_by/)
-- [PyCasbin: An authorization library that supports access control models like ACL, RBAC, ABAC in Python](https://www.reddit.com/r/Python/comments/r5oxo0/pycasbin_an_authorization_library_that_supports/)
-- [PyQt &amp; Relational Databases](https://www.reddit.com/r/Python/comments/r5ob11/pyqt_relational_databases/)
 <!-- BLOG-POST-LIST:END -->
