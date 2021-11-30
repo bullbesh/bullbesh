@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Update #2: Started My First Python Project &amp; Feeling Demoralised](https://www.reddit.com/r/Python/comments/r5yt44/update_2_started_my_first_python_project_feeling/)
+- [i made rock paper scissors against AI &lpar;The AI is a random generated number&rpar;](https://www.reddit.com/r/Python/comments/r5y5jk/i_made_rock_paper_scissors_against_ai_the_ai_is_a/)
+- [My first public github repository / project is live! It&#39;s not anything impressive, but it&#39;s a start. Please do have a look.](https://www.reddit.com/r/Python/comments/r5xu98/my_first_public_github_repository_project_is_live/)
 - [Statically typed Python](https://www.reddit.com/r/Python/comments/r5vpav/statically_typed_python/)
 - [exam ADVICE](https://www.reddit.com/r/Python/comments/r5vbur/exam_advice/)
-- [JetBrains DataSpell: The IDE for Data Scientists 1.0 Release](https://www.reddit.com/r/Python/comments/r5v8x0/jetbrains_dataspell_the_ide_for_data_scientists/)
-- [Site for identifying which pip package needs to be installed](https://www.reddit.com/r/Python/comments/r5utjl/site_for_identifying_which_pip_package_needs_to/)
-- [How to generate random numbers with python](https://www.reddit.com/r/Python/comments/r5tutk/how_to_generate_random_numbers_with_python/)
 <!-- BLOG-POST-LIST:END -->
