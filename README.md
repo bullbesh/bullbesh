@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m beginner](https://www.reddit.com/r/Python/comments/r6s8dm/im_beginner/)
+- [Bot that can detect images on a game map](https://www.reddit.com/r/Python/comments/r6rmlf/bot_that_can_detect_images_on_a_game_map/)
+- [First year student just finished my final exam project for my python class. Does it look janky as all hell? Yes. Do I still love it? Absolutely](https://www.reddit.com/r/Python/comments/r6rjo0/first_year_student_just_finished_my_final_exam/)
 - [Python Interview Questions](https://www.reddit.com/r/Python/comments/r6ou6d/python_interview_questions/)
 - [A Python Package to make your life somewhat easier &lpar;or a python package for lazy people like me&rpar;](https://www.reddit.com/r/Python/comments/r6n61g/a_python_package_to_make_your_life_somewhat/)
-- [objprint - Print Python Objects in Human Readable Format](https://www.reddit.com/r/Python/comments/r6mpg5/objprint_print_python_objects_in_human_readable/)
-- [Python&#39;s None problem, and how Mypy helps you deal with it](https://www.reddit.com/r/Python/comments/r6m0lb/pythons_none_problem_and_how_mypy_helps_you_deal/)
-- [pip-audit: a tool for identifying Python packages with known vulnerabilities](https://www.reddit.com/r/Python/comments/r6lk1w/pipaudit_a_tool_for_identifying_python_packages/)
 <!-- BLOG-POST-LIST:END -->
