@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas throughs warning when about slicing despite using it the right way](https://www.reddit.com/r/Python/comments/r6l8p2/pandas_throughs_warning_when_about_slicing/)
 - [What naming convention do you prefer for a list that is a function&#39;s argument?](https://www.reddit.com/r/Python/comments/r6jz55/what_naming_convention_do_you_prefer_for_a_list/)
 - [What’s a good website to practice python? Thank you](https://www.reddit.com/r/Python/comments/r6jthw/whats_a_good_website_to_practice_python_thank_you/)
 - [Python Fundamentals: Free certified course](https://www.reddit.com/r/Python/comments/r6izlt/python_fundamentals_free_certified_course/)
 - [Advent of Code: Solving Your Puzzles With Python](https://www.reddit.com/r/Python/comments/r6iypa/advent_of_code_solving_your_puzzles_with_python/)
-- [I have educative io yearly subscription,if anyone wants just dm me on](https://www.reddit.com/r/Python/comments/r6ivyj/i_have_educative_io_yearly_subscriptionif_anyone/)
 <!-- BLOG-POST-LIST:END -->
