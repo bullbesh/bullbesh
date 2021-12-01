@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - miguelgrinberg/promisio: JavaScript-style async programming for Python.](https://www.reddit.com/r/Python/comments/r6bp54/github_miguelgrinbergpromisio_javascriptstyle/)
+- [Personal Project -- Version Control System in python](https://www.reddit.com/r/Python/comments/r6blcj/personal_project_version_control_system_in_python/)
+- [Python Syntax](https://www.reddit.com/r/Python/comments/r6bis3/python_syntax/)
+- [PEP 674 -- Disallow using macros as l-value](https://www.reddit.com/r/Python/comments/r6av4q/pep_674_disallow_using_macros_as_lvalue/)
 - [Back to Basic: Linear Regression &lpar;with Python code, in 2 minutes&rpar;](https://www.reddit.com/r/Python/comments/r6ar3e/back_to_basic_linear_regression_with_python_code/)
-- [How do you deploy Python applications?](https://www.reddit.com/r/Python/comments/r6aqji/how_do_you_deploy_python_applications/)
-- [I am creating a command line aquarium simulator using my TUI library, pytermgui!](https://www.reddit.com/r/Python/comments/r6aqcw/i_am_creating_a_command_line_aquarium_simulator/)
-- [Different ways to iterate zip function and what are the valid input for zip function. Animation are created using Python Manim library. Python for Beginner](https://www.reddit.com/r/Python/comments/r6a8vd/different_ways_to_iterate_zip_function_and_what/)
-- [Take Top Python Courses With Udemy Cyber Monday](https://www.reddit.com/r/Python/comments/r699ch/take_top_python_courses_with_udemy_cyber_monday/)
 <!-- BLOG-POST-LIST:END -->
