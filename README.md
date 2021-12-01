@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python&#39;s None problem, and how Mypy helps you deal with it](https://www.reddit.com/r/Python/comments/r6m0lb/pythons_none_problem_and_how_mypy_helps_you_deal/)
+- [pip-audit: a tool for identifying Python packages with known vulnerabilities](https://www.reddit.com/r/Python/comments/r6lk1w/pipaudit_a_tool_for_identifying_python_packages/)
 - [Pandas throughs warning when about slicing despite using it the right way](https://www.reddit.com/r/Python/comments/r6l8p2/pandas_throughs_warning_when_about_slicing/)
 - [What naming convention do you prefer for a list that is a function&#39;s argument?](https://www.reddit.com/r/Python/comments/r6jz55/what_naming_convention_do_you_prefer_for_a_list/)
 - [What’s a good website to practice python? Thank you](https://www.reddit.com/r/Python/comments/r6jthw/whats_a_good_website_to_practice_python_thank_you/)
-- [Python Fundamentals: Free certified course](https://www.reddit.com/r/Python/comments/r6izlt/python_fundamentals_free_certified_course/)
-- [Advent of Code: Solving Your Puzzles With Python](https://www.reddit.com/r/Python/comments/r6iypa/advent_of_code_solving_your_puzzles_with_python/)
 <!-- BLOG-POST-LIST:END -->
