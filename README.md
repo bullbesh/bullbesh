@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing BOTLIB 143 - 24/7 channel daemon running under a a service under systemd](https://www.reddit.com/r/Python/comments/r6fcai/announcing_botlib_143_247_channel_daemon_running/)
+- [Install Python on Mac without Homebrew?](https://www.reddit.com/r/Python/comments/r6fbnt/install_python_on_mac_without_homebrew/)
 - [Looking for Pythonistas to mentor beginners](https://www.reddit.com/r/Python/comments/r6dpp1/looking_for_pythonistas_to_mentor_beginners/)
 - [Use python to analyze an excel spreadsheet with server names](https://www.reddit.com/r/Python/comments/r6df5y/use_python_to_analyze_an_excel_spreadsheet_with/)
 - [I was stuck on a &quot;object has no attribute&quot; error for days, and then I fixed it in 2 seconds.](https://www.reddit.com/r/Python/comments/r6d0do/i_was_stuck_on_a_object_has_no_attribute_error/)
-- [Key Python Features](https://www.reddit.com/r/Python/comments/r6ctgf/key_python_features/)
-- [GitHub - miguelgrinberg/promisio: JavaScript-style async programming for Python.](https://www.reddit.com/r/Python/comments/r6bp54/github_miguelgrinbergpromisio_javascriptstyle/)
 <!-- BLOG-POST-LIST:END -->
