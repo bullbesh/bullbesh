@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [how to implement class and objects in the python?](https://www.reddit.com/r/Python/comments/r6o3ii/how_to_implement_class_and_objects_in_the_python/)
+- [A Python Package to make your life somewhat easier &lpar;or a python package for lazy people like me&rpar;](https://www.reddit.com/r/Python/comments/r6n61g/a_python_package_to_make_your_life_somewhat/)
+- [objprint - Print Python Objects in Human Readable Format](https://www.reddit.com/r/Python/comments/r6mpg5/objprint_print_python_objects_in_human_readable/)
 - [Python&#39;s None problem, and how Mypy helps you deal with it](https://www.reddit.com/r/Python/comments/r6m0lb/pythons_none_problem_and_how_mypy_helps_you_deal/)
 - [pip-audit: a tool for identifying Python packages with known vulnerabilities](https://www.reddit.com/r/Python/comments/r6lk1w/pipaudit_a_tool_for_identifying_python_packages/)
-- [Pandas throughs warning when about slicing despite using it the right way](https://www.reddit.com/r/Python/comments/r6l8p2/pandas_throughs_warning_when_about_slicing/)
-- [What naming convention do you prefer for a list that is a function&#39;s argument?](https://www.reddit.com/r/Python/comments/r6jz55/what_naming_convention_do_you_prefer_for_a_list/)
-- [What’s a good website to practice python? Thank you](https://www.reddit.com/r/Python/comments/r6jthw/whats_a_good_website_to_practice_python_thank_you/)
 <!-- BLOG-POST-LIST:END -->
