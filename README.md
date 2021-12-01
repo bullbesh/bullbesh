@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Xmas Card Generator](https://www.reddit.com/r/Python/comments/r6gyno/xmas_card_generator/)
+- [We live in beautiful times where you can learn Machine Learning with Python and become an expert, for free. Here are many resources in a complete guide for everyone even with no tech background at all. Save it for your Holiday break! &lpar;ping me if it misses anything great&rpar;](https://www.reddit.com/r/Python/comments/r6gjxj/we_live_in_beautiful_times_where_you_can_learn/)
+- [Using Apache Airflow ETL to fetch and analyze BTC data](https://www.reddit.com/r/Python/comments/r6gf06/using_apache_airflow_etl_to_fetch_and_analyze_btc/)
+- [Halo Space Invaders Python and Pygame tutorial](https://www.reddit.com/r/Python/comments/r6gbfy/halo_space_invaders_python_and_pygame_tutorial/)
 - [Announcing BOTLIB 143 - 24/7 channel daemon running under a a service under systemd](https://www.reddit.com/r/Python/comments/r6fcai/announcing_botlib_143_247_channel_daemon_running/)
-- [Install Python on Mac without Homebrew?](https://www.reddit.com/r/Python/comments/r6fbnt/install_python_on_mac_without_homebrew/)
-- [Looking for Pythonistas to mentor beginners](https://www.reddit.com/r/Python/comments/r6dpp1/looking_for_pythonistas_to_mentor_beginners/)
-- [Use python to analyze an excel spreadsheet with server names](https://www.reddit.com/r/Python/comments/r6df5y/use_python_to_analyze_an_excel_spreadsheet_with/)
-- [I was stuck on a &quot;object has no attribute&quot; error for days, and then I fixed it in 2 seconds.](https://www.reddit.com/r/Python/comments/r6d0do/i_was_stuck_on_a_object_has_no_attribute_error/)
 <!-- BLOG-POST-LIST:END -->
