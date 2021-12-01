@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for Pythonistas to mentor beginners](https://www.reddit.com/r/Python/comments/r6dpp1/looking_for_pythonistas_to_mentor_beginners/)
+- [Use python to analyze an excel spreadsheet with server names](https://www.reddit.com/r/Python/comments/r6df5y/use_python_to_analyze_an_excel_spreadsheet_with/)
+- [I was stuck on a &quot;object has no attribute&quot; error for days, and then I fixed it in 2 seconds.](https://www.reddit.com/r/Python/comments/r6d0do/i_was_stuck_on_a_object_has_no_attribute_error/)
+- [Key Python Features](https://www.reddit.com/r/Python/comments/r6ctgf/key_python_features/)
 - [GitHub - miguelgrinberg/promisio: JavaScript-style async programming for Python.](https://www.reddit.com/r/Python/comments/r6bp54/github_miguelgrinbergpromisio_javascriptstyle/)
-- [Personal Project -- Version Control System in python](https://www.reddit.com/r/Python/comments/r6blcj/personal_project_version_control_system_in_python/)
-- [Python Syntax](https://www.reddit.com/r/Python/comments/r6bis3/python_syntax/)
-- [PEP 674 -- Disallow using macros as l-value](https://www.reddit.com/r/Python/comments/r6av4q/pep_674_disallow_using_macros_as_lvalue/)
-- [Back to Basic: Linear Regression &lpar;with Python code, in 2 minutes&rpar;](https://www.reddit.com/r/Python/comments/r6ar3e/back_to_basic_linear_regression_with_python_code/)
 <!-- BLOG-POST-LIST:END -->
