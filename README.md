@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Functions Massive Example List](https://www.reddit.com/r/Python/comments/r6hqk2/python_functions_massive_example_list/)
-- [PyCharm 2021.3 Released with Remote Dev, Jupyter and Fast API Support](https://www.reddit.com/r/Python/comments/r6homd/pycharm_20213_released_with_remote_dev_jupyter/)
-- [CPython can now run on the browser](https://www.reddit.com/r/Python/comments/r6heou/cpython_can_now_run_on_the_browser/)
-- [Xmas Card Generator](https://www.reddit.com/r/Python/comments/r6gyno/xmas_card_generator/)
-- [We live in beautiful times where you can learn Machine Learning with Python and become an expert, for free. Here are many resources in a complete guide for everyone even with no tech background at all. Save it for your Holiday break! &lpar;ping me if it misses anything great&rpar;](https://www.reddit.com/r/Python/comments/r6gjxj/we_live_in_beautiful_times_where_you_can_learn/)
+- [What naming convention do you prefer for a list that is a function&#39;s argument?](https://www.reddit.com/r/Python/comments/r6jz55/what_naming_convention_do_you_prefer_for_a_list/)
+- [What’s a good website to practice python? Thank you](https://www.reddit.com/r/Python/comments/r6jthw/whats_a_good_website_to_practice_python_thank_you/)
+- [Python Fundamentals: Free certified course](https://www.reddit.com/r/Python/comments/r6izlt/python_fundamentals_free_certified_course/)
+- [Advent of Code: Solving Your Puzzles With Python](https://www.reddit.com/r/Python/comments/r6iypa/advent_of_code_solving_your_puzzles_with_python/)
+- [I have educative io yearly subscription,if anyone wants just dm me on](https://www.reddit.com/r/Python/comments/r6ivyj/i_have_educative_io_yearly_subscriptionif_anyone/)
 <!-- BLOG-POST-LIST:END -->
