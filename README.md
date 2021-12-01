@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Take Top Python Courses With Udemy Cyber Monday](https://www.reddit.com/r/Python/comments/r699ch/take_top_python_courses_with_udemy_cyber_monday/)
 - [Any Python college student here?](https://www.reddit.com/r/Python/comments/r64y49/any_python_college_student_here/)
 - [Deploying a containerized Heroku app with Apple&#39;s M1 processor](https://www.reddit.com/r/Python/comments/r64qws/deploying_a_containerized_heroku_app_with_apples/)
 - [Python audio book to listen to concepts](https://www.reddit.com/r/Python/comments/r64a5o/python_audio_book_to_listen_to_concepts/)
 - [Is selling Pandas automation scripts bad practice? What considerations do I need to make?](https://www.reddit.com/r/Python/comments/r61mqq/is_selling_pandas_automation_scripts_bad_practice/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/r615ym/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
