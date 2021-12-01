@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Back to Basic: Linear Regression &lpar;with Python code, in 2 minutes&rpar;](https://www.reddit.com/r/Python/comments/r6ar3e/back_to_basic_linear_regression_with_python_code/)
+- [How do you deploy Python applications?](https://www.reddit.com/r/Python/comments/r6aqji/how_do_you_deploy_python_applications/)
+- [I am creating a command line aquarium simulator using my TUI library, pytermgui!](https://www.reddit.com/r/Python/comments/r6aqcw/i_am_creating_a_command_line_aquarium_simulator/)
+- [Different ways to iterate zip function and what are the valid input for zip function. Animation are created using Python Manim library. Python for Beginner](https://www.reddit.com/r/Python/comments/r6a8vd/different_ways_to_iterate_zip_function_and_what/)
 - [Take Top Python Courses With Udemy Cyber Monday](https://www.reddit.com/r/Python/comments/r699ch/take_top_python_courses_with_udemy_cyber_monday/)
-- [Any Python college student here?](https://www.reddit.com/r/Python/comments/r64y49/any_python_college_student_here/)
-- [Deploying a containerized Heroku app with Apple&#39;s M1 processor](https://www.reddit.com/r/Python/comments/r64qws/deploying_a_containerized_heroku_app_with_apples/)
-- [Python audio book to listen to concepts](https://www.reddit.com/r/Python/comments/r64a5o/python_audio_book_to_listen_to_concepts/)
-- [Is selling Pandas automation scripts bad practice? What considerations do I need to make?](https://www.reddit.com/r/Python/comments/r61mqq/is_selling_pandas_automation_scripts_bad_practice/)
 <!-- BLOG-POST-LIST:END -->
