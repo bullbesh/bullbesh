@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any Python college student here?](https://www.reddit.com/r/Python/comments/r64y49/any_python_college_student_here/)
+- [Deploying a containerized Heroku app with Apple&#39;s M1 processor](https://www.reddit.com/r/Python/comments/r64qws/deploying_a_containerized_heroku_app_with_apples/)
+- [Python audio book to listen to concepts](https://www.reddit.com/r/Python/comments/r64a5o/python_audio_book_to_listen_to_concepts/)
 - [Is selling Pandas automation scripts bad practice? What considerations do I need to make?](https://www.reddit.com/r/Python/comments/r61mqq/is_selling_pandas_automation_scripts_bad_practice/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/r615ym/wednesday_daily_thread_beginner_questions/)
-- [Update #2: Started My First Python Project &amp; Feeling Demoralised](https://www.reddit.com/r/Python/comments/r5yt44/update_2_started_my_first_python_project_feeling/)
-- [i made rock paper scissors against AI &lpar;The AI is a random generated number&rpar;](https://www.reddit.com/r/Python/comments/r5y5jk/i_made_rock_paper_scissors_against_ai_the_ai_is_a/)
-- [My first public github repository / project is live! It&#39;s not anything impressive, but it&#39;s a start. Please do have a look.](https://www.reddit.com/r/Python/comments/r5xu98/my_first_public_github_repository_project_is_live/)
 <!-- BLOG-POST-LIST:END -->
