@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Software Developer](https://www.reddit.com/r/Python/comments/r7azcp/python_software_developer/)
-- [how is the job market?](https://www.reddit.com/r/Python/comments/r7an3f/how_is_the_job_market/)
+- [Can&#39;t remember the name of this programming challenge site](https://www.reddit.com/r/Python/comments/r7ep60/cant_remember_the_name_of_this_programming/)
+- [Created Text to Image/Image to Text converter using python/django,js](https://www.reddit.com/r/Python/comments/r7dt5w/created_text_to_imageimage_to_text_converter/)
 - [What is Module, PIP &amp; Comment, Python for Beginner-2](https://www.reddit.com/r/Python/comments/r7a821/what_is_module_pip_comment_python_for_beginner2/)
 - [A simple Rust-like Result type for Python](https://www.reddit.com/r/Python/comments/r7a0yp/a_simple_rustlike_result_type_for_python/)
 - [3D ASCII Spinning Donut Tutorial](https://www.reddit.com/r/Python/comments/r79csn/3d_ascii_spinning_donut_tutorial/)
