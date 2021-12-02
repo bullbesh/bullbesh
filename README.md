@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [First github repository/ first project ticktacktoe game in a terminal](https://www.reddit.com/r/Python/comments/r7jlzu/first_github_repository_first_project_ticktacktoe/)
+- [A quick how-to on calling REST APIs &lpar;to get comet data&rpar;](https://www.reddit.com/r/Python/comments/r7jclr/a_quick_howto_on_calling_rest_apis_to_get_comet/)
 - [Neuro-Symbolic Sudoku Solver](https://www.reddit.com/r/Python/comments/r7i8ym/neurosymbolic_sudoku_solver/)
 - [FastAPI Azure AD Authentication 🔒 Now supports both single- and multi-tenants applications](https://www.reddit.com/r/Python/comments/r7i4x7/fastapi_azure_ad_authentication_now_supports_both/)
 - [Where on device do I download software/applications &lpar;such as Anaconda&rpar;](https://www.reddit.com/r/Python/comments/r7i2vr/where_on_device_do_i_download/)
-- [Django or Flask?](https://www.reddit.com/r/Python/comments/r7gsd4/django_or_flask/)
-- [Created Text to Image/Image to Text converter using python/django,js](https://www.reddit.com/r/Python/comments/r7dt5w/created_text_to_imageimage_to_text_converter/)
 <!-- BLOG-POST-LIST:END -->
