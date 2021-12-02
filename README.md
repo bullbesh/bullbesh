@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Neuro-Symbolic Sudoku Solver](https://www.reddit.com/r/Python/comments/r7i8ym/neurosymbolic_sudoku_solver/)
+- [FastAPI Azure AD Authentication 🔒 Now supports both single- and multi-tenants applications](https://www.reddit.com/r/Python/comments/r7i4x7/fastapi_azure_ad_authentication_now_supports_both/)
+- [Where on device do I download software/applications &lpar;such as Anaconda&rpar;](https://www.reddit.com/r/Python/comments/r7i2vr/where_on_device_do_i_download/)
 - [Django or Flask?](https://www.reddit.com/r/Python/comments/r7gsd4/django_or_flask/)
 - [Created Text to Image/Image to Text converter using python/django,js](https://www.reddit.com/r/Python/comments/r7dt5w/created_text_to_imageimage_to_text_converter/)
-- [What is Module, PIP &amp; Comment, Python for Beginner-2](https://www.reddit.com/r/Python/comments/r7a821/what_is_module_pip_comment_python_for_beginner2/)
-- [A simple Rust-like Result type for Python](https://www.reddit.com/r/Python/comments/r7a0yp/a_simple_rustlike_result_type_for_python/)
-- [3D ASCII Spinning Donut Tutorial](https://www.reddit.com/r/Python/comments/r79csn/3d_ascii_spinning_donut_tutorial/)
 <!-- BLOG-POST-LIST:END -->
