@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Permissions, Privileges, and Scopes](https://www.reddit.com/r/Python/comments/r79h2k/permissions_privileges_and_scopes/)
+- [Python Software Developer](https://www.reddit.com/r/Python/comments/r7azcp/python_software_developer/)
+- [how is the job market?](https://www.reddit.com/r/Python/comments/r7an3f/how_is_the_job_market/)
+- [What is Module, PIP &amp; Comment, Python for Beginner-2](https://www.reddit.com/r/Python/comments/r7a821/what_is_module_pip_comment_python_for_beginner2/)
+- [A simple Rust-like Result type for Python](https://www.reddit.com/r/Python/comments/r7a0yp/a_simple_rustlike_result_type_for_python/)
 - [3D ASCII Spinning Donut Tutorial](https://www.reddit.com/r/Python/comments/r79csn/3d_ascii_spinning_donut_tutorial/)
-- [Advent of Code: Solving Your Puzzles With Python – Real Python](https://www.reddit.com/r/Python/comments/r7966g/advent_of_code_solving_your_puzzles_with_python/)
-- [How to remove background from an image ? [tutorial]](https://www.reddit.com/r/Python/comments/r787es/how_to_remove_background_from_an_image_tutorial/)
-- [Updating python version as an admin?](https://www.reddit.com/r/Python/comments/r785vf/updating_python_version_as_an_admin/)
 <!-- BLOG-POST-LIST:END -->
