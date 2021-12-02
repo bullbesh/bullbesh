@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is a Python Interpreter?](https://www.reddit.com/r/Python/comments/r75zik/what_is_a_python_interpreter/)
 - [Novation Launchpad button mapping application](https://www.reddit.com/r/Python/comments/r756ew/novation_launchpad_button_mapping_application/)
 - [Fun with Python: Making all the Rabbit / Rabbyte memes using Python, Bash and Gnu tools](https://www.reddit.com/r/Python/comments/r755w3/fun_with_python_making_all_the_rabbit_rabbyte/)
 - [Windmill monitoring system](https://www.reddit.com/r/Python/comments/r753hv/windmill_monitoring_system/)
 - [GitHub - bendudson/py4cl: Call python from Common Lisp](https://www.reddit.com/r/Python/comments/r74vnr/github_bendudsonpy4cl_call_python_from_common_lisp/)
-- [scrapping a website with Scrapy in Python - Empty csv file](https://www.reddit.com/r/Python/comments/r74hvc/scrapping_a_website_with_scrapy_in_python_empty/)
 <!-- BLOG-POST-LIST:END -->
