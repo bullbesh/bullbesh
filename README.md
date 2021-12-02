@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I had to switch from python pytesseract module to tesseract.js i.e pure js library for d same to create Image to text converter...](https://www.reddit.com/r/Python/comments/r72j14/i_had_to_switch_from_python_pytesseract_module_to/)
-- [Grocery Bag using Django](https://www.reddit.com/r/Python/comments/r721r8/grocery_bag_using_django/)
-- [Thoughts on Advent of Code 2021](https://www.reddit.com/r/Python/comments/r71ykq/thoughts_on_advent_of_code_2021/)
-- [PEP 675 -- Arbitrary Literal Strings](https://www.reddit.com/r/Python/comments/r71lzi/pep_675_arbitrary_literal_strings/)
-- [All You Need to Know About Dictionaries](https://www.reddit.com/r/Python/comments/r6zbd2/all_you_need_to_know_about_dictionaries/)
+- [Novation Launchpad button mapping application](https://www.reddit.com/r/Python/comments/r756ew/novation_launchpad_button_mapping_application/)
+- [Fun with Python: Making all the Rabbit / Rabbyte memes using Python, Bash and Gnu tools](https://www.reddit.com/r/Python/comments/r755w3/fun_with_python_making_all_the_rabbit_rabbyte/)
+- [Windmill monitoring system](https://www.reddit.com/r/Python/comments/r753hv/windmill_monitoring_system/)
+- [GitHub - bendudson/py4cl: Call python from Common Lisp](https://www.reddit.com/r/Python/comments/r74vnr/github_bendudsonpy4cl_call_python_from_common_lisp/)
+- [scrapping a website with Scrapy in Python - Empty csv file](https://www.reddit.com/r/Python/comments/r74hvc/scrapping_a_website_with_scrapy_in_python_empty/)
 <!-- BLOG-POST-LIST:END -->
