@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automation](https://www.reddit.com/r/Python/comments/r6w7si/automation/)
+- [An app with hand-picked, searchable and sortable awesome Python libraries &lpar;with full code and data&rpar;](https://www.reddit.com/r/Python/comments/r6vis1/an_app_with_handpicked_searchable_and_sortable/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/r6t89p/thursday_daily_thread_python_careers_courses_and/)
 - [Brainstorming ideas for creating human like social media bots.](https://www.reddit.com/r/Python/comments/r6t1ut/brainstorming_ideas_for_creating_human_like/)
 - [Bot that can detect images on a game map](https://www.reddit.com/r/Python/comments/r6rmlf/bot_that_can_detect_images_on_a_game_map/)
-- [First year student just finished my final exam project for my python class. Does it look janky as all hell? Yes. Do I still love it? Absolutely](https://www.reddit.com/r/Python/comments/r6rjo0/first_year_student_just_finished_my_final_exam/)
-- [Python Interview Questions](https://www.reddit.com/r/Python/comments/r6ou6d/python_interview_questions/)
 <!-- BLOG-POST-LIST:END -->
