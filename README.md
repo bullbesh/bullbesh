@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [In-depth analysis of Python solutions to Advent of Code day 1](https://www.reddit.com/r/Python/comments/r6y73y/indepth_analysis_of_python_solutions_to_advent_of/)
 - [An app with hand-picked, searchable and sortable awesome Python libraries &lpar;with full code and data&rpar;](https://www.reddit.com/r/Python/comments/r6vis1/an_app_with_handpicked_searchable_and_sortable/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/r6t89p/thursday_daily_thread_python_careers_courses_and/)
 - [First year student just finished my final exam project for my python class. Does it look janky as all hell? Yes. Do I still love it? Absolutely](https://www.reddit.com/r/Python/comments/r6rjo0/first_year_student_just_finished_my_final_exam/)
 - [Python Interview Questions](https://www.reddit.com/r/Python/comments/r6ou6d/python_interview_questions/)
-- [A Python Package to make your life somewhat easier &lpar;or a python package for lazy people like me&rpar;](https://www.reddit.com/r/Python/comments/r6n61g/a_python_package_to_make_your_life_somewhat/)
 <!-- BLOG-POST-LIST:END -->
