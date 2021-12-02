@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I had to switch from python pytesseract module to tesseract.js i.e pure js library for d same to create Image to text converter...](https://www.reddit.com/r/Python/comments/r72j14/i_had_to_switch_from_python_pytesseract_module_to/)
+- [Grocery Bag using Django](https://www.reddit.com/r/Python/comments/r721r8/grocery_bag_using_django/)
+- [Thoughts on Advent of Code 2021](https://www.reddit.com/r/Python/comments/r71ykq/thoughts_on_advent_of_code_2021/)
 - [PEP 675 -- Arbitrary Literal Strings](https://www.reddit.com/r/Python/comments/r71lzi/pep_675_arbitrary_literal_strings/)
 - [All You Need to Know About Dictionaries](https://www.reddit.com/r/Python/comments/r6zbd2/all_you_need_to_know_about_dictionaries/)
-- [In-depth analysis of Python solutions to Advent of Code day 1](https://www.reddit.com/r/Python/comments/r6y73y/indepth_analysis_of_python_solutions_to_advent_of/)
-- [An app with hand-picked, searchable and sortable awesome Python libraries &lpar;with full code and data&rpar;](https://www.reddit.com/r/Python/comments/r6vis1/an_app_with_handpicked_searchable_and_sortable/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/r6t89p/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
