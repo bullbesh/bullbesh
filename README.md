@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is a Python Interpreter?](https://www.reddit.com/r/Python/comments/r75zik/what_is_a_python_interpreter/)
+- [ROBOTIC INSTALLATION CODED WITH PYTHON!](https://www.reddit.com/r/Python/comments/r77dvi/robotic_installation_coded_with_python/)
 - [Novation Launchpad button mapping application](https://www.reddit.com/r/Python/comments/r756ew/novation_launchpad_button_mapping_application/)
 - [Fun with Python: Making all the Rabbit / Rabbyte memes using Python, Bash and Gnu tools](https://www.reddit.com/r/Python/comments/r755w3/fun_with_python_making_all_the_rabbit_rabbyte/)
 - [Windmill monitoring system](https://www.reddit.com/r/Python/comments/r753hv/windmill_monitoring_system/)
