@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to remove background from an image ? [tutorial]](https://www.reddit.com/r/Python/comments/r787es/how_to_remove_background_from_an_image_tutorial/)
+- [Updating python version as an admin?](https://www.reddit.com/r/Python/comments/r785vf/updating_python_version_as_an_admin/)
 - [ROBOTIC INSTALLATION CODED WITH PYTHON!](https://www.reddit.com/r/Python/comments/r77dvi/robotic_installation_coded_with_python/)
 - [Novation Launchpad button mapping application](https://www.reddit.com/r/Python/comments/r756ew/novation_launchpad_button_mapping_application/)
 - [Fun with Python: Making all the Rabbit / Rabbyte memes using Python, Bash and Gnu tools](https://www.reddit.com/r/Python/comments/r755w3/fun_with_python_making_all_the_rabbit_rabbyte/)
-- [Windmill monitoring system](https://www.reddit.com/r/Python/comments/r753hv/windmill_monitoring_system/)
-- [GitHub - bendudson/py4cl: Call python from Common Lisp](https://www.reddit.com/r/Python/comments/r74vnr/github_bendudsonpy4cl_call_python_from_common_lisp/)
 <!-- BLOG-POST-LIST:END -->
