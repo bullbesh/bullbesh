@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Do anyone know how to deploy the python programs if anyone can help](https://www.reddit.com/r/Python/comments/r7x4zu/do_anyone_know_how_to_deploy_the_python_programs/)
+- [I made a news headline fetching tool for your terminal!](https://www.reddit.com/r/Python/comments/r7yzac/i_made_a_news_headline_fetching_tool_for_your/)
 - [Is shutil capable of deleting massive files important for my pc? &lpar;OCD WARNING&rpar;](https://www.reddit.com/r/Python/comments/r7wduz/is_shutil_capable_of_deleting_massive_files/)
 - [i need help with code =&lpar;](https://www.reddit.com/r/Python/comments/r7w2ho/i_need_help_with_code/)
 - [I&#39;m Looking to Help Contribute, I am very confident with my skills](https://www.reddit.com/r/Python/comments/r7p2qu/im_looking_to_help_contribute_i_am_very_confident/)
