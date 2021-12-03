@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How much exercise a day to learn ?](https://www.reddit.com/r/Python/comments/r863ps/how_much_exercise_a_day_to_learn/)
 - [School project with programming 3d led cube. With livestream submission from anyone](https://www.reddit.com/r/Python/comments/r85ih9/school_project_with_programming_3d_led_cube_with/)
 - [Pathcworklib: A subplot manager for intuitive layouts in matplotlib](https://www.reddit.com/r/Python/comments/r84qnc/pathcworklib_a_subplot_manager_for_intuitive/)
 - [Replicating GraphQL using REST, Piccolo, and FastAPI](https://www.reddit.com/r/Python/comments/r84i94/replicating_graphql_using_rest_piccolo_and_fastapi/)
 - [EOmaps - A library to create interactive maps in python](https://www.reddit.com/r/Python/comments/r83pd4/eomaps_a_library_to_create_interactive_maps_in/)
-- [Master Dataclasses in Python Part 1 - Basic Structure and Validation](https://www.reddit.com/r/Python/comments/r81coy/master_dataclasses_in_python_part_1_basic/)
 <!-- BLOG-POST-LIST:END -->
