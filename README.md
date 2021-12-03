@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Master Dataclasses in Python Part 1 - Basic Structure and Validation](https://www.reddit.com/r/Python/comments/r81coy/master_dataclasses_in_python_part_1_basic/)
+- [Simplest task processing queue for Python that works on Windows, Linux, Mac ???](https://www.reddit.com/r/Python/comments/r80aln/simplest_task_processing_queue_for_python_that/)
 - [Distinguishing critical data pipeline tests from metrics. How do you decide what to actually test?](https://www.reddit.com/r/Python/comments/r7zoef/distinguishing_critical_data_pipeline_tests_from/)
 - [Asynchronous python vs asynchronous javascript](https://www.reddit.com/r/Python/comments/r7zdj1/asynchronous_python_vs_asynchronous_javascript/)
 - [I made a news headline fetching tool for your terminal!](https://www.reddit.com/r/Python/comments/r7yzac/i_made_a_news_headline_fetching_tool_for_your/)
-- [Is shutil capable of deleting massive files important for my pc? &lpar;OCD WARNING&rpar;](https://www.reddit.com/r/Python/comments/r7wduz/is_shutil_capable_of_deleting_massive_files/)
-- [i need help with code =&lpar;](https://www.reddit.com/r/Python/comments/r7w2ho/i_need_help_with_code/)
 <!-- BLOG-POST-LIST:END -->
