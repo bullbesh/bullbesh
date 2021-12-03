@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [i need help with code =&lpar;](https://www.reddit.com/r/Python/comments/r7w2ho/i_need_help_with_code/)
+- [How to set up Python Environment?](https://www.reddit.com/r/Python/comments/r7vr6g/how_to_set_up_python_environment/)
 - [I&#39;m Looking to Help Contribute, I am very confident with my skills](https://www.reddit.com/r/Python/comments/r7p2qu/im_looking_to_help_contribute_i_am_very_confident/)
 - [Thumby: A MicroPython Game Console on a Keychain](https://www.reddit.com/r/Python/comments/r7nanb/thumby_a_micropython_game_console_on_a_keychain/)
 - [How to Create An Twitterbot with simpletwitter](https://www.reddit.com/r/Python/comments/r7mtzy/how_to_create_an_twitterbot_with_simpletwitter/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/r7kzwa/friday_daily_thread_free_chat_friday_daily_thread/)
-- [PyBridge](https://www.reddit.com/r/Python/comments/r7kxb2/pybridge/)
 <!-- BLOG-POST-LIST:END -->
