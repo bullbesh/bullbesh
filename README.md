@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do some developers hate python?](https://www.reddit.com/r/Python/comments/r89vna/do_some_developers_hate_python/)
+- [What Is Python? What Is It Good For and Not Along With Some Info/ History](https://www.reddit.com/r/Python/comments/r89lk5/what_is_python_what_is_it_good_for_and_not_along/)
 - [I made a little CLI that prints out my company&#39;s work schedule, and my local work schedule. How would you improve it?](https://www.reddit.com/r/Python/comments/r88ioy/i_made_a_little_cli_that_prints_out_my_companys/)
 - [How much exercise a day to learn ?](https://www.reddit.com/r/Python/comments/r863ps/how_much_exercise_a_day_to_learn/)
 - [School project with programming 3d led cube. With livestream submission from anyone](https://www.reddit.com/r/Python/comments/r85ih9/school_project_with_programming_3d_led_cube_with/)
-- [Pathcworklib: A subplot manager for intuitive layouts in matplotlib](https://www.reddit.com/r/Python/comments/r84qnc/pathcworklib_a_subplot_manager_for_intuitive/)
-- [Replicating GraphQL using REST, Piccolo, and FastAPI](https://www.reddit.com/r/Python/comments/r84i94/replicating_graphql_using_rest_piccolo_and_fastapi/)
 <!-- BLOG-POST-LIST:END -->
