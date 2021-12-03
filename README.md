@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [EOmaps - A library to create interactive maps in python](https://www.reddit.com/r/Python/comments/r83pd4/eomaps_a_library_to_create_interactive_maps_in/)
 - [Master Dataclasses in Python Part 1 - Basic Structure and Validation](https://www.reddit.com/r/Python/comments/r81coy/master_dataclasses_in_python_part_1_basic/)
 - [Simplest task processing queue for Python that works on Windows, Linux, Mac ???](https://www.reddit.com/r/Python/comments/r80aln/simplest_task_processing_queue_for_python_that/)
 - [Distinguishing critical data pipeline tests from metrics. How do you decide what to actually test?](https://www.reddit.com/r/Python/comments/r7zoef/distinguishing_critical_data_pipeline_tests_from/)
 - [Asynchronous python vs asynchronous javascript](https://www.reddit.com/r/Python/comments/r7zdj1/asynchronous_python_vs_asynchronous_javascript/)
-- [I made a news headline fetching tool for your terminal!](https://www.reddit.com/r/Python/comments/r7yzac/i_made_a_news_headline_fetching_tool_for_your/)
 <!-- BLOG-POST-LIST:END -->
