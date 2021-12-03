@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thumby: A MicroPython Game Console on a Keychain](https://www.reddit.com/r/Python/comments/r7nanb/thumby_a_micropython_game_console_on_a_keychain/)
+- [How to Create An Twitterbot with simpletwitter](https://www.reddit.com/r/Python/comments/r7mtzy/how_to_create_an_twitterbot_with_simpletwitter/)
 - [I want to try out Real Time Voice Cloning but the pretrained model zip file is broke](https://www.reddit.com/r/Python/comments/r7lz1f/i_want_to_try_out_real_time_voice_cloning_but_the/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/r7kzwa/friday_daily_thread_free_chat_friday_daily_thread/)
 - [PyBridge](https://www.reddit.com/r/Python/comments/r7kxb2/pybridge/)
-- [First github repository/ first project ticktacktoe game in a terminal](https://www.reddit.com/r/Python/comments/r7jlzu/first_github_repository_first_project_ticktacktoe/)
-- [A quick how-to on calling REST APIs &lpar;to get comet data&rpar;](https://www.reddit.com/r/Python/comments/r7jclr/a_quick_howto_on_calling_rest_apis_to_get_comet/)
 <!-- BLOG-POST-LIST:END -->
