@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Distinguishing critical data pipeline tests from metrics. How do you decide what to actually test?](https://www.reddit.com/r/Python/comments/r7zoef/distinguishing_critical_data_pipeline_tests_from/)
+- [Asynchronous python vs asynchronous javascript](https://www.reddit.com/r/Python/comments/r7zdj1/asynchronous_python_vs_asynchronous_javascript/)
 - [I made a news headline fetching tool for your terminal!](https://www.reddit.com/r/Python/comments/r7yzac/i_made_a_news_headline_fetching_tool_for_your/)
 - [Is shutil capable of deleting massive files important for my pc? &lpar;OCD WARNING&rpar;](https://www.reddit.com/r/Python/comments/r7wduz/is_shutil_capable_of_deleting_massive_files/)
 - [i need help with code =&lpar;](https://www.reddit.com/r/Python/comments/r7w2ho/i_need_help_with_code/)
-- [I&#39;m Looking to Help Contribute, I am very confident with my skills](https://www.reddit.com/r/Python/comments/r7p2qu/im_looking_to_help_contribute_i_am_very_confident/)
-- [Thumby: A MicroPython Game Console on a Keychain](https://www.reddit.com/r/Python/comments/r7nanb/thumby_a_micropython_game_console_on_a_keychain/)
 <!-- BLOG-POST-LIST:END -->
