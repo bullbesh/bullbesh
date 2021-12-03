@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [School project with programming 3d led cube. With livestream submission from anyone](https://www.reddit.com/r/Python/comments/r85ih9/school_project_with_programming_3d_led_cube_with/)
+- [Pathcworklib: A subplot manager for intuitive layouts in matplotlib](https://www.reddit.com/r/Python/comments/r84qnc/pathcworklib_a_subplot_manager_for_intuitive/)
+- [Replicating GraphQL using REST, Piccolo, and FastAPI](https://www.reddit.com/r/Python/comments/r84i94/replicating_graphql_using_rest_piccolo_and_fastapi/)
 - [EOmaps - A library to create interactive maps in python](https://www.reddit.com/r/Python/comments/r83pd4/eomaps_a_library_to_create_interactive_maps_in/)
 - [Master Dataclasses in Python Part 1 - Basic Structure and Validation](https://www.reddit.com/r/Python/comments/r81coy/master_dataclasses_in_python_part_1_basic/)
-- [Simplest task processing queue for Python that works on Windows, Linux, Mac ???](https://www.reddit.com/r/Python/comments/r80aln/simplest_task_processing_queue_for_python_that/)
-- [Distinguishing critical data pipeline tests from metrics. How do you decide what to actually test?](https://www.reddit.com/r/Python/comments/r7zoef/distinguishing_critical_data_pipeline_tests_from/)
-- [Asynchronous python vs asynchronous javascript](https://www.reddit.com/r/Python/comments/r7zdj1/asynchronous_python_vs_asynchronous_javascript/)
 <!-- BLOG-POST-LIST:END -->
