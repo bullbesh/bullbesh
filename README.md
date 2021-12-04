@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [7 proven methods to reverse the python string in 2021](https://www.reddit.com/r/Python/comments/r8hb5n/7_proven_methods_to_reverse_the_python_string_in/)
+- [Crypto Gambling Website with Flask](https://www.reddit.com/r/Python/comments/r8gd3q/crypto_gambling_website_with_flask/)
 - [Today it clicked](https://www.reddit.com/r/Python/comments/r8fsxy/today_it_clicked/)
 - [Automating google maps using selenium in python](https://www.reddit.com/r/Python/comments/r8f62k/automating_google_maps_using_selenium_in_python/)
 - [Which data structure can contain objects within it?](https://www.reddit.com/r/Python/comments/r8dxdi/which_data_structure_can_contain_objects_within_it/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/r8cjub/saturday_daily_thread_resource_request_and/)
-- [When writing a unit test in Python with the unittest module, what class should your test class inherit from?](https://www.reddit.com/r/Python/comments/r8cgzk/when_writing_a_unit_test_in_python_with_the/)
 <!-- BLOG-POST-LIST:END -->
