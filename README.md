@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What IDE do you use to code Python?](https://www.reddit.com/r/Python/comments/r8oclw/what_ide_do_you_use_to_code_python/)
+- [HOW DO I CONNECT MY PYTHON CODE WITH REST API OR &lpar;FLASK API&rpar;](https://www.reddit.com/r/Python/comments/r8nsbd/how_do_i_connect_my_python_code_with_rest_api_or/)
 - [PyInstaller bundles Python applications](https://www.reddit.com/r/Python/comments/r8nb4w/pyinstaller_bundles_python_applications/)
 - [Developing A Spam Detection Application — Python Machine Learning For Beginners](https://www.reddit.com/r/Python/comments/r8nas1/developing_a_spam_detection_application_python/)
 - [How to simplify data integration/ ingestion and data transformation](https://www.reddit.com/r/Python/comments/r8mrej/how_to_simplify_data_integration_ingestion_and/)
-- [What are the features of Python?](https://www.reddit.com/r/Python/comments/r8m80g/what_are_the_features_of_python/)
-- [Why is Python called an interpreted language?](https://www.reddit.com/r/Python/comments/r8lbgp/why_is_python_called_an_interpreted_language/)
 <!-- BLOG-POST-LIST:END -->
