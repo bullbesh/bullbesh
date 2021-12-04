@@ -19,5 +19,5 @@
 - [GitHub - nerdvegas/rez: An integrated package configuration, build and deployment system for software](https://www.reddit.com/r/Python/comments/r8uc73/github_nerdvegasrez_an_integrated_package/)
 - [Best Projects for learning](https://www.reddit.com/r/Python/comments/r8tgw3/best_projects_for_learning/)
 - [Python guide to download NFT data from OpenSea &lpar;assets, collections, events, bundles&rpar;](https://www.reddit.com/r/Python/comments/r8suqs/python_guide_to_download_nft_data_from_opensea/)
-- [Code Against Child Abuse!](https://www.reddit.com/r/Python/comments/r8r19w/code_against_child_abuse/)
+- [Trading bot, Python! Looking for new team members! We already have backtester, live trader and promising strategy :&rpar;](https://www.reddit.com/r/Python/comments/r8pe1f/trading_bot_python_looking_for_new_team_members/)
 <!-- BLOG-POST-LIST:END -->
