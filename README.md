@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python guide to download NFT data from OpenSea &lpar;assets, collections, events, bundles&rpar;](https://www.reddit.com/r/Python/comments/r8suqs/python_guide_to_download_nft_data_from_opensea/)
 - [Code Against Child Abuse!](https://www.reddit.com/r/Python/comments/r8r19w/code_against_child_abuse/)
 - [Trading bot, Python! Looking for new team members! We already have backtester, live trader and promising strategy :&rpar;](https://www.reddit.com/r/Python/comments/r8pe1f/trading_bot_python_looking_for_new_team_members/)
 - [What IDE do you use to code Python?](https://www.reddit.com/r/Python/comments/r8oclw/what_ide_do_you_use_to_code_python/)
 - [HOW DO I CONNECT MY PYTHON CODE WITH REST API OR &lpar;FLASK API&rpar;](https://www.reddit.com/r/Python/comments/r8nsbd/how_do_i_connect_my_python_code_with_rest_api_or/)
-- [PyInstaller bundles Python applications](https://www.reddit.com/r/Python/comments/r8nb4w/pyinstaller_bundles_python_applications/)
 <!-- BLOG-POST-LIST:END -->
