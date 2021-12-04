@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trading bot, Python! Looking for new team members! We already have backtester, live trader and promising strategy :&rpar;](https://www.reddit.com/r/Python/comments/r8pe1f/trading_bot_python_looking_for_new_team_members/)
 - [What IDE do you use to code Python?](https://www.reddit.com/r/Python/comments/r8oclw/what_ide_do_you_use_to_code_python/)
 - [HOW DO I CONNECT MY PYTHON CODE WITH REST API OR &lpar;FLASK API&rpar;](https://www.reddit.com/r/Python/comments/r8nsbd/how_do_i_connect_my_python_code_with_rest_api_or/)
 - [PyInstaller bundles Python applications](https://www.reddit.com/r/Python/comments/r8nb4w/pyinstaller_bundles_python_applications/)
 - [Developing A Spam Detection Application — Python Machine Learning For Beginners](https://www.reddit.com/r/Python/comments/r8nas1/developing_a_spam_detection_application_python/)
-- [How to simplify data integration/ ingestion and data transformation](https://www.reddit.com/r/Python/comments/r8mrej/how_to_simplify_data_integration_ingestion_and/)
 <!-- BLOG-POST-LIST:END -->
