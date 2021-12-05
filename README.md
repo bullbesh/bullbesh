@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Advantages and Disadvantages of Python](https://www.reddit.com/r/Python/comments/r9cys2/advantages_and_disadvantages_of_python/)
-- [One week of programming... without a computer](https://www.reddit.com/r/Python/comments/r9cvio/one_week_of_programming_without_a_computer/)
-- [Creating Scalable Machine Learning Systems for Analyzing Real-time data in Python — Part 1](https://www.reddit.com/r/Python/comments/r9cqv1/creating_scalable_machine_learning_systems_for/)
-- [Show Reddit: I am writing a REST Client for microservices](https://www.reddit.com/r/Python/comments/r9cnzu/show_reddit_i_am_writing_a_rest_client_for/)
-- [DIVI Interpreter](https://www.reddit.com/r/Python/comments/r9bxuy/divi_interpreter/)
+- [Need help with visualizing data on a choropleth map in altair.](https://www.reddit.com/r/Python/comments/r9fn9g/need_help_with_visualizing_data_on_a_choropleth/)
+- [Build a Live Streaming App with Python](https://www.reddit.com/r/Python/comments/r9fjkm/build_a_live_streaming_app_with_python/)
+- [The story of my first python package](https://www.reddit.com/r/Python/comments/r9fdzy/the_story_of_my_first_python_package/)
+- [Marketing Tool for Creators and Content Creators: Leadfeeder](https://www.reddit.com/r/Python/comments/r9f3h0/marketing_tool_for_creators_and_content_creators/)
+- [Black Holes and Python3.10](https://www.reddit.com/r/Python/comments/r9esb2/black_holes_and_python310/)
 <!-- BLOG-POST-LIST:END -->
