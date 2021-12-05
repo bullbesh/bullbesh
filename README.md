@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wrote a short shell script to get the latest version of a pip package on PyPI. What tools have you created to manage pip dependencies?](https://www.reddit.com/r/Python/comments/r9b4om/wrote_a_short_shell_script_to_get_the_latest/)
 - [A new way to do documentation](https://www.reddit.com/r/Python/comments/r99zk7/a_new_way_to_do_documentation/)
 - [Create Thumbnail of Images kept in AWS S3 using AWS Lambda and Python: Part 2](https://www.reddit.com/r/Python/comments/r995tz/create_thumbnail_of_images_kept_in_aws_s3_using/)
 - [ogr2ogr – A simple and powerful command line tool to transform your Geographic Data](https://www.reddit.com/r/Python/comments/r98kjj/ogr2ogr_a_simple_and_powerful_command_line_tool/)
 - [Working on Discord bot to control local minecraft server](https://www.reddit.com/r/Python/comments/r97oju/working_on_discord_bot_to_control_local_minecraft/)
-- [HOW TO MAKE PONG IN PYTHON and PYGAME! &lpar;15 Min&rpar;](https://www.reddit.com/r/Python/comments/r965xs/how_to_make_pong_in_python_and_pygame_15_min/)
 <!-- BLOG-POST-LIST:END -->
