@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advantages and Disadvantages of Python](https://www.reddit.com/r/Python/comments/r9cys2/advantages_and_disadvantages_of_python/)
 - [One week of programming... without a computer](https://www.reddit.com/r/Python/comments/r9cvio/one_week_of_programming_without_a_computer/)
 - [Creating Scalable Machine Learning Systems for Analyzing Real-time data in Python — Part 1](https://www.reddit.com/r/Python/comments/r9cqv1/creating_scalable_machine_learning_systems_for/)
 - [Show Reddit: I am writing a REST Client for microservices](https://www.reddit.com/r/Python/comments/r9cnzu/show_reddit_i_am_writing_a_rest_client_for/)
 - [DIVI Interpreter](https://www.reddit.com/r/Python/comments/r9bxuy/divi_interpreter/)
-- [Wrote a short shell script to get the latest version of a pip package on PyPI. What tools have you created to manage pip dependencies?](https://www.reddit.com/r/Python/comments/r9b4om/wrote_a_short_shell_script_to_get_the_latest/)
 <!-- BLOG-POST-LIST:END -->
