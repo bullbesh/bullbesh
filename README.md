@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HOW TO MAKE PONG IN PYTHON and PYGAME! &lpar;15 Min&rpar;](https://www.reddit.com/r/Python/comments/r965xs/how_to_make_pong_in_python_and_pygame_15_min/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/r92oce/sunday_daily_thread_whats_everyone_working_on/)
 - [Can you please rate my library?](https://www.reddit.com/r/Python/comments/r90rz9/can_you_please_rate_my_library/)
 - [Pyjamas Conference: The virtual, free, and lazy conference where you can attend in your Pyjamas](https://www.reddit.com/r/Python/comments/r8xbwj/pyjamas_conference_the_virtual_free_and_lazy/)
 - [Python C Extensions Debugging Tutorial](https://www.reddit.com/r/Python/comments/r8x0a5/python_c_extensions_debugging_tutorial/)
-- [Historical Crypto candlestick/OHLC data from Bitstamp in Python](https://www.reddit.com/r/Python/comments/r8w63f/historical_crypto_candlestickohlc_data_from/)
 <!-- BLOG-POST-LIST:END -->
