@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I dont know why, but i calculated the 69420th number in Fibonacci Sequence... took around 10 minutes to calculate... im a beginner so thats why it took so long since it wasnt optimalized](https://www.reddit.com/r/Python/comments/r9h8o6/i_dont_know_why_but_i_calculated_the_69420th/)
+- [What you can do to come as close as possible to mastering Python 🐍](https://www.reddit.com/r/Python/comments/r9gxte/what_you_can_do_to_come_as_close_as_possible_to/)
 - [Python OOP example: Car engine simulation for beginners](https://www.reddit.com/r/Python/comments/r9g8cg/python_oop_example_car_engine_simulation_for/)
 - [filedate - Simple, convenient and cross-platform file date changing library](https://www.reddit.com/r/Python/comments/r9fq6a/filedate_simple_convenient_and_crossplatform_file/)
 - [Need help with visualizing data on a choropleth map in altair.](https://www.reddit.com/r/Python/comments/r9fn9g/need_help_with_visualizing_data_on_a_choropleth/)
-- [Build a Live Streaming App with Python](https://www.reddit.com/r/Python/comments/r9fjkm/build_a_live_streaming_app_with_python/)
-- [The story of my first python package](https://www.reddit.com/r/Python/comments/r9fdzy/the_story_of_my_first_python_package/)
 <!-- BLOG-POST-LIST:END -->
