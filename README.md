@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [using pytz](https://www.reddit.com/r/Python/comments/r9ox9d/using_pytz/)
+- [Advice: 5 Simple techniques for data reorganization, using group by | Solved business problems with code examples](https://www.reddit.com/r/Python/comments/r9or26/advice_5_simple_techniques_for_data/)
+- [Created a handy little password generator which creates a random password according to the number of characters you need and copies it to your clipboard.](https://www.reddit.com/r/Python/comments/r9onh8/created_a_handy_little_password_generator_which/)
 - [Streamlining the execution of sets of bash commands with varying arguments](https://www.reddit.com/r/Python/comments/r9m96k/streamlining_the_execution_of_sets_of_bash/)
 - [Learn everything about Python Dictionary data structure!](https://www.reddit.com/r/Python/comments/r9l3wi/learn_everything_about_python_dictionary_data/)
-- [Why is python not a compiled language?](https://www.reddit.com/r/Python/comments/r9kr8c/why_is_python_not_a_compiled_language/)
-- [What you can do to come as close as possible to mastering Python 🐍](https://www.reddit.com/r/Python/comments/r9gxte/what_you_can_do_to_come_as_close_as_possible_to/)
-- [Python OOP example: Car engine simulation for beginners](https://www.reddit.com/r/Python/comments/r9g8cg/python_oop_example_car_engine_simulation_for/)
 <!-- BLOG-POST-LIST:END -->
