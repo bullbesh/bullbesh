@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create Thumbnail of Images kept in AWS S3 using AWS Lambda and Python: Part 2](https://www.reddit.com/r/Python/comments/r995tz/create_thumbnail_of_images_kept_in_aws_s3_using/)
+- [ogr2ogr – A simple and powerful command line tool to transform your Geographic Data](https://www.reddit.com/r/Python/comments/r98kjj/ogr2ogr_a_simple_and_powerful_command_line_tool/)
 - [Looking for a how to&#39;s | data manipulation | postgres with python](https://www.reddit.com/r/Python/comments/r97p22/looking_for_a_how_tos_data_manipulation_postgres/)
 - [Working on Discord bot to control local minecraft server](https://www.reddit.com/r/Python/comments/r97oju/working_on_discord_bot_to_control_local_minecraft/)
 - [HOW TO MAKE PONG IN PYTHON and PYGAME! &lpar;15 Min&rpar;](https://www.reddit.com/r/Python/comments/r965xs/how_to_make_pong_in_python_and_pygame_15_min/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/r92oce/sunday_daily_thread_whats_everyone_working_on/)
-- [Can you please rate my library?](https://www.reddit.com/r/Python/comments/r90rz9/can_you_please_rate_my_library/)
 <!-- BLOG-POST-LIST:END -->
