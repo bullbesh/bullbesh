@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python power-up: new image tool visualizes complex data](https://www.reddit.com/r/Python/comments/ra95ww/python_powerup_new_image_tool_visualizes_complex/)
-- [[Code Link in Description] In this you will learn how gradient descent works how learning rate and iteration factors affect the result. All this while visualising. hope you guys will like it](https://www.reddit.com/r/Python/comments/ra7r5s/code_link_in_description_in_this_you_will_learn/)
-- [GitHub - rock-learning/pytransform3d: 3D transformations for Python](https://www.reddit.com/r/Python/comments/ra4ieh/github_rocklearningpytransform3d_3d/)
-- [GitHub - Stora: A simple, reactive local storage library](https://www.reddit.com/r/Python/comments/ra49ib/github_stora_a_simple_reactive_local_storage/)
-- [How to Cultivate Analytics at Work by Transforming Data Instantly, With no Lag](https://www.reddit.com/r/Python/comments/ra43c7/how_to_cultivate_analytics_at_work_by/)
+- [Does GitHub Copilot show that withboard interviews are outdated?](https://www.reddit.com/r/Python/comments/raay7q/does_github_copilot_show_that_withboard/)
+- [Libraries that are Fun to Use! - my Advent of Code videos of happy things](https://www.reddit.com/r/Python/comments/raatx1/libraries_that_are_fun_to_use_my_advent_of_code/)
+- [I put together a tutorial on how to build models with PyTorch Lightning, and how it compares to vanilla PyTorch](https://www.reddit.com/r/Python/comments/raaq4a/i_put_together_a_tutorial_on_how_to_build_models/)
+- [Is the Pyramid framework dead?](https://www.reddit.com/r/Python/comments/raabcb/is_the_pyramid_framework_dead/)
+- [How-To Build a Reddit Bot](https://www.reddit.com/r/Python/comments/raa9bw/howto_build_a_reddit_bot/)
 <!-- BLOG-POST-LIST:END -->
