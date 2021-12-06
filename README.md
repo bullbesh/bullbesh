@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Python really &#39;too slow&#39;?](https://www.reddit.com/r/Python/comments/ra2aqh/is_python_really_too_slow/)
 - [Python Implementations and Infographic Explanations of Ten Popular Machine Learning Algorithms](https://www.reddit.com/r/Python/comments/ra0trw/python_implementations_and_infographic/)
 - [[Tutorial] Pokemon Shining Pearl AI Demonstration and You get to Learn to Create a Custom Object Detector that can work on any game!](https://www.reddit.com/r/Python/comments/r9ztc6/tutorial_pokemon_shining_pearl_ai_demonstration/)
 - [Python3.7 smtplib new server wont connect](https://www.reddit.com/r/Python/comments/r9ygq8/python37_smtplib_new_server_wont_connect/)
 - [Best GUI framework for my school project?](https://www.reddit.com/r/Python/comments/r9xvwk/best_gui_framework_for_my_school_project/)
-- [Bifurcation Diagram](https://www.reddit.com/r/Python/comments/r9ub6m/bifurcation_diagram/)
 <!-- BLOG-POST-LIST:END -->
