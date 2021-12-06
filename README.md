@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How can i come up with ideas for projects?](https://www.reddit.com/r/Python/comments/rafgq6/how_can_i_come_up_with_ideas_for_projects/)
+- [How to easily make bar chart race with Python](https://www.reddit.com/r/Python/comments/raff18/how_to_easily_make_bar_chart_race_with_python/)
+- [Learn how to build a fully connected neural network from scratch in Python 3 &lpar;adapted from Michael Nielson&#39;s Neural Networks and Deep Learning book with Python 2&rpar;](https://www.reddit.com/r/Python/comments/raf7bn/learn_how_to_build_a_fully_connected_neural/)
 - [Recommend course?](https://www.reddit.com/r/Python/comments/rae10n/recommend_course/)
 - [Old guy programmer here, need to brush up on Python quickly!](https://www.reddit.com/r/Python/comments/radst2/old_guy_programmer_here_need_to_brush_up_on/)
-- [Get heart shape plotted in Matplotlib](https://www.reddit.com/r/Python/comments/rac21z/get_heart_shape_plotted_in_matplotlib/)
-- [Does GitHub Copilot show that withboard interviews are outdated?](https://www.reddit.com/r/Python/comments/raay7q/does_github_copilot_show_that_withboard/)
-- [Libraries that are Fun to Use! - my Advent of Code videos of happy things](https://www.reddit.com/r/Python/comments/raatx1/libraries_that_are_fun_to_use_my_advent_of_code/)
 <!-- BLOG-POST-LIST:END -->
