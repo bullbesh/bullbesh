@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to install Python 3.8 from Gzipped source tarball file?](https://www.reddit.com/r/Python/comments/ra6l7q/how_to_install_python_38_from_gzipped_source/)
 - [Does GMail API support reply function?](https://www.reddit.com/r/Python/comments/ra635n/does_gmail_api_support_reply_function/)
 - [Python Data Structures](https://www.reddit.com/r/Python/comments/ra5pbl/python_data_structures/)
 - [Chance JS or similar for Python?](https://www.reddit.com/r/Python/comments/ra5p4q/chance_js_or_similar_for_python/)
 - [GitHub - rock-learning/pytransform3d: 3D transformations for Python](https://www.reddit.com/r/Python/comments/ra4ieh/github_rocklearningpytransform3d_3d/)
-- [Trading Bot, we already did a lot and now looking for a new team member! Please join, we all share the source code as our reward!](https://www.reddit.com/r/Python/comments/ra4fns/trading_bot_we_already_did_a_lot_and_now_looking/)
 <!-- BLOG-POST-LIST:END -->
