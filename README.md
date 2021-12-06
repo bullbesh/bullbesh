@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [using pytz](https://www.reddit.com/r/Python/comments/r9ox9d/using_pytz/)
-- [Advice: 5 Simple techniques for data reorganization, using group by | Solved business problems with code examples](https://www.reddit.com/r/Python/comments/r9or26/advice_5_simple_techniques_for_data/)
-- [Created a handy little password generator which creates a random password according to the number of characters you need and copies it to your clipboard.](https://www.reddit.com/r/Python/comments/r9onh8/created_a_handy_little_password_generator_which/)
-- [Streamlining the execution of sets of bash commands with varying arguments](https://www.reddit.com/r/Python/comments/r9m96k/streamlining_the_execution_of_sets_of_bash/)
-- [Learn everything about Python Dictionary data structure!](https://www.reddit.com/r/Python/comments/r9l3wi/learn_everything_about_python_dictionary_data/)
+- [Bifurcation Diagram](https://www.reddit.com/r/Python/comments/r9ub6m/bifurcation_diagram/)
+- [RkBlog :: Scripting LCD on Wio Terminal with ArduPy](https://www.reddit.com/r/Python/comments/r9u7sp/rkblog_scripting_lcd_on_wio_terminal_with_ardupy/)
+- [Learn Python 3 the Hard Way](https://www.reddit.com/r/Python/comments/r9u45h/learn_python_3_the_hard_way/)
+- [How can I help my friends consulting company with Python?](https://www.reddit.com/r/Python/comments/r9u0yf/how_can_i_help_my_friends_consulting_company_with/)
+- [Chi-square attack on steganography images](https://www.reddit.com/r/Python/comments/r9tcp4/chisquare_attack_on_steganography_images/)
 <!-- BLOG-POST-LIST:END -->
