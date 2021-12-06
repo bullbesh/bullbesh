@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What can you do with Python?](https://www.reddit.com/r/Python/comments/rajixu/what_can_you_do_with_python/)
+- [Arcade 2.6.6 has been released](https://www.reddit.com/r/Python/comments/rajfph/arcade_266_has_been_released/)
 - [Five Fun Copilot Tricks in Python](https://www.reddit.com/r/Python/comments/rair9b/five_fun_copilot_tricks_in_python/)
 - [Effective way to read documentation or do a tutorial on a smartphone](https://www.reddit.com/r/Python/comments/raij09/effective_way_to_read_documentation_or_do_a/)
-- [How to make date number to name like so](https://www.reddit.com/r/Python/comments/rahxz6/how_to_make_date_number_to_name_like_so/)
-- [my docstring seems too long and confusing. any advice for improvements?](https://www.reddit.com/r/Python/comments/rahlg8/my_docstring_seems_too_long_and_confusing_any/)
-- [How can i come up with ideas for projects?](https://www.reddit.com/r/Python/comments/rafgq6/how_can_i_come_up_with_ideas_for_projects/)
+- [Learn how to build a fully connected neural network from scratch in Python 3 &lpar;adapted from Michael Nielson&#39;s Neural Networks and Deep Learning book with Python 2&rpar;](https://www.reddit.com/r/Python/comments/raf7bn/learn_how_to_build_a_fully_connected_neural/)
 <!-- BLOG-POST-LIST:END -->
