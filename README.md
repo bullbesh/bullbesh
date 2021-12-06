@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python3.7 smtplib new server wont connect](https://www.reddit.com/r/Python/comments/r9ygq8/python37_smtplib_new_server_wont_connect/)
+- [Best GUI framework for my school project?](https://www.reddit.com/r/Python/comments/r9xvwk/best_gui_framework_for_my_school_project/)
 - [Bifurcation Diagram](https://www.reddit.com/r/Python/comments/r9ub6m/bifurcation_diagram/)
 - [RkBlog :: Scripting LCD on Wio Terminal with ArduPy](https://www.reddit.com/r/Python/comments/r9u7sp/rkblog_scripting_lcd_on_wio_terminal_with_ardupy/)
 - [Learn Python 3 the Hard Way](https://www.reddit.com/r/Python/comments/r9u45h/learn_python_3_the_hard_way/)
-- [How can I help my friends consulting company with Python?](https://www.reddit.com/r/Python/comments/r9u0yf/how_can_i_help_my_friends_consulting_company_with/)
-- [Chi-square attack on steganography images](https://www.reddit.com/r/Python/comments/r9tcp4/chisquare_attack_on_steganography_images/)
 <!-- BLOG-POST-LIST:END -->
