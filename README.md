@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does GMail API support reply function?](https://www.reddit.com/r/Python/comments/ra635n/does_gmail_api_support_reply_function/)
+- [Python Data Structures](https://www.reddit.com/r/Python/comments/ra5pbl/python_data_structures/)
+- [Chance JS or similar for Python?](https://www.reddit.com/r/Python/comments/ra5p4q/chance_js_or_similar_for_python/)
 - [GitHub - rock-learning/pytransform3d: 3D transformations for Python](https://www.reddit.com/r/Python/comments/ra4ieh/github_rocklearningpytransform3d_3d/)
 - [Trading Bot, we already did a lot and now looking for a new team member! Please join, we all share the source code as our reward!](https://www.reddit.com/r/Python/comments/ra4fns/trading_bot_we_already_did_a_lot_and_now_looking/)
-- [GitHub - Stora: A simple, reactive local storage library](https://www.reddit.com/r/Python/comments/ra49ib/github_stora_a_simple_reactive_local_storage/)
-- [How to Cultivate Analytics at Work by Transforming Data Instantly, With no Lag](https://www.reddit.com/r/Python/comments/ra43c7/how_to_cultivate_analytics_at_work_by/)
-- [Numba doesn&#39;t execute code properly](https://www.reddit.com/r/Python/comments/ra41sc/numba_doesnt_execute_code_properly/)
 <!-- BLOG-POST-LIST:END -->
