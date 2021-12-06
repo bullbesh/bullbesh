@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python power-up: new image tool visualizes complex data](https://www.reddit.com/r/Python/comments/ra95ww/python_powerup_new_image_tool_visualizes_complex/)
 - [[Code Link in Description] In this you will learn how gradient descent works how learning rate and iteration factors affect the result. All this while visualising. hope you guys will like it](https://www.reddit.com/r/Python/comments/ra7r5s/code_link_in_description_in_this_you_will_learn/)
-- [How to install Python 3.8 from Gzipped source tarball file?](https://www.reddit.com/r/Python/comments/ra6l7q/how_to_install_python_38_from_gzipped_source/)
-- [Does GMail API support reply function?](https://www.reddit.com/r/Python/comments/ra635n/does_gmail_api_support_reply_function/)
-- [Python Data Structures](https://www.reddit.com/r/Python/comments/ra5pbl/python_data_structures/)
-- [Chance JS or similar for Python?](https://www.reddit.com/r/Python/comments/ra5p4q/chance_js_or_similar_for_python/)
+- [GitHub - rock-learning/pytransform3d: 3D transformations for Python](https://www.reddit.com/r/Python/comments/ra4ieh/github_rocklearningpytransform3d_3d/)
+- [GitHub - Stora: A simple, reactive local storage library](https://www.reddit.com/r/Python/comments/ra49ib/github_stora_a_simple_reactive_local_storage/)
+- [How to Cultivate Analytics at Work by Transforming Data Instantly, With no Lag](https://www.reddit.com/r/Python/comments/ra43c7/how_to_cultivate_analytics_at_work_by/)
 <!-- BLOG-POST-LIST:END -->
