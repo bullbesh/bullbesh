@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django 4.0 released](https://www.reddit.com/r/Python/comments/rb3oqc/django_40_released/)
 - [Pandas Tutor - visualize Python pandas code](https://www.reddit.com/r/Python/comments/rb2o62/pandas_tutor_visualize_python_pandas_code/)
 - [Gradient Descent understanding and practical working in python](https://www.reddit.com/r/Python/comments/rb2lc5/gradient_descent_understanding_and_practical/)
 - [Roadmap For a Python Developer](https://www.reddit.com/r/Python/comments/rb2j7t/roadmap_for_a_python_developer/)
 - [Learn something new every time you open the Python interpreter.](https://www.reddit.com/r/Python/comments/rb1o77/learn_something_new_every_time_you_open_the/)
-- [Happy to be learning! Some appreciation and some questions.](https://www.reddit.com/r/Python/comments/rb0k7a/happy_to_be_learning_some_appreciation_and_some/)
 <!-- BLOG-POST-LIST:END -->
