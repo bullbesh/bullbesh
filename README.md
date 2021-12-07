@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [When does a web framework needs async?](https://www.reddit.com/r/Python/comments/ramey9/when_does_a_web_framework_needs_async/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/ralil3/tuesday_daily_thread_advanced_questions/)
+- [advanced Python course](https://www.reddit.com/r/Python/comments/ral5su/advanced_python_course/)
 - [What can you do with Python?](https://www.reddit.com/r/Python/comments/rajixu/what_can_you_do_with_python/)
 - [Arcade 2.6.6 has been released](https://www.reddit.com/r/Python/comments/rajfph/arcade_266_has_been_released/)
-- [Five Fun Copilot Tricks in Python](https://www.reddit.com/r/Python/comments/rair9b/five_fun_copilot_tricks_in_python/)
-- [Effective way to read documentation or do a tutorial on a smartphone](https://www.reddit.com/r/Python/comments/raij09/effective_way_to_read_documentation_or_do_a/)
-- [Learn how to build a fully connected neural network from scratch in Python 3 &lpar;adapted from Michael Nielson&#39;s Neural Networks and Deep Learning book with Python 2&rpar;](https://www.reddit.com/r/Python/comments/raf7bn/learn_how_to_build_a_fully_connected_neural/)
 <!-- BLOG-POST-LIST:END -->
