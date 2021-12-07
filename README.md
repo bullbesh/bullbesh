@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas Tutor - visualize Python pandas code](https://www.reddit.com/r/Python/comments/rb2o62/pandas_tutor_visualize_python_pandas_code/)
+- [Gradient Descent understanding and practical working in python](https://www.reddit.com/r/Python/comments/rb2lc5/gradient_descent_understanding_and_practical/)
+- [Roadmap For a Python Developer](https://www.reddit.com/r/Python/comments/rb2j7t/roadmap_for_a_python_developer/)
+- [Learn something new every time you open the Python interpreter.](https://www.reddit.com/r/Python/comments/rb1o77/learn_something_new_every_time_you_open_the/)
 - [Happy to be learning! Some appreciation and some questions.](https://www.reddit.com/r/Python/comments/rb0k7a/happy_to_be_learning_some_appreciation_and_some/)
-- [Running Python from Google Sheets](https://www.reddit.com/r/Python/comments/rb0hup/running_python_from_google_sheets/)
-- [Trying to replicate =PRICE formula from Excel into Python](https://www.reddit.com/r/Python/comments/rb0ak8/trying_to_replicate_price_formula_from_excel_into/)
-- [New Python Scrapy Extension &amp; Dashboard For Job Monitoring, Health Checks, Alerts &amp; Scheduling](https://www.reddit.com/r/Python/comments/razsvv/new_python_scrapy_extension_dashboard_for_job/)
-- [Prettify Your Data Structures With Pretty Print in Python – Real Python](https://www.reddit.com/r/Python/comments/razkdk/prettify_your_data_structures_with_pretty_print/)
 <!-- BLOG-POST-LIST:END -->
