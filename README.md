@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Advent Of Code Toolkit](https://www.reddit.com/r/Python/comments/rav1o8/advent_of_code_toolkit/)
-- [Project suggestions,](https://www.reddit.com/r/Python/comments/rav03m/project_suggestions/)
-- [What will be my options if I only learn python and know no other language?](https://www.reddit.com/r/Python/comments/raur2p/what_will_be_my_options_if_i_only_learn_python/)
-- [A Collection of Top Python Tkinter Tutorials For Beginners in 2021](https://www.reddit.com/r/Python/comments/rauboa/a_collection_of_top_python_tkinter_tutorials_for/)
-- [GitHub - zseta/python-opensea: Python wrapper for the OpenSea API](https://www.reddit.com/r/Python/comments/rattcx/github_zsetapythonopensea_python_wrapper_for_the/)
+- [3 GUI frameworks for writing user-friendly applications in Python](https://www.reddit.com/r/Python/comments/ravxve/3_gui_frameworks_for_writing_userfriendly/)
+- [Packaging applications to install on other machines with Python](https://www.reddit.com/r/Python/comments/ravxn3/packaging_applications_to_install_on_other/)
+- [Writing and unit testing a Python application to query the RPM database](https://www.reddit.com/r/Python/comments/ravxes/writing_and_unit_testing_a_python_application_to/)
+- [Learning Python without writing code all the time](https://www.reddit.com/r/Python/comments/ravoyr/learning_python_without_writing_code_all_the_time/)
+- [Why we choose FastAPI over Flask for building ML applications](https://www.reddit.com/r/Python/comments/ravkys/why_we_choose_fastapi_over_flask_for_building_ml/)
 <!-- BLOG-POST-LIST:END -->
