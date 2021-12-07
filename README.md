@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Essential Python Development 2021 Trends](https://www.reddit.com/r/Python/comments/raqehw/top_7_essential_python_development_2021_trends/)
 - [When does a web framework needs async?](https://www.reddit.com/r/Python/comments/ramey9/when_does_a_web_framework_needs_async/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/ralil3/tuesday_daily_thread_advanced_questions/)
 - [advanced Python course](https://www.reddit.com/r/Python/comments/ral5su/advanced_python_course/)
 - [What can you do with Python?](https://www.reddit.com/r/Python/comments/rajixu/what_can_you_do_with_python/)
-- [Arcade 2.6.6 has been released](https://www.reddit.com/r/Python/comments/rajfph/arcade_266_has_been_released/)
 <!-- BLOG-POST-LIST:END -->
