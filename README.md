@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Book‘s name for data science exercises in python](https://www.reddit.com/r/Python/comments/rb5rvd/books_name_for_data_science_exercises_in_python/)
 - [Django App to Create Signals to Send Emails from the Admin Panel](https://www.reddit.com/r/Python/comments/rb57ko/django_app_to_create_signals_to_send_emails_from/)
 - [Django 4.0 released](https://www.reddit.com/r/Python/comments/rb3oqc/django_40_released/)
 - [Pandas Tutor - visualize Python pandas code](https://www.reddit.com/r/Python/comments/rb2o62/pandas_tutor_visualize_python_pandas_code/)
 - [Roadmap For a Python Developer](https://www.reddit.com/r/Python/comments/rb2j7t/roadmap_for_a_python_developer/)
-- [Learn something new every time you open the Python interpreter.](https://www.reddit.com/r/Python/comments/rb1o77/learn_something_new_every_time_you_open_the/)
 <!-- BLOG-POST-LIST:END -->
