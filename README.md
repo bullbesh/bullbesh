@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a GraphQL API with Python, Flask, and Ariadne](https://www.reddit.com/r/Python/comments/rb9izz/build_a_graphql_api_with_python_flask_and_ariadne/)
 - [How to Stop All Tasks if One Task Fails in the ThreadPoolExecutor](https://www.reddit.com/r/Python/comments/rb7ohh/how_to_stop_all_tasks_if_one_task_fails_in_the/)
 - [What would you like to see in an api framework?](https://www.reddit.com/r/Python/comments/rb7736/what_would_you_like_to_see_in_an_api_framework/)
 - [Book‘s name for data science exercises in python](https://www.reddit.com/r/Python/comments/rb5rvd/books_name_for_data_science_exercises_in_python/)
 - [Django App to Create Signals to Send Emails from the Admin Panel](https://www.reddit.com/r/Python/comments/rb57ko/django_app_to_create_signals_to_send_emails_from/)
-- [Django 4.0 released](https://www.reddit.com/r/Python/comments/rb3oqc/django_40_released/)
 <!-- BLOG-POST-LIST:END -->
