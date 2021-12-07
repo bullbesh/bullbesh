@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open-Source board for converting RaspberryPI to Brain-computer interface](https://www.reddit.com/r/Python/comments/rarymc/opensource_board_for_converting_raspberrypi_to/)
+- [How to know your horoscope using Python? | iRead](https://www.reddit.com/r/Python/comments/rarw1s/how_to_know_your_horoscope_using_python_iread/)
+- [Pants, un sistema de construcción de software multilenguaje](https://www.reddit.com/r/Python/comments/rarlrs/pants_un_sistema_de_construcción_de_software/)
 - [Python Clone of Unix wc Program using Click Framework](https://www.reddit.com/r/Python/comments/raqrxb/python_clone_of_unix_wc_program_using_click/)
 - [Top 7 Essential Python Development 2021 Trends](https://www.reddit.com/r/Python/comments/raqehw/top_7_essential_python_development_2021_trends/)
-- [When does a web framework needs async?](https://www.reddit.com/r/Python/comments/ramey9/when_does_a_web_framework_needs_async/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/ralil3/tuesday_daily_thread_advanced_questions/)
-- [advanced Python course](https://www.reddit.com/r/Python/comments/ral5su/advanced_python_course/)
 <!-- BLOG-POST-LIST:END -->
