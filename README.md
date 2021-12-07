@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Python Scrapy Extension &amp; Dashboard For Job Monitoring, Health Checks, Alerts &amp; Scheduling](https://www.reddit.com/r/Python/comments/razsvv/new_python_scrapy_extension_dashboard_for_job/)
+- [Prettify Your Data Structures With Pretty Print in Python – Real Python](https://www.reddit.com/r/Python/comments/razkdk/prettify_your_data_structures_with_pretty_print/)
+- [Billiard Balls and The Boltzmann Distribution: A Simulation of Gas Particles in Python](https://www.reddit.com/r/Python/comments/razbv0/billiard_balls_and_the_boltzmann_distribution_a/)
 - [Learn Tkinter from scratch with these 5 best Python Tkinter tutorials that will teach you the fundamental skills you need to know to master this powerful GUI programming library](https://www.reddit.com/r/Python/comments/rayyg5/learn_tkinter_from_scratch_with_these_5_best/)
 - [PyQt provides a convenient way for relational database data presentation.](https://www.reddit.com/r/Python/comments/rayjnc/pyqt_provides_a_convenient_way_for_relational/)
-- [Efficiently process large tensor arrays](https://www.reddit.com/r/Python/comments/raxhtg/efficiently_process_large_tensor_arrays/)
-- [What fun things have you done with python? Automated stock analysis? Image search? ...](https://www.reddit.com/r/Python/comments/raxgvv/what_fun_things_have_you_done_with_python/)
-- [Django 4.0 released](https://www.reddit.com/r/Python/comments/rawi1p/django_40_released/)
 <!-- BLOG-POST-LIST:END -->
