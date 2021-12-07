@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Collection of Top Python Tkinter Tutorials For Beginners in 2021](https://www.reddit.com/r/Python/comments/rauboa/a_collection_of_top_python_tkinter_tutorials_for/)
+- [GitHub - zseta/python-opensea: Python wrapper for the OpenSea API](https://www.reddit.com/r/Python/comments/rattcx/github_zsetapythonopensea_python_wrapper_for_the/)
+- [TRSTN4/br4nch: br4nch: Data structure tree generator for Python.](https://www.reddit.com/r/Python/comments/rato3u/trstn4br4nch_br4nch_data_structure_tree_generator/)
 - [[Repost] Learn enough python with Programmer&#39;s guide to Python](https://www.reddit.com/r/Python/comments/ratg5s/repost_learn_enough_python_with_programmers_guide/)
 - [Python Insider: Python 3.10.1 is available](https://www.reddit.com/r/Python/comments/rat8fp/python_insider_python_3101_is_available/)
-- [Open-Source board for converting RaspberryPI to Brain-computer interface](https://www.reddit.com/r/Python/comments/rarymc/opensource_board_for_converting_raspberrypi_to/)
-- [How to know your horoscope using Python? | iRead](https://www.reddit.com/r/Python/comments/rarw1s/how_to_know_your_horoscope_using_python_iread/)
-- [Pants, un sistema de construcción de software multilenguaje](https://www.reddit.com/r/Python/comments/rarlrs/pants_un_sistema_de_construcción_de_software/)
 <!-- BLOG-POST-LIST:END -->
