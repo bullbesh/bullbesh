@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Repost] Learn enough python with Programmer&#39;s guide to Python](https://www.reddit.com/r/Python/comments/ratg5s/repost_learn_enough_python_with_programmers_guide/)
+- [Python Insider: Python 3.10.1 is available](https://www.reddit.com/r/Python/comments/rat8fp/python_insider_python_3101_is_available/)
 - [Open-Source board for converting RaspberryPI to Brain-computer interface](https://www.reddit.com/r/Python/comments/rarymc/opensource_board_for_converting_raspberrypi_to/)
 - [How to know your horoscope using Python? | iRead](https://www.reddit.com/r/Python/comments/rarw1s/how_to_know_your_horoscope_using_python_iread/)
 - [Pants, un sistema de construcción de software multilenguaje](https://www.reddit.com/r/Python/comments/rarlrs/pants_un_sistema_de_construcción_de_software/)
-- [Python Clone of Unix wc Program using Click Framework](https://www.reddit.com/r/Python/comments/raqrxb/python_clone_of_unix_wc_program_using_click/)
-- [Top 7 Essential Python Development 2021 Trends](https://www.reddit.com/r/Python/comments/raqehw/top_7_essential_python_development_2021_trends/)
 <!-- BLOG-POST-LIST:END -->
