@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 ways to model high performance polymorphism in Django](https://www.reddit.com/r/Python/comments/rbtm62/5_ways_to_model_high_performance_polymorphism_in/)
+- [Configurable API App Example. And some words why API user still need to know some coding.](https://www.reddit.com/r/Python/comments/rbtejm/configurable_api_app_example_and_some_words_why/)
+- [Inquiry](https://www.reddit.com/r/Python/comments/rbswcr/inquiry/)
+- [PyQt: Data Format In TableView And Relational Database Presentation](https://www.reddit.com/r/Python/comments/rbscm6/pyqt_data_format_in_tableview_and_relational/)
 - [The coding train like channels](https://www.reddit.com/r/Python/comments/rbrn9v/the_coding_train_like_channels/)
-- [A Complete 26 Week Course to Learn Python for Data Science in 2022](https://www.reddit.com/r/Python/comments/rbqv5k/a_complete_26_week_course_to_learn_python_for/)
-- [Zero now supports Python 3.8 🙌 Simple, fast RPC like framework in Python 🚀](https://www.reddit.com/r/Python/comments/rboyii/zero_now_supports_python_38_simple_fast_rpc_like/)
-- [Install &amp; Manage Multiple Python Versions](https://www.reddit.com/r/Python/comments/rbo46r/install_manage_multiple_python_versions/)
-- [Best free alternative to PyXLL?](https://www.reddit.com/r/Python/comments/rbnsvb/best_free_alternative_to_pyxll/)
 <!-- BLOG-POST-LIST:END -->
