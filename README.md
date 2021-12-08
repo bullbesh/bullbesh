@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Issue with python script : array convert to strings](https://www.reddit.com/r/Python/comments/rbc5qt/issue_with_python_script_array_convert_to_strings/)
+- [Python terminal music player](https://www.reddit.com/r/Python/comments/rbdrd1/python_terminal_music_player/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/rbd93c/wednesday_daily_thread_beginner_questions/)
 - [Efficient development](https://www.reddit.com/r/Python/comments/rbbaf7/efficient_development/)
 - [New package: edgetest &lpar;https://github.com/capitalone/edgetest&rpar;](https://www.reddit.com/r/Python/comments/rbb0lh/new_package_edgetest/)
 - [Have you ever used the Hypothesis package? Here&#39;s how it can help test your code and find hidden bugs](https://www.reddit.com/r/Python/comments/rbaxwe/have_you_ever_used_the_hypothesis_package_heres/)
-- [Useful unit tests for Django in Jenkins before deployment?](https://www.reddit.com/r/Python/comments/rbaacv/useful_unit_tests_for_django_in_jenkins_before/)
 <!-- BLOG-POST-LIST:END -->
