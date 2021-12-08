@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Last week I showed off my final exam project for my python class and got really great reception here. My professor just graded it. Gave me a 70% because it was &quot;too simple&quot; despite approving the outline for the project. I am kind of devastated](https://www.reddit.com/r/Python/comments/rbz310/last_week_i_showed_off_my_final_exam_project_for/)
 - [python zip object can&#39;t iterate twice over the same data | Explained using Animation &lpar;Manim&rpar;](https://www.reddit.com/r/Python/comments/rbyg54/python_zip_object_cant_iterate_twice_over_the/)
 - [What do you use for desktop application front ends?](https://www.reddit.com/r/Python/comments/rbyb3u/what_do_you_use_for_desktop_application_front_ends/)
 - [Hello everyone, I am in need of ideas for a cool PIL project, anything you guys suggest?](https://www.reddit.com/r/Python/comments/rbx79r/hello_everyone_i_am_in_need_of_ideas_for_a_cool/)
 - [Bank Python: The strange world of Python, as used by big investment banks](https://www.reddit.com/r/Python/comments/rbx5dr/bank_python_the_strange_world_of_python_as_used/)
-- [I made a Python library for getting information about a Discord invite code](https://www.reddit.com/r/Python/comments/rbx2ij/i_made_a_python_library_for_getting_information/)
 <!-- BLOG-POST-LIST:END -->
