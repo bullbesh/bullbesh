@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy your Python projects for free](https://www.reddit.com/r/Python/comments/rbj26q/deploy_your_python_projects_for_free/)
 - [Python 3.9, 3.10 on Windows 7](https://www.reddit.com/r/Python/comments/rbhd2n/python_39_310_on_windows_7/)
 - [Day 2 of 100 of a Python coding bootcamp for your learning &lpar;open to questions&rpar;](https://www.reddit.com/r/Python/comments/rbh91i/day_2_of_100_of_a_python_coding_bootcamp_for_your/)
 - [RocketPy - Cool New Python Library for Rocket Simulations](https://www.reddit.com/r/Python/comments/rbh0kn/rocketpy_cool_new_python_library_for_rocket/)
 - [Python terminal music player](https://www.reddit.com/r/Python/comments/rbdrd1/python_terminal_music_player/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/rbd93c/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
