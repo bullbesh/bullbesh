@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zero now supports Python 3.8 🙌 Simple, fast RPC like framework in Python 🚀](https://www.reddit.com/r/Python/comments/rboyii/zero_now_supports_python_38_simple_fast_rpc_like/)
 - [Install &amp; Manage Multiple Python Versions](https://www.reddit.com/r/Python/comments/rbo46r/install_manage_multiple_python_versions/)
 - [Best free alternative to PyXLL?](https://www.reddit.com/r/Python/comments/rbnsvb/best_free_alternative_to_pyxll/)
 - [Firebird-driver 1.3.4 released](https://www.reddit.com/r/Python/comments/rbmk3b/firebirddriver_134_released/)
 - [GitHub - sansyrox/robyn: A fast and extensible async python web server with a rust runtime](https://www.reddit.com/r/Python/comments/rblggw/github_sansyroxrobyn_a_fast_and_extensible_async/)
-- [Does Python&#39;s asyncio have a scalability problem?](https://www.reddit.com/r/Python/comments/rbkdye/does_pythons_asyncio_have_a_scalability_problem/)
 <!-- BLOG-POST-LIST:END -->
