@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - sansyrox/robyn: A fast and extensible async python web server with a rust runtime](https://www.reddit.com/r/Python/comments/rblggw/github_sansyroxrobyn_a_fast_and_extensible_async/)
 - [Does Python&#39;s asyncio have a scalability problem?](https://www.reddit.com/r/Python/comments/rbkdye/does_pythons_asyncio_have_a_scalability_problem/)
 - [Got a dynamic font loader / switcher working for my PyQt5-based Point&amp;Click scene editor](https://www.reddit.com/r/Python/comments/rbk976/got_a_dynamic_font_loader_switcher_working_for_my/)
 - [Deploy your Python projects for free](https://www.reddit.com/r/Python/comments/rbj26q/deploy_your_python_projects_for_free/)
 - [Python 3.9, 3.10 on Windows 7](https://www.reddit.com/r/Python/comments/rbhd2n/python_39_310_on_windows_7/)
-- [Day 2 of 100 of a Python coding bootcamp for your learning &lpar;open to questions&rpar;](https://www.reddit.com/r/Python/comments/rbh91i/day_2_of_100_of_a_python_coding_bootcamp_for_your/)
 <!-- BLOG-POST-LIST:END -->
