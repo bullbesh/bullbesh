@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [About Educative.io &quot;Ace the Python Coding Interview&quot;....](https://www.reddit.com/r/Python/comments/rbuv0w/about_educativeio_ace_the_python_coding_interview/)
+- [Begginer &#39;Sign up/Sign up&#39; project](https://www.reddit.com/r/Python/comments/rbu9m4/begginer_sign_upsign_up_project/)
 - [5 ways to model high performance polymorphism in Django](https://www.reddit.com/r/Python/comments/rbtm62/5_ways_to_model_high_performance_polymorphism_in/)
 - [Configurable API App Example. And some words why API user still need to know some coding.](https://www.reddit.com/r/Python/comments/rbtejm/configurable_api_app_example_and_some_words_why/)
 - [Inquiry](https://www.reddit.com/r/Python/comments/rbswcr/inquiry/)
-- [PyQt: Data Format In TableView And Relational Database Presentation](https://www.reddit.com/r/Python/comments/rbscm6/pyqt_data_format_in_tableview_and_relational/)
-- [The coding train like channels](https://www.reddit.com/r/Python/comments/rbrn9v/the_coding_train_like_channels/)
 <!-- BLOG-POST-LIST:END -->
