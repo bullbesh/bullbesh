@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Install &amp; Manage Multiple Python Versions](https://www.reddit.com/r/Python/comments/rbo46r/install_manage_multiple_python_versions/)
+- [Best free alternative to PyXLL?](https://www.reddit.com/r/Python/comments/rbnsvb/best_free_alternative_to_pyxll/)
 - [Firebird-driver 1.3.4 released](https://www.reddit.com/r/Python/comments/rbmk3b/firebirddriver_134_released/)
 - [GitHub - sansyrox/robyn: A fast and extensible async python web server with a rust runtime](https://www.reddit.com/r/Python/comments/rblggw/github_sansyroxrobyn_a_fast_and_extensible_async/)
 - [Does Python&#39;s asyncio have a scalability problem?](https://www.reddit.com/r/Python/comments/rbkdye/does_pythons_asyncio_have_a_scalability_problem/)
-- [Got a dynamic font loader / switcher working for my PyQt5-based Point&amp;Click scene editor](https://www.reddit.com/r/Python/comments/rbk976/got_a_dynamic_font_loader_switcher_working_for_my/)
-- [Deploy your Python projects for free](https://www.reddit.com/r/Python/comments/rbj26q/deploy_your_python_projects_for_free/)
 <!-- BLOG-POST-LIST:END -->
