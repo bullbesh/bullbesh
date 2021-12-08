@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 2 of 100 of a Python coding bootcamp for your learning &lpar;open to questions&rpar;](https://www.reddit.com/r/Python/comments/rbh91i/day_2_of_100_of_a_python_coding_bootcamp_for_your/)
+- [RocketPy - Cool New Python Library for Rocket Simulations](https://www.reddit.com/r/Python/comments/rbh0kn/rocketpy_cool_new_python_library_for_rocket/)
 - [Python terminal music player](https://www.reddit.com/r/Python/comments/rbdrd1/python_terminal_music_player/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/rbd93c/wednesday_daily_thread_beginner_questions/)
 - [Efficient development](https://www.reddit.com/r/Python/comments/rbbaf7/efficient_development/)
-- [New package: edgetest &lpar;https://github.com/capitalone/edgetest&rpar;](https://www.reddit.com/r/Python/comments/rbb0lh/new_package_edgetest/)
-- [Have you ever used the Hypothesis package? Here&#39;s how it can help test your code and find hidden bugs](https://www.reddit.com/r/Python/comments/rbaxwe/have_you_ever_used_the_hypothesis_package_heres/)
 <!-- BLOG-POST-LIST:END -->
