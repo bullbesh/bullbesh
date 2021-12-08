@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Opinions about Dataspell: Jetbrains IDE for data scientists](https://www.reddit.com/r/Python/comments/rbv3i1/opinions_about_dataspell_jetbrains_ide_for_data/)
-- [About Educative.io &quot;Ace the Python Coding Interview&quot;....](https://www.reddit.com/r/Python/comments/rbuv0w/about_educativeio_ace_the_python_coding_interview/)
-- [Begginer &#39;Sign up/Sign up&#39; project](https://www.reddit.com/r/Python/comments/rbu9m4/begginer_sign_upsign_up_project/)
-- [5 ways to model high performance polymorphism in Django](https://www.reddit.com/r/Python/comments/rbtm62/5_ways_to_model_high_performance_polymorphism_in/)
-- [Configurable API App Example. And some words why API user still need to know some coding.](https://www.reddit.com/r/Python/comments/rbtejm/configurable_api_app_example_and_some_words_why/)
+- [Hello everyone, I am in need of ideas for a cool PIL project, anything you guys suggest?](https://www.reddit.com/r/Python/comments/rbx79r/hello_everyone_i_am_in_need_of_ideas_for_a_cool/)
+- [Bank Python: The strange world of Python, as used by big investment banks](https://www.reddit.com/r/Python/comments/rbx5dr/bank_python_the_strange_world_of_python_as_used/)
+- [I made a Python library for getting information about a Discord invite code](https://www.reddit.com/r/Python/comments/rbx2ij/i_made_a_python_library_for_getting_information/)
+- [I developed a toy visual programming language inspired by Unreal engine blueprint function graphs](https://www.reddit.com/r/Python/comments/rbwtp7/i_developed_a_toy_visual_programming_language/)
+- [Beginner guide to python? Any books recommendations](https://www.reddit.com/r/Python/comments/rbwkj2/beginner_guide_to_python_any_books_recommendations/)
 <!-- BLOG-POST-LIST:END -->
