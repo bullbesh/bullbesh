@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [pytest-codeblocks: Test snippets from your READMEs](https://www.reddit.com/r/Python/comments/rcj9qw/pytestcodeblocks_test_snippets_from_your_readmes/)
-- [Search for pairs in dict/series of strings](https://www.reddit.com/r/Python/comments/rcixpb/search_for_pairs_in_dictseries_of_strings/)
-- [Legacy Naming Conventions Are Holding Us Back](https://www.reddit.com/r/Python/comments/rciw82/legacy_naming_conventions_are_holding_us_back/)
-- [How to perform easy data ingestion using Python and open source tool](https://www.reddit.com/r/Python/comments/rchk52/how_to_perform_easy_data_ingestion_using_python/)
-- [Convert python list to json format](https://www.reddit.com/r/Python/comments/rchhfn/convert_python_list_to_json_format/)
+- [Fun and useful project for those in search of ideas](https://www.reddit.com/r/Python/comments/rcku0a/fun_and_useful_project_for_those_in_search_of/)
+- [Seamless FastAPI Configuration with ConfZ](https://www.reddit.com/r/Python/comments/rckrgi/seamless_fastapi_configuration_with_confz/)
+- [Colour Scheme](https://www.reddit.com/r/Python/comments/rckmp5/colour_scheme/)
+- [The Python Vulnerability Landscape](https://www.reddit.com/r/Python/comments/rckmn1/the_python_vulnerability_landscape/)
+- [Scraping Websites That Require Login In Python](https://www.reddit.com/r/Python/comments/rck8bh/scraping_websites_that_require_login_in_python/)
 <!-- BLOG-POST-LIST:END -->
