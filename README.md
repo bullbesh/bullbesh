@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/rc4je2/thursday_daily_thread_python_careers_courses_and/)
-- [PyBridge 1.2](https://www.reddit.com/r/Python/comments/rc3x07/pybridge_12/)
-- [Space Science with Python - Part 16: Comet Database](https://www.reddit.com/r/Python/comments/rc2ypw/space_science_with_python_part_16_comet_database/)
-- [I coded a demo of Pokemon in python!](https://www.reddit.com/r/Python/comments/rc29rh/i_coded_a_demo_of_pokemon_in_python/)
-- [Yet Another Deep Neural Network Library From Scratch Library &lpar;pure NumPy and Numba&rpar;](https://www.reddit.com/r/Python/comments/rc03ny/yet_another_deep_neural_network_library_from/)
+- [FindREp: A GUI tool to find and replace regular expressions in files.](https://www.reddit.com/r/Python/comments/rc9jjg/findrep_a_gui_tool_to_find_and_replace_regular/)
+- [What kind of work Software Engineers do in their Jobs?](https://www.reddit.com/r/Python/comments/rc9dnd/what_kind_of_work_software_engineers_do_in_their/)
+- [Late evaluation of function parameters](https://www.reddit.com/r/Python/comments/rc8k7x/late_evaluation_of_function_parameters/)
+- [Scripts for sale?](https://www.reddit.com/r/Python/comments/rc8j2j/scripts_for_sale/)
+- [People interested in sharing educative &lpar;dot&rpar; io annual plan](https://www.reddit.com/r/Python/comments/rc8htc/people_interested_in_sharing_educative_dot_io/)
 <!-- BLOG-POST-LIST:END -->
