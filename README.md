@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Python modules in my opinion?](https://www.reddit.com/r/Python/comments/rcafay/top_5_python_modules_in_my_opinion/)
+- [import libraries dynamically](https://www.reddit.com/r/Python/comments/rc9qzm/import_libraries_dynamically/)
 - [FindREp: A GUI tool to find and replace regular expressions in files.](https://www.reddit.com/r/Python/comments/rc9jjg/findrep_a_gui_tool_to_find_and_replace_regular/)
 - [What kind of work Software Engineers do in their Jobs?](https://www.reddit.com/r/Python/comments/rc9dnd/what_kind_of_work_software_engineers_do_in_their/)
 - [Late evaluation of function parameters](https://www.reddit.com/r/Python/comments/rc8k7x/late_evaluation_of_function_parameters/)
-- [Scripts for sale?](https://www.reddit.com/r/Python/comments/rc8j2j/scripts_for_sale/)
-- [People interested in sharing educative &lpar;dot&rpar; io annual plan](https://www.reddit.com/r/Python/comments/rc8htc/people_interested_in_sharing_educative_dot_io/)
 <!-- BLOG-POST-LIST:END -->
