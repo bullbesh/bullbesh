@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating table in Python](https://www.reddit.com/r/Python/comments/rcppnd/creating_table_in_python/)
+- [GitHub - gaogaotiantian/objprint: A library that can print Python objects in human readable format](https://www.reddit.com/r/Python/comments/rcrfbs/github_gaogaotiantianobjprint_a_library_that_can/)
+- [PDFDrive Api : My First Flask Project Using Python](https://www.reddit.com/r/Python/comments/rcqcko/pdfdrive_api_my_first_flask_project_using_python/)
 - [Python REPL as Daily Shell](https://www.reddit.com/r/Python/comments/rcpbtx/python_repl_as_daily_shell/)
 - [PyPI User Feedback Summary](https://www.reddit.com/r/Python/comments/rcpbtw/pypi_user_feedback_summary/)
 - [What do you think about Ursina engine?](https://www.reddit.com/r/Python/comments/rcosnh/what_do_you_think_about_ursina_engine/)
-- [Web app deployment or executable distribution using python?](https://www.reddit.com/r/Python/comments/rco9bx/web_app_deployment_or_executable_distribution/)
 <!-- BLOG-POST-LIST:END -->
