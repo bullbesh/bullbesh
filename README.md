@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Homework Question: How does Python implement integer arithmetic?](https://www.reddit.com/r/Python/comments/rceyep/homework_question_how_does_python_implement/)
+- [I need help](https://www.reddit.com/r/Python/comments/rcgcpq/i_need_help/)
+- [Releasing an encryption/decryption script &lpar;fresh cipher&rpar; &lpar;for shitty purpose only&rpar;](https://www.reddit.com/r/Python/comments/rcfodw/releasing_an_encryptiondecryption_script_fresh/)
 - [How to kill all the processes of python in a second with a command](https://www.reddit.com/r/Python/comments/rcdvdh/how_to_kill_all_the_processes_of_python_in_a/)
 - [I&#39;m Releasing Three of my Pokemon Reinforcement Learning AI tools, including a Computer Vision Program that can play Pokemon Sword Autonomously on Nintendo Switch | [Video Proof][Source Code Available]](https://www.reddit.com/r/Python/comments/rcd4oa/im_releasing_three_of_my_pokemon_reinforcement/)
 - [VevestaX - An awesome and simple tool to track ML experiments in an excel file](https://www.reddit.com/r/Python/comments/rcbtwl/vevestax_an_awesome_and_simple_tool_to_track_ml/)
-- [Top 5 Python modules in my opinion?](https://www.reddit.com/r/Python/comments/rcafay/top_5_python_modules_in_my_opinion/)
 <!-- BLOG-POST-LIST:END -->
