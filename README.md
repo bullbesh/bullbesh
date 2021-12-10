@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing PvP - the ultimate Python virtualenv and package manager](https://www.reddit.com/r/Python/comments/rdbn0x/introducing_pvp_the_ultimate_python_virtualenv/)
-- [Teaching python and Web scraping on Zoom](https://www.reddit.com/r/Python/comments/rdb3sp/teaching_python_and_web_scraping_on_zoom/)
-- [How To Use File and Standard Input CLI Arguments with Python Click Package](https://www.reddit.com/r/Python/comments/rdaddg/how_to_use_file_and_standard_input_cli_arguments/)
-- [DVC &lpar;DataVersionControl&rpar; 2.0 - Open Source Python-Based Tool Allowing Managing Machine Learning Experiments as Code with Git](https://www.reddit.com/r/Python/comments/rd663i/dvc_dataversioncontrol_20_open_source_pythonbased/)
-- [VoxelCraft- A 16x16 Minecraft Classic Clone](https://www.reddit.com/r/Python/comments/rd3v2l/voxelcraft_a_16x16_minecraft_classic_clone/)
+- [Top 10 Python Powered Websites](https://www.reddit.com/r/Python/comments/rddb4z/top_10_python_powered_websites/)
+- [Password for devs](https://www.reddit.com/r/Python/comments/rdd0bl/password_for_devs/)
+- [Can anyone explain why I am getting multiple rings in Jupyter notebook simulation instead of one?](https://www.reddit.com/r/Python/comments/rdcwt0/can_anyone_explain_why_i_am_getting_multiple/)
+- [Freelancing with Pythin](https://www.reddit.com/r/Python/comments/rdcoly/freelancing_with_pythin/)
+- [Ursina &lpar;Python Game Engine&rpar;](https://www.reddit.com/r/Python/comments/rdcify/ursina_python_game_engine/)
 <!-- BLOG-POST-LIST:END -->
