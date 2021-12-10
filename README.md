@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [My first project! &lpar;Physics sim&rpar;](https://www.reddit.com/r/Python/comments/rcxx5e/my_first_project_physics_sim/)
-- [Look at this funny script](https://www.reddit.com/r/Python/comments/rcxqzi/look_at_this_funny_script/)
 - [Python Set Operations: Complete Guide - Data Structures](https://www.reddit.com/r/Python/comments/rcwy5m/python_set_operations_complete_guide_data/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/rcuxll/friday_daily_thread_free_chat_friday_daily_thread/)
+- [Hiring Python Developers in DFW](https://www.reddit.com/r/Python/comments/rctdgu/hiring_python_developers_in_dfw/)
 - [Python package managers](https://www.reddit.com/r/Python/comments/rcsrlk/python_package_managers/)
 <!-- BLOG-POST-LIST:END -->
