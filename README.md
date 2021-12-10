@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [VoxelCraft- A 16x16 Minecraft Classic Clone](https://www.reddit.com/r/Python/comments/rd3v2l/voxelcraft_a_16x16_minecraft_classic_clone/)
+- [A cheatsheet for the Python beginner](https://www.reddit.com/r/Python/comments/rd3kci/a_cheatsheet_for_the_python_beginner/)
+- [PDM - modern package manager](https://www.reddit.com/r/Python/comments/rd39c8/pdm_modern_package_manager/)
 - [My first project! &lpar;Physics sim&rpar;](https://www.reddit.com/r/Python/comments/rcxx5e/my_first_project_physics_sim/)
 - [Python Set Operations: Complete Guide - Data Structures](https://www.reddit.com/r/Python/comments/rcwy5m/python_set_operations_complete_guide_data/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/rcuxll/friday_daily_thread_free_chat_friday_daily_thread/)
-- [Python package managers](https://www.reddit.com/r/Python/comments/rcsrlk/python_package_managers/)
-- [GitHub - gaogaotiantian/objprint: A library that can print Python objects in human readable format](https://www.reddit.com/r/Python/comments/rcrfbs/github_gaogaotiantianobjprint_a_library_that_can/)
 <!-- BLOG-POST-LIST:END -->
