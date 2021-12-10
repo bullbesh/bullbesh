@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Brand new to Python: Need book suggestions!](https://www.reddit.com/r/Python/comments/rdikc7/brand_new_to_python_need_book_suggestions/)
+- [Learn Range in Python in less than 6 mins](https://www.reddit.com/r/Python/comments/rdhye2/learn_range_in_python_in_less_than_6_mins/)
+- [I created a Customer Invoice Generator in my free time](https://www.reddit.com/r/Python/comments/rdhsvf/i_created_a_customer_invoice_generator_in_my_free/)
+- [effbot has passed away.](https://www.reddit.com/r/Python/comments/rdhqyd/effbot_has_passed_away/)
 - [GitHub - BuzonIO/zipfly: Writing large ZIP archives without memory inflation](https://www.reddit.com/r/Python/comments/rdglxo/github_buzoniozipfly_writing_large_zip_archives/)
-- [Where to learn about advanced usages of functional programming in python?](https://www.reddit.com/r/Python/comments/rdfeje/where_to_learn_about_advanced_usages_of/)
-- [Notes on the Go &lpar;from Python&rpar; translation of Reposurgeon &lpar;2020&rpar;](https://www.reddit.com/r/Python/comments/rdfe3y/notes_on_the_go_from_python_translation_of/)
-- [Can anyone explain why I am getting multiple rings in Jupyter notebook simulation instead of one?](https://www.reddit.com/r/Python/comments/rdcwt0/can_anyone_explain_why_i_am_getting_multiple/)
-- [Ursina &lpar;Python Game Engine&rpar;](https://www.reddit.com/r/Python/comments/rdcify/ursina_python_game_engine/)
 <!-- BLOG-POST-LIST:END -->
