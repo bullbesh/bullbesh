@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [where i am wrong](https://www.reddit.com/r/Python/comments/rcteu6/where_i_am_wrong/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/rcuxll/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Hiring Python Developers in DFW](https://www.reddit.com/r/Python/comments/rctdgu/hiring_python_developers_in_dfw/)
 - [Python package managers](https://www.reddit.com/r/Python/comments/rcsrlk/python_package_managers/)
 - [What to use to visualize simple 2d physics?](https://www.reddit.com/r/Python/comments/rcsi7p/what_to_use_to_visualize_simple_2d_physics/)
