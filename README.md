@@ -18,6 +18,6 @@
 - [My first project! &lpar;Physics sim&rpar;](https://www.reddit.com/r/Python/comments/rcxx5e/my_first_project_physics_sim/)
 - [Python Set Operations: Complete Guide - Data Structures](https://www.reddit.com/r/Python/comments/rcwy5m/python_set_operations_complete_guide_data/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/rcuxll/friday_daily_thread_free_chat_friday_daily_thread/)
-- [Hiring Python Developers in DFW](https://www.reddit.com/r/Python/comments/rctdgu/hiring_python_developers_in_dfw/)
 - [Python package managers](https://www.reddit.com/r/Python/comments/rcsrlk/python_package_managers/)
+- [GitHub - gaogaotiantian/objprint: A library that can print Python objects in human readable format](https://www.reddit.com/r/Python/comments/rcrfbs/github_gaogaotiantianobjprint_a_library_that_can/)
 <!-- BLOG-POST-LIST:END -->
