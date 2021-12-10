@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DVC &lpar;DataVersionControl&rpar; 2.0 - Open Source Python-Based Tool Allowing Managing Machine Learning Experiments as Code with Git](https://www.reddit.com/r/Python/comments/rd663i/dvc_dataversioncontrol_20_open_source_pythonbased/)
 - [What is web scrapping in Python.](https://www.reddit.com/r/Python/comments/rd5lxe/what_is_web_scrapping_in_python/)
 - [[Trading Bot] we are Looking for New Team Members, we already done a lot and have signals working &amp; many more](https://www.reddit.com/r/Python/comments/rd4yh4/trading_bot_we_are_looking_for_new_team_members/)
 - [VoxelCraft- A 16x16 Minecraft Classic Clone](https://www.reddit.com/r/Python/comments/rd3v2l/voxelcraft_a_16x16_minecraft_classic_clone/)
 - [A cheatsheet for the Python beginner](https://www.reddit.com/r/Python/comments/rd3kci/a_cheatsheet_for_the_python_beginner/)
-- [PDM - modern package manager](https://www.reddit.com/r/Python/comments/rd39c8/pdm_modern_package_manager/)
 <!-- BLOG-POST-LIST:END -->
