@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Problem &#39;list&#39; object cannot be interpreted as an integer, I do not understand where is the problem?](https://www.reddit.com/r/Python/comments/rdg3n7/problem_list_object_cannot_be_interpreted_as_an/)
+- [GitHub - BuzonIO/zipfly: Writing large ZIP archives without memory inflation](https://www.reddit.com/r/Python/comments/rdglxo/github_buzoniozipfly_writing_large_zip_archives/)
 - [Where to learn about advanced usages of functional programming in python?](https://www.reddit.com/r/Python/comments/rdfeje/where_to_learn_about_advanced_usages_of/)
 - [Notes on the Go &lpar;from Python&rpar; translation of Reposurgeon &lpar;2020&rpar;](https://www.reddit.com/r/Python/comments/rdfe3y/notes_on_the_go_from_python_translation_of/)
-- [Python3 script downloading corrupted image](https://www.reddit.com/r/Python/comments/rde1vd/python3_script_downloading_corrupted_image/)
 - [Can anyone explain why I am getting multiple rings in Jupyter notebook simulation instead of one?](https://www.reddit.com/r/Python/comments/rdcwt0/can_anyone_explain_why_i_am_getting_multiple/)
+- [Ursina &lpar;Python Game Engine&rpar;](https://www.reddit.com/r/Python/comments/rdcify/ursina_python_game_engine/)
 <!-- BLOG-POST-LIST:END -->
