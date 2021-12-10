@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python3 script downloading corrupted image](https://www.reddit.com/r/Python/comments/rde1vd/python3_script_downloading_corrupted_image/)
 - [Top 10 Python Powered Websites](https://www.reddit.com/r/Python/comments/rddb4z/top_10_python_powered_websites/)
 - [Password for devs](https://www.reddit.com/r/Python/comments/rdd0bl/password_for_devs/)
 - [Can anyone explain why I am getting multiple rings in Jupyter notebook simulation instead of one?](https://www.reddit.com/r/Python/comments/rdcwt0/can_anyone_explain_why_i_am_getting_multiple/)
 - [Freelancing with Pythin](https://www.reddit.com/r/Python/comments/rdcoly/freelancing_with_pythin/)
-- [Ursina &lpar;Python Game Engine&rpar;](https://www.reddit.com/r/Python/comments/rdcify/ursina_python_game_engine/)
 <!-- BLOG-POST-LIST:END -->
