@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastWSGI: An ultra-fast, multi-platform WSGI server for Python 3](https://www.reddit.com/r/Python/comments/re9l7e/fastwsgi_an_ultrafast_multiplatform_wsgi_server/)
 - [*Experimental* xo. will let you do amazing stuff in python](https://www.reddit.com/r/Python/comments/re8gmk/experimental_xo_will_let_you_do_amazing_stuff_in/)
 - [I know Python and want to enter blockchain programming](https://www.reddit.com/r/Python/comments/re8el1/i_know_python_and_want_to_enter_blockchain/)
 - [I wrote a python program for scraping Ebay to find a cheap used espresso machines under $200.](https://www.reddit.com/r/Python/comments/re6nz4/i_wrote_a_python_program_for_scraping_ebay_to/)
 - [What are some coding course which are 3 credit semester long](https://www.reddit.com/r/Python/comments/re6k87/what_are_some_coding_course_which_are_3_credit/)
-- [Dyson hatching &lpar;dungeon map&rpar;](https://www.reddit.com/r/Python/comments/re5ppx/dyson_hatching_dungeon_map/)
 <!-- BLOG-POST-LIST:END -->
