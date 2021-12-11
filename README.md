@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [*Experimental* xo. will let you do amazing stuff in python](https://www.reddit.com/r/Python/comments/re8gmk/experimental_xo_will_let_you_do_amazing_stuff_in/)
+- [I know Python and want to enter blockchain programming](https://www.reddit.com/r/Python/comments/re8el1/i_know_python_and_want_to_enter_blockchain/)
 - [I wrote a python program for scraping Ebay to find a cheap used espresso machines under $200.](https://www.reddit.com/r/Python/comments/re6nz4/i_wrote_a_python_program_for_scraping_ebay_to/)
 - [What are some coding course which are 3 credit semester long](https://www.reddit.com/r/Python/comments/re6k87/what_are_some_coding_course_which_are_3_credit/)
 - [Dyson hatching &lpar;dungeon map&rpar;](https://www.reddit.com/r/Python/comments/re5ppx/dyson_hatching_dungeon_map/)
-- [Learning Python for financial career](https://www.reddit.com/r/Python/comments/re5dma/learning_python_for_financial_career/)
-- [Learn the Basics of Python in 2 Hours](https://www.reddit.com/r/Python/comments/re3rfw/learn_the_basics_of_python_in_2_hours/)
 <!-- BLOG-POST-LIST:END -->
