@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are some coding course which are 3 credit semester long](https://www.reddit.com/r/Python/comments/re6k87/what_are_some_coding_course_which_are_3_credit/)
+- [Dyson hatching &lpar;dungeon map&rpar;](https://www.reddit.com/r/Python/comments/re5ppx/dyson_hatching_dungeon_map/)
 - [Learning Python for financial career](https://www.reddit.com/r/Python/comments/re5dma/learning_python_for_financial_career/)
 - [Learn the Basics of Python in 2 Hours](https://www.reddit.com/r/Python/comments/re3rfw/learn_the_basics_of_python_in_2_hours/)
 - [pyetf - scrape ETF data from etfdb.com](https://www.reddit.com/r/Python/comments/re3j6k/pyetf_scrape_etf_data_from_etfdbcom/)
-- [Neural style transfer with python!](https://www.reddit.com/r/Python/comments/re0n84/neural_style_transfer_with_python/)
-- [Jmp: you&#39;ll never want to cd into a directory again](https://www.reddit.com/r/Python/comments/rdziv3/jmp_youll_never_want_to_cd_into_a_directory_again/)
 <!-- BLOG-POST-LIST:END -->
