@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The future of Python build systems and Gentoo](https://www.reddit.com/r/Python/comments/rdweuh/the_future_of_python_build_systems_and_gentoo/)
 - [2021-12-10 bench results · LesnyRumcajs/grpc_bench Wiki](https://www.reddit.com/r/Python/comments/rdw2fr/20211210_bench_results_lesnyrumcajsgrpc_bench_wiki/)
 - [Deep Forest and Diversity - Short tutorial](https://www.reddit.com/r/Python/comments/rdw27g/deep_forest_and_diversity_short_tutorial/)
 - [TDD Approach to Create an Authentication System With FastAPI Part 2: User Registration](https://www.reddit.com/r/Python/comments/rdw01n/tdd_approach_to_create_an_authentication_system/)
 - [Reasons why some engineers ignore Python?](https://www.reddit.com/r/Python/comments/rds2o5/reasons_why_some_engineers_ignore_python/)
-- [A python program to find the mirror image of image given as argument using numpy and pillow](https://www.reddit.com/r/Python/comments/rdoj41/a_python_program_to_find_the_mirror_image_of/)
 <!-- BLOG-POST-LIST:END -->
