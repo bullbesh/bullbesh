@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A reverse chronology of some Python features](https://www.reddit.com/r/Python/comments/rdmyro/a_reverse_chronology_of_some_python_features/)
+- [GitHub profile checker CLI utility](https://www.reddit.com/r/Python/comments/rdmqsw/github_profile_checker_cli_utility/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/rdme1d/saturday_daily_thread_resource_request_and/)
 - [Data Manipulation in Python](https://www.reddit.com/r/Python/comments/rdldly/data_manipulation_in_python/)
 - [Is Python prototype based OOP?](https://www.reddit.com/r/Python/comments/rdl974/is_python_prototype_based_oop/)
-- [check if var is in range of list](https://www.reddit.com/r/Python/comments/rdko0g/check_if_var_is_in_range_of_list/)
-- [Brand new to Python: Need book suggestions!](https://www.reddit.com/r/Python/comments/rdikc7/brand_new_to_python_need_book_suggestions/)
-- [Learn Range in Python in less than 6 mins](https://www.reddit.com/r/Python/comments/rdhye2/learn_range_in_python_in_less_than_6_mins/)
 <!-- BLOG-POST-LIST:END -->
