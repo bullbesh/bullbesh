@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you want to know about mapping data type in Python. Have a look at this short video:](https://www.reddit.com/r/Python/comments/reh63x/do_you_want_to_know_about_mapping_data_type_in/)
 - [Show r/Python: tool for automatically fixing bugs in Python code](https://www.reddit.com/r/Python/comments/reeh8x/show_rpython_tool_for_automatically_fixing_bugs/)
 - [Solving Google reCAPTCHA audio using Playwright and Vosk](https://www.reddit.com/r/Python/comments/redo22/solving_google_recaptcha_audio_using_playwright/)
 - [my attempt at the sudoku board generator project](https://www.reddit.com/r/Python/comments/redlbt/my_attempt_at_the_sudoku_board_generator_project/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rec6mi/sunday_daily_thread_whats_everyone_working_on/)
-- [Space Science with Python - Part 17: C- and P-Comets](https://www.reddit.com/r/Python/comments/rebkb1/space_science_with_python_part_17_c_and_pcomets/)
 <!-- BLOG-POST-LIST:END -->
