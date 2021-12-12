@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [3 New Malicious Packages Found on PyPI](https://www.reddit.com/r/Python/comments/reua1p/3_new_malicious_packages_found_on_pypi/)
 - [Quote&amp;Joke : A Random Quotes And Joke Generating API](https://www.reddit.com/r/Python/comments/retjsx/quotejoke_a_random_quotes_and_joke_generating_api/)
 - [How do you guys feel about Atom IDE for python??](https://www.reddit.com/r/Python/comments/reszv0/how_do_you_guys_feel_about_atom_ide_for_python/)
 - [Olympic Weightlifting Medals with Stacked Bar Charts &lpar;numpy, pandas, plotly&rpar;](https://www.reddit.com/r/Python/comments/rerph4/olympic_weightlifting_medals_with_stacked_bar/)
 - [My Password Generator](https://www.reddit.com/r/Python/comments/rergxq/my_password_generator/)
-- [Write Better And Faster Python Using Einstein Notation](https://www.reddit.com/r/Python/comments/req9pr/write_better_and_faster_python_using_einstein/)
 <!-- BLOG-POST-LIST:END -->
