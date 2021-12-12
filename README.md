@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Sorting strings based on two conditions.](https://www.reddit.com/r/Python/comments/rej0p4/sorting_strings_based_on_two_conditions/)
+- [LeetCode Practice written in Python](https://www.reddit.com/r/Python/comments/reklkv/leetcode_practice_written_in_python/)
 - [How to Merge Dictionaries in Python | iRead](https://www.reddit.com/r/Python/comments/reisfe/how_to_merge_dictionaries_in_python_iread/)
 - [Best IDE for basic stuff?](https://www.reddit.com/r/Python/comments/rei7ms/best_ide_for_basic_stuff/)
 - [Anaconda vs Miniconda](https://www.reddit.com/r/Python/comments/rei5ex/anaconda_vs_miniconda/)
