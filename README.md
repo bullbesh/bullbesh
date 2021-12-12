@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Olympic Weightlifting Medals with Stacked Bar Charts &lpar;numpy, pandas, plotly&rpar;](https://www.reddit.com/r/Python/comments/rerph4/olympic_weightlifting_medals_with_stacked_bar/)
+- [My Password Generator](https://www.reddit.com/r/Python/comments/rergxq/my_password_generator/)
 - [Write Better And Faster Python Using Einstein Notation](https://www.reddit.com/r/Python/comments/req9pr/write_better_and_faster_python_using_einstein/)
 - [An Interactive Cheatsheet for NumPy](https://www.reddit.com/r/Python/comments/repk8q/an_interactive_cheatsheet_for_numpy/)
 - [Bluescreening my PC using GitHub Copilot](https://www.reddit.com/r/Python/comments/repe2z/bluescreening_my_pc_using_github_copilot/)
-- [Auto-Rename Files Using Python](https://www.reddit.com/r/Python/comments/rep2es/autorename_files_using_python/)
-- [How to reverse the string using 5 proven methods?](https://www.reddit.com/r/Python/comments/reoo8r/how_to_reverse_the_string_using_5_proven_methods/)
 <!-- BLOG-POST-LIST:END -->
