@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Merge Dictionaries in Python | iRead](https://www.reddit.com/r/Python/comments/reisfe/how_to_merge_dictionaries_in_python_iread/)
+- [Best IDE for basic stuff?](https://www.reddit.com/r/Python/comments/rei7ms/best_ide_for_basic_stuff/)
+- [Anaconda vs Miniconda](https://www.reddit.com/r/Python/comments/rei5ex/anaconda_vs_miniconda/)
 - [Do you want to know about mapping data type in Python. Have a look at this short video:](https://www.reddit.com/r/Python/comments/reh63x/do_you_want_to_know_about_mapping_data_type_in/)
 - [Show r/Python: tool for automatically fixing bugs in Python code](https://www.reddit.com/r/Python/comments/reeh8x/show_rpython_tool_for_automatically_fixing_bugs/)
-- [Solving Google reCAPTCHA audio using Playwright and Vosk](https://www.reddit.com/r/Python/comments/redo22/solving_google_recaptcha_audio_using_playwright/)
-- [my attempt at the sudoku board generator project](https://www.reddit.com/r/Python/comments/redlbt/my_attempt_at_the_sudoku_board_generator_project/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rec6mi/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
