@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My own noise generation thing&lpar;its a 1d random terrain generator but its not perlin noise&rpar;](https://www.reddit.com/r/Python/comments/reyjmu/my_own_noise_generation_thingits_a_1d_random/)
 - [Unpopular opinion? If you do not write and use tests, you are not an intermediate Python developer.](https://www.reddit.com/r/Python/comments/rex63a/unpopular_opinion_if_you_do_not_write_and_use/)
 - [Generative Art Synthesizer - a python program that generates python programs that generates generative art.](https://www.reddit.com/r/Python/comments/rewk2z/generative_art_synthesizer_a_python_program_that/)
 - [3 New Malicious Packages Found on PyPI](https://www.reddit.com/r/Python/comments/reua1p/3_new_malicious_packages_found_on_pypi/)
 - [Quote&amp;Joke : A Random Quotes And Joke Generating API](https://www.reddit.com/r/Python/comments/retjsx/quotejoke_a_random_quotes_and_joke_generating_api/)
-- [How do you guys feel about Atom IDE for python??](https://www.reddit.com/r/Python/comments/reszv0/how_do_you_guys_feel_about_atom_ide_for_python/)
 <!-- BLOG-POST-LIST:END -->
