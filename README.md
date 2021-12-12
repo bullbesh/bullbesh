@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How Whould i make a game like roblox like the hole platform and what do i need](https://www.reddit.com/r/Python/comments/reafrr/how_whould_i_make_a_game_like_roblox_like_the/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rec6mi/sunday_daily_thread_whats_everyone_working_on/)
+- [Space Science with Python - Part 17: C- and P-Comets](https://www.reddit.com/r/Python/comments/rebkb1/space_science_with_python_part_17_c_and_pcomets/)
 - [FastWSGI: An ultra-fast, multi-platform WSGI server for Python 3](https://www.reddit.com/r/Python/comments/re9l7e/fastwsgi_an_ultrafast_multiplatform_wsgi_server/)
 - [*Experimental* xo. will let you do amazing stuff in python](https://www.reddit.com/r/Python/comments/re8gmk/experimental_xo_will_let_you_do_amazing_stuff_in/)
 - [I wrote a python program for scraping Ebay to find a cheap used espresso machines under $200.](https://www.reddit.com/r/Python/comments/re6nz4/i_wrote_a_python_program_for_scraping_ebay_to/)
-- [Dyson hatching &lpar;dungeon map&rpar;](https://www.reddit.com/r/Python/comments/re5ppx/dyson_hatching_dungeon_map/)
 <!-- BLOG-POST-LIST:END -->
