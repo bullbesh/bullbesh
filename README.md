@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Easy Projects for Python Beginners](https://www.reddit.com/r/Python/comments/rfpzve/5_easy_projects_for_python_beginners/)
+- [Communicate with Python script over instant messenger?](https://www.reddit.com/r/Python/comments/rfpz0v/communicate_with_python_script_over_instant/)
+- [An AI made up a programming language, and I want you to try to implement it in Python.](https://www.reddit.com/r/Python/comments/rfpvyv/an_ai_made_up_a_programming_language_and_i_want/)
 - [Python Iterators](https://www.reddit.com/r/Python/comments/rfozdu/python_iterators/)
 - [Something You might be interested in.](https://www.reddit.com/r/Python/comments/rfow5r/something_you_might_be_interested_in/)
-- [Is This Django App Worth Developing or is it Whack?](https://www.reddit.com/r/Python/comments/rfnw67/is_this_django_app_worth_developing_or_is_it_whack/)
-- [Python interview questions are a great way to learn details of Python.](https://www.reddit.com/r/Python/comments/rfnogh/python_interview_questions_are_a_great_way_to/)
-- [Python dev commissions](https://www.reddit.com/r/Python/comments/rfn1fx/python_dev_commissions/)
 <!-- BLOG-POST-LIST:END -->
