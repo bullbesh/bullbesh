@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A very small script to hide files on Desktop/freeze Finder on Mac while neccessary :&rpar;](https://www.reddit.com/r/Python/comments/rfgdqp/a_very_small_script_to_hide_files_on/)
 - [I used Python to automate some Youtube workflows that I found myself repeating. Here&#39;s how](https://www.reddit.com/r/Python/comments/rffnlu/i_used_python_to_automate_some_youtube_workflows/)
 - [Ticker Tracker : A tool to perform technical analysis on live stock data, without the need of writing any code.](https://www.reddit.com/r/Python/comments/rffm5q/ticker_tracker_a_tool_to_perform_technical/)
 - [Interactive SVM model visualisation and understanding how it works](https://www.reddit.com/r/Python/comments/rff2k4/interactive_svm_model_visualisation_and/)
 - [Free Customizable Game Idea Generator!!&lpar;I made it&rpar;](https://www.reddit.com/r/Python/comments/rfeijo/free_customizable_game_idea_generatori_made_it/)
-- [Key Features of Python-InsideAIML](https://www.reddit.com/r/Python/comments/rfedmy/key_features_of_pythoninsideaiml/)
 <!-- BLOG-POST-LIST:END -->
