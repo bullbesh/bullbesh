@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python project ideas for beginners](https://www.reddit.com/r/Python/comments/rfcws3/python_project_ideas_for_beginners/)
-- [Python logging module &amp; indirect log4j vulnerability exposure?](https://www.reddit.com/r/Python/comments/rfbjih/python_logging_module_indirect_log4j/)
-- [How To Send Push Notifications With 9 Lines of Code Using Python](https://www.reddit.com/r/Python/comments/rfar91/how_to_send_push_notifications_with_9_lines_of/)
-- [Hey i made a currency converter . You can convert any currency and even value of gold per gram to U.S Dollars . I have added a handful of currencies in this program , so yea also this is my first post here as i just joined . This is Python CUI as i dont know GUI.](https://www.reddit.com/r/Python/comments/rf93fo/hey_i_made_a_currency_converter_you_can_convert/)
-- [How I created a Blackjack Game in Python](https://www.reddit.com/r/Python/comments/rf8vnl/how_i_created_a_blackjack_game_in_python/)
+- [Free Customizable Game Idea Generator!!&lpar;I made it&rpar;](https://www.reddit.com/r/Python/comments/rfeijo/free_customizable_game_idea_generatori_made_it/)
+- [Key Features of Python-InsideAIML](https://www.reddit.com/r/Python/comments/rfedmy/key_features_of_pythoninsideaiml/)
+- [s4g: Stupid Simple Static Site Generator](https://www.reddit.com/r/Python/comments/rfdy7y/s4g_stupid_simple_static_site_generator/)
+- [Quick Python Refactoring Tips for cleaner and more pythonic code](https://www.reddit.com/r/Python/comments/rfdvcl/quick_python_refactoring_tips_for_cleaner_and/)
+- [Let&#39;s Write a Game Boy Emulator Part 2: Writing the Z80 Disassembler](https://www.reddit.com/r/Python/comments/rfduda/lets_write_a_game_boy_emulator_part_2_writing_the/)
 <!-- BLOG-POST-LIST:END -->
