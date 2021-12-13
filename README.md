@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Playing Atari 2600 defender using my hands as motion controls [project]](https://www.reddit.com/r/Python/comments/rfk8si/playing_atari_2600_defender_using_my_hands_as/)
 - [It’s time to stop using Python 3.6](https://www.reddit.com/r/Python/comments/rfjljn/its_time_to_stop_using_python_36/)
 - [Why can&#39;t python be used like c or c++](https://www.reddit.com/r/Python/comments/rfj8gj/why_cant_python_be_used_like_c_or_c/)
 - [View a python function&#39;s history over-time with Git &amp; FZF](https://www.reddit.com/r/Python/comments/rfiw2o/view_a_python_functions_history_overtime_with_git/)
 - [br4nch: Data structure tree generator for Python](https://www.reddit.com/r/Python/comments/rfig7m/br4nch_data_structure_tree_generator_for_python/)
-- [Evil Python: Modifying a list while iterating over it](https://www.reddit.com/r/Python/comments/rfi3im/evil_python_modifying_a_list_while_iterating_over/)
 <!-- BLOG-POST-LIST:END -->
