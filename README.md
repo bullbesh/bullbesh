@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Iterators](https://www.reddit.com/r/Python/comments/rfozdu/python_iterators/)
+- [Something You might be interested in.](https://www.reddit.com/r/Python/comments/rfow5r/something_you_might_be_interested_in/)
+- [Is This Django App Worth Developing or is it Whack?](https://www.reddit.com/r/Python/comments/rfnw67/is_this_django_app_worth_developing_or_is_it_whack/)
+- [Python interview questions are a great way to learn details of Python.](https://www.reddit.com/r/Python/comments/rfnogh/python_interview_questions_are_a_great_way_to/)
 - [Python dev commissions](https://www.reddit.com/r/Python/comments/rfn1fx/python_dev_commissions/)
-- [Does array slicing [::] use extra memory?](https://www.reddit.com/r/Python/comments/rfm6ph/does_array_slicing_use_extra_memory/)
-- [#8 Python for Beginners: Set and Frozenset Data Type](https://www.reddit.com/r/Python/comments/rfm52a/8_python_for_beginners_set_and_frozenset_data_type/)
-- [Python static analysis tools comparison: Pylint, Pyflakes and Mypy](https://www.reddit.com/r/Python/comments/rflz4o/python_static_analysis_tools_comparison_pylint/)
-- [Check out this Python Library Index.](https://www.reddit.com/r/Python/comments/rflszc/check_out_this_python_library_index/)
 <!-- BLOG-POST-LIST:END -->
