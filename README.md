@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Bigger Progress](https://www.reddit.com/r/Python/comments/rf01pp/bigger_progress/)
+- [Clash Royale Chest Tracker Widget for iOS](https://www.reddit.com/r/Python/comments/rf2rss/clash_royale_chest_tracker_widget_for_ios/)
+- [Should I be using vscode for python development?](https://www.reddit.com/r/Python/comments/rf25ww/should_i_be_using_vscode_for_python_development/)
+- [isocodes: A python library that provides you access to lists of various ISO standards &lpar;e.g. country, language, language scripts, and currency names&rpar;.](https://www.reddit.com/r/Python/comments/rf20kg/isocodes_a_python_library_that_provides_you/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/rf1w15/monday_daily_thread_project_ideas/)
 - [My own noise generation thing&lpar;its a 1d random terrain generator but its not perlin noise&rpar;](https://www.reddit.com/r/Python/comments/reyjmu/my_own_noise_generation_thingits_a_1d_random/)
-- [Unpopular opinion? If you do not write and use tests, you are not an intermediate Python developer.](https://www.reddit.com/r/Python/comments/rex63a/unpopular_opinion_if_you_do_not_write_and_use/)
-- [Generative Art Synthesizer - a python program that generates python programs that generates generative art.](https://www.reddit.com/r/Python/comments/rewk2z/generative_art_synthesizer_a_python_program_that/)
-- [3 New Malicious Packages Found on PyPI](https://www.reddit.com/r/Python/comments/reua1p/3_new_malicious_packages_found_on_pypi/)
 <!-- BLOG-POST-LIST:END -->
