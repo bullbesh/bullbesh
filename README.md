@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [New Python package for finite fields using NumPy arrays](https://www.reddit.com/r/Python/comments/rfh5pu/new_python_package_for_finite_fields_using_numpy/)
-- [OpenCV Face-Detection Explained With Project](https://www.reddit.com/r/Python/comments/rfgsm9/opencv_facedetection_explained_with_project/)
-- [A very small script to hide files on Desktop/freeze Finder on Mac while neccessary :&rpar;](https://www.reddit.com/r/Python/comments/rfgdqp/a_very_small_script_to_hide_files_on/)
-- [I used Python to automate some Youtube workflows that I found myself repeating. Here&#39;s how](https://www.reddit.com/r/Python/comments/rffnlu/i_used_python_to_automate_some_youtube_workflows/)
-- [Interactive SVM model visualisation and understanding how it works](https://www.reddit.com/r/Python/comments/rff2k4/interactive_svm_model_visualisation_and/)
+- [It’s time to stop using Python 3.6](https://www.reddit.com/r/Python/comments/rfjljn/its_time_to_stop_using_python_36/)
+- [Why can&#39;t python be used like c or c++](https://www.reddit.com/r/Python/comments/rfj8gj/why_cant_python_be_used_like_c_or_c/)
+- [View a python function&#39;s history over-time with Git &amp; FZF](https://www.reddit.com/r/Python/comments/rfiw2o/view_a_python_functions_history_overtime_with_git/)
+- [br4nch: Data structure tree generator for Python](https://www.reddit.com/r/Python/comments/rfig7m/br4nch_data_structure_tree_generator_for_python/)
+- [Evil Python: Modifying a list while iterating over it](https://www.reddit.com/r/Python/comments/rfi3im/evil_python_modifying_a_list_while_iterating_over/)
 <!-- BLOG-POST-LIST:END -->
