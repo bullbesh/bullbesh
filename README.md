@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I used Python to automate some Youtube workflows that I found myself repeating. Here&#39;s how](https://www.reddit.com/r/Python/comments/rffnlu/i_used_python_to_automate_some_youtube_workflows/)
+- [Ticker Tracker : A tool to perform technical analysis on live stock data, without the need of writing any code.](https://www.reddit.com/r/Python/comments/rffm5q/ticker_tracker_a_tool_to_perform_technical/)
+- [Interactive SVM model visualisation and understanding how it works](https://www.reddit.com/r/Python/comments/rff2k4/interactive_svm_model_visualisation_and/)
 - [Free Customizable Game Idea Generator!!&lpar;I made it&rpar;](https://www.reddit.com/r/Python/comments/rfeijo/free_customizable_game_idea_generatori_made_it/)
 - [Key Features of Python-InsideAIML](https://www.reddit.com/r/Python/comments/rfedmy/key_features_of_pythoninsideaiml/)
-- [s4g: Stupid Simple Static Site Generator](https://www.reddit.com/r/Python/comments/rfdy7y/s4g_stupid_simple_static_site_generator/)
-- [Quick Python Refactoring Tips for cleaner and more pythonic code](https://www.reddit.com/r/Python/comments/rfdvcl/quick_python_refactoring_tips_for_cleaner_and/)
-- [Let&#39;s Write a Game Boy Emulator Part 2: Writing the Z80 Disassembler](https://www.reddit.com/r/Python/comments/rfduda/lets_write_a_game_boy_emulator_part_2_writing_the/)
 <!-- BLOG-POST-LIST:END -->
