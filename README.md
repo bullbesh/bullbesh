@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you need a high iq in coding / programming?](https://www.reddit.com/r/Python/comments/rf4chu/do_you_need_a_high_iq_in_coding_programming/)
 - [Clash Royale Chest Tracker Widget for iOS](https://www.reddit.com/r/Python/comments/rf2rss/clash_royale_chest_tracker_widget_for_ios/)
 - [Should I be using vscode for python development?](https://www.reddit.com/r/Python/comments/rf25ww/should_i_be_using_vscode_for_python_development/)
 - [isocodes: A python library that provides you access to lists of various ISO standards &lpar;e.g. country, language, language scripts, and currency names&rpar;.](https://www.reddit.com/r/Python/comments/rf20kg/isocodes_a_python_library_that_provides_you/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/rf1w15/monday_daily_thread_project_ideas/)
-- [My own noise generation thing&lpar;its a 1d random terrain generator but its not perlin noise&rpar;](https://www.reddit.com/r/Python/comments/reyjmu/my_own_noise_generation_thingits_a_1d_random/)
 <!-- BLOG-POST-LIST:END -->
