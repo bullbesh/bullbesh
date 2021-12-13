@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does array slicing [::] use extra memory?](https://www.reddit.com/r/Python/comments/rfm6ph/does_array_slicing_use_extra_memory/)
+- [#8 Python for Beginners: Set and Frozenset Data Type](https://www.reddit.com/r/Python/comments/rfm52a/8_python_for_beginners_set_and_frozenset_data_type/)
+- [Python static analysis tools comparison: Pylint, Pyflakes and Mypy](https://www.reddit.com/r/Python/comments/rflz4o/python_static_analysis_tools_comparison_pylint/)
+- [Check out this Python Library Index.](https://www.reddit.com/r/Python/comments/rflszc/check_out_this_python_library_index/)
 - [Playing Atari 2600 defender using my hands as motion controls [project]](https://www.reddit.com/r/Python/comments/rfk8si/playing_atari_2600_defender_using_my_hands_as/)
-- [It’s time to stop using Python 3.6](https://www.reddit.com/r/Python/comments/rfjljn/its_time_to_stop_using_python_36/)
-- [Why can&#39;t python be used like c or c++](https://www.reddit.com/r/Python/comments/rfj8gj/why_cant_python_be_used_like_c_or_c/)
-- [View a python function&#39;s history over-time with Git &amp; FZF](https://www.reddit.com/r/Python/comments/rfiw2o/view_a_python_functions_history_overtime_with_git/)
-- [br4nch: Data structure tree generator for Python](https://www.reddit.com/r/Python/comments/rfig7m/br4nch_data_structure_tree_generator_for_python/)
 <!-- BLOG-POST-LIST:END -->
