@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best Machine Learning Courses on Udemy](https://www.reddit.com/r/Python/comments/rg65gb/the_best_machine_learning_courses_on_udemy/)
+- [Any python projects? Looking to be of help.](https://www.reddit.com/r/Python/comments/rg646s/any_python_projects_looking_to_be_of_help/)
+- [pydantic-factories](https://www.reddit.com/r/Python/comments/rg5sgq/pydanticfactories/)
+- [Architecting the Future of Cross-Cloud Data Collaboration https://hubs.li/Q010pnn-0](https://www.reddit.com/r/Python/comments/rg5khy/architecting_the_future_of_crosscloud_data/)
 - [[French] Recherche d&#39;un codeur IA &lpar;rémunération&rpar;](https://www.reddit.com/r/Python/comments/rg4ui8/french_recherche_dun_codeur_ia_rémunération/)
-- [Installing pyodbc and unixodbc for Apple Silicon](https://www.reddit.com/r/Python/comments/rg3yvb/installing_pyodbc_and_unixodbc_for_apple_silicon/)
-- [An Introduction to Python Dictionary and Structuring Data](https://www.reddit.com/r/Python/comments/rg3lx7/an_introduction_to_python_dictionary_and/)
-- [GitHub - Clivern/Pindo: 🐺 Build and Run Code in Docker.](https://www.reddit.com/r/Python/comments/rg39ev/github_clivernpindo_build_and_run_code_in_docker/)
-- [Teaching myself python](https://www.reddit.com/r/Python/comments/rg34tq/teaching_myself_python/)
 <!-- BLOG-POST-LIST:END -->
