@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Load-balanced xdist](https://www.reddit.com/r/Python/comments/rg29lz/loadbalanced_xdist/)
+- [xfail and code coverage](https://www.reddit.com/r/Python/comments/rg28yu/xfail_and_code_coverage/)
+- [PEP 677 – Callable Type Syntax](https://www.reddit.com/r/Python/comments/rg26i1/pep_677_callable_type_syntax/)
+- [Python on the web.](https://www.reddit.com/r/Python/comments/rg20wh/python_on_the_web/)
 - [How to find duplicate groups?](https://www.reddit.com/r/Python/comments/rg1sc2/how_to_find_duplicate_groups/)
-- [Things to read before Blackhat Python](https://www.reddit.com/r/Python/comments/rg1nvb/things_to_read_before_blackhat_python/)
-- [Calculate Electricity By Creating Simple Python Program | Learning with Fun| Episode 4](https://www.reddit.com/r/Python/comments/rg1l6a/calculate_electricity_by_creating_simple_python/)
-- [White noise image generator](https://www.reddit.com/r/Python/comments/rfzi22/white_noise_image_generator/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/rfu0a0/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
