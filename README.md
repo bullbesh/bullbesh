@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to find duplicate groups?](https://www.reddit.com/r/Python/comments/rg1sc2/how_to_find_duplicate_groups/)
+- [Things to read before Blackhat Python](https://www.reddit.com/r/Python/comments/rg1nvb/things_to_read_before_blackhat_python/)
+- [Calculate Electricity By Creating Simple Python Program | Learning with Fun| Episode 4](https://www.reddit.com/r/Python/comments/rg1l6a/calculate_electricity_by_creating_simple_python/)
 - [White noise image generator](https://www.reddit.com/r/Python/comments/rfzi22/white_noise_image_generator/)
-- [9 FREE ONLINE COURSES FOR PYTHON BEGINNERS](https://www.reddit.com/r/Python/comments/rfz285/9_free_online_courses_for_python_beginners/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/rfu0a0/tuesday_daily_thread_advanced_questions/)
-- [How to use our SWE skills for good?](https://www.reddit.com/r/Python/comments/rftl1e/how_to_use_our_swe_skills_for_good/)
-- [Learn Python – Free Python Courses for Beginners](https://www.reddit.com/r/Python/comments/rft8qw/learn_python_free_python_courses_for_beginners/)
 <!-- BLOG-POST-LIST:END -->
