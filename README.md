@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I beat human benchmark&#39;s chimp test using Python!](https://www.reddit.com/r/Python/comments/rgasl6/i_beat_human_benchmarks_chimp_test_using_python/)
+- [Python Logo Candy](https://www.reddit.com/r/Python/comments/rgaoy7/python_logo_candy/)
+- [Judge My Rock Paper Scissors Game](https://www.reddit.com/r/Python/comments/rgadlr/judge_my_rock_paper_scissors_game/)
+- [Free Course: NLP for Semantic Search](https://www.reddit.com/r/Python/comments/rga25o/free_course_nlp_for_semantic_search/)
 - [time-machine](https://www.reddit.com/r/Python/comments/rg8amr/timemachine/)
-- [Python Requests – How to Interact with Web Services using Python](https://www.reddit.com/r/Python/comments/rg874f/python_requests_how_to_interact_with_web_services/)
-- [Python Cheatsheet for Beginners](https://www.reddit.com/r/Python/comments/rg82h2/python_cheatsheet_for_beginners/)
-- [Best python-3 repositories to use on an academic research](https://www.reddit.com/r/Python/comments/rg7jss/best_python3_repositories_to_use_on_an_academic/)
-- [Java vs Python: Basic Python for Java Developers – Real Python](https://www.reddit.com/r/Python/comments/rg7ipv/java_vs_python_basic_python_for_java_developers/)
 <!-- BLOG-POST-LIST:END -->
