@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [White noise image generator](https://www.reddit.com/r/Python/comments/rfzi22/white_noise_image_generator/)
 - [9 FREE ONLINE COURSES FOR PYTHON BEGINNERS](https://www.reddit.com/r/Python/comments/rfz285/9_free_online_courses_for_python_beginners/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/rfu0a0/tuesday_daily_thread_advanced_questions/)
 - [How to use our SWE skills for good?](https://www.reddit.com/r/Python/comments/rftl1e/how_to_use_our_swe_skills_for_good/)
 - [Learn Python – Free Python Courses for Beginners](https://www.reddit.com/r/Python/comments/rft8qw/learn_python_free_python_courses_for_beginners/)
-- [How to use Flask with gevent &lpar;uWSGI and Gunicorn editions&rpar;](https://www.reddit.com/r/Python/comments/rft0e3/how_to_use_flask_with_gevent_uwsgi_and_gunicorn/)
 <!-- BLOG-POST-LIST:END -->
