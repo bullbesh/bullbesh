@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [BOTLIB 146 released - 24/7 channel daemon](https://www.reddit.com/r/Python/comments/rg6l1q/botlib_146_released_247_channel_daemon/)
-- [The Best Machine Learning Courses on Udemy](https://www.reddit.com/r/Python/comments/rg65gb/the_best_machine_learning_courses_on_udemy/)
-- [Any python projects? Looking to be of help.](https://www.reddit.com/r/Python/comments/rg646s/any_python_projects_looking_to_be_of_help/)
-- [pydantic-factories](https://www.reddit.com/r/Python/comments/rg5sgq/pydanticfactories/)
-- [Architecting the Future of Cross-Cloud Data Collaboration https://hubs.li/Q010pnn-0](https://www.reddit.com/r/Python/comments/rg5khy/architecting_the_future_of_crosscloud_data/)
+- [time-machine](https://www.reddit.com/r/Python/comments/rg8amr/timemachine/)
+- [Python Requests – How to Interact with Web Services using Python](https://www.reddit.com/r/Python/comments/rg874f/python_requests_how_to_interact_with_web_services/)
+- [Python Cheatsheet for Beginners](https://www.reddit.com/r/Python/comments/rg82h2/python_cheatsheet_for_beginners/)
+- [Best python-3 repositories to use on an academic research](https://www.reddit.com/r/Python/comments/rg7jss/best_python3_repositories_to_use_on_an_academic/)
+- [Java vs Python: Basic Python for Java Developers – Real Python](https://www.reddit.com/r/Python/comments/rg7ipv/java_vs_python_basic_python_for_java_developers/)
 <!-- BLOG-POST-LIST:END -->
