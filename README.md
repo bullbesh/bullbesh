@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to Python Dictionary and Structuring Data](https://www.reddit.com/r/Python/comments/rg3lx7/an_introduction_to_python_dictionary_and/)
+- [GitHub - Clivern/Pindo: 🐺 Build and Run Code in Docker.](https://www.reddit.com/r/Python/comments/rg39ev/github_clivernpindo_build_and_run_code_in_docker/)
+- [Teaching myself python](https://www.reddit.com/r/Python/comments/rg34tq/teaching_myself_python/)
 - [Load-balanced xdist](https://www.reddit.com/r/Python/comments/rg29lz/loadbalanced_xdist/)
 - [xfail and code coverage](https://www.reddit.com/r/Python/comments/rg28yu/xfail_and_code_coverage/)
-- [PEP 677 – Callable Type Syntax](https://www.reddit.com/r/Python/comments/rg26i1/pep_677_callable_type_syntax/)
-- [Python on the web.](https://www.reddit.com/r/Python/comments/rg20wh/python_on_the_web/)
-- [How to find duplicate groups?](https://www.reddit.com/r/Python/comments/rg1sc2/how_to_find_duplicate_groups/)
 <!-- BLOG-POST-LIST:END -->
