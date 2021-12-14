@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to use Flask with gevent &lpar;uWSGI and Gunicorn editions&rpar;](https://www.reddit.com/r/Python/comments/rft0e3/how_to_use_flask_with_gevent_uwsgi_and_gunicorn/)
-- [Writing Better Tests with AI and GitHub Copilot](https://www.reddit.com/r/Python/comments/rfrzfb/writing_better_tests_with_ai_and_github_copilot/)
-- [Guys this is the article I wrote about how to create a YouTube downloader bot on telegram using PYTHON. You might find it useful to start off your first telegram bot](https://www.reddit.com/r/Python/comments/rfqz0w/guys_this_is_the_article_i_wrote_about_how_to/)
-- [5 Easy Projects for Python Beginners](https://www.reddit.com/r/Python/comments/rfpzve/5_easy_projects_for_python_beginners/)
-- [Communicate with Python script over instant messenger?](https://www.reddit.com/r/Python/comments/rfpz0v/communicate_with_python_script_over_instant/)
+- [Python/Pandas dataframe.drop warning](https://www.reddit.com/r/Python/comments/rfv3yp/pythonpandas_dataframedrop_warning/)
+- [Quick Q](https://www.reddit.com/r/Python/comments/rfuham/quick_q/)
+- [Creating a layer for elk stack](https://www.reddit.com/r/Python/comments/rfu2x3/creating_a_layer_for_elk_stack/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/rfu0a0/tuesday_daily_thread_advanced_questions/)
+- [How to use our SWE skills for good?](https://www.reddit.com/r/Python/comments/rftl1e/how_to_use_our_swe_skills_for_good/)
 <!-- BLOG-POST-LIST:END -->
