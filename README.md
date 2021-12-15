@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to start coding?](https://www.reddit.com/r/Python/comments/rgw6bu/how_to_start_coding/)
+- [Eager and lazy evaluation: super easy with Python](https://www.reddit.com/r/Python/comments/rgw18v/eager_and_lazy_evaluation_super_easy_with_python/)
 - [Anyone can help with this code](https://www.reddit.com/r/Python/comments/rgvyps/anyone_can_help_with_this_code/)
 - [Hello! This is a simple project I did for Christmas. Do you have any project ideas for Christmas?](https://www.reddit.com/r/Python/comments/rgvjno/hello_this_is_a_simple_project_i_did_for/)
 - [Python script to create Spotify Top Charts playlists without the Christmas songs 🎄🚫](https://www.reddit.com/r/Python/comments/rgultm/python_script_to_create_spotify_top_charts/)
-- [How to make the analyzer dynamics of top words for book about Harry Potter](https://www.reddit.com/r/Python/comments/rgu8dn/how_to_make_the_analyzer_dynamics_of_top_words/)
-- [Namespaces and Scope in Python-InsideAIML](https://www.reddit.com/r/Python/comments/rgu2p6/namespaces_and_scope_in_pythoninsideaiml/)
 <!-- BLOG-POST-LIST:END -->
