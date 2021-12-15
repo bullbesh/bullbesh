@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [are there any freelancers in this group?](https://www.reddit.com/r/Python/comments/rh2prp/are_there_any_freelancers_in_this_group/)
 - [Why the hate for utils modules? what is the alternative? And if utils are good, how to organize them?](https://www.reddit.com/r/Python/comments/rh006y/why_the_hate_for_utils_modules_what_is_the/)
 - [Screenshot scripts](https://www.reddit.com/r/Python/comments/rgzjrl/screenshot_scripts/)
 - [Simulating an Obstacle Avoidance Robot Using Python | From Scratch](https://www.reddit.com/r/Python/comments/rgytx4/simulating_an_obstacle_avoidance_robot_using/)
 - [Eager and lazy evaluation: super easy with Python](https://www.reddit.com/r/Python/comments/rgw18v/eager_and_lazy_evaluation_super_easy_with_python/)
-- [Hello! This is a simple project I did for Christmas. Do you have any project ideas for Christmas?](https://www.reddit.com/r/Python/comments/rgvjno/hello_this_is_a_simple_project_i_did_for/)
 <!-- BLOG-POST-LIST:END -->
