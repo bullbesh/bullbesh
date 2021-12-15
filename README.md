@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is something like the log4j vulnerability possible in the Python ecosystem?](https://www.reddit.com/r/Python/comments/rh9l9v/is_something_like_the_log4j_vulnerability/)
+- [A complete, grammatically correct&lpar;excluding punctuation&rpar; sentence in english made of python keywords](https://www.reddit.com/r/Python/comments/rh9i02/a_complete_grammatically_correctexcluding/)
+- [For GTK python devs: I&#39;ve released a tool based on fakegir that brings type hints and add auto-completion for PyGObject!](https://www.reddit.com/r/Python/comments/rh94kt/for_gtk_python_devs_ive_released_a_tool_based_on/)
+- [I made a simple way to log your app&#39;s events.](https://www.reddit.com/r/Python/comments/rh8tg7/i_made_a_simple_way_to_log_your_apps_events/)
 - [Made an open-source minimal template for Flask-based desktop apps and web apps](https://www.reddit.com/r/Python/comments/rh6tor/made_an_opensource_minimal_template_for/)
-- [Connecting high school students to internships! A Django app.](https://www.reddit.com/r/Python/comments/rh4wot/connecting_high_school_students_to_internships_a/)
-- [Download and Analyze Crypto Market Data with Python](https://www.reddit.com/r/Python/comments/rh3u7e/download_and_analyze_crypto_market_data_with/)
-- [Why the hate for utils modules? what is the alternative? And if utils are good, how to organize them?](https://www.reddit.com/r/Python/comments/rh006y/why_the_hate_for_utils_modules_what_is_the/)
-- [Simulating an Obstacle Avoidance Robot Using Python | From Scratch](https://www.reddit.com/r/Python/comments/rgytx4/simulating_an_obstacle_avoidance_robot_using/)
 <!-- BLOG-POST-LIST:END -->
