@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating React Applications with Python: No-el Improvement](https://www.reddit.com/r/Python/comments/rgp1zr/creating_react_applications_with_python_noel/)
 - [Generating The Sierpinski Triangle With Python and Pygame](https://www.reddit.com/r/Python/comments/rgmwul/generating_the_sierpinski_triangle_with_python/)
-- [Project Ideas](https://www.reddit.com/r/Python/comments/rgmleo/project_ideas/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/rgl28t/wednesday_daily_thread_beginner_questions/)
 - [Make Your Python Code Run Faster With Caching](https://www.reddit.com/r/Python/comments/rgkpl0/make_your_python_code_run_faster_with_caching/)
 - [Jupyter Games: IPycanvas + Box2D Create tiny games directly in Jupyter notebooks](https://www.reddit.com/r/Python/comments/rggxph/jupyter_games_ipycanvas_box2d_create_tiny_games/)
