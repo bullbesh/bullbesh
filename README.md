@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Connecting high school students to internships! A Django app.](https://www.reddit.com/r/Python/comments/rh4wot/connecting_high_school_students_to_internships_a/)
 - [Download and Analyze Crypto Market Data with Python](https://www.reddit.com/r/Python/comments/rh3u7e/download_and_analyze_crypto_market_data_with/)
-- [are there any freelancers in this group?](https://www.reddit.com/r/Python/comments/rh2prp/are_there_any_freelancers_in_this_group/)
 - [Why the hate for utils modules? what is the alternative? And if utils are good, how to organize them?](https://www.reddit.com/r/Python/comments/rh006y/why_the_hate_for_utils_modules_what_is_the/)
-- [Screenshot scripts](https://www.reddit.com/r/Python/comments/rgzjrl/screenshot_scripts/)
 - [Simulating an Obstacle Avoidance Robot Using Python | From Scratch](https://www.reddit.com/r/Python/comments/rgytx4/simulating_an_obstacle_avoidance_robot_using/)
+- [Hello! This is a simple project I did for Christmas. Do you have any project ideas for Christmas?](https://www.reddit.com/r/Python/comments/rgvjno/hello_this_is_a_simple_project_i_did_for/)
 <!-- BLOG-POST-LIST:END -->
