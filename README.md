@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Python] Russell&#39;s &lpar;Barber&rpar; paradox explanation in Python](https://www.reddit.com/r/Python/comments/rhvj37/python_russells_barber_paradox_explanation_in/)
 - [Usecase for sending values to generators](https://www.reddit.com/r/Python/comments/rhsd6k/usecase_for_sending_values_to_generators/)
 - [Mypy 0.920 Released](https://www.reddit.com/r/Python/comments/rhrkj7/mypy_0920_released/)
 - [Healthsea an end-to-end spaCy NLP pipeline to analyze 1M user written reviews to understand what health benefits users attribute to supplements](https://www.reddit.com/r/Python/comments/rhr86d/healthsea_an_endtoend_spacy_nlp_pipeline_to/)
 - [httpx-cache: Simple caching transport for the awesome httpx lib](https://www.reddit.com/r/Python/comments/rhohxi/httpxcache_simple_caching_transport_for_the/)
-- [5 Top Automated Testing Tools for 2022](https://www.reddit.com/r/Python/comments/rho367/5_top_automated_testing_tools_for_2022/)
 <!-- BLOG-POST-LIST:END -->
