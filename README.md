@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hack Web Views With A Selenium Python Bot](https://www.reddit.com/r/Python/comments/rhnnqs/hack_web_views_with_a_selenium_python_bot/)
+- [Installing Python and PyCharm - Lecture 0 | Python Course for Beginners](https://www.reddit.com/r/Python/comments/rhnbjs/installing_python_and_pycharm_lecture_0_python/)
+- [GitHub - jamesroberts/fastwsgi: An ultra fast WSGI server for Python 3](https://www.reddit.com/r/Python/comments/rhn6n9/github_jamesrobertsfastwsgi_an_ultra_fast_wsgi/)
 - [Django Web Framework - Learn web development | MDN](https://www.reddit.com/r/Python/comments/rhmpxi/django_web_framework_learn_web_development_mdn/)
 - [Automatically Boring Stuff and Python](https://www.reddit.com/r/Python/comments/rhmczz/automatically_boring_stuff_and_python/)
-- [I was tired of not catching up with all the interesting software content that&#39;s out there, so I built a blog for myself and the busy Pythonistas - summaries of interesting articles and stories! Planning to write a new post every week.](https://www.reddit.com/r/Python/comments/rhlyki/i_was_tired_of_not_catching_up_with_all_the/)
-- [Python for Beginners with Examples | Python for Beginners](https://www.reddit.com/r/Python/comments/rhlu72/python_for_beginners_with_examples_python_for/)
-- [PyGenetic - Genetic algorithms in python](https://www.reddit.com/r/Python/comments/rhl6cf/pygenetic_genetic_algorithms_in_python/)
 <!-- BLOG-POST-LIST:END -->
