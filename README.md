@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I was tired of not catching up with all the interesting software content that&#39;s out there, so I built a blog for myself and the busy Pythonistas - summaries of interesting articles and stories! Planning to write a new post every week.](https://www.reddit.com/r/Python/comments/rhlyki/i_was_tired_of_not_catching_up_with_all_the/)
+- [Python for Beginners with Examples | Python for Beginners](https://www.reddit.com/r/Python/comments/rhlu72/python_for_beginners_with_examples_python_for/)
 - [PyGenetic - Genetic algorithms in python](https://www.reddit.com/r/Python/comments/rhl6cf/pygenetic_genetic_algorithms_in_python/)
 - [Eliminate fake likes on tik tok](https://www.reddit.com/r/Python/comments/rhkf2t/eliminate_fake_likes_on_tik_tok/)
 - [Programming complex white noise in Python to create a &#39;3D ZOOM&#39; effect with 2D images - part of a larger project exploring 3D imagery in 2D spaces :&rpar;](https://www.reddit.com/r/Python/comments/rhgj7c/programming_complex_white_noise_in_python_to/)
-- [Any beginner to intermediate level python program projects that are CHEMISTRY based?](https://www.reddit.com/r/Python/comments/rheslm/any_beginner_to_intermediate_level_python_program/)
-- [Need Python Filter / Image Manipulation Help](https://www.reddit.com/r/Python/comments/rhehwx/need_python_filter_image_manipulation_help/)
 <!-- BLOG-POST-LIST:END -->
