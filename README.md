@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Usecase for sending values to generators](https://www.reddit.com/r/Python/comments/rhsd6k/usecase_for_sending_values_to_generators/)
 - [Mypy 0.920 Released](https://www.reddit.com/r/Python/comments/rhrkj7/mypy_0920_released/)
 - [Healthsea an end-to-end spaCy NLP pipeline to analyze 1M user written reviews to understand what health benefits users attribute to supplements](https://www.reddit.com/r/Python/comments/rhr86d/healthsea_an_endtoend_spacy_nlp_pipeline_to/)
 - [httpx-cache: Simple caching transport for the awesome httpx lib](https://www.reddit.com/r/Python/comments/rhohxi/httpxcache_simple_caching_transport_for_the/)
 - [5 Top Automated Testing Tools for 2022](https://www.reddit.com/r/Python/comments/rho367/5_top_automated_testing_tools_for_2022/)
-- [Hack Web Views With A Selenium Python Bot](https://www.reddit.com/r/Python/comments/rhnnqs/hack_web_views_with_a_selenium_python_bot/)
 <!-- BLOG-POST-LIST:END -->
