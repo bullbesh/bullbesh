@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Start Using Pathlib As An Alternative To the OS Module](https://www.reddit.com/r/Python/comments/ri11di/why_you_should_start_using_pathlib_as_an/)
+- [How does chatbots in Python works? Do you have any experiences with it.](https://www.reddit.com/r/Python/comments/ri0ydd/how_does_chatbots_in_python_works_do_you_have_any/)
 - [Virtual Environment - Library installation via PIP](https://www.reddit.com/r/Python/comments/ri0ge5/virtual_environment_library_installation_via_pip/)
 - [How to Crop Images with OpenCV and Python](https://www.reddit.com/r/Python/comments/rhzndd/how_to_crop_images_with_opencv_and_python/)
 - [Unbeatable rock paper scissors game using python &lpar;I am a beginner at python&rpar;](https://www.reddit.com/r/Python/comments/rhxxjy/unbeatable_rock_paper_scissors_game_using_python/)
-- [[Python] Russell&#39;s &lpar;Barber&rpar; paradox explanation in Python](https://www.reddit.com/r/Python/comments/rhvj37/python_russells_barber_paradox_explanation_in/)
-- [Usecase for sending values to generators](https://www.reddit.com/r/Python/comments/rhsd6k/usecase_for_sending_values_to_generators/)
 <!-- BLOG-POST-LIST:END -->
