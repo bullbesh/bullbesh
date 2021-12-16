@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mypy 0.920 Released](https://www.reddit.com/r/Python/comments/rhrkj7/mypy_0920_released/)
+- [Healthsea an end-to-end spaCy NLP pipeline to analyze 1M user written reviews to understand what health benefits users attribute to supplements](https://www.reddit.com/r/Python/comments/rhr86d/healthsea_an_endtoend_spacy_nlp_pipeline_to/)
 - [httpx-cache: Simple caching transport for the awesome httpx lib](https://www.reddit.com/r/Python/comments/rhohxi/httpxcache_simple_caching_transport_for_the/)
 - [5 Top Automated Testing Tools for 2022](https://www.reddit.com/r/Python/comments/rho367/5_top_automated_testing_tools_for_2022/)
 - [Hack Web Views With A Selenium Python Bot](https://www.reddit.com/r/Python/comments/rhnnqs/hack_web_views_with_a_selenium_python_bot/)
-- [Installing Python and PyCharm - Lecture 0 | Python Course for Beginners](https://www.reddit.com/r/Python/comments/rhnbjs/installing_python_and_pycharm_lecture_0_python/)
-- [GitHub - jamesroberts/fastwsgi: An ultra fast WSGI server for Python 3](https://www.reddit.com/r/Python/comments/rhn6n9/github_jamesrobertsfastwsgi_an_ultra_fast_wsgi/)
 <!-- BLOG-POST-LIST:END -->
