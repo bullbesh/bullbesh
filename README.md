@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Polars, lightning-fast DataFrame library](https://www.reddit.com/r/Python/comments/ridi46/polars_lightningfast_dataframe_library/)
+- [Transcribe music sheet photo into MusicXML &lpar;OMR&rpar;](https://www.reddit.com/r/Python/comments/rida9z/transcribe_music_sheet_photo_into_musicxml_omr/)
 - [Python in Healthcare](https://www.reddit.com/r/Python/comments/ricffa/python_in_healthcare/)
 - [A Beginner’s Guide to High Performance Computing in Python](https://www.reddit.com/r/Python/comments/rib79l/a_beginners_guide_to_high_performance_computing/)
 - [100 Days of Python Code](https://www.reddit.com/r/Python/comments/rianhe/100_days_of_python_code/)
-- [Extract GitHub profile Image using python web scrapper](https://www.reddit.com/r/Python/comments/riajwz/extract_github_profile_image_using_python_web/)
-- [Namespaces and Scope in Python-InsideAIML](https://www.reddit.com/r/Python/comments/riaezg/namespaces_and_scope_in_pythoninsideaiml/)
 <!-- BLOG-POST-LIST:END -->
