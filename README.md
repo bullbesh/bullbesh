@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [spg, the secure password generator.](https://www.reddit.com/r/Python/comments/rim02x/spg_the_secure_password_generator/)
+- [A guide to using OpenTelemetry to automatically instrument Python applications](https://www.reddit.com/r/Python/comments/rilu7n/a_guide_to_using_opentelemetry_to_automatically/)
+- [Help with python script](https://www.reddit.com/r/Python/comments/rildql/help_with_python_script/)
 - [Data Structures and Algorithms](https://www.reddit.com/r/Python/comments/ril3t9/data_structures_and_algorithms/)
 - [using staticmethod with self](https://www.reddit.com/r/Python/comments/rijjuu/using_staticmethod_with_self/)
-- [Master Dataclasses in Python Part 2 - Equality Between Dataclasses](https://www.reddit.com/r/Python/comments/riiz1o/master_dataclasses_in_python_part_2_equality/)
-- [Have you ever used pytest fixtures? They make it a snap to set up and configure your tests. Here&#39;s five pytest fixture patterns to get you started](https://www.reddit.com/r/Python/comments/riicr6/have_you_ever_used_pytest_fixtures_they_make_it_a/)
-- [py4jshell](https://www.reddit.com/r/Python/comments/rihbjz/py4jshell/)
 <!-- BLOG-POST-LIST:END -->
