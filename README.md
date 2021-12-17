@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [debugpy.nvim: Command and API frontend to nvim-dap and Debugpy &lpar;debugging Python in Neovim&rpar;](https://www.reddit.com/r/Python/comments/ritare/debugpynvim_command_and_api_frontend_to_nvimdap/)
 - [Has anyone used Replit before?](https://www.reddit.com/r/Python/comments/ris93k/has_anyone_used_replit_before/)
 - [Looks like we&#39;re doing various kinds of random text generators lately, here&#39;s my fortune generator!](https://www.reddit.com/r/Python/comments/ris5iy/looks_like_were_doing_various_kinds_of_random/)
 - [Learn Python Here:](https://www.reddit.com/r/Python/comments/ris1ju/learn_python_here/)
 - [Efficiently keeping a &quot;moving window&quot; of records in Pandas](https://www.reddit.com/r/Python/comments/riq6rj/efficiently_keeping_a_moving_window_of_records_in/)
-- [How to Retry Failed Tasks in the ThreadPoolExecutor](https://www.reddit.com/r/Python/comments/riq0e8/how_to_retry_failed_tasks_in_the/)
 <!-- BLOG-POST-LIST:END -->
