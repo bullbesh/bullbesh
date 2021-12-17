@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MeCopy v1.0 - Move or delete files easily](https://www.reddit.com/r/Python/comments/ri731d/mecopy_v10_move_or_delete_files_easily/)
+- [CaptchaCracker](https://www.reddit.com/r/Python/comments/ri6y3w/captchacracker/)
 - [Linked Lists and Binary Trees in python](https://www.reddit.com/r/Python/comments/ri6sef/linked_lists_and_binary_trees_in_python/)
 - [Made this text based Database for the first time](https://www.reddit.com/r/Python/comments/ri5fhd/made_this_text_based_database_for_the_first_time/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/ri3u5f/friday_daily_thread_free_chat_friday_daily_thread/)
-- [Beginner - Self-development funds ideas](https://www.reddit.com/r/Python/comments/ri2oxd/beginner_selfdevelopment_funds_ideas/)
-- [Beginner automated trading project with Quart, Async, and Terra](https://www.reddit.com/r/Python/comments/ri2208/beginner_automated_trading_project_with_quart/)
 <!-- BLOG-POST-LIST:END -->
