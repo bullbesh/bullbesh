@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [py4jshell](https://www.reddit.com/r/Python/comments/rihbjz/py4jshell/)
+- [Qt designer licensing](https://www.reddit.com/r/Python/comments/rigp4o/qt_designer_licensing/)
 - [CleanMyMac deletes Poetry environments](https://www.reddit.com/r/Python/comments/riggf2/cleanmymac_deletes_poetry_environments/)
-- [What will happen to python in 2022](https://www.reddit.com/r/Python/comments/rifjf4/what_will_happen_to_python_in_2022/)
 - [Polars, lightning-fast DataFrame library](https://www.reddit.com/r/Python/comments/ridi46/polars_lightningfast_dataframe_library/)
 - [Transcribe music sheet photo into MusicXML &lpar;OMR&rpar;](https://www.reddit.com/r/Python/comments/rida9z/transcribe_music_sheet_photo_into_musicxml_omr/)
-- [Python in Healthcare](https://www.reddit.com/r/Python/comments/ricffa/python_in_healthcare/)
 <!-- BLOG-POST-LIST:END -->
