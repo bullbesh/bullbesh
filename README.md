@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Efficiently keeping a &quot;moving window&quot; of records in Pandas](https://www.reddit.com/r/Python/comments/riq6rj/efficiently_keeping_a_moving_window_of_records_in/)
+- [How to Retry Failed Tasks in the ThreadPoolExecutor](https://www.reddit.com/r/Python/comments/riq0e8/how_to_retry_failed_tasks_in_the/)
 - [Random username generator](https://www.reddit.com/r/Python/comments/rioy2s/random_username_generator/)
 - [Microsoft Research Introduces ‘BugLab’: A Deep Learning Model to Detect and Fix Bugs Without Using Labelled Data](https://www.reddit.com/r/Python/comments/riol74/microsoft_research_introduces_buglab_a_deep/)
 - [Python Github project that turns any chessboard into a chess computer.](https://www.reddit.com/r/Python/comments/rio42d/python_github_project_that_turns_any_chessboard/)
-- [I was having trouble visualizing floating point numbers, so I created a Python script that does it for me!](https://www.reddit.com/r/Python/comments/rimypj/i_was_having_trouble_visualizing_floating_point/)
-- [Time to Say Goodbye: Python 3.6 Is End-of-Life](https://www.reddit.com/r/Python/comments/rimkb3/time_to_say_goodbye_python_36_is_endoflife/)
 <!-- BLOG-POST-LIST:END -->
