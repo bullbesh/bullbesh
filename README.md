@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [using staticmethod with self](https://www.reddit.com/r/Python/comments/rijjuu/using_staticmethod_with_self/)
+- [Master Dataclasses in Python Part 2 - Equality Between Dataclasses](https://www.reddit.com/r/Python/comments/riiz1o/master_dataclasses_in_python_part_2_equality/)
 - [Have you ever used pytest fixtures? They make it a snap to set up and configure your tests. Here&#39;s five pytest fixture patterns to get you started](https://www.reddit.com/r/Python/comments/riicr6/have_you_ever_used_pytest_fixtures_they_make_it_a/)
 - [py4jshell](https://www.reddit.com/r/Python/comments/rihbjz/py4jshell/)
-- [Qt designer licensing](https://www.reddit.com/r/Python/comments/rigp4o/qt_designer_licensing/)
 - [CleanMyMac deletes Poetry environments](https://www.reddit.com/r/Python/comments/riggf2/cleanmymac_deletes_poetry_environments/)
-- [Polars, lightning-fast DataFrame library](https://www.reddit.com/r/Python/comments/ridi46/polars_lightningfast_dataframe_library/)
 <!-- BLOG-POST-LIST:END -->
