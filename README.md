@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Has anyone used Replit before?](https://www.reddit.com/r/Python/comments/ris93k/has_anyone_used_replit_before/)
+- [Looks like we&#39;re doing various kinds of random text generators lately, here&#39;s my fortune generator!](https://www.reddit.com/r/Python/comments/ris5iy/looks_like_were_doing_various_kinds_of_random/)
+- [Learn Python Here:](https://www.reddit.com/r/Python/comments/ris1ju/learn_python_here/)
 - [Efficiently keeping a &quot;moving window&quot; of records in Pandas](https://www.reddit.com/r/Python/comments/riq6rj/efficiently_keeping_a_moving_window_of_records_in/)
 - [How to Retry Failed Tasks in the ThreadPoolExecutor](https://www.reddit.com/r/Python/comments/riq0e8/how_to_retry_failed_tasks_in_the/)
-- [Random username generator](https://www.reddit.com/r/Python/comments/rioy2s/random_username_generator/)
-- [Microsoft Research Introduces ‘BugLab’: A Deep Learning Model to Detect and Fix Bugs Without Using Labelled Data](https://www.reddit.com/r/Python/comments/riol74/microsoft_research_introduces_buglab_a_deep/)
-- [Python Github project that turns any chessboard into a chess computer.](https://www.reddit.com/r/Python/comments/rio42d/python_github_project_that_turns_any_chessboard/)
 <!-- BLOG-POST-LIST:END -->
