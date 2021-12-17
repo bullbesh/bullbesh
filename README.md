@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [100 Days of Python Code](https://www.reddit.com/r/Python/comments/rianhe/100_days_of_python_code/)
+- [Extract GitHub profile Image using python web scrapper](https://www.reddit.com/r/Python/comments/riajwz/extract_github_profile_image_using_python_web/)
+- [Namespaces and Scope in Python-InsideAIML](https://www.reddit.com/r/Python/comments/riaezg/namespaces_and_scope_in_pythoninsideaiml/)
 - [MeCopy v1.0 - Move or delete files easily](https://www.reddit.com/r/Python/comments/ri731d/mecopy_v10_move_or_delete_files_easily/)
 - [CaptchaCracker](https://www.reddit.com/r/Python/comments/ri6y3w/captchacracker/)
-- [Linked Lists and Binary Trees in python](https://www.reddit.com/r/Python/comments/ri6sef/linked_lists_and_binary_trees_in_python/)
-- [Made this text based Database for the first time](https://www.reddit.com/r/Python/comments/ri5fhd/made_this_text_based_database_for_the_first_time/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/ri3u5f/friday_daily_thread_free_chat_friday_daily_thread/)
 <!-- BLOG-POST-LIST:END -->
