@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I was having trouble visualizing floating point numbers, so I created a Python script that does it for me!](https://www.reddit.com/r/Python/comments/rimypj/i_was_having_trouble_visualizing_floating_point/)
+- [Time to Say Goodbye: Python 3.6 Is End-of-Life](https://www.reddit.com/r/Python/comments/rimkb3/time_to_say_goodbye_python_36_is_endoflife/)
 - [spg, the secure password generator.](https://www.reddit.com/r/Python/comments/rim02x/spg_the_secure_password_generator/)
 - [A guide to using OpenTelemetry to automatically instrument Python applications](https://www.reddit.com/r/Python/comments/rilu7n/a_guide_to_using_opentelemetry_to_automatically/)
-- [Help with python script](https://www.reddit.com/r/Python/comments/rildql/help_with_python_script/)
 - [Data Structures and Algorithms](https://www.reddit.com/r/Python/comments/ril3t9/data_structures_and_algorithms/)
-- [using staticmethod with self](https://www.reddit.com/r/Python/comments/rijjuu/using_staticmethod_with_self/)
 <!-- BLOG-POST-LIST:END -->
