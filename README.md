@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Research Introduces ‘BugLab’: A Deep Learning Model to Detect and Fix Bugs Without Using Labelled Data](https://www.reddit.com/r/Python/comments/riol74/microsoft_research_introduces_buglab_a_deep/)
+- [Python Github project that turns any chessboard into a chess computer.](https://www.reddit.com/r/Python/comments/rio42d/python_github_project_that_turns_any_chessboard/)
+- [I made my own IDE &lpar;very W.I.P&rpar;](https://www.reddit.com/r/Python/comments/rio3sk/i_made_my_own_ide_very_wip/)
+- [Cursos Python con certificado](https://www.reddit.com/r/Python/comments/rinsbj/cursos_python_con_certificado/)
 - [I was having trouble visualizing floating point numbers, so I created a Python script that does it for me!](https://www.reddit.com/r/Python/comments/rimypj/i_was_having_trouble_visualizing_floating_point/)
-- [Time to Say Goodbye: Python 3.6 Is End-of-Life](https://www.reddit.com/r/Python/comments/rimkb3/time_to_say_goodbye_python_36_is_endoflife/)
-- [spg, the secure password generator.](https://www.reddit.com/r/Python/comments/rim02x/spg_the_secure_password_generator/)
-- [A guide to using OpenTelemetry to automatically instrument Python applications](https://www.reddit.com/r/Python/comments/rilu7n/a_guide_to_using_opentelemetry_to_automatically/)
-- [Data Structures and Algorithms](https://www.reddit.com/r/Python/comments/ril3t9/data_structures_and_algorithms/)
 <!-- BLOG-POST-LIST:END -->
