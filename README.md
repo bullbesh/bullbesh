@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My Simple YouTube Downloader Bot 🖤 , hey 👋🏻 i make a very easy and fast bot to download YouTube Videos , Check it out @YTDL1_Bot 🌐🖤 / Made With Python 3.8.10 and telebot library ❗️](https://www.reddit.com/r/Python/comments/ri4y9r/my_simple_youtube_downloader_bot_hey_i_make_a/)
+- [Linked Lists and Binary Trees in python](https://www.reddit.com/r/Python/comments/ri6sef/linked_lists_and_binary_trees_in_python/)
+- [Made this text based Database for the first time](https://www.reddit.com/r/Python/comments/ri5fhd/made_this_text_based_database_for_the_first_time/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/ri3u5f/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Beginner - Self-development funds ideas](https://www.reddit.com/r/Python/comments/ri2oxd/beginner_selfdevelopment_funds_ideas/)
 - [Beginner automated trading project with Quart, Async, and Terra](https://www.reddit.com/r/Python/comments/ri2208/beginner_automated_trading_project_with_quart/)
-- [Why You Should Start Using Pathlib As An Alternative To the OS Module](https://www.reddit.com/r/Python/comments/ri11di/why_you_should_start_using_pathlib_as_an/)
 <!-- BLOG-POST-LIST:END -->
