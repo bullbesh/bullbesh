@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Grab your Digital Copy of Tensorflow Workshop - Hurry](https://www.reddit.com/r/Python/comments/rjck6d/grab_your_digital_copy_of_tensorflow_workshop/)
+- [Any alternatives to SQLAlchemy Core for a &quot;query builder&quot; library?](https://www.reddit.com/r/Python/comments/rjcigr/any_alternatives_to_sqlalchemy_core_for_a_query/)
+- [Hacking tools in Python!](https://www.reddit.com/r/Python/comments/rjcgfo/hacking_tools_in_python/)
 - [Django in 💯 seconds](https://www.reddit.com/r/Python/comments/rjaf2e/django_in_seconds/)
 - [How to manage python consistency across a range of RHEL releases?](https://www.reddit.com/r/Python/comments/rja89a/how_to_manage_python_consistency_across_a_range/)
-- [What is the best Python static site generator?](https://www.reddit.com/r/Python/comments/rja4l2/what_is_the_best_python_static_site_generator/)
-- [StrongBox: a secure way of storing your passwords.](https://www.reddit.com/r/Python/comments/rj9bmt/strongbox_a_secure_way_of_storing_your_passwords/)
-- [Object Segmentation using HOG Algorithm &lpar;Histograms of Oriented Gradients&rpar;](https://www.reddit.com/r/Python/comments/rj8aej/object_segmentation_using_hog_algorithm/)
 <!-- BLOG-POST-LIST:END -->
