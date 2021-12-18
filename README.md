@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GUI Library like with the simplicity of Tkinter but the customizability and look of Qt?](https://www.reddit.com/r/Python/comments/rixkk8/gui_library_like_with_the_simplicity_of_tkinter/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/riucjr/saturday_daily_thread_resource_request_and/)
 - [An update to my public old school database.](https://www.reddit.com/r/Python/comments/riu8ro/an_update_to_my_public_old_school_database/)
 - [Are int&lpar;&rpar;, float&lpar;&rpar;, and type&lpar;&rpar; functions or constructors?](https://www.reddit.com/r/Python/comments/riu2gy/are_int_float_and_type_functions_or_constructors/)
 - [debugpy.nvim: Command and API frontend to nvim-dap and Debugpy &lpar;debugging Python in Neovim&rpar;](https://www.reddit.com/r/Python/comments/ritare/debugpynvim_command_and_api_frontend_to_nvimdap/)
-- [Has anyone used Replit before?](https://www.reddit.com/r/Python/comments/ris93k/has_anyone_used_replit_before/)
 <!-- BLOG-POST-LIST:END -->
