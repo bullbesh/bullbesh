@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flow: Spanish Rhymes Project](https://www.reddit.com/r/Python/comments/rjgn4q/flow_spanish_rhymes_project/)
+- [pathlib instead of os. f-strings instead of .format. Are there other recent versions of older Python libraries we should consider?](https://www.reddit.com/r/Python/comments/rjg2yd/pathlib_instead_of_os_fstrings_instead_of_format/)
+- [Bumble Python App](https://www.reddit.com/r/Python/comments/rjfx77/bumble_python_app/)
+- [Good Research Code Handbook](https://www.reddit.com/r/Python/comments/rjfsdy/good_research_code_handbook/)
 - [Telegram Bot Ideas](https://www.reddit.com/r/Python/comments/rjeial/telegram_bot_ideas/)
-- [Grab your Digital Copy of Tensorflow Workshop - Hurry](https://www.reddit.com/r/Python/comments/rjck6d/grab_your_digital_copy_of_tensorflow_workshop/)
-- [Any alternatives to SQLAlchemy Core for a &quot;query builder&quot; library?](https://www.reddit.com/r/Python/comments/rjcigr/any_alternatives_to_sqlalchemy_core_for_a_query/)
-- [Django in 💯 seconds](https://www.reddit.com/r/Python/comments/rjaf2e/django_in_seconds/)
-- [How to manage python consistency across a range of RHEL releases?](https://www.reddit.com/r/Python/comments/rja89a/how_to_manage_python_consistency_across_a_range/)
 <!-- BLOG-POST-LIST:END -->
