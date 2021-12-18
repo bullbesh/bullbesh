@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/riucjr/saturday_daily_thread_resource_request_and/)
+- [An update to my public old school database.](https://www.reddit.com/r/Python/comments/riu8ro/an_update_to_my_public_old_school_database/)
+- [Are int&lpar;&rpar;, float&lpar;&rpar;, and type&lpar;&rpar; functions or constructors?](https://www.reddit.com/r/Python/comments/riu2gy/are_int_float_and_type_functions_or_constructors/)
 - [debugpy.nvim: Command and API frontend to nvim-dap and Debugpy &lpar;debugging Python in Neovim&rpar;](https://www.reddit.com/r/Python/comments/ritare/debugpynvim_command_and_api_frontend_to_nvimdap/)
 - [Has anyone used Replit before?](https://www.reddit.com/r/Python/comments/ris93k/has_anyone_used_replit_before/)
-- [Looks like we&#39;re doing various kinds of random text generators lately, here&#39;s my fortune generator!](https://www.reddit.com/r/Python/comments/ris5iy/looks_like_were_doing_various_kinds_of_random/)
-- [Learn Python Here:](https://www.reddit.com/r/Python/comments/ris1ju/learn_python_here/)
-- [Efficiently keeping a &quot;moving window&quot; of records in Pandas](https://www.reddit.com/r/Python/comments/riq6rj/efficiently_keeping_a_moving_window_of_records_in/)
 <!-- BLOG-POST-LIST:END -->
