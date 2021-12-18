@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [StrongBox: a secure way of storing your passwords.](https://www.reddit.com/r/Python/comments/rj9bmt/strongbox_a_secure_way_of_storing_your_passwords/)
 - [Object Segmentation using HOG Algorithm &lpar;Histograms of Oriented Gradients&rpar;](https://www.reddit.com/r/Python/comments/rj8aej/object_segmentation_using_hog_algorithm/)
 - [CaptchaCracker - Deep Learning-based Captcha Recognizer](https://www.reddit.com/r/Python/comments/rj7v7r/captchacracker_deep_learningbased_captcha/)
 - [How to make a QR Code generator using python&lpar;For begginers&rpar;](https://www.reddit.com/r/Python/comments/rj6z42/how_to_make_a_qr_code_generator_using_pythonfor/)
 - [I made a celebrity trivia quiz using the wikipedia module.](https://www.reddit.com/r/Python/comments/rj6qyg/i_made_a_celebrity_trivia_quiz_using_the/)
-- [Space Science with Python - Part 18: The Oort Cloud](https://www.reddit.com/r/Python/comments/rj2jnj/space_science_with_python_part_18_the_oort_cloud/)
 <!-- BLOG-POST-LIST:END -->
