@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django in 💯 seconds](https://www.reddit.com/r/Python/comments/rjaf2e/django_in_seconds/)
+- [How to manage python consistency across a range of RHEL releases?](https://www.reddit.com/r/Python/comments/rja89a/how_to_manage_python_consistency_across_a_range/)
+- [What is the best Python static site generator?](https://www.reddit.com/r/Python/comments/rja4l2/what_is_the_best_python_static_site_generator/)
 - [StrongBox: a secure way of storing your passwords.](https://www.reddit.com/r/Python/comments/rj9bmt/strongbox_a_secure_way_of_storing_your_passwords/)
 - [Object Segmentation using HOG Algorithm &lpar;Histograms of Oriented Gradients&rpar;](https://www.reddit.com/r/Python/comments/rj8aej/object_segmentation_using_hog_algorithm/)
-- [CaptchaCracker - Deep Learning-based Captcha Recognizer](https://www.reddit.com/r/Python/comments/rj7v7r/captchacracker_deep_learningbased_captcha/)
-- [How to make a QR Code generator using python&lpar;For begginers&rpar;](https://www.reddit.com/r/Python/comments/rj6z42/how_to_make_a_qr_code_generator_using_pythonfor/)
-- [I made a celebrity trivia quiz using the wikipedia module.](https://www.reddit.com/r/Python/comments/rj6qyg/i_made_a_celebrity_trivia_quiz_using_the/)
 <!-- BLOG-POST-LIST:END -->
