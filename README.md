@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Detect stock patterns from images](https://www.reddit.com/r/Python/comments/rk7boe/detect_stock_patterns_from_images/)
 - [Save WhatsApp Status With Python On Android](https://www.reddit.com/r/Python/comments/rk6tlq/save_whatsapp_status_with_python_on_android/)
 - [Idle Python Problem](https://www.reddit.com/r/Python/comments/rk4rai/idle_python_problem/)
-- [Question](https://www.reddit.com/r/Python/comments/rk47qp/question/)
 - [unable to send keyboard inputs to plover using pyautogui](https://www.reddit.com/r/Python/comments/rk3jne/unable_to_send_keyboard_inputs_to_plover_using/)
 - [pyfuncol: Functional collections extension functions for Python](https://www.reddit.com/r/Python/comments/rk21u8/pyfuncol_functional_collections_extension/)
 <!-- BLOG-POST-LIST:END -->
