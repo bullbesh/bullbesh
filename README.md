@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Idle Python Problem](https://www.reddit.com/r/Python/comments/rk4rai/idle_python_problem/)
+- [Question](https://www.reddit.com/r/Python/comments/rk47qp/question/)
+- [Urgent need of Help :&lpar;](https://www.reddit.com/r/Python/comments/rk43qx/urgent_need_of_help/)
+- [unable to send keyboard inputs to plover using pyautogui](https://www.reddit.com/r/Python/comments/rk3jne/unable_to_send_keyboard_inputs_to_plover_using/)
 - [pyfuncol: Functional collections extension functions for Python](https://www.reddit.com/r/Python/comments/rk21u8/pyfuncol_functional_collections_extension/)
-- [I wrote a script to control and schedule the Blackmagic Smart VideoHubs using Python3](https://www.reddit.com/r/Python/comments/rk1udf/i_wrote_a_script_to_control_and_schedule_the/)
-- [GitHub - rodrigo-arenas/Sklearn-genetic-opt: Hyperparameters tuning and feature selection, using evolutionary algorithms.](https://www.reddit.com/r/Python/comments/rk05nw/github_rodrigoarenassklearngeneticopt/)
-- [Animation of Lissajous Figure based on a/b ratio change](https://www.reddit.com/r/Python/comments/rjzoq0/animation_of_lissajous_figure_based_on_ab_ratio/)
-- [How Python&#39;s WSGI vs. ASGI is Like Baking a Cake](https://www.reddit.com/r/Python/comments/rjyjra/how_pythons_wsgi_vs_asgi_is_like_baking_a_cake/)
 <!-- BLOG-POST-LIST:END -->
