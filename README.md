@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Multi Arch poetry project](https://www.reddit.com/r/Python/comments/rjw8v7/multi_arch_poetry_project/)
 - [Params_readability module](https://www.reddit.com/r/Python/comments/rjv8ta/params_readability_module/)
 - [Finance Beginner](https://www.reddit.com/r/Python/comments/rju11w/finance_beginner/)
 - [Cool bounce simulation in pygame.](https://www.reddit.com/r/Python/comments/rjtmyx/cool_bounce_simulation_in_pygame/)
 - [Top career specialties that mentions python in their job posts](https://www.reddit.com/r/Python/comments/rjrxzu/top_career_specialties_that_mentions_python_in/)
-- [Kaleidoscopic motion and velocity illusions | Animation Created using Python Manim Library](https://www.reddit.com/r/Python/comments/rjr8gc/kaleidoscopic_motion_and_velocity_illusions/)
 <!-- BLOG-POST-LIST:END -->
