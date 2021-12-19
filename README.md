@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to combine matplotlib with Flask?](https://www.reddit.com/r/Python/comments/rjn1qd/how_to_combine_matplotlib_with_flask/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rjk0hh/sunday_daily_thread_whats_everyone_working_on/)
 - [The Best IDE for Programmers Ever Built? Meet Fleet by JetBrains](https://www.reddit.com/r/Python/comments/rjjdgh/the_best_ide_for_programmers_ever_built_meet/)
 - [Performance Testing Postgres Inserts with Python](https://www.reddit.com/r/Python/comments/rjiqcl/performance_testing_postgres_inserts_with_python/)
 - [Are you using typed Python, why and why not?](https://www.reddit.com/r/Python/comments/rjhy41/are_you_using_typed_python_why_and_why_not/)
-- [Flow: Spanish Rhymes Project](https://www.reddit.com/r/Python/comments/rjgn4q/flow_spanish_rhymes_project/)
 <!-- BLOG-POST-LIST:END -->
