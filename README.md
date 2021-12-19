@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Python&#39;s WSGI vs. ASGI is Like Baking a Cake](https://www.reddit.com/r/Python/comments/rjyjra/how_pythons_wsgi_vs_asgi_is_like_baking_a_cake/)
+- [Mechanical/Industrial/Aerospace python projects to colab in](https://www.reddit.com/r/Python/comments/rjygyp/mechanicalindustrialaerospace_python_projects_to/)
+- [Bot hentai](https://www.reddit.com/r/Python/comments/rjy6cl/bot_hentai/)
+- [Struggling reading code with type hints](https://www.reddit.com/r/Python/comments/rjy5ob/struggling_reading_code_with_type_hints/)
 - [Moving from pipenv to poetry or PDM](https://www.reddit.com/r/Python/comments/rjwr2d/moving_from_pipenv_to_poetry_or_pdm/)
-- [Multi Arch poetry project](https://www.reddit.com/r/Python/comments/rjw8v7/multi_arch_poetry_project/)
-- [Params_readability module](https://www.reddit.com/r/Python/comments/rjv8ta/params_readability_module/)
-- [Finance Beginner](https://www.reddit.com/r/Python/comments/rju11w/finance_beginner/)
-- [Cool bounce simulation in pygame.](https://www.reddit.com/r/Python/comments/rjtmyx/cool_bounce_simulation_in_pygame/)
 <!-- BLOG-POST-LIST:END -->
