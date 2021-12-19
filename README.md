@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cool bounce simulation in pygame.](https://www.reddit.com/r/Python/comments/rjtmyx/cool_bounce_simulation_in_pygame/)
 - [Top career specialties that mentions python in their job posts](https://www.reddit.com/r/Python/comments/rjrxzu/top_career_specialties_that_mentions_python_in/)
 - [Kaleidoscopic motion and velocity illusions | Animation Created using Python Manim Library](https://www.reddit.com/r/Python/comments/rjr8gc/kaleidoscopic_motion_and_velocity_illusions/)
 - [MP3 File Copier](https://www.reddit.com/r/Python/comments/rjokab/mp3_file_copier/)
 - [How to combine matplotlib with Flask?](https://www.reddit.com/r/Python/comments/rjn1qd/how_to_combine_matplotlib_with_flask/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rjk0hh/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
