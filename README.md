@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Moving from pipenv to poetry or PDM](https://www.reddit.com/r/Python/comments/rjwr2d/moving_from_pipenv_to_poetry_or_pdm/)
 - [Multi Arch poetry project](https://www.reddit.com/r/Python/comments/rjw8v7/multi_arch_poetry_project/)
 - [Params_readability module](https://www.reddit.com/r/Python/comments/rjv8ta/params_readability_module/)
 - [Finance Beginner](https://www.reddit.com/r/Python/comments/rju11w/finance_beginner/)
 - [Cool bounce simulation in pygame.](https://www.reddit.com/r/Python/comments/rjtmyx/cool_bounce_simulation_in_pygame/)
-- [Top career specialties that mentions python in their job posts](https://www.reddit.com/r/Python/comments/rjrxzu/top_career_specialties_that_mentions_python_in/)
 <!-- BLOG-POST-LIST:END -->
