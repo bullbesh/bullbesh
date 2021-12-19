@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rjk0hh/sunday_daily_thread_whats_everyone_working_on/)
+- [The Best IDE for Programmers Ever Built? Meet Fleet by JetBrains](https://www.reddit.com/r/Python/comments/rjjdgh/the_best_ide_for_programmers_ever_built_meet/)
 - [Performance Testing Postgres Inserts with Python](https://www.reddit.com/r/Python/comments/rjiqcl/performance_testing_postgres_inserts_with_python/)
 - [Are you using typed Python, why and why not?](https://www.reddit.com/r/Python/comments/rjhy41/are_you_using_typed_python_why_and_why_not/)
 - [Flow: Spanish Rhymes Project](https://www.reddit.com/r/Python/comments/rjgn4q/flow_spanish_rhymes_project/)
-- [pathlib instead of os. f-strings instead of .format. Are there other recent versions of older Python libraries we should consider?](https://www.reddit.com/r/Python/comments/rjg2yd/pathlib_instead_of_os_fstrings_instead_of_format/)
-- [Bumble Python App](https://www.reddit.com/r/Python/comments/rjfx77/bumble_python_app/)
 <!-- BLOG-POST-LIST:END -->
