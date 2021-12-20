@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you want to understand the concept of Classes and Objects in Python in just few minutes? Check this out: https://youtu.be/NqkxvDJ-7z4](https://www.reddit.com/r/Python/comments/rkr4fv/do_you_want_to_understand_the_concept_of_classes/)
 - [Covid news censor](https://www.reddit.com/r/Python/comments/rkp7la/covid_news_censor/)
 - [How to change python version on ubuntu](https://www.reddit.com/r/Python/comments/rkn22n/how_to_change_python_version_on_ubuntu/)
 - [Robyn v0.10.0 release](https://www.reddit.com/r/Python/comments/rklxzn/robyn_v0100_release/)
 - [Python Course for Beginner&#39;s](https://www.reddit.com/r/Python/comments/rklgx3/python_course_for_beginners/)
-- [Generating time-lapse videos of Earth from scrapped satellite images.](https://www.reddit.com/r/Python/comments/rkkzbj/generating_timelapse_videos_of_earth_from/)
 <!-- BLOG-POST-LIST:END -->
