@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[REQUEST] Short project ideas to start and finish in an overseas flight](https://www.reddit.com/r/Python/comments/rk9j7z/request_short_project_ideas_to_start_and_finish/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/rk9f05/monday_daily_thread_project_ideas/)
+- [Learn Python for Total Beginners - free course from udemy](https://www.reddit.com/r/Python/comments/rk8rha/learn_python_for_total_beginners_free_course_from/)
+- [Virtual PDF Library](https://www.reddit.com/r/Python/comments/rk8qub/virtual_pdf_library/)
 - [Detect stock patterns from images](https://www.reddit.com/r/Python/comments/rk7boe/detect_stock_patterns_from_images/)
-- [Save WhatsApp Status With Python On Android](https://www.reddit.com/r/Python/comments/rk6tlq/save_whatsapp_status_with_python_on_android/)
-- [Idle Python Problem](https://www.reddit.com/r/Python/comments/rk4rai/idle_python_problem/)
-- [unable to send keyboard inputs to plover using pyautogui](https://www.reddit.com/r/Python/comments/rk3jne/unable_to_send_keyboard_inputs_to_plover_using/)
-- [pyfuncol: Functional collections extension functions for Python](https://www.reddit.com/r/Python/comments/rk21u8/pyfuncol_functional_collections_extension/)
 <!-- BLOG-POST-LIST:END -->
