@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to change python version on ubuntu](https://www.reddit.com/r/Python/comments/rkn22n/how_to_change_python_version_on_ubuntu/)
 - [Robyn v0.10.0 release](https://www.reddit.com/r/Python/comments/rklxzn/robyn_v0100_release/)
 - [Python Course for Beginner&#39;s](https://www.reddit.com/r/Python/comments/rklgx3/python_course_for_beginners/)
 - [Generating time-lapse videos of Earth from scrapped satellite images.](https://www.reddit.com/r/Python/comments/rkkzbj/generating_timelapse_videos_of_earth_from/)
 - [Boolean Operators in Python-InsideAIML](https://www.reddit.com/r/Python/comments/rkkdt1/boolean_operators_in_pythoninsideaiml/)
-- [When is it favorable to create a Class or is it always best practice?](https://www.reddit.com/r/Python/comments/rkkarc/when_is_it_favorable_to_create_a_class_or_is_it/)
 <!-- BLOG-POST-LIST:END -->
