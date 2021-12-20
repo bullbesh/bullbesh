@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [br4nch: Data structure tree generator for Python](https://www.reddit.com/r/Python/comments/rkk1k5/br4nch_data_structure_tree_generator_for_python/)
-- [Fixing Memory Leaks In Popular Python Libraries](https://www.reddit.com/r/Python/comments/rkjor2/fixing_memory_leaks_in_popular_python_libraries/)
-- [How to invoke interactive shell similar to scrapy](https://www.reddit.com/r/Python/comments/rkj7un/how_to_invoke_interactive_shell_similar_to_scrapy/)
-- [Implementing RSA in Python from Scratch](https://www.reddit.com/r/Python/comments/rkix76/implementing_rsa_in_python_from_scratch/)
-- [Top 20 Most Useful Packages Article](https://www.reddit.com/r/Python/comments/rkik3s/top_20_most_useful_packages_article/)
+- [Generating time-lapse videos of Earth from scrapped satellite images.](https://www.reddit.com/r/Python/comments/rkkzbj/generating_timelapse_videos_of_earth_from/)
+- [Why python seems to attract all &quot;script kiddies&quot;](https://www.reddit.com/r/Python/comments/rkkqjs/why_python_seems_to_attract_all_script_kiddies/)
+- [Boolean Operators in Python-InsideAIML](https://www.reddit.com/r/Python/comments/rkkdt1/boolean_operators_in_pythoninsideaiml/)
+- [When is it favorable to create a Class or is it always best practice?](https://www.reddit.com/r/Python/comments/rkkarc/when_is_it_favorable_to_create_a_class_or_is_it/)
+- [Flask REST API authentication server](https://www.reddit.com/r/Python/comments/rkk9jh/flask_rest_api_authentication_server/)
 <!-- BLOG-POST-LIST:END -->
