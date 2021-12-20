@@ -18,6 +18,6 @@
 - [I&#39;m a sysadmin who decided to start learning python, I&#39;m sure no one&#39;s done that before...](https://www.reddit.com/r/Python/comments/rkteeg/im_a_sysadmin_who_decided_to_start_learning/)
 - [Last survivors of Washington&#39;s army - Enhanced and colorized using Artificial Intelligence](https://www.reddit.com/r/Python/comments/rkt1rg/last_survivors_of_washingtons_army_enhanced_and/)
 - [Creating an RNN from Scratch in Python 3 with example sequence data](https://www.reddit.com/r/Python/comments/rksrw4/creating_an_rnn_from_scratch_in_python_3_with/)
-- [Do you want to understand the concept of Classes and Objects in Python in just few minutes? Check this out: https://youtu.be/NqkxvDJ-7z4](https://www.reddit.com/r/Python/comments/rkr4fv/do_you_want_to_understand_the_concept_of_classes/)
 - [How to change python version on ubuntu](https://www.reddit.com/r/Python/comments/rkn22n/how_to_change_python_version_on_ubuntu/)
+- [Robyn v0.10.0 release](https://www.reddit.com/r/Python/comments/rklxzn/robyn_v0100_release/)
 <!-- BLOG-POST-LIST:END -->
