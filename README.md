@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Python Projects For Free](https://www.reddit.com/r/Python/comments/rkduql/deploy_python_projects_for_free/)
+- [NFT Drop Kit](https://www.reddit.com/r/Python/comments/rkdptv/nft_drop_kit/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/rk9f05/monday_daily_thread_project_ideas/)
 - [Virtual PDF Library](https://www.reddit.com/r/Python/comments/rk8qub/virtual_pdf_library/)
 - [Detect stock patterns from images](https://www.reddit.com/r/Python/comments/rk7boe/detect_stock_patterns_from_images/)
-- [Save WhatsApp Status With Python On Android](https://www.reddit.com/r/Python/comments/rk6tlq/save_whatsapp_status_with_python_on_android/)
-- [Idle Python Problem](https://www.reddit.com/r/Python/comments/rk4rai/idle_python_problem/)
 <!-- BLOG-POST-LIST:END -->
