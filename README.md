@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Encrypted Bitcoin](https://www.reddit.com/r/Python/comments/rkygeo/encrypted_bitcoin/)
 - [PokeData: Scraping and Analysis](https://www.reddit.com/r/Python/comments/rkwcc7/pokedata_scraping_and_analysis/)
 - [Why are search results so bad for Python?](https://www.reddit.com/r/Python/comments/rkvwo2/why_are_search_results_so_bad_for_python/)
 - [I&#39;m a sysadmin who decided to start learning python, I&#39;m sure no one&#39;s done that before...](https://www.reddit.com/r/Python/comments/rkteeg/im_a_sysadmin_who_decided_to_start_learning/)
 - [Last survivors of Washington&#39;s army - Enhanced and colorized using Artificial Intelligence](https://www.reddit.com/r/Python/comments/rkt1rg/last_survivors_of_washingtons_army_enhanced_and/)
-- [Creating an RNN from Scratch in Python 3 with example sequence data](https://www.reddit.com/r/Python/comments/rksrw4/creating_an_rnn_from_scratch_in_python_3_with/)
 <!-- BLOG-POST-LIST:END -->
