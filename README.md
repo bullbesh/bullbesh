@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Different ways to filter lists in Python](https://www.reddit.com/r/Python/comments/rlpoa9/different_ways_to_filter_lists_in_python/)
+- [Are GPU calculations faster using pycuda or Numbra over Matlab?](https://www.reddit.com/r/Python/comments/rlozy7/are_gpu_calculations_faster_using_pycuda_or/)
 - [Who could be regarded as an intermediate, decent Python developer?](https://www.reddit.com/r/Python/comments/rln9ha/who_could_be_regarded_as_an_intermediate_decent/)
 - [Color Converter made using Kivy](https://www.reddit.com/r/Python/comments/rlmwer/color_converter_made_using_kivy/)
 - [Limit the Number of Pending Tasks in the ThreadPoolExecutor](https://www.reddit.com/r/Python/comments/rlmcux/limit_the_number_of_pending_tasks_in_the/)
-- [Using Python in the arts](https://www.reddit.com/r/Python/comments/rllsym/using_python_in_the_arts/)
-- [Python Introduction](https://www.reddit.com/r/Python/comments/rllshl/python_introduction/)
 <!-- BLOG-POST-LIST:END -->
