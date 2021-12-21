@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Who could be regarded as an intermediate, decent Python developer?](https://www.reddit.com/r/Python/comments/rln9ha/who_could_be_regarded_as_an_intermediate_decent/)
+- [Color Converter made using Kivy](https://www.reddit.com/r/Python/comments/rlmwer/color_converter_made_using_kivy/)
+- [I need your help for this project. The rules it is to use Python and Tensorflow](https://www.reddit.com/r/Python/comments/rlmhjy/i_need_your_help_for_this_project_the_rules_it_is/)
+- [Limit the Number of Pending Tasks in the ThreadPoolExecutor](https://www.reddit.com/r/Python/comments/rlmcux/limit_the_number_of_pending_tasks_in_the/)
 - [Using Python in the arts](https://www.reddit.com/r/Python/comments/rllsym/using_python_in_the_arts/)
-- [Python Introduction](https://www.reddit.com/r/Python/comments/rllshl/python_introduction/)
-- [Python Shortcodes &lpar;WordPress-style&rpar;](https://www.reddit.com/r/Python/comments/rlj1yd/python_shortcodes_wordpressstyle/)
-- [Tip Calculator- Not showing two decimals](https://www.reddit.com/r/Python/comments/rlj1ox/tip_calculator_not_showing_two_decimals/)
-- [The hand-picked selection of the best Python libraries released in 2021](https://www.reddit.com/r/Python/comments/rlibcd/the_handpicked_selection_of_the_best_python/)
 <!-- BLOG-POST-LIST:END -->
