@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Moving from Django to Flask or FastAPI - pros/cons for my use case?](https://www.reddit.com/r/Python/comments/rlgg3y/moving_from_django_to_flask_or_fastapi_proscons/)
+- [Dependency Management With Python Poetry – Real Python](https://www.reddit.com/r/Python/comments/rlg8xc/dependency_management_with_python_poetry_real/)
+- [Forbidden, Unauthorized, or What Else?](https://www.reddit.com/r/Python/comments/rlfwba/forbidden_unauthorized_or_what_else/)
 - [File I/O](https://www.reddit.com/r/Python/comments/rlf8rc/file_io/)
 - [Visualization Dashboards With Python Dash](https://www.reddit.com/r/Python/comments/rleo7n/visualization_dashboards_with_python_dash/)
-- [As a clinical SAS statistical programmer should I learn Python in 2022?](https://www.reddit.com/r/Python/comments/rlegaj/as_a_clinical_sas_statistical_programmer_should_i/)
-- [pypi package using gitlab repo](https://www.reddit.com/r/Python/comments/rldoqn/pypi_package_using_gitlab_repo/)
-- [&quot;ANCIENT INVASION&quot; - a turn-based strategy RPG I created](https://www.reddit.com/r/Python/comments/rldfgp/ancient_invasion_a_turnbased_strategy_rpg_i/)
 <!-- BLOG-POST-LIST:END -->
