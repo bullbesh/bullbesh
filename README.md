@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Download schemas and tables from Teradata using python](https://www.reddit.com/r/Python/comments/rl77uv/download_schemas_and_tables_from_teradata_using/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/rl0vjt/tuesday_daily_thread_advanced_questions/)
 - [I&#39;ve found the answer](https://www.reddit.com/r/Python/comments/rl0h6z/ive_found_the_answer/)
 - [Encrypted Bitcoin](https://www.reddit.com/r/Python/comments/rkygeo/encrypted_bitcoin/)
 - [PokeData: Scraping and Analysis](https://www.reddit.com/r/Python/comments/rkwcc7/pokedata_scraping_and_analysis/)
-- [Why are search results so bad for Python?](https://www.reddit.com/r/Python/comments/rkvwo2/why_are_search_results_so_bad_for_python/)
 <!-- BLOG-POST-LIST:END -->
