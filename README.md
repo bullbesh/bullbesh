@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Python in the arts](https://www.reddit.com/r/Python/comments/rllsym/using_python_in_the_arts/)
+- [Python Introduction](https://www.reddit.com/r/Python/comments/rllshl/python_introduction/)
 - [Python Shortcodes &lpar;WordPress-style&rpar;](https://www.reddit.com/r/Python/comments/rlj1yd/python_shortcodes_wordpressstyle/)
 - [Tip Calculator- Not showing two decimals](https://www.reddit.com/r/Python/comments/rlj1ox/tip_calculator_not_showing_two_decimals/)
 - [The hand-picked selection of the best Python libraries released in 2021](https://www.reddit.com/r/Python/comments/rlibcd/the_handpicked_selection_of_the_best_python/)
-- [Dependency Management With Python Poetry – Real Python](https://www.reddit.com/r/Python/comments/rlg8xc/dependency_management_with_python_poetry_real/)
-- [File I/O](https://www.reddit.com/r/Python/comments/rlf8rc/file_io/)
 <!-- BLOG-POST-LIST:END -->
