@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can you build a mobile app using 100% only Django?](https://www.reddit.com/r/Python/comments/rl28li/can_you_build_a_mobile_app_using_100_only_django/)
-- [How do I chop up audio files with repetitive words?](https://www.reddit.com/r/Python/comments/rl1qdg/how_do_i_chop_up_audio_files_with_repetitive_words/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/rl0vjt/tuesday_daily_thread_advanced_questions/)
 - [I&#39;ve found the answer](https://www.reddit.com/r/Python/comments/rl0h6z/ive_found_the_answer/)
 - [Encrypted Bitcoin](https://www.reddit.com/r/Python/comments/rkygeo/encrypted_bitcoin/)
+- [PokeData: Scraping and Analysis](https://www.reddit.com/r/Python/comments/rkwcc7/pokedata_scraping_and_analysis/)
+- [Why are search results so bad for Python?](https://www.reddit.com/r/Python/comments/rkvwo2/why_are_search_results_so_bad_for_python/)
 <!-- BLOG-POST-LIST:END -->
