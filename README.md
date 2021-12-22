@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I can&#39;t figure out how to do simple math](https://www.reddit.com/r/Python/comments/rm6clw/i_cant_figure_out_how_to_do_simple_math/)
+- [Design By Contract](https://www.reddit.com/r/Python/comments/rm6c7a/design_by_contract/)
 - [Why You Should Learn Python in 2022](https://www.reddit.com/r/Python/comments/rm4lv0/why_you_should_learn_python_in_2022/)
 - [Adivina número. Juego con Python &lpar;2021&rpar;](https://www.reddit.com/r/Python/comments/rm46jc/adivina_número_juego_con_python_2021/)
 - [Keywords and identifiers in Python](https://www.reddit.com/r/Python/comments/rm3p3q/keywords_and_identifiers_in_python/)
-- [GitHub - dabeaz/dataklasses: A different spin on dataclasses.](https://www.reddit.com/r/Python/comments/rm2rk2/github_dabeazdataklasses_a_different_spin_on/)
-- [How to test CustomUser creation for pytest? Django.](https://www.reddit.com/r/Python/comments/rm2k9f/how_to_test_customuser_creation_for_pytest_django/)
 <!-- BLOG-POST-LIST:END -->
