@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best libraries/frameworks/tools for automating image processing in 2021](https://www.reddit.com/r/Python/comments/rmdh19/best_librariesframeworkstools_for_automating/)
+- [Best practices for SQLAlchemy](https://www.reddit.com/r/Python/comments/rmcn0g/best_practices_for_sqlalchemy/)
 - [Lambda Annotations and Function Prototypes](https://www.reddit.com/r/Python/comments/rmc6gk/lambda_annotations_and_function_prototypes/)
 - [List of import abbreviations for popular packages?](https://www.reddit.com/r/Python/comments/rmbskp/list_of_import_abbreviations_for_popular_packages/)
 - [Do you want to know about strings in Python? Check this out](https://www.reddit.com/r/Python/comments/rmblcb/do_you_want_to_know_about_strings_in_python_check/)
-- [I built a 🏃‍♂️ running assistant to get recommendations for optimum walking/running conditions using OpenCV, YOLOv2 and OpenWeatherMap](https://www.reddit.com/r/Python/comments/rmbhkm/i_built_a_running_assistant_to_get/)
-- [Need Project Ideas.](https://www.reddit.com/r/Python/comments/rmb98v/need_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
