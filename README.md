@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Newbie....!! Please Help](https://www.reddit.com/r/Python/comments/rlww9n/newbie_please_help/)
+- [Super important question… do you prefer “ or ‘ to enclose strings??](https://www.reddit.com/r/Python/comments/rlwfyn/super_important_question_do_you_prefer_or_to/)
 - [Very Basic To-Do List Using Pickle](https://www.reddit.com/r/Python/comments/rluh95/very_basic_todo_list_using_pickle/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/rlrsgc/wednesday_daily_thread_beginner_questions/)
 - [A Python module to apply filters to images](https://www.reddit.com/r/Python/comments/rlq9fo/a_python_module_to_apply_filters_to_images/)
-- [Different ways to filter lists in Python](https://www.reddit.com/r/Python/comments/rlpoa9/different_ways_to_filter_lists_in_python/)
-- [Who could be regarded as an intermediate, decent Python developer?](https://www.reddit.com/r/Python/comments/rln9ha/who_could_be_regarded_as_an_intermediate_decent/)
 <!-- BLOG-POST-LIST:END -->
