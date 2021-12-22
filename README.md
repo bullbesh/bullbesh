@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why cant it open Webcam](https://www.reddit.com/r/Python/comments/rmg6y6/why_cant_it_open_webcam/)
+- [Help -i want extract all results from this def and put it in tkinter](https://www.reddit.com/r/Python/comments/rmhdrq/help_i_want_extract_all_results_from_this_def_and/)
 - [Mypy 0.930 Released](https://www.reddit.com/r/Python/comments/rmewpe/mypy_0930_released/)
 - [I made a simple PirateBay parser.](https://www.reddit.com/r/Python/comments/rmeros/i_made_a_simple_piratebay_parser/)
 - [It&#39;s there a viable alternative to pyaudio?](https://www.reddit.com/r/Python/comments/rmei4f/its_there_a_viable_alternative_to_pyaudio/)
-- [Best libraries/frameworks/tools for automating image processing in 2021](https://www.reddit.com/r/Python/comments/rmdh19/best_librariesframeworkstools_for_automating/)
+- [Best practices for SQLAlchemy](https://www.reddit.com/r/Python/comments/rmcn0g/best_practices_for_sqlalchemy/)
 <!-- BLOG-POST-LIST:END -->
