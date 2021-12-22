@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - dabeaz/dataklasses: A different spin on dataclasses.](https://www.reddit.com/r/Python/comments/rm2rk2/github_dabeazdataklasses_a_different_spin_on/)
+- [How to test CustomUser creation for pytest? Django.](https://www.reddit.com/r/Python/comments/rm2k9f/how_to_test_customuser_creation_for_pytest_django/)
 - [scrape tweet quotes and replies](https://www.reddit.com/r/Python/comments/rm1zpo/scrape_tweet_quotes_and_replies/)
 - [Python Virtual Environment. What, Why, How. Virtualenv, Poetry.](https://www.reddit.com/r/Python/comments/rm1o5s/python_virtual_environment_what_why_how/)
 - [Hello I need your help to understand this project. The rules of this project it is to use python and Tensorflow framework.](https://www.reddit.com/r/Python/comments/rm0kdf/hello_i_need_your_help_to_understand_this_project/)
-- [MySQL Authentication System &lpar;with decent GUI made using KivyMD&rpar;](https://www.reddit.com/r/Python/comments/rm0ivk/mysql_authentication_system_with_decent_gui_made/)
-- [Create Your Own Weather App With Python + TuyaAPI](https://www.reddit.com/r/Python/comments/rlz6ig/create_your_own_weather_app_with_python_tuyaapi/)
 <!-- BLOG-POST-LIST:END -->
