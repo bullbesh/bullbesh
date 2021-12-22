@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mypy 0.930 Released](https://www.reddit.com/r/Python/comments/rmewpe/mypy_0930_released/)
+- [I made a simple PirateBay parser.](https://www.reddit.com/r/Python/comments/rmeros/i_made_a_simple_piratebay_parser/)
+- [It&#39;s there a viable alternative to pyaudio?](https://www.reddit.com/r/Python/comments/rmei4f/its_there_a_viable_alternative_to_pyaudio/)
 - [Best libraries/frameworks/tools for automating image processing in 2021](https://www.reddit.com/r/Python/comments/rmdh19/best_librariesframeworkstools_for_automating/)
 - [Best practices for SQLAlchemy](https://www.reddit.com/r/Python/comments/rmcn0g/best_practices_for_sqlalchemy/)
-- [Lambda Annotations and Function Prototypes](https://www.reddit.com/r/Python/comments/rmc6gk/lambda_annotations_and_function_prototypes/)
-- [List of import abbreviations for popular packages?](https://www.reddit.com/r/Python/comments/rmbskp/list_of_import_abbreviations_for_popular_packages/)
-- [Do you want to know about strings in Python? Check this out](https://www.reddit.com/r/Python/comments/rmblcb/do_you_want_to_know_about_strings_in_python_check/)
 <!-- BLOG-POST-LIST:END -->
