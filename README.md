@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [django, pytest, pytest-django, pytest-xdist. How do they fit together?](https://www.reddit.com/r/Python/comments/rm8b6v/django_pytest_pytestdjango_pytestxdist_how_do/)
+- [Online socket canvas I made:&rpar;](https://www.reddit.com/r/Python/comments/rm7t8g/online_socket_canvas_i_made/)
+- [Nft project](https://www.reddit.com/r/Python/comments/rm7fy4/nft_project/)
 - [I can&#39;t figure out how to do simple math](https://www.reddit.com/r/Python/comments/rm6clw/i_cant_figure_out_how_to_do_simple_math/)
 - [Design By Contract](https://www.reddit.com/r/Python/comments/rm6c7a/design_by_contract/)
-- [Why You Should Learn Python in 2022](https://www.reddit.com/r/Python/comments/rm4lv0/why_you_should_learn_python_in_2022/)
-- [Adivina número. Juego con Python &lpar;2021&rpar;](https://www.reddit.com/r/Python/comments/rm46jc/adivina_número_juego_con_python_2021/)
-- [Keywords and identifiers in Python](https://www.reddit.com/r/Python/comments/rm3p3q/keywords_and_identifiers_in_python/)
 <!-- BLOG-POST-LIST:END -->
