@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Remote data entry jobs as a side hustle?](https://www.reddit.com/r/Python/comments/rlqqss/remote_data_entry_jobs_as_a_side_hustle/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/rlrsgc/wednesday_daily_thread_beginner_questions/)
 - [A Python module to apply filters to images](https://www.reddit.com/r/Python/comments/rlq9fo/a_python_module_to_apply_filters_to_images/)
 - [Different ways to filter lists in Python](https://www.reddit.com/r/Python/comments/rlpoa9/different_ways_to_filter_lists_in_python/)
-- [Are GPU calculations faster using pycuda or Numbra over Matlab?](https://www.reddit.com/r/Python/comments/rlozy7/are_gpu_calculations_faster_using_pycuda_or/)
 - [Who could be regarded as an intermediate, decent Python developer?](https://www.reddit.com/r/Python/comments/rln9ha/who_could_be_regarded_as_an_intermediate_decent/)
+- [Color Converter made using Kivy](https://www.reddit.com/r/Python/comments/rlmwer/color_converter_made_using_kivy/)
 <!-- BLOG-POST-LIST:END -->
