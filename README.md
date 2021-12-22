@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lambda Annotations and Function Prototypes](https://www.reddit.com/r/Python/comments/rmc6gk/lambda_annotations_and_function_prototypes/)
+- [List of import abbreviations for popular packages?](https://www.reddit.com/r/Python/comments/rmbskp/list_of_import_abbreviations_for_popular_packages/)
+- [Do you want to know about strings in Python? Check this out](https://www.reddit.com/r/Python/comments/rmblcb/do_you_want_to_know_about_strings_in_python_check/)
+- [I built a 🏃‍♂️ running assistant to get recommendations for optimum walking/running conditions using OpenCV, YOLOv2 and OpenWeatherMap](https://www.reddit.com/r/Python/comments/rmbhkm/i_built_a_running_assistant_to_get/)
 - [Need Project Ideas.](https://www.reddit.com/r/Python/comments/rmb98v/need_project_ideas/)
-- [I made a GLaDOS virtual voice assistant bot](https://www.reddit.com/r/Python/comments/rm9gil/i_made_a_glados_virtual_voice_assistant_bot/)
-- [Online socket canvas I made:&rpar;](https://www.reddit.com/r/Python/comments/rm7t8g/online_socket_canvas_i_made/)
-- [I can&#39;t figure out how to do simple math](https://www.reddit.com/r/Python/comments/rm6clw/i_cant_figure_out_how_to_do_simple_math/)
-- [Design By Contract](https://www.reddit.com/r/Python/comments/rm6c7a/design_by_contract/)
 <!-- BLOG-POST-LIST:END -->
