@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need a last minute Christmas present? How about turning your loved ones into a prime number using python!](https://www.reddit.com/r/Python/comments/rmrap3/need_a_last_minute_christmas_present_how_about/)
+- [PPTX package slide insert feature](https://www.reddit.com/r/Python/comments/rmr2zy/pptx_package_slide_insert_feature/)
 - [My first python script got help from a book](https://www.reddit.com/r/Python/comments/rmpw8q/my_first_python_script_got_help_from_a_book/)
 - [Boilerplates for integration services when you need to sync API resources or databases](https://www.reddit.com/r/Python/comments/rmovvw/boilerplates_for_integration_services_when_you/)
 - [I made a audio visualization tool!](https://www.reddit.com/r/Python/comments/rmnl12/i_made_a_audio_visualization_tool/)
-- [Portapapeles modificado con Python](https://www.reddit.com/r/Python/comments/rml114/portapapeles_modificado_con_python/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/rmicen/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
