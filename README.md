@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Portapapeles modificado con Python](https://www.reddit.com/r/Python/comments/rml114/portapapeles_modificado_con_python/)
-- [Um, can someone open source this via OpenCV? For uh, science.](https://www.reddit.com/r/Python/comments/rmj9ne/um_can_someone_open_source_this_via_opencv_for_uh/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/rmicen/thursday_daily_thread_python_careers_courses_and/)
 - [Mypy 0.930 Released](https://www.reddit.com/r/Python/comments/rmewpe/mypy_0930_released/)
 - [I made a simple PirateBay parser.](https://www.reddit.com/r/Python/comments/rmeros/i_made_a_simple_piratebay_parser/)
+- [It&#39;s there a viable alternative to pyaudio?](https://www.reddit.com/r/Python/comments/rmei4f/its_there_a_viable_alternative_to_pyaudio/)
 <!-- BLOG-POST-LIST:END -->
