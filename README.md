@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [typedmodel 0.1.0 release: strictly typed data model for Python](https://www.reddit.com/r/Python/comments/rmxshz/typedmodel_010_release_strictly_typed_data_model/)
+- [🎥 Creating your own video membership site with Python &lpar;11 hour tutorial&rpar; by CodingEntrepreneurs](https://www.reddit.com/r/Python/comments/rmx5rw/creating_your_own_video_membership_site_with/)
 - [I made a Twitch dashboard.](https://www.reddit.com/r/Python/comments/rmv392/i_made_a_twitch_dashboard/)
 - [The simplest Explanation of Machine Learning I am able to provide.](https://www.reddit.com/r/Python/comments/rmungp/the_simplest_explanation_of_machine_learning_i_am/)
 - [Web api benchmarking: Python &lpar;Flask&rpar; vs Rust &lpar;actix-web&rpar;](https://www.reddit.com/r/Python/comments/rmsgoh/web_api_benchmarking_python_flask_vs_rust_actixweb/)
-- [PEP 678 -- Enriching Exceptions with Notes](https://www.reddit.com/r/Python/comments/rmrvxv/pep_678_enriching_exceptions_with_notes/)
-- [Need a last minute Christmas present? How about turning your loved ones into a prime number using python!](https://www.reddit.com/r/Python/comments/rmrap3/need_a_last_minute_christmas_present_how_about/)
 <!-- BLOG-POST-LIST:END -->
