@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[D] Hear me out: I found a better way to estimate the median](https://www.reddit.com/r/Python/comments/rn3qjz/d_hear_me_out_i_found_a_better_way_to_estimate/)
+- [Python Programming for Beginners | 2021 Edition](https://www.reddit.com/r/Python/comments/rn3b7r/python_programming_for_beginners_2021_edition/)
 - [Learn and create modules in Python in 8 minutes](https://www.reddit.com/r/Python/comments/rn2rg2/learn_and_create_modules_in_python_in_8_minutes/)
 - [Where to Python](https://www.reddit.com/r/Python/comments/rn2he6/where_to_python/)
 - [[Python] Pointers/references in Python](https://www.reddit.com/r/Python/comments/rn1qxx/python_pointersreferences_in_python/)
-- [Python command-line script to download headspace packs, singles, everyday meditation and other sessions, update](https://www.reddit.com/r/Python/comments/rn0ll7/python_commandline_script_to_download_headspace/)
-- [Conversion of JSON file to csv file using Pandas, Python](https://www.reddit.com/r/Python/comments/rn0j88/conversion_of_json_file_to_csv_file_using_pandas/)
 <!-- BLOG-POST-LIST:END -->
