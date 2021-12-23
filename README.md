@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why you should code Battleship after Tic Tac Toe!](https://www.reddit.com/r/Python/comments/rn7t8y/why_you_should_code_battleship_after_tic_tac_toe/)
 - [Python Poetry A Dependency Manager — pygists.com](https://www.reddit.com/r/Python/comments/rn4upj/python_poetry_a_dependency_manager_pygistscom/)
 - [[D] Hear me out: I found a better way to estimate the median](https://www.reddit.com/r/Python/comments/rn3qjz/d_hear_me_out_i_found_a_better_way_to_estimate/)
 - [Python Programming for Beginners | 2021 Edition](https://www.reddit.com/r/Python/comments/rn3b7r/python_programming_for_beginners_2021_edition/)
 - [Learn and create modules in Python in 8 minutes](https://www.reddit.com/r/Python/comments/rn2rg2/learn_and_create_modules_in_python_in_8_minutes/)
-- [Where to Python](https://www.reddit.com/r/Python/comments/rn2he6/where_to_python/)
 <!-- BLOG-POST-LIST:END -->
