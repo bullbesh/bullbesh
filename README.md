@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scraping Health Departments&#39; COVID Data](https://www.reddit.com/r/Python/comments/rnrc60/scraping_health_departments_covid_data/)
+- [Peter Wang: Python and the Source Code of Humans, Computers, and Reality | Lex Fridman Podcast](https://www.reddit.com/r/Python/comments/rnqzpp/peter_wang_python_and_the_source_code_of_humans/)
 - [Funding Rich and Textual -- From Open Source maintainer to Founder / CEO](https://www.reddit.com/r/Python/comments/rnodyp/funding_rich_and_textual_from_open_source/)
 - [Auxiliator, python telegram bot for analysing web-site](https://www.reddit.com/r/Python/comments/rnnwa5/auxiliator_python_telegram_bot_for_analysing/)
 - [My Python micro-benchmarking project](https://www.reddit.com/r/Python/comments/rnnnri/my_python_microbenchmarking_project/)
-- [Implementing C++ Semantics in Python &lpar;library + conference talk&rpar;](https://www.reddit.com/r/Python/comments/rnmp1v/implementing_c_semantics_in_python_library/)
-- [Web api benchmarking: Python &lpar;Flask &lpar;prod setup&rpar;&rpar; vs Rust &lpar;actix-web&rpar;](https://www.reddit.com/r/Python/comments/rnjzl2/web_api_benchmarking_python_flask_prod_setup_vs/)
 <!-- BLOG-POST-LIST:END -->
