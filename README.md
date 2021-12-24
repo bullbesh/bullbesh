@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Alert On Fail](https://www.reddit.com/r/Python/comments/rnhst3/python_alert_on_fail/)
 - [Does it bother you that Python changes?](https://www.reddit.com/r/Python/comments/rn929n/does_it_bother_you_that_python_changes/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/rn8zal/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Videostream: latency test of my rc car controllable over internet:](https://www.reddit.com/r/Python/comments/rn8tnx/videostream_latency_test_of_my_rc_car/)
 - [What is \b realistically used for?](https://www.reddit.com/r/Python/comments/rn8hcr/what_is_b_realistically_used_for/)
-- [Easy Python wrapper around HealthChecks.io](https://www.reddit.com/r/Python/comments/rn879o/easy_python_wrapper_around_healthchecksio/)
 <!-- BLOG-POST-LIST:END -->
