@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make deep fake lip sync using Wav2Lip [tutorial]](https://www.reddit.com/r/Python/comments/rnsnpp/how_to_make_deep_fake_lip_sync_using_wav2lip/)
+- [Beginner&#39;s Guide to Python Arrays](https://www.reddit.com/r/Python/comments/rnsev2/beginners_guide_to_python_arrays/)
+- [Test if easy Python script runs on different environments &lpar;older iMacs&rpar;](https://www.reddit.com/r/Python/comments/rnsbai/test_if_easy_python_script_runs_on_different/)
+- [Question on a line of code](https://www.reddit.com/r/Python/comments/rns074/question_on_a_line_of_code/)
 - [Scraping Health Departments&#39; COVID Data](https://www.reddit.com/r/Python/comments/rnrc60/scraping_health_departments_covid_data/)
-- [Peter Wang: Python and the Source Code of Humans, Computers, and Reality | Lex Fridman Podcast](https://www.reddit.com/r/Python/comments/rnqzpp/peter_wang_python_and_the_source_code_of_humans/)
-- [Funding Rich and Textual -- From Open Source maintainer to Founder / CEO](https://www.reddit.com/r/Python/comments/rnodyp/funding_rich_and_textual_from_open_source/)
-- [Auxiliator, python telegram bot for analysing web-site](https://www.reddit.com/r/Python/comments/rnnwa5/auxiliator_python_telegram_bot_for_analysing/)
-- [My Python micro-benchmarking project](https://www.reddit.com/r/Python/comments/rnnnri/my_python_microbenchmarking_project/)
 <!-- BLOG-POST-LIST:END -->
