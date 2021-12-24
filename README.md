@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing C++ Semantics in Python &lpar;library + conference talk&rpar;](https://www.reddit.com/r/Python/comments/rnmp1v/implementing_c_semantics_in_python_library/)
 - [Web api benchmarking: Python &lpar;Flask &lpar;prod setup&rpar;&rpar; vs Rust &lpar;actix-web&rpar;](https://www.reddit.com/r/Python/comments/rnjzl2/web_api_benchmarking_python_flask_prod_setup_vs/)
 - [Auxiliator — telegram bot for basic web-application analysis](https://www.reddit.com/r/Python/comments/rnjgep/auxiliator_telegram_bot_for_basic_webapplication/)
 - [G. K. Chesterton The Thing : Free Download, Borrow, and Streaming : Internet Archive](https://www.reddit.com/r/Python/comments/rnixy4/g_k_chesterton_the_thing_free_download_borrow_and/)
 - [Is there anyone here who can answer this exercise?](https://www.reddit.com/r/Python/comments/rnidlm/is_there_anyone_here_who_can_answer_this_exercise/)
-- [GitHub - dhondta/python-codext: Python codecs extension featuring CLI tools for encoding/decoding anything](https://www.reddit.com/r/Python/comments/rnhurv/github_dhondtapythoncodext_python_codecs/)
 <!-- BLOG-POST-LIST:END -->
