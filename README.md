@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the deal with this? I got 4/4](https://www.reddit.com/r/Python/comments/rndv0m/what_is_the_deal_with_this_i_got_44/)
+- [How to rename the windows file using python?](https://www.reddit.com/r/Python/comments/rndg1g/how_to_rename_the_windows_file_using_python/)
 - [Guys I am having really hard time doing MIT problem sets. Any advice?](https://www.reddit.com/r/Python/comments/rnbku7/guys_i_am_having_really_hard_time_doing_mit/)
-- [Dogma: A Python Ascii Console Based-Game](https://www.reddit.com/r/Python/comments/rnaou5/dogma_a_python_ascii_console_basedgame/)
-- [Does it bother you that Python changes?](https://www.reddit.com/r/Python/comments/rn929n/does_it_bother_you_that_python_changes/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/rn8zal/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Videostream: latency test of my rc car controllable over internet:](https://www.reddit.com/r/Python/comments/rn8tnx/videostream_latency_test_of_my_rc_car/)
 <!-- BLOG-POST-LIST:END -->
