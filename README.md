@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sucessfully made a mail server which works flawlessly using aiosmtpd](https://www.reddit.com/r/Python/comments/rob09w/sucessfully_made_a_mail_server_which_works/)
+- [Fancy way of writing websites - Perry library](https://www.reddit.com/r/Python/comments/roaz0i/fancy_way_of_writing_websites_perry_library/)
 - [Data Visualisation using pycharm](https://www.reddit.com/r/Python/comments/ro9pvu/data_visualisation_using_pycharm/)
 - [I procrastinate a lot so I made python motivate me when I procrastinate!](https://www.reddit.com/r/Python/comments/ro9n4p/i_procrastinate_a_lot_so_i_made_python_motivate/)
 - [Web api benchmarking: Python &lpar;FastAPI&rpar; vs Rust &lpar;Warp&rpar;](https://www.reddit.com/r/Python/comments/ro6xnx/web_api_benchmarking_python_fastapi_vs_rust_warp/)
-- [This is how I found &lpar;and fixed&rpar; a vulnerability in Python&#39;s source code](https://www.reddit.com/r/Python/comments/ro6i49/this_is_how_i_found_and_fixed_a_vulnerability_in/)
-- [GitHub - Zen-Reportz/zen_knit: Zen-Knit is a formal &lpar;PDF&rpar;, informal &lpar;HTML&rpar; report generator for data analyst and data scientist who wants to use python.](https://www.reddit.com/r/Python/comments/ro6d1i/github_zenreportzzen_knit_zenknit_is_a_formal_pdf/)
 <!-- BLOG-POST-LIST:END -->
