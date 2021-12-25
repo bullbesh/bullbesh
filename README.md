@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TDD Approach to Create an Authentication System With FastAPI Part 3: Mocking and Dependency Injection](https://www.reddit.com/r/Python/comments/ro4i0a/tdd_approach_to_create_an_authentication_system/)
 - [What’s the difference between Python Data Science Handbook and Python for Data Analysis?](https://www.reddit.com/r/Python/comments/ro2fqf/whats_the_difference_between_python_data_science/)
 - [🎅 Word Puzzle Challenge- X&#39;mas Edition🎄 - Come play!](https://www.reddit.com/r/Python/comments/ro0wl7/word_puzzle_challenge_xmas_edition_come_play/)
 - [MicroPython based macro engine .. useful idea?](https://www.reddit.com/r/Python/comments/rnycez/micropython_based_macro_engine_useful_idea/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/rnxzw5/saturday_daily_thread_resource_request_and/)
-- [Should I create another python course](https://www.reddit.com/r/Python/comments/rnuu9s/should_i_create_another_python_course/)
 <!-- BLOG-POST-LIST:END -->
