@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [check it ;&rpar;](https://www.reddit.com/r/Python/comments/rnvygl/check_it/)
+- [Using kivy to build complex apps?](https://www.reddit.com/r/Python/comments/rnyf7k/using_kivy_to_build_complex_apps/)
+- [MicroPython based macro engine .. useful idea?](https://www.reddit.com/r/Python/comments/rnycez/micropython_based_macro_engine_useful_idea/)
+- [New releases](https://www.reddit.com/r/Python/comments/rnya4g/new_releases/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/rnxzw5/saturday_daily_thread_resource_request_and/)
 - [Should I create another python course](https://www.reddit.com/r/Python/comments/rnuu9s/should_i_create_another_python_course/)
-- [How to make deep fake lip sync using Wav2Lip [tutorial]](https://www.reddit.com/r/Python/comments/rnsnpp/how_to_make_deep_fake_lip_sync_using_wav2lip/)
-- [Beginner&#39;s Guide to Python Arrays](https://www.reddit.com/r/Python/comments/rnsev2/beginners_guide_to_python_arrays/)
-- [Test if easy Python script runs on different environments &lpar;older iMacs&rpar;](https://www.reddit.com/r/Python/comments/rnsbai/test_if_easy_python_script_runs_on_different/)
 <!-- BLOG-POST-LIST:END -->
