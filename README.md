@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [🎅 Word Puzzle Challenge- X&#39;mas Edition🎄 - Come play!](https://www.reddit.com/r/Python/comments/ro0wl7/word_puzzle_challenge_xmas_edition_come_play/)
 - [Using kivy to build complex apps?](https://www.reddit.com/r/Python/comments/rnyf7k/using_kivy_to_build_complex_apps/)
 - [MicroPython based macro engine .. useful idea?](https://www.reddit.com/r/Python/comments/rnycez/micropython_based_macro_engine_useful_idea/)
 - [New releases](https://www.reddit.com/r/Python/comments/rnya4g/new_releases/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/rnxzw5/saturday_daily_thread_resource_request_and/)
-- [Should I create another python course](https://www.reddit.com/r/Python/comments/rnuu9s/should_i_create_another_python_course/)
 <!-- BLOG-POST-LIST:END -->
