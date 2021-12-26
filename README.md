@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Do you recommend the Google IT Automation with Python Professional Certificate @ coursera?](https://www.reddit.com/r/Python/comments/roo9ws/do_you_recommend_the_google_it_automation_with/)
-- [extending python with c++ vs integration with C#](https://www.reddit.com/r/Python/comments/romf36/extending_python_with_c_vs_integration_with_c/)
-- [[Request] Open-source Python Flowtimer &lpar;macOS&rpar;](https://www.reddit.com/r/Python/comments/rom1nh/request_opensource_python_flowtimer_macos/)
 - [Made an Artstation Bot](https://www.reddit.com/r/Python/comments/rom06o/made_an_artstation_bot/)
-- [Better way to do this?](https://www.reddit.com/r/Python/comments/rol9f2/better_way_to_do_this/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rokkm8/sunday_daily_thread_whats_everyone_working_on/)
+- [An enlightening discussion followed my attempt to implement the Pydantic &quot;getting started&quot; example in Param, a compelling class definition system rivalling Traits and Atom and underpinning the holoviz tech stack.](https://www.reddit.com/r/Python/comments/rogpxk/an_enlightening_discussion_followed_my_attempt_to/)
+- [Anyone has any tip or idea about how to make a passive income &lpar;or any profit&rpar; once you learned Python at a basic / intermediate level?](https://www.reddit.com/r/Python/comments/rog90i/anyone_has_any_tip_or_idea_about_how_to_make_a/)
 <!-- BLOG-POST-LIST:END -->
