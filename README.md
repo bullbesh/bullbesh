@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - HUSKI3/Perry: A framework that let&#39;s you compose websites in Python with ease!](https://www.reddit.com/r/Python/comments/rotvry/github_huski3perry_a_framework_that_lets_you/)
 - [Space Science with Python - Part 19: Rendezvous with Jupiter](https://www.reddit.com/r/Python/comments/roti5g/space_science_with_python_part_19_rendezvous_with/)
 - [How to Perform ETL from Snowflake to S3 with Python](https://www.reddit.com/r/Python/comments/rotalo/how_to_perform_etl_from_snowflake_to_s3_with/)
 - [Do you recommend the Google IT Automation with Python Professional Certificate @ coursera?](https://www.reddit.com/r/Python/comments/roo9ws/do_you_recommend_the_google_it_automation_with/)
 - [Made an Artstation Bot](https://www.reddit.com/r/Python/comments/rom06o/made_an_artstation_bot/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rokkm8/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
