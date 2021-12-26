@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use Cumulative Distribution Function to detect performance bottlenecks | Explained using sports example in Python](https://www.reddit.com/r/Python/comments/roym5j/how_to_use_cumulative_distribution_function_to/)
+- [PROCURO UM CURSO DE PROGRAMAÇÃO](https://www.reddit.com/r/Python/comments/royflb/procuro_um_curso_de_programação/)
+- [Comparison Between DeepMinds Player of Games and AlphaZero](https://www.reddit.com/r/Python/comments/royanp/comparison_between_deepminds_player_of_games_and/)
+- [PEP 669 -- Low Impact Monitoring for CPython](https://www.reddit.com/r/Python/comments/roxs9p/pep_669_low_impact_monitoring_for_cpython/)
 - [ALgorithms and data structures for entry level job?](https://www.reddit.com/r/Python/comments/rov90g/algorithms_and_data_structures_for_entry_level_job/)
-- [I coded Snake using Pygame!](https://www.reddit.com/r/Python/comments/rour4r/i_coded_snake_using_pygame/)
-- [GitHub - HUSKI3/Perry: A framework that let&#39;s you compose websites in Python with ease!](https://www.reddit.com/r/Python/comments/rotvry/github_huski3perry_a_framework_that_lets_you/)
-- [Space Science with Python - Part 19: Rendezvous with Jupiter](https://www.reddit.com/r/Python/comments/roti5g/space_science_with_python_part_19_rendezvous_with/)
-- [How to Perform ETL from Snowflake to S3 with Python](https://www.reddit.com/r/Python/comments/rotalo/how_to_perform_etl_from_snowflake_to_s3_with/)
 <!-- BLOG-POST-LIST:END -->
