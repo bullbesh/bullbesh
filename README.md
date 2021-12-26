@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Rant] configuration files for different tools madness](https://www.reddit.com/r/Python/comments/rozbpr/rant_configuration_files_for_different_tools/)
 - [How to use Cumulative Distribution Function to detect performance bottlenecks | Explained using sports example in Python](https://www.reddit.com/r/Python/comments/roym5j/how_to_use_cumulative_distribution_function_to/)
 - [PROCURO UM CURSO DE PROGRAMAÇÃO](https://www.reddit.com/r/Python/comments/royflb/procuro_um_curso_de_programação/)
 - [Comparison Between DeepMinds Player of Games and AlphaZero](https://www.reddit.com/r/Python/comments/royanp/comparison_between_deepminds_player_of_games_and/)
 - [PEP 669 -- Low Impact Monitoring for CPython](https://www.reddit.com/r/Python/comments/roxs9p/pep_669_low_impact_monitoring_for_cpython/)
-- [ALgorithms and data structures for entry level job?](https://www.reddit.com/r/Python/comments/rov90g/algorithms_and_data_structures_for_entry_level_job/)
 <!-- BLOG-POST-LIST:END -->
