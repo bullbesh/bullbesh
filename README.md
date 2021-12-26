@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a python package to make working with user inputs easier](https://www.reddit.com/r/Python/comments/rp7lie/i_created_a_python_package_to_make_working_with/)
+- [Created a Quote Generator API](https://www.reddit.com/r/Python/comments/rp7dja/created_a_quote_generator_api/)
 - [Help](https://www.reddit.com/r/Python/comments/rp6uax/help/)
 - [Costum menu bar app with python &amp; rumps](https://www.reddit.com/r/Python/comments/rp6nh9/costum_menu_bar_app_with_python_rumps/)
 - [Just created an open-source text adventure game engine. Still didn&#39;t upload to PyPi but will soon!](https://www.reddit.com/r/Python/comments/rp1cli/just_created_an_opensource_text_adventure_game/)
-- [I create a python scripts that can rickroll anyone in just 2 lines](https://www.reddit.com/r/Python/comments/rp0t97/i_create_a_python_scripts_that_can_rickroll/)
-- [5 Useful Pandas Methods You May Not Know Existed - Part I](https://www.reddit.com/r/Python/comments/rp0fz7/5_useful_pandas_methods_you_may_not_know_existed/)
 <!-- BLOG-POST-LIST:END -->
