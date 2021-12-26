@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do Not Learn Python before watch this Video !!](https://www.reddit.com/r/Python/comments/rp1xbh/do_not_learn_python_before_watch_this_video/)
 - [Just created an open-source text adventure game engine. Still didn&#39;t upload to PyPi but will soon!](https://www.reddit.com/r/Python/comments/rp1cli/just_created_an_opensource_text_adventure_game/)
 - [I create a python scripts that can rickroll anyone in just 2 lines](https://www.reddit.com/r/Python/comments/rp0t97/i_create_a_python_scripts_that_can_rickroll/)
 - [5 Useful Pandas Methods You May Not Know Existed - Part I](https://www.reddit.com/r/Python/comments/rp0fz7/5_useful_pandas_methods_you_may_not_know_existed/)
 - [[Rant] configuration files for different tools madness](https://www.reddit.com/r/Python/comments/rozbpr/rant_configuration_files_for_different_tools/)
-- [How to use Cumulative Distribution Function to detect performance bottlenecks | Explained using sports example in Python](https://www.reddit.com/r/Python/comments/roym5j/how_to_use_cumulative_distribution_function_to/)
 <!-- BLOG-POST-LIST:END -->
