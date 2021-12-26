@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Better way to do this?](https://www.reddit.com/r/Python/comments/rol9f2/better_way_to_do_this/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rokkm8/sunday_daily_thread_whats_everyone_working_on/)
 - [An enlightening discussion followed my attempt to implement the Pydantic &quot;getting started&quot; example in Param, a compelling class definition system rivalling Traits and Atom and underpinning the holoviz tech stack.](https://www.reddit.com/r/Python/comments/rogpxk/an_enlightening_discussion_followed_my_attempt_to/)
 - [Anyone has any tip or idea about how to make a passive income &lpar;or any profit&rpar; once you learned Python at a basic / intermediate level?](https://www.reddit.com/r/Python/comments/rog90i/anyone_has_any_tip_or_idea_about_how_to_make_a/)
 - [You can now make Python desktop apps with HTML and CSS?](https://www.reddit.com/r/Python/comments/rofw96/you_can_now_make_python_desktop_apps_with_html/)
-- [I made a small robot in python to clean up my mail!](https://www.reddit.com/r/Python/comments/roech7/i_made_a_small_robot_in_python_to_clean_up_my_mail/)
-- [Mac vs WSL2](https://www.reddit.com/r/Python/comments/rod1uk/mac_vs_wsl2/)
 <!-- BLOG-POST-LIST:END -->
