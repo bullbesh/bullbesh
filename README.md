@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Space Science with Python - Part 19: Rendezvous with Jupiter](https://www.reddit.com/r/Python/comments/roti5g/space_science_with_python_part_19_rendezvous_with/)
+- [How to Perform ETL from Snowflake to S3 with Python](https://www.reddit.com/r/Python/comments/rotalo/how_to_perform_etl_from_snowflake_to_s3_with/)
 - [Do you recommend the Google IT Automation with Python Professional Certificate @ coursera?](https://www.reddit.com/r/Python/comments/roo9ws/do_you_recommend_the_google_it_automation_with/)
 - [Made an Artstation Bot](https://www.reddit.com/r/Python/comments/rom06o/made_an_artstation_bot/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rokkm8/sunday_daily_thread_whats_everyone_working_on/)
-- [An enlightening discussion followed my attempt to implement the Pydantic &quot;getting started&quot; example in Param, a compelling class definition system rivalling Traits and Atom and underpinning the holoviz tech stack.](https://www.reddit.com/r/Python/comments/rogpxk/an_enlightening_discussion_followed_my_attempt_to/)
-- [Anyone has any tip or idea about how to make a passive income &lpar;or any profit&rpar; once you learned Python at a basic / intermediate level?](https://www.reddit.com/r/Python/comments/rog90i/anyone_has_any_tip_or_idea_about_how_to_make_a/)
 <!-- BLOG-POST-LIST:END -->
