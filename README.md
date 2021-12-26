@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you recommend the Google IT Automation with Python Professional Certificate @ coursera?](https://www.reddit.com/r/Python/comments/roo9ws/do_you_recommend_the_google_it_automation_with/)
 - [extending python with c++ vs integration with C#](https://www.reddit.com/r/Python/comments/romf36/extending_python_with_c_vs_integration_with_c/)
 - [[Request] Open-source Python Flowtimer &lpar;macOS&rpar;](https://www.reddit.com/r/Python/comments/rom1nh/request_opensource_python_flowtimer_macos/)
 - [Made an Artstation Bot](https://www.reddit.com/r/Python/comments/rom06o/made_an_artstation_bot/)
 - [Better way to do this?](https://www.reddit.com/r/Python/comments/rol9f2/better_way_to_do_this/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rokkm8/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
