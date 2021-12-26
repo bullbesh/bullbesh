@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just created an open-source text adventure game engine. Still didn&#39;t upload to PyPi but will soon!](https://www.reddit.com/r/Python/comments/rp1cli/just_created_an_opensource_text_adventure_game/)
+- [I create a python scripts that can rickroll anyone in just 2 lines](https://www.reddit.com/r/Python/comments/rp0t97/i_create_a_python_scripts_that_can_rickroll/)
+- [5 Useful Pandas Methods You May Not Know Existed - Part I](https://www.reddit.com/r/Python/comments/rp0fz7/5_useful_pandas_methods_you_may_not_know_existed/)
 - [[Rant] configuration files for different tools madness](https://www.reddit.com/r/Python/comments/rozbpr/rant_configuration_files_for_different_tools/)
 - [How to use Cumulative Distribution Function to detect performance bottlenecks | Explained using sports example in Python](https://www.reddit.com/r/Python/comments/roym5j/how_to_use_cumulative_distribution_function_to/)
-- [PROCURO UM CURSO DE PROGRAMAÇÃO](https://www.reddit.com/r/Python/comments/royflb/procuro_um_curso_de_programação/)
-- [Comparison Between DeepMinds Player of Games and AlphaZero](https://www.reddit.com/r/Python/comments/royanp/comparison_between_deepminds_player_of_games_and/)
-- [PEP 669 -- Low Impact Monitoring for CPython](https://www.reddit.com/r/Python/comments/roxs9p/pep_669_low_impact_monitoring_for_cpython/)
 <!-- BLOG-POST-LIST:END -->
