@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I have a little error...](https://www.reddit.com/r/Python/comments/rpej0z/i_have_a_little_error/)
 - [Complete E-commerce Api with API Documentation](https://www.reddit.com/r/Python/comments/rpczem/complete_ecommerce_api_with_api_documentation/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/rp9ea8/monday_daily_thread_project_ideas/)
 - [I created a python package to make working with user inputs easier](https://www.reddit.com/r/Python/comments/rp7lie/i_created_a_python_package_to_make_working_with/)
 - [Created a Quote Generator API](https://www.reddit.com/r/Python/comments/rp7dja/created_a_quote_generator_api/)
-- [Help](https://www.reddit.com/r/Python/comments/rp6uax/help/)
 <!-- BLOG-POST-LIST:END -->
