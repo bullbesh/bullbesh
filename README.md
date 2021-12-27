@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing Hello World in Python - Python Course for Beginners](https://www.reddit.com/r/Python/comments/rplalu/writing_hello_world_in_python_python_course_for/)
 - [LazyText](https://www.reddit.com/r/Python/comments/rpk05e/lazytext/)
 - [how to turn python app into web server?](https://www.reddit.com/r/Python/comments/rpjbq2/how_to_turn_python_app_into_web_server/)
 - [Anonymize your Data with a single line!](https://www.reddit.com/r/Python/comments/rpfoo4/anonymize_your_data_with_a_single_line/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/rp9ea8/monday_daily_thread_project_ideas/)
-- [I created a python package to make working with user inputs easier](https://www.reddit.com/r/Python/comments/rp7lie/i_created_a_python_package_to_make_working_with/)
 <!-- BLOG-POST-LIST:END -->
