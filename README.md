@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Control your computer through Discord and Telegram](https://www.reddit.com/r/Python/comments/rpw5lr/control_your_computer_through_discord_and_telegram/)
-- [So, I made this Python algorithm to measure the user&#39;s heart-beat just with a video of his finger](https://www.reddit.com/r/Python/comments/rpvgz3/so_i_made_this_python_algorithm_to_measure_the/)
-- [unable to use random proxy with scrapy script, need your expert help](https://www.reddit.com/r/Python/comments/rpv49w/unable_to_use_random_proxy_with_scrapy_script/)
-- [Simplest Virtualenv tutorial](https://www.reddit.com/r/Python/comments/rpu3gl/simplest_virtualenv_tutorial/)
-- [Python Project : JARVIS Ai Voice Assistant &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/rptldp/python_project_jarvis_ai_voice_assistant_2022/)
+- [what should i do after learning fundamentals?](https://www.reddit.com/r/Python/comments/rpxgaq/what_should_i_do_after_learning_fundamentals/)
+- [open-source desktop app to read, display and export car sensor data](https://www.reddit.com/r/Python/comments/rpxfkk/opensource_desktop_app_to_read_display_and_export/)
+- [TO DAVID JOYNER OF GEORGIA TECH!](https://www.reddit.com/r/Python/comments/rpxanr/to_david_joyner_of_georgia_tech/)
+- [Building a Machine Learning App | 10 hour coding](https://www.reddit.com/r/Python/comments/rpwydh/building_a_machine_learning_app_10_hour_coding/)
+- [How to Build an AI Content Moderation System](https://www.reddit.com/r/Python/comments/rpwwf4/how_to_build_an_ai_content_moderation_system/)
 <!-- BLOG-POST-LIST:END -->
