@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Published a new library on Pypi for logging](https://www.reddit.com/r/Python/comments/rps91z/published_a_new_library_on_pypi_for_logging/)
+- [CSS in the Terminal with Python and Textual](https://www.reddit.com/r/Python/comments/rprpxf/css_in_the_terminal_with_python_and_textual/)
 - [Easily integrate Captcha in your Django projects](https://www.reddit.com/r/Python/comments/rpr3o1/easily_integrate_captcha_in_your_django_projects/)
 - [Python beginner project, 150 lines of code](https://www.reddit.com/r/Python/comments/rpqo39/python_beginner_project_150_lines_of_code/)
 - [You can now use &#39;pip&#39; to install Tailwind CSS. Node.js is no longer required](https://www.reddit.com/r/Python/comments/rpqaat/you_can_now_use_pip_to_install_tailwind_css/)
-- [Created a automated artist &lpar;Paint Buddy&rpar;](https://www.reddit.com/r/Python/comments/rpnzjq/created_a_automated_artist_paint_buddy/)
-- [I tested the nogil fork with a parallel processing task and it was... really slow?](https://www.reddit.com/r/Python/comments/rplts6/i_tested_the_nogil_fork_with_a_parallel/)
 <!-- BLOG-POST-LIST:END -->
