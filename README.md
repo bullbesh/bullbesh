@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Control your computer through Discord and Telegram](https://www.reddit.com/r/Python/comments/rpw5lr/control_your_computer_through_discord_and_telegram/)
+- [So, I made this Python algorithm to measure the user&#39;s heart-beat just with a video of his finger](https://www.reddit.com/r/Python/comments/rpvgz3/so_i_made_this_python_algorithm_to_measure_the/)
+- [unable to use random proxy with scrapy script, need your expert help](https://www.reddit.com/r/Python/comments/rpv49w/unable_to_use_random_proxy_with_scrapy_script/)
 - [Simplest Virtualenv tutorial](https://www.reddit.com/r/Python/comments/rpu3gl/simplest_virtualenv_tutorial/)
 - [Python Project : JARVIS Ai Voice Assistant &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/rptldp/python_project_jarvis_ai_voice_assistant_2022/)
-- [CSS in the Terminal with Python and Textual](https://www.reddit.com/r/Python/comments/rprpxf/css_in_the_terminal_with_python_and_textual/)
-- [Easily integrate Captcha in your Django projects](https://www.reddit.com/r/Python/comments/rpr3o1/easily_integrate_captcha_in_your_django_projects/)
-- [You can now use &#39;pip&#39; to install Tailwind CSS. Node.js is no longer required](https://www.reddit.com/r/Python/comments/rpqaat/you_can_now_use_pip_to_install_tailwind_css/)
 <!-- BLOG-POST-LIST:END -->
