@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Create a bitmap image from array &lpar;x,y,r,g,b&rpar;?](https://www.reddit.com/r/Python/comments/rpezv7/create_a_bitmap_image_from_array_xyrgb/)
-- [I have a little error...](https://www.reddit.com/r/Python/comments/rpej0z/i_have_a_little_error/)
+- [Is there an IDE that works on the Mac, but the Python code resides on a Linux server?](https://www.reddit.com/r/Python/comments/rphaya/is_there_an_ide_that_works_on_the_mac_but_the/)
+- [Anonymize your Data with a single line!](https://www.reddit.com/r/Python/comments/rpfoo4/anonymize_your_data_with_a_single_line/)
 - [Complete E-commerce Api with API Documentation](https://www.reddit.com/r/Python/comments/rpczem/complete_ecommerce_api_with_api_documentation/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/rp9ea8/monday_daily_thread_project_ideas/)
 - [I created a python package to make working with user inputs easier](https://www.reddit.com/r/Python/comments/rp7lie/i_created_a_python_package_to_make_working_with/)
