@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is there an IDE that works on the Mac, but the Python code resides on a Linux server?](https://www.reddit.com/r/Python/comments/rphaya/is_there_an_ide_that_works_on_the_mac_but_the/)
 - [Anonymize your Data with a single line!](https://www.reddit.com/r/Python/comments/rpfoo4/anonymize_your_data_with_a_single_line/)
-- [Complete E-commerce Api with API Documentation](https://www.reddit.com/r/Python/comments/rpczem/complete_ecommerce_api_with_api_documentation/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/rp9ea8/monday_daily_thread_project_ideas/)
 - [I created a python package to make working with user inputs easier](https://www.reddit.com/r/Python/comments/rp7lie/i_created_a_python_package_to_make_working_with/)
+- [Created a Quote Generator API](https://www.reddit.com/r/Python/comments/rp7dja/created_a_quote_generator_api/)
+- [Costum menu bar app with python &amp; rumps](https://www.reddit.com/r/Python/comments/rp6nh9/costum_menu_bar_app_with_python_rumps/)
 <!-- BLOG-POST-LIST:END -->
