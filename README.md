@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Use Cases That Only a Few Programmers Know](https://www.reddit.com/r/Python/comments/rqfboz/python_use_cases_that_only_a_few_programmers_know/)
+- [The Starlite API framework - beta 1](https://www.reddit.com/r/Python/comments/rqfb21/the_starlite_api_framework_beta_1/)
+- [Python API Development - Comprehensive Course for Beginners &lpar;19 hours&rpar;](https://www.reddit.com/r/Python/comments/rqf9m2/python_api_development_comprehensive_course_for/)
+- [Helsinki Python Mooc solutions](https://www.reddit.com/r/Python/comments/rqf05l/helsinki_python_mooc_solutions/)
 - [Library for fetching coin/token historical data, trends and more - not obsolete](https://www.reddit.com/r/Python/comments/rqecp7/library_for_fetching_cointoken_historical_data/)
-- [Best 5 Big Data Certification Courses to learn in 2022 - CLOUDit-eg](https://www.reddit.com/r/Python/comments/rqdywy/best_5_big_data_certification_courses_to_learn_in/)
-- [outputformater: simple library to decorate and beautify your standard output](https://www.reddit.com/r/Python/comments/rqdu5y/outputformater_simple_library_to_decorate_and/)
-- [Table Convert - Make it easier to work with tables](https://www.reddit.com/r/Python/comments/rqdqki/table_convert_make_it_easier_to_work_with_tables/)
-- [[Utility] Preview Jupyter Notebooks](https://www.reddit.com/r/Python/comments/rqdeku/utility_preview_jupyter_notebooks/)
 <!-- BLOG-POST-LIST:END -->
