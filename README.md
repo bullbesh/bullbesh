@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Selenium vs Codeless Automation](https://www.reddit.com/r/Python/comments/rqgi79/selenium_vs_codeless_automation/)
+- [Check out my Github](https://www.reddit.com/r/Python/comments/rqg8fg/check_out_my_github/)
+- [Should Python implement where clause in comprehensions?](https://www.reddit.com/r/Python/comments/rqg309/should_python_implement_where_clause_in/)
 - [Python Use Cases That Only a Few Programmers Know](https://www.reddit.com/r/Python/comments/rqfboz/python_use_cases_that_only_a_few_programmers_know/)
 - [The Starlite API framework - beta 1](https://www.reddit.com/r/Python/comments/rqfb21/the_starlite_api_framework_beta_1/)
-- [Python API Development - Comprehensive Course for Beginners &lpar;19 hours&rpar;](https://www.reddit.com/r/Python/comments/rqf9m2/python_api_development_comprehensive_course_for/)
-- [Helsinki Python Mooc solutions](https://www.reddit.com/r/Python/comments/rqf05l/helsinki_python_mooc_solutions/)
-- [Library for fetching coin/token historical data, trends and more - not obsolete](https://www.reddit.com/r/Python/comments/rqecp7/library_for_fetching_cointoken_historical_data/)
 <!-- BLOG-POST-LIST:END -->
