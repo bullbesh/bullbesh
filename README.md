@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pong Game in Python - Intermediate Python Project](https://www.reddit.com/r/Python/comments/rqknha/pong_game_in_python_intermediate_python_project/)
 - [Python Zip Imports: Distribute Modules and Packages Quickly – Real Python](https://www.reddit.com/r/Python/comments/rqhmx8/python_zip_imports_distribute_modules_and/)
 - [Selenium vs Codeless Automation](https://www.reddit.com/r/Python/comments/rqgi79/selenium_vs_codeless_automation/)
 - [Should Python implement where clause in comprehensions?](https://www.reddit.com/r/Python/comments/rqg309/should_python_implement_where_clause_in/)
 - [Python Use Cases That Only a Few Programmers Know](https://www.reddit.com/r/Python/comments/rqfboz/python_use_cases_that_only_a_few_programmers_know/)
-- [The Starlite API framework - beta 1](https://www.reddit.com/r/Python/comments/rqfb21/the_starlite_api_framework_beta_1/)
 <!-- BLOG-POST-LIST:END -->
