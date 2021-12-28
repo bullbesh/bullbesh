@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Utility] Preview Jupyter Notebooks](https://www.reddit.com/r/Python/comments/rqdeku/utility_preview_jupyter_notebooks/)
 - [Detection of DDoS Attacks using ML Technique: Hybrid Approach | Mixing KNN SVM Gaussian Naïve Bayes](https://www.reddit.com/r/Python/comments/rqcloq/detection_of_ddos_attacks_using_ml_technique/)
 - [I made a teminal tool that shows the weather in neo-fetch like style!](https://www.reddit.com/r/Python/comments/rqbh5b/i_made_a_teminal_tool_that_shows_the_weather_in/)
 - [Is your Python code vulnerable to log injection?](https://www.reddit.com/r/Python/comments/rqaysb/is_your_python_code_vulnerable_to_log_injection/)
 - [9 Best Career Options After BCA-InsideAIML](https://www.reddit.com/r/Python/comments/rqas5l/9_best_career_options_after_bcainsideaiml/)
-- [grade my first python script! I just wanna know if i did good](https://www.reddit.com/r/Python/comments/rq9bpv/grade_my_first_python_script_i_just_wanna_know_if/)
 <!-- BLOG-POST-LIST:END -->
