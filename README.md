@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Library for fetching coin/token historical data, trends and more - not obsolete](https://www.reddit.com/r/Python/comments/rqecp7/library_for_fetching_cointoken_historical_data/)
+- [Best 5 Big Data Certification Courses to learn in 2022 - CLOUDit-eg](https://www.reddit.com/r/Python/comments/rqdywy/best_5_big_data_certification_courses_to_learn_in/)
+- [outputformater: simple library to decorate and beautify your standard output](https://www.reddit.com/r/Python/comments/rqdu5y/outputformater_simple_library_to_decorate_and/)
+- [Table Convert - Make it easier to work with tables](https://www.reddit.com/r/Python/comments/rqdqki/table_convert_make_it_easier_to_work_with_tables/)
 - [[Utility] Preview Jupyter Notebooks](https://www.reddit.com/r/Python/comments/rqdeku/utility_preview_jupyter_notebooks/)
-- [Detection of DDoS Attacks using ML Technique: Hybrid Approach | Mixing KNN SVM Gaussian Naïve Bayes](https://www.reddit.com/r/Python/comments/rqcloq/detection_of_ddos_attacks_using_ml_technique/)
-- [I made a teminal tool that shows the weather in neo-fetch like style!](https://www.reddit.com/r/Python/comments/rqbh5b/i_made_a_teminal_tool_that_shows_the_weather_in/)
-- [Is your Python code vulnerable to log injection?](https://www.reddit.com/r/Python/comments/rqaysb/is_your_python_code_vulnerable_to_log_injection/)
-- [9 Best Career Options After BCA-InsideAIML](https://www.reddit.com/r/Python/comments/rqas5l/9_best_career_options_after_bcainsideaiml/)
 <!-- BLOG-POST-LIST:END -->
