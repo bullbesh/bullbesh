@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is there public repo showing production level code of APIs using FastAPI](https://www.reddit.com/r/Python/comments/rq730r/is_there_public_repo_showing_production_level/)
+- [grade my first python script! I just wanna know if i did good](https://www.reddit.com/r/Python/comments/rq9bpv/grade_my_first_python_script_i_just_wanna_know_if/)
 - [Python 3.6.15 For Windows XP SP3](https://www.reddit.com/r/Python/comments/rq6hhn/python_3615_for_windows_xp_sp3/)
 - [SearchifyX - Stealthy answer searcher](https://www.reddit.com/r/Python/comments/rq5zg4/searchifyx_stealthy_answer_searcher/)
 - [Finally published my first python package!!](https://www.reddit.com/r/Python/comments/rq1fz4/finally_published_my_first_python_package/)
