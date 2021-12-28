@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding an AI to predict how your post will perform on Instagram | Instag...](https://www.reddit.com/r/Python/comments/rqr0wa/coding_an_ai_to_predict_how_your_post_will/)
+- [Pandemic Board Game AI](https://www.reddit.com/r/Python/comments/rqqtxs/pandemic_board_game_ai/)
 - [Smarthome with python, raspberry, grafana and influxDB](https://www.reddit.com/r/Python/comments/rqp115/smarthome_with_python_raspberry_grafana_and/)
 - [Automate your life with Python](https://www.reddit.com/r/Python/comments/rqo1zf/automate_your_life_with_python/)
 - [Pong Game in Python - Intermediate Python Project](https://www.reddit.com/r/Python/comments/rqknha/pong_game_in_python_intermediate_python_project/)
-- [Python Zip Imports: Distribute Modules and Packages Quickly – Real Python](https://www.reddit.com/r/Python/comments/rqhmx8/python_zip_imports_distribute_modules_and/)
-- [Selenium vs Codeless Automation](https://www.reddit.com/r/Python/comments/rqgi79/selenium_vs_codeless_automation/)
 <!-- BLOG-POST-LIST:END -->
