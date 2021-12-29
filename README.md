@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lambda List bug](https://www.reddit.com/r/Python/comments/rrdcy2/lambda_list_bug/)
+- [Universalasync – create sync and async libraries at the same time maintaining one codebase](https://www.reddit.com/r/Python/comments/rrd4yh/universalasync_create_sync_and_async_libraries_at/)
+- [Build a simple web app using BottlePy](https://www.reddit.com/r/Python/comments/rrcwz0/build_a_simple_web_app_using_bottlepy/)
+- [Secrets of MicroPython: How to blink an LED](https://www.reddit.com/r/Python/comments/rrc8vt/secrets_of_micropython_how_to_blink_an_led/)
 - [Is an &lpar;x,y&rpar; pair should be stored as seperate variables, tuple or a class?](https://www.reddit.com/r/Python/comments/rrc190/is_an_xy_pair_should_be_stored_as_seperate/)
-- [Open source package urllib3 raised $15,000 in 2021](https://www.reddit.com/r/Python/comments/rrc13l/open_source_package_urllib3_raised_15000_in_2021/)
-- [File migration utility for code review](https://www.reddit.com/r/Python/comments/rrbmr7/file_migration_utility_for_code_review/)
-- [HOW TO CREATE A DIGITAL CLOCK USING Tkinter || PHYSCODER { } || CODE ATL...](https://www.reddit.com/r/Python/comments/rra9x4/how_to_create_a_digital_clock_using_tkinter/)
-- [Ever heard of Black? This is the opposite. A tool to turn your clean python code into a hideous &lpar;working&rpar; mess.](https://www.reddit.com/r/Python/comments/rra22x/ever_heard_of_black_this_is_the_opposite_a_tool/)
 <!-- BLOG-POST-LIST:END -->
