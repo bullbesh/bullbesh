@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I wrote a simple matplotlib wrapper to automatically adjust the sizes of text, scatter points, and lines to be proportional to the figure size.](https://www.reddit.com/r/Python/comments/rqtpvg/i_wrote_a_simple_matplotlib_wrapper_to/)
+- [I made a cli snake game being a begginer, Im so happy:3](https://www.reddit.com/r/Python/comments/rqwuhb/i_made_a_cli_snake_game_being_a_begginer_im_so/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/rqtl8w/wednesday_daily_thread_beginner_questions/)
 - [Coding an AI to predict how your post will perform on Instagram | Instag...](https://www.reddit.com/r/Python/comments/rqr0wa/coding_an_ai_to_predict_how_your_post_will/)
 - [Pandemic Board Game AI](https://www.reddit.com/r/Python/comments/rqqtxs/pandemic_board_game_ai/)
