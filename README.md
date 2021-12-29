@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [You Only Encode Once &lpar;YOEO&rpar;](https://www.reddit.com/r/Python/comments/rr5w2i/you_only_encode_once_yoeo/)
+- [What is the best strategy to align coding practice across the team?](https://www.reddit.com/r/Python/comments/rr5cs3/what_is_the_best_strategy_to_align_coding/)
 - [9 Best Career Options After BCA-InsideAIML](https://www.reddit.com/r/Python/comments/rr4xuu/9_best_career_options_after_bcainsideaiml/)
 - [GitHub - Bycelium/PyFlow: An open-source tool for visual and modular block programing in python](https://www.reddit.com/r/Python/comments/rr456h/github_byceliumpyflow_an_opensource_tool_for/)
 - [Anaconda jupyter is awesome platform for file handling with windows operating system??](https://www.reddit.com/r/Python/comments/rr3bwb/anaconda_jupyter_is_awesome_platform_for_file/)
-- [[Tutorial] Create A Python Program To Backup YouTube Playlists &lpar;With YouTube API&rpar;](https://www.reddit.com/r/Python/comments/rqy8io/tutorial_create_a_python_program_to_backup/)
-- [I made a cli snake game being a begginer, Im so happy:3](https://www.reddit.com/r/Python/comments/rqwuhb/i_made_a_cli_snake_game_being_a_begginer_im_so/)
 <!-- BLOG-POST-LIST:END -->
