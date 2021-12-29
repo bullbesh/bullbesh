@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is using Selinium illegal for automating sign in for G suite accounts?](https://www.reddit.com/r/Python/comments/rreosf/is_using_selinium_illegal_for_automating_sign_in/)
+- [Learn Python ASTs, by building your own linter](https://www.reddit.com/r/Python/comments/rrdhzq/learn_python_asts_by_building_your_own_linter/)
+- [Python Network Tracking using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/rrdhmn/python_network_tracking_using_wireshark_and/)
 - [Lambda List bug](https://www.reddit.com/r/Python/comments/rrdcy2/lambda_list_bug/)
 - [Universalasync – create sync and async libraries at the same time maintaining one codebase](https://www.reddit.com/r/Python/comments/rrd4yh/universalasync_create_sync_and_async_libraries_at/)
-- [Build a simple web app using BottlePy](https://www.reddit.com/r/Python/comments/rrcwz0/build_a_simple_web_app_using_bottlepy/)
-- [Secrets of MicroPython: How to blink an LED](https://www.reddit.com/r/Python/comments/rrc8vt/secrets_of_micropython_how_to_blink_an_led/)
-- [Is an &lpar;x,y&rpar; pair should be stored as seperate variables, tuple or a class?](https://www.reddit.com/r/Python/comments/rrc190/is_an_xy_pair_should_be_stored_as_seperate/)
 <!-- BLOG-POST-LIST:END -->
