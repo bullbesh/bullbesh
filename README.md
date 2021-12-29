@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Project Ideas for Beginners](https://www.reddit.com/r/Python/comments/rr9440/python_project_ideas_for_beginners/)
+- [Removing duplicates form a list](https://www.reddit.com/r/Python/comments/rr91wn/removing_duplicates_form_a_list/)
 - [Deploying Django to Heroku in Minutes](https://www.reddit.com/r/Python/comments/rr7zdo/deploying_django_to_heroku_in_minutes/)
 - [Python tutorial: Building a simple command line application](https://www.reddit.com/r/Python/comments/rr7ovs/python_tutorial_building_a_simple_command_line/)
 - [Piou - Build beautiful command-line interfaces with type validation](https://www.reddit.com/r/Python/comments/rr7c7n/piou_build_beautiful_commandline_interfaces_with/)
-- [Hire Python Developers | Python Programmers for Hire](https://www.reddit.com/r/Python/comments/rr73p8/hire_python_developers_python_programmers_for_hire/)
-- [Web scraping in Python with lxml and pandas](https://www.reddit.com/r/Python/comments/rr6urb/web_scraping_in_python_with_lxml_and_pandas/)
 <!-- BLOG-POST-LIST:END -->
