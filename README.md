@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Engineering in Python](https://www.reddit.com/r/Python/comments/rrjqt0/data_engineering_in_python/)
+- [Tutorial - Generative Art With Python](https://www.reddit.com/r/Python/comments/rrjoob/tutorial_generative_art_with_python/)
 - [Why is Python relatively slow even compared to some dynamic programming languages?](https://www.reddit.com/r/Python/comments/rrilbu/why_is_python_relatively_slow_even_compared_to/)
 - [Kungfoo &lpar;very&rpar; Simple Math Equation Parser](https://www.reddit.com/r/Python/comments/rrgzl9/kungfoo_very_simple_math_equation_parser/)
 - [A Comprehensive Guide to NumPy Data Types: Strings, datetimes, heterogenous data, overflows, etc.](https://www.reddit.com/r/Python/comments/rrgu3j/a_comprehensive_guide_to_numpy_data_types_strings/)
-- [Multithreaded File Unzipping](https://www.reddit.com/r/Python/comments/rrgcfm/multithreaded_file_unzipping/)
-- [Is using Selinium illegal for automating sign in for G suite accounts?](https://www.reddit.com/r/Python/comments/rreosf/is_using_selinium_illegal_for_automating_sign_in/)
 <!-- BLOG-POST-LIST:END -->
