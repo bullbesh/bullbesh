@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python projects medium-advanced](https://www.reddit.com/r/Python/comments/rrl3r5/python_projects_mediumadvanced/)
+- [My website that allows you to convert an audio/video file to another format. Flask backend.](https://www.reddit.com/r/Python/comments/rrl0mr/my_website_that_allows_you_to_convert_an/)
 - [Data Engineering in Python](https://www.reddit.com/r/Python/comments/rrjqt0/data_engineering_in_python/)
 - [Tutorial - Generative Art With Python](https://www.reddit.com/r/Python/comments/rrjoob/tutorial_generative_art_with_python/)
 - [Why is Python relatively slow even compared to some dynamic programming languages?](https://www.reddit.com/r/Python/comments/rrilbu/why_is_python_relatively_slow_even_compared_to/)
-- [Kungfoo &lpar;very&rpar; Simple Math Equation Parser](https://www.reddit.com/r/Python/comments/rrgzl9/kungfoo_very_simple_math_equation_parser/)
-- [A Comprehensive Guide to NumPy Data Types: Strings, datetimes, heterogenous data, overflows, etc.](https://www.reddit.com/r/Python/comments/rrgu3j/a_comprehensive_guide_to_numpy_data_types_strings/)
 <!-- BLOG-POST-LIST:END -->
