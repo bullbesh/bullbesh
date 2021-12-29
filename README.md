@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need advice. 2 full time jobs, new born father.....](https://www.reddit.com/r/Python/comments/rqzwmc/need_advice_2_full_time_jobs_new_born_father/)
 - [Open source projects for beginners](https://www.reddit.com/r/Python/comments/rqyvgu/open_source_projects_for_beginners/)
 - [[Tutorial] Create A Python Program To Backup YouTube Playlists &lpar;With YouTube API&rpar;](https://www.reddit.com/r/Python/comments/rqy8io/tutorial_create_a_python_program_to_backup/)
 - [I made a cli snake game being a begginer, Im so happy:3](https://www.reddit.com/r/Python/comments/rqwuhb/i_made_a_cli_snake_game_being_a_begginer_im_so/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/rqtl8w/wednesday_daily_thread_beginner_questions/)
-- [Coding an AI to predict how your post will perform on Instagram | Instag...](https://www.reddit.com/r/Python/comments/rqr0wa/coding_an_ai_to_predict_how_your_post_will/)
 <!-- BLOG-POST-LIST:END -->
