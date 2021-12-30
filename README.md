@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [📖 Data-Oriented Programming book: First draft](https://www.reddit.com/r/Python/comments/rs8gea/dataoriented_programming_book_first_draft/)
 - [Pyaudio playback - callback returns short buffer and playback stops - normal behavior?](https://www.reddit.com/r/Python/comments/rs8eeq/pyaudio_playback_callback_returns_short_buffer/)
 - [Water Jugs problem](https://www.reddit.com/r/Python/comments/rs81ar/water_jugs_problem/)
 - [Web api benchmarking: Python &lpar;Falcon&rpar; vs Rust &lpar;Warp&rpar;](https://www.reddit.com/r/Python/comments/rs7ysy/web_api_benchmarking_python_falcon_vs_rust_warp/)
 - [I made Python web app without using any web frameworks](https://www.reddit.com/r/Python/comments/rs7vah/i_made_python_web_app_without_using_any_web/)
-- [PID Simulator](https://www.reddit.com/r/Python/comments/rs6llm/pid_simulator/)
 <!-- BLOG-POST-LIST:END -->
