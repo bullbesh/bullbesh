@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I have a MongoDB doubt, If anyone can help. I will really appriciate it.](https://www.reddit.com/r/Python/comments/rs0mw9/i_have_a_mongodb_doubt_if_anyone_can_help_i_will/)
+- [Release announcement: `e2j2`v0.7.1](https://www.reddit.com/r/Python/comments/rs0ff3/release_announcement_e2j2v071/)
+- [Need EASY TO FOLLOW DS &amp; Algorithms Book/Course. Thanks!](https://www.reddit.com/r/Python/comments/rrzt4u/need_easy_to_follow_ds_algorithms_bookcourse/)
 - [Solve x for Ax=b where A is non-square](https://www.reddit.com/r/Python/comments/rrzfzd/solve_x_for_axb_where_a_is_nonsquare/)
 - [Request for feedback: how can we make it easier to troubleshoot Python applications on Kubernetes?](https://www.reddit.com/r/Python/comments/rrxz59/request_for_feedback_how_can_we_make_it_easier_to/)
-- [How do I add a searchbox inside the GUI of my python script?](https://www.reddit.com/r/Python/comments/rrxd5l/how_do_i_add_a_searchbox_inside_the_gui_of_my/)
-- [Media pipe finger counter](https://www.reddit.com/r/Python/comments/rrwbfq/media_pipe_finger_counter/)
-- [The multiprocessing library doesn&#39;t work in AWS Lambda functions. So I wrote one that does](https://www.reddit.com/r/Python/comments/rrr1id/the_multiprocessing_library_doesnt_work_in_aws/)
 <!-- BLOG-POST-LIST:END -->
