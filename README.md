@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pyaudio playback - callback returns short buffer and playback stops - normal behavior?](https://www.reddit.com/r/Python/comments/rs8eeq/pyaudio_playback_callback_returns_short_buffer/)
+- [Water Jugs problem](https://www.reddit.com/r/Python/comments/rs81ar/water_jugs_problem/)
+- [Web api benchmarking: Python &lpar;Falcon&rpar; vs Rust &lpar;Warp&rpar;](https://www.reddit.com/r/Python/comments/rs7ysy/web_api_benchmarking_python_falcon_vs_rust_warp/)
+- [I made Python web app without using any web frameworks](https://www.reddit.com/r/Python/comments/rs7vah/i_made_python_web_app_without_using_any_web/)
 - [PID Simulator](https://www.reddit.com/r/Python/comments/rs6llm/pid_simulator/)
-- [Full-length tutorial on adding automated CI &lpar;continuous integration&rpar; to your Python projects with GitHub Actions](https://www.reddit.com/r/Python/comments/rs3u2f/fulllength_tutorial_on_adding_automated_ci/)
-- [Learn how to wish Merry Christmas using Python Turtle Program](https://www.reddit.com/r/Python/comments/rs38wi/learn_how_to_wish_merry_christmas_using_python/)
-- [A strongly typed dialect of Python is coming. I would like to humbly suggest a name for it.](https://www.reddit.com/r/Python/comments/rs2utp/a_strongly_typed_dialect_of_python_is_coming_i/)
-- [Release announcement: `e2j2`v0.7.1](https://www.reddit.com/r/Python/comments/rs0ff3/release_announcement_e2j2v071/)
 <!-- BLOG-POST-LIST:END -->
