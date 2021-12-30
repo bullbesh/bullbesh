@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/rrmsnd/thursday_daily_thread_python_careers_courses_and/)
+- [The Oracle, an open-source Python library to predict the stock market with AI 🤖](https://www.reddit.com/r/Python/comments/rrmdyp/the_oracle_an_opensource_python_library_to/)
+- [Python Type Hints - How to Handle Optional Imports - Adam Johnson](https://www.reddit.com/r/Python/comments/rrlz4o/python_type_hints_how_to_handle_optional_imports/)
 - [Python projects medium-advanced](https://www.reddit.com/r/Python/comments/rrl3r5/python_projects_mediumadvanced/)
 - [My website that allows you to convert an audio/video file to another format. Flask backend.](https://www.reddit.com/r/Python/comments/rrl0mr/my_website_that_allows_you_to_convert_an/)
-- [Data Engineering in Python](https://www.reddit.com/r/Python/comments/rrjqt0/data_engineering_in_python/)
-- [Tutorial - Generative Art With Python](https://www.reddit.com/r/Python/comments/rrjoob/tutorial_generative_art_with_python/)
-- [Why is Python relatively slow even compared to some dynamic programming languages?](https://www.reddit.com/r/Python/comments/rrilbu/why_is_python_relatively_slow_even_compared_to/)
 <!-- BLOG-POST-LIST:END -->
