@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [This Vue.js course has over 35K students and is currently 88% OFF, get it while you can. It is quite clean and straightforward](https://www.reddit.com/r/Python/comments/rrpv1n/this_vuejs_course_has_over_35k_students_and_is/)
+- [Learn Python](https://www.reddit.com/r/Python/comments/rrpno0/learn_python/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/rrmsnd/thursday_daily_thread_python_careers_courses_and/)
 - [The Oracle, an open-source Python library to predict the stock market with AI 🤖](https://www.reddit.com/r/Python/comments/rrmdyp/the_oracle_an_opensource_python_library_to/)
 - [Python Type Hints - How to Handle Optional Imports - Adam Johnson](https://www.reddit.com/r/Python/comments/rrlz4o/python_type_hints_how_to_handle_optional_imports/)
-- [Python projects medium-advanced](https://www.reddit.com/r/Python/comments/rrl3r5/python_projects_mediumadvanced/)
-- [My website that allows you to convert an audio/video file to another format. Flask backend.](https://www.reddit.com/r/Python/comments/rrl0mr/my_website_that_allows_you_to_convert_an/)
 <!-- BLOG-POST-LIST:END -->
