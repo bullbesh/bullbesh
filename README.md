@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Full-length tutorial on adding automated CI &lpar;continuous integration&rpar; to your Python projects with GitHub Actions](https://www.reddit.com/r/Python/comments/rs3u2f/fulllength_tutorial_on_adding_automated_ci/)
+- [Learn how to wish Merry Christmas using Python Turtle Program](https://www.reddit.com/r/Python/comments/rs38wi/learn_how_to_wish_merry_christmas_using_python/)
+- [A strongly typed dialect of Python is coming. I would like to humbly suggest a name for it.](https://www.reddit.com/r/Python/comments/rs2utp/a_strongly_typed_dialect_of_python_is_coming_i/)
 - [Framework/Library/Template for Event-driven Microservices with RabbitMQ](https://www.reddit.com/r/Python/comments/rs0so0/frameworklibrarytemplate_for_eventdriven/)
 - [I have a MongoDB doubt, If anyone can help. I will really appriciate it.](https://www.reddit.com/r/Python/comments/rs0mw9/i_have_a_mongodb_doubt_if_anyone_can_help_i_will/)
-- [Release announcement: `e2j2`v0.7.1](https://www.reddit.com/r/Python/comments/rs0ff3/release_announcement_e2j2v071/)
-- [Need EASY TO FOLLOW DS &amp; Algorithms Book/Course. Thanks!](https://www.reddit.com/r/Python/comments/rrzt4u/need_easy_to_follow_ds_algorithms_bookcourse/)
-- [Solve x for Ax=b where A is non-square](https://www.reddit.com/r/Python/comments/rrzfzd/solve_x_for_axb_where_a_is_nonsquare/)
 <!-- BLOG-POST-LIST:END -->
