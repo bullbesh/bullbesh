@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting back on the Python train after I been away since version 2.7.7](https://www.reddit.com/r/Python/comments/rsce75/getting_back_on_the_python_train_after_i_been/)
 - [Selenium](https://www.reddit.com/r/Python/comments/rsb0e8/selenium/)
 - [Cat Data Pages - Flask project using TheCatAPI](https://www.reddit.com/r/Python/comments/rsarqd/cat_data_pages_flask_project_using_thecatapi/)
 - [Financial Stock Analysis using the Yahoo Finance Python library and Jupyter Notebook](https://www.reddit.com/r/Python/comments/rsaj9t/financial_stock_analysis_using_the_yahoo_finance/)
 - [Understand operator overloading in Python in just 9 minutes.](https://www.reddit.com/r/Python/comments/rsagwc/understand_operator_overloading_in_python_in_just/)
-- [Pyaudio playback - callback returns short buffer and playback stops - normal behavior?](https://www.reddit.com/r/Python/comments/rs8eeq/pyaudio_playback_callback_returns_short_buffer/)
 <!-- BLOG-POST-LIST:END -->
