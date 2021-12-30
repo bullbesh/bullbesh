@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do I add a searchbox inside the GUI of my python script?](https://www.reddit.com/r/Python/comments/rrxd5l/how_do_i_add_a_searchbox_inside_the_gui_of_my/)
 - [Media pipe finger counter](https://www.reddit.com/r/Python/comments/rrwbfq/media_pipe_finger_counter/)
-- [Why do we need to learn Python and where can we get the best Python Training in Chandigarh?](https://www.reddit.com/r/Python/comments/rrsuja/why_do_we_need_to_learn_python_and_where_can_we/)
 - [The multiprocessing library doesn&#39;t work in AWS Lambda functions. So I wrote one that does](https://www.reddit.com/r/Python/comments/rrr1id/the_multiprocessing_library_doesnt_work_in_aws/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/rrmsnd/thursday_daily_thread_python_careers_courses_and/)
 - [The Oracle, an open-source Python library to predict the stock market with AI 🤖](https://www.reddit.com/r/Python/comments/rrmdyp/the_oracle_an_opensource_python_library_to/)
