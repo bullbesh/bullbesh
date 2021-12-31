@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Developing a Python database ORM with a different philosophy than existing ORMs like SQLAlchemy](https://www.reddit.com/r/Python/comments/rt3apo/developing_a_python_database_orm_with_a_different/)
 - [A](https://www.reddit.com/r/Python/comments/rt20b8/a/)
 - [My latest Python project: a tool for visualising Python Abstract Syntax Trees](https://www.reddit.com/r/Python/comments/rt1xlj/my_latest_python_project_a_tool_for_visualising/)
 - [PyPrograming Starter](https://www.reddit.com/r/Python/comments/rt12u0/pyprograming_starter/)
 - [Visualization of optimizers on different mathematical functions](https://www.reddit.com/r/Python/comments/rt0z2j/visualization_of_optimizers_on_different/)
-- [Guido van Rossum - Python 4.0 will never arrive🤚😔: &quot;Thеrе will probably nеvеr bе a 4.0 and wе’ll continuе until 3.33, at lеast.&quot; - Sabrina Carpenter [Medium] Then, evidently, we will get a Python &#39;Pi&#39;](https://www.reddit.com/r/Python/comments/rt0p1i/guido_van_rossum_python_40_will_never_arrive/)
 <!-- BLOG-POST-LIST:END -->
