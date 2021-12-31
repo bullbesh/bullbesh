@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Edupyter, a new dev env for schools / universities on Windows &lpar;no admin rights needed&rpar; with Python + Juptyter + Thonny + Console](https://www.reddit.com/r/Python/comments/rsim66/edupyter_a_new_dev_env_for_schools_universities/)
+- [Feedback Request: Utilities for web scraping](https://www.reddit.com/r/Python/comments/rshn4p/feedback_request_utilities_for_web_scraping/)
 - [My 7 yr old little brother has Autism and has been very interested in Python lately, what resources can I give him so he can learn programming completely and properly?](https://www.reddit.com/r/Python/comments/rsgyki/my_7_yr_old_little_brother_has_autism_and_has/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/rsg38r/friday_daily_thread_free_chat_friday_daily_thread/)
 - [I built a where to live app using python and PostGIS](https://www.reddit.com/r/Python/comments/rscmfo/i_built_a_where_to_live_app_using_python_and/)
-- [GitHub - uktrade/stream-zip: Python function to construct a ZIP archive with on the fly - without having to store the entire ZIP in memory or disk](https://www.reddit.com/r/Python/comments/rscgp3/github_uktradestreamzip_python_function_to/)
-- [Getting back on the Python train after I been away since version 2.7.7](https://www.reddit.com/r/Python/comments/rsce75/getting_back_on_the_python_train_after_i_been/)
 <!-- BLOG-POST-LIST:END -->
