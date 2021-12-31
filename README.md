@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Compute the sum of multiples of 3 and 5 between 1 and 100](https://www.reddit.com/r/Python/comments/rsv4ro/compute_the_sum_of_multiples_of_3_and_5_between_1/)
 - [About 4 months ago, I showcased a LazyRemote here that allows you to access your PC media controls from a phone. Now, I present to you the next update, Lazy-Remote Mouse which mimics a trackpad and allows you to control your mouse pointer from your phone.](https://www.reddit.com/r/Python/comments/rsug06/about_4_months_ago_i_showcased_a_lazyremote_here/)
 - [Coding journey and project ideas for 2022](https://www.reddit.com/r/Python/comments/rsrgxl/coding_journey_and_project_ideas_for_2022/)
 - [Use Signals to Safely Stop processes](https://www.reddit.com/r/Python/comments/rsl1lc/use_signals_to_safely_stop_processes/)
 - [Edupyter, a new dev env for schools / universities on Windows &lpar;no admin rights needed&rpar; with Python + Juptyter + Thonny + Console](https://www.reddit.com/r/Python/comments/rsim66/edupyter_a_new_dev_env_for_schools_universities/)
-- [Feedback Request: Utilities for web scraping](https://www.reddit.com/r/Python/comments/rshn4p/feedback_request_utilities_for_web_scraping/)
 <!-- BLOG-POST-LIST:END -->
