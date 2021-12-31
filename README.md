@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding journey and project ideas for 2022](https://www.reddit.com/r/Python/comments/rsrgxl/coding_journey_and_project_ideas_for_2022/)
 - [Use Signals to Safely Stop processes](https://www.reddit.com/r/Python/comments/rsl1lc/use_signals_to_safely_stop_processes/)
 - [Edupyter, a new dev env for schools / universities on Windows &lpar;no admin rights needed&rpar; with Python + Juptyter + Thonny + Console](https://www.reddit.com/r/Python/comments/rsim66/edupyter_a_new_dev_env_for_schools_universities/)
 - [Feedback Request: Utilities for web scraping](https://www.reddit.com/r/Python/comments/rshn4p/feedback_request_utilities_for_web_scraping/)
 - [My 7 yr old little brother has Autism and has been very interested in Python lately, what resources can I give him so he can learn programming completely and properly?](https://www.reddit.com/r/Python/comments/rsgyki/my_7_yr_old_little_brother_has_autism_and_has/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/rsg38r/friday_daily_thread_free_chat_friday_daily_thread/)
 <!-- BLOG-POST-LIST:END -->
