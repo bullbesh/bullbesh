@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Happy new year everyone!](https://www.reddit.com/r/Python/comments/rt9n3s/happy_new_year_everyone/)
 - [Building a clock from Quart, socket.io, and React inside a Docker container](https://www.reddit.com/r/Python/comments/rt7q3x/building_a_clock_from_quart_socketio_and_react/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/rt6orx/saturday_daily_thread_resource_request_and/)
-- [A good place to start!](https://www.reddit.com/r/Python/comments/rt49ez/a_good_place_to_start/)
 - [Developing a Python database ORM with a different philosophy than existing ORMs like SQLAlchemy](https://www.reddit.com/r/Python/comments/rt3apo/developing_a_python_database_orm_with_a_different/)
 - [My latest Python project: a tool for visualising Python Abstract Syntax Trees](https://www.reddit.com/r/Python/comments/rt1xlj/my_latest_python_project_a_tool_for_visualising/)
 <!-- BLOG-POST-LIST:END -->
