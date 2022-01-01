@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [One of my favorite videos on concurrency in Python &lpar;using Trio&rpar;](https://www.reddit.com/r/Python/comments/rtu1s1/one_of_my_favorite_videos_on_concurrency_in/)
+- [Space Science with Python - Part 20: Tisserand&#39;s Parameter Space](https://www.reddit.com/r/Python/comments/rttq9n/space_science_with_python_part_20_tisserands/)
+- [GitHub - Goldziher/starlite: Light, Flexible and Extensible ASGI API framework](https://www.reddit.com/r/Python/comments/rtt4cc/github_goldziherstarlite_light_flexible_and/)
+- [Targe - Authorisation library for python](https://www.reddit.com/r/Python/comments/rtssjw/targe_authorisation_library_for_python/)
 - [Finally a proper email sender](https://www.reddit.com/r/Python/comments/rtrduz/finally_a_proper_email_sender/)
-- [Playing and controlling Atari 2600 Missile command using your hands as motion controls [Project]](https://www.reddit.com/r/Python/comments/rtmbj8/playing_and_controlling_atari_2600_missile/)
-- [Web scraping and bypassing &quot;Activate and hold the button to confirm&quot;](https://www.reddit.com/r/Python/comments/rtk8gx/web_scraping_and_bypassing_activate_and_hold_the/)
-- [Master Dataclasses in Python Part 3 - Ordering of Dataclasses](https://www.reddit.com/r/Python/comments/rtjh63/master_dataclasses_in_python_part_3_ordering_of/)
-- [Storing Selenium Scraper Progress](https://www.reddit.com/r/Python/comments/rti8of/storing_selenium_scraper_progress/)
 <!-- BLOG-POST-LIST:END -->
