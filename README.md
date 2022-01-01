@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use my speaker as input and my mic as output?](https://www.reddit.com/r/Python/comments/rtv6y8/how_to_use_my_speaker_as_input_and_my_mic_as/)
+- [SQLAlchemy Core: Where Clause w/Multiple Conjuctions](https://www.reddit.com/r/Python/comments/rtuqh3/sqlalchemy_core_where_clause_wmultiple_conjuctions/)
 - [One of my favorite videos on concurrency in Python &lpar;using Trio&rpar;](https://www.reddit.com/r/Python/comments/rtu1s1/one_of_my_favorite_videos_on_concurrency_in/)
 - [Space Science with Python - Part 20: Tisserand&#39;s Parameter Space](https://www.reddit.com/r/Python/comments/rttq9n/space_science_with_python_part_20_tisserands/)
 - [GitHub - Goldziher/starlite: Light, Flexible and Extensible ASGI API framework](https://www.reddit.com/r/Python/comments/rtt4cc/github_goldziherstarlite_light_flexible_and/)
-- [Targe - Authorisation library for python](https://www.reddit.com/r/Python/comments/rtssjw/targe_authorisation_library_for_python/)
-- [Finally a proper email sender](https://www.reddit.com/r/Python/comments/rtrduz/finally_a_proper_email_sender/)
 <!-- BLOG-POST-LIST:END -->
