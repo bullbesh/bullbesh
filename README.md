@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web scraping and bypassing &quot;Activate and hold the button to confirm&quot;](https://www.reddit.com/r/Python/comments/rtk8gx/web_scraping_and_bypassing_activate_and_hold_the/)
+- [Master Dataclasses in Python Part 3 - Ordering of Dataclasses](https://www.reddit.com/r/Python/comments/rtjh63/master_dataclasses_in_python_part_3_ordering_of/)
 - [Storing Selenium Scraper Progress](https://www.reddit.com/r/Python/comments/rti8of/storing_selenium_scraper_progress/)
 - [Creating virtual environments in Python](https://www.reddit.com/r/Python/comments/rtgo3t/creating_virtual_environments_in_python/)
 - [Building a clock from Quart, socket.io, and React inside a Docker container](https://www.reddit.com/r/Python/comments/rt7q3x/building_a_clock_from_quart_socketio_and_react/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/rt6orx/saturday_daily_thread_resource_request_and/)
-- [Developing a Python database ORM with a different philosophy than existing ORMs like SQLAlchemy](https://www.reddit.com/r/Python/comments/rt3apo/developing_a_python_database_orm_with_a_different/)
 <!-- BLOG-POST-LIST:END -->
