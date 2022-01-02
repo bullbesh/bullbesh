@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to setup VSCode for Python](https://www.reddit.com/r/Python/comments/ru258w/how_to_setup_vscode_for_python/)
 - [Python extensions in Rust -- Lessons learned from upgrading a bioinformatics package](https://www.reddit.com/r/Python/comments/ru0v3j/python_extensions_in_rust_lessons_learned_from/)
 - [What are the best open source projects where you can intelligently insert objects into pictures?](https://www.reddit.com/r/Python/comments/rtzc3y/what_are_the_best_open_source_projects_where_you/)
-- [Learn Coding in 6 Minutes &lpar;basic concepts&rpar; &lpar;for absolute beginners&rpar;](https://www.reddit.com/r/Python/comments/rty9mb/learn_coding_in_6_minutes_basic_concepts_for/)
-- [Tips on Reading Python Documentation](https://www.reddit.com/r/Python/comments/rtxn0g/tips_on_reading_python_documentation/)
 - [My first usefull code - simple automatique watering system &lpar;C&amp;C and improvement welcome&rpar;](https://www.reddit.com/r/Python/comments/rtx3rr/my_first_usefull_code_simple_automatique_watering/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rtw91q/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
