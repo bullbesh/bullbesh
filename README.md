@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Task management tool written in Python that does more than taskwarrior](https://www.reddit.com/r/Python/comments/ru8rfe/task_management_tool_written_in_python_that_does/)
 - [The Ultimate Guide to Comments and Docstrings in Python | Everything you need to know](https://www.reddit.com/r/Python/comments/ru8ez1/the_ultimate_guide_to_comments_and_docstrings_in/)
 - [Simple Random Password Generator](https://www.reddit.com/r/Python/comments/ru7a1d/simple_random_password_generator/)
 - [How to setup VSCode for Python](https://www.reddit.com/r/Python/comments/ru258w/how_to_setup_vscode_for_python/)
 - [Python extensions in Rust -- Lessons learned from upgrading a bioinformatics package](https://www.reddit.com/r/Python/comments/ru0v3j/python_extensions_in_rust_lessons_learned_from/)
-- [What are the best open source projects where you can intelligently insert objects into pictures?](https://www.reddit.com/r/Python/comments/rtzc3y/what_are_the_best_open_source_projects_where_you/)
 <!-- BLOG-POST-LIST:END -->
