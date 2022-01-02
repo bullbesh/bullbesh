@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Chatbot projects](https://www.reddit.com/r/Python/comments/rugte6/chatbot_projects/)
+- [If you would implement the Singleton pattern, which approach would you use? Metaclass, Decorator, Classic Approach?](https://www.reddit.com/r/Python/comments/rugct0/if_you_would_implement_the_singleton_pattern/)
+- [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.reddit.com/r/Python/comments/rug6u8/2022_complete_python_bootcamp_from_zero_to_hero/)
+- [Facial recognition](https://www.reddit.com/r/Python/comments/rug6dh/facial_recognition/)
 - [import attrs](https://www.reddit.com/r/Python/comments/rufqg1/import_attrs/)
-- [I NEED HELP NOWW](https://www.reddit.com/r/Python/comments/rufddu/i_need_help_noww/)
-- [A humble VsCode Python Snippets 2.0](https://www.reddit.com/r/Python/comments/ruf2mb/a_humble_vscode_python_snippets_20/)
-- [Naruto Best Quotes Using Python](https://www.reddit.com/r/Python/comments/rucwjm/naruto_best_quotes_using_python/)
-- [Best learning Python courses](https://www.reddit.com/r/Python/comments/ru9s5g/best_learning_python_courses/)
 <!-- BLOG-POST-LIST:END -->
