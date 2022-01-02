@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built an AI Discord Bot that bans NFT Bros](https://www.reddit.com/r/Python/comments/rumexi/i_built_an_ai_discord_bot_that_bans_nft_bros/)
+- [Sending my university schedule to Google Calendar](https://www.reddit.com/r/Python/comments/rulsee/sending_my_university_schedule_to_google_calendar/)
+- [Best way to validate active subscription to software?](https://www.reddit.com/r/Python/comments/rulp1f/best_way_to_validate_active_subscription_to/)
+- [My TUI library pytermgui just hit its first stable release!](https://www.reddit.com/r/Python/comments/ruligu/my_tui_library_pytermgui_just_hit_its_first/)
 - [Handy Python Functions](https://www.reddit.com/r/Python/comments/ruk2j4/handy_python_functions/)
-- [Pyspark now provides a native Pandas API](https://www.reddit.com/r/Python/comments/ruhi7p/pyspark_now_provides_a_native_pandas_api/)
-- [If you would implement the Singleton pattern, which approach would you use? Metaclass, Decorator, Classic Approach?](https://www.reddit.com/r/Python/comments/rugct0/if_you_would_implement_the_singleton_pattern/)
-- [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.reddit.com/r/Python/comments/rug6u8/2022_complete_python_bootcamp_from_zero_to_hero/)
-- [import attrs](https://www.reddit.com/r/Python/comments/rufqg1/import_attrs/)
 <!-- BLOG-POST-LIST:END -->
