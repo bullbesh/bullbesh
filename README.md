@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [import attrs](https://www.reddit.com/r/Python/comments/rufqg1/import_attrs/)
+- [I NEED HELP NOWW](https://www.reddit.com/r/Python/comments/rufddu/i_need_help_noww/)
+- [A humble VsCode Python Snippets 2.0](https://www.reddit.com/r/Python/comments/ruf2mb/a_humble_vscode_python_snippets_20/)
 - [Naruto Best Quotes Using Python](https://www.reddit.com/r/Python/comments/rucwjm/naruto_best_quotes_using_python/)
 - [Best learning Python courses](https://www.reddit.com/r/Python/comments/ru9s5g/best_learning_python_courses/)
-- [Task management tool written in Python that does more than taskwarrior](https://www.reddit.com/r/Python/comments/ru8rfe/task_management_tool_written_in_python_that_does/)
-- [The Ultimate Guide to Comments and Docstrings in Python | Everything you need to know](https://www.reddit.com/r/Python/comments/ru8ez1/the_ultimate_guide_to_comments_and_docstrings_in/)
-- [Simple Random Password Generator](https://www.reddit.com/r/Python/comments/ru7a1d/simple_random_password_generator/)
 <!-- BLOG-POST-LIST:END -->
