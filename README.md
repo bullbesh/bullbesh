@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to Comments and Docstrings in Python | Everything you need to know](https://www.reddit.com/r/Python/comments/ru8ez1/the_ultimate_guide_to_comments_and_docstrings_in/)
 - [Simple Random Password Generator](https://www.reddit.com/r/Python/comments/ru7a1d/simple_random_password_generator/)
 - [How to setup VSCode for Python](https://www.reddit.com/r/Python/comments/ru258w/how_to_setup_vscode_for_python/)
 - [Python extensions in Rust -- Lessons learned from upgrading a bioinformatics package](https://www.reddit.com/r/Python/comments/ru0v3j/python_extensions_in_rust_lessons_learned_from/)
 - [What are the best open source projects where you can intelligently insert objects into pictures?](https://www.reddit.com/r/Python/comments/rtzc3y/what_are_the_best_open_source_projects_where_you/)
-- [My first usefull code - simple automatique watering system &lpar;C&amp;C and improvement welcome&rpar;](https://www.reddit.com/r/Python/comments/rtx3rr/my_first_usefull_code_simple_automatique_watering/)
 <!-- BLOG-POST-LIST:END -->
