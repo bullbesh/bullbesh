@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Naruto Best Quotes Using Python](https://www.reddit.com/r/Python/comments/rucwjm/naruto_best_quotes_using_python/)
 - [Best learning Python courses](https://www.reddit.com/r/Python/comments/ru9s5g/best_learning_python_courses/)
 - [Task management tool written in Python that does more than taskwarrior](https://www.reddit.com/r/Python/comments/ru8rfe/task_management_tool_written_in_python_that_does/)
 - [The Ultimate Guide to Comments and Docstrings in Python | Everything you need to know](https://www.reddit.com/r/Python/comments/ru8ez1/the_ultimate_guide_to_comments_and_docstrings_in/)
 - [Simple Random Password Generator](https://www.reddit.com/r/Python/comments/ru7a1d/simple_random_password_generator/)
-- [How to setup VSCode for Python](https://www.reddit.com/r/Python/comments/ru258w/how_to_setup_vscode_for_python/)
 <!-- BLOG-POST-LIST:END -->
