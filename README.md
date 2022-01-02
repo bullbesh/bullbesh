@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to use my speaker as input and my mic as output?](https://www.reddit.com/r/Python/comments/rtv6y8/how_to_use_my_speaker_as_input_and_my_mic_as/)
+- [Tips on Reading Python Documentation](https://www.reddit.com/r/Python/comments/rtxn0g/tips_on_reading_python_documentation/)
+- [My first usefull code - simple automatique watering system &lpar;C&amp;C and improvement welcome&rpar;](https://www.reddit.com/r/Python/comments/rtx3rr/my_first_usefull_code_simple_automatique_watering/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rtw91q/sunday_daily_thread_whats_everyone_working_on/)
+- [Tool to extract data from Docx files](https://www.reddit.com/r/Python/comments/rtw3k1/tool_to_extract_data_from_docx_files/)
 - [SQLAlchemy Core: Where Clause w/Multiple Conjuctions](https://www.reddit.com/r/Python/comments/rtuqh3/sqlalchemy_core_where_clause_wmultiple_conjuctions/)
-- [One of my favorite videos on concurrency in Python &lpar;using Trio&rpar;](https://www.reddit.com/r/Python/comments/rtu1s1/one_of_my_favorite_videos_on_concurrency_in/)
-- [Space Science with Python - Part 20: Tisserand&#39;s Parameter Space](https://www.reddit.com/r/Python/comments/rttq9n/space_science_with_python_part_20_tisserands/)
-- [GitHub - Goldziher/starlite: Light, Flexible and Extensible ASGI API framework](https://www.reddit.com/r/Python/comments/rtt4cc/github_goldziherstarlite_light_flexible_and/)
 <!-- BLOG-POST-LIST:END -->
