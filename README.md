@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are the best open source projects where you can intelligently insert objects into pictures?](https://www.reddit.com/r/Python/comments/rtzc3y/what_are_the_best_open_source_projects_where_you/)
+- [Learn Coding in 6 Minutes &lpar;basic concepts&rpar; &lpar;for absolute beginners&rpar;](https://www.reddit.com/r/Python/comments/rty9mb/learn_coding_in_6_minutes_basic_concepts_for/)
+- [SHIFTING CAREER - What credentials you need?](https://www.reddit.com/r/Python/comments/rtxvoh/shifting_career_what_credentials_you_need/)
 - [Tips on Reading Python Documentation](https://www.reddit.com/r/Python/comments/rtxn0g/tips_on_reading_python_documentation/)
 - [My first usefull code - simple automatique watering system &lpar;C&amp;C and improvement welcome&rpar;](https://www.reddit.com/r/Python/comments/rtx3rr/my_first_usefull_code_simple_automatique_watering/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rtw91q/sunday_daily_thread_whats_everyone_working_on/)
-- [Tool to extract data from Docx files](https://www.reddit.com/r/Python/comments/rtw3k1/tool_to_extract_data_from_docx_files/)
-- [SQLAlchemy Core: Where Clause w/Multiple Conjuctions](https://www.reddit.com/r/Python/comments/rtuqh3/sqlalchemy_core_where_clause_wmultiple_conjuctions/)
 <!-- BLOG-POST-LIST:END -->
