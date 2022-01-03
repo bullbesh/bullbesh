@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Run Python files with an application](https://www.reddit.com/r/Python/comments/ruwgsz/run_python_files_with_an_application/)
+- [Starlite: An Opinionated ASGI Framework](https://www.reddit.com/r/Python/comments/ruwbyl/starlite_an_opinionated_asgi_framework/)
+- [One-Stop Platform For AI, ML &amp; Data Upskilling - InsideAIML](https://www.reddit.com/r/Python/comments/ruwb3o/onestop_platform_for_ai_ml_data_upskilling/)
+- [I made a temperature conversion tool with a fail-safe. Here&#39;s the code:](https://www.reddit.com/r/Python/comments/ruw2w9/i_made_a_temperature_conversion_tool_with_a/)
 - [Javascript Vs Python For Web Development](https://www.reddit.com/r/Python/comments/ruvaih/javascript_vs_python_for_web_development/)
-- [I made a tutorial for deployment with Python and Heroku.](https://www.reddit.com/r/Python/comments/rutic6/i_made_a_tutorial_for_deployment_with_python_and/)
-- [Price Tracker](https://www.reddit.com/r/Python/comments/ruovw2/price_tracker/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/runc8j/monday_daily_thread_project_ideas/)
-- [Simple HealthChecks.io wrapper](https://www.reddit.com/r/Python/comments/rumyar/simple_healthchecksio_wrapper/)
 <!-- BLOG-POST-LIST:END -->
