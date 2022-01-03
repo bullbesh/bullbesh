@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up Alembic with SQLAlchemy](https://www.reddit.com/r/Python/comments/rvdgv1/setting_up_alembic_with_sqlalchemy/)
+- [Make Tic Tac Toe in PYTHON and PYGAME! &lpar;14 MINS&rpar;](https://www.reddit.com/r/Python/comments/rvcb8v/make_tic_tac_toe_in_python_and_pygame_14_mins/)
 - [Project Althaia - looking for performance/accuracy feedback on my shallow fork of marshmallow](https://www.reddit.com/r/Python/comments/rvbcyz/project_althaia_looking_for_performanceaccuracy/)
 - [Build your own Low-Code Business Applications with SpiffWorkflow](https://www.reddit.com/r/Python/comments/rvb1bh/build_your_own_lowcode_business_applications_with/)
 - [How did you learn python?](https://www.reddit.com/r/Python/comments/rvahuo/how_did_you_learn_python/)
-- [I compared RNNs, LSTMs, and GRUs performance on the MNIST Digits Dataset](https://www.reddit.com/r/Python/comments/rv9k9p/i_compared_rnns_lstms_and_grus_performance_on_the/)
-- [A history of the attrs library](https://www.reddit.com/r/Python/comments/rv8wuf/a_history_of_the_attrs_library/)
 <!-- BLOG-POST-LIST:END -->
