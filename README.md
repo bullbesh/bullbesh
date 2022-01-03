@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Vs Python For Web Development](https://www.reddit.com/r/Python/comments/ruvaih/javascript_vs_python_for_web_development/)
 - [I made a tutorial for deployment with Python and Heroku.](https://www.reddit.com/r/Python/comments/rutic6/i_made_a_tutorial_for_deployment_with_python_and/)
-- [Mac os file opening!](https://www.reddit.com/r/Python/comments/rus367/mac_os_file_opening/)
-- [Do you guys have a take on Deta, FastAPI, Typer?](https://www.reddit.com/r/Python/comments/ruqx1i/do_you_guys_have_a_take_on_deta_fastapi_typer/)
 - [Price Tracker](https://www.reddit.com/r/Python/comments/ruovw2/price_tracker/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/runc8j/monday_daily_thread_project_ideas/)
+- [Simple HealthChecks.io wrapper](https://www.reddit.com/r/Python/comments/rumyar/simple_healthchecksio_wrapper/)
 <!-- BLOG-POST-LIST:END -->
