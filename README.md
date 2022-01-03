@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How did you learn python?](https://www.reddit.com/r/Python/comments/rvahuo/how_did_you_learn_python/)
+- [I compared RNNs, LSTMs, and GRUs performance on the MNIST Digits Dataset](https://www.reddit.com/r/Python/comments/rv9k9p/i_compared_rnns_lstms_and_grus_performance_on_the/)
 - [A history of the attrs library](https://www.reddit.com/r/Python/comments/rv8wuf/a_history_of_the_attrs_library/)
 - [Calculator by words](https://www.reddit.com/r/Python/comments/rv8ril/calculator_by_words/)
 - [Create Your First Reddit Bot with Python and Heroku](https://www.reddit.com/r/Python/comments/rv8p8m/create_your_first_reddit_bot_with_python_and/)
-- [I created a tool to detect broken __slots__ in Python libraries](https://www.reddit.com/r/Python/comments/rv8i2y/i_created_a_tool_to_detect_broken_slots_in_python/)
-- [Record Chess Moves with Python and Webcam](https://www.reddit.com/r/Python/comments/rv7y8t/record_chess_moves_with_python_and_webcam/)
 <!-- BLOG-POST-LIST:END -->
