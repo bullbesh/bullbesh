@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you guys have a take on Deta, FastAPI, Typer?](https://www.reddit.com/r/Python/comments/ruqx1i/do_you_guys_have_a_take_on_deta_fastapi_typer/)
 - [Price Tracker](https://www.reddit.com/r/Python/comments/ruovw2/price_tracker/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/runc8j/monday_daily_thread_project_ideas/)
 - [Simple HealthChecks.io wrapper](https://www.reddit.com/r/Python/comments/rumyar/simple_healthchecksio_wrapper/)
 - [Sending my university schedule to Google Calendar](https://www.reddit.com/r/Python/comments/rulsee/sending_my_university_schedule_to_google_calendar/)
-- [Best way to validate active subscription to software?](https://www.reddit.com/r/Python/comments/rulp1f/best_way_to_validate_active_subscription_to/)
 <!-- BLOG-POST-LIST:END -->
