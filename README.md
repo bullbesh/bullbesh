@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [✔ 2022 Python Programming &lpar;Beginner To Advanced&rpar;](https://www.reddit.com/r/Python/comments/rv0j3f/2022_python_programming_beginner_to_advanced/)
+- [Full-length tutorial on deploying Flask app on AWS with Docker + RDS + Secrets Manager](https://www.reddit.com/r/Python/comments/rv069b/fulllength_tutorial_on_deploying_flask_app_on_aws/)
 - [HPC Rocket - A tool to run Slurm jobs from CI pipelines](https://www.reddit.com/r/Python/comments/ruz4q1/hpc_rocket_a_tool_to_run_slurm_jobs_from_ci/)
 - [The HEX Function is a bit mean...](https://www.reddit.com/r/Python/comments/ruz4nq/the_hex_function_is_a_bit_mean/)
 - [EMOJILANG: A programming language where you can code using emojis🗿](https://www.reddit.com/r/Python/comments/ruytfm/emojilang_a_programming_language_where_you_can/)
-- [Run Python files with an application](https://www.reddit.com/r/Python/comments/ruwgsz/run_python_files_with_an_application/)
-- [Starlite: An Opinionated ASGI Framework](https://www.reddit.com/r/Python/comments/ruwbyl/starlite_an_opinionated_asgi_framework/)
 <!-- BLOG-POST-LIST:END -->
