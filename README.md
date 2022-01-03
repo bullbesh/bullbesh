@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Emojilang: A programming language where you can code using emojis🗿](https://www.reddit.com/r/Python/comments/ruy712/emojilang_a_programming_language_where_you_can/)
+- [HPC Rocket - A tool to run Slurm jobs from CI pipelines](https://www.reddit.com/r/Python/comments/ruz4q1/hpc_rocket_a_tool_to_run_slurm_jobs_from_ci/)
+- [The HEX Function is a bit mean...](https://www.reddit.com/r/Python/comments/ruz4nq/the_hex_function_is_a_bit_mean/)
+- [EMOJILANG: A programming language where you can code using emojis🗿](https://www.reddit.com/r/Python/comments/ruytfm/emojilang_a_programming_language_where_you_can/)
 - [Run Python files with an application](https://www.reddit.com/r/Python/comments/ruwgsz/run_python_files_with_an_application/)
 - [Starlite: An Opinionated ASGI Framework](https://www.reddit.com/r/Python/comments/ruwbyl/starlite_an_opinionated_asgi_framework/)
-- [One-Stop Platform For AI, ML &amp; Data Upskilling - InsideAIML](https://www.reddit.com/r/Python/comments/ruwb3o/onestop_platform_for_ai_ml_data_upskilling/)
-- [I made a temperature conversion tool with a fail-safe. Here&#39;s the code:](https://www.reddit.com/r/Python/comments/ruw2w9/i_made_a_temperature_conversion_tool_with_a/)
 <!-- BLOG-POST-LIST:END -->
