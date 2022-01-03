@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python learning](https://www.reddit.com/r/Python/comments/rv5840/python_learning/)
-- [What is the best way to learn Python?](https://www.reddit.com/r/Python/comments/rv51pm/what_is_the_best_way_to_learn_python/)
+- [A new take on Python notebooks &lpar;cross platform, native desktop app&rpar;](https://www.reddit.com/r/Python/comments/rv6jt0/a_new_take_on_python_notebooks_cross_platform/)
+- [Secrets of MicroPython: How to read a knob](https://www.reddit.com/r/Python/comments/rv5ybi/secrets_of_micropython_how_to_read_a_knob/)
 - [Check out the Python on Microcontrollers newsletter, out every Tuesday](https://www.reddit.com/r/Python/comments/rv3gfm/check_out_the_python_on_microcontrollers/)
 - [Variables in Python - Lecture 2 | Python Course for Beginners](https://www.reddit.com/r/Python/comments/rv3a2r/variables_in_python_lecture_2_python_course_for/)
 - [Easily run code before and after a given method with supercharge](https://www.reddit.com/r/Python/comments/rv1wil/easily_run_code_before_and_after_a_given_method/)
