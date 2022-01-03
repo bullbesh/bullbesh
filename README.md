@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cannot create a .py file.](https://www.reddit.com/r/Python/comments/rv86l5/cannot_create_a_py_file/)
+- [A history of the attrs library](https://www.reddit.com/r/Python/comments/rv8wuf/a_history_of_the_attrs_library/)
+- [Calculator by words](https://www.reddit.com/r/Python/comments/rv8ril/calculator_by_words/)
+- [Create Your First Reddit Bot with Python and Heroku](https://www.reddit.com/r/Python/comments/rv8p8m/create_your_first_reddit_bot_with_python_and/)
+- [I created a tool to detect broken __slots__ in Python libraries](https://www.reddit.com/r/Python/comments/rv8i2y/i_created_a_tool_to_detect_broken_slots_in_python/)
 - [Record Chess Moves with Python and Webcam](https://www.reddit.com/r/Python/comments/rv7y8t/record_chess_moves_with_python_and_webcam/)
-- [A new take on Python notebooks &lpar;cross platform, native desktop app&rpar;](https://www.reddit.com/r/Python/comments/rv6jt0/a_new_take_on_python_notebooks_cross_platform/)
-- [Secrets of MicroPython: How to read a knob](https://www.reddit.com/r/Python/comments/rv5ybi/secrets_of_micropython_how_to_read_a_knob/)
-- [Check out the Python on Microcontrollers newsletter, out every Tuesday](https://www.reddit.com/r/Python/comments/rv3gfm/check_out_the_python_on_microcontrollers/)
 <!-- BLOG-POST-LIST:END -->
