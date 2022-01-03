@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mac os file opening!](https://www.reddit.com/r/Python/comments/rus367/mac_os_file_opening/)
 - [Do you guys have a take on Deta, FastAPI, Typer?](https://www.reddit.com/r/Python/comments/ruqx1i/do_you_guys_have_a_take_on_deta_fastapi_typer/)
 - [Price Tracker](https://www.reddit.com/r/Python/comments/ruovw2/price_tracker/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/runc8j/monday_daily_thread_project_ideas/)
 - [Simple HealthChecks.io wrapper](https://www.reddit.com/r/Python/comments/rumyar/simple_healthchecksio_wrapper/)
-- [Sending my university schedule to Google Calendar](https://www.reddit.com/r/Python/comments/rulsee/sending_my_university_schedule_to_google_calendar/)
 <!-- BLOG-POST-LIST:END -->
