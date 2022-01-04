@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How do i create a stock program in python](https://www.reddit.com/r/Python/comments/rvhdar/how_do_i_create_a_stock_program_in_python/)
+- [Python is &quot;Language of the Year for 2021&quot; according to TIOBE](https://www.reddit.com/r/Python/comments/rvj58k/python_is_language_of_the_year_for_2021_according/)
+- [Rings Of Fire GUI](https://www.reddit.com/r/Python/comments/rvhxxz/rings_of_fire_gui/)
+- [How do you deal with analysis paralysis in programming?](https://www.reddit.com/r/Python/comments/rvhx6a/how_do_you_deal_with_analysis_paralysis_in/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/rvfybl/tuesday_daily_thread_advanced_questions/)
 - [Setting up Alembic with SQLAlchemy](https://www.reddit.com/r/Python/comments/rvdgv1/setting_up_alembic_with_sqlalchemy/)
-- [Make Tic Tac Toe in PYTHON and PYGAME! &lpar;14 MINS&rpar;](https://www.reddit.com/r/Python/comments/rvcb8v/make_tic_tac_toe_in_python_and_pygame_14_mins/)
-- [Project Althaia - looking for performance/accuracy feedback on my shallow fork of marshmallow](https://www.reddit.com/r/Python/comments/rvbcyz/project_althaia_looking_for_performanceaccuracy/)
 <!-- BLOG-POST-LIST:END -->
