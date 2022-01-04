@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Social Network With Django – Part 1 – Real Python](https://www.reddit.com/r/Python/comments/rvu9ga/build_a_social_network_with_django_part_1_real/)
+- [Introduction to Fourier Optics in Python: Simulating the Single/Double Slit Experiment](https://www.reddit.com/r/Python/comments/rvtn5l/introduction_to_fourier_optics_in_python/)
 - [3 Things You Might Not Know About Numbers in Python](https://www.reddit.com/r/Python/comments/rvsfyd/3_things_you_might_not_know_about_numbers_in/)
 - [Multi threading in Python](https://www.reddit.com/r/Python/comments/rvsesq/multi_threading_in_python/)
 - [I started doing LibrePhotos Development Streams](https://www.reddit.com/r/Python/comments/rvq5jj/i_started_doing_librephotos_development_streams/)
-- [Random Number Generator](https://www.reddit.com/r/Python/comments/rvq3se/random_number_generator/)
-- [I made a chat application in python &lpar;not beginner friendly&rpar; because I&#39;m very bored, hope you enjoy](https://www.reddit.com/r/Python/comments/rvq07v/i_made_a_chat_application_in_python_not_beginner/)
 <!-- BLOG-POST-LIST:END -->
