@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [3 Things You Might Not Know About Numbers in Python](https://www.reddit.com/r/Python/comments/rvsfyd/3_things_you_might_not_know_about_numbers_in/)
+- [Multi threading in Python](https://www.reddit.com/r/Python/comments/rvsesq/multi_threading_in_python/)
 - [I started doing LibrePhotos Development Streams](https://www.reddit.com/r/Python/comments/rvq5jj/i_started_doing_librephotos_development_streams/)
 - [Random Number Generator](https://www.reddit.com/r/Python/comments/rvq3se/random_number_generator/)
 - [I made a chat application in python &lpar;not beginner friendly&rpar; because I&#39;m very bored, hope you enjoy](https://www.reddit.com/r/Python/comments/rvq07v/i_made_a_chat_application_in_python_not_beginner/)
-- [I created a package for simple Bayesian A/B testing](https://www.reddit.com/r/Python/comments/rvpzz8/i_created_a_package_for_simple_bayesian_ab_testing/)
-- [Tutorial: Imprecise Building Footprints Adjustment in Python](https://www.reddit.com/r/Python/comments/rvptfa/tutorial_imprecise_building_footprints_adjustment/)
 <!-- BLOG-POST-LIST:END -->
