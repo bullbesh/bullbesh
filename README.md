@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Github repos for algotrading using python](https://www.reddit.com/r/Python/comments/rw66xr/github_repos_for_algotrading_using_python/)
+- [Python packages](https://www.reddit.com/r/Python/comments/rw611c/python_packages/)
 - [Pandas for huge files vs SQLite ?](https://www.reddit.com/r/Python/comments/rw4f4f/pandas_for_huge_files_vs_sqlite/)
 - [My first project in Python](https://www.reddit.com/r/Python/comments/rw2q49/my_first_project_in_python/)
 - [Profiling and Analyzing Performance of Python Programs](https://www.reddit.com/r/Python/comments/rw2273/profiling_and_analyzing_performance_of_python/)
-- [Automate Chrome at work with Python intro 1](https://www.reddit.com/r/Python/comments/rw1w6p/automate_chrome_at_work_with_python_intro_1/)
-- [ElectriPy 0.0.4: visualize the electric field and electric forces of a charge distribution.](https://www.reddit.com/r/Python/comments/rvy9p3/electripy_004_visualize_the_electric_field_and/)
 <!-- BLOG-POST-LIST:END -->
