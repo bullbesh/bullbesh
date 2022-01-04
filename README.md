@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scraping the Amazon | Bilal K.](https://www.reddit.com/r/Python/comments/rvwhqv/scraping_the_amazon_bilal_k/)
+- [Record Chess Moves with Webcam for Online Play](https://www.reddit.com/r/Python/comments/rvvwqi/record_chess_moves_with_webcam_for_online_play/)
 - [This is the sixth birthday of the Python Arcade library!](https://www.reddit.com/r/Python/comments/rvuwbt/this_is_the_sixth_birthday_of_the_python_arcade/)
 - [Build a Social Network With Django – Part 1 – Real Python](https://www.reddit.com/r/Python/comments/rvu9ga/build_a_social_network_with_django_part_1_real/)
 - [Introduction to Fourier Optics in Python: Simulating the Single/Double Slit Experiment](https://www.reddit.com/r/Python/comments/rvtn5l/introduction_to_fourier_optics_in_python/)
-- [3 Things You Might Not Know About Numbers in Python](https://www.reddit.com/r/Python/comments/rvsfyd/3_things_you_might_not_know_about_numbers_in/)
-- [I started doing LibrePhotos Development Streams](https://www.reddit.com/r/Python/comments/rvq5jj/i_started_doing_librephotos_development_streams/)
 <!-- BLOG-POST-LIST:END -->
