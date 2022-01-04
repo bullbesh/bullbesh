@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Extract Images from PDF using Python](https://www.reddit.com/r/Python/comments/rvdvgp/extract_images_from_pdf_using_python/)
+- [How do i create a stock program in python](https://www.reddit.com/r/Python/comments/rvhdar/how_do_i_create_a_stock_program_in_python/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/rvfybl/tuesday_daily_thread_advanced_questions/)
 - [Setting up Alembic with SQLAlchemy](https://www.reddit.com/r/Python/comments/rvdgv1/setting_up_alembic_with_sqlalchemy/)
 - [Make Tic Tac Toe in PYTHON and PYGAME! &lpar;14 MINS&rpar;](https://www.reddit.com/r/Python/comments/rvcb8v/make_tic_tac_toe_in_python_and_pygame_14_mins/)
 - [Project Althaia - looking for performance/accuracy feedback on my shallow fork of marshmallow](https://www.reddit.com/r/Python/comments/rvbcyz/project_althaia_looking_for_performanceaccuracy/)
-- [Build your own Low-Code Business Applications with SpiffWorkflow](https://www.reddit.com/r/Python/comments/rvb1bh/build_your_own_lowcode_business_applications_with/)
 <!-- BLOG-POST-LIST:END -->
