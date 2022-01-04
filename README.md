@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ElectriPy 0.0.4: visualize the electric field and electric forces of a charge distribution.](https://www.reddit.com/r/Python/comments/rvy9p3/electripy_004_visualize_the_electric_field_and/)
+- [Sharing big NumPy arrays across python processes](https://www.reddit.com/r/Python/comments/rvwxuc/sharing_big_numpy_arrays_across_python_processes/)
 - [Scraping the Amazon | Bilal K.](https://www.reddit.com/r/Python/comments/rvwhqv/scraping_the_amazon_bilal_k/)
 - [Record Chess Moves with Webcam for Online Play](https://www.reddit.com/r/Python/comments/rvvwqi/record_chess_moves_with_webcam_for_online_play/)
 - [This is the sixth birthday of the Python Arcade library!](https://www.reddit.com/r/Python/comments/rvuwbt/this_is_the_sixth_birthday_of_the_python_arcade/)
-- [Build a Social Network With Django – Part 1 – Real Python](https://www.reddit.com/r/Python/comments/rvu9ga/build_a_social_network_with_django_part_1_real/)
-- [Introduction to Fourier Optics in Python: Simulating the Single/Double Slit Experiment](https://www.reddit.com/r/Python/comments/rvtn5l/introduction_to_fourier_optics_in_python/)
 <!-- BLOG-POST-LIST:END -->
