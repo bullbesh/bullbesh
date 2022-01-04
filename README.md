@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup a Age Detector with Opencv in 5 min!](https://www.reddit.com/r/Python/comments/rvmeo5/how_to_setup_a_age_detector_with_opencv_in_5_min/)
 - [around a week ago, i created a text adventure engine, alot of updates since that post were missed here is the updated version](https://www.reddit.com/r/Python/comments/rvk0rf/around_a_week_ago_i_created_a_text_adventure/)
 - [Python is &quot;Language of the Year for 2021&quot; according to TIOBE](https://www.reddit.com/r/Python/comments/rvj58k/python_is_language_of_the_year_for_2021_according/)
 - [Rings Of Fire GUI](https://www.reddit.com/r/Python/comments/rvhxxz/rings_of_fire_gui/)
 - [How do you deal with analysis paralysis in programming?](https://www.reddit.com/r/Python/comments/rvhx6a/how_do_you_deal_with_analysis_paralysis_in/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/rvfybl/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
