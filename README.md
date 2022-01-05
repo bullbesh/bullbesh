@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Free Udemy Course - Python Demonstrations For Practice Course](https://www.reddit.com/r/Python/comments/rwmmcc/free_udemy_course_python_demonstrations_for/)
 - [nurses_2: Widget and async-centric terminal graphics library.](https://www.reddit.com/r/Python/comments/rwm7wp/nurses_2_widget_and_asynccentric_terminal/)
 - [A short demo of abstract base classes and typing protocols](https://www.reddit.com/r/Python/comments/rwm4zz/a_short_demo_of_abstract_base_classes_and_typing/)
 - [Cool Open Source Project on Flight Planning for Atmospheric Research!](https://www.reddit.com/r/Python/comments/rwllxu/cool_open_source_project_on_flight_planning_for/)
 - [Python C Extensions &lpar;Video&rpar;](https://www.reddit.com/r/Python/comments/rwkkfp/python_c_extensions_video/)
+- [I published all my project](https://www.reddit.com/r/Python/comments/rwkk12/i_published_all_my_project/)
 <!-- BLOG-POST-LIST:END -->
