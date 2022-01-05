@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve created a subreddit for my Python-based TUI library!](https://www.reddit.com/r/Python/comments/rwz4eo/ive_created_a_subreddit_for_my_pythonbased_tui/)
 - [Rate my python calculator!! &lpar;new to python&rpar;](https://www.reddit.com/r/Python/comments/rwx1zh/rate_my_python_calculator_new_to_python/)
 - [Turn any Python file into CLI in record time with Python Fire](https://www.reddit.com/r/Python/comments/rwuk3g/turn_any_python_file_into_cli_in_record_time_with/)
 - [Writing CUDA kernels in Python with Numba | Meetup](https://www.reddit.com/r/Python/comments/rwsp84/writing_cuda_kernels_in_python_with_numba_meetup/)
 - [Wanting to learn Python on my iPad](https://www.reddit.com/r/Python/comments/rwsmfp/wanting_to_learn_python_on_my_ipad/)
-- [Automating Excel with Python and OpenPyXL](https://www.reddit.com/r/Python/comments/rwsij7/automating_excel_with_python_and_openpyxl/)
 <!-- BLOG-POST-LIST:END -->
