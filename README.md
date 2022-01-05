@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CodExt - Package and CLI tools for encoding/decoding/guessing almost anything](https://www.reddit.com/r/Python/comments/rwp96d/codext_package_and_cli_tools_for/)
+- [Is it possible to share a ready-to-go dash app?](https://www.reddit.com/r/Python/comments/rworf5/is_it_possible_to_share_a_readytogo_dash_app/)
+- [Game Boy Emulator: Designing the CPU](https://www.reddit.com/r/Python/comments/rwo15o/game_boy_emulator_designing_the_cpu/)
 - [nurses_2: Widget and async-centric terminal graphics library.](https://www.reddit.com/r/Python/comments/rwm7wp/nurses_2_widget_and_asynccentric_terminal/)
 - [A short demo of abstract base classes and typing protocols](https://www.reddit.com/r/Python/comments/rwm4zz/a_short_demo_of_abstract_base_classes_and_typing/)
-- [Cool Open Source Project on Flight Planning for Atmospheric Research!](https://www.reddit.com/r/Python/comments/rwllxu/cool_open_source_project_on_flight_planning_for/)
-- [Python C Extensions &lpar;Video&rpar;](https://www.reddit.com/r/Python/comments/rwkkfp/python_c_extensions_video/)
-- [I published all my project](https://www.reddit.com/r/Python/comments/rwkk12/i_published_all_my_project/)
 <!-- BLOG-POST-LIST:END -->
