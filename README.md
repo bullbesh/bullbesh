@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made this gesture control snake game as my first project](https://www.reddit.com/r/Python/comments/rwj7ra/made_this_gesture_control_snake_game_as_my_first/)
+- [Python 2.7 running much faster on 3.10](https://www.reddit.com/r/Python/comments/rwiuip/python_27_running_much_faster_on_310/)
 - [Try drawing with python](https://www.reddit.com/r/Python/comments/rwia4a/try_drawing_with_python/)
 - [Running your scheduled Python tasks on Heroku? You can now easily monitor their execution times!](https://www.reddit.com/r/Python/comments/rwi7tj/running_your_scheduled_python_tasks_on_heroku_you/)
 - [Made a Python to-do application](https://www.reddit.com/r/Python/comments/rwhgx4/made_a_python_todo_application/)
-- [How to Perform Python Remote Debugging](https://www.reddit.com/r/Python/comments/rwhdul/how_to_perform_python_remote_debugging/)
-- [Digi-diplo: Diplomacy Game Manager in Python and Discord](https://www.reddit.com/r/Python/comments/rwgyir/digidiplo_diplomacy_game_manager_in_python_and/)
 <!-- BLOG-POST-LIST:END -->
