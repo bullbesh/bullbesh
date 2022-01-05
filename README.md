@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Make a Menu in PyGame and Python in 5 min | Using Multiple Screens in Py...](https://www.reddit.com/r/Python/comments/rwbevd/make_a_menu_in_pygame_and_python_in_5_min_using/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/rw8knv/wednesday_daily_thread_beginner_questions/)
 - [I made a Fasting Calculator with python!](https://www.reddit.com/r/Python/comments/rw7piz/i_made_a_fasting_calculator_with_python/)
 - [Github repos for algotrading using python](https://www.reddit.com/r/Python/comments/rw66xr/github_repos_for_algotrading_using_python/)
-- [Python packages](https://www.reddit.com/r/Python/comments/rw611c/python_packages/)
 - [Pandas for huge files vs SQLite ?](https://www.reddit.com/r/Python/comments/rw4f4f/pandas_for_huge_files_vs_sqlite/)
 <!-- BLOG-POST-LIST:END -->
