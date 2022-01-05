@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cool Open Source Project on Flight Planning for Atmospheric Research!](https://www.reddit.com/r/Python/comments/rwllxu/cool_open_source_project_on_flight_planning_for/)
 - [Python C Extensions &lpar;Video&rpar;](https://www.reddit.com/r/Python/comments/rwkkfp/python_c_extensions_video/)
 - [I published all my project](https://www.reddit.com/r/Python/comments/rwkk12/i_published_all_my_project/)
 - [Measuring energy consumption of a script or a cli command](https://www.reddit.com/r/Python/comments/rwk42i/measuring_energy_consumption_of_a_script_or_a_cli/)
 - [Are there studies on how open source the programming languages are?](https://www.reddit.com/r/Python/comments/rwjzir/are_there_studies_on_how_open_source_the/)
-- [My first python project](https://www.reddit.com/r/Python/comments/rwjxf2/my_first_python_project/)
 <!-- BLOG-POST-LIST:END -->
