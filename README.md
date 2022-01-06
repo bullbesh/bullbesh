@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My first video on how to use BS4 to Web Scrape Stock Market Fundamentals using Python 😃](https://www.reddit.com/r/Python/comments/rxgmvy/my_first_video_on_how_to_use_bs4_to_web_scrape/)
+- [Why does python:latest Docker tag point at the python:3.10.1-bullseye tag?](https://www.reddit.com/r/Python/comments/rxhvn6/why_does_pythonlatest_docker_tag_point_at_the/)
+- [How to Make an Immutable Dict in Python - Adam Johnson](https://www.reddit.com/r/Python/comments/rxh99t/how_to_make_an_immutable_dict_in_python_adam/)
 - [AI Got Your Back Segmented &lpar;PyTorch&rpar;](https://www.reddit.com/r/Python/comments/rxghzl/ai_got_your_back_segmented_pytorch/)
 - [Python desktop application](https://www.reddit.com/r/Python/comments/rxes30/python_desktop_application/)
 - [Build your self-hosted Evernote](https://www.reddit.com/r/Python/comments/rxemxg/build_your_selfhosted_evernote/)
-- [CaptchaCracker - Creating a text captcha recognition deep learning model](https://www.reddit.com/r/Python/comments/rxckbm/captchacracker_creating_a_text_captcha/)
 <!-- BLOG-POST-LIST:END -->
