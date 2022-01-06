@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [14 Data Science with Python Online Courses](https://www.reddit.com/r/Python/comments/rxasla/14_data_science_with_python_online_courses/)
+- [pydantic-factories v1.0.0](https://www.reddit.com/r/Python/comments/rxas2z/pydanticfactories_v100/)
 - [What are the benefits of building an enterprise with microservices and Python?](https://www.reddit.com/r/Python/comments/rxaad6/what_are_the_benefits_of_building_an_enterprise/)
 - [Vim setup for Python programmers: coc and coc-pyright](https://www.reddit.com/r/Python/comments/rx99jc/vim_setup_for_python_programmers_coc_and/)
 - [Tutorial on Stock Market Analysis wjth Python](https://www.reddit.com/r/Python/comments/rx8tvn/tutorial_on_stock_market_analysis_wjth_python/)
-- [Found a Table/Spreadsheet widget for Tkinter Python GUI. Tkintertable.&lpar;Crosspost /learnpython&rpar;](https://www.reddit.com/r/Python/comments/rx6zi3/found_a_tablespreadsheet_widget_for_tkinter/)
-- [Python for machine learning course](https://www.reddit.com/r/Python/comments/rx65pj/python_for_machine_learning_course/)
 <!-- BLOG-POST-LIST:END -->
