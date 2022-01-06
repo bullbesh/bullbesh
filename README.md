@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built an NLP pipeline for analyzing supplement reviews called Healthsea 🐳](https://www.reddit.com/r/Python/comments/rxjonx/i_built_an_nlp_pipeline_for_analyzing_supplement/)
 - [Why does python:latest Docker tag point at the python:3.10.1-bullseye tag?](https://www.reddit.com/r/Python/comments/rxhvn6/why_does_pythonlatest_docker_tag_point_at_the/)
 - [How to Make an Immutable Dict in Python - Adam Johnson](https://www.reddit.com/r/Python/comments/rxh99t/how_to_make_an_immutable_dict_in_python_adam/)
 - [AI Got Your Back Segmented &lpar;PyTorch&rpar;](https://www.reddit.com/r/Python/comments/rxghzl/ai_got_your_back_segmented_pytorch/)
 - [Python desktop application](https://www.reddit.com/r/Python/comments/rxes30/python_desktop_application/)
-- [Build your self-hosted Evernote](https://www.reddit.com/r/Python/comments/rxemxg/build_your_selfhosted_evernote/)
 <!-- BLOG-POST-LIST:END -->
