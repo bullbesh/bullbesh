@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first video on how to use BS4 to Web Scrape Stock Market Fundamentals using Python 😃](https://www.reddit.com/r/Python/comments/rxgmvy/my_first_video_on_how_to_use_bs4_to_web_scrape/)
+- [AI Got Your Back Segmented &lpar;PyTorch&rpar;](https://www.reddit.com/r/Python/comments/rxghzl/ai_got_your_back_segmented_pytorch/)
 - [Python desktop application](https://www.reddit.com/r/Python/comments/rxes30/python_desktop_application/)
 - [Build your self-hosted Evernote](https://www.reddit.com/r/Python/comments/rxemxg/build_your_selfhosted_evernote/)
 - [CaptchaCracker - Creating a text captcha recognition deep learning model](https://www.reddit.com/r/Python/comments/rxckbm/captchacracker_creating_a_text_captcha/)
-- [14 Data Science with Python Online Courses](https://www.reddit.com/r/Python/comments/rxasla/14_data_science_with_python_online_courses/)
-- [pydantic-factories v1.0.0](https://www.reddit.com/r/Python/comments/rxas2z/pydanticfactories_v100/)
 <!-- BLOG-POST-LIST:END -->
