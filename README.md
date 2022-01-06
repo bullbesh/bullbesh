@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CaptchaCracker - Creating a text captcha recognition deep learning model](https://www.reddit.com/r/Python/comments/rxckbm/captchacracker_creating_a_text_captcha/)
 - [14 Data Science with Python Online Courses](https://www.reddit.com/r/Python/comments/rxasla/14_data_science_with_python_online_courses/)
 - [pydantic-factories v1.0.0](https://www.reddit.com/r/Python/comments/rxas2z/pydanticfactories_v100/)
 - [What are the benefits of building an enterprise with microservices and Python?](https://www.reddit.com/r/Python/comments/rxaad6/what_are_the_benefits_of_building_an_enterprise/)
 - [Vim setup for Python programmers: coc and coc-pyright](https://www.reddit.com/r/Python/comments/rx99jc/vim_setup_for_python_programmers_coc_and/)
-- [Tutorial on Stock Market Analysis wjth Python](https://www.reddit.com/r/Python/comments/rx8tvn/tutorial_on_stock_market_analysis_wjth_python/)
 <!-- BLOG-POST-LIST:END -->
