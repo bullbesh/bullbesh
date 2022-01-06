@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django wants you to build poor quality apps. Here&#39;s how to fix this.](https://www.reddit.com/r/Python/comments/rxniv7/django_wants_you_to_build_poor_quality_apps_heres/)
+- [Exploratory Data Analysis in Python](https://www.reddit.com/r/Python/comments/rxmi7q/exploratory_data_analysis_in_python/)
 - [NASA Scientists use Jupyter to visualize the atmosphere of planets](https://www.reddit.com/r/Python/comments/rxm740/nasa_scientists_use_jupyter_to_visualize_the/)
 - [Automatically-setup Selenium Tests Running in Parallel](https://www.reddit.com/r/Python/comments/rxkzbl/automaticallysetup_selenium_tests_running_in/)
 - [I made a simple async queueing framework called SAQ! It includes a built in web UI to manage jobs.](https://www.reddit.com/r/Python/comments/rxkxr1/i_made_a_simple_async_queueing_framework_called/)
-- [Showing gratitude for Python Language](https://www.reddit.com/r/Python/comments/rxk20d/showing_gratitude_for_python_language/)
-- [I built an NLP pipeline for analyzing supplement reviews called Healthsea 🐳](https://www.reddit.com/r/Python/comments/rxjonx/i_built_an_nlp_pipeline_for_analyzing_supplement/)
 <!-- BLOG-POST-LIST:END -->
