@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for machine learning course](https://www.reddit.com/r/Python/comments/rx65pj/python_for_machine_learning_course/)
+- [What are some great python tools that people may not know about? I somehow only recently found out about ‘youtube-dl’. I’m sure there are other great tools people aren’t aware of and we’re probably missing out](https://www.reddit.com/r/Python/comments/rx65ie/what_are_some_great_python_tools_that_people_may/)
+- [Just made my first useful program.](https://www.reddit.com/r/Python/comments/rx5jrk/just_made_my_first_useful_program/)
 - [A video discussing python 3.11 features. I have tried to make the video as I read the doc myself, so people can see where I get stuck. &lpar;Please lmk suggestions as I&#39;m new to making educational content&rpar;](https://www.reddit.com/r/Python/comments/rx4bbv/a_video_discussing_python_311_features_i_have/)
 - [I&#39;m teaching myself basic web scraping in my spare time, so I wrote this script that scrapes current info on the James Webb Space Telescope off NASA&#39;s website!](https://www.reddit.com/r/Python/comments/rx39dh/im_teaching_myself_basic_web_scraping_in_my_spare/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/rx0ppx/thursday_daily_thread_python_careers_courses_and/)
-- [I&#39;ve created a subreddit for my Python-based TUI library!](https://www.reddit.com/r/Python/comments/rwz4eo/ive_created_a_subreddit_for_my_pythonbased_tui/)
-- [Rate my python calculator!! &lpar;new to python&rpar;](https://www.reddit.com/r/Python/comments/rwx1zh/rate_my_python_calculator_new_to_python/)
 <!-- BLOG-POST-LIST:END -->
