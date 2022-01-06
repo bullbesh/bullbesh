@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automatically-setup Selenium Tests Running in Parallel](https://www.reddit.com/r/Python/comments/rxkzbl/automaticallysetup_selenium_tests_running_in/)
+- [I made a simple async queueing framework called SAQ! It includes a built in web UI to manage jobs.](https://www.reddit.com/r/Python/comments/rxkxr1/i_made_a_simple_async_queueing_framework_called/)
+- [Showing gratitude for Python Language](https://www.reddit.com/r/Python/comments/rxk20d/showing_gratitude_for_python_language/)
 - [I built an NLP pipeline for analyzing supplement reviews called Healthsea 🐳](https://www.reddit.com/r/Python/comments/rxjonx/i_built_an_nlp_pipeline_for_analyzing_supplement/)
 - [Why does python:latest Docker tag point at the python:3.10.1-bullseye tag?](https://www.reddit.com/r/Python/comments/rxhvn6/why_does_pythonlatest_docker_tag_point_at_the/)
-- [How to Make an Immutable Dict in Python - Adam Johnson](https://www.reddit.com/r/Python/comments/rxh99t/how_to_make_an_immutable_dict_in_python_adam/)
-- [AI Got Your Back Segmented &lpar;PyTorch&rpar;](https://www.reddit.com/r/Python/comments/rxghzl/ai_got_your_back_segmented_pytorch/)
-- [Python desktop application](https://www.reddit.com/r/Python/comments/rxes30/python_desktop_application/)
 <!-- BLOG-POST-LIST:END -->
