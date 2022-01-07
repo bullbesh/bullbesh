@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just created my very first discord bot using discord.py](https://www.reddit.com/r/Python/comments/ryf2l1/just_created_my_very_first_discord_bot_using/)
+- [Mypy 0.931 Released](https://www.reddit.com/r/Python/comments/ryebao/mypy_0931_released/)
 - [A free iPad app that helps you learn Python and ML](https://www.reddit.com/r/Python/comments/rycu6l/a_free_ipad_app_that_helps_you_learn_python_and_ml/)
 - [Computing 10! the 1-liner lambda-way](https://www.reddit.com/r/Python/comments/ryco69/computing_10_the_1liner_lambdaway/)
 - [First program - tkinter GUI, running YT-DLP for single-video downloads](https://www.reddit.com/r/Python/comments/rycc5n/first_program_tkinter_gui_running_ytdlp_for/)
-- [Using a multilingual model with Pinecone services to semantically search for similar questions](https://www.reddit.com/r/Python/comments/rybk2c/using_a_multilingual_model_with_pinecone_services/)
-- [I made a game in 1 day with pygame](https://www.reddit.com/r/Python/comments/ryah1j/i_made_a_game_in_1_day_with_pygame/)
 <!-- BLOG-POST-LIST:END -->
