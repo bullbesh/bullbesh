@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Appwrite 0.12 - A major milestone for the open source Firebase Alternative](https://www.reddit.com/r/Python/comments/ry7u2n/appwrite_012_a_major_milestone_for_the_open/)
+- [tplot: a library to create text-based plots in the terminal](https://www.reddit.com/r/Python/comments/ry7lln/tplot_a_library_to_create_textbased_plots_in_the/)
 - [YoutubeDownloader](https://www.reddit.com/r/Python/comments/ry6rg4/youtubedownloader/)
 - [Episode #92: Continuing to Unravel Python&#39;s Syntatic Sugar With Brett Cannon – The Real Python Podcast](https://www.reddit.com/r/Python/comments/ry6q5x/episode_92_continuing_to_unravel_pythons_syntatic/)
-- [Python can&#39;t use png with base64](https://www.reddit.com/r/Python/comments/ry6du9/python_cant_use_png_with_base64/)
 - [My first script to automate project creation](https://www.reddit.com/r/Python/comments/ry5yj7/my_first_script_to_automate_project_creation/)
-- [Quantum Safe Password Manager with plausible Deniability](https://www.reddit.com/r/Python/comments/ry5vw7/quantum_safe_password_manager_with_plausible/)
 <!-- BLOG-POST-LIST:END -->
