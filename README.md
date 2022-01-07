@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I used Python to make a dot density map &lpar;with 1 dot per person&rpar; for the US Decennial Censuses from 1990 to 2020. This is over a billion points. The result is an amazing way to visualize population and demographic changes over the last 30 years. I wanted to share the code + process I used.](https://www.reddit.com/r/Python/comments/rykx3w/i_used_python_to_make_a_dot_density_map_with_1/)
+- [Python?](https://www.reddit.com/r/Python/comments/rykspy/python/)
 - [Do you know, starting from Python 3.10, we can implement Switch-Case statement in very easy way?](https://www.reddit.com/r/Python/comments/ryj800/do_you_know_starting_from_python_310_we_can/)
-- [PDF API](https://www.reddit.com/r/Python/comments/ryfl8r/pdf_api/)
 - [Just created my very first discord bot using discord.py](https://www.reddit.com/r/Python/comments/ryf2l1/just_created_my_very_first_discord_bot_using/)
 - [Mypy 0.931 Released](https://www.reddit.com/r/Python/comments/ryebao/mypy_0931_released/)
-- [A free iPad app that helps you learn Python and ML](https://www.reddit.com/r/Python/comments/rycu6l/a_free_ipad_app_that_helps_you_learn_python_and_ml/)
 <!-- BLOG-POST-LIST:END -->
