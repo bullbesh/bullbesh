@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [progress_interface: a package to report progress information from long-running tasks in a generic and user-configurable way.](https://www.reddit.com/r/Python/comments/rxum94/progress_interface_a_package_to_report_progress/)
+- [I&#39;ve created a python script that uses your Chess Tempo history to show your accuracy for each tactic type within a given timeframe.](https://www.reddit.com/r/Python/comments/rxtxyf/ive_created_a_python_script_that_uses_your_chess/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/rxsw1e/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Is it considered bad practice to divide up a piece of software into lots of little separate scripts?](https://www.reddit.com/r/Python/comments/rxrlxq/is_it_considered_bad_practice_to_divide_up_a/)
 - [In your experience, how long did you take to become a Python expert?](https://www.reddit.com/r/Python/comments/rxqxee/in_your_experience_how_long_did_you_take_to/)
-- [NumPy Allocator - Configurable memory allocations in Python](https://www.reddit.com/r/Python/comments/rxpviu/numpy_allocator_configurable_memory_allocations/)
-- [How do professional SWEs keep learning more Python?](https://www.reddit.com/r/Python/comments/rxpc9l/how_do_professional_swes_keep_learning_more_python/)
-- [[mplcolors] Command line interface for displaying matplotlib colors, colorbars.](https://www.reddit.com/r/Python/comments/rxp7w9/mplcolors_command_line_interface_for_displaying/)
 <!-- BLOG-POST-LIST:END -->
