@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Computing 10! the 1-liner lambda-way](https://www.reddit.com/r/Python/comments/ryco69/computing_10_the_1liner_lambdaway/)
+- [First program - tkinter GUI, running YT-DLP for single-video downloads](https://www.reddit.com/r/Python/comments/rycc5n/first_program_tkinter_gui_running_ytdlp_for/)
+- [Using a multilingual model with Pinecone services to semantically search for similar questions](https://www.reddit.com/r/Python/comments/rybk2c/using_a_multilingual_model_with_pinecone_services/)
 - [I made a game in 1 day with pygame](https://www.reddit.com/r/Python/comments/ryah1j/i_made_a_game_in_1_day_with_pygame/)
 - [Breadth First Search Algorithm with example - Minimum steps for Knight move](https://www.reddit.com/r/Python/comments/rya5ot/breadth_first_search_algorithm_with_example/)
-- [Appwrite 0.12 - A major milestone for the open source Firebase Alternative](https://www.reddit.com/r/Python/comments/ry7u2n/appwrite_012_a_major_milestone_for_the_open/)
-- [tplot: a library to create text-based plots in the terminal](https://www.reddit.com/r/Python/comments/ry7lln/tplot_a_library_to_create_textbased_plots_in_the/)
-- [YoutubeDownloader](https://www.reddit.com/r/Python/comments/ry6rg4/youtubedownloader/)
 <!-- BLOG-POST-LIST:END -->
