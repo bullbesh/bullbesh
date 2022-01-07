@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Protect your Python Flask applications from hackers using CrowdSec &lpar;free and open source&rpar;](https://www.reddit.com/r/Python/comments/ry2lmt/protect_your_python_flask_applications_from/)
 - [How to classify Images using Python and TensorFlow Pre-trained models ? [tutorial]](https://www.reddit.com/r/Python/comments/ry18s9/how_to_classify_images_using_python_and/)
 - [Python Tutorial](https://www.reddit.com/r/Python/comments/rxyyza/python_tutorial/)
 - [progress_interface: a package to report progress information from long-running tasks in a generic and user-configurable way.](https://www.reddit.com/r/Python/comments/rxum94/progress_interface_a_package_to_report_progress/)
 - [I&#39;ve created a python script that uses your Chess Tempo history to show your accuracy for each tactic type within a given timeframe.](https://www.reddit.com/r/Python/comments/rxtxyf/ive_created_a_python_script_that_uses_your_chess/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/rxsw1e/friday_daily_thread_free_chat_friday_daily_thread/)
 <!-- BLOG-POST-LIST:END -->
