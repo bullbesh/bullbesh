@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python can&#39;t use png with base64](https://www.reddit.com/r/Python/comments/ry6du9/python_cant_use_png_with_base64/)
+- [My first script to automate project creation](https://www.reddit.com/r/Python/comments/ry5yj7/my_first_script_to_automate_project_creation/)
+- [Quantum Safe Password Manager with plausible Deniability](https://www.reddit.com/r/Python/comments/ry5vw7/quantum_safe_password_manager_with_plausible/)
+- [Webscraping for dummies. I&#39;ve done a lot of webscraping but didn&#39;t know about the Insomnia app and it&#39;s ability to generate python code for you. Very useful for all your webscraping needs!](https://www.reddit.com/r/Python/comments/ry5ihc/webscraping_for_dummies_ive_done_a_lot_of/)
 - [🐸💬 Coqui TTS: An open-source text-to-speech library based on Pytorch](https://www.reddit.com/r/Python/comments/ry54ez/coqui_tts_an_opensource_texttospeech_library/)
-- [Adjusting recursion limit](https://www.reddit.com/r/Python/comments/ry49h1/adjusting_recursion_limit/)
-- [build a simple contact book with python: beginners tutorial](https://www.reddit.com/r/Python/comments/ry2tcw/build_a_simple_contact_book_with_python_beginners/)
-- [Protect your Python Flask applications from hackers using CrowdSec &lpar;free and open source&rpar;](https://www.reddit.com/r/Python/comments/ry2lmt/protect_your_python_flask_applications_from/)
-- [How to classify Images using Python and TensorFlow Pre-trained models ? [tutorial]](https://www.reddit.com/r/Python/comments/ry18s9/how_to_classify_images_using_python_and/)
 <!-- BLOG-POST-LIST:END -->
