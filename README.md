@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Python support for MistQL: an embeddable language for performing computations on JSON-like structures](https://www.reddit.com/r/Python/comments/ryxlzr/introducing_python_support_for_mistql_an/)
+- [Test your luck!](https://www.reddit.com/r/Python/comments/ryx31j/test_your_luck/)
+- [Created a Stack overflow clone with almost every functionality](https://www.reddit.com/r/Python/comments/ryx0v1/created_a_stack_overflow_clone_with_almost_every/)
 - [Top 10 Programming Languages in 2022](https://www.reddit.com/r/Python/comments/rywedr/top_10_programming_languages_in_2022/)
 - [I made Minesweeper](https://www.reddit.com/r/Python/comments/ryw9kb/i_made_minesweeper/)
-- [pimple - Python IMage Processing Library for noisE - A fun little project I&#39;ve started working on to make generative digital &#39;art&#39;](https://www.reddit.com/r/Python/comments/ryvsch/pimple_python_image_processing_library_for_noise/)
-- [Tuples in Python](https://www.reddit.com/r/Python/comments/ryvjpk/tuples_in_python/)
-- [Flask-FomanticUI - An extension that allows to use Fomantic UI CSS Framework.](https://www.reddit.com/r/Python/comments/ryox7h/flaskfomanticui_an_extension_that_allows_to_use/)
 <!-- BLOG-POST-LIST:END -->
