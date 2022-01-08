@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Im trying to send messages with my virtaul assistant but I&#39;m not able to](https://www.reddit.com/r/Python/comments/rymrgn/im_trying_to_send_messages_with_my_virtaul/)
+- [Flask-FomanticUI - An extension that allows to use Fomantic UI CSS Framework.](https://www.reddit.com/r/Python/comments/ryox7h/flaskfomanticui_an_extension_that_allows_to_use/)
 - [Generate Caption for an Image using Azure and Python](https://www.reddit.com/r/Python/comments/rymngd/generate_caption_for_an_image_using_azure_and/)
 - [Potential project idea: will it be useful?](https://www.reddit.com/r/Python/comments/rymccd/potential_project_idea_will_it_be_useful/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/rylwuc/saturday_daily_thread_resource_request_and/)
