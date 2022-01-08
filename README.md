@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn error and exception handling in Python](https://www.reddit.com/r/Python/comments/rz7b7a/learn_error_and_exception_handling_in_python/)
+- [I made a Telegram groups crawler](https://www.reddit.com/r/Python/comments/rz6kqg/i_made_a_telegram_groups_crawler/)
+- [A simple python template](https://www.reddit.com/r/Python/comments/rz6d6d/a_simple_python_template/)
 - [I&#39;ve created a template repo for quickly building a FastAPI REST server, and deploying it to Google Cloud, with automatic API versioning and custom domain mapping. E.g. a v1.2.3 release deploys v1.your-domain.com. Issues and discussion welcome!](https://www.reddit.com/r/Python/comments/rz67yi/ive_created_a_template_repo_for_quickly_building/)
 - [Poe the Poet is a task runner that works well with poetry.](https://www.reddit.com/r/Python/comments/rz4x83/poe_the_poet_is_a_task_runner_that_works_well/)
-- [My first python project](https://www.reddit.com/r/Python/comments/rz4nfj/my_first_python_project/)
-- [Weekly updated open sourced deep learning model implementations in Flax](https://www.reddit.com/r/Python/comments/rz3wd7/weekly_updated_open_sourced_deep_learning_model/)
-- [How to Write Clean Code &lpar;in Python&rpar; With SOLID Principles | Principle #2](https://www.reddit.com/r/Python/comments/rz0enw/how_to_write_clean_code_in_python_with_solid/)
 <!-- BLOG-POST-LIST:END -->
