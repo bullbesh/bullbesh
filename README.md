@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Write Clean Code &lpar;in Python&rpar; With SOLID Principles | Principle #2](https://www.reddit.com/r/Python/comments/rz0enw/how_to_write_clean_code_in_python_with_solid/)
 - [A neural search library for medium sized corpora](https://www.reddit.com/r/Python/comments/ryzo5x/a_neural_search_library_for_medium_sized_corpora/)
 - [pytest-neo is a plugin for pytest that shows tests like screen of Matrix.](https://www.reddit.com/r/Python/comments/ryyoao/pytestneo_is_a_plugin_for_pytest_that_shows_tests/)
 - [Make GTA 1 Style Game in Python &lpar;Ursina Engine&rpar;](https://www.reddit.com/r/Python/comments/ryyiem/make_gta_1_style_game_in_python_ursina_engine/)
 - [Hack Web Views With A Selenium Python Bot](https://www.reddit.com/r/Python/comments/ryycpu/hack_web_views_with_a_selenium_python_bot/)
-- [Introducing Python support for MistQL: an embeddable language for performing computations on JSON-like structures](https://www.reddit.com/r/Python/comments/ryxlzr/introducing_python_support_for_mistql_an/)
 <!-- BLOG-POST-LIST:END -->
