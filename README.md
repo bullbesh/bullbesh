@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Im trying to send messages with my virtaul assistant but I&#39;m not able to](https://www.reddit.com/r/Python/comments/rymrgn/im_trying_to_send_messages_with_my_virtaul/)
+- [Generate Caption for an Image using Azure and Python](https://www.reddit.com/r/Python/comments/rymngd/generate_caption_for_an_image_using_azure_and/)
+- [Potential project idea: will it be useful?](https://www.reddit.com/r/Python/comments/rymccd/potential_project_idea_will_it_be_useful/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/rylwuc/saturday_daily_thread_resource_request_and/)
 - [I used Python to make a dot density map &lpar;with 1 dot per person&rpar; for the US Decennial Censuses from 1990 to 2020. This is over a billion points. The result is an amazing way to visualize population and demographic changes over the last 30 years. I wanted to share the code + process I used.](https://www.reddit.com/r/Python/comments/rykx3w/i_used_python_to_make_a_dot_density_map_with_1/)
-- [Python?](https://www.reddit.com/r/Python/comments/rykspy/python/)
-- [Do you know, starting from Python 3.10, we can implement Switch-Case statement in very easy way?](https://www.reddit.com/r/Python/comments/ryj800/do_you_know_starting_from_python_310_we_can/)
-- [Just created my very first discord bot using discord.py](https://www.reddit.com/r/Python/comments/ryf2l1/just_created_my_very_first_discord_bot_using/)
-- [Mypy 0.931 Released](https://www.reddit.com/r/Python/comments/ryebao/mypy_0931_released/)
 <!-- BLOG-POST-LIST:END -->
