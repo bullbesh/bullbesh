@@ -1,4 +1,4 @@
-# Henlo, I'm bullbesh 👋
+# Hello 👋
 
 ## ⚙️ My currently projects:
 - [pfr_instruction](https://github.com/bullbesh/pfr_instruction)
