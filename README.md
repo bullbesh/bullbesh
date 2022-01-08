@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [pytest-neo is a plugin for pytest that shows tests like screen of Matrix.](https://www.reddit.com/r/Python/comments/ryyoao/pytestneo_is_a_plugin_for_pytest_that_shows_tests/)
+- [Make GTA 1 Style Game in Python &lpar;Ursina Engine&rpar;](https://www.reddit.com/r/Python/comments/ryyiem/make_gta_1_style_game_in_python_ursina_engine/)
+- [Hack Web Views With A Selenium Python Bot](https://www.reddit.com/r/Python/comments/ryycpu/hack_web_views_with_a_selenium_python_bot/)
 - [Introducing Python support for MistQL: an embeddable language for performing computations on JSON-like structures](https://www.reddit.com/r/Python/comments/ryxlzr/introducing_python_support_for_mistql_an/)
 - [Test your luck!](https://www.reddit.com/r/Python/comments/ryx31j/test_your_luck/)
-- [Created a Stack overflow clone with almost every functionality](https://www.reddit.com/r/Python/comments/ryx0v1/created_a_stack_overflow_clone_with_almost_every/)
-- [Top 10 Programming Languages in 2022](https://www.reddit.com/r/Python/comments/rywedr/top_10_programming_languages_in_2022/)
-- [I made Minesweeper](https://www.reddit.com/r/Python/comments/ryw9kb/i_made_minesweeper/)
 <!-- BLOG-POST-LIST:END -->
