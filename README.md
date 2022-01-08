@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Would pickle be a good use case for storing a list of text](https://www.reddit.com/r/Python/comments/rz8529/would_pickle_be_a_good_use_case_for_storing_a/)
+- [I’m working on an app that allows users to build algorithms without code. I need to implement a system to interpret a grammar like syntax to execute tasks. I’ve looked into PEGs, does anyone know of a good way to interpret grammar? Example “if num1 &gt;= num2: do thing1”](https://www.reddit.com/r/Python/comments/rz9jmh/im_working_on_an_app_that_allows_users_to_build/)
+- [Math degree in open University](https://www.reddit.com/r/Python/comments/rz9gq5/math_degree_in_open_university/)
 - [Space Science with Python #21: Observation Bias](https://www.reddit.com/r/Python/comments/rz83li/space_science_with_python_21_observation_bias/)
 - [Airdraw: A vision-based drawing application](https://www.reddit.com/r/Python/comments/rz7phh/airdraw_a_visionbased_drawing_application/)
 - [I made a Telegram groups crawler](https://www.reddit.com/r/Python/comments/rz6kqg/i_made_a_telegram_groups_crawler/)
-- [A simple python template](https://www.reddit.com/r/Python/comments/rz6d6d/a_simple_python_template/)
 <!-- BLOG-POST-LIST:END -->
