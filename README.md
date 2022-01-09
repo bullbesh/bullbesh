@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is godot a way to get better at python](https://www.reddit.com/r/Python/comments/rzqecv/is_godot_a_way_to_get_better_at_python/)
+- [Working with JWTs in Python](https://www.reddit.com/r/Python/comments/rzpxfi/working_with_jwts_in_python/)
+- [The Ultimate Guide to Python Lists - A detailed tutorial.](https://www.reddit.com/r/Python/comments/rzpq4k/the_ultimate_guide_to_python_lists_a_detailed/)
 - [Update: youtube-audio-downloader](https://www.reddit.com/r/Python/comments/rzojfg/update_youtubeaudiodownloader/)
 - [Password/Information Hider](https://www.reddit.com/r/Python/comments/rzmall/passwordinformation_hider/)
-- [Just updated my GUI &lpar;again&rpar;](https://www.reddit.com/r/Python/comments/rzfgqv/just_updated_my_gui_again/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rzdyyc/sunday_daily_thread_whats_everyone_working_on/)
-- [br4nch is a data structure tree generator for Python.](https://www.reddit.com/r/Python/comments/rzcw5g/br4nch_is_a_data_structure_tree_generator_for/)
 <!-- BLOG-POST-LIST:END -->
