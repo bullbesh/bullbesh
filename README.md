@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [bytechomp: A pure python, declarative custom binary protocol parser using dataclasses and type hinting.](https://www.reddit.com/r/Python/comments/s03v3a/bytechomp_a_pure_python_declarative_custom_binary/)
+- [PyCharm vs IntelliJ w/ Python plugin?](https://www.reddit.com/r/Python/comments/s03pdq/pycharm_vs_intellij_w_python_plugin/)
+- [Is it ok to take notes when learning or am I just not smart](https://www.reddit.com/r/Python/comments/s03hr0/is_it_ok_to_take_notes_when_learning_or_am_i_just/)
 - [Ascii-Weather: A minimal shell weather program](https://www.reddit.com/r/Python/comments/s033vf/asciiweather_a_minimal_shell_weather_program/)
 - [Working with JSON in Python](https://www.reddit.com/r/Python/comments/s02973/working_with_json_in_python/)
-- [I&#39;v just made my first Not-meaningless GUI program.](https://www.reddit.com/r/Python/comments/s01roc/iv_just_made_my_first_notmeaningless_gui_program/)
-- [NumPy broadcasting implemented in Python](https://www.reddit.com/r/Python/comments/s00km5/numpy_broadcasting_implemented_in_python/)
-- [Jeeves - a Docker-based development-only dependency manager for Windows, Linux, and macOS](https://www.reddit.com/r/Python/comments/s000ke/jeeves_a_dockerbased_developmentonly_dependency/)
 <!-- BLOG-POST-LIST:END -->
