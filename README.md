@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Teaching my Father how to program](https://www.reddit.com/r/Python/comments/rzwknj/teaching_my_father_how_to_program/)
+- [Build Mobile Apps with Python Backend &amp; React Native](https://www.reddit.com/r/Python/comments/rzw6ob/build_mobile_apps_with_python_backend_react_native/)
 - [I made binaries version of Poetry package manager](https://www.reddit.com/r/Python/comments/rzug97/i_made_binaries_version_of_poetry_package_manager/)
 - [How to embed a python game in to a wordpress website](https://www.reddit.com/r/Python/comments/rzufpe/how_to_embed_a_python_game_in_to_a_wordpress/)
 - [What do you think about this method docstring style?](https://www.reddit.com/r/Python/comments/rzu4af/what_do_you_think_about_this_method_docstring/)
-- [5 Useful Pandas Methods You May Not Know Existed &lpar;Part 2&rpar;](https://www.reddit.com/r/Python/comments/rztq2m/5_useful_pandas_methods_you_may_not_know_existed/)
-- [Is Selenium my best option for logging into an account, retrieving data, and automating bill payment?](https://www.reddit.com/r/Python/comments/rzszac/is_selenium_my_best_option_for_logging_into_an/)
 <!-- BLOG-POST-LIST:END -->
