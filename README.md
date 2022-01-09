@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jeeves - a Docker-based development-only dependency manager for Windows, Linux, and macOS](https://www.reddit.com/r/Python/comments/s000ke/jeeves_a_dockerbased_developmentonly_dependency/)
+- [Stable release of zpy, with new docs: Zsh functions for managing Python venvs, dependencies, and isolated apps &lpar;mostly wrapping pip-tools&rpar;](https://www.reddit.com/r/Python/comments/rzzygn/stable_release_of_zpy_with_new_docs_zsh_functions/)
 - [EasySockets &lpar;An easy-to-use Python module for socket programming&rpar;](https://www.reddit.com/r/Python/comments/rzyhnl/easysockets_an_easytouse_python_module_for_socket/)
 - [News website &lpar;using Django and Newsapi&rpar;](https://www.reddit.com/r/Python/comments/rzxufi/news_website_using_django_and_newsapi/)
 - [Ultimate Guide To Text Similarity With Python](https://www.reddit.com/r/Python/comments/rzx0f1/ultimate_guide_to_text_similarity_with_python/)
-- [Teaching my Father how to program](https://www.reddit.com/r/Python/comments/rzwknj/teaching_my_father_how_to_program/)
-- [Build Mobile Apps with Python Backend &amp; React Native](https://www.reddit.com/r/Python/comments/rzw6ob/build_mobile_apps_with_python_backend_react_native/)
 <!-- BLOG-POST-LIST:END -->
