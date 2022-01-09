@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made binaries version of Poetry package manager](https://www.reddit.com/r/Python/comments/rzug97/i_made_binaries_version_of_poetry_package_manager/)
+- [How to embed a python game in to a wordpress website](https://www.reddit.com/r/Python/comments/rzufpe/how_to_embed_a_python_game_in_to_a_wordpress/)
+- [What do you think about this method docstring style?](https://www.reddit.com/r/Python/comments/rzu4af/what_do_you_think_about_this_method_docstring/)
 - [5 Useful Pandas Methods You May Not Know Existed &lpar;Part 2&rpar;](https://www.reddit.com/r/Python/comments/rztq2m/5_useful_pandas_methods_you_may_not_know_existed/)
 - [Is Selenium my best option for logging into an account, retrieving data, and automating bill payment?](https://www.reddit.com/r/Python/comments/rzszac/is_selenium_my_best_option_for_logging_into_an/)
-- [A Free for commercial use API to get EV Charger locations?](https://www.reddit.com/r/Python/comments/rzsmqy/a_free_for_commercial_use_api_to_get_ev_charger/)
-- [Making HTTP requests with sockets in Python](https://www.reddit.com/r/Python/comments/rzskpr/making_http_requests_with_sockets_in_python/)
-- [Type and Class with same name](https://www.reddit.com/r/Python/comments/rzsklb/type_and_class_with_same_name/)
 <!-- BLOG-POST-LIST:END -->
