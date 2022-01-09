@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Yes or no input](https://www.reddit.com/r/Python/comments/rzrj4p/yes_or_no_input/)
+- [Onionize : A simple script to convert Deep web TOR Onion site for normal site](https://www.reddit.com/r/Python/comments/rzrit3/onionize_a_simple_script_to_convert_deep_web_tor/)
+- [Is Python suitable for enterprise applications?](https://www.reddit.com/r/Python/comments/rzr0z2/is_python_suitable_for_enterprise_applications/)
 - [Is godot a way to get better at python](https://www.reddit.com/r/Python/comments/rzqecv/is_godot_a_way_to_get_better_at_python/)
 - [Working with JWTs in Python](https://www.reddit.com/r/Python/comments/rzpxfi/working_with_jwts_in_python/)
-- [The Ultimate Guide to Python Lists - A detailed tutorial.](https://www.reddit.com/r/Python/comments/rzpq4k/the_ultimate_guide_to_python_lists_a_detailed/)
-- [Update: youtube-audio-downloader](https://www.reddit.com/r/Python/comments/rzojfg/update_youtubeaudiodownloader/)
-- [Password/Information Hider](https://www.reddit.com/r/Python/comments/rzmall/passwordinformation_hider/)
 <!-- BLOG-POST-LIST:END -->
