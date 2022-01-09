@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [News website &lpar;using Django and Newsapi&rpar;](https://www.reddit.com/r/Python/comments/rzxufi/news_website_using_django_and_newsapi/)
+- [dj-snake: Django loaddata command that doesn&#39;t override objects with the same primary key](https://www.reddit.com/r/Python/comments/rzxply/djsnake_django_loaddata_command_that_doesnt/)
+- [Ultimate Guide To Text Similarity With Python](https://www.reddit.com/r/Python/comments/rzx0f1/ultimate_guide_to_text_similarity_with_python/)
 - [Teaching my Father how to program](https://www.reddit.com/r/Python/comments/rzwknj/teaching_my_father_how_to_program/)
 - [Build Mobile Apps with Python Backend &amp; React Native](https://www.reddit.com/r/Python/comments/rzw6ob/build_mobile_apps_with_python_backend_react_native/)
-- [I made binaries version of Poetry package manager](https://www.reddit.com/r/Python/comments/rzug97/i_made_binaries_version_of_poetry_package_manager/)
-- [How to embed a python game in to a wordpress website](https://www.reddit.com/r/Python/comments/rzufpe/how_to_embed_a_python_game_in_to_a_wordpress/)
-- [What do you think about this method docstring style?](https://www.reddit.com/r/Python/comments/rzu4af/what_do_you_think_about_this_method_docstring/)
 <!-- BLOG-POST-LIST:END -->
