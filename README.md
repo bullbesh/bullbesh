@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Update: youtube-audio-downloader](https://www.reddit.com/r/Python/comments/rzojfg/update_youtubeaudiodownloader/)
 - [Password/Information Hider](https://www.reddit.com/r/Python/comments/rzmall/passwordinformation_hider/)
 - [Just updated my GUI &lpar;again&rpar;](https://www.reddit.com/r/Python/comments/rzfgqv/just_updated_my_gui_again/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rzdyyc/sunday_daily_thread_whats_everyone_working_on/)
 - [br4nch is a data structure tree generator for Python.](https://www.reddit.com/r/Python/comments/rzcw5g/br4nch_is_a_data_structure_tree_generator_for/)
-- [Trading Algos - 5 Key Metrics and How to Implement Them in Python](https://www.reddit.com/r/Python/comments/rzc5vp/trading_algos_5_key_metrics_and_how_to_implement/)
 <!-- BLOG-POST-LIST:END -->
