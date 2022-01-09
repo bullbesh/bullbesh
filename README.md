@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [EasySockets &lpar;An easy-to-use Python module for socket programming&rpar;](https://www.reddit.com/r/Python/comments/rzyhnl/easysockets_an_easytouse_python_module_for_socket/)
 - [News website &lpar;using Django and Newsapi&rpar;](https://www.reddit.com/r/Python/comments/rzxufi/news_website_using_django_and_newsapi/)
-- [dj-snake: Django loaddata command that doesn&#39;t override objects with the same primary key](https://www.reddit.com/r/Python/comments/rzxply/djsnake_django_loaddata_command_that_doesnt/)
 - [Ultimate Guide To Text Similarity With Python](https://www.reddit.com/r/Python/comments/rzx0f1/ultimate_guide_to_text_similarity_with_python/)
 - [Teaching my Father how to program](https://www.reddit.com/r/Python/comments/rzwknj/teaching_my_father_how_to_program/)
 - [Build Mobile Apps with Python Backend &amp; React Native](https://www.reddit.com/r/Python/comments/rzw6ob/build_mobile_apps_with_python_backend_react_native/)
