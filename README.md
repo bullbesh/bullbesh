@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Free for commercial use API to get EV Charger locations?](https://www.reddit.com/r/Python/comments/rzsmqy/a_free_for_commercial_use_api_to_get_ev_charger/)
+- [Making HTTP requests with sockets in Python](https://www.reddit.com/r/Python/comments/rzskpr/making_http_requests_with_sockets_in_python/)
+- [Type and Class with same name](https://www.reddit.com/r/Python/comments/rzsklb/type_and_class_with_same_name/)
+- [End-to-End Tutorial on Combining AWS Lambda, Docker, and Python](https://www.reddit.com/r/Python/comments/rzsj2a/endtoend_tutorial_on_combining_aws_lambda_docker/)
 - [Yes or no input](https://www.reddit.com/r/Python/comments/rzrj4p/yes_or_no_input/)
-- [Onionize : A simple script to convert Deep web TOR Onion site for normal site](https://www.reddit.com/r/Python/comments/rzrit3/onionize_a_simple_script_to_convert_deep_web_tor/)
-- [Is Python suitable for enterprise applications?](https://www.reddit.com/r/Python/comments/rzr0z2/is_python_suitable_for_enterprise_applications/)
-- [Is godot a way to get better at python](https://www.reddit.com/r/Python/comments/rzqecv/is_godot_a_way_to_get_better_at_python/)
-- [Working with JWTs in Python](https://www.reddit.com/r/Python/comments/rzpxfi/working_with_jwts_in_python/)
 <!-- BLOG-POST-LIST:END -->
