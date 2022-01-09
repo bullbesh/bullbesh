@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Useful Pandas Methods You May Not Know Existed &lpar;Part 2&rpar;](https://www.reddit.com/r/Python/comments/rztq2m/5_useful_pandas_methods_you_may_not_know_existed/)
+- [Is Selenium my best option for logging into an account, retrieving data, and automating bill payment?](https://www.reddit.com/r/Python/comments/rzszac/is_selenium_my_best_option_for_logging_into_an/)
 - [A Free for commercial use API to get EV Charger locations?](https://www.reddit.com/r/Python/comments/rzsmqy/a_free_for_commercial_use_api_to_get_ev_charger/)
 - [Making HTTP requests with sockets in Python](https://www.reddit.com/r/Python/comments/rzskpr/making_http_requests_with_sockets_in_python/)
 - [Type and Class with same name](https://www.reddit.com/r/Python/comments/rzsklb/type_and_class_with_same_name/)
-- [End-to-End Tutorial on Combining AWS Lambda, Docker, and Python](https://www.reddit.com/r/Python/comments/rzsj2a/endtoend_tutorial_on_combining_aws_lambda_docker/)
-- [Yes or no input](https://www.reddit.com/r/Python/comments/rzrj4p/yes_or_no_input/)
 <!-- BLOG-POST-LIST:END -->
