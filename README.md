@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just updated my GUI &lpar;again&rpar;](https://www.reddit.com/r/Python/comments/rzfgqv/just_updated_my_gui_again/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/rzdyyc/sunday_daily_thread_whats_everyone_working_on/)
 - [br4nch is a data structure tree generator for Python.](https://www.reddit.com/r/Python/comments/rzcw5g/br4nch_is_a_data_structure_tree_generator_for/)
+- [Trading Algos - 5 Key Metrics and How to Implement Them in Python](https://www.reddit.com/r/Python/comments/rzc5vp/trading_algos_5_key_metrics_and_how_to_implement/)
 - [GitHub - Clivern/Winkie: 🐺 Platform to Run and Share Code.](https://www.reddit.com/r/Python/comments/rzbq04/github_clivernwinkie_platform_to_run_and_share/)
-- [Hi guys, just created my first video for my algorithms in the python tutorial series. Just let me know how you feel about it :&rpar; Could really use some feedbacks as this is my first video &lt;3](https://www.reddit.com/r/Python/comments/rzatgl/hi_guys_just_created_my_first_video_for_my/)
-- [Math degree in open University](https://www.reddit.com/r/Python/comments/rz9gq5/math_degree_in_open_university/)
-- [Space Science with Python #21: Observation Bias](https://www.reddit.com/r/Python/comments/rz83li/space_science_with_python_21_observation_bias/)
 <!-- BLOG-POST-LIST:END -->
