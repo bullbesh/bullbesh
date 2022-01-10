@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is there any automation tool or script that can join and record online classes?](https://www.reddit.com/r/Python/comments/s0t5k1/is_there_any_automation_tool_or_script_that_can/)
+- [py_import_tree: Analyze the imports in your project: in which files, functions, classes they are used](https://www.reddit.com/r/Python/comments/s0tpl4/py_import_tree_analyze_the_imports_in_your/)
 - [An introduction to Python namespace packages](https://www.reddit.com/r/Python/comments/s0szwm/an_introduction_to_python_namespace_packages/)
 - [I analyzed COVID headlines over time using AI, here&#39;s what I found](https://www.reddit.com/r/Python/comments/s0rx1r/i_analyzed_covid_headlines_over_time_using_ai/)
 - [Terminal App for Premier League Teams&#39; Schedules](https://www.reddit.com/r/Python/comments/s0r5dk/terminal_app_for_premier_league_teams_schedules/)
