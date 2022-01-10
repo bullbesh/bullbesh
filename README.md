@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [spotify &gt;&gt; mp3](https://www.reddit.com/r/Python/comments/s0ikqo/spotify_mp3/)
+- [Divide training set to 10 equal subsets without messing with the pairs](https://www.reddit.com/r/Python/comments/s0ib4d/divide_training_set_to_10_equal_subsets_without/)
 - [GitHub - arun1729/cog: Micro Graph Database for Python Applications](https://www.reddit.com/r/Python/comments/s0hck4/github_arun1729cog_micro_graph_database_for/)
 - [Python for EEG signal processing in the project&quot;https://www.researchgate.net/publication/357698587_PIEEG_Turn_a_Raspberry_Pi_into_a_Brain-Computer-Interface_to_measure_biosignals_arXiv220102228&quot;](https://www.reddit.com/r/Python/comments/s0h9nw/python_for_eeg_signal_processing_in_the/)
 - [What are the best practices for writing unit tests in data science projects?](https://www.reddit.com/r/Python/comments/s0fbkp/what_are_the_best_practices_for_writing_unit/)
-- [Learning Python 3 - Any advice is welcome](https://www.reddit.com/r/Python/comments/s0d44z/learning_python_3_any_advice_is_welcome/)
-- [Dj-Snake: Django command to load fixture without overriding existing objects with same primary key](https://www.reddit.com/r/Python/comments/s0con6/djsnake_django_command_to_load_fixture_without/)
 <!-- BLOG-POST-LIST:END -->
