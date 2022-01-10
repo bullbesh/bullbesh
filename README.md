@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Storing info through functions](https://www.reddit.com/r/Python/comments/s0qbns/storing_info_through_functions/)
+- [ipyflex - A WYSIWYG layout editor for Jupyter widgets](https://www.reddit.com/r/Python/comments/s0pial/ipyflex_a_wysiwyg_layout_editor_for_jupyter/)
 - [Zelda Inspired Game I am Making in Python &lpar;w/Boss Fight&rpar;](https://www.reddit.com/r/Python/comments/s0p2ry/zelda_inspired_game_i_am_making_in_python_wboss/)
 - [I’m starting to doubt that anyone can learn how to code](https://www.reddit.com/r/Python/comments/s0oqo7/im_starting_to_doubt_that_anyone_can_learn_how_to/)
 - [5 Streamlit Components To Build Better Applications](https://www.reddit.com/r/Python/comments/s0ofih/5_streamlit_components_to_build_better/)
-- [Is Python Suitable for Mobile Applications?](https://www.reddit.com/r/Python/comments/s0o8s3/is_python_suitable_for_mobile_applications/)
-- [Solving Wordle Puzzles with Sets, Itertools and List Comprehensions](https://www.reddit.com/r/Python/comments/s0nejz/solving_wordle_puzzles_with_sets_itertools_and/)
 <!-- BLOG-POST-LIST:END -->
