@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there any automation tool or script that can join and record online classes?](https://www.reddit.com/r/Python/comments/s0t5k1/is_there_any_automation_tool_or_script_that_can/)
+- [An introduction to Python namespace packages](https://www.reddit.com/r/Python/comments/s0szwm/an_introduction_to_python_namespace_packages/)
 - [I analyzed COVID headlines over time using AI, here&#39;s what I found](https://www.reddit.com/r/Python/comments/s0rx1r/i_analyzed_covid_headlines_over_time_using_ai/)
 - [Terminal App for Premier League Teams&#39; Schedules](https://www.reddit.com/r/Python/comments/s0r5dk/terminal_app_for_premier_league_teams_schedules/)
 - [Py3server: Python 3 API framework](https://www.reddit.com/r/Python/comments/s0qtf3/py3server_python_3_api_framework/)
-- [ipyflex - A WYSIWYG layout editor for Jupyter widgets](https://www.reddit.com/r/Python/comments/s0pial/ipyflex_a_wysiwyg_layout_editor_for_jupyter/)
-- [Zelda Inspired Game I am Making in Python &lpar;w/Boss Fight&rpar;](https://www.reddit.com/r/Python/comments/s0p2ry/zelda_inspired_game_i_am_making_in_python_wboss/)
 <!-- BLOG-POST-LIST:END -->
