@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrape Qwant Organic and Ad Results using Python](https://www.reddit.com/r/Python/comments/s0kxst/scrape_qwant_organic_and_ad_results_using_python/)
 - [Python PID Tuner](https://www.reddit.com/r/Python/comments/s0jnxi/python_pid_tuner/)
 - [Starlite: the little API framework that can](https://www.reddit.com/r/Python/comments/s0jgou/starlite_the_little_api_framework_that_can/)
 - [Which pip version is max supported to be useable with python 3.5](https://www.reddit.com/r/Python/comments/s0j7ao/which_pip_version_is_max_supported_to_be_useable/)
 - [✔ Python: How To Use Strings](https://www.reddit.com/r/Python/comments/s0j610/python_how_to_use_strings/)
-- [spotify &gt;&gt; mp3](https://www.reddit.com/r/Python/comments/s0ikqo/spotify_mp3/)
 <!-- BLOG-POST-LIST:END -->
