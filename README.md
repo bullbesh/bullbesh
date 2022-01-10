@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving Wordle Puzzles with Sets, Itertools and List Comprehensions](https://www.reddit.com/r/Python/comments/s0nejz/solving_wordle_puzzles_with_sets_itertools_and/)
 - [Is Python really the second best language for everything?](https://www.reddit.com/r/Python/comments/s0m4mt/is_python_really_the_second_best_language_for/)
 - [CLI with output style options?](https://www.reddit.com/r/Python/comments/s0lll8/cli_with_output_style_options/)
 - [Setup email monitoring alerts for Flask app on AWS with CloudWatch](https://www.reddit.com/r/Python/comments/s0l5zx/setup_email_monitoring_alerts_for_flask_app_on/)
 - [5 Ways To Use Python On An iPad](https://www.reddit.com/r/Python/comments/s0l4f8/5_ways_to_use_python_on_an_ipad/)
-- [Scrape Qwant Organic and Ad Results using Python](https://www.reddit.com/r/Python/comments/s0kxst/scrape_qwant_organic_and_ad_results_using_python/)
 <!-- BLOG-POST-LIST:END -->
