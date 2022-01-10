@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are the best practices for writing unit tests in data science projects?](https://www.reddit.com/r/Python/comments/s0fbkp/what_are_the_best_practices_for_writing_unit/)
 - [Learning Python 3 - Any advice is welcome](https://www.reddit.com/r/Python/comments/s0d44z/learning_python_3_any_advice_is_welcome/)
 - [Dj-Snake: Django command to load fixture without overriding existing objects with same primary key](https://www.reddit.com/r/Python/comments/s0con6/djsnake_django_command_to_load_fixture_without/)
 - [A tiny project - 3D Lenticular printing the Python Logo - Watch the Video to see the effect](https://www.reddit.com/r/Python/comments/s0c8bh/a_tiny_project_3d_lenticular_printing_the_python/)
 - [Simulating the fight Pella vs Rocinante &lpar;The Expanse Season 6 Episode 3&rpar;](https://www.reddit.com/r/Python/comments/s08lsq/simulating_the_fight_pella_vs_rocinante_the/)
-- [Netsave: semi-decentralized local network file backups](https://www.reddit.com/r/Python/comments/s08kch/netsave_semidecentralized_local_network_file/)
 <!-- BLOG-POST-LIST:END -->
