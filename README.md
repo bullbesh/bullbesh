@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [code for converting from binary to decimal](https://www.reddit.com/r/Python/comments/s08mr1/code_for_converting_from_binary_to_decimal/)
 - [Simulating the fight Pella vs Rocinante &lpar;The Expanse Season 6 Episode 3&rpar;](https://www.reddit.com/r/Python/comments/s08lsq/simulating_the_fight_pella_vs_rocinante_the/)
 - [Netsave: semi-decentralized local network file backups](https://www.reddit.com/r/Python/comments/s08kch/netsave_semidecentralized_local_network_file/)
 - [PythonInstitute](https://www.reddit.com/r/Python/comments/s07get/pythoninstitute/)
 - [made a number pyramid i think](https://www.reddit.com/r/Python/comments/s06b1j/made_a_number_pyramid_i_think/)
+- [Simple timeseries generation in Python with mockseries](https://www.reddit.com/r/Python/comments/s05s8i/simple_timeseries_generation_in_python_with/)
 <!-- BLOG-POST-LIST:END -->
