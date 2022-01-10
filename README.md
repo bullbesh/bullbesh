@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Storing info through functions](https://www.reddit.com/r/Python/comments/s0qbns/storing_info_through_functions/)
+- [I analyzed COVID headlines over time using AI, here&#39;s what I found](https://www.reddit.com/r/Python/comments/s0rx1r/i_analyzed_covid_headlines_over_time_using_ai/)
+- [Terminal App for Premier League Teams&#39; Schedules](https://www.reddit.com/r/Python/comments/s0r5dk/terminal_app_for_premier_league_teams_schedules/)
+- [Py3server: Python 3 API framework](https://www.reddit.com/r/Python/comments/s0qtf3/py3server_python_3_api_framework/)
 - [ipyflex - A WYSIWYG layout editor for Jupyter widgets](https://www.reddit.com/r/Python/comments/s0pial/ipyflex_a_wysiwyg_layout_editor_for_jupyter/)
 - [Zelda Inspired Game I am Making in Python &lpar;w/Boss Fight&rpar;](https://www.reddit.com/r/Python/comments/s0p2ry/zelda_inspired_game_i_am_making_in_python_wboss/)
-- [I’m starting to doubt that anyone can learn how to code](https://www.reddit.com/r/Python/comments/s0oqo7/im_starting_to_doubt_that_anyone_can_learn_how_to/)
-- [5 Streamlit Components To Build Better Applications](https://www.reddit.com/r/Python/comments/s0ofih/5_streamlit_components_to_build_better/)
 <!-- BLOG-POST-LIST:END -->
