@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [py_import_tree: Analyze the imports in your project: in which files, functions, classes they are used](https://www.reddit.com/r/Python/comments/s0tpl4/py_import_tree_analyze_the_imports_in_your/)
-- [An introduction to Python namespace packages](https://www.reddit.com/r/Python/comments/s0szwm/an_introduction_to_python_namespace_packages/)
-- [I analyzed COVID headlines over time using AI, here&#39;s what I found](https://www.reddit.com/r/Python/comments/s0rx1r/i_analyzed_covid_headlines_over_time_using_ai/)
-- [Terminal App for Premier League Teams&#39; Schedules](https://www.reddit.com/r/Python/comments/s0r5dk/terminal_app_for_premier_league_teams_schedules/)
-- [Py3server: Python 3 API framework](https://www.reddit.com/r/Python/comments/s0qtf3/py3server_python_3_api_framework/)
+- [soundless - Cross-platform audio files optimizer &lpar;FFmpeg + SoX&rpar;](https://www.reddit.com/r/Python/comments/s0vkpf/soundless_crossplatform_audio_files_optimizer/)
+- [made a binary to number conversion](https://www.reddit.com/r/Python/comments/s0vkji/made_a_binary_to_number_conversion/)
+- [My first python project, made in a couple of hours- a cli RSS reader with cron job and configurable URL- any feedback appreciated!](https://www.reddit.com/r/Python/comments/s0vfm0/my_first_python_project_made_in_a_couple_of_hours/)
+- [Emmett 2.4 Edison is out!](https://www.reddit.com/r/Python/comments/s0vckp/emmett_24_edison_is_out/)
+- [python on production using IIS pros vs cons](https://www.reddit.com/r/Python/comments/s0va0n/python_on_production_using_iis_pros_vs_cons/)
 <!-- BLOG-POST-LIST:END -->
