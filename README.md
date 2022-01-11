@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first real project!](https://www.reddit.com/r/Python/comments/s1bj8w/my_first_real_project/)
+- [Coercing JSONs](https://www.reddit.com/r/Python/comments/s1b5e7/coercing_jsons/)
+- [Profiling and Analyzing Performance of Python Programs](https://www.reddit.com/r/Python/comments/s1aqmt/profiling_and_analyzing_performance_of_python/)
 - [Help](https://www.reddit.com/r/Python/comments/s1aje2/help/)
 - [Directory structure for desktop application using PyQT5, PyQt Quick, qml files, and icons etc](https://www.reddit.com/r/Python/comments/s18sxw/directory_structure_for_desktop_application_using/)
-- [70 Completely Free Data Science Online Courses](https://www.reddit.com/r/Python/comments/s16wmy/70_completely_free_data_science_online_courses/)
-- [Joy is a tiny creative coding library in Python](https://www.reddit.com/r/Python/comments/s15kb4/joy_is_a_tiny_creative_coding_library_in_python/)
-- [What is the best site to learn python?](https://www.reddit.com/r/Python/comments/s159pu/what_is_the_best_site_to_learn_python/)
 <!-- BLOG-POST-LIST:END -->
