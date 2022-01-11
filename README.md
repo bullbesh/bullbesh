@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Help](https://www.reddit.com/r/Python/comments/s19oi5/help/)
+- [Help](https://www.reddit.com/r/Python/comments/s1aje2/help/)
 - [Directory structure for desktop application using PyQT5, PyQt Quick, qml files, and icons etc](https://www.reddit.com/r/Python/comments/s18sxw/directory_structure_for_desktop_application_using/)
 - [70 Completely Free Data Science Online Courses](https://www.reddit.com/r/Python/comments/s16wmy/70_completely_free_data_science_online_courses/)
 - [Joy is a tiny creative coding library in Python](https://www.reddit.com/r/Python/comments/s15kb4/joy_is_a_tiny_creative_coding_library_in_python/)
