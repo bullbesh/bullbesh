@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is the best Python Bootcamp course?](https://www.reddit.com/r/Python/comments/s11rf1/what_is_the_best_python_bootcamp_course/)
 - [Announce new library: pandas_dataframe_convert](https://www.reddit.com/r/Python/comments/s1026g/announce_new_library_pandas_dataframe_convert/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/s0ynbd/tuesday_daily_thread_advanced_questions/)
 - [I&#39;m working on a tool to simplify calculation for voltage dividers in circuits. It&#39;s early in development, but so far it can calculate a missing value using algebra, and tell you what resistors to use to get the output voltage you want. Feature suggestions and PRs welcome](https://www.reddit.com/r/Python/comments/s0wns6/im_working_on_a_tool_to_simplify_calculation_for/)
 - [soundless - Cross-platform audio files optimizer &lpar;FFmpeg + SoX&rpar;](https://www.reddit.com/r/Python/comments/s0vkpf/soundless_crossplatform_audio_files_optimizer/)
+- [made a binary to number conversion](https://www.reddit.com/r/Python/comments/s0vkji/made_a_binary_to_number_conversion/)
 <!-- BLOG-POST-LIST:END -->
