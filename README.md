@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help](https://www.reddit.com/r/Python/comments/s19oi5/help/)
 - [Directory structure for desktop application using PyQT5, PyQt Quick, qml files, and icons etc](https://www.reddit.com/r/Python/comments/s18sxw/directory_structure_for_desktop_application_using/)
 - [70 Completely Free Data Science Online Courses](https://www.reddit.com/r/Python/comments/s16wmy/70_completely_free_data_science_online_courses/)
 - [Joy is a tiny creative coding library in Python](https://www.reddit.com/r/Python/comments/s15kb4/joy_is_a_tiny_creative_coding_library_in_python/)
 - [What is the best site to learn python?](https://www.reddit.com/r/Python/comments/s159pu/what_is_the_best_site_to_learn_python/)
-- [Announce new library: pandas_dataframe_convert](https://www.reddit.com/r/Python/comments/s1026g/announce_new_library_pandas_dataframe_convert/)
 <!-- BLOG-POST-LIST:END -->
