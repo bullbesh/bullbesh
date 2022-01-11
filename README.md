@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [That time I optimized a Python program by 5000x](https://www.reddit.com/r/Python/comments/s1oqb7/that_time_i_optimized_a_python_program_by_5000x/)
 - [Project Atlas - São Paulo - A project for the development of rich geospatial data from the city of São Paulo for use in Machine Learning models &lpar;really great for learning Pyspark&rpar;](https://www.reddit.com/r/Python/comments/s1nfxv/project_atlas_são_paulo_a_project_for_the/)
 - [When should I start learning Django](https://www.reddit.com/r/Python/comments/s1n6u5/when_should_i_start_learning_django/)
 - [I finished Minesweeper!](https://www.reddit.com/r/Python/comments/s1ljcn/i_finished_minesweeper/)
 - [Django Consistency Model](https://www.reddit.com/r/Python/comments/s1klgp/django_consistency_model/)
-- [Expert Data Science Blueprint | The Secret behind Successful Data Scientist | Part 1 &lpar;of 15&rpar; | 12 hours full Data Science with Python course | Links to resources in comments](https://www.reddit.com/r/Python/comments/s1joel/expert_data_science_blueprint_the_secret_behind/)
 <!-- BLOG-POST-LIST:END -->
