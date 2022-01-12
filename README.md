@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there an ultimate list that includes every built-in commands in python with syntax and preferably a short example and explaination](https://www.reddit.com/r/Python/comments/s2b4so/is_there_an_ultimate_list_that_includes_every/)
 - [OOPs and Mocking Meet at Dependency Injection](https://www.reddit.com/r/Python/comments/s2a0cu/oops_and_mocking_meet_at_dependency_injection/)
 - [Send text messages for free using Python!](https://www.reddit.com/r/Python/comments/s29hqs/send_text_messages_for_free_using_python/)
 - [RFID Health tag - Arduino and Python &lpar;Tkinter&rpar; - Please feel free to drop in your opinions and suggestions](https://www.reddit.com/r/Python/comments/s28ige/rfid_health_tag_arduino_and_python_tkinter_please/)
 - [For Python developers - What&#39;s holding you back from Learning Blockchain Development?](https://www.reddit.com/r/Python/comments/s280u6/for_python_developers_whats_holding_you_back_from/)
-- [Exhaustive Union Matching in Python - Preferred Networks Research &amp; Development](https://www.reddit.com/r/Python/comments/s276r1/exhaustive_union_matching_in_python_preferred/)
 <!-- BLOG-POST-LIST:END -->
