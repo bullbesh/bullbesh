@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [featureclass - new way to organize your feature engineering code](https://www.reddit.com/r/Python/comments/s2df6t/featureclass_new_way_to_organize_your_feature/)
+- [Updating Pants BUILD files programmatically, using Bazel tooling](https://www.reddit.com/r/Python/comments/s2dewv/updating_pants_build_files_programmatically_using/)
 - [Python Weekend Warm-up exercise](https://www.reddit.com/r/Python/comments/s2coht/python_weekend_warmup_exercise/)
 - [SNMP Queries with PySNMP High-Level API](https://www.reddit.com/r/Python/comments/s2ci5n/snmp_queries_with_pysnmp_highlevel_api/)
 - [Is there an ultimate list that includes every built-in commands in python with syntax and preferably a short example and explaination](https://www.reddit.com/r/Python/comments/s2b4so/is_there_an_ultimate_list_that_includes_every/)
-- [OOPs and Mocking Meet at Dependency Injection](https://www.reddit.com/r/Python/comments/s2a0cu/oops_and_mocking_meet_at_dependency_injection/)
-- [Send text messages for free using Python!](https://www.reddit.com/r/Python/comments/s29hqs/send_text_messages_for_free_using_python/)
 <!-- BLOG-POST-LIST:END -->
