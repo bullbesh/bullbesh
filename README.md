@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Operators in Python - Lecture 3 | Python Course for Beginners](https://www.reddit.com/r/Python/comments/s27c40/operators_in_python_lecture_3_python_course_for/)
+- [Exhaustive Union Matching in Python - Preferred Networks Research &amp; Development](https://www.reddit.com/r/Python/comments/s276r1/exhaustive_union_matching_in_python_preferred/)
+- [Example of Event-driven architecture with Fastapi Kafka, Redis PubSub and Faust](https://www.reddit.com/r/Python/comments/s26gu4/example_of_eventdriven_architecture_with_fastapi/)
+- [My python template repository](https://www.reddit.com/r/Python/comments/s26e70/my_python_template_repository/)
 - [Entry Level Job with Python?](https://www.reddit.com/r/Python/comments/s25bjj/entry_level_job_with_python/)
-- [What is the best module/library for web scraping dynamic pages?](https://www.reddit.com/r/Python/comments/s23mgw/what_is_the_best_modulelibrary_for_web_scraping/)
-- [My first Flask App Hosted using Pythoneverywhere](https://www.reddit.com/r/Python/comments/s236gc/my_first_flask_app_hosted_using_pythoneverywhere/)
-- [Play Online Chess with Real Chessboard and Webcam](https://www.reddit.com/r/Python/comments/s22g2i/play_online_chess_with_real_chessboard_and_webcam/)
-- [How to work with Credentials and Configurations in Python](https://www.reddit.com/r/Python/comments/s22cdj/how_to_work_with_credentials_and_configurations/)
 <!-- BLOG-POST-LIST:END -->
