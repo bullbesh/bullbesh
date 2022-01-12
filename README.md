@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Entry Level Job with Python?](https://www.reddit.com/r/Python/comments/s25bjj/entry_level_job_with_python/)
 - [What is the best module/library for web scraping dynamic pages?](https://www.reddit.com/r/Python/comments/s23mgw/what_is_the_best_modulelibrary_for_web_scraping/)
 - [My first Flask App Hosted using Pythoneverywhere](https://www.reddit.com/r/Python/comments/s236gc/my_first_flask_app_hosted_using_pythoneverywhere/)
 - [Play Online Chess with Real Chessboard and Webcam](https://www.reddit.com/r/Python/comments/s22g2i/play_online_chess_with_real_chessboard_and_webcam/)
 - [How to work with Credentials and Configurations in Python](https://www.reddit.com/r/Python/comments/s22cdj/how_to_work_with_credentials_and_configurations/)
-- [Boolean operators in Python](https://www.reddit.com/r/Python/comments/s22akk/boolean_operators_in_python/)
 <!-- BLOG-POST-LIST:END -->
