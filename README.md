@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RFID Health tag - Arduino and Python &lpar;Tkinter&rpar; - Please feel free to drop in your opinions and suggestions](https://www.reddit.com/r/Python/comments/s28ige/rfid_health_tag_arduino_and_python_tkinter_please/)
+- [For Python developers - What&#39;s holding you back from Learning Blockchain Development?](https://www.reddit.com/r/Python/comments/s280u6/for_python_developers_whats_holding_you_back_from/)
+- [I have developed an online Python compiler](https://www.reddit.com/r/Python/comments/s27j8l/i_have_developed_an_online_python_compiler/)
 - [Operators in Python - Lecture 3 | Python Course for Beginners](https://www.reddit.com/r/Python/comments/s27c40/operators_in_python_lecture_3_python_course_for/)
 - [Exhaustive Union Matching in Python - Preferred Networks Research &amp; Development](https://www.reddit.com/r/Python/comments/s276r1/exhaustive_union_matching_in_python_preferred/)
-- [Example of Event-driven architecture with Fastapi Kafka, Redis PubSub and Faust](https://www.reddit.com/r/Python/comments/s26gu4/example_of_eventdriven_architecture_with_fastapi/)
-- [My python template repository](https://www.reddit.com/r/Python/comments/s26e70/my_python_template_repository/)
-- [Entry Level Job with Python?](https://www.reddit.com/r/Python/comments/s25bjj/entry_level_job_with_python/)
 <!-- BLOG-POST-LIST:END -->
