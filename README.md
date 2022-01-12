@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Began my first project for Python](https://www.reddit.com/r/Python/comments/s1u3e6/began_my_first_project_for_python/)
 - [ISO 639-1 Code for i18n](https://www.reddit.com/r/Python/comments/s1t4ob/iso_6391_code_for_i18n/)
 - [A simple Python package written using Rust and Pyo3 &lpar;XBRL XML to JSON/CSV parser&rpar;](https://www.reddit.com/r/Python/comments/s1sbaz/a_simple_python_package_written_using_rust_and/)
 - [LoL Senna Soul Calculator](https://www.reddit.com/r/Python/comments/s1s4wx/lol_senna_soul_calculator/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/s1rm7m/wednesday_daily_thread_beginner_questions/)
-- [That time I optimized a Python program by 5000x](https://www.reddit.com/r/Python/comments/s1oqb7/that_time_i_optimized_a_python_program_by_5000x/)
 <!-- BLOG-POST-LIST:END -->
