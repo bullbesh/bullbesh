@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ISO 639-1 Code for i18n](https://www.reddit.com/r/Python/comments/s1t4ob/iso_6391_code_for_i18n/)
+- [A simple Python package written using Rust and Pyo3 &lpar;XBRL XML to JSON/CSV parser&rpar;](https://www.reddit.com/r/Python/comments/s1sbaz/a_simple_python_package_written_using_rust_and/)
+- [LoL Senna Soul Calculator](https://www.reddit.com/r/Python/comments/s1s4wx/lol_senna_soul_calculator/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/s1rm7m/wednesday_daily_thread_beginner_questions/)
 - [That time I optimized a Python program by 5000x](https://www.reddit.com/r/Python/comments/s1oqb7/that_time_i_optimized_a_python_program_by_5000x/)
-- [Project Atlas - São Paulo - A project for the development of rich geospatial data from the city of São Paulo for use in Machine Learning models &lpar;really great for learning Pyspark&rpar;](https://www.reddit.com/r/Python/comments/s1nfxv/project_atlas_são_paulo_a_project_for_the/)
-- [When should I start learning Django](https://www.reddit.com/r/Python/comments/s1n6u5/when_should_i_start_learning_django/)
-- [I finished Minesweeper!](https://www.reddit.com/r/Python/comments/s1ljcn/i_finished_minesweeper/)
-- [Django Consistency Model](https://www.reddit.com/r/Python/comments/s1klgp/django_consistency_model/)
 <!-- BLOG-POST-LIST:END -->
