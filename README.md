@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m in school for web development currently and we are learning about object oriented programming. Is this what allows a program to have different outcomes or commands by selection?](https://www.reddit.com/r/Python/comments/s1wbfn/im_in_school_for_web_development_currently_and_we/)
 - [Began my first project for Python](https://www.reddit.com/r/Python/comments/s1u3e6/began_my_first_project_for_python/)
 - [ISO 639-1 Code for i18n](https://www.reddit.com/r/Python/comments/s1t4ob/iso_6391_code_for_i18n/)
 - [A simple Python package written using Rust and Pyo3 &lpar;XBRL XML to JSON/CSV parser&rpar;](https://www.reddit.com/r/Python/comments/s1sbaz/a_simple_python_package_written_using_rust_and/)
 - [LoL Senna Soul Calculator](https://www.reddit.com/r/Python/comments/s1s4wx/lol_senna_soul_calculator/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/s1rm7m/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
