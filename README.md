@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [XKCD | Python Environment](https://www.reddit.com/r/Python/comments/s20s8g/xkcd_python_environment/)
 - [I created a game bot that plays a game for me and collects rewards.](https://www.reddit.com/r/Python/comments/s1zy6v/i_created_a_game_bot_that_plays_a_game_for_me_and/)
 - [Real vs Fake Faces Classification | Deep Learning](https://www.reddit.com/r/Python/comments/s1zwi5/real_vs_fake_faces_classification_deep_learning/)
 - [Create a Face Mask Detector in 5 min with OpenCV | Keras | TensorFlow - Python and Deep Learning](https://www.reddit.com/r/Python/comments/s1z8it/create_a_face_mask_detector_in_5_min_with_opencv/)
 - [Learning HTTP Requests in Python](https://www.reddit.com/r/Python/comments/s1y1e0/learning_http_requests_in_python/)
-- [Began my first project for Python](https://www.reddit.com/r/Python/comments/s1u3e6/began_my_first_project_for_python/)
 <!-- BLOG-POST-LIST:END -->
