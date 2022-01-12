@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Photo Mosaic in Python](https://www.reddit.com/r/Python/comments/s2iky1/how_to_create_a_photo_mosaic_in_python/)
+- [increasing my knowledge on python](https://www.reddit.com/r/Python/comments/s2i8pq/increasing_my_knowledge_on_python/)
+- [WordPress to Wagtail CMS Migration Kit | Wagtail CMS](https://www.reddit.com/r/Python/comments/s2hbnc/wordpress_to_wagtail_cms_migration_kit_wagtail_cms/)
 - [A multilanguage dictionary made with Django.](https://www.reddit.com/r/Python/comments/s2g7hc/a_multilanguage_dictionary_made_with_django/)
 - [featureclass - new way to organize your feature engineering code](https://www.reddit.com/r/Python/comments/s2df6t/featureclass_new_way_to_organize_your_feature/)
-- [Updating Pants BUILD files programmatically, using Bazel tooling](https://www.reddit.com/r/Python/comments/s2dewv/updating_pants_build_files_programmatically_using/)
-- [SNMP Queries with PySNMP High-Level API](https://www.reddit.com/r/Python/comments/s2ci5n/snmp_queries_with_pysnmp_highlevel_api/)
-- [OOPs and Mocking Meet at Dependency Injection](https://www.reddit.com/r/Python/comments/s2a0cu/oops_and_mocking_meet_at_dependency_injection/)
 <!-- BLOG-POST-LIST:END -->
