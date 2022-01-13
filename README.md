@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/s2kxei/thursday_daily_thread_python_careers_courses_and/)
+- [Ever wonder&#39;s this.py module looks?](https://www.reddit.com/r/Python/comments/s2k4jw/ever_wonders_thispy_module_looks/)
 - [I wrote a script for Wordle](https://www.reddit.com/r/Python/comments/s2jfmu/i_wrote_a_script_for_wordle/)
 - [How to Create a Photo Mosaic in Python](https://www.reddit.com/r/Python/comments/s2iky1/how_to_create_a_photo_mosaic_in_python/)
-- [increasing my knowledge on python](https://www.reddit.com/r/Python/comments/s2i8pq/increasing_my_knowledge_on_python/)
 - [WordPress to Wagtail CMS Migration Kit | Wagtail CMS](https://www.reddit.com/r/Python/comments/s2hbnc/wordpress_to_wagtail_cms_migration_kit_wagtail_cms/)
-- [A multilanguage dictionary made with Django.](https://www.reddit.com/r/Python/comments/s2g7hc/a_multilanguage_dictionary_made_with_django/)
 <!-- BLOG-POST-LIST:END -->
