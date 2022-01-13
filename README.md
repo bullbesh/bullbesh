@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Release of IPython 8.0](https://www.reddit.com/r/Python/comments/s2mvsi/release_of_ipython_80/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/s2kxei/thursday_daily_thread_python_careers_courses_and/)
 - [Ever wonder&#39;s this.py module looks?](https://www.reddit.com/r/Python/comments/s2k4jw/ever_wonders_thispy_module_looks/)
 - [I wrote a script for Wordle](https://www.reddit.com/r/Python/comments/s2jfmu/i_wrote_a_script_for_wordle/)
 - [How to Create a Photo Mosaic in Python](https://www.reddit.com/r/Python/comments/s2iky1/how_to_create_a_photo_mosaic_in_python/)
-- [WordPress to Wagtail CMS Migration Kit | Wagtail CMS](https://www.reddit.com/r/Python/comments/s2hbnc/wordpress_to_wagtail_cms_migration_kit_wagtail_cms/)
 <!-- BLOG-POST-LIST:END -->
