@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Are you using SonarQube for Python?](https://www.reddit.com/r/Python/comments/s2w0vf/are_you_using_sonarqube_for_python/)
-- [How to Create a Face Mask Detector in 5 min with OpenCV | Keras | TensorFlow - Python and Deep Learning](https://www.reddit.com/r/Python/comments/s2vgcj/how_to_create_a_face_mask_detector_in_5_min_with/)
-- [Super Charged Marks Program](https://www.reddit.com/r/Python/comments/s2uti1/super_charged_marks_program/)
-- [45 Completely Free Machine Learning Online Courses](https://www.reddit.com/r/Python/comments/s2ubyk/45_completely_free_machine_learning_online_courses/)
-- [Apilytics free public beta now available for Python - Easy API analytics for Python backends](https://www.reddit.com/r/Python/comments/s2tp7l/apilytics_free_public_beta_now_available_for/)
+- [I made a CLI app to download music, supports mp3, flac and m4a files, embeds metadata and album art, can download songs, albums and playlists! All advice, critique and feedback is welcome ^w^](https://www.reddit.com/r/Python/comments/s2yft2/i_made_a_cli_app_to_download_music_supports_mp3/)
+- [Python strip&lpar;&rpar; – How to Trim a String or Line](https://www.reddit.com/r/Python/comments/s2yf0p/python_strip_how_to_trim_a_string_or_line/)
+- [Output generated random value into a text object in b3d](https://www.reddit.com/r/Python/comments/s2yahu/output_generated_random_value_into_a_text_object/)
+- [lazystore: store of values created on demand](https://www.reddit.com/r/Python/comments/s2xsnn/lazystore_store_of_values_created_on_demand/)
+- [Write JS using Python](https://www.reddit.com/r/Python/comments/s2xs02/write_js_using_python/)
 <!-- BLOG-POST-LIST:END -->
