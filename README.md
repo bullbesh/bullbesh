@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are you using SonarQube for Python?](https://www.reddit.com/r/Python/comments/s2w0vf/are_you_using_sonarqube_for_python/)
+- [How to Create a Face Mask Detector in 5 min with OpenCV | Keras | TensorFlow - Python and Deep Learning](https://www.reddit.com/r/Python/comments/s2vgcj/how_to_create_a_face_mask_detector_in_5_min_with/)
 - [Super Charged Marks Program](https://www.reddit.com/r/Python/comments/s2uti1/super_charged_marks_program/)
 - [45 Completely Free Machine Learning Online Courses](https://www.reddit.com/r/Python/comments/s2ubyk/45_completely_free_machine_learning_online_courses/)
 - [Apilytics free public beta now available for Python - Easy API analytics for Python backends](https://www.reddit.com/r/Python/comments/s2tp7l/apilytics_free_public_beta_now_available_for/)
-- [Morse Code Translator Project and File Handling Project](https://www.reddit.com/r/Python/comments/s2t9rb/morse_code_translator_project_and_file_handling/)
-- [An easy-to-use library to manage the dependencies of your GUI elements with IPython](https://www.reddit.com/r/Python/comments/s2sx7f/an_easytouse_library_to_manage_the_dependencies/)
 <!-- BLOG-POST-LIST:END -->
