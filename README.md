@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Super Charged Marks Program](https://www.reddit.com/r/Python/comments/s2uti1/super_charged_marks_program/)
 - [45 Completely Free Machine Learning Online Courses](https://www.reddit.com/r/Python/comments/s2ubyk/45_completely_free_machine_learning_online_courses/)
 - [Apilytics free public beta now available for Python - Easy API analytics for Python backends](https://www.reddit.com/r/Python/comments/s2tp7l/apilytics_free_public_beta_now_available_for/)
 - [Morse Code Translator Project and File Handling Project](https://www.reddit.com/r/Python/comments/s2t9rb/morse_code_translator_project_and_file_handling/)
 - [An easy-to-use library to manage the dependencies of your GUI elements with IPython](https://www.reddit.com/r/Python/comments/s2sx7f/an_easytouse_library_to_manage_the_dependencies/)
-- [Python Backend Dev Job Hunting Experience](https://www.reddit.com/r/Python/comments/s2s7zb/python_backend_dev_job_hunting_experience/)
 <!-- BLOG-POST-LIST:END -->
