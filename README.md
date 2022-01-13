@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatBot](https://www.reddit.com/r/Python/comments/s38n09/chatbot/)
 - [Generate customizable FastAPI projects for high-performance applications. Based on MVC, WSGI + ASGI with tests, pipeline, utilities, helm, and more.](https://www.reddit.com/r/Python/comments/s372fv/generate_customizable_fastapi_projects_for/)
 - [How to create a Face Mask Detector in 5 min with OpenCV | Keras | TensorFlow - Python and Deep Learning](https://www.reddit.com/r/Python/comments/s36mss/how_to_create_a_face_mask_detector_in_5_min_with/)
 - [Python JSON Parser](https://www.reddit.com/r/Python/comments/s36djq/python_json_parser/)
 - [CFP and Tickets are now available! | PyCon Italia 2022](https://www.reddit.com/r/Python/comments/s34pmm/cfp_and_tickets_are_now_available_pycon_italia/)
-- [Hey guys. I&#39;m writing a blog and I made a post about dispensing threads in batches. Would you mind taking a look and giving me recommendations on how to make it better?](https://www.reddit.com/r/Python/comments/s32oti/hey_guys_im_writing_a_blog_and_i_made_a_post/)
 <!-- BLOG-POST-LIST:END -->
