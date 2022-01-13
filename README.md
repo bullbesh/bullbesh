@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [After several days of trial and error, finally found the solution and it was so simple](https://www.reddit.com/r/Python/comments/s2z9j9/after_several_days_of_trial_and_error_finally/)
+- [Popularity index for a Python function](https://www.reddit.com/r/Python/comments/s2z0wf/popularity_index_for_a_python_function/)
+- [My first big project, Password Database, with Encryption tools, Password, Pin, and Encryption key generation. Verison 1.1](https://www.reddit.com/r/Python/comments/s2yjxc/my_first_big_project_password_database_with/)
 - [I made a CLI app to download music, supports mp3, flac and m4a files, embeds metadata and album art, can download songs, albums and playlists! All advice, critique and feedback is welcome ^w^](https://www.reddit.com/r/Python/comments/s2yft2/i_made_a_cli_app_to_download_music_supports_mp3/)
 - [Python strip&lpar;&rpar; – How to Trim a String or Line](https://www.reddit.com/r/Python/comments/s2yf0p/python_strip_how_to_trim_a_string_or_line/)
-- [Output generated random value into a text object in b3d](https://www.reddit.com/r/Python/comments/s2yahu/output_generated_random_value_into_a_text_object/)
-- [lazystore: store of values created on demand](https://www.reddit.com/r/Python/comments/s2xsnn/lazystore_store_of_values_created_on_demand/)
-- [Write JS using Python](https://www.reddit.com/r/Python/comments/s2xs02/write_js_using_python/)
 <!-- BLOG-POST-LIST:END -->
