@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Samila v0.4 : Auto Generative Art](https://www.reddit.com/r/Python/comments/s31ea7/samila_v04_auto_generative_art/)
+- [Problems with testing Python pre-releases and pip caching](https://www.reddit.com/r/Python/comments/s31e4a/problems_with_testing_python_prereleases_and_pip/)
 - [After several days of trial and error, finally found the solution and it was so simple](https://www.reddit.com/r/Python/comments/s2z9j9/after_several_days_of_trial_and_error_finally/)
 - [Popularity index for a Python function](https://www.reddit.com/r/Python/comments/s2z0wf/popularity_index_for_a_python_function/)
 - [My first big project, Password Database, with Encryption tools, Password, Pin, and Encryption key generation. Verison 1.1](https://www.reddit.com/r/Python/comments/s2yjxc/my_first_big_project_password_database_with/)
-- [I made a CLI app to download music, supports mp3, flac and m4a files, embeds metadata and album art, can download songs, albums and playlists! All advice, critique and feedback is welcome ^w^](https://www.reddit.com/r/Python/comments/s2yft2/i_made_a_cli_app_to_download_music_supports_mp3/)
-- [Python strip&lpar;&rpar; – How to Trim a String or Line](https://www.reddit.com/r/Python/comments/s2yf0p/python_strip_how_to_trim_a_string_or_line/)
 <!-- BLOG-POST-LIST:END -->
