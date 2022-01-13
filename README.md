@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A simple well-explained tutorial on how to use backend redis with Python to perform advanced database indexing, querying, searching, localization and more.](https://www.reddit.com/r/Python/comments/s3cd58/a_simple_wellexplained_tutorial_on_how_to_use/)
 - [br4nch 1.1.2 - Data Structure Tree Builder for Python.](https://www.reddit.com/r/Python/comments/s3aqp4/br4nch_112_data_structure_tree_builder_for_python/)
 - [Data structure for unstructured data in python - Docarray, a python library](https://www.reddit.com/r/Python/comments/s38x5p/data_structure_for_unstructured_data_in_python/)
 - [ChatBot](https://www.reddit.com/r/Python/comments/s38n09/chatbot/)
 - [Generate customizable FastAPI projects for high-performance applications. Based on MVC, WSGI + ASGI with tests, pipeline, utilities, helm, and more.](https://www.reddit.com/r/Python/comments/s372fv/generate_customizable_fastapi_projects_for/)
-- [How to create a Face Mask Detector in 5 min with OpenCV | Keras | TensorFlow - Python and Deep Learning](https://www.reddit.com/r/Python/comments/s36mss/how_to_create_a_face_mask_detector_in_5_min_with/)
 <!-- BLOG-POST-LIST:END -->
