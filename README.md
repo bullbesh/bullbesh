@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sockets for dummies](https://www.reddit.com/r/Python/comments/s3tuc7/sockets_for_dummies/)
+- [Has anyone used Python along with Github API to clone all repos their teams own?](https://www.reddit.com/r/Python/comments/s3tnbo/has_anyone_used_python_along_with_github_api_to/)
+- [Optimizing code, version 1 clearly faster under profiler, version 2 clearly faster without. Why?](https://www.reddit.com/r/Python/comments/s3tir0/optimizing_code_version_1_clearly_faster_under/)
 - [What is a normal pylint score and what is its significance?](https://www.reddit.com/r/Python/comments/s3sjiy/what_is_a_normal_pylint_score_and_what_is_its/)
 - [Crack Protected PDFs Using Python](https://www.reddit.com/r/Python/comments/s3pz66/crack_protected_pdfs_using_python/)
-- [Python is a hammer, and we are carpenters, building houses](https://www.reddit.com/r/Python/comments/s3pmg2/python_is_a_hammer_and_we_are_carpenters_building/)
-- [How to Setup PC to recognize playing cards detection &lpar; Anaconda - Python 3.7&rpar;](https://www.reddit.com/r/Python/comments/s3pb7s/how_to_setup_pc_to_recognize_playing_cards/)
-- [remember that old nokia snake game? well check out python!](https://www.reddit.com/r/Python/comments/s3p86x/remember_that_old_nokia_snake_game_well_check_out/)
 <!-- BLOG-POST-LIST:END -->
