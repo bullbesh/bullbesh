@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [borb, the pure Python PDF library](https://www.reddit.com/r/Python/comments/s3zkwn/borb_the_pure_python_pdf_library/)
 - [Uber Releases V1.1 of Orbit: A Python Package to Perform Bayesian Time-Series Analysis and Forecasting](https://www.reddit.com/r/Python/comments/s3y5b2/uber_releases_v11_of_orbit_a_python_package_to/)
 - [Will McGugan Weeknotes - Getting funded, multi point emojis, Python code generation](https://www.reddit.com/r/Python/comments/s3xrlp/will_mcgugan_weeknotes_getting_funded_multi_point/)
 - [Using Python and Beautiful Soup with Notion API](https://www.reddit.com/r/Python/comments/s3wqgd/using_python_and_beautiful_soup_with_notion_api/)
 - [How to predict the future using python](https://www.reddit.com/r/Python/comments/s3wngp/how_to_predict_the_future_using_python/)
-- [Is it really so important to have experience of working in big &lpar;5-10 people&rpar; developer teams?](https://www.reddit.com/r/Python/comments/s3wmce/is_it_really_so_important_to_have_experience_of/)
 <!-- BLOG-POST-LIST:END -->
