@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Python Concepts for Experienced Developers](https://www.reddit.com/r/Python/comments/s3oyil/advanced_python_concepts_for_experienced/)
+- [I trained OpenAI&#39;s GPT-2 on Discord Chats!](https://www.reddit.com/r/Python/comments/s3ovs8/i_trained_openais_gpt2_on_discord_chats/)
+- [sphinx-codeautolink 0.9.0: now with notebook support!](https://www.reddit.com/r/Python/comments/s3ot8q/sphinxcodeautolink_090_now_with_notebook_support/)
+- [Redis OM lets you use Redis as a main DB and validate models using Pydantic](https://www.reddit.com/r/Python/comments/s3oeci/redis_om_lets_you_use_redis_as_a_main_db_and/)
 - [Small library to parse UK postcodes](https://www.reddit.com/r/Python/comments/s3nv2t/small_library_to_parse_uk_postcodes/)
-- [Is it okay to use multiple existing python libraries to create a simplified library?](https://www.reddit.com/r/Python/comments/s3nogh/is_it_okay_to_use_multiple_existing_python/)
-- [Working with Python functions](https://www.reddit.com/r/Python/comments/s3lvkb/working_with_python_functions/)
-- [Alternatives to \+, not&lpar;&rpar;, and -](https://www.reddit.com/r/Python/comments/s3kdnx/alternatives_to_not_and/)
-- [Pong Game – A new concept of playing pong - [project]](https://www.reddit.com/r/Python/comments/s3k41b/pong_game_a_new_concept_of_playing_pong_project/)
 <!-- BLOG-POST-LIST:END -->
