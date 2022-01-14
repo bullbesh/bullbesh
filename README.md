@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Small library to parse UK postcodes](https://www.reddit.com/r/Python/comments/s3nv2t/small_library_to_parse_uk_postcodes/)
+- [Is it okay to use multiple existing python libraries to create a simplified library?](https://www.reddit.com/r/Python/comments/s3nogh/is_it_okay_to_use_multiple_existing_python/)
 - [Working with Python functions](https://www.reddit.com/r/Python/comments/s3lvkb/working_with_python_functions/)
 - [Alternatives to \+, not&lpar;&rpar;, and -](https://www.reddit.com/r/Python/comments/s3kdnx/alternatives_to_not_and/)
 - [Pong Game – A new concept of playing pong - [project]](https://www.reddit.com/r/Python/comments/s3k41b/pong_game_a_new_concept_of_playing_pong_project/)
-- [Meeting programmers tomorrow -- what to ask them?](https://www.reddit.com/r/Python/comments/s3eylm/meeting_programmers_tomorrow_what_to_ask_them/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/s3dlbx/friday_daily_thread_free_chat_friday_daily_thread/)
 <!-- BLOG-POST-LIST:END -->
