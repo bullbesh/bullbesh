@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first open-source package on PyPI: `spectrumdevice`, a high-level, object-oriented library for controlling Spectrum Instruments digitisers. A bit of a niche one!](https://www.reddit.com/r/Python/comments/s3vid3/my_first_opensource_package_on_pypi/)
+- [Master Dataclasses in Python Part 4 - Immutable Dataclasses](https://www.reddit.com/r/Python/comments/s3uvzb/master_dataclasses_in_python_part_4_immutable/)
 - [Sockets for dummies](https://www.reddit.com/r/Python/comments/s3tuc7/sockets_for_dummies/)
 - [Has anyone used Python along with Github API to clone all repos their teams own?](https://www.reddit.com/r/Python/comments/s3tnbo/has_anyone_used_python_along_with_github_api_to/)
 - [Optimizing code, version 1 clearly faster under profiler, version 2 clearly faster without. Why?](https://www.reddit.com/r/Python/comments/s3tir0/optimizing_code_version_1_clearly_faster_under/)
-- [What is a normal pylint score and what is its significance?](https://www.reddit.com/r/Python/comments/s3sjiy/what_is_a_normal_pylint_score_and_what_is_its/)
-- [Crack Protected PDFs Using Python](https://www.reddit.com/r/Python/comments/s3pz66/crack_protected_pdfs_using_python/)
 <!-- BLOG-POST-LIST:END -->
