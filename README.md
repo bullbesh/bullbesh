@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Python and Beautiful Soup with Notion API](https://www.reddit.com/r/Python/comments/s3wqgd/using_python_and_beautiful_soup_with_notion_api/)
+- [Is it really so important to have experience of working in big &lpar;5-10 people&rpar; developer teams?](https://www.reddit.com/r/Python/comments/s3wmce/is_it_really_so_important_to_have_experience_of/)
 - [My first open-source package on PyPI: `spectrumdevice`, a high-level, object-oriented library for controlling Spectrum Instruments digitisers. A bit of a niche one!](https://www.reddit.com/r/Python/comments/s3vid3/my_first_opensource_package_on_pypi/)
 - [Master Dataclasses in Python Part 4 - Immutable Dataclasses](https://www.reddit.com/r/Python/comments/s3uvzb/master_dataclasses_in_python_part_4_immutable/)
 - [Sockets for dummies](https://www.reddit.com/r/Python/comments/s3tuc7/sockets_for_dummies/)
-- [Has anyone used Python along with Github API to clone all repos their teams own?](https://www.reddit.com/r/Python/comments/s3tnbo/has_anyone_used_python_along_with_github_api_to/)
-- [Optimizing code, version 1 clearly faster under profiler, version 2 clearly faster without. Why?](https://www.reddit.com/r/Python/comments/s3tir0/optimizing_code_version_1_clearly_faster_under/)
 <!-- BLOG-POST-LIST:END -->
