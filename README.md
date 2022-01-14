@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Crack Protected PDFs Using Python](https://www.reddit.com/r/Python/comments/s3pz66/crack_protected_pdfs_using_python/)
+- [Python is a hammer, and we are carpenters, building houses](https://www.reddit.com/r/Python/comments/s3pmg2/python_is_a_hammer_and_we_are_carpenters_building/)
+- [How to Setup PC to recognize playing cards detection &lpar; Anaconda - Python 3.7&rpar;](https://www.reddit.com/r/Python/comments/s3pb7s/how_to_setup_pc_to_recognize_playing_cards/)
+- [remember that old nokia snake game? well check out python!](https://www.reddit.com/r/Python/comments/s3p86x/remember_that_old_nokia_snake_game_well_check_out/)
 - [Advanced Python Concepts for Experienced Developers](https://www.reddit.com/r/Python/comments/s3oyil/advanced_python_concepts_for_experienced/)
-- [I trained OpenAI&#39;s GPT-2 on Discord Chats!](https://www.reddit.com/r/Python/comments/s3ovs8/i_trained_openais_gpt2_on_discord_chats/)
-- [sphinx-codeautolink 0.9.0: now with notebook support!](https://www.reddit.com/r/Python/comments/s3ot8q/sphinxcodeautolink_090_now_with_notebook_support/)
-- [Redis OM lets you use Redis as a main DB and validate models using Pydantic](https://www.reddit.com/r/Python/comments/s3oeci/redis_om_lets_you_use_redis_as_a_main_db_and/)
-- [Small library to parse UK postcodes](https://www.reddit.com/r/Python/comments/s3nv2t/small_library_to_parse_uk_postcodes/)
 <!-- BLOG-POST-LIST:END -->
