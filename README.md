@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Uber Releases V1.1 of Orbit: A Python Package to Perform Bayesian Time-Series Analysis and Forecasting](https://www.reddit.com/r/Python/comments/s3y5b2/uber_releases_v11_of_orbit_a_python_package_to/)
+- [Will McGugan Weeknotes - Getting funded, multi point emojis, Python code generation](https://www.reddit.com/r/Python/comments/s3xrlp/will_mcgugan_weeknotes_getting_funded_multi_point/)
 - [Using Python and Beautiful Soup with Notion API](https://www.reddit.com/r/Python/comments/s3wqgd/using_python_and_beautiful_soup_with_notion_api/)
+- [How to predict the future using python](https://www.reddit.com/r/Python/comments/s3wngp/how_to_predict_the_future_using_python/)
 - [Is it really so important to have experience of working in big &lpar;5-10 people&rpar; developer teams?](https://www.reddit.com/r/Python/comments/s3wmce/is_it_really_so_important_to_have_experience_of/)
-- [My first open-source package on PyPI: `spectrumdevice`, a high-level, object-oriented library for controlling Spectrum Instruments digitisers. A bit of a niche one!](https://www.reddit.com/r/Python/comments/s3vid3/my_first_opensource_package_on_pypi/)
-- [Master Dataclasses in Python Part 4 - Immutable Dataclasses](https://www.reddit.com/r/Python/comments/s3uvzb/master_dataclasses_in_python_part_4_immutable/)
-- [Sockets for dummies](https://www.reddit.com/r/Python/comments/s3tuc7/sockets_for_dummies/)
 <!-- BLOG-POST-LIST:END -->
