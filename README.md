@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [what is that one project you did after learning OOPs that made you feel like, you know OOPs to a point where you can move forward with other things now??](https://www.reddit.com/r/Python/comments/s42c28/what_is_that_one_project_you_did_after_learning/)
-- [Asking for suggestions to a web app using python](https://www.reddit.com/r/Python/comments/s40yxs/asking_for_suggestions_to_a_web_app_using_python/)
-- [borb, the pure Python PDF library](https://www.reddit.com/r/Python/comments/s3zkwn/borb_the_pure_python_pdf_library/)
+- [GitHub - fossunited/joy: Joy is a tiny creative coding library in Python.](https://www.reddit.com/r/Python/comments/s42yo4/github_fossunitedjoy_joy_is_a_tiny_creative/)
 - [Uber Releases V1.1 of Orbit: A Python Package to Perform Bayesian Time-Series Analysis and Forecasting](https://www.reddit.com/r/Python/comments/s3y5b2/uber_releases_v11_of_orbit_a_python_package_to/)
 - [Will McGugan Weeknotes - Getting funded, multi point emojis, Python code generation](https://www.reddit.com/r/Python/comments/s3xrlp/will_mcgugan_weeknotes_getting_funded_multi_point/)
+- [Using Python and Beautiful Soup with Notion API](https://www.reddit.com/r/Python/comments/s3wqgd/using_python_and_beautiful_soup_with_notion_api/)
+- [How to predict the future using python](https://www.reddit.com/r/Python/comments/s3wngp/how_to_predict_the_future_using_python/)
 <!-- BLOG-POST-LIST:END -->
