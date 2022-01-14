@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is a normal pylint score and what is its significance?](https://www.reddit.com/r/Python/comments/s3sjiy/what_is_a_normal_pylint_score_and_what_is_its/)
 - [Crack Protected PDFs Using Python](https://www.reddit.com/r/Python/comments/s3pz66/crack_protected_pdfs_using_python/)
 - [Python is a hammer, and we are carpenters, building houses](https://www.reddit.com/r/Python/comments/s3pmg2/python_is_a_hammer_and_we_are_carpenters_building/)
 - [How to Setup PC to recognize playing cards detection &lpar; Anaconda - Python 3.7&rpar;](https://www.reddit.com/r/Python/comments/s3pb7s/how_to_setup_pc_to_recognize_playing_cards/)
 - [remember that old nokia snake game? well check out python!](https://www.reddit.com/r/Python/comments/s3p86x/remember_that_old_nokia_snake_game_well_check_out/)
-- [Advanced Python Concepts for Experienced Developers](https://www.reddit.com/r/Python/comments/s3oyil/advanced_python_concepts_for_experienced/)
 <!-- BLOG-POST-LIST:END -->
