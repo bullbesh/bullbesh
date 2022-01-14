@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with Python functions](https://www.reddit.com/r/Python/comments/s3lvkb/working_with_python_functions/)
 - [Alternatives to \+, not&lpar;&rpar;, and -](https://www.reddit.com/r/Python/comments/s3kdnx/alternatives_to_not_and/)
 - [Pong Game – A new concept of playing pong - [project]](https://www.reddit.com/r/Python/comments/s3k41b/pong_game_a_new_concept_of_playing_pong_project/)
 - [Meeting programmers tomorrow -- what to ask them?](https://www.reddit.com/r/Python/comments/s3eylm/meeting_programmers_tomorrow_what_to_ask_them/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/s3dlbx/friday_daily_thread_free_chat_friday_daily_thread/)
-- [A simple well-explained tutorial on how to use backend redis with Python to perform advanced database indexing, querying, searching, localization and more.](https://www.reddit.com/r/Python/comments/s3cd58/a_simple_wellexplained_tutorial_on_how_to_use/)
 <!-- BLOG-POST-LIST:END -->
