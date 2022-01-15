@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Guide Of Python File Handling](https://www.reddit.com/r/Python/comments/s4h8pc/guide_of_python_file_handling/)
+- [Automate Google Python](https://www.reddit.com/r/Python/comments/s4h8mf/automate_google_python/)
+- [Python 3.10.2, 3.9.10, and 3.11.0a4 are now available](https://www.reddit.com/r/Python/comments/s4gv4v/python_3102_3910_and_3110a4_are_now_available/)
+- [New IPython defaults makes it less useful for education purposes. [Raymond Hettinger on Twitter]](https://www.reddit.com/r/Python/comments/s4gktu/new_ipython_defaults_makes_it_less_useful_for/)
 - [New](https://www.reddit.com/r/Python/comments/s4gcsm/new/)
-- [How to easily find basic Support and Resistance levels on your favorite stocks using Python](https://www.reddit.com/r/Python/comments/s4fexd/how_to_easily_find_basic_support_and_resistance/)
-- [Python Insider: Python 3.10.2, 3.9.10, and 3.11.0a4 are now available](https://www.reddit.com/r/Python/comments/s4adwp/python_insider_python_3102_3910_and_3110a4_are/)
-- [Do you recommend Django or Masonite for high-traffic web applications?](https://www.reddit.com/r/Python/comments/s4732k/do_you_recommend_django_or_masonite_for/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/s46hnd/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
