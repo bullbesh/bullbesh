@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Algorithms and Data Structures FREE COURSE || Recursion || THE ONLY RECURSION VIDEO YOU WILL EVER NEED](https://www.reddit.com/r/Python/comments/s4nub2/algorithms_and_data_structures_free_course/)
+- [A simple but highly configurable text editor for Linux &lpar;mili v0.0.1&rpar;](https://www.reddit.com/r/Python/comments/s4mocv/a_simple_but_highly_configurable_text_editor_for/)
 - [Is Spring Python dead?](https://www.reddit.com/r/Python/comments/s4lpws/is_spring_python_dead/)
 - [I made a pretty lazy script to move all nested files in a directory to the top or to another.](https://www.reddit.com/r/Python/comments/s4kp1u/i_made_a_pretty_lazy_script_to_move_all_nested/)
 - [Collection of Python tools for steganography](https://www.reddit.com/r/Python/comments/s4k175/collection_of_python_tools_for_steganography/)
-- [Python program to do normal tasks like sending mails, searching something, opening YouTube with voice commands.](https://www.reddit.com/r/Python/comments/s4iw92/python_program_to_do_normal_tasks_like_sending/)
-- [Build Your First CLI Application With Typer](https://www.reddit.com/r/Python/comments/s4iqix/build_your_first_cli_application_with_typer/)
 <!-- BLOG-POST-LIST:END -->
