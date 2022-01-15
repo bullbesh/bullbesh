@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Namespaces and Scope in Python-InsideAIML](https://www.reddit.com/r/Python/comments/s4hqai/namespaces_and_scope_in_pythoninsideaiml/)
+- [Software Dev or machine learning?](https://www.reddit.com/r/Python/comments/s4hnn3/software_dev_or_machine_learning/)
 - [Guide Of Python File Handling](https://www.reddit.com/r/Python/comments/s4h8pc/guide_of_python_file_handling/)
 - [Automate Google Python](https://www.reddit.com/r/Python/comments/s4h8mf/automate_google_python/)
 - [Python 3.10.2, 3.9.10, and 3.11.0a4 are now available](https://www.reddit.com/r/Python/comments/s4gv4v/python_3102_3910_and_3110a4_are_now_available/)
-- [New IPython defaults makes it less useful for education purposes. [Raymond Hettinger on Twitter]](https://www.reddit.com/r/Python/comments/s4gktu/new_ipython_defaults_makes_it_less_useful_for/)
-- [New](https://www.reddit.com/r/Python/comments/s4gcsm/new/)
 <!-- BLOG-POST-LIST:END -->
