@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python program to do normal tasks like sending mails, searching something, opening YouTube with voice commands.](https://www.reddit.com/r/Python/comments/s4iw92/python_program_to_do_normal_tasks_like_sending/)
+- [Build Your First CLI Application With Typer](https://www.reddit.com/r/Python/comments/s4iqix/build_your_first_cli_application_with_typer/)
+- [How to Extract Saved WiFi Passwords In Python](https://www.reddit.com/r/Python/comments/s4im0g/how_to_extract_saved_wifi_passwords_in_python/)
+- [Python video. It is very interesting](https://www.reddit.com/r/Python/comments/s4iies/python_video_it_is_very_interesting/)
 - [Namespaces and Scope in Python-InsideAIML](https://www.reddit.com/r/Python/comments/s4hqai/namespaces_and_scope_in_pythoninsideaiml/)
-- [Software Dev or machine learning?](https://www.reddit.com/r/Python/comments/s4hnn3/software_dev_or_machine_learning/)
-- [Guide Of Python File Handling](https://www.reddit.com/r/Python/comments/s4h8pc/guide_of_python_file_handling/)
-- [Automate Google Python](https://www.reddit.com/r/Python/comments/s4h8mf/automate_google_python/)
-- [Python 3.10.2, 3.9.10, and 3.11.0a4 are now available](https://www.reddit.com/r/Python/comments/s4gv4v/python_3102_3910_and_3110a4_are_now_available/)
 <!-- BLOG-POST-LIST:END -->
