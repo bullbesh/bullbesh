@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Translate Simulink model to Python](https://www.reddit.com/r/Python/comments/s4szub/translate_simulink_model_to_python/)
 - [CSM Token grabb](https://www.reddit.com/r/Python/comments/s4qxva/csm_token_grabb/)
 - [OOP in Python](https://www.reddit.com/r/Python/comments/s4qw8d/oop_in_python/)
 - [ElonBot](https://www.reddit.com/r/Python/comments/s4qw0i/elonbot/)
 - [Biopython · Python Tools for Computational Molecular Biology](https://www.reddit.com/r/Python/comments/s4qjkv/biopython_python_tools_for_computational/)
+- [Created an ISS tracking script using NASA&#39;s API](https://www.reddit.com/r/Python/comments/s4qa7k/created_an_iss_tracking_script_using_nasas_api/)
 <!-- BLOG-POST-LIST:END -->
