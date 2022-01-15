@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to easily find basic Support and Resistance levels on your favorite stocks using Python](https://www.reddit.com/r/Python/comments/s4fexd/how_to_easily_find_basic_support_and_resistance/)
 - [Python Insider: Python 3.10.2, 3.9.10, and 3.11.0a4 are now available](https://www.reddit.com/r/Python/comments/s4adwp/python_insider_python_3102_3910_and_3110a4_are/)
 - [Do you recommend Django or Masonite for high-traffic web applications?](https://www.reddit.com/r/Python/comments/s4732k/do_you_recommend_django_or_masonite_for/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/s46hnd/saturday_daily_thread_resource_request_and/)
 - [GitHub - fossunited/joy: Joy is a tiny creative coding library in Python.](https://www.reddit.com/r/Python/comments/s42yo4/github_fossunitedjoy_joy_is_a_tiny_creative/)
-- [Uber Releases V1.1 of Orbit: A Python Package to Perform Bayesian Time-Series Analysis and Forecasting](https://www.reddit.com/r/Python/comments/s3y5b2/uber_releases_v11_of_orbit_a_python_package_to/)
 <!-- BLOG-POST-LIST:END -->
