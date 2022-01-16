@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [made a script to scrape memes and turn them into a video compilation](https://www.reddit.com/r/Python/comments/s5do8j/made_a_script_to_scrape_memes_and_turn_them_into/)
+- [how do I return Max Test result + Student name from an excel dataset?](https://www.reddit.com/r/Python/comments/s5dddg/how_do_i_return_max_test_result_student_name_from/)
+- [I am going to release Blacksmith 1.0 soon](https://www.reddit.com/r/Python/comments/s5cywx/i_am_going_to_release_blacksmith_10_soon/)
 - [Difference between a template empty class and an abstract base class](https://www.reddit.com/r/Python/comments/s5bdid/difference_between_a_template_empty_class_and_an/)
 - [Easily analyze your favorite stocks using Python](https://www.reddit.com/r/Python/comments/s5a4e3/easily_analyze_your_favorite_stocks_using_python/)
-- [decfunc - a library to create decorators in a simple way, using classes](https://www.reddit.com/r/Python/comments/s59xtl/decfunc_a_library_to_create_decorators_in_a/)
-- [Free online version of Humanities Data Analysis: Case Studies with Python](https://www.reddit.com/r/Python/comments/s596ji/free_online_version_of_humanities_data_analysis/)
-- [How to build your own hashmap using Python](https://www.reddit.com/r/Python/comments/s58ftv/how_to_build_your_own_hashmap_using_python/)
 <!-- BLOG-POST-LIST:END -->
