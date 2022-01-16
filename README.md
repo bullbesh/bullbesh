@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Development in Python - Flask vs Django](https://www.reddit.com/r/Python/comments/s5keaq/web_development_in_python_flask_vs_django/)
+- [IDE, what IDE?](https://www.reddit.com/r/Python/comments/s5k5lt/ide_what_ide/)
+- [Python bytecode explained](https://www.reddit.com/r/Python/comments/s5jtlp/python_bytecode_explained/)
 - [A 15-Part Video Series Using Data Science for Media Bias Detection!](https://www.reddit.com/r/Python/comments/s5j3vg/a_15part_video_series_using_data_science_for/)
 - [I Made an AI Develop Its Own Language](https://www.reddit.com/r/Python/comments/s5iyhp/i_made_an_ai_develop_its_own_language/)
-- [Paycord - Paid role for Discord using Flask, Docker, Stripe, TinyDB &amp; Tailwind](https://www.reddit.com/r/Python/comments/s5itr9/paycord_paid_role_for_discord_using_flask_docker/)
-- [Open source tool to debug any Python application running on Kubernetes clouds in 60 seconds](https://www.reddit.com/r/Python/comments/s5ihm4/open_source_tool_to_debug_any_python_application/)
-- [Secrets of MicroPython 4: How to detect motion](https://www.reddit.com/r/Python/comments/s5eyqc/secrets_of_micropython_4_how_to_detect_motion/)
 <!-- BLOG-POST-LIST:END -->
