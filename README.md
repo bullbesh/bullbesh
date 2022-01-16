@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Guys can u help me out with this problem](https://www.reddit.com/r/Python/comments/s5f39j/guys_can_u_help_me_out_with_this_problem/)
+- [Secrets of MicroPython 4: How to detect motion](https://www.reddit.com/r/Python/comments/s5eyqc/secrets_of_micropython_4_how_to_detect_motion/)
+- [I look for a &quot;Rosetta&quot; documentation to found correspondence between languages tooling](https://www.reddit.com/r/Python/comments/s5euz6/i_look_for_a_rosetta_documentation_to_found/)
+- [New Comer](https://www.reddit.com/r/Python/comments/s5e9k9/new_comer/)
 - [made a script to scrape memes and turn them into a video compilation](https://www.reddit.com/r/Python/comments/s5do8j/made_a_script_to_scrape_memes_and_turn_them_into/)
-- [how do I return Max Test result + Student name from an excel dataset?](https://www.reddit.com/r/Python/comments/s5dddg/how_do_i_return_max_test_result_student_name_from/)
-- [I am going to release Blacksmith 1.0 soon](https://www.reddit.com/r/Python/comments/s5cywx/i_am_going_to_release_blacksmith_10_soon/)
-- [Difference between a template empty class and an abstract base class](https://www.reddit.com/r/Python/comments/s5bdid/difference_between_a_template_empty_class_and_an/)
-- [Easily analyze your favorite stocks using Python](https://www.reddit.com/r/Python/comments/s5a4e3/easily_analyze_your_favorite_stocks_using_python/)
 <!-- BLOG-POST-LIST:END -->
