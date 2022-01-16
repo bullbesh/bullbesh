@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jupyter docker server for LAN access](https://www.reddit.com/r/Python/comments/s5oe9y/jupyter_docker_server_for_lan_access/)
 - [br4nch 1.1.3 - Data Structure Tree Builder for Python.](https://www.reddit.com/r/Python/comments/s5mzdw/br4nch_113_data_structure_tree_builder_for_python/)
 - [Web Development in Python - Flask vs Django](https://www.reddit.com/r/Python/comments/s5keaq/web_development_in_python_flask_vs_django/)
 - [Python bytecode explained](https://www.reddit.com/r/Python/comments/s5jtlp/python_bytecode_explained/)
 - [A 15-Part Video Series Using Data Science for Media Bias Detection!](https://www.reddit.com/r/Python/comments/s5j3vg/a_15part_video_series_using_data_science_for/)
-- [I Made an AI Develop Its Own Language](https://www.reddit.com/r/Python/comments/s5iyhp/i_made_an_ai_develop_its_own_language/)
 <!-- BLOG-POST-LIST:END -->
