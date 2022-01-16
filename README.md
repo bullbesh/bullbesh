@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/s4y4kk/sunday_daily_thread_whats_everyone_working_on/)
 - [Space Science with Python - Part 22: Comet in 3D](https://www.reddit.com/r/Python/comments/s4wvj0/space_science_with_python_part_22_comet_in_3d/)
 - [CSM Token grabb](https://www.reddit.com/r/Python/comments/s4qxva/csm_token_grabb/)
 - [OOP in Python](https://www.reddit.com/r/Python/comments/s4qw8d/oop_in_python/)
 - [ElonBot](https://www.reddit.com/r/Python/comments/s4qw0i/elonbot/)
-- [Biopython · Python Tools for Computational Molecular Biology](https://www.reddit.com/r/Python/comments/s4qjkv/biopython_python_tools_for_computational/)
 <!-- BLOG-POST-LIST:END -->
