@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why this Syntax Error in IDLE](https://www.reddit.com/r/Python/comments/s5g06x/why_this_syntax_error_in_idle/)
 - [Guys can u help me out with this problem](https://www.reddit.com/r/Python/comments/s5f39j/guys_can_u_help_me_out_with_this_problem/)
 - [Secrets of MicroPython 4: How to detect motion](https://www.reddit.com/r/Python/comments/s5eyqc/secrets_of_micropython_4_how_to_detect_motion/)
 - [I look for a &quot;Rosetta&quot; documentation to found correspondence between languages tooling](https://www.reddit.com/r/Python/comments/s5euz6/i_look_for_a_rosetta_documentation_to_found/)
 - [New Comer](https://www.reddit.com/r/Python/comments/s5e9k9/new_comer/)
-- [made a script to scrape memes and turn them into a video compilation](https://www.reddit.com/r/Python/comments/s5do8j/made_a_script_to_scrape_memes_and_turn_them_into/)
 <!-- BLOG-POST-LIST:END -->
