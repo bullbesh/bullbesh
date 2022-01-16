@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just launched a webapp in Python, a JSON pastebin service called WST!](https://www.reddit.com/r/Python/comments/s50qvw/i_just_launched_a_webapp_in_python_a_json/)
+- [Grab your Digital Copy of The TensorFlow Workshop Now](https://www.reddit.com/r/Python/comments/s50h70/grab_your_digital_copy_of_the_tensorflow_workshop/)
+- [py-buzz 3.0 released! Now you can use buzz features with any exception type](https://www.reddit.com/r/Python/comments/s509dc/pybuzz_30_released_now_you_can_use_buzz_features/)
+- [Just made my very first pip package :&rpar;](https://www.reddit.com/r/Python/comments/s4zxe1/just_made_my_very_first_pip_package/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/s4y4kk/sunday_daily_thread_whats_everyone_working_on/)
-- [Space Science with Python - Part 22: Comet in 3D](https://www.reddit.com/r/Python/comments/s4wvj0/space_science_with_python_part_22_comet_in_3d/)
-- [CSM Token grabb](https://www.reddit.com/r/Python/comments/s4qxva/csm_token_grabb/)
-- [OOP in Python](https://www.reddit.com/r/Python/comments/s4qw8d/oop_in_python/)
-- [ElonBot](https://www.reddit.com/r/Python/comments/s4qw0i/elonbot/)
 <!-- BLOG-POST-LIST:END -->
