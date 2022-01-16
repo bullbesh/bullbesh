@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Difference between a template empty class and an abstract base class](https://www.reddit.com/r/Python/comments/s5bdid/difference_between_a_template_empty_class_and_an/)
 - [Easily analyze your favorite stocks using Python](https://www.reddit.com/r/Python/comments/s5a4e3/easily_analyze_your_favorite_stocks_using_python/)
 - [decfunc - a library to create decorators in a simple way, using classes](https://www.reddit.com/r/Python/comments/s59xtl/decfunc_a_library_to_create_decorators_in_a/)
 - [Free online version of Humanities Data Analysis: Case Studies with Python](https://www.reddit.com/r/Python/comments/s596ji/free_online_version_of_humanities_data_analysis/)
 - [How to build your own hashmap using Python](https://www.reddit.com/r/Python/comments/s58ftv/how_to_build_your_own_hashmap_using_python/)
-- [GitHub - opsdisk/yagooglesearch: Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches.](https://www.reddit.com/r/Python/comments/s58f5r/github_opsdiskyagooglesearch_yet_another/)
 <!-- BLOG-POST-LIST:END -->
