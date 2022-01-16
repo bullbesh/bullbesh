@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What are your development practices when starting a new project?](https://www.reddit.com/r/Python/comments/s5hkd1/what_are_your_development_practices_when_starting/)
-- [do you think -Coursera certificate- is worth getting?](https://www.reddit.com/r/Python/comments/s5hbv0/do_you_think_coursera_certificate_is_worth_getting/)
-- [Why this Syntax Error in IDLE](https://www.reddit.com/r/Python/comments/s5g06x/why_this_syntax_error_in_idle/)
+- [A 15-Part Video Series Using Data Science for Media Bias Detection!](https://www.reddit.com/r/Python/comments/s5j3vg/a_15part_video_series_using_data_science_for/)
+- [I Made an AI Develop Its Own Language](https://www.reddit.com/r/Python/comments/s5iyhp/i_made_an_ai_develop_its_own_language/)
+- [Paycord - Paid role for Discord using Flask, Docker, Stripe, TinyDB &amp; Tailwind](https://www.reddit.com/r/Python/comments/s5itr9/paycord_paid_role_for_discord_using_flask_docker/)
+- [Open source tool to debug any Python application running on Kubernetes clouds in 60 seconds](https://www.reddit.com/r/Python/comments/s5ihm4/open_source_tool_to_debug_any_python_application/)
 - [Secrets of MicroPython 4: How to detect motion](https://www.reddit.com/r/Python/comments/s5eyqc/secrets_of_micropython_4_how_to_detect_motion/)
-- [I look for a &quot;Rosetta&quot; documentation to found correspondence between languages tooling](https://www.reddit.com/r/Python/comments/s5euz6/i_look_for_a_rosetta_documentation_to_found/)
 <!-- BLOG-POST-LIST:END -->
