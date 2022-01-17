@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Towers of Hanoi](https://www.reddit.com/r/Python/comments/s64s3h/towers_of_hanoi/)
-- [An optimization idea for comprehensions to make them faster](https://www.reddit.com/r/Python/comments/s64jv1/an_optimization_idea_for_comprehensions_to_make/)
-- [Sympy tutorial for physicists, mathematicians and engineers. While starting with the basics, I eventually cover examples like &lpar;i&rpar; computing &lt;r&gt; for electrons in an arbitrary state nlm of hydrogen atom, and &lpar;ii&rpar; setting up systems of equations in Lagrangian Mechanics](https://www.reddit.com/r/Python/comments/s63ng9/sympy_tutorial_for_physicists_mathematicians_and/)
-- [I made a neural network that predicts your motor intentions through EEG with Python and Tensorflow.](https://www.reddit.com/r/Python/comments/s62m3e/i_made_a_neural_network_that_predicts_your_motor/)
-- [Python resources for a beginner having experience in js, node and react](https://www.reddit.com/r/Python/comments/s626bw/python_resources_for_a_beginner_having_experience/)
+- [How To Use Variable Number of Arguments in Python Functions](https://www.reddit.com/r/Python/comments/s663wd/how_to_use_variable_number_of_arguments_in_python/)
+- [interleave — Run iterators in threads and collect their values](https://www.reddit.com/r/Python/comments/s65xzs/interleave_run_iterators_in_threads_and_collect/)
+- [Checking for vulnerabilities in Python with Safety](https://www.reddit.com/r/Python/comments/s65qfa/checking_for_vulnerabilities_in_python_with_safety/)
+- [Opytimizer: A Nature-Inspired Python Optimizer](https://www.reddit.com/r/Python/comments/s65n6y/opytimizer_a_natureinspired_python_optimizer/)
+- [Learn Python ASTs by building your own linter](https://www.reddit.com/r/Python/comments/s655vv/learn_python_asts_by_building_your_own_linter/)
 <!-- BLOG-POST-LIST:END -->
