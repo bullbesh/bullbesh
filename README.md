@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Doodle Jump Using Pygame!](https://www.reddit.com/r/Python/comments/s67pbo/doodle_jump_using_pygame/)
+- [Pythonic Programming](https://www.reddit.com/r/Python/comments/s67gqa/pythonic_programming/)
+- [connecting python/django website to Facebook/Twitter API](https://www.reddit.com/r/Python/comments/s66uqi/connecting_pythondjango_website_to/)
 - [How To Use Variable Number of Arguments in Python Functions](https://www.reddit.com/r/Python/comments/s663wd/how_to_use_variable_number_of_arguments_in_python/)
 - [interleave — Run iterators in threads and collect their values](https://www.reddit.com/r/Python/comments/s65xzs/interleave_run_iterators_in_threads_and_collect/)
-- [Checking for vulnerabilities in Python with Safety](https://www.reddit.com/r/Python/comments/s65qfa/checking_for_vulnerabilities_in_python_with_safety/)
-- [Opytimizer: A Nature-Inspired Python Optimizer](https://www.reddit.com/r/Python/comments/s65n6y/opytimizer_a_natureinspired_python_optimizer/)
-- [Learn Python ASTs by building your own linter](https://www.reddit.com/r/Python/comments/s655vv/learn_python_asts_by_building_your_own_linter/)
 <!-- BLOG-POST-LIST:END -->
