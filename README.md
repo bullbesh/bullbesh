@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Maybe this is a too simple question to ask but how do u python a tool that can generate strings...](https://www.reddit.com/r/Python/comments/s5sknr/maybe_this_is_a_too_simple_question_to_ask_but/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/s5pgg1/monday_daily_thread_project_ideas/)
 - [pyQuickie API! make your own leetcode or other similar website](https://www.reddit.com/r/Python/comments/s5p8lv/pyquickie_api_make_your_own_leetcode_or_other/)
 - [Jupyter docker server for LAN access](https://www.reddit.com/r/Python/comments/s5oe9y/jupyter_docker_server_for_lan_access/)
 - [br4nch 1.1.3 - Data Structure Tree Builder for Python.](https://www.reddit.com/r/Python/comments/s5mzdw/br4nch_113_data_structure_tree_builder_for_python/)
+- [Web Development in Python - Flask vs Django](https://www.reddit.com/r/Python/comments/s5keaq/web_development_in_python_flask_vs_django/)
 <!-- BLOG-POST-LIST:END -->
