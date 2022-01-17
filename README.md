@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using commands in a different kind of way](https://www.reddit.com/r/Python/comments/s69dmp/using_commands_in_a_different_kind_of_way/)
+- [Hi. Can someone joined me in my Github project. I am very new and not able to find mentor. How can I ask on github to help me with python questions?](https://www.reddit.com/r/Python/comments/s68p2i/hi_can_someone_joined_me_in_my_github_project_i/)
+- [Learning Python - Need Help with Classes and Functions](https://www.reddit.com/r/Python/comments/s68maa/learning_python_need_help_with_classes_and/)
 - [Doodle Jump Using Pygame!](https://www.reddit.com/r/Python/comments/s67pbo/doodle_jump_using_pygame/)
 - [Pythonic Programming](https://www.reddit.com/r/Python/comments/s67gqa/pythonic_programming/)
-- [connecting python/django website to Facebook/Twitter API](https://www.reddit.com/r/Python/comments/s66uqi/connecting_pythondjango_website_to/)
-- [How To Use Variable Number of Arguments in Python Functions](https://www.reddit.com/r/Python/comments/s663wd/how_to_use_variable_number_of_arguments_in_python/)
-- [interleave — Run iterators in threads and collect their values](https://www.reddit.com/r/Python/comments/s65xzs/interleave_run_iterators_in_threads_and_collect/)
 <!-- BLOG-POST-LIST:END -->
