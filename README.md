@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sympy tutorial for physicists, mathematicians and engineers. While starting with the basics, I eventually cover examples like &lpar;i&rpar; computing &lt;r&gt; for electrons in an arbitrary state nlm of hydrogen atom, and &lpar;ii&rpar; setting up systems of equations in Lagrangian Mechanics](https://www.reddit.com/r/Python/comments/s63ng9/sympy_tutorial_for_physicists_mathematicians_and/)
 - [I made a neural network that predicts your motor intentions through EEG with Python and Tensorflow.](https://www.reddit.com/r/Python/comments/s62m3e/i_made_a_neural_network_that_predicts_your_motor/)
 - [Python resources for a beginner having experience in js, node and react](https://www.reddit.com/r/Python/comments/s626bw/python_resources_for_a_beginner_having_experience/)
 - [Key Features of Python-InsideAIML](https://www.reddit.com/r/Python/comments/s621ij/key_features_of_pythoninsideaiml/)
 - [Starlite Plugin System and SQLAlchemy Plugin](https://www.reddit.com/r/Python/comments/s619pt/starlite_plugin_system_and_sqlalchemy_plugin/)
-- [GitHub - MoserMichael/pyasmtool: Explores the python bytecode, provides some tools to access it for fun and profit.](https://www.reddit.com/r/Python/comments/s5zuex/github_mosermichaelpyasmtool_explores_the_python/)
 <!-- BLOG-POST-LIST:END -->
