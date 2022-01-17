@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a neural network that predicts your motor intentions through EEG with Python and Tensorflow.](https://www.reddit.com/r/Python/comments/s62m3e/i_made_a_neural_network_that_predicts_your_motor/)
+- [Python resources for a beginner having experience in js, node and react](https://www.reddit.com/r/Python/comments/s626bw/python_resources_for_a_beginner_having_experience/)
+- [Key Features of Python-InsideAIML](https://www.reddit.com/r/Python/comments/s621ij/key_features_of_pythoninsideaiml/)
 - [Starlite Plugin System and SQLAlchemy Plugin](https://www.reddit.com/r/Python/comments/s619pt/starlite_plugin_system_and_sqlalchemy_plugin/)
 - [GitHub - MoserMichael/pyasmtool: Explores the python bytecode, provides some tools to access it for fun and profit.](https://www.reddit.com/r/Python/comments/s5zuex/github_mosermichaelpyasmtool_explores_the_python/)
-- [12 Best Completely Free SQL Online Courses](https://www.reddit.com/r/Python/comments/s5zdh2/12_best_completely_free_sql_online_courses/)
-- [Why doesn&#39;t CPython has a JIT? PyPy does. Is it a lot of work to make a JIT compiler?](https://www.reddit.com/r/Python/comments/s5z81q/why_doesnt_cpython_has_a_jit_pypy_does_is_it_a/)
-- [I made a Recipe Creator/Finder in Python!](https://www.reddit.com/r/Python/comments/s5yb6m/i_made_a_recipe_creatorfinder_in_python/)
 <!-- BLOG-POST-LIST:END -->
