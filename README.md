@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a Recipe Creator/Finder in Python!](https://www.reddit.com/r/Python/comments/s5yb6m/i_made_a_recipe_creatorfinder_in_python/)
 - [Predict NBA winners with historical data and Python](https://www.reddit.com/r/Python/comments/s5tvgz/predict_nba_winners_with_historical_data_and/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/s5pgg1/monday_daily_thread_project_ideas/)
 - [pyQuickie API! make your own leetcode or other similar website](https://www.reddit.com/r/Python/comments/s5p8lv/pyquickie_api_make_your_own_leetcode_or_other/)
 - [Jupyter docker server for LAN access](https://www.reddit.com/r/Python/comments/s5oe9y/jupyter_docker_server_for_lan_access/)
-- [br4nch 1.1.3 - Data Structure Tree Builder for Python.](https://www.reddit.com/r/Python/comments/s5mzdw/br4nch_113_data_structure_tree_builder_for_python/)
 <!-- BLOG-POST-LIST:END -->
