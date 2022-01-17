@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - MoserMichael/pyasmtool: Explores the python bytecode, provides some tools to access it for fun and profit.](https://www.reddit.com/r/Python/comments/s5zuex/github_mosermichaelpyasmtool_explores_the_python/)
+- [12 Best Completely Free SQL Online Courses](https://www.reddit.com/r/Python/comments/s5zdh2/12_best_completely_free_sql_online_courses/)
+- [Why doesn&#39;t CPython has a JIT? PyPy does. Is it a lot of work to make a JIT compiler?](https://www.reddit.com/r/Python/comments/s5z81q/why_doesnt_cpython_has_a_jit_pypy_does_is_it_a/)
 - [I made a Recipe Creator/Finder in Python!](https://www.reddit.com/r/Python/comments/s5yb6m/i_made_a_recipe_creatorfinder_in_python/)
 - [Predict NBA winners with historical data and Python](https://www.reddit.com/r/Python/comments/s5tvgz/predict_nba_winners_with_historical_data_and/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/s5pgg1/monday_daily_thread_project_ideas/)
-- [pyQuickie API! make your own leetcode or other similar website](https://www.reddit.com/r/Python/comments/s5p8lv/pyquickie_api_make_your_own_leetcode_or_other/)
-- [Jupyter docker server for LAN access](https://www.reddit.com/r/Python/comments/s5oe9y/jupyter_docker_server_for_lan_access/)
 <!-- BLOG-POST-LIST:END -->
