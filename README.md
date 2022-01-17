@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Experimenting with Pandas Fluent API: avoiding lambdas](https://www.reddit.com/r/Python/comments/s6acvr/experimenting_with_pandas_fluent_api_avoiding/)
+- [I used Python to make NLP analyses of a bunch of Twitter influencers, here&#39;s what I did and what I&#39;ve learned so far](https://www.reddit.com/r/Python/comments/s6a2yt/i_used_python_to_make_nlp_analyses_of_a_bunch_of/)
 - [Using commands in a different kind of way](https://www.reddit.com/r/Python/comments/s69dmp/using_commands_in_a_different_kind_of_way/)
-- [Hi. Can someone joined me in my Github project. I am very new and not able to find mentor. How can I ask on github to help me with python questions?](https://www.reddit.com/r/Python/comments/s68p2i/hi_can_someone_joined_me_in_my_github_project_i/)
-- [Learning Python - Need Help with Classes and Functions](https://www.reddit.com/r/Python/comments/s68maa/learning_python_need_help_with_classes_and/)
 - [Doodle Jump Using Pygame!](https://www.reddit.com/r/Python/comments/s67pbo/doodle_jump_using_pygame/)
 - [Pythonic Programming](https://www.reddit.com/r/Python/comments/s67gqa/pythonic_programming/)
 <!-- BLOG-POST-LIST:END -->
