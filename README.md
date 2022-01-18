@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Here is a tutorial about how to make a Temp Gmail account using python - 3 minutes read](https://www.reddit.com/r/Python/comments/s72frc/here_is_a_tutorial_about_how_to_make_a_temp_gmail/)
+- [Cool Python libraries I want to try in 2022](https://www.reddit.com/r/Python/comments/s727d5/cool_python_libraries_i_want_to_try_in_2022/)
+- [How to save a dictionary in python?](https://www.reddit.com/r/Python/comments/s725bw/how_to_save_a_dictionary_in_python/)
 - [&lpar;Cryptocurrency/Blockchain programming script&rpar;](https://www.reddit.com/r/Python/comments/s716tu/cryptocurrencyblockchain_programming_script/)
 - [How To Use Variable Number of Arguments in Python Functions](https://www.reddit.com/r/Python/comments/s6z4jo/how_to_use_variable_number_of_arguments_in_python/)
-- [Python News: What&#39;s New From December 2021? – Real Python](https://www.reddit.com/r/Python/comments/s6y1bi/python_news_whats_new_from_december_2021_real/)
-- [Build ML Products using Python](https://www.reddit.com/r/Python/comments/s6y0c0/build_ml_products_using_python/)
-- [Easy parsing of user input](https://www.reddit.com/r/Python/comments/s6xmft/easy_parsing_of_user_input/)
 <!-- BLOG-POST-LIST:END -->
