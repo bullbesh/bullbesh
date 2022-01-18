@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Practice exercises for Python beginners?](https://www.reddit.com/r/Python/comments/s76cfb/practice_exercises_for_python_beginners/)
+- [My project showcase](https://www.reddit.com/r/Python/comments/s75hdm/my_project_showcase/)
 - [Sentiment Analysis Using Python [Twitter + News Data]](https://www.reddit.com/r/Python/comments/s749o0/sentiment_analysis_using_python_twitter_news_data/)
 - [Building permissions in a Django app in 30 Minutes](https://www.reddit.com/r/Python/comments/s73i7o/building_permissions_in_a_django_app_in_30_minutes/)
 - [When to use dict.get in Python &lpar;timing&rpar;](https://www.reddit.com/r/Python/comments/s735yq/when_to_use_dictget_in_python_timing/)
-- [Here is a tutorial about how to make a Temp Gmail account using python - 3 minutes read](https://www.reddit.com/r/Python/comments/s72frc/here_is_a_tutorial_about_how_to_make_a_temp_gmail/)
-- [Cool Python libraries I want to try in 2022](https://www.reddit.com/r/Python/comments/s727d5/cool_python_libraries_i_want_to_try_in_2022/)
 <!-- BLOG-POST-LIST:END -->
