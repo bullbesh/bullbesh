@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Practice exercises for Python beginners?](https://www.reddit.com/r/Python/comments/s76cfb/practice_exercises_for_python_beginners/)
+- [Image -&gt; WebP Converter.](https://www.reddit.com/r/Python/comments/s77pl3/image_webp_converter/)
 - [My project showcase](https://www.reddit.com/r/Python/comments/s75hdm/my_project_showcase/)
 - [Sentiment Analysis Using Python [Twitter + News Data]](https://www.reddit.com/r/Python/comments/s749o0/sentiment_analysis_using_python_twitter_news_data/)
 - [Building permissions in a Django app in 30 Minutes](https://www.reddit.com/r/Python/comments/s73i7o/building_permissions_in_a_django_app_in_30_minutes/)
