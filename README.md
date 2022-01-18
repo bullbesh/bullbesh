@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Red Mail 0.2: Next Generation Email Sender](https://www.reddit.com/r/Python/comments/s6si3d/red_mail_02_next_generation_email_sender/)
 - [Ranking of Top 10 Programming Languages](https://www.reddit.com/r/Python/comments/s6pt80/ranking_of_top_10_programming_languages/)
 - [Data Mining and Techniques](https://www.reddit.com/r/Python/comments/s6pnmr/data_mining_and_techniques/)
 - [How did you realize that this is what you want to do?](https://www.reddit.com/r/Python/comments/s6kzg8/how_did_you_realize_that_this_is_what_you_want_to/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/s6izar/tuesday_daily_thread_advanced_questions/)
-- [Two bots that solve Wordle challenges but with different strategies](https://www.reddit.com/r/Python/comments/s6gpt8/two_bots_that_solve_wordle_challenges_but_with/)
 <!-- BLOG-POST-LIST:END -->
