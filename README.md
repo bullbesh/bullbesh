@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyNaver](https://www.reddit.com/r/Python/comments/s6wkr6/pynaver/)
+- [PyKakao](https://www.reddit.com/r/Python/comments/s6wkgo/pykakao/)
 - [Build a Doom Reinforcement Learning Model with Python | 3 Levels in 3 Hours](https://www.reddit.com/r/Python/comments/s6w6gr/build_a_doom_reinforcement_learning_model_with/)
 - [What Are Python Lambdas?](https://www.reddit.com/r/Python/comments/s6vvoh/what_are_python_lambdas/)
 - [What Are Python Lambdas?](https://www.reddit.com/r/Python/comments/s6vr5t/what_are_python_lambdas/)
-- [Zeep but for GraphQL](https://www.reddit.com/r/Python/comments/s6v2qx/zeep_but_for_graphql/)
-- [I need help!](https://www.reddit.com/r/Python/comments/s6v1py/i_need_help/)
 <!-- BLOG-POST-LIST:END -->
