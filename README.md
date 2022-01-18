@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to detect custom objects in an image](https://www.reddit.com/r/Python/comments/s6p166/how_to_detect_custom_objects_in_an_image/)
 - [How did you realize that this is what you want to do?](https://www.reddit.com/r/Python/comments/s6kzg8/how_did_you_realize_that_this_is_what_you_want_to/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/s6izar/tuesday_daily_thread_advanced_questions/)
 - [Two bots that solve Wordle challenges but with different strategies](https://www.reddit.com/r/Python/comments/s6gpt8/two_bots_that_solve_wordle_challenges_but_with/)
 - [mureq: single-file, zero-dependency replacement for the Requests http library](https://www.reddit.com/r/Python/comments/s6gg9l/mureq_singlefile_zerodependency_replacement_for/)
-- [I&#39;ve made a CLI using Click to track Bitcoin and Ethereum wallets](https://www.reddit.com/r/Python/comments/s6etak/ive_made_a_cli_using_click_to_track_bitcoin_and/)
 <!-- BLOG-POST-LIST:END -->
