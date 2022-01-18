@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/s6izar/tuesday_daily_thread_advanced_questions/)
 - [Two bots that solve Wordle challenges but with different strategies](https://www.reddit.com/r/Python/comments/s6gpt8/two_bots_that_solve_wordle_challenges_but_with/)
 - [mureq: single-file, zero-dependency replacement for the Requests http library](https://www.reddit.com/r/Python/comments/s6gg9l/mureq_singlefile_zerodependency_replacement_for/)
 - [I&#39;ve made a CLI using Click to track Bitcoin and Ethereum wallets](https://www.reddit.com/r/Python/comments/s6etak/ive_made_a_cli_using_click_to_track_bitcoin_and/)
 - [Role-Based Access Control &lpar;RBAC&rpar; in Python](https://www.reddit.com/r/Python/comments/s6enrw/rolebased_access_control_rbac_in_python/)
-- [Building an API with FastAPI tutorial](https://www.reddit.com/r/Python/comments/s6d60b/building_an_api_with_fastapi_tutorial/)
 <!-- BLOG-POST-LIST:END -->
