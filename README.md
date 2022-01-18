@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyCharm vs VSCode](https://www.reddit.com/r/Python/comments/s6uc93/pycharm_vs_vscode/)
+- [phat-tails: Pareto Hybrids with Asymmetric Tails](https://www.reddit.com/r/Python/comments/s6tj39/phattails_pareto_hybrids_with_asymmetric_tails/)
 - [Red Mail 0.2: Next Generation Email Sender](https://www.reddit.com/r/Python/comments/s6si3d/red_mail_02_next_generation_email_sender/)
 - [Ranking of Top 10 Programming Languages](https://www.reddit.com/r/Python/comments/s6pt80/ranking_of_top_10_programming_languages/)
 - [Data Mining and Techniques](https://www.reddit.com/r/Python/comments/s6pnmr/data_mining_and_techniques/)
-- [How did you realize that this is what you want to do?](https://www.reddit.com/r/Python/comments/s6kzg8/how_did_you_realize_that_this_is_what_you_want_to/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/s6izar/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
