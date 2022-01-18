@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zeep but for GraphQL](https://www.reddit.com/r/Python/comments/s6v2qx/zeep_but_for_graphql/)
+- [I need help!](https://www.reddit.com/r/Python/comments/s6v1py/i_need_help/)
+- [Build an Doom Reinforcement Learning Model with Python | 3 Levels in 3 Hours](https://www.reddit.com/r/Python/comments/s6usi4/build_an_doom_reinforcement_learning_model_with/)
 - [PyCharm vs VSCode](https://www.reddit.com/r/Python/comments/s6uc93/pycharm_vs_vscode/)
 - [phat-tails: Pareto Hybrids with Asymmetric Tails](https://www.reddit.com/r/Python/comments/s6tj39/phattails_pareto_hybrids_with_asymmetric_tails/)
-- [Red Mail 0.2: Next Generation Email Sender](https://www.reddit.com/r/Python/comments/s6si3d/red_mail_02_next_generation_email_sender/)
-- [Ranking of Top 10 Programming Languages](https://www.reddit.com/r/Python/comments/s6pt80/ranking_of_top_10_programming_languages/)
-- [Data Mining and Techniques](https://www.reddit.com/r/Python/comments/s6pnmr/data_mining_and_techniques/)
 <!-- BLOG-POST-LIST:END -->
