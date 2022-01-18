@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Use Variable Number of Arguments in Python Functions](https://www.reddit.com/r/Python/comments/s6z4jo/how_to_use_variable_number_of_arguments_in_python/)
 - [Python News: What&#39;s New From December 2021? – Real Python](https://www.reddit.com/r/Python/comments/s6y1bi/python_news_whats_new_from_december_2021_real/)
 - [Build ML Products using Python](https://www.reddit.com/r/Python/comments/s6y0c0/build_ml_products_using_python/)
 - [Easy parsing of user input](https://www.reddit.com/r/Python/comments/s6xmft/easy_parsing_of_user_input/)
 - [PyNaver](https://www.reddit.com/r/Python/comments/s6wkr6/pynaver/)
-- [PyKakao](https://www.reddit.com/r/Python/comments/s6wkgo/pykakao/)
 <!-- BLOG-POST-LIST:END -->
