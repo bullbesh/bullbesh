@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrape historic Google Scholar results using Python](https://www.reddit.com/r/Python/comments/s7owz6/scrape_historic_google_scholar_results_using/)
+- [Data Mining](https://www.reddit.com/r/Python/comments/s7oqdq/data_mining/)
+- [CLI based task manager tool to track your daily tasks](https://www.reddit.com/r/Python/comments/s7o8f9/cli_based_task_manager_tool_to_track_your_daily/)
 - [Data Mining –](https://www.reddit.com/r/Python/comments/s7ntsk/data_mining/)
 - [Mercury: Publish Jupyter Notebook as web app by adding YAML header &lpar;similar to R Markdown&rpar;](https://www.reddit.com/r/Python/comments/s7ngj0/mercury_publish_jupyter_notebook_as_web_app_by/)
-- [How to Send WhatsApp Messages with Python](https://www.reddit.com/r/Python/comments/s7mx1f/how_to_send_whatsapp_messages_with_python/)
-- [Calculate Area Of Cube using Python &lpar;Hindi/Urdu&rpar;](https://www.reddit.com/r/Python/comments/s7m6lg/calculate_area_of_cube_using_python_hindiurdu/)
-- [From Python 3.10.0 and associated binaries to Anaconda &lpar;Python 3.9&rpar;](https://www.reddit.com/r/Python/comments/s7lmbp/from_python_3100_and_associated_binaries_to/)
 <!-- BLOG-POST-LIST:END -->
