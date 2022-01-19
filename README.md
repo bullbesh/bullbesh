@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Send WhatsApp Messages with Python](https://www.reddit.com/r/Python/comments/s7mx1f/how_to_send_whatsapp_messages_with_python/)
 - [Calculate Area Of Cube using Python &lpar;Hindi/Urdu&rpar;](https://www.reddit.com/r/Python/comments/s7m6lg/calculate_area_of_cube_using_python_hindiurdu/)
 - [From Python 3.10.0 and associated binaries to Anaconda &lpar;Python 3.9&rpar;](https://www.reddit.com/r/Python/comments/s7lmbp/from_python_3100_and_associated_binaries_to/)
 - [Project Update! Password Database, with Encryption tools, Password, Pin, and Encryption key generation. Version 1.5 &lpar;Winther Storage&rpar;](https://www.reddit.com/r/Python/comments/s7l83y/project_update_password_database_with_encryption/)
 - [How to Make a Chatbot in Python? A Complete Guide!](https://www.reddit.com/r/Python/comments/s7kt33/how_to_make_a_chatbot_in_python_a_complete_guide/)
-- [60 Completely FREE Machine Learning &amp; Artificial Intelligence Online Courses](https://www.reddit.com/r/Python/comments/s7kp3t/60_completely_free_machine_learning_artificial/)
 <!-- BLOG-POST-LIST:END -->
