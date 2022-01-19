@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Calculate Area Of Cube using Python &lpar;Hindi/Urdu&rpar;](https://www.reddit.com/r/Python/comments/s7m6lg/calculate_area_of_cube_using_python_hindiurdu/)
+- [From Python 3.10.0 and associated binaries to Anaconda &lpar;Python 3.9&rpar;](https://www.reddit.com/r/Python/comments/s7lmbp/from_python_3100_and_associated_binaries_to/)
 - [Project Update! Password Database, with Encryption tools, Password, Pin, and Encryption key generation. Version 1.5 &lpar;Winther Storage&rpar;](https://www.reddit.com/r/Python/comments/s7l83y/project_update_password_database_with_encryption/)
 - [How to Make a Chatbot in Python? A Complete Guide!](https://www.reddit.com/r/Python/comments/s7kt33/how_to_make_a_chatbot_in_python_a_complete_guide/)
 - [60 Completely FREE Machine Learning &amp; Artificial Intelligence Online Courses](https://www.reddit.com/r/Python/comments/s7kp3t/60_completely_free_machine_learning_artificial/)
-- [Looking to hire python help for a project](https://www.reddit.com/r/Python/comments/s7dscs/looking_to_hire_python_help_for_a_project/)
-- [apischema v0.17 - I&#39;ve developed the fastest typed JSON &lpar;de&rpar;serialization library, and you can also build your GraphQL schema with it](https://www.reddit.com/r/Python/comments/s7dqif/apischema_v017_ive_developed_the_fastest_typed/)
 <!-- BLOG-POST-LIST:END -->
