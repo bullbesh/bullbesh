@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CSV scipt issue](https://www.reddit.com/r/Python/comments/s7v5cw/csv_scipt_issue/)
+- [MusicTk - A Python&lpar;Tkinter, Pygame&rpar; music player!](https://www.reddit.com/r/Python/comments/s7v1nz/musictk_a_pythontkinter_pygame_music_player/)
+- [Python for Art](https://www.reddit.com/r/Python/comments/s7u5ha/python_for_art/)
 - [Flask Application or Fork for running algorithms when required?](https://www.reddit.com/r/Python/comments/s7t9yj/flask_application_or_fork_for_running_algorithms/)
 - [How To Find Exoplanets in NASA Telescope Data &lpar;Python+Lightkurve&rpar;](https://www.reddit.com/r/Python/comments/s7suqk/how_to_find_exoplanets_in_nasa_telescope_data/)
-- [Web Scraping with Python 101 [2022 REVISION] - ZenRows](https://www.reddit.com/r/Python/comments/s7sqk8/web_scraping_with_python_101_2022_revision_zenrows/)
-- [PyCharm and attrs next gen API](https://www.reddit.com/r/Python/comments/s7scsv/pycharm_and_attrs_next_gen_api/)
-- [How vectorization speeds up your Python code](https://www.reddit.com/r/Python/comments/s7r33u/how_vectorization_speeds_up_your_python_code/)
 <!-- BLOG-POST-LIST:END -->
