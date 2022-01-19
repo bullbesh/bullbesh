@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Text Editors](https://www.reddit.com/r/Python/comments/s820jw/text_editors/)
-- [Thoughts on Python Freelancing?](https://www.reddit.com/r/Python/comments/s81vm4/thoughts_on_python_freelancing/)
+- [Gematria in one function](https://www.reddit.com/r/Python/comments/s835q2/gematria_in_one_function/)
+- [Made my first full stack project with Python, flask and a bit of JS](https://www.reddit.com/r/Python/comments/s82lw0/made_my_first_full_stack_project_with_python/)
 - [ThreadPoolExecutor: The Complete Guide](https://www.reddit.com/r/Python/comments/s8123m/threadpoolexecutor_the_complete_guide/)
 - [Python Wordle Bot with Selenium and 100% Win Percentage](https://www.reddit.com/r/Python/comments/s80ezh/python_wordle_bot_with_selenium_and_100_win/)
 - [Python script to check emails and password hashes against haveibeenpwned.](https://www.reddit.com/r/Python/comments/s7xszy/python_script_to_check_emails_and_password_hashes/)
