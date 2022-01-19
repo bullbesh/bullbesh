@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Action recognition](https://www.reddit.com/r/Python/comments/s7pt8o/action_recognition/)
+- [action recognition](https://www.reddit.com/r/Python/comments/s7ps9u/action_recognition/)
+- [High ROI Python Patterns &lpar;Part 1&rpar;](https://www.reddit.com/r/Python/comments/s7pq6w/high_roi_python_patterns_part_1/)
 - [Scrape historic Google Scholar results using Python](https://www.reddit.com/r/Python/comments/s7owz6/scrape_historic_google_scholar_results_using/)
 - [Data Mining](https://www.reddit.com/r/Python/comments/s7oqdq/data_mining/)
-- [CLI based task manager tool to track your daily tasks](https://www.reddit.com/r/Python/comments/s7o8f9/cli_based_task_manager_tool_to_track_your_daily/)
-- [Data Mining –](https://www.reddit.com/r/Python/comments/s7ntsk/data_mining/)
-- [Mercury: Publish Jupyter Notebook as web app by adding YAML header &lpar;similar to R Markdown&rpar;](https://www.reddit.com/r/Python/comments/s7ngj0/mercury_publish_jupyter_notebook_as_web_app_by/)
 <!-- BLOG-POST-LIST:END -->
