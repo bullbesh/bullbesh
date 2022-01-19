@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/s7bwqe/wednesday_daily_thread_beginner_questions/)
+- [Auto Input Data to an Already Open Webpage Without Opening New Browser Window](https://www.reddit.com/r/Python/comments/s7boxx/auto_input_data_to_an_already_open_webpage/)
+- [Excel pixel art - A little fun project I made with Excel and Python](https://www.reddit.com/r/Python/comments/s7bat9/excel_pixel_art_a_little_fun_project_i_made_with/)
 - [Pyarabic: a python package for the Arabic language &lpar; package review and basics simplified in English&rpar;](https://www.reddit.com/r/Python/comments/s79wtq/pyarabic_a_python_package_for_the_arabic_language/)
 - [Open and Honest - Beginning Python](https://www.reddit.com/r/Python/comments/s79rjb/open_and_honest_beginning_python/)
-- [Image -&gt; WebP Converter.](https://www.reddit.com/r/Python/comments/s77pl3/image_webp_converter/)
-- [My project showcase](https://www.reddit.com/r/Python/comments/s75hdm/my_project_showcase/)
-- [Sentiment Analysis Using Python [Twitter + News Data]](https://www.reddit.com/r/Python/comments/s749o0/sentiment_analysis_using_python_twitter_news_data/)
 <!-- BLOG-POST-LIST:END -->
