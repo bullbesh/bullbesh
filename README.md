@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Text Editors](https://www.reddit.com/r/Python/comments/s820jw/text_editors/)
+- [Thoughts on Python Freelancing?](https://www.reddit.com/r/Python/comments/s81vm4/thoughts_on_python_freelancing/)
+- [ThreadPoolExecutor: The Complete Guide](https://www.reddit.com/r/Python/comments/s8123m/threadpoolexecutor_the_complete_guide/)
 - [Python Wordle Bot with Selenium and 100% Win Percentage](https://www.reddit.com/r/Python/comments/s80ezh/python_wordle_bot_with_selenium_and_100_win/)
 - [Python script to check emails and password hashes against haveibeenpwned.](https://www.reddit.com/r/Python/comments/s7xszy/python_script_to_check_emails_and_password_hashes/)
-- [[D] Did you also feel that Snorkel&#39;s LabelModel is really slow?](https://www.reddit.com/r/Python/comments/s7vwu5/d_did_you_also_feel_that_snorkels_labelmodel_is/)
-- [Python Tutorials In Fun Way With a Huge Number Of Examples](https://www.reddit.com/r/Python/comments/s7vbmu/python_tutorials_in_fun_way_with_a_huge_number_of/)
-- [MusicTk - A Python&lpar;Tkinter, Pygame&rpar; music player!](https://www.reddit.com/r/Python/comments/s7v1nz/musictk_a_pythontkinter_pygame_music_player/)
 <!-- BLOG-POST-LIST:END -->
