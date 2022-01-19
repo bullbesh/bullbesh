@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flask Application or Fork for running algorithms when required?](https://www.reddit.com/r/Python/comments/s7t9yj/flask_application_or_fork_for_running_algorithms/)
+- [How To Find Exoplanets in NASA Telescope Data &lpar;Python+Lightkurve&rpar;](https://www.reddit.com/r/Python/comments/s7suqk/how_to_find_exoplanets_in_nasa_telescope_data/)
+- [Web Scraping with Python 101 [2022 REVISION] - ZenRows](https://www.reddit.com/r/Python/comments/s7sqk8/web_scraping_with_python_101_2022_revision_zenrows/)
 - [PyCharm and attrs next gen API](https://www.reddit.com/r/Python/comments/s7scsv/pycharm_and_attrs_next_gen_api/)
 - [How vectorization speeds up your Python code](https://www.reddit.com/r/Python/comments/s7r33u/how_vectorization_speeds_up_your_python_code/)
-- [Vaex - an out-of-core DataFrame library in Python that can do all the typical data manipulations, filtering, and aggregations on a billion rows in real-time &amp; on a single computer](https://www.reddit.com/r/Python/comments/s7qjhk/vaex_an_outofcore_dataframe_library_in_python/)
-- [High ROI Python Patterns &lpar;Part 1&rpar;](https://www.reddit.com/r/Python/comments/s7pq6w/high_roi_python_patterns_part_1/)
-- [Scrape historic Google Scholar results using Python](https://www.reddit.com/r/Python/comments/s7owz6/scrape_historic_google_scholar_results_using/)
 <!-- BLOG-POST-LIST:END -->
