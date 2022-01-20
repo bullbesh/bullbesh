@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Extract tables with specific parameters from MSQL &lpar; Csv file &rpar; ...](https://www.reddit.com/r/Python/comments/s8oxey/extract_tables_with_specific_parameters_from_msql/)
+- [Ever thought about file handling in python but asynchronously?](https://www.reddit.com/r/Python/comments/s8o3tm/ever_thought_about_file_handling_in_python_but/)
 - [Mastering File Handling in Python](https://www.reddit.com/r/Python/comments/s8o0bw/mastering_file_handling_in_python/)
 - [Understanding Python Comprehensions](https://www.reddit.com/r/Python/comments/s8lmz7/understanding_python_comprehensions/)
 - [I made a tutorial on how to do Speech Recognition with Python and Kaldi!](https://www.reddit.com/r/Python/comments/s8lln2/i_made_a_tutorial_on_how_to_do_speech_recognition/)
-- [Structuring your Python machine learning projects](https://www.reddit.com/r/Python/comments/s8kwue/structuring_your_python_machine_learning_projects/)
-- [Asian options pricing](https://www.reddit.com/r/Python/comments/s8kvbw/asian_options_pricing/)
 <!-- BLOG-POST-LIST:END -->
