@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering File Handling in Python](https://www.reddit.com/r/Python/comments/s8o0bw/mastering_file_handling_in_python/)
 - [Understanding Python Comprehensions](https://www.reddit.com/r/Python/comments/s8lmz7/understanding_python_comprehensions/)
 - [I made a tutorial on how to do Speech Recognition with Python and Kaldi!](https://www.reddit.com/r/Python/comments/s8lln2/i_made_a_tutorial_on_how_to_do_speech_recognition/)
 - [Structuring your Python machine learning projects](https://www.reddit.com/r/Python/comments/s8kwue/structuring_your_python_machine_learning_projects/)
 - [Asian options pricing](https://www.reddit.com/r/Python/comments/s8kvbw/asian_options_pricing/)
-- [Built a URL shortener app using FastAPI - Would love some feedback!](https://www.reddit.com/r/Python/comments/s8jaex/built_a_url_shortener_app_using_fastapi_would/)
 <!-- BLOG-POST-LIST:END -->
