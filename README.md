@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [First project ?](https://www.reddit.com/r/Python/comments/s8aea7/first_project/)
 - [Bad Apple!! in Tkinter](https://www.reddit.com/r/Python/comments/s8a17m/bad_apple_in_tkinter/)
 - [Architecture question: where to put business logic](https://www.reddit.com/r/Python/comments/s89bia/architecture_question_where_to_put_business_logic/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/s84kt4/thursday_daily_thread_python_careers_courses_and/)
 - [Original Python projects](https://www.reddit.com/r/Python/comments/s83rh0/original_python_projects/)
-- [Gematria in one function](https://www.reddit.com/r/Python/comments/s835q2/gematria_in_one_function/)
 <!-- BLOG-POST-LIST:END -->
