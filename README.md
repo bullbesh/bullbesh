@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bad Apple!! in Tkinter](https://www.reddit.com/r/Python/comments/s8a17m/bad_apple_in_tkinter/)
+- [Architecture question: where to put business logic](https://www.reddit.com/r/Python/comments/s89bia/architecture_question_where_to_put_business_logic/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/s84kt4/thursday_daily_thread_python_careers_courses_and/)
 - [Original Python projects](https://www.reddit.com/r/Python/comments/s83rh0/original_python_projects/)
 - [Gematria in one function](https://www.reddit.com/r/Python/comments/s835q2/gematria_in_one_function/)
-- [Made my first full stack project with Python, flask and a bit of JS](https://www.reddit.com/r/Python/comments/s82lw0/made_my_first_full_stack_project_with_python/)
-- [ThreadPoolExecutor: The Complete Guide](https://www.reddit.com/r/Python/comments/s8123m/threadpoolexecutor_the_complete_guide/)
 <!-- BLOG-POST-LIST:END -->
