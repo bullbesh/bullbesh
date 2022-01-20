@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [First project ?](https://www.reddit.com/r/Python/comments/s8aea7/first_project/)
+- [I made a shareable social media trend with the Spotify API and Flask](https://www.reddit.com/r/Python/comments/s8bbc9/i_made_a_shareable_social_media_trend_with_the/)
 - [Bad Apple!! in Tkinter](https://www.reddit.com/r/Python/comments/s8a17m/bad_apple_in_tkinter/)
 - [Architecture question: where to put business logic](https://www.reddit.com/r/Python/comments/s89bia/architecture_question_where_to_put_business_logic/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/s84kt4/thursday_daily_thread_python_careers_courses_and/)
