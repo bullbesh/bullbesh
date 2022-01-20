@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OK so i have something unusual here, i want to start a personal assistant that apparently has already been made.](https://www.reddit.com/r/Python/comments/s8g2r9/ok_so_i_have_something_unusual_here_i_want_to/)
+- [Top 5 Advanced Features Of Python &lpar;And How To Use Them&rpar;](https://www.reddit.com/r/Python/comments/s8fzp5/top_5_advanced_features_of_python_and_how_to_use/)
 - [Xpresso is an ASGI web framework built on top of Starlette, Pydantic and di, with heavy inspiration from FastAPI.](https://www.reddit.com/r/Python/comments/s8frat/xpresso_is_an_asgi_web_framework_built_on_top_of/)
 - [18 Common Python Anti-Patterns I Wish I Had Known Before](https://www.reddit.com/r/Python/comments/s8fec0/18_common_python_antipatterns_i_wish_i_had_known/)
 - [Solving Wordle with Python](https://www.reddit.com/r/Python/comments/s8e56n/solving_wordle_with_python/)
-- [Steve Wozniak’s operating system rewritten in Python to learn how it works](https://www.reddit.com/r/Python/comments/s8e1lg/steve_wozniaks_operating_system_rewritten_in/)
-- [Yes it&#39;s been an 1year since I have created and deployed my python django website calcont and it has 20k+ organic traffic now and when I have started it gets 0-30 users in a day for 3-4 months after creation.Since then updated a UI and added many tools in it.](https://www.reddit.com/r/Python/comments/s8cy97/yes_its_been_an_1year_since_i_have_created_and/)
 <!-- BLOG-POST-LIST:END -->
