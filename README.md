@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stand up your own translation service](https://www.reddit.com/r/Python/comments/s9aib1/stand_up_your_own_translation_service/)
+- [Hashtag generator made using python.](https://www.reddit.com/r/Python/comments/s9ab8y/hashtag_generator_made_using_python/)
 - [Released: DJ-Snake - Django command to load fixture without overriding existing objects with the same primary key | Handles circular dependency as well.](https://www.reddit.com/r/Python/comments/s997xy/released_djsnake_django_command_to_load_fixture/)
 - [Convert an Image to css pixel art!](https://www.reddit.com/r/Python/comments/s97nin/convert_an_image_to_css_pixel_art/)
 - [Things You Didn’t Know About Python Dictionaries](https://www.reddit.com/r/Python/comments/s97jse/things_you_didnt_know_about_python_dictionaries/)
-- [Python sets, frozensets, and literals [LWN.net]](https://www.reddit.com/r/Python/comments/s96ofm/python_sets_frozensets_and_literals_lwnnet/)
-- [Simple CRUD application generator for NodeJS written in Python](https://www.reddit.com/r/Python/comments/s96bs3/simple_crud_application_generator_for_nodejs/)
 <!-- BLOG-POST-LIST:END -->
