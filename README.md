@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Reply Networks from Reddit Comment Threads - ConnectingFigures](https://www.reddit.com/r/Python/comments/s9bo5y/creating_reply_networks_from_reddit_comment/)
+- [Safe, convenient abstraction for shell pipelines?](https://www.reddit.com/r/Python/comments/s9b8sh/safe_convenient_abstraction_for_shell_pipelines/)
+- [Secrets of MicroPython 5: Fun with Neopixels!](https://www.reddit.com/r/Python/comments/s9annl/secrets_of_micropython_5_fun_with_neopixels/)
 - [Stand up your own translation service](https://www.reddit.com/r/Python/comments/s9aib1/stand_up_your_own_translation_service/)
 - [Hashtag generator made using python.](https://www.reddit.com/r/Python/comments/s9ab8y/hashtag_generator_made_using_python/)
-- [Released: DJ-Snake - Django command to load fixture without overriding existing objects with the same primary key | Handles circular dependency as well.](https://www.reddit.com/r/Python/comments/s997xy/released_djsnake_django_command_to_load_fixture/)
-- [Convert an Image to css pixel art!](https://www.reddit.com/r/Python/comments/s97nin/convert_an_image_to_css_pixel_art/)
-- [Things You Didn’t Know About Python Dictionaries](https://www.reddit.com/r/Python/comments/s97jse/things_you_didnt_know_about_python_dictionaries/)
 <!-- BLOG-POST-LIST:END -->
