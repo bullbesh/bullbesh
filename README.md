@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [forx - a command line tool for checking exchange rates between currencies, both crypto and fiat.](https://www.reddit.com/r/Python/comments/s9l0zn/forx_a_command_line_tool_for_checking_exchange/)
+- [A Python Jupyter Kernel in Slack. Just send Python code as a message!](https://www.reddit.com/r/Python/comments/s9k3yq/a_python_jupyter_kernel_in_slack_just_send_python/)
+- [Python basic in 4 minutes](https://www.reddit.com/r/Python/comments/s9k3g4/python_basic_in_4_minutes/)
 - [Code that checks if you can make the first word with the letters of the second](https://www.reddit.com/r/Python/comments/s9jn23/code_that_checks_if_you_can_make_the_first_word/)
 - [Automation accomplished in a video game called Bloons TD 6](https://www.reddit.com/r/Python/comments/s9iv6p/automation_accomplished_in_a_video_game_called/)
-- [How do find an emphasis?](https://www.reddit.com/r/Python/comments/s9ihvu/how_do_find_an_emphasis/)
-- [Hello Python](https://www.reddit.com/r/Python/comments/s9i7t7/hello_python/)
-- [Sector Generator for Traveller RPG](https://www.reddit.com/r/Python/comments/s9h3li/sector_generator_for_traveller_rpg/)
 <!-- BLOG-POST-LIST:END -->
