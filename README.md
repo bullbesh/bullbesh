@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are the differences &lpar;and implications&rpar; of reloading vs. unloading a module?](https://www.reddit.com/r/Python/comments/s9eb3b/what_are_the_differences_and_implications_of/)
+- [Chatroom server tutorial](https://www.reddit.com/r/Python/comments/s9eamc/chatroom_server_tutorial/)
+- [Creating a robust backend API using FastAPI in Python for MKBHD&#39;s Waveform Podcast Search Engine &lpar;Frontend in React&rpar;](https://www.reddit.com/r/Python/comments/s9dqe1/creating_a_robust_backend_api_using_fastapi_in/)
 - [Creating Reply Networks from Reddit Comment Threads - ConnectingFigures](https://www.reddit.com/r/Python/comments/s9bo5y/creating_reply_networks_from_reddit_comment/)
 - [Safe, convenient abstraction for shell pipelines?](https://www.reddit.com/r/Python/comments/s9b8sh/safe_convenient_abstraction_for_shell_pipelines/)
-- [Secrets of MicroPython 5: Fun with Neopixels!](https://www.reddit.com/r/Python/comments/s9annl/secrets_of_micropython_5_fun_with_neopixels/)
-- [Stand up your own translation service](https://www.reddit.com/r/Python/comments/s9aib1/stand_up_your_own_translation_service/)
-- [Hashtag generator made using python.](https://www.reddit.com/r/Python/comments/s9ab8y/hashtag_generator_made_using_python/)
 <!-- BLOG-POST-LIST:END -->
