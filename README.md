@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RedDownloader 3 Released with now the capability to use Reddit API methods without having your own praw/reddit API bot!](https://www.reddit.com/r/Python/comments/s94nu1/reddownloader_3_released_with_now_the_capability/)
+- [How to Create a Face Mask Detector in 5 min 🔴 with OpenCV | Keras | Python and Deep Learning](https://www.reddit.com/r/Python/comments/s949mb/how_to_create_a_face_mask_detector_in_5_min_with/)
 - [Sticky-notes alternative, made using tkinter](https://www.reddit.com/r/Python/comments/s8zlfd/stickynotes_alternative_made_using_tkinter/)
 - [The SciPy 2022 CFP is open! Deadline to submit is 11th Feb](https://www.reddit.com/r/Python/comments/s8y2vz/the_scipy_2022_cfp_is_open_deadline_to_submit_is/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/s8wmns/friday_daily_thread_free_chat_friday_daily_thread/)
-- [How to Use NPV &amp; IRR in NumPy Financial for Python | Net Present Value &amp;...](https://www.reddit.com/r/Python/comments/s8v9dw/how_to_use_npv_irr_in_numpy_financial_for_python/)
-- [A simple tool to view some Joblib files](https://www.reddit.com/r/Python/comments/s8u80e/a_simple_tool_to_view_some_joblib_files/)
 <!-- BLOG-POST-LIST:END -->
