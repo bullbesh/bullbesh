@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Convert an Image to css pixel art!](https://www.reddit.com/r/Python/comments/s97nin/convert_an_image_to_css_pixel_art/)
+- [Things You Didn’t Know About Python Dictionaries](https://www.reddit.com/r/Python/comments/s97jse/things_you_didnt_know_about_python_dictionaries/)
 - [Python sets, frozensets, and literals [LWN.net]](https://www.reddit.com/r/Python/comments/s96ofm/python_sets_frozensets_and_literals_lwnnet/)
 - [Simple CRUD application generator for NodeJS written in Python](https://www.reddit.com/r/Python/comments/s96bs3/simple_crud_application_generator_for_nodejs/)
 - [PEP 679 -- Allow parentheses in assert statements](https://www.reddit.com/r/Python/comments/s95lyb/pep_679_allow_parentheses_in_assert_statements/)
-- [Sending JSON data to Heroku hosted Postgres Database, using Flask, SqlAlchemy, and Marshmallow](https://www.reddit.com/r/Python/comments/s95ct2/sending_json_data_to_heroku_hosted_postgres/)
-- [RedDownloader 3 Released with now the capability to use Reddit API methods without having your own praw/reddit API bot!](https://www.reddit.com/r/Python/comments/s94nu1/reddownloader_3_released_with_now_the_capability/)
 <!-- BLOG-POST-LIST:END -->
