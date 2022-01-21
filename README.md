@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Etch N Sketch](https://www.reddit.com/r/Python/comments/s9mld2/python_etch_n_sketch/)
+- [Twitch Viewer Bot](https://www.reddit.com/r/Python/comments/s9lo9g/twitch_viewer_bot/)
+- [miniparser - a simple and easy to use command line parser for python programs](https://www.reddit.com/r/Python/comments/s9ldb3/miniparser_a_simple_and_easy_to_use_command_line/)
+- [Arbitrary Code Execution vulnerability discovered in Ipython](https://www.reddit.com/r/Python/comments/s9l5oy/arbitrary_code_execution_vulnerability_discovered/)
 - [forx - a command line tool for checking exchange rates between currencies, both crypto and fiat.](https://www.reddit.com/r/Python/comments/s9l0zn/forx_a_command_line_tool_for_checking_exchange/)
-- [A Python Jupyter Kernel in Slack. Just send Python code as a message!](https://www.reddit.com/r/Python/comments/s9k3yq/a_python_jupyter_kernel_in_slack_just_send_python/)
-- [Python basic in 4 minutes](https://www.reddit.com/r/Python/comments/s9k3g4/python_basic_in_4_minutes/)
-- [Code that checks if you can make the first word with the letters of the second](https://www.reddit.com/r/Python/comments/s9jn23/code_that_checks_if_you_can_make_the_first_word/)
-- [Automation accomplished in a video game called Bloons TD 6](https://www.reddit.com/r/Python/comments/s9iv6p/automation_accomplished_in_a_video_game_called/)
 <!-- BLOG-POST-LIST:END -->
