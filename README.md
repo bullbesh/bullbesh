@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code that checks if you can make the first word with the letters of the second](https://www.reddit.com/r/Python/comments/s9jn23/code_that_checks_if_you_can_make_the_first_word/)
+- [Automation accomplished in a video game called Bloons TD 6](https://www.reddit.com/r/Python/comments/s9iv6p/automation_accomplished_in_a_video_game_called/)
 - [How do find an emphasis?](https://www.reddit.com/r/Python/comments/s9ihvu/how_do_find_an_emphasis/)
 - [Hello Python](https://www.reddit.com/r/Python/comments/s9i7t7/hello_python/)
 - [Sector Generator for Traveller RPG](https://www.reddit.com/r/Python/comments/s9h3li/sector_generator_for_traveller_rpg/)
-- [Python For Data Science](https://www.reddit.com/r/Python/comments/s9gvee/python_for_data_science/)
-- [Ported the 3D “business card raytracer” to Python - source code and how it was done](https://www.reddit.com/r/Python/comments/s9frlr/ported_the_3d_business_card_raytracer_to_python/)
 <!-- BLOG-POST-LIST:END -->
