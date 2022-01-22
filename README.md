@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m looking for a coder/programmer of python](https://www.reddit.com/r/Python/comments/sa62cp/im_looking_for_a_coderprogrammer_of_python/)
+- [I Tried Open edX and it&#39;s Awesome](https://www.reddit.com/r/Python/comments/sa624w/i_tried_open_edx_and_its_awesome/)
 - [Classification of Higgs boson decays using machine learning with Python](https://www.reddit.com/r/Python/comments/sa4k08/classification_of_higgs_boson_decays_using/)
 - [enjoy a chill saturday with lofi jazz bubble sort algorithm coding with python](https://www.reddit.com/r/Python/comments/sa4hw3/enjoy_a_chill_saturday_with_lofi_jazz_bubble_sort/)
 - [The fact that mutable objects are not hashable is by design?](https://www.reddit.com/r/Python/comments/sa3azv/the_fact_that_mutable_objects_are_not_hashable_is/)
-- [Packages for email automation](https://www.reddit.com/r/Python/comments/sa2mes/packages_for_email_automation/)
-- [I have created a simple project using FastAPI and DynamoDB using pynamodb](https://www.reddit.com/r/Python/comments/sa289q/i_have_created_a_simple_project_using_fastapi_and/)
 <!-- BLOG-POST-LIST:END -->
