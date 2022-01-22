@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a program that randomly generates pride flags!](https://www.reddit.com/r/Python/comments/saddmf/i_made_a_program_that_randomly_generates_pride/)
 - [Plot Fourier transform from a pcap or pcapng file using python for creating a dataset](https://www.reddit.com/r/Python/comments/sacacl/plot_fourier_transform_from_a_pcap_or_pcapng_file/)
 - [How to improve low resolution images and videos using Real-ESRGAN and Python [tutorial]](https://www.reddit.com/r/Python/comments/saaljd/how_to_improve_low_resolution_images_and_videos/)
 - [Host Your Django App For Free](https://www.reddit.com/r/Python/comments/sa9lr6/host_your_django_app_for_free/)
 - [Experience with pipenv good or bad?](https://www.reddit.com/r/Python/comments/sa95hx/experience_with_pipenv_good_or_bad/)
-- [Showcase: Tablet Dashboard to access application and webpage shortcuts on the local machine from another device on the network youtube.com/watch?...](https://www.reddit.com/r/Python/comments/sa8v88/showcase_tablet_dashboard_to_access_application/)
 <!-- BLOG-POST-LIST:END -->
