@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Classification of Higgs boson decays using machine learning with Python](https://www.reddit.com/r/Python/comments/sa4k08/classification_of_higgs_boson_decays_using/)
+- [enjoy a chill saturday with lofi jazz bubble sort algorithm coding with python](https://www.reddit.com/r/Python/comments/sa4hw3/enjoy_a_chill_saturday_with_lofi_jazz_bubble_sort/)
 - [The fact that mutable objects are not hashable is by design?](https://www.reddit.com/r/Python/comments/sa3azv/the_fact_that_mutable_objects_are_not_hashable_is/)
 - [Packages for email automation](https://www.reddit.com/r/Python/comments/sa2mes/packages_for_email_automation/)
 - [I have created a simple project using FastAPI and DynamoDB using pynamodb](https://www.reddit.com/r/Python/comments/sa289q/i_have_created_a_simple_project_using_fastapi_and/)
-- [Relaxing music to listen to while programming](https://www.reddit.com/r/Python/comments/sa1r3l/relaxing_music_to_listen_to_while_programming/)
-- [_MEIPASS - No such file or directory error](https://www.reddit.com/r/Python/comments/sa177w/meipass_no_such_file_or_directory_error/)
 <!-- BLOG-POST-LIST:END -->
