@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Implement Python But Where](https://www.reddit.com/r/Python/comments/s9ydnk/implement_python_but_where/)
+- [TO CRYPTOGRAPHY EXPERTS: How secure is my password manager?](https://www.reddit.com/r/Python/comments/s9ybl1/to_cryptography_experts_how_secure_is_my_password/)
 - [SortMe - a Tkinter app for sorting images side-by-side](https://www.reddit.com/r/Python/comments/s9xb2m/sortme_a_tkinter_app_for_sorting_images_sidebyside/)
 - [My Python micro benchmarking framework.](https://www.reddit.com/r/Python/comments/s9rsp0/my_python_micro_benchmarking_framework/)
 - [AI written docstrings for your Python code](https://www.reddit.com/r/Python/comments/s9qozh/ai_written_docstrings_for_your_python_code/)
-- [I made a python package that validates user&#39;s inputs and if it fails, tells them why!](https://www.reddit.com/r/Python/comments/s9qdk6/i_made_a_python_package_that_validates_users/)
-- [Weird result of translating Japanese to English with DeepL both python module and the web UI](https://www.reddit.com/r/Python/comments/s9p6c8/weird_result_of_translating_japanese_to_english/)
 <!-- BLOG-POST-LIST:END -->
