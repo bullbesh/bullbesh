@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Host Your Django App For Free](https://www.reddit.com/r/Python/comments/sa9lr6/host_your_django_app_for_free/)
+- [Experience with pipenv good or bad?](https://www.reddit.com/r/Python/comments/sa95hx/experience_with_pipenv_good_or_bad/)
+- [Showcase: Tablet Dashboard to access application and webpage shortcuts on the local machine from another device on the network youtube.com/watch?...](https://www.reddit.com/r/Python/comments/sa8v88/showcase_tablet_dashboard_to_access_application/)
+- [PEP 646 &lpar;Variadic Generics&rpar; has been accepted for Python 3.11](https://www.reddit.com/r/Python/comments/sa8ofv/pep_646_variadic_generics_has_been_accepted_for/)
 - [Algorithms and Data Structures FREE COURSE || Recursion Part 2|| LeetCode 24 Swap Nodes in Pairs - JAVA and PYTHON](https://www.reddit.com/r/Python/comments/sa880y/algorithms_and_data_structures_free_course/)
-- [Impressive Projects for an Interview](https://www.reddit.com/r/Python/comments/sa81eh/impressive_projects_for_an_interview/)
-- [I&#39;m taking a python fundamentals course for my CIS bachelor&#39;s degree&lpar;online&rpar;. I&#39;m struggling already....does anyone know where I can turn to grasp things such as for loops? This is week 2 and I&#39;m getting nervous. I can pay a tutor. I just don&#39;t know anyone in this field. I watched hrs of YouTube.](https://www.reddit.com/r/Python/comments/sa7w7p/im_taking_a_python_fundamentals_course_for_my_cis/)
-- [Modified Caesar cipher program I&#39;ve been working on](https://www.reddit.com/r/Python/comments/sa7k3p/modified_caesar_cipher_program_ive_been_working_on/)
-- [Space Science with Python - Part 23: Philae&#39;s Landing](https://www.reddit.com/r/Python/comments/sa6x9b/space_science_with_python_part_23_philaes_landing/)
 <!-- BLOG-POST-LIST:END -->
