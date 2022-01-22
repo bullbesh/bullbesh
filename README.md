@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing packages in Python 3.9 using Anaconda Spyder IDE](https://www.reddit.com/r/Python/comments/s9vho6/installing_packages_in_python_39_using_anaconda/)
 - [My Python micro benchmarking framework.](https://www.reddit.com/r/Python/comments/s9rsp0/my_python_micro_benchmarking_framework/)
 - [AI written docstrings for your Python code](https://www.reddit.com/r/Python/comments/s9qozh/ai_written_docstrings_for_your_python_code/)
 - [I made a python package that validates user&#39;s inputs and if it fails, tells them why!](https://www.reddit.com/r/Python/comments/s9qdk6/i_made_a_python_package_that_validates_users/)
 - [Weird result of translating Japanese to English with DeepL both python module and the web UI](https://www.reddit.com/r/Python/comments/s9p6c8/weird_result_of_translating_japanese_to_english/)
-- [kittenFS: A simple take at a distributed key/value store written in python.](https://www.reddit.com/r/Python/comments/s9p43w/kittenfs_a_simple_take_at_a_distributed_keyvalue/)
 <!-- BLOG-POST-LIST:END -->
