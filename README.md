@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Algorithms and Data Structures FREE COURSE || Recursion Part 2|| LeetCode 24 Swap Nodes in Pairs - JAVA and PYTHON](https://www.reddit.com/r/Python/comments/sa880y/algorithms_and_data_structures_free_course/)
+- [Impressive Projects for an Interview](https://www.reddit.com/r/Python/comments/sa81eh/impressive_projects_for_an_interview/)
+- [I&#39;m taking a python fundamentals course for my CIS bachelor&#39;s degree&lpar;online&rpar;. I&#39;m struggling already....does anyone know where I can turn to grasp things such as for loops? This is week 2 and I&#39;m getting nervous. I can pay a tutor. I just don&#39;t know anyone in this field. I watched hrs of YouTube.](https://www.reddit.com/r/Python/comments/sa7w7p/im_taking_a_python_fundamentals_course_for_my_cis/)
+- [Modified Caesar cipher program I&#39;ve been working on](https://www.reddit.com/r/Python/comments/sa7k3p/modified_caesar_cipher_program_ive_been_working_on/)
 - [Space Science with Python - Part 23: Philae&#39;s Landing](https://www.reddit.com/r/Python/comments/sa6x9b/space_science_with_python_part_23_philaes_landing/)
-- [FIRE Calculator &lpar;Beginner Project/Feedback appreciated&rpar;](https://www.reddit.com/r/Python/comments/sa6fle/fire_calculator_beginner_projectfeedback/)
-- [I&#39;m looking for a coder/programmer of python](https://www.reddit.com/r/Python/comments/sa62cp/im_looking_for_a_coderprogrammer_of_python/)
-- [I Tried Open edX and it&#39;s Awesome](https://www.reddit.com/r/Python/comments/sa624w/i_tried_open_edx_and_its_awesome/)
-- [Classification of Higgs boson decays using machine learning with Python](https://www.reddit.com/r/Python/comments/sa4k08/classification_of_higgs_boson_decays_using/)
 <!-- BLOG-POST-LIST:END -->
