@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Installing packages in Python 3.9 using Anaconda Spyder IDE](https://www.reddit.com/r/Python/comments/s9vho6/installing_packages_in_python_39_using_anaconda/)
+- [SortMe - a Tkinter app for sorting images side-by-side](https://www.reddit.com/r/Python/comments/s9xb2m/sortme_a_tkinter_app_for_sorting_images_sidebyside/)
 - [My Python micro benchmarking framework.](https://www.reddit.com/r/Python/comments/s9rsp0/my_python_micro_benchmarking_framework/)
 - [AI written docstrings for your Python code](https://www.reddit.com/r/Python/comments/s9qozh/ai_written_docstrings_for_your_python_code/)
 - [I made a python package that validates user&#39;s inputs and if it fails, tells them why!](https://www.reddit.com/r/Python/comments/s9qdk6/i_made_a_python_package_that_validates_users/)
