@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I have created a simple project using FastAPI and DynamoDB using pynamodb](https://www.reddit.com/r/Python/comments/sa289q/i_have_created_a_simple_project_using_fastapi_and/)
+- [Relaxing music to listen to while programming](https://www.reddit.com/r/Python/comments/sa1r3l/relaxing_music_to_listen_to_while_programming/)
 - [_MEIPASS - No such file or directory error](https://www.reddit.com/r/Python/comments/sa177w/meipass_no_such_file_or_directory_error/)
 - [Code imrovement](https://www.reddit.com/r/Python/comments/sa0rfe/code_imrovement/)
 - [Run your own locally-hosted translation service with a couple lines of code](https://www.reddit.com/r/Python/comments/sa0oxg/run_your_own_locallyhosted_translation_service/)
-- [I made a Wordle solver in Python using selenium.](https://www.reddit.com/r/Python/comments/sa02vu/i_made_a_wordle_solver_in_python_using_selenium/)
-- [3D Technical Visualization Library for Blender with Python Scripting](https://www.reddit.com/r/Python/comments/s9zww2/3d_technical_visualization_library_for_blender/)
 <!-- BLOG-POST-LIST:END -->
