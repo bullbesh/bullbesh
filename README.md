@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The fact that mutable objects are not hashable is by design?](https://www.reddit.com/r/Python/comments/sa3azv/the_fact_that_mutable_objects_are_not_hashable_is/)
+- [Packages for email automation](https://www.reddit.com/r/Python/comments/sa2mes/packages_for_email_automation/)
 - [I have created a simple project using FastAPI and DynamoDB using pynamodb](https://www.reddit.com/r/Python/comments/sa289q/i_have_created_a_simple_project_using_fastapi_and/)
 - [Relaxing music to listen to while programming](https://www.reddit.com/r/Python/comments/sa1r3l/relaxing_music_to_listen_to_while_programming/)
 - [_MEIPASS - No such file or directory error](https://www.reddit.com/r/Python/comments/sa177w/meipass_no_such_file_or_directory_error/)
-- [Code imrovement](https://www.reddit.com/r/Python/comments/sa0rfe/code_imrovement/)
-- [Run your own locally-hosted translation service with a couple lines of code](https://www.reddit.com/r/Python/comments/sa0oxg/run_your_own_locallyhosted_translation_service/)
 <!-- BLOG-POST-LIST:END -->
