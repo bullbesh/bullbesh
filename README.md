@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [_MEIPASS - No such file or directory error](https://www.reddit.com/r/Python/comments/sa177w/meipass_no_such_file_or_directory_error/)
+- [Code imrovement](https://www.reddit.com/r/Python/comments/sa0rfe/code_imrovement/)
+- [Run your own locally-hosted translation service with a couple lines of code](https://www.reddit.com/r/Python/comments/sa0oxg/run_your_own_locallyhosted_translation_service/)
 - [I made a Wordle solver in Python using selenium.](https://www.reddit.com/r/Python/comments/sa02vu/i_made_a_wordle_solver_in_python_using_selenium/)
 - [3D Technical Visualization Library for Blender with Python Scripting](https://www.reddit.com/r/Python/comments/s9zww2/3d_technical_visualization_library_for_blender/)
-- [Implement Python But Where](https://www.reddit.com/r/Python/comments/s9ydnk/implement_python_but_where/)
-- [TO CRYPTOGRAPHY EXPERTS: How secure is my password manager?](https://www.reddit.com/r/Python/comments/s9ybl1/to_cryptography_experts_how_secure_is_my_password/)
-- [SortMe - a Tkinter app for sorting images side-by-side](https://www.reddit.com/r/Python/comments/s9xb2m/sortme_a_tkinter_app_for_sorting_images_sidebyside/)
 <!-- BLOG-POST-LIST:END -->
