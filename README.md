@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Python micro benchmarking framework.](https://www.reddit.com/r/Python/comments/s9rsp0/my_python_micro_benchmarking_framework/)
+- [AI written docstrings for your Python code](https://www.reddit.com/r/Python/comments/s9qozh/ai_written_docstrings_for_your_python_code/)
+- [I made a python package that validates user&#39;s inputs and if it fails, tells them why!](https://www.reddit.com/r/Python/comments/s9qdk6/i_made_a_python_package_that_validates_users/)
 - [Weird result of translating Japanese to English with DeepL both python module and the web UI](https://www.reddit.com/r/Python/comments/s9p6c8/weird_result_of_translating_japanese_to_english/)
 - [kittenFS: A simple take at a distributed key/value store written in python.](https://www.reddit.com/r/Python/comments/s9p43w/kittenfs_a_simple_take_at_a_distributed_keyvalue/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/s9ou6z/saturday_daily_thread_resource_request_and/)
-- [Follow/Unfollow bot for GitHub accounts](https://www.reddit.com/r/Python/comments/s9ohyt/followunfollow_bot_for_github_accounts/)
-- [Python Etch-N-Sketch](https://www.reddit.com/r/Python/comments/s9msv8/python_etchnsketch/)
 <!-- BLOG-POST-LIST:END -->
