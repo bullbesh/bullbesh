@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Easily test simple Algo Trading Strategies on Your Favorite Stocks using Python Backtesting](https://www.reddit.com/r/Python/comments/s9z1at/easily_test_simple_algo_trading_strategies_on/)
+- [I made a Wordle solver in Python using selenium.](https://www.reddit.com/r/Python/comments/sa02vu/i_made_a_wordle_solver_in_python_using_selenium/)
+- [3D Technical Visualization Library for Blender with Python Scripting](https://www.reddit.com/r/Python/comments/s9zww2/3d_technical_visualization_library_for_blender/)
 - [Implement Python But Where](https://www.reddit.com/r/Python/comments/s9ydnk/implement_python_but_where/)
 - [TO CRYPTOGRAPHY EXPERTS: How secure is my password manager?](https://www.reddit.com/r/Python/comments/s9ybl1/to_cryptography_experts_how_secure_is_my_password/)
 - [SortMe - a Tkinter app for sorting images side-by-side](https://www.reddit.com/r/Python/comments/s9xb2m/sortme_a_tkinter_app_for_sorting_images_sidebyside/)
-- [My Python micro benchmarking framework.](https://www.reddit.com/r/Python/comments/s9rsp0/my_python_micro_benchmarking_framework/)
 <!-- BLOG-POST-LIST:END -->
