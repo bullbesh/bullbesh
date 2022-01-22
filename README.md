@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is Python Free? &lpar;Python Tools Article&rpar;](https://www.reddit.com/r/Python/comments/s9n7tc/is_python_free_python_tools_article/)
+- [Weird result of translating Japanese to English with DeepL both python module and the web UI](https://www.reddit.com/r/Python/comments/s9p6c8/weird_result_of_translating_japanese_to_english/)
+- [kittenFS: A simple take at a distributed key/value store written in python.](https://www.reddit.com/r/Python/comments/s9p43w/kittenfs_a_simple_take_at_a_distributed_keyvalue/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/s9ou6z/saturday_daily_thread_resource_request_and/)
+- [Follow/Unfollow bot for GitHub accounts](https://www.reddit.com/r/Python/comments/s9ohyt/followunfollow_bot_for_github_accounts/)
 - [Python Etch-N-Sketch](https://www.reddit.com/r/Python/comments/s9msv8/python_etchnsketch/)
-- [miniparser - a simple and easy to use command line parser for python programs](https://www.reddit.com/r/Python/comments/s9ldb3/miniparser_a_simple_and_easy_to_use_command_line/)
-- [Arbitrary Code Execution vulnerability discovered in Ipython](https://www.reddit.com/r/Python/comments/s9l5oy/arbitrary_code_execution_vulnerability_discovered/)
-- [forx - a command line tool for checking exchange rates between currencies, both crypto and fiat.](https://www.reddit.com/r/Python/comments/s9l0zn/forx_a_command_line_tool_for_checking_exchange/)
 <!-- BLOG-POST-LIST:END -->
