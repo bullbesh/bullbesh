@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easily backtest your Trading Strategies on your favorite Stocks using Python](https://www.reddit.com/r/Python/comments/sappli/easily_backtest_your_trading_strategies_on_your/)
+- [Need recommendations](https://www.reddit.com/r/Python/comments/sap8hs/need_recommendations/)
+- [Can I get some environment management tips/critique?](https://www.reddit.com/r/Python/comments/saoz5c/can_i_get_some_environment_management_tipscritique/)
 - [Made a program to turn images into ASCII art](https://www.reddit.com/r/Python/comments/saovu3/made_a_program_to_turn_images_into_ascii_art/)
 - [LogExAn : A python library for analyzing considerably larger logical expressions in PYPI &lpar;for purposes of reverse logical calculation&rpar;](https://www.reddit.com/r/Python/comments/sannyt/logexan_a_python_library_for_analyzing/)
-- [My naive solution to find unused import problem of python](https://www.reddit.com/r/Python/comments/sam18i/my_naive_solution_to_find_unused_import_problem/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/safw3y/sunday_daily_thread_whats_everyone_working_on/)
-- [Finished making the foundations of my flashcard app](https://www.reddit.com/r/Python/comments/saflfi/finished_making_the_foundations_of_my_flashcard/)
 <!-- BLOG-POST-LIST:END -->
