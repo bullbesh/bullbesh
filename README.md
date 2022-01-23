@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best place for experienced programmers to learn python best practises, quirks, etc](https://www.reddit.com/r/Python/comments/sb6unj/best_place_for_experienced_programmers_to_learn/)
+- [What would you guys think about something likes this? &lpar;Containers for immutable types to make them mutable&rpar;](https://www.reddit.com/r/Python/comments/sb6k9c/what_would_you_guys_think_about_something_likes/)
 - [I have made spongebob-cli, watch classic spongebob from your terminal! ☂️](https://www.reddit.com/r/Python/comments/sb4m4m/i_have_made_spongebobcli_watch_classic_spongebob/)
 - [Web Scraping LinkedIn](https://www.reddit.com/r/Python/comments/sb484g/web_scraping_linkedin/)
 - [Is python the best language to learn if I am interested in building apps fast and doing data analytics?](https://www.reddit.com/r/Python/comments/sb3ggh/is_python_the_best_language_to_learn_if_i_am/)
-- [Help understanding python ellipsis](https://www.reddit.com/r/Python/comments/sb37z1/help_understanding_python_ellipsis/)
-- [Podcasts?](https://www.reddit.com/r/Python/comments/sb1dgi/podcasts/)
 <!-- BLOG-POST-LIST:END -->
