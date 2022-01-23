@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hikaru 0.9.0b released](https://www.reddit.com/r/Python/comments/sb0loq/hikaru_090b_released/)
 - [Wordle Solver](https://www.reddit.com/r/Python/comments/sazua9/wordle_solver/)
 - [GitHub - smacke/pyccolo: Declarative instrumentation for Python.](https://www.reddit.com/r/Python/comments/sazfwl/github_smackepyccolo_declarative_instrumentation/)
 - [Type safe Django app, Part 1](https://www.reddit.com/r/Python/comments/saye7t/type_safe_django_app_part_1/)
 - [Handling same exception &lpar;with different msg&rpar; thrown by different methods &amp; functions?](https://www.reddit.com/r/Python/comments/say2ri/handling_same_exception_with_different_msg_thrown/)
-- [Solving Wordle with Python](https://www.reddit.com/r/Python/comments/savtsx/solving_wordle_with_python/)
 <!-- BLOG-POST-LIST:END -->
