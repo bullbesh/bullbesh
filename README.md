@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving Wordle with Python](https://www.reddit.com/r/Python/comments/savtsx/solving_wordle_with_python/)
+- [How to easily WebScrape and quickly obtain fundamental indicators on your favorite stocks using Python](https://www.reddit.com/r/Python/comments/saustx/how_to_easily_webscrape_and_quickly_obtain/)
 - [PyBake: Create single file standalone Python scripts with builtin frozen file system](https://www.reddit.com/r/Python/comments/saujdj/pybake_create_single_file_standalone_python/)
 - [Advanced settings of the VSCode extension &quot;Blockman&quot;](https://www.reddit.com/r/Python/comments/saufi3/advanced_settings_of_the_vscode_extension_blockman/)
 - [CaptchaCracker &lpar;using tensorflow&rpar;](https://www.reddit.com/r/Python/comments/saueko/captchacracker_using_tensorflow/)
-- [Strict Python function parameters](https://www.reddit.com/r/Python/comments/sauegg/strict_python_function_parameters/)
-- [How to improve code](https://www.reddit.com/r/Python/comments/satjo3/how_to_improve_code/)
 <!-- BLOG-POST-LIST:END -->
