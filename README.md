@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Django Custom User Model](https://www.reddit.com/r/Python/comments/sat4iq/django_custom_user_model/)
-- [How to send and receive emails?](https://www.reddit.com/r/Python/comments/sarzj8/how_to_send_and_receive_emails/)
-- [Easily backtest your Trading Strategies on your favorite Stocks using Python](https://www.reddit.com/r/Python/comments/sappli/easily_backtest_your_trading_strategies_on_your/)
-- [Need recommendations](https://www.reddit.com/r/Python/comments/sap8hs/need_recommendations/)
-- [Can I get some environment management tips/critique?](https://www.reddit.com/r/Python/comments/saoz5c/can_i_get_some_environment_management_tipscritique/)
+- [PyBake: Create single file standalone Python scripts with builtin frozen file system](https://www.reddit.com/r/Python/comments/saujdj/pybake_create_single_file_standalone_python/)
+- [Advanced settings of the VSCode extension &quot;Blockman&quot;](https://www.reddit.com/r/Python/comments/saufi3/advanced_settings_of_the_vscode_extension_blockman/)
+- [CaptchaCracker &lpar;using tensorflow&rpar;](https://www.reddit.com/r/Python/comments/saueko/captchacracker_using_tensorflow/)
+- [Strict Python function parameters](https://www.reddit.com/r/Python/comments/sauegg/strict_python_function_parameters/)
+- [How to improve code](https://www.reddit.com/r/Python/comments/satjo3/how_to_improve_code/)
 <!-- BLOG-POST-LIST:END -->
