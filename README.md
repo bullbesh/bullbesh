@@ -18,6 +18,6 @@
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/safw3y/sunday_daily_thread_whats_everyone_working_on/)
 - [Finished making the foundations of my flashcard app](https://www.reddit.com/r/Python/comments/saflfi/finished_making_the_foundations_of_my_flashcard/)
 - [I built DCAStack.com - An Open Source DCA Bot for Crypto!](https://www.reddit.com/r/Python/comments/saeebf/i_built_dcastackcom_an_open_source_dca_bot_for/)
-- [I made a program that randomly generates pride flags!](https://www.reddit.com/r/Python/comments/saddmf/i_made_a_program_that_randomly_generates_pride/)
 - [Plot Fourier transform from a pcap or pcapng file using python for creating a dataset](https://www.reddit.com/r/Python/comments/sacacl/plot_fourier_transform_from_a_pcap_or_pcapng_file/)
+- [How to improve low resolution images and videos using Real-ESRGAN and Python [tutorial]](https://www.reddit.com/r/Python/comments/saaljd/how_to_improve_low_resolution_images_and_videos/)
 <!-- BLOG-POST-LIST:END -->
