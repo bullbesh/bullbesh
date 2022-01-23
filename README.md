@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Type safe Django app, Part 1](https://www.reddit.com/r/Python/comments/saye7t/type_safe_django_app_part_1/)
+- [Handling same exception &lpar;with different msg&rpar; thrown by different methods &amp; functions?](https://www.reddit.com/r/Python/comments/say2ri/handling_same_exception_with_different_msg_thrown/)
 - [Solving Wordle with Python](https://www.reddit.com/r/Python/comments/savtsx/solving_wordle_with_python/)
 - [How to easily WebScrape and quickly obtain fundamental indicators on your favorite stocks using Python](https://www.reddit.com/r/Python/comments/saustx/how_to_easily_webscrape_and_quickly_obtain/)
 - [PyBake: Create single file standalone Python scripts with builtin frozen file system](https://www.reddit.com/r/Python/comments/saujdj/pybake_create_single_file_standalone_python/)
-- [Advanced settings of the VSCode extension &quot;Blockman&quot;](https://www.reddit.com/r/Python/comments/saufi3/advanced_settings_of_the_vscode_extension_blockman/)
-- [CaptchaCracker &lpar;using tensorflow&rpar;](https://www.reddit.com/r/Python/comments/saueko/captchacracker_using_tensorflow/)
 <!-- BLOG-POST-LIST:END -->
