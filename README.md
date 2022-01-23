@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wordle Solver](https://www.reddit.com/r/Python/comments/sazua9/wordle_solver/)
+- [GitHub - smacke/pyccolo: Declarative instrumentation for Python.](https://www.reddit.com/r/Python/comments/sazfwl/github_smackepyccolo_declarative_instrumentation/)
 - [Type safe Django app, Part 1](https://www.reddit.com/r/Python/comments/saye7t/type_safe_django_app_part_1/)
 - [Handling same exception &lpar;with different msg&rpar; thrown by different methods &amp; functions?](https://www.reddit.com/r/Python/comments/say2ri/handling_same_exception_with_different_msg_thrown/)
 - [Solving Wordle with Python](https://www.reddit.com/r/Python/comments/savtsx/solving_wordle_with_python/)
-- [How to easily WebScrape and quickly obtain fundamental indicators on your favorite stocks using Python](https://www.reddit.com/r/Python/comments/saustx/how_to_easily_webscrape_and_quickly_obtain/)
-- [PyBake: Create single file standalone Python scripts with builtin frozen file system](https://www.reddit.com/r/Python/comments/saujdj/pybake_create_single_file_standalone_python/)
 <!-- BLOG-POST-LIST:END -->
