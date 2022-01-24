@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I was wondering if anyone had a good idea that I could use for my school coding project. I am somewhat of a low intermediate python user BTW.](https://www.reddit.com/r/Python/comments/sbticu/i_was_wondering_if_anyone_had_a_good_idea_that_i/)
-- [Django multi-select choice array/JSON field in admin panel](https://www.reddit.com/r/Python/comments/sbticq/django_multiselect_choice_arrayjson_field_in/)
-- [Lingua 1.0.1: The most accurate natural language detection library for Python - previously for Python &gt;= 3.9, now compatible with Python &gt;= 3.7](https://www.reddit.com/r/Python/comments/sbswq7/lingua_101_the_most_accurate_natural_language/)
-- [Does anyone here use Gradle for Python repos?](https://www.reddit.com/r/Python/comments/sbrnng/does_anyone_here_use_gradle_for_python_repos/)
-- [I have made valito, a progressive validation library with individual field logging and regex support](https://www.reddit.com/r/Python/comments/sbqjnu/i_have_made_valito_a_progressive_validation/)
+- [Hiring a pythonista](https://www.reddit.com/r/Python/comments/sbv97h/hiring_a_pythonista/)
+- [I made a wordle starter word ranker, it&#39;s dumb but that&#39;s what being a programmer is about](https://www.reddit.com/r/Python/comments/sbv79t/i_made_a_wordle_starter_word_ranker_its_dumb_but/)
+- [Identity photo resizing](https://www.reddit.com/r/Python/comments/sbv542/identity_photo_resizing/)
+- [Article On Python Packages](https://www.reddit.com/r/Python/comments/sbuz16/article_on_python_packages/)
+- [Image Segmentation using K Means Clustering](https://www.reddit.com/r/Python/comments/sbugl0/image_segmentation_using_k_means_clustering/)
 <!-- BLOG-POST-LIST:END -->
