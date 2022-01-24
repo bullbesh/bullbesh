@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Python #1: Basics &lpar;Variables, Print, Basic Data Types, Math Operations&rpar; | #APDaga](https://www.reddit.com/r/Python/comments/sbex1d/python_1_basics_variables_print_basic_data_types/)
-- [How to use fsolve to find the root of polynomial?](https://www.reddit.com/r/Python/comments/sbd1e0/how_to_use_fsolve_to_find_the_root_of_polynomial/)
 - [How to Play Videos in PyGame/Python!](https://www.reddit.com/r/Python/comments/sbb2z3/how_to_play_videos_in_pygamepython/)
 - [Chord Diagrams and how to make them with Python](https://www.reddit.com/r/Python/comments/sbapee/chord_diagrams_and_how_to_make_them_with_python/)
 - [Scrape and summarize news articles using Natural Language Processing!](https://www.reddit.com/r/Python/comments/sba31u/scrape_and_summarize_news_articles_using_natural/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/sb7ugz/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
