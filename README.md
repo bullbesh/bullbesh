@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is a function argument and what is it used for?](https://www.reddit.com/r/Python/comments/sbhl8m/what_is_a_function_argument_and_what_is_it_used/)
+- [Leap: C-like goto in Python](https://www.reddit.com/r/Python/comments/sbiu91/leap_clike_goto_in_python/)
+- [Starlite is fast&lpar;er&rpar;](https://www.reddit.com/r/Python/comments/sbinpj/starlite_is_faster/)
 - [💚 Htmx polling the Django database to display data from CoinMarketCap API that gets updated on a cron schedule - by BugBytes](https://www.reddit.com/r/Python/comments/sbhg45/htmx_polling_the_django_database_to_display_data/)
 - [10 Useful Tools for Python Developers](https://www.reddit.com/r/Python/comments/sbh6mp/10_useful_tools_for_python_developers/)
 - [Is it bad practice for my flask API to run raw SQL queries against my DB to get/post data?](https://www.reddit.com/r/Python/comments/sbgkgd/is_it_bad_practice_for_my_flask_api_to_run_raw/)
-- [How To Print Colored Text in Python &lpar;Colorama Tutorial&rpar;](https://www.reddit.com/r/Python/comments/sbgjlc/how_to_print_colored_text_in_python_colorama/)
 <!-- BLOG-POST-LIST:END -->
