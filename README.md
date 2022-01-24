@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Chord Diagrams and how to make them with Python](https://www.reddit.com/r/Python/comments/sbapee/chord_diagrams_and_how_to_make_them_with_python/)
+- [Scrape and summarize news articles using Natural Language Processing!](https://www.reddit.com/r/Python/comments/sba31u/scrape_and_summarize_news_articles_using_natural/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/sb7ugz/monday_daily_thread_project_ideas/)
 - [Best place for experienced programmers to learn python best practises, quirks, etc](https://www.reddit.com/r/Python/comments/sb6unj/best_place_for_experienced_programmers_to_learn/)
 - [What would you guys think about something likes this? &lpar;Containers for immutable types to make them mutable&rpar;](https://www.reddit.com/r/Python/comments/sb6k9c/what_would_you_guys_think_about_something_likes/)
-- [I have made spongebob-cli, watch classic spongebob from your terminal! ☂️](https://www.reddit.com/r/Python/comments/sb4m4m/i_have_made_spongebobcli_watch_classic_spongebob/)
-- [Web Scraping LinkedIn](https://www.reddit.com/r/Python/comments/sb484g/web_scraping_linkedin/)
 <!-- BLOG-POST-LIST:END -->
