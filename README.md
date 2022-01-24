@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Great music to listen to while programming &lt;3](https://www.reddit.com/r/Python/comments/sboelv/great_music_to_listen_to_while_programming_3/)
+- [Flake8-type-checking now has support for FastAPI and Pydantic](https://www.reddit.com/r/Python/comments/sbo2bs/flake8typechecking_now_has_support_for_fastapi/)
+- [The power of Python descriptors](https://www.reddit.com/r/Python/comments/sbnf1s/the_power_of_python_descriptors/)
 - [How you IDE helps you to identify the source of your code errors ?](https://www.reddit.com/r/Python/comments/sbmrrh/how_you_ide_helps_you_to_identify_the_source_of/)
 - [Rust-like error handling in Python with NamedTuple](https://www.reddit.com/r/Python/comments/sbko6n/rustlike_error_handling_in_python_with_namedtuple/)
-- [Is Hands-on Machine Learning by Aurelien Geron 2nd Ed still up to date?](https://www.reddit.com/r/Python/comments/sbk4ws/is_handson_machine_learning_by_aurelien_geron_2nd/)
-- [Why count += 2 doesn&#39;t work inside for loop?](https://www.reddit.com/r/Python/comments/sbjjt3/why_count_2_doesnt_work_inside_for_loop/)
-- [Python Jobs in Formula 1: Senior Software Engineer&lpar;s&rpar;](https://www.reddit.com/r/Python/comments/sbjie9/python_jobs_in_formula_1_senior_software_engineers/)
 <!-- BLOG-POST-LIST:END -->
