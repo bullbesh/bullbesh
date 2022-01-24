@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why count += 2 doesn&#39;t work inside for loop?](https://www.reddit.com/r/Python/comments/sbjjt3/why_count_2_doesnt_work_inside_for_loop/)
+- [Python Jobs in Formula 1: Senior Software Engineer&lpar;s&rpar;](https://www.reddit.com/r/Python/comments/sbjie9/python_jobs_in_formula_1_senior_software_engineers/)
+- [Free course on NLP for semantic search!](https://www.reddit.com/r/Python/comments/sbj2xc/free_course_on_nlp_for_semantic_search/)
 - [Leap: C-like goto in Python](https://www.reddit.com/r/Python/comments/sbiu91/leap_clike_goto_in_python/)
 - [Starlite is fast&lpar;er&rpar;](https://www.reddit.com/r/Python/comments/sbinpj/starlite_is_faster/)
-- [💚 Htmx polling the Django database to display data from CoinMarketCap API that gets updated on a cron schedule - by BugBytes](https://www.reddit.com/r/Python/comments/sbhg45/htmx_polling_the_django_database_to_display_data/)
-- [10 Useful Tools for Python Developers](https://www.reddit.com/r/Python/comments/sbh6mp/10_useful_tools_for_python_developers/)
-- [Is it bad practice for my flask API to run raw SQL queries against my DB to get/post data?](https://www.reddit.com/r/Python/comments/sbgkgd/is_it_bad_practice_for_my_flask_api_to_run_raw/)
 <!-- BLOG-POST-LIST:END -->
