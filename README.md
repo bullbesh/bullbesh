@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I have made valito, a progressive validation library with individual field logging and regex support](https://www.reddit.com/r/Python/comments/sbqjnu/i_have_made_valito_a_progressive_validation/)
+- [Path to data analysis](https://www.reddit.com/r/Python/comments/sbq4sj/path_to_data_analysis/)
 - [Making a Podcast Search Engine for MKBHD with a Python Backend](https://www.reddit.com/r/Python/comments/sbpwgn/making_a_podcast_search_engine_for_mkbhd_with_a/)
 - [I made a very basic calculator](https://www.reddit.com/r/Python/comments/sbpus3/i_made_a_very_basic_calculator/)
 - [Network Tracking using Wireshark and Google Maps - Python Cybersecurity](https://www.reddit.com/r/Python/comments/sbp43j/network_tracking_using_wireshark_and_google_maps/)
-- [Flake8-type-checking now has support for FastAPI and Pydantic](https://www.reddit.com/r/Python/comments/sbo2bs/flake8typechecking_now_has_support_for_fastapi/)
-- [The power of Python descriptors](https://www.reddit.com/r/Python/comments/sbnf1s/the_power_of_python_descriptors/)
 <!-- BLOG-POST-LIST:END -->
