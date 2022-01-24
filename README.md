@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Useful Tools for Python Developers](https://www.reddit.com/r/Python/comments/sbh6mp/10_useful_tools_for_python_developers/)
+- [Is it bad practice for my flask API to run raw SQL queries against my DB to get/post data?](https://www.reddit.com/r/Python/comments/sbgkgd/is_it_bad_practice_for_my_flask_api_to_run_raw/)
+- [How To Print Colored Text in Python &lpar;Colorama Tutorial&rpar;](https://www.reddit.com/r/Python/comments/sbgjlc/how_to_print_colored_text_in_python_colorama/)
 - [Python #1: Basics &lpar;Variables, Print, Basic Data Types, Math Operations&rpar; | #APDaga](https://www.reddit.com/r/Python/comments/sbex1d/python_1_basics_variables_print_basic_data_types/)
 - [How to Play Videos in PyGame/Python!](https://www.reddit.com/r/Python/comments/sbb2z3/how_to_play_videos_in_pygamepython/)
-- [Chord Diagrams and how to make them with Python](https://www.reddit.com/r/Python/comments/sbapee/chord_diagrams_and_how_to_make_them_with_python/)
-- [Scrape and summarize news articles using Natural Language Processing!](https://www.reddit.com/r/Python/comments/sba31u/scrape_and_summarize_news_articles_using_natural/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/sb7ugz/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
