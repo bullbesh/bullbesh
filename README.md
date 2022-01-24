@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does anyone here use Gradle for Python repos?](https://www.reddit.com/r/Python/comments/sbrnng/does_anyone_here_use_gradle_for_python_repos/)
 - [I have made valito, a progressive validation library with individual field logging and regex support](https://www.reddit.com/r/Python/comments/sbqjnu/i_have_made_valito_a_progressive_validation/)
 - [Path to data analysis](https://www.reddit.com/r/Python/comments/sbq4sj/path_to_data_analysis/)
 - [Making a Podcast Search Engine for MKBHD with a Python Backend](https://www.reddit.com/r/Python/comments/sbpwgn/making_a_podcast_search_engine_for_mkbhd_with_a/)
 - [I made a very basic calculator](https://www.reddit.com/r/Python/comments/sbpus3/i_made_a_very_basic_calculator/)
-- [Network Tracking using Wireshark and Google Maps - Python Cybersecurity](https://www.reddit.com/r/Python/comments/sbp43j/network_tracking_using_wireshark_and_google_maps/)
 <!-- BLOG-POST-LIST:END -->
