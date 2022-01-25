@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Structures and OOP’s](https://www.reddit.com/r/Python/comments/sc9w8t/data_structures_and_oops/)
+- [What Are the Skills Required for Python Developers?](https://www.reddit.com/r/Python/comments/sc9rrg/what_are_the_skills_required_for_python_developers/)
+- [Created &#39;Wordle&#39; game on terminal just to show my kid that programming is fun.](https://www.reddit.com/r/Python/comments/sc9rak/created_wordle_game_on_terminal_just_to_show_my/)
 - [Python-Based Web API Frameworks - General Speed Test on Windows 11 - Results](https://www.reddit.com/r/Python/comments/sc8vbp/pythonbased_web_api_frameworks_general_speed_test/)
 - [The data type Set in Python](https://www.reddit.com/r/Python/comments/sc8nmx/the_data_type_set_in_python/)
-- [Resources for quickly becoming employable as a python engineer](https://www.reddit.com/r/Python/comments/sc7j84/resources_for_quickly_becoming_employable_as_a/)
-- [Code documentation](https://www.reddit.com/r/Python/comments/sc09ny/code_documentation/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/sc06b9/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
