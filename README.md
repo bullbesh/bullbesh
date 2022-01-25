@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code documentation](https://www.reddit.com/r/Python/comments/sc09ny/code_documentation/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/sc06b9/tuesday_daily_thread_advanced_questions/)
+- [Important Note When Upgrading to FastAPI v0.73.0 From v0.72.0 &lpar;on Windows&rpar;](https://www.reddit.com/r/Python/comments/sc05k5/important_note_when_upgrading_to_fastapi_v0730/)
+- [JWT authorization with FastAPI](https://www.reddit.com/r/Python/comments/sbzy6m/jwt_authorization_with_fastapi/)
 - [PEP 673 -- Self Type &lpar;Accepted&rpar;](https://www.reddit.com/r/Python/comments/sby20j/pep_673_self_type_accepted/)
-- [Twitter Trending Hashtags](https://www.reddit.com/r/Python/comments/sbvq9z/twitter_trending_hashtags/)
-- [Learn Python coding the game Tetris &lpar;in &lt; 1 hour&rpar;](https://www.reddit.com/r/Python/comments/sbvfsb/learn_python_coding_the_game_tetris_in_1_hour/)
-- [Hiring a pythonista](https://www.reddit.com/r/Python/comments/sbv97h/hiring_a_pythonista/)
-- [I made a wordle starter word ranker, it&#39;s dumb but that&#39;s what being a programmer is about](https://www.reddit.com/r/Python/comments/sbv79t/i_made_a_wordle_starter_word_ranker_its_dumb_but/)
 <!-- BLOG-POST-LIST:END -->
