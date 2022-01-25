@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Great music to keep the coding flow!](https://www.reddit.com/r/Python/comments/scfplm/great_music_to_keep_the_coding_flow/)
+- [Modulo String Formatting in Python – Real Python](https://www.reddit.com/r/Python/comments/scfp2o/modulo_string_formatting_in_python_real_python/)
 - [Published my first package on PyPi ! rosbag-compare compares recorded data from multiple robot runs](https://www.reddit.com/r/Python/comments/sceqpo/published_my_first_package_on_pypi_rosbagcompare/)
 - [Python firebase auth : Send password reset email](https://www.reddit.com/r/Python/comments/scel8b/python_firebase_auth_send_password_reset_email/)
 - [What&#39;s the difference between a SDK and an API wrapper?](https://www.reddit.com/r/Python/comments/scdmyh/whats_the_difference_between_a_sdk_and_an_api/)
-- [What’s the Meaning of Single and Double Underscores In Python?](https://www.reddit.com/r/Python/comments/scctz3/whats_the_meaning_of_single_and_double/)
-- [What are the top features you wish Python had?](https://www.reddit.com/r/Python/comments/scbotw/what_are_the_top_features_you_wish_python_had/)
 <!-- BLOG-POST-LIST:END -->
