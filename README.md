@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python-Based Web API Frameworks - General Speed Test on Windows 11 - Results](https://www.reddit.com/r/Python/comments/sc8vbp/pythonbased_web_api_frameworks_general_speed_test/)
+- [The data type Set in Python](https://www.reddit.com/r/Python/comments/sc8nmx/the_data_type_set_in_python/)
 - [Resources for quickly becoming employable as a python engineer](https://www.reddit.com/r/Python/comments/sc7j84/resources_for_quickly_becoming_employable_as_a/)
 - [Code documentation](https://www.reddit.com/r/Python/comments/sc09ny/code_documentation/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/sc06b9/tuesday_daily_thread_advanced_questions/)
-- [Important Note When Upgrading to FastAPI v0.73.0 From v0.72.0 &lpar;on Windows&rpar;](https://www.reddit.com/r/Python/comments/sc05k5/important_note_when_upgrading_to_fastapi_v0730/)
-- [JWT authorization with FastAPI](https://www.reddit.com/r/Python/comments/sbzy6m/jwt_authorization_with_fastapi/)
 <!-- BLOG-POST-LIST:END -->
