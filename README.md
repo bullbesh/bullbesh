@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Image comparison in python](https://www.reddit.com/r/Python/comments/scit8v/image_comparison_in_python/)
+- [Starter tutorial to get spun up and competing in BattleSnakes.](https://www.reddit.com/r/Python/comments/scio77/starter_tutorial_to_get_spun_up_and_competing_in/)
+- [Create animations of bouncing balls creating satisfying patterns in 100 lines of Python](https://www.reddit.com/r/Python/comments/schry2/create_animations_of_bouncing_balls_creating/)
 - [Idle Clicker - Adventure Capitalist Type Game built in Python using PyGame!](https://www.reddit.com/r/Python/comments/sch5ja/idle_clicker_adventure_capitalist_type_game_built/)
 - [Contributing to Python, building uvloop, asyncpg, and EdgeDB](https://www.reddit.com/r/Python/comments/scg32z/contributing_to_python_building_uvloop_asyncpg/)
-- [Great music to keep the coding flow!](https://www.reddit.com/r/Python/comments/scfplm/great_music_to_keep_the_coding_flow/)
-- [Modulo String Formatting in Python – Real Python](https://www.reddit.com/r/Python/comments/scfp2o/modulo_string_formatting_in_python_real_python/)
-- [Published my first package on PyPi ! rosbag-compare compares recorded data from multiple robot runs](https://www.reddit.com/r/Python/comments/sceqpo/published_my_first_package_on_pypi_rosbagcompare/)
 <!-- BLOG-POST-LIST:END -->
