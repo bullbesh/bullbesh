@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do non fruitful functions have to include a print statement?](https://www.reddit.com/r/Python/comments/sc3y7h/do_non_fruitful_functions_have_to_include_a_print/)
 - [Code documentation](https://www.reddit.com/r/Python/comments/sc09ny/code_documentation/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/sc06b9/tuesday_daily_thread_advanced_questions/)
 - [Important Note When Upgrading to FastAPI v0.73.0 From v0.72.0 &lpar;on Windows&rpar;](https://www.reddit.com/r/Python/comments/sc05k5/important_note_when_upgrading_to_fastapi_v0730/)
 - [JWT authorization with FastAPI](https://www.reddit.com/r/Python/comments/sbzy6m/jwt_authorization_with_fastapi/)
-- [PEP 673 -- Self Type &lpar;Accepted&rpar;](https://www.reddit.com/r/Python/comments/sby20j/pep_673_self_type_accepted/)
 <!-- BLOG-POST-LIST:END -->
