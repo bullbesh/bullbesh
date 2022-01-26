@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can I study Manim?](https://www.reddit.com/r/Python/comments/sd9lh5/can_i_study_manim/)
+- [Python Question](https://www.reddit.com/r/Python/comments/sdb2ju/python_question/)
+- [Use Python BeautifulSoup to build interactive Power Bi Dashboard](https://www.reddit.com/r/Python/comments/sdamt3/use_python_beautifulsoup_to_build_interactive/)
+- [Understanding Recursion by creating a Sudoku Solving Function](https://www.reddit.com/r/Python/comments/sda9r2/understanding_recursion_by_creating_a_sudoku/)
+- [PyTermGUI now supports scrollable Containers!](https://www.reddit.com/r/Python/comments/sda4y4/pytermgui_now_supports_scrollable_containers/)
 - [Python Screencast Creator &quot;DiffCast&quot; lets you create automatic screencasts from Python source files](https://www.reddit.com/r/Python/comments/sd8suf/python_screencast_creator_diffcast_lets_you/)
-- [Hello! Need to extract dominant colors from an image? Here is a simple tutorial on how to do it.](https://www.reddit.com/r/Python/comments/sd85k5/hello_need_to_extract_dominant_colors_from_an/)
-- [Best CPU vs Best GPU: NumPy vs CuPy - Unum | Unifying CS and HPC for the future of AGI](https://www.reddit.com/r/Python/comments/sd5hdd/best_cpu_vs_best_gpu_numpy_vs_cupy_unum_unifying/)
-- [Caribou: Use data-driven metrics to reduce your technical debt](https://www.reddit.com/r/Python/comments/sd5d2g/caribou_use_datadriven_metrics_to_reduce_your/)
 <!-- BLOG-POST-LIST:END -->
