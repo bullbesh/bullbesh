@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [fastest way to load data with python](https://www.reddit.com/r/Python/comments/sdcf6z/fastest_way_to_load_data_with_python/)
+- [Python script to get ETH mining stats on a GPU](https://www.reddit.com/r/Python/comments/sdbm0o/python_script_to_get_eth_mining_stats_on_a_gpu/)
+- [New Post on Python Popularity](https://www.reddit.com/r/Python/comments/sdb9mi/new_post_on_python_popularity/)
 - [Python Question](https://www.reddit.com/r/Python/comments/sdb2ju/python_question/)
 - [Use Python BeautifulSoup to build interactive Power Bi Dashboard](https://www.reddit.com/r/Python/comments/sdamt3/use_python_beautifulsoup_to_build_interactive/)
-- [Understanding Recursion by creating a Sudoku Solving Function](https://www.reddit.com/r/Python/comments/sda9r2/understanding_recursion_by_creating_a_sudoku/)
-- [PyTermGUI now supports scrollable Containers!](https://www.reddit.com/r/Python/comments/sda4y4/pytermgui_now_supports_scrollable_containers/)
-- [Python Screencast Creator &quot;DiffCast&quot; lets you create automatic screencasts from Python source files](https://www.reddit.com/r/Python/comments/sd8suf/python_screencast_creator_diffcast_lets_you/)
 <!-- BLOG-POST-LIST:END -->
