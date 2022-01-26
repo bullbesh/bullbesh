@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What are some games that I can make only using text output?](https://www.reddit.com/r/Python/comments/sdglgq/what_are_some_games_that_i_can_make_only_using/)
+- [Lunch and Learn: High-Performance Python](https://www.reddit.com/r/Python/comments/sdjakm/lunch_and_learn_highperformance_python/)
+- [Machine Learning Question](https://www.reddit.com/r/Python/comments/sdirwg/machine_learning_question/)
 - [Python course from Zero to hero](https://www.reddit.com/r/Python/comments/sdep12/python_course_from_zero_to_hero/)
 - [fastest way to load data with python](https://www.reddit.com/r/Python/comments/sdcf6z/fastest_way_to_load_data_with_python/)
 - [Python script to get ETH mining stats on a GPU](https://www.reddit.com/r/Python/comments/sdbm0o/python_script_to_get_eth_mining_stats_on_a_gpu/)
-- [New Post on Python Popularity](https://www.reddit.com/r/Python/comments/sdb9mi/new_post_on_python_popularity/)
 <!-- BLOG-POST-LIST:END -->
