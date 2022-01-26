@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python course from Zero to hero](https://www.reddit.com/r/Python/comments/sdep12/python_course_from_zero_to_hero/)
+- [Have fun!](https://www.reddit.com/r/Python/comments/sden0a/have_fun/)
 - [fastest way to load data with python](https://www.reddit.com/r/Python/comments/sdcf6z/fastest_way_to_load_data_with_python/)
 - [Python script to get ETH mining stats on a GPU](https://www.reddit.com/r/Python/comments/sdbm0o/python_script_to_get_eth_mining_stats_on_a_gpu/)
 - [New Post on Python Popularity](https://www.reddit.com/r/Python/comments/sdb9mi/new_post_on_python_popularity/)
-- [Python Question](https://www.reddit.com/r/Python/comments/sdb2ju/python_question/)
-- [Use Python BeautifulSoup to build interactive Power Bi Dashboard](https://www.reddit.com/r/Python/comments/sdamt3/use_python_beautifulsoup_to_build_interactive/)
 <!-- BLOG-POST-LIST:END -->
