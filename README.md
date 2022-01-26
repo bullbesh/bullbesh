@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best CPU vs Best GPU: NumPy vs CuPy - Unum | Unifying CS and HPC for the future of AGI](https://www.reddit.com/r/Python/comments/sd5hdd/best_cpu_vs_best_gpu_numpy_vs_cupy_unum_unifying/)
+- [Caribou: Use data-driven metrics to reduce your technical debt](https://www.reddit.com/r/Python/comments/sd5d2g/caribou_use_datadriven_metrics_to_reduce_your/)
 - [GitHub - dcmoura/spyql: Query data on the command line with SQL-like SELECTs powered by Python expressions](https://www.reddit.com/r/Python/comments/sd3qn0/github_dcmouraspyql_query_data_on_the_command/)
 - [Why Python return wrong answer?](https://www.reddit.com/r/Python/comments/sd3crr/why_python_return_wrong_answer/)
 - [New programmer, interested in a bit of guidance.](https://www.reddit.com/r/Python/comments/sd2iz9/new_programmer_interested_in_a_bit_of_guidance/)
-- [How to Perform an action when your script accidentally terminates? Use @register decorator](https://www.reddit.com/r/Python/comments/sd2aw9/how_to_perform_an_action_when_your_script/)
-- [Authentication Django REST Framework](https://www.reddit.com/r/Python/comments/sd1s5q/authentication_django_rest_framework/)
 <!-- BLOG-POST-LIST:END -->
