@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Crash course for an experienced Java student?](https://www.reddit.com/r/Python/comments/sd0qcd/crash_course_for_an_experienced_java_student/)
+- [I NEED AN ADVICE URGENTLY!](https://www.reddit.com/r/Python/comments/sd0iat/i_need_an_advice_urgently/)
 - [Python Speech to Text with Google Cloud Speech](https://www.reddit.com/r/Python/comments/sd04y6/python_speech_to_text_with_google_cloud_speech/)
 - [Difference between Python and Matlab](https://www.reddit.com/r/Python/comments/scut59/difference_between_python_and_matlab/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/scrr00/wednesday_daily_thread_beginner_questions/)
-- [I&#39;ve started making a free video tutorial series for Python, Pandas, and Excel. This is geared towards Excel users who are interested in expanding their capabilities by learning how to write code with Python and Pandas.](https://www.reddit.com/r/Python/comments/scpp49/ive_started_making_a_free_video_tutorial_series/)
-- [sphinx-codeautolink 0.10: automatic links from code examples to reference documentation](https://www.reddit.com/r/Python/comments/sco9l3/sphinxcodeautolink_010_automatic_links_from_code/)
 <!-- BLOG-POST-LIST:END -->
