@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Python return wrong answer?](https://www.reddit.com/r/Python/comments/sd3crr/why_python_return_wrong_answer/)
 - [New programmer, interested in a bit of guidance.](https://www.reddit.com/r/Python/comments/sd2iz9/new_programmer_interested_in_a_bit_of_guidance/)
 - [How to Perform an action when your script accidentally terminates? Use @register decorator](https://www.reddit.com/r/Python/comments/sd2aw9/how_to_perform_an_action_when_your_script/)
 - [Authentication Django REST Framework](https://www.reddit.com/r/Python/comments/sd1s5q/authentication_django_rest_framework/)
 - [Authentication Django REST Framework](https://www.reddit.com/r/Python/comments/sd1kz8/authentication_django_rest_framework/)
-- [Crash course for an experienced Java student?](https://www.reddit.com/r/Python/comments/sd0qcd/crash_course_for_an_experienced_java_student/)
 <!-- BLOG-POST-LIST:END -->
