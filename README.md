@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyHeck: I wrote a fast case conversion library with just 106 lines of Rust code](https://www.reddit.com/r/Python/comments/sdkkqb/pyheck_i_wrote_a_fast_case_conversion_library/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/sdkc4w/thursday_daily_thread_python_careers_courses_and/)
 - [Lunch and Learn: High-Performance Python](https://www.reddit.com/r/Python/comments/sdjakm/lunch_and_learn_highperformance_python/)
-- [Machine Learning Question](https://www.reddit.com/r/Python/comments/sdirwg/machine_learning_question/)
 - [Python course from Zero to hero](https://www.reddit.com/r/Python/comments/sdep12/python_course_from_zero_to_hero/)
 - [fastest way to load data with python](https://www.reddit.com/r/Python/comments/sdcf6z/fastest_way_to_load_data_with_python/)
-- [Python script to get ETH mining stats on a GPU](https://www.reddit.com/r/Python/comments/sdbm0o/python_script_to_get_eth_mining_stats_on_a_gpu/)
 <!-- BLOG-POST-LIST:END -->
