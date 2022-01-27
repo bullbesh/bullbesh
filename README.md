@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to bind start/pause and stop](https://www.reddit.com/r/Python/comments/sducqq/how_to_bind_startpause_and_stop/)
+- [A collection of scripts I developed for personal and working projects](https://www.reddit.com/r/Python/comments/sdu3pf/a_collection_of_scripts_i_developed_for_personal/)
+- [Is 4 gb Ram 2.16 GHz with windows 10 enough for learning/creating apps with python programming??](https://www.reddit.com/r/Python/comments/sdu0rq/is_4_gb_ram_216_ghz_with_windows_10_enough_for/)
 - [Interactive and Shareable Python code snippets](https://www.reddit.com/r/Python/comments/sdt84a/interactive_and_shareable_python_code_snippets/)
 - [FYI: __bool__ for a Response object from the Requests library only evaluates to True if the status code is &lt;400](https://www.reddit.com/r/Python/comments/sdssul/fyi_bool_for_a_response_object_from_the_requests/)
-- [Look Ma, No For-Loops &lpar;Ever&rpar;: Tabular Programming with Tapr](https://www.reddit.com/r/Python/comments/sdmieb/look_ma_no_forloops_ever_tabular_programming_with/)
-- [PyHeck: I wrote a fast case conversion library with just 106 lines of Rust code](https://www.reddit.com/r/Python/comments/sdkkqb/pyheck_i_wrote_a_fast_case_conversion_library/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/sdkc4w/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
