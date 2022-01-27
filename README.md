@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FP-style to get substring](https://www.reddit.com/r/Python/comments/se7lfx/fpstyle_to_get_substring/)
 - [Python Library for String Manipulation](https://www.reddit.com/r/Python/comments/se4vn9/python_library_for_string_manipulation/)
 - [The Practical Guide to Semidefinite Programming &lpar;2/3&rpar; &lpar;Python code included&rpar;](https://www.reddit.com/r/Python/comments/se463n/the_practical_guide_to_semidefinite_programming/)
 - [GitHub - Nikoleta-v3/Game-Theory-and-Python: Game Theory and Python, a workshop investigating repeated games using the prisoner&#39;s dilemma](https://www.reddit.com/r/Python/comments/se36km/github_nikoletav3gametheoryandpython_game_theory/)
 - [A next-generation seaborn interface](https://www.reddit.com/r/Python/comments/se30vt/a_nextgeneration_seaborn_interface/)
-- [Learn Python - Python Programming For Beginners From Scratch](https://www.reddit.com/r/Python/comments/se2cgr/learn_python_python_programming_for_beginners/)
 <!-- BLOG-POST-LIST:END -->
