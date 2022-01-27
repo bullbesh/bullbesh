@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Can&#39;t You Reverse A String With a Flag Emoji?](https://www.reddit.com/r/Python/comments/sdy9md/why_cant_you_reverse_a_string_with_a_flag_emoji/)
-- [Starlite 0.8.0 is in the works with extra performance and templates](https://www.reddit.com/r/Python/comments/sdxsxc/starlite_080_is_in_the_works_with_extra/)
-- [The Python Graph Gallery: collection of hundreds of charts made with Matplotlib, Seaborn, Plotly, etc](https://www.reddit.com/r/Python/comments/sdxslj/the_python_graph_gallery_collection_of_hundreds/)
-- [IDEs you found useful as a newcomer](https://www.reddit.com/r/Python/comments/sdxnkp/ides_you_found_useful_as_a_newcomer/)
-- [Python Tutorial | Python Crash Course Part-01 — By Debug.School](https://www.reddit.com/r/Python/comments/sdx6dg/python_tutorial_python_crash_course_part01_by/)
+- [How To Annotate Entities With Spacy PhraseMacher](https://www.reddit.com/r/Python/comments/se0pz9/how_to_annotate_entities_with_spacy_phrasemacher/)
+- [What else should I learn to fully understand this type of code?](https://www.reddit.com/r/Python/comments/se0l5h/what_else_should_i_learn_to_fully_understand_this/)
+- [A python tutorial about how to send Tron crypto - 4 minutes read](https://www.reddit.com/r/Python/comments/se0j0j/a_python_tutorial_about_how_to_send_tron_crypto_4/)
+- [Accessing a specific element in a list](https://www.reddit.com/r/Python/comments/sdzvjj/accessing_a_specific_element_in_a_list/)
+- [Automate pytest code coverage checks with GitHub Actions](https://www.reddit.com/r/Python/comments/sdzj2c/automate_pytest_code_coverage_checks_with_github/)
 <!-- BLOG-POST-LIST:END -->
