@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A 3D racing game with procedurally generated tracks](https://www.reddit.com/r/Python/comments/se8cso/a_3d_racing_game_with_procedurally_generated/)
+- [I&#39;m working on a tool to help developers find abandoned Python libraries which are dependencies of big projects](https://www.reddit.com/r/Python/comments/se88qh/im_working_on_a_tool_to_help_developers_find/)
 - [FP-style to get substring](https://www.reddit.com/r/Python/comments/se7lfx/fpstyle_to_get_substring/)
 - [Python Library for String Manipulation](https://www.reddit.com/r/Python/comments/se4vn9/python_library_for_string_manipulation/)
 - [The Practical Guide to Semidefinite Programming &lpar;2/3&rpar; &lpar;Python code included&rpar;](https://www.reddit.com/r/Python/comments/se463n/the_practical_guide_to_semidefinite_programming/)
-- [GitHub - Nikoleta-v3/Game-Theory-and-Python: Game Theory and Python, a workshop investigating repeated games using the prisoner&#39;s dilemma](https://www.reddit.com/r/Python/comments/se36km/github_nikoletav3gametheoryandpython_game_theory/)
-- [A next-generation seaborn interface](https://www.reddit.com/r/Python/comments/se30vt/a_nextgeneration_seaborn_interface/)
 <!-- BLOG-POST-LIST:END -->
