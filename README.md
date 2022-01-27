@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Can&#39;t You Reverse A String With a Flag Emoji?](https://www.reddit.com/r/Python/comments/sdy9md/why_cant_you_reverse_a_string_with_a_flag_emoji/)
+- [Starlite 0.8.0 is in the works with extra performance and templates](https://www.reddit.com/r/Python/comments/sdxsxc/starlite_080_is_in_the_works_with_extra/)
+- [The Python Graph Gallery: collection of hundreds of charts made with Matplotlib, Seaborn, Plotly, etc](https://www.reddit.com/r/Python/comments/sdxslj/the_python_graph_gallery_collection_of_hundreds/)
+- [IDEs you found useful as a newcomer](https://www.reddit.com/r/Python/comments/sdxnkp/ides_you_found_useful_as_a_newcomer/)
 - [Python Tutorial | Python Crash Course Part-01 — By Debug.School](https://www.reddit.com/r/Python/comments/sdx6dg/python_tutorial_python_crash_course_part01_by/)
-- [Gaugan2 Video Renderer](https://www.reddit.com/r/Python/comments/sdx0wp/gaugan2_video_renderer/)
-- [Random Number Generator Questions](https://www.reddit.com/r/Python/comments/sdvxuw/random_number_generator_questions/)
-- [Making an minimal, native and accessible AO3 reader](https://www.reddit.com/r/Python/comments/sdvpg9/making_an_minimal_native_and_accessible_ao3_reader/)
-- [How to bind start/pause and stop](https://www.reddit.com/r/Python/comments/sducqq/how_to_bind_startpause_and_stop/)
 <!-- BLOG-POST-LIST:END -->
