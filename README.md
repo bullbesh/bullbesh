@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve started a free video tutorial series for Python and FastAPI](https://www.reddit.com/r/Python/comments/sesxwy/ive_started_a_free_video_tutorial_series_for/)
+- [Playing Atari 2600 Tennis using a real racket [project]](https://www.reddit.com/r/Python/comments/sesjl8/playing_atari_2600_tennis_using_a_real_racket/)
+- [Whenever I write in Python, I can&#39;t help but think in it.](https://www.reddit.com/r/Python/comments/ses5tz/whenever_i_write_in_python_i_cant_help_but_think/)
+- [Python Script Not Sending Email Body](https://www.reddit.com/r/Python/comments/seryzf/python_script_not_sending_email_body/)
 - [Fake User Generator bot made with python - This is a bot I created using python. If you are interested to take a look at the source code, comment below, I will share the GitHub repository.](https://www.reddit.com/r/Python/comments/seq08e/fake_user_generator_bot_made_with_python_this_is/)
-- [Building an ELO rating system simulation webapp with Streamlit](https://www.reddit.com/r/Python/comments/seopj8/building_an_elo_rating_system_simulation_webapp/)
-- [Python Tutorial | Python Crash Course Part-02 — By Debug.School](https://www.reddit.com/r/Python/comments/semiwa/python_tutorial_python_crash_course_part02_by/)
-- [Executing Python from PHP](https://www.reddit.com/r/Python/comments/selgyr/executing_python_from_php/)
-- [Is anyone is interested in Educative.io courses and wants to share the subscription?](https://www.reddit.com/r/Python/comments/sel9zw/is_anyone_is_interested_in_educativeio_courses/)
 <!-- BLOG-POST-LIST:END -->
