@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Released v1.0.0 of financeager, a single-entry book-keeping command line tool](https://www.reddit.com/r/Python/comments/sey9j6/released_v100_of_financeager_a_singleentry/)
+- [Hey everyone! I&#39;ve been working on this Python3 quick reference/examples/snippets GitHub Repo for a while now and thought I&#39;d share!](https://www.reddit.com/r/Python/comments/sex9ln/hey_everyone_ive_been_working_on_this_python3/)
 - [Dive into Financial Stock Analysis using the Python programming language and the Yahoo Finance Python library](https://www.reddit.com/r/Python/comments/sevetk/dive_into_financial_stock_analysis_using_the/)
 - [macOS 12.3 finally removes Python 2](https://www.reddit.com/r/Python/comments/setitj/macos_123_finally_removes_python_2/)
 - [I&#39;ve started a free video tutorial series for Python and FastAPI](https://www.reddit.com/r/Python/comments/sesxwy/ive_started_a_free_video_tutorial_series_for/)
-- [Playing Atari 2600 Tennis using a real racket [project]](https://www.reddit.com/r/Python/comments/sesjl8/playing_atari_2600_tennis_using_a_real_racket/)
-- [Fake User Generator bot made with python - This is a bot I created using python. If you are interested to take a look at the source code, comment below, I will share the GitHub repository.](https://www.reddit.com/r/Python/comments/seq08e/fake_user_generator_bot_made_with_python_this_is/)
 <!-- BLOG-POST-LIST:END -->
