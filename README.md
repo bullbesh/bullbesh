@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Completely crazy tables when transforming table from PDF file to CSV](https://www.reddit.com/r/Python/comments/segpvc/completely_crazy_tables_when_transforming_table/)
 - [I&#39;m so fucking lost](https://www.reddit.com/r/Python/comments/sef1zi/im_so_fucking_lost/)
 - [Looking for a python tutor &lpar;mandarin&rpar;](https://www.reddit.com/r/Python/comments/seeldx/looking_for_a_python_tutor_mandarin/)
 - [Are recursive functions in python efficient?](https://www.reddit.com/r/Python/comments/seeitc/are_recursive_functions_in_python_efficient/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/secnvc/friday_daily_thread_free_chat_friday_daily_thread/)
-- [Display animated GIF images using only tkinter](https://www.reddit.com/r/Python/comments/secezb/display_animated_gif_images_using_only_tkinter/)
 <!-- BLOG-POST-LIST:END -->
