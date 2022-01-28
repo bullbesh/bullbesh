@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python - Like and Follow based on Tags Not working](https://www.reddit.com/r/Python/comments/sejply/python_like_and_follow_based_on_tags_not_working/)
+- [How to optimize python code?](https://www.reddit.com/r/Python/comments/sekrzq/how_to_optimize_python_code/)
 - [Completely crazy tables when transforming table from PDF file to CSV](https://www.reddit.com/r/Python/comments/segpvc/completely_crazy_tables_when_transforming_table/)
-- [I&#39;m so fucking lost](https://www.reddit.com/r/Python/comments/sef1zi/im_so_fucking_lost/)
-- [Looking for a python tutor &lpar;mandarin&rpar;](https://www.reddit.com/r/Python/comments/seeldx/looking_for_a_python_tutor_mandarin/)
 - [Are recursive functions in python efficient?](https://www.reddit.com/r/Python/comments/seeitc/are_recursive_functions_in_python_efficient/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/secnvc/friday_daily_thread_free_chat_friday_daily_thread/)
+- [A 3D racing game with procedurally generated tracks](https://www.reddit.com/r/Python/comments/se8cso/a_3d_racing_game_with_procedurally_generated/)
 <!-- BLOG-POST-LIST:END -->
