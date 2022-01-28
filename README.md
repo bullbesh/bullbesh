@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Scraping data from bet365](https://www.reddit.com/r/Python/comments/seyzgp/scraping_data_from_bet365/)
+- [NumPy and Pandas practice problems with solutions](https://www.reddit.com/r/Python/comments/sezv6r/numpy_and_pandas_practice_problems_with_solutions/)
+- [Q: Why is my OLS not linear?](https://www.reddit.com/r/Python/comments/sezrjf/q_why_is_my_ols_not_linear/)
 - [My latest blogpost, python packaging has moved forward, but we&#39;re still missing a crucial part - what do you think?](https://www.reddit.com/r/Python/comments/seyfd4/my_latest_blogpost_python_packaging_has_moved/)
 - [Released v1.0.0 of financeager, a single-entry book-keeping command line tool](https://www.reddit.com/r/Python/comments/sey9j6/released_v100_of_financeager_a_singleentry/)
 - [Hey everyone! I&#39;ve been working on this Python3 quick reference/examples/snippets GitHub Repo for a while now and thought I&#39;d share!](https://www.reddit.com/r/Python/comments/sex9ln/hey_everyone_ive_been_working_on_this_python3/)
-- [Dive into Financial Stock Analysis using the Python programming language and the Yahoo Finance Python library](https://www.reddit.com/r/Python/comments/sevetk/dive_into_financial_stock_analysis_using_the/)
 <!-- BLOG-POST-LIST:END -->
