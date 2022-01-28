@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dive into Financial Stock Analysis using the Python programming language and the Yahoo Finance Python library](https://www.reddit.com/r/Python/comments/sevetk/dive_into_financial_stock_analysis_using_the/)
 - [macOS 12.3 finally removes Python 2](https://www.reddit.com/r/Python/comments/setitj/macos_123_finally_removes_python_2/)
 - [I&#39;ve started a free video tutorial series for Python and FastAPI](https://www.reddit.com/r/Python/comments/sesxwy/ive_started_a_free_video_tutorial_series_for/)
 - [Playing Atari 2600 Tennis using a real racket [project]](https://www.reddit.com/r/Python/comments/sesjl8/playing_atari_2600_tennis_using_a_real_racket/)
 - [Whenever I write in Python, I can&#39;t help but think in it.](https://www.reddit.com/r/Python/comments/ses5tz/whenever_i_write_in_python_i_cant_help_but_think/)
-- [Python Script Not Sending Email Body](https://www.reddit.com/r/Python/comments/seryzf/python_script_not_sending_email_body/)
 <!-- BLOG-POST-LIST:END -->
