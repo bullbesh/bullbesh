@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Tutorial | Python Crash Course Part-02 — By Debug.School](https://www.reddit.com/r/Python/comments/semiwa/python_tutorial_python_crash_course_part02_by/)
 - [Executing Python from PHP](https://www.reddit.com/r/Python/comments/selgyr/executing_python_from_php/)
 - [Is anyone is interested in Educative.io courses and wants to share the subscription?](https://www.reddit.com/r/Python/comments/sel9zw/is_anyone_is_interested_in_educativeio_courses/)
 - [Wordle Python Clone](https://www.reddit.com/r/Python/comments/sel0xl/wordle_python_clone/)
 - [How to optimize python code?](https://www.reddit.com/r/Python/comments/sekrzq/how_to_optimize_python_code/)
-- [Completely crazy tables when transforming table from PDF file to CSV](https://www.reddit.com/r/Python/comments/segpvc/completely_crazy_tables_when_transforming_table/)
 <!-- BLOG-POST-LIST:END -->
