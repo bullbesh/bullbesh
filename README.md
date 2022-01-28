@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scraping data from bet365](https://www.reddit.com/r/Python/comments/seyzgp/scraping_data_from_bet365/)
+- [My latest blogpost, python packaging has moved forward, but we&#39;re still missing a crucial part - what do you think?](https://www.reddit.com/r/Python/comments/seyfd4/my_latest_blogpost_python_packaging_has_moved/)
 - [Released v1.0.0 of financeager, a single-entry book-keeping command line tool](https://www.reddit.com/r/Python/comments/sey9j6/released_v100_of_financeager_a_singleentry/)
 - [Hey everyone! I&#39;ve been working on this Python3 quick reference/examples/snippets GitHub Repo for a while now and thought I&#39;d share!](https://www.reddit.com/r/Python/comments/sex9ln/hey_everyone_ive_been_working_on_this_python3/)
 - [Dive into Financial Stock Analysis using the Python programming language and the Yahoo Finance Python library](https://www.reddit.com/r/Python/comments/sevetk/dive_into_financial_stock_analysis_using_the/)
-- [macOS 12.3 finally removes Python 2](https://www.reddit.com/r/Python/comments/setitj/macos_123_finally_removes_python_2/)
-- [I&#39;ve started a free video tutorial series for Python and FastAPI](https://www.reddit.com/r/Python/comments/sesxwy/ive_started_a_free_video_tutorial_series_for/)
 <!-- BLOG-POST-LIST:END -->
