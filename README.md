@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m so fucking lost](https://www.reddit.com/r/Python/comments/sef1zi/im_so_fucking_lost/)
+- [Looking for a python tutor &lpar;mandarin&rpar;](https://www.reddit.com/r/Python/comments/seeldx/looking_for_a_python_tutor_mandarin/)
+- [Are recursive functions in python efficient?](https://www.reddit.com/r/Python/comments/seeitc/are_recursive_functions_in_python_efficient/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/secnvc/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Display animated GIF images using only tkinter](https://www.reddit.com/r/Python/comments/secezb/display_animated_gif_images_using_only_tkinter/)
-- [A 3D racing game with procedurally generated tracks](https://www.reddit.com/r/Python/comments/se8cso/a_3d_racing_game_with_procedurally_generated/)
-- [FP-style to get substring](https://www.reddit.com/r/Python/comments/se7lfx/fpstyle_to_get_substring/)
-- [Python Library for String Manipulation](https://www.reddit.com/r/Python/comments/se4vn9/python_library_for_string_manipulation/)
 <!-- BLOG-POST-LIST:END -->
