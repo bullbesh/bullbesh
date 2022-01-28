@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Executing Python from PHP](https://www.reddit.com/r/Python/comments/selgyr/executing_python_from_php/)
+- [Is anyone is interested in Educative.io courses and wants to share the subscription?](https://www.reddit.com/r/Python/comments/sel9zw/is_anyone_is_interested_in_educativeio_courses/)
+- [Wordle Python Clone](https://www.reddit.com/r/Python/comments/sel0xl/wordle_python_clone/)
 - [How to optimize python code?](https://www.reddit.com/r/Python/comments/sekrzq/how_to_optimize_python_code/)
 - [Completely crazy tables when transforming table from PDF file to CSV](https://www.reddit.com/r/Python/comments/segpvc/completely_crazy_tables_when_transforming_table/)
-- [Are recursive functions in python efficient?](https://www.reddit.com/r/Python/comments/seeitc/are_recursive_functions_in_python_efficient/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/secnvc/friday_daily_thread_free_chat_friday_daily_thread/)
-- [A 3D racing game with procedurally generated tracks](https://www.reddit.com/r/Python/comments/se8cso/a_3d_racing_game_with_procedurally_generated/)
 <!-- BLOG-POST-LIST:END -->
