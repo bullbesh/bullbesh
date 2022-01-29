@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A script to prevent Backblaze from deleting my backups](https://www.reddit.com/r/Python/comments/sf9w4v/a_script_to_prevent_backblaze_from_deleting_my/)
 - [Top APIs](https://www.reddit.com/r/Python/comments/sf8yk8/top_apis/)
 - [How do you make a python UI that doesn&#39;t look like garbage?](https://www.reddit.com/r/Python/comments/sf8vuh/how_do_you_make_a_python_ui_that_doesnt_look_like/)
 - [Cropping image and making background flat white using Python?](https://www.reddit.com/r/Python/comments/sf8sml/cropping_image_and_making_background_flat_white/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/sf4lhb/saturday_daily_thread_resource_request_and/)
-- [Real-world uses for turtle?](https://www.reddit.com/r/Python/comments/sf3991/realworld_uses_for_turtle/)
 <!-- BLOG-POST-LIST:END -->
