@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Making a Personality Quiz](https://www.reddit.com/r/Python/comments/sfjxsf/making_a_personality_quiz/)
+- [Troogl - A new way to read the news](https://www.reddit.com/r/Python/comments/sfjffs/troogl_a_new_way_to_read_the_news/)
+- [We are releasing the Leon CLI. The companion to get your open-source personal assistant based on Node.js and Python](https://www.reddit.com/r/Python/comments/sfj6ym/we_are_releasing_the_leon_cli_the_companion_to/)
+- [These satisfying animations are made with just 150 lines of python!](https://www.reddit.com/r/Python/comments/sfj1el/these_satisfying_animations_are_made_with_just/)
 - [Django REST Framework - CRUD Endpoints](https://www.reddit.com/r/Python/comments/sfh3eq/django_rest_framework_crud_endpoints/)
-- [Program that enables playing online chess using a real chess board.](https://www.reddit.com/r/Python/comments/sfetch/program_that_enables_playing_online_chess_using_a/)
-- [Google Foo Bar Invite](https://www.reddit.com/r/Python/comments/sfepli/google_foo_bar_invite/)
-- [Trying to decide between web development or Data analytics. ALL advice appreciated!](https://www.reddit.com/r/Python/comments/sfdte3/trying_to_decide_between_web_development_or_data/)
-- [Parsons puzzles generator for Python](https://www.reddit.com/r/Python/comments/sfdbmq/parsons_puzzles_generator_for_python/)
 <!-- BLOG-POST-LIST:END -->
