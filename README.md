@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django REST Framework - CRUD Endpoints](https://www.reddit.com/r/Python/comments/sfh3eq/django_rest_framework_crud_endpoints/)
+- [I have finally created a random number generator without using the random module](https://www.reddit.com/r/Python/comments/sfgmp0/i_have_finally_created_a_random_number_generator/)
 - [Program that enables playing online chess using a real chess board.](https://www.reddit.com/r/Python/comments/sfetch/program_that_enables_playing_online_chess_using_a/)
 - [Google Foo Bar Invite](https://www.reddit.com/r/Python/comments/sfepli/google_foo_bar_invite/)
 - [Trying to decide between web development or Data analytics. ALL advice appreciated!](https://www.reddit.com/r/Python/comments/sfdte3/trying_to_decide_between_web_development_or_data/)
-- [Parsons puzzles generator for Python](https://www.reddit.com/r/Python/comments/sfdbmq/parsons_puzzles_generator_for_python/)
-- [I made a GUI calculator with Fluent Design](https://www.reddit.com/r/Python/comments/sfd84u/i_made_a_gui_calculator_with_fluent_design/)
 <!-- BLOG-POST-LIST:END -->
