@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Chess AI in Python. Takes a few seconds for each move, for a search depth of just 3](https://www.reddit.com/r/Python/comments/sfnw49/chess_ai_in_python_takes_a_few_seconds_for_each/)
-- [hikaru 0.10.0b released](https://www.reddit.com/r/Python/comments/sfmikd/hikaru_0100b_released/)
-- [openskill.py can now predict the winners of any game with 90% accuracy and faster than TrueSkill](https://www.reddit.com/r/Python/comments/sfkufg/openskillpy_can_now_predict_the_winners_of_any/)
-- [Making a Personality Quiz](https://www.reddit.com/r/Python/comments/sfjxsf/making_a_personality_quiz/)
-- [Troogl - A new way to read the news](https://www.reddit.com/r/Python/comments/sfjffs/troogl_a_new_way_to_read_the_news/)
+- [Implementing generators with yield and next using SML](https://www.reddit.com/r/Python/comments/sfp2jl/implementing_generators_with_yield_and_next_using/)
+- [Arcade 2.6.10 has been released](https://www.reddit.com/r/Python/comments/sfp1cz/arcade_2610_has_been_released/)
+- [Tutorial on how to perform Historical Backtest Trade Analysis on Stocks &lpar;and cryptos&rpar; using Python](https://www.reddit.com/r/Python/comments/sforsh/tutorial_on_how_to_perform_historical_backtest/)
+- [psycopg2-m1: wheel for Apple Silicon](https://www.reddit.com/r/Python/comments/sfoizo/psycopg2m1_wheel_for_apple_silicon/)
+- [Algorithms and Data Structures FREE COURSE || Linked Lists](https://www.reddit.com/r/Python/comments/sfobqt/algorithms_and_data_structures_free_course_linked/)
 <!-- BLOG-POST-LIST:END -->
