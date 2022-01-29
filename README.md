@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top APIs](https://www.reddit.com/r/Python/comments/sf8yk8/top_apis/)
+- [How do you make a python UI that doesn&#39;t look like garbage?](https://www.reddit.com/r/Python/comments/sf8vuh/how_do_you_make_a_python_ui_that_doesnt_look_like/)
+- [Cropping image and making background flat white using Python?](https://www.reddit.com/r/Python/comments/sf8sml/cropping_image_and_making_background_flat_white/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/sf4lhb/saturday_daily_thread_resource_request_and/)
 - [Real-world uses for turtle?](https://www.reddit.com/r/Python/comments/sf3991/realworld_uses_for_turtle/)
-- [How to Buy &amp; Sell your first Stocks in Python with Alpaca!](https://www.reddit.com/r/Python/comments/sf332h/how_to_buy_sell_your_first_stocks_in_python_with/)
-- [display black_list tokens](https://www.reddit.com/r/Python/comments/sf319q/display_black_list_tokens/)
-- [NumPy and Pandas practice problems with solutions](https://www.reddit.com/r/Python/comments/sezv6r/numpy_and_pandas_practice_problems_with_solutions/)
 <!-- BLOG-POST-LIST:END -->
