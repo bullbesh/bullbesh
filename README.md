@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Display images in the terminal](https://www.reddit.com/r/Python/comments/sfufl3/display_images_in_the_terminal/)
+- [An Introduction to PyScripter – The Best Free Python IDE](https://www.reddit.com/r/Python/comments/sfu3eu/an_introduction_to_pyscripter_the_best_free/)
+- [Why use Django rest framework when you can use premade APIs ?](https://www.reddit.com/r/Python/comments/sftt4o/why_use_django_rest_framework_when_you_can_use/)
 - [Release 22.1.0 · psf/black](https://www.reddit.com/r/Python/comments/sfrwas/release_2210_psfblack/)
 - [The Black formatter goes stable - release 22.1.0](https://www.reddit.com/r/Python/comments/sfraun/the_black_formatter_goes_stable_release_2210/)
-- [Python Cybersecurity — Build your own python3 tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/sfqyx0/python_cybersecurity_build_your_own_python3_tools/)
-- [Guide to managing caching of static resources with Django &amp; Webpack](https://www.reddit.com/r/Python/comments/sfqy1s/guide_to_managing_caching_of_static_resources/)
-- [Starlite Template](https://www.reddit.com/r/Python/comments/sfpyoi/starlite_template/)
 <!-- BLOG-POST-LIST:END -->
