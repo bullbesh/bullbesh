@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Program that enables playing online chess using a real chess board.](https://www.reddit.com/r/Python/comments/sfetch/program_that_enables_playing_online_chess_using_a/)
+- [Google Foo Bar Invite](https://www.reddit.com/r/Python/comments/sfepli/google_foo_bar_invite/)
 - [Trying to decide between web development or Data analytics. ALL advice appreciated!](https://www.reddit.com/r/Python/comments/sfdte3/trying_to_decide_between_web_development_or_data/)
 - [Parsons puzzles generator for Python](https://www.reddit.com/r/Python/comments/sfdbmq/parsons_puzzles_generator_for_python/)
 - [I made a GUI calculator with Fluent Design](https://www.reddit.com/r/Python/comments/sfd84u/i_made_a_gui_calculator_with_fluent_design/)
-- [Python Tutorial | Python Crash Course Part-03 — By Debug.School](https://www.reddit.com/r/Python/comments/sfckpv/python_tutorial_python_crash_course_part03_by/)
-- [Python Class for Middle Schoolers](https://www.reddit.com/r/Python/comments/sfbrz7/python_class_for_middle_schoolers/)
 <!-- BLOG-POST-LIST:END -->
