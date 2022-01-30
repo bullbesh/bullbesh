@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [nnotes - straightforward note taking tool in the cli](https://www.reddit.com/r/Python/comments/sg452k/nnotes_straightforward_note_taking_tool_in_the_cli/)
+- [What&#39;re the cleanest, most beautifully written projects in Github that are worth studying the code?](https://www.reddit.com/r/Python/comments/sg3owy/whatre_the_cleanest_most_beautifully_written/)
 - [I wrote a Wordle solver. See anything I could do better?](https://www.reddit.com/r/Python/comments/sfzh3l/i_wrote_a_wordle_solver_see_anything_i_could_do/)
 - [pydantic-to-typescript: a simple CLI tool for converting pydantic models into typescript interfaces](https://www.reddit.com/r/Python/comments/sfz1zd/pydantictotypescript_a_simple_cli_tool_for/)
 - [I made a AI wallpaper recommender application](https://www.reddit.com/r/Python/comments/sfyoiy/i_made_a_ai_wallpaper_recommender_application/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/sfvhae/sunday_daily_thread_whats_everyone_working_on/)
-- [Display images in the terminal](https://www.reddit.com/r/Python/comments/sfufl3/display_images_in_the_terminal/)
 <!-- BLOG-POST-LIST:END -->
