@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beginners Tutorial](https://www.reddit.com/r/Python/comments/sgb0i1/beginners_tutorial/)
+- [Secrets of MicroPython 6: More fun with Neopixels](https://www.reddit.com/r/Python/comments/sgavdi/secrets_of_micropython_6_more_fun_with_neopixels/)
+- [So im learning python and i have my senior project coming up and i have some concerns... for the front-end im using react for my website my question is is it easy to use python with it? And flask or django?And how if someone know any tutorials or videos explaining it? Thanks guys 🙏](https://www.reddit.com/r/Python/comments/sgautw/so_im_learning_python_and_i_have_my_senior/)
 - [Python Series Official Intro](https://www.reddit.com/r/Python/comments/sg8czi/python_series_official_intro/)
 - [Coding Stories: My thought process behind solving Leetcode 200 - &quot;Number of Islands&quot; in Python :&rpar;](https://www.reddit.com/r/Python/comments/sg80ek/coding_stories_my_thought_process_behind_solving/)
-- [Python Blog](https://www.reddit.com/r/Python/comments/sg7h99/python_blog/)
-- [How to publish an App in the with Python and Anvil in minutes](https://www.reddit.com/r/Python/comments/sg57c3/how_to_publish_an_app_in_the_with_python_and/)
-- [How to generate a random number without using modules?](https://www.reddit.com/r/Python/comments/sg527j/how_to_generate_a_random_number_without_using/)
 <!-- BLOG-POST-LIST:END -->
