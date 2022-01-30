@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning Python within shortest possible time hacks](https://www.reddit.com/r/Python/comments/sfxjhr/learning_python_within_shortest_possible_time/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/sfvhae/sunday_daily_thread_whats_everyone_working_on/)
 - [Display images in the terminal](https://www.reddit.com/r/Python/comments/sfufl3/display_images_in_the_terminal/)
 - [An Introduction to PyScripter – The Best Free Python IDE](https://www.reddit.com/r/Python/comments/sfu3eu/an_introduction_to_pyscripter_the_best_free/)
 - [Why use Django rest framework when you can use premade APIs ?](https://www.reddit.com/r/Python/comments/sftt4o/why_use_django_rest_framework_when_you_can_use/)
-- [Release 22.1.0 · psf/black](https://www.reddit.com/r/Python/comments/sfrwas/release_2210_psfblack/)
 <!-- BLOG-POST-LIST:END -->
