@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Beginners Tutorial](https://www.reddit.com/r/Python/comments/sgb0i1/beginners_tutorial/)
-- [Secrets of MicroPython 6: More fun with Neopixels](https://www.reddit.com/r/Python/comments/sgavdi/secrets_of_micropython_6_more_fun_with_neopixels/)
-- [So im learning python and i have my senior project coming up and i have some concerns... for the front-end im using react for my website my question is is it easy to use python with it? And flask or django?And how if someone know any tutorials or videos explaining it? Thanks guys 🙏](https://www.reddit.com/r/Python/comments/sgautw/so_im_learning_python_and_i_have_my_senior/)
-- [Python Series Official Intro](https://www.reddit.com/r/Python/comments/sg8czi/python_series_official_intro/)
-- [Coding Stories: My thought process behind solving Leetcode 200 - &quot;Number of Islands&quot; in Python :&rpar;](https://www.reddit.com/r/Python/comments/sg80ek/coding_stories_my_thought_process_behind_solving/)
+- [I wrote a &lpar;very&rpar; simple wordle guesser](https://www.reddit.com/r/Python/comments/sgcnju/i_wrote_a_very_simple_wordle_guesser/)
+- [[lib] Decent cryptocurrency data library which is still under active development](https://www.reddit.com/r/Python/comments/sgchkw/lib_decent_cryptocurrency_data_library_which_is/)
+- [Create awesome timelapses in Python using GeoPandas and ImageIO](https://www.reddit.com/r/Python/comments/sgcfip/create_awesome_timelapses_in_python_using/)
+- [YouTube Trim and Download - Using Flask, Celery, Redis and Docker](https://www.reddit.com/r/Python/comments/sgbzsa/youtube_trim_and_download_using_flask_celery/)
+- [Use Python to get alerted when an Amazon wishlist item drops in price](https://www.reddit.com/r/Python/comments/sgbxfz/use_python_to_get_alerted_when_an_amazon_wishlist/)
 <!-- BLOG-POST-LIST:END -->
