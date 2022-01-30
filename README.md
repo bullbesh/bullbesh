@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use DFS with recursion in a 2d Array in Python](https://www.reddit.com/r/Python/comments/sgenoh/how_to_use_dfs_with_recursion_in_a_2d_array_in/)
+- [MATLAB or Python?](https://www.reddit.com/r/Python/comments/sgdxp0/matlab_or_python/)
 - [Python #2: Type Casting in Python | Tutorial by APDaga](https://www.reddit.com/r/Python/comments/sgdubt/python_2_type_casting_in_python_tutorial_by_apdaga/)
 - [I wrote a &lpar;very&rpar; simple wordle guesser](https://www.reddit.com/r/Python/comments/sgcnju/i_wrote_a_very_simple_wordle_guesser/)
 - [[lib] Decent cryptocurrency data library which is still under active development](https://www.reddit.com/r/Python/comments/sgchkw/lib_decent_cryptocurrency_data_library_which_is/)
-- [Create awesome timelapses in Python using GeoPandas and ImageIO](https://www.reddit.com/r/Python/comments/sgcfip/create_awesome_timelapses_in_python_using/)
-- [YouTube Trim and Download - Using Flask, Celery, Redis and Docker](https://www.reddit.com/r/Python/comments/sgbzsa/youtube_trim_and_download_using_flask_celery/)
 <!-- BLOG-POST-LIST:END -->
