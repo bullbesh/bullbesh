@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [python.png not found](https://www.reddit.com/r/Python/comments/sgflm9/pythonpng_not_found/)
+- [Too much python versions](https://www.reddit.com/r/Python/comments/sgfb0k/too_much_python_versions/)
+- [New release: outputformat v0.1.3](https://www.reddit.com/r/Python/comments/sgf99b/new_release_outputformat_v013/)
+- [python.png not found](https://www.reddit.com/r/Python/comments/sgf8iq/pythonpng_not_found/)
 - [How to use DFS with recursion in a 2d Array in Python](https://www.reddit.com/r/Python/comments/sgenoh/how_to_use_dfs_with_recursion_in_a_2d_array_in/)
-- [MATLAB or Python?](https://www.reddit.com/r/Python/comments/sgdxp0/matlab_or_python/)
-- [Python #2: Type Casting in Python | Tutorial by APDaga](https://www.reddit.com/r/Python/comments/sgdubt/python_2_type_casting_in_python_tutorial_by_apdaga/)
-- [I wrote a &lpar;very&rpar; simple wordle guesser](https://www.reddit.com/r/Python/comments/sgcnju/i_wrote_a_very_simple_wordle_guesser/)
-- [[lib] Decent cryptocurrency data library which is still under active development](https://www.reddit.com/r/Python/comments/sgchkw/lib_decent_cryptocurrency_data_library_which_is/)
 <!-- BLOG-POST-LIST:END -->
