@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Something feels wrong, but I can&#39;t put my finger on it...](https://www.reddit.com/r/Python/comments/shdwd1/something_feels_wrong_but_i_cant_put_my_finger_on/)
+- [Sudoku Solver Help](https://www.reddit.com/r/Python/comments/shffvk/sudoku_solver_help/)
+- [Build &amp; Deploy Kivy App with Buildozer on Android](https://www.reddit.com/r/Python/comments/shey5x/build_deploy_kivy_app_with_buildozer_on_android/)
+- [ProcessPoolExecutor: The Complete Guide](https://www.reddit.com/r/Python/comments/she82n/processpoolexecutor_the_complete_guide/)
 - [TwitchPy: A package made to program for Twitch in Python](https://www.reddit.com/r/Python/comments/sh9957/twitchpy_a_package_made_to_program_for_twitch_in/)
 - [Practical Python Projects book is now free to read online!](https://www.reddit.com/r/Python/comments/sh79je/practical_python_projects_book_is_now_free_to/)
-- [API Traffic Viewer for Kubernetes](https://www.reddit.com/r/Python/comments/sh74ls/api_traffic_viewer_for_kubernetes/)
-- [Procrastinate: PostgreSQL-based Task Queue for Python](https://www.reddit.com/r/Python/comments/sh6ugr/procrastinate_postgresqlbased_task_queue_for/)
 <!-- BLOG-POST-LIST:END -->
