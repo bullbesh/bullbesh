@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/sgmqxq/monday_daily_thread_project_ideas/)
+- [Why is the power operator much slower than multiplication in Python?](https://www.reddit.com/r/Python/comments/sgm0dv/why_is_the_power_operator_much_slower_than/)
+- [Raspberry Monitor - Flask/Bootstrap](https://www.reddit.com/r/Python/comments/sgm04c/raspberry_monitor_flaskbootstrap/)
+- [Is this example not really unit testing properly?](https://www.reddit.com/r/Python/comments/sglvu7/is_this_example_not_really_unit_testing_properly/)
 - [Space Science with Python - Starting a Machine Learning project](https://www.reddit.com/r/Python/comments/sgk0q1/space_science_with_python_starting_a_machine/)
-- [Jupyter Notebook en servidor Debian 11](https://www.reddit.com/r/Python/comments/sgj3zr/jupyter_notebook_en_servidor_debian_11/)
-- [ECornell - Python for Data Science Course](https://www.reddit.com/r/Python/comments/sgiiuc/ecornell_python_for_data_science_course/)
-- [Python Practice Article and Separating Source and UnitTests in Python](https://www.reddit.com/r/Python/comments/sgi2u3/python_practice_article_and_separating_source_and/)
-- [Python can also be used to build a sound synthesizer :&rpar;](https://www.reddit.com/r/Python/comments/sggfbp/python_can_also_be_used_to_build_a_sound/)
 <!-- BLOG-POST-LIST:END -->
