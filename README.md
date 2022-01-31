@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A simple tutorial on how to extract, transform, and load data with Python](https://www.reddit.com/r/Python/comments/sgwyf7/a_simple_tutorial_on_how_to_extract_transform_and/)
+- [Best Python Development Setup for 2022 and Beyond](https://www.reddit.com/r/Python/comments/sgwpqv/best_python_development_setup_for_2022_and_beyond/)
 - [My first bot with python, An random auto posting bot template for most social media.](https://www.reddit.com/r/Python/comments/sgvksx/my_first_bot_with_python_an_random_auto_posting/)
 - [Made a python web health-checker with support for json file](https://www.reddit.com/r/Python/comments/sgvbj9/made_a_python_web_healthchecker_with_support_for/)
 - [Python Tutorial | Python Crash Course Part-04 — By Debug.School](https://www.reddit.com/r/Python/comments/sgurcv/python_tutorial_python_crash_course_part04_by/)
-- [&lpar;Python newbie&rpar; CMV: writing cryptic one line functions doesn&#39;t make you a good programmer, nor does it make your program run any faster. It just makes future devs&#39; job a pain and a half](https://www.reddit.com/r/Python/comments/sgt8ms/python_newbie_cmv_writing_cryptic_one_line/)
-- [From individual coder to taking part in a open source project](https://www.reddit.com/r/Python/comments/sgoj2x/from_individual_coder_to_taking_part_in_a_open/)
 <!-- BLOG-POST-LIST:END -->
