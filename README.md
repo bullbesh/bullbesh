@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first bot with python, An random auto posting bot template for most social media.](https://www.reddit.com/r/Python/comments/sgvksx/my_first_bot_with_python_an_random_auto_posting/)
+- [Made a python web health-checker with support for json file](https://www.reddit.com/r/Python/comments/sgvbj9/made_a_python_web_healthchecker_with_support_for/)
 - [Python Tutorial | Python Crash Course Part-04 — By Debug.School](https://www.reddit.com/r/Python/comments/sgurcv/python_tutorial_python_crash_course_part04_by/)
 - [&lpar;Python newbie&rpar; CMV: writing cryptic one line functions doesn&#39;t make you a good programmer, nor does it make your program run any faster. It just makes future devs&#39; job a pain and a half](https://www.reddit.com/r/Python/comments/sgt8ms/python_newbie_cmv_writing_cryptic_one_line/)
 - [From individual coder to taking part in a open source project](https://www.reddit.com/r/Python/comments/sgoj2x/from_individual_coder_to_taking_part_in_a_open/)
-- [There has got to be a simpler way to do this?](https://www.reddit.com/r/Python/comments/sgod05/there_has_got_to_be_a_simpler_way_to_do_this/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/sgmqxq/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
