@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [how to learn python ?](https://www.reddit.com/r/Python/comments/sh7llr/how_to_learn_python/)
+- [TwitchPy: A package made to program for Twitch in Python](https://www.reddit.com/r/Python/comments/sh9957/twitchpy_a_package_made_to_program_for_twitch_in/)
+- [Hexadecimal private key to Ethereum address](https://www.reddit.com/r/Python/comments/sh8y6m/hexadecimal_private_key_to_ethereum_address/)
+- [2022 Complete Python Bootcamp From Zero to Hero in Python course question](https://www.reddit.com/r/Python/comments/sh8mls/2022_complete_python_bootcamp_from_zero_to_hero/)
 - [Practical Python Projects book is now free to read online!](https://www.reddit.com/r/Python/comments/sh79je/practical_python_projects_book_is_now_free_to/)
 - [API Traffic Viewer for Kubernetes](https://www.reddit.com/r/Python/comments/sh74ls/api_traffic_viewer_for_kubernetes/)
-- [Procrastinate: PostgreSQL-based Task Queue for Python](https://www.reddit.com/r/Python/comments/sh6ugr/procrastinate_postgresqlbased_task_queue_for/)
-- [Rich-CLI -- A command line interface to Rich &lpar;pretty formatting in the terminal&rpar;](https://www.reddit.com/r/Python/comments/sh6g9t/richcli_a_command_line_interface_to_rich_pretty/)
 <!-- BLOG-POST-LIST:END -->
