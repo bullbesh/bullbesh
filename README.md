@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning about sorting algorithms and decided to make a visualizer for selection sort.](https://www.reddit.com/r/Python/comments/sgxnwe/learning_about_sorting_algorithms_and_decided_to/)
-- [A simple tutorial on how to extract, transform, and load data with Python](https://www.reddit.com/r/Python/comments/sgwyf7/a_simple_tutorial_on_how_to_extract_transform_and/)
-- [Best Python Development Setup for 2022 and Beyond](https://www.reddit.com/r/Python/comments/sgwpqv/best_python_development_setup_for_2022_and_beyond/)
-- [My first bot with python, An random auto posting bot template for most social media.](https://www.reddit.com/r/Python/comments/sgvksx/my_first_bot_with_python_an_random_auto_posting/)
-- [Made a python web health-checker with support for json file](https://www.reddit.com/r/Python/comments/sgvbj9/made_a_python_web_healthchecker_with_support_for/)
+- [I figured out a way to generate a TUI from a function signature!](https://www.reddit.com/r/Python/comments/sgys5p/i_figured_out_a_way_to_generate_a_tui_from_a/)
+- [Why would you choose Python over another language?](https://www.reddit.com/r/Python/comments/sgykd0/why_would_you_choose_python_over_another_language/)
+- [Scrape Google Play Store App in Python](https://www.reddit.com/r/Python/comments/sgyhm9/scrape_google_play_store_app_in_python/)
+- [Boolean Operators in Python](https://www.reddit.com/r/Python/comments/sgyaj5/boolean_operators_in_python/)
+- [Would Flask be better than Django for a portfolio/learning project?](https://www.reddit.com/r/Python/comments/sgy2w7/would_flask_be_better_than_django_for_a/)
 <!-- BLOG-POST-LIST:END -->
