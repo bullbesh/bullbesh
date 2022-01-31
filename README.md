@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Something feels wrong, but I can&#39;t put my finger on it...](https://www.reddit.com/r/Python/comments/shdwd1/something_feels_wrong_but_i_cant_put_my_finger_on/)
 - [TwitchPy: A package made to program for Twitch in Python](https://www.reddit.com/r/Python/comments/sh9957/twitchpy_a_package_made_to_program_for_twitch_in/)
 - [Practical Python Projects book is now free to read online!](https://www.reddit.com/r/Python/comments/sh79je/practical_python_projects_book_is_now_free_to/)
 - [API Traffic Viewer for Kubernetes](https://www.reddit.com/r/Python/comments/sh74ls/api_traffic_viewer_for_kubernetes/)
 - [Procrastinate: PostgreSQL-based Task Queue for Python](https://www.reddit.com/r/Python/comments/sh6ugr/procrastinate_postgresqlbased_task_queue_for/)
-- [Rich-CLI -- A command line interface to Rich &lpar;pretty formatting in the terminal&rpar;](https://www.reddit.com/r/Python/comments/sh6g9t/richcli_a_command_line_interface_to_rich_pretty/)
 <!-- BLOG-POST-LIST:END -->
