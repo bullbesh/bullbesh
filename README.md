@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Forecasting with statsmodels](https://www.reddit.com/r/Python/comments/sh1ro2/forecasting_with_statsmodels/)
 - [Can python become easier than that?](https://www.reddit.com/r/Python/comments/sh11pv/can_python_become_easier_than_that/)
 - [Textual TUI framework now runs on Windows](https://www.reddit.com/r/Python/comments/sh0oxi/textual_tui_framework_now_runs_on_windows/)
 - [Non-pythonic Python built-ins](https://www.reddit.com/r/Python/comments/sh0h8u/nonpythonic_python_builtins/)
 - [I need guidance](https://www.reddit.com/r/Python/comments/sgzjef/i_need_guidance/)
-- [Starlite v1.0.0: the Little API Framework that Can](https://www.reddit.com/r/Python/comments/sgyz17/starlite_v100_the_little_api_framework_that_can/)
 <!-- BLOG-POST-LIST:END -->
