@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mandelbrot set webapp made with Flask and Fortran/OpenMP to handle the computation](https://www.reddit.com/r/Python/comments/sh4jvh/mandelbrot_set_webapp_made_with_flask_and/)
+- [Matching Cards Guessing Game in Python with PyGame. Randomly generated board, fun memory game style project](https://www.reddit.com/r/Python/comments/sh4chx/matching_cards_guessing_game_in_python_with/)
+- [I Need Your Help: Convincing Reasons for Python over C# for ML Pipeline?](https://www.reddit.com/r/Python/comments/sh46p9/i_need_your_help_convincing_reasons_for_python/)
+- [Lunch and Learn: High-Performance Python EP2](https://www.reddit.com/r/Python/comments/sh3uuf/lunch_and_learn_highperformance_python_ep2/)
 - [YOUR SAFE](https://www.reddit.com/r/Python/comments/sh2wjo/your_safe/)
-- [Forecasting with statsmodels](https://www.reddit.com/r/Python/comments/sh1ro2/forecasting_with_statsmodels/)
-- [Can python become easier than that?](https://www.reddit.com/r/Python/comments/sh11pv/can_python_become_easier_than_that/)
-- [Textual TUI framework now runs on Windows](https://www.reddit.com/r/Python/comments/sh0oxi/textual_tui_framework_now_runs_on_windows/)
-- [Non-pythonic Python built-ins](https://www.reddit.com/r/Python/comments/sh0h8u/nonpythonic_python_builtins/)
 <!-- BLOG-POST-LIST:END -->
