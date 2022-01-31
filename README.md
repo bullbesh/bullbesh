@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I need guidance](https://www.reddit.com/r/Python/comments/sgzjef/i_need_guidance/)
+- [Starlite v1.0.0: the Little API Framework that Can](https://www.reddit.com/r/Python/comments/sgyz17/starlite_v100_the_little_api_framework_that_can/)
 - [I figured out a way to generate a TUI from a function signature!](https://www.reddit.com/r/Python/comments/sgys5p/i_figured_out_a_way_to_generate_a_tui_from_a/)
-- [Why would you choose Python over another language?](https://www.reddit.com/r/Python/comments/sgykd0/why_would_you_choose_python_over_another_language/)
 - [Scrape Google Play Store App in Python](https://www.reddit.com/r/Python/comments/sgyhm9/scrape_google_play_store_app_in_python/)
 - [Boolean Operators in Python](https://www.reddit.com/r/Python/comments/sgyaj5/boolean_operators_in_python/)
-- [Would Flask be better than Django for a portfolio/learning project?](https://www.reddit.com/r/Python/comments/sgy2w7/would_flask_be_better_than_django_for_a/)
 <!-- BLOG-POST-LIST:END -->
