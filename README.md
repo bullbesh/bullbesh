@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beginner question](https://www.reddit.com/r/Python/comments/shxc0n/beginner_question/)
+- [Are there any ways/tricks to automatically send a message to someone&#39;s who&#39;s just &quot;viewed my profile&quot; on LinkedIn?](https://www.reddit.com/r/Python/comments/shxba8/are_there_any_waystricks_to_automatically_send_a/)
+- [Is your code too complex? 2 ways to measure complexity for Python code](https://www.reddit.com/r/Python/comments/shwzww/is_your_code_too_complex_2_ways_to_measure/)
 - [Draw the Mandelbrot Set in Python – Real Python](https://www.reddit.com/r/Python/comments/shvxse/draw_the_mandelbrot_set_in_python_real_python/)
 - [Django Pytests &lpar;REST Framework&rpar;](https://www.reddit.com/r/Python/comments/shtq47/django_pytests_rest_framework/)
-- [How to Transcribe and Analyze Audio Files with Python and AssemblyAI?](https://www.reddit.com/r/Python/comments/shtk1b/how_to_transcribe_and_analyze_audio_files_with/)
-- [Python Tutorial | Python Crash Course Part-05 — By Debug.School](https://www.reddit.com/r/Python/comments/shsflc/python_tutorial_python_crash_course_part05_by/)
-- [A Comprehensive Guide to Slicing in Python](https://www.reddit.com/r/Python/comments/shrw4q/a_comprehensive_guide_to_slicing_in_python/)
 <!-- BLOG-POST-LIST:END -->
