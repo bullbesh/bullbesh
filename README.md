@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Draw the Mandelbrot Set in Python – Real Python](https://www.reddit.com/r/Python/comments/shvxse/draw_the_mandelbrot_set_in_python_real_python/)
 - [Django Pytests &lpar;REST Framework&rpar;](https://www.reddit.com/r/Python/comments/shtq47/django_pytests_rest_framework/)
 - [How to Transcribe and Analyze Audio Files with Python and AssemblyAI?](https://www.reddit.com/r/Python/comments/shtk1b/how_to_transcribe_and_analyze_audio_files_with/)
 - [Python Tutorial | Python Crash Course Part-05 — By Debug.School](https://www.reddit.com/r/Python/comments/shsflc/python_tutorial_python_crash_course_part05_by/)
 - [A Comprehensive Guide to Slicing in Python](https://www.reddit.com/r/Python/comments/shrw4q/a_comprehensive_guide_to_slicing_in_python/)
-- [A useful resource](https://www.reddit.com/r/Python/comments/shqbvk/a_useful_resource/)
 <!-- BLOG-POST-LIST:END -->
