@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django Pytests &lpar;REST Framework&rpar;](https://www.reddit.com/r/Python/comments/shtq47/django_pytests_rest_framework/)
+- [How to Transcribe and Analyze Audio Files with Python and AssemblyAI?](https://www.reddit.com/r/Python/comments/shtk1b/how_to_transcribe_and_analyze_audio_files_with/)
 - [Python Tutorial | Python Crash Course Part-05 — By Debug.School](https://www.reddit.com/r/Python/comments/shsflc/python_tutorial_python_crash_course_part05_by/)
 - [A Comprehensive Guide to Slicing in Python](https://www.reddit.com/r/Python/comments/shrw4q/a_comprehensive_guide_to_slicing_in_python/)
 - [A useful resource](https://www.reddit.com/r/Python/comments/shqbvk/a_useful_resource/)
-- [HypixPY &lpar;API wrapper for Hypixel&rpar;](https://www.reddit.com/r/Python/comments/shph39/hypixpy_api_wrapper_for_hypixel/)
-- [I made a hexadecimal programming language with Python](https://www.reddit.com/r/Python/comments/shnt1c/i_made_a_hexadecimal_programming_language_with/)
 <!-- BLOG-POST-LIST:END -->
