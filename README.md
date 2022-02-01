@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Tutorial | Python Crash Course Part-05 — By Debug.School](https://www.reddit.com/r/Python/comments/shsflc/python_tutorial_python_crash_course_part05_by/)
+- [A Comprehensive Guide to Slicing in Python](https://www.reddit.com/r/Python/comments/shrw4q/a_comprehensive_guide_to_slicing_in_python/)
 - [A useful resource](https://www.reddit.com/r/Python/comments/shqbvk/a_useful_resource/)
 - [HypixPY &lpar;API wrapper for Hypixel&rpar;](https://www.reddit.com/r/Python/comments/shph39/hypixpy_api_wrapper_for_hypixel/)
 - [I made a hexadecimal programming language with Python](https://www.reddit.com/r/Python/comments/shnt1c/i_made_a_hexadecimal_programming_language_with/)
-- [In which domain it is feasible to use audio recording option in web designing, either in WordPress or in Python](https://www.reddit.com/r/Python/comments/shnd49/in_which_domain_it_is_feasible_to_use_audio/)
-- [I recreated Friday Night Funkin with Pygame](https://www.reddit.com/r/Python/comments/shn761/i_recreated_friday_night_funkin_with_pygame/)
 <!-- BLOG-POST-LIST:END -->
