@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python SDK for Composable and Reusable Analytics](https://www.reddit.com/r/Python/comments/si3o9c/python_sdk_for_composable_and_reusable_analytics/)
+- [Python Project Template](https://www.reddit.com/r/Python/comments/si3e0v/python_project_template/)
+- [Hi guys:&rpar; so it&#39;s been a month since I started to learn python im really loving it. and it&#39;s my first language. If you just started to learn python. DM me so we can teach each other, it just feels good if you have someone to ask for😁](https://www.reddit.com/r/Python/comments/si3a1v/hi_guys_so_its_been_a_month_since_i_started_to/)
 - [fastest way to type text from a python script](https://www.reddit.com/r/Python/comments/si2fc1/fastest_way_to_type_text_from_a_python_script/)
 - [pyIFD: Python-based Image Forgery Detection Toolkit](https://www.reddit.com/r/Python/comments/si1jzj/pyifd_pythonbased_image_forgery_detection_toolkit/)
-- [I´m making a Text Editor](https://www.reddit.com/r/Python/comments/si0bud/im_making_a_text_editor/)
-- [How to make analyzer of new COVID-cases in Python](https://www.reddit.com/r/Python/comments/shzwk3/how_to_make_analyzer_of_new_covidcases_in_python/)
-- [We finally published our no-code advanced app builder for any SQL/HTTP &lpar;ex. django-jet&rpar;](https://www.reddit.com/r/Python/comments/shzf54/we_finally_published_our_nocode_advanced_app/)
 <!-- BLOG-POST-LIST:END -->
