@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [fastest way to type text from a python script](https://www.reddit.com/r/Python/comments/si2fc1/fastest_way_to_type_text_from_a_python_script/)
 - [pyIFD: Python-based Image Forgery Detection Toolkit](https://www.reddit.com/r/Python/comments/si1jzj/pyifd_pythonbased_image_forgery_detection_toolkit/)
 - [I´m making a Text Editor](https://www.reddit.com/r/Python/comments/si0bud/im_making_a_text_editor/)
 - [How to make analyzer of new COVID-cases in Python](https://www.reddit.com/r/Python/comments/shzwk3/how_to_make_analyzer_of_new_covidcases_in_python/)
 - [We finally published our no-code advanced app builder for any SQL/HTTP &lpar;ex. django-jet&rpar;](https://www.reddit.com/r/Python/comments/shzf54/we_finally_published_our_nocode_advanced_app/)
-- [ptmv - a commandline app that plays videos and displays images](https://www.reddit.com/r/Python/comments/shzbyi/ptmv_a_commandline_app_that_plays_videos_and/)
 <!-- BLOG-POST-LIST:END -->
