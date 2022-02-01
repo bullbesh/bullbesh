@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A useful resource](https://www.reddit.com/r/Python/comments/shqbvk/a_useful_resource/)
 - [HypixPY &lpar;API wrapper for Hypixel&rpar;](https://www.reddit.com/r/Python/comments/shph39/hypixpy_api_wrapper_for_hypixel/)
 - [I made a hexadecimal programming language with Python](https://www.reddit.com/r/Python/comments/shnt1c/i_made_a_hexadecimal_programming_language_with/)
 - [In which domain it is feasible to use audio recording option in web designing, either in WordPress or in Python](https://www.reddit.com/r/Python/comments/shnd49/in_which_domain_it_is_feasible_to_use_audio/)
 - [I recreated Friday Night Funkin with Pygame](https://www.reddit.com/r/Python/comments/shn761/i_recreated_friday_night_funkin_with_pygame/)
-- [Optimal portfolio rebalancing and automated trading on fidelity.com](https://www.reddit.com/r/Python/comments/shgvsl/optimal_portfolio_rebalancing_and_automated/)
 <!-- BLOG-POST-LIST:END -->
