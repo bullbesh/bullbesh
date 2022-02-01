@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Sudoku Solver Help](https://www.reddit.com/r/Python/comments/shffvk/sudoku_solver_help/)
-- [Build &amp; Deploy Kivy App with Buildozer on Android](https://www.reddit.com/r/Python/comments/shey5x/build_deploy_kivy_app_with_buildozer_on_android/)
-- [ProcessPoolExecutor: The Complete Guide](https://www.reddit.com/r/Python/comments/she82n/processpoolexecutor_the_complete_guide/)
-- [TwitchPy: A package made to program for Twitch in Python](https://www.reddit.com/r/Python/comments/sh9957/twitchpy_a_package_made_to_program_for_twitch_in/)
-- [Practical Python Projects book is now free to read online!](https://www.reddit.com/r/Python/comments/sh79je/practical_python_projects_book_is_now_free_to/)
+- [Optimal portfolio rebalancing and automated trading on fidelity.com](https://www.reddit.com/r/Python/comments/shgvsl/optimal_portfolio_rebalancing_and_automated/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/shgel0/tuesday_daily_thread_advanced_questions/)
+- [pydapper - a pure python port of the NuGet library dapper](https://www.reddit.com/r/Python/comments/shgbl4/pydapper_a_pure_python_port_of_the_nuget_library/)
+- [How to Install an Alternate Python Version](https://www.reddit.com/r/Python/comments/shfoyr/how_to_install_an_alternate_python_version/)
+- [Data Analysis on NBA comeback victories using BeautifulSoup &amp; Pandas](https://www.reddit.com/r/Python/comments/shfmmu/data_analysis_on_nba_comeback_victories_using/)
 <!-- BLOG-POST-LIST:END -->
