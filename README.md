@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Newbie data cleaning help with pandas.](https://www.reddit.com/r/Python/comments/six0wl/newbie_data_cleaning_help_with_pandas/)
+- [CS105: Introduction to Python w/ Certificate {FREE COURSE}](https://www.reddit.com/r/Python/comments/siypu3/cs105_introduction_to_python_w_certificate_free/)
+- [Minecraft clone in Python tutorial](https://www.reddit.com/r/Python/comments/sixj0g/minecraft_clone_in_python_tutorial/)
+- [Advanced Python: Python packaging. Pip install your scripts!](https://www.reddit.com/r/Python/comments/six5y7/advanced_python_python_packaging_pip_install_your/)
 - [Best way to encapsulate a list of objects of the same type?](https://www.reddit.com/r/Python/comments/siuipo/best_way_to_encapsulate_a_list_of_objects_of_the/)
 - [Python and The Legend of Zelda](https://www.reddit.com/r/Python/comments/siudra/python_and_the_legend_of_zelda/)
-- [Is there a library that can convert audio in yiddish to text?](https://www.reddit.com/r/Python/comments/sitt5j/is_there_a_library_that_can_convert_audio_in/)
-- [Hi everyone,I want to share with you a Flask Open Source project that I think is interesting. I know it is still a very young project but over time it can have good room for improvement.If you like the project,leave a star! 💻](https://www.reddit.com/r/Python/comments/sitswx/hi_everyonei_want_to_share_with_you_a_flask_open/)
 <!-- BLOG-POST-LIST:END -->
