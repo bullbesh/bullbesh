@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Question about LU method inside SCIPY](https://www.reddit.com/r/Python/comments/sj1jwi/question_about_lu_method_inside_scipy/)
+- [Spy on Python down to the Linux kernel level](https://www.reddit.com/r/Python/comments/sj0ejk/spy_on_python_down_to_the_linux_kernel_level/)
+- [Simple threaded IP-Scanner](https://www.reddit.com/r/Python/comments/sj0e2s/simple_threaded_ipscanner/)
+- [How to bust Python performance issues](https://www.reddit.com/r/Python/comments/sj0dpa/how_to_bust_python_performance_issues/)
 - [Processing Iterables Without a Loop](https://www.reddit.com/r/Python/comments/sizv9x/processing_iterables_without_a_loop/)
-- [Async python vs other async based languages such as node, go etc.](https://www.reddit.com/r/Python/comments/siz953/async_python_vs_other_async_based_languages_such/)
-- [CS105: Introduction to Python w/ Certificate {FREE COURSE}](https://www.reddit.com/r/Python/comments/siypu3/cs105_introduction_to_python_w_certificate_free/)
-- [Minecraft clone in Python tutorial](https://www.reddit.com/r/Python/comments/sixj0g/minecraft_clone_in_python_tutorial/)
-- [Advanced Python: Python packaging. Pip install your scripts!](https://www.reddit.com/r/Python/comments/six5y7/advanced_python_python_packaging_pip_install_your/)
 <!-- BLOG-POST-LIST:END -->
