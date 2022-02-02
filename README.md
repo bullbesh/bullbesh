@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do programmers type double parenthesis &lpar;|&rpar; or double quote “|” or ‘|’ and have the cursor already between them? I’ve written | to show the cursor…](https://www.reddit.com/r/Python/comments/sika9v/how_do_programmers_type_double_parenthesis_or/)
+- [Hacking the Python syntax: Ternary operator](https://www.reddit.com/r/Python/comments/sik24z/hacking_the_python_syntax_ternary_operator/)
 - [ImageDominantColor - Python package for detecting the dominant color of the image](https://www.reddit.com/r/Python/comments/sij6xd/imagedominantcolor_python_package_for_detecting/)
 - [Lela- Smart Dietician &amp; Yoga Detector.](https://www.reddit.com/r/Python/comments/siiwee/lela_smart_dietician_yoga_detector/)
 - [We finally published our no-code advanced app builder for any SQL/HTTP &lpar;ex. django-jet&rpar;](https://www.reddit.com/r/Python/comments/siiqwb/we_finally_published_our_nocode_advanced_app/)
-- [Python script to brute-force a lot of random data onto a scammer&#39;s website](https://www.reddit.com/r/Python/comments/siij23/python_script_to_bruteforce_a_lot_of_random_data/)
-- [Bulletproof way of installing dependencies of dependencies](https://www.reddit.com/r/Python/comments/siffy7/bulletproof_way_of_installing_dependencies_of/)
 <!-- BLOG-POST-LIST:END -->
