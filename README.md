@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bulletproof way of installing dependencies of dependencies](https://www.reddit.com/r/Python/comments/siffy7/bulletproof_way_of_installing_dependencies_of/)
 - [Black vs yapf vs ???](https://www.reddit.com/r/Python/comments/sidqze/black_vs_yapf_vs/)
 - [Deploying Django, django channels to AWS](https://www.reddit.com/r/Python/comments/sid33g/deploying_django_django_channels_to_aws/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/si9p3x/wednesday_daily_thread_beginner_questions/)
 - [A simple cash register](https://www.reddit.com/r/Python/comments/si92m5/a_simple_cash_register/)
-- [Which Programming Language will see the Biggest Jump in usage for 2022?](https://www.reddit.com/r/Python/comments/si636q/which_programming_language_will_see_the_biggest/)
 <!-- BLOG-POST-LIST:END -->
