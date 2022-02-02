@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Running your scheduled Python tasks on Heroku? You can now easily monitor their throughput!](https://www.reddit.com/r/Python/comments/simyw7/running_your_scheduled_python_tasks_on_heroku_you/)
+- [Dataframe from IEX data](https://www.reddit.com/r/Python/comments/simi78/dataframe_from_iex_data/)
+- [An Introduction to Spectral Analysis: Examining the power spectra of my guitar strings when plucked at different positions](https://www.reddit.com/r/Python/comments/simav0/an_introduction_to_spectral_analysis_examining/)
 - [How to fix bug](https://www.reddit.com/r/Python/comments/sikfr1/how_to_fix_bug/)
 - [I created a tool for inspecting indents](https://www.reddit.com/r/Python/comments/sikfe7/i_created_a_tool_for_inspecting_indents/)
-- [How do programmers type double parenthesis &lpar;|&rpar; or double quote “|” or ‘|’ and have the cursor already between them? I’ve written | to show the cursor…](https://www.reddit.com/r/Python/comments/sika9v/how_do_programmers_type_double_parenthesis_or/)
-- [Hacking the Python syntax: Ternary operator](https://www.reddit.com/r/Python/comments/sik24z/hacking_the_python_syntax_ternary_operator/)
-- [ImageDominantColor - Python package for detecting the dominant color of the image](https://www.reddit.com/r/Python/comments/sij6xd/imagedominantcolor_python_package_for_detecting/)
 <!-- BLOG-POST-LIST:END -->
