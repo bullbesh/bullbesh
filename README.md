@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ImageDominantColor - Python package for detecting the dominant color of the image](https://www.reddit.com/r/Python/comments/sij6xd/imagedominantcolor_python_package_for_detecting/)
+- [Lela- Smart Dietician &amp; Yoga Detector.](https://www.reddit.com/r/Python/comments/siiwee/lela_smart_dietician_yoga_detector/)
+- [We finally published our no-code advanced app builder for any SQL/HTTP &lpar;ex. django-jet&rpar;](https://www.reddit.com/r/Python/comments/siiqwb/we_finally_published_our_nocode_advanced_app/)
+- [Python script to brute-force a lot of random data onto a scammer&#39;s website](https://www.reddit.com/r/Python/comments/siij23/python_script_to_bruteforce_a_lot_of_random_data/)
 - [Bulletproof way of installing dependencies of dependencies](https://www.reddit.com/r/Python/comments/siffy7/bulletproof_way_of_installing_dependencies_of/)
-- [Black vs yapf vs ???](https://www.reddit.com/r/Python/comments/sidqze/black_vs_yapf_vs/)
-- [Deploying Django, django channels to AWS](https://www.reddit.com/r/Python/comments/sid33g/deploying_django_django_channels_to_aws/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/si9p3x/wednesday_daily_thread_beginner_questions/)
-- [A simple cash register](https://www.reddit.com/r/Python/comments/si92m5/a_simple_cash_register/)
 <!-- BLOG-POST-LIST:END -->
