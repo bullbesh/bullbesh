@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make analyzer of new COVID deaths in Python](https://www.reddit.com/r/Python/comments/sjl4f9/how_to_make_analyzer_of_new_covid_deaths_in_python/)
+- [Great music to listen to while programming:&rpar; My favorite](https://www.reddit.com/r/Python/comments/sjkdw7/great_music_to_listen_to_while_programming_my/)
 - [Full-length tutorial on deploying Flask app on AWS with Docker + RDS + Secrets Manager](https://www.reddit.com/r/Python/comments/sjk7gd/fulllength_tutorial_on_deploying_flask_app_on_aws/)
 - [Email sending automation for Job apps](https://www.reddit.com/r/Python/comments/sjjz1w/email_sending_automation_for_job_apps/)
 - [Brainfuck interpreter for my vim-inspired language!](https://www.reddit.com/r/Python/comments/sjjfnh/brainfuck_interpreter_for_my_viminspired_language/)
-- [WhatPulse Alternative V5. My first usable project.](https://www.reddit.com/r/Python/comments/sjivgk/whatpulse_alternative_v5_my_first_usable_project/)
-- [Creating a Heroku Pipeline and Running Review Apps with AutoIdle - Guide](https://www.reddit.com/r/Python/comments/sjha0x/creating_a_heroku_pipeline_and_running_review/)
 <!-- BLOG-POST-LIST:END -->
