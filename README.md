@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wrote a little Wordle helper 😅](https://www.reddit.com/r/Python/comments/sjpvll/wrote_a_little_wordle_helper/)
+- [How Python powers our German infectious disease simulation service](https://www.reddit.com/r/Python/comments/sjp4lp/how_python_powers_our_german_infectious_disease/)
 - [Spotify Visualiser Built Using Flask](https://www.reddit.com/r/Python/comments/sjohzc/spotify_visualiser_built_using_flask/)
 - [Aesthetic Menu Bar For Windows Made Using Tkinter](https://www.reddit.com/r/Python/comments/sjnvt0/aesthetic_menu_bar_for_windows_made_using_tkinter/)
 - [Coding a google snake bot](https://www.reddit.com/r/Python/comments/sjnlqz/coding_a_google_snake_bot/)
-- [New Spotify songs in playlist -&gt; YouTube Playlist](https://www.reddit.com/r/Python/comments/sjmy22/new_spotify_songs_in_playlist_youtube_playlist/)
-- [Python modules and packages with strange names](https://www.reddit.com/r/Python/comments/sjlyr1/python_modules_and_packages_with_strange_names/)
 <!-- BLOG-POST-LIST:END -->
