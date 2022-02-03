@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Heroku Pipeline and Running Review Apps with AutoIdle - Guide](https://www.reddit.com/r/Python/comments/sjha0x/creating_a_heroku_pipeline_and_running_review/)
 - [Add Pandas Dataframe to Google Sheet.](https://www.reddit.com/r/Python/comments/sjgl7w/add_pandas_dataframe_to_google_sheet/)
 - [Quart-Schema 0.11.0 released!](https://www.reddit.com/r/Python/comments/sjgk0s/quartschema_0110_released/)
 - [Regaining Momentum](https://www.reddit.com/r/Python/comments/sjggwr/regaining_momentum/)
 - [How I completed the Hacktoberfest 2021 challenge with a profiler](https://www.reddit.com/r/Python/comments/sjg7et/how_i_completed_the_hacktoberfest_2021_challenge/)
-- [What resources can Non-Python programmers use to get started in Python?](https://www.reddit.com/r/Python/comments/sjg3sx/what_resources_can_nonpython_programmers_use_to/)
 <!-- BLOG-POST-LIST:END -->
