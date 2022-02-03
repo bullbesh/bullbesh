@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Part 2: How to Connect a Database to Python RESTful APIs with FastAPI](https://www.reddit.com/r/Python/comments/sjwpm9/part_2_how_to_connect_a_database_to_python/)
+- [Hacking the Python syntax](https://www.reddit.com/r/Python/comments/sjwolz/hacking_the_python_syntax/)
+- [Programming language written in python](https://www.reddit.com/r/Python/comments/sjweou/programming_language_written_in_python/)
 - [Open source tooling for data engineers](https://www.reddit.com/r/Python/comments/sjw3nc/open_source_tooling_for_data_engineers/)
-- [Confused by Reddit Rules](https://www.reddit.com/r/Python/comments/sjuq9f/confused_by_reddit_rules/)
 - [Making a Wordle Clone Discord Bot with Python](https://www.reddit.com/r/Python/comments/sjr593/making_a_wordle_clone_discord_bot_with_python/)
-- [Wrote a little Wordle helper 😅](https://www.reddit.com/r/Python/comments/sjpvll/wrote_a_little_wordle_helper/)
-- [How Python powers our German infectious disease simulation service](https://www.reddit.com/r/Python/comments/sjp4lp/how_python_powers_our_german_infectious_disease/)
 <!-- BLOG-POST-LIST:END -->
