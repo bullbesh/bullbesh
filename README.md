@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub - pysemtec/semantic-python-overview: &lpar;subjective&rpar; overview of projects which are related both to python and semantic technologies &lpar;RDF, OWL, Reasoning, ...&rpar;](https://www.reddit.com/r/Python/comments/sjed4p/github_pysemtecsemanticpythonoverview_subjective/)
-- [Doubt](https://www.reddit.com/r/Python/comments/sjdkle/doubt/)
-- [What do you recommend?](https://www.reddit.com/r/Python/comments/sjdjor/what_do_you_recommend/)
-- [As a Python user in training, what are some useful Android apps to use on my downtime for keeping my mind sharp on Python?](https://www.reddit.com/r/Python/comments/sjcvdm/as_a_python_user_in_training_what_are_some_useful/)
-- [Bulls and Cows: or if Wordle was numeric and CLIugly](https://www.reddit.com/r/Python/comments/sjc5ec/bulls_and_cows_or_if_wordle_was_numeric_and/)
+- [Add Pandas Dataframe to Google Sheet.](https://www.reddit.com/r/Python/comments/sjgl7w/add_pandas_dataframe_to_google_sheet/)
+- [Quart-Schema 0.11.0 released!](https://www.reddit.com/r/Python/comments/sjgk0s/quartschema_0110_released/)
+- [Regaining Momentum](https://www.reddit.com/r/Python/comments/sjggwr/regaining_momentum/)
+- [How I completed the Hacktoberfest 2021 challenge with a profiler](https://www.reddit.com/r/Python/comments/sjg7et/how_i_completed_the_hacktoberfest_2021_challenge/)
+- [What resources can Non-Python programmers use to get started in Python?](https://www.reddit.com/r/Python/comments/sjg3sx/what_resources_can_nonpython_programmers_use_to/)
 <!-- BLOG-POST-LIST:END -->
