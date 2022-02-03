@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python and Features of Python - Blog Slite](https://www.reddit.com/r/Python/comments/sjbxwr/python_and_features_of_python_blog_slite/)
 - [How do I retrieve data from Salesforce using Python?](https://www.reddit.com/r/Python/comments/sj9zip/how_do_i_retrieve_data_from_salesforce_using/)
 - [VSCode extension for automatically fixing bugs in Python](https://www.reddit.com/r/Python/comments/sj7dvy/vscode_extension_for_automatically_fixing_bugs_in/)
 - [Is converting a string to class a bad practice?](https://www.reddit.com/r/Python/comments/sj7537/is_converting_a_string_to_class_a_bad_practice/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/sj44du/thursday_daily_thread_python_careers_courses_and/)
-- [Snake Game Q Learning Agent](https://www.reddit.com/r/Python/comments/sj2g9i/snake_game_q_learning_agent/)
 <!-- BLOG-POST-LIST:END -->
