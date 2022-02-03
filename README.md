@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spotify Visualiser Built Using Flask](https://www.reddit.com/r/Python/comments/sjohzc/spotify_visualiser_built_using_flask/)
+- [Aesthetic Menu Bar For Windows Made Using Tkinter](https://www.reddit.com/r/Python/comments/sjnvt0/aesthetic_menu_bar_for_windows_made_using_tkinter/)
+- [Coding a google snake bot](https://www.reddit.com/r/Python/comments/sjnlqz/coding_a_google_snake_bot/)
 - [New Spotify songs in playlist -&gt; YouTube Playlist](https://www.reddit.com/r/Python/comments/sjmy22/new_spotify_songs_in_playlist_youtube_playlist/)
 - [Python modules and packages with strange names](https://www.reddit.com/r/Python/comments/sjlyr1/python_modules_and_packages_with_strange_names/)
-- [Another way of working with temporary files](https://www.reddit.com/r/Python/comments/sjl5hk/another_way_of_working_with_temporary_files/)
-- [How to make analyzer of new COVID deaths in Python](https://www.reddit.com/r/Python/comments/sjl4f9/how_to_make_analyzer_of_new_covid_deaths_in_python/)
-- [Great music to listen to while programming:&rpar; My favorite](https://www.reddit.com/r/Python/comments/sjkdw7/great_music_to_listen_to_while_programming_my/)
 <!-- BLOG-POST-LIST:END -->
