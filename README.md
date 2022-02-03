@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/sj44du/thursday_daily_thread_python_careers_courses_and/)
 - [Snake Game Q Learning Agent](https://www.reddit.com/r/Python/comments/sj2g9i/snake_game_q_learning_agent/)
-- [How do I visualize my progress?](https://www.reddit.com/r/Python/comments/sj26sd/how_do_i_visualize_my_progress/)
-- [Question about LU method inside SCIPY](https://www.reddit.com/r/Python/comments/sj1jwi/question_about_lu_method_inside_scipy/)
 - [Spy on Python down to the Linux kernel level](https://www.reddit.com/r/Python/comments/sj0ejk/spy_on_python_down_to_the_linux_kernel_level/)
 - [Simple threaded IP-Scanner](https://www.reddit.com/r/Python/comments/sj0e2s/simple_threaded_ipscanner/)
+- [How to bust Python performance issues](https://www.reddit.com/r/Python/comments/sj0dpa/how_to_bust_python_performance_issues/)
 <!-- BLOG-POST-LIST:END -->
