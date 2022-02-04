@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can I create python projects without the help of tutorials?](https://www.reddit.com/r/Python/comments/skpvze/can_i_create_python_projects_without_the_help_of/)
+- [Space Science with Python - ML Project Step 2](https://www.reddit.com/r/Python/comments/skrg6v/space_science_with_python_ml_project_step_2/)
 - [Inbuilt Dictionary methods in python | Python Data Structures | Detailed Explanation using Animation &lpar;Manim Library&rpar;](https://www.reddit.com/r/Python/comments/skldbx/inbuilt_dictionary_methods_in_python_python_data/)
 - [Classical ciphers in Python -- a code along to Simon Singh&#39;s &quot;The Code Book&quot;](https://www.reddit.com/r/Python/comments/skkcxt/classical_ciphers_in_python_a_code_along_to_simon/)
 - [Scrape Images from Pinterest With Python](https://www.reddit.com/r/Python/comments/skjsui/scrape_images_from_pinterest_with_python/)
