@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Code Help](https://www.reddit.com/r/Python/comments/ske86n/python_code_help/)
-- [print&lpar;&quot;Hello World&quot;&rpar;](https://www.reddit.com/r/Python/comments/ske3m4/printhello_world/)
+- [Python backup docker volumes to S3 Buckets and restore them](https://www.reddit.com/r/Python/comments/skff5j/python_backup_docker_volumes_to_s3_buckets_and/)
+- [Hey everyone! Here is a service I created with Python that Shortens URLs. The special thing with it is that you can monitor the stats of your link &lpar;how many people clicked&rpar;. Feel free to give it a shot!](https://www.reddit.com/r/Python/comments/skeuas/hey_everyone_here_is_a_service_i_created_with/)
 - [CaptchaCracker - Open Source for Python](https://www.reddit.com/r/Python/comments/skdq9j/captchacracker_open_source_for_python/)
 - [Should we learn Python as a fun quest?](https://www.reddit.com/r/Python/comments/skbvwv/should_we_learn_python_as_a_fun_quest/)
-- [Try explaining how to print hello world in the most complicated way possible](https://www.reddit.com/r/Python/comments/skbgpj/try_explaining_how_to_print_hello_world_in_the/)
+- [Starlite v1.0.0: the little API framework that can](https://www.reddit.com/r/Python/comments/skar0n/starlite_v100_the_little_api_framework_that_can/)
 <!-- BLOG-POST-LIST:END -->
