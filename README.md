@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why the F does 6.345 round to 6.34](https://www.reddit.com/r/Python/comments/sk4hjr/why_the_f_does_6345_round_to_634/)
 - [List of 25519 Cities!](https://www.reddit.com/r/Python/comments/sk2ydo/list_of_25519_cities/)
-- [Python TBB Documentation](https://www.reddit.com/r/Python/comments/sk2srh/python_tbb_documentation/)
-- [Finished a computational physics course at university, got A+, focused on numpy. What are some resources where I can continue?](https://www.reddit.com/r/Python/comments/sk2n6m/finished_a_computational_physics_course_at/)
 - [Building a sketch - image transformer using OpenCV in Python](https://www.reddit.com/r/Python/comments/sk2d0g/building_a_sketch_image_transformer_using_opencv/)
+- [I scraped some Super Bowl data with Python and Pandas and made a video about it](https://www.reddit.com/r/Python/comments/sk299k/i_scraped_some_super_bowl_data_with_python_and/)
+- [Python in Visual Studio Code – February 2022 Release - Python](https://www.reddit.com/r/Python/comments/sk257r/python_in_visual_studio_code_february_2022/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/sjyiip/friday_daily_thread_free_chat_friday_daily_thread/)
 <!-- BLOG-POST-LIST:END -->
