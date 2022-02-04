@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finished a computational physics course at university, got A+, focused on numpy. What are some resources where I can continue?](https://www.reddit.com/r/Python/comments/sk2n6m/finished_a_computational_physics_course_at/)
+- [Building a sketch - image transformer using OpenCV in Python](https://www.reddit.com/r/Python/comments/sk2d0g/building_a_sketch_image_transformer_using_opencv/)
+- [I scraped some Super Bowl data with Python and Pandas and made a video about it](https://www.reddit.com/r/Python/comments/sk299k/i_scraped_some_super_bowl_data_with_python_and/)
+- [Python in Visual Studio Code – February 2022 Release - Python](https://www.reddit.com/r/Python/comments/sk257r/python_in_visual_studio_code_february_2022/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/sjyiip/friday_daily_thread_free_chat_friday_daily_thread/)
-- [Part 2: How to Connect a Database to Python RESTful APIs with FastAPI](https://www.reddit.com/r/Python/comments/sjwpm9/part_2_how_to_connect_a_database_to_python/)
-- [Hacking the Python syntax](https://www.reddit.com/r/Python/comments/sjwolz/hacking_the_python_syntax/)
-- [Programming language written in python](https://www.reddit.com/r/Python/comments/sjweou/programming_language_written_in_python/)
-- [Open source tooling for data engineers](https://www.reddit.com/r/Python/comments/sjw3nc/open_source_tooling_for_data_engineers/)
 <!-- BLOG-POST-LIST:END -->
