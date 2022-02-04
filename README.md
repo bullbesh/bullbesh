@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Code Help](https://www.reddit.com/r/Python/comments/ske86n/python_code_help/)
+- [print&lpar;&quot;Hello World&quot;&rpar;](https://www.reddit.com/r/Python/comments/ske3m4/printhello_world/)
+- [CaptchaCracker - Open Source for Python](https://www.reddit.com/r/Python/comments/skdq9j/captchacracker_open_source_for_python/)
 - [Should we learn Python as a fun quest?](https://www.reddit.com/r/Python/comments/skbvwv/should_we_learn_python_as_a_fun_quest/)
 - [Try explaining how to print hello world in the most complicated way possible](https://www.reddit.com/r/Python/comments/skbgpj/try_explaining_how_to_print_hello_world_in_the/)
-- [Starlite v1.0.0: the little API framework that can](https://www.reddit.com/r/Python/comments/skar0n/starlite_v100_the_little_api_framework_that_can/)
-- [Python and finance.](https://www.reddit.com/r/Python/comments/skagex/python_and_finance/)
-- [I made this CLI tool to automate my daily life](https://www.reddit.com/r/Python/comments/sk9koo/i_made_this_cli_tool_to_automate_my_daily_life/)
 <!-- BLOG-POST-LIST:END -->
