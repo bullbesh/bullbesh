@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrape Images from Pinterest With Python](https://www.reddit.com/r/Python/comments/skjsui/scrape_images_from_pinterest_with_python/)
+- [Python applications for banking recommendations](https://www.reddit.com/r/Python/comments/skjda1/python_applications_for_banking_recommendations/)
 - [Made a simple python string sarcastic converter. &lpar;mAkEs tExT LoOk lIkE ThIs&rpar;](https://www.reddit.com/r/Python/comments/skihy3/made_a_simple_python_string_sarcastic_converter/)
 - [Send HTML Emails with Python](https://www.reddit.com/r/Python/comments/skhm2u/send_html_emails_with_python/)
 - [Which are some of the career paths with the programming language python?](https://www.reddit.com/r/Python/comments/skhd4x/which_are_some_of_the_career_paths_with_the/)
-- [FOSDEM 2022](https://www.reddit.com/r/Python/comments/skh3u8/fosdem_2022/)
-- [Visions – User defined data type systems](https://www.reddit.com/r/Python/comments/skgyg4/visions_user_defined_data_type_systems/)
 <!-- BLOG-POST-LIST:END -->
