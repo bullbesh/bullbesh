@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Inbuilt Dictionary methods in python | Python Data Structures | Detailed Explanation using Animation &lpar;Manim Library&rpar;](https://www.reddit.com/r/Python/comments/skldbx/inbuilt_dictionary_methods_in_python_python_data/)
+- [Classical ciphers in Python -- a code along to Simon Singh&#39;s &quot;The Code Book&quot;](https://www.reddit.com/r/Python/comments/skkcxt/classical_ciphers_in_python_a_code_along_to_simon/)
 - [Scrape Images from Pinterest With Python](https://www.reddit.com/r/Python/comments/skjsui/scrape_images_from_pinterest_with_python/)
 - [Python applications for banking recommendations](https://www.reddit.com/r/Python/comments/skjda1/python_applications_for_banking_recommendations/)
 - [Made a simple python string sarcastic converter. &lpar;mAkEs tExT LoOk lIkE ThIs&rpar;](https://www.reddit.com/r/Python/comments/skihy3/made_a_simple_python_string_sarcastic_converter/)
-- [Send HTML Emails with Python](https://www.reddit.com/r/Python/comments/skhm2u/send_html_emails_with_python/)
-- [Which are some of the career paths with the programming language python?](https://www.reddit.com/r/Python/comments/skhd4x/which_are_some_of_the_career_paths_with_the/)
 <!-- BLOG-POST-LIST:END -->
