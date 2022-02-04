@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python backup docker volumes to S3 Buckets and restore them](https://www.reddit.com/r/Python/comments/skff5j/python_backup_docker_volumes_to_s3_buckets_and/)
-- [Hey everyone! Here is a service I created with Python that Shortens URLs. The special thing with it is that you can monitor the stats of your link &lpar;how many people clicked&rpar;. Feel free to give it a shot!](https://www.reddit.com/r/Python/comments/skeuas/hey_everyone_here_is_a_service_i_created_with/)
-- [CaptchaCracker - Open Source for Python](https://www.reddit.com/r/Python/comments/skdq9j/captchacracker_open_source_for_python/)
-- [Should we learn Python as a fun quest?](https://www.reddit.com/r/Python/comments/skbvwv/should_we_learn_python_as_a_fun_quest/)
-- [Starlite v1.0.0: the little API framework that can](https://www.reddit.com/r/Python/comments/skar0n/starlite_v100_the_little_api_framework_that_can/)
+- [Which are some of the career paths with the programming language python?](https://www.reddit.com/r/Python/comments/skhd4x/which_are_some_of_the_career_paths_with_the/)
+- [FOSDEM 2022](https://www.reddit.com/r/Python/comments/skh3u8/fosdem_2022/)
+- [Visions – User defined data type systems](https://www.reddit.com/r/Python/comments/skgyg4/visions_user_defined_data_type_systems/)
+- [Danio - New ORM for asycio world！](https://www.reddit.com/r/Python/comments/skgnff/danio_new_orm_for_asycio_world/)
+- [GitHub - Netflix-Skunkworks/policyuniverse: Parse and Process AWS IAM Policies, Statements, ARNs, and wildcards.](https://www.reddit.com/r/Python/comments/skg9rb/github_netflixskunkworkspolicyuniverse_parse_and/)
 <!-- BLOG-POST-LIST:END -->
