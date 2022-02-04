@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hangman Game in Python with source code | Python Project](https://www.reddit.com/r/Python/comments/sk80jn/hangman_game_in_python_with_source_code_python/)
+- [CLI tool to perform set operations on files considering them as a set of lines.](https://www.reddit.com/r/Python/comments/sk7z3g/cli_tool_to_perform_set_operations_on_files/)
+- [Wondering if Developers will be interested in developing api where the get paid by usage &lpar; they set the price &rpar;](https://www.reddit.com/r/Python/comments/sk7yz4/wondering_if_developers_will_be_interested_in/)
+- [Control robot by mind &lpar;blinking&rpar; via RaspberryPi and PiEEG](https://www.reddit.com/r/Python/comments/sk7vkz/control_robot_by_mind_blinking_via_raspberrypi/)
 - [List of 25519 Cities!](https://www.reddit.com/r/Python/comments/sk2ydo/list_of_25519_cities/)
-- [Building a sketch - image transformer using OpenCV in Python](https://www.reddit.com/r/Python/comments/sk2d0g/building_a_sketch_image_transformer_using_opencv/)
-- [I scraped some Super Bowl data with Python and Pandas and made a video about it](https://www.reddit.com/r/Python/comments/sk299k/i_scraped_some_super_bowl_data_with_python_and/)
-- [Python in Visual Studio Code – February 2022 Release - Python](https://www.reddit.com/r/Python/comments/sk257r/python_in_visual_studio_code_february_2022/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/sjyiip/friday_daily_thread_free_chat_friday_daily_thread/)
 <!-- BLOG-POST-LIST:END -->
