@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Added 16 Resources to Big Book of Python](https://www.reddit.com/r/Python/comments/skxry1/added_16_resources_to_big_book_of_python/)
+- [Music Player](https://www.reddit.com/r/Python/comments/skxbkx/music_player/)
 - [I cannot be held responsible for the things I did when I did not know how to format my code...](https://www.reddit.com/r/Python/comments/skvsvv/i_cannot_be_held_responsible_for_the_things_i_did/)
 - [Discord Bot Tutorial](https://www.reddit.com/r/Python/comments/skt4fn/discord_bot_tutorial/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/sksh6e/saturday_daily_thread_resource_request_and/)
-- [Space Science with Python - ML Project Step 2](https://www.reddit.com/r/Python/comments/skrg6v/space_science_with_python_ml_project_step_2/)
-- [Inbuilt Dictionary methods in python | Python Data Structures | Detailed Explanation using Animation &lpar;Manim Library&rpar;](https://www.reddit.com/r/Python/comments/skldbx/inbuilt_dictionary_methods_in_python_python_data/)
 <!-- BLOG-POST-LIST:END -->
