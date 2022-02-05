@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a Raspberry Pi Stock Checker](https://www.reddit.com/r/Python/comments/sli6z5/i_made_a_raspberry_pi_stock_checker/)
 - [Can anyone recommend good resources to learn and implement mobile emulating API while using a desktop program?](https://www.reddit.com/r/Python/comments/slgmrc/can_anyone_recommend_good_resources_to_learn_and/)
 - [What is the most confusing part of Python for PHP developers?](https://www.reddit.com/r/Python/comments/slfbdh/what_is_the_most_confusing_part_of_python_for_php/)
 - [What are the first programs you wrote after/while learning python, professionally?](https://www.reddit.com/r/Python/comments/sleqef/what_are_the_first_programs_you_wrote_afterwhile/)
 - [Flask vs Fastapi on AWS Lambda?](https://www.reddit.com/r/Python/comments/slcn9k/flask_vs_fastapi_on_aws_lambda/)
-- [EXPENSE-TRACKER -&gt; An application to keep your expenses organized](https://www.reddit.com/r/Python/comments/slbhbi/expensetracker_an_application_to_keep_your/)
 <!-- BLOG-POST-LIST:END -->
