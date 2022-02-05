@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do I create a Instagram bot for auto following and liking ?](https://www.reddit.com/r/Python/comments/sktc52/how_do_i_create_a_instagram_bot_for_auto/)
+- [Discord Bot Tutorial](https://www.reddit.com/r/Python/comments/skt4fn/discord_bot_tutorial/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/sksh6e/saturday_daily_thread_resource_request_and/)
 - [Space Science with Python - ML Project Step 2](https://www.reddit.com/r/Python/comments/skrg6v/space_science_with_python_ml_project_step_2/)
 - [Inbuilt Dictionary methods in python | Python Data Structures | Detailed Explanation using Animation &lpar;Manim Library&rpar;](https://www.reddit.com/r/Python/comments/skldbx/inbuilt_dictionary_methods_in_python_python_data/)
-- [Classical ciphers in Python -- a code along to Simon Singh&#39;s &quot;The Code Book&quot;](https://www.reddit.com/r/Python/comments/skkcxt/classical_ciphers_in_python_a_code_along_to_simon/)
-- [Scrape Images from Pinterest With Python](https://www.reddit.com/r/Python/comments/skjsui/scrape_images_from_pinterest_with_python/)
-- [Python applications for banking recommendations](https://www.reddit.com/r/Python/comments/skjda1/python_applications_for_banking_recommendations/)
 <!-- BLOG-POST-LIST:END -->
