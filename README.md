@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flask vs Fastapi on AWS Lambda?](https://www.reddit.com/r/Python/comments/slcn9k/flask_vs_fastapi_on_aws_lambda/)
 - [Hello. Zero programming knowledge lookin to learn and get a certificate.](https://www.reddit.com/r/Python/comments/slbr2c/hello_zero_programming_knowledge_lookin_to_learn/)
 - [EXPENSE-TRACKER -&gt; An application to keep your expenses organized](https://www.reddit.com/r/Python/comments/slbhbi/expensetracker_an_application_to_keep_your/)
 - [The Best Machine Learning Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/slbfqu/the_best_machine_learning_courses_on_udemy_2022/)
 - [Space Science with Python - Machine Learning project part 2](https://www.reddit.com/r/Python/comments/slb379/space_science_with_python_machine_learning/)
-- [Face Recognition](https://www.reddit.com/r/Python/comments/slauoq/face_recognition/)
 <!-- BLOG-POST-LIST:END -->
