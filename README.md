@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Namespaces and Scope in Python](https://www.reddit.com/r/Python/comments/skzmzi/namespaces_and_scope_in_python/)
 - [Python and Features of Python](https://www.reddit.com/r/Python/comments/skyrma/python_and_features_of_python/)
 - [Added 16 Resources to Big Book of Python](https://www.reddit.com/r/Python/comments/skxry1/added_16_resources_to_big_book_of_python/)
 - [Music Player](https://www.reddit.com/r/Python/comments/skxbkx/music_player/)
 - [I cannot be held responsible for the things I did when I did not know how to format my code...](https://www.reddit.com/r/Python/comments/skvsvv/i_cannot_be_held_responsible_for_the_things_i_did/)
-- [Discord Bot Tutorial](https://www.reddit.com/r/Python/comments/skt4fn/discord_bot_tutorial/)
 <!-- BLOG-POST-LIST:END -->
