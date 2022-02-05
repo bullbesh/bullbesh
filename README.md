@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My fist &quot;real&quot; project.](https://www.reddit.com/r/Python/comments/sl9vtk/my_fist_real_project/)
-- [can we implement pygame project like the animation on our website??](https://www.reddit.com/r/Python/comments/sl9d4z/can_we_implement_pygame_project_like_the/)
-- [Using Python&#39;s pip to Manage Your Projects&#39; Dependencies – Real Python](https://www.reddit.com/r/Python/comments/sl936e/using_pythons_pip_to_manage_your_projects/)
-- [Playlist on Learning Masonite 4 - Rails/Laravel style framework for Python](https://www.reddit.com/r/Python/comments/sl8y3a/playlist_on_learning_masonite_4_railslaravel/)
-- [I want to learn OCR](https://www.reddit.com/r/Python/comments/sl6wbk/i_want_to_learn_ocr/)
+- [Hello. Zero programming knowledge lookin to learn and get a certificate.](https://www.reddit.com/r/Python/comments/slbr2c/hello_zero_programming_knowledge_lookin_to_learn/)
+- [EXPENSE-TRACKER -&gt; An application to keep your expenses organized](https://www.reddit.com/r/Python/comments/slbhbi/expensetracker_an_application_to_keep_your/)
+- [The Best Machine Learning Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/slbfqu/the_best_machine_learning_courses_on_udemy_2022/)
+- [Space Science with Python - Machine Learning project part 2](https://www.reddit.com/r/Python/comments/slb379/space_science_with_python_machine_learning/)
+- [Face Recognition](https://www.reddit.com/r/Python/comments/slauoq/face_recognition/)
 <!-- BLOG-POST-LIST:END -->
