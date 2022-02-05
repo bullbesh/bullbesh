@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Python&#39;s pip to Manage Your Projects&#39; Dependencies – Real Python](https://www.reddit.com/r/Python/comments/sl936e/using_pythons_pip_to_manage_your_projects/)
+- [Playlist on Learning Masonite 4 - Rails/Laravel style framework for Python](https://www.reddit.com/r/Python/comments/sl8y3a/playlist_on_learning_masonite_4_railslaravel/)
 - [I want to learn OCR](https://www.reddit.com/r/Python/comments/sl6wbk/i_want_to_learn_ocr/)
 - [Django or Flask and why?](https://www.reddit.com/r/Python/comments/sl6jne/django_or_flask_and_why/)
 - [Using a bot for instagram?](https://www.reddit.com/r/Python/comments/sl6aq1/using_a_bot_for_instagram/)
-- [txtai 4.1 released - semantic search workflows with scheduling](https://www.reddit.com/r/Python/comments/sl5skt/txtai_41_released_semantic_search_workflows_with/)
-- [Everything Gets a Package: My Python Data Science Setup | Ethan Rosenthal](https://www.reddit.com/r/Python/comments/sl5e7h/everything_gets_a_package_my_python_data_science/)
 <!-- BLOG-POST-LIST:END -->
