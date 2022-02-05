@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django or Flask and why?](https://www.reddit.com/r/Python/comments/sl6jne/django_or_flask_and_why/)
+- [Using a bot for instagram?](https://www.reddit.com/r/Python/comments/sl6aq1/using_a_bot_for_instagram/)
+- [txtai 4.1 released - semantic search workflows with scheduling](https://www.reddit.com/r/Python/comments/sl5skt/txtai_41_released_semantic_search_workflows_with/)
 - [Everything Gets a Package: My Python Data Science Setup | Ethan Rosenthal](https://www.reddit.com/r/Python/comments/sl5e7h/everything_gets_a_package_my_python_data_science/)
 - [pls is a better ls for developers](https://www.reddit.com/r/Python/comments/sl4gve/pls_is_a_better_ls_for_developers/)
-- [Todo List With Python Django &amp; Mongo DB &lpar;Django Set-Up &amp; File Structure ...](https://www.reddit.com/r/Python/comments/sl2z16/todo_list_with_python_django_mongo_db_django/)
-- [Created a simple job simulator in python with just random &amp; time module](https://www.reddit.com/r/Python/comments/sl07ln/created_a_simple_job_simulator_in_python_with/)
-- [Namespaces and Scope in Python](https://www.reddit.com/r/Python/comments/skzmzi/namespaces_and_scope_in_python/)
 <!-- BLOG-POST-LIST:END -->
