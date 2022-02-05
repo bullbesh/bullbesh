@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the most confusing part of Python for PHP developers?](https://www.reddit.com/r/Python/comments/slfbdh/what_is_the_most_confusing_part_of_python_for_php/)
+- [What are the first programs you wrote after/while learning python, professionally?](https://www.reddit.com/r/Python/comments/sleqef/what_are_the_first_programs_you_wrote_afterwhile/)
 - [Flask vs Fastapi on AWS Lambda?](https://www.reddit.com/r/Python/comments/slcn9k/flask_vs_fastapi_on_aws_lambda/)
 - [EXPENSE-TRACKER -&gt; An application to keep your expenses organized](https://www.reddit.com/r/Python/comments/slbhbi/expensetracker_an_application_to_keep_your/)
-- [The Best Machine Learning Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/slbfqu/the_best_machine_learning_courses_on_udemy_2022/)
 - [Space Science with Python - Machine Learning project part 2](https://www.reddit.com/r/Python/comments/slb379/space_science_with_python_machine_learning/)
-- [My fist &quot;real&quot; project.](https://www.reddit.com/r/Python/comments/sl9vtk/my_fist_real_project/)
 <!-- BLOG-POST-LIST:END -->
