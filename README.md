@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My fist &quot;real&quot; project.](https://www.reddit.com/r/Python/comments/sl9vtk/my_fist_real_project/)
+- [can we implement pygame project like the animation on our website??](https://www.reddit.com/r/Python/comments/sl9d4z/can_we_implement_pygame_project_like_the/)
 - [Using Python&#39;s pip to Manage Your Projects&#39; Dependencies – Real Python](https://www.reddit.com/r/Python/comments/sl936e/using_pythons_pip_to_manage_your_projects/)
 - [Playlist on Learning Masonite 4 - Rails/Laravel style framework for Python](https://www.reddit.com/r/Python/comments/sl8y3a/playlist_on_learning_masonite_4_railslaravel/)
 - [I want to learn OCR](https://www.reddit.com/r/Python/comments/sl6wbk/i_want_to_learn_ocr/)
-- [Django or Flask and why?](https://www.reddit.com/r/Python/comments/sl6jne/django_or_flask_and_why/)
-- [Using a bot for instagram?](https://www.reddit.com/r/Python/comments/sl6aq1/using_a_bot_for_instagram/)
 <!-- BLOG-POST-LIST:END -->
