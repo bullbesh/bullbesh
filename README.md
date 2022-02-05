@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Created a simple job simulator in python with just random &amp; time module](https://www.reddit.com/r/Python/comments/sl07ln/created_a_simple_job_simulator_in_python_with/)
 - [Namespaces and Scope in Python](https://www.reddit.com/r/Python/comments/skzmzi/namespaces_and_scope_in_python/)
 - [Python and Features of Python](https://www.reddit.com/r/Python/comments/skyrma/python_and_features_of_python/)
 - [Added 16 Resources to Big Book of Python](https://www.reddit.com/r/Python/comments/skxry1/added_16_resources_to_big_book_of_python/)
 - [Music Player](https://www.reddit.com/r/Python/comments/skxbkx/music_player/)
-- [I cannot be held responsible for the things I did when I did not know how to format my code...](https://www.reddit.com/r/Python/comments/skvsvv/i_cannot_be_held_responsible_for_the_things_i_did/)
 <!-- BLOG-POST-LIST:END -->
