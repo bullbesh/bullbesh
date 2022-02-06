@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [So I made a very simple program that randomly generates a string of letters and prints it if it is an actual word, and after I put in 8 characters, the first word which appeared was Octavius. This is so rare.](https://www.reddit.com/r/Python/comments/sm1aru/so_i_made_a_very_simple_program_that_randomly/)
+- [Python in python](https://www.reddit.com/r/Python/comments/sm1195/python_in_python/)
 - [trampoline without using exception](https://www.reddit.com/r/Python/comments/slxwej/trampoline_without_using_exception/)
 - [Can you fetch YouTube video subtitles with Python? Sure you can! Here I made an article about it. Hope it helps!](https://www.reddit.com/r/Python/comments/slxt4n/can_you_fetch_youtube_video_subtitles_with_python/)
 - [How to Plot Interactive Real-Time Crypto Charts❕❔✨](https://www.reddit.com/r/Python/comments/slxopj/how_to_plot_interactive_realtime_crypto_charts/)
-- [How to connect your flask application to AWS RDS with a CI/CD pipeline](https://www.reddit.com/r/Python/comments/slxnk5/how_to_connect_your_flask_application_to_aws_rds/)
-- [Minos – A Python microservices development framework](https://www.reddit.com/r/Python/comments/slx8xv/minos_a_python_microservices_development_framework/)
 <!-- BLOG-POST-LIST:END -->
