@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Project Ideas](https://www.reddit.com/r/Python/comments/slynwa/project_ideas/)
 - [trampoline without using exception](https://www.reddit.com/r/Python/comments/slxwej/trampoline_without_using_exception/)
 - [Can you fetch YouTube video subtitles with Python? Sure you can! Here I made an article about it. Hope it helps!](https://www.reddit.com/r/Python/comments/slxt4n/can_you_fetch_youtube_video_subtitles_with_python/)
 - [How to Plot Interactive Real-Time Crypto Charts❕❔✨](https://www.reddit.com/r/Python/comments/slxopj/how_to_plot_interactive_realtime_crypto_charts/)
 - [How to connect your flask application to AWS RDS with a CI/CD pipeline](https://www.reddit.com/r/Python/comments/slxnk5/how_to_connect_your_flask_application_to_aws_rds/)
+- [Minos – A Python microservices development framework](https://www.reddit.com/r/Python/comments/slx8xv/minos_a_python_microservices_development_framework/)
 <!-- BLOG-POST-LIST:END -->
