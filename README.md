@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flask vs Streamlit to convert a desktop app to a web app](https://www.reddit.com/r/Python/comments/slqkcs/flask_vs_streamlit_to_convert_a_desktop_app_to_a/)
+- [Angela Yu python course](https://www.reddit.com/r/Python/comments/slqel8/angela_yu_python_course/)
+- [/Python Subdirect Statistics](https://www.reddit.com/r/Python/comments/slq43e/python_subdirect_statistics/)
 - [How can I check and see when an excel add in finishes refreshing?](https://www.reddit.com/r/Python/comments/slpdca/how_can_i_check_and_see_when_an_excel_add_in/)
 - [is there a CLear Screen?](https://www.reddit.com/r/Python/comments/sln70e/is_there_a_clear_screen/)
-- [I visualized the twitter communities of the top 600 cryptocurrencies](https://www.reddit.com/r/Python/comments/slla2n/i_visualized_the_twitter_communities_of_the_top/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/slklkp/sunday_daily_thread_whats_everyone_working_on/)
-- [GitHub - Clivern/ghbot: 🤖 Github Follow Bot to Get More Followers.](https://www.reddit.com/r/Python/comments/sljflt/github_clivernghbot_github_follow_bot_to_get_more/)
 <!-- BLOG-POST-LIST:END -->
