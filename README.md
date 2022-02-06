@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project Ideas](https://www.reddit.com/r/Python/comments/slynwa/project_ideas/)
+- [trampoline without using exception](https://www.reddit.com/r/Python/comments/slxwej/trampoline_without_using_exception/)
+- [Can you fetch YouTube video subtitles with Python? Sure you can! Here I made an article about it. Hope it helps!](https://www.reddit.com/r/Python/comments/slxt4n/can_you_fetch_youtube_video_subtitles_with_python/)
+- [How to Plot Interactive Real-Time Crypto Charts❕❔✨](https://www.reddit.com/r/Python/comments/slxopj/how_to_plot_interactive_realtime_crypto_charts/)
 - [How to connect your flask application to AWS RDS with a CI/CD pipeline](https://www.reddit.com/r/Python/comments/slxnk5/how_to_connect_your_flask_application_to_aws_rds/)
-- [Minos – A Python microservices development framework](https://www.reddit.com/r/Python/comments/slx8xv/minos_a_python_microservices_development_framework/)
-- [[5 Ways] To Generate Dummy Data for pandas](https://www.reddit.com/r/Python/comments/slx3qm/5_ways_to_generate_dummy_data_for_pandas/)
-- [We live in beautiful times where you can learn Machine Learning &lpar;&quot;AI&quot;&rpar; and become an expert for free. Here are many curated resources in a complete guide for everyone &lpar;even with no tech background&rpar;](https://www.reddit.com/r/Python/comments/slx2us/we_live_in_beautiful_times_where_you_can_learn/)
-- [Leetcode experience](https://www.reddit.com/r/Python/comments/slwk2w/leetcode_experience/)
 <!-- BLOG-POST-LIST:END -->
