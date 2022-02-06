@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python on Windows with Emacs elpy](https://www.reddit.com/r/Python/comments/slvzya/python_on_windows_with_emacs_elpy/)
 - [Library written in Python that wraps Halo Infinite API](https://www.reddit.com/r/Python/comments/slvirm/library_written_in_python_that_wraps_halo/)
 - [Program to create emoticons using random combinations of ASCII characters as eyes and mouth](https://www.reddit.com/r/Python/comments/slu9d3/program_to_create_emoticons_using_random/)
 - [Open Source solution to scan Python code for security issues &lpar;also other tech stacks&rpar;](https://www.reddit.com/r/Python/comments/sltvjl/open_source_solution_to_scan_python_code_for/)
 - [Is there a python script to bulk register one email to several websites?](https://www.reddit.com/r/Python/comments/slszfi/is_there_a_python_script_to_bulk_register_one/)
-- [How to Write Clean Code &lpar;in Python&rpar; With SOLID Principles | Principle #4](https://www.reddit.com/r/Python/comments/slrmxc/how_to_write_clean_code_in_python_with_solid/)
 <!-- BLOG-POST-LIST:END -->
