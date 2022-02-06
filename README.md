@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Program to create emoticons using random combinations of ASCII characters as eyes and mouth](https://www.reddit.com/r/Python/comments/slu9d3/program_to_create_emoticons_using_random/)
+- [Open Source solution to scan Python code for security issues &lpar;also other tech stacks&rpar;](https://www.reddit.com/r/Python/comments/sltvjl/open_source_solution_to_scan_python_code_for/)
 - [Is there a python script to bulk register one email to several websites?](https://www.reddit.com/r/Python/comments/slszfi/is_there_a_python_script_to_bulk_register_one/)
 - [How to Write Clean Code &lpar;in Python&rpar; With SOLID Principles | Principle #4](https://www.reddit.com/r/Python/comments/slrmxc/how_to_write_clean_code_in_python_with_solid/)
 - [What have you recently automated at work using python??](https://www.reddit.com/r/Python/comments/slqxbt/what_have_you_recently_automated_at_work_using/)
-- [Flask vs Streamlit to convert a desktop app to a web app](https://www.reddit.com/r/Python/comments/slqkcs/flask_vs_streamlit_to_convert_a_desktop_app_to_a/)
-- [Angela Yu python course](https://www.reddit.com/r/Python/comments/slqel8/angela_yu_python_course/)
 <!-- BLOG-POST-LIST:END -->
