@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python on Windows with Emacs elpy](https://www.reddit.com/r/Python/comments/slvzya/python_on_windows_with_emacs_elpy/)
-- [Library written in Python that wraps Halo Infinite API](https://www.reddit.com/r/Python/comments/slvirm/library_written_in_python_that_wraps_halo/)
-- [Program to create emoticons using random combinations of ASCII characters as eyes and mouth](https://www.reddit.com/r/Python/comments/slu9d3/program_to_create_emoticons_using_random/)
-- [Open Source solution to scan Python code for security issues &lpar;also other tech stacks&rpar;](https://www.reddit.com/r/Python/comments/sltvjl/open_source_solution_to_scan_python_code_for/)
-- [Is there a python script to bulk register one email to several websites?](https://www.reddit.com/r/Python/comments/slszfi/is_there_a_python_script_to_bulk_register_one/)
+- [How to connect your flask application to AWS RDS with a CI/CD pipeline](https://www.reddit.com/r/Python/comments/slxnk5/how_to_connect_your_flask_application_to_aws_rds/)
+- [Minos – A Python microservices development framework](https://www.reddit.com/r/Python/comments/slx8xv/minos_a_python_microservices_development_framework/)
+- [[5 Ways] To Generate Dummy Data for pandas](https://www.reddit.com/r/Python/comments/slx3qm/5_ways_to_generate_dummy_data_for_pandas/)
+- [We live in beautiful times where you can learn Machine Learning &lpar;&quot;AI&quot;&rpar; and become an expert for free. Here are many curated resources in a complete guide for everyone &lpar;even with no tech background&rpar;](https://www.reddit.com/r/Python/comments/slx2us/we_live_in_beautiful_times_where_you_can_learn/)
+- [Leetcode experience](https://www.reddit.com/r/Python/comments/slwk2w/leetcode_experience/)
 <!-- BLOG-POST-LIST:END -->
