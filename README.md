@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Write Clean Code &lpar;in Python&rpar; With SOLID Principles | Principle #4](https://www.reddit.com/r/Python/comments/slrmxc/how_to_write_clean_code_in_python_with_solid/)
+- [What have you recently automated at work using python??](https://www.reddit.com/r/Python/comments/slqxbt/what_have_you_recently_automated_at_work_using/)
 - [Flask vs Streamlit to convert a desktop app to a web app](https://www.reddit.com/r/Python/comments/slqkcs/flask_vs_streamlit_to_convert_a_desktop_app_to_a/)
 - [Angela Yu python course](https://www.reddit.com/r/Python/comments/slqel8/angela_yu_python_course/)
 - [/Python Subdirect Statistics](https://www.reddit.com/r/Python/comments/slq43e/python_subdirect_statistics/)
-- [How can I check and see when an excel add in finishes refreshing?](https://www.reddit.com/r/Python/comments/slpdca/how_can_i_check_and_see_when_an_excel_add_in/)
-- [is there a CLear Screen?](https://www.reddit.com/r/Python/comments/sln70e/is_there_a_clear_screen/)
 <!-- BLOG-POST-LIST:END -->
