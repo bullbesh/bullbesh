@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is a good IDE for Python?](https://www.reddit.com/r/Python/comments/sllygp/what_is_a_good_ide_for_python/)
+- [Can I code my own payload to do only a certain thing after installed on device? By python.](https://www.reddit.com/r/Python/comments/slnnqd/can_i_code_my_own_payload_to_do_only_a_certain/)
+- [is there a CLear Screen?](https://www.reddit.com/r/Python/comments/sln70e/is_there_a_clear_screen/)
 - [I visualized the twitter communities of the top 600 cryptocurrencies](https://www.reddit.com/r/Python/comments/slla2n/i_visualized_the_twitter_communities_of_the_top/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/slklkp/sunday_daily_thread_whats_everyone_working_on/)
 - [GitHub - Clivern/ghbot: 🤖 Github Follow Bot to Get More Followers.](https://www.reddit.com/r/Python/comments/sljflt/github_clivernghbot_github_follow_bot_to_get_more/)
-- [I made a Raspberry Pi Stock Checker](https://www.reddit.com/r/Python/comments/sli6z5/i_made_a_raspberry_pi_stock_checker/)
 <!-- BLOG-POST-LIST:END -->
