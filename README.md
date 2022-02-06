@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is a good IDE for Python?](https://www.reddit.com/r/Python/comments/sllygp/what_is_a_good_ide_for_python/)
+- [I visualized the twitter communities of the top 600 cryptocurrencies](https://www.reddit.com/r/Python/comments/slla2n/i_visualized_the_twitter_communities_of_the_top/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/slklkp/sunday_daily_thread_whats_everyone_working_on/)
 - [GitHub - Clivern/ghbot: 🤖 Github Follow Bot to Get More Followers.](https://www.reddit.com/r/Python/comments/sljflt/github_clivernghbot_github_follow_bot_to_get_more/)
 - [I made a Raspberry Pi Stock Checker](https://www.reddit.com/r/Python/comments/sli6z5/i_made_a_raspberry_pi_stock_checker/)
-- [What is the most confusing part of Python for PHP developers?](https://www.reddit.com/r/Python/comments/slfbdh/what_is_the_most_confusing_part_of_python_for_php/)
-- [What are the first programs you wrote after/while learning python, professionally?](https://www.reddit.com/r/Python/comments/sleqef/what_are_the_first_programs_you_wrote_afterwhile/)
-- [Flask vs Fastapi on AWS Lambda?](https://www.reddit.com/r/Python/comments/slcn9k/flask_vs_fastapi_on_aws_lambda/)
 <!-- BLOG-POST-LIST:END -->
