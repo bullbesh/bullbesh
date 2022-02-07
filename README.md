@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made flappy bird using python and ncurses!!](https://www.reddit.com/r/Python/comments/smw6xt/made_flappy_bird_using_python_and_ncurses/)
+- [Getting started with Celery and Python | Adnan&#39;s Random bytes](https://www.reddit.com/r/Python/comments/smvib4/getting_started_with_celery_and_python_adnans/)
 - [I created a website that generates Spotify Wrapped like stories but for Minecraft stats](https://www.reddit.com/r/Python/comments/smve07/i_created_a_website_that_generates_spotify/)
 - [Warp perspective](https://www.reddit.com/r/Python/comments/smugge/warp_perspective/)
 - [An optimization story](https://www.reddit.com/r/Python/comments/smtekw/an_optimization_story/)
-- [Lessons learned from my 10 year open source Python project](https://www.reddit.com/r/Python/comments/smta85/lessons_learned_from_my_10_year_open_source/)
-- [Wordle Solver](https://www.reddit.com/r/Python/comments/smt9et/wordle_solver/)
 <!-- BLOG-POST-LIST:END -->
