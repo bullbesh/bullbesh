@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A program to compute the normalization coefficients of a given orthogonal 1-D complex wave function](https://www.reddit.com/r/Python/comments/sml6jq/a_program_to_compute_the_normalization/)
+- [Job Simulator: Added Incidents in life &amp; Reproduction](https://www.reddit.com/r/Python/comments/sml4i7/job_simulator_added_incidents_in_life_reproduction/)
 - [Numba vs NumPy for multiple class instances](https://www.reddit.com/r/Python/comments/smjj9z/numba_vs_numpy_for_multiple_class_instances/)
 - [Four Letter Words Is this possible? Stuck!](https://www.reddit.com/r/Python/comments/smigbz/four_letter_words_is_this_possible_stuck/)
 - [Improving image similarity detection by ResNet using Finetuner](https://www.reddit.com/r/Python/comments/smib0m/improving_image_similarity_detection_by_resnet/)
-- [Applying to CS jobs/internships sucks. We built a tool using Python to solve it.](https://www.reddit.com/r/Python/comments/smhzyg/applying_to_cs_jobsinternships_sucks_we_built_a/)
-- [Check &amp; Learn Top 2 Easiest Prime Number Program In Python](https://www.reddit.com/r/Python/comments/smhut4/check_learn_top_2_easiest_prime_number_program_in/)
 <!-- BLOG-POST-LIST:END -->
