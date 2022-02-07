@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Applying to CS jobs/internships sucks. We built a tool using Python to solve it.](https://www.reddit.com/r/Python/comments/smhzyg/applying_to_cs_jobsinternships_sucks_we_built_a/)
+- [Check &amp; Learn Top 2 Easiest Prime Number Program In Python](https://www.reddit.com/r/Python/comments/smhut4/check_learn_top_2_easiest_prime_number_program_in/)
 - [Connecting a GA to a model parameter search, an example &lpar;Flappy Bird&rpar;](https://www.reddit.com/r/Python/comments/smg65w/connecting_a_ga_to_a_model_parameter_search_an/)
 - [RaspberryPi for control robot by the mind with shield PiEEG &lpar;Open-source brain-computer interface&rpar;](https://www.reddit.com/r/Python/comments/smdi9q/raspberrypi_for_control_robot_by_the_mind_with/)
 - [IDOM: ReactJS for Any Python Web Framework](https://www.reddit.com/r/Python/comments/smdgxl/idom_reactjs_for_any_python_web_framework/)
-- [RaspberryPi for control robot by the mind with shield PiEEG &lpar;Open-source brain-computer interface&rpar;](https://www.reddit.com/r/Python/comments/smddy0/raspberrypi_for_control_robot_by_the_mind_with/)
-- [Introducing a new solution to solving ReCAPTCHA v2 using Playwright](https://www.reddit.com/r/Python/comments/smcrz3/introducing_a_new_solution_to_solving_recaptcha/)
 <!-- BLOG-POST-LIST:END -->
