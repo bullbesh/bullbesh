@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to avoid problems with unsupported Python versions when updating dependencies?](https://www.reddit.com/r/Python/comments/smlog9/how_to_avoid_problems_with_unsupported_python/)
+- [My first contribution to open-source community - anonympy package!](https://www.reddit.com/r/Python/comments/smld4b/my_first_contribution_to_opensource_community/)
 - [A program to compute the normalization coefficients of a given orthogonal 1-D complex wave function](https://www.reddit.com/r/Python/comments/sml6jq/a_program_to_compute_the_normalization/)
 - [Job Simulator: Added Incidents in life &amp; Reproduction](https://www.reddit.com/r/Python/comments/sml4i7/job_simulator_added_incidents_in_life_reproduction/)
 - [Numba vs NumPy for multiple class instances](https://www.reddit.com/r/Python/comments/smjj9z/numba_vs_numpy_for_multiple_class_instances/)
-- [Four Letter Words Is this possible? Stuck!](https://www.reddit.com/r/Python/comments/smigbz/four_letter_words_is_this_possible_stuck/)
-- [Improving image similarity detection by ResNet using Finetuner](https://www.reddit.com/r/Python/comments/smib0m/improving_image_similarity_detection_by_resnet/)
 <!-- BLOG-POST-LIST:END -->
