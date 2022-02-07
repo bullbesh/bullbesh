@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sudoku solver with Python - Visualize Steps](https://www.reddit.com/r/Python/comments/sn1d7a/sudoku_solver_with_python_visualize_steps/)
 - [Playing Atari 2600 Tennis using a real racket using Python and OpenCV [Tutorial]](https://www.reddit.com/r/Python/comments/smz6s3/playing_atari_2600_tennis_using_a_real_racket/)
 - [Made a webapp using Flask that finds a random Twitch stream to watch](https://www.reddit.com/r/Python/comments/smxl2m/made_a_webapp_using_flask_that_finds_a_random/)
 - [Made flappy bird using python and ncurses!!](https://www.reddit.com/r/Python/comments/smw6xt/made_flappy_bird_using_python_and_ncurses/)
 - [Getting started with Celery and Python | Adnan&#39;s Random bytes](https://www.reddit.com/r/Python/comments/smvib4/getting_started_with_celery_and_python_adnans/)
-- [I created a website that generates Spotify Wrapped like stories but for Minecraft stats](https://www.reddit.com/r/Python/comments/smve07/i_created_a_website_that_generates_spotify/)
 <!-- BLOG-POST-LIST:END -->
