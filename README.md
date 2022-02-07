@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing a new solution to solving ReCAPTCHA v2 using Playwright](https://www.reddit.com/r/Python/comments/smcrz3/introducing_a_new_solution_to_solving_recaptcha/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/smbo00/monday_daily_thread_project_ideas/)
-- [The FastAPI Ultimate Tutorial Series &lpar;13 parts, 30k+ words, full code coverage&rpar;](https://www.reddit.com/r/Python/comments/smadow/the_fastapi_ultimate_tutorial_series_13_parts_30k/)
-- [Why Every Python Developer Needs to Read This](https://www.reddit.com/r/Python/comments/sm7zi4/why_every_python_developer_needs_to_read_this/)
-- [Ceate PyPi Package with Python; setuptools and pip](https://www.reddit.com/r/Python/comments/sm31rs/ceate_pypi_package_with_python_setuptools_and_pip/)
+- [Learning mate](https://www.reddit.com/r/Python/comments/smeqvd/learning_mate/)
+- [how to send and look for reply for emails and text](https://www.reddit.com/r/Python/comments/sme7a8/how_to_send_and_look_for_reply_for_emails_and_text/)
+- [RaspberryPi for control robot by the mind with shield PiEEG &lpar;Open-source brain-computer interface&rpar;](https://www.reddit.com/r/Python/comments/smdi9q/raspberrypi_for_control_robot_by_the_mind_with/)
+- [IDOM: ReactJS for Any Python Web Framework](https://www.reddit.com/r/Python/comments/smdgxl/idom_reactjs_for_any_python_web_framework/)
+- [RaspberryPi for control robot by the mind with shield PiEEG &lpar;Open-source brain-computer interface&rpar;](https://www.reddit.com/r/Python/comments/smddy0/raspberrypi_for_control_robot_by_the_mind_with/)
 <!-- BLOG-POST-LIST:END -->
