@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cricket Match Prediction in a match using ML in python](https://www.reddit.com/r/Python/comments/smr6ae/cricket_match_prediction_in_a_match_using_ml_in/)
+- [Natural Language Processing for Icelandic with PyPy: A Case Study](https://www.reddit.com/r/Python/comments/smqiws/natural_language_processing_for_icelandic_with/)
+- [February release of PasswordManager](https://www.reddit.com/r/Python/comments/smqbgt/february_release_of_passwordmanager/)
+- [BitConcepts - Python Interview Questions](https://www.reddit.com/r/Python/comments/smq6xg/bitconcepts_python_interview_questions/)
 - [Applied Machine Learning](https://www.reddit.com/r/Python/comments/smpnb8/applied_machine_learning/)
-- [NumPy Illustrated: The Visual Guide to Numpy](https://www.reddit.com/r/Python/comments/smpla3/numpy_illustrated_the_visual_guide_to_numpy/)
-- [AI Doc Writer for Python, JavaScript, TypeScript, PHP, and Java - Visual Studio Marketplace](https://www.reddit.com/r/Python/comments/smopjt/ai_doc_writer_for_python_javascript_typescript/)
-- [PyCharm : Features ,its Advantages and Disadvantages : proxiama](https://www.reddit.com/r/Python/comments/smnfb7/pycharm_features_its_advantages_and_disadvantages/)
-- [GRAPH NEURAL NETWORKS: Live Webinar + Q &amp; A with Facebook Engineering Lead/AI Leader Rahul Agrawal](https://www.reddit.com/r/Python/comments/smne18/graph_neural_networks_live_webinar_q_a_with/)
 <!-- BLOG-POST-LIST:END -->
