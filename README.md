@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An optimization story](https://www.reddit.com/r/Python/comments/smtekw/an_optimization_story/)
+- [Lessons learned from my 10 year open source Python project](https://www.reddit.com/r/Python/comments/smta85/lessons_learned_from_my_10_year_open_source/)
+- [Wordle Solver](https://www.reddit.com/r/Python/comments/smt9et/wordle_solver/)
 - [Need guidance](https://www.reddit.com/r/Python/comments/smsmu9/need_guidance/)
 - [Unit test DynamoDB in Python with pytest and dynalite](https://www.reddit.com/r/Python/comments/smsldr/unit_test_dynamodb_in_python_with_pytest_and/)
-- [[5 Steps] to Search for youtube channels using python](https://www.reddit.com/r/Python/comments/smrd2j/5_steps_to_search_for_youtube_channels_using/)
-- [Cricket Match Prediction in a match using ML in python](https://www.reddit.com/r/Python/comments/smr6ae/cricket_match_prediction_in_a_match_using_ml_in/)
-- [Natural Language Processing for Icelandic with PyPy: A Case Study](https://www.reddit.com/r/Python/comments/smqiws/natural_language_processing_for_icelandic_with/)
 <!-- BLOG-POST-LIST:END -->
