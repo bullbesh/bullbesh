@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python Programming Language Basics in 30 minutes using an amazing online workbook for free.](https://www.reddit.com/r/Python/comments/snfhao/learn_python_programming_language_basics_in_30/)
 - [Do you want to upskill your Python for Data Analysis](https://www.reddit.com/r/Python/comments/sndfss/do_you_want_to_upskill_your_python_for_data/)
 - [Is running &quot;pdm run&quot; with every command necessary or is there a better way?](https://www.reddit.com/r/Python/comments/sncx88/is_running_pdm_run_with_every_command_necessary/)
 - [Improved Wordle game with Flask and Vue.js &lpar;+ Public API&rpar;](https://www.reddit.com/r/Python/comments/snc1j5/improved_wordle_game_with_flask_and_vuejs_public/)
 - [Cipher Decoder/Encoder with PyQt5](https://www.reddit.com/r/Python/comments/sn9j6t/cipher_decoderencoder_with_pyqt5/)
-- [Grab your digital copy of Machine Learning with PyTorch and Scikit-Learn](https://www.reddit.com/r/Python/comments/sn8qij/grab_your_digital_copy_of_machine_learning_with/)
 <!-- BLOG-POST-LIST:END -->
