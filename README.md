@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made a script that transcripts and translates any PDF into a text file using tesseract](https://www.reddit.com/r/Python/comments/snjb2a/made_a_script_that_transcripts_and_translates_any/)
+- [I built a comment system for my blog with Python!](https://www.reddit.com/r/Python/comments/snj5p9/i_built_a_comment_system_for_my_blog_with_python/)
 - [Django now uses black to format it&#39;s codebase](https://www.reddit.com/r/Python/comments/snig43/django_now_uses_black_to_format_its_codebase/)
 - [Python News: What&#39;s New From January 2022? – Real Python](https://www.reddit.com/r/Python/comments/snifpl/python_news_whats_new_from_january_2022_real/)
 - [consulting online documentation, am I doing it wrong?](https://www.reddit.com/r/Python/comments/snhrb1/consulting_online_documentation_am_i_doing_it/)
-- [which user model is good,i mean best practice to create user with a custom profile?](https://www.reddit.com/r/Python/comments/snhmtd/which_user_model_is_goodi_mean_best_practice_to/)
-- [I&#39;ve learned python....what do I do now?](https://www.reddit.com/r/Python/comments/snh026/ive_learned_pythonwhat_do_i_do_now/)
 <!-- BLOG-POST-LIST:END -->
