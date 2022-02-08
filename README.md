@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build an ETL Data Pipeline with 1 Line of Python](https://www.reddit.com/r/Python/comments/snsx3g/build_an_etl_data_pipeline_with_1_line_of_python/)
 - [Yuio: a lightweight library for building simple human-friendly CLIs](https://www.reddit.com/r/Python/comments/snquop/yuio_a_lightweight_library_for_building_simple/)
 - [My wife made her first api](https://www.reddit.com/r/Python/comments/snq1xk/my_wife_made_her_first_api/)
 - [GitHub - CadQuery/cadquery: A python parametric CAD scripting framework based on OCCT](https://www.reddit.com/r/Python/comments/snp5b1/github_cadquerycadquery_a_python_parametric_cad/)
 - [Best Python Programming Books for Data Science to read](https://www.reddit.com/r/Python/comments/snnt5t/best_python_programming_books_for_data_science_to/)
-- [Project on Building a Python Interpreter?](https://www.reddit.com/r/Python/comments/snn672/project_on_building_a_python_interpreter/)
 <!-- BLOG-POST-LIST:END -->
