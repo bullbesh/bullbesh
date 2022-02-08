@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python + CUDA picture &quot;mspaint-looks-alike&quot; genetic algorithm](https://www.reddit.com/r/Python/comments/sn7cnd/python_cuda_picture_mspaintlooksalike_genetic/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/sn56uc/tuesday_daily_thread_advanced_questions/)
 - [Get the daily wordle on your first guess by mining Twitter &lpar;pandas/numpy&rpar;](https://www.reddit.com/r/Python/comments/sn52md/get_the_daily_wordle_on_your_first_guess_by/)
 - [Sudoku solver with Python - Visualize Steps](https://www.reddit.com/r/Python/comments/sn1d7a/sudoku_solver_with_python_visualize_steps/)
 - [Playing Atari 2600 Tennis using a real racket using Python and OpenCV [Tutorial]](https://www.reddit.com/r/Python/comments/smz6s3/playing_atari_2600_tennis_using_a_real_racket/)
-- [Made a webapp using Flask that finds a random Twitch stream to watch](https://www.reddit.com/r/Python/comments/smxl2m/made_a_webapp_using_flask_that_finds_a_random/)
 <!-- BLOG-POST-LIST:END -->
