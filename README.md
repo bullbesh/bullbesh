@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django now uses black to format it&#39;s codebase](https://www.reddit.com/r/Python/comments/snig43/django_now_uses_black_to_format_its_codebase/)
+- [Python News: What&#39;s New From January 2022? – Real Python](https://www.reddit.com/r/Python/comments/snifpl/python_news_whats_new_from_january_2022_real/)
 - [consulting online documentation, am I doing it wrong?](https://www.reddit.com/r/Python/comments/snhrb1/consulting_online_documentation_am_i_doing_it/)
 - [which user model is good,i mean best practice to create user with a custom profile?](https://www.reddit.com/r/Python/comments/snhmtd/which_user_model_is_goodi_mean_best_practice_to/)
 - [I&#39;ve learned python....what do I do now?](https://www.reddit.com/r/Python/comments/snh026/ive_learned_pythonwhat_do_i_do_now/)
-- [I Tried a Python NUDE Detector with my Photo](https://www.reddit.com/r/Python/comments/sng8h8/i_tried_a_python_nude_detector_with_my_photo/)
-- [Learn Python Programming Language Basics in 30 minutes using an amazing online workbook for free.](https://www.reddit.com/r/Python/comments/snfhao/learn_python_programming_language_basics_in_30/)
 <!-- BLOG-POST-LIST:END -->
