@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Python Interpreter optimized enough for low-latency caching algorithm?](https://www.reddit.com/r/Python/comments/snkblu/is_python_interpreter_optimized_enough_for/)
+- [How do you deal with third-party libraries when going for total typing coverage?](https://www.reddit.com/r/Python/comments/snk6gn/how_do_you_deal_with_thirdparty_libraries_when/)
 - [Made a script that transcripts and translates any PDF into a text file using tesseract](https://www.reddit.com/r/Python/comments/snjb2a/made_a_script_that_transcripts_and_translates_any/)
 - [I built a comment system for my blog with Python!](https://www.reddit.com/r/Python/comments/snj5p9/i_built_a_comment_system_for_my_blog_with_python/)
 - [Django now uses black to format it&#39;s codebase](https://www.reddit.com/r/Python/comments/snig43/django_now_uses_black_to_format_its_codebase/)
-- [Python News: What&#39;s New From January 2022? – Real Python](https://www.reddit.com/r/Python/comments/snifpl/python_news_whats_new_from_january_2022_real/)
-- [consulting online documentation, am I doing it wrong?](https://www.reddit.com/r/Python/comments/snhrb1/consulting_online_documentation_am_i_doing_it/)
 <!-- BLOG-POST-LIST:END -->
