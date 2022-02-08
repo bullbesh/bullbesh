@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Python Programming Books for Data Science to read](https://www.reddit.com/r/Python/comments/snnt5t/best_python_programming_books_for_data_science_to/)
+- [Project on Building a Python Interpreter?](https://www.reddit.com/r/Python/comments/snn672/project_on_building_a_python_interpreter/)
+- [[5 Steps] To Search For Videos On a youtube channel using python](https://www.reddit.com/r/Python/comments/snmqsz/5_steps_to_search_for_videos_on_a_youtube_channel/)
 - [Python projects for better understanding!!](https://www.reddit.com/r/Python/comments/snmiu4/python_projects_for_better_understanding/)
 - [How to make analyzer of deaths in military conflicts in Python](https://www.reddit.com/r/Python/comments/snm2t2/how_to_make_analyzer_of_deaths_in_military/)
-- [Python &lpar;scipy&rpar; Sparse Matrices Explained With Practice Problems](https://www.reddit.com/r/Python/comments/snlyy9/python_scipy_sparse_matrices_explained_with/)
-- [Digital Python Flashcards](https://www.reddit.com/r/Python/comments/snlpv7/digital_python_flashcards/)
-- [Is Python Interpreter optimized enough for low-latency caching algorithm?](https://www.reddit.com/r/Python/comments/snkblu/is_python_interpreter_optimized_enough_for/)
 <!-- BLOG-POST-LIST:END -->
