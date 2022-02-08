@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Yuio: a lightweight library for building simple human-friendly CLIs](https://www.reddit.com/r/Python/comments/snquop/yuio_a_lightweight_library_for_building_simple/)
+- [My wife made her first api](https://www.reddit.com/r/Python/comments/snq1xk/my_wife_made_her_first_api/)
+- [Hi! I’m new to this sub and I’d like some guidance/tips/advice in starting to program in Phyton. How can I start and develop my knowledge on that language? I already have a pc and fast internet](https://www.reddit.com/r/Python/comments/snpn6s/hi_im_new_to_this_sub_and_id_like_some/)
 - [GitHub - CadQuery/cadquery: A python parametric CAD scripting framework based on OCCT](https://www.reddit.com/r/Python/comments/snp5b1/github_cadquerycadquery_a_python_parametric_cad/)
 - [Best Python Programming Books for Data Science to read](https://www.reddit.com/r/Python/comments/snnt5t/best_python_programming_books_for_data_science_to/)
-- [Project on Building a Python Interpreter?](https://www.reddit.com/r/Python/comments/snn672/project_on_building_a_python_interpreter/)
-- [[5 Steps] To Search For Videos On a youtube channel using python](https://www.reddit.com/r/Python/comments/snmqsz/5_steps_to_search_for_videos_on_a_youtube_channel/)
-- [Python projects for better understanding!!](https://www.reddit.com/r/Python/comments/snmiu4/python_projects_for_better_understanding/)
 <!-- BLOG-POST-LIST:END -->
