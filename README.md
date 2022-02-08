@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python projects for better understanding!!](https://www.reddit.com/r/Python/comments/snmiu4/python_projects_for_better_understanding/)
+- [How to make analyzer of deaths in military conflicts in Python](https://www.reddit.com/r/Python/comments/snm2t2/how_to_make_analyzer_of_deaths_in_military/)
+- [Python &lpar;scipy&rpar; Sparse Matrices Explained With Practice Problems](https://www.reddit.com/r/Python/comments/snlyy9/python_scipy_sparse_matrices_explained_with/)
+- [Digital Python Flashcards](https://www.reddit.com/r/Python/comments/snlpv7/digital_python_flashcards/)
 - [Is Python Interpreter optimized enough for low-latency caching algorithm?](https://www.reddit.com/r/Python/comments/snkblu/is_python_interpreter_optimized_enough_for/)
-- [How do you deal with third-party libraries when going for total typing coverage?](https://www.reddit.com/r/Python/comments/snk6gn/how_do_you_deal_with_thirdparty_libraries_when/)
-- [Made a script that transcripts and translates any PDF into a text file using tesseract](https://www.reddit.com/r/Python/comments/snjb2a/made_a_script_that_transcripts_and_translates_any/)
-- [I built a comment system for my blog with Python!](https://www.reddit.com/r/Python/comments/snj5p9/i_built_a_comment_system_for_my_blog_with_python/)
-- [Django now uses black to format it&#39;s codebase](https://www.reddit.com/r/Python/comments/snig43/django_now_uses_black_to_format_its_codebase/)
 <!-- BLOG-POST-LIST:END -->
