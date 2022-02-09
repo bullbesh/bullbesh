@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FAANG Coding Interview Questions - Leetcode 1: Two Sum &lpar;Python Solution&rpar;](https://www.reddit.com/r/Python/comments/sop4nx/faang_coding_interview_questions_leetcode_1_two/)
+- [I made a text to DNA or RNA converter and back](https://www.reddit.com/r/Python/comments/soorts/i_made_a_text_to_dna_or_rna_converter_and_back/)
+- [Port Scanning With Python](https://www.reddit.com/r/Python/comments/soo9e6/port_scanning_with_python/)
 - [GitHub - lark-parser/lark_cython: Cython plugin for Lark, reimplementing the LALR parser &amp; lexer for better performance](https://www.reddit.com/r/Python/comments/son0c9/github_larkparserlark_cython_cython_plugin_for/)
 - [I made my first non-console based application!](https://www.reddit.com/r/Python/comments/sol6td/i_made_my_first_nonconsole_based_application/)
-- [Currently Passed 4 out of 5 tests for Google Code Foobar Challenge. I Cannot Solve the Last Hidden Test.](https://www.reddit.com/r/Python/comments/sokyjh/currently_passed_4_out_of_5_tests_for_google_code/)
-- [Image to Waves Art Generation](https://www.reddit.com/r/Python/comments/sokw46/image_to_waves_art_generation/)
-- [Python NumPy For Your Grandma](https://www.reddit.com/r/Python/comments/sokbss/python_numpy_for_your_grandma/)
 <!-- BLOG-POST-LIST:END -->
