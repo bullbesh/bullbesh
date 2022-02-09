@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A complete data science and python course](https://www.reddit.com/r/Python/comments/sojvgx/a_complete_data_science_and_python_course/)
+- [Todoterm - simple cli todo application](https://www.reddit.com/r/Python/comments/sojuim/todoterm_simple_cli_todo_application/)
+- [Is it normal to suck at python when you first start with it?](https://www.reddit.com/r/Python/comments/soj45n/is_it_normal_to_suck_at_python_when_you_first/)
+- [What parts of the standard library are most valuable to learn *deeply*?](https://www.reddit.com/r/Python/comments/soiz9j/what_parts_of_the_standard_library_are_most/)
 - [Just made my first webscrapping program and while with covid!](https://www.reddit.com/r/Python/comments/soi4zx/just_made_my_first_webscrapping_program_and_while/)
-- [Python Drawing Libraries?](https://www.reddit.com/r/Python/comments/sohtvk/python_drawing_libraries/)
-- [Rust or C/C++ to learn as a secondary language?](https://www.reddit.com/r/Python/comments/sohidy/rust_or_cc_to_learn_as_a_secondary_language/)
-- [If you already use uWSGI and Sentry, here is how to make them work together](https://www.reddit.com/r/Python/comments/soh9xd/if_you_already_use_uwsgi_and_sentry_here_is_how/)
-- [Share Code Snippets Like A Pro Without Using GitHub](https://www.reddit.com/r/Python/comments/sog5id/share_code_snippets_like_a_pro_without_using/)
 <!-- BLOG-POST-LIST:END -->
