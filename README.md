@@ -18,6 +18,6 @@
 - [I made my first non-console based application!](https://www.reddit.com/r/Python/comments/sol6td/i_made_my_first_nonconsole_based_application/)
 - [Currently Passed 4 out of 5 tests for Google Code Foobar Challenge. I Cannot Solve the Last Hidden Test.](https://www.reddit.com/r/Python/comments/sokyjh/currently_passed_4_out_of_5_tests_for_google_code/)
 - [Image to Waves Art Generation](https://www.reddit.com/r/Python/comments/sokw46/image_to_waves_art_generation/)
-- [Append data to Yaml section](https://www.reddit.com/r/Python/comments/sokvxz/append_data_to_yaml_section/)
 - [Python NumPy For Your Grandma](https://www.reddit.com/r/Python/comments/sokbss/python_numpy_for_your_grandma/)
+- [Todoterm - simple cli todo application](https://www.reddit.com/r/Python/comments/sojuim/todoterm_simple_cli_todo_application/)
 <!-- BLOG-POST-LIST:END -->
