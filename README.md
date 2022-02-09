@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust or C/C++ to learn as a secondary language?](https://www.reddit.com/r/Python/comments/sohidy/rust_or_cc_to_learn_as_a_secondary_language/)
+- [If you already use uWSGI and Sentry, here is how to make them work together](https://www.reddit.com/r/Python/comments/soh9xd/if_you_already_use_uwsgi_and_sentry_here_is_how/)
+- [Share Code Snippets Like A Pro Without Using GitHub](https://www.reddit.com/r/Python/comments/sog5id/share_code_snippets_like_a_pro_without_using/)
+- [Best python course &lpar;Data analytics oriented&rpar;](https://www.reddit.com/r/Python/comments/sog3yk/best_python_course_data_analytics_oriented/)
 - [Giving Back](https://www.reddit.com/r/Python/comments/sofrwu/giving_back/)
-- [what&#39;s happening?](https://www.reddit.com/r/Python/comments/sods5n/whats_happening/)
-- [I made my first python module](https://www.reddit.com/r/Python/comments/socr23/i_made_my_first_python_module/)
-- [E-mail Domain Name to Company Name Map](https://www.reddit.com/r/Python/comments/socdyv/email_domain_name_to_company_name_map/)
-- [25% of Python devs don’t know about json.load and json.dump &lpar;including devs at Microsoft, Sentry, Unicef, and more&rpar;](https://www.reddit.com/r/Python/comments/soakl7/25_of_python_devs_dont_know_about_jsonload_and/)
 <!-- BLOG-POST-LIST:END -->
