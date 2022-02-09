@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just made my first webscrapping program and while with covid!](https://www.reddit.com/r/Python/comments/soi4zx/just_made_my_first_webscrapping_program_and_while/)
+- [Python Drawing Libraries?](https://www.reddit.com/r/Python/comments/sohtvk/python_drawing_libraries/)
 - [Rust or C/C++ to learn as a secondary language?](https://www.reddit.com/r/Python/comments/sohidy/rust_or_cc_to_learn_as_a_secondary_language/)
 - [If you already use uWSGI and Sentry, here is how to make them work together](https://www.reddit.com/r/Python/comments/soh9xd/if_you_already_use_uwsgi_and_sentry_here_is_how/)
 - [Share Code Snippets Like A Pro Without Using GitHub](https://www.reddit.com/r/Python/comments/sog5id/share_code_snippets_like_a_pro_without_using/)
-- [Best python course &lpar;Data analytics oriented&rpar;](https://www.reddit.com/r/Python/comments/sog3yk/best_python_course_data_analytics_oriented/)
-- [Giving Back](https://www.reddit.com/r/Python/comments/sofrwu/giving_back/)
 <!-- BLOG-POST-LIST:END -->
