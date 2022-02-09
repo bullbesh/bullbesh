@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I made a Scrabble solver and visualization](https://www.reddit.com/r/Python/comments/snxz5r/i_made_a_scrabble_solver_and_visualization/)
+- [Neiman Marcus - Virtual Omni Engineering Event](https://www.reddit.com/r/Python/comments/so0cl4/neiman_marcus_virtual_omni_engineering_event/)
+- [I made an automatic Scrabble solver](https://www.reddit.com/r/Python/comments/snzlvj/i_made_an_automatic_scrabble_solver/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/snyxao/wednesday_daily_thread_beginner_questions/)
+- [Python, is it more readable or not?](https://www.reddit.com/r/Python/comments/snykmh/python_is_it_more_readable_or_not/)
 - [MIT Researchers Open-Source ‘Dynamo’: A Machine Learning-Based Python Framework For Gaining Insights Into Dynamic Biological Processes](https://www.reddit.com/r/Python/comments/snvi2s/mit_researchers_opensource_dynamo_a_machine/)
-- [I made an easy-to-use Google Cloud Function cookiecutter for creating a maintainable and scalable pipeline using GitHub Actions and Cloud Build!](https://www.reddit.com/r/Python/comments/snv4bw/i_made_an_easytouse_google_cloud_function/)
-- [How much will I be hated by the Python community for the first while-loop?](https://www.reddit.com/r/Python/comments/snu3ww/how_much_will_i_be_hated_by_the_python_community/)
-- [Build an ETL Data Pipeline with 1 Line of Python](https://www.reddit.com/r/Python/comments/snsx3g/build_an_etl_data_pipeline_with_1_line_of_python/)
 <!-- BLOG-POST-LIST:END -->
