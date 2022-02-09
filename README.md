@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Starting on Python](https://www.reddit.com/r/Python/comments/soaqat/starting_on_python/)
+- [25% of Python devs don’t know about json.load and json.dump &lpar;including devs at Microsoft, Sentry, Unicef, and more&rpar;](https://www.reddit.com/r/Python/comments/soakl7/25_of_python_devs_dont_know_about_jsonload_and/)
 - [How we optimized Python API server code 100x](https://www.reddit.com/r/Python/comments/so9myr/how_we_optimized_python_api_server_code_100x/)
 - [My story of earning $300 per month with a Telegram bot I created using Python. Just for inspiration](https://www.reddit.com/r/Python/comments/so9ciq/my_story_of_earning_300_per_month_with_a_telegram/)
 - [A simple paint app made with python](https://www.reddit.com/r/Python/comments/so8zy4/a_simple_paint_app_made_with_python/)
-- [Updating nested dict list keys](https://www.reddit.com/r/Python/comments/so8ypa/updating_nested_dict_list_keys/)
-- [Scrape Google Scholar Case Law Results to CSV in Python and SerpApi](https://www.reddit.com/r/Python/comments/so696y/scrape_google_scholar_case_law_results_to_csv_in/)
 <!-- BLOG-POST-LIST:END -->
