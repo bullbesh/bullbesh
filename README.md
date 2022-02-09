@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My story of earning $300 per month with a Telegram bot I created using Python. Just for inspiration](https://www.reddit.com/r/Python/comments/so9ciq/my_story_of_earning_300_per_month_with_a_telegram/)
+- [A simple paint app made with python](https://www.reddit.com/r/Python/comments/so8zy4/a_simple_paint_app_made_with_python/)
+- [Updating nested dict list keys](https://www.reddit.com/r/Python/comments/so8ypa/updating_nested_dict_list_keys/)
 - [My Python Learning Journey from Fresher to Python Developer at Qualcomm](https://www.reddit.com/r/Python/comments/so7n75/my_python_learning_journey_from_fresher_to_python/)
 - [Scrape Google Scholar Case Law Results to CSV in Python and SerpApi](https://www.reddit.com/r/Python/comments/so696y/scrape_google_scholar_case_law_results_to_csv_in/)
-- [Friday night funkin&#39; in Python update 1.3](https://www.reddit.com/r/Python/comments/so5soj/friday_night_funkin_in_python_update_13/)
-- [nonoCAPTCHA for Playwright has arrived, solve your reCAPTCHAs for free!](https://www.reddit.com/r/Python/comments/so2att/nonocaptcha_for_playwright_has_arrived_solve_your/)
-- [Neiman Marcus - Virtual Omni Engineering Event](https://www.reddit.com/r/Python/comments/so0cl4/neiman_marcus_virtual_omni_engineering_event/)
 <!-- BLOG-POST-LIST:END -->
