@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Variance of Generic Types in Python](https://www.reddit.com/r/Python/comments/sp3r3d/variance_of_generic_types_in_python/)
+- [wrote a simple ClipboardServer](https://www.reddit.com/r/Python/comments/sp3qbc/wrote_a_simple_clipboardserver/)
+- [Is there a way to have better traceback error messages without importing any libraries outside of the standard lib?](https://www.reddit.com/r/Python/comments/sp3n45/is_there_a_way_to_have_better_traceback_error/)
+- [python+pillow, draw Bing Dwen Dwen](https://www.reddit.com/r/Python/comments/sp3gqf/pythonpillow_draw_bing_dwen_dwen/)
 - [Rectified Linear Activation Unit &lpar;ReLU&rpar;](https://www.reddit.com/r/Python/comments/sp310e/rectified_linear_activation_unit_relu/)
-- [Wrote a simple python script for some random guy, he thought it was a virus](https://www.reddit.com/r/Python/comments/sp2som/wrote_a_simple_python_script_for_some_random_guy/)
-- [ChemicalX: A Deep Learning Library for Drug Pair Scoring](https://www.reddit.com/r/Python/comments/sp2cyj/chemicalx_a_deep_learning_library_for_drug_pair/)
-- [htmlx - a pure python dom](https://www.reddit.com/r/Python/comments/sp1o4e/htmlx_a_pure_python_dom/)
-- [Found this awesome platform for learning Python](https://www.reddit.com/r/Python/comments/sp1lxr/found_this_awesome_platform_for_learning_python/)
 <!-- BLOG-POST-LIST:END -->
