@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Started a http.server with a .vbs script that runs in the background and now I can&#39;t stop it.](https://www.reddit.com/r/Python/comments/sot94g/started_a_httpserver_with_a_vbs_script_that_runs/)
+- [I wrote a script to find cheap rentals in my area!](https://www.reddit.com/r/Python/comments/sossgp/i_wrote_a_script_to_find_cheap_rentals_in_my_area/)
+- [I couldn&#39;t find a typing tutor program that focused enough on the []|{}\ symbols enough so I made a simple one myself.](https://www.reddit.com/r/Python/comments/sos6j3/i_couldnt_find_a_typing_tutor_program_that/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/sorvv9/thursday_daily_thread_python_careers_courses_and/)
 - [Python for web development](https://www.reddit.com/r/Python/comments/soqf94/python_for_web_development/)
-- [FAANG Coding Interview Questions - Leetcode 1: Two Sum &lpar;Python Solution&rpar;](https://www.reddit.com/r/Python/comments/sop4nx/faang_coding_interview_questions_leetcode_1_two/)
-- [I made a text to DNA or RNA converter and back](https://www.reddit.com/r/Python/comments/soorts/i_made_a_text_to_dna_or_rna_converter_and_back/)
-- [Port Scanning With Python](https://www.reddit.com/r/Python/comments/soo9e6/port_scanning_with_python/)
-- [GitHub - lark-parser/lark_cython: Cython plugin for Lark, reimplementing the LALR parser &amp; lexer for better performance](https://www.reddit.com/r/Python/comments/son0c9/github_larkparserlark_cython_cython_plugin_for/)
 <!-- BLOG-POST-LIST:END -->
