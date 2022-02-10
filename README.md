@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CCleaner in python](https://www.reddit.com/r/Python/comments/spd5v6/ccleaner_in_python/)
+- [The Beginner&#39;s Guide to Distributed Computing in Python](https://www.reddit.com/r/Python/comments/spcy3d/the_beginners_guide_to_distributed_computing_in/)
+- [Values work](https://www.reddit.com/r/Python/comments/spcrzz/values_work/)
 - [How To Train Custom Named Entity Recognition[NER] Model With SpaCy v3](https://www.reddit.com/r/Python/comments/spb1jh/how_to_train_custom_named_entity_recognitionner/)
 - [Pet Project Ideas](https://www.reddit.com/r/Python/comments/spajbb/pet_project_ideas/)
-- [Guys do you know any book or pdf that works like a python beginner guide?](https://www.reddit.com/r/Python/comments/spa19s/guys_do_you_know_any_book_or_pdf_that_works_like/)
-- [Bitcoin price prediction using machine learning in Python](https://www.reddit.com/r/Python/comments/sp8oka/bitcoin_price_prediction_using_machine_learning/)
-- [Async vs Sync when it comes to microservices performance](https://www.reddit.com/r/Python/comments/sp7vbi/async_vs_sync_when_it_comes_to_microservices/)
 <!-- BLOG-POST-LIST:END -->
