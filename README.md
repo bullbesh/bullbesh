@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python data science.](https://www.reddit.com/r/Python/comments/sp8yob/python_data_science/)
+- [Guys do you know any book or pdf that works like a python beginner guide?](https://www.reddit.com/r/Python/comments/spa19s/guys_do_you_know_any_book_or_pdf_that_works_like/)
 - [Bitcoin price prediction using machine learning in Python](https://www.reddit.com/r/Python/comments/sp8oka/bitcoin_price_prediction_using_machine_learning/)
 - [Async vs Sync when it comes to microservices performance](https://www.reddit.com/r/Python/comments/sp7vbi/async_vs_sync_when_it_comes_to_microservices/)
 - [My first project: Raccoon Music Player – Cute raccoons dancing around a campfire while songs are playing → check out the video and unmute the audio → Made with Dear PyGui and PyMiniAudio](https://www.reddit.com/r/Python/comments/sp7ddv/my_first_project_raccoon_music_player_cute/)
