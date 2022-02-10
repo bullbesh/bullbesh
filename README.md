@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rectified Linear Activation Unit &lpar;ReLU&rpar;](https://www.reddit.com/r/Python/comments/sp310e/rectified_linear_activation_unit_relu/)
+- [Wrote a simple python script for some random guy, he thought it was a virus](https://www.reddit.com/r/Python/comments/sp2som/wrote_a_simple_python_script_for_some_random_guy/)
 - [ChemicalX: A Deep Learning Library for Drug Pair Scoring](https://www.reddit.com/r/Python/comments/sp2cyj/chemicalx_a_deep_learning_library_for_drug_pair/)
 - [htmlx - a pure python dom](https://www.reddit.com/r/Python/comments/sp1o4e/htmlx_a_pure_python_dom/)
 - [Found this awesome platform for learning Python](https://www.reddit.com/r/Python/comments/sp1lxr/found_this_awesome_platform_for_learning_python/)
-- [PCAP or PCEP](https://www.reddit.com/r/Python/comments/sp0n8x/pcap_or_pcep/)
-- [Best Resources to Learn Data Science &lpar;Books, Courses paid and free&rpar;](https://www.reddit.com/r/Python/comments/sp0ipx/best_resources_to_learn_data_science_books/)
 <!-- BLOG-POST-LIST:END -->
