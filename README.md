@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Resources to Learn Data Science &lpar;Books, Courses paid and free&rpar;](https://www.reddit.com/r/Python/comments/sp0ipx/best_resources_to_learn_data_science_books/)
+- [Chat-App - Now Chatting in terminal](https://www.reddit.com/r/Python/comments/sozu8b/chatapp_now_chatting_in_terminal/)
 - [I wrote a script to find cheap rentals in my area!](https://www.reddit.com/r/Python/comments/sossgp/i_wrote_a_script_to_find_cheap_rentals_in_my_area/)
 - [I couldn&#39;t find a typing tutor program that focused enough on the []|{}\ symbols enough so I made a simple one myself.](https://www.reddit.com/r/Python/comments/sos6j3/i_couldnt_find_a_typing_tutor_program_that/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/sorvv9/thursday_daily_thread_python_careers_courses_and/)
-- [Python for web development](https://www.reddit.com/r/Python/comments/soqf94/python_for_web_development/)
-- [FAANG Coding Interview Questions - Leetcode 1: Two Sum &lpar;Python Solution&rpar;](https://www.reddit.com/r/Python/comments/sop4nx/faang_coding_interview_questions_leetcode_1_two/)
 <!-- BLOG-POST-LIST:END -->
