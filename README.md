@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [how can I send an email through python?](https://www.reddit.com/r/Python/comments/spj01c/how_can_i_send_an_email_through_python/)
 - [My largest project up to date! DIY voice assistant based on the main villain GLaDOS from the video game Portal 2. Script runs on RaspberryPi, is hooked to omnidirectional mic, speakers and animatronic chassis.](https://www.reddit.com/r/Python/comments/spgph5/my_largest_project_up_to_date_diy_voice_assistant/)
 - [Extract Objects from Images with Opencv in 5 min!](https://www.reddit.com/r/Python/comments/spfbss/extract_objects_from_images_with_opencv_in_5_min/)
 - [How to let your friends control your PC using Discord](https://www.reddit.com/r/Python/comments/spe3yk/how_to_let_your_friends_control_your_pc_using/)
 - [How many of you have built a full stack web site on top of FastAPI?](https://www.reddit.com/r/Python/comments/spdwyu/how_many_of_you_have_built_a_full_stack_web_site/)
-- [msgspec - a fast &amp; friendly JSON/MessagePack library](https://www.reddit.com/r/Python/comments/spdo1x/msgspec_a_fast_friendly_jsonmessagepack_library/)
 <!-- BLOG-POST-LIST:END -->
