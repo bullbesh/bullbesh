@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python data science.](https://www.reddit.com/r/Python/comments/sp8yob/python_data_science/)
+- [Bitcoin price prediction using machine learning in Python](https://www.reddit.com/r/Python/comments/sp8oka/bitcoin_price_prediction_using_machine_learning/)
+- [Async vs Sync when it comes to microservices performance](https://www.reddit.com/r/Python/comments/sp7vbi/async_vs_sync_when_it_comes_to_microservices/)
 - [My first project: Raccoon Music Player – Cute raccoons dancing around a campfire while songs are playing → check out the video and unmute the audio → Made with Dear PyGui and PyMiniAudio](https://www.reddit.com/r/Python/comments/sp7ddv/my_first_project_raccoon_music_player_cute/)
 - [How To Moderate Audio Data Using Python and AssemblyAI?](https://www.reddit.com/r/Python/comments/sp789o/how_to_moderate_audio_data_using_python_and/)
-- [Python Certifications - are they worth it?](https://www.reddit.com/r/Python/comments/sp5hup/python_certifications_are_they_worth_it/)
-- [Building a Production-Grade AI Model for Arabic Sentiment Analysis &lpar;Part 1&rpar;](https://www.reddit.com/r/Python/comments/sp52c0/building_a_productiongrade_ai_model_for_arabic/)
-- [Variance of Generic Types in Python](https://www.reddit.com/r/Python/comments/sp3r3d/variance_of_generic_types_in_python/)
 <!-- BLOG-POST-LIST:END -->
