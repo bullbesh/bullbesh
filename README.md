@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to let your friends control your PC using Discord](https://www.reddit.com/r/Python/comments/spe3yk/how_to_let_your_friends_control_your_pc_using/)
+- [How many of you have built a full stack web site on top of FastAPI?](https://www.reddit.com/r/Python/comments/spdwyu/how_many_of_you_have_built_a_full_stack_web_site/)
+- [msgspec - a fast &amp; friendly JSON/MessagePack library](https://www.reddit.com/r/Python/comments/spdo1x/msgspec_a_fast_friendly_jsonmessagepack_library/)
 - [CCleaner in python](https://www.reddit.com/r/Python/comments/spd5v6/ccleaner_in_python/)
 - [The Beginner&#39;s Guide to Distributed Computing in Python](https://www.reddit.com/r/Python/comments/spcy3d/the_beginners_guide_to_distributed_computing_in/)
-- [Values work](https://www.reddit.com/r/Python/comments/spcrzz/values_work/)
-- [How To Train Custom Named Entity Recognition[NER] Model With SpaCy v3](https://www.reddit.com/r/Python/comments/spb1jh/how_to_train_custom_named_entity_recognitionner/)
-- [Pet Project Ideas](https://www.reddit.com/r/Python/comments/spajbb/pet_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
