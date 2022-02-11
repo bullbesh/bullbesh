@@ -19,5 +19,5 @@
 - [Numba](https://www.reddit.com/r/Python/comments/spnui6/numba/)
 - [UC Berkeley Researchers Introduce ‘imodels: A Python Package For Fitting Interpretable Machine Learning Models](https://www.reddit.com/r/Python/comments/spmhu2/uc_berkeley_researchers_introduce_imodels_a/)
 - [Is it easy to learn Python ?](https://www.reddit.com/r/Python/comments/spmhje/is_it_easy_to_learn_python/)
-- [Sometimes even Anaconda doesn&#39;t help](https://www.reddit.com/r/Python/comments/spllbx/sometimes_even_anaconda_doesnt_help/)
+- [How do I search for an available Python package using pip? &lpar;Tutorial&rpar;](https://www.reddit.com/r/Python/comments/spldrp/how_do_i_search_for_an_available_python_package/)
 <!-- BLOG-POST-LIST:END -->
