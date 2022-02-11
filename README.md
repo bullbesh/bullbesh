@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Profiled my Python video game code and then used snakeviz to check for performance bottlenecks](https://www.reddit.com/r/Python/comments/spw3ab/profiled_my_python_video_game_code_and_then_used/)
+- [I built a command based python library to help generate responsive images in bulk](https://www.reddit.com/r/Python/comments/spvjlg/i_built_a_command_based_python_library_to_help/)
 - [Reading SPSS files in another language&lpar;Not english&rpar;](https://www.reddit.com/r/Python/comments/sptodq/reading_spss_files_in_another_languagenot_english/)
 - [Wrote a module to collect and analyse compensations from leetcode forums](https://www.reddit.com/r/Python/comments/spqlqv/wrote_a_module_to_collect_and_analyse/)
 - [Find Who UNFOLLOWED You on INSTAGRAM with PYTHON!](https://www.reddit.com/r/Python/comments/sppkko/find_who_unfollowed_you_on_instagram_with_python/)
-- [valentines gift project for girlfriend](https://www.reddit.com/r/Python/comments/spnvr9/valentines_gift_project_for_girlfriend/)
-- [Numba](https://www.reddit.com/r/Python/comments/spnui6/numba/)
 <!-- BLOG-POST-LIST:END -->
