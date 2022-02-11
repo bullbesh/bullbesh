@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python learner thots](https://www.reddit.com/r/Python/comments/spz7ky/python_learner_thots/)
 - [Do this questions even make sense?](https://www.reddit.com/r/Python/comments/spxxa0/do_this_questions_even_make_sense/)
 - [Using a Dict of Functions: Best Practices &amp; Advice](https://www.reddit.com/r/Python/comments/spxs7v/using_a_dict_of_functions_best_practices_advice/)
 - [Master librarian, a simple tool to audit Linux system libraries to find public security vulnerabilities](https://www.reddit.com/r/Python/comments/spxn1l/master_librarian_a_simple_tool_to_audit_linux/)
 - [Notebooks suck: change my mind](https://www.reddit.com/r/Python/comments/spxim1/notebooks_suck_change_my_mind/)
-- [Entropy-based strategy to solving Wordle in 75 lines of code.](https://www.reddit.com/r/Python/comments/spwr91/entropybased_strategy_to_solving_wordle_in_75/)
 <!-- BLOG-POST-LIST:END -->
