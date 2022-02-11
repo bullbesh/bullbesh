@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [YOPO - You Only Plot Once -&gt; A simple very low code plotting library.](https://www.reddit.com/r/Python/comments/sq5l6a/yopo_you_only_plot_once_a_simple_very_low_code/)
 - [Faster Python calculations with Numba: 2 lines of code, 13× speed-up](https://www.reddit.com/r/Python/comments/sq3n87/faster_python_calculations_with_numba_2_lines_of/)
 - [GitHub - CZ-NIC/pz: Easily handle day to day CLI operation via Python instead of regular Bash programs.](https://www.reddit.com/r/Python/comments/sq2qa6/github_cznicpz_easily_handle_day_to_day_cli/)
 - [I&#39;m working on a TODO app geated specifically towards developers](https://www.reddit.com/r/Python/comments/sq1vy6/im_working_on_a_todo_app_geated_specifically/)
 - [Blazer - HPC python library for parallel workflows](https://www.reddit.com/r/Python/comments/sq1rw9/blazer_hpc_python_library_for_parallel_workflows/)
-- [Secrets of MicroPython: How to read a keypad passcode](https://www.reddit.com/r/Python/comments/sq0vnu/secrets_of_micropython_how_to_read_a_keypad/)
 <!-- BLOG-POST-LIST:END -->
