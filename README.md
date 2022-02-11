@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - CZ-NIC/pz: Easily handle day to day CLI operation via Python instead of regular Bash programs.](https://www.reddit.com/r/Python/comments/sq2qa6/github_cznicpz_easily_handle_day_to_day_cli/)
+- [I&#39;m working on a TODO app geated specifically towards developers](https://www.reddit.com/r/Python/comments/sq1vy6/im_working_on_a_todo_app_geated_specifically/)
 - [Blazer - HPC python library for parallel workflows](https://www.reddit.com/r/Python/comments/sq1rw9/blazer_hpc_python_library_for_parallel_workflows/)
 - [Secrets of MicroPython: How to read a keypad passcode](https://www.reddit.com/r/Python/comments/sq0vnu/secrets_of_micropython_how_to_read_a_keypad/)
 - [Running C unit tests with pytest](https://www.reddit.com/r/Python/comments/sq0n76/running_c_unit_tests_with_pytest/)
-- [I created a command-line package to help developers generate responsive images in bulk](https://www.reddit.com/r/Python/comments/sq0g8w/i_created_a_commandline_package_to_help/)
-- [Company that wants to constantly update Python in my Django project&#39;s environment](https://www.reddit.com/r/Python/comments/sq097p/company_that_wants_to_constantly_update_python_in/)
 <!-- BLOG-POST-LIST:END -->
