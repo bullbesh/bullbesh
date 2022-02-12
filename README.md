@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a program that can solve wordle game!!!!](https://www.reddit.com/r/Python/comments/sqtpki/i_wrote_a_program_that_can_solve_wordle_game/)
+- [ThreadPoolExecutor in Python: The Complete Guide](https://www.reddit.com/r/Python/comments/sqta2i/threadpoolexecutor_in_python_the_complete_guide/)
+- [ImagickCLI : A command-line tool to hide and reveal information inside images](https://www.reddit.com/r/Python/comments/sqsp5r/imagickcli_a_commandline_tool_to_hide_and_reveal/)
+- [I can help you with your python homework.](https://www.reddit.com/r/Python/comments/sqso60/i_can_help_you_with_your_python_homework/)
 - [AWS Lambda with a Static IP](https://www.reddit.com/r/Python/comments/sqsc51/aws_lambda_with_a_static_ip/)
-- [Building Regression Models With PyCaret](https://www.reddit.com/r/Python/comments/sqqntc/building_regression_models_with_pycaret/)
-- [please test with -bb -W error](https://www.reddit.com/r/Python/comments/sqpd2l/please_test_with_bb_w_error/)
-- [Looking for python discord with open source developers](https://www.reddit.com/r/Python/comments/sqohlk/looking_for_python_discord_with_open_source/)
-- [The Best Machine Learning Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/sqo1y7/the_best_machine_learning_courses_on_udemy_2022/)
 <!-- BLOG-POST-LIST:END -->
