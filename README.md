@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interesting assembly-like python code](https://www.reddit.com/r/Python/comments/sqm44s/interesting_assemblylike_python_code/)
 - [Solving the 15 Puzzle in Python with IDA*](https://www.reddit.com/r/Python/comments/sqfy96/solving_the_15_puzzle_in_python_with_ida/)
 - [Python for Kids](https://www.reddit.com/r/Python/comments/sqerhc/python_for_kids/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/sqdj27/saturday_daily_thread_resource_request_and/)
 - [YOPO - You Only Plot Once -&gt; A simple very low code plotting library.](https://www.reddit.com/r/Python/comments/sq5l6a/yopo_you_only_plot_once_a_simple_very_low_code/)
-- [Faster Python calculations with Numba: 2 lines of code, 13× speed-up](https://www.reddit.com/r/Python/comments/sq3n87/faster_python_calculations_with_numba_2_lines_of/)
 <!-- BLOG-POST-LIST:END -->
