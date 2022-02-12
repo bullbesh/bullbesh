@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [please test with -bb -W error](https://www.reddit.com/r/Python/comments/sqpd2l/please_test_with_bb_w_error/)
 - [Looking for python discord with open source developers](https://www.reddit.com/r/Python/comments/sqohlk/looking_for_python_discord_with_open_source/)
 - [The Best Machine Learning Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/sqo1y7/the_best_machine_learning_courses_on_udemy_2022/)
 - [Solving the 15 Puzzle in Python with IDA*](https://www.reddit.com/r/Python/comments/sqfy96/solving_the_15_puzzle_in_python_with_ida/)
 - [Python for Kids](https://www.reddit.com/r/Python/comments/sqerhc/python_for_kids/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/sqdj27/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
