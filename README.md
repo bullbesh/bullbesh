@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve release blacksmith 1.0, a client for REST Api.](https://www.reddit.com/r/Python/comments/squtx9/ive_release_blacksmith_10_a_client_for_rest_api/)
+- [Retrieving &amp; Visualising Data from Yahoo Finance in Python](https://www.reddit.com/r/Python/comments/squ5to/retrieving_visualising_data_from_yahoo_finance_in/)
 - [I wrote a program that can solve wordle game!!!!](https://www.reddit.com/r/Python/comments/sqtpki/i_wrote_a_program_that_can_solve_wordle_game/)
 - [ThreadPoolExecutor in Python: The Complete Guide](https://www.reddit.com/r/Python/comments/sqta2i/threadpoolexecutor_in_python_the_complete_guide/)
 - [ImagickCLI : A command-line tool to hide and reveal information inside images](https://www.reddit.com/r/Python/comments/sqsp5r/imagickcli_a_commandline_tool_to_hide_and_reveal/)
-- [I can help you with your python homework.](https://www.reddit.com/r/Python/comments/sqso60/i_can_help_you_with_your_python_homework/)
-- [AWS Lambda with a Static IP](https://www.reddit.com/r/Python/comments/sqsc51/aws_lambda_with_a_static_ip/)
 <!-- BLOG-POST-LIST:END -->
