@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [sec-python: A package for parsing data from the SEC REST API](https://www.reddit.com/r/Python/comments/sqz7lr/secpython_a_package_for_parsing_data_from_the_sec/)
 - [I&#39;ve been creating short Python videos, to the point, 3-4 min long and packed with knowledge. Ideas for future videos?](https://www.reddit.com/r/Python/comments/sqxqr5/ive_been_creating_short_python_videos_to_the/)
 - [In some overhead-benchmarking, I found out that the @functools.lru_cache&lpar;maxsize=1024*1024&rpar; annotation gives ~20% more overhead than a direct-mapped cache of same size written as a Cython module. Is Cython function really the lowest overhead per function call?](https://www.reddit.com/r/Python/comments/sqx0x3/in_some_overheadbenchmarking_i_found_out_that_the/)
 - [Should You Use Upper Bound Version Constraints?](https://www.reddit.com/r/Python/comments/sqvlxg/should_you_use_upper_bound_version_constraints/)
 - [I&#39;ve release blacksmith 1.0, a client for REST Api.](https://www.reddit.com/r/Python/comments/squtx9/ive_release_blacksmith_10_a_client_for_rest_api/)
-- [Retrieving &amp; Visualising Data from Yahoo Finance in Python](https://www.reddit.com/r/Python/comments/squ5to/retrieving_visualising_data_from_yahoo_finance_in/)
 <!-- BLOG-POST-LIST:END -->
