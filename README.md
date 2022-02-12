@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What Are Some Recognized Python Certificates?](https://www.reddit.com/r/Python/comments/sqaxjw/what_are_some_recognized_python_certificates/)
+- [Python for Kids](https://www.reddit.com/r/Python/comments/sqerhc/python_for_kids/)
+- [sub-sync: Permanently sync your subtitles with audio](https://www.reddit.com/r/Python/comments/sqecpj/subsync_permanently_sync_your_subtitles_with_audio/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/sqdj27/saturday_daily_thread_resource_request_and/)
 - [YOPO - You Only Plot Once -&gt; A simple very low code plotting library.](https://www.reddit.com/r/Python/comments/sq5l6a/yopo_you_only_plot_once_a_simple_very_low_code/)
 - [Faster Python calculations with Numba: 2 lines of code, 13× speed-up](https://www.reddit.com/r/Python/comments/sq3n87/faster_python_calculations_with_numba_2_lines_of/)
-- [GitHub - CZ-NIC/pz: Easily handle day to day CLI operation via Python instead of regular Bash programs.](https://www.reddit.com/r/Python/comments/sq2qa6/github_cznicpz_easily_handle_day_to_day_cli/)
-- [I&#39;m working on a TODO app geated specifically towards developers](https://www.reddit.com/r/Python/comments/sq1vy6/im_working_on_a_todo_app_geated_specifically/)
 <!-- BLOG-POST-LIST:END -->
