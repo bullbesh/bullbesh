@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [If you deal with prices and decimal quantities you should be using decimals](https://www.reddit.com/r/Python/comments/srrfzr/if_you_deal_with_prices_and_decimal_quantities/)
+- [Script that maps a specific Reddit user&#39;s subreddit subscriptions/comments in Plotly or Tableau](https://www.reddit.com/r/Python/comments/srqiks/script_that_maps_a_specific_reddit_users/)
 - [Sharing my github repo for: Black Hat Python &lpar;Seitz Book&rpar; source code re-edited, updated to Python3 and tested](https://www.reddit.com/r/Python/comments/srpht2/sharing_my_github_repo_for_black_hat_python_seitz/)
 - [How to complete MrBeast’s challenge using Python](https://www.reddit.com/r/Python/comments/srokpu/how_to_complete_mrbeasts_challenge_using_python/)
 - [Project ideas?](https://www.reddit.com/r/Python/comments/srnftj/project_ideas/)
-- [Hikaru 0.11.0b released](https://www.reddit.com/r/Python/comments/srnbem/hikaru_0110b_released/)
-- [How to make Spyder look as similar as possible to MATLAB?](https://www.reddit.com/r/Python/comments/srn612/how_to_make_spyder_look_as_similar_as_possible_to/)
 <!-- BLOG-POST-LIST:END -->
