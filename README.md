@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OMG! YOU GUYS ARE INSANE!!!!](https://www.reddit.com/r/Python/comments/srko4p/omg_you_guys_are_insane/)
+- [new rapid python website deployed, source code for ur own dating site](https://www.reddit.com/r/Python/comments/srknci/new_rapid_python_website_deployed_source_code_for/)
+- [Understanding Attributes, Dicts and Slots in Python](https://www.reddit.com/r/Python/comments/srjv2x/understanding_attributes_dicts_and_slots_in_python/)
 - [_ = &quot;hello world&quot; ; print&lpar;f&#39;{_}&#39;&rpar;](https://www.reddit.com/r/Python/comments/srjjey/hello_world_printf/)
 - [GitHub - bwhmather/ssort: Tool for sorting top level statements in python files](https://www.reddit.com/r/Python/comments/sriw6v/github_bwhmatherssort_tool_for_sorting_top_level/)
-- [How can I import a TXT file text as lines in python?](https://www.reddit.com/r/Python/comments/srhcxp/how_can_i_import_a_txt_file_text_as_lines_in/)
-- [declaring an argument type vs not doing so](https://www.reddit.com/r/Python/comments/srh9jh/declaring_an_argument_type_vs_not_doing_so/)
-- [can anybody help me](https://www.reddit.com/r/Python/comments/srgnos/can_anybody_help_me/)
 <!-- BLOG-POST-LIST:END -->
