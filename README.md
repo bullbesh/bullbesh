@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Video to text with Python.](https://www.reddit.com/r/Python/comments/srmffs/video_to_text_with_python/)
-- [Flappy Bird Project in Python - Part 1](https://www.reddit.com/r/Python/comments/srm6cb/flappy_bird_project_in_python_part_1/)
-- [OMG! YOU GUYS ARE INSANE!!!!](https://www.reddit.com/r/Python/comments/srko4p/omg_you_guys_are_insane/)
-- [new rapid python website deployed, source code for ur own dating site](https://www.reddit.com/r/Python/comments/srknci/new_rapid_python_website_deployed_source_code_for/)
-- [Understanding Attributes, Dicts and Slots in Python](https://www.reddit.com/r/Python/comments/srjv2x/understanding_attributes_dicts_and_slots_in_python/)
+- [Project ideas?](https://www.reddit.com/r/Python/comments/srnftj/project_ideas/)
+- [Hikaru 0.11.0b released](https://www.reddit.com/r/Python/comments/srnbem/hikaru_0110b_released/)
+- [How to make Spyder look as similar as possible to MATLAB?](https://www.reddit.com/r/Python/comments/srn612/how_to_make_spyder_look_as_similar_as_possible_to/)
+- [DNS Lookup With Python](https://www.reddit.com/r/Python/comments/srmy9q/dns_lookup_with_python/)
+- [Python Language Translation using Google Translator](https://www.reddit.com/r/Python/comments/srmo3i/python_language_translation_using_google/)
 <!-- BLOG-POST-LIST:END -->
