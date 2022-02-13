@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Tools I Wish I Knew When I Started Working with Python](https://www.reddit.com/r/Python/comments/srcg8m/10_tools_i_wish_i_knew_when_i_started_working/)
 - [Beginner Concurrency with Asyncio Webinar [Feb 22 @ 12 PM ET]](https://www.reddit.com/r/Python/comments/sr93lp/beginner_concurrency_with_asyncio_webinar_feb_22/)
 - [California dataset problems](https://www.reddit.com/r/Python/comments/sr8zgl/california_dataset_problems/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/sr4wjh/sunday_daily_thread_whats_everyone_working_on/)
 - [Program to convert picture to text file](https://www.reddit.com/r/Python/comments/sr4tic/program_to_convert_picture_to_text_file/)
-- [Space Science with Python - Machine Learning Part 3](https://www.reddit.com/r/Python/comments/sr0m38/space_science_with_python_machine_learning_part_3/)
 <!-- BLOG-POST-LIST:END -->
