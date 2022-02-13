@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How can I import a TXT file text as lines in python?](https://www.reddit.com/r/Python/comments/srhcxp/how_can_i_import_a_txt_file_text_as_lines_in/)
+- [declaring an argument type vs not doing so](https://www.reddit.com/r/Python/comments/srh9jh/declaring_an_argument_type_vs_not_doing_so/)
+- [can anybody help me](https://www.reddit.com/r/Python/comments/srgnos/can_anybody_help_me/)
 - [I made a wordle clone in python.](https://www.reddit.com/r/Python/comments/srfg5q/i_made_a_wordle_clone_in_python/)
 - [Code API - The only API where there is code and code](https://www.reddit.com/r/Python/comments/srf49z/code_api_the_only_api_where_there_is_code_and_code/)
-- [Check out my code and tell me in the comments what it is.](https://www.reddit.com/r/Python/comments/sreths/check_out_my_code_and_tell_me_in_the_comments/)
-- [Imgrerite - A command-line tool to hide and reveal information inside images &lpar;works for both PNGs and JPGs&rpar;](https://www.reddit.com/r/Python/comments/sreex0/imgrerite_a_commandline_tool_to_hide_and_reveal/)
-- [How does the Python interpreter execute import statements?](https://www.reddit.com/r/Python/comments/sre4p7/how_does_the_python_interpreter_execute_import/)
 <!-- BLOG-POST-LIST:END -->
