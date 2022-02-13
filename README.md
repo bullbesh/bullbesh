@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sharing my github repo for: Black Hat Python &lpar;Seitz Book&rpar; source code re-edited, updated to Python3 and tested](https://www.reddit.com/r/Python/comments/srpht2/sharing_my_github_repo_for_black_hat_python_seitz/)
 - [How to complete MrBeast’s challenge using Python](https://www.reddit.com/r/Python/comments/srokpu/how_to_complete_mrbeasts_challenge_using_python/)
 - [Project ideas?](https://www.reddit.com/r/Python/comments/srnftj/project_ideas/)
 - [Hikaru 0.11.0b released](https://www.reddit.com/r/Python/comments/srnbem/hikaru_0110b_released/)
 - [How to make Spyder look as similar as possible to MATLAB?](https://www.reddit.com/r/Python/comments/srn612/how_to_make_spyder_look_as_similar_as_possible_to/)
-- [DNS Lookup With Python](https://www.reddit.com/r/Python/comments/srmy9q/dns_lookup_with_python/)
 <!-- BLOG-POST-LIST:END -->
