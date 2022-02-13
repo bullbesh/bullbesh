@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need assistance on homework](https://www.reddit.com/r/Python/comments/sruibt/need_assistance_on_homework/)
+- [Hi, I&#39;m new in python and I don&#39;t know anything in coding](https://www.reddit.com/r/Python/comments/sru0fa/hi_im_new_in_python_and_i_dont_know_anything_in/)
+- [Learn Spatial Analysis in Python](https://www.reddit.com/r/Python/comments/srtgqj/learn_spatial_analysis_in_python/)
 - [If you deal with prices and decimal quantities you should be using decimals](https://www.reddit.com/r/Python/comments/srrfzr/if_you_deal_with_prices_and_decimal_quantities/)
 - [Script that maps a specific Reddit user&#39;s subreddit subscriptions/comments in Plotly or Tableau](https://www.reddit.com/r/Python/comments/srqiks/script_that_maps_a_specific_reddit_users/)
-- [Sharing my github repo for: Black Hat Python &lpar;Seitz Book&rpar; source code re-edited, updated to Python3 and tested](https://www.reddit.com/r/Python/comments/srpht2/sharing_my_github_repo_for_black_hat_python_seitz/)
-- [How to complete MrBeast’s challenge using Python](https://www.reddit.com/r/Python/comments/srokpu/how_to_complete_mrbeasts_challenge_using_python/)
-- [Project ideas?](https://www.reddit.com/r/Python/comments/srnftj/project_ideas/)
 <!-- BLOG-POST-LIST:END -->
