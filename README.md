@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Video to text with Python.](https://www.reddit.com/r/Python/comments/srmffs/video_to_text_with_python/)
+- [Flappy Bird Project in Python - Part 1](https://www.reddit.com/r/Python/comments/srm6cb/flappy_bird_project_in_python_part_1/)
 - [OMG! YOU GUYS ARE INSANE!!!!](https://www.reddit.com/r/Python/comments/srko4p/omg_you_guys_are_insane/)
 - [new rapid python website deployed, source code for ur own dating site](https://www.reddit.com/r/Python/comments/srknci/new_rapid_python_website_deployed_source_code_for/)
 - [Understanding Attributes, Dicts and Slots in Python](https://www.reddit.com/r/Python/comments/srjv2x/understanding_attributes_dicts_and_slots_in_python/)
-- [_ = &quot;hello world&quot; ; print&lpar;f&#39;{_}&#39;&rpar;](https://www.reddit.com/r/Python/comments/srjjey/hello_world_printf/)
-- [GitHub - bwhmather/ssort: Tool for sorting top level statements in python files](https://www.reddit.com/r/Python/comments/sriw6v/github_bwhmatherssort_tool_for_sorting_top_level/)
 <!-- BLOG-POST-LIST:END -->
