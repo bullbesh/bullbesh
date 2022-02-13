@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a wordle clone in python.](https://www.reddit.com/r/Python/comments/srfg5q/i_made_a_wordle_clone_in_python/)
+- [Code API - The only API where there is code and code](https://www.reddit.com/r/Python/comments/srf49z/code_api_the_only_api_where_there_is_code_and_code/)
+- [Check out my code and tell me in the comments what it is.](https://www.reddit.com/r/Python/comments/sreths/check_out_my_code_and_tell_me_in_the_comments/)
 - [Imgrerite - A command-line tool to hide and reveal information inside images &lpar;works for both PNGs and JPGs&rpar;](https://www.reddit.com/r/Python/comments/sreex0/imgrerite_a_commandline_tool_to_hide_and_reveal/)
 - [How does the Python interpreter execute import statements?](https://www.reddit.com/r/Python/comments/sre4p7/how_does_the_python_interpreter_execute_import/)
-- [Financial Stock Analysis using the Python programming language and the Yahoo Finance Python library](https://www.reddit.com/r/Python/comments/srdlxa/financial_stock_analysis_using_the_python/)
-- [10 Tools I Wish I Knew When I Started Working with Python](https://www.reddit.com/r/Python/comments/srcg8m/10_tools_i_wish_i_knew_when_i_started_working/)
-- [Beginner Concurrency with Asyncio Webinar [Feb 22 @ 12 PM ET]](https://www.reddit.com/r/Python/comments/sr93lp/beginner_concurrency_with_asyncio_webinar_feb_22/)
 <!-- BLOG-POST-LIST:END -->
