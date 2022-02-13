@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Confusion Matrix](https://www.reddit.com/r/Python/comments/sr7uuj/confusion_matrix/)
-- [Kind People Out There](https://www.reddit.com/r/Python/comments/sr66t2/kind_people_out_there/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/sr4wjh/sunday_daily_thread_whats_everyone_working_on/)
 - [Program to convert picture to text file](https://www.reddit.com/r/Python/comments/sr4tic/program_to_convert_picture_to_text_file/)
-- [Bot detection prevention](https://www.reddit.com/r/Python/comments/sr4pv3/bot_detection_prevention/)
+- [Space Science with Python - Machine Learning Part 3](https://www.reddit.com/r/Python/comments/sr0m38/space_science_with_python_machine_learning_part_3/)
+- [SMOP - Convert Matlab to Python on Google Colab](https://www.reddit.com/r/Python/comments/sr0aok/smop_convert_matlab_to_python_on_google_colab/)
 <!-- BLOG-POST-LIST:END -->
