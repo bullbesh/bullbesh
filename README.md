@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [8 Code Snippets To Quickly Get Started With MLflow Tracking](https://www.reddit.com/r/Python/comments/ss844q/8_code_snippets_to_quickly_get_started_with/)
-- [GitHub - MarshalX/python-webrtc: a Python extension that provides bindings to WebRTC M92](https://www.reddit.com/r/Python/comments/ss6tf0/github_marshalxpythonwebrtc_a_python_extension/)
-- [To show use case of my library, I made a tutorial using it where you learn how to make a self Instagram page building bot that downloads post from reddit and uploads them to Instagram automatically under 50 lines of code.](https://www.reddit.com/r/Python/comments/ss60gg/to_show_use_case_of_my_library_i_made_a_tutorial/)
-- [A bot to play Wordle](https://www.reddit.com/r/Python/comments/ss5z4g/a_bot_to_play_wordle/)
-- [[Tutorial] How color is altered in images](https://www.reddit.com/r/Python/comments/ss4e67/tutorial_how_color_is_altered_in_images/)
+- [I wrote a quick Fusion 360 plugin in Python to help me understand how Cycloidal drives are designed](https://www.reddit.com/r/Python/comments/ss93cn/i_wrote_a_quick_fusion_360_plugin_in_python_to/)
+- [What do you think of python on visual studio?](https://www.reddit.com/r/Python/comments/ss8ox5/what_do_you_think_of_python_on_visual_studio/)
+- [How can I create the variables x and y like program below? and how to draw the curve of y versus x . The curve should be in red color, with a line width of 2, and in dashed-line style?](https://www.reddit.com/r/Python/comments/ss8hfj/how_can_i_create_the_variables_x_and_y_like/)
+- [How much info is too much to hold in your head? A different way to look at code complexity](https://www.reddit.com/r/Python/comments/ss8cwu/how_much_info_is_too_much_to_hold_in_your_head_a/)
+- [Are all libraries and all software fundamentally built from the standard libraries?](https://www.reddit.com/r/Python/comments/ss8cri/are_all_libraries_and_all_software_fundamentally/)
 <!-- BLOG-POST-LIST:END -->
