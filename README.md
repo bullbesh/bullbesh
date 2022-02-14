@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Code Snippets To Quickly Get Started With MLflow Tracking](https://www.reddit.com/r/Python/comments/ss844q/8_code_snippets_to_quickly_get_started_with/)
 - [GitHub - MarshalX/python-webrtc: a Python extension that provides bindings to WebRTC M92](https://www.reddit.com/r/Python/comments/ss6tf0/github_marshalxpythonwebrtc_a_python_extension/)
 - [To show use case of my library, I made a tutorial using it where you learn how to make a self Instagram page building bot that downloads post from reddit and uploads them to Instagram automatically under 50 lines of code.](https://www.reddit.com/r/Python/comments/ss60gg/to_show_use_case_of_my_library_i_made_a_tutorial/)
 - [A bot to play Wordle](https://www.reddit.com/r/Python/comments/ss5z4g/a_bot_to_play_wordle/)
-- [Someone Find Joe](https://www.reddit.com/r/Python/comments/ss5rlt/someone_find_joe/)
 - [[Tutorial] How color is altered in images](https://www.reddit.com/r/Python/comments/ss4e67/tutorial_how_color_is_altered_in_images/)
 <!-- BLOG-POST-LIST:END -->
