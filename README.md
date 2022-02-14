@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning Python](https://www.reddit.com/r/Python/comments/sskjg6/learning_python/)
+- [How to host via URL?](https://www.reddit.com/r/Python/comments/sskdze/how_to_host_via_url/)
 - [Do really popular libraries ever become part of vanilla Python?](https://www.reddit.com/r/Python/comments/ssk657/do_really_popular_libraries_ever_become_part_of/)
 - [ViperDB](https://www.reddit.com/r/Python/comments/ssjotv/viperdb/)
 - [Sanic Security: An effective, simple, and async security library for the Sanic framework.](https://www.reddit.com/r/Python/comments/ssjjen/sanic_security_an_effective_simple_and_async/)
-- [matplotlove - plotting hearts for Valentine&#39;s Day with Matplotlib](https://www.reddit.com/r/Python/comments/ssjhsh/matplotlove_plotting_hearts_for_valentines_day/)
-- [Node2Vec Explained &amp; Implemented in Python](https://www.reddit.com/r/Python/comments/ssil22/node2vec_explained_implemented_in_python/)
 <!-- BLOG-POST-LIST:END -->
