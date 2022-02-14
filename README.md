@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I wrote a quick Fusion 360 plugin in Python to help me understand how Cycloidal drives are designed](https://www.reddit.com/r/Python/comments/ss93cn/i_wrote_a_quick_fusion_360_plugin_in_python_to/)
-- [What do you think of python on visual studio?](https://www.reddit.com/r/Python/comments/ss8ox5/what_do_you_think_of_python_on_visual_studio/)
-- [How can I create the variables x and y like program below? and how to draw the curve of y versus x . The curve should be in red color, with a line width of 2, and in dashed-line style?](https://www.reddit.com/r/Python/comments/ss8hfj/how_can_i_create_the_variables_x_and_y_like/)
-- [How much info is too much to hold in your head? A different way to look at code complexity](https://www.reddit.com/r/Python/comments/ss8cwu/how_much_info_is_too_much_to_hold_in_your_head_a/)
-- [Are all libraries and all software fundamentally built from the standard libraries?](https://www.reddit.com/r/Python/comments/ss8cri/are_all_libraries_and_all_software_fundamentally/)
+- [Python Microservices: Breaking a Monolith to Microservices - New Intro](https://www.reddit.com/r/Python/comments/ssaabn/python_microservices_breaking_a_monolith_to/)
+- [Predicting English Premier League games based on Transfermarkt market values for the home and away team. It’s fascinating how close we can get to the bookies’ prediction with such a simple model. This proves the impact money has on the game of Football &lpar;Soccer&rpar;.](https://www.reddit.com/r/Python/comments/ssa671/predicting_english_premier_league_games_based_on/)
+- [How to Set up a Perfect Python Project](https://www.reddit.com/r/Python/comments/ss9y7q/how_to_set_up_a_perfect_python_project/)
+- [python generator question ?](https://www.reddit.com/r/Python/comments/ss9www/python_generator_question/)
+- [Betsy: The incy-wincy Python static dependencies crawler](https://www.reddit.com/r/Python/comments/ss9st9/betsy_the_incywincy_python_static_dependencies/)
 <!-- BLOG-POST-LIST:END -->
