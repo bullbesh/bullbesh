@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why exactly is it faster to write code in Django compared to Flask or FastAPI ?](https://www.reddit.com/r/Python/comments/sse9ow/why_exactly_is_it_faster_to_write_code_in_django/)
-- [I guess I found an error with Python](https://www.reddit.com/r/Python/comments/ssclsz/i_guess_i_found_an_error_with_python/)
-- [What new in Starlite 1.1](https://www.reddit.com/r/Python/comments/ssbfjk/what_new_in_starlite_11/)
-- [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://www.reddit.com/r/Python/comments/ssalk2/upcoming_python_features_brought_to_you_by_python/)
-- [Predicting English Premier League games based on Transfermarkt market values for the home and away team. It’s fascinating how close we can get to the bookies’ prediction with such a simple model. This proves the impact money has on the game of Football &lpar;Soccer&rpar;.](https://www.reddit.com/r/Python/comments/ssa671/predicting_english_premier_league_games_based_on/)
+- [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/ssfjao/python_cybersecurity_build_your_own_python_tools/)
+- [Edge Detection using Trackbars](https://www.reddit.com/r/Python/comments/ssfj2c/edge_detection_using_trackbars/)
+- [SW developer in Test](https://www.reddit.com/r/Python/comments/ssfgns/sw_developer_in_test/)
+- [Python Automation Project: Make a Mortgage Loan Analyzer Class](https://www.reddit.com/r/Python/comments/ssfcgx/python_automation_project_make_a_mortgage_loan/)
+- [from pypi import ...](https://www.reddit.com/r/Python/comments/ssf38w/from_pypi_import/)
 <!-- BLOG-POST-LIST:END -->
