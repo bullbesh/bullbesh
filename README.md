@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Tutorial] How color is altered in images](https://www.reddit.com/r/Python/comments/ss4e67/tutorial_how_color_is_altered_in_images/)
 - [Next steps for audio transcription side project.](https://www.reddit.com/r/Python/comments/ss2nm5/next_steps_for_audio_transcription_side_project/)
 - [Zoom Automated Login](https://www.reddit.com/r/Python/comments/srz9bm/zoom_automated_login/)
 - [Compare letters in 2 strings, return integer of how many match](https://www.reddit.com/r/Python/comments/sry60h/compare_letters_in_2_strings_return_integer_of/)
 - [Logistic Regression AI beats Flappy Bird](https://www.reddit.com/r/Python/comments/srx91t/logistic_regression_ai_beats_flappy_bird/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/srwqd7/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
