@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [To show use case of my library, I made a tutorial using it where you learn how to make a self Instagram page building bot that downloads post from reddit and uploads them to Instagram automatically under 50 lines of code.](https://www.reddit.com/r/Python/comments/ss60gg/to_show_use_case_of_my_library_i_made_a_tutorial/)
+- [A bot to play Wordle](https://www.reddit.com/r/Python/comments/ss5z4g/a_bot_to_play_wordle/)
+- [Someone Find Joe](https://www.reddit.com/r/Python/comments/ss5rlt/someone_find_joe/)
 - [[Tutorial] How color is altered in images](https://www.reddit.com/r/Python/comments/ss4e67/tutorial_how_color_is_altered_in_images/)
 - [Next steps for audio transcription side project.](https://www.reddit.com/r/Python/comments/ss2nm5/next_steps_for_audio_transcription_side_project/)
-- [Zoom Automated Login](https://www.reddit.com/r/Python/comments/srz9bm/zoom_automated_login/)
-- [Compare letters in 2 strings, return integer of how many match](https://www.reddit.com/r/Python/comments/sry60h/compare_letters_in_2_strings_return_integer_of/)
-- [Logistic Regression AI beats Flappy Bird](https://www.reddit.com/r/Python/comments/srx91t/logistic_regression_ai_beats_flappy_bird/)
 <!-- BLOG-POST-LIST:END -->
