@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do really popular libraries ever become part of vanilla Python?](https://www.reddit.com/r/Python/comments/ssk657/do_really_popular_libraries_ever_become_part_of/)
+- [ViperDB](https://www.reddit.com/r/Python/comments/ssjotv/viperdb/)
+- [Sanic Security: An effective, simple, and async security library for the Sanic framework.](https://www.reddit.com/r/Python/comments/ssjjen/sanic_security_an_effective_simple_and_async/)
+- [matplotlove - plotting hearts for Valentine&#39;s Day with Matplotlib](https://www.reddit.com/r/Python/comments/ssjhsh/matplotlove_plotting_hearts_for_valentines_day/)
 - [Node2Vec Explained &amp; Implemented in Python](https://www.reddit.com/r/Python/comments/ssil22/node2vec_explained_implemented_in_python/)
-- [Exploring constructor: __new__ vs __init__](https://www.reddit.com/r/Python/comments/ssif0j/exploring_constructor_new_vs_init/)
-- [Brushing up my python3 skills... which of Python &gt;3.6 newer features are most useful? Which ones make programs overall better?](https://www.reddit.com/r/Python/comments/ssi2wr/brushing_up_my_python3_skills_which_of_python_36/)
-- [Research opportunity: Python + Copilot. Seeking participants!](https://www.reddit.com/r/Python/comments/ssgtla/research_opportunity_python_copilot_seeking/)
-- [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/ssfjao/python_cybersecurity_build_your_own_python_tools/)
 <!-- BLOG-POST-LIST:END -->
