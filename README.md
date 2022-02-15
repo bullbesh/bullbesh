@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Book recommendation that will help me apply Python in Data Analysis.](https://www.reddit.com/r/Python/comments/starnm/book_recommendation_that_will_help_me_apply/)
+- [Need advice](https://www.reddit.com/r/Python/comments/sta1oc/need_advice/)
+- [Hunt Down Social Media Accounts With Python Sherlock](https://www.reddit.com/r/Python/comments/st9pt2/hunt_down_social_media_accounts_with_python/)
+- [I made a CLI based script for using a Kanban in Notion](https://www.reddit.com/r/Python/comments/st9kjy/i_made_a_cli_based_script_for_using_a_kanban_in/)
 - [Are there etnry or beginner roles to get into Python?](https://www.reddit.com/r/Python/comments/st97fd/are_there_etnry_or_beginner_roles_to_get_into/)
-- [Getting Started with Python in 2022 - pyenv + poetry](https://www.reddit.com/r/Python/comments/st8u6v/getting_started_with_python_in_2022_pyenv_poetry/)
-- [Any python project ideas involving regular expressions ?](https://www.reddit.com/r/Python/comments/st6o5o/any_python_project_ideas_involving_regular/)
-- [check writing](https://www.reddit.com/r/Python/comments/st6nox/check_writing/)
-- [8 Tips To Efficiently Log and Track Machine Learning Experiments with Python and MLflow](https://www.reddit.com/r/Python/comments/st59xp/8_tips_to_efficiently_log_and_track_machine/)
 <!-- BLOG-POST-LIST:END -->
