@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for Business](https://www.reddit.com/r/Python/comments/ssy7e4/python_for_business/)
 - [Analyzing Bearable data export with Python](https://www.reddit.com/r/Python/comments/ssxcgg/analyzing_bearable_data_export_with_python/)
 - [SMOP Matlab to python error](https://www.reddit.com/r/Python/comments/ssvt9g/smop_matlab_to_python_error/)
 - [Launch a beautiful projector in under 10 lines of code!](https://www.reddit.com/r/Python/comments/ssv5dr/launch_a_beautiful_projector_in_under_10_lines_of/)
 - [High Performance subset of python](https://www.reddit.com/r/Python/comments/ssupr5/high_performance_subset_of_python/)
-- [Free Beginner Python and Applications of Python Course &lpar;Data Structures and Algorithms&rpar;](https://www.reddit.com/r/Python/comments/ssqwrw/free_beginner_python_and_applications_of_python/)
 <!-- BLOG-POST-LIST:END -->
