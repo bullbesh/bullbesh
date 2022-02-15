@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a CLI-version of Wordle in Python using Blessed!](https://www.reddit.com/r/Python/comments/st1amy/i_made_a_cliversion_of_wordle_in_python_using/)
 - [I created a fun Python project using ML to summarize lectures](https://www.reddit.com/r/Python/comments/sszlv8/i_created_a_fun_python_project_using_ml_to/)
 - [Wireshark-like display filter for python dictionaries.](https://www.reddit.com/r/Python/comments/sszlrx/wiresharklike_display_filter_for_python/)
 - [Python for Business](https://www.reddit.com/r/Python/comments/ssy7e4/python_for_business/)
 - [Analyzing Bearable data export with Python](https://www.reddit.com/r/Python/comments/ssxcgg/analyzing_bearable_data_export_with_python/)
-- [SMOP Matlab to python error](https://www.reddit.com/r/Python/comments/ssvt9g/smop_matlab_to_python_error/)
 <!-- BLOG-POST-LIST:END -->
