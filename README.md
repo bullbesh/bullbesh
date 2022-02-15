@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Full-stack devs are in vogue now, but the future will see a major shift toward specialization in back end.&quot; The former CTO of GitHub predicts that with increasing product complexity, the future of programming will see the decline of full-stack engineers](https://www.reddit.com/r/Python/comments/ste1yj/fullstack_devs_are_in_vogue_now_but_the_future/)
 - [The fastest way to value stocks, ever.](https://www.reddit.com/r/Python/comments/stdj1e/the_fastest_way_to_value_stocks_ever/)
-- [I created a tool to create corrupted files](https://www.reddit.com/r/Python/comments/stbk7g/i_created_a_tool_to_create_corrupted_files/)
 - [Chrono24 scrapper](https://www.reddit.com/r/Python/comments/stbdmz/chrono24_scrapper/)
 - [Book recommendation that will help me apply Python in Data Analysis.](https://www.reddit.com/r/Python/comments/starnm/book_recommendation_that_will_help_me_apply/)
 - [Hunt Down Social Media Accounts With Python Sherlock](https://www.reddit.com/r/Python/comments/st9pt2/hunt_down_social_media_accounts_with_python/)
