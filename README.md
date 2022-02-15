@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SMOP Matlab to python error](https://www.reddit.com/r/Python/comments/ssvt9g/smop_matlab_to_python_error/)
 - [Launch a beautiful projector in under 10 lines of code!](https://www.reddit.com/r/Python/comments/ssv5dr/launch_a_beautiful_projector_in_under_10_lines_of/)
 - [High Performance subset of python](https://www.reddit.com/r/Python/comments/ssupr5/high_performance_subset_of_python/)
-- [problem with array python](https://www.reddit.com/r/Python/comments/sst8i7/problem_with_array_python/)
 - [Free Beginner Python and Applications of Python Course &lpar;Data Structures and Algorithms&rpar;](https://www.reddit.com/r/Python/comments/ssqwrw/free_beginner_python_and_applications_of_python/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/ssox37/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
