@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [problem with array python](https://www.reddit.com/r/Python/comments/sst8i7/problem_with_array_python/)
 - [Free Beginner Python and Applications of Python Course &lpar;Data Structures and Algorithms&rpar;](https://www.reddit.com/r/Python/comments/ssqwrw/free_beginner_python_and_applications_of_python/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/ssox37/tuesday_daily_thread_advanced_questions/)
 - [PyBridge 1.3 - Release](https://www.reddit.com/r/Python/comments/ssmvj6/pybridge_13_release/)
 - [Learning Python](https://www.reddit.com/r/Python/comments/sskjg6/learning_python/)
-- [Do really popular libraries ever become part of vanilla Python?](https://www.reddit.com/r/Python/comments/ssk657/do_really_popular_libraries_ever_become_part_of/)
 <!-- BLOG-POST-LIST:END -->
