@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Detectron2 DA-RetinaNet](https://www.reddit.com/r/Python/comments/st3lao/detectron2_daretinanet/)
+- [Python&#39;s zipfile: Manipulate Your ZIP Files Efficiently – Real Python](https://www.reddit.com/r/Python/comments/st3gw6/pythons_zipfile_manipulate_your_zip_files/)
+- [python projects for beginners?](https://www.reddit.com/r/Python/comments/st3gh7/python_projects_for_beginners/)
+- [A FastAPI&#39;s dependency injection clone](https://www.reddit.com/r/Python/comments/st38qy/a_fastapis_dependency_injection_clone/)
 - [How to speed up a pandas query 10x with 6 Dask DataFrame tricks](https://www.reddit.com/r/Python/comments/st2my8/how_to_speed_up_a_pandas_query_10x_with_6_dask/)
-- [I made a CLI-version of Wordle in Python using Blessed!](https://www.reddit.com/r/Python/comments/st1amy/i_made_a_cliversion_of_wordle_in_python_using/)
-- [I created a fun Python project using ML to summarize lectures](https://www.reddit.com/r/Python/comments/sszlv8/i_created_a_fun_python_project_using_ml_to/)
-- [Wireshark-like display filter for python dictionaries.](https://www.reddit.com/r/Python/comments/sszlrx/wiresharklike_display_filter_for_python/)
-- [Python for Business](https://www.reddit.com/r/Python/comments/ssy7e4/python_for_business/)
 <!-- BLOG-POST-LIST:END -->
