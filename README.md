@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Check out the Python on Microcontrollers newsletter, out every Tuesday](https://www.reddit.com/r/Python/comments/st48uf/check_out_the_python_on_microcontrollers/)
 - [Detectron2 DA-RetinaNet](https://www.reddit.com/r/Python/comments/st3lao/detectron2_daretinanet/)
 - [Python&#39;s zipfile: Manipulate Your ZIP Files Efficiently – Real Python](https://www.reddit.com/r/Python/comments/st3gw6/pythons_zipfile_manipulate_your_zip_files/)
 - [python projects for beginners?](https://www.reddit.com/r/Python/comments/st3gh7/python_projects_for_beginners/)
 - [A FastAPI&#39;s dependency injection clone](https://www.reddit.com/r/Python/comments/st38qy/a_fastapis_dependency_injection_clone/)
-- [How to speed up a pandas query 10x with 6 Dask DataFrame tricks](https://www.reddit.com/r/Python/comments/st2my8/how_to_speed_up_a_pandas_query_10x_with_6_dask/)
 <!-- BLOG-POST-LIST:END -->
