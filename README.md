@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [3% of 666 Python codebases we checked had a silently failing unit test](https://www.reddit.com/r/Python/comments/stk6ik/3_of_666_python_codebases_we_checked_had_a/)
+- [I created ProperJPG: A CLI app to optimize images for the web](https://www.reddit.com/r/Python/comments/stj9od/i_created_properjpg_a_cli_app_to_optimize_images/)
 - [Pstock-python: Yet another Unofficial yahoo-finance API but async and with pydantic ^^](https://www.reddit.com/r/Python/comments/sthwua/pstockpython_yet_another_unofficial_yahoofinance/)
 - [Top 350 Movies of all time. How many of them have you seen? Check out this python CLI app.](https://www.reddit.com/r/Python/comments/sthqhg/top_350_movies_of_all_time_how_many_of_them_have/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/sthcvt/wednesday_daily_thread_beginner_questions/)
-- [Beginner - Question about importing libraries](https://www.reddit.com/r/Python/comments/sth705/beginner_question_about_importing_libraries/)
-- [Python Certificates](https://www.reddit.com/r/Python/comments/stgygw/python_certificates/)
 <!-- BLOG-POST-LIST:END -->
