@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python implementation of the Vernam Cipher.](https://www.reddit.com/r/Python/comments/su2rcp/a_python_implementation_of_the_vernam_cipher/)
 - [How shutil.copy function copies file from remote server to local ?](https://www.reddit.com/r/Python/comments/su1m3v/how_shutilcopy_function_copies_file_from_remote/)
 - [Schedule runs in Python](https://www.reddit.com/r/Python/comments/su0zkb/schedule_runs_in_python/)
 - [Python binaries](https://www.reddit.com/r/Python/comments/su0c8f/python_binaries/)
 - [Did you hear about deep learning? Here is answer in animated form :-&rpar;](https://www.reddit.com/r/Python/comments/stwm79/did_you_hear_about_deep_learning_here_is_answer/)
-- [Sudoku Solver with Python &amp; Algorithm Optimization](https://www.reddit.com/r/Python/comments/stwg85/sudoku_solver_with_python_algorithm_optimization/)
 <!-- BLOG-POST-LIST:END -->
