@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [asyncio.TaskGroup and ExceptionGroup to be added to Python 3.11](https://www.reddit.com/r/Python/comments/stvoff/asynciotaskgroup_and_exceptiongroup_to_be_added/)
 - [SelSearch - A tool that automates searching selected text in any application on Google, DeepL, WordReference and others.](https://www.reddit.com/r/Python/comments/stu4mq/selsearch_a_tool_that_automates_searching/)
 - [Check out the new wallpaper maker I coded using python:](https://www.reddit.com/r/Python/comments/stqk9s/check_out_the_new_wallpaper_maker_i_coded_using/)
 - [Does anyone have a good flask-based issue tracker? Looking for a fun way to tracker my kids ideas and issues they have on their big school projects](https://www.reddit.com/r/Python/comments/stqa1o/does_anyone_have_a_good_flaskbased_issue_tracker/)
 - [Betsy The incy-wincy Python static dependencies crawler](https://www.reddit.com/r/Python/comments/stpz30/betsy_the_incywincy_python_static_dependencies/)
-- [Does anyone know of any good repos/projects for code based 3d art or design?](https://www.reddit.com/r/Python/comments/sto8ap/does_anyone_know_of_any_good_reposprojects_for/)
 <!-- BLOG-POST-LIST:END -->
