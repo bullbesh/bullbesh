@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Added VTT to Pypi](https://www.reddit.com/r/Python/comments/su7vq6/added_vtt_to_pypi/)
+- [8 Excellent Python Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/su7hwm/8_excellent_python_courses_on_udemy_2022/)
+- [I am working on an interactive xterm color picker for PyTermGUI!](https://www.reddit.com/r/Python/comments/su6xg0/i_am_working_on_an_interactive_xterm_color_picker/)
 - [Useful Techniques for Code Golf in Python](https://www.reddit.com/r/Python/comments/su6aqp/useful_techniques_for_code_golf_in_python/)
 - [Cityscapes - foggy cityscapes Domain Adaptation](https://www.reddit.com/r/Python/comments/su67yw/cityscapes_foggy_cityscapes_domain_adaptation/)
-- [Why is python so popular when it runs like a donkey and it so easy to learn, and is no where near as good as c,c++,java,GO or rust??](https://www.reddit.com/r/Python/comments/su5xqz/why_is_python_so_popular_when_it_runs_like_a/)
-- [Where do you keep track of new python features/proposals/etc?](https://www.reddit.com/r/Python/comments/su5o6u/where_do_you_keep_track_of_new_python/)
-- [How to automate uploading files to the website?](https://www.reddit.com/r/Python/comments/su53pa/how_to_automate_uploading_files_to_the_website/)
 <!-- BLOG-POST-LIST:END -->
