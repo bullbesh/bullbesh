@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Check out the new wallpaper maker I coded using python:](https://www.reddit.com/r/Python/comments/stqk9s/check_out_the_new_wallpaper_maker_i_coded_using/)
+- [Does anyone have a good flask-based issue tracker? Looking for a fun way to tracker my kids ideas and issues they have on their big school projects](https://www.reddit.com/r/Python/comments/stqa1o/does_anyone_have_a_good_flaskbased_issue_tracker/)
+- [Betsy The incy-wincy Python static dependencies crawler](https://www.reddit.com/r/Python/comments/stpz30/betsy_the_incywincy_python_static_dependencies/)
 - [Does anyone know of any good repos/projects for code based 3d art or design?](https://www.reddit.com/r/Python/comments/sto8ap/does_anyone_know_of_any_good_reposprojects_for/)
 - [Intro to Python Programming – Python Turtle Tutorial](https://www.reddit.com/r/Python/comments/stmh3n/intro_to_python_programming_python_turtle_tutorial/)
-- [Using Python and PyGame to construct and Idle Clicker game like Adventure Capitalist!](https://www.reddit.com/r/Python/comments/stkuo1/using_python_and_pygame_to_construct_and_idle/)
-- [3% of 666 Python codebases we checked had a silently failing unit test](https://www.reddit.com/r/Python/comments/stk6ik/3_of_666_python_codebases_we_checked_had_a/)
-- [I created ProperJPG: A CLI app to optimize images for the web](https://www.reddit.com/r/Python/comments/stj9od/i_created_properjpg_a_cli_app_to_optimize_images/)
 <!-- BLOG-POST-LIST:END -->
