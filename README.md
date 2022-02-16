@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Useful Techniques for Code Golf in Python](https://www.reddit.com/r/Python/comments/su6aqp/useful_techniques_for_code_golf_in_python/)
+- [Cityscapes - foggy cityscapes Domain Adaptation](https://www.reddit.com/r/Python/comments/su67yw/cityscapes_foggy_cityscapes_domain_adaptation/)
+- [Why is python so popular when it runs like a donkey and it so easy to learn, and is no where near as good as c,c++,java,GO or rust??](https://www.reddit.com/r/Python/comments/su5xqz/why_is_python_so_popular_when_it_runs_like_a/)
+- [Where do you keep track of new python features/proposals/etc?](https://www.reddit.com/r/Python/comments/su5o6u/where_do_you_keep_track_of_new_python/)
 - [How to automate uploading files to the website?](https://www.reddit.com/r/Python/comments/su53pa/how_to_automate_uploading_files_to_the_website/)
-- [Project Symptoms-Disease Network](https://www.reddit.com/r/Python/comments/su3wg4/project_symptomsdisease_network/)
-- [A Python implementation of the Vernam Cipher.](https://www.reddit.com/r/Python/comments/su2rcp/a_python_implementation_of_the_vernam_cipher/)
-- [Did you hear about deep learning? Here is answer in animated form :-&rpar;](https://www.reddit.com/r/Python/comments/stwm79/did_you_hear_about_deep_learning_here_is_answer/)
-- [Sudoku Solver with Python &amp; Algorithm Optimization](https://www.reddit.com/r/Python/comments/stwg85/sudoku_solver_with_python_algorithm_optimization/)
 <!-- BLOG-POST-LIST:END -->
