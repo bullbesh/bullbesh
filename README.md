@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [python operators in hindi](https://www.reddit.com/r/Python/comments/sulcak/python_operators_in_hindi/)
+- [How to perform Web scraping with Python?](https://www.reddit.com/r/Python/comments/sukp4v/how_to_perform_web_scraping_with_python/)
 - [SENTIMENT ANALYSIS WITH PYTHON&#39;s NLTK LIBRARY](https://www.reddit.com/r/Python/comments/sukb7t/sentiment_analysis_with_pythons_nltk_library/)
 - [GET STARTED WITH TOPIC MODELLING USING GENSIM IN NLP](https://www.reddit.com/r/Python/comments/sukann/get_started_with_topic_modelling_using_gensim_in/)
 - [SWAHILI TEXT CLASSIFICATION USING TRANSFORMERS](https://www.reddit.com/r/Python/comments/suk8vc/swahili_text_classification_using_transformers/)
-- [ASCII-fy any image](https://www.reddit.com/r/Python/comments/suhd2d/asciify_any_image/)
-- [I want to run this loop but it skips all the condition](https://www.reddit.com/r/Python/comments/suf3lh/i_want_to_run_this_loop_but_it_skips_all_the/)
 <!-- BLOG-POST-LIST:END -->
