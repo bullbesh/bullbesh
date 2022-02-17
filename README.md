@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SENTIMENT ANALYSIS WITH PYTHON&#39;s NLTK LIBRARY](https://www.reddit.com/r/Python/comments/sukb7t/sentiment_analysis_with_pythons_nltk_library/)
+- [GET STARTED WITH TOPIC MODELLING USING GENSIM IN NLP](https://www.reddit.com/r/Python/comments/sukann/get_started_with_topic_modelling_using_gensim_in/)
+- [SWAHILI TEXT CLASSIFICATION USING TRANSFORMERS](https://www.reddit.com/r/Python/comments/suk8vc/swahili_text_classification_using_transformers/)
 - [ASCII-fy any image](https://www.reddit.com/r/Python/comments/suhd2d/asciify_any_image/)
 - [I want to run this loop but it skips all the condition](https://www.reddit.com/r/Python/comments/suf3lh/i_want_to_run_this_loop_but_it_skips_all_the/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/suadpu/thursday_daily_thread_python_careers_courses_and/)
-- [Python Tutorial - Convert Images Into Pencil Sketch Using Python](https://www.reddit.com/r/Python/comments/su9m9n/python_tutorial_convert_images_into_pencil_sketch/)
-- [Added VTT to Pypi](https://www.reddit.com/r/Python/comments/su7vq6/added_vtt_to_pypi/)
 <!-- BLOG-POST-LIST:END -->
