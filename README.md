@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Django Login using Access &amp; Refresh Tokens](https://www.reddit.com/r/Python/comments/surchu/django_login_using_access_refresh_tokens/)
-- [How do I choose an outsourcing Python development company?](https://www.reddit.com/r/Python/comments/suqzep/how_do_i_choose_an_outsourcing_python_development/)
-- [Build your own Wordle in Python using PyGame](https://www.reddit.com/r/Python/comments/suopi4/build_your_own_wordle_in_python_using_pygame/)
-- [My first project I did on my own - Gridlock Encryption](https://www.reddit.com/r/Python/comments/suoeyo/my_first_project_i_did_on_my_own_gridlock/)
-- [A Probabilistic Simulation of Compton Scattering Using the Klein Nishina Equation in Python: Finding Proportion of Energy Given to Electron After Scattering](https://www.reddit.com/r/Python/comments/sun8af/a_probabilistic_simulation_of_compton_scattering/)
+- [Social Experiment!](https://www.reddit.com/r/Python/comments/suu0zv/social_experiment/)
+- [Made this Urban Dictionary Telegram Bot to look up meanings of slang terms](https://www.reddit.com/r/Python/comments/suty71/made_this_urban_dictionary_telegram_bot_to_look/)
+- [We developed a Wordle-like web game, called Pordle, for you to learn Python, one package a day &lpar;game source code included&rpar;](https://www.reddit.com/r/Python/comments/sutjqo/we_developed_a_wordlelike_web_game_called_pordle/)
+- [Looking for help](https://www.reddit.com/r/Python/comments/sutj5t/looking_for_help/)
+- [Vs Code automatically added &quot;from this import d&quot; at the beginning of the python file](https://www.reddit.com/r/Python/comments/sutgy7/vs_code_automatically_added_from_this_import_d_at/)
 <!-- BLOG-POST-LIST:END -->
