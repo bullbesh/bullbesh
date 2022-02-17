@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [HELP WANTED: Flexible Tutor/Troubleshooter](https://www.reddit.com/r/Python/comments/suz39g/help_wanted_flexible_tutortroubleshooter/)
+- [How would you parse this address?](https://www.reddit.com/r/Python/comments/suzuwh/how_would_you_parse_this_address/)
 - [Python Pint vs. raku Physics::Unit Comparison Table](https://www.reddit.com/r/Python/comments/suv3ng/python_pint_vs_raku_physicsunit_comparison_table/)
 - [I built an &quot;anomaly detection&quot; ML model w/ thermal images using Edge Impulse and a Raspberry Pi Zero 2, all wired up with Python. Generated inferences sent to the cloud via Blues Wireless cellular Notecard and an Ubidots dashboard.](https://www.reddit.com/r/Python/comments/suuxns/i_built_an_anomaly_detection_ml_model_w_thermal/)
 - [Made this Urban Dictionary Telegram Bot to look up meanings of slang terms](https://www.reddit.com/r/Python/comments/suty71/made_this_urban_dictionary_telegram_bot_to_look/)
