@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Crossword Creator, my first big Python project](https://www.reddit.com/r/Python/comments/sum52o/crossword_creator_my_first_big_python_project/)
+- [Our “Python Interactive Course” with dozens of challenges/quizzes is FREE for 3 months if you sign up in the next 30 days [Credit Card NOT Required]](https://www.reddit.com/r/Python/comments/sum140/our_python_interactive_course_with_dozens_of/)
 - [python operators in hindi](https://www.reddit.com/r/Python/comments/sulcak/python_operators_in_hindi/)
 - [How to perform Web scraping with Python?](https://www.reddit.com/r/Python/comments/sukp4v/how_to_perform_web_scraping_with_python/)
 - [SENTIMENT ANALYSIS WITH PYTHON&#39;s NLTK LIBRARY](https://www.reddit.com/r/Python/comments/sukb7t/sentiment_analysis_with_pythons_nltk_library/)
-- [GET STARTED WITH TOPIC MODELLING USING GENSIM IN NLP](https://www.reddit.com/r/Python/comments/sukann/get_started_with_topic_modelling_using_gensim_in/)
-- [SWAHILI TEXT CLASSIFICATION USING TRANSFORMERS](https://www.reddit.com/r/Python/comments/suk8vc/swahili_text_classification_using_transformers/)
 <!-- BLOG-POST-LIST:END -->
