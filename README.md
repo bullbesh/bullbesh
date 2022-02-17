@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django Login using Access &amp; Refresh Tokens](https://www.reddit.com/r/Python/comments/surchu/django_login_using_access_refresh_tokens/)
 - [How do I choose an outsourcing Python development company?](https://www.reddit.com/r/Python/comments/suqzep/how_do_i_choose_an_outsourcing_python_development/)
 - [Build your own Wordle in Python using PyGame](https://www.reddit.com/r/Python/comments/suopi4/build_your_own_wordle_in_python_using_pygame/)
 - [My first project I did on my own - Gridlock Encryption](https://www.reddit.com/r/Python/comments/suoeyo/my_first_project_i_did_on_my_own_gridlock/)
 - [A Probabilistic Simulation of Compton Scattering Using the Klein Nishina Equation in Python: Finding Proportion of Energy Given to Electron After Scattering](https://www.reddit.com/r/Python/comments/sun8af/a_probabilistic_simulation_of_compton_scattering/)
-- [Introduction to Technical Analysis in Python using TA-Lib](https://www.reddit.com/r/Python/comments/sun2sg/introduction_to_technical_analysis_in_python/)
 <!-- BLOG-POST-LIST:END -->
