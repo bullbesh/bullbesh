@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating mkdocs pages for datascience projects](https://www.reddit.com/r/Python/comments/sv2dso/creating_mkdocs_pages_for_datascience_projects/)
+- [I just launched a TwitterBot Handbook 📚 that is basically a tutorial on how to use Tweepy for basic interactions with the Twitter API](https://www.reddit.com/r/Python/comments/sv26hc/i_just_launched_a_twitterbot_handbook_that_is/)
+- [Hi all need Python help](https://www.reddit.com/r/Python/comments/sv1qou/hi_all_need_python_help/)
 - [How would you parse this address?](https://www.reddit.com/r/Python/comments/suzuwh/how_would_you_parse_this_address/)
 - [Python Pint vs. raku Physics::Unit Comparison Table](https://www.reddit.com/r/Python/comments/suv3ng/python_pint_vs_raku_physicsunit_comparison_table/)
-- [I built an &quot;anomaly detection&quot; ML model w/ thermal images using Edge Impulse and a Raspberry Pi Zero 2, all wired up with Python. Generated inferences sent to the cloud via Blues Wireless cellular Notecard and an Ubidots dashboard.](https://www.reddit.com/r/Python/comments/suuxns/i_built_an_anomaly_detection_ml_model_w_thermal/)
-- [Made this Urban Dictionary Telegram Bot to look up meanings of slang terms](https://www.reddit.com/r/Python/comments/suty71/made_this_urban_dictionary_telegram_bot_to_look/)
-- [We developed a Wordle-like web game, called Pordle, for you to learn Python, one package a day &lpar;game source code included&rpar;](https://www.reddit.com/r/Python/comments/sutjqo/we_developed_a_wordlelike_web_game_called_pordle/)
 <!-- BLOG-POST-LIST:END -->
