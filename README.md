@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build your own Wordle in Python using PyGame](https://www.reddit.com/r/Python/comments/suopi4/build_your_own_wordle_in_python_using_pygame/)
 - [Python: The Future](https://www.reddit.com/r/Python/comments/suojg0/python_the_future/)
 - [My first project I did on my own - Gridlock Encryption](https://www.reddit.com/r/Python/comments/suoeyo/my_first_project_i_did_on_my_own_gridlock/)
 - [Delimiter list to python list](https://www.reddit.com/r/Python/comments/sunuwm/delimiter_list_to_python_list/)
 - [Hello there. I already know some basics of c++. I&#39;m now planning to learn python. Can you please recommend me a free learning source source. I really appreciate if u share me a website to read or a video course.](https://www.reddit.com/r/Python/comments/sunaf7/hello_there_i_already_know_some_basics_of_c_im/)
-- [A Probabilistic Simulation of Compton Scattering Using the Klein Nishina Equation in Python: Finding Proportion of Energy Given to Electron After Scattering](https://www.reddit.com/r/Python/comments/sun8af/a_probabilistic_simulation_of_compton_scattering/)
 <!-- BLOG-POST-LIST:END -->
