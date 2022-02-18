@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Data Science with Python Course in ahmedabad| InsideAIML](https://www.reddit.com/r/Python/comments/svb9g3/best_data_science_with_python_course_in_ahmedabad/)
+- [Script to check ETH mining stats](https://www.reddit.com/r/Python/comments/svb96e/script_to_check_eth_mining_stats/)
 - [Bouncing balls animation with tkinter](https://www.reddit.com/r/Python/comments/sv9beg/bouncing_balls_animation_with_tkinter/)
 - [Boilerplate Project for MacOS Desktop App, Code-signing, and Packaging](https://www.reddit.com/r/Python/comments/sv7bdp/boilerplate_project_for_macos_desktop_app/)
 - [Learning Python To Crush Wordle.](https://www.reddit.com/r/Python/comments/sv6e7d/learning_python_to_crush_wordle/)
-- [Spock - Managing complex configurations any other way would be highly illogical...](https://www.reddit.com/r/Python/comments/sv4vwx/spock_managing_complex_configurations_any_other/)
-- [Kanye West Quote Generator](https://www.reddit.com/r/Python/comments/sv3r4v/kanye_west_quote_generator/)
 <!-- BLOG-POST-LIST:END -->
