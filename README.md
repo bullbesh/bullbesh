@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What does &quot;return-1&quot; mean in python?](https://www.reddit.com/r/Python/comments/svptns/what_does_return1_mean_in_python/)
-- [In Need of Libraries for building fault-tolerant pipelines](https://www.reddit.com/r/Python/comments/svpbai/in_need_of_libraries_for_building_faulttolerant/)
+- [More Intuitive Partial Function Application](https://www.reddit.com/r/Python/comments/svrbee/more_intuitive_partial_function_application/)
+- [How different is python concurrency vs. Golang concurrency?](https://www.reddit.com/r/Python/comments/svq874/how_different_is_python_concurrency_vs_golang/)
 - [I made a Virtual Keyboard, my first ever GUI based project in python](https://www.reddit.com/r/Python/comments/svoo79/i_made_a_virtual_keyboard_my_first_ever_gui_based/)
 - [Wordle Answer Helper](https://www.reddit.com/r/Python/comments/svoj93/wordle_answer_helper/)
 - [Financial Stock Analysis using the Python3 and the Yahoo Finance Python library - Implementation is made within Jupyter Notebook using the Anaconda data science platform](https://www.reddit.com/r/Python/comments/svm5d7/financial_stock_analysis_using_the_python3_and/)
