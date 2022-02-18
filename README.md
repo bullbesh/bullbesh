@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tech Events in Europe](https://www.reddit.com/r/Python/comments/svfcya/tech_events_in_europe/)
+- [My python learning app](https://www.reddit.com/r/Python/comments/svf8qj/my_python_learning_app/)
 - [Python for Business](https://www.reddit.com/r/Python/comments/sveb54/python_for_business/)
 - [Algebra-a python package for algebraic calculations](https://www.reddit.com/r/Python/comments/sve05f/algebraa_python_package_for_algebraic_calculations/)
 - [Poster_Maker, My first published python project](https://www.reddit.com/r/Python/comments/svd8xh/poster_maker_my_first_published_python_project/)
-- [Python for loop and while loop complete in Hindi | learn complete python...](https://www.reddit.com/r/Python/comments/svco3g/python_for_loop_and_while_loop_complete_in_hindi/)
-- [Terminology: a simpler alternative to Colorama](https://www.reddit.com/r/Python/comments/svc78z/terminology_a_simpler_alternative_to_colorama/)
 <!-- BLOG-POST-LIST:END -->
