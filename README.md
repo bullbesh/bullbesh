@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bouncing balls animation with tkinter](https://www.reddit.com/r/Python/comments/sv9beg/bouncing_balls_animation_with_tkinter/)
 - [Boilerplate Project for MacOS Desktop App, Code-signing, and Packaging](https://www.reddit.com/r/Python/comments/sv7bdp/boilerplate_project_for_macos_desktop_app/)
 - [Learning Python To Crush Wordle.](https://www.reddit.com/r/Python/comments/sv6e7d/learning_python_to_crush_wordle/)
 - [Spock - Managing complex configurations any other way would be highly illogical...](https://www.reddit.com/r/Python/comments/sv4vwx/spock_managing_complex_configurations_any_other/)
 - [Kanye West Quote Generator](https://www.reddit.com/r/Python/comments/sv3r4v/kanye_west_quote_generator/)
-- [How come everyone is saying that PyThOn Is SlOw when major FAANG like websites are built upon it?](https://www.reddit.com/r/Python/comments/sv3dki/how_come_everyone_is_saying_that_python_is_slow/)
 <!-- BLOG-POST-LIST:END -->
