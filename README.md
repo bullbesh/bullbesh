@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What does &quot;return-1&quot; mean in python?](https://www.reddit.com/r/Python/comments/svptns/what_does_return1_mean_in_python/)
+- [In Need of Libraries for building fault-tolerant pipelines](https://www.reddit.com/r/Python/comments/svpbai/in_need_of_libraries_for_building_faulttolerant/)
 - [I made a Virtual Keyboard, my first ever GUI based project in python](https://www.reddit.com/r/Python/comments/svoo79/i_made_a_virtual_keyboard_my_first_ever_gui_based/)
 - [Wordle Answer Helper](https://www.reddit.com/r/Python/comments/svoj93/wordle_answer_helper/)
 - [Financial Stock Analysis using the Python3 and the Yahoo Finance Python library - Implementation is made within Jupyter Notebook using the Anaconda data science platform](https://www.reddit.com/r/Python/comments/svm5d7/financial_stock_analysis_using_the_python3_and/)
-- [Code Cleanliness for Importing/exporting 2D Arrays from a txt file.](https://www.reddit.com/r/Python/comments/svltci/code_cleanliness_for_importingexporting_2d_arrays/)
-- [pyTermTk, a personal attempt to create a Python TUI](https://www.reddit.com/r/Python/comments/svl4wg/pytermtk_a_personal_attempt_to_create_a_python_tui/)
 <!-- BLOG-POST-LIST:END -->
