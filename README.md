@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for loop and while loop complete in Hindi | learn complete python...](https://www.reddit.com/r/Python/comments/svco3g/python_for_loop_and_while_loop_complete_in_hindi/)
+- [Terminology: a simpler alternative to Colorama](https://www.reddit.com/r/Python/comments/svc78z/terminology_a_simpler_alternative_to_colorama/)
 - [Best Data Science with Python Course in ahmedabad| InsideAIML](https://www.reddit.com/r/Python/comments/svb9g3/best_data_science_with_python_course_in_ahmedabad/)
 - [Script to check ETH mining stats](https://www.reddit.com/r/Python/comments/svb96e/script_to_check_eth_mining_stats/)
 - [Bouncing balls animation with tkinter](https://www.reddit.com/r/Python/comments/sv9beg/bouncing_balls_animation_with_tkinter/)
-- [Boilerplate Project for MacOS Desktop App, Code-signing, and Packaging](https://www.reddit.com/r/Python/comments/sv7bdp/boilerplate_project_for_macos_desktop_app/)
-- [Learning Python To Crush Wordle.](https://www.reddit.com/r/Python/comments/sv6e7d/learning_python_to_crush_wordle/)
 <!-- BLOG-POST-LIST:END -->
