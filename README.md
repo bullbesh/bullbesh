@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating mkdocs pages for datascience projects](https://www.reddit.com/r/Python/comments/sv2dso/creating_mkdocs_pages_for_datascience_projects/)
-- [I just launched a TwitterBot Handbook 📚 that is basically a tutorial on how to use Tweepy for basic interactions with the Twitter API](https://www.reddit.com/r/Python/comments/sv26hc/i_just_launched_a_twitterbot_handbook_that_is/)
-- [Hi all need Python help](https://www.reddit.com/r/Python/comments/sv1qou/hi_all_need_python_help/)
-- [How would you parse this address?](https://www.reddit.com/r/Python/comments/suzuwh/how_would_you_parse_this_address/)
-- [Python Pint vs. raku Physics::Unit Comparison Table](https://www.reddit.com/r/Python/comments/suv3ng/python_pint_vs_raku_physicsunit_comparison_table/)
+- [Spock - Managing complex configurations any other way would be highly illogical...](https://www.reddit.com/r/Python/comments/sv4vwx/spock_managing_complex_configurations_any_other/)
+- [Kanye West Quote Generator](https://www.reddit.com/r/Python/comments/sv3r4v/kanye_west_quote_generator/)
+- [How come everyone is saying that PyThOn Is SlOw when major FAANG like websites are built upon it?](https://www.reddit.com/r/Python/comments/sv3dki/how_come_everyone_is_saying_that_python_is_slow/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/sv3bzz/friday_daily_thread_free_chat_friday_daily_thread/)
+- [Tkinter day progress bar](https://www.reddit.com/r/Python/comments/sv2fku/tkinter_day_progress_bar/)
 <!-- BLOG-POST-LIST:END -->
