@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [End-to-End Tutorial on Combining AWS Lambda, Docker, and Python](https://www.reddit.com/r/Python/comments/svisdu/endtoend_tutorial_on_combining_aws_lambda_docker/)
 - [Friday Night Funkin in Python update 1.5 is out!](https://www.reddit.com/r/Python/comments/svh7gy/friday_night_funkin_in_python_update_15_is_out/)
 - [Tech Events in Europe](https://www.reddit.com/r/Python/comments/svfcya/tech_events_in_europe/)
 - [My python learning app](https://www.reddit.com/r/Python/comments/svf8qj/my_python_learning_app/)
 - [Python for Business](https://www.reddit.com/r/Python/comments/sveb54/python_for_business/)
-- [Algebra-a python package for algebraic calculations](https://www.reddit.com/r/Python/comments/sve05f/algebraa_python_package_for_algebraic_calculations/)
 <!-- BLOG-POST-LIST:END -->
