@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What time when we make a variable we should put &quot; &lpar; &rpar; &quot; after the equal?](https://www.reddit.com/r/Python/comments/sw7p03/what_time_when_we_make_a_variable_we_should_put/)
+- [3am mind boggle](https://www.reddit.com/r/Python/comments/sw71aa/3am_mind_boggle/)
 - [WatchParty-Python](https://www.reddit.com/r/Python/comments/sw6w32/watchpartypython/)
 - [Block scope](https://www.reddit.com/r/Python/comments/sw6nss/block_scope/)
 - [Made my first website w/ Django -&gt; A simple ToDo List app](https://www.reddit.com/r/Python/comments/sw63t4/made_my_first_website_w_django_a_simple_todo_list/)
-- [One liners for seemingly complex tasks](https://www.reddit.com/r/Python/comments/sw3d75/one_liners_for_seemingly_complex_tasks/)
-- [Researchers From Nankai and Stanford Propose ‘DeepDrug’: A Python Based Deep Learning Framework For Drug Relation Prediction](https://www.reddit.com/r/Python/comments/sw2sa2/researchers_from_nankai_and_stanford_propose/)
 <!-- BLOG-POST-LIST:END -->
