@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Space Science with Python - Interactive Asteroid Spectrum Viewer &lpar;ML Project&rpar;](https://www.reddit.com/r/Python/comments/swhzso/space_science_with_python_interactive_asteroid/)
 - [Python GUI project builder - PyQt, PySide, QT project setup wizard | Modern UI designing](https://www.reddit.com/r/Python/comments/swgxlc/python_gui_project_builder_pyqt_pyside_qt_project/)
-- [Do you make more as a python developer or do you get paid more being a java developer??](https://www.reddit.com/r/Python/comments/swgmdv/do_you_make_more_as_a_python_developer_or_do_you/)
-- [adding one cell value in sheet1 to a whole column in sheet 2 in openpyxl](https://www.reddit.com/r/Python/comments/swgfma/adding_one_cell_value_in_sheet1_to_a_whole_column/)
 - [cmc-py: Unofficial CoinMarketCap API and Python wrapper](https://www.reddit.com/r/Python/comments/swg5pw/cmcpy_unofficial_coinmarketcap_api_and_python/)
-- [Python Data Science Handbook, 2nd Edition](https://www.reddit.com/r/Python/comments/swfkcp/python_data_science_handbook_2nd_edition/)
+- [How to pass multiple lists to a function and compare!](https://www.reddit.com/r/Python/comments/swep03/how_to_pass_multiple_lists_to_a_function_and/)
+- [What would y&#39;all think about Python having arrow functions?](https://www.reddit.com/r/Python/comments/sweejk/what_would_yall_think_about_python_having_arrow/)
 <!-- BLOG-POST-LIST:END -->
