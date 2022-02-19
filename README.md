@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Space Science with Python - Interactive Asteroid Spectrum Viewer &lpar;ML Project&rpar;](https://www.reddit.com/r/Python/comments/swhzso/space_science_with_python_interactive_asteroid/)
-- [Python GUI project builder - PyQt, PySide, QT project setup wizard | Modern UI designing](https://www.reddit.com/r/Python/comments/swgxlc/python_gui_project_builder_pyqt_pyside_qt_project/)
-- [cmc-py: Unofficial CoinMarketCap API and Python wrapper](https://www.reddit.com/r/Python/comments/swg5pw/cmcpy_unofficial_coinmarketcap_api_and_python/)
-- [How to pass multiple lists to a function and compare!](https://www.reddit.com/r/Python/comments/swep03/how_to_pass_multiple_lists_to_a_function_and/)
-- [What would y&#39;all think about Python having arrow functions?](https://www.reddit.com/r/Python/comments/sweejk/what_would_yall_think_about_python_having_arrow/)
+- [What is the Future of Code?](https://www.reddit.com/r/Python/comments/swk4y3/what_is_the_future_of_code/)
+- [Apache Airflow for Beginners Tutorial Series](https://www.reddit.com/r/Python/comments/swjvh3/apache_airflow_for_beginners_tutorial_series/)
+- [Can someone explain to me in simple terms what the modulo operator does in Python?](https://www.reddit.com/r/Python/comments/swjknm/can_someone_explain_to_me_in_simple_terms_what/)
+- [OK so I worked out how to do remote GPIO for my Iron Man robot :&rpar; Now its simple!](https://www.reddit.com/r/Python/comments/swjge8/ok_so_i_worked_out_how_to_do_remote_gpio_for_my/)
+- [Give me advice](https://www.reddit.com/r/Python/comments/swjctj/give_me_advice/)
 <!-- BLOG-POST-LIST:END -->
