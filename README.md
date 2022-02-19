@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a tool to find and stream public/misconfigured security cams](https://www.reddit.com/r/Python/comments/svzwnh/i_made_a_tool_to_find_and_stream/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/svw848/saturday_daily_thread_resource_request_and/)
 - [Best practices on sharing python packages/modules internally](https://www.reddit.com/r/Python/comments/svsbo7/best_practices_on_sharing_python_packagesmodules/)
 - [More Intuitive Partial Function Application](https://www.reddit.com/r/Python/comments/svrbee/more_intuitive_partial_function_application/)
 - [How different is python concurrency vs. Golang concurrency?](https://www.reddit.com/r/Python/comments/svq874/how_different_is_python_concurrency_vs_golang/)
-- [I made a Virtual Keyboard, my first ever GUI based project in python](https://www.reddit.com/r/Python/comments/svoo79/i_made_a_virtual_keyboard_my_first_ever_gui_based/)
 <!-- BLOG-POST-LIST:END -->
