@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to pass multiple lists to a function and compare!](https://www.reddit.com/r/Python/comments/swep03/how_to_pass_multiple_lists_to_a_function_and/)
+- [What would y&#39;all think about Python having arrow functions?](https://www.reddit.com/r/Python/comments/sweejk/what_would_yall_think_about_python_having_arrow/)
 - [One cool live event by Geoffrey Hinton &lpar;Godfather of AI&rpar;, for free.](https://www.reddit.com/r/Python/comments/swdrar/one_cool_live_event_by_geoffrey_hinton_godfather/)
 - [How to reverse a Python list &lpar;3 methods&rpar;](https://www.reddit.com/r/Python/comments/swd6xd/how_to_reverse_a_python_list_3_methods/)
 - [My first Python code to mock my parents. Rate it :&rpar;](https://www.reddit.com/r/Python/comments/swc3kc/my_first_python_code_to_mock_my_parents_rate_it/)
-- [How to write better scientific code in Python?](https://www.reddit.com/r/Python/comments/swbopk/how_to_write_better_scientific_code_in_python/)
-- [I made a shop where you can easily download and upload CLI/TUI apps!](https://www.reddit.com/r/Python/comments/swaj4p/i_made_a_shop_where_you_can_easily_download_and/)
 <!-- BLOG-POST-LIST:END -->
