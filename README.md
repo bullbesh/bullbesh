@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first Python code to mock my parents. Rate it :&rpar;](https://www.reddit.com/r/Python/comments/swc3kc/my_first_python_code_to_mock_my_parents_rate_it/)
+- [How to write better scientific code in Python?](https://www.reddit.com/r/Python/comments/swbopk/how_to_write_better_scientific_code_in_python/)
 - [I made a shop where you can easily download and upload CLI/TUI apps!](https://www.reddit.com/r/Python/comments/swaj4p/i_made_a_shop_where_you_can_easily_download_and/)
 - [From C# to Python](https://www.reddit.com/r/Python/comments/sw939e/from_c_to_python/)
 - [What time when we make a variable we should put &quot; &lpar; &rpar; &quot; after the equal?](https://www.reddit.com/r/Python/comments/sw7p03/what_time_when_we_make_a_variable_we_should_put/)
-- [3am mind boggle](https://www.reddit.com/r/Python/comments/sw71aa/3am_mind_boggle/)
-- [WatchParty-Python](https://www.reddit.com/r/Python/comments/sw6w32/watchpartypython/)
 <!-- BLOG-POST-LIST:END -->
