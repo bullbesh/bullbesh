@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [InstaRecipe: Flask based APP on the Breakfast API that was posted 2 weeks ago](https://www.reddit.com/r/Python/comments/swyvm9/instarecipe_flask_based_app_on_the_breakfast_api/)
 - [Why such huge difference in runtime and memory between python3 and golang?](https://www.reddit.com/r/Python/comments/swy831/why_such_huge_difference_in_runtime_and_memory/)
 - [Colour Science for Python 0.4.0 is available](https://www.reddit.com/r/Python/comments/swy7mw/colour_science_for_python_040_is_available/)
 - [Virtual Environments and Package Management in Python](https://www.reddit.com/r/Python/comments/swy4ye/virtual_environments_and_package_management_in/)
 - [Smart card emulator](https://www.reddit.com/r/Python/comments/swwozb/smart_card_emulator/)
-- [Looking for technical co-founder](https://www.reddit.com/r/Python/comments/swwmw3/looking_for_technical_cofounder/)
 <!-- BLOG-POST-LIST:END -->
