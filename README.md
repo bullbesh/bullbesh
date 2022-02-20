@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What GUI framework I should use if I want to build a UI for a web scraping program?](https://www.reddit.com/r/Python/comments/swlfo5/what_gui_framework_i_should_use_if_i_want_to/)
-- [What&#39;s wrong here?](https://www.reddit.com/r/Python/comments/swksi4/whats_wrong_here/)
-- [Google colab &lpar;Not sure if this is the right subreddit&rpar;](https://www.reddit.com/r/Python/comments/swkiwy/google_colab_not_sure_if_this_is_the_right/)
+- [Python Tutorial for Beginners — Reddit Script To Post And Fetch Reddit Data](https://www.reddit.com/r/Python/comments/swo6zf/python_tutorial_for_beginners_reddit_script_to/)
+- [Is it ever useful to import from the `builtins` std lib?](https://www.reddit.com/r/Python/comments/swntei/is_it_ever_useful_to_import_from_the_builtins_std/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/swnk7c/sunday_daily_thread_whats_everyone_working_on/)
+- [API testing using request library](https://www.reddit.com/r/Python/comments/swmyy5/api_testing_using_request_library/)
 - [What is the Future of Code?](https://www.reddit.com/r/Python/comments/swk4y3/what_is_the_future_of_code/)
-- [Apache Airflow for Beginners Tutorial Series](https://www.reddit.com/r/Python/comments/swjvh3/apache_airflow_for_beginners_tutorial_series/)
 <!-- BLOG-POST-LIST:END -->
