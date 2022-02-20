@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python on the Blockchain](https://www.reddit.com/r/Python/comments/sx3zo1/python_on_the_blockchain/)
+- [Need advice](https://www.reddit.com/r/Python/comments/sx3p9y/need_advice/)
 - [Connect any controller to the Mindstorms EV3](https://www.reddit.com/r/Python/comments/sx39x0/connect_any_controller_to_the_mindstorms_ev3/)
 - [Here&#39;s Why JavaScript is Better Than Python For Beginners](https://www.reddit.com/r/Python/comments/sx2vvt/heres_why_javascript_is_better_than_python_for/)
 - [Announcing &quot;dude&quot; - A web scraper inspired by Flask syntax](https://www.reddit.com/r/Python/comments/sx1yf8/announcing_dude_a_web_scraper_inspired_by_flask/)
-- [I need help with my project](https://www.reddit.com/r/Python/comments/swzjqk/i_need_help_with_my_project/)
-- [Slicing a file the obviously implicit way: f.read&lpar;&rpar;[10:20]](https://www.reddit.com/r/Python/comments/swziyg/slicing_a_file_the_obviously_implicit_way/)
 <!-- BLOG-POST-LIST:END -->
