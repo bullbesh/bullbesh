@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Smart card emulator](https://www.reddit.com/r/Python/comments/swwozb/smart_card_emulator/)
+- [Looking for technical co-founder](https://www.reddit.com/r/Python/comments/swwmw3/looking_for_technical_cofounder/)
+- [My first web scraping project using Selenium and BeautifulSoup!](https://www.reddit.com/r/Python/comments/swwhzt/my_first_web_scraping_project_using_selenium_and/)
 - [Working With DynamoDB In Python Using Boto3](https://www.reddit.com/r/Python/comments/swuy1c/working_with_dynamodb_in_python_using_boto3/)
 - [Python Script to Buy Sandwiches with Bitcoin on the Lightning Network](https://www.reddit.com/r/Python/comments/swun60/python_script_to_buy_sandwiches_with_bitcoin_on/)
-- [PyPy v7.3.8 has been released, now with Python3.9](https://www.reddit.com/r/Python/comments/swud6p/pypy_v738_has_been_released_now_with_python39/)
-- [I made a chord progression suggester](https://www.reddit.com/r/Python/comments/swu5o1/i_made_a_chord_progression_suggester/)
-- [Starting with python at 30](https://www.reddit.com/r/Python/comments/swtb23/starting_with_python_at_30/)
 <!-- BLOG-POST-LIST:END -->
