@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Books?](https://www.reddit.com/r/Python/comments/swrgje/python_books/)
+- [Visualizing the K-means Clustering Algorithm](https://www.reddit.com/r/Python/comments/swrcv8/visualizing_the_kmeans_clustering_algorithm/)
+- [Possible to clear Windows COMs list with Python?](https://www.reddit.com/r/Python/comments/swqopb/possible_to_clear_windows_coms_list_with_python/)
 - [Python Tutorial for Beginners — Reddit Script To Post And Fetch Reddit Data](https://www.reddit.com/r/Python/comments/swo6zf/python_tutorial_for_beginners_reddit_script_to/)
 - [Is it ever useful to import from the `builtins` std lib?](https://www.reddit.com/r/Python/comments/swntei/is_it_ever_useful_to_import_from_the_builtins_std/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/swnk7c/sunday_daily_thread_whats_everyone_working_on/)
-- [API testing using request library](https://www.reddit.com/r/Python/comments/swmyy5/api_testing_using_request_library/)
-- [What is the Future of Code?](https://www.reddit.com/r/Python/comments/swk4y3/what_is_the_future_of_code/)
 <!-- BLOG-POST-LIST:END -->
