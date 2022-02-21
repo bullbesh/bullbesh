@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Announcing whatismyip, a Python 3 module for finding out your IP address.](https://www.reddit.com/r/Python/comments/sxhupg/announcing_whatismyip_a_python_3_module_for/)
-- [Geometry Generation: Dactyl-Manuform Keyboard](https://www.reddit.com/r/Python/comments/sxhiv6/geometry_generation_dactylmanuform_keyboard/)
-- [Python getters, setters and properties](https://www.reddit.com/r/Python/comments/sxhf1y/python_getters_setters_and_properties/)
-- [Where to start learning Python for a &#39;jack of all trades&#39; coder?](https://www.reddit.com/r/Python/comments/sxhafc/where_to_start_learning_python_for_a_jack_of_all/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/sxf7wy/monday_daily_thread_project_ideas/)
+- [A python script to search and download from 15k audiobooks for free](https://www.reddit.com/r/Python/comments/sxj8bx/a_python_script_to_search_and_download_from_15k/)
+- [Introduction to ‘TensorLayer’: A Python-based Versatile Deep Learning Library Designed for Machine Learning Researchers](https://www.reddit.com/r/Python/comments/sxj5kd/introduction_to_tensorlayer_a_pythonbased/)
+- [Python Tutorial - How to convert .py to .exe using auto-py-to-exe?](https://www.reddit.com/r/Python/comments/sxiu8p/python_tutorial_how_to_convert_py_to_exe_using/)
+- [Python Tutorial - Creating Your Own Audiobooks in Python](https://www.reddit.com/r/Python/comments/sxii5o/python_tutorial_creating_your_own_audiobooks_in/)
+- [An interesting way to print &quot;Hello World!&quot;](https://www.reddit.com/r/Python/comments/sxiava/an_interesting_way_to_print_hello_world/)
 <!-- BLOG-POST-LIST:END -->
