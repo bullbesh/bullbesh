@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web scraping](https://www.reddit.com/r/Python/comments/sy1ne5/web_scraping/)
+- [Generate code names using Wikipedia, aka neon-carrot-copenhagen](https://www.reddit.com/r/Python/comments/sy0p1q/generate_code_names_using_wikipedia_aka/)
+- [Integrate OpenLayers Map in VueJS](https://www.reddit.com/r/Python/comments/sy0lzu/integrate_openlayers_map_in_vuejs/)
 - [Algorithms and Data Structures FREE COURSE || Hash Tables Explained || Drawing + Coding a HashMap in Python](https://www.reddit.com/r/Python/comments/sxzyqx/algorithms_and_data_structures_free_course_hash/)
-- [Pycharm](https://www.reddit.com/r/Python/comments/sxzr9c/pycharm/)
 - [I created a two player Wordle using pygame &amp; sockets :&rpar;](https://www.reddit.com/r/Python/comments/sxzhjy/i_created_a_two_player_wordle_using_pygame_sockets/)
-- [React BillsApp Project with Material Ui and Context Api | Module -1 | Re...](https://www.reddit.com/r/Python/comments/sxzcgd/react_billsapp_project_with_material_ui_and/)
-- [Applying extra data in rows to a dataframe](https://www.reddit.com/r/Python/comments/sxz2vg/applying_extra_data_in_rows_to_a_dataframe/)
 <!-- BLOG-POST-LIST:END -->
