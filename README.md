@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Automation Project Mortgage Loan Analysis Application Part II](https://www.reddit.com/r/Python/comments/sy4p1l/python_automation_project_mortgage_loan_analysis/)
+- [A simple command line tool to back up your Spotify playlists.](https://www.reddit.com/r/Python/comments/sy46zb/a_simple_command_line_tool_to_back_up_your/)
+- [Ruminations on the problem of None.](https://www.reddit.com/r/Python/comments/sy42f5/ruminations_on_the_problem_of_none/)
 - [Your python 4 dream list.](https://www.reddit.com/r/Python/comments/sy369l/your_python_4_dream_list/)
 - [Python Tutorial - Automating Job Applications on LinkedIn](https://www.reddit.com/r/Python/comments/sy2jsu/python_tutorial_automating_job_applications_on/)
-- [Frozen Dataclasses in Python: Why and How](https://www.reddit.com/r/Python/comments/sy21g6/frozen_dataclasses_in_python_why_and_how/)
-- [Web scraping](https://www.reddit.com/r/Python/comments/sy1ne5/web_scraping/)
-- [Generate code names using Wikipedia, aka neon-carrot-copenhagen](https://www.reddit.com/r/Python/comments/sy0p1q/generate_code_names_using_wikipedia_aka/)
 <!-- BLOG-POST-LIST:END -->
