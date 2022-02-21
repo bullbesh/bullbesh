@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [An ESP32 walks into a bar - Jokes web API MicroPython tutorial](https://www.reddit.com/r/Python/comments/sxvc7q/an_esp32_walks_into_a_bar_jokes_web_api/)
-- [Monitoring Public Transportation with the Kafka Ecosystem – a demo project part of the Udacity “Data Streaming” Nanodegree. It contains data streaming workflows using Kafka Producers and Consumers, JSON and Avro serialization, Kafka Connect &lpar;JDBC&rpar;, REST Proxy, Robinhood Faust, and KSQL.](https://www.reddit.com/r/Python/comments/sxuu6f/monitoring_public_transportation_with_the_kafka/)
-- [New Sphinx theme](https://www.reddit.com/r/Python/comments/sxtp7h/new_sphinx_theme/)
-- [Bitcoin from Scratch With Python](https://www.reddit.com/r/Python/comments/sxtocb/bitcoin_from_scratch_with_python/)
-- [How To Build a Streamlit App To Extract Topics From YouTube Videos?](https://www.reddit.com/r/Python/comments/sxtkhx/how_to_build_a_streamlit_app_to_extract_topics/)
+- [ink display not working .TypeError: can&#39;t concat str to bytes](https://www.reddit.com/r/Python/comments/sxxkix/ink_display_not_working_typeerror_cant_concat_str/)
+- [Instagram hashtag-specific like bot in 10 lines of code!](https://www.reddit.com/r/Python/comments/sxxcb0/instagram_hashtagspecific_like_bot_in_10_lines_of/)
+- [How a project like Django or Flask gets so popular ? [Discussion]](https://www.reddit.com/r/Python/comments/sxxb6s/how_a_project_like_django_or_flask_gets_so/)
+- [Python Language Translation using Google Translator](https://www.reddit.com/r/Python/comments/sxx5xa/python_language_translation_using_google/)
+- [General Python Notes for Free &lpar;from variables to modules/Tkinter&rpar;](https://www.reddit.com/r/Python/comments/sxwv4e/general_python_notes_for_free_from_variables_to/)
 <!-- BLOG-POST-LIST:END -->
