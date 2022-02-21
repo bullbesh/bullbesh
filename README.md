@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/sxf7wy/monday_daily_thread_project_ideas/)
+- [CSS Button Glassmorphism Hover Animation Effects Using HTML &amp; CSS Only](https://www.reddit.com/r/Python/comments/sxem17/css_button_glassmorphism_hover_animation_effects/)
 - [Aashiq banaya AI ne || AI generates Love Quotes || AI Devlog](https://www.reddit.com/r/Python/comments/sxd0m9/aashiq_banaya_ai_ne_ai_generates_love_quotes_ai/)
 - [How fast did you start writing code in relatively big existent code base in a new job?](https://www.reddit.com/r/Python/comments/sx84ga/how_fast_did_you_start_writing_code_in_relatively/)
 - [made this urban dictionary telegram bot to look-up meanings and i think its quite cool, it was fun and challenging.](https://www.reddit.com/r/Python/comments/sx7sbj/made_this_urban_dictionary_telegram_bot_to_lookup/)
-- [Introduction to 3D game development with python using ursina](https://www.reddit.com/r/Python/comments/sx7pe2/introduction_to_3d_game_development_with_python/)
-- [Your strategies for offloading computation](https://www.reddit.com/r/Python/comments/sx5zjw/your_strategies_for_offloading_computation/)
 <!-- BLOG-POST-LIST:END -->
