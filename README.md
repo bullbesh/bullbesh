@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Top Python Libraries You Should Know Abou](https://www.reddit.com/r/Python/comments/sxl85b/top_python_libraries_you_should_know_abou/)
+- [I used Machine Learning to Measure weird Shapes in my Appartment](https://www.reddit.com/r/Python/comments/sxnaoi/i_used_machine_learning_to_measure_weird_shapes/)
+- [Unimport-A linter, formatter for finding and removing unused import statements.](https://www.reddit.com/r/Python/comments/sxn8vb/unimporta_linter_formatter_for_finding_and/)
+- [Capture The Python : A series of CTF styled challenges for Python learners](https://www.reddit.com/r/Python/comments/sxn4ye/capture_the_python_a_series_of_ctf_styled/)
 - [A python script to search and download from 15k audiobooks for free](https://www.reddit.com/r/Python/comments/sxj8bx/a_python_script_to_search_and_download_from_15k/)
 - [Introduction to ‘TensorLayer’: A Python-based Versatile Deep Learning Library Designed for Machine Learning Researchers](https://www.reddit.com/r/Python/comments/sxj5kd/introduction_to_tensorlayer_a_pythonbased/)
-- [Python Tutorial - How to convert .py to .exe using auto-py-to-exe?](https://www.reddit.com/r/Python/comments/sxiu8p/python_tutorial_how_to_convert_py_to_exe_using/)
-- [Python Tutorial - Creating Your Own Audiobooks in Python](https://www.reddit.com/r/Python/comments/sxii5o/python_tutorial_creating_your_own_audiobooks_in/)
 <!-- BLOG-POST-LIST:END -->
