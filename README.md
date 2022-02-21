@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [ink display not working .TypeError: can&#39;t concat str to bytes](https://www.reddit.com/r/Python/comments/sxxkix/ink_display_not_working_typeerror_cant_concat_str/)
+- [Python Cybersecurity — Zip File Password Cracker, which uses a password list to brute force the encrypted file also known as a dictionary attack](https://www.reddit.com/r/Python/comments/sxypcz/python_cybersecurity_zip_file_password_cracker/)
+- [Where do I start?](https://www.reddit.com/r/Python/comments/sxy8wu/where_do_i_start/)
+- [Using Arduino Capacitive touch sensor with Python](https://www.reddit.com/r/Python/comments/sxy819/using_arduino_capacitive_touch_sensor_with_python/)
+- [Python&#39;s Data Races, Despite the Global Interpreter Lock](https://www.reddit.com/r/Python/comments/sxy6g7/pythons_data_races_despite_the_global_interpreter/)
 - [Instagram hashtag-specific like bot in 10 lines of code!](https://www.reddit.com/r/Python/comments/sxxcb0/instagram_hashtagspecific_like_bot_in_10_lines_of/)
-- [How a project like Django or Flask gets so popular ? [Discussion]](https://www.reddit.com/r/Python/comments/sxxb6s/how_a_project_like_django_or_flask_gets_so/)
-- [Python Language Translation using Google Translator](https://www.reddit.com/r/Python/comments/sxx5xa/python_language_translation_using_google/)
-- [General Python Notes for Free &lpar;from variables to modules/Tkinter&rpar;](https://www.reddit.com/r/Python/comments/sxwv4e/general_python_notes_for_free_from_variables_to/)
 <!-- BLOG-POST-LIST:END -->
