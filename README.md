@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An ESP32 walks into a bar - Jokes web API MicroPython tutorial](https://www.reddit.com/r/Python/comments/sxvc7q/an_esp32_walks_into_a_bar_jokes_web_api/)
+- [Monitoring Public Transportation with the Kafka Ecosystem – a demo project part of the Udacity “Data Streaming” Nanodegree. It contains data streaming workflows using Kafka Producers and Consumers, JSON and Avro serialization, Kafka Connect &lpar;JDBC&rpar;, REST Proxy, Robinhood Faust, and KSQL.](https://www.reddit.com/r/Python/comments/sxuu6f/monitoring_public_transportation_with_the_kafka/)
 - [New Sphinx theme](https://www.reddit.com/r/Python/comments/sxtp7h/new_sphinx_theme/)
 - [Bitcoin from Scratch With Python](https://www.reddit.com/r/Python/comments/sxtocb/bitcoin_from_scratch_with_python/)
 - [How To Build a Streamlit App To Extract Topics From YouTube Videos?](https://www.reddit.com/r/Python/comments/sxtkhx/how_to_build_a_streamlit_app_to_extract_topics/)
-- [Data Science Benefits](https://www.reddit.com/r/Python/comments/sxt81x/data_science_benefits/)
-- [I made a Pokemon team calculator on Python!](https://www.reddit.com/r/Python/comments/sxt7ev/i_made_a_pokemon_team_calculator_on_python/)
 <!-- BLOG-POST-LIST:END -->
