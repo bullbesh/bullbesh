@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Cybersecurity — Zip File Password Cracker, which uses a password list to brute force the encrypted file also known as a dictionary attack](https://www.reddit.com/r/Python/comments/sxypcz/python_cybersecurity_zip_file_password_cracker/)
-- [Where do I start?](https://www.reddit.com/r/Python/comments/sxy8wu/where_do_i_start/)
-- [Using Arduino Capacitive touch sensor with Python](https://www.reddit.com/r/Python/comments/sxy819/using_arduino_capacitive_touch_sensor_with_python/)
-- [Python&#39;s Data Races, Despite the Global Interpreter Lock](https://www.reddit.com/r/Python/comments/sxy6g7/pythons_data_races_despite_the_global_interpreter/)
-- [Instagram hashtag-specific like bot in 10 lines of code!](https://www.reddit.com/r/Python/comments/sxxcb0/instagram_hashtagspecific_like_bot_in_10_lines_of/)
+- [Algorithms and Data Structures FREE COURSE || Hash Tables Explained || Drawing + Coding a HashMap in Python](https://www.reddit.com/r/Python/comments/sxzyqx/algorithms_and_data_structures_free_course_hash/)
+- [Pycharm](https://www.reddit.com/r/Python/comments/sxzr9c/pycharm/)
+- [I created a two player Wordle using pygame &amp; sockets :&rpar;](https://www.reddit.com/r/Python/comments/sxzhjy/i_created_a_two_player_wordle_using_pygame_sockets/)
+- [React BillsApp Project with Material Ui and Context Api | Module -1 | Re...](https://www.reddit.com/r/Python/comments/sxzcgd/react_billsapp_project_with_material_ui_and/)
+- [Applying extra data in rows to a dataframe](https://www.reddit.com/r/Python/comments/sxz2vg/applying_extra_data_in_rows_to_a_dataframe/)
 <!-- BLOG-POST-LIST:END -->
