@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Ubuntu Pyenv Installer](https://www.reddit.com/r/Python/comments/sxpaf1/ubuntu_pyenv_installer/)
-- [Which base container image do you use for your Python apps?](https://www.reddit.com/r/Python/comments/sxp5d3/which_base_container_image_do_you_use_for_your/)
-- [Async IO Tasks vs. Threads](https://www.reddit.com/r/Python/comments/sxovwp/async_io_tasks_vs_threads/)
-- [Could i get your feedback on this options trading web application i built 100% with the Plotly Dash library in Python?](https://www.reddit.com/r/Python/comments/sxnyjr/could_i_get_your_feedback_on_this_options_trading/)
-- [Python Selenium Tutorial #1 - Setup, Web scraping &amp; Testing](https://www.reddit.com/r/Python/comments/sxnxzk/python_selenium_tutorial_1_setup_web_scraping/)
+- [TUF or any alternative to sign pip packages?](https://www.reddit.com/r/Python/comments/sxpvr8/tuf_or_any_alternative_to_sign_pip_packages/)
+- [Here&#39;s a question - appsec solution for developers](https://www.reddit.com/r/Python/comments/sxpqfz/heres_a_question_appsec_solution_for_developers/)
+- [Hi! I’m learning python with mimo and I’m loving it. Anyone can learn…](https://www.reddit.com/r/Python/comments/sxpopn/hi_im_learning_python_with_mimo_and_im_loving_it/)
+- [When you are done with a virtual environment, can you just delete it?](https://www.reddit.com/r/Python/comments/sxpl71/when_you_are_done_with_a_virtual_environment_can/)
+- [Checkpoint - Tool to create local restore points in a few clicks.](https://www.reddit.com/r/Python/comments/sxpjib/checkpoint_tool_to_create_local_restore_points_in/)
 <!-- BLOG-POST-LIST:END -->
