@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing whatismyip, a Python 3 module for finding out your IP address.](https://www.reddit.com/r/Python/comments/sxhupg/announcing_whatismyip_a_python_3_module_for/)
+- [Geometry Generation: Dactyl-Manuform Keyboard](https://www.reddit.com/r/Python/comments/sxhiv6/geometry_generation_dactylmanuform_keyboard/)
+- [Python getters, setters and properties](https://www.reddit.com/r/Python/comments/sxhf1y/python_getters_setters_and_properties/)
+- [Where to start learning Python for a &#39;jack of all trades&#39; coder?](https://www.reddit.com/r/Python/comments/sxhafc/where_to_start_learning_python_for_a_jack_of_all/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/sxf7wy/monday_daily_thread_project_ideas/)
-- [CSS Button Glassmorphism Hover Animation Effects Using HTML &amp; CSS Only](https://www.reddit.com/r/Python/comments/sxem17/css_button_glassmorphism_hover_animation_effects/)
-- [Aashiq banaya AI ne || AI generates Love Quotes || AI Devlog](https://www.reddit.com/r/Python/comments/sxd0m9/aashiq_banaya_ai_ne_ai_generates_love_quotes_ai/)
-- [How fast did you start writing code in relatively big existent code base in a new job?](https://www.reddit.com/r/Python/comments/sx84ga/how_fast_did_you_start_writing_code_in_relatively/)
-- [made this urban dictionary telegram bot to look-up meanings and i think its quite cool, it was fun and challenging.](https://www.reddit.com/r/Python/comments/sx7sbj/made_this_urban_dictionary_telegram_bot_to_lookup/)
 <!-- BLOG-POST-LIST:END -->
