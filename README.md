@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to use Beautiful Soup in AWS Lambda for Web Scraping](https://www.reddit.com/r/Python/comments/sy53xc/how_to_use_beautiful_soup_in_aws_lambda_for_web/)
+- [Made a tutorial about Caesar&#39;s cipher](https://www.reddit.com/r/Python/comments/sy7csd/made_a_tutorial_about_caesars_cipher/)
+- [SWE and Data Engineers, what do your job requests look like?](https://www.reddit.com/r/Python/comments/sy75p8/swe_and_data_engineers_what_do_your_job_requests/)
 - [My First Python Code - Any Suggestions for Improvement?](https://www.reddit.com/r/Python/comments/sy51dw/my_first_python_code_any_suggestions_for/)
 - [Python Automation Project Mortgage Loan Analysis Application Part II](https://www.reddit.com/r/Python/comments/sy4p1l/python_automation_project_mortgage_loan_analysis/)
 - [A simple command line tool to back up your Spotify playlists.](https://www.reddit.com/r/Python/comments/sy46zb/a_simple_command_line_tool_to_back_up_your/)
-- [Ruminations on the problem of None.](https://www.reddit.com/r/Python/comments/sy42f5/ruminations_on_the_problem_of_none/)
 <!-- BLOG-POST-LIST:END -->
