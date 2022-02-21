@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [prtpy - a library for number-partitioning and bin-packing algorithms](https://www.reddit.com/r/Python/comments/sxrmim/prtpy_a_library_for_numberpartitioning_and/)
+- [Running your scheduled Python tasks on Heroku? You can now easily monitor concurrency! 👾👾👾](https://www.reddit.com/r/Python/comments/sxrhng/running_your_scheduled_python_tasks_on_heroku_you/)
+- [5 years coding in python, 4 professionally as a data engineer, I just discovered the &quot;input&quot; keyword and its purpose](https://www.reddit.com/r/Python/comments/sxrb4h/5_years_coding_in_python_4_professionally_as_a/)
 - [TUF or any alternative to sign pip packages?](https://www.reddit.com/r/Python/comments/sxpvr8/tuf_or_any_alternative_to_sign_pip_packages/)
 - [Here&#39;s a question - appsec solution for developers](https://www.reddit.com/r/Python/comments/sxpqfz/heres_a_question_appsec_solution_for_developers/)
-- [Hi! I’m learning python with mimo and I’m loving it. Anyone can learn…](https://www.reddit.com/r/Python/comments/sxpopn/hi_im_learning_python_with_mimo_and_im_loving_it/)
-- [When you are done with a virtual environment, can you just delete it?](https://www.reddit.com/r/Python/comments/sxpl71/when_you_are_done_with_a_virtual_environment_can/)
-- [Checkpoint - Tool to create local restore points in a few clicks.](https://www.reddit.com/r/Python/comments/sxpjib/checkpoint_tool_to_create_local_restore_points_in/)
 <!-- BLOG-POST-LIST:END -->
