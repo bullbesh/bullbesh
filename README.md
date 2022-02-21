@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu Pyenv Installer](https://www.reddit.com/r/Python/comments/sxpaf1/ubuntu_pyenv_installer/)
+- [Which base container image do you use for your Python apps?](https://www.reddit.com/r/Python/comments/sxp5d3/which_base_container_image_do_you_use_for_your/)
+- [Async IO Tasks vs. Threads](https://www.reddit.com/r/Python/comments/sxovwp/async_io_tasks_vs_threads/)
 - [Could i get your feedback on this options trading web application i built 100% with the Plotly Dash library in Python?](https://www.reddit.com/r/Python/comments/sxnyjr/could_i_get_your_feedback_on_this_options_trading/)
 - [Python Selenium Tutorial #1 - Setup, Web scraping &amp; Testing](https://www.reddit.com/r/Python/comments/sxnxzk/python_selenium_tutorial_1_setup_web_scraping/)
-- [Entrepreneur/Realtor looking to partner up with a programmer](https://www.reddit.com/r/Python/comments/sxnmtl/entrepreneurrealtor_looking_to_partner_up_with_a/)
-- [I used Machine Learning to Measure weird Shapes in my Appartment](https://www.reddit.com/r/Python/comments/sxnaoi/i_used_machine_learning_to_measure_weird_shapes/)
-- [Unimport-A linter, formatter for finding and removing unused import statements.](https://www.reddit.com/r/Python/comments/sxn8vb/unimporta_linter_formatter_for_finding_and/)
 <!-- BLOG-POST-LIST:END -->
