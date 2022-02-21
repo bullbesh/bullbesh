@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top Python Libraries You Should Know Abou](https://www.reddit.com/r/Python/comments/sxl85b/top_python_libraries_you_should_know_abou/)
 - [A python script to search and download from 15k audiobooks for free](https://www.reddit.com/r/Python/comments/sxj8bx/a_python_script_to_search_and_download_from_15k/)
 - [Introduction to ‘TensorLayer’: A Python-based Versatile Deep Learning Library Designed for Machine Learning Researchers](https://www.reddit.com/r/Python/comments/sxj5kd/introduction_to_tensorlayer_a_pythonbased/)
 - [Python Tutorial - How to convert .py to .exe using auto-py-to-exe?](https://www.reddit.com/r/Python/comments/sxiu8p/python_tutorial_how_to_convert_py_to_exe_using/)
 - [Python Tutorial - Creating Your Own Audiobooks in Python](https://www.reddit.com/r/Python/comments/sxii5o/python_tutorial_creating_your_own_audiobooks_in/)
-- [An interesting way to print &quot;Hello World!&quot;](https://www.reddit.com/r/Python/comments/sxiava/an_interesting_way_to_print_hello_world/)
 <!-- BLOG-POST-LIST:END -->
