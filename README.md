@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Sphinx theme](https://www.reddit.com/r/Python/comments/sxtp7h/new_sphinx_theme/)
+- [Bitcoin from Scratch With Python](https://www.reddit.com/r/Python/comments/sxtocb/bitcoin_from_scratch_with_python/)
+- [How To Build a Streamlit App To Extract Topics From YouTube Videos?](https://www.reddit.com/r/Python/comments/sxtkhx/how_to_build_a_streamlit_app_to_extract_topics/)
 - [Data Science Benefits](https://www.reddit.com/r/Python/comments/sxt81x/data_science_benefits/)
 - [I made a Pokemon team calculator on Python!](https://www.reddit.com/r/Python/comments/sxt7ev/i_made_a_pokemon_team_calculator_on_python/)
-- [prtpy - a library for number-partitioning and bin-packing algorithms](https://www.reddit.com/r/Python/comments/sxrmim/prtpy_a_library_for_numberpartitioning_and/)
-- [Running your scheduled Python tasks on Heroku? You can now easily monitor concurrency! 👾👾👾](https://www.reddit.com/r/Python/comments/sxrhng/running_your_scheduled_python_tasks_on_heroku_you/)
-- [5 years coding in python, 4 professionally as a data engineer, I just discovered the &quot;input&quot; keyword and its purpose](https://www.reddit.com/r/Python/comments/sxrb4h/5_years_coding_in_python_4_professionally_as_a/)
 <!-- BLOG-POST-LIST:END -->
