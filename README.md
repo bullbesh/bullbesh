@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Command line tool](https://www.reddit.com/r/Python/comments/sye2je/command_line_tool/)
+- [How to Make Wordle with Python and PyGame in 30 mins!](https://www.reddit.com/r/Python/comments/sydvup/how_to_make_wordle_with_python_and_pygame_in_30/)
+- [Looking for iOS app to learn Python](https://www.reddit.com/r/Python/comments/sydgx4/looking_for_ios_app_to_learn_python/)
+- [one stop shop for team demos, KTs, code reviews](https://www.reddit.com/r/Python/comments/syd5jt/one_stop_shop_for_team_demos_kts_code_reviews/)
 - [New theme for the Pelican site generator](https://www.reddit.com/r/Python/comments/sychdp/new_theme_for_the_pelican_site_generator/)
-- [Let&#39;s Build a Rocket with RocketPy | Orlando Python](https://www.reddit.com/r/Python/comments/sy9oi7/lets_build_a_rocket_with_rocketpy_orlando_python/)
-- [5% of the 420 python codebases we checked had silently skipped tests - including big projects with over 50k stars and 20k forks](https://www.reddit.com/r/Python/comments/sy915y/5_of_the_420_python_codebases_we_checked_had/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/sy8nnd/tuesday_daily_thread_advanced_questions/)
-- [Made a tutorial about Caesar&#39;s cipher](https://www.reddit.com/r/Python/comments/sy7csd/made_a_tutorial_about_caesars_cipher/)
 <!-- BLOG-POST-LIST:END -->
