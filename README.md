@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s Build a Rocket with RocketPy | Orlando Python](https://www.reddit.com/r/Python/comments/sy9oi7/lets_build_a_rocket_with_rocketpy_orlando_python/)
+- [I still miss python 2 print statement](https://www.reddit.com/r/Python/comments/sy94qa/i_still_miss_python_2_print_statement/)
+- [5% of the 420 python codebases we checked had silently skipped tests - including big projects with over 50k stars and 20k forks](https://www.reddit.com/r/Python/comments/sy915y/5_of_the_420_python_codebases_we_checked_had/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/sy8nnd/tuesday_daily_thread_advanced_questions/)
 - [Made a tutorial about Caesar&#39;s cipher](https://www.reddit.com/r/Python/comments/sy7csd/made_a_tutorial_about_caesars_cipher/)
-- [SWE and Data Engineers, what do your job requests look like?](https://www.reddit.com/r/Python/comments/sy75p8/swe_and_data_engineers_what_do_your_job_requests/)
-- [My First Python Code - Any Suggestions for Improvement?](https://www.reddit.com/r/Python/comments/sy51dw/my_first_python_code_any_suggestions_for/)
-- [Python Automation Project Mortgage Loan Analysis Application Part II](https://www.reddit.com/r/Python/comments/sy4p1l/python_automation_project_mortgage_loan_analysis/)
-- [A simple command line tool to back up your Spotify playlists.](https://www.reddit.com/r/Python/comments/sy46zb/a_simple_command_line_tool_to_back_up_your/)
 <!-- BLOG-POST-LIST:END -->
