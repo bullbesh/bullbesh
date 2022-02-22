@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Command line tool](https://www.reddit.com/r/Python/comments/sye2je/command_line_tool/)
+- [This is my first Python Project. I am looking for feedback on improvement. Perhaps things done well, but more what things I can look towards improving. I present, my first Genetic Algorithm. I started python 2 months ago.](https://www.reddit.com/r/Python/comments/syeyyq/this_is_my_first_python_project_i_am_looking_for/)
 - [How to Make Wordle with Python and PyGame in 30 mins!](https://www.reddit.com/r/Python/comments/sydvup/how_to_make_wordle_with_python_and_pygame_in_30/)
-- [Looking for iOS app to learn Python](https://www.reddit.com/r/Python/comments/sydgx4/looking_for_ios_app_to_learn_python/)
 - [one stop shop for team demos, KTs, code reviews](https://www.reddit.com/r/Python/comments/syd5jt/one_stop_shop_for_team_demos_kts_code_reviews/)
 - [New theme for the Pelican site generator](https://www.reddit.com/r/Python/comments/sychdp/new_theme_for_the_pelican_site_generator/)
+- [Let&#39;s Build a Rocket with RocketPy | Orlando Python](https://www.reddit.com/r/Python/comments/sy9oi7/lets_build_a_rocket_with_rocketpy_orlando_python/)
 <!-- BLOG-POST-LIST:END -->
