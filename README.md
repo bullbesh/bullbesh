@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python chess program](https://www.reddit.com/r/Python/comments/sys85g/python_chess_program/)
+- [Which GUI library is the best and most worth while to learn.](https://www.reddit.com/r/Python/comments/sys0yq/which_gui_library_is_the_best_and_most_worth/)
 - [Django REST framework: simplifying serializers by using custom fields](https://www.reddit.com/r/Python/comments/sypefc/django_rest_framework_simplifying_serializers_by/)
 - [A python project to Stream, Search, Download torrents, without having to ever open a browser again.The Netflix experience for torrentz.](https://www.reddit.com/r/Python/comments/syowgb/a_python_project_to_stream_search_download/)
 - [Socket Programming in Python &lpar;Guide&rpar; – Real Python](https://www.reddit.com/r/Python/comments/syopnv/socket_programming_in_python_guide_real_python/)
-- [Split audio files by metadata from CUE. Supports POSIX piping list of CUE files.](https://www.reddit.com/r/Python/comments/symsgh/split_audio_files_by_metadata_from_cue_supports/)
-- [GTA NoPixel heist minigame restructure/improvements help](https://www.reddit.com/r/Python/comments/symqc3/gta_nopixel_heist_minigame/)
 <!-- BLOG-POST-LIST:END -->
