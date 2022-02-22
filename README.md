@@ -19,5 +19,5 @@
 - [GTA NoPixel heist minigame restructure/improvements help](https://www.reddit.com/r/Python/comments/symqc3/gta_nopixel_heist_minigame/)
 - [45 New NumPy Practice Exercises](https://www.reddit.com/r/Python/comments/sym2n0/45_new_numpy_practice_exercises/)
 - [SQLAlchemy Admin for FastAPI/Starlette](https://www.reddit.com/r/Python/comments/syldvt/sqlalchemy_admin_for_fastapistarlette/)
-- [Promoting Project](https://www.reddit.com/r/Python/comments/syl903/promoting_project/)
+- [Statistical Forecast- Lightning fast forecasting with statistical and econometric models](https://www.reddit.com/r/Python/comments/sykki1/statistical_forecast_lightning_fast_forecasting/)
 <!-- BLOG-POST-LIST:END -->
