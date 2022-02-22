@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Under the hood of staticmethod: let’s recode this decorator!](https://www.reddit.com/r/Python/comments/syk7s0/under_the_hood_of_staticmethod_lets_recode_this/)
+- [Global imports](https://www.reddit.com/r/Python/comments/syjum7/global_imports/)
+- [Some small tips and tweaks to improve your Python code](https://www.reddit.com/r/Python/comments/syjmhx/some_small_tips_and_tweaks_to_improve_your_python/)
+- [How to Phone imu gyroscope data to 3d objects mobile](https://www.reddit.com/r/Python/comments/syjfff/how_to_phone_imu_gyroscope_data_to_3d_objects/)
 - [A copy and paste massage sender automated bot](https://www.reddit.com/r/Python/comments/syj42k/a_copy_and_paste_massage_sender_automated_bot/)
-- [A little containerized Postgres toolkit that might be handy](https://www.reddit.com/r/Python/comments/syiwa2/a_little_containerized_postgres_toolkit_that/)
-- [single vs double quotes](https://www.reddit.com/r/Python/comments/syi2wm/single_vs_double_quotes/)
-- [How to compress Large PDF by 20x times / RAR Compression / Python Tutorial](https://www.reddit.com/r/Python/comments/sygr4l/how_to_compress_large_pdf_by_20x_times_rar/)
-- [Writing Python module in Rust &lpar;interface directly with NumPy&rpar;](https://www.reddit.com/r/Python/comments/syfhvt/writing_python_module_in_rust_interface_directly/)
 <!-- BLOG-POST-LIST:END -->
