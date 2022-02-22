@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Split audio files by metadata from CUE. Supports POSIX piping list of CUE files.](https://www.reddit.com/r/Python/comments/symsgh/split_audio_files_by_metadata_from_cue_supports/)
+- [GTA NoPixel heist minigame restructure/improvements help](https://www.reddit.com/r/Python/comments/symqc3/gta_nopixel_heist_minigame/)
 - [45 New NumPy Practice Exercises](https://www.reddit.com/r/Python/comments/sym2n0/45_new_numpy_practice_exercises/)
 - [SQLAlchemy Admin for FastAPI/Starlette](https://www.reddit.com/r/Python/comments/syldvt/sqlalchemy_admin_for_fastapistarlette/)
 - [Promoting Project](https://www.reddit.com/r/Python/comments/syl903/promoting_project/)
-- [Statistical Forecast- Lightning fast forecasting with statistical and econometric models](https://www.reddit.com/r/Python/comments/sykki1/statistical_forecast_lightning_fast_forecasting/)
-- [Double Parallelisation with multiprocessing &lpar;CPU&rpar; and cupy &lpar;GPU&rpar; &lpar;or numba, if cupy doesn&#39;t work&rpar;.](https://www.reddit.com/r/Python/comments/sykhgx/double_parallelisation_with_multiprocessing_cpu/)
 <!-- BLOG-POST-LIST:END -->
