@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django REST framework: simplifying serializers by using custom fields](https://www.reddit.com/r/Python/comments/sypefc/django_rest_framework_simplifying_serializers_by/)
+- [A python project to Stream, Search, Download torrents, without having to ever open a browser again.The Netflix experience for torrentz.](https://www.reddit.com/r/Python/comments/syowgb/a_python_project_to_stream_search_download/)
+- [Socket Programming in Python &lpar;Guide&rpar; – Real Python](https://www.reddit.com/r/Python/comments/syopnv/socket_programming_in_python_guide_real_python/)
 - [Split audio files by metadata from CUE. Supports POSIX piping list of CUE files.](https://www.reddit.com/r/Python/comments/symsgh/split_audio_files_by_metadata_from_cue_supports/)
 - [GTA NoPixel heist minigame restructure/improvements help](https://www.reddit.com/r/Python/comments/symqc3/gta_nopixel_heist_minigame/)
-- [45 New NumPy Practice Exercises](https://www.reddit.com/r/Python/comments/sym2n0/45_new_numpy_practice_exercises/)
-- [SQLAlchemy Admin for FastAPI/Starlette](https://www.reddit.com/r/Python/comments/syldvt/sqlalchemy_admin_for_fastapistarlette/)
-- [Statistical Forecast- Lightning fast forecasting with statistical and econometric models](https://www.reddit.com/r/Python/comments/sykki1/statistical_forecast_lightning_fast_forecasting/)
 <!-- BLOG-POST-LIST:END -->
