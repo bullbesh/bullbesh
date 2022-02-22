@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Statistical Forecast- Lightning fast forecasting with statistical and econometric models](https://www.reddit.com/r/Python/comments/sykki1/statistical_forecast_lightning_fast_forecasting/)
+- [Double Parallelisation with multiprocessing &lpar;CPU&rpar; and cupy &lpar;GPU&rpar; &lpar;or numba, if cupy doesn&#39;t work&rpar;.](https://www.reddit.com/r/Python/comments/sykhgx/double_parallelisation_with_multiprocessing_cpu/)
 - [Under the hood of staticmethod: let’s recode this decorator!](https://www.reddit.com/r/Python/comments/syk7s0/under_the_hood_of_staticmethod_lets_recode_this/)
 - [Global imports](https://www.reddit.com/r/Python/comments/syjum7/global_imports/)
 - [Some small tips and tweaks to improve your Python code](https://www.reddit.com/r/Python/comments/syjmhx/some_small_tips_and_tweaks_to_improve_your_python/)
-- [How to Phone imu gyroscope data to 3d objects mobile](https://www.reddit.com/r/Python/comments/syjfff/how_to_phone_imu_gyroscope_data_to_3d_objects/)
-- [A copy and paste massage sender automated bot](https://www.reddit.com/r/Python/comments/syj42k/a_copy_and_paste_massage_sender_automated_bot/)
 <!-- BLOG-POST-LIST:END -->
