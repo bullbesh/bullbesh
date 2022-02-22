@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reinforcement learning project for MMORPG](https://www.reddit.com/r/Python/comments/syvnu7/reinforcement_learning_project_for_mmorpg/)
+- [The Mu Python Editor version 1.1.1 Stable released](https://www.reddit.com/r/Python/comments/syvnh3/the_mu_python_editor_version_111_stable_released/)
+- [Python Tutorial - Phone Number Details Generator Program](https://www.reddit.com/r/Python/comments/syuhmk/python_tutorial_phone_number_details_generator/)
 - [Google Cloud Python Logging Library Improves Serverless Support With Version 3.0 Release](https://www.reddit.com/r/Python/comments/syu9cy/google_cloud_python_logging_library_improves/)
 - [Packaging Python with the new PyOxidizer Pants Plugin](https://www.reddit.com/r/Python/comments/syu2fa/packaging_python_with_the_new_pyoxidizer_pants/)
-- [Python chess program](https://www.reddit.com/r/Python/comments/sys85g/python_chess_program/)
-- [Which GUI library is the best and most worth while to learn.](https://www.reddit.com/r/Python/comments/sys0yq/which_gui_library_is_the_best_and_most_worth/)
-- [Django REST framework: simplifying serializers by using custom fields](https://www.reddit.com/r/Python/comments/sypefc/django_rest_framework_simplifying_serializers_by/)
 <!-- BLOG-POST-LIST:END -->
