@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A copy and paste massage sender automated bot](https://www.reddit.com/r/Python/comments/syj42k/a_copy_and_paste_massage_sender_automated_bot/)
+- [A little containerized Postgres toolkit that might be handy](https://www.reddit.com/r/Python/comments/syiwa2/a_little_containerized_postgres_toolkit_that/)
 - [single vs double quotes](https://www.reddit.com/r/Python/comments/syi2wm/single_vs_double_quotes/)
 - [How to compress Large PDF by 20x times / RAR Compression / Python Tutorial](https://www.reddit.com/r/Python/comments/sygr4l/how_to_compress_large_pdf_by_20x_times_rar/)
-- [How do you find duplicate paragraphs in a text file?](https://www.reddit.com/r/Python/comments/syghq5/how_do_you_find_duplicate_paragraphs_in_a_text/)
 - [Writing Python module in Rust &lpar;interface directly with NumPy&rpar;](https://www.reddit.com/r/Python/comments/syfhvt/writing_python_module_in_rust_interface_directly/)
-- [This is my first Python Project. I am looking for feedback on improvement. Perhaps things done well, but more what things I can look towards improving. I present, my first Genetic Algorithm. I started python 2 months ago.](https://www.reddit.com/r/Python/comments/syeyyq/this_is_my_first_python_project_i_am_looking_for/)
 <!-- BLOG-POST-LIST:END -->
