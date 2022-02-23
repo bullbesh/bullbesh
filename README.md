@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Selenium Tutorial #2 - Grabbing Elements From HTML](https://www.reddit.com/r/Python/comments/szqh31/python_selenium_tutorial_2_grabbing_elements_from/)
 - [Coding 101 My first API](https://www.reddit.com/r/Python/comments/sznf7d/coding_101_my_first_api/)
 - [How To Classify Text With Python, Transformers &amp; scikit-learn](https://www.reddit.com/r/Python/comments/szn99f/how_to_classify_text_with_python_transformers/)
 - [Python Tutorial - Phone Number Details Generator Program](https://www.reddit.com/r/Python/comments/szm1gr/python_tutorial_phone_number_details_generator/)
 - [Python Tutorial - French to English Flashcard Project](https://www.reddit.com/r/Python/comments/szlwpu/python_tutorial_french_to_english_flashcard/)
-- [How to convert a Data Source Like CSV Data Set into Web API?](https://www.reddit.com/r/Python/comments/szkfvb/how_to_convert_a_data_source_like_csv_data_set/)
 <!-- BLOG-POST-LIST:END -->
