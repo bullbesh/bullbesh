@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding 101 My first API](https://www.reddit.com/r/Python/comments/sznf7d/coding_101_my_first_api/)
+- [How To Classify Text With Python, Transformers &amp; scikit-learn](https://www.reddit.com/r/Python/comments/szn99f/how_to_classify_text_with_python_transformers/)
 - [Python Tutorial - Phone Number Details Generator Program](https://www.reddit.com/r/Python/comments/szm1gr/python_tutorial_phone_number_details_generator/)
 - [Python Tutorial - French to English Flashcard Project](https://www.reddit.com/r/Python/comments/szlwpu/python_tutorial_french_to_english_flashcard/)
 - [How to convert a Data Source Like CSV Data Set into Web API?](https://www.reddit.com/r/Python/comments/szkfvb/how_to_convert_a_data_source_like_csv_data_set/)
-- [Made this with turtle. What all do you think?](https://www.reddit.com/r/Python/comments/szkbmm/made_this_with_turtle_what_all_do_you_think/)
-- [Data-Oriented Programming: A book review](https://www.reddit.com/r/Python/comments/szk5eu/dataoriented_programming_a_book_review/)
 <!-- BLOG-POST-LIST:END -->
