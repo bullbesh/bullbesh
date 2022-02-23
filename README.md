@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hospital patient entry and retrieval database.](https://www.reddit.com/r/Python/comments/sztsgi/hospital_patient_entry_and_retrieval_database/)
 - [A Concise Review of Advanced Python — Cheat Sheet for Coders and Interviewees](https://www.reddit.com/r/Python/comments/szrarx/a_concise_review_of_advanced_python_cheat_sheet/)
 - [Coding 101 My first API](https://www.reddit.com/r/Python/comments/sznf7d/coding_101_my_first_api/)
 - [How To Classify Text With Python, Transformers &amp; scikit-learn](https://www.reddit.com/r/Python/comments/szn99f/how_to_classify_text_with_python_transformers/)
 - [How to convert a Data Source Like CSV Data Set into Web API?](https://www.reddit.com/r/Python/comments/szkfvb/how_to_convert_a_data_source_like_csv_data_set/)
-- [Data-Oriented Programming: A book review](https://www.reddit.com/r/Python/comments/szk5eu/dataoriented_programming_a_book_review/)
 <!-- BLOG-POST-LIST:END -->
