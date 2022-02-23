@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Version control written in Python!](https://www.reddit.com/r/Python/comments/sz79k3/version_control_written_in_python/)
 - [Which would you say is the best way&lpar;Or at least feasible way&rpar; to develop Android Apps with Python?](https://www.reddit.com/r/Python/comments/sz64ox/which_would_you_say_is_the_best_wayor_at_least/)
 - [My Python Tutorial Page](https://www.reddit.com/r/Python/comments/sz5v63/my_python_tutorial_page/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/sz2hq0/wednesday_daily_thread_beginner_questions/)
 - [fuzzy-c-means: A simple python implementation of Fuzzy C-means algorithm.](https://www.reddit.com/r/Python/comments/sz1nsk/fuzzycmeans_a_simple_python_implementation_of/)
-- [Made my own version of Flappy Bird in Python using PyGame!](https://www.reddit.com/r/Python/comments/sz0ivq/made_my_own_version_of_flappy_bird_in_python/)
 <!-- BLOG-POST-LIST:END -->
