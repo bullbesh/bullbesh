@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to convert a Data Source Like CSV Data Set into Web API?](https://www.reddit.com/r/Python/comments/szkfvb/how_to_convert_a_data_source_like_csv_data_set/)
+- [Made this with turtle. What all do you think?](https://www.reddit.com/r/Python/comments/szkbmm/made_this_with_turtle_what_all_do_you_think/)
+- [Data-Oriented Programming: A book review](https://www.reddit.com/r/Python/comments/szk5eu/dataoriented_programming_a_book_review/)
 - [YATE &lpar;yet another template engine&rpar;](https://www.reddit.com/r/Python/comments/szjxop/yate_yet_another_template_engine/)
 - [curvipy: the Python package for teaching mathematical functions, curves and linear transformations with animations.](https://www.reddit.com/r/Python/comments/szjwka/curvipy_the_python_package_for_teaching/)
-- [Modern Test-Driven Development in Python](https://www.reddit.com/r/Python/comments/szj3n7/modern_testdriven_development_in_python/)
-- [What is the state of typings in python communities?](https://www.reddit.com/r/Python/comments/szirfb/what_is_the_state_of_typings_in_python_communities/)
-- [What should I program?](https://www.reddit.com/r/Python/comments/szinr7/what_should_i_program/)
 <!-- BLOG-POST-LIST:END -->
