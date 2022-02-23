@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dear friends I am trying to automatically click chrome extension with python to open new session with extension in new tab that I download but when I inspect the page I can’t see id or class to add python. Is there any one that can help me to find solutions? Extension name is sessionbox](https://www.reddit.com/r/Python/comments/szad5d/dear_friends_i_am_trying_to_automatically_click/)
+- [Strict Input Formatting vs. Allowing Odd Exceptions](https://www.reddit.com/r/Python/comments/sz98gm/strict_input_formatting_vs_allowing_odd_exceptions/)
 - [Version control written in Python!](https://www.reddit.com/r/Python/comments/sz79k3/version_control_written_in_python/)
 - [Which would you say is the best way&lpar;Or at least feasible way&rpar; to develop Android Apps with Python?](https://www.reddit.com/r/Python/comments/sz64ox/which_would_you_say_is_the_best_wayor_at_least/)
 - [My Python Tutorial Page](https://www.reddit.com/r/Python/comments/sz5v63/my_python_tutorial_page/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/sz2hq0/wednesday_daily_thread_beginner_questions/)
-- [fuzzy-c-means: A simple python implementation of Fuzzy C-means algorithm.](https://www.reddit.com/r/Python/comments/sz1nsk/fuzzycmeans_a_simple_python_implementation_of/)
 <!-- BLOG-POST-LIST:END -->
