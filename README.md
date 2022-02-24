@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tordle: Terminal Wordle](https://www.reddit.com/r/Python/comments/t02gfj/tordle_terminal_wordle/)
+- [vidmaker: A python library which simplifies creating and exporting videos](https://www.reddit.com/r/Python/comments/t01vo1/vidmaker_a_python_library_which_simplifies/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/szw1zc/thursday_daily_thread_python_careers_courses_and/)
 - [One week programming training &lpar;+3 days Machine Learning&rpar;. Worth it?](https://www.reddit.com/r/Python/comments/szvcmz/one_week_programming_training_3_days_machine/)
 - [Hospital patient entry and retrieval database.](https://www.reddit.com/r/Python/comments/sztsgi/hospital_patient_entry_and_retrieval_database/)
-- [A Concise Review of Advanced Python — Cheat Sheet for Coders and Interviewees](https://www.reddit.com/r/Python/comments/szrarx/a_concise_review_of_advanced_python_cheat_sheet/)
-- [Coding 101 My first API](https://www.reddit.com/r/Python/comments/sznf7d/coding_101_my_first_api/)
 <!-- BLOG-POST-LIST:END -->
