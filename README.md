@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [qqplot with line instead of dots](https://www.reddit.com/r/Python/comments/t0k4d2/qqplot_with_line_instead_of_dots/)
+- [Check out this really cool game my friends coded with Python!](https://www.reddit.com/r/Python/comments/t0j60o/check_out_this_really_cool_game_my_friends_coded/)
 - [Friday Night Funkin in Python v1.6 is out!](https://www.reddit.com/r/Python/comments/t0iub9/friday_night_funkin_in_python_v16_is_out/)
 - [Are AWS Python AI services worth it?](https://www.reddit.com/r/Python/comments/t0ho44/are_aws_python_ai_services_worth_it/)
 - [All Google Products Scraped &amp; Summarised](https://www.reddit.com/r/Python/comments/t0hcrq/all_google_products_scraped_summarised/)
-- [Jupyter Notebooks - Help me understand the need](https://www.reddit.com/r/Python/comments/t0h763/jupyter_notebooks_help_me_understand_the_need/)
-- [SQLAlchemy Admin for Starlette/FastAPI](https://www.reddit.com/r/Python/comments/t0grf4/sqlalchemy_admin_for_starlettefastapi/)
 <!-- BLOG-POST-LIST:END -->
