@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [qlient: the python package for interacting with graphql the simple way.](https://www.reddit.com/r/Python/comments/t08aax/qlient_the_python_package_for_interacting_with/)
+- [How to generate numbers going from x and adding a fixed number.](https://www.reddit.com/r/Python/comments/t07s4t/how_to_generate_numbers_going_from_x_and_adding_a/)
 - [A decentralized way to execute python scripts](https://www.reddit.com/r/Python/comments/t07l50/a_decentralized_way_to_execute_python_scripts/)
 - [Leetcoding in Python Job Hunting](https://www.reddit.com/r/Python/comments/t05oil/leetcoding_in_python_job_hunting/)
 - [Tordle: Terminal Wordle](https://www.reddit.com/r/Python/comments/t02gfj/tordle_terminal_wordle/)
-- [vidmaker: A python library which simplifies creating and exporting videos](https://www.reddit.com/r/Python/comments/t01vo1/vidmaker_a_python_library_which_simplifies/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/szw1zc/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
