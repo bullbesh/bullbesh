@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a GUI app to read npy files](https://www.reddit.com/r/Python/comments/t0lk3i/i_made_a_gui_app_to_read_npy_files/)
 - [qqplot with line instead of dots](https://www.reddit.com/r/Python/comments/t0k4d2/qqplot_with_line_instead_of_dots/)
 - [Check out this really cool game my friends coded with Python!](https://www.reddit.com/r/Python/comments/t0j60o/check_out_this_really_cool_game_my_friends_coded/)
 - [Friday Night Funkin in Python v1.6 is out!](https://www.reddit.com/r/Python/comments/t0iub9/friday_night_funkin_in_python_v16_is_out/)
 - [Are AWS Python AI services worth it?](https://www.reddit.com/r/Python/comments/t0ho44/are_aws_python_ai_services_worth_it/)
-- [All Google Products Scraped &amp; Summarised](https://www.reddit.com/r/Python/comments/t0hcrq/all_google_products_scraped_summarised/)
 <!-- BLOG-POST-LIST:END -->
