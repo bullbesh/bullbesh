@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [xojoc/cleanurl: Remove clutter from URLs and return a canonicalized version](https://www.reddit.com/r/Python/comments/t0e03z/xojoccleanurl_remove_clutter_from_urls_and_return/)
-- [I made a Python CLI to help manage your programming projects :D](https://www.reddit.com/r/Python/comments/t0cccg/i_made_a_python_cli_to_help_manage_your/)
-- [5 Lark features you probably didn&#39;t know about](https://www.reddit.com/r/Python/comments/t0bg5c/5_lark_features_you_probably_didnt_know_about/)
-- [&lpar;TSync&rpar; Communication between Thread in a Better Way with TSync](https://www.reddit.com/r/Python/comments/t0a5i9/tsync_communication_between_thread_in_a_better/)
-- [Vim setup as a Python IDE with REPL similar to Spyder/VSCode](https://www.reddit.com/r/Python/comments/t092if/vim_setup_as_a_python_ide_with_repl_similar_to/)
+- [Are AWS Python AI services worth it?](https://www.reddit.com/r/Python/comments/t0ho44/are_aws_python_ai_services_worth_it/)
+- [All Google Products Scraped &amp; Summarised](https://www.reddit.com/r/Python/comments/t0hcrq/all_google_products_scraped_summarised/)
+- [Jupyter Notebooks - Help me understand the need](https://www.reddit.com/r/Python/comments/t0h763/jupyter_notebooks_help_me_understand_the_need/)
+- [SQLAlchemy Admin for Starlette/FastAPI](https://www.reddit.com/r/Python/comments/t0grf4/sqlalchemy_admin_for_starlettefastapi/)
+- [Beginning with python](https://www.reddit.com/r/Python/comments/t0geln/beginning_with_python/)
 <!-- BLOG-POST-LIST:END -->
