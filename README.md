@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Tutorial - How to create a Chess Board with Python?](https://www.reddit.com/r/Python/comments/t1bge0/python_tutorial_how_to_create_a_chess_board_with/)
+- [How to get an IP address, method, and time of each request made by the user in the Flask App?](https://www.reddit.com/r/Python/comments/t1auea/how_to_get_an_ip_address_method_and_time_of_each/)
 - [Network Tracking using Wireshark and Google Maps - Python Cybersecurity](https://www.reddit.com/r/Python/comments/t19iph/network_tracking_using_wireshark_and_google_maps/)
 - [Message Encryption and Decryption in Python [GUI] with Source Code](https://www.reddit.com/r/Python/comments/t1983z/message_encryption_and_decryption_in_python_gui/)
 - [PyAutoGUI Function Help](https://www.reddit.com/r/Python/comments/t18pgn/pyautogui_function_help/)
-- [How can I continue, I feel like I’m stuck I can’t find any project to do , and if I would start a project I don’t know what to do I have learned the basic for a month stopped and came back again any guides ?](https://www.reddit.com/r/Python/comments/t189a5/how_can_i_continue_i_feel_like_im_stuck_i_cant/)
-- [I made a video as an introduction to working with audio data in python! Love any feedback.](https://www.reddit.com/r/Python/comments/t17l7z/i_made_a_video_as_an_introduction_to_working_with/)
 <!-- BLOG-POST-LIST:END -->
