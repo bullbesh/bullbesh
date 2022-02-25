@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Message Encryption and Decryption in Python [GUI] with Source Code](https://www.reddit.com/r/Python/comments/t1983z/message_encryption_and_decryption_in_python_gui/)
+- [PyAutoGUI Function Help](https://www.reddit.com/r/Python/comments/t18pgn/pyautogui_function_help/)
+- [How can I continue, I feel like I’m stuck I can’t find any project to do , and if I would start a project I don’t know what to do I have learned the basic for a month stopped and came back again any guides ?](https://www.reddit.com/r/Python/comments/t189a5/how_can_i_continue_i_feel_like_im_stuck_i_cant/)
 - [I made a video as an introduction to working with audio data in python! Love any feedback.](https://www.reddit.com/r/Python/comments/t17l7z/i_made_a_video_as_an_introduction_to_working_with/)
 - [How do you manage PyPI releases?](https://www.reddit.com/r/Python/comments/t15ttp/how_do_you_manage_pypi_releases/)
-- [Understanding Decorators in Python](https://www.reddit.com/r/Python/comments/t147h9/understanding_decorators_in_python/)
-- [txtai 4.2 released - Build once, run anywhere serverless NLP applications](https://www.reddit.com/r/Python/comments/t13bko/txtai_42_released_build_once_run_anywhere/)
-- [A user federated cloud](https://www.reddit.com/r/Python/comments/t12fvn/a_user_federated_cloud/)
 <!-- BLOG-POST-LIST:END -->
