@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a text-based tool to download music with tags and artwork.](https://www.reddit.com/r/Python/comments/t1eobu/i_made_a_textbased_tool_to_download_music_with/)
+- [Doing dirty &lpar;but extremely useful&rpar; things with equals.](https://www.reddit.com/r/Python/comments/t1ecix/doing_dirty_but_extremely_useful_things_with/)
 - [autoRIFT &lpar;autonomous Repeat Image Feature Tracking&rpar;](https://www.reddit.com/r/Python/comments/t1cs7g/autorift_autonomous_repeat_image_feature_tracking/)
-- [Python Tutorial - How to create a Chess Board with Python?](https://www.reddit.com/r/Python/comments/t1bge0/python_tutorial_how_to_create_a_chess_board_with/)
-- [How to get an IP address, method, and time of each request made by the user in the Flask App?](https://www.reddit.com/r/Python/comments/t1auea/how_to_get_an_ip_address_method_and_time_of_each/)
 - [Network Tracking using Wireshark and Google Maps - Python Cybersecurity](https://www.reddit.com/r/Python/comments/t19iph/network_tracking_using_wireshark_and_google_maps/)
 - [Message Encryption and Decryption in Python [GUI] with Source Code](https://www.reddit.com/r/Python/comments/t1983z/message_encryption_and_decryption_in_python_gui/)
 <!-- BLOG-POST-LIST:END -->
