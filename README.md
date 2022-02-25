@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a video as an introduction to working with audio data in python! Love any feedback.](https://www.reddit.com/r/Python/comments/t17l7z/i_made_a_video_as_an_introduction_to_working_with/)
 - [How do you manage PyPI releases?](https://www.reddit.com/r/Python/comments/t15ttp/how_do_you_manage_pypi_releases/)
 - [Understanding Decorators in Python](https://www.reddit.com/r/Python/comments/t147h9/understanding_decorators_in_python/)
 - [txtai 4.2 released - Build once, run anywhere serverless NLP applications](https://www.reddit.com/r/Python/comments/t13bko/txtai_42_released_build_once_run_anywhere/)
 - [A user federated cloud](https://www.reddit.com/r/Python/comments/t12fvn/a_user_federated_cloud/)
-- [How for loops work in Python?](https://www.reddit.com/r/Python/comments/t123we/how_for_loops_work_in_python/)
 <!-- BLOG-POST-LIST:END -->
