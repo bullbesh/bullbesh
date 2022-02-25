@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A user federated cloud](https://www.reddit.com/r/Python/comments/t12fvn/a_user_federated_cloud/)
+- [How for loops work in Python?](https://www.reddit.com/r/Python/comments/t123we/how_for_loops_work_in_python/)
+- [&lpar;Beginner&rpar;I want to share my new app. &lpar;IMDB Title Finder&rpar;](https://www.reddit.com/r/Python/comments/t122sx/beginneri_want_to_share_my_new_app_imdb_title/)
 - [Pygame website is showing a black screen sith peace sign](https://www.reddit.com/r/Python/comments/t113zm/pygame_website_is_showing_a_black_screen_sith/)
 - [Why You Should Learn Python For Data Science?](https://www.reddit.com/r/Python/comments/t0zac2/why_you_should_learn_python_for_data_science/)
-- [Recovering subprocess.Popen full output](https://www.reddit.com/r/Python/comments/t0yr3y/recovering_subprocesspopen_full_output/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/t0pawy/friday_daily_thread_free_chat_friday_daily_thread/)
-- [Subreddit Media Downloader : A script that downloads media from public subreddits](https://www.reddit.com/r/Python/comments/t0nzc5/subreddit_media_downloader_a_script_that/)
 <!-- BLOG-POST-LIST:END -->
