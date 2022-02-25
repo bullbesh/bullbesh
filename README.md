@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Learn Python For Data Science?](https://www.reddit.com/r/Python/comments/t0zac2/why_you_should_learn_python_for_data_science/)
 - [Recovering subprocess.Popen full output](https://www.reddit.com/r/Python/comments/t0yr3y/recovering_subprocesspopen_full_output/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/t0pawy/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Subreddit Media Downloader : A script that downloads media from public subreddits](https://www.reddit.com/r/Python/comments/t0nzc5/subreddit_media_downloader_a_script_that/)
 - [Writing my first article on Medium, please tell me what you think! Starting a BI &quot;portfolio&quot; to help with my job search, feedback super appreciated.](https://www.reddit.com/r/Python/comments/t0m8if/writing_my_first_article_on_medium_please_tell_me/)
-- [I created a video demonstrating how inverting if-conditions can lead to more readable code](https://www.reddit.com/r/Python/comments/t0m4cc/i_created_a_video_demonstrating_how_inverting/)
 <!-- BLOG-POST-LIST:END -->
