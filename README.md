@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[ Viral ] [latinoamericanos] [2022] #viral @mundo](https://www.reddit.com/r/Python/comments/t0vno8/viral_latinoamericanos_2022_viral_mundo/)
+- [Recovering subprocess.Popen full output](https://www.reddit.com/r/Python/comments/t0yr3y/recovering_subprocesspopen_full_output/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/t0pawy/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Subreddit Media Downloader : A script that downloads media from public subreddits](https://www.reddit.com/r/Python/comments/t0nzc5/subreddit_media_downloader_a_script_that/)
 - [Writing my first article on Medium, please tell me what you think! Starting a BI &quot;portfolio&quot; to help with my job search, feedback super appreciated.](https://www.reddit.com/r/Python/comments/t0m8if/writing_my_first_article_on_medium_please_tell_me/)
