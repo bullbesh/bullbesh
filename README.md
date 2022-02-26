@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why doesnt the computer help fix parts of your code if it knows what the issue is?](https://www.reddit.com/r/Python/comments/t23f9u/why_doesnt_the_computer_help_fix_parts_of_your/)
+- [Uploaded my first Python RPG tutorial! &lpar;Part1/4&rpar; Great for beginners too!](https://www.reddit.com/r/Python/comments/t22ok6/uploaded_my_first_python_rpg_tutorial_part14/)
 - [Wordle - Game and Solver](https://www.reddit.com/r/Python/comments/t2135v/wordle_game_and_solver/)
 - [What&#39;s the standard of handling Oracle Cloud ATP database&#39;s Wallet files on Git?](https://www.reddit.com/r/Python/comments/t20qja/whats_the_standard_of_handling_oracle_cloud_atp/)
 - [How to get more GitHub followers with a Python bot](https://www.reddit.com/r/Python/comments/t20oct/how_to_get_more_github_followers_with_a_python_bot/)
-- [My story of developing a Twitter bot that allows anonymous tweeting - with python](https://www.reddit.com/r/Python/comments/t20cft/my_story_of_developing_a_twitter_bot_that_allows/)
-- [r/place A new project anyone?](https://www.reddit.com/r/Python/comments/t202wo/rplace_a_new_project_anyone/)
 <!-- BLOG-POST-LIST:END -->
