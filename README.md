@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Must have VSCode Extensions](https://www.reddit.com/r/Python/comments/t1seo8/must_have_vscode_extensions/)
+- [HARFANG 3D v3.2.0 update &lpar;fixes, perf. improvements and new features in rendering, physics &amp; audio&rpar;](https://www.reddit.com/r/Python/comments/t1s9pz/harfang_3d_v320_update_fixes_perf_improvements/)
 - [Dev teams in startups, who is in charge of the product security?](https://www.reddit.com/r/Python/comments/t1rve1/dev_teams_in_startups_who_is_in_charge_of_the/)
 - [How to create and deploy a Flask app to Heroku in just 5 simple Steps?](https://www.reddit.com/r/Python/comments/t1q7ca/how_to_create_and_deploy_a_flask_app_to_heroku_in/)
-- [Are there any good tutorials on how to install cakechat?](https://www.reddit.com/r/Python/comments/t1po0f/are_there_any_good_tutorials_on_how_to_install/)
-- [Using local copy of a package](https://www.reddit.com/r/Python/comments/t1p5kc/using_local_copy_of_a_package/)
 - [I made a Class and class methods for searching and clicking images with PyAutoGUI](https://www.reddit.com/r/Python/comments/t1n6c2/i_made_a_class_and_class_methods_for_searching/)
 <!-- BLOG-POST-LIST:END -->
