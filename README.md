@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dev teams in startups, who is in charge of the product security?](https://www.reddit.com/r/Python/comments/t1rve1/dev_teams_in_startups_who_is_in_charge_of_the/)
 - [How to create and deploy a Flask app to Heroku in just 5 simple Steps?](https://www.reddit.com/r/Python/comments/t1q7ca/how_to_create_and_deploy_a_flask_app_to_heroku_in/)
 - [Are there any good tutorials on how to install cakechat?](https://www.reddit.com/r/Python/comments/t1po0f/are_there_any_good_tutorials_on_how_to_install/)
 - [Using local copy of a package](https://www.reddit.com/r/Python/comments/t1p5kc/using_local_copy_of_a_package/)
 - [I made a Class and class methods for searching and clicking images with PyAutoGUI](https://www.reddit.com/r/Python/comments/t1n6c2/i_made_a_class_and_class_methods_for_searching/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/t1ield/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
