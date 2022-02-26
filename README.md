@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Backtesting Call Option Or Call Warrant On Big Tech Stocks](https://www.reddit.com/r/Python/comments/t1z50z/backtesting_call_option_or_call_warrant_on_big/)
+- [Hi im a beginners at python and when i type elif temp &lt; 0 or temp &gt;30 it have a problem](https://www.reddit.com/r/Python/comments/t1ybjf/hi_im_a_beginners_at_python_and_when_i_type_elif/)
 - [Recursion Developer Experience: Evaluating Python Dependency Managers](https://www.reddit.com/r/Python/comments/t1urcl/recursion_developer_experience_evaluating_python/)
 - [Best Artificial Intelligence Course Training in bangalore| InsideAIML](https://www.reddit.com/r/Python/comments/t1uh1y/best_artificial_intelligence_course_training_in/)
 - [Learn first threading or async &amp; await?](https://www.reddit.com/r/Python/comments/t1t7da/learn_first_threading_or_async_await/)
-- [Must have VSCode Extensions](https://www.reddit.com/r/Python/comments/t1seo8/must_have_vscode_extensions/)
-- [HARFANG 3D v3.2.0 update &lpar;fixes, perf. improvements and new features in rendering, physics &amp; audio&rpar;](https://www.reddit.com/r/Python/comments/t1s9pz/harfang_3d_v320_update_fixes_perf_improvements/)
 <!-- BLOG-POST-LIST:END -->
