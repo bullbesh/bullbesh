@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/t1ield/saturday_daily_thread_resource_request_and/)
 - [I made a text-based tool to download music with tags and artwork.](https://www.reddit.com/r/Python/comments/t1eobu/i_made_a_textbased_tool_to_download_music_with/)
 - [Doing dirty &lpar;but extremely useful&rpar; things with equals.](https://www.reddit.com/r/Python/comments/t1ecix/doing_dirty_but_extremely_useful_things_with/)
 - [autoRIFT &lpar;autonomous Repeat Image Feature Tracking&rpar;](https://www.reddit.com/r/Python/comments/t1cs7g/autorift_autonomous_repeat_image_feature_tracking/)
 - [Network Tracking using Wireshark and Google Maps - Python Cybersecurity](https://www.reddit.com/r/Python/comments/t19iph/network_tracking_using_wireshark_and_google_maps/)
-- [Message Encryption and Decryption in Python [GUI] with Source Code](https://www.reddit.com/r/Python/comments/t1983z/message_encryption_and_decryption_in_python_gui/)
 <!-- BLOG-POST-LIST:END -->
