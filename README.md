@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sudoku Solver](https://www.reddit.com/r/Python/comments/t28wcs/sudoku_solver/)
 - [Space Science with Python - An asteroid spectrum classifier &lpar;ML Project&rpar;](https://www.reddit.com/r/Python/comments/t28023/space_science_with_python_an_asteroid_spectrum/)
 - [Python Full Course - 2022 | Python Tutorial for Beginners [2022] in 3.5 Hours](https://www.reddit.com/r/Python/comments/t2801u/python_full_course_2022_python_tutorial_for/)
 - [Project: Expense Tracker](https://www.reddit.com/r/Python/comments/t25k8u/project_expense_tracker/)
 - [How does pythons pass by assignment different from more traditional pass by reference approach?](https://www.reddit.com/r/Python/comments/t25jwa/how_does_pythons_pass_by_assignment_different/)
-- [Made this game in turtle graphics that gets progressively harder this evening with Tkinter as a game menu I love how it all came together!](https://www.reddit.com/r/Python/comments/t249zt/made_this_game_in_turtle_graphics_that_gets/)
 <!-- BLOG-POST-LIST:END -->
