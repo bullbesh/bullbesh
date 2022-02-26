@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recursion Developer Experience: Evaluating Python Dependency Managers](https://www.reddit.com/r/Python/comments/t1urcl/recursion_developer_experience_evaluating_python/)
+- [Best Artificial Intelligence Course Training in bangalore| InsideAIML](https://www.reddit.com/r/Python/comments/t1uh1y/best_artificial_intelligence_course_training_in/)
 - [Learn first threading or async &amp; await?](https://www.reddit.com/r/Python/comments/t1t7da/learn_first_threading_or_async_await/)
 - [Must have VSCode Extensions](https://www.reddit.com/r/Python/comments/t1seo8/must_have_vscode_extensions/)
 - [HARFANG 3D v3.2.0 update &lpar;fixes, perf. improvements and new features in rendering, physics &amp; audio&rpar;](https://www.reddit.com/r/Python/comments/t1s9pz/harfang_3d_v320_update_fixes_perf_improvements/)
-- [Dev teams in startups, who is in charge of the product security?](https://www.reddit.com/r/Python/comments/t1rve1/dev_teams_in_startups_who_is_in_charge_of_the/)
-- [How to create and deploy a Flask app to Heroku in just 5 simple Steps?](https://www.reddit.com/r/Python/comments/t1q7ca/how_to_create_and_deploy_a_flask_app_to_heroku_in/)
 <!-- BLOG-POST-LIST:END -->
