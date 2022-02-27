@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a tutorial on how to turn JPGs into MIDI using python](https://www.reddit.com/r/Python/comments/t2v9tt/i_made_a_tutorial_on_how_to_turn_jpgs_into_midi/)
+- [Python Selenium Tutorial #3 - Pagination &amp; Saving Data To JSON File](https://www.reddit.com/r/Python/comments/t2uwcg/python_selenium_tutorial_3_pagination_saving_data/)
 - [Search YouTube from the terminal written in python](https://www.reddit.com/r/Python/comments/t2u5nc/search_youtube_from_the_terminal_written_in_python/)
 - [Learn Python in Under 8 Minutes: The Ultimate Guide to Python Syntax](https://www.reddit.com/r/Python/comments/t2smcq/learn_python_in_under_8_minutes_the_ultimate/)
 - [Type safe Django app, Part 2](https://www.reddit.com/r/Python/comments/t2sjvt/type_safe_django_app_part_2/)
-- [Showcase Your Projects in Spaces using Gradio](https://www.reddit.com/r/Python/comments/t2rhty/showcase_your_projects_in_spaces_using_gradio/)
-- [In a Markov chain of the entire works of Dr. Seuss, what would be the largest communicating class?](https://www.reddit.com/r/Python/comments/t2rfux/in_a_markov_chain_of_the_entire_works_of_dr_seuss/)
 <!-- BLOG-POST-LIST:END -->
