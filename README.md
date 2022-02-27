@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTP status code except it is with cats](https://www.reddit.com/r/Python/comments/t2kjn9/http_status_code_except_it_is_with_cats/)
 - [How can I merge and showcase big data from csv file?](https://www.reddit.com/r/Python/comments/t2jzua/how_can_i_merge_and_showcase_big_data_from_csv/)
 - [Best automation tools you&#39;ve heard of built in Python](https://www.reddit.com/r/Python/comments/t2jpc0/best_automation_tools_youve_heard_of_built_in/)
 - [Real Time Sign Language Recognition](https://www.reddit.com/r/Python/comments/t2j2ak/real_time_sign_language_recognition/)
 - [Select range in numpy array](https://www.reddit.com/r/Python/comments/t2hlvi/select_range_in_numpy_array/)
-- [Positional Arguments or Keyword Arguments - What is the best practice?](https://www.reddit.com/r/Python/comments/t2gn1r/positional_arguments_or_keyword_arguments_what_is/)
 <!-- BLOG-POST-LIST:END -->
