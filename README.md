@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python in Under 8 Minutes: The Ultimate Guide to Python Syntax](https://www.reddit.com/r/Python/comments/t2smcq/learn_python_in_under_8_minutes_the_ultimate/)
+- [Type safe Django app, Part 2](https://www.reddit.com/r/Python/comments/t2sjvt/type_safe_django_app_part_2/)
 - [Showcase Your Projects in Spaces using Gradio](https://www.reddit.com/r/Python/comments/t2rhty/showcase_your_projects_in_spaces_using_gradio/)
 - [In a Markov chain of the entire works of Dr. Seuss, what would be the largest communicating class?](https://www.reddit.com/r/Python/comments/t2rfux/in_a_markov_chain_of_the_entire_works_of_dr_seuss/)
 - [Python Map and Filter Functions - Python tutorial for beginners 16](https://www.reddit.com/r/Python/comments/t2qjuj/python_map_and_filter_functions_python_tutorial/)
-- [Creating switch statements in Python 3.9](https://www.reddit.com/r/Python/comments/t2pwxg/creating_switch_statements_in_python_39/)
-- [Twitter Bot to find the source of pretty much any post](https://www.reddit.com/r/Python/comments/t2p7io/twitter_bot_to_find_the_source_of_pretty_much_any/)
 <!-- BLOG-POST-LIST:END -->
