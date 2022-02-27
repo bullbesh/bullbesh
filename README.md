@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Surf Scraper LED](https://www.reddit.com/r/Python/comments/t2b4vb/surf_scraper_led/)
+- [Netflix Squid Game in Python &lpar;Glass Bridge&rpar;](https://www.reddit.com/r/Python/comments/t2b3d7/netflix_squid_game_in_python_glass_bridge/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/t2arhs/sunday_daily_thread_whats_everyone_working_on/)
+- [PyTermGUI is getting full in-terminal image support soon!](https://www.reddit.com/r/Python/comments/t2akr3/pytermgui_is_getting_full_interminal_image/)
 - [Sudoku Solver](https://www.reddit.com/r/Python/comments/t28wcs/sudoku_solver/)
-- [Space Science with Python - An asteroid spectrum classifier &lpar;ML Project&rpar;](https://www.reddit.com/r/Python/comments/t28023/space_science_with_python_an_asteroid_spectrum/)
-- [Python Full Course - 2022 | Python Tutorial for Beginners [2022] in 3.5 Hours](https://www.reddit.com/r/Python/comments/t2801u/python_full_course_2022_python_tutorial_for/)
-- [Project: Expense Tracker](https://www.reddit.com/r/Python/comments/t25k8u/project_expense_tracker/)
-- [How does pythons pass by assignment different from more traditional pass by reference approach?](https://www.reddit.com/r/Python/comments/t25jwa/how_does_pythons_pass_by_assignment_different/)
 <!-- BLOG-POST-LIST:END -->
