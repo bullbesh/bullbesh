@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Real Time Sign Language Recognition](https://www.reddit.com/r/Python/comments/t2j2ak/real_time_sign_language_recognition/)
 - [Select range in numpy array](https://www.reddit.com/r/Python/comments/t2hlvi/select_range_in_numpy_array/)
 - [Positional Arguments or Keyword Arguments - What is the best practice?](https://www.reddit.com/r/Python/comments/t2gn1r/positional_arguments_or_keyword_arguments_what_is/)
 - [Portfolio Suggestions for Flask Developers](https://www.reddit.com/r/Python/comments/t2fzmc/portfolio_suggestions_for_flask_developers/)
 - [Do you run a pypi server on your local?](https://www.reddit.com/r/Python/comments/t2foz1/do_you_run_a_pypi_server_on_your_local/)
-- [I Made a short Hangman Game Yesterday!](https://www.reddit.com/r/Python/comments/t2ewu7/i_made_a_short_hangman_game_yesterday/)
 <!-- BLOG-POST-LIST:END -->
