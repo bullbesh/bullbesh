@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Showcase Your Projects in Spaces using Gradio](https://www.reddit.com/r/Python/comments/t2rhty/showcase_your_projects_in_spaces_using_gradio/)
+- [In a Markov chain of the entire works of Dr. Seuss, what would be the largest communicating class?](https://www.reddit.com/r/Python/comments/t2rfux/in_a_markov_chain_of_the_entire_works_of_dr_seuss/)
+- [Python Map and Filter Functions - Python tutorial for beginners 16](https://www.reddit.com/r/Python/comments/t2qjuj/python_map_and_filter_functions_python_tutorial/)
 - [Creating switch statements in Python 3.9](https://www.reddit.com/r/Python/comments/t2pwxg/creating_switch_statements_in_python_39/)
 - [Twitter Bot to find the source of pretty much any post](https://www.reddit.com/r/Python/comments/t2p7io/twitter_bot_to_find_the_source_of_pretty_much_any/)
-- [Most insane Python projects/tools built from scratch you&#39;ve come across / ever heard?](https://www.reddit.com/r/Python/comments/t2ogf6/most_insane_python_projectstools_built_from/)
-- [Python ASCII RPG tutorial &lpar;Part2/4&rpar;: Now with map tiles, recommended for beginners too!](https://www.reddit.com/r/Python/comments/t2oekt/python_ascii_rpg_tutorial_part24_now_with_map/)
-- [skillmap, a tool used for creating skill tree](https://www.reddit.com/r/Python/comments/t2o8p0/skillmap_a_tool_used_for_creating_skill_tree/)
 <!-- BLOG-POST-LIST:END -->
