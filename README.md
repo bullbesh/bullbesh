@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can I do everything on Android?](https://www.reddit.com/r/Python/comments/t2xtgq/can_i_do_everything_on_android/)
+- [Just finished another 48 hour game jam with Python and Pygame!](https://www.reddit.com/r/Python/comments/t2xa6j/just_finished_another_48_hour_game_jam_with/)
+- [How-To: Overwrite Previously Printed Lines](https://www.reddit.com/r/Python/comments/t2x5xp/howto_overwrite_previously_printed_lines/)
 - [I made a tutorial on how to turn JPGs into MIDI using python](https://www.reddit.com/r/Python/comments/t2v9tt/i_made_a_tutorial_on_how_to_turn_jpgs_into_midi/)
 - [Python Selenium Tutorial #3 - Pagination &amp; Saving Data To JSON File](https://www.reddit.com/r/Python/comments/t2uwcg/python_selenium_tutorial_3_pagination_saving_data/)
-- [Search YouTube from the terminal written in python](https://www.reddit.com/r/Python/comments/t2u5nc/search_youtube_from_the_terminal_written_in_python/)
-- [Learn Python in Under 8 Minutes: The Ultimate Guide to Python Syntax](https://www.reddit.com/r/Python/comments/t2smcq/learn_python_in_under_8_minutes_the_ultimate/)
-- [Type safe Django app, Part 2](https://www.reddit.com/r/Python/comments/t2sjvt/type_safe_django_app_part_2/)
 <!-- BLOG-POST-LIST:END -->
