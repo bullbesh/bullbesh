@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Would you make telegram bot to translate Ukrainian news sources?](https://www.reddit.com/r/Python/comments/t2n5ad/would_you_make_telegram_bot_to_translate/)
+- [Python Is a Powerful Programming Language](https://www.reddit.com/r/Python/comments/t2md8u/python_is_a_powerful_programming_language/)
+- [My first project. Rate my code please](https://www.reddit.com/r/Python/comments/t2mc9a/my_first_project_rate_my_code_please/)
 - [HTTP status code except it is with cats](https://www.reddit.com/r/Python/comments/t2kjn9/http_status_code_except_it_is_with_cats/)
 - [How can I merge and showcase big data from csv file?](https://www.reddit.com/r/Python/comments/t2jzua/how_can_i_merge_and_showcase_big_data_from_csv/)
-- [Best automation tools you&#39;ve heard of built in Python](https://www.reddit.com/r/Python/comments/t2jpc0/best_automation_tools_youve_heard_of_built_in/)
-- [Real Time Sign Language Recognition](https://www.reddit.com/r/Python/comments/t2j2ak/real_time_sign_language_recognition/)
-- [Select range in numpy array](https://www.reddit.com/r/Python/comments/t2hlvi/select_range_in_numpy_array/)
 <!-- BLOG-POST-LIST:END -->
