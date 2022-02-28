@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hi I am doing higher computing science and I’m trying to figure out how to check if the first value of my string is an uppercase letter using ascii. Can someone please help I’m very stuck.](https://www.reddit.com/r/Python/comments/t3kiv0/hi_i_am_doing_higher_computing_science_and_im/)
+- [WhyProfiler - a visual CPU profiler for Jupyter notebook that combines profiling with static analysis](https://www.reddit.com/r/Python/comments/t3kc1d/whyprofiler_a_visual_cpu_profiler_for_jupyter/)
+- [Do You Want to Hunt the Wumpus?](https://www.reddit.com/r/Python/comments/t3jnzy/do_you_want_to_hunt_the_wumpus/)
+- [Link Prediction Recommendation Engines with Node2Vec](https://www.reddit.com/r/Python/comments/t3jn0r/link_prediction_recommendation_engines_with/)
 - [How do you declare constants in a Python Project ?](https://www.reddit.com/r/Python/comments/t3jga3/how_do_you_declare_constants_in_a_python_project/)
-- [Linting and formatting](https://www.reddit.com/r/Python/comments/t3jg1q/linting_and_formatting/)
-- [Complete Guide on Python Decorators](https://www.reddit.com/r/Python/comments/t3j7yh/complete_guide_on_python_decorators/)
-- [Hi, this video explains how to create multiple lines animation using matplotlib.](https://www.reddit.com/r/Python/comments/t3gtse/hi_this_video_explains_how_to_create_multiple/)
-- [Hack an IKEA lamp with Neopixels, ESP32 and MicroPython](https://www.reddit.com/r/Python/comments/t3go9n/hack_an_ikea_lamp_with_neopixels_esp32_and/)
 <!-- BLOG-POST-LIST:END -->
