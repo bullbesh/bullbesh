@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hi, this video explains how to create multiple lines animation using matplotlib.](https://www.reddit.com/r/Python/comments/t3gtse/hi_this_video_explains_how_to_create_multiple/)
+- [Hack an IKEA lamp with Neopixels, ESP32 and MicroPython](https://www.reddit.com/r/Python/comments/t3go9n/hack_an_ikea_lamp_with_neopixels_esp32_and/)
 - [Is it possible to implement RSA-1111 bit Cryptography Scheme](https://www.reddit.com/r/Python/comments/t3gc8m/is_it_possible_to_implement_rsa1111_bit/)
 - [&lpar;Beginner&rpar; Simple card game in Tkinter](https://www.reddit.com/r/Python/comments/t3ehlf/beginner_simple_card_game_in_tkinter/)
 - [Optimizing Memory Usage in Python Applications](https://www.reddit.com/r/Python/comments/t3eelj/optimizing_memory_usage_in_python_applications/)
-- [NiceScaler 1.1.0 - Lossless image upscaler app based on OpenCV SuperResolution deeplearning models](https://www.reddit.com/r/Python/comments/t3dlz5/nicescaler_110_lossless_image_upscaler_app_based/)
-- [please help me with my project](https://www.reddit.com/r/Python/comments/t3d7pj/please_help_me_with_my_project/)
 <!-- BLOG-POST-LIST:END -->
