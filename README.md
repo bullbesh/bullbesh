@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code to convert from binary to hexadecimal](https://www.reddit.com/r/Python/comments/t34nah/code_to_convert_from_binary_to_hexadecimal/)
+- [Project Vestory &lpar;again...&rpar;](https://www.reddit.com/r/Python/comments/t34i26/project_vestory_again/)
 - [Simple code to unlock all read-only PDFs in current folder without the password](https://www.reddit.com/r/Python/comments/t32z2o/simple_code_to_unlock_all_readonly_pdfs_in/)
 - [Dad passed away recently, I want to throw myself at a project to keep me busy.](https://www.reddit.com/r/Python/comments/t32tyh/dad_passed_away_recently_i_want_to_throw_myself/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/t31j9q/monday_daily_thread_project_ideas/)
-- [Is this a Project for Python?](https://www.reddit.com/r/Python/comments/t31g9x/is_this_a_project_for_python/)
-- [Can I do everything on Android?](https://www.reddit.com/r/Python/comments/t2xtgq/can_i_do_everything_on_android/)
 <!-- BLOG-POST-LIST:END -->
