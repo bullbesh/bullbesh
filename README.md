@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Very new to python and programming](https://www.reddit.com/r/Python/comments/t34zal/very_new_to_python_and_programming/)
+- [A Python framework for evaluating AI/ML Wordle agents](https://www.reddit.com/r/Python/comments/t34yh7/a_python_framework_for_evaluating_aiml_wordle/)
+- [Keras visualizer and XML parser](https://www.reddit.com/r/Python/comments/t34xaw/keras_visualizer_and_xml_parser/)
+- [Run python script online](https://www.reddit.com/r/Python/comments/t34wiz/run_python_script_online/)
 - [Code to convert from binary to hexadecimal](https://www.reddit.com/r/Python/comments/t34nah/code_to_convert_from_binary_to_hexadecimal/)
-- [Project Vestory &lpar;again...&rpar;](https://www.reddit.com/r/Python/comments/t34i26/project_vestory_again/)
-- [Simple code to unlock all read-only PDFs in current folder without the password](https://www.reddit.com/r/Python/comments/t32z2o/simple_code_to_unlock_all_readonly_pdfs_in/)
-- [Dad passed away recently, I want to throw myself at a project to keep me busy.](https://www.reddit.com/r/Python/comments/t32tyh/dad_passed_away_recently_i_want_to_throw_myself/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/t31j9q/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
