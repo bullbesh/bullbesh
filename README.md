@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first project on Python. Open for critisism](https://www.reddit.com/r/Python/comments/t38l13/my_first_project_on_python_open_for_critisism/)
+- [Resource recommendations for advanced python? Or topics you consider advanced](https://www.reddit.com/r/Python/comments/t382uw/resource_recommendations_for_advanced_python_or/)
 - [Slixmpp 1.8.0 has been released | XMPP library for Python | SleekXMPP](https://www.reddit.com/r/Python/comments/t360h0/slixmpp_180_has_been_released_xmpp_library_for/)
 - [Good libraries for music detection](https://www.reddit.com/r/Python/comments/t35o5c/good_libraries_for_music_detection/)
 - [A Python framework for evaluating AI/ML Wordle agents](https://www.reddit.com/r/Python/comments/t34yh7/a_python_framework_for_evaluating_aiml_wordle/)
-- [Keras visualizer and XML parser](https://www.reddit.com/r/Python/comments/t34xaw/keras_visualizer_and_xml_parser/)
-- [Run python script online](https://www.reddit.com/r/Python/comments/t34wiz/run_python_script_online/)
 <!-- BLOG-POST-LIST:END -->
