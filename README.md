@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do people manage private packages within Python projects in Azure?](https://www.reddit.com/r/Python/comments/t3bedc/how_do_people_manage_private_packages_within/)
+- [pyshorteners A simple URL shortening API wrapper Python library.](https://www.reddit.com/r/Python/comments/t3b032/pyshorteners_a_simple_url_shortening_api_wrapper/)
 - [Visualize Personal Broker Accounts](https://www.reddit.com/r/Python/comments/t3a4ij/visualize_personal_broker_accounts/)
 - [My first project on Python. Open for critisism](https://www.reddit.com/r/Python/comments/t38l13/my_first_project_on_python_open_for_critisism/)
 - [Resource recommendations for advanced python? Or topics you consider advanced](https://www.reddit.com/r/Python/comments/t382uw/resource_recommendations_for_advanced_python_or/)
-- [Slixmpp 1.8.0 has been released | XMPP library for Python | SleekXMPP](https://www.reddit.com/r/Python/comments/t360h0/slixmpp_180_has_been_released_xmpp_library_for/)
-- [Good libraries for music detection](https://www.reddit.com/r/Python/comments/t35o5c/good_libraries_for_music_detection/)
 <!-- BLOG-POST-LIST:END -->
