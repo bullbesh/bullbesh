@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do you declare constants in a Python Project ?](https://www.reddit.com/r/Python/comments/t3jga3/how_do_you_declare_constants_in_a_python_project/)
+- [Linting and formatting](https://www.reddit.com/r/Python/comments/t3jg1q/linting_and_formatting/)
+- [Complete Guide on Python Decorators](https://www.reddit.com/r/Python/comments/t3j7yh/complete_guide_on_python_decorators/)
 - [Hi, this video explains how to create multiple lines animation using matplotlib.](https://www.reddit.com/r/Python/comments/t3gtse/hi_this_video_explains_how_to_create_multiple/)
 - [Hack an IKEA lamp with Neopixels, ESP32 and MicroPython](https://www.reddit.com/r/Python/comments/t3go9n/hack_an_ikea_lamp_with_neopixels_esp32_and/)
-- [Is it possible to implement RSA-1111 bit Cryptography Scheme](https://www.reddit.com/r/Python/comments/t3gc8m/is_it_possible_to_implement_rsa1111_bit/)
-- [&lpar;Beginner&rpar; Simple card game in Tkinter](https://www.reddit.com/r/Python/comments/t3ehlf/beginner_simple_card_game_in_tkinter/)
-- [Optimizing Memory Usage in Python Applications](https://www.reddit.com/r/Python/comments/t3eelj/optimizing_memory_usage_in_python_applications/)
 <!-- BLOG-POST-LIST:END -->
