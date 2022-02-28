@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [please help me with my project](https://www.reddit.com/r/Python/comments/t3d7pj/please_help_me_with_my_project/)
+- [Flask-based Bootstrap-styled Web Application Template](https://www.reddit.com/r/Python/comments/t3csik/flaskbased_bootstrapstyled_web_application/)
+- [Java to python converter &lpar;With fix lot of bug&rpar;](https://www.reddit.com/r/Python/comments/t3cq2p/java_to_python_converter_with_fix_lot_of_bug/)
+- [PyPI is hiring contract developers to build new features in PyPI](https://www.reddit.com/r/Python/comments/t3chuu/pypi_is_hiring_contract_developers_to_build_new/)
 - [How do people manage private packages within Python projects in Azure?](https://www.reddit.com/r/Python/comments/t3bedc/how_do_people_manage_private_packages_within/)
-- [pyshorteners A simple URL shortening API wrapper Python library.](https://www.reddit.com/r/Python/comments/t3b032/pyshorteners_a_simple_url_shortening_api_wrapper/)
-- [Visualize Personal Broker Accounts](https://www.reddit.com/r/Python/comments/t3a4ij/visualize_personal_broker_accounts/)
-- [My first project on Python. Open for critisism](https://www.reddit.com/r/Python/comments/t38l13/my_first_project_on_python_open_for_critisism/)
-- [Resource recommendations for advanced python? Or topics you consider advanced](https://www.reddit.com/r/Python/comments/t382uw/resource_recommendations_for_advanced_python_or/)
 <!-- BLOG-POST-LIST:END -->
