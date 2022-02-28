@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrape verified contracts on BSC Scan](https://www.reddit.com/r/Python/comments/t3oj61/scrape_verified_contracts_on_bsc_scan/)
 - [Is this course good and enough for beginners?](https://www.reddit.com/r/Python/comments/t3m9d1/is_this_course_good_and_enough_for_beginners/)
-- [Anyone learned python in DataCamp? What if I interested about AI career, which course should i prefer to study? For programming, I learned c+ before, but i dont have much knowledge. Thanks for the information! ———-ps. you guys can tell me about other platform/way to study.](https://www.reddit.com/r/Python/comments/t3lrp0/anyone_learned_python_in_datacamp_what_if_i/)
 - [to slice an integer converting it to string is pythonic?](https://www.reddit.com/r/Python/comments/t3kp53/to_slice_an_integer_converting_it_to_string_is/)
 - [WhyProfiler - a visual CPU profiler for Jupyter notebook that combines profiling with static analysis](https://www.reddit.com/r/Python/comments/t3kc1d/whyprofiler_a_visual_cpu_profiler_for_jupyter/)
 - [Do You Want to Hunt the Wumpus?](https://www.reddit.com/r/Python/comments/t3jnzy/do_you_want_to_hunt_the_wumpus/)
