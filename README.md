@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple code to unlock all read-only PDFs in current folder without the password](https://www.reddit.com/r/Python/comments/t32z2o/simple_code_to_unlock_all_readonly_pdfs_in/)
+- [Dad passed away recently, I want to throw myself at a project to keep me busy.](https://www.reddit.com/r/Python/comments/t32tyh/dad_passed_away_recently_i_want_to_throw_myself/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/t31j9q/monday_daily_thread_project_ideas/)
+- [Is this a Project for Python?](https://www.reddit.com/r/Python/comments/t31g9x/is_this_a_project_for_python/)
 - [Can I do everything on Android?](https://www.reddit.com/r/Python/comments/t2xtgq/can_i_do_everything_on_android/)
-- [Just finished another 48 hour game jam with Python and Pygame!](https://www.reddit.com/r/Python/comments/t2xa6j/just_finished_another_48_hour_game_jam_with/)
-- [How-To: Overwrite Previously Printed Lines](https://www.reddit.com/r/Python/comments/t2x5xp/howto_overwrite_previously_printed_lines/)
-- [I made a tutorial on how to turn JPGs into MIDI using python](https://www.reddit.com/r/Python/comments/t2v9tt/i_made_a_tutorial_on_how_to_turn_jpgs_into_midi/)
-- [Python Selenium Tutorial #3 - Pagination &amp; Saving Data To JSON File](https://www.reddit.com/r/Python/comments/t2uwcg/python_selenium_tutorial_3_pagination_saving_data/)
 <!-- BLOG-POST-LIST:END -->
