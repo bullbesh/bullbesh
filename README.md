@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hi I am doing higher computing science and I’m trying to figure out how to check if the first value of my string is an uppercase letter using ascii. Can someone please help I’m very stuck.](https://www.reddit.com/r/Python/comments/t3kiv0/hi_i_am_doing_higher_computing_science_and_im/)
+- [Anyone learned python in DataCamp? What if I interested about AI career, which course should i prefer to study? For programming, I learned c+ before, but i dont have much knowledge. Thanks for the information! ———-ps. you guys can tell me about other platform/way to study.](https://www.reddit.com/r/Python/comments/t3lrp0/anyone_learned_python_in_datacamp_what_if_i/)
+- [to slice an integer converting it to string is pythonic?](https://www.reddit.com/r/Python/comments/t3kp53/to_slice_an_integer_converting_it_to_string_is/)
 - [WhyProfiler - a visual CPU profiler for Jupyter notebook that combines profiling with static analysis](https://www.reddit.com/r/Python/comments/t3kc1d/whyprofiler_a_visual_cpu_profiler_for_jupyter/)
 - [Do You Want to Hunt the Wumpus?](https://www.reddit.com/r/Python/comments/t3jnzy/do_you_want_to_hunt_the_wumpus/)
 - [Link Prediction Recommendation Engines with Node2Vec](https://www.reddit.com/r/Python/comments/t3jn0r/link_prediction_recommendation_engines_with/)
-- [How do you declare constants in a Python Project ?](https://www.reddit.com/r/Python/comments/t3jga3/how_do_you_declare_constants_in_a_python_project/)
 <!-- BLOG-POST-LIST:END -->
