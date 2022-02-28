@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Very new to python and programming](https://www.reddit.com/r/Python/comments/t34zal/very_new_to_python_and_programming/)
+- [Slixmpp 1.8.0 has been released | XMPP library for Python | SleekXMPP](https://www.reddit.com/r/Python/comments/t360h0/slixmpp_180_has_been_released_xmpp_library_for/)
+- [Good libraries for music detection](https://www.reddit.com/r/Python/comments/t35o5c/good_libraries_for_music_detection/)
 - [A Python framework for evaluating AI/ML Wordle agents](https://www.reddit.com/r/Python/comments/t34yh7/a_python_framework_for_evaluating_aiml_wordle/)
 - [Keras visualizer and XML parser](https://www.reddit.com/r/Python/comments/t34xaw/keras_visualizer_and_xml_parser/)
 - [Run python script online](https://www.reddit.com/r/Python/comments/t34wiz/run_python_script_online/)
-- [Code to convert from binary to hexadecimal](https://www.reddit.com/r/Python/comments/t34nah/code_to_convert_from_binary_to_hexadecimal/)
 <!-- BLOG-POST-LIST:END -->
