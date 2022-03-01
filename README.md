@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tkinter to control Raspberry pi 4 GPIO](https://www.reddit.com/r/Python/comments/t3wous/tkinter_to_control_raspberry_pi_4_gpio/)
+- [Robot to gather data for personal dashboard](https://www.reddit.com/r/Python/comments/t3vv64/robot_to_gather_data_for_personal_dashboard/)
 - [Wallpaper Engine and RGB lights matcher with Python](https://www.reddit.com/r/Python/comments/t3urpt/wallpaper_engine_and_rgb_lights_matcher_with/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/t3tuhr/tuesday_daily_thread_advanced_questions/)
 - [Python&#39;s urllib.request for HTTP Requests](https://www.reddit.com/r/Python/comments/t3ssij/pythons_urllibrequest_for_http_requests/)
-- [Type Hints and Static Type Checking - A Brief Video Tutorial](https://www.reddit.com/r/Python/comments/t3qo1f/type_hints_and_static_type_checking_a_brief_video/)
-- [Poetry has officially fixed / permanently included pip install -e](https://www.reddit.com/r/Python/comments/t3p3ub/poetry_has_officially_fixed_permanently_included/)
 <!-- BLOG-POST-LIST:END -->
