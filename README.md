@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Intro factorial program](https://www.reddit.com/r/Python/comments/t4f5vk/intro_factorial_program/)
+- [Data for quiz App](https://www.reddit.com/r/Python/comments/t4emfz/data_for_quiz_app/)
+- [How to make a Cool Smoke effect using Pygame](https://www.reddit.com/r/Python/comments/t4ekb7/how_to_make_a_cool_smoke_effect_using_pygame/)
 - [RasgoQL - Transform tables directly with Python, without writing SQL](https://www.reddit.com/r/Python/comments/t4eil2/rasgoql_transform_tables_directly_with_python/)
 - [API that returns coding examples](https://www.reddit.com/r/Python/comments/t4dcr7/api_that_returns_coding_examples/)
-- [A More Interactive Folium choropleth](https://www.reddit.com/r/Python/comments/t4cykv/a_more_interactive_folium_choropleth/)
-- [Parking Space Counter with OpenCV](https://www.reddit.com/r/Python/comments/t4cucy/parking_space_counter_with_opencv/)
-- [Backtesting A Call Spread Option/Warrant Using Data From Yahoo Finance](https://www.reddit.com/r/Python/comments/t4cbi3/backtesting_a_call_spread_optionwarrant_using/)
 <!-- BLOG-POST-LIST:END -->
