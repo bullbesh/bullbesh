@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can I convert my code in python to executable?](https://www.reddit.com/r/Python/comments/t3zr7y/can_i_convert_my_code_in_python_to_executable/)
+- [Guide for python list extend](https://www.reddit.com/r/Python/comments/t3z9zo/guide_for_python_list_extend/)
 - [A collection of design patterns/idioms in Python](https://www.reddit.com/r/Python/comments/t3yl43/a_collection_of_design_patternsidioms_in_python/)
 - [Tkinter to control Raspberry pi 4 GPIO](https://www.reddit.com/r/Python/comments/t3wous/tkinter_to_control_raspberry_pi_4_gpio/)
 - [Robot to gather data for personal dashboard](https://www.reddit.com/r/Python/comments/t3vv64/robot_to_gather_data_for_personal_dashboard/)
-- [Wallpaper Engine and RGB lights matcher with Python](https://www.reddit.com/r/Python/comments/t3urpt/wallpaper_engine_and_rgb_lights_matcher_with/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/t3tuhr/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
