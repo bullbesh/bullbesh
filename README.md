@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Intro factorial program](https://www.reddit.com/r/Python/comments/t4f5vk/intro_factorial_program/)
-- [Data for quiz App](https://www.reddit.com/r/Python/comments/t4emfz/data_for_quiz_app/)
-- [How to make a Cool Smoke effect using Pygame](https://www.reddit.com/r/Python/comments/t4ekb7/how_to_make_a_cool_smoke_effect_using_pygame/)
-- [RasgoQL - Transform tables directly with Python, without writing SQL](https://www.reddit.com/r/Python/comments/t4eil2/rasgoql_transform_tables_directly_with_python/)
-- [API that returns coding examples](https://www.reddit.com/r/Python/comments/t4dcr7/api_that_returns_coding_examples/)
+- [Python developers here, can you give me a guide to learn python language?](https://www.reddit.com/r/Python/comments/t4h4qy/python_developers_here_can_you_give_me_a_guide_to/)
+- [GraphQL : graphene, Ariadne , Strawberry ?](https://www.reddit.com/r/Python/comments/t4h3rz/graphql_graphene_ariadne_strawberry/)
+- [Help](https://www.reddit.com/r/Python/comments/t4h1na/help/)
+- [Geo-Locate IPs With Python](https://www.reddit.com/r/Python/comments/t4gtud/geolocate_ips_with_python/)
+- [String Error Python](https://www.reddit.com/r/Python/comments/t4gqdr/string_error_python/)
 <!-- BLOG-POST-LIST:END -->
