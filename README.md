@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RasgoQL - Transform tables directly with Python, without writing SQL](https://www.reddit.com/r/Python/comments/t4eil2/rasgoql_transform_tables_directly_with_python/)
+- [API that returns coding examples](https://www.reddit.com/r/Python/comments/t4dcr7/api_that_returns_coding_examples/)
 - [A More Interactive Folium choropleth](https://www.reddit.com/r/Python/comments/t4cykv/a_more_interactive_folium_choropleth/)
 - [Parking Space Counter with OpenCV](https://www.reddit.com/r/Python/comments/t4cucy/parking_space_counter_with_opencv/)
 - [Backtesting A Call Spread Option/Warrant Using Data From Yahoo Finance](https://www.reddit.com/r/Python/comments/t4cbi3/backtesting_a_call_spread_optionwarrant_using/)
-- [WordyRegex - a really wordy path to regex](https://www.reddit.com/r/Python/comments/t4c0k6/wordyregex_a_really_wordy_path_to_regex/)
-- [Curated list of material to learn Python for beginners](https://www.reddit.com/r/Python/comments/t4bxvg/curated_list_of_material_to_learn_python_for/)
 <!-- BLOG-POST-LIST:END -->
