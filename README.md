@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A simple script to colorize color separations](https://www.reddit.com/r/Python/comments/t49xpa/a_simple_script_to_colorize_color_separations/)
+- [Security for package maintainers](https://www.reddit.com/r/Python/comments/t49s8l/security_for_package_maintainers/)
 - [Python&#39;s urllib.request for HTTP Requests – Real Python](https://www.reddit.com/r/Python/comments/t48wey/pythons_urllibrequest_for_http_requests_real/)
 - [Faster Python Code - Some Advice](https://www.reddit.com/r/Python/comments/t48p8y/faster_python_code_some_advice/)
-- [Finally a web-scarper tutorial which isn&#39;t 100000000 minutes long...](https://www.reddit.com/r/Python/comments/t48ibr/finally_a_webscarper_tutorial_which_isnt/)
 - [Where to start?](https://www.reddit.com/r/Python/comments/t486nv/where_to_start/)
-- [Formatting](https://www.reddit.com/r/Python/comments/t482wl/formatting/)
 <!-- BLOG-POST-LIST:END -->
