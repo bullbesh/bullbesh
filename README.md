@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python developers here, can you give me a guide to learn python language?](https://www.reddit.com/r/Python/comments/t4h4qy/python_developers_here_can_you_give_me_a_guide_to/)
+- [Surprise – a simple recommender system library for Python](https://www.reddit.com/r/Python/comments/t4iahq/surprise_a_simple_recommender_system_library_for/)
+- [Imagscii - A image to ascii photo filter API](https://www.reddit.com/r/Python/comments/t4hqv3/imagscii_a_image_to_ascii_photo_filter_api/)
 - [GraphQL : graphene, Ariadne , Strawberry ?](https://www.reddit.com/r/Python/comments/t4h3rz/graphql_graphene_ariadne_strawberry/)
-- [Help](https://www.reddit.com/r/Python/comments/t4h1na/help/)
 - [Geo-Locate IPs With Python](https://www.reddit.com/r/Python/comments/t4gtud/geolocate_ips_with_python/)
-- [String Error Python](https://www.reddit.com/r/Python/comments/t4gqdr/string_error_python/)
+- [A modular Python TUI framework with a fast and pretty markup language](https://www.reddit.com/r/Python/comments/t4gq6h/a_modular_python_tui_framework_with_a_fast_and/)
 <!-- BLOG-POST-LIST:END -->
