@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [AUDIO CLASSIFICATION USING DEEP LEARNING](https://www.reddit.com/r/Python/comments/t471y8/audio_classification_using_deep_learning/)
-- [Type and Column name checker for saving data to BigQuery](https://www.reddit.com/r/Python/comments/t46f71/type_and_column_name_checker_for_saving_data_to/)
-- [How variables are saved in Python and Rust. Side by Side 7: dict/HashMap](https://www.reddit.com/r/Python/comments/t45i7b/how_variables_are_saved_in_python_and_rust_side/)
-- [Packaging Python with the PyOxidizer Pants Plugin](https://www.reddit.com/r/Python/comments/t45254/packaging_python_with_the_pyoxidizer_pants_plugin/)
-- [Little project I&#39;m working on that scrapes Ethereum mining stats, checks current crypto prices and converts crypto currencies](https://www.reddit.com/r/Python/comments/t43in1/little_project_im_working_on_that_scrapes/)
+- [Python&#39;s urllib.request for HTTP Requests – Real Python](https://www.reddit.com/r/Python/comments/t48wey/pythons_urllibrequest_for_http_requests_real/)
+- [Faster Python Code - Some Advice](https://www.reddit.com/r/Python/comments/t48p8y/faster_python_code_some_advice/)
+- [Finally a web-scarper tutorial which isn&#39;t 100000000 minutes long...](https://www.reddit.com/r/Python/comments/t48ibr/finally_a_webscarper_tutorial_which_isnt/)
+- [Where to start?](https://www.reddit.com/r/Python/comments/t486nv/where_to_start/)
+- [Formatting](https://www.reddit.com/r/Python/comments/t482wl/formatting/)
 <!-- BLOG-POST-LIST:END -->
