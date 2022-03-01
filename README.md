@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project Smartphone GUI :](https://www.reddit.com/r/Python/comments/t4jwm4/project_smartphone_gui/)
+- [Use of shebang in Python](https://www.reddit.com/r/Python/comments/t4jdy6/use_of_shebang_in_python/)
+- [How to make Netflix Squid Game simulator in Python](https://www.reddit.com/r/Python/comments/t4j9uy/how_to_make_netflix_squid_game_simulator_in_python/)
+- [How to Write Clean PYTHONIC Code With Open-Closed Principle](https://www.reddit.com/r/Python/comments/t4ixf5/how_to_write_clean_pythonic_code_with_openclosed/)
 - [Surprise – a simple recommender system library for Python](https://www.reddit.com/r/Python/comments/t4iahq/surprise_a_simple_recommender_system_library_for/)
-- [Imagscii - A image to ascii photo filter API](https://www.reddit.com/r/Python/comments/t4hqv3/imagscii_a_image_to_ascii_photo_filter_api/)
-- [GraphQL : graphene, Ariadne , Strawberry ?](https://www.reddit.com/r/Python/comments/t4h3rz/graphql_graphene_ariadne_strawberry/)
-- [Geo-Locate IPs With Python](https://www.reddit.com/r/Python/comments/t4gtud/geolocate_ips_with_python/)
-- [A modular Python TUI framework with a fast and pretty markup language](https://www.reddit.com/r/Python/comments/t4gq6h/a_modular_python_tui_framework_with_a_fast_and/)
 <!-- BLOG-POST-LIST:END -->
