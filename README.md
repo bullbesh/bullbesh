@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Computing in Python Course for free](https://www.reddit.com/r/Python/comments/t4bqqb/quantum_computing_in_python_course_for_free/)
+- [Python Tutorial - How to create a Chess Board with Python?](https://www.reddit.com/r/Python/comments/t4bhtl/python_tutorial_how_to_create_a_chess_board_with/)
+- [&quot;Programmers should probably be making even more than they are now because they have the option to pursue careers that don&#39;t even need coding, but that only they can do.&quot; Interesting conversation from a former CTO on the different career opps developers can pursue that require little-to-no coding.](https://www.reddit.com/r/Python/comments/t4ake3/programmers_should_probably_be_making_even_more/)
 - [A simple script to colorize color separations](https://www.reddit.com/r/Python/comments/t49xpa/a_simple_script_to_colorize_color_separations/)
 - [Security for package maintainers](https://www.reddit.com/r/Python/comments/t49s8l/security_for_package_maintainers/)
-- [Python&#39;s urllib.request for HTTP Requests – Real Python](https://www.reddit.com/r/Python/comments/t48wey/pythons_urllibrequest_for_http_requests_real/)
-- [Faster Python Code - Some Advice](https://www.reddit.com/r/Python/comments/t48p8y/faster_python_code_some_advice/)
-- [Where to start?](https://www.reddit.com/r/Python/comments/t486nv/where_to_start/)
 <!-- BLOG-POST-LIST:END -->
