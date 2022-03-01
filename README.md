@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Little project I&#39;m working on that scrapes Ethereum mining stats, checks current crypto prices and converts crypto currencies](https://www.reddit.com/r/Python/comments/t43in1/little_project_im_working_on_that_scrapes/)
 - [python list complete tutorial in Hindi | python tutorial in Hindi #6](https://www.reddit.com/r/Python/comments/t432wh/python_list_complete_tutorial_in_hindi_python/)
 - [Why is Python more popular than PHP?](https://www.reddit.com/r/Python/comments/t42y1u/why_is_python_more_popular_than_php/)
 - [I created an algorithm to solve Wordles!](https://www.reddit.com/r/Python/comments/t42wlo/i_created_an_algorithm_to_solve_wordles/)
 - [Guide for python list extend](https://www.reddit.com/r/Python/comments/t3z9zo/guide_for_python_list_extend/)
-- [A collection of design patterns/idioms in Python](https://www.reddit.com/r/Python/comments/t3yl43/a_collection_of_design_patternsidioms_in_python/)
 <!-- BLOG-POST-LIST:END -->
