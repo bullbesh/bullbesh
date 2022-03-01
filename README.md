@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Computing in Python Course for free](https://www.reddit.com/r/Python/comments/t4bqqb/quantum_computing_in_python_course_for_free/)
-- [Python Tutorial - How to create a Chess Board with Python?](https://www.reddit.com/r/Python/comments/t4bhtl/python_tutorial_how_to_create_a_chess_board_with/)
-- [&quot;Programmers should probably be making even more than they are now because they have the option to pursue careers that don&#39;t even need coding, but that only they can do.&quot; Interesting conversation from a former CTO on the different career opps developers can pursue that require little-to-no coding.](https://www.reddit.com/r/Python/comments/t4ake3/programmers_should_probably_be_making_even_more/)
-- [A simple script to colorize color separations](https://www.reddit.com/r/Python/comments/t49xpa/a_simple_script_to_colorize_color_separations/)
-- [Security for package maintainers](https://www.reddit.com/r/Python/comments/t49s8l/security_for_package_maintainers/)
+- [A More Interactive Folium choropleth](https://www.reddit.com/r/Python/comments/t4cykv/a_more_interactive_folium_choropleth/)
+- [Parking Space Counter with OpenCV](https://www.reddit.com/r/Python/comments/t4cucy/parking_space_counter_with_opencv/)
+- [Backtesting A Call Spread Option/Warrant Using Data From Yahoo Finance](https://www.reddit.com/r/Python/comments/t4cbi3/backtesting_a_call_spread_optionwarrant_using/)
+- [WordyRegex - a really wordy path to regex](https://www.reddit.com/r/Python/comments/t4c0k6/wordyregex_a_really_wordy_path_to_regex/)
+- [Curated list of material to learn Python for beginners](https://www.reddit.com/r/Python/comments/t4bxvg/curated_list_of_material_to_learn_python_for/)
 <!-- BLOG-POST-LIST:END -->
