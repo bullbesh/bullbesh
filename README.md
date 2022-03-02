@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Parse PySNMP Object Identities for MIB Variable Names](https://www.reddit.com/r/Python/comments/t527yg/parse_pysnmp_object_identities_for_mib_variable/)
+- [Power failure detection python script over serial.](https://www.reddit.com/r/Python/comments/t525a6/power_failure_detection_python_script_over_serial/)
+- [Python Tutorial - How to create a File Explorer in Python?](https://www.reddit.com/r/Python/comments/t51yaa/python_tutorial_how_to_create_a_file_explorer_in/)
+- [String Encoder](https://www.reddit.com/r/Python/comments/t51xjc/string_encoder/)
 - [Any experience with fraud detection and Python?](https://www.reddit.com/r/Python/comments/t50tfn/any_experience_with_fraud_detection_and_python/)
-- [Python ASCII RPG tutorial &lpar;Part3/4&rpar;: Simple combat and healing!](https://www.reddit.com/r/Python/comments/t50hfz/python_ascii_rpg_tutorial_part34_simple_combat/)
-- [Sharing Automation Project Ideas using Python](https://www.reddit.com/r/Python/comments/t4zwpt/sharing_automation_project_ideas_using_python/)
-- [Minimal resume template &lpar;Jekyll&rpar;](https://www.reddit.com/r/Python/comments/t4zhqu/minimal_resume_template_jekyll/)
-- [Modulenotfounderror](https://www.reddit.com/r/Python/comments/t4y6rm/modulenotfounderror/)
 <!-- BLOG-POST-LIST:END -->
