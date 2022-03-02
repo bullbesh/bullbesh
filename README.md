@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beginners guide to slicing strings in Python](https://www.reddit.com/r/Python/comments/t4w90j/beginners_guide_to_slicing_strings_in_python/)
+- [How to make attribute non-inheritable in child classes](https://www.reddit.com/r/Python/comments/t4vsub/how_to_make_attribute_noninheritable_in_child/)
 - [Intermediate Python Practice Problems](https://www.reddit.com/r/Python/comments/t4v9nk/intermediate_python_practice_problems/)
 - [Build High-Performance, Parallel, and Distributed Apps in Python](https://www.reddit.com/r/Python/comments/t4uk8j/build_highperformance_parallel_and_distributed/)
 - [communication skills improvement](https://www.reddit.com/r/Python/comments/t4rbcz/communication_skills_improvement/)
-- [How much of a deal breaker is an &quot;Unknown Publisher&quot; warning?](https://www.reddit.com/r/Python/comments/t4pnhs/how_much_of_a_deal_breaker_is_an_unknown/)
-- [After one year of python..](https://www.reddit.com/r/Python/comments/t4p1pw/after_one_year_of_python/)
 <!-- BLOG-POST-LIST:END -->
