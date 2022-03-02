@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning or working with AI? Come join us, we are a Discord Community with close to 22&#39;000 members and the vast majority of them work with Python! Ask questions, find teammates, share your projects, participate in events and projects, and much more!](https://www.reddit.com/r/Python/comments/t53ls4/learning_or_working_with_ai_come_join_us_we_are_a/)
+- [RasgoQL - Open source data transformations in Python, without having to write SQL.](https://www.reddit.com/r/Python/comments/t53g7u/rasgoql_open_source_data_transformations_in/)
+- [Study: Developers spend over 2 days a week just waiting for other developers to review their code](https://www.reddit.com/r/Python/comments/t536bb/study_developers_spend_over_2_days_a_week_just/)
+- [Here are 5 Money-Making Telegram Bot Ideas you can develop with Python](https://www.reddit.com/r/Python/comments/t52osv/here_are_5_moneymaking_telegram_bot_ideas_you_can/)
 - [Parse PySNMP Object Identities for MIB Variable Names](https://www.reddit.com/r/Python/comments/t527yg/parse_pysnmp_object_identities_for_mib_variable/)
-- [Power failure detection python script over serial.](https://www.reddit.com/r/Python/comments/t525a6/power_failure_detection_python_script_over_serial/)
-- [Python Tutorial - How to create a File Explorer in Python?](https://www.reddit.com/r/Python/comments/t51yaa/python_tutorial_how_to_create_a_file_explorer_in/)
-- [String Encoder](https://www.reddit.com/r/Python/comments/t51xjc/string_encoder/)
-- [Any experience with fraud detection and Python?](https://www.reddit.com/r/Python/comments/t50tfn/any_experience_with_fraud_detection_and_python/)
 <!-- BLOG-POST-LIST:END -->
