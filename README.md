@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick and simple port scanner](https://www.reddit.com/r/Python/comments/t4nep7/quick_and_simple_port_scanner/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/t4m9jr/wednesday_daily_thread_beginner_questions/)
 - [Project Smartphone GUI :](https://www.reddit.com/r/Python/comments/t4jwm4/project_smartphone_gui/)
 - [Use of shebang in Python](https://www.reddit.com/r/Python/comments/t4jdy6/use_of_shebang_in_python/)
 - [How to make Netflix Squid Game simulator in Python](https://www.reddit.com/r/Python/comments/t4j9uy/how_to_make_netflix_squid_game_simulator_in_python/)
-- [How to Write Clean PYTHONIC Code With Open-Closed Principle](https://www.reddit.com/r/Python/comments/t4ixf5/how_to_write_clean_pythonic_code_with_openclosed/)
-- [Surprise – a simple recommender system library for Python](https://www.reddit.com/r/Python/comments/t4iahq/surprise_a_simple_recommender_system_library_for/)
 <!-- BLOG-POST-LIST:END -->
