@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Miniboss, versatile local container management with Python](https://www.reddit.com/r/Python/comments/t54quf/miniboss_versatile_local_container_management/)
+- [Experiment: Comparing Methods for Making Pandas.DataFrame.to_sql&lpar;&rpar; Faster for Populating PostgreSQL Tables](https://www.reddit.com/r/Python/comments/t54n64/experiment_comparing_methods_for_making/)
+- [Features for apps](https://www.reddit.com/r/Python/comments/t544vq/features_for_apps/)
 - [Learning or working with AI? Come join us, we are a Discord Community with close to 22&#39;000 members and the vast majority of them work with Python! Ask questions, find teammates, share your projects, participate in events and projects, and much more!](https://www.reddit.com/r/Python/comments/t53ls4/learning_or_working_with_ai_come_join_us_we_are_a/)
 - [RasgoQL - Open source data transformations in Python, without having to write SQL.](https://www.reddit.com/r/Python/comments/t53g7u/rasgoql_open_source_data_transformations_in/)
-- [Study: Developers spend over 2 days a week just waiting for other developers to review their code](https://www.reddit.com/r/Python/comments/t536bb/study_developers_spend_over_2_days_a_week_just/)
-- [Here are 5 Money-Making Telegram Bot Ideas you can develop with Python](https://www.reddit.com/r/Python/comments/t52osv/here_are_5_moneymaking_telegram_bot_ideas_you_can/)
-- [Parse PySNMP Object Identities for MIB Variable Names](https://www.reddit.com/r/Python/comments/t527yg/parse_pysnmp_object_identities_for_mib_variable/)
 <!-- BLOG-POST-LIST:END -->
