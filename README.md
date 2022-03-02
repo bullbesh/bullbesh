@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a post on a common python mistake I see a lot: mixing up instance and class members + how it works with pydantic](https://www.reddit.com/r/Python/comments/t4xxxw/i_wrote_a_post_on_a_common_python_mistake_i_see_a/)
+- [ASCIIPY - Image To ASCII](https://www.reddit.com/r/Python/comments/t4xsol/asciipy_image_to_ascii/)
+- [Best library for numpy + quaternion](https://www.reddit.com/r/Python/comments/t4xr8e/best_library_for_numpy_quaternion/)
+- [Valito - a library for progressive validation and regex support](https://www.reddit.com/r/Python/comments/t4xmec/valito_a_library_for_progressive_validation_and/)
 - [Beginners guide to slicing strings in Python](https://www.reddit.com/r/Python/comments/t4w90j/beginners_guide_to_slicing_strings_in_python/)
-- [How to make attribute non-inheritable in child classes](https://www.reddit.com/r/Python/comments/t4vsub/how_to_make_attribute_noninheritable_in_child/)
-- [Intermediate Python Practice Problems](https://www.reddit.com/r/Python/comments/t4v9nk/intermediate_python_practice_problems/)
-- [Build High-Performance, Parallel, and Distributed Apps in Python](https://www.reddit.com/r/Python/comments/t4uk8j/build_highperformance_parallel_and_distributed/)
-- [communication skills improvement](https://www.reddit.com/r/Python/comments/t4rbcz/communication_skills_improvement/)
 <!-- BLOG-POST-LIST:END -->
