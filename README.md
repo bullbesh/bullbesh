@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which type of product should I develop to create new Software Company!](https://www.reddit.com/r/Python/comments/t4yyoh/which_type_of_product_should_i_develop_to_create/)
+- [Modulenotfounderror](https://www.reddit.com/r/Python/comments/t4y6rm/modulenotfounderror/)
 - [I wrote a post on a common python mistake I see a lot: mixing up instance and class members + how it works with pydantic](https://www.reddit.com/r/Python/comments/t4xxxw/i_wrote_a_post_on_a_common_python_mistake_i_see_a/)
 - [ASCIIPY - Image To ASCII](https://www.reddit.com/r/Python/comments/t4xsol/asciipy_image_to_ascii/)
 - [Best library for numpy + quaternion](https://www.reddit.com/r/Python/comments/t4xr8e/best_library_for_numpy_quaternion/)
-- [Valito - a library for progressive validation and regex support](https://www.reddit.com/r/Python/comments/t4xmec/valito_a_library_for_progressive_validation_and/)
-- [Beginners guide to slicing strings in Python](https://www.reddit.com/r/Python/comments/t4w90j/beginners_guide_to_slicing_strings_in_python/)
 <!-- BLOG-POST-LIST:END -->
