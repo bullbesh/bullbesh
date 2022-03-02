@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python &amp; VS Code: make Black and organize imports work together on save](https://www.reddit.com/r/Python/comments/t569p7/python_vs_code_make_black_and_organize_imports/)
+- [Question about a script i made](https://www.reddit.com/r/Python/comments/t55qko/question_about_a_script_i_made/)
+- [Dive into Financial Stock Analysis using the Python programming language and the Yahoo Finance Python library](https://www.reddit.com/r/Python/comments/t55g9a/dive_into_financial_stock_analysis_using_the/)
 - [Miniboss, versatile local container management with Python](https://www.reddit.com/r/Python/comments/t54quf/miniboss_versatile_local_container_management/)
 - [Experiment: Comparing Methods for Making Pandas.DataFrame.to_sql&lpar;&rpar; Faster for Populating PostgreSQL Tables](https://www.reddit.com/r/Python/comments/t54n64/experiment_comparing_methods_for_making/)
-- [Features for apps](https://www.reddit.com/r/Python/comments/t544vq/features_for_apps/)
-- [Learning or working with AI? Come join us, we are a Discord Community with close to 22&#39;000 members and the vast majority of them work with Python! Ask questions, find teammates, share your projects, participate in events and projects, and much more!](https://www.reddit.com/r/Python/comments/t53ls4/learning_or_working_with_ai_come_join_us_we_are_a/)
-- [RasgoQL - Open source data transformations in Python, without having to write SQL.](https://www.reddit.com/r/Python/comments/t53g7u/rasgoql_open_source_data_transformations_in/)
 <!-- BLOG-POST-LIST:END -->
