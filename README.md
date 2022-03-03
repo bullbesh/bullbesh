@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wordle Tweet Data Analysis with Python.](https://www.reddit.com/r/Python/comments/t5ywh8/wordle_tweet_data_analysis_with_python/)
 - [5 Python Projects &lpar;with source code &amp; explanation&rpar; that you can add in your resume in an hour](https://www.reddit.com/r/Python/comments/t5y0v7/5_python_projects_with_source_code_explanation/)
 - [California dataset problem is one of the most popular problems from kaggle and from around the world of Machine Learning.](https://www.reddit.com/r/Python/comments/t5vzyu/california_dataset_problem_is_one_of_the_most/)
 - [Google reCAPTCHA solving](https://www.reddit.com/r/Python/comments/t5vq0a/google_recaptcha_solving/)
 - [Python Celery inconsistent cronjob timing for task scheduling with now function 50 points bounty on Stackoverflow.](https://www.reddit.com/r/Python/comments/t5ulkt/python_celery_inconsistent_cronjob_timing_for/)
-- [Python ASCII RPG tutorial &lpar;Part4/4&rpar;: Simple shop and boss fight!](https://www.reddit.com/r/Python/comments/t5tfh1/python_ascii_rpg_tutorial_part44_simple_shop_and/)
 <!-- BLOG-POST-LIST:END -->
