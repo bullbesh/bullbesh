@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to write a Script](https://www.reddit.com/r/Python/comments/t5qcjb/how_to_write_a_script/)
-- [not able to install fpconst](https://www.reddit.com/r/Python/comments/t5o52i/not_able_to_install_fpconst/)
-- [How do I learn Python by notes](https://www.reddit.com/r/Python/comments/t5niex/how_do_i_learn_python_by_notes/)
-- [Why is the latest release version is shown differently for pymongo on Github vs pypi/pymongo.readthedocs.io](https://www.reddit.com/r/Python/comments/t5n042/why_is_the_latest_release_version_is_shown/)
-- [Could a file sign using ECDSA in python. ?](https://www.reddit.com/r/Python/comments/t5iy6c/could_a_file_sign_using_ecdsa_in_python/)
+- [Is there alpha channels or transparency using Only native tkinter?](https://www.reddit.com/r/Python/comments/t5rb3b/is_there_alpha_channels_or_transparency_using/)
+- [A collection of Python and Bash scripts I developed for personal and working projects](https://www.reddit.com/r/Python/comments/t5r9x0/a_collection_of_python_and_bash_scripts_i/)
+- [tensorflow](https://www.reddit.com/r/Python/comments/t5r6sx/tensorflow/)
+- [CaptchaCracker - Open Source for Python](https://www.reddit.com/r/Python/comments/t5qyu0/captchacracker_open_source_for_python/)
+- [Digital War Against Putin -- Automated Google Reviews with Python](https://www.reddit.com/r/Python/comments/t5qxfq/digital_war_against_putin_automated_google/)
 <!-- BLOG-POST-LIST:END -->
