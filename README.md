@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Problem with image import](https://www.reddit.com/r/Python/comments/t639dv/problem_with_image_import/)
+- [Matplotlib practice problems with solutions explained](https://www.reddit.com/r/Python/comments/t62mys/matplotlib_practice_problems_with_solutions/)
+- [Gamestonk Terminal DEMO – The best open-source Bloomberg Terminal alternative](https://www.reddit.com/r/Python/comments/t624zz/gamestonk_terminal_demo_the_best_opensource/)
 - [Made a simple software 3d graphics engine in Python with Pygame + Numpy + Numba](https://www.reddit.com/r/Python/comments/t61vmg/made_a_simple_software_3d_graphics_engine_in/)
 - [Rescue – type-safe exceptions for Python](https://www.reddit.com/r/Python/comments/t61afs/rescue_typesafe_exceptions_for_python/)
-- [Easy Way to Make Jumping in PyGame! &lpar;7 Mins&rpar;](https://www.reddit.com/r/Python/comments/t61859/easy_way_to_make_jumping_in_pygame_7_mins/)
-- [Built a Cloud Code Compilation solution with Flask](https://www.reddit.com/r/Python/comments/t614vw/built_a_cloud_code_compilation_solution_with_flask/)
-- [Wordle Tweet Data Analysis with Python.](https://www.reddit.com/r/Python/comments/t5ywh8/wordle_tweet_data_analysis_with_python/)
 <!-- BLOG-POST-LIST:END -->
