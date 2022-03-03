@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Pygame window not responding](https://www.reddit.com/r/Python/comments/t5c7mn/pygame_window_not_responding/)
-- [My first Python library for converting class instances to JSON with a single decorator](https://www.reddit.com/r/Python/comments/t5bp1c/my_first_python_library_for_converting_class/)
-- [Python Decorators](https://www.reddit.com/r/Python/comments/t5bl2q/python_decorators/)
-- [I made a lambda serializer called lambdser to overcome the multiprocessing limitations](https://www.reddit.com/r/Python/comments/t58omr/i_made_a_lambda_serializer_called_lambdser_to/)
-- [Here is How to Speed up Your Data Analysis in Python](https://www.reddit.com/r/Python/comments/t56q9u/here_is_how_to_speed_up_your_data_analysis_in/)
+- [what&#39;s possible with tkinter? here&#39;s one thing](https://www.reddit.com/r/Python/comments/t5es1h/whats_possible_with_tkinter_heres_one_thing/)
+- [Python core developer surrounded by tanks](https://www.reddit.com/r/Python/comments/t5e65z/python_core_developer_surrounded_by_tanks/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/t5dwzn/thursday_daily_thread_python_careers_courses_and/)
+- [Do you support pygame making a statement in support of peace?](https://www.reddit.com/r/Python/comments/t5dpy9/do_you_support_pygame_making_a_statement_in/)
+- [Free Python Tutorial For Beginners](https://www.reddit.com/r/Python/comments/t5dlrx/free_python_tutorial_for_beginners/)
 <!-- BLOG-POST-LIST:END -->
