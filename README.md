@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Language Basics and Pyplot Tutorial](https://www.reddit.com/r/Python/comments/t64itc/python_language_basics_and_pyplot_tutorial/)
+- [hello guys i&#39;m new beginer here can you tell me how can i create the what in this image using python please](https://www.reddit.com/r/Python/comments/t63q85/hello_guys_im_new_beginer_here_can_you_tell_me/)
+- [Finance App w/ Flask](https://www.reddit.com/r/Python/comments/t63imj/finance_app_w_flask/)
 - [Problem with image import](https://www.reddit.com/r/Python/comments/t639dv/problem_with_image_import/)
 - [Matplotlib practice problems with solutions explained](https://www.reddit.com/r/Python/comments/t62mys/matplotlib_practice_problems_with_solutions/)
-- [Gamestonk Terminal DEMO – The best open-source Bloomberg Terminal alternative](https://www.reddit.com/r/Python/comments/t624zz/gamestonk_terminal_demo_the_best_opensource/)
-- [Made a simple software 3d graphics engine in Python with Pygame + Numpy + Numba](https://www.reddit.com/r/Python/comments/t61vmg/made_a_simple_software_3d_graphics_engine_in/)
-- [Rescue – type-safe exceptions for Python](https://www.reddit.com/r/Python/comments/t61afs/rescue_typesafe_exceptions_for_python/)
 <!-- BLOG-POST-LIST:END -->
