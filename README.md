@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What does. string handling look in Python?](https://www.reddit.com/r/Python/comments/t600u6/what_does_string_handling_look_in_python/)
+- [Made a simple software 3d graphics engine in Python with Pygame + Numpy + Numba](https://www.reddit.com/r/Python/comments/t61vmg/made_a_simple_software_3d_graphics_engine_in/)
+- [Rescue – type-safe exceptions for Python](https://www.reddit.com/r/Python/comments/t61afs/rescue_typesafe_exceptions_for_python/)
+- [Easy Way to Make Jumping in PyGame! &lpar;7 Mins&rpar;](https://www.reddit.com/r/Python/comments/t61859/easy_way_to_make_jumping_in_pygame_7_mins/)
+- [Built a Cloud Code Compilation solution with Flask](https://www.reddit.com/r/Python/comments/t614vw/built_a_cloud_code_compilation_solution_with_flask/)
 - [Wordle Tweet Data Analysis with Python.](https://www.reddit.com/r/Python/comments/t5ywh8/wordle_tweet_data_analysis_with_python/)
-- [5 Python Projects &lpar;with source code &amp; explanation&rpar; that you can add in your resume in an hour](https://www.reddit.com/r/Python/comments/t5y0v7/5_python_projects_with_source_code_explanation/)
-- [California dataset problem is one of the most popular problems from kaggle and from around the world of Machine Learning.](https://www.reddit.com/r/Python/comments/t5vzyu/california_dataset_problem_is_one_of_the_most/)
-- [Google reCAPTCHA solving](https://www.reddit.com/r/Python/comments/t5vq0a/google_recaptcha_solving/)
 <!-- BLOG-POST-LIST:END -->
