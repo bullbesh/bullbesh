@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do I learn Python by notes](https://www.reddit.com/r/Python/comments/t5niex/how_do_i_learn_python_by_notes/)
+- [Why is the latest release version is shown differently for pymongo on Github vs pypi/pymongo.readthedocs.io](https://www.reddit.com/r/Python/comments/t5n042/why_is_the_latest_release_version_is_shown/)
 - [Could a file sign using ECDSA in python. ?](https://www.reddit.com/r/Python/comments/t5iy6c/could_a_file_sign_using_ecdsa_in_python/)
 - [Cracking 2048 in Python with Expectiminimax](https://www.reddit.com/r/Python/comments/t5h7yh/cracking_2048_in_python_with_expectiminimax/)
 - [Spyder IDE Buggy when Installed without Anaconda?](https://www.reddit.com/r/Python/comments/t5gxma/spyder_ide_buggy_when_installed_without_anaconda/)
-- [Automation libraries](https://www.reddit.com/r/Python/comments/t5fohi/automation_libraries/)
-- [what&#39;s possible with tkinter? here&#39;s one thing](https://www.reddit.com/r/Python/comments/t5es1h/whats_possible_with_tkinter_heres_one_thing/)
 <!-- BLOG-POST-LIST:END -->
