@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mimo as a beginner tool?](https://www.reddit.com/r/Python/comments/t6tcl8/mimo_as_a_beginner_tool/)
 - [I wrote a pythons script to give you more detailed statistics on your GitHub usage in the terminal](https://www.reddit.com/r/Python/comments/t6si6o/i_wrote_a_pythons_script_to_give_you_more/)
-- [How to iterate a csv file column to get only data with a specific date in pandas?](https://www.reddit.com/r/Python/comments/t6pzqg/how_to_iterate_a_csv_file_column_to_get_only_data/)
-- [tips for someone new to the coding scene](https://www.reddit.com/r/Python/comments/t6ob57/tips_for_someone_new_to_the_coding_scene/)
 - [Pump your Python knowledge](https://www.reddit.com/r/Python/comments/t6npnn/pump_your_python_knowledge/)
 - [I use single quotes because I hate pressing the shift key.](https://www.reddit.com/r/Python/comments/t6njyc/i_use_single_quotes_because_i_hate_pressing_the/)
+- [I made a image-similarity checking in Python](https://www.reddit.com/r/Python/comments/t6n7ms/i_made_a_imagesimilarity_checking_in_python/)
 <!-- BLOG-POST-LIST:END -->
