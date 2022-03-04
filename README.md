@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Language Basics and Pyplot Tutorial](https://www.reddit.com/r/Python/comments/t64itc/python_language_basics_and_pyplot_tutorial/)
-- [hello guys i&#39;m new beginer here can you tell me how can i create the what in this image using python please](https://www.reddit.com/r/Python/comments/t63q85/hello_guys_im_new_beginer_here_can_you_tell_me/)
-- [Finance App w/ Flask](https://www.reddit.com/r/Python/comments/t63imj/finance_app_w_flask/)
-- [Problem with image import](https://www.reddit.com/r/Python/comments/t639dv/problem_with_image_import/)
-- [Matplotlib practice problems with solutions explained](https://www.reddit.com/r/Python/comments/t62mys/matplotlib_practice_problems_with_solutions/)
+- [What’s the point of a switch case if dictionaries have instant lookups?](https://www.reddit.com/r/Python/comments/t673bh/whats_the_point_of_a_switch_case_if_dictionaries/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/t65f4e/friday_daily_thread_free_chat_friday_daily_thread/)
+- [python package import is not built-in and not in directory or subdirectories](https://www.reddit.com/r/Python/comments/t6522x/python_package_import_is_not_builtin_and_not_in/)
+- [First time using Python Pillow to generate images](https://www.reddit.com/r/Python/comments/t64vd7/first_time_using_python_pillow_to_generate_images/)
+- [BFS vs DFS: searching a binary tree to find the relevant morse code for a letter.](https://www.reddit.com/r/Python/comments/t64u2q/bfs_vs_dfs_searching_a_binary_tree_to_find_the/)
 <!-- BLOG-POST-LIST:END -->
