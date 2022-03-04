@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A software to analyze and classificate Higgs-boson decays using machine learning with Python](https://www.reddit.com/r/Python/comments/t6ebet/a_software_to_analyze_and_classificate_higgsboson/)
 - [Any good open source resources out there to learn Python?](https://www.reddit.com/r/Python/comments/t68i10/any_good_open_source_resources_out_there_to_learn/)
 - [Edit Photos super easy with a few lines of python code](https://www.reddit.com/r/Python/comments/t681y0/edit_photos_super_easy_with_a_few_lines_of_python/)
 - [What’s the point of a switch case if dictionaries have instant lookups?](https://www.reddit.com/r/Python/comments/t673bh/whats_the_point_of_a_switch_case_if_dictionaries/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/t65f4e/friday_daily_thread_free_chat_friday_daily_thread/)
-- [python package import is not built-in and not in directory or subdirectories](https://www.reddit.com/r/Python/comments/t6522x/python_package_import_is_not_builtin_and_not_in/)
 <!-- BLOG-POST-LIST:END -->
