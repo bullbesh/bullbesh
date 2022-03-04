@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python with Turtle and Image IO](https://www.reddit.com/r/Python/comments/t6fwcd/python_with_turtle_and_image_io/)
 - [My first GUI Project! &lpar;Ping Tester&rpar;](https://www.reddit.com/r/Python/comments/t6eui6/my_first_gui_project_ping_tester/)
 - [Py-Stopwatch: Measure execution time of your code segments](https://www.reddit.com/r/Python/comments/t6emeo/pystopwatch_measure_execution_time_of_your_code/)
 - [A software to analyze and classificate Higgs-boson decays using machine learning with Python](https://www.reddit.com/r/Python/comments/t6ebet/a_software_to_analyze_and_classificate_higgsboson/)
-- [Any good open source resources out there to learn Python?](https://www.reddit.com/r/Python/comments/t68i10/any_good_open_source_resources_out_there_to_learn/)
 - [Edit Photos super easy with a few lines of python code](https://www.reddit.com/r/Python/comments/t681y0/edit_photos_super_easy_with_a_few_lines_of_python/)
 <!-- BLOG-POST-LIST:END -->
