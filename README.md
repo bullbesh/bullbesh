@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cattle - Platform to Run and Share Code. It Supports PHP, Python, Ruby, Java, Go, Rust, C and C++.](https://www.reddit.com/r/Python/comments/t7irs9/cattle_platform_to_run_and_share_code_it_supports/)
+- [Creating my own Music Player with Python](https://www.reddit.com/r/Python/comments/t7gz9l/creating_my_own_music_player_with_python/)
 - [A command line tool for debugging in python.](https://www.reddit.com/r/Python/comments/t7ghm2/a_command_line_tool_for_debugging_in_python/)
 - [Where to start learning Python &lpar;My route&rpar;](https://www.reddit.com/r/Python/comments/t7fgqo/where_to_start_learning_python_my_route/)
 - [New Github Action for edgetest &lpar;dependency management&rpar;](https://www.reddit.com/r/Python/comments/t7eo9a/new_github_action_for_edgetest_dependency/)
-- [Python Requests: response.content vs stream=True](https://www.reddit.com/r/Python/comments/t7c69v/python_requests_responsecontent_vs_streamtrue/)
-- [Python globals&lpar;&rpar; and locals&lpar;&rpar; Methods &lpar;with Examples&rpar;](https://www.reddit.com/r/Python/comments/t7bxpc/python_globals_and_locals_methods_with_examples/)
 <!-- BLOG-POST-LIST:END -->
