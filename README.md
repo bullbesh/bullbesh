@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My girlfriend remade the Python logo with punch-needle.](https://www.reddit.com/r/Python/comments/t78212/my_girlfriend_remade_the_python_logo_with/)
 - [Python C Library Function Binding Using ctypes](https://www.reddit.com/r/Python/comments/t7771z/python_c_library_function_binding_using_ctypes/)
 - [Beginner flask project with machine learning](https://www.reddit.com/r/Python/comments/t76qeg/beginner_flask_project_with_machine_learning/)
 - [Pypperoni: A Python compiler and bytecode preprocessor](https://www.reddit.com/r/Python/comments/t76jhi/pypperoni_a_python_compiler_and_bytecode/)
 - [Creating a Multithreaded Port Scanner in Python](https://www.reddit.com/r/Python/comments/t76g2j/creating_a_multithreaded_port_scanner_in_python/)
-- [David Beazley - Python Concurrency from the ground up](https://www.reddit.com/r/Python/comments/t75cft/david_beazley_python_concurrency_from_the_ground/)
 <!-- BLOG-POST-LIST:END -->
