@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Having difficulty solving a maze problem &lpar;uses a grid to represent the maze&rpar;](https://www.reddit.com/r/Python/comments/t6ziky/having_difficulty_solving_a_maze_problem_uses_a/)
+- [Opinions on these 2 books on Analytics using Python?](https://www.reddit.com/r/Python/comments/t703m3/opinions_on_these_2_books_on_analytics_using/)
 - [If you&#39;re just starting out on python, here&#39;s a super simper calculator code that I made on PyCharm](https://www.reddit.com/r/Python/comments/t6z6qn/if_youre_just_starting_out_on_python_heres_a/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/t6wkss/saturday_daily_thread_resource_request_and/)
 - [I made a video about building Data Dashboards with Streamlit and constructive feedback would help me out a lot, &quot;The Most Pythonic Data Dashboard | Basics of Streamlit&quot;](https://www.reddit.com/r/Python/comments/t6wh05/i_made_a_video_about_building_data_dashboards/)
