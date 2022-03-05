@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Twisted Matrix 22.2.0 has been released | Event-driven networking engine written in Python](https://www.reddit.com/r/Python/comments/t732q8/twisted_matrix_2220_has_been_released_eventdriven/)
+- [why am I getting an error](https://www.reddit.com/r/Python/comments/t72f2w/why_am_i_getting_an_error/)
 - [Masonite 4 - Ring any bell?](https://www.reddit.com/r/Python/comments/t718bg/masonite_4_ring_any_bell/)
 - [There are a lot of built-in functions do we need to learn them all?](https://www.reddit.com/r/Python/comments/t70lvr/there_are_a_lot_of_builtin_functions_do_we_need/)
 - [Opinions on these 2 books on Analytics using Python?](https://www.reddit.com/r/Python/comments/t703m3/opinions_on_these_2_books_on_analytics_using/)
-- [If you&#39;re just starting out on python, here&#39;s a super simper calculator code that I made on PyCharm](https://www.reddit.com/r/Python/comments/t6z6qn/if_youre_just_starting_out_on_python_heres_a/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/t6wkss/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
