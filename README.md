@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [David Beazley - Python Concurrency from the ground up](https://www.reddit.com/r/Python/comments/t75cft/david_beazley_python_concurrency_from_the_ground/)
 - [Dealing cards from a deck](https://www.reddit.com/r/Python/comments/t74grt/dealing_cards_from_a_deck/)
 - [Good textbook for learning python?](https://www.reddit.com/r/Python/comments/t746ub/good_textbook_for_learning_python/)
 - [Creating player scores](https://www.reddit.com/r/Python/comments/t73huv/creating_player_scores/)
 - [Twisted Matrix 22.2.0 has been released | Event-driven networking engine written in Python](https://www.reddit.com/r/Python/comments/t732q8/twisted_matrix_2220_has_been_released_eventdriven/)
-- [why am I getting an error](https://www.reddit.com/r/Python/comments/t72f2w/why_am_i_getting_an_error/)
 <!-- BLOG-POST-LIST:END -->
