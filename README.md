@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Showcase: pytoil, a CLI to automate the development workflow](https://www.reddit.com/r/Python/comments/t7a9ao/showcase_pytoil_a_cli_to_automate_the_development/)
+- [Two New Articles on Generators &lpar;Intermediate&rpar; and Lists &lpar;Beginners&rpar;](https://www.reddit.com/r/Python/comments/t79kkt/two_new_articles_on_generators_intermediate_and/)
 - [Creating your own database like join using {code}](https://www.reddit.com/r/Python/comments/t78rx5/creating_your_own_database_like_join_using_code/)
 - [Python learning](https://www.reddit.com/r/Python/comments/t78khd/python_learning/)
 - [My girlfriend remade the Python logo with punch-needle.](https://www.reddit.com/r/Python/comments/t78212/my_girlfriend_remade_the_python_logo_with/)
-- [Python C Library Function Binding Using ctypes](https://www.reddit.com/r/Python/comments/t7771z/python_c_library_function_binding_using_ctypes/)
-- [Beginner flask project with machine learning](https://www.reddit.com/r/Python/comments/t76qeg/beginner_flask_project_with_machine_learning/)
 <!-- BLOG-POST-LIST:END -->
