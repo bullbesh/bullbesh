@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Ukraine War Updates Website](https://www.reddit.com/r/Python/comments/t8472y/ukraine_war_updates_website/)
-- [If only every professor was like Dr. Chuck](https://www.reddit.com/r/Python/comments/t83mc2/if_only_every_professor_was_like_dr_chuck/)
 - [What is the Minimum Python Version you would support as a new framework writer?](https://www.reddit.com/r/Python/comments/t83iz2/what_is_the_minimum_python_version_you_would/)
 - [How to create semi-sarcastic plots using Matplotlib&#39;s XKCD feature](https://www.reddit.com/r/Python/comments/t81kt7/how_to_create_semisarcastic_plots_using/)
 - [Been trying to learn Python for 5 years on and off. Where did you start?](https://www.reddit.com/r/Python/comments/t80kpn/been_trying_to_learn_python_for_5_years_on_and/)
+- [Is it possible to add your own information to the log message when using @logger.catch?](https://www.reddit.com/r/Python/comments/t802vd/is_it_possible_to_add_your_own_information_to_the/)
 <!-- BLOG-POST-LIST:END -->
