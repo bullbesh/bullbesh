@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are you using python for?](https://www.reddit.com/r/Python/comments/t7w007/what_are_you_using_python_for/)
 - [Python + Ukraine](https://www.reddit.com/r/Python/comments/t7v05p/python_ukraine/)
 - [Happy Birthday animation with Pygame](https://www.reddit.com/r/Python/comments/t7ur83/happy_birthday_animation_with_pygame/)
 - [Your recommendation guys!](https://www.reddit.com/r/Python/comments/t7uld8/your_recommendation_guys/)
 - [Sharing educative.io membership?](https://www.reddit.com/r/Python/comments/t7taii/sharing_educativeio_membership/)
-- [TypeError&lpar;&quot;calcular_cambio&lpar;&rpar; missing 1 required positional argument: &#39;precio&#39;&quot;,&rpar;](https://www.reddit.com/r/Python/comments/t7qkx1/typeerrorcalcular_cambio_missing_1_required/)
 <!-- BLOG-POST-LIST:END -->
