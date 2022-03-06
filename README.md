@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code reuse - how to implement](https://www.reddit.com/r/Python/comments/t87ykj/code_reuse_how_to_implement/)
+- [How do i start my python career?](https://www.reddit.com/r/Python/comments/t87njy/how_do_i_start_my_python_career/)
 - [Which books should I read to learn Python programming please recommend me?](https://www.reddit.com/r/Python/comments/t8752u/which_books_should_i_read_to_learn_python/)
 - [url-short](https://www.reddit.com/r/Python/comments/t86mck/urlshort/)
 - [Space Science with Python - ML Project Part 6: Grid Search](https://www.reddit.com/r/Python/comments/t86bia/space_science_with_python_ml_project_part_6_grid/)
-- [Ukraine War Updates Website](https://www.reddit.com/r/Python/comments/t8472y/ukraine_war_updates_website/)
-- [What is the Minimum Python Version you would support as a new framework writer?](https://www.reddit.com/r/Python/comments/t83iz2/what_is_the_minimum_python_version_you_would/)
 <!-- BLOG-POST-LIST:END -->
