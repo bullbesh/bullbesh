@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [More == in one if condition?](https://www.reddit.com/r/Python/comments/t7ycch/more_in_one_if_condition/)
+- [Python Cybersecurity— Network Tracking using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/t7xv77/python_cybersecurity_network_tracking_using/)
 - [Create piano game using Mido for my Yamaha p 115](https://www.reddit.com/r/Python/comments/t7x9qc/create_piano_game_using_mido_for_my_yamaha_p_115/)
 - [What are you using python for?](https://www.reddit.com/r/Python/comments/t7w007/what_are_you_using_python_for/)
 - [Happy Birthday animation with Pygame](https://www.reddit.com/r/Python/comments/t7ur83/happy_birthday_animation_with_pygame/)
-- [Your recommendation guys!](https://www.reddit.com/r/Python/comments/t7uld8/your_recommendation_guys/)
-- [Sharing educative.io membership?](https://www.reddit.com/r/Python/comments/t7taii/sharing_educativeio_membership/)
 <!-- BLOG-POST-LIST:END -->
