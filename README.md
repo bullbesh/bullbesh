@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any basic tips/lifehacks/things to note for a python beginner?](https://www.reddit.com/r/Python/comments/t8b1gk/any_basic_tipslifehacksthings_to_note_for_a/)
+- [Automating Wordle with a 3D Printer](https://www.reddit.com/r/Python/comments/t8abae/automating_wordle_with_a_3d_printer/)
 - [Frelatage: A new Coverage-Based Python Fuzzing Library](https://www.reddit.com/r/Python/comments/t89edp/frelatage_a_new_coveragebased_python_fuzzing/)
 - [Fully type-checked async ORM wrapped around asyncpg](https://www.reddit.com/r/Python/comments/t895ca/fully_typechecked_async_orm_wrapped_around_asyncpg/)
 - [Python Typing NoReturn confused me for a while so I wrote a blog to explain it.](https://www.reddit.com/r/Python/comments/t88r9e/python_typing_noreturn_confused_me_for_a_while_so/)
-- [Code reuse - how to implement](https://www.reddit.com/r/Python/comments/t87ykj/code_reuse_how_to_implement/)
-- [How do i start my python career?](https://www.reddit.com/r/Python/comments/t87njy/how_do_i_start_my_python_career/)
 <!-- BLOG-POST-LIST:END -->
