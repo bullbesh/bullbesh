@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to automate deploying flask app to AWS via a CI/CD pipeline using GitHub Actions](https://www.reddit.com/r/Python/comments/t7zgzv/how_to_automate_deploying_flask_app_to_aws_via_a/)
+- [An Interactive Cheat Sheet That Just Gives You The Answer](https://www.reddit.com/r/Python/comments/t7zbbc/an_interactive_cheat_sheet_that_just_gives_you/)
+- [Algorithms and Data Structures FREE COURSE || Binary Trees || Drawing Explanation + ALL Traversals Iterative + Recursive in Python](https://www.reddit.com/r/Python/comments/t7z7n5/algorithms_and_data_structures_free_course_binary/)
+- [A very thorough tutorial on Python&#39;s range function and for-loops](https://www.reddit.com/r/Python/comments/t7z72a/a_very_thorough_tutorial_on_pythons_range/)
 - [More == in one if condition?](https://www.reddit.com/r/Python/comments/t7ycch/more_in_one_if_condition/)
-- [Python Cybersecurity— Network Tracking using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/t7xv77/python_cybersecurity_network_tracking_using/)
-- [Create piano game using Mido for my Yamaha p 115](https://www.reddit.com/r/Python/comments/t7x9qc/create_piano_game_using_mido_for_my_yamaha_p_115/)
-- [What are you using python for?](https://www.reddit.com/r/Python/comments/t7w007/what_are_you_using_python_for/)
-- [Happy Birthday animation with Pygame](https://www.reddit.com/r/Python/comments/t7ur83/happy_birthday_animation_with_pygame/)
 <!-- BLOG-POST-LIST:END -->
