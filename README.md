@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Frelatage: A new Coverage-Based Python Fuzzing Library](https://www.reddit.com/r/Python/comments/t89edp/frelatage_a_new_coveragebased_python_fuzzing/)
+- [Fully type-checked async ORM wrapped around asyncpg](https://www.reddit.com/r/Python/comments/t895ca/fully_typechecked_async_orm_wrapped_around_asyncpg/)
+- [Python Typing NoReturn confused me for a while so I wrote a blog to explain it.](https://www.reddit.com/r/Python/comments/t88r9e/python_typing_noreturn_confused_me_for_a_while_so/)
 - [Code reuse - how to implement](https://www.reddit.com/r/Python/comments/t87ykj/code_reuse_how_to_implement/)
 - [How do i start my python career?](https://www.reddit.com/r/Python/comments/t87njy/how_do_i_start_my_python_career/)
-- [Which books should I read to learn Python programming please recommend me?](https://www.reddit.com/r/Python/comments/t8752u/which_books_should_i_read_to_learn_python/)
-- [url-short](https://www.reddit.com/r/Python/comments/t86mck/urlshort/)
-- [Space Science with Python - ML Project Part 6: Grid Search](https://www.reddit.com/r/Python/comments/t86bia/space_science_with_python_ml_project_part_6_grid/)
 <!-- BLOG-POST-LIST:END -->
