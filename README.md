@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sharing educative.io membership?](https://www.reddit.com/r/Python/comments/t7taii/sharing_educativeio_membership/)
 - [TypeError&lpar;&quot;calcular_cambio&lpar;&rpar; missing 1 required positional argument: &#39;precio&#39;&quot;,&rpar;](https://www.reddit.com/r/Python/comments/t7qkx1/typeerrorcalcular_cambio_missing_1_required/)
 - [Looking for functional Spotify to YouTube playlist converter](https://www.reddit.com/r/Python/comments/t7oe4p/looking_for_functional_spotify_to_youtube/)
 - [Discord.py to continue development after discord discontinuing v6/v7 APIs](https://www.reddit.com/r/Python/comments/t7neql/discordpy_to_continue_development_after_discord/)
 - [Make your own linspace&lpar;&rpar; function in 120 seconds](https://www.reddit.com/r/Python/comments/t7mwh9/make_your_own_linspace_function_in_120_seconds/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/t7m9x6/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
