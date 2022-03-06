@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create piano game using Mido for my Yamaha p 115](https://www.reddit.com/r/Python/comments/t7x9qc/create_piano_game_using_mido_for_my_yamaha_p_115/)
 - [What are you using python for?](https://www.reddit.com/r/Python/comments/t7w007/what_are_you_using_python_for/)
-- [Python + Ukraine](https://www.reddit.com/r/Python/comments/t7v05p/python_ukraine/)
 - [Happy Birthday animation with Pygame](https://www.reddit.com/r/Python/comments/t7ur83/happy_birthday_animation_with_pygame/)
 - [Your recommendation guys!](https://www.reddit.com/r/Python/comments/t7uld8/your_recommendation_guys/)
 - [Sharing educative.io membership?](https://www.reddit.com/r/Python/comments/t7taii/sharing_educativeio_membership/)
