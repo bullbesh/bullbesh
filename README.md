@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Which book do you recommend to master python?](https://www.reddit.com/r/Python/comments/t7twbs/which_book_do_you_recommend_to_master_python/)
+- [Python + Ukraine](https://www.reddit.com/r/Python/comments/t7v05p/python_ukraine/)
+- [Happy Birthday animation with Pygame](https://www.reddit.com/r/Python/comments/t7ur83/happy_birthday_animation_with_pygame/)
+- [Your recommendation guys!](https://www.reddit.com/r/Python/comments/t7uld8/your_recommendation_guys/)
 - [Sharing educative.io membership?](https://www.reddit.com/r/Python/comments/t7taii/sharing_educativeio_membership/)
 - [TypeError&lpar;&quot;calcular_cambio&lpar;&rpar; missing 1 required positional argument: &#39;precio&#39;&quot;,&rpar;](https://www.reddit.com/r/Python/comments/t7qkx1/typeerrorcalcular_cambio_missing_1_required/)
-- [Looking for functional Spotify to YouTube playlist converter](https://www.reddit.com/r/Python/comments/t7oe4p/looking_for_functional_spotify_to_youtube/)
-- [Discord.py to continue development after discord discontinuing v6/v7 APIs](https://www.reddit.com/r/Python/comments/t7neql/discordpy_to_continue_development_after_discord/)
 <!-- BLOG-POST-LIST:END -->
