@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for functional Spotify to YouTube playlist converter](https://www.reddit.com/r/Python/comments/t7oe4p/looking_for_functional_spotify_to_youtube/)
 - [Discord.py to continue development after discord discontinuing v6/v7 APIs](https://www.reddit.com/r/Python/comments/t7neql/discordpy_to_continue_development_after_discord/)
 - [Make your own linspace&lpar;&rpar; function in 120 seconds](https://www.reddit.com/r/Python/comments/t7mwh9/make_your_own_linspace_function_in_120_seconds/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/t7m9x6/sunday_daily_thread_whats_everyone_working_on/)
 - [How can we classify an image using AI?](https://www.reddit.com/r/Python/comments/t7lef9/how_can_we_classify_an_image_using_ai/)
-- [Encrypting &amp; Decrypting Files in Python and why you should](https://www.reddit.com/r/Python/comments/t7kq00/encrypting_decrypting_files_in_python_and_why_you/)
 <!-- BLOG-POST-LIST:END -->
