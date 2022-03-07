@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to change csv file with python.](https://www.reddit.com/r/Python/comments/t8qv8h/how_to_change_csv_file_with_python/)
+- [Deffcode: FFmpeg decoding made easy with python.](https://www.reddit.com/r/Python/comments/t8qen4/deffcode_ffmpeg_decoding_made_easy_with_python/)
+- [My GUI calculator](https://www.reddit.com/r/Python/comments/t8q9i0/my_gui_calculator/)
 - [Hey im Zan!](https://www.reddit.com/r/Python/comments/t8prmy/hey_im_zan/)
 - [Python Lists &lpar;Beginner Article&rpar;](https://www.reddit.com/r/Python/comments/t8pqpn/python_lists_beginner_article/)
-- [Generate Password from Images](https://www.reddit.com/r/Python/comments/t8pg9n/generate_password_from_images/)
-- [BetterJSONStorage - faster &#39;Storage Type&#39; for TinyDB.](https://www.reddit.com/r/Python/comments/t8obla/betterjsonstorage_faster_storage_type_for_tinydb/)
-- [Cocos2d vs Pyglet?](https://www.reddit.com/r/Python/comments/t8mttj/cocos2d_vs_pyglet/)
 <!-- BLOG-POST-LIST:END -->
