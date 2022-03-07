@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to change csv file with python.](https://www.reddit.com/r/Python/comments/t8qv8h/how_to_change_csv_file_with_python/)
-- [Deffcode: FFmpeg decoding made easy with python.](https://www.reddit.com/r/Python/comments/t8qen4/deffcode_ffmpeg_decoding_made_easy_with_python/)
-- [My GUI calculator](https://www.reddit.com/r/Python/comments/t8q9i0/my_gui_calculator/)
-- [Hey im Zan!](https://www.reddit.com/r/Python/comments/t8prmy/hey_im_zan/)
-- [Python Lists &lpar;Beginner Article&rpar;](https://www.reddit.com/r/Python/comments/t8pqpn/python_lists_beginner_article/)
+- [I wrote a book on machine learning w/ python code](https://www.reddit.com/r/Python/comments/t8st9l/i_wrote_a_book_on_machine_learning_w_python_code/)
+- [Creating candle sticks chart for Ethereum &lpar;ETH&rpar; using CoinGeckoAPI](https://www.reddit.com/r/Python/comments/t8s3vg/creating_candle_sticks_chart_for_ethereum_eth/)
+- [string slicing in python | All possible slicing combination of the string | Slice Operator](https://www.reddit.com/r/Python/comments/t8rpxh/string_slicing_in_python_all_possible_slicing/)
+- [Python Tutorial - How to Create a Music Player in Python?](https://www.reddit.com/r/Python/comments/t8rphp/python_tutorial_how_to_create_a_music_player_in/)
+- [Light pipeline library](https://www.reddit.com/r/Python/comments/t8rkqp/light_pipeline_library/)
 <!-- BLOG-POST-LIST:END -->
