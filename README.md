@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can a bot make a bot that makes bots](https://www.reddit.com/r/Python/comments/t90ys7/can_a_bot_make_a_bot_that_makes_bots/)
+- [EOmaps v3.2 - Interactive maps in python!](https://www.reddit.com/r/Python/comments/t91o8v/eomaps_v32_interactive_maps_in_python/)
 - [The easiest Python GUI Framework?](https://www.reddit.com/r/Python/comments/t908fm/the_easiest_python_gui_framework/)
 - [Algorithms](https://www.reddit.com/r/Python/comments/t900kv/algorithms/)
 - [Don&#39;t commit that generated code!: Pants 2.10 adds Apache Thrift support for Python](https://www.reddit.com/r/Python/comments/t8zlzv/dont_commit_that_generated_code_pants_210_adds/)
