@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding in movies vs real coding](https://www.reddit.com/r/Python/comments/t8gvpq/coding_in_movies_vs_real_coding/)
 - [Wrote a simple tool to interface FTP server!](https://www.reddit.com/r/Python/comments/t8d1ma/wrote_a_simple_tool_to_interface_ftp_server/)
 - [I made an AI-driven service that can tell you how alike any song sounds to Jimi Hendrix &lpar;in python&rpar;](https://www.reddit.com/r/Python/comments/t8ce7y/i_made_an_aidriven_service_that_can_tell_you_how/)
 - [News Aggregator](https://www.reddit.com/r/Python/comments/t8c5nm/news_aggregator/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/t8c2ch/monday_daily_thread_project_ideas/)
-- [Question...](https://www.reddit.com/r/Python/comments/t8bd15/question/)
 <!-- BLOG-POST-LIST:END -->
