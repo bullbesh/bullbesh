@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Any basic tips/lifehacks/things to note for a python beginner?](https://www.reddit.com/r/Python/comments/t8b1gk/any_basic_tipslifehacksthings_to_note_for_a/)
-- [Automating Wordle with a 3D Printer](https://www.reddit.com/r/Python/comments/t8abae/automating_wordle_with_a_3d_printer/)
-- [Frelatage: A new Coverage-Based Python Fuzzing Library](https://www.reddit.com/r/Python/comments/t89edp/frelatage_a_new_coveragebased_python_fuzzing/)
-- [Fully type-checked async ORM wrapped around asyncpg](https://www.reddit.com/r/Python/comments/t895ca/fully_typechecked_async_orm_wrapped_around_asyncpg/)
-- [Python Typing NoReturn confused me for a while so I wrote a blog to explain it.](https://www.reddit.com/r/Python/comments/t88r9e/python_typing_noreturn_confused_me_for_a_while_so/)
+- [Wrote a simple tool to interface FTP server!](https://www.reddit.com/r/Python/comments/t8d1ma/wrote_a_simple_tool_to_interface_ftp_server/)
+- [I made an AI-driven service that can tell you how alike any song sounds to Jimi Hendrix &lpar;in python&rpar;](https://www.reddit.com/r/Python/comments/t8ce7y/i_made_an_aidriven_service_that_can_tell_you_how/)
+- [News Aggregator](https://www.reddit.com/r/Python/comments/t8c5nm/news_aggregator/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/t8c2ch/monday_daily_thread_project_ideas/)
+- [Question...](https://www.reddit.com/r/Python/comments/t8bd15/question/)
 <!-- BLOG-POST-LIST:END -->
