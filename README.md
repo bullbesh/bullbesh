@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [BetterJSONStorage - faster &#39;Storage Type&#39; for TinyDB.](https://www.reddit.com/r/Python/comments/t8obla/betterjsonstorage_faster_storage_type_for_tinydb/)
 - [Cocos2d vs Pyglet?](https://www.reddit.com/r/Python/comments/t8mttj/cocos2d_vs_pyglet/)
 - [Python bot for visiting Linkedin profiles and registering as a view count](https://www.reddit.com/r/Python/comments/t8mdzd/python_bot_for_visiting_linkedin_profiles_and/)
 - [Nerd Snipe: How does this webapp work in the backend?](https://www.reddit.com/r/Python/comments/t8mc66/nerd_snipe_how_does_this_webapp_work_in_the/)
 - [How Python Integration can be Beneficial for the company?](https://www.reddit.com/r/Python/comments/t8m6cj/how_python_integration_can_be_beneficial_for_the/)
-- [FastAPI Quick CRUD](https://www.reddit.com/r/Python/comments/t8m4uy/fastapi_quick_crud/)
 <!-- BLOG-POST-LIST:END -->
