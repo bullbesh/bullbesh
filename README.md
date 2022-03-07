@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cocos2d vs Pyglet?](https://www.reddit.com/r/Python/comments/t8mttj/cocos2d_vs_pyglet/)
+- [Python bot for visiting Linkedin profiles and registering as a view count](https://www.reddit.com/r/Python/comments/t8mdzd/python_bot_for_visiting_linkedin_profiles_and/)
+- [Nerd Snipe: How does this webapp work in the backend?](https://www.reddit.com/r/Python/comments/t8mc66/nerd_snipe_how_does_this_webapp_work_in_the/)
 - [How Python Integration can be Beneficial for the company?](https://www.reddit.com/r/Python/comments/t8m6cj/how_python_integration_can_be_beneficial_for_the/)
 - [FastAPI Quick CRUD](https://www.reddit.com/r/Python/comments/t8m4uy/fastapi_quick_crud/)
-- [GitHub actions and isort](https://www.reddit.com/r/Python/comments/t8l8w0/github_actions_and_isort/)
-- [Python Selenium Tutorial #4 - How to bypass/solve reCAPTCHA using 2captcha API](https://www.reddit.com/r/Python/comments/t8l55v/python_selenium_tutorial_4_how_to_bypasssolve/)
-- [[Tutorial] Learn how to build a music recognition system with easy steps](https://www.reddit.com/r/Python/comments/t8k7z3/tutorial_learn_how_to_build_a_music_recognition/)
 <!-- BLOG-POST-LIST:END -->
