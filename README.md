@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Tutorial] Learn how to build a music recognition system with easy steps](https://www.reddit.com/r/Python/comments/t8k7z3/tutorial_learn_how_to_build_a_music_recognition/)
+- [Python File Handling - Python tutorial for beginners 20](https://www.reddit.com/r/Python/comments/t8jyie/python_file_handling_python_tutorial_for/)
 - [A simple webscraper for Archive of Our Own that highlights fanfics when they get updated.](https://www.reddit.com/r/Python/comments/t8iur6/a_simple_webscraper_for_archive_of_our_own_that/)
 - [GitHub Transfer - Easily transfer your GitHub repositories from one account to another!](https://www.reddit.com/r/Python/comments/t8ifz3/github_transfer_easily_transfer_your_github/)
 - [Hey everyone, this is a quick python matplotlib tutorial. In this python tutorial, we will be showing how to get started with Matplotlib plotting and graphing the slope intercept form in python &lpar;y=mx+b&rpar;. If you are interested, don&#39;t mind watching the video linked!](https://www.reddit.com/r/Python/comments/t8hsd3/hey_everyone_this_is_a_quick_python_matplotlib/)
-- [My first python script](https://www.reddit.com/r/Python/comments/t8gz1j/my_first_python_script/)
-- [Coding in movies vs real coding](https://www.reddit.com/r/Python/comments/t8gvpq/coding_in_movies_vs_real_coding/)
 <!-- BLOG-POST-LIST:END -->
