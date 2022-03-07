@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Mediapipe with python to create stick figure for popular instagram/tictok trends](https://www.reddit.com/r/Python/comments/t8v88s/using_mediapipe_with_python_to_create_stick/)
 - [I wrote a book on machine learning w/ python code](https://www.reddit.com/r/Python/comments/t8st9l/i_wrote_a_book_on_machine_learning_w_python_code/)
 - [Creating candle sticks chart for Ethereum &lpar;ETH&rpar; using CoinGeckoAPI](https://www.reddit.com/r/Python/comments/t8s3vg/creating_candle_sticks_chart_for_ethereum_eth/)
 - [string slicing in python | All possible slicing combination of the string | Slice Operator](https://www.reddit.com/r/Python/comments/t8rpxh/string_slicing_in_python_all_possible_slicing/)
 - [Python Tutorial - How to Create a Music Player in Python?](https://www.reddit.com/r/Python/comments/t8rphp/python_tutorial_how_to_create_a_music_player_in/)
-- [Light pipeline library](https://www.reddit.com/r/Python/comments/t8rkqp/light_pipeline_library/)
 <!-- BLOG-POST-LIST:END -->
