@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can a bot make a bot that makes bots](https://www.reddit.com/r/Python/comments/t90ys7/can_a_bot_make_a_bot_that_makes_bots/)
+- [The easiest Python GUI Framework?](https://www.reddit.com/r/Python/comments/t908fm/the_easiest_python_gui_framework/)
+- [Algorithms](https://www.reddit.com/r/Python/comments/t900kv/algorithms/)
 - [Don&#39;t commit that generated code!: Pants 2.10 adds Apache Thrift support for Python](https://www.reddit.com/r/Python/comments/t8zlzv/dont_commit_that_generated_code_pants_210_adds/)
-- [All about Python — 100 + Code Snippets, Tricks, Concepts, and Important Modules](https://www.reddit.com/r/Python/comments/t8z0l2/all_about_python_100_code_snippets_tricks/)
 - [Created a Custom American Football Game for my Twitch Stream](https://www.reddit.com/r/Python/comments/t8vr41/created_a_custom_american_football_game_for_my/)
-- [Using Mediapipe with python to create stick figure for popular instagram/tictok trends](https://www.reddit.com/r/Python/comments/t8v88s/using_mediapipe_with_python_to_create_stick/)
-- [I wrote a book on machine learning w/ python code](https://www.reddit.com/r/Python/comments/t8st9l/i_wrote_a_book_on_machine_learning_w_python_code/)
 <!-- BLOG-POST-LIST:END -->
