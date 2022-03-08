@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What to make?](https://www.reddit.com/r/Python/comments/t9k8s5/what_to_make/)
+- [Getting random numbers any time i do a import](https://www.reddit.com/r/Python/comments/t9k7vn/getting_random_numbers_any_time_i_do_a_import/)
+- [Flappy Birds in Python - Part 2](https://www.reddit.com/r/Python/comments/t9jll4/flappy_birds_in_python_part_2/)
+- [Need suggestions for python certification courses for AWS DEVOPS](https://www.reddit.com/r/Python/comments/t9jhy3/need_suggestions_for_python_certification_courses/)
 - [Python News: What&#39;s New From February 2022? – Real Python](https://www.reddit.com/r/Python/comments/t9gvph/python_news_whats_new_from_february_2022_real/)
-- [Text Summarization in Python with Jaro-Winkler and PageRank](https://www.reddit.com/r/Python/comments/t9gow4/text_summarization_in_python_with_jarowinkler_and/)
-- [Which is your favorite python IDE and why?](https://www.reddit.com/r/Python/comments/t9gmaj/which_is_your_favorite_python_ide_and_why/)
-- [Effective Pandas Digital Book](https://www.reddit.com/r/Python/comments/t9gjof/effective_pandas_digital_book/)
-- [How Appwrite v0.13 Implements Faster Cloud Functions and Scalable File Storage](https://www.reddit.com/r/Python/comments/t9ghg5/how_appwrite_v013_implements_faster_cloud/)
 <!-- BLOG-POST-LIST:END -->
