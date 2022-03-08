@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Clarification on PIP installs and CMD commands.](https://www.reddit.com/r/Python/comments/t99yzc/clarification_on_pip_installs_and_cmd_commands/)
 - [5 Practice Tests for the PCAP-31-03 certification exam](https://www.reddit.com/r/Python/comments/t99b96/5_practice_tests_for_the_pcap3103_certification/)
 - [Check your Python skills using this simple test](https://www.reddit.com/r/Python/comments/t98ums/check_your_python_skills_using_this_simple_test/)
 - [Python in a Nutshell](https://www.reddit.com/r/Python/comments/t95zuo/python_in_a_nutshell/)
 - [[PyPi Package] Create a datetime object from plain text](https://www.reddit.com/r/Python/comments/t94m04/pypi_package_create_a_datetime_object_from_plain/)
-- [Does exist Machine Learning model for finding the best filter combination in sheets?](https://www.reddit.com/r/Python/comments/t948ex/does_exist_machine_learning_model_for_finding_the/)
 <!-- BLOG-POST-LIST:END -->
