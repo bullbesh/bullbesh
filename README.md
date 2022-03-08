@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Pygame VS Cocos2D](https://www.reddit.com/r/Python/comments/t9pliz/pygame_vs_cocos2d/)
 - [Microsoft releases SynapseML v0.9.5 for distributed geospatial analytics, speech synthesis, and anomaly detection in PySpark.](https://www.reddit.com/r/Python/comments/t9p5j5/microsoft_releases_synapseml_v095_for_distributed/)
 - [I made my first Python website with Flask!](https://www.reddit.com/r/Python/comments/t9p2v3/i_made_my_first_python_website_with_flask/)
 - [im made a url shortener in python](https://www.reddit.com/r/Python/comments/t9nqhx/im_made_a_url_shortener_in_python/)
 - [Python News: What&#39;s New From February 2022? – Real Python](https://www.reddit.com/r/Python/comments/t9gvph/python_news_whats_new_from_february_2022_real/)
+- [Text Summarization in Python with Jaro-Winkler and PageRank](https://www.reddit.com/r/Python/comments/t9gow4/text_summarization_in_python_with_jarowinkler_and/)
 <!-- BLOG-POST-LIST:END -->
