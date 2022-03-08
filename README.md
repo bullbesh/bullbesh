@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Dead celebrity checker - small python project I made to notify you when celebrities die](https://www.reddit.com/r/Python/comments/t9ebny/dead_celebrity_checker_small_python_project_i/)
-- [I finally got a solution to attend my online class regularly 😄](https://www.reddit.com/r/Python/comments/t9e0jf/i_finally_got_a_solution_to_attend_my_online/)
-- [Family of key Python contributor Storchaka has left Ukraine safely with community help](https://www.reddit.com/r/Python/comments/t9dd6n/family_of_key_python_contributor_storchaka_has/)
-- [What is the future of offshore python web development?](https://www.reddit.com/r/Python/comments/t9cj3j/what_is_the_future_of_offshore_python_web/)
-- [String alignment in a file](https://www.reddit.com/r/Python/comments/t9bz2y/string_alignment_in_a_file/)
+- [can i run python code in VISUAL STUDIO COMMUNITY 2022 &lpar;not vs code&rpar; using wsl2 ?](https://www.reddit.com/r/Python/comments/t9fsoi/can_i_run_python_code_in_visual_studio_community/)
+- [Confused between the term library and package word on python](https://www.reddit.com/r/Python/comments/t9fmoh/confused_between_the_term_library_and_package/)
+- [Ranked Positional Weight Method code](https://www.reddit.com/r/Python/comments/t9f4ch/ranked_positional_weight_method_code/)
+- [5 background scheduling libraries in Python you must know](https://www.reddit.com/r/Python/comments/t9f3h7/5_background_scheduling_libraries_in_python_you/)
+- [Useful machine learning libraries in Python?](https://www.reddit.com/r/Python/comments/t9ex9i/useful_machine_learning_libraries_in_python/)
 <!-- BLOG-POST-LIST:END -->
