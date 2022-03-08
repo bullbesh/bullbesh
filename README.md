@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Practice Tests for the PCAP-31-03 certification exam](https://www.reddit.com/r/Python/comments/t99b96/5_practice_tests_for_the_pcap3103_certification/)
+- [Check your Python skills using this simple test](https://www.reddit.com/r/Python/comments/t98ums/check_your_python_skills_using_this_simple_test/)
 - [Python in a Nutshell](https://www.reddit.com/r/Python/comments/t95zuo/python_in_a_nutshell/)
 - [[PyPi Package] Create a datetime object from plain text](https://www.reddit.com/r/Python/comments/t94m04/pypi_package_create_a_datetime_object_from_plain/)
 - [Does exist Machine Learning model for finding the best filter combination in sheets?](https://www.reddit.com/r/Python/comments/t948ex/does_exist_machine_learning_model_for_finding_the/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/t93cl4/tuesday_daily_thread_advanced_questions/)
-- [EOmaps v3.2 - Interactive maps in python!](https://www.reddit.com/r/Python/comments/t91o8v/eomaps_v32_interactive_maps_in_python/)
 <!-- BLOG-POST-LIST:END -->
