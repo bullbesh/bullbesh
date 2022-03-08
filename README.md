@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Text Summarization in Python with Jaro-Winkler and PageRank](https://www.reddit.com/r/Python/comments/t9gow4/text_summarization_in_python_with_jarowinkler_and/)
+- [Which is your favorite python IDE and why?](https://www.reddit.com/r/Python/comments/t9gmaj/which_is_your_favorite_python_ide_and_why/)
+- [Effective Pandas Digital Book](https://www.reddit.com/r/Python/comments/t9gjof/effective_pandas_digital_book/)
+- [How Appwrite v0.13 Implements Faster Cloud Functions and Scalable File Storage](https://www.reddit.com/r/Python/comments/t9ghg5/how_appwrite_v013_implements_faster_cloud/)
 - [can i run python code in VISUAL STUDIO COMMUNITY 2022 &lpar;not vs code&rpar; using wsl2 ?](https://www.reddit.com/r/Python/comments/t9fsoi/can_i_run_python_code_in_visual_studio_community/)
-- [Confused between the term library and package word on python](https://www.reddit.com/r/Python/comments/t9fmoh/confused_between_the_term_library_and_package/)
-- [Ranked Positional Weight Method code](https://www.reddit.com/r/Python/comments/t9f4ch/ranked_positional_weight_method_code/)
-- [5 background scheduling libraries in Python you must know](https://www.reddit.com/r/Python/comments/t9f3h7/5_background_scheduling_libraries_in_python_you/)
-- [Useful machine learning libraries in Python?](https://www.reddit.com/r/Python/comments/t9ex9i/useful_machine_learning_libraries_in_python/)
 <!-- BLOG-POST-LIST:END -->
