@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [When is sorted&lpar;&rpar; used?](https://www.reddit.com/r/Python/comments/t9mbaj/when_is_sorted_used/)
-- [what&#39;s happening here? python lists](https://www.reddit.com/r/Python/comments/t9m3ks/whats_happening_here_python_lists/)
-- [Looking for a Python BootCamp that will be worth it! Ive been searching around and was wondering which worked best for everyone 😄](https://www.reddit.com/r/Python/comments/t9ledd/looking_for_a_python_bootcamp_that_will_be_worth/)
-- [What to make?](https://www.reddit.com/r/Python/comments/t9k8s5/what_to_make/)
-- [Getting random numbers any time i do a import](https://www.reddit.com/r/Python/comments/t9k7vn/getting_random_numbers_any_time_i_do_a_import/)
+- [im made a url shortener in python](https://www.reddit.com/r/Python/comments/t9nqhx/im_made_a_url_shortener_in_python/)
+- [Python News: What&#39;s New From February 2022? – Real Python](https://www.reddit.com/r/Python/comments/t9gvph/python_news_whats_new_from_february_2022_real/)
+- [Text Summarization in Python with Jaro-Winkler and PageRank](https://www.reddit.com/r/Python/comments/t9gow4/text_summarization_in_python_with_jarowinkler_and/)
+- [Effective Pandas Digital Book](https://www.reddit.com/r/Python/comments/t9gjof/effective_pandas_digital_book/)
+- [How Appwrite v0.13 Implements Faster Cloud Functions and Scalable File Storage](https://www.reddit.com/r/Python/comments/t9ghg5/how_appwrite_v013_implements_faster_cloud/)
 <!-- BLOG-POST-LIST:END -->
