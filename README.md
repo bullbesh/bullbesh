@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [When is sorted&lpar;&rpar; used?](https://www.reddit.com/r/Python/comments/t9mbaj/when_is_sorted_used/)
+- [what&#39;s happening here? python lists](https://www.reddit.com/r/Python/comments/t9m3ks/whats_happening_here_python_lists/)
 - [Looking for a Python BootCamp that will be worth it! Ive been searching around and was wondering which worked best for everyone 😄](https://www.reddit.com/r/Python/comments/t9ledd/looking_for_a_python_bootcamp_that_will_be_worth/)
-- [What&#39;s happening here? python lists](https://www.reddit.com/r/Python/comments/t9kpr8/whats_happening_here_python_lists/)
 - [What to make?](https://www.reddit.com/r/Python/comments/t9k8s5/what_to_make/)
 - [Getting random numbers any time i do a import](https://www.reddit.com/r/Python/comments/t9k7vn/getting_random_numbers_any_time_i_do_a_import/)
-- [Flappy Birds in Python - Part 2](https://www.reddit.com/r/Python/comments/t9jll4/flappy_birds_in_python_part_2/)
 <!-- BLOG-POST-LIST:END -->
