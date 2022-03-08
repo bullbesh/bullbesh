@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dead celebrity checker - small python project I made to notify you when celebrities die](https://www.reddit.com/r/Python/comments/t9ebny/dead_celebrity_checker_small_python_project_i/)
+- [I finally got a solution to attend my online class regularly 😄](https://www.reddit.com/r/Python/comments/t9e0jf/i_finally_got_a_solution_to_attend_my_online/)
 - [Family of key Python contributor Storchaka has left Ukraine safely with community help](https://www.reddit.com/r/Python/comments/t9dd6n/family_of_key_python_contributor_storchaka_has/)
 - [What is the future of offshore python web development?](https://www.reddit.com/r/Python/comments/t9cj3j/what_is_the_future_of_offshore_python_web/)
 - [String alignment in a file](https://www.reddit.com/r/Python/comments/t9bz2y/string_alignment_in_a_file/)
-- [Wordle REST API](https://www.reddit.com/r/Python/comments/t9bktz/wordle_rest_api/)
-- [An easy way to convert unlimited python functions into shell commands - a QR example](https://www.reddit.com/r/Python/comments/t9b46m/an_easy_way_to_convert_unlimited_python_functions/)
 <!-- BLOG-POST-LIST:END -->
