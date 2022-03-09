@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Integral in Python. Easy explanation of Riemann summations.](https://www.reddit.com/r/Python/comments/t9w59d/integral_in_python_easy_explanation_of_riemann/)
+- [Interactive Timeseries Forecasting! Predicting the future with Darts + Streamlit](https://www.reddit.com/r/Python/comments/t9vg96/interactive_timeseries_forecasting_predicting_the/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/t9uk3c/wednesday_daily_thread_beginner_questions/)
+- [Looking for a library/package for creating Graphical Displays/Dashboards to display on and old laptop screen hooked up to a raspberry pi.](https://www.reddit.com/r/Python/comments/t9ugew/looking_for_a_librarypackage_for_creating/)
 - [Github Issues Migration is coming soon - Core Development](https://www.reddit.com/r/Python/comments/t9tjz8/github_issues_migration_is_coming_soon_core/)
-- [Microsoft releases SynapseML v0.9.5 for distributed geospatial analytics, speech synthesis, and anomaly detection in PySpark.](https://www.reddit.com/r/Python/comments/t9p5j5/microsoft_releases_synapseml_v095_for_distributed/)
-- [I made my first Python website with Flask!](https://www.reddit.com/r/Python/comments/t9p2v3/i_made_my_first_python_website_with_flask/)
-- [im made a url shortener in python](https://www.reddit.com/r/Python/comments/t9nqhx/im_made_a_url_shortener_in_python/)
-- [Python News: What&#39;s New From February 2022? – Real Python](https://www.reddit.com/r/Python/comments/t9gvph/python_news_whats_new_from_february_2022_real/)
 <!-- BLOG-POST-LIST:END -->
