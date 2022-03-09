@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Back on YouTube?](https://www.reddit.com/r/Python/comments/ta3er1/back_on_youtube/)
+- [Premiering a new intro video on Kedro following the Spaceflights tutorial](https://www.reddit.com/r/Python/comments/ta4scg/premiering_a_new_intro_video_on_kedro_following/)
+- [Industrial Remote Sensing &amp; Actuation with Rasberry Pis](https://www.reddit.com/r/Python/comments/ta4gay/industrial_remote_sensing_actuation_with_rasberry/)
+- [forward messages from a telegram channel to my twitter page](https://www.reddit.com/r/Python/comments/ta49x7/forward_messages_from_a_telegram_channel_to_my/)
 - [PEP 684 -- A Per-Interpreter GIL](https://www.reddit.com/r/Python/comments/ta33jk/pep_684_a_perinterpreter_gil/)
 - [GitHub - dewberryants/asciiMol: Curses based ASCII molecule viewer for linux terminals.](https://www.reddit.com/r/Python/comments/ta2ea3/github_dewberryantsasciimol_curses_based_ascii/)
-- [Send an Outlook email with attachment using Python](https://www.reddit.com/r/Python/comments/t9z8g1/send_an_outlook_email_with_attachment_using_python/)
-- [Integral in Python. Easy explanation of Riemann summations.](https://www.reddit.com/r/Python/comments/t9w59d/integral_in_python_easy_explanation_of_riemann/)
 <!-- BLOG-POST-LIST:END -->
