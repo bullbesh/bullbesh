@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Grocery Hacking: Automate Your Grocery Shopping Using the Robot Framework](https://www.reddit.com/r/Python/comments/tabwy6/grocery_hacking_automate_your_grocery_shopping/)
-- [stocks](https://www.reddit.com/r/Python/comments/tabpuv/stocks/)
 - [End-to-End Tutorial on Combining AWS Lambda, Docker, and Python](https://www.reddit.com/r/Python/comments/ta8jf6/endtoend_tutorial_on_combining_aws_lambda_docker/)
 - [Live coding session &#39;dancing across three languages&#39; - KSQL, Python and JavaScript. Kris Jenkins](https://www.reddit.com/r/Python/comments/ta87ig/live_coding_session_dancing_across_three/)
 - [Cantera Chatbot, a Python flame calculator on Facebook Messenger](https://www.reddit.com/r/Python/comments/ta80el/cantera_chatbot_a_python_flame_calculator_on/)
+- [How dataclasses can jump-start your Python code! &lpar;Part 1 of an upcoming series on the Python Data Model&rpar;](https://www.reddit.com/r/Python/comments/ta80e5/how_dataclasses_can_jumpstart_your_python_code/)
 <!-- BLOG-POST-LIST:END -->
