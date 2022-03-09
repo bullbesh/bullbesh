@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why is .join&lpar;&rpar; the way it is?](https://www.reddit.com/r/Python/comments/tah71m/why_is_join_the_way_it_is/)
-- [Acoustic synth with Pyaudio and Pygame that you can play with your computer keyboard](https://www.reddit.com/r/Python/comments/tah3ce/acoustic_synth_with_pyaudio_and_pygame_that_you/)
-- [How do i use python to earn money in high school?](https://www.reddit.com/r/Python/comments/tagj2x/how_do_i_use_python_to_earn_money_in_high_school/)
-- [Question about broadcasting over UDP](https://www.reddit.com/r/Python/comments/taggss/question_about_broadcasting_over_udp/)
-- [Top 10 Tips &amp; Tricks For Pythonistas](https://www.reddit.com/r/Python/comments/taggnq/top_10_tips_tricks_for_pythonistas/)
+- [tiptop - Command-line system monitoring](https://www.reddit.com/r/Python/comments/taiv1h/tiptop_commandline_system_monitoring/)
+- [Guys i made a new game!](https://www.reddit.com/r/Python/comments/taiv1b/guys_i_made_a_new_game/)
+- [Video Gallery Web App using Flask &amp; Vimeo API](https://www.reddit.com/r/Python/comments/taidla/video_gallery_web_app_using_flask_vimeo_api/)
+- [Why is Python used by lots of scientists to simulate and calculate things, although it is pretty slow in comparison to other languages?](https://www.reddit.com/r/Python/comments/taia48/why_is_python_used_by_lots_of_scientists_to/)
+- [tiptop, a command-line system monitor](https://www.reddit.com/r/Python/comments/tai103/tiptop_a_commandline_system_monitor/)
 <!-- BLOG-POST-LIST:END -->
