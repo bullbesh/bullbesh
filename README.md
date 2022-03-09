@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How is the PCPP certificate?](https://www.reddit.com/r/Python/comments/takar5/how_is_the_pcpp_certificate/)
 - [tiptop - Command-line system monitoring](https://www.reddit.com/r/Python/comments/taiv1h/tiptop_commandline_system_monitoring/)
 - [Guys i made a new game!](https://www.reddit.com/r/Python/comments/taiv1b/guys_i_made_a_new_game/)
 - [Video Gallery Web App using Flask &amp; Vimeo API](https://www.reddit.com/r/Python/comments/taidla/video_gallery_web_app_using_flask_vimeo_api/)
 - [Why is Python used by lots of scientists to simulate and calculate things, although it is pretty slow in comparison to other languages?](https://www.reddit.com/r/Python/comments/taia48/why_is_python_used_by_lots_of_scientists_to/)
-- [tiptop, a command-line system monitor](https://www.reddit.com/r/Python/comments/tai103/tiptop_a_commandline_system_monitor/)
 <!-- BLOG-POST-LIST:END -->
