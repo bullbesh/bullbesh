@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 684 -- A Per-Interpreter GIL](https://www.reddit.com/r/Python/comments/ta33jk/pep_684_a_perinterpreter_gil/)
+- [GitHub - dewberryants/asciiMol: Curses based ASCII molecule viewer for linux terminals.](https://www.reddit.com/r/Python/comments/ta2ea3/github_dewberryantsasciimol_curses_based_ascii/)
 - [Send an Outlook email with attachment using Python](https://www.reddit.com/r/Python/comments/t9z8g1/send_an_outlook_email_with_attachment_using_python/)
 - [Integral in Python. Easy explanation of Riemann summations.](https://www.reddit.com/r/Python/comments/t9w59d/integral_in_python_easy_explanation_of_riemann/)
 - [Interactive Timeseries Forecasting! Predicting the future with Darts + Streamlit](https://www.reddit.com/r/Python/comments/t9vg96/interactive_timeseries_forecasting_predicting_the/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/t9uk3c/wednesday_daily_thread_beginner_questions/)
-- [Looking for a library/package for creating Graphical Displays/Dashboards to display on and old laptop screen hooked up to a raspberry pi.](https://www.reddit.com/r/Python/comments/t9ugew/looking_for_a_librarypackage_for_creating/)
 <!-- BLOG-POST-LIST:END -->
