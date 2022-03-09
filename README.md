@@ -16,8 +16,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Send an Outlook email with attachment using Python](https://www.reddit.com/r/Python/comments/t9z8g1/send_an_outlook_email_with_attachment_using_python/)
-- [Why If and Elif](https://www.reddit.com/r/Python/comments/t9xxag/why_if_and_elif/)
 - [Integral in Python. Easy explanation of Riemann summations.](https://www.reddit.com/r/Python/comments/t9w59d/integral_in_python_easy_explanation_of_riemann/)
 - [Interactive Timeseries Forecasting! Predicting the future with Darts + Streamlit](https://www.reddit.com/r/Python/comments/t9vg96/interactive_timeseries_forecasting_predicting_the/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/t9uk3c/wednesday_daily_thread_beginner_questions/)
+- [Looking for a library/package for creating Graphical Displays/Dashboards to display on and old laptop screen hooked up to a raspberry pi.](https://www.reddit.com/r/Python/comments/t9ugew/looking_for_a_librarypackage_for_creating/)
 <!-- BLOG-POST-LIST:END -->
