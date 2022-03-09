@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do i use python to earn money in high school?](https://www.reddit.com/r/Python/comments/tagj2x/how_do_i_use_python_to_earn_money_in_high_school/)
+- [Question about broadcasting over UDP](https://www.reddit.com/r/Python/comments/taggss/question_about_broadcasting_over_udp/)
+- [Top 10 Tips &amp; Tricks For Pythonistas](https://www.reddit.com/r/Python/comments/taggnq/top_10_tips_tricks_for_pythonistas/)
+- [karma exists...](https://www.reddit.com/r/Python/comments/taf844/karma_exists/)
 - [Flappy Bird Project in Python using NEAT](https://www.reddit.com/r/Python/comments/taenf4/flappy_bird_project_in_python_using_neat/)
-- [Grocery Hacking: Automate Your Grocery Shopping Using the Robot Framework](https://www.reddit.com/r/Python/comments/tabwy6/grocery_hacking_automate_your_grocery_shopping/)
-- [End-to-End Tutorial on Combining AWS Lambda, Docker, and Python](https://www.reddit.com/r/Python/comments/ta8jf6/endtoend_tutorial_on_combining_aws_lambda_docker/)
-- [Live coding session &#39;dancing across three languages&#39; - KSQL, Python and JavaScript. Kris Jenkins](https://www.reddit.com/r/Python/comments/ta87ig/live_coding_session_dancing_across_three/)
-- [Cantera Chatbot, a Python flame calculator on Facebook Messenger](https://www.reddit.com/r/Python/comments/ta80el/cantera_chatbot_a_python_flame_calculator_on/)
 <!-- BLOG-POST-LIST:END -->
