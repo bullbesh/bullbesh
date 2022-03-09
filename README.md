@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is .join&lpar;&rpar; the way it is?](https://www.reddit.com/r/Python/comments/tah71m/why_is_join_the_way_it_is/)
+- [Acoustic synth with Pyaudio and Pygame that you can play with your computer keyboard](https://www.reddit.com/r/Python/comments/tah3ce/acoustic_synth_with_pyaudio_and_pygame_that_you/)
 - [How do i use python to earn money in high school?](https://www.reddit.com/r/Python/comments/tagj2x/how_do_i_use_python_to_earn_money_in_high_school/)
 - [Question about broadcasting over UDP](https://www.reddit.com/r/Python/comments/taggss/question_about_broadcasting_over_udp/)
 - [Top 10 Tips &amp; Tricks For Pythonistas](https://www.reddit.com/r/Python/comments/taggnq/top_10_tips_tricks_for_pythonistas/)
-- [karma exists...](https://www.reddit.com/r/Python/comments/taf844/karma_exists/)
-- [Flappy Bird Project in Python using NEAT](https://www.reddit.com/r/Python/comments/taenf4/flappy_bird_project_in_python_using_neat/)
 <!-- BLOG-POST-LIST:END -->
