@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How is the market for Python developers where you live?](https://www.reddit.com/r/Python/comments/ta77kg/how_is_the_market_for_python_developers_where_you/)
+- [Weird bug in python inline for loop](https://www.reddit.com/r/Python/comments/ta6u5i/weird_bug_in_python_inline_for_loop/)
 - [Discussion, Beginner showcase](https://www.reddit.com/r/Python/comments/ta6q1t/discussion_beginner_showcase/)
 - [Challenge , Discussion](https://www.reddit.com/r/Python/comments/ta6nw2/challenge_discussion/)
 - [Need urgent help with a python quiz](https://www.reddit.com/r/Python/comments/ta63wa/need_urgent_help_with_a_python_quiz/)
-- [How search in jar with python](https://www.reddit.com/r/Python/comments/ta61h3/how_search_in_jar_with_python/)
-- [A Python program to compute the normalization coefficients of a given set of orthogonal 1-D complex wave functions](https://www.reddit.com/r/Python/comments/ta5qwz/a_python_program_to_compute_the_normalization/)
 <!-- BLOG-POST-LIST:END -->
