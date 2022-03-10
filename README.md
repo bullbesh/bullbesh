@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ViperDB: A tiny log-structured key-value database written in pure Python.](https://www.reddit.com/r/Python/comments/tb5waf/viperdb_a_tiny_logstructured_keyvalue_database/)
+- [Intro to PyTorch: Part 1](https://www.reddit.com/r/Python/comments/tb5ofy/intro_to_pytorch_part_1/)
+- [Sections: Easy tree data structures in Python for organizing lists and dicts into sections.](https://www.reddit.com/r/Python/comments/tb5hjz/sections_easy_tree_data_structures_in_python_for/)
+- [I made a Discord Bot that explains your Python code](https://www.reddit.com/r/Python/comments/tb587a/i_made_a_discord_bot_that_explains_your_python/)
 - [My 2D/3D Engine written in Python [Free download link in description - Windows/Linux]](https://www.reddit.com/r/Python/comments/tb3jhx/my_2d3d_engine_written_in_python_free_download/)
-- [Python script to list files in file share](https://www.reddit.com/r/Python/comments/tb36f1/python_script_to_list_files_in_file_share/)
-- [[Honestly] How should I improve this library to get more stars](https://www.reddit.com/r/Python/comments/tb2lbq/honestly_how_should_i_improve_this_library_to_get/)
-- [double quotes into single quotes](https://www.reddit.com/r/Python/comments/tb2i5f/double_quotes_into_single_quotes/)
-- [nbpreview: a terminal viewer for Jupyter notebooks](https://www.reddit.com/r/Python/comments/tb1gjb/nbpreview_a_terminal_viewer_for_jupyter_notebooks/)
 <!-- BLOG-POST-LIST:END -->
