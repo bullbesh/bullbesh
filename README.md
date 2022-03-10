@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic QR codes in Python](https://www.reddit.com/r/Python/comments/tanhye/dynamic_qr_codes_in_python/)
+- [👨‍🔬🧪Searching for Data Science Community](https://www.reddit.com/r/Python/comments/tapv6q/searching_for_data_science_community/)
 - [Diving head first in a new adventure](https://www.reddit.com/r/Python/comments/tand25/diving_head_first_in_a_new_adventure/)
 - [txtai 4.3 released - machine learning pipelines as SQL](https://www.reddit.com/r/Python/comments/tamzbk/txtai_43_released_machine_learning_pipelines_as/)
 - [I made a file installer simulation in python.](https://www.reddit.com/r/Python/comments/tamyl8/i_made_a_file_installer_simulation_in_python/)
