@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [double quotes into single quotes](https://www.reddit.com/r/Python/comments/tb2i5f/double_quotes_into_single_quotes/)
+- [nbpreview: a terminal viewer for Jupyter notebooks](https://www.reddit.com/r/Python/comments/tb1gjb/nbpreview_a_terminal_viewer_for_jupyter_notebooks/)
+- [Library to compare almost equal dictionaries](https://www.reddit.com/r/Python/comments/tb1ee4/library_to_compare_almost_equal_dictionaries/)
 - [word unscrambler function](https://www.reddit.com/r/Python/comments/tb0qye/word_unscrambler_function/)
 - [pointers.py - bringing the hell of pointers into python](https://www.reddit.com/r/Python/comments/tb0eyc/pointerspy_bringing_the_hell_of_pointers_into/)
-- [How to change &quot;naming style&quot; in Spyder IDE](https://www.reddit.com/r/Python/comments/tazwvg/how_to_change_naming_style_in_spyder_ide/)
-- [I make industrial recipe cost calculator](https://www.reddit.com/r/Python/comments/taz2rr/i_make_industrial_recipe_cost_calculator/)
-- [Help with battleship python project](https://www.reddit.com/r/Python/comments/taukgb/help_with_battleship_python_project/)
 <!-- BLOG-POST-LIST:END -->
