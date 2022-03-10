@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there a way to scramble and unscramble characters in a text file](https://www.reddit.com/r/Python/comments/tbbgkn/is_there_a_way_to_scramble_and_unscramble/)
+- [Made a simple password generator](https://www.reddit.com/r/Python/comments/tbalxr/made_a_simple_password_generator/)
 - [Wikipedia Question Bot using GPT-3](https://www.reddit.com/r/Python/comments/tb8nd0/wikipedia_question_bot_using_gpt3/)
 - [Found A Cool Python Method Writer](https://www.reddit.com/r/Python/comments/tb8n0d/found_a_cool_python_method_writer/)
 - [CustomTkinter: Modern and customizable Ui across platforms](https://www.reddit.com/r/Python/comments/tb7dqv/customtkinter_modern_and_customizable_ui_across/)
-- [ViperDB: A tiny log-structured key-value database written in pure Python.](https://www.reddit.com/r/Python/comments/tb5waf/viperdb_a_tiny_logstructured_keyvalue_database/)
-- [Intro to PyTorch: Part 1](https://www.reddit.com/r/Python/comments/tb5ofy/intro_to_pytorch_part_1/)
 <!-- BLOG-POST-LIST:END -->
