@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How is the PCPP certificate?](https://www.reddit.com/r/Python/comments/takar5/how_is_the_pcpp_certificate/)
-- [tiptop - Command-line system monitoring](https://www.reddit.com/r/Python/comments/taiv1h/tiptop_commandline_system_monitoring/)
-- [Guys i made a new game!](https://www.reddit.com/r/Python/comments/taiv1b/guys_i_made_a_new_game/)
-- [Video Gallery Web App using Flask &amp; Vimeo API](https://www.reddit.com/r/Python/comments/taidla/video_gallery_web_app_using_flask_vimeo_api/)
-- [Why is Python used by lots of scientists to simulate and calculate things, although it is pretty slow in comparison to other languages?](https://www.reddit.com/r/Python/comments/taia48/why_is_python_used_by_lots_of_scientists_to/)
+- [txtai 4.3 released - machine learning pipelines as SQL](https://www.reddit.com/r/Python/comments/tamzbk/txtai_43_released_machine_learning_pipelines_as/)
+- [I made a file installer simulation in python.](https://www.reddit.com/r/Python/comments/tamyl8/i_made_a_file_installer_simulation_in_python/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/talc79/thursday_daily_thread_python_careers_courses_and/)
+- [I created a tutorial about how to sort your dictionary! Hope you enjoy!](https://www.reddit.com/r/Python/comments/tal2wr/i_created_a_tutorial_about_how_to_sort_your/)
+- [&quot;Want to start a large project? Keep away from Python&quot; Are most of their complaints inaccurate?](https://www.reddit.com/r/Python/comments/takmth/want_to_start_a_large_project_keep_away_from/)
 <!-- BLOG-POST-LIST:END -->
