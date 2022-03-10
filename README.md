@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [word unscrambler function](https://www.reddit.com/r/Python/comments/tb0qye/word_unscrambler_function/)
+- [pointers.py - bringing the hell of pointers into python](https://www.reddit.com/r/Python/comments/tb0eyc/pointerspy_bringing_the_hell_of_pointers_into/)
+- [How to change &quot;naming style&quot; in Spyder IDE](https://www.reddit.com/r/Python/comments/tazwvg/how_to_change_naming_style_in_spyder_ide/)
 - [I make industrial recipe cost calculator](https://www.reddit.com/r/Python/comments/taz2rr/i_make_industrial_recipe_cost_calculator/)
 - [Help with battleship python project](https://www.reddit.com/r/Python/comments/taukgb/help_with_battleship_python_project/)
-- [Python built-in functions to know](https://www.reddit.com/r/Python/comments/tatgyo/python_builtin_functions_to_know/)
-- [New Opensource starter kit using python/django](https://www.reddit.com/r/Python/comments/tatdka/new_opensource_starter_kit_using_pythondjango/)
-- [Is there a way to use python to share a live music output that I create with a python script with other users online? like a channel that you could join when and as long the user want.](https://www.reddit.com/r/Python/comments/tarh68/is_there_a_way_to_use_python_to_share_a_live/)
 <!-- BLOG-POST-LIST:END -->
