@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help Please](https://www.reddit.com/r/Python/comments/tbr04b/help_please/)
+- [Added Bats using Unit Vectors to my Game Made in Python](https://www.reddit.com/r/Python/comments/tbqkxu/added_bats_using_unit_vectors_to_my_game_made_in/)
 - [PyZCache - key value library based file storage](https://www.reddit.com/r/Python/comments/tbq179/pyzcache_key_value_library_based_file_storage/)
 - [A Gentle Introduction to Testing with pytest](https://www.reddit.com/r/Python/comments/tbowsl/a_gentle_introduction_to_testing_with_pytest/)
 - [Learning python](https://www.reddit.com/r/Python/comments/tbowpr/learning_python/)
-- [How to extact ALL IG capions?](https://www.reddit.com/r/Python/comments/tbnr44/how_to_extact_all_ig_capions/)
-- [Open Source and Free Sneat Bootstrap 5 HTML Admin Dashboard](https://www.reddit.com/r/Python/comments/tbnlmv/open_source_and_free_sneat_bootstrap_5_html_admin/)
 <!-- BLOG-POST-LIST:END -->
