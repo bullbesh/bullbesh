@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beginner trying to learning python](https://www.reddit.com/r/Python/comments/tbldc9/beginner_trying_to_learning_python/)
 - [Free Python Course](https://www.reddit.com/r/Python/comments/tbgn4k/free_python_course/)
 - [Create a simple and fast Banner](https://www.reddit.com/r/Python/comments/tbgkbf/create_a_simple_and_fast_banner/)
 - [Video a friend made, though it was a nice start for someone new](https://www.reddit.com/r/Python/comments/tbgj4w/video_a_friend_made_though_it_was_a_nice_start/)
 - [Make Netflix Logo in Python](https://www.reddit.com/r/Python/comments/tbdhif/make_netflix_logo_in_python/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/tbcuow/friday_daily_thread_free_chat_friday_daily_thread/)
 <!-- BLOG-POST-LIST:END -->
