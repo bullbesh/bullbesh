@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Make Netflix Logo in Python](https://www.reddit.com/r/Python/comments/tbdhif/make_netflix_logo_in_python/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/tbcuow/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Is there a way to scramble and unscramble characters in a text file](https://www.reddit.com/r/Python/comments/tbbgkn/is_there_a_way_to_scramble_and_unscramble/)
 - [Made a simple password generator](https://www.reddit.com/r/Python/comments/tbalxr/made_a_simple_password_generator/)
 - [Wikipedia Question Bot using GPT-3](https://www.reddit.com/r/Python/comments/tb8nd0/wikipedia_question_bot_using_gpt3/)
-- [Found A Cool Python Method Writer](https://www.reddit.com/r/Python/comments/tb8n0d/found_a_cool_python_method_writer/)
-- [CustomTkinter: Modern and customizable Ui across platforms](https://www.reddit.com/r/Python/comments/tb7dqv/customtkinter_modern_and_customizable_ui_across/)
 <!-- BLOG-POST-LIST:END -->
