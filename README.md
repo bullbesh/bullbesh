@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Draw Rectangles - 2D Rectangle Bin Packing](https://www.reddit.com/r/Python/comments/tbtvb6/draw_rectangles_2d_rectangle_bin_packing/)
+- [Need tips on how to update dict value without adding apostrophes to it](https://www.reddit.com/r/Python/comments/tbtpky/need_tips_on_how_to_update_dict_value_without/)
+- [Made a program that determines the daughter nuclide and type of particle decay](https://www.reddit.com/r/Python/comments/tbszsr/made_a_program_that_determines_the_daughter/)
 - [Help Please](https://www.reddit.com/r/Python/comments/tbr04b/help_please/)
 - [Added Bats using Unit Vectors to my Game Made in Python](https://www.reddit.com/r/Python/comments/tbqkxu/added_bats_using_unit_vectors_to_my_game_made_in/)
-- [PyZCache - key value library based file storage](https://www.reddit.com/r/Python/comments/tbq179/pyzcache_key_value_library_based_file_storage/)
-- [A Gentle Introduction to Testing with pytest](https://www.reddit.com/r/Python/comments/tbowsl/a_gentle_introduction_to_testing_with_pytest/)
-- [Learning python](https://www.reddit.com/r/Python/comments/tbowpr/learning_python/)
 <!-- BLOG-POST-LIST:END -->
