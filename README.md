@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FREE Python Bootcamp](https://www.reddit.com/r/Python/comments/tbxeo8/free_python_bootcamp/)
 - [AphroGen : An image and meme generation API that is fast &amp; free](https://www.reddit.com/r/Python/comments/tbw2z9/aphrogen_an_image_and_meme_generation_api_that_is/)
 - [pyoxipng: PyO3 wrapper of PNG image optimization Rust library oxipng](https://www.reddit.com/r/Python/comments/tbv5et/pyoxipng_pyo3_wrapper_of_png_image_optimization/)
 - [Validation Practices for Combining XLXS Files with Pandas](https://www.reddit.com/r/Python/comments/tbus2v/validation_practices_for_combining_xlxs_files/)
 - [Good Python Video](https://www.reddit.com/r/Python/comments/tbunc2/good_python_video/)
-- [HELP! sending list through smtplib](https://www.reddit.com/r/Python/comments/tbu6qv/help_sending_list_through_smtplib/)
 <!-- BLOG-POST-LIST:END -->
