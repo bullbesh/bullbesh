@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [aiowmi - A Python WMI library](https://www.reddit.com/r/Python/comments/tbn0fr/aiowmi_a_python_wmi_library/)
+- [ZnJSON - another lightweight en/decoder for Python objects to Json](https://www.reddit.com/r/Python/comments/tbmhhj/znjson_another_lightweight_endecoder_for_python/)
 - [NiceScaler 1.2.0 - Lossless image/video upscaler app based on OpenCV deeplearning models](https://www.reddit.com/r/Python/comments/tblwrj/nicescaler_120_lossless_imagevideo_upscaler_app/)
 - [Beginner trying to learning python](https://www.reddit.com/r/Python/comments/tbldc9/beginner_trying_to_learning_python/)
 - [Free Python Course](https://www.reddit.com/r/Python/comments/tbgn4k/free_python_course/)
-- [Create a simple and fast Banner](https://www.reddit.com/r/Python/comments/tbgkbf/create_a_simple_and_fast_banner/)
-- [Video a friend made, though it was a nice start for someone new](https://www.reddit.com/r/Python/comments/tbgj4w/video_a_friend_made_though_it_was_a_nice_start/)
 <!-- BLOG-POST-LIST:END -->
