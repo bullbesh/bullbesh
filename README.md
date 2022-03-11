@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate Various Rotating Cubes](https://www.reddit.com/r/Python/comments/tc06pd/generate_various_rotating_cubes/)
+- [Educational project showing how to open-source a Python App](https://www.reddit.com/r/Python/comments/tbzjuz/educational_project_showing_how_to_opensource_a/)
+- [How to create a digital clock with #python and #tkinter - python project for beginners](https://www.reddit.com/r/Python/comments/tbzdpk/how_to_create_a_digital_clock_with_python_and/)
+- [Dictionaries are objects or vice versa?](https://www.reddit.com/r/Python/comments/tbz6pa/dictionaries_are_objects_or_vice_versa/)
 - [Unicloud, Unison UI Smart File Sync. Automatic client registration. Sync from any replica. Docker, Flask, Python! Check it out :-&rpar;](https://www.reddit.com/r/Python/comments/tbz2ys/unicloud_unison_ui_smart_file_sync_automatic/)
-- [Program to handle uploading and downloading files to and from Hastebin](https://www.reddit.com/r/Python/comments/tbykfx/program_to_handle_uploading_and_downloading_files/)
-- [StyMinifier : A Python Code Minifier](https://www.reddit.com/r/Python/comments/tbygay/styminifier_a_python_code_minifier/)
-- [FREE Python Bootcamp](https://www.reddit.com/r/Python/comments/tbxeo8/free_python_bootcamp/)
-- [AphroGen : An image and meme generation API that is fast &amp; free](https://www.reddit.com/r/Python/comments/tbw2z9/aphrogen_an_image_and_meme_generation_api_that_is/)
 <!-- BLOG-POST-LIST:END -->
