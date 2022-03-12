@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Made a Python GUI that recreate Windows Run, but with Fluent and Mica effects!](https://www.reddit.com/r/Python/comments/tc7v3a/made_a_python_gui_that_recreate_windows_run_but/)
+- [Video I made using pynput for the mouse](https://www.reddit.com/r/Python/comments/tc9swd/video_i_made_using_pynput_for_the_mouse/)
 - [Building a Python app on Heroku? Try a PostgreSQL add-on that takes security seriously](https://www.reddit.com/r/Python/comments/tc69da/building_a_python_app_on_heroku_try_a_postgresql/)
 - [Ploomber - Quickly write and deploy data pipelines from Jupyter/VSCode/PyCharm](https://www.reddit.com/r/Python/comments/tc4vd7/ploomber_quickly_write_and_deploy_data_pipelines/)
 - [Is there a more pythonic way to &#39;deal cards&#39;?](https://www.reddit.com/r/Python/comments/tc4gpq/is_there_a_more_pythonic_way_to_deal_cards/)
