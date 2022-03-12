@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SNK Pixel Art AI Upscale Remaster &lpar;Amazing results&rpar;](https://www.reddit.com/r/Python/comments/tck9k8/snk_pixel_art_ai_upscale_remaster_amazing_results/)
 - [Simple python video to demonstrate stop watch](https://www.reddit.com/r/Python/comments/tcjfjz/simple_python_video_to_demonstrate_stop_watch/)
 - [Functions in Python](https://www.reddit.com/r/Python/comments/tcjeeo/functions_in_python/)
 - [Sorting algorithm visualizer](https://www.reddit.com/r/Python/comments/tcid81/sorting_algorithm_visualizer/)
 - [Python 3.11 Preview: Even Better Error Messages – Real Python](https://www.reddit.com/r/Python/comments/tciab5/python_311_preview_even_better_error_messages/)
-- [Here&#39;s a fun little code for you to try!:](https://www.reddit.com/r/Python/comments/tchdug/heres_a_fun_little_code_for_you_to_try/)
 <!-- BLOG-POST-LIST:END -->
