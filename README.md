@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sorting algorithm visualizer](https://www.reddit.com/r/Python/comments/tcid81/sorting_algorithm_visualizer/)
+- [Python 3.11 Preview: Even Better Error Messages – Real Python](https://www.reddit.com/r/Python/comments/tciab5/python_311_preview_even_better_error_messages/)
+- [Here&#39;s a fun little code for you to try!:](https://www.reddit.com/r/Python/comments/tchdug/heres_a_fun_little_code_for_you_to_try/)
+- [breaking the rules of python with pointers.py](https://www.reddit.com/r/Python/comments/tchczc/breaking_the_rules_of_python_with_pointerspy/)
 - [Masonite Application Deployment using Docker](https://www.reddit.com/r/Python/comments/tch41i/masonite_application_deployment_using_docker/)
-- [Building a high scalable voting system](https://www.reddit.com/r/Python/comments/tcg3vy/building_a_high_scalable_voting_system/)
-- [Say no to war!](https://www.reddit.com/r/Python/comments/tcfiuq/say_no_to_war/)
-- [Better OOP in Python &lpar;no self needed anymore&rpar;](https://www.reddit.com/r/Python/comments/tceagd/better_oop_in_python_no_self_needed_anymore/)
-- [Add metadata tags to an mp3 file WITH PYTHON](https://www.reddit.com/r/Python/comments/tcd3le/add_metadata_tags_to_an_mp3_file_with_python/)
 <!-- BLOG-POST-LIST:END -->
