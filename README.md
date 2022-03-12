@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Better OOP in Python &lpar;no self needed anymore&rpar;](https://www.reddit.com/r/Python/comments/tceagd/better_oop_in_python_no_self_needed_anymore/)
 - [Add metadata tags to an mp3 file WITH PYTHON](https://www.reddit.com/r/Python/comments/tcd3le/add_metadata_tags_to_an_mp3_file_with_python/)
 - [How to manage open file descriptors when forking](https://www.reddit.com/r/Python/comments/tccv5b/how_to_manage_open_file_descriptors_when_forking/)
 - [UltraDict - Python dictionary that uses shared memory as a backend](https://www.reddit.com/r/Python/comments/tccpze/ultradict_python_dictionary_that_uses_shared/)
 - [Question about Vaex](https://www.reddit.com/r/Python/comments/tcccmc/question_about_vaex/)
-- [Video I made using pynput for the mouse](https://www.reddit.com/r/Python/comments/tc9swd/video_i_made_using_pynput_for_the_mouse/)
 <!-- BLOG-POST-LIST:END -->
