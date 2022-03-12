@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python](https://www.reddit.com/r/Python/comments/tcnd8b/python/)
 - [Looking to join someone&#39;s project/idea.](https://www.reddit.com/r/Python/comments/tcmpcn/looking_to_join_someones_projectidea/)
 - [SNK Pixel Art AI Upscale Remaster &lpar;Amazing results&rpar;](https://www.reddit.com/r/Python/comments/tck9k8/snk_pixel_art_ai_upscale_remaster_amazing_results/)
 - [Simple python video to demonstrate stop watch](https://www.reddit.com/r/Python/comments/tcjfjz/simple_python_video_to_demonstrate_stop_watch/)
 - [Functions in Python](https://www.reddit.com/r/Python/comments/tcjeeo/functions_in_python/)
+- [Sorting algorithm visualizer](https://www.reddit.com/r/Python/comments/tcid81/sorting_algorithm_visualizer/)
 <!-- BLOG-POST-LIST:END -->
