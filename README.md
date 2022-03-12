@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple python video to demonstrate stop watch](https://www.reddit.com/r/Python/comments/tcjfjz/simple_python_video_to_demonstrate_stop_watch/)
+- [Functions in Python](https://www.reddit.com/r/Python/comments/tcjeeo/functions_in_python/)
 - [Sorting algorithm visualizer](https://www.reddit.com/r/Python/comments/tcid81/sorting_algorithm_visualizer/)
 - [Python 3.11 Preview: Even Better Error Messages – Real Python](https://www.reddit.com/r/Python/comments/tciab5/python_311_preview_even_better_error_messages/)
 - [Here&#39;s a fun little code for you to try!:](https://www.reddit.com/r/Python/comments/tchdug/heres_a_fun_little_code_for_you_to_try/)
-- [breaking the rules of python with pointers.py](https://www.reddit.com/r/Python/comments/tchczc/breaking_the_rules_of_python_with_pointerspy/)
-- [Masonite Application Deployment using Docker](https://www.reddit.com/r/Python/comments/tch41i/masonite_application_deployment_using_docker/)
 <!-- BLOG-POST-LIST:END -->
