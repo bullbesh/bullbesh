@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Mypy 0.940 Released](https://www.reddit.com/r/Python/comments/tc2v4k/mypy_0940_released/)
-- [My first decent &lpar;ish&rpar; Python Project: Wordle Bot](https://www.reddit.com/r/Python/comments/tc1nzq/my_first_decent_ish_python_project_wordle_bot/)
-- [🎉 Dude 0.9.1 - Choose your own parser backend](https://www.reddit.com/r/Python/comments/tc0tme/dude_091_choose_your_own_parser_backend/)
-- [Generate Various Rotating Cubes](https://www.reddit.com/r/Python/comments/tc06pd/generate_various_rotating_cubes/)
-- [Educational project showing how to open-source a Python App](https://www.reddit.com/r/Python/comments/tbzjuz/educational_project_showing_how_to_opensource_a/)
+- [Ploomber - Quickly write and deploy data pipelines from Jupyter/VSCode/PyCharm](https://www.reddit.com/r/Python/comments/tc4vd7/ploomber_quickly_write_and_deploy_data_pipelines/)
+- [Passing list between two functions](https://www.reddit.com/r/Python/comments/tc4u7a/passing_list_between_two_functions/)
+- [Is there a more pythonic way to &#39;deal cards&#39;?](https://www.reddit.com/r/Python/comments/tc4gpq/is_there_a_more_pythonic_way_to_deal_cards/)
+- [Random Meals](https://www.reddit.com/r/Python/comments/tc3y4k/random_meals/)
+- [dude - A simple framework for writing a web scraper using Python decorators](https://www.reddit.com/r/Python/comments/tc3x72/dude_a_simple_framework_for_writing_a_web_scraper/)
 <!-- BLOG-POST-LIST:END -->
