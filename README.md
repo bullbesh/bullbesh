@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CodeCat static analysis tool](https://www.reddit.com/r/Python/comments/tcy4u0/codecat_static_analysis_tool/)
 - [These Twitter Bots Are Very Helpful To Humanity](https://www.reddit.com/r/Python/comments/tcxspf/these_twitter_bots_are_very_helpful_to_humanity/)
 - [A library for decoding Ethereum blockchain data on Apache Spark](https://www.reddit.com/r/Python/comments/tcxrdj/a_library_for_decoding_ethereum_blockchain_data/)
 - [Casper-FS](https://www.reddit.com/r/Python/comments/tcxexs/casperfs/)
 - [Enable users login with username, phone, or email in Django](https://www.reddit.com/r/Python/comments/tcwz3p/enable_users_login_with_username_phone_or_email/)
-- [Sharing my most recent python project for Package Management](https://www.reddit.com/r/Python/comments/tcw56v/sharing_my_most_recent_python_project_for_package/)
 <!-- BLOG-POST-LIST:END -->
