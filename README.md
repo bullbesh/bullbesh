@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Py Regex](https://www.reddit.com/r/Python/comments/tdaytt/py_regex/)
-- [I made a video tutorial about speeding up slow pandas code. I wish I had known this when I first learned python and pandas.](https://www.reddit.com/r/Python/comments/td9fzp/i_made_a_video_tutorial_about_speeding_up_slow/)
-- [Python Selenium Tutorial #5 - How to bypass/solve normal captcha using 2captcha API](https://www.reddit.com/r/Python/comments/td9fzq/python_selenium_tutorial_5_how_to_bypasssolve/)
-- [Python Live Development: a tool I made for rapid live development](https://www.reddit.com/r/Python/comments/td8u46/python_live_development_a_tool_i_made_for_rapid/)
-- [Python Advices and ideas to Develop](https://www.reddit.com/r/Python/comments/td8km3/python_advices_and_ideas_to_develop/)
+- [Been Coding in Python for 2 years now Decided to build a budgeting application for fun](https://www.reddit.com/r/Python/comments/tddyle/been_coding_in_python_for_2_years_now_decided_to/)
+- [Different types of easing in Python](https://www.reddit.com/r/Python/comments/tddusi/different_types_of_easing_in_python/)
+- [Git-Tab, Live GitHub statistics for Twitch lives!](https://www.reddit.com/r/Python/comments/tddml6/gittab_live_github_statistics_for_twitch_lives/)
+- [I have always been a fan of keyword arguments, but I wrote this article on the benefits of positional arguments.](https://www.reddit.com/r/Python/comments/tdd6tx/i_have_always_been_a_fan_of_keyword_arguments_but/)
+- [Anaconda and Spyder version](https://www.reddit.com/r/Python/comments/tdd0e7/anaconda_and_spyder_version/)
 <!-- BLOG-POST-LIST:END -->
