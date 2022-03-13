@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [These Twitter Bots Are Very Helpful To Humanity](https://www.reddit.com/r/Python/comments/tcxspf/these_twitter_bots_are_very_helpful_to_humanity/)
+- [A library for decoding Ethereum blockchain data on Apache Spark](https://www.reddit.com/r/Python/comments/tcxrdj/a_library_for_decoding_ethereum_blockchain_data/)
+- [Casper-FS](https://www.reddit.com/r/Python/comments/tcxexs/casperfs/)
 - [Enable users login with username, phone, or email in Django](https://www.reddit.com/r/Python/comments/tcwz3p/enable_users_login_with_username_phone_or_email/)
 - [Sharing my most recent python project for Package Management](https://www.reddit.com/r/Python/comments/tcw56v/sharing_my_most_recent_python_project_for_package/)
-- [Can you use webbrowser along with selenium?](https://www.reddit.com/r/Python/comments/tcuz7j/can_you_use_webbrowser_along_with_selenium/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/tcub58/sunday_daily_thread_whats_everyone_working_on/)
-- [Just sharing several of my projects with the community](https://www.reddit.com/r/Python/comments/tcsopn/just_sharing_several_of_my_projects_with_the/)
 <!-- BLOG-POST-LIST:END -->
