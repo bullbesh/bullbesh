@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin Price Desktop Notifier With Python](https://www.reddit.com/r/Python/comments/td92pu/bitcoin_price_desktop_notifier_with_python/)
+- [Python Live Development: a tool I made for rapid live development](https://www.reddit.com/r/Python/comments/td8u46/python_live_development_a_tool_i_made_for_rapid/)
+- [Python Advices and ideas to Develop](https://www.reddit.com/r/Python/comments/td8km3/python_advices_and_ideas_to_develop/)
+- [YouTube Content for Teaching Python](https://www.reddit.com/r/Python/comments/td8495/youtube_content_for_teaching_python/)
 - [GanTTY - Project planning from the terminal](https://www.reddit.com/r/Python/comments/td7unt/gantty_project_planning_from_the_terminal/)
-- [Aggregating Information - The Counter Class in Python](https://www.reddit.com/r/Python/comments/td7i7m/aggregating_information_the_counter_class_in/)
-- [Do you support The #Python Software Foundation making a statement in support of peace?](https://www.reddit.com/r/Python/comments/td6w9j/do_you_support_the_python_software_foundation/)
-- [nutree tree library](https://www.reddit.com/r/Python/comments/td6va8/nutree_tree_library/)
-- [bibcites: insert citations from OpenCitations in BibTeX bibliographies](https://www.reddit.com/r/Python/comments/td5xvq/bibcites_insert_citations_from_opencitations_in/)
 <!-- BLOG-POST-LIST:END -->
