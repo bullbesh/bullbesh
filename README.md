@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made my first program using Tkinter and Classes. It&#39;s a random number generator.](https://www.reddit.com/r/Python/comments/tdj8lk/i_made_my_first_program_using_tkinter_and_classes/)
 - [Python Map and Filter Functions](https://www.reddit.com/r/Python/comments/tdh1fp/python_map_and_filter_functions/)
 - [Why do people use multiple scripts when programming in Python?](https://www.reddit.com/r/Python/comments/tdg3to/why_do_people_use_multiple_scripts_when/)
 - [Fun game snippet: Find closest sprites in line of sight](https://www.reddit.com/r/Python/comments/tdescz/fun_game_snippet_find_closest_sprites_in_line_of/)
 - [Been Coding in Python for 2 years now Decided to build a budgeting application for fun](https://www.reddit.com/r/Python/comments/tddyle/been_coding_in_python_for_2_years_now_decided_to/)
-- [Different types of easing in Python](https://www.reddit.com/r/Python/comments/tddusi/different_types_of_easing_in_python/)
 <!-- BLOG-POST-LIST:END -->
