@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can you use webbrowser along with selenium?](https://www.reddit.com/r/Python/comments/tcuz7j/can_you_use_webbrowser_along_with_selenium/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/tcub58/sunday_daily_thread_whats_everyone_working_on/)
 - [Just sharing several of my projects with the community](https://www.reddit.com/r/Python/comments/tcsopn/just_sharing_several_of_my_projects_with_the/)
 - [Try, Except … Else? - Using The Try Statement&#39;s Else Clause](https://www.reddit.com/r/Python/comments/tcrr2x/try_except_else_using_the_try_statements_else/)
 - [Space Science with Python - ML Project #7: Multiclass SVM](https://www.reddit.com/r/Python/comments/tcqyig/space_science_with_python_ml_project_7_multiclass/)
-- [Looking to join someone&#39;s project/idea.](https://www.reddit.com/r/Python/comments/tcmpcn/looking_to_join_someones_projectidea/)
-- [SNK Pixel Art AI Upscale Remaster &lpar;Amazing results&rpar;](https://www.reddit.com/r/Python/comments/tck9k8/snk_pixel_art_ai_upscale_remaster_amazing_results/)
 <!-- BLOG-POST-LIST:END -->
