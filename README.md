@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Enable users login with username, phone, or email in Django](https://www.reddit.com/r/Python/comments/tcwz3p/enable_users_login_with_username_phone_or_email/)
+- [Sharing my most recent python project for Package Management](https://www.reddit.com/r/Python/comments/tcw56v/sharing_my_most_recent_python_project_for_package/)
 - [Can you use webbrowser along with selenium?](https://www.reddit.com/r/Python/comments/tcuz7j/can_you_use_webbrowser_along_with_selenium/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/tcub58/sunday_daily_thread_whats_everyone_working_on/)
 - [Just sharing several of my projects with the community](https://www.reddit.com/r/Python/comments/tcsopn/just_sharing_several_of_my_projects_with_the/)
-- [Try, Except … Else? - Using The Try Statement&#39;s Else Clause](https://www.reddit.com/r/Python/comments/tcrr2x/try_except_else_using_the_try_statements_else/)
-- [Space Science with Python - ML Project #7: Multiclass SVM](https://www.reddit.com/r/Python/comments/tcqyig/space_science_with_python_ml_project_7_multiclass/)
 <!-- BLOG-POST-LIST:END -->
