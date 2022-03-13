@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [bibcites: insert citations from OpenCitations in BibTeX bibliographies](https://www.reddit.com/r/Python/comments/td5xvq/bibcites_insert_citations_from_opencitations_in/)
+- [I just finished my project on decoding and encoding the rot13 cipher](https://www.reddit.com/r/Python/comments/td5pda/i_just_finished_my_project_on_decoding_and/)
+- [SimpleSQL An SQL Python Module](https://www.reddit.com/r/Python/comments/td5byi/simplesql_an_sql_python_module/)
+- [How to Get Notified When Your Python Script Has Finished Executing](https://www.reddit.com/r/Python/comments/td505i/how_to_get_notified_when_your_python_script_has/)
 - [ORM for beginners | SQLite + sqllex](https://www.reddit.com/r/Python/comments/td41q7/orm_for_beginners_sqlite_sqllex/)
-- [Unravelling Python&#39;s classes](https://www.reddit.com/r/Python/comments/td3p6x/unravelling_pythons_classes/)
-- [NiceScaler 1.2.0 - Image &amp; Video DeepLearning Upscaler](https://www.reddit.com/r/Python/comments/td252o/nicescaler_120_image_video_deeplearning_upscaler/)
-- [Todo List With Python Django &amp; Mongo DB &lpar;Django Hello World | Part-5&rpar;](https://www.reddit.com/r/Python/comments/td0q4f/todo_list_with_python_django_mongo_db_django/)
-- [PSA: there are more strftime formats than just what the python docs allude to](https://www.reddit.com/r/Python/comments/tczsrh/psa_there_are_more_strftime_formats_than_just/)
 <!-- BLOG-POST-LIST:END -->
