@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first Python project: reference finder](https://www.reddit.com/r/Python/comments/tdw4bv/my_first_python_project_reference_finder/)
+- [The Most Efficient Way To Solve Laplace&#39;s Equation &lpar;Electric Potential&rpar; in Python: Using A Sequence of Convolutions. The True Field Between Two Parallel Plates](https://www.reddit.com/r/Python/comments/tdvuyl/the_most_efficient_way_to_solve_laplaces_equation/)
+- [Visualize Recursive Python Functions](https://www.reddit.com/r/Python/comments/tdvu3t/visualize_recursive_python_functions/)
 - [Python Beginner to Advanced Study](https://www.reddit.com/r/Python/comments/tduy3c/python_beginner_to_advanced_study/)
 - [RTSP-Stream Client](https://www.reddit.com/r/Python/comments/tduglm/rtspstream_client/)
-- [made a random Spotify playlist generator](https://www.reddit.com/r/Python/comments/tdsoho/made_a_random_spotify_playlist_generator/)
-- [VS CODE &amp; VS](https://www.reddit.com/r/Python/comments/tdrmjy/vs_code_vs/)
-- [GitHub - ManimCommunity/manim: A community-maintained Python framework for creating mathematical animations.](https://www.reddit.com/r/Python/comments/tdr8so/github_manimcommunitymanim_a_communitymaintained/)
 <!-- BLOG-POST-LIST:END -->
