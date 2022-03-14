@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [made a random Spotify playlist generator](https://www.reddit.com/r/Python/comments/tdsoho/made_a_random_spotify_playlist_generator/)
 - [VS CODE &amp; VS](https://www.reddit.com/r/Python/comments/tdrmjy/vs_code_vs/)
 - [GitHub - ManimCommunity/manim: A community-maintained Python framework for creating mathematical animations.](https://www.reddit.com/r/Python/comments/tdr8so/github_manimcommunitymanim_a_communitymaintained/)
 - [Remote Frontends for Pyside2-based VFX Tooling over QWebSockets](https://www.reddit.com/r/Python/comments/tdo1ef/remote_frontends_for_pyside2based_vfx_tooling/)
 - [Parser made on Python](https://www.reddit.com/r/Python/comments/tdnkm0/parser_made_on_python/)
-- [A Pythonic Chemical Graph Network with tools that help me select potential drug candidates](https://www.reddit.com/r/Python/comments/tdmrrw/a_pythonic_chemical_graph_network_with_tools_that/)
 <!-- BLOG-POST-LIST:END -->
