@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The free weekly Python on Microcontrollers Newsletter](https://www.reddit.com/r/Python/comments/tdybit/the_free_weekly_python_on_microcontrollers/)
+- [[Automated Testing] I just published version 4 of my Screenplay Pattern automated testing framework, ScreenPy!](https://www.reddit.com/r/Python/comments/tdxpgk/automated_testing_i_just_published_version_4_of/)
+- [PYCON Canada?](https://www.reddit.com/r/Python/comments/tdxhnn/pycon_canada/)
 - [Frelatage : A new fuzzer to improve python packages security, and finding bugs in it](https://www.reddit.com/r/Python/comments/tdwxxu/frelatage_a_new_fuzzer_to_improve_python_packages/)
 - [Advanced python exercises](https://www.reddit.com/r/Python/comments/tdwwaq/advanced_python_exercises/)
-- [My first Python project: reference finder](https://www.reddit.com/r/Python/comments/tdw4bv/my_first_python_project_reference_finder/)
-- [The Most Efficient Way To Solve Laplace&#39;s Equation &lpar;Electric Potential&rpar; in Python: Using A Sequence of Convolutions. The True Field Between Two Parallel Plates](https://www.reddit.com/r/Python/comments/tdvuyl/the_most_efficient_way_to_solve_laplaces_equation/)
-- [Visualize Recursive Python Functions](https://www.reddit.com/r/Python/comments/tdvu3t/visualize_recursive_python_functions/)
 <!-- BLOG-POST-LIST:END -->
