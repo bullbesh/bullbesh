@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reverse c parser in cython .so](https://www.reddit.com/r/Python/comments/te1dl0/reverse_c_parser_in_cython_so/)
+- [Is doing ETL work by myself really that hard?](https://www.reddit.com/r/Python/comments/te0jc5/is_doing_etl_work_by_myself_really_that_hard/)
+- [When you have years of Python experience but you start to doubt the fabric of reality](https://www.reddit.com/r/Python/comments/tdzyxs/when_you_have_years_of_python_experience_but_you/)
 - [The free weekly Python on Microcontrollers Newsletter](https://www.reddit.com/r/Python/comments/tdybit/the_free_weekly_python_on_microcontrollers/)
 - [[Automated Testing] I just published version 4 of my Screenplay Pattern automated testing framework, ScreenPy!](https://www.reddit.com/r/Python/comments/tdxpgk/automated_testing_i_just_published_version_4_of/)
-- [PYCON Canada?](https://www.reddit.com/r/Python/comments/tdxhnn/pycon_canada/)
-- [Frelatage : A new fuzzer to improve python packages security, and finding bugs in it](https://www.reddit.com/r/Python/comments/tdwxxu/frelatage_a_new_fuzzer_to_improve_python_packages/)
-- [Advanced python exercises](https://www.reddit.com/r/Python/comments/tdwwaq/advanced_python_exercises/)
 <!-- BLOG-POST-LIST:END -->
