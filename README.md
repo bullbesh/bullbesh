@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Software Engineering and Programming Trends 2022](https://www.reddit.com/r/Python/comments/te3psq/software_engineering_and_programming_trends_2022/)
+- [Where&#39;s Waldo?](https://www.reddit.com/r/Python/comments/te3g5t/wheres_waldo/)
+- [I can&#39;t listen to music while coding. Way too distracting. I need something like this.](https://www.reddit.com/r/Python/comments/te30rs/i_cant_listen_to_music_while_coding_way_too/)
+- [5 Up-And-Coming Python YouTube Channels You Should Watch](https://www.reddit.com/r/Python/comments/te2t4d/5_upandcoming_python_youtube_channels_you_should/)
 - [Principal of JPEG compression - Compare original signal and reconstructed signal with 20 coefficients of Discrete Cosine Transform in Python](https://www.reddit.com/r/Python/comments/te2mwn/principal_of_jpeg_compression_compare_original/)
-- [Reverse c parser in cython .so](https://www.reddit.com/r/Python/comments/te1dl0/reverse_c_parser_in_cython_so/)
-- [Is doing ETL work by myself really that hard?](https://www.reddit.com/r/Python/comments/te0jc5/is_doing_etl_work_by_myself_really_that_hard/)
-- [When you have years of Python experience but you start to doubt the fabric of reality](https://www.reddit.com/r/Python/comments/tdzyxs/when_you_have_years_of_python_experience_but_you/)
-- [The free weekly Python on Microcontrollers Newsletter](https://www.reddit.com/r/Python/comments/tdybit/the_free_weekly_python_on_microcontrollers/)
 <!-- BLOG-POST-LIST:END -->
