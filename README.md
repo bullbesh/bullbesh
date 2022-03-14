@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Frelatage : A new fuzzer to improve python packages security, and finding bugs in it](https://www.reddit.com/r/Python/comments/tdwxxu/frelatage_a_new_fuzzer_to_improve_python_packages/)
+- [Advanced python exercises](https://www.reddit.com/r/Python/comments/tdwwaq/advanced_python_exercises/)
 - [My first Python project: reference finder](https://www.reddit.com/r/Python/comments/tdw4bv/my_first_python_project_reference_finder/)
 - [The Most Efficient Way To Solve Laplace&#39;s Equation &lpar;Electric Potential&rpar; in Python: Using A Sequence of Convolutions. The True Field Between Two Parallel Plates](https://www.reddit.com/r/Python/comments/tdvuyl/the_most_efficient_way_to_solve_laplaces_equation/)
 - [Visualize Recursive Python Functions](https://www.reddit.com/r/Python/comments/tdvu3t/visualize_recursive_python_functions/)
-- [Python Beginner to Advanced Study](https://www.reddit.com/r/Python/comments/tduy3c/python_beginner_to_advanced_study/)
-- [RTSP-Stream Client](https://www.reddit.com/r/Python/comments/tduglm/rtspstream_client/)
 <!-- BLOG-POST-LIST:END -->
