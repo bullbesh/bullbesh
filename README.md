@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just released 70 Python exercises including numpy, pandas, matplotlib, pytorch, pytest, and scipy](https://www.reddit.com/r/Python/comments/tdn3m5/i_just_released_70_python_exercises_including/)
+- [A Pythonic Chemical Graph Network with tools that help me select potential drug candidates](https://www.reddit.com/r/Python/comments/tdmrrw/a_pythonic_chemical_graph_network_with_tools_that/)
 - [DIY WiFi RGB Floor Lamp using MicroPython](https://www.reddit.com/r/Python/comments/tdkmrm/diy_wifi_rgb_floor_lamp_using_micropython/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/tdk5qa/monday_daily_thread_project_ideas/)
 - [I made my first program using Tkinter and Classes. It&#39;s a random number generator.](https://www.reddit.com/r/Python/comments/tdj8lk/i_made_my_first_program_using_tkinter_and_classes/)
-- [Python Map and Filter Functions](https://www.reddit.com/r/Python/comments/tdh1fp/python_map_and_filter_functions/)
-- [Why do people use multiple scripts when programming in Python?](https://www.reddit.com/r/Python/comments/tdg3to/why_do_people_use_multiple_scripts_when/)
 <!-- BLOG-POST-LIST:END -->
