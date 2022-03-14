@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [challenge:](https://www.reddit.com/r/Python/comments/te5iv3/challenge/)
 - [Software Engineering and Programming Trends 2022](https://www.reddit.com/r/Python/comments/te3psq/software_engineering_and_programming_trends_2022/)
 - [Where&#39;s Waldo?](https://www.reddit.com/r/Python/comments/te3g5t/wheres_waldo/)
-- [I can&#39;t listen to music while coding. Way too distracting. I need something like this.](https://www.reddit.com/r/Python/comments/te30rs/i_cant_listen_to_music_while_coding_way_too/)
-- [5 Up-And-Coming Python YouTube Channels You Should Watch](https://www.reddit.com/r/Python/comments/te2t4d/5_upandcoming_python_youtube_channels_you_should/)
 - [Principal of JPEG compression - Compare original signal and reconstructed signal with 20 coefficients of Discrete Cosine Transform in Python](https://www.reddit.com/r/Python/comments/te2mwn/principal_of_jpeg_compression_compare_original/)
+- [Is doing ETL work by myself really that hard?](https://www.reddit.com/r/Python/comments/te0jc5/is_doing_etl_work_by_myself_really_that_hard/)
 <!-- BLOG-POST-LIST:END -->
