@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [VS CODE &amp; VS](https://www.reddit.com/r/Python/comments/tdrmjy/vs_code_vs/)
+- [GitHub - ManimCommunity/manim: A community-maintained Python framework for creating mathematical animations.](https://www.reddit.com/r/Python/comments/tdr8so/github_manimcommunitymanim_a_communitymaintained/)
 - [Remote Frontends for Pyside2-based VFX Tooling over QWebSockets](https://www.reddit.com/r/Python/comments/tdo1ef/remote_frontends_for_pyside2based_vfx_tooling/)
 - [Parser made on Python](https://www.reddit.com/r/Python/comments/tdnkm0/parser_made_on_python/)
 - [A Pythonic Chemical Graph Network with tools that help me select potential drug candidates](https://www.reddit.com/r/Python/comments/tdmrrw/a_pythonic_chemical_graph_network_with_tools_that/)
-- [DIY WiFi RGB Floor Lamp using MicroPython](https://www.reddit.com/r/Python/comments/tdkmrm/diy_wifi_rgb_floor_lamp_using_micropython/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/tdk5qa/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
