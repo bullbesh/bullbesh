@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Remote Frontends for Pyside2-based VFX Tooling over QWebSockets](https://www.reddit.com/r/Python/comments/tdo1ef/remote_frontends_for_pyside2based_vfx_tooling/)
 - [Parser made on Python](https://www.reddit.com/r/Python/comments/tdnkm0/parser_made_on_python/)
-- [I just released 70 Python exercises including numpy, pandas, matplotlib, pytorch, pytest, and scipy](https://www.reddit.com/r/Python/comments/tdn3m5/i_just_released_70_python_exercises_including/)
 - [A Pythonic Chemical Graph Network with tools that help me select potential drug candidates](https://www.reddit.com/r/Python/comments/tdmrrw/a_pythonic_chemical_graph_network_with_tools_that/)
 - [DIY WiFi RGB Floor Lamp using MicroPython](https://www.reddit.com/r/Python/comments/tdkmrm/diy_wifi_rgb_floor_lamp_using_micropython/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/tdk5qa/monday_daily_thread_project_ideas/)
