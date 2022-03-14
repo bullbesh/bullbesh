@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Principal of JPEG compression - Compare original signal and reconstructed signal with 20 coefficients of Discrete Cosine Transform in Python](https://www.reddit.com/r/Python/comments/te2mwn/principal_of_jpeg_compression_compare_original/)
 - [Reverse c parser in cython .so](https://www.reddit.com/r/Python/comments/te1dl0/reverse_c_parser_in_cython_so/)
 - [Is doing ETL work by myself really that hard?](https://www.reddit.com/r/Python/comments/te0jc5/is_doing_etl_work_by_myself_really_that_hard/)
 - [When you have years of Python experience but you start to doubt the fabric of reality](https://www.reddit.com/r/Python/comments/tdzyxs/when_you_have_years_of_python_experience_but_you/)
 - [The free weekly Python on Microcontrollers Newsletter](https://www.reddit.com/r/Python/comments/tdybit/the_free_weekly_python_on_microcontrollers/)
-- [[Automated Testing] I just published version 4 of my Screenplay Pattern automated testing framework, ScreenPy!](https://www.reddit.com/r/Python/comments/tdxpgk/automated_testing_i_just_published_version_4_of/)
 <!-- BLOG-POST-LIST:END -->
