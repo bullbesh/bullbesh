@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to testing with Python for beginners](https://www.reddit.com/r/Python/comments/te7woh/introduction_to_testing_with_python_for_beginners/)
 - [PyWeek 33 Game Jam](https://www.reddit.com/r/Python/comments/te5xnn/pyweek_33_game_jam/)
 - [challenge:](https://www.reddit.com/r/Python/comments/te5iv3/challenge/)
 - [Software Engineering and Programming Trends 2022](https://www.reddit.com/r/Python/comments/te3psq/software_engineering_and_programming_trends_2022/)
 - [Where&#39;s Waldo?](https://www.reddit.com/r/Python/comments/te3g5t/wheres_waldo/)
-- [Principal of JPEG compression - Compare original signal and reconstructed signal with 20 coefficients of Discrete Cosine Transform in Python](https://www.reddit.com/r/Python/comments/te2mwn/principal_of_jpeg_compression_compare_original/)
 <!-- BLOG-POST-LIST:END -->
