@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fibonacci Series - For Loop - Stuck, please help](https://www.reddit.com/r/Python/comments/teklj8/fibonacci_series_for_loop_stuck_please_help/)
+- [Make Python code 1000x Faster with Numba](https://www.reddit.com/r/Python/comments/tekjj0/make_python_code_1000x_faster_with_numba/)
 - [Ultimate CI Pipeline for All of Your Python Projects](https://www.reddit.com/r/Python/comments/tejzhy/ultimate_ci_pipeline_for_all_of_your_python/)
 - [Simple application monitoring for Django](https://www.reddit.com/r/Python/comments/tejuh0/simple_application_monitoring_for_django/)
 - [Joke-script for coffee lover](https://www.reddit.com/r/Python/comments/teiva5/jokescript_for_coffee_lover/)
-- [ez-timer: a Simple Elegant Python Timing API](https://www.reddit.com/r/Python/comments/teis2z/eztimer_a_simple_elegant_python_timing_api/)
-- [mlbcal - download your favorite team&#39;s game schedule](https://www.reddit.com/r/Python/comments/tehaf2/mlbcal_download_your_favorite_teams_game_schedule/)
 <!-- BLOG-POST-LIST:END -->
