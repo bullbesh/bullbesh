@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Joke-script for coffee lover](https://www.reddit.com/r/Python/comments/teiva5/jokescript_for_coffee_lover/)
+- [ez-timer: a Simple Elegant Python Timing API](https://www.reddit.com/r/Python/comments/teis2z/eztimer_a_simple_elegant_python_timing_api/)
 - [mlbcal - download your favorite team&#39;s game schedule](https://www.reddit.com/r/Python/comments/tehaf2/mlbcal_download_your_favorite_teams_game_schedule/)
 - [Python removes ‘dead batteries’ from standard library [PEP 594]](https://www.reddit.com/r/Python/comments/teg3kw/python_removes_dead_batteries_from_standard/)
 - [where to start with an app?](https://www.reddit.com/r/Python/comments/tefooi/where_to_start_with_an_app/)
-- [What function, method keyword .. do you hate the Most ??](https://www.reddit.com/r/Python/comments/tedn4n/what_function_method_keyword_do_you_hate_the_most/)
-- [Can i make an android lan sharing app with &quot;NO INTERNET USAGE using python only? &lpar;Shareit alternative&rpar;](https://www.reddit.com/r/Python/comments/tec3ai/can_i_make_an_android_lan_sharing_app_with_no/)
 <!-- BLOG-POST-LIST:END -->
