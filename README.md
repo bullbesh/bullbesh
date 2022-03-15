@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is that a legit loop?](https://www.reddit.com/r/Python/comments/teu2y8/is_that_a_legit_loop/)
+- [Introducing Typesplainer: a python type-hint explainer](https://www.reddit.com/r/Python/comments/tevyc4/introducing_typesplainer_a_python_typehint/)
 - [Demystifying Apache Arrow: what is it and when should you use it?](https://www.reddit.com/r/Python/comments/tettmu/demystifying_apache_arrow_what_is_it_and_when/)
 - [How to go back to a previous line](https://www.reddit.com/r/Python/comments/tesmrz/how_to_go_back_to_a_previous_line/)
 - [The Boilerplate for Logging in Python](https://www.reddit.com/r/Python/comments/terbh0/the_boilerplate_for_logging_in_python/)
