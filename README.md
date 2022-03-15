@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Boilerplate for Logging in Python](https://www.reddit.com/r/Python/comments/terbh0/the_boilerplate_for_logging_in_python/)
+- [Python vs SQL for Data Analysis: comparing performance, functionality and dev XP](https://www.reddit.com/r/Python/comments/tequ97/python_vs_sql_for_data_analysis_comparing/)
+- [Use Python to Transcribe an Audio File in an S3 Bucket in 3 Steps](https://www.reddit.com/r/Python/comments/teqkc2/use_python_to_transcribe_an_audio_file_in_an_s3/)
 - [Processing large JSON files in Python without running out memory](https://www.reddit.com/r/Python/comments/tepn58/processing_large_json_files_in_python_without/)
 - [Python Class Constructors: Control Your Object Instantiation – Real Python](https://www.reddit.com/r/Python/comments/teozl2/python_class_constructors_control_your_object/)
-- [FastAPI Microservices Full Course](https://www.reddit.com/r/Python/comments/teoifk/fastapi_microservices_full_course/)
-- [Automatically Generate Type information from BigQuery schema](https://www.reddit.com/r/Python/comments/tenqn0/automatically_generate_type_information_from/)
-- [How To By-Pass Cloudflare While Scraping?](https://www.reddit.com/r/Python/comments/tenmn8/how_to_bypass_cloudflare_while_scraping/)
 <!-- BLOG-POST-LIST:END -->
