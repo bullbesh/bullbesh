@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI Microservices Full Course](https://www.reddit.com/r/Python/comments/teoifk/fastapi_microservices_full_course/)
 - [Automatically Generate Type information from BigQuery schema](https://www.reddit.com/r/Python/comments/tenqn0/automatically_generate_type_information_from/)
 - [How To By-Pass Cloudflare While Scraping?](https://www.reddit.com/r/Python/comments/tenmn8/how_to_bypass_cloudflare_while_scraping/)
 - [Code Puzzle - Parsons problems](https://www.reddit.com/r/Python/comments/tenkqu/code_puzzle_parsons_problems/)
 - [no output](https://www.reddit.com/r/Python/comments/tena1w/no_output/)
-- [Python/testcontainers](https://www.reddit.com/r/Python/comments/temuzv/pythontestcontainers/)
 <!-- BLOG-POST-LIST:END -->
