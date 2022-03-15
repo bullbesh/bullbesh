@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The deno/rust/dotnet/etc experience in python](https://www.reddit.com/r/Python/comments/telnsd/the_denorustdotnetetc_experience_in_python/)
+- [How long does it take for you to get ready to develop a good Python library?](https://www.reddit.com/r/Python/comments/telkar/how_long_does_it_take_for_you_to_get_ready_to/)
+- [AGILE is finally released!](https://www.reddit.com/r/Python/comments/teljo6/agile_is_finally_released/)
+- [CSV file with 0 row and only columns](https://www.reddit.com/r/Python/comments/tekzsa/csv_file_with_0_row_and_only_columns/)
 - [Fibonacci Series - For Loop - Stuck, please help](https://www.reddit.com/r/Python/comments/teklj8/fibonacci_series_for_loop_stuck_please_help/)
-- [Make Python code 1000x Faster with Numba](https://www.reddit.com/r/Python/comments/tekjj0/make_python_code_1000x_faster_with_numba/)
-- [Ultimate CI Pipeline for All of Your Python Projects](https://www.reddit.com/r/Python/comments/tejzhy/ultimate_ci_pipeline_for_all_of_your_python/)
-- [Simple application monitoring for Django](https://www.reddit.com/r/Python/comments/tejuh0/simple_application_monitoring_for_django/)
-- [Joke-script for coffee lover](https://www.reddit.com/r/Python/comments/teiva5/jokescript_for_coffee_lover/)
 <!-- BLOG-POST-LIST:END -->
