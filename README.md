@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [New Pandas Practice Questions](https://www.reddit.com/r/Python/comments/temmzm/new_pandas_practice_questions/)
-- [Reindexing in Python Pandas-InsideAIML](https://www.reddit.com/r/Python/comments/telu36/reindexing_in_python_pandasinsideaiml/)
-- [The deno/rust/dotnet/etc experience in python](https://www.reddit.com/r/Python/comments/telnsd/the_denorustdotnetetc_experience_in_python/)
-- [How long does it take for you to get ready to develop a good Python library?](https://www.reddit.com/r/Python/comments/telkar/how_long_does_it_take_for_you_to_get_ready_to/)
-- [AGILE is finally released!](https://www.reddit.com/r/Python/comments/teljo6/agile_is_finally_released/)
+- [Automatically Generate Type information from BigQuery schema](https://www.reddit.com/r/Python/comments/tenqn0/automatically_generate_type_information_from/)
+- [How To By-Pass Cloudflare While Scraping?](https://www.reddit.com/r/Python/comments/tenmn8/how_to_bypass_cloudflare_while_scraping/)
+- [Code Puzzle - Parsons problems](https://www.reddit.com/r/Python/comments/tenkqu/code_puzzle_parsons_problems/)
+- [no output](https://www.reddit.com/r/Python/comments/tena1w/no_output/)
+- [Python/testcontainers](https://www.reddit.com/r/Python/comments/temuzv/pythontestcontainers/)
 <!-- BLOG-POST-LIST:END -->
