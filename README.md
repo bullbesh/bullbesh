@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Composer: a new PyTorch library to train models ~2-4x faster with better algorithms](https://www.reddit.com/r/Python/comments/tfoebv/composer_a_new_pytorch_library_to_train_models/)
+- [Tool detection using phone and Machine Learning](https://www.reddit.com/r/Python/comments/tfny9g/tool_detection_using_phone_and_machine_learning/)
+- [I fixed python traceback real quick](https://www.reddit.com/r/Python/comments/tfnswk/i_fixed_python_traceback_real_quick/)
 - [Scrape Google Books in Python](https://www.reddit.com/r/Python/comments/tfm16q/scrape_google_books_in_python/)
 - [OpenTelemetry and Distributed Tracing in Python - Introduction](https://www.reddit.com/r/Python/comments/tflm99/opentelemetry_and_distributed_tracing_in_python/)
-- [Add jemalloc to your Python Docker images](https://www.reddit.com/r/Python/comments/tflf1p/add_jemalloc_to_your_python_docker_images/)
-- [What&#39;s your favorite module/library/package?](https://www.reddit.com/r/Python/comments/tfkh8z/whats_your_favorite_modulelibrarypackage/)
-- [Writing production grade pandas with hamilton!](https://www.reddit.com/r/Python/comments/tfkahz/writing_production_grade_pandas_with_hamilton/)
 <!-- BLOG-POST-LIST:END -->
