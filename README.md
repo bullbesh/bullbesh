@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What to do next ?](https://www.reddit.com/r/Python/comments/tfjy51/what_to_do_next/)
-- [First time I used python](https://www.reddit.com/r/Python/comments/tfiry5/first_time_i_used_python/)
-- [OPToggles - a feature flag Open Source project](https://www.reddit.com/r/Python/comments/tfil3b/optoggles_a_feature_flag_open_source_project/)
-- [Using Python to completely recreate Yahtzee!](https://www.reddit.com/r/Python/comments/tfi9nf/using_python_to_completely_recreate_yahtzee/)
-- [How do you really share constants across your project in a Pythonic way?](https://www.reddit.com/r/Python/comments/tfhvue/how_do_you_really_share_constants_across_your/)
+- [Scrape Google Books in Python](https://www.reddit.com/r/Python/comments/tfm16q/scrape_google_books_in_python/)
+- [OpenTelemetry and Distributed Tracing in Python - Introduction](https://www.reddit.com/r/Python/comments/tflm99/opentelemetry_and_distributed_tracing_in_python/)
+- [Add jemalloc to your Python Docker images](https://www.reddit.com/r/Python/comments/tflf1p/add_jemalloc_to_your_python_docker_images/)
+- [What&#39;s your favorite module/library/package?](https://www.reddit.com/r/Python/comments/tfkh8z/whats_your_favorite_modulelibrarypackage/)
+- [Writing production grade pandas with hamilton!](https://www.reddit.com/r/Python/comments/tfkahz/writing_production_grade_pandas_with_hamilton/)
 <!-- BLOG-POST-LIST:END -->
