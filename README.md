@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What python skill should I learn to start freelancing?](https://www.reddit.com/r/Python/comments/tf6mkq/what_python_skill_should_i_learn_to_start/)
 - [Tool to get path to JSON in python format](https://www.reddit.com/r/Python/comments/tf6b85/tool_to_get_path_to_json_in_python_format/)
-- [build converter in python](https://www.reddit.com/r/Python/comments/tf5j4r/build_converter_in_python/)
-- [Need a Python and JavaScript Developer](https://www.reddit.com/r/Python/comments/tf5c62/need_a_python_and_javascript_developer/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/tf45nb/wednesday_daily_thread_beginner_questions/)
+- [Approximate Pi with 7 lines of code &lpar;arctangent series&rpar;](https://www.reddit.com/r/Python/comments/tf2yrl/approximate_pi_with_7_lines_of_code_arctangent/)
+- [Article: Build a webhook in Python to interact with GitLab.](https://www.reddit.com/r/Python/comments/tf1c39/article_build_a_webhook_in_python_to_interact/)
+- [Which is more Pythonic?](https://www.reddit.com/r/Python/comments/tezqe5/which_is_more_pythonic/)
 <!-- BLOG-POST-LIST:END -->
