@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [High profile web scrapping project](https://www.reddit.com/r/Python/comments/tfh9ns/high_profile_web_scrapping_project/)
+- [Need Suggestions for an Image to Text API](https://www.reddit.com/r/Python/comments/tfh95o/need_suggestions_for_an_image_to_text_api/)
+- [Import of modules is slowing down executable. Can it be imported locally or what can be done differently ?](https://www.reddit.com/r/Python/comments/tfh1l5/import_of_modules_is_slowing_down_executable_can/)
 - [Stylistic choice of validation functions](https://www.reddit.com/r/Python/comments/tfgida/stylistic_choice_of_validation_functions/)
 - [what to do after practice python. org?](https://www.reddit.com/r/Python/comments/tfflsy/what_to_do_after_practice_python_org/)
-- [Create a hello world app using django](https://www.reddit.com/r/Python/comments/tffh4r/create_a_hello_world_app_using_django/)
-- [My first ever Python Project!! I named it tagSearch](https://www.reddit.com/r/Python/comments/tff544/my_first_ever_python_project_i_named_it_tagsearch/)
-- [Python variables - help on this time/date question please](https://www.reddit.com/r/Python/comments/tfecod/python_variables_help_on_this_timedate_question/)
 <!-- BLOG-POST-LIST:END -->
