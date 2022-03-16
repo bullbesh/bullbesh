@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Approach H2kinfosys to Learn Python Course Effectively](https://www.reddit.com/r/Python/comments/tfbsr5/approach_h2kinfosys_to_learn_python_course/)
+- [Will Python ever achieve a speed compared to C/C++?](https://www.reddit.com/r/Python/comments/tfbpel/will_python_ever_achieve_a_speed_compared_to_cc/)
+- [macOS 12.3 finally deletes its own Python 2, which even die-hard Python fans applaud](https://www.reddit.com/r/Python/comments/tfbgoe/macos_123_finally_deletes_its_own_python_2_which/)
 - [Tool to get path to JSON in python format](https://www.reddit.com/r/Python/comments/tf6b85/tool_to_get_path_to_json_in_python_format/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/tf45nb/wednesday_daily_thread_beginner_questions/)
-- [Approximate Pi with 7 lines of code &lpar;arctangent series&rpar;](https://www.reddit.com/r/Python/comments/tf2yrl/approximate_pi_with_7_lines_of_code_arctangent/)
-- [Article: Build a webhook in Python to interact with GitLab.](https://www.reddit.com/r/Python/comments/tf1c39/article_build_a_webhook_in_python_to_interact/)
-- [Which is more Pythonic?](https://www.reddit.com/r/Python/comments/tezqe5/which_is_more_pythonic/)
 <!-- BLOG-POST-LIST:END -->
