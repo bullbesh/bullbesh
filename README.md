@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OPToggles - a feature flag Open Source project](https://www.reddit.com/r/Python/comments/tfil3b/optoggles_a_feature_flag_open_source_project/)
+- [Using Python to completely recreate Yahtzee!](https://www.reddit.com/r/Python/comments/tfi9nf/using_python_to_completely_recreate_yahtzee/)
+- [How do you really share constants across your project in a Pythonic way?](https://www.reddit.com/r/Python/comments/tfhvue/how_do_you_really_share_constants_across_your/)
 - [High profile web scrapping project](https://www.reddit.com/r/Python/comments/tfh9ns/high_profile_web_scrapping_project/)
 - [Need Suggestions for an Image to Text API](https://www.reddit.com/r/Python/comments/tfh95o/need_suggestions_for_an_image_to_text_api/)
-- [Import of modules is slowing down executable. Can it be imported locally or what can be done differently ?](https://www.reddit.com/r/Python/comments/tfh1l5/import_of_modules_is_slowing_down_executable_can/)
-- [Stylistic choice of validation functions](https://www.reddit.com/r/Python/comments/tfgida/stylistic_choice_of_validation_functions/)
-- [what to do after practice python. org?](https://www.reddit.com/r/Python/comments/tfflsy/what_to_do_after_practice_python_org/)
 <!-- BLOG-POST-LIST:END -->
