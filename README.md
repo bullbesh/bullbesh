@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first ever Python Project!! I named it tagSearch](https://www.reddit.com/r/Python/comments/tff544/my_first_ever_python_project_i_named_it_tagsearch/)
 - [Python variables - help on this time/date question please](https://www.reddit.com/r/Python/comments/tfecod/python_variables_help_on_this_timedate_question/)
-- [Python noob here](https://www.reddit.com/r/Python/comments/tfdyxe/python_noob_here/)
 - [created a small utility to automatically activate Poetry virtualenvs when changing directories](https://www.reddit.com/r/Python/comments/tfdemi/created_a_small_utility_to_automatically_activate/)
 - [GitHub - jamalex/notion-py: Unofficial Python API client for Notion.so](https://www.reddit.com/r/Python/comments/tfcksk/github_jamalexnotionpy_unofficial_python_api/)
 - [Which logic for if-else inside a function is better or more pythonic?](https://www.reddit.com/r/Python/comments/tfbvh6/which_logic_for_ifelse_inside_a_function_is/)
