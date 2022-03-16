@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [First time to work in python](https://www.reddit.com/r/Python/comments/tfrqfi/first_time_to_work_in_python/)
 - [Composer: a new PyTorch library to train models ~2-4x faster with better algorithms](https://www.reddit.com/r/Python/comments/tfoebv/composer_a_new_pytorch_library_to_train_models/)
 - [Tool detection using phone and Machine Learning](https://www.reddit.com/r/Python/comments/tfny9g/tool_detection_using_phone_and_machine_learning/)
 - [I fixed python traceback real quick](https://www.reddit.com/r/Python/comments/tfnswk/i_fixed_python_traceback_real_quick/)
 - [Scrape Google Books in Python](https://www.reddit.com/r/Python/comments/tfm16q/scrape_google_books_in_python/)
-- [OpenTelemetry and Distributed Tracing in Python - Introduction](https://www.reddit.com/r/Python/comments/tflm99/opentelemetry_and_distributed_tracing_in_python/)
 <!-- BLOG-POST-LIST:END -->
