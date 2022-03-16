@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What to do next ?](https://www.reddit.com/r/Python/comments/tfjy51/what_to_do_next/)
+- [First time I used python](https://www.reddit.com/r/Python/comments/tfiry5/first_time_i_used_python/)
 - [OPToggles - a feature flag Open Source project](https://www.reddit.com/r/Python/comments/tfil3b/optoggles_a_feature_flag_open_source_project/)
 - [Using Python to completely recreate Yahtzee!](https://www.reddit.com/r/Python/comments/tfi9nf/using_python_to_completely_recreate_yahtzee/)
 - [How do you really share constants across your project in a Pythonic way?](https://www.reddit.com/r/Python/comments/tfhvue/how_do_you_really_share_constants_across_your/)
-- [High profile web scrapping project](https://www.reddit.com/r/Python/comments/tfh9ns/high_profile_web_scrapping_project/)
-- [Need Suggestions for an Image to Text API](https://www.reddit.com/r/Python/comments/tfh95o/need_suggestions_for_an_image_to_text_api/)
 <!-- BLOG-POST-LIST:END -->
