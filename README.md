@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [created a small utility to automatically activate Poetry virtualenvs when changing directories](https://www.reddit.com/r/Python/comments/tfdemi/created_a_small_utility_to_automatically_activate/)
 - [GitHub - jamalex/notion-py: Unofficial Python API client for Notion.so](https://www.reddit.com/r/Python/comments/tfcksk/github_jamalexnotionpy_unofficial_python_api/)
 - [Which logic for if-else inside a function is better or more pythonic?](https://www.reddit.com/r/Python/comments/tfbvh6/which_logic_for_ifelse_inside_a_function_is/)
 - [Approach H2kinfosys to Learn Python Course Effectively](https://www.reddit.com/r/Python/comments/tfbsr5/approach_h2kinfosys_to_learn_python_course/)
 - [macOS 12.3 finally deletes its own Python 2, which even die-hard Python fans applaud](https://www.reddit.com/r/Python/comments/tfbgoe/macos_123_finally_deletes_its_own_python_2_which/)
-- [Tool to get path to JSON in python format](https://www.reddit.com/r/Python/comments/tf6b85/tool_to_get_path_to_json_in_python_format/)
 <!-- BLOG-POST-LIST:END -->
