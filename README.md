@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A quick question about for loop for list that contains tuples](https://www.reddit.com/r/Python/comments/tgeje7/a_quick_question_about_for_loop_for_list_that/)
+- [Bookmarking Application &lpar;sqlite, tkinter, bcrypt&rpar;](https://www.reddit.com/r/Python/comments/tgedn8/bookmarking_application_sqlite_tkinter_bcrypt/)
+- [Package for printing text with RGB colors in the console](https://www.reddit.com/r/Python/comments/tge96v/package_for_printing_text_with_rgb_colors_in_the/)
 - [Is programming easy or am I doing things wrong?](https://www.reddit.com/r/Python/comments/tgcpur/is_programming_easy_or_am_i_doing_things_wrong/)
 - [A template engine I did...](https://www.reddit.com/r/Python/comments/tgcopq/a_template_engine_i_did/)
-- [Frelatage: A fuzzing library to find vulnerabilities and bugs in Python applications](https://www.reddit.com/r/Python/comments/tgce3v/frelatage_a_fuzzing_library_to_find/)
-- [Announcing compushady: a Python module for easily running Compute Shaders](https://www.reddit.com/r/Python/comments/tgc6l4/announcing_compushady_a_python_module_for_easily/)
-- [Can i call this in python and use it to login on an app i make](https://www.reddit.com/r/Python/comments/tg8p37/can_i_call_this_in_python_and_use_it_to_login_on/)
 <!-- BLOG-POST-LIST:END -->
