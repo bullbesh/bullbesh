@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is programming easy or am I doing things wrong?](https://www.reddit.com/r/Python/comments/tgcpur/is_programming_easy_or_am_i_doing_things_wrong/)
+- [A template engine I did...](https://www.reddit.com/r/Python/comments/tgcopq/a_template_engine_i_did/)
+- [Frelatage: A fuzzing library to find vulnerabilities and bugs in Python applications](https://www.reddit.com/r/Python/comments/tgce3v/frelatage_a_fuzzing_library_to_find/)
+- [Announcing compushady: a Python module for easily running Compute Shaders](https://www.reddit.com/r/Python/comments/tgc6l4/announcing_compushady_a_python_module_for_easily/)
 - [Can i call this in python and use it to login on an app i make](https://www.reddit.com/r/Python/comments/tg8p37/can_i_call_this_in_python_and_use_it_to_login_on/)
-- [Roles and Permissions in Masonite](https://www.reddit.com/r/Python/comments/tg88hq/roles_and_permissions_in_masonite/)
-- [Online Python environment for middle school students &lpar;Chromebooks&rpar;](https://www.reddit.com/r/Python/comments/tg86m4/online_python_environment_for_middle_school/)
-- [how can i take a value from a path in a command?](https://www.reddit.com/r/Python/comments/tg77k2/how_can_i_take_a_value_from_a_path_in_a_command/)
-- [High-level tools to simplify visualization in Python](https://www.reddit.com/r/Python/comments/tg4r7y/highlevel_tools_to_simplify_visualization_in/)
 <!-- BLOG-POST-LIST:END -->
