@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Arcade 2.6.11 has been released](https://www.reddit.com/r/Python/comments/tghjn8/arcade_2611_has_been_released/)
 - [I&#39;m an amateur Python programmer, what&#39;s my next step?](https://www.reddit.com/r/Python/comments/tggmnl/im_an_amateur_python_programmer_whats_my_next_step/)
 - [Beginner question](https://www.reddit.com/r/Python/comments/tgg3pa/beginner_question/)
 - [A quick question about for loop for list that contains tuples](https://www.reddit.com/r/Python/comments/tgeje7/a_quick_question_about_for_loop_for_list_that/)
 - [Bookmarking Application &lpar;sqlite, tkinter, bcrypt&rpar;](https://www.reddit.com/r/Python/comments/tgedn8/bookmarking_application_sqlite_tkinter_bcrypt/)
-- [Package for printing text with RGB colors in the console](https://www.reddit.com/r/Python/comments/tge96v/package_for_printing_text_with_rgb_colors_in_the/)
 <!-- BLOG-POST-LIST:END -->
