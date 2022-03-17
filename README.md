@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [When should I start pygame?](https://www.reddit.com/r/Python/comments/tg1neq/when_should_i_start_pygame/)
 - [End to end encrypted pastebin built with Starlette &lpar;as the file server.&rpar;](https://www.reddit.com/r/Python/comments/tfzdes/end_to_end_encrypted_pastebin_built_with/)
 - [Trouble scrapping website](https://www.reddit.com/r/Python/comments/tfz6le/trouble_scrapping_website/)
-- [Building War Logistics Software to Help Ukraine [Fullstack Development]](https://www.reddit.com/r/Python/comments/tfyawx/building_war_logistics_software_to_help_ukraine/)
 - [_ctypes in pure python code:](https://www.reddit.com/r/Python/comments/tfwzu1/ctypes_in_pure_python_code/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/tfww6h/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
