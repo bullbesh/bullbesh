@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Program to make a List of Integers &lpar;for very basic level&rpar;](https://www.reddit.com/r/Python/comments/tgz3wj/program_to_make_a_list_of_integers_for_very_basic/)
+- [Python ETL management framework/tool](https://www.reddit.com/r/Python/comments/tgyvu2/python_etl_management_frameworktool/)
 - [Finance degree to cs?](https://www.reddit.com/r/Python/comments/tgy38p/finance_degree_to_cs/)
 - [Share Jupyter Notebook as web app](https://www.reddit.com/r/Python/comments/tgxz6w/share_jupyter_notebook_as_web_app/)
 - [Python Online Training with Placement Assistance](https://www.reddit.com/r/Python/comments/tgxol8/python_online_training_with_placement_assistance/)
-- [Building an all-in-one Python Resources Website for Python Developers](https://www.reddit.com/r/Python/comments/tgxjwm/building_an_allinone_python_resources_website_for/)
-- [Frontend Vue and Tailwind Setup - Masonite Tutorial](https://www.reddit.com/r/Python/comments/tgxa8s/frontend_vue_and_tailwind_setup_masonite_tutorial/)
 <!-- BLOG-POST-LIST:END -->
