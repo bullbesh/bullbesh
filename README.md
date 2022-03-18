@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve heard that &quot;if a class is just a constructor and one method, then it should be a function&quot;. What is your opinion on this and what are counter examples?](https://www.reddit.com/r/Python/comments/th6ztt/ive_heard_that_if_a_class_is_just_a_constructor/)
+- [A live workshop on how to instrument your apps to capture traces with OpenTelemetry in Python](https://www.reddit.com/r/Python/comments/th6mtw/a_live_workshop_on_how_to_instrument_your_apps_to/)
+- [Resume Generation With Python](https://www.reddit.com/r/Python/comments/th6lvy/resume_generation_with_python/)
 - [I&#39;m looking for a Program/script.](https://www.reddit.com/r/Python/comments/th4s04/im_looking_for_a_programscript/)
 - [Which book you suggest, which relates the different method of Python program used in electronic system](https://www.reddit.com/r/Python/comments/th4d0f/which_book_you_suggest_which_relates_the/)
-- [Latest Python for Debian GNU/Linux](https://www.reddit.com/r/Python/comments/th3oai/latest_python_for_debian_gnulinux/)
-- [what&#39;s sentiment analysis methodology](https://www.reddit.com/r/Python/comments/th3fc7/whats_sentiment_analysis_methodology/)
-- [Python 3 Types in the Wild · It Will Never Work in Theory](https://www.reddit.com/r/Python/comments/th3dzy/python_3_types_in_the_wild_it_will_never_work_in/)
 <!-- BLOG-POST-LIST:END -->
