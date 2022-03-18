@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [which python distribution is better winpython or python&lpar;x,y&rpar; for data science?](https://www.reddit.com/r/Python/comments/tgprek/which_python_distribution_is_better_winpython_or/)
+- [jhj](https://www.reddit.com/r/Python/comments/tgpkwm/jhj/)
+- [Python Traffic Generator](https://www.reddit.com/r/Python/comments/tgopyd/python_traffic_generator/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/tgo1uq/friday_daily_thread_free_chat_friday_daily_thread/)
 - [How would you compare tortoise ORM vs peewee ORM?](https://www.reddit.com/r/Python/comments/tglp4o/how_would_you_compare_tortoise_orm_vs_peewee_orm/)
-- [Is there a script to search keywords in a collection of websites?](https://www.reddit.com/r/Python/comments/tgjy4a/is_there_a_script_to_search_keywords_in_a/)
-- [Arcade 2.6.11 has been released](https://www.reddit.com/r/Python/comments/tghjn8/arcade_2611_has_been_released/)
-- [I&#39;m an amateur Python programmer, what&#39;s my next step?](https://www.reddit.com/r/Python/comments/tggmnl/im_an_amateur_python_programmer_whats_my_next_step/)
-- [Bookmarking Application &lpar;sqlite, tkinter, bcrypt&rpar;](https://www.reddit.com/r/Python/comments/tgedn8/bookmarking_application_sqlite_tkinter_bcrypt/)
 <!-- BLOG-POST-LIST:END -->
