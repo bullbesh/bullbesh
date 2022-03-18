@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python finally offloads some batteries](https://www.reddit.com/r/Python/comments/th2ezh/python_finally_offloads_some_batteries/)
-- [Proposed Addition to Python ASYNC.](https://www.reddit.com/r/Python/comments/th04ho/proposed_addition_to_python_async/)
-- [Program to make a List of Integers &lpar;for very basic level&rpar;](https://www.reddit.com/r/Python/comments/tgz3wj/program_to_make_a_list_of_integers_for_very_basic/)
-- [Python ETL management framework/tool](https://www.reddit.com/r/Python/comments/tgyvu2/python_etl_management_frameworktool/)
-- [Finance degree to cs?](https://www.reddit.com/r/Python/comments/tgy38p/finance_degree_to_cs/)
+- [Latest Python for Debian GNU/Linux](https://www.reddit.com/r/Python/comments/th3oai/latest_python_for_debian_gnulinux/)
+- [what&#39;s sentiment analysis methodology](https://www.reddit.com/r/Python/comments/th3fc7/whats_sentiment_analysis_methodology/)
+- [Python 3 Types in the Wild · It Will Never Work in Theory](https://www.reddit.com/r/Python/comments/th3dzy/python_3_types_in_the_wild_it_will_never_work_in/)
+- [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/th30u3/python_cybersecurity_build_your_own_python_tools/)
+- [Business logic in Django and Django REST Framework applications](https://www.reddit.com/r/Python/comments/th2zll/business_logic_in_django_and_django_rest/)
 <!-- BLOG-POST-LIST:END -->
