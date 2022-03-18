@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best Machine Learning Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/tgu96t/the_best_machine_learning_courses_on_udemy_2022/)
+- [8 Excellent Python Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/tgu5y6/8_excellent_python_courses_on_udemy_2022/)
 - [which python distribution is better winpython or python&lpar;x,y&rpar; for data science?](https://www.reddit.com/r/Python/comments/tgprek/which_python_distribution_is_better_winpython_or/)
 - [Python Traffic Generator](https://www.reddit.com/r/Python/comments/tgopyd/python_traffic_generator/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/tgo1uq/friday_daily_thread_free_chat_friday_daily_thread/)
-- [How would you compare tortoise ORM vs peewee ORM?](https://www.reddit.com/r/Python/comments/tglp4o/how_would_you_compare_tortoise_orm_vs_peewee_orm/)
-- [Arcade 2.6.11 has been released](https://www.reddit.com/r/Python/comments/tghjn8/arcade_2611_has_been_released/)
 <!-- BLOG-POST-LIST:END -->
