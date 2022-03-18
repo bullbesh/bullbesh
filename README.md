@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finance degree to cs?](https://www.reddit.com/r/Python/comments/tgy38p/finance_degree_to_cs/)
+- [Share Jupyter Notebook as web app](https://www.reddit.com/r/Python/comments/tgxz6w/share_jupyter_notebook_as_web_app/)
 - [Python Online Training with Placement Assistance](https://www.reddit.com/r/Python/comments/tgxol8/python_online_training_with_placement_assistance/)
 - [Building an all-in-one Python Resources Website for Python Developers](https://www.reddit.com/r/Python/comments/tgxjwm/building_an_allinone_python_resources_website_for/)
 - [Frontend Vue and Tailwind Setup - Masonite Tutorial](https://www.reddit.com/r/Python/comments/tgxa8s/frontend_vue_and_tailwind_setup_masonite_tutorial/)
-- [A solver, player and cheater for breaklock](https://www.reddit.com/r/Python/comments/tgw41v/a_solver_player_and_cheater_for_breaklock/)
-- [Hello Pythonistas, searching for a Pythonist to form a pair for pair programming.](https://www.reddit.com/r/Python/comments/tgvpgi/hello_pythonistas_searching_for_a_pythonist_to/)
 <!-- BLOG-POST-LIST:END -->
