@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m looking for a Program/script.](https://www.reddit.com/r/Python/comments/th4s04/im_looking_for_a_programscript/)
+- [Which book you suggest, which relates the different method of Python program used in electronic system](https://www.reddit.com/r/Python/comments/th4d0f/which_book_you_suggest_which_relates_the/)
 - [Latest Python for Debian GNU/Linux](https://www.reddit.com/r/Python/comments/th3oai/latest_python_for_debian_gnulinux/)
 - [what&#39;s sentiment analysis methodology](https://www.reddit.com/r/Python/comments/th3fc7/whats_sentiment_analysis_methodology/)
 - [Python 3 Types in the Wild · It Will Never Work in Theory](https://www.reddit.com/r/Python/comments/th3dzy/python_3_types_in_the_wild_it_will_never_work_in/)
-- [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/th30u3/python_cybersecurity_build_your_own_python_tools/)
-- [Business logic in Django and Django REST Framework applications](https://www.reddit.com/r/Python/comments/th2zll/business_logic_in_django_and_django_rest/)
 <!-- BLOG-POST-LIST:END -->
