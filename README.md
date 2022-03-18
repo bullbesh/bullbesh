@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Online Training with Placement Assistance](https://www.reddit.com/r/Python/comments/tgxol8/python_online_training_with_placement_assistance/)
+- [Building an all-in-one Python Resources Website for Python Developers](https://www.reddit.com/r/Python/comments/tgxjwm/building_an_allinone_python_resources_website_for/)
+- [Frontend Vue and Tailwind Setup - Masonite Tutorial](https://www.reddit.com/r/Python/comments/tgxa8s/frontend_vue_and_tailwind_setup_masonite_tutorial/)
 - [A solver, player and cheater for breaklock](https://www.reddit.com/r/Python/comments/tgw41v/a_solver_player_and_cheater_for_breaklock/)
 - [Hello Pythonistas, searching for a Pythonist to form a pair for pair programming.](https://www.reddit.com/r/Python/comments/tgvpgi/hello_pythonistas_searching_for_a_pythonist_to/)
-- [Processing large JSON files in Python without running out of memory](https://www.reddit.com/r/Python/comments/tgvgnv/processing_large_json_files_in_python_without/)
-- [Is this a good project?](https://www.reddit.com/r/Python/comments/tgv85c/is_this_a_good_project/)
-- [&lpar;Help&rpar; me with the program](https://www.reddit.com/r/Python/comments/tgv4e3/help_me_with_the_program/)
 <!-- BLOG-POST-LIST:END -->
