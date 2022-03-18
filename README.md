@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [*UPDATED* Random numbers generator list with Mean, Median, Mode and frequency of each number](https://www.reddit.com/r/Python/comments/thgvms/updated_random_numbers_generator_list_with_mean/)
 - [Random numbers generator list with Mean, Median, Mode and frequency of each number](https://www.reddit.com/r/Python/comments/thdm72/random_numbers_generator_list_with_mean_median/)
 - [I&#39;ve heard that &quot;if a class is just a constructor and one method, then it should be a function&quot;. What is your opinion on this and what are counter examples?](https://www.reddit.com/r/Python/comments/th6ztt/ive_heard_that_if_a_class_is_just_a_constructor/)
 - [A live workshop on how to instrument your apps to capture traces with OpenTelemetry in Python](https://www.reddit.com/r/Python/comments/th6mtw/a_live_workshop_on_how_to_instrument_your_apps_to/)
 - [Resume Generation With Python](https://www.reddit.com/r/Python/comments/th6lvy/resume_generation_with_python/)
-- [Latest Python for Debian GNU/Linux](https://www.reddit.com/r/Python/comments/th3oai/latest_python_for_debian_gnulinux/)
 <!-- BLOG-POST-LIST:END -->
