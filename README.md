@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can we publish apps made in Python in Appstore?](https://www.reddit.com/r/Python/comments/tht0fq/can_we_publish_apps_made_in_python_in_appstore/)
+- [DeepForSpeed: A self driving car in Need For Speed Most Wanted built with python + pytorch](https://www.reddit.com/r/Python/comments/thsp8c/deepforspeed_a_self_driving_car_in_need_for_speed/)
 - [Python writing problems!](https://www.reddit.com/r/Python/comments/thsacz/python_writing_problems/)
 - [Python for beginners from Harvard CS50x. Starting April 1st. Free course, awesome teacher, explains how computer thinks in terms of programming. 11 weeks 3-9 hours per week! Sign up now, highly recommended.](https://www.reddit.com/r/Python/comments/ths5wg/python_for_beginners_from_harvard_cs50x_starting/)
 - [using python requests](https://www.reddit.com/r/Python/comments/thrfyc/using_python_requests/)
-- [Red Mail: All you need from an email sender](https://www.reddit.com/r/Python/comments/thrdr9/red_mail_all_you_need_from_an_email_sender/)
-- [Does anyone here code on a chromebook?](https://www.reddit.com/r/Python/comments/thr32e/does_anyone_here_code_on_a_chromebook/)
 <!-- BLOG-POST-LIST:END -->
