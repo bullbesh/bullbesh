@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is pygame still worth it in 2022??](https://www.reddit.com/r/Python/comments/thzhqp/is_pygame_still_worth_it_in_2022/)
+- [I&#39;m a beginner and could use some direction.](https://www.reddit.com/r/Python/comments/thz5oo/im_a_beginner_and_could_use_some_direction/)
 - [MS SQL stored proc not working with sqlalchemy](https://www.reddit.com/r/Python/comments/thxdc2/ms_sql_stored_proc_not_working_with_sqlalchemy/)
 - [Share Code Snippets - Easily share python code with developers](https://www.reddit.com/r/Python/comments/thx6vf/share_code_snippets_easily_share_python_code_with/)
 - [pointers.py - Malloc and free in python](https://www.reddit.com/r/Python/comments/thwwqk/pointerspy_malloc_and_free_in_python/)
-- [What do you think is the most valuable Python package?](https://www.reddit.com/r/Python/comments/thw2h9/what_do_you_think_is_the_most_valuable_python/)
-- [Build a Hash Table in Python With TDD – Real Python](https://www.reddit.com/r/Python/comments/thvrq5/build_a_hash_table_in_python_with_tdd_real_python/)
 <!-- BLOG-POST-LIST:END -->
