@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Make array data silent](https://www.reddit.com/r/Python/comments/thqgla/make_array_data_silent/)
-- [The Zen Of Python, One-Liners and Being Pythonic](https://www.reddit.com/r/Python/comments/thqfid/the_zen_of_python_oneliners_and_being_pythonic/)
-- [What extension is useful when doing Python in VS code?](https://www.reddit.com/r/Python/comments/thpx8i/what_extension_is_useful_when_doing_python_in_vs/)
-- [Solution to Ramanujan equations](https://www.reddit.com/r/Python/comments/thplm6/solution_to_ramanujan_equations/)
-- [PEP 686: Make UTF-8 mode default](https://www.reddit.com/r/Python/comments/thnk4l/pep_686_make_utf8_mode_default/)
+- [using python requests](https://www.reddit.com/r/Python/comments/thrfyc/using_python_requests/)
+- [Red Mail: All you need from an email sender](https://www.reddit.com/r/Python/comments/thrdr9/red_mail_all_you_need_from_an_email_sender/)
+- [Does anyone here code on a chromebook?](https://www.reddit.com/r/Python/comments/thr32e/does_anyone_here_code_on_a_chromebook/)
+- [I created a super simple customizable desktop clock with python](https://www.reddit.com/r/Python/comments/thqxd6/i_created_a_super_simple_customizable_desktop/)
+- [3 Things You Might Not Know About Numbers in Python](https://www.reddit.com/r/Python/comments/thqu6i/3_things_you_might_not_know_about_numbers_in/)
 <!-- BLOG-POST-LIST:END -->
