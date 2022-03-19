@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Euporie: a terminal app for working with Jupyter notebooks](https://www.reddit.com/r/Python/comments/thlcky/euporie_a_terminal_app_for_working_with_jupyter/)
+- [A Happy Success Story and Python!](https://www.reddit.com/r/Python/comments/thlata/a_happy_success_story_and_python/)
+- [Elden Ring Open Source API](https://www.reddit.com/r/Python/comments/thl39l/elden_ring_open_source_api/)
+- [any machine learning library to format a text like an article given a whole text or set of sentences ?](https://www.reddit.com/r/Python/comments/thkejj/any_machine_learning_library_to_format_a_text/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/thiqqa/saturday_daily_thread_resource_request_and/)
-- [*UPDATED* Random numbers generator list with Mean, Median, Mode and frequency of each number](https://www.reddit.com/r/Python/comments/thgvms/updated_random_numbers_generator_list_with_mean/)
-- [Random numbers generator list with Mean, Median, Mode and frequency of each number](https://www.reddit.com/r/Python/comments/thdm72/random_numbers_generator_list_with_mean_median/)
-- [I&#39;ve heard that &quot;if a class is just a constructor and one method, then it should be a function&quot;. What is your opinion on this and what are counter examples?](https://www.reddit.com/r/Python/comments/th6ztt/ive_heard_that_if_a_class_is_just_a_constructor/)
-- [A live workshop on how to instrument your apps to capture traces with OpenTelemetry in Python](https://www.reddit.com/r/Python/comments/th6mtw/a_live_workshop_on_how_to_instrument_your_apps_to/)
 <!-- BLOG-POST-LIST:END -->
