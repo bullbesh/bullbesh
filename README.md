@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What do you think is the most valuable Python package?](https://www.reddit.com/r/Python/comments/thw2h9/what_do_you_think_is_the_most_valuable_python/)
+- [Build a Hash Table in Python With TDD – Real Python](https://www.reddit.com/r/Python/comments/thvrq5/build_a_hash_table_in_python_with_tdd_real_python/)
+- [How to Shortlist the Best Python Development Company ?](https://www.reddit.com/r/Python/comments/thvj46/how_to_shortlist_the_best_python_development/)
 - [Can we publish apps made in Python in Appstore?](https://www.reddit.com/r/Python/comments/tht0fq/can_we_publish_apps_made_in_python_in_appstore/)
 - [DeepForSpeed: A self driving car in Need For Speed Most Wanted built with python + pytorch](https://www.reddit.com/r/Python/comments/thsp8c/deepforspeed_a_self_driving_car_in_need_for_speed/)
-- [Python writing problems!](https://www.reddit.com/r/Python/comments/thsacz/python_writing_problems/)
-- [Python for beginners from Harvard CS50x. Starting April 1st. Free course, awesome teacher, explains how computer thinks in terms of programming. 11 weeks 3-9 hours per week! Sign up now, highly recommended.](https://www.reddit.com/r/Python/comments/ths5wg/python_for_beginners_from_harvard_cs50x_starting/)
-- [using python requests](https://www.reddit.com/r/Python/comments/thrfyc/using_python_requests/)
 <!-- BLOG-POST-LIST:END -->
