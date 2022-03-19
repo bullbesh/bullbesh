@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyMacApp: Build, Package, and Code-Sign Python Projects on MacOS in just 10-lines of Python Code!](https://www.reddit.com/r/Python/comments/ti4ztb/pymacapp_build_package_and_codesign_python/)
+- [Small Line Counter Script](https://www.reddit.com/r/Python/comments/ti4zcz/small_line_counter_script/)
 - [Is pygame still worth it in 2022??](https://www.reddit.com/r/Python/comments/thzhqp/is_pygame_still_worth_it_in_2022/)
 - [pointers.py - Malloc and free in python](https://www.reddit.com/r/Python/comments/thwwqk/pointerspy_malloc_and_free_in_python/)
-- [What do you think is the most valuable Python package?](https://www.reddit.com/r/Python/comments/thw2h9/what_do_you_think_is_the_most_valuable_python/)
 - [Build a Hash Table in Python With TDD – Real Python](https://www.reddit.com/r/Python/comments/thvrq5/build_a_hash_table_in_python_with_tdd_real_python/)
-- [How to Shortlist the Best Python Development Company ?](https://www.reddit.com/r/Python/comments/thvj46/how_to_shortlist_the_best_python_development/)
 <!-- BLOG-POST-LIST:END -->
