@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 686: Make UTF-8 mode default](https://www.reddit.com/r/Python/comments/thnk4l/pep_686_make_utf8_mode_default/)
 - [Complete Guide to PyGame Setup in 14 mins!](https://www.reddit.com/r/Python/comments/thmkk7/complete_guide_to_pygame_setup_in_14_mins/)
 - [What Python GitHub repos are good examples of best practices?](https://www.reddit.com/r/Python/comments/thmbi1/what_python_github_repos_are_good_examples_of/)
 - [Is this the right language for me?](https://www.reddit.com/r/Python/comments/thlqed/is_this_the_right_language_for_me/)
 - [Euporie: a terminal app for working with Jupyter notebooks](https://www.reddit.com/r/Python/comments/thlcky/euporie_a_terminal_app_for_working_with_jupyter/)
-- [A Happy Success Story and Python!](https://www.reddit.com/r/Python/comments/thlata/a_happy_success_story_and_python/)
 <!-- BLOG-POST-LIST:END -->
