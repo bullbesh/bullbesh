@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Ternary plot with Custom Ticks in Python](https://www.reddit.com/r/Python/comments/ti25yx/ternary_plot_with_custom_ticks_in_python/)
-- [Trying to show JSON on Webpage using Flask with jsonify via Python. Using VS Code. Getting failed.](https://www.reddit.com/r/Python/comments/ti1pca/trying_to_show_json_on_webpage_using_flask_with/)
 - [Is pygame still worth it in 2022??](https://www.reddit.com/r/Python/comments/thzhqp/is_pygame_still_worth_it_in_2022/)
-- [I&#39;m a beginner and could use some direction.](https://www.reddit.com/r/Python/comments/thz5oo/im_a_beginner_and_could_use_some_direction/)
-- [MS SQL stored proc not working with sqlalchemy](https://www.reddit.com/r/Python/comments/thxdc2/ms_sql_stored_proc_not_working_with_sqlalchemy/)
+- [pointers.py - Malloc and free in python](https://www.reddit.com/r/Python/comments/thwwqk/pointerspy_malloc_and_free_in_python/)
+- [What do you think is the most valuable Python package?](https://www.reddit.com/r/Python/comments/thw2h9/what_do_you_think_is_the_most_valuable_python/)
+- [Build a Hash Table in Python With TDD – Real Python](https://www.reddit.com/r/Python/comments/thvrq5/build_a_hash_table_in_python_with_tdd_real_python/)
+- [How to Shortlist the Best Python Development Company ?](https://www.reddit.com/r/Python/comments/thvj46/how_to_shortlist_the_best_python_development/)
 <!-- BLOG-POST-LIST:END -->
