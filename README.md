@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What Python GitHub repos are good examples of best practices?](https://www.reddit.com/r/Python/comments/thmbi1/what_python_github_repos_are_good_examples_of/)
+- [Is this the right language for me?](https://www.reddit.com/r/Python/comments/thlqed/is_this_the_right_language_for_me/)
 - [Euporie: a terminal app for working with Jupyter notebooks](https://www.reddit.com/r/Python/comments/thlcky/euporie_a_terminal_app_for_working_with_jupyter/)
 - [A Happy Success Story and Python!](https://www.reddit.com/r/Python/comments/thlata/a_happy_success_story_and_python/)
 - [Elden Ring Open Source API](https://www.reddit.com/r/Python/comments/thl39l/elden_ring_open_source_api/)
-- [any machine learning library to format a text like an article given a whole text or set of sentences ?](https://www.reddit.com/r/Python/comments/thkejj/any_machine_learning_library_to_format_a_text/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/thiqqa/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
