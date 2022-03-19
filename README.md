@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Make array data silent](https://www.reddit.com/r/Python/comments/thqgla/make_array_data_silent/)
+- [The Zen Of Python, One-Liners and Being Pythonic](https://www.reddit.com/r/Python/comments/thqfid/the_zen_of_python_oneliners_and_being_pythonic/)
+- [What extension is useful when doing Python in VS code?](https://www.reddit.com/r/Python/comments/thpx8i/what_extension_is_useful_when_doing_python_in_vs/)
 - [Solution to Ramanujan equations](https://www.reddit.com/r/Python/comments/thplm6/solution_to_ramanujan_equations/)
 - [PEP 686: Make UTF-8 mode default](https://www.reddit.com/r/Python/comments/thnk4l/pep_686_make_utf8_mode_default/)
-- [Complete Guide to PyGame Setup in 14 mins!](https://www.reddit.com/r/Python/comments/thmkk7/complete_guide_to_pygame_setup_in_14_mins/)
-- [What Python GitHub repos are good examples of best practices?](https://www.reddit.com/r/Python/comments/thmbi1/what_python_github_repos_are_good_examples_of/)
-- [Is this the right language for me?](https://www.reddit.com/r/Python/comments/thlqed/is_this_the_right_language_for_me/)
 <!-- BLOG-POST-LIST:END -->
