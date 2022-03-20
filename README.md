@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Automate Key board and mouse](https://www.reddit.com/r/Python/comments/ti5hm4/automate_key_board_and_mouse/)
-- [New Python package for stock market data: YFrake](https://www.reddit.com/r/Python/comments/ti5geq/new_python_package_for_stock_market_data_yfrake/)
-- [Zerohedge tweet archive](https://www.reddit.com/r/Python/comments/ti5eks/zerohedge_tweet_archive/)
-- [I broke Math. I generated a quantum random number in Python. Split the decimal part of it into groups of 5 digits. Found every single group in the decimal expansion of PI &lpar;just upto a million digits&rpar;. Somebody tell me I&#39;m wrong or give me a Nobel prize. I won&#39;t sleep tonight.](https://www.reddit.com/r/Python/comments/ti584e/i_broke_math_i_generated_a_quantum_random_number/)
-- [PyMacApp: Build, Package, and Code-Sign Python Projects on MacOS in just 10-lines of Python Code!](https://www.reddit.com/r/Python/comments/ti4ztb/pymacapp_build_package_and_codesign_python/)
+- [Creating a DCGAN with PyTorch](https://www.reddit.com/r/Python/comments/ti9u5w/creating_a_dcgan_with_pytorch/)
+- [Modularizing a Chalice Application](https://www.reddit.com/r/Python/comments/ti9ryn/modularizing_a_chalice_application/)
+- [What is this image &lpar;vehicle in this example&rpar; recognition built with?](https://www.reddit.com/r/Python/comments/ti9o4d/what_is_this_image_vehicle_in_this_example/)
+- [Space Science with Python - AI 1-8: A Dense Neural Network](https://www.reddit.com/r/Python/comments/ti90ps/space_science_with_python_ai_18_a_dense_neural/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/ti8esn/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
