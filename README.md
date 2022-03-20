@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am super excited!!! Just started Python 10 days ago and I just finished my first program. I would love some feedback please](https://www.reddit.com/r/Python/comments/tios23/i_am_super_excited_just_started_python_10_days/)
+- [I made a video tutorial on how to work with image data with python. Hope its a helpful introduction for anyone interested in learning about image processing.](https://www.reddit.com/r/Python/comments/tinykr/i_made_a_video_tutorial_on_how_to_work_with_image/)
+- [Error Handling in Python](https://www.reddit.com/r/Python/comments/tinurv/error_handling_in_python/)
 - [Sending Emails With Python](https://www.reddit.com/r/Python/comments/tin22d/sending_emails_with_python/)
 - [Quickfix for pip on windows](https://www.reddit.com/r/Python/comments/timu4y/quickfix_for_pip_on_windows/)
-- [pip install medium-api](https://www.reddit.com/r/Python/comments/timph1/pip_install_mediumapi/)
-- [Python Collection Classes - Queues, NamedTuples, DefaultDict, the Professor and Mary Ann](https://www.reddit.com/r/Python/comments/tilukh/python_collection_classes_queues_namedtuples/)
-- [Creating Real-Time Charts with FastAPI](https://www.reddit.com/r/Python/comments/tilg4d/creating_realtime_charts_with_fastapi/)
 <!-- BLOG-POST-LIST:END -->
