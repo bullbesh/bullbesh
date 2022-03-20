@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create A REST API In Python Flask](https://www.reddit.com/r/Python/comments/tikn0t/create_a_rest_api_in_python_flask/)
+- [Step by Step Procedure to Deploy A Flask App On Heroku](https://www.reddit.com/r/Python/comments/tikmj3/step_by_step_procedure_to_deploy_a_flask_app_on/)
 - [How to make a presentation web app in &lpar;almost&rpar; a minute with Anvil in Pu...](https://www.reddit.com/r/Python/comments/tijzw1/how_to_make_a_presentation_web_app_in_almost_a/)
 - [Python Flask, ElasticSearch and docker environment](https://www.reddit.com/r/Python/comments/tiid1f/python_flask_elasticsearch_and_docker_environment/)
 - [Gufo Loader](https://www.reddit.com/r/Python/comments/tihlqu/gufo_loader/)
-- [How to make the most of Pydantic](https://www.reddit.com/r/Python/comments/tih4e7/how_to_make_the_most_of_pydantic/)
-- [Multiplication table in html with python](https://www.reddit.com/r/Python/comments/tidyhu/multiplication_table_in_html_with_python/)
 <!-- BLOG-POST-LIST:END -->
