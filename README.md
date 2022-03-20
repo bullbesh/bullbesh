@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make the most of Pydantic](https://www.reddit.com/r/Python/comments/tih4e7/how_to_make_the_most_of_pydantic/)
 - [Multiplication table in html with python](https://www.reddit.com/r/Python/comments/tidyhu/multiplication_table_in_html_with_python/)
 - [Sudoku Solver Using Python | AI projects](https://www.reddit.com/r/Python/comments/tidx7v/sudoku_solver_using_python_ai_projects/)
 - [I Wanted to Make a Game from Scratch &lpar;visuals and all&rpar; Using Python so I did.](https://www.reddit.com/r/Python/comments/tid126/i_wanted_to_make_a_game_from_scratch_visuals_and/)
 - [Creating a DCGAN with PyTorch](https://www.reddit.com/r/Python/comments/ti9u5w/creating_a_dcgan_with_pytorch/)
-- [Modularizing a Chalice Application](https://www.reddit.com/r/Python/comments/ti9ryn/modularizing_a_chalice_application/)
 <!-- BLOG-POST-LIST:END -->
