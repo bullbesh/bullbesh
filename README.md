@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sending Emails With Python](https://www.reddit.com/r/Python/comments/tin22d/sending_emails_with_python/)
+- [Quickfix for pip on windows](https://www.reddit.com/r/Python/comments/timu4y/quickfix_for_pip_on_windows/)
+- [pip install medium-api](https://www.reddit.com/r/Python/comments/timph1/pip_install_mediumapi/)
 - [Python Collection Classes - Queues, NamedTuples, DefaultDict, the Professor and Mary Ann](https://www.reddit.com/r/Python/comments/tilukh/python_collection_classes_queues_namedtuples/)
 - [Creating Real-Time Charts with FastAPI](https://www.reddit.com/r/Python/comments/tilg4d/creating_realtime_charts_with_fastapi/)
-- [Create A REST API In Python Flask](https://www.reddit.com/r/Python/comments/tikn0t/create_a_rest_api_in_python_flask/)
-- [Step by Step Procedure to Deploy A Flask App On Heroku](https://www.reddit.com/r/Python/comments/tikmj3/step_by_step_procedure_to_deploy_a_flask_app_on/)
-- [How to make a presentation web app in &lpar;almost&rpar; a minute with Anvil in Pu...](https://www.reddit.com/r/Python/comments/tijzw1/how_to_make_a_presentation_web_app_in_almost_a/)
 <!-- BLOG-POST-LIST:END -->
