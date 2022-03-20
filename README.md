@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Flask, ElasticSearch and docker environment](https://www.reddit.com/r/Python/comments/tiid1f/python_flask_elasticsearch_and_docker_environment/)
 - [Gufo Loader](https://www.reddit.com/r/Python/comments/tihlqu/gufo_loader/)
 - [How to make the most of Pydantic](https://www.reddit.com/r/Python/comments/tih4e7/how_to_make_the_most_of_pydantic/)
 - [Multiplication table in html with python](https://www.reddit.com/r/Python/comments/tidyhu/multiplication_table_in_html_with_python/)
 - [Sudoku Solver Using Python | AI projects](https://www.reddit.com/r/Python/comments/tidx7v/sudoku_solver_using_python_ai_projects/)
-- [I Wanted to Make a Game from Scratch &lpar;visuals and all&rpar; Using Python so I did.](https://www.reddit.com/r/Python/comments/tid126/i_wanted_to_make_a_game_from_scratch_visuals_and/)
 <!-- BLOG-POST-LIST:END -->
