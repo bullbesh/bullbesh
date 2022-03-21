@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The LAST 20 Python Packages you will ever need &lpar;Machine Learning, Data S...](https://www.reddit.com/r/Python/comments/tith9h/the_last_20_python_packages_you_will_ever_need/)
+- [I created a self-hosted security camera system](https://www.reddit.com/r/Python/comments/tizhpw/i_created_a_selfhosted_security_camera_system/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/tiyhw1/monday_daily_thread_project_ideas/)
+- [Live Python Course from computer science professor on Cyber Insecurity Youtube Channel](https://www.reddit.com/r/Python/comments/tixven/live_python_course_from_computer_science/)
 - [EZTV-AutoDownloader / Transmission Manager](https://www.reddit.com/r/Python/comments/tiqz2t/eztvautodownloader_transmission_manager/)
 - [MD now avaible on Termux](https://www.reddit.com/r/Python/comments/tiqdvp/md_now_avaible_on_termux/)
-- [Looking for an official documentation regarding security best practices and how to write secure code](https://www.reddit.com/r/Python/comments/tiq3ts/looking_for_an_official_documentation_regarding/)
-- [tkthread - Easy multithreading with tkinter](https://www.reddit.com/r/Python/comments/tip8va/tkthread_easy_multithreading_with_tkinter/)
 <!-- BLOG-POST-LIST:END -->
