@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a sorting algorithm, it is a schrobogosort. Basically it bogosorts and if it isn&#39;t sorted there is a 50% chance to shut down your PC every time it fails to sort](https://www.reddit.com/r/Python/comments/tjcn6j/i_created_a_sorting_algorithm_it_is_a/)
+- [Aproches to planning a project](https://www.reddit.com/r/Python/comments/tjcfcy/aproches_to_planning_a_project/)
+- [All-in-One Python book bundle by Packt](https://www.reddit.com/r/Python/comments/tjbbj6/allinone_python_book_bundle_by_packt/)
 - [I have my own database that I wanna check plagiarism against, how difficult is it making a plagiarism checker?](https://www.reddit.com/r/Python/comments/tjb86q/i_have_my_own_database_that_i_wanna_check/)
 - [can somebodyhelp me?](https://www.reddit.com/r/Python/comments/tjaoau/can_somebodyhelp_me/)
-- [Guessing Number Game, Newbie question](https://www.reddit.com/r/Python/comments/tj9uxp/guessing_number_game_newbie_question/)
-- [Daily dose of Python](https://www.reddit.com/r/Python/comments/tj9tz1/daily_dose_of_python/)
-- [How to Deploy a TensorFlow Model as a RESTful API Service](https://www.reddit.com/r/Python/comments/tj8uzz/how_to_deploy_a_tensorflow_model_as_a_restful_api/)
 <!-- BLOG-POST-LIST:END -->
