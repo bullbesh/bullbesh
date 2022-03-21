@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn Researchers Open-Source ‘FastTreeSHAP’: A Python Package That Enables An Efficient Interpretation of Tree-Based Machine Learning Models](https://www.reddit.com/r/Python/comments/tj1koz/linkedin_researchers_opensource_fasttreeshap_a/)
-- [What is Indonesia stock API for free ?](https://www.reddit.com/r/Python/comments/tj0izw/what_is_indonesia_stock_api_for_free/)
-- [I created a self-hosted security camera system](https://www.reddit.com/r/Python/comments/tizhpw/i_created_a_selfhosted_security_camera_system/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/tiyhw1/monday_daily_thread_project_ideas/)
-- [Live Python Course from computer science professor on Cyber Insecurity Youtube Channel](https://www.reddit.com/r/Python/comments/tixven/live_python_course_from_computer_science/)
+- [appending into a list](https://www.reddit.com/r/Python/comments/tj3cgu/appending_into_a_list/)
+- [Resources, packages, books, advice for python programming with stateful systems?](https://www.reddit.com/r/Python/comments/tj35dc/resources_packages_books_advice_for_python/)
+- [Why venv?](https://www.reddit.com/r/Python/comments/tj32vd/why_venv/)
+- [Website to write code on](https://www.reddit.com/r/Python/comments/tj2iki/website_to_write_code_on/)
+- [Codecat](https://www.reddit.com/r/Python/comments/tj2g24/codecat/)
 <!-- BLOG-POST-LIST:END -->
