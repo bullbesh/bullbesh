@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Programmable HTTP CLI Tool](https://www.reddit.com/r/Python/comments/tjfpg4/programmable_http_cli_tool/)
-- [I need a python random ASCII art generator.](https://www.reddit.com/r/Python/comments/tjfh8w/i_need_a_python_random_ascii_art_generator/)
+- [20 Python Interview Questions To Challenge Your Knowledge](https://www.reddit.com/r/Python/comments/tjg07t/20_python_interview_questions_to_challenge_your/)
 - [Python Interpreter API? but a little bit better &lpar;Coding 101&rpar;](https://www.reddit.com/r/Python/comments/tjffhc/python_interpreter_api_but_a_little_bit_better/)
-- [Why Linux?](https://www.reddit.com/r/Python/comments/tjfbee/why_linux/)
 - [Tetris in Pygame](https://www.reddit.com/r/Python/comments/tjeoz6/tetris_in_pygame/)
+- [Video: Build a Speech Recognition System on a Raspberry Pi](https://www.reddit.com/r/Python/comments/tjenh3/video_build_a_speech_recognition_system_on_a/)
+- [I Use Python for Soccer Analytics](https://www.reddit.com/r/Python/comments/tje08f/i_use_python_for_soccer_analytics/)
 <!-- BLOG-POST-LIST:END -->
