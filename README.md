@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I have my own database that I wanna check plagiarism against, how difficult is it making a plagiarism checker?](https://www.reddit.com/r/Python/comments/tjb86q/i_have_my_own_database_that_i_wanna_check/)
 - [can somebodyhelp me?](https://www.reddit.com/r/Python/comments/tjaoau/can_somebodyhelp_me/)
 - [Guessing Number Game, Newbie question](https://www.reddit.com/r/Python/comments/tj9uxp/guessing_number_game_newbie_question/)
 - [Daily dose of Python](https://www.reddit.com/r/Python/comments/tj9tz1/daily_dose_of_python/)
 - [How to Deploy a TensorFlow Model as a RESTful API Service](https://www.reddit.com/r/Python/comments/tj8uzz/how_to_deploy_a_tensorflow_model_as_a_restful_api/)
-- [Get Best Online Python Course](https://www.reddit.com/r/Python/comments/tj7gfw/get_best_online_python_course/)
 <!-- BLOG-POST-LIST:END -->
