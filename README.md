@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Use Python for Soccer Analytics](https://www.reddit.com/r/Python/comments/tje08f/i_use_python_for_soccer_analytics/)
+- [I created an ISS tracker with elevation distance, and country location.](https://www.reddit.com/r/Python/comments/tjdiqa/i_created_an_iss_tracker_with_elevation_distance/)
+- [When do you use generators?](https://www.reddit.com/r/Python/comments/tjd9l1/when_do_you_use_generators/)
+- [Async web server on ESP32 using Microdot | Micropython tutorial](https://www.reddit.com/r/Python/comments/tjd7b8/async_web_server_on_esp32_using_microdot/)
 - [I created a sorting algorithm, it is a schrobogosort. Basically it bogosorts and if it isn&#39;t sorted there is a 50% chance to shut down your PC every time it fails to sort](https://www.reddit.com/r/Python/comments/tjcn6j/i_created_a_sorting_algorithm_it_is_a/)
-- [Aproches to planning a project](https://www.reddit.com/r/Python/comments/tjcfcy/aproches_to_planning_a_project/)
-- [All-in-One Python book bundle by Packt](https://www.reddit.com/r/Python/comments/tjbbj6/allinone_python_book_bundle_by_packt/)
-- [I have my own database that I wanna check plagiarism against, how difficult is it making a plagiarism checker?](https://www.reddit.com/r/Python/comments/tjb86q/i_have_my_own_database_that_i_wanna_check/)
-- [can somebodyhelp me?](https://www.reddit.com/r/Python/comments/tjaoau/can_somebodyhelp_me/)
 <!-- BLOG-POST-LIST:END -->
