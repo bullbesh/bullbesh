@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Get Best Online Python Course](https://www.reddit.com/r/Python/comments/tj7gfw/get_best_online_python_course/)
+- [oneFace: Generating interfaces&lpar;CLI, Qt GUI, Dash web app&rpar; from a Python function.](https://www.reddit.com/r/Python/comments/tj7d1w/oneface_generating_interfacescli_qt_gui_dash_web/)
 - [Performance testing FastAPI ML APIs with Locust | Rubik&#39;s Code](https://www.reddit.com/r/Python/comments/tj6v1x/performance_testing_fastapi_ml_apis_with_locust/)
 - [Why venv?](https://www.reddit.com/r/Python/comments/tj32vd/why_venv/)
 - [Codecat](https://www.reddit.com/r/Python/comments/tj2g24/codecat/)
-- [LinkedIn Researchers Open-Source ‘FastTreeSHAP’: A Python Package That Enables An Efficient Interpretation of Tree-Based Machine Learning Models](https://www.reddit.com/r/Python/comments/tj1koz/linkedin_researchers_opensource_fasttreeshap_a/)
-- [I created a self-hosted security camera system](https://www.reddit.com/r/Python/comments/tizhpw/i_created_a_selfhosted_security_camera_system/)
 <!-- BLOG-POST-LIST:END -->
