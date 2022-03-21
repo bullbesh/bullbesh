@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Performance testing FastAPI ML APIs with Locust | Rubik&#39;s Code](https://www.reddit.com/r/Python/comments/tj6v1x/performance_testing_fastapi_ml_apis_with_locust/)
 - [Why venv?](https://www.reddit.com/r/Python/comments/tj32vd/why_venv/)
 - [Codecat](https://www.reddit.com/r/Python/comments/tj2g24/codecat/)
 - [LinkedIn Researchers Open-Source ‘FastTreeSHAP’: A Python Package That Enables An Efficient Interpretation of Tree-Based Machine Learning Models](https://www.reddit.com/r/Python/comments/tj1koz/linkedin_researchers_opensource_fasttreeshap_a/)
 - [I created a self-hosted security camera system](https://www.reddit.com/r/Python/comments/tizhpw/i_created_a_selfhosted_security_camera_system/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/tiyhw1/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
