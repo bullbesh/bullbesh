@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m making my own 3D engine ! &lpar;I&#39;m trying my best to improve the projection system but it&#39;s still garbage for now&rpar;](https://www.reddit.com/r/Python/comments/tjlv0x/im_making_my_own_3d_engine_im_trying_my_best_to/)
+- [Massachusetts Cancer Rates](https://www.reddit.com/r/Python/comments/tjlr3f/massachusetts_cancer_rates/)
+- [What is the difference between PyInstaller and PyOxydizer?](https://www.reddit.com/r/Python/comments/tjla5f/what_is_the_difference_between_pyinstaller_and/)
 - [Compose urls to scrape booking.com](https://www.reddit.com/r/Python/comments/tjkcmr/compose_urls_to_scrape_bookingcom/)
 - [We created a tool to enrich your datasets](https://www.reddit.com/r/Python/comments/tjjdcf/we_created_a_tool_to_enrich_your_datasets/)
-- [I created DeFFcode - A High-performance Video-Decoder Python Library for fast and low-overhead decoding of a wide range of video streams into 3D NumPy frames.](https://www.reddit.com/r/Python/comments/tjipr0/i_created_deffcode_a_highperformance_videodecoder/)
-- [Programmable HTTP CLI Tool](https://www.reddit.com/r/Python/comments/tjhae1/programmable_http_cli_tool/)
-- [20 Python Interview Questions To Challenge Your Knowledge](https://www.reddit.com/r/Python/comments/tjg07t/20_python_interview_questions_to_challenge_your/)
 <!-- BLOG-POST-LIST:END -->
