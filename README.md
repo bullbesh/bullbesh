@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LPT: Pandas DataFrames have a &quot;to_clipboard&quot; method](https://www.reddit.com/r/Python/comments/tjodin/lpt_pandas_dataframes_have_a_to_clipboard_method/)
 - [My TUI now automatically downgrades RGB colors to the richest palette available in your terminal!](https://www.reddit.com/r/Python/comments/tjnd4p/my_tui_now_automatically_downgrades_rgb_colors_to/)
 - [I&#39;m making my own 3D engine ! &lpar;I&#39;m trying my best to improve the projection system but it&#39;s still garbage for now&rpar;](https://www.reddit.com/r/Python/comments/tjlv0x/im_making_my_own_3d_engine_im_trying_my_best_to/)
 - [Massachusetts Cancer Rates](https://www.reddit.com/r/Python/comments/tjlr3f/massachusetts_cancer_rates/)
 - [What is the difference between PyInstaller and PyOxydizer?](https://www.reddit.com/r/Python/comments/tjla5f/what_is_the_difference_between_pyinstaller_and/)
-- [Compose urls to scrape booking.com](https://www.reddit.com/r/Python/comments/tjkcmr/compose_urls_to_scrape_bookingcom/)
 <!-- BLOG-POST-LIST:END -->
