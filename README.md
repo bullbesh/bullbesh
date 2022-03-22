@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve released a cache backend that uses dynamodb which is compatible with Django&#39;s cache framework.](https://www.reddit.com/r/Python/comments/tk54q8/ive_released_a_cache_backend_that_uses_dynamodb/)
 - [Unraveling the Mystery Behind Background Filters in Video Calling Apps](https://www.reddit.com/r/Python/comments/tk40cc/unraveling_the_mystery_behind_background_filters/)
 - [GitHub - gretelai/gretel-python-client: The Gretel Python Client allows you to interact with the Gretel REST API.](https://www.reddit.com/r/Python/comments/tk3uqx/github_gretelaigretelpythonclient_the_gretel/)
 - [Are Open-Source Developers Burning Out?](https://www.reddit.com/r/Python/comments/tk1x95/are_opensource_developers_burning_out/)
 - [Python Project Workflow](https://www.reddit.com/r/Python/comments/tk1o33/python_project_workflow/)
-- [I&#39;ve been a bit confused on which data class library to use. I wrote this article as part of my own investigation into protobuf, pydantic, etc..](https://www.reddit.com/r/Python/comments/tk0i4d/ive_been_a_bit_confused_on_which_data_class/)
 <!-- BLOG-POST-LIST:END -->
