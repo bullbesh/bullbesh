@@ -17,7 +17,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [The code for `import this` is amazing](https://www.reddit.com/r/Python/comments/tjskz4/the_code_for_import_this_is_amazing/)
 - [Can some one give me a step to step guide on how to convert decimal into binary](https://www.reddit.com/r/Python/comments/tjrzcv/can_some_one_give_me_a_step_to_step_guide_on_how/)
-- [would it be more human readable if we had a &quot;the&quot; and &quot;where&quot; keywords that turned this: [item for item in items &lt; 0] into: [the item in items where item &lt; 0]](https://www.reddit.com/r/Python/comments/tjr17p/would_it_be_more_human_readable_if_we_had_a_the/)
 - [Useful Tools and Programs list for Python](https://www.reddit.com/r/Python/comments/tjqlra/useful_tools_and_programs_list_for_python/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/tjpsnz/tuesday_daily_thread_advanced_questions/)
+- [LPT: Pandas DataFrames have a &quot;to_clipboard&quot; method](https://www.reddit.com/r/Python/comments/tjodin/lpt_pandas_dataframes_have_a_to_clipboard_method/)
 <!-- BLOG-POST-LIST:END -->
