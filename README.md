@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [6 Python Projects You should have in your Portfolio in 2022](https://www.reddit.com/r/Python/comments/tjvya3/6_python_projects_you_should_have_in_your/)
+- [PEP 675 titled &quot;Arbitrary Literal String Type&quot; just got accepted.](https://www.reddit.com/r/Python/comments/tjx689/pep_675_titled_arbitrary_literal_string_type_just/)
+- [How to be a Successful Python developer: Tips to help your hiring prospects](https://www.reddit.com/r/Python/comments/tjwwnn/how_to_be_a_successful_python_developer_tips_to/)
 - [Just learned implementing decorators](https://www.reddit.com/r/Python/comments/tjv4c3/just_learned_implementing_decorators/)
 - [Automate Excel Pivot Table With Python](https://www.reddit.com/r/Python/comments/tjtwdn/automate_excel_pivot_table_with_python/)
 - [The code for `import this` is amazing](https://www.reddit.com/r/Python/comments/tjskz4/the_code_for_import_this_is_amazing/)
-- [Useful Tools and Programs list for Python](https://www.reddit.com/r/Python/comments/tjqlra/useful_tools_and_programs_list_for_python/)
 <!-- BLOG-POST-LIST:END -->
