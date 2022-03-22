@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [would it be more human readable if we had a &quot;the&quot; and &quot;where&quot; keywords that turned this: [item for item in items &lt; 0] into: [the item in items where item &lt; 0]](https://www.reddit.com/r/Python/comments/tjr17p/would_it_be_more_human_readable_if_we_had_a_the/)
+- [Useful Tools and Programs list for Python](https://www.reddit.com/r/Python/comments/tjqlra/useful_tools_and_programs_list_for_python/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/tjpsnz/tuesday_daily_thread_advanced_questions/)
 - [LPT: Pandas DataFrames have a &quot;to_clipboard&quot; method](https://www.reddit.com/r/Python/comments/tjodin/lpt_pandas_dataframes_have_a_to_clipboard_method/)
 - [My TUI now automatically downgrades RGB colors to the richest palette available in your terminal!](https://www.reddit.com/r/Python/comments/tjnd4p/my_tui_now_automatically_downgrades_rgb_colors_to/)
-- [I&#39;m making my own 3D engine ! &lpar;I&#39;m trying my best to improve the projection system but it&#39;s still garbage for now&rpar;](https://www.reddit.com/r/Python/comments/tjlv0x/im_making_my_own_3d_engine_im_trying_my_best_to/)
-- [Massachusetts Cancer Rates](https://www.reddit.com/r/Python/comments/tjlr3f/massachusetts_cancer_rates/)
-- [What is the difference between PyInstaller and PyOxydizer?](https://www.reddit.com/r/Python/comments/tjla5f/what_is_the_difference_between_pyinstaller_and/)
 <!-- BLOG-POST-LIST:END -->
