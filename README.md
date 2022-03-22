@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Help with a program](https://www.reddit.com/r/Python/comments/tk8wue/help_with_a_program/)
-- [I am using tomviz for electron tomography. Does anybody know where I can find a good segmentation tutorial for this in tomviz. Or do you all recommend an good open source software for doing it?](https://www.reddit.com/r/Python/comments/tk8p7t/i_am_using_tomviz_for_electron_tomography_does/)
+- [Modeling](https://www.reddit.com/r/Python/comments/tkaiv9/modeling/)
+- [Top 5 Benefits of Python Web Development That You Need to Know](https://www.reddit.com/r/Python/comments/tk9o0p/top_5_benefits_of_python_web_development_that_you/)
+- [I made a tutorial on How to convert Images to ASCII using pygame](https://www.reddit.com/r/Python/comments/tk9jqo/i_made_a_tutorial_on_how_to_convert_images_to/)
 - [Scrape Google Scholar Profiles from a certain University in Python](https://www.reddit.com/r/Python/comments/tk8itk/scrape_google_scholar_profiles_from_a_certain/)
 - [Solution for Leetcode 782 - Transform to Chessboard](https://www.reddit.com/r/Python/comments/tk82tp/solution_for_leetcode_782_transform_to_chessboard/)
-- [Running a live 45-minutes session on the fundamentals of observability, OpenTelemetry, and distributed tracing in Python](https://www.reddit.com/r/Python/comments/tk71j6/running_a_live_45minutes_session_on_the/)
 <!-- BLOG-POST-LIST:END -->
