@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just learned implementing decorators](https://www.reddit.com/r/Python/comments/tjv4c3/just_learned_implementing_decorators/)
 - [Automate Excel Pivot Table With Python](https://www.reddit.com/r/Python/comments/tjtwdn/automate_excel_pivot_table_with_python/)
 - [The code for `import this` is amazing](https://www.reddit.com/r/Python/comments/tjskz4/the_code_for_import_this_is_amazing/)
 - [Can some one give me a step to step guide on how to convert decimal into binary](https://www.reddit.com/r/Python/comments/tjrzcv/can_some_one_give_me_a_step_to_step_guide_on_how/)
 - [Useful Tools and Programs list for Python](https://www.reddit.com/r/Python/comments/tjqlra/useful_tools_and_programs_list_for_python/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/tjpsnz/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
