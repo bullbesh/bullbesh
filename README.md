@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Modeling](https://www.reddit.com/r/Python/comments/tkaiv9/modeling/)
+- [Today i released a small package called geoiter. Used for web scraping](https://www.reddit.com/r/Python/comments/tkbqms/today_i_released_a_small_package_called_geoiter/)
+- [Directories in Python](https://www.reddit.com/r/Python/comments/tkb40y/directories_in_python/)
 - [Top 5 Benefits of Python Web Development That You Need to Know](https://www.reddit.com/r/Python/comments/tk9o0p/top_5_benefits_of_python_web_development_that_you/)
 - [I made a tutorial on How to convert Images to ASCII using pygame](https://www.reddit.com/r/Python/comments/tk9jqo/i_made_a_tutorial_on_how_to_convert_images_to/)
 - [Scrape Google Scholar Profiles from a certain University in Python](https://www.reddit.com/r/Python/comments/tk8itk/scrape_google_scholar_profiles_from_a_certain/)
-- [Solution for Leetcode 782 - Transform to Chessboard](https://www.reddit.com/r/Python/comments/tk82tp/solution_for_leetcode_782_transform_to_chessboard/)
 <!-- BLOG-POST-LIST:END -->
