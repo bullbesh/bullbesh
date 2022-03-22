@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Count down timer not updating to new time](https://www.reddit.com/r/Python/comments/tjzcew/count_down_timer_not_updating_to_new_time/)
+- [Launching Open Source python library, VevestaX: track your Machine Learning experiments and features in an excel using 5 lines of code](https://www.reddit.com/r/Python/comments/tjz9fx/launching_open_source_python_library_vevestax/)
 - [Gufo Err: Python error handling framework](https://www.reddit.com/r/Python/comments/tjykut/gufo_err_python_error_handling_framework/)
 - [Asynchronous Web Scraping With Python GRequests](https://www.reddit.com/r/Python/comments/tjy5ed/asynchronous_web_scraping_with_python_grequests/)
 - [python syntax](https://www.reddit.com/r/Python/comments/tjxth4/python_syntax/)
-- [PEP 675 titled &quot;Arbitrary Literal String Type&quot; just got accepted.](https://www.reddit.com/r/Python/comments/tjx689/pep_675_titled_arbitrary_literal_string_type_just/)
-- [How to be a Successful Python developer: Tips to help your hiring prospects](https://www.reddit.com/r/Python/comments/tjwwnn/how_to_be_a_successful_python_developer_tips_to/)
 <!-- BLOG-POST-LIST:END -->
