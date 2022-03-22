@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous Web Scraping With Python GRequests](https://www.reddit.com/r/Python/comments/tjy5ed/asynchronous_web_scraping_with_python_grequests/)
+- [python syntax](https://www.reddit.com/r/Python/comments/tjxth4/python_syntax/)
 - [PEP 675 titled &quot;Arbitrary Literal String Type&quot; just got accepted.](https://www.reddit.com/r/Python/comments/tjx689/pep_675_titled_arbitrary_literal_string_type_just/)
 - [How to be a Successful Python developer: Tips to help your hiring prospects](https://www.reddit.com/r/Python/comments/tjwwnn/how_to_be_a_successful_python_developer_tips_to/)
 - [Just learned implementing decorators](https://www.reddit.com/r/Python/comments/tjv4c3/just_learned_implementing_decorators/)
-- [Automate Excel Pivot Table With Python](https://www.reddit.com/r/Python/comments/tjtwdn/automate_excel_pivot_table_with_python/)
-- [The code for `import this` is amazing](https://www.reddit.com/r/Python/comments/tjskz4/the_code_for_import_this_is_amazing/)
 <!-- BLOG-POST-LIST:END -->
