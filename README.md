@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solution for Leetcode 782 - Transform to Chessboard](https://www.reddit.com/r/Python/comments/tk82tp/solution_for_leetcode_782_transform_to_chessboard/)
+- [Text editors are stupid, change my mind](https://www.reddit.com/r/Python/comments/tk7umy/text_editors_are_stupid_change_my_mind/)
 - [Running a live 45-minutes session on the fundamentals of observability, OpenTelemetry, and distributed tracing in Python](https://www.reddit.com/r/Python/comments/tk71j6/running_a_live_45minutes_session_on_the/)
 - [Where to learn transformers](https://www.reddit.com/r/Python/comments/tk711b/where_to_learn_transformers/)
 - [We developed a Python tool to generate a map of your embedded or edge distributed system](https://www.reddit.com/r/Python/comments/tk69zo/we_developed_a_python_tool_to_generate_a_map_of/)
-- [Any recommendations for specifically Pandas course on Coursera?](https://www.reddit.com/r/Python/comments/tk5z62/any_recommendations_for_specifically_pandas/)
-- [I&#39;ve released a cache backend that uses dynamodb which is compatible with Django&#39;s cache framework.](https://www.reddit.com/r/Python/comments/tk54q8/ive_released_a_cache_backend_that_uses_dynamodb/)
 <!-- BLOG-POST-LIST:END -->
