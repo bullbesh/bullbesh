@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mail merge in python](https://www.reddit.com/r/Python/comments/tl9dbz/mail_merge_in_python/)
 - [i created a game controller using Arduino touch sensor and python](https://www.reddit.com/r/Python/comments/tl3raq/i_created_a_game_controller_using_arduino_touch/)
 - [Creating a Python CLI with Go&lpar;lang&rpar;-comparable startup times](https://www.reddit.com/r/Python/comments/tl3jwz/creating_a_python_cli_with_golangcomparable/)
 - [Python for Clinical Research? &lpar;med student&rpar;](https://www.reddit.com/r/Python/comments/tl2usg/python_for_clinical_research_med_student/)
 - [“Like it or not, it’s going to be primarily up to Python devs to crush the business side’s dreams AI can magically make their company better.” The CTO of an AI company explains why AI can be a waste of time and resources at most companies primarily because it’s retrofitted onto existing products.](https://www.reddit.com/r/Python/comments/tkyuz8/like_it_or_not_its_going_to_be_primarily_up_to/)
-- [Minos Demo - Stocks Index Wallet with Microservices](https://www.reddit.com/r/Python/comments/tkv9ax/minos_demo_stocks_index_wallet_with_microservices/)
 <!-- BLOG-POST-LIST:END -->
