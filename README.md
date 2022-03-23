@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [PLS HELP WITH TURTLE](https://www.reddit.com/r/Python/comments/tle1sh/pls_help_with_turtle/)
-- [Text Similarity w/ Levenshtein Distance in Python](https://www.reddit.com/r/Python/comments/tldsug/text_similarity_w_levenshtein_distance_in_python/)
-- [Mail merge in python](https://www.reddit.com/r/Python/comments/tl9dbz/mail_merge_in_python/)
-- [i created a game controller using Arduino touch sensor and python](https://www.reddit.com/r/Python/comments/tl3raq/i_created_a_game_controller_using_arduino_touch/)
-- [Creating a Python CLI with Go&lpar;lang&rpar;-comparable startup times](https://www.reddit.com/r/Python/comments/tl3jwz/creating_a_python_cli_with_golangcomparable/)
+- [Can we get hired just to do EDA’s in Python ? Exploratory Data Analysis using libraries-](https://www.reddit.com/r/Python/comments/tli7e4/can_we_get_hired_just_to_do_edas_in_python/)
+- [Where will Python be in the Web3 space?](https://www.reddit.com/r/Python/comments/tlhee1/where_will_python_be_in_the_web3_space/)
+- [Pants 2.10: Multiple Python lockfile support, PyOxidizer, Thrift codegen, and better linter parallelization](https://www.reddit.com/r/Python/comments/tlgwka/pants_210_multiple_python_lockfile_support/)
+- [Programming community for freetime team projects](https://www.reddit.com/r/Python/comments/tlg6u2/programming_community_for_freetime_team_projects/)
+- [Custom BurpSuite extensions in Python: recreating Cloud2Butt](https://www.reddit.com/r/Python/comments/tlg281/custom_burpsuite_extensions_in_python_recreating/)
 <!-- BLOG-POST-LIST:END -->
