@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Right Way to Compare Floats in Python](https://www.reddit.com/r/Python/comments/tkp7wz/the_right_way_to_compare_floats_in_python/)
+- [Spotify LED Matrix](https://www.reddit.com/r/Python/comments/tkp0xt/spotify_led_matrix/)
+- [Yet another simple wordle searcher](https://www.reddit.com/r/Python/comments/tkoi7q/yet_another_simple_wordle_searcher/)
 - [How to handle null values with pandas](https://www.reddit.com/r/Python/comments/tknlwd/how_to_handle_null_values_with_pandas/)
 - [What book can i read to learn tensorflow 2 and keras for deep learning o where can I learn?](https://www.reddit.com/r/Python/comments/tkmvk3/what_book_can_i_read_to_learn_tensorflow_2_and/)
-- [I have made tool to download file or directory from github or gitlab repo](https://www.reddit.com/r/Python/comments/tkm2jc/i_have_made_tool_to_download_file_or_directory/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/tkgwne/wednesday_daily_thread_beginner_questions/)
-- [Flask web blog](https://www.reddit.com/r/Python/comments/tkgecq/flask_web_blog/)
 <!-- BLOG-POST-LIST:END -->
