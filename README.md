@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [This code changes the value of 1. How?](https://www.reddit.com/r/Python/comments/tkkqwp/this_code_changes_the_value_of_1_how/)
-- [Using electron with Python?](https://www.reddit.com/r/Python/comments/tkhr5f/using_electron_with_python/)
+- [I have made tool to download file or directory from github or gitlab repo](https://www.reddit.com/r/Python/comments/tkm2jc/i_have_made_tool_to_download_file_or_directory/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/tkgwne/wednesday_daily_thread_beginner_questions/)
 - [Flask web blog](https://www.reddit.com/r/Python/comments/tkgecq/flask_web_blog/)
 - [I Created a Visualization Package for Soccer](https://www.reddit.com/r/Python/comments/tkgccb/i_created_a_visualization_package_for_soccer/)
+- [Meta deepens its investment in the Python ecosystem](https://www.reddit.com/r/Python/comments/tkedpx/meta_deepens_its_investment_in_the_python/)
 <!-- BLOG-POST-LIST:END -->
