@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Minos Demo - Stocks Index Wallet with Microservices](https://www.reddit.com/r/Python/comments/tkv9ax/minos_demo_stocks_index_wallet_with_microservices/)
+- [Python Timer Functions: Three Ways to Monitor Your Code – Real Python](https://www.reddit.com/r/Python/comments/tkv08a/python_timer_functions_three_ways_to_monitor_your/)
 - [The top 5 advanced Python highly rated free courses On Udemy with real-world projects.](https://www.reddit.com/r/Python/comments/tkuqsi/the_top_5_advanced_python_highly_rated_free/)
 - [&lpar;I think&rpar; I stress tested matplotlib for real-time graping.](https://www.reddit.com/r/Python/comments/tkt5v8/i_think_i_stress_tested_matplotlib_for_realtime/)
 - [Python Generators](https://www.reddit.com/r/Python/comments/tksmex/python_generators/)
-- [13 ways to make money from programming](https://www.reddit.com/r/Python/comments/tkrqeb/13_ways_to_make_money_from_programming/)
-- [Bloxs: display your data in an attractive way in your notebook](https://www.reddit.com/r/Python/comments/tkrlom/bloxs_display_your_data_in_an_attractive_way_in/)
 <!-- BLOG-POST-LIST:END -->
