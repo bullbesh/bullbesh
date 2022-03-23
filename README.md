@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Meta deepens its investment in the Python ecosystem](https://www.reddit.com/r/Python/comments/tkedpx/meta_deepens_its_investment_in_the_python/)
-- [I made bubble slort. I dont think it looks clean but it works. Comments both in Polish and English](https://www.reddit.com/r/Python/comments/tkdp7o/i_made_bubble_slort_i_dont_think_it_looks_clean/)
-- [Declarative command line parser library [Heated Arguments]](https://www.reddit.com/r/Python/comments/tkcfmu/declarative_command_line_parser_library_heated/)
-- [Today i released a small package called geoiter. Used for web scraping](https://www.reddit.com/r/Python/comments/tkbqms/today_i_released_a_small_package_called_geoiter/)
-- [Directories in Python](https://www.reddit.com/r/Python/comments/tkb40y/directories_in_python/)
+- [Using electron with Python?](https://www.reddit.com/r/Python/comments/tkhr5f/using_electron_with_python/)
+- [OOP doubt](https://www.reddit.com/r/Python/comments/tkgxxv/oop_doubt/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/tkgwne/wednesday_daily_thread_beginner_questions/)
+- [Flask web blog](https://www.reddit.com/r/Python/comments/tkgecq/flask_web_blog/)
+- [I Created a Visualization Package for Soccer](https://www.reddit.com/r/Python/comments/tkgccb/i_created_a_visualization_package_for_soccer/)
 <!-- BLOG-POST-LIST:END -->
