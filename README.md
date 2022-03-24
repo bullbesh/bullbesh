@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial on GPU-based ray-casting with Python](https://www.reddit.com/r/Python/comments/tlsb8q/tutorial_on_gpubased_raycasting_with_python/)
+- [Including packages in project](https://www.reddit.com/r/Python/comments/tlp1vn/including_packages_in_project/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/tlmt0a/thursday_daily_thread_python_careers_courses_and/)
+- [Coin toss probability](https://www.reddit.com/r/Python/comments/tlkryn/coin_toss_probability/)
 - [Can we get hired just to do EDA’s in Python ? Exploratory Data Analysis using libraries-](https://www.reddit.com/r/Python/comments/tli7e4/can_we_get_hired_just_to_do_edas_in_python/)
-- [Where will Python be in the Web3 space?](https://www.reddit.com/r/Python/comments/tlhee1/where_will_python_be_in_the_web3_space/)
-- [Pants 2.10: Multiple Python lockfile support, PyOxidizer, Thrift codegen, and better linter parallelization](https://www.reddit.com/r/Python/comments/tlgwka/pants_210_multiple_python_lockfile_support/)
-- [Programming community for freetime team projects](https://www.reddit.com/r/Python/comments/tlg6u2/programming_community_for_freetime_team_projects/)
-- [Custom BurpSuite extensions in Python: recreating Cloud2Butt](https://www.reddit.com/r/Python/comments/tlg281/custom_burpsuite_extensions_in_python_recreating/)
 <!-- BLOG-POST-LIST:END -->
