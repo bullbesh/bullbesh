@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Competition from Microsoft](https://www.reddit.com/r/Python/comments/tly9pv/competition_from_microsoft/)
 - [Tutorial on GPU-based ray-casting with Python](https://www.reddit.com/r/Python/comments/tlsb8q/tutorial_on_gpubased_raycasting_with_python/)
 - [Including packages in project](https://www.reddit.com/r/Python/comments/tlp1vn/including_packages_in_project/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/tlmt0a/thursday_daily_thread_python_careers_courses_and/)
 - [Coin toss probability](https://www.reddit.com/r/Python/comments/tlkryn/coin_toss_probability/)
-- [Can we get hired just to do EDA’s in Python ? Exploratory Data Analysis using libraries-](https://www.reddit.com/r/Python/comments/tli7e4/can_we_get_hired_just_to_do_edas_in_python/)
 <!-- BLOG-POST-LIST:END -->
