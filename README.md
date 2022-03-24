@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [IDE-style autocomplete that integrates with Python tools &lpar;pip, pyenv, etc&rpar;](https://www.reddit.com/r/Python/comments/tmleui/idestyle_autocomplete_that_integrates_with_python/)
+- [Ways to learn Python at home that aren&#39;t boring](https://www.reddit.com/r/Python/comments/tmkrkz/ways_to_learn_python_at_home_that_arent_boring/)
 - [Some cool American traditional style tattoo artwork on today&#39;s Python release](https://www.reddit.com/r/Python/comments/tmg3dh/some_cool_american_traditional_style_tattoo/)
-- [Is Angela Yu&#39;s Python Course any good?](https://www.reddit.com/r/Python/comments/tme0qp/is_angela_yus_python_course_any_good/)
 - [Github - Multiplatform &lpar;arm7, arm64, amd64&rpar; Docker Image for Celery with precompiled gevent](https://www.reddit.com/r/Python/comments/tmcp8z/github_multiplatform_arm7_arm64_amd64_docker/)
 - [Animating a Sprite Sheet in Python w/ PyGame](https://www.reddit.com/r/Python/comments/tmbg9f/animating_a_sprite_sheet_in_python_w_pygame/)
-- [Flask Geolocation App](https://www.reddit.com/r/Python/comments/tmay2q/flask_geolocation_app/)
 <!-- BLOG-POST-LIST:END -->
