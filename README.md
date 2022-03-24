@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning coding](https://www.reddit.com/r/Python/comments/tmzo6d/learning_coding/)
+- [Guido van Rossum on Twitter: It&#39;s happening! BPO is migrating to GitHub tomorrow.](https://www.reddit.com/r/Python/comments/tn4lyj/guido_van_rossum_on_twitter_its_happening_bpo_is/)
 - [Is Spock-Config the only tool that integrates object-oriented config files and command-line interfaces?](https://www.reddit.com/r/Python/comments/tmz4yi/is_spockconfig_the_only_tool_that_integrates/)
 - [Performance: SQLAlchemy vs Django vs EdgeDB](https://www.reddit.com/r/Python/comments/tmqev6/performance_sqlalchemy_vs_django_vs_edgedb/)
 - [IDE-style autocomplete that integrates with Python tools &lpar;pip, pyenv, etc&rpar;](https://www.reddit.com/r/Python/comments/tmleui/idestyle_autocomplete_that_integrates_with_python/)
