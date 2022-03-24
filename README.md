@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tree Traversal Algorithms in Python-InsideAIML](https://www.reddit.com/r/Python/comments/tm3jvl/tree_traversal_algorithms_in_pythoninsideaiml/)
+- [Scientific computation using NumPy library](https://www.reddit.com/r/Python/comments/tm30b4/scientific_computation_using_numpy_library/)
+- [Learn Python yield interactively from your browser!](https://www.reddit.com/r/Python/comments/tm2yyc/learn_python_yield_interactively_from_your_browser/)
+- [RaViewer: parsing and displaying binary data straight from camera &lpar;made with Dear PyGui&rpar;](https://www.reddit.com/r/Python/comments/tm2wb6/raviewer_parsing_and_displaying_binary_data/)
 - [httpx worked fine for me... any reason to consider urllib3?](https://www.reddit.com/r/Python/comments/tm1grs/httpx_worked_fine_for_me_any_reason_to_consider/)
-- [Python interaction with Windows command prompt](https://www.reddit.com/r/Python/comments/tm1cg4/python_interaction_with_windows_command_prompt/)
-- [I created a Python Script to find out Broken links by scanning entire WordPress Website](https://www.reddit.com/r/Python/comments/tlzj7n/i_created_a_python_script_to_find_out_broken/)
-- [5 Python Libraries for Automating OSINT Operations](https://www.reddit.com/r/Python/comments/tlz7q5/5_python_libraries_for_automating_osint_operations/)
-- [Tutorial on GPU-based ray-casting with Python](https://www.reddit.com/r/Python/comments/tlsb8q/tutorial_on_gpubased_raycasting_with_python/)
 <!-- BLOG-POST-LIST:END -->
