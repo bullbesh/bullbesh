@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Python Libraries for Automating OSINT Operations](https://www.reddit.com/r/Python/comments/tlz7q5/5_python_libraries_for_automating_osint_operations/)
 - [Competition from Microsoft](https://www.reddit.com/r/Python/comments/tly9pv/competition_from_microsoft/)
 - [Tutorial on GPU-based ray-casting with Python](https://www.reddit.com/r/Python/comments/tlsb8q/tutorial_on_gpubased_raycasting_with_python/)
 - [Including packages in project](https://www.reddit.com/r/Python/comments/tlp1vn/including_packages_in_project/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/tlmt0a/thursday_daily_thread_python_careers_courses_and/)
-- [Coin toss probability](https://www.reddit.com/r/Python/comments/tlkryn/coin_toss_probability/)
 <!-- BLOG-POST-LIST:END -->
