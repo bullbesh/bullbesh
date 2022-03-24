@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Some cool American traditional style tattoo artwork on today&#39;s Python release](https://www.reddit.com/r/Python/comments/tmg3dh/some_cool_american_traditional_style_tattoo/)
+- [Is Angela Yu&#39;s Python Course any good?](https://www.reddit.com/r/Python/comments/tme0qp/is_angela_yus_python_course_any_good/)
 - [Github - Multiplatform &lpar;arm7, arm64, amd64&rpar; Docker Image for Celery with precompiled gevent](https://www.reddit.com/r/Python/comments/tmcp8z/github_multiplatform_arm7_arm64_amd64_docker/)
 - [Animating a Sprite Sheet in Python w/ PyGame](https://www.reddit.com/r/Python/comments/tmbg9f/animating_a_sprite_sheet_in_python_w_pygame/)
 - [Flask Geolocation App](https://www.reddit.com/r/Python/comments/tmay2q/flask_geolocation_app/)
-- [How to create a digital clock with python easily](https://www.reddit.com/r/Python/comments/tmabdm/how_to_create_a_digital_clock_with_python_easily/)
-- [OpenTelemetry and Python: A Complete Instrumentation Guide](https://www.reddit.com/r/Python/comments/tm8jte/opentelemetry_and_python_a_complete/)
 <!-- BLOG-POST-LIST:END -->
