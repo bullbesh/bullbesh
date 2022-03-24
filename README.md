@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for AWS Lambda Functions: A Beginner&#39;s Guide and Tutorial](https://www.reddit.com/r/Python/comments/tn7qfv/python_for_aws_lambda_functions_a_beginners_guide/)
 - [A simple python3 script to keep 2 folders synced](https://www.reddit.com/r/Python/comments/tn733z/a_simple_python3_script_to_keep_2_folders_synced/)
 - [Guido van Rossum on Twitter: It&#39;s happening! BPO is migrating to GitHub tomorrow.](https://www.reddit.com/r/Python/comments/tn4lyj/guido_van_rossum_on_twitter_its_happening_bpo_is/)
 - [Is Spock-Config the only tool that integrates object-oriented config files and command-line interfaces?](https://www.reddit.com/r/Python/comments/tmz4yi/is_spockconfig_the_only_tool_that_integrates/)
 - [Performance: SQLAlchemy vs Django vs EdgeDB](https://www.reddit.com/r/Python/comments/tmqev6/performance_sqlalchemy_vs_django_vs_edgedb/)
-- [IDE-style autocomplete that integrates with Python tools &lpar;pip, pyenv, etc&rpar;](https://www.reddit.com/r/Python/comments/tmleui/idestyle_autocomplete_that_integrates_with_python/)
 <!-- BLOG-POST-LIST:END -->
