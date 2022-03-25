@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python - LinkedIn Skill Assessments Quizzes with Answers | MeshWorld](https://www.reddit.com/r/Python/comments/tnljc5/python_linkedin_skill_assessments_quizzes_with/)
+- [Encrypto - A smart algorithm for symmetric encryption](https://www.reddit.com/r/Python/comments/tnlizc/encrypto_a_smart_algorithm_for_symmetric/)
 - [Python Pub/Sub](https://www.reddit.com/r/Python/comments/tnkxf3/python_pubsub/)
-- [10 VS Code Extensions that make your coding Better](https://www.reddit.com/r/Python/comments/tnkn8c/10_vs_code_extensions_that_make_your_coding_better/)
 - [Value objects with Python](https://www.reddit.com/r/Python/comments/tnk6p3/value_objects_with_python/)
 - [Ethereum Price Email Alerts With Python](https://www.reddit.com/r/Python/comments/tnjf86/ethereum_price_email_alerts_with_python/)
-- [Reactivex like operators that can be used directly on async iterables](https://www.reddit.com/r/Python/comments/tnifu4/reactivex_like_operators_that_can_be_used/)
 <!-- BLOG-POST-LIST:END -->
