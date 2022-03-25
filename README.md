@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ethereum Price Email Alerts With Python](https://www.reddit.com/r/Python/comments/tnjf86/ethereum_price_email_alerts_with_python/)
+- [how to compile jmodelica for windows?](https://www.reddit.com/r/Python/comments/tnj1cn/how_to_compile_jmodelica_for_windows/)
 - [When to Log?](https://www.reddit.com/r/Python/comments/tnitor/when_to_log/)
 - [Reactivex like operators that can be used directly on async iterables](https://www.reddit.com/r/Python/comments/tnifu4/reactivex_like_operators_that_can_be_used/)
 - [Sentry-sdk in 0ython project](https://www.reddit.com/r/Python/comments/tnhqu1/sentrysdk_in_0ython_project/)
-- [Scrape Google Top Carousel Results in Python](https://www.reddit.com/r/Python/comments/tngota/scrape_google_top_carousel_results_in_python/)
-- [Build a Word Guessing Game in Python [video + source code]](https://www.reddit.com/r/Python/comments/tngfjr/build_a_word_guessing_game_in_python_video_source/)
 <!-- BLOG-POST-LIST:END -->
