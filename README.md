@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Word Guessing Game in Python [video + source code]](https://www.reddit.com/r/Python/comments/tngfjr/build_a_word_guessing_game_in_python_video_source/)
+- [Build your own Feature Rich J.A.R.V.I.S in Python - Python Project](https://www.reddit.com/r/Python/comments/tngd7q/build_your_own_feature_rich_jarvis_in_python/)
 - [Meta donates $300,000 to the Python Software Foundation](https://www.reddit.com/r/Python/comments/tnfh9l/meta_donates_300000_to_the_python_software/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/tn96gz/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Python for AWS Lambda Functions: A Beginner&#39;s Guide and Tutorial](https://www.reddit.com/r/Python/comments/tn7qfv/python_for_aws_lambda_functions_a_beginners_guide/)
-- [A simple python3 script to keep 2 folders synced](https://www.reddit.com/r/Python/comments/tn733z/a_simple_python3_script_to_keep_2_folders_synced/)
-- [Guido van Rossum on Twitter: It&#39;s happening! BPO is migrating to GitHub tomorrow.](https://www.reddit.com/r/Python/comments/tn4lyj/guido_van_rossum_on_twitter_its_happening_bpo_is/)
 <!-- BLOG-POST-LIST:END -->
