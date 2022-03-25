@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [🦾📧 𝙎𝙞𝙢𝙥𝙡𝙚 𝙀𝙢𝙖𝙞𝙡 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙤𝙣 𝙬𝙞𝙩𝙝 𝙋𝙮𝙩𝙝𝙤𝙣 | 𝙒𝙤𝙧𝙠 𝙀𝙛𝙛𝙞𝙘𝙞𝙚𝙣𝙩𝙡𝙮 𝙬𝙞𝙩𝙝 𝙩𝙝𝙞𝙨 𝙔𝙖𝙜𝙢𝙖𝙞𝙡 𝙀𝙢𝙖𝙞𝙡 𝘽𝙤𝙩](https://www.reddit.com/r/Python/comments/tnwa09/𝙎𝙞𝙢𝙥𝙡𝙚_𝙀𝙢𝙖𝙞𝙡_𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙤𝙣_𝙬𝙞𝙩𝙝_𝙋𝙮𝙩𝙝𝙤𝙣_𝙒𝙤𝙧𝙠/)
+- [Kids Learn to Code in Python with the Raspberry Pi Foundation](https://www.reddit.com/r/Python/comments/tnw8zx/kids_learn_to_code_in_python_with_the_raspberry/)
+- [Merging code?](https://www.reddit.com/r/Python/comments/tnw6wq/merging_code/)
 - [can python replicate this plot with another library, if not in matplotlib? &lpar;x-post Income and Wealth Inequality Over Time, in 50 countries&rpar;](https://www.reddit.com/r/Python/comments/tntwu4/can_python_replicate_this_plot_with_another/)
 - [I&#39;ve built a wrapper that makes building Telegram Bots a lot easier](https://www.reddit.com/r/Python/comments/tnsarp/ive_built_a_wrapper_that_makes_building_telegram/)
-- [I Made a Hangman Game with Music, Light Artwork, and Sound Effects &lpar;GitHub Repo Below&rpar;](https://www.reddit.com/r/Python/comments/tns9go/i_made_a_hangman_game_with_music_light_artwork/)
-- [Help with Project](https://www.reddit.com/r/Python/comments/tnq94q/help_with_project/)
-- [A free and flexible translation library in python](https://www.reddit.com/r/Python/comments/tnp85j/a_free_and_flexible_translation_library_in_python/)
 <!-- BLOG-POST-LIST:END -->
