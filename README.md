@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help with Project](https://www.reddit.com/r/Python/comments/tnq94q/help_with_project/)
 - [A free and flexible translation library in python](https://www.reddit.com/r/Python/comments/tnp85j/a_free_and_flexible_translation_library_in_python/)
 - [Do type hints make your code slower?](https://www.reddit.com/r/Python/comments/tnp50n/do_type_hints_make_your_code_slower/)
 - [GitHub - Rog3rSm1th/Frelatage: The Python Fuzzer that the world deserves](https://www.reddit.com/r/Python/comments/tnovr2/github_rog3rsm1thfrelatage_the_python_fuzzer_that/)
 - [Python Selenium Tutorial #6 - Bypass Detection using plugins, settings &amp; proxies](https://www.reddit.com/r/Python/comments/tnmxy8/python_selenium_tutorial_6_bypass_detection_using/)
-- [Python - LinkedIn Skill Assessments Quizzes with Answers | MeshWorld](https://www.reddit.com/r/Python/comments/tnljc5/python_linkedin_skill_assessments_quizzes_with/)
 <!-- BLOG-POST-LIST:END -->
