@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/tolm3h/python_cybersecurity_build_your_own_python_tools/)
 - [NiceScaler update 1.3.0](https://www.reddit.com/r/Python/comments/tok71u/nicescaler_update_130/)
 - [TUI Project Ideas](https://www.reddit.com/r/Python/comments/tok3hr/tui_project_ideas/)
 - [Pandas Data Cleaner](https://www.reddit.com/r/Python/comments/tobt7j/pandas_data_cleaner/)
 - [The Oregon Trail](https://www.reddit.com/r/Python/comments/toa6c6/the_oregon_trail/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/to8lbi/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
