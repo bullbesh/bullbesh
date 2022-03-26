@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Tutorial - How to create a Chrome Logo with Python?](https://www.reddit.com/r/Python/comments/tozkyh/python_tutorial_how_to_create_a_chrome_logo_with/)
 - [What software written by non-programmers has impressed you?](https://www.reddit.com/r/Python/comments/tozixo/what_software_written_by_nonprogrammers_has/)
 - [Show r/python: Sailor - a tiny PaaS to install on your servers/VPS that uses git push to deploy micro-apps, micro-services, sites with SSL, on your own servers or VPS](https://www.reddit.com/r/Python/comments/tozhrt/show_rpython_sailor_a_tiny_paas_to_install_on/)
 - [Interview with a Postdoc, Junior Python Developer in 2022](https://www.reddit.com/r/Python/comments/toy9gu/interview_with_a_postdoc_junior_python_developer/)
 - [What is the most pythonic way to limit while loop iterations?](https://www.reddit.com/r/Python/comments/towbf7/what_is_the_most_pythonic_way_to_limit_while_loop/)
+- [Image Processing With the Python Pillow Library – Real Python](https://www.reddit.com/r/Python/comments/tov052/image_processing_with_the_python_pillow_library/)
 <!-- BLOG-POST-LIST:END -->
