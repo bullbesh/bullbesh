@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Oregon Trail](https://www.reddit.com/r/Python/comments/toa6c6/the_oregon_trail/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/to8lbi/saturday_daily_thread_resource_request_and/)
+- [What&#39;s the dumbest, trivial, shoddily-written project you&#39;ve made that somehow impressed a non-programmer?](https://www.reddit.com/r/Python/comments/to8jhz/whats_the_dumbest_trivial_shoddilywritten_project/)
 - [AI Project Ideas](https://www.reddit.com/r/Python/comments/to33to/ai_project_ideas/)
 - [pointers.py - segmentation faults in python](https://www.reddit.com/r/Python/comments/tnz5uw/pointerspy_segmentation_faults_in_python/)
-- [Kids Learn to Code in Python with the Raspberry Pi Foundation](https://www.reddit.com/r/Python/comments/tnw8zx/kids_learn_to_code_in_python_with_the_raspberry/)
-- [I&#39;ve built a wrapper that makes building Telegram Bots a lot easier](https://www.reddit.com/r/Python/comments/tnsarp/ive_built_a_wrapper_that_makes_building_telegram/)
-- [I Made a Hangman Game with Music, Light Artwork, and Sound Effects &lpar;GitHub Repo Below&rpar;](https://www.reddit.com/r/Python/comments/tns9go/i_made_a_hangman_game_with_music_light_artwork/)
 <!-- BLOG-POST-LIST:END -->
