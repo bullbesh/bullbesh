@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Key Event Sending to an Application Wrapper I made](https://www.reddit.com/r/Python/comments/toryjt/simple_key_event_sending_to_an_application/)
+- [ML-based Crop Prediction with Python and Flask- compilation and making it into a web app with Flask](https://www.reddit.com/r/Python/comments/torggi/mlbased_crop_prediction_with_python_and_flask/)
 - [python to build an existing content checker tool?](https://www.reddit.com/r/Python/comments/toojpa/python_to_build_an_existing_content_checker_tool/)
 - [Encrypto - A simple way of complicating/encrypting data](https://www.reddit.com/r/Python/comments/tonad8/encrypto_a_simple_way_of_complicatingencrypting/)
 - [Creating mp4 clips with soccer data and Python](https://www.reddit.com/r/Python/comments/tomsiv/creating_mp4_clips_with_soccer_data_and_python/)
-- [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/tolm3h/python_cybersecurity_build_your_own_python_tools/)
-- [NiceScaler update 1.3.0](https://www.reddit.com/r/Python/comments/tok71u/nicescaler_update_130/)
 <!-- BLOG-POST-LIST:END -->
