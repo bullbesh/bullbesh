@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Simple Key Event Sending to an Application Wrapper I made](https://www.reddit.com/r/Python/comments/toryjt/simple_key_event_sending_to_an_application/)
-- [ML-based Crop Prediction with Python and Flask- compilation and making it into a web app with Flask](https://www.reddit.com/r/Python/comments/torggi/mlbased_crop_prediction_with_python_and_flask/)
-- [python to build an existing content checker tool?](https://www.reddit.com/r/Python/comments/toojpa/python_to_build_an_existing_content_checker_tool/)
-- [Encrypto - A simple way of complicating/encrypting data](https://www.reddit.com/r/Python/comments/tonad8/encrypto_a_simple_way_of_complicatingencrypting/)
-- [Creating mp4 clips with soccer data and Python](https://www.reddit.com/r/Python/comments/tomsiv/creating_mp4_clips_with_soccer_data_and_python/)
+- [What is the most pythonic way to limit while loop iterations?](https://www.reddit.com/r/Python/comments/towbf7/what_is_the_most_pythonic_way_to_limit_while_loop/)
+- [Image Processing With the Python Pillow Library – Real Python](https://www.reddit.com/r/Python/comments/tov052/image_processing_with_the_python_pillow_library/)
+- [Is this possible to create ?](https://www.reddit.com/r/Python/comments/totxcv/is_this_possible_to_create/)
+- [oCrypt0r - AES encryption library](https://www.reddit.com/r/Python/comments/tosyou/ocrypt0r_aes_encryption_library/)
+- [PIPELY - new lightweight pipeline library](https://www.reddit.com/r/Python/comments/tosvcq/pipely_new_lightweight_pipeline_library/)
 <!-- BLOG-POST-LIST:END -->
