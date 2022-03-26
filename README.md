@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Full Course - 2022 | Python Tutorial for Beginners [2022] in 3.5 Hours](https://www.reddit.com/r/Python/comments/tp2caa/python_full_course_2022_python_tutorial_for/)
+- [Space Science with Python - AI 1-9: A Convolutional Approach](https://www.reddit.com/r/Python/comments/tp0vo1/space_science_with_python_ai_19_a_convolutional/)
 - [What software written by non-programmers has impressed you?](https://www.reddit.com/r/Python/comments/tozixo/what_software_written_by_nonprogrammers_has/)
 - [Show r/python: Sailor - a tiny PaaS to install on your servers/VPS that uses git push to deploy micro-apps, micro-services, sites with SSL, on your own servers or VPS](https://www.reddit.com/r/Python/comments/tozhrt/show_rpython_sailor_a_tiny_paas_to_install_on/)
 - [Interview with a Postdoc, Junior Python Developer in 2022](https://www.reddit.com/r/Python/comments/toy9gu/interview_with_a_postdoc_junior_python_developer/)
-- [What is the most pythonic way to limit while loop iterations?](https://www.reddit.com/r/Python/comments/towbf7/what_is_the_most_pythonic_way_to_limit_while_loop/)
-- [Image Processing With the Python Pillow Library – Real Python](https://www.reddit.com/r/Python/comments/tov052/image_processing_with_the_python_pillow_library/)
 <!-- BLOG-POST-LIST:END -->
