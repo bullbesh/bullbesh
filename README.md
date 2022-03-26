@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [toolgui: A modular event-driven GUI system for quickly building tools with Python and pyimgui.](https://www.reddit.com/r/Python/comments/tp50ru/toolgui_a_modular_eventdriven_gui_system_for/)
+- [Arcade version 2.6.13 has been released](https://www.reddit.com/r/Python/comments/tp4o3d/arcade_version_2613_has_been_released/)
+- [Looking for a tax library!](https://www.reddit.com/r/Python/comments/tp4lul/looking_for_a_tax_library/)
 - [Why is Python so popular?](https://www.reddit.com/r/Python/comments/tp3od4/why_is_python_so_popular/)
 - [Python Full Course - 2022 | Python Tutorial for Beginners [2022] in 3.5 Hours](https://www.reddit.com/r/Python/comments/tp2caa/python_full_course_2022_python_tutorial_for/)
-- [Space Science with Python - AI 1-9: A Convolutional Approach](https://www.reddit.com/r/Python/comments/tp0vo1/space_science_with_python_ai_19_a_convolutional/)
-- [What software written by non-programmers has impressed you?](https://www.reddit.com/r/Python/comments/tozixo/what_software_written_by_nonprogrammers_has/)
-- [Show r/python: Sailor - a tiny PaaS to install on your servers/VPS that uses git push to deploy micro-apps, micro-services, sites with SSL, on your own servers or VPS](https://www.reddit.com/r/Python/comments/tozhrt/show_rpython_sailor_a_tiny_paas_to_install_on/)
 <!-- BLOG-POST-LIST:END -->
