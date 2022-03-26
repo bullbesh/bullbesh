@@ -15,8 +15,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [python to build an existing content checker tool?](https://www.reddit.com/r/Python/comments/toojpa/python_to_build_an_existing_content_checker_tool/)
 - [Encrypto - A simple way of complicating/encrypting data](https://www.reddit.com/r/Python/comments/tonad8/encrypto_a_simple_way_of_complicatingencrypting/)
-- [JOIN ME](https://www.reddit.com/r/Python/comments/ton3xu/join_me/)
 - [Creating mp4 clips with soccer data and Python](https://www.reddit.com/r/Python/comments/tomsiv/creating_mp4_clips_with_soccer_data_and_python/)
 - [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/tolm3h/python_cybersecurity_build_your_own_python_tools/)
 - [NiceScaler update 1.3.0](https://www.reddit.com/r/Python/comments/tok71u/nicescaler_update_130/)
