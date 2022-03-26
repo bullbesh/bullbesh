@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NiceScaler update 1.3.0](https://www.reddit.com/r/Python/comments/tok71u/nicescaler_update_130/)
+- [TUI Project Ideas](https://www.reddit.com/r/Python/comments/tok3hr/tui_project_ideas/)
 - [Pandas Data Cleaner](https://www.reddit.com/r/Python/comments/tobt7j/pandas_data_cleaner/)
 - [The Oregon Trail](https://www.reddit.com/r/Python/comments/toa6c6/the_oregon_trail/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/to8lbi/saturday_daily_thread_resource_request_and/)
-- [What&#39;s the dumbest, trivial, shoddily-written project you&#39;ve made that somehow impressed a non-programmer?](https://www.reddit.com/r/Python/comments/to8jhz/whats_the_dumbest_trivial_shoddilywritten_project/)
-- [AI Project Ideas](https://www.reddit.com/r/Python/comments/to33to/ai_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
