@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why sorted&lpar;str&rpar; cannot be a key in a dict](https://www.reddit.com/r/Python/comments/tpngrl/why_sortedstr_cannot_be_a_key_in_a_dict/)
+- [Actionable Notification with Callback in Python](https://www.reddit.com/r/Python/comments/tpmfni/actionable_notification_with_callback_in_python/)
 - [Django 4 0 with Amazon RDS &amp; Elastic Beanstalk Full Course](https://www.reddit.com/r/Python/comments/tpky84/django_4_0_with_amazon_rds_elastic_beanstalk_full/)
 - [Improved version of Al Sweigart&#39;s swordfish program](https://www.reddit.com/r/Python/comments/tpkr49/improved_version_of_al_sweigarts_swordfish_program/)
 - [Learn Blockchain Concepts Practically With Python](https://www.reddit.com/r/Python/comments/tpjodl/learn_blockchain_concepts_practically_with_python/)
-- [PYVAULT - PYVAULT is a python program with which you can secure your precious passwords very easily.](https://www.reddit.com/r/Python/comments/tpic7y/pyvault_pyvault_is_a_python_program_with_which/)
-- [python-nbxmpp 2.0.6 out!](https://www.reddit.com/r/Python/comments/tpi6fh/pythonnbxmpp_206_out/)
 <!-- BLOG-POST-LIST:END -->
