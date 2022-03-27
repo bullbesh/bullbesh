@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How did your coding style in python change after you learned another language?](https://www.reddit.com/r/Python/comments/tpu9p2/how_did_your_coding_style_in_python_change_after/)
+- [Guys I need your help in Pyqt5](https://www.reddit.com/r/Python/comments/tptn04/guys_i_need_your_help_in_pyqt5/)
 - [tesseract or &quot;ocr&quot; for images, rather than text](https://www.reddit.com/r/Python/comments/tprua7/tesseract_or_ocr_for_images_rather_than_text/)
 - [creating a task](https://www.reddit.com/r/Python/comments/tppr4h/creating_a_task/)
 - [Build signed .aab with Kivy, Buildozer for Google Play Store &lpar;Windows &amp; ...](https://www.reddit.com/r/Python/comments/tppdqx/build_signed_aab_with_kivy_buildozer_for_google/)
-- [Made a Flask boilerplate using a services oriented structure](https://www.reddit.com/r/Python/comments/tpp9y4/made_a_flask_boilerplate_using_a_services/)
-- [Python Double Entry Accounting Projects](https://www.reddit.com/r/Python/comments/tpomi2/python_double_entry_accounting_projects/)
 <!-- BLOG-POST-LIST:END -->
