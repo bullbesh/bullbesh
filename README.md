@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apilytics open-source middleware available for Flask! Install in 5 minutes and visualize all important metrics from your Flask backend](https://www.reddit.com/r/Python/comments/tpntm0/apilytics_opensource_middleware_available_for/)
 - [Why sorted&lpar;str&rpar; cannot be a key in a dict](https://www.reddit.com/r/Python/comments/tpngrl/why_sortedstr_cannot_be_a_key_in_a_dict/)
 - [Actionable Notification with Callback in Python](https://www.reddit.com/r/Python/comments/tpmfni/actionable_notification_with_callback_in_python/)
 - [Django 4 0 with Amazon RDS &amp; Elastic Beanstalk Full Course](https://www.reddit.com/r/Python/comments/tpky84/django_4_0_with_amazon_rds_elastic_beanstalk_full/)
 - [Improved version of Al Sweigart&#39;s swordfish program](https://www.reddit.com/r/Python/comments/tpkr49/improved_version_of_al_sweigarts_swordfish_program/)
-- [Learn Blockchain Concepts Practically With Python](https://www.reddit.com/r/Python/comments/tpjodl/learn_blockchain_concepts_practically_with_python/)
 <!-- BLOG-POST-LIST:END -->
