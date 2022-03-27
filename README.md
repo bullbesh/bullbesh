@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [tesseract or &quot;ocr&quot; for images, rather than text](https://www.reddit.com/r/Python/comments/tprua7/tesseract_or_ocr_for_images_rather_than_text/)
 - [creating a task](https://www.reddit.com/r/Python/comments/tppr4h/creating_a_task/)
 - [Build signed .aab with Kivy, Buildozer for Google Play Store &lpar;Windows &amp; ...](https://www.reddit.com/r/Python/comments/tppdqx/build_signed_aab_with_kivy_buildozer_for_google/)
 - [Made a Flask boilerplate using a services oriented structure](https://www.reddit.com/r/Python/comments/tpp9y4/made_a_flask_boilerplate_using_a_services/)
 - [Python Double Entry Accounting Projects](https://www.reddit.com/r/Python/comments/tpomi2/python_double_entry_accounting_projects/)
-- [Apilytics open-source middleware available for Flask! Install in 5 minutes and visualize all important metrics from your Flask backend](https://www.reddit.com/r/Python/comments/tpntm0/apilytics_opensource_middleware_available_for/)
 <!-- BLOG-POST-LIST:END -->
