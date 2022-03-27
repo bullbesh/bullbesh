@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Backtesting A Put Option With An Example Of A Sell Put](https://www.reddit.com/r/Python/comments/tpggqk/backtesting_a_put_option_with_an_example_of_a/)
+- [I made a Python program that AUTOMATICALLY edits YouTube Videos!](https://www.reddit.com/r/Python/comments/tpgeiw/i_made_a_python_program_that_automatically_edits/)
 - [I&#39;ve created a extension for the Tornado framework that makes working with the framework easier and code development faster.](https://www.reddit.com/r/Python/comments/tpfzq3/ive_created_a_extension_for_the_tornado_framework/)
 - [How to make analyzer of COVID mortality in Python](https://www.reddit.com/r/Python/comments/tpehvr/how_to_make_analyzer_of_covid_mortality_in_python/)
 - [deltatime64](https://www.reddit.com/r/Python/comments/tpdlr6/deltatime64/)
-- [Python coders who also play Warzone](https://www.reddit.com/r/Python/comments/tpcnwq/python_coders_who_also_play_warzone/)
-- [Trying to create a webpage that generates a random background colour everytime someone refreshes it or loads it. Any help??? What would I type into my html file, in this case I also have an app.py file. Sorry I’m a beginner.](https://www.reddit.com/r/Python/comments/tpb3pc/trying_to_create_a_webpage_that_generates_a/)
 <!-- BLOG-POST-LIST:END -->
