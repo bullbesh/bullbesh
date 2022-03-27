@@ -15,7 +15,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [hi guys I&#39;m just started learning python there is a problem I can not solve I need your help please let me know if you can help me](https://www.reddit.com/r/Python/comments/tpf58k/hi_guys_im_just_started_learning_python_there_is/)
+- [I&#39;ve created a extension for the Tornado framework that makes working with the framework easier and code development faster.](https://www.reddit.com/r/Python/comments/tpfzq3/ive_created_a_extension_for_the_tornado_framework/)
 - [How to make analyzer of COVID mortality in Python](https://www.reddit.com/r/Python/comments/tpehvr/how_to_make_analyzer_of_covid_mortality_in_python/)
 - [deltatime64](https://www.reddit.com/r/Python/comments/tpdlr6/deltatime64/)
 - [Python coders who also play Warzone](https://www.reddit.com/r/Python/comments/tpcnwq/python_coders_who_also_play_warzone/)
