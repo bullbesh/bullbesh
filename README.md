@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [creating a task](https://www.reddit.com/r/Python/comments/tppr4h/creating_a_task/)
+- [Build signed .aab with Kivy, Buildozer for Google Play Store &lpar;Windows &amp; ...](https://www.reddit.com/r/Python/comments/tppdqx/build_signed_aab_with_kivy_buildozer_for_google/)
+- [Made a Flask boilerplate using a services oriented structure](https://www.reddit.com/r/Python/comments/tpp9y4/made_a_flask_boilerplate_using_a_services/)
+- [Python Double Entry Accounting Projects](https://www.reddit.com/r/Python/comments/tpomi2/python_double_entry_accounting_projects/)
 - [Apilytics open-source middleware available for Flask! Install in 5 minutes and visualize all important metrics from your Flask backend](https://www.reddit.com/r/Python/comments/tpntm0/apilytics_opensource_middleware_available_for/)
-- [Why sorted&lpar;str&rpar; cannot be a key in a dict](https://www.reddit.com/r/Python/comments/tpngrl/why_sortedstr_cannot_be_a_key_in_a_dict/)
-- [Actionable Notification with Callback in Python](https://www.reddit.com/r/Python/comments/tpmfni/actionable_notification_with_callback_in_python/)
-- [Django 4 0 with Amazon RDS &amp; Elastic Beanstalk Full Course](https://www.reddit.com/r/Python/comments/tpky84/django_4_0_with_amazon_rds_elastic_beanstalk_full/)
-- [Improved version of Al Sweigart&#39;s swordfish program](https://www.reddit.com/r/Python/comments/tpkr49/improved_version_of_al_sweigarts_swordfish_program/)
 <!-- BLOG-POST-LIST:END -->
