@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made my first gui program!](https://www.reddit.com/r/Python/comments/tpak0x/i_made_my_first_gui_program/)
+- [Tools for designing hardware in Python](https://www.reddit.com/r/Python/comments/tpa4eo/tools_for_designing_hardware_in_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/tp7ye1/sunday_daily_thread_whats_everyone_working_on/)
 - [Live video to ascii](https://www.reddit.com/r/Python/comments/tp684n/live_video_to_ascii/)
 - [toolgui: A modular event-driven GUI system for quickly building tools with Python and pyimgui.](https://www.reddit.com/r/Python/comments/tp50ru/toolgui_a_modular_eventdriven_gui_system_for/)
-- [Arcade version 2.6.13 has been released](https://www.reddit.com/r/Python/comments/tp4o3d/arcade_version_2613_has_been_released/)
-- [Looking for a tax library!](https://www.reddit.com/r/Python/comments/tp4lul/looking_for_a_tax_library/)
 <!-- BLOG-POST-LIST:END -->
