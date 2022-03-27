@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trying to create a webpage that generates a random background colour everytime someone refreshes it or loads it. Any help??? What would I type into my html file, in this case I also have an app.py file. Sorry I’m a beginner.](https://www.reddit.com/r/Python/comments/tpb3pc/trying_to_create_a_webpage_that_generates_a/)
+- [Using Python and Django, I&#39;ve built to a GPT-3 powered web application to help myself write better](https://www.reddit.com/r/Python/comments/tpb1qd/using_python_and_django_ive_built_to_a_gpt3/)
 - [I made my first gui program!](https://www.reddit.com/r/Python/comments/tpak0x/i_made_my_first_gui_program/)
 - [Tools for designing hardware in Python](https://www.reddit.com/r/Python/comments/tpa4eo/tools_for_designing_hardware_in_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/tp7ye1/sunday_daily_thread_whats_everyone_working_on/)
-- [Live video to ascii](https://www.reddit.com/r/Python/comments/tp684n/live_video_to_ascii/)
-- [toolgui: A modular event-driven GUI system for quickly building tools with Python and pyimgui.](https://www.reddit.com/r/Python/comments/tp50ru/toolgui_a_modular_eventdriven_gui_system_for/)
 <!-- BLOG-POST-LIST:END -->
