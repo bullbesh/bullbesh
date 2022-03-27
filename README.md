@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HELP](https://www.reddit.com/r/Python/comments/tphi4q/help/)
 - [Backtesting A Put Option With An Example Of A Sell Put](https://www.reddit.com/r/Python/comments/tpggqk/backtesting_a_put_option_with_an_example_of_a/)
 - [I made a Python program that AUTOMATICALLY edits YouTube Videos!](https://www.reddit.com/r/Python/comments/tpgeiw/i_made_a_python_program_that_automatically_edits/)
 - [I&#39;ve created a extension for the Tornado framework that makes working with the framework easier and code development faster.](https://www.reddit.com/r/Python/comments/tpfzq3/ive_created_a_extension_for_the_tornado_framework/)
 - [How to make analyzer of COVID mortality in Python](https://www.reddit.com/r/Python/comments/tpehvr/how_to_make_analyzer_of_covid_mortality_in_python/)
-- [deltatime64](https://www.reddit.com/r/Python/comments/tpdlr6/deltatime64/)
 <!-- BLOG-POST-LIST:END -->
