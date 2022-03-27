@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [hi guys I&#39;m just started learning python there is a problem I can not solve I need your help please let me know if you can help me](https://www.reddit.com/r/Python/comments/tpf58k/hi_guys_im_just_started_learning_python_there_is/)
 - [How to make analyzer of COVID mortality in Python](https://www.reddit.com/r/Python/comments/tpehvr/how_to_make_analyzer_of_covid_mortality_in_python/)
 - [deltatime64](https://www.reddit.com/r/Python/comments/tpdlr6/deltatime64/)
 - [Python coders who also play Warzone](https://www.reddit.com/r/Python/comments/tpcnwq/python_coders_who_also_play_warzone/)
 - [Trying to create a webpage that generates a random background colour everytime someone refreshes it or loads it. Any help??? What would I type into my html file, in this case I also have an app.py file. Sorry I’m a beginner.](https://www.reddit.com/r/Python/comments/tpb3pc/trying_to_create_a_webpage_that_generates_a/)
-- [Using Python and Django, I&#39;ve built to a GPT-3 powered web application to help myself write better](https://www.reddit.com/r/Python/comments/tpb1qd/using_python_and_django_ive_built_to_a_gpt3/)
 <!-- BLOG-POST-LIST:END -->
