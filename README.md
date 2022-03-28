@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Script to pull data from websites structured data?](https://www.reddit.com/r/Python/comments/tq492l/script_to_pull_data_from_websites_structured_data/)
+- [Top python libraries/ frameworks that you suggest every one](https://www.reddit.com/r/Python/comments/tq483b/top_python_libraries_frameworks_that_you_suggest/)
 - [Top 5 Python Time Series Libraries](https://www.reddit.com/r/Python/comments/tq3cjf/top_5_python_time_series_libraries/)
 - [Master Python Comprehensions](https://www.reddit.com/r/Python/comments/tq2ain/master_python_comprehensions/)
 - [a lightweight DNS traffic flow monitor](https://www.reddit.com/r/Python/comments/tq1g8u/a_lightweight_dns_traffic_flow_monitor/)
-- [I made a small script for autoscrolling &lpar;1072 lines of code according to cloc&rpar;, it uses pynput for input and pyside6 &lpar;qt6&rpar; to display an icon &lpar;optional&rpar;](https://www.reddit.com/r/Python/comments/tq0gum/i_made_a_small_script_for_autoscrolling_1072/)
-- [What type of language is Python?](https://www.reddit.com/r/Python/comments/tpzl61/what_type_of_language_is_python/)
 <!-- BLOG-POST-LIST:END -->
