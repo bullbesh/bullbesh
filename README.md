@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Python Time Series Libraries](https://www.reddit.com/r/Python/comments/tq3cjf/top_5_python_time_series_libraries/)
 - [Master Python Comprehensions](https://www.reddit.com/r/Python/comments/tq2ain/master_python_comprehensions/)
 - [a lightweight DNS traffic flow monitor](https://www.reddit.com/r/Python/comments/tq1g8u/a_lightweight_dns_traffic_flow_monitor/)
 - [I made a small script for autoscrolling &lpar;1072 lines of code according to cloc&rpar;, it uses pynput for input and pyside6 &lpar;qt6&rpar; to display an icon &lpar;optional&rpar;](https://www.reddit.com/r/Python/comments/tq0gum/i_made_a_small_script_for_autoscrolling_1072/)
 - [What type of language is Python?](https://www.reddit.com/r/Python/comments/tpzl61/what_type_of_language_is_python/)
-- [List comprehension vs multiplying a list differences?](https://www.reddit.com/r/Python/comments/tpz8kn/list_comprehension_vs_multiplying_a_list/)
 <!-- BLOG-POST-LIST:END -->
