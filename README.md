@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Question: best ways to build Python command line utilities](https://www.reddit.com/r/Python/comments/tqgwm3/question_best_ways_to_build_python_command_line/)
+- [Hello. How to choose the first project after courses for full beginners? What should i create so that it will teach me ?](https://www.reddit.com/r/Python/comments/tqgrdb/hello_how_to_choose_the_first_project_after/)
+- [ONNX to PyTorch](https://www.reddit.com/r/Python/comments/tqgjsk/onnx_to_pytorch/)
 - [Software Engineering Tools and Best Practices for Data Science](https://www.reddit.com/r/Python/comments/tqfr47/software_engineering_tools_and_best_practices_for/)
-- [student-friendly courses](https://www.reddit.com/r/Python/comments/tqejhr/studentfriendly_courses/)
 - [A zoo for decorators](https://www.reddit.com/r/Python/comments/tqefp4/a_zoo_for_decorators/)
-- [I made my own Task Deadline Tracker using Python!](https://www.reddit.com/r/Python/comments/tqe3tx/i_made_my_own_task_deadline_tracker_using_python/)
-- [Python project that swipes for me on Tinder](https://www.reddit.com/r/Python/comments/tqdf63/python_project_that_swipes_for_me_on_tinder/)
 <!-- BLOG-POST-LIST:END -->
