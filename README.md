@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a small script for autoscrolling &lpar;1072 lines of code according to cloc&rpar;, it uses pynput for input and pyside6 &lpar;qt6&rpar; to display an icon &lpar;optional&rpar;](https://www.reddit.com/r/Python/comments/tq0gum/i_made_a_small_script_for_autoscrolling_1072/)
 - [What type of language is Python?](https://www.reddit.com/r/Python/comments/tpzl61/what_type_of_language_is_python/)
 - [List comprehension vs multiplying a list differences?](https://www.reddit.com/r/Python/comments/tpz8kn/list_comprehension_vs_multiplying_a_list/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/tpwknx/monday_daily_thread_project_ideas/)
 - [3D Render engine, written in 100% Python, No external libraries. *EPILEPSY WARNING*](https://www.reddit.com/r/Python/comments/tpv7hs/3d_render_engine_written_in_100_python_no/)
-- [How did your coding style in python change after you learned another language?](https://www.reddit.com/r/Python/comments/tpu9p2/how_did_your_coding_style_in_python_change_after/)
 <!-- BLOG-POST-LIST:END -->
