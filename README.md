@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Software Engineering Tools and Best Practices for Data Science](https://www.reddit.com/r/Python/comments/tqfr47/software_engineering_tools_and_best_practices_for/)
+- [student-friendly courses](https://www.reddit.com/r/Python/comments/tqejhr/studentfriendly_courses/)
+- [A zoo for decorators](https://www.reddit.com/r/Python/comments/tqefp4/a_zoo_for_decorators/)
 - [I made my own Task Deadline Tracker using Python!](https://www.reddit.com/r/Python/comments/tqe3tx/i_made_my_own_task_deadline_tracker_using_python/)
 - [Python project that swipes for me on Tinder](https://www.reddit.com/r/Python/comments/tqdf63/python_project_that_swipes_for_me_on_tinder/)
-- [In 2 days, running a live 45-minutes session on the fundamentals of observability, OpenTelemetry, and distributed tracing in Python](https://www.reddit.com/r/Python/comments/tqd44k/in_2_days_running_a_live_45minutes_session_on_the/)
-- [Solverecaptchas - An async Python library to automate solving ReCAPTCHA v2 using Playwright.](https://www.reddit.com/r/Python/comments/tqcsdg/solverecaptchas_an_async_python_library_to/)
-- [How do you pronounce SciPy and why isn’t it “skippy”?](https://www.reddit.com/r/Python/comments/tqcr4z/how_do_you_pronounce_scipy_and_why_isnt_it_skippy/)
 <!-- BLOG-POST-LIST:END -->
