@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [In 2 days, running a live 45-minutes session on the fundamentals of observability, OpenTelemetry, and distributed tracing in Python](https://www.reddit.com/r/Python/comments/tqd44k/in_2_days_running_a_live_45minutes_session_on_the/)
+- [Solverecaptchas - An async Python library to automate solving ReCAPTCHA v2 using Playwright.](https://www.reddit.com/r/Python/comments/tqcsdg/solverecaptchas_an_async_python_library_to/)
+- [How do you pronounce SciPy and why isn’t it “skippy”?](https://www.reddit.com/r/Python/comments/tqcr4z/how_do_you_pronounce_scipy_and_why_isnt_it_skippy/)
+- [I made a Twitter bot that hates you!](https://www.reddit.com/r/Python/comments/tqc8pe/i_made_a_twitter_bot_that_hates_you/)
 - [PYTHON CERTIFICATIONS LIST - BEST OF 2022](https://www.reddit.com/r/Python/comments/tqbfx0/python_certifications_list_best_of_2022/)
-- [A roadmap of the free CS curriculum on Qvault &lpar;JS, Python, Go&rpar;](https://www.reddit.com/r/Python/comments/tqaff4/a_roadmap_of_the_free_cs_curriculum_on_qvault_js/)
-- [Feedback Requested - First Script that Calls API and Posts to MS Teams](https://www.reddit.com/r/Python/comments/tq9d4k/feedback_requested_first_script_that_calls_api/)
-- [The counter-intuitive rise of Python in scientific computing](https://www.reddit.com/r/Python/comments/tq8jzp/the_counterintuitive_rise_of_python_in_scientific/)
-- [X-Cash crypto now has a Python wrapper Library](https://www.reddit.com/r/Python/comments/tq8csg/xcash_crypto_now_has_a_python_wrapper_library/)
 <!-- BLOG-POST-LIST:END -->
