@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The counter-intuitive rise of Python in scientific computing](https://www.reddit.com/r/Python/comments/tq8jzp/the_counterintuitive_rise_of_python_in_scientific/)
+- [X-Cash crypto now has a Python wrapper Library](https://www.reddit.com/r/Python/comments/tq8csg/xcash_crypto_now_has_a_python_wrapper_library/)
 - [Unable to Convert to Exe](https://www.reddit.com/r/Python/comments/tq82b7/unable_to_convert_to_exe/)
 - [py.quit it](https://www.reddit.com/r/Python/comments/tq6wo3/pyquit_it/)
 - [Scrape all Naver Video Results using pagination in Python](https://www.reddit.com/r/Python/comments/tq6vg2/scrape_all_naver_video_results_using_pagination/)
-- [Open-source tool to make awesome-looking docs](https://www.reddit.com/r/Python/comments/tq6sgn/opensource_tool_to_make_awesomelooking_docs/)
-- [Here is my story of developing my own crypto faucet with python...](https://www.reddit.com/r/Python/comments/tq5efk/here_is_my_story_of_developing_my_own_crypto/)
 <!-- BLOG-POST-LIST:END -->
