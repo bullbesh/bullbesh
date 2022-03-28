@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PYTHON CERTIFICATIONS LIST - BEST OF 2022](https://www.reddit.com/r/Python/comments/tqbfx0/python_certifications_list_best_of_2022/)
+- [A roadmap of the free CS curriculum on Qvault &lpar;JS, Python, Go&rpar;](https://www.reddit.com/r/Python/comments/tqaff4/a_roadmap_of_the_free_cs_curriculum_on_qvault_js/)
 - [Feedback Requested - First Script that Calls API and Posts to MS Teams](https://www.reddit.com/r/Python/comments/tq9d4k/feedback_requested_first_script_that_calls_api/)
 - [The counter-intuitive rise of Python in scientific computing](https://www.reddit.com/r/Python/comments/tq8jzp/the_counterintuitive_rise_of_python_in_scientific/)
 - [X-Cash crypto now has a Python wrapper Library](https://www.reddit.com/r/Python/comments/tq8csg/xcash_crypto_now_has_a_python_wrapper_library/)
-- [Unable to Convert to Exe](https://www.reddit.com/r/Python/comments/tq82b7/unable_to_convert_to_exe/)
-- [py.quit it](https://www.reddit.com/r/Python/comments/tq6wo3/pyquit_it/)
 <!-- BLOG-POST-LIST:END -->
