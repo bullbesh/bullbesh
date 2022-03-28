@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Here is my story of developing my own crypto faucet with python...](https://www.reddit.com/r/Python/comments/tq5efk/here_is_my_story_of_developing_my_own_crypto/)
 - [GitHub - enthought/traits: Observable typed attributes for Python classes](https://www.reddit.com/r/Python/comments/tq4p5h/github_enthoughttraits_observable_typed/)
 - [Script to pull data from websites structured data?](https://www.reddit.com/r/Python/comments/tq492l/script_to_pull_data_from_websites_structured_data/)
 - [Top python libraries/ frameworks that you suggest every one](https://www.reddit.com/r/Python/comments/tq483b/top_python_libraries_frameworks_that_you_suggest/)
 - [Top 5 Python Time Series Libraries](https://www.reddit.com/r/Python/comments/tq3cjf/top_5_python_time_series_libraries/)
-- [Master Python Comprehensions](https://www.reddit.com/r/Python/comments/tq2ain/master_python_comprehensions/)
 <!-- BLOG-POST-LIST:END -->
