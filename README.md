@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What type of language is Python?](https://www.reddit.com/r/Python/comments/tpzl61/what_type_of_language_is_python/)
+- [List comprehension vs multiplying a list differences?](https://www.reddit.com/r/Python/comments/tpz8kn/list_comprehension_vs_multiplying_a_list/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/tpwknx/monday_daily_thread_project_ideas/)
 - [3D Render engine, written in 100% Python, No external libraries. *EPILEPSY WARNING*](https://www.reddit.com/r/Python/comments/tpv7hs/3d_render_engine_written_in_100_python_no/)
 - [How did your coding style in python change after you learned another language?](https://www.reddit.com/r/Python/comments/tpu9p2/how_did_your_coding_style_in_python_change_after/)
-- [Guys I need your help in Pyqt5](https://www.reddit.com/r/Python/comments/tptn04/guys_i_need_your_help_in_pyqt5/)
-- [tesseract or &quot;ocr&quot; for images, rather than text](https://www.reddit.com/r/Python/comments/tprua7/tesseract_or_ocr_for_images_rather_than_text/)
 <!-- BLOG-POST-LIST:END -->
