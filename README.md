@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Loading config from the environment in Quart &amp; Flask](https://www.reddit.com/r/Python/comments/tqz50j/loading_config_from_the_environment_in_quart_flask/)
 - [What is a Lambda function and its applications in Python](https://www.reddit.com/r/Python/comments/tqyil5/what_is_a_lambda_function_and_its_applications_in/)
 - [My first coding project: Twitter Plays Wordle](https://www.reddit.com/r/Python/comments/tqxx94/my_first_coding_project_twitter_plays_wordle/)
 - [The history of performing functions in Django](https://www.reddit.com/r/Python/comments/tqxkg9/the_history_of_performing_functions_in_django/)
 - [Sourcepy: source python files straight from the shell](https://www.reddit.com/r/Python/comments/tqwyrh/sourcepy_source_python_files_straight_from_the/)
-- [Actual unique fun project ideas: Beginner | Intermediate | Advanced](https://www.reddit.com/r/Python/comments/tqvytp/actual_unique_fun_project_ideas_beginner/)
 <!-- BLOG-POST-LIST:END -->
