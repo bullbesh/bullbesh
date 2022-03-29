@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Multi-threaded Omegle bot with proxy support and other neat features, like content spinning and typo generator.](https://www.reddit.com/r/Python/comments/tre8z9/multithreaded_omegle_bot_with_proxy_support_and/)
+- [I made a web-based Instagram bot that scrapes people&#39;s usernames and follows/unfollow them](https://www.reddit.com/r/Python/comments/tre7to/i_made_a_webbased_instagram_bot_that_scrapes/)
+- [pync - Netcat for Python](https://www.reddit.com/r/Python/comments/tre60y/pync_netcat_for_python/)
 - [Any idea when Spyder Notebook will be stable and running for Spyder 5?](https://www.reddit.com/r/Python/comments/trbyzk/any_idea_when_spyder_notebook_will_be_stable_and/)
 - [Tomorrow: a live 45-minutes session on the fundamentals of observability, OpenTelemetry, and distributed tracing in Python](https://www.reddit.com/r/Python/comments/tra9f1/tomorrow_a_live_45minutes_session_on_the/)
-- [I built a real-time stock tracker using Python + Fast API, Alpaca, Next.js, and Redis Stack. Check it out!](https://www.reddit.com/r/Python/comments/tra4u1/i_built_a_realtime_stock_tracker_using_python/)
-- [Want to learn python? Hi I am a software engineer willing to take up a student and teach him/her coding do ping me if interested](https://www.reddit.com/r/Python/comments/tr7b25/want_to_learn_python_hi_i_am_a_software_engineer/)
-- [IndiePython.com - content about indie projects using Python &lpar;specially gamedev&rpar;](https://www.reddit.com/r/Python/comments/tr5l1q/indiepythoncom_content_about_indie_projects_using/)
 <!-- BLOG-POST-LIST:END -->
