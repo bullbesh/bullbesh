@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [what could next social media look like?](https://www.reddit.com/r/Python/comments/tqtah4/what_could_next_social_media_look_like/)
+- [I&#39;m presenting live in 9 hours at Microsoft Reactor online about Python and Kubernetes. Let me know your questions in advance](https://www.reddit.com/r/Python/comments/tqta40/im_presenting_live_in_9_hours_at_microsoft/)
 - [Why website themes cost money?](https://www.reddit.com/r/Python/comments/tqpgza/why_website_themes_cost_money/)
 - [My python git binding](https://www.reddit.com/r/Python/comments/tqolbm/my_python_git_binding/)
 - [First Full Stack, Mobile Friendly App &lpar;Flask&rpar;](https://www.reddit.com/r/Python/comments/tqn48r/first_full_stack_mobile_friendly_app_flask/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/tqmvv4/tuesday_daily_thread_advanced_questions/)
-- [What is the best way to visualize stock market data pulled using API?](https://www.reddit.com/r/Python/comments/tqliwz/what_is_the_best_way_to_visualize_stock_market/)
 <!-- BLOG-POST-LIST:END -->
