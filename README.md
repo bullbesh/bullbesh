@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [If a person posts Python code to Amazon Web Services can it run all the normal Python libraries? I was thinking to a greater extent about moviepy.editor.](https://www.reddit.com/r/Python/comments/tr43cm/if_a_person_posts_python_code_to_amazon_web/)
+- [Boss told me to learn python.](https://www.reddit.com/r/Python/comments/tr31rs/boss_told_me_to_learn_python/)
+- [Garmin Connect File Manager](https://www.reddit.com/r/Python/comments/tr2oml/garmin_connect_file_manager/)
+- [Pagination for a User-Friendly Django App – Real Python](https://www.reddit.com/r/Python/comments/tr1m2y/pagination_for_a_userfriendly_django_app_real/)
 - [Loading config from the environment in Quart &amp; Flask](https://www.reddit.com/r/Python/comments/tqz50j/loading_config_from_the_environment_in_quart_flask/)
-- [What is a Lambda function and its applications in Python](https://www.reddit.com/r/Python/comments/tqyil5/what_is_a_lambda_function_and_its_applications_in/)
-- [My first coding project: Twitter Plays Wordle](https://www.reddit.com/r/Python/comments/tqxx94/my_first_coding_project_twitter_plays_wordle/)
-- [The history of performing functions in Django](https://www.reddit.com/r/Python/comments/tqxkg9/the_history_of_performing_functions_in_django/)
-- [Sourcepy: source python files straight from the shell](https://www.reddit.com/r/Python/comments/tqwyrh/sourcepy_source_python_files_straight_from_the/)
 <!-- BLOG-POST-LIST:END -->
