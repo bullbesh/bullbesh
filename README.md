@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitLab Webhooks [Python and Google Chat Example]](https://www.reddit.com/r/Python/comments/ts66bz/gitlab_webhooks_python_and_google_chat_example/)
+- [I made a video about efficient memory use in pandas dataframes!](https://www.reddit.com/r/Python/comments/ts5mmf/i_made_a_video_about_efficient_memory_use_in/)
+- [Create a google account in Python](https://www.reddit.com/r/Python/comments/ts5l04/create_a_google_account_in_python/)
+- [Python program to find day of any date.&lpar;Yes any! from 1000 AD - 9999 AD&rpar;](https://www.reddit.com/r/Python/comments/ts5ij2/python_program_to_find_day_of_any_dateyes_any/)
 - [ABCMeta library to limit derived classes their methods to follow the same signature as the parent](https://www.reddit.com/r/Python/comments/ts4ooj/abcmeta_library_to_limit_derived_classes_their/)
-- [Authoring Opportunity: Developing a Python book with Packt Publishing](https://www.reddit.com/r/Python/comments/ts4caw/authoring_opportunity_developing_a_python_book/)
-- [br4nch 1.2.1 - Data Structure Tree Builder for Python.](https://www.reddit.com/r/Python/comments/ts4avc/br4nch_121_data_structure_tree_builder_for_python/)
-- [python dictionary comprehension](https://www.reddit.com/r/Python/comments/ts3lg7/python_dictionary_comprehension/)
-- [Do you have experience with stocks prices analysis?](https://www.reddit.com/r/Python/comments/ts2ujz/do_you_have_experience_with_stocks_prices_analysis/)
 <!-- BLOG-POST-LIST:END -->
