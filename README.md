@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Froyo: A Python GUI utility for downloading works from Archive Of Our Own/AO3 &lpar;made in Python with Dear PyGui&rpar;: a fast, responsive graphical user interface results in a user-friendly tool](https://www.reddit.com/r/Python/comments/ts1iat/froyo_a_python_gui_utility_for_downloading_works/)
+- [Programming languages: Python just got a boost from Facebook&#39;s Meta](https://www.reddit.com/r/Python/comments/ts1al4/programming_languages_python_just_got_a_boost/)
 - [Understanding __init__ Method in Python](https://www.reddit.com/r/Python/comments/ts0cgt/understanding_init_method_in_python/)
 - [convert int, float to 32 bit number , how to detect input number is int or float or array](https://www.reddit.com/r/Python/comments/trzqkq/convert_int_float_to_32_bit_number_how_to_detect/)
 - [How do you define beginner, intermediate, and advanced?](https://www.reddit.com/r/Python/comments/try32l/how_do_you_define_beginner_intermediate_and/)
-- [ipyvizzu - create animated charts in Jupyter Notebook using Python with this open-source tool](https://www.reddit.com/r/Python/comments/trxyg5/ipyvizzu_create_animated_charts_in_jupyter/)
-- [Real Time Speech Recognition with Gradio](https://www.reddit.com/r/Python/comments/trvawa/real_time_speech_recognition_with_gradio/)
 <!-- BLOG-POST-LIST:END -->
