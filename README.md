@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Paid help for Python visualisation](https://www.reddit.com/r/Python/comments/tsa7z1/paid_help_for_python_visualisation/)
+- [Any good Machine learning udemy courses ?](https://www.reddit.com/r/Python/comments/ts9m9n/any_good_machine_learning_udemy_courses/)
+- [Scrape Google Scholar Metrics Results to CSV with Python](https://www.reddit.com/r/Python/comments/ts9lzb/scrape_google_scholar_metrics_results_to_csv_with/)
+- [Building a Full Stack Flask HTMx Application](https://www.reddit.com/r/Python/comments/ts8x51/building_a_full_stack_flask_htmx_application/)
 - [I created 80 Python and Pandas Challenges with Video Solutions](https://www.reddit.com/r/Python/comments/ts8hpw/i_created_80_python_and_pandas_challenges_with/)
-- [Transcribe Speech to Text with Python for Free](https://www.reddit.com/r/Python/comments/ts6whh/transcribe_speech_to_text_with_python_for_free/)
-- [My Simple Project](https://www.reddit.com/r/Python/comments/ts6lz6/my_simple_project/)
-- [What to expect from Python 3.11?](https://www.reddit.com/r/Python/comments/ts6idv/what_to_expect_from_python_311/)
-- [GitLab Webhooks [Python and Google Chat Example]](https://www.reddit.com/r/Python/comments/ts66bz/gitlab_webhooks_python_and_google_chat_example/)
 <!-- BLOG-POST-LIST:END -->
