@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Bot](https://www.reddit.com/r/Python/comments/tskkj9/twitter_bot/)
+- [Python or R?](https://www.reddit.com/r/Python/comments/tsjvib/python_or_r/)
+- [Pollen Robotics&#39; Reachy VR Digital Twin in Python &lpar;proof of concept&rpar;](https://www.reddit.com/r/Python/comments/tsjsaf/pollen_robotics_reachy_vr_digital_twin_in_python/)
 - [pymac: Install and manage macOS Python.org installers from the command line](https://www.reddit.com/r/Python/comments/tsjhe7/pymac_install_and_manage_macos_pythonorg/)
 - [A simple Snooker 3D game in Python](https://www.reddit.com/r/Python/comments/tsixth/a_simple_snooker_3d_game_in_python/)
-- [Introducing Slap: A CLI to assist in the Python development process](https://www.reddit.com/r/Python/comments/tsgavg/introducing_slap_a_cli_to_assist_in_the_python/)
-- [Python Tutorial - How to create a Screen Recorder using Python?](https://www.reddit.com/r/Python/comments/tsdftv/python_tutorial_how_to_create_a_screen_recorder/)
-- [[GUI] DyCall - Run exported functions from dynamic libraries](https://www.reddit.com/r/Python/comments/tsdcn8/gui_dycall_run_exported_functions_from_dynamic/)
 <!-- BLOG-POST-LIST:END -->
