@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Transcribe Speech to Text with Python for Free](https://www.reddit.com/r/Python/comments/ts6whh/transcribe_speech_to_text_with_python_for_free/)
+- [My Simple Project](https://www.reddit.com/r/Python/comments/ts6lz6/my_simple_project/)
+- [What to expect from Python 3.11?](https://www.reddit.com/r/Python/comments/ts6idv/what_to_expect_from_python_311/)
 - [GitLab Webhooks [Python and Google Chat Example]](https://www.reddit.com/r/Python/comments/ts66bz/gitlab_webhooks_python_and_google_chat_example/)
 - [I made a video about efficient memory use in pandas dataframes!](https://www.reddit.com/r/Python/comments/ts5mmf/i_made_a_video_about_efficient_memory_use_in/)
-- [Create a google account in Python](https://www.reddit.com/r/Python/comments/ts5l04/create_a_google_account_in_python/)
-- [Python program to find day of any date.&lpar;Yes any! from 1000 AD - 9999 AD&rpar;](https://www.reddit.com/r/Python/comments/ts5ij2/python_program_to_find_day_of_any_dateyes_any/)
-- [ABCMeta library to limit derived classes their methods to follow the same signature as the parent](https://www.reddit.com/r/Python/comments/ts4ooj/abcmeta_library_to_limit_derived_classes_their/)
 <!-- BLOG-POST-LIST:END -->
