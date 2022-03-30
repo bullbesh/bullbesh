@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created 80 Python and Pandas Challenges with Video Solutions](https://www.reddit.com/r/Python/comments/ts8hpw/i_created_80_python_and_pandas_challenges_with/)
 - [Transcribe Speech to Text with Python for Free](https://www.reddit.com/r/Python/comments/ts6whh/transcribe_speech_to_text_with_python_for_free/)
 - [My Simple Project](https://www.reddit.com/r/Python/comments/ts6lz6/my_simple_project/)
 - [What to expect from Python 3.11?](https://www.reddit.com/r/Python/comments/ts6idv/what_to_expect_from_python_311/)
 - [GitLab Webhooks [Python and Google Chat Example]](https://www.reddit.com/r/Python/comments/ts66bz/gitlab_webhooks_python_and_google_chat_example/)
-- [I made a video about efficient memory use in pandas dataframes!](https://www.reddit.com/r/Python/comments/ts5mmf/i_made_a_video_about_efficient_memory_use_in/)
 <!-- BLOG-POST-LIST:END -->
