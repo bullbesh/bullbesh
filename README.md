@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you have experience with stocks prices analysis?](https://www.reddit.com/r/Python/comments/ts2ujz/do_you_have_experience_with_stocks_prices_analysis/)
+- [How to document python functions?](https://www.reddit.com/r/Python/comments/ts2t1f/how_to_document_python_functions/)
 - [Froyo: A Python GUI utility for downloading works from Archive Of Our Own/AO3 &lpar;made in Python with Dear PyGui&rpar;: a fast, responsive graphical user interface results in a user-friendly tool](https://www.reddit.com/r/Python/comments/ts1iat/froyo_a_python_gui_utility_for_downloading_works/)
 - [Programming languages: Python just got a boost from Facebook&#39;s Meta](https://www.reddit.com/r/Python/comments/ts1al4/programming_languages_python_just_got_a_boost/)
 - [Understanding __init__ Method in Python](https://www.reddit.com/r/Python/comments/ts0cgt/understanding_init_method_in_python/)
-- [convert int, float to 32 bit number , how to detect input number is int or float or array](https://www.reddit.com/r/Python/comments/trzqkq/convert_int_float_to_32_bit_number_how_to_detect/)
-- [How do you define beginner, intermediate, and advanced?](https://www.reddit.com/r/Python/comments/try32l/how_do_you_define_beginner_intermediate_and/)
 <!-- BLOG-POST-LIST:END -->
