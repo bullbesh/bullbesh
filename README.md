@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ABCMeta library to limit derived classes their methods to follow the same signature as the parent](https://www.reddit.com/r/Python/comments/ts4ooj/abcmeta_library_to_limit_derived_classes_their/)
+- [Authoring Opportunity: Developing a Python book with Packt Publishing](https://www.reddit.com/r/Python/comments/ts4caw/authoring_opportunity_developing_a_python_book/)
+- [br4nch 1.2.1 - Data Structure Tree Builder for Python.](https://www.reddit.com/r/Python/comments/ts4avc/br4nch_121_data_structure_tree_builder_for_python/)
 - [python dictionary comprehension](https://www.reddit.com/r/Python/comments/ts3lg7/python_dictionary_comprehension/)
 - [Do you have experience with stocks prices analysis?](https://www.reddit.com/r/Python/comments/ts2ujz/do_you_have_experience_with_stocks_prices_analysis/)
-- [How to document python functions?](https://www.reddit.com/r/Python/comments/ts2t1f/how_to_document_python_functions/)
-- [Froyo: A Python GUI utility for downloading works from Archive Of Our Own/AO3 &lpar;made in Python with Dear PyGui&rpar;: a fast, responsive graphical user interface results in a user-friendly tool](https://www.reddit.com/r/Python/comments/ts1iat/froyo_a_python_gui_utility_for_downloading_works/)
-- [Programming languages: Python just got a boost from Facebook&#39;s Meta](https://www.reddit.com/r/Python/comments/ts1al4/programming_languages_python_just_got_a_boost/)
 <!-- BLOG-POST-LIST:END -->
