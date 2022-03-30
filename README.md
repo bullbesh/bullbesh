@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [convert int, float to 32 bit number , how to detect input number is int or float or array](https://www.reddit.com/r/Python/comments/trzqkq/convert_int_float_to_32_bit_number_how_to_detect/)
 - [How do you define beginner, intermediate, and advanced?](https://www.reddit.com/r/Python/comments/try32l/how_do_you_define_beginner_intermediate_and/)
 - [ipyvizzu - create animated charts in Jupyter Notebook using Python with this open-source tool](https://www.reddit.com/r/Python/comments/trxyg5/ipyvizzu_create_animated_charts_in_jupyter/)
 - [Real Time Speech Recognition with Gradio](https://www.reddit.com/r/Python/comments/trvawa/real_time_speech_recognition_with_gradio/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/trtfcd/wednesday_daily_thread_beginner_questions/)
-- [Address Validation in Python](https://www.reddit.com/r/Python/comments/trtdfc/address_validation_in_python/)
 <!-- BLOG-POST-LIST:END -->
