@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Soap client call is going to C:\ instead of C:\\](https://www.reddit.com/r/Python/comments/tstcaq/soap_client_call_is_going_to_c_instead_of_c/)
+- [Real Time Speech Recognition](https://www.reddit.com/r/Python/comments/tst6rj/real_time_speech_recognition/)
+- [The Complete Guide to Python IDEs and Code Editors](https://www.reddit.com/r/Python/comments/tssux4/the_complete_guide_to_python_ides_and_code_editors/)
+- [Demo for game made with Pygame](https://www.reddit.com/r/Python/comments/tssu7d/demo_for_game_made_with_pygame/)
 - [First Python Application - Blackjack Strategy Trainer - Seeking Feedback](https://www.reddit.com/r/Python/comments/tsrmiu/first_python_application_blackjack_strategy/)
-- [Learning Python](https://www.reddit.com/r/Python/comments/tsrmd0/learning_python/)
-- [I made a utility library for downloading Wikimedia Data Dumps for analysis](https://www.reddit.com/r/Python/comments/tsq2c8/i_made_a_utility_library_for_downloading/)
-- [Tuple Reuse Quirks](https://www.reddit.com/r/Python/comments/tso711/tuple_reuse_quirks/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/tsmv9p/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
