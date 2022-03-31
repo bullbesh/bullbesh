@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django Boilerplate: new open source project, asking for feedback](https://www.reddit.com/r/Python/comments/tt8dpi/django_boilerplate_new_open_source_project_asking/)
+- [Building A Pictionary Web App using Gradio](https://www.reddit.com/r/Python/comments/tt7o1k/building_a_pictionary_web_app_using_gradio/)
 - [I made a random class generator for Elden Ring](https://www.reddit.com/r/Python/comments/tt753s/i_made_a_random_class_generator_for_elden_ring/)
 - [Python in 3 Hours: Python Programming for Beginners](https://www.reddit.com/r/Python/comments/tt6x91/python_in_3_hours_python_programming_for_beginners/)
 - [Files and Dictionary practice](https://www.reddit.com/r/Python/comments/tt53sn/files_and_dictionary_practice/)
-- [Creating and deleting Webhooks with PyGithub.](https://www.reddit.com/r/Python/comments/tt4koz/creating_and_deleting_webhooks_with_pygithub/)
-- [Create a progression of recommendations with any recommender](https://www.reddit.com/r/Python/comments/tt4k17/create_a_progression_of_recommendations_with_any/)
 <!-- BLOG-POST-LIST:END -->
