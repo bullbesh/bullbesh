@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a utility library for downloading Wikimedia Data Dumps for analysis](https://www.reddit.com/r/Python/comments/tsq2c8/i_made_a_utility_library_for_downloading/)
 - [Tuple Reuse Quirks](https://www.reddit.com/r/Python/comments/tso711/tuple_reuse_quirks/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/tsmv9p/thursday_daily_thread_python_careers_courses_and/)
 - [Build semantic search applications with txtai](https://www.reddit.com/r/Python/comments/tsmlz9/build_semantic_search_applications_with_txtai/)
 - [Pollen Robotics&#39; Reachy VR Digital Twin in Python &lpar;proof of concept&rpar;](https://www.reddit.com/r/Python/comments/tsjsaf/pollen_robotics_reachy_vr_digital_twin_in_python/)
-- [pymac: Install and manage macOS Python.org installers from the command line](https://www.reddit.com/r/Python/comments/tsjhe7/pymac_install_and_manage_macos_pythonorg/)
 <!-- BLOG-POST-LIST:END -->
