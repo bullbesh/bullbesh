@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beating Mastermind](https://www.reddit.com/r/Python/comments/tt24sp/beating_mastermind/)
 - [Bulk file rename app](https://www.reddit.com/r/Python/comments/tt007r/bulk_file_rename_app/)
 - [A feature complete W-TinyLFU cache implementation in Python](https://www.reddit.com/r/Python/comments/tszssv/a_feature_complete_wtinylfu_cache_implementation/)
 - [I wrote okjson - A fast, simple, and pythonic JSON Schema Validator](https://www.reddit.com/r/Python/comments/tsz0i3/i_wrote_okjson_a_fast_simple_and_pythonic_json/)
 - [Current situation of library support for M1](https://www.reddit.com/r/Python/comments/tsyuig/current_situation_of_library_support_for_m1/)
-- [Flame graph rendering in the terminal](https://www.reddit.com/r/Python/comments/tsya02/flame_graph_rendering_in_the_terminal/)
 <!-- BLOG-POST-LIST:END -->
