@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A feature complete W-TinyLFU cache implementation in Python](https://www.reddit.com/r/Python/comments/tszssv/a_feature_complete_wtinylfu_cache_implementation/)
+- [I wrote okjson - A fast, simple, and pythonic JSON Schema Validator](https://www.reddit.com/r/Python/comments/tsz0i3/i_wrote_okjson_a_fast_simple_and_pythonic_json/)
+- [Current situation of library support for M1](https://www.reddit.com/r/Python/comments/tsyuig/current_situation_of_library_support_for_m1/)
 - [Flame graph rendering in the terminal](https://www.reddit.com/r/Python/comments/tsya02/flame_graph_rendering_in_the_terminal/)
 - [Concurrent Web Scraping with Selenium Grid and Docker Swarm - updated!](https://www.reddit.com/r/Python/comments/tsy5pb/concurrent_web_scraping_with_selenium_grid_and/)
-- [Project idea for Python lovers in the Linux world](https://www.reddit.com/r/Python/comments/tsxyc3/project_idea_for_python_lovers_in_the_linux_world/)
-- [Python in Visual Studio Code – April 2022 Release](https://www.reddit.com/r/Python/comments/tsxkgp/python_in_visual_studio_code_april_2022_release/)
-- [^fassert$: Fuzzy assert only data that matters](https://www.reddit.com/r/Python/comments/tswigu/fassert_fuzzy_assert_only_data_that_matters/)
 <!-- BLOG-POST-LIST:END -->
