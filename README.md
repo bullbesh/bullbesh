@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [If an exception is raised but not handled would the process definitely stop/crash? I have seen some programs that keep printing stack trace to cli but don&#39;t crash and keep trying.](https://www.reddit.com/r/Python/comments/tsux1z/if_an_exception_is_raised_but_not_handled_would/)
+- [Print Emoji&#39;s using Python.](https://www.reddit.com/r/Python/comments/tsusc7/print_emojis_using_python/)
 - [Unofficial free billboard open API](https://www.reddit.com/r/Python/comments/tsttkr/unofficial_free_billboard_open_api/)
-- [Soap client call is going to C:\ instead of C:\\](https://www.reddit.com/r/Python/comments/tstcaq/soap_client_call_is_going_to_c_instead_of_c/)
 - [Real Time Speech Recognition](https://www.reddit.com/r/Python/comments/tst6rj/real_time_speech_recognition/)
 - [The Complete Guide to Python IDEs and Code Editors](https://www.reddit.com/r/Python/comments/tssux4/the_complete_guide_to_python_ides_and_code_editors/)
-- [Demo for game made with Pygame](https://www.reddit.com/r/Python/comments/tssu7d/demo_for_game_made_with_pygame/)
 <!-- BLOG-POST-LIST:END -->
