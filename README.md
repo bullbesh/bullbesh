@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating and deleting Webhooks with PyGithub.](https://www.reddit.com/r/Python/comments/tt4koz/creating_and_deleting_webhooks_with_pygithub/)
+- [Create a progression of recommendations with any recommender](https://www.reddit.com/r/Python/comments/tt4k17/create_a_progression_of_recommendations_with_any/)
+- [Interceptor algorithm &lpar;no relevance to current world events&rpar;](https://www.reddit.com/r/Python/comments/tt4i7h/interceptor_algorithm_no_relevance_to_current/)
 - [Asynchronous Web Scraping With Python AIOHTTP](https://www.reddit.com/r/Python/comments/tt2qi2/asynchronous_web_scraping_with_python_aiohttp/)
 - [Beating Mastermind](https://www.reddit.com/r/Python/comments/tt24sp/beating_mastermind/)
-- [Bulk file rename app](https://www.reddit.com/r/Python/comments/tt007r/bulk_file_rename_app/)
-- [A feature complete W-TinyLFU cache implementation in Python](https://www.reddit.com/r/Python/comments/tszssv/a_feature_complete_wtinylfu_cache_implementation/)
-- [I wrote okjson - A fast, simple, and pythonic JSON Schema Validator](https://www.reddit.com/r/Python/comments/tsz0i3/i_wrote_okjson_a_fast_simple_and_pythonic_json/)
 <!-- BLOG-POST-LIST:END -->
