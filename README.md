@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Python is used for image processing in AI?](https://www.reddit.com/r/Python/comments/tswikv/why_python_is_used_for_image_processing_in_ai/)
+- [Flame graph rendering in the terminal](https://www.reddit.com/r/Python/comments/tsya02/flame_graph_rendering_in_the_terminal/)
+- [Concurrent Web Scraping with Selenium Grid and Docker Swarm - updated!](https://www.reddit.com/r/Python/comments/tsy5pb/concurrent_web_scraping_with_selenium_grid_and/)
+- [Project idea for Python lovers in the Linux world](https://www.reddit.com/r/Python/comments/tsxyc3/project_idea_for_python_lovers_in_the_linux_world/)
+- [Python in Visual Studio Code – April 2022 Release](https://www.reddit.com/r/Python/comments/tsxkgp/python_in_visual_studio_code_april_2022_release/)
 - [^fassert$: Fuzzy assert only data that matters](https://www.reddit.com/r/Python/comments/tswigu/fassert_fuzzy_assert_only_data_that_matters/)
-- [An A Markov-Chain Twitter bot trained on Elon Musk Tweets and Childrens Books](https://www.reddit.com/r/Python/comments/tsvexj/an_a_markovchain_twitter_bot_trained_on_elon_musk/)
-- [If an exception is raised but not handled would the process definitely stop/crash? I have seen some programs that keep printing stack trace to cli but don&#39;t crash and keep trying.](https://www.reddit.com/r/Python/comments/tsux1z/if_an_exception_is_raised_but_not_handled_would/)
-- [Print Emoji&#39;s using Python.](https://www.reddit.com/r/Python/comments/tsusc7/print_emojis_using_python/)
 <!-- BLOG-POST-LIST:END -->
