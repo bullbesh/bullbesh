@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous Web Scraping With Python AIOHTTP](https://www.reddit.com/r/Python/comments/tt2qi2/asynchronous_web_scraping_with_python_aiohttp/)
 - [Beating Mastermind](https://www.reddit.com/r/Python/comments/tt24sp/beating_mastermind/)
 - [Bulk file rename app](https://www.reddit.com/r/Python/comments/tt007r/bulk_file_rename_app/)
 - [A feature complete W-TinyLFU cache implementation in Python](https://www.reddit.com/r/Python/comments/tszssv/a_feature_complete_wtinylfu_cache_implementation/)
 - [I wrote okjson - A fast, simple, and pythonic JSON Schema Validator](https://www.reddit.com/r/Python/comments/tsz0i3/i_wrote_okjson_a_fast_simple_and_pythonic_json/)
-- [Current situation of library support for M1](https://www.reddit.com/r/Python/comments/tsyuig/current_situation_of_library_support_for_m1/)
 <!-- BLOG-POST-LIST:END -->
