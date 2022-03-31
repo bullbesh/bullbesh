@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a random class generator for Elden Ring](https://www.reddit.com/r/Python/comments/tt753s/i_made_a_random_class_generator_for_elden_ring/)
+- [Python in 3 Hours: Python Programming for Beginners](https://www.reddit.com/r/Python/comments/tt6x91/python_in_3_hours_python_programming_for_beginners/)
 - [Files and Dictionary practice](https://www.reddit.com/r/Python/comments/tt53sn/files_and_dictionary_practice/)
 - [Creating and deleting Webhooks with PyGithub.](https://www.reddit.com/r/Python/comments/tt4koz/creating_and_deleting_webhooks_with_pygithub/)
 - [Create a progression of recommendations with any recommender](https://www.reddit.com/r/Python/comments/tt4k17/create_a_progression_of_recommendations_with_any/)
-- [Interceptor algorithm &lpar;no relevance to current world events&rpar;](https://www.reddit.com/r/Python/comments/tt4i7h/interceptor_algorithm_no_relevance_to_current/)
-- [Asynchronous Web Scraping With Python AIOHTTP](https://www.reddit.com/r/Python/comments/tt2qi2/asynchronous_web_scraping_with_python_aiohttp/)
 <!-- BLOG-POST-LIST:END -->
