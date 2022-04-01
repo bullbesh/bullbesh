@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m creating a tool to enrich your datasets with relevant external data](https://www.reddit.com/r/Python/comments/ttosfb/im_creating_a_tool_to_enrich_your_datasets_with/)
 - [jupino: Annotate data in Jupyter notebooks](https://www.reddit.com/r/Python/comments/tto7z2/jupino_annotate_data_in_jupyter_notebooks/)
 - [Python Data Persistence - DBM Package](https://www.reddit.com/r/Python/comments/ttmu0f/python_data_persistence_dbm_package/)
 - [Old Project Showcase [ThoughtLogger]](https://www.reddit.com/r/Python/comments/ttmrs1/old_project_showcase_thoughtlogger/)
 - [Removal of supported types in the sample function of the random-library. Why would this be done?](https://www.reddit.com/r/Python/comments/ttlu6q/removal_of_supported_types_in_the_sample_function/)
-- [Object Counting by Color. Learn how to count selected color objects using OpenCV and Python.](https://www.reddit.com/r/Python/comments/ttlipp/object_counting_by_color_learn_how_to_count/)
 <!-- BLOG-POST-LIST:END -->
