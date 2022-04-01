@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Removal of supported types in the sample function of the random-library. Why would this be done?](https://www.reddit.com/r/Python/comments/ttlu6q/removal_of_supported_types_in_the_sample_function/)
 - [Object Counting by Color. Learn how to count selected color objects using OpenCV and Python.](https://www.reddit.com/r/Python/comments/ttlipp/object_counting_by_color_learn_how_to_count/)
 - [Transfer file wirelessly between two computer over the Bluetooth Low Energy protocol Using Python](https://www.reddit.com/r/Python/comments/ttl4ra/transfer_file_wirelessly_between_two_computer/)
 - [GitHub - brenw0rth/pync: arbitrary TCP and UDP connections and listens &lpar;Netcat for Python&rpar;.](https://www.reddit.com/r/Python/comments/ttkpio/github_brenw0rthpync_arbitrary_tcp_and_udp/)
 - [Unreachable Code](https://www.reddit.com/r/Python/comments/ttjm0q/unreachable_code/)
-- [Why does it seem that python pays more than Java &lpar;from what little googling I’ve done&rpar;? I would assume that since Java runs faster and more efficient &lpar;and since it’s harder to learn, thus, making it a more scarce skill&rpar; that Java would be the higher paying language.](https://www.reddit.com/r/Python/comments/ttjbrc/why_does_it_seem_that_python_pays_more_than_java/)
 <!-- BLOG-POST-LIST:END -->
