@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I created a digital clock with python](https://www.reddit.com/r/Python/comments/ttth4m/i_created_a_digital_clock_with_python/)
-- [while loop to enter 1 to 10 mark only 3 times and add them together](https://www.reddit.com/r/Python/comments/ttrjc9/while_loop_to_enter_1_to_10_mark_only_3_times_and/)
 - [A Vigenère &lpar;de&rpar;ciphering program with frequency analysis attack.](https://www.reddit.com/r/Python/comments/ttqlac/a_vigenère_deciphering_program_with_frequency/)
 - [Sierpiński Triangle With Python Turtle](https://www.reddit.com/r/Python/comments/ttqer3/sierpiński_triangle_with_python_turtle/)
 - [I&#39;m creating a tool to enrich your datasets with relevant external data](https://www.reddit.com/r/Python/comments/ttosfb/im_creating_a_tool_to_enrich_your_datasets_with/)
+- [jupino: Annotate data in Jupyter notebooks](https://www.reddit.com/r/Python/comments/tto7z2/jupino_annotate_data_in_jupyter_notebooks/)
+- [Python Data Persistence - DBM Package](https://www.reddit.com/r/Python/comments/ttmu0f/python_data_persistence_dbm_package/)
 <!-- BLOG-POST-LIST:END -->
