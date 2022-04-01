@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Powerful Python one-liners 🤯](https://www.reddit.com/r/Python/comments/ttbviw/5_powerful_python_oneliners/)
+- [PEP 2241: Back to the Past](https://www.reddit.com/r/Python/comments/ttdl90/pep_2241_back_to_the_past/)
+- [PEP 9001](https://www.reddit.com/r/Python/comments/ttdjl6/pep_9001/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/ttdb2f/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Django Boilerplate: new open source project, asking for feedback](https://www.reddit.com/r/Python/comments/tt8dpi/django_boilerplate_new_open_source_project_asking/)
 - [Building A Pictionary Web App using Gradio](https://www.reddit.com/r/Python/comments/tt7o1k/building_a_pictionary_web_app_using_gradio/)
-- [I made a random class generator for Elden Ring](https://www.reddit.com/r/Python/comments/tt753s/i_made_a_random_class_generator_for_elden_ring/)
-- [Files and Dictionary practice](https://www.reddit.com/r/Python/comments/tt53sn/files_and_dictionary_practice/)
 <!-- BLOG-POST-LIST:END -->
