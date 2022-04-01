@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [largestinteriorrectangle - my first PyPI published package](https://www.reddit.com/r/Python/comments/tu0tfu/largestinteriorrectangle_my_first_pypi_published/)
 - [bundling python virtualenv AND interpreter?](https://www.reddit.com/r/Python/comments/ttyskq/bundling_python_virtualenv_and_interpreter/)
 - [I&#39;ve made a &quot;Falling sand&quot; Sandbox with Python &lpar;using pygame&rpar;](https://www.reddit.com/r/Python/comments/ttxxxq/ive_made_a_falling_sand_sandbox_with_python_using/)
 - [How are python threads different from other languages? I understand GIL limits code exec to one thread but how does &quot;usual&quot; threading is like without GIL.](https://www.reddit.com/r/Python/comments/ttx3k4/how_are_python_threads_different_from_other/)
 - [Are we all joining r/placetux for the Linux community or can we build a python on r/place?](https://www.reddit.com/r/Python/comments/ttwg06/are_we_all_joining_rplacetux_for_the_linux/)
-- [A Vigenère &lpar;de&rpar;ciphering program with frequency analysis attack.](https://www.reddit.com/r/Python/comments/ttqlac/a_vigenère_deciphering_program_with_frequency/)
 <!-- BLOG-POST-LIST:END -->
