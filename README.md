@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Vigenère &lpar;de&rpar;ciphering program with frequency analysis attack.](https://www.reddit.com/r/Python/comments/ttqlac/a_vigenère_deciphering_program_with_frequency/)
+- [New Python-based Ransomware Targeting JupyterLab Web Notebooks](https://www.reddit.com/r/Python/comments/ttql6r/new_pythonbased_ransomware_targeting_jupyterlab/)
+- [Sierpiński Triangle With Python Turtle](https://www.reddit.com/r/Python/comments/ttqer3/sierpiński_triangle_with_python_turtle/)
 - [I&#39;m creating a tool to enrich your datasets with relevant external data](https://www.reddit.com/r/Python/comments/ttosfb/im_creating_a_tool_to_enrich_your_datasets_with/)
 - [jupino: Annotate data in Jupyter notebooks](https://www.reddit.com/r/Python/comments/tto7z2/jupino_annotate_data_in_jupyter_notebooks/)
-- [Python Data Persistence - DBM Package](https://www.reddit.com/r/Python/comments/ttmu0f/python_data_persistence_dbm_package/)
-- [Old Project Showcase [ThoughtLogger]](https://www.reddit.com/r/Python/comments/ttmrs1/old_project_showcase_thoughtlogger/)
-- [Removal of supported types in the sample function of the random-library. Why would this be done?](https://www.reddit.com/r/Python/comments/ttlu6q/removal_of_supported_types_in_the_sample_function/)
 <!-- BLOG-POST-LIST:END -->
