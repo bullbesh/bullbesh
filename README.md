@@ -1,10 +1,3 @@
-# Hello 👋
-
-## ⚙️ My currently projects:
-- [pfr_instruction](https://github.com/bullbesh/pfr_instruction)
-- [persistence](https://github.com/bullbesh/persistence)
-- [physicsopedia](https://github.com/bullbesh/physicsopedia)
-
 ## 🔎 Connect with me:
 [<img height="32" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg" />](https://t.me/bullbesh)
 [<img height="32" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vk.svg" />](https://vk.com/bullbesh)
