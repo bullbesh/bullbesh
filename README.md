@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL-driven semantic search with inline machine learning functions](https://www.reddit.com/r/Python/comments/tui43x/sqldriven_semantic_search_with_inline_machine/)
 - [An Example of Automated Hacking with Python](https://www.reddit.com/r/Python/comments/tuhe59/an_example_of_automated_hacking_with_python/)
 - [Gradually Migrating Python Code to asyncio](https://www.reddit.com/r/Python/comments/tuhb11/gradually_migrating_python_code_to_asyncio/)
 - [Instagram bot and Data gathering with UI](https://www.reddit.com/r/Python/comments/tuh6rm/instagram_bot_and_data_gathering_with_ui/)
 - [PyTermGUI now lets you export your terminal contents as an SVG screenshot!](https://www.reddit.com/r/Python/comments/tuh5ej/pytermgui_now_lets_you_export_your_terminal/)
-- [Recover deleted and overwritten files with RecoverPy 1.5.0](https://www.reddit.com/r/Python/comments/tugw0y/recover_deleted_and_overwritten_files_with/)
 <!-- BLOG-POST-LIST:END -->
