@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Naming convention for type aliases](https://www.reddit.com/r/Python/comments/tuvz80/naming_convention_for_type_aliases/)
 - [Just got out of an interview and feel like an idiot.](https://www.reddit.com/r/Python/comments/tuutob/just_got_out_of_an_interview_and_feel_like_an/)
 - [A commit from my lead dev: &quot;Improve readability&quot;.](https://www.reddit.com/r/Python/comments/tuuq5l/a_commit_from_my_lead_dev_improve_readability/)
 - [Space Science with Python - Asteroids meet Deep Learning #10](https://www.reddit.com/r/Python/comments/tuuc31/space_science_with_python_asteroids_meet_deep/)
 - [Cloud server](https://www.reddit.com/r/Python/comments/tuszb4/cloud_server/)
-- [Best python course that provides a cert?](https://www.reddit.com/r/Python/comments/tusdou/best_python_course_that_provides_a_cert/)
 <!-- BLOG-POST-LIST:END -->
