@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free and reliable language translation API for developers](https://www.reddit.com/r/Python/comments/tunvta/free_and_reliable_language_translation_api_for/)
+- [Help building a Python logo in r/place!](https://www.reddit.com/r/Python/comments/tuno8s/help_building_a_python_logo_in_rplace/)
 - [Recover deleted and overwritten files with RecoverPy 1.5.0](https://www.reddit.com/r/Python/comments/tulvmq/recover_deleted_and_overwritten_files_with/)
 - [Python GUI Programming With Tkinter – Real Python](https://www.reddit.com/r/Python/comments/tulmi2/python_gui_programming_with_tkinter_real_python/)
 - [ORM by dataclass with type hints✨✨✨](https://www.reddit.com/r/Python/comments/tukdgh/orm_by_dataclass_with_type_hints/)
-- [we need a python logo in r/place](https://www.reddit.com/r/Python/comments/tuizod/we_need_a_python_logo_in_rplace/)
-- [py-terraform: Python binding for Terraform](https://www.reddit.com/r/Python/comments/tuiv20/pyterraform_python_binding_for_terraform/)
 <!-- BLOG-POST-LIST:END -->
