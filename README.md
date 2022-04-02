@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dumb question but I need answers about coding in python. I&#39;m very new to coding a had no knowledge about it at all. Below in line 3, I&#39;m somewhat confused as to why the answer has changed. Was it because the first operand was true? But the second was false. And what is happening to line 6? Tnx :&rpar;](https://www.reddit.com/r/Python/comments/tu5u45/dumb_question_but_i_need_answers_about_coding_in/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/tu5ckr/saturday_daily_thread_resource_request_and/)
 - [Pokete: A terminal based Pokemon like game](https://www.reddit.com/r/Python/comments/tu1zat/pokete_a_terminal_based_pokemon_like_game/)
 - [largestinteriorrectangle - my first PyPI published package](https://www.reddit.com/r/Python/comments/tu0tfu/largestinteriorrectangle_my_first_pypi_published/)
 - [bundling python virtualenv AND interpreter?](https://www.reddit.com/r/Python/comments/ttyskq/bundling_python_virtualenv_and_interpreter/)
-- [I&#39;ve made a &quot;Falling sand&quot; Sandbox with Python &lpar;using pygame&rpar;](https://www.reddit.com/r/Python/comments/ttxxxq/ive_made_a_falling_sand_sandbox_with_python_using/)
-- [How are python threads different from other languages? I understand GIL limits code exec to one thread but how does &quot;usual&quot; threading is like without GIL.](https://www.reddit.com/r/Python/comments/ttx3k4/how_are_python_threads_different_from_other/)
 <!-- BLOG-POST-LIST:END -->
