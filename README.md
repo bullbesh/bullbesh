@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I made a simple access-code protected webpage. Any suggestions on how I can improve?](https://www.reddit.com/r/Python/comments/tugf5s/i_made_a_simple_accesscode_protected_webpage_any/)
-- [GitHub Repository - in Python3 🐍](https://www.reddit.com/r/Python/comments/tug873/github_repository_in_python3/)
-- [GitHub - SamirPaul1/DSAlgo: 📚This repository consists of solutions💡to various problems and concepts 📖 of Data Structures and Algorithms in Python 3 🐍 stored in a structured manner.💻👨‍💻](https://www.reddit.com/r/Python/comments/tug0sp/github_samirpaul1dsalgo_this_repository_consists/)
-- [XRP Blockchain Wrapper](https://www.reddit.com/r/Python/comments/tue6z7/xrp_blockchain_wrapper/)
-- [Handle Exception and Close Resource Using Python Context Manager With-Statement](https://www.reddit.com/r/Python/comments/tudfqc/handle_exception_and_close_resource_using_python/)
+- [An Example of Automated Hacking with Python](https://www.reddit.com/r/Python/comments/tuhe59/an_example_of_automated_hacking_with_python/)
+- [Gradually Migrating Python Code to asyncio](https://www.reddit.com/r/Python/comments/tuhb11/gradually_migrating_python_code_to_asyncio/)
+- [Instagram bot and Data gathering with UI](https://www.reddit.com/r/Python/comments/tuh6rm/instagram_bot_and_data_gathering_with_ui/)
+- [PyTermGUI now lets you export your terminal contents as an SVG screenshot!](https://www.reddit.com/r/Python/comments/tuh5ej/pytermgui_now_lets_you_export_your_terminal/)
+- [Recover deleted and overwritten files with RecoverPy 1.5.0](https://www.reddit.com/r/Python/comments/tugw0y/recover_deleted_and_overwritten_files_with/)
 <!-- BLOG-POST-LIST:END -->
