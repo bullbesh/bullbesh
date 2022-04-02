@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recover deleted and overwritten files with RecoverPy 1.5.0](https://www.reddit.com/r/Python/comments/tulvmq/recover_deleted_and_overwritten_files_with/)
+- [Python GUI Programming With Tkinter – Real Python](https://www.reddit.com/r/Python/comments/tulmi2/python_gui_programming_with_tkinter_real_python/)
 - [ORM by dataclass with type hints✨✨✨](https://www.reddit.com/r/Python/comments/tukdgh/orm_by_dataclass_with_type_hints/)
 - [we need a python logo in r/place](https://www.reddit.com/r/Python/comments/tuizod/we_need_a_python_logo_in_rplace/)
 - [py-terraform: Python binding for Terraform](https://www.reddit.com/r/Python/comments/tuiv20/pyterraform_python_binding_for_terraform/)
-- [SQL-driven semantic search with inline machine learning functions](https://www.reddit.com/r/Python/comments/tui43x/sqldriven_semantic_search_with_inline_machine/)
-- [An Example of Automated Hacking with Python](https://www.reddit.com/r/Python/comments/tuhe59/an_example_of_automated_hacking_with_python/)
 <!-- BLOG-POST-LIST:END -->
