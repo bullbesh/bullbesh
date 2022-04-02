@@ -15,9 +15,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best OOP Tutorial](https://www.reddit.com/r/Python/comments/tucz71/best_oop_tutorial/)
 - [Every 15 Minutes, Random YouTube Comment Gets Featured on the Thumbnail - Dynamic YouTube with Python](https://www.reddit.com/r/Python/comments/tu9lyd/every_15_minutes_random_youtube_comment_gets/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/tu5ckr/saturday_daily_thread_resource_request_and/)
 - [Pokete: A terminal based Pokemon like game](https://www.reddit.com/r/Python/comments/tu1zat/pokete_a_terminal_based_pokemon_like_game/)
 - [largestinteriorrectangle - my first PyPI published package](https://www.reddit.com/r/Python/comments/tu0tfu/largestinteriorrectangle_my_first_pypi_published/)
-- [bundling python virtualenv AND interpreter?](https://www.reddit.com/r/Python/comments/ttyskq/bundling_python_virtualenv_and_interpreter/)
 <!-- BLOG-POST-LIST:END -->
