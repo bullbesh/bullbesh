@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud server](https://www.reddit.com/r/Python/comments/tuszb4/cloud_server/)
+- [Best python course that provides a cert?](https://www.reddit.com/r/Python/comments/tusdou/best_python_course_that_provides_a_cert/)
 - [Beautiful circos plots in Python](https://www.reddit.com/r/Python/comments/tupzwe/beautiful_circos_plots_in_python/)
 - [GitHub - minimaxir/imgbeddings: Python package to generate image embeddings with CLIP without PyTorch/TensorFlow](https://www.reddit.com/r/Python/comments/tuokyp/github_minimaxirimgbeddings_python_package_to/)
 - [Free and reliable language translation API for developers](https://www.reddit.com/r/Python/comments/tunvta/free_and_reliable_language_translation_api_for/)
-- [Help building a Python logo in r/place!](https://www.reddit.com/r/Python/comments/tuno8s/help_building_a_python_logo_in_rplace/)
-- [Recover deleted and overwritten files with RecoverPy 1.5.0](https://www.reddit.com/r/Python/comments/tulvmq/recover_deleted_and_overwritten_files_with/)
 <!-- BLOG-POST-LIST:END -->
