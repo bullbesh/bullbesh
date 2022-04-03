@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Matrix Multiplication by divide and conquer method](https://www.reddit.com/r/Python/comments/tvgyah/matrix_multiplication_by_divide_and_conquer_method/)
+- [python in HTML or small program?](https://www.reddit.com/r/Python/comments/tvgcvp/python_in_html_or_small_program/)
 - [Introducing File Folder Hider! &lpar;made with Tkinter Python&rpar;](https://www.reddit.com/r/Python/comments/tvflrx/introducing_file_folder_hider_made_with_tkinter/)
 - [I made a video comparing different data storage formats that python users should consider. Feedback welcome!](https://www.reddit.com/r/Python/comments/tver6p/i_made_a_video_comparing_different_data_storage/)
 - [Easier Regexps](https://www.reddit.com/r/Python/comments/tveh1e/easier_regexps/)
-- [A Redux inspired store pattern for asyncio applications - SimpleEventMonitor](https://www.reddit.com/r/Python/comments/tve7uh/a_redux_inspired_store_pattern_for_asyncio/)
-- [magic-timer: Conveniently get a rough idea of how long things take. &lpar;package&rpar;](https://www.reddit.com/r/Python/comments/tvcnmr/magictimer_conveniently_get_a_rough_idea_of_how/)
 <!-- BLOG-POST-LIST:END -->
