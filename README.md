@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Share Python Code Snippets Like A Pro Without Using GitHub](https://www.reddit.com/r/Python/comments/tv33br/share_python_code_snippets_like_a_pro_without/)
 - [Python Selenium Tutorial #7 - Save &amp; Reuse Cookies](https://www.reddit.com/r/Python/comments/tv2rby/python_selenium_tutorial_7_save_reuse_cookies/)
 - [What Lies Between the Fibonacci Numbers?](https://www.reddit.com/r/Python/comments/tv1yd2/what_lies_between_the_fibonacci_numbers/)
 - [Data Visualization and simple Regression using Dash](https://www.reddit.com/r/Python/comments/tv1tq9/data_visualization_and_simple_regression_using/)
 - [Learning python as a beginner. Zero experience in the field. What is the quickest and easiest way to learn python for a newb ?? And is there is a good laptop to do coding or anyone is fine?](https://www.reddit.com/r/Python/comments/tv1lsm/learning_python_as_a_beginner_zero_experience_in/)
-- [Python App](https://www.reddit.com/r/Python/comments/tuy9d5/python_app/)
 <!-- BLOG-POST-LIST:END -->
