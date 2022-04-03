@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple and Super Easy-to-use Colabs](https://www.reddit.com/r/Python/comments/tva26l/simple_and_super_easytouse_colabs/)
+- [Instagram bot and Data gathering with GUI](https://www.reddit.com/r/Python/comments/tv9nz9/instagram_bot_and_data_gathering_with_gui/)
+- [Python beginners created these games based on my tutorials! What do you think?](https://www.reddit.com/r/Python/comments/tv9cin/python_beginners_created_these_games_based_on_my/)
 - [Python open-source OpenBB Terminal against Bloomberg Terminal](https://www.reddit.com/r/Python/comments/tv7xqp/python_opensource_openbb_terminal_against/)
 - [How is PyPy Tested?](https://www.reddit.com/r/Python/comments/tv7nyw/how_is_pypy_tested/)
-- [PtPython as default Django shell - my first Django package](https://www.reddit.com/r/Python/comments/tv7jej/ptpython_as_default_django_shell_my_first_django/)
-- [Python dictionary implementation](https://www.reddit.com/r/Python/comments/tv4p4i/python_dictionary_implementation/)
-- [Recover deleted and overwritten files with RecoverPy 1.5.0](https://www.reddit.com/r/Python/comments/tv460d/recover_deleted_and_overwritten_files_with/)
 <!-- BLOG-POST-LIST:END -->
