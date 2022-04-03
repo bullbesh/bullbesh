@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python open-source OpenBB Terminal against Bloomberg Terminal](https://www.reddit.com/r/Python/comments/tv7xqp/python_opensource_openbb_terminal_against/)
+- [How is PyPy Tested?](https://www.reddit.com/r/Python/comments/tv7nyw/how_is_pypy_tested/)
+- [PtPython as default Django shell - my first Django package](https://www.reddit.com/r/Python/comments/tv7jej/ptpython_as_default_django_shell_my_first_django/)
 - [Python dictionary implementation](https://www.reddit.com/r/Python/comments/tv4p4i/python_dictionary_implementation/)
 - [Recover deleted and overwritten files with RecoverPy 1.5.0](https://www.reddit.com/r/Python/comments/tv460d/recover_deleted_and_overwritten_files_with/)
-- [Tools and frameworks needed to create a REST API](https://www.reddit.com/r/Python/comments/tv3w0x/tools_and_frameworks_needed_to_create_a_rest_api/)
-- [I’m currently going through the 6 hour video of python for beginners on the programming with mosh YouTube channel.](https://www.reddit.com/r/Python/comments/tv3txu/im_currently_going_through_the_6_hour_video_of/)
-- [Share Python Code Snippets Like A Pro Without Using GitHub](https://www.reddit.com/r/Python/comments/tv33br/share_python_code_snippets_like_a_pro_without/)
 <!-- BLOG-POST-LIST:END -->
