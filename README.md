@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Darts in higher dimensions](https://www.reddit.com/r/Python/comments/tvbluw/darts_in_higher_dimensions/)
+- [Looking for text editor recommendations](https://www.reddit.com/r/Python/comments/tvb96q/looking_for_text_editor_recommendations/)
 - [Simple and Super Easy-to-use Colabs](https://www.reddit.com/r/Python/comments/tva26l/simple_and_super_easytouse_colabs/)
 - [Instagram bot and Data gathering with GUI](https://www.reddit.com/r/Python/comments/tv9nz9/instagram_bot_and_data_gathering_with_gui/)
 - [Python beginners created these games based on my tutorials! What do you think?](https://www.reddit.com/r/Python/comments/tv9cin/python_beginners_created_these_games_based_on_my/)
-- [Python open-source OpenBB Terminal against Bloomberg Terminal](https://www.reddit.com/r/Python/comments/tv7xqp/python_opensource_openbb_terminal_against/)
-- [How is PyPy Tested?](https://www.reddit.com/r/Python/comments/tv7nyw/how_is_pypy_tested/)
 <!-- BLOG-POST-LIST:END -->
