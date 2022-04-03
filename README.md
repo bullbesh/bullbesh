@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Matrix Multiplication by divide and conquer method](https://www.reddit.com/r/Python/comments/tvgyah/matrix_multiplication_by_divide_and_conquer_method/)
+- [Dice roll Probability](https://www.reddit.com/r/Python/comments/tvinqx/dice_roll_probability/)
+- [Who exactly is a python developer? I know this is a broad term which include many paths. But do we have to cover them all to become one? much like, one term to rule them all?](https://www.reddit.com/r/Python/comments/tvi6ql/who_exactly_is_a_python_developer_i_know_this_is/)
+- [python logo in r/place](https://www.reddit.com/r/Python/comments/tvhwuf/python_logo_in_rplace/)
+- [I am working on some 3D reconstruction using TOMVIZ, does anybody know any tutorial for segmentation in this software?](https://www.reddit.com/r/Python/comments/tvhi0d/i_am_working_on_some_3d_reconstruction_using/)
 - [python in HTML or small program?](https://www.reddit.com/r/Python/comments/tvgcvp/python_in_html_or_small_program/)
-- [Introducing File Folder Hider! &lpar;made with Tkinter Python&rpar;](https://www.reddit.com/r/Python/comments/tvflrx/introducing_file_folder_hider_made_with_tkinter/)
-- [I made a video comparing different data storage formats that python users should consider. Feedback welcome!](https://www.reddit.com/r/Python/comments/tver6p/i_made_a_video_comparing_different_data_storage/)
-- [Easier Regexps](https://www.reddit.com/r/Python/comments/tveh1e/easier_regexps/)
 <!-- BLOG-POST-LIST:END -->
