@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing File Folder Hider! &lpar;made with Tkinter Python&rpar;](https://www.reddit.com/r/Python/comments/tvflrx/introducing_file_folder_hider_made_with_tkinter/)
+- [I made a video comparing different data storage formats that python users should consider. Feedback welcome!](https://www.reddit.com/r/Python/comments/tver6p/i_made_a_video_comparing_different_data_storage/)
+- [Easier Regexps](https://www.reddit.com/r/Python/comments/tveh1e/easier_regexps/)
 - [A Redux inspired store pattern for asyncio applications - SimpleEventMonitor](https://www.reddit.com/r/Python/comments/tve7uh/a_redux_inspired_store_pattern_for_asyncio/)
 - [magic-timer: Conveniently get a rough idea of how long things take. &lpar;package&rpar;](https://www.reddit.com/r/Python/comments/tvcnmr/magictimer_conveniently_get_a_rough_idea_of_how/)
-- [Darts in higher dimensions](https://www.reddit.com/r/Python/comments/tvbluw/darts_in_higher_dimensions/)
-- [Looking for text editor recommendations](https://www.reddit.com/r/Python/comments/tvb96q/looking_for_text_editor_recommendations/)
-- [Simple and Super Easy-to-use Colabs](https://www.reddit.com/r/Python/comments/tva26l/simple_and_super_easytouse_colabs/)
 <!-- BLOG-POST-LIST:END -->
