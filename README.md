@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python and Blockchains , why python is not used as much in blockchain technology , Specially in the core of a blockchain](https://www.reddit.com/r/Python/comments/tvjxt2/python_and_blockchains_why_python_is_not_used_as/)
+- [we need to make the python logo in r/place](https://www.reddit.com/r/Python/comments/tvjg5x/we_need_to_make_the_python_logo_in_rplace/)
+- [Twitter read and analysis](https://www.reddit.com/r/Python/comments/tvj90z/twitter_read_and_analysis/)
 - [Dice roll Probability](https://www.reddit.com/r/Python/comments/tvinqx/dice_roll_probability/)
 - [Who exactly is a python developer? I know this is a broad term which include many paths. But do we have to cover them all to become one? much like, one term to rule them all?](https://www.reddit.com/r/Python/comments/tvi6ql/who_exactly_is_a_python_developer_i_know_this_is/)
-- [python logo in r/place](https://www.reddit.com/r/Python/comments/tvhwuf/python_logo_in_rplace/)
-- [I am working on some 3D reconstruction using TOMVIZ, does anybody know any tutorial for segmentation in this software?](https://www.reddit.com/r/Python/comments/tvhi0d/i_am_working_on_some_3d_reconstruction_using/)
-- [python in HTML or small program?](https://www.reddit.com/r/Python/comments/tvgcvp/python_in_html_or_small_program/)
 <!-- BLOG-POST-LIST:END -->
