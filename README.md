@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Selenium Tutorial #7 - Save &amp; Reuse Cookies](https://www.reddit.com/r/Python/comments/tv2rby/python_selenium_tutorial_7_save_reuse_cookies/)
+- [What Lies Between the Fibonacci Numbers?](https://www.reddit.com/r/Python/comments/tv1yd2/what_lies_between_the_fibonacci_numbers/)
+- [Data Visualization and simple Regression using Dash](https://www.reddit.com/r/Python/comments/tv1tq9/data_visualization_and_simple_regression_using/)
 - [Learning python as a beginner. Zero experience in the field. What is the quickest and easiest way to learn python for a newb ?? And is there is a good laptop to do coding or anyone is fine?](https://www.reddit.com/r/Python/comments/tv1lsm/learning_python_as_a_beginner_zero_experience_in/)
 - [Python App](https://www.reddit.com/r/Python/comments/tuy9d5/python_app/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/tuwz6h/sunday_daily_thread_whats_everyone_working_on/)
-- [Naming convention for type aliases](https://www.reddit.com/r/Python/comments/tuvz80/naming_convention_for_type_aliases/)
-- [Just got out of an interview and feel like an idiot.](https://www.reddit.com/r/Python/comments/tuutob/just_got_out_of_an_interview_and_feel_like_an/)
 <!-- BLOG-POST-LIST:END -->
