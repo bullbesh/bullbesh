@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Rock, Paper, Scissors](https://www.reddit.com/r/Python/comments/tw0wkp/rock_paper_scissors/)
 - [Solving and Animating the 3D Double Pendulum in Python: Sympy for algebra, Scipy for numerically solving differential equations, and vpython for 3D animation](https://www.reddit.com/r/Python/comments/tw0eck/solving_and_animating_the_3d_double_pendulum_in/)
-- [Python developer job post](https://www.reddit.com/r/Python/comments/tw08jd/python_developer_job_post/)
 - [ConfigParser - manage user-editable settings for your Python programs](https://www.reddit.com/r/Python/comments/tvzwqb/configparser_manage_usereditable_settings_for/)
 - [Scraping Naver Videos in Python](https://www.reddit.com/r/Python/comments/tvzlgk/scraping_naver_videos_in_python/)
+- [Creating A Modern Python Development Environment](https://www.reddit.com/r/Python/comments/tvyvov/creating_a_modern_python_development_environment/)
 <!-- BLOG-POST-LIST:END -->
