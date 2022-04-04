@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CaptchaCracker - Deep Learning-based Captcha Recognizer](https://www.reddit.com/r/Python/comments/tvwizf/captchacracker_deep_learningbased_captcha/)
+- [QualityScaler 1.1.0 - Image/video upscaling &amp; enhancement GUI app based on BRSGAN &amp; RealSR_JPEG](https://www.reddit.com/r/Python/comments/tvwbu7/qualityscaler_110_imagevideo_upscaling/)
+- [Machine Learning Sandbox in Python](https://www.reddit.com/r/Python/comments/tvw388/machine_learning_sandbox_in_python/)
 - [Is List Comprehension The Most Effective Way to Solve Any Tasks? | Python](https://www.reddit.com/r/Python/comments/tvut3j/is_list_comprehension_the_most_effective_way_to/)
 - [Choosing Python over other languages](https://www.reddit.com/r/Python/comments/tvubzw/choosing_python_over_other_languages/)
-- [Open-Source python package to find relevant images for a sentence](https://www.reddit.com/r/Python/comments/tvs0dp/opensource_python_package_to_find_relevant_images/)
-- [Quirky project I made &lpar;in Python, lol&rpar;](https://www.reddit.com/r/Python/comments/tvq3sd/quirky_project_i_made_in_python_lol/)
-- [If you&#39;re bored at work or school.](https://www.reddit.com/r/Python/comments/tvp8uf/if_youre_bored_at_work_or_school/)
 <!-- BLOG-POST-LIST:END -->
