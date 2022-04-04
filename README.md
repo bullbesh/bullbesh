@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Adding Features to Python desktop Assistant](https://www.reddit.com/r/Python/comments/tw47by/adding_features_to_python_desktop_assistant/)
-- [Collatz series script](https://www.reddit.com/r/Python/comments/tw3fyc/collatz_series_script/)
-- [Can my IT department tell &lpar;without any sortve deep dive&rpar; that I&#39;m using a python script to login?](https://www.reddit.com/r/Python/comments/tw2ozp/can_my_it_department_tell_without_any_sortve_deep/)
-- [StackSocial Discount. Are their courses any good?](https://www.reddit.com/r/Python/comments/tw2ihc/stacksocial_discount_are_their_courses_any_good/)
-- [Rock, Paper, Scissors](https://www.reddit.com/r/Python/comments/tw0wkp/rock_paper_scissors/)
+- [Python f-strings Are More Powerful Than You Might Think](https://www.reddit.com/r/Python/comments/tw69i5/python_fstrings_are_more_powerful_than_you_might/)
+- [pytohn syntax to a uml graph](https://www.reddit.com/r/Python/comments/tw5y8l/pytohn_syntax_to_a_uml_graph/)
+- [Book for python network programming](https://www.reddit.com/r/Python/comments/tw5tru/book_for_python_network_programming/)
+- [Head-first Kubernetes - A hands-on tutorial for beginners](https://www.reddit.com/r/Python/comments/tw50n4/headfirst_kubernetes_a_handson_tutorial_for/)
+- [Active Learning in Machine Learning Explained](https://www.reddit.com/r/Python/comments/tw4o2v/active_learning_in_machine_learning_explained/)
 <!-- BLOG-POST-LIST:END -->
