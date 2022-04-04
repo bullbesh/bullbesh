@@ -12,5 +12,5 @@
 - [Create python logo on r/place](https://www.reddit.com/r/Python/comments/tw8p3f/create_python_logo_on_rplace/)
 - [Voice Controlled Switch Using Arduino &amp; Python](https://www.reddit.com/r/Python/comments/tw8ace/voice_controlled_switch_using_arduino_python/)
 - [Python f-strings Are More Powerful Than You Might Think](https://www.reddit.com/r/Python/comments/tw69i5/python_fstrings_are_more_powerful_than_you_might/)
-- [pytohn syntax to a uml graph](https://www.reddit.com/r/Python/comments/tw5y8l/pytohn_syntax_to_a_uml_graph/)
+- [Book for python network programming](https://www.reddit.com/r/Python/comments/tw5tru/book_for_python_network_programming/)
 <!-- BLOG-POST-LIST:END -->
