@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating A Modern Python Development Environment](https://www.reddit.com/r/Python/comments/tvyvov/creating_a_modern_python_development_environment/)
-- [Hi guys I hv a question](https://www.reddit.com/r/Python/comments/tvy4b3/hi_guys_i_hv_a_question/)
-- [Different types of implementation of polymorphism](https://www.reddit.com/r/Python/comments/tvx5ee/different_types_of_implementation_of_polymorphism/)
-- [10 Best IDE Software for Beginners &amp; Professionals in 2022](https://www.reddit.com/r/Python/comments/tvwwzj/10_best_ide_software_for_beginners_professionals/)
-- [CaptchaCracker - Deep Learning-based Captcha Recognizer](https://www.reddit.com/r/Python/comments/tvwizf/captchacracker_deep_learningbased_captcha/)
+- [Rock, Paper, Scissors](https://www.reddit.com/r/Python/comments/tw0wkp/rock_paper_scissors/)
+- [Solving and Animating the 3D Double Pendulum in Python: Sympy for algebra, Scipy for numerically solving differential equations, and vpython for 3D animation](https://www.reddit.com/r/Python/comments/tw0eck/solving_and_animating_the_3d_double_pendulum_in/)
+- [Python developer job post](https://www.reddit.com/r/Python/comments/tw08jd/python_developer_job_post/)
+- [ConfigParser - manage user-editable settings for your Python programs](https://www.reddit.com/r/Python/comments/tvzwqb/configparser_manage_usereditable_settings_for/)
+- [Scraping Naver Videos in Python](https://www.reddit.com/r/Python/comments/tvzlgk/scraping_naver_videos_in_python/)
 <!-- BLOG-POST-LIST:END -->
