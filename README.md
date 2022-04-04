@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I published my first tutorial on YouTube: Insertion sort explained + Python code](https://www.reddit.com/r/Python/comments/twe9kh/i_published_my_first_tutorial_on_youtube/)
+- [Does anybody know where to find a lot of these simple jobs that can be automated easily?](https://www.reddit.com/r/Python/comments/twe24g/does_anybody_know_where_to_find_a_lot_of_these/)
 - [Script to organize reports and send info to necessary party](https://www.reddit.com/r/Python/comments/twcwyv/script_to_organize_reports_and_send_info_to/)
 - [How can I fix my code?](https://www.reddit.com/r/Python/comments/twcgfr/how_can_i_fix_my_code/)
 - [How i can condense this code?](https://www.reddit.com/r/Python/comments/twbdjb/how_i_can_condense_this_code/)
-- [Are there any good modules for Text to speech generation and Text summarization?](https://www.reddit.com/r/Python/comments/twbb9o/are_there_any_good_modules_for_text_to_speech/)
-- [Python Playground for Kids &amp; Beginners: Programming &amp; Coding](https://www.reddit.com/r/Python/comments/twapti/python_playground_for_kids_beginners_programming/)
 <!-- BLOG-POST-LIST:END -->
