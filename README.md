@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python libraries for hierarchical or multilevel time series analysis](https://www.reddit.com/r/Python/comments/tvmdfk/python_libraries_for_hierarchical_or_multilevel/)
-- [I am looking for a great online class/site for python with sql for data analysis](https://www.reddit.com/r/Python/comments/tvlbw0/i_am_looking_for_a_great_online_classsite_for/)
-- [Python and Blockchains](https://www.reddit.com/r/Python/comments/tvl7m8/python_and_blockchains/)
-- [Two new articles this week: Beginner tutorial on classes and object-oriented programming with exercises and Python careers research](https://www.reddit.com/r/Python/comments/tvkqlt/two_new_articles_this_week_beginner_tutorial_on/)
-- [Twitter read and analysis](https://www.reddit.com/r/Python/comments/tvj90z/twitter_read_and_analysis/)
+- [If you&#39;re bored at work or school.](https://www.reddit.com/r/Python/comments/tvp8uf/if_youre_bored_at_work_or_school/)
+- [swagger-gen: the Swagger spec generator you&#39;ve been waiting for](https://www.reddit.com/r/Python/comments/tvp63o/swaggergen_the_swagger_spec_generator_youve_been/)
+- [Is r/Python participating in r/place?](https://www.reddit.com/r/Python/comments/tvom5q/is_rpython_participating_in_rplace/)
+- [iMandelbrot is a tool made out of PyGame that visualizes the nature of a Mandelbrot fractal!](https://www.reddit.com/r/Python/comments/tvofnv/imandelbrot_is_a_tool_made_out_of_pygame_that/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/tvnusp/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
