@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hi guys I hv a question](https://www.reddit.com/r/Python/comments/tvy4b3/hi_guys_i_hv_a_question/)
 - [Different types of implementation of polymorphism](https://www.reddit.com/r/Python/comments/tvx5ee/different_types_of_implementation_of_polymorphism/)
 - [10 Best IDE Software for Beginners &amp; Professionals in 2022](https://www.reddit.com/r/Python/comments/tvwwzj/10_best_ide_software_for_beginners_professionals/)
 - [CaptchaCracker - Deep Learning-based Captcha Recognizer](https://www.reddit.com/r/Python/comments/tvwizf/captchacracker_deep_learningbased_captcha/)
 - [QualityScaler 1.1.0 - Image/video upscaling &amp; enhancement GUI app based on BRSGAN &amp; RealSR_JPEG](https://www.reddit.com/r/Python/comments/tvwbu7/qualityscaler_110_imagevideo_upscaling/)
-- [Machine Learning Sandbox in Python](https://www.reddit.com/r/Python/comments/tvw388/machine_learning_sandbox_in_python/)
 <!-- BLOG-POST-LIST:END -->
