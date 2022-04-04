@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made use of Zoho Sheets and used it as a database engine](https://www.reddit.com/r/Python/comments/tw954f/i_made_use_of_zoho_sheets_and_used_it_as_a/)
+- [Create python logo on r/place](https://www.reddit.com/r/Python/comments/tw8p3f/create_python_logo_on_rplace/)
+- [Voice Controlled Switch Using Arduino &amp; Python](https://www.reddit.com/r/Python/comments/tw8ace/voice_controlled_switch_using_arduino_python/)
 - [Python f-strings Are More Powerful Than You Might Think](https://www.reddit.com/r/Python/comments/tw69i5/python_fstrings_are_more_powerful_than_you_might/)
 - [pytohn syntax to a uml graph](https://www.reddit.com/r/Python/comments/tw5y8l/pytohn_syntax_to_a_uml_graph/)
-- [Book for python network programming](https://www.reddit.com/r/Python/comments/tw5tru/book_for_python_network_programming/)
-- [Head-first Kubernetes - A hands-on tutorial for beginners](https://www.reddit.com/r/Python/comments/tw50n4/headfirst_kubernetes_a_handson_tutorial_for/)
-- [Active Learning in Machine Learning Explained](https://www.reddit.com/r/Python/comments/tw4o2v/active_learning_in_machine_learning_explained/)
 <!-- BLOG-POST-LIST:END -->
