@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any python project ideas??](https://www.reddit.com/r/Python/comments/twi2uz/any_python_project_ideas/)
+- [Use nested GitHub Action Runners to reduce costs by up to 50% for multiple jobs in one workflow](https://www.reddit.com/r/Python/comments/twhorh/use_nested_github_action_runners_to_reduce_costs/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/twha21/tuesday_daily_thread_advanced_questions/)
+- [Predicting the Champions League with Python! &lpar;21/22&rpar;](https://www.reddit.com/r/Python/comments/twgvyu/predicting_the_champions_league_with_python_2122/)
 - [I published my first tutorial on YouTube: Insertion sort explained + Python code](https://www.reddit.com/r/Python/comments/twe9kh/i_published_my_first_tutorial_on_youtube/)
-- [Are there any good modules for Text to speech generation and Text summarization?](https://www.reddit.com/r/Python/comments/twbb9o/are_there_any_good_modules_for_text_to_speech/)
-- [Python Playground for Kids &amp; Beginners: Programming &amp; Coding](https://www.reddit.com/r/Python/comments/twapti/python_playground_for_kids_beginners_programming/)
-- [I made use of Zoho Sheets and used it as a database engine](https://www.reddit.com/r/Python/comments/tw954f/i_made_use_of_zoho_sheets_and_used_it_as_a/)
-- [Create python logo on r/place](https://www.reddit.com/r/Python/comments/tw8p3f/create_python_logo_on_rplace/)
 <!-- BLOG-POST-LIST:END -->
