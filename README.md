@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pressing Start](https://www.reddit.com/r/Python/comments/tx00ch/pressing_start/)
+- [Why](https://www.reddit.com/r/Python/comments/twzd2o/why/)
 - [Rookie question do I need socket io for app ?](https://www.reddit.com/r/Python/comments/twy88i/rookie_question_do_i_need_socket_io_for_app/)
 - [Help Me With This Project Please!!!](https://www.reddit.com/r/Python/comments/twxv8b/help_me_with_this_project_please/)
 - [As of today, how well does Anaconda run on M1 MacBook Pro?](https://www.reddit.com/r/Python/comments/tww564/as_of_today_how_well_does_anaconda_run_on_m1/)
-- [Program that automatically generates mind map of Python project folders?](https://www.reddit.com/r/Python/comments/twvr4m/program_that_automatically_generates_mind_map_of/)
-- [Combinator Parser in Python](https://www.reddit.com/r/Python/comments/twvck7/combinator_parser_in_python/)
 <!-- BLOG-POST-LIST:END -->
