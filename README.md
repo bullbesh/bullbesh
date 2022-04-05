@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Bicycle or Metro&quot;: My first interactive web app using Dash/Flask.](https://www.reddit.com/r/Python/comments/tx4xj4/bicycle_or_metro_my_first_interactive_web_app/)
-- [Create a timelapse of any canvas area and any timeframe of r/place](https://www.reddit.com/r/Python/comments/tx3x67/create_a_timelapse_of_any_canvas_area_and_any/)
-- [Applications of Python](https://www.reddit.com/r/Python/comments/tx0enu/applications_of_python/)
-- [Learning Python](https://www.reddit.com/r/Python/comments/tx0cns/learning_python/)
-- [Running a live 45-minutes session on the fundamentals of observability, OpenTelemetry, and distributed tracing with microservices messaging systems &lpar;Kafka, RabbitMQ, etc&rpar;](https://www.reddit.com/r/Python/comments/tx097t/running_a_live_45minutes_session_on_the/)
+- [No response from Terminal](https://www.reddit.com/r/Python/comments/tx6l5g/no_response_from_terminal/)
+- [Online coding video tutorials - Opinions](https://www.reddit.com/r/Python/comments/tx6k1q/online_coding_video_tutorials_opinions/)
+- [Rubik&#39;s Cube Model in Python using OOP](https://www.reddit.com/r/Python/comments/tx6gfb/rubiks_cube_model_in_python_using_oop/)
+- [What happened between SciPy creater Travis Oliphant and Enthought?](https://www.reddit.com/r/Python/comments/tx67bv/what_happened_between_scipy_creater_travis/)
+- [My first package to pypi. Connpy: Network connection manager and automation module](https://www.reddit.com/r/Python/comments/tx604l/my_first_package_to_pypi_connpy_network/)
 <!-- BLOG-POST-LIST:END -->
