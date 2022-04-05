@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why and how to use conda?](https://www.reddit.com/r/Python/comments/tx73j8/why_and_how_to_use_conda/)
+- [Python Programming with Windows and Linux simultaneously &lpar;Ubuntu Subsyst...](https://www.reddit.com/r/Python/comments/tx6za4/python_programming_with_windows_and_linux/)
 - [No response from Terminal](https://www.reddit.com/r/Python/comments/tx6l5g/no_response_from_terminal/)
 - [Online coding video tutorials - Opinions](https://www.reddit.com/r/Python/comments/tx6k1q/online_coding_video_tutorials_opinions/)
 - [Rubik&#39;s Cube Model in Python using OOP](https://www.reddit.com/r/Python/comments/tx6gfb/rubiks_cube_model_in_python_using_oop/)
-- [What happened between SciPy creater Travis Oliphant and Enthought?](https://www.reddit.com/r/Python/comments/tx67bv/what_happened_between_scipy_creater_travis/)
-- [My first package to pypi. Connpy: Network connection manager and automation module](https://www.reddit.com/r/Python/comments/tx604l/my_first_package_to_pypi_connpy_network/)
 <!-- BLOG-POST-LIST:END -->
