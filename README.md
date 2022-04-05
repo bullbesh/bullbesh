@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction Scrapy with Python](https://www.reddit.com/r/Python/comments/tx0kcj/introduction_scrapy_with_python/)
+- [BEST IDE?](https://www.reddit.com/r/Python/comments/tx2god/best_ide/)
 - [Applications of Python](https://www.reddit.com/r/Python/comments/tx0enu/applications_of_python/)
 - [Learning Python](https://www.reddit.com/r/Python/comments/tx0cns/learning_python/)
 - [Running a live 45-minutes session on the fundamentals of observability, OpenTelemetry, and distributed tracing with microservices messaging systems &lpar;Kafka, RabbitMQ, etc&rpar;](https://www.reddit.com/r/Python/comments/tx097t/running_a_live_45minutes_session_on_the/)
