@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I got a little problem with my visualization program.](https://www.reddit.com/r/Python/comments/twm7ke/i_got_a_little_problem_with_my_visualization/)
 - [Visualize Differential Equations](https://www.reddit.com/r/Python/comments/twjqds/visualize_differential_equations/)
 - [Any python project ideas??](https://www.reddit.com/r/Python/comments/twi2uz/any_python_project_ideas/)
 - [Use nested GitHub Action Runners to reduce costs by up to 50% for multiple jobs in one workflow](https://www.reddit.com/r/Python/comments/twhorh/use_nested_github_action_runners_to_reduce_costs/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/twha21/tuesday_daily_thread_advanced_questions/)
-- [Predicting the Champions League with Python! &lpar;21/22&rpar;](https://www.reddit.com/r/Python/comments/twgvyu/predicting_the_champions_league_with_python_2122/)
 <!-- BLOG-POST-LIST:END -->
