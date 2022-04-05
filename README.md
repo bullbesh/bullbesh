@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m presenting live in 6 hours at Microsoft Reactor online about troubleshooting Python applications, especially on Kubernetes. &lpar;Part 2 of the Python on Kubernetes series.&rpar; Let me know your questions in advance](https://www.reddit.com/r/Python/comments/twpt1m/im_presenting_live_in_6_hours_at_microsoft/)
+- [Python Firebird-driver 1.4.3 released](https://www.reddit.com/r/Python/comments/twpopx/python_firebirddriver_143_released/)
+- [How to Execute SQL Queries in Python and R Tutorial](https://www.reddit.com/r/Python/comments/twpo9w/how_to_execute_sql_queries_in_python_and_r/)
+- [Community for Python app developers](https://www.reddit.com/r/Python/comments/twpbuw/community_for_python_app_developers/)
 - [Python and the Truth](https://www.reddit.com/r/Python/comments/twoqza/python_and_the_truth/)
-- [Why is Python becoming indispensable in IoT Industry?](https://www.reddit.com/r/Python/comments/two0m1/why_is_python_becoming_indispensable_in_iot/)
-- [I got a little problem with my visualization program.](https://www.reddit.com/r/Python/comments/twm7ke/i_got_a_little_problem_with_my_visualization/)
-- [Visualize Differential Equations](https://www.reddit.com/r/Python/comments/twjqds/visualize_differential_equations/)
-- [Use nested GitHub Action Runners to reduce costs by up to 50% for multiple jobs in one workflow](https://www.reddit.com/r/Python/comments/twhorh/use_nested_github_action_runners_to_reduce_costs/)
 <!-- BLOG-POST-LIST:END -->
