@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Programming with Windows and Linux &lpar;Ubuntu Subsystem, Visual Stud...](https://www.reddit.com/r/Python/comments/txgryo/python_programming_with_windows_and_linux_ubuntu/)
 - [Extending pylint with plugins](https://www.reddit.com/r/Python/comments/txfsuz/extending_pylint_with_plugins/)
 - [A Practical Introduction To Web Scraping With Python](https://www.reddit.com/r/Python/comments/txf65f/a_practical_introduction_to_web_scraping_with/)
 - [Python email sender](https://www.reddit.com/r/Python/comments/txd85l/python_email_sender/)
 - [Little help with a project related to compliance and contract](https://www.reddit.com/r/Python/comments/txcnvl/little_help_with_a_project_related_to_compliance/)
-- [I made my first ever programming assignment into a youtube tutorial](https://www.reddit.com/r/Python/comments/txbulk/i_made_my_first_ever_programming_assignment_into/)
 <!-- BLOG-POST-LIST:END -->
