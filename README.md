@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A practical introduction solving differential equations numerically](https://www.reddit.com/r/Python/comments/txq7d2/a_practical_introduction_solving_differential/)
+- [Configpile: a modern, typed argparse replacement](https://www.reddit.com/r/Python/comments/txq6ch/configpile_a_modern_typed_argparse_replacement/)
 - [Show the songs that you are listening to on Telegram. &lpar;Like Discord&#39;s &quot;Listening to&quot;&rpar; [Recently updated]](https://www.reddit.com/r/Python/comments/txp8kf/show_the_songs_that_you_are_listening_to_on/)
 - [UNPHAT method for designing apps](https://www.reddit.com/r/Python/comments/txoq2p/unphat_method_for_designing_apps/)
 - [Sign up for DALL-E 2 Waitlist](https://www.reddit.com/r/Python/comments/txolv4/sign_up_for_dalle_2_waitlist/)
-- [i need help on my code](https://www.reddit.com/r/Python/comments/txok8k/i_need_help_on_my_code/)
-- [I made a small tool to apply &quot;color palette restriction&quot; on images !](https://www.reddit.com/r/Python/comments/txnuzx/i_made_a_small_tool_to_apply_color_palette/)
 <!-- BLOG-POST-LIST:END -->
