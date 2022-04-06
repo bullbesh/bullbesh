@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Continuous Feedback over code](https://www.reddit.com/r/Python/comments/txrs93/continuous_feedback_over_code/)
+- [twitter bot with tweepy, API rate limits.](https://www.reddit.com/r/Python/comments/txrpsw/twitter_bot_with_tweepy_api_rate_limits/)
+- [Blog API built with FastAPI, MySQL, SQLAlchemy, and Alembic](https://www.reddit.com/r/Python/comments/txrlz4/blog_api_built_with_fastapi_mysql_sqlalchemy_and/)
 - [A practical introduction solving differential equations numerically](https://www.reddit.com/r/Python/comments/txq7d2/a_practical_introduction_solving_differential/)
 - [Configpile: a modern, typed argparse replacement](https://www.reddit.com/r/Python/comments/txq6ch/configpile_a_modern_typed_argparse_replacement/)
-- [Show the songs that you are listening to on Telegram. &lpar;Like Discord&#39;s &quot;Listening to&quot;&rpar; [Recently updated]](https://www.reddit.com/r/Python/comments/txp8kf/show_the_songs_that_you_are_listening_to_on/)
-- [UNPHAT method for designing apps](https://www.reddit.com/r/Python/comments/txoq2p/unphat_method_for_designing_apps/)
-- [Sign up for DALL-E 2 Waitlist](https://www.reddit.com/r/Python/comments/txolv4/sign_up_for_dalle_2_waitlist/)
 <!-- BLOG-POST-LIST:END -->
