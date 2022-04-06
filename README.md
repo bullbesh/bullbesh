@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PYMOT](https://www.reddit.com/r/Python/comments/txbxzv/pymot/)
+- [I made my first ever programming assignment into a youtube tutorial](https://www.reddit.com/r/Python/comments/txbulk/i_made_my_first_ever_programming_assignment_into/)
+- [Termtyper - Typing in terminal is fun !](https://www.reddit.com/r/Python/comments/txbsdd/termtyper_typing_in_terminal_is_fun/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/tx8uqj/wednesday_daily_thread_beginner_questions/)
 - [Why and how to use conda?](https://www.reddit.com/r/Python/comments/tx73j8/why_and_how_to_use_conda/)
-- [Python Programming with Windows and Linux simultaneously &lpar;Ubuntu Subsyst...](https://www.reddit.com/r/Python/comments/tx6za4/python_programming_with_windows_and_linux/)
-- [No response from Terminal](https://www.reddit.com/r/Python/comments/tx6l5g/no_response_from_terminal/)
-- [Online coding video tutorials - Opinions](https://www.reddit.com/r/Python/comments/tx6k1q/online_coding_video_tutorials_opinions/)
-- [Rubik&#39;s Cube Model in Python using OOP](https://www.reddit.com/r/Python/comments/tx6gfb/rubiks_cube_model_in_python_using_oop/)
 <!-- BLOG-POST-LIST:END -->
