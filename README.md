@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Whose the winner between PHP vs. Python?](https://www.reddit.com/r/Python/comments/txfl27/whose_the_winner_between_php_vs_python/)
+- [A Practical Introduction To Web Scraping With Python](https://www.reddit.com/r/Python/comments/txf65f/a_practical_introduction_to_web_scraping_with/)
 - [Whose the winner between PHP vs. Python?](https://www.reddit.com/r/Python/comments/txe41p/whose_the_winner_between_php_vs_python/)
 - [Python email sender](https://www.reddit.com/r/Python/comments/txd85l/python_email_sender/)
 - [Little help with a project related to compliance and contract](https://www.reddit.com/r/Python/comments/txcnvl/little_help_with_a_project_related_to_compliance/)
-- [I made my first ever programming assignment into a youtube tutorial](https://www.reddit.com/r/Python/comments/txbulk/i_made_my_first_ever_programming_assignment_into/)
-- [Termtyper - Typing in terminal is fun !](https://www.reddit.com/r/Python/comments/txbsdd/termtyper_typing_in_terminal_is_fun/)
 <!-- BLOG-POST-LIST:END -->
