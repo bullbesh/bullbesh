@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Discord invite is invalid](https://www.reddit.com/r/Python/comments/txjnlb/discord_invite_is_invalid/)
 - [Scrape Naver Related Search Results with Python](https://www.reddit.com/r/Python/comments/txif8z/scrape_naver_related_search_results_with_python/)
 - [Need help with my homeworks](https://www.reddit.com/r/Python/comments/txidn5/need_help_with_my_homeworks/)
 - [Python Programming with Windows and Linux &lpar;Ubuntu Subsystem, Visual Stud...](https://www.reddit.com/r/Python/comments/txgryo/python_programming_with_windows_and_linux_ubuntu/)
 - [Extending pylint with plugins](https://www.reddit.com/r/Python/comments/txfsuz/extending_pylint_with_plugins/)
-- [A Practical Introduction To Web Scraping With Python](https://www.reddit.com/r/Python/comments/txf65f/a_practical_introduction_to_web_scraping_with/)
 <!-- BLOG-POST-LIST:END -->
