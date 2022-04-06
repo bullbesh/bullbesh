@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made the game Wordle in Python](https://www.reddit.com/r/Python/comments/txvx5q/i_made_the_game_wordle_in_python/)
 - [The last Python 3.11 alpha &lpar;3.11.0a7&rpar; is available](https://www.reddit.com/r/Python/comments/txuukh/the_last_python_311_alpha_3110a7_is_available/)
 - [The Best Machine Learning and Data Science Courses - 2022](https://www.reddit.com/r/Python/comments/txt2h5/the_best_machine_learning_and_data_science/)
 - [Continuous Feedback over code](https://www.reddit.com/r/Python/comments/txrs93/continuous_feedback_over_code/)
 - [Blog API built with FastAPI, MySQL, SQLAlchemy, and Alembic](https://www.reddit.com/r/Python/comments/txrlz4/blog_api_built_with_fastapi_mysql_sqlalchemy_and/)
-- [A practical introduction solving differential equations numerically](https://www.reddit.com/r/Python/comments/txq7d2/a_practical_introduction_solving_differential/)
 <!-- BLOG-POST-LIST:END -->
