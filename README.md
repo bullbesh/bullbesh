@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best Machine Learning and Data Science Courses - 2022](https://www.reddit.com/r/Python/comments/txt2h5/the_best_machine_learning_and_data_science/)
 - [Continuous Feedback over code](https://www.reddit.com/r/Python/comments/txrs93/continuous_feedback_over_code/)
 - [twitter bot with tweepy, API rate limits.](https://www.reddit.com/r/Python/comments/txrpsw/twitter_bot_with_tweepy_api_rate_limits/)
 - [Blog API built with FastAPI, MySQL, SQLAlchemy, and Alembic](https://www.reddit.com/r/Python/comments/txrlz4/blog_api_built_with_fastapi_mysql_sqlalchemy_and/)
 - [A practical introduction solving differential equations numerically](https://www.reddit.com/r/Python/comments/txq7d2/a_practical_introduction_solving_differential/)
-- [Configpile: a modern, typed argparse replacement](https://www.reddit.com/r/Python/comments/txq6ch/configpile_a_modern_typed_argparse_replacement/)
 <!-- BLOG-POST-LIST:END -->
