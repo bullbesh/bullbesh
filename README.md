@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [YAML: The Missing Battery in Python](https://www.reddit.com/r/Python/comments/txmfli/yaml_the_missing_battery_in_python/)
+- [How does the memory handling work in Python&#39;s C API &lpar;Python.h&rpar;?](https://www.reddit.com/r/Python/comments/txm9xe/how_does_the_memory_handling_work_in_pythons_c/)
 - [Programming projects for Physics in Python](https://www.reddit.com/r/Python/comments/txm6zl/programming_projects_for_physics_in_python/)
 - [Programming language stereotypes](https://www.reddit.com/r/Python/comments/txkrsc/programming_language_stereotypes/)
 - [A small doubt on Multi Threading](https://www.reddit.com/r/Python/comments/txkjh0/a_small_doubt_on_multi_threading/)
-- [hello this could be an english vocabulary question, what does comprehension mean from &#39;List Comprehension&#39;? I already learned that is like set builder notation](https://www.reddit.com/r/Python/comments/txk1nm/hello_this_could_be_an_english_vocabulary/)
-- [Discord invite is invalid](https://www.reddit.com/r/Python/comments/txjnlb/discord_invite_is_invalid/)
 <!-- BLOG-POST-LIST:END -->
