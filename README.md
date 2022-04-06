@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sign up for DALL-E 2 Waitlist](https://www.reddit.com/r/Python/comments/txolv4/sign_up_for_dalle_2_waitlist/)
+- [i need help on my code](https://www.reddit.com/r/Python/comments/txok8k/i_need_help_on_my_code/)
+- [I made a small tool to apply &quot;color palette restriction&quot; on images !](https://www.reddit.com/r/Python/comments/txnuzx/i_made_a_small_tool_to_apply_color_palette/)
 - [YAML: The Missing Battery in Python](https://www.reddit.com/r/Python/comments/txmfli/yaml_the_missing_battery_in_python/)
-- [How does the memory handling work in Python&#39;s C API &lpar;Python.h&rpar;?](https://www.reddit.com/r/Python/comments/txm9xe/how_does_the_memory_handling_work_in_pythons_c/)
 - [Programming projects for Physics in Python](https://www.reddit.com/r/Python/comments/txm6zl/programming_projects_for_physics_in_python/)
-- [Programming language stereotypes](https://www.reddit.com/r/Python/comments/txkrsc/programming_language_stereotypes/)
-- [A small doubt on Multi Threading](https://www.reddit.com/r/Python/comments/txkjh0/a_small_doubt_on_multi_threading/)
 <!-- BLOG-POST-LIST:END -->
