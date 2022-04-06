@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Programming projects for Physics in Python](https://www.reddit.com/r/Python/comments/txm6zl/programming_projects_for_physics_in_python/)
 - [Programming language stereotypes](https://www.reddit.com/r/Python/comments/txkrsc/programming_language_stereotypes/)
 - [A small doubt on Multi Threading](https://www.reddit.com/r/Python/comments/txkjh0/a_small_doubt_on_multi_threading/)
 - [hello this could be an english vocabulary question, what does comprehension mean from &#39;List Comprehension&#39;? I already learned that is like set builder notation](https://www.reddit.com/r/Python/comments/txk1nm/hello_this_could_be_an_english_vocabulary/)
 - [Discord invite is invalid](https://www.reddit.com/r/Python/comments/txjnlb/discord_invite_is_invalid/)
-- [Scrape Naver Related Search Results with Python](https://www.reddit.com/r/Python/comments/txif8z/scrape_naver_related_search_results_with_python/)
 <!-- BLOG-POST-LIST:END -->
