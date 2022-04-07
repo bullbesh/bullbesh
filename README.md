@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Send me suggestions](https://www.reddit.com/r/Python/comments/tyhe6o/send_me_suggestions/)
+- [Build a simple bank management system in python with MySQL](https://www.reddit.com/r/Python/comments/tyh72s/build_a_simple_bank_management_system_in_python/)
 - [Video Introduction to pandas Library in Python](https://www.reddit.com/r/Python/comments/tygobz/video_introduction_to_pandas_library_in_python/)
 - [Documentation is highly valued, but often overlooked](https://www.reddit.com/r/Python/comments/tygibq/documentation_is_highly_valued_but_often/)
 - [Maze Creator](https://www.reddit.com/r/Python/comments/tyg1cd/maze_creator/)
-- [Automatically apply for ~250,000 if you live in the UK](https://www.reddit.com/r/Python/comments/tyg0jq/automatically_apply_for_250000_if_you_live_in_the/)
-- [Add machine learning to your apps easily with Google&#39;s MediaPipe and Python &lpar;Beginner&#39;s Guide&rpar;](https://www.reddit.com/r/Python/comments/tyftwn/add_machine_learning_to_your_apps_easily_with/)
 <!-- BLOG-POST-LIST:END -->
