@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [High Tech Hacks!!](https://www.reddit.com/r/Python/comments/tylgzi/high_tech_hacks/)
+- [Abandoned Docker Library?](https://www.reddit.com/r/Python/comments/tylcez/abandoned_docker_library/)
+- [Getting started with Python - programming in Python 3.](https://www.reddit.com/r/Python/comments/tyl0o2/getting_started_with_python_programming_in_python/)
 - [I built an all-in-one Python Web and AI/ML Resources Website](https://www.reddit.com/r/Python/comments/tyi792/i_built_an_allinone_python_web_and_aiml_resources/)
 - [Send me suggestions](https://www.reddit.com/r/Python/comments/tyhe6o/send_me_suggestions/)
-- [Build a simple bank management system in python with MySQL](https://www.reddit.com/r/Python/comments/tyh72s/build_a_simple_bank_management_system_in_python/)
-- [Video Introduction to pandas Library in Python](https://www.reddit.com/r/Python/comments/tygobz/video_introduction_to_pandas_library_in_python/)
-- [Documentation is highly valued, but often overlooked](https://www.reddit.com/r/Python/comments/tygibq/documentation_is_highly_valued_but_often/)
 <!-- BLOG-POST-LIST:END -->
