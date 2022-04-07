@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friends and I are tired of online tutorials so we’re running a cohort for learning Python with competitive team games](https://www.reddit.com/r/Python/comments/tye97u/friends_and_i_are_tired_of_online_tutorials_so/)
 - [Palmette JS | Python and other language template generator.](https://www.reddit.com/r/Python/comments/tycthh/palmette_js_python_and_other_language_template/)
 - [Making a face-controlled keyboard &lpar;Python OpenCV + MediaPipe&rpar;](https://www.reddit.com/r/Python/comments/tycls0/making_a_facecontrolled_keyboard_python_opencv/)
 - [Rtree 1.0 released](https://www.reddit.com/r/Python/comments/tyb398/rtree_10_released/)
 - [How to summarize text with Python and machine learning](https://www.reddit.com/r/Python/comments/tyazf7/how_to_summarize_text_with_python_and_machine/)
-- [The Random Number In Numpy - Python Tutor](https://www.reddit.com/r/Python/comments/tyarze/the_random_number_in_numpy_python_tutor/)
 <!-- BLOG-POST-LIST:END -->
