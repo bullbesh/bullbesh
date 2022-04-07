@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rtree 1.0 released](https://www.reddit.com/r/Python/comments/tyb398/rtree_10_released/)
+- [How to summarize text with Python and machine learning](https://www.reddit.com/r/Python/comments/tyazf7/how_to_summarize_text_with_python_and_machine/)
 - [The Random Number In Numpy - Python Tutor](https://www.reddit.com/r/Python/comments/tyarze/the_random_number_in_numpy_python_tutor/)
 - [extreqs: parsing package extras from a requirements.txt](https://www.reddit.com/r/Python/comments/tyapmu/extreqs_parsing_package_extras_from_a/)
 - [How can I group by two columns in pandas](https://www.reddit.com/r/Python/comments/ty9e4l/how_can_i_group_by_two_columns_in_pandas/)
-- [GitHub - corpnewt/ProperTree: Cross platform GUI plist editor written in python.](https://www.reddit.com/r/Python/comments/ty8hba/github_corpnewtpropertree_cross_platform_gui/)
-- [How To Learn Python](https://www.reddit.com/r/Python/comments/ty8fp5/how_to_learn_python/)
 <!-- BLOG-POST-LIST:END -->
