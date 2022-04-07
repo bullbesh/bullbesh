@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Random Number In Numpy - Python Tutor](https://www.reddit.com/r/Python/comments/tyarze/the_random_number_in_numpy_python_tutor/)
+- [extreqs: parsing package extras from a requirements.txt](https://www.reddit.com/r/Python/comments/tyapmu/extreqs_parsing_package_extras_from_a/)
 - [How can I group by two columns in pandas](https://www.reddit.com/r/Python/comments/ty9e4l/how_can_i_group_by_two_columns_in_pandas/)
 - [GitHub - corpnewt/ProperTree: Cross platform GUI plist editor written in python.](https://www.reddit.com/r/Python/comments/ty8hba/github_corpnewtpropertree_cross_platform_gui/)
 - [How To Learn Python](https://www.reddit.com/r/Python/comments/ty8fp5/how_to_learn_python/)
-- [I made a game from scratch in 48 hours for the Ludum Dare with Python](https://www.reddit.com/r/Python/comments/ty6yvn/i_made_a_game_from_scratch_in_48_hours_for_the/)
-- [Dockersh : A shell for docker commands with autocomplete](https://www.reddit.com/r/Python/comments/ty6f0a/dockersh_a_shell_for_docker_commands_with/)
 <!-- BLOG-POST-LIST:END -->
