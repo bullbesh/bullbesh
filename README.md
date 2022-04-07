@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Friends and I are tired of online tutorials so we’re running a cohort for learning Python with competitive team games](https://www.reddit.com/r/Python/comments/tye97u/friends_and_i_are_tired_of_online_tutorials_so/)
-- [Palmette JS | Python and other language template generator.](https://www.reddit.com/r/Python/comments/tycthh/palmette_js_python_and_other_language_template/)
-- [Making a face-controlled keyboard &lpar;Python OpenCV + MediaPipe&rpar;](https://www.reddit.com/r/Python/comments/tycls0/making_a_facecontrolled_keyboard_python_opencv/)
-- [Rtree 1.0 released](https://www.reddit.com/r/Python/comments/tyb398/rtree_10_released/)
-- [How to summarize text with Python and machine learning](https://www.reddit.com/r/Python/comments/tyazf7/how_to_summarize_text_with_python_and_machine/)
+- [Video Introduction to pandas Library in Python](https://www.reddit.com/r/Python/comments/tygobz/video_introduction_to_pandas_library_in_python/)
+- [Documentation is highly valued, but often overlooked](https://www.reddit.com/r/Python/comments/tygibq/documentation_is_highly_valued_but_often/)
+- [Maze Creator](https://www.reddit.com/r/Python/comments/tyg1cd/maze_creator/)
+- [Automatically apply for ~250,000 if you live in the UK](https://www.reddit.com/r/Python/comments/tyg0jq/automatically_apply_for_250000_if_you_live_in_the/)
+- [Add machine learning to your apps easily with Google&#39;s MediaPipe and Python &lpar;Beginner&#39;s Guide&rpar;](https://www.reddit.com/r/Python/comments/tyftwn/add_machine_learning_to_your_apps_easily_with/)
 <!-- BLOG-POST-LIST:END -->
