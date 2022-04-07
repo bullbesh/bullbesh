@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - corpnewt/ProperTree: Cross platform GUI plist editor written in python.](https://www.reddit.com/r/Python/comments/ty8hba/github_corpnewtpropertree_cross_platform_gui/)
+- [How To Learn Python](https://www.reddit.com/r/Python/comments/ty8fp5/how_to_learn_python/)
 - [I made a game from scratch in 48 hours for the Ludum Dare with Python](https://www.reddit.com/r/Python/comments/ty6yvn/i_made_a_game_from_scratch_in_48_hours_for_the/)
 - [Dockersh : A shell for docker commands with autocomplete](https://www.reddit.com/r/Python/comments/ty6f0a/dockersh_a_shell_for_docker_commands_with/)
 - [Continuous feedback and the &#39;definition of done&#39;](https://www.reddit.com/r/Python/comments/ty5lnw/continuous_feedback_and_the_definition_of_done/)
-- [What is the best Python -&gt; direct executable package / compiler today? &lpar;April,2022&rpar;](https://www.reddit.com/r/Python/comments/ty36vb/what_is_the_best_python_direct_executable_package/)
-- [Undocumented API Wrapper &lpar;for Live Auctions&rpar;](https://www.reddit.com/r/Python/comments/ty35xw/undocumented_api_wrapper_for_live_auctions/)
 <!-- BLOG-POST-LIST:END -->
