@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the best Python -&gt; direct executable package / compiler today? &lpar;April,2022&rpar;](https://www.reddit.com/r/Python/comments/ty36vb/what_is_the_best_python_direct_executable_package/)
+- [Undocumented API Wrapper &lpar;for Live Auctions&rpar;](https://www.reddit.com/r/Python/comments/ty35xw/undocumented_api_wrapper_for_live_auctions/)
 - [Pong game in just 14 lines.](https://www.reddit.com/r/Python/comments/ty15no/pong_game_in_just_14_lines/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/txzwcj/thursday_daily_thread_python_careers_courses_and/)
 - [The Shortest Rock Paper Scissors](https://www.reddit.com/r/Python/comments/txyq7u/the_shortest_rock_paper_scissors/)
-- [I made the game Wordle in Python](https://www.reddit.com/r/Python/comments/txvx5q/i_made_the_game_wordle_in_python/)
-- [The last Python 3.11 alpha &lpar;3.11.0a7&rpar; is available](https://www.reddit.com/r/Python/comments/txuukh/the_last_python_311_alpha_3110a7_is_available/)
 <!-- BLOG-POST-LIST:END -->
