@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pong game in just 14 lines.](https://www.reddit.com/r/Python/comments/ty15no/pong_game_in_just_14_lines/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/txzwcj/thursday_daily_thread_python_careers_courses_and/)
 - [The Shortest Rock Paper Scissors](https://www.reddit.com/r/Python/comments/txyq7u/the_shortest_rock_paper_scissors/)
 - [I made the game Wordle in Python](https://www.reddit.com/r/Python/comments/txvx5q/i_made_the_game_wordle_in_python/)
 - [The last Python 3.11 alpha &lpar;3.11.0a7&rpar; is available](https://www.reddit.com/r/Python/comments/txuukh/the_last_python_311_alpha_3110a7_is_available/)
-- [Continuous Feedback over code](https://www.reddit.com/r/Python/comments/txrs93/continuous_feedback_over_code/)
-- [Blog API built with FastAPI, MySQL, SQLAlchemy, and Alembic](https://www.reddit.com/r/Python/comments/txrlz4/blog_api_built_with_fastapi_mysql_sqlalchemy_and/)
 <!-- BLOG-POST-LIST:END -->
