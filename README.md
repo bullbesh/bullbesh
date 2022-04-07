@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dockersh : A shell for docker commands with autocomplete](https://www.reddit.com/r/Python/comments/ty6f0a/dockersh_a_shell_for_docker_commands_with/)
 - [Continuous feedback and the &#39;definition of done&#39;](https://www.reddit.com/r/Python/comments/ty5lnw/continuous_feedback_and_the_definition_of_done/)
 - [What is the best Python -&gt; direct executable package / compiler today? &lpar;April,2022&rpar;](https://www.reddit.com/r/Python/comments/ty36vb/what_is_the_best_python_direct_executable_package/)
 - [Undocumented API Wrapper &lpar;for Live Auctions&rpar;](https://www.reddit.com/r/Python/comments/ty35xw/undocumented_api_wrapper_for_live_auctions/)
 - [Pong game in just 14 lines.](https://www.reddit.com/r/Python/comments/ty15no/pong_game_in_just_14_lines/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/txzwcj/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
