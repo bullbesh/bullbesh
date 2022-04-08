@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Preferred way to connect to a database](https://www.reddit.com/r/Python/comments/tz7aj5/preferred_way_to_connect_to_a_database/)
+- [Plot Surface problem](https://www.reddit.com/r/Python/comments/tz6ysh/plot_surface_problem/)
+- [Unix Command Cheat Sheet for Busy Developers](https://www.reddit.com/r/Python/comments/tz62m7/unix_command_cheat_sheet_for_busy_developers/)
+- [Scrape Google Play Search Apps in Python](https://www.reddit.com/r/Python/comments/tz621l/scrape_google_play_search_apps_in_python/)
 - [Rock-Paper-Scissors-Lizard-Spock Game](https://www.reddit.com/r/Python/comments/tz41db/rockpaperscissorslizardspock_game/)
-- [MicroPython pro-tip: Use WebREPL within your IDE](https://www.reddit.com/r/Python/comments/tz3knl/micropython_protip_use_webrepl_within_your_ide/)
-- [br4nch 2.0 - Currently in development!](https://www.reddit.com/r/Python/comments/tz38cy/br4nch_20_currently_in_development/)
-- [Favorite Python Web Framework](https://www.reddit.com/r/Python/comments/tz2v7b/favorite_python_web_framework/)
-- [Python Cafeteria Puzzel](https://www.reddit.com/r/Python/comments/tz0qcv/python_cafeteria_puzzel/)
 <!-- BLOG-POST-LIST:END -->
