@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python import to turn separated words into a single word](https://www.reddit.com/r/Python/comments/typam9/python_import_to_turn_separated_words_into_a/)
+- [Can I automate growing weed with a python script](https://www.reddit.com/r/Python/comments/tyrpue/can_i_automate_growing_weed_with_a_python_script/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/tyqfk8/friday_daily_thread_free_chat_friday_daily_thread/)
 - [With the very little Python experience I have, I coded this little “game” of uno.](https://www.reddit.com/r/Python/comments/tymxkf/with_the_very_little_python_experience_i_have_i/)
 - [Automate Investopedia stock simulator with Investopedia-bot](https://www.reddit.com/r/Python/comments/tymrnf/automate_investopedia_stock_simulator_with/)
 - [Abandoned Docker Library?](https://www.reddit.com/r/Python/comments/tylcez/abandoned_docker_library/)
-- [Getting started with Python - programming in Python 3.](https://www.reddit.com/r/Python/comments/tyl0o2/getting_started_with_python_programming_in_python/)
 <!-- BLOG-POST-LIST:END -->
