@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rock-Paper-Scissors-Lizard-Spock Game](https://www.reddit.com/r/Python/comments/tz41db/rockpaperscissorslizardspock_game/)
 - [MicroPython pro-tip: Use WebREPL within your IDE](https://www.reddit.com/r/Python/comments/tz3knl/micropython_protip_use_webrepl_within_your_ide/)
 - [br4nch 2.0 - Currently in development!](https://www.reddit.com/r/Python/comments/tz38cy/br4nch_20_currently_in_development/)
 - [Favorite Python Web Framework](https://www.reddit.com/r/Python/comments/tz2v7b/favorite_python_web_framework/)
 - [Python Cafeteria Puzzel](https://www.reddit.com/r/Python/comments/tz0qcv/python_cafeteria_puzzel/)
-- [Billing System Project in Python With Source Code](https://www.reddit.com/r/Python/comments/tz02y7/billing_system_project_in_python_with_source_code/)
 <!-- BLOG-POST-LIST:END -->
