@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating 3D Maps with Python &lpar;feat.Mapbox&rpar;](https://www.reddit.com/r/Python/comments/tyzbab/creating_3d_maps_with_python_featmapbox/)
+- [Do you specify a package version in your pipfile?](https://www.reddit.com/r/Python/comments/tyyt5r/do_you_specify_a_package_version_in_your_pipfile/)
 - [[Free Resource] Python 3 Cheat Sheet!](https://www.reddit.com/r/Python/comments/tyyr7r/free_resource_python_3_cheat_sheet/)
 - [tkinter on mac ?](https://www.reddit.com/r/Python/comments/tyyf2m/tkinter_on_mac/)
 - [What does none *int&lpar;len&lpar;arr&rpar;-3&rpar; in python means?](https://www.reddit.com/r/Python/comments/tywm9x/what_does_none_intlenarr3_in_python_means/)
-- [Backgammon Game](https://www.reddit.com/r/Python/comments/tyvodx/backgammon_game/)
-- [Best 20 Python Program only for Beginners](https://www.reddit.com/r/Python/comments/tyvlpg/best_20_python_program_only_for_beginners/)
 <!-- BLOG-POST-LIST:END -->
