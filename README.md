@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m 13, trying to learn Python.](https://www.reddit.com/r/Python/comments/tyu7kl/im_13_trying_to_learn_python/)
 - [THeRE ShOUld Be ONE– aND prEferABly Only oNE –OBvIoUS wAY tO DO It.](https://www.reddit.com/r/Python/comments/tytbnf/there_should_be_one_and_preferably_only_one/)
 - [Can I automate growing weed with a python script](https://www.reddit.com/r/Python/comments/tyrpue/can_i_automate_growing_weed_with_a_python_script/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/tyqfk8/friday_daily_thread_free_chat_friday_daily_thread/)
 - [With the very little Python experience I have, I coded this little “game” of uno.](https://www.reddit.com/r/Python/comments/tymxkf/with_the_very_little_python_experience_i_have_i/)
-- [Automate Investopedia stock simulator with Investopedia-bot](https://www.reddit.com/r/Python/comments/tymrnf/automate_investopedia_stock_simulator_with/)
 <!-- BLOG-POST-LIST:END -->
