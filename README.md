@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Free Resource] Python 3 Cheat Sheet!](https://www.reddit.com/r/Python/comments/tyyr7r/free_resource_python_3_cheat_sheet/)
+- [tkinter on mac ?](https://www.reddit.com/r/Python/comments/tyyf2m/tkinter_on_mac/)
 - [What does none *int&lpar;len&lpar;arr&rpar;-3&rpar; in python means?](https://www.reddit.com/r/Python/comments/tywm9x/what_does_none_intlenarr3_in_python_means/)
 - [Backgammon Game](https://www.reddit.com/r/Python/comments/tyvodx/backgammon_game/)
 - [Best 20 Python Program only for Beginners](https://www.reddit.com/r/Python/comments/tyvlpg/best_20_python_program_only_for_beginners/)
-- [I&#39;m 13, trying to learn Python.](https://www.reddit.com/r/Python/comments/tyu7kl/im_13_trying_to_learn_python/)
-- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/tyqfk8/friday_daily_thread_free_chat_friday_daily_thread/)
 <!-- BLOG-POST-LIST:END -->
