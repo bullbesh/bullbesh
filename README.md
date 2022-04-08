@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MicroPython pro-tip: Use WebREPL within your IDE](https://www.reddit.com/r/Python/comments/tz3knl/micropython_protip_use_webrepl_within_your_ide/)
+- [br4nch 2.0 - Currently in development!](https://www.reddit.com/r/Python/comments/tz38cy/br4nch_20_currently_in_development/)
+- [Favorite Python Web Framework](https://www.reddit.com/r/Python/comments/tz2v7b/favorite_python_web_framework/)
 - [Python Cafeteria Puzzel](https://www.reddit.com/r/Python/comments/tz0qcv/python_cafeteria_puzzel/)
 - [Billing System Project in Python With Source Code](https://www.reddit.com/r/Python/comments/tz02y7/billing_system_project_in_python_with_source_code/)
-- [Learn machine learning with python or c++ now](https://www.reddit.com/r/Python/comments/tz02gg/learn_machine_learning_with_python_or_c_now/)
-- [Does clean code equal &quot;Workplace&quot; code](https://www.reddit.com/r/Python/comments/tyztcm/does_clean_code_equal_workplace_code/)
-- [Python Faker Library](https://www.reddit.com/r/Python/comments/tyzpkt/python_faker_library/)
 <!-- BLOG-POST-LIST:END -->
