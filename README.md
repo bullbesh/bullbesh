@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Shortening common parts of code](https://www.reddit.com/r/Python/comments/tze4s6/shortening_common_parts_of_code/)
+- [Converting .laz to .las](https://www.reddit.com/r/Python/comments/tzdrbs/converting_laz_to_las/)
 - [How to make analyzer of UFC rankings in Python](https://www.reddit.com/r/Python/comments/tzc1dl/how_to_make_analyzer_of_ufc_rankings_in_python/)
 - [I created a library for teacher task automation](https://www.reddit.com/r/Python/comments/tzb9yc/i_created_a_library_for_teacher_task_automation/)
 - [Using Github to host local images permenently on the web.](https://www.reddit.com/r/Python/comments/tzb541/using_github_to_host_local_images_permenently_on/)
-- [Python Tutorial - How to create a Voice Recorder using Python?](https://www.reddit.com/r/Python/comments/tza4bs/python_tutorial_how_to_create_a_voice_recorder/)
-- [Wordle in command line](https://www.reddit.com/r/Python/comments/tz8uhj/wordle_in_command_line/)
 <!-- BLOG-POST-LIST:END -->
