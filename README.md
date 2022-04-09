@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Books like Programming Bitcoin and Neural Networks from Scratch](https://www.reddit.com/r/Python/comments/u03s24/books_like_programming_bitcoin_and_neural/)
+- [Tips for Python debugging in Vim](https://www.reddit.com/r/Python/comments/u03d4y/tips_for_python_debugging_in_vim/)
 - [An easy to use PGP tool](https://www.reddit.com/r/Python/comments/u02g7d/an_easy_to_use_pgp_tool/)
 - [I want to build a twitter bot which tweets github activity like when a account stars a repo or makes a repo , follows someone etc. Any api or anything ? I know about the Twitter API but what about github ?](https://www.reddit.com/r/Python/comments/u020ct/i_want_to_build_a_twitter_bot_which_tweets_github/)
 - [I released a game made with Pygame!](https://www.reddit.com/r/Python/comments/u01qvx/i_released_a_game_made_with_pygame/)
-- [[Challenge] print &quot;Hello World&quot; without using W and numbers in your code](https://www.reddit.com/r/Python/comments/u01kmr/challenge_print_hello_world_without_using_w_and/)
-- [Threading in Python: The Complete Guide](https://www.reddit.com/r/Python/comments/u01bcj/threading_in_python_the_complete_guide/)
 <!-- BLOG-POST-LIST:END -->
