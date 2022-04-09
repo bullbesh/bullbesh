@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [When default __new__ function should be overwritten?](https://www.reddit.com/r/Python/comments/tzmyvu/when_default_new_function_should_be_overwritten/)
+- [Need help with syntax](https://www.reddit.com/r/Python/comments/tzmov1/need_help_with_syntax/)
 - [Pygame Tutorial - Menus and Buttons!](https://www.reddit.com/r/Python/comments/tzjdxt/pygame_tutorial_menus_and_buttons/)
 - [How would you rate my python skills](https://www.reddit.com/r/Python/comments/tziquo/how_would_you_rate_my_python_skills/)
 - [Internship skills:](https://www.reddit.com/r/Python/comments/tzh04s/internship_skills/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/tzgu3e/saturday_daily_thread_resource_request_and/)
-- [Shortening common parts of code](https://www.reddit.com/r/Python/comments/tze4s6/shortening_common_parts_of_code/)
 <!-- BLOG-POST-LIST:END -->
