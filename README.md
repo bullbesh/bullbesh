@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [custom-literals A module implementing custom literal suffixes using pure Python](https://www.reddit.com/r/Python/comments/tzp8qe/customliterals_a_module_implementing_custom/)
+- [Python — Network Tracking using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/tzp4n9/python_network_tracking_using_wireshark_and/)
+- [A Hitomezashi pattern generator I made in python!](https://www.reddit.com/r/Python/comments/tzp0f4/a_hitomezashi_pattern_generator_i_made_in_python/)
 - [AWS Certified SysOps Administrator - Associate - NBCampus](https://www.reddit.com/r/Python/comments/tzn92x/aws_certified_sysops_administrator_associate/)
 - [When default __new__ function should be overwritten?](https://www.reddit.com/r/Python/comments/tzmyvu/when_default_new_function_should_be_overwritten/)
-- [Need help with syntax](https://www.reddit.com/r/Python/comments/tzmov1/need_help_with_syntax/)
-- [Pygame Tutorial - Menus and Buttons!](https://www.reddit.com/r/Python/comments/tzjdxt/pygame_tutorial_menus_and_buttons/)
-- [How would you rate my python skills](https://www.reddit.com/r/Python/comments/tziquo/how_would_you_rate_my_python_skills/)
 <!-- BLOG-POST-LIST:END -->
