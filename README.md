@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An easy to use PGP tool](https://www.reddit.com/r/Python/comments/u02g7d/an_easy_to_use_pgp_tool/)
+- [I want to build a twitter bot which tweets github activity like when a account stars a repo or makes a repo , follows someone etc. Any api or anything ? I know about the Twitter API but what about github ?](https://www.reddit.com/r/Python/comments/u020ct/i_want_to_build_a_twitter_bot_which_tweets_github/)
+- [I released a game made with Pygame!](https://www.reddit.com/r/Python/comments/u01qvx/i_released_a_game_made_with_pygame/)
+- [[Challenge] print &quot;Hello World&quot; without using W and numbers in your code](https://www.reddit.com/r/Python/comments/u01kmr/challenge_print_hello_world_without_using_w_and/)
 - [Threading in Python: The Complete Guide](https://www.reddit.com/r/Python/comments/u01bcj/threading_in_python_the_complete_guide/)
-- [Playlist Bot](https://www.reddit.com/r/Python/comments/u018zg/playlist_bot/)
-- [Learn Python Basics for Data Science](https://www.reddit.com/r/Python/comments/u0149r/learn_python_basics_for_data_science/)
-- [Has anyone applied to a job that requires a bachelors degree but doesn’t have one themselves and got the job??](https://www.reddit.com/r/Python/comments/u00pmy/has_anyone_applied_to_a_job_that_requires_a/)
-- [How to correctly install Python applications &amp; libraries from PyPI](https://www.reddit.com/r/Python/comments/tzyv6j/how_to_correctly_install_python_applications/)
 <!-- BLOG-POST-LIST:END -->
