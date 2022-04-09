@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Threading in Python: The Complete Guide](https://www.reddit.com/r/Python/comments/u01bcj/threading_in_python_the_complete_guide/)
+- [Playlist Bot](https://www.reddit.com/r/Python/comments/u018zg/playlist_bot/)
+- [Learn Python Basics for Data Science](https://www.reddit.com/r/Python/comments/u0149r/learn_python_basics_for_data_science/)
+- [Has anyone applied to a job that requires a bachelors degree but doesn’t have one themselves and got the job??](https://www.reddit.com/r/Python/comments/u00pmy/has_anyone_applied_to_a_job_that_requires_a/)
 - [How to correctly install Python applications &amp; libraries from PyPI](https://www.reddit.com/r/Python/comments/tzyv6j/how_to_correctly_install_python_applications/)
-- [Using Nuitka to Speed Python Code](https://www.reddit.com/r/Python/comments/tzy00o/using_nuitka_to_speed_python_code/)
-- [Open Source Rhythmic Midi Generator for all Major Keys in Python](https://www.reddit.com/r/Python/comments/tzwra2/open_source_rhythmic_midi_generator_for_all_major/)
-- [Build a Site Connectivity Checker in Python – Real Python](https://www.reddit.com/r/Python/comments/tzwhkh/build_a_site_connectivity_checker_in_python_real/)
-- [I made an R6 Strat Roulette discord bot in python!](https://www.reddit.com/r/Python/comments/tzulmw/i_made_an_r6_strat_roulette_discord_bot_in_python/)
 <!-- BLOG-POST-LIST:END -->
