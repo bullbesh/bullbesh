@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Internship skills:](https://www.reddit.com/r/Python/comments/tzh04s/internship_skills/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/tzgu3e/saturday_daily_thread_resource_request_and/)
 - [Shortening common parts of code](https://www.reddit.com/r/Python/comments/tze4s6/shortening_common_parts_of_code/)
 - [Converting .laz to .las](https://www.reddit.com/r/Python/comments/tzdrbs/converting_laz_to_las/)
 - [How to make analyzer of UFC rankings in Python](https://www.reddit.com/r/Python/comments/tzc1dl/how_to_make_analyzer_of_ufc_rankings_in_python/)
-- [I created a library for teacher task automation](https://www.reddit.com/r/Python/comments/tzb9yc/i_created_a_library_for_teacher_task_automation/)
-- [Using Github to host local images permenently on the web.](https://www.reddit.com/r/Python/comments/tzb541/using_github_to_host_local_images_permenently_on/)
 <!-- BLOG-POST-LIST:END -->
