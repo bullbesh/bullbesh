@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Rhythmic Midi Generator for all Major Keys in Python](https://www.reddit.com/r/Python/comments/tzwra2/open_source_rhythmic_midi_generator_for_all_major/)
+- [Build a Site Connectivity Checker in Python – Real Python](https://www.reddit.com/r/Python/comments/tzwhkh/build_a_site_connectivity_checker_in_python_real/)
 - [I made an R6 Strat Roulette discord bot in python!](https://www.reddit.com/r/Python/comments/tzulmw/i_made_an_r6_strat_roulette_discord_bot_in_python/)
 - [console writing in different languages be like:](https://www.reddit.com/r/Python/comments/tztqf8/console_writing_in_different_languages_be_like/)
 - [Portfolio](https://www.reddit.com/r/Python/comments/tzs1ab/portfolio/)
-- [Free Python Course Inquiry](https://www.reddit.com/r/Python/comments/tzra4g/free_python_course_inquiry/)
-- [Python client for Crunchbase&#39;s REST API](https://www.reddit.com/r/Python/comments/tzq3q7/python_client_for_crunchbases_rest_api/)
 <!-- BLOG-POST-LIST:END -->
