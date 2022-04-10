@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Selenium Tutorial #8 - Read, Block &amp; Mock Requests using Selenium Wire](https://www.reddit.com/r/Python/comments/u0c8yx/python_selenium_tutorial_8_read_block_mock/)
+- [Desktop stereo system made with Python](https://www.reddit.com/r/Python/comments/u0c60e/desktop_stereo_system_made_with_python/)
+- [Short Rock, Paper, Scissors game.](https://www.reddit.com/r/Python/comments/u0byeh/short_rock_paper_scissors_game/)
 - [r/AskScience flair classifier using Praw and Fasttext](https://www.reddit.com/r/Python/comments/u085ro/raskscience_flair_classifier_using_praw_and/)
 - [Analytics Dashboard with Plotly Dash Library](https://www.reddit.com/r/Python/comments/u07h4i/analytics_dashboard_with_plotly_dash_library/)
-- [HiQ - A Modern Observability System](https://www.reddit.com/r/Python/comments/u07er0/hiq_a_modern_observability_system/)
-- [Have/do any of you make a side hustle web scraping/procuring data with Python? Everyone that talks about it online in tandem with “make $ with Python” never says how much they made made doing this.](https://www.reddit.com/r/Python/comments/u06k0b/havedo_any_of_you_make_a_side_hustle_web/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/u05lzc/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
