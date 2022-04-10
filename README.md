@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flight travel api ?](https://www.reddit.com/r/Python/comments/u0lxyo/flight_travel_api/)
+- [Axis aligned rectangle collision-response library](https://www.reddit.com/r/Python/comments/u0ln76/axis_aligned_rectangle_collisionresponse_library/)
 - [What is the best practice for injecting configuration into a python application](https://www.reddit.com/r/Python/comments/u0j5rn/what_is_the_best_practice_for_injecting/)
 - [Exploring data in CockroachDB with Python and Pandas in DataStation](https://www.reddit.com/r/Python/comments/u0i6he/exploring_data_in_cockroachdb_with_python_and/)
 - [Space Science with Python - Autoencoders &lpar;concept&rpar;](https://www.reddit.com/r/Python/comments/u0hr50/space_science_with_python_autoencoders_concept/)
-- [Creating a balanced BST from an unbalanced BST](https://www.reddit.com/r/Python/comments/u0h1n0/creating_a_balanced_bst_from_an_unbalanced_bst/)
-- [How do you pronounce libraries with `py` in the name?](https://www.reddit.com/r/Python/comments/u0g45w/how_do_you_pronounce_libraries_with_py_in_the_name/)
 <!-- BLOG-POST-LIST:END -->
