@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meddle, a pharmaceutical themed variant of popular word game &lpar;Wordle&rpar; | Created with Python + Flask!](https://www.reddit.com/r/Python/comments/u0nchp/meddle_a_pharmaceutical_themed_variant_of_popular/)
 - [Flight travel api ?](https://www.reddit.com/r/Python/comments/u0lxyo/flight_travel_api/)
 - [Axis aligned rectangle collision-response library](https://www.reddit.com/r/Python/comments/u0ln76/axis_aligned_rectangle_collisionresponse_library/)
 - [What is the best practice for injecting configuration into a python application](https://www.reddit.com/r/Python/comments/u0j5rn/what_is_the_best_practice_for_injecting/)
 - [Exploring data in CockroachDB with Python and Pandas in DataStation](https://www.reddit.com/r/Python/comments/u0i6he/exploring_data_in_cockroachdb_with_python_and/)
-- [Space Science with Python - Autoencoders &lpar;concept&rpar;](https://www.reddit.com/r/Python/comments/u0hr50/space_science_with_python_autoencoders_concept/)
 <!-- BLOG-POST-LIST:END -->
