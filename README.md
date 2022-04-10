@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [r/AskScience flair classifier using Praw and Fasttext](https://www.reddit.com/r/Python/comments/u085ro/raskscience_flair_classifier_using_praw_and/)
+- [Analytics Dashboard with Plotly Dash Library](https://www.reddit.com/r/Python/comments/u07h4i/analytics_dashboard_with_plotly_dash_library/)
+- [HiQ - A Modern Observability System](https://www.reddit.com/r/Python/comments/u07er0/hiq_a_modern_observability_system/)
 - [Have/do any of you make a side hustle web scraping/procuring data with Python? Everyone that talks about it online in tandem with “make $ with Python” never says how much they made made doing this.](https://www.reddit.com/r/Python/comments/u06k0b/havedo_any_of_you_make_a_side_hustle_web/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/u05lzc/sunday_daily_thread_whats_everyone_working_on/)
-- [Can someone recommend me ball python names pls](https://www.reddit.com/r/Python/comments/u04y52/can_someone_recommend_me_ball_python_names_pls/)
-- [What nontechnical piece of advice have you received that has changed how you work as a developer?](https://www.reddit.com/r/Python/comments/u0431h/what_nontechnical_piece_of_advice_have_you/)
-- [Tips for Python debugging in Vim](https://www.reddit.com/r/Python/comments/u03d4y/tips_for_python_debugging_in_vim/)
 <!-- BLOG-POST-LIST:END -->
