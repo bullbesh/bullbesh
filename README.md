@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring data in CockroachDB with Python and Pandas in DataStation](https://www.reddit.com/r/Python/comments/u0i6he/exploring_data_in_cockroachdb_with_python_and/)
+- [Space Science with Python - Autoencoders &lpar;concept&rpar;](https://www.reddit.com/r/Python/comments/u0hr50/space_science_with_python_autoencoders_concept/)
 - [Creating a balanced BST from an unbalanced BST](https://www.reddit.com/r/Python/comments/u0h1n0/creating_a_balanced_bst_from_an_unbalanced_bst/)
 - [How do you pronounce libraries with `py` in the name?](https://www.reddit.com/r/Python/comments/u0g45w/how_do_you_pronounce_libraries_with_py_in_the_name/)
 - [A Brief Introduction to PyQt](https://www.reddit.com/r/Python/comments/u0f053/a_brief_introduction_to_pyqt/)
-- [YouTube version in case you missed it live: troubleshooting Python applications on Kubernetes &lpar;hunting down memory leaks, running cpu profilers, and using non-breaking debuggers&rpar;](https://www.reddit.com/r/Python/comments/u0etrg/youtube_version_in_case_you_missed_it_live/)
-- [Python Selenium Tutorial #8 - Read, Block &amp; Mock Requests using Selenium Wire](https://www.reddit.com/r/Python/comments/u0c8yx/python_selenium_tutorial_8_read_block_mock/)
 <!-- BLOG-POST-LIST:END -->
