@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Selenium with Python for Beginners + Sample website you can probe without violating our Terms of Service](https://www.reddit.com/r/Python/comments/u0uwsq/selenium_with_python_for_beginners_sample_website/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/u0ujvk/monday_daily_thread_project_ideas/)
 - [Learning GUI for Git](https://www.reddit.com/r/Python/comments/u0sygl/learning_gui_for_git/)
 - [IndicatorManagement v0.4.0 - Management of mathematical/financial indicators](https://www.reddit.com/r/Python/comments/u0opx3/indicatormanagement_v040_management_of/)
 - [Meddle, a pharmaceutical themed variant of popular word game &lpar;Wordle&rpar; | Created with Python + Flask!](https://www.reddit.com/r/Python/comments/u0nchp/meddle_a_pharmaceutical_themed_variant_of_popular/)
-- [Axis aligned rectangle collision-response library](https://www.reddit.com/r/Python/comments/u0ln76/axis_aligned_rectangle_collisionresponse_library/)
-- [What is the best practice for injecting configuration into a python application](https://www.reddit.com/r/Python/comments/u0j5rn/what_is_the_best_practice_for_injecting/)
 <!-- BLOG-POST-LIST:END -->
