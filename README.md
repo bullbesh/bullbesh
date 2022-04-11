@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Aimbot Python Tutorial](https://www.reddit.com/r/Python/comments/u1ibo5/ai_aimbot_python_tutorial/)
 - [The Python on Microcontrollers Newsletter - free, open source, no spam ever](https://www.reddit.com/r/Python/comments/u1hqnr/the_python_on_microcontrollers_newsletter_free/)
 - [Introduction to Streamlit and Streamlit Components](https://www.reddit.com/r/Python/comments/u1f4tt/introduction_to_streamlit_and_streamlit_components/)
 - [Free Python 3 Course](https://www.reddit.com/r/Python/comments/u1f1se/free_python_3_course/)
-- [python reshape](https://www.reddit.com/r/Python/comments/u1edu5/python_reshape/)
 - [Python Tutorial Snippet - How to create a Stock Trading News Alert Application?](https://www.reddit.com/r/Python/comments/u1e1vm/python_tutorial_snippet_how_to_create_a_stock/)
 <!-- BLOG-POST-LIST:END -->
