@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hiring devs across the globe 🚀](https://www.reddit.com/r/Python/comments/u18g2z/hiring_devs_across_the_globe/)
+- [Question on heapq design - why no maxheap implementation?](https://www.reddit.com/r/Python/comments/u1858d/question_on_heapq_design_why_no_maxheap/)
+- [How to do return_if?](https://www.reddit.com/r/Python/comments/u17vtv/how_to_do_return_if/)
 - [This Week Two Intermediate Articles - On Dunder Methods and Python with Docker / Docker-Compose](https://www.reddit.com/r/Python/comments/u16r3b/this_week_two_intermediate_articles_on_dunder/)
 - [Machine Learning With PyTorch And Scikit-Learn eBook](https://www.reddit.com/r/Python/comments/u16hr1/machine_learning_with_pytorch_and_scikitlearn/)
-- [Monitor your Cluster Stack with Telegraf, InfluxDB and Grafana](https://www.reddit.com/r/Python/comments/u15q0w/monitor_your_cluster_stack_with_telegraf_influxdb/)
-- [Microservices in 10 minutes - Minos tutorial](https://www.reddit.com/r/Python/comments/u15nc9/microservices_in_10_minutes_minos_tutorial/)
-- [Low Code Python has Arrived](https://www.reddit.com/r/Python/comments/u15h0k/low_code_python_has_arrived/)
 <!-- BLOG-POST-LIST:END -->
