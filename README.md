@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [New to programming](https://www.reddit.com/r/Python/comments/u14gry/new_to_programming/)
-- [QualityScaler 1.2.0 - Image/video upscaling &amp; enhancement app](https://www.reddit.com/r/Python/comments/u146jl/qualityscaler_120_imagevideo_upscaling/)
-- [Python If-Else Statement Example](https://www.reddit.com/r/Python/comments/u13w5h/python_ifelse_statement_example/)
-- [Rmse-Mse-Linear regression mpdel-What is RMSE and MSE in linear regression models?-InsideAIML](https://www.reddit.com/r/Python/comments/u12cxr/rmsemselinear_regression_mpdelwhat_is_rmse_and/)
-- [Where should I start if I want to learn Python or any language in general?](https://www.reddit.com/r/Python/comments/u11orz/where_should_i_start_if_i_want_to_learn_python_or/)
+- [This Week Two Intermediate Articles - On Dunder Methods and Python with Docker / Docker-Compose](https://www.reddit.com/r/Python/comments/u16r3b/this_week_two_intermediate_articles_on_dunder/)
+- [Machine Learning With PyTorch And Scikit-Learn eBook](https://www.reddit.com/r/Python/comments/u16hr1/machine_learning_with_pytorch_and_scikitlearn/)
+- [Monitor your Cluster Stack with Telegraf, InfluxDB and Grafana](https://www.reddit.com/r/Python/comments/u15q0w/monitor_your_cluster_stack_with_telegraf_influxdb/)
+- [Microservices in 10 minutes - Minos tutorial](https://www.reddit.com/r/Python/comments/u15nc9/microservices_in_10_minutes_minos_tutorial/)
+- [Low Code Python has Arrived](https://www.reddit.com/r/Python/comments/u15h0k/low_code_python_has_arrived/)
 <!-- BLOG-POST-LIST:END -->
