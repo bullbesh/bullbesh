@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Where should I start if I want to learn Python or any language in general?](https://www.reddit.com/r/Python/comments/u11orz/where_should_i_start_if_i_want_to_learn_python_or/)
 - [Ideal Coding Bootcamp](https://www.reddit.com/r/Python/comments/u10b4g/ideal_coding_bootcamp/)
 - [I’m coding a phone verification service in Python, tell me in the comments if you would use it](https://www.reddit.com/r/Python/comments/u0wx99/im_coding_a_phone_verification_service_in_python/)
 - [Selenium with Python for Beginners + Sample website you can probe without violating our Terms of Service](https://www.reddit.com/r/Python/comments/u0uwsq/selenium_with_python_for_beginners_sample_website/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/u0ujvk/monday_daily_thread_project_ideas/)
-- [Learning GUI for Git](https://www.reddit.com/r/Python/comments/u0sygl/learning_gui_for_git/)
 <!-- BLOG-POST-LIST:END -->
