@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free Python 3 Course](https://www.reddit.com/r/Python/comments/u1f1se/free_python_3_course/)
+- [python reshape](https://www.reddit.com/r/Python/comments/u1edu5/python_reshape/)
 - [Python Tutorial Snippet - How to create a Stock Trading News Alert Application?](https://www.reddit.com/r/Python/comments/u1e1vm/python_tutorial_snippet_how_to_create_a_stock/)
 - [Crypto toolkit I wrote](https://www.reddit.com/r/Python/comments/u1ddpi/crypto_toolkit_i_wrote/)
 - [Basic how to load/read and show images in Python &lpar;OpenCV&rpar;](https://www.reddit.com/r/Python/comments/u1daza/basic_how_to_loadread_and_show_images_in_python/)
-- [Open-source library that takes an AI model as input and produces an optimized version that runs much faster in inference](https://www.reddit.com/r/Python/comments/u1bbjw/opensource_library_that_takes_an_ai_model_as/)
-- [python code for snake game | How to make snake game in Python](https://www.reddit.com/r/Python/comments/u1ap07/python_code_for_snake_game_how_to_make_snake_game/)
 <!-- BLOG-POST-LIST:END -->
