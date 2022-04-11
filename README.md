@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there any platform to share scripts, import and run them easily?](https://www.reddit.com/r/Python/comments/u19ok4/is_there_any_platform_to_share_scripts_import_and/)
 - [Hiring devs across the globe 🚀](https://www.reddit.com/r/Python/comments/u18g2z/hiring_devs_across_the_globe/)
 - [Question on heapq design - why no maxheap implementation?](https://www.reddit.com/r/Python/comments/u1858d/question_on_heapq_design_why_no_maxheap/)
 - [How to do return_if?](https://www.reddit.com/r/Python/comments/u17vtv/how_to_do_return_if/)
 - [This Week Two Intermediate Articles - On Dunder Methods and Python with Docker / Docker-Compose](https://www.reddit.com/r/Python/comments/u16r3b/this_week_two_intermediate_articles_on_dunder/)
-- [Machine Learning With PyTorch And Scikit-Learn eBook](https://www.reddit.com/r/Python/comments/u16hr1/machine_learning_with_pytorch_and_scikitlearn/)
 <!-- BLOG-POST-LIST:END -->
