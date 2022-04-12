@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a Bluetooth LE repeater using Python to overcome the range limitation when transferring data](https://www.reddit.com/r/Python/comments/u1u01z/create_a_bluetooth_le_repeater_using_python_to/)
+- [SOAP Webservice Simplex](https://www.reddit.com/r/Python/comments/u1tym5/soap_webservice_simplex/)
+- [Natural syntax for units in Python](https://www.reddit.com/r/Python/comments/u1tgt0/natural_syntax_for_units_in_python/)
+- [What the Decorators in Plain Words | Python](https://www.reddit.com/r/Python/comments/u1tglr/what_the_decorators_in_plain_words_python/)
 - [This is how I wrote the code to start a test with the unittest module but it is returning as 0 tests. Is the return making any problems? &lpar;I am able to share the complete code but it is long&rpar;. Posting the code and the script below-](https://www.reddit.com/r/Python/comments/u1sw21/this_is_how_i_wrote_the_code_to_start_a_test_with/)
-- [Why Everyone Should Learn Programming?](https://www.reddit.com/r/Python/comments/u1shmk/why_everyone_should_learn_programming/)
-- [Instagram likes predi tor using decision tree](https://www.reddit.com/r/Python/comments/u1qkkd/instagram_likes_predi_tor_using_decision_tree/)
-- [&#39;Python is like a toy programming language compared to C++&#39;](https://www.reddit.com/r/Python/comments/u1qbdq/python_is_like_a_toy_programming_language/)
-- [Porting from Windows to Linux: Python vs. Powershell?](https://www.reddit.com/r/Python/comments/u1ogz1/porting_from_windows_to_linux_python_vs_powershell/)
 <!-- BLOG-POST-LIST:END -->
