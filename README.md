@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI array of JSON in RequestBody for machine learning prediction &lpar;Multiple inputs&rpar;](https://www.reddit.com/r/Python/comments/u22c4q/fastapi_array_of_json_in_requestbody_for_machine/)
+- [fstring.help: Python f-string guide](https://www.reddit.com/r/Python/comments/u21wcl/fstringhelp_python_fstring_guide/)
 - [20 Python Interview Questions To Challenge Your Knowledge](https://www.reddit.com/r/Python/comments/u218g8/20_python_interview_questions_to_challenge_your/)
 - [Build Own Web Framework](https://www.reddit.com/r/Python/comments/u20x25/build_own_web_framework/)
 - [Announcing Quart-DB](https://www.reddit.com/r/Python/comments/u20nde/announcing_quartdb/)
-- [Interactive Process Tree Python](https://www.reddit.com/r/Python/comments/u20gfy/interactive_process_tree_python/)
-- [I wrote a tutorial on how to use pytest to write good Python code. I hope somebody finds it useful!](https://www.reddit.com/r/Python/comments/u206vp/i_wrote_a_tutorial_on_how_to_use_pytest_to_write/)
 <!-- BLOG-POST-LIST:END -->
