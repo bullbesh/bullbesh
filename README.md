@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Porting from Windows to Linux: Python vs. Powershell?](https://www.reddit.com/r/Python/comments/u1ogz1/porting_from_windows_to_linux_python_vs_powershell/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/u1lfq8/tuesday_daily_thread_advanced_questions/)
 - [SQLite Database with Python](https://www.reddit.com/r/Python/comments/u1k58n/sqlite_database_with_python/)
 - [Coding Challenge](https://www.reddit.com/r/Python/comments/u1jngp/coding_challenge/)
 - [AI Aimbot Python Tutorial](https://www.reddit.com/r/Python/comments/u1ibo5/ai_aimbot_python_tutorial/)
-- [The Python on Microcontrollers Newsletter - free, open source, no spam ever](https://www.reddit.com/r/Python/comments/u1hqnr/the_python_on_microcontrollers_newsletter_free/)
 <!-- BLOG-POST-LIST:END -->
