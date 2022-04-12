@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 months of python, Beginning an AlgoBot, TEAR MY CODE to Shred to make me better.](https://www.reddit.com/r/Python/comments/u27epy/5_months_of_python_beginning_an_algobot_tear_my/)
 - [dealing with multiple point clouds](https://www.reddit.com/r/Python/comments/u26vot/dealing_with_multiple_point_clouds/)
 - [python programming quick look](https://www.reddit.com/r/Python/comments/u25pul/python_programming_quick_look/)
 - [TIL Dropbox started, client and server, with Python and even hired the creator of Python](https://www.reddit.com/r/Python/comments/u255tq/til_dropbox_started_client_and_server_with_python/)
 - [2 Level Security system &lpar;Arduino Keypad + Face recognition &rpar; using Python](https://www.reddit.com/r/Python/comments/u24o2f/2_level_security_system_arduino_keypad_face/)
-- [FastAPI array of JSON in RequestBody for machine learning prediction &lpar;Multiple inputs&rpar;](https://www.reddit.com/r/Python/comments/u22c4q/fastapi_array_of_json_in_requestbody_for_machine/)
 <!-- BLOG-POST-LIST:END -->
