@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [python programming quick look](https://www.reddit.com/r/Python/comments/u25pul/python_programming_quick_look/)
+- [TIL Dropbox started, client and server, with Python and even hired the creator of Python](https://www.reddit.com/r/Python/comments/u255tq/til_dropbox_started_client_and_server_with_python/)
+- [2 Level Security system &lpar;Arduino Keypad + Face recognition &rpar; using Python](https://www.reddit.com/r/Python/comments/u24o2f/2_level_security_system_arduino_keypad_face/)
 - [FastAPI array of JSON in RequestBody for machine learning prediction &lpar;Multiple inputs&rpar;](https://www.reddit.com/r/Python/comments/u22c4q/fastapi_array_of_json_in_requestbody_for_machine/)
 - [fstring.help: Python f-string guide](https://www.reddit.com/r/Python/comments/u21wcl/fstringhelp_python_fstring_guide/)
-- [20 Python Interview Questions To Challenge Your Knowledge](https://www.reddit.com/r/Python/comments/u218g8/20_python_interview_questions_to_challenge_your/)
-- [Build Own Web Framework](https://www.reddit.com/r/Python/comments/u20x25/build_own_web_framework/)
-- [Announcing Quart-DB](https://www.reddit.com/r/Python/comments/u20nde/announcing_quartdb/)
 <!-- BLOG-POST-LIST:END -->
