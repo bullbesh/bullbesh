@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/u1lfq8/tuesday_daily_thread_advanced_questions/)
 - [SQLite Database with Python](https://www.reddit.com/r/Python/comments/u1k58n/sqlite_database_with_python/)
 - [Coding Challenge](https://www.reddit.com/r/Python/comments/u1jngp/coding_challenge/)
 - [AI Aimbot Python Tutorial](https://www.reddit.com/r/Python/comments/u1ibo5/ai_aimbot_python_tutorial/)
 - [The Python on Microcontrollers Newsletter - free, open source, no spam ever](https://www.reddit.com/r/Python/comments/u1hqnr/the_python_on_microcontrollers_newsletter_free/)
-- [Introduction to Streamlit and Streamlit Components](https://www.reddit.com/r/Python/comments/u1f4tt/introduction_to_streamlit_and_streamlit_components/)
 <!-- BLOG-POST-LIST:END -->
