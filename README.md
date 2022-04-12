@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recommendations on any books /youtube channels from where I can learn Datastructure and Algorithms in python](https://www.reddit.com/r/Python/comments/u1w2sd/recommendations_on_any_books_youtube_channels/)
+- [Scraping Google Finance Ticker in Python](https://www.reddit.com/r/Python/comments/u1vwze/scraping_google_finance_ticker_in_python/)
 - [Gufo Ping - The Python asyncio Ping library](https://www.reddit.com/r/Python/comments/u1vbxb/gufo_ping_the_python_asyncio_ping_library/)
 - [Create a Bluetooth LE repeater using Python to overcome the range limitation when transferring data](https://www.reddit.com/r/Python/comments/u1u01z/create_a_bluetooth_le_repeater_using_python_to/)
 - [SOAP Webservice Simplex](https://www.reddit.com/r/Python/comments/u1tym5/soap_webservice_simplex/)
-- [Natural syntax for units in Python](https://www.reddit.com/r/Python/comments/u1tgt0/natural_syntax_for_units_in_python/)
-- [What the Decorators in Plain Words | Python](https://www.reddit.com/r/Python/comments/u1tglr/what_the_decorators_in_plain_words_python/)
 <!-- BLOG-POST-LIST:END -->
