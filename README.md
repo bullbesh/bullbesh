@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Python is like a toy programming language compared to C++&#39;](https://www.reddit.com/r/Python/comments/u1qbdq/python_is_like_a_toy_programming_language/)
 - [Porting from Windows to Linux: Python vs. Powershell?](https://www.reddit.com/r/Python/comments/u1ogz1/porting_from_windows_to_linux_python_vs_powershell/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/u1lfq8/tuesday_daily_thread_advanced_questions/)
 - [SQLite Database with Python](https://www.reddit.com/r/Python/comments/u1k58n/sqlite_database_with_python/)
 - [Coding Challenge](https://www.reddit.com/r/Python/comments/u1jngp/coding_challenge/)
-- [AI Aimbot Python Tutorial](https://www.reddit.com/r/Python/comments/u1ibo5/ai_aimbot_python_tutorial/)
 <!-- BLOG-POST-LIST:END -->
