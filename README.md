@@ -8,8 +8,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Surveying SQL parser libraries in a few high-level languages](https://www.reddit.com/r/Python/comments/u29qh0/surveying_sql_parser_libraries_in_a_few_highlevel/)
 - [5 months of python, Beginning an AlgoBot, TEAR MY CODE to Shred to make me better.](https://www.reddit.com/r/Python/comments/u27epy/5_months_of_python_beginning_an_algobot_tear_my/)
-- [dealing with multiple point clouds](https://www.reddit.com/r/Python/comments/u26vot/dealing_with_multiple_point_clouds/)
 - [python programming quick look](https://www.reddit.com/r/Python/comments/u25pul/python_programming_quick_look/)
 - [TIL Dropbox started, client and server, with Python and even hired the creator of Python](https://www.reddit.com/r/Python/comments/u255tq/til_dropbox_started_client_and_server_with_python/)
 - [2 Level Security system &lpar;Arduino Keypad + Face recognition &rpar; using Python](https://www.reddit.com/r/Python/comments/u24o2f/2_level_security_system_arduino_keypad_face/)
