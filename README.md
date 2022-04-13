@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Minimalist dependency injection in Python](https://www.reddit.com/r/Python/comments/u2pow9/minimalist_dependency_injection_in_python/)
+- [I made a video about Cross Validation using python&#39;s sklearn package. An extremely important yet often overlooked topic in machine learning.](https://www.reddit.com/r/Python/comments/u2pmet/i_made_a_video_about_cross_validation_using/)
+- [Basic intro to PyGame by building Snake](https://www.reddit.com/r/Python/comments/u2pdk0/basic_intro_to_pygame_by_building_snake/)
 - [Python 3.11 is Coming! Here’s How It Fares Against Python 3.10](https://www.reddit.com/r/Python/comments/u2orpk/python_311_is_coming_heres_how_it_fares_against/)
 - [Do you have hundreds of old and embarrassing tweets? Here&#39;s a script to delete them all.](https://www.reddit.com/r/Python/comments/u2o1al/do_you_have_hundreds_of_old_and_embarrassing/)
-- [Workflows Tasks statuses&lpar;COMPLETED, PENDING etc&rpar; with Reporting.](https://www.reddit.com/r/Python/comments/u2nvoo/workflows_tasks_statusescompleted_pending_etc/)
-- [MaKing a program to check website data.](https://www.reddit.com/r/Python/comments/u2lv1t/making_a_program_to_check_website_data/)
-- [Here is a script that turns your pc off when a download is finished](https://www.reddit.com/r/Python/comments/u2ln8f/here_is_a_script_that_turns_your_pc_off_when_a/)
 <!-- BLOG-POST-LIST:END -->
