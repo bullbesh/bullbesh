@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MaKing a program to check website data.](https://www.reddit.com/r/Python/comments/u2lv1t/making_a_program_to_check_website_data/)
+- [Here is a script that turns your pc off when a download is finished](https://www.reddit.com/r/Python/comments/u2ln8f/here_is_a_script_that_turns_your_pc_off_when_a/)
 - [I need help with this code](https://www.reddit.com/r/Python/comments/u2l5kf/i_need_help_with_this_code/)
 - [Free Course – Beginner’s Guide to Python Turtle](https://www.reddit.com/r/Python/comments/u2ir7u/free_course_beginners_guide_to_python_turtle/)
 - [Gotchas of early-bound function argument defaults in Python](https://www.reddit.com/r/Python/comments/u2iknk/gotchas_of_earlybound_function_argument_defaults/)
-- [Why do some functions have the arguments outside and some inside? e.g: len&lpar;example&rpar; vs example.upper&lpar;&rpar; ?](https://www.reddit.com/r/Python/comments/u2gg0a/why_do_some_functions_have_the_arguments_outside/)
-- [A python framework for unstructured data processing](https://www.reddit.com/r/Python/comments/u2g5ha/a_python_framework_for_unstructured_data/)
 <!-- BLOG-POST-LIST:END -->
