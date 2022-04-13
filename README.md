@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hacking Instagram Scammers and Takeover Admin Dashboard](https://www.reddit.com/r/Python/comments/u2tf1v/hacking_instagram_scammers_and_takeover_admin/)
 - [typeforce: Make mypy more effective](https://www.reddit.com/r/Python/comments/u2sbgj/typeforce_make_mypy_more_effective/)
 - [`nme` - package to simplify data persistence when upgrading data structures](https://www.reddit.com/r/Python/comments/u2s3uy/nme_package_to_simplify_data_persistence_when/)
 - [Why does the Development Company use the Python web framework?](https://www.reddit.com/r/Python/comments/u2rvxb/why_does_the_development_company_use_the_python/)
 - [Python Game Programming &lpar;Pygame&rpar;](https://www.reddit.com/r/Python/comments/u2qneq/python_game_programming_pygame/)
-- [Minimalist dependency injection in Python](https://www.reddit.com/r/Python/comments/u2pow9/minimalist_dependency_injection_in_python/)
 <!-- BLOG-POST-LIST:END -->
