@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free Course – Beginner’s Guide to Python Turtle](https://www.reddit.com/r/Python/comments/u2ir7u/free_course_beginners_guide_to_python_turtle/)
+- [Gotchas of early-bound function argument defaults in Python](https://www.reddit.com/r/Python/comments/u2iknk/gotchas_of_earlybound_function_argument_defaults/)
 - [Why do some functions have the arguments outside and some inside? e.g: len&lpar;example&rpar; vs example.upper&lpar;&rpar; ?](https://www.reddit.com/r/Python/comments/u2gg0a/why_do_some_functions_have_the_arguments_outside/)
 - [A python framework for unstructured data processing](https://www.reddit.com/r/Python/comments/u2g5ha/a_python_framework_for_unstructured_data/)
 - [Do people generally write Sphinx API documentation using autoapi or manually?](https://www.reddit.com/r/Python/comments/u2dfzz/do_people_generally_write_sphinx_api/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/u2cz7f/wednesday_daily_thread_beginner_questions/)
-- [My first working code piece!](https://www.reddit.com/r/Python/comments/u2ccc8/my_first_working_code_piece/)
 <!-- BLOG-POST-LIST:END -->
