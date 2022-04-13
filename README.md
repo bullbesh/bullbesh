@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [typeforce: Make mypy more effective](https://www.reddit.com/r/Python/comments/u2sbgj/typeforce_make_mypy_more_effective/)
+- [`nme` - package to simplify data persistence when upgrading data structures](https://www.reddit.com/r/Python/comments/u2s3uy/nme_package_to_simplify_data_persistence_when/)
+- [Why does the Development Company use the Python web framework?](https://www.reddit.com/r/Python/comments/u2rvxb/why_does_the_development_company_use_the_python/)
 - [Python Game Programming &lpar;Pygame&rpar;](https://www.reddit.com/r/Python/comments/u2qneq/python_game_programming_pygame/)
 - [Minimalist dependency injection in Python](https://www.reddit.com/r/Python/comments/u2pow9/minimalist_dependency_injection_in_python/)
-- [I made a video about Cross Validation using python&#39;s sklearn package. An extremely important yet often overlooked topic in machine learning.](https://www.reddit.com/r/Python/comments/u2pmet/i_made_a_video_about_cross_validation_using/)
-- [Basic intro to PyGame by building Snake](https://www.reddit.com/r/Python/comments/u2pdk0/basic_intro_to_pygame_by_building_snake/)
-- [Python 3.11 is Coming! Here’s How It Fares Against Python 3.10](https://www.reddit.com/r/Python/comments/u2orpk/python_311_is_coming_heres_how_it_fares_against/)
 <!-- BLOG-POST-LIST:END -->
