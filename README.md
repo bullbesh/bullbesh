@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Workflows Tasks statuses&lpar;COMPLETED, PENDING etc&rpar; with Reporting.](https://www.reddit.com/r/Python/comments/u2nvoo/workflows_tasks_statusescompleted_pending_etc/)
 - [MaKing a program to check website data.](https://www.reddit.com/r/Python/comments/u2lv1t/making_a_program_to_check_website_data/)
 - [Here is a script that turns your pc off when a download is finished](https://www.reddit.com/r/Python/comments/u2ln8f/here_is_a_script_that_turns_your_pc_off_when_a/)
 - [I need help with this code](https://www.reddit.com/r/Python/comments/u2l5kf/i_need_help_with_this_code/)
 - [Free Course – Beginner’s Guide to Python Turtle](https://www.reddit.com/r/Python/comments/u2ir7u/free_course_beginners_guide_to_python_turtle/)
-- [Gotchas of early-bound function argument defaults in Python](https://www.reddit.com/r/Python/comments/u2iknk/gotchas_of_earlybound_function_argument_defaults/)
 <!-- BLOG-POST-LIST:END -->
