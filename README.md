@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A live 45-minutes session on the fundamentals of observability, OpenTelemetry, and distributed tracing with microservices&#39; messaging systems &lpar;Kafka, RabbitMQ, etc&rpar;](https://www.reddit.com/r/Python/comments/u3kzsh/a_live_45minutes_session_on_the_fundamentals_of/)
+- [The Best Machine Learning Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/u3kh2o/the_best_machine_learning_courses_on_udemy_2022/)
+- [ModuleNotFoundError: No Module Named](https://www.reddit.com/r/Python/comments/u3k2dh/modulenotfounderror_no_module_named/)
 - [flake8-pylint: Flake8 plugin that runs PyLint](https://www.reddit.com/r/Python/comments/u3jj93/flake8pylint_flake8_plugin_that_runs_pylint/)
 - [Does game development encourage beginners to learn computer programming?](https://www.reddit.com/r/Python/comments/u3jijr/does_game_development_encourage_beginners_to/)
-- [Using Python how to connect to multiple Bluetooth LE devices and transfer data between them.](https://www.reddit.com/r/Python/comments/u3j2d6/using_python_how_to_connect_to_multiple_bluetooth/)
-- [Running Rich&#39;s Inspect in bashrc](https://www.reddit.com/r/Python/comments/u3imay/running_richs_inspect_in_bashrc/)
-- [Live log google spreadsheet](https://www.reddit.com/r/Python/comments/u3igrq/live_log_google_spreadsheet/)
 <!-- BLOG-POST-LIST:END -->
