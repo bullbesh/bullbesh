@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/u343wx/thursday_daily_thread_python_careers_courses_and/)
 - [Learn how to write clean Python code with this free ebook](https://www.reddit.com/r/Python/comments/u32r51/learn_how_to_write_clean_python_code_with_this/)
 - [Chances of getting a job for smb. learned python at home](https://www.reddit.com/r/Python/comments/u32l5z/chances_of_getting_a_job_for_smb_learned_python/)
 - [What are your most wanted quality indicators for Python code?](https://www.reddit.com/r/Python/comments/u31bkw/what_are_your_most_wanted_quality_indicators_for/)
 - [Alarm-Clock made with Python and Kivy](https://www.reddit.com/r/Python/comments/u2zz5r/alarmclock_made_with_python_and_kivy/)
-- [Create a Web App with Python](https://www.reddit.com/r/Python/comments/u2xuxd/create_a_web_app_with_python/)
 <!-- BLOG-POST-LIST:END -->
