@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best way to create GUI for python script?](https://www.reddit.com/r/Python/comments/u3sk9e/best_way_to_create_gui_for_python_script/)
+- [Ready-Made Mobile App UI for Serverless Python](https://www.reddit.com/r/Python/comments/u3s8ji/readymade_mobile_app_ui_for_serverless_python/)
+- [Run Multiple Functions in Parallel in Python3](https://www.reddit.com/r/Python/comments/u3rxoa/run_multiple_functions_in_parallel_in_python3/)
 - [Python Financial Stock analysis &lpar;Algo Trading&rpar;](https://www.reddit.com/r/Python/comments/u3r7ob/python_financial_stock_analysis_algo_trading/)
 - [I&#39;m organizing a hackathon!](https://www.reddit.com/r/Python/comments/u3r7bu/im_organizing_a_hackathon/)
-- [Financial portfolio optimization for scikit-learn enthusiasts](https://www.reddit.com/r/Python/comments/u3qq2x/financial_portfolio_optimization_for_scikitlearn/)
-- [Parts of the Standard Library that are considered to be bad practice / un-Pythonic ?](https://www.reddit.com/r/Python/comments/u3p62s/parts_of_the_standard_library_that_are_considered/)
-- [Learning Python : Best IDEs and Code Editors](https://www.reddit.com/r/Python/comments/u3ohvp/learning_python_best_ides_and_code_editors/)
 <!-- BLOG-POST-LIST:END -->
