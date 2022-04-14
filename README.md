@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nebullvm, an open-source library to accelerate AI inference by 5-20x in a few lines of code](https://www.reddit.com/r/Python/comments/u3u3ts/nebullvm_an_opensource_library_to_accelerate_ai/)
+- [Typeform for python programmers](https://www.reddit.com/r/Python/comments/u3tr14/typeform_for_python_programmers/)
+- [For those familiar with SpeechRecognition module, does it collect user data?](https://www.reddit.com/r/Python/comments/u3tp8v/for_those_familiar_with_speechrecognition_module/)
+- [Version 2.1.1 of YFrake library just released!](https://www.reddit.com/r/Python/comments/u3taxa/version_211_of_yfrake_library_just_released/)
 - [Best way to create GUI for python script?](https://www.reddit.com/r/Python/comments/u3sk9e/best_way_to_create_gui_for_python_script/)
-- [Ready-Made Mobile App UI for Serverless Python](https://www.reddit.com/r/Python/comments/u3s8ji/readymade_mobile_app_ui_for_serverless_python/)
-- [Run Multiple Functions in Parallel in Python3](https://www.reddit.com/r/Python/comments/u3rxoa/run_multiple_functions_in_parallel_in_python3/)
-- [Python Financial Stock analysis &lpar;Algo Trading&rpar;](https://www.reddit.com/r/Python/comments/u3r7ob/python_financial_stock_analysis_algo_trading/)
-- [I&#39;m organizing a hackathon!](https://www.reddit.com/r/Python/comments/u3r7bu/im_organizing_a_hackathon/)
 <!-- BLOG-POST-LIST:END -->
