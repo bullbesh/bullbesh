@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [mdiff - generating diff with block move detection](https://www.reddit.com/r/Python/comments/u3glpx/mdiff_generating_diff_with_block_move_detection/)
+- [HackerRank or Leetcode?](https://www.reddit.com/r/Python/comments/u3ghm3/hackerrank_or_leetcode/)
+- [Running your scheduled Python tasks on Heroku? You can now natively monitor them! 👾👾👾](https://www.reddit.com/r/Python/comments/u3gaab/running_your_scheduled_python_tasks_on_heroku_you/)
 - [DataSpell 2022.1 Released](https://www.reddit.com/r/Python/comments/u3d9w5/dataspell_20221_released/)
 - [Algorithms are overrated](https://www.reddit.com/r/Python/comments/u3cumf/algorithms_are_overrated/)
-- [Using Python to create large scale SEM campaigns in minutes.](https://www.reddit.com/r/Python/comments/u39d7x/using_python_to_create_large_scale_sem_campaigns/)
-- [Python as a career](https://www.reddit.com/r/Python/comments/u379ba/python_as_a_career/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/u343wx/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
