@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [A simple email app](https://www.reddit.com/r/Python/comments/u48ux2/a_simple_email_app/)
-- [Fun project to notify my boss if I’m at my desk or not each morning.](https://www.reddit.com/r/Python/comments/u48iqw/fun_project_to_notify_my_boss_if_im_at_my_desk_or/)
-- [Running Python in the Browser with WebAssembly](https://www.reddit.com/r/Python/comments/u47p54/running_python_in_the_browser_with_webassembly/)
-- [2 Use Cases of Python Pre-commit Hooks to Tidy Up Your Git Repositories](https://www.reddit.com/r/Python/comments/u47kk6/2_use_cases_of_python_precommit_hooks_to_tidy_up/)
-- [Like httpie? Might need to like it again...](https://www.reddit.com/r/Python/comments/u46vhe/like_httpie_might_need_to_like_it_again/)
+- [How do I debug celery application?](https://www.reddit.com/r/Python/comments/u4aeg1/how_do_i_debug_celery_application/)
+- [Simple example of Strategy Pattern in Python](https://www.reddit.com/r/Python/comments/u4a451/simple_example_of_strategy_pattern_in_python/)
+- [Geometry Calculation](https://www.reddit.com/r/Python/comments/u4a3sa/geometry_calculation/)
+- [MATH HELPPPP!!!!](https://www.reddit.com/r/Python/comments/u4a0um/math_helpppp/)
+- [How To Build Your Own Crypto News Aggregator [Streamlit]](https://www.reddit.com/r/Python/comments/u49yxj/how_to_build_your_own_crypto_news_aggregator/)
 <!-- BLOG-POST-LIST:END -->
