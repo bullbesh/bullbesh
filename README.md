@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Python in the Browser with WebAssembly](https://www.reddit.com/r/Python/comments/u47p54/running_python_in_the_browser_with_webassembly/)
+- [2 Use Cases of Python Pre-commit Hooks to Tidy Up Your Git Repositories](https://www.reddit.com/r/Python/comments/u47kk6/2_use_cases_of_python_precommit_hooks_to_tidy_up/)
 - [Like httpie? Might need to like it again...](https://www.reddit.com/r/Python/comments/u46vhe/like_httpie_might_need_to_like_it_again/)
 - [Firedm repos no longer exist.](https://www.reddit.com/r/Python/comments/u44t8y/firedm_repos_no_longer_exist/)
 - [Vitrix - An open source FPS video game coded in Python!](https://www.reddit.com/r/Python/comments/u43oxi/vitrix_an_open_source_fps_video_game_coded_in/)
-- [Python custom formatting](https://www.reddit.com/r/Python/comments/u43mf5/python_custom_formatting/)
-- [Good GUI builder for Python similar to Java’s Eclipse Windowbuilder](https://www.reddit.com/r/Python/comments/u40lpu/good_gui_builder_for_python_similar_to_javas/)
 <!-- BLOG-POST-LIST:END -->
