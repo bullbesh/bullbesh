@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google News Scraper Python | Scrape News from google python](https://www.reddit.com/r/Python/comments/u3zx43/google_news_scraper_python_scrape_news_from/)
+- [Need help text-based game](https://www.reddit.com/r/Python/comments/u3zuj0/need_help_textbased_game/)
 - [Airflow 2.3.0 - Dynamic Tasks](https://www.reddit.com/r/Python/comments/u3vzb1/airflow_230_dynamic_tasks/)
 - [Collection&lpar;s&rpar; of counter-intuitive Python behaviour](https://www.reddit.com/r/Python/comments/u3vd2g/collections_of_counterintuitive_python_behaviour/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/u3uzei/friday_daily_thread_free_chat_friday_daily_thread/)
-- [Non developer code review](https://www.reddit.com/r/Python/comments/u3u8om/non_developer_code_review/)
-- [Nebullvm, an open-source library to accelerate AI inference by 5-20x in a few lines of code](https://www.reddit.com/r/Python/comments/u3u3ts/nebullvm_an_opensource_library_to_accelerate_ai/)
 <!-- BLOG-POST-LIST:END -->
