@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Open-source library to test multiple deep learning compilers and make AI models faster in inference](https://www.reddit.com/r/Python/comments/u41y69/opensource_library_to_test_multiple_deep_learning/)
 - [Good GUI builder for Python similar to Java’s Eclipse Windowbuilder](https://www.reddit.com/r/Python/comments/u40lpu/good_gui_builder_for_python_similar_to_javas/)
 - [Google News Scraper Python | Scrape News from google python](https://www.reddit.com/r/Python/comments/u3zx43/google_news_scraper_python_scrape_news_from/)
 - [Airflow 2.3.0 - Dynamic Tasks](https://www.reddit.com/r/Python/comments/u3vzb1/airflow_230_dynamic_tasks/)
 - [Collection&lpar;s&rpar; of counter-intuitive Python behaviour](https://www.reddit.com/r/Python/comments/u3vd2g/collections_of_counterintuitive_python_behaviour/)
+- [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/u3uzei/friday_daily_thread_free_chat_friday_daily_thread/)
 <!-- BLOG-POST-LIST:END -->
