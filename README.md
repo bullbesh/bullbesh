@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python from Scratch to Advance with Detailed Hands-on](https://www.reddit.com/r/Python/comments/u4hgpj/learn_python_from_scratch_to_advance_with/)
+- [Archimedes Spiral: Converting old-school BASIC to Python](https://www.reddit.com/r/Python/comments/u4h485/archimedes_spiral_converting_oldschool_basic_to/)
 - [Creating an HTTPS Lambda Endpoint without API Gateway](https://www.reddit.com/r/Python/comments/u4gkfx/creating_an_https_lambda_endpoint_without_api/)
 - [Python module for Notion](https://www.reddit.com/r/Python/comments/u4da5o/python_module_for_notion/)
 - [How to build a RSS from scraping using Python](https://www.reddit.com/r/Python/comments/u4d17u/how_to_build_a_rss_from_scraping_using_python/)
-- [Beginner question.](https://www.reddit.com/r/Python/comments/u4cp25/beginner_question/)
-- [re groupdict&lpar;&rpar; and matching multiple to a dictionary](https://www.reddit.com/r/Python/comments/u4b711/re_groupdict_and_matching_multiple_to_a_dictionary/)
 <!-- BLOG-POST-LIST:END -->
