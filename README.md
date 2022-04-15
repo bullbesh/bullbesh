@@ -12,5 +12,5 @@
 - [Collection&lpar;s&rpar; of counter-intuitive Python behaviour](https://www.reddit.com/r/Python/comments/u3vd2g/collections_of_counterintuitive_python_behaviour/)
 - [Friday Daily Thread: Free chat Friday! Daily Thread](https://www.reddit.com/r/Python/comments/u3uzei/friday_daily_thread_free_chat_friday_daily_thread/)
 - [Non developer code review](https://www.reddit.com/r/Python/comments/u3u8om/non_developer_code_review/)
-- [Typeform for python programmers](https://www.reddit.com/r/Python/comments/u3tr14/typeform_for_python_programmers/)
+- [Nebullvm, an open-source library to accelerate AI inference by 5-20x in a few lines of code](https://www.reddit.com/r/Python/comments/u3u3ts/nebullvm_an_opensource_library_to_accelerate_ai/)
 <!-- BLOG-POST-LIST:END -->
