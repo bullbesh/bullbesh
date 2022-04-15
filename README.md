@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating an HTTPS Lambda Endpoint without API Gateway](https://www.reddit.com/r/Python/comments/u4gkfx/creating_an_https_lambda_endpoint_without_api/)
 - [Python module for Notion](https://www.reddit.com/r/Python/comments/u4da5o/python_module_for_notion/)
 - [How to build a RSS from scraping using Python](https://www.reddit.com/r/Python/comments/u4d17u/how_to_build_a_rss_from_scraping_using_python/)
 - [Beginner question.](https://www.reddit.com/r/Python/comments/u4cp25/beginner_question/)
 - [re groupdict&lpar;&rpar; and matching multiple to a dictionary](https://www.reddit.com/r/Python/comments/u4b711/re_groupdict_and_matching_multiple_to_a_dictionary/)
-- [Python, Flask, Elasticsearch - front controller and API documentation - Part 3 Tutorial](https://www.reddit.com/r/Python/comments/u4aplz/python_flask_elasticsearch_front_controller_and/)
 <!-- BLOG-POST-LIST:END -->
