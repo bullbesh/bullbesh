@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Run python &lpar;and sql&rpar; with dbt](https://www.reddit.com/r/Python/comments/u4mwco/run_python_and_sql_with_dbt/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/u4l9am/saturday_daily_thread_resource_request_and/)
+- [i created my own music player in Python3](https://www.reddit.com/r/Python/comments/u4l7re/i_created_my_own_music_player_in_python3/)
 - [How to build a disease prediction service](https://www.reddit.com/r/Python/comments/u4jf15/how_to_build_a_disease_prediction_service/)
 - [TL;DR: Dictionary Comprehension + Early\Late Binding of Lambdas in Python is Mental](https://www.reddit.com/r/Python/comments/u4j0jn/tldr_dictionary_comprehension_earlylate_binding/)
-- [Learn Python from Scratch to Advance with Detailed Hands-on](https://www.reddit.com/r/Python/comments/u4hgpj/learn_python_from_scratch_to_advance_with/)
-- [Archimedes Spiral: Converting old-school BASIC to Python](https://www.reddit.com/r/Python/comments/u4h485/archimedes_spiral_converting_oldschool_basic_to/)
-- [Creating an HTTPS Lambda Endpoint without API Gateway](https://www.reddit.com/r/Python/comments/u4gkfx/creating_an_https_lambda_endpoint_without_api/)
 <!-- BLOG-POST-LIST:END -->
