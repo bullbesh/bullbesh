@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make annoy any interviewer with the fizzbuzz challenge](https://www.reddit.com/r/Python/comments/u4zs3s/how_to_make_annoy_any_interviewer_with_the/)
 - [I.T Grind discord server!](https://www.reddit.com/r/Python/comments/u4y0vg/it_grind_discord_server/)
 - [Live flame graph rendering in the terminal](https://www.reddit.com/r/Python/comments/u4x741/live_flame_graph_rendering_in_the_terminal/)
 - [&quot;Safe&quot; way to install Python 3 on MBA M1](https://www.reddit.com/r/Python/comments/u4uji2/safe_way_to_install_python_3_on_mba_m1/)
 - [Recover deleted and overwritten files with RecoverPy 1.5.0](https://www.reddit.com/r/Python/comments/u4u8mb/recover_deleted_and_overwritten_files_with/)
-- [Python Web Frameworks](https://www.reddit.com/r/Python/comments/u4u85t/python_web_frameworks/)
 <!-- BLOG-POST-LIST:END -->
