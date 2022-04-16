@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Safe&quot; way to install Python 3 on MBA M1](https://www.reddit.com/r/Python/comments/u4uji2/safe_way_to_install_python_3_on_mba_m1/)
+- [Recover deleted and overwritten files with RecoverPy 1.5.0](https://www.reddit.com/r/Python/comments/u4u8mb/recover_deleted_and_overwritten_files_with/)
+- [Python Web Frameworks](https://www.reddit.com/r/Python/comments/u4u85t/python_web_frameworks/)
 - [Python for complete begginers Medium](https://www.reddit.com/r/Python/comments/u4tsp2/python_for_complete_begginers_medium/)
 - [GitHub - AlexEidt/ASCII-Video: Blazing fast ASCII Image/Video Renderer.](https://www.reddit.com/r/Python/comments/u4rpyc/github_alexeidtasciivideo_blazing_fast_ascii/)
-- [Is there any Python bot for such things?](https://www.reddit.com/r/Python/comments/u4r4jx/is_there_any_python_bot_for_such_things/)
-- [Python Mentorship from Software Engineer](https://www.reddit.com/r/Python/comments/u4q1ey/python_mentorship_from_software_engineer/)
-- [Run python &lpar;and sql&rpar; with dbt](https://www.reddit.com/r/Python/comments/u4mwco/run_python_and_sql_with_dbt/)
 <!-- BLOG-POST-LIST:END -->
