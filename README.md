@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for complete begginers Medium](https://www.reddit.com/r/Python/comments/u4tsp2/python_for_complete_begginers_medium/)
 - [GitHub - AlexEidt/ASCII-Video: Blazing fast ASCII Image/Video Renderer.](https://www.reddit.com/r/Python/comments/u4rpyc/github_alexeidtasciivideo_blazing_fast_ascii/)
 - [Is there any Python bot for such things?](https://www.reddit.com/r/Python/comments/u4r4jx/is_there_any_python_bot_for_such_things/)
 - [Python Mentorship from Software Engineer](https://www.reddit.com/r/Python/comments/u4q1ey/python_mentorship_from_software_engineer/)
 - [Run python &lpar;and sql&rpar; with dbt](https://www.reddit.com/r/Python/comments/u4mwco/run_python_and_sql_with_dbt/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/u4l9am/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
