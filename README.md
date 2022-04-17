@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Use python to optimize the rebar lost in construction.](https://www.reddit.com/r/Python/comments/u5sisg/use_python_to_optimize_the_rebar_lost_in/)
 - [Gupshup - Chat in the terminal](https://www.reddit.com/r/Python/comments/u5q6jl/gupshup_chat_in_the_terminal/)
 - [Funny bot I made](https://www.reddit.com/r/Python/comments/u5pjy6/funny_bot_i_made/)
 - [Writing Better Django Queries](https://www.reddit.com/r/Python/comments/u5o1aq/writing_better_django_queries/)
 - [PySGI, the library for creating web servers](https://www.reddit.com/r/Python/comments/u5npcy/pysgi_the_library_for_creating_web_servers/)
-- [How to create an image out of text using Python and Glide OpenAI library ? [tutorial]](https://www.reddit.com/r/Python/comments/u5n88a/how_to_create_an_image_out_of_text_using_python/)
 <!-- BLOG-POST-LIST:END -->
