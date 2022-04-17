@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Algorithm Project: Middle Square Method](https://www.reddit.com/r/Python/comments/u5twnz/weekly_algorithm_project_middle_square_method/)
+- [Simple android game with online functionality](https://www.reddit.com/r/Python/comments/u5tqje/simple_android_game_with_online_functionality/)
+- [Python for beginners part 2 | inputs , decisions](https://www.reddit.com/r/Python/comments/u5tjc3/python_for_beginners_part_2_inputs_decisions/)
 - [Use python to optimize the rebar lost in construction.](https://www.reddit.com/r/Python/comments/u5sisg/use_python_to_optimize_the_rebar_lost_in/)
 - [Gupshup - Chat in the terminal](https://www.reddit.com/r/Python/comments/u5q6jl/gupshup_chat_in_the_terminal/)
-- [Funny bot I made](https://www.reddit.com/r/Python/comments/u5pjy6/funny_bot_i_made/)
-- [Writing Better Django Queries](https://www.reddit.com/r/Python/comments/u5o1aq/writing_better_django_queries/)
-- [PySGI, the library for creating web servers](https://www.reddit.com/r/Python/comments/u5npcy/pysgi_the_library_for_creating_web_servers/)
 <!-- BLOG-POST-LIST:END -->
