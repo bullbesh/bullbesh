@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stack Game made in pygame](https://www.reddit.com/r/Python/comments/u5ilqk/stack_game_made_in_pygame/)
+- [Python Cybersecurity— Network Tracking using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/u5ibzu/python_cybersecurity_network_tracking_using/)
 - [Env](https://www.reddit.com/r/Python/comments/u5hakx/env/)
 - [Windows 11 design on Python](https://www.reddit.com/r/Python/comments/u5gcj7/windows_11_design_on_python/)
 - [Python online course recommendation for beginner/intermediate level](https://www.reddit.com/r/Python/comments/u5fylo/python_online_course_recommendation_for/)
-- [I watched programmer who said for every beginners don&#39;t learn python because only jobs you can use python with are data science and machine learning etc.. and these jobs are not for beginners, so you will not work and get money with python as beginner. is it true ?](https://www.reddit.com/r/Python/comments/u5fqtp/i_watched_programmer_who_said_for_every_beginners/)
-- [Edge detection project](https://www.reddit.com/r/Python/comments/u5dr4w/edge_detection_project/)
 <!-- BLOG-POST-LIST:END -->
