@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Toolchain recommendations for a production-quality monorepo?](https://www.reddit.com/r/Python/comments/u5kkxh/toolchain_recommendations_for_a_productionquality/)
 - [How to extract information from a patterned string?](https://www.reddit.com/r/Python/comments/u5ju9o/how_to_extract_information_from_a_patterned_string/)
 - [Stack Game made in pygame](https://www.reddit.com/r/Python/comments/u5ilqk/stack_game_made_in_pygame/)
 - [Python Cybersecurity— Network Tracking using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/u5ibzu/python_cybersecurity_network_tracking_using/)
 - [Env](https://www.reddit.com/r/Python/comments/u5hakx/env/)
-- [Windows 11 design on Python](https://www.reddit.com/r/Python/comments/u5gcj7/windows_11_design_on_python/)
 <!-- BLOG-POST-LIST:END -->
