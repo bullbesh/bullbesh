@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a program to play Minecraft in your Windows command line / Linux console](https://www.reddit.com/r/Python/comments/u5ykrh/i_wrote_a_program_to_play_minecraft_in_your/)
 - [Type safe Django app, Part 3](https://www.reddit.com/r/Python/comments/u5xql9/type_safe_django_app_part_3/)
 - [r/Place Data Visualization w/ Python + Blender &lpar;open source project&rpar;](https://www.reddit.com/r/Python/comments/u5xfgt/rplace_data_visualization_w_python_blender_open/)
 - [Quickly create online forms for your python scripts](https://www.reddit.com/r/Python/comments/u5x46b/quickly_create_online_forms_for_your_python/)
 - [Relational Algebra interpreter powered by Python](https://www.reddit.com/r/Python/comments/u5w63g/relational_algebra_interpreter_powered_by_python/)
-- [Mean population of US States with graph](https://www.reddit.com/r/Python/comments/u5v91y/mean_population_of_us_states_with_graph/)
 <!-- BLOG-POST-LIST:END -->
