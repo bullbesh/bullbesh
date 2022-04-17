@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Type safe Django app, Part 3](https://www.reddit.com/r/Python/comments/u5xql9/type_safe_django_app_part_3/)
+- [r/Place Data Visualization w/ Python + Blender &lpar;open source project&rpar;](https://www.reddit.com/r/Python/comments/u5xfgt/rplace_data_visualization_w_python_blender_open/)
+- [Quickly create online forms for your python scripts](https://www.reddit.com/r/Python/comments/u5x46b/quickly_create_online_forms_for_your_python/)
 - [Relational Algebra interpreter powered by Python](https://www.reddit.com/r/Python/comments/u5w63g/relational_algebra_interpreter_powered_by_python/)
 - [Mean population of US States with graph](https://www.reddit.com/r/Python/comments/u5v91y/mean_population_of_us_states_with_graph/)
-- [Weekly Algorithm Project: Middle Square Method](https://www.reddit.com/r/Python/comments/u5twnz/weekly_algorithm_project_middle_square_method/)
-- [Simple android game with online functionality](https://www.reddit.com/r/Python/comments/u5tqje/simple_android_game_with_online_functionality/)
-- [Python for beginners part 2 | inputs , decisions](https://www.reddit.com/r/Python/comments/u5tjc3/python_for_beginners_part_2_inputs_decisions/)
 <!-- BLOG-POST-LIST:END -->
