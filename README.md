@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [They say Python is the easiest language to learn, that being said, how much did it help you learn other languages? Did any of you for instance try C++ but quit, learn Python, and then back to C++?](https://www.reddit.com/r/Python/comments/u5c9et/they_say_python_is_the_easiest_language_to_learn/)
+- [Which language should I learn for a finance position? Is python enough?](https://www.reddit.com/r/Python/comments/u5ao1j/which_language_should_i_learn_for_a_finance/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/u5amsg/sunday_daily_thread_whats_everyone_working_on/)
 - [Arrowdantic 0.1.0 released](https://www.reddit.com/r/Python/comments/u58xni/arrowdantic_010_released/)
 - [Slowpoke: A tool to convert Spotify and Youtube songs to slow and reverb](https://www.reddit.com/r/Python/comments/u58rf6/slowpoke_a_tool_to_convert_spotify_and_youtube/)
-- [Is it me learning python that there are many different ways to write it? I learn one way to write variable then next lesson shows me functions to show the same outcome. Or am I’m looking at this too soon and something else suppose to go along with it?](https://www.reddit.com/r/Python/comments/u57opq/is_it_me_learning_python_that_there_are_many/)
-- [Space Science: Asteroid spectra meet Autoencoders](https://www.reddit.com/r/Python/comments/u57cdr/space_science_asteroid_spectra_meet_autoencoders/)
-- [What are your useful packages to help scraping &lpar;besides requests, beautifulsoup etc&rpar;?](https://www.reddit.com/r/Python/comments/u578lt/what_are_your_useful_packages_to_help_scraping/)
 <!-- BLOG-POST-LIST:END -->
