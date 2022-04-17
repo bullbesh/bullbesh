@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Relational Algebra interpreter powered by Python](https://www.reddit.com/r/Python/comments/u5w63g/relational_algebra_interpreter_powered_by_python/)
 - [Mean population of US States with graph](https://www.reddit.com/r/Python/comments/u5v91y/mean_population_of_us_states_with_graph/)
 - [Weekly Algorithm Project: Middle Square Method](https://www.reddit.com/r/Python/comments/u5twnz/weekly_algorithm_project_middle_square_method/)
 - [Simple android game with online functionality](https://www.reddit.com/r/Python/comments/u5tqje/simple_android_game_with_online_functionality/)
 - [Python for beginners part 2 | inputs , decisions](https://www.reddit.com/r/Python/comments/u5tjc3/python_for_beginners_part_2_inputs_decisions/)
-- [Use python to optimize the rebar lost in construction.](https://www.reddit.com/r/Python/comments/u5sisg/use_python_to_optimize_the_rebar_lost_in/)
 <!-- BLOG-POST-LIST:END -->
