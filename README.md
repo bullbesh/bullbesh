@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [File error/Python](https://www.reddit.com/r/Python/comments/u6om2s/file_errorpython/)
+- [DRF application for Authentication Using metamask](https://www.reddit.com/r/Python/comments/u6nv18/drf_application_for_authentication_using_metamask/)
 - [Build a Twitter Bot with Python, Tweepy and the Twitter API](https://www.reddit.com/r/Python/comments/u6mmt6/build_a_twitter_bot_with_python_tweepy_and_the/)
 - [Python Programming Fundamentals](https://www.reddit.com/r/Python/comments/u6med8/python_programming_fundamentals/)
 - [Program Raspberry Pi Pico with Python https://medium.com/@needablackcoffee/program-raspberry-pi-pico-with-python-6a410192dd07](https://www.reddit.com/r/Python/comments/u6lo7q/program_raspberry_pi_pico_with_python/)
-- [Masonite Permission - Masonite Framework.](https://www.reddit.com/r/Python/comments/u6kxwt/masonite_permission_masonite_framework/)
-- [Python implementation of recursive insertion sort.](https://www.reddit.com/r/Python/comments/u6khdk/python_implementation_of_recursive_insertion_sort/)
 <!-- BLOG-POST-LIST:END -->
