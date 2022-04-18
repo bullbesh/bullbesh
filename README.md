@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why do people still pay and use matlab having python numpy and matplotlib?](https://www.reddit.com/r/Python/comments/u6bcgc/why_do_people_still_pay_and_use_matlab_having/)
 - [running a code using a lot of RAM !!](https://www.reddit.com/r/Python/comments/u6adyn/running_a_code_using_a_lot_of_ram/)
 - [I have written a blog to create a Perceptron&lpar;Single Neuron&rpar; and then trained it on Cat and Dog image data. All from scratch in python.](https://www.reddit.com/r/Python/comments/u6adlb/i_have_written_a_blog_to_create_a/)
 - [Python 3 on M1 MacOS Monterey 12.3.1](https://www.reddit.com/r/Python/comments/u694tw/python_3_on_m1_macos_monterey_1231/)
 - [Ping With Python](https://www.reddit.com/r/Python/comments/u68m93/ping_with_python/)
-- [linqlgerror: singular matrix](https://www.reddit.com/r/Python/comments/u66zsg/linqlgerror_singular_matrix/)
 <!-- BLOG-POST-LIST:END -->
