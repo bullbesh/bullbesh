@@ -8,8 +8,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a tool for automatically managing bitrot and encoding format in large media libraries](https://www.reddit.com/r/Python/comments/u6jru8/i_wrote_a_tool_for_automatically_managing_bitrot/)
 - [Top down Minecraft.. clone? Written in python and pygame.](https://www.reddit.com/r/Python/comments/u6ib28/top_down_minecraft_clone_written_in_python_and/)
-- [&quot;There&#39;s an epidemic of aggressive but arbitrary deadlines for dev teams. Team leads demanding a feature ship by a certain date only for some other department to shoot it down upon completion.&quot; The top developer at Amex had an interesting convo on why she never commits to aggressive deadlines](https://www.reddit.com/r/Python/comments/u6hzg5/theres_an_epidemic_of_aggressive_but_arbitrary/)
 - [User login system with JWT and FastAPI](https://www.reddit.com/r/Python/comments/u6gvm7/user_login_system_with_jwt_and_fastapi/)
 - [Are there any task queue libraries with the ergonomics of FastAPI](https://www.reddit.com/r/Python/comments/u6g9bf/are_there_any_task_queue_libraries_with_the/)
 - [Which IDE do you use?](https://www.reddit.com/r/Python/comments/u6g4jk/which_ide_do_you_use/)
