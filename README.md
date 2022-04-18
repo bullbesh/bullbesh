@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Masonite Permission - Masonite Framework.](https://www.reddit.com/r/Python/comments/u6kxwt/masonite_permission_masonite_framework/)
+- [Python implementation of recursive insertion sort.](https://www.reddit.com/r/Python/comments/u6khdk/python_implementation_of_recursive_insertion_sort/)
 - [I wrote a tool for automatically managing bitrot and encoding format in large media libraries](https://www.reddit.com/r/Python/comments/u6jru8/i_wrote_a_tool_for_automatically_managing_bitrot/)
 - [Top down Minecraft.. clone? Written in python and pygame.](https://www.reddit.com/r/Python/comments/u6ib28/top_down_minecraft_clone_written_in_python_and/)
 - [User login system with JWT and FastAPI](https://www.reddit.com/r/Python/comments/u6gvm7/user_login_system_with_jwt_and_fastapi/)
-- [Are there any task queue libraries with the ergonomics of FastAPI](https://www.reddit.com/r/Python/comments/u6g9bf/are_there_any_task_queue_libraries_with_the/)
-- [Which IDE do you use?](https://www.reddit.com/r/Python/comments/u6g4jk/which_ide_do_you_use/)
 <!-- BLOG-POST-LIST:END -->
