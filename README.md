@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Write popular persons](https://www.reddit.com/r/Python/comments/u64jcr/write_popular_persons/)
+- [Why are some static type-checking functionalities implemented as identity functions?](https://www.reddit.com/r/Python/comments/u64dfw/why_are_some_static_typechecking_functionalities/)
+- [ModuleNotFoundError: No module named &#39;bs4&#39;&lpar;vscode&rpar;](https://www.reddit.com/r/Python/comments/u642rk/modulenotfounderror_no_module_named_bs4vscode/)
 - [junpyter notebook copilot](https://www.reddit.com/r/Python/comments/u63clc/junpyter_notebook_copilot/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/u5zpzh/monday_daily_thread_project_ideas/)
-- [I wrote a program to play Minecraft in your Windows command line / Linux console](https://www.reddit.com/r/Python/comments/u5ykrh/i_wrote_a_program_to_play_minecraft_in_your/)
-- [Type safe Django app, Part 3](https://www.reddit.com/r/Python/comments/u5xql9/type_safe_django_app_part_3/)
-- [r/Place Data Visualization w/ Python + Blender &lpar;open source project&rpar;](https://www.reddit.com/r/Python/comments/u5xfgt/rplace_data_visualization_w_python_blender_open/)
 <!-- BLOG-POST-LIST:END -->
