@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python 3 on M1 MacOS Monterey 12.3.1](https://www.reddit.com/r/Python/comments/u694tw/python_3_on_m1_macos_monterey_1231/)
+- [Ping With Python](https://www.reddit.com/r/Python/comments/u68m93/ping_with_python/)
 - [linqlgerror: singular matrix](https://www.reddit.com/r/Python/comments/u66zsg/linqlgerror_singular_matrix/)
 - [3d Game Engine in Python](https://www.reddit.com/r/Python/comments/u6695b/3d_game_engine_in_python/)
 - [Write popular persons](https://www.reddit.com/r/Python/comments/u64jcr/write_popular_persons/)
-- [Why are some static type-checking functionalities implemented as identity functions?](https://www.reddit.com/r/Python/comments/u64dfw/why_are_some_static_typechecking_functionalities/)
-- [ModuleNotFoundError: No module named &#39;bs4&#39;&lpar;vscode&rpar;](https://www.reddit.com/r/Python/comments/u642rk/modulenotfounderror_no_module_named_bs4vscode/)
 <!-- BLOG-POST-LIST:END -->
