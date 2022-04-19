@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Download Outlook Email Attachments Using Microsoft Graph API In Python[](https://www.reddit.com/r/Python/comments/u77n4y/download_outlook_email_attachments_using/)
+- [78 Python data science practice problems in a single github repo including numpy, pandas, matplotlib, scipy, regex, pytorch](https://www.reddit.com/r/Python/comments/u77fce/78_python_data_science_practice_problems_in_a/)
+- [QualityScaler 1.3.0 - Image/video upscaling &amp; enhancement Windows app](https://www.reddit.com/r/Python/comments/u76rf5/qualityscaler_130_imagevideo_upscaling/)
+- [Update SharePoint online with python](https://www.reddit.com/r/Python/comments/u76qk8/update_sharepoint_online_with_python/)
 - [I made a football simulation/game entirely using Python Turtle Graphics](https://www.reddit.com/r/Python/comments/u75ydj/i_made_a_football_simulationgame_entirely_using/)
-- [I was today years old when I found out that Python supports else clauses in try/excepts.](https://www.reddit.com/r/Python/comments/u75y3m/i_was_today_years_old_when_i_found_out_that/)
-- [I wrote a Spotify alternative in Python](https://www.reddit.com/r/Python/comments/u7446h/i_wrote_a_spotify_alternative_in_python/)
-- [What are some of the main reasons I should switch to pytest from unittest?](https://www.reddit.com/r/Python/comments/u73xv2/what_are_some_of_the_main_reasons_i_should_switch/)
-- [DO YOU HEARD ON FLACONPY LIBRARAY????](https://www.reddit.com/r/Python/comments/u73qtq/do_you_heard_on_flaconpy_libraray/)
 <!-- BLOG-POST-LIST:END -->
