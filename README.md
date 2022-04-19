@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Devsearch - Connect with developers](https://www.reddit.com/r/Python/comments/u7a4ck/devsearch_connect_with_developers/)
+- [Snake Code](https://www.reddit.com/r/Python/comments/u79ohy/snake_code/)
+- [Hello everyone I have been creating a boilerplate/template for FastAPI and PostgreSQL. Please have a look and give me a star if you like. #Python #FastAPI #PostgreSQL #Pytest](https://www.reddit.com/r/Python/comments/u79f99/hello_everyone_i_have_been_creating_a/)
 - [Download Outlook Email Attachments Using Microsoft Graph API In Python[](https://www.reddit.com/r/Python/comments/u77n4y/download_outlook_email_attachments_using/)
 - [78 Python data science practice problems in a single github repo including numpy, pandas, matplotlib, scipy, regex, pytorch](https://www.reddit.com/r/Python/comments/u77fce/78_python_data_science_practice_problems_in_a/)
-- [QualityScaler 1.3.0 - Image/video upscaling &amp; enhancement Windows app](https://www.reddit.com/r/Python/comments/u76rf5/qualityscaler_130_imagevideo_upscaling/)
-- [Update SharePoint online with python](https://www.reddit.com/r/Python/comments/u76qk8/update_sharepoint_online_with_python/)
-- [I made a football simulation/game entirely using Python Turtle Graphics](https://www.reddit.com/r/Python/comments/u75ydj/i_made_a_football_simulationgame_entirely_using/)
 <!-- BLOG-POST-LIST:END -->
