@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just A Todo App](https://www.reddit.com/r/Python/comments/u7cwkw/just_a_todo_app/)
+- [Created Python Jobs &lpar;Backend and AI/ML&rpar; Website](https://www.reddit.com/r/Python/comments/u7ccs4/created_python_jobs_backend_and_aiml_website/)
+- [UFC analysis with Python](https://www.reddit.com/r/Python/comments/u7c0jv/ufc_analysis_with_python/)
 - [How to Build Countable Classes in Python](https://www.reddit.com/r/Python/comments/u7bdds/how_to_build_countable_classes_in_python/)
 - [Devsearch - Connect with developers](https://www.reddit.com/r/Python/comments/u7a4ck/devsearch_connect_with_developers/)
-- [Snake Code](https://www.reddit.com/r/Python/comments/u79ohy/snake_code/)
-- [Hello everyone I have been creating a boilerplate/template for FastAPI and PostgreSQL. Please have a look and give me a star if you like. #Python #FastAPI #PostgreSQL #Pytest](https://www.reddit.com/r/Python/comments/u79f99/hello_everyone_i_have_been_creating_a/)
-- [Download Outlook Email Attachments Using Microsoft Graph API In Python[](https://www.reddit.com/r/Python/comments/u77n4y/download_outlook_email_attachments_using/)
 <!-- BLOG-POST-LIST:END -->
