@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Keylogger In Just 10 Lines Of Python](https://www.reddit.com/r/Python/comments/u7fczz/keylogger_in_just_10_lines_of_python/)
+- [Dash is Deeper than Dashboards](https://www.reddit.com/r/Python/comments/u7emja/dash_is_deeper_than_dashboards/)
 - [Program that counts lines of code](https://www.reddit.com/r/Python/comments/u7e96y/program_that_counts_lines_of_code/)
 - [Google Voice API alternatives for sending free SMS messages?](https://www.reddit.com/r/Python/comments/u7dhv8/google_voice_api_alternatives_for_sending_free/)
 - [Just A Todo App](https://www.reddit.com/r/Python/comments/u7cwkw/just_a_todo_app/)
-- [Created Python Jobs &lpar;Backend and AI/ML&rpar; Website](https://www.reddit.com/r/Python/comments/u7ccs4/created_python_jobs_backend_and_aiml_website/)
-- [UFC analysis with Python](https://www.reddit.com/r/Python/comments/u7c0jv/ufc_analysis_with_python/)
 <!-- BLOG-POST-LIST:END -->
