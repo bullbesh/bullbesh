@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I developed a template for starting new Python projects! Features: Poetry, GitHub CI/CD, MkDocs, publishing to PyPi/Artifactory, Pytest, Tox, black and isort.](https://www.reddit.com/r/Python/comments/u706az/i_developed_a_template_for_starting_new_python/)
+- [List of SQL Queries You Should Know as a Data Scientist](https://www.reddit.com/r/Python/comments/u6zpvu/list_of_sql_queries_you_should_know_as_a_data/)
+- [Python Lambda Function in Simple Words](https://www.reddit.com/r/Python/comments/u6zh3e/python_lambda_function_in_simple_words/)
 - [Beginning a brand new set of ML foundations series starting with Pandas](https://www.reddit.com/r/Python/comments/u6yugv/beginning_a_brand_new_set_of_ml_foundations/)
 - [Python Selenium Tutorial #9 - How to bypass/solve hCaptcha using 2captcha API](https://www.reddit.com/r/Python/comments/u6yo7z/python_selenium_tutorial_9_how_to_bypasssolve/)
-- [Are you a person who loves reinventing a wheel ?](https://www.reddit.com/r/Python/comments/u6u7i6/are_you_a_person_who_loves_reinventing_a_wheel/)
-- [From 30 to 11 Lines of Code: Revisiting Rock Paper Scissors in Python](https://www.reddit.com/r/Python/comments/u6t9yb/from_30_to_11_lines_of_code_revisiting_rock_paper/)
-- [Is your company still letting you use Pycharm?](https://www.reddit.com/r/Python/comments/u6t4hn/is_your_company_still_letting_you_use_pycharm/)
 <!-- BLOG-POST-LIST:END -->
