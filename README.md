@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [File error/Python](https://www.reddit.com/r/Python/comments/u6om2s/file_errorpython/)
-- [DRF application for Authentication Using metamask](https://www.reddit.com/r/Python/comments/u6nv18/drf_application_for_authentication_using_metamask/)
-- [Build a Twitter Bot with Python, Tweepy and the Twitter API](https://www.reddit.com/r/Python/comments/u6mmt6/build_a_twitter_bot_with_python_tweepy_and_the/)
-- [Python Programming Fundamentals](https://www.reddit.com/r/Python/comments/u6med8/python_programming_fundamentals/)
-- [Program Raspberry Pi Pico with Python https://medium.com/@needablackcoffee/program-raspberry-pi-pico-with-python-6a410192dd07](https://www.reddit.com/r/Python/comments/u6lo7q/program_raspberry_pi_pico_with_python/)
+- [From 30 to 11 Lines of Code: Revisiting Rock Paper Scissors in Python](https://www.reddit.com/r/Python/comments/u6t9yb/from_30_to_11_lines_of_code_revisiting_rock_paper/)
+- [Is your company still letting you use Pycharm?](https://www.reddit.com/r/Python/comments/u6t4hn/is_your_company_still_letting_you_use_pycharm/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/u6rcpp/tuesday_daily_thread_advanced_questions/)
+- [Indeed Job Scraper](https://www.reddit.com/r/Python/comments/u6r6xy/indeed_job_scraper/)
+- [Python bindings for my UI library.](https://www.reddit.com/r/Python/comments/u6qvdu/python_bindings_for_my_ui_library/)
 <!-- BLOG-POST-LIST:END -->
