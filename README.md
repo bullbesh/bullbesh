@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How much time to learn web scraping with no coding experience ?](https://www.reddit.com/r/Python/comments/u85d58/how_much_time_to_learn_web_scraping_with_no/)
+- [Bloomberg just Open sourced Memray a memory profiler for Python](https://www.reddit.com/r/Python/comments/u84tjr/bloomberg_just_open_sourced_memray_a_memory/)
 - [Build a Question Answering Web App using Transformers and Gradio in Python in 5 minutes](https://www.reddit.com/r/Python/comments/u83abq/build_a_question_answering_web_app_using/)
 - [Python learning group?](https://www.reddit.com/r/Python/comments/u81o93/python_learning_group/)
 - [txtai 4.4 released - explainable semantic search, build your own query language](https://www.reddit.com/r/Python/comments/u801sk/txtai_44_released_explainable_semantic_search/)
-- [Python&#39;s stability](https://www.reddit.com/r/Python/comments/u7zog4/pythons_stability/)
-- [How to write a Python3 wrapper library/module for a JSON REST API in 15 simple steps](https://www.reddit.com/r/Python/comments/u7vquv/how_to_write_a_python3_wrapper_librarymodule_for/)
 <!-- BLOG-POST-LIST:END -->
