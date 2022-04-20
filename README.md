@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Anyone has a crack version on pycharm or any jet brains products?](https://www.reddit.com/r/Python/comments/u7nob6/anyone_has_a_crack_version_on_pycharm_or_any_jet/)
+- [Visualization of the 3x+1 problem using turtle graphics](https://www.reddit.com/r/Python/comments/u7ogas/visualization_of_the_3x1_problem_using_turtle/)
 - [Novel and small python projects and code snippets](https://www.reddit.com/r/Python/comments/u7ls2t/novel_and_small_python_projects_and_code_snippets/)
 - [How Python Enriched the Use of AI in Several Industries](https://www.reddit.com/r/Python/comments/u7l4rv/how_python_enriched_the_use_of_ai_in_several/)
 - [Looks like I&#39;m going to prom thanks to Python!](https://www.reddit.com/r/Python/comments/u7l0ce/looks_like_im_going_to_prom_thanks_to_python/)
