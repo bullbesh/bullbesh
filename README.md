@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a video about one of my favorite python libraries, tqdm! Let me know what you think.](https://www.reddit.com/r/Python/comments/u87iw2/i_made_a_video_about_one_of_my_favorite_python/)
 - [Flask vs FastAPI for a microservice](https://www.reddit.com/r/Python/comments/u86ra7/flask_vs_fastapi_for_a_microservice/)
 - [Type hints immediately giving payoffs](https://www.reddit.com/r/Python/comments/u86q6j/type_hints_immediately_giving_payoffs/)
-- [How much time to learn web scraping with no coding experience ?](https://www.reddit.com/r/Python/comments/u85d58/how_much_time_to_learn_web_scraping_with_no/)
 - [Bloomberg just Open sourced Memray a memory profiler for Python](https://www.reddit.com/r/Python/comments/u84tjr/bloomberg_just_open_sourced_memray_a_memory/)
 - [Build a Question Answering Web App using Transformers and Gradio in Python in 5 minutes](https://www.reddit.com/r/Python/comments/u83abq/build_a_question_answering_web_app_using/)
 <!-- BLOG-POST-LIST:END -->
