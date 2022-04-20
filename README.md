@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Python Enriched the Use of AI in Several Industries](https://www.reddit.com/r/Python/comments/u7l4rv/how_python_enriched_the_use_of_ai_in_several/)
+- [Looks like I&#39;m going to prom thanks to Python!](https://www.reddit.com/r/Python/comments/u7l0ce/looks_like_im_going_to_prom_thanks_to_python/)
+- [Learn how to Scraping Google and optimize search using google search operators](https://www.reddit.com/r/Python/comments/u7kzgt/learn_how_to_scraping_google_and_optimize_search/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/u7j74e/wednesday_daily_thread_beginner_questions/)
 - [PyMailer: A small utility I wrote in Python3 to automate sending server notifications via an SMTP service](https://www.reddit.com/r/Python/comments/u7hk4i/pymailer_a_small_utility_i_wrote_in_python3_to/)
-- [I wrote a python script that you can copy into your projects for quickly logging information between your Terminal and Files](https://www.reddit.com/r/Python/comments/u7gw5z/i_wrote_a_python_script_that_you_can_copy_into/)
-- [Is anyone taking the CS50p &lpar;for Python&rpar; currently in progress from Harvard?](https://www.reddit.com/r/Python/comments/u7g0ix/is_anyone_taking_the_cs50p_for_python_currently/)
-- [Keylogger In Just 10 Lines Of Python](https://www.reddit.com/r/Python/comments/u7fczz/keylogger_in_just_10_lines_of_python/)
-- [Dash is Deeper than Dashboards](https://www.reddit.com/r/Python/comments/u7emja/dash_is_deeper_than_dashboards/)
 <!-- BLOG-POST-LIST:END -->
