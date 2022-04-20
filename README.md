@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to find and replace characters like &quot;He said to him:Do this!&quot; and replace with a space after the colon &quot;He said to him: Do this!&quot; and not in colon-combinations where it has numbers before and after colon &lpar;fx &quot;2:24&quot;? &rpar;](https://www.reddit.com/r/Python/comments/u7snq9/how_to_find_and_replace_characters_like_he_said/)
 - [Kin crypto Python-sdk demo](https://www.reddit.com/r/Python/comments/u7saa5/kin_crypto_pythonsdk_demo/)
 - [Gaming oriented Turtle fork](https://www.reddit.com/r/Python/comments/u7s0vo/gaming_oriented_turtle_fork/)
 - [Java Vs Python Comparison: Which Programming Language is Right for My Business?](https://www.reddit.com/r/Python/comments/u7rvi0/java_vs_python_comparison_which_programming/)
 - [Making the switch from academia to industry? R to Python?](https://www.reddit.com/r/Python/comments/u7qtvf/making_the_switch_from_academia_to_industry_r_to/)
-- [TalkHouse | WebRTC based peer to peer video calling and realtime messaging web app](https://www.reddit.com/r/Python/comments/u7qlbz/talkhouse_webrtc_based_peer_to_peer_video_calling/)
 <!-- BLOG-POST-LIST:END -->
