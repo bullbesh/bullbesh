@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Programming Bootcamp: Python, Javascript &amp; More eBook Bundle](https://www.reddit.com/r/Python/comments/u7wdcu/programming_bootcamp_python_javascript_more_ebook/)
+- [txtai 4.4 released - explainable semantic search, build your own query language](https://www.reddit.com/r/Python/comments/u801sk/txtai_44_released_explainable_semantic_search/)
+- [Python&#39;s stability](https://www.reddit.com/r/Python/comments/u7zog4/pythons_stability/)
 - [Meet Lite XL: A Lightweight, Open-Source Text Editor for Linux Users](https://www.reddit.com/r/Python/comments/u7w88g/meet_lite_xl_a_lightweight_opensource_text_editor/)
 - [How to write a Python3 wrapper library/module for a JSON REST API in 15 simple steps](https://www.reddit.com/r/Python/comments/u7vquv/how_to_write_a_python3_wrapper_librarymodule_for/)
 - [37 Sixty Second Python Tutorials](https://www.reddit.com/r/Python/comments/u7uhit/37_sixty_second_python_tutorials/)
-- [Gaming oriented Turtle fork](https://www.reddit.com/r/Python/comments/u7s0vo/gaming_oriented_turtle_fork/)
 <!-- BLOG-POST-LIST:END -->
