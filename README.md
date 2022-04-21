@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [co-author.py - Creates &quot;Co-authored-by&quot; lines from usernames and issue/PR urls using GitHub REST API](https://www.reddit.com/r/Python/comments/u8ol71/coauthorpy_creates_coauthoredby_lines_from/)
+- [Just started making a Pokémon wordle type game. Wish me luck, should be done by the end of two weeks](https://www.reddit.com/r/Python/comments/u8of7m/just_started_making_a_pokémon_wordle_type_game/)
+- [100%|██████████████| - TQDM is a simple library for adding progress bars to your python code. I made a tutorial about it.](https://www.reddit.com/r/Python/comments/u8nzzr/100_tqdm_is_a_simple_library_for_adding_progress/)
+- [commit bot](https://www.reddit.com/r/Python/comments/u8nwl0/commit_bot/)
 - [Is everything worth solving?](https://www.reddit.com/r/Python/comments/u8nfcq/is_everything_worth_solving/)
-- [Manage Encryption Key](https://www.reddit.com/r/Python/comments/u8mozm/manage_encryption_key/)
-- [Know How to Create and Visualize a Decision Tree with Python](https://www.reddit.com/r/Python/comments/u8k0am/know_how_to_create_and_visualize_a_decision_tree/)
-- [2022 Update: Understanding Best Practice Python Tooling by Comparing Popular Project Templates](https://www.reddit.com/r/Python/comments/u8jfcb/2022_update_understanding_best_practice_python/)
-- [Unpopular opinion: Matplotlib is a bad library](https://www.reddit.com/r/Python/comments/u8j6fn/unpopular_opinion_matplotlib_is_a_bad_library/)
 <!-- BLOG-POST-LIST:END -->
