@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Know How to Create and Visualize a Decision Tree with Python](https://www.reddit.com/r/Python/comments/u8k0am/know_how_to_create_and_visualize_a_decision_tree/)
 - [2022 Update: Understanding Best Practice Python Tooling by Comparing Popular Project Templates](https://www.reddit.com/r/Python/comments/u8jfcb/2022_update_understanding_best_practice_python/)
 - [Unpopular opinion: Matplotlib is a bad library](https://www.reddit.com/r/Python/comments/u8j6fn/unpopular_opinion_matplotlib_is_a_bad_library/)
 - [Question About Registrar API](https://www.reddit.com/r/Python/comments/u8ipnw/question_about_registrar_api/)
 - [GitHub - aGIToz/PyInpaint: A lightweight image inpainting tool in python.](https://www.reddit.com/r/Python/comments/u8hao9/github_agitozpyinpaint_a_lightweight_image/)
-- [Data Operations Using Python Mitosheets](https://www.reddit.com/r/Python/comments/u8fj6a/data_operations_using_python_mitosheets/)
 <!-- BLOG-POST-LIST:END -->
