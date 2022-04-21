@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2022 Update: Understanding Best Practice Python Tooling by Comparing Popular Project Templates](https://www.reddit.com/r/Python/comments/u8jfcb/2022_update_understanding_best_practice_python/)
+- [Unpopular opinion: Matplotlib is a bad library](https://www.reddit.com/r/Python/comments/u8j6fn/unpopular_opinion_matplotlib_is_a_bad_library/)
 - [Question About Registrar API](https://www.reddit.com/r/Python/comments/u8ipnw/question_about_registrar_api/)
 - [GitHub - aGIToz/PyInpaint: A lightweight image inpainting tool in python.](https://www.reddit.com/r/Python/comments/u8hao9/github_agitozpyinpaint_a_lightweight_image/)
 - [Data Operations Using Python Mitosheets](https://www.reddit.com/r/Python/comments/u8fj6a/data_operations_using_python_mitosheets/)
-- [Gradio - Build a Web App in Python in 5 minutes](https://www.reddit.com/r/Python/comments/u8fizk/gradio_build_a_web_app_in_python_in_5_minutes/)
-- [Urwid wrapper for nvidia-smi](https://www.reddit.com/r/Python/comments/u8bx7e/urwid_wrapper_for_nvidiasmi/)
 <!-- BLOG-POST-LIST:END -->
