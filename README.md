@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Automatically convert images to the webp format in AWS Lambda](https://www.reddit.com/r/Python/comments/u8953c/automatically_convert_images_to_the_webp_format/)
-- [I made a video about one of my favorite python libraries, tqdm! Let me know what you think.](https://www.reddit.com/r/Python/comments/u87iw2/i_made_a_video_about_one_of_my_favorite_python/)
+- [Urwid wrapper for nvidia-smi](https://www.reddit.com/r/Python/comments/u8bx7e/urwid_wrapper_for_nvidiasmi/)
+- [Creating and API from scratch...](https://www.reddit.com/r/Python/comments/u8ajpp/creating_and_api_from_scratch/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/u8a5pq/thursday_daily_thread_python_careers_courses_and/)
+- [Python Tutorial - How to create a Car Processor and Detector using Python?](https://www.reddit.com/r/Python/comments/u89kvw/python_tutorial_how_to_create_a_car_processor_and/)
 - [Flask vs FastAPI for a microservice](https://www.reddit.com/r/Python/comments/u86ra7/flask_vs_fastapi_for_a_microservice/)
-- [Type hints immediately giving payoffs](https://www.reddit.com/r/Python/comments/u86q6j/type_hints_immediately_giving_payoffs/)
-- [Bloomberg just Open sourced Memray a memory profiler for Python](https://www.reddit.com/r/Python/comments/u84tjr/bloomberg_just_open_sourced_memray_a_memory/)
 <!-- BLOG-POST-LIST:END -->
