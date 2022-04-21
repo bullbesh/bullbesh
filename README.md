@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - aGIToz/PyInpaint: A lightweight image inpainting tool in python.](https://www.reddit.com/r/Python/comments/u8hao9/github_agitozpyinpaint_a_lightweight_image/)
 - [Data Operations Using Python Mitosheets](https://www.reddit.com/r/Python/comments/u8fj6a/data_operations_using_python_mitosheets/)
 - [Gradio - Build a Web App in Python in 5 minutes](https://www.reddit.com/r/Python/comments/u8fizk/gradio_build_a_web_app_in_python_in_5_minutes/)
 - [Urwid wrapper for nvidia-smi](https://www.reddit.com/r/Python/comments/u8bx7e/urwid_wrapper_for_nvidiasmi/)
 - [Creating and API from scratch...](https://www.reddit.com/r/Python/comments/u8ajpp/creating_and_api_from_scratch/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/u8a5pq/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
