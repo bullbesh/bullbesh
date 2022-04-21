@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any suggestions for simple predictive modeling for class project using nba game data](https://www.reddit.com/r/Python/comments/u8sby9/any_suggestions_for_simple_predictive_modeling/)
+- [Build a Grammar Correction Python App with Gramformer and Gradio](https://www.reddit.com/r/Python/comments/u8ros9/build_a_grammar_correction_python_app_with/)
 - [For loop - library vs list](https://www.reddit.com/r/Python/comments/u8r1e6/for_loop_library_vs_list/)
 - [A magic hand using DXL and servo motors](https://www.reddit.com/r/Python/comments/u8qjgg/a_magic_hand_using_dxl_and_servo_motors/)
 - [co-author.py - Creates &quot;Co-authored-by&quot; lines from usernames and issue/PR urls using GitHub REST API](https://www.reddit.com/r/Python/comments/u8ol71/coauthorpy_creates_coauthoredby_lines_from/)
-- [Just started making a Pokémon wordle type game. Wish me luck, should be done by the end of two weeks](https://www.reddit.com/r/Python/comments/u8of7m/just_started_making_a_pokémon_wordle_type_game/)
-- [100%|██████████████| - TQDM is a simple library for adding progress bars to your python code. I made a tutorial about it.](https://www.reddit.com/r/Python/comments/u8nzzr/100_tqdm_is_a_simple_library_for_adding_progress/)
 <!-- BLOG-POST-LIST:END -->
