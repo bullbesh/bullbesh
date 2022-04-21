@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Intel 8051 microcontroller emulator](https://www.reddit.com/r/Python/comments/u8xutf/intel_8051_microcontroller_emulator/)
+- [dc_schema, a tiny library to generate JSON schema from python dataclasses](https://www.reddit.com/r/Python/comments/u8x9pw/dc_schema_a_tiny_library_to_generate_json_schema/)
 - [Cache in asynchronous Python applications](https://www.reddit.com/r/Python/comments/u8v01p/cache_in_asynchronous_python_applications/)
 - [Hey, I completed learning C, C++ and Data structures. I feel like learning Machine Learning, Artificial Intelligence and Deep Learning, so to get started I have planned to learn Python first. Please 🙏🙏 suggest few books which would be helpful for me in process of learning Python.](https://www.reddit.com/r/Python/comments/u8ux6j/hey_i_completed_learning_c_c_and_data_structures/)
 - [Is it bad practice to start with Jupyter Notebooks?](https://www.reddit.com/r/Python/comments/u8tsd6/is_it_bad_practice_to_start_with_jupyter_notebooks/)
-- [Python’s Match-Case Is Too Slow &lpar;If You Don’t Understand It&rpar;](https://www.reddit.com/r/Python/comments/u8t99e/pythons_matchcase_is_too_slow_if_you_dont/)
-- [Any suggestions for simple predictive modeling for class project using nba game data](https://www.reddit.com/r/Python/comments/u8sby9/any_suggestions_for_simple_predictive_modeling/)
 <!-- BLOG-POST-LIST:END -->
