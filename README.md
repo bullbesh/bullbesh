@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Proper launch of python packages](https://www.reddit.com/r/Python/comments/u9q8tx/proper_launch_of_python_packages/)
+- [Coding an Intelligent Battleship Agent](https://www.reddit.com/r/Python/comments/u9pn6u/coding_an_intelligent_battleship_agent/)
+- [rashell &lpar;Relational Algebra Shell&rpar;](https://www.reddit.com/r/Python/comments/u9p9g6/rashell_relational_algebra_shell/)
 - [Build Language Translator Web Application using Python, Hugging Face &amp; Gradio](https://www.reddit.com/r/Python/comments/u9owr7/build_language_translator_web_application_using/)
-- [This works but I&#39;m not sure why](https://www.reddit.com/r/Python/comments/u9old5/this_works_but_im_not_sure_why/)
 - [Does anyone know what editor this is or what sorts of editors have this feature?](https://www.reddit.com/r/Python/comments/u9obb5/does_anyone_know_what_editor_this_is_or_what/)
-- [A screenful of advice about writing command-line tools in Python](https://www.reddit.com/r/Python/comments/u9m149/a_screenful_of_advice_about_writing_commandline/)
-- [I&#39;ve made a pure Python implementation of the QOI image format](https://www.reddit.com/r/Python/comments/u9k3i3/ive_made_a_pure_python_implementation_of_the_qoi/)
 <!-- BLOG-POST-LIST:END -->
