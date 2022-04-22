@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just created my first flask webapp](https://www.reddit.com/r/Python/comments/u9rh57/just_created_my_first_flask_webapp/)
+- [I have multiple interdependent Python services &amp; modules for my work. I use conventional commits &lpar;changetype: scope: …&rpar; allowing automated changelogs. I think I need to go monorepo and add the changed service to the commit structure &lpar;service: changetype: scope&rpar;. Does this look like a good strategy?](https://www.reddit.com/r/Python/comments/u9rgzf/i_have_multiple_interdependent_python_services/)
+- [What is a good, pure Python alternative to lxml&#39;s objectify?](https://www.reddit.com/r/Python/comments/u9qp2k/what_is_a_good_pure_python_alternative_to_lxmls/)
 - [Proper launch of python packages](https://www.reddit.com/r/Python/comments/u9q8tx/proper_launch_of_python_packages/)
 - [Coding an Intelligent Battleship Agent](https://www.reddit.com/r/Python/comments/u9pn6u/coding_an_intelligent_battleship_agent/)
-- [rashell &lpar;Relational Algebra Shell&rpar;](https://www.reddit.com/r/Python/comments/u9p9g6/rashell_relational_algebra_shell/)
-- [Build Language Translator Web Application using Python, Hugging Face &amp; Gradio](https://www.reddit.com/r/Python/comments/u9owr7/build_language_translator_web_application_using/)
-- [Does anyone know what editor this is or what sorts of editors have this feature?](https://www.reddit.com/r/Python/comments/u9obb5/does_anyone_know_what_editor_this_is_or_what/)
 <!-- BLOG-POST-LIST:END -->
