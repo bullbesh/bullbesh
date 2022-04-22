@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to deploy machine learning model as an app in Python using Gradio](https://www.reddit.com/r/Python/comments/u9njtw/how_to_deploy_machine_learning_model_as_an_app_in/)
 - [A screenful of advice about writing command-line tools in Python](https://www.reddit.com/r/Python/comments/u9m149/a_screenful_of_advice_about_writing_commandline/)
 - [I&#39;ve made a pure Python implementation of the QOI image format](https://www.reddit.com/r/Python/comments/u9k3i3/ive_made_a_pure_python_implementation_of_the_qoi/)
 - [Cache in asynchronous Python applications](https://www.reddit.com/r/Python/comments/u9ihvl/cache_in_asynchronous_python_applications/)
 - [Car Wash Pattern: Parallelizing Non-Thread Safe and/or CPU-intensive Processes with Future Based Queue Centric Approach in Python](https://www.reddit.com/r/Python/comments/u9hhmv/car_wash_pattern_parallelizing_nonthread_safe/)
-- [Searching a student apartment in Zürich was too boring so I made a Telegram bot.](https://www.reddit.com/r/Python/comments/u9g6jb/searching_a_student_apartment_in_zürich_was_too/)
 <!-- BLOG-POST-LIST:END -->
