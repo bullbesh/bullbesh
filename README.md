@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Just created my first flask webapp](https://www.reddit.com/r/Python/comments/u9rh57/just_created_my_first_flask_webapp/)
+- [Help](https://www.reddit.com/r/Python/comments/u9u8zm/help/)
+- [Call me naive, but would it not be possible to create a tool for python the auto adds type hints at run time?](https://www.reddit.com/r/Python/comments/u9sdwa/call_me_naive_but_would_it_not_be_possible_to/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/u9sdh3/saturday_daily_thread_resource_request_and/)
 - [I have multiple interdependent Python services &amp; modules for my work. I use conventional commits &lpar;changetype: scope: …&rpar; allowing automated changelogs. I think I need to go monorepo and add the changed service to the commit structure &lpar;service: changetype: scope&rpar;. Does this look like a good strategy?](https://www.reddit.com/r/Python/comments/u9rgzf/i_have_multiple_interdependent_python_services/)
 - [What is a good, pure Python alternative to lxml&#39;s objectify?](https://www.reddit.com/r/Python/comments/u9qp2k/what_is_a_good_pure_python_alternative_to_lxmls/)
-- [Proper launch of python packages](https://www.reddit.com/r/Python/comments/u9q8tx/proper_launch_of_python_packages/)
-- [Coding an Intelligent Battleship Agent](https://www.reddit.com/r/Python/comments/u9pn6u/coding_an_intelligent_battleship_agent/)
 <!-- BLOG-POST-LIST:END -->
