@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Discussion: What is the most pythonic way to print an extra line break?](https://www.reddit.com/r/Python/comments/uadbi3/discussion_what_is_the_most_pythonic_way_to_print/)
+- [A simple python library that can be used to run large Web3 queries on Ethereum blockchain concurrently as per Ethereum JSON-RPC specification.](https://www.reddit.com/r/Python/comments/uad9mx/a_simple_python_library_that_can_be_used_to_run/)
 - [Face detection algorithms comparison](https://www.reddit.com/r/Python/comments/uacer5/face_detection_algorithms_comparison/)
 - [GitHub - plasma-umass/slipcover: Near Zero-Overhead Python Code Coverage](https://www.reddit.com/r/Python/comments/ua8sgx/github_plasmaumassslipcover_near_zerooverhead/)
 - [deferred-import: Lazy import and install on demand Python packages](https://www.reddit.com/r/Python/comments/ua7bsz/deferredimport_lazy_import_and_install_on_demand/)
-- [Parking space counter created using OpenCV and Python](https://www.reddit.com/r/Python/comments/ua6xh2/parking_space_counter_created_using_opencv_and/)
-- [Step by step explanation of Insertion Sort in Python](https://www.reddit.com/r/Python/comments/ua6x8j/step_by_step_explanation_of_insertion_sort_in/)
 <!-- BLOG-POST-LIST:END -->
