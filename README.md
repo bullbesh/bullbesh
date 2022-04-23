@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deciding what to use among Cython / Pypy / Numba](https://www.reddit.com/r/Python/comments/uafu40/deciding_what_to_use_among_cython_pypy_numba/)
 - [Discussion: What is the most pythonic way to print an extra line break?](https://www.reddit.com/r/Python/comments/uadbi3/discussion_what_is_the_most_pythonic_way_to_print/)
 - [A simple python library that can be used to run large Web3 queries on Ethereum blockchain concurrently as per Ethereum JSON-RPC specification.](https://www.reddit.com/r/Python/comments/uad9mx/a_simple_python_library_that_can_be_used_to_run/)
 - [Face detection algorithms comparison](https://www.reddit.com/r/Python/comments/uacer5/face_detection_algorithms_comparison/)
 - [GitHub - plasma-umass/slipcover: Near Zero-Overhead Python Code Coverage](https://www.reddit.com/r/Python/comments/ua8sgx/github_plasmaumassslipcover_near_zerooverhead/)
-- [deferred-import: Lazy import and install on demand Python packages](https://www.reddit.com/r/Python/comments/ua7bsz/deferredimport_lazy_import_and_install_on_demand/)
 <!-- BLOG-POST-LIST:END -->
