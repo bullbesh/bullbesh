@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do you manage conflicting packages in your requirements.txt ?](https://www.reddit.com/r/Python/comments/ua2a7k/how_do_you_manage_conflicting_packages_in_your/)
+- [&quot;Community is essential to programmers&quot; - Eric Matthes](https://www.reddit.com/r/Python/comments/ua1z3n/community_is_essential_to_programmers_eric_matthes/)
+- [10 examples of using Python for big data analysis](https://www.reddit.com/r/Python/comments/ua1kfl/10_examples_of_using_python_for_big_data_analysis/)
 - [MNE — Open-source Python package for exploring, visualizing, and analyzing human neurophysiological data: MEG, EEG, sEEG, ECoG, NIRS, and more](https://www.reddit.com/r/Python/comments/ua0faz/mne_opensource_python_package_for_exploring/)
 - [Python Tips and Tricks — Write Better Python Code](https://www.reddit.com/r/Python/comments/u9ziwb/python_tips_and_tricks_write_better_python_code/)
-- [freeCodeCamp: Gradio Course - Create User Interfaces for Machine Learning Models in Python](https://www.reddit.com/r/Python/comments/u9y93f/freecodecamp_gradio_course_create_user_interfaces/)
-- [PCEP Certification exam - Python](https://www.reddit.com/r/Python/comments/u9x1e4/pcep_certification_exam_python/)
-- [Call me naive, but would it not be possible to create a tool for python the auto adds type hints at run time?](https://www.reddit.com/r/Python/comments/u9sdwa/call_me_naive_but_would_it_not_be_possible_to/)
 <!-- BLOG-POST-LIST:END -->
