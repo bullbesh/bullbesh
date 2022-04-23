@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - plasma-umass/slipcover: Near Zero-Overhead Python Code Coverage](https://www.reddit.com/r/Python/comments/ua8sgx/github_plasmaumassslipcover_near_zerooverhead/)
 - [deferred-import: Lazy import and install on demand Python packages](https://www.reddit.com/r/Python/comments/ua7bsz/deferredimport_lazy_import_and_install_on_demand/)
 - [Parking space counter created using OpenCV and Python](https://www.reddit.com/r/Python/comments/ua6xh2/parking_space_counter_created_using_opencv_and/)
 - [Step by step explanation of Insertion Sort in Python](https://www.reddit.com/r/Python/comments/ua6x8j/step_by_step_explanation_of_insertion_sort_in/)
 - [Space Science: Autoencoder latent space visualization of asteroid spectra](https://www.reddit.com/r/Python/comments/ua6sq9/space_science_autoencoder_latent_space/)
-- [What makes a good programmer?](https://www.reddit.com/r/Python/comments/ua64gc/what_makes_a_good_programmer/)
 <!-- BLOG-POST-LIST:END -->
