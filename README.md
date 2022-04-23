@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What makes a good programmer?](https://www.reddit.com/r/Python/comments/ua64gc/what_makes_a_good_programmer/)
 - [Python matplotlib and numpy New Playlist](https://www.reddit.com/r/Python/comments/ua2fpl/python_matplotlib_and_numpy_new_playlist/)
 - [How do you manage conflicting packages in your requirements.txt ?](https://www.reddit.com/r/Python/comments/ua2a7k/how_do_you_manage_conflicting_packages_in_your/)
 - [&quot;Community is essential to programmers&quot; - Eric Matthes](https://www.reddit.com/r/Python/comments/ua1z3n/community_is_essential_to_programmers_eric_matthes/)
 - [10 examples of using Python for big data analysis](https://www.reddit.com/r/Python/comments/ua1kfl/10_examples_of_using_python_for_big_data_analysis/)
-- [MNE — Open-source Python package for exploring, visualizing, and analyzing human neurophysiological data: MEG, EEG, sEEG, ECoG, NIRS, and more](https://www.reddit.com/r/Python/comments/ua0faz/mne_opensource_python_package_for_exploring/)
 <!-- BLOG-POST-LIST:END -->
