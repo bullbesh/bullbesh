@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Logging facility for Python - Documentation, made easy to read](https://www.reddit.com/r/Python/comments/uatomd/logging_facility_for_python_documentation_made/)
+- [Building a Soccer Shot Map for Spain](https://www.reddit.com/r/Python/comments/uatfhp/building_a_soccer_shot_map_for_spain/)
+- [How to determine a ?](https://www.reddit.com/r/Python/comments/uasrgg/how_to_determine_a/)
 - [borb vs fpdf2 - comparing 2 PDF generation libs: features &amp; benchmark](https://www.reddit.com/r/Python/comments/uasf5r/borb_vs_fpdf2_comparing_2_pdf_generation_libs/)
 - [HOW TO SOLVE THIS &lpar;FLASK&rpar;](https://www.reddit.com/r/Python/comments/uarl67/how_to_solve_this_flask/)
-- [I made my first Discord Bot with Python!](https://www.reddit.com/r/Python/comments/uar1v9/i_made_my_first_discord_bot_with_python/)
-- [Open source daily Capybara Website built with Python](https://www.reddit.com/r/Python/comments/uar10e/open_source_daily_capybara_website_built_with/)
-- [GitHub - roniemartinez/browsers: Python library for detecting and launching browsers](https://www.reddit.com/r/Python/comments/uaqavx/github_roniemartinezbrowsers_python_library_for/)
 <!-- BLOG-POST-LIST:END -->
