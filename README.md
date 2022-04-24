@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I once gave Python a lot of grief; but now I have to say thank you as the specific programming that Python utilizes helped me build software to Extract EMF waves from photographs to reveal blackholes, and more.](https://www.reddit.com/r/Python/comments/ub069h/i_once_gave_python_a_lot_of_grief_but_now_i_have/)
+- [Possible career in Python as a Bilingual](https://www.reddit.com/r/Python/comments/uazva3/possible_career_in_python_as_a_bilingual/)
+- [I am intermediate, how to take python &lpar;programming skills&rpar; to next level?](https://www.reddit.com/r/Python/comments/uazm1g/i_am_intermediate_how_to_take_python_programming/)
 - [Publishing platform for developers?](https://www.reddit.com/r/Python/comments/uaz9xq/publishing_platform_for_developers/)
 - [Set Types in Python — set, frozenset [Documentation - made easy to read]](https://www.reddit.com/r/Python/comments/uaz839/set_types_in_python_set_frozenset_documentation/)
-- [Game of life](https://www.reddit.com/r/Python/comments/uaxzr5/game_of_life/)
-- [The Python Graph Gallery](https://www.reddit.com/r/Python/comments/uaxm35/the_python_graph_gallery/)
-- [Useful tricks with pip install URL and GitHub](https://www.reddit.com/r/Python/comments/uawxuo/useful_tricks_with_pip_install_url_and_github/)
 <!-- BLOG-POST-LIST:END -->
