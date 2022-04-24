@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [In-Depth Analysis of Moonbirds NFTs using Python and Alchemy](https://www.reddit.com/r/Python/comments/ub5plk/indepth_analysis_of_moonbirds_nfts_using_python/)
+- [2-Button UI engine in MicroPython with &quot;Apps&quot; on a TTGO T-Display](https://www.reddit.com/r/Python/comments/ub6l4g/2button_ui_engine_in_micropython_with_apps_on_a/)
 - [Anyone know the history of why strings are iterable?](https://www.reddit.com/r/Python/comments/ub53ge/anyone_know_the_history_of_why_strings_are/)
 - [Breaking Anti-Cheat With Electronics &amp; Python](https://www.reddit.com/r/Python/comments/ub4yc3/breaking_anticheat_with_electronics_python/)
 - [AppleMusicRP - Discord Rich Presence for Apple Music w/ Album Artwork!](https://www.reddit.com/r/Python/comments/ub2k6a/applemusicrp_discord_rich_presence_for_apple/)
