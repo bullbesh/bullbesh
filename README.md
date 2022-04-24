@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [where can I share my python snippets with others?](https://www.reddit.com/r/Python/comments/uanf9e/where_can_i_share_my_python_snippets_with_others/)
 - [Extracting WhatsApp messages from an iOS backup](https://www.reddit.com/r/Python/comments/ualvg6/extracting_whatsapp_messages_from_an_ios_backup/)
 - [What to do next after learning basic python grammar](https://www.reddit.com/r/Python/comments/ualp72/what_to_do_next_after_learning_basic_python/)
 - [Program to document code snippets and control under-development projects](https://www.reddit.com/r/Python/comments/uaknmh/program_to_document_code_snippets_and_control/)
 - [just want to bury](https://www.reddit.com/r/Python/comments/uak5ot/just_want_to_bury/)
-- [Pons, an async Ethereum RPC client library](https://www.reddit.com/r/Python/comments/uaj86y/pons_an_async_ethereum_rpc_client_library/)
 <!-- BLOG-POST-LIST:END -->
