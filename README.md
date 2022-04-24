@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Game of life](https://www.reddit.com/r/Python/comments/uaxzr5/game_of_life/)
+- [The Python Graph Gallery](https://www.reddit.com/r/Python/comments/uaxm35/the_python_graph_gallery/)
 - [Useful tricks with pip install URL and GitHub](https://www.reddit.com/r/Python/comments/uawxuo/useful_tricks_with_pip_install_url_and_github/)
 - [How to use MicroPython on Docker!](https://www.reddit.com/r/Python/comments/uawlsz/how_to_use_micropython_on_docker/)
 - [Speeding up python CLI&#39;s!](https://www.reddit.com/r/Python/comments/uavrnn/speeding_up_python_clis/)
-- [ga-extractor - CLI tool for extracting Google Analytics data](https://www.reddit.com/r/Python/comments/uau4ci/gaextractor_cli_tool_for_extracting_google/)
-- [Get total time spent watching movies logged on to Letterboxd](https://www.reddit.com/r/Python/comments/uau2nl/get_total_time_spent_watching_movies_logged_on_to/)
 <!-- BLOG-POST-LIST:END -->
