@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Publishing platform for developers?](https://www.reddit.com/r/Python/comments/uaz9xq/publishing_platform_for_developers/)
+- [Set Types in Python — set, frozenset [Documentation - made easy to read]](https://www.reddit.com/r/Python/comments/uaz839/set_types_in_python_set_frozenset_documentation/)
 - [Game of life](https://www.reddit.com/r/Python/comments/uaxzr5/game_of_life/)
 - [The Python Graph Gallery](https://www.reddit.com/r/Python/comments/uaxm35/the_python_graph_gallery/)
 - [Useful tricks with pip install URL and GitHub](https://www.reddit.com/r/Python/comments/uawxuo/useful_tricks_with_pip_install_url_and_github/)
-- [How to use MicroPython on Docker!](https://www.reddit.com/r/Python/comments/uawlsz/how_to_use_micropython_on_docker/)
-- [Speeding up python CLI&#39;s!](https://www.reddit.com/r/Python/comments/uavrnn/speeding_up_python_clis/)
 <!-- BLOG-POST-LIST:END -->
