@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - roniemartinez/browsers: Python library for detecting and launching browsers](https://www.reddit.com/r/Python/comments/uaqavx/github_roniemartinezbrowsers_python_library_for/)
 - [What&#39;s your favorite GUI library and why? I&#39;ll start, mine is TKinter because its the first one I learned and I found it easy for basic display](https://www.reddit.com/r/Python/comments/uapobr/whats_your_favorite_gui_library_and_why_ill_start/)
 - [Python Selenium Tutorial #10 - Scrape Websites with Infinite Scrolling](https://www.reddit.com/r/Python/comments/uapb3n/python_selenium_tutorial_10_scrape_websites_with/)
 - [where can I share my python snippets with others?](https://www.reddit.com/r/Python/comments/uanf9e/where_can_i_share_my_python_snippets_with_others/)
 - [Extracting WhatsApp messages from an iOS backup](https://www.reddit.com/r/Python/comments/ualvg6/extracting_whatsapp_messages_from_an_ios_backup/)
-- [What to do next after learning basic python grammar](https://www.reddit.com/r/Python/comments/ualp72/what_to_do_next_after_learning_basic_python/)
 <!-- BLOG-POST-LIST:END -->
