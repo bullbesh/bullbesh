@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Extracting WhatsApp messages from an iOS backup](https://www.reddit.com/r/Python/comments/ualvg6/extracting_whatsapp_messages_from_an_ios_backup/)
 - [What to do next after learning basic python grammar](https://www.reddit.com/r/Python/comments/ualp72/what_to_do_next_after_learning_basic_python/)
 - [Program to document code snippets and control under-development projects](https://www.reddit.com/r/Python/comments/uaknmh/program_to_document_code_snippets_and_control/)
 - [just want to bury](https://www.reddit.com/r/Python/comments/uak5ot/just_want_to_bury/)
 - [Pons, an async Ethereum RPC client library](https://www.reddit.com/r/Python/comments/uaj86y/pons_an_async_ethereum_rpc_client_library/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/uai5y5/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
