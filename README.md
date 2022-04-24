@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Code - Week 4: Digit Subtraction!](https://www.reddit.com/r/Python/comments/ub1ppc/weekly_code_week_4_digit_subtraction/)
+- [I made a game that let&#39;s you play any MIDI file with arrow keys!](https://www.reddit.com/r/Python/comments/ub1p3g/i_made_a_game_that_lets_you_play_any_midi_file/)
+- [Two New Articles - Intermediate Advanced Practice Ideas and Thonny, the Beginner IDE](https://www.reddit.com/r/Python/comments/ub1od2/two_new_articles_intermediate_advanced_practice/)
 - [I once gave Python a lot of grief; but now I have to say thank you as the specific programming that Python utilizes helped me build software to Extract EMF waves from photographs to reveal blackholes, and more.](https://www.reddit.com/r/Python/comments/ub069h/i_once_gave_python_a_lot_of_grief_but_now_i_have/)
 - [Possible career in Python as a Bilingual](https://www.reddit.com/r/Python/comments/uazva3/possible_career_in_python_as_a_bilingual/)
-- [I am intermediate, how to take python &lpar;programming skills&rpar; to next level?](https://www.reddit.com/r/Python/comments/uazm1g/i_am_intermediate_how_to_take_python_programming/)
-- [Publishing platform for developers?](https://www.reddit.com/r/Python/comments/uaz9xq/publishing_platform_for_developers/)
-- [Set Types in Python — set, frozenset [Documentation - made easy to read]](https://www.reddit.com/r/Python/comments/uaz839/set_types_in_python_set_frozenset_documentation/)
 <!-- BLOG-POST-LIST:END -->
