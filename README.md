@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Useful tricks with pip install URL and GitHub](https://www.reddit.com/r/Python/comments/uawxuo/useful_tricks_with_pip_install_url_and_github/)
+- [How to use MicroPython on Docker!](https://www.reddit.com/r/Python/comments/uawlsz/how_to_use_micropython_on_docker/)
+- [Speeding up python CLI&#39;s!](https://www.reddit.com/r/Python/comments/uavrnn/speeding_up_python_clis/)
 - [ga-extractor - CLI tool for extracting Google Analytics data](https://www.reddit.com/r/Python/comments/uau4ci/gaextractor_cli_tool_for_extracting_google/)
 - [Get total time spent watching movies logged on to Letterboxd](https://www.reddit.com/r/Python/comments/uau2nl/get_total_time_spent_watching_movies_logged_on_to/)
-- [Logging facility for Python - Documentation, made easy to read](https://www.reddit.com/r/Python/comments/uatomd/logging_facility_for_python_documentation_made/)
-- [Building a Soccer Shot Map for Spain](https://www.reddit.com/r/Python/comments/uatfhp/building_a_soccer_shot_map_for_spain/)
-- [How to determine a ?](https://www.reddit.com/r/Python/comments/uasrgg/how_to_determine_a/)
 <!-- BLOG-POST-LIST:END -->
