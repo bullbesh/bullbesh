@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [merge5audio - A simple GUI app that merges audio files](https://www.reddit.com/r/Python/comments/ublodl/merge5audio_a_simple_gui_app_that_merges_audio/)
 - [Learn Python in 3 Hours [DE]](https://www.reddit.com/r/Python/comments/ubl5x7/learn_python_in_3_hours_de/)
 - [10% of the 666 most popular Python GitHub repos have f-string bugs &lpar;so 68 pull requests were made in 24 hours to fix them all&rpar;](https://www.reddit.com/r/Python/comments/ubkvrd/10_of_the_666_most_popular_python_github_repos/)
 - [Flask -&gt; FastAPI](https://www.reddit.com/r/Python/comments/ubiv0a/flask_fastapi/)
 - [Ping Sweeper In Python](https://www.reddit.com/r/Python/comments/ubhkg4/ping_sweeper_in_python/)
-- [Text Summarization with Huggingface Transformers and Python](https://www.reddit.com/r/Python/comments/ubgv0x/text_summarization_with_huggingface_transformers/)
 <!-- BLOG-POST-LIST:END -->
