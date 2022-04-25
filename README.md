@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning Python](https://www.reddit.com/r/Python/comments/ubucj0/learning_python/)
 - [Succinct callable type hints](https://www.reddit.com/r/Python/comments/ubrjze/succinct_callable_type_hints/)
 - [Choosing a Python library](https://www.reddit.com/r/Python/comments/ubqn2k/choosing_a_python_library/)
 - [Introduction Python’s Moto Library- Easily Mock out AWS Services](https://www.reddit.com/r/Python/comments/ubon6t/introduction_pythons_moto_library_easily_mock_out/)
 - [Image Processing Camera Suggestions?](https://www.reddit.com/r/Python/comments/ubo3za/image_processing_camera_suggestions/)
-- [Giving the Python environment management ecosystem the old-fashioned Gordian Knot treatment. Plus: conda best practices and a fictional history of python env+dep management tools.](https://www.reddit.com/r/Python/comments/ubn40k/giving_the_python_environment_management/)
 <!-- BLOG-POST-LIST:END -->
