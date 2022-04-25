@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python in 3 Hours [DE]](https://www.reddit.com/r/Python/comments/ubl5x7/learn_python_in_3_hours_de/)
+- [10% of the 666 most popular Python GitHub repos have f-string bugs &lpar;so 68 pull requests were made in 24 hours to fix them all&rpar;](https://www.reddit.com/r/Python/comments/ubkvrd/10_of_the_666_most_popular_python_github_repos/)
 - [Flask -&gt; FastAPI](https://www.reddit.com/r/Python/comments/ubiv0a/flask_fastapi/)
 - [Ping Sweeper In Python](https://www.reddit.com/r/Python/comments/ubhkg4/ping_sweeper_in_python/)
 - [Text Summarization with Huggingface Transformers and Python](https://www.reddit.com/r/Python/comments/ubgv0x/text_summarization_with_huggingface_transformers/)
-- [GitHub - helblazer811/ManimML: ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.](https://www.reddit.com/r/Python/comments/ubfsl4/github_helblazer811manimml_manimml_is_a_project/)
-- [How do you write iOS apps in Python?](https://www.reddit.com/r/Python/comments/ubehfi/how_do_you_write_ios_apps_in_python/)
 <!-- BLOG-POST-LIST:END -->
