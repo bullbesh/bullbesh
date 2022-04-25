@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Making a list of advanced topics in Python](https://www.reddit.com/r/Python/comments/ubd7xt/making_a_list_of_advanced_topics_in_python/)
 - [Port scanning with Python](https://www.reddit.com/r/Python/comments/ubakvn/port_scanning_with_python/)
 - [Python 3.11 Preview: Task and Exception Groups – Real Python](https://www.reddit.com/r/Python/comments/ub9elz/python_311_preview_task_and_exception_groups_real/)
 - [Best API to use for an Unusual Options Scanner](https://www.reddit.com/r/Python/comments/ub8uat/best_api_to_use_for_an_unusual_options_scanner/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/ub7ugb/monday_daily_thread_project_ideas/)
-- [2-Button UI engine in MicroPython with &quot;Apps&quot; on a TTGO T-Display](https://www.reddit.com/r/Python/comments/ub6l4g/2button_ui_engine_in_micropython_with_apps_on_a/)
 <!-- BLOG-POST-LIST:END -->
