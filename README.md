@@ -9,8 +9,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Introduction Python’s Moto Library- Easily Mock out AWS Services](https://www.reddit.com/r/Python/comments/ubon6t/introduction_pythons_moto_library_easily_mock_out/)
-- [Python Tips And Tricks — Using Built-In Database](https://www.reddit.com/r/Python/comments/ubode8/python_tips_and_tricks_using_builtin_database/)
 - [Image Processing Camera Suggestions?](https://www.reddit.com/r/Python/comments/ubo3za/image_processing_camera_suggestions/)
 - [Giving the Python environment management ecosystem the old-fashioned Gordian Knot treatment. Plus: conda best practices and a fictional history of python env+dep management tools.](https://www.reddit.com/r/Python/comments/ubn40k/giving_the_python_environment_management/)
-- [Is a primer for scientic programming still the best resource for computational physics](https://www.reddit.com/r/Python/comments/ubmq7b/is_a_primer_for_scientic_programming_still_the/)
+- [merge5audio - A simple GUI app that merges audio files](https://www.reddit.com/r/Python/comments/ublodl/merge5audio_a_simple_gui_app_that_merges_audio/)
+- [Learn Python in 3 Hours [DE]](https://www.reddit.com/r/Python/comments/ubl5x7/learn_python_in_3_hours_de/)
 <!-- BLOG-POST-LIST:END -->
