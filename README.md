@@ -8,8 +8,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top Checklist to Hire Python Developers](https://www.reddit.com/r/Python/comments/uc5rj2/top_checklist_to_hire_python_developers/)
 - [Rate my game: Lightshift!](https://www.reddit.com/r/Python/comments/uc4gr1/rate_my_game_lightshift/)
-- [[CRASH SERVER] --- track fully &lpar;live&rpar; coded in Python with FoxDot/Troop/Supercollider, Audio reactive visuals](https://www.reddit.com/r/Python/comments/uc3oj1/crash_server_track_fully_live_coded_in_python/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/ubz9be/tuesday_daily_thread_advanced_questions/)
 - [Anubis - Python Obfuscator](https://www.reddit.com/r/Python/comments/ubxqt3/anubis_python_obfuscator/)
 - [I used the speech_recognition library for many of my projects, but needed an offline capability so I switched to Vosk. Here&#39;s a quick video on how to install and use it. Before I invest too much time with it, is there a better offline speech recognition library?](https://www.reddit.com/r/Python/comments/ubwvez/i_used_the_speech_recognition_library_for_many_of/)
