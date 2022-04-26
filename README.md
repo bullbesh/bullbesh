@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Scripting vs App Development](https://www.reddit.com/r/Python/comments/ucn1ml/scripting_vs_app_development/)
+- [Python Tips And Tricks — Using Built-In Database](https://www.reddit.com/r/Python/comments/ucnftn/python_tips_and_tricks_using_builtin_database/)
 - [AutoTwitchDrops. A minimalist bot that gets Twitch drops for you written in pure Python.](https://www.reddit.com/r/Python/comments/ucl9mz/autotwitchdrops_a_minimalist_bot_that_gets_twitch/)
 - [FastAPI with SQLModel, Alembic and Authentication. Full course](https://www.reddit.com/r/Python/comments/uck9s7/fastapi_with_sqlmodel_alembic_and_authentication/)
 - [Yo, im beginner at python and honestly im looking for a company/open project...](https://www.reddit.com/r/Python/comments/ucid59/yo_im_beginner_at_python_and_honestly_im_looking/)
