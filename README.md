@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Robyn - A Python web framework with a Rust runtime - crossed 200k installs on PyPi](https://www.reddit.com/r/Python/comments/ucazjl/robyn_a_python_web_framework_with_a_rust_runtime/)
+- [Can someone explain what pandas.interpolation&lpar;method=&#39;krogh&#39;&rpar; does?](https://www.reddit.com/r/Python/comments/ucahrg/can_someone_explain_what/)
+- [Can someone explain what pandas.interpolation&lpar;method=&#39;barycentric&#39;&rpar; does?](https://www.reddit.com/r/Python/comments/ucah5m/can_someone_explain_what/)
 - [GitHub - LukasZahradnik/PyNeuraLogic: PyNeuraLogic lets you use Python to create Differentiable Logic Programs](https://www.reddit.com/r/Python/comments/uc9wc1/github_lukaszahradnikpyneuralogic_pyneuralogic/)
 - [Is there any way to make this code more pythonic? I am trying as well to make it really fast. What should I use?](https://www.reddit.com/r/Python/comments/uc9nzg/is_there_any_way_to_make_this_code_more_pythonic/)
-- [Broadcast dictionary: operate on all values of a dictionary without loops or dict comprehension](https://www.reddit.com/r/Python/comments/uc9efg/broadcast_dictionary_operate_on_all_values_of_a/)
-- [Would be nice to run a python module function with &quot;python -m mymod:func&quot;](https://www.reddit.com/r/Python/comments/uc8k1r/would_be_nice_to_run_a_python_module_function/)
-- [OS Signal Handling in Python 3.x.x](https://www.reddit.com/r/Python/comments/uc67ax/os_signal_handling_in_python_3xx/)
 <!-- BLOG-POST-LIST:END -->
