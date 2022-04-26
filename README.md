@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - LukasZahradnik/PyNeuraLogic: PyNeuraLogic lets you use Python to create Differentiable Logic Programs](https://www.reddit.com/r/Python/comments/uc9wc1/github_lukaszahradnikpyneuralogic_pyneuralogic/)
+- [Is there any way to make this code more pythonic? I am trying as well to make it really fast. What should I use?](https://www.reddit.com/r/Python/comments/uc9nzg/is_there_any_way_to_make_this_code_more_pythonic/)
+- [Broadcast dictionary: operate on all values of a dictionary without loops or dict comprehension](https://www.reddit.com/r/Python/comments/uc9efg/broadcast_dictionary_operate_on_all_values_of_a/)
 - [Would be nice to run a python module function with &quot;python -m mymod:func&quot;](https://www.reddit.com/r/Python/comments/uc8k1r/would_be_nice_to_run_a_python_module_function/)
 - [OS Signal Handling in Python 3.x.x](https://www.reddit.com/r/Python/comments/uc67ax/os_signal_handling_in_python_3xx/)
-- [Build your own Data Acquisition System &lpar;.csv file&rpar; using Python and Arduino](https://www.reddit.com/r/Python/comments/uc66x3/build_your_own_data_acquisition_system_csv_file/)
-- [Top Checklist to Hire Python Developers](https://www.reddit.com/r/Python/comments/uc5rj2/top_checklist_to_hire_python_developers/)
-- [Rate my game: Lightshift!](https://www.reddit.com/r/Python/comments/uc4gr1/rate_my_game_lightshift/)
 <!-- BLOG-POST-LIST:END -->
