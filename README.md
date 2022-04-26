@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My friend needs some help with Python HW.](https://www.reddit.com/r/Python/comments/ubzxqw/my_friend_needs_some_help_with_python_hw/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/ubz9be/tuesday_daily_thread_advanced_questions/)
 - [Anubis - Python Obfuscator](https://www.reddit.com/r/Python/comments/ubxqt3/anubis_python_obfuscator/)
 - [I used the speech_recognition library for many of my projects, but needed an offline capability so I switched to Vosk. Here&#39;s a quick video on how to install and use it. Before I invest too much time with it, is there a better offline speech recognition library?](https://www.reddit.com/r/Python/comments/ubwvez/i_used_the_speech_recognition_library_for_many_of/)
 - [Wyngman helps you better understand your AWS Cognito users](https://www.reddit.com/r/Python/comments/ubvzi8/wyngman_helps_you_better_understand_your_aws/)
+- [Learning Python](https://www.reddit.com/r/Python/comments/ubucj0/learning_python/)
 <!-- BLOG-POST-LIST:END -->
