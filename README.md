@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lambda Functions + Map&lpar;&rpar; Reduce&lpar;&rpar; Filter&lpar;&rpar;](https://www.reddit.com/r/Python/comments/ude784/lambda_functions_map_reduce_filter/)
+- [Lots of modules aka files is this trouble in some manner I dont get ?](https://www.reddit.com/r/Python/comments/uddgw4/lots_of_modules_aka_files_is_this_trouble_in_some/)
+- [Python Coding Intermediate: Python Classes, Methods and OOPs](https://www.reddit.com/r/Python/comments/udd6e9/python_coding_intermediate_python_classes_methods/)
+- [Learn Python: Python Baby Steps](https://www.reddit.com/r/Python/comments/udd58y/learn_python_python_baby_steps/)
 - [Ideas for a new project?](https://www.reddit.com/r/Python/comments/udcq5p/ideas_for_a_new_project/)
-- [question about importing python file](https://www.reddit.com/r/Python/comments/udc5um/question_about_importing_python_file/)
-- [Mypy 0.950 Released](https://www.reddit.com/r/Python/comments/udbbnm/mypy_0950_released/)
-- [Python Inline Source Syntax Highlighting Using Type Annotations](https://www.reddit.com/r/Python/comments/udaqbu/python_inline_source_syntax_highlighting_using/)
-- [Job search automation with Python](https://www.reddit.com/r/Python/comments/uda3lb/job_search_automation_with_python/)
 <!-- BLOG-POST-LIST:END -->
