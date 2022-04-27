@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Job search automation with Python](https://www.reddit.com/r/Python/comments/uda3lb/job_search_automation_with_python/)
+- [Need your opinion](https://www.reddit.com/r/Python/comments/ud9g4m/need_your_opinion/)
 - [Underscoring &lpar;or dunder-scoring&rpar; the importance of native type methods in Python](https://www.reddit.com/r/Python/comments/ud8sb3/underscoring_or_dunderscoring_the_importance_of/)
 - [How common is poorly organized python code in industry?](https://www.reddit.com/r/Python/comments/ud8cec/how_common_is_poorly_organized_python_code_in/)
 - [Python Is Now Top Programming Language — But Shouldn&#39;t Be](https://www.reddit.com/r/Python/comments/ud7nbo/python_is_now_top_programming_language_but/)
-- [Hackerforms - create interfaces for scripts straight from your Python code](https://www.reddit.com/r/Python/comments/ud6wuv/hackerforms_create_interfaces_for_scripts/)
-- [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/ud6c1o/python_cybersecurity_build_your_own_python_tools/)
 <!-- BLOG-POST-LIST:END -->
