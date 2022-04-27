@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [We built the &quot;Netlify for Backend&quot; that runs on your AWS account!](https://www.reddit.com/r/Python/comments/ucwrpv/we_built_the_netlify_for_backend_that_runs_on/)
 - [Gradio – A Python web UI framework – 100k installs on PyPI](https://www.reddit.com/r/Python/comments/ucw5iv/gradio_a_python_web_ui_framework_100k_installs_on/)
 - [GitHub - GeeTransit/sphinx-better-subsection: Better your Sphinx section IDs](https://www.reddit.com/r/Python/comments/ucv4vl/github_geetransitsphinxbettersubsection_better/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/ucqd0q/wednesday_daily_thread_beginner_questions/)
 - [Python Tips And Tricks — Using Built-In Database](https://www.reddit.com/r/Python/comments/ucnftn/python_tips_and_tricks_using_builtin_database/)
-- [AutoTwitchDrops. A minimalist bot that gets Twitch drops for you written in pure Python.](https://www.reddit.com/r/Python/comments/ucl9mz/autotwitchdrops_a_minimalist_bot_that_gets_twitch/)
 <!-- BLOG-POST-LIST:END -->
