@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Version Control your Django Project](https://www.reddit.com/r/Python/comments/ud4xau/how_to_version_control_your_django_project/)
-- [How ASCII video are made](https://www.reddit.com/r/Python/comments/ud4oj6/how_ascii_video_are_made/)
-- [GitHub - dflook/python-minifier: Transform Python source code into it&#39;s most compact representation](https://www.reddit.com/r/Python/comments/ud2xcd/github_dflookpythonminifier_transform_python/)
-- [How to Make Pass Maps in Python](https://www.reddit.com/r/Python/comments/ud29il/how_to_make_pass_maps_in_python/)
-- [I have written a blog building Neural Network from scratch with Python and trained it on image data.](https://www.reddit.com/r/Python/comments/ud0cqi/i_have_written_a_blog_building_neural_network/)
+- [Python Is Now Top Programming Language — But Shouldn&#39;t Be](https://www.reddit.com/r/Python/comments/ud7nbo/python_is_now_top_programming_language_but/)
+- [Hackerforms - create interfaces for scripts straight from your Python code](https://www.reddit.com/r/Python/comments/ud6wuv/hackerforms_create_interfaces_for_scripts/)
+- [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/ud6c1o/python_cybersecurity_build_your_own_python_tools/)
+- [Ways to unpack a tuple with 1 element](https://www.reddit.com/r/Python/comments/ud67zr/ways_to_unpack_a_tuple_with_1_element/)
+- [Create a Bluetooth LE repeater using Python on Raspberry pi to overcome the range limitation](https://www.reddit.com/r/Python/comments/ud66s4/create_a_bluetooth_le_repeater_using_python_on/)
 <!-- BLOG-POST-LIST:END -->
