@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Good ways to send and recieve REST request objects when ID of object is only sometimes sent or received?](https://www.reddit.com/r/Python/comments/ucx5qc/good_ways_to_send_and_recieve_rest_request/)
 - [We built the &quot;Netlify for Backend&quot; that runs on your AWS account!](https://www.reddit.com/r/Python/comments/ucwrpv/we_built_the_netlify_for_backend_that_runs_on/)
 - [Gradio – A Python web UI framework – 100k installs on PyPI](https://www.reddit.com/r/Python/comments/ucw5iv/gradio_a_python_web_ui_framework_100k_installs_on/)
 - [GitHub - GeeTransit/sphinx-better-subsection: Better your Sphinx section IDs](https://www.reddit.com/r/Python/comments/ucv4vl/github_geetransitsphinxbettersubsection_better/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/ucqd0q/wednesday_daily_thread_beginner_questions/)
-- [Python Tips And Tricks — Using Built-In Database](https://www.reddit.com/r/Python/comments/ucnftn/python_tips_and_tricks_using_builtin_database/)
 <!-- BLOG-POST-LIST:END -->
