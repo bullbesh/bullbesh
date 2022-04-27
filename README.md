@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Version Control your Django Project](https://www.reddit.com/r/Python/comments/ud4xau/how_to_version_control_your_django_project/)
 - [How ASCII video are made](https://www.reddit.com/r/Python/comments/ud4oj6/how_ascii_video_are_made/)
 - [GitHub - dflook/python-minifier: Transform Python source code into it&#39;s most compact representation](https://www.reddit.com/r/Python/comments/ud2xcd/github_dflookpythonminifier_transform_python/)
 - [How to Make Pass Maps in Python](https://www.reddit.com/r/Python/comments/ud29il/how_to_make_pass_maps_in_python/)
 - [I have written a blog building Neural Network from scratch with Python and trained it on image data.](https://www.reddit.com/r/Python/comments/ud0cqi/i_have_written_a_blog_building_neural_network/)
-- [Python Implementation of Gnome Sort, Child of Insertion sort and Bubble sort](https://www.reddit.com/r/Python/comments/ucyywi/python_implementation_of_gnome_sort_child_of/)
 <!-- BLOG-POST-LIST:END -->
