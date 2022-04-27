@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mypy 0.950 Released](https://www.reddit.com/r/Python/comments/udbbnm/mypy_0950_released/)
+- [Python Inline Source Syntax Highlighting Using Type Annotations](https://www.reddit.com/r/Python/comments/udaqbu/python_inline_source_syntax_highlighting_using/)
 - [Job search automation with Python](https://www.reddit.com/r/Python/comments/uda3lb/job_search_automation_with_python/)
-- [Need your opinion](https://www.reddit.com/r/Python/comments/ud9g4m/need_your_opinion/)
 - [Underscoring &lpar;or dunder-scoring&rpar; the importance of native type methods in Python](https://www.reddit.com/r/Python/comments/ud8sb3/underscoring_or_dunderscoring_the_importance_of/)
 - [How common is poorly organized python code in industry?](https://www.reddit.com/r/Python/comments/ud8cec/how_common_is_poorly_organized_python_code_in/)
-- [Python Is Now Top Programming Language — But Shouldn&#39;t Be](https://www.reddit.com/r/Python/comments/ud7nbo/python_is_now_top_programming_language_but/)
 <!-- BLOG-POST-LIST:END -->
