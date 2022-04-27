@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/ucqd0q/wednesday_daily_thread_beginner_questions/)
+- [Hugging Face Gradio Python UI and CSV Processing](https://www.reddit.com/r/Python/comments/ucpvzg/hugging_face_gradio_python_ui_and_csv_processing/)
 - [Python Tips And Tricks — Using Built-In Database](https://www.reddit.com/r/Python/comments/ucnftn/python_tips_and_tricks_using_builtin_database/)
 - [AutoTwitchDrops. A minimalist bot that gets Twitch drops for you written in pure Python.](https://www.reddit.com/r/Python/comments/ucl9mz/autotwitchdrops_a_minimalist_bot_that_gets_twitch/)
 - [FastAPI with SQLModel, Alembic and Authentication. Full course](https://www.reddit.com/r/Python/comments/uck9s7/fastapi_with_sqlmodel_alembic_and_authentication/)
-- [Mocha - A simple open-source Continuous Profiling tool for Python!](https://www.reddit.com/r/Python/comments/uci6jw/mocha_a_simple_opensource_continuous_profiling/)
-- [Recover deleted/overwritten files with RecoverPy 1.5.0](https://www.reddit.com/r/Python/comments/ucfids/recover_deletedoverwritten_files_with_recoverpy/)
 <!-- BLOG-POST-LIST:END -->
