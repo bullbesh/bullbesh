@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - dflook/python-minifier: Transform Python source code into it&#39;s most compact representation](https://www.reddit.com/r/Python/comments/ud2xcd/github_dflookpythonminifier_transform_python/)
 - [How to Make Pass Maps in Python](https://www.reddit.com/r/Python/comments/ud29il/how_to_make_pass_maps_in_python/)
 - [I have written a blog building Neural Network from scratch with Python and trained it on image data.](https://www.reddit.com/r/Python/comments/ud0cqi/i_have_written_a_blog_building_neural_network/)
 - [Python Implementation of Gnome Sort, Child of Insertion sort and Bubble sort](https://www.reddit.com/r/Python/comments/ucyywi/python_implementation_of_gnome_sort_child_of/)
 - [Switch to Python Development from DBA](https://www.reddit.com/r/Python/comments/ucykyo/switch_to_python_development_from_dba/)
-- [Good ways to send and recieve REST request objects when ID of object is only sometimes sent or received?](https://www.reddit.com/r/Python/comments/ucx5qc/good_ways_to_send_and_recieve_rest_request/)
 <!-- BLOG-POST-LIST:END -->
