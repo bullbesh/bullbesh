@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I would like to increase my python kills.](https://www.reddit.com/r/Python/comments/udujsc/i_would_like_to_increase_my_python_kills/)
 - [Riemann sums animations with Python](https://www.reddit.com/r/Python/comments/udt7f3/riemann_sums_animations_with_python/)
 - [Announcement: Embed Interactive Jupyter Notebooks in Static Websites &lpar;Jekyll&rpar; for Free](https://www.reddit.com/r/Python/comments/udt0qs/announcement_embed_interactive_jupyter_notebooks/)
 - [How to Edit a bunch of json ?](https://www.reddit.com/r/Python/comments/udrusf/how_to_edit_a_bunch_of_json/)
 - [Hatch 1.0.0 - Modern, extensible Python project management](https://www.reddit.com/r/Python/comments/udpzri/hatch_100_modern_extensible_python_project/)
-- [2013 &#39;Lost connection to MySQK server during server during query&#39;](https://www.reddit.com/r/Python/comments/udpd99/2013_lost_connection_to_mysqk_server_during/)
 <!-- BLOG-POST-LIST:END -->
