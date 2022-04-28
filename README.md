@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Let the computer test your Python GUI application](https://www.reddit.com/r/Python/comments/udyqv0/let_the_computer_test_your_python_gui_application/)
+- [Beginner Problem](https://www.reddit.com/r/Python/comments/udyhcq/beginner_problem/)
+- [Did you know you can pull and analyze almost 1M time series economic indicators directly in python using the FRED api and pandas?](https://www.reddit.com/r/Python/comments/udydh5/did_you_know_you_can_pull_and_analyze_almost_1m/)
+- [Can i call myself a junior? What to do next?](https://www.reddit.com/r/Python/comments/udxxrj/can_i_call_myself_a_junior_what_to_do_next/)
 - [When Python can’t thread: a deep-dive into the GIL’s impact](https://www.reddit.com/r/Python/comments/udwq9a/when_python_cant_thread_a_deepdive_into_the_gils/)
-- [Book Club: Kubeflow for machine learning with Holden Karau &amp; Adi Polak](https://www.reddit.com/r/Python/comments/udvp7y/book_club_kubeflow_for_machine_learning_with/)
-- [Project sigstore &lpar;free software signing service&rpar; just released a library to sign and verify python packages](https://www.reddit.com/r/Python/comments/udvn1q/project_sigstore_free_software_signing_service/)
-- [I would like to increase my python kills.](https://www.reddit.com/r/Python/comments/udujsc/i_would_like_to_increase_my_python_kills/)
-- [Riemann sums animations with Python](https://www.reddit.com/r/Python/comments/udt7f3/riemann_sums_animations_with_python/)
 <!-- BLOG-POST-LIST:END -->
