@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Edit a bunch of json ?](https://www.reddit.com/r/Python/comments/udrusf/how_to_edit_a_bunch_of_json/)
 - [Hatch 1.0.0 - Modern, extensible Python project management](https://www.reddit.com/r/Python/comments/udpzri/hatch_100_modern_extensible_python_project/)
 - [2013 &#39;Lost connection to MySQK server during server during query&#39;](https://www.reddit.com/r/Python/comments/udpd99/2013_lost_connection_to_mysqk_server_during/)
 - [Is it possible on Python?](https://www.reddit.com/r/Python/comments/udp9w8/is_it_possible_on_python/)
 - [The SymPy/HackerRank DMCA Incident](https://www.reddit.com/r/Python/comments/udp1d8/the_sympyhackerrank_dmca_incident/)
-- [HTML Processing Tools in Python [Documentation - made easy to read]](https://www.reddit.com/r/Python/comments/udomcp/html_processing_tools_in_python_documentation/)
 <!-- BLOG-POST-LIST:END -->
