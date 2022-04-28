@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube api?](https://www.reddit.com/r/Python/comments/ue5r7u/youtube_api/)
+- [On 4/20 I started &#39;100 Days of Python: Beginner to Pro&#39; to learn my first coding language. Here is my day 8 Project. Thoughts?](https://www.reddit.com/r/Python/comments/ue5qz8/on_420_i_started_100_days_of_python_beginner_to/)
+- [The *TRUTH* on How To Become a ML Engineer in 2022](https://www.reddit.com/r/Python/comments/ue5pts/the_truth_on_how_to_become_a_ml_engineer_in_2022/)
 - [Teaching myself Python and I am having continuous EUREKA moments](https://www.reddit.com/r/Python/comments/ue46m3/teaching_myself_python_and_i_am_having_continuous/)
 - [I improved my progress bar package!](https://www.reddit.com/r/Python/comments/ue2wzq/i_improved_my_progress_bar_package/)
-- [Jetfuel Dashboard of Polyture&#39;s live production Python!](https://www.reddit.com/r/Python/comments/ue22as/jetfuel_dashboard_of_polytures_live_production/)
-- [A sorting visualizer made in python with the help of DearPyGui](https://www.reddit.com/r/Python/comments/ue1dhe/a_sorting_visualizer_made_in_python_with_the_help/)
-- [Do the pythons have names?](https://www.reddit.com/r/Python/comments/ue18y6/do_the_pythons_have_names/)
 <!-- BLOG-POST-LIST:END -->
