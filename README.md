@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Teaching myself Python and I am having continuous EUREKA moments](https://www.reddit.com/r/Python/comments/ue46m3/teaching_myself_python_and_i_am_having_continuous/)
+- [I improved my progress bar package!](https://www.reddit.com/r/Python/comments/ue2wzq/i_improved_my_progress_bar_package/)
 - [Jetfuel Dashboard of Polyture&#39;s live production Python!](https://www.reddit.com/r/Python/comments/ue22as/jetfuel_dashboard_of_polytures_live_production/)
 - [A sorting visualizer made in python with the help of DearPyGui](https://www.reddit.com/r/Python/comments/ue1dhe/a_sorting_visualizer_made_in_python_with_the_help/)
 - [Do the pythons have names?](https://www.reddit.com/r/Python/comments/ue18y6/do_the_pythons_have_names/)
-- [Demo a python app in a web browser](https://www.reddit.com/r/Python/comments/udzqyt/demo_a_python_app_in_a_web_browser/)
-- [Build a Comment Toxicity Model with Deep Learning and Python](https://www.reddit.com/r/Python/comments/udzgw0/build_a_comment_toxicity_model_with_deep_learning/)
 <!-- BLOG-POST-LIST:END -->
