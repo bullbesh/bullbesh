@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Book Club: Kubeflow for machine learning with Holden Karau &amp; Adi Polak](https://www.reddit.com/r/Python/comments/udvp7y/book_club_kubeflow_for_machine_learning_with/)
+- [Project sigstore &lpar;free software signing service&rpar; just released a library to sign and verify python packages](https://www.reddit.com/r/Python/comments/udvn1q/project_sigstore_free_software_signing_service/)
 - [I would like to increase my python kills.](https://www.reddit.com/r/Python/comments/udujsc/i_would_like_to_increase_my_python_kills/)
 - [Riemann sums animations with Python](https://www.reddit.com/r/Python/comments/udt7f3/riemann_sums_animations_with_python/)
 - [Announcement: Embed Interactive Jupyter Notebooks in Static Websites &lpar;Jekyll&rpar; for Free](https://www.reddit.com/r/Python/comments/udt0qs/announcement_embed_interactive_jupyter_notebooks/)
-- [How to Edit a bunch of json ?](https://www.reddit.com/r/Python/comments/udrusf/how_to_edit_a_bunch_of_json/)
-- [Hatch 1.0.0 - Modern, extensible Python project management](https://www.reddit.com/r/Python/comments/udpzri/hatch_100_modern_extensible_python_project/)
 <!-- BLOG-POST-LIST:END -->
