@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it possible on Python?](https://www.reddit.com/r/Python/comments/udp9w8/is_it_possible_on_python/)
+- [The SymPy/HackerRank DMCA Incident](https://www.reddit.com/r/Python/comments/udp1d8/the_sympyhackerrank_dmca_incident/)
 - [HTML Processing Tools in Python [Documentation - made easy to read]](https://www.reddit.com/r/Python/comments/udomcp/html_processing_tools_in_python_documentation/)
 - [Web Automation With Selenium And Python &lpar;making a court reservation bot&rpar;](https://www.reddit.com/r/Python/comments/udoa0e/web_automation_with_selenium_and_python_making_a/)
 - [A tool to seed your dev database with real data](https://www.reddit.com/r/Python/comments/udnnag/a_tool_to_seed_your_dev_database_with_real_data/)
-- [I made an ASCII jumpscare for anyone who wants to use it](https://www.reddit.com/r/Python/comments/udk3yw/i_made_an_ascii_jumpscare_for_anyone_who_wants_to/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/udhlpf/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
