@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [`Gibbs`, helps you scale your ML workers asynchronously across processes and machines](https://www.reddit.com/r/Python/comments/uepimw/gibbs_helps_you_scale_your_ml_workers/)
+- [A simple music sequencer written in Python &lpar;with explanation&rpar;](https://www.reddit.com/r/Python/comments/uepab4/a_simple_music_sequencer_written_in_python_with/)
+- [2 Caveats to Avoid When Using Python Assert Statement](https://www.reddit.com/r/Python/comments/ueowro/2_caveats_to_avoid_when_using_python_assert/)
 - [Easy Infinite scrolling backgrounds in Python games using the PyGame Module](https://www.reddit.com/r/Python/comments/ueo7r2/easy_infinite_scrolling_backgrounds_in_python/)
-- [aop: Aspect oriented programming for Python. Patch everything!](https://www.reddit.com/r/Python/comments/uenv37/aop_aspect_oriented_programming_for_python_patch/)
 - [PyCon US 2022 Has begun!](https://www.reddit.com/r/Python/comments/uenus5/pycon_us_2022_has_begun/)
-- [Python projects with personal data?](https://www.reddit.com/r/Python/comments/uemzbz/python_projects_with_personal_data/)
-- [🤯 Python library for making beautiful form-like apps](https://www.reddit.com/r/Python/comments/uemtbx/python_library_for_making_beautiful_formlike_apps/)
 <!-- BLOG-POST-LIST:END -->
