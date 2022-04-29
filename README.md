@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [🤯 Python library for making beautiful form-like apps](https://www.reddit.com/r/Python/comments/uemtbx/python_library_for_making_beautiful_formlike_apps/)
+- [Measuring the Ramadan experience using Python code](https://www.reddit.com/r/Python/comments/uemsa8/measuring_the_ramadan_experience_using_python_code/)
 - [HELP!](https://www.reddit.com/r/Python/comments/ueltws/help/)
 - [Why was the GIL imposed on the Python interpreter in the first place?](https://www.reddit.com/r/Python/comments/uel8f3/why_was_the_gil_imposed_on_the_python_interpreter/)
 - [Game Engine Based on pygame](https://www.reddit.com/r/Python/comments/uekzxm/game_engine_based_on_pygame/)
-- [You Should Compile Your Python And Here&#39;s Why](https://www.reddit.com/r/Python/comments/uek3st/you_should_compile_your_python_and_heres_why/)
-- [How to Get the Most Out of PyCon US – Real Python](https://www.reddit.com/r/Python/comments/uek3h2/how_to_get_the_most_out_of_pycon_us_real_python/)
 <!-- BLOG-POST-LIST:END -->
