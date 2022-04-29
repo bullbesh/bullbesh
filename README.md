@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Game Engine Based on pygame](https://www.reddit.com/r/Python/comments/uekzxm/game_engine_based_on_pygame/)
+- [You Should Compile Your Python And Here&#39;s Why](https://www.reddit.com/r/Python/comments/uek3st/you_should_compile_your_python_and_heres_why/)
+- [How to Get the Most Out of PyCon US – Real Python](https://www.reddit.com/r/Python/comments/uek3h2/how_to_get_the_most_out_of_pycon_us_real_python/)
+- [Bash find syntax for semantic search](https://www.reddit.com/r/Python/comments/uejxj6/bash_find_syntax_for_semantic_search/)
 - [Python/database hosting recommendations](https://www.reddit.com/r/Python/comments/uejd97/pythondatabase_hosting_recommendations/)
-- [Compress images with Python and PIL | python project for beginners](https://www.reddit.com/r/Python/comments/uejcoz/compress_images_with_python_and_pil_python/)
-- [Why my python &lpar;Spyder&rpar; got stuck &lpar;i.e. did not return result&rpar; when I was trying to run the code of retrieving stock data from yahoo finance](https://www.reddit.com/r/Python/comments/ueil4g/why_my_python_spyder_got_stuck_ie_did_not_return/)
-- [Comparing Python HTTP libraries - Request for Recommendations](https://www.reddit.com/r/Python/comments/uehu09/comparing_python_http_libraries_request_for/)
-- [[Script] Scrape Google Scholar Papers within a particular conference in Python](https://www.reddit.com/r/Python/comments/ueguqb/script_scrape_google_scholar_papers_within_a/)
 <!-- BLOG-POST-LIST:END -->
