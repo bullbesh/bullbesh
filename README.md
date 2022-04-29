@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python package to help with feature engineering in machine learning for data during the covid-19 pandemic!](https://www.reddit.com/r/Python/comments/uex4iu/python_package_to_help_with_feature_engineering/)
+- [Copy venv from one folder to another and still be able to use it](https://www.reddit.com/r/Python/comments/uewfd4/copy_venv_from_one_folder_to_another_and_still_be/)
+- [Python Code Sample to Process Cryptocurrency Payments via XLM](https://www.reddit.com/r/Python/comments/uevx8r/python_code_sample_to_process_cryptocurrency/)
 - [I used Python to control my Tello Drone using vosk -- the offline speech recognition library. Enjoy!](https://www.reddit.com/r/Python/comments/uevtbm/i_used_python_to_control_my_tello_drone_using/)
 - [Which projects do you think have fantastic documentation?](https://www.reddit.com/r/Python/comments/uevfc9/which_projects_do_you_think_have_fantastic/)
-- [If I want to call myself a true Python developer, I need to learn C and C++. Agree or disagree?](https://www.reddit.com/r/Python/comments/uev9me/if_i_want_to_call_myself_a_true_python_developer/)
-- [Code to make lights go on/off](https://www.reddit.com/r/Python/comments/ueu975/code_to_make_lights_go_onoff/)
-- [[D] tkinter builder](https://www.reddit.com/r/Python/comments/ueso0n/d_tkinter_builder/)
 <!-- BLOG-POST-LIST:END -->
