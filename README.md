@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [future of python in next 20 years? shall I stick to learning it or not?](https://www.reddit.com/r/Python/comments/ueqvx9/future_of_python_in_next_20_years_shall_i_stick/)
 - [`Gibbs`, helps you scale your ML workers asynchronously across processes and machines](https://www.reddit.com/r/Python/comments/uepimw/gibbs_helps_you_scale_your_ml_workers/)
 - [A simple music sequencer written in Python &lpar;with explanation&rpar;](https://www.reddit.com/r/Python/comments/uepab4/a_simple_music_sequencer_written_in_python_with/)
 - [2 Caveats to Avoid When Using Python Assert Statement](https://www.reddit.com/r/Python/comments/ueowro/2_caveats_to_avoid_when_using_python_assert/)
 - [Easy Infinite scrolling backgrounds in Python games using the PyGame Module](https://www.reddit.com/r/Python/comments/ueo7r2/easy_infinite_scrolling_backgrounds_in_python/)
-- [PyCon US 2022 Has begun!](https://www.reddit.com/r/Python/comments/uenus5/pycon_us_2022_has_begun/)
 <!-- BLOG-POST-LIST:END -->
