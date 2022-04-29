@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I used Python to control my Tello Drone using vosk -- the offline speech recognition library. Enjoy!](https://www.reddit.com/r/Python/comments/uevtbm/i_used_python_to_control_my_tello_drone_using/)
+- [Which projects do you think have fantastic documentation?](https://www.reddit.com/r/Python/comments/uevfc9/which_projects_do_you_think_have_fantastic/)
+- [If I want to call myself a true Python developer, I need to learn C and C++. Agree or disagree?](https://www.reddit.com/r/Python/comments/uev9me/if_i_want_to_call_myself_a_true_python_developer/)
 - [Code to make lights go on/off](https://www.reddit.com/r/Python/comments/ueu975/code_to_make_lights_go_onoff/)
 - [[D] tkinter builder](https://www.reddit.com/r/Python/comments/ueso0n/d_tkinter_builder/)
-- [Hey guys, I just coded an auctions website: Auctionaire. You can add a listing, and bid/comment on others. Give it a try and have fun!!](https://www.reddit.com/r/Python/comments/uesn0y/hey_guys_i_just_coded_an_auctions_website/)
-- [Cardano blockchain in Python](https://www.reddit.com/r/Python/comments/uertx0/cardano_blockchain_in_python/)
-- [future of python in next 20 years? shall I stick to learning it or not?](https://www.reddit.com/r/Python/comments/ueqvx9/future_of_python_in_next_20_years_shall_i_stick/)
 <!-- BLOG-POST-LIST:END -->
