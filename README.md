@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easy Infinite scrolling backgrounds in Python games using the PyGame Module](https://www.reddit.com/r/Python/comments/ueo7r2/easy_infinite_scrolling_backgrounds_in_python/)
+- [aop: Aspect oriented programming for Python. Patch everything!](https://www.reddit.com/r/Python/comments/uenv37/aop_aspect_oriented_programming_for_python_patch/)
+- [PyCon US 2022 Has begun!](https://www.reddit.com/r/Python/comments/uenus5/pycon_us_2022_has_begun/)
+- [Python projects with personal data?](https://www.reddit.com/r/Python/comments/uemzbz/python_projects_with_personal_data/)
 - [🤯 Python library for making beautiful form-like apps](https://www.reddit.com/r/Python/comments/uemtbx/python_library_for_making_beautiful_formlike_apps/)
-- [Measuring the Ramadan experience using Python code](https://www.reddit.com/r/Python/comments/uemsa8/measuring_the_ramadan_experience_using_python_code/)
-- [HELP!](https://www.reddit.com/r/Python/comments/ueltws/help/)
-- [Why was the GIL imposed on the Python interpreter in the first place?](https://www.reddit.com/r/Python/comments/uel8f3/why_was_the_gil_imposed_on_the_python_interpreter/)
-- [Game Engine Based on pygame](https://www.reddit.com/r/Python/comments/uekzxm/game_engine_based_on_pygame/)
 <!-- BLOG-POST-LIST:END -->
