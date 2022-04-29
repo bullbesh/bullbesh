@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HELP!](https://www.reddit.com/r/Python/comments/ueltws/help/)
+- [Why was the GIL imposed on the Python interpreter in the first place?](https://www.reddit.com/r/Python/comments/uel8f3/why_was_the_gil_imposed_on_the_python_interpreter/)
 - [Game Engine Based on pygame](https://www.reddit.com/r/Python/comments/uekzxm/game_engine_based_on_pygame/)
 - [You Should Compile Your Python And Here&#39;s Why](https://www.reddit.com/r/Python/comments/uek3st/you_should_compile_your_python_and_heres_why/)
 - [How to Get the Most Out of PyCon US – Real Python](https://www.reddit.com/r/Python/comments/uek3h2/how_to_get_the_most_out_of_pycon_us_real_python/)
-- [Bash find syntax for semantic search](https://www.reddit.com/r/Python/comments/uejxj6/bash_find_syntax_for_semantic_search/)
-- [Python/database hosting recommendations](https://www.reddit.com/r/Python/comments/uejd97/pythondatabase_hosting_recommendations/)
 <!-- BLOG-POST-LIST:END -->
