@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Comparing Python HTTP libraries - Request for Recommendations](https://www.reddit.com/r/Python/comments/uehu09/comparing_python_http_libraries_request_for/)
 - [[Script] Scrape Google Scholar Papers within a particular conference in Python](https://www.reddit.com/r/Python/comments/ueguqb/script_scrape_google_scholar_papers_within_a/)
 - [The output shows &quot;Unable to create process using &quot;on the new pycharm but still dosent work when everything is installed](https://www.reddit.com/r/Python/comments/uegmdu/the_output_shows_unable_to_create_process_using/)
 - [Loops and excel](https://www.reddit.com/r/Python/comments/uegf28/loops_and_excel/)
 - [open-source python library for making a GUI that runs in the browser or inside a jupyter notebook &lpar;focus is for machine learning models but can work for other python apps as well&rpar;, package is available on PyPI](https://www.reddit.com/r/Python/comments/uedrkh/opensource_python_library_for_making_a_gui_that/)
-- [I need help with my code](https://www.reddit.com/r/Python/comments/uedkjv/i_need_help_with_my_code/)
 <!-- BLOG-POST-LIST:END -->
