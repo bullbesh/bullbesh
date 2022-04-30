@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Minecraft Hypervisor](https://www.reddit.com/r/Python/comments/uf2g4q/minecraft_hypervisor/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/ueyz7b/saturday_daily_thread_resource_request_and/)
 - [What&#39;s the point of config files in another format?](https://www.reddit.com/r/Python/comments/ueyk19/whats_the_point_of_config_files_in_another_format/)
 - [PyQt5 designer](https://www.reddit.com/r/Python/comments/uexovn/pyqt5_designer/)
 - [Single Neuron Machine Learning Algorithm, Created from Scratch in Python](https://www.reddit.com/r/Python/comments/uexlw8/single_neuron_machine_learning_algorithm_created/)
-- [Python package to help with feature engineering in machine learning for data during the covid-19 pandemic!](https://www.reddit.com/r/Python/comments/uex4iu/python_package_to_help_with_feature_engineering/)
 <!-- BLOG-POST-LIST:END -->
