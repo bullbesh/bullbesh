@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mech Engineer New to Python](https://www.reddit.com/r/Python/comments/ufk8og/mech_engineer_new_to_python/)
+- [Hi everyone I&#39;m new at coding and I&#39;m stuck on topic &quot;True and False&quot; the thing i don&#39;t understand is when I do like for example................................ bool_one = 2 &lt; 3 = True , when I write like this it says that i&#39;m making something wrong please help me..](https://www.reddit.com/r/Python/comments/ufjmta/hi_everyone_im_new_at_coding_and_im_stuck_on/)
 - [Has anyone found any cool Python merchandise/paraphernalia?](https://www.reddit.com/r/Python/comments/ufi3s9/has_anyone_found_any_cool_python/)
 - [Just created my first pytest plugin: Pyshot!](https://www.reddit.com/r/Python/comments/ufhzso/just_created_my_first_pytest_plugin_pyshot/)
 - [Google Maps &amp; Street View in the console &lpar;Linux CLI / Windows CMD / ...&rpar;](https://www.reddit.com/r/Python/comments/ufhtm6/google_maps_street_view_in_the_console_linux_cli/)
-- [Run Python in Your HTML](https://www.reddit.com/r/Python/comments/ufht2l/run_python_in_your_html/)
-- [Learn Apache Kafka with Python and Docker](https://www.reddit.com/r/Python/comments/ufgkwv/learn_apache_kafka_with_python_and_docker/)
 <!-- BLOG-POST-LIST:END -->
