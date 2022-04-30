@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pylint&#39;s shortcomings for a beginner developer](https://www.reddit.com/r/Python/comments/ufbzna/pylints_shortcomings_for_a_beginner_developer/)
+- [Why Programmers Code At Night?](https://www.reddit.com/r/Python/comments/ufbr89/why_programmers_code_at_night/)
+- [My Utility to greatly simplify writing scripts](https://www.reddit.com/r/Python/comments/ufbn9t/my_utility_to_greatly_simplify_writing_scripts/)
+- [Python Compiler - Smart python autocomplete &amp; instant compiler](https://www.reddit.com/r/Python/comments/ufb85t/python_compiler_smart_python_autocomplete_instant/)
 - [br4nch 2.0 - RELEASED!](https://www.reddit.com/r/Python/comments/uf9fmq/br4nch_20_released/)
-- [Call for Contributors - Photos.network](https://www.reddit.com/r/Python/comments/uf9a5n/call_for_contributors_photosnetwork/)
-- [Solar eclipse • Solar eclipse of April 30, 2022 • 2022 • Lunar eclipse. - newskfm](https://www.reddit.com/r/Python/comments/uf8hyd/solar_eclipse_solar_eclipse_of_april_30_2022_2022/)
-- [Rich, Textual, and Rich-CLI have a new website](https://www.reddit.com/r/Python/comments/uf88s6/rich_textual_and_richcli_have_a_new_website/)
-- [Code optimization](https://www.reddit.com/r/Python/comments/uf8470/code_optimization/)
 <!-- BLOG-POST-LIST:END -->
