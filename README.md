@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Has anyone found any cool Python merchandise/paraphernalia?](https://www.reddit.com/r/Python/comments/ufi3s9/has_anyone_found_any_cool_python/)
+- [Just created my first pytest plugin: Pyshot!](https://www.reddit.com/r/Python/comments/ufhzso/just_created_my_first_pytest_plugin_pyshot/)
 - [Google Maps &amp; Street View in the console &lpar;Linux CLI / Windows CMD / ...&rpar;](https://www.reddit.com/r/Python/comments/ufhtm6/google_maps_street_view_in_the_console_linux_cli/)
 - [Run Python in Your HTML](https://www.reddit.com/r/Python/comments/ufht2l/run_python_in_your_html/)
 - [Learn Apache Kafka with Python and Docker](https://www.reddit.com/r/Python/comments/ufgkwv/learn_apache_kafka_with_python_and_docker/)
-- [Make Internet Speed Meter in Python | Python Projects](https://www.reddit.com/r/Python/comments/ufezdi/make_internet_speed_meter_in_python_python/)
-- [Why Is It Important to Close Files in Python? – Real Python](https://www.reddit.com/r/Python/comments/ufdi4w/why_is_it_important_to_close_files_in_python_real/)
 <!-- BLOG-POST-LIST:END -->
