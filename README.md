@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bloomberg Open-Sources Memray: A Memory Profiler That Can Track Memory Allocations In Python Code In Native Extension Modules And Python Interpreter](https://www.reddit.com/r/Python/comments/ufsyhf/bloomberg_opensources_memray_a_memory_profiler/)
+- [Made a fun little strategy game inspired by old DOS game &quot;Drug Wars&quot;, with pyqt. Available as a python package, but I also made a windows binary via pyinstaller.](https://www.reddit.com/r/Python/comments/ufsxo6/made_a_fun_little_strategy_game_inspired_by_old/)
 - [Screenshot to Telegram Channel](https://www.reddit.com/r/Python/comments/ufs6l1/screenshot_to_telegram_channel/)
 - [Bioinformatics and Computational Biology Tutorials &lpar;With Python&rpar;](https://www.reddit.com/r/Python/comments/ufroei/bioinformatics_and_computational_biology/)
 - [How To Monitor Open Source Trends With The OpenBB Terminal!](https://www.reddit.com/r/Python/comments/ufrlwg/how_to_monitor_open_source_trends_with_the_openbb/)
-- [Looking for &quot;different&quot; resources to learn Python](https://www.reddit.com/r/Python/comments/ufq809/looking_for_different_resources_to_learn_python/)
-- [PyNotify: An asyncio interface to the Linux inotify API](https://www.reddit.com/r/Python/comments/ufq3rx/pynotify_an_asyncio_interface_to_the_linux/)
 <!-- BLOG-POST-LIST:END -->
