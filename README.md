@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Screenshot to Telegram Channel](https://www.reddit.com/r/Python/comments/ufs6l1/screenshot_to_telegram_channel/)
+- [Bioinformatics and Computational Biology Tutorials &lpar;With Python&rpar;](https://www.reddit.com/r/Python/comments/ufroei/bioinformatics_and_computational_biology/)
+- [How To Monitor Open Source Trends With The OpenBB Terminal!](https://www.reddit.com/r/Python/comments/ufrlwg/how_to_monitor_open_source_trends_with_the_openbb/)
 - [Looking for &quot;different&quot; resources to learn Python](https://www.reddit.com/r/Python/comments/ufq809/looking_for_different_resources_to_learn_python/)
 - [PyNotify: An asyncio interface to the Linux inotify API](https://www.reddit.com/r/Python/comments/ufq3rx/pynotify_an_asyncio_interface_to_the_linux/)
-- [For senior devs | Event-driven microservices architectured e-commerce app created using Express, Typescript, Nats-Streaming and Next.js](https://www.reddit.com/r/Python/comments/ufo6rn/for_senior_devs_eventdriven_microservices/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/ufnesj/sunday_daily_thread_whats_everyone_working_on/)
-- [what do you guys think of my cacluator](https://www.reddit.com/r/Python/comments/ufne7d/what_do_you_guys_think_of_my_cacluator/)
 <!-- BLOG-POST-LIST:END -->
