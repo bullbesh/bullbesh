@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Give me some tips please on how to apply Python](https://www.reddit.com/r/Python/comments/ug9b94/give_me_some_tips_please_on_how_to_apply_python/)
+- [Just finished a college Python course. Now what?](https://www.reddit.com/r/Python/comments/ug98jn/just_finished_a_college_python_course_now_what/)
+- [I made a reddit bot that would find out the first post of a subreddit / user](https://www.reddit.com/r/Python/comments/ug8xie/i_made_a_reddit_bot_that_would_find_out_the_first/)
+- [I made a Twitter Bot that lets you play Wordle!](https://www.reddit.com/r/Python/comments/ug8mwt/i_made_a_twitter_bot_that_lets_you_play_wordle/)
 - [With the recent announcement of PyScript, come join r/PyScript](https://www.reddit.com/r/Python/comments/ug7m59/with_the_recent_announcement_of_pyscript_come/)
-- [Intel® has a toolkit for Python](https://www.reddit.com/r/Python/comments/ug6n6m/intel_has_a_toolkit_for_python/)
-- [Simple guide to create a discord bot with sample code](https://www.reddit.com/r/Python/comments/ug67q0/simple_guide_to_create_a_discord_bot_with_sample/)
-- [Space Science with Python - ML Part #14: The Henze-Zirkler Test](https://www.reddit.com/r/Python/comments/ug64sk/space_science_with_python_ml_part_14_the/)
-- [Explain it like I&#39;m a 2nd grader: what are Numpy, Pandas, Scikit-learn, etc.?](https://www.reddit.com/r/Python/comments/ug493o/explain_it_like_im_a_2nd_grader_what_are_numpy/)
 <!-- BLOG-POST-LIST:END -->
