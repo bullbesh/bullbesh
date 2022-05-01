@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Intel® has a toolkit for Python](https://www.reddit.com/r/Python/comments/ug6n6m/intel_has_a_toolkit_for_python/)
+- [Simple guide to create a discord bot with sample code](https://www.reddit.com/r/Python/comments/ug67q0/simple_guide_to_create_a_discord_bot_with_sample/)
+- [Space Science with Python - ML Part #14: The Henze-Zirkler Test](https://www.reddit.com/r/Python/comments/ug64sk/space_science_with_python_ml_part_14_the/)
 - [Explain it like I&#39;m a 2nd grader: what are Numpy, Pandas, Scikit-learn, etc.?](https://www.reddit.com/r/Python/comments/ug493o/explain_it_like_im_a_2nd_grader_what_are_numpy/)
 - [I made a League Of Legends interface inspector with Tkinter and RiotWatcher](https://www.reddit.com/r/Python/comments/ug3tc5/i_made_a_league_of_legends_interface_inspector/)
-- [Amazon Product Information Scraper](https://www.reddit.com/r/Python/comments/ug3ov5/amazon_product_information_scraper/)
-- [Python in HTML - New project by Anaconda &lpar;with all the details from the launch 🚀 &rpar;](https://www.reddit.com/r/Python/comments/ug1pf6/python_in_html_new_project_by_anaconda_with_all/)
-- [YTClip: the easiest way to clip videos from YouTube, Rumble, Bitchute etc...](https://www.reddit.com/r/Python/comments/ug1nhw/ytclip_the_easiest_way_to_clip_videos_from/)
 <!-- BLOG-POST-LIST:END -->
