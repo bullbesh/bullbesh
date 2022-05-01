@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hide sensitive information in PDF using Python and NLP](https://www.reddit.com/r/Python/comments/ufxsuc/hide_sensitive_information_in_pdf_using_python/)
 - [I killed the turtle &lpar;code in comments&rpar;](https://www.reddit.com/r/Python/comments/ufvc3s/i_killed_the_turtle_code_in_comments/)
 - [What are your personal coding standards?](https://www.reddit.com/r/Python/comments/uftyy2/what_are_your_personal_coding_standards/)
 - [Bloomberg Open-Sources Memray: A Memory Profiler That Can Track Memory Allocations In Python Code In Native Extension Modules And Python Interpreter](https://www.reddit.com/r/Python/comments/ufsyhf/bloomberg_opensources_memray_a_memory_profiler/)
 - [Made a fun little strategy game inspired by old DOS game &quot;Drug Wars&quot;, with pyqt. Available as a python package, but I also made a windows binary via pyinstaller.](https://www.reddit.com/r/Python/comments/ufsxo6/made_a_fun_little_strategy_game_inspired_by_old/)
-- [Screenshot to Telegram Channel](https://www.reddit.com/r/Python/comments/ufs6l1/screenshot_to_telegram_channel/)
 <!-- BLOG-POST-LIST:END -->
