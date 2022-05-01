@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Apache Airflow 2.3.0 is out !](https://www.reddit.com/r/Python/comments/ug0k8p/apache_airflow_230_is_out/)
-- [From Swift Import Python](https://www.reddit.com/r/Python/comments/ug08j8/from_swift_import_python/)
-- [Python development-training in Noida, Delhi, Ghaziabad, Gurugram - JavaTpoint](https://www.reddit.com/r/Python/comments/ufzbg6/python_developmenttraining_in_noida_delhi/)
-- [Hide sensitive information in PDF using Python and NLP](https://www.reddit.com/r/Python/comments/ufxsuc/hide_sensitive_information_in_pdf_using_python/)
-- [I killed the turtle &lpar;code in comments&rpar;](https://www.reddit.com/r/Python/comments/ufvc3s/i_killed_the_turtle_code_in_comments/)
+- [Python in HTML - New project by Anaconda &lpar;with all the details from the launch 🚀 &rpar;](https://www.reddit.com/r/Python/comments/ug1pf6/python_in_html_new_project_by_anaconda_with_all/)
+- [YTClip: the easiest way to clip videos from YouTube, Rumble, Bitchute etc...](https://www.reddit.com/r/Python/comments/ug1nhw/ytclip_the_easiest_way_to_clip_videos_from/)
+- [Pyjpgclipboard: programmatically copy and paste jpgs across Mac/Windows system clipboards](https://www.reddit.com/r/Python/comments/ug1jku/pyjpgclipboard_programmatically_copy_and_paste/)
+- [An ode to fixing bugs](https://www.reddit.com/r/Python/comments/ug1fjk/an_ode_to_fixing_bugs/)
+- [Introduction to Named Entity Recognition with Spacy](https://www.reddit.com/r/Python/comments/ug1fg7/introduction_to_named_entity_recognition_with/)
 <!-- BLOG-POST-LIST:END -->
