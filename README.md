@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache Airflow 2.3.0 is out !](https://www.reddit.com/r/Python/comments/ug0k8p/apache_airflow_230_is_out/)
+- [From Swift Import Python](https://www.reddit.com/r/Python/comments/ug08j8/from_swift_import_python/)
 - [Python development-training in Noida, Delhi, Ghaziabad, Gurugram - JavaTpoint](https://www.reddit.com/r/Python/comments/ufzbg6/python_developmenttraining_in_noida_delhi/)
 - [Hide sensitive information in PDF using Python and NLP](https://www.reddit.com/r/Python/comments/ufxsuc/hide_sensitive_information_in_pdf_using_python/)
 - [I killed the turtle &lpar;code in comments&rpar;](https://www.reddit.com/r/Python/comments/ufvc3s/i_killed_the_turtle_code_in_comments/)
-- [What are your personal coding standards?](https://www.reddit.com/r/Python/comments/uftyy2/what_are_your_personal_coding_standards/)
-- [Bloomberg Open-Sources Memray: A Memory Profiler That Can Track Memory Allocations In Python Code In Native Extension Modules And Python Interpreter](https://www.reddit.com/r/Python/comments/ufsyhf/bloomberg_opensources_memray_a_memory_profiler/)
 <!-- BLOG-POST-LIST:END -->
