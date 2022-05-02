@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SteamAutoFriend - Automatically add friends systematically](https://www.reddit.com/r/Python/comments/ugw099/steamautofriend_automatically_add_friends/)
+- [listract python librabry](https://www.reddit.com/r/Python/comments/ugvlp8/listract_python_librabry/)
 - [Graphics / GUI Libs](https://www.reddit.com/r/Python/comments/ugszdc/graphics_gui_libs/)
 - [Out-of-core processing with Vaex: how does it compare with pandas?](https://www.reddit.com/r/Python/comments/ugsokr/outofcore_processing_with_vaex_how_does_it/)
 - [We use Python to develop a hardware product following microservices methodologies.](https://www.reddit.com/r/Python/comments/ugsn57/we_use_python_to_develop_a_hardware_product/)
-- [How do you use SQLAlchemy in a multithreaded set up](https://www.reddit.com/r/Python/comments/ugsgjb/how_do_you_use_sqlalchemy_in_a_multithreaded_set/)
-- [I just wrote a before/after image slider widget for JupyterLab, and here it is!](https://www.reddit.com/r/Python/comments/ugrn15/i_just_wrote_a_beforeafter_image_slider_widget/)
 <!-- BLOG-POST-LIST:END -->
