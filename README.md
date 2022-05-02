@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [pythondocs.xyz - live search for Python documentation](https://www.reddit.com/r/Python/comments/ugz3r0/pythondocsxyz_live_search_for_python_documentation/)
+- [PyQt5 widgets](https://www.reddit.com/r/Python/comments/ugz2ee/pyqt5_widgets/)
 - [Pants 2.11 adds Pex lockfiles for Python, parametrization of targets, and Go Protobuf codegen](https://www.reddit.com/r/Python/comments/ugyk1j/pants_211_adds_pex_lockfiles_for_python/)
 - [Build a JSON file following a defined structure](https://www.reddit.com/r/Python/comments/ugyeaj/build_a_json_file_following_a_defined_structure/)
 - [Easist and most stable way to run selenium driver for production applications.](https://www.reddit.com/r/Python/comments/ugws98/easist_and_most_stable_way_to_run_selenium_driver/)
-- [SteamAutoFriend - Automatically add friends systematically](https://www.reddit.com/r/Python/comments/ugw099/steamautofriend_automatically_add_friends/)
-- [listract python librabry](https://www.reddit.com/r/Python/comments/ugvlp8/listract_python_librabry/)
 <!-- BLOG-POST-LIST:END -->
