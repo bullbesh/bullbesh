@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Inheritance, Interfaces, Protocols and static type analysis in Python confusion](https://www.reddit.com/r/Python/comments/ugn2r7/inheritance_interfaces_protocols_and_static_type/)
 - [[Script] Scraping Google Scholar publications from a certain website](https://www.reddit.com/r/Python/comments/ugmavf/script_scraping_google_scholar_publications_from/)
 - [7 Useful List Comprehensions You Didn’t Think Of](https://www.reddit.com/r/Python/comments/ugluub/7_useful_list_comprehensions_you_didnt_think_of/)
 - [Discord Python - How to Create a Discord Bot](https://www.reddit.com/r/Python/comments/uglpzi/discord_python_how_to_create_a_discord_bot/)
-- [the living grimoire is now available in python as well](https://www.reddit.com/r/Python/comments/ugldhd/the_living_grimoire_is_now_available_in_python_as/)
 - [Anaconda | New from Anaconda: Python in the Browser](https://www.reddit.com/r/Python/comments/ugl19x/anaconda_new_from_anaconda_python_in_the_browser/)
 <!-- BLOG-POST-LIST:END -->
