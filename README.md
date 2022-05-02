@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [BairesDev Senior BackEnd Tournament](https://www.reddit.com/r/Python/comments/ugqq2u/bairesdev_senior_backend_tournament/)
+- [Easy way to make your Python programs games in executables with PyInstaller](https://www.reddit.com/r/Python/comments/ugqlhj/easy_way_to_make_your_python_programs_games_in/)
 - [Contribute to my project Ndnt](https://www.reddit.com/r/Python/comments/ugoz4e/contribute_to_my_project_ndnt/)
 - [Trying to learn Python and I need your input to know if it is worth it in my situation](https://www.reddit.com/r/Python/comments/ugob9h/trying_to_learn_python_and_i_need_your_input_to/)
 - [Python Dictionaries Tutorial With Excercises](https://www.reddit.com/r/Python/comments/ugo3tn/python_dictionaries_tutorial_with_excercises/)
-- [Inheritance, Interfaces, Protocols and static type analysis in Python confusion](https://www.reddit.com/r/Python/comments/ugn2r7/inheritance_interfaces_protocols_and_static_type/)
-- [[Script] Scraping Google Scholar publications from a certain website](https://www.reddit.com/r/Python/comments/ugmavf/script_scraping_google_scholar_publications_from/)
 <!-- BLOG-POST-LIST:END -->
