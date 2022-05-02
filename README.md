@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easist and most stable way to run selenium driver for production applications.](https://www.reddit.com/r/Python/comments/ugws98/easist_and_most_stable_way_to_run_selenium_driver/)
 - [SteamAutoFriend - Automatically add friends systematically](https://www.reddit.com/r/Python/comments/ugw099/steamautofriend_automatically_add_friends/)
 - [listract python librabry](https://www.reddit.com/r/Python/comments/ugvlp8/listract_python_librabry/)
-- [Graphics / GUI Libs](https://www.reddit.com/r/Python/comments/ugszdc/graphics_gui_libs/)
 - [Out-of-core processing with Vaex: how does it compare with pandas?](https://www.reddit.com/r/Python/comments/ugsokr/outofcore_processing_with_vaex_how_does_it/)
 - [We use Python to develop a hardware product following microservices methodologies.](https://www.reddit.com/r/Python/comments/ugsn57/we_use_python_to_develop_a_hardware_product/)
 <!-- BLOG-POST-LIST:END -->
