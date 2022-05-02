@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just wrote a before/after image slider widget for JupyterLab, and here it is!](https://www.reddit.com/r/Python/comments/ugrn15/i_just_wrote_a_beforeafter_image_slider_widget/)
+- [Learn how to detect shiny objects using OpenCV and Python.](https://www.reddit.com/r/Python/comments/ugrmsg/learn_how_to_detect_shiny_objects_using_opencv/)
+- [Github Actions— Everything You Need to Know to Get Started](https://www.reddit.com/r/Python/comments/ugrg69/github_actions_everything_you_need_to_know_to_get/)
+- [Python script to application?](https://www.reddit.com/r/Python/comments/ugrc4q/python_script_to_application/)
 - [BairesDev Senior BackEnd Tournament](https://www.reddit.com/r/Python/comments/ugqq2u/bairesdev_senior_backend_tournament/)
-- [Easy way to make your Python programs games in executables with PyInstaller](https://www.reddit.com/r/Python/comments/ugqlhj/easy_way_to_make_your_python_programs_games_in/)
-- [Contribute to my project Ndnt](https://www.reddit.com/r/Python/comments/ugoz4e/contribute_to_my_project_ndnt/)
-- [Trying to learn Python and I need your input to know if it is worth it in my situation](https://www.reddit.com/r/Python/comments/ugob9h/trying_to_learn_python_and_i_need_your_input_to/)
-- [Python Dictionaries Tutorial With Excercises](https://www.reddit.com/r/Python/comments/ugo3tn/python_dictionaries_tutorial_with_excercises/)
 <!-- BLOG-POST-LIST:END -->
