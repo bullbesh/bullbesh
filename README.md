@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is pcep, pcap, pcpp worth it knowledge wise?](https://www.reddit.com/r/Python/comments/uhgizg/is_pcep_pcap_pcpp_worth_it_knowledge_wise/)
 - [How to sync an ESP32&#39;s clock using MicroPython](https://www.reddit.com/r/Python/comments/uhg0jw/how_to_sync_an_esp32s_clock_using_micropython/)
 - [What&#39;s the difference between pyscript &amp; template engines like Jinja2 that existed a long time ago? Why&#39;s all the hype about it while it doesn&#39;t provide tangible new value for something that already existed?](https://www.reddit.com/r/Python/comments/uhbby4/whats_the_difference_between_pyscript_template/)
 - [3d level editor for games / visualizations](https://www.reddit.com/r/Python/comments/uh9035/3d_level_editor_for_games_visualizations/)
 - [4 New Type Annotation Features in Python 3.11](https://www.reddit.com/r/Python/comments/uh8jxg/4_new_type_annotation_features_in_python_311/)
-- [Are there any useless features in python ?](https://www.reddit.com/r/Python/comments/uh8c54/are_there_any_useless_features_in_python/)
 <!-- BLOG-POST-LIST:END -->
