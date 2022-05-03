@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [On 4/20 I started &#39;100 Days of Python: Beginner to Pro&#39; to learn my first coding language. Here is my day 11 Project: Blackjack](https://www.reddit.com/r/Python/comments/uhrmr4/on_420_i_started_100_days_of_python_beginner_to/)
+- [Learn Apache Kafka with Python and docker](https://www.reddit.com/r/Python/comments/uhqdbv/learn_apache_kafka_with_python_and_docker/)
 - [Forecast 1M time-series in 30 minutes. Nixtla + ray + numba = 🤩 🚀 ⚡](https://www.reddit.com/r/Python/comments/uhppcu/forecast_1m_timeseries_in_30_minutes_nixtla_ray/)
 - [Should a 44 year old dev take the time to learn Python while off work](https://www.reddit.com/r/Python/comments/uhnmdn/should_a_44_year_old_dev_take_the_time_to_learn/)
 - [Create audio-visualization videos using this PyQt app](https://www.reddit.com/r/Python/comments/uhmpvd/create_audiovisualization_videos_using_this_pyqt/)
-- [Meet ‘PyScript’: New Framework From Anaconda That Allows Users To Create Rich Python Applications In The Browser Using HTML’s Interface](https://www.reddit.com/r/Python/comments/uhm1oe/meet_pyscript_new_framework_from_anaconda_that/)
-- [EPSN: Extraction of Sports Particulars as Network](https://www.reddit.com/r/Python/comments/uhlrcf/epsn_extraction_of_sports_particulars_as_network/)
 <!-- BLOG-POST-LIST:END -->
