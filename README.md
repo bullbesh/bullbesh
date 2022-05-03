@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a bot to automatically bet on Twitch streamer predictions](https://www.reddit.com/r/Python/comments/uh4rtu/i_created_a_bot_to_automatically_bet_on_twitch/)
+- [Python packages *mdsanima-dev* for add emoi and colors in terminal output](https://www.reddit.com/r/Python/comments/uh41lx/python_packages_mdsanimadev_for_add_emoi_and/)
+- [Coinbase order book analysis with python streaming library Bytewax](https://www.reddit.com/r/Python/comments/uh3dal/coinbase_order_book_analysis_with_python/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/uh3b0g/tuesday_daily_thread_advanced_questions/)
 - [Would a Python OS be technically possible?](https://www.reddit.com/r/Python/comments/uh19r7/would_a_python_os_be_technically_possible/)
-- [Clean Python Setup - Pyenv and Poetry for every new project &lpar;blog&rpar;](https://www.reddit.com/r/Python/comments/uh0vuh/clean_python_setup_pyenv_and_poetry_for_every_new/)
-- [Real Time Color ASCII Rendering in Python using NumPy Vectorization](https://www.reddit.com/r/Python/comments/uh0vol/real_time_color_ascii_rendering_in_python_using/)
-- [pythondocs.xyz - live search for Python documentation](https://www.reddit.com/r/Python/comments/ugz3r0/pythondocsxyz_live_search_for_python_documentation/)
-- [PyQt5 widgets](https://www.reddit.com/r/Python/comments/ugz2ee/pyqt5_widgets/)
 <!-- BLOG-POST-LIST:END -->
