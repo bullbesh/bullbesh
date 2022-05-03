@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [4 New Type Annotation Features in Python 3.11](https://www.reddit.com/r/Python/comments/uh8jxg/4_new_type_annotation_features_in_python_311/)
+- [Are there any useless features in python ?](https://www.reddit.com/r/Python/comments/uh8c54/are_there_any_useless_features_in_python/)
 - [Raycaster With PyGame](https://www.reddit.com/r/Python/comments/uh7kj7/raycaster_with_pygame/)
 - [Fasty, a boilerplate and a stack that scales! &lpar;async api with CPU bound operations&rpar;](https://www.reddit.com/r/Python/comments/uh7k1y/fasty_a_boilerplate_and_a_stack_that_scales_async/)
 - [I created a bot to automatically bet on Twitch streamer predictions](https://www.reddit.com/r/Python/comments/uh4rtu/i_created_a_bot_to_automatically_bet_on_twitch/)
-- [Python packages *mdsanima-dev* for add emoi and colors in terminal output](https://www.reddit.com/r/Python/comments/uh41lx/python_packages_mdsanimadev_for_add_emoi_and/)
-- [Coinbase order book analysis with python streaming library Bytewax](https://www.reddit.com/r/Python/comments/uh3dal/coinbase_order_book_analysis_with_python/)
 <!-- BLOG-POST-LIST:END -->
