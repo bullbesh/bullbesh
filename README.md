@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rotate your license keys with Python and the NerdGraph API](https://www.reddit.com/r/Python/comments/uhkjnx/rotate_your_license_keys_with_python_and_the/)
+- [When I ask my friend &lpar;new to Python&rpar; to create a nested loop](https://www.reddit.com/r/Python/comments/uhkfvo/when_i_ask_my_friend_new_to_python_to_create_a/)
 - [Interactive Python environment on a spatial canvas](https://www.reddit.com/r/Python/comments/uhiztt/interactive_python_environment_on_a_spatial_canvas/)
 - [Is there a syntax highlighting library?](https://www.reddit.com/r/Python/comments/uhit7h/is_there_a_syntax_highlighting_library/)
 - [Interactive matplotlib plot for polynomial regression](https://www.reddit.com/r/Python/comments/uhimsr/interactive_matplotlib_plot_for_polynomial/)
-- [Simple Flask and AJAX demo for beginners](https://www.reddit.com/r/Python/comments/uhih8x/simple_flask_and_ajax_demo_for_beginners/)
-- [Observability is becoming a part of the devtool stack - what you need to know to add it to yours](https://www.reddit.com/r/Python/comments/uhhtsp/observability_is_becoming_a_part_of_the_devtool/)
 <!-- BLOG-POST-LIST:END -->
