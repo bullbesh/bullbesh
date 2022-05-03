@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet ‘PyScript’: New Framework From Anaconda That Allows Users To Create Rich Python Applications In The Browser Using HTML’s Interface](https://www.reddit.com/r/Python/comments/uhm1oe/meet_pyscript_new_framework_from_anaconda_that/)
+- [EPSN: Extraction of Sports Particulars as Network](https://www.reddit.com/r/Python/comments/uhlrcf/epsn_extraction_of_sports_particulars_as_network/)
 - [Rotate your license keys with Python and the NerdGraph API](https://www.reddit.com/r/Python/comments/uhkjnx/rotate_your_license_keys_with_python_and_the/)
 - [When I ask my friend &lpar;new to Python&rpar; to create a nested loop](https://www.reddit.com/r/Python/comments/uhkfvo/when_i_ask_my_friend_new_to_python_to_create_a/)
 - [Interactive Python environment on a spatial canvas](https://www.reddit.com/r/Python/comments/uhiztt/interactive_python_environment_on_a_spatial_canvas/)
-- [Is there a syntax highlighting library?](https://www.reddit.com/r/Python/comments/uhit7h/is_there_a_syntax_highlighting_library/)
-- [Interactive matplotlib plot for polynomial regression](https://www.reddit.com/r/Python/comments/uhimsr/interactive_matplotlib_plot_for_polynomial/)
 <!-- BLOG-POST-LIST:END -->
