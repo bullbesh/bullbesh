@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Do we really need Hex map for Incoming sockets?](https://www.reddit.com/r/Python/comments/ui36h5/do_we_really_need_hex_map_for_incoming_sockets/)
+- [Anaconda brings out PyScript: Python in your browser](https://www.reddit.com/r/Python/comments/ui4w8s/anaconda_brings_out_pyscript_python_in_your/)
+- [problem with loop](https://www.reddit.com/r/Python/comments/ui4txu/problem_with_loop/)
+- [Now you can develop your own authentication system from scratch](https://www.reddit.com/r/Python/comments/ui4azu/now_you_can_develop_your_own_authentication/)
 - [&quot;No Dependency&quot; Console Color Printing library with full support for RGB Colors and predefined 140 HTML named colors](https://www.reddit.com/r/Python/comments/ui2x8d/no_dependency_console_color_printing_library_with/)
 - [Jupyter Notebook Competition - Data science &amp; Coding](https://www.reddit.com/r/Python/comments/ui29j0/jupyter_notebook_competition_data_science_coding/)
-- [Programming sidehustle](https://www.reddit.com/r/Python/comments/ui1jnc/programming_sidehustle/)
-- [Python tool to generate wrapper client around 3rd party API using Swagger documentation?](https://www.reddit.com/r/Python/comments/ui1c5w/python_tool_to_generate_wrapper_client_around_3rd/)
 <!-- BLOG-POST-LIST:END -->
