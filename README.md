@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello I am making an Instagram bot with selenium how do I add proxies??](https://www.reddit.com/r/Python/comments/ui6eai/hello_i_am_making_an_instagram_bot_with_selenium/)
+- [Free Course - Python for Business Analysis and Excel](https://www.reddit.com/r/Python/comments/ui60b3/free_course_python_for_business_analysis_and_excel/)
 - [Anaconda brings out PyScript: Python in your browser](https://www.reddit.com/r/Python/comments/ui4w8s/anaconda_brings_out_pyscript_python_in_your/)
-- [problem with loop](https://www.reddit.com/r/Python/comments/ui4txu/problem_with_loop/)
 - [Now you can develop your own authentication system from scratch](https://www.reddit.com/r/Python/comments/ui4azu/now_you_can_develop_your_own_authentication/)
 - [&quot;No Dependency&quot; Console Color Printing library with full support for RGB Colors and predefined 140 HTML named colors](https://www.reddit.com/r/Python/comments/ui2x8d/no_dependency_console_color_printing_library_with/)
-- [Jupyter Notebook Competition - Data science &amp; Coding](https://www.reddit.com/r/Python/comments/ui29j0/jupyter_notebook_competition_data_science_coding/)
 <!-- BLOG-POST-LIST:END -->
