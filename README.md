@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jupyter Notebook Competition - Data science &amp; Coding](https://www.reddit.com/r/Python/comments/ui29j0/jupyter_notebook_competition_data_science_coding/)
 - [Programming sidehustle](https://www.reddit.com/r/Python/comments/ui1jnc/programming_sidehustle/)
 - [Python tool to generate wrapper client around 3rd party API using Swagger documentation?](https://www.reddit.com/r/Python/comments/ui1c5w/python_tool_to_generate_wrapper_client_around_3rd/)
 - [PEP 690 – Lazy Imports](https://www.reddit.com/r/Python/comments/ui0yg0/pep_690_lazy_imports/)
 - [GitHub - Goldziher/pydantic-factories: Pydantic based mock data generation](https://www.reddit.com/r/Python/comments/ui0jsg/github_goldziherpydanticfactories_pydantic_based/)
-- [Wrap a python function into a web interface](https://www.reddit.com/r/Python/comments/uhzyck/wrap_a_python_function_into_a_web_interface/)
 <!-- BLOG-POST-LIST:END -->
