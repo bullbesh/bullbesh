@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Programming sidehustle](https://www.reddit.com/r/Python/comments/ui1jnc/programming_sidehustle/)
+- [Python tool to generate wrapper client around 3rd party API using Swagger documentation?](https://www.reddit.com/r/Python/comments/ui1c5w/python_tool_to_generate_wrapper_client_around_3rd/)
 - [PEP 690 – Lazy Imports](https://www.reddit.com/r/Python/comments/ui0yg0/pep_690_lazy_imports/)
 - [GitHub - Goldziher/pydantic-factories: Pydantic based mock data generation](https://www.reddit.com/r/Python/comments/ui0jsg/github_goldziherpydanticfactories_pydantic_based/)
 - [Wrap a python function into a web interface](https://www.reddit.com/r/Python/comments/uhzyck/wrap_a_python_function_into_a_web_interface/)
-- [Andrew Ng&#39;s Machine Learning Course will be re-released in PYTHON this summer! &lpar;finally!&rpar;](https://www.reddit.com/r/Python/comments/uhzg3u/andrew_ngs_machine_learning_course_will_be/)
-- [Packing python projects into a single executable](https://www.reddit.com/r/Python/comments/uhwagx/packing_python_projects_into_a_single_executable/)
 <!-- BLOG-POST-LIST:END -->
