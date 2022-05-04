@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [QualityScaler 1.4.0 - image/video upscaling - enhancement Windows app](https://www.reddit.com/r/Python/comments/uibv2i/qualityscaler_140_imagevideo_upscaling/)
+- [rashell, a relational algebra shell](https://www.reddit.com/r/Python/comments/uibb6i/rashell_a_relational_algebra_shell/)
 - [Hypothesis Ghostwriter: writing tests for you, in Python, your terminal, or your browser](https://www.reddit.com/r/Python/comments/uiadrn/hypothesis_ghostwriter_writing_tests_for_you_in/)
 - [Publish Your Own Package To PyPI](https://www.reddit.com/r/Python/comments/uia4kn/publish_your_own_package_to_pypi/)
 - [I created a reddit bot that lets you find first ever post, posted on a subreddit or by a user.](https://www.reddit.com/r/Python/comments/ui9rlx/i_created_a_reddit_bot_that_lets_you_find_first/)
-- [What is your recommended Side or Book for learning python?](https://www.reddit.com/r/Python/comments/ui9jbw/what_is_your_recommended_side_or_book_for/)
-- [[Image-RGB] to [CSV/TXT] : For those studying Machine Learning](https://www.reddit.com/r/Python/comments/ui9cbb/imagergb_to_csvtxt_for_those_studying_machine/)
 <!-- BLOG-POST-LIST:END -->
