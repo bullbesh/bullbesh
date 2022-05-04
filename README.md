@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m having trouble interpreting this](https://www.reddit.com/r/Python/comments/uhvip9/im_having_trouble_interpreting_this/)
+- [Help scraping data](https://www.reddit.com/r/Python/comments/uhwjn2/help_scraping_data/)
+- [Packing python projects into a single executable](https://www.reddit.com/r/Python/comments/uhwagx/packing_python_projects_into_a_single_executable/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/uhtmvt/wednesday_daily_thread_beginner_questions/)
 - [On 4/20 I started &#39;100 Days of Python: Beginner to Pro&#39; to learn my first coding language. Here is my day 11 Project: Blackjack](https://www.reddit.com/r/Python/comments/uhrmr4/on_420_i_started_100_days_of_python_beginner_to/)
 - [Learn Apache Kafka with Python and docker](https://www.reddit.com/r/Python/comments/uhqdbv/learn_apache_kafka_with_python_and_docker/)
-- [Forecast 1M time-series in 30 minutes. Nixtla + ray + numba = 🤩 🚀 ⚡](https://www.reddit.com/r/Python/comments/uhppcu/forecast_1m_timeseries_in_30_minutes_nixtla_ray/)
 <!-- BLOG-POST-LIST:END -->
