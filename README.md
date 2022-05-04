@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [demo your machine learning model in python as a web app](https://www.reddit.com/r/Python/comments/ui898x/demo_your_machine_learning_model_in_python_as_a/)
+- [Kafka Docker image together with Kafka toolset](https://www.reddit.com/r/Python/comments/ui7uv1/kafka_docker_image_together_with_kafka_toolset/)
 - [Python Book Bundle by Apress](https://www.reddit.com/r/Python/comments/ui79rx/python_book_bundle_by_apress/)
 - [Hello I am making an Instagram bot with selenium how do I add proxies??](https://www.reddit.com/r/Python/comments/ui6eai/hello_i_am_making_an_instagram_bot_with_selenium/)
 - [Free Course - Python for Business Analysis and Excel](https://www.reddit.com/r/Python/comments/ui60b3/free_course_python_for_business_analysis_and_excel/)
-- [Anaconda brings out PyScript: Python in your browser](https://www.reddit.com/r/Python/comments/ui4w8s/anaconda_brings_out_pyscript_python_in_your/)
-- [Now you can develop your own authentication system from scratch](https://www.reddit.com/r/Python/comments/ui4azu/now_you_can_develop_your_own_authentication/)
 <!-- BLOG-POST-LIST:END -->
