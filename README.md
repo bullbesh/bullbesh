@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I scraped 5,789 comments with Selenium, then fed the comments into Textblob on Replit to do a sentiment analysis of how people online feel about the ongoing Depp/Heard defamation](https://www.reddit.com/r/Python/comments/uijed1/i_scraped_5789_comments_with_selenium_then_fed/)
+- [do you find normal that it takes 15-20 minutes to build a package?](https://www.reddit.com/r/Python/comments/uiixhw/do_you_find_normal_that_it_takes_1520_minutes_to/)
 - [How to Create a Django Cookiecutter from Scratch](https://www.reddit.com/r/Python/comments/uihjyn/how_to_create_a_django_cookiecutter_from_scratch/)
 - [Datasette Lite: a server-side Python web application running in a browser](https://www.reddit.com/r/Python/comments/uiga01/datasette_lite_a_serverside_python_web/)
 - [Best way to keep a large project&#39;s dependencies/libraries up to date?](https://www.reddit.com/r/Python/comments/uifkjc/best_way_to_keep_a_large_projects/)
-- [Streaming live video feed on a website with a MJPEG server](https://www.reddit.com/r/Python/comments/uier73/streaming_live_video_feed_on_a_website_with_a/)
-- [Vector search for finding best question-answer pair in FAQ](https://www.reddit.com/r/Python/comments/uicbb0/vector_search_for_finding_best_questionanswer/)
 <!-- BLOG-POST-LIST:END -->
