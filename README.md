@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [demo your machine learning model in python as a web app](https://www.reddit.com/r/Python/comments/ui898x/demo_your_machine_learning_model_in_python_as_a/)
-- [Kafka Docker image together with Kafka toolset](https://www.reddit.com/r/Python/comments/ui7uv1/kafka_docker_image_together_with_kafka_toolset/)
-- [Python Book Bundle by Apress](https://www.reddit.com/r/Python/comments/ui79rx/python_book_bundle_by_apress/)
-- [Hello I am making an Instagram bot with selenium how do I add proxies??](https://www.reddit.com/r/Python/comments/ui6eai/hello_i_am_making_an_instagram_bot_with_selenium/)
-- [Free Course - Python for Business Analysis and Excel](https://www.reddit.com/r/Python/comments/ui60b3/free_course_python_for_business_analysis_and_excel/)
+- [Hypothesis Ghostwriter: writing tests for you, in Python, your terminal, or your browser](https://www.reddit.com/r/Python/comments/uiadrn/hypothesis_ghostwriter_writing_tests_for_you_in/)
+- [Publish Your Own Package To PyPI](https://www.reddit.com/r/Python/comments/uia4kn/publish_your_own_package_to_pypi/)
+- [I created a reddit bot that lets you find first ever post, posted on a subreddit or by a user.](https://www.reddit.com/r/Python/comments/ui9rlx/i_created_a_reddit_bot_that_lets_you_find_first/)
+- [What is your recommended Side or Book for learning python?](https://www.reddit.com/r/Python/comments/ui9jbw/what_is_your_recommended_side_or_book_for/)
+- [[Image-RGB] to [CSV/TXT] : For those studying Machine Learning](https://www.reddit.com/r/Python/comments/ui9cbb/imagergb_to_csvtxt_for_those_studying_machine/)
 <!-- BLOG-POST-LIST:END -->
