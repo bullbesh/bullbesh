@@ -12,5 +12,5 @@
 - [Convert an image to colorful ASCII art based on ascii character density in Python + Web Demo with Gradio](https://www.reddit.com/r/Python/comments/uik9oe/convert_an_image_to_colorful_ascii_art_based_on/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/uik8hx/thursday_daily_thread_python_careers_courses_and/)
 - [I scraped 5,789 comments with Selenium, then fed the comments into Textblob on Replit to do a sentiment analysis of how people online feel about the ongoing Depp/Heard defamation](https://www.reddit.com/r/Python/comments/uijed1/i_scraped_5789_comments_with_selenium_then_fed/)
-- [do you find normal that it takes 15-20 minutes to build a package?](https://www.reddit.com/r/Python/comments/uiixhw/do_you_find_normal_that_it_takes_1520_minutes_to/)
+- [How to Create a Django Cookiecutter from Scratch](https://www.reddit.com/r/Python/comments/uihjyn/how_to_create_a_django_cookiecutter_from_scratch/)
 <!-- BLOG-POST-LIST:END -->
