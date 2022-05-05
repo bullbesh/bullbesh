@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Codex/GPT-3 coding ability](https://www.reddit.com/r/Python/comments/uj8wfq/openai_codexgpt3_coding_ability/)
+- [This is Complete NLTK With Python In Under 6 Minutes!](https://www.reddit.com/r/Python/comments/uj7yvw/this_is_complete_nltk_with_python_in_under_6/)
+- [Python side project that got me hooked](https://www.reddit.com/r/Python/comments/uj7na3/python_side_project_that_got_me_hooked/)
 - [Corrupted Hard Drive? Python to the Rescue!](https://www.reddit.com/r/Python/comments/uj6g1y/corrupted_hard_drive_python_to_the_rescue/)
 - [Is my approach right? what am I missing?](https://www.reddit.com/r/Python/comments/uj6apf/is_my_approach_right_what_am_i_missing/)
-- [[matplotlib] Integral approximation using Riemann sum](https://www.reddit.com/r/Python/comments/uj5pvp/matplotlib_integral_approximation_using_riemann/)
-- [Introduction to Linear Programming in Python](https://www.reddit.com/r/Python/comments/uj2ncs/introduction_to_linear_programming_in_python/)
-- [what language did you use prior to python?](https://www.reddit.com/r/Python/comments/uizt2z/what_language_did_you_use_prior_to_python/)
 <!-- BLOG-POST-LIST:END -->
