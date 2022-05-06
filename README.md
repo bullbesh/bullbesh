@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Tested PyScript — And You Can Literally Write Python Scripts In Your Browser](https://www.reddit.com/r/Python/comments/ujicyq/i_tested_pyscript_and_you_can_literally_write/)
+- [What is the best book about learning python?](https://www.reddit.com/r/Python/comments/uji2dq/what_is_the_best_book_about_learning_python/)
+- [Free Open Source YT Scrapper - BS4 &amp; Requests](https://www.reddit.com/r/Python/comments/uji11s/free_open_source_yt_scrapper_bs4_requests/)
 - [HARFANG® 3.2.1 is out! 3D Gamedev &amp; Visualization engine for Python Windows &amp; Linux](https://www.reddit.com/r/Python/comments/ujhf3x/harfang_321_is_out_3d_gamedev_visualization/)
 - [OpenAI Codex/GPT-3 coding ability](https://www.reddit.com/r/Python/comments/uj8wfq/openai_codexgpt3_coding_ability/)
-- [This is Complete NLTK With Python In Under 6 Minutes!](https://www.reddit.com/r/Python/comments/uj7yvw/this_is_complete_nltk_with_python_in_under_6/)
-- [Python side project that got me hooked](https://www.reddit.com/r/Python/comments/uj7na3/python_side_project_that_got_me_hooked/)
-- [Corrupted Hard Drive? Python to the Rescue!](https://www.reddit.com/r/Python/comments/uj6g1y/corrupted_hard_drive_python_to_the_rescue/)
 <!-- BLOG-POST-LIST:END -->
