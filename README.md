@@ -8,8 +8,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scripting With Shodan API](https://www.reddit.com/r/Python/comments/ujql5a/scripting_with_shodan_api/)
 - [python-syslog-logstash: Python Logger + RSysLog + Logstash. Demo over docker containers.](https://www.reddit.com/r/Python/comments/ujpft4/pythonsysloglogstash_python_logger_rsyslog/)
-- [Python is one of the most popular languages in Open-Source Static Site Generators development](https://www.reddit.com/r/Python/comments/ujp21d/python_is_one_of_the_most_popular_languages_in/)
 - [Flask vs FastAPI?](https://www.reddit.com/r/Python/comments/ujoggf/flask_vs_fastapi/)
 - [I made a sentiment analysis tutorial with python, NLTK, and 🤗 transformers. Feedback welcome!](https://www.reddit.com/r/Python/comments/ujn5kf/i_made_a_sentiment_analysis_tutorial_with_python/)
 - [Utility to compare Excel files](https://www.reddit.com/r/Python/comments/ujm4p6/utility_to_compare_excel_files/)
