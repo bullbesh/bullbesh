@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HARFANG® 3.2.1 is out! 3D Gamedev &amp; Visualization engine for Python Windows &amp; Linux](https://www.reddit.com/r/Python/comments/ujhf3x/harfang_321_is_out_3d_gamedev_visualization/)
 - [OpenAI Codex/GPT-3 coding ability](https://www.reddit.com/r/Python/comments/uj8wfq/openai_codexgpt3_coding_ability/)
 - [This is Complete NLTK With Python In Under 6 Minutes!](https://www.reddit.com/r/Python/comments/uj7yvw/this_is_complete_nltk_with_python_in_under_6/)
 - [Python side project that got me hooked](https://www.reddit.com/r/Python/comments/uj7na3/python_side_project_that_got_me_hooked/)
 - [Corrupted Hard Drive? Python to the Rescue!](https://www.reddit.com/r/Python/comments/uj6g1y/corrupted_hard_drive_python_to_the_rescue/)
-- [[matplotlib] Integral approximation using Riemann sum](https://www.reddit.com/r/Python/comments/uj5pvp/matplotlib_integral_approximation_using_riemann/)
 <!-- BLOG-POST-LIST:END -->
