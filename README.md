@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a sentiment analysis tutorial with python, NLTK, and 🤗 transformers. Feedback welcome!](https://www.reddit.com/r/Python/comments/ujn5kf/i_made_a_sentiment_analysis_tutorial_with_python/)
 - [Utility to compare Excel files](https://www.reddit.com/r/Python/comments/ujm4p6/utility_to_compare_excel_files/)
 - [[Script] ResearchGate all institution members](https://www.reddit.com/r/Python/comments/ujljv6/script_researchgate_all_institution_members/)
 - [Python in Visual Studio Code – May 2022 Release](https://www.reddit.com/r/Python/comments/ujl7bz/python_in_visual_studio_code_may_2022_release/)
-- [Pyscript.net](https://www.reddit.com/r/Python/comments/ujkpj8/pyscriptnet/)
-- [I Blew My Interview Because of This Python Interview Question 😔🐍](https://www.reddit.com/r/Python/comments/ujkl6t/i_blew_my_interview_because_of_this_python/)
+- [300+ Free Programming Books &lpar;Open Source, 20+ Languages Covered, Listed According To The Publishing Year/ Last Updated Date, In A Decreasing Order&rpar;](https://www.reddit.com/r/Python/comments/ujizqt/300_free_programming_books_open_source_20/)
 <!-- BLOG-POST-LIST:END -->
