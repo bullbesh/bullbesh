@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pyscript.net](https://www.reddit.com/r/Python/comments/ujkpj8/pyscriptnet/)
+- [I Blew My Interview Because of This Python Interview Question 😔🐍](https://www.reddit.com/r/Python/comments/ujkl6t/i_blew_my_interview_because_of_this_python/)
+- [whatsapp automator](https://www.reddit.com/r/Python/comments/ujkkuy/whatsapp_automator/)
 - [300+ Free Programming Books &lpar;Open Source, 20+ Languages Covered, Listed According To The Publishing Year/ Last Updated Date, In A Decreasing Order&rpar;](https://www.reddit.com/r/Python/comments/ujizqt/300_free_programming_books_open_source_20/)
 - [Computational Physics in python](https://www.reddit.com/r/Python/comments/ujit99/computational_physics_in_python/)
-- [I Tested PyScript — And You Can Literally Write Python Scripts In Your Browser](https://www.reddit.com/r/Python/comments/ujicyq/i_tested_pyscript_and_you_can_literally_write/)
-- [What is the best book about learning python?](https://www.reddit.com/r/Python/comments/uji2dq/what_is_the_best_book_about_learning_python/)
-- [Free Open Source YT Scrapper - BS4 &amp; Requests](https://www.reddit.com/r/Python/comments/uji11s/free_open_source_yt_scrapper_bs4_requests/)
 <!-- BLOG-POST-LIST:END -->
