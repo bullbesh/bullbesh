@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Python App in the Browser for ML models](https://www.reddit.com/r/Python/comments/ujx5rd/deploy_python_app_in_the_browser_for_ml_models/)
+- [What&#39;s your favorite lightweight Python-based EL solution?](https://www.reddit.com/r/Python/comments/uk2n8z/whats_your_favorite_lightweight_pythonbased_el/)
+- [Make money with code](https://www.reddit.com/r/Python/comments/uk2hab/make_money_with_code/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/uk0tyy/saturday_daily_thread_resource_request_and/)
 - [Naive Bayes for Natural Language Processing In Under 3 Minutes](https://www.reddit.com/r/Python/comments/ujwknj/naive_bayes_for_natural_language_processing_in/)
 - [Why doesn&#39;t python lists have a .find&lpar;&rpar; method?](https://www.reddit.com/r/Python/comments/ujwhzy/why_doesnt_python_lists_have_a_find_method/)
-- [BeanKrypt: Bean themed steganography using Flask](https://www.reddit.com/r/Python/comments/ujwg2y/beankrypt_bean_themed_steganography_using_flask/)
-- [Expense Tracker Project](https://www.reddit.com/r/Python/comments/uju7dx/expense_tracker_project/)
 <!-- BLOG-POST-LIST:END -->
