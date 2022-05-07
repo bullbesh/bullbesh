@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which script do you use frequently?](https://www.reddit.com/r/Python/comments/ukls3w/which_script_do_you_use_frequently/)
+- [Space Science with Python - The changing life of a comet](https://www.reddit.com/r/Python/comments/ukll2u/space_science_with_python_the_changing_life_of_a/)
 - [cdb - a educational project to help you teach building a persistent key value store](https://www.reddit.com/r/Python/comments/ukigij/cdb_a_educational_project_to_help_you_teach/)
 - [Easy multithreading with Python&#39;s Tkinter](https://www.reddit.com/r/Python/comments/ukhlpm/easy_multithreading_with_pythons_tkinter/)
 - [Top Python Game Engines – Real Python](https://www.reddit.com/r/Python/comments/ukheqz/top_python_game_engines_real_python/)
-- [Deciphering Uber rating](https://www.reddit.com/r/Python/comments/ukgsfs/deciphering_uber_rating/)
-- [Here is a video how to get started with &lt;pyscript&gt; and run Python on your web browsers](https://www.reddit.com/r/Python/comments/ukfijr/here_is_a_video_how_to_get_started_with_pyscript/)
 <!-- BLOG-POST-LIST:END -->
