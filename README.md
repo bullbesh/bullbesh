@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Peer Review on PyQt](https://www.reddit.com/r/Python/comments/uke0rc/peer_review_on_pyqt/)
 - [Converting Pygame to Javascript](https://www.reddit.com/r/Python/comments/ukd4kk/converting_pygame_to_javascript/)
 - [CaptchaCracker - Deep Learning-based Captcha Recognizer](https://www.reddit.com/r/Python/comments/ukb455/captchacracker_deep_learningbased_captcha/)
 - [Solving the Quadratic Equation - Detailed Explanation Python Code](https://www.reddit.com/r/Python/comments/ukb2vf/solving_the_quadratic_equation_detailed/)
 - [Python in HTML](https://www.reddit.com/r/Python/comments/ukaink/python_in_html/)
-- [Need help](https://www.reddit.com/r/Python/comments/ukacuh/need_help/)
 <!-- BLOG-POST-LIST:END -->
