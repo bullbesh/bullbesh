@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Library for deploying machine learning models, package available on PyPI](https://www.reddit.com/r/Python/comments/uk3jz5/python_library_for_deploying_machine_learning/)
+- [Custom &quot;fuzzy key matching&quot; dict implementation](https://www.reddit.com/r/Python/comments/uk2xau/custom_fuzzy_key_matching_dict_implementation/)
+- [Any advice on technical questions in an interview. It’s been about a solid year since I’ve used python. I used to be great. I understand a good amount of the basics and intermediate. But been a while since I’ve dove into it and practiced….kinda nervous .](https://www.reddit.com/r/Python/comments/uk2x8c/any_advice_on_technical_questions_in_an_interview/)
 - [What&#39;s your favorite lightweight Python-based EL solution?](https://www.reddit.com/r/Python/comments/uk2n8z/whats_your_favorite_lightweight_pythonbased_el/)
 - [Make money with code](https://www.reddit.com/r/Python/comments/uk2hab/make_money_with_code/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/uk0tyy/saturday_daily_thread_resource_request_and/)
-- [Naive Bayes for Natural Language Processing In Under 3 Minutes](https://www.reddit.com/r/Python/comments/ujwknj/naive_bayes_for_natural_language_processing_in/)
-- [Why doesn&#39;t python lists have a .find&lpar;&rpar; method?](https://www.reddit.com/r/Python/comments/ujwhzy/why_doesnt_python_lists_have_a_find_method/)
 <!-- BLOG-POST-LIST:END -->
