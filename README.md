@@ -8,8 +8,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My introduction](https://www.reddit.com/r/Python/comments/uk7v24/my_introduction/)
 - [Humble Bundle Python Books](https://www.reddit.com/r/Python/comments/uk76n2/humble_bundle_python_books/)
-- [Clicking Task](https://www.reddit.com/r/Python/comments/uk6k3v/clicking_task/)
 - [Python logging: is there a best choice?](https://www.reddit.com/r/Python/comments/uk5c49/python_logging_is_there_a_best_choice/)
 - [Custom &quot;fuzzy key matching&quot; dict implementation](https://www.reddit.com/r/Python/comments/uk2xau/custom_fuzzy_key_matching_dict_implementation/)
 - [Any advice on technical questions in an interview. It’s been about a solid year since I’ve used python. I used to be great. I understand a good amount of the basics and intermediate. But been a while since I’ve dove into it and practiced….kinda nervous .](https://www.reddit.com/r/Python/comments/uk2x8c/any_advice_on_technical_questions_in_an_interview/)
