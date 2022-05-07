@@ -8,8 +8,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [mmmmmmmmmmmmmmmmmmmm uh](https://www.reddit.com/r/Python/comments/uk61yw/mmmmmmmmmmmmmmmmmmmm_uh/)
 - [Python logging: is there a best choice?](https://www.reddit.com/r/Python/comments/uk5c49/python_logging_is_there_a_best_choice/)
-- [Python Library for deploying machine learning models, package available on PyPI](https://www.reddit.com/r/Python/comments/uk3jz5/python_library_for_deploying_machine_learning/)
 - [Custom &quot;fuzzy key matching&quot; dict implementation](https://www.reddit.com/r/Python/comments/uk2xau/custom_fuzzy_key_matching_dict_implementation/)
 - [Any advice on technical questions in an interview. It’s been about a solid year since I’ve used python. I used to be great. I understand a good amount of the basics and intermediate. But been a while since I’ve dove into it and practiced….kinda nervous .](https://www.reddit.com/r/Python/comments/uk2x8c/any_advice_on_technical_questions_in_an_interview/)
 - [What&#39;s your favorite lightweight Python-based EL solution?](https://www.reddit.com/r/Python/comments/uk2n8z/whats_your_favorite_lightweight_pythonbased_el/)
