@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Here is a video how to get started with &lt;pyscript&gt; and run Python on your web browsers](https://www.reddit.com/r/Python/comments/ukfijr/here_is_a_video_how_to_get_started_with_pyscript/)
+- [Thoughts on &quot;Starting Your Coding Career with Python is a Bad Idea&quot;?](https://www.reddit.com/r/Python/comments/ukesps/thoughts_on_starting_your_coding_career_with/)
+- [Can you advice me opensource projects](https://www.reddit.com/r/Python/comments/ukehdl/can_you_advice_me_opensource_projects/)
 - [Peer Review on PyQt](https://www.reddit.com/r/Python/comments/uke0rc/peer_review_on_pyqt/)
 - [Converting Pygame to Javascript](https://www.reddit.com/r/Python/comments/ukd4kk/converting_pygame_to_javascript/)
-- [CaptchaCracker - Deep Learning-based Captcha Recognizer](https://www.reddit.com/r/Python/comments/ukb455/captchacracker_deep_learningbased_captcha/)
-- [Solving the Quadratic Equation - Detailed Explanation Python Code](https://www.reddit.com/r/Python/comments/ukb2vf/solving_the_quadratic_equation_detailed/)
-- [Python in HTML](https://www.reddit.com/r/Python/comments/ukaink/python_in_html/)
 <!-- BLOG-POST-LIST:END -->
