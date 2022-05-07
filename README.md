@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easy multithreading with Python&#39;s Tkinter](https://www.reddit.com/r/Python/comments/ukhlpm/easy_multithreading_with_pythons_tkinter/)
+- [Top Python Game Engines – Real Python](https://www.reddit.com/r/Python/comments/ukheqz/top_python_game_engines_real_python/)
 - [Deciphering Uber rating](https://www.reddit.com/r/Python/comments/ukgsfs/deciphering_uber_rating/)
 - [Here is a video how to get started with &lt;pyscript&gt; and run Python on your web browsers](https://www.reddit.com/r/Python/comments/ukfijr/here_is_a_video_how_to_get_started_with_pyscript/)
 - [Thoughts on &quot;Starting Your Coding Career with Python is a Bad Idea&quot;?](https://www.reddit.com/r/Python/comments/ukesps/thoughts_on_starting_your_coding_career_with/)
-- [Can you advice me opensource projects](https://www.reddit.com/r/Python/comments/ukehdl/can_you_advice_me_opensource_projects/)
-- [Peer Review on PyQt](https://www.reddit.com/r/Python/comments/uke0rc/peer_review_on_pyqt/)
 <!-- BLOG-POST-LIST:END -->
