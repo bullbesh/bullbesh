@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Idea for python package for approximation](https://www.reddit.com/r/Python/comments/ulcfrs/idea_for_python_package_for_approximation/)
+- [What is Parts of Speech POS?](https://www.reddit.com/r/Python/comments/ulce8u/what_is_parts_of_speech_pos/)
+- [PyZ - A customizable shell, written in Python, for Python](https://www.reddit.com/r/Python/comments/ulbivr/pyz_a_customizable_shell_written_in_python_for/)
 - [I&#39;m too lazy to turn off my PC at nights. so made an app to turn it off with my phone](https://www.reddit.com/r/Python/comments/ulaj4a/im_too_lazy_to_turn_off_my_pc_at_nights_so_made/)
 - [Pyscript, python like javascript: project by Anaconda team](https://www.reddit.com/r/Python/comments/ul9i86/pyscript_python_like_javascript_project_by/)
-- [I made a Python client generator for Solana Anchor projects &lpar;but I&#39;m here to talk about codegen&rpar;](https://www.reddit.com/r/Python/comments/ul9cma/i_made_a_python_client_generator_for_solana/)
-- [Programmatically creating video clips and animated GIFs in Python](https://www.reddit.com/r/Python/comments/ul7j0m/programmatically_creating_video_clips_and/)
-- [An opensource project with quart framework](https://www.reddit.com/r/Python/comments/ul6aol/an_opensource_project_with_quart_framework/)
 <!-- BLOG-POST-LIST:END -->
