@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Excessive promotion discussion](https://www.reddit.com/r/Python/comments/ukq4z9/excessive_promotion_discussion/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/ukpqov/sunday_daily_thread_whats_everyone_working_on/)
-- [Python library, wrap any function into a web app, package available on PyPI](https://www.reddit.com/r/Python/comments/ukphz6/python_library_wrap_any_function_into_a_web_app/)
 - [br4nch - 2.1 RELEASED! - Added &#39;load.Json&#39; feature. &lpar;Allows you to import a json file and display it as a tree structure.&rpar;](https://www.reddit.com/r/Python/comments/ukmnv7/br4nch_21_released_added_loadjson_feature_allows/)
 - [Which script do you use frequently?](https://www.reddit.com/r/Python/comments/ukls3w/which_script_do_you_use_frequently/)
+- [Space Science with Python - The changing life of a comet](https://www.reddit.com/r/Python/comments/ukll2u/space_science_with_python_the_changing_life_of_a/)
 <!-- BLOG-POST-LIST:END -->
