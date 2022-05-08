@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any project suggestions?](https://www.reddit.com/r/Python/comments/ul15zo/any_project_suggestions/)
 - [Interesting thread describing the challenges of learning Python with a very impatient approach and high expectations of how fast they’ll progress.](https://www.reddit.com/r/Python/comments/uky8sk/interesting_thread_describing_the_challenges_of/)
 - [Stop Hardcoding Sensitive Data in Your Python Applications - use python-dotenv instead!](https://www.reddit.com/r/Python/comments/uky3lg/stop_hardcoding_sensitive_data_in_your_python/)
 - [need some help with installing pipenv](https://www.reddit.com/r/Python/comments/uky2et/need_some_help_with_installing_pipenv/)
 - [Someone Really hates Python.](https://www.reddit.com/r/Python/comments/ukxlju/someone_really_hates_python/)
-- [PyScript gives error when trying to fetch APIs using requests library](https://www.reddit.com/r/Python/comments/ukx4ac/pyscript_gives_error_when_trying_to_fetch_apis/)
 <!-- BLOG-POST-LIST:END -->
