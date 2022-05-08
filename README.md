@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Starting Coding with Python](https://www.reddit.com/r/Python/comments/ul5e61/starting_coding_with_python/)
+- [GitHub - neogeny/TatSu: TatSu generates Python parsers from grammars in a variation of EBNF](https://www.reddit.com/r/Python/comments/ul580a/github_neogenytatsu_tatsu_generates_python/)
+- [One invitation - The first one gets it](https://www.reddit.com/r/Python/comments/ul56cn/one_invitation_the_first_one_gets_it/)
+- [Small webpage for executing local or remote script](https://www.reddit.com/r/Python/comments/ul40cu/small_webpage_for_executing_local_or_remote_script/)
 - [Build Your Own Language Model In Python](https://www.reddit.com/r/Python/comments/ul3ygk/build_your_own_language_model_in_python/)
-- [PyGame Utils: A Simplified GUI and Utility Class for PyGame](https://www.reddit.com/r/Python/comments/ul3w8q/pygame_utils_a_simplified_gui_and_utility_class/)
-- [Rows and columns](https://www.reddit.com/r/Python/comments/ul3d5d/rows_and_columns/)
-- [Create terminal applications with ease.](https://www.reddit.com/r/Python/comments/ul39e9/create_terminal_applications_with_ease/)
-- [I wrote an improved Zen 😌 of Python 🐍](https://www.reddit.com/r/Python/comments/ul2nxy/i_wrote_an_improved_zen_of_python/)
 <!-- BLOG-POST-LIST:END -->
