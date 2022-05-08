@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Your Own Language Model In Python](https://www.reddit.com/r/Python/comments/ul3ygk/build_your_own_language_model_in_python/)
+- [PyGame Utils: A Simplified GUI and Utility Class for PyGame](https://www.reddit.com/r/Python/comments/ul3w8q/pygame_utils_a_simplified_gui_and_utility_class/)
+- [Rows and columns](https://www.reddit.com/r/Python/comments/ul3d5d/rows_and_columns/)
+- [Create terminal applications with ease.](https://www.reddit.com/r/Python/comments/ul39e9/create_terminal_applications_with_ease/)
 - [I wrote an improved Zen 😌 of Python 🐍](https://www.reddit.com/r/Python/comments/ul2nxy/i_wrote_an_improved_zen_of_python/)
-- [Python JSON overview](https://www.reddit.com/r/Python/comments/ul2e01/python_json_overview/)
-- [Any project suggestions?](https://www.reddit.com/r/Python/comments/ul15zo/any_project_suggestions/)
-- [Interesting thread describing the challenges of learning Python with a very impatient approach and high expectations of how fast they’ll progress.](https://www.reddit.com/r/Python/comments/uky8sk/interesting_thread_describing_the_challenges_of/)
-- [Stop Hardcoding Sensitive Data in Your Python Applications - use python-dotenv instead!](https://www.reddit.com/r/Python/comments/uky3lg/stop_hardcoding_sensitive_data_in_your_python/)
 <!-- BLOG-POST-LIST:END -->
