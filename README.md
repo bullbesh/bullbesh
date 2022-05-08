@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Someone Really hates Python.](https://www.reddit.com/r/Python/comments/ukxlju/someone_really_hates_python/)
 - [PyScript gives error when trying to fetch APIs using requests library](https://www.reddit.com/r/Python/comments/ukx4ac/pyscript_gives_error_when_trying_to_fetch_apis/)
 - [Library for creating CLIs](https://www.reddit.com/r/Python/comments/ukx34t/library_for_creating_clis/)
 - [Python 3.11.0b1 is out! Python 3.11 is now in feature freeze mode!](https://www.reddit.com/r/Python/comments/uktt1w/python_3110b1_is_out_python_311_is_now_in_feature/)
 - [Excessive promotion discussion](https://www.reddit.com/r/Python/comments/ukq4z9/excessive_promotion_discussion/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/ukpqov/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
