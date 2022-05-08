@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyScript gives error when trying to fetch APIs using requests library](https://www.reddit.com/r/Python/comments/ukx4ac/pyscript_gives_error_when_trying_to_fetch_apis/)
+- [Library for creating CLIs](https://www.reddit.com/r/Python/comments/ukx34t/library_for_creating_clis/)
 - [Python 3.11.0b1 is out! Python 3.11 is now in feature freeze mode!](https://www.reddit.com/r/Python/comments/uktt1w/python_3110b1_is_out_python_311_is_now_in_feature/)
 - [Excessive promotion discussion](https://www.reddit.com/r/Python/comments/ukq4z9/excessive_promotion_discussion/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/ukpqov/sunday_daily_thread_whats_everyone_working_on/)
-- [br4nch - 2.1 RELEASED! - Added &#39;load.Json&#39; feature. &lpar;Allows you to import a json file and display it as a tree structure.&rpar;](https://www.reddit.com/r/Python/comments/ukmnv7/br4nch_21_released_added_loadjson_feature_allows/)
-- [Which script do you use frequently?](https://www.reddit.com/r/Python/comments/ukls3w/which_script_do_you_use_frequently/)
 <!-- BLOG-POST-LIST:END -->
