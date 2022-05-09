@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fx &lpar;json terminal viewer&rpar; now supports Python](https://www.reddit.com/r/Python/comments/ulo3zd/fx_json_terminal_viewer_now_supports_python/)
+- [Eurybia : an open source tool to measure data drift](https://www.reddit.com/r/Python/comments/ulnwbr/eurybia_an_open_source_tool_to_measure_data_drift/)
 - [Reasons Why Choose Python As Your Next Web Project](https://www.reddit.com/r/Python/comments/uljt1y/reasons_why_choose_python_as_your_next_web_project/)
 - [Logistic Regression in Python](https://www.reddit.com/r/Python/comments/ulgmup/logistic_regression_in_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/ulekva/monday_daily_thread_project_ideas/)
-- [What is Parts of Speech POS?](https://www.reddit.com/r/Python/comments/ulce8u/what_is_parts_of_speech_pos/)
-- [PyZ - A customizable shell, written in Python, for Python](https://www.reddit.com/r/Python/comments/ulbivr/pyz_a_customizable_shell_written_in_python_for/)
 <!-- BLOG-POST-LIST:END -->
