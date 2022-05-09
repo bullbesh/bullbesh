@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Essential Books to Improve Your Python Programming Skills in 2022](https://www.reddit.com/r/Python/comments/ulox4k/essential_books_to_improve_your_python/)
 - [Fx &lpar;json terminal viewer&rpar; now supports Python](https://www.reddit.com/r/Python/comments/ulo3zd/fx_json_terminal_viewer_now_supports_python/)
 - [Eurybia : an open source tool to measure data drift](https://www.reddit.com/r/Python/comments/ulnwbr/eurybia_an_open_source_tool_to_measure_data_drift/)
 - [Reasons Why Choose Python As Your Next Web Project](https://www.reddit.com/r/Python/comments/uljt1y/reasons_why_choose_python_as_your_next_web_project/)
 - [Logistic Regression in Python](https://www.reddit.com/r/Python/comments/ulgmup/logistic_regression_in_python/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/ulekva/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
