@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Got any &lpar;intermediate&rpar; project ideas?](https://www.reddit.com/r/Python/comments/uly8hs/got_any_intermediate_project_ideas/)
+- [Made a programme that rates your penis. Good luck ;&rpar;](https://www.reddit.com/r/Python/comments/um05xl/made_a_programme_that_rates_your_penis_good_luck/)
+- [Yet another CLI library because why not](https://www.reddit.com/r/Python/comments/um03w7/yet_another_cli_library_because_why_not/)
 - [Coding Cookbooks Bundle by O&#39;Reilly](https://www.reddit.com/r/Python/comments/uly6kc/coding_cookbooks_bundle_by_oreilly/)
 - [OTF.pack: a python serialization framework](https://www.reddit.com/r/Python/comments/uly2qd/otfpack_a_python_serialization_framework/)
 - [blockchain demo with python](https://www.reddit.com/r/Python/comments/ulxvsg/blockchain_demo_with_python/)
-- [5 Most Common Mistakes Data Scientists Make When Handling Data](https://www.reddit.com/r/Python/comments/ulwxfr/5_most_common_mistakes_data_scientists_make_when/)
 <!-- BLOG-POST-LIST:END -->
