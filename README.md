@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Good learning material for a 12 y.o for learning Python? No Coding experience](https://www.reddit.com/r/Python/comments/um2jzj/good_learning_material_for_a_12_yo_for_learning/)
 - [Is there something like Macromedia Director where you can drag in videos and sounds and make interactive stuff real easy wysiwyg but use Python as a scripting language ?](https://www.reddit.com/r/Python/comments/um293n/is_there_something_like_macromedia_director_where/)
-- [Blockchain without JS](https://www.reddit.com/r/Python/comments/um24cq/blockchain_without_js/)
 - [Free Python Courses](https://www.reddit.com/r/Python/comments/um0lfd/free_python_courses/)
 - [Yet another CLI library because why not](https://www.reddit.com/r/Python/comments/um03w7/yet_another_cli_library_because_why_not/)
+- [Coding Cookbooks Bundle by O&#39;Reilly](https://www.reddit.com/r/Python/comments/uly6kc/coding_cookbooks_bundle_by_oreilly/)
 <!-- BLOG-POST-LIST:END -->
