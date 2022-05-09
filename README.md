@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Made a programme that rates your penis. Good luck ;&rpar;](https://www.reddit.com/r/Python/comments/um05xl/made_a_programme_that_rates_your_penis_good_luck/)
+- [Free Python Courses](https://www.reddit.com/r/Python/comments/um0lfd/free_python_courses/)
 - [Yet another CLI library because why not](https://www.reddit.com/r/Python/comments/um03w7/yet_another_cli_library_because_why_not/)
 - [Coding Cookbooks Bundle by O&#39;Reilly](https://www.reddit.com/r/Python/comments/uly6kc/coding_cookbooks_bundle_by_oreilly/)
 - [OTF.pack: a python serialization framework](https://www.reddit.com/r/Python/comments/uly2qd/otfpack_a_python_serialization_framework/)
