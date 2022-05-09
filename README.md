@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to code a Blockchain in 6 Steps using Python](https://www.reddit.com/r/Python/comments/ulq8nc/how_to_code_a_blockchain_in_6_steps_using_python/)
+- [How to pull data from Apple Watch?](https://www.reddit.com/r/Python/comments/ulq28z/how_to_pull_data_from_apple_watch/)
+- [Scapy: low level packet hacking toolkit for Python](https://www.reddit.com/r/Python/comments/ulprow/scapy_low_level_packet_hacking_toolkit_for_python/)
+- [Which Python web framework is popular?](https://www.reddit.com/r/Python/comments/ulphr2/which_python_web_framework_is_popular/)
 - [Essential Books to Improve Your Python Programming Skills in 2022](https://www.reddit.com/r/Python/comments/ulox4k/essential_books_to_improve_your_python/)
-- [Fx &lpar;json terminal viewer&rpar; now supports Python](https://www.reddit.com/r/Python/comments/ulo3zd/fx_json_terminal_viewer_now_supports_python/)
-- [Eurybia : an open source tool to measure data drift](https://www.reddit.com/r/Python/comments/ulnwbr/eurybia_an_open_source_tool_to_measure_data_drift/)
-- [Reasons Why Choose Python As Your Next Web Project](https://www.reddit.com/r/Python/comments/uljt1y/reasons_why_choose_python_as_your_next_web_project/)
-- [Logistic Regression in Python](https://www.reddit.com/r/Python/comments/ulgmup/logistic_regression_in_python/)
 <!-- BLOG-POST-LIST:END -->
