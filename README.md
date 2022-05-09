@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Got any &lpar;intermediate&rpar; project ideas?](https://www.reddit.com/r/Python/comments/uly8hs/got_any_intermediate_project_ideas/)
+- [Coding Cookbooks Bundle by O&#39;Reilly](https://www.reddit.com/r/Python/comments/uly6kc/coding_cookbooks_bundle_by_oreilly/)
+- [OTF.pack: a python serialization framework](https://www.reddit.com/r/Python/comments/uly2qd/otfpack_a_python_serialization_framework/)
+- [blockchain demo with python](https://www.reddit.com/r/Python/comments/ulxvsg/blockchain_demo_with_python/)
 - [5 Most Common Mistakes Data Scientists Make When Handling Data](https://www.reddit.com/r/Python/comments/ulwxfr/5_most_common_mistakes_data_scientists_make_when/)
-- [Introduction to Python mocks](https://www.reddit.com/r/Python/comments/ulwsu2/introduction_to_python_mocks/)
-- [Created a simple registration page using django framework](https://www.reddit.com/r/Python/comments/ulwk7r/created_a_simple_registration_page_using_django/)
-- [Check your New Relic usage](https://www.reddit.com/r/Python/comments/ulw7mq/check_your_new_relic_usage/)
-- [Elixir Pipe in Python](https://www.reddit.com/r/Python/comments/ulvh87/elixir_pipe_in_python/)
 <!-- BLOG-POST-LIST:END -->
