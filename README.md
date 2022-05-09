@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Most Common Mistakes Data Scientists Make When Handling Data](https://www.reddit.com/r/Python/comments/ulwxfr/5_most_common_mistakes_data_scientists_make_when/)
+- [Introduction to Python mocks](https://www.reddit.com/r/Python/comments/ulwsu2/introduction_to_python_mocks/)
+- [Created a simple registration page using django framework](https://www.reddit.com/r/Python/comments/ulwk7r/created_a_simple_registration_page_using_django/)
 - [Check your New Relic usage](https://www.reddit.com/r/Python/comments/ulw7mq/check_your_new_relic_usage/)
-- [I used a new dataframe library &lpar;polars&rpar; to wrangle 300M prices and discover some of the most expensive hospitals in America. Code/notebook in article](https://www.reddit.com/r/Python/comments/ululk1/i_used_a_new_dataframe_library_polars_to_wrangle/)
-- [Dynamic image resizing with Python and Serverless Framework](https://www.reddit.com/r/Python/comments/ultkf3/dynamic_image_resizing_with_python_and_serverless/)
-- [I created a simple framework in Python that let&#39;s you &#39;plug and play&#39; your own solving algorithms for Wordle! It has a straightforward solver template to work with, as well as a handy debugging interface and data trackers/properties to utilise. It includes a 100% win-rate solver example :&rpar;](https://www.reddit.com/r/Python/comments/ult9kz/i_created_a_simple_framework_in_python_that_lets/)
-- [A most vexing parse, but for Python packaging](https://www.reddit.com/r/Python/comments/uls7uy/a_most_vexing_parse_but_for_python_packaging/)
+- [Elixir Pipe in Python](https://www.reddit.com/r/Python/comments/ulvh87/elixir_pipe_in_python/)
 <!-- BLOG-POST-LIST:END -->
