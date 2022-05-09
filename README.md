@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Idea for python package for approximation](https://www.reddit.com/r/Python/comments/ulcfrs/idea_for_python_package_for_approximation/)
+- [Logistic Regression in Python](https://www.reddit.com/r/Python/comments/ulgmup/logistic_regression_in_python/)
+- [Python for beginners - Learn all the basics of python](https://www.reddit.com/r/Python/comments/ulg0sv/python_for_beginners_learn_all_the_basics_of/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/ulekva/monday_daily_thread_project_ideas/)
 - [What is Parts of Speech POS?](https://www.reddit.com/r/Python/comments/ulce8u/what_is_parts_of_speech_pos/)
 - [PyZ - A customizable shell, written in Python, for Python](https://www.reddit.com/r/Python/comments/ulbivr/pyz_a_customizable_shell_written_in_python_for/)
-- [I&#39;m too lazy to turn off my PC at nights. so made an app to turn it off with my phone](https://www.reddit.com/r/Python/comments/ulaj4a/im_too_lazy_to_turn_off_my_pc_at_nights_so_made/)
-- [Pyscript, python like javascript: project by Anaconda team](https://www.reddit.com/r/Python/comments/ul9i86/pyscript_python_like_javascript_project_by/)
 <!-- BLOG-POST-LIST:END -->
