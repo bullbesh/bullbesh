@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A most vexing parse, but for Python packaging](https://www.reddit.com/r/Python/comments/uls7uy/a_most_vexing_parse_but_for_python_packaging/)
+- [django-pgpubsub: A distributed task processing framework for Django built on top of the Postgres NOTIFY/LISTEN protocol.](https://www.reddit.com/r/Python/comments/ulrn4g/djangopgpubsub_a_distributed_task_processing/)
 - [Will pandas eventually become more intuitive?](https://www.reddit.com/r/Python/comments/ulrhff/will_pandas_eventually_become_more_intuitive/)
 - [How to Automate Data Analytics Using CI/CD](https://www.reddit.com/r/Python/comments/ulqv1c/how_to_automate_data_analytics_using_cicd/)
 - [How to code a Blockchain in 6 Steps using Python](https://www.reddit.com/r/Python/comments/ulq8nc/how_to_code_a_blockchain_in_6_steps_using_python/)
-- [How to pull data from Apple Watch?](https://www.reddit.com/r/Python/comments/ulq28z/how_to_pull_data_from_apple_watch/)
-- [Scapy: low level packet hacking toolkit for Python](https://www.reddit.com/r/Python/comments/ulprow/scapy_low_level_packet_hacking_toolkit_for_python/)
 <!-- BLOG-POST-LIST:END -->
