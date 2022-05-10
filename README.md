@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [New lightweight library for head-gesture detection](https://www.reddit.com/r/Python/comments/umgc2s/new_lightweight_library_for_headgesture_detection/)
-- [Looping the function if the input is not string](https://www.reddit.com/r/Python/comments/umfq39/looping_the_function_if_the_input_is_not_string/)
-- [Problem solving](https://www.reddit.com/r/Python/comments/ume9uw/problem_solving/)
-- [i made a dumb thing in python](https://www.reddit.com/r/Python/comments/ume71x/i_made_a_dumb_thing_in_python/)
-- [What is the actual use of while loop ?](https://www.reddit.com/r/Python/comments/umduuz/what_is_the_actual_use_of_while_loop/)
+- [Python Data Analysis and Visualization](https://www.reddit.com/r/Python/comments/umhta0/python_data_analysis_and_visualization/)
+- [&#39;NoneType&#39; object has no attribute &#39;read&#39; during reading json from subproces stdout](https://www.reddit.com/r/Python/comments/umhj50/nonetype_object_has_no_attribute_read_during/)
+- [20 Challenging Python Questions to Prepare for Interviews &lpar;+ code snippets&rpar;](https://www.reddit.com/r/Python/comments/umhfe1/20_challenging_python_questions_to_prepare_for/)
+- [&quot;Developers do nothing good after 45 hours of work.&quot; Fun conversation with head developer of Netflix on the dumbest things engineering orgs do to kill productivity - they really take a crap on retros.](https://www.reddit.com/r/Python/comments/umhf4v/developers_do_nothing_good_after_45_hours_of_work/)
+- [Python documentation search](https://www.reddit.com/r/Python/comments/umh2xm/python_documentation_search/)
 <!-- BLOG-POST-LIST:END -->
