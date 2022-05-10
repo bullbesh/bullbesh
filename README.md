@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the PyOxy Python Runner, a single file &lpar;C&rpar;Python distribution](https://www.reddit.com/r/Python/comments/umcxe7/announcing_the_pyoxy_python_runner_a_single_file/)
+- [Skin disease recognizer &lpar;my project&rpar;](https://www.reddit.com/r/Python/comments/umc8xm/skin_disease_recognizer_my_project/)
 - [Call Python and R Scripts From Excel](https://www.reddit.com/r/Python/comments/umbnci/call_python_and_r_scripts_from_excel/)
 - [NIVOS Strong Hacking Tool Written By Python3 &lpar;For Educational Purposes&rpar;](https://www.reddit.com/r/Python/comments/umas8c/nivos_strong_hacking_tool_written_by_python3_for/)
 - [Simple Blackjack Game](https://www.reddit.com/r/Python/comments/um7uok/simple_blackjack_game/)
-- [Python live coding concert feat / KITTY CLOCK / MY MACHINE PAL / CRASH SERVER](https://www.reddit.com/r/Python/comments/um5po8/python_live_coding_concert_feat_kitty_clock_my/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/um529u/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
