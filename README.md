@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New lightweight library for head-gesture detection](https://www.reddit.com/r/Python/comments/umgc2s/new_lightweight_library_for_headgesture_detection/)
+- [Looping the function if the input is not string](https://www.reddit.com/r/Python/comments/umfq39/looping_the_function_if_the_input_is_not_string/)
 - [Problem solving](https://www.reddit.com/r/Python/comments/ume9uw/problem_solving/)
 - [i made a dumb thing in python](https://www.reddit.com/r/Python/comments/ume71x/i_made_a_dumb_thing_in_python/)
 - [What is the actual use of while loop ?](https://www.reddit.com/r/Python/comments/umduuz/what_is_the_actual_use_of_while_loop/)
-- [How do I download a bank statement CSV file from my bank on a monthly basis and then place it in a certain folder in my computer? Can I automate this?](https://www.reddit.com/r/Python/comments/umdssw/how_do_i_download_a_bank_statement_csv_file_from/)
-- [Announcing the PyOxy Python Runner, a single file &lpar;C&rpar;Python distribution](https://www.reddit.com/r/Python/comments/umcxe7/announcing_the_pyoxy_python_runner_a_single_file/)
 <!-- BLOG-POST-LIST:END -->
