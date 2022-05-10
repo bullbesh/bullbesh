@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to PyScript](https://www.reddit.com/r/Python/comments/umjtfx/introduction_to_pyscript/)
+- [Python News: What&#39;s New From April 2022 – Real Python](https://www.reddit.com/r/Python/comments/umjhbr/python_news_whats_new_from_april_2022_real_python/)
+- [Storing Passwords in SoundWaves using Python](https://www.reddit.com/r/Python/comments/umj9lj/storing_passwords_in_soundwaves_using_python/)
 - [Is Python that bad in performance?](https://www.reddit.com/r/Python/comments/umiy1r/is_python_that_bad_in_performance/)
 - [Python Data Analysis and Visualization](https://www.reddit.com/r/Python/comments/umhta0/python_data_analysis_and_visualization/)
-- [20 Challenging Python Questions to Prepare for Interviews &lpar;+ code snippets&rpar;](https://www.reddit.com/r/Python/comments/umhfe1/20_challenging_python_questions_to_prepare_for/)
-- [&quot;Developers do nothing good after 45 hours of work.&quot; Fun conversation with head developer of Netflix on the dumbest things engineering orgs do to kill productivity - they really take a crap on retros.](https://www.reddit.com/r/Python/comments/umhf4v/developers_do_nothing_good_after_45_hours_of_work/)
-- [Python documentation search](https://www.reddit.com/r/Python/comments/umh2xm/python_documentation_search/)
 <!-- BLOG-POST-LIST:END -->
