@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deps - A CLI for checking out-of-date python dependencies across multiple Github repositories](https://www.reddit.com/r/Python/comments/umtiat/deps_a_cli_for_checking_outofdate_python/)
 - [telethon](https://www.reddit.com/r/Python/comments/umsyx0/telethon/)
 - [Tensor-flow Basic With MNIST Dataset - Classify images of clothing Using ML](https://www.reddit.com/r/Python/comments/ums35l/tensorflow_basic_with_mnist_dataset_classify/)
 - [Could you guys fill out this quiz for me please? I&#39;m making a fighting game on pygame and just need some sort of opinions. Form below.](https://www.reddit.com/r/Python/comments/umq752/could_you_guys_fill_out_this_quiz_for_me_please/)
 - [New Tutorial about Transparency Transition! I hope you&#39;ll find it useful!](https://www.reddit.com/r/Python/comments/umpvxf/new_tutorial_about_transparency_transition_i_hope/)
-- [Web scraping using Selenium &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/umpgn2/web_scraping_using_selenium_python/)
 <!-- BLOG-POST-LIST:END -->
