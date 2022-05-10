@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are best free/ &lt;$50 full Python course for beginners in 2022?](https://www.reddit.com/r/Python/comments/uml43y/what_are_best_free_50_full_python_course_for/)
+- [3.11: possessive quantifiers and atomic grouping added to re module](https://www.reddit.com/r/Python/comments/umkwso/311_possessive_quantifiers_and_atomic_grouping/)
+- [The book of I](https://www.reddit.com/r/Python/comments/umkoaa/the_book_of_i/)
+- [Added an ocean overworld to my little game I&#39;m making using the Pygame module](https://www.reddit.com/r/Python/comments/umkgfb/added_an_ocean_overworld_to_my_little_game_im/)
 - [Introduction to PyScript](https://www.reddit.com/r/Python/comments/umjtfx/introduction_to_pyscript/)
-- [Python News: What&#39;s New From April 2022 – Real Python](https://www.reddit.com/r/Python/comments/umjhbr/python_news_whats_new_from_april_2022_real_python/)
-- [Storing Passwords in SoundWaves using Python](https://www.reddit.com/r/Python/comments/umj9lj/storing_passwords_in_soundwaves_using_python/)
-- [Is Python that bad in performance?](https://www.reddit.com/r/Python/comments/umiy1r/is_python_that_bad_in_performance/)
-- [Python Data Analysis and Visualization](https://www.reddit.com/r/Python/comments/umhta0/python_data_analysis_and_visualization/)
 <!-- BLOG-POST-LIST:END -->
