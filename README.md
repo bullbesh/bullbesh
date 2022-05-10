@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python live coding concert feat / KITTY CLOCK / MY MACHINE PAL / CRASH SERVER](https://www.reddit.com/r/Python/comments/um5po8/python_live_coding_concert_feat_kitty_clock_my/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/um529u/tuesday_daily_thread_advanced_questions/)
+- [Are there PyCon US 2022 videos available?](https://www.reddit.com/r/Python/comments/um4yi7/are_there_pycon_us_2022_videos_available/)
 - [Good learning material for a 12 y.o for learning Python? No Coding experience](https://www.reddit.com/r/Python/comments/um2jzj/good_learning_material_for_a_12_yo_for_learning/)
 - [Is there something like Macromedia Director where you can drag in videos and sounds and make interactive stuff real easy wysiwyg but use Python as a scripting language ?](https://www.reddit.com/r/Python/comments/um293n/is_there_something_like_macromedia_director_where/)
-- [Free Python Courses](https://www.reddit.com/r/Python/comments/um0lfd/free_python_courses/)
-- [Yet another CLI library because why not](https://www.reddit.com/r/Python/comments/um03w7/yet_another_cli_library_because_why_not/)
-- [Coding Cookbooks Bundle by O&#39;Reilly](https://www.reddit.com/r/Python/comments/uly6kc/coding_cookbooks_bundle_by_oreilly/)
 <!-- BLOG-POST-LIST:END -->
