@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Could you guys fill out this quiz for me please? I&#39;m making a fighting game on pygame and just need some sort of opinions. Form below.](https://www.reddit.com/r/Python/comments/umq752/could_you_guys_fill_out_this_quiz_for_me_please/)
+- [New Tutorial about Transparency Transition! I hope you&#39;ll find it useful!](https://www.reddit.com/r/Python/comments/umpvxf/new_tutorial_about_transparency_transition_i_hope/)
+- [Web scraping using Selenium &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/umpgn2/web_scraping_using_selenium_python/)
+- [Full Drum Kit/Beat Maker build in python using the PyGame module! GitHub link in description](https://www.reddit.com/r/Python/comments/umpfve/full_drum_kitbeat_maker_build_in_python_using_the/)
 - [Trouble running pyscript.py for controlling another program](https://www.reddit.com/r/Python/comments/ump2vc/trouble_running_pyscriptpy_for_controlling/)
-- [Python Cybersecurity— Network Tracking using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/umoj91/python_cybersecurity_network_tracking_using/)
-- [No Starch Press has released an all-Python Humble Bundle!](https://www.reddit.com/r/Python/comments/umnz27/no_starch_press_has_released_an_allpython_humble/)
-- [IDLE should print multiprocessing function outputs in the IDLE shell. What do you think?](https://www.reddit.com/r/Python/comments/umnqky/idle_should_print_multiprocessing_function/)
-- [This is the framework I&#39;ve used to teach myself Python](https://www.reddit.com/r/Python/comments/ummae9/this_is_the_framework_ive_used_to_teach_myself/)
 <!-- BLOG-POST-LIST:END -->
