@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Call Python and R Scripts From Excel](https://www.reddit.com/r/Python/comments/umbnci/call_python_and_r_scripts_from_excel/)
 - [NIVOS Strong Hacking Tool Written By Python3 &lpar;For Educational Purposes&rpar;](https://www.reddit.com/r/Python/comments/umas8c/nivos_strong_hacking_tool_written_by_python3_for/)
 - [Simple Blackjack Game](https://www.reddit.com/r/Python/comments/um7uok/simple_blackjack_game/)
 - [Python live coding concert feat / KITTY CLOCK / MY MACHINE PAL / CRASH SERVER](https://www.reddit.com/r/Python/comments/um5po8/python_live_coding_concert_feat_kitty_clock_my/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/um529u/tuesday_daily_thread_advanced_questions/)
-- [Are there PyCon US 2022 videos available?](https://www.reddit.com/r/Python/comments/um4yi7/are_there_pycon_us_2022_videos_available/)
 <!-- BLOG-POST-LIST:END -->
