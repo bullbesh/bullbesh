@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CumEdit 1.8 is out now!](https://www.reddit.com/r/Python/comments/ummbrn/cumedit_18_is_out_now/)
+- [This is the framework I&#39;ve used to teach myself Python](https://www.reddit.com/r/Python/comments/ummae9/this_is_the_framework_ive_used_to_teach_myself/)
+- [Totally new to Python](https://www.reddit.com/r/Python/comments/umm88o/totally_new_to_python/)
+- [Oil is Being Implemented &quot;Middle Out&quot; &lpar;with Python-based DSLs&rpar;](https://www.reddit.com/r/Python/comments/umlvb6/oil_is_being_implemented_middle_out_with/)
 - [What are best free/ &lt;$50 full Python course for beginners in 2022?](https://www.reddit.com/r/Python/comments/uml43y/what_are_best_free_50_full_python_course_for/)
-- [3.11: possessive quantifiers and atomic grouping added to re module](https://www.reddit.com/r/Python/comments/umkwso/311_possessive_quantifiers_and_atomic_grouping/)
-- [The book of I](https://www.reddit.com/r/Python/comments/umkoaa/the_book_of_i/)
-- [Added an ocean overworld to my little game I&#39;m making using the Pygame module](https://www.reddit.com/r/Python/comments/umkgfb/added_an_ocean_overworld_to_my_little_game_im/)
-- [Introduction to PyScript](https://www.reddit.com/r/Python/comments/umjtfx/introduction_to_pyscript/)
 <!-- BLOG-POST-LIST:END -->
