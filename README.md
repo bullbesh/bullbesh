@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Will it be easier to learn python if I know c++?](https://www.reddit.com/r/Python/comments/unbxpg/will_it_be_easier_to_learn_python_if_i_know_c/)
+- [Pausable, feature-rich Pomodoro clock with integration to xmobar/polybar for Linux](https://www.reddit.com/r/Python/comments/unbb7w/pausable_featurerich_pomodoro_clock_with/)
+- [Just bought Angela Yu&#39;s 100 days of code.](https://www.reddit.com/r/Python/comments/unb3tr/just_bought_angela_yus_100_days_of_code/)
 - [An introduction to Rejected, a Consumer Framework | Gavin Roy | RabbitMQ Summit 21](https://www.reddit.com/r/Python/comments/un91jp/an_introduction_to_rejected_a_consumer_framework/)
 - [Exiting PR for Pandas: Will we get rid of SettingWithCopyWarning?](https://www.reddit.com/r/Python/comments/un69wq/exiting_pr_for_pandas_will_we_get_rid_of/)
-- [How to learn NLP for free](https://www.reddit.com/r/Python/comments/un5eux/how_to_learn_nlp_for_free/)
-- [Selection Sort Algorithm in Python](https://www.reddit.com/r/Python/comments/un53zj/selection_sort_algorithm_in_python/)
-- [Executing Python MapReduce Jobs using Hadoop inside Docker Containers](https://www.reddit.com/r/Python/comments/un3uge/executing_python_mapreduce_jobs_using_hadoop/)
 <!-- BLOG-POST-LIST:END -->
