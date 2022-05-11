@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Software Developers who want to do something good.](https://www.reddit.com/r/Python/comments/undonh/software_developers_who_want_to_do_something_good/)
+- [How To Ignore Jupyter Notebook From Github Language Stats?](https://www.reddit.com/r/Python/comments/und12q/how_to_ignore_jupyter_notebook_from_github/)
+- [Open source project that digitalizes real life chess boards.](https://www.reddit.com/r/Python/comments/uncpxb/open_source_project_that_digitalizes_real_life/)
 - [Will it be easier to learn python if I know c++?](https://www.reddit.com/r/Python/comments/unbxpg/will_it_be_easier_to_learn_python_if_i_know_c/)
 - [Pausable, feature-rich Pomodoro clock with integration to xmobar/polybar for Linux](https://www.reddit.com/r/Python/comments/unbb7w/pausable_featurerich_pomodoro_clock_with/)
-- [Just bought Angela Yu&#39;s 100 days of code.](https://www.reddit.com/r/Python/comments/unb3tr/just_bought_angela_yus_100_days_of_code/)
-- [An introduction to Rejected, a Consumer Framework | Gavin Roy | RabbitMQ Summit 21](https://www.reddit.com/r/Python/comments/un91jp/an_introduction_to_rejected_a_consumer_framework/)
-- [Exiting PR for Pandas: Will we get rid of SettingWithCopyWarning?](https://www.reddit.com/r/Python/comments/un69wq/exiting_pr_for_pandas_will_we_get_rid_of/)
 <!-- BLOG-POST-LIST:END -->
