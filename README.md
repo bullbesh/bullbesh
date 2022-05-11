@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An introduction to Rejected, a Consumer Framework | Gavin Roy | RabbitMQ Summit 21](https://www.reddit.com/r/Python/comments/un91jp/an_introduction_to_rejected_a_consumer_framework/)
 - [Exiting PR for Pandas: Will we get rid of SettingWithCopyWarning?](https://www.reddit.com/r/Python/comments/un69wq/exiting_pr_for_pandas_will_we_get_rid_of/)
 - [How to learn NLP for free](https://www.reddit.com/r/Python/comments/un5eux/how_to_learn_nlp_for_free/)
 - [Selection Sort Algorithm in Python](https://www.reddit.com/r/Python/comments/un53zj/selection_sort_algorithm_in_python/)
 - [Executing Python MapReduce Jobs using Hadoop inside Docker Containers](https://www.reddit.com/r/Python/comments/un3uge/executing_python_mapreduce_jobs_using_hadoop/)
-- [What’s the best way to learn python on your own](https://www.reddit.com/r/Python/comments/un3mro/whats_the_best_way_to_learn_python_on_your_own/)
 <!-- BLOG-POST-LIST:END -->
