@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Keeping Tabs With TWH](https://www.reddit.com/r/Python/comments/unlh07/keeping_tabs_with_twh/)
+- [Keeping Tabs With TWH](https://www.reddit.com/r/Python/comments/unlafw/keeping_tabs_with_twh/)
+- [I made my first little Website with Flask](https://www.reddit.com/r/Python/comments/unkmbd/i_made_my_first_little_website_with_flask/)
 - [Automating stuff at work](https://www.reddit.com/r/Python/comments/unid7k/automating_stuff_at_work/)
 - [What&#39;s the oldest Python version my package should support?](https://www.reddit.com/r/Python/comments/unhz5b/whats_the_oldest_python_version_my_package_should/)
-- [LazyHelper🦥 : Are you intersted in it ? Here is new version based on your feedbacks !](https://www.reddit.com/r/Python/comments/ung8w2/lazyhelper_are_you_intersted_in_it_here_is_new/)
-- [How To Ignore Jupyter Notebook From Github Language Stats?](https://www.reddit.com/r/Python/comments/und12q/how_to_ignore_jupyter_notebook_from_github/)
-- [Pausable, feature-rich Pomodoro clock with integration to xmobar/polybar for Linux](https://www.reddit.com/r/Python/comments/unbb7w/pausable_featurerich_pomodoro_clock_with/)
 <!-- BLOG-POST-LIST:END -->
