@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free ML-powered Web Apps Python/React/Javascript Tutorial](https://www.reddit.com/r/Python/comments/un3axa/free_mlpowered_web_apps_pythonreactjavascript/)
 - [Refactoring for Scalable Python Code With Pandas](https://www.reddit.com/r/Python/comments/un1s5j/refactoring_for_scalable_python_code_with_pandas/)
 - [How did you finally wrap your head around design patterns?](https://www.reddit.com/r/Python/comments/un0me8/how_did_you_finally_wrap_your_head_around_design/)
 - [Looking for recommendations regarding Python courses](https://www.reddit.com/r/Python/comments/umzu8k/looking_for_recommendations_regarding_python/)
 - [Data Manipulation in Python: Master Python, Numpy &amp; Pandas](https://www.reddit.com/r/Python/comments/umymwo/data_manipulation_in_python_master_python_numpy/)
-- [Why is this a thing? &lpar;Cool feature&rpar;](https://www.reddit.com/r/Python/comments/umwplp/why_is_this_a_thing_cool_feature/)
 <!-- BLOG-POST-LIST:END -->
