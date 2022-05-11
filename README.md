@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Executing Python MapReduce Jobs using Hadoop inside Docker Containers](https://www.reddit.com/r/Python/comments/un3uge/executing_python_mapreduce_jobs_using_hadoop/)
+- [What’s the best way to learn python on your own](https://www.reddit.com/r/Python/comments/un3mro/whats_the_best_way_to_learn_python_on_your_own/)
+- [Manga reader with Python and PyQt5](https://www.reddit.com/r/Python/comments/un3j6y/manga_reader_with_python_and_pyqt5/)
 - [Free ML-powered Web Apps Python/React/Javascript Tutorial](https://www.reddit.com/r/Python/comments/un3axa/free_mlpowered_web_apps_pythonreactjavascript/)
 - [Refactoring for Scalable Python Code With Pandas](https://www.reddit.com/r/Python/comments/un1s5j/refactoring_for_scalable_python_code_with_pandas/)
-- [How did you finally wrap your head around design patterns?](https://www.reddit.com/r/Python/comments/un0me8/how_did_you_finally_wrap_your_head_around_design/)
-- [Looking for recommendations regarding Python courses](https://www.reddit.com/r/Python/comments/umzu8k/looking_for_recommendations_regarding_python/)
-- [Data Manipulation in Python: Master Python, Numpy &amp; Pandas](https://www.reddit.com/r/Python/comments/umymwo/data_manipulation_in_python_master_python_numpy/)
 <!-- BLOG-POST-LIST:END -->
