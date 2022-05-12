@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python 3.11: possessive quantifiers and atomic grouping added to re module](https://www.reddit.com/r/Python/comments/uo4xz6/python_311_possessive_quantifiers_and_atomic/)
-- [ASCII-Matrix effect for camera video](https://www.reddit.com/r/Python/comments/uo3s8d/asciimatrix_effect_for_camera_video/)
-- [Open source project that digitalizes real life chess boards.](https://www.reddit.com/r/Python/comments/uo3dib/open_source_project_that_digitalizes_real_life/)
-- [My math high school project](https://www.reddit.com/r/Python/comments/uo3318/my_math_high_school_project/)
-- [1000Words — easily share your data analysis, directly from Jupyter](https://www.reddit.com/r/Python/comments/uo1yno/1000words_easily_share_your_data_analysis/)
+- [How I created the tranquil autumn air within 99 lines of Python code](https://www.reddit.com/r/Python/comments/uo69oq/how_i_created_the_tranquil_autumn_air_within_99/)
+- [Python library, quickly build web-based machine learning demos, data science dashboards, or other kinds of web apps](https://www.reddit.com/r/Python/comments/uo68r0/python_library_quickly_build_webbased_machine/)
+- [Tensor-Flow Baiscs 2: Text Classification With Tensorflow Hub](https://www.reddit.com/r/Python/comments/uo5rwh/tensorflow_baiscs_2_text_classification_with/)
+- [Text classification with TensorFlow Hub Movie reviews](https://www.reddit.com/r/Python/comments/uo5m0x/text_classification_with_tensorflow_hub_movie/)
+- [Hello guys I am newbie here is there anyone who works as a freelancer or regular job in football analytics with python please message me then](https://www.reddit.com/r/Python/comments/uo5bot/hello_guys_i_am_newbie_here_is_there_anyone_who/)
 <!-- BLOG-POST-LIST:END -->
