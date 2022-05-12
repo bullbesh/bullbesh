@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open source project that digitalizes real life chess boards.](https://www.reddit.com/r/Python/comments/uo3dib/open_source_project_that_digitalizes_real_life/)
+- [My math high school project](https://www.reddit.com/r/Python/comments/uo3318/my_math_high_school_project/)
 - [1000Words — easily share your data analysis, directly from Jupyter](https://www.reddit.com/r/Python/comments/uo1yno/1000words_easily_share_your_data_analysis/)
 - [Explained why avoiding eval&lpar;&rpar; and exec&lpar;&rpar; is a better idea](https://www.reddit.com/r/Python/comments/uo11mt/explained_why_avoiding_eval_and_exec_is_a_better/)
 - [Python and Ukraine](https://www.reddit.com/r/Python/comments/unzzna/python_and_ukraine/)
-- [Blockchain Development Noob](https://www.reddit.com/r/Python/comments/unzrcs/blockchain_development_noob/)
-- [Advanced Django ORM – talk at PyConDE [recording]](https://www.reddit.com/r/Python/comments/uny62m/advanced_django_orm_talk_at_pyconde_recording/)
 <!-- BLOG-POST-LIST:END -->
