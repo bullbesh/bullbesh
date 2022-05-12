@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Explained why avoiding eval&lpar;&rpar; and exec&lpar;&rpar; is a better idea](https://www.reddit.com/r/Python/comments/uo11mt/explained_why_avoiding_eval_and_exec_is_a_better/)
 - [Python and Ukraine](https://www.reddit.com/r/Python/comments/unzzna/python_and_ukraine/)
 - [Blockchain Development Noob](https://www.reddit.com/r/Python/comments/unzrcs/blockchain_development_noob/)
-- [Filter csv data in phyton](https://www.reddit.com/r/Python/comments/unyx8o/filter_csv_data_in_phyton/)
 - [Advanced Django ORM – talk at PyConDE [recording]](https://www.reddit.com/r/Python/comments/uny62m/advanced_django_orm_talk_at_pyconde_recording/)
 - [Beginner Tips for Learning Python Programming](https://www.reddit.com/r/Python/comments/unx8y0/beginner_tips_for_learning_python_programming/)
 <!-- BLOG-POST-LIST:END -->
