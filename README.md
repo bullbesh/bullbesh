@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The best Python web scraping libraries](https://www.reddit.com/r/Python/comments/uo9f9a/the_best_python_web_scraping_libraries/)
 - [What are some really good TDD resources?](https://www.reddit.com/r/Python/comments/uo8pzp/what_are_some_really_good_tdd_resources/)
 - [Anyone fully automated their job?](https://www.reddit.com/r/Python/comments/uo8kzu/anyone_fully_automated_their_job/)
 - [Faster, more memory-efficient Python JSON parsing with msgspec](https://www.reddit.com/r/Python/comments/uo83sv/faster_more_memoryefficient_python_json_parsing/)
 - [Core dev on why new Memray memory profiler tracks both Python and native code](https://www.reddit.com/r/Python/comments/uo70nv/core_dev_on_why_new_memray_memory_profiler_tracks/)
-- [How I created the tranquil autumn air within 99 lines of Python code](https://www.reddit.com/r/Python/comments/uo69oq/how_i_created_the_tranquil_autumn_air_within_99/)
 <!-- BLOG-POST-LIST:END -->
