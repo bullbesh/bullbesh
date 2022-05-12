@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [sys.path_hooks is fun for everyone! CfgImp: a misuse of importlib](https://www.reddit.com/r/Python/comments/untwoc/syspath_hooks_is_fun_for_everyone_cfgimp_a_misuse/)
 - [print &lpar;&quot; hello people&quot;&rpar;](https://www.reddit.com/r/Python/comments/unsq8m/print_hello_people/)
 - [tracking my workouts from my phone with a program](https://www.reddit.com/r/Python/comments/unre95/tracking_my_workouts_from_my_phone_with_a_program/)
 - [someone explain modules in python.](https://www.reddit.com/r/Python/comments/unr63w/someone_explain_modules_in_python/)
 - [I couldn&#39;t find a file sorter, so I created one what do you think?](https://www.reddit.com/r/Python/comments/unqza0/i_couldnt_find_a_file_sorter_so_i_created_one/)
-- [Hypothetical Python Script](https://www.reddit.com/r/Python/comments/unpshg/hypothetical_python_script/)
 <!-- BLOG-POST-LIST:END -->
