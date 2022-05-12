@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [tracking my workouts from my phone with a program](https://www.reddit.com/r/Python/comments/unre95/tracking_my_workouts_from_my_phone_with_a_program/)
+- [someone explain modules in python.](https://www.reddit.com/r/Python/comments/unr63w/someone_explain_modules_in_python/)
+- [I couldn&#39;t find a file sorter, so I created one what do you think?](https://www.reddit.com/r/Python/comments/unqza0/i_couldnt_find_a_file_sorter_so_i_created_one/)
 - [Hypothetical Python Script](https://www.reddit.com/r/Python/comments/unpshg/hypothetical_python_script/)
 - [This probably the dumbest sounding question I&#39;ll ever ask on Reddit...](https://www.reddit.com/r/Python/comments/unnpjv/this_probably_the_dumbest_sounding_question_ill/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/unnmyf/thursday_daily_thread_python_careers_courses_and/)
-- [MindsEye Lite run multiple text-to-image models in one place](https://www.reddit.com/r/Python/comments/unn77l/mindseye_lite_run_multiple_texttoimage_models_in/)
-- [The Ultimate Guide to Python Pickle](https://www.reddit.com/r/Python/comments/unmp3n/the_ultimate_guide_to_python_pickle/)
 <!-- BLOG-POST-LIST:END -->
