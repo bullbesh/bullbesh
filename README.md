@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hypothetical Python Script](https://www.reddit.com/r/Python/comments/unpshg/hypothetical_python_script/)
+- [This probably the dumbest sounding question I&#39;ll ever ask on Reddit...](https://www.reddit.com/r/Python/comments/unnpjv/this_probably_the_dumbest_sounding_question_ill/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/unnmyf/thursday_daily_thread_python_careers_courses_and/)
+- [MindsEye Lite run multiple text-to-image models in one place](https://www.reddit.com/r/Python/comments/unn77l/mindseye_lite_run_multiple_texttoimage_models_in/)
 - [The Ultimate Guide to Python Pickle](https://www.reddit.com/r/Python/comments/unmp3n/the_ultimate_guide_to_python_pickle/)
-- [rethread - Simple wrapper for the builtin threading module](https://www.reddit.com/r/Python/comments/unmfpt/rethread_simple_wrapper_for_the_builtin_threading/)
-- [Softere Engineer Converting to Mechanical Engineer](https://www.reddit.com/r/Python/comments/unmd9i/softere_engineer_converting_to_mechanical_engineer/)
-- [Keeping Tabs With TWH](https://www.reddit.com/r/Python/comments/unlh07/keeping_tabs_with_twh/)
-- [Keeping Tabs With TWH](https://www.reddit.com/r/Python/comments/unlafw/keeping_tabs_with_twh/)
 <!-- BLOG-POST-LIST:END -->
