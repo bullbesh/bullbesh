@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [looking for a module to do some interactions with a webpage](https://www.reddit.com/r/Python/comments/uoqmmk/looking_for_a_module_to_do_some_interactions_with/)
+- [Build a Todo App With PyScript](https://www.reddit.com/r/Python/comments/uopuvs/build_a_todo_app_with_pyscript/)
+- [Python Cheatsheet for Beginners - Data Science, ML, AI](https://www.reddit.com/r/Python/comments/uopksk/python_cheatsheet_for_beginners_data_science_ml_ai/)
 - [How To Profile Python Code](https://www.reddit.com/r/Python/comments/uope4w/how_to_profile_python_code/)
 - [Building a toy Python @dataclass decorator](https://www.reddit.com/r/Python/comments/uopbgq/building_a_toy_python_dataclass_decorator/)
-- [GitHub - phanrahan/magma: magma circuits Magma is a hardware design language embedded in python](https://www.reddit.com/r/Python/comments/uop13g/github_phanrahanmagma_magma_circuits_magma_is_a/)
-- [I want to learn python](https://www.reddit.com/r/Python/comments/uoom6w/i_want_to_learn_python/)
-- [Keeping Tabs With The Hashnode Writeathon Part 2](https://www.reddit.com/r/Python/comments/uoodc5/keeping_tabs_with_the_hashnode_writeathon_part_2/)
 <!-- BLOG-POST-LIST:END -->
