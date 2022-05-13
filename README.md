@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Profile Python Code](https://www.reddit.com/r/Python/comments/uope4w/how_to_profile_python_code/)
+- [Building a toy Python @dataclass decorator](https://www.reddit.com/r/Python/comments/uopbgq/building_a_toy_python_dataclass_decorator/)
+- [GitHub - phanrahan/magma: magma circuits Magma is a hardware design language embedded in python](https://www.reddit.com/r/Python/comments/uop13g/github_phanrahanmagma_magma_circuits_magma_is_a/)
 - [I want to learn python](https://www.reddit.com/r/Python/comments/uoom6w/i_want_to_learn_python/)
 - [Keeping Tabs With The Hashnode Writeathon Part 2](https://www.reddit.com/r/Python/comments/uoodc5/keeping_tabs_with_the_hashnode_writeathon_part_2/)
-- [How I created the tranquil autumn air within 99 lines of Python code](https://www.reddit.com/r/Python/comments/uonx6w/how_i_created_the_tranquil_autumn_air_within_99/)
-- [Essential Best Python Courses on Coursera to learn Python Skills in 2022](https://www.reddit.com/r/Python/comments/uonr72/essential_best_python_courses_on_coursera_to/)
-- [My first DRF project - blog API](https://www.reddit.com/r/Python/comments/uon5ur/my_first_drf_project_blog_api/)
 <!-- BLOG-POST-LIST:END -->
