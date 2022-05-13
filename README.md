@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [video game idea](https://www.reddit.com/r/Python/comments/uosbak/video_game_idea/)
 - [Learning Path](https://www.reddit.com/r/Python/comments/uos3my/learning_path/)
 - [Article explaining concurrency using Python](https://www.reddit.com/r/Python/comments/uoryl5/article_explaining_concurrency_using_python/)
 - [Does anyone use Python for a Data Science position? If so, what are the best python libraries to get familiar with for data science?](https://www.reddit.com/r/Python/comments/uorxt5/does_anyone_use_python_for_a_data_science/)
 - [Best Python Compiler for IOS](https://www.reddit.com/r/Python/comments/uorm0d/best_python_compiler_for_ios/)
-- [Developing a multiplayer co-op zombie survival in pygame and python!](https://www.reddit.com/r/Python/comments/uorh3v/developing_a_multiplayer_coop_zombie_survival_in/)
 <!-- BLOG-POST-LIST:END -->
