@@ -12,5 +12,5 @@
 - [[Blog] Analyzing film language with computer vision](https://www.reddit.com/r/Python/comments/uotiye/blog_analyzing_film_language_with_computer_vision/)
 - [A python project i made. Thought it was kinda cool.](https://www.reddit.com/r/Python/comments/uot8i8/a_python_project_i_made_thought_it_was_kinda_cool/)
 - [Detailing PyTermGUI&#39;s brand new layout system](https://www.reddit.com/r/Python/comments/uot805/detailing_pytermguis_brand_new_layout_system/)
-- [Learning Path](https://www.reddit.com/r/Python/comments/uos3my/learning_path/)
+- [Article explaining concurrency using Python](https://www.reddit.com/r/Python/comments/uoryl5/article_explaining_concurrency_using_python/)
 <!-- BLOG-POST-LIST:END -->
