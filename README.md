@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finding the roots to a function over a Period of time &lpar;PYTHON&rpar;](https://www.reddit.com/r/Python/comments/uol3xw/finding_the_roots_to_a_function_over_a_period_of/)
 - [GnomansLand - The Reinforcement Learning Simulation Game built in Python](https://www.reddit.com/r/Python/comments/uoehgt/gnomansland_the_reinforcement_learning_simulation/)
 - [PyCharm Professional](https://www.reddit.com/r/Python/comments/uod18z/pycharm_professional/)
 - [The best Python web scraping libraries](https://www.reddit.com/r/Python/comments/uo9f9a/the_best_python_web_scraping_libraries/)
 - [Anyone fully automated their job?](https://www.reddit.com/r/Python/comments/uo8kzu/anyone_fully_automated_their_job/)
-- [Faster, more memory-efficient Python JSON parsing with msgspec](https://www.reddit.com/r/Python/comments/uo83sv/faster_more_memoryefficient_python_json_parsing/)
 <!-- BLOG-POST-LIST:END -->
