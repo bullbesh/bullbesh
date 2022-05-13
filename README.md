@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [video game idea](https://www.reddit.com/r/Python/comments/uosbak/video_game_idea/)
-- [Learning Path](https://www.reddit.com/r/Python/comments/uos3my/learning_path/)
-- [Article explaining concurrency using Python](https://www.reddit.com/r/Python/comments/uoryl5/article_explaining_concurrency_using_python/)
-- [Does anyone use Python for a Data Science position? If so, what are the best python libraries to get familiar with for data science?](https://www.reddit.com/r/Python/comments/uorxt5/does_anyone_use_python_for_a_data_science/)
-- [Best Python Compiler for IOS](https://www.reddit.com/r/Python/comments/uorm0d/best_python_compiler_for_ios/)
+- [[Blog] Analyzing film language with computer vision](https://www.reddit.com/r/Python/comments/uotiye/blog_analyzing_film_language_with_computer_vision/)
+- [&#39;in&#39; keyword error](https://www.reddit.com/r/Python/comments/uotdu7/in_keyword_error/)
+- [A python project i made. Thought it was kinda cool.](https://www.reddit.com/r/Python/comments/uot8i8/a_python_project_i_made_thought_it_was_kinda_cool/)
+- [Detailing PyTermGUI&#39;s brand new layout system](https://www.reddit.com/r/Python/comments/uot805/detailing_pytermguis_brand_new_layout_system/)
+- [Python/Django](https://www.reddit.com/r/Python/comments/uot3tw/pythondjango/)
 <!-- BLOG-POST-LIST:END -->
