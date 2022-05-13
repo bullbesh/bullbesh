@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [looking for a module to do some interactions with a webpage](https://www.reddit.com/r/Python/comments/uoqmmk/looking_for_a_module_to_do_some_interactions_with/)
-- [Build a Todo App With PyScript](https://www.reddit.com/r/Python/comments/uopuvs/build_a_todo_app_with_pyscript/)
-- [Python Cheatsheet for Beginners - Data Science, ML, AI](https://www.reddit.com/r/Python/comments/uopksk/python_cheatsheet_for_beginners_data_science_ml_ai/)
-- [How To Profile Python Code](https://www.reddit.com/r/Python/comments/uope4w/how_to_profile_python_code/)
-- [Building a toy Python @dataclass decorator](https://www.reddit.com/r/Python/comments/uopbgq/building_a_toy_python_dataclass_decorator/)
+- [Learning Path](https://www.reddit.com/r/Python/comments/uos3my/learning_path/)
+- [Article explaining concurrency using Python](https://www.reddit.com/r/Python/comments/uoryl5/article_explaining_concurrency_using_python/)
+- [Does anyone use Python for a Data Science position? If so, what are the best python libraries to get familiar with for data science?](https://www.reddit.com/r/Python/comments/uorxt5/does_anyone_use_python_for_a_data_science/)
+- [Best Python Compiler for IOS](https://www.reddit.com/r/Python/comments/uorm0d/best_python_compiler_for_ios/)
+- [Developing a multiplayer co-op zombie survival in pygame and python!](https://www.reddit.com/r/Python/comments/uorh3v/developing_a_multiplayer_coop_zombie_survival_in/)
 <!-- BLOG-POST-LIST:END -->
