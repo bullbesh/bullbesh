@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I want to learn python](https://www.reddit.com/r/Python/comments/uoom6w/i_want_to_learn_python/)
+- [Keeping Tabs With The Hashnode Writeathon Part 2](https://www.reddit.com/r/Python/comments/uoodc5/keeping_tabs_with_the_hashnode_writeathon_part_2/)
+- [How I created the tranquil autumn air within 99 lines of Python code](https://www.reddit.com/r/Python/comments/uonx6w/how_i_created_the_tranquil_autumn_air_within_99/)
 - [Essential Best Python Courses on Coursera to learn Python Skills in 2022](https://www.reddit.com/r/Python/comments/uonr72/essential_best_python_courses_on_coursera_to/)
 - [My first DRF project - blog API](https://www.reddit.com/r/Python/comments/uon5ur/my_first_drf_project_blog_api/)
-- [Finding the roots to a function over a Period of time &lpar;PYTHON&rpar;](https://www.reddit.com/r/Python/comments/uol3xw/finding_the_roots_to_a_function_over_a_period_of/)
-- [GnomansLand - The Reinforcement Learning Simulation Game built in Python](https://www.reddit.com/r/Python/comments/uoehgt/gnomansland_the_reinforcement_learning_simulation/)
-- [PyCharm Professional](https://www.reddit.com/r/Python/comments/uod18z/pycharm_professional/)
 <!-- BLOG-POST-LIST:END -->
