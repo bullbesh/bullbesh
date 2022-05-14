@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [how to create push notifications for mobile](https://www.reddit.com/r/Python/comments/upshmy/how_to_create_push_notifications_for_mobile/)
 - [Python is not converting to iso-8891-1 ?](https://www.reddit.com/r/Python/comments/uprgiw/python_is_not_converting_to_iso88911/)
 - [Basic Regression With Tensorflow and Keras](https://www.reddit.com/r/Python/comments/upqv4o/basic_regression_with_tensorflow_and_keras/)
 - [GoogleLocationUtility - tag photos + other stuff using your Location History data](https://www.reddit.com/r/Python/comments/uppsft/googlelocationutility_tag_photos_other_stuff/)
 - [Anaconda | New Release: Anaconda Distribution Now Supporting M1](https://www.reddit.com/r/Python/comments/uppk0k/anaconda_new_release_anaconda_distribution_now/)
-- [Brawler - My street fighter clone in pygame &lpar;code in comments&rpar;](https://www.reddit.com/r/Python/comments/upp4lp/brawler_my_street_fighter_clone_in_pygame_code_in/)
 <!-- BLOG-POST-LIST:END -->
