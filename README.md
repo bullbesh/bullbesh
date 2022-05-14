@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pycket: Racket/Scheme on RPython framework](https://www.reddit.com/r/Python/comments/upixuu/pycket_racketscheme_on_rpython_framework/)
+- [New update with Friday night Funkin&#39; in Python &lpar;v1.7&rpar;](https://www.reddit.com/r/Python/comments/upikms/new_update_with_friday_night_funkin_in_python_v17/)
 - [Hot profiling for Python](https://www.reddit.com/r/Python/comments/uphgh8/hot_profiling_for_python/)
 - [Tensorflow Regression Explained With Predicting Fuel Efficiency](https://www.reddit.com/r/Python/comments/upfdzj/tensorflow_regression_explained_with_predicting/)
 - [Package for Literature Review and Making Co-citation Maps](https://www.reddit.com/r/Python/comments/updngs/package_for_literature_review_and_making/)
-- [Latest BrainComputer/Neuralunk related hackable source code or git ?](https://www.reddit.com/r/Python/comments/upd2pr/latest_braincomputerneuralunk_related_hackable/)
-- [20 Python Packages That Are Actually Great!](https://www.reddit.com/r/Python/comments/upco1k/20_python_packages_that_are_actually_great/)
 <!-- BLOG-POST-LIST:END -->
