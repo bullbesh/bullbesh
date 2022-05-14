@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [free course on building and sharing machine learning demos in python](https://www.reddit.com/r/Python/comments/up5jha/free_course_on_building_and_sharing_machine/)
+- [Looking for career advice for a self-taught programmer](https://www.reddit.com/r/Python/comments/up5f2u/looking_for_career_advice_for_a_selftaught/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/up4vg6/saturday_daily_thread_resource_request_and/)
+- [Coolness 100 readability 0](https://www.reddit.com/r/Python/comments/up4dli/coolness_100_readability_0/)
 - [Proposing a change or core feature upgrade.](https://www.reddit.com/r/Python/comments/up2zmu/proposing_a_change_or_core_feature_upgrade/)
-- [lt-autosnap - Tool for automating snapshots of LVM thin volumes](https://www.reddit.com/r/Python/comments/up2d3f/ltautosnap_tool_for_automating_snapshots_of_lvm/)
-- [10 Commands to Get Started With Docker Containers](https://www.reddit.com/r/Python/comments/up1421/10_commands_to_get_started_with_docker_containers/)
-- [Simple Hot Reloader for Simple Scripts](https://www.reddit.com/r/Python/comments/uoyf0j/simple_hot_reloader_for_simple_scripts/)
-- [Visualizing three columns of a dataframe in a chart [Pandas,Seaborn]](https://www.reddit.com/r/Python/comments/uoy9bw/visualizing_three_columns_of_a_dataframe_in_a/)
 <!-- BLOG-POST-LIST:END -->
