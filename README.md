@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tensorflow Regression Explained With Predicting Fuel Efficiency](https://www.reddit.com/r/Python/comments/upfdzj/tensorflow_regression_explained_with_predicting/)
 - [Package for Literature Review and Making Co-citation Maps](https://www.reddit.com/r/Python/comments/updngs/package_for_literature_review_and_making/)
 - [Latest BrainComputer/Neuralunk related hackable source code or git ?](https://www.reddit.com/r/Python/comments/upd2pr/latest_braincomputerneuralunk_related_hackable/)
 - [20 Python Packages That Are Actually Great!](https://www.reddit.com/r/Python/comments/upco1k/20_python_packages_that_are_actually_great/)
 - [PyScript: Running Python in the browser &lpar;my first impressions&rpar;](https://www.reddit.com/r/Python/comments/upcl4l/pyscript_running_python_in_the_browser_my_first/)
-- [Pandas Tutor - visualize Python pandas code](https://www.reddit.com/r/Python/comments/upbhyh/pandas_tutor_visualize_python_pandas_code/)
 <!-- BLOG-POST-LIST:END -->
