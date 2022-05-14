@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Package for Literature Review and Making Co-citation Maps](https://www.reddit.com/r/Python/comments/updngs/package_for_literature_review_and_making/)
 - [Latest BrainComputer/Neuralunk related hackable source code or git ?](https://www.reddit.com/r/Python/comments/upd2pr/latest_braincomputerneuralunk_related_hackable/)
 - [Can anyone help me what are the error here in below code? &lpar;Converting number to Roman Number&rpar;](https://www.reddit.com/r/Python/comments/upcsvr/can_anyone_help_me_what_are_the_error_here_in/)
 - [20 Python Packages That Are Actually Great!](https://www.reddit.com/r/Python/comments/upco1k/20_python_packages_that_are_actually_great/)
 - [PyScript: Running Python in the browser &lpar;my first impressions&rpar;](https://www.reddit.com/r/Python/comments/upcl4l/pyscript_running_python_in_the_browser_my_first/)
-- [Pandas Tutor - visualize Python pandas code](https://www.reddit.com/r/Python/comments/upbhyh/pandas_tutor_visualize_python_pandas_code/)
 <!-- BLOG-POST-LIST:END -->
