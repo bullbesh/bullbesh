@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Video Where Title and Thumbnail Change to Reflect Views and Subscribers](https://www.reddit.com/r/Python/comments/upo1bc/youtube_video_where_title_and_thumbnail_change_to/)
 - [pandas GroupBy: Your Guide to Grouping Data in Python – Real Python](https://www.reddit.com/r/Python/comments/upmoec/pandas_groupby_your_guide_to_grouping_data_in/)
 - [Fast tools finding/updating symbol references in large Python repos](https://www.reddit.com/r/Python/comments/upmjal/fast_tools_findingupdating_symbol_references_in/)
 - [rpi-controls, a new library to work with physical buttons connected to a Raspberry PI](https://www.reddit.com/r/Python/comments/upmcdk/rpicontrols_a_new_library_to_work_with_physical/)
 - [Bricks Breaker Game in Python with source code](https://www.reddit.com/r/Python/comments/upmb4m/bricks_breaker_game_in_python_with_source_code/)
-- [Easily backup your GitHub repositories](https://www.reddit.com/r/Python/comments/upln1h/easily_backup_your_github_repositories/)
 <!-- BLOG-POST-LIST:END -->
