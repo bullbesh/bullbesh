@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [how to solve this problem &lpar;error&rpar;](https://www.reddit.com/r/Python/comments/uq9mz8/how_to_solve_this_problem_error/)
+- [Where do I keep my shared private package?](https://www.reddit.com/r/Python/comments/uq8zmt/where_do_i_keep_my_shared_private_package/)
+- [Programmer&#39;s guide to Python website](https://www.reddit.com/r/Python/comments/uq8r6b/programmers_guide_to_python_website/)
+- [I made a Reddit bot](https://www.reddit.com/r/Python/comments/uq8d5c/i_made_a_reddit_bot/)
 - [dimutex: asyncio Python library for distributed mutex with GCS as a backend](https://www.reddit.com/r/Python/comments/uq7x81/dimutex_asyncio_python_library_for_distributed/)
-- [Demot - A Fighting Game](https://www.reddit.com/r/Python/comments/uq6znm/demot_a_fighting_game/)
-- [The Kaggle Book: Data Analysis and Machine Learning for Competitive Data Science eBook](https://www.reddit.com/r/Python/comments/uq6o3e/the_kaggle_book_data_analysis_and_machine/)
-- [My method to get around of the &quot;UnicodeEncodeError: &#39;utf-8&#39; codec can&#39;t encode character ...: surrogates not allowed&quot; when dealing with locale datetime](https://www.reddit.com/r/Python/comments/uq5pjw/my_method_to_get_around_of_the_unicodeencodeerror/)
-- [Ascii Video K.O](https://www.reddit.com/r/Python/comments/uq3z36/ascii_video_ko/)
 <!-- BLOG-POST-LIST:END -->
