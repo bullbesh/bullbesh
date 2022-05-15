@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is turtle called twice here?](https://www.reddit.com/r/Python/comments/upw9u0/why_is_turtle_called_twice_here/)
+- [I spent 4 years developing a search engine just for food and finally launched the first-ever realtime menu API for almost all restaurants and grocery stores in the US+Canada. Here&#39;s a tutorial of how to make a sample app using the API with Python backend and Swift frontend.](https://www.reddit.com/r/Python/comments/upw4xn/i_spent_4_years_developing_a_search_engine_just/)
 - [My second small project: A Budget Calculator](https://www.reddit.com/r/Python/comments/upvly4/my_second_small_project_a_budget_calculator/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/uptmup/sunday_daily_thread_whats_everyone_working_on/)
 - [how to create push notifications for mobile](https://www.reddit.com/r/Python/comments/upshmy/how_to_create_push_notifications_for_mobile/)
-- [Python is not converting to iso-8891-1 ?](https://www.reddit.com/r/Python/comments/uprgiw/python_is_not_converting_to_iso88911/)
-- [Basic Regression With Tensorflow and Keras](https://www.reddit.com/r/Python/comments/upqv4o/basic_regression_with_tensorflow_and_keras/)
 <!-- BLOG-POST-LIST:END -->
