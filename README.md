@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for Python Text Graphic Designer](https://www.reddit.com/r/Python/comments/uqc1kp/looking_for_python_text_graphic_designer/)
+- [Are there any tutorials on how to create Sybil attacks via multiple social media accounts?](https://www.reddit.com/r/Python/comments/uqbxv4/are_there_any_tutorials_on_how_to_create_sybil/)
+- [Autotune using Python](https://www.reddit.com/r/Python/comments/uqboah/autotune_using_python/)
+- [I use a lot of for loops in programming](https://www.reddit.com/r/Python/comments/uqb0ca/i_use_a_lot_of_for_loops_in_programming/)
 - [Philosophy from The Zen of Python, by Tim Peters](https://www.reddit.com/r/Python/comments/uqan0o/philosophy_from_the_zen_of_python_by_tim_peters/)
-- [Web Scraping with Python: Everything you need to know to get started &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/uqabuy/web_scraping_with_python_everything_you_need_to/)
-- [How sophisticated are bots?](https://www.reddit.com/r/Python/comments/uqab4n/how_sophisticated_are_bots/)
-- [Where do I keep my shared private package?](https://www.reddit.com/r/Python/comments/uq8zmt/where_do_i_keep_my_shared_private_package/)
-- [Programmer&#39;s guide to Python website](https://www.reddit.com/r/Python/comments/uq8r6b/programmers_guide_to_python_website/)
 <!-- BLOG-POST-LIST:END -->
