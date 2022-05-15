@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [how to solve this problem &lpar;error&rpar;](https://www.reddit.com/r/Python/comments/uq9mz8/how_to_solve_this_problem_error/)
+- [Philosophy from The Zen of Python, by Tim Peters](https://www.reddit.com/r/Python/comments/uqan0o/philosophy_from_the_zen_of_python_by_tim_peters/)
+- [Web Scraping with Python: Everything you need to know to get started &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/uqabuy/web_scraping_with_python_everything_you_need_to/)
+- [How sophisticated are bots?](https://www.reddit.com/r/Python/comments/uqab4n/how_sophisticated_are_bots/)
 - [Where do I keep my shared private package?](https://www.reddit.com/r/Python/comments/uq8zmt/where_do_i_keep_my_shared_private_package/)
 - [Programmer&#39;s guide to Python website](https://www.reddit.com/r/Python/comments/uq8r6b/programmers_guide_to_python_website/)
-- [I made a Reddit bot](https://www.reddit.com/r/Python/comments/uq8d5c/i_made_a_reddit_bot/)
-- [dimutex: asyncio Python library for distributed mutex with GCS as a backend](https://www.reddit.com/r/Python/comments/uq7x81/dimutex_asyncio_python_library_for_distributed/)
 <!-- BLOG-POST-LIST:END -->
