@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [cpython smart contracts](https://www.reddit.com/r/Python/comments/uqxaqi/cpython_smart_contracts/)
-- [Is anyone using Thonny ? Under Tools-&gt;Manage Packages-&gt;Search Textbox, how do you download an older version of a package ?](https://www.reddit.com/r/Python/comments/uqx10j/is_anyone_using_thonny_under_toolsmanage/)
-- [Hey there! I recently completed a tutorial on training a BERT model in Python to predict film review scores out of 10 based on a written review. You can check out the tutorial and interactive demo by following the link below!](https://www.reddit.com/r/Python/comments/uqubl3/hey_there_i_recently_completed_a_tutorial_on/)
-- [Top 5 Places to Learn Python Online for Free](https://www.reddit.com/r/Python/comments/uqtsnq/top_5_places_to_learn_python_online_for_free/)
-- [AI converts Python to C++ code [OpenAI Codex]](https://www.reddit.com/r/Python/comments/uqt5jp/ai_converts_python_to_c_code_openai_codex/)
+- [Developed a platform to analyze packages/libraries](https://www.reddit.com/r/Python/comments/uqzx6z/developed_a_platform_to_analyze_packageslibraries/)
+- [static-frame: Immutable and grow-only Pandas-like DataFrames with a more explicit and consistent interface.](https://www.reddit.com/r/Python/comments/uqztk1/staticframe_immutable_and_growonly_pandaslike/)
+- [Which is the fastest way to iterate a list in python? Here the answer!](https://www.reddit.com/r/Python/comments/uqz237/which_is_the_fastest_way_to_iterate_a_list_in/)
+- [Am I just bad at programming?](https://www.reddit.com/r/Python/comments/uqyzy2/am_i_just_bad_at_programming/)
+- [Mixed types of numeric data in the statistics module](https://www.reddit.com/r/Python/comments/uqyql9/mixed_types_of_numeric_data_in_the_statistics/)
 <!-- BLOG-POST-LIST:END -->
