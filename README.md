@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build an Image Search Engine in Minutes](https://www.reddit.com/r/Python/comments/uqpuo8/build_an_image_search_engine_in_minutes/)
+- [Introduction to OpenCV and Image Processing with Python](https://www.reddit.com/r/Python/comments/uqpnhb/introduction_to_opencv_and_image_processing_with/)
+- [Why isnt this code running?&lpar; i am a beginner, no judgements please&rpar;](https://www.reddit.com/r/Python/comments/uqpn1w/why_isnt_this_code_running_i_am_a_beginner_no/)
 - [Reading Nvidia financial reports from SEC filings with the help of NLP](https://www.reddit.com/r/Python/comments/uqp26j/reading_nvidia_financial_reports_from_sec_filings/)
 - [Python Static Analysis Tools](https://www.reddit.com/r/Python/comments/uqnx1e/python_static_analysis_tools/)
-- [File format for large data with many columns](https://www.reddit.com/r/Python/comments/uqnt7k/file_format_for_large_data_with_many_columns/)
-- [Thoughts on creating a website that shows graphs - data sourced from Redshift](https://www.reddit.com/r/Python/comments/uqnilf/thoughts_on_creating_a_website_that_shows_graphs/)
-- [Vulnerability in Python that allows calling system commands from sandboxed scripts](https://www.reddit.com/r/Python/comments/uqn8vh/vulnerability_in_python_that_allows_calling/)
 <!-- BLOG-POST-LIST:END -->
