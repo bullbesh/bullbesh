@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Static Analysis Tools](https://www.reddit.com/r/Python/comments/uqnx1e/python_static_analysis_tools/)
+- [File format for large data with many columns](https://www.reddit.com/r/Python/comments/uqnt7k/file_format_for_large_data_with_many_columns/)
 - [Thoughts on creating a website that shows graphs - data sourced from Redshift](https://www.reddit.com/r/Python/comments/uqnilf/thoughts_on_creating_a_website_that_shows_graphs/)
 - [Vulnerability in Python that allows calling system commands from sandboxed scripts](https://www.reddit.com/r/Python/comments/uqn8vh/vulnerability_in_python_that_allows_calling/)
 - [Tips and snippets that can make your life with PyYAML easier.](https://www.reddit.com/r/Python/comments/uqmsyf/tips_and_snippets_that_can_make_your_life_with/)
-- [I want to learn python to help myself make more money by automating something. Where do I start?](https://www.reddit.com/r/Python/comments/uqmsx1/i_want_to_learn_python_to_help_myself_make_more/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/uqixn0/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
