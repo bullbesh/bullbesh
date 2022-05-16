@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Thumbnail Shows Current Cryptocurrency Prices](https://www.reddit.com/r/Python/comments/ur7o62/youtube_thumbnail_shows_current_cryptocurrency/)
+- [How To Extract Data From The Twitter API Using Python](https://www.reddit.com/r/Python/comments/ur7lcd/how_to_extract_data_from_the_twitter_api_using/)
+- [Is really map &lpar;and similars like filter or reduce&rpar; harder to understand than other methods?](https://www.reddit.com/r/Python/comments/ur6m2z/is_really_map_and_similars_like_filter_or_reduce/)
 - [I can help students with assignments /problems who are learning Python.](https://www.reddit.com/r/Python/comments/ur642w/i_can_help_students_with_assignments_problems_who/)
 - [Anyone have any freelance tips for Python devs?](https://www.reddit.com/r/Python/comments/ur58ud/anyone_have_any_freelance_tips_for_python_devs/)
-- [Blackjack code](https://www.reddit.com/r/Python/comments/ur4u4t/blackjack_code/)
-- [Developed a platform to analyze packages/libraries](https://www.reddit.com/r/Python/comments/uqzx6z/developed_a_platform_to_analyze_packageslibraries/)
-- [static-frame: Immutable and grow-only Pandas-like DataFrames with a more explicit and consistent interface.](https://www.reddit.com/r/Python/comments/uqztk1/staticframe_immutable_and_growonly_pandaslike/)
 <!-- BLOG-POST-LIST:END -->
