@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I can help students with assignments /problems who are learning Python.](https://www.reddit.com/r/Python/comments/ur642w/i_can_help_students_with_assignments_problems_who/)
+- [Anyone have any freelance tips for Python devs?](https://www.reddit.com/r/Python/comments/ur58ud/anyone_have_any_freelance_tips_for_python_devs/)
 - [Blackjack code](https://www.reddit.com/r/Python/comments/ur4u4t/blackjack_code/)
-- [PNG / JPG to turtle code](https://www.reddit.com/r/Python/comments/ur2tbl/png_jpg_to_turtle_code/)
 - [Developed a platform to analyze packages/libraries](https://www.reddit.com/r/Python/comments/uqzx6z/developed_a_platform_to_analyze_packageslibraries/)
 - [static-frame: Immutable and grow-only Pandas-like DataFrames with a more explicit and consistent interface.](https://www.reddit.com/r/Python/comments/uqztk1/staticframe_immutable_and_growonly_pandaslike/)
-- [Which is the fastest way to iterate a list in python? Here the answer!](https://www.reddit.com/r/Python/comments/uqz237/which_is_the_fastest_way_to_iterate_a_list_in/)
 <!-- BLOG-POST-LIST:END -->
