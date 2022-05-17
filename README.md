@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to send an email with Python | From your Gmail account](https://www.reddit.com/r/Python/comments/urfvn1/how_to_send_an_email_with_python_from_your_gmail/)
 - [Interesting, let&#39;s listen to the sound of the CPU](https://www.reddit.com/r/Python/comments/urf0wd/interesting_lets_listen_to_the_sound_of_the_cpu/)
 - [Best way to learn Python coming from support engineer background](https://www.reddit.com/r/Python/comments/urf0lk/best_way_to_learn_python_coming_from_support/)
 - [Could you learn enough about data structures in a month to pass a FAANG test?](https://www.reddit.com/r/Python/comments/urcn4m/could_you_learn_enough_about_data_structures_in_a/)
 - [I made a terminal based snake game using Python and Curses](https://www.reddit.com/r/Python/comments/urc1w6/i_made_a_terminal_based_snake_game_using_python/)
-- [Announcing giphpy. A better GIPHY API client that supports both a sync and async api.](https://www.reddit.com/r/Python/comments/urbrbi/announcing_giphpy_a_better_giphy_api_client_that/)
 <!-- BLOG-POST-LIST:END -->
