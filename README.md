@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [anyone tell me how to loop this task in PYTH](https://www.reddit.com/r/Python/comments/urwwh9/anyone_tell_me_how_to_loop_this_task_in_pyth/)
+- [What&#39;s up with uint64 in numpy?](https://www.reddit.com/r/Python/comments/urwoto/whats_up_with_uint64_in_numpy/)
 - [Pandas DataFrame With Tensorflow Explained!](https://www.reddit.com/r/Python/comments/uruukm/pandas_dataframe_with_tensorflow_explained/)
 - [New Python Package for ISO 639 Language Codes](https://www.reddit.com/r/Python/comments/ursa30/new_python_package_for_iso_639_language_codes/)
 - [How do we make a gauge theory economic chart similar to Eric Weinstein&#39;s meteorological analogy?](https://www.reddit.com/r/Python/comments/urrtcq/how_do_we_make_a_gauge_theory_economic_chart/)
-- [Using Python and OpenCV for an Autonomous Driving Robot [Visual servoing]](https://www.reddit.com/r/Python/comments/urq21c/using_python_and_opencv_for_an_autonomous_driving/)
-- [How to design and implement real-time controllable lowpass or highpass filters for musical applications in Python? Python is a great alternative to Matlab for digital signal processing prototypes :&rpar;](https://www.reddit.com/r/Python/comments/urpxwv/how_to_design_and_implement_realtime_controllable/)
 <!-- BLOG-POST-LIST:END -->
