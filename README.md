@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Improving code design with opentelemetry, a FastAPI example](https://www.reddit.com/r/Python/comments/urotnp/improving_code_design_with_opentelemetry_a/)
-- [help on a project](https://www.reddit.com/r/Python/comments/urodc4/help_on_a_project/)
-- [Speed Up Web Scraping with Concurrency in Python - ZenRows](https://www.reddit.com/r/Python/comments/uro6ag/speed_up_web_scraping_with_concurrency_in_python/)
-- [Data-Driven ML Credit Card Fraud Detection](https://www.reddit.com/r/Python/comments/urn9zg/datadriven_ml_credit_card_fraud_detection/)
-- [Deep Dive into Real-World Image Search Engine with Python](https://www.reddit.com/r/Python/comments/urn442/deep_dive_into_realworld_image_search_engine_with/)
+- [Using Python and OpenCV for an Autonomous Driving Robot [Visual servoing]](https://www.reddit.com/r/Python/comments/urq21c/using_python_and_opencv_for_an_autonomous_driving/)
+- [How to design and implement real-time controllable lowpass or highpass filters for musical applications in Python? Python is a great alternative to Matlab for digital signal processing prototypes :&rpar;](https://www.reddit.com/r/Python/comments/urpxwv/how_to_design_and_implement_realtime_controllable/)
+- [Which Python Addon to use](https://www.reddit.com/r/Python/comments/urpcym/which_python_addon_to_use/)
+- [How to do Face Detection with Python?](https://www.reddit.com/r/Python/comments/urp8dc/how_to_do_face_detection_with_python/)
+- [I made a TPB movie streamer](https://www.reddit.com/r/Python/comments/urp6cd/i_made_a_tpb_movie_streamer/)
 <!-- BLOG-POST-LIST:END -->
