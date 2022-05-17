@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Improving code design with opentelemetry, a FastAPI example](https://www.reddit.com/r/Python/comments/urotnp/improving_code_design_with_opentelemetry_a/)
+- [help on a project](https://www.reddit.com/r/Python/comments/urodc4/help_on_a_project/)
+- [Speed Up Web Scraping with Concurrency in Python - ZenRows](https://www.reddit.com/r/Python/comments/uro6ag/speed_up_web_scraping_with_concurrency_in_python/)
 - [Data-Driven ML Credit Card Fraud Detection](https://www.reddit.com/r/Python/comments/urn9zg/datadriven_ml_credit_card_fraud_detection/)
 - [Deep Dive into Real-World Image Search Engine with Python](https://www.reddit.com/r/Python/comments/urn442/deep_dive_into_realworld_image_search_engine_with/)
-- [Looking for more experienced people advice!](https://www.reddit.com/r/Python/comments/urmc8x/looking_for_more_experienced_people_advice/)
-- [Pipenv or venv?](https://www.reddit.com/r/Python/comments/urm9mv/pipenv_or_venv/)
-- [Introducing Woodwork - An Open Source Python Library for Rich Semantic Data Typing](https://www.reddit.com/r/Python/comments/urlgin/introducing_woodwork_an_open_source_python/)
 <!-- BLOG-POST-LIST:END -->
