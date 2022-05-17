@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Could you learn enough about data structures in a month to pass a FAANG test?](https://www.reddit.com/r/Python/comments/urcn4m/could_you_learn_enough_about_data_structures_in_a/)
+- [I made a terminal based snake game using Python and Curses](https://www.reddit.com/r/Python/comments/urc1w6/i_made_a_terminal_based_snake_game_using_python/)
+- [Announcing giphpy. A better GIPHY API client that supports both a sync and async api.](https://www.reddit.com/r/Python/comments/urbrbi/announcing_giphpy_a_better_giphy_api_client_that/)
 - [Trying ti find an api with geolocation data and current news.](https://www.reddit.com/r/Python/comments/urbehq/trying_ti_find_an_api_with_geolocation_data_and/)
 - [Python 3.10 Match statements are 86% faster than If statements](https://www.reddit.com/r/Python/comments/ur9t92/python_310_match_statements_are_86_faster_than_if/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/ur9n76/tuesday_daily_thread_advanced_questions/)
-- [YouTube Thumbnail Shows Current Cryptocurrency Prices](https://www.reddit.com/r/Python/comments/ur7o62/youtube_thumbnail_shows_current_cryptocurrency/)
-- [How To Extract Data From The Twitter API Using Python](https://www.reddit.com/r/Python/comments/ur7lcd/how_to_extract_data_from_the_twitter_api_using/)
 <!-- BLOG-POST-LIST:END -->
