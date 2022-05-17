@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Python Package for ISO 639 Language Codes](https://www.reddit.com/r/Python/comments/ursa30/new_python_package_for_iso_639_language_codes/)
+- [How do we make a gauge theory economic chart similar to Eric Weinstein&#39;s meteorological analogy?](https://www.reddit.com/r/Python/comments/urrtcq/how_do_we_make_a_gauge_theory_economic_chart/)
 - [Using Python and OpenCV for an Autonomous Driving Robot [Visual servoing]](https://www.reddit.com/r/Python/comments/urq21c/using_python_and_opencv_for_an_autonomous_driving/)
 - [How to design and implement real-time controllable lowpass or highpass filters for musical applications in Python? Python is a great alternative to Matlab for digital signal processing prototypes :&rpar;](https://www.reddit.com/r/Python/comments/urpxwv/how_to_design_and_implement_realtime_controllable/)
 - [Which Python Addon to use](https://www.reddit.com/r/Python/comments/urpcym/which_python_addon_to_use/)
-- [How to do Face Detection with Python?](https://www.reddit.com/r/Python/comments/urp8dc/how_to_do_face_detection_with_python/)
-- [I made a TPB movie streamer](https://www.reddit.com/r/Python/comments/urp6cd/i_made_a_tpb_movie_streamer/)
 <!-- BLOG-POST-LIST:END -->
