@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a bitcoin wallet generator in python](https://www.reddit.com/r/Python/comments/urk5f2/i_made_a_bitcoin_wallet_generator_in_python/)
+- [The key differences between Python 2.7.x and Python 3.x with examples](https://www.reddit.com/r/Python/comments/urjsfq/the_key_differences_between_python_27x_and_python/)
+- [Best sources for python!](https://www.reddit.com/r/Python/comments/urjjxb/best_sources_for_python/)
 - [I made a functional programming tool for python](https://www.reddit.com/r/Python/comments/urj5xj/i_made_a_functional_programming_tool_for_python/)
 - [suggestion for python courses in udemy or anyother website](https://www.reddit.com/r/Python/comments/urij7b/suggestion_for_python_courses_in_udemy_or/)
-- [Warehouse worker paths - how to calculate edges in complete graph?](https://www.reddit.com/r/Python/comments/urhwyz/warehouse_worker_paths_how_to_calculate_edges_in/)
-- [GUI for PyInstaller, based on modern theme for Tkinker - The easy way to use PyInstaller with minimal command line usage.](https://www.reddit.com/r/Python/comments/urho9t/gui_for_pyinstaller_based_on_modern_theme_for/)
-- [Animating Regular Expressions With Python and Graphviz](https://www.reddit.com/r/Python/comments/urhczd/animating_regular_expressions_with_python_and/)
 <!-- BLOG-POST-LIST:END -->
