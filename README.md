@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data-Driven ML Credit Card Fraud Detection](https://www.reddit.com/r/Python/comments/urn9zg/datadriven_ml_credit_card_fraud_detection/)
+- [Deep Dive into Real-World Image Search Engine with Python](https://www.reddit.com/r/Python/comments/urn442/deep_dive_into_realworld_image_search_engine_with/)
 - [Looking for more experienced people advice!](https://www.reddit.com/r/Python/comments/urmc8x/looking_for_more_experienced_people_advice/)
 - [Pipenv or venv?](https://www.reddit.com/r/Python/comments/urm9mv/pipenv_or_venv/)
 - [Introducing Woodwork - An Open Source Python Library for Rich Semantic Data Typing](https://www.reddit.com/r/Python/comments/urlgin/introducing_woodwork_an_open_source_python/)
-- [How to automate Google Sheets using Python](https://www.reddit.com/r/Python/comments/urlf5w/how_to_automate_google_sheets_using_python/)
-- [I made a bitcoin wallet generator in python](https://www.reddit.com/r/Python/comments/urk5f2/i_made_a_bitcoin_wallet_generator_in_python/)
 <!-- BLOG-POST-LIST:END -->
