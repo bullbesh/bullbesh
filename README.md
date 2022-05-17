@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trying ti find an api with geolocation data and current news.](https://www.reddit.com/r/Python/comments/urbehq/trying_ti_find_an_api_with_geolocation_data_and/)
+- [Python 3.10 Match statements are 86% faster than If statements](https://www.reddit.com/r/Python/comments/ur9t92/python_310_match_statements_are_86_faster_than_if/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/ur9n76/tuesday_daily_thread_advanced_questions/)
 - [YouTube Thumbnail Shows Current Cryptocurrency Prices](https://www.reddit.com/r/Python/comments/ur7o62/youtube_thumbnail_shows_current_cryptocurrency/)
 - [How To Extract Data From The Twitter API Using Python](https://www.reddit.com/r/Python/comments/ur7lcd/how_to_extract_data_from_the_twitter_api_using/)
-- [Is really map &lpar;and similars like filter or reduce&rpar; harder to understand than other methods?](https://www.reddit.com/r/Python/comments/ur6m2z/is_really_map_and_similars_like_filter_or_reduce/)
-- [I can help students with assignments /problems who are learning Python.](https://www.reddit.com/r/Python/comments/ur642w/i_can_help_students_with_assignments_problems_who/)
-- [Anyone have any freelance tips for Python devs?](https://www.reddit.com/r/Python/comments/ur58ud/anyone_have_any_freelance_tips_for_python_devs/)
 <!-- BLOG-POST-LIST:END -->
