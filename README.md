@@ -8,8 +8,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recommendations pre study for 8 week Python MBA course](https://www.reddit.com/r/Python/comments/usn1pn/recommendations_pre_study_for_8_week_python_mba/)
 - [What does -m flag do when running a python scripts.](https://www.reddit.com/r/Python/comments/uskr27/what_does_m_flag_do_when_running_a_python_scripts/)
-- [Best course for web development or DevOps?](https://www.reddit.com/r/Python/comments/usk4am/best_course_for_web_development_or_devops/)
 - [Arcade 2.6.14 has been released &lpar;2D game library&rpar;](https://www.reddit.com/r/Python/comments/usjg8k/arcade_2614_has_been_released_2d_game_library/)
 - [Fill your images with amogi using Python!](https://www.reddit.com/r/Python/comments/usiwor/fill_your_images_with_amogi_using_python/)
 - [SQL vs Python for Data Analysis](https://www.reddit.com/r/Python/comments/usi8ph/sql_vs_python_for_data_analysis/)
