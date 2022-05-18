@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Show /r/python: Compare Reddit Sentiment vs FTSE Share Price](https://www.reddit.com/r/Python/comments/usfg2p/show_rpython_compare_reddit_sentiment_vs_ftse/)
 - [Analyzing The activation functions of common neural networks](https://www.reddit.com/r/Python/comments/usenv5/analyzing_the_activation_functions_of_common/)
 - [I made a browser extension for quick nested browsing of the Python docs &lpar;and others&rpar;](https://www.reddit.com/r/Python/comments/usdhpf/i_made_a_browser_extension_for_quick_nested/)
 - [Hey guys, I want to become a programmer but I don’t know where to start. Any ideas ?](https://www.reddit.com/r/Python/comments/usde5j/hey_guys_i_want_to_become_a_programmer_but_i_dont/)
 - [After Shapash, we release Eurybia, a module to monitor drift](https://www.reddit.com/r/Python/comments/usd6pj/after_shapash_we_release_eurybia_a_module_to/)
-- [The 2022 Python Developer Roadmap](https://www.reddit.com/r/Python/comments/usc47b/the_2022_python_developer_roadmap/)
 <!-- BLOG-POST-LIST:END -->
