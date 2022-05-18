@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/urzy9j/wednesday_daily_thread_beginner_questions/)
-- [Mac M1 problems](https://www.reddit.com/r/Python/comments/urzm8k/mac_m1_problems/)
-- [anyone tell me how to loop this task in PYTH](https://www.reddit.com/r/Python/comments/urwwh9/anyone_tell_me_how_to_loop_this_task_in_pyth/)
-- [What&#39;s up with uint64 in numpy?](https://www.reddit.com/r/Python/comments/urwoto/whats_up_with_uint64_in_numpy/)
-- [Pandas DataFrame With Tensorflow Explained!](https://www.reddit.com/r/Python/comments/uruukm/pandas_dataframe_with_tensorflow_explained/)
+- [dbt Python models](https://www.reddit.com/r/Python/comments/us4p2p/dbt_python_models/)
+- [Is this NLP library available in Python?](https://www.reddit.com/r/Python/comments/us49f0/is_this_nlp_library_available_in_python/)
+- [Linear Regression in Python – Real Python](https://www.reddit.com/r/Python/comments/us3ywb/linear_regression_in_python_real_python/)
+- [Gradio Blocks hackathon event - build machine learning web apps in python](https://www.reddit.com/r/Python/comments/us3s36/gradio_blocks_hackathon_event_build_machine/)
+- [i made a program in python to automatically like posts on nightcafe to get credits. it automatically scrolls and clicks the like button. after 10 scrolls of no likes, it refreshes the page.](https://www.reddit.com/r/Python/comments/us3np8/i_made_a_program_in_python_to_automatically_like/)
 <!-- BLOG-POST-LIST:END -->
