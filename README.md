@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [70+ Simple And Advanced Python Projects](https://www.reddit.com/r/Python/comments/us7xzh/70_simple_and_advanced_python_projects/)
+- [Automosaic is my mosaic generator, and it produces some pretty cool timelapse&lpar;s&rpar;!](https://www.reddit.com/r/Python/comments/us7dwo/automosaic_is_my_mosaic_generator_and_it_produces/)
+- [PikaScript - A lightweight Python implementation](https://www.reddit.com/r/Python/comments/us7cdo/pikascript_a_lightweight_python_implementation/)
 - [Automate All the Boring Kubernetes Operations With Python](https://www.reddit.com/r/Python/comments/us72mh/automate_all_the_boring_kubernetes_operations/)
 - [Check out my module for calculating area, center of mass and other geometrical properties for arbitrary 2D shapes: polygon-math](https://www.reddit.com/r/Python/comments/us672d/check_out_my_module_for_calculating_area_center/)
-- [I made a python script to find stallion coders](https://www.reddit.com/r/Python/comments/us5ojk/i_made_a_python_script_to_find_stallion_coders/)
-- [dbt Python models](https://www.reddit.com/r/Python/comments/us4p2p/dbt_python_models/)
-- [Is this NLP library available in Python?](https://www.reddit.com/r/Python/comments/us49f0/is_this_nlp_library_available_in_python/)
 <!-- BLOG-POST-LIST:END -->
