@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [txtai 4.5 released - offload vectorization externally](https://www.reddit.com/r/Python/comments/usafde/txtai_45_released_offload_vectorization_externally/)
+- [I am about to begin learning python from absolute scratch does anyone have any advice,tips,tricks do and donts for me. Or just in general the most efficient way to go about it &lpar;may not be relevant but im 19m&rpar;](https://www.reddit.com/r/Python/comments/usadov/i_am_about_to_begin_learning_python_from_absolute/)
+- [how to create a custom exception in python](https://www.reddit.com/r/Python/comments/usa27d/how_to_create_a_custom_exception_in_python/)
 - [anyone who could help me with tabula while using python . dealing with the encoding parameter and trying to extract info out of a pdf](https://www.reddit.com/r/Python/comments/us87mg/anyone_who_could_help_me_with_tabula_while_using/)
 - [70+ Simple And Advanced Python Projects](https://www.reddit.com/r/Python/comments/us7xzh/70_simple_and_advanced_python_projects/)
-- [Automosaic is my mosaic generator, and it produces some pretty cool timelapse&lpar;s&rpar;!](https://www.reddit.com/r/Python/comments/us7dwo/automosaic_is_my_mosaic_generator_and_it_produces/)
-- [PikaScript - A lightweight Python implementation](https://www.reddit.com/r/Python/comments/us7cdo/pikascript_a_lightweight_python_implementation/)
-- [Automate All the Boring Kubernetes Operations With Python](https://www.reddit.com/r/Python/comments/us72mh/automate_all_the_boring_kubernetes_operations/)
 <!-- BLOG-POST-LIST:END -->
