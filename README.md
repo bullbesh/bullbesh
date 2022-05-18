@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a browser extension for quick nested browsing of the Python docs &lpar;and others&rpar;](https://www.reddit.com/r/Python/comments/usdhpf/i_made_a_browser_extension_for_quick_nested/)
+- [Hey guys, I want to become a programmer but I don’t know where to start. Any ideas ?](https://www.reddit.com/r/Python/comments/usde5j/hey_guys_i_want_to_become_a_programmer_but_i_dont/)
 - [After Shapash, we release Eurybia, a module to monitor drift](https://www.reddit.com/r/Python/comments/usd6pj/after_shapash_we_release_eurybia_a_module_to/)
 - [The 2022 Python Developer Roadmap](https://www.reddit.com/r/Python/comments/usc47b/the_2022_python_developer_roadmap/)
 - [Architecting Django software projects](https://www.reddit.com/r/Python/comments/usazut/architecting_django_software_projects/)
-- [txtai 4.5 released - offload vectorization externally](https://www.reddit.com/r/Python/comments/usafde/txtai_45_released_offload_vectorization_externally/)
-- [how to create a custom exception in python](https://www.reddit.com/r/Python/comments/usa27d/how_to_create_a_custom_exception_in_python/)
 <!-- BLOG-POST-LIST:END -->
