@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Run Python Directly In HTML With PyScript](https://www.reddit.com/r/Python/comments/ut074j/run_python_directly_in_html_with_pyscript/)
+- [I made a documentation driven web-socket framework](https://www.reddit.com/r/Python/comments/uszk2s/i_made_a_documentation_driven_websocket_framework/)
 - [Python web app for creating google accounts](https://www.reddit.com/r/Python/comments/uszf3t/python_web_app_for_creating_google_accounts/)
 - [web scraper to fetch data from coin market cap](https://www.reddit.com/r/Python/comments/uszb3p/web_scraper_to_fetch_data_from_coin_market_cap/)
 - [Using Deep Learning for Programming Language Translation](https://www.reddit.com/r/Python/comments/usyl9y/using_deep_learning_for_programming_language/)
-- [Mocking Exceptions with Python](https://www.reddit.com/r/Python/comments/usyhzc/mocking_exceptions_with_python/)
-- [Envelope: Send email / sign / encrypt / attach files with single line in Python](https://www.reddit.com/r/Python/comments/usy27c/envelope_send_email_sign_encrypt_attach_files/)
 <!-- BLOG-POST-LIST:END -->
