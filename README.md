@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Deep Learning for Programming Language Translation](https://www.reddit.com/r/Python/comments/usyl9y/using_deep_learning_for_programming_language/)
+- [Mocking Exceptions with Python](https://www.reddit.com/r/Python/comments/usyhzc/mocking_exceptions_with_python/)
+- [Envelope: Send email / sign / encrypt / attach files with single line in Python](https://www.reddit.com/r/Python/comments/usy27c/envelope_send_email_sign_encrypt_attach_files/)
 - [My First Approach In Data Science, Credits To Data Professor!](https://www.reddit.com/r/Python/comments/usx2ul/my_first_approach_in_data_science_credits_to_data/)
 - [Python library, quickly build web-based machine learning demos, data science dashboards, or other kinds of web apps](https://www.reddit.com/r/Python/comments/usvtyz/python_library_quickly_build_webbased_machine/)
-- [Best methods to run a continuous Python script on a server](https://www.reddit.com/r/Python/comments/usqy75/best_methods_to_run_a_continuous_python_script_on/)
-- [Time Series Modelling](https://www.reddit.com/r/Python/comments/usqwnc/time_series_modelling/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/usqdq0/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
