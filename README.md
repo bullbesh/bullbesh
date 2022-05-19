@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need help on a project](https://www.reddit.com/r/Python/comments/ut2dic/need_help_on_a_project/)
+- [My python eel .mov to .mp4 convert app](https://www.reddit.com/r/Python/comments/ut1bzj/my_python_eel_mov_to_mp4_convert_app/)
+- [Are there any actually useful audiobooks/podcasts to help with Python Programming?](https://www.reddit.com/r/Python/comments/ut1b7o/are_there_any_actually_useful_audiobookspodcasts/)
 - [Run Python Directly In HTML With PyScript](https://www.reddit.com/r/Python/comments/ut074j/run_python_directly_in_html_with_pyscript/)
 - [I made a documentation driven web-socket framework](https://www.reddit.com/r/Python/comments/uszk2s/i_made_a_documentation_driven_websocket_framework/)
-- [Python web app for creating google accounts](https://www.reddit.com/r/Python/comments/uszf3t/python_web_app_for_creating_google_accounts/)
-- [web scraper to fetch data from coin market cap](https://www.reddit.com/r/Python/comments/uszb3p/web_scraper_to_fetch_data_from_coin_market_cap/)
-- [Using Deep Learning for Programming Language Translation](https://www.reddit.com/r/Python/comments/usyl9y/using_deep_learning_for_programming_language/)
 <!-- BLOG-POST-LIST:END -->
