@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best methods to run a continuous Python script on a server](https://www.reddit.com/r/Python/comments/usqy75/best_methods_to_run_a_continuous_python_script_on/)
+- [Time Series Modelling](https://www.reddit.com/r/Python/comments/usqwnc/time_series_modelling/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/usqdq0/thursday_daily_thread_python_careers_courses_and/)
 - [Developers for sneakers&#39; tools](https://www.reddit.com/r/Python/comments/usp71c/developers_for_sneakers_tools/)
 - [What does -m flag do when running a python scripts.](https://www.reddit.com/r/Python/comments/uskr27/what_does_m_flag_do_when_running_a_python_scripts/)
-- [Arcade 2.6.14 has been released &lpar;2D game library&rpar;](https://www.reddit.com/r/Python/comments/usjg8k/arcade_2614_has_been_released_2d_game_library/)
-- [Fill your images with amogi using Python!](https://www.reddit.com/r/Python/comments/usiwor/fill_your_images_with_amogi_using_python/)
-- [SQL vs Python for Data Analysis](https://www.reddit.com/r/Python/comments/usi8ph/sql_vs_python_for_data_analysis/)
 <!-- BLOG-POST-LIST:END -->
