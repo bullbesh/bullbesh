@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Universal Social Media Farming Bot made with Python](https://www.reddit.com/r/Python/comments/utc1i2/universal_social_media_farming_bot_made_with/)
 - [Python or Rust; first language??](https://www.reddit.com/r/Python/comments/ut9pj0/python_or_rust_first_language/)
 - [I made a calculator!](https://www.reddit.com/r/Python/comments/ut9chw/i_made_a_calculator/)
 - [Mito: A Spreadsheet Interface for Python](https://www.reddit.com/r/Python/comments/ut9606/mito_a_spreadsheet_interface_for_python/)
 - [Wave Function Collapse Wallpaper Generator, Fully Customisable, Any Resolution](https://www.reddit.com/r/Python/comments/ut8vjh/wave_function_collapse_wallpaper_generator_fully/)
-- [I made a package to create custom callbacks for League of Legends events](https://www.reddit.com/r/Python/comments/ut7ssj/i_made_a_package_to_create_custom_callbacks_for/)
 <!-- BLOG-POST-LIST:END -->
