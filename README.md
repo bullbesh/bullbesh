@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cohort Analysis in Python - In a simpler way. With just 4 transformations of Data Frame.](https://www.reddit.com/r/Python/comments/ut3mcg/cohort_analysis_in_python_in_a_simpler_way_with/)
+- [Can someone help me with my fighter game project](https://www.reddit.com/r/Python/comments/ut3gop/can_someone_help_me_with_my_fighter_game_project/)
+- [Library and CLI script which allows running computers remotely on LAN.](https://www.reddit.com/r/Python/comments/ut2ylk/library_and_cli_script_which_allows_running/)
 - [Need help on a project](https://www.reddit.com/r/Python/comments/ut2dic/need_help_on_a_project/)
 - [My python eel .mov to .mp4 convert app](https://www.reddit.com/r/Python/comments/ut1bzj/my_python_eel_mov_to_mp4_convert_app/)
-- [Are there any actually useful audiobooks/podcasts to help with Python Programming?](https://www.reddit.com/r/Python/comments/ut1b7o/are_there_any_actually_useful_audiobookspodcasts/)
-- [Run Python Directly In HTML With PyScript](https://www.reddit.com/r/Python/comments/ut074j/run_python_directly_in_html_with_pyscript/)
-- [I made a documentation driven web-socket framework](https://www.reddit.com/r/Python/comments/uszk2s/i_made_a_documentation_driven_websocket_framework/)
 <!-- BLOG-POST-LIST:END -->
