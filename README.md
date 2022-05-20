@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Wrapper for newly announced WhatsApp Cloud API](https://www.reddit.com/r/Python/comments/uu8zs4/python_wrapper_for_newly_announced_whatsapp_cloud/)
+- [Learn how to handle Python dependencies when deploying Lambda functions to AWS using the Serverless Framework](https://www.reddit.com/r/Python/comments/uu8jip/learn_how_to_handle_python_dependencies_when/)
 - [Introduction To Convolutional Neural Network](https://www.reddit.com/r/Python/comments/uu7k14/introduction_to_convolutional_neural_network/)
 - [New project - Tray Runner](https://www.reddit.com/r/Python/comments/uu75dn/new_project_tray_runner/)
 - [Pandas df question?](https://www.reddit.com/r/Python/comments/uu62qr/pandas_df_question/)
-- [Helpppp](https://www.reddit.com/r/Python/comments/uu5zkf/helpppp/)
-- [Brick Breaker Game using Tkinter &lpar;Python Project&rpar;](https://www.reddit.com/r/Python/comments/uu5fcz/brick_breaker_game_using_tkinter_python_project/)
 <!-- BLOG-POST-LIST:END -->
