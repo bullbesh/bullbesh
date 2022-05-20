@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The unreasonable effectiveness of f‍-‍strings and re.VERBOSE](https://www.reddit.com/r/Python/comments/utufj9/the_unreasonable_effectiveness_of_fstrings_and/)
+- [BairesDev MeetUps - Remote Work Webinar](https://www.reddit.com/r/Python/comments/utua27/bairesdev_meetups_remote_work_webinar/)
+- [ZPrize Competition: 7 million in Prizes](https://www.reddit.com/r/Python/comments/utsmbx/zprize_competition_7_million_in_prizes/)
 - [How to trans .py to .exe only input](https://www.reddit.com/r/Python/comments/uts81l/how_to_trans_py_to_exe_only_input/)
 - [Lunch and Learn: High Performance Python - Iterators and Generators](https://www.reddit.com/r/Python/comments/utr2f6/lunch_and_learn_high_performance_python_iterators/)
-- [Should Python support i suffix for complex numbers as well as j ?](https://www.reddit.com/r/Python/comments/utqo8q/should_python_support_i_suffix_for_complex/)
-- [i need help coding quantum photons waveguide array using hamiltonian equation. 1 photons 3 waveguide array. please help](https://www.reddit.com/r/Python/comments/utqbu1/i_need_help_coding_quantum_photons_waveguide/)
-- [QualityScaler 1.5.0 - image/video upscaling - enhancement Windows app](https://www.reddit.com/r/Python/comments/utoxk3/qualityscaler_150_imagevideo_upscaling/)
 <!-- BLOG-POST-LIST:END -->
