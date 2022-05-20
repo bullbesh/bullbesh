@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A New Way to Automate Google Sheets with Python](https://www.reddit.com/r/Python/comments/uu0s6m/a_new_way_to_automate_google_sheets_with_python/)
+- [I made a simple chat application using sockets and urwid](https://www.reddit.com/r/Python/comments/uu0hag/i_made_a_simple_chat_application_using_sockets/)
+- [AutoRegistry: automatic registry design-pattern library for mapping names to functionality.](https://www.reddit.com/r/Python/comments/utzcwv/autoregistry_automatic_registry_designpattern/)
 - [Python Wireframe Import](https://www.reddit.com/r/Python/comments/utz93c/python_wireframe_import/)
 - [I made a personal blog with Django and Tailwind](https://www.reddit.com/r/Python/comments/utyq2p/i_made_a_personal_blog_with_django_and_tailwind/)
-- [the lost dragon demo &lpar;name in progress&rpar;](https://www.reddit.com/r/Python/comments/utyk2s/the_lost_dragon_demo_name_in_progress/)
-- [Learning python.](https://www.reddit.com/r/Python/comments/utyijw/learning_python/)
-- [School allows me to bring material to coding test, how do I exploit this?](https://www.reddit.com/r/Python/comments/utxnza/school_allows_me_to_bring_material_to_coding_test/)
 <!-- BLOG-POST-LIST:END -->
