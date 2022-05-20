@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [QualityScaler 1.5.0 - image/video upscaling - enhancement Windows app](https://www.reddit.com/r/Python/comments/utoxk3/qualityscaler_150_imagevideo_upscaling/)
+- [What is Python 3? Know Python 2 VS Python 3](https://www.reddit.com/r/Python/comments/utopp9/what_is_python_3_know_python_2_vs_python_3/)
 - [Python cache functions](https://www.reddit.com/r/Python/comments/uto6ik/python_cache_functions/)
 - [The Swiss Python Summit 2022 is Looking for Speakers](https://www.reddit.com/r/Python/comments/utnawd/the_swiss_python_summit_2022_is_looking_for/)
 - [pikascript: An ultra-lightweight Python engine that can run with 4KB of RAM and 32KB of Flash &lpar;such as STM32G030C8 and STM32F103C8&rpar;, and is very easy to deploy and expand.](https://www.reddit.com/r/Python/comments/utj8jj/pikascript_an_ultralightweight_python_engine_that/)
-- [Pandas/Python or excel?](https://www.reddit.com/r/Python/comments/utj4e2/pandaspython_or_excel/)
-- [Top paying skills with Python?](https://www.reddit.com/r/Python/comments/utihu3/top_paying_skills_with_python/)
 <!-- BLOG-POST-LIST:END -->
