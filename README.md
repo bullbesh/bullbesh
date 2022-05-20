@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Best way to learn python?](https://www.reddit.com/r/Python/comments/utx2st/best_way_to_learn_python/)
-- [the power of lists in 2022](https://www.reddit.com/r/Python/comments/utv8tk/the_power_of_lists_in_2022/)
-- [The unreasonable effectiveness of f‍-‍strings and re.VERBOSE](https://www.reddit.com/r/Python/comments/utufj9/the_unreasonable_effectiveness_of_fstrings_and/)
-- [BairesDev MeetUps - Remote Work Webinar](https://www.reddit.com/r/Python/comments/utua27/bairesdev_meetups_remote_work_webinar/)
-- [ZPrize Competition: 7 million in Prizes](https://www.reddit.com/r/Python/comments/utsmbx/zprize_competition_7_million_in_prizes/)
+- [Python Wireframe Import](https://www.reddit.com/r/Python/comments/utz93c/python_wireframe_import/)
+- [I made a personal blog with Django and Tailwind](https://www.reddit.com/r/Python/comments/utyq2p/i_made_a_personal_blog_with_django_and_tailwind/)
+- [the lost dragon demo &lpar;name in progress&rpar;](https://www.reddit.com/r/Python/comments/utyk2s/the_lost_dragon_demo_name_in_progress/)
+- [Learning python.](https://www.reddit.com/r/Python/comments/utyijw/learning_python/)
+- [School allows me to bring material to coding test, how do I exploit this?](https://www.reddit.com/r/Python/comments/utxnza/school_allows_me_to_bring_material_to_coding_test/)
 <!-- BLOG-POST-LIST:END -->
