@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Distributed system with Tornado, Supervisor, Nginx and Docker](https://www.reddit.com/r/Python/comments/uu2vro/distributed_system_with_tornado_supervisor_nginx/)
+- [An effective, simple, and async security library for the Sanic framework.](https://www.reddit.com/r/Python/comments/uu1yz8/an_effective_simple_and_async_security_library/)
 - [A New Way to Automate Google Sheets with Python](https://www.reddit.com/r/Python/comments/uu0s6m/a_new_way_to_automate_google_sheets_with_python/)
 - [I made a simple chat application using sockets and urwid](https://www.reddit.com/r/Python/comments/uu0hag/i_made_a_simple_chat_application_using_sockets/)
 - [AutoRegistry: automatic registry design-pattern library for mapping names to functionality.](https://www.reddit.com/r/Python/comments/utzcwv/autoregistry_automatic_registry_designpattern/)
-- [Python Wireframe Import](https://www.reddit.com/r/Python/comments/utz93c/python_wireframe_import/)
-- [I made a personal blog with Django and Tailwind](https://www.reddit.com/r/Python/comments/utyq2p/i_made_a_personal_blog_with_django_and_tailwind/)
 <!-- BLOG-POST-LIST:END -->
