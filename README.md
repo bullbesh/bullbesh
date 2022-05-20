@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lunch and Learn: High Performance Python - Iterators and Generators](https://www.reddit.com/r/Python/comments/utr2f6/lunch_and_learn_high_performance_python_iterators/)
+- [Should Python support i suffix for complex numbers as well as j ?](https://www.reddit.com/r/Python/comments/utqo8q/should_python_support_i_suffix_for_complex/)
+- [i need help coding quantum photons waveguide array using hamiltonian equation. 1 photons 3 waveguide array. please help](https://www.reddit.com/r/Python/comments/utqbu1/i_need_help_coding_quantum_photons_waveguide/)
 - [QualityScaler 1.5.0 - image/video upscaling - enhancement Windows app](https://www.reddit.com/r/Python/comments/utoxk3/qualityscaler_150_imagevideo_upscaling/)
-- [What is Python 3? Know Python 2 VS Python 3](https://www.reddit.com/r/Python/comments/utopp9/what_is_python_3_know_python_2_vs_python_3/)
 - [Python cache functions](https://www.reddit.com/r/Python/comments/uto6ik/python_cache_functions/)
-- [The Swiss Python Summit 2022 is Looking for Speakers](https://www.reddit.com/r/Python/comments/utnawd/the_swiss_python_summit_2022_is_looking_for/)
-- [pikascript: An ultra-lightweight Python engine that can run with 4KB of RAM and 32KB of Flash &lpar;such as STM32G030C8 and STM32F103C8&rpar;, and is very easy to deploy and expand.](https://www.reddit.com/r/Python/comments/utj8jj/pikascript_an_ultralightweight_python_engine_that/)
 <!-- BLOG-POST-LIST:END -->
