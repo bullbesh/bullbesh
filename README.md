@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top paying skills with Python?](https://www.reddit.com/r/Python/comments/utihu3/top_paying_skills_with_python/)
+- [Looking for Collaborators!](https://www.reddit.com/r/Python/comments/uthsmh/looking_for_collaborators/)
 - [Creating a GraphQL API with Python and Graphene.](https://www.reddit.com/r/Python/comments/utevby/creating_a_graphql_api_with_python_and_graphene/)
 - [Universal Social Media Farming Bot made with Python](https://www.reddit.com/r/Python/comments/utc1i2/universal_social_media_farming_bot_made_with/)
 - [Python or Rust; first language??](https://www.reddit.com/r/Python/comments/ut9pj0/python_or_rust_first_language/)
-- [I made a calculator!](https://www.reddit.com/r/Python/comments/ut9chw/i_made_a_calculator/)
-- [Mito: A Spreadsheet Interface for Python](https://www.reddit.com/r/Python/comments/ut9606/mito_a_spreadsheet_interface_for_python/)
 <!-- BLOG-POST-LIST:END -->
