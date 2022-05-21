@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Vision in discord](https://www.reddit.com/r/Python/comments/uuv0kq/google_vision_in_discord/)
+- [Robyn turns 1 today! 🎂](https://www.reddit.com/r/Python/comments/uuu37h/robyn_turns_1_today/)
 - [First Python Bug Report -- I&#39;ll be old enough to wear long pants any day now.](https://www.reddit.com/r/Python/comments/uuta9l/first_python_bug_report_ill_be_old_enough_to_wear/)
 - [Can Anyone Describe It For Me?](https://www.reddit.com/r/Python/comments/uuss37/can_anyone_describe_it_for_me/)
 - [I made a personal blog with Django and Tailwind](https://www.reddit.com/r/Python/comments/uuslw5/i_made_a_personal_blog_with_django_and_tailwind/)
-- [All Python data engineering project &lpar;Twitter Monitor&rpar;](https://www.reddit.com/r/Python/comments/uusegj/all_python_data_engineering_project_twitter/)
-- [I wrote a game in Python! &lpar;more detail in description&rpar;](https://www.reddit.com/r/Python/comments/uuru7u/i_wrote_a_game_in_python_more_detail_in/)
 <!-- BLOG-POST-LIST:END -->
