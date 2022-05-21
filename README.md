@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote an app for analysing F1 data!](https://www.reddit.com/r/Python/comments/uucbdr/i_wrote_an_app_for_analysing_f1_data/)
+- [Asking for learning recommendations](https://www.reddit.com/r/Python/comments/uublk6/asking_for_learning_recommendations/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/uub4o0/saturday_daily_thread_resource_request_and/)
 - [Python Wrapper for newly announced WhatsApp Cloud API](https://www.reddit.com/r/Python/comments/uu8zs4/python_wrapper_for_newly_announced_whatsapp_cloud/)
 - [Learn how to handle Python dependencies when deploying Lambda functions to AWS using the Serverless Framework](https://www.reddit.com/r/Python/comments/uu8jip/learn_how_to_handle_python_dependencies_when/)
-- [Introduction To Convolutional Neural Network](https://www.reddit.com/r/Python/comments/uu7k14/introduction_to_convolutional_neural_network/)
-- [New project - Tray Runner](https://www.reddit.com/r/Python/comments/uu75dn/new_project_tray_runner/)
-- [Brick Breaker Game using Tkinter &lpar;Python Project&rpar;](https://www.reddit.com/r/Python/comments/uu5fcz/brick_breaker_game_using_tkinter_python_project/)
 <!-- BLOG-POST-LIST:END -->
