@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I run a business - is Python for me?](https://www.reddit.com/r/Python/comments/uuq5uj/i_run_a_business_is_python_for_me/)
+- [When does one know python?](https://www.reddit.com/r/Python/comments/uuq1k0/when_does_one_know_python/)
+- [I made a probability calculator for DnD rolls with streamlit + numpy](https://www.reddit.com/r/Python/comments/uupy8y/i_made_a_probability_calculator_for_dnd_rolls/)
 - [Learn the Basics of Python &lpar;or any other language&rpar; in 2 minutes](https://www.reddit.com/r/Python/comments/uuo0pa/learn_the_basics_of_python_or_any_other_language/)
-- [Excel File](https://www.reddit.com/r/Python/comments/uunon1/excel_file/)
 - [CTX New Version Released After 7 years &lpar;+750K Install&rpar;](https://www.reddit.com/r/Python/comments/uumqmm/ctx_new_version_released_after_7_years_750k/)
-- [Created my first program!](https://www.reddit.com/r/Python/comments/uultoe/created_my_first_program/)
-- [Visualising photo geolocation data with Python](https://www.reddit.com/r/Python/comments/uukpzn/visualising_photo_geolocation_data_with_python/)
 <!-- BLOG-POST-LIST:END -->
