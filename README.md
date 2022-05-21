@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any python learning resources like a podcast or youtube videos that don’t imply coding but are more into the theory &lpar;like for when you just want to chill and fall asleep too&rpar;?](https://www.reddit.com/r/Python/comments/uuiiw1/any_python_learning_resources_like_a_podcast_or/)
+- [$547 Worth of 18 Books on Python Coding by Starch Press for $18 &lpar;-97% OFF&rpar;](https://www.reddit.com/r/Python/comments/uuiho6/547_worth_of_18_books_on_python_coding_by_starch/)
+- [Guys, can someone help me answer these questions](https://www.reddit.com/r/Python/comments/uuifwc/guys_can_someone_help_me_answer_these_questions/)
 - [SPIRVSmith: A fuzzing software to generate random, well-defined SPIR-V shaders](https://www.reddit.com/r/Python/comments/uufrbz/spirvsmith_a_fuzzing_software_to_generate_random/)
 - [Any advantages to using Python3.7+ over 3.6 if you don’t use any of the new features?](https://www.reddit.com/r/Python/comments/uuemck/any_advantages_to_using_python37_over_36_if_you/)
-- [A Simple Smile Counter](https://www.reddit.com/r/Python/comments/uuehx5/a_simple_smile_counter/)
-- [Made a Web Scrapping Script for Scholarships](https://www.reddit.com/r/Python/comments/uudrfo/made_a_web_scrapping_script_for_scholarships/)
-- [I made a calculator to find the derivative of each term in a polynomial.](https://www.reddit.com/r/Python/comments/uudmze/i_made_a_calculator_to_find_the_derivative_of/)
 <!-- BLOG-POST-LIST:END -->
