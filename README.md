@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made a Web Scrapping Script for Scholarships](https://www.reddit.com/r/Python/comments/uudrfo/made_a_web_scrapping_script_for_scholarships/)
+- [I made a calculator to find the derivative of each term in a polynomial.](https://www.reddit.com/r/Python/comments/uudmze/i_made_a_calculator_to_find_the_derivative_of/)
+- [Super Slow response when entering text in editor in Anaconda’s Spyder. Has anyone else seen that?](https://www.reddit.com/r/Python/comments/uudaa5/super_slow_response_when_entering_text_in_editor/)
+- [Best ORM to use with FastAPI?](https://www.reddit.com/r/Python/comments/uuctta/best_orm_to_use_with_fastapi/)
 - [I wrote an app for analysing F1 data!](https://www.reddit.com/r/Python/comments/uucbdr/i_wrote_an_app_for_analysing_f1_data/)
-- [Asking for learning recommendations](https://www.reddit.com/r/Python/comments/uublk6/asking_for_learning_recommendations/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/uub4o0/saturday_daily_thread_resource_request_and/)
-- [Python Wrapper for newly announced WhatsApp Cloud API](https://www.reddit.com/r/Python/comments/uu8zs4/python_wrapper_for_newly_announced_whatsapp_cloud/)
-- [Learn how to handle Python dependencies when deploying Lambda functions to AWS using the Serverless Framework](https://www.reddit.com/r/Python/comments/uu8jip/learn_how_to_handle_python_dependencies_when/)
 <!-- BLOG-POST-LIST:END -->
