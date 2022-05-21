@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Created my first program!](https://www.reddit.com/r/Python/comments/uultoe/created_my_first_program/)
 - [Visualising photo geolocation data with Python](https://www.reddit.com/r/Python/comments/uukpzn/visualising_photo_geolocation_data_with_python/)
 - [Python code](https://www.reddit.com/r/Python/comments/uukk2z/python_code/)
 - [My collection of Python and Bash scripts I developed for personal and working projects](https://www.reddit.com/r/Python/comments/uujwi6/my_collection_of_python_and_bash_scripts_i/)
 - [What&#39;s your favourite beginner resources for Python and why?](https://www.reddit.com/r/Python/comments/uujp52/whats_your_favourite_beginner_resources_for/)
-- [Any python learning resources like a podcast or youtube videos that don’t imply coding but are more into the theory &lpar;like for when you just want to chill and fall asleep too&rpar;?](https://www.reddit.com/r/Python/comments/uuiiw1/any_python_learning_resources_like_a_podcast_or/)
 <!-- BLOG-POST-LIST:END -->
