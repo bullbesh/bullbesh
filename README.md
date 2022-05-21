@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn the Basics of Python &lpar;or any other language&rpar; in 2 minutes](https://www.reddit.com/r/Python/comments/uuo0pa/learn_the_basics_of_python_or_any_other_language/)
+- [Excel File](https://www.reddit.com/r/Python/comments/uunon1/excel_file/)
+- [NameError in Python code even though variable is defined](https://www.reddit.com/r/Python/comments/uunatt/nameerror_in_python_code_even_though_variable_is/)
 - [CTX New Version Released After 7 years &lpar;+750K Install&rpar;](https://www.reddit.com/r/Python/comments/uumqmm/ctx_new_version_released_after_7_years_750k/)
 - [Created my first program!](https://www.reddit.com/r/Python/comments/uultoe/created_my_first_program/)
-- [Visualising photo geolocation data with Python](https://www.reddit.com/r/Python/comments/uukpzn/visualising_photo_geolocation_data_with_python/)
-- [Python code](https://www.reddit.com/r/Python/comments/uukk2z/python_code/)
-- [My collection of Python and Bash scripts I developed for personal and working projects](https://www.reddit.com/r/Python/comments/uujwi6/my_collection_of_python_and_bash_scripts_i/)
 <!-- BLOG-POST-LIST:END -->
