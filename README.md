@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source projects with RabbitMQ/pika](https://www.reddit.com/r/Python/comments/uvfhmq/open_source_projects_with_rabbitmqpika/)
+- [Is there a Python equivalent to MATLABS ‘clear all’ command?](https://www.reddit.com/r/Python/comments/uvex5p/is_there_a_python_equivalent_to_matlabs_clear_all/)
 - [Fix Heatmap Appreance](https://www.reddit.com/r/Python/comments/uve4xc/fix_heatmap_appreance/)
 - [I just released NiChord, a Python package for plotting chord diagrams and visualizing networks](https://www.reddit.com/r/Python/comments/uvcrx9/i_just_released_nichord_a_python_package_for/)
 - [The Pycharm privacy policy seems pretty invasive... What is your favorite alternative? &lpar;Linux&rpar;.](https://www.reddit.com/r/Python/comments/uvcl8q/the_pycharm_privacy_policy_seems_pretty_invasive/)
-- [how shall I learn to code?](https://www.reddit.com/r/Python/comments/uvc1y5/how_shall_i_learn_to_code/)
-- [Setup.py doesn’t work for multiple project structures on git repo.](https://www.reddit.com/r/Python/comments/uvaxnx/setuppy_doesnt_work_for_multiple_project/)
 <!-- BLOG-POST-LIST:END -->
