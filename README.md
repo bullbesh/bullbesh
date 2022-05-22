@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to draw windows logo using python](https://www.reddit.com/r/Python/comments/uv5ej6/how_to_draw_windows_logo_using_python/)
+- [Do you need to know how to run Python validation from javascript?](https://www.reddit.com/r/Python/comments/uv57mu/do_you_need_to_know_how_to_run_python_validation/)
 - [Building a smart surveillance camera system](https://www.reddit.com/r/Python/comments/uv4qhl/building_a_smart_surveillance_camera_system/)
 - [Writing generators in Python](https://www.reddit.com/r/Python/comments/uv4md5/writing_generators_in_python/)
 - [Licensing doubt. authlib and derived projects.](https://www.reddit.com/r/Python/comments/uv2yx8/licensing_doubt_authlib_and_derived_projects/)
-- [Command-line Gist tool](https://www.reddit.com/r/Python/comments/uv0l6e/commandline_gist_tool/)
-- [Save and Load Tensorflow &amp; Keras Models](https://www.reddit.com/r/Python/comments/uv0l1w/save_and_load_tensorflow_keras_models/)
 <!-- BLOG-POST-LIST:END -->
