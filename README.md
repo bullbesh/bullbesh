@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setup.py doesn’t work for multiple project structures on git repo.](https://www.reddit.com/r/Python/comments/uvaxnx/setuppy_doesnt_work_for_multiple_project/)
+- [Discord Python - How to Create General &amp; Admin Commands](https://www.reddit.com/r/Python/comments/uvaean/discord_python_how_to_create_general_admin/)
+- [Learn Python Programming - Python Programming for Beginners](https://www.reddit.com/r/Python/comments/uva5al/learn_python_programming_python_programming_for/)
 - [Any advices about starting learning Python for a beginner programmer?](https://www.reddit.com/r/Python/comments/uv9b2a/any_advices_about_starting_learning_python_for_a/)
 - [Why noone uses nbdev for library development?](https://www.reddit.com/r/Python/comments/uv8l66/why_noone_uses_nbdev_for_library_development/)
-- [Automating manual jobs with Python](https://www.reddit.com/r/Python/comments/uv833z/automating_manual_jobs_with_python/)
-- [How to draw windows logo using python](https://www.reddit.com/r/Python/comments/uv5ej6/how_to_draw_windows_logo_using_python/)
-- [Do you need to know how to run Python validation from javascript?](https://www.reddit.com/r/Python/comments/uv57mu/do_you_need_to_know_how_to_run_python_validation/)
 <!-- BLOG-POST-LIST:END -->
