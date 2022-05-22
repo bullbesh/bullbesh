@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Clustering Stock Price Patterns](https://www.reddit.com/r/Python/comments/uvgadq/clustering_stock_price_patterns/)
+- [How to know what the technology or the topics used for some python libraries, to be able to build something similar ?](https://www.reddit.com/r/Python/comments/uvfpej/how_to_know_what_the_technology_or_the_topics/)
 - [Open Source projects with RabbitMQ/pika](https://www.reddit.com/r/Python/comments/uvfhmq/open_source_projects_with_rabbitmqpika/)
 - [Is there a Python equivalent to MATLABS ‘clear all’ command?](https://www.reddit.com/r/Python/comments/uvex5p/is_there_a_python_equivalent_to_matlabs_clear_all/)
 - [Fix Heatmap Appreance](https://www.reddit.com/r/Python/comments/uve4xc/fix_heatmap_appreance/)
-- [I just released NiChord, a Python package for plotting chord diagrams and visualizing networks](https://www.reddit.com/r/Python/comments/uvcrx9/i_just_released_nichord_a_python_package_for/)
-- [The Pycharm privacy policy seems pretty invasive... What is your favorite alternative? &lpar;Linux&rpar;.](https://www.reddit.com/r/Python/comments/uvcl8q/the_pycharm_privacy_policy_seems_pretty_invasive/)
 <!-- BLOG-POST-LIST:END -->
