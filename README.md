@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Beautiful circos plots in Python](https://www.reddit.com/r/Python/comments/tupzwe/beautiful_circos_plots_in_python/)
-- [GitHub - minimaxir/imgbeddings: Python package to generate image embeddings with CLIP without PyTorch/TensorFlow](https://www.reddit.com/r/Python/comments/tuokyp/github_minimaxirimgbeddings_python_package_to/)
-- [Free and reliable language translation API for developers](https://www.reddit.com/r/Python/comments/tunvta/free_and_reliable_language_translation_api_for/)
-- [Help building a Python logo in r/place!](https://www.reddit.com/r/Python/comments/tuno8s/help_building_a_python_logo_in_rplace/)
-- [Recover deleted and overwritten files with RecoverPy 1.5.0](https://www.reddit.com/r/Python/comments/tulvmq/recover_deleted_and_overwritten_files_with/)
+- [Python vs Perl](https://www.reddit.com/r/Python/comments/uv5ut0/python_vs_perl/)
+- [How to draw windows logo using python](https://www.reddit.com/r/Python/comments/uv5ej6/how_to_draw_windows_logo_using_python/)
+- [Do you need to know how to run Python validation from javascript?](https://www.reddit.com/r/Python/comments/uv57mu/do_you_need_to_know_how_to_run_python_validation/)
+- [Building a smart surveillance camera system](https://www.reddit.com/r/Python/comments/uv4qhl/building_a_smart_surveillance_camera_system/)
+- [Writing generators in Python](https://www.reddit.com/r/Python/comments/uv4md5/writing_generators_in_python/)
 <!-- BLOG-POST-LIST:END -->
