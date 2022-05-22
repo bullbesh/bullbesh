@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just released NiChord, a Python package for plotting chord diagrams and visualizing networks](https://www.reddit.com/r/Python/comments/uvcrx9/i_just_released_nichord_a_python_package_for/)
+- [The Pycharm privacy policy seems pretty invasive... What is your favorite alternative? &lpar;Linux&rpar;.](https://www.reddit.com/r/Python/comments/uvcl8q/the_pycharm_privacy_policy_seems_pretty_invasive/)
+- [how shall I learn to code?](https://www.reddit.com/r/Python/comments/uvc1y5/how_shall_i_learn_to_code/)
 - [Setup.py doesn’t work for multiple project structures on git repo.](https://www.reddit.com/r/Python/comments/uvaxnx/setuppy_doesnt_work_for_multiple_project/)
 - [Discord Python - How to Create General &amp; Admin Commands](https://www.reddit.com/r/Python/comments/uvaean/discord_python_how_to_create_general_admin/)
-- [Learn Python Programming - Python Programming for Beginners](https://www.reddit.com/r/Python/comments/uva5al/learn_python_programming_python_programming_for/)
-- [Any advices about starting learning Python for a beginner programmer?](https://www.reddit.com/r/Python/comments/uv9b2a/any_advices_about_starting_learning_python_for_a/)
-- [Why noone uses nbdev for library development?](https://www.reddit.com/r/Python/comments/uv8l66/why_noone_uses_nbdev_for_library_development/)
 <!-- BLOG-POST-LIST:END -->
