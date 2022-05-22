@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating manual jobs with Python](https://www.reddit.com/r/Python/comments/uv833z/automating_manual_jobs_with_python/)
 - [Download Youtube videos for free using two lines of Python Code #shorts](https://www.reddit.com/r/Python/comments/uv6rl4/download_youtube_videos_for_free_using_two_lines/)
 - [Python vs Perl](https://www.reddit.com/r/Python/comments/uv5ut0/python_vs_perl/)
 - [How to draw windows logo using python](https://www.reddit.com/r/Python/comments/uv5ej6/how_to_draw_windows_logo_using_python/)
 - [Do you need to know how to run Python validation from javascript?](https://www.reddit.com/r/Python/comments/uv57mu/do_you_need_to_know_how_to_run_python_validation/)
-- [Building a smart surveillance camera system](https://www.reddit.com/r/Python/comments/uv4qhl/building_a_smart_surveillance_camera_system/)
 <!-- BLOG-POST-LIST:END -->
