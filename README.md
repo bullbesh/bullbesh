@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python Programming - Python for Beginners](https://www.reddit.com/r/Python/comments/uvlif8/learn_python_programming_python_for_beginners/)
 - [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/uvjggg/python_cybersecurity_build_your_own_python_tools/)
 - [Mastering Tensorflow Tensors in 6 Minutes](https://www.reddit.com/r/Python/comments/uviyck/mastering_tensorflow_tensors_in_6_minutes/)
 - [Needed Advice](https://www.reddit.com/r/Python/comments/uvi2b9/needed_advice/)
 - [Chocopy -&gt; CIL compiler: compiles a subset of Python 3 to Common Intermediate Language &lpar;.NET&rpar;](https://www.reddit.com/r/Python/comments/uvhx2f/chocopy_cil_compiler_compiles_a_subset_of_python/)
-- [Good books / resources for making desktop applications? Will need networking using websockets](https://www.reddit.com/r/Python/comments/uvhvol/good_books_resources_for_making_desktop/)
 <!-- BLOG-POST-LIST:END -->
