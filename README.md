@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Chocopy -&gt; CIL compiler: compiles a subset of Python 3 to Common Intermediate Language &lpar;.NET&rpar;](https://www.reddit.com/r/Python/comments/uvhx2f/chocopy_cil_compiler_compiles_a_subset_of_python/)
+- [Good books / resources for making desktop applications? Will need networking using websockets](https://www.reddit.com/r/Python/comments/uvhvol/good_books_resources_for_making_desktop/)
 - [Clustering Stock Price Patterns](https://www.reddit.com/r/Python/comments/uvgadq/clustering_stock_price_patterns/)
 - [How to know what the technology or the topics used for some python libraries, to be able to build something similar ?](https://www.reddit.com/r/Python/comments/uvfpej/how_to_know_what_the_technology_or_the_topics/)
 - [Open Source projects with RabbitMQ/pika](https://www.reddit.com/r/Python/comments/uvfhmq/open_source_projects_with_rabbitmqpika/)
-- [Is there a Python equivalent to MATLABS ‘clear all’ command?](https://www.reddit.com/r/Python/comments/uvex5p/is_there_a_python_equivalent_to_matlabs_clear_all/)
-- [Fix Heatmap Appreance](https://www.reddit.com/r/Python/comments/uve4xc/fix_heatmap_appreance/)
 <!-- BLOG-POST-LIST:END -->
