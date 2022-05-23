@@ -11,6 +11,6 @@
 - [Build a URL Shortener With FastAPI and Python – Real Python](https://www.reddit.com/r/Python/comments/uvrssw/build_a_url_shortener_with_fastapi_and_python/)
 - [A smart way to print :&rpar;](https://www.reddit.com/r/Python/comments/uvqz4t/a_smart_way_to_print/)
 - [I made a text RPG in Python in 2017. Now, I want to teach the community how to make one.](https://www.reddit.com/r/Python/comments/uvofvt/i_made_a_text_rpg_in_python_in_2017_now_i_want_to/)
-- [Python Programme Assistance](https://www.reddit.com/r/Python/comments/uvofnz/python_programme_assistance/)
 - [Success!](https://www.reddit.com/r/Python/comments/uvo9t0/success/)
+- [A beginners guide to making a Twitter bot that automatically posts news articles](https://www.reddit.com/r/Python/comments/uvo1ln/a_beginners_guide_to_making_a_twitter_bot_that/)
 <!-- BLOG-POST-LIST:END -->
