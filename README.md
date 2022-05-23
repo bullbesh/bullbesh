@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Bundling binary tools in Python wheels](https://www.reddit.com/r/Python/comments/uw2fr2/bundling_binary_tools_in_python_wheels/)
-- [Python library for animating text in CLI apps and more](https://www.reddit.com/r/Python/comments/uw21kt/python_library_for_animating_text_in_cli_apps_and/)
-- [I love the book Pydon’ts and I wrote a review so that other Python lovers can learn new ways of writing elegant, compelling, and expressive code.](https://www.reddit.com/r/Python/comments/uw15wy/i_love_the_book_pydonts_and_i_wrote_a_review_so/)
-- [I made a personal blog with Django and Tailwind](https://www.reddit.com/r/Python/comments/uw0y02/i_made_a_personal_blog_with_django_and_tailwind/)
-- [The free weekly Python on Microcontrollers Newsletter - huge issue this week](https://www.reddit.com/r/Python/comments/uw0qos/the_free_weekly_python_on_microcontrollers/)
+- [I made a free follow-along Python project &lpar;build a site link analyzer&rpar;](https://www.reddit.com/r/Python/comments/uw3xj2/i_made_a_free_followalong_python_project_build_a/)
+- [Xml makes sense to me now.](https://www.reddit.com/r/Python/comments/uw3w80/xml_makes_sense_to_me_now/)
+- [[Showcase] Feedback / survey project](https://www.reddit.com/r/Python/comments/uw3eas/showcase_feedback_survey_project/)
+- [Creating video supercuts with Videogrep and yt-dlp](https://www.reddit.com/r/Python/comments/uw3b2t/creating_video_supercuts_with_videogrep_and_ytdlp/)
+- [What is a python package you wish existed?](https://www.reddit.com/r/Python/comments/uw37x3/what_is_a_python_package_you_wish_existed/)
 <!-- BLOG-POST-LIST:END -->
