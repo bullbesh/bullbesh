@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Numpy RGB to N-channel mask optimization - Roast my code!](https://www.reddit.com/r/Python/comments/uvwhvb/numpy_rgb_to_nchannel_mask_optimization_roast_my/)
-- [Useful Python decorators for Data Scientists](https://www.reddit.com/r/Python/comments/uvwhix/useful_python_decorators_for_data_scientists/)
-- [Handling file operations with Python File I/O](https://www.reddit.com/r/Python/comments/uvuefq/handling_file_operations_with_python_file_io/)
-- [Build a URL Shortener With FastAPI and Python – Real Python](https://www.reddit.com/r/Python/comments/uvrssw/build_a_url_shortener_with_fastapi_and_python/)
-- [A smart way to print :&rpar;](https://www.reddit.com/r/Python/comments/uvqz4t/a_smart_way_to_print/)
+- [Pandas DataFrame With Tensorflow](https://www.reddit.com/r/Python/comments/uvxw8f/pandas_dataframe_with_tensorflow/)
+- [HOW TO CREATE A CALCULATOR IN PYTHON](https://www.reddit.com/r/Python/comments/uvxjj6/how_to_create_a_calculator_in_python/)
+- [python calculator](https://www.reddit.com/r/Python/comments/uvxiwr/python_calculator/)
+- [Python Cheatsheet for Beginners - Data Science, Machine Learning, and AI](https://www.reddit.com/r/Python/comments/uvxbjn/python_cheatsheet_for_beginners_data_science/)
+- [Python vs SQL](https://www.reddit.com/r/Python/comments/uvx44e/python_vs_sql/)
 <!-- BLOG-POST-LIST:END -->
