@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bundling binary tools in Python wheels](https://www.reddit.com/r/Python/comments/uw2fr2/bundling_binary_tools_in_python_wheels/)
+- [Python library for animating text in CLI apps and more](https://www.reddit.com/r/Python/comments/uw21kt/python_library_for_animating_text_in_cli_apps_and/)
 - [I love the book Pydon’ts and I wrote a review so that other Python lovers can learn new ways of writing elegant, compelling, and expressive code.](https://www.reddit.com/r/Python/comments/uw15wy/i_love_the_book_pydonts_and_i_wrote_a_review_so/)
 - [I made a personal blog with Django and Tailwind](https://www.reddit.com/r/Python/comments/uw0y02/i_made_a_personal_blog_with_django_and_tailwind/)
 - [The free weekly Python on Microcontrollers Newsletter - huge issue this week](https://www.reddit.com/r/Python/comments/uw0qos/the_free_weekly_python_on_microcontrollers/)
-- [Where should I download python from?](https://www.reddit.com/r/Python/comments/uw0oy6/where_should_i_download_python_from/)
-- [arsenalgear: a C++ / Python library containing general purpose utils I developed for other projects](https://www.reddit.com/r/Python/comments/uw09pu/arsenalgear_a_c_python_library_containing_general/)
 <!-- BLOG-POST-LIST:END -->
