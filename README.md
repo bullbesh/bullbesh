@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [arsenalgear: a C++ / Python library containing general purpose utils I developed for other projects](https://www.reddit.com/r/Python/comments/uw09pu/arsenalgear_a_c_python_library_containing_general/)
+- [AI/Module for parsing text?](https://www.reddit.com/r/Python/comments/uvzxzv/aimodule_for_parsing_text/)
+- [Why hasn&#39;t Python compiled/JIT/AHT projects gained mainstream traction?](https://www.reddit.com/r/Python/comments/uvzq0o/why_hasnt_python_compiledjitaht_projects_gained/)
 - [[Script] Scraping ResearchGate Profile Page in Python](https://www.reddit.com/r/Python/comments/uvykxt/script_scraping_researchgate_profile_page_in/)
 - [Simulating an F1 Race with 300 Cars at Monaco](https://www.reddit.com/r/Python/comments/uvydsw/simulating_an_f1_race_with_300_cars_at_monaco/)
-- [Pandas DataFrame With Tensorflow](https://www.reddit.com/r/Python/comments/uvxw8f/pandas_dataframe_with_tensorflow/)
-- [HOW TO CREATE A CALCULATOR IN PYTHON](https://www.reddit.com/r/Python/comments/uvxjj6/how_to_create_a_calculator_in_python/)
-- [python calculator](https://www.reddit.com/r/Python/comments/uvxiwr/python_calculator/)
 <!-- BLOG-POST-LIST:END -->
