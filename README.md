@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyScript and Flask: Basic PyScript Frontend and DOM manipulations](https://www.reddit.com/r/Python/comments/uw54j7/pyscript_and_flask_basic_pyscript_frontend_and/)
 - [I made a free follow-along Python project &lpar;build a site link analyzer&rpar;](https://www.reddit.com/r/Python/comments/uw3xj2/i_made_a_free_followalong_python_project_build_a/)
 - [Xml makes sense to me now.](https://www.reddit.com/r/Python/comments/uw3w80/xml_makes_sense_to_me_now/)
 - [[Showcase] Feedback / survey project](https://www.reddit.com/r/Python/comments/uw3eas/showcase_feedback_survey_project/)
 - [Creating video supercuts with Videogrep and yt-dlp](https://www.reddit.com/r/Python/comments/uw3b2t/creating_video_supercuts_with_videogrep_and_ytdlp/)
-- [What is a python package you wish existed?](https://www.reddit.com/r/Python/comments/uw37x3/what_is_a_python_package_you_wish_existed/)
 <!-- BLOG-POST-LIST:END -->
