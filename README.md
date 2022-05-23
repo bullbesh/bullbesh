@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn Python Programming - Python for Beginners](https://www.reddit.com/r/Python/comments/uvlif8/learn_python_programming_python_for_beginners/)
-- [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/uvjggg/python_cybersecurity_build_your_own_python_tools/)
-- [Mastering Tensorflow Tensors in 6 Minutes](https://www.reddit.com/r/Python/comments/uviyck/mastering_tensorflow_tensors_in_6_minutes/)
-- [Needed Advice](https://www.reddit.com/r/Python/comments/uvi2b9/needed_advice/)
-- [Chocopy -&gt; CIL compiler: compiles a subset of Python 3 to Common Intermediate Language &lpar;.NET&rpar;](https://www.reddit.com/r/Python/comments/uvhx2f/chocopy_cil_compiler_compiles_a_subset_of_python/)
+- [I made a text RPG in Python in 2017. Now, I want to teach the community how to make one.](https://www.reddit.com/r/Python/comments/uvofvt/i_made_a_text_rpg_in_python_in_2017_now_i_want_to/)
+- [Python Programme Assistance](https://www.reddit.com/r/Python/comments/uvofnz/python_programme_assistance/)
+- [Success!](https://www.reddit.com/r/Python/comments/uvo9t0/success/)
+- [A beginners guide to making a Twitter bot that automatically posts news articles](https://www.reddit.com/r/Python/comments/uvo1ln/a_beginners_guide_to_making_a_twitter_bot_that/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/uvnkb3/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
