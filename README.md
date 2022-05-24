@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a little tool to fetch translations for words from Wiktionary!](https://www.reddit.com/r/Python/comments/uwmpiz/i_made_a_little_tool_to_fetch_translations_for/)
+- [Source Code For Online Movie Ticket Booking In Python](https://www.reddit.com/r/Python/comments/uwm1gt/source_code_for_online_movie_ticket_booking_in/)
 - [tkinter multiprocessing problem](https://www.reddit.com/r/Python/comments/uwlph6/tkinter_multiprocessing_problem/)
 - [George Hotz speed ai coding python app](https://www.reddit.com/r/Python/comments/uwjg2u/george_hotz_speed_ai_coding_python_app/)
 - [Python Ukraine Flag](https://www.reddit.com/r/Python/comments/uwik0y/python_ukraine_flag/)
-- [I think the CTX package on PyPI has been hacked!](https://www.reddit.com/r/Python/comments/uwhzkj/i_think_the_ctx_package_on_pypi_has_been_hacked/)
-- [Declarative and sand boxed Python app in 2022](https://www.reddit.com/r/Python/comments/uweicq/declarative_and_sand_boxed_python_app_in_2022/)
 <!-- BLOG-POST-LIST:END -->
