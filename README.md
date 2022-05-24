@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [tkinter multiprocessing problem](https://www.reddit.com/r/Python/comments/uwlph6/tkinter_multiprocessing_problem/)
 - [George Hotz speed ai coding python app](https://www.reddit.com/r/Python/comments/uwjg2u/george_hotz_speed_ai_coding_python_app/)
 - [Python Ukraine Flag](https://www.reddit.com/r/Python/comments/uwik0y/python_ukraine_flag/)
 - [I think the CTX package on PyPI has been hacked!](https://www.reddit.com/r/Python/comments/uwhzkj/i_think_the_ctx_package_on_pypi_has_been_hacked/)
 - [Declarative and sand boxed Python app in 2022](https://www.reddit.com/r/Python/comments/uweicq/declarative_and_sand_boxed_python_app_in_2022/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/uwdxeu/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
