@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are incredible Python modules you can build entire projects around?](https://www.reddit.com/r/Python/comments/uwy8b9/what_are_incredible_python_modules_you_can_build/)
+- [Wrapper functions should not come before real funcs in Docs](https://www.reddit.com/r/Python/comments/uwxr0u/wrapper_functions_should_not_come_before_real/)
+- [Include links in Docs to an example of the function in an online code editor](https://www.reddit.com/r/Python/comments/uwxk52/include_links_in_docs_to_an_example_of_the/)
 - [AI app to help you read your book efficiently](https://www.reddit.com/r/Python/comments/uwvc4o/ai_app_to_help_you_read_your_book_efficiently/)
 - [I’m a senior full stack dev taking my first role on a python web stack. Other devs who’ve moved to python, what tips/tricks/gotchas do you wish you’d known ahead of time?](https://www.reddit.com/r/Python/comments/uwva2d/im_a_senior_full_stack_dev_taking_my_first_role/)
-- [Remove duplicate values in each row of the column.](https://www.reddit.com/r/Python/comments/uwup2m/remove_duplicate_values_in_each_row_of_the_column/)
-- [Python vs Java vs C++ Comparison | Running the Same Program: &quot;Hello World&quot;, at the Same Time.](https://www.reddit.com/r/Python/comments/uwukw6/python_vs_java_vs_c_comparison_running_the_same/)
-- [Tetra - A full stack component framework for Django using Alpine.js](https://www.reddit.com/r/Python/comments/uwr46u/tetra_a_full_stack_component_framework_for_django/)
 <!-- BLOG-POST-LIST:END -->
