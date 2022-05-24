@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Declarative and sand boxed Python app in 2022](https://www.reddit.com/r/Python/comments/uweicq/declarative_and_sand_boxed_python_app_in_2022/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/uwdxeu/tuesday_daily_thread_advanced_questions/)
+- [Python, combinatorics, and gaming tournaments](https://www.reddit.com/r/Python/comments/uwdmrn/python_combinatorics_and_gaming_tournaments/)
+- [aws should be easy](https://www.reddit.com/r/Python/comments/uwdlba/aws_should_be_easy/)
 - [Simple Poker Card Dealer](https://www.reddit.com/r/Python/comments/uwchvb/simple_poker_card_dealer/)
-- [PyCon videos are up!](https://www.reddit.com/r/Python/comments/uwaz4w/pycon_videos_are_up/)
-- [Working on some pseudo 3D multiplayer stuff with Python and Pygame](https://www.reddit.com/r/Python/comments/uw9xtg/working_on_some_pseudo_3d_multiplayer_stuff_with/)
-- [I made gravity for any tkinter GUI window](https://www.reddit.com/r/Python/comments/uw9tgm/i_made_gravity_for_any_tkinter_gui_window/)
-- [PyScript and Flask: Basic PyScript Frontend and DOM manipulations](https://www.reddit.com/r/Python/comments/uw54j7/pyscript_and_flask_basic_pyscript_frontend_and/)
 <!-- BLOG-POST-LIST:END -->
