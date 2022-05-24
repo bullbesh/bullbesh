@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI app to help you read your book efficiently](https://www.reddit.com/r/Python/comments/uwvc4o/ai_app_to_help_you_read_your_book_efficiently/)
+- [I’m a senior full stack dev taking my first role on a python web stack. Other devs who’ve moved to python, what tips/tricks/gotchas do you wish you’d known ahead of time?](https://www.reddit.com/r/Python/comments/uwva2d/im_a_senior_full_stack_dev_taking_my_first_role/)
 - [Remove duplicate values in each row of the column.](https://www.reddit.com/r/Python/comments/uwup2m/remove_duplicate_values_in_each_row_of_the_column/)
 - [Python vs Java vs C++ Comparison | Running the Same Program: &quot;Hello World&quot;, at the Same Time.](https://www.reddit.com/r/Python/comments/uwukw6/python_vs_java_vs_c_comparison_running_the_same/)
 - [Tetra - A full stack component framework for Django using Alpine.js](https://www.reddit.com/r/Python/comments/uwr46u/tetra_a_full_stack_component_framework_for_django/)
-- [Gradio Summer Hackathon 2022](https://www.reddit.com/r/Python/comments/uwpyhb/gradio_summer_hackathon_2022/)
-- [Free Python Books](https://www.reddit.com/r/Python/comments/uwpniq/free_python_books/)
 <!-- BLOG-POST-LIST:END -->
