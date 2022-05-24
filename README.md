@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python vs Ruby](https://www.reddit.com/r/Python/comments/uwrb14/python_vs_ruby/)
 - [Tetra - A full stack component framework for Django using Alpine.js](https://www.reddit.com/r/Python/comments/uwr46u/tetra_a_full_stack_component_framework_for_django/)
 - [Gradio Summer Hackathon 2022](https://www.reddit.com/r/Python/comments/uwpyhb/gradio_summer_hackathon_2022/)
 - [Free Python Books](https://www.reddit.com/r/Python/comments/uwpniq/free_python_books/)
 - [I made a game engine that runs in the terminal!](https://www.reddit.com/r/Python/comments/uwo8n7/i_made_a_game_engine_that_runs_in_the_terminal/)
-- [Could someone give me some feedback on a Connect 4 clone I made?](https://www.reddit.com/r/Python/comments/uwo1bo/could_someone_give_me_some_feedback_on_a_connect/)
 <!-- BLOG-POST-LIST:END -->
