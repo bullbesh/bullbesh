@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python vs Ruby](https://www.reddit.com/r/Python/comments/uwrb14/python_vs_ruby/)
+- [Learn Python Programming - Python for Beginners](https://www.reddit.com/r/Python/comments/uwsmk1/learn_python_programming_python_for_beginners/)
 - [Tetra - A full stack component framework for Django using Alpine.js](https://www.reddit.com/r/Python/comments/uwr46u/tetra_a_full_stack_component_framework_for_django/)
 - [Gradio Summer Hackathon 2022](https://www.reddit.com/r/Python/comments/uwpyhb/gradio_summer_hackathon_2022/)
 - [Free Python Books](https://www.reddit.com/r/Python/comments/uwpniq/free_python_books/)
