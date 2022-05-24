@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [subplot spacing](https://www.reddit.com/r/Python/comments/uwnifh/subplot_spacing/)
+- [I made a game engine that runs in the terminal!](https://www.reddit.com/r/Python/comments/uwo8n7/i_made_a_game_engine_that_runs_in_the_terminal/)
+- [Could someone give me some feedback on a Connect 4 clone I made?](https://www.reddit.com/r/Python/comments/uwo1bo/could_someone_give_me_some_feedback_on_a_connect/)
+- [html testing](https://www.reddit.com/r/Python/comments/uwnp6v/html_testing/)
 - [Redeeming relics in Discord game | Python](https://www.reddit.com/r/Python/comments/uwn8fy/redeeming_relics_in_discord_game_python/)
 - [I made a little tool to fetch translations for words from Wiktionary!](https://www.reddit.com/r/Python/comments/uwmpiz/i_made_a_little_tool_to_fetch_translations_for/)
-- [Source Code For Online Movie Ticket Booking In Python](https://www.reddit.com/r/Python/comments/uwm1gt/source_code_for_online_movie_ticket_booking_in/)
-- [tkinter multiprocessing problem](https://www.reddit.com/r/Python/comments/uwlph6/tkinter_multiprocessing_problem/)
 <!-- BLOG-POST-LIST:END -->
