@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn Python Programming - Python for Beginners](https://www.reddit.com/r/Python/comments/uwsmk1/learn_python_programming_python_for_beginners/)
+- [Remove duplicate values in each row of the column.](https://www.reddit.com/r/Python/comments/uwup2m/remove_duplicate_values_in_each_row_of_the_column/)
+- [Python vs Java vs C++ Comparison | Running the Same Program: &quot;Hello World&quot;, at the Same Time.](https://www.reddit.com/r/Python/comments/uwukw6/python_vs_java_vs_c_comparison_running_the_same/)
 - [Tetra - A full stack component framework for Django using Alpine.js](https://www.reddit.com/r/Python/comments/uwr46u/tetra_a_full_stack_component_framework_for_django/)
 - [Gradio Summer Hackathon 2022](https://www.reddit.com/r/Python/comments/uwpyhb/gradio_summer_hackathon_2022/)
 - [Free Python Books](https://www.reddit.com/r/Python/comments/uwpniq/free_python_books/)
-- [I made a game engine that runs in the terminal!](https://www.reddit.com/r/Python/comments/uwo8n7/i_made_a_game_engine_that_runs_in_the_terminal/)
 <!-- BLOG-POST-LIST:END -->
