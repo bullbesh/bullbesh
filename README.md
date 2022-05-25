@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve made a ORM framework for MySQL](https://www.reddit.com/r/Python/comments/uxe3gi/ive_made_a_orm_framework_for_mysql/)
+- [Python script throwing invalid syntax](https://www.reddit.com/r/Python/comments/uxdvcr/python_script_throwing_invalid_syntax/)
+- [Will GIL ever be gone?](https://www.reddit.com/r/Python/comments/uxdhh8/will_gil_ever_be_gone/)
 - [Poetry over PIP?](https://www.reddit.com/r/Python/comments/uxcsa1/poetry_over_pip/)
 - [Turn mouse events into art!](https://www.reddit.com/r/Python/comments/uxcddb/turn_mouse_events_into_art/)
-- [Working with CSV files using csv and pandas library in Python](https://www.reddit.com/r/Python/comments/uxbjtx/working_with_csv_files_using_csv_and_pandas/)
-- [copipy: Adding copyright to your all project files is now easy.](https://www.reddit.com/r/Python/comments/ux7e91/copipy_adding_copyright_to_your_all_project_files/)
-- [Mongoclass, A basic ORM like interface for mongodb that uses dataclasses as schemas.](https://www.reddit.com/r/Python/comments/ux7513/mongoclass_a_basic_orm_like_interface_for_mongodb/)
 <!-- BLOG-POST-LIST:END -->
