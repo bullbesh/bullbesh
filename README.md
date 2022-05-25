@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Detect chess pieces and chessboard](https://www.reddit.com/r/Python/comments/uxmadr/detect_chess_pieces_and_chessboard/)
-- [Bmcc college student here. Should i study Kotlin or python](https://www.reddit.com/r/Python/comments/uxm2rn/bmcc_college_student_here_should_i_study_kotlin/)
-- [What fun projects have you coded just to see if it could be done or just for S&amp;Gs?](https://www.reddit.com/r/Python/comments/uxlic4/what_fun_projects_have_you_coded_just_to_see_if/)
 - [[Showcase] Frankly a website to help collect feedback from your clients](https://www.reddit.com/r/Python/comments/uxlb98/showcase_frankly_a_website_to_help_collect/)
 - [Mypy 0.960 Released](https://www.reddit.com/r/Python/comments/uxl6zb/mypy_0960_released/)
+- [Sudoku Solver with WebUI](https://www.reddit.com/r/Python/comments/uxl4jb/sudoku_solver_with_webui/)
+- [Utilizing List Comprehension Tutorial](https://www.reddit.com/r/Python/comments/uxl0qt/utilizing_list_comprehension_tutorial/)
+- [How to think about session with Flask](https://www.reddit.com/r/Python/comments/uxkxlg/how_to_think_about_session_with_flask/)
 <!-- BLOG-POST-LIST:END -->
