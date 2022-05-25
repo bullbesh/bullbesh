@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [copipy: Adding copyright to your all project files is now easy.](https://www.reddit.com/r/Python/comments/ux7e91/copipy_adding_copyright_to_your_all_project_files/)
+- [Mongoclass, A basic ORM like interface for mongodb that uses dataclasses as schemas.](https://www.reddit.com/r/Python/comments/ux7513/mongoclass_a_basic_orm_like_interface_for_mongodb/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/ux4liu/wednesday_daily_thread_beginner_questions/)
 - [My 3 days GUI project: SolarGUI.](https://www.reddit.com/r/Python/comments/ux47g6/my_3_days_gui_project_solargui/)
 - [What change should Python 4 bring, in your opinion?](https://www.reddit.com/r/Python/comments/ux2h7h/what_change_should_python_4_bring_in_your_opinion/)
-- [What stops python from taking over everything else?](https://www.reddit.com/r/Python/comments/ux29bg/what_stops_python_from_taking_over_everything_else/)
-- [Created my First API Library for Lend SaaS API. Feedback welcome..](https://www.reddit.com/r/Python/comments/ux1stk/created_my_first_api_library_for_lend_saas_api/)
 <!-- BLOG-POST-LIST:END -->
