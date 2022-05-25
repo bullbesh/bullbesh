@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [snake game in python using pyscript and pywebcanvas](https://www.reddit.com/r/Python/comments/uxpjgh/snake_game_in_python_using_pyscript_and/)
-- [[Showcase] Frankly a website to help collect feedback from your clients](https://www.reddit.com/r/Python/comments/uxlb98/showcase_frankly_a_website_to_help_collect/)
-- [Mypy 0.960 Released](https://www.reddit.com/r/Python/comments/uxl6zb/mypy_0960_released/)
-- [Sudoku Solver with WebUI](https://www.reddit.com/r/Python/comments/uxl4jb/sudoku_solver_with_webui/)
-- [Utilizing List Comprehension Tutorial](https://www.reddit.com/r/Python/comments/uxl0qt/utilizing_list_comprehension_tutorial/)
+- [Library for generating really customizable graphs.](https://www.reddit.com/r/Python/comments/uxr1lv/library_for_generating_really_customizable_graphs/)
+- [All you need to know about Asterisks in Python](https://www.reddit.com/r/Python/comments/uxqpld/all_you_need_to_know_about_asterisks_in_python/)
+- [FFMPEG Audio Encoder v4.0 &lpar;GUI&rpar; &lpar;Windows 7+ x64&rpar;](https://www.reddit.com/r/Python/comments/uxqkn3/ffmpeg_audio_encoder_v40_gui_windows_7_x64/)
+- [Library for generating really customizable.](https://www.reddit.com/r/Python/comments/uxqfni/library_for_generating_really_customizable/)
+- [Menus in Python](https://www.reddit.com/r/Python/comments/uxqfia/menus_in_python/)
 <!-- BLOG-POST-LIST:END -->
