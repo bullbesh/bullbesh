@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve made a ORM framework for MySQL](https://www.reddit.com/r/Python/comments/uxe3gi/ive_made_a_orm_framework_for_mysql/)
-- [Python script throwing invalid syntax](https://www.reddit.com/r/Python/comments/uxdvcr/python_script_throwing_invalid_syntax/)
-- [Will GIL ever be gone?](https://www.reddit.com/r/Python/comments/uxdhh8/will_gil_ever_be_gone/)
-- [Poetry over PIP?](https://www.reddit.com/r/Python/comments/uxcsa1/poetry_over_pip/)
-- [Turn mouse events into art!](https://www.reddit.com/r/Python/comments/uxcddb/turn_mouse_events_into_art/)
+- [Teaching Alexa Sign Language With Tensorflow.js And ML](https://www.reddit.com/r/Python/comments/uxh995/teaching_alexa_sign_language_with_tensorflowjs/)
+- [How I hacked Popular Packages | My side of the Story of Hacking CTX and PHPass Modules](https://www.reddit.com/r/Python/comments/uxgsuv/how_i_hacked_popular_packages_my_side_of_the/)
+- [Ctx hacked: The &quot;perp&quot; explains himself.](https://www.reddit.com/r/Python/comments/uxgpq3/ctx_hacked_the_perp_explains_himself/)
+- [New user](https://www.reddit.com/r/Python/comments/uxgnmv/new_user/)
+- [Help!! I need to extract 2 specific columns “company” and “price” from a data frame but my formula not working - print&lpar;pd.Dataframe&lpar;df[[‘company’, ‘price’]].idxmax&rpar;&rpar;&rpar;](https://www.reddit.com/r/Python/comments/uxgkph/help_i_need_to_extract_2_specific_columns_company/)
 <!-- BLOG-POST-LIST:END -->
