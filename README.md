@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Crypto Trading Bot In 125 Lines of Python code | Trading Bot step by Step](https://www.reddit.com/r/Python/comments/uy8gbu/crypto_trading_bot_in_125_lines_of_python_code/)
 - [Making pip installs a little less slow](https://www.reddit.com/r/Python/comments/uy7dcb/making_pip_installs_a_little_less_slow/)
 - [Google Earth Engine Scripts in Python](https://www.reddit.com/r/Python/comments/uy6pjy/google_earth_engine_scripts_in_python/)
 - [Reinforcement learning - Snake game A.I](https://www.reddit.com/r/Python/comments/uy6c8a/reinforcement_learning_snake_game_ai/)
 - [New release of Firebird driver for Python V1.5.0](https://www.reddit.com/r/Python/comments/uy64vn/new_release_of_firebird_driver_for_python_v150/)
-- [wave function collapse in python](https://www.reddit.com/r/Python/comments/uy3gc0/wave_function_collapse_in_python/)
 <!-- BLOG-POST-LIST:END -->
