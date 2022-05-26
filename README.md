@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Do you know a solid implementation of jpeg encoder+decoder written in Python?](https://www.reddit.com/r/Python/comments/uy2t24/do_you_know_a_solid_implementation_of_jpeg/)
-- [Help with GUI Layout](https://www.reddit.com/r/Python/comments/uy1b5v/help_with_gui_layout/)
-- [Algorithm I wrote to find permutations of a string.](https://www.reddit.com/r/Python/comments/uxz4dz/algorithm_i_wrote_to_find_permutations_of_a_string/)
-- [100k downloads from PyPI for my home project BrainFlow](https://www.reddit.com/r/Python/comments/uxyqrv/100k_downloads_from_pypi_for_my_home_project/)
-- [where to deploy data gathering script](https://www.reddit.com/r/Python/comments/uxylkl/where_to_deploy_data_gathering_script/)
+- [wave function collapse in python](https://www.reddit.com/r/Python/comments/uy3gc0/wave_function_collapse_in_python/)
+- [How To Develop, Package and Distribute a Python Library](https://www.reddit.com/r/Python/comments/uy3fuv/how_to_develop_package_and_distribute_a_python/)
+- [Measuring efficiency of Python generators using resource library](https://www.reddit.com/r/Python/comments/uy3an8/measuring_efficiency_of_python_generators_using/)
+- [Start Building With blqs](https://www.reddit.com/r/Python/comments/uy39ag/start_building_with_blqs/)
+- [369 algo part II](https://www.reddit.com/r/Python/comments/uy2ycv/369_algo_part_ii/)
 <!-- BLOG-POST-LIST:END -->
