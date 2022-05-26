@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Error ModuleNotFoundError: No module named &#39;folder1&#39;. Have you ever seen this?](https://www.reddit.com/r/Python/comments/uyc0b3/error_modulenotfounderror_no_module_named_folder1/)
+- [pauloxnet - The Django speaking tour 2022](https://www.reddit.com/r/Python/comments/uydugu/pauloxnet_the_django_speaking_tour_2022/)
 - [Python Standard Library changes in recent years](https://www.reddit.com/r/Python/comments/uyb9ke/python_standard_library_changes_in_recent_years/)
 - [Libraries that depend on the CTX package](https://www.reddit.com/r/Python/comments/uyb5da/libraries_that_depend_on_the_ctx_package/)
 - [Online monitoring service.](https://www.reddit.com/r/Python/comments/uya7wu/online_monitoring_service/)
