@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Standard Library changes in recent years](https://www.reddit.com/r/Python/comments/uyb9ke/python_standard_library_changes_in_recent_years/)
+- [Libraries that depend on the CTX package](https://www.reddit.com/r/Python/comments/uyb5da/libraries_that_depend_on_the_ctx_package/)
+- [Online monitoring service.](https://www.reddit.com/r/Python/comments/uya7wu/online_monitoring_service/)
 - [Need suggestion? 🙇](https://www.reddit.com/r/Python/comments/uy9u2r/need_suggestion/)
 - [Making pip installs a little less slow](https://www.reddit.com/r/Python/comments/uy7dcb/making_pip_installs_a_little_less_slow/)
-- [Google Earth Engine Scripts in Python](https://www.reddit.com/r/Python/comments/uy6pjy/google_earth_engine_scripts_in_python/)
-- [Reinforcement learning - Snake game A.I](https://www.reddit.com/r/Python/comments/uy6c8a/reinforcement_learning_snake_game_ai/)
-- [New release of Firebird driver for Python V1.5.0](https://www.reddit.com/r/Python/comments/uy64vn/new_release_of_firebird_driver_for_python_v150/)
 <!-- BLOG-POST-LIST:END -->
