@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [100k downloads from PyPI for my home project BrainFlow](https://www.reddit.com/r/Python/comments/uxyqrv/100k_downloads_from_pypi_for_my_home_project/)
+- [where to deploy data gathering script](https://www.reddit.com/r/Python/comments/uxylkl/where_to_deploy_data_gathering_script/)
 - [Cookie Clicker copy in tkinter python](https://www.reddit.com/r/Python/comments/uxwo3e/cookie_clicker_copy_in_tkinter_python/)
 - [With WSL / Docker, Python less Supported on Windows?](https://www.reddit.com/r/Python/comments/uxvx0v/with_wsl_docker_python_less_supported_on_windows/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/uxuom9/thursday_daily_thread_python_careers_courses_and/)
-- [Open Source Python Thin Driver for Oracle Database](https://www.reddit.com/r/Python/comments/uxu32r/open_source_python_thin_driver_for_oracle_database/)
-- [Q-means: the quantum k-means open-source project](https://www.reddit.com/r/Python/comments/uxtqk1/qmeans_the_quantum_kmeans_opensource_project/)
 <!-- BLOG-POST-LIST:END -->
