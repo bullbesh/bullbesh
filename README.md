@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Crypto Trading Bot In 125 Lines of Python code | Trading Bot step by Step](https://www.reddit.com/r/Python/comments/uy8gbu/crypto_trading_bot_in_125_lines_of_python_code/)
+- [Need suggestion? 🙇](https://www.reddit.com/r/Python/comments/uy9u2r/need_suggestion/)
 - [Making pip installs a little less slow](https://www.reddit.com/r/Python/comments/uy7dcb/making_pip_installs_a_little_less_slow/)
 - [Google Earth Engine Scripts in Python](https://www.reddit.com/r/Python/comments/uy6pjy/google_earth_engine_scripts_in_python/)
 - [Reinforcement learning - Snake game A.I](https://www.reddit.com/r/Python/comments/uy6c8a/reinforcement_learning_snake_game_ai/)
