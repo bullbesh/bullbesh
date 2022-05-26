@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cookie Clicker copy in tkinter python](https://www.reddit.com/r/Python/comments/uxwo3e/cookie_clicker_copy_in_tkinter_python/)
+- [With WSL / Docker, Python less Supported on Windows?](https://www.reddit.com/r/Python/comments/uxvx0v/with_wsl_docker_python_less_supported_on_windows/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/uxuom9/thursday_daily_thread_python_careers_courses_and/)
+- [Open Source Python Thin Driver for Oracle Database](https://www.reddit.com/r/Python/comments/uxu32r/open_source_python_thin_driver_for_oracle_database/)
 - [Q-means: the quantum k-means open-source project](https://www.reddit.com/r/Python/comments/uxtqk1/qmeans_the_quantum_kmeans_opensource_project/)
-- [Maybe Tesla was on to something...](https://www.reddit.com/r/Python/comments/uxtj3z/maybe_tesla_was_on_to_something/)
-- [100 Days of Code Python | Call to Arms &lpar;What is your Advice?&rpar;](https://www.reddit.com/r/Python/comments/uxri5i/100_days_of_code_python_call_to_arms_what_is_your/)
-- [Library for generating really customizable graphs.](https://www.reddit.com/r/Python/comments/uxr1lv/library_for_generating_really_customizable_graphs/)
-- [All you need to know about Asterisks in Python](https://www.reddit.com/r/Python/comments/uxqpld/all_you_need_to_know_about_asterisks_in_python/)
 <!-- BLOG-POST-LIST:END -->
