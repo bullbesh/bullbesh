@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Script help](https://www.reddit.com/r/Python/comments/uy4kvx/script_help/)
+- [Google Earth Engine Scripts in Python](https://www.reddit.com/r/Python/comments/uy6pjy/google_earth_engine_scripts_in_python/)
+- [Reinforcement learning - Snake game A.I](https://www.reddit.com/r/Python/comments/uy6c8a/reinforcement_learning_snake_game_ai/)
+- [New release of Firebird driver for Python V1.5.0](https://www.reddit.com/r/Python/comments/uy64vn/new_release_of_firebird_driver_for_python_v150/)
 - [wave function collapse in python](https://www.reddit.com/r/Python/comments/uy3gc0/wave_function_collapse_in_python/)
 - [How To Develop, Package and Distribute a Python Library](https://www.reddit.com/r/Python/comments/uy3fuv/how_to_develop_package_and_distribute_a_python/)
-- [Measuring efficiency of Python generators using resource library](https://www.reddit.com/r/Python/comments/uy3an8/measuring_efficiency_of_python_generators_using/)
-- [Start Building With blqs](https://www.reddit.com/r/Python/comments/uy39ag/start_building_with_blqs/)
 <!-- BLOG-POST-LIST:END -->
