@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tensorflow: Making Predictions from 2D data](https://www.reddit.com/r/Python/comments/uz7g3w/tensorflow_making_predictions_from_2d_data/)
+- [I made a library that makes naive forecasting easy](https://www.reddit.com/r/Python/comments/uz713u/i_made_a_library_that_makes_naive_forecasting_easy/)
 - [I just released my book &quot;Learn Python through Nursery Rhymes and Fairy Tales&quot;!](https://www.reddit.com/r/Python/comments/uz621m/i_just_released_my_book_learn_python_through/)
 - [Reading suggestions on how to structure and name my files](https://www.reddit.com/r/Python/comments/uz5piv/reading_suggestions_on_how_to_structure_and_name/)
 - [Surprising ways how to use Jupyter Notebook](https://www.reddit.com/r/Python/comments/uz24yf/surprising_ways_how_to_use_jupyter_notebook/)
-- [Python script to calculate air parameters](https://www.reddit.com/r/Python/comments/uz17u6/python_script_to_calculate_air_parameters/)
-- [The Python GIL: Past, Present, and Future](https://www.reddit.com/r/Python/comments/uywgi3/the_python_gil_past_present_and_future/)
 <!-- BLOG-POST-LIST:END -->
