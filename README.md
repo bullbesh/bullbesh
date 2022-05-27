@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain Explorer](https://www.reddit.com/r/Python/comments/uyvyza/blockchain_explorer/)
+- [How to communicate your intention while coding?](https://www.reddit.com/r/Python/comments/uyvx3c/how_to_communicate_your_intention_while_coding/)
 - [Solving polycube puzzles](https://www.reddit.com/r/Python/comments/uyv6vu/solving_polycube_puzzles/)
 - [HELP! GSM/GPRS/GNSS HAT - SIM868](https://www.reddit.com/r/Python/comments/uyuptp/help_gsmgprsgnss_hat_sim868/)
 - [Cats vs Dogs: Binary Classifier with PyTorch CNN](https://www.reddit.com/r/Python/comments/uyui5o/cats_vs_dogs_binary_classifier_with_pytorch_cnn/)
-- [Easiest Way to Determine which Object is Picked in Matplotlib](https://www.reddit.com/r/Python/comments/uyuh66/easiest_way_to_determine_which_object_is_picked/)
-- [Scraping ResearchGate authors/researchers in Python](https://www.reddit.com/r/Python/comments/uytwvy/scraping_researchgate_authorsresearchers_in_python/)
 <!-- BLOG-POST-LIST:END -->
