@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving polycube puzzles](https://www.reddit.com/r/Python/comments/uyv6vu/solving_polycube_puzzles/)
+- [HELP! GSM/GPRS/GNSS HAT - SIM868](https://www.reddit.com/r/Python/comments/uyuptp/help_gsmgprsgnss_hat_sim868/)
+- [Cats vs Dogs: Binary Classifier with PyTorch CNN](https://www.reddit.com/r/Python/comments/uyui5o/cats_vs_dogs_binary_classifier_with_pytorch_cnn/)
+- [Easiest Way to Determine which Object is Picked in Matplotlib](https://www.reddit.com/r/Python/comments/uyuh66/easiest_way_to_determine_which_object_is_picked/)
 - [Scraping ResearchGate authors/researchers in Python](https://www.reddit.com/r/Python/comments/uytwvy/scraping_researchgate_authorsresearchers_in_python/)
-- [Advantages-and-disadvantages-of-decision-trees](https://www.reddit.com/r/Python/comments/uyst4e/advantagesanddisadvantagesofdecisiontrees/)
-- [A tiny asymmetric/symmetric encryption lib for humans.](https://www.reddit.com/r/Python/comments/uysloc/a_tiny_asymmetricsymmetric_encryption_lib_for/)
-- [Deploying 5G Around Trees](https://www.reddit.com/r/Python/comments/uypksf/deploying_5g_around_trees/)
-- [I made a script that helps me decide where I should put my money.](https://www.reddit.com/r/Python/comments/uyp7se/i_made_a_script_that_helps_me_decide_where_i/)
 <!-- BLOG-POST-LIST:END -->
