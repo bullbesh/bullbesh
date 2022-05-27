@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scraping ResearchGate authors/researchers in Python](https://www.reddit.com/r/Python/comments/uytwvy/scraping_researchgate_authorsresearchers_in_python/)
 - [Advantages-and-disadvantages-of-decision-trees](https://www.reddit.com/r/Python/comments/uyst4e/advantagesanddisadvantagesofdecisiontrees/)
 - [A tiny asymmetric/symmetric encryption lib for humans.](https://www.reddit.com/r/Python/comments/uysloc/a_tiny_asymmetricsymmetric_encryption_lib_for/)
 - [Deploying 5G Around Trees](https://www.reddit.com/r/Python/comments/uypksf/deploying_5g_around_trees/)
 - [I made a script that helps me decide where I should put my money.](https://www.reddit.com/r/Python/comments/uyp7se/i_made_a_script_that_helps_me_decide_where_i/)
-- [Easy Python Paint Project using the Pygame Module!](https://www.reddit.com/r/Python/comments/uyoend/easy_python_paint_project_using_the_pygame_module/)
 <!-- BLOG-POST-LIST:END -->
