@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Software Developer at JP Morgan](https://www.reddit.com/r/Python/comments/uyjtkn/software_developer_at_jp_morgan/)
+- [Drawing program in tkinter](https://www.reddit.com/r/Python/comments/uymase/drawing_program_in_tkinter/)
+- [Tensorflow ‘GPU’ on Mac Book Pro issues - Please help!](https://www.reddit.com/r/Python/comments/uykh92/tensorflow_gpu_on_mac_book_pro_issues_please_help/)
+- [Yet another stock screener](https://www.reddit.com/r/Python/comments/uykgti/yet_another_stock_screener/)
 - [Friendly community server for Programming and DevOps](https://www.reddit.com/r/Python/comments/uyj5h5/friendly_community_server_for_programming_and/)
 - [All python programming books at $10 sale](https://www.reddit.com/r/Python/comments/uyiawo/all_python_programming_books_at_10_sale/)
-- [Termage: A library to export Python terminal output as SVG, complete with an MkDocs plugin!](https://www.reddit.com/r/Python/comments/uyi3np/termage_a_library_to_export_python_terminal/)
-- [Gradio Blocks + Hugging Face AI python hackathon, build AI web demos like DALLE-mini, anime colorization, face stylization and more! A online hackathon open until May 31st with prizes in which we will create interactive web demos for machine learning models](https://www.reddit.com/r/Python/comments/uyh0a2/gradio_blocks_hugging_face_ai_python_hackathon/)
 <!-- BLOG-POST-LIST:END -->
