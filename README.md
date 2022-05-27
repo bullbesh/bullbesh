@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [starting a discord server to share and help others with mock interviews, coding, daily solving sessions and projects. Join if interested.](https://www.reddit.com/r/Python/comments/uyxd6m/starting_a_discord_server_to_share_and_help/)
+- [Python Is OP!!!](https://www.reddit.com/r/Python/comments/uywv5s/python_is_op/)
+- [The Python GIL: Past, Present, and Future](https://www.reddit.com/r/Python/comments/uywgi3/the_python_gil_past_present_and_future/)
 - [Blockchain Explorer](https://www.reddit.com/r/Python/comments/uyvyza/blockchain_explorer/)
 - [How to communicate your intention while coding?](https://www.reddit.com/r/Python/comments/uyvx3c/how_to_communicate_your_intention_while_coding/)
-- [Solving polycube puzzles](https://www.reddit.com/r/Python/comments/uyv6vu/solving_polycube_puzzles/)
-- [HELP! GSM/GPRS/GNSS HAT - SIM868](https://www.reddit.com/r/Python/comments/uyuptp/help_gsmgprsgnss_hat_sim868/)
-- [Cats vs Dogs: Binary Classifier with PyTorch CNN](https://www.reddit.com/r/Python/comments/uyui5o/cats_vs_dogs_binary_classifier_with_pytorch_cnn/)
 <!-- BLOG-POST-LIST:END -->
