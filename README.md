@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Feature Types for Machine Learning - A Python Programmer&#39;s Perspective](https://www.reddit.com/r/Python/comments/uz91ce/feature_types_for_machine_learning_a_python/)
 - [Tensorflow: Making Predictions from 2D data](https://www.reddit.com/r/Python/comments/uz7g3w/tensorflow_making_predictions_from_2d_data/)
 - [I made a library that makes naive forecasting easy](https://www.reddit.com/r/Python/comments/uz713u/i_made_a_library_that_makes_naive_forecasting_easy/)
 - [I just released my book &quot;Learn Python through Nursery Rhymes and Fairy Tales&quot;!](https://www.reddit.com/r/Python/comments/uz621m/i_just_released_my_book_learn_python_through/)
 - [Reading suggestions on how to structure and name my files](https://www.reddit.com/r/Python/comments/uz5piv/reading_suggestions_on_how_to_structure_and_name/)
-- [Surprising ways how to use Jupyter Notebook](https://www.reddit.com/r/Python/comments/uz24yf/surprising_ways_how_to_use_jupyter_notebook/)
 <!-- BLOG-POST-LIST:END -->
