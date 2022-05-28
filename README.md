@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pyspeed: an asynchronous CLI tool made to speed up python by avoiding running the script running more than once using sockets and/or files](https://www.reddit.com/r/Python/comments/uzoaja/pyspeed_an_asynchronous_cli_tool_made_to_speed_up/)
+- [A modern and customizable python UI-library based on Tkinter](https://www.reddit.com/r/Python/comments/uznn8f/a_modern_and_customizable_python_uilibrary_based/)
 - [Solving system of coupled differential equations using Runge-Kutta in python](https://www.reddit.com/r/Python/comments/uzn29p/solving_system_of_coupled_differential_equations/)
-- [Python &amp; Youtube](https://www.reddit.com/r/Python/comments/uzkse3/python_youtube/)
 - [Dragon Hunters - A game to remember](https://www.reddit.com/r/Python/comments/uzknw8/dragon_hunters_a_game_to_remember/)
 - [Python Cybersecurity 101 — Build your own tools](https://www.reddit.com/r/Python/comments/uzj8ls/python_cybersecurity_101_build_your_own_tools/)
-- [I am 34 year old 2x founder looking to start afresh. Need guidance.](https://www.reddit.com/r/Python/comments/uzizob/i_am_34_year_old_2x_founder_looking_to_start/)
 <!-- BLOG-POST-LIST:END -->
