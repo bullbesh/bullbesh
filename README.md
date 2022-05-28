@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving system of coupled differential equations using Runge-Kutta in python](https://www.reddit.com/r/Python/comments/uzn29p/solving_system_of_coupled_differential_equations/)
 - [Python &amp; Youtube](https://www.reddit.com/r/Python/comments/uzkse3/python_youtube/)
 - [Dragon Hunters - A game to remember](https://www.reddit.com/r/Python/comments/uzknw8/dragon_hunters_a_game_to_remember/)
 - [Python Cybersecurity 101 — Build your own tools](https://www.reddit.com/r/Python/comments/uzj8ls/python_cybersecurity_101_build_your_own_tools/)
 - [I am 34 year old 2x founder looking to start afresh. Need guidance.](https://www.reddit.com/r/Python/comments/uzizob/i_am_34_year_old_2x_founder_looking_to_start/)
-- [TlHelp32 - A Pythonic API for the Windows Tool Help Library](https://www.reddit.com/r/Python/comments/uzg14c/tlhelp32_a_pythonic_api_for_the_windows_tool_help/)
 <!-- BLOG-POST-LIST:END -->
