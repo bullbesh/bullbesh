@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/uzb906/saturday_daily_thread_resource_request_and/)
+- [Python and Unix pipes](https://www.reddit.com/r/Python/comments/uzb1ty/python_and_unix_pipes/)
+- [I use SQL very lightly at my job &lpar;just querying basic info&rpar;, and currently learning Python outside of work hours. Is there a job where I can combine both so I can maximize my learning in both?](https://www.reddit.com/r/Python/comments/uzaoql/i_use_sql_very_lightly_at_my_job_just_querying/)
 - [Library for making `__repr__` methods](https://www.reddit.com/r/Python/comments/uz9zsy/library_for_making_repr_methods/)
 - [Architecture Notes: Datasette - a Python web application that can also run in Electron and WebAssembly](https://www.reddit.com/r/Python/comments/uz9osy/architecture_notes_datasette_a_python_web/)
-- [Feature Types for Machine Learning - A Python Programmer&#39;s Perspective](https://www.reddit.com/r/Python/comments/uz91ce/feature_types_for_machine_learning_a_python/)
-- [Tensorflow: Making Predictions from 2D data](https://www.reddit.com/r/Python/comments/uz7g3w/tensorflow_making_predictions_from_2d_data/)
-- [I made a library that makes naive forecasting easy](https://www.reddit.com/r/Python/comments/uz713u/i_made_a_library_that_makes_naive_forecasting_easy/)
 <!-- BLOG-POST-LIST:END -->
