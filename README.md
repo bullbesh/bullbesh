@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am 34 year old 2x founder looking to start afresh. Need guidance.](https://www.reddit.com/r/Python/comments/uzizob/i_am_34_year_old_2x_founder_looking_to_start/)
 - [TlHelp32 - A Pythonic API for the Windows Tool Help Library](https://www.reddit.com/r/Python/comments/uzg14c/tlhelp32_a_pythonic_api_for_the_windows_tool_help/)
 - [Best Python IDE](https://www.reddit.com/r/Python/comments/uzfnom/best_python_ide/)
 - [Alexa Learns ASL, Making Alexa Talk to Mute People Using Machine Learning Source Code](https://www.reddit.com/r/Python/comments/uzf24s/alexa_learns_asl_making_alexa_talk_to_mute_people/)
 - [Python Poker](https://www.reddit.com/r/Python/comments/uzepmx/python_poker/)
-- [Created my first python package :D](https://www.reddit.com/r/Python/comments/uzedsh/created_my_first_python_package_d/)
 <!-- BLOG-POST-LIST:END -->
