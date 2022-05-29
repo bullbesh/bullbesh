@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Near-Earth Objects - A new Python + Space project &lpar;tutorial &amp; research&rpar;](https://www.reddit.com/r/Python/comments/v0c3w4/nearearth_objects_a_new_python_space_project/)
+- [AD Groups in Python](https://www.reddit.com/r/Python/comments/v0c2as/ad_groups_in_python/)
 - [Looking for Open Source projects to contribute to](https://www.reddit.com/r/Python/comments/v0ak4c/looking_for_open_source_projects_to_contribute_to/)
 - [any German here who knows the Chinese postman problem?](https://www.reddit.com/r/Python/comments/v0ads7/any_german_here_who_knows_the_chinese_postman/)
 - [Twitter Bot using Tweepy and the NASA API](https://www.reddit.com/r/Python/comments/v09qjf/twitter_bot_using_tweepy_and_the_nasa_api/)
-- [Dragon Hunters - The next snapshot](https://www.reddit.com/r/Python/comments/v08pld/dragon_hunters_the_next_snapshot/)
-- [A resource every day is back!](https://www.reddit.com/r/Python/comments/v07x74/a_resource_every_day_is_back/)
 <!-- BLOG-POST-LIST:END -->
