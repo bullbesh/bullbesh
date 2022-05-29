@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for Open Source projects to contribute to](https://www.reddit.com/r/Python/comments/v0ak4c/looking_for_open_source_projects_to_contribute_to/)
+- [any German here who knows the Chinese postman problem?](https://www.reddit.com/r/Python/comments/v0ads7/any_german_here_who_knows_the_chinese_postman/)
 - [Twitter Bot using Tweepy and the NASA API](https://www.reddit.com/r/Python/comments/v09qjf/twitter_bot_using_tweepy_and_the_nasa_api/)
 - [Dragon Hunters - The next snapshot](https://www.reddit.com/r/Python/comments/v08pld/dragon_hunters_the_next_snapshot/)
 - [A resource every day is back!](https://www.reddit.com/r/Python/comments/v07x74/a_resource_every_day_is_back/)
-- [Copying files to HDD contiguously](https://www.reddit.com/r/Python/comments/v07jhz/copying_files_to_hdd_contiguously/)
-- [How could I benefit from my knowledge of python](https://www.reddit.com/r/Python/comments/v075dv/how_could_i_benefit_from_my_knowledge_of_python/)
 <!-- BLOG-POST-LIST:END -->
