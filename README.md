@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dragon Hunters - The next snapshot](https://www.reddit.com/r/Python/comments/v08pld/dragon_hunters_the_next_snapshot/)
 - [A resource every day is back!](https://www.reddit.com/r/Python/comments/v07x74/a_resource_every_day_is_back/)
 - [Copying files to HDD contiguously](https://www.reddit.com/r/Python/comments/v07jhz/copying_files_to_hdd_contiguously/)
 - [How could I benefit from my knowledge of python](https://www.reddit.com/r/Python/comments/v075dv/how_could_i_benefit_from_my_knowledge_of_python/)
 - [Is it a bad practice to call dunder methods directly?](https://www.reddit.com/r/Python/comments/v06wiz/is_it_a_bad_practice_to_call_dunder_methods/)
-- [Python newbie here. Wrote this &lpar;kinda short&rpar; program to convert decimal numbers to binary. Thoughts?](https://www.reddit.com/r/Python/comments/v06it9/python_newbie_here_wrote_this_kinda_short_program/)
 <!-- BLOG-POST-LIST:END -->
