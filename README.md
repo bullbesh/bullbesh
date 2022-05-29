@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Asynchronous Programming Fundamentals](https://www.reddit.com/r/Python/comments/v0leui/python_asynchronous_programming_fundamentals/)
 - [Need projects to learn coding](https://www.reddit.com/r/Python/comments/v0jxl8/need_projects_to_learn_coding/)
 - [Python real time audio for a bot](https://www.reddit.com/r/Python/comments/v0hzi4/python_real_time_audio_for_a_bot/)
 - [find a nice roadmap for python](https://www.reddit.com/r/Python/comments/v0ge9s/find_a_nice_roadmap_for_python/)
 - [git-time-report: CLI tool to generate time report for git repositories](https://www.reddit.com/r/Python/comments/v0d00x/gittimereport_cli_tool_to_generate_time_report/)
-- [Is anyone interested in this project?](https://www.reddit.com/r/Python/comments/v0csv9/is_anyone_interested_in_this_project/)
 <!-- BLOG-POST-LIST:END -->
