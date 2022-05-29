@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Discord Python - Restricted Channels](https://www.reddit.com/r/Python/comments/v02zew/discord_python_restricted_channels/)
+- [How Many Of You Would Like A Blog / Tutorial On Building An API Using FastAPI](https://www.reddit.com/r/Python/comments/v02ftq/how_many_of_you_would_like_a_blog_tutorial_on/)
+- [How do you close a window with BreezyPythonGui pack?](https://www.reddit.com/r/Python/comments/v023vt/how_do_you_close_a_window_with_breezypythongui/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/uzzd07/sunday_daily_thread_whats_everyone_working_on/)
 - [Python Web Frameworks](https://www.reddit.com/r/Python/comments/uztxvn/python_web_frameworks/)
-- [OOP](https://www.reddit.com/r/Python/comments/uzrt1u/oop/)
-- [py-pomo: A simple CLI pomodoro timer with many options, in just 29 lines of Python code.](https://www.reddit.com/r/Python/comments/uzqccw/pypomo_a_simple_cli_pomodoro_timer_with_many/)
-- [flitenv: Manage venvs for flit project.](https://www.reddit.com/r/Python/comments/uzp44h/flitenv_manage_venvs_for_flit_project/)
 <!-- BLOG-POST-LIST:END -->
