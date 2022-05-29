@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling JSON files with ease in Python](https://www.reddit.com/r/Python/comments/v040jf/handling_json_files_with_ease_in_python/)
+- [problem to solve](https://www.reddit.com/r/Python/comments/v03xc1/problem_to_solve/)
 - [Discord Python - Restricted Channels](https://www.reddit.com/r/Python/comments/v02zew/discord_python_restricted_channels/)
 - [How Many Of You Would Like A Blog / Tutorial On Building An API Using FastAPI](https://www.reddit.com/r/Python/comments/v02ftq/how_many_of_you_would_like_a_blog_tutorial_on/)
 - [How do you close a window with BreezyPythonGui pack?](https://www.reddit.com/r/Python/comments/v023vt/how_do_you_close_a_window_with_breezypythongui/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/uzzd07/sunday_daily_thread_whats_everyone_working_on/)
-- [Python Web Frameworks](https://www.reddit.com/r/Python/comments/uztxvn/python_web_frameworks/)
 <!-- BLOG-POST-LIST:END -->
