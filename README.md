@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python newbie here. Wrote this &lpar;kinda short&rpar; program to convert decimal numbers to binary. Thoughts?](https://www.reddit.com/r/Python/comments/v06it9/python_newbie_here_wrote_this_kinda_short_program/)
+- [How I made macOS App with Python](https://www.reddit.com/r/Python/comments/v0661y/how_i_made_macos_app_with_python/)
+- [Music to Listen to While Coding](https://www.reddit.com/r/Python/comments/v05zvd/music_to_listen_to_while_coding/)
 - [Weather.gov API wrapper](https://www.reddit.com/r/Python/comments/v05etg/weathergov_api_wrapper/)
 - [Handling JSON files with ease in Python](https://www.reddit.com/r/Python/comments/v040jf/handling_json_files_with_ease_in_python/)
-- [problem to solve](https://www.reddit.com/r/Python/comments/v03xc1/problem_to_solve/)
-- [Discord Python - Restricted Channels](https://www.reddit.com/r/Python/comments/v02zew/discord_python_restricted_channels/)
-- [How Many Of You Would Like A Blog / Tutorial On Building An API Using FastAPI](https://www.reddit.com/r/Python/comments/v02ftq/how_many_of_you_would_like_a_blog_tutorial_on/)
 <!-- BLOG-POST-LIST:END -->
