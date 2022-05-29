@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/uzzd07/sunday_daily_thread_whats_everyone_working_on/)
 - [Python Web Frameworks](https://www.reddit.com/r/Python/comments/uztxvn/python_web_frameworks/)
 - [OOP](https://www.reddit.com/r/Python/comments/uzrt1u/oop/)
 - [py-pomo: A simple CLI pomodoro timer with many options, in just 29 lines of Python code.](https://www.reddit.com/r/Python/comments/uzqccw/pypomo_a_simple_cli_pomodoro_timer_with_many/)
 - [flitenv: Manage venvs for flit project.](https://www.reddit.com/r/Python/comments/uzp44h/flitenv_manage_venvs_for_flit_project/)
-- [Pyspeed: an asynchronous CLI tool made to speed up python by avoiding running the script running more than once using sockets and/or files](https://www.reddit.com/r/Python/comments/uzoaja/pyspeed_an_asynchronous_cli_tool_made_to_speed_up/)
 <!-- BLOG-POST-LIST:END -->
