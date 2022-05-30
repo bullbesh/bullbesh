@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - reanalytics-databoutique/webscraping-open-project: Repository of open knowledge about web scraping in Python](https://www.reddit.com/r/Python/comments/v0vtx7/github/)
 - [a recycleview is very handy when dealing with large amount of data https://youtu.be/gcGTfA8HmtM I also implemented it in the icons app https://youtu.be/F9J0OD8wFZo](https://www.reddit.com/r/Python/comments/v0vha6/a_recycleview_is_very_handy_when_dealing_with/)
 - [Python Logging &lpar;with examples&rpar;](https://www.reddit.com/r/Python/comments/v0vgor/python_logging_with_examples/)
 - [easy and fun browser testing from python with pyqt6-webengine](https://www.reddit.com/r/Python/comments/v0upr9/easy_and_fun_browser_testing_from_python_with/)
 - [Why Every Programmer Should Learn Python in Their Careers](https://www.reddit.com/r/Python/comments/v0ufgh/why_every_programmer_should_learn_python_in_their/)
-- [I&#39;m looking for a senior Python engineer for the cloud-based wireless carrier in the US](https://www.reddit.com/r/Python/comments/v0tls6/im_looking_for_a_senior_python_engineer_for_the/)
 <!-- BLOG-POST-LIST:END -->
