@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [stitching - a python package for fast and robust Image Stitching](https://www.reddit.com/r/Python/comments/v17ama/stitching_a_python_package_for_fast_and_robust/)
+- [Preview of my Python 2D/3D Graphics Engine](https://www.reddit.com/r/Python/comments/v16vef/preview_of_my_python_2d3d_graphics_engine/)
+- [How to write bigger programs and grow from intermediate level](https://www.reddit.com/r/Python/comments/v16oa9/how_to_write_bigger_programs_and_grow_from/)
 - [Ansible clone in Python](https://www.reddit.com/r/Python/comments/v16eaq/ansible_clone_in_python/)
 - [Second Project: Rock! Paper! Scissors! :D](https://www.reddit.com/r/Python/comments/v169o2/second_project_rock_paper_scissors_d/)
-- [Ansible clone in Python](https://www.reddit.com/r/Python/comments/v1690d/ansible_clone_in_python/)
-- [How do I delete a Singleton class for unit testing?](https://www.reddit.com/r/Python/comments/v166ue/how_do_i_delete_a_singleton_class_for_unit_testing/)
-- [TxtStyle - colorize log files](https://www.reddit.com/r/Python/comments/v1653u/txtstyle_colorize_log_files/)
 <!-- BLOG-POST-LIST:END -->
