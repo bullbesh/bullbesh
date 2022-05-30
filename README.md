@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is Something Yall Have Struggled With / Need A Tutorial](https://www.reddit.com/r/Python/comments/v0rd1j/what_is_something_yall_have_struggled_with_need_a/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/v0no4x/monday_daily_thread_project_ideas/)
 - [Wordle solver](https://www.reddit.com/r/Python/comments/v0nm04/wordle_solver/)
 - [Python Asynchronous Programming Fundamentals](https://www.reddit.com/r/Python/comments/v0leui/python_asynchronous_programming_fundamentals/)
 - [Need projects to learn coding](https://www.reddit.com/r/Python/comments/v0jxl8/need_projects_to_learn_coding/)
-- [Python real time audio for a bot](https://www.reddit.com/r/Python/comments/v0hzi4/python_real_time_audio_for_a_bot/)
 <!-- BLOG-POST-LIST:END -->
