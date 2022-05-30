@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just love how i fixed this code for Fibonacci number &lpar;Bold text is code thaat i fixed it with&rpar;](https://www.reddit.com/r/Python/comments/v13l5a/i_just_love_how_i_fixed_this_code_for_fibonacci/)
+- [solution for pywintypes error](https://www.reddit.com/r/Python/comments/v13fol/solution_for_pywintypes_error/)
 - [Python Mini Project - Dice Roller](https://www.reddit.com/r/Python/comments/v12kcv/python_mini_project_dice_roller/)
 - [Built a CLI tool for Docker users](https://www.reddit.com/r/Python/comments/v100sl/built_a_cli_tool_for_docker_users/)
 - [Web framework suggestions](https://www.reddit.com/r/Python/comments/v0zf3j/web_framework_suggestions/)
-- [Threading in Python](https://www.reddit.com/r/Python/comments/v0z5gy/threading_in_python/)
-- [Top-Rated PyCharm Plugins You Absolutely Need](https://www.reddit.com/r/Python/comments/v0yngb/toprated_pycharm_plugins_you_absolutely_need/)
 <!-- BLOG-POST-LIST:END -->
