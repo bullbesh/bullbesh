@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need Mentor](https://www.reddit.com/r/Python/comments/v10l04/need_mentor/)
 - [Built a CLI tool for Docker users](https://www.reddit.com/r/Python/comments/v100sl/built_a_cli_tool_for_docker_users/)
 - [Web framework suggestions](https://www.reddit.com/r/Python/comments/v0zf3j/web_framework_suggestions/)
 - [Threading in Python](https://www.reddit.com/r/Python/comments/v0z5gy/threading_in_python/)
 - [Top-Rated PyCharm Plugins You Absolutely Need](https://www.reddit.com/r/Python/comments/v0yngb/toprated_pycharm_plugins_you_absolutely_need/)
-- [hey guys im new to python i want to automate a text](https://www.reddit.com/r/Python/comments/v0xy56/hey_guys_im_new_to_python_i_want_to_automate_a/)
 <!-- BLOG-POST-LIST:END -->
