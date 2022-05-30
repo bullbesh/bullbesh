@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [a recycleview is very handy when dealing with large amount of data https://youtu.be/gcGTfA8HmtM I also implemented it in the icons app https://youtu.be/F9J0OD8wFZo](https://www.reddit.com/r/Python/comments/v0vha6/a_recycleview_is_very_handy_when_dealing_with/)
+- [Python Logging &lpar;with examples&rpar;](https://www.reddit.com/r/Python/comments/v0vgor/python_logging_with_examples/)
+- [easy and fun browser testing from python with pyqt6-webengine](https://www.reddit.com/r/Python/comments/v0upr9/easy_and_fun_browser_testing_from_python_with/)
 - [Why Every Programmer Should Learn Python in Their Careers](https://www.reddit.com/r/Python/comments/v0ufgh/why_every_programmer_should_learn_python_in_their/)
 - [I&#39;m looking for a senior Python engineer for the cloud-based wireless carrier in the US](https://www.reddit.com/r/Python/comments/v0tls6/im_looking_for_a_senior_python_engineer_for_the/)
-- [8 websites to practice coding problems: Our picks](https://www.reddit.com/r/Python/comments/v0t5et/8_websites_to_practice_coding_problems_our_picks/)
-- [First Usable Code For My Job!](https://www.reddit.com/r/Python/comments/v0sp5x/first_usable_code_for_my_job/)
-- [First ever Python project ^^](https://www.reddit.com/r/Python/comments/v0sdor/first_ever_python_project/)
 <!-- BLOG-POST-LIST:END -->
