@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Need Mentor](https://www.reddit.com/r/Python/comments/v10l04/need_mentor/)
+- [Python Mini Project - Dice Roller](https://www.reddit.com/r/Python/comments/v12kcv/python_mini_project_dice_roller/)
 - [Built a CLI tool for Docker users](https://www.reddit.com/r/Python/comments/v100sl/built_a_cli_tool_for_docker_users/)
 - [Web framework suggestions](https://www.reddit.com/r/Python/comments/v0zf3j/web_framework_suggestions/)
 - [Threading in Python](https://www.reddit.com/r/Python/comments/v0z5gy/threading_in_python/)
