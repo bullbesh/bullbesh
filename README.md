@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Would you blame beginners for copy and pasting codes from online sources?](https://www.reddit.com/r/Python/comments/v1qjxc/would_you_blame_beginners_for_copy_and_pasting/)
+- [Python News: What&#39;s New From May 2022 – Real Python](https://www.reddit.com/r/Python/comments/v1pnx6/python_news_whats_new_from_may_2022_real_python/)
+- [Detecting points in images with OpenCV](https://www.reddit.com/r/Python/comments/v1pmjg/detecting_points_in_images_with_opencv/)
 - [Tutorial on how to set up Celery workers with Flask and Redis](https://www.reddit.com/r/Python/comments/v1oy91/tutorial_on_how_to_set_up_celery_workers_with/)
 - [Internship](https://www.reddit.com/r/Python/comments/v1omb2/internship/)
-- [Which language, Java or Python, can process data faster?](https://www.reddit.com/r/Python/comments/v1nc4l/which_language_java_or_python_can_process_data/)
-- [Linear Regression In Python Explained With Multiple linear regression python](https://www.reddit.com/r/Python/comments/v1n20o/linear_regression_in_python_explained_with/)
-- [#!ing your bro](https://www.reddit.com/r/Python/comments/v1mseb/ing_your_bro/)
 <!-- BLOG-POST-LIST:END -->
