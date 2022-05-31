@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a Photo Player with Python and PyGame!](https://www.reddit.com/r/Python/comments/v1gn20/create_a_photo_player_with_python_and_pygame/)
+- [gedit schemas &lpar;themes&rpar;](https://www.reddit.com/r/Python/comments/v1fvv9/gedit_schemas_themes/)
+- [What&#39;s a good first project?](https://www.reddit.com/r/Python/comments/v1fq85/whats_a_good_first_project/)
 - [Other than data wrangling, visualisation and modelling, what do you use python for?](https://www.reddit.com/r/Python/comments/v1dgqw/other_than_data_wrangling_visualisation_and/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/v1dbgz/tuesday_daily_thread_advanced_questions/)
-- [Await Async Tutorial with Real Examples and Simple Explanations](https://www.reddit.com/r/Python/comments/v1cg4q/await_async_tutorial_with_real_examples_and/)
-- [As a Python developer, What are the most boring tasks that you made automation script to handle it?](https://www.reddit.com/r/Python/comments/v1arf2/as_a_python_developer_what_are_the_most_boring/)
-- [How long would it take to create this Kivy app?](https://www.reddit.com/r/Python/comments/v1amet/how_long_would_it_take_to_create_this_kivy_app/)
 <!-- BLOG-POST-LIST:END -->
