@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it possible to run Python3 on iOS?](https://www.reddit.com/r/Python/comments/v1imsq/is_it_possible_to_run_python3_on_ios/)
+- [I made an email bot using yagmail, source code listed](https://www.reddit.com/r/Python/comments/v1ihga/i_made_an_email_bot_using_yagmail_source_code/)
 - [Create a Photo Player with Python and PyGame!](https://www.reddit.com/r/Python/comments/v1gn20/create_a_photo_player_with_python_and_pygame/)
 - [gedit schemas &lpar;themes&rpar;](https://www.reddit.com/r/Python/comments/v1fvv9/gedit_schemas_themes/)
 - [What&#39;s a good first project?](https://www.reddit.com/r/Python/comments/v1fq85/whats_a_good_first_project/)
-- [Other than data wrangling, visualisation and modelling, what do you use python for?](https://www.reddit.com/r/Python/comments/v1dgqw/other_than_data_wrangling_visualisation_and/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/v1dbgz/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
