@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Finally done with my first project - A tool to compare your portfolio with a ticker](https://www.reddit.com/r/Python/comments/v1vjxl/finally_done_with_my_first_project_a_tool_to/)
 - [3.11: First Python release targeting speed improvements. Great progress!](https://www.reddit.com/r/Python/comments/v1vgwp/311_first_python_release_targeting_speed/)
-- [where should i start ??](https://www.reddit.com/r/Python/comments/v1v848/where_should_i_start/)
 - [Python Package to Get Random Addresses, Credit Cards, Names, and other objects](https://www.reddit.com/r/Python/comments/v1uiwq/python_package_to_get_random_addresses_credit/)
 - [Kolona: A minimalistic in-memory async Python Task queue](https://www.reddit.com/r/Python/comments/v1ubxz/kolona_a_minimalistic_inmemory_async_python_task/)
+- [AWS contributes novel causal machine learning algorithms to DoWhy](https://www.reddit.com/r/Python/comments/v1tsii/aws_contributes_novel_causal_machine_learning/)
 <!-- BLOG-POST-LIST:END -->
