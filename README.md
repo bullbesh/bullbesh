@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What apps do you recommend do improve Python/Coding skills?](https://www.reddit.com/r/Python/comments/v2excy/what_apps_do_you_recommend_do_improve/)
+- [Excited to join the PY community !](https://www.reddit.com/r/Python/comments/v2ewad/excited_to_join_the_py_community/)
+- [GitHub - sandes/zipfly: Writing large ZIP archives without memory inflation](https://www.reddit.com/r/Python/comments/v2ev8n/github_sandeszipfly_writing_large_zip_archives/)
+- [Tuned mass damper graph in python](https://www.reddit.com/r/Python/comments/v2eo6k/tuned_mass_damper_graph_in_python/)
 - [Why is Perl perceived as &quot;old&quot; and &quot;obsolete&quot; and Python is perceived as &quot;new&quot; and &quot;cool&quot; even though Perl is only 2 years older than Python?](https://www.reddit.com/r/Python/comments/v2dwax/why_is_perl_perceived_as_old_and_obsolete_and/)
-- [Django &lpar;Python&rpar; + Tailwind CSS + Flowbite integration guide](https://www.reddit.com/r/Python/comments/v2d1tf/django_python_tailwind_css_flowbite_integration/)
-- [How to have dynamic type annotation ?](https://www.reddit.com/r/Python/comments/v2ccgs/how_to_have_dynamic_type_annotation/)
-- [From pairwise to n-wise](https://www.reddit.com/r/Python/comments/v2c076/from_pairwise_to_nwise/)
-- [[Script] Scraping ResearchGate all Publications](https://www.reddit.com/r/Python/comments/v2bxyl/script_scraping_researchgate_all_publications/)
 <!-- BLOG-POST-LIST:END -->
