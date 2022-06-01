@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [simple-homepage: A command line utility that helps you create a simple static homepage for your browser](https://www.reddit.com/r/Python/comments/v2h8bs/simplehomepage_a_command_line_utility_that_helps/)
+- [I Need Money, That&#39;s Why I Wrote An Algorithm and taught it how to make](https://www.reddit.com/r/Python/comments/v2ge7h/i_need_money_thats_why_i_wrote_an_algorithm_and/)
 - [What apps do you recommend do improve Python/Coding skills?](https://www.reddit.com/r/Python/comments/v2excy/what_apps_do_you_recommend_do_improve/)
 - [Excited to join the PY community !](https://www.reddit.com/r/Python/comments/v2ewad/excited_to_join_the_py_community/)
 - [GitHub - sandes/zipfly: Writing large ZIP archives without memory inflation](https://www.reddit.com/r/Python/comments/v2ev8n/github_sandeszipfly_writing_large_zip_archives/)
-- [Tuned mass damper graph in python](https://www.reddit.com/r/Python/comments/v2eo6k/tuned_mass_damper_graph_in_python/)
-- [Why is Perl perceived as &quot;old&quot; and &quot;obsolete&quot; and Python is perceived as &quot;new&quot; and &quot;cool&quot; even though Perl is only 2 years older than Python?](https://www.reddit.com/r/Python/comments/v2dwax/why_is_perl_perceived_as_old_and_obsolete_and/)
 <!-- BLOG-POST-LIST:END -->
