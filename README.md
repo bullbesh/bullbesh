@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyTorch vs TensorFlow for Your Python Deep Learning Project](https://www.reddit.com/r/Python/comments/v2own2/pytorch_vs_tensorflow_for_your_python_deep/)
+- [I am hosting a live stream Thursday discussing our new Python GUI library](https://www.reddit.com/r/Python/comments/v2o24a/i_am_hosting_a_live_stream_thursday_discussing/)
 - [Matplotlib Controlling Vertical Cursors &lpar;Help me decide&rpar;](https://www.reddit.com/r/Python/comments/v2nj64/matplotlib_controlling_vertical_cursors_help_me/)
 - [Can Python be used for Cybersec?](https://www.reddit.com/r/Python/comments/v2mgu5/can_python_be_used_for_cybersec/)
 - [How to create a document scanner](https://www.reddit.com/r/Python/comments/v2ls4o/how_to_create_a_document_scanner/)
-- [BrainIDE - A feature-packed brainf**k IDE](https://www.reddit.com/r/Python/comments/v2kzwy/brainide_a_featurepacked_brainfk_ide/)
-- [made a web browser emulator for the terminal](https://www.reddit.com/r/Python/comments/v2kx98/made_a_web_browser_emulator_for_the_terminal/)
 <!-- BLOG-POST-LIST:END -->
