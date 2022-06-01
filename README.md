@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is Perl perceived as &quot;old&quot; and &quot;obsolete&quot; and Python is perceived as &quot;new&quot; and &quot;cool&quot; even though Perl is only 2 years older than Python?](https://www.reddit.com/r/Python/comments/v2dwax/why_is_perl_perceived_as_old_and_obsolete_and/)
 - [Django &lpar;Python&rpar; + Tailwind CSS + Flowbite integration guide](https://www.reddit.com/r/Python/comments/v2d1tf/django_python_tailwind_css_flowbite_integration/)
 - [How to have dynamic type annotation ?](https://www.reddit.com/r/Python/comments/v2ccgs/how_to_have_dynamic_type_annotation/)
 - [From pairwise to n-wise](https://www.reddit.com/r/Python/comments/v2c076/from_pairwise_to_nwise/)
 - [[Script] Scraping ResearchGate all Publications](https://www.reddit.com/r/Python/comments/v2bxyl/script_scraping_researchgate_all_publications/)
-- [A simple tool that collects TODOS and reports them as GitHub issues.](https://www.reddit.com/r/Python/comments/v2bahi/a_simple_tool_that_collects_todos_and_reports/)
 <!-- BLOG-POST-LIST:END -->
