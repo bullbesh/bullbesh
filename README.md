@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [BrainIDE - A feature-packed brainf**k IDE](https://www.reddit.com/r/Python/comments/v2kzwy/brainide_a_featurepacked_brainfk_ide/)
+- [made a web browser emulator for the terminal](https://www.reddit.com/r/Python/comments/v2kx98/made_a_web_browser_emulator_for_the_terminal/)
 - [SSH over the internet for FREE, a hacky solution with Python](https://www.reddit.com/r/Python/comments/v2jcxs/ssh_over_the_internet_for_free_a_hacky_solution/)
-- [VSCode Devcontainer vs Venv](https://www.reddit.com/r/Python/comments/v2j18e/vscode_devcontainer_vs_venv/)
 - [Brave Hardener Enhance Browser Security Privacy and Performance - My first 500 lines of code script.](https://www.reddit.com/r/Python/comments/v2ij00/brave_hardener_enhance_browser_security_privacy/)
 - [How to create a weight converter GUI&lpar;graphic user interface&rpar; using Pytho...](https://www.reddit.com/r/Python/comments/v2htvu/how_to_create_a_weight_converter_guigraphic_user/)
-- [Why does people say Python is not a real deal?](https://www.reddit.com/r/Python/comments/v2hsnm/why_does_people_say_python_is_not_a_real_deal/)
 <!-- BLOG-POST-LIST:END -->
