@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What project have you created which wasn’t limited to only the computer?](https://www.reddit.com/r/Python/comments/v26cjk/what_project_have_you_created_which_wasnt_limited/)
+- [Python Project #3: I need to study Shakespeare :&lpar;](https://www.reddit.com/r/Python/comments/v25z9s/python_project_3_i_need_to_study_shakespeare/)
+- [An Html Templates and jinja Tutorial](https://www.reddit.com/r/Python/comments/v25078/an_html_templates_and_jinja_tutorial/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/v23qzz/wednesday_daily_thread_beginner_questions/)
 - [design patterns for a notification module](https://www.reddit.com/r/Python/comments/v209kb/design_patterns_for_a_notification_module/)
-- [I&#39;m that person who got Black compiled with mypyc, this was my experience](https://www.reddit.com/r/Python/comments/v2009i/im_that_person_who_got_black_compiled_with_mypyc/)
-- [What do you think about trepan3k debugger ?](https://www.reddit.com/r/Python/comments/v1ys77/what_do_you_think_about_trepan3k_debugger/)
-- [My first serious OCR project, meet koann!](https://www.reddit.com/r/Python/comments/v1yroj/my_first_serious_ocr_project_meet_koann/)
-- [Hospital price gouging during the COVID-19 pandemic: an exploratory analysis in py-polars and Altair &lpar;Google Colab notebook in link&rpar;](https://www.reddit.com/r/Python/comments/v1xutc/hospital_price_gouging_during_the_covid19/)
 <!-- BLOG-POST-LIST:END -->
