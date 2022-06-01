@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create a weight converter GUI&lpar;graphic user interface&rpar; using Pytho...](https://www.reddit.com/r/Python/comments/v2htvu/how_to_create_a_weight_converter_guigraphic_user/)
+- [Why does people say Python is not a real deal?](https://www.reddit.com/r/Python/comments/v2hsnm/why_does_people_say_python_is_not_a_real_deal/)
+- [How to set up a raspberry pi to run python programs](https://www.reddit.com/r/Python/comments/v2hpov/how_to_set_up_a_raspberry_pi_to_run_python/)
 - [simple-homepage: A command line utility that helps you create a simple static homepage for your browser](https://www.reddit.com/r/Python/comments/v2h8bs/simplehomepage_a_command_line_utility_that_helps/)
 - [I Need Money, That&#39;s Why I Wrote An Algorithm and taught it how to make](https://www.reddit.com/r/Python/comments/v2ge7h/i_need_money_thats_why_i_wrote_an_algorithm_and/)
-- [What apps do you recommend do improve Python/Coding skills?](https://www.reddit.com/r/Python/comments/v2excy/what_apps_do_you_recommend_do_improve/)
-- [Excited to join the PY community !](https://www.reddit.com/r/Python/comments/v2ewad/excited_to_join_the_py_community/)
-- [GitHub - sandes/zipfly: Writing large ZIP archives without memory inflation](https://www.reddit.com/r/Python/comments/v2ev8n/github_sandeszipfly_writing_large_zip_archives/)
 <!-- BLOG-POST-LIST:END -->
