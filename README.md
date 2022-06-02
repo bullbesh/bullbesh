@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Udemy Python courses](https://www.reddit.com/r/Python/comments/v39l3r/udemy_python_courses/)
 - [Difficulty in understanding np.reshape&lpar;&rpar;](https://www.reddit.com/r/Python/comments/v38wfn/difficulty_in_understanding_npreshape/)
 - [Indexer](https://www.reddit.com/r/Python/comments/v37p4c/indexer/)
 - [Sierpiński triangle](https://www.reddit.com/r/Python/comments/v37kd4/sierpiński_triangle/)
 - [Python: My nwise compared to more_itertools.sliding_window](https://www.reddit.com/r/Python/comments/v369pt/python_my_nwise_compared_to_more_itertoolssliding/)
-- [GitHub - holinnn/deny: Python authorization library](https://www.reddit.com/r/Python/comments/v35ofx/github_holinnndeny_python_authorization_library/)
 <!-- BLOG-POST-LIST:END -->
