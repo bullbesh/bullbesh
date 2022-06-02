@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - holinnn/deny: Python authorization library](https://www.reddit.com/r/Python/comments/v35ofx/github_holinnndeny_python_authorization_library/)
+- [Python socket chatroom with commands, bots, themes, DMs, custom servers and more](https://www.reddit.com/r/Python/comments/v35o3y/python_socket_chatroom_with_commands_bots_themes/)
+- [LBYL vs EAFP: Preventing or Handling Errors in Python – Real Python](https://www.reddit.com/r/Python/comments/v35kbb/lbyl_vs_eafp_preventing_or_handling_errors_in/)
 - [Rewriting a Python Parser in Rust](https://www.reddit.com/r/Python/comments/v34pq7/rewriting_a_python_parser_in_rust/)
 - [Applying decorators to built in Python functions?](https://www.reddit.com/r/Python/comments/v34akh/applying_decorators_to_built_in_python_functions/)
-- [My first python project](https://www.reddit.com/r/Python/comments/v347r5/my_first_python_project/)
-- [GitHub - mkdocstrings/griffe: Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.](https://www.reddit.com/r/Python/comments/v32n49/github_mkdocstringsgriffe_signatures_for_entire/)
-- [Run Selenium with Python via Github Actions using Headless or Non-Headless browsers!](https://www.reddit.com/r/Python/comments/v31p68/run_selenium_with_python_via_github_actions_using/)
 <!-- BLOG-POST-LIST:END -->
