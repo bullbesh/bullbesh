@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial for Intelligent Particle Simulations in Python, Slime Molds and Their Beauty](https://www.reddit.com/r/Python/comments/v2z5jn/tutorial_for_intelligent_particle_simulations_in/)
 - [Motivations for Adopting Python Over Javasript/NodeJS?](https://www.reddit.com/r/Python/comments/v2xbvw/motivations_for_adopting_python_over/)
 - [I made a number guessing game with python that tells you if the number is too high/low.](https://www.reddit.com/r/Python/comments/v2vt9x/i_made_a_number_guessing_game_with_python_that/)
 - [I have done my first web scraping project!!](https://www.reddit.com/r/Python/comments/v2vgts/i_have_done_my_first_web_scraping_project/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/v2vgf8/thursday_daily_thread_python_careers_courses_and/)
-- [I wrote a gravity simulation with matplotlib! Looking for code review and improvements!](https://www.reddit.com/r/Python/comments/v2rydr/i_wrote_a_gravity_simulation_with_matplotlib/)
 <!-- BLOG-POST-LIST:END -->
