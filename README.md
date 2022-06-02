@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NumPy is now being tested on Python 3.11 in CI](https://www.reddit.com/r/Python/comments/v3ih3h/numpy_is_now_being_tested_on_python_311_in_ci/)
+- [Score points to win Python](https://www.reddit.com/r/Python/comments/v3ie3t/score_points_to_win_python/)
+- [I created a PyScript Playlist covering PyScript basics, EventListening, CSV upload &amp; ML Model](https://www.reddit.com/r/Python/comments/v3i8vt/i_created_a_pyscript_playlist_covering_pyscript/)
 - [Python books for beginners](https://www.reddit.com/r/Python/comments/v3hihm/python_books_for_beginners/)
 - [GitHub - nfflow/redditflow: An AI tool to automate everything from data collection to model training, in two lines of python!](https://www.reddit.com/r/Python/comments/v3hh9u/github_nfflowredditflow_an_ai_tool_to_automate/)
-- [Hone your Python Skills to advance in Python Programming](https://www.reddit.com/r/Python/comments/v3fa37/hone_your_python_skills_to_advance_in_python/)
-- [Working Cryptocurrency Trading Bot - Feel free to contribute!](https://www.reddit.com/r/Python/comments/v3bwza/working_cryptocurrency_trading_bot_feel_free_to/)
-- [Writing Perf Test in Python using Locust for HTTP, WebSocket, more](https://www.reddit.com/r/Python/comments/v3btd1/writing_perf_test_in_python_using_locust_for_http/)
 <!-- BLOG-POST-LIST:END -->
