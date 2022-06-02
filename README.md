@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python books for beginners](https://www.reddit.com/r/Python/comments/v3hihm/python_books_for_beginners/)
+- [GitHub - nfflow/redditflow: An AI tool to automate everything from data collection to model training, in two lines of python!](https://www.reddit.com/r/Python/comments/v3hh9u/github_nfflowredditflow_an_ai_tool_to_automate/)
 - [Hone your Python Skills to advance in Python Programming](https://www.reddit.com/r/Python/comments/v3fa37/hone_your_python_skills_to_advance_in_python/)
-- [Python Mini Project - Dice Roller v2](https://www.reddit.com/r/Python/comments/v3cayl/python_mini_project_dice_roller_v2/)
 - [Working Cryptocurrency Trading Bot - Feel free to contribute!](https://www.reddit.com/r/Python/comments/v3bwza/working_cryptocurrency_trading_bot_feel_free_to/)
 - [Writing Perf Test in Python using Locust for HTTP, WebSocket, more](https://www.reddit.com/r/Python/comments/v3btd1/writing_perf_test_in_python_using_locust_for_http/)
-- [Udemy Python courses](https://www.reddit.com/r/Python/comments/v39l3r/udemy_python_courses/)
 <!-- BLOG-POST-LIST:END -->
