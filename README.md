@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to build a Bitcoin Price Tracker using Python | Python Projects](https://www.reddit.com/r/Python/comments/v2ts7f/how_to_build_a_bitcoin_price_tracker_using_python/)
+- [Motivations for Adopting Python Over Javasript/NodeJS?](https://www.reddit.com/r/Python/comments/v2xbvw/motivations_for_adopting_python_over/)
+- [I made a number guessing game with python that tells you if the number is too high/low.](https://www.reddit.com/r/Python/comments/v2vt9x/i_made_a_number_guessing_game_with_python_that/)
+- [I have done my first web scraping project!!](https://www.reddit.com/r/Python/comments/v2vgts/i_have_done_my_first_web_scraping_project/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/v2vgf8/thursday_daily_thread_python_careers_courses_and/)
 - [I wrote a gravity simulation with matplotlib! Looking for code review and improvements!](https://www.reddit.com/r/Python/comments/v2rydr/i_wrote_a_gravity_simulation_with_matplotlib/)
-- [How do you keep Python configurations in sync on more than one system?](https://www.reddit.com/r/Python/comments/v2q1wp/how_do_you_keep_python_configurations_in_sync_on/)
-- [Top 5 web frameworks in python](https://www.reddit.com/r/Python/comments/v2psjn/top_5_web_frameworks_in_python/)
-- [MLEM - ML model deployment tool](https://www.reddit.com/r/Python/comments/v2p9oi/mlem_ml_model_deployment_tool/)
 <!-- BLOG-POST-LIST:END -->
