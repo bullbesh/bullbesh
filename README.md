@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Would you enjoy verbose analogues to .get&lpar;&rpar; for iterables?](https://www.reddit.com/r/Python/comments/v3wak4/would_you_enjoy_verbose_analogues_to_get_for/)
+- [A guide to AES file encryption in Python3](https://www.reddit.com/r/Python/comments/v3w1ra/a_guide_to_aes_file_encryption_in_python3/)
+- [Python should not require brackets where its not mandatory](https://www.reddit.com/r/Python/comments/v3vqd5/python_should_not_require_brackets_where_its_not/)
 - [What are some python micro optimisations that you can/may *actually use* in your codebase?](https://www.reddit.com/r/Python/comments/v3vexa/what_are_some_python_micro_optimisations_that_you/)
 - [Why is it called elif in python?](https://www.reddit.com/r/Python/comments/v3uefc/why_is_it_called_elif_in_python/)
-- [Hey guys what are some crazy automation projects you have made?](https://www.reddit.com/r/Python/comments/v3ueb2/hey_guys_what_are_some_crazy_automation_projects/)
-- [Index is out of bounds for axis with size problem.](https://www.reddit.com/r/Python/comments/v3t5av/index_is_out_of_bounds_for_axis_with_size_problem/)
-- [Python X Unity an attempt at making motion tracking prototype video game](https://www.reddit.com/r/Python/comments/v3s9wo/python_x_unity_an_attempt_at_making_motion/)
 <!-- BLOG-POST-LIST:END -->
