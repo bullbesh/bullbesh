@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CPUs: how much will I gain by upgrading to a current gen Intel over upgrading from old Ryzen to current gen Ryzen?](https://www.reddit.com/r/Python/comments/v447ky/cpus_how_much_will_i_gain_by_upgrading_to_a/)
+- [Python books for intermediate and advanced](https://www.reddit.com/r/Python/comments/v442ud/python_books_for_intermediate_and_advanced/)
+- [learning python](https://www.reddit.com/r/Python/comments/v43kxn/learning_python/)
 - [Scraping webpage data using pandas read_html is almost too easy. Here&#39;s a quick tutorial](https://www.reddit.com/r/Python/comments/v400qj/scraping_webpage_data_using_pandas_read_html_is/)
 - [New Book: Packaging Python Applications with PyInstaller, with step by step examples for PyQt, Tkinter, PySimpleGUI, wxPython &amp; Kivy](https://www.reddit.com/r/Python/comments/v3z1t7/new_book_packaging_python_applications_with/)
-- [Develop various products from complex websites to mobile and web app with Python](https://www.reddit.com/r/Python/comments/v3y8ep/develop_various_products_from_complex_websites_to/)
-- [project for simulating physical phenomena](https://www.reddit.com/r/Python/comments/v3xxgu/project_for_simulating_physical_phenomena/)
-- [A* star algorithm implementation](https://www.reddit.com/r/Python/comments/v3wid8/a_star_algorithm_implementation/)
 <!-- BLOG-POST-LIST:END -->
