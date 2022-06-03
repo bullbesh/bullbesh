@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python and other programming language Comparison](https://www.reddit.com/r/Python/comments/v3rlfo/python_and_other_programming_language_comparison/)
 - [Causes of Memory Leaks in Python](https://www.reddit.com/r/Python/comments/v3r3qj/causes_of_memory_leaks_in_python/)
 - [Clean Architecture](https://www.reddit.com/r/Python/comments/v3qs9d/clean_architecture/)
 - [Python Datetime &lpar;with examples&rpar;](https://www.reddit.com/r/Python/comments/v3qkw6/python_datetime_with_examples/)
 - [Is aiohttp/aiohttp_socks really faster than threading requests?](https://www.reddit.com/r/Python/comments/v3pua2/is_aiohttpaiohttp_socks_really_faster_than/)
-- [JuliaSetGen - I created an app to create images of the julia set pattern from any expression](https://www.reddit.com/r/Python/comments/v3lnxf/juliasetgen_i_created_an_app_to_create_images_of/)
 <!-- BLOG-POST-LIST:END -->
