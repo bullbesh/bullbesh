@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python books for writing unittests](https://www.reddit.com/r/Python/comments/v4ae3z/python_books_for_writing_unittests/)
+- [Python: Yield the first item of consecutive series of equal items, from an iterable.](https://www.reddit.com/r/Python/comments/v4a0i3/python_yield_the_first_item_of_consecutive_series/)
 - [Seeking Advice on Mentoring a New Python Developer](https://www.reddit.com/r/Python/comments/v499py/seeking_advice_on_mentoring_a_new_python_developer/)
 - [Open-source due-diligence tool to detect malicious PyPI packages](https://www.reddit.com/r/Python/comments/v48nad/opensource_duediligence_tool_to_detect_malicious/)
 - [Python Speed and Performance Tips](https://www.reddit.com/r/Python/comments/v4845l/python_speed_and_performance_tips/)
-- [Python Patterns - An Optimization Anecdote](https://www.reddit.com/r/Python/comments/v483uk/python_patterns_an_optimization_anecdote/)
-- [PyScript and Django: Basic PyScript Frontend and DOM manipulations](https://www.reddit.com/r/Python/comments/v45trf/pyscript_and_django_basic_pyscript_frontend_and/)
 <!-- BLOG-POST-LIST:END -->
