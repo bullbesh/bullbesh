@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is it called elif in python?](https://www.reddit.com/r/Python/comments/v3uefc/why_is_it_called_elif_in_python/)
+- [Hey guys what are some crazy automation projects you have made?](https://www.reddit.com/r/Python/comments/v3ueb2/hey_guys_what_are_some_crazy_automation_projects/)
 - [Index is out of bounds for axis with size problem.](https://www.reddit.com/r/Python/comments/v3t5av/index_is_out_of_bounds_for_axis_with_size_problem/)
 - [Python X Unity an attempt at making motion tracking prototype video game](https://www.reddit.com/r/Python/comments/v3s9wo/python_x_unity_an_attempt_at_making_motion/)
 - [Python and other programming language Comparison](https://www.reddit.com/r/Python/comments/v3rlfo/python_and_other_programming_language_comparison/)
-- [Causes of Memory Leaks in Python](https://www.reddit.com/r/Python/comments/v3r3qj/causes_of_memory_leaks_in_python/)
-- [Clean Architecture](https://www.reddit.com/r/Python/comments/v3qs9d/clean_architecture/)
 <!-- BLOG-POST-LIST:END -->
