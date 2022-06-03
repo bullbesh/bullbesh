@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyScript and Django: Basic PyScript Frontend and DOM manipulations](https://www.reddit.com/r/Python/comments/v45trf/pyscript_and_django_basic_pyscript_frontend_and/)
 - [Remote control using MicroPython and MQTT - Tutorial](https://www.reddit.com/r/Python/comments/v45gw6/remote_control_using_micropython_and_mqtt_tutorial/)
 - [A very simple async Response cache for FastAPI](https://www.reddit.com/r/Python/comments/v44mja/a_very_simple_async_response_cache_for_fastapi/)
 - [CPUs: how much will I gain by upgrading to a current gen Intel over upgrading from old Ryzen to current gen Ryzen?](https://www.reddit.com/r/Python/comments/v447ky/cpus_how_much_will_i_gain_by_upgrading_to_a/)
 - [Python books for intermediate and advanced](https://www.reddit.com/r/Python/comments/v442ud/python_books_for_intermediate_and_advanced/)
-- [Scraping webpage data using pandas read_html is almost too easy. Here&#39;s a quick tutorial](https://www.reddit.com/r/Python/comments/v400qj/scraping_webpage_data_using_pandas_read_html_is/)
 <!-- BLOG-POST-LIST:END -->
