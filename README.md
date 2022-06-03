@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python X Unity an attempt at making motion tracking prototype video game](https://www.reddit.com/r/Python/comments/v3s9wo/python_x_unity_an_attempt_at_making_motion/)
 - [Python and other programming language Comparison](https://www.reddit.com/r/Python/comments/v3rlfo/python_and_other_programming_language_comparison/)
 - [Causes of Memory Leaks in Python](https://www.reddit.com/r/Python/comments/v3r3qj/causes_of_memory_leaks_in_python/)
 - [Clean Architecture](https://www.reddit.com/r/Python/comments/v3qs9d/clean_architecture/)
 - [Python Datetime &lpar;with examples&rpar;](https://www.reddit.com/r/Python/comments/v3qkw6/python_datetime_with_examples/)
-- [Is aiohttp/aiohttp_socks really faster than threading requests?](https://www.reddit.com/r/Python/comments/v3pua2/is_aiohttpaiohttp_socks_really_faster_than/)
 <!-- BLOG-POST-LIST:END -->
