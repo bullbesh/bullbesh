@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What should I expect in technical interview for a Python developer job](https://www.reddit.com/r/Python/comments/v4k9km/what_should_i_expect_in_technical_interview_for_a/)
+- [What should I expect in technical interview for a Python developer job](https://www.reddit.com/r/Python/comments/v4k9gz/what_should_i_expect_in_technical_interview_for_a/)
+- [Python code keeps duplicating information - OOP &lpar; Could be related to shallow copy? &rpar;](https://www.reddit.com/r/Python/comments/v4k39i/python_code_keeps_duplicating_information_oop/)
 - [What is the best method to load a markdown &lpar;md&rpar; table into a dict](https://www.reddit.com/r/Python/comments/v4iomu/what_is_the_best_method_to_load_a_markdown_md/)
 - [Go&#39;s heap library has Remove&lpar;h, i&rpar; and Fix&lpar;h, i&rpar;. Why doesn&#39;t Python&#39;s heapq library have this?](https://www.reddit.com/r/Python/comments/v4havt/gos_heap_library_has_removeh_i_and_fixh_i_why/)
-- [Python Vs Matlab](https://www.reddit.com/r/Python/comments/v4gvl4/python_vs_matlab/)
-- [Probability and Normal Distributions [ Python Tutorial ]](https://www.reddit.com/r/Python/comments/v4dtm7/probability_and_normal_distributions_python/)
-- [I&#39;ve written a hypercube viewer using numpy, opencv and tkinter](https://www.reddit.com/r/Python/comments/v4dh26/ive_written_a_hypercube_viewer_using_numpy_opencv/)
 <!-- BLOG-POST-LIST:END -->
