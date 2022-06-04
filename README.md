@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [IIT Delhi student wins world&#39;s largest coding competition: Best coder amongst 87 countries, wins $10,000](https://www.reddit.com/r/Python/comments/v4nov1/iit_delhi_student_wins_worlds_largest_coding/)
+- [Python Platform/Courses for Beginners](https://www.reddit.com/r/Python/comments/v4niht/python_platformcourses_for_beginners/)
+- [Is PyScript going to take the place of JavaScript?](https://www.reddit.com/r/Python/comments/v4ngmb/is_pyscript_going_to_take_the_place_of_javascript/)
 - [Anyone else learning Python as a hobby?](https://www.reddit.com/r/Python/comments/v4mb41/anyone_else_learning_python_as_a_hobby/)
 - [Machine learning in operational optimization](https://www.reddit.com/r/Python/comments/v4lmjg/machine_learning_in_operational_optimization/)
-- [PyCharm Updated Logo](https://www.reddit.com/r/Python/comments/v4l8em/pycharm_updated_logo/)
-- [MLEM - machine learning engineering management - version and deploy your models following GitOps principles](https://www.reddit.com/r/Python/comments/v4kmcz/mlem_machine_learning_engineering_management/)
-- [What should I expect in technical interview for a Python developer job](https://www.reddit.com/r/Python/comments/v4k9km/what_should_i_expect_in_technical_interview_for_a/)
 <!-- BLOG-POST-LIST:END -->
