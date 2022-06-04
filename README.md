@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need to learn Python&lpar;again&rpar;](https://www.reddit.com/r/Python/comments/v4vtr8/need_to_learn_pythonagain/)
+- [dipmp: Decentralised package registry and storage for python &lpar;PoC&rpar;](https://www.reddit.com/r/Python/comments/v4vger/dipmp_decentralised_package_registry_and_storage/)
+- [Meet with Dew Plucky](https://www.reddit.com/r/Python/comments/v4v4l3/meet_with_dew_plucky/)
 - [Solving and animating the puzzle game Argh](https://www.reddit.com/r/Python/comments/v4t1ow/solving_and_animating_the_puzzle_game_argh/)
 - [LBYL vs EAFP: Preventing or Handling Errors in Python](https://www.reddit.com/r/Python/comments/v4ryh5/lbyl_vs_eafp_preventing_or_handling_errors_in/)
-- [Comparing implementations of the Monkey language VIII: The Spectacular Interpreted Special &lpar;Ruby, Python and Lua&rpar;](https://www.reddit.com/r/Python/comments/v4re1j/comparing_implementations_of_the_monkey_language/)
-- [Automating a Bluetooth light using Python and Home Assistant](https://www.reddit.com/r/Python/comments/v4qkbz/automating_a_bluetooth_light_using_python_and/)
-- [New to Pyrhon](https://www.reddit.com/r/Python/comments/v4q8fj/new_to_pyrhon/)
 <!-- BLOG-POST-LIST:END -->
