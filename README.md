@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does anyone do this?](https://www.reddit.com/r/Python/comments/v50n2q/does_anyone_do_this/)
+- [I was testing a Blackjack program I was making, and won 12 times in a row without asking the dealer for any cards at all. What even are the odds?????](https://www.reddit.com/r/Python/comments/v501ng/i_was_testing_a_blackjack_program_i_was_making/)
+- [String within Tkinter custom window](https://www.reddit.com/r/Python/comments/v4zpi6/string_within_tkinter_custom_window/)
 - [Bottle with python2 on centOS shared server](https://www.reddit.com/r/Python/comments/v4y7rb/bottle_with_python2_on_centos_shared_server/)
 - [Learn how to use Evaluate — Hugging Face&#39;s newest Python library](https://www.reddit.com/r/Python/comments/v4xm3t/learn_how_to_use_evaluate_hugging_faces_newest/)
-- [help me coder](https://www.reddit.com/r/Python/comments/v4xad4/help_me_coder/)
-- [Need to learn Python&lpar;again&rpar;](https://www.reddit.com/r/Python/comments/v4vtr8/need_to_learn_pythonagain/)
-- [dipmp: Decentralised package registry and storage for python &lpar;PoC&rpar;](https://www.reddit.com/r/Python/comments/v4vger/dipmp_decentralised_package_registry_and_storage/)
 <!-- BLOG-POST-LIST:END -->
