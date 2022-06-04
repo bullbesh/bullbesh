@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating a Bluetooth light using Python and Home Assistant](https://www.reddit.com/r/Python/comments/v4qkbz/automating_a_bluetooth_light_using_python_and/)
+- [New to Pyrhon](https://www.reddit.com/r/Python/comments/v4q8fj/new_to_pyrhon/)
+- [Just started learning Python!](https://www.reddit.com/r/Python/comments/v4pugs/just_started_learning_python/)
 - [QualityScaler 2.1.0 deeplearning image/video upscaler &lpar;now works with any GPU&rpar;](https://www.reddit.com/r/Python/comments/v4pen3/qualityscaler_210_deeplearning_imagevideo/)
 - [replit now has Python Autocomplete](https://www.reddit.com/r/Python/comments/v4p5f0/replit_now_has_python_autocomplete/)
-- [I made a python program for speed reading](https://www.reddit.com/r/Python/comments/v4opw6/i_made_a_python_program_for_speed_reading/)
-- [Terminal based Conway&#39;s Game of Life in Python and Asciimatics](https://www.reddit.com/r/Python/comments/v4oerw/terminal_based_conways_game_of_life_in_python_and/)
-- [IIT Delhi student wins world&#39;s largest coding competition: Best coder amongst 87 countries, wins $10,000](https://www.reddit.com/r/Python/comments/v4nov1/iit_delhi_student_wins_worlds_largest_coding/)
 <!-- BLOG-POST-LIST:END -->
