@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bottle with python2 on centOS shared server](https://www.reddit.com/r/Python/comments/v4y7rb/bottle_with_python2_on_centos_shared_server/)
+- [What is with the militaristic obsession with &quot;Python&quot; only ever referring to 100% pure Python?](https://www.reddit.com/r/Python/comments/v4xn1z/what_is_with_the_militaristic_obsession_with/)
+- [Learn how to use Evaluate — Hugging Face&#39;s newest Python library](https://www.reddit.com/r/Python/comments/v4xm3t/learn_how_to_use_evaluate_hugging_faces_newest/)
+- [help me coder](https://www.reddit.com/r/Python/comments/v4xad4/help_me_coder/)
 - [Need to learn Python&lpar;again&rpar;](https://www.reddit.com/r/Python/comments/v4vtr8/need_to_learn_pythonagain/)
-- [dipmp: Decentralised package registry and storage for python &lpar;PoC&rpar;](https://www.reddit.com/r/Python/comments/v4vger/dipmp_decentralised_package_registry_and_storage/)
-- [Meet with Dew Plucky](https://www.reddit.com/r/Python/comments/v4v4l3/meet_with_dew_plucky/)
-- [Solving and animating the puzzle game Argh](https://www.reddit.com/r/Python/comments/v4t1ow/solving_and_animating_the_puzzle_game_argh/)
-- [LBYL vs EAFP: Preventing or Handling Errors in Python](https://www.reddit.com/r/Python/comments/v4ryh5/lbyl_vs_eafp_preventing_or_handling_errors_in/)
 <!-- BLOG-POST-LIST:END -->
