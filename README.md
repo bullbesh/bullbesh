@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python books for writing unittests](https://www.reddit.com/r/Python/comments/v4ae3z/python_books_for_writing_unittests/)
-- [Python: Yield the first item of consecutive series of equal items, from an iterable.](https://www.reddit.com/r/Python/comments/v4a0i3/python_yield_the_first_item_of_consecutive_series/)
-- [Seeking Advice on Mentoring a New Python Developer](https://www.reddit.com/r/Python/comments/v499py/seeking_advice_on_mentoring_a_new_python_developer/)
-- [Open-source due-diligence tool to detect malicious PyPI packages](https://www.reddit.com/r/Python/comments/v48nad/opensource_duediligence_tool_to_detect_malicious/)
-- [Python Speed and Performance Tips](https://www.reddit.com/r/Python/comments/v4845l/python_speed_and_performance_tips/)
+- [[TikTok] Soy @Irvin Joel Ramos Quiroz y estoy en TikTok. Para descargar la aplicación y ver más videos, pulsa aquí:](https://www.reddit.com/r/Python/comments/v4e50z/tiktok_soy_irvin_joel_ramos_quiroz_y_estoy_en/)
+- [Probability and Normal Distributions [ Python Tutorial ]](https://www.reddit.com/r/Python/comments/v4dtm7/probability_and_normal_distributions_python/)
+- [Full Python Guide Resources](https://www.reddit.com/r/Python/comments/v4dk1m/full_python_guide_resources/)
+- [I&#39;ve written a hypercube viewer using numpy, opencv and tkinter](https://www.reddit.com/r/Python/comments/v4dh26/ive_written_a_hypercube_viewer_using_numpy_opencv/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/v4chss/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
