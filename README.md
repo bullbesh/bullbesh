@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is still .Net Framework used in big Companies to develop software and mobile app?](https://www.reddit.com/r/Python/comments/v4hnlf/is_still_net_framework_used_in_big_companies_to/)
+- [Go&#39;s heap library has Remove&lpar;h, i&rpar; and Fix&lpar;h, i&rpar;. Why doesn&#39;t Python&#39;s heapq library have this?](https://www.reddit.com/r/Python/comments/v4havt/gos_heap_library_has_removeh_i_and_fixh_i_why/)
 - [Python Vs Matlab](https://www.reddit.com/r/Python/comments/v4gvl4/python_vs_matlab/)
-- [[TikTok] Soy @Irvin Joel Ramos Quiroz y estoy en TikTok. Para descargar la aplicación y ver más videos, pulsa aquí:](https://www.reddit.com/r/Python/comments/v4e50z/tiktok_soy_irvin_joel_ramos_quiroz_y_estoy_en/)
 - [Probability and Normal Distributions [ Python Tutorial ]](https://www.reddit.com/r/Python/comments/v4dtm7/probability_and_normal_distributions_python/)
 - [Full Python Guide Resources](https://www.reddit.com/r/Python/comments/v4dk1m/full_python_guide_resources/)
-- [I&#39;ve written a hypercube viewer using numpy, opencv and tkinter](https://www.reddit.com/r/Python/comments/v4dh26/ive_written_a_hypercube_viewer_using_numpy_opencv/)
 <!-- BLOG-POST-LIST:END -->
