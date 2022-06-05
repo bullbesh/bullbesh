@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Discord Python - Send Direct Messages &amp; Reply to Messages](https://www.reddit.com/r/Python/comments/v5feu2/discord_python_send_direct_messages_reply_to/)
+- [confs: List tools for which the given project has configs](https://www.reddit.com/r/Python/comments/v5f5jm/confs_list_tools_for_which_the_given_project_has/)
+- [I made a derivative-calculator using flask, sympy and matplotlib](https://www.reddit.com/r/Python/comments/v5ehrv/i_made_a_derivativecalculator_using_flask_sympy/)
+- [Solutions to CS50?](https://www.reddit.com/r/Python/comments/v5eet6/solutions_to_cs50/)
 - [The ultimate Reddit Media Downloader RedDownloader 3.2.0 released!](https://www.reddit.com/r/Python/comments/v5e8lu/the_ultimate_reddit_media_downloader/)
-- [[Python] 파이썬 쿠팡 파트너스 API 활용하기](https://www.reddit.com/r/Python/comments/v5dlax/python_파이썬_쿠팡_파트너스_api_활용하기/)
-- [AOL 3.0 &lpar;1996&rpar; Reverse Engineered in Python](https://www.reddit.com/r/Python/comments/v5d84c/aol_30_1996_reverse_engineered_in_python/)
-- [Hyperskill vs Udemy + books?](https://www.reddit.com/r/Python/comments/v5cib5/hyperskill_vs_udemy_books/)
-- [Python Cybersecurity— Network Tracking using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/v59jh5/python_cybersecurity_network_tracking_using/)
 <!-- BLOG-POST-LIST:END -->
