@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built Bots to Trade Stock Like U.S. Congressmen](https://www.reddit.com/r/Python/comments/v5l6ob/i_built_bots_to_trade_stock_like_us_congressmen/)
+- [Resume projects in scientific computing](https://www.reddit.com/r/Python/comments/v5mq84/resume_projects_in_scientific_computing/)
 - [Looking for a free small and open source program for commercial use that can open, edit and save .csv files conveniently?](https://www.reddit.com/r/Python/comments/v5kkjk/looking_for_a_free_small_and_open_source_program/)
 - [Introducing dotwiz: a blazing fast dict type which enables dot access](https://www.reddit.com/r/Python/comments/v5juvq/introducing_dotwiz_a_blazing_fast_dict_type_which/)
 - [A kid discovering the computer world@-@](https://www.reddit.com/r/Python/comments/v5he7b/a_kid_discovering_the_computer_world/)
