@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built Bots to Trade Stock Like U.S. Congressmen](https://www.reddit.com/r/Python/comments/v5l6ob/i_built_bots_to_trade_stock_like_us_congressmen/)
+- [Looking for a free small and open source program for commercial use that can open, edit and save .csv files conveniently?](https://www.reddit.com/r/Python/comments/v5kkjk/looking_for_a_free_small_and_open_source_program/)
 - [Introducing dotwiz: a blazing fast dict type which enables dot access](https://www.reddit.com/r/Python/comments/v5juvq/introducing_dotwiz_a_blazing_fast_dict_type_which/)
 - [A kid discovering the computer world@-@](https://www.reddit.com/r/Python/comments/v5he7b/a_kid_discovering_the_computer_world/)
 - [Discord Python - Send Direct Messages &amp; Reply to Messages](https://www.reddit.com/r/Python/comments/v5feu2/discord_python_send_direct_messages_reply_to/)
-- [confs: List tools for which the given project has configs](https://www.reddit.com/r/Python/comments/v5f5jm/confs_list_tools_for_which_the_given_project_has/)
-- [I made a derivative-calculator using flask, sympy and matplotlib](https://www.reddit.com/r/Python/comments/v5ehrv/i_made_a_derivativecalculator_using_flask_sympy/)
 <!-- BLOG-POST-LIST:END -->
