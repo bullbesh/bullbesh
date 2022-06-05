@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does anyone else get racing thoughts at night when they take on a project?](https://www.reddit.com/r/Python/comments/v56ngh/does_anyone_else_get_racing_thoughts_at_night/)
 - [Pythonista projects welcome here?](https://www.reddit.com/r/Python/comments/v562x0/pythonista_projects_welcome_here/)
 - [Python tutor](https://www.reddit.com/r/Python/comments/v51us9/python_tutor/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/v51dp2/sunday_daily_thread_whats_everyone_working_on/)
 - [I was testing a Blackjack program I was making, and won 12 times in a row without asking the dealer for any cards at all. What even are the odds?????](https://www.reddit.com/r/Python/comments/v501ng/i_was_testing_a_blackjack_program_i_was_making/)
-- [Bottle with python2 on centOS shared server](https://www.reddit.com/r/Python/comments/v4y7rb/bottle_with_python2_on_centos_shared_server/)
 <!-- BLOG-POST-LIST:END -->
