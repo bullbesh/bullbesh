@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PDF Slides: Structural Pattern Matching in the Real World™](https://www.reddit.com/r/Python/comments/v689bk/pdf_slides_structural_pattern_matching_in_the/)
+- [Understanding Sampling With and Without Replacement &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/v683g6/understanding_sampling_with_and_without/)
+- [Writing Idiomatic Python Code](https://www.reddit.com/r/Python/comments/v6823v/writing_idiomatic_python_code/)
+- [no-op statements syntactically valid only since Python X.Y](https://www.reddit.com/r/Python/comments/v67w0g/noop_statements_syntactically_valid_only_since/)
 - [I made a program to run multiple windows from the same process using Multiprocessing! &lpar;Code in Description&rpar;](https://www.reddit.com/r/Python/comments/v66oob/i_made_a_program_to_run_multiple_windows_from_the/)
-- [PEP 681 – Data Class Transforms &lpar;accepted&rpar;](https://www.reddit.com/r/Python/comments/v66o83/pep_681_data_class_transforms_accepted/)
-- [Dates And Times And Types](https://www.reddit.com/r/Python/comments/v66lzn/dates_and_times_and_types/)
-- [Python 3.11 Performance Benchmarks Are Looking Fantastic](https://www.reddit.com/r/Python/comments/v669pt/python_311_performance_benchmarks_are_looking/)
-- [Easy Speech Recognition in Python using ESPnet](https://www.reddit.com/r/Python/comments/v65d3o/easy_speech_recognition_in_python_using_espnet/)
 <!-- BLOG-POST-LIST:END -->
