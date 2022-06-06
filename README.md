@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stat Tracking for Discord graphs. &lpar;OC&rpar;](https://www.reddit.com/r/Python/comments/v6erxo/stat_tracking_for_discord_graphs_oc/)
+- [Best machine to code Python is Pi it the target](https://www.reddit.com/r/Python/comments/v6ejer/best_machine_to_code_python_is_pi_it_the_target/)
+- [A simple REST API with Blacksheep and Piccolo ORM | Python.](https://www.reddit.com/r/Python/comments/v6e6gp/a_simple_rest_api_with_blacksheep_and_piccolo_orm/)
 - [AOL 3.0 &lpar;Python&rpar; running on TempleOS](https://www.reddit.com/r/Python/comments/v6c73m/aol_30_python_running_on_templeos/)
 - [The Python GIL: Past, Present, and Future](https://www.reddit.com/r/Python/comments/v6c6r1/the_python_gil_past_present_and_future/)
-- [Python 3.10.5 is available](https://www.reddit.com/r/Python/comments/v6c1hl/python_3105_is_available/)
-- [Dunnomate.com - simple games which get you to think](https://www.reddit.com/r/Python/comments/v6bs20/dunnomatecom_simple_games_which_get_you_to_think/)
-- [Spent a while trying to figure this out but I made a program that separates an image into its CMYK values.](https://www.reddit.com/r/Python/comments/v6bfz2/spent_a_while_trying_to_figure_this_out_but_i/)
 <!-- BLOG-POST-LIST:END -->
