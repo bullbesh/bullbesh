@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Databases made easy](https://www.reddit.com/r/Python/comments/v5v8gc/databases_made_easy/)
 - [Python vs R](https://www.reddit.com/r/Python/comments/v5uh2l/python_vs_r/)
 - [Nuclei - A compression home-server based media manager.](https://www.reddit.com/r/Python/comments/v5u91p/nuclei_a_compression_homeserver_based_media/)
 - [Difference between modules, packages and libraries in Python](https://www.reddit.com/r/Python/comments/v5u2dp/difference_between_modules_packages_and_libraries/)
 - [Simple Chatbot In Python With Source Code](https://www.reddit.com/r/Python/comments/v5tpok/simple_chatbot_in_python_with_source_code/)
-- [Create a Vehicle Parking Management in Python](https://www.reddit.com/r/Python/comments/v5tcvl/create_a_vehicle_parking_management_in_python/)
 <!-- BLOG-POST-LIST:END -->
