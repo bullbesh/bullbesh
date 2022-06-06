@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Coding together and having fun](https://www.reddit.com/r/Python/comments/v69qt8/coding_together_and_having_fun/)
-- [Pygame](https://www.reddit.com/r/Python/comments/v69ntl/pygame/)
-- [Create games with Python - Pygame Intro &amp; Window creation](https://www.reddit.com/r/Python/comments/v69685/create_games_with_python_pygame_intro_window/)
-- [PDF Slides: Structural Pattern Matching in the Real World™](https://www.reddit.com/r/Python/comments/v689bk/pdf_slides_structural_pattern_matching_in_the/)
-- [Understanding Sampling With and Without Replacement &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/v683g6/understanding_sampling_with_and_without/)
+- [AOL 3.0 &lpar;Python&rpar; running on TempleOS](https://www.reddit.com/r/Python/comments/v6c73m/aol_30_python_running_on_templeos/)
+- [The Python GIL: Past, Present, and Future](https://www.reddit.com/r/Python/comments/v6c6r1/the_python_gil_past_present_and_future/)
+- [Python 3.10.5 is available](https://www.reddit.com/r/Python/comments/v6c1hl/python_3105_is_available/)
+- [Dunnomate.com - simple games which get you to think](https://www.reddit.com/r/Python/comments/v6bs20/dunnomatecom_simple_games_which_get_you_to_think/)
+- [Spent a while trying to figure this out but I made a program that separates an image into its CMYK values.](https://www.reddit.com/r/Python/comments/v6bfz2/spent_a_while_trying_to_figure_this_out_but_i/)
 <!-- BLOG-POST-LIST:END -->
