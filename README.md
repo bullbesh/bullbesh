@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easy Speech Recognition in Python using ESPnet](https://www.reddit.com/r/Python/comments/v65d3o/easy_speech_recognition_in_python_using_espnet/)
+- [Is it just me or is it hard to find motivation?](https://www.reddit.com/r/Python/comments/v653dx/is_it_just_me_or_is_it_hard_to_find_motivation/)
 - [IDEAS TO CODE](https://www.reddit.com/r/Python/comments/v64cgl/ideas_to_code/)
 - [Managing, grouping and moving files with Python](https://www.reddit.com/r/Python/comments/v64alu/managing_grouping_and_moving_files_with_python/)
 - [Introducing Sgraphic: a dead simple 2d graphics package](https://www.reddit.com/r/Python/comments/v62xy6/introducing_sgraphic_a_dead_simple_2d_graphics/)
-- [Design Idea: Errors by Schema](https://www.reddit.com/r/Python/comments/v62qdj/design_idea_errors_by_schema/)
-- [Dataclasses](https://www.reddit.com/r/Python/comments/v60shz/dataclasses/)
 <!-- BLOG-POST-LIST:END -->
