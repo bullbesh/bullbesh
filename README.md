@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python vs R](https://www.reddit.com/r/Python/comments/v5uh2l/python_vs_r/)
+- [Nuclei - A compression home-server based media manager.](https://www.reddit.com/r/Python/comments/v5u91p/nuclei_a_compression_homeserver_based_media/)
+- [Difference between modules, packages and libraries in Python](https://www.reddit.com/r/Python/comments/v5u2dp/difference_between_modules_packages_and_libraries/)
+- [Simple Chatbot In Python With Source Code](https://www.reddit.com/r/Python/comments/v5tpok/simple_chatbot_in_python_with_source_code/)
 - [Create a Vehicle Parking Management in Python](https://www.reddit.com/r/Python/comments/v5tcvl/create_a_vehicle_parking_management_in_python/)
-- [Is there something similar to this library &lpar;opossum in nodejs&rpar; in python?](https://www.reddit.com/r/Python/comments/v5rv3r/is_there_something_similar_to_this_library/)
-- [TIL The AI logic behind video game characters was inspired by training dogs. Giving the characters a +1 when they perform a desired task and -1 when they do an undesired behavior. They are then designed to maximize the amount of +1s they get.](https://www.reddit.com/r/Python/comments/v5rg4h/til_the_ai_logic_behind_video_game_characters_was/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/v5pzn0/monday_daily_thread_project_ideas/)
-- [made an r/place clone using flask backend](https://www.reddit.com/r/Python/comments/v5pzmc/made_an_rplace_clone_using_flask_backend/)
 <!-- BLOG-POST-LIST:END -->
