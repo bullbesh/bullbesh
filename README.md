@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which WebView Modules you know?](https://www.reddit.com/r/Python/comments/v76nzw/which_webview_modules_you_know/)
+- [python 3.10 in win 7](https://www.reddit.com/r/Python/comments/v76ktm/python_310_in_win_7/)
 - [Introducing multipage apps! 📄 - Streamlit now includes built-in support for multiple-page apps](https://www.reddit.com/r/Python/comments/v75ud6/introducing_multipage_apps_streamlit_now_includes/)
 - [How to CREATE and USE CLASSES in Python](https://www.reddit.com/r/Python/comments/v75p06/how_to_create_and_use_classes_in_python/)
 - [Stupid question - how do you install Sanic with Python?](https://www.reddit.com/r/Python/comments/v759ry/stupid_question_how_do_you_install_sanic_with/)
-- [Python Script Idea / Question](https://www.reddit.com/r/Python/comments/v74ks5/python_script_idea_question/)
-- [Top Skills For A Python Developer](https://www.reddit.com/r/Python/comments/v72fg6/top_skills_for_a_python_developer/)
 <!-- BLOG-POST-LIST:END -->
