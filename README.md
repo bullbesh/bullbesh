@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Iofod supports Flutter 3.0 project generation](https://www.reddit.com/r/Python/comments/v6m9ue/iofod_supports_flutter_30_project_generation/)
 - [Python beginner here :&rpar;](https://www.reddit.com/r/Python/comments/v6l4bt/python_beginner_here/)
 - [Python Noob Here.](https://www.reddit.com/r/Python/comments/v6j8of/python_noob_here/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/v6hdks/tuesday_daily_thread_advanced_questions/)
 - [Stat Tracking for Discord graphs. &lpar;OC&rpar;](https://www.reddit.com/r/Python/comments/v6erxo/stat_tracking_for_discord_graphs_oc/)
-- [Best machine to code Python is Pi it the target](https://www.reddit.com/r/Python/comments/v6ejer/best_machine_to_code_python_is_pi_it_the_target/)
 <!-- BLOG-POST-LIST:END -->
