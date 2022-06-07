@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Full disclosure: I’m not a Python expert - I simply want to know if a Python script is possible for automating a specific repetitive task &lpar;and if so, any direction beyond that would be much appreciated, e.g. type of script&rpar;. See below…](https://www.reddit.com/r/Python/comments/v7a5z1/full_disclosure_im_not_a_python_expert_i_simply/)
+- [how can i learn programming](https://www.reddit.com/r/Python/comments/v7a3nu/how_can_i_learn_programming/)
 - [Tracing method calls in a python script in an error-like fasion](https://www.reddit.com/r/Python/comments/v79f6s/tracing_method_calls_in_a_python_script_in_an/)
 - [Which WebView Modules you know?](https://www.reddit.com/r/Python/comments/v76nzw/which_webview_modules_you_know/)
 - [python 3.10 in win 7](https://www.reddit.com/r/Python/comments/v76ktm/python_310_in_win_7/)
-- [Introducing multipage apps! 📄 - Streamlit now includes built-in support for multiple-page apps](https://www.reddit.com/r/Python/comments/v75ud6/introducing_multipage_apps_streamlit_now_includes/)
-- [How to CREATE and USE CLASSES in Python](https://www.reddit.com/r/Python/comments/v75p06/how_to_create_and_use_classes_in_python/)
 <!-- BLOG-POST-LIST:END -->
