@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RoundBox new IoT framework](https://www.reddit.com/r/Python/comments/v6si3e/roundbox_new_iot_framework/)
+- [How to create a simple Hangman game with Python](https://www.reddit.com/r/Python/comments/v6s2p6/how_to_create_a_simple_hangman_game_with_python/)
 - [What techniques, tools, and libraries have you found that legitimately sped up your development time and/or made things easier for you?](https://www.reddit.com/r/Python/comments/v6pttl/what_techniques_tools_and_libraries_have_you/)
 - [Peeking and backtracking Python generators](https://www.reddit.com/r/Python/comments/v6p9n8/peeking_and_backtracking_python_generators/)
 - [Looking for help for hire](https://www.reddit.com/r/Python/comments/v6o676/looking_for_help_for_hire/)
-- [Hi guys! I’m new to python and I really want to learn!](https://www.reddit.com/r/Python/comments/v6ngli/hi_guys_im_new_to_python_and_i_really_want_to/)
-- [iToven AI - A free service that uses AI to write music and create MIDI samples for music producers.](https://www.reddit.com/r/Python/comments/v6nezc/itoven_ai_a_free_service_that_uses_ai_to_write/)
 <!-- BLOG-POST-LIST:END -->
