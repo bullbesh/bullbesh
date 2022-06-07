@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [help me create code please!!!!!!!!!!](https://www.reddit.com/r/Python/comments/v6oi8r/help_me_create_code_please/)
+- [What techniques, tools, and libraries have you found that legitimately sped up your development time and/or made things easier for you?](https://www.reddit.com/r/Python/comments/v6pttl/what_techniques_tools_and_libraries_have_you/)
+- [Peeking and backtracking Python generators](https://www.reddit.com/r/Python/comments/v6p9n8/peeking_and_backtracking_python_generators/)
 - [Looking for help for hire](https://www.reddit.com/r/Python/comments/v6o676/looking_for_help_for_hire/)
 - [Hi guys! I’m new to python and I really want to learn!](https://www.reddit.com/r/Python/comments/v6ngli/hi_guys_im_new_to_python_and_i_really_want_to/)
 - [iToven AI - A free service that uses AI to write music and create MIDI samples for music producers.](https://www.reddit.com/r/Python/comments/v6nezc/itoven_ai_a_free_service_that_uses_ai_to_write/)
-- [Iofod supports Flutter 3.0 project generation](https://www.reddit.com/r/Python/comments/v6m9ue/iofod_supports_flutter_30_project_generation/)
 <!-- BLOG-POST-LIST:END -->
