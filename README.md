@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LPT To help devs pick up Pull Requests faster, my friend&#39;s company built an internal tool to give their PRs one-click context, estimated time to review, relevants files, etc. It looks like they just released if for free.](https://www.reddit.com/r/Python/comments/v6ugaf/lpt_to_help_devs_pick_up_pull_requests_faster_my/)
+- [Are there really 8000 Anaconda packages available?](https://www.reddit.com/r/Python/comments/v6sw43/are_there_really_8000_anaconda_packages_available/)
 - [RoundBox new IoT framework](https://www.reddit.com/r/Python/comments/v6si3e/roundbox_new_iot_framework/)
 - [How to create a simple Hangman game with Python](https://www.reddit.com/r/Python/comments/v6s2p6/how_to_create_a_simple_hangman_game_with_python/)
 - [What techniques, tools, and libraries have you found that legitimately sped up your development time and/or made things easier for you?](https://www.reddit.com/r/Python/comments/v6pttl/what_techniques_tools_and_libraries_have_you/)
-- [Peeking and backtracking Python generators](https://www.reddit.com/r/Python/comments/v6p9n8/peeking_and_backtracking_python_generators/)
-- [Looking for help for hire](https://www.reddit.com/r/Python/comments/v6o676/looking_for_help_for_hire/)
 <!-- BLOG-POST-LIST:END -->
