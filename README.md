@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top Skills For A Python Developer](https://www.reddit.com/r/Python/comments/v72fg6/top_skills_for_a_python_developer/)
+- [Update on Solar GUI: v0.1.4](https://www.reddit.com/r/Python/comments/v72d59/update_on_solar_gui_v014/)
 - [WSA Sideloader - Easily sideload APKs on Windows Subsystem for Android](https://www.reddit.com/r/Python/comments/v71re3/wsa_sideloader_easily_sideload_apks_on_windows/)
 - [I made a program designed to download Spotify Albums / Playlists!](https://www.reddit.com/r/Python/comments/v71fkb/i_made_a_program_designed_to_download_spotify/)
 - [made an r/place clone using flask back-end](https://www.reddit.com/r/Python/comments/v70xrp/made_an_rplace_clone_using_flask_backend/)
-- [Does pytest break a lot of coding rules?](https://www.reddit.com/r/Python/comments/v6zjjo/does_pytest_break_a_lot_of_coding_rules/)
-- [Using Decorators to Instrument Python Code With OpenTelemetry Traces](https://www.reddit.com/r/Python/comments/v6xxdw/using_decorators_to_instrument_python_code_with/)
 <!-- BLOG-POST-LIST:END -->
