@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python beginner here :&rpar;](https://www.reddit.com/r/Python/comments/v6l4bt/python_beginner_here/)
 - [Python Noob Here.](https://www.reddit.com/r/Python/comments/v6j8of/python_noob_here/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/v6hdks/tuesday_daily_thread_advanced_questions/)
 - [Stat Tracking for Discord graphs. &lpar;OC&rpar;](https://www.reddit.com/r/Python/comments/v6erxo/stat_tracking_for_discord_graphs_oc/)
 - [Best machine to code Python is Pi it the target](https://www.reddit.com/r/Python/comments/v6ejer/best_machine_to_code_python_is_pi_it_the_target/)
-- [A simple REST API with Blacksheep and Piccolo ORM | Python.](https://www.reddit.com/r/Python/comments/v6e6gp/a_simple_rest_api_with_blacksheep_and_piccolo_orm/)
 <!-- BLOG-POST-LIST:END -->
