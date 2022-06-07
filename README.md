@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to write Python code in Pythonic way? Any learning resources?](https://www.reddit.com/r/Python/comments/v70gnb/how_to_write_python_code_in_pythonic_way_any/)
+- [Does pytest break a lot of coding rules?](https://www.reddit.com/r/Python/comments/v6zjjo/does_pytest_break_a_lot_of_coding_rules/)
 - [Using Decorators to Instrument Python Code With OpenTelemetry Traces](https://www.reddit.com/r/Python/comments/v6xxdw/using_decorators_to_instrument_python_code_with/)
 - [A First Look at PyScript: Python in the Web Browser – Real Python](https://www.reddit.com/r/Python/comments/v6wn9m/a_first_look_at_pyscript_python_in_the_web/)
 - [What are some very useful &lpar;but maybe not that popular&rpar; Python libraries that you&#39;ve used?](https://www.reddit.com/r/Python/comments/v6wk8s/what_are_some_very_useful_but_maybe_not_that/)
-- [What are the plus and cons of the Pillow library for low-level image processing?](https://www.reddit.com/r/Python/comments/v6w13t/what_are_the_plus_and_cons_of_the_pillow_library/)
-- [LPT To help devs pick up Pull Requests faster, my friend&#39;s company built an internal tool to give their PRs one-click context, estimated time to review, relevants files, etc. It looks like they just released if for free.](https://www.reddit.com/r/Python/comments/v6ugaf/lpt_to_help_devs_pick_up_pull_requests_faster_my/)
 <!-- BLOG-POST-LIST:END -->
