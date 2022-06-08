@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make a Virtual Narrator in Python](https://www.reddit.com/r/Python/comments/v7otgk/how_to_make_a_virtual_narrator_in_python/)
 - [Python Resources [Github Repo]](https://www.reddit.com/r/Python/comments/v7ojwa/python_resources_github_repo/)
 - [How would Jupyter Notebook look like if created by Apple?](https://www.reddit.com/r/Python/comments/v7o8ml/how_would_jupyter_notebook_look_like_if_created/)
 - [create a program that return the days left from your next birthday](https://www.reddit.com/r/Python/comments/v7kun2/create_a_program_that_return_the_days_left_from/)
 - [Web Scraping with Pandas -- Scape, Clean, Concatenate](https://www.reddit.com/r/Python/comments/v7k3wb/web_scraping_with_pandas_scape_clean_concatenate/)
-- [Super-Resolution Generative Adversarial Networks &lpar;SRGAN&rpar;](https://www.reddit.com/r/Python/comments/v7j8pt/superresolution_generative_adversarial_networks/)
 <!-- BLOG-POST-LIST:END -->
