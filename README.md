@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Resources [Github Repo]](https://www.reddit.com/r/Python/comments/v7ojwa/python_resources_github_repo/)
+- [How would Jupyter Notebook look like if created by Apple?](https://www.reddit.com/r/Python/comments/v7o8ml/how_would_jupyter_notebook_look_like_if_created/)
 - [create a program that return the days left from your next birthday](https://www.reddit.com/r/Python/comments/v7kun2/create_a_program_that_return_the_days_left_from/)
 - [Web Scraping with Pandas -- Scape, Clean, Concatenate](https://www.reddit.com/r/Python/comments/v7k3wb/web_scraping_with_pandas_scape_clean_concatenate/)
 - [Super-Resolution Generative Adversarial Networks &lpar;SRGAN&rpar;](https://www.reddit.com/r/Python/comments/v7j8pt/superresolution_generative_adversarial_networks/)
-- [Wallpaper application in Python using tkinter](https://www.reddit.com/r/Python/comments/v7ism7/wallpaper_application_in_python_using_tkinter/)
-- [Comment Your Opinions On PyScript](https://www.reddit.com/r/Python/comments/v7h3ej/comment_your_opinions_on_pyscript/)
 <!-- BLOG-POST-LIST:END -->
