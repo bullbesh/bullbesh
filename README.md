@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Pyston-lite: our Python JIT as an extension module](https://www.reddit.com/r/Python/comments/v7yjm0/announcing_pystonlite_our_python_jit_as_an/)
+- [sphinx-codeautolink 0.11: automatic links from code examples to reference documentation](https://www.reddit.com/r/Python/comments/v7xu5j/sphinxcodeautolink_011_automatic_links_from_code/)
 - [Atom will be gone in 6 months!](https://www.reddit.com/r/Python/comments/v7wr3v/atom_will_be_gone_in_6_months/)
-- [Making a 3D Game in Just 10 Seconds !](https://www.reddit.com/r/Python/comments/v7wqxi/making_a_3d_game_in_just_10_seconds/)
 - [What’s something you wish was easier to do in Python?](https://www.reddit.com/r/Python/comments/v7wnzz/whats_something_you_wish_was_easier_to_do_in/)
-- [Looking for a programming friend](https://www.reddit.com/r/Python/comments/v7wetx/looking_for_a_programming_friend/)
 - [Release Announcement: zpy 0.3.0 -- Manage Python Environments, Dependencies, and Isolated Apps, in Zsh](https://www.reddit.com/r/Python/comments/v7uyh4/release_announcement_zpy_030_manage_python/)
 <!-- BLOG-POST-LIST:END -->
