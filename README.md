@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Serving machine learning models with FastAPI: It’s not all about speed](https://www.reddit.com/r/Python/comments/v7tma2/serving_machine_learning_models_with_fastapi_its/)
+- [Interesting software engineering problem](https://www.reddit.com/r/Python/comments/v7uuc9/interesting_software_engineering_problem/)
 - [Solving Sudoku with Poetry&#39;s dependency resolver](https://www.reddit.com/r/Python/comments/v7tazh/solving_sudoku_with_poetrys_dependency_resolver/)
 - [Python Learning Resources](https://www.reddit.com/r/Python/comments/v7t1qt/python_learning_resources/)
 - [Serving machine learning models with FastAPI: It’s not all about speed](https://www.reddit.com/r/Python/comments/v7swtu/serving_machine_learning_models_with_fastapi_its/)
