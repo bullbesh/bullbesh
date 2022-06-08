@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Feedback requested for Python Library that combines all random generators from across the web](https://www.reddit.com/r/Python/comments/v7s3sb/feedback_requested_for_python_library_that/)
-- [How To Rotate Proxies in Python - ZenRows](https://www.reddit.com/r/Python/comments/v7rj1o/how_to_rotate_proxies_in_python_zenrows/)
-- [open-source python library for building a UI that runs in the browser or jupyter notebook for ML models and python apps, package available on PyPI](https://www.reddit.com/r/Python/comments/v7r1if/opensource_python_library_for_building_a_ui_that/)
-- [Excel sheet to be updated weekly with specific data from multiple excel sheets and create a graphical representation of the updated data](https://www.reddit.com/r/Python/comments/v7qoxy/excel_sheet_to_be_updated_weekly_with_specific/)
-- [How to make a Virtual Narrator in Python](https://www.reddit.com/r/Python/comments/v7otgk/how_to_make_a_virtual_narrator_in_python/)
+- [Serving machine learning models with FastAPI: It’s not all about speed](https://www.reddit.com/r/Python/comments/v7tma2/serving_machine_learning_models_with_fastapi_its/)
+- [Solving Sudoku with Poetry&#39;s dependency resolver](https://www.reddit.com/r/Python/comments/v7tazh/solving_sudoku_with_poetrys_dependency_resolver/)
+- [Python Learning Resources](https://www.reddit.com/r/Python/comments/v7t1qt/python_learning_resources/)
+- [Serving machine learning models with FastAPI: It’s not all about speed](https://www.reddit.com/r/Python/comments/v7swtu/serving_machine_learning_models_with_fastapi_its/)
+- [GitHub - fvaleye/tracarbon: Tracarbon tracks your device&#39;s energy consumption and calculates your carbon emissions.](https://www.reddit.com/r/Python/comments/v7ssa5/github_fvaleyetracarbon_tracarbon_tracks_your/)
 <!-- BLOG-POST-LIST:END -->
