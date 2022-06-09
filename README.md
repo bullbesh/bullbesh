@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Purchase Ai/ML Api](https://www.reddit.com/r/Python/comments/v8po84/purchase_aiml_api/)
+- [How to create a restricted environment?](https://www.reddit.com/r/Python/comments/v8oq4n/how_to_create_a_restricted_environment/)
 - [Alternatives to &#39;keyring&#39; Python package for storing secrets securely?](https://www.reddit.com/r/Python/comments/v8o9eu/alternatives_to_keyring_python_package_for/)
 - [Pandas vectorization: faster code, slower code, bloated memory](https://www.reddit.com/r/Python/comments/v8m79o/pandas_vectorization_faster_code_slower_code/)
 - [High-Performance Python Video Series](https://www.reddit.com/r/Python/comments/v8kx2v/highperformance_python_video_series/)
-- [I Made a full playable Piano in Python using the PyGame framework!](https://www.reddit.com/r/Python/comments/v8hep3/i_made_a_full_playable_piano_in_python_using_the/)
-- [Build Computer Vision Web App with only Python &lpar;convert images to sketches&rpar;](https://www.reddit.com/r/Python/comments/v8h717/build_computer_vision_web_app_with_only_python/)
 <!-- BLOG-POST-LIST:END -->
