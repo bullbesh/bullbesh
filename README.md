@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Github Pages for Code — A Walkthrough for Sphinx, autodocs, nbsphinx, and GitHub Pages](https://www.reddit.com/r/Python/comments/v8g1s5/creating_github_pages_for_code_a_walkthrough_for/)
 - [break](https://www.reddit.com/r/Python/comments/v8fkc4/break/)
 - [Generating White Noise or Heavy Rain Sound using Python](https://www.reddit.com/r/Python/comments/v8ey4t/generating_white_noise_or_heavy_rain_sound_using/)
-- [Essential books to learn Python Programming in 2022](https://www.reddit.com/r/Python/comments/v8eq61/essential_books_to_learn_python_programming_in/)
 - [Handling Concurrency Without Locks](https://www.reddit.com/r/Python/comments/v8el4f/handling_concurrency_without_locks/)
 - [Using the &quot;or&quot; operator to assign variables](https://www.reddit.com/r/Python/comments/v8ee4a/using_the_or_operator_to_assign_variables/)
 <!-- BLOG-POST-LIST:END -->
