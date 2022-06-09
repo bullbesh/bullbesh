@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Functional python for data process](https://www.reddit.com/r/Python/comments/v814wp/functional_python_for_data_process/)
-- [&lpar;django - flask -fastAPI ......&rpar; which is better for React project ???](https://www.reddit.com/r/Python/comments/v80013/django_flask_fastapi_which_is_better_for_react/)
-- [Announcing Pyston-lite: our Python JIT as an extension module](https://www.reddit.com/r/Python/comments/v7yjm0/announcing_pystonlite_our_python_jit_as_an/)
-- [sphinx-codeautolink 0.11: automatic links from code examples to reference documentation](https://www.reddit.com/r/Python/comments/v7xu5j/sphinxcodeautolink_011_automatic_links_from_code/)
-- [Atom will be gone in 6 months!](https://www.reddit.com/r/Python/comments/v7wr3v/atom_will_be_gone_in_6_months/)
+- [I created a Python package to automate the bulk analysis of your website performance in Excel &lpar;first PyPI release&rpar;](https://www.reddit.com/r/Python/comments/v85qme/i_created_a_python_package_to_automate_the_bulk/)
+- [Best 25 Python Projects for Beginners to Master Level Up](https://www.reddit.com/r/Python/comments/v84kf5/best_25_python_projects_for_beginners_to_master/)
+- [How to Create a Python Script to Automatically Monitor Podcast Prices Online](https://www.reddit.com/r/Python/comments/v83mbg/how_to_create_a_python_script_to_automatically/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/v83lu8/thursday_daily_thread_python_careers_courses_and/)
+- [Vague question, but how would I be able to make an AI in its simplest and most basic form?](https://www.reddit.com/r/Python/comments/v83hvi/vague_question_but_how_would_i_be_able_to_make_an/)
 <!-- BLOG-POST-LIST:END -->
