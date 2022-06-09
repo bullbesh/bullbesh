@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Union Find problem : Disjoint set](https://www.reddit.com/r/Python/comments/v8bzvk/union_find_problem_disjoint_set/)
 - [Vcfio is an efficient and easy-to-use package for VCF reading, writing and manipluation](https://www.reddit.com/r/Python/comments/v8ajj4/vcfio_is_an_efficient_and_easytouse_package_for/)
 - [Merge dictionaries in Python &lpar;5 ways&rpar;](https://www.reddit.com/r/Python/comments/v8a2it/merge_dictionaries_in_python_5_ways/)
 - [How to build a web scraping package to extract hyperlinks in 10 minutes using Python?](https://www.reddit.com/r/Python/comments/v89n1m/how_to_build_a_web_scraping_package_to_extract/)
 - [Is it possible to do web scraping without using any third-party modules](https://www.reddit.com/r/Python/comments/v89fm9/is_it_possible_to_do_web_scraping_without_using/)
-- [Long Time Lurker but Finished a ResumePdf project: thoughts are welcome and GitHub repo in comments: [Tagged intermediate for GUI + pandas]](https://www.reddit.com/r/Python/comments/v8603a/long_time_lurker_but_finished_a_resumepdf_project/)
 <!-- BLOG-POST-LIST:END -->
