@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Auto-correct names of medications?](https://www.reddit.com/r/Python/comments/v9gbex/autocorrect_names_of_medications/)
+- [How long did you study a Python web framework before your first project?](https://www.reddit.com/r/Python/comments/v9frgd/how_long_did_you_study_a_python_web_framework/)
 - [&lpar;GUIDE&rpar; A Beginner&#39;s Overview of Django](https://www.reddit.com/r/Python/comments/v9f9by/guide_a_beginners_overview_of_django/)
 - [GitHub - wesselb/plum: Multiple dispatch in Python](https://www.reddit.com/r/Python/comments/v9d6pm/github_wesselbplum_multiple_dispatch_in_python/)
 - [Library Suggestions for a UI](https://www.reddit.com/r/Python/comments/v9b9o9/library_suggestions_for_a_ui/)
-- [Made an IPS patching utility, would appreciate feedback on how to better structure the code.](https://www.reddit.com/r/Python/comments/v9ask7/made_an_ips_patching_utility_would_appreciate/)
-- [Python Flask Elasticsearch - model data layer - Part 5 Tutorial](https://www.reddit.com/r/Python/comments/v99cmd/python_flask_elasticsearch_model_data_layer_part/)
 <!-- BLOG-POST-LIST:END -->
