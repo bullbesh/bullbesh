@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to open .py with idlex as default instead of idle? Also can we add it to the context menu,](https://www.reddit.com/r/Python/comments/v943xq/how_to_open_py_with_idlex_as_default_instead_of/)
+- [Web scraping wiki tables with BS4](https://www.reddit.com/r/Python/comments/v942pt/web_scraping_wiki_tables_with_bs4/)
 - [I need suggestions](https://www.reddit.com/r/Python/comments/v93arl/i_need_suggestions/)
 - [Anyone used Glueviz in Anaconda?](https://www.reddit.com/r/Python/comments/v92z9i/anyone_used_glueviz_in_anaconda/)
 - [Evidently Python ships with a &quot;parse&quot; module. Unfortunately searching for it, does not yield any positive hits](https://www.reddit.com/r/Python/comments/v8z5sh/evidently_python_ships_with_a_parse_module/)
-- [Command to automatically create projects on linux](https://www.reddit.com/r/Python/comments/v8wxsw/command_to_automatically_create_projects_on_linux/)
-- [Hey all! For all those who are Interesting in developing a Blockchain. This a basic Implementation of Blockchain with Python under 7 minutes. Drop Questions, Comments, Suggestions, Queries, etc. If you have got hunger for similar stuff, let me know that too, I will be more than happy to help.](https://www.reddit.com/r/Python/comments/v8un32/hey_all_for_all_those_who_are_interesting_in/)
 <!-- BLOG-POST-LIST:END -->
