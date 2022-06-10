@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Command to automatically create projects on linux](https://www.reddit.com/r/Python/comments/v8wxsw/command_to_automatically_create_projects_on_linux/)
 - [Hey all! For all those who are Interesting in developing a Blockchain. This a basic Implementation of Blockchain with Python under 7 minutes. Drop Questions, Comments, Suggestions, Queries, etc. If you have got hunger for similar stuff, let me know that too, I will be more than happy to help.](https://www.reddit.com/r/Python/comments/v8un32/hey_all_for_all_those_who_are_interesting_in/)
 - [How many hours do you work as a Python Developer &lpar;remote positions&rpar;?](https://www.reddit.com/r/Python/comments/v8ttsc/how_many_hours_do_you_work_as_a_python_developer/)
 - [Python brothers, what is the coolest thing you&#39;ve created](https://www.reddit.com/r/Python/comments/v8ttes/python_brothers_what_is_the_coolest_thing_youve/)
 - [First beautiful soup project](https://www.reddit.com/r/Python/comments/v8teur/first_beautiful_soup_project/)
-- [Any suggestion for a website where I can exercise python with code editor that checks my code with a tester?](https://www.reddit.com/r/Python/comments/v8s343/any_suggestion_for_a_website_where_i_can_exercise/)
 <!-- BLOG-POST-LIST:END -->
