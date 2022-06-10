@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Library Suggestions for a UI](https://www.reddit.com/r/Python/comments/v9b9o9/library_suggestions_for_a_ui/)
+- [Made an IPS patching utility, would appreciate feedback on how to better structure the code.](https://www.reddit.com/r/Python/comments/v9ask7/made_an_ips_patching_utility_would_appreciate/)
 - [Python Flask Elasticsearch - model data layer - Part 5 Tutorial](https://www.reddit.com/r/Python/comments/v99cmd/python_flask_elasticsearch_model_data_layer_part/)
 - [Teaching an Informal Python Class](https://www.reddit.com/r/Python/comments/v998sv/teaching_an_informal_python_class/)
 - [Made a Python Cheat Sheet for Data Structures and Algorithms &lpar;useful for Leetcode&rpar;.](https://www.reddit.com/r/Python/comments/v9926c/made_a_python_cheat_sheet_for_data_structures_and/)
-- [Tried this for securing post requests against bots, how effective do you think it is?](https://www.reddit.com/r/Python/comments/v97zdy/tried_this_for_securing_post_requests_against/)
-- [I made an introduction to Video Processing with Python and OpenCV](https://www.reddit.com/r/Python/comments/v97rs3/i_made_an_introduction_to_video_processing_with/)
 <!-- BLOG-POST-LIST:END -->
