@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Remember](https://www.reddit.com/r/Python/comments/v9isap/remember/)
+- [Run files with specified numbers](https://www.reddit.com/r/Python/comments/v9ijge/run_files_with_specified_numbers/)
 - [A Bezier Curve I made](https://www.reddit.com/r/Python/comments/v9h7th/a_bezier_curve_i_made/)
 - [Auto-correct names of medications?](https://www.reddit.com/r/Python/comments/v9gbex/autocorrect_names_of_medications/)
 - [How long did you study a Python web framework before your first project?](https://www.reddit.com/r/Python/comments/v9frgd/how_long_did_you_study_a_python_web_framework/)
-- [&lpar;GUIDE&rpar; A Beginner&#39;s Overview of Django](https://www.reddit.com/r/Python/comments/v9f9by/guide_a_beginners_overview_of_django/)
-- [GitHub - wesselb/plum: Multiple dispatch in Python](https://www.reddit.com/r/Python/comments/v9d6pm/github_wesselbplum_multiple_dispatch_in_python/)
 <!-- BLOG-POST-LIST:END -->
