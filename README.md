@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Flask Elasticsearch - model data layer - Part 5 Tutorial](https://www.reddit.com/r/Python/comments/v99cmd/python_flask_elasticsearch_model_data_layer_part/)
+- [Teaching an Informal Python Class](https://www.reddit.com/r/Python/comments/v998sv/teaching_an_informal_python_class/)
+- [Made a Python Cheat Sheet for Data Structures and Algorithms &lpar;useful for Leetcode&rpar;.](https://www.reddit.com/r/Python/comments/v9926c/made_a_python_cheat_sheet_for_data_structures_and/)
 - [Tried this for securing post requests against bots, how effective do you think it is?](https://www.reddit.com/r/Python/comments/v97zdy/tried_this_for_securing_post_requests_against/)
 - [I made an introduction to Video Processing with Python and OpenCV](https://www.reddit.com/r/Python/comments/v97rs3/i_made_an_introduction_to_video_processing_with/)
-- [Python in Visual Studio Code – June 2022 Release](https://www.reddit.com/r/Python/comments/v97n5g/python_in_visual_studio_code_june_2022_release/)
-- [Does anyone else really like reading source code?](https://www.reddit.com/r/Python/comments/v96gpe/does_anyone_else_really_like_reading_source_code/)
-- [How to open .py with idlex as default instead of idle? Also can we add it to the context menu,](https://www.reddit.com/r/Python/comments/v943xq/how_to_open_py_with_idlex_as_default_instead_of/)
 <!-- BLOG-POST-LIST:END -->
