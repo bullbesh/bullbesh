@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [pushpin - Git hooks for python 📌](https://www.reddit.com/r/Python/comments/v9qbt4/pushpin_git_hooks_for_python/)
 - [Making game hacks in Python?](https://www.reddit.com/r/Python/comments/v9o1cx/making_game_hacks_in_python/)
 - [I need some suggestions on how to run my program to run through Flask.](https://www.reddit.com/r/Python/comments/v9nzz4/i_need_some_suggestions_on_how_to_run_my_program/)
 - [A customizable man-in-the-middle TCP proxy server written in Python.](https://www.reddit.com/r/Python/comments/v9nyrh/a_customizable_maninthemiddle_tcp_proxy_server/)
 - [I created a python program to calculate who had the best NBA season of all time](https://www.reddit.com/r/Python/comments/v9lj5w/i_created_a_python_program_to_calculate_who_had/)
-- [i made a generic code tokenizer](https://www.reddit.com/r/Python/comments/v9lcpf/i_made_a_generic_code_tokenizer/)
 <!-- BLOG-POST-LIST:END -->
