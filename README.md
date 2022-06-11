@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Migration of a dockerized MySQL database with SQLAlchemy and Alembic](https://www.reddit.com/r/Python/comments/va6q5m/migration_of_a_dockerized_mysql_database_with/)
+- [for my Psychology class I have to learn python and make an adaptive test in python, I already know C#&lpar;in context of Unity3d&rpar; can I learn Python and make the test in a week time or is that not feasible?](https://www.reddit.com/r/Python/comments/va5q8s/for_my_psychology_class_i_have_to_learn_python/)
 - [prettier in VS code with python ...](https://www.reddit.com/r/Python/comments/va5gsf/prettier_in_vs_code_with_python/)
 - [zilean - Join me on a League of Legends open source data analysis project!](https://www.reddit.com/r/Python/comments/va5a6x/zilean_join_me_on_a_league_of_legends_open_source/)
 - [PDF merge utility - made using PySimpleGUI and pikepdf](https://www.reddit.com/r/Python/comments/va54hb/pdf_merge_utility_made_using_pysimplegui_and/)
-- [Color-change Animation for Text surfaces in Pygame. I&#39;ve made this video a while ago, thought it would be helpful :&rpar;](https://www.reddit.com/r/Python/comments/va435j/colorchange_animation_for_text_surfaces_in_pygame/)
-- [how to extract highlight text from a pdf using python?](https://www.reddit.com/r/Python/comments/va3nc3/how_to_extract_highlight_text_from_a_pdf_using/)
 <!-- BLOG-POST-LIST:END -->
