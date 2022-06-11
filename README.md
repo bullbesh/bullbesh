@@ -9,8 +9,8 @@
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [svg.py: Type-safe and powerful Python library to generate SVG files](https://www.reddit.com/r/Python/comments/v9zcwp/svgpy_typesafe_and_powerful_python_library_to/)
-- [Torah Bible Codes Python Library](https://www.reddit.com/r/Python/comments/v9z3mm/torah_bible_codes_python_library/)
 - [Where to read great code &lpar;comprehensible for beginner/intermediate&rpar;](https://www.reddit.com/r/Python/comments/v9yy22/where_to_read_great_code_comprehensible_for/)
 - [Just a fun project while learning python, I&#39;m working on this simple Seinfeld themed app called &#39;Yada Yada Yada&#39;.](https://www.reddit.com/r/Python/comments/v9wxeu/just_a_fun_project_while_learning_python_im/)
 - [Newbie question - is there a text editor equivalent to Excel&#39;s formula autocomplete/helper?](https://www.reddit.com/r/Python/comments/v9wudo/newbie_question_is_there_a_text_editor_equivalent/)
+- [Automatically coupling requirements and functional tests](https://www.reddit.com/r/Python/comments/v9u6z4/automatically_coupling_requirements_and/)
 <!-- BLOG-POST-LIST:END -->
