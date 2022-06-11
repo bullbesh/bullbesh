@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a python program to calculate who had the best NBA season of all time](https://www.reddit.com/r/Python/comments/v9lj5w/i_created_a_python_program_to_calculate_who_had/)
+- [i made a generic code tokenizer](https://www.reddit.com/r/Python/comments/v9lcpf/i_made_a_generic_code_tokenizer/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/v9l3uj/saturday_daily_thread_resource_request_and/)
 - [Python cant find attribute window, help! xD](https://www.reddit.com/r/Python/comments/v9jpsf/python_cant_find_attribute_window_help_xd/)
 - [Remember](https://www.reddit.com/r/Python/comments/v9isap/remember/)
-- [Run files with specified numbers](https://www.reddit.com/r/Python/comments/v9ijge/run_files_with_specified_numbers/)
-- [A Bezier Curve I made](https://www.reddit.com/r/Python/comments/v9h7th/a_bezier_curve_i_made/)
-- [Auto-correct names of medications?](https://www.reddit.com/r/Python/comments/v9gbex/autocorrect_names_of_medications/)
 <!-- BLOG-POST-LIST:END -->
