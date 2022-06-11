@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you know any good fastapi middleware logger?](https://www.reddit.com/r/Python/comments/va2k6d/do_you_know_any_good_fastapi_middleware_logger/)
+- [The Math of Love Triangles - feat. Rachel Bloom - &quot;Crazy Ex-Girlfriend&quot;](https://www.reddit.com/r/Python/comments/va29dt/the_math_of_love_triangles_feat_rachel_bloom/)
 - [Made a docker app out of my very first pypi package](https://www.reddit.com/r/Python/comments/va1ywe/made_a_docker_app_out_of_my_very_first_pypi/)
 - [Traditional Tokenization Methods for Natural Language Processing &lpar;NLP&rpar; in Python](https://www.reddit.com/r/Python/comments/va19rn/traditional_tokenization_methods_for_natural/)
 - [svg.py: Type-safe and powerful Python library to generate SVG files](https://www.reddit.com/r/Python/comments/v9zcwp/svgpy_typesafe_and_powerful_python_library_to/)
-- [Where to read great code &lpar;comprehensible for beginner/intermediate&rpar;](https://www.reddit.com/r/Python/comments/v9yy22/where_to_read_great_code_comprehensible_for/)
-- [Just a fun project while learning python, I&#39;m working on this simple Seinfeld themed app called &#39;Yada Yada Yada&#39;.](https://www.reddit.com/r/Python/comments/v9wxeu/just_a_fun_project_while_learning_python_im/)
 <!-- BLOG-POST-LIST:END -->
