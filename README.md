@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just a fun project while learning python, I&#39;m working on this simple Seinfeld themed app called &#39;Yada Yada Yada&#39;.](https://www.reddit.com/r/Python/comments/v9wxeu/just_a_fun_project_while_learning_python_im/)
+- [Newbie question - is there a text editor equivalent to Excel&#39;s formula autocomplete/helper?](https://www.reddit.com/r/Python/comments/v9wudo/newbie_question_is_there_a_text_editor_equivalent/)
 - [Automatically coupling requirements and functional tests](https://www.reddit.com/r/Python/comments/v9u6z4/automatically_coupling_requirements_and/)
 - [Ultimate Python development environment configuration](https://www.reddit.com/r/Python/comments/v9tsjj/ultimate_python_development_environment/)
 - [Build a Quiz Application With Python – Real Python](https://www.reddit.com/r/Python/comments/v9tjfb/build_a_quiz_application_with_python_real_python/)
-- [PSA: using `random.*` functions from stdlib leads to brittle random number generation since it depends on global seed state. Use `random.Random&lpar;&rpar;.*` instead.](https://www.reddit.com/r/Python/comments/v9t8uv/psa_using_random_functions_from_stdlib_leads_to/)
-- [Link to an annotated, made easier to learn version of a great Python book for Beginners &lpar;4.24/5 goodreads.com rating&rpar;. Hope you find it as useful as I did.](https://www.reddit.com/r/Python/comments/v9s6ne/link_to_an_annotated_made_easier_to_learn_version/)
 <!-- BLOG-POST-LIST:END -->
