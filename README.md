@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Link to an annotated, made easier to learn version of a great Python book for Beginners &lpar;4.24/5 goodreads.com rating&rpar;. Hope you find it as useful as I did.](https://www.reddit.com/r/Python/comments/v9s6ne/link_to_an_annotated_made_easier_to_learn_version/)
+- [Beginner in Python](https://www.reddit.com/r/Python/comments/v9romb/beginner_in_python/)
+- [Aiotense - Time Processing Tool](https://www.reddit.com/r/Python/comments/v9rkuq/aiotense_time_processing_tool/)
 - [Pympler 1.0.1 - Pympler is a development tool to measure, monitor and analyze the memory behavior of Python objects](https://www.reddit.com/r/Python/comments/v9r3eu/pympler_101_pympler_is_a_development_tool_to/)
 - [When to use Jupyter Notebooks vs. “Organized” Python Code?](https://www.reddit.com/r/Python/comments/v9qn1t/when_to_use_jupyter_notebooks_vs_organized_python/)
-- [pushpin - Git hooks for python 📌](https://www.reddit.com/r/Python/comments/v9qbt4/pushpin_git_hooks_for_python/)
-- [I need some suggestions on how to run my program to run through Flask.](https://www.reddit.com/r/Python/comments/v9nzz4/i_need_some_suggestions_on_how_to_run_my_program/)
-- [A customizable man-in-the-middle TCP proxy server written in Python.](https://www.reddit.com/r/Python/comments/v9nyrh/a_customizable_maninthemiddle_tcp_proxy_server/)
 <!-- BLOG-POST-LIST:END -->
