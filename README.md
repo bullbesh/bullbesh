@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [python programming for absolute beginners](https://www.reddit.com/r/Python/comments/vatq8f/python_programming_for_absolute_beginners/)
+- [python programming for absolute beginners](https://www.reddit.com/r/Python/comments/vatq5k/python_programming_for_absolute_beginners/)
+- [python programming for absolute beginners](https://www.reddit.com/r/Python/comments/vath6d/python_programming_for_absolute_beginners/)
 - [How to write an exploit for SSRF vulnerability using Flask and Python?](https://www.reddit.com/r/Python/comments/vat42u/how_to_write_an_exploit_for_ssrf_vulnerability/)
 - [My Python Project: Build forecasts for your stock portfolio](https://www.reddit.com/r/Python/comments/varvyz/my_python_project_build_forecasts_for_your_stock/)
-- [🛠 5 Python Tools To Make Data Science Easier](https://www.reddit.com/r/Python/comments/varpvr/5_python_tools_to_make_data_science_easier/)
-- [GitHub - pywebio/PyWebIO: Write interactive web app in script way.](https://www.reddit.com/r/Python/comments/var1ht/github_pywebiopywebio_write_interactive_web_app/)
-- [I write absolute garbage quality code](https://www.reddit.com/r/Python/comments/vaq5v6/i_write_absolute_garbage_quality_code/)
 <!-- BLOG-POST-LIST:END -->
