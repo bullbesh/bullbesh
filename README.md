@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CQIM - Console interface for Qemu](https://www.reddit.com/r/Python/comments/vamo57/cqim_console_interface_for_qemu/)
+- [The Best Machine Learning Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/vam1ef/the_best_machine_learning_courses_on_udemy_2022/)
 - [Python SpeedSheet PSA and Latest Updates News](https://www.reddit.com/r/Python/comments/valmls/python_speedsheet_psa_and_latest_updates_news/)
 - [Erebe, a Python Online Card Game, needs your help on Kickstarter!](https://www.reddit.com/r/Python/comments/valdrx/erebe_a_python_online_card_game_needs_your_help/)
 - [A File Organizer in Python](https://www.reddit.com/r/Python/comments/val8u8/a_file_organizer_in_python/)
-- [How multipart file upload work in get request ?](https://www.reddit.com/r/Python/comments/val84c/how_multipart_file_upload_work_in_get_request/)
-- [best book for stock analysis in python?](https://www.reddit.com/r/Python/comments/vajjzs/best_book_for_stock_analysis_in_python/)
 <!-- BLOG-POST-LIST:END -->
