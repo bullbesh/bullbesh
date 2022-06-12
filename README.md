@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Engineering AOL 3.0 in Python - A Deeper Technical Dive](https://www.reddit.com/r/Python/comments/vak3m9/reverse_engineering_aol_30_in_python_a_deeper/)
+- [Python SpeedSheet PSA and Latest Updates News](https://www.reddit.com/r/Python/comments/valmls/python_speedsheet_psa_and_latest_updates_news/)
+- [Erebe, a Python Online Card Game, needs your help on Kickstarter!](https://www.reddit.com/r/Python/comments/valdrx/erebe_a_python_online_card_game_needs_your_help/)
+- [A File Organizer in Python](https://www.reddit.com/r/Python/comments/val8u8/a_file_organizer_in_python/)
+- [How multipart file upload work in get request ?](https://www.reddit.com/r/Python/comments/val84c/how_multipart_file_upload_work_in_get_request/)
 - [best book for stock analysis in python?](https://www.reddit.com/r/Python/comments/vajjzs/best_book_for_stock_analysis_in_python/)
-- [Leaning python for the first time](https://www.reddit.com/r/Python/comments/vaj56l/leaning_python_for_the_first_time/)
-- [how can I create a automation bot?](https://www.reddit.com/r/Python/comments/vai2yz/how_can_i_create_a_automation_bot/)
-- [Async All The Way Down!](https://www.reddit.com/r/Python/comments/vad4x3/async_all_the_way_down/)
 <!-- BLOG-POST-LIST:END -->
