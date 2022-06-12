@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reverse Engineering AOL 3.0 in Python - A Deeper Technical Dive](https://www.reddit.com/r/Python/comments/vak3m9/reverse_engineering_aol_30_in_python_a_deeper/)
 - [best book for stock analysis in python?](https://www.reddit.com/r/Python/comments/vajjzs/best_book_for_stock_analysis_in_python/)
 - [Leaning python for the first time](https://www.reddit.com/r/Python/comments/vaj56l/leaning_python_for_the_first_time/)
 - [how can I create a automation bot?](https://www.reddit.com/r/Python/comments/vai2yz/how_can_i_create_a_automation_bot/)
 - [Async All The Way Down!](https://www.reddit.com/r/Python/comments/vad4x3/async_all_the_way_down/)
-- [Hi guys I need project ideas to build with python. Intermediate level. Thanks](https://www.reddit.com/r/Python/comments/vad31r/hi_guys_i_need_project_ideas_to_build_with_python/)
 <!-- BLOG-POST-LIST:END -->
