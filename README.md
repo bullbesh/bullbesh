@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [how can I create a automation bot?](https://www.reddit.com/r/Python/comments/vai2yz/how_can_i_create_a_automation_bot/)
 - [Async All The Way Down!](https://www.reddit.com/r/Python/comments/vad4x3/async_all_the_way_down/)
 - [Hi guys I need project ideas to build with python. Intermediate level. Thanks](https://www.reddit.com/r/Python/comments/vad31r/hi_guys_i_need_project_ideas_to_build_with_python/)
 - [Cursed Python and other black magic](https://www.reddit.com/r/Python/comments/vad27c/cursed_python_and_other_black_magic/)
 - [I made a bot that can automatically create and upload meme videos to TikTok](https://www.reddit.com/r/Python/comments/vaafv8/i_made_a_bot_that_can_automatically_create_and/)
-- [Learning python](https://www.reddit.com/r/Python/comments/va9zw7/learning_python/)
 <!-- BLOG-POST-LIST:END -->
