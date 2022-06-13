@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Bubble Sort algorithm in Python.](https://www.reddit.com/r/Python/comments/vbeoqm/bubble_sort_algorithm_in_python/)
-- [Build semantic search applications with txtai](https://www.reddit.com/r/Python/comments/vbek62/build_semantic_search_applications_with_txtai/)
-- [Can I get some feedback on my article on Python Virtual Environments?](https://www.reddit.com/r/Python/comments/vbdkqv/can_i_get_some_feedback_on_my_article_on_python/)
-- [Discord Python - How to Host a Discord Bot in Heroku for Free 24/7](https://www.reddit.com/r/Python/comments/vbcy5c/discord_python_how_to_host_a_discord_bot_in/)
-- [Options to tkinter](https://www.reddit.com/r/Python/comments/vbbojh/options_to_tkinter/)
+- [How to detect abusive charges by banks?](https://www.reddit.com/r/Python/comments/vbfxue/how_to_detect_abusive_charges_by_banks/)
+- [How should you properly store a Salt?](https://www.reddit.com/r/Python/comments/vbfxjy/how_should_you_properly_store_a_salt/)
+- [Distracted by other programming languages as a begginer](https://www.reddit.com/r/Python/comments/vbfk1p/distracted_by_other_programming_languages_as_a/)
+- [Python Password Manager](https://www.reddit.com/r/Python/comments/vbf9v9/python_password_manager/)
+- [Data analyst vs Data engineer vs Data science](https://www.reddit.com/r/Python/comments/vbf287/data_analyst_vs_data_engineer_vs_data_science/)
 <!-- BLOG-POST-LIST:END -->
