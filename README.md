@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Project #5: Cool Little Password Manager](https://www.reddit.com/r/Python/comments/vboroy/python_project_5_cool_little_password_manager/)
+- [[Free Resource] Python Design Patterns](https://www.reddit.com/r/Python/comments/vboqmg/free_resource_python_design_patterns/)
 - [Daemon vs Non Daemon threads](https://www.reddit.com/r/Python/comments/vbjmsf/daemon_vs_non_daemon_threads/)
 - [How to use session files for telegram login](https://www.reddit.com/r/Python/comments/vbjkvt/how_to_use_session_files_for_telegram_login/)
 - [I made an Image Steganography program in python using tkinter &lpar;GUI&rpar; and pillow &lpar;Image Processing&rpar;.](https://www.reddit.com/r/Python/comments/vbj3ur/i_made_an_image_steganography_program_in_python/)
-- [Scraping IMDB Gallery](https://www.reddit.com/r/Python/comments/vbgw92/scraping_imdb_gallery/)
-- [Python Cybersecurity 101 — Build your own tools in 10 min](https://www.reddit.com/r/Python/comments/vbguou/python_cybersecurity_101_build_your_own_tools_in/)
 <!-- BLOG-POST-LIST:END -->
