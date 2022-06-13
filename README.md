@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Real-time interactions with Apache Spark through Apache Livy](https://www.reddit.com/r/Python/comments/vaz5ec/building_realtime_interactions_with_apache_spark/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/vayzab/monday_daily_thread_project_ideas/)
+- [How to build a web scraper?](https://www.reddit.com/r/Python/comments/vaylh2/how_to_build_a_web_scraper/)
 - [Python friends for coding together](https://www.reddit.com/r/Python/comments/vaw2yz/python_friends_for_coding_together/)
 - [How to send HTML emails with python `logging.handlers.SMTPHandler`](https://www.reddit.com/r/Python/comments/vavelu/how_to_send_html_emails_with_python/)
-- [python programming for absolute beginners](https://www.reddit.com/r/Python/comments/vatq5k/python_programming_for_absolute_beginners/)
-- [How to write an exploit for SSRF vulnerability using Flask and Python?](https://www.reddit.com/r/Python/comments/vat42u/how_to_write_an_exploit_for_ssrf_vulnerability/)
-- [My Python Project: Build forecasts for your stock portfolio](https://www.reddit.com/r/Python/comments/varvyz/my_python_project_build_forecasts_for_your_stock/)
 <!-- BLOG-POST-LIST:END -->
