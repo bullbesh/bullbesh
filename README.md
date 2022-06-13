@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bubble Sort algorithm in Python.](https://www.reddit.com/r/Python/comments/vbeoqm/bubble_sort_algorithm_in_python/)
+- [Build semantic search applications with txtai](https://www.reddit.com/r/Python/comments/vbek62/build_semantic_search_applications_with_txtai/)
+- [Can I get some feedback on my article on Python Virtual Environments?](https://www.reddit.com/r/Python/comments/vbdkqv/can_i_get_some_feedback_on_my_article_on_python/)
 - [Discord Python - How to Host a Discord Bot in Heroku for Free 24/7](https://www.reddit.com/r/Python/comments/vbcy5c/discord_python_how_to_host_a_discord_bot_in/)
 - [Options to tkinter](https://www.reddit.com/r/Python/comments/vbbojh/options_to_tkinter/)
-- [I wrote a simple python script to get nearby Bluetooth device distance in meter. Source code available](https://www.reddit.com/r/Python/comments/vbbc89/i_wrote_a_simple_python_script_to_get_nearby/)
-- [Python HTTP Methods with Requests library](https://www.reddit.com/r/Python/comments/vbard8/python_http_methods_with_requests_library/)
-- [Interactive Dictionary Project in Python](https://www.reddit.com/r/Python/comments/vbaevb/interactive_dictionary_project_in_python/)
 <!-- BLOG-POST-LIST:END -->
