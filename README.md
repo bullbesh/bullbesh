@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Storing and reading salts](https://www.reddit.com/r/Python/comments/vbh5tn/storing_and_reading_salts/)
+- [Scraping IMDB Gallery](https://www.reddit.com/r/Python/comments/vbgw92/scraping_imdb_gallery/)
+- [Python Cybersecurity 101 — Build your own tools in 10 min](https://www.reddit.com/r/Python/comments/vbguou/python_cybersecurity_101_build_your_own_tools_in/)
+- [Shellshock BETA v1.0](https://www.reddit.com/r/Python/comments/vbgd3b/shellshock_beta_v10/)
 - [How to detect abusive charges by banks?](https://www.reddit.com/r/Python/comments/vbfxue/how_to_detect_abusive_charges_by_banks/)
-- [How should you properly store a Salt?](https://www.reddit.com/r/Python/comments/vbfxjy/how_should_you_properly_store_a_salt/)
-- [Distracted by other programming languages as a begginer](https://www.reddit.com/r/Python/comments/vbfk1p/distracted_by_other_programming_languages_as_a/)
-- [Python Password Manager](https://www.reddit.com/r/Python/comments/vbf9v9/python_password_manager/)
-- [Data analyst vs Data engineer vs Data science](https://www.reddit.com/r/Python/comments/vbf287/data_analyst_vs_data_engineer_vs_data_science/)
 <!-- BLOG-POST-LIST:END -->
