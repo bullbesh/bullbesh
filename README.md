@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Storing and reading salts](https://www.reddit.com/r/Python/comments/vbh5tn/storing_and_reading_salts/)
+- [Module function not importing](https://www.reddit.com/r/Python/comments/vbikvk/module_function_not_importing/)
 - [Scraping IMDB Gallery](https://www.reddit.com/r/Python/comments/vbgw92/scraping_imdb_gallery/)
 - [Python Cybersecurity 101 — Build your own tools in 10 min](https://www.reddit.com/r/Python/comments/vbguou/python_cybersecurity_101_build_your_own_tools_in/)
 - [Shellshock BETA v1.0](https://www.reddit.com/r/Python/comments/vbgd3b/shellshock_beta_v10/)
