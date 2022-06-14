@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Programmatically creating methods for a class](https://www.reddit.com/r/Python/comments/vc24fl/programmatically_creating_methods_for_a_class/)
+- [What to do after the first certificate?](https://www.reddit.com/r/Python/comments/vc1yax/what_to_do_after_the_first_certificate/)
+- [friendly_idle: a lived patch of IDLE to provide better tracebacks](https://www.reddit.com/r/Python/comments/vc1gfh/friendly_idle_a_lived_patch_of_idle_to_provide/)
 - [Interview with Dask &lpar;dask.org&rpar; maintainer, Greg Hayes](https://www.reddit.com/r/Python/comments/vc0sm8/interview_with_dask_daskorg_maintainer_greg_hayes/)
 - [Advices on what project should I do for applying for college?](https://www.reddit.com/r/Python/comments/vbzr0v/advices_on_what_project_should_i_do_for_applying/)
-- [Crypto Price Finder: My Telegram Bot to check crypto prices on CoinMarketCap. Looking for feedback &amp; testers.](https://www.reddit.com/r/Python/comments/vbzlmk/crypto_price_finder_my_telegram_bot_to_check/)
-- [Python Regular Expressions: Lookbehind Assertions](https://www.reddit.com/r/Python/comments/vbz2hl/python_regular_expressions_lookbehind_assertions/)
-- [Python In The Browser: Examples &amp; resources on how to use Python in the web browser.](https://www.reddit.com/r/Python/comments/vbylk1/python_in_the_browser_examples_resources_on_how/)
 <!-- BLOG-POST-LIST:END -->
