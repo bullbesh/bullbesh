@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advices on what project should I do for applying for college?](https://www.reddit.com/r/Python/comments/vbzr0v/advices_on_what_project_should_i_do_for_applying/)
+- [Crypto Price Finder: My Telegram Bot to check crypto prices on CoinMarketCap. Looking for feedback &amp; testers.](https://www.reddit.com/r/Python/comments/vbzlmk/crypto_price_finder_my_telegram_bot_to_check/)
 - [Python Regular Expressions: Lookbehind Assertions](https://www.reddit.com/r/Python/comments/vbz2hl/python_regular_expressions_lookbehind_assertions/)
 - [Python In The Browser: Examples &amp; resources on how to use Python in the web browser.](https://www.reddit.com/r/Python/comments/vbylk1/python_in_the_browser_examples_resources_on_how/)
 - [Just for fun: A jupyter cell magic that runs a jupyter cell with reversed line order.](https://www.reddit.com/r/Python/comments/vbx3xt/just_for_fun_a_jupyter_cell_magic_that_runs_a/)
-- [Top and best 16 Python projects for Beginners to practice](https://www.reddit.com/r/Python/comments/vbvdyh/top_and_best_16_python_projects_for_beginners_to/)
-- [Simple ransomware in Python](https://www.reddit.com/r/Python/comments/vbu8ix/simple_ransomware_in_python/)
 <!-- BLOG-POST-LIST:END -->
