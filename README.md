@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Auto OpenAPI Generation — The Network Doesn’t Lie!](https://www.reddit.com/r/Python/comments/vc8ip6/auto_openapi_generation_the_network_doesnt_lie/)
+- [I made daily background changer application.](https://www.reddit.com/r/Python/comments/vc8h36/i_made_daily_background_changer_application/)
+- [Bring Your Own Query - Introducing Mayim, the not ORM hydrator](https://www.reddit.com/r/Python/comments/vc86y2/bring_your_own_query_introducing_mayim_the_not/)
+- [What are the benefits and when would it be appropriate to use Async with SQL Alchemy versus standard synchronous SQL Alchemy?](https://www.reddit.com/r/Python/comments/vc7z7r/what_are_the_benefits_and_when_would_it_be/)
 - [Multiple lockfiles in Python repos: A Hybrid Approach with Pants](https://www.reddit.com/r/Python/comments/vc7i72/multiple_lockfiles_in_python_repos_a_hybrid/)
-- [How should I structure my Password Manager database?](https://www.reddit.com/r/Python/comments/vc6pat/how_should_i_structure_my_password_manager/)
-- [What are the most popular use cases for Python in web development environments?](https://www.reddit.com/r/Python/comments/vc6ld6/what_are_the_most_popular_use_cases_for_python_in/)
-- [how i can scroll in ptpython &#39;help&#39; window](https://www.reddit.com/r/Python/comments/vc6e0y/how_i_can_scroll_in_ptpython_help_window/)
-- [Looking at learning Python - should I pay for a course or use the free stuff?](https://www.reddit.com/r/Python/comments/vc4c3c/looking_at_learning_python_should_i_pay_for_a/)
 <!-- BLOG-POST-LIST:END -->
