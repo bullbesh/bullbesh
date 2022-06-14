@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just for fun: A jupyter cell magic that runs a jupyter cell with reversed line order.](https://www.reddit.com/r/Python/comments/vbx3xt/just_for_fun_a_jupyter_cell_magic_that_runs_a/)
 - [Top and best 16 Python projects for Beginners to practice](https://www.reddit.com/r/Python/comments/vbvdyh/top_and_best_16_python_projects_for_beginners_to/)
 - [Simple ransomware in Python](https://www.reddit.com/r/Python/comments/vbu8ix/simple_ransomware_in_python/)
 - [Best general packages to use for Python projects](https://www.reddit.com/r/Python/comments/vbu6uz/best_general_packages_to_use_for_python_projects/)
 - [Extract text from PDFs using tesseract](https://www.reddit.com/r/Python/comments/vbs4re/extract_text_from_pdfs_using_tesseract/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/vbq6f4/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
