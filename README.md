@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The subprocess Module: Wrapping Programs With Python – Real Python](https://www.reddit.com/r/Python/comments/vc3mgx/the_subprocess_module_wrapping_programs_with/)
+- [Making a Password Manager, Should I Use MySQL or SQLite 3?](https://www.reddit.com/r/Python/comments/vc3jjc/making_a_password_manager_should_i_use_mysql_or/)
+- [compatlib or: what not to do in Python · Tyler M Kontra](https://www.reddit.com/r/Python/comments/vc3477/compatlib_or_what_not_to_do_in_python_tyler_m/)
+- [Object Detection in 10 minutes with YOLOv5 and python! Running out of the box object detection on a webcam or video file has never been easier.](https://www.reddit.com/r/Python/comments/vc32it/object_detection_in_10_minutes_with_yolov5_and/)
 - [Programmatically creating methods for a class](https://www.reddit.com/r/Python/comments/vc24fl/programmatically_creating_methods_for_a_class/)
-- [What to do after the first certificate?](https://www.reddit.com/r/Python/comments/vc1yax/what_to_do_after_the_first_certificate/)
-- [friendly_idle: a lived patch of IDLE to provide better tracebacks](https://www.reddit.com/r/Python/comments/vc1gfh/friendly_idle_a_lived_patch_of_idle_to_provide/)
-- [Interview with Dask &lpar;dask.org&rpar; maintainer, Greg Hayes](https://www.reddit.com/r/Python/comments/vc0sm8/interview_with_dask_daskorg_maintainer_greg_hayes/)
-- [Advices on what project should I do for applying for college?](https://www.reddit.com/r/Python/comments/vbzr0v/advices_on_what_project_should_i_do_for_applying/)
 <!-- BLOG-POST-LIST:END -->
