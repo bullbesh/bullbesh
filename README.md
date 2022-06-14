@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to become a professional in programming language after I finish my beginner course? Ex; python.](https://www.reddit.com/r/Python/comments/vcdolt/how_to_become_a_professional_in_programming/)
+- [Rubik’s Cube Model in Python with matplotlib as RT render engine](https://www.reddit.com/r/Python/comments/vcg6i5/rubiks_cube_model_in_python_with_matplotlib_as_rt/)
+- [I&#39;m working on an open source library for creating definitions of web forms on the backend called Formlessness.](https://www.reddit.com/r/Python/comments/vcfzh3/im_working_on_an_open_source_library_for_creating/)
+- [I made a beginner level Rock Paper Scissors game, but I&#39;m curious on how simpler/better it can get.](https://www.reddit.com/r/Python/comments/vcfaeh/i_made_a_beginner_level_rock_paper_scissors_game/)
 - [Christoph Gohlke&#39;s Windows Wheels site is shutting down by the end of the month](https://www.reddit.com/r/Python/comments/vcaibq/christoph_gohlkes_windows_wheels_site_is_shutting/)
 - [Python debugging with PDB](https://www.reddit.com/r/Python/comments/vc9p7r/python_debugging_with_pdb/)
-- [Extract text from images using keras-ocr in Python](https://www.reddit.com/r/Python/comments/vc9hkf/extract_text_from_images_using_kerasocr_in_python/)
-- [Protect Flask APIs With OpenID Connect Using Flask-pyoidc](https://www.reddit.com/r/Python/comments/vc8x8p/protect_flask_apis_with_openid_connect_using/)
 <!-- BLOG-POST-LIST:END -->
