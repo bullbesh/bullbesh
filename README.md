@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Christoph Gohlke&#39;s Windows Wheels site is shutting down by the end of the month](https://www.reddit.com/r/Python/comments/vcaibq/christoph_gohlkes_windows_wheels_site_is_shutting/)
 - [Python debugging with PDB](https://www.reddit.com/r/Python/comments/vc9p7r/python_debugging_with_pdb/)
 - [Extract text from images using keras-ocr in Python](https://www.reddit.com/r/Python/comments/vc9hkf/extract_text_from_images_using_kerasocr_in_python/)
 - [Protect Flask APIs With OpenID Connect Using Flask-pyoidc](https://www.reddit.com/r/Python/comments/vc8x8p/protect_flask_apis_with_openid_connect_using/)
 - [Auto OpenAPI Generation — The Network Doesn’t Lie!](https://www.reddit.com/r/Python/comments/vc8ip6/auto_openapi_generation_the_network_doesnt_lie/)
-- [I made daily background changer application.](https://www.reddit.com/r/Python/comments/vc8h36/i_made_daily_background_changer_application/)
 <!-- BLOG-POST-LIST:END -->
