@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Multiple lockfiles in Python repos: A Hybrid Approach with Pants](https://www.reddit.com/r/Python/comments/vc7i72/multiple_lockfiles_in_python_repos_a_hybrid/)
+- [How should I structure my Password Manager database?](https://www.reddit.com/r/Python/comments/vc6pat/how_should_i_structure_my_password_manager/)
+- [What are the most popular use cases for Python in web development environments?](https://www.reddit.com/r/Python/comments/vc6ld6/what_are_the_most_popular_use_cases_for_python_in/)
+- [how i can scroll in ptpython &#39;help&#39; window](https://www.reddit.com/r/Python/comments/vc6e0y/how_i_can_scroll_in_ptpython_help_window/)
 - [Looking at learning Python - should I pay for a course or use the free stuff?](https://www.reddit.com/r/Python/comments/vc4c3c/looking_at_learning_python_should_i_pay_for_a/)
-- [Preferred CI solution](https://www.reddit.com/r/Python/comments/vc47kd/preferred_ci_solution/)
-- [Object Detection in 10 minutes with YOLOv5 and python!](https://www.reddit.com/r/Python/comments/vc3rbe/object_detection_in_10_minutes_with_yolov5_and/)
-- [Does specifying the data type of variable and functions have any improvements in performance over the traditional non-typed variable and functions?](https://www.reddit.com/r/Python/comments/vc3pqo/does_specifying_the_data_type_of_variable_and/)
-- [Code Size and Speed](https://www.reddit.com/r/Python/comments/vc3p9g/code_size_and_speed/)
 <!-- BLOG-POST-LIST:END -->
