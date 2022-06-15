@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Rubik’s Cube Model in Python with matplotlib as RT render engine](https://www.reddit.com/r/Python/comments/vcg6i5/rubiks_cube_model_in_python_with_matplotlib_as_rt/)
-- [I&#39;m working on an open source library for creating definitions of web forms on the backend called Formlessness.](https://www.reddit.com/r/Python/comments/vcfzh3/im_working_on_an_open_source_library_for_creating/)
-- [I made a beginner level Rock Paper Scissors game, but I&#39;m curious on how simpler/better it can get.](https://www.reddit.com/r/Python/comments/vcfaeh/i_made_a_beginner_level_rock_paper_scissors_game/)
-- [Christoph Gohlke&#39;s Windows Wheels site is shutting down by the end of the month](https://www.reddit.com/r/Python/comments/vcaibq/christoph_gohlkes_windows_wheels_site_is_shutting/)
-- [Python debugging with PDB](https://www.reddit.com/r/Python/comments/vc9p7r/python_debugging_with_pdb/)
+- [FOSS Spectrum Analyzer in Python - Need help packaging?](https://www.reddit.com/r/Python/comments/vcjheb/foss_spectrum_analyzer_in_python_need_help/)
+- [Shannon Entropy from Theory to Python](https://www.reddit.com/r/Python/comments/vch5zx/shannon_entropy_from_theory_to_python/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/vch4fs/wednesday_daily_thread_beginner_questions/)
+- [Python stopped working when I try open the Spyder.](https://www.reddit.com/r/Python/comments/vcgqxs/python_stopped_working_when_i_try_open_the_spyder/)
+- [Python Project help please!](https://www.reddit.com/r/Python/comments/vcgjtm/python_project_help_please/)
 <!-- BLOG-POST-LIST:END -->
