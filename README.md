@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best way to structure a password management system?](https://www.reddit.com/r/Python/comments/vcvi82/best_way_to_structure_a_password_management_system/)
+- [Seeking opinion in packaging a `PyQt` app](https://www.reddit.com/r/Python/comments/vcvcoi/seeking_opinion_in_packaging_a_pyqt_app/)
 - [Visualization &lpar;Matplotlib, Seaborn, Plotly, etc.&rpar; - which do you prefer and why?](https://www.reddit.com/r/Python/comments/vcupvl/visualization_matplotlib_seaborn_plotly_etc_which/)
 - [I made a 7 minute primer on property-based testing with Hypothesis](https://www.reddit.com/r/Python/comments/vcub7n/i_made_a_7_minute_primer_on_propertybased_testing/)
 - [Created A Small &lpar;&lt;100 lines&rpar; App for Viewing and Editing Encrypted Files](https://www.reddit.com/r/Python/comments/vctu48/created_a_small_100_lines_app_for_viewing_and/)
-- [Should I use SQLAlchemy for a side project?](https://www.reddit.com/r/Python/comments/vcsvvw/should_i_use_sqlalchemy_for_a_side_project/)
-- [Interview question:](https://www.reddit.com/r/Python/comments/vcsjcu/interview_question/)
 <!-- BLOG-POST-LIST:END -->
