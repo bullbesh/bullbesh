@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can I go from zero programming background to software or web dev entry job after Python Crash Course by Eric Mathes?](https://www.reddit.com/r/Python/comments/vckwl7/can_i_go_from_zero_programming_background_to/)
+- [Parallel tasks using concurrent.futures in Python](https://www.reddit.com/r/Python/comments/vckusl/parallel_tasks_using_concurrentfutures_in_python/)
+- [We built this tool to maintain a bunch of different API connections across multiple platforms, environments, and servers. The idea is you configure the API connection once, then run it everywhere. Would love feedback!](https://www.reddit.com/r/Python/comments/vck186/we_built_this_tool_to_maintain_a_bunch_of/)
 - [FOSS Spectrum Analyzer in Python - Need help packaging?](https://www.reddit.com/r/Python/comments/vcjheb/foss_spectrum_analyzer_in_python_need_help/)
 - [Shannon Entropy from Theory to Python](https://www.reddit.com/r/Python/comments/vch5zx/shannon_entropy_from_theory_to_python/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/vch4fs/wednesday_daily_thread_beginner_questions/)
-- [Python stopped working when I try open the Spyder.](https://www.reddit.com/r/Python/comments/vcgqxs/python_stopped_working_when_i_try_open_the_spyder/)
-- [Python Project help please!](https://www.reddit.com/r/Python/comments/vcgjtm/python_project_help_please/)
 <!-- BLOG-POST-LIST:END -->
