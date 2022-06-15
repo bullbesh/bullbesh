@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Visualization &lpar;Matplotlib, Seaborn, Plotly, etc.&rpar; - which do you prefer and why?](https://www.reddit.com/r/Python/comments/vcupvl/visualization_matplotlib_seaborn_plotly_etc_which/)
+- [I made a 7 minute primer on property-based testing with Hypothesis](https://www.reddit.com/r/Python/comments/vcub7n/i_made_a_7_minute_primer_on_propertybased_testing/)
+- [Created A Small &lpar;&lt;100 lines&rpar; App for Viewing and Editing Encrypted Files](https://www.reddit.com/r/Python/comments/vctu48/created_a_small_100_lines_app_for_viewing_and/)
 - [Should I use SQLAlchemy for a side project?](https://www.reddit.com/r/Python/comments/vcsvvw/should_i_use_sqlalchemy_for_a_side_project/)
 - [Interview question:](https://www.reddit.com/r/Python/comments/vcsjcu/interview_question/)
-- [PySR: High-Performance Symbolic Regression in Python](https://www.reddit.com/r/Python/comments/vcrphu/pysr_highperformance_symbolic_regression_in_python/)
-- [Tiny observer for the attributes of Python objects.](https://www.reddit.com/r/Python/comments/vcqnla/tiny_observer_for_the_attributes_of_python_objects/)
-- [Decision Making in Python-InsideAIML](https://www.reddit.com/r/Python/comments/vcpusx/decision_making_in_pythoninsideaiml/)
 <!-- BLOG-POST-LIST:END -->
