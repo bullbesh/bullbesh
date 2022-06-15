@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [i mapped the whole C standard library to python](https://www.reddit.com/r/Python/comments/vd6yt2/i_mapped_the_whole_c_standard_library_to_python/)
 - [Mirror of Christoph Gohlke&#39;s Windows Binaries](https://www.reddit.com/r/Python/comments/vd6b6q/mirror_of_christoph_gohlkes_windows_binaries/)
 - [Algorithmic Trading using Python](https://www.reddit.com/r/Python/comments/vd5nyb/algorithmic_trading_using_python/)
 - [New PyTest plugin for Unflakable: track and quarantine flaky Python tests](https://www.reddit.com/r/Python/comments/vd5ac5/new_pytest_plugin_for_unflakable_track_and/)
 - [Does len&lpar;&rpar; a linear count?](https://www.reddit.com/r/Python/comments/vd4w22/does_len_a_linear_count/)
-- [A-List of Useful Python Tools used by Developers, Coders, and Data Scientists around the globe.](https://www.reddit.com/r/Python/comments/vd4h94/alist_of_useful_python_tools_used_by_developers/)
 <!-- BLOG-POST-LIST:END -->
