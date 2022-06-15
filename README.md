@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Has robot framework a bad reputation among companies?](https://www.reddit.com/r/Python/comments/vcz4y1/has_robot_framework_a_bad_reputation_among/)
 - [I made a simple script that will generate a url to a screenshot website so you can look at random ppls screenshots](https://www.reddit.com/r/Python/comments/vcxto1/i_made_a_simple_script_that_will_generate_a_url/)
 - [API pull into pandas with formatting.](https://www.reddit.com/r/Python/comments/vcxna3/api_pull_into_pandas_with_formatting/)
 - [Tokenizer &lpar;lexer&rpar; for simple BASIC-like language](https://www.reddit.com/r/Python/comments/vcxeuo/tokenizer_lexer_for_simple_basiclike_language/)
 - [I made an Entity Component System](https://www.reddit.com/r/Python/comments/vcx5ur/i_made_an_entity_component_system/)
-- [merge multiple pdf files into one using python](https://www.reddit.com/r/Python/comments/vcwb5t/merge_multiple_pdf_files_into_one_using_python/)
 <!-- BLOG-POST-LIST:END -->
