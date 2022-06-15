@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Should I use SQLAlchemy for a side project?](https://www.reddit.com/r/Python/comments/vcsvvw/should_i_use_sqlalchemy_for_a_side_project/)
+- [Interview question:](https://www.reddit.com/r/Python/comments/vcsjcu/interview_question/)
 - [PySR: High-Performance Symbolic Regression in Python](https://www.reddit.com/r/Python/comments/vcrphu/pysr_highperformance_symbolic_regression_in_python/)
 - [Tiny observer for the attributes of Python objects.](https://www.reddit.com/r/Python/comments/vcqnla/tiny_observer_for_the_attributes_of_python_objects/)
 - [Decision Making in Python-InsideAIML](https://www.reddit.com/r/Python/comments/vcpusx/decision_making_in_pythoninsideaiml/)
-- [Returning self in Python for chaining](https://www.reddit.com/r/Python/comments/vcpphb/returning_self_in_python_for_chaining/)
-- [This is a mobile life sim I am working on in python.](https://www.reddit.com/r/Python/comments/vcnki7/this_is_a_mobile_life_sim_i_am_working_on_in/)
 <!-- BLOG-POST-LIST:END -->
