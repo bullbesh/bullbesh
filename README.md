@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python in persian](https://www.reddit.com/r/Python/comments/vdm4g4/python_in_persian/)
+- [Will it be worth it to create a Tkinter GUI for a Python Project to put on my resume?](https://www.reddit.com/r/Python/comments/vdm0d8/will_it_be_worth_it_to_create_a_tkinter_gui_for_a/)
+- [Help](https://www.reddit.com/r/Python/comments/vdlf41/help/)
 - [GitHub - unflakable/unflakable-python: Official Unflakable Plugins for Python](https://www.reddit.com/r/Python/comments/vdjzx6/github_unflakableunflakablepython_official/)
 - [How do you feel about PyScript to write Python codes in HTML ?](https://www.reddit.com/r/Python/comments/vdipfj/how_do_you_feel_about_pyscript_to_write_python/)
-- [Absolutely noob question: ELI5](https://www.reddit.com/r/Python/comments/vdidov/absolutely_noob_question_eli5/)
-- [Upcoming changes in Python 3.11](https://www.reddit.com/r/Python/comments/vdfsel/upcoming_changes_in_python_311/)
-- [Simple D2Q9 LBM code to solve lid driven cavity problem without using any for loops.](https://www.reddit.com/r/Python/comments/vdfdvc/simple_d2q9_lbm_code_to_solve_lid_driven_cavity/)
 <!-- BLOG-POST-LIST:END -->
