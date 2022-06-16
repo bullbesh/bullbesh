@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to start python file in venv with PM2?](https://www.reddit.com/r/Python/comments/vdvl2a/how_to_start_python_file_in_venv_with_pm2/)
+- [Project issue](https://www.reddit.com/r/Python/comments/vdvab3/project_issue/)
 - [BehaveX, a test wrapper implemented on top of Python Behave](https://www.reddit.com/r/Python/comments/vdqk3l/behavex_a_test_wrapper_implemented_on_top_of/)
 - [Announcing Reference Architecture for AI - NLP pipelines with Redis and Python](https://www.reddit.com/r/Python/comments/vdp6fl/announcing_reference_architecture_for_ai_nlp/)
 - [What counts as plagiarism?](https://www.reddit.com/r/Python/comments/vdp3kb/what_counts_as_plagiarism/)
-- [sphinx-revealjs: HTML presentation builder for Pythonista](https://www.reddit.com/r/Python/comments/vdopqj/sphinxrevealjs_html_presentation_builder_for/)
-- [Python in persian](https://www.reddit.com/r/Python/comments/vdm4g4/python_in_persian/)
 <!-- BLOG-POST-LIST:END -->
