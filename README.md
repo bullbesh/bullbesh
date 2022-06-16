@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Check out my first finished python project!](https://www.reddit.com/r/Python/comments/vds05v/check_out_my_first_finished_python_project/)
+- [⚡️ The computers are fast, but you don&#39;t know it](https://www.reddit.com/r/Python/comments/vdti5d/the_computers_are_fast_but_you_dont_know_it/)
 - [BehaveX, a test wrapper implemented on top of Python Behave](https://www.reddit.com/r/Python/comments/vdqk3l/behavex_a_test_wrapper_implemented_on_top_of/)
 - [Announcing Reference Architecture for AI - NLP pipelines with Redis and Python](https://www.reddit.com/r/Python/comments/vdp6fl/announcing_reference_architecture_for_ai_nlp/)
 - [What counts as plagiarism?](https://www.reddit.com/r/Python/comments/vdp3kb/what_counts_as_plagiarism/)
