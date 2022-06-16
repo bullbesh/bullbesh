@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there a framework for making Android game auto-play bots?](https://www.reddit.com/r/Python/comments/vdcgxf/is_there_a_framework_for_making_android_game/)
+- [Handling Excel Sheets in Python](https://www.reddit.com/r/Python/comments/vdc7hj/handling_excel_sheets_in_python/)
 - [What&#39;s the best Python certification you&#39;re ever done and why?](https://www.reddit.com/r/Python/comments/vda6oc/whats_the_best_python_certification_youre_ever/)
 - [My progress pt.2: files and json pt.2](https://www.reddit.com/r/Python/comments/vda40s/my_progress_pt2_files_and_json_pt2/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/vd8f5f/thursday_daily_thread_python_careers_courses_and/)
-- [i mapped the whole C standard library to python](https://www.reddit.com/r/Python/comments/vd6yt2/i_mapped_the_whole_c_standard_library_to_python/)
-- [Mirror of Christoph Gohlke&#39;s Windows Binaries](https://www.reddit.com/r/Python/comments/vd6b6q/mirror_of_christoph_gohlkes_windows_binaries/)
 <!-- BLOG-POST-LIST:END -->
