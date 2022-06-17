@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [In python context, what would be RAII? Is having del dunder all that we need](https://www.reddit.com/r/Python/comments/vem4xs/in_python_context_what_would_be_raii_is_having/)
+- [In this article, you&#39;ll discover how to deploy Serverless spaCy Transformer model using AWS Lambda.](https://www.reddit.com/r/Python/comments/velmrs/in_this_article_youll_discover_how_to_deploy/)
+- [Building blocks for implementing authenticated encryption between peers](https://www.reddit.com/r/Python/comments/velk0f/building_blocks_for_implementing_authenticated/)
 - [This Is Why You Should Use Tortoise-ORM in Your Python Projects](https://www.reddit.com/r/Python/comments/vekz68/this_is_why_you_should_use_tortoiseorm_in_your/)
 - [Is there possible interest in a youtube series on building a python desktop program?](https://www.reddit.com/r/Python/comments/veklmy/is_there_possible_interest_in_a_youtube_series_on/)
-- [Using Google Sheets API in Cloud Functions](https://www.reddit.com/r/Python/comments/vek0fe/using_google_sheets_api_in_cloud_functions/)
-- [Do I still need setup.py for my python project if I migrate to poetry?](https://www.reddit.com/r/Python/comments/vehzo8/do_i_still_need_setuppy_for_my_python_project_if/)
-- [Heading up a new project at work in Python, looking for some resources](https://www.reddit.com/r/Python/comments/veek45/heading_up_a_new_project_at_work_in_python/)
 <!-- BLOG-POST-LIST:END -->
