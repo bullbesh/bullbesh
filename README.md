@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [This Is Why You Should Use Tortoise-ORM in Your Python Projects](https://www.reddit.com/r/Python/comments/vekz68/this_is_why_you_should_use_tortoiseorm_in_your/)
+- [Is there possible interest in a youtube series on building a python desktop program?](https://www.reddit.com/r/Python/comments/veklmy/is_there_possible_interest_in_a_youtube_series_on/)
 - [Using Google Sheets API in Cloud Functions](https://www.reddit.com/r/Python/comments/vek0fe/using_google_sheets_api_in_cloud_functions/)
-- [[Pillow] WebP from PNG conversion not working with transparency?](https://www.reddit.com/r/Python/comments/veisbt/pillow_webp_from_png_conversion_not_working_with/)
 - [Do I still need setup.py for my python project if I migrate to poetry?](https://www.reddit.com/r/Python/comments/vehzo8/do_i_still_need_setuppy_for_my_python_project_if/)
 - [Heading up a new project at work in Python, looking for some resources](https://www.reddit.com/r/Python/comments/veek45/heading_up_a_new_project_at_work_in_python/)
-- [Simple Virus with Python using multiprocessing Package](https://www.reddit.com/r/Python/comments/vedd0g/simple_virus_with_python_using_multiprocessing/)
 <!-- BLOG-POST-LIST:END -->
