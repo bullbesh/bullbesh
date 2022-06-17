@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Google Sheets API in Cloud Functions](https://www.reddit.com/r/Python/comments/vek0fe/using_google_sheets_api_in_cloud_functions/)
+- [[Pillow] WebP from PNG conversion not working with transparency?](https://www.reddit.com/r/Python/comments/veisbt/pillow_webp_from_png_conversion_not_working_with/)
+- [Do I still need setup.py for my python project if I migrate to poetry?](https://www.reddit.com/r/Python/comments/vehzo8/do_i_still_need_setuppy_for_my_python_project_if/)
 - [Heading up a new project at work in Python, looking for some resources](https://www.reddit.com/r/Python/comments/veek45/heading_up_a_new_project_at_work_in_python/)
 - [Simple Virus with Python using multiprocessing Package](https://www.reddit.com/r/Python/comments/vedd0g/simple_virus_with_python_using_multiprocessing/)
-- [Python data loading with Supabase](https://www.reddit.com/r/Python/comments/vebzhk/python_data_loading_with_supabase/)
-- [Tic-Tac-Toe Game with TinyML-based Digit Recognition [Arduino, Python, M5Stack, TinyML]](https://www.reddit.com/r/Python/comments/vebd91/tictactoe_game_with_tinymlbased_digit_recognition/)
-- [PID Tuning](https://www.reddit.com/r/Python/comments/ve9sz9/pid_tuning/)
 <!-- BLOG-POST-LIST:END -->
