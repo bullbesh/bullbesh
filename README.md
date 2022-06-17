@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Virus with Python using multiprocessing Package](https://www.reddit.com/r/Python/comments/vedd0g/simple_virus_with_python_using_multiprocessing/)
 - [Python data loading with Supabase](https://www.reddit.com/r/Python/comments/vebzhk/python_data_loading_with_supabase/)
 - [Tic-Tac-Toe Game with TinyML-based Digit Recognition [Arduino, Python, M5Stack, TinyML]](https://www.reddit.com/r/Python/comments/vebd91/tictactoe_game_with_tinymlbased_digit_recognition/)
 - [PID Tuning](https://www.reddit.com/r/Python/comments/ve9sz9/pid_tuning/)
 - [Fake News Classification in Keras](https://www.reddit.com/r/Python/comments/ve92ov/fake_news_classification_in_keras/)
-- [PyScript: Running Python in the Web Browser](https://www.reddit.com/r/Python/comments/ve0jyc/pyscript_running_python_in_the_web_browser/)
 <!-- BLOG-POST-LIST:END -->
