@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a parser for PLSS land descriptions and a simple plat generator &lpar;info in comments&rpar;](https://www.reddit.com/r/Python/comments/vepya5/i_built_a_parser_for_plss_land_descriptions_and_a/)
+- [Completed My First Project! Password and File Manager](https://www.reddit.com/r/Python/comments/vepdl5/completed_my_first_project_password_and_file/)
 - [Automating report generation with docxtpl and pandas](https://www.reddit.com/r/Python/comments/veor6c/automating_report_generation_with_docxtpl_and/)
 - [tkinter + numpy = 🤯 &lpar;video link in comments&rpar;](https://www.reddit.com/r/Python/comments/veogkn/tkinter_numpy_video_link_in_comments/)
-- [Create a &#39;refresh&#39; button with tkinter](https://www.reddit.com/r/Python/comments/venmfc/create_a_refresh_button_with_tkinter/)
-- [How do you stop __pycache__ from being created?](https://www.reddit.com/r/Python/comments/vengor/how_do_you_stop_pycache_from_being_created/)
 - [Scientific standing of research using python](https://www.reddit.com/r/Python/comments/ven5h8/scientific_standing_of_research_using_python/)
 <!-- BLOG-POST-LIST:END -->
