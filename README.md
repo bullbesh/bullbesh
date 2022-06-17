@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to correctly filter dataframes by date?](https://www.reddit.com/r/Python/comments/ve41pk/how_to_correctly_filter_dataframes_by_date/)
 - [PyScript: Running Python in the Web Browser](https://www.reddit.com/r/Python/comments/ve0jyc/pyscript_running_python_in_the_web_browser/)
 - [How do you get a job with experience in Python?](https://www.reddit.com/r/Python/comments/vdzcrf/how_do_you_get_a_job_with_experience_in_python/)
 - [BehaveX, a test wrapper implemented on top of Python Behave](https://www.reddit.com/r/Python/comments/vdqk3l/behavex_a_test_wrapper_implemented_on_top_of/)
 - [Announcing Reference Architecture for AI - NLP pipelines with Redis and Python](https://www.reddit.com/r/Python/comments/vdp6fl/announcing_reference_architecture_for_ai_nlp/)
+- [What counts as plagiarism?](https://www.reddit.com/r/Python/comments/vdp3kb/what_counts_as_plagiarism/)
 <!-- BLOG-POST-LIST:END -->
