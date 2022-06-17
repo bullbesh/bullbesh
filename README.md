@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python data loading with Supabase](https://www.reddit.com/r/Python/comments/vebzhk/python_data_loading_with_supabase/)
+- [Tic-Tac-Toe Game with TinyML-based Digit Recognition [Arduino, Python, M5Stack, TinyML]](https://www.reddit.com/r/Python/comments/vebd91/tictactoe_game_with_tinymlbased_digit_recognition/)
 - [PID Tuning](https://www.reddit.com/r/Python/comments/ve9sz9/pid_tuning/)
 - [Fake News Classification in Keras](https://www.reddit.com/r/Python/comments/ve92ov/fake_news_classification_in_keras/)
 - [PyScript: Running Python in the Web Browser](https://www.reddit.com/r/Python/comments/ve0jyc/pyscript_running_python_in_the_web_browser/)
-- [How do you get a job with experience in Python?](https://www.reddit.com/r/Python/comments/vdzcrf/how_do_you_get_a_job_with_experience_in_python/)
-- [BehaveX, a test wrapper implemented on top of Python Behave](https://www.reddit.com/r/Python/comments/vdqk3l/behavex_a_test_wrapper_implemented_on_top_of/)
 <!-- BLOG-POST-LIST:END -->
