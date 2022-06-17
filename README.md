@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Path variables - sys.path vs. $PATH vs. others?](https://www.reddit.com/r/Python/comments/verh5e/path_variables_syspath_vs_path_vs_others/)
+- [3.11b4 release date?](https://www.reddit.com/r/Python/comments/ver29u/311b4_release_date/)
+- [Beeper, A program to message weather on the daily.](https://www.reddit.com/r/Python/comments/veqn42/beeper_a_program_to_message_weather_on_the_daily/)
 - [I built a parser for PLSS land descriptions and a simple plat generator &lpar;info in comments&rpar;](https://www.reddit.com/r/Python/comments/vepya5/i_built_a_parser_for_plss_land_descriptions_and_a/)
 - [Completed My First Project! Password and File Manager](https://www.reddit.com/r/Python/comments/vepdl5/completed_my_first_project_password_and_file/)
-- [Automating report generation with docxtpl and pandas](https://www.reddit.com/r/Python/comments/veor6c/automating_report_generation_with_docxtpl_and/)
-- [tkinter + numpy = 🤯 &lpar;video link in comments&rpar;](https://www.reddit.com/r/Python/comments/veogkn/tkinter_numpy_video_link_in_comments/)
-- [Scientific standing of research using python](https://www.reddit.com/r/Python/comments/ven5h8/scientific_standing_of_research_using_python/)
 <!-- BLOG-POST-LIST:END -->
