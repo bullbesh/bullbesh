@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Worlds first hand-drawn electronic circuit simulator - developed with Python!](https://www.reddit.com/r/Python/comments/vezd7c/worlds_first_handdrawn_electronic_circuit/)
 - [New Django App - Django Form Creator](https://www.reddit.com/r/Python/comments/vewa10/new_django_app_django_form_creator/)
-- [Is it still possible to get a job without a degree?](https://www.reddit.com/r/Python/comments/veulrh/is_it_still_possible_to_get_a_job_without_a_degree/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/vetmyx/saturday_daily_thread_resource_request_and/)
 - [Full Stack Web Application for Getting News Based on Selecting a Country](https://www.reddit.com/r/Python/comments/vesox9/full_stack_web_application_for_getting_news_based/)
+- [Why are Linux distro releases of python3-jsonschema so far behind upstream?](https://www.reddit.com/r/Python/comments/ves635/why_are_linux_distro_releases_of/)
 <!-- BLOG-POST-LIST:END -->
