@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to associate words base on id number](https://www.reddit.com/r/Python/comments/vewdjz/how_to_associate_words_base_on_id_number/)
+- [New Django App - Django Form Creator](https://www.reddit.com/r/Python/comments/vewa10/new_django_app_django_form_creator/)
 - [Is it still possible to get a job without a degree?](https://www.reddit.com/r/Python/comments/veulrh/is_it_still_possible_to_get_a_job_without_a_degree/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/vetmyx/saturday_daily_thread_resource_request_and/)
 - [Full Stack Web Application for Getting News Based on Selecting a Country](https://www.reddit.com/r/Python/comments/vesox9/full_stack_web_application_for_getting_news_based/)
-- [Why are Linux distro releases of python3-jsonschema so far behind upstream?](https://www.reddit.com/r/Python/comments/ves635/why_are_linux_distro_releases_of/)
-- [3.11b4 release date?](https://www.reddit.com/r/Python/comments/ver29u/311b4_release_date/)
 <!-- BLOG-POST-LIST:END -->
