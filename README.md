@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it still possible to get a job without a degree?](https://www.reddit.com/r/Python/comments/veulrh/is_it_still_possible_to_get_a_job_without_a_degree/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/vetmyx/saturday_daily_thread_resource_request_and/)
 - [Full Stack Web Application for Getting News Based on Selecting a Country](https://www.reddit.com/r/Python/comments/vesox9/full_stack_web_application_for_getting_news_based/)
 - [Why are Linux distro releases of python3-jsonschema so far behind upstream?](https://www.reddit.com/r/Python/comments/ves635/why_are_linux_distro_releases_of/)
 - [3.11b4 release date?](https://www.reddit.com/r/Python/comments/ver29u/311b4_release_date/)
-- [Beeper, A program to message weather on the daily.](https://www.reddit.com/r/Python/comments/veqn42/beeper_a_program_to_message_weather_on_the_daily/)
-- [I built a parser for PLSS land descriptions and a simple plat generator &lpar;info in comments&rpar;](https://www.reddit.com/r/Python/comments/vepya5/i_built_a_parser_for_plss_land_descriptions_and_a/)
 <!-- BLOG-POST-LIST:END -->
