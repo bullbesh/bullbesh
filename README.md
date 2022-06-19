@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Gift for YouTube Creators!](https://www.reddit.com/r/Python/comments/vfrtwk/gift_for_youtube_creators/)
+- [Programmatic invoice generator](https://www.reddit.com/r/Python/comments/vfsx9k/programmatic_invoice_generator/)
+- [A tutorial on deploying a Flask API to Google Cloud Run using Terraform and Docker](https://www.reddit.com/r/Python/comments/vfsbrf/a_tutorial_on_deploying_a_flask_api_to_google/)
+- [Today I’m releasing PyBoy v1.5.0! A Game Boy emulator written in Python, focused on scripting, AI and learning](https://www.reddit.com/r/Python/comments/vfsakl/today_im_releasing_pyboy_v150_a_game_boy_emulator/)
 - [Learning to code in Python &lpar;and R&rpar; on an Ipad Pro M1?](https://www.reddit.com/r/Python/comments/vfrguo/learning_to_code_in_python_and_r_on_an_ipad_pro_m1/)
 - [GitHub - mdomke/schwifty: IBAN parsing and validation](https://www.reddit.com/r/Python/comments/vfpng0/github_mdomkeschwifty_iban_parsing_and_validation/)
-- [Python for web](https://www.reddit.com/r/Python/comments/vfpgwz/python_for_web/)
-- [When the Python project doesn&#39;t provide setup.py and only provides pyproject.toml, what is setup.py that would work same as before?](https://www.reddit.com/r/Python/comments/vfp6g4/when_the_python_project_doesnt_provide_setuppy/)
 <!-- BLOG-POST-LIST:END -->
