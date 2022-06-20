@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Python needs the GIL &lpar;and Swift doesn’t&rpar;?](https://www.reddit.com/r/Python/comments/vgw40n/why_python_needs_the_gil_and_swift_doesnt/)
 - [Hey guys, where can I find a suitable dataset to run a market basket analysis on &lpar;postgrad worthy&rpar;](https://www.reddit.com/r/Python/comments/vgurfl/hey_guys_where_can_i_find_a_suitable_dataset_to/)
 - [Sample code demonstrating a cryptographic cypher](https://www.reddit.com/r/Python/comments/vgtipt/sample_code_demonstrating_a_cryptographic_cypher/)
 - [How to Trim Videos Using Python and FFMPEG](https://www.reddit.com/r/Python/comments/vgsuf0/how_to_trim_videos_using_python_and_ffmpeg/)
 - [Why new Macs break your Docker build, and how to fix it](https://www.reddit.com/r/Python/comments/vgskhn/why_new_macs_break_your_docker_build_and_how_to/)
-- [Pystart](https://www.reddit.com/r/Python/comments/vgrkjp/pystart/)
 <!-- BLOG-POST-LIST:END -->
