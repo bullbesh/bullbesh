@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Seeking Programmer&lpar;s&rpar; immediately](https://www.reddit.com/r/Python/comments/vgkia6/seeking_programmers_immediately/)
+- [Whassup with Starlite?](https://www.reddit.com/r/Python/comments/vgk1gg/whassup_with_starlite/)
+- [Intro to PyScript: Run Python in your web browser, difference between this and JavaScript?](https://www.reddit.com/r/Python/comments/vgjvsi/intro_to_pyscript_run_python_in_your_web_browser/)
 - [Python recap for week 24/2022](https://www.reddit.com/r/Python/comments/vgid6c/python_recap_for_week_242022/)
 - [03 Python for Mac](https://www.reddit.com/r/Python/comments/vghdfy/03_python_for_mac/)
-- [DnD Pathfinder pnp RPG Loot calculator &lpar;german&rpar;](https://www.reddit.com/r/Python/comments/vgh7rc/dnd_pathfinder_pnp_rpg_loot_calculator_german/)
-- [How to send sms anonymously with python](https://www.reddit.com/r/Python/comments/vgh13a/how_to_send_sms_anonymously_with_python/)
-- [Iterator Functions | Iterate Efficiently in Python &lpar;Without a For-Loop&rpar;](https://www.reddit.com/r/Python/comments/vggxir/iterator_functions_iterate_efficiently_in_python/)
 <!-- BLOG-POST-LIST:END -->
