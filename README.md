@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [report bout my project](https://www.reddit.com/r/Python/comments/vglrbe/report_bout_my_project/)
 - [Seeking Programmer&lpar;s&rpar; immediately](https://www.reddit.com/r/Python/comments/vgkia6/seeking_programmers_immediately/)
 - [Whassup with Starlite?](https://www.reddit.com/r/Python/comments/vgk1gg/whassup_with_starlite/)
 - [Intro to PyScript: Run Python in your web browser, difference between this and JavaScript?](https://www.reddit.com/r/Python/comments/vgjvsi/intro_to_pyscript_run_python_in_your_web_browser/)
 - [Python recap for week 24/2022](https://www.reddit.com/r/Python/comments/vgid6c/python_recap_for_week_242022/)
-- [03 Python for Mac](https://www.reddit.com/r/Python/comments/vghdfy/03_python_for_mac/)
 <!-- BLOG-POST-LIST:END -->
