@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenCv contours only around columns in Red Boxes](https://www.reddit.com/r/Python/comments/vget61/opencv_contours_only_around_columns_in_red_boxes/)
+- [https://youtu.be/e10VvkLyU80](https://www.reddit.com/r/Python/comments/vgeskg/httpsyoutubee10vvklyu80/)
 - [Verse™: The first general purpose codeless development app - Beta available!!](https://www.reddit.com/r/Python/comments/vgda6l/verse_the_first_general_purpose_codeless/)
 - [How can I check if my RNG has equal probabilities for all numbers?](https://www.reddit.com/r/Python/comments/vg9xxc/how_can_i_check_if_my_rng_has_equal_probabilities/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/vg864n/monday_daily_thread_project_ideas/)
-- [Which AWS Path uses python?](https://www.reddit.com/r/Python/comments/vg81cj/which_aws_path_uses_python/)
-- [weird idea, is it worthy?](https://www.reddit.com/r/Python/comments/vg7l3q/weird_idea_is_it_worthy/)
 <!-- BLOG-POST-LIST:END -->
