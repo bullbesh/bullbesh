@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Challenging practices](https://www.reddit.com/r/Python/comments/vgqavp/challenging_practices/)
 - [Guide to host your python scripts online for free](https://www.reddit.com/r/Python/comments/vgneq2/guide_to_host_your_python_scripts_online_for_free/)
 - [Have you ever pair -programmed? Would you do it with a stranger?](https://www.reddit.com/r/Python/comments/vgmifn/have_you_ever_pair_programmed_would_you_do_it/)
 - [report bout my project](https://www.reddit.com/r/Python/comments/vglrbe/report_bout_my_project/)
 - [Whassup with Starlite?](https://www.reddit.com/r/Python/comments/vgk1gg/whassup_with_starlite/)
-- [Intro to PyScript: Run Python in your web browser, difference between this and JavaScript?](https://www.reddit.com/r/Python/comments/vgjvsi/intro_to_pyscript_run_python_in_your_web_browser/)
 <!-- BLOG-POST-LIST:END -->
