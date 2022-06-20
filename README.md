@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ipynb to py converter](https://www.reddit.com/r/Python/comments/vgg6od/ipynb_to_py_converter/)
+- [02- Installing IntelliJ IDEA for Windows](https://www.reddit.com/r/Python/comments/vgfrns/02_installing_intellij_idea_for_windows/)
 - [Build a DNS Zone Transfer Software Security Testing Toolkit With Python](https://www.reddit.com/r/Python/comments/vgfl2v/build_a_dns_zone_transfer_software_security/)
 - [OpenCv contours only around columns in Red Boxes](https://www.reddit.com/r/Python/comments/vget61/opencv_contours_only_around_columns_in_red_boxes/)
 - [https://youtu.be/e10VvkLyU80](https://www.reddit.com/r/Python/comments/vgeskg/httpsyoutubee10vvklyu80/)
-- [Verse™: The first general purpose codeless development app - Beta available!!](https://www.reddit.com/r/Python/comments/vgda6l/verse_the_first_general_purpose_codeless/)
-- [How can I check if my RNG has equal probabilities for all numbers?](https://www.reddit.com/r/Python/comments/vg9xxc/how_can_i_check_if_my_rng_has_equal_probabilities/)
 <!-- BLOG-POST-LIST:END -->
