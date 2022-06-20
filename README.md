@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How can I check if my RNG has equal probabilities for all numbers?](https://www.reddit.com/r/Python/comments/vg9xxc/how_can_i_check_if_my_rng_has_equal_probabilities/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/vg864n/monday_daily_thread_project_ideas/)
+- [Which AWS Path uses python?](https://www.reddit.com/r/Python/comments/vg81cj/which_aws_path_uses_python/)
+- [weird idea, is it worthy?](https://www.reddit.com/r/Python/comments/vg7l3q/weird_idea_is_it_worthy/)
 - [Doit - A todo manager that you didn&#39;t ask for, but needed !](https://www.reddit.com/r/Python/comments/vfwwnj/doit_a_todo_manager_that_you_didnt_ask_for_but/)
-- [Today I’m releasing PyBoy v1.5.0! A Game Boy emulator written in Python, focused on scripting, AI and learning](https://www.reddit.com/r/Python/comments/vfsakl/today_im_releasing_pyboy_v150_a_game_boy_emulator/)
-- [Learning to code in Python &lpar;and R&rpar; on an Ipad Pro M1?](https://www.reddit.com/r/Python/comments/vfrguo/learning_to_code_in_python_and_r_on_an_ipad_pro_m1/)
-- [GitHub - mdomke/schwifty: IBAN parsing and validation](https://www.reddit.com/r/Python/comments/vfpng0/github_mdomkeschwifty_iban_parsing_and_validation/)
-- [Python for web](https://www.reddit.com/r/Python/comments/vfpgwz/python_for_web/)
 <!-- BLOG-POST-LIST:END -->
