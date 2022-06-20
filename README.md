@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DnD Pathfinder pnp RPG Loot calculator &lpar;german&rpar;](https://www.reddit.com/r/Python/comments/vgh7rc/dnd_pathfinder_pnp_rpg_loot_calculator_german/)
+- [How to send sms anonymously with python](https://www.reddit.com/r/Python/comments/vgh13a/how_to_send_sms_anonymously_with_python/)
+- [Iterator Functions | Iterate Efficiently in Python &lpar;Without a For-Loop&rpar;](https://www.reddit.com/r/Python/comments/vggxir/iterator_functions_iterate_efficiently_in_python/)
 - [ipynb to py converter](https://www.reddit.com/r/Python/comments/vgg6od/ipynb_to_py_converter/)
 - [02- Installing IntelliJ IDEA for Windows](https://www.reddit.com/r/Python/comments/vgfrns/02_installing_intellij_idea_for_windows/)
-- [Build a DNS Zone Transfer Software Security Testing Toolkit With Python](https://www.reddit.com/r/Python/comments/vgfl2v/build_a_dns_zone_transfer_software_security/)
-- [OpenCv contours only around columns in Red Boxes](https://www.reddit.com/r/Python/comments/vget61/opencv_contours_only_around_columns_in_red_boxes/)
-- [https://youtu.be/e10VvkLyU80](https://www.reddit.com/r/Python/comments/vgeskg/httpsyoutubee10vvklyu80/)
 <!-- BLOG-POST-LIST:END -->
