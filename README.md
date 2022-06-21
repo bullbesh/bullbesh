@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I need to automate the formatting of .csv files. Where should I even start?](https://www.reddit.com/r/Python/comments/vhepzn/i_need_to_automate_the_formatting_of_csv_files/)
 - [Some resources on Poetry, a dependency management library for Python](https://www.reddit.com/r/Python/comments/vhe2xj/some_resources_on_poetry_a_dependency_management/)
 - [Get paid to contribute to open source Python package urllib3](https://www.reddit.com/r/Python/comments/vhdvir/get_paid_to_contribute_to_open_source_python/)
 - [How Can You Emulate Do-While Loops in Python? – Real Python](https://www.reddit.com/r/Python/comments/vhdr7r/how_can_you_emulate_dowhile_loops_in_python_real/)
 - [With Python, I built a tool to manage AWS accounts. AMA](https://www.reddit.com/r/Python/comments/vhcod5/with_python_i_built_a_tool_to_manage_aws_accounts/)
-- [Mathematics for Machine Learning Linear Algebra Course From Imperial College London P1](https://www.reddit.com/r/Python/comments/vhb2zw/mathematics_for_machine_learning_linear_algebra/)
 <!-- BLOG-POST-LIST:END -->
