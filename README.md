@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Some resources on Poetry, a dependency management library for Python](https://www.reddit.com/r/Python/comments/vhe2xj/some_resources_on_poetry_a_dependency_management/)
+- [Get paid to contribute to open source Python package urllib3](https://www.reddit.com/r/Python/comments/vhdvir/get_paid_to_contribute_to_open_source_python/)
+- [How Can You Emulate Do-While Loops in Python? – Real Python](https://www.reddit.com/r/Python/comments/vhdr7r/how_can_you_emulate_dowhile_loops_in_python_real/)
 - [With Python, I built a tool to manage AWS accounts. AMA](https://www.reddit.com/r/Python/comments/vhcod5/with_python_i_built_a_tool_to_manage_aws_accounts/)
 - [Mathematics for Machine Learning Linear Algebra Course From Imperial College London P1](https://www.reddit.com/r/Python/comments/vhb2zw/mathematics_for_machine_learning_linear_algebra/)
-- [PEP 671 Syntax for late bound function default values](https://www.reddit.com/r/Python/comments/vhabnp/pep_671_syntax_for_late_bound_function_default/)
-- [A string encoder / decoder I made](https://www.reddit.com/r/Python/comments/vh9zw1/a_string_encoder_decoder_i_made/)
-- [Should we open source &quot;The worlds first hand-drawn electronic circuit simulator&quot;?](https://www.reddit.com/r/Python/comments/vh8exy/should_we_open_source_the_worlds_first_handdrawn/)
 <!-- BLOG-POST-LIST:END -->
