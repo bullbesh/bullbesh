@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Don’t Mock What You Don’t Own in 5 Minutes](https://www.reddit.com/r/Python/comments/vhpu5o/dont_mock_what_you_dont_own_in_5_minutes/)
 - [PyCircTools - A python library to create circuits](https://www.reddit.com/r/Python/comments/vhods0/pycirctools_a_python_library_to_create_circuits/)
 - [Hello, have you ever played chess in the command line? Check this out https://github.com/Tornike-Skhulukhia/CLI-Chess](https://www.reddit.com/r/Python/comments/vhlw4k/hello_have_you_ever_played_chess_in_the_command/)
 - [Should You Use AsyncIO for Your Next Python Web Application?](https://www.reddit.com/r/Python/comments/vhizk5/should_you_use_asyncio_for_your_next_python_web/)
 - [GitHub - synchronizing/bluelink: Control your Hyundai car via Python.](https://www.reddit.com/r/Python/comments/vhhqxe/github_synchronizingbluelink_control_your_hyundai/)
-- [Knowing the deeper workings of open source libraries?](https://www.reddit.com/r/Python/comments/vhh5jq/knowing_the_deeper_workings_of_open_source/)
 <!-- BLOG-POST-LIST:END -->
