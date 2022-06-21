@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Knowing the deeper workings of open source libraries?](https://www.reddit.com/r/Python/comments/vhh5jq/knowing_the_deeper_workings_of_open_source/)
+- [Download Latest NIFTY 50 Stocks List 2022 using Two Lines of Python Code...](https://www.reddit.com/r/Python/comments/vhgnxk/download_latest_nifty_50_stocks_list_2022_using/)
 - [I need to automate the formatting of .csv files. Where should I even start?](https://www.reddit.com/r/Python/comments/vhepzn/i_need_to_automate_the_formatting_of_csv_files/)
 - [Some resources on Poetry, a dependency management library for Python](https://www.reddit.com/r/Python/comments/vhe2xj/some_resources_on_poetry_a_dependency_management/)
 - [Get paid to contribute to open source Python package urllib3](https://www.reddit.com/r/Python/comments/vhdvir/get_paid_to_contribute_to_open_source_python/)
-- [How Can You Emulate Do-While Loops in Python? – Real Python](https://www.reddit.com/r/Python/comments/vhdr7r/how_can_you_emulate_dowhile_loops_in_python_real/)
-- [With Python, I built a tool to manage AWS accounts. AMA](https://www.reddit.com/r/Python/comments/vhcod5/with_python_i_built_a_tool_to_manage_aws_accounts/)
 <!-- BLOG-POST-LIST:END -->
