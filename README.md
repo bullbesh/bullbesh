@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Should we open source &quot;The worlds first hand-drawn electronic circuit simulator&quot;?](https://www.reddit.com/r/Python/comments/vh8exy/should_we_open_source_the_worlds_first_handdrawn/)
+- [Python for Linux](https://www.reddit.com/r/Python/comments/vh8344/python_for_linux/)
+- [Python for voice recognition features](https://www.reddit.com/r/Python/comments/vh7r3l/python_for_voice_recognition_features/)
 - [Working with Excel files in Python](https://www.reddit.com/r/Python/comments/vh4x16/working_with_excel_files_in_python/)
-- [Is anyone is interested in Educative.io courses and wants to share the subscription?](https://www.reddit.com/r/Python/comments/vh4gnu/is_anyone_is_interested_in_educativeio_courses/)
-- [automating: print name on a picture](https://www.reddit.com/r/Python/comments/vh2irw/automating_print_name_on_a_picture/)
 - [Silly Little &quot;Among Us&quot; Script](https://www.reddit.com/r/Python/comments/vh1mjl/silly_little_among_us_script/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/vgzlsb/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
