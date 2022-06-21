@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Should You Use AsyncIO for Your Next Python Web Application?](https://www.reddit.com/r/Python/comments/vhizk5/should_you_use_asyncio_for_your_next_python_web/)
 - [Scrapping IMDb Website](https://www.reddit.com/r/Python/comments/vhi257/scrapping_imdb_website/)
 - [GitHub - synchronizing/bluelink: Control your Hyundai car via Python.](https://www.reddit.com/r/Python/comments/vhhqxe/github_synchronizingbluelink_control_your_hyundai/)
 - [Knowing the deeper workings of open source libraries?](https://www.reddit.com/r/Python/comments/vhh5jq/knowing_the_deeper_workings_of_open_source/)
 - [Download Latest NIFTY 50 Stocks List 2022 using Two Lines of Python Code...](https://www.reddit.com/r/Python/comments/vhgnxk/download_latest_nifty_50_stocks_list_2022_using/)
-- [I need to automate the formatting of .csv files. Where should I even start?](https://www.reddit.com/r/Python/comments/vhepzn/i_need_to_automate_the_formatting_of_csv_files/)
 <!-- BLOG-POST-LIST:END -->
