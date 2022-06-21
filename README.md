@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [automating: print name on a picture](https://www.reddit.com/r/Python/comments/vh2irw/automating_print_name_on_a_picture/)
 - [Silly Little &quot;Among Us&quot; Script](https://www.reddit.com/r/Python/comments/vh1mjl/silly_little_among_us_script/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/vgzlsb/tuesday_daily_thread_advanced_questions/)
-- [I want to understand the basics of coding in python](https://www.reddit.com/r/Python/comments/vgy6t3/i_want_to_understand_the_basics_of_coding_in/)
-- [04 Install IntelliJ IDEA for Mac](https://www.reddit.com/r/Python/comments/vgy170/04_install_intellij_idea_for_mac/)
 - [Package to use DALL·E 2 in Python](https://www.reddit.com/r/Python/comments/vgxun9/package_to_use_dalle_2_in_python/)
+- [I found aborting a group of asyncio tasks cumbersome, so I wrapped some methods to make it easier](https://www.reddit.com/r/Python/comments/vgwu0b/i_found_aborting_a_group_of_asyncio_tasks/)
 <!-- BLOG-POST-LIST:END -->
