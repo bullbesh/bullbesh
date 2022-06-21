@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 671 Syntax for late bound function default values](https://www.reddit.com/r/Python/comments/vhabnp/pep_671_syntax_for_late_bound_function_default/)
 - [A string encoder / decoder I made](https://www.reddit.com/r/Python/comments/vh9zw1/a_string_encoder_decoder_i_made/)
 - [Should we open source &quot;The worlds first hand-drawn electronic circuit simulator&quot;?](https://www.reddit.com/r/Python/comments/vh8exy/should_we_open_source_the_worlds_first_handdrawn/)
 - [Python for Linux](https://www.reddit.com/r/Python/comments/vh8344/python_for_linux/)
 - [Python for voice recognition features](https://www.reddit.com/r/Python/comments/vh7r3l/python_for_voice_recognition_features/)
-- [Working with Excel files in Python](https://www.reddit.com/r/Python/comments/vh4x16/working_with_excel_files_in_python/)
 <!-- BLOG-POST-LIST:END -->
