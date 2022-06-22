@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Seeking feedback on Daisi&#39;s: Serverless Cloud Computing for Python Functions](https://www.reddit.com/r/Python/comments/vibfpw/seeking_feedback_on_daisis_serverless_cloud/)
+- [I made Time Processing Tool &lpar;refactoring&rpar;](https://www.reddit.com/r/Python/comments/vian7w/i_made_time_processing_tool_refactoring/)
 - [Web Scraping with Python: from Fundamentals to Practice](https://www.reddit.com/r/Python/comments/via0f4/web_scraping_with_python_from_fundamentals_to/)
 - [Plugins for helping make flake8 more like pylint?](https://www.reddit.com/r/Python/comments/vi8pij/plugins_for_helping_make_flake8_more_like_pylint/)
 - [FastAPI Distributed Websocket](https://www.reddit.com/r/Python/comments/vi7jw2/fastapi_distributed_websocket/)
-- [RangeIndex: A container for querying Python objects on their attributes](https://www.reddit.com/r/Python/comments/vi7jve/rangeindex_a_container_for_querying_python/)
-- [bux: Unofficial Python SDK and CLI for BUX Zero API](https://www.reddit.com/r/Python/comments/vi7a7c/bux_unofficial_python_sdk_and_cli_for_bux_zero_api/)
 <!-- BLOG-POST-LIST:END -->
