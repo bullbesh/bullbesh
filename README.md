@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which job titles are most prominent with Python?](https://www.reddit.com/r/Python/comments/vhx0ha/which_job_titles_are_most_prominent_with_python/)
 - [A Few Ways to Secure Your Python API](https://www.reddit.com/r/Python/comments/vhweaj/a_few_ways_to_secure_your_python_api/)
 - [Game Capstone Project Feedback](https://www.reddit.com/r/Python/comments/vhsot5/game_capstone_project_feedback/)
 - [why isn&#39;t there a mock module for motor?](https://www.reddit.com/r/Python/comments/vhrrr4/why_isnt_there_a_mock_module_for_motor/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/vhrbc3/wednesday_daily_thread_beginner_questions/)
-- [I just made my first real-life application python project](https://www.reddit.com/r/Python/comments/vhr5fq/i_just_made_my_first_reallife_application_python/)
 <!-- BLOG-POST-LIST:END -->
