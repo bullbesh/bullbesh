@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [NetworkX 3.0 will be released this summer](https://www.reddit.com/r/Python/comments/vhz65y/networkx_30_will_be_released_this_summer/)
+- [Mutable default arguments are your friend. &lpar;2016&rpar;](https://www.reddit.com/r/Python/comments/vhyxnp/mutable_default_arguments_are_your_friend_2016/)
+- [Making a SQL Scanner In Python](https://www.reddit.com/r/Python/comments/vhyipk/making_a_sql_scanner_in_python/)
 - [Apache Airflow: How To Create Fernet Key Python?](https://www.reddit.com/r/Python/comments/vhyben/apache_airflow_how_to_create_fernet_key_python/)
 - [I&#39;ve built a simple Todo app with Django Rest Framework&lpar;backend&rpar; and ReactJS&lpar;frontend&rpar; for my Resume](https://www.reddit.com/r/Python/comments/vhxi5s/ive_built_a_simple_todo_app_with_django_rest/)
-- [Which job titles are most prominent with Python?](https://www.reddit.com/r/Python/comments/vhx0ha/which_job_titles_are_most_prominent_with_python/)
-- [A Few Ways to Secure Your Python API](https://www.reddit.com/r/Python/comments/vhweaj/a_few_ways_to_secure_your_python_api/)
-- [Game Capstone Project Feedback](https://www.reddit.com/r/Python/comments/vhsot5/game_capstone_project_feedback/)
 <!-- BLOG-POST-LIST:END -->
