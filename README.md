@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [how to contribute to open source?](https://www.reddit.com/r/Python/comments/vif9b4/how_to_contribute_to_open_source/)
+- [filum: A command-line tool to save discussion threads](https://www.reddit.com/r/Python/comments/viev97/filum_a_commandline_tool_to_save_discussion/)
 - [PyGame worth learning for someone who has no actual interest in becoming a game-dev? More like something to do so that I come more comfortable coding in python in general?](https://www.reddit.com/r/Python/comments/vic2o5/pygame_worth_learning_for_someone_who_has_no/)
 - [Seeking feedback on Daisi&#39;s: Serverless Cloud Computing for Python Functions](https://www.reddit.com/r/Python/comments/vibfpw/seeking_feedback_on_daisis_serverless_cloud/)
 - [I made Time Processing Tool &lpar;refactoring&rpar;](https://www.reddit.com/r/Python/comments/vian7w/i_made_time_processing_tool_refactoring/)
-- [Web Scraping with Python: from Fundamentals to Practice](https://www.reddit.com/r/Python/comments/via0f4/web_scraping_with_python_from_fundamentals_to/)
-- [Plugins for helping make flake8 more like pylint?](https://www.reddit.com/r/Python/comments/vi8pij/plugins_for_helping_make_flake8_more_like_pylint/)
 <!-- BLOG-POST-LIST:END -->
