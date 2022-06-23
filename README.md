@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyScript and Flask - how to submit a form, and validate data](https://www.reddit.com/r/Python/comments/vj2500/pyscript_and_flask_how_to_submit_a_form_and/)
 - [An Automatic Github Pull Shark Achievement Collector](https://www.reddit.com/r/Python/comments/vj04bq/an_automatic_github_pull_shark_achievement/)
 - [Problem in speech_recognition](https://www.reddit.com/r/Python/comments/viz6rb/problem_in_speech_recognition/)
 - [Image of Letters Web App](https://www.reddit.com/r/Python/comments/viyz80/image_of_letters_web_app/)
 - [Combined PyAudio, Numpy, Wave, and Matplotlib to create a fun little app that records audio, then creates a graph of the waveform recording](https://www.reddit.com/r/Python/comments/viyjol/combined_pyaudio_numpy_wave_and_matplotlib_to/)
-- [Why no .get&lpar;idx[, default]&rpar; on python list??](https://www.reddit.com/r/Python/comments/vivyj3/why_no_getidx_default_on_python_list/)
 <!-- BLOG-POST-LIST:END -->
