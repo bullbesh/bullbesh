@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [python programming scope till 2030 Do you agree?](https://www.reddit.com/r/Python/comments/vin6ie/python_programming_scope_till_2030_do_you_agree/)
+- [Beginners Guide to GUI Development with Python and Tkinter](https://www.reddit.com/r/Python/comments/vim2df/beginners_guide_to_gui_development_with_python/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/vij986/thursday_daily_thread_python_careers_courses_and/)
 - [Ran my first selective copy!](https://www.reddit.com/r/Python/comments/viikrk/ran_my_first_selective_copy/)
-- [Splitting a large file](https://www.reddit.com/r/Python/comments/vigcjj/splitting_a_large_file/)
 - [how to contribute to open source?](https://www.reddit.com/r/Python/comments/vif9b4/how_to_contribute_to_open_source/)
-- [filum: A command-line tool to save discussion threads](https://www.reddit.com/r/Python/comments/viev97/filum_a_commandline_tool_to_save_discussion/)
 <!-- BLOG-POST-LIST:END -->
