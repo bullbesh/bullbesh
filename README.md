@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Almost-Free IP Geolocation API &lpar;built with Flask, MySQL, Gunicorn, NGINX&rpar;](https://www.reddit.com/r/Python/comments/vj87mb/almostfree_ip_geolocation_api_built_with_flask/)
+- [Hey i am new to python&lpar;been on it since last 3 months&rpar;. Please do tell me if my code is good?](https://www.reddit.com/r/Python/comments/vj7y47/hey_i_am_new_to_pythonbeen_on_it_since_last_3/)
+- [What dev tools do you use in your python projects?](https://www.reddit.com/r/Python/comments/vj7qx8/what_dev_tools_do_you_use_in_your_python_projects/)
 - [Anaconda Acquires PythonAnywhere to Expand Python Team Collaboration in the Cloud](https://www.reddit.com/r/Python/comments/vj6wx5/anaconda_acquires_pythonanywhere_to_expand_python/)
 - [Question: Looking for a specific youtube video showing a python refactor of code that was ported from java.](https://www.reddit.com/r/Python/comments/vj6u84/question_looking_for_a_specific_youtube_video/)
-- [Made a discord bot using Nextcord to make a Morbius bot that gets memes about Morbius. Also shows how to get json data out of a website &lpar;subreddits&rpar;. you can easily implement this to be just a regular meme bot as well by changing the &quot;Morbius&quot; to maybe &quot;Memes&quot; or whatever you desire.](https://www.reddit.com/r/Python/comments/vj6f3f/made_a_discord_bot_using_nextcord_to_make_a/)
-- [PyScript and Flask - how to submit a form, and validate data](https://www.reddit.com/r/Python/comments/vj2500/pyscript_and_flask_how_to_submit_a_form_and/)
-- [An Automatic Github Pull Shark Achievement Collector](https://www.reddit.com/r/Python/comments/vj04bq/an_automatic_github_pull_shark_achievement/)
 <!-- BLOG-POST-LIST:END -->
