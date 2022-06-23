@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to trigger Python/Pyspark jobs dynamically using ConfigParser](https://www.reddit.com/r/Python/comments/viuaea/how_to_trigger_pythonpyspark_jobs_dynamically/)
 - [hi I am a beginner and I need help](https://www.reddit.com/r/Python/comments/vism38/hi_i_am_a_beginner_and_i_need_help/)
 - [How to Learn Programming?](https://www.reddit.com/r/Python/comments/virtqa/how_to_learn_programming/)
 - [Any number of system of equations solver](https://www.reddit.com/r/Python/comments/virimr/any_number_of_system_of_equations_solver/)
-- [Learn Python from scratch.](https://www.reddit.com/r/Python/comments/viov0q/learn_python_from_scratch/)
 - [Working with JSON in Python](https://www.reddit.com/r/Python/comments/vinl2v/working_with_json_in_python/)
 <!-- BLOG-POST-LIST:END -->
