@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Problem in speech_recognition](https://www.reddit.com/r/Python/comments/viz6rb/problem_in_speech_recognition/)
+- [Image of Letters Web App](https://www.reddit.com/r/Python/comments/viyz80/image_of_letters_web_app/)
+- [Combined PyAudio, Numpy, Wave, and Matplotlib to create a fun little app that records audio, then creates a graph of the waveform recording](https://www.reddit.com/r/Python/comments/viyjol/combined_pyaudio_numpy_wave_and_matplotlib_to/)
 - [Why no .get&lpar;idx[, default]&rpar; on python list??](https://www.reddit.com/r/Python/comments/vivyj3/why_no_getidx_default_on_python_list/)
 - [How to trigger Python/Pyspark jobs dynamically using ConfigParser](https://www.reddit.com/r/Python/comments/viuaea/how_to_trigger_pythonpyspark_jobs_dynamically/)
-- [hi I am a beginner and I need help](https://www.reddit.com/r/Python/comments/vism38/hi_i_am_a_beginner_and_i_need_help/)
-- [How to Learn Programming?](https://www.reddit.com/r/Python/comments/virtqa/how_to_learn_programming/)
-- [Any number of system of equations solver](https://www.reddit.com/r/Python/comments/virimr/any_number_of_system_of_equations_solver/)
 <!-- BLOG-POST-LIST:END -->
