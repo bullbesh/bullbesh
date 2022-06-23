@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anaconda Acquires PythonAnywhere to Expand Python Team Collaboration in the Cloud](https://www.reddit.com/r/Python/comments/vj6wx5/anaconda_acquires_pythonanywhere_to_expand_python/)
+- [Question: Looking for a specific youtube video showing a python refactor of code that was ported from java.](https://www.reddit.com/r/Python/comments/vj6u84/question_looking_for_a_specific_youtube_video/)
+- [Made a discord bot using Nextcord to make a Morbius bot that gets memes about Morbius. Also shows how to get json data out of a website &lpar;subreddits&rpar;. you can easily implement this to be just a regular meme bot as well by changing the &quot;Morbius&quot; to maybe &quot;Memes&quot; or whatever you desire.](https://www.reddit.com/r/Python/comments/vj6f3f/made_a_discord_bot_using_nextcord_to_make_a/)
 - [PyScript and Flask - how to submit a form, and validate data](https://www.reddit.com/r/Python/comments/vj2500/pyscript_and_flask_how_to_submit_a_form_and/)
 - [An Automatic Github Pull Shark Achievement Collector](https://www.reddit.com/r/Python/comments/vj04bq/an_automatic_github_pull_shark_achievement/)
-- [Image of Letters Web App](https://www.reddit.com/r/Python/comments/viyz80/image_of_letters_web_app/)
-- [Combined PyAudio, Numpy, Wave, and Matplotlib to create a fun little app that records audio, then creates a graph of the waveform recording](https://www.reddit.com/r/Python/comments/viyjol/combined_pyaudio_numpy_wave_and_matplotlib_to/)
-- [Why no .get&lpar;idx[, default]&rpar; on python list??](https://www.reddit.com/r/Python/comments/vivyj3/why_no_getidx_default_on_python_list/)
 <!-- BLOG-POST-LIST:END -->
