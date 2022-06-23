@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why no .get&lpar;idx[, default]&rpar; on python list??](https://www.reddit.com/r/Python/comments/vivyj3/why_no_getidx_default_on_python_list/)
 - [How to trigger Python/Pyspark jobs dynamically using ConfigParser](https://www.reddit.com/r/Python/comments/viuaea/how_to_trigger_pythonpyspark_jobs_dynamically/)
 - [hi I am a beginner and I need help](https://www.reddit.com/r/Python/comments/vism38/hi_i_am_a_beginner_and_i_need_help/)
 - [How to Learn Programming?](https://www.reddit.com/r/Python/comments/virtqa/how_to_learn_programming/)
 - [Any number of system of equations solver](https://www.reddit.com/r/Python/comments/virimr/any_number_of_system_of_equations_solver/)
-- [Working with JSON in Python](https://www.reddit.com/r/Python/comments/vinl2v/working_with_json_in_python/)
 <!-- BLOG-POST-LIST:END -->
