@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Learn Programming?](https://www.reddit.com/r/Python/comments/virtqa/how_to_learn_programming/)
+- [Any number of system of equations solver](https://www.reddit.com/r/Python/comments/virimr/any_number_of_system_of_equations_solver/)
 - [Learn Python from scratch.](https://www.reddit.com/r/Python/comments/viov0q/learn_python_from_scratch/)
 - [Working with JSON in Python](https://www.reddit.com/r/Python/comments/vinl2v/working_with_json_in_python/)
 - [Beginners Guide to GUI Development with Python and Tkinter](https://www.reddit.com/r/Python/comments/vim2df/beginners_guide_to_gui_development_with_python/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/vij986/thursday_daily_thread_python_careers_courses_and/)
-- [Ran my first selective copy!](https://www.reddit.com/r/Python/comments/viikrk/ran_my_first_selective_copy/)
 <!-- BLOG-POST-LIST:END -->
