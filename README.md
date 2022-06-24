@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python library for free data search &amp; enrichment](https://www.reddit.com/r/Python/comments/vjm153/python_library_for_free_data_search_enrichment/)
+- [Spotify Streaming Bot that will replay a song after 31 seconds](https://www.reddit.com/r/Python/comments/vjoo9e/spotify_streaming_bot_that_will_replay_a_song/)
+- [The way to use Luos with Python](https://www.reddit.com/r/Python/comments/vjnzoq/the_way_to_use_luos_with_python/)
 - [Multiple Backdoored Python Libraries Caught Stealing AWS Secrets and Keys](https://www.reddit.com/r/Python/comments/vjlfom/multiple_backdoored_python_libraries_caught/)
 - [Automated PDF Reports from notebook with daily scheduling and email notifications with PDF attachments](https://www.reddit.com/r/Python/comments/vjj0mh/automated_pdf_reports_from_notebook_with_daily/)
 - [Making a Reverse Shell In Python](https://www.reddit.com/r/Python/comments/vjibq4/making_a_reverse_shell_in_python/)
-- [Using the Elo rating system to rank anime girls](https://www.reddit.com/r/Python/comments/vjg6py/using_the_elo_rating_system_to_rank_anime_girls/)
 <!-- BLOG-POST-LIST:END -->
