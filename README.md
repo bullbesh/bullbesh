@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Google’s LaMDA AI is conscious? Suspended Google engineer Blake Lemoine speaks out in first podcast interview](https://www.reddit.com/r/Python/comments/vjgbhj/is_googles_lamda_ai_is_conscious_suspended_google/)
+- [Using the Elo rating system to rank anime girls](https://www.reddit.com/r/Python/comments/vjg6py/using_the_elo_rating_system_to_rank_anime_girls/)
 - [Vector representation using Python !](https://www.reddit.com/r/Python/comments/vjg5xc/vector_representation_using_python/)
 - [Serving machine learning models with FastAPI: It’s not all about speed](https://www.reddit.com/r/Python/comments/vjg0c0/serving_machine_learning_models_with_fastapi_its/)
 - [Python Crash Course - 2+ Hours &lpar;YouTube&rpar;](https://www.reddit.com/r/Python/comments/vjg09m/python_crash_course_2_hours_youtube/)
-- [Drawing Program 2.0](https://www.reddit.com/r/Python/comments/vje31r/drawing_program_20/)
-- [Drawing Program](https://www.reddit.com/r/Python/comments/vjdpjk/drawing_program/)
 <!-- BLOG-POST-LIST:END -->
