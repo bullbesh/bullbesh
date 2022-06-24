@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Study: Elite dev teams &lpar;ones considered to be in the top 10%&rpar; average cycle times under 48 hours, PR sizes under 225 code changes and a rework rate under 8%. There&#39;s a bunch of other metrics in the study but those are the ones that stung for me.](https://www.reddit.com/r/Python/comments/vjuf58/study_elite_dev_teams_ones_considered_to_be_in/)
+- [Announcing aws-cdk-secure-api v0.1.0: a CDK library to simplify deployment of secure REST APIs](https://www.reddit.com/r/Python/comments/vju13b/announcing_awscdksecureapi_v010_a_cdk_library_to/)
+- [PyCircTools Update! - Added Multiplexers](https://www.reddit.com/r/Python/comments/vjtwtn/pycirctools_update_added_multiplexers/)
+- [Ultra-edge Detection system &lpar;snickometer&rpar; using LM393 Sound Sensor and python](https://www.reddit.com/r/Python/comments/vjto8y/ultraedge_detection_system_snickometer_using/)
 - [Web scraping Stock Market financials using Python!](https://www.reddit.com/r/Python/comments/vjsfx7/web_scraping_stock_market_financials_using_python/)
-- [Researchers From INRIA France Propose ‘Pythae’: An Open-Source Python Library Unifying Common And State-of-the-Art Generative AutoEncoder &lpar;GAE&rpar; Implementations](https://www.reddit.com/r/Python/comments/vjrzp1/researchers_from_inria_france_propose_pythae_an/)
-- [Building a Single Page Application with Python and Pyodide - Part 2](https://www.reddit.com/r/Python/comments/vjpe3d/building_a_single_page_application_with_python/)
-- [Differences between fast api vs rapid api?](https://www.reddit.com/r/Python/comments/vjor4g/differences_between_fast_api_vs_rapid_api/)
-- [The way to use Luos with Python](https://www.reddit.com/r/Python/comments/vjnzoq/the_way_to_use_luos_with_python/)
 <!-- BLOG-POST-LIST:END -->
