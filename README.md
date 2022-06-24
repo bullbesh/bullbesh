@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Vector representation using Python !](https://www.reddit.com/r/Python/comments/vjg5xc/vector_representation_using_python/)
+- [Serving machine learning models with FastAPI: It’s not all about speed](https://www.reddit.com/r/Python/comments/vjg0c0/serving_machine_learning_models_with_fastapi_its/)
+- [Python Crash Course - 2+ Hours &lpar;YouTube&rpar;](https://www.reddit.com/r/Python/comments/vjg09m/python_crash_course_2_hours_youtube/)
 - [Drawing Program 2.0](https://www.reddit.com/r/Python/comments/vje31r/drawing_program_20/)
 - [Drawing Program](https://www.reddit.com/r/Python/comments/vjdpjk/drawing_program/)
-- [My Python Text Adventure | Dragon Side](https://www.reddit.com/r/Python/comments/vjd69l/my_python_text_adventure_dragon_side/)
-- [hey everyone i am starting a free series of python for beginners and intermediate](https://www.reddit.com/r/Python/comments/vjd63x/hey_everyone_i_am_starting_a_free_series_of/)
-- [Script to Web App](https://www.reddit.com/r/Python/comments/vjcprr/script_to_web_app/)
 <!-- BLOG-POST-LIST:END -->
