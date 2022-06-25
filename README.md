@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to install the latest Python 3.10.5 from source on Debian 10 or 11.](https://www.reddit.com/r/Python/comments/vkjfmn/how_to_install_the_latest_python_3105_from_source/)
 - [Discord Python - Webhooks Send, Edit, Delete Messages](https://www.reddit.com/r/Python/comments/vki9la/discord_python_webhooks_send_edit_delete_messages/)
 - [WoW Python Emulation Project](https://www.reddit.com/r/Python/comments/vkhuj6/wow_python_emulation_project/)
 - [What are your impressions of PyScript so far?](https://www.reddit.com/r/Python/comments/vkheow/what_are_your_impressions_of_pyscript_so_far/)
 - [Matplotlib example nodes available on github](https://www.reddit.com/r/Python/comments/vkgag8/matplotlib_example_nodes_available_on_github/)
-- [Tenary if explained in 25 seconds](https://www.reddit.com/r/Python/comments/vkg09v/tenary_if_explained_in_25_seconds/)
 <!-- BLOG-POST-LIST:END -->
