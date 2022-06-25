@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Discord Python - Webhooks Send, Edit, Delete Messages](https://www.reddit.com/r/Python/comments/vki9la/discord_python_webhooks_send_edit_delete_messages/)
+- [WoW Python Emulation Project](https://www.reddit.com/r/Python/comments/vkhuj6/wow_python_emulation_project/)
+- [What are your impressions of PyScript so far?](https://www.reddit.com/r/Python/comments/vkheow/what_are_your_impressions_of_pyscript_so_far/)
 - [Matplotlib example nodes available on github](https://www.reddit.com/r/Python/comments/vkgag8/matplotlib_example_nodes_available_on_github/)
 - [Tenary if explained in 25 seconds](https://www.reddit.com/r/Python/comments/vkg09v/tenary_if_explained_in_25_seconds/)
-- [Effective Python Testing With Pytest – Real Python](https://www.reddit.com/r/Python/comments/vkfvgb/effective_python_testing_with_pytest_real_python/)
-- [This is a list of Python&#39;s official mailing lists. Is it really worth it to join and if so which shall I join ?](https://www.reddit.com/r/Python/comments/vkdi9l/this_is_a_list_of_pythons_official_mailing_lists/)
-- [PYTHON | DICAS PYTHON](https://www.reddit.com/r/Python/comments/vkdgpx/python_dicas_python/)
 <!-- BLOG-POST-LIST:END -->
