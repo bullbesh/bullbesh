@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Matplotlib example nodes available on github](https://www.reddit.com/r/Python/comments/vkgag8/matplotlib_example_nodes_available_on_github/)
+- [Tenary if explained in 25 seconds](https://www.reddit.com/r/Python/comments/vkg09v/tenary_if_explained_in_25_seconds/)
 - [Effective Python Testing With Pytest – Real Python](https://www.reddit.com/r/Python/comments/vkfvgb/effective_python_testing_with_pytest_real_python/)
 - [This is a list of Python&#39;s official mailing lists. Is it really worth it to join and if so which shall I join ?](https://www.reddit.com/r/Python/comments/vkdi9l/this_is_a_list_of_pythons_official_mailing_lists/)
 - [PYTHON | DICAS PYTHON](https://www.reddit.com/r/Python/comments/vkdgpx/python_dicas_python/)
-- [How to the Predict Future using fbprophet in Python](https://www.reddit.com/r/Python/comments/vkcyd8/how_to_the_predict_future_using_fbprophet_in/)
-- [Web Scraping Using Selenium Python](https://www.reddit.com/r/Python/comments/vkcvk3/web_scraping_using_selenium_python/)
 <!-- BLOG-POST-LIST:END -->
