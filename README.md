@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [hi all, can anyone explain the error- the variable is not pickable and says excessive recurssion. I scraped the data using beautifulsoup and stored in dataframe&lpar;variable&rpar; but i cant open the variable any help thanks in advance](https://www.reddit.com/r/Python/comments/vl16ud/hi_all_can_anyone_explain_the_error_the_variable/)
+- [A recipe recommendation system with Python, Embeddings, and FAISS](https://www.reddit.com/r/Python/comments/vl136i/a_recipe_recommendation_system_with_python/)
 - [Created a Death countdown timer in seconds](https://www.reddit.com/r/Python/comments/vkz0t7/created_a_death_countdown_timer_in_seconds/)
-- [$814 Worth of Cybersecurity and Cyber Warfare Books by Packt for $15 &lpar;-98% OFF&rpar;](https://www.reddit.com/r/Python/comments/vkyyrh/814_worth_of_cybersecurity_and_cyber_warfare/)
 - [QualityScaler update 2.2 - deeplearning image/video upscaler app for Windows](https://www.reddit.com/r/Python/comments/vkxvt4/qualityscaler_update_22_deeplearning_imagevideo/)
 - [Can RemoteDesktopConnection/.rdp file Webpages be automated from remote work?](https://www.reddit.com/r/Python/comments/vkufol/can_remotedesktopconnectionrdp_file_webpages_be/)
-- [Making a Link Extractor In Python](https://www.reddit.com/r/Python/comments/vktot2/making_a_link_extractor_in_python/)
 <!-- BLOG-POST-LIST:END -->
