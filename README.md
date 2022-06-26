@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Lexicon of Python – This place &lpar;Yeah, right here&rpar; is the perfect site to learn Python](https://www.reddit.com/r/Python/comments/vlamiq/the_lexicon_of_python_this_place_yeah_right_here/)
+- [&quot;Dev burnout drastically decreases when you actually ship things regularly. Burnout is caused by crap like toil, rework and spending too much mental energy on bottlenecks.&quot; Cool conversation with the head engineer of Slack on how burnout is caused by all the things that keep devs from coding.](https://www.reddit.com/r/Python/comments/vlafqy/dev_burnout_drastically_decreases_when_you/)
 - [Is that a realistic first project for a noob?](https://www.reddit.com/r/Python/comments/vl91dc/is_that_a_realistic_first_project_for_a_noob/)
 - [Ive made a tool that automatically generates typing from JSON schemas](https://www.reddit.com/r/Python/comments/vl85ga/ive_made_a_tool_that_automatically_generates/)
 - [On dependency on external libraries](https://www.reddit.com/r/Python/comments/vl6m24/on_dependency_on_external_libraries/)
-- [Online Python Compiler made with Skulpt JS and ACE Editor](https://www.reddit.com/r/Python/comments/vl5lqh/online_python_compiler_made_with_skulpt_js_and/)
-- [Sockey a discord music bot written in python](https://www.reddit.com/r/Python/comments/vl1qbk/sockey_a_discord_music_bot_written_in_python/)
 <!-- BLOG-POST-LIST:END -->
