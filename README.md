@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Making a Link Extractor In Python](https://www.reddit.com/r/Python/comments/vktot2/making_a_link_extractor_in_python/)
+- [Univariate kernel density estimation](https://www.reddit.com/r/Python/comments/vksgtk/univariate_kernel_density_estimation/)
+- [PyBridge 1.5:](https://www.reddit.com/r/Python/comments/vksb1v/pybridge_15/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/vkrumg/sunday_daily_thread_whats_everyone_working_on/)
 - [Created a physics solver python app using the tkinter GUI framework. Takes any three variables from the kinematics main 5 &lpar;initial velocity, final velocity, acceleration, time, displacement&rpar; and can solve for the other two! Pretty fun making this cross-disciplinary app.](https://www.reddit.com/r/Python/comments/vkpatg/created_a_physics_solver_python_app_using_the/)
-- [How can I stop a name from repeating in a text file? I am writing a code in python and I don&#39;t want the names to repeat after they&#39;ve been selected.](https://www.reddit.com/r/Python/comments/vknt1r/how_can_i_stop_a_name_from_repeating_in_a_text/)
-- [This sub has 976,646 subscribers and currently 665 readers, why is the ratio so bad?](https://www.reddit.com/r/Python/comments/vkmi55/this_sub_has_976646_subscribers_and_currently_665/)
-- [Callback on the worker-queue not working](https://www.reddit.com/r/Python/comments/vklcvr/callback_on_the_workerqueue_not_working/)
-- [For people building webapps using Django, would a job board be useful?](https://www.reddit.com/r/Python/comments/vkk7mc/for_people_building_webapps_using_django_would_a/)
 <!-- BLOG-POST-LIST:END -->
