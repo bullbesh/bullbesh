@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is that a realistic first project for a noob?](https://www.reddit.com/r/Python/comments/vl91dc/is_that_a_realistic_first_project_for_a_noob/)
 - [Ive made a tool that automatically generates typing from JSON schemas](https://www.reddit.com/r/Python/comments/vl85ga/ive_made_a_tool_that_automatically_generates/)
 - [On dependency on external libraries](https://www.reddit.com/r/Python/comments/vl6m24/on_dependency_on_external_libraries/)
 - [Online Python Compiler made with Skulpt JS and ACE Editor](https://www.reddit.com/r/Python/comments/vl5lqh/online_python_compiler_made_with_skulpt_js_and/)
 - [Sockey a discord music bot written in python](https://www.reddit.com/r/Python/comments/vl1qbk/sockey_a_discord_music_bot_written_in_python/)
-- [A recipe recommendation system with Python, Embeddings, and FAISS](https://www.reddit.com/r/Python/comments/vl136i/a_recipe_recommendation_system_with_python/)
 <!-- BLOG-POST-LIST:END -->
