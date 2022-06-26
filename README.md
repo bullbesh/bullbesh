@@ -8,8 +8,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [On dependency on external libraries](https://www.reddit.com/r/Python/comments/vl6m24/on_dependency_on_external_libraries/)
 - [Online Python Compiler made with Skulpt JS and ACE Editor](https://www.reddit.com/r/Python/comments/vl5lqh/online_python_compiler_made_with_skulpt_js_and/)
-- [Memento pattern](https://www.reddit.com/r/Python/comments/vl55lo/memento_pattern/)
 - [Is there an api with median salary data](https://www.reddit.com/r/Python/comments/vl44y5/is_there_an_api_with_median_salary_data/)
 - [Sockey a discord music bot written in python](https://www.reddit.com/r/Python/comments/vl1qbk/sockey_a_discord_music_bot_written_in_python/)
 - [hi all, can anyone explain the error- the variable is not pickable and says excessive recurssion. I scraped the data using beautifulsoup and stored in dataframe&lpar;variable&rpar; but i cant open the variable any help thanks in advance](https://www.reddit.com/r/Python/comments/vl16ud/hi_all_can_anyone_explain_the_error_the_variable/)
