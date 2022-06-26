@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Created a Death countdown timer in seconds](https://www.reddit.com/r/Python/comments/vkz0t7/created_a_death_countdown_timer_in_seconds/)
 - [$814 Worth of Cybersecurity and Cyber Warfare Books by Packt for $15 &lpar;-98% OFF&rpar;](https://www.reddit.com/r/Python/comments/vkyyrh/814_worth_of_cybersecurity_and_cyber_warfare/)
-- [Tutorial: Intro to the basics of Python!](https://www.reddit.com/r/Python/comments/vkyqbx/tutorial_intro_to_the_basics_of_python/)
 - [QualityScaler update 2.2 - deeplearning image/video upscaler app for Windows](https://www.reddit.com/r/Python/comments/vkxvt4/qualityscaler_update_22_deeplearning_imagevideo/)
-- [Bored during summer](https://www.reddit.com/r/Python/comments/vkv8nx/bored_during_summer/)
+- [Can RemoteDesktopConnection/.rdp file Webpages be automated from remote work?](https://www.reddit.com/r/Python/comments/vkufol/can_remotedesktopconnectionrdp_file_webpages_be/)
+- [Making a Link Extractor In Python](https://www.reddit.com/r/Python/comments/vktot2/making_a_link_extractor_in_python/)
 <!-- BLOG-POST-LIST:END -->
