@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best database for local and server use in python + database understanding questions](https://www.reddit.com/r/Python/comments/vlqjzu/best_database_for_local_and_server_use_in_python/)
+- [Opinionated Jupyter notebook &amp; Jupyter Lab setup, together with the toolset to get the most out of the Jupyter notebooks.](https://www.reddit.com/r/Python/comments/vlq2ie/opinionated_jupyter_notebook_jupyter_lab_setup/)
 - [GitHub - LovetheFrogs/PyCircTools: PyCircTools is a python package which contains tools to build circuits using python 3](https://www.reddit.com/r/Python/comments/vlpnfn/github_lovethefrogspycirctools_pycirctools_is_a/)
 - [Project idea: Program that unfolds all for loops from a python script](https://www.reddit.com/r/Python/comments/vlpku9/project_idea_program_that_unfolds_all_for_loops/)
 - [Learn Python Bi directional Serial Port Programming using Pyserial](https://www.reddit.com/r/Python/comments/vlp9yg/learn_python_bi_directional_serial_port/)
-- [Recognize Speech &amp; Convert It To Text](https://www.reddit.com/r/Python/comments/vlltxx/recognize_speech_convert_it_to_text/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/vlhydw/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
