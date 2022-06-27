@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - LovetheFrogs/PyCircTools: PyCircTools is a python package which contains tools to build circuits using python 3](https://www.reddit.com/r/Python/comments/vlpnfn/github_lovethefrogspycirctools_pycirctools_is_a/)
+- [Project idea: Program that unfolds all for loops from a python script](https://www.reddit.com/r/Python/comments/vlpku9/project_idea_program_that_unfolds_all_for_loops/)
+- [Learn Python Bi directional Serial Port Programming using Pyserial](https://www.reddit.com/r/Python/comments/vlp9yg/learn_python_bi_directional_serial_port/)
 - [Recognize Speech &amp; Convert It To Text](https://www.reddit.com/r/Python/comments/vlltxx/recognize_speech_convert_it_to_text/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/vlhydw/monday_daily_thread_project_ideas/)
-- [Anybody looking for a project to contribute to? Look here!](https://www.reddit.com/r/Python/comments/vlfr88/anybody_looking_for_a_project_to_contribute_to/)
-- [Small library for application data](https://www.reddit.com/r/Python/comments/vldcdb/small_library_for_application_data/)
-- [Multiprocessing in Python: The Complete Guide](https://www.reddit.com/r/Python/comments/vld145/multiprocessing_in_python_the_complete_guide/)
 <!-- BLOG-POST-LIST:END -->
