@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Display and browse images efficiently in the terminal](https://www.reddit.com/r/Python/comments/vlss3c/display_and_browse_images_efficiently_in_the/)
-- [Getting Started Debugging Python Apps in PyCharm](https://www.reddit.com/r/Python/comments/vls66g/getting_started_debugging_python_apps_in_pycharm/)
-- [Python data loading with Supabase](https://www.reddit.com/r/Python/comments/vlrdxy/python_data_loading_with_supabase/)
-- [Best database for local and server use in python + database understanding questions](https://www.reddit.com/r/Python/comments/vlqjzu/best_database_for_local_and_server_use_in_python/)
-- [Opinionated Jupyter notebook &amp; Jupyter Lab setup, together with the toolset to get the most out of the Jupyter notebooks.](https://www.reddit.com/r/Python/comments/vlq2ie/opinionated_jupyter_notebook_jupyter_lab_setup/)
+- [Daily Pug Email](https://www.reddit.com/r/Python/comments/vluk16/daily_pug_email/)
+- [Making a map of my house with python and security cams](https://www.reddit.com/r/Python/comments/vlug19/making_a_map_of_my_house_with_python_and_security/)
+- [So I&#39;m making a speech recognition bot, what things could I make it do? It already checks weather, time, and date. It also tells me a joke. I want to add more but idk what](https://www.reddit.com/r/Python/comments/vlu9lr/so_im_making_a_speech_recognition_bot_what_things/)
+- [Customized my Windows Terminal profile for the Python interpreter](https://www.reddit.com/r/Python/comments/vlti1y/customized_my_windows_terminal_profile_for_the/)
+- [【Eyes Protector】--Using Mediapipe to detect the state of the eyes](https://www.reddit.com/r/Python/comments/vlte0m/eyes_protectorusing_mediapipe_to_detect_the_state/)
 <!-- BLOG-POST-LIST:END -->
