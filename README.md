@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made an algorithm for solving 4 letter word ladders.](https://www.reddit.com/r/Python/comments/vm893u/i_made_an_algorithm_for_solving_4_letter_word/)
 - [Use No-Code Datawiza to Build Python Django Apps with Microsoft SSO login and Graph](https://www.reddit.com/r/Python/comments/vm6c9a/use_nocode_datawiza_to_build_python_django_apps/)
 - [The free weekly electronic Python on Microcontrollers Newsletter](https://www.reddit.com/r/Python/comments/vm69z5/the_free_weekly_electronic_python_on/)
 - [Update on SolarGUI: v0.1.5 is out now](https://www.reddit.com/r/Python/comments/vm51a8/update_on_solargui_v015_is_out_now/)
 - [I have created a ranking validation framework to generate validation reports by comparing two ranked lists.](https://www.reddit.com/r/Python/comments/vm37mm/i_have_created_a_ranking_validation_framework_to/)
-- [Async in-memory SQLite/SQLAlchemy database for FastAPI](https://www.reddit.com/r/Python/comments/vm2qxe/async_inmemory_sqlitesqlalchemy_database_for/)
 <!-- BLOG-POST-LIST:END -->
