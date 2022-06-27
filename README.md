@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding Version of &#39;Work Smarter, Not Harder&#39;](https://www.reddit.com/r/Python/comments/vlwh92/coding_version_of_work_smarter_not_harder/)
+- [Building a Single Page Application with Python and Pyodide - Part 3](https://www.reddit.com/r/Python/comments/vlvws6/building_a_single_page_application_with_python/)
 - [Python in the Cloud — Anaconda acquires PythonAnywhere](https://www.reddit.com/r/Python/comments/vlvtef/python_in_the_cloud_anaconda_acquires/)
 - [Daily Pug Email](https://www.reddit.com/r/Python/comments/vluk16/daily_pug_email/)
 - [Making a map of my house with python and security cams](https://www.reddit.com/r/Python/comments/vlug19/making_a_map_of_my_house_with_python_and_security/)
-- [So I&#39;m making a speech recognition bot, what things could I make it do? It already checks weather, time, and date. It also tells me a joke. I want to add more but idk what](https://www.reddit.com/r/Python/comments/vlu9lr/so_im_making_a_speech_recognition_bot_what_things/)
-- [Customized my Windows Terminal profile for the Python interpreter](https://www.reddit.com/r/Python/comments/vlti1y/customized_my_windows_terminal_profile_for_the/)
 <!-- BLOG-POST-LIST:END -->
