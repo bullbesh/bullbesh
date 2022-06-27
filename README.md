@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started Debugging Python Apps in PyCharm](https://www.reddit.com/r/Python/comments/vls66g/getting_started_debugging_python_apps_in_pycharm/)
 - [Python data loading with Supabase](https://www.reddit.com/r/Python/comments/vlrdxy/python_data_loading_with_supabase/)
 - [Best database for local and server use in python + database understanding questions](https://www.reddit.com/r/Python/comments/vlqjzu/best_database_for_local_and_server_use_in_python/)
 - [Opinionated Jupyter notebook &amp; Jupyter Lab setup, together with the toolset to get the most out of the Jupyter notebooks.](https://www.reddit.com/r/Python/comments/vlq2ie/opinionated_jupyter_notebook_jupyter_lab_setup/)
 - [GitHub - LovetheFrogs/PyCircTools: PyCircTools is a python package which contains tools to build circuits using python 3](https://www.reddit.com/r/Python/comments/vlpnfn/github_lovethefrogspycirctools_pycirctools_is_a/)
-- [Project idea: Program that unfolds all for loops from a python script](https://www.reddit.com/r/Python/comments/vlpku9/project_idea_program_that_unfolds_all_for_loops/)
 <!-- BLOG-POST-LIST:END -->
