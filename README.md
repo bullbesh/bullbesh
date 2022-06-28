@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [playing games like Fruit Ninja using Computer Vision](https://www.reddit.com/r/Python/comments/vmsglx/playing_games_like_fruit_ninja_using_computer/)
+- [My First tkinter App!](https://www.reddit.com/r/Python/comments/vmrmm1/my_first_tkinter_app/)
 - [user federated cloud for vps](https://www.reddit.com/r/Python/comments/vmqdjf/user_federated_cloud_for_vps/)
 - [connection to the other side was lost in a non clean fashion](https://www.reddit.com/r/Python/comments/vmo9rv/connection_to_the_other_side_was_lost_in_a_non/)
 - [What&#39;s New in Python 3.11?](https://www.reddit.com/r/Python/comments/vmnwt5/whats_new_in_python_311/)
-- [Build a Tic-Tac-Toe Game With Python and Tkinter – Real Python](https://www.reddit.com/r/Python/comments/vmngah/build_a_tictactoe_game_with_python_and_tkinter/)
-- [Hire Remote Python Developers to Reduce Development Cost](https://www.reddit.com/r/Python/comments/vmlnz5/hire_remote_python_developers_to_reduce/)
 <!-- BLOG-POST-LIST:END -->
