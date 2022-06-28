@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [connection to the other side was lost in a non clean fashion](https://www.reddit.com/r/Python/comments/vmo9rv/connection_to_the_other_side_was_lost_in_a_non/)
+- [What&#39;s New in Python 3.11?](https://www.reddit.com/r/Python/comments/vmnwt5/whats_new_in_python_311/)
 - [Build a Tic-Tac-Toe Game With Python and Tkinter – Real Python](https://www.reddit.com/r/Python/comments/vmngah/build_a_tictactoe_game_with_python_and_tkinter/)
 - [Hire Remote Python Developers to Reduce Development Cost](https://www.reddit.com/r/Python/comments/vmlnz5/hire_remote_python_developers_to_reduce/)
 - [zip&lpar;&rpar; Function In Python - Usage &amp; Examples With Code](https://www.reddit.com/r/Python/comments/vmliw6/zip_function_in_python_usage_examples_with_code/)
-- [Recover deleted/overwritten files with RecoverPy 1.5.1](https://www.reddit.com/r/Python/comments/vmlgmy/recover_deletedoverwritten_files_with_recoverpy/)
-- [Classifying Music Genres with LightGBM + Optuna Hyperparameter Optimization](https://www.reddit.com/r/Python/comments/vmgx34/classifying_music_genres_with_lightgbm_optuna/)
 <!-- BLOG-POST-LIST:END -->
