@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How do I make python “print” codes without using the print function?](https://www.reddit.com/r/Python/comments/vmappo/how_do_i_make_python_print_codes_without_using/)
+- [What Python API package do you use and why?](https://www.reddit.com/r/Python/comments/vmdbjc/what_python_api_package_do_you_use_and_why/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/vm987h/tuesday_daily_thread_advanced_questions/)
 - [I made an algorithm for solving 4 letter word ladders.](https://www.reddit.com/r/Python/comments/vm893u/i_made_an_algorithm_for_solving_4_letter_word/)
 - [Use No-Code Datawiza to Build Python Django Apps with Microsoft SSO login and Graph](https://www.reddit.com/r/Python/comments/vm6c9a/use_nocode_datawiza_to_build_python_django_apps/)
