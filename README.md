@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is python disk write so slow?](https://www.reddit.com/r/Python/comments/vn0hff/why_is_python_disk_write_so_slow/)
 - [Script for keeping your folders super organized](https://www.reddit.com/r/Python/comments/vmzl3e/script_for_keeping_your_folders_super_organized/)
 - [Netherizer Image Steganography Using Tkinter and Pillow](https://www.reddit.com/r/Python/comments/vmzg3l/netherizer_image_steganography_using_tkinter_and/)
 - [Using the OpenZiti Python SDK for zero trust Ansible](https://www.reddit.com/r/Python/comments/vmw9dh/using_the_openziti_python_sdk_for_zero_trust/)
 - [VS Code Extension for generating Python .gitignore files](https://www.reddit.com/r/Python/comments/vmuj5a/vs_code_extension_for_generating_python_gitignore/)
-- [Masonite Modules Package - Tutorial](https://www.reddit.com/r/Python/comments/vmt7kl/masonite_modules_package_tutorial/)
 <!-- BLOG-POST-LIST:END -->
