@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why is this name not defined?](https://www.reddit.com/r/Python/comments/vmv9of/why_is_this_name_not_defined/)
+- [Using the OpenZiti Python SDK for zero trust Ansible](https://www.reddit.com/r/Python/comments/vmw9dh/using_the_openziti_python_sdk_for_zero_trust/)
 - [VS Code Extension for generating Python .gitignore files](https://www.reddit.com/r/Python/comments/vmuj5a/vs_code_extension_for_generating_python_gitignore/)
 - [How can I teach python for 10 years old kid!](https://www.reddit.com/r/Python/comments/vmtclz/how_can_i_teach_python_for_10_years_old_kid/)
 - [Masonite Modules Package - Tutorial](https://www.reddit.com/r/Python/comments/vmt7kl/masonite_modules_package_tutorial/)
