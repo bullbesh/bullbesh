@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Tic-Tac-Toe Game With Python and Tkinter – Real Python](https://www.reddit.com/r/Python/comments/vmngah/build_a_tictactoe_game_with_python_and_tkinter/)
 - [Hire Remote Python Developers to Reduce Development Cost](https://www.reddit.com/r/Python/comments/vmlnz5/hire_remote_python_developers_to_reduce/)
 - [zip&lpar;&rpar; Function In Python - Usage &amp; Examples With Code](https://www.reddit.com/r/Python/comments/vmliw6/zip_function_in_python_usage_examples_with_code/)
 - [Recover deleted/overwritten files with RecoverPy 1.5.1](https://www.reddit.com/r/Python/comments/vmlgmy/recover_deletedoverwritten_files_with_recoverpy/)
 - [Classifying Music Genres with LightGBM + Optuna Hyperparameter Optimization](https://www.reddit.com/r/Python/comments/vmgx34/classifying_music_genres_with_lightgbm_optuna/)
-- [GitHub - IBM/jtd-to-proto: Python utility project to provide interoperability between JSON Typedef and Protobuf](https://www.reddit.com/r/Python/comments/vmfad7/github_ibmjtdtoproto_python_utility_project_to/)
 <!-- BLOG-POST-LIST:END -->
