@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Script for keeping your folders super organized](https://www.reddit.com/r/Python/comments/vmzl3e/script_for_keeping_your_folders_super_organized/)
+- [Netherizer Image Steganography Using Tkinter and Pillow](https://www.reddit.com/r/Python/comments/vmzg3l/netherizer_image_steganography_using_tkinter_and/)
 - [Using the OpenZiti Python SDK for zero trust Ansible](https://www.reddit.com/r/Python/comments/vmw9dh/using_the_openziti_python_sdk_for_zero_trust/)
 - [VS Code Extension for generating Python .gitignore files](https://www.reddit.com/r/Python/comments/vmuj5a/vs_code_extension_for_generating_python_gitignore/)
-- [How can I teach python for 10 years old kid!](https://www.reddit.com/r/Python/comments/vmtclz/how_can_i_teach_python_for_10_years_old_kid/)
 - [Masonite Modules Package - Tutorial](https://www.reddit.com/r/Python/comments/vmt7kl/masonite_modules_package_tutorial/)
-- [playing games like Fruit Ninja using Computer Vision](https://www.reddit.com/r/Python/comments/vmsglx/playing_games_like_fruit_ninja_using_computer/)
 <!-- BLOG-POST-LIST:END -->
