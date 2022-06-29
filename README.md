@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tic Tac Toe Using Tkinter Python](https://www.reddit.com/r/Python/comments/vnm8xx/tic_tac_toe_using_tkinter_python/)
+- [Learn Python through your Spreadsheet Skills](https://www.reddit.com/r/Python/comments/vnm000/learn_python_through_your_spreadsheet_skills/)
 - [Linear regression from scratch! numpy/pandas/vectorisation](https://www.reddit.com/r/Python/comments/vnlkmb/linear_regression_from_scratch/)
 - [ImportError: cannot import name randbits](https://www.reddit.com/r/Python/comments/vnkv5h/importerror_cannot_import_name_randbits/)
 - [Super simple tutorial for scheduling tasks on Windows](https://www.reddit.com/r/Python/comments/vni7jb/super_simple_tutorial_for_scheduling_tasks_on/)
-- [Open source data visualization with Supabase, Python, and Metabase](https://www.reddit.com/r/Python/comments/vnhk53/open_source_data_visualization_with_supabase/)
-- [Using AWS and Hyperscan to match regular expressions on 100GB of text in Python](https://www.reddit.com/r/Python/comments/vnh9r7/using_aws_and_hyperscan_to_match_regular/)
 <!-- BLOG-POST-LIST:END -->
