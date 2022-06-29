@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [From source code &lpar;.py files&rpar; to byte code interpretable by Python Virtual Machine - The try to create the simplest functional model of how Python programs run](https://www.reddit.com/r/Python/comments/vnbgde/from_source_code_py_files_to_byte_code/)
+- [‘Sankeying’ with Plotly](https://www.reddit.com/r/Python/comments/vnay88/sankeying_with_plotly/)
 - [First beta released for seaborn v0.12, with new plotting interface!](https://www.reddit.com/r/Python/comments/vnapvq/first_beta_released_for_seaborn_v012_with_new/)
 - [42 Best Resources to Learn Python for Beginners &lpar;YouTube, Courses, Books, &amp; Tutorials&rpar; 2022](https://www.reddit.com/r/Python/comments/vna5kh/42_best_resources_to_learn_python_for_beginners/)
 - [Here is a simple tutorial for how to make a simple chat bot. I’d love to hear your feedback.](https://www.reddit.com/r/Python/comments/vn5227/here_is_a_simple_tutorial_for_how_to_make_a/)
-- [[ Design / Architecture ] Applying dependency inversion, Flask vs Django &lpar;from Cosmic book&rpar;](https://www.reddit.com/r/Python/comments/vn3ebz/design_architecture_applying_dependency_inversion/)
-- [[Released] Pandavro v1.7.0: I/O between Apache Avro and pandas DataFrame](https://www.reddit.com/r/Python/comments/vn331i/released_pandavro_v170_io_between_apache_avro_and/)
 <!-- BLOG-POST-LIST:END -->
