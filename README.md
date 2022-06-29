@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why is python disk write so slow?](https://www.reddit.com/r/Python/comments/vn0hff/why_is_python_disk_write_so_slow/)
-- [Script for keeping your folders super organized](https://www.reddit.com/r/Python/comments/vmzl3e/script_for_keeping_your_folders_super_organized/)
-- [Netherizer Image Steganography Using Tkinter and Pillow](https://www.reddit.com/r/Python/comments/vmzg3l/netherizer_image_steganography_using_tkinter_and/)
-- [Using the OpenZiti Python SDK for zero trust Ansible](https://www.reddit.com/r/Python/comments/vmw9dh/using_the_openziti_python_sdk_for_zero_trust/)
-- [VS Code Extension for generating Python .gitignore files](https://www.reddit.com/r/Python/comments/vmuj5a/vs_code_extension_for_generating_python_gitignore/)
+- [[ Design / Architecture ] Applying dependency inversion, Flask vs Django &lpar;from Cosmic book&rpar;](https://www.reddit.com/r/Python/comments/vn3ebz/design_architecture_applying_dependency_inversion/)
+- [[Released] Pandavro v1.7.0: I/O between Apache Avro and pandas DataFrame](https://www.reddit.com/r/Python/comments/vn331i/released_pandavro_v170_io_between_apache_avro_and/)
+- [Holy Mamba! &lpar;for anaconda users&rpar;](https://www.reddit.com/r/Python/comments/vn3045/holy_mamba_for_anaconda_users/)
+- [Detecting Cyberattacks with Pyshark and Bytewax](https://www.reddit.com/r/Python/comments/vn1y7h/detecting_cyberattacks_with_pyshark_and_bytewax/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/vn1ng2/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
