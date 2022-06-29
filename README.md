@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the best library for website scraping?](https://www.reddit.com/r/Python/comments/vncw6d/what_is_the_best_library_for_website_scraping/)
 - [Python friends / Coding together](https://www.reddit.com/r/Python/comments/vnc02k/python_friends_coding_together/)
 - [From source code &lpar;.py files&rpar; to byte code interpretable by Python Virtual Machine - The try to create the simplest functional model of how Python programs run](https://www.reddit.com/r/Python/comments/vnbgde/from_source_code_py_files_to_byte_code/)
 - [‘Sankeying’ with Plotly](https://www.reddit.com/r/Python/comments/vnay88/sankeying_with_plotly/)
 - [First beta released for seaborn v0.12, with new plotting interface!](https://www.reddit.com/r/Python/comments/vnapvq/first_beta_released_for_seaborn_v012_with_new/)
-- [42 Best Resources to Learn Python for Beginners &lpar;YouTube, Courses, Books, &amp; Tutorials&rpar; 2022](https://www.reddit.com/r/Python/comments/vna5kh/42_best_resources_to_learn_python_for_beginners/)
 <!-- BLOG-POST-LIST:END -->
