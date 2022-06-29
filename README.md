@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Here is a simple tutorial for how to make a simple chat bot. I’d love to hear your feedback.](https://www.reddit.com/r/Python/comments/vn5227/here_is_a_simple_tutorial_for_how_to_make_a/)
 - [[ Design / Architecture ] Applying dependency inversion, Flask vs Django &lpar;from Cosmic book&rpar;](https://www.reddit.com/r/Python/comments/vn3ebz/design_architecture_applying_dependency_inversion/)
 - [[Released] Pandavro v1.7.0: I/O between Apache Avro and pandas DataFrame](https://www.reddit.com/r/Python/comments/vn331i/released_pandavro_v170_io_between_apache_avro_and/)
 - [Holy Mamba! &lpar;for anaconda users&rpar;](https://www.reddit.com/r/Python/comments/vn3045/holy_mamba_for_anaconda_users/)
 - [Detecting Cyberattacks with Pyshark and Bytewax](https://www.reddit.com/r/Python/comments/vn1y7h/detecting_cyberattacks_with_pyshark_and_bytewax/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/vn1ng2/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
