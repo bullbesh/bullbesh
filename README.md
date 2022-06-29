@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pricing Analytics](https://www.reddit.com/r/Python/comments/vnnpwh/pricing_analytics/)
+- [Has anyone used Snowflake Snowpark with Python?](https://www.reddit.com/r/Python/comments/vnn0j1/has_anyone_used_snowflake_snowpark_with_python/)
 - [Tic Tac Toe Using Tkinter Python](https://www.reddit.com/r/Python/comments/vnm8xx/tic_tac_toe_using_tkinter_python/)
 - [Learn Python through your Spreadsheet Skills](https://www.reddit.com/r/Python/comments/vnm000/learn_python_through_your_spreadsheet_skills/)
 - [Linear regression from scratch! numpy/pandas/vectorisation](https://www.reddit.com/r/Python/comments/vnlkmb/linear_regression_from_scratch/)
-- [ImportError: cannot import name randbits](https://www.reddit.com/r/Python/comments/vnkv5h/importerror_cannot_import_name_randbits/)
-- [Super simple tutorial for scheduling tasks on Windows](https://www.reddit.com/r/Python/comments/vni7jb/super_simple_tutorial_for_scheduling_tasks_on/)
 <!-- BLOG-POST-LIST:END -->
