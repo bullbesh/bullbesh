@@ -8,7 +8,7 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Pricing Analytics](https://www.reddit.com/r/Python/comments/vnnpwh/pricing_analytics/)
+- [What are some amazing, great python external modules, libraries to explore?](https://www.reddit.com/r/Python/comments/vnoe9q/what_are_some_amazing_great_python_external/)
 - [Has anyone used Snowflake Snowpark with Python?](https://www.reddit.com/r/Python/comments/vnn0j1/has_anyone_used_snowflake_snowpark_with_python/)
 - [Tic Tac Toe Using Tkinter Python](https://www.reddit.com/r/Python/comments/vnm8xx/tic_tac_toe_using_tkinter_python/)
 - [Learn Python through your Spreadsheet Skills](https://www.reddit.com/r/Python/comments/vnm000/learn_python_through_your_spreadsheet_skills/)
