@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is the python fundamentals course on Great Learning a good way to learn the basics?](https://www.reddit.com/r/Python/comments/vods6z/is_the_python_fundamentals_course_on_great/)
+- [Do you hate Java? If tou do, help tell me why](https://www.reddit.com/r/Python/comments/vocxs5/do_you_hate_java_if_tou_do_help_tell_me_why/)
 - [Unit Tests - what’s the point?](https://www.reddit.com/r/Python/comments/voc6kr/unit_tests_whats_the_point/)
 - [My first coding project... &lpar;I suck at coding&rpar;](https://www.reddit.com/r/Python/comments/voc14k/my_first_coding_project_i_suck_at_coding/)
 - [Unpopular? opinion: Async is syntactic diabetes](https://www.reddit.com/r/Python/comments/vobnd6/unpopular_opinion_async_is_syntactic_diabetes/)
-- [Can no longer log into O365 via imap using imaplib](https://www.reddit.com/r/Python/comments/vobbaz/can_no_longer_log_into_o365_via_imap_using_imaplib/)
-- [Python For Beginners But Its In 20 Seconds](https://www.reddit.com/r/Python/comments/voauii/python_for_beginners_but_its_in_20_seconds/)
 <!-- BLOG-POST-LIST:END -->
