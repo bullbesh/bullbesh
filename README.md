@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Search for files and symlink results](https://www.reddit.com/r/Python/comments/vnyer3/search_for_files_and_symlink_results/)
+- [I Made a Python Script That Punishes Me if it Detects That I am Procrastinating on My Assignments](https://www.reddit.com/r/Python/comments/vnxz5e/i_made_a_python_script_that_punishes_me_if_it/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/vnu72r/thursday_daily_thread_python_careers_courses_and/)
 - [Get the file date I see in Windows Explorer](https://www.reddit.com/r/Python/comments/vnta07/get_the_file_date_i_see_in_windows_explorer/)
 - [What are some amazing, great python external modules, libraries to explore?](https://www.reddit.com/r/Python/comments/vnoe9q/what_are_some_amazing_great_python_external/)
-- [Has anyone used Snowflake Snowpark with Python?](https://www.reddit.com/r/Python/comments/vnn0j1/has_anyone_used_snowflake_snowpark_with_python/)
-- [Tic Tac Toe Using Tkinter Python](https://www.reddit.com/r/Python/comments/vnm8xx/tic_tac_toe_using_tkinter_python/)
 <!-- BLOG-POST-LIST:END -->
