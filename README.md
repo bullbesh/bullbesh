@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Procedural music composition with arvo](https://www.reddit.com/r/Python/comments/vo9gtk/procedural_music_composition_with_arvo/)
-- [A text-based RPG based on Minecraft [WIP]](https://www.reddit.com/r/Python/comments/vo8yt5/a_textbased_rpg_based_on_minecraft_wip/)
-- [Python tk window closing not going into classes](https://www.reddit.com/r/Python/comments/vo7m9z/python_tk_window_closing_not_going_into_classes/)
-- [Sanic v22.6 Released - Includes HTTP/3](https://www.reddit.com/r/Python/comments/vo72io/sanic_v226_released_includes_http3/)
-- [Top 12 Python Developer Skills You Must Need to Know](https://www.reddit.com/r/Python/comments/vo5hsf/top_12_python_developer_skills_you_must_need_to/)
+- [Python For Beginners But Its In 20 Seconds](https://www.reddit.com/r/Python/comments/voauii/python_for_beginners_but_its_in_20_seconds/)
+- [Real world python dev jobs?](https://www.reddit.com/r/Python/comments/voa809/real_world_python_dev_jobs/)
+- [Open-sourcing django-swap-user to simplify custom user models](https://www.reddit.com/r/Python/comments/voa6tt/opensourcing_djangoswapuser_to_simplify_custom/)
+- [Data enrichments in Python for 2 minutes](https://www.reddit.com/r/Python/comments/voa5hv/data_enrichments_in_python_for_2_minutes/)
+- [Would you classify writing a BFS pathfinder algorithm and visualizer as begginer, intermediate or advanced?](https://www.reddit.com/r/Python/comments/vo9r69/would_you_classify_writing_a_bfs_pathfinder/)
 <!-- BLOG-POST-LIST:END -->
