@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Venv - packages/libraries no longer available in subdirectory?](https://www.reddit.com/r/Python/comments/volbb1/venv_packageslibraries_no_longer_available_in/)
+- [Auto updated and initiated selenium driver.](https://www.reddit.com/r/Python/comments/volbap/auto_updated_and_initiated_selenium_driver/)
+- [finding jobs during summer](https://www.reddit.com/r/Python/comments/vol986/finding_jobs_during_summer/)
+- [Celery vs Django-q for AWS? &lpar;DB connections are left open?&rpar;](https://www.reddit.com/r/Python/comments/vol0k8/celery_vs_djangoq_for_aws_db_connections_are_left/)
 - [Gradual Soundness: Lessons from Static Python](https://www.reddit.com/r/Python/comments/vokcbu/gradual_soundness_lessons_from_static_python/)
-- [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/voi942/python_cybersecurity_build_your_own_python_tools/)
-- [Appreciating Python&#39;s match-case by parsing Python code](https://www.reddit.com/r/Python/comments/vogila/appreciating_pythons_matchcase_by_parsing_python/)
-- [A bunch of Python and Bash scripts I developed for personal and working projects](https://www.reddit.com/r/Python/comments/vog8xh/a_bunch_of_python_and_bash_scripts_i_developed/)
-- [Check out this Pygame](https://www.reddit.com/r/Python/comments/vofxnh/check_out_this_pygame/)
 <!-- BLOG-POST-LIST:END -->
