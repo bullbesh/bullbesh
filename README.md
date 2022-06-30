@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unit Tests - what’s the point?](https://www.reddit.com/r/Python/comments/voc6kr/unit_tests_whats_the_point/)
+- [My first coding project... &lpar;I suck at coding&rpar;](https://www.reddit.com/r/Python/comments/voc14k/my_first_coding_project_i_suck_at_coding/)
+- [Unpopular? opinion: Async is syntactic diabetes](https://www.reddit.com/r/Python/comments/vobnd6/unpopular_opinion_async_is_syntactic_diabetes/)
+- [Can no longer log into O365 via imap using imaplib](https://www.reddit.com/r/Python/comments/vobbaz/can_no_longer_log_into_o365_via_imap_using_imaplib/)
 - [Python For Beginners But Its In 20 Seconds](https://www.reddit.com/r/Python/comments/voauii/python_for_beginners_but_its_in_20_seconds/)
-- [Real world python dev jobs?](https://www.reddit.com/r/Python/comments/voa809/real_world_python_dev_jobs/)
-- [Open-sourcing django-swap-user to simplify custom user models](https://www.reddit.com/r/Python/comments/voa6tt/opensourcing_djangoswapuser_to_simplify_custom/)
-- [Data enrichments in Python for 2 minutes](https://www.reddit.com/r/Python/comments/voa5hv/data_enrichments_in_python_for_2_minutes/)
-- [Would you classify writing a BFS pathfinder algorithm and visualizer as begginer, intermediate or advanced?](https://www.reddit.com/r/Python/comments/vo9r69/would_you_classify_writing_a_bfs_pathfinder/)
 <!-- BLOG-POST-LIST:END -->
