@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using mocks for Python testing](https://www.reddit.com/r/Python/comments/vo4t41/using_mocks_for_python_testing/)
+- [Reverse engineering an executable](https://www.reddit.com/r/Python/comments/vo4b9e/reverse_engineering_an_executable/)
 - [a little text rpg I&#39;m working on it&#39;s coded entirely in python](https://www.reddit.com/r/Python/comments/vo3lp2/a_little_text_rpg_im_working_on_its_coded/)
 - [Mimic 3 released: Mycroft&#39;s privacy-focused neural text-to-speech &lpar;TTS&rpar; engine](https://www.reddit.com/r/Python/comments/vnzl5y/mimic_3_released_mycrofts_privacyfocused_neural/)
 - [14 Year Old Coder Teaches 14 Year Old Math Prodigy Python! &lpar;50 mins&rpar;](https://www.reddit.com/r/Python/comments/vnz6u5/14_year_old_coder_teaches_14_year_old_math/)
-- [Search for files and symlink results](https://www.reddit.com/r/Python/comments/vnyer3/search_for_files_and_symlink_results/)
-- [I Made a Python Script That Punishes Me if it Detects That I am Procrastinating on My Assignments](https://www.reddit.com/r/Python/comments/vnxz5e/i_made_a_python_script_that_punishes_me_if_it/)
 <!-- BLOG-POST-LIST:END -->
