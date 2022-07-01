@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I started relearning Python a week ago. I started making a wordle program. Right now all it does is print True :&lpar;](https://www.reddit.com/r/Python/comments/voqczk/i_started_relearning_python_a_week_ago_i_started/)
+- [[General] How long have you been coding for and has it changed the way you see the 3D world?](https://www.reddit.com/r/Python/comments/vosnu6/general_how_long_have_you_been_coding_for_and_has/)
+- [best frontend for mobile app development using Python](https://www.reddit.com/r/Python/comments/voscel/best_frontend_for_mobile_app_development_using/)
+- [ETH Zurich AI Researchers Introduce ‘tntorch’: a PyTorch-Powered Tensor Learning Python Library That Supports Multiple Decompositions Under a Unified Interface](https://www.reddit.com/r/Python/comments/vorxe4/eth_zurich_ai_researchers_introduce_tntorch_a/)
+- [Tip on where to find resources on these topics?](https://www.reddit.com/r/Python/comments/vorses/tip_on_where_to_find_resources_on_these_topics/)
 - [Is requirements.txt the standard way to control library versioning anymore?](https://www.reddit.com/r/Python/comments/vopd8z/is_requirementstxt_the_standard_way_to_control/)
-- [Deploy python application.](https://www.reddit.com/r/Python/comments/voou7n/deploy_python_application/)
-- [I just published pymodelio, a module for creating and validating python classes and domain models 🐍](https://www.reddit.com/r/Python/comments/vona2w/i_just_published_pymodelio_a_module_for_creating/)
-- [Agressive sort loop](https://www.reddit.com/r/Python/comments/von7ht/agressive_sort_loop/)
 <!-- BLOG-POST-LIST:END -->
