@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is requirements.txt the standard way to control library versioning anymore?](https://www.reddit.com/r/Python/comments/vopd8z/is_requirementstxt_the_standard_way_to_control/)
+- [Deploy python application.](https://www.reddit.com/r/Python/comments/voou7n/deploy_python_application/)
+- [I just published pymodelio, a module for creating and validating python classes and domain models 🐍](https://www.reddit.com/r/Python/comments/vona2w/i_just_published_pymodelio_a_module_for_creating/)
+- [Agressive sort loop](https://www.reddit.com/r/Python/comments/von7ht/agressive_sort_loop/)
 - [Venv - packages/libraries no longer available in subdirectory?](https://www.reddit.com/r/Python/comments/volbb1/venv_packageslibraries_no_longer_available_in/)
-- [Auto updated and initiated selenium driver.](https://www.reddit.com/r/Python/comments/volbap/auto_updated_and_initiated_selenium_driver/)
-- [finding jobs during summer](https://www.reddit.com/r/Python/comments/vol986/finding_jobs_during_summer/)
-- [Celery vs Django-q for AWS? &lpar;DB connections are left open?&rpar;](https://www.reddit.com/r/Python/comments/vol0k8/celery_vs_djangoq_for_aws_db_connections_are_left/)
-- [Gradual Soundness: Lessons from Static Python](https://www.reddit.com/r/Python/comments/vokcbu/gradual_soundness_lessons_from_static_python/)
 <!-- BLOG-POST-LIST:END -->
