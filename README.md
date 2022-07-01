@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Beginner](https://www.reddit.com/r/Python/comments/vp50n6/python_beginner/)
+- [Beginning in the 40s](https://www.reddit.com/r/Python/comments/vp4pcc/beginning_in_the_40s/)
+- [Faster routing for Flask &amp; Quart](https://www.reddit.com/r/Python/comments/vp3xfl/faster_routing_for_flask_quart/)
 - [Used Python and the PyGame Module to create a &#39;free fall&#39; infinite game that&#39;s basically like the classic doodle jump in reverse.](https://www.reddit.com/r/Python/comments/vp37wu/used_python_and_the_pygame_module_to_create_a/)
 - [I made a package: tag-matcher](https://www.reddit.com/r/Python/comments/vp2suo/i_made_a_package_tagmatcher/)
-- [Bloomberg Terminal for pythonistas](https://www.reddit.com/r/Python/comments/vp0atd/bloomberg_terminal_for_pythonistas/)
-- [6 Usage Patterns for the ThreadPoolExecutor in Python](https://www.reddit.com/r/Python/comments/vozu6o/6_usage_patterns_for_the_threadpoolexecutor_in/)
-- [xdialog: A cross-platform wrapper for native dialogs written entirely in python.](https://www.reddit.com/r/Python/comments/vowhra/xdialog_a_crossplatform_wrapper_for_native/)
 <!-- BLOG-POST-LIST:END -->
