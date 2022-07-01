@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data enrichment in Python for 2 minutes](https://www.reddit.com/r/Python/comments/vp58c3/data_enrichment_in_python_for_2_minutes/)
 - [Python Beginner](https://www.reddit.com/r/Python/comments/vp50n6/python_beginner/)
 - [Beginning in the 40s](https://www.reddit.com/r/Python/comments/vp4pcc/beginning_in_the_40s/)
 - [Faster routing for Flask &amp; Quart](https://www.reddit.com/r/Python/comments/vp3xfl/faster_routing_for_flask_quart/)
 - [Used Python and the PyGame Module to create a &#39;free fall&#39; infinite game that&#39;s basically like the classic doodle jump in reverse.](https://www.reddit.com/r/Python/comments/vp37wu/used_python_and_the_pygame_module_to_create_a/)
-- [I made a package: tag-matcher](https://www.reddit.com/r/Python/comments/vp2suo/i_made_a_package_tagmatcher/)
 <!-- BLOG-POST-LIST:END -->
