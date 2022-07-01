@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I started relearning Python a week ago. I started making a wordle program. Right now all it does is print True :&lpar;](https://www.reddit.com/r/Python/comments/voqczk/i_started_relearning_python_a_week_ago_i_started/)
 - [Is requirements.txt the standard way to control library versioning anymore?](https://www.reddit.com/r/Python/comments/vopd8z/is_requirementstxt_the_standard_way_to_control/)
 - [Deploy python application.](https://www.reddit.com/r/Python/comments/voou7n/deploy_python_application/)
 - [I just published pymodelio, a module for creating and validating python classes and domain models 🐍](https://www.reddit.com/r/Python/comments/vona2w/i_just_published_pymodelio_a_module_for_creating/)
 - [Agressive sort loop](https://www.reddit.com/r/Python/comments/von7ht/agressive_sort_loop/)
-- [Venv - packages/libraries no longer available in subdirectory?](https://www.reddit.com/r/Python/comments/volbb1/venv_packageslibraries_no_longer_available_in/)
 <!-- BLOG-POST-LIST:END -->
