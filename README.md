@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SQLAlchemy 1,4 async ORM with FastAPI](https://www.reddit.com/r/Python/comments/vpa7s6/sqlalchemy_14_async_orm_with_fastapi/)
 - [Using Google Cloud Functions on VS Code](https://www.reddit.com/r/Python/comments/vp8gfp/using_google_cloud_functions_on_vs_code/)
 - [What would be an interesting &#39;I Made&#39; youtube video?](https://www.reddit.com/r/Python/comments/vp7k98/what_would_be_an_interesting_i_made_youtube_video/)
 - [Free hands-on course on introduction to Python](https://www.reddit.com/r/Python/comments/vp7ays/free_handson_course_on_introduction_to_python/)
 - [Data enrichment in Python for 2 minutes](https://www.reddit.com/r/Python/comments/vp58c3/data_enrichment_in_python_for_2_minutes/)
-- [Python Beginner](https://www.reddit.com/r/Python/comments/vp50n6/python_beginner/)
 <!-- BLOG-POST-LIST:END -->
