@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Beginner Programming Problem - Python Udemy Course](https://www.reddit.com/r/Python/comments/vpbw5g/beginner_programming_problem_python_udemy_course/)
+- [When to handle exceptions vs anticipate an error with if](https://www.reddit.com/r/Python/comments/vpdqs9/when_to_handle_exceptions_vs_anticipate_an_error/)
+- [Django - From Code To Production using django-cookiecutter](https://www.reddit.com/r/Python/comments/vpdc5c/django_from_code_to_production_using/)
 - [Near-Earth Objects - Project Part #4: Sizes](https://www.reddit.com/r/Python/comments/vpbvxc/nearearth_objects_project_part_4_sizes/)
 - [Download all YouTube videos inside a Playlist [Python + Pytube]](https://www.reddit.com/r/Python/comments/vpbitf/download_all_youtube_videos_inside_a_playlist/)
 - [learning Python as a new graduate of Mech eng.](https://www.reddit.com/r/Python/comments/vpbdol/learning_python_as_a_new_graduate_of_mech_eng/)
-- [SQLAlchemy 1,4 async ORM with FastAPI](https://www.reddit.com/r/Python/comments/vpa7s6/sqlalchemy_14_async_orm_with_fastapi/)
 <!-- BLOG-POST-LIST:END -->
