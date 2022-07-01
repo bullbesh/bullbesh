@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Used Python and the PyGame Module to create a &#39;free fall&#39; infinite game that&#39;s basically like the classic doodle jump in reverse.](https://www.reddit.com/r/Python/comments/vp37wu/used_python_and_the_pygame_module_to_create_a/)
+- [I made a package: tag-matcher](https://www.reddit.com/r/Python/comments/vp2suo/i_made_a_package_tagmatcher/)
 - [Bloomberg Terminal for pythonistas](https://www.reddit.com/r/Python/comments/vp0atd/bloomberg_terminal_for_pythonistas/)
 - [6 Usage Patterns for the ThreadPoolExecutor in Python](https://www.reddit.com/r/Python/comments/vozu6o/6_usage_patterns_for_the_threadpoolexecutor_in/)
 - [xdialog: A cross-platform wrapper for native dialogs written entirely in python.](https://www.reddit.com/r/Python/comments/vowhra/xdialog_a_crossplatform_wrapper_for_native/)
-- [Which has a better Job opportunities? Flask or Django?](https://www.reddit.com/r/Python/comments/vovt7e/which_has_a_better_job_opportunities_flask_or/)
-- [Create Web UIs for Python APIs and ML Models](https://www.reddit.com/r/Python/comments/vou3iw/create_web_uis_for_python_apis_and_ml_models/)
 <!-- BLOG-POST-LIST:END -->
