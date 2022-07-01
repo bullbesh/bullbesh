@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [6 Usage Patterns for the ThreadPoolExecutor in Python](https://www.reddit.com/r/Python/comments/vozu6o/6_usage_patterns_for_the_threadpoolexecutor_in/)
 - [xdialog: A cross-platform wrapper for native dialogs written entirely in python.](https://www.reddit.com/r/Python/comments/vowhra/xdialog_a_crossplatform_wrapper_for_native/)
 - [Which has a better Job opportunities? Flask or Django?](https://www.reddit.com/r/Python/comments/vovt7e/which_has_a_better_job_opportunities_flask_or/)
 - [Create Web UIs for Python APIs and ML Models](https://www.reddit.com/r/Python/comments/vou3iw/create_web_uis_for_python_apis_and_ml_models/)
 - [Refactoring PyPDF2’s Transformation Interface](https://www.reddit.com/r/Python/comments/vot8xs/refactoring_pypdf2s_transformation_interface/)
-- [[General] How long have you been coding for and has it changed the way you see the 3D world?](https://www.reddit.com/r/Python/comments/vosnu6/general_how_long_have_you_been_coding_for_and_has/)
 <!-- BLOG-POST-LIST:END -->
