@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [API to Convert website data into structured Pandas DataFrame](https://www.reddit.com/r/Python/comments/vpti1z/api_to_convert_website_data_into_structured/)
+- [Python Stacks, Queues, and Priority Queues in Practice – Real Python](https://www.reddit.com/r/Python/comments/vpth4w/python_stacks_queues_and_priority_queues_in/)
+- [After reading a book on the Mayan calendar system, I had to create a python date converter. It also creates the glyphs representing the components of that long count calendar.](https://www.reddit.com/r/Python/comments/vptf6m/after_reading_a_book_on_the_mayan_calendar_system/)
 - [Anki Automation](https://www.reddit.com/r/Python/comments/vps2s2/anki_automation/)
 - [Java to python converter](https://www.reddit.com/r/Python/comments/vprz5q/java_to_python_converter/)
-- [Premier League Unofficial API](https://www.reddit.com/r/Python/comments/vprylg/premier_league_unofficial_api/)
-- [How to create classes without the class keyword](https://www.reddit.com/r/Python/comments/vproe0/how_to_create_classes_without_the_class_keyword/)
-- [Insert an Image in Jupyter Notebook](https://www.reddit.com/r/Python/comments/vpqfsu/insert_an_image_in_jupyter_notebook/)
 <!-- BLOG-POST-LIST:END -->
