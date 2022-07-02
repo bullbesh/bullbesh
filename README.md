@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for Data Analysis, 3rd Edition – The Open Access Version Online](https://www.reddit.com/r/Python/comments/vpvdz6/python_for_data_analysis_3rd_edition_the_open/)
+- [Nuts and bolts of your dev process &lpar;folder structure, git, deployment, etc&rpar;](https://www.reddit.com/r/Python/comments/vpv91q/nuts_and_bolts_of_your_dev_process_folder/)
+- [How to deploy python backend on a VPS /w Nginx and gunicorn](https://www.reddit.com/r/Python/comments/vpurp0/how_to_deploy_python_backend_on_a_vps_w_nginx_and/)
+- [Help me](https://www.reddit.com/r/Python/comments/vpue6y/help_me/)
 - [API to Convert website data into structured Pandas DataFrame](https://www.reddit.com/r/Python/comments/vpti1z/api_to_convert_website_data_into_structured/)
-- [Python Stacks, Queues, and Priority Queues in Practice – Real Python](https://www.reddit.com/r/Python/comments/vpth4w/python_stacks_queues_and_priority_queues_in/)
-- [After reading a book on the Mayan calendar system, I had to create a python date converter. It also creates the glyphs representing the components of that long count calendar.](https://www.reddit.com/r/Python/comments/vptf6m/after_reading_a_book_on_the_mayan_calendar_system/)
-- [Anki Automation](https://www.reddit.com/r/Python/comments/vps2s2/anki_automation/)
-- [Java to python converter](https://www.reddit.com/r/Python/comments/vprz5q/java_to_python_converter/)
 <!-- BLOG-POST-LIST:END -->
