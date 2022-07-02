@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Logging in Python like a PRO](https://www.reddit.com/r/Python/comments/vpwf78/logging_in_python_like_a_pro/)
+- [Accessing networked drives using Python](https://www.reddit.com/r/Python/comments/vpvl36/accessing_networked_drives_using_python/)
 - [Python for Data Analysis, 3rd Edition – The Open Access Version Online](https://www.reddit.com/r/Python/comments/vpvdz6/python_for_data_analysis_3rd_edition_the_open/)
 - [Nuts and bolts of your dev process &lpar;folder structure, git, deployment, etc&rpar;](https://www.reddit.com/r/Python/comments/vpv91q/nuts_and_bolts_of_your_dev_process_folder/)
 - [How to deploy python backend on a VPS /w Nginx and gunicorn](https://www.reddit.com/r/Python/comments/vpurp0/how_to_deploy_python_backend_on_a_vps_w_nginx_and/)
-- [Help me](https://www.reddit.com/r/Python/comments/vpue6y/help_me/)
-- [API to Convert website data into structured Pandas DataFrame](https://www.reddit.com/r/Python/comments/vpti1z/api_to_convert_website_data_into_structured/)
 <!-- BLOG-POST-LIST:END -->
