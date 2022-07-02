@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI2 Introduces Tango, A Python Library For Choreographing Machine Learning Research Experiments By Executing A Series Of Steps](https://www.reddit.com/r/Python/comments/vpxbsm/ai2_introduces_tango_a_python_library_for/)
+- [Facial Recognition Attendance System &lpar;recognize faces from camera at entry and update a csv file daily with student&#39;s name and time of entry &rpar; using Python](https://www.reddit.com/r/Python/comments/vpwvj7/facial_recognition_attendance_system_recognize/)
 - [Logging in Python like a PRO](https://www.reddit.com/r/Python/comments/vpwf78/logging_in_python_like_a_pro/)
-- [Accessing networked drives using Python](https://www.reddit.com/r/Python/comments/vpvl36/accessing_networked_drives_using_python/)
 - [Python for Data Analysis, 3rd Edition – The Open Access Version Online](https://www.reddit.com/r/Python/comments/vpvdz6/python_for_data_analysis_3rd_edition_the_open/)
 - [Nuts and bolts of your dev process &lpar;folder structure, git, deployment, etc&rpar;](https://www.reddit.com/r/Python/comments/vpv91q/nuts_and_bolts_of_your_dev_process_folder/)
-- [How to deploy python backend on a VPS /w Nginx and gunicorn](https://www.reddit.com/r/Python/comments/vpurp0/how_to_deploy_python_backend_on_a_vps_w_nginx_and/)
 <!-- BLOG-POST-LIST:END -->
