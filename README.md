@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Football WhatsApp Notifier](https://www.reddit.com/r/Python/comments/vpo55h/football_whatsapp_notifier/)
+- [Example of a large python project implementing domain driven design](https://www.reddit.com/r/Python/comments/vpnu6k/example_of_a_large_python_project_implementing/)
 - [Import the story of python](https://www.reddit.com/r/Python/comments/vpm5mn/import_the_story_of_python/)
 - [what has more opportunity in AI research? pytorch or tensorflow?](https://www.reddit.com/r/Python/comments/vply69/what_has_more_opportunity_in_ai_research_pytorch/)
 - [open-source python library for making a web app that runs in the browser or inside a jupyter notebook, package is available on PyPI](https://www.reddit.com/r/Python/comments/vpizyd/opensource_python_library_for_making_a_web_app/)
-- [Hi I’m from Electrics background working in security field in recent times I have noticed few of the clients are asking for scripting experience in Powershell or Python I heard Python is easier than Powershell. Looking some training in Python scripting.](https://www.reddit.com/r/Python/comments/vpiup1/hi_im_from_electrics_background_working_in/)
-- [What are the best courses for data parsing in python that uses functional programming?](https://www.reddit.com/r/Python/comments/vpi983/what_are_the_best_courses_for_data_parsing_in/)
 <!-- BLOG-POST-LIST:END -->
