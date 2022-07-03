@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [easyclasses - Fast and lightweight alternative to dataclasses](https://www.reddit.com/r/Python/comments/vq90up/easyclasses_fast_and_lightweight_alternative_to/)
 - [Python3 script to complement bash scripts](https://www.reddit.com/r/Python/comments/vq84dh/python3_script_to_complement_bash_scripts/)
 - [I wrote a Python script to find good deals on Pokemon cards on eBay](https://www.reddit.com/r/Python/comments/vq66kn/i_wrote_a_python_script_to_find_good_deals_on/)
 - [Good places to start learning python?](https://www.reddit.com/r/Python/comments/vq5cqw/good_places_to_start_learning_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/vq4m4j/sunday_daily_thread_whats_everyone_working_on/)
-- [Essential Statistics Concepts for Data Science - Beginners](https://www.reddit.com/r/Python/comments/vq3pv0/essential_statistics_concepts_for_data_science/)
 <!-- BLOG-POST-LIST:END -->
