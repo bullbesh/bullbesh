@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Flask Elasticsearch - indexer command - Part 6 Tutorial](https://www.reddit.com/r/Python/comments/vqf5wh/python_flask_elasticsearch_indexer_command_part_6/)
 - [Appreciating Python&#39;s match-case by parsing Python code](https://www.reddit.com/r/Python/comments/vqdmvm/appreciating_pythons_matchcase_by_parsing_python/)
 - [easyclasses - Fast and lightweight alternative to dataclasses](https://www.reddit.com/r/Python/comments/vq90up/easyclasses_fast_and_lightweight_alternative_to/)
 - [Python3 script to complement bash scripts](https://www.reddit.com/r/Python/comments/vq84dh/python3_script_to_complement_bash_scripts/)
 - [I wrote a Python script to find good deals on Pokemon cards on eBay](https://www.reddit.com/r/Python/comments/vq66kn/i_wrote_a_python_script_to_find_good_deals_on/)
-- [Good places to start learning python?](https://www.reddit.com/r/Python/comments/vq5cqw/good_places_to_start_learning_python/)
 <!-- BLOG-POST-LIST:END -->
