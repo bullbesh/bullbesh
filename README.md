@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a Python script to find good deals on Pokemon cards on eBay](https://www.reddit.com/r/Python/comments/vq66kn/i_wrote_a_python_script_to_find_good_deals_on/)
+- [Good places to start learning python?](https://www.reddit.com/r/Python/comments/vq5cqw/good_places_to_start_learning_python/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/vq4m4j/sunday_daily_thread_whats_everyone_working_on/)
 - [Essential Statistics Concepts for Data Science - Beginners](https://www.reddit.com/r/Python/comments/vq3pv0/essential_statistics_concepts_for_data_science/)
 - [Programming Fundamentals using python](https://www.reddit.com/r/Python/comments/vq0fc2/programming_fundamentals_using_python/)
-- [Headings in Jupyter Notebook](https://www.reddit.com/r/Python/comments/vq0al9/headings_in_jupyter_notebook/)
-- [AI2 Introduces Tango, A Python Library For Choreographing Machine Learning Research Experiments By Executing A Series Of Steps](https://www.reddit.com/r/Python/comments/vpxbsm/ai2_introduces_tango_a_python_library_for/)
-- [Logging in Python like a PRO](https://www.reddit.com/r/Python/comments/vpwf78/logging_in_python_like_a_pro/)
 <!-- BLOG-POST-LIST:END -->
