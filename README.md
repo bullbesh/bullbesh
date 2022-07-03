@@ -8,8 +8,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [💫 An easy way to deploy Python scripts](https://www.reddit.com/r/Python/comments/vqq8cc/an_easy_way_to_deploy_python_scripts/)
 - [more-itertools: More routines for operating on iterables, beyond itertools](https://www.reddit.com/r/Python/comments/vqpxzj/moreitertools_more_routines_for_operating_on/)
-- [New Starter in Python as a part time](https://www.reddit.com/r/Python/comments/vqo9il/new_starter_in_python_as_a_part_time/)
 - [Use shutil type commands on mapped network drives. Or possibly unmapped. It is an enigma.](https://www.reddit.com/r/Python/comments/vqlujc/use_shutil_type_commands_on_mapped_network_drives/)
 - [Require input of a python usages for my project](https://www.reddit.com/r/Python/comments/vqlol6/require_input_of_a_python_usages_for_my_project/)
 - [What to actually send to freelance jobs?](https://www.reddit.com/r/Python/comments/vqk8st/what_to_actually_send_to_freelance_jobs/)
