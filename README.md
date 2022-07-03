@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What to actually send to freelance jobs?](https://www.reddit.com/r/Python/comments/vqk8st/what_to_actually_send_to_freelance_jobs/)
+- [Flask like web framework under 100 lines of code](https://www.reddit.com/r/Python/comments/vqjy5d/flask_like_web_framework_under_100_lines_of_code/)
 - [Red Engine 2.0: Insanely powerful framework for scheduling](https://www.reddit.com/r/Python/comments/vqip68/red_engine_20_insanely_powerful_framework_for/)
 - [Debugging Python programs without an IDE](https://www.reddit.com/r/Python/comments/vqinly/debugging_python_programs_without_an_ide/)
 - [Recreating this Fed Logistic Regression Model for predicting Recessions](https://www.reddit.com/r/Python/comments/vqifss/recreating_this_fed_logistic_regression_model_for/)
-- [Making money wth python as fast as possible. Can you show me the ways?](https://www.reddit.com/r/Python/comments/vqgnqm/making_money_wth_python_as_fast_as_possible_can/)
-- [New Anvil tutorial, 150+ pages, with 220 screenshots, and 25 app examples](https://www.reddit.com/r/Python/comments/vqgkuj/new_anvil_tutorial_150_pages_with_220_screenshots/)
 <!-- BLOG-POST-LIST:END -->
