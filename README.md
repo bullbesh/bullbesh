@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it possible to change my account passwords through python?](https://www.reddit.com/r/Python/comments/vqbi07/is_it_possible_to_change_my_account_passwords/)
 - [easyclasses - Fast and lightweight alternative to dataclasses](https://www.reddit.com/r/Python/comments/vq90up/easyclasses_fast_and_lightweight_alternative_to/)
 - [Python3 script to complement bash scripts](https://www.reddit.com/r/Python/comments/vq84dh/python3_script_to_complement_bash_scripts/)
 - [I wrote a Python script to find good deals on Pokemon cards on eBay](https://www.reddit.com/r/Python/comments/vq66kn/i_wrote_a_python_script_to_find_good_deals_on/)
 - [Good places to start learning python?](https://www.reddit.com/r/Python/comments/vq5cqw/good_places_to_start_learning_python/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/vq4m4j/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
