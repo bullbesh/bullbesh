@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TikTok account helping people to learn Python:](https://www.reddit.com/r/Python/comments/vqt0tp/tiktok_account_helping_people_to_learn_python/)
+- [any good tutorial to learn starlette package](https://www.reddit.com/r/Python/comments/vqt0rh/any_good_tutorial_to_learn_starlette_package/)
+- [python using date ranges](https://www.reddit.com/r/Python/comments/vqsxpx/python_using_date_ranges/)
 - [💫 An easy way to deploy Python scripts](https://www.reddit.com/r/Python/comments/vqq8cc/an_easy_way_to_deploy_python_scripts/)
 - [more-itertools: More routines for operating on iterables, beyond itertools](https://www.reddit.com/r/Python/comments/vqpxzj/moreitertools_more_routines_for_operating_on/)
-- [Use shutil type commands on mapped network drives. Or possibly unmapped. It is an enigma.](https://www.reddit.com/r/Python/comments/vqlujc/use_shutil_type_commands_on_mapped_network_drives/)
-- [Require input of a python usages for my project](https://www.reddit.com/r/Python/comments/vqlol6/require_input_of_a_python_usages_for_my_project/)
-- [What to actually send to freelance jobs?](https://www.reddit.com/r/Python/comments/vqk8st/what_to_actually_send_to_freelance_jobs/)
 <!-- BLOG-POST-LIST:END -->
