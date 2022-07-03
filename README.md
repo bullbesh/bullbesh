@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Red Engine 2.0: Insanely powerful framework for scheduling](https://www.reddit.com/r/Python/comments/vqip68/red_engine_20_insanely_powerful_framework_for/)
+- [Debugging Python programs without an IDE](https://www.reddit.com/r/Python/comments/vqinly/debugging_python_programs_without_an_ide/)
 - [Recreating this Fed Logistic Regression Model for predicting Recessions](https://www.reddit.com/r/Python/comments/vqifss/recreating_this_fed_logistic_regression_model_for/)
 - [Making money wth python as fast as possible. Can you show me the ways?](https://www.reddit.com/r/Python/comments/vqgnqm/making_money_wth_python_as_fast_as_possible_can/)
 - [New Anvil tutorial, 150+ pages, with 220 screenshots, and 25 app examples](https://www.reddit.com/r/Python/comments/vqgkuj/new_anvil_tutorial_150_pages_with_220_screenshots/)
-- [Please tell me](https://www.reddit.com/r/Python/comments/vqflmu/please_tell_me/)
-- [Python Flask Elasticsearch - indexer command - Part 6 Tutorial](https://www.reddit.com/r/Python/comments/vqf5wh/python_flask_elasticsearch_indexer_command_part_6/)
 <!-- BLOG-POST-LIST:END -->
