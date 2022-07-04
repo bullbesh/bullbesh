@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Extract Text From Pdf File Using Python || pyMuPdf](https://www.reddit.com/r/Python/comments/vr7oc5/extract_text_from_pdf_file_using_python_pymupdf/)
+- [Django and Basic AJAX with Fetch API](https://www.reddit.com/r/Python/comments/vr7d7a/django_and_basic_ajax_with_fetch_api/)
+- [Creating global functions and your own dunder methods](https://www.reddit.com/r/Python/comments/vr6zha/creating_global_functions_and_your_own_dunder/)
+- [Should You Use AsyncIO for Your Next Python Web Application? | LAAC Technology](https://www.reddit.com/r/Python/comments/vr6xic/should_you_use_asyncio_for_your_next_python_web/)
 - [Simple Object Recognition API with FastAPI for mobile Game](https://www.reddit.com/r/Python/comments/vr65z2/simple_object_recognition_api_with_fastapi_for/)
-- [Ultipy Version 1.3](https://www.reddit.com/r/Python/comments/vr60y1/ultipy_version_13/)
-- [Generate webpage summary images with DALL-E mini](https://www.reddit.com/r/Python/comments/vr5rjj/generate_webpage_summary_images_with_dalle_mini/)
-- [sympy and partial differentiation equations](https://www.reddit.com/r/Python/comments/vr5n9f/sympy_and_partial_differentiation_equations/)
-- [Whisker Plot](https://www.reddit.com/r/Python/comments/vr5jlw/whisker_plot/)
 <!-- BLOG-POST-LIST:END -->
