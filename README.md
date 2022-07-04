@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to measure whether your ML model is worth putting in production](https://www.reddit.com/r/Python/comments/vqwha1/how_to_measure_whether_your_ml_model_is_worth/)
+- [Let&#39;s connect on GitHub :&rpar;](https://www.reddit.com/r/Python/comments/vqvlit/lets_connect_on_github/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/vqugtb/monday_daily_thread_project_ideas/)
 - [TikTok account helping people to learn Python:](https://www.reddit.com/r/Python/comments/vqt0tp/tiktok_account_helping_people_to_learn_python/)
 - [any good tutorial to learn starlette package](https://www.reddit.com/r/Python/comments/vqt0rh/any_good_tutorial_to_learn_starlette_package/)
-- [python using date ranges](https://www.reddit.com/r/Python/comments/vqsxpx/python_using_date_ranges/)
-- [💫 An easy way to deploy Python scripts](https://www.reddit.com/r/Python/comments/vqq8cc/an_easy_way_to_deploy_python_scripts/)
-- [more-itertools: More routines for operating on iterables, beyond itertools](https://www.reddit.com/r/Python/comments/vqpxzj/moreitertools_more_routines_for_operating_on/)
 <!-- BLOG-POST-LIST:END -->
