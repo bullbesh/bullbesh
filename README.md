@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [text in news webpage &lpar;slashdot&rpar;! Scrapy?](https://www.reddit.com/r/Python/comments/vr51o8/text_in_news_webpage_slashdot_scrapy/)
-- [Hackerrank: my output has matched to expected output but not correct.. plz solve.](https://www.reddit.com/r/Python/comments/vr4lpo/hackerrank_my_output_has_matched_to_expected/)
-- [Starlite is looking for contributors and maintainers](https://www.reddit.com/r/Python/comments/vr4f3d/starlite_is_looking_for_contributors_and/)
-- [Why Should You Choose Python for Machine Learning?](https://www.reddit.com/r/Python/comments/vr3bhm/why_should_you_choose_python_for_machine_learning/)
-- [The PyCon Italia 2022 multiplicity](https://www.reddit.com/r/Python/comments/vr26r6/the_pycon_italia_2022_multiplicity/)
+- [Simple Object Recognition API with FastAPI for mobile Game](https://www.reddit.com/r/Python/comments/vr65z2/simple_object_recognition_api_with_fastapi_for/)
+- [Ultipy Version 1.3](https://www.reddit.com/r/Python/comments/vr60y1/ultipy_version_13/)
+- [Generate webpage summary images with DALL-E mini](https://www.reddit.com/r/Python/comments/vr5rjj/generate_webpage_summary_images_with_dalle_mini/)
+- [sympy and partial differentiation equations](https://www.reddit.com/r/Python/comments/vr5n9f/sympy_and_partial_differentiation_equations/)
+- [Whisker Plot](https://www.reddit.com/r/Python/comments/vr5jlw/whisker_plot/)
 <!-- BLOG-POST-LIST:END -->
