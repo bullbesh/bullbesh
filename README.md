@@ -8,8 +8,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to measure whether your ML model is worth putting in production](https://www.reddit.com/r/Python/comments/vqwha1/how_to_measure_whether_your_ml_model_is_worth/)
-- [Let&#39;s connect on GitHub :&rpar;](https://www.reddit.com/r/Python/comments/vqvlit/lets_connect_on_github/)
+- [01 Python for Beginners - What and Why](https://www.reddit.com/r/Python/comments/vqycfe/01_python_for_beginners_what_and_why/)
+- [Animation I made with python &amp; curses](https://www.reddit.com/r/Python/comments/vqx6km/animation_i_made_with_python_curses/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/vqugtb/monday_daily_thread_project_ideas/)
 - [TikTok account helping people to learn Python:](https://www.reddit.com/r/Python/comments/vqt0tp/tiktok_account_helping_people_to_learn_python/)
 - [any good tutorial to learn starlette package](https://www.reddit.com/r/Python/comments/vqt0rh/any_good_tutorial_to_learn_starlette_package/)
