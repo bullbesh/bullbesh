@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Get mobile app source code encrypted by IBM MobileFirst](https://www.reddit.com/r/Python/comments/vradlc/get_mobile_app_source_code_encrypted_by_ibm/)
 - [these python made reels are flooding youtube...](https://www.reddit.com/r/Python/comments/vr9g0a/these_python_made_reels_are_flooding_youtube/)
 - [buggy: CLI tool to report bugs in Python packages](https://www.reddit.com/r/Python/comments/vr9dcm/buggy_cli_tool_to_report_bugs_in_python_packages/)
 - [I made a Dragon Curve in Python](https://www.reddit.com/r/Python/comments/vr9d2g/i_made_a_dragon_curve_in_python/)
 - [python](https://www.reddit.com/r/Python/comments/vr8lps/python/)
-- [Extract Text From Pdf File Using Python || pyMuPdf](https://www.reddit.com/r/Python/comments/vr7oc5/extract_text_from_pdf_file_using_python_pymupdf/)
 <!-- BLOG-POST-LIST:END -->
