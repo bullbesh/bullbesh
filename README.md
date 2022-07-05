@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The BEST way to obfuscate Python in 2022](https://www.reddit.com/r/Python/comments/vrv41r/the_best_way_to_obfuscate_python_in_2022/)
 - [Python Interview Task - Create a prototype of #RESTAPI that generates a list of secure passwords](https://www.reddit.com/r/Python/comments/vru8hf/python_interview_task_create_a_prototype_of/)
 - [I made a Similar Tweet Finder using tweepy](https://www.reddit.com/r/Python/comments/vrtskp/i_made_a_similar_tweet_finder_using_tweepy/)
 - [10 Things Every Programmer Should Know](https://www.reddit.com/r/Python/comments/vrtk6i/10_things_every_programmer_should_know/)
 - [Is it bad practice not to deactivate a virtual environment before closing the command console?](https://www.reddit.com/r/Python/comments/vrsxlm/is_it_bad_practice_not_to_deactivate_a_virtual/)
-- [GitHub - microsoft/picologging: An optimized logging library for Python](https://www.reddit.com/r/Python/comments/vrrb0t/github_microsoftpicologging_an_optimized_logging/)
 <!-- BLOG-POST-LIST:END -->
