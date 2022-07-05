@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Faster Django Queries with Materialised Views](https://www.reddit.com/r/Python/comments/vrywfh/faster_django_queries_with_materialised_views/)
+- [WebRTC with Python and React: Building a Video Chat Application](https://www.reddit.com/r/Python/comments/vryols/webrtc_with_python_and_react_building_a_video/)
 - [Python 3.11 Preview: TOML and tomllib – Real Python](https://www.reddit.com/r/Python/comments/vrwndg/python_311_preview_toml_and_tomllib_real_python/)
 - [PyScript - Opinions](https://www.reddit.com/r/Python/comments/vrwfs7/pyscript_opinions/)
 - [The BEST way to obfuscate Python in 2022](https://www.reddit.com/r/Python/comments/vrv41r/the_best_way_to_obfuscate_python_in_2022/)
-- [Python Interview Task - Create a prototype of #RESTAPI that generates a list of secure passwords](https://www.reddit.com/r/Python/comments/vru8hf/python_interview_task_create_a_prototype_of/)
-- [I made a Similar Tweet Finder using tweepy](https://www.reddit.com/r/Python/comments/vrtskp/i_made_a_similar_tweet_finder_using_tweepy/)
 <!-- BLOG-POST-LIST:END -->
