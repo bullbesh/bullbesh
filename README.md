@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Time Series Forecasting in Python with XGBoost](https://www.reddit.com/r/Python/comments/vs0e4b/time_series_forecasting_in_python_with_xgboost/)
+- [Hiring - Founding Engineer from Europe](https://www.reddit.com/r/Python/comments/vrzzws/hiring_founding_engineer_from_europe/)
+- [Rebuilding of each actual amd64 Official Python docker image with the Poetry inside](https://www.reddit.com/r/Python/comments/vrzypt/rebuilding_of_each_actual_amd64_official_python/)
+- [How do you hire junior Python developers?](https://www.reddit.com/r/Python/comments/vrzap8/how_do_you_hire_junior_python_developers/)
 - [Faster Django Queries with Materialised Views](https://www.reddit.com/r/Python/comments/vrywfh/faster_django_queries_with_materialised_views/)
-- [WebRTC with Python and React: Building a Video Chat Application](https://www.reddit.com/r/Python/comments/vryols/webrtc_with_python_and_react_building_a_video/)
-- [Python 3.11 Preview: TOML and tomllib – Real Python](https://www.reddit.com/r/Python/comments/vrwndg/python_311_preview_toml_and_tomllib_real_python/)
-- [PyScript - Opinions](https://www.reddit.com/r/Python/comments/vrwfs7/pyscript_opinions/)
-- [The BEST way to obfuscate Python in 2022](https://www.reddit.com/r/Python/comments/vrv41r/the_best_way_to_obfuscate_python_in_2022/)
 <!-- BLOG-POST-LIST:END -->
