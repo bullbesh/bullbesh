@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hola Developers, is here anybody able to read and edit codes regarding algorithmic trading? If Yes I’m looking for a little hand to improve an algorithm just made. I just would fit 2 more conditions but I’m having some trouble to make these changes. Thanks in advance](https://www.reddit.com/r/Python/comments/vs9wii/hola_developers_is_here_anybody_able_to_read_and/)
 - [I have just created a new pip package](https://www.reddit.com/r/Python/comments/vs5o3y/i_have_just_created_a_new_pip_package/)
 - [Cleaning and analyzing a real-world dataset &lpar;~2k hospital chargemasters&rpar; in Python with polars](https://www.reddit.com/r/Python/comments/vs2c4p/cleaning_and_analyzing_a_realworld_dataset_2k/)
 - [First python project: A CLI inventory tracker. Let me know what you think or any improvements, mistakes, etc., you see.](https://www.reddit.com/r/Python/comments/vs1mgq/first_python_project_a_cli_inventory_tracker_let/)
 - [YouBit - Host any file on YouTube for free](https://www.reddit.com/r/Python/comments/vs10d1/youbit_host_any_file_on_youtube_for_free/)
-- [I built A command-line tool that converts YouTube videos into Anchor FM podcasts](https://www.reddit.com/r/Python/comments/vs0wn5/i_built_a_commandline_tool_that_converts_youtube/)
 <!-- BLOG-POST-LIST:END -->
