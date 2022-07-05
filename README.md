@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it bad practice not to deactivate a virtual environment before closing the command console?](https://www.reddit.com/r/Python/comments/vrsxlm/is_it_bad_practice_not_to_deactivate_a_virtual/)
 - [GitHub - microsoft/picologging: An optimized logging library for Python](https://www.reddit.com/r/Python/comments/vrrb0t/github_microsoftpicologging_an_optimized_logging/)
 - [I made a MIDI To Thirty Dollar Website Converter](https://www.reddit.com/r/Python/comments/vrpgnp/i_made_a_midi_to_thirty_dollar_website_converter/)
 - [First Day; First Program](https://www.reddit.com/r/Python/comments/vrog5i/first_day_first_program/)
 - [Flask Contact form - Get Email](https://www.reddit.com/r/Python/comments/vrneye/flask_contact_form_get_email/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/vrkv3k/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
