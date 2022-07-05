@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Time Series Forecasting in Python with XGBoost](https://www.reddit.com/r/Python/comments/vs0e4b/time_series_forecasting_in_python_with_xgboost/)
-- [Hiring - Founding Engineer from Europe](https://www.reddit.com/r/Python/comments/vrzzws/hiring_founding_engineer_from_europe/)
-- [Rebuilding of each actual amd64 Official Python docker image with the Poetry inside](https://www.reddit.com/r/Python/comments/vrzypt/rebuilding_of_each_actual_amd64_official_python/)
-- [How do you hire junior Python developers?](https://www.reddit.com/r/Python/comments/vrzap8/how_do_you_hire_junior_python_developers/)
-- [Faster Django Queries with Materialised Views](https://www.reddit.com/r/Python/comments/vrywfh/faster_django_queries_with_materialised_views/)
+- [First python project: A CLI inventory tracker. Let me know what you think or any improvements, mistakes, etc., you see.](https://www.reddit.com/r/Python/comments/vs1mgq/first_python_project_a_cli_inventory_tracker_let/)
+- [Looking for WYSIWYG style GUI development interface](https://www.reddit.com/r/Python/comments/vs1dxm/looking_for_wysiwyg_style_gui_development/)
+- [YouBit - Host any file on YouTube for free](https://www.reddit.com/r/Python/comments/vs10d1/youbit_host_any_file_on_youtube_for_free/)
+- [I built A command-line tool that converts YouTube videos into Anchor FM podcasts](https://www.reddit.com/r/Python/comments/vs0wn5/i_built_a_commandline_tool_that_converts_youtube/)
+- [Pretty Jupyter: Simple package for beautiful &amp; dynamic reports](https://www.reddit.com/r/Python/comments/vs0u46/pretty_jupyter_simple_package_for_beautiful/)
 <!-- BLOG-POST-LIST:END -->
