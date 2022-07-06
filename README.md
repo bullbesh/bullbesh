@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Random function](https://www.reddit.com/r/Python/comments/vsgsac/random_function/)
+- [If you&#39;re new to machine learning and want to learn more, I recently made a video on the implementation of the Decision Tree Classifier in Python! Hopefully this can help some of y&#39;all out, let me know if you have any feedback/suggestions. Have a good day!](https://www.reddit.com/r/Python/comments/vsfptp/if_youre_new_to_machine_learning_and_want_to/)
+- [GitHub - ShawnDriscoll/Graphical-Dice-Roll-Results](https://www.reddit.com/r/Python/comments/vsfhrx/github_shawndriscollgraphicaldicerollresults/)
+- [Should I refrain from mostly using Jupyter notebooks for getting into Python for data science?](https://www.reddit.com/r/Python/comments/vsf4b4/should_i_refrain_from_mostly_using_jupyter/)
 - [Awesome-Repo-Template: A awesome repo template to kick-start your next project / repo](https://www.reddit.com/r/Python/comments/vsedmr/awesomerepotemplate_a_awesome_repo_template_to/)
-- [FastAPI with dynamoDB setup](https://www.reddit.com/r/Python/comments/vse9h0/fastapi_with_dynamodb_setup/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/vsc2cv/wednesday_daily_thread_beginner_questions/)
-- [I have just created a new pip package](https://www.reddit.com/r/Python/comments/vs5o3y/i_have_just_created_a_new_pip_package/)
-- [Cleaning and analyzing a real-world dataset &lpar;~2k hospital chargemasters&rpar; in Python with polars](https://www.reddit.com/r/Python/comments/vs2c4p/cleaning_and_analyzing_a_realworld_dataset_2k/)
 <!-- BLOG-POST-LIST:END -->
