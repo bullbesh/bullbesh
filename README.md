@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Time series forecasting libraries: Prophet, Merlion, Kats or sktime?](https://www.reddit.com/r/Python/comments/vsmao6/time_series_forecasting_libraries_prophet_merlion/)
-- [Supabase-py demo in Replit](https://www.reddit.com/r/Python/comments/vslxq2/supabasepy_demo_in_replit/)
-- [Is it worth learning R for ML?](https://www.reddit.com/r/Python/comments/vslrk3/is_it_worth_learning_r_for_ml/)
-- [Showcase: extract the version number from the directory name or a string](https://www.reddit.com/r/Python/comments/vsl5fq/showcase_extract_the_version_number_from_the/)
-- [A guide on how to build a secure WebSocket server in Python on the Snyk blog](https://www.reddit.com/r/Python/comments/vskwou/a_guide_on_how_to_build_a_secure_websocket_server/)
+- [I created my first app called Glorious Proton Manager to help users manage their Linux GE-Proton installations. Check it out!](https://www.reddit.com/r/Python/comments/vsp2ja/i_created_my_first_app_called_glorious_proton/)
+- [A hidden but useful python library](https://www.reddit.com/r/Python/comments/vsp1o9/a_hidden_but_useful_python_library/)
+- [A hidden but useful python library](https://www.reddit.com/r/Python/comments/vsp1et/a_hidden_but_useful_python_library/)
+- [where can i get commissions?](https://www.reddit.com/r/Python/comments/vsow71/where_can_i_get_commissions/)
+- [cricket API](https://www.reddit.com/r/Python/comments/vsor3q/cricket_api/)
 <!-- BLOG-POST-LIST:END -->
