@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made a FizzBuzz Generator](https://www.reddit.com/r/Python/comments/vsptov/made_a_fizzbuzz_generator/)
+- [Detectron2 STMDA-RetinaNet](https://www.reddit.com/r/Python/comments/vspnvk/detectron2_stmdaretinanet/)
+- [Quart is now a Pallets project](https://www.reddit.com/r/Python/comments/vspfcw/quart_is_now_a_pallets_project/)
 - [I created my first app called Glorious Proton Manager to help users manage their Linux GE-Proton installations. Check it out!](https://www.reddit.com/r/Python/comments/vsp2ja/i_created_my_first_app_called_glorious_proton/)
 - [A hidden but useful python library](https://www.reddit.com/r/Python/comments/vsp1o9/a_hidden_but_useful_python_library/)
-- [A hidden but useful python library](https://www.reddit.com/r/Python/comments/vsp1et/a_hidden_but_useful_python_library/)
-- [where can i get commissions?](https://www.reddit.com/r/Python/comments/vsow71/where_can_i_get_commissions/)
-- [cricket API](https://www.reddit.com/r/Python/comments/vsor3q/cricket_api/)
 <!-- BLOG-POST-LIST:END -->
