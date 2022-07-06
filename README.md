@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Baccarat Strategy Profitability / Risk of Ruin Checker](https://www.reddit.com/r/Python/comments/vsyz1h/baccarat_strategy_profitability_risk_of_ruin/)
+- [Benchmarks of Python 3.11 vs Python 3.10](https://www.reddit.com/r/Python/comments/vsy41f/benchmarks_of_python_311_vs_python_310/)
 - [Simulating demographics of the city builder game Banished](https://www.reddit.com/r/Python/comments/vsw5sq/simulating_demographics_of_the_city_builder_game/)
 - [I started using OOP to make a mini-relational database framework and it turned into a Wordle game for the console](https://www.reddit.com/r/Python/comments/vsvxj2/i_started_using_oop_to_make_a_minirelational/)
 - [GitHub - gradio-app / gradio : Create UIs for your machine learning model in Python in 3 minutes](https://www.reddit.com/r/Python/comments/vsvgem/github_gradioapp_gradio_create_uis_for_your/)
-- [How to Share API Changes with Your Team](https://www.reddit.com/r/Python/comments/vsv7qh/how_to_share_api_changes_with_your_team/)
-- [10 Best and Essential Python Tools for Data Science in 2022](https://www.reddit.com/r/Python/comments/vsuc8o/10_best_and_essential_python_tools_for_data/)
 <!-- BLOG-POST-LIST:END -->
