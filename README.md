@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hola Developers, is here anybody able to read and edit codes regarding algorithmic trading? If Yes I’m looking for a little hand to improve an algorithm just made. I just would fit 2 more conditions but I’m having some trouble to make these changes. Thanks in advance](https://www.reddit.com/r/Python/comments/vs9wii/hola_developers_is_here_anybody_able_to_read_and/)
+- [Awesome-Repo-Template: A awesome repo template to kick-start your next project / repo](https://www.reddit.com/r/Python/comments/vsedmr/awesomerepotemplate_a_awesome_repo_template_to/)
+- [FastAPI with dynamoDB setup](https://www.reddit.com/r/Python/comments/vse9h0/fastapi_with_dynamodb_setup/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/vsc2cv/wednesday_daily_thread_beginner_questions/)
 - [I have just created a new pip package](https://www.reddit.com/r/Python/comments/vs5o3y/i_have_just_created_a_new_pip_package/)
 - [Cleaning and analyzing a real-world dataset &lpar;~2k hospital chargemasters&rpar; in Python with polars](https://www.reddit.com/r/Python/comments/vs2c4p/cleaning_and_analyzing_a_realworld_dataset_2k/)
-- [First python project: A CLI inventory tracker. Let me know what you think or any improvements, mistakes, etc., you see.](https://www.reddit.com/r/Python/comments/vs1mgq/first_python_project_a_cli_inventory_tracker_let/)
-- [YouBit - Host any file on YouTube for free](https://www.reddit.com/r/Python/comments/vs10d1/youbit_host_any_file_on_youtube_for_free/)
 <!-- BLOG-POST-LIST:END -->
