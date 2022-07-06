@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is it hard to learn to program for free in 2022? With all the free content and resources what is missing making it hard to get entry-level programming skills.](https://www.reddit.com/r/Python/comments/vsqeig/why_is_it_hard_to_learn_to_program_for_free_in/)
 - [Made a FizzBuzz Generator](https://www.reddit.com/r/Python/comments/vsptov/made_a_fizzbuzz_generator/)
 - [Detectron2 STMDA-RetinaNet](https://www.reddit.com/r/Python/comments/vspnvk/detectron2_stmdaretinanet/)
 - [Quart is now a Pallets project](https://www.reddit.com/r/Python/comments/vspfcw/quart_is_now_a_pallets_project/)
 - [I created my first app called Glorious Proton Manager to help users manage their Linux GE-Proton installations. Check it out!](https://www.reddit.com/r/Python/comments/vsp2ja/i_created_my_first_app_called_glorious_proton/)
-- [A hidden but useful python library](https://www.reddit.com/r/Python/comments/vsp1o9/a_hidden_but_useful_python_library/)
 <!-- BLOG-POST-LIST:END -->
