@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Released a python client for the setlist.fm API today!](https://www.reddit.com/r/Python/comments/vt12es/released_a_python_client_for_the_setlistfm_api/)
 - [Baccarat Strategy Profitability / Risk of Ruin Checker](https://www.reddit.com/r/Python/comments/vsyz1h/baccarat_strategy_profitability_risk_of_ruin/)
 - [Benchmarks of Python 3.11 vs Python 3.10](https://www.reddit.com/r/Python/comments/vsy41f/benchmarks_of_python_311_vs_python_310/)
 - [Simulating demographics of the city builder game Banished](https://www.reddit.com/r/Python/comments/vsw5sq/simulating_demographics_of_the_city_builder_game/)
 - [I started using OOP to make a mini-relational database framework and it turned into a Wordle game for the console](https://www.reddit.com/r/Python/comments/vsvxj2/i_started_using_oop_to_make_a_minirelational/)
-- [GitHub - gradio-app / gradio : Create UIs for your machine learning model in Python in 3 minutes](https://www.reddit.com/r/Python/comments/vsvgem/github_gradioapp_gradio_create_uis_for_your/)
 <!-- BLOG-POST-LIST:END -->
