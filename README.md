@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Share API Changes with Your Team](https://www.reddit.com/r/Python/comments/vsv7qh/how_to_share_api_changes_with_your_team/)
+- [10 Best and Essential Python Tools for Data Science in 2022](https://www.reddit.com/r/Python/comments/vsuc8o/10_best_and_essential_python_tools_for_data/)
+- [RemoteShell using sockets](https://www.reddit.com/r/Python/comments/vsua93/remoteshell_using_sockets/)
 - [Build a Password Storage app with Django Part I](https://www.reddit.com/r/Python/comments/vssz7j/build_a_password_storage_app_with_django_part_i/)
 - [I Sold My First API Subscription Made With FastAPI!](https://www.reddit.com/r/Python/comments/vsrz4f/i_sold_my_first_api_subscription_made_with_fastapi/)
-- [Access dictionary value based on matching key and list](https://www.reddit.com/r/Python/comments/vsrva7/access_dictionary_value_based_on_matching_key_and/)
-- [Quart is now a Pallets project](https://www.reddit.com/r/Python/comments/vsrsd4/quart_is_now_a_pallets_project/)
-- [Made a FizzBuzz Generator](https://www.reddit.com/r/Python/comments/vsptov/made_a_fizzbuzz_generator/)
 <!-- BLOG-POST-LIST:END -->
