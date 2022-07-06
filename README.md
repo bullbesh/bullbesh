@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A guide on how to build a secure WebSocket server in Python on the Snyk blog](https://www.reddit.com/r/Python/comments/vskwou/a_guide_on_how_to_build_a_secure_websocket_server/)
+- [mini_code: Python expert tips videos &lt;30 seconds long, new videos daily](https://www.reddit.com/r/Python/comments/vskps4/mini_code_python_expert_tips_videos_30_seconds/)
 - [PyCardFinder - A cross-platform tool for searching filesystems for credit card information written in Python](https://www.reddit.com/r/Python/comments/vsjwam/pycardfinder_a_crossplatform_tool_for_searching/)
 - [GitHub - jpsca/tcom: Server-Side Components with Jinja](https://www.reddit.com/r/Python/comments/vsj19e/github_jpscatcom_serverside_components_with_jinja/)
 - [Using sigstore-python to sign and verify your software release](https://www.reddit.com/r/Python/comments/vsiu0x/using_sigstorepython_to_sign_and_verify_your/)
-- [&#39;Flight Fighters&#39; Pygame 2D Top-Down Game](https://www.reddit.com/r/Python/comments/vshiev/flight_fighters_pygame_2d_topdown_game/)
-- [Random function](https://www.reddit.com/r/Python/comments/vsgsac/random_function/)
 <!-- BLOG-POST-LIST:END -->
