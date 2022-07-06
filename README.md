@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Flight Fighters&#39; Pygame 2D Top-Down Game](https://www.reddit.com/r/Python/comments/vshiev/flight_fighters_pygame_2d_topdown_game/)
+- [Any partner to work together on a possible crowdfunding campaign with great potential?](https://www.reddit.com/r/Python/comments/vsh3pp/any_partner_to_work_together_on_a_possible/)
 - [Random function](https://www.reddit.com/r/Python/comments/vsgsac/random_function/)
 - [If you&#39;re new to machine learning and want to learn more, I recently made a video on the implementation of the Decision Tree Classifier in Python! Hopefully this can help some of y&#39;all out, let me know if you have any feedback/suggestions. Have a good day!](https://www.reddit.com/r/Python/comments/vsfptp/if_youre_new_to_machine_learning_and_want_to/)
 - [GitHub - ShawnDriscoll/Graphical-Dice-Roll-Results](https://www.reddit.com/r/Python/comments/vsfhrx/github_shawndriscollgraphicaldicerollresults/)
-- [Should I refrain from mostly using Jupyter notebooks for getting into Python for data science?](https://www.reddit.com/r/Python/comments/vsf4b4/should_i_refrain_from_mostly_using_jupyter/)
-- [Awesome-Repo-Template: A awesome repo template to kick-start your next project / repo](https://www.reddit.com/r/Python/comments/vsedmr/awesomerepotemplate_a_awesome_repo_template_to/)
 <!-- BLOG-POST-LIST:END -->
