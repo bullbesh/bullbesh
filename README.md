@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [remarketednl-refurbished iPhones, Smartphones and Laptops](https://www.reddit.com/r/Python/comments/vtb26u/remarketednlrefurbished_iphones_smartphones_and/)
 - [Short Python Automation Tutorials](https://www.reddit.com/r/Python/comments/vtad1u/short_python_automation_tutorials/)
-- [Bridgett Moore questions](https://www.reddit.com/r/Python/comments/vt8v6z/bridgett_moore_questions/)
 - [Roulette Black and Red](https://www.reddit.com/r/Python/comments/vt8h7t/roulette_black_and_red/)
-- [I Coded A Snake Game, But Every Time I Grow The Video Gets Slower And Louder!](https://www.reddit.com/r/Python/comments/vt7vi4/i_coded_a_snake_game_but_every_time_i_grow_the/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/vt4i5k/thursday_daily_thread_python_careers_courses_and/)
+- [Released a python client for the setlist.fm API today!](https://www.reddit.com/r/Python/comments/vt12es/released_a_python_client_for_the_setlistfm_api/)
+- [Baccarat Strategy Profitability / Risk of Ruin Checker](https://www.reddit.com/r/Python/comments/vsyz1h/baccarat_strategy_profitability_risk_of_ruin/)
 <!-- BLOG-POST-LIST:END -->
