@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [remarketednl-refurbished iPhones, Smartphones and Laptops](https://www.reddit.com/r/Python/comments/vtb26u/remarketednlrefurbished_iphones_smartphones_and/)
 - [Short Python Automation Tutorials](https://www.reddit.com/r/Python/comments/vtad1u/short_python_automation_tutorials/)
 - [Bridgett Moore questions](https://www.reddit.com/r/Python/comments/vt8v6z/bridgett_moore_questions/)
 - [Roulette Black and Red](https://www.reddit.com/r/Python/comments/vt8h7t/roulette_black_and_red/)
 - [I Coded A Snake Game, But Every Time I Grow The Video Gets Slower And Louder!](https://www.reddit.com/r/Python/comments/vt7vi4/i_coded_a_snake_game_but_every_time_i_grow_the/)
-- [See Python Runtime Errors in VSCode?](https://www.reddit.com/r/Python/comments/vt606z/see_python_runtime_errors_in_vscode/)
 <!-- BLOG-POST-LIST:END -->
