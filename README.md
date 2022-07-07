@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [zipfile - Read And Write ZIP Files Without Extracting It In Python](https://www.reddit.com/r/Python/comments/vtm9vn/zipfile_read_and_write_zip_files_without/)
 - [I built a Python newsletter using AWS and Python!](https://www.reddit.com/r/Python/comments/vtkvry/i_built_a_python_newsletter_using_aws_and_python/)
 - [Me thinking I am a damn genius figuring out how to swap to strings. 🌞 BTW I am a beginner in learning python. I watch CS dojo and this is a quiz given by him.](https://www.reddit.com/r/Python/comments/vtkblx/me_thinking_i_am_a_damn_genius_figuring_out_how/)
 - [Hi guys. I have few questions.](https://www.reddit.com/r/Python/comments/vtk666/hi_guys_i_have_few_questions/)
 - [Invalid Syntax?](https://www.reddit.com/r/Python/comments/vtk128/invalid_syntax/)
-- [Neuraliqa is out now!](https://www.reddit.com/r/Python/comments/vtjzwr/neuraliqa_is_out_now/)
 <!-- BLOG-POST-LIST:END -->
