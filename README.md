@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - tonybaloney/rich-bench: A little benchmarking tool for Python](https://www.reddit.com/r/Python/comments/vthu8b/github_tonybaloneyrichbench_a_little_benchmarking/)
 - [Organize Python code like a PRO](https://www.reddit.com/r/Python/comments/vtevk9/organize_python_code_like_a_pro/)
 - [Short Python Automation Tutorials](https://www.reddit.com/r/Python/comments/vtad1u/short_python_automation_tutorials/)
 - [Roulette Black and Red](https://www.reddit.com/r/Python/comments/vt8h7t/roulette_black_and_red/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/vt4i5k/thursday_daily_thread_python_careers_courses_and/)
-- [Released a python client for the setlist.fm API today!](https://www.reddit.com/r/Python/comments/vt12es/released_a_python_client_for_the_setlistfm_api/)
 <!-- BLOG-POST-LIST:END -->
