@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python is the 2nd most demanded programming language in 2022](https://www.reddit.com/r/Python/comments/vtiz4o/python_is_the_2nd_most_demanded_programming/)
-- [Where can I get pre trained machine learning models?](https://www.reddit.com/r/Python/comments/vtilyt/where_can_i_get_pre_trained_machine_learning/)
-- [What is RESTFul API?](https://www.reddit.com/r/Python/comments/vtigji/what_is_restful_api/)
-- [GitHub - tonybaloney/rich-bench: A little benchmarking tool for Python](https://www.reddit.com/r/Python/comments/vthu8b/github_tonybaloneyrichbench_a_little_benchmarking/)
-- [Organize Python code like a PRO](https://www.reddit.com/r/Python/comments/vtevk9/organize_python_code_like_a_pro/)
+- [I built a Python newsletter using AWS and Python!](https://www.reddit.com/r/Python/comments/vtkvry/i_built_a_python_newsletter_using_aws_and_python/)
+- [Me thinking I am a damn genius figuring out how to swap to strings. 🌞 BTW I am a beginner in learning python. I watch CS dojo and this is a quiz given by him.](https://www.reddit.com/r/Python/comments/vtkblx/me_thinking_i_am_a_damn_genius_figuring_out_how/)
+- [Hi guys. I have few questions.](https://www.reddit.com/r/Python/comments/vtk666/hi_guys_i_have_few_questions/)
+- [Invalid Syntax?](https://www.reddit.com/r/Python/comments/vtk128/invalid_syntax/)
+- [Neuraliqa is out now!](https://www.reddit.com/r/Python/comments/vtjzwr/neuraliqa_is_out_now/)
 <!-- BLOG-POST-LIST:END -->
