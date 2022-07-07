@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python is the 2nd most demanded programming language in 2022](https://www.reddit.com/r/Python/comments/vtiz4o/python_is_the_2nd_most_demanded_programming/)
+- [Blockchain Based voting Platform](https://www.reddit.com/r/Python/comments/vtiqvy/blockchain_based_voting_platform/)
+- [Where can I get pre trained machine learning models?](https://www.reddit.com/r/Python/comments/vtilyt/where_can_i_get_pre_trained_machine_learning/)
+- [What is RESTFul API?](https://www.reddit.com/r/Python/comments/vtigji/what_is_restful_api/)
 - [GitHub - tonybaloney/rich-bench: A little benchmarking tool for Python](https://www.reddit.com/r/Python/comments/vthu8b/github_tonybaloneyrichbench_a_little_benchmarking/)
-- [Organize Python code like a PRO](https://www.reddit.com/r/Python/comments/vtevk9/organize_python_code_like_a_pro/)
-- [Short Python Automation Tutorials](https://www.reddit.com/r/Python/comments/vtad1u/short_python_automation_tutorials/)
-- [Roulette Black and Red](https://www.reddit.com/r/Python/comments/vt8h7t/roulette_black_and_red/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/vt4i5k/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
