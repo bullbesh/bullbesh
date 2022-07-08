@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;I&#39;ve never had much trouble with pip...&quot;](https://www.reddit.com/r/Python/comments/vu1zgb/ive_never_had_much_trouble_with_pip/)
 - [Flappy Bird clone made in Pyglet](https://www.reddit.com/r/Python/comments/vu0a76/flappy_bird_clone_made_in_pyglet/)
 - [Switching from Nodejs to Python examples?](https://www.reddit.com/r/Python/comments/vtzvqn/switching_from_nodejs_to_python_examples/)
 - [Any design patterns and tips on writing an API client library](https://www.reddit.com/r/Python/comments/vty3sx/any_design_patterns_and_tips_on_writing_an_api/)
 - [How likely is it that I&#39;ll be questioned in depth about a library for a job?](https://www.reddit.com/r/Python/comments/vtxe7f/how_likely_is_it_that_ill_be_questioned_in_depth/)
-- [Bank Stress Testing with Python](https://www.reddit.com/r/Python/comments/vttk5i/bank_stress_testing_with_python/)
 <!-- BLOG-POST-LIST:END -->
