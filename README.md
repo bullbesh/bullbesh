@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackerzstreet 1.0](https://www.reddit.com/r/Python/comments/vuble3/hackerzstreet_10/)
+- [QR Code Generation in Python with qrcode](https://www.reddit.com/r/Python/comments/vub7my/qr_code_generation_in_python_with_qrcode/)
 - [How to hide text in images with python.](https://www.reddit.com/r/Python/comments/vu9sba/how_to_hide_text_in_images_with_python/)
 - [Python in Visual Studio Code – July 2022 Release](https://www.reddit.com/r/Python/comments/vu9nyg/python_in_visual_studio_code_july_2022_release/)
 - [How to make simple quiz in the console with python.](https://www.reddit.com/r/Python/comments/vu9i3y/how_to_make_simple_quiz_in_the_console_with_python/)
-- [High performance code in Python](https://www.reddit.com/r/Python/comments/vu9fgz/high_performance_code_in_python/)
-- [Hi there, I am new in python and I am having troubles with pySimple GUI. The problem seems to be with a Key Error. is it possible to contact to some body to talk about it. Thanks](https://www.reddit.com/r/Python/comments/vu92tq/hi_there_i_am_new_in_python_and_i_am_having/)
 <!-- BLOG-POST-LIST:END -->
