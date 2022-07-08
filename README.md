@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is python the right language?](https://www.reddit.com/r/Python/comments/vu3qdb/is_python_the_right_language/)
+- [I’m creating a text rpg game engine](https://www.reddit.com/r/Python/comments/vu3c6t/im_creating_a_text_rpg_game_engine/)
 - [&quot;I&#39;ve never had much trouble with pip...&quot;](https://www.reddit.com/r/Python/comments/vu1zgb/ive_never_had_much_trouble_with_pip/)
 - [Flappy Bird clone made in Pyglet](https://www.reddit.com/r/Python/comments/vu0a76/flappy_bird_clone_made_in_pyglet/)
 - [Switching from Nodejs to Python examples?](https://www.reddit.com/r/Python/comments/vtzvqn/switching_from_nodejs_to_python_examples/)
-- [Any design patterns and tips on writing an API client library](https://www.reddit.com/r/Python/comments/vty3sx/any_design_patterns_and_tips_on_writing_an_api/)
-- [How likely is it that I&#39;ll be questioned in depth about a library for a job?](https://www.reddit.com/r/Python/comments/vtxe7f/how_likely_is_it_that_ill_be_questioned_in_depth/)
 <!-- BLOG-POST-LIST:END -->
