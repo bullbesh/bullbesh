@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I would like to ask what IDE should a beginner use? Is there a up to date tutorial?](https://www.reddit.com/r/Python/comments/vu652l/i_would_like_to_ask_what_ide_should_a_beginner/)
 - [fastapi-pydantic-sqlorm-yoyo-postgresql-rabbitmq-fluentd-docker stack proof-of-concept project](https://www.reddit.com/r/Python/comments/vu5i77/fastapipydanticsqlormyoyopostgresqlrabbitmqfluentd/)
 - [Is python the right language?](https://www.reddit.com/r/Python/comments/vu3qdb/is_python_the_right_language/)
 - [I’m creating a text rpg game engine](https://www.reddit.com/r/Python/comments/vu3c6t/im_creating_a_text_rpg_game_engine/)
 - [&quot;I&#39;ve never had much trouble with pip...&quot;](https://www.reddit.com/r/Python/comments/vu1zgb/ive_never_had_much_trouble_with_pip/)
-- [Flappy Bird clone made in Pyglet](https://www.reddit.com/r/Python/comments/vu0a76/flappy_bird_clone_made_in_pyglet/)
 <!-- BLOG-POST-LIST:END -->
