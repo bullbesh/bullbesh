@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is it worth it buying pycharm pro?](https://www.reddit.com/r/Python/comments/vu81ui/is_it_worth_it_buying_pycharm_pro/)
-- [scipy vs sklearn](https://www.reddit.com/r/Python/comments/vu70rg/scipy_vs_sklearn/)
-- [are dictionary/maps the core data structure of any programming language?](https://www.reddit.com/r/Python/comments/vu6y1m/are_dictionarymaps_the_core_data_structure_of_any/)
-- [I would like to ask what IDE should a beginner use? Is there a up to date tutorial?](https://www.reddit.com/r/Python/comments/vu652l/i_would_like_to_ask_what_ide_should_a_beginner/)
-- [fastapi-pydantic-sqlorm-yoyo-postgresql-rabbitmq-fluentd-docker stack proof-of-concept project](https://www.reddit.com/r/Python/comments/vu5i77/fastapipydanticsqlormyoyopostgresqlrabbitmqfluentd/)
+- [How to hide text in images with python.](https://www.reddit.com/r/Python/comments/vu9sba/how_to_hide_text_in_images_with_python/)
+- [Python in Visual Studio Code – July 2022 Release](https://www.reddit.com/r/Python/comments/vu9nyg/python_in_visual_studio_code_july_2022_release/)
+- [How to make simple quiz in the console with python.](https://www.reddit.com/r/Python/comments/vu9i3y/how_to_make_simple_quiz_in_the_console_with_python/)
+- [High performance code in Python](https://www.reddit.com/r/Python/comments/vu9fgz/high_performance_code_in_python/)
+- [Hi there, I am new in python and I am having troubles with pySimple GUI. The problem seems to be with a Key Error. is it possible to contact to some body to talk about it. Thanks](https://www.reddit.com/r/Python/comments/vu92tq/hi_there_i_am_new_in_python_and_i_am_having/)
 <!-- BLOG-POST-LIST:END -->
