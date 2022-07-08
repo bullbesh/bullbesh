@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a Wordle clone that you can play on the console. It uses all the words from the real Wordle.](https://www.reddit.com/r/Python/comments/vufx5j/i_made_a_wordle_clone_that_you_can_play_on_the/)
+- [Can someone give easy explanation of pd.DataFrame indexing and slicing?](https://www.reddit.com/r/Python/comments/vufsvo/can_someone_give_easy_explanation_of_pddataframe/)
+- [Sphinx/AutoDocs/Napoleon](https://www.reddit.com/r/Python/comments/vufctd/sphinxautodocsnapoleon/)
 - [What does everyone think of sublime text?](https://www.reddit.com/r/Python/comments/vuer9b/what_does_everyone_think_of_sublime_text/)
 - [Python with a Dash of C++: Optimizing Recommendation Serving](https://www.reddit.com/r/Python/comments/vuefnv/python_with_a_dash_of_c_optimizing_recommendation/)
-- [How to find a job as Software Developer in Switzerland? &lpar;step by step guide&rpar;](https://www.reddit.com/r/Python/comments/vuduyj/how_to_find_a_job_as_software_developer_in/)
-- [Does top always accurately represent the memory use of a python application?](https://www.reddit.com/r/Python/comments/vudube/does_top_always_accurately_represent_the_memory/)
-- [how do I start machine learning?](https://www.reddit.com/r/Python/comments/vudjm1/how_do_i_start_machine_learning/)
 <!-- BLOG-POST-LIST:END -->
