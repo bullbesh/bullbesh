@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it worth it buying pycharm pro?](https://www.reddit.com/r/Python/comments/vu81ui/is_it_worth_it_buying_pycharm_pro/)
 - [scipy vs sklearn](https://www.reddit.com/r/Python/comments/vu70rg/scipy_vs_sklearn/)
 - [are dictionary/maps the core data structure of any programming language?](https://www.reddit.com/r/Python/comments/vu6y1m/are_dictionarymaps_the_core_data_structure_of_any/)
 - [I would like to ask what IDE should a beginner use? Is there a up to date tutorial?](https://www.reddit.com/r/Python/comments/vu652l/i_would_like_to_ask_what_ide_should_a_beginner/)
 - [fastapi-pydantic-sqlorm-yoyo-postgresql-rabbitmq-fluentd-docker stack proof-of-concept project](https://www.reddit.com/r/Python/comments/vu5i77/fastapipydanticsqlormyoyopostgresqlrabbitmqfluentd/)
-- [Is python the right language?](https://www.reddit.com/r/Python/comments/vu3qdb/is_python_the_right_language/)
 <!-- BLOG-POST-LIST:END -->
