@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub - krish-adi/barfi: Python Flow Based Programming environment that provides a graphical programming environment.](https://www.reddit.com/r/Python/comments/vud4pz/github_krishadibarfi_python_flow_based/)
-- [Python and C++ performance showdown using a simple floating-point math.](https://www.reddit.com/r/Python/comments/vud3xk/python_and_c_performance_showdown_using_a_simple/)
-- [damp2ph - A .md to pretty .html static site generator in ~300 lines of code.](https://www.reddit.com/r/Python/comments/vucpgu/damp2ph_a_md_to_pretty_html_static_site_generator/)
-- [I need to master python 30 days what resources are available ?](https://www.reddit.com/r/Python/comments/vuc2ti/i_need_to_master_python_30_days_what_resources/)
-- [Hackerzstreet 1.0](https://www.reddit.com/r/Python/comments/vuble3/hackerzstreet_10/)
+- [What does everyone think of sublime text?](https://www.reddit.com/r/Python/comments/vuer9b/what_does_everyone_think_of_sublime_text/)
+- [Python with a Dash of C++: Optimizing Recommendation Serving](https://www.reddit.com/r/Python/comments/vuefnv/python_with_a_dash_of_c_optimizing_recommendation/)
+- [How to find a job as Software Developer in Switzerland? &lpar;step by step guide&rpar;](https://www.reddit.com/r/Python/comments/vuduyj/how_to_find_a_job_as_software_developer_in/)
+- [Does top always accurately represent the memory use of a python application?](https://www.reddit.com/r/Python/comments/vudube/does_top_always_accurately_represent_the_memory/)
+- [how do I start machine learning?](https://www.reddit.com/r/Python/comments/vudjm1/how_do_i_start_machine_learning/)
 <!-- BLOG-POST-LIST:END -->
