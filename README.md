@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - krish-adi/barfi: Python Flow Based Programming environment that provides a graphical programming environment.](https://www.reddit.com/r/Python/comments/vud4pz/github_krishadibarfi_python_flow_based/)
+- [Python and C++ performance showdown using a simple floating-point math.](https://www.reddit.com/r/Python/comments/vud3xk/python_and_c_performance_showdown_using_a_simple/)
+- [damp2ph - A .md to pretty .html static site generator in ~300 lines of code.](https://www.reddit.com/r/Python/comments/vucpgu/damp2ph_a_md_to_pretty_html_static_site_generator/)
+- [I need to master python 30 days what resources are available ?](https://www.reddit.com/r/Python/comments/vuc2ti/i_need_to_master_python_30_days_what_resources/)
 - [Hackerzstreet 1.0](https://www.reddit.com/r/Python/comments/vuble3/hackerzstreet_10/)
-- [QR Code Generation in Python with qrcode](https://www.reddit.com/r/Python/comments/vub7my/qr_code_generation_in_python_with_qrcode/)
-- [How to hide text in images with python.](https://www.reddit.com/r/Python/comments/vu9sba/how_to_hide_text_in_images_with_python/)
-- [Python in Visual Studio Code – July 2022 Release](https://www.reddit.com/r/Python/comments/vu9nyg/python_in_visual_studio_code_july_2022_release/)
-- [How to make simple quiz in the console with python.](https://www.reddit.com/r/Python/comments/vu9i3y/how_to_make_simple_quiz_in_the_console_with_python/)
 <!-- BLOG-POST-LIST:END -->
