@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Robyn v0.17.0 Released ✨ - Introducing const requests](https://www.reddit.com/r/Python/comments/vumo7b/robyn_v0170_released_introducing_const_requests/)
 - [can some provide visual representation of loops](https://www.reddit.com/r/Python/comments/vulrj2/can_some_provide_visual_representation_of_loops/)
-- [Independent contracting / self-employed question](https://www.reddit.com/r/Python/comments/vulol2/independent_contracting_selfemployed_question/)
-- [Looking for a course](https://www.reddit.com/r/Python/comments/vulb2j/looking_for_a_course/)
 - [Made so that you can use hotkeys for Spotify](https://www.reddit.com/r/Python/comments/vukqwz/made_so_that_you_can_use_hotkeys_for_spotify/)
-- [how can I bypass cloudflare protection?](https://www.reddit.com/r/Python/comments/vukj7a/how_can_i_bypass_cloudflare_protection/)
+- [Auto OpenAPI Generation — On Developer Laptops!](https://www.reddit.com/r/Python/comments/vuiejy/auto_openapi_generation_on_developer_laptops/)
+- [PyPI moves to require 2FA for &quot;Critical&quot; projects + Free Security Key Giveaway](https://www.reddit.com/r/Python/comments/vuh41q/pypi_moves_to_require_2fa_for_critical_projects/)
 <!-- BLOG-POST-LIST:END -->
