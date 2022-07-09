@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cool Easy Projects](https://www.reddit.com/r/Python/comments/vv6d6a/cool_easy_projects/)
+- [Python Training Course in Chandigarh Mohali Panchkula](https://www.reddit.com/r/Python/comments/vv5f52/python_training_course_in_chandigarh_mohali/)
 - [make me understand what are DECORATORS?](https://www.reddit.com/r/Python/comments/vv4nah/make_me_understand_what_are_decorators/)
-- [Python course for beginners &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/vv4hgy/python_course_for_beginners_2022/)
 - [What are the best python libraries for automation like sending email or Whatsapp message?](https://www.reddit.com/r/Python/comments/vv32k3/what_are_the_best_python_libraries_for_automation/)
 - [Import Query Results to Excel Or CSV](https://www.reddit.com/r/Python/comments/vv26ov/import_query_results_to_excel_or_csv/)
-- [Pyto or Pytonista &lpar;ios/ipad&rpar;](https://www.reddit.com/r/Python/comments/vuzxea/pyto_or_pytonista_iosipad/)
 <!-- BLOG-POST-LIST:END -->
