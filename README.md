@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Visual code studio, code cuts off](https://www.reddit.com/r/Python/comments/vuy5tb/visual_code_studio_code_cuts_off/)
 - [Use hotkeys with Spotify!](https://www.reddit.com/r/Python/comments/vuxsrw/use_hotkeys_with_spotify/)
 - [Better Python Integration in Snowflake](https://www.reddit.com/r/Python/comments/vux0ij/better_python_integration_in_snowflake/)
 - [Spotify Music Downloader - An app that allows you to download music from a Spotify Tracks](https://www.reddit.com/r/Python/comments/vuwtcz/spotify_music_downloader_an_app_that_allows_you/)
 - [How to create and deploy a Flask app to Heroku in just 5 simple steps?](https://www.reddit.com/r/Python/comments/vuvw58/how_to_create_and_deploy_a_flask_app_to_heroku_in/)
-- [Which will bring more job opportunities: Python or Java+Kotlin as a 2nd language? For someone who is already a Golang backend developer](https://www.reddit.com/r/Python/comments/vuokh9/which_will_bring_more_job_opportunities_python_or/)
 <!-- BLOG-POST-LIST:END -->
