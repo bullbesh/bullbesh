@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Script for copying github files from a url to a file](https://www.reddit.com/r/Python/comments/vv8in0/simple_script_for_copying_github_files_from_a_url/)
+- [Questions about deployment: setup.py](https://www.reddit.com/r/Python/comments/vv8h4p/questions_about_deployment_setuppy/)
+- [my unique port scanner](https://www.reddit.com/r/Python/comments/vv81ip/my_unique_port_scanner/)
+- [Which block of code is easier to read](https://www.reddit.com/r/Python/comments/vv7ztp/which_block_of_code_is_easier_to_read/)
 - [A repo to help researchers make their code easily usable: python-dust &lpar;maybe someone finds it useful...&rpar;](https://www.reddit.com/r/Python/comments/vv7flf/a_repo_to_help_researchers_make_their_code_easily/)
-- [I made a script to use your second keyboard as a macro-keyboard where you can map a python function to each key! :&rpar;](https://www.reddit.com/r/Python/comments/vv6px8/i_made_a_script_to_use_your_second_keyboard_as_a/)
-- [Cool Easy Projects](https://www.reddit.com/r/Python/comments/vv6d6a/cool_easy_projects/)
-- [Python Training Course in Chandigarh Mohali Panchkula](https://www.reddit.com/r/Python/comments/vv5f52/python_training_course_in_chandigarh_mohali/)
-- [make me understand what are DECORATORS?](https://www.reddit.com/r/Python/comments/vv4nah/make_me_understand_what_are_decorators/)
 <!-- BLOG-POST-LIST:END -->
