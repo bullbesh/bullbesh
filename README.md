@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [just started learning Python.](https://www.reddit.com/r/Python/comments/vup34f/just_started_learning_python/)
+- [Which will bring more job opportunities: Python or Java+Kotlin as a 2nd language? For someone who is already a Golang backend developer](https://www.reddit.com/r/Python/comments/vuokh9/which_will_bring_more_job_opportunities_python_or/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/vuojwm/saturday_daily_thread_resource_request_and/)
+- [I spent 4 years developing a search engine just for food and finally launched the first-ever realtime menu API for almost all restaurants and grocery stores in the US+Canada](https://www.reddit.com/r/Python/comments/vunytv/i_spent_4_years_developing_a_search_engine_just/)
 - [Robyn v0.17.0 Released ✨ - Introducing const requests](https://www.reddit.com/r/Python/comments/vumo7b/robyn_v0170_released_introducing_const_requests/)
-- [can some provide visual representation of loops](https://www.reddit.com/r/Python/comments/vulrj2/can_some_provide_visual_representation_of_loops/)
-- [Made so that you can use hotkeys for Spotify](https://www.reddit.com/r/Python/comments/vukqwz/made_so_that_you_can_use_hotkeys_for_spotify/)
-- [Auto OpenAPI Generation — On Developer Laptops!](https://www.reddit.com/r/Python/comments/vuiejy/auto_openapi_generation_on_developer_laptops/)
-- [PyPI moves to require 2FA for &quot;Critical&quot; projects + Free Security Key Giveaway](https://www.reddit.com/r/Python/comments/vuh41q/pypi_moves_to_require_2fa_for_critical_projects/)
 <!-- BLOG-POST-LIST:END -->
