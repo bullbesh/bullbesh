@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create and deploy a Flask app to Heroku in just 5 simple steps?](https://www.reddit.com/r/Python/comments/vuvw58/how_to_create_and_deploy_a_flask_app_to_heroku_in/)
 - [Which will bring more job opportunities: Python or Java+Kotlin as a 2nd language? For someone who is already a Golang backend developer](https://www.reddit.com/r/Python/comments/vuokh9/which_will_bring_more_job_opportunities_python_or/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/vuojwm/saturday_daily_thread_resource_request_and/)
 - [I spent 4 years developing a search engine just for food and finally launched the first-ever realtime menu API for almost all restaurants and grocery stores in the US+Canada](https://www.reddit.com/r/Python/comments/vunytv/i_spent_4_years_developing_a_search_engine_just/)
 - [Robyn v0.17.0 Released ✨ - Introducing const requests](https://www.reddit.com/r/Python/comments/vumo7b/robyn_v0170_released_introducing_const_requests/)
-- [can some provide visual representation of loops](https://www.reddit.com/r/Python/comments/vulrj2/can_some_provide_visual_representation_of_loops/)
 <!-- BLOG-POST-LIST:END -->
