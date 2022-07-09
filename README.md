@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Import Query Results to Excel Or CSV](https://www.reddit.com/r/Python/comments/vv26ov/import_query_results_to_excel_or_csv/)
 - [Pyto or Pytonista &lpar;ios/ipad&rpar;](https://www.reddit.com/r/Python/comments/vuzxea/pyto_or_pytonista_iosipad/)
 - [Why should I choose Anaconda if I can install pandas, numpy and jupyter notebook already in Python?](https://www.reddit.com/r/Python/comments/vuznid/why_should_i_choose_anaconda_if_i_can_install/)
 - [Visual code studio, code cuts off](https://www.reddit.com/r/Python/comments/vuy5tb/visual_code_studio_code_cuts_off/)
 - [Use hotkeys with Spotify!](https://www.reddit.com/r/Python/comments/vuxsrw/use_hotkeys_with_spotify/)
-- [Better Python Integration in Snowflake](https://www.reddit.com/r/Python/comments/vux0ij/better_python_integration_in_snowflake/)
 <!-- BLOG-POST-LIST:END -->
