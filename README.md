@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Build a web app](https://www.reddit.com/r/Python/comments/vvbcki/build_a_web_app/)
-- [!BEGINNER! How do I see what actions are doing without having to print in IntelliJ](https://www.reddit.com/r/Python/comments/vvba1a/beginner_how_do_i_see_what_actions_are_doing/)
-- [How do I install Pycharm after this error message](https://www.reddit.com/r/Python/comments/vvape7/how_do_i_install_pycharm_after_this_error_message/)
+- [Cheap instance @ Masternetwork](https://www.reddit.com/r/Python/comments/vvchi0/cheap_instance_masternetwork/)
 - [Train your own Object Detection AI in 1 day without any prior experience](https://www.reddit.com/r/Python/comments/vv9148/train_your_own_object_detection_ai_in_1_day/)
 - [I made a script to use your second keyboard as a macro-keyboard where you can map a python function to each key! :&rpar;](https://www.reddit.com/r/Python/comments/vv8yv4/i_made_a_script_to_use_your_second_keyboard_as_a/)
+- [Simple Script for copying github files from a url to a file](https://www.reddit.com/r/Python/comments/vv8in0/simple_script_for_copying_github_files_from_a_url/)
+- [Which block of code is easier to read](https://www.reddit.com/r/Python/comments/vv7ztp/which_block_of_code_is_easier_to_read/)
 <!-- BLOG-POST-LIST:END -->
