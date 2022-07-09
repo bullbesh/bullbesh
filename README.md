@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [make me understand what are DECORATORS?](https://www.reddit.com/r/Python/comments/vv4nah/make_me_understand_what_are_decorators/)
+- [Python course for beginners &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/vv4hgy/python_course_for_beginners_2022/)
 - [What are the best python libraries for automation like sending email or Whatsapp message?](https://www.reddit.com/r/Python/comments/vv32k3/what_are_the_best_python_libraries_for_automation/)
 - [Import Query Results to Excel Or CSV](https://www.reddit.com/r/Python/comments/vv26ov/import_query_results_to_excel_or_csv/)
 - [Pyto or Pytonista &lpar;ios/ipad&rpar;](https://www.reddit.com/r/Python/comments/vuzxea/pyto_or_pytonista_iosipad/)
-- [Why should I choose Anaconda if I can install pandas, numpy and jupyter notebook already in Python?](https://www.reddit.com/r/Python/comments/vuznid/why_should_i_choose_anaconda_if_i_can_install/)
-- [Visual code studio, code cuts off](https://www.reddit.com/r/Python/comments/vuy5tb/visual_code_studio_code_cuts_off/)
 <!-- BLOG-POST-LIST:END -->
