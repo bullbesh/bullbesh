@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HELP!](https://www.reddit.com/r/Python/comments/vvvc7y/help/)
 - [Fake Word &lpar;Multilingual&rpar; Generator API in Python.](https://www.reddit.com/r/Python/comments/vvtlli/fake_word_multilingual_generator_api_in_python/)
 - [Pip constraints files](https://www.reddit.com/r/Python/comments/vvspl0/pip_constraints_files/)
 - [Python log handler to post logs to slack.](https://www.reddit.com/r/Python/comments/vvs008/python_log_handler_to_post_logs_to_slack/)
 - [Raw Python vs Python &amp; SQLite vs GNU Linux command line utilities!](https://www.reddit.com/r/Python/comments/vvoze1/raw_python_vs_python_sqlite_vs_gnu_linux_command/)
-- [Python for Android Applications?](https://www.reddit.com/r/Python/comments/vvnokb/python_for_android_applications/)
 <!-- BLOG-POST-LIST:END -->
