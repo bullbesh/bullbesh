@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyPI to Enable 2FA on Critical Python Project Accounts](https://www.reddit.com/r/Python/comments/vvlxq1/pypi_to_enable_2fa_on_critical_python_project/)
 - [Coding interview platform](https://www.reddit.com/r/Python/comments/vvfmqp/coding_interview_platform/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/vvenfa/sunday_daily_thread_whats_everyone_working_on/)
 - [Tracing/Sandboxing python modules upon import &lpar;like SECCOMP for the interpreter&rpar;](https://www.reddit.com/r/Python/comments/vvcpmn/tracingsandboxing_python_modules_upon_import_like/)
 - [Train your own Object Detection AI in 1 day without any prior experience](https://www.reddit.com/r/Python/comments/vv9148/train_your_own_object_detection_ai_in_1_day/)
-- [I made a script to use your second keyboard as a macro-keyboard where you can map a python function to each key! :&rpar;](https://www.reddit.com/r/Python/comments/vv8yv4/i_made_a_script_to_use_your_second_keyboard_as_a/)
 <!-- BLOG-POST-LIST:END -->
