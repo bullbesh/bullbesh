@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interesting. Algorithm and Indexing of Copernicus Search: Any Python module?](https://www.reddit.com/r/Python/comments/vvy1at/interesting_algorithm_and_indexing_of_copernicus/)
+- [Do PETSc and CUDA utilize the CPU and GPU respectively to speed up code?](https://www.reddit.com/r/Python/comments/vvxy53/do_petsc_and_cuda_utilize_the_cpu_and_gpu/)
 - [HELP!](https://www.reddit.com/r/Python/comments/vvvc7y/help/)
 - [Fake Word &lpar;Multilingual&rpar; Generator API in Python.](https://www.reddit.com/r/Python/comments/vvtlli/fake_word_multilingual_generator_api_in_python/)
 - [Pip constraints files](https://www.reddit.com/r/Python/comments/vvspl0/pip_constraints_files/)
-- [Python log handler to post logs to slack.](https://www.reddit.com/r/Python/comments/vvs008/python_log_handler_to_post_logs_to_slack/)
-- [Raw Python vs Python &amp; SQLite vs GNU Linux command line utilities!](https://www.reddit.com/r/Python/comments/vvoze1/raw_python_vs_python_sqlite_vs_gnu_linux_command/)
 <!-- BLOG-POST-LIST:END -->
