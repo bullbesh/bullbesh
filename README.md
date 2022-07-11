@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python with a Dash of C++: Optimizing Recommendation Serving](https://www.reddit.com/r/Python/comments/vwha6n/python_with_a_dash_of_c_optimizing_recommendation/)
+- [A quick and dirty script to help me focus on my work](https://www.reddit.com/r/Python/comments/vwh6p3/a_quick_and_dirty_script_to_help_me_focus_on_my/)
+- [We made a Python SDK that lets you programmatically edit videos [Feedback Request]](https://www.reddit.com/r/Python/comments/vwgfwn/we_made_a_python_sdk_that_lets_you/)
+- [Gilded Rose Kata](https://www.reddit.com/r/Python/comments/vwg9rg/gilded_rose_kata/)
 - [Comparing 2 CSV files](https://www.reddit.com/r/Python/comments/vwflc2/comparing_2_csv_files/)
-- [OCR PDF Action: A GitHub action for turning scanned PDF&#39;s into searchable documents](https://www.reddit.com/r/Python/comments/vwdpkg/ocr_pdf_action_a_github_action_for_turning/)
-- [10 useful data analytics dashboards with Matplotlib in Python](https://www.reddit.com/r/Python/comments/vwbxvg/10_useful_data_analytics_dashboards_with/)
-- [A modern software to learn the basics of Computer Programming &amp; Software Development &lpar;Coming Soon&rpar;](https://www.reddit.com/r/Python/comments/vw8q68/a_modern_software_to_learn_the_basics_of_computer/)
-- [How would you evaluate my coding?](https://www.reddit.com/r/Python/comments/vw6pf1/how_would_you_evaluate_my_coding/)
 <!-- BLOG-POST-LIST:END -->
