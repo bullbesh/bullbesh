@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Yes, I have opinions on your open source contributions](https://www.reddit.com/r/Python/comments/vwv22j/yes_i_have_opinions_on_your_open_source/)
 - [Can I use a Google API in this case?](https://www.reddit.com/r/Python/comments/vwqn3j/can_i_use_a_google_api_in_this_case/)
 - [Python 3.11.0b4 released](https://www.reddit.com/r/Python/comments/vwqki0/python_3110b4_released/)
 - [Simple Console Game](https://www.reddit.com/r/Python/comments/vwqkaz/simple_console_game/)
 - [Faster, more memory-efficient Python JSON parsing with msgspec](https://www.reddit.com/r/Python/comments/vwpyk3/faster_more_memoryefficient_python_json_parsing/)
-- [One Liner Calculator With Interface &lpar;Free To Use&rpar;](https://www.reddit.com/r/Python/comments/vwp1xp/one_liner_calculator_with_interface_free_to_use/)
 <!-- BLOG-POST-LIST:END -->
