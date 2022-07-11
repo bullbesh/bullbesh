@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How would you evaluate my coding?](https://www.reddit.com/r/Python/comments/vw6pf1/how_would_you_evaluate_my_coding/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/vw4q60/monday_daily_thread_project_ideas/)
 - [Optiseek - a collection of single-objective optimization algorithms for multi-dimensional functions with a uniform format](https://www.reddit.com/r/Python/comments/vw357z/optiseek_a_collection_of_singleobjective/)
-- [Operation: Python 2022 Software Bundle](https://www.reddit.com/r/Python/comments/vw1ohj/operation_python_2022_software_bundle/)
-- [Spacy ML NER - Training Data vs Testing Data?](https://www.reddit.com/r/Python/comments/vw1i92/spacy_ml_ner_training_data_vs_testing_data/)
 - [What is your fav IDE &lpar;incl AddOns&rpar;?](https://www.reddit.com/r/Python/comments/vw0ftz/what_is_your_fav_ide_incl_addons/)
 - [Package to use DALL·E 2 in Python &lpar; need invite &rpar;](https://www.reddit.com/r/Python/comments/vvzzl8/package_to_use_dalle_2_in_python_need_invite/)
 <!-- BLOG-POST-LIST:END -->
