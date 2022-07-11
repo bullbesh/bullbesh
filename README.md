@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Comparing 2 CSV files](https://www.reddit.com/r/Python/comments/vwflc2/comparing_2_csv_files/)
 - [OCR PDF Action: A GitHub action for turning scanned PDF&#39;s into searchable documents](https://www.reddit.com/r/Python/comments/vwdpkg/ocr_pdf_action_a_github_action_for_turning/)
 - [10 useful data analytics dashboards with Matplotlib in Python](https://www.reddit.com/r/Python/comments/vwbxvg/10_useful_data_analytics_dashboards_with/)
 - [A modern software to learn the basics of Computer Programming &amp; Software Development &lpar;Coming Soon&rpar;](https://www.reddit.com/r/Python/comments/vw8q68/a_modern_software_to_learn_the_basics_of_computer/)
 - [How would you evaluate my coding?](https://www.reddit.com/r/Python/comments/vw6pf1/how_would_you_evaluate_my_coding/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/vw4q60/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
