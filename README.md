@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [One Liner Calculator With Interface &lpar;Free To Use&rpar;](https://www.reddit.com/r/Python/comments/vwp1xp/one_liner_calculator_with_interface_free_to_use/)
+- [A better way to monitor your AWS Lambda functions with Python + Telegram](https://www.reddit.com/r/Python/comments/vwp1ac/a_better_way_to_monitor_your_aws_lambda_functions/)
 - [Is there a way to unlock a password encrypted Excel workbook without the password?](https://www.reddit.com/r/Python/comments/vwngc7/is_there_a_way_to_unlock_a_password_encrypted/)
 - [The Modern Tokenization Stack for NLP: Byte Pair Encoding](https://www.reddit.com/r/Python/comments/vwn379/the_modern_tokenization_stack_for_nlp_byte_pair/)
 - [A cloud for running python scripts](https://www.reddit.com/r/Python/comments/vwmtb1/a_cloud_for_running_python_scripts/)
-- [Tkinter GUI with 2 child threads](https://www.reddit.com/r/Python/comments/vwmm27/tkinter_gui_with_2_child_threads/)
-- [Simple yet thought provoking || Programming Challenge || It&#39;s not what you think](https://www.reddit.com/r/Python/comments/vwlfse/simple_yet_thought_provoking_programming/)
 <!-- BLOG-POST-LIST:END -->
