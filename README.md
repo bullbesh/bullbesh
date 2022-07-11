@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can I use a Google API in this case?](https://www.reddit.com/r/Python/comments/vwqn3j/can_i_use_a_google_api_in_this_case/)
+- [Python 3.11.0b4 released](https://www.reddit.com/r/Python/comments/vwqki0/python_3110b4_released/)
+- [Simple Console Game](https://www.reddit.com/r/Python/comments/vwqkaz/simple_console_game/)
 - [Faster, more memory-efficient Python JSON parsing with msgspec](https://www.reddit.com/r/Python/comments/vwpyk3/faster_more_memoryefficient_python_json_parsing/)
 - [One Liner Calculator With Interface &lpar;Free To Use&rpar;](https://www.reddit.com/r/Python/comments/vwp1xp/one_liner_calculator_with_interface_free_to_use/)
-- [A better way to monitor your AWS Lambda functions with Python + Telegram](https://www.reddit.com/r/Python/comments/vwp1ac/a_better_way_to_monitor_your_aws_lambda_functions/)
-- [Is there a way to unlock a password encrypted Excel workbook without the password?](https://www.reddit.com/r/Python/comments/vwngc7/is_there_a_way_to_unlock_a_password_encrypted/)
-- [The Modern Tokenization Stack for NLP: Byte Pair Encoding](https://www.reddit.com/r/Python/comments/vwn379/the_modern_tokenization_stack_for_nlp_byte_pair/)
 <!-- BLOG-POST-LIST:END -->
