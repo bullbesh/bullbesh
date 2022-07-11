@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Excel to Database suggestions](https://www.reddit.com/r/Python/comments/vwidr0/excel_to_database_suggestions/)
 - [Python with a Dash of C++: Optimizing Recommendation Serving](https://www.reddit.com/r/Python/comments/vwha6n/python_with_a_dash_of_c_optimizing_recommendation/)
 - [A quick and dirty script to help me focus on my work](https://www.reddit.com/r/Python/comments/vwh6p3/a_quick_and_dirty_script_to_help_me_focus_on_my/)
 - [We made a Python SDK that lets you programmatically edit videos [Feedback Request]](https://www.reddit.com/r/Python/comments/vwgfwn/we_made_a_python_sdk_that_lets_you/)
 - [Gilded Rose Kata](https://www.reddit.com/r/Python/comments/vwg9rg/gilded_rose_kata/)
-- [Comparing 2 CSV files](https://www.reddit.com/r/Python/comments/vwflc2/comparing_2_csv_files/)
 <!-- BLOG-POST-LIST:END -->
