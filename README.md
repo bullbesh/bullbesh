@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Language Specific IDE Question](https://www.reddit.com/r/Python/comments/vwkue0/language_specific_ide_question/)
+- [flake8-codes: CLI tool to introspect flake8 plugins and their codes](https://www.reddit.com/r/Python/comments/vwkiez/flake8codes_cli_tool_to_introspect_flake8_plugins/)
+- [Dealing with JSON in Python](https://www.reddit.com/r/Python/comments/vwkb2y/dealing_with_json_in_python/)
+- [Congratulations: We Now Have Opinions on Your Open Source Contributions](https://www.reddit.com/r/Python/comments/vwk138/congratulations_we_now_have_opinions_on_your_open/)
 - [Excel to Database suggestions](https://www.reddit.com/r/Python/comments/vwidr0/excel_to_database_suggestions/)
-- [Python with a Dash of C++: Optimizing Recommendation Serving](https://www.reddit.com/r/Python/comments/vwha6n/python_with_a_dash_of_c_optimizing_recommendation/)
-- [A quick and dirty script to help me focus on my work](https://www.reddit.com/r/Python/comments/vwh6p3/a_quick_and_dirty_script_to_help_me_focus_on_my/)
-- [We made a Python SDK that lets you programmatically edit videos [Feedback Request]](https://www.reddit.com/r/Python/comments/vwgfwn/we_made_a_python_sdk_that_lets_you/)
-- [Gilded Rose Kata](https://www.reddit.com/r/Python/comments/vwg9rg/gilded_rose_kata/)
 <!-- BLOG-POST-LIST:END -->
