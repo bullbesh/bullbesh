@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there a way to unlock a password encrypted Excel workbook without the password?](https://www.reddit.com/r/Python/comments/vwngc7/is_there_a_way_to_unlock_a_password_encrypted/)
+- [The Modern Tokenization Stack for NLP: Byte Pair Encoding](https://www.reddit.com/r/Python/comments/vwn379/the_modern_tokenization_stack_for_nlp_byte_pair/)
+- [A cloud for running python scripts](https://www.reddit.com/r/Python/comments/vwmtb1/a_cloud_for_running_python_scripts/)
 - [Tkinter GUI with 2 child threads](https://www.reddit.com/r/Python/comments/vwmm27/tkinter_gui_with_2_child_threads/)
 - [Simple yet thought provoking || Programming Challenge || It&#39;s not what you think](https://www.reddit.com/r/Python/comments/vwlfse/simple_yet_thought_provoking_programming/)
-- [Language Specific IDE Question](https://www.reddit.com/r/Python/comments/vwkue0/language_specific_ide_question/)
-- [flake8-codes: CLI tool to introspect flake8 plugins and their codes](https://www.reddit.com/r/Python/comments/vwkiez/flake8codes_cli_tool_to_introspect_flake8_plugins/)
-- [Dealing with JSON in Python](https://www.reddit.com/r/Python/comments/vwkb2y/dealing_with_json_in_python/)
 <!-- BLOG-POST-LIST:END -->
