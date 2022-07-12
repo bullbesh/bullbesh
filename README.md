@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a program inspired by Doug Hofstadter&#39;s &quot;Goedel Escher Back: An Eternal Golden Braid&quot; .Right now, it generates a tree about a tree. Code &lpar;and console output&rpar; in description](https://www.reddit.com/r/Python/comments/vxf9fg/i_made_a_program_inspired_by_doug_hofstadters/)
+- [Breaking down Google&#39;s Python Style Guide](https://www.reddit.com/r/Python/comments/vxed8w/breaking_down_googles_python_style_guide/)
 - [Webcam Video Augmentation with an Image/Video using ArUco Markers](https://www.reddit.com/r/Python/comments/vxdm3k/webcam_video_augmentation_with_an_imagevideo/)
 - [Strong Random Password Generator [Python]](https://www.reddit.com/r/Python/comments/vxdgfs/strong_random_password_generator_python/)
 - [How to login into an external website from your website](https://www.reddit.com/r/Python/comments/vxd89v/how_to_login_into_an_external_website_from_your/)
-- [Created a serverless FastAPI microservice template. Would love feedback!](https://www.reddit.com/r/Python/comments/vxcm6h/created_a_serverless_fastapi_microservice/)
-- [Text Extraction from Images with Python! I put 3 libraries to the test in my latest video](https://www.reddit.com/r/Python/comments/vxc8ye/text_extraction_from_images_with_python_i_put_3/)
 <!-- BLOG-POST-LIST:END -->
