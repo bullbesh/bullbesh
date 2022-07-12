@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How can you constantly update a Firebase database &lpar;with Python&rpar;?](https://www.reddit.com/r/Python/comments/vxnjvx/how_can_you_constantly_update_a_firebase_database/)
+- [🤯 Python tool for building beautiful form-like apps](https://www.reddit.com/r/Python/comments/vxndwz/python_tool_for_building_beautiful_formlike_apps/)
 - [Python Humble Bundle - worth the money?](https://www.reddit.com/r/Python/comments/vxn1vi/python_humble_bundle_worth_the_money/)
 - [Teaching kids Python through Blender... Why is no one doing this?](https://www.reddit.com/r/Python/comments/vxkx8v/teaching_kids_python_through_blender_why_is_no/)
 - [What makes PyQt5 worth the money?](https://www.reddit.com/r/Python/comments/vxkvw9/what_makes_pyqt5_worth_the_money/)
-- [I created a python program to interact with a LED matrix.](https://www.reddit.com/r/Python/comments/vxkff3/i_created_a_python_program_to_interact_with_a_led/)
-- [Verify thinking process](https://www.reddit.com/r/Python/comments/vxk7ec/verify_thinking_process/)
 <!-- BLOG-POST-LIST:END -->
