@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Taichi-lang, a programming language embedded in Python, to implement differentiable fluid simulation](https://www.reddit.com/r/Python/comments/vx4l5q/using_taichilang_a_programming_language_embedded/)
 - [Interested in machine learning? Join the Hugging Face Gradio Hackathon at EuroPython 2022 starting on July 13th in person in Dublin, Ireland or remotely online](https://www.reddit.com/r/Python/comments/vx3qkj/interested_in_machine_learning_join_the_hugging/)
 - [Draw Images and Videos using Matplotlib](https://www.reddit.com/r/Python/comments/vx0wy3/draw_images_and_videos_using_matplotlib/)
 - [First Dev Log of a game I am making. Not sure what to call it yet but it will be about mowing lawns and traveling through time and space](https://www.reddit.com/r/Python/comments/vwze99/first_dev_log_of_a_game_i_am_making_not_sure_what/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/vwx29j/tuesday_daily_thread_advanced_questions/)
-- [I tested if Python 3.11 is truly faster than its prior versions.](https://www.reddit.com/r/Python/comments/vwwo35/i_tested_if_python_311_is_truly_faster_than_its/)
 <!-- BLOG-POST-LIST:END -->
