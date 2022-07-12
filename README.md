@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Teaching kids Python through Blender... Why is no one doing this?](https://www.reddit.com/r/Python/comments/vxkx8v/teaching_kids_python_through_blender_why_is_no/)
+- [What makes PyQt5 worth the money?](https://www.reddit.com/r/Python/comments/vxkvw9/what_makes_pyqt5_worth_the_money/)
 - [I created a python program to interact with a LED matrix.](https://www.reddit.com/r/Python/comments/vxkff3/i_created_a_python_program_to_interact_with_a_led/)
 - [Verify thinking process](https://www.reddit.com/r/Python/comments/vxk7ec/verify_thinking_process/)
 - [I’ve had enough of Anaconda/miniconda](https://www.reddit.com/r/Python/comments/vxix6g/ive_had_enough_of_anacondaminiconda/)
-- [Updates from Rocketry, the insanely powerful scheduler &lpar;previously Red Engine&rpar;](https://www.reddit.com/r/Python/comments/vxib8e/updates_from_rocketry_the_insanely_powerful/)
-- [I made a program inspired by Doug Hofstadter&#39;s &quot;Goedel Escher Back: An Eternal Golden Braid&quot; .Right now, it generates a tree about a tree. Code &lpar;and console output&rpar; in description](https://www.reddit.com/r/Python/comments/vxf9fg/i_made_a_program_inspired_by_doug_hofstadters/)
 <!-- BLOG-POST-LIST:END -->
