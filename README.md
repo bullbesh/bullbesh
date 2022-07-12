@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Humble Bundle - worth the money?](https://www.reddit.com/r/Python/comments/vxn1vi/python_humble_bundle_worth_the_money/)
 - [Teaching kids Python through Blender... Why is no one doing this?](https://www.reddit.com/r/Python/comments/vxkx8v/teaching_kids_python_through_blender_why_is_no/)
 - [What makes PyQt5 worth the money?](https://www.reddit.com/r/Python/comments/vxkvw9/what_makes_pyqt5_worth_the_money/)
 - [I created a python program to interact with a LED matrix.](https://www.reddit.com/r/Python/comments/vxkff3/i_created_a_python_program_to_interact_with_a_led/)
 - [Verify thinking process](https://www.reddit.com/r/Python/comments/vxk7ec/verify_thinking_process/)
-- [I’ve had enough of Anaconda/miniconda](https://www.reddit.com/r/Python/comments/vxix6g/ive_had_enough_of_anacondaminiconda/)
 <!-- BLOG-POST-LIST:END -->
