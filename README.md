@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [An article about python api behind a nat](https://www.reddit.com/r/Python/comments/vy84im/an_article_about_python_api_behind_a_nat/)
-- [An introduction to apis with python](https://www.reddit.com/r/Python/comments/vy7vw1/an_introduction_to_apis_with_python/)
-- [Learn various techniques to reduce data processing time by using multiprocessing, joblib, and tqdm concurrent](https://www.reddit.com/r/Python/comments/vy7uc1/learn_various_techniques_to_reduce_data/)
-- [I have a py file that I would like to compile into a pyc file. Can anyone run me step by step what to do please?](https://www.reddit.com/r/Python/comments/vy7txc/i_have_a_py_file_that_i_would_like_to_compile/)
-- [PyCircTools - Build your own logical circuits using python](https://www.reddit.com/r/Python/comments/vy7j5o/pycirctools_build_your_own_logical_circuits_using/)
+- [I&#39;ve created a Linkedin Bot!](https://www.reddit.com/r/Python/comments/vy9y0m/ive_created_a_linkedin_bot/)
+- [Taking a deep dive into itertools.chain](https://www.reddit.com/r/Python/comments/vy9v62/taking_a_deep_dive_into_itertoolschain/)
+- [How I built my ideal daily Python newsletter with AWS and Python](https://www.reddit.com/r/Python/comments/vy9lk8/how_i_built_my_ideal_daily_python_newsletter_with/)
+- [Hardest Maze Ever &lpar;1000x1000&rpar;](https://www.reddit.com/r/Python/comments/vy99c2/hardest_maze_ever_1000x1000/)
+- [Hardest Maze On Earth](https://www.reddit.com/r/Python/comments/vy8xed/hardest_maze_on_earth/)
 <!-- BLOG-POST-LIST:END -->
