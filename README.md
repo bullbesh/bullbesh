@@ -11,6 +11,6 @@
 - [How to run roslaunch within python](https://www.reddit.com/r/Python/comments/vxx2rh/how_to_run_roslaunch_within_python/)
 - [Stupid simple subnet calculator](https://www.reddit.com/r/Python/comments/vxwfzk/stupid_simple_subnet_calculator/)
 - [Next Dimension is released!](https://www.reddit.com/r/Python/comments/vxvnxn/next_dimension_is_released/)
-- [Is this game possible using python?](https://www.reddit.com/r/Python/comments/vxsbj7/is_this_game_possible_using_python/)
 - [Python and TOML: New Best Friends – Real Python](https://www.reddit.com/r/Python/comments/vxr33j/python_and_toml_new_best_friends_real_python/)
+- [What is the best website to learn python?](https://www.reddit.com/r/Python/comments/vxqu50/what_is_the_best_website_to_learn_python/)
 <!-- BLOG-POST-LIST:END -->
