@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a program that allows you to set up automatic coin flips while keeping scores across several artificial players. It even has a display to make it user friendly!](https://www.reddit.com/r/Python/comments/vyci4z/i_made_a_program_that_allows_you_to_set_up/)
+- [Is the VBA IIF&lpar;&rpar; function better than python inline if syntax? &lpar;probably not&rpar;](https://www.reddit.com/r/Python/comments/vybi2i/is_the_vba_iif_function_better_than_python_inline/)
 - [My own portfolio website is online!!!](https://www.reddit.com/r/Python/comments/vya5vg/my_own_portfolio_website_is_online/)
-- [I&#39;ve created a Linkedin Bot!](https://www.reddit.com/r/Python/comments/vy9y0m/ive_created_a_linkedin_bot/)
 - [Taking a deep dive into itertools.chain](https://www.reddit.com/r/Python/comments/vy9v62/taking_a_deep_dive_into_itertoolschain/)
 - [How I built my ideal daily Python newsletter with AWS and Python](https://www.reddit.com/r/Python/comments/vy9lk8/how_i_built_my_ideal_daily_python_newsletter_with/)
-- [Learn various techniques to reduce data processing time by using multiprocessing, joblib, and tqdm concurrent](https://www.reddit.com/r/Python/comments/vy7uc1/learn_various_techniques_to_reduce_data/)
 <!-- BLOG-POST-LIST:END -->
