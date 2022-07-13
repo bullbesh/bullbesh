@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial: Publish a fastapi &lpar;python&rpar; application with an ssl certificate.](https://www.reddit.com/r/Python/comments/vy300f/tutorial_publish_a_fastapi_python_application/)
+- [Some python packagers can steal your data.](https://www.reddit.com/r/Python/comments/vy2kg9/some_python_packagers_can_steal_your_data/)
 - [Python web scraping](https://www.reddit.com/r/Python/comments/vy1t8w/python_web_scraping/)
 - [Review of Flask, From a Django Developer](https://www.reddit.com/r/Python/comments/vy1pzo/review_of_flask_from_a_django_developer/)
 - [I just released my lib to create ranges with datetime objects](https://www.reddit.com/r/Python/comments/vy0ae9/i_just_released_my_lib_to_create_ranges_with/)
-- [Is it possible to write a regex for all possible Python programs?](https://www.reddit.com/r/Python/comments/vy09ck/is_it_possible_to_write_a_regex_for_all_possible/)
-- [Operation: Python 2022 Software Bundle](https://www.reddit.com/r/Python/comments/vxzyql/operation_python_2022_software_bundle/)
 <!-- BLOG-POST-LIST:END -->
