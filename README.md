@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Logging schema version 1](https://www.reddit.com/r/Python/comments/vy5hjo/logging_schema_version_1/)
+- [PyCircTools - Build your own logical circuits using python](https://www.reddit.com/r/Python/comments/vy7j5o/pycirctools_build_your_own_logical_circuits_using/)
+- [Hi, my name is Jay and I&#39;m addicted to VBA.](https://www.reddit.com/r/Python/comments/vy7164/hi_my_name_is_jay_and_im_addicted_to_vba/)
+- [type hint overkill](https://www.reddit.com/r/Python/comments/vy70vo/type_hint_overkill/)
+- [MutableAI, a Github Copilot alternative](https://www.reddit.com/r/Python/comments/vy692t/mutableai_a_github_copilot_alternative/)
 - [Introducing Toolspace - A library of open-source developer tools, reviews, and alternatives. &lpar;Built on Django and Next.js&rpar;](https://www.reddit.com/r/Python/comments/vy51rr/introducing_toolspace_a_library_of_opensource/)
-- [Python struct format explainer](https://www.reddit.com/r/Python/comments/vy497f/python_struct_format_explainer/)
-- [Tutorial : First steps with Fastapi &lpar;with an ask certificate&rpar;](https://www.reddit.com/r/Python/comments/vy450j/tutorial_first_steps_with_fastapi_with_an_ask/)
-- [Open Source Python Project to find configurations in Docker images and scan them available in PIP](https://www.reddit.com/r/Python/comments/vy43mq/open_source_python_project_to_find_configurations/)
 <!-- BLOG-POST-LIST:END -->
