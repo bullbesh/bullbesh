@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Tutorial: Publish a fastapi &lpar;python&rpar; application with an ssl certificate.](https://www.reddit.com/r/Python/comments/vy300f/tutorial_publish_a_fastapi_python_application/)
-- [Some python packagers can steal your data.](https://www.reddit.com/r/Python/comments/vy2kg9/some_python_packagers_can_steal_your_data/)
-- [Python web scraping](https://www.reddit.com/r/Python/comments/vy1t8w/python_web_scraping/)
-- [Review of Flask, From a Django Developer](https://www.reddit.com/r/Python/comments/vy1pzo/review_of_flask_from_a_django_developer/)
-- [I just released my lib to create ranges with datetime objects](https://www.reddit.com/r/Python/comments/vy0ae9/i_just_released_my_lib_to_create_ranges_with/)
+- [Python struct format explainer](https://www.reddit.com/r/Python/comments/vy497f/python_struct_format_explainer/)
+- [Tutorial : First steps with Fastapi &lpar;with an ask certificate&rpar;](https://www.reddit.com/r/Python/comments/vy450j/tutorial_first_steps_with_fastapi_with_an_ask/)
+- [Open Source Python Project to find configurations in Docker images and scan them available in PIP](https://www.reddit.com/r/Python/comments/vy43mq/open_source_python_project_to_find_configurations/)
+- [How can I define variable from Function,without actually calling the function?](https://www.reddit.com/r/Python/comments/vy3ulb/how_can_i_define_variable_from_functionwithout/)
+- [Reading data from TDMS into predefined excel template](https://www.reddit.com/r/Python/comments/vy3qxf/reading_data_from_tdms_into_predefined_excel/)
 <!-- BLOG-POST-LIST:END -->
