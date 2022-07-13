@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python and TOML: New Best Friends – Real Python](https://www.reddit.com/r/Python/comments/vxr33j/python_and_toml_new_best_friends_real_python/)
+- [What is the best website to learn python?](https://www.reddit.com/r/Python/comments/vxqu50/what_is_the_best_website_to_learn_python/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/vxpdb7/wednesday_daily_thread_beginner_questions/)
 - [How can you constantly update a Firebase database &lpar;with Python&rpar;?](https://www.reddit.com/r/Python/comments/vxnjvx/how_can_you_constantly_update_a_firebase_database/)
-- [🤯 Python tool for building beautiful form-like apps](https://www.reddit.com/r/Python/comments/vxndwz/python_tool_for_building_beautiful_formlike_apps/)
 - [Python Humble Bundle - worth the money?](https://www.reddit.com/r/Python/comments/vxn1vi/python_humble_bundle_worth_the_money/)
-- [Teaching kids Python through Blender... Why is no one doing this?](https://www.reddit.com/r/Python/comments/vxkx8v/teaching_kids_python_through_blender_why_is_no/)
-- [What makes PyQt5 worth the money?](https://www.reddit.com/r/Python/comments/vxkvw9/what_makes_pyqt5_worth_the_money/)
 <!-- BLOG-POST-LIST:END -->
