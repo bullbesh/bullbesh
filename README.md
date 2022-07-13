@@ -8,9 +8,9 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An article about python api behind a nat](https://www.reddit.com/r/Python/comments/vy84im/an_article_about_python_api_behind_a_nat/)
+- [An introduction to apis with python](https://www.reddit.com/r/Python/comments/vy7vw1/an_introduction_to_apis_with_python/)
+- [Learn various techniques to reduce data processing time by using multiprocessing, joblib, and tqdm concurrent](https://www.reddit.com/r/Python/comments/vy7uc1/learn_various_techniques_to_reduce_data/)
+- [I have a py file that I would like to compile into a pyc file. Can anyone run me step by step what to do please?](https://www.reddit.com/r/Python/comments/vy7txc/i_have_a_py_file_that_i_would_like_to_compile/)
 - [PyCircTools - Build your own logical circuits using python](https://www.reddit.com/r/Python/comments/vy7j5o/pycirctools_build_your_own_logical_circuits_using/)
-- [Hi, my name is Jay and I&#39;m addicted to VBA.](https://www.reddit.com/r/Python/comments/vy7164/hi_my_name_is_jay_and_im_addicted_to_vba/)
-- [type hint overkill](https://www.reddit.com/r/Python/comments/vy70vo/type_hint_overkill/)
-- [MutableAI, a Github Copilot alternative](https://www.reddit.com/r/Python/comments/vy692t/mutableai_a_github_copilot_alternative/)
-- [Introducing Toolspace - A library of open-source developer tools, reviews, and alternatives. &lpar;Built on Django and Next.js&rpar;](https://www.reddit.com/r/Python/comments/vy51rr/introducing_toolspace_a_library_of_opensource/)
 <!-- BLOG-POST-LIST:END -->
