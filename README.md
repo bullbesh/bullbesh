@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to parse XML file exported from Apple iOS Health App and make a sleep schedule plot using Python, Pandas, and Matplotlib.](https://www.reddit.com/r/Python/comments/w1g6qs/how_to_parse_xml_file_exported_from_apple_ios/)
+- [GitHub - 3cology/3d_inverse_renderer: Python-based Blender simulator of photorealistic 3D models, with ground truth PBR geometry &amp; material outputs for training AI](https://www.reddit.com/r/Python/comments/w1f8cf/github_3cology3d_inverse_renderer_pythonbased/)
 - [A fast GeoJSON implementation in ~60 lines of declarative Python](https://www.reddit.com/r/Python/comments/w1e7id/a_fast_geojson_implementation_in_60_lines_of/)
-- [Is it okay to list a web scraper on your resume?](https://www.reddit.com/r/Python/comments/w1dk7d/is_it_okay_to_list_a_web_scraper_on_your_resume/)
-- [Unable to use ChromeDriverManager for Selenium](https://www.reddit.com/r/Python/comments/w1br8y/unable_to_use_chromedrivermanager_for_selenium/)
-- [How to trigger roslaunch from python script](https://www.reddit.com/r/Python/comments/w1bm8r/how_to_trigger_roslaunch_from_python_script/)
 - [Uploaded my first game on itch.io](https://www.reddit.com/r/Python/comments/w1b5v4/uploaded_my_first_game_on_itchio/)
+- [[OC] Termtyper : A typing application to level up your fingers!](https://www.reddit.com/r/Python/comments/w19nfp/oc_termtyper_a_typing_application_to_level_up/)
 <!-- BLOG-POST-LIST:END -->
