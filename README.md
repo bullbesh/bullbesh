@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m working on a Django app that rehosts and links all sorts of websites in interesting ways. I&#39;ve added a few sites from IMDB. What other sites should I add? Link to github in description](https://www.reddit.com/r/Python/comments/w16epa/im_working_on_a_django_app_that_rehosts_and_links/)
 - [pysimplehgui, pyqt or tkinter which is better?](https://www.reddit.com/r/Python/comments/w12wh8/pysimplehgui_pyqt_or_tkinter_which_is_better/)
 - [I made a python package to style plots with pokemon colors](https://www.reddit.com/r/Python/comments/w0zx8y/i_made_a_python_package_to_style_plots_with/)
 - [leafhopper, A CLI for generating poetry/maven/vcpkg dependencies info table for legal review](https://www.reddit.com/r/Python/comments/w0zsbh/leafhopper_a_cli_for_generating_poetrymavenvcpkg/)
 - [PDM 2.0 released: PDM is a modern Python package and dependency manager supporting the latest PEP standards, now with built-in publishing to PyPI, no reliance on pip internals, opt-in PEP 582 with pnpm-like install cache, and more!](https://www.reddit.com/r/Python/comments/w0yway/pdm_20_released_pdm_is_a_modern_python_package/)
-- [I wanna try solving your problems](https://www.reddit.com/r/Python/comments/w0xz1u/i_wanna_try_solving_your_problems/)
 <!-- BLOG-POST-LIST:END -->
