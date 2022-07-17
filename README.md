@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[OC] Termtyper : A typing application to level up your fingers!](https://www.reddit.com/r/Python/comments/w19nfp/oc_termtyper_a_typing_application_to_level_up/)
+- [Making Python&#39;s any &amp; all functions fast with generator expressions](https://www.reddit.com/r/Python/comments/w18zbr/making_pythons_any_all_functions_fast_with/)
 - [Building an authenticated Python CLI with Click &amp; Rich](https://www.reddit.com/r/Python/comments/w187zo/building_an_authenticated_python_cli_with_click/)
 - [Run python from Excel, without having to have python installed](https://www.reddit.com/r/Python/comments/w17oyh/run_python_from_excel_without_having_to_have/)
 - [Open-source machine translation in Python](https://www.reddit.com/r/Python/comments/w17e42/opensource_machine_translation_in_python/)
-- [is it possible to make an image crawler that would crawl through all the images on internet?](https://www.reddit.com/r/Python/comments/w16jp7/is_it_possible_to_make_an_image_crawler_that/)
-- [Anybody looking to contribute to a static website generator?](https://www.reddit.com/r/Python/comments/w16hs3/anybody_looking_to_contribute_to_a_static_website/)
 <!-- BLOG-POST-LIST:END -->
