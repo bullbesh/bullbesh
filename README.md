@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [I made a tweets and threads scheduler using github action](https://www.reddit.com/r/Python/comments/w1h4b5/i_made_a_tweets_and_threads_scheduler_using/)
 - [Pure Python - No HTML](https://www.reddit.com/r/Python/comments/w1gog3/pure_python_no_html/)
-- [Anyone help? The quit feature doesn’t work and it says “EoL while scanning literal string error. Plus I might have a cap sensitive problem](https://www.reddit.com/r/Python/comments/w1gir4/anyone_help_the_quit_feature_doesnt_work_and_it/)
 - [How to parse XML file exported from Apple iOS Health App and make a sleep schedule plot using Python, Pandas, and Matplotlib.](https://www.reddit.com/r/Python/comments/w1g6qs/how_to_parse_xml_file_exported_from_apple_ios/)
 - [GitHub - 3cology/3d_inverse_renderer: Python-based Blender simulator of photorealistic 3D models, with ground truth PBR geometry &amp; material outputs for training AI](https://www.reddit.com/r/Python/comments/w1f8cf/github_3cology3d_inverse_renderer_pythonbased/)
+- [A fast GeoJSON implementation in ~60 lines of declarative Python](https://www.reddit.com/r/Python/comments/w1e7id/a_fast_geojson_implementation_in_60_lines_of/)
 <!-- BLOG-POST-LIST:END -->
