@@ -6,7 +6,7 @@
 [<img src="https://github.com/bullbesh/bullbesh/blob/main/images/Reddit.png" width="32" height="32" />](https://www.reddit.com/user/bullbesh)
 [<img src="https://github.com/bullbesh/bullbesh/blob/main/images/YouTube.png" width="32" height="32" />](https://www.youtube.com/channel/UCtfjRs6uzgq5mfm8S06WTcg)
 
-## 📕 Latest Blog Posts
+## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [New entry kind of problem](https://www.reddit.com/r/Python/comments/vye475/new_entry_kind_of_problem/)
 - [plutus_backtest- an application to backtest your financial strategies](https://www.reddit.com/r/Python/comments/vye2rt/plutus_backtest_an_application_to_backtest_your/)
