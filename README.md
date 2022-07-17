@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [New entry kind of problem](https://www.reddit.com/r/Python/comments/vye475/new_entry_kind_of_problem/)
-- [plutus_backtest- an application to backtest your financial strategies](https://www.reddit.com/r/Python/comments/vye2rt/plutus_backtest_an_application_to_backtest_your/)
-- [What is the best pdf reader for chemistry and biology books/pdfs](https://www.reddit.com/r/Python/comments/vye05j/what_is_the_best_pdf_reader_for_chemistry_and/)
-- [Someone stole my obfuscator and used it on his website](https://www.reddit.com/r/Python/comments/vydoj0/someone_stole_my_obfuscator_and_used_it_on_his/)
-- [I&#39;m building a personal website. Should I bother doing it in Python or just use a template?](https://www.reddit.com/r/Python/comments/vyd23i/im_building_a_personal_website_should_i_bother/)
+- [pysimplehgui, pyqt or tkinter which is better?](https://www.reddit.com/r/Python/comments/w12wh8/pysimplehgui_pyqt_or_tkinter_which_is_better/)
+- [I made a python package to style plots with pokemon colors](https://www.reddit.com/r/Python/comments/w0zx8y/i_made_a_python_package_to_style_plots_with/)
+- [leafhopper, A CLI for generating poetry/maven/vcpkg dependencies info table for legal review](https://www.reddit.com/r/Python/comments/w0zsbh/leafhopper_a_cli_for_generating_poetrymavenvcpkg/)
+- [PDM 2.0 released: PDM is a modern Python package and dependency manager supporting the latest PEP standards, now with built-in publishing to PyPI, no reliance on pip internals, opt-in PEP 582 with pnpm-like install cache, and more!](https://www.reddit.com/r/Python/comments/w0yway/pdm_20_released_pdm_is_a_modern_python_package/)
+- [I wanna try solving your problems](https://www.reddit.com/r/Python/comments/w0xz1u/i_wanna_try_solving_your_problems/)
 <!-- BLOG-POST-LIST:END -->
