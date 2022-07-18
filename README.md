@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyGame Is Great for making Python games, but it needs buttons!](https://www.reddit.com/r/Python/comments/w1wcxj/pygame_is_great_for_making_python_games_but_it/)
+- [A clear introduction to Pandas, a Python library to manipulate tabular data, where you can discover its many possibilities and get a concise overview.](https://www.reddit.com/r/Python/comments/w1w3fe/a_clear_introduction_to_pandas_a_python_library/)
 - [PyCharm vs VSCode-InsideAIML](https://www.reddit.com/r/Python/comments/w1vja1/pycharm_vs_vscodeinsideaiml/)
 - [Simple terminal-based chess-like game](https://www.reddit.com/r/Python/comments/w1v1zn/simple_terminalbased_chesslike_game/)
 - [How are you all handling config files?](https://www.reddit.com/r/Python/comments/w1utza/how_are_you_all_handling_config_files/)
-- [Guidance switching a job from mechanical to software](https://www.reddit.com/r/Python/comments/w1u2ng/guidance_switching_a_job_from_mechanical_to/)
-- [Why is Python the Trendiest and Most Demanding Programming Language for Entrepreneurs?](https://www.reddit.com/r/Python/comments/w1ttjn/why_is_python_the_trendiest_and_most_demanding/)
 <!-- BLOG-POST-LIST:END -->
