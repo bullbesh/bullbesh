@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Build an Event-Driven System with FastAPI and React](https://www.reddit.com/r/Python/comments/w1xnp4/build_an_eventdriven_system_with_fastapi_and_react/)
-- [PyGame Is Great for making Python games, but it needs buttons!](https://www.reddit.com/r/Python/comments/w1wcxj/pygame_is_great_for_making_python_games_but_it/)
-- [A clear introduction to Pandas, a Python library to manipulate tabular data, where you can discover its many possibilities and get a concise overview.](https://www.reddit.com/r/Python/comments/w1w3fe/a_clear_introduction_to_pandas_a_python_library/)
-- [PyCharm vs VSCode-InsideAIML](https://www.reddit.com/r/Python/comments/w1vja1/pycharm_vs_vscodeinsideaiml/)
-- [Simple terminal-based chess-like game](https://www.reddit.com/r/Python/comments/w1v1zn/simple_terminalbased_chesslike_game/)
+- [Building A #twitter #bot with #python, #lambda and #s3.](https://www.reddit.com/r/Python/comments/w1zytq/building_a_twitter_bot_with_python_lambda_and_s3/)
+- [What&#39;s wrong with using packages?](https://www.reddit.com/r/Python/comments/w1zyb2/whats_wrong_with_using_packages/)
+- [Dictionary in Python - the 95% we should know](https://www.reddit.com/r/Python/comments/w1zsd0/dictionary_in_python_the_95_we_should_know/)
+- [Reading a Python Book](https://www.reddit.com/r/Python/comments/w1zi6n/reading_a_python_book/)
+- [Starlite updates, features and community suggestions](https://www.reddit.com/r/Python/comments/w1z3yv/starlite_updates_features_and_community/)
 <!-- BLOG-POST-LIST:END -->
