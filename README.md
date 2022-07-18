@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [www.py4e.com says: You must read the rate using input&lpar;&rpar; and then convert it.](https://www.reddit.com/r/Python/comments/w266p2/wwwpy4ecom_says_you_must_read_the_rate_using/)
+- [How to know how many images do you need for your computer vision model?](https://www.reddit.com/r/Python/comments/w27cmt/how_to_know_how_many_images_do_you_need_for_your/)
+- [With the help of Python and Gunicorn, I made a dynamic Notion cover that automatically shows a stoic quote each time your refresh/ reopen your notion page. :&rpar;](https://www.reddit.com/r/Python/comments/w26xfy/with_the_help_of_python_and_gunicorn_i_made_a/)
+- [Will Python ever get a max heap?](https://www.reddit.com/r/Python/comments/w26uke/will_python_ever_get_a_max_heap/)
 - [Python Binary search algorithm projects ideas for beginners?](https://www.reddit.com/r/Python/comments/w25vt4/python_binary_search_algorithm_projects_ideas_for/)
 - [Making Python&#39;s any &amp; all functions fast with listcomps &amp; generators](https://www.reddit.com/r/Python/comments/w2527f/making_pythons_any_all_functions_fast_with/)
-- [Newbie](https://www.reddit.com/r/Python/comments/w24kmi/newbie/)
-- [Anybody else utilizing Python in databricks for working with data stored in azure DBs or azure blob storage?](https://www.reddit.com/r/Python/comments/w21x10/anybody_else_utilizing_python_in_databricks_for/)
 <!-- BLOG-POST-LIST:END -->
