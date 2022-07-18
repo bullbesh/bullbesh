@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [www.py4e.com says: You must read the rate using input&lpar;&rpar; and then convert it.](https://www.reddit.com/r/Python/comments/w266p2/wwwpy4ecom_says_you_must_read_the_rate_using/)
+- [Python Binary search algorithm projects ideas for beginners?](https://www.reddit.com/r/Python/comments/w25vt4/python_binary_search_algorithm_projects_ideas_for/)
+- [Making Python&#39;s any &amp; all functions fast with listcomps &amp; generators](https://www.reddit.com/r/Python/comments/w2527f/making_pythons_any_all_functions_fast_with/)
 - [Newbie](https://www.reddit.com/r/Python/comments/w24kmi/newbie/)
 - [Anybody else utilizing Python in databricks for working with data stored in azure DBs or azure blob storage?](https://www.reddit.com/r/Python/comments/w21x10/anybody_else_utilizing_python_in_databricks_for/)
-- [Infra Weekly #7](https://www.reddit.com/r/Python/comments/w21uv0/infra_weekly_7/)
-- [Meet Intel® Neural Compressor: An Open-Source Python Library for Model Compression that Reduces the Model Size and Increases the Speed of Deep Learning Inference for Deployment on CPUs or GPUs](https://www.reddit.com/r/Python/comments/w20zb6/meet_intel_neural_compressor_an_opensource_python/)
-- [Updating database via BS4 web scraping](https://www.reddit.com/r/Python/comments/w207c0/updating_database_via_bs4_web_scraping/)
 <!-- BLOG-POST-LIST:END -->
