@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Empower Your Training with SERP Data](https://www.reddit.com/r/Python/comments/w1sck4/empower_your_training_with_serp_data/)
 - [pre-commit-hooks vs sonarqube](https://www.reddit.com/r/Python/comments/w1qmsg/precommithooks_vs_sonarqube/)
 - [advice needed, which is the most demanding job of 2022](https://www.reddit.com/r/Python/comments/w1puqk/advice_needed_which_is_the_most_demanding_job_of/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/w1l71a/monday_daily_thread_project_ideas/)
 - [I made a tweets and threads scheduler using github action](https://www.reddit.com/r/Python/comments/w1h4b5/i_made_a_tweets_and_threads_scheduler_using/)
-- [Pure Python - No HTML](https://www.reddit.com/r/Python/comments/w1gog3/pure_python_no_html/)
 <!-- BLOG-POST-LIST:END -->
