@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Updating database via BS4 web scraping](https://www.reddit.com/r/Python/comments/w207c0/updating_database_via_bs4_web_scraping/)
 - [Building A #twitter #bot with #python, #lambda and #s3.](https://www.reddit.com/r/Python/comments/w1zytq/building_a_twitter_bot_with_python_lambda_and_s3/)
 - [What&#39;s wrong with using packages?](https://www.reddit.com/r/Python/comments/w1zyb2/whats_wrong_with_using_packages/)
 - [Dictionary in Python - the 95% we should know](https://www.reddit.com/r/Python/comments/w1zsd0/dictionary_in_python_the_95_we_should_know/)
 - [Reading a Python Book](https://www.reddit.com/r/Python/comments/w1zi6n/reading_a_python_book/)
-- [Starlite updates, features and community suggestions](https://www.reddit.com/r/Python/comments/w1z3yv/starlite_updates_features_and_community/)
 <!-- BLOG-POST-LIST:END -->
