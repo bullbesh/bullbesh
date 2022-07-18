@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Podcast question scraping code](https://www.reddit.com/r/Python/comments/w286ls/podcast_question_scraping_code/)
-- [How to know how many images do you need for your computer vision model?](https://www.reddit.com/r/Python/comments/w27cmt/how_to_know_how_many_images_do_you_need_for_your/)
-- [With the help of Python and Gunicorn, I made a dynamic Notion cover that automatically shows a stoic quote each time your refresh/ reopen your notion page. :&rpar;](https://www.reddit.com/r/Python/comments/w26xfy/with_the_help_of_python_and_gunicorn_i_made_a/)
-- [Will Python ever get a max heap?](https://www.reddit.com/r/Python/comments/w26uke/will_python_ever_get_a_max_heap/)
-- [Python Binary search algorithm projects ideas for beginners?](https://www.reddit.com/r/Python/comments/w25vt4/python_binary_search_algorithm_projects_ideas_for/)
+- [What happens with comments ?](https://www.reddit.com/r/Python/comments/w2aaqd/what_happens_with_comments/)
+- [Create Your Own Code Editor Using PyQt5 #2 - Adding Syntax Highlighter &amp; Bug Fixes](https://www.reddit.com/r/Python/comments/w2a1bo/create_your_own_code_editor_using_pyqt5_2_adding/)
+- [Level up Python](https://www.reddit.com/r/Python/comments/w29ujn/level_up_python/)
+- [Is there a bible in python?](https://www.reddit.com/r/Python/comments/w29sdq/is_there_a_bible_in_python/)
+- [I distributed my first Python package to simplify using the Google Analytics Data &lpar;GA4&rpar; API](https://www.reddit.com/r/Python/comments/w29pc5/i_distributed_my_first_python_package_to_simplify/)
 <!-- BLOG-POST-LIST:END -->
