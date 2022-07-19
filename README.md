@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve been running Python from command line for years, recently stumbled on this video...and now can&#39;t stop coding in VSCode, didn&#39;t know it could run py from its own terminal? Lol](https://www.reddit.com/r/Python/comments/w2tdmc/ive_been_running_python_from_command_line_for/)
+- [Use loop to input marks of 5 students. compare them and select the highest grades.](https://www.reddit.com/r/Python/comments/w2uz4l/use_loop_to_input_marks_of_5_students_compare/)
+- [snakedict - Keep your dict keys PEP 8 compliant.](https://www.reddit.com/r/Python/comments/w2ux3m/snakedict_keep_your_dict_keys_pep_8_compliant/)
+- [🤯 Free online UIs for your Python Scripts](https://www.reddit.com/r/Python/comments/w2uotf/free_online_uis_for_your_python_scripts/)
 - [Build a Flashcards App With Django – Real Python](https://www.reddit.com/r/Python/comments/w2t6lk/build_a_flashcards_app_with_django_real_python/)
 - [What problems and difficulties do you face during deploying and managing production application?](https://www.reddit.com/r/Python/comments/w2ssyo/what_problems_and_difficulties_do_you_face_during/)
-- [[Article] Deploying docker application on AWS with terraform](https://www.reddit.com/r/Python/comments/w2sr7z/article_deploying_docker_application_on_aws_with/)
-- [pipenv and poetry : each better at something?](https://www.reddit.com/r/Python/comments/w2s21d/pipenv_and_poetry_each_better_at_something/)
 <!-- BLOG-POST-LIST:END -->
