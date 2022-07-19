@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free ebook bundle: Python 101, Pydon&#39;ts, Regex, Projects, Clean Architectures](https://www.reddit.com/r/Python/comments/w2q2zj/free_ebook_bundle_python_101_pydonts_regex/)
+- [Efficient way to store list of list to file?](https://www.reddit.com/r/Python/comments/w2pwrb/efficient_way_to_store_list_of_list_to_file/)
+- [Created a TileMap Creator With RuleSet &lpar;Supports Animation&rpar;](https://www.reddit.com/r/Python/comments/w2ptt6/created_a_tilemap_creator_with_ruleset_supports/)
 - [My friends make Python YouTube Shorts. Here’s a 30second one on the quicksort algorithm narrated by Sir David Attenborough](https://www.reddit.com/r/Python/comments/w2oa69/my_friends_make_python_youtube_shorts_heres_a/)
 - [Python Coding Standards And Best Practices For Code Quality](https://www.reddit.com/r/Python/comments/w2o7vx/python_coding_standards_and_best_practices_for/)
-- [Any SaaS-developer to exchange know-how?](https://www.reddit.com/r/Python/comments/w2npce/any_saasdeveloper_to_exchange_knowhow/)
-- [Doccano — A Open Source Tool Written in Django To Annotate Text Data and Train Custom NLP Models](https://www.reddit.com/r/Python/comments/w2naa4/doccano_a_open_source_tool_written_in_django_to/)
-- [Python Hidden Hacks You Probably Don’t Know About](https://www.reddit.com/r/Python/comments/w2n82r/python_hidden_hacks_you_probably_dont_know_about/)
 <!-- BLOG-POST-LIST:END -->
