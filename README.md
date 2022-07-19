@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pose based visual servoing?](https://www.reddit.com/r/Python/comments/w2z948/pose_based_visual_servoing/)
+- [I want to change the set size from 10 to 5 in python](https://www.reddit.com/r/Python/comments/w2yqd3/i_want_to_change_the_set_size_from_10_to_5_in/)
 - [Good python certification?](https://www.reddit.com/r/Python/comments/w2xotm/good_python_certification/)
 - [I spent the last several months building a time-series version of TinyDB with the syntax of InfluxDB, called &quot;TinyFlux&quot;. Hoping to get some eyes on it from the Python community! Here&#39;s an article I wrote about the project.](https://www.reddit.com/r/Python/comments/w2x2o1/i_spent_the_last_several_months_building_a/)
 - [Custom Tkinter pop up tip tool tip](https://www.reddit.com/r/Python/comments/w2wasv/custom_tkinter_pop_up_tip_tool_tip/)
-- [snakedict - Keep your dict keys PEP 8 compliant.](https://www.reddit.com/r/Python/comments/w2ux3m/snakedict_keep_your_dict_keys_pep_8_compliant/)
-- [Build a Flashcards App With Django – Real Python](https://www.reddit.com/r/Python/comments/w2t6lk/build_a_flashcards_app_with_django_real_python/)
 <!-- BLOG-POST-LIST:END -->
