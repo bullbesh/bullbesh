@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My friends make Python YouTube Shorts. Here’s a 30second one on the quicksort algorithm narrated by Sir David Attenborough](https://www.reddit.com/r/Python/comments/w2oa69/my_friends_make_python_youtube_shorts_heres_a/)
+- [Python Coding Standards And Best Practices For Code Quality](https://www.reddit.com/r/Python/comments/w2o7vx/python_coding_standards_and_best_practices_for/)
+- [Any SaaS-developer to exchange know-how?](https://www.reddit.com/r/Python/comments/w2npce/any_saasdeveloper_to_exchange_knowhow/)
 - [Doccano — A Open Source Tool Written in Django To Annotate Text Data and Train Custom NLP Models](https://www.reddit.com/r/Python/comments/w2naa4/doccano_a_open_source_tool_written_in_django_to/)
 - [Python Hidden Hacks You Probably Don’t Know About](https://www.reddit.com/r/Python/comments/w2n82r/python_hidden_hacks_you_probably_dont_know_about/)
-- [Render 3D objects with python!](https://www.reddit.com/r/Python/comments/w2n6d3/render_3d_objects_with_python/)
-- [Looking for a specific python website](https://www.reddit.com/r/Python/comments/w2m3bl/looking_for_a_specific_python_website/)
-- [Why am I getting &quot;cv2.error: Unknown C++ exception from OpenCV code&quot; when I&#39;m using cv2.BackgroundSubtractorKNN&lpar;&rpar; in Python?](https://www.reddit.com/r/Python/comments/w2llye/why_am_i_getting_cv2error_unknown_c_exception/)
 <!-- BLOG-POST-LIST:END -->
