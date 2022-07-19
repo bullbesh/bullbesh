@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How can I create a simple user interface for my python program?](https://www.reddit.com/r/Python/comments/w2ctxj/how_can_i_create_a_simple_user_interface_for_my/)
-- [Open Middle School Coding Resources](https://www.reddit.com/r/Python/comments/w2csh3/open_middle_school_coding_resources/)
-- [Print certain variables from a DataFrame](https://www.reddit.com/r/Python/comments/w2blrq/print_certain_variables_from_a_dataframe/)
-- [What happens with comments ?](https://www.reddit.com/r/Python/comments/w2aaqd/what_happens_with_comments/)
-- [Create Your Own Code Editor Using PyQt5 #2 - Adding Syntax Highlighter &amp; Bug Fixes](https://www.reddit.com/r/Python/comments/w2a1bo/create_your_own_code_editor_using_pyqt5_2_adding/)
+- [What is the best Python book in your opinion?](https://www.reddit.com/r/Python/comments/w2g0ai/what_is_the_best_python_book_in_your_opinion/)
+- [When are you considered skilled at Python?](https://www.reddit.com/r/Python/comments/w2ertz/when_are_you_considered_skilled_at_python/)
+- [Resources I&#39;ve used and still use to learn Python](https://www.reddit.com/r/Python/comments/w2eowi/resources_ive_used_and_still_use_to_learn_python/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/w2e70j/tuesday_daily_thread_advanced_questions/)
+- [Hi all, I’m new to algo trading. Thinking of learning Python. Is anyone developing algo trading systems? If you do, what platform are you using? I really like ninja trader platform but they are using only C sharp.](https://www.reddit.com/r/Python/comments/w2dp61/hi_all_im_new_to_algo_trading_thinking_of/)
 <!-- BLOG-POST-LIST:END -->
