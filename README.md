@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there a linter which would suggest using elif rather than an else in an if clause?](https://www.reddit.com/r/Python/comments/w3mpc6/is_there_a_linter_which_would_suggest_using_elif/)
+- [what boot camp should i do? or how should i start coding? i learn pretty quick and somewhat know javascript from years ago. id like to get a job as a developer in the future](https://www.reddit.com/r/Python/comments/w3mc7f/what_boot_camp_should_i_do_or_how_should_i_start/)
+- [What makes Python an Ideal Choice for Web Development?](https://www.reddit.com/r/Python/comments/w3m8es/what_makes_python_an_ideal_choice_for_web/)
 - [Modern Python Checklist - I&#39;m compiling a checklist to follow any time I want to bootstrap a general-purpose Python project using best practices. Suggestions for libraries, workflows, tools etc. most welcome.](https://www.reddit.com/r/Python/comments/w3hqx5/modern_python_checklist_im_compiling_a_checklist/)
 - [Case of examining the problem that Credential can be leaked only with API key exposure through security issues on web applications such as Django](https://www.reddit.com/r/Python/comments/w3h4l8/case_of_examining_the_problem_that_credential_can/)
-- [Tutorial: Intro to Stock Market Analysis using Python](https://www.reddit.com/r/Python/comments/w3gqio/tutorial_intro_to_stock_market_analysis_using/)
-- [NumPy C-API &lpar;Python C extensions&rpar;](https://www.reddit.com/r/Python/comments/w3ekv7/numpy_capi_python_c_extensions/)
-- [Google Researchers Open-Source the TensorFlow GNN &lpar;TF-GNN&rpar;: A Scalable Python Library for Graph Neural Networks in TensorFlow](https://www.reddit.com/r/Python/comments/w3cks5/google_researchers_opensource_the_tensorflow_gnn/)
 <!-- BLOG-POST-LIST:END -->
