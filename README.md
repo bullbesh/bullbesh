@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mute audio at specific points in an audio file](https://www.reddit.com/r/Python/comments/w3zbp8/mute_audio_at_specific_points_in_an_audio_file/)
+- [Design Pattern: Using the Repository Pattern for better data encapsulation](https://www.reddit.com/r/Python/comments/w3yx00/design_pattern_using_the_repository_pattern_for/)
+- [Python for dummies - reccomendations plz](https://www.reddit.com/r/Python/comments/w3ymbq/python_for_dummies_reccomendations_plz/)
+- [Build a Data Science Portfolio &lpar;Beginner&#39;s Guide&rpar;](https://www.reddit.com/r/Python/comments/w3ykdx/build_a_data_science_portfolio_beginners_guide/)
 - [pyspark learning for spark developer associate](https://www.reddit.com/r/Python/comments/w3uode/pyspark_learning_for_spark_developer_associate/)
-- [Learned how to make a scrolling background on my own](https://www.reddit.com/r/Python/comments/w3uhkz/learned_how_to_make_a_scrolling_background_on_my/)
-- [Pretty Maps in Python](https://www.reddit.com/r/Python/comments/w3uhel/pretty_maps_in_python/)
-- [What’s more important if any, getting it right or getting it working?](https://www.reddit.com/r/Python/comments/w3t9kp/whats_more_important_if_any_getting_it_right_or/)
-- [Citrine Python Extension](https://www.reddit.com/r/Python/comments/w3sp9l/citrine_python_extension/)
 <!-- BLOG-POST-LIST:END -->
