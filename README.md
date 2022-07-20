@@ -12,5 +12,5 @@
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/w37j5h/wednesday_daily_thread_beginner_questions/)
 - [learning skills like python, but in a personalized way](https://www.reddit.com/r/Python/comments/w372ii/learning_skills_like_python_but_in_a_personalized/)
 - [Web-based RPG game powered by FastAPI](https://www.reddit.com/r/Python/comments/w36xyu/webbased_rpg_game_powered_by_fastapi/)
-- [Why hasn&#39;t the bottleneck package been merged into numpy?](https://www.reddit.com/r/Python/comments/w348mu/why_hasnt_the_bottleneck_package_been_merged_into/)
+- [Generate web UI from your scripts &lpar;they have a cloud but lib is free&rpar;](https://www.reddit.com/r/Python/comments/w34383/generate_web_ui_from_your_scripts_they_have_a/)
 <!-- BLOG-POST-LIST:END -->
