@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pyspark learning for spark developer associate](https://www.reddit.com/r/Python/comments/w3uode/pyspark_learning_for_spark_developer_associate/)
+- [Learned how to make a scrolling background on my own](https://www.reddit.com/r/Python/comments/w3uhkz/learned_how_to_make_a_scrolling_background_on_my/)
+- [Pretty Maps in Python](https://www.reddit.com/r/Python/comments/w3uhel/pretty_maps_in_python/)
 - [What’s more important if any, getting it right or getting it working?](https://www.reddit.com/r/Python/comments/w3t9kp/whats_more_important_if_any_getting_it_right_or/)
 - [Is there any way to dynamically generate random metaverse like 3d models in Python?](https://www.reddit.com/r/Python/comments/w3t4xe/is_there_any_way_to_dynamically_generate_random/)
-- [Citrine Python Extension](https://www.reddit.com/r/Python/comments/w3sp9l/citrine_python_extension/)
-- [price alert backend](https://www.reddit.com/r/Python/comments/w3s22h/price_alert_backend/)
-- [Create a Slack wizard in Python that answers all your questions](https://www.reddit.com/r/Python/comments/w3rgma/create_a_slack_wizard_in_python_that_answers_all/)
 <!-- BLOG-POST-LIST:END -->
