@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Case of examining the problem that Credential can be leaked only with API key exposure through security issues on web applications such as Django](https://www.reddit.com/r/Python/comments/w3h4l8/case_of_examining_the_problem_that_credential_can/)
+- [Tutorial: Intro to Stock Market Analysis using Python](https://www.reddit.com/r/Python/comments/w3gqio/tutorial_intro_to_stock_market_analysis_using/)
 - [NumPy C-API &lpar;Python C extensions&rpar;](https://www.reddit.com/r/Python/comments/w3ekv7/numpy_capi_python_c_extensions/)
 - [Google Researchers Open-Source the TensorFlow GNN &lpar;TF-GNN&rpar;: A Scalable Python Library for Graph Neural Networks in TensorFlow](https://www.reddit.com/r/Python/comments/w3cks5/google_researchers_opensource_the_tensorflow_gnn/)
 - [Python =&gt;3 Craiyon API Terminal Interface](https://www.reddit.com/r/Python/comments/w37x1x/python_3_craiyon_api_terminal_interface/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/w37j5h/wednesday_daily_thread_beginner_questions/)
-- [learning skills like python, but in a personalized way](https://www.reddit.com/r/Python/comments/w372ii/learning_skills_like_python_but_in_a_personalized/)
 <!-- BLOG-POST-LIST:END -->
