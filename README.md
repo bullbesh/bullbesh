@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [price alert backend](https://www.reddit.com/r/Python/comments/w3s22h/price_alert_backend/)
+- [Create a Slack wizard in Python that answers all your questions](https://www.reddit.com/r/Python/comments/w3rgma/create_a_slack_wizard_in_python_that_answers_all/)
+- [htag : how to craft a input field component, for its GUI](https://www.reddit.com/r/Python/comments/w3r394/htag_how_to_craft_a_input_field_component_for_its/)
 - [mutstring - Make your Python strings mutable](https://www.reddit.com/r/Python/comments/w3oji3/mutstring_make_your_python_strings_mutable/)
 - [It&#39;s Time to Say Goodbye to These Obsolete Python Libraries | Martin Heinz](https://www.reddit.com/r/Python/comments/w3o19i/its_time_to_say_goodbye_to_these_obsolete_python/)
-- [I&#39;ve been playing around with speech recognition in Python, here&#39;s a code walkthrough of how to use the SpeechRecognition library](https://www.reddit.com/r/Python/comments/w3nzmt/ive_been_playing_around_with_speech_recognition/)
-- [Python Summer Bootcamp](https://www.reddit.com/r/Python/comments/w3nnnt/python_summer_bootcamp/)
-- [It’s Time to Say Goodbye to These Obsolete Python Libraries](https://www.reddit.com/r/Python/comments/w3mtbr/its_time_to_say_goodbye_to_these_obsolete_python/)
 <!-- BLOG-POST-LIST:END -->
