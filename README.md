@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Researchers Open-Source the TensorFlow GNN &lpar;TF-GNN&rpar;: A Scalable Python Library for Graph Neural Networks in TensorFlow](https://www.reddit.com/r/Python/comments/w3cks5/google_researchers_opensource_the_tensorflow_gnn/)
 - [Python =&gt;3 Craiyon API Terminal Interface](https://www.reddit.com/r/Python/comments/w37x1x/python_3_craiyon_api_terminal_interface/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/w37j5h/wednesday_daily_thread_beginner_questions/)
 - [learning skills like python, but in a personalized way](https://www.reddit.com/r/Python/comments/w372ii/learning_skills_like_python_but_in_a_personalized/)
 - [Web-based RPG game powered by FastAPI](https://www.reddit.com/r/Python/comments/w36xyu/webbased_rpg_game_powered_by_fastapi/)
-- [Generate web UI from your scripts &lpar;they have a cloud but lib is free&rpar;](https://www.reddit.com/r/Python/comments/w34383/generate_web_ui_from_your_scripts_they_have_a/)
 <!-- BLOG-POST-LIST:END -->
