@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [First Time Eating a Python](https://www.reddit.com/r/Python/comments/w4rkzs/first_time_eating_a_python/)
+- [Typing your way into safety](https://www.reddit.com/r/Python/comments/w4sg55/typing_your_way_into_safety/)
 - [Flask Tutorials! Build your own websites with python](https://www.reddit.com/r/Python/comments/w4rjl8/flask_tutorials_build_your_own_websites_with/)
 - [Suggestions For Improvements. Constructive Criticism Or Ideas For Extensions. :&rpar;](https://www.reddit.com/r/Python/comments/w4pxbx/suggestions_for_improvements_constructive/)
 - [Create Your Own Code Editor Using PyQt5 #3 - Refactoring And Adding Styles &lpar;I hope this is not annoying&rpar;](https://www.reddit.com/r/Python/comments/w4pj3j/create_your_own_code_editor_using_pyqt5_3/)
