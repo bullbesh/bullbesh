@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Develop a fail over mechanism in python for an API response?](https://www.reddit.com/r/Python/comments/w4kztl/how_to_develop_a_fail_over_mechanism_in_python/)
+- [Why you should use `python -m pip`](https://www.reddit.com/r/Python/comments/w4kg7q/why_you_should_use_python_m_pip/)
 - [&lpar;Korean&rpar; PublicDataReader - Collect data easily](https://www.reddit.com/r/Python/comments/w4i5yh/korean_publicdatareader_collect_data_easily/)
 - [CAPTCHA automatic recognition AI model library](https://www.reddit.com/r/Python/comments/w4i0d7/captcha_automatic_recognition_ai_model_library/)
 - [I learned how to code grid based movement.](https://www.reddit.com/r/Python/comments/w4hxly/i_learned_how_to_code_grid_based_movement/)
-- [Setting up a Private PyPI Server](https://www.reddit.com/r/Python/comments/w4hh9d/setting_up_a_private_pypi_server/)
-- [Basic Pop-up menus and classes tutorial using python&#39;s PyGame GUI framework](https://www.reddit.com/r/Python/comments/w4g0l6/basic_popup_menus_and_classes_tutorial_using/)
 <!-- BLOG-POST-LIST:END -->
