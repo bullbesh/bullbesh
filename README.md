@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finding performance bottlenecks in Celery tasks](https://www.reddit.com/r/Python/comments/w4p1sj/finding_performance_bottlenecks_in_celery_tasks/)
+- [Building a Python Flask App with Biometric Authentication](https://www.reddit.com/r/Python/comments/w4oc1c/building_a_python_flask_app_with_biometric/)
 - [Why you should use `python -m pip`](https://www.reddit.com/r/Python/comments/w4kg7q/why_you_should_use_python_m_pip/)
 - [&lpar;Korean&rpar; PublicDataReader - Collect data easily](https://www.reddit.com/r/Python/comments/w4i5yh/korean_publicdatareader_collect_data_easily/)
 - [CAPTCHA automatic recognition AI model library](https://www.reddit.com/r/Python/comments/w4i0d7/captcha_automatic_recognition_ai_model_library/)
-- [I learned how to code grid based movement.](https://www.reddit.com/r/Python/comments/w4hxly/i_learned_how_to_code_grid_based_movement/)
-- [Setting up a Private PyPI Server](https://www.reddit.com/r/Python/comments/w4hh9d/setting_up_a_private_pypi_server/)
 <!-- BLOG-POST-LIST:END -->
