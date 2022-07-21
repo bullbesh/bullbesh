@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How far could you get without google?](https://www.reddit.com/r/Python/comments/w46m73/how_far_could_you_get_without_google/)
+- [Is anyone in the Bay Area- preferably near Fremont- want to learn python coding? I am an accountant by profession and want to learn coding in the evenings and on weekends.](https://www.reddit.com/r/Python/comments/w4682r/is_anyone_in_the_bay_area_preferably_near_fremont/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/w41lbj/thursday_daily_thread_python_careers_courses_and/)
 - [Multiprocessing Pool apply&lpar;&rpar; vs map&lpar;&rpar; vs imap&lpar;&rpar; vs starmap&lpar;&rpar;](https://www.reddit.com/r/Python/comments/w3zn08/multiprocessing_pool_apply_vs_map_vs_imap_vs/)
 - [Design Pattern: Using the Repository Pattern for better data encapsulation](https://www.reddit.com/r/Python/comments/w3yx00/design_pattern_using_the_repository_pattern_for/)
-- [Build a Data Science Portfolio &lpar;Beginner&#39;s Guide&rpar;](https://www.reddit.com/r/Python/comments/w3ykdx/build_a_data_science_portfolio_beginners_guide/)
-- [pyspark learning for spark developer associate](https://www.reddit.com/r/Python/comments/w3uode/pyspark_learning_for_spark_developer_associate/)
 <!-- BLOG-POST-LIST:END -->
