@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up a Private PyPI Server](https://www.reddit.com/r/Python/comments/w4hh9d/setting_up_a_private_pypi_server/)
 - [Basic Pop-up menus and classes tutorial using python&#39;s PyGame GUI framework](https://www.reddit.com/r/Python/comments/w4g0l6/basic_popup_menus_and_classes_tutorial_using/)
-- [Tier list - Libraries I&#39;ve covered in drafting the Modern Python Checklist](https://www.reddit.com/r/Python/comments/w4f5ex/tier_list_libraries_ive_covered_in_drafting_the/)
 - [How to automate deploying flask app to AWS via a CI/CD pipeline using GitHub Actions](https://www.reddit.com/r/Python/comments/w4dwlx/how_to_automate_deploying_flask_app_to_aws_via_a/)
 - [Aiohttp.web rate limiter](https://www.reddit.com/r/Python/comments/w4d0wt/aiohttpweb_rate_limiter/)
 - [Social media app made with FastAPI](https://www.reddit.com/r/Python/comments/w4cqje/social_media_app_made_with_fastapi/)
