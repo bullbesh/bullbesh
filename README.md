@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tier list - Libraries I&#39;ve covered in drafting the Modern Python Checklist](https://www.reddit.com/r/Python/comments/w4f5ex/tier_list_libraries_ive_covered_in_drafting_the/)
 - [How to automate deploying flask app to AWS via a CI/CD pipeline using GitHub Actions](https://www.reddit.com/r/Python/comments/w4dwlx/how_to_automate_deploying_flask_app_to_aws_via_a/)
 - [Aiohttp.web rate limiter](https://www.reddit.com/r/Python/comments/w4d0wt/aiohttpweb_rate_limiter/)
 - [Social media app made with FastAPI](https://www.reddit.com/r/Python/comments/w4cqje/social_media_app_made_with_fastapi/)
 - [The Ultimate CSS Selectors Cheat Sheet for Web Scraping](https://www.reddit.com/r/Python/comments/w4cp6s/the_ultimate_css_selectors_cheat_sheet_for_web/)
-- [Have you ever wanted to write Python for your web-frontend development? Here is an article on go you can achieve that using PyScript](https://www.reddit.com/r/Python/comments/w4byix/have_you_ever_wanted_to_write_python_for_your/)
 <!-- BLOG-POST-LIST:END -->
