@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [New on programming started self learn at home , would like to be shared with some tips , guides and tutorials .](https://www.reddit.com/r/Python/comments/w5it0f/new_on_programming_started_self_learn_at_home/)
+- [Today I began work on my first &#39;real&#39; Python application: `siili`, easy Amazon S3 uploading from the command line.](https://www.reddit.com/r/Python/comments/w5j02m/today_i_began_work_on_my_first_real_python/)
 - [How to convert py to apk using buildozer](https://www.reddit.com/r/Python/comments/w5hjqk/how_to_convert_py_to_apk_using_buildozer/)
 - [python-code-data: Tool for inspecting and creating Python bytecode](https://www.reddit.com/r/Python/comments/w5gnan/pythoncodedata_tool_for_inspecting_and_creating/)
 - [Learn How to Draw a Perfect Star &lpar;Equation Expressing Star&rpar;](https://www.reddit.com/r/Python/comments/w5d5ym/learn_how_to_draw_a_perfect_star_equation/)
