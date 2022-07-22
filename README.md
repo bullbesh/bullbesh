@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are the betters libs on Python for you?](https://www.reddit.com/r/Python/comments/w5ojm0/what_are_the_betters_libs_on_python_for_you/)
 - [PPM &lpar;Python Project Manager&rpar; is a simple project manager](https://www.reddit.com/r/Python/comments/w5lcmo/ppm_python_project_manager_is_a_simple_project/)
 - [Faster than Tkinter or QtPy: Drag and drop frontends for your Python projects](https://www.reddit.com/r/Python/comments/w5kwo8/faster_than_tkinter_or_qtpy_drag_and_drop/)
 - [I finally figured out how to program jumping! - Barebones Platformer Engine I made](https://www.reddit.com/r/Python/comments/w5ktlq/i_finally_figured_out_how_to_program_jumping/)
 - [Today I began work on my first &#39;real&#39; Python application: `siili`, easy Amazon S3 uploading from the command line.](https://www.reddit.com/r/Python/comments/w5j02m/today_i_began_work_on_my_first_real_python/)
-- [How to convert py to apk using buildozer](https://www.reddit.com/r/Python/comments/w5hjqk/how_to_convert_py_to_apk_using_buildozer/)
 <!-- BLOG-POST-LIST:END -->
