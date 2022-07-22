@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anybody else feel like match could be an expression?](https://www.reddit.com/r/Python/comments/w4xoxb/anybody_else_feel_like_match_could_be_an/)
+- [Cal Newport Deep Questions Podcast Question repository](https://www.reddit.com/r/Python/comments/w4w4ph/cal_newport_deep_questions_podcast_question/)
+- [Python MySQL Database](https://www.reddit.com/r/Python/comments/w4vfxs/python_mysql_database/)
 - [Typing your way into safety](https://www.reddit.com/r/Python/comments/w4sg55/typing_your_way_into_safety/)
 - [Flask Tutorials! Build your own websites with python](https://www.reddit.com/r/Python/comments/w4rjl8/flask_tutorials_build_your_own_websites_with/)
-- [Suggestions For Improvements. Constructive Criticism Or Ideas For Extensions. :&rpar;](https://www.reddit.com/r/Python/comments/w4pxbx/suggestions_for_improvements_constructive/)
-- [Create Your Own Code Editor Using PyQt5 #3 - Refactoring And Adding Styles &lpar;I hope this is not annoying&rpar;](https://www.reddit.com/r/Python/comments/w4pj3j/create_your_own_code_editor_using_pyqt5_3/)
-- [Create a Stock Analysis Class || Stock Analysis with Python Part 10](https://www.reddit.com/r/Python/comments/w4pca3/create_a_stock_analysis_class_stock_analysis_with/)
 <!-- BLOG-POST-LIST:END -->
