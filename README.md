@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Argument parsing library](https://www.reddit.com/r/Python/comments/w5aqsc/argument_parsing_library/)
+- [We built a Slideshow Video Generator with Python &amp; Pexels API that is free to use. Also shared the source code of the project.](https://www.reddit.com/r/Python/comments/w5ah3w/we_built_a_slideshow_video_generator_with_python/)
+- [Built a Flask-based Image/URL Shortener website &lpar;Format: 100 KB/ 250 MB like that&rpar;](https://www.reddit.com/r/Python/comments/w5abm6/built_a_flaskbased_imageurl_shortener_website/)
+- [Tray icon &lpar;and menu&rpar; interaction for Python](https://www.reddit.com/r/Python/comments/w5a2qg/tray_icon_and_menu_interaction_for_python/)
 - [A little issue](https://www.reddit.com/r/Python/comments/w58vka/a_little_issue/)
-- [numba](https://www.reddit.com/r/Python/comments/w56lwi/numba/)
-- [We built the Replit for Infrastructure - Let us know what you think?](https://www.reddit.com/r/Python/comments/w56bjf/we_built_the_replit_for_infrastructure_let_us/)
-- [Dynamic Programming For Interview Prep in Python :&rpar;](https://www.reddit.com/r/Python/comments/w567ct/dynamic_programming_for_interview_prep_in_python/)
-- [Image Processing In Python &lpar;OpenCV&rpar;](https://www.reddit.com/r/Python/comments/w564y3/image_processing_in_python_opencv/)
 <!-- BLOG-POST-LIST:END -->
