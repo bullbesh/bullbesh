@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I made a Morse code translator](https://www.reddit.com/r/Python/comments/w5balg/i_made_a_morse_code_translator/)
-- [Argument parsing library](https://www.reddit.com/r/Python/comments/w5aqsc/argument_parsing_library/)
-- [We built a Slideshow Video Generator with Python &amp; Pexels API that is free to use. Also shared the source code of the project.](https://www.reddit.com/r/Python/comments/w5ah3w/we_built_a_slideshow_video_generator_with_python/)
-- [Built a Flask-based Image/URL Shortener website &lpar;Format: 100 KB/ 250 MB like that&rpar;](https://www.reddit.com/r/Python/comments/w5abm6/built_a_flaskbased_imageurl_shortener_website/)
-- [Tray icon &lpar;and menu&rpar; interaction for Python](https://www.reddit.com/r/Python/comments/w5a2qg/tray_icon_and_menu_interaction_for_python/)
+- [Learn How to Draw a Perfect Star &lpar;Equation Expressing Star&rpar;](https://www.reddit.com/r/Python/comments/w5d5ym/learn_how_to_draw_a_perfect_star_equation/)
+- [do you regret going deep with python ?](https://www.reddit.com/r/Python/comments/w5ctyz/do_you_regret_going_deep_with_python/)
+- [huispedia: Python library to get information about houses from huispedia.nl](https://www.reddit.com/r/Python/comments/w5csm7/huispedia_python_library_to_get_information_about/)
+- [Limiting Python Function Execution Time with a Parameterized Decorator via Multiprocessing](https://www.reddit.com/r/Python/comments/w5cgxu/limiting_python_function_execution_time_with_a/)
+- [M1 support for PyPy](https://www.reddit.com/r/Python/comments/w5c7dx/m1_support_for_pypy/)
 <!-- BLOG-POST-LIST:END -->
