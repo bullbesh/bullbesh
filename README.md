@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A little issue](https://www.reddit.com/r/Python/comments/w58vka/a_little_issue/)
 - [numba](https://www.reddit.com/r/Python/comments/w56lwi/numba/)
 - [We built the Replit for Infrastructure - Let us know what you think?](https://www.reddit.com/r/Python/comments/w56bjf/we_built_the_replit_for_infrastructure_let_us/)
 - [Dynamic Programming For Interview Prep in Python :&rpar;](https://www.reddit.com/r/Python/comments/w567ct/dynamic_programming_for_interview_prep_in_python/)
 - [Image Processing In Python &lpar;OpenCV&rpar;](https://www.reddit.com/r/Python/comments/w564y3/image_processing_in_python_opencv/)
-- [Can anyone explain the differences of Conda vs Pip?](https://www.reddit.com/r/Python/comments/w564g0/can_anyone_explain_the_differences_of_conda_vs_pip/)
 <!-- BLOG-POST-LIST:END -->
