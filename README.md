@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Blacksheep vs Starlite vs FastAPI](https://www.reddit.com/r/Python/comments/w5426w/blacksheep_vs_starlite_vs_fastapi/)
-- [How Should You Start Learning Python? - Tutorials Freak](https://www.reddit.com/r/Python/comments/w53nhe/how_should_you_start_learning_python_tutorials/)
-- [Create your own stock database in python](https://www.reddit.com/r/Python/comments/w53bv3/create_your_own_stock_database_in_python/)
-- [Python has a Burgeoning Field for Aspiring Programmers](https://www.reddit.com/r/Python/comments/w52yiz/python_has_a_burgeoning_field_for_aspiring/)
-- [I Love Python](https://www.reddit.com/r/Python/comments/w52aa2/i_love_python/)
+- [numba](https://www.reddit.com/r/Python/comments/w56lwi/numba/)
+- [We built the Replit for Infrastructure - Let us know what you think?](https://www.reddit.com/r/Python/comments/w56bjf/we_built_the_replit_for_infrastructure_let_us/)
+- [Dynamic Programming For Interview Prep in Python :&rpar;](https://www.reddit.com/r/Python/comments/w567ct/dynamic_programming_for_interview_prep_in_python/)
+- [Image Processing In Python &lpar;OpenCV&rpar;](https://www.reddit.com/r/Python/comments/w564y3/image_processing_in_python_opencv/)
+- [Can anyone explain the differences of Conda vs Pip?](https://www.reddit.com/r/Python/comments/w564g0/can_anyone_explain_the_differences_of_conda_vs_pip/)
 <!-- BLOG-POST-LIST:END -->
