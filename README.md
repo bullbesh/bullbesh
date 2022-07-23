@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Rat-ToolKit. A hacking tool for creating and using exploits](https://www.reddit.com/r/Python/comments/w6bmp1/rattoolkit_a_hacking_tool_for_creating_and_using/)
-- [Logging in Python: A Developer’s Guide](https://www.reddit.com/r/Python/comments/w6b7lh/logging_in_python_a_developers_guide/)
-- [A quick benchmark comparing pydantic V2 with msgspec](https://www.reddit.com/r/Python/comments/w68nv3/a_quick_benchmark_comparing_pydantic_v2_with/)
-- [Coding my robots in Python 3](https://www.reddit.com/r/Python/comments/w68lpb/coding_my_robots_in_python_3/)
-- [Python Bootcamp](https://www.reddit.com/r/Python/comments/w66xet/python_bootcamp/)
+- [How to make MUSIC PLAYER using Python](https://www.reddit.com/r/Python/comments/w6e760/how_to_make_music_player_using_python/)
+- [Context menu on QPushButton](https://www.reddit.com/r/Python/comments/w6e3fu/context_menu_on_qpushbutton/)
+- [Have you ever created a cryptography program?](https://www.reddit.com/r/Python/comments/w6dxej/have_you_ever_created_a_cryptography_program/)
+- [FACE RECOGNITION using Python](https://www.reddit.com/r/Python/comments/w6dmui/face_recognition_using_python/)
+- [OPENCV PROJECT | How To Remove Your Video Background In Python](https://www.reddit.com/r/Python/comments/w6dedq/opencv_project_how_to_remove_your_video/)
 <!-- BLOG-POST-LIST:END -->
