@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Are We So Afraid of Being Unproductive?](https://www.reddit.com/r/Python/comments/w6gyt5/why_are_we_so_afraid_of_being_unproductive/)
+- [Fast Rubik Cube simulation in Python for cubes of any size: 2x2, 3x3, 10x10](https://www.reddit.com/r/Python/comments/w6gy1t/fast_rubik_cube_simulation_in_python_for_cubes_of/)
+- [Deny dangerous actions &quot;automatically&quot;](https://www.reddit.com/r/Python/comments/w6fztj/deny_dangerous_actions_automatically/)
 - [I made this with Pygame :&rpar;](https://www.reddit.com/r/Python/comments/w6ewk6/i_made_this_with_pygame/)
 - [How to make MUSIC PLAYER using Python](https://www.reddit.com/r/Python/comments/w6e760/how_to_make_music_player_using_python/)
-- [Context menu on QPushButton](https://www.reddit.com/r/Python/comments/w6e3fu/context_menu_on_qpushbutton/)
-- [Have you ever created a cryptography program?](https://www.reddit.com/r/Python/comments/w6dxej/have_you_ever_created_a_cryptography_program/)
-- [FACE RECOGNITION using Python](https://www.reddit.com/r/Python/comments/w6dmui/face_recognition_using_python/)
 <!-- BLOG-POST-LIST:END -->
