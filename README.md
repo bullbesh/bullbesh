@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made this with Pygame :&rpar;](https://www.reddit.com/r/Python/comments/w6ewk6/i_made_this_with_pygame/)
 - [How to make MUSIC PLAYER using Python](https://www.reddit.com/r/Python/comments/w6e760/how_to_make_music_player_using_python/)
 - [Context menu on QPushButton](https://www.reddit.com/r/Python/comments/w6e3fu/context_menu_on_qpushbutton/)
 - [Have you ever created a cryptography program?](https://www.reddit.com/r/Python/comments/w6dxej/have_you_ever_created_a_cryptography_program/)
 - [FACE RECOGNITION using Python](https://www.reddit.com/r/Python/comments/w6dmui/face_recognition_using_python/)
-- [OPENCV PROJECT | How To Remove Your Video Background In Python](https://www.reddit.com/r/Python/comments/w6dedq/opencv_project_how_to_remove_your_video/)
 <!-- BLOG-POST-LIST:END -->
