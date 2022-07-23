@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Bootcamp](https://www.reddit.com/r/Python/comments/w66xet/python_bootcamp/)
 - [Custom Python Dictionaries: Inheriting From dict vs UserDict – Real Python](https://www.reddit.com/r/Python/comments/w66eqh/custom_python_dictionaries_inheriting_from_dict/)
 - [pathfinder_dice: A library for evaluating dice notation for Pathfinder RPG](https://www.reddit.com/r/Python/comments/w661od/pathfinder_dice_a_library_for_evaluating_dice/)
 - [Does anyone have tried to learn Machine Learning from elitedatascience.com?](https://www.reddit.com/r/Python/comments/w65j0k/does_anyone_have_tried_to_learn_machine_learning/)
 - [web scraping query?](https://www.reddit.com/r/Python/comments/w651yh/web_scraping_query/)
-- [Best way to manage private library dependencies?](https://www.reddit.com/r/Python/comments/w62hlr/best_way_to_manage_private_library_dependencies/)
 <!-- BLOG-POST-LIST:END -->
