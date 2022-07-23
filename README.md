@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rat-ToolKit. A hacking tool for creating and using exploits](https://www.reddit.com/r/Python/comments/w6bmp1/rattoolkit_a_hacking_tool_for_creating_and_using/)
+- [Logging in Python: A Developer’s Guide](https://www.reddit.com/r/Python/comments/w6b7lh/logging_in_python_a_developers_guide/)
 - [A quick benchmark comparing pydantic V2 with msgspec](https://www.reddit.com/r/Python/comments/w68nv3/a_quick_benchmark_comparing_pydantic_v2_with/)
 - [Coding my robots in Python 3](https://www.reddit.com/r/Python/comments/w68lpb/coding_my_robots_in_python_3/)
 - [Python Bootcamp](https://www.reddit.com/r/Python/comments/w66xet/python_bootcamp/)
-- [Custom Python Dictionaries: Inheriting From dict vs UserDict – Real Python](https://www.reddit.com/r/Python/comments/w66eqh/custom_python_dictionaries_inheriting_from_dict/)
-- [pathfinder_dice: A library for evaluating dice notation for Pathfinder RPG](https://www.reddit.com/r/Python/comments/w661od/pathfinder_dice_a_library_for_evaluating_dice/)
 <!-- BLOG-POST-LIST:END -->
