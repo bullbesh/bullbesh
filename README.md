@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Starting a project from scratch. And looking for complete automated and how to build the architecture. r.](https://www.reddit.com/r/Python/comments/w5vre3/starting_a_project_from_scratch_and_looking_for/)
 - [How to handle with some hard stuff?](https://www.reddit.com/r/Python/comments/w5usr1/how_to_handle_with_some_hard_stuff/)
 - [Make a Ukraine Russian War News App in Python | API | Beginners](https://www.reddit.com/r/Python/comments/w5unjw/make_a_ukraine_russian_war_news_app_in_python_api/)
 - [To-ASCII 5.0 - A command line tool and library for making ASCII art from images and video!](https://www.reddit.com/r/Python/comments/w5trnj/toascii_50_a_command_line_tool_and_library_for/)
 - [pip 22.2 now has &quot;pip install --dry-run&quot;](https://www.reddit.com/r/Python/comments/w5tqht/pip_222_now_has_pip_install_dryrun/)
-- [Near duplicate image detection](https://www.reddit.com/r/Python/comments/w5so4s/near_duplicate_image_detection/)
 <!-- BLOG-POST-LIST:END -->
