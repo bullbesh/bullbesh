@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [To-ASCII 5.0 - A command line tool and library for making ASCII art from images and video!](https://www.reddit.com/r/Python/comments/w5trnj/toascii_50_a_command_line_tool_and_library_for/)
+- [pip 22.2 now has &quot;pip install --dry-run&quot;](https://www.reddit.com/r/Python/comments/w5tqht/pip_222_now_has_pip_install_dryrun/)
+- [Near duplicate image detection](https://www.reddit.com/r/Python/comments/w5so4s/near_duplicate_image_detection/)
+- [CaptchaCracker - Open Source Python Library](https://www.reddit.com/r/Python/comments/w5siur/captchacracker_open_source_python_library/)
 - [How read NFC tags with python?](https://www.reddit.com/r/Python/comments/w5quu1/how_read_nfc_tags_with_python/)
-- [Read xml column inside csv file with Python](https://www.reddit.com/r/Python/comments/w5pm8w/read_xml_column_inside_csv_file_with_python/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/w5pe6p/saturday_daily_thread_resource_request_and/)
-- [What are the betters libs on Python for you?](https://www.reddit.com/r/Python/comments/w5ojm0/what_are_the_betters_libs_on_python_for_you/)
-- [PPM &lpar;Python Project Manager&rpar; is a simple project manager](https://www.reddit.com/r/Python/comments/w5lcmo/ppm_python_project_manager_is_a_simple_project/)
 <!-- BLOG-POST-LIST:END -->
