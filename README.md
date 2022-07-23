@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I can Fly!!](https://www.reddit.com/r/Python/comments/w5xhly/i_can_fly/)
+- [Text Based Adventure Game](https://www.reddit.com/r/Python/comments/w5x6fa/text_based_adventure_game/)
 - [Hello, I want to develop similar site like https://instadesignpro.com/new/ … Can anybody told me what is the development cost of this site &amp; where can I find developer for this site ???](https://www.reddit.com/r/Python/comments/w5wio6/hello_i_want_to_develop_similar_site_like/)
 - [The Maze Runner&#39;s maze in pure Python](https://www.reddit.com/r/Python/comments/w5w70y/the_maze_runners_maze_in_pure_python/)
 - [At Home Useful Projects](https://www.reddit.com/r/Python/comments/w5w4vj/at_home_useful_projects/)
-- [Starting a project from scratch. And looking for complete automated and how to build the architecture. r.](https://www.reddit.com/r/Python/comments/w5vre3/starting_a_project_from_scratch_and_looking_for/)
-- [How to handle with some hard stuff?](https://www.reddit.com/r/Python/comments/w5usr1/how_to_handle_with_some_hard_stuff/)
 <!-- BLOG-POST-LIST:END -->
