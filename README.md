@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best way to manage private library dependencies?](https://www.reddit.com/r/Python/comments/w62hlr/best_way_to_manage_private_library_dependencies/)
 - [LOOKING FOR A PYTHON PROJECT](https://www.reddit.com/r/Python/comments/w60y9j/looking_for_a_python_project/)
 - [Salary of a Python Data Scientist](https://www.reddit.com/r/Python/comments/w5yjn6/salary_of_a_python_data_scientist/)
-- [I can Fly!!](https://www.reddit.com/r/Python/comments/w5xhly/i_can_fly/)
 - [Text Based Adventure Game](https://www.reddit.com/r/Python/comments/w5x6fa/text_based_adventure_game/)
 - [The Maze Runner&#39;s maze in pure Python](https://www.reddit.com/r/Python/comments/w5w70y/the_maze_runners_maze_in_pure_python/)
 <!-- BLOG-POST-LIST:END -->
