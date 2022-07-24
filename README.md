@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PowerPoint Template Library](https://www.reddit.com/r/Python/comments/w732ci/powerpoint_template_library/)
+- [Opinion: multiple modules, opinion on how to start/run them](https://www.reddit.com/r/Python/comments/w72a5i/opinion_multiple_modules_opinion_on_how_to/)
 - [import vpython produces error: float division by zero](https://www.reddit.com/r/Python/comments/w724aw/import_vpython_produces_error_float_division_by/)
 - [Written a few Flask full-stack CRUD applications in my bootcamp, what should I learn next?](https://www.reddit.com/r/Python/comments/w71ld5/written_a_few_flask_fullstack_crud_applications/)
 - [Dice Roll Interpreter](https://www.reddit.com/r/Python/comments/w71bhe/dice_roll_interpreter/)
-- [Proxy5 server implementation that anyone can use with one line of code.](https://www.reddit.com/r/Python/comments/w70j8y/proxy5_server_implementation_that_anyone_can_use/)
-- [A new library based on ex command](https://www.reddit.com/r/Python/comments/w6zjze/a_new_library_based_on_ex_command/)
 <!-- BLOG-POST-LIST:END -->
