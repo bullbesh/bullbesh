@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scheduler with an API &lpar;a working template to get you started&rpar;](https://www.reddit.com/r/Python/comments/w6qvbm/scheduler_with_an_api_a_working_template_to_get/)
 - [How to use VS Code from ANYWHERE](https://www.reddit.com/r/Python/comments/w6qd5j/how_to_use_vs_code_from_anywhere/)
 - [nestd - a package that allows you to extract your nested functions.](https://www.reddit.com/r/Python/comments/w6pvdn/nestd_a_package_that_allows_you_to_extract_your/)
 - [python scripting](https://www.reddit.com/r/Python/comments/w6p1h7/python_scripting/)
 - [Noob question about technical test](https://www.reddit.com/r/Python/comments/w6lt9v/noob_question_about_technical_test/)
-- [DBPack released v0.3.0, support audit log and sql tracing, and we previewed column encryption and decryption.](https://www.reddit.com/r/Python/comments/w6le1s/dbpack_released_v030_support_audit_log_and_sql/)
 <!-- BLOG-POST-LIST:END -->
