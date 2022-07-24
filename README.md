@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Noob question about technical test](https://www.reddit.com/r/Python/comments/w6lt9v/noob_question_about_technical_test/)
+- [DBPack released v0.3.0, support audit log and sql tracing, and we previewed column encryption and decryption.](https://www.reddit.com/r/Python/comments/w6le1s/dbpack_released_v030_support_audit_log_and_sql/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/w6hwwt/sunday_daily_thread_whats_everyone_working_on/)
-- [Why Are We So Afraid of Being Unproductive?](https://www.reddit.com/r/Python/comments/w6gyt5/why_are_we_so_afraid_of_being_unproductive/)
 - [Fast Rubik Cube simulation in Python for cubes of any size: 2x2, 3x3, 10x10](https://www.reddit.com/r/Python/comments/w6gy1t/fast_rubik_cube_simulation_in_python_for_cubes_of/)
 - [Deny dangerous actions &quot;automatically&quot;](https://www.reddit.com/r/Python/comments/w6fztj/deny_dangerous_actions_automatically/)
-- [I made this with Pygame :&rpar;](https://www.reddit.com/r/Python/comments/w6ewk6/i_made_this_with_pygame/)
 <!-- BLOG-POST-LIST:END -->
