@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Selenium Error &lpar;Unable to locate element&rpar;](https://www.reddit.com/r/Python/comments/w760kg/selenium_error_unable_to_locate_element/)
 - [A Blackjack game to showcase my learning progress - Self Taught &lpar;it&#39;s getting easier&rpar;](https://www.reddit.com/r/Python/comments/w75bvu/a_blackjack_game_to_showcase_my_learning_progress/)
 - [Your favourite &quot;less-known&quot; Python features?](https://www.reddit.com/r/Python/comments/w75ack/your_favourite_lessknown_python_features/)
 - [Data Wrangling Module](https://www.reddit.com/r/Python/comments/w73ybc/data_wrangling_module/)
 - [PowerPoint Template Library](https://www.reddit.com/r/Python/comments/w732ci/powerpoint_template_library/)
+- [Opinion: multiple modules, opinion on how to start/run them](https://www.reddit.com/r/Python/comments/w72a5i/opinion_multiple_modules_opinion_on_how_to/)
 <!-- BLOG-POST-LIST:END -->
