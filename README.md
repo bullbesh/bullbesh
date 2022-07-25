@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What do you hate most about Python?](https://www.reddit.com/r/Python/comments/w7lpxi/what_do_you_hate_most_about_python/)
 - [A wild Python channel has appeared!](https://www.reddit.com/r/Python/comments/w7kzxk/a_wild_python_channel_has_appeared/)
 - [Good morning techies... Just finished python basics.. want to dive into web development using python Pls someone should recommend a good and self explanatory PDF for network programming with python🙏🙏🙏 Thanks.](https://www.reddit.com/r/Python/comments/w7kkbb/good_morning_techies_just_finished_python_basics/)
 - [Should I learn Pygame, Opencv or Numpy in python first?](https://www.reddit.com/r/Python/comments/w7k64i/should_i_learn_pygame_opencv_or_numpy_in_python/)
 - [Protocols in Python: Why You Need Them](https://www.reddit.com/r/Python/comments/w7jlei/protocols_in_python_why_you_need_them/)
-- [Noob programmer here, basically just making simple functional stuff for work. Where can I see what large projects look like?](https://www.reddit.com/r/Python/comments/w7j898/noob_programmer_here_basically_just_making_simple/)
 <!-- BLOG-POST-LIST:END -->
