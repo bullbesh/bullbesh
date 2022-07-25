@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best practice for managing dependencies that are data, not code](https://www.reddit.com/r/Python/comments/w7x4vn/best_practice_for_managing_dependencies_that_are/)
 - [What framework do you use? and what is your job? ⬇️⬇️](https://www.reddit.com/r/Python/comments/w7vx6y/what_framework_do_you_use_and_what_is_your_job/)
 - [I made a Python compiler, that can compile Python source down to fast, standalone executables.](https://www.reddit.com/r/Python/comments/w7vlim/i_made_a_python_compiler_that_can_compile_python/)
 - [How to use &quot;match&quot; correctly in Python 3.10 &lpar;match != switch&rpar;](https://www.reddit.com/r/Python/comments/w7vj13/how_to_use_match_correctly_in_python_310_match/)
 - [Three Tools for Executing Jupyter Notebooks](https://www.reddit.com/r/Python/comments/w7ugl3/three_tools_for_executing_jupyter_notebooks/)
-- [How to Automatically Calculate &amp; Graph Stock Returns &amp; Volatility || Py...](https://www.reddit.com/r/Python/comments/w7tbq5/how_to_automatically_calculate_graph_stock/)
 <!-- BLOG-POST-LIST:END -->
