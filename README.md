@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Automatically Calculate &amp; Graph Stock Returns &amp; Volatility || Py...](https://www.reddit.com/r/Python/comments/w7tbq5/how_to_automatically_calculate_graph_stock/)
+- [GitHub - GSGBen/gns3-bgp-frr: A lightweight GNS3 BGP lab using FRR docker containers and Python automation](https://www.reddit.com/r/Python/comments/w7s2pu/github_gsgbengns3bgpfrr_a_lightweight_gns3_bgp/)
 - [Infra Weekly #8](https://www.reddit.com/r/Python/comments/w7rq9p/infra_weekly_8/)
 - [I can&#39;t seem to upload a file with Selenium. Am I missing something?](https://www.reddit.com/r/Python/comments/w7r8ao/i_cant_seem_to_upload_a_file_with_selenium_am_i/)
 - [Sports Modeling](https://www.reddit.com/r/Python/comments/w7qqod/sports_modeling/)
-- [Learn a better way to replace missing values in a dataset using Scikit-learn&#39;s Imputer and pipelines.](https://www.reddit.com/r/Python/comments/w7qk9q/learn_a_better_way_to_replace_missing_values_in_a/)
-- [Don’t make users read your docs](https://www.reddit.com/r/Python/comments/w7q696/dont_make_users_read_your_docs/)
 <!-- BLOG-POST-LIST:END -->
