@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best mobile app development frameworks?](https://www.reddit.com/r/Python/comments/w7ouvo/best_mobile_app_development_frameworks/)
 - [Web Scraping In Python Using Beautifulsoup](https://www.reddit.com/r/Python/comments/w7nwbw/web_scraping_in_python_using_beautifulsoup/)
 - [What personal projects can I include into junior data analyst job? Any ideas? Does companies value such projects or is a waste of time?](https://www.reddit.com/r/Python/comments/w7mz39/what_personal_projects_can_i_include_into_junior/)
 - [Microsoft Rewards Bot](https://www.reddit.com/r/Python/comments/w7mizl/microsoft_rewards_bot/)
 - [What do you hate most about Python?](https://www.reddit.com/r/Python/comments/w7lpxi/what_do_you_hate_most_about_python/)
-- [Good morning techies... Just finished python basics.. want to dive into web development using python Pls someone should recommend a good and self explanatory PDF for network programming with python🙏🙏🙏 Thanks.](https://www.reddit.com/r/Python/comments/w7kkbb/good_morning_techies_just_finished_python_basics/)
 <!-- BLOG-POST-LIST:END -->
