@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How can I deal with In-site popups in Selenium?](https://www.reddit.com/r/Python/comments/w7gggb/how_can_i_deal_with_insite_popups_in_selenium/)
 - [Backend with Python](https://www.reddit.com/r/Python/comments/w7g9j4/backend_with_python/)
-- [Programming languages slander](https://www.reddit.com/r/Python/comments/w7fmot/programming_languages_slander/)
 - [Data Scientist Skills](https://www.reddit.com/r/Python/comments/w7f3p3/data_scientist_skills/)
 - [Using pyrcl for trace32](https://www.reddit.com/r/Python/comments/w7euln/using_pyrcl_for_trace32/)
+- [I made a Ukraine Russian War News App using a API, with a tutorial, and feedback](https://www.reddit.com/r/Python/comments/w7eogv/i_made_a_ukraine_russian_war_news_app_using_a_api/)
 <!-- BLOG-POST-LIST:END -->
