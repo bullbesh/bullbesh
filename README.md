@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Don’t make users read your docs](https://www.reddit.com/r/Python/comments/w7q696/dont_make_users_read_your_docs/)
+- [age encryption in Python with pyrage](https://www.reddit.com/r/Python/comments/w7pxf5/age_encryption_in_python_with_pyrage/)
+- [Use DALL·E 2 in Python [AI generates realistic images from texts]](https://www.reddit.com/r/Python/comments/w7poo3/use_dalle_2_in_python_ai_generates_realistic/)
 - [Best mobile app development frameworks?](https://www.reddit.com/r/Python/comments/w7ouvo/best_mobile_app_development_frameworks/)
 - [Web Scraping In Python Using Beautifulsoup](https://www.reddit.com/r/Python/comments/w7nwbw/web_scraping_in_python_using_beautifulsoup/)
-- [What personal projects can I include into junior data analyst job? Any ideas? Does companies value such projects or is a waste of time?](https://www.reddit.com/r/Python/comments/w7mz39/what_personal_projects_can_i_include_into_junior/)
-- [Microsoft Rewards Bot](https://www.reddit.com/r/Python/comments/w7mizl/microsoft_rewards_bot/)
-- [What do you hate most about Python?](https://www.reddit.com/r/Python/comments/w7lpxi/what_do_you_hate_most_about_python/)
 <!-- BLOG-POST-LIST:END -->
