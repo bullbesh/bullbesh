@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Infra Weekly #8](https://www.reddit.com/r/Python/comments/w7rq9p/infra_weekly_8/)
+- [I can&#39;t seem to upload a file with Selenium. Am I missing something?](https://www.reddit.com/r/Python/comments/w7r8ao/i_cant_seem_to_upload_a_file_with_selenium_am_i/)
+- [Sports Modeling](https://www.reddit.com/r/Python/comments/w7qqod/sports_modeling/)
+- [Learn a better way to replace missing values in a dataset using Scikit-learn&#39;s Imputer and pipelines.](https://www.reddit.com/r/Python/comments/w7qk9q/learn_a_better_way_to_replace_missing_values_in_a/)
 - [Don’t make users read your docs](https://www.reddit.com/r/Python/comments/w7q696/dont_make_users_read_your_docs/)
-- [age encryption in Python with pyrage](https://www.reddit.com/r/Python/comments/w7pxf5/age_encryption_in_python_with_pyrage/)
-- [Use DALL·E 2 in Python [AI generates realistic images from texts]](https://www.reddit.com/r/Python/comments/w7poo3/use_dalle_2_in_python_ai_generates_realistic/)
-- [Best mobile app development frameworks?](https://www.reddit.com/r/Python/comments/w7ouvo/best_mobile_app_development_frameworks/)
-- [Web Scraping In Python Using Beautifulsoup](https://www.reddit.com/r/Python/comments/w7nwbw/web_scraping_in_python_using_beautifulsoup/)
 <!-- BLOG-POST-LIST:END -->
