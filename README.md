@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a code to randomly download a royalty free music from the Internet.](https://www.reddit.com/r/Python/comments/w7abwd/i_wrote_a_code_to_randomly_download_a_royalty/)
+- [I made an MP3 player using pygame :&rpar;](https://www.reddit.com/r/Python/comments/w7aaan/i_made_an_mp3_player_using_pygame/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/w79u31/monday_daily_thread_project_ideas/)
+- [open source python library to quickly demo a machine learning model as a web app](https://www.reddit.com/r/Python/comments/w795bf/open_source_python_library_to_quickly_demo_a/)
 - [A Blackjack game to showcase my learning progress - Self Taught &lpar;it&#39;s getting easier&rpar;](https://www.reddit.com/r/Python/comments/w75bvu/a_blackjack_game_to_showcase_my_learning_progress/)
-- [Your favourite &quot;less-known&quot; Python features?](https://www.reddit.com/r/Python/comments/w75ack/your_favourite_lessknown_python_features/)
-- [Data Wrangling Module](https://www.reddit.com/r/Python/comments/w73ybc/data_wrangling_module/)
-- [PowerPoint Template Library](https://www.reddit.com/r/Python/comments/w732ci/powerpoint_template_library/)
-- [Opinion: multiple modules, opinion on how to start/run them](https://www.reddit.com/r/Python/comments/w72a5i/opinion_multiple_modules_opinion_on_how_to/)
 <!-- BLOG-POST-LIST:END -->
