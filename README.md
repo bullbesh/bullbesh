@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping In Python Using Beautifulsoup](https://www.reddit.com/r/Python/comments/w7nwbw/web_scraping_in_python_using_beautifulsoup/)
+- [What personal projects can I include into junior data analyst job? Any ideas? Does companies value such projects or is a waste of time?](https://www.reddit.com/r/Python/comments/w7mz39/what_personal_projects_can_i_include_into_junior/)
+- [Microsoft Rewards Bot](https://www.reddit.com/r/Python/comments/w7mizl/microsoft_rewards_bot/)
 - [What do you hate most about Python?](https://www.reddit.com/r/Python/comments/w7lpxi/what_do_you_hate_most_about_python/)
-- [A wild Python channel has appeared!](https://www.reddit.com/r/Python/comments/w7kzxk/a_wild_python_channel_has_appeared/)
 - [Good morning techies... Just finished python basics.. want to dive into web development using python Pls someone should recommend a good and self explanatory PDF for network programming with python🙏🙏🙏 Thanks.](https://www.reddit.com/r/Python/comments/w7kkbb/good_morning_techies_just_finished_python_basics/)
-- [Should I learn Pygame, Opencv or Numpy in python first?](https://www.reddit.com/r/Python/comments/w7k64i/should_i_learn_pygame_opencv_or_numpy_in_python/)
-- [Protocols in Python: Why You Need Them](https://www.reddit.com/r/Python/comments/w7jlei/protocols_in_python_why_you_need_them/)
 <!-- BLOG-POST-LIST:END -->
