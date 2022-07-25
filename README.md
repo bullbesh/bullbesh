@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How can I deal with In-site popups in Selenium?](https://www.reddit.com/r/Python/comments/w7gggb/how_can_i_deal_with_insite_popups_in_selenium/)
+- [Backend with Python](https://www.reddit.com/r/Python/comments/w7g9j4/backend_with_python/)
+- [Programming languages slander](https://www.reddit.com/r/Python/comments/w7fmot/programming_languages_slander/)
+- [Data Scientist Skills](https://www.reddit.com/r/Python/comments/w7f3p3/data_scientist_skills/)
 - [Using pyrcl for trace32](https://www.reddit.com/r/Python/comments/w7euln/using_pyrcl_for_trace32/)
-- [I made a Ukraine Russian War News App using a API, with a tutorial, and feedback](https://www.reddit.com/r/Python/comments/w7eogv/i_made_a_ukraine_russian_war_news_app_using_a_api/)
-- [Real life automation and time efficiency Python projects](https://www.reddit.com/r/Python/comments/w7ekh2/real_life_automation_and_time_efficiency_python/)
-- [Experienced Linux admins route to learning python?](https://www.reddit.com/r/Python/comments/w7dq5j/experienced_linux_admins_route_to_learning_python/)
-- [I wrote a code to randomly download a royalty free music from the Internet.](https://www.reddit.com/r/Python/comments/w7abwd/i_wrote_a_code_to_randomly_download_a_royalty/)
 <!-- BLOG-POST-LIST:END -->
