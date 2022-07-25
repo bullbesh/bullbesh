@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Should I learn Pygame, Opencv or Numpy in python first?](https://www.reddit.com/r/Python/comments/w7k64i/should_i_learn_pygame_opencv_or_numpy_in_python/)
+- [Protocols in Python: Why You Need Them](https://www.reddit.com/r/Python/comments/w7jlei/protocols_in_python_why_you_need_them/)
 - [Noob programmer here, basically just making simple functional stuff for work. Where can I see what large projects look like?](https://www.reddit.com/r/Python/comments/w7j898/noob_programmer_here_basically_just_making_simple/)
 - [Would it be possible to make a py script that outputs the names of users on Tinder within a 3 mile radius?](https://www.reddit.com/r/Python/comments/w7j4jq/would_it_be_possible_to_make_a_py_script_that/)
 - [[Script] Web Scraping Google Images](https://www.reddit.com/r/Python/comments/w7hrh6/script_web_scraping_google_images/)
-- [How can I deal with In-site popups in Selenium?](https://www.reddit.com/r/Python/comments/w7gggb/how_can_i_deal_with_insite_popups_in_selenium/)
-- [Backend with Python](https://www.reddit.com/r/Python/comments/w7g9j4/backend_with_python/)
 <!-- BLOG-POST-LIST:END -->
