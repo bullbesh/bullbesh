@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [So, I wrote a Maybe monad in Python 3](https://www.reddit.com/r/Python/comments/w8p1n6/so_i_wrote_a_maybe_monad_in_python_3/)
-- [I made a book downloading tool with python and selenium](https://www.reddit.com/r/Python/comments/w8nzlt/i_made_a_book_downloading_tool_with_python_and/)
-- [Aimless - Random numbers at your service](https://www.reddit.com/r/Python/comments/w8ntpy/aimless_random_numbers_at_your_service/)
-- [Telegram Bot to Download Songs from Spotify](https://www.reddit.com/r/Python/comments/w8nluw/telegram_bot_to_download_songs_from_spotify/)
-- [Better entry points with a decorator](https://www.reddit.com/r/Python/comments/w8n6nr/better_entry_points_with_a_decorator/)
+- [Creating bots with Python and Telegram](https://www.reddit.com/r/Python/comments/w8r1z9/creating_bots_with_python_and_telegram/)
+- [How to progress in Python](https://www.reddit.com/r/Python/comments/w8r1r5/how_to_progress_in_python/)
+- [Searching PDFs with Python, Transformers and Machine Learning](https://www.reddit.com/r/Python/comments/w8qdpn/searching_pdfs_with_python_transformers_and/)
+- [Explaining and visualizing big O notation and complexity](https://www.reddit.com/r/Python/comments/w8q577/explaining_and_visualizing_big_o_notation_and/)
+- [Scholarships for Python Crash Course](https://www.reddit.com/r/Python/comments/w8pxtg/scholarships_for_python_crash_course/)
 <!-- BLOG-POST-LIST:END -->
