@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Develop your own financial dashboard with Flask and Plotly](https://www.reddit.com/r/Python/comments/w8gpcq/develop_your_own_financial_dashboard_with_flask/)
+- [Web Scraping Without Getting Blocked](https://www.reddit.com/r/Python/comments/w8geul/web_scraping_without_getting_blocked/)
 - [is python for kids?](https://www.reddit.com/r/Python/comments/w8g16b/is_python_for_kids/)
 - [Pyt mega or Dropbox trade dm me](https://www.reddit.com/r/Python/comments/w8ercs/pyt_mega_or_dropbox_trade_dm_me/)
 - [Class Variable in python](https://www.reddit.com/r/Python/comments/w8eo8i/class_variable_in_python/)
-- [Python App Development | A Step by Step Guide to Getting Started](https://www.reddit.com/r/Python/comments/w8enmn/python_app_development_a_step_by_step_guide_to/)
-- [Python Bootcamp](https://www.reddit.com/r/Python/comments/w8dxqs/python_bootcamp/)
 <!-- BLOG-POST-LIST:END -->
