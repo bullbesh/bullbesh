@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [So, I wrote a Maybe monad in Python 3](https://www.reddit.com/r/Python/comments/w8p1n6/so_i_wrote_a_maybe_monad_in_python_3/)
 - [I made a book downloading tool with python and selenium](https://www.reddit.com/r/Python/comments/w8nzlt/i_made_a_book_downloading_tool_with_python_and/)
 - [Aimless - Random numbers at your service](https://www.reddit.com/r/Python/comments/w8ntpy/aimless_random_numbers_at_your_service/)
 - [Telegram Bot to Download Songs from Spotify](https://www.reddit.com/r/Python/comments/w8nluw/telegram_bot_to_download_songs_from_spotify/)
 - [Better entry points with a decorator](https://www.reddit.com/r/Python/comments/w8n6nr/better_entry_points_with_a_decorator/)
-- [python command option](https://www.reddit.com/r/Python/comments/w8macv/python_command_option/)
 <!-- BLOG-POST-LIST:END -->
