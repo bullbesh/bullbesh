@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How should I price support?](https://www.reddit.com/r/Python/comments/w8kuic/how_should_i_price_support/)
-- [State of the Art libraries 0r techniques for European Address Normalization](https://www.reddit.com/r/Python/comments/w8k3cx/state_of_the_art_libraries_0r_techniques_for/)
-- [Help us test system trust stores in Python](https://www.reddit.com/r/Python/comments/w8jr7a/help_us_test_system_trust_stores_in_python/)
-- [Your Python Coding Environment on Windows: Setup Guide – Real Python](https://www.reddit.com/r/Python/comments/w8ipw0/your_python_coding_environment_on_windows_setup/)
-- [EOmaps v4.4 showcase - interactive maps in pure python!](https://www.reddit.com/r/Python/comments/w8ikuk/eomaps_v44_showcase_interactive_maps_in_pure/)
+- [python command option](https://www.reddit.com/r/Python/comments/w8macv/python_command_option/)
+- [My PID Tuning Package - pytunelogix](https://www.reddit.com/r/Python/comments/w8m8cm/my_pid_tuning_package_pytunelogix/)
+- [New open-source tool to build animated chart presentations in Jupyter notebook](https://www.reddit.com/r/Python/comments/w8luey/new_opensource_tool_to_build_animated_chart/)
+- [Run Your Own DALL·E Mini &lpar;Craiyon&rpar; Server on EC2 - Use Meadowrun to run text-to-image models without buying a $1,700 GPU](https://www.reddit.com/r/Python/comments/w8lu0d/run_your_own_dalle_mini_craiyon_server_on_ec2_use/)
+- [Python in the browser to demo a machine learning model or python app](https://www.reddit.com/r/Python/comments/w8lsb8/python_in_the_browser_to_demo_a_machine_learning/)
 <!-- BLOG-POST-LIST:END -->
