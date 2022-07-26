@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pyt mega or Dropbox trade dm me](https://www.reddit.com/r/Python/comments/w8ercs/pyt_mega_or_dropbox_trade_dm_me/)
+- [Class Variable in python](https://www.reddit.com/r/Python/comments/w8eo8i/class_variable_in_python/)
+- [Python App Development | A Step by Step Guide to Getting Started](https://www.reddit.com/r/Python/comments/w8enmn/python_app_development_a_step_by_step_guide_to/)
 - [Python Bootcamp](https://www.reddit.com/r/Python/comments/w8dxqs/python_bootcamp/)
 - [I Met a Rich Programmer, and He Gave Me Three Tips That Will Change My Life](https://www.reddit.com/r/Python/comments/w8dr6p/i_met_a_rich_programmer_and_he_gave_me_three_tips/)
-- [How do you develop a WebAPI from an SDK?](https://www.reddit.com/r/Python/comments/w8csr0/how_do_you_develop_a_webapi_from_an_sdk/)
-- [This is a Python script to bulk submit your website URLs to the Bing search engine. This uses Bing Submission API. Your URLs will be stored, one per line, in urllist.txt.](https://www.reddit.com/r/Python/comments/w89eoi/this_is_a_python_script_to_bulk_submit_your/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/w84e7p/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
