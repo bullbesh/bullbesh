@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free opensource python personal finance application](https://www.reddit.com/r/Python/comments/w8sozq/free_opensource_python_personal_finance/)
 - [Creating bots with Python and Telegram](https://www.reddit.com/r/Python/comments/w8r1z9/creating_bots_with_python_and_telegram/)
 - [Searching PDFs with Python, Transformers and Machine Learning](https://www.reddit.com/r/Python/comments/w8qdpn/searching_pdfs_with_python_transformers_and/)
 - [Explaining and visualizing big O notation and complexity](https://www.reddit.com/r/Python/comments/w8q577/explaining_and_visualizing_big_o_notation_and/)
 - [Scholarships for Python Crash Course](https://www.reddit.com/r/Python/comments/w8pxtg/scholarships_for_python_crash_course/)
-- [Is there any reason to use Django templates? I can&#39;t think of one.](https://www.reddit.com/r/Python/comments/w8plcc/is_there_any_reason_to_use_django_templates_i/)
 <!-- BLOG-POST-LIST:END -->
