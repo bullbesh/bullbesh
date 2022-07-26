@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Telegram Bot Tutorial in 15 Minutes with Python 3.10](https://www.reddit.com/r/Python/comments/w8bt5p/telegram_bot_tutorial_in_15_minutes_with_python/)
 - [Top themes for python in VScode?](https://www.reddit.com/r/Python/comments/w8af2w/top_themes_for_python_in_vscode/)
 - [Python 4](https://www.reddit.com/r/Python/comments/w8a5cu/python_4/)
 - [This is a Python script to bulk submit your website URLs to the Bing search engine. This uses Bing Submission API. Your URLs will be stored, one per line, in urllist.txt.](https://www.reddit.com/r/Python/comments/w89eoi/this_is_a_python_script_to_bulk_submit_your/)
 - [Python Instruction](https://www.reddit.com/r/Python/comments/w8546o/python_instruction/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/w84e7p/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
