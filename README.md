@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a book downloading tool with python and selenium](https://www.reddit.com/r/Python/comments/w8nzlt/i_made_a_book_downloading_tool_with_python_and/)
+- [Aimless - Random numbers at your service](https://www.reddit.com/r/Python/comments/w8ntpy/aimless_random_numbers_at_your_service/)
+- [Telegram Bot to Download Songs from Spotify](https://www.reddit.com/r/Python/comments/w8nluw/telegram_bot_to_download_songs_from_spotify/)
+- [Better entry points with a decorator](https://www.reddit.com/r/Python/comments/w8n6nr/better_entry_points_with_a_decorator/)
 - [python command option](https://www.reddit.com/r/Python/comments/w8macv/python_command_option/)
-- [My PID Tuning Package - pytunelogix](https://www.reddit.com/r/Python/comments/w8m8cm/my_pid_tuning_package_pytunelogix/)
-- [New open-source tool to build animated chart presentations in Jupyter notebook](https://www.reddit.com/r/Python/comments/w8luey/new_opensource_tool_to_build_animated_chart/)
-- [Run Your Own DALL·E Mini &lpar;Craiyon&rpar; Server on EC2 - Use Meadowrun to run text-to-image models without buying a $1,700 GPU](https://www.reddit.com/r/Python/comments/w8lu0d/run_your_own_dalle_mini_craiyon_server_on_ec2_use/)
-- [Python in the browser to demo a machine learning model or python app](https://www.reddit.com/r/Python/comments/w8lsb8/python_in_the_browser_to_demo_a_machine_learning/)
 <!-- BLOG-POST-LIST:END -->
