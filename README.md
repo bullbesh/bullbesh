@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A toy example for Reinforcement Learning, CLI via fire, CI/CD on gitlab in Python](https://www.reddit.com/r/Python/comments/w8wjdd/a_toy_example_for_reinforcement_learning_cli_via/)
+- [Tic Tac Toe](https://www.reddit.com/r/Python/comments/w8vs2e/tic_tac_toe/)
 - [Free opensource python personal finance application](https://www.reddit.com/r/Python/comments/w8sozq/free_opensource_python_personal_finance/)
 - [Creating bots with Python and Telegram](https://www.reddit.com/r/Python/comments/w8r1z9/creating_bots_with_python_and_telegram/)
 - [Searching PDFs with Python, Transformers and Machine Learning](https://www.reddit.com/r/Python/comments/w8qdpn/searching_pdfs_with_python_transformers_and/)
-- [Explaining and visualizing big O notation and complexity](https://www.reddit.com/r/Python/comments/w8q577/explaining_and_visualizing_big_o_notation_and/)
-- [Scholarships for Python Crash Course](https://www.reddit.com/r/Python/comments/w8pxtg/scholarships_for_python_crash_course/)
 <!-- BLOG-POST-LIST:END -->
