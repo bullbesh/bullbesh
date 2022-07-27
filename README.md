@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do people write advanced python code?](https://www.reddit.com/r/Python/comments/w9gql6/how_do_people_write_advanced_python_code/)
+- [How does &quot;in&quot; work in O&lpar;1&rpar; time ?](https://www.reddit.com/r/Python/comments/w9gpdt/how_does_in_work_in_o1_time/)
 - [Automate pytest code coverage checks with GitHub Actions](https://www.reddit.com/r/Python/comments/w9fobb/automate_pytest_code_coverage_checks_with_github/)
 - [MUON: Compact and simple binary format, that uses gaps in Unicode encoding for markup](https://www.reddit.com/r/Python/comments/w9fjzc/muon_compact_and_simple_binary_format_that_uses/)
 - [Python is Actually Portable](https://www.reddit.com/r/Python/comments/w9f5yd/python_is_actually_portable/)
-- [I Made An Easy-To-Use Package That Creates Beautiful Html Reports From Jupyter Notebook](https://www.reddit.com/r/Python/comments/w9csje/i_made_an_easytouse_package_that_creates/)
-- [New Proxy Integration repo for Selenium and more - quick guide](https://www.reddit.com/r/Python/comments/w9cq6c/new_proxy_integration_repo_for_selenium_and_more/)
 <!-- BLOG-POST-LIST:END -->
