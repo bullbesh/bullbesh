@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Found the Top 10 Data Science Libraries in Python](https://www.reddit.com/r/Python/comments/w9kjg2/found_the_top_10_data_science_libraries_in_python/)
+- [How do you store your configuration / environment variables / sensitive info?](https://www.reddit.com/r/Python/comments/w9jtlh/how_do_you_store_your_configuration_environment/)
+- [How I complete my email addresses lists with demographic insights with Python](https://www.reddit.com/r/Python/comments/w9jhsb/how_i_complete_my_email_addresses_lists_with/)
 - [Quantization, pruning, deep learning compilers combined into a single interface to accelerate deep learning inference &lpar;python, open-source&rpar;](https://www.reddit.com/r/Python/comments/w9ja6s/quantization_pruning_deep_learning_compilers/)
 - [Game of Blackjack](https://www.reddit.com/r/Python/comments/w9i6yr/game_of_blackjack/)
-- [Is there a reason why the python3 documentation doesn&#39;t advertise that enum Flags can be tested with &#39;in&#39; and &#39;not in&#39;?](https://www.reddit.com/r/Python/comments/w9ho8r/is_there_a_reason_why_the_python3_documentation/)
-- [GISterical - a geolocation-based CLI photo library management tool](https://www.reddit.com/r/Python/comments/w9hmvt/gisterical_a_geolocationbased_cli_photo_library/)
-- [How do people write advanced python code?](https://www.reddit.com/r/Python/comments/w9gql6/how_do_people_write_advanced_python_code/)
 <!-- BLOG-POST-LIST:END -->
