@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python is Actually Portable](https://www.reddit.com/r/Python/comments/w9f5yd/python_is_actually_portable/)
 - [I Made An Easy-To-Use Package That Creates Beautiful Html Reports From Jupyter Notebook](https://www.reddit.com/r/Python/comments/w9csje/i_made_an_easytouse_package_that_creates/)
 - [New Proxy Integration repo for Selenium and more - quick guide](https://www.reddit.com/r/Python/comments/w9cq6c/new_proxy_integration_repo_for_selenium_and_more/)
-- [Avoid Making This Disastrous Mistake with Python Classes](https://www.reddit.com/r/Python/comments/w9cipv/avoid_making_this_disastrous_mistake_with_python/)
 - [How to create a Python package in 2022](https://www.reddit.com/r/Python/comments/w9c67q/how_to_create_a_python_package_in_2022/)
 - [Visualizing speed difference in sorting algorithms](https://www.reddit.com/r/Python/comments/w9c564/visualizing_speed_difference_in_sorting_algorithms/)
 <!-- BLOG-POST-LIST:END -->
