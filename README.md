@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Write real AI code](https://www.reddit.com/r/Python/comments/w961cb/write_real_ai_code/)
+- [Improve your code using named tuple](https://www.reddit.com/r/Python/comments/w95g5k/improve_your_code_using_named_tuple/)
+- [Simple Little Reddit Reader in Python](https://www.reddit.com/r/Python/comments/w94pux/simple_little_reddit_reader_in_python/)
 - [What to charge for consulting: internal app development?](https://www.reddit.com/r/Python/comments/w91som/what_to_charge_for_consulting_internal_app/)
 - [I made a tool for developers to run small scripts without hosting it on a VM.](https://www.reddit.com/r/Python/comments/w911hd/i_made_a_tool_for_developers_to_run_small_scripts/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/w8z9nh/wednesday_daily_thread_beginner_questions/)
-- [LovelyPlots](https://www.reddit.com/r/Python/comments/w8z5t6/lovelyplots/)
-- [What&#39;s happening with the plugin Kite? Is it safe to use?](https://www.reddit.com/r/Python/comments/w8yn0n/whats_happening_with_the_plugin_kite_is_it_safe/)
 <!-- BLOG-POST-LIST:END -->
