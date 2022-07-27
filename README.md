@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Batch File Packer - pack multiple eXecutables at once with your favorite cmd based packer.](https://www.reddit.com/r/Python/comments/w97rcp/batch_file_packer_pack_multiple_executables_at/)
+- [Is there a roadmap for python?](https://www.reddit.com/r/Python/comments/w97l33/is_there_a_roadmap_for_python/)
+- [Learn how to summarise the information using the pandas DataFrame in order to become an efficient Data Analyst — Grouping &amp; Pivot Tables](https://www.reddit.com/r/Python/comments/w97l11/learn_how_to_summarise_the_information_using_the/)
 - [Create your own stock database in python](https://www.reddit.com/r/Python/comments/w96wra/create_your_own_stock_database_in_python/)
 - [Recursion](https://www.reddit.com/r/Python/comments/w96prk/recursion/)
-- [Write real AI code](https://www.reddit.com/r/Python/comments/w961cb/write_real_ai_code/)
-- [Improve your code using named tuple](https://www.reddit.com/r/Python/comments/w95g5k/improve_your_code_using_named_tuple/)
-- [Simple Little Reddit Reader in Python](https://www.reddit.com/r/Python/comments/w94pux/simple_little_reddit_reader_in_python/)
 <!-- BLOG-POST-LIST:END -->
