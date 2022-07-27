@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Wilco to improve your Python skills](https://www.reddit.com/r/Python/comments/w9lg85/using_wilco_to_improve_your_python_skills/)
+- [R Studio becomes Posit to broaden its scope towards Python - Will Quarto replace R Markdown?](https://www.reddit.com/r/Python/comments/w9l594/r_studio_becomes_posit_to_broaden_its_scope/)
 - [Found the Top 10 Data Science Libraries in Python](https://www.reddit.com/r/Python/comments/w9kjg2/found_the_top_10_data_science_libraries_in_python/)
 - [How do you store your configuration / environment variables / sensitive info?](https://www.reddit.com/r/Python/comments/w9jtlh/how_do_you_store_your_configuration_environment/)
-- [How I complete my email addresses lists with demographic insights with Python](https://www.reddit.com/r/Python/comments/w9jhsb/how_i_complete_my_email_addresses_lists_with/)
 - [Quantization, pruning, deep learning compilers combined into a single interface to accelerate deep learning inference &lpar;python, open-source&rpar;](https://www.reddit.com/r/Python/comments/w9ja6s/quantization_pruning_deep_learning_compilers/)
-- [Game of Blackjack](https://www.reddit.com/r/Python/comments/w9i6yr/game_of_blackjack/)
 <!-- BLOG-POST-LIST:END -->
