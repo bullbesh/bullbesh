@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [A toy example for Reinforcement Learning, CLI via fire, CI/CD on gitlab in Python](https://www.reddit.com/r/Python/comments/w8wjdd/a_toy_example_for_reinforcement_learning_cli_via/)
-- [Tic Tac Toe](https://www.reddit.com/r/Python/comments/w8vs2e/tic_tac_toe/)
-- [Free opensource python personal finance application](https://www.reddit.com/r/Python/comments/w8sozq/free_opensource_python_personal_finance/)
-- [Creating bots with Python and Telegram](https://www.reddit.com/r/Python/comments/w8r1z9/creating_bots_with_python_and_telegram/)
-- [Searching PDFs with Python, Transformers and Machine Learning](https://www.reddit.com/r/Python/comments/w8qdpn/searching_pdfs_with_python_transformers_and/)
+- [What to charge for consulting: internal app development?](https://www.reddit.com/r/Python/comments/w91som/what_to_charge_for_consulting_internal_app/)
+- [I made a tool for developers to run small scripts without hosting it on a VM.](https://www.reddit.com/r/Python/comments/w911hd/i_made_a_tool_for_developers_to_run_small_scripts/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/w8z9nh/wednesday_daily_thread_beginner_questions/)
+- [LovelyPlots](https://www.reddit.com/r/Python/comments/w8z5t6/lovelyplots/)
+- [What&#39;s happening with the plugin Kite? Is it safe to use?](https://www.reddit.com/r/Python/comments/w8yn0n/whats_happening_with_the_plugin_kite_is_it_safe/)
 <!-- BLOG-POST-LIST:END -->
