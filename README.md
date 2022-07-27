@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Get Text Input in Python/PyGame in 10 mins!](https://www.reddit.com/r/Python/comments/w9t83r/get_text_input_in_pythonpygame_in_10_mins/)
 - [Using Python as a Data Analyst](https://www.reddit.com/r/Python/comments/w9ruay/using_python_as_a_data_analyst/)
 - [I made a simple window manager for windows in about 100 lines of python](https://www.reddit.com/r/Python/comments/w9q3ri/i_made_a_simple_window_manager_for_windows_in/)
+- [Rubik Cube Simulation in Python: repeat until solved](https://www.reddit.com/r/Python/comments/w9pedp/rubik_cube_simulation_in_python_repeat_until/)
 - [Text Extraction Using PyMuPDF](https://www.reddit.com/r/Python/comments/w9o6dq/text_extraction_using_pymupdf/)
-- [Using Wilco to improve your Python skills](https://www.reddit.com/r/Python/comments/w9lg85/using_wilco_to_improve_your_python_skills/)
-- [R Studio becomes Posit to broaden its scope towards Python - Will Quarto replace R Markdown?](https://www.reddit.com/r/Python/comments/w9l594/r_studio_becomes_posit_to_broaden_its_scope/)
 <!-- BLOG-POST-LIST:END -->
