@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google search automation using python and selenium](https://www.reddit.com/r/Python/comments/wa1tq2/google_search_automation_using_python_and_selenium/)
+- [Does Python&#39;s GIL make it impossible to have efficient parallel computation?](https://www.reddit.com/r/Python/comments/wa1ek1/does_pythons_gil_make_it_impossible_to_have/)
 - [Hands-On Quantum Machine Learning with Python](https://www.reddit.com/r/Python/comments/wa102c/handson_quantum_machine_learning_with_python/)
-- [Why are databases necessary?](https://www.reddit.com/r/Python/comments/wa0s3i/why_are_databases_necessary/)
 - [Anyone else get extreme satisfaction from understanding something you thought you never would?](https://www.reddit.com/r/Python/comments/wa0d05/anyone_else_get_extreme_satisfaction_from/)
 - [What would be the fastest way to learn the python programming language for someone who never coded and is stuck in a kinda tutorial hell syndrome](https://www.reddit.com/r/Python/comments/wa01jw/what_would_be_the_fastest_way_to_learn_the_python/)
-- [Data Science Bootcamp](https://www.reddit.com/r/Python/comments/w9zuih/data_science_bootcamp/)
 <!-- BLOG-POST-LIST:END -->
