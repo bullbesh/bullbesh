@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [run&lpar;**vars&lpar;args&rpar;&rpar;](https://www.reddit.com/r/Python/comments/wacgjq/runvarsargs/)
+- [Hugging Face released the new OS *Diffusers* library for models like DALL-E 2 and Imagen](https://www.reddit.com/r/Python/comments/wacfmc/hugging_face_released_the_new_os_diffusers/)
+- [publishing: Trigger IFTTT events from Trello when due date is reached](https://www.reddit.com/r/Python/comments/wac8gg/publishing_trigger_ifttt_events_from_trello_when/)
+- [Generate online UIs for your scripts - they have a cloud but package is free](https://www.reddit.com/r/Python/comments/wabzo9/generate_online_uis_for_your_scripts_they_have_a/)
 - [How to learn python fast to make a decent project??](https://www.reddit.com/r/Python/comments/wab4uv/how_to_learn_python_fast_to_make_a_decent_project/)
-- [Pathlib is cool](https://www.reddit.com/r/Python/comments/wab01n/pathlib_is_cool/)
-- [I Simulated a &lpar;seemingly&rpar; Impossible Mathematical Riddle with Python](https://www.reddit.com/r/Python/comments/waawjl/i_simulated_a_seemingly_impossible_mathematical/)
-- [How to create a Python package in 2022](https://www.reddit.com/r/Python/comments/waatci/how_to_create_a_python_package_in_2022/)
-- [Meta approves 4 programming languages for employees and devs](https://www.reddit.com/r/Python/comments/waaaep/meta_approves_4_programming_languages_for/)
 <!-- BLOG-POST-LIST:END -->
