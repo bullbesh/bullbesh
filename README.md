@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing](https://www.reddit.com/r/Python/comments/wamfuj/heres_a_playlist_of_7_hours_of_music_i_use_to/)
+- [Use OpenSearch &amp; Tika to search the text of PDF files stored in an S3 bucket](https://www.reddit.com/r/Python/comments/walzc6/use_opensearch_tika_to_search_the_text_of_pdf/)
+- [I Made A Trash-Talking Wordle Bot You Can Play Against in Python!](https://www.reddit.com/r/Python/comments/walsto/i_made_a_trashtalking_wordle_bot_you_can_play/)
 - [TechEmpower’s Round 21 - Performance difference between FastAPI and Starlette](https://www.reddit.com/r/Python/comments/wajr4a/techempowers_round_21_performance_difference/)
 - [Health Chart: A Python script for pulling data from Fitbit servers and visualizing it in Grafana using a local Influxdb database](https://www.reddit.com/r/Python/comments/wag2or/health_chart_a_python_script_for_pulling_data/)
-- [10+1 powerful features of Python used by advanced programmers](https://www.reddit.com/r/Python/comments/wafjxb/101_powerful_features_of_python_used_by_advanced/)
-- [A library for querying APIs and files using SQL](https://www.reddit.com/r/Python/comments/waeljm/a_library_for_querying_apis_and_files_using_sql/)
-- [Lind: A simple but feature rich URL shortener I made](https://www.reddit.com/r/Python/comments/waddnu/lind_a_simple_but_feature_rich_url_shortener_i/)
 <!-- BLOG-POST-LIST:END -->
