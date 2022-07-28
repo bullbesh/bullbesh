@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lind: A simple but feature rich URL shortener I made](https://www.reddit.com/r/Python/comments/waddnu/lind_a_simple_but_feature_rich_url_shortener_i/)
 - [run&lpar;**vars&lpar;args&rpar;&rpar;](https://www.reddit.com/r/Python/comments/wacgjq/runvarsargs/)
 - [Hugging Face released the new OS *Diffusers* library for models like DALL-E 2 and Imagen](https://www.reddit.com/r/Python/comments/wacfmc/hugging_face_released_the_new_os_diffusers/)
 - [publishing: Trigger IFTTT events from Trello when due date is reached](https://www.reddit.com/r/Python/comments/wac8gg/publishing_trigger_ifttt_events_from_trello_when/)
 - [Generate online UIs for your scripts - they have a cloud but package is free](https://www.reddit.com/r/Python/comments/wabzo9/generate_online_uis_for_your_scripts_they_have_a/)
-- [How to learn python fast to make a decent project??](https://www.reddit.com/r/Python/comments/wab4uv/how_to_learn_python_fast_to_make_a_decent_project/)
 <!-- BLOG-POST-LIST:END -->
