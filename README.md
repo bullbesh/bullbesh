@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best Machine Learning Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/wa52u4/the_best_machine_learning_courses_on_udemy_2022/)
+- [Create Your Own Code Editor Using PyQt5 #4 - Creating Lexer &amp; Custom Syntax Highlighting](https://www.reddit.com/r/Python/comments/wa4n3u/create_your_own_code_editor_using_pyqt5_4/)
 - [parquet to hyper](https://www.reddit.com/r/Python/comments/wa3vv4/parquet_to_hyper/)
 - [Google search automation using python and selenium](https://www.reddit.com/r/Python/comments/wa1tq2/google_search_automation_using_python_and_selenium/)
 - [Does Python&#39;s GIL make it impossible to have efficient parallel computation?](https://www.reddit.com/r/Python/comments/wa1ek1/does_pythons_gil_make_it_impossible_to_have/)
-- [Hands-On Quantum Machine Learning with Python](https://www.reddit.com/r/Python/comments/wa102c/handson_quantum_machine_learning_with_python/)
-- [Anyone else get extreme satisfaction from understanding something you thought you never would?](https://www.reddit.com/r/Python/comments/wa0d05/anyone_else_get_extreme_satisfaction_from/)
 <!-- BLOG-POST-LIST:END -->
