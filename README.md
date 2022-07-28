@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Health Chart: A Python script for pulling data from Fitbit servers and visualizing it in Grafana using a local Influxdb database](https://www.reddit.com/r/Python/comments/wag2or/health_chart_a_python_script_for_pulling_data/)
 - [10+1 powerful features of Python used by advanced programmers](https://www.reddit.com/r/Python/comments/wafjxb/101_powerful_features_of_python_used_by_advanced/)
 - [A library for querying APIs and files using SQL](https://www.reddit.com/r/Python/comments/waeljm/a_library_for_querying_apis_and_files_using_sql/)
 - [Lind: A simple but feature rich URL shortener I made](https://www.reddit.com/r/Python/comments/waddnu/lind_a_simple_but_feature_rich_url_shortener_i/)
 - [run&lpar;**vars&lpar;args&rpar;&rpar;](https://www.reddit.com/r/Python/comments/wacgjq/runvarsargs/)
-- [Hugging Face released the new OS *Diffusers* library for models like DALL-E 2 and Imagen](https://www.reddit.com/r/Python/comments/wacfmc/hugging_face_released_the_new_os_diffusers/)
 <!-- BLOG-POST-LIST:END -->
