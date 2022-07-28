@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Get Text Input in Python/PyGame in 10 mins!](https://www.reddit.com/r/Python/comments/w9t83r/get_text_input_in_pythonpygame_in_10_mins/)
-- [Using Python as a Data Analyst](https://www.reddit.com/r/Python/comments/w9ruay/using_python_as_a_data_analyst/)
-- [I made a simple window manager for windows in about 100 lines of python](https://www.reddit.com/r/Python/comments/w9q3ri/i_made_a_simple_window_manager_for_windows_in/)
-- [Rubik Cube Simulation in Python: repeat until solved](https://www.reddit.com/r/Python/comments/w9pedp/rubik_cube_simulation_in_python_repeat_until/)
-- [Text Extraction Using PyMuPDF](https://www.reddit.com/r/Python/comments/w9o6dq/text_extraction_using_pymupdf/)
+- [Get Text Input in Python/PyGame in 10 mins!](https://www.reddit.com/r/Python/comments/w9wz1v/get_text_input_in_pythonpygame_in_10_mins/)
+- [Shiny For Python](https://www.reddit.com/r/Python/comments/w9v6xo/shiny_for_python/)
+- [How would you go about sharing conda environments across multiple users on one Linux machine? A subset of these users need to edit the conda envs.](https://www.reddit.com/r/Python/comments/w9uguj/how_would_you_go_about_sharing_conda_environments/)
+- [Intro to Object Oriented Programming, Creating Classes in Python for Be...](https://www.reddit.com/r/Python/comments/w9uemj/intro_to_object_oriented_programming_creating/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/w9u737/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
