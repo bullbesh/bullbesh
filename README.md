@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Script] Scrape Google Finance Main Page](https://www.reddit.com/r/Python/comments/wa853z/script_scrape_google_finance_main_page/)
+- [I wrote a pytest plugin to automatically generate fixtures for custom command line arguments](https://www.reddit.com/r/Python/comments/wa790l/i_wrote_a_pytest_plugin_to_automatically_generate/)
 - [Python vs Julia](https://www.reddit.com/r/Python/comments/wa74n2/python_vs_julia/)
 - [How to create a Python package in 2022](https://www.reddit.com/r/Python/comments/wa6lgn/how_to_create_a_python_package_in_2022/)
 - [Question about Python for Aircraft.](https://www.reddit.com/r/Python/comments/wa56fu/question_about_python_for_aircraft/)
-- [The Best Machine Learning Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/wa52u4/the_best_machine_learning_courses_on_udemy_2022/)
-- [Create Your Own Code Editor Using PyQt5 #4 - Creating Lexer &amp; Custom Syntax Highlighting](https://www.reddit.com/r/Python/comments/wa4n3u/create_your_own_code_editor_using_pyqt5_4/)
 <!-- BLOG-POST-LIST:END -->
