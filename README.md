@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Get Text Input in Python/PyGame in 10 mins!](https://www.reddit.com/r/Python/comments/w9wz1v/get_text_input_in_pythonpygame_in_10_mins/)
-- [Shiny For Python](https://www.reddit.com/r/Python/comments/w9v6xo/shiny_for_python/)
-- [How would you go about sharing conda environments across multiple users on one Linux machine? A subset of these users need to edit the conda envs.](https://www.reddit.com/r/Python/comments/w9uguj/how_would_you_go_about_sharing_conda_environments/)
-- [Intro to Object Oriented Programming, Creating Classes in Python for Be...](https://www.reddit.com/r/Python/comments/w9uemj/intro_to_object_oriented_programming_creating/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/w9u737/thursday_daily_thread_python_careers_courses_and/)
+- [Hands-On Quantum Machine Learning with Python](https://www.reddit.com/r/Python/comments/wa102c/handson_quantum_machine_learning_with_python/)
+- [Why are databases necessary?](https://www.reddit.com/r/Python/comments/wa0s3i/why_are_databases_necessary/)
+- [Anyone else get extreme satisfaction from understanding something you thought you never would?](https://www.reddit.com/r/Python/comments/wa0d05/anyone_else_get_extreme_satisfaction_from/)
+- [What would be the fastest way to learn the python programming language for someone who never coded and is stuck in a kinda tutorial hell syndrome](https://www.reddit.com/r/Python/comments/wa01jw/what_would_be_the_fastest_way_to_learn_the_python/)
+- [Data Science Bootcamp](https://www.reddit.com/r/Python/comments/w9zuih/data_science_bootcamp/)
 <!-- BLOG-POST-LIST:END -->
