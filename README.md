@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Checkout the innovative serverless python functions &lpar;Daisies&rpar; I created](https://www.reddit.com/r/Python/comments/wb1oun/checkout_the_innovative_serverless_python/)
-- [A New Type of Categorical Correlation Coefficient Available i in Python - The Categorical Prediction Coefficient](https://www.reddit.com/r/Python/comments/wb1fht/a_new_type_of_categorical_correlation_coefficient/)
-- [[D] What is some cool python magic&lpar;s&rpar; that you&#39;ve learned over the years?](https://www.reddit.com/r/Python/comments/wb0p7z/d_what_is_some_cool_python_magics_that_youve/)
-- [nbdev+Quarto: A new secret weapon for productivity · fast.ai](https://www.reddit.com/r/Python/comments/wazo6f/nbdevquarto_a_new_secret_weapon_for_productivity/)
-- [I made Granian: a Rust HTTP server for Python applications](https://www.reddit.com/r/Python/comments/waz4n6/i_made_granian_a_rust_http_server_for_python/)
+- [Math is beautiful](https://www.reddit.com/r/Python/comments/wb3vkp/math_is_beautiful/)
+- [Searched through some bootcamps online and I think NuCamp may work for me. Anyone here used NuCamp and how was it?](https://www.reddit.com/r/Python/comments/wb3c3b/searched_through_some_bootcamps_online_and_i/)
+- [Book Review: Architecture Patterns with Python](https://www.reddit.com/r/Python/comments/wb2yi3/book_review_architecture_patterns_with_python/)
+- [A New Type of Categorical Correlation Coefficient Available in Python - The Categorical Prediction Coefficient](https://www.reddit.com/r/Python/comments/wb2t80/a_new_type_of_categorical_correlation_coefficient/)
+- [The Complete Guide To Web Scraping in Python](https://www.reddit.com/r/Python/comments/wb2eot/the_complete_guide_to_web_scraping_in_python/)
 <!-- BLOG-POST-LIST:END -->
