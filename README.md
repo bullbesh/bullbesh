@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[D] What is some cool python magic&lpar;s&rpar; that you&#39;ve learned over the years?](https://www.reddit.com/r/Python/comments/wb0p7z/d_what_is_some_cool_python_magics_that_youve/)
 - [nbdev+Quarto: A new secret weapon for productivity · fast.ai](https://www.reddit.com/r/Python/comments/wazo6f/nbdevquarto_a_new_secret_weapon_for_productivity/)
 - [I made Granian: a Rust HTTP server for Python applications](https://www.reddit.com/r/Python/comments/waz4n6/i_made_granian_a_rust_http_server_for_python/)
 - [System Information](https://www.reddit.com/r/Python/comments/wayq22/system_information/)
 - [Check out my firebase chart app coming soon in my channel](https://www.reddit.com/r/Python/comments/waypz9/check_out_my_firebase_chart_app_coming_soon_in_my/)
-- [I created a Language Translator in Python, If you like the video please Subscribe :&rpar;](https://www.reddit.com/r/Python/comments/waxuor/i_created_a_language_translator_in_python_if_you/)
 <!-- BLOG-POST-LIST:END -->
