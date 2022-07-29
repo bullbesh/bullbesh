@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made Granian: a Rust HTTP server for Python applications](https://www.reddit.com/r/Python/comments/waz4n6/i_made_granian_a_rust_http_server_for_python/)
+- [System Information](https://www.reddit.com/r/Python/comments/wayq22/system_information/)
+- [Check out my firebase chart app coming soon in my channel](https://www.reddit.com/r/Python/comments/waypz9/check_out_my_firebase_chart_app_coming_soon_in_my/)
 - [I created a Language Translator in Python, If you like the video please Subscribe :&rpar;](https://www.reddit.com/r/Python/comments/waxuor/i_created_a_language_translator_in_python_if_you/)
 - [I made a local URL redirect utility, so I don&#39;t fat finger my local IP addresses and ports anymore. Thoughts? Improvements?](https://www.reddit.com/r/Python/comments/wawypa/i_made_a_local_url_redirect_utility_so_i_dont_fat/)
-- [Implementing Binary Search in Python](https://www.reddit.com/r/Python/comments/wavbjq/implementing_binary_search_in_python/)
-- [A parallel programming language embedded in Python I created to lower barriers for digital content creators](https://www.reddit.com/r/Python/comments/watwar/a_parallel_programming_language_embedded_in/)
-- [Is anyone else running Python in VSCode? &lpar;probably the best tutorial on the subject right now...it&#39;s basic stuff to be honest but there is something to the flow of this tutorial&rpar;](https://www.reddit.com/r/Python/comments/watfgd/is_anyone_else_running_python_in_vscode_probably/)
 <!-- BLOG-POST-LIST:END -->
