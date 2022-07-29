@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recursive Optional Dependencies in Python](https://www.reddit.com/r/Python/comments/wb4q4a/recursive_optional_dependencies_in_python/)
+- [Voltage &lpar;Ohm&#39;s Law&rpar; Solver App Using Python and Kivy!](https://www.reddit.com/r/Python/comments/wb4cor/voltage_ohms_law_solver_app_using_python_and_kivy/)
 - [Math is beautiful](https://www.reddit.com/r/Python/comments/wb3vkp/math_is_beautiful/)
 - [Searched through some bootcamps online and I think NuCamp may work for me. Anyone here used NuCamp and how was it?](https://www.reddit.com/r/Python/comments/wb3c3b/searched_through_some_bootcamps_online_and_i/)
 - [Book Review: Architecture Patterns with Python](https://www.reddit.com/r/Python/comments/wb2yi3/book_review_architecture_patterns_with_python/)
-- [A New Type of Categorical Correlation Coefficient Available in Python - The Categorical Prediction Coefficient](https://www.reddit.com/r/Python/comments/wb2t80/a_new_type_of_categorical_correlation_coefficient/)
-- [The Complete Guide To Web Scraping in Python](https://www.reddit.com/r/Python/comments/wb2eot/the_complete_guide_to_web_scraping_in_python/)
 <!-- BLOG-POST-LIST:END -->
