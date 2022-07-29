@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [HOW TO SAVE CONVERTED PICTURES TO A DOWNLOADABLE ZIP FILE&lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/wbd3i4/how_to_save_converted_pictures_to_a_downloadable/)
+- [Python script that generates infinite python-like script](https://www.reddit.com/r/Python/comments/wbc9l7/python_script_that_generates_infinite_pythonlike/)
+- [Convert your favourite Image to ASCII using Python](https://www.reddit.com/r/Python/comments/wbc5he/convert_your_favourite_image_to_ascii_using_python/)
 - [How to Find and Add 3-D model with Texture in Ursina Python](https://www.reddit.com/r/Python/comments/wbbjln/how_to_find_and_add_3d_model_with_texture_in/)
 - [struct endianness in Python](https://www.reddit.com/r/Python/comments/wb9oti/struct_endianness_in_python/)
-- [Why your side projects suck](https://www.reddit.com/r/Python/comments/wb7onj/why_your_side_projects_suck/)
-- [Livermore Loops based benchmark [X Post from r/Kivy]](https://www.reddit.com/r/Python/comments/wb7bve/livermore_loops_based_benchmark_x_post_from_rkivy/)
-- [Python Deployment - How do you go about doing this where you work?](https://www.reddit.com/r/Python/comments/wb6r6x/python_deployment_how_do_you_go_about_doing_this/)
 <!-- BLOG-POST-LIST:END -->
