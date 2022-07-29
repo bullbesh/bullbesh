@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Livermore Loops based benchmark [X Post from r/Kivy]](https://www.reddit.com/r/Python/comments/wb7bve/livermore_loops_based_benchmark_x_post_from_rkivy/)
+- [Python Deployment - How do you go about doing this where you work?](https://www.reddit.com/r/Python/comments/wb6r6x/python_deployment_how_do_you_go_about_doing_this/)
 - [SciPy v1.9.0 is out](https://www.reddit.com/r/Python/comments/wb5s2c/scipy_v190_is_out/)
 - [Full-length tutorial on adding automated CI &lpar;continuous integration&rpar; to your Python projects with GitHub Actions](https://www.reddit.com/r/Python/comments/wb5nru/fulllength_tutorial_on_adding_automated_ci/)
 - [Recursive Optional Dependencies in Python](https://www.reddit.com/r/Python/comments/wb4q4a/recursive_optional_dependencies_in_python/)
-- [Voltage &lpar;Ohm&#39;s Law&rpar; Solver App Using Python and Kivy!](https://www.reddit.com/r/Python/comments/wb4cor/voltage_ohms_law_solver_app_using_python_and_kivy/)
-- [Math is beautiful](https://www.reddit.com/r/Python/comments/wb3vkp/math_is_beautiful/)
 <!-- BLOG-POST-LIST:END -->
