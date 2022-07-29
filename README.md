@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Game of Life, written in Python with a Tkinter GUI](https://www.reddit.com/r/Python/comments/wbh0am/game_of_life_written_in_python_with_a_tkinter_gui/)
+- [Python &amp; SIM Cards](https://www.reddit.com/r/Python/comments/wbgefa/python_sim_cards/)
 - [I&#39;ve created a AI/Algorithm based meme generator](https://www.reddit.com/r/Python/comments/wbf5vl/ive_created_a_aialgorithm_based_meme_generator/)
 - [How to Calculate &amp; Normalize Expected Return || Python Stock Analysis Pa...](https://www.reddit.com/r/Python/comments/wbew5c/how_to_calculate_normalize_expected_return_python/)
 - [Here is the first video in a series explaining Deep Q Learning for self driving cars!](https://www.reddit.com/r/Python/comments/wbdz2r/here_is_the_first_video_in_a_series_explaining/)
-- [How to clone Chrome network request in Python](https://www.reddit.com/r/Python/comments/wbdy17/how_to_clone_chrome_network_request_in_python/)
-- [How to Choose the Right Python Concurrency API](https://www.reddit.com/r/Python/comments/wbdtim/how_to_choose_the_right_python_concurrency_api/)
 <!-- BLOG-POST-LIST:END -->
