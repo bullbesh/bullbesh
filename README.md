@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Find and Add 3-D model with Texture in Ursina Python](https://www.reddit.com/r/Python/comments/wbbjln/how_to_find_and_add_3d_model_with_texture_in/)
 - [struct endianness in Python](https://www.reddit.com/r/Python/comments/wb9oti/struct_endianness_in_python/)
 - [Why your side projects suck](https://www.reddit.com/r/Python/comments/wb7onj/why_your_side_projects_suck/)
 - [Livermore Loops based benchmark [X Post from r/Kivy]](https://www.reddit.com/r/Python/comments/wb7bve/livermore_loops_based_benchmark_x_post_from_rkivy/)
 - [Python Deployment - How do you go about doing this where you work?](https://www.reddit.com/r/Python/comments/wb6r6x/python_deployment_how_do_you_go_about_doing_this/)
-- [SciPy v1.9.0 is out](https://www.reddit.com/r/Python/comments/wb5s2c/scipy_v190_is_out/)
 <!-- BLOG-POST-LIST:END -->
