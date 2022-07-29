@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A parallel programming language embedded in Python I created to lower barriers for digital content creators](https://www.reddit.com/r/Python/comments/watwar/a_parallel_programming_language_embedded_in/)
+- [Is anyone else running Python in VSCode? &lpar;probably the best tutorial on the subject right now...it&#39;s basic stuff to be honest but there is something to the flow of this tutorial&rpar;](https://www.reddit.com/r/Python/comments/watfgd/is_anyone_else_running_python_in_vscode_probably/)
 - [I made a discord.py pagination library.](https://www.reddit.com/r/Python/comments/wapyau/i_made_a_discordpy_pagination_library/)
 - [Learn python](https://www.reddit.com/r/Python/comments/wapcp6/learn_python/)
-- [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing](https://www.reddit.com/r/Python/comments/wamfuj/heres_a_playlist_of_7_hours_of_music_i_use_to/)
 - [Use OpenSearch &amp; Tika to search the text of PDF files stored in an S3 bucket](https://www.reddit.com/r/Python/comments/walzc6/use_opensearch_tika_to_search_the_text_of_pdf/)
-- [I Made A Trash-Talking Wordle Bot You Can Play Against in Python!](https://www.reddit.com/r/Python/comments/walsto/i_made_a_trashtalking_wordle_bot_you_can_play/)
 <!-- BLOG-POST-LIST:END -->
