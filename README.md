@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a discord.py pagination library.](https://www.reddit.com/r/Python/comments/wapyau/i_made_a_discordpy_pagination_library/)
+- [Learn python](https://www.reddit.com/r/Python/comments/wapcp6/learn_python/)
 - [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing](https://www.reddit.com/r/Python/comments/wamfuj/heres_a_playlist_of_7_hours_of_music_i_use_to/)
 - [Use OpenSearch &amp; Tika to search the text of PDF files stored in an S3 bucket](https://www.reddit.com/r/Python/comments/walzc6/use_opensearch_tika_to_search_the_text_of_pdf/)
 - [I Made A Trash-Talking Wordle Bot You Can Play Against in Python!](https://www.reddit.com/r/Python/comments/walsto/i_made_a_trashtalking_wordle_bot_you_can_play/)
-- [TechEmpower’s Round 21 - Performance difference between FastAPI and Starlette](https://www.reddit.com/r/Python/comments/wajr4a/techempowers_round_21_performance_difference/)
-- [Health Chart: A Python script for pulling data from Fitbit servers and visualizing it in Grafana using a local Influxdb database](https://www.reddit.com/r/Python/comments/wag2or/health_chart_a_python_script_for_pulling_data/)
 <!-- BLOG-POST-LIST:END -->
