@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Where can I get music meta data for an app I am making that I want to sell?](https://www.reddit.com/r/Python/comments/wb8ig0/where_can_i_get_music_meta_data_for_an_app_i_am/)
+- [Where can I get music meta data that I can use for an application and sell?](https://www.reddit.com/r/Python/comments/wb85a6/where_can_i_get_music_meta_data_that_i_can_use/)
+- [Why your side projects suck](https://www.reddit.com/r/Python/comments/wb7onj/why_your_side_projects_suck/)
 - [Livermore Loops based benchmark [X Post from r/Kivy]](https://www.reddit.com/r/Python/comments/wb7bve/livermore_loops_based_benchmark_x_post_from_rkivy/)
 - [Python Deployment - How do you go about doing this where you work?](https://www.reddit.com/r/Python/comments/wb6r6x/python_deployment_how_do_you_go_about_doing_this/)
-- [SciPy v1.9.0 is out](https://www.reddit.com/r/Python/comments/wb5s2c/scipy_v190_is_out/)
-- [Full-length tutorial on adding automated CI &lpar;continuous integration&rpar; to your Python projects with GitHub Actions](https://www.reddit.com/r/Python/comments/wb5nru/fulllength_tutorial_on_adding_automated_ci/)
-- [Recursive Optional Dependencies in Python](https://www.reddit.com/r/Python/comments/wb4q4a/recursive_optional_dependencies_in_python/)
 <!-- BLOG-POST-LIST:END -->
