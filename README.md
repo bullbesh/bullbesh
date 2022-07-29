@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Here is the first video in a series explaining Deep Q Learning for self driving cars!](https://www.reddit.com/r/Python/comments/wbdz2r/here_is_the_first_video_in_a_series_explaining/)
+- [How to clone Chrome network request in Python](https://www.reddit.com/r/Python/comments/wbdy17/how_to_clone_chrome_network_request_in_python/)
+- [How to Choose the Right Python Concurrency API](https://www.reddit.com/r/Python/comments/wbdtim/how_to_choose_the_right_python_concurrency_api/)
 - [HOW TO SAVE CONVERTED PICTURES TO A DOWNLOADABLE ZIP FILE&lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/wbd3i4/how_to_save_converted_pictures_to_a_downloadable/)
 - [Python script that generates infinite python-like script](https://www.reddit.com/r/Python/comments/wbc9l7/python_script_that_generates_infinite_pythonlike/)
-- [Convert your favourite Image to ASCII using Python](https://www.reddit.com/r/Python/comments/wbc5he/convert_your_favourite_image_to_ascii_using_python/)
-- [How to Find and Add 3-D model with Texture in Ursina Python](https://www.reddit.com/r/Python/comments/wbbjln/how_to_find_and_add_3d_model_with_texture_in/)
-- [struct endianness in Python](https://www.reddit.com/r/Python/comments/wb9oti/struct_endianness_in_python/)
 <!-- BLOG-POST-LIST:END -->
