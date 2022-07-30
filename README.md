@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Street Map - Assets Downloader &lpar;CLI &amp; GUI&rpar;](https://www.reddit.com/r/Python/comments/wc8o4s/open_street_map_assets_downloader_cli_gui/)
+- [Made a COVID data visualizer GUI using Pyqt5 and pyqtgraph ;](https://www.reddit.com/r/Python/comments/wc8ffq/made_a_covid_data_visualizer_gui_using_pyqt5_and/)
+- [I made one project as a beginner of python](https://www.reddit.com/r/Python/comments/wc7w1m/i_made_one_project_as_a_beginner_of_python/)
+- [Thanks for the feedback - just released a meaningful update to my open source project.](https://www.reddit.com/r/Python/comments/wc7qwu/thanks_for_the_feedback_just_released_a/)
 - [Socpi, a simple async socket framework for python.](https://www.reddit.com/r/Python/comments/wc5l1w/socpi_a_simple_async_socket_framework_for_python/)
-- [Is there any note-taking app written in Python?](https://www.reddit.com/r/Python/comments/wc2jw2/is_there_any_notetaking_app_written_in_python/)
-- [I Created an Python OpenCV Powered Basketball Referee](https://www.reddit.com/r/Python/comments/wbw3d7/i_created_an_python_opencv_powered_basketball/)
-- [Inventa - A Go and Python library for microservice registry and executing RPC over Redis](https://www.reddit.com/r/Python/comments/wbvezk/inventa_a_go_and_python_library_for_microservice/)
-- [Protestware vs. Corporate Greed](https://www.reddit.com/r/Python/comments/wbv62o/protestware_vs_corporate_greed/)
 <!-- BLOG-POST-LIST:END -->
