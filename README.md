@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Protestware vs. Corporate Greed](https://www.reddit.com/r/Python/comments/wbv62o/protestware_vs_corporate_greed/)
+- [Not sure if this is possible, but it would make the lives of blind people far better while gaming.](https://www.reddit.com/r/Python/comments/wburw7/not_sure_if_this_is_possible_but_it_would_make/)
 - [hi](https://www.reddit.com/r/Python/comments/wbt4pr/hi/)
 - [How I scraped 1000 multi-lingual news articles with Python](https://www.reddit.com/r/Python/comments/wbrdr8/how_i_scraped_1000_multilingual_news_articles/)
 - [HTTPX: A Next-Generation HTTP Client for Python](https://www.reddit.com/r/Python/comments/wbohxj/httpx_a_nextgeneration_http_client_for_python/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/wbjigf/saturday_daily_thread_resource_request_and/)
-- [Game of Life, written in Python with a Tkinter GUI](https://www.reddit.com/r/Python/comments/wbh0am/game_of_life_written_in_python_with_a_tkinter_gui/)
 <!-- BLOG-POST-LIST:END -->
