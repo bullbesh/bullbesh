@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Make a method into a application](https://www.reddit.com/r/Python/comments/wbpuzg/make_a_method_into_a_application/)
 - [HTTPX: A Next-Generation HTTP Client for Python](https://www.reddit.com/r/Python/comments/wbohxj/httpx_a_nextgeneration_http_client_for_python/)
 - [on hand experience and projects](https://www.reddit.com/r/Python/comments/wbnqpq/on_hand_experience_and_projects/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/wbjigf/saturday_daily_thread_resource_request_and/)
-- [beginner need some advice please](https://www.reddit.com/r/Python/comments/wbijcd/beginner_need_some_advice_please/)
 - [Game of Life, written in Python with a Tkinter GUI](https://www.reddit.com/r/Python/comments/wbh0am/game_of_life_written_in_python_with_a_tkinter_gui/)
 <!-- BLOG-POST-LIST:END -->
