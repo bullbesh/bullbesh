@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/wbjigf/saturday_daily_thread_resource_request_and/)
 - [beginner need some advice please](https://www.reddit.com/r/Python/comments/wbijcd/beginner_need_some_advice_please/)
 - [Game of Life, written in Python with a Tkinter GUI](https://www.reddit.com/r/Python/comments/wbh0am/game_of_life_written_in_python_with_a_tkinter_gui/)
 - [Python &amp; SIM Cards](https://www.reddit.com/r/Python/comments/wbgefa/python_sim_cards/)
 - [I&#39;ve created a AI/Algorithm based meme generator](https://www.reddit.com/r/Python/comments/wbf5vl/ive_created_a_aialgorithm_based_meme_generator/)
-- [How to Calculate &amp; Normalize Expected Return || Python Stock Analysis Pa...](https://www.reddit.com/r/Python/comments/wbew5c/how_to_calculate_normalize_expected_return_python/)
 <!-- BLOG-POST-LIST:END -->
