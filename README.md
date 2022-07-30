@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [[HELP]](https://www.reddit.com/r/Python/comments/wc0k3y/help/)
 - [I Created an Python OpenCV Powered Basketball Referee](https://www.reddit.com/r/Python/comments/wbw3d7/i_created_an_python_opencv_powered_basketball/)
 - [Inventa - A Go and Python library for microservice registry and executing RPC over Redis](https://www.reddit.com/r/Python/comments/wbvezk/inventa_a_go_and_python_library_for_microservice/)
 - [Protestware vs. Corporate Greed](https://www.reddit.com/r/Python/comments/wbv62o/protestware_vs_corporate_greed/)
-- [Not sure if this is possible, but it would make the lives of blind people far better while gaming.](https://www.reddit.com/r/Python/comments/wburw7/not_sure_if_this_is_possible_but_it_would_make/)
+- [How I scraped 1000 multi-lingual news articles with Python](https://www.reddit.com/r/Python/comments/wbrdr8/how_i_scraped_1000_multilingual_news_articles/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/wbjigf/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
