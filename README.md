@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Share an YouTube link embedded in a large thumbnail](https://www.reddit.com/r/Python/comments/wd1uyt/share_an_youtube_link_embedded_in_a_large/)
+- [I made a Discord Bot in python](https://www.reddit.com/r/Python/comments/wd11a5/i_made_a_discord_bot_in_python/)
 - [this might be a generic question, but should I learn flask or django &lpar;more info in bio&rpar;](https://www.reddit.com/r/Python/comments/wczj5c/this_might_be_a_generic_question_but_should_i/)
 - [Gitea 1.17.0 released with support for PyPI packaging](https://www.reddit.com/r/Python/comments/wcyai0/gitea_1170_released_with_support_for_pypi/)
 - [Python and complex dependencies](https://www.reddit.com/r/Python/comments/wcxtbr/python_and_complex_dependencies/)
-- [Learning rust as a python developer](https://www.reddit.com/r/Python/comments/wcxlg0/learning_rust_as_a_python_developer/)
-- [I created a Python client for interacting with 4chan](https://www.reddit.com/r/Python/comments/wcuh7n/i_created_a_python_client_for_interacting_with/)
 <!-- BLOG-POST-LIST:END -->
