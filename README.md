@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello guys, it&#39;s an honor for me to publish here, I would like to know if there is any way besides recursion &lpar;which doesn&#39;t work for me in the code&rpar; to restart Python code, that is, start again, look at something with os.excl and excv but I don&#39;t know if I use it well.](https://www.reddit.com/r/Python/comments/wcd9tb/hello_guys_its_an_honor_for_me_to_publish_here_i/)
-- [Ask me a question about Python and then edit the question so my reply makes me look like a bozo.](https://www.reddit.com/r/Python/comments/wccpgc/ask_me_a_question_about_python_and_then_edit_the/)
 - [Python Code Ideas](https://www.reddit.com/r/Python/comments/wcckul/python_code_ideas/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/wcb3af/sunday_daily_thread_whats_everyone_working_on/)
 - [Python to Windows Executable &lpar;py2exe, pyinstaller, cx_freeze or ?&rpar;](https://www.reddit.com/r/Python/comments/wcafx9/python_to_windows_executable_py2exe_pyinstaller/)
+- [Open Street Map - Assets Downloader &lpar;CLI &amp; GUI&rpar;](https://www.reddit.com/r/Python/comments/wc8o4s/open_street_map_assets_downloader_cli_gui/)
+- [I made one project as a beginner of python](https://www.reddit.com/r/Python/comments/wc7w1m/i_made_one_project_as_a_beginner_of_python/)
 <!-- BLOG-POST-LIST:END -->
