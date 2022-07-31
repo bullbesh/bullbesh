@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scheduler with a REST API and a web UI](https://www.reddit.com/r/Python/comments/wcop55/scheduler_with_a_rest_api_and_a_web_ui/)
+- [Pyinstaller is pointless imo](https://www.reddit.com/r/Python/comments/wco95z/pyinstaller_is_pointless_imo/)
+- [python](https://www.reddit.com/r/Python/comments/wco8ud/python/)
+- [I wrote a color detection code in python using Open-cv](https://www.reddit.com/r/Python/comments/wco4qy/i_wrote_a_color_detection_code_in_python_using/)
 - [I’m new to python ….have been learning selenium and Webscraping data from websites ...but I’m planning on learning Machine learning any suggestions on how to start …any recommendations. ..](https://www.reddit.com/r/Python/comments/wcnd1t/im_new_to_python_have_been_learning_selenium_and/)
-- [FREE RESOURCE : Python Tips and Tricks - 50 Basic &amp; Intermediate Tips &amp; Tricks.](https://www.reddit.com/r/Python/comments/wcn3mx/free_resource_python_tips_and_tricks_50_basic/)
-- [Setting up PDEs and ODEs in python. Any comprehensive books that touch on these?](https://www.reddit.com/r/Python/comments/wcn0no/setting_up_pdes_and_odes_in_python_any/)
-- [weheartpy: An unofficial API client for weheartit.com [my first package]](https://www.reddit.com/r/Python/comments/wcms58/weheartpy_an_unofficial_api_client_for/)
-- [I made a script to touch grass for me](https://www.reddit.com/r/Python/comments/wckgd1/i_made_a_script_to_touch_grass_for_me/)
 <!-- BLOG-POST-LIST:END -->
