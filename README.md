@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m new to python ….have been learning selenium and Webscraping data from websites ...but I’m planning on learning Machine learning any suggestions on how to start …any recommendations. ..](https://www.reddit.com/r/Python/comments/wcnd1t/im_new_to_python_have_been_learning_selenium_and/)
+- [FREE RESOURCE : Python Tips and Tricks - 50 Basic &amp; Intermediate Tips &amp; Tricks.](https://www.reddit.com/r/Python/comments/wcn3mx/free_resource_python_tips_and_tricks_50_basic/)
+- [Setting up PDEs and ODEs in python. Any comprehensive books that touch on these?](https://www.reddit.com/r/Python/comments/wcn0no/setting_up_pdes_and_odes_in_python_any/)
+- [weheartpy: An unofficial API client for weheartit.com [my first package]](https://www.reddit.com/r/Python/comments/wcms58/weheartpy_an_unofficial_api_client_for/)
 - [I made a script to touch grass for me](https://www.reddit.com/r/Python/comments/wckgd1/i_made_a_script_to_touch_grass_for_me/)
-- [Create a Web GUI in Python with Gradio for Machine Learning Models](https://www.reddit.com/r/Python/comments/wch28y/create_a_web_gui_in_python_with_gradio_for/)
-- [i made a little ai thingy using turtle that goes around drawing whatever it wants and sometimes insults me](https://www.reddit.com/r/Python/comments/wcgtwx/i_made_a_little_ai_thingy_using_turtle_that_goes/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/wcb3af/sunday_daily_thread_whats_everyone_working_on/)
-- [Python to Windows Executable &lpar;py2exe, pyinstaller, cx_freeze or ?&rpar;](https://www.reddit.com/r/Python/comments/wcafx9/python_to_windows_executable_py2exe_pyinstaller/)
 <!-- BLOG-POST-LIST:END -->
