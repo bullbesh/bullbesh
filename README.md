@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [best Venv](https://www.reddit.com/r/Python/comments/wctppo/best_venv/)
+- [Primer on Jinja Templating – Real Python](https://www.reddit.com/r/Python/comments/wcstda/primer_on_jinja_templating_real_python/)
+- [Resources to practice testing skills &lpar;unittest, PyTest&rpar;](https://www.reddit.com/r/Python/comments/wcsrbk/resources_to_practice_testing_skills_unittest/)
 - [question](https://www.reddit.com/r/Python/comments/wcptxn/question/)
 - [I need a good python game engine.](https://www.reddit.com/r/Python/comments/wcpi6d/i_need_a_good_python_game_engine/)
-- [Infra Weekly #9](https://www.reddit.com/r/Python/comments/wcoz5s/infra_weekly_9/)
-- [Scheduler with a REST API and a web UI](https://www.reddit.com/r/Python/comments/wcop55/scheduler_with_a_rest_api_and_a_web_ui/)
-- [python](https://www.reddit.com/r/Python/comments/wco8ud/python/)
 <!-- BLOG-POST-LIST:END -->
