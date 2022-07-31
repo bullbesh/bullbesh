@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gitea 1.17.0 released with support for PyPI packaging](https://www.reddit.com/r/Python/comments/wcyai0/gitea_1170_released_with_support_for_pypi/)
 - [Python and complex dependencies](https://www.reddit.com/r/Python/comments/wcxtbr/python_and_complex_dependencies/)
 - [Learning rust as a python developer](https://www.reddit.com/r/Python/comments/wcxlg0/learning_rust_as_a_python_developer/)
 - [I created a Python client for interacting with 4chan](https://www.reddit.com/r/Python/comments/wcuh7n/i_created_a_python_client_for_interacting_with/)
 - [GitHub - gradio-app/gradio: Gradio is a Python library that allows you to quickly build web-based machine learning demos, data science dashboards, or other kinds of web apps, entirely in Python](https://www.reddit.com/r/Python/comments/wcuc7g/github_gradioappgradio_gradio_is_a_python_library/)
-- [best Venv](https://www.reddit.com/r/Python/comments/wctppo/best_venv/)
 <!-- BLOG-POST-LIST:END -->
