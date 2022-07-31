@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a Web GUI in Python with Gradio for Machine Learning Models](https://www.reddit.com/r/Python/comments/wch28y/create_a_web_gui_in_python_with_gradio_for/)
 - [i made a little ai thingy using turtle that goes around drawing whatever it wants and sometimes insults me](https://www.reddit.com/r/Python/comments/wcgtwx/i_made_a_little_ai_thingy_using_turtle_that_goes/)
-- [Python Code Ideas](https://www.reddit.com/r/Python/comments/wcckul/python_code_ideas/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/wcb3af/sunday_daily_thread_whats_everyone_working_on/)
 - [Python to Windows Executable &lpar;py2exe, pyinstaller, cx_freeze or ?&rpar;](https://www.reddit.com/r/Python/comments/wcafx9/python_to_windows_executable_py2exe_pyinstaller/)
 - [Open Street Map - Assets Downloader &lpar;CLI &amp; GUI&rpar;](https://www.reddit.com/r/Python/comments/wc8o4s/open_street_map_assets_downloader_cli_gui/)
