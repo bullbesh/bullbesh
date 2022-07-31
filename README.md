@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help creating BMI calculator for list of people](https://www.reddit.com/r/Python/comments/wcutnv/help_creating_bmi_calculator_for_list_of_people/)
+- [I created a Python client for interacting with 4chan](https://www.reddit.com/r/Python/comments/wcuh7n/i_created_a_python_client_for_interacting_with/)
+- [GitHub - gradio-app/gradio: Gradio is a Python library that allows you to quickly build web-based machine learning demos, data science dashboards, or other kinds of web apps, entirely in Python](https://www.reddit.com/r/Python/comments/wcuc7g/github_gradioappgradio_gradio_is_a_python_library/)
 - [best Venv](https://www.reddit.com/r/Python/comments/wctppo/best_venv/)
 - [Primer on Jinja Templating – Real Python](https://www.reddit.com/r/Python/comments/wcstda/primer_on_jinja_templating_real_python/)
-- [Resources to practice testing skills &lpar;unittest, PyTest&rpar;](https://www.reddit.com/r/Python/comments/wcsrbk/resources_to_practice_testing_skills_unittest/)
-- [question](https://www.reddit.com/r/Python/comments/wcptxn/question/)
-- [I need a good python game engine.](https://www.reddit.com/r/Python/comments/wcpi6d/i_need_a_good_python_game_engine/)
 <!-- BLOG-POST-LIST:END -->
