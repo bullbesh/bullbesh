@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just started learning python I need a free course and tips](https://www.reddit.com/r/Python/comments/wdredm/i_just_started_learning_python_i_need_a_free/)
+- [Data Analyst Skills for Beginners](https://www.reddit.com/r/Python/comments/wdqrr4/data_analyst_skills_for_beginners/)
+- [what do you think about too detailed interview?](https://www.reddit.com/r/Python/comments/wdpv3b/what_do_you_think_about_too_detailed_interview/)
 - [Is there a way to turn a string into a callable?](https://www.reddit.com/r/Python/comments/wdppe0/is_there_a_way_to_turn_a_string_into_a_callable/)
 - [Web Scraping with Xpath and Python](https://www.reddit.com/r/Python/comments/wdpeaf/web_scraping_with_xpath_and_python/)
-- [python to micropython](https://www.reddit.com/r/Python/comments/wdpdsb/python_to_micropython/)
-- [100% self-automated discord ID/selfie/paper verification bot](https://www.reddit.com/r/Python/comments/wdnt6v/100_selfautomated_discord_idselfiepaper/)
-- [Crimes with Python&#39;s Pattern Matching](https://www.reddit.com/r/Python/comments/wdncoi/crimes_with_pythons_pattern_matching/)
 <!-- BLOG-POST-LIST:END -->
