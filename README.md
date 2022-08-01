@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [When Python old style string formatting is best practice](https://www.reddit.com/r/Python/comments/wdcn5z/when_python_old_style_string_formatting_is_best/)
+- [Coding Challenge](https://www.reddit.com/r/Python/comments/wdc949/coding_challenge/)
 - [Document Scanner with OpenCV Using Video Footage](https://www.reddit.com/r/Python/comments/wdbxvp/document_scanner_with_opencv_using_video_footage/)
 - [LineaPy: Capture, Analyze and Automate Data Science Workflows](https://www.reddit.com/r/Python/comments/wd6s8u/lineapy_capture_analyze_and_automate_data_science/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/wd2spa/monday_daily_thread_project_ideas/)
-- [I made a Discord Bot in python](https://www.reddit.com/r/Python/comments/wd11a5/i_made_a_discord_bot_in_python/)
-- [Gitea 1.17.0 released with support for PyPI packaging](https://www.reddit.com/r/Python/comments/wcyai0/gitea_1170_released_with_support_for_pypi/)
 <!-- BLOG-POST-LIST:END -->
