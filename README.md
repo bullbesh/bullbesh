@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why invalid syntax error for elif ?](https://www.reddit.com/r/Python/comments/wd39xc/why_invalid_syntax_error_for_elif/)
+- [resume review.](https://www.reddit.com/r/Python/comments/wd7mrq/resume_review/)
+- [How to fix “pip is not recognized as internal or external command”??](https://www.reddit.com/r/Python/comments/wd79ow/how_to_fix_pip_is_not_recognized_as_internal_or/)
+- [LineaPy: Capture, Analyze and Automate Data Science Workflows](https://www.reddit.com/r/Python/comments/wd6s8u/lineapy_capture_analyze_and_automate_data_science/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/wd2spa/monday_daily_thread_project_ideas/)
 - [Share an YouTube link embedded in a large thumbnail](https://www.reddit.com/r/Python/comments/wd1uyt/share_an_youtube_link_embedded_in_a_large/)
-- [I made a Discord Bot in python](https://www.reddit.com/r/Python/comments/wd11a5/i_made_a_discord_bot_in_python/)
-- [this might be a generic question, but should I learn flask or django &lpar;more info in bio&rpar;](https://www.reddit.com/r/Python/comments/wczj5c/this_might_be_a_generic_question_but_should_i/)
 <!-- BLOG-POST-LIST:END -->
