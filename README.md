@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I just started learning python I need a free course and tips](https://www.reddit.com/r/Python/comments/wdredm/i_just_started_learning_python_i_need_a_free/)
-- [Data Analyst Skills for Beginners](https://www.reddit.com/r/Python/comments/wdqrr4/data_analyst_skills_for_beginners/)
+- [What is python??](https://www.reddit.com/r/Python/comments/wdss7p/what_is_python/)
+- [ShaBri code and IT support](https://www.reddit.com/r/Python/comments/wdsopx/shabri_code_and_it_support/)
+- [libvcs 0.14 - Python library for VCS systems supporting Git / Mercurial / Subversion &lpar;Dusting this off after a few years of inactivity, wow is mypy nice&rpar;](https://www.reddit.com/r/Python/comments/wds8ce/libvcs_014_python_library_for_vcs_systems/)
+- [I couldn&#39;t find a FastAPI x Google Auth tutorial so I made one](https://www.reddit.com/r/Python/comments/wdrxgz/i_couldnt_find_a_fastapi_x_google_auth_tutorial/)
 - [what do you think about too detailed interview?](https://www.reddit.com/r/Python/comments/wdpv3b/what_do_you_think_about_too_detailed_interview/)
-- [Is there a way to turn a string into a callable?](https://www.reddit.com/r/Python/comments/wdppe0/is_there_a_way_to_turn_a_string_into_a_callable/)
-- [Web Scraping with Xpath and Python](https://www.reddit.com/r/Python/comments/wdpeaf/web_scraping_with_xpath_and_python/)
 <!-- BLOG-POST-LIST:END -->
