@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a very pointless program that takes an image and converts it into a spreadsheet &lpar;1 pixel = 1 cell&rpar; but im very proud of it regardless. Source code in comments](https://www.reddit.com/r/Python/comments/wdgcq8/i_made_a_very_pointless_program_that_takes_an/)
+- [send me example code of discord/reddit bot](https://www.reddit.com/r/Python/comments/wdfjyz/send_me_example_code_of_discordreddit_bot/)
+- [Lesser knowns about Computer Vision](https://www.reddit.com/r/Python/comments/wdfjj6/lesser_knowns_about_computer_vision/)
 - [Using GraphQL the pythonic way.](https://www.reddit.com/r/Python/comments/wde154/using_graphql_the_pythonic_way/)
 - [GitHub - bornfree/dive-color-correction: Easily color correct your dive and underwater footage for free](https://www.reddit.com/r/Python/comments/wddgw3/github_bornfreedivecolorcorrection_easily_color/)
-- [is making a discord bot hard?](https://www.reddit.com/r/Python/comments/wddbqb/is_making_a_discord_bot_hard/)
-- [When Python old style string formatting is best practice](https://www.reddit.com/r/Python/comments/wdcn5z/when_python_old_style_string_formatting_is_best/)
-- [Coding Challenge](https://www.reddit.com/r/Python/comments/wdc949/coding_challenge/)
 <!-- BLOG-POST-LIST:END -->
