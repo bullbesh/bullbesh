@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a carefully curated list of full-stack programming books. It is mostly geared towards Python.](https://www.reddit.com/r/Python/comments/wdmroz/i_made_a_carefully_curated_list_of_fullstack/)
+- [Python Data Visualisation](https://www.reddit.com/r/Python/comments/wdmrjk/python_data_visualisation/)
+- [Web Scraping Tutorial](https://www.reddit.com/r/Python/comments/wdmqd7/web_scraping_tutorial/)
 - [Bat files CAN be useful](https://www.reddit.com/r/Python/comments/wdliwr/bat_files_can_be_useful/)
 - [why do other programming languages have a more „complicated“ syntax &lpar; {} or ; etc.&rpar; but python doesn’t? And does it have any advantages/disadvantages in terms of efficiency etc.?](https://www.reddit.com/r/Python/comments/wdk7gy/why_do_other_programming_languages_have_a_more/)
-- [Python Institute](https://www.reddit.com/r/Python/comments/wdk3ok/python_institute/)
-- [Git Repo Visualization](https://www.reddit.com/r/Python/comments/wdk0c8/git_repo_visualization/)
-- [carrotsh 1.4.0 - A lightweight and secure remote access server that allows clients to connect through a browser](https://www.reddit.com/r/Python/comments/wdjyof/carrotsh_140_a_lightweight_and_secure_remote/)
 <!-- BLOG-POST-LIST:END -->
