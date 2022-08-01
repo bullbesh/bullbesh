@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - bornfree/dive-color-correction: Easily color correct your dive and underwater footage for free](https://www.reddit.com/r/Python/comments/wddgw3/github_bornfreedivecolorcorrection_easily_color/)
+- [is making a discord bot hard?](https://www.reddit.com/r/Python/comments/wddbqb/is_making_a_discord_bot_hard/)
 - [When Python old style string formatting is best practice](https://www.reddit.com/r/Python/comments/wdcn5z/when_python_old_style_string_formatting_is_best/)
 - [Coding Challenge](https://www.reddit.com/r/Python/comments/wdc949/coding_challenge/)
 - [Document Scanner with OpenCV Using Video Footage](https://www.reddit.com/r/Python/comments/wdbxvp/document_scanner_with_opencv_using_video_footage/)
-- [LineaPy: Capture, Analyze and Automate Data Science Workflows](https://www.reddit.com/r/Python/comments/wd6s8u/lineapy_capture_analyze_and_automate_data_science/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/wd2spa/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
