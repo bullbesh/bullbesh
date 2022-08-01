@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python vs JavaScript a relative side by side comparison](https://www.reddit.com/r/Python/comments/wdi2qw/python_vs_javascript_a_relative_side_by_side/)
-- [The free weekly electronic Python on Microcontrollers Newsletter](https://www.reddit.com/r/Python/comments/wdhr1o/the_free_weekly_electronic_python_on/)
-- [Data Engineer vs API Developer](https://www.reddit.com/r/Python/comments/wdhgo1/data_engineer_vs_api_developer/)
-- [Optimizing Levenshtein Distance in Python &lpar;Using Built-Ins Only&rpar;](https://www.reddit.com/r/Python/comments/wdgyws/optimizing_levenshtein_distance_in_python_using/)
-- [I made a very pointless program that takes an image and converts it into a spreadsheet &lpar;1 pixel = 1 cell&rpar; but im very proud of it regardless. Source code in comments](https://www.reddit.com/r/Python/comments/wdgcq8/i_made_a_very_pointless_program_that_takes_an/)
+- [why do other programming languages have a more „complicated“ syntax &lpar; {} or ; etc.&rpar; but python doesn’t? And does it have any advantages/disadvantages in terms of efficiency etc.?](https://www.reddit.com/r/Python/comments/wdk7gy/why_do_other_programming_languages_have_a_more/)
+- [Python Institute](https://www.reddit.com/r/Python/comments/wdk3ok/python_institute/)
+- [Git Repo Visualization](https://www.reddit.com/r/Python/comments/wdk0c8/git_repo_visualization/)
+- [carrotsh 1.4.0 - A lightweight and secure remote access server that allows clients to connect through a browser](https://www.reddit.com/r/Python/comments/wdjyof/carrotsh_140_a_lightweight_and_secure_remote/)
+- [Best Python Courses!](https://www.reddit.com/r/Python/comments/wdjm6m/best_python_courses/)
 <!-- BLOG-POST-LIST:END -->
