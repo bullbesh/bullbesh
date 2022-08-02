@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[library] rug 0.4 released- library for fetching various stock data from the internet &lpar;official and unofficial APIs&rpar;](https://www.reddit.com/r/Python/comments/wecng8/library_rug_04_released_library_for_fetching/)
 - [Recipes and Tricks for Effective Structural Pattern Matching in Python](https://www.reddit.com/r/Python/comments/webvj3/recipes_and_tricks_for_effective_structural/)
 - [Tool and library for managing git hooks: autohooks](https://www.reddit.com/r/Python/comments/webbrp/tool_and_library_for_managing_git_hooks_autohooks/)
 - [Why won&#39;t this code work?](https://www.reddit.com/r/Python/comments/weaaml/why_wont_this_code_work/)
 - [Sampling of discrete values in tensorflow with possible applications in NLP, GANs, Autoencoders, etc.](https://www.reddit.com/r/Python/comments/wea806/sampling_of_discrete_values_in_tensorflow_with/)
-- [I made a stock manager for small retail stores!](https://www.reddit.com/r/Python/comments/we9xlu/i_made_a_stock_manager_for_small_retail_stores/)
 <!-- BLOG-POST-LIST:END -->
