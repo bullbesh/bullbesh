@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [a standalone monitoring system](https://www.reddit.com/r/Python/comments/we57pw/a_standalone_monitoring_system/)
 - [I made pydalle, an API wrapper that provides full programmatic access to the DALL·E 2 API &lpar;with optional asyncio support&rpar; -- AMA!](https://www.reddit.com/r/Python/comments/we1sd7/i_made_pydalle_an_api_wrapper_that_provides_full/)
 - [python310.zip inside distributed python-3.10.5-embed-amd64.zip?](https://www.reddit.com/r/Python/comments/we1jjc/python310zip_inside_distributed/)
 - [DeepMosaics | Automatically remove the mosaics in Images and Videos](https://www.reddit.com/r/Python/comments/wdyiqm/deepmosaics_automatically_remove_the_mosaics_in/)
 - [How to Create an API Texting Service using Twilio SMS and Python](https://www.reddit.com/r/Python/comments/wdxhqn/how_to_create_an_api_texting_service_using_twilio/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/wdwjsz/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
