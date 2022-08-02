@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [NV-Scrapper: Nvidia Web Scraper with Python](https://www.reddit.com/r/Python/comments/wep0qj/nvscrapper_nvidia_web_scraper_with_python/)
+- [looking for relatively well-known open source projects that need help with their Arabic /French documentation](https://www.reddit.com/r/Python/comments/weo523/looking_for_relatively_wellknown_open_source/)
 - [Your thoughts on Python certification from PCEP](https://www.reddit.com/r/Python/comments/wemjjt/your_thoughts_on_python_certification_from_pcep/)
 - [Practical Guide to Asyncio, Threading &amp; Multiprocessing](https://www.reddit.com/r/Python/comments/wemgda/practical_guide_to_asyncio_threading/)
 - [Dynamite, a Python client library for using DynamoDB faster with fewer mistakes](https://www.reddit.com/r/Python/comments/wem5bn/dynamite_a_python_client_library_for_using/)
-- [I made a CLI tool for querying PyPI using a custom REST API wrapper](https://www.reddit.com/r/Python/comments/wela8y/i_made_a_cli_tool_for_querying_pypi_using_a/)
-- [CLI for long running on-demand python tasks and workflows in the cloud](https://www.reddit.com/r/Python/comments/weg6zn/cli_for_long_running_ondemand_python_tasks_and/)
 <!-- BLOG-POST-LIST:END -->
