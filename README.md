@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI &amp; Python w/ Secure Enclaves for Multiparty Computation](https://www.reddit.com/r/Python/comments/we7pao/fastapi_python_w_secure_enclaves_for_multiparty/)
+- [[CLI Script] Web Scraping Google Finance Markets in Python](https://www.reddit.com/r/Python/comments/we7ecm/cli_script_web_scraping_google_finance_markets_in/)
+- [My bad projects](https://www.reddit.com/r/Python/comments/we7cyu/my_bad_projects/)
 - [APIFairy: Automatic OpenAPI Documentation for Flask APIs](https://www.reddit.com/r/Python/comments/we6wo2/apifairy_automatic_openapi_documentation_for/)
 - [a standalone monitoring system](https://www.reddit.com/r/Python/comments/we57pw/a_standalone_monitoring_system/)
-- [I made pydalle, an API wrapper that provides full programmatic access to the DALL·E 2 API &lpar;with optional asyncio support&rpar; -- AMA!](https://www.reddit.com/r/Python/comments/we1sd7/i_made_pydalle_an_api_wrapper_that_provides_full/)
-- [python310.zip inside distributed python-3.10.5-embed-amd64.zip?](https://www.reddit.com/r/Python/comments/we1jjc/python310zip_inside_distributed/)
-- [DeepMosaics | Automatically remove the mosaics in Images and Videos](https://www.reddit.com/r/Python/comments/wdyiqm/deepmosaics_automatically_remove_the_mosaics_in/)
 <!-- BLOG-POST-LIST:END -->
