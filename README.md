@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a CLI tool for querying PyPI using a custom REST API wrapper](https://www.reddit.com/r/Python/comments/wela8y/i_made_a_cli_tool_for_querying_pypi_using_a/)
 - [CLI for long running on-demand python tasks and workflows in the cloud](https://www.reddit.com/r/Python/comments/weg6zn/cli_for_long_running_ondemand_python_tasks_and/)
 - [I’m currently in college and I have a programing class that starts today and our first topic is python. Is their anything I should know that you wish you knew before getting started? Thanks!](https://www.reddit.com/r/Python/comments/weg2r1/im_currently_in_college_and_i_have_a_programing/)
 - [Asynchronous Tasks With Django and Celery – Real Python](https://www.reddit.com/r/Python/comments/wee01c/asynchronous_tasks_with_django_and_celery_real/)
 - [What is the best GUI library for Python?](https://www.reddit.com/r/Python/comments/wedvzi/what_is_the_best_gui_library_for_python/)
-- [Python 3.10.6 is available](https://www.reddit.com/r/Python/comments/wedljs/python_3106_is_available/)
 <!-- BLOG-POST-LIST:END -->
