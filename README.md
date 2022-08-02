@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why won&#39;t this code work?](https://www.reddit.com/r/Python/comments/weaaml/why_wont_this_code_work/)
+- [Sampling of discrete values in tensorflow with possible applications in NLP, GANs, Autoencoders, etc.](https://www.reddit.com/r/Python/comments/wea806/sampling_of_discrete_values_in_tensorflow_with/)
+- [I made a stock manager for small retail stores!](https://www.reddit.com/r/Python/comments/we9xlu/i_made_a_stock_manager_for_small_retail_stores/)
 - [FastAPI &amp; Python w/ Secure Enclaves for Multiparty Computation](https://www.reddit.com/r/Python/comments/we7pao/fastapi_python_w_secure_enclaves_for_multiparty/)
 - [[CLI Script] Web Scraping Google Finance Markets in Python](https://www.reddit.com/r/Python/comments/we7ecm/cli_script_web_scraping_google_finance_markets_in/)
-- [My bad projects](https://www.reddit.com/r/Python/comments/we7cyu/my_bad_projects/)
-- [APIFairy: Automatic OpenAPI Documentation for Flask APIs](https://www.reddit.com/r/Python/comments/we6wo2/apifairy_automatic_openapi_documentation_for/)
-- [a standalone monitoring system](https://www.reddit.com/r/Python/comments/we57pw/a_standalone_monitoring_system/)
 <!-- BLOG-POST-LIST:END -->
