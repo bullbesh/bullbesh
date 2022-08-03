@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Seven things I&#39;ve learned building a modern TUI framework](https://www.reddit.com/r/Python/comments/wf6wgk/seven_things_ive_learned_building_a_modern_tui/)
+- [I&#39;ve created a library for processing low resolution images &lpar;logo and graphics&rpar;](https://www.reddit.com/r/Python/comments/wf6rh0/ive_created_a_library_for_processing_low/)
+- [Manim Example Gallery](https://www.reddit.com/r/Python/comments/wf5s82/manim_example_gallery/)
+- [Python Certifications and Mock Exams](https://www.reddit.com/r/Python/comments/wf5q27/python_certifications_and_mock_exams/)
 - [GitHub - BrianPugh/belay: Belay is a python library that enables the rapid development of projects that interact with hardware via a micropython-compatible board.](https://www.reddit.com/r/Python/comments/wf5p4m/github_brianpughbelay_belay_is_a_python_library/)
-- [Chainlink Wallet Drainer](https://www.reddit.com/r/Python/comments/wf4wow/chainlink_wallet_drainer/)
-- [I collected my scientific Python snippets and automatised the benchmarks with GitHub Actions](https://www.reddit.com/r/Python/comments/wf4lmz/i_collected_my_scientific_python_snippets_and/)
-- [Python Desktop GUI App with SQLite DB &lpar;PyQt/PySide/Qt Designer&rpar;](https://www.reddit.com/r/Python/comments/wf4g38/python_desktop_gui_app_with_sqlite_db/)
-- [How to find problems to solve?](https://www.reddit.com/r/Python/comments/wf3zbx/how_to_find_problems_to_solve/)
 <!-- BLOG-POST-LIST:END -->
