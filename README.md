@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn Python A To Z](https://www.reddit.com/r/Python/comments/weq3to/learn_python_a_to_z/)
-- [NV-Scrapper: Nvidia Web Scraper with Python](https://www.reddit.com/r/Python/comments/wep0qj/nvscrapper_nvidia_web_scraper_with_python/)
-- [looking for relatively well-known open source projects that need help with their Arabic /French documentation](https://www.reddit.com/r/Python/comments/weo523/looking_for_relatively_wellknown_open_source/)
-- [Your thoughts on Python certification from PCEP](https://www.reddit.com/r/Python/comments/wemjjt/your_thoughts_on_python_certification_from_pcep/)
-- [Practical Guide to Asyncio, Threading &amp; Multiprocessing](https://www.reddit.com/r/Python/comments/wemgda/practical_guide_to_asyncio_threading/)
+- [Minimalist and full configurable greetings and TODO list python CLI](https://www.reddit.com/r/Python/comments/weta5k/minimalist_and_full_configurable_greetings_and/)
+- [Parallelism in Python starter pack &lpar;post I wrote&rpar;](https://www.reddit.com/r/Python/comments/wet551/parallelism_in_python_starter_pack_post_i_wrote/)
+- [Using multiple package managers](https://www.reddit.com/r/Python/comments/wet3ja/using_multiple_package_managers/)
+- [Create a Simple Crud App With Python, Vue.js and Mysql [ Source Code ]](https://www.reddit.com/r/Python/comments/wesrav/create_a_simple_crud_app_with_python_vuejs_and/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/wer91z/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
