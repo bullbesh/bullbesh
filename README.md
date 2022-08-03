@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can you guess these words? &lpar;Python Edition&rpar;](https://www.reddit.com/r/Python/comments/wfcox3/can_you_guess_these_words_python_edition/)
 - [Which python books have you read cover to cover?](https://www.reddit.com/r/Python/comments/wfcer6/which_python_books_have_you_read_cover_to_cover/)
-- [Different Python logos generated with DALL-E AI](https://www.reddit.com/r/Python/comments/wfccau/different_python_logos_generated_with_dalle_ai/)
 - [Alternatives to Stack Overflow?](https://www.reddit.com/r/Python/comments/wfcb1e/alternatives_to_stack_overflow/)
 - [Any tips for porting a PyGtk app to PyQt?](https://www.reddit.com/r/Python/comments/wfc7au/any_tips_for_porting_a_pygtk_app_to_pyqt/)
 - [VirtualEnv and Venv side by side comparison](https://www.reddit.com/r/Python/comments/wfb7jq/virtualenv_and_venv_side_by_side_comparison/)
