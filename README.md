@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [HashBox: Container for finding Python objects by matching attributes](https://www.reddit.com/r/Python/comments/wf9yp6/hashbox_container_for_finding_python_objects_by/)
-- [Download, Transform and Write Data to Excel with Python || Stock Analysi...](https://www.reddit.com/r/Python/comments/wf9qsu/download_transform_and_write_data_to_excel_with/)
-- [Looking for a page object library to replace Geb](https://www.reddit.com/r/Python/comments/wf80wu/looking_for_a_page_object_library_to_replace_geb/)
-- [Full-length tutorial on deploying Flask app on AWS with Docker + RDS + Secrets Manager](https://www.reddit.com/r/Python/comments/wf7icj/fulllength_tutorial_on_deploying_flask_app_on_aws/)
-- [From the project creation window to configuration for templates and API endpoints, PyCharm offers a lot of support for Flask development. This tutorial shows you how to get started with PyCharm and Flask in different ways. Check it out.](https://www.reddit.com/r/Python/comments/wf72f5/from_the_project_creation_window_to_configuration/)
+- [Which python books have you read cover to cover?](https://www.reddit.com/r/Python/comments/wfcer6/which_python_books_have_you_read_cover_to_cover/)
+- [Different Python logos generated with DALL-E AI](https://www.reddit.com/r/Python/comments/wfccau/different_python_logos_generated_with_dalle_ai/)
+- [Alternatives to Stack Overflow?](https://www.reddit.com/r/Python/comments/wfcb1e/alternatives_to_stack_overflow/)
+- [Any tips for porting a PyGtk app to PyQt?](https://www.reddit.com/r/Python/comments/wfc7au/any_tips_for_porting_a_pygtk_app_to_pyqt/)
+- [VirtualEnv and Venv side by side comparison](https://www.reddit.com/r/Python/comments/wfb7jq/virtualenv_and_venv_side_by_side_comparison/)
 <!-- BLOG-POST-LIST:END -->
