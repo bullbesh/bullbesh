@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cosmostrafe is released!](https://www.reddit.com/r/Python/comments/wf0o4x/cosmostrafe_is_released/)
 - [What is the difference between a library and a package?](https://www.reddit.com/r/Python/comments/weycrc/what_is_the_difference_between_a_library_and_a/)
 - [How to you plan and manage your projects](https://www.reddit.com/r/Python/comments/wey81y/how_to_you_plan_and_manage_your_projects/)
 - [Minimalist and full configurable greetings and TODO list python CLI](https://www.reddit.com/r/Python/comments/weta5k/minimalist_and_full_configurable_greetings_and/)
 - [Parallelism in Python starter pack &lpar;post I wrote&rpar;](https://www.reddit.com/r/Python/comments/wet551/parallelism_in_python_starter_pack_post_i_wrote/)
-- [Create a Simple Crud App With Python, Vue.js and Mysql [ Source Code ]](https://www.reddit.com/r/Python/comments/wesrav/create_a_simple_crud_app_with_python_vuejs_and/)
 <!-- BLOG-POST-LIST:END -->
