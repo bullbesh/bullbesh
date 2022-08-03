@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Please don&#39;t come for me BUT I cannot find Python Devs, so here I am](https://www.reddit.com/r/Python/comments/wfix8s/please_dont_come_for_me_but_i_cannot_find_python/)
 - [UdemyPy - Free Udemy courses everyday!](https://www.reddit.com/r/Python/comments/wfiazc/udemypy_free_udemy_courses_everyday/)
 - [eCharts for Python](https://www.reddit.com/r/Python/comments/wfhnq2/echarts_for_python/)
 - [Basis Statistics for Data Science](https://www.reddit.com/r/Python/comments/wfgmgw/basis_statistics_for_data_science/)
 - [Large scale data scraping](https://www.reddit.com/r/Python/comments/wfgm82/large_scale_data_scraping/)
-- [Can you guess these words? &lpar;Python Edition&rpar;](https://www.reddit.com/r/Python/comments/wfcox3/can_you_guess_these_words_python_edition/)
 <!-- BLOG-POST-LIST:END -->
