@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dev/Prod configuration management](https://www.reddit.com/r/Python/comments/wf3agk/devprod_configuration_management/)
 - [A free &#39;learning map&#39; I found to learn Python. It puts free resources together into a skill tree for planning and tracking learning](https://www.reddit.com/r/Python/comments/wf28ka/a_free_learning_map_i_found_to_learn_python_it/)
 - [eBay api token](https://www.reddit.com/r/Python/comments/wf1v6w/ebay_api_token/)
 - [Cosmostrafe is released!](https://www.reddit.com/r/Python/comments/wf0o4x/cosmostrafe_is_released/)
 - [What is the difference between a library and a package?](https://www.reddit.com/r/Python/comments/weycrc/what_is_the_difference_between_a_library_and_a/)
-- [How to you plan and manage your projects](https://www.reddit.com/r/Python/comments/wey81y/how_to_you_plan_and_manage_your_projects/)
 <!-- BLOG-POST-LIST:END -->
