@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Website to generate Code Snippets, Regexes, Linux &amp; Git &amp; SQL Commands, HTML and CSS from a written description. Furthermore translate code snippets to many languages and get a regex explained in plain english. Moreover you can fix broken code snippets. All with the help of AI](https://www.reddit.com/r/Python/comments/wg8zbm/website_to_generate_code_snippets_regexes_linux/)
 - [Hello World!](https://www.reddit.com/r/Python/comments/wg81v2/hello_world/)
 - [Auto backup package - contributions and feedback wanted](https://www.reddit.com/r/Python/comments/wg7sy3/auto_backup_package_contributions_and_feedback/)
 - [I made a random data generator with PySimpleGUI](https://www.reddit.com/r/Python/comments/wg7ku9/i_made_a_random_data_generator_with_pysimplegui/)
 - [Web App Host](https://www.reddit.com/r/Python/comments/wg6rhy/web_app_host/)
-- [Free and Virtual Hackathon](https://www.reddit.com/r/Python/comments/wg5ybj/free_and_virtual_hackathon/)
 <!-- BLOG-POST-LIST:END -->
