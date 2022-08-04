@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Transactional stack implementation in Python](https://www.reddit.com/r/Python/comments/wfy5ki/transactional_stack_implementation_in_python/)
+- [Unpixelate Tool &lpar;for logo and graphics&rpar;](https://www.reddit.com/r/Python/comments/wfxrni/unpixelate_tool_for_logo_and_graphics/)
+- [Which other programming language best complements Python - Rust, Go, or something else?](https://www.reddit.com/r/Python/comments/wfxoxx/which_other_programming_language_best_complements/)
 - [Meaningful text extraction](https://www.reddit.com/r/Python/comments/wfwhae/meaningful_text_extraction/)
-- [Challenge For You](https://www.reddit.com/r/Python/comments/wfw5lo/challenge_for_you/)
 - [Final beta of Seaborn 0.12 with new plotting interface released](https://www.reddit.com/r/Python/comments/wfvrnw/final_beta_of_seaborn_012_with_new_plotting/)
-- [Learning Art Using Python and Anki](https://www.reddit.com/r/Python/comments/wfvnwi/learning_art_using_python_and_anki/)
-- [Data Visualization in Python — how to create awesome data visualizations using the most popular Python libraries, such as matplotlib, seaborn and plotly.](https://www.reddit.com/r/Python/comments/wfva60/data_visualization_in_python_how_to_create/)
 <!-- BLOG-POST-LIST:END -->
