@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lib that generates web UIs for your scripts &lpar;they have a cloud but lib is free&rpar;](https://www.reddit.com/r/Python/comments/wg13qr/lib_that_generates_web_uis_for_your_scripts_they/)
+- [Anvil in 80 Seconds](https://www.reddit.com/r/Python/comments/wg0jj0/anvil_in_80_seconds/)
 - [Slack Community For Python Programmers](https://www.reddit.com/r/Python/comments/wg06tq/slack_community_for_python_programmers/)
 - [How do I do this](https://www.reddit.com/r/Python/comments/wg03pn/how_do_i_do_this/)
 - [Benchmarking some Alternatives to Pandas](https://www.reddit.com/r/Python/comments/wg02jy/benchmarking_some_alternatives_to_pandas/)
-- [4 Ways of String Formatting in Python - Guide](https://www.reddit.com/r/Python/comments/wfz3wy/4_ways_of_string_formatting_in_python_guide/)
-- [Transactional stack implementation in Python](https://www.reddit.com/r/Python/comments/wfy5ki/transactional_stack_implementation_in_python/)
 <!-- BLOG-POST-LIST:END -->
