@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [wordreference.com cli interface and API](https://www.reddit.com/r/Python/comments/wftese/wordreferencecom_cli_interface_and_api/)
+- [Cellular Automata: 2D Liquid Simulation](https://www.reddit.com/r/Python/comments/wftcu8/cellular_automata_2d_liquid_simulation/)
 - [Web scraping tutorial for python using beautiful soup.](https://www.reddit.com/r/Python/comments/wfqlgu/web_scraping_tutorial_for_python_using_beautiful/)
 - [A Hello, World! of Language AI using Cohere](https://www.reddit.com/r/Python/comments/wfpmx0/a_hello_world_of_language_ai_using_cohere/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/wfm7ac/thursday_daily_thread_python_careers_courses_and/)
-- [UdemyPy - Free Udemy courses everyday!](https://www.reddit.com/r/Python/comments/wfiazc/udemypy_free_udemy_courses_everyday/)
-- [eCharts for Python](https://www.reddit.com/r/Python/comments/wfhnq2/echarts_for_python/)
 <!-- BLOG-POST-LIST:END -->
