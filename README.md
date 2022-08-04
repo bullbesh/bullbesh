@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Slack Community For Python Programmers](https://www.reddit.com/r/Python/comments/wg06tq/slack_community_for_python_programmers/)
+- [How do I do this](https://www.reddit.com/r/Python/comments/wg03pn/how_do_i_do_this/)
+- [Benchmarking some Alternatives to Pandas](https://www.reddit.com/r/Python/comments/wg02jy/benchmarking_some_alternatives_to_pandas/)
+- [4 Ways of String Formatting in Python - Guide](https://www.reddit.com/r/Python/comments/wfz3wy/4_ways_of_string_formatting_in_python_guide/)
 - [Transactional stack implementation in Python](https://www.reddit.com/r/Python/comments/wfy5ki/transactional_stack_implementation_in_python/)
-- [Unpixelate Tool &lpar;for logo and graphics&rpar;](https://www.reddit.com/r/Python/comments/wfxrni/unpixelate_tool_for_logo_and_graphics/)
-- [Which other programming language best complements Python - Rust, Go, or something else?](https://www.reddit.com/r/Python/comments/wfxoxx/which_other_programming_language_best_complements/)
-- [Meaningful text extraction](https://www.reddit.com/r/Python/comments/wfwhae/meaningful_text_extraction/)
-- [Final beta of Seaborn 0.12 with new plotting interface released](https://www.reddit.com/r/Python/comments/wfvrnw/final_beta_of_seaborn_012_with_new_plotting/)
 <!-- BLOG-POST-LIST:END -->
