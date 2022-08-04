@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello World!](https://www.reddit.com/r/Python/comments/wg81v2/hello_world/)
+- [Auto backup package - contributions and feedback wanted](https://www.reddit.com/r/Python/comments/wg7sy3/auto_backup_package_contributions_and_feedback/)
+- [I made a random data generator with PySimpleGUI](https://www.reddit.com/r/Python/comments/wg7ku9/i_made_a_random_data_generator_with_pysimplegui/)
 - [Web App Host](https://www.reddit.com/r/Python/comments/wg6rhy/web_app_host/)
 - [Free and Virtual Hackathon](https://www.reddit.com/r/Python/comments/wg5ybj/free_and_virtual_hackathon/)
-- [Anaconda Distribution comes with Python 3.9 instead of 3.10. Any particular reason for this](https://www.reddit.com/r/Python/comments/wg5o3q/anaconda_distribution_comes_with_python_39/)
-- [How to Login to an External Website Using Google Authentication on Your Own Website?](https://www.reddit.com/r/Python/comments/wg5hdd/how_to_login_to_an_external_website_using_google/)
-- [I made a simple weight tracker that displays progress in a graph. I also learned how to generate a web app without HTML/JS.](https://www.reddit.com/r/Python/comments/wg4ml7/i_made_a_simple_weight_tracker_that_displays/)
 <!-- BLOG-POST-LIST:END -->
