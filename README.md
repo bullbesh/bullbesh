@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Does anyone know anything about App Academy? I did Ruby and Javascript at Coding Dojo and Flatiron](https://www.reddit.com/r/Python/comments/wfoe8j/does_anyone_know_anything_about_app_academy_i_did/)
-- [Practicing python](https://www.reddit.com/r/Python/comments/wfm7lt/practicing_python/)
+- [Web scraping tutorial for python using beautiful soup.](https://www.reddit.com/r/Python/comments/wfqlgu/web_scraping_tutorial_for_python_using_beautiful/)
+- [A Hello, World! of Language AI using Cohere](https://www.reddit.com/r/Python/comments/wfpmx0/a_hello_world_of_language_ai_using_cohere/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/wfm7ac/thursday_daily_thread_python_careers_courses_and/)
-- [Please don&#39;t come for me BUT I cannot find Python Devs, so here I am](https://www.reddit.com/r/Python/comments/wfix8s/please_dont_come_for_me_but_i_cannot_find_python/)
 - [UdemyPy - Free Udemy courses everyday!](https://www.reddit.com/r/Python/comments/wfiazc/udemypy_free_udemy_courses_everyday/)
+- [eCharts for Python](https://www.reddit.com/r/Python/comments/wfhnq2/echarts_for_python/)
 <!-- BLOG-POST-LIST:END -->
