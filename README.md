@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meaningful text extraction](https://www.reddit.com/r/Python/comments/wfwhae/meaningful_text_extraction/)
+- [Challenge For You](https://www.reddit.com/r/Python/comments/wfw5lo/challenge_for_you/)
 - [Final beta of Seaborn 0.12 with new plotting interface released](https://www.reddit.com/r/Python/comments/wfvrnw/final_beta_of_seaborn_012_with_new_plotting/)
 - [Learning Art Using Python and Anki](https://www.reddit.com/r/Python/comments/wfvnwi/learning_art_using_python_and_anki/)
 - [Data Visualization in Python — how to create awesome data visualizations using the most popular Python libraries, such as matplotlib, seaborn and plotly.](https://www.reddit.com/r/Python/comments/wfva60/data_visualization_in_python_how_to_create/)
-- [wordreference.com cli interface and API](https://www.reddit.com/r/Python/comments/wftese/wordreferencecom_cli_interface_and_api/)
-- [Cellular Automata: 2D Liquid Simulation](https://www.reddit.com/r/Python/comments/wftcu8/cellular_automata_2d_liquid_simulation/)
 <!-- BLOG-POST-LIST:END -->
