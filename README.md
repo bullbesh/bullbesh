@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [stack in c.](https://www.reddit.com/r/Python/comments/wg27ia/stack_in_c/)
 - [Lib that generates web UIs for your scripts &lpar;they have a cloud but lib is free&rpar;](https://www.reddit.com/r/Python/comments/wg13qr/lib_that_generates_web_uis_for_your_scripts_they/)
 - [Anvil in 80 Seconds](https://www.reddit.com/r/Python/comments/wg0jj0/anvil_in_80_seconds/)
 - [Slack Community For Python Programmers](https://www.reddit.com/r/Python/comments/wg06tq/slack_community_for_python_programmers/)
 - [How do I do this](https://www.reddit.com/r/Python/comments/wg03pn/how_do_i_do_this/)
-- [Benchmarking some Alternatives to Pandas](https://www.reddit.com/r/Python/comments/wg02jy/benchmarking_some_alternatives_to_pandas/)
 <!-- BLOG-POST-LIST:END -->
