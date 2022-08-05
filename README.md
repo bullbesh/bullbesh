@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Data Visualisation Packages for Python in 2022](https://www.reddit.com/r/Python/comments/wgro8j/best_data_visualisation_packages_for_python_in/)
+- [Best project](https://www.reddit.com/r/Python/comments/wgrcea/best_project/)
 - [So I started learning Python 3 days ago and played with some codes](https://www.reddit.com/r/Python/comments/wgpee1/so_i_started_learning_python_3_days_ago_and/)
 - [Question on text extraction](https://www.reddit.com/r/Python/comments/wgoo2c/question_on_text_extraction/)
 - [Web-Scrape data from the website](https://www.reddit.com/r/Python/comments/wglbpp/webscrape_data_from_the_website/)
-- [Analyze Your Amazon Data with Python](https://www.reddit.com/r/Python/comments/wgla0p/analyze_your_amazon_data_with_python/)
-- [What is EAT mode for distributed transactions?](https://www.reddit.com/r/Python/comments/wghxfe/what_is_eat_mode_for_distributed_transactions/)
 <!-- BLOG-POST-LIST:END -->
