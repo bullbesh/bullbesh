@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does the &quot;python-only&quot; Anvil app-builder use the same Python that&#39;s in use everywhere? Or is it its own custom code that&#39;s based on Python?](https://www.reddit.com/r/Python/comments/wgij7z/does_the_pythononly_anvil_appbuilder_use_the_same/)
+- [What is EAT mode for distributed transactions?](https://www.reddit.com/r/Python/comments/wghxfe/what_is_eat_mode_for_distributed_transactions/)
+- [Does anyone here use sqlite just to do quick queries, because it is easier than loading to another rdb?](https://www.reddit.com/r/Python/comments/wghoip/does_anyone_here_use_sqlite_just_to_do_quick/)
+- [Pylint rationales?](https://www.reddit.com/r/Python/comments/wggwjq/pylint_rationales/)
 - [Is it possible to get a job quickly after completing a Python bootcamp with no prior experience.](https://www.reddit.com/r/Python/comments/wgfaij/is_it_possible_to_get_a_job_quickly_after/)
-- [How to reverse .EXE to .Py](https://www.reddit.com/r/Python/comments/wgf0s5/how_to_reverse_exe_to_py/)
-- [Stop making ugly terminal interfaces, use fancy boxes instead](https://www.reddit.com/r/Python/comments/wgeow7/stop_making_ugly_terminal_interfaces_use_fancy/)
-- [Satellite Tracking Data with GEO Location thanks to Python, Django, Plotly](https://www.reddit.com/r/Python/comments/wgbfrb/satellite_tracking_data_with_geo_location_thanks/)
-- [Website to generate Code Snippets, Regexes, Linux &amp; Git &amp; SQL Commands, HTML and CSS from a written description. Furthermore translate code snippets to many languages and get a regex explained in plain english. Moreover you can fix broken code snippets. All with the help of AI](https://www.reddit.com/r/Python/comments/wg8zbm/website_to_generate_code_snippets_regexes_linux/)
 <!-- BLOG-POST-LIST:END -->
