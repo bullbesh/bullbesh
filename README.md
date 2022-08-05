@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas equivalent of Power query table relationships](https://www.reddit.com/r/Python/comments/wgy5zz/pandas_equivalent_of_power_query_table/)
+- [Is it really &quot;good&quot; design decision to integrate Django in FastApi application just to use Django database migrations?](https://www.reddit.com/r/Python/comments/wgy4ab/is_it_really_good_design_decision_to_integrate/)
+- [I&#39;m gonna do your projects almost for FREE](https://www.reddit.com/r/Python/comments/wgxox4/im_gonna_do_your_projects_almost_for_free/)
+- [Text expansion/templates - Is there a Python library like VS Code Emmet?](https://www.reddit.com/r/Python/comments/wgwtym/text_expansiontemplates_is_there_a_python_library/)
 - [need help in installing spyder](https://www.reddit.com/r/Python/comments/wgwci2/need_help_in_installing_spyder/)
-- [FREE Resource : Master Python Fundamentals - The Ultimate Guide for Beginners](https://www.reddit.com/r/Python/comments/wgvodr/free_resource_master_python_fundamentals_the/)
-- [Loners Not boners, a fun open-sourced anonymous chat mafia](https://www.reddit.com/r/Python/comments/wgvmxx/loners_not_boners_a_fun_opensourced_anonymous/)
-- [Python in Visual Studio Code – August 2022 Release](https://www.reddit.com/r/Python/comments/wguy7o/python_in_visual_studio_code_august_2022_release/)
-- [What&#39;s the story with organizing a cental python docs hub?](https://www.reddit.com/r/Python/comments/wgtugl/whats_the_story_with_organizing_a_cental_python/)
 <!-- BLOG-POST-LIST:END -->
