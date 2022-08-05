@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Question on text extraction](https://www.reddit.com/r/Python/comments/wgoo2c/question_on_text_extraction/)
 - [Web-Scrape data from the website](https://www.reddit.com/r/Python/comments/wglbpp/webscrape_data_from_the_website/)
 - [Analyze Your Amazon Data with Python](https://www.reddit.com/r/Python/comments/wgla0p/analyze_your_amazon_data_with_python/)
 - [What is EAT mode for distributed transactions?](https://www.reddit.com/r/Python/comments/wghxfe/what_is_eat_mode_for_distributed_transactions/)
 - [Does anyone here use sqlite just to do quick queries, because it is easier than loading to another rdb?](https://www.reddit.com/r/Python/comments/wghoip/does_anyone_here_use_sqlite_just_to_do_quick/)
-- [Pylint rationales?](https://www.reddit.com/r/Python/comments/wggwjq/pylint_rationales/)
 <!-- BLOG-POST-LIST:END -->
