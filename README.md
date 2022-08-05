@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any general ideas on how to use Python for SEO?](https://www.reddit.com/r/Python/comments/wh6w1e/any_general_ideas_on_how_to_use_python_for_seo/)
+- [Theos AI: the leading development platform for AI](https://www.reddit.com/r/Python/comments/wh6s68/theos_ai_the_leading_development_platform_for_ai/)
+- [Complete beginner. Just wanted to share my first unprompted and unassisted code!](https://www.reddit.com/r/Python/comments/wh6pj4/complete_beginner_just_wanted_to_share_my_first/)
 - [FREE Resource: Master Python Fundamentals: The Ultimate Guide for Beginners](https://www.reddit.com/r/Python/comments/wh6aaf/free_resource_master_python_fundamentals_the/)
 - [Smashing Python tech debt with Polymorphism](https://www.reddit.com/r/Python/comments/wh5az8/smashing_python_tech_debt_with_polymorphism/)
-- [GitHub - kangerdev/data-science-stack: Data Science Resources](https://www.reddit.com/r/Python/comments/wh56vw/github_kangerdevdatasciencestack_data_science/)
-- [software engineers, can i see your resume?](https://www.reddit.com/r/Python/comments/wh4xy1/software_engineers_can_i_see_your_resume/)
-- [Big respect to 90’s programmers and before. I can’t imagine how horrible today’s programmers would be without the Internet?](https://www.reddit.com/r/Python/comments/wh1p73/big_respect_to_90s_programmers_and_before_i_cant/)
 <!-- BLOG-POST-LIST:END -->
