@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Does the &quot;python-only&quot; Anvil app-builder use the same Python that&#39;s in use everywhere? Or is it its own custom code that&#39;s based on Python?](https://www.reddit.com/r/Python/comments/wgij7z/does_the_pythononly_anvil_appbuilder_use_the_same/)
+- [Web-Scrape data from the website](https://www.reddit.com/r/Python/comments/wglbpp/webscrape_data_from_the_website/)
+- [Analyze Your Amazon Data with Python](https://www.reddit.com/r/Python/comments/wgla0p/analyze_your_amazon_data_with_python/)
 - [What is EAT mode for distributed transactions?](https://www.reddit.com/r/Python/comments/wghxfe/what_is_eat_mode_for_distributed_transactions/)
 - [Does anyone here use sqlite just to do quick queries, because it is easier than loading to another rdb?](https://www.reddit.com/r/Python/comments/wghoip/does_anyone_here_use_sqlite_just_to_do_quick/)
 - [Pylint rationales?](https://www.reddit.com/r/Python/comments/wggwjq/pylint_rationales/)
-- [Is it possible to get a job quickly after completing a Python bootcamp with no prior experience.](https://www.reddit.com/r/Python/comments/wgfaij/is_it_possible_to_get_a_job_quickly_after/)
 <!-- BLOG-POST-LIST:END -->
