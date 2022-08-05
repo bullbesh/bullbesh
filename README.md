@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [anyone willing to work with me on a python project](https://www.reddit.com/r/Python/comments/wh17po/anyone_willing_to_work_with_me_on_a_python_project/)
+- [Big respect to 90’s programmers and before. I can’t imagine how horrible today’s programmers would be without the Internet?](https://www.reddit.com/r/Python/comments/wh1p73/big_respect_to_90s_programmers_and_before_i_cant/)
+- [Variable will not be defined.](https://www.reddit.com/r/Python/comments/wh1lkf/variable_will_not_be_defined/)
+- [Created Identification verification + anti-raid for discord](https://www.reddit.com/r/Python/comments/wh1b9q/created_identification_verification_antiraid_for/)
 - [Python, Flask, Elasticsearch - search service and query builder - the last, 7th Part of Tutorial](https://www.reddit.com/r/Python/comments/wh05l0/python_flask_elasticsearch_search_service_and/)
 - [My first &#39;real&#39; python project, a game wish- and playlist manager &lpar;flask, peewee, WTForms&rpar;](https://www.reddit.com/r/Python/comments/wgzc97/my_first_real_python_project_a_game_wish_and/)
-- [Pandas equivalent of Power query table relationships](https://www.reddit.com/r/Python/comments/wgy5zz/pandas_equivalent_of_power_query_table/)
-- [Is it really &quot;good&quot; design decision to integrate Django in FastApi application just to use Django database migrations?](https://www.reddit.com/r/Python/comments/wgy4ab/is_it_really_good_design_decision_to_integrate/)
 <!-- BLOG-POST-LIST:END -->
