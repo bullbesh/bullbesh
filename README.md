@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python package for 3D cellular automata!](https://www.reddit.com/r/Python/comments/whtehe/a_python_package_for_3d_cellular_automata/)
+- [Attendance System + Face Recognition with Python in just 2 minutes!!](https://www.reddit.com/r/Python/comments/whtabb/attendance_system_face_recognition_with_python_in/)
 - [lowbar 1.0.0 - The simplest no-nonsense loading bar for python.](https://www.reddit.com/r/Python/comments/whqqvx/lowbar_100_the_simplest_nononsense_loading_bar/)
-- [The notion that PYTHON IS EASY is very Misleading.](https://www.reddit.com/r/Python/comments/whpcpg/the_notion_that_python_is_easy_is_very_misleading/)
 - [How to connect your flask application to AWS RDS with a CI/CD pipeline](https://www.reddit.com/r/Python/comments/whp1qv/how_to_connect_your_flask_application_to_aws_rds/)
 - [Minecraft Interactive World Builder](https://www.reddit.com/r/Python/comments/whoymg/minecraft_interactive_world_builder/)
-- [The first 99,999 writes are ‘free’: Or, why lazy StringIO.write&lpar;&rpar; may sprint into a memmove wall](https://www.reddit.com/r/Python/comments/whog40/the_first_99999_writes_are_free_or_why_lazy/)
 <!-- BLOG-POST-LIST:END -->
