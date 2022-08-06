@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does anybody else just not like the syntax for nested one-line list comprehension?](https://www.reddit.com/r/Python/comments/wi00ih/does_anybody_else_just_not_like_the_syntax_for/)
 - [Which is better to teach kids for colored terminal text, Colorama or Termcolor?](https://www.reddit.com/r/Python/comments/whzkaj/which_is_better_to_teach_kids_for_colored/)
 - [Python Project #6: Pong](https://www.reddit.com/r/Python/comments/whzjet/python_project_6_pong/)
 - [Python in Visual Studio Code – August 2022 Release](https://www.reddit.com/r/Python/comments/whz78s/python_in_visual_studio_code_august_2022_release/)
 - [getting lyrics from song name using Google](https://www.reddit.com/r/Python/comments/whxuni/getting_lyrics_from_song_name_using_google/)
-- [Custom ContextManager](https://www.reddit.com/r/Python/comments/whxmxu/custom_contextmanager/)
 <!-- BLOG-POST-LIST:END -->
