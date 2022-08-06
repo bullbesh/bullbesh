@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [internet privacy x opencv &amp; python](https://www.reddit.com/r/Python/comments/whn0w2/internet_privacy_x_opencv_python/)
+- [Understanding Python Packages pip Dependancy Resolver and Version Conflicts](https://www.reddit.com/r/Python/comments/whmqlb/understanding_python_packages_pip_dependancy/)
+- [Start teaching python if your good at it!](https://www.reddit.com/r/Python/comments/whm1tg/start_teaching_python_if_your_good_at_it/)
 - [I used Python + OpenCV to create a bot that plays pupular mobile scrabble game](https://www.reddit.com/r/Python/comments/whkkmw/i_used_python_opencv_to_create_a_bot_that_plays/)
 - [CaptchaCracker - Open Source Python Library](https://www.reddit.com/r/Python/comments/whk4zw/captchacracker_open_source_python_library/)
-- [Tag Maps rendering with Python and Mapnik¶](https://www.reddit.com/r/Python/comments/whii76/tag_maps_rendering_with_python_and_mapnik/)
-- [DictGest - Seamless dictionary mapping to python classes](https://www.reddit.com/r/Python/comments/whicso/dictgest_seamless_dictionary_mapping_to_python/)
-- [Haven&#39;t used python in 3 years. So I made a sub 15 line BrainFuck interpreter as a refresher.](https://www.reddit.com/r/Python/comments/whhtkg/havent_used_python_in_3_years_so_i_made_a_sub_15/)
 <!-- BLOG-POST-LIST:END -->
