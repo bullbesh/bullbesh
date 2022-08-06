@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [getting lyrics from song name using Google](https://www.reddit.com/r/Python/comments/whxuni/getting_lyrics_from_song_name_using_google/)
+- [Custom ContextManager](https://www.reddit.com/r/Python/comments/whxmxu/custom_contextmanager/)
 - [Started learning Python 15 minutes ago, and just made my first joke.](https://www.reddit.com/r/Python/comments/whvpks/started_learning_python_15_minutes_ago_and_just/)
 - [Python Unit testing package.](https://www.reddit.com/r/Python/comments/whvacr/python_unit_testing_package/)
 - [Twitter sentiment analysis with python library](https://www.reddit.com/r/Python/comments/whu7kc/twitter_sentiment_analysis_with_python_library/)
-- [A Python package for 3D cellular automata!](https://www.reddit.com/r/Python/comments/whtehe/a_python_package_for_3d_cellular_automata/)
-- [Attendance System + Face Recognition with Python in just 2 minutes!!](https://www.reddit.com/r/Python/comments/whtabb/attendance_system_face_recognition_with_python_in/)
 <!-- BLOG-POST-LIST:END -->
