@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which is better to teach kids for colored terminal text, Colorama or Termcolor?](https://www.reddit.com/r/Python/comments/whzkaj/which_is_better_to_teach_kids_for_colored/)
+- [Python Project #6: Pong](https://www.reddit.com/r/Python/comments/whzjet/python_project_6_pong/)
+- [Python in Visual Studio Code – August 2022 Release](https://www.reddit.com/r/Python/comments/whz78s/python_in_visual_studio_code_august_2022_release/)
 - [getting lyrics from song name using Google](https://www.reddit.com/r/Python/comments/whxuni/getting_lyrics_from_song_name_using_google/)
 - [Custom ContextManager](https://www.reddit.com/r/Python/comments/whxmxu/custom_contextmanager/)
-- [Started learning Python 15 minutes ago, and just made my first joke.](https://www.reddit.com/r/Python/comments/whvpks/started_learning_python_15_minutes_ago_and_just/)
-- [Python Unit testing package.](https://www.reddit.com/r/Python/comments/whvacr/python_unit_testing_package/)
-- [Twitter sentiment analysis with python library](https://www.reddit.com/r/Python/comments/whu7kc/twitter_sentiment_analysis_with_python_library/)
 <!-- BLOG-POST-LIST:END -->
