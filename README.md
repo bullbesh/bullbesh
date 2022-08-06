@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it worth learning Python?](https://www.reddit.com/r/Python/comments/whel7y/is_it_worth_learning_python/)
+- [5 good to know python tips and tricks for more pythonic code!](https://www.reddit.com/r/Python/comments/whejh0/5_good_to_know_python_tips_and_tricks_for_more/)
 - [Atomic Integers across processes](https://www.reddit.com/r/Python/comments/whb5m9/atomic_integers_across_processes/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/wha8c0/saturday_daily_thread_resource_request_and/)
 - [What extra programs should a Python developer know and use?](https://www.reddit.com/r/Python/comments/wha4kg/what_extra_programs_should_a_python_developer/)
-- [Lesson learned: you should know there&#39;s a market before starting a project if the goal is to make money](https://www.reddit.com/r/Python/comments/wh9vn3/lesson_learned_you_should_know_theres_a_market/)
-- [Is it possible to stay logged into the same website while opening many links?](https://www.reddit.com/r/Python/comments/wh873h/is_it_possible_to_stay_logged_into_the_same/)
 <!-- BLOG-POST-LIST:END -->
