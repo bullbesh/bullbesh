@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The notion that PYTHON IS EASY is very Misleading.](https://www.reddit.com/r/Python/comments/whpcpg/the_notion_that_python_is_easy_is_very_misleading/)
+- [How to connect your flask application to AWS RDS with a CI/CD pipeline](https://www.reddit.com/r/Python/comments/whp1qv/how_to_connect_your_flask_application_to_aws_rds/)
+- [Minecraft Interactive World Builder](https://www.reddit.com/r/Python/comments/whoymg/minecraft_interactive_world_builder/)
+- [The first 99,999 writes are ‘free’: Or, why lazy StringIO.write&lpar;&rpar; may sprint into a memmove wall](https://www.reddit.com/r/Python/comments/whog40/the_first_99999_writes_are_free_or_why_lazy/)
 - [internet privacy x opencv &amp; python](https://www.reddit.com/r/Python/comments/whn0w2/internet_privacy_x_opencv_python/)
-- [Understanding Python Packages pip Dependancy Resolver and Version Conflicts](https://www.reddit.com/r/Python/comments/whmqlb/understanding_python_packages_pip_dependancy/)
-- [Start teaching python if your good at it!](https://www.reddit.com/r/Python/comments/whm1tg/start_teaching_python_if_your_good_at_it/)
-- [I used Python + OpenCV to create a bot that plays pupular mobile scrabble game](https://www.reddit.com/r/Python/comments/whkkmw/i_used_python_opencv_to_create_a_bot_that_plays/)
-- [CaptchaCracker - Open Source Python Library](https://www.reddit.com/r/Python/comments/whk4zw/captchacracker_open_source_python_library/)
 <!-- BLOG-POST-LIST:END -->
