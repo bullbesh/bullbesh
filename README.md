@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I used Python + OpenCV to create a bot that plays pupular mobile scrabble game](https://www.reddit.com/r/Python/comments/whkkmw/i_used_python_opencv_to_create_a_bot_that_plays/)
+- [CaptchaCracker - Open Source Python Library](https://www.reddit.com/r/Python/comments/whk4zw/captchacracker_open_source_python_library/)
 - [Tag Maps rendering with Python and Mapnik¶](https://www.reddit.com/r/Python/comments/whii76/tag_maps_rendering_with_python_and_mapnik/)
 - [DictGest - Seamless dictionary mapping to python classes](https://www.reddit.com/r/Python/comments/whicso/dictgest_seamless_dictionary_mapping_to_python/)
 - [Haven&#39;t used python in 3 years. So I made a sub 15 line BrainFuck interpreter as a refresher.](https://www.reddit.com/r/Python/comments/whhtkg/havent_used_python_in_3_years_so_i_made_a_sub_15/)
-- [How to get the first freelancing job as a py developer ?](https://www.reddit.com/r/Python/comments/whhke3/how_to_get_the_first_freelancing_job_as_a_py/)
-- [Django Python Sweet Alert Confirm Delete Example](https://www.reddit.com/r/Python/comments/whh5fj/django_python_sweet_alert_confirm_delete_example/)
 <!-- BLOG-POST-LIST:END -->
