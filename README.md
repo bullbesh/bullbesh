@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [hello, pls help!!!!! related to hangman codes!!!! i am new. would really appreciate 😭](https://www.reddit.com/r/Python/comments/whukim/hello_pls_help_related_to_hangman_codes_i_am_new/)
+- [Twitter sentiment analysis with python library](https://www.reddit.com/r/Python/comments/whu7kc/twitter_sentiment_analysis_with_python_library/)
+- [Migrating Oracle data into Postgresql insert using Pyton](https://www.reddit.com/r/Python/comments/whtl6x/migrating_oracle_data_into_postgresql_insert/)
 - [A Python package for 3D cellular automata!](https://www.reddit.com/r/Python/comments/whtehe/a_python_package_for_3d_cellular_automata/)
 - [Attendance System + Face Recognition with Python in just 2 minutes!!](https://www.reddit.com/r/Python/comments/whtabb/attendance_system_face_recognition_with_python_in/)
-- [lowbar 1.0.0 - The simplest no-nonsense loading bar for python.](https://www.reddit.com/r/Python/comments/whqqvx/lowbar_100_the_simplest_nononsense_loading_bar/)
-- [How to connect your flask application to AWS RDS with a CI/CD pipeline](https://www.reddit.com/r/Python/comments/whp1qv/how_to_connect_your_flask_application_to_aws_rds/)
-- [Minecraft Interactive World Builder](https://www.reddit.com/r/Python/comments/whoymg/minecraft_interactive_world_builder/)
 <!-- BLOG-POST-LIST:END -->
