@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Started learning Python 15 minutes ago, and just made my first joke.](https://www.reddit.com/r/Python/comments/whvpks/started_learning_python_15_minutes_ago_and_just/)
+- [Python Unit testing package.](https://www.reddit.com/r/Python/comments/whvacr/python_unit_testing_package/)
 - [hello, pls help!!!!! related to hangman codes!!!! i am new. would really appreciate 😭](https://www.reddit.com/r/Python/comments/whukim/hello_pls_help_related_to_hangman_codes_i_am_new/)
 - [Twitter sentiment analysis with python library](https://www.reddit.com/r/Python/comments/whu7kc/twitter_sentiment_analysis_with_python_library/)
 - [Migrating Oracle data into Postgresql insert using Pyton](https://www.reddit.com/r/Python/comments/whtl6x/migrating_oracle_data_into_postgresql_insert/)
-- [A Python package for 3D cellular automata!](https://www.reddit.com/r/Python/comments/whtehe/a_python_package_for_3d_cellular_automata/)
-- [Attendance System + Face Recognition with Python in just 2 minutes!!](https://www.reddit.com/r/Python/comments/whtabb/attendance_system_face_recognition_with_python_in/)
 <!-- BLOG-POST-LIST:END -->
