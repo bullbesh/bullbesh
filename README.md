@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [If you knew JS before Python, why did you learn Python?](https://www.reddit.com/r/Python/comments/wij33o/if_you_knew_js_before_python_why_did_you_learn/)
+- [Easy-to-use cryptocurrency trading strategy simulator and backtester](https://www.reddit.com/r/Python/comments/wiiqwq/easytouse_cryptocurrency_trading_strategy/)
+- [Finally made a hotkey utility POC!](https://www.reddit.com/r/Python/comments/wiia5y/finally_made_a_hotkey_utility_poc/)
 - [An API for retrieving emojis!](https://www.reddit.com/r/Python/comments/wigh77/an_api_for_retrieving_emojis/)
 - [I created a website in python that gives a positivity/negativity score for any search term in reddit](https://www.reddit.com/r/Python/comments/wigagp/i_created_a_website_in_python_that_gives_a/)
-- [Newb question](https://www.reddit.com/r/Python/comments/wig5yo/newb_question/)
-- [modifiy Textfile with values fromm Array](https://www.reddit.com/r/Python/comments/wie62y/modifiy_textfile_with_values_fromm_array/)
-- [Logges - New Logging Library](https://www.reddit.com/r/Python/comments/wie38t/logges_new_logging_library/)
 <!-- BLOG-POST-LIST:END -->
