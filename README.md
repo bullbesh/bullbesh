@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [An API for retrieving emojis!](https://www.reddit.com/r/Python/comments/wigh77/an_api_for_retrieving_emojis/)
+- [I created a website in python that gives a positivity/negativity score for any search term in reddit](https://www.reddit.com/r/Python/comments/wigagp/i_created_a_website_in_python_that_gives_a/)
+- [Newb question](https://www.reddit.com/r/Python/comments/wig5yo/newb_question/)
 - [modifiy Textfile with values fromm Array](https://www.reddit.com/r/Python/comments/wie62y/modifiy_textfile_with_values_fromm_array/)
 - [Logges - New Logging Library](https://www.reddit.com/r/Python/comments/wie38t/logges_new_logging_library/)
-- [Any preferred vulnerability linters for privately hosted repos?](https://www.reddit.com/r/Python/comments/wicaum/any_preferred_vulnerability_linters_for_privately/)
-- [Easy DIY Rock Paper Scissors Game Using Python Coding Language 🐍](https://www.reddit.com/r/Python/comments/wic85c/easy_diy_rock_paper_scissors_game_using_python/)
-- [Library for building event-driven or event sourcing apps in Python - feedback request](https://www.reddit.com/r/Python/comments/wic50k/library_for_building_eventdriven_or_event/)
 <!-- BLOG-POST-LIST:END -->
