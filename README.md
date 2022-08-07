@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any preferred vulnerability linters for privately hosted repos?](https://www.reddit.com/r/Python/comments/wicaum/any_preferred_vulnerability_linters_for_privately/)
+- [Easy DIY Rock Paper Scissors Game Using Python Coding Language 🐍](https://www.reddit.com/r/Python/comments/wic85c/easy_diy_rock_paper_scissors_game_using_python/)
+- [Library for building event-driven or event sourcing apps in Python - feedback request](https://www.reddit.com/r/Python/comments/wic50k/library_for_building_eventdriven_or_event/)
+- [Best way to work with data in Python](https://www.reddit.com/r/Python/comments/wic03v/best_way_to_work_with_data_in_python/)
 - [10 Stupidly Simple Side Hustles to Earn Extra Money as a Programmer](https://www.reddit.com/r/Python/comments/wiangi/10_stupidly_simple_side_hustles_to_earn_extra/)
-- [A new approach to relative imports: ultraimport](https://www.reddit.com/r/Python/comments/wi70ga/a_new_approach_to_relative_imports_ultraimport/)
-- [Simple speech recognition in Python](https://www.reddit.com/r/Python/comments/wi6kc2/simple_speech_recognition_in_python/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/wi1x0f/sunday_daily_thread_whats_everyone_working_on/)
-- [rolldet - Advanced Rickroll Detection via Content ID](https://www.reddit.com/r/Python/comments/wi1u6r/rolldet_advanced_rickroll_detection_via_content_id/)
 <!-- BLOG-POST-LIST:END -->
