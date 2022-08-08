@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My little weekend project &lpar;Image to ANSI art converter&rpar;](https://www.reddit.com/r/Python/comments/wjirmw/my_little_weekend_project_image_to_ansi_art/)
+- [I made a quick Twitter bot, still shocked at how easy it was](https://www.reddit.com/r/Python/comments/wji5cg/i_made_a_quick_twitter_bot_still_shocked_at_how/)
 - [How I added C-style for-loops to Python](https://www.reddit.com/r/Python/comments/wje4on/how_i_added_cstyle_forloops_to_python/)
 - [Python Selenium Action: Run Selenium with Python via Github Actions using Headless or Non-Headless browsers!](https://www.reddit.com/r/Python/comments/wjdo9b/python_selenium_action_run_selenium_with_python/)
 - [Python TUI menu with ChorusFruit module is easy](https://www.reddit.com/r/Python/comments/wjdmjv/python_tui_menu_with_chorusfruit_module_is_easy/)
-- [debuglater: Serialize Python traceback for later debugging](https://www.reddit.com/r/Python/comments/wjbeq1/debuglater_serialize_python_traceback_for_later/)
-- [Python Poetry vs Pipenv - side by side comparison](https://www.reddit.com/r/Python/comments/wjbaay/python_poetry_vs_pipenv_side_by_side_comparison/)
 <!-- BLOG-POST-LIST:END -->
