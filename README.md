@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gathering News Headlines?](https://www.reddit.com/r/Python/comments/wj9757/gathering_news_headlines/)
+- [Boss wants me to make a student management system](https://www.reddit.com/r/Python/comments/wj94jh/boss_wants_me_to_make_a_student_management_system/)
+- [Python Live: Kubeflow Update and Demonstration](https://www.reddit.com/r/Python/comments/wj93b7/python_live_kubeflow_update_and_demonstration/)
+- [Interesting Discussion on the difficulties of package managers &lpar;here, Nix&rpar; with Python dependency issues](https://www.reddit.com/r/Python/comments/wj8jgo/interesting_discussion_on_the_difficulties_of/)
 - [My first internship project](https://www.reddit.com/r/Python/comments/wj7g7k/my_first_internship_project/)
-- [I made a small package to implement directed acyclic graph compositions &lpar;DAGs&rpar; as scikit-learn estimators](https://www.reddit.com/r/Python/comments/wj5hez/i_made_a_small_package_to_implement_directed/)
-- [PEP 682 – Format Specifier for Signed Zero](https://www.reddit.com/r/Python/comments/wj59u4/pep_682_format_specifier_for_signed_zero/)
-- [PySearch: Find functions from common libraries &lpar;PyTorch, TF, Numpy...&rpar; without knowing their names](https://www.reddit.com/r/Python/comments/wj4t9p/pysearch_find_functions_from_common_libraries/)
-- [Sign up and login system](https://www.reddit.com/r/Python/comments/wj3ve1/sign_up_and_login_system/)
 <!-- BLOG-POST-LIST:END -->
