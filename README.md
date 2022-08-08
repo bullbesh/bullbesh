@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web scrapping from terminal](https://www.reddit.com/r/Python/comments/wiysqf/web_scrapping_from_terminal/)
+- [CHOOSE YOUR ADVENTURE GAME!](https://www.reddit.com/r/Python/comments/wixyce/choose_your_adventure_game/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/wiu0so/monday_daily_thread_project_ideas/)
 - [SciPy 2022 conference recordings are now available](https://www.reddit.com/r/Python/comments/witzxl/scipy_2022_conference_recordings_are_now_available/)
 - [Python OpenCV AI Prevents You From Procrastinating!](https://www.reddit.com/r/Python/comments/wim6pw/python_opencv_ai_prevents_you_from_procrastinating/)
-- [If you knew JS before Python, why did you learn Python?](https://www.reddit.com/r/Python/comments/wij33o/if_you_knew_js_before_python_why_did_you_learn/)
-- [Finally made a hotkey utility POC!](https://www.reddit.com/r/Python/comments/wiia5y/finally_made_a_hotkey_utility_poc/)
 <!-- BLOG-POST-LIST:END -->
