@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [debuglater: Serialize Python traceback for later debugging](https://www.reddit.com/r/Python/comments/wjbeq1/debuglater_serialize_python_traceback_for_later/)
+- [Python Poetry vs Pipenv - side by side comparison](https://www.reddit.com/r/Python/comments/wjbaay/python_poetry_vs_pipenv_side_by_side_comparison/)
+- [Python 3.11.0rc1 is out](https://www.reddit.com/r/Python/comments/wjatwc/python_3110rc1_is_out/)
 - [Gathering News Headlines?](https://www.reddit.com/r/Python/comments/wj9757/gathering_news_headlines/)
 - [Boss wants me to make a student management system](https://www.reddit.com/r/Python/comments/wj94jh/boss_wants_me_to_make_a_student_management_system/)
-- [Python Live: Kubeflow Update and Demonstration](https://www.reddit.com/r/Python/comments/wj93b7/python_live_kubeflow_update_and_demonstration/)
-- [Interesting Discussion on the difficulties of package managers &lpar;here, Nix&rpar; with Python dependency issues](https://www.reddit.com/r/Python/comments/wj8jgo/interesting_discussion_on_the_difficulties_of/)
-- [My first internship project](https://www.reddit.com/r/Python/comments/wj7g7k/my_first_internship_project/)
 <!-- BLOG-POST-LIST:END -->
