@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing python best practises](https://www.reddit.com/r/Python/comments/wjlmad/installing_python_best_practises/)
+- [What&#39;s the point of {% block __ %} in an HTML file when working with Flask?](https://www.reddit.com/r/Python/comments/wjl69a/whats_the_point_of_block_in_an_html_file_when/)
+- [Python recap for week 31/2022](https://www.reddit.com/r/Python/comments/wjkjq8/python_recap_for_week_312022/)
 - [My little weekend project &lpar;Image to ANSI art converter&rpar;](https://www.reddit.com/r/Python/comments/wjirmw/my_little_weekend_project_image_to_ansi_art/)
 - [I made a quick Twitter bot, still shocked at how easy it was](https://www.reddit.com/r/Python/comments/wji5cg/i_made_a_quick_twitter_bot_still_shocked_at_how/)
-- [How I added C-style for-loops to Python](https://www.reddit.com/r/Python/comments/wje4on/how_i_added_cstyle_forloops_to_python/)
-- [Python Selenium Action: Run Selenium with Python via Github Actions using Headless or Non-Headless browsers!](https://www.reddit.com/r/Python/comments/wjdo9b/python_selenium_action_run_selenium_with_python/)
-- [Python TUI menu with ChorusFruit module is easy](https://www.reddit.com/r/Python/comments/wjdmjv/python_tui_menu_with_chorusfruit_module_is_easy/)
 <!-- BLOG-POST-LIST:END -->
