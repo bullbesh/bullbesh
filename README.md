@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a small package to implement directed acyclic graph compositions &lpar;DAGs&rpar; as scikit-learn estimators](https://www.reddit.com/r/Python/comments/wj5hez/i_made_a_small_package_to_implement_directed/)
 - [PEP 682 – Format Specifier for Signed Zero](https://www.reddit.com/r/Python/comments/wj59u4/pep_682_format_specifier_for_signed_zero/)
 - [PySearch: Find functions from common libraries &lpar;PyTorch, TF, Numpy...&rpar; without knowing their names](https://www.reddit.com/r/Python/comments/wj4t9p/pysearch_find_functions_from_common_libraries/)
 - [Sign up and login system](https://www.reddit.com/r/Python/comments/wj3ve1/sign_up_and_login_system/)
 - [ImportError: No localization support for language &#39;eng&#39; Exception ignored in: &lt;function DbManager.__del__ at 0x0000021912B23250&gt;](https://www.reddit.com/r/Python/comments/wj3h7i/importerror_no_localization_support_for_language/)
-- [Flet - new UI framework with Flutter front-end. Replacement for HTML/CSS/JS?](https://www.reddit.com/r/Python/comments/wj20f1/flet_new_ui_framework_with_flutter_frontend/)
 <!-- BLOG-POST-LIST:END -->
