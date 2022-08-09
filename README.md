@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Naming. Is there verb for &quot;making something an iterable&quot;?](https://www.reddit.com/r/Python/comments/wk8gj9/naming_is_there_verb_for_making_something_an/)
+- [Microsoft Announces new Integrations with OpenAI and MLFlow](https://www.reddit.com/r/Python/comments/wk7udt/microsoft_announces_new_integrations_with_openai/)
 - [I made DeFFcode Python Library for decoding NumPy video frames out of almost any source you throw at it and even support real-time FFmpeg Filtergraphs and H.W Decoders.](https://www.reddit.com/r/Python/comments/wk7rxj/i_made_deffcode_python_library_for_decoding_numpy/)
 - [Microsoft Announces new Integrations with OpenAI and MLFlow](https://www.reddit.com/r/Python/comments/wk7fii/microsoft_announces_new_integrations_with_openai/)
-- [STOP BUNDLING DATA FILES WITH PYINSTALLER &lpar;If you have access to a cloud server&rpar;](https://www.reddit.com/r/Python/comments/wk77ht/stop_bundling_data_files_with_pyinstaller_if_you/)
 - [I&#39;m a beginner in Python and I write code for finding Pi to the N&#39;th digit](https://www.reddit.com/r/Python/comments/wk6org/im_a_beginner_in_python_and_i_write_code_for/)
-- [Parent Window and Child Window added to ChorusFruit TUI Framework](https://www.reddit.com/r/Python/comments/wk5qoj/parent_window_and_child_window_added_to/)
 <!-- BLOG-POST-LIST:END -->
