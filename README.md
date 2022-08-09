@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Video] I created Krita Copilot, a Python plugin that lets you paint with DALL·E 2 in Krita](https://www.reddit.com/r/Python/comments/wjyol9/video_i_created_krita_copilot_a_python_plugin/)
+- [Create Your Own Code Editor Using PyQt5 #5 - Adding Search Option in Sidebar](https://www.reddit.com/r/Python/comments/wjyk97/create_your_own_code_editor_using_pyqt5_5_adding/)
+- [GitHub - ploomber/debuglater: Store Python traceback for later debugging.](https://www.reddit.com/r/Python/comments/wjyijm/github_ploomberdebuglater_store_python_traceback/)
+- [You might be using assert wrong](https://www.reddit.com/r/Python/comments/wjxwkl/you_might_be_using_assert_wrong/)
 - [Understanding How To Use Lambda Function ?!](https://www.reddit.com/r/Python/comments/wjxffe/understanding_how_to_use_lambda_function/)
-- [Highlighting and fixing errors while debugging](https://www.reddit.com/r/Python/comments/wjx4xe/highlighting_and_fixing_errors_while_debugging/)
-- [3 Must Know Python Tips in 30 Seconds](https://www.reddit.com/r/Python/comments/wjr6yf/3_must_know_python_tips_in_30_seconds/)
-- [Music source separation system using deep learning. Developed in Python](https://www.reddit.com/r/Python/comments/wjp9c7/music_source_separation_system_using_deep/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/wjob8k/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
