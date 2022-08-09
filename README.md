@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [3 Must Know Python Tips in 30 Seconds](https://www.reddit.com/r/Python/comments/wjr6yf/3_must_know_python_tips_in_30_seconds/)
+- [Music source separation system using deep learning. Developed in Python](https://www.reddit.com/r/Python/comments/wjp9c7/music_source_separation_system_using_deep/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/wjob8k/tuesday_daily_thread_advanced_questions/)
+- [My attempt at remaking Space Invaders using Python and Pygame](https://www.reddit.com/r/Python/comments/wjnhhk/my_attempt_at_remaking_space_invaders_using/)
 - [Installing python best practises](https://www.reddit.com/r/Python/comments/wjlmad/installing_python_best_practises/)
-- [What&#39;s the point of {% block __ %} in an HTML file when working with Flask?](https://www.reddit.com/r/Python/comments/wjl69a/whats_the_point_of_block_in_an_html_file_when/)
-- [Python recap for week 31/2022](https://www.reddit.com/r/Python/comments/wjkjq8/python_recap_for_week_312022/)
-- [My little weekend project &lpar;Image to ANSI art converter&rpar;](https://www.reddit.com/r/Python/comments/wjirmw/my_little_weekend_project_image_to_ansi_art/)
-- [I made a quick Twitter bot, still shocked at how easy it was](https://www.reddit.com/r/Python/comments/wji5cg/i_made_a_quick_twitter_bot_still_shocked_at_how/)
 <!-- BLOG-POST-LIST:END -->
