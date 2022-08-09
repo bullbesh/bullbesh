@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Shorts — Artificial Gravity in Space](https://www.reddit.com/r/Python/comments/wk0oaq/python_shorts_artificial_gravity_in_space/)
 - [How to Send Email with Attachment in Python Django? - Tuts-Station.com](https://www.reddit.com/r/Python/comments/wjzczh/how_to_send_email_with_attachment_in_python/)
 - [Python code running in the browser, using react-py](https://www.reddit.com/r/Python/comments/wjz4vp/python_code_running_in_the_browser_using_reactpy/)
 - [[Video] I created Krita Copilot, a Python plugin that lets you paint with DALL·E 2 in Krita](https://www.reddit.com/r/Python/comments/wjyol9/video_i_created_krita_copilot_a_python_plugin/)
 - [Create Your Own Code Editor Using PyQt5 #5 - Adding Search Option in Sidebar](https://www.reddit.com/r/Python/comments/wjyk97/create_your_own_code_editor_using_pyqt5_5_adding/)
-- [GitHub - ploomber/debuglater: Store Python traceback for later debugging.](https://www.reddit.com/r/Python/comments/wjyijm/github_ploomberdebuglater_store_python_traceback/)
 <!-- BLOG-POST-LIST:END -->
