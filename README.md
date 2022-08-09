@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it possible to access an uploaded file without saving it to a bucket with Flask?](https://www.reddit.com/r/Python/comments/wkfzha/is_it_possible_to_access_an_uploaded_file_without/)
+- [I generated a cool image with python](https://www.reddit.com/r/Python/comments/wkf17k/i_generated_a_cool_image_with_python/)
 - [Learn Flask with Me](https://www.reddit.com/r/Python/comments/wkewm2/learn_flask_with_me/)
 - [I made a Hackernoon web scraper with Selenium, and deployed as a cron job without dealing with infrastructure](https://www.reddit.com/r/Python/comments/wkdmf1/i_made_a_hackernoon_web_scraper_with_selenium_and/)
 - [I made a small console configuration output.](https://www.reddit.com/r/Python/comments/wkdk1r/i_made_a_small_console_configuration_output/)
-- [Starception - beautiful exception page for Starlette and FastAPI inspired by Phoenix Framework](https://www.reddit.com/r/Python/comments/wkbl21/starception_beautiful_exception_page_for/)
-- [10 information-stealing packages found in the Python programming language repository, PyPI](https://www.reddit.com/r/Python/comments/wka66d/10_informationstealing_packages_found_in_the/)
 <!-- BLOG-POST-LIST:END -->
