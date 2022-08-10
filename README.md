@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it okay to download files into the source code directory before displaying them on your Flask webapp?](https://www.reddit.com/r/Python/comments/wky5tu/is_it_okay_to_download_files_into_the_source_code/)
+- [Python Hindi Tutorials with free notes 2022](https://www.reddit.com/r/Python/comments/wky3nk/python_hindi_tutorials_with_free_notes_2022/)
 - [for loop in pandas](https://www.reddit.com/r/Python/comments/wkv9rx/for_loop_in_pandas/)
 - [Need A Python Project Manager?](https://www.reddit.com/r/Python/comments/wkv42v/need_a_python_project_manager/)
 - [Flask/Quart/Werkzeug users have you seen a performance improvement?](https://www.reddit.com/r/Python/comments/wktfaf/flaskquartwerkzeug_users_have_you_seen_a/)
-- [Python Crash Course, 2nd Edition](https://www.reddit.com/r/Python/comments/wkrqm4/python_crash_course_2nd_edition/)
-- [Uncommon Uses of Python in Commonly Used Libraries](https://www.reddit.com/r/Python/comments/wkqmwd/uncommon_uses_of_python_in_commonly_used_libraries/)
 <!-- BLOG-POST-LIST:END -->
