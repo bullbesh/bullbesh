@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project Write-up: Display Spotify lyrics on external display - Yasoob Khalid](https://www.reddit.com/r/Python/comments/wl8zn8/project_writeup_display_spotify_lyrics_on/)
+- [I Made a Game to Test Out My &quot;Class&quot; Making Skills](https://www.reddit.com/r/Python/comments/wl8g13/i_made_a_game_to_test_out_my_class_making_skills/)
 - [Making Python Easy &lpar;mpyez v0.0.2&rpar;](https://www.reddit.com/r/Python/comments/wl72fb/making_python_easy_mpyez_v002/)
 - [Auto-Annotate: Automatically annotate your entire image directory by a single command.](https://www.reddit.com/r/Python/comments/wl67ux/autoannotate_automatically_annotate_your_entire/)
 - [How To Make Voice Assistant with 7 lines of Python](https://www.reddit.com/r/Python/comments/wl5hao/how_to_make_voice_assistant_with_7_lines_of_python/)
-- [Worst code you&#39;ve ever seen?](https://www.reddit.com/r/Python/comments/wl5dzi/worst_code_youve_ever_seen/)
-- [f-string formating style](https://www.reddit.com/r/Python/comments/wl58lg/fstring_formating_style/)
 <!-- BLOG-POST-LIST:END -->
