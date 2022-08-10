@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Make Voice Assistant with 7 lines of Python](https://www.reddit.com/r/Python/comments/wl5hao/how_to_make_voice_assistant_with_7_lines_of_python/)
+- [Worst code you&#39;ve ever seen?](https://www.reddit.com/r/Python/comments/wl5dzi/worst_code_youve_ever_seen/)
+- [f-string formating style](https://www.reddit.com/r/Python/comments/wl58lg/fstring_formating_style/)
+- [Add background music to your scripts](https://www.reddit.com/r/Python/comments/wl56ng/add_background_music_to_your_scripts/)
 - [Finding the root of a multidimensional function](https://www.reddit.com/r/Python/comments/wl3se0/finding_the_root_of_a_multidimensional_function/)
-- [I got tired of handcrafting matplotlib styles everytime, so I made a small library to make it much simpler to define themes and load existing ones.](https://www.reddit.com/r/Python/comments/wl2dr7/i_got_tired_of_handcrafting_matplotlib_styles/)
-- [Run python scripts for your co-workers? I built a tool to quickly turn Markdown into a React front end and docs page all in the browser.](https://www.reddit.com/r/Python/comments/wl0y5i/run_python_scripts_for_your_coworkers_i_built_a/)
-- [10 Reasons Why Python Is One Of The Best Programming Languages](https://www.reddit.com/r/Python/comments/wl0kww/10_reasons_why_python_is_one_of_the_best/)
-- [Open Source Billing API for B2B SaaS in Python](https://www.reddit.com/r/Python/comments/wkzjgz/open_source_billing_api_for_b2b_saas_in_python/)
 <!-- BLOG-POST-LIST:END -->
