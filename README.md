@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [for loop in pandas](https://www.reddit.com/r/Python/comments/wkv9rx/for_loop_in_pandas/)
+- [Need A Python Project Manager?](https://www.reddit.com/r/Python/comments/wkv42v/need_a_python_project_manager/)
 - [Flask/Quart/Werkzeug users have you seen a performance improvement?](https://www.reddit.com/r/Python/comments/wktfaf/flaskquartwerkzeug_users_have_you_seen_a/)
 - [Python Crash Course, 2nd Edition](https://www.reddit.com/r/Python/comments/wkrqm4/python_crash_course_2nd_edition/)
 - [Uncommon Uses of Python in Commonly Used Libraries](https://www.reddit.com/r/Python/comments/wkqmwd/uncommon_uses_of_python_in_commonly_used_libraries/)
-- [Making an easy Snake Game using Python and Pygame!](https://www.reddit.com/r/Python/comments/wkqmqy/making_an_easy_snake_game_using_python_and_pygame/)
-- [I made a number guessing game, using python!](https://www.reddit.com/r/Python/comments/wkprjd/i_made_a_number_guessing_game_using_python/)
 <!-- BLOG-POST-LIST:END -->
