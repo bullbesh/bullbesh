@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Crash Course, 2nd Edition](https://www.reddit.com/r/Python/comments/wkrqm4/python_crash_course_2nd_edition/)
 - [Uncommon Uses of Python in Commonly Used Libraries](https://www.reddit.com/r/Python/comments/wkqmwd/uncommon_uses_of_python_in_commonly_used_libraries/)
 - [Making an easy Snake Game using Python and Pygame!](https://www.reddit.com/r/Python/comments/wkqmqy/making_an_easy_snake_game_using_python_and_pygame/)
 - [I made a number guessing game, using python!](https://www.reddit.com/r/Python/comments/wkprjd/i_made_a_number_guessing_game_using_python/)
 - [I found a way to organize my code when working with the pygame module](https://www.reddit.com/r/Python/comments/wkmk5m/i_found_a_way_to_organize_my_code_when_working/)
-- [Memory Size of Python Data Structures](https://www.reddit.com/r/Python/comments/wkm14h/memory_size_of_python_data_structures/)
 <!-- BLOG-POST-LIST:END -->
