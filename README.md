@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is it possible to access an uploaded file without saving it to a bucket with Flask?](https://www.reddit.com/r/Python/comments/wkfzha/is_it_possible_to_access_an_uploaded_file_without/)
-- [I generated a cool image with python](https://www.reddit.com/r/Python/comments/wkf17k/i_generated_a_cool_image_with_python/)
-- [Learn Flask with Me](https://www.reddit.com/r/Python/comments/wkewm2/learn_flask_with_me/)
-- [I made a Hackernoon web scraper with Selenium, and deployed as a cron job without dealing with infrastructure](https://www.reddit.com/r/Python/comments/wkdmf1/i_made_a_hackernoon_web_scraper_with_selenium_and/)
-- [I made a small console configuration output.](https://www.reddit.com/r/Python/comments/wkdk1r/i_made_a_small_console_configuration_output/)
+- [What Do You Think Is The Most Useful Tool Or Package For General Programing](https://www.reddit.com/r/Python/comments/wkkxib/what_do_you_think_is_the_most_useful_tool_or/)
+- [Can you create a database for your website using Python? If so, where do you store this file? How do you access it?](https://www.reddit.com/r/Python/comments/wkksti/can_you_create_a_database_for_your_website_using/)
+- [Made a python script to automatically install all my steam games :&rpar;](https://www.reddit.com/r/Python/comments/wkjy3i/made_a_python_script_to_automatically_install_all/)
+- [Can a Python Library collect private Data in the background?](https://www.reddit.com/r/Python/comments/wkja40/can_a_python_library_collect_private_data_in_the/)
+- [Chess game made with Python and PyGame!](https://www.reddit.com/r/Python/comments/wkiwsa/chess_game_made_with_python_and_pygame/)
 <!-- BLOG-POST-LIST:END -->
