@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Map of Artificial Intelligence](https://www.reddit.com/r/Python/comments/wlyex1/map_of_artificial_intelligence/)
+- [GitHub - AnnikaV9/lowbar: The simplest no-nonsense progress bar for python.](https://www.reddit.com/r/Python/comments/wlxhi6/github_annikav9lowbar_the_simplest_nononsense/)
 - [Project template for modern Python packages](https://www.reddit.com/r/Python/comments/wlw3l3/project_template_for_modern_python_packages/)
 - [Using Spyder vs Visual Code Studio](https://www.reddit.com/r/Python/comments/wlvq3b/using_spyder_vs_visual_code_studio/)
 - [Advanced entity extraction &lpar;NER&rpar; in Python with GPT-NeoX 20B without annotation, and a comparison with spaCy](https://www.reddit.com/r/Python/comments/wlspln/advanced_entity_extraction_ner_in_python_with/)
-- [boucle for, sequence of list....](https://www.reddit.com/r/Python/comments/wlrpav/boucle_for_sequence_of_list/)
-- [Should you study python for a career in cloud computing?](https://www.reddit.com/r/Python/comments/wlqpig/should_you_study_python_for_a_career_in_cloud/)
 <!-- BLOG-POST-LIST:END -->
