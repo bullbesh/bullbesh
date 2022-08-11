@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [new to this](https://www.reddit.com/r/Python/comments/wm1wjr/new_to_this/)
+- [Algorithms - educational resources](https://www.reddit.com/r/Python/comments/wm3ykz/algorithms_educational_resources/)
+- [Is it possible to learn complete basics of Python and data structures in 1 month?](https://www.reddit.com/r/Python/comments/wm3d2h/is_it_possible_to_learn_complete_basics_of_python/)
 - [Masonite Backup - Masonite Tutorial](https://www.reddit.com/r/Python/comments/wm0whm/masonite_backup_masonite_tutorial/)
 - [Map of Artificial Intelligence](https://www.reddit.com/r/Python/comments/wlyex1/map_of_artificial_intelligence/)
 - [GitHub - AnnikaV9/lowbar: The simplest no-nonsense progress bar for python.](https://www.reddit.com/r/Python/comments/wlxhi6/github_annikav9lowbar_the_simplest_nononsense/)
-- [Project template for modern Python packages](https://www.reddit.com/r/Python/comments/wlw3l3/project_template_for_modern_python_packages/)
 <!-- BLOG-POST-LIST:END -->
