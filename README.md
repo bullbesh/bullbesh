@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced entity extraction &lpar;NER&rpar; in Python with GPT-NeoX 20B without annotation, and a comparison with spaCy](https://www.reddit.com/r/Python/comments/wlspln/advanced_entity_extraction_ner_in_python_with/)
 - [boucle for, sequence of list....](https://www.reddit.com/r/Python/comments/wlrpav/boucle_for_sequence_of_list/)
 - [Should you study python for a career in cloud computing?](https://www.reddit.com/r/Python/comments/wlqpig/should_you_study_python_for_a_career_in_cloud/)
 - [Hello. What is the best Python 3 reference book for consulting when offline?](https://www.reddit.com/r/Python/comments/wlnhb1/hello_what_is_the_best_python_3_reference_book/)
 - [The underlying difference between PyTorch and Taichi - two DSLs embedded in Python](https://www.reddit.com/r/Python/comments/wlmziy/the_underlying_difference_between_pytorch_and/)
-- [GitHub - Suzhou-Tongyuan/jnumpy: Writing Python C extensions in Julia within 5 minutes.](https://www.reddit.com/r/Python/comments/wljt3m/github_suzhoutongyuanjnumpy_writing_python_c/)
 <!-- BLOG-POST-LIST:END -->
