@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Stop losing track of time](https://www.reddit.com/r/Python/comments/wld94u/stop_losing_track_of_time/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/wlctcx/thursday_daily_thread_python_careers_courses_and/)
-- [Deep Image Priors in PyTorch](https://www.reddit.com/r/Python/comments/wl9ys0/deep_image_priors_in_pytorch/)
-- [Project Write-up: Display Spotify lyrics on external display - Yasoob Khalid](https://www.reddit.com/r/Python/comments/wl8zn8/project_writeup_display_spotify_lyrics_on/)
-- [Making Python Easy &lpar;mpyez v0.0.2&rpar;](https://www.reddit.com/r/Python/comments/wl72fb/making_python_easy_mpyez_v002/)
+- [Does Mentorship/Coaching make you cut the crap faster + learn 10x faster only the important parts?](https://www.reddit.com/r/Python/comments/wlh11q/does_mentorshipcoaching_make_you_cut_the_crap/)
+- [10 packages have been removed from the Python Package Index. Experts found 10 malicious packages on Python Package Index used to steal developer&#39;s data.](https://www.reddit.com/r/Python/comments/wlguh4/10_packages_have_been_removed_from_the_python/)
+- [Wordle in Python Using Pygame](https://www.reddit.com/r/Python/comments/wlg6nw/wordle_in_python_using_pygame/)
+- [What Is Your Opinion on The Youtube Channel freeCodeCamp.org](https://www.reddit.com/r/Python/comments/wlfrej/what_is_your_opinion_on_the_youtube_channel/)
+- [How to calculate the volume between two surface? Each surface contains xyz coordinates of a cloud of nodes](https://www.reddit.com/r/Python/comments/wlfbx2/how_to_calculate_the_volume_between_two_surface/)
 <!-- BLOG-POST-LIST:END -->
