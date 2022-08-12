@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Pandas Cheatsheet](https://www.reddit.com/r/Python/comments/wml8to/python_pandas_cheatsheet/)
+- [How to use Azure SDK for Python in Pyodide and PyScript](https://www.reddit.com/r/Python/comments/wmkg3y/how_to_use_azure_sdk_for_python_in_pyodide_and/)
 - [SQLalchemie -&gt; 1.x or 2.0?](https://www.reddit.com/r/Python/comments/wmkbce/sqlalchemie_1x_or_20/)
 - [Dokter: the doctor for your Dockerfiles](https://www.reddit.com/r/Python/comments/wmk1nv/dokter_the_doctor_for_your_dockerfiles/)
 - [Building a Django web application with authentication and file uploading.](https://www.reddit.com/r/Python/comments/wmi4e1/building_a_django_web_application_with/)
-- [Python for &lpar;macOS&rpar; Automation - An in-progress package for automating Mac applications](https://www.reddit.com/r/Python/comments/wmhir1/python_for_macos_automation_an_inprogress_package/)
-- [My Top 7 Most Underrated IntelliJ IDEA Features](https://www.reddit.com/r/Python/comments/wmfmvh/my_top_7_most_underrated_intellij_idea_features/)
 <!-- BLOG-POST-LIST:END -->
