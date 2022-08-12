@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Django web application with authentication and file uploading.](https://www.reddit.com/r/Python/comments/wmi4e1/building_a_django_web_application_with/)
 - [Python for &lpar;macOS&rpar; Automation - An in-progress package for automating Mac applications](https://www.reddit.com/r/Python/comments/wmhir1/python_for_macos_automation_an_inprogress_package/)
 - [My Top 7 Most Underrated IntelliJ IDEA Features](https://www.reddit.com/r/Python/comments/wmfmvh/my_top_7_most_underrated_intellij_idea_features/)
 - [Help With Datasets](https://www.reddit.com/r/Python/comments/wme8ij/help_with_datasets/)
 - [Python F-Strings Number Formatting Cheat Sheet](https://www.reddit.com/r/Python/comments/wme26c/python_fstrings_number_formatting_cheat_sheet/)
-- [What are the hard skills do you think are required to use Python efficiently?](https://www.reddit.com/r/Python/comments/wmcejr/what_are_the_hard_skills_do_you_think_are/)
 <!-- BLOG-POST-LIST:END -->
