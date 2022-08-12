@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using threading for stock ticker downloads with yfinance 100x faster](https://www.reddit.com/r/Python/comments/wmp93z/using_threading_for_stock_ticker_downloads_with/)
+- [Python for finance](https://www.reddit.com/r/Python/comments/wmp5s9/python_for_finance/)
 - [How should I be passing in values into an HTML form? &lpar;From Flask / Python --&gt; HTML / JS&rpar;](https://www.reddit.com/r/Python/comments/wmnvd2/how_should_i_be_passing_in_values_into_an_html/)
 - [marktplaats: monitor marktplaats.nl for new board games](https://www.reddit.com/r/Python/comments/wmnftv/marktplaats_monitor_marktplaatsnl_for_new_board/)
 - [Python Pandas Cheatsheet](https://www.reddit.com/r/Python/comments/wml8to/python_pandas_cheatsheet/)
-- [How to use Azure SDK for Python in Pyodide and PyScript](https://www.reddit.com/r/Python/comments/wmkg3y/how_to_use_azure_sdk_for_python_in_pyodide_and/)
-- [SQLalchemie -&gt; 1.x or 2.0?](https://www.reddit.com/r/Python/comments/wmkbce/sqlalchemie_1x_or_20/)
 <!-- BLOG-POST-LIST:END -->
