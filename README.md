@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wct, Wizard for the Computer Tree](https://www.reddit.com/r/Python/comments/wmxon6/wct_wizard_for_the_computer_tree/)
+- [pointers.py 2.0.0 - bringing the hell of pointers to python](https://www.reddit.com/r/Python/comments/wmwr5a/pointerspy_200_bringing_the_hell_of_pointers_to/)
 - [Is WebSocket4OPC a good alternative to OpenOPC?](https://www.reddit.com/r/Python/comments/wmw8qc/is_websocket4opc_a_good_alternative_to_openopc/)
 - [Saw online that @property can be used like this?](https://www.reddit.com/r/Python/comments/wmvu1q/saw_online_that_property_can_be_used_like_this/)
-- [Need to learn python in a week](https://www.reddit.com/r/Python/comments/wmtvl7/need_to_learn_python_in_a_week/)
 - [Flask Has One Open GitHub Issue](https://www.reddit.com/r/Python/comments/wmsyz2/flask_has_one_open_github_issue/)
-- [How to use Elasticsearch in Python](https://www.reddit.com/r/Python/comments/wmsfwn/how_to_use_elasticsearch_in_python/)
 <!-- BLOG-POST-LIST:END -->
