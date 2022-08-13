@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Pandas Workshop: A comprehensive guide to using Python for data analysis with real-world case studies](https://www.reddit.com/r/Python/comments/wn7ric/the_pandas_workshop_a_comprehensive_guide_to/)
 - [Inserting jsontext in a textfile](https://www.reddit.com/r/Python/comments/wn77rj/inserting_jsontext_in_a_textfile/)
 - [I created my first python project.](https://www.reddit.com/r/Python/comments/wn671h/i_created_my_first_python_project/)
 - [Is There a website for Python + Power BI tutorial?](https://www.reddit.com/r/Python/comments/wn42jx/is_there_a_website_for_python_power_bi_tutorial/)
 - [Make a simple API and work with JSON Response Pyhton](https://www.reddit.com/r/Python/comments/wn04z0/make_a_simple_api_and_work_with_json_response/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/wmzx0f/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
