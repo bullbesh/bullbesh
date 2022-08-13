@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A good book about data structure and algorithms in python?](https://www.reddit.com/r/Python/comments/wnbvp4/a_good_book_about_data_structure_and_algorithms/)
+- [How To Run Flask App From The Command Line In Windows](https://www.reddit.com/r/Python/comments/wnbnag/how_to_run_flask_app_from_the_command_line_in/)
+- [Hello guys, this is a Pygame Test video in which, I&#39;ve tried a Pygame Exercise by Eric Mattes, &quot;Catch the Ball&quot;; Note: this is my first Pygame Experiment, I&#39;m not professional.](https://www.reddit.com/r/Python/comments/wnbfib/hello_guys_this_is_a_pygame_test_video_in_which/)
 - [Can python be faster than c++ in future? Any chance!](https://www.reddit.com/r/Python/comments/wnam6u/can_python_be_faster_than_c_in_future_any_chance/)
 - [Animation Library Recommendations](https://www.reddit.com/r/Python/comments/wna14j/animation_library_recommendations/)
-- [GitHub - kuroko-lang/kuroko: Dialect of Python with explicit variable declaration and block scoping, with a lightweight and easy-to-embed bytecode compiler and interpreter.](https://www.reddit.com/r/Python/comments/wn8z61/github_kurokolangkuroko_dialect_of_python_with/)
-- [Creating Synthetic Data with Python Faker Tutorial](https://www.reddit.com/r/Python/comments/wn8mb9/creating_synthetic_data_with_python_faker_tutorial/)
-- [The Pandas Workshop: A comprehensive guide to using Python for data analysis with real-world case studies](https://www.reddit.com/r/Python/comments/wn7ric/the_pandas_workshop_a_comprehensive_guide_to/)
 <!-- BLOG-POST-LIST:END -->
