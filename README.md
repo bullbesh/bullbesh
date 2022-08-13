@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [graphing unsolvable differential equations in python](https://www.reddit.com/r/Python/comments/wndfdb/graphing_unsolvable_differential_equations_in/)
-- [My first project: A Twitter bot that replies information about a flight when you mention it with a flight number.](https://www.reddit.com/r/Python/comments/wnd6p0/my_first_project_a_twitter_bot_that_replies/)
-- [Sum of odd numbers from 1 to 50 in Python](https://www.reddit.com/r/Python/comments/wncq6u/sum_of_odd_numbers_from_1_to_50_in_python/)
-- [Best way to scrape odds from betting site?](https://www.reddit.com/r/Python/comments/wncezr/best_way_to_scrape_odds_from_betting_site/)
-- [A good book about data structure and algorithms in python?](https://www.reddit.com/r/Python/comments/wnbvp4/a_good_book_about_data_structure_and_algorithms/)
+- [I made a Code Smells Catalog for my Master Thesis!](https://www.reddit.com/r/Python/comments/wnekci/i_made_a_code_smells_catalog_for_my_master_thesis/)
+- [Create GIFs out of multiple matplotlib plots.](https://www.reddit.com/r/Python/comments/wneirn/create_gifs_out_of_multiple_matplotlib_plots/)
+- [Count the Number of Islands in a Matrix using Python](https://www.reddit.com/r/Python/comments/wnduc0/count_the_number_of_islands_in_a_matrix_using/)
+- [Leetcode Algorithm Problems solved with Python!](https://www.reddit.com/r/Python/comments/wndq52/leetcode_algorithm_problems_solved_with_python/)
+- [A Python Library to OCR, Archive, Index and Search any documents with ease, with a simple and intuitive interface and a powerful Pipeline API.](https://www.reddit.com/r/Python/comments/wndoi8/a_python_library_to_ocr_archive_index_and_search/)
 <!-- BLOG-POST-LIST:END -->
