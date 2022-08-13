@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [How can I obtain Hitchhikers Guide to Python as an ebook?](https://www.reddit.com/r/Python/comments/wngup8/how_can_i_obtain_hitchhikers_guide_to_python_as/)
-- [Pylint docstring error](https://www.reddit.com/r/Python/comments/wngmho/pylint_docstring_error/)
 - [SAS vs Python](https://www.reddit.com/r/Python/comments/wngihv/sas_vs_python/)
 - [Anaconda is so fucking broken!](https://www.reddit.com/r/Python/comments/wngdz1/anaconda_is_so_fucking_broken/)
 - [lazy and fast .mpd file parser - for video streaming](https://www.reddit.com/r/Python/comments/wng0sx/lazy_and_fast_mpd_file_parser_for_video_streaming/)
+- [I made a Code Smells Catalog for my Master Thesis!](https://www.reddit.com/r/Python/comments/wnekci/i_made_a_code_smells_catalog_for_my_master_thesis/)
 <!-- BLOG-POST-LIST:END -->
