@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - kuroko-lang/kuroko: Dialect of Python with explicit variable declaration and block scoping, with a lightweight and easy-to-embed bytecode compiler and interpreter.](https://www.reddit.com/r/Python/comments/wn8z61/github_kurokolangkuroko_dialect_of_python_with/)
+- [Creating Synthetic Data with Python Faker Tutorial](https://www.reddit.com/r/Python/comments/wn8mb9/creating_synthetic_data_with_python_faker_tutorial/)
 - [The Pandas Workshop: A comprehensive guide to using Python for data analysis with real-world case studies](https://www.reddit.com/r/Python/comments/wn7ric/the_pandas_workshop_a_comprehensive_guide_to/)
 - [Inserting jsontext in a textfile](https://www.reddit.com/r/Python/comments/wn77rj/inserting_jsontext_in_a_textfile/)
 - [I created my first python project.](https://www.reddit.com/r/Python/comments/wn671h/i_created_my_first_python_project/)
-- [Is There a website for Python + Power BI tutorial?](https://www.reddit.com/r/Python/comments/wn42jx/is_there_a_website_for_python_power_bi_tutorial/)
-- [Make a simple API and work with JSON Response Pyhton](https://www.reddit.com/r/Python/comments/wn04z0/make_a_simple_api_and_work_with_json_response/)
 <!-- BLOG-POST-LIST:END -->
