@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [I Made A Script To Consolidate Formatting Configs For My Projects](https://www.reddit.com/r/Python/comments/wnknl7/i_made_a_script_to_consolidate_formatting_configs/)
-- [Download and Install Python. Start coding in Python in 3 mins &lpar; Add to Path &rpar;](https://www.reddit.com/r/Python/comments/wnkcgj/download_and_install_python_start_coding_in/)
 - [Sorting a Python Dictionary: Values, Keys, and More – Real Python](https://www.reddit.com/r/Python/comments/wnjet0/sorting_a_python_dictionary_values_keys_and_more/)
 - [FREE RESOURCE : 50 Days of Python A Challenge a Day](https://www.reddit.com/r/Python/comments/wnj2be/free_resource_50_days_of_python_a_challenge_a_day/)
 - [Smart Wallpaper - an interactive toolkit that makes your wallpaper alive &lpar;early development&rpar;](https://www.reddit.com/r/Python/comments/wnixjd/smart_wallpaper_an_interactive_toolkit_that_makes/)
+- [How can I obtain Hitchhikers Guide to Python as an ebook?](https://www.reddit.com/r/Python/comments/wngup8/how_can_i_obtain_hitchhikers_guide_to_python_as/)
 <!-- BLOG-POST-LIST:END -->
