@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Built-in String Functions](https://www.reddit.com/r/Python/comments/wo60oo/python_builtin_string_functions/)
+- [New Tutorial: Using borb to create a test-report](https://www.reddit.com/r/Python/comments/wo5xhf/new_tutorial_using_borb_to_create_a_testreport/)
 - [I created this beginner YouTube series. Need suggestions and opinions on how to improve.](https://www.reddit.com/r/Python/comments/wo4z8b/i_created_this_beginner_youtube_series_need/)
 - [List of most downloaded PyPI packages organized by topic/category](https://www.reddit.com/r/Python/comments/wo428e/list_of_most_downloaded_pypi_packages_organized/)
 - [any good courses on udemy to recommend?](https://www.reddit.com/r/Python/comments/wo3610/any_good_courses_on_udemy_to_recommend/)
-- [From &#39;No Code&#39; to &#39;Know Code&#39; - My journey overcoming my fear of programming to writing my first script with Python.](https://www.reddit.com/r/Python/comments/wo2vfp/from_no_code_to_know_code_my_journey_overcoming/)
-- [Libary for Automatic Method Chaining via Metaclasses](https://www.reddit.com/r/Python/comments/wo22wm/libary_for_automatic_method_chaining_via/)
 <!-- BLOG-POST-LIST:END -->
