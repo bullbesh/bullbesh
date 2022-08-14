@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 4: Randomization and Python Lists](https://www.reddit.com/r/Python/comments/wny87t/day_4_randomization_and_python_lists/)
+- [I need your help](https://www.reddit.com/r/Python/comments/wnxsxx/i_need_your_help/)
 - [For the sake of discussion: Can a function be an API?](https://www.reddit.com/r/Python/comments/wnwi5d/for_the_sake_of_discussion_can_a_function_be_an/)
 - [Do the CRUD easy](https://www.reddit.com/r/Python/comments/wnspke/do_the_crud_easy/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/wnsaun/sunday_daily_thread_whats_everyone_working_on/)
-- [Looking for Github projects with strong communities and Discords. Active and frequently mentoring new-comers.](https://www.reddit.com/r/Python/comments/wnrsrw/looking_for_github_projects_with_strong/)
-- [Immediately-invoked function expressions in Python](https://www.reddit.com/r/Python/comments/wnrot9/immediatelyinvoked_function_expressions_in_python/)
 <!-- BLOG-POST-LIST:END -->
