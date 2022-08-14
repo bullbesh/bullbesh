@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Libary for Automatic Method Chaining via Metaclasses](https://www.reddit.com/r/Python/comments/wo22wm/libary_for_automatic_method_chaining_via/)
+- [Financial data &lpar;share market&rpar; scraping library](https://www.reddit.com/r/Python/comments/wo1vv5/financial_data_share_market_scraping_library/)
 - [GitHub - orf/pypi-data: Automatically updated PyPi API data, available in bulk via git](https://www.reddit.com/r/Python/comments/wo00nq/github_orfpypidata_automatically_updated_pypi_api/)
 - [code wars makes me feel stupid.](https://www.reddit.com/r/Python/comments/wnznp5/code_wars_makes_me_feel_stupid/)
 - [Just learned how to code the game: rock,paper,scissors as a complete beginner](https://www.reddit.com/r/Python/comments/wnynqq/just_learned_how_to_code_the_game/)
-- [Day 4: Randomization and Python Lists](https://www.reddit.com/r/Python/comments/wny87t/day_4_randomization_and_python_lists/)
-- [Do the CRUD easy](https://www.reddit.com/r/Python/comments/wnspke/do_the_crud_easy/)
 <!-- BLOG-POST-LIST:END -->
