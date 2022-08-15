@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Desktop GUI &lpar;part 2&rpar; now available.](https://www.reddit.com/r/Python/comments/wpdtpw/python_desktop_gui_part_2_now_available/)
 - [Best practices for conda virtual environments](https://www.reddit.com/r/Python/comments/wpcfad/best_practices_for_conda_virtual_environments/)
-- [This code is giving me anxiety ! IRC with File transfer over tcp with encryption and blah blah…](https://www.reddit.com/r/Python/comments/wpbhin/this_code_is_giving_me_anxiety_irc_with_file/)
 - [What if my biggest project is immoral?](https://www.reddit.com/r/Python/comments/wpb7ws/what_if_my_biggest_project_is_immoral/)
 - [How to make Photomosaic Generator in python](https://www.reddit.com/r/Python/comments/wp6t43/how_to_make_photomosaic_generator_in_python/)
 - [Manage your Python Code Snippets with PyCharm](https://www.reddit.com/r/Python/comments/wp4mp8/manage_your_python_code_snippets_with_pycharm/)
