@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to set random x and random y coordinate for a node and let z coordinate fixed?](https://www.reddit.com/r/Python/comments/wp51cn/how_to_set_random_x_and_random_y_coordinate_for_a/)
+- [Manage your Python Code Snippets with PyCharm](https://www.reddit.com/r/Python/comments/wp4mp8/manage_your_python_code_snippets_with_pycharm/)
+- [txtai 4.6 released - new workflow steps and performance improvements](https://www.reddit.com/r/Python/comments/wp4faw/txtai_46_released_new_workflow_steps_and/)
 - [I made a network to classify birds using an IP camera!](https://www.reddit.com/r/Python/comments/wp2paw/i_made_a_network_to_classify_birds_using_an_ip/)
 - [Automating powerpoint creation](https://www.reddit.com/r/Python/comments/wp2pau/automating_powerpoint_creation/)
-- [Pydantic-Factories: Type Based mock data generation](https://www.reddit.com/r/Python/comments/wp2l5u/pydanticfactories_type_based_mock_data_generation/)
-- [I came across a LeetCode example that has applications to handling data in real time data streams and wrote two solutions to it with different time complexities](https://www.reddit.com/r/Python/comments/wp1zhk/i_came_across_a_leetcode_example_that_has/)
-- [Time based One-Time-Password - Proof of concept](https://www.reddit.com/r/Python/comments/wp1v3b/time_based_onetimepassword_proof_of_concept/)
 <!-- BLOG-POST-LIST:END -->
