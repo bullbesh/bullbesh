@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are there jobs out there where all you do is build scrappers ?](https://www.reddit.com/r/Python/comments/woog13/are_there_jobs_out_there_where_all_you_do_is/)
 - [need help debugging in tkinter](https://www.reddit.com/r/Python/comments/womxye/need_help_debugging_in_tkinter/)
 - [LSTM model for stock prediction](https://www.reddit.com/r/Python/comments/womord/lstm_model_for_stock_prediction/)
 - [Why were unbound methods removed in Python3?](https://www.reddit.com/r/Python/comments/wokoow/why_were_unbound_methods_removed_in_python3/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/wokljk/monday_daily_thread_project_ideas/)
-- [What are the biggest ever games made with Python and/or Pygame?](https://www.reddit.com/r/Python/comments/woihzm/what_are_the_biggest_ever_games_made_with_python/)
 <!-- BLOG-POST-LIST:END -->
