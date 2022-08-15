@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lux 0.7 is out! Lisp for Python with static types](https://www.reddit.com/r/Python/comments/woyp35/lux_07_is_out_lisp_for_python_with_static_types/)
+- [Savable File System in Python!](https://www.reddit.com/r/Python/comments/woy3d8/savable_file_system_in_python/)
+- [I implemented Mode 7 &lpar;pseudo 3d floor&rpar; using only Python and PyGame in 5 days!](https://www.reddit.com/r/Python/comments/woxaz1/i_implemented_mode_7_pseudo_3d_floor_using_only/)
 - [How to rename an existing file in Python](https://www.reddit.com/r/Python/comments/wowur4/how_to_rename_an_existing_file_in_python/)
 - [PugSQL is a simple Python interface for using parameterized SQL, in files, with any SQLAlchemy-supported database.](https://www.reddit.com/r/Python/comments/wovlsd/pugsql_is_a_simple_python_interface_for_using/)
-- [Can anyone recommend a better PaaS than Heroku for long requests?](https://www.reddit.com/r/Python/comments/wou0qe/can_anyone_recommend_a_better_paas_than_heroku/)
-- [Tensor vs. field: Logic behind data processing in PyTorch and Taichi](https://www.reddit.com/r/Python/comments/wotzim/tensor_vs_field_logic_behind_data_processing_in/)
-- [Advanced Python - Achieving high performance with code generation](https://www.reddit.com/r/Python/comments/wotygl/advanced_python_achieving_high_performance_with/)
 <!-- BLOG-POST-LIST:END -->
