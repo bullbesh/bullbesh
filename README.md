@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stardew Valley Game Clone with Python and PyGame | freeCodeCamp.org [6:44:26]](https://www.reddit.com/r/Python/comments/wp0rii/stardew_valley_game_clone_with_python_and_pygame/)
+- [HTag : an IRL mobile app for android : a tricount clone ... using py3](https://www.reddit.com/r/Python/comments/wp0koc/htag_an_irl_mobile_app_for_android_a_tricount/)
+- [Converting Svelte Code into HTML, CSS and JS with Python](https://www.reddit.com/r/Python/comments/wp0bx1/converting_svelte_code_into_html_css_and_js_with/)
+- [YCLIENTS API WRAPPER](https://www.reddit.com/r/Python/comments/wp03ck/yclients_api_wrapper/)
 - [I create a script to make your webcam follow you around](https://www.reddit.com/r/Python/comments/woz2pg/i_create_a_script_to_make_your_webcam_follow_you/)
-- [Automate Web Browser and Windows Application using Python](https://www.reddit.com/r/Python/comments/woz251/automate_web_browser_and_windows_application/)
-- [Lux 0.7 is out! Lisp for Python with static types](https://www.reddit.com/r/Python/comments/woyp35/lux_07_is_out_lisp_for_python_with_static_types/)
-- [Savable File System in Python!](https://www.reddit.com/r/Python/comments/woy3d8/savable_file_system_in_python/)
-- [I implemented Mode 7 &lpar;pseudo 3d floor&rpar; using only Python and PyGame in 5 days!](https://www.reddit.com/r/Python/comments/woxaz1/i_implemented_mode_7_pseudo_3d_floor_using_only/)
 <!-- BLOG-POST-LIST:END -->
