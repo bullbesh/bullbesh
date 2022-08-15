@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Going to school for IT Programming, need to interview someone whos&#39; hired an IT Programmer!](https://www.reddit.com/r/Python/comments/wp8230/going_to_school_for_it_programming_need_to/)
 - [How to make Photomosaic Generator in python](https://www.reddit.com/r/Python/comments/wp6t43/how_to_make_photomosaic_generator_in_python/)
 - [Python first steps](https://www.reddit.com/r/Python/comments/wp6l1q/python_first_steps/)
 - [Should You Be Using Python’s Walrus Operator? &lpar;Yes. And Here’s Why&rpar;](https://www.reddit.com/r/Python/comments/wp6fjl/should_you_be_using_pythons_walrus_operator_yes/)
-- [11 Best Python Books for beginners to advanced to read in 2022 -](https://www.reddit.com/r/Python/comments/wp5jxz/11_best_python_books_for_beginners_to_advanced_to/)
 - [Manage your Python Code Snippets with PyCharm](https://www.reddit.com/r/Python/comments/wp4mp8/manage_your_python_code_snippets_with_pycharm/)
 <!-- BLOG-POST-LIST:END -->
