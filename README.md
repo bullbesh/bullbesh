@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I came across a LeetCode example that has applications to handling data in real time data streams and wrote two solutions to it with different time complexities](https://www.reddit.com/r/Python/comments/wp1zhk/i_came_across_a_leetcode_example_that_has/)
+- [Time based One-Time-Password - Proof of concept](https://www.reddit.com/r/Python/comments/wp1v3b/time_based_onetimepassword_proof_of_concept/)
+- [Why Python?](https://www.reddit.com/r/Python/comments/wp1umy/why_python/)
 - [Stardew Valley Game Clone with Python and PyGame | freeCodeCamp.org [6:44:26]](https://www.reddit.com/r/Python/comments/wp0rii/stardew_valley_game_clone_with_python_and_pygame/)
 - [HTag : an IRL mobile app for android : a tricount clone ... using py3](https://www.reddit.com/r/Python/comments/wp0koc/htag_an_irl_mobile_app_for_android_a_tricount/)
-- [Converting Svelte Code into HTML, CSS and JS with Python](https://www.reddit.com/r/Python/comments/wp0bx1/converting_svelte_code_into_html_css_and_js_with/)
-- [YCLIENTS API WRAPPER](https://www.reddit.com/r/Python/comments/wp03ck/yclients_api_wrapper/)
-- [I create a script to make your webcam follow you around](https://www.reddit.com/r/Python/comments/woz2pg/i_create_a_script_to_make_your_webcam_follow_you/)
 <!-- BLOG-POST-LIST:END -->
