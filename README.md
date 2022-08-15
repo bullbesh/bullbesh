@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can anyone recommend a better PaaS than Heroku for long requests?](https://www.reddit.com/r/Python/comments/wou0qe/can_anyone_recommend_a_better_paas_than_heroku/)
+- [Tensor vs. field: Logic behind data processing in PyTorch and Taichi](https://www.reddit.com/r/Python/comments/wotzim/tensor_vs_field_logic_behind_data_processing_in/)
+- [Advanced Python - Achieving high performance with code generation](https://www.reddit.com/r/Python/comments/wotygl/advanced_python_achieving_high_performance_with/)
+- [Build a News Dataset by Scraping Google News with Sentiment and Translation](https://www.reddit.com/r/Python/comments/wot80u/build_a_news_dataset_by_scraping_google_news_with/)
 - [Are there jobs out there where all you do is build scrappers ?](https://www.reddit.com/r/Python/comments/woog13/are_there_jobs_out_there_where_all_you_do_is/)
-- [need help debugging in tkinter](https://www.reddit.com/r/Python/comments/womxye/need_help_debugging_in_tkinter/)
-- [LSTM model for stock prediction](https://www.reddit.com/r/Python/comments/womord/lstm_model_for_stock_prediction/)
-- [Why were unbound methods removed in Python3?](https://www.reddit.com/r/Python/comments/wokoow/why_were_unbound_methods_removed_in_python3/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/wokljk/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
