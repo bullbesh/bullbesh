@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot: Fly With Python at the Speed of Thought – Real Python](https://www.reddit.com/r/Python/comments/wq42f1/github_copilot_fly_with_python_at_the_speed_of/)
+- [Nuitka Release 1.0 — Nuitka the Python Compiler](https://www.reddit.com/r/Python/comments/wq3l8a/nuitka_release_10_nuitka_the_python_compiler/)
 - [Hands-On Data Structures and Algorithms with Python, 3rd Edition](https://www.reddit.com/r/Python/comments/wq0obs/handson_data_structures_and_algorithms_with/)
 - [Pointers in Python? Wait… Is It Possible?](https://www.reddit.com/r/Python/comments/wpz5kv/pointers_in_python_wait_is_it_possible/)
 - [Python Google Sheets and Excel Automation with XLWings and automated email sending.](https://www.reddit.com/r/Python/comments/wpxou2/python_google_sheets_and_excel_automation_with/)
-- [Python recommendation system](https://www.reddit.com/r/Python/comments/wpxapa/python_recommendation_system/)
-- [Dockerize your Flask and MongoDB](https://www.reddit.com/r/Python/comments/wpvyx9/dockerize_your_flask_and_mongodb/)
 <!-- BLOG-POST-LIST:END -->
