@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Distributed Tracing with Quarkus, Python, Open Telemetry and Jaeger](https://www.reddit.com/r/Python/comments/wpq5da/distributed_tracing_with_quarkus_python_open/)
 - [Fast Python Vulnerability Scanner &lpar;alternative to safety/gemnasium&rpar;](https://www.reddit.com/r/Python/comments/wppjdi/fast_python_vulnerability_scanner_alternative_to/)
 - [How to remove a new line from json results in python?](https://www.reddit.com/r/Python/comments/wpp2e6/how_to_remove_a_new_line_from_json_results_in/)
 - [What is the best way to learn how to solve Leetcode algorithm problems with Python](https://www.reddit.com/r/Python/comments/wpoj86/what_is_the_best_way_to_learn_how_to_solve/)
 - [Retrieve graph data with Python instead of writing Cypher queries](https://www.reddit.com/r/Python/comments/wpo9ca/retrieve_graph_data_with_python_instead_of/)
-- [Snyk finds PyPi malware that steals Discord and Roblox credential and payment info](https://www.reddit.com/r/Python/comments/wpnml1/snyk_finds_pypi_malware_that_steals_discord_and/)
 <!-- BLOG-POST-LIST:END -->
