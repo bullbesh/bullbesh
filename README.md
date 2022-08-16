@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pomelo Donations are Closing for eospyo - the de facto python library for eosio.](https://www.reddit.com/r/Python/comments/wphber/pomelo_donations_are_closing_for_eospyo_the_de/)
+- [Python meta path and import system](https://www.reddit.com/r/Python/comments/wph63o/python_meta_path_and_import_system/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/wpf2o4/tuesday_daily_thread_advanced_questions/)
 - [Python Desktop GUI &lpar;part 2&rpar; now available.](https://www.reddit.com/r/Python/comments/wpdtpw/python_desktop_gui_part_2_now_available/)
 - [Best practices for conda virtual environments](https://www.reddit.com/r/Python/comments/wpcfad/best_practices_for_conda_virtual_environments/)
-- [What if my biggest project is immoral?](https://www.reddit.com/r/Python/comments/wpb7ws/what_if_my_biggest_project_is_immoral/)
-- [How to make Photomosaic Generator in python](https://www.reddit.com/r/Python/comments/wp6t43/how_to_make_photomosaic_generator_in_python/)
-- [Manage your Python Code Snippets with PyCharm](https://www.reddit.com/r/Python/comments/wp4mp8/manage_your_python_code_snippets_with_pycharm/)
 <!-- BLOG-POST-LIST:END -->
