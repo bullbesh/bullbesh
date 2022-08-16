@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [This is my second day of python and I made a lbs to kg converter](https://www.reddit.com/r/Python/comments/wpm9yu/this_is_my_second_day_of_python_and_i_made_a_lbs/)
 - [Pomelo Donations are Closing for eospyo - the de facto python library for eosio.](https://www.reddit.com/r/Python/comments/wphber/pomelo_donations_are_closing_for_eospyo_the_de/)
 - [Python meta path and import system](https://www.reddit.com/r/Python/comments/wph63o/python_meta_path_and_import_system/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/wpf2o4/tuesday_daily_thread_advanced_questions/)
 - [Python Desktop GUI &lpar;part 2&rpar; now available.](https://www.reddit.com/r/Python/comments/wpdtpw/python_desktop_gui_part_2_now_available/)
-- [Best practices for conda virtual environments](https://www.reddit.com/r/Python/comments/wpcfad/best_practices_for_conda_virtual_environments/)
 <!-- BLOG-POST-LIST:END -->
