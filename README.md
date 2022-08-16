@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Live course on Maven: Native SQL For Developers](https://www.reddit.com/r/Python/comments/wpr8uj/live_course_on_maven_native_sql_for_developers/)
-- [Distributed Tracing with Quarkus, Python, Open Telemetry and Jaeger](https://www.reddit.com/r/Python/comments/wpq5da/distributed_tracing_with_quarkus_python_open/)
-- [Fast Python Vulnerability Scanner &lpar;alternative to safety/gemnasium&rpar;](https://www.reddit.com/r/Python/comments/wppjdi/fast_python_vulnerability_scanner_alternative_to/)
-- [How to remove a new line from json results in python?](https://www.reddit.com/r/Python/comments/wpp2e6/how_to_remove_a_new_line_from_json_results_in/)
-- [What is the best way to learn how to solve Leetcode algorithm problems with Python](https://www.reddit.com/r/Python/comments/wpoj86/what_is_the_best_way_to_learn_how_to_solve/)
+- [The truth value of a Series is ambiguous. Use a.empty, a.bool&lpar;&rpar;, a.item&lpar;&rpar;, a.any&lpar;&rpar; or a.all&lpar;&rpar;.](https://www.reddit.com/r/Python/comments/wpt05t/the_truth_value_of_a_series_is_ambiguous_use/)
+- [Malicious PyPi packages aim DDoS attacks at Counter-Strike servers](https://www.reddit.com/r/Python/comments/wpswz3/malicious_pypi_packages_aim_ddos_attacks_at/)
+- [Some lesser-known functions in the random library](https://www.reddit.com/r/Python/comments/wpsvrp/some_lesserknown_functions_in_the_random_library/)
+- [Created a text based boxing game with Python](https://www.reddit.com/r/Python/comments/wpspef/created_a_text_based_boxing_game_with_python/)
+- [Create a music playing interface for windows 10](https://www.reddit.com/r/Python/comments/wps91o/create_a_music_playing_interface_for_windows_10/)
 <!-- BLOG-POST-LIST:END -->
