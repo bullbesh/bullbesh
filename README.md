@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to invert a binary tree in Python](https://www.reddit.com/r/Python/comments/wqj08x/how_to_invert_a_binary_tree_in_python/)
 - [Java gets DESTROYED by Python &lpar;or why I stopped worrying and only use Python&rpar;](https://www.reddit.com/r/Python/comments/wqi55g/java_gets_destroyed_by_python_or_why_i_stopped/)
 - [Could anyone briefly explain me the working of .name&lpar; &rpar; in python? Check the link of the program below:](https://www.reddit.com/r/Python/comments/wqhowv/could_anyone_briefly_explain_me_the_working_of/)
 - [Python as first language...](https://www.reddit.com/r/Python/comments/wqhj02/python_as_first_language/)
 - [Traps for the Unwary in Python&#39;s Import System](https://www.reddit.com/r/Python/comments/wqhid6/traps_for_the_unwary_in_pythons_import_system/)
-- [Weekend project: sortxml, a simple XML element sorter](https://www.reddit.com/r/Python/comments/wqay0g/weekend_project_sortxml_a_simple_xml_element/)
 <!-- BLOG-POST-LIST:END -->
