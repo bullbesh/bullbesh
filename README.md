@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do I improve this formatting](https://www.reddit.com/r/Python/comments/wqw7v0/how_do_i_improve_this_formatting/)
+- [I have developed Python library of TUI form elements](https://www.reddit.com/r/Python/comments/wqw043/i_have_developed_python_library_of_tui_form/)
+- [My first own project using pygame!](https://www.reddit.com/r/Python/comments/wquufe/my_first_own_project_using_pygame/)
 - [Advanced and intermediate level course on Udemy](https://www.reddit.com/r/Python/comments/wqqgzq/advanced_and_intermediate_level_course_on_udemy/)
 - [Best Beginner Course?](https://www.reddit.com/r/Python/comments/wqmc7c/best_beginner_course/)
-- [Java gets DESTROYED by Python &lpar;or why I stopped worrying and only use Python&rpar;](https://www.reddit.com/r/Python/comments/wqi55g/java_gets_destroyed_by_python_or_why_i_stopped/)
-- [Traps for the Unwary in Python&#39;s Import System](https://www.reddit.com/r/Python/comments/wqhid6/traps_for_the_unwary_in_pythons_import_system/)
-- [Weekend project: sortxml, a simple XML element sorter](https://www.reddit.com/r/Python/comments/wqay0g/weekend_project_sortxml_a_simple_xml_element/)
 <!-- BLOG-POST-LIST:END -->
