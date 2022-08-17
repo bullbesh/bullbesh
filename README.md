@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hot Job + Python Role!](https://www.reddit.com/r/Python/comments/wqtaj5/hot_job_python_role/)
 - [Advanced and intermediate level course on Udemy](https://www.reddit.com/r/Python/comments/wqqgzq/advanced_and_intermediate_level_course_on_udemy/)
 - [Desert &lpar;text game&rpar;](https://www.reddit.com/r/Python/comments/wqp1oe/desert_text_game/)
-- [Defining tuple with a single element](https://www.reddit.com/r/Python/comments/wqml3n/defining_tuple_with_a_single_element/)
 - [Best Beginner Course?](https://www.reddit.com/r/Python/comments/wqmc7c/best_beginner_course/)
-- [Kubeflow Update &amp; Demo](https://www.reddit.com/r/Python/comments/wqk0fd/kubeflow_update_demo/)
+- [Java gets DESTROYED by Python &lpar;or why I stopped worrying and only use Python&rpar;](https://www.reddit.com/r/Python/comments/wqi55g/java_gets_destroyed_by_python_or_why_i_stopped/)
 <!-- BLOG-POST-LIST:END -->
