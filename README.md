@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python as first language...](https://www.reddit.com/r/Python/comments/wqhj02/python_as_first_language/)
+- [Traps for the Unwary in Python&#39;s Import System](https://www.reddit.com/r/Python/comments/wqhid6/traps_for_the_unwary_in_pythons_import_system/)
 - [Weekend project: sortxml, a simple XML element sorter](https://www.reddit.com/r/Python/comments/wqay0g/weekend_project_sortxml_a_simple_xml_element/)
 - [M and N switcher](https://www.reddit.com/r/Python/comments/wqagz8/m_and_n_switcher/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/wq9rnx/wednesday_daily_thread_beginner_questions/)
-- [what&#39;s a good documentation platform that you guys would recommend?](https://www.reddit.com/r/Python/comments/wq6tlc/whats_a_good_documentation_platform_that_you_guys/)
-- [GitHub Copilot: Fly With Python at the Speed of Thought – Real Python](https://www.reddit.com/r/Python/comments/wq42f1/github_copilot_fly_with_python_at_the_speed_of/)
 <!-- BLOG-POST-LIST:END -->
