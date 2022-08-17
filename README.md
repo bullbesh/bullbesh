@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Desert &lpar;text game&rpar;](https://www.reddit.com/r/Python/comments/wqp1oe/desert_text_game/)
 - [How to achieve Python PCAP Certification: Resources and Tips For Success](https://www.reddit.com/r/Python/comments/wqmnr9/how_to_achieve_python_pcap_certification/)
 - [Defining tuple with a single element](https://www.reddit.com/r/Python/comments/wqml3n/defining_tuple_with_a_single_element/)
 - [Best Beginner Course?](https://www.reddit.com/r/Python/comments/wqmc7c/best_beginner_course/)
-- [Riddle](https://www.reddit.com/r/Python/comments/wqm8jn/riddle/)
 - [Kubeflow Update &amp; Demo](https://www.reddit.com/r/Python/comments/wqk0fd/kubeflow_update_demo/)
 <!-- BLOG-POST-LIST:END -->
