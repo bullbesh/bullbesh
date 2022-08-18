@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [A Spreadsheet that Writes Python as you Edit it](https://www.reddit.com/r/Python/comments/wr1teq/a_spreadsheet_that_writes_python_as_you_edit_it/)
-- [tsk: A task manager CLI](https://www.reddit.com/r/Python/comments/wqzwis/tsk_a_task_manager_cli/)
-- [Tcfig: Transfer your Traefik rules to Cloudflare DNS](https://www.reddit.com/r/Python/comments/wqxbgf/tcfig_transfer_your_traefik_rules_to_cloudflare/)
-- [Understanding async Python for the web](https://www.reddit.com/r/Python/comments/wqwvi9/understanding_async_python_for_the_web/)
-- [I have developed Python library of TUI form elements](https://www.reddit.com/r/Python/comments/wqw043/i_have_developed_python_library_of_tui_form/)
+- [can i use python to click the my mouse when a portion of the computer screen flashes green](https://www.reddit.com/r/Python/comments/wr6tcj/can_i_use_python_to_click_the_my_mouse_when_a/)
+- [I made a reddit account generator.](https://www.reddit.com/r/Python/comments/wr6t8o/i_made_a_reddit_account_generator/)
+- [Do third party compilers not work with 3.10?](https://www.reddit.com/r/Python/comments/wr644e/do_third_party_compilers_not_work_with_310/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/wr48q2/thursday_daily_thread_python_careers_courses_and/)
+- [How private is your private browsing tab with Flask Session?](https://www.reddit.com/r/Python/comments/wr3qww/how_private_is_your_private_browsing_tab_with/)
 <!-- BLOG-POST-LIST:END -->
