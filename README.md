@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Python for cyber security.](https://www.reddit.com/r/Python/comments/wrq3vr/using_python_for_cyber_security/)
+- [FastAPI Best Practices](https://www.reddit.com/r/Python/comments/wrt7om/fastapi_best_practices/)
+- [Working with a Selenium Python code base to access email](https://www.reddit.com/r/Python/comments/wrshvi/working_with_a_selenium_python_code_base_to/)
 - [[HTag+Matplotlib] Using htag to create a **matplotlib** app for desktop, web or mobile ...](https://www.reddit.com/r/Python/comments/wrmmwf/htagmatplotlib_using_htag_to_create_a_matplotlib/)
 - [ibis-datasette: Query datasette servers without writing a line of SQL](https://www.reddit.com/r/Python/comments/wrm8m6/ibisdatasette_query_datasette_servers_without/)
 - [IT security and malwares](https://www.reddit.com/r/Python/comments/wrm23g/it_security_and_malwares/)
-- [Invasive procedures: Python affordances for performance measurement](https://www.reddit.com/r/Python/comments/wrlu2h/invasive_procedures_python_affordances_for/)
 <!-- BLOG-POST-LIST:END -->
