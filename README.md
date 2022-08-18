@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Counter-Strike: Global Offensive &lpar;CSGO&rpar; players here?](https://www.reddit.com/r/Python/comments/wrqky7/counterstrike_global_offensive_csgo_players_here/)
 - [Using Python for cyber security.](https://www.reddit.com/r/Python/comments/wrq3vr/using_python_for_cyber_security/)
-- [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing](https://www.reddit.com/r/Python/comments/wrpaq9/heres_a_playlist_of_7_hours_of_music_i_use_to/)
-- [Does anyone know where I can find a list/dictionaries containing every country in the world and their respective neighbouring countries?](https://www.reddit.com/r/Python/comments/wrnxfk/does_anyone_know_where_i_can_find_a/)
 - [[HTag+Matplotlib] Using htag to create a **matplotlib** app for desktop, web or mobile ...](https://www.reddit.com/r/Python/comments/wrmmwf/htagmatplotlib_using_htag_to_create_a_matplotlib/)
+- [ibis-datasette: Query datasette servers without writing a line of SQL](https://www.reddit.com/r/Python/comments/wrm8m6/ibisdatasette_query_datasette_servers_without/)
+- [IT security and malwares](https://www.reddit.com/r/Python/comments/wrm23g/it_security_and_malwares/)
+- [Invasive procedures: Python affordances for performance measurement](https://www.reddit.com/r/Python/comments/wrlu2h/invasive_procedures_python_affordances_for/)
 <!-- BLOG-POST-LIST:END -->
