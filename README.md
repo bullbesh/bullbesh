@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stringyie | Python module to make using strings a breeze](https://www.reddit.com/r/Python/comments/wrfq5l/stringyie_python_module_to_make_using_strings_a/)
+- [My firs project in python TextEditor used Tkinter](https://www.reddit.com/r/Python/comments/wrfmtu/my_firs_project_in_python_texteditor_used_tkinter/)
+- [I created an AI in Python that can beat the first level of OverCooked 2](https://www.reddit.com/r/Python/comments/wrfjjc/i_created_an_ai_in_python_that_can_beat_the_first/)
 - [The new ASCII art/text mode editor, written in Python 3.10](https://www.reddit.com/r/Python/comments/wresbj/the_new_ascii_arttext_mode_editor_written_in/)
 - [Implementing DBSCAN in Python](https://www.reddit.com/r/Python/comments/wrb943/implementing_dbscan_in_python/)
-- [[OCR]A new OCR tool with better text recognition for documents and cards.](https://www.reddit.com/r/Python/comments/wr8f5u/ocra_new_ocr_tool_with_better_text_recognition/)
-- [Made a simple unit converter app - currently only has temperature conversions.](https://www.reddit.com/r/Python/comments/wr7jv2/made_a_simple_unit_converter_app_currently_only/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/wr48q2/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
