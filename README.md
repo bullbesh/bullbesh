@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does anyone know where I can find a list/dictionaries containing every country in the world and their respective neighbouring countries?](https://www.reddit.com/r/Python/comments/wrnxfk/does_anyone_know_where_i_can_find_a/)
 - [[HTag+Matplotlib] Using htag to create a **matplotlib** app for desktop, web or mobile ...](https://www.reddit.com/r/Python/comments/wrmmwf/htagmatplotlib_using_htag_to_create_a_matplotlib/)
 - [ibis-datasette: Query datasette servers without writing a line of SQL](https://www.reddit.com/r/Python/comments/wrm8m6/ibisdatasette_query_datasette_servers_without/)
 - [IT security and malwares](https://www.reddit.com/r/Python/comments/wrm23g/it_security_and_malwares/)
 - [Invasive procedures: Python affordances for performance measurement](https://www.reddit.com/r/Python/comments/wrlu2h/invasive_procedures_python_affordances_for/)
-- [python-lambda-calculus: Lambda Calculus things implemented on Python](https://www.reddit.com/r/Python/comments/wrltq6/pythonlambdacalculus_lambda_calculus_things/)
 <!-- BLOG-POST-LIST:END -->
