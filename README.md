@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyTorch or TensorFlow](https://www.reddit.com/r/Python/comments/wsddrc/pytorch_or_tensorflow/)
 - [I have installed &quot;pyinputplus&quot; module which is a third party module.But i am getting error while : importing it to the program. What are the possible reasons for the error?](https://www.reddit.com/r/Python/comments/wscad9/i_have_installed_pyinputplus_module_which_is_a/)
 - [Python and JavaScript](https://www.reddit.com/r/Python/comments/wsb57r/python_and_javascript/)
 - [Accelerate Python code 100x by import taichi as ti](https://www.reddit.com/r/Python/comments/wsb0rv/accelerate_python_code_100x_by_import_taichi_as_ti/)
 - [Automation](https://www.reddit.com/r/Python/comments/wsaxt4/automation/)
-- [Auto-download YouTube Videos using Python Step by Step](https://www.reddit.com/r/Python/comments/ws98e9/autodownload_youtube_videos_using_python_step_by/)
 <!-- BLOG-POST-LIST:END -->
