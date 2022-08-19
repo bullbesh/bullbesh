@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [use a setattr&lpar;&rpar; to instantiate a descriptor](https://www.reddit.com/r/Python/comments/ws0ted/use_a_setattr_to_instantiate_a_descriptor/)
 - [easybash](https://www.reddit.com/r/Python/comments/wruo2d/easybash/)
 - [&#39;object&#39; class documentation in python.](https://www.reddit.com/r/Python/comments/wruhnp/object_class_documentation_in_python/)
 - [Yet another command line tool: clidantic, typed CLIs with click and pydantic](https://www.reddit.com/r/Python/comments/wru6gb/yet_another_command_line_tool_clidantic_typed/)
 - [FastAPI Best Practices](https://www.reddit.com/r/Python/comments/wrt7om/fastapi_best_practices/)
-- [[HTag+Matplotlib] Using htag to create a **matplotlib** app for desktop, web or mobile ...](https://www.reddit.com/r/Python/comments/wrmmwf/htagmatplotlib_using_htag_to_create_a_matplotlib/)
 <!-- BLOG-POST-LIST:END -->
