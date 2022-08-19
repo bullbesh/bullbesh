@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Automatic Car Plate Detection and Censoring](https://www.reddit.com/r/Python/comments/wsgna2/automatic_car_plate_detection_and_censoring/)
-- [Building a App for Stable Diffusion: Text to Image generation in Python](https://www.reddit.com/r/Python/comments/wsgbxd/building_a_app_for_stable_diffusion_text_to_image/)
-- [any ideas how to merge python and medicine&lpar;MD&rpar;? :D](https://www.reddit.com/r/Python/comments/wsgaj3/any_ideas_how_to_merge_python_and_medicinemd_d/)
-- [game idea in python](https://www.reddit.com/r/Python/comments/wsf7ye/game_idea_in_python/)
-- [PyTorch or TensorFlow](https://www.reddit.com/r/Python/comments/wsddrc/pytorch_or_tensorflow/)
+- [how do you host a python webpage](https://www.reddit.com/r/Python/comments/wsifnp/how_do_you_host_a_python_webpage/)
+- [New python module for easier functional programming, FunkyPy](https://www.reddit.com/r/Python/comments/wsi9ao/new_python_module_for_easier_functional/)
+- [Complete guide to python testing frameworks](https://www.reddit.com/r/Python/comments/wsi44w/complete_guide_to_python_testing_frameworks/)
+- [I built my first game with Python - Guess the Dog](https://www.reddit.com/r/Python/comments/wshtiv/i_built_my_first_game_with_python_guess_the_dog/)
+- [Today is CircuitPython Day. Write and Run Python on Microcontrollers and Celebrate the Day!](https://www.reddit.com/r/Python/comments/wshrle/today_is_circuitpython_day_write_and_run_python/)
 <!-- BLOG-POST-LIST:END -->
