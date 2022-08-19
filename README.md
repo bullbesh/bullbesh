@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python and JavaScript](https://www.reddit.com/r/Python/comments/wsb57r/python_and_javascript/)
+- [Accelerate Python code 100x by import taichi as ti](https://www.reddit.com/r/Python/comments/wsb0rv/accelerate_python_code_100x_by_import_taichi_as_ti/)
+- [Automation](https://www.reddit.com/r/Python/comments/wsaxt4/automation/)
 - [Auto-download YouTube Videos using Python Step by Step](https://www.reddit.com/r/Python/comments/ws98e9/autodownload_youtube_videos_using_python_step_by/)
 - [How to Debug Your Python Code Properly by Using Visual Studio Community 2022 - Python Debugging](https://www.reddit.com/r/Python/comments/ws8gx5/how_to_debug_your_python_code_properly_by_using/)
-- [Play T-Rex game by hand gestures and AI. &lpar;Czech video&rpar;](https://www.reddit.com/r/Python/comments/ws7wuz/play_trex_game_by_hand_gestures_and_ai_czech_video/)
-- [Run Selenium with Python via Github Actions using Headless or Non-Headless browsers!](https://www.reddit.com/r/Python/comments/ws7i0k/run_selenium_with_python_via_github_actions_using/)
-- [Backend software engineer vs data engineer vs machine learning vs cybersecurity?](https://www.reddit.com/r/Python/comments/ws49rt/backend_software_engineer_vs_data_engineer_vs/)
 <!-- BLOG-POST-LIST:END -->
