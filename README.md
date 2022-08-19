@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cool scripts that help you with your daily life](https://www.reddit.com/r/Python/comments/wsp4bn/cool_scripts_that_help_you_with_your_daily_life/)
+- [Streamlit User and API Authentication with Auth0 Next.js SDK](https://www.reddit.com/r/Python/comments/wsos1n/streamlit_user_and_api_authentication_with_auth0/)
 - [Is anyone here using Python to automate a business?](https://www.reddit.com/r/Python/comments/wsjkms/is_anyone_here_using_python_to_automate_a_business/)
 - [Machine Learning for Finance](https://www.reddit.com/r/Python/comments/wsjeb6/machine_learning_for_finance/)
 - [New python module for easier functional programming, FunkyPy](https://www.reddit.com/r/Python/comments/wsi9ao/new_python_module_for_easier_functional/)
-- [Complete guide to python testing frameworks](https://www.reddit.com/r/Python/comments/wsi44w/complete_guide_to_python_testing_frameworks/)
-- [I built my first game with Python - Guess the Dog](https://www.reddit.com/r/Python/comments/wshtiv/i_built_my_first_game_with_python_guess_the_dog/)
 <!-- BLOG-POST-LIST:END -->
