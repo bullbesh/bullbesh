@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [how do you host a python webpage](https://www.reddit.com/r/Python/comments/wsifnp/how_do_you_host_a_python_webpage/)
+- [Is anyone here using Python to automate a business?](https://www.reddit.com/r/Python/comments/wsjkms/is_anyone_here_using_python_to_automate_a_business/)
+- [Machine Learning for Finance](https://www.reddit.com/r/Python/comments/wsjeb6/machine_learning_for_finance/)
 - [New python module for easier functional programming, FunkyPy](https://www.reddit.com/r/Python/comments/wsi9ao/new_python_module_for_easier_functional/)
 - [Complete guide to python testing frameworks](https://www.reddit.com/r/Python/comments/wsi44w/complete_guide_to_python_testing_frameworks/)
 - [I built my first game with Python - Guess the Dog](https://www.reddit.com/r/Python/comments/wshtiv/i_built_my_first_game_with_python_guess_the_dog/)
-- [Today is CircuitPython Day. Write and Run Python on Microcontrollers and Celebrate the Day!](https://www.reddit.com/r/Python/comments/wshrle/today_is_circuitpython_day_write_and_run_python/)
 <!-- BLOG-POST-LIST:END -->
