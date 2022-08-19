@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Run Selenium with Python via Github Actions using Headless or Non-Headless browsers!](https://www.reddit.com/r/Python/comments/ws7i0k/run_selenium_with_python_via_github_actions_using/)
 - [Backend software engineer vs data engineer vs machine learning vs cybersecurity?](https://www.reddit.com/r/Python/comments/ws49rt/backend_software_engineer_vs_data_engineer_vs/)
 - [Leaner and faster lru-caches in Python](https://www.reddit.com/r/Python/comments/ws29gm/leaner_and_faster_lrucaches_in_python/)
 - [easybash](https://www.reddit.com/r/Python/comments/wruo2d/easybash/)
 - [&#39;object&#39; class documentation in python.](https://www.reddit.com/r/Python/comments/wruhnp/object_class_documentation_in_python/)
-- [Yet another command line tool: clidantic, typed CLIs with click and pydantic](https://www.reddit.com/r/Python/comments/wru6gb/yet_another_command_line_tool_clidantic_typed/)
 <!-- BLOG-POST-LIST:END -->
