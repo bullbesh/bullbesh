@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Extensions for Sioyek PDF Viewer](https://www.reddit.com/r/Python/comments/wtby0a/python_extensions_for_sioyek_pdf_viewer/)
+- [Amersham | Argument Parser](https://www.reddit.com/r/Python/comments/wtbpan/amersham_argument_parser/)
+- [Why can&#39;t the button be clicked &lpar;it was working yesterday, not working today&rpar;? - Selenium](https://www.reddit.com/r/Python/comments/wtbd30/why_cant_the_button_be_clicked_it_was_working/)
 - [Requesting help with pythonscript in ArcGIS](https://www.reddit.com/r/Python/comments/wt8u3s/requesting_help_with_pythonscript_in_arcgis/)
 - [FREE RESOURCE: Master Python Fundamentals The Ultimate Guide for Beginners](https://www.reddit.com/r/Python/comments/wt8s9b/free_resource_master_python_fundamentals_the/)
-- [I made a bot that learns songs using online tutorials and generates videos of me playing guitar !](https://www.reddit.com/r/Python/comments/wt8iad/i_made_a_bot_that_learns_songs_using_online/)
-- [How to Find an Absolute Value in Python – Real Python](https://www.reddit.com/r/Python/comments/wt72ar/how_to_find_an_absolute_value_in_python_real/)
-- [Can you guess the right answer?](https://www.reddit.com/r/Python/comments/wt6vg0/can_you_guess_the_right_answer/)
 <!-- BLOG-POST-LIST:END -->
