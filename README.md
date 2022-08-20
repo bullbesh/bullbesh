@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [conditions in python](https://www.reddit.com/r/Python/comments/wszoaa/conditions_in_python/)
 - [What task could a human complete but an but AI couldn’t complete?](https://www.reddit.com/r/Python/comments/wsx0cq/what_task_could_a_human_complete_but_an_but_ai/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/wssw9s/saturday_daily_thread_resource_request_and/)
 - [Where do you save code snippets to reuse them later in other applications?](https://www.reddit.com/r/Python/comments/wss8os/where_do_you_save_code_snippets_to_reuse_them/)
 - [Is there any way I can run multiprocessing from inside a function?](https://www.reddit.com/r/Python/comments/wsqyhg/is_there_any_way_i_can_run_multiprocessing_from/)
-- [Cool scripts that help you with your daily life](https://www.reddit.com/r/Python/comments/wsp4bn/cool_scripts_that_help_you_with_your_daily_life/)
 <!-- BLOG-POST-LIST:END -->
