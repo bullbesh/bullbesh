@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What to focus on for Python skills in SysAdmin/CloudEngineer/Devops ?](https://www.reddit.com/r/Python/comments/wtixbz/what_to_focus_on_for_python_skills_in/)
+- [After 3 days I have finally finished creating this procedural terrain island generator. It&#39;s very epic to say the least.](https://www.reddit.com/r/Python/comments/wtij2y/after_3_days_i_have_finally_finished_creating/)
+- [ConnectionResetError&lpar;10054, &#39;An existing connection was forcibly closed by the remote host&#39;, None, 10054, None&rpar;&rpar;](https://www.reddit.com/r/Python/comments/wti4kl/connectionreseterror10054_an_existing_connection/)
 - [Account generation](https://www.reddit.com/r/Python/comments/wtheu9/account_generation/)
 - [How can I sign in users to a 3rd party website by allowing users to sign in on my website?](https://www.reddit.com/r/Python/comments/wtgg2d/how_can_i_sign_in_users_to_a_3rd_party_website_by/)
-- [GitHub - jina-ai/jina-video-chat Jina-powered multi-user video chat in 20 lines of code](https://www.reddit.com/r/Python/comments/wtdu4n/github_jinaaijinavideochat_jinapowered_multiuser/)
-- [Python Extensions for Sioyek PDF Viewer](https://www.reddit.com/r/Python/comments/wtby0a/python_extensions_for_sioyek_pdf_viewer/)
-- [Amersham | Argument Parser](https://www.reddit.com/r/Python/comments/wtbpan/amersham_argument_parser/)
 <!-- BLOG-POST-LIST:END -->
