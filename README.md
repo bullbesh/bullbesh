@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Find an Absolute Value in Python – Real Python](https://www.reddit.com/r/Python/comments/wt72ar/how_to_find_an_absolute_value_in_python_real/)
+- [Can you guess the right answer?](https://www.reddit.com/r/Python/comments/wt6vg0/can_you_guess_the_right_answer/)
+- [Tutorial on Adding a column in Python](https://www.reddit.com/r/Python/comments/wt6pwo/tutorial_on_adding_a_column_in_python/)
+- [Simulation of the evolution of life in a pond](https://www.reddit.com/r/Python/comments/wt64tb/simulation_of_the_evolution_of_life_in_a_pond/)
 - [Is adding logging to a library good design?](https://www.reddit.com/r/Python/comments/wt6325/is_adding_logging_to_a_library_good_design/)
-- [Why do so many posters in this sub ask &quot;how can I use Python to do X&quot;?](https://www.reddit.com/r/Python/comments/wt5452/why_do_so_many_posters_in_this_sub_ask_how_can_i/)
-- [Case Studies in Neural Data Analysis &lpar;companion&rpar;](https://www.reddit.com/r/Python/comments/wt510d/case_studies_in_neural_data_analysis_companion/)
-- [Speeding up randrange](https://www.reddit.com/r/Python/comments/wt4wjq/speeding_up_randrange/)
-- [Python Cybersecurity — Build your own python security tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/wt4sir/python_cybersecurity_build_your_own_python/)
 <!-- BLOG-POST-LIST:END -->
