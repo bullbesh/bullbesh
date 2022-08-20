@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Account generation](https://www.reddit.com/r/Python/comments/wtheu9/account_generation/)
 - [How can I sign in users to a 3rd party website by allowing users to sign in on my website?](https://www.reddit.com/r/Python/comments/wtgg2d/how_can_i_sign_in_users_to_a_3rd_party_website_by/)
 - [GitHub - jina-ai/jina-video-chat Jina-powered multi-user video chat in 20 lines of code](https://www.reddit.com/r/Python/comments/wtdu4n/github_jinaaijinavideochat_jinapowered_multiuser/)
 - [Python Extensions for Sioyek PDF Viewer](https://www.reddit.com/r/Python/comments/wtby0a/python_extensions_for_sioyek_pdf_viewer/)
 - [Amersham | Argument Parser](https://www.reddit.com/r/Python/comments/wtbpan/amersham_argument_parser/)
-- [Requesting help with pythonscript in ArcGIS](https://www.reddit.com/r/Python/comments/wt8u3s/requesting_help_with_pythonscript_in_arcgis/)
 <!-- BLOG-POST-LIST:END -->
