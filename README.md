@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - jina-ai/jina-video-chat Jina-powered multi-user video chat in 20 lines of code](https://www.reddit.com/r/Python/comments/wtdu4n/github_jinaaijinavideochat_jinapowered_multiuser/)
 - [Python Extensions for Sioyek PDF Viewer](https://www.reddit.com/r/Python/comments/wtby0a/python_extensions_for_sioyek_pdf_viewer/)
 - [Amersham | Argument Parser](https://www.reddit.com/r/Python/comments/wtbpan/amersham_argument_parser/)
 - [Why can&#39;t the button be clicked &lpar;it was working yesterday, not working today&rpar;? - Selenium](https://www.reddit.com/r/Python/comments/wtbd30/why_cant_the_button_be_clicked_it_was_working/)
 - [Requesting help with pythonscript in ArcGIS](https://www.reddit.com/r/Python/comments/wt8u3s/requesting_help_with_pythonscript_in_arcgis/)
-- [FREE RESOURCE: Master Python Fundamentals The Ultimate Guide for Beginners](https://www.reddit.com/r/Python/comments/wt8s9b/free_resource_master_python_fundamentals_the/)
 <!-- BLOG-POST-LIST:END -->
