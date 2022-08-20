@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create an AI-Assisted Search Engine with Python and txtai](https://www.reddit.com/r/Python/comments/wt4lbg/how_to_create_an_aiassisted_search_engine_with/)
-- [Hundreds of PyPI and npm Packages Affected With Cryptominers](https://www.reddit.com/r/Python/comments/wt1ilg/hundreds_of_pypi_and_npm_packages_affected_with/)
-- [conditions in python](https://www.reddit.com/r/Python/comments/wszoaa/conditions_in_python/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/wssw9s/saturday_daily_thread_resource_request_and/)
-- [Where do you save code snippets to reuse them later in other applications?](https://www.reddit.com/r/Python/comments/wss8os/where_do_you_save_code_snippets_to_reuse_them/)
+- [Is adding logging to a library good design?](https://www.reddit.com/r/Python/comments/wt6325/is_adding_logging_to_a_library_good_design/)
+- [Why do so many posters in this sub ask &quot;how can I use Python to do X&quot;?](https://www.reddit.com/r/Python/comments/wt5452/why_do_so_many_posters_in_this_sub_ask_how_can_i/)
+- [Case Studies in Neural Data Analysis &lpar;companion&rpar;](https://www.reddit.com/r/Python/comments/wt510d/case_studies_in_neural_data_analysis_companion/)
+- [Speeding up randrange](https://www.reddit.com/r/Python/comments/wt4wjq/speeding_up_randrange/)
+- [Python Cybersecurity — Build your own python security tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/wt4sir/python_cybersecurity_build_your_own_python/)
 <!-- BLOG-POST-LIST:END -->
