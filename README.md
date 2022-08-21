@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Python to generate over 10,000 unique 8-bit lightsabers](https://www.reddit.com/r/Python/comments/wu1x66/using_python_to_generate_over_10000_unique_8bit/)
+- [Good starter project?](https://www.reddit.com/r/Python/comments/wu1jet/good_starter_project/)
+- [Offline Reverse Image Search](https://www.reddit.com/r/Python/comments/wu1flv/offline_reverse_image_search/)
 - [math game](https://www.reddit.com/r/Python/comments/wu0nw0/math_game/)
 - [Web Data Extraction Summit 2022](https://www.reddit.com/r/Python/comments/wtz2lg/web_data_extraction_summit_2022/)
-- [I made a simple discord bot that can store and show inputted events](https://www.reddit.com/r/Python/comments/wtwziy/i_made_a_simple_discord_bot_that_can_store_and/)
-- [I have two keys for Pycharm Professional - 2-month subscription](https://www.reddit.com/r/Python/comments/wtwl3s/i_have_two_keys_for_pycharm_professional_2month/)
-- [Marketing Campaign Analysis with Python | Linear Regression and Correlation](https://www.reddit.com/r/Python/comments/wtwem4/marketing_campaign_analysis_with_python_linear/)
 <!-- BLOG-POST-LIST:END -->
