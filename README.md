@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [If,Else,Elif](https://www.reddit.com/r/Python/comments/wttb82/ifelseelif/)
+- [qgrid - extension to display row count for EDA in Jupyter notebooks](https://www.reddit.com/r/Python/comments/wturu4/qgrid_extension_to_display_row_count_for_eda_in/)
 - [why when I search for Python jobs I find alot! but when I search for Django &lpar;the most used Python framework &rpar; I get few compared to spring or nodejs ?](https://www.reddit.com/r/Python/comments/wtsj7t/why_when_i_search_for_python_jobs_i_find_alot_but/)
 - [AmortaPy - Amortization calculations, schedules and visualisation in Python.](https://www.reddit.com/r/Python/comments/wtqxuh/amortapy_amortization_calculations_schedules_and/)
 - [Pretty decent gambling game](https://www.reddit.com/r/Python/comments/wtqck8/pretty_decent_gambling_game/)
