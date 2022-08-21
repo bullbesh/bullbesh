@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [math game](https://www.reddit.com/r/Python/comments/wu0nw0/math_game/)
 - [Web Data Extraction Summit 2022](https://www.reddit.com/r/Python/comments/wtz2lg/web_data_extraction_summit_2022/)
 - [I made a simple discord bot that can store and show inputted events](https://www.reddit.com/r/Python/comments/wtwziy/i_made_a_simple_discord_bot_that_can_store_and/)
 - [I have two keys for Pycharm Professional - 2-month subscription](https://www.reddit.com/r/Python/comments/wtwl3s/i_have_two_keys_for_pycharm_professional_2month/)
 - [Marketing Campaign Analysis with Python | Linear Regression and Correlation](https://www.reddit.com/r/Python/comments/wtwem4/marketing_campaign_analysis_with_python_linear/)
-- [What exactly is the difference between continue and pass function in python imma beginner and a bit confused in it](https://www.reddit.com/r/Python/comments/wtw1pp/what_exactly_is_the_difference_between_continue/)
 <!-- BLOG-POST-LIST:END -->
