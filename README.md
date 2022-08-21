@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AmortaPy - Amortization calculations, schedules and visualisation in Python.](https://www.reddit.com/r/Python/comments/wtqxuh/amortapy_amortization_calculations_schedules_and/)
 - [Pretty decent gambling game](https://www.reddit.com/r/Python/comments/wtqck8/pretty_decent_gambling_game/)
 - [A python &quot;review&quot;](https://www.reddit.com/r/Python/comments/wtq5ye/a_python_review/)
 - [DEEP LEARNING/MACHINE LEARNING RESOURCE](https://www.reddit.com/r/Python/comments/wtotvb/deep_learningmachine_learning_resource/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/wtl976/sunday_daily_thread_whats_everyone_working_on/)
-- [I created a multilingual voice assistant for programming assistance](https://www.reddit.com/r/Python/comments/wtk33k/i_created_a_multilingual_voice_assistant_for/)
 <!-- BLOG-POST-LIST:END -->
