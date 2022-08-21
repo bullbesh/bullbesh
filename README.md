@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [a twitter bot and flask app to save your tweets!](https://www.reddit.com/r/Python/comments/wu6eq4/a_twitter_bot_and_flask_app_to_save_your_tweets/)
 - [Which online platform is best for machine learning?](https://www.reddit.com/r/Python/comments/wu3u1t/which_online_platform_is_best_for_machine_learning/)
 - [I explained and implemented the dichotomy in python.](https://www.reddit.com/r/Python/comments/wu3sie/i_explained_and_implemented_the_dichotomy_in/)
-- [Tensorflow](https://www.reddit.com/r/Python/comments/wu3hfs/tensorflow/)
 - [I made python code that generates beautiful images of your source code](https://www.reddit.com/r/Python/comments/wu3coa/i_made_python_code_that_generates_beautiful/)
 - [MVPy: Minimum Viable Python](https://www.reddit.com/r/Python/comments/wu2r21/mvpy_minimum_viable_python/)
 <!-- BLOG-POST-LIST:END -->
