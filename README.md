@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Deploy Streamlit Webapp To Heroku - Complete Guide](https://www.reddit.com/r/Python/comments/wusexn/how_to_deploy_streamlit_webapp_to_heroku_complete/)
+- [How to Scrape Twitter Data for Sentiment Analysis with Python and Power BI](https://www.reddit.com/r/Python/comments/wurz9d/how_to_scrape_twitter_data_for_sentiment_analysis/)
 - [Helpful for gcse/igcse students](https://www.reddit.com/r/Python/comments/wuqrvu/helpful_for_gcseigcse_students/)
 - [Send Direct Message on Slack with Api](https://www.reddit.com/r/Python/comments/wuq24f/send_direct_message_on_slack_with_api/)
 - [Do you need GUI Automation? Do many situations demand it, or just tests?](https://www.reddit.com/r/Python/comments/wuq01n/do_you_need_gui_automation_do_many_situations/)
-- [Functional Programming in Python?](https://www.reddit.com/r/Python/comments/wups9p/functional_programming_in_python/)
-- [urgent question](https://www.reddit.com/r/Python/comments/wup5um/urgent_question/)
 <!-- BLOG-POST-LIST:END -->
