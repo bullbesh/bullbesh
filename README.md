@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hey i want to make one program where i want to calculate in continuous how many day did nifty made green candle can anybody help me how to do it ?](https://www.reddit.com/r/Python/comments/wv23x6/hey_i_want_to_make_one_program_where_i_want_to/)
+- [ASCII Miner - mining game made in Python](https://www.reddit.com/r/Python/comments/wv23k3/ascii_miner_mining_game_made_in_python/)
+- [Lingua 1.1.0 - The most accurate natural language detection library for Python](https://www.reddit.com/r/Python/comments/wv1cc8/lingua_110_the_most_accurate_natural_language/)
 - [Microsoft&#39;s Artificial Intelligence for Beginners [Python/Jupyter/Tensorflow/Pythorch]](https://www.reddit.com/r/Python/comments/wv0v6p/microsofts_artificial_intelligence_for_beginners/)
 - [Automatic Birthday mail sending with Python](https://www.reddit.com/r/Python/comments/wuzxz1/automatic_birthday_mail_sending_with_python/)
-- [[Launch] Memory Vault -- The Ultimate Note Taking Bot](https://www.reddit.com/r/Python/comments/wuz4zn/launch_memory_vault_the_ultimate_note_taking_bot/)
-- [PyPi Malware Detection: Stealing Discord Tokens to Spread Malware](https://www.reddit.com/r/Python/comments/wuyboz/pypi_malware_detection_stealing_discord_tokens_to/)
-- [match operator ~10x slower for dictionaries than ifs?](https://www.reddit.com/r/Python/comments/wuxq5t/match_operator_10x_slower_for_dictionaries_than/)
 <!-- BLOG-POST-LIST:END -->
