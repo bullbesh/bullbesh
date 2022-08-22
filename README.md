@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The free weekly electronic Python on Microcontrollers Newsletter](https://www.reddit.com/r/Python/comments/wuu088/the_free_weekly_electronic_python_on/)
+- [Match lines from text file using specific keywords](https://www.reddit.com/r/Python/comments/wute8b/match_lines_from_text_file_using_specific_keywords/)
+- [The Complete Guide to Scraping Amazon Product Data using Python](https://www.reddit.com/r/Python/comments/wuta4u/the_complete_guide_to_scraping_amazon_product/)
 - [How To Deploy Streamlit Webapp To Heroku - Complete Guide](https://www.reddit.com/r/Python/comments/wusexn/how_to_deploy_streamlit_webapp_to_heroku_complete/)
 - [How to Scrape Twitter Data for Sentiment Analysis with Python and Power BI](https://www.reddit.com/r/Python/comments/wurz9d/how_to_scrape_twitter_data_for_sentiment_analysis/)
-- [Helpful for gcse/igcse students](https://www.reddit.com/r/Python/comments/wuqrvu/helpful_for_gcseigcse_students/)
-- [Send Direct Message on Slack with Api](https://www.reddit.com/r/Python/comments/wuq24f/send_direct_message_on_slack_with_api/)
-- [Do you need GUI Automation? Do many situations demand it, or just tests?](https://www.reddit.com/r/Python/comments/wuq01n/do_you_need_gui_automation_do_many_situations/)
 <!-- BLOG-POST-LIST:END -->
