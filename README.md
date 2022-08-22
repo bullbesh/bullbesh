@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft&#39;s Artificial Intelligence for Beginners [Python/Jupyter/Tensorflow/Pythorch]](https://www.reddit.com/r/Python/comments/wv0v6p/microsofts_artificial_intelligence_for_beginners/)
+- [Automatic Birthday mail sending with Python](https://www.reddit.com/r/Python/comments/wuzxz1/automatic_birthday_mail_sending_with_python/)
 - [[Launch] Memory Vault -- The Ultimate Note Taking Bot](https://www.reddit.com/r/Python/comments/wuz4zn/launch_memory_vault_the_ultimate_note_taking_bot/)
 - [PyPi Malware Detection: Stealing Discord Tokens to Spread Malware](https://www.reddit.com/r/Python/comments/wuyboz/pypi_malware_detection_stealing_discord_tokens_to/)
 - [match operator ~10x slower for dictionaries than ifs?](https://www.reddit.com/r/Python/comments/wuxq5t/match_operator_10x_slower_for_dictionaries_than/)
-- [Playing with shell scripting in Python, thoughts/](https://www.reddit.com/r/Python/comments/wuxlj0/playing_with_shell_scripting_in_python_thoughts/)
-- [If you don&#39;t like jupyter notebook but want to share code with notes -&gt; PyNote for rescue!](https://www.reddit.com/r/Python/comments/wux4q8/if_you_dont_like_jupyter_notebook_but_want_to/)
 <!-- BLOG-POST-LIST:END -->
