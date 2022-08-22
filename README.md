@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Functional Programming in Python?](https://www.reddit.com/r/Python/comments/wups9p/functional_programming_in_python/)
+- [urgent question](https://www.reddit.com/r/Python/comments/wup5um/urgent_question/)
+- [About a month ago I posted about PRegEx, an open-source project which I had started that you can use to build RegEx patterns programmatically, which the subreddit seem to like. This prompted me to keep working on it, and one month later, PRegEx v2.0.0 is out!](https://www.reddit.com/r/Python/comments/wup58e/about_a_month_ago_i_posted_about_pregex_an/)
+- [Top 10 Training Institutes in Indore](https://www.reddit.com/r/Python/comments/wup1dt/top_10_training_institutes_in_indore/)
 - [Unable to send Xml request](https://www.reddit.com/r/Python/comments/wuny5h/unable_to_send_xml_request/)
-- [Error: &#39;list&#39; object has no attribute &#39;get](https://www.reddit.com/r/Python/comments/wuns4l/error_list_object_has_no_attribute_get/)
-- [I tried to recreate a comic book using DALL-E and Alan Moore’s script](https://www.reddit.com/r/Python/comments/wumy0w/i_tried_to_recreate_a_comic_book_using_dalle_and/)
-- [How does the generator works ? memory wise .](https://www.reddit.com/r/Python/comments/wuml5y/how_does_the_generator_works_memory_wise/)
-- [How to Shortlist the Best Python Developer Resume?](https://www.reddit.com/r/Python/comments/wum4ap/how_to_shortlist_the_best_python_developer_resume/)
 <!-- BLOG-POST-LIST:END -->
