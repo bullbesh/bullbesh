@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [build a web demo for stable diffusion, text to image generation AI in Python](https://www.reddit.com/r/Python/comments/wv8im1/build_a_web_demo_for_stable_diffusion_text_to/)
 - [Python unit test resources...](https://www.reddit.com/r/Python/comments/wv4h14/python_unit_test_resources/)
 - [I reimplemented the range&lpar;&rpar; object in pure Python to show how magic methods work &lpar;YouTube&rpar;](https://www.reddit.com/r/Python/comments/wv3swx/i_reimplemented_the_range_object_in_pure_python/)
 - [Stuck in webscraping. I want to fetch data from network tab of Dev tools usinng python. Is there anyway to get the data or any function &lpar;please note the data is fetched into network tab&rpar;](https://www.reddit.com/r/Python/comments/wv3b82/stuck_in_webscraping_i_want_to_fetch_data_from/)
-- [Hey i want to make one program where i want to calculate in continuous how many day did nifty made green candle can anybody help me how to do it ?](https://www.reddit.com/r/Python/comments/wv23x6/hey_i_want_to_make_one_program_where_i_want_to/)
 - [ASCII Miner - mining game made in Python](https://www.reddit.com/r/Python/comments/wv23k3/ascii_miner_mining_game_made_in_python/)
 <!-- BLOG-POST-LIST:END -->
