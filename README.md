@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [wanting to learn python](https://www.reddit.com/r/Python/comments/wuwjzk/wanting_to_learn_python/)
+- [I created a Python-GUI based recorder and scheduler for zoom meetings](https://www.reddit.com/r/Python/comments/wuvkh9/i_created_a_pythongui_based_recorder_and/)
 - [The free weekly electronic Python on Microcontrollers Newsletter](https://www.reddit.com/r/Python/comments/wuu088/the_free_weekly_electronic_python_on/)
 - [Match lines from text file using specific keywords](https://www.reddit.com/r/Python/comments/wute8b/match_lines_from_text_file_using_specific_keywords/)
 - [The Complete Guide to Scraping Amazon Product Data using Python](https://www.reddit.com/r/Python/comments/wuta4u/the_complete_guide_to_scraping_amazon_product/)
-- [How To Deploy Streamlit Webapp To Heroku - Complete Guide](https://www.reddit.com/r/Python/comments/wusexn/how_to_deploy_streamlit_webapp_to_heroku_complete/)
-- [How to Scrape Twitter Data for Sentiment Analysis with Python and Power BI](https://www.reddit.com/r/Python/comments/wurz9d/how_to_scrape_twitter_data_for_sentiment_analysis/)
 <!-- BLOG-POST-LIST:END -->
