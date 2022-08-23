@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Multiple copies of the same package using virtual environments](https://www.reddit.com/r/Python/comments/wvx0tj/multiple_copies_of_the_same_package_using_virtual/)
 - [Django Rest Framework Throttling with API Key](https://www.reddit.com/r/Python/comments/wvw1ua/django_rest_framework_throttling_with_api_key/)
 - [One-Third of Popular PyPI Packages Mistakenly Flagged as Malicious](https://www.reddit.com/r/Python/comments/wvuev3/onethird_of_popular_pypi_packages_mistakenly/)
 - [Julia fractal generator](https://www.reddit.com/r/Python/comments/wvq7ve/julia_fractal_generator/)
 - [Examples of src directory with multiple subfolders](https://www.reddit.com/r/Python/comments/wvpq5a/examples_of_src_directory_with_multiple_subfolders/)
-- [Slipcover: Near Zero-Overhead Python Code Coverage](https://www.reddit.com/r/Python/comments/wvp7s4/slipcover_near_zerooverhead_python_code_coverage/)
 <!-- BLOG-POST-LIST:END -->
