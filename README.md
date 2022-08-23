@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Challenge Solution](https://www.reddit.com/r/Python/comments/wvgy9d/challenge_solution/)
+- [I am getting this error : &lpar;command &#39;python.execInTerminal-icon&#39; not found&rpar; again and again when i tried running my program. Any suggestions ?](https://www.reddit.com/r/Python/comments/wvgvmf/i_am_getting_this_error_command/)
 - [Write a single line of code to clean and process the data for analytics and machine learning tasks.](https://www.reddit.com/r/Python/comments/wvgnkm/write_a_single_line_of_code_to_clean_and_process/)
-- [Input python list in string and convert to integer in one line of code. &lpar;Welcome!!&rpar;](https://www.reddit.com/r/Python/comments/wvgeyk/input_python_list_in_string_and_convert_to/)
 - [Progress/ status check](https://www.reddit.com/r/Python/comments/wvdn7m/progress_status_check/)
 - [Python Audio Encryption](https://www.reddit.com/r/Python/comments/wvaxac/python_audio_encryption/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/wv9duj/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
