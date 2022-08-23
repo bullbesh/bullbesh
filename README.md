@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tips or comments to improve my mini project to store the books I read and the books I&#39;m reading](https://www.reddit.com/r/Python/comments/wvhjf4/tips_or_comments_to_improve_my_mini_project_to/)
+- [GitHub - jaredmauch/mailman2-python3: mailman2 ported for python3 ALPHA](https://www.reddit.com/r/Python/comments/wvhfsm/github_jaredmauchmailman2python3_mailman2_ported/)
 - [Challenge Solution](https://www.reddit.com/r/Python/comments/wvgy9d/challenge_solution/)
 - [I am getting this error : &lpar;command &#39;python.execInTerminal-icon&#39; not found&rpar; again and again when i tried running my program. Any suggestions ?](https://www.reddit.com/r/Python/comments/wvgvmf/i_am_getting_this_error_command/)
 - [Write a single line of code to clean and process the data for analytics and machine learning tasks.](https://www.reddit.com/r/Python/comments/wvgnkm/write_a_single_line_of_code_to_clean_and_process/)
-- [Progress/ status check](https://www.reddit.com/r/Python/comments/wvdn7m/progress_status_check/)
-- [Python Audio Encryption](https://www.reddit.com/r/Python/comments/wvaxac/python_audio_encryption/)
 <!-- BLOG-POST-LIST:END -->
