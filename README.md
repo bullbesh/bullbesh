@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter for Python Developers | Flet | Cross platform Development in Python](https://www.reddit.com/r/Python/comments/wvylon/flutter_for_python_developers_flet_cross_platform/)
 - [Multiple copies of the same package using virtual environments](https://www.reddit.com/r/Python/comments/wvx0tj/multiple_copies_of_the_same_package_using_virtual/)
 - [Django Rest Framework Throttling with API Key](https://www.reddit.com/r/Python/comments/wvw1ua/django_rest_framework_throttling_with_api_key/)
 - [One-Third of Popular PyPI Packages Mistakenly Flagged as Malicious](https://www.reddit.com/r/Python/comments/wvuev3/onethird_of_popular_pypi_packages_mistakenly/)
 - [Julia fractal generator](https://www.reddit.com/r/Python/comments/wvq7ve/julia_fractal_generator/)
-- [Examples of src directory with multiple subfolders](https://www.reddit.com/r/Python/comments/wvpq5a/examples_of_src_directory_with_multiple_subfolders/)
 <!-- BLOG-POST-LIST:END -->
