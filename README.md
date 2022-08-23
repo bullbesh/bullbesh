@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [full project tutorial](https://www.reddit.com/r/Python/comments/ww0inz/full_project_tutorial/)
+- [Trouble reading @ with python glob.glob&lpar;os.path.join](https://www.reddit.com/r/Python/comments/ww2kd7/trouble_reading_with_python_globglobospathjoin/)
 - [Text Classification Using Python and Scikit-learn](https://www.reddit.com/r/Python/comments/ww08bi/text_classification_using_python_and_scikitlearn/)
 - [Finished version of my first pygame project!](https://www.reddit.com/r/Python/comments/ww03bp/finished_version_of_my_first_pygame_project/)
 - [λ.__add__&lpar;:=&rpar;](https://www.reddit.com/r/Python/comments/wvz3k8/λ_add/)
