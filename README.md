@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Wanting to learn](https://www.reddit.com/r/Python/comments/wvc39c/wanting_to_learn/)
+- [Progress/ status check](https://www.reddit.com/r/Python/comments/wvdn7m/progress_status_check/)
 - [Python Audio Encryption](https://www.reddit.com/r/Python/comments/wvaxac/python_audio_encryption/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/wv9duj/tuesday_daily_thread_advanced_questions/)
 - [build a web demo for stable diffusion, text to image generation AI in Python](https://www.reddit.com/r/Python/comments/wv8im1/build_a_web_demo_for_stable_diffusion_text_to/)
