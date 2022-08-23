@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [full project tutorial](https://www.reddit.com/r/Python/comments/ww0inz/full_project_tutorial/)
 - [Text Classification Using Python and Scikit-learn](https://www.reddit.com/r/Python/comments/ww08bi/text_classification_using_python_and_scikitlearn/)
 - [Finished version of my first pygame project!](https://www.reddit.com/r/Python/comments/ww03bp/finished_version_of_my_first_pygame_project/)
 - [λ.__add__&lpar;:=&rpar;](https://www.reddit.com/r/Python/comments/wvz3k8/λ_add/)
 - [Flutter for Python Developers | Flet | Cross platform Development in Python](https://www.reddit.com/r/Python/comments/wvylon/flutter_for_python_developers_flet_cross_platform/)
-- [Multiple copies of the same package using virtual environments](https://www.reddit.com/r/Python/comments/wvx0tj/multiple_copies_of_the_same_package_using_virtual/)
 <!-- BLOG-POST-LIST:END -->
