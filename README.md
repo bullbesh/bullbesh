@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Convert Jupyter Notebook to Web App with YAML header and share with non-technical users](https://www.reddit.com/r/Python/comments/wvn2ul/convert_jupyter_notebook_to_web_app_with_yaml/)
+- [Temporal graph neural networks with PyTorch - How to create a simple recommendation engine](https://www.reddit.com/r/Python/comments/wvmkmm/temporal_graph_neural_networks_with_pytorch_how/)
 - [Where is Python 2 still used?](https://www.reddit.com/r/Python/comments/wvlnzf/where_is_python_2_still_used/)
 - [I created a file copier using PyQT5 to copy Mutiple files/folders to multiple locations](https://www.reddit.com/r/Python/comments/wvknk8/i_created_a_file_copier_using_pyqt5_to_copy/)
 - [Quart-DB 0.3.0 released](https://www.reddit.com/r/Python/comments/wvk5rx/quartdb_030_released/)
-- [Is python a good language for software development? If so, is it better for front end or back end?](https://www.reddit.com/r/Python/comments/wvjwfb/is_python_a_good_language_for_software/)
-- [Connect to a MySQL database in Python](https://www.reddit.com/r/Python/comments/wviqgo/connect_to_a_mysql_database_in_python/)
 <!-- BLOG-POST-LIST:END -->
