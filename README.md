@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Text Classification Using Python and Scikit-learn](https://www.reddit.com/r/Python/comments/ww08bi/text_classification_using_python_and_scikitlearn/)
+- [Finished version of my first pygame project!](https://www.reddit.com/r/Python/comments/ww03bp/finished_version_of_my_first_pygame_project/)
+- [λ.__add__&lpar;:=&rpar;](https://www.reddit.com/r/Python/comments/wvz3k8/λ_add/)
 - [Flutter for Python Developers | Flet | Cross platform Development in Python](https://www.reddit.com/r/Python/comments/wvylon/flutter_for_python_developers_flet_cross_platform/)
 - [Multiple copies of the same package using virtual environments](https://www.reddit.com/r/Python/comments/wvx0tj/multiple_copies_of_the_same_package_using_virtual/)
-- [Django Rest Framework Throttling with API Key](https://www.reddit.com/r/Python/comments/wvw1ua/django_rest_framework_throttling_with_api_key/)
-- [One-Third of Popular PyPI Packages Mistakenly Flagged as Malicious](https://www.reddit.com/r/Python/comments/wvuev3/onethird_of_popular_pypi_packages_mistakenly/)
-- [Julia fractal generator](https://www.reddit.com/r/Python/comments/wvq7ve/julia_fractal_generator/)
 <!-- BLOG-POST-LIST:END -->
