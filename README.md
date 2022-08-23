@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a file copier using PyQT5 to copy Mutiple files/folders to multiple locations](https://www.reddit.com/r/Python/comments/wvknk8/i_created_a_file_copier_using_pyqt5_to_copy/)
+- [Quart-DB 0.3.0 released](https://www.reddit.com/r/Python/comments/wvk5rx/quartdb_030_released/)
 - [Is python a good language for software development? If so, is it better for front end or back end?](https://www.reddit.com/r/Python/comments/wvjwfb/is_python_a_good_language_for_software/)
 - [Connect to a MySQL database in Python](https://www.reddit.com/r/Python/comments/wviqgo/connect_to_a_mysql_database_in_python/)
 - [Newbie](https://www.reddit.com/r/Python/comments/wviley/newbie/)
-- [Tips or comments to improve my mini project to store the books I read and the books I&#39;m reading](https://www.reddit.com/r/Python/comments/wvhjf4/tips_or_comments_to_improve_my_mini_project_to/)
-- [GitHub - jaredmauch/mailman2-python3: mailman2 ported for python3 ALPHA](https://www.reddit.com/r/Python/comments/wvhfsm/github_jaredmauchmailman2python3_mailman2_ported/)
 <!-- BLOG-POST-LIST:END -->
