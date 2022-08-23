@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Are functions really important](https://www.reddit.com/r/Python/comments/wvrhm4/are_functions_really_important/)
+- [searching for a broken links in many html files.](https://www.reddit.com/r/Python/comments/wvs0nt/searching_for_a_broken_links_in_many_html_files/)
 - [Julia fractal generator](https://www.reddit.com/r/Python/comments/wvq7ve/julia_fractal_generator/)
 - [Can we use machine learning to fine-tune CPU workers for queues based on length of the different queues ? Has anyone tried this before ?](https://www.reddit.com/r/Python/comments/wvq2h8/can_we_use_machine_learning_to_finetune_cpu/)
 - [Examples of src directory with multiple subfolders](https://www.reddit.com/r/Python/comments/wvpq5a/examples_of_src_directory_with_multiple_subfolders/)
