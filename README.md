@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [My clients like sending me spreadsheet &quot;databases&quot;, so I wrote a module to quickly cull them down to workable sizes.](https://www.reddit.com/r/Python/comments/wwrsad/my_clients_like_sending_me_spreadsheet_databases/)
-- [Phishing campaign targeting maintainer accounts on PyPI](https://www.reddit.com/r/Python/comments/wwql23/phishing_campaign_targeting_maintainer_accounts/)
-- [pyenv and Ubuntu 14.04](https://www.reddit.com/r/Python/comments/wwpzga/pyenv_and_ubuntu_1404/)
-- [Drag and drop GUIs project](https://www.reddit.com/r/Python/comments/wwpo44/drag_and_drop_guis_project/)
-- [QRCode Based Gui Payment system using python &lpar;obviously on local db file not on a payment gateway lol&rpar;](https://www.reddit.com/r/Python/comments/wwpk8h/qrcode_based_gui_payment_system_using_python/)
+- [Reduct Storage Python SDK v0.4.0 has been released](https://www.reddit.com/r/Python/comments/wwt1ql/reduct_storage_python_sdk_v040_has_been_released/)
+- [Text-based Adventure Game Engine](https://www.reddit.com/r/Python/comments/wwszs0/textbased_adventure_game_engine/)
+- [Quick intro to Dash Plotly](https://www.reddit.com/r/Python/comments/wwsz88/quick_intro_to_dash_plotly/)
+- [Machine Learning Projects for All Levels](https://www.reddit.com/r/Python/comments/wwsyb1/machine_learning_projects_for_all_levels/)
+- [How to return/review forgotten coding skills](https://www.reddit.com/r/Python/comments/wwsrz5/how_to_returnreview_forgotten_coding_skills/)
 <!-- BLOG-POST-LIST:END -->
