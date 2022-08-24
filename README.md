@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The ULTIMATE list of 100+ Python Security tools](https://www.reddit.com/r/Python/comments/wwvrro/the_ultimate_list_of_100_python_security_tools/)
+- [Climalearn - Easily understand the devastating affects of climate change](https://www.reddit.com/r/Python/comments/wwvoi1/climalearn_easily_understand_the_devastating/)
 - [First project using pandas](https://www.reddit.com/r/Python/comments/wwuww6/first_project_using_pandas/)
 - [Python - Newgrounds Audio Portal Interface](https://www.reddit.com/r/Python/comments/wwug1e/python_newgrounds_audio_portal_interface/)
 - [Reduct Storage Python SDK v0.4.0 has been released](https://www.reddit.com/r/Python/comments/wwt1ql/reduct_storage_python_sdk_v040_has_been_released/)
-- [Text-based Adventure Game Engine](https://www.reddit.com/r/Python/comments/wwszs0/textbased_adventure_game_engine/)
-- [Quick intro to Dash Plotly](https://www.reddit.com/r/Python/comments/wwsz88/quick_intro_to_dash_plotly/)
 <!-- BLOG-POST-LIST:END -->
