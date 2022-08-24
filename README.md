@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [killing atom editor makes me sad](https://www.reddit.com/r/Python/comments/wwgmma/killing_atom_editor_makes_me_sad/)
+- [Recursion and unpacking return](https://www.reddit.com/r/Python/comments/wwfynp/recursion_and_unpacking_return/)
 - [I made an Image classifier that tells if something&#39;s huggable or not?](https://www.reddit.com/r/Python/comments/wwfima/i_made_an_image_classifier_that_tells_if/)
 - [Solving the Whole Python Indentation Issue](https://www.reddit.com/r/Python/comments/wwew49/solving_the_whole_python_indentation_issue/)
-- [I need someone to write me a software](https://www.reddit.com/r/Python/comments/wwdhjy/i_need_someone_to_write_me_a_software/)
 - [Search PDF text, images and tables with Python and CLIP](https://www.reddit.com/r/Python/comments/wwbq75/search_pdf_text_images_and_tables_with_python_and/)
-- [Senior level best practices question](https://www.reddit.com/r/Python/comments/wwa3yi/senior_level_best_practices_question/)
 <!-- BLOG-POST-LIST:END -->
