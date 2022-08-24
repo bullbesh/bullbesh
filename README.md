@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Leon Open-Source Personal Assistant: A Much Better NLP and Future](https://www.reddit.com/r/Python/comments/wwl0a6/leon_opensource_personal_assistant_a_much_better/)
+- [After learning python](https://www.reddit.com/r/Python/comments/wwkudj/after_learning_python/)
 - [isinstance&lpar;&rpar; and typing.Union should be compatible](https://www.reddit.com/r/Python/comments/wwivna/isinstance_and_typingunion_should_be_compatible/)
 - [did someone hijack asyncio read the docs page?](https://www.reddit.com/r/Python/comments/wwihg1/did_someone_hijack_asyncio_read_the_docs_page/)
 - [killing atom editor makes me sad](https://www.reddit.com/r/Python/comments/wwgmma/killing_atom_editor_makes_me_sad/)
-- [I made an Image classifier that tells if something&#39;s huggable or not?](https://www.reddit.com/r/Python/comments/wwfima/i_made_an_image_classifier_that_tells_if/)
-- [Solving the Whole Python Indentation Issue](https://www.reddit.com/r/Python/comments/wwew49/solving_the_whole_python_indentation_issue/)
 <!-- BLOG-POST-LIST:END -->
