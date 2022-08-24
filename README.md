@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Trouble reading @ with python glob.glob&lpar;os.path.join](https://www.reddit.com/r/Python/comments/ww2kd7/trouble_reading_with_python_globglobospathjoin/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/ww46sr/wednesday_daily_thread_beginner_questions/)
+- [Coding an ASCII art generator in Python in under 60 seconds](https://www.reddit.com/r/Python/comments/ww3wff/coding_an_ascii_art_generator_in_python_in_under/)
+- [Introducing Humre: Human-Readable Regular Expressions](https://www.reddit.com/r/Python/comments/ww3mwl/introducing_humre_humanreadable_regular/)
 - [Text Classification Using Python and Scikit-learn](https://www.reddit.com/r/Python/comments/ww08bi/text_classification_using_python_and_scikitlearn/)
 - [Finished version of my first pygame project!](https://www.reddit.com/r/Python/comments/ww03bp/finished_version_of_my_first_pygame_project/)
-- [λ.__add__&lpar;:=&rpar;](https://www.reddit.com/r/Python/comments/wvz3k8/λ_add/)
-- [Flutter for Python Developers | Flet | Cross platform Development in Python](https://www.reddit.com/r/Python/comments/wvylon/flutter_for_python_developers_flet_cross_platform/)
 <!-- BLOG-POST-LIST:END -->
