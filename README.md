@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My clients like sending me spreadsheet &quot;databases&quot;, so I wrote a module to quickly cull them down to workable sizes.](https://www.reddit.com/r/Python/comments/wwrsad/my_clients_like_sending_me_spreadsheet_databases/)
 - [Phishing campaign targeting maintainer accounts on PyPI](https://www.reddit.com/r/Python/comments/wwql23/phishing_campaign_targeting_maintainer_accounts/)
 - [pyenv and Ubuntu 14.04](https://www.reddit.com/r/Python/comments/wwpzga/pyenv_and_ubuntu_1404/)
 - [Drag and drop GUIs project](https://www.reddit.com/r/Python/comments/wwpo44/drag_and_drop_guis_project/)
 - [QRCode Based Gui Payment system using python &lpar;obviously on local db file not on a payment gateway lol&rpar;](https://www.reddit.com/r/Python/comments/wwpk8h/qrcode_based_gui_payment_system_using_python/)
-- [Create TUI&#39;s &lpar;Terminal User Interface&rpar; using Textual](https://www.reddit.com/r/Python/comments/wwn89k/create_tuis_terminal_user_interface_using_textual/)
 <!-- BLOG-POST-LIST:END -->
