@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I was unhappy with Spotify recommendations, so I used Python+Spotify&#39;s API to make more than 1,000. See the bottom from a Streamlit app to find your playlist.](https://www.reddit.com/r/Python/comments/ww84sv/i_was_unhappy_with_spotify_recommendations_so_i/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/ww46sr/wednesday_daily_thread_beginner_questions/)
 - [Coding an ASCII art generator in Python in under 60 seconds](https://www.reddit.com/r/Python/comments/ww3wff/coding_an_ascii_art_generator_in_python_in_under/)
 - [Introducing Humre: Human-Readable Regular Expressions](https://www.reddit.com/r/Python/comments/ww3mwl/introducing_humre_humanreadable_regular/)
 - [Text Classification Using Python and Scikit-learn](https://www.reddit.com/r/Python/comments/ww08bi/text_classification_using_python_and_scikitlearn/)
-- [Finished version of my first pygame project!](https://www.reddit.com/r/Python/comments/ww03bp/finished_version_of_my_first_pygame_project/)
 <!-- BLOG-POST-LIST:END -->
