@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [facetorch - Python library for face analysis using neural networks written in PyTorch](https://www.reddit.com/r/Python/comments/wxa203/facetorch_python_library_for_face_analysis_using/)
+- [Building modern Python API backends in 2022](https://www.reddit.com/r/Python/comments/wx9t64/building_modern_python_api_backends_in_2022/)
+- [For loop problem](https://www.reddit.com/r/Python/comments/wx9o5a/for_loop_problem/)
 - [Scrapping Data from google street view](https://www.reddit.com/r/Python/comments/wx6u5y/scrapping_data_from_google_street_view/)
 - [Code Critique: first features added](https://www.reddit.com/r/Python/comments/wx2f0i/code_critique_first_features_added/)
-- [I made a tool to show which repos in your directory have uncomitted changes](https://www.reddit.com/r/Python/comments/wx10as/i_made_a_tool_to_show_which_repos_in_your/)
-- [Jojo Pose Recognition with OpenPose](https://www.reddit.com/r/Python/comments/wwzjnu/jojo_pose_recognition_with_openpose/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/wwywjm/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
