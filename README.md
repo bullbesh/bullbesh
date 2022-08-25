@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Adopt the Robustness Principle going forward · Issue #8436 · sqlalchemy/sqlalchemy](https://www.reddit.com/r/Python/comments/wxpqx0/adopt_the_robustness_principle_going_forward/)
+- [We compiled a free library of ~150 realistic eng take-home tests and ranked them](https://www.reddit.com/r/Python/comments/wxp89g/we_compiled_a_free_library_of_150_realistic_eng/)
+- [rsyncer - a simple python wrapper around rsync](https://www.reddit.com/r/Python/comments/wxomex/rsyncer_a_simple_python_wrapper_around_rsync/)
+- [Multiprocessing Pool in Python: The Complete Guide](https://www.reddit.com/r/Python/comments/wxoi9m/multiprocessing_pool_in_python_the_complete_guide/)
 - [Game Asset Builder &lpar;made with Python and Dear PyGui&rpar;](https://www.reddit.com/r/Python/comments/wxmxtc/game_asset_builder_made_with_python_and_dear_pygui/)
-- [Mac terminal, ` python -m SimpleHTTPServer ` command not found](https://www.reddit.com/r/Python/comments/wxmvh1/mac_terminal_python_m_simplehttpserver_command/)
-- [Roblox and Discord Become Virus Vectors for New PyPI Malware](https://www.reddit.com/r/Python/comments/wxky49/roblox_and_discord_become_virus_vectors_for_new/)
-- [A new node-based tool debuted at the SIGGRAPH 2022. Designed by folks from ILM with Python &amp; Visual Effects/Animation pipelines in mind, this could be applicable outside of the industry and since they offer a free trial, I thought I would drop it here and hope this is helpful. If not, downvote.](https://www.reddit.com/r/Python/comments/wxj6wj/a_new_nodebased_tool_debuted_at_the_siggraph_2022/)
-- [My Intern Assignment - Call a Dark Webhook from a Python AWS Lambda](https://www.reddit.com/r/Python/comments/wxj61g/my_intern_assignment_call_a_dark_webhook_from_a/)
 <!-- BLOG-POST-LIST:END -->
