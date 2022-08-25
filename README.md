@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Finding PyPI package release which matches other dependencies constraints](https://www.reddit.com/r/Python/comments/wxef0k/finding_pypi_package_release_which_matches_other/)
+- [wxPython 4.2.0 Released](https://www.reddit.com/r/Python/comments/wxf4w0/wxpython_420_released/)
 - [Read from Config.ini file and check whether folder exists](https://www.reddit.com/r/Python/comments/wxeaka/read_from_configini_file_and_check_whether_folder/)
 - [PPT automation using python](https://www.reddit.com/r/Python/comments/wxe72p/ppt_automation_using_python/)
 - [Code critique: first feature complete](https://www.reddit.com/r/Python/comments/wxculm/code_critique_first_feature_complete/)
