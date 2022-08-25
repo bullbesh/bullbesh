@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code critique: first feature complete](https://www.reddit.com/r/Python/comments/wxculm/code_critique_first_feature_complete/)
+- [Spark-NLP 4.1.0 Released: Vision Transformer &lpar;ViT&rpar; is here! The very first Computer Vision pipeline for the state-of-the-art Image Classification task, AWS Graviton/ARM64 support, new EMR &amp; Databricks support, 1000+ state-of-the-art models, and more!](https://www.reddit.com/r/Python/comments/wxc7kc/sparknlp_410_released_vision_transformer_vit_is/)
+- [Why Should You Learn Python Instead Of Java?](https://www.reddit.com/r/Python/comments/wxbreo/why_should_you_learn_python_instead_of_java/)
 - [Bionic Reading &lpar;Terminal&rpar;](https://www.reddit.com/r/Python/comments/wxb077/bionic_reading_terminal/)
 - [Config files in plain Python](https://www.reddit.com/r/Python/comments/wxaud7/config_files_in_plain_python/)
-- [facetorch - Python library for face analysis using neural networks written in PyTorch](https://www.reddit.com/r/Python/comments/wxa203/facetorch_python_library_for_face_analysis_using/)
-- [Building modern Python API backends in 2022](https://www.reddit.com/r/Python/comments/wx9t64/building_modern_python_api_backends_in_2022/)
-- [For loop problem](https://www.reddit.com/r/Python/comments/wx9o5a/for_loop_problem/)
 <!-- BLOG-POST-LIST:END -->
