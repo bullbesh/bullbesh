@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A new node-based tool debuted at the SIGGRAPH 2022. Designed by folks from ILM with Python &amp; Visual Effects/Animation pipelines in mind, this could be applicable outside of the industry and since they offer a free trial, I thought I would drop it here and hope this is helpful. If not, downvote.](https://www.reddit.com/r/Python/comments/wxj6wj/a_new_nodebased_tool_debuted_at_the_siggraph_2022/)
+- [My Intern Assignment - Call a Dark Webhook from a Python AWS Lambda](https://www.reddit.com/r/Python/comments/wxj61g/my_intern_assignment_call_a_dark_webhook_from_a/)
 - [wxPython 4.2.0 Released](https://www.reddit.com/r/Python/comments/wxf4w0/wxpython_420_released/)
 - [PPT automation using python](https://www.reddit.com/r/Python/comments/wxe72p/ppt_automation_using_python/)
 - [Code critique: first feature complete](https://www.reddit.com/r/Python/comments/wxculm/code_critique_first_feature_complete/)
-- [Spark-NLP 4.1.0 Released: Vision Transformer &lpar;ViT&rpar; is here! The very first Computer Vision pipeline for the state-of-the-art Image Classification task, AWS Graviton/ARM64 support, new EMR &amp; Databricks support, 1000+ state-of-the-art models, and more!](https://www.reddit.com/r/Python/comments/wxc7kc/sparknlp_410_released_vision_transformer_vit_is/)
-- [Why Should You Learn Python Instead Of Java?](https://www.reddit.com/r/Python/comments/wxbreo/why_should_you_learn_python_instead_of_java/)
 <!-- BLOG-POST-LIST:END -->
