@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bionic Reading &lpar;Terminal&rpar;](https://www.reddit.com/r/Python/comments/wxb077/bionic_reading_terminal/)
+- [Config files in plain Python](https://www.reddit.com/r/Python/comments/wxaud7/config_files_in_plain_python/)
 - [facetorch - Python library for face analysis using neural networks written in PyTorch](https://www.reddit.com/r/Python/comments/wxa203/facetorch_python_library_for_face_analysis_using/)
 - [Building modern Python API backends in 2022](https://www.reddit.com/r/Python/comments/wx9t64/building_modern_python_api_backends_in_2022/)
 - [For loop problem](https://www.reddit.com/r/Python/comments/wx9o5a/for_loop_problem/)
-- [Scrapping Data from google street view](https://www.reddit.com/r/Python/comments/wx6u5y/scrapping_data_from_google_street_view/)
-- [Code Critique: first features added](https://www.reddit.com/r/Python/comments/wx2f0i/code_critique_first_features_added/)
 <!-- BLOG-POST-LIST:END -->
