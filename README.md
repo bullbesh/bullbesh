@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finding PyPI package release which matches other dependencies constraints](https://www.reddit.com/r/Python/comments/wxef0k/finding_pypi_package_release_which_matches_other/)
+- [Read from Config.ini file and check whether folder exists](https://www.reddit.com/r/Python/comments/wxeaka/read_from_configini_file_and_check_whether_folder/)
+- [PPT automation using python](https://www.reddit.com/r/Python/comments/wxe72p/ppt_automation_using_python/)
 - [Code critique: first feature complete](https://www.reddit.com/r/Python/comments/wxculm/code_critique_first_feature_complete/)
 - [Spark-NLP 4.1.0 Released: Vision Transformer &lpar;ViT&rpar; is here! The very first Computer Vision pipeline for the state-of-the-art Image Classification task, AWS Graviton/ARM64 support, new EMR &amp; Databricks support, 1000+ state-of-the-art models, and more!](https://www.reddit.com/r/Python/comments/wxc7kc/sparknlp_410_released_vision_transformer_vit_is/)
-- [Why Should You Learn Python Instead Of Java?](https://www.reddit.com/r/Python/comments/wxbreo/why_should_you_learn_python_instead_of_java/)
-- [Bionic Reading &lpar;Terminal&rpar;](https://www.reddit.com/r/Python/comments/wxb077/bionic_reading_terminal/)
-- [Config files in plain Python](https://www.reddit.com/r/Python/comments/wxaud7/config_files_in_plain_python/)
 <!-- BLOG-POST-LIST:END -->
