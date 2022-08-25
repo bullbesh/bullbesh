@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [The ULTIMATE list of 100+ Python Security tools](https://www.reddit.com/r/Python/comments/wwvrro/the_ultimate_list_of_100_python_security_tools/)
-- [Climalearn - Easily understand the devastating affects of climate change](https://www.reddit.com/r/Python/comments/wwvoi1/climalearn_easily_understand_the_devastating/)
-- [First project using pandas](https://www.reddit.com/r/Python/comments/wwuww6/first_project_using_pandas/)
-- [Python - Newgrounds Audio Portal Interface](https://www.reddit.com/r/Python/comments/wwug1e/python_newgrounds_audio_portal_interface/)
-- [Reduct Storage Python SDK v0.4.0 has been released](https://www.reddit.com/r/Python/comments/wwt1ql/reduct_storage_python_sdk_v040_has_been_released/)
+- [I made a tool to show which repos in your directory have uncomitted changes](https://www.reddit.com/r/Python/comments/wx10as/i_made_a_tool_to_show_which_repos_in_your/)
+- [Course opinion](https://www.reddit.com/r/Python/comments/wwzyac/course_opinion/)
+- [Jojo Pose Recognition with OpenPose](https://www.reddit.com/r/Python/comments/wwzjnu/jojo_pose_recognition_with_openpose/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/wwywjm/thursday_daily_thread_python_careers_courses_and/)
+- [Introduction to Machine Learning](https://www.reddit.com/r/Python/comments/wwyamr/introduction_to_machine_learning/)
 <!-- BLOG-POST-LIST:END -->
