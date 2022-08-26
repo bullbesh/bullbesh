@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Been working on an open source program to measure antennas for a while. Finally feel like I can mention it here: PyChamber!](https://www.reddit.com/r/Python/comments/wymnc4/been_working_on_an_open_source_program_to_measure/)
 - [CLI tool for showing shortcut notes](https://www.reddit.com/r/Python/comments/wylaca/cli_tool_for_showing_shortcut_notes/)
 - [Which not so well known Python packages do you like to use on a regular basis and why?](https://www.reddit.com/r/Python/comments/wyl1lp/which_not_so_well_known_python_packages_do_you/)
 - [I wrote a quick tutorial on extracting topics from a Conan O&#39;Brien podcast &lpar;link in comments&rpar;](https://www.reddit.com/r/Python/comments/wyftxj/i_wrote_a_quick_tutorial_on_extracting_topics/)
 - [send-file-bot: Telegram bot for sending files to chat or channel by cron.](https://www.reddit.com/r/Python/comments/wybh1x/sendfilebot_telegram_bot_for_sending_files_to/)
-- [Comprehensive application configuration may occur in code, config-files and command-line interfaces… and a robust Python object system should support all 3](https://www.reddit.com/r/Python/comments/wy7idl/comprehensive_application_configuration_may_occur/)
 <!-- BLOG-POST-LIST:END -->
