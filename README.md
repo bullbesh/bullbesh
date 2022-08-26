@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Automate Boring Stuff - Book vs Course](https://www.reddit.com/r/Python/comments/wy9czj/automate_boring_stuff_book_vs_course/)
-- [How can I connect a Canon camera to Open CV to use it as a video stream?](https://www.reddit.com/r/Python/comments/wy8hvs/how_can_i_connect_a_canon_camera_to_open_cv_to/)
 - [Comprehensive application configuration may occur in code, config-files and command-line interfaces… and a robust Python object system should support all 3](https://www.reddit.com/r/Python/comments/wy7idl/comprehensive_application_configuration_may_occur/)
 - [Heroku to end free plans](https://www.reddit.com/r/Python/comments/wy7704/heroku_to_end_free_plans/)
 - [Spyder colou coding Escape character?](https://www.reddit.com/r/Python/comments/wy6oa4/spyder_colou_coding_escape_character/)
+- [Python Match Case is more powerful than you think](https://www.reddit.com/r/Python/comments/wy5zrj/python_match_case_is_more_powerful_than_you_think/)
 <!-- BLOG-POST-LIST:END -->
