@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web App Development in Python is broken](https://www.reddit.com/r/Python/comments/wy4ggv/web_app_development_in_python_is_broken/)
+- [Pycon LT 2022 Talk: Implementing Ray Tracing in Python](https://www.reddit.com/r/Python/comments/wy4fiz/pycon_lt_2022_talk_implementing_ray_tracing_in/)
+- [Python &amp; AI generating image API](https://www.reddit.com/r/Python/comments/wy3wpl/python_ai_generating_image_api/)
 - [Postgresql datatype &quot;timestampz&quot;](https://www.reddit.com/r/Python/comments/wy2m8f/postgresql_datatype_timestampz/)
 - [I tried to make an A.I. That Could Beat OverCooked 2 second level | player detection](https://www.reddit.com/r/Python/comments/wy2f6g/i_tried_to_make_an_ai_that_could_beat_overcooked/)
-- [One Piece Spoiler Blocker](https://www.reddit.com/r/Python/comments/wy272s/one_piece_spoiler_blocker/)
-- [Want to install an old package but struggling with dependencies? Try pypi-timemachine](https://www.reddit.com/r/Python/comments/wy1xy1/want_to_install_an_old_package_but_struggling/)
-- [How to build a Data Lake with Python APIs on top of Table Formats &lpar;Apache Hudi, Iceberg, Delta Lake&rpar;](https://www.reddit.com/r/Python/comments/wy17z8/how_to_build_a_data_lake_with_python_apis_on_top/)
 <!-- BLOG-POST-LIST:END -->
