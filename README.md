@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do I convert a PDF file with class FileStorage &lpar;from an input in Flask&rpar; to Text?](https://www.reddit.com/r/Python/comments/wyeyo8/how_do_i_convert_a_pdf_file_with_class/)
 - [send-file-bot: Telegram bot for sending files to chat or channel by cron.](https://www.reddit.com/r/Python/comments/wybh1x/sendfilebot_telegram_bot_for_sending_files_to/)
 - [Automate Boring Stuff - Book vs Course](https://www.reddit.com/r/Python/comments/wy9czj/automate_boring_stuff_book_vs_course/)
 - [Comprehensive application configuration may occur in code, config-files and command-line interfaces… and a robust Python object system should support all 3](https://www.reddit.com/r/Python/comments/wy7idl/comprehensive_application_configuration_may_occur/)
 - [Heroku to end free plans](https://www.reddit.com/r/Python/comments/wy7704/heroku_to_end_free_plans/)
-- [Spyder colou coding Escape character?](https://www.reddit.com/r/Python/comments/wy6oa4/spyder_colou_coding_escape_character/)
 <!-- BLOG-POST-LIST:END -->
