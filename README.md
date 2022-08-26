@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Match Case is more powerful than you think](https://www.reddit.com/r/Python/comments/wy5zrj/python_match_case_is_more_powerful_than_you_think/)
+- [Can anybody explain me the output ?](https://www.reddit.com/r/Python/comments/wy5nys/can_anybody_explain_me_the_output/)
 - [Full Python reference from W3 on a excel file.](https://www.reddit.com/r/Python/comments/wy5hn4/full_python_reference_from_w3_on_a_excel_file/)
 - [I made a Twitter bot who tweets AI images every hour](https://www.reddit.com/r/Python/comments/wy4wsr/i_made_a_twitter_bot_who_tweets_ai_images_every/)
 - [Web App Development in Python is broken](https://www.reddit.com/r/Python/comments/wy4ggv/web_app_development_in_python_is_broken/)
-- [Pycon LT 2022 Talk: Implementing Ray Tracing in Python](https://www.reddit.com/r/Python/comments/wy4fiz/pycon_lt_2022_talk_implementing_ray_tracing_in/)
-- [Python &amp; AI generating image API](https://www.reddit.com/r/Python/comments/wy3wpl/python_ai_generating_image_api/)
 <!-- BLOG-POST-LIST:END -->
