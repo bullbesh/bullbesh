@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I tried to make an A.I. That Could Beat OverCooked 2 second level | player detection](https://www.reddit.com/r/Python/comments/wy2f6g/i_tried_to_make_an_ai_that_could_beat_overcooked/)
+- [One Piece Spoiler Blocker](https://www.reddit.com/r/Python/comments/wy272s/one_piece_spoiler_blocker/)
+- [Want to install an old package but struggling with dependencies? Try pypi-timemachine](https://www.reddit.com/r/Python/comments/wy1xy1/want_to_install_an_old_package_but_struggling/)
+- [How to build a Data Lake with Python APIs on top of Table Formats &lpar;Apache Hudi, Iceberg, Delta Lake&rpar;](https://www.reddit.com/r/Python/comments/wy17z8/how_to_build_a_data_lake_with_python_apis_on_top/)
 - [🐍 Pythonic Programming - Examples of the Python programming language](https://www.reddit.com/r/Python/comments/wxy2o9/pythonic_programming_examples_of_the_python/)
-- [Looking for remote #python #developer #job](https://www.reddit.com/r/Python/comments/wxy26v/looking_for_remote_python_developer_job/)
-- [The Jupyter+git problem is now solved](https://www.reddit.com/r/Python/comments/wxugxm/the_jupytergit_problem_is_now_solved/)
-- [Why do for loops have an else block?](https://www.reddit.com/r/Python/comments/wxtgke/why_do_for_loops_have_an_else_block/)
-- [pyTermTk sandbox with Pyodide + xterm.js + CodeMirror5 + other stuff](https://www.reddit.com/r/Python/comments/wxra5g/pytermtk_sandbox_with_pyodide_xtermjs_codemirror5/)
 <!-- BLOG-POST-LIST:END -->
