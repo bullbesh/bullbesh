@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🐍 Pythonic Programming - Examples of the Python programming language](https://www.reddit.com/r/Python/comments/wxy2o9/pythonic_programming_examples_of_the_python/)
+- [Looking for remote #python #developer #job](https://www.reddit.com/r/Python/comments/wxy26v/looking_for_remote_python_developer_job/)
 - [The Jupyter+git problem is now solved](https://www.reddit.com/r/Python/comments/wxugxm/the_jupytergit_problem_is_now_solved/)
 - [Why do for loops have an else block?](https://www.reddit.com/r/Python/comments/wxtgke/why_do_for_loops_have_an_else_block/)
 - [pyTermTk sandbox with Pyodide + xterm.js + CodeMirror5 + other stuff](https://www.reddit.com/r/Python/comments/wxra5g/pytermtk_sandbox_with_pyodide_xtermjs_codemirror5/)
-- [Adopt the Robustness Principle going forward · Issue #8436 · sqlalchemy/sqlalchemy](https://www.reddit.com/r/Python/comments/wxpqx0/adopt_the_robustness_principle_going_forward/)
-- [rsyncer - a simple python wrapper around rsync](https://www.reddit.com/r/Python/comments/wxomex/rsyncer_a_simple_python_wrapper_around_rsync/)
 <!-- BLOG-POST-LIST:END -->
