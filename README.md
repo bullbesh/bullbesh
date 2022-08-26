@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Full Python reference from W3 on a excel file.](https://www.reddit.com/r/Python/comments/wy5hn4/full_python_reference_from_w3_on_a_excel_file/)
+- [I made a Twitter bot who tweets AI images every hour](https://www.reddit.com/r/Python/comments/wy4wsr/i_made_a_twitter_bot_who_tweets_ai_images_every/)
 - [Web App Development in Python is broken](https://www.reddit.com/r/Python/comments/wy4ggv/web_app_development_in_python_is_broken/)
 - [Pycon LT 2022 Talk: Implementing Ray Tracing in Python](https://www.reddit.com/r/Python/comments/wy4fiz/pycon_lt_2022_talk_implementing_ray_tracing_in/)
 - [Python &amp; AI generating image API](https://www.reddit.com/r/Python/comments/wy3wpl/python_ai_generating_image_api/)
-- [Postgresql datatype &quot;timestampz&quot;](https://www.reddit.com/r/Python/comments/wy2m8f/postgresql_datatype_timestampz/)
-- [I tried to make an A.I. That Could Beat OverCooked 2 second level | player detection](https://www.reddit.com/r/Python/comments/wy2f6g/i_tried_to_make_an_ai_that_could_beat_overcooked/)
 <!-- BLOG-POST-LIST:END -->
