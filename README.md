@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [hoist - client server communication library](https://www.reddit.com/r/Python/comments/wzel3t/hoist_client_server_communication_library/)
 - [For fun, I created a library to serialize / deserialize any python object into JSON](https://www.reddit.com/r/Python/comments/wzcqln/for_fun_i_created_a_library_to_serialize/)
 - [What&#39;s your default way setting up packages, testing, linting, and imports](https://www.reddit.com/r/Python/comments/wzch7g/whats_your_default_way_setting_up_packages/)
 - [brainfuck interpreter](https://www.reddit.com/r/Python/comments/wzbk88/brainfuck_interpreter/)
 - [GitHub - bauripalash/tkhtmlview: Display HTML with Tkinter](https://www.reddit.com/r/Python/comments/wz9xv7/github_bauripalashtkhtmlview_display_html_with/)
-- [I present to you, OreoCPD](https://www.reddit.com/r/Python/comments/wz9jr9/i_present_to_you_oreocpd/)
 <!-- BLOG-POST-LIST:END -->
