@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [taking interactive mode off](https://www.reddit.com/r/Python/comments/wzb07a/taking_interactive_mode_off/)
+- [What&#39;s your default way setting up packages, testing, linting, and imports](https://www.reddit.com/r/Python/comments/wzch7g/whats_your_default_way_setting_up_packages/)
+- [Convert dataframe?](https://www.reddit.com/r/Python/comments/wzbxgn/convert_dataframe/)
+- [brainfuck interpreter](https://www.reddit.com/r/Python/comments/wzbk88/brainfuck_interpreter/)
 - [GitHub - bauripalash/tkhtmlview: Display HTML with Tkinter](https://www.reddit.com/r/Python/comments/wz9xv7/github_bauripalashtkhtmlview_display_html_with/)
 - [I present to you, OreoCPD](https://www.reddit.com/r/Python/comments/wz9jr9/i_present_to_you_oreocpd/)
-- [Geopandas on android?](https://www.reddit.com/r/Python/comments/wz7b77/geopandas_on_android/)
-- [Python&#39;s exec&lpar;&rpar;: Execute Dynamically Generated Code – Real Python](https://www.reddit.com/r/Python/comments/wz75fb/pythons_exec_execute_dynamically_generated_code/)
 <!-- BLOG-POST-LIST:END -->
