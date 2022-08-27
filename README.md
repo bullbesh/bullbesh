@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I present to you, OreoCPD](https://www.reddit.com/r/Python/comments/wz9jr9/i_present_to_you_oreocpd/)
+- [Python code to remind me of birthdays](https://www.reddit.com/r/Python/comments/wz8s4q/python_code_to_remind_me_of_birthdays/)
 - [Geopandas on android?](https://www.reddit.com/r/Python/comments/wz7b77/geopandas_on_android/)
 - [Python&#39;s exec&lpar;&rpar;: Execute Dynamically Generated Code – Real Python](https://www.reddit.com/r/Python/comments/wz75fb/pythons_exec_execute_dynamically_generated_code/)
 - [indygreg / PyOxidizer :](https://www.reddit.com/r/Python/comments/wz69xq/indygreg_pyoxidizer/)
-- [Looking for a bot to submit ~300 answers for a google forms for college.](https://www.reddit.com/r/Python/comments/wz5jm2/looking_for_a_bot_to_submit_300_answers_for_a/)
-- [NVIDIA display control script &lpar;nvidia-settings wrapper&rpar; for seamlessly changing your monitor layouts](https://www.reddit.com/r/Python/comments/wz5g81/nvidia_display_control_script_nvidiasettings/)
 <!-- BLOG-POST-LIST:END -->
