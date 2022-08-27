@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Need some help](https://www.reddit.com/r/Python/comments/wz3jz6/need_some_help/)
-- [install ROS 2 on Ubuntu 22.04 step by step](https://www.reddit.com/r/Python/comments/wz2xwl/install_ros_2_on_ubuntu_2204_step_by_step/)
-- [Python Script to c++ exe](https://www.reddit.com/r/Python/comments/wz0f61/python_script_to_c_exe/)
-- [Composable search indexes with Vector Embeddings, SQL and/or BM25 in Python](https://www.reddit.com/r/Python/comments/wz0dik/composable_search_indexes_with_vector_embeddings/)
-- [Starlite is Looking for Contributors and Maintainers + and a Bunch of Updates](https://www.reddit.com/r/Python/comments/wz07o3/starlite_is_looking_for_contributors_and/)
+- [NVIDIA display control script &lpar;nvidia-settings wrapper&rpar; for seamlessly changing your monitor layouts](https://www.reddit.com/r/Python/comments/wz5g81/nvidia_display_control_script_nvidiasettings/)
+- [Create an auto updating dataset on Kaggle with Deepnote](https://www.reddit.com/r/Python/comments/wz5ec7/create_an_auto_updating_dataset_on_kaggle_with/)
+- [Kharma : a State-of-the-Art grammar fuzzer](https://www.reddit.com/r/Python/comments/wz5c2s/kharma_a_stateoftheart_grammar_fuzzer/)
+- [A python question](https://www.reddit.com/r/Python/comments/wz5bdn/a_python_question/)
+- [I made a reddit account generator.](https://www.reddit.com/r/Python/comments/wz50go/i_made_a_reddit_account_generator/)
 <!-- BLOG-POST-LIST:END -->
