@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Geopandas on android?](https://www.reddit.com/r/Python/comments/wz7b77/geopandas_on_android/)
+- [Python&#39;s exec&lpar;&rpar;: Execute Dynamically Generated Code – Real Python](https://www.reddit.com/r/Python/comments/wz75fb/pythons_exec_execute_dynamically_generated_code/)
 - [indygreg / PyOxidizer :](https://www.reddit.com/r/Python/comments/wz69xq/indygreg_pyoxidizer/)
 - [Looking for a bot to submit ~300 answers for a google forms for college.](https://www.reddit.com/r/Python/comments/wz5jm2/looking_for_a_bot_to_submit_300_answers_for_a/)
 - [NVIDIA display control script &lpar;nvidia-settings wrapper&rpar; for seamlessly changing your monitor layouts](https://www.reddit.com/r/Python/comments/wz5g81/nvidia_display_control_script_nvidiasettings/)
-- [Create an auto updating dataset on Kaggle with Deepnote](https://www.reddit.com/r/Python/comments/wz5ec7/create_an_auto_updating_dataset_on_kaggle_with/)
-- [Kharma : a State-of-the-Art grammar fuzzer](https://www.reddit.com/r/Python/comments/wz5c2s/kharma_a_stateoftheart_grammar_fuzzer/)
 <!-- BLOG-POST-LIST:END -->
