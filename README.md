@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need some help](https://www.reddit.com/r/Python/comments/wz3jz6/need_some_help/)
 - [install ROS 2 on Ubuntu 22.04 step by step](https://www.reddit.com/r/Python/comments/wz2xwl/install_ros_2_on_ubuntu_2204_step_by_step/)
 - [Python Script to c++ exe](https://www.reddit.com/r/Python/comments/wz0f61/python_script_to_c_exe/)
 - [Composable search indexes with Vector Embeddings, SQL and/or BM25 in Python](https://www.reddit.com/r/Python/comments/wz0dik/composable_search_indexes_with_vector_embeddings/)
 - [Starlite is Looking for Contributors and Maintainers + and a Bunch of Updates](https://www.reddit.com/r/Python/comments/wz07o3/starlite_is_looking_for_contributors_and/)
-- [Why is it possible to subtract a single number from an array in a math formula?](https://www.reddit.com/r/Python/comments/wyyb6y/why_is_it_possible_to_subtract_a_single_number/)
 <!-- BLOG-POST-LIST:END -->
