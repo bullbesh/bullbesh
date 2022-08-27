@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python &amp; pattern identification](https://www.reddit.com/r/Python/comments/wyquai/python_pattern_identification/)
+- [Is there a name for auto generating machine learning training data? &lpar;SpaCy&rpar;](https://www.reddit.com/r/Python/comments/wyoux1/is_there_a_name_for_auto_generating_machine/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/wyo5sd/saturday_daily_thread_resource_request_and/)
 - [Been working on an open source program to measure antennas for a while. Finally feel like I can mention it here: PyChamber!](https://www.reddit.com/r/Python/comments/wymnc4/been_working_on_an_open_source_program_to_measure/)
 - [CLI tool for showing shortcut notes](https://www.reddit.com/r/Python/comments/wylaca/cli_tool_for_showing_shortcut_notes/)
-- [Which not so well known Python packages do you like to use on a regular basis and why?](https://www.reddit.com/r/Python/comments/wyl1lp/which_not_so_well_known_python_packages_do_you/)
-- [I wrote a quick tutorial on extracting topics from a Conan O&#39;Brien podcast &lpar;link in comments&rpar;](https://www.reddit.com/r/Python/comments/wyftxj/i_wrote_a_quick_tutorial_on_extracting_topics/)
-- [send-file-bot: Telegram bot for sending files to chat or channel by cron.](https://www.reddit.com/r/Python/comments/wybh1x/sendfilebot_telegram_bot_for_sending_files_to/)
 <!-- BLOG-POST-LIST:END -->
