@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Newbi to OSMNX](https://www.reddit.com/r/Python/comments/wzouid/newbi_to_osmnx/)
+- [Interfaces and Metaclasses in Python](https://www.reddit.com/r/Python/comments/wzpd8w/interfaces_and_metaclasses_in_python/)
 - [Meditation Application in Python - Tkinter Project](https://www.reddit.com/r/Python/comments/wznk6y/meditation_application_in_python_tkinter_project/)
 - [How to change the SQLite library used by the sqlite3 module in a Python environment on Windows?](https://www.reddit.com/r/Python/comments/wzng8r/how_to_change_the_sqlite_library_used_by_the/)
 - [python-box -- an excellent library for configuration](https://www.reddit.com/r/Python/comments/wzhdxw/pythonbox_an_excellent_library_for_configuration/)
