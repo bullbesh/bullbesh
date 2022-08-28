@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is flask even being used nowdays ?](https://www.reddit.com/r/Python/comments/wzswh9/is_flask_even_being_used_nowdays/)
+- [The dangers of assert in Python](https://www.reddit.com/r/Python/comments/wzsogr/the_dangers_of_assert_in_python/)
+- [Data Type &quot;O&quot; in Numpy](https://www.reddit.com/r/Python/comments/wzskgl/data_type_o_in_numpy/)
 - [Ring bells in your Jupyter Notebooks](https://www.reddit.com/r/Python/comments/wzs01m/ring_bells_in_your_jupyter_notebooks/)
 - [Python is Top Programming Language for 2022](https://www.reddit.com/r/Python/comments/wzqwin/python_is_top_programming_language_for_2022/)
-- [Interfaces and Metaclasses in Python](https://www.reddit.com/r/Python/comments/wzpd8w/interfaces_and_metaclasses_in_python/)
-- [Meditation Application in Python - Tkinter Project](https://www.reddit.com/r/Python/comments/wznk6y/meditation_application_in_python_tkinter_project/)
-- [How to change the SQLite library used by the sqlite3 module in a Python environment on Windows?](https://www.reddit.com/r/Python/comments/wzng8r/how_to_change_the_sqlite_library_used_by_the/)
 <!-- BLOG-POST-LIST:END -->
