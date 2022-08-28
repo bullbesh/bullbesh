@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Library for text generation?](https://www.reddit.com/r/Python/comments/wzu2vw/library_for_text_generation/)
+- [Execute Python interactive inside Twitter](https://www.reddit.com/r/Python/comments/wzu05o/execute_python_interactive_inside_twitter/)
+- [ducks: the Python object finder](https://www.reddit.com/r/Python/comments/wztfw4/ducks_the_python_object_finder/)
 - [Is flask even being used nowdays ?](https://www.reddit.com/r/Python/comments/wzswh9/is_flask_even_being_used_nowdays/)
 - [The dangers of assert in Python](https://www.reddit.com/r/Python/comments/wzsogr/the_dangers_of_assert_in_python/)
-- [Data Type &quot;O&quot; in Numpy](https://www.reddit.com/r/Python/comments/wzskgl/data_type_o_in_numpy/)
-- [Ring bells in your Jupyter Notebooks](https://www.reddit.com/r/Python/comments/wzs01m/ring_bells_in_your_jupyter_notebooks/)
-- [Python is Top Programming Language for 2022](https://www.reddit.com/r/Python/comments/wzqwin/python_is_top_programming_language_for_2022/)
 <!-- BLOG-POST-LIST:END -->
