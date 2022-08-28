@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stable Diffusion text to image generation AI web UI, a browser interface based on Gradio library in Python](https://www.reddit.com/r/Python/comments/x022ym/stable_diffusion_text_to_image_generation_ai_web/)
+- [How would a Flask backend work with a Chrome Extension?](https://www.reddit.com/r/Python/comments/x01qdk/how_would_a_flask_backend_work_with_a_chrome/)
+- [A discord.py command to make custom messages, supports multiple embeds, import, export and send.](https://www.reddit.com/r/Python/comments/x00stq/a_discordpy_command_to_make_custom_messages/)
 - [I made an interactive Pandas cheat sheet using PyScript](https://www.reddit.com/r/Python/comments/x00qwr/i_made_an_interactive_pandas_cheat_sheet_using/)
 - [My Csv libraray for python](https://www.reddit.com/r/Python/comments/x00c4a/my_csv_libraray_for_python/)
-- [Combining Flet with FastAPI](https://www.reddit.com/r/Python/comments/wzx891/combining_flet_with_fastapi/)
-- [Alternative for numpy.rate&lpar;&rpar; function?](https://www.reddit.com/r/Python/comments/wzv9km/alternative_for_numpyrate_function/)
-- [Library for text generation?](https://www.reddit.com/r/Python/comments/wzu2vw/library_for_text_generation/)
 <!-- BLOG-POST-LIST:END -->
