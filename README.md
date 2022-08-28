@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why is is repeating itself ?](https://www.reddit.com/r/Python/comments/wzj9lq/why_is_is_repeating_itself/)
 - [python-box -- an excellent library for configuration](https://www.reddit.com/r/Python/comments/wzhdxw/pythonbox_an_excellent_library_for_configuration/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/wzhaf7/sunday_daily_thread_whats_everyone_working_on/)
 - [Is an ORM like SQL Alchemy helpful to put on a beginner resume?](https://www.reddit.com/r/Python/comments/wzfy7o/is_an_orm_like_sql_alchemy_helpful_to_put_on_a/)
 - [hoist - client server communication library](https://www.reddit.com/r/Python/comments/wzel3t/hoist_client_server_communication_library/)
+- [For fun, I created a library to serialize / deserialize any python object into JSON](https://www.reddit.com/r/Python/comments/wzcqln/for_fun_i_created_a_library_to_serialize/)
 <!-- BLOG-POST-LIST:END -->
