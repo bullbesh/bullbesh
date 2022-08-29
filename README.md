@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Domain specific messenger app. Stack required](https://www.reddit.com/r/Python/comments/x0g8d4/domain_specific_messenger_app_stack_required/)
 - [Learning from scratch](https://www.reddit.com/r/Python/comments/x0fnng/learning_from_scratch/)
 - [ECS pattern for creating games on python](https://www.reddit.com/r/Python/comments/x0f8ic/ecs_pattern_for_creating_games_on_python/)
 - [Python freelance](https://www.reddit.com/r/Python/comments/x0eash/python_freelance/)
 - [Install Python Package in Editable mode with pip 22.2](https://www.reddit.com/r/Python/comments/x0dvkg/install_python_package_in_editable_mode_with_pip/)
-- [Introducing is3, simple bucket storage of arbitrary objects using Imgur!](https://www.reddit.com/r/Python/comments/x0dhgs/introducing_is3_simple_bucket_storage_of/)
 <!-- BLOG-POST-LIST:END -->
