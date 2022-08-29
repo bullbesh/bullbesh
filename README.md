@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [When wouldn’t you use Python?](https://www.reddit.com/r/Python/comments/x0cf2y/when_wouldnt_you_use_python/)
-- [- At work I have to download 1 sheet per hour - the source of data adds unnecessary column that I don’t use and cannot ask them to not do it let alone do it in a different format. How do I substitute and exchange columns and delete some automatically once the data sheet is inserted into my workbook?](https://www.reddit.com/r/Python/comments/x0b68z/at_work_i_have_to_download_1_sheet_per_hour_the/)
-- [Error when sending &#39;GET&#39; request - Flask API Endpoint](https://www.reddit.com/r/Python/comments/x0a2lq/error_when_sending_get_request_flask_api_endpoint/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/x0a07x/monday_daily_thread_project_ideas/)
-- [Asynchronous client module for Nextcloud](https://www.reddit.com/r/Python/comments/x06ert/asynchronous_client_module_for_nextcloud/)
+- [Learning from scratch](https://www.reddit.com/r/Python/comments/x0fnng/learning_from_scratch/)
+- [ECS pattern for creating games on python](https://www.reddit.com/r/Python/comments/x0f8ic/ecs_pattern_for_creating_games_on_python/)
+- [Python freelance](https://www.reddit.com/r/Python/comments/x0eash/python_freelance/)
+- [Install Python Package in Editable mode with pip 22.2](https://www.reddit.com/r/Python/comments/x0dvkg/install_python_package_in_editable_mode_with_pip/)
+- [Introducing is3, simple bucket storage of arbitrary objects using Imgur!](https://www.reddit.com/r/Python/comments/x0dhgs/introducing_is3_simple_bucket_storage_of/)
 <!-- BLOG-POST-LIST:END -->
