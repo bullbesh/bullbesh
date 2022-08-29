@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [python full stack course](https://www.reddit.com/r/Python/comments/x0j2fn/python_full_stack_course/)
+- [Made a thing which takes your age and decides whether or not you’re allowed to use a website or something.](https://www.reddit.com/r/Python/comments/x0ioq2/made_a_thing_which_takes_your_age_and_decides/)
 - [streams, a library to handle any iterable with per-item exception handling](https://www.reddit.com/r/Python/comments/x0igo7/streams_a_library_to_handle_any_iterable_with/)
 - [Language Translator App in Python - using Google Translator API](https://www.reddit.com/r/Python/comments/x0ie40/language_translator_app_in_python_using_google/)
 - [How do I merge python code with html and css.](https://www.reddit.com/r/Python/comments/x0huqu/how_do_i_merge_python_code_with_html_and_css/)
-- [Domain specific messenger app. Stack required](https://www.reddit.com/r/Python/comments/x0g8d4/domain_specific_messenger_app_stack_required/)
-- [Learning from scratch](https://www.reddit.com/r/Python/comments/x0fnng/learning_from_scratch/)
 <!-- BLOG-POST-LIST:END -->
