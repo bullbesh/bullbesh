@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [When i def main in my code it causes the compiler to crash. can anyone tell me why? the error says expected an indented block after function definition on line 1](https://www.reddit.com/r/Python/comments/x06mby/when_i_def_main_in_my_code_it_causes_the_compiler/)
+- [When wouldn’t you use Python?](https://www.reddit.com/r/Python/comments/x0cf2y/when_wouldnt_you_use_python/)
+- [- At work I have to download 1 sheet per hour - the source of data adds unnecessary column that I don’t use and cannot ask them to not do it let alone do it in a different format. How do I substitute and exchange columns and delete some automatically once the data sheet is inserted into my workbook?](https://www.reddit.com/r/Python/comments/x0b68z/at_work_i_have_to_download_1_sheet_per_hour_the/)
+- [Error when sending &#39;GET&#39; request - Flask API Endpoint](https://www.reddit.com/r/Python/comments/x0a2lq/error_when_sending_get_request_flask_api_endpoint/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/x0a07x/monday_daily_thread_project_ideas/)
 - [Asynchronous client module for Nextcloud](https://www.reddit.com/r/Python/comments/x06ert/asynchronous_client_module_for_nextcloud/)
-- [Unix Pioneer Brian Kernighan: if you could only use one language, choose Python](https://www.reddit.com/r/Python/comments/x05859/unix_pioneer_brian_kernighan_if_you_could_only/)
-- [Python GUI - PyQt Containers and Layouts Explained](https://www.reddit.com/r/Python/comments/x03t84/python_gui_pyqt_containers_and_layouts_explained/)
-- [Stable Diffusion text to image generation AI web UI, a browser interface based on Gradio library in Python](https://www.reddit.com/r/Python/comments/x022ym/stable_diffusion_text_to_image_generation_ai_web/)
 <!-- BLOG-POST-LIST:END -->
