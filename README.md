@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Want to learn Python. What resources can I use to learn Python, but in a way that’s catered to security/cyber security?](https://www.reddit.com/r/Python/comments/x0z65i/i_want_to_learn_python_what_resources_can_i_use/)
+- [great video exaining __main__ and __name__](https://www.reddit.com/r/Python/comments/x0z51k/great_video_exaining_main_and_name/)
+- [Streamlit Web app](https://www.reddit.com/r/Python/comments/x0z0aq/streamlit_web_app/)
 - [Just Made a Python Script To Scroll Reddit For Me To Get Karma Lol](https://www.reddit.com/r/Python/comments/x0xo2v/just_made_a_python_script_to_scroll_reddit_for_me/)
 - [I created an Open Source NLP for Python library because most of the options out there aren&#39;t being maintained, would love some contributions if y&#39;all are feeling so inclined!](https://www.reddit.com/r/Python/comments/x0x43n/i_created_an_open_source_nlp_for_python_library/)
-- [Opportunity to learn MLOps LIVE with Harvard Professor.](https://www.reddit.com/r/Python/comments/x0wna1/opportunity_to_learn_mlops_live_with_harvard/)
-- [One step deeper - software development basics - for beginner](https://www.reddit.com/r/Python/comments/x0w88o/one_step_deeper_software_development_basics_for/)
-- [Looking for Feedback on Robyn&#39;s documentation](https://www.reddit.com/r/Python/comments/x0viho/looking_for_feedback_on_robyns_documentation/)
 <!-- BLOG-POST-LIST:END -->
