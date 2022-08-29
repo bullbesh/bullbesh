@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I Want to learn Python. What resources can I use to learn Python, but in a way that’s catered to security/cyber security?](https://www.reddit.com/r/Python/comments/x0z65i/i_want_to_learn_python_what_resources_can_i_use/)
+- [Python for MS Developer Studio](https://www.reddit.com/r/Python/comments/x10tg4/python_for_ms_developer_studio/)
 - [great video exaining __main__ and __name__](https://www.reddit.com/r/Python/comments/x0z51k/great_video_exaining_main_and_name/)
 - [Streamlit Web app](https://www.reddit.com/r/Python/comments/x0z0aq/streamlit_web_app/)
 - [Just Made a Python Script To Scroll Reddit For Me To Get Karma Lol](https://www.reddit.com/r/Python/comments/x0xo2v/just_made_a_python_script_to_scroll_reddit_for_me/)
