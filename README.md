@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I repurposed code I wrote for a music service I built years ago for my music portfolio. What do you all think?](https://www.reddit.com/r/Python/comments/x1rqb9/i_repurposed_code_i_wrote_for_a_music_service_i/)
+- [pythoncheatsheet.org re-launch](https://www.reddit.com/r/Python/comments/x1sz8h/pythoncheatsheetorg_relaunch/)
 - [PyPI Upload Tool! &lpar;Powershell&rpar;](https://www.reddit.com/r/Python/comments/x1q3oe/pypi_upload_tool_powershell/)
 - [hyperparameter, a lightweight configuration framework](https://www.reddit.com/r/Python/comments/x1myku/hyperparameter_a_lightweight_configuration/)
 - [Cryptocurrency price alert SMS with Twilio — Built with Python](https://www.reddit.com/r/Python/comments/x1llrw/cryptocurrency_price_alert_sms_with_twilio_built/)
