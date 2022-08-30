@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyPI Upload Tool! &lpar;Powershell&rpar;](https://www.reddit.com/r/Python/comments/x1q3oe/pypi_upload_tool_powershell/)
 - [hyperparameter, a lightweight configuration framework](https://www.reddit.com/r/Python/comments/x1myku/hyperparameter_a_lightweight_configuration/)
 - [Cryptocurrency price alert SMS with Twilio — Built with Python](https://www.reddit.com/r/Python/comments/x1llrw/cryptocurrency_price_alert_sms_with_twilio_built/)
 - [Experts warn of the first known phishing attack against PyPI](https://www.reddit.com/r/Python/comments/x1kwqp/experts_warn_of_the_first_known_phishing_attack/)
 - [Python and PyQt: Building a GUI Desktop Calculator – Real Python](https://www.reddit.com/r/Python/comments/x1ju3o/python_and_pyqt_building_a_gui_desktop_calculator/)
-- [The free weekly electronic Python on Microcontrollers Newsletter 200th Issue Special Edition](https://www.reddit.com/r/Python/comments/x1jagh/the_free_weekly_electronic_python_on/)
 <!-- BLOG-POST-LIST:END -->
