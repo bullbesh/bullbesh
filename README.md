@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [7 spaCy Features To Boost Your NLP Pipelines And Save Time](https://www.reddit.com/r/Python/comments/x1d19x/7_spacy_features_to_boost_your_nlp_pipelines_and/)
 - [Something fun for the Pythonistas](https://www.reddit.com/r/Python/comments/x13ziq/something_fun_for_the_pythonistas/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/x13zat/tuesday_daily_thread_advanced_questions/)
 - [python: command line app to GUI](https://www.reddit.com/r/Python/comments/x137sy/python_command_line_app_to_gui/)
 - [Announcing witertools, a library to wrap functions that return lists around iterators.](https://www.reddit.com/r/Python/comments/x12ghe/announcing_witertools_a_library_to_wrap_functions/)
-- [great video exaining __main__ and __name__](https://www.reddit.com/r/Python/comments/x0z51k/great_video_exaining_main_and_name/)
 <!-- BLOG-POST-LIST:END -->
