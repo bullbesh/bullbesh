@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How do you upload a JSON file to Firebase from Python?](https://www.reddit.com/r/Python/comments/x1vvk5/how_do_you_upload_a_json_file_to_firebase_from/)
+- [How I learned App Development in Python](https://www.reddit.com/r/Python/comments/x1wff1/how_i_learned_app_development_in_python/)
 - [bro im slowly starting to realize, python is a framwork. mind baloney](https://www.reddit.com/r/Python/comments/x1uob9/bro_im_slowly_starting_to_realize_python_is_a/)
 - [My first Python project: Tic Tac Toe](https://www.reddit.com/r/Python/comments/x1ukff/my_first_python_project_tic_tac_toe/)
 - [pythoncheatsheet.org re-launch](https://www.reddit.com/r/Python/comments/x1sz8h/pythoncheatsheetorg_relaunch/)
