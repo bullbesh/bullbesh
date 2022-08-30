@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [HyperParameter for ML Models and Systems](https://www.reddit.com/r/Python/comments/x1f0wr/hyperparameter_for_ml_models_and_systems/)
+- [Running Pygame in the browser with Pygbag](https://www.reddit.com/r/Python/comments/x1iac9/running_pygame_in_the_browser_with_pygbag/)
+- [Pytest import errors](https://www.reddit.com/r/Python/comments/x1gxtw/pytest_import_errors/)
 - [Going beyond the basics with Django &amp; Databases](https://www.reddit.com/r/Python/comments/x1etr1/going_beyond_the_basics_with_django_databases/)
 - [GitHub - brendanartley/Regressio: A python library for univariate regression, interpolation, and smoothing.](https://www.reddit.com/r/Python/comments/x1dy3c/github_brendanartleyregressio_a_python_library/)
 - [I am the Co-founder of Video SDK, We are Live on Product Hunt. AMA!](https://www.reddit.com/r/Python/comments/x1drm9/i_am_the_cofounder_of_video_sdk_we_are_live_on/)
-- [I am the Co-founder of Video SDK, We are Live on Product Hunt. AMA!](https://www.reddit.com/r/Python/comments/x1dp1b/i_am_the_cofounder_of_video_sdk_we_are_live_on/)
 <!-- BLOG-POST-LIST:END -->
