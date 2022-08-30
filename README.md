@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [bro im slowly starting to realize, python is a framwork. mind baloney](https://www.reddit.com/r/Python/comments/x1uob9/bro_im_slowly_starting_to_realize_python_is_a/)
+- [My first Python project: Tic Tac Toe](https://www.reddit.com/r/Python/comments/x1ukff/my_first_python_project_tic_tac_toe/)
 - [pythoncheatsheet.org re-launch](https://www.reddit.com/r/Python/comments/x1sz8h/pythoncheatsheetorg_relaunch/)
 - [PyPI Upload Tool! &lpar;Powershell&rpar;](https://www.reddit.com/r/Python/comments/x1q3oe/pypi_upload_tool_powershell/)
 - [hyperparameter, a lightweight configuration framework](https://www.reddit.com/r/Python/comments/x1myku/hyperparameter_a_lightweight_configuration/)
-- [Cryptocurrency price alert SMS with Twilio — Built with Python](https://www.reddit.com/r/Python/comments/x1llrw/cryptocurrency_price_alert_sms_with_twilio_built/)
-- [Experts warn of the first known phishing attack against PyPI](https://www.reddit.com/r/Python/comments/x1kwqp/experts_warn_of_the_first_known_phishing_attack/)
 <!-- BLOG-POST-LIST:END -->
