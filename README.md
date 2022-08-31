@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PypStats, Get statistics from Python file&lpar;s&rpar; from your python files](https://www.reddit.com/r/Python/comments/x2hwsz/pypstats_get_statistics_from_python_files_from/)
+- [@main_function - A beginner-friendly decorator alternative to if __name__ == &#39;__main__&#39;: main&lpar;&rpar; idiom](https://www.reddit.com/r/Python/comments/x2hd7r/main_function_a_beginnerfriendly_decorator/)
 - [ActivityWatch v0.12.0 just released! - An open-source automated time-tracker that is cross-platform, extensible and privacy-focused](https://www.reddit.com/r/Python/comments/x2fxmn/activitywatch_v0120_just_released_an_opensource/)
 - [Newbie:](https://www.reddit.com/r/Python/comments/x2ffie/newbie/)
 - [Unit testing a function that runs logic and queries the database, how would you do it right?](https://www.reddit.com/r/Python/comments/x2d52s/unit_testing_a_function_that_runs_logic_and/)
-- [EverydayCalculator v0.2](https://www.reddit.com/r/Python/comments/x2cy9e/everydaycalculator_v02/)
-- [The Rouge Wander &lpar;ASCII RPG in Python&rpar;](https://www.reddit.com/r/Python/comments/x2cmi0/the_rouge_wander_ascii_rpg_in_python/)
 <!-- BLOG-POST-LIST:END -->
