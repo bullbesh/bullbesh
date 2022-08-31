@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data jammer for search engine companies](https://www.reddit.com/r/Python/comments/x20999/data_jammer_for_search_engine_companies/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/x1ymmd/wednesday_daily_thread_beginner_questions/)
+- [Developers, ASSEMBLE!](https://www.reddit.com/r/Python/comments/x1yj1f/developers_assemble/)
 - [How I learned App Development in Python](https://www.reddit.com/r/Python/comments/x1wff1/how_i_learned_app_development_in_python/)
 - [bro im slowly starting to realize, python is a framwork. mind baloney](https://www.reddit.com/r/Python/comments/x1uob9/bro_im_slowly_starting_to_realize_python_is_a/)
-- [My first Python project: Tic Tac Toe](https://www.reddit.com/r/Python/comments/x1ukff/my_first_python_project_tic_tac_toe/)
-- [pythoncheatsheet.org re-launch](https://www.reddit.com/r/Python/comments/x1sz8h/pythoncheatsheetorg_relaunch/)
-- [PyPI Upload Tool! &lpar;Powershell&rpar;](https://www.reddit.com/r/Python/comments/x1q3oe/pypi_upload_tool_powershell/)
 <!-- BLOG-POST-LIST:END -->
