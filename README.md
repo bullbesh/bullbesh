@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recommendations for generating an ics file in Python](https://www.reddit.com/r/Python/comments/x2ouj9/recommendations_for_generating_an_ics_file_in/)
+- [backspace in python](https://www.reddit.com/r/Python/comments/x2op96/backspace_in_python/)
 - [How to make an A.I. from scratch](https://www.reddit.com/r/Python/comments/x2nbm1/how_to_make_an_ai_from_scratch/)
 - [Stable Diffusion CPU ONLY With Web Interface Install guide in Python](https://www.reddit.com/r/Python/comments/x2kuqn/stable_diffusion_cpu_only_with_web_interface/)
 - [emerge - fast, computational, object database](https://www.reddit.com/r/Python/comments/x2jrnb/emerge_fast_computational_object_database/)
-- [PypStats, Get statistics from Python file&lpar;s&rpar; from your python files](https://www.reddit.com/r/Python/comments/x2hwsz/pypstats_get_statistics_from_python_files_from/)
-- [@main_function - A beginner-friendly decorator alternative to if __name__ == &#39;__main__&#39;: main&lpar;&rpar; idiom](https://www.reddit.com/r/Python/comments/x2hd7r/main_function_a_beginnerfriendly_decorator/)
 <!-- BLOG-POST-LIST:END -->
