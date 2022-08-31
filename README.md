@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas 1.5.0 Release Candidate &lpar;rc0&rpar; is tagged](https://www.reddit.com/r/Python/comments/x2796p/pandas_150_release_candidate_rc0_is_tagged/)
+- [GitHub - iafisher/isqlite: An improved Python interface to SQLite](https://www.reddit.com/r/Python/comments/x270ee/github_iafisherisqlite_an_improved_python/)
 - [I made this universal storage service downloader. Check it out!](https://www.reddit.com/r/Python/comments/x26k44/i_made_this_universal_storage_service_downloader/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/x1ymmd/wednesday_daily_thread_beginner_questions/)
 - [How I learned App Development in Python](https://www.reddit.com/r/Python/comments/x1wff1/how_i_learned_app_development_in_python/)
-- [bro im slowly starting to realize, python is a framwork. mind baloney](https://www.reddit.com/r/Python/comments/x1uob9/bro_im_slowly_starting_to_realize_python_is_a/)
-- [My first Python project: Tic Tac Toe](https://www.reddit.com/r/Python/comments/x1ukff/my_first_python_project_tic_tac_toe/)
 <!-- BLOG-POST-LIST:END -->
