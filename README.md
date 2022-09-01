@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python and challenge yourself with a virtual assistant](https://www.reddit.com/r/Python/comments/x35aix/learn_python_and_challenge_yourself_with_a/)
+- [How to deploy a Machine Learning microservice to Google Cloud Run](https://www.reddit.com/r/Python/comments/x350zn/how_to_deploy_a_machine_learning_microservice_to/)
 - [EverydayCalculator v0.25](https://www.reddit.com/r/Python/comments/x34dqm/everydaycalculator_v025/)
 - [Anaconda and inuse py env](https://www.reddit.com/r/Python/comments/x32ibf/anaconda_and_inuse_py_env/)
-- [Syntex error - double apostraphe](https://www.reddit.com/r/Python/comments/x30zyn/syntex_error_double_apostraphe/)
 - [My first python project update Single Player Tic Tac Toe](https://www.reddit.com/r/Python/comments/x30pl3/my_first_python_project_update_single_player_tic/)
-- [GitHub - charliermarsh/ruff: An extremely fast Python linter, written in Rust.](https://www.reddit.com/r/Python/comments/x30lcs/github_charliermarshruff_an_extremely_fast_python/)
 <!-- BLOG-POST-LIST:END -->
