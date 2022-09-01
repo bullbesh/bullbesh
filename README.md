@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built an indoor asset tracker with CircuitPython that uses Wi-Fi triangulation to calculate amazingly accurate location data &lpar;within single-digit meter accuracy&rpar;](https://www.reddit.com/r/Python/comments/x37doh/i_built_an_indoor_asset_tracker_with/)
+- [Do you use Python in combination with some graph database?](https://www.reddit.com/r/Python/comments/x376eg/do_you_use_python_in_combination_with_some_graph/)
 - [Learn Python and challenge yourself with a virtual assistant](https://www.reddit.com/r/Python/comments/x35aix/learn_python_and_challenge_yourself_with_a/)
 - [How to deploy a Machine Learning microservice to Google Cloud Run](https://www.reddit.com/r/Python/comments/x350zn/how_to_deploy_a_machine_learning_microservice_to/)
 - [EverydayCalculator v0.25](https://www.reddit.com/r/Python/comments/x34dqm/everydaycalculator_v025/)
-- [Anaconda and inuse py env](https://www.reddit.com/r/Python/comments/x32ibf/anaconda_and_inuse_py_env/)
-- [My first python project update Single Player Tic Tac Toe](https://www.reddit.com/r/Python/comments/x30pl3/my_first_python_project_update_single_player_tic/)
 <!-- BLOG-POST-LIST:END -->
