@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Syntex error - double apostraphe](https://www.reddit.com/r/Python/comments/x30zyn/syntex_error_double_apostraphe/)
+- [My first python project update Single Player Tic Tac Toe](https://www.reddit.com/r/Python/comments/x30pl3/my_first_python_project_update_single_player_tic/)
+- [GitHub - charliermarsh/ruff: An extremely fast Python linter, written in Rust.](https://www.reddit.com/r/Python/comments/x30lcs/github_charliermarshruff_an_extremely_fast_python/)
 - [The Guessr Game](https://www.reddit.com/r/Python/comments/x2x9oz/the_guessr_game/)
 - [Animated &lpar;color cycling&rpar; Mandelbrot render in terminal](https://www.reddit.com/r/Python/comments/x2vy8n/animated_color_cycling_mandelbrot_render_in/)
-- [PyBay2022, regional Python Conference is next SAT SEPT 10 - amazing talk list - in-person or online](https://www.reddit.com/r/Python/comments/x2stkc/pybay2022_regional_python_conference_is_next_sat/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/x2sosw/thursday_daily_thread_python_careers_courses_and/)
-- [Create Your Own Code Editor Using PyQt5 #6 - Adding Jedi Autocompletion](https://www.reddit.com/r/Python/comments/x2qyw8/create_your_own_code_editor_using_pyqt5_6_adding/)
 <!-- BLOG-POST-LIST:END -->
