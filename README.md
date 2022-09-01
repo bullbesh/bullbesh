@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with Dash and dashboards for the first time](https://www.reddit.com/r/Python/comments/x3bf0c/working_with_dash_and_dashboards_for_the_first/)
+- [Heroku&#39;s free tier legacy](https://www.reddit.com/r/Python/comments/x3b83o/herokus_free_tier_legacy/)
+- [@def_main - A simpler, even more friendly alternative to `if __name__ == &#39;__main__&#39;:`](https://www.reddit.com/r/Python/comments/x3atdr/def_main_a_simpler_even_more_friendly_alternative/)
+- [Python](https://www.reddit.com/r/Python/comments/x3antt/python/)
 - [Progress Bars in Python with tqdm for Fun and Profit](https://www.reddit.com/r/Python/comments/x3aeo3/progress_bars_in_python_with_tqdm_for_fun_and/)
-- [Is it possible to run a computer simulation on python? Looking to simulate the process of boarding an airplane in different orders to find the faster method.](https://www.reddit.com/r/Python/comments/x39v54/is_it_possible_to_run_a_computer_simulation_on/)
-- [I struggle learning python and pandas.](https://www.reddit.com/r/Python/comments/x3949c/i_struggle_learning_python_and_pandas/)
-- [Announcement of Fellows selected for Univ.AI’s MLOps Fellowship!!](https://www.reddit.com/r/Python/comments/x38zw4/announcement_of_fellows_selected_for_univais/)
-- [Packj sandbox for “safe installation” of PyPI packages](https://www.reddit.com/r/Python/comments/x38rog/packj_sandbox_for_safe_installation_of_pypi/)
 <!-- BLOG-POST-LIST:END -->
