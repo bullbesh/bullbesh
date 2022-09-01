@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Extract only non zero values from columns &lpar;with header name and value&rpar;, without ID?](https://www.reddit.com/r/Python/comments/x3ibih/extract_only_non_zero_values_from_columns_with/)
 - [Diving deeper into the time library](https://www.reddit.com/r/Python/comments/x3hcqp/diving_deeper_into_the_time_library/)
 - [I built a platform for helping Django devs to find a new job](https://www.reddit.com/r/Python/comments/x3d925/i_built_a_platform_for_helping_django_devs_to/)
-- [Working with Dash and dashboards for the first time](https://www.reddit.com/r/Python/comments/x3bf0c/working_with_dash_and_dashboards_for_the_first/)
 - [@def_main - A simpler, even more friendly alternative to `if __name__ == &#39;__main__&#39;:`](https://www.reddit.com/r/Python/comments/x3atdr/def_main_a_simpler_even_more_friendly_alternative/)
+- [Progress Bars in Python with tqdm for Fun and Profit](https://www.reddit.com/r/Python/comments/x3aeo3/progress_bars_in_python_with_tqdm_for_fun_and/)
+- [Announcement of Fellows selected for Univ.AI’s MLOps Fellowship!!](https://www.reddit.com/r/Python/comments/x38zw4/announcement_of_fellows_selected_for_univais/)
 <!-- BLOG-POST-LIST:END -->
