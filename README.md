@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Progress Bars in Python with tqdm for Fun and Profit](https://www.reddit.com/r/Python/comments/x3aeo3/progress_bars_in_python_with_tqdm_for_fun_and/)
+- [Is it possible to run a computer simulation on python? Looking to simulate the process of boarding an airplane in different orders to find the faster method.](https://www.reddit.com/r/Python/comments/x39v54/is_it_possible_to_run_a_computer_simulation_on/)
+- [I struggle learning python and pandas.](https://www.reddit.com/r/Python/comments/x3949c/i_struggle_learning_python_and_pandas/)
+- [Announcement of Fellows selected for Univ.AI’s MLOps Fellowship!!](https://www.reddit.com/r/Python/comments/x38zw4/announcement_of_fellows_selected_for_univais/)
 - [Packj sandbox for “safe installation” of PyPI packages](https://www.reddit.com/r/Python/comments/x38rog/packj_sandbox_for_safe_installation_of_pypi/)
-- [Book recommendations for beginners](https://www.reddit.com/r/Python/comments/x381as/book_recommendations_for_beginners/)
-- [I built an indoor asset tracker with CircuitPython that uses Wi-Fi triangulation to calculate amazingly accurate location data &lpar;within single-digit meter accuracy&rpar;](https://www.reddit.com/r/Python/comments/x37doh/i_built_an_indoor_asset_tracker_with/)
-- [Do you use Python in combination with some graph database?](https://www.reddit.com/r/Python/comments/x376eg/do_you_use_python_in_combination_with_some_graph/)
-- [Learn Python and challenge yourself with a virtual assistant](https://www.reddit.com/r/Python/comments/x35aix/learn_python_and_challenge_yourself_with_a/)
 <!-- BLOG-POST-LIST:END -->
