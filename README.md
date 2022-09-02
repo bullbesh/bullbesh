@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hey everyone, I made a python programming asmr video](https://www.reddit.com/r/Python/comments/x42nlt/hey_everyone_i_made_a_python_programming_asmr/)
+- [MerakiToolKit : My first project to automate some Meraki Cloud operations via CLI](https://www.reddit.com/r/Python/comments/x42nev/merakitoolkit_my_first_project_to_automate_some/)
 - [Create life simulator in python like this one](https://www.reddit.com/r/Python/comments/x41ifl/create_life_simulator_in_python_like_this_one/)
 - [How to execute a task in python3, if getting same output?](https://www.reddit.com/r/Python/comments/x41fyz/how_to_execute_a_task_in_python3_if_getting_same/)
 - [else statement issue](https://www.reddit.com/r/Python/comments/x413zc/else_statement_issue/)
-- [First job and getting started guidelines](https://www.reddit.com/r/Python/comments/x40p9j/first_job_and_getting_started_guidelines/)
-- [What packages replaced standard library modules in your workflow?](https://www.reddit.com/r/Python/comments/x3z0lp/what_packages_replaced_standard_library_modules/)
 <!-- BLOG-POST-LIST:END -->
