@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I 16 and am a pc and IT nerd and today had my first programming class at school](https://www.reddit.com/r/Python/comments/x4dliz/i_16_and_am_a_pc_and_it_nerd_and_today_had_my/)
+- [I made a program in Python that generates a list of all the Youtuber channels on/connected to the British scene by tracking through their collaborations](https://www.reddit.com/r/Python/comments/x4ej6c/i_made_a_program_in_python_that_generates_a_list/)
 - [Fields2Cover, the first Open-Source Coverage Path Planning library for &lpar;not only&rpar; agriculture](https://www.reddit.com/r/Python/comments/x4czll/fields2cover_the_first_opensource_coverage_path/)
 - [Starting my Python journey](https://www.reddit.com/r/Python/comments/x4cu5g/starting_my_python_journey/)
 - [Python Source Preprocessor](https://www.reddit.com/r/Python/comments/x4cdv4/python_source_preprocessor/)
