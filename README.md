@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to access and add items in list using python](https://www.reddit.com/r/Python/comments/x48o5s/how_to_access_and_add_items_in_list_using_python/)
+- [Infinite Captchas](https://www.reddit.com/r/Python/comments/x47tsj/infinite_captchas/)
+- [how can we do multithreading on this ?](https://www.reddit.com/r/Python/comments/x47sb8/how_can_we_do_multithreading_on_this/)
+- [Hosting my own version of PEP 20. It has an image for each zen which shows up in many social and chat platforms. Feel free to use it or fork it and host your own :&rpar;](https://www.reddit.com/r/Python/comments/x47cdb/hosting_my_own_version_of_pep_20_it_has_an_image/)
 - [How would you deacribe ‘elegant code’ to a beginner programmer?](https://www.reddit.com/r/Python/comments/x474em/how_would_you_deacribe_elegant_code_to_a_beginner/)
-- [i created a interpreted programing language in python!](https://www.reddit.com/r/Python/comments/x46wco/i_created_a_interpreted_programing_language_in/)
-- [What Python debugger do you use?](https://www.reddit.com/r/Python/comments/x46len/what_python_debugger_do_you_use/)
-- [I just published a package that generates website reports](https://www.reddit.com/r/Python/comments/x44egy/i_just_published_a_package_that_generates_website/)
-- [My 1st Public Python Project | It&#39;s n00btastic](https://www.reddit.com/r/Python/comments/x43ion/my_1st_public_python_project_its_n00btastic/)
 <!-- BLOG-POST-LIST:END -->
