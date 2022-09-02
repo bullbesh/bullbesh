@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are artificial intelligence models stealing from artists and programmers?](https://www.reddit.com/r/Python/comments/x3rg88/are_artificial_intelligence_models_stealing_from/)
+- [The GitHub Trending repositories/users was deprecated](https://www.reddit.com/r/Python/comments/x3rc6i/the_github_trending_repositoriesusers_was/)
+- [No Starch Press Python books](https://www.reddit.com/r/Python/comments/x3q3nh/no_starch_press_python_books/)
 - [When is writing scripts for automating at work not worth it?](https://www.reddit.com/r/Python/comments/x3poxm/when_is_writing_scripts_for_automating_at_work/)
-- [what is dynamic typing](https://www.reddit.com/r/Python/comments/x3lz5b/what_is_dynamic_typing/)
 - [Diving deeper into the time library](https://www.reddit.com/r/Python/comments/x3hcqp/diving_deeper_into_the_time_library/)
-- [I built a platform for helping Django devs to find a new job](https://www.reddit.com/r/Python/comments/x3d925/i_built_a_platform_for_helping_django_devs_to/)
-- [@def_main - A simpler, even more friendly alternative to `if __name__ == &#39;__main__&#39;:`](https://www.reddit.com/r/Python/comments/x3atdr/def_main_a_simpler_even_more_friendly_alternative/)
 <!-- BLOG-POST-LIST:END -->
