@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create life simulator in python like this one](https://www.reddit.com/r/Python/comments/x41ifl/create_life_simulator_in_python_like_this_one/)
+- [How to execute a task in python3, if getting same output?](https://www.reddit.com/r/Python/comments/x41fyz/how_to_execute_a_task_in_python3_if_getting_same/)
+- [else statement issue](https://www.reddit.com/r/Python/comments/x413zc/else_statement_issue/)
+- [First job and getting started guidelines](https://www.reddit.com/r/Python/comments/x40p9j/first_job_and_getting_started_guidelines/)
 - [What packages replaced standard library modules in your workflow?](https://www.reddit.com/r/Python/comments/x3z0lp/what_packages_replaced_standard_library_modules/)
-- [&lpar;Semi&rpar;automated frontend generation?](https://www.reddit.com/r/Python/comments/x3z00x/semiautomated_frontend_generation/)
-- [Unicaps v1.0.0: a new version of Python package for CAPTCHA solving &lpar;now with async support&rpar;](https://www.reddit.com/r/Python/comments/x3ynxf/unicaps_v100_a_new_version_of_python_package_for/)
-- [GitHub - albertz/py-tui-editor: Simple Python terminal &lpar;TUI&rpar; multi-line editor](https://www.reddit.com/r/Python/comments/x3y56v/github_albertzpytuieditor_simple_python_terminal/)
-- [GitHub - NVIDIAGameWorks/kaolin-wisp: NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields &lpar;including NeRFs, NGLOD, instant-ngp and VQAD&rpar;.](https://www.reddit.com/r/Python/comments/x3y564/github_nvidiagameworkskaolinwisp_nvidia_kaolin/)
 <!-- BLOG-POST-LIST:END -->
