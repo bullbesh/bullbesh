@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Mathematical Concepts That Every Programmer Should Know](https://www.reddit.com/r/Python/comments/x4tf6k/5_mathematical_concepts_that_every_programmer/)
+- [New BucketRateLimiter Python package to limit number of requests to APIs](https://www.reddit.com/r/Python/comments/x4srau/new_bucketratelimiter_python_package_to_limit/)
+- [Free time side hustle ideas](https://www.reddit.com/r/Python/comments/x4s9iy/free_time_side_hustle_ideas/)
 - [i created a interpreted programing language in python! &lpar;now with working link&rpar;](https://www.reddit.com/r/Python/comments/x4rr16/i_created_a_interpreted_programing_language_in/)
 - [I found R too difficult, but with tidyverse, I have changed my mind](https://www.reddit.com/r/Python/comments/x4rjt6/i_found_r_too_difficult_but_with_tidyverse_i_have/)
-- [What&#39;s the strongest encryption available for Python and which library do you use to implement it?](https://www.reddit.com/r/Python/comments/x4qpf5/whats_the_strongest_encryption_available_for/)
-- [Python Client for GRBL](https://www.reddit.com/r/Python/comments/x4nptj/python_client_for_grbl/)
-- [A bard fisherman&#39;s tale - image processing in games with Python](https://www.reddit.com/r/Python/comments/x4ne7b/a_bard_fishermans_tale_image_processing_in_games/)
 <!-- BLOG-POST-LIST:END -->
