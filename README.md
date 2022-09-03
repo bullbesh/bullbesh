@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [html got stuck after running for loop in jinja2 in my html file](https://www.reddit.com/r/Python/comments/x4mmgh/html_got_stuck_after_running_for_loop_in_jinja2/)
+- [A bard fisherman&#39;s tale - image processing in games with Python](https://www.reddit.com/r/Python/comments/x4ne7b/a_bard_fishermans_tale_image_processing_in_games/)
 - [Forganiser - A nifty tool to sort your messy folders](https://www.reddit.com/r/Python/comments/x4mabj/forganiser_a_nifty_tool_to_sort_your_messy_folders/)
 - [Combining Pandas DataFrames Made Simple](https://www.reddit.com/r/Python/comments/x4lltg/combining_pandas_dataframes_made_simple/)
-- [I have exam after three hours](https://www.reddit.com/r/Python/comments/x4lkph/i_have_exam_after_three_hours/)
-- [What are good ways to get my github repos noticed?](https://www.reddit.com/r/Python/comments/x4kmd4/what_are_good_ways_to_get_my_github_repos_noticed/)
+- [Stegocrypt: a tool for embedding encrypted messages into png images](https://www.reddit.com/r/Python/comments/x4hq6e/stegocrypt_a_tool_for_embedding_encrypted/)
+- [If you implement __len__ for your class, you might want to also implement __bool__](https://www.reddit.com/r/Python/comments/x4gpuj/if_you_implement_len_for_your_class_you_might/)
 <!-- BLOG-POST-LIST:END -->
