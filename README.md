@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [_run_app vs run_app in aiohttp](https://www.reddit.com/r/Python/comments/x4i9ox/run_app_vs_run_app_in_aiohttp/)
+- [Stegocrypt: a tool for embedding encrypted messages into png images](https://www.reddit.com/r/Python/comments/x4hq6e/stegocrypt_a_tool_for_embedding_encrypted/)
+- [If you implement __len__ for your class, you might want to also implement __bool__](https://www.reddit.com/r/Python/comments/x4gpuj/if_you_implement_len_for_your_class_you_might/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/x4gd3a/saturday_daily_thread_resource_request_and/)
 - [I made a program in Python that generates a list of all the Youtuber channels on/connected to the British scene by tracking through their collaborations](https://www.reddit.com/r/Python/comments/x4ej6c/i_made_a_program_in_python_that_generates_a_list/)
-- [Fields2Cover, the first Open-Source Coverage Path Planning library for &lpar;not only&rpar; agriculture](https://www.reddit.com/r/Python/comments/x4czll/fields2cover_the_first_opensource_coverage_path/)
-- [Starting my Python journey](https://www.reddit.com/r/Python/comments/x4cu5g/starting_my_python_journey/)
-- [Python Source Preprocessor](https://www.reddit.com/r/Python/comments/x4cdv4/python_source_preprocessor/)
-- [Know how many times your project has been downloaded](https://www.reddit.com/r/Python/comments/x4amvx/know_how_many_times_your_project_has_been/)
 <!-- BLOG-POST-LIST:END -->
