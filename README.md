@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Youtube video downloader with tkinter and pytube](https://www.reddit.com/r/Python/comments/x518ju/simple_youtube_video_downloader_with_tkinter_and/)
+- [Ursina Python First person Game video : weapon to player](https://www.reddit.com/r/Python/comments/x50q9x/ursina_python_first_person_game_video_weapon_to/)
+- [I made a UNIX Shell entirely inside of python.](https://www.reddit.com/r/Python/comments/x50nqk/i_made_a_unix_shell_entirely_inside_of_python/)
+- [If you&#39;re into machine learning, check out this video, which goes over how to implement the K-Means Clustering Algorithm with the SciKit-Learn library in Python! Hope this helps.](https://www.reddit.com/r/Python/comments/x50h2n/if_youre_into_machine_learning_check_out_this/)
 - [AI code writing assistant for data scientists](https://www.reddit.com/r/Python/comments/x4z4fb/ai_code_writing_assistant_for_data_scientists/)
-- [Do you write unit tests?](https://www.reddit.com/r/Python/comments/x4xlvh/do_you_write_unit_tests/)
-- [How Can You Install a Pre-Release Version of Python? – Real Python](https://www.reddit.com/r/Python/comments/x4vs0u/how_can_you_install_a_prerelease_version_of/)
-- [Level up your Pandas skills with query&lpar;&rpar; and eval&lpar;&rpar;](https://www.reddit.com/r/Python/comments/x4u928/level_up_your_pandas_skills_with_query_and_eval/)
-- [5 Mathematical Concepts That Every Programmer Should Know](https://www.reddit.com/r/Python/comments/x4tf6k/5_mathematical_concepts_that_every_programmer/)
 <!-- BLOG-POST-LIST:END -->
