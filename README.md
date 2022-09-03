@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [_run_app vs run_app in aiohttp](https://www.reddit.com/r/Python/comments/x4i9ox/run_app_vs_run_app_in_aiohttp/)
+- [What are good ways to get my github repos noticed?](https://www.reddit.com/r/Python/comments/x4kmd4/what_are_good_ways_to_get_my_github_repos_noticed/)
 - [Stegocrypt: a tool for embedding encrypted messages into png images](https://www.reddit.com/r/Python/comments/x4hq6e/stegocrypt_a_tool_for_embedding_encrypted/)
 - [If you implement __len__ for your class, you might want to also implement __bool__](https://www.reddit.com/r/Python/comments/x4gpuj/if_you_implement_len_for_your_class_you_might/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/x4gd3a/saturday_daily_thread_resource_request_and/)
