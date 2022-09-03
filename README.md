@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Level up your Pandas skills with query&lpar;&rpar; and eval&lpar;&rpar;](https://www.reddit.com/r/Python/comments/x4u928/level_up_your_pandas_skills_with_query_and_eval/)
 - [5 Mathematical Concepts That Every Programmer Should Know](https://www.reddit.com/r/Python/comments/x4tf6k/5_mathematical_concepts_that_every_programmer/)
 - [New BucketRateLimiter Python package to limit number of requests to APIs](https://www.reddit.com/r/Python/comments/x4srau/new_bucketratelimiter_python_package_to_limit/)
 - [Free time side hustle ideas](https://www.reddit.com/r/Python/comments/x4s9iy/free_time_side_hustle_ideas/)
 - [i created a interpreted programing language in python! &lpar;now with working link&rpar;](https://www.reddit.com/r/Python/comments/x4rr16/i_created_a_interpreted_programing_language_in/)
-- [I found R too difficult, but with tidyverse, I have changed my mind](https://www.reddit.com/r/Python/comments/x4rjt6/i_found_r_too_difficult_but_with_tidyverse_i_have/)
 <!-- BLOG-POST-LIST:END -->
