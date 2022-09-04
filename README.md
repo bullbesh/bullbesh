@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackerrank Python preparation](https://www.reddit.com/r/Python/comments/x5i61i/hackerrank_python_preparation/)
+- [How &lpar;if possible&rpar; would y&#39;all make a py script that connects Safari icloud tabs on your phone with Firefox on desktop?](https://www.reddit.com/r/Python/comments/x5i61m/how_if_possible_would_yall_make_a_py_script_that/)
 - [Looking for theoretical resources for python libraries](https://www.reddit.com/r/Python/comments/x5hr9r/looking_for_theoretical_resources_for_python/)
 - [Please help](https://www.reddit.com/r/Python/comments/x5gkz8/please_help/)
 - [Tool to easily develop Tkinter GUIs](https://www.reddit.com/r/Python/comments/x5gjpv/tool_to_easily_develop_tkinter_guis/)
-- [i make project in python Speech-to-text-in-notepad-with-python](https://www.reddit.com/r/Python/comments/x5e8qg/i_make_project_in_python/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/x58m2d/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
