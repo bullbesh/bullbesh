@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [CantHide finds other Social Media accounts by giving a username. Also, you can see the previous searches below. &lpar;Pure Python&rpar;](https://www.reddit.com/r/Python/comments/x5xxio/canthide_finds_other_social_media_accounts_by/)
+- [A simple tool for timed art studies](https://www.reddit.com/r/Python/comments/x5yrlx/a_simple_tool_for_timed_art_studies/)
 - [Idea for SnowScript Programing language](https://www.reddit.com/r/Python/comments/x5xmbu/idea_for_snowscript_programing_language/)
 - [How to deploy a flask server on digitalocean in less than 5 minutes](https://www.reddit.com/r/Python/comments/x5wyvp/how_to_deploy_a_flask_server_on_digitalocean_in/)
 - [Caesar Cipher](https://www.reddit.com/r/Python/comments/x5ryg8/caesar_cipher/)
