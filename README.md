@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The simplest GUI designer for Tkinter and Python](https://www.reddit.com/r/Python/comments/x6h4mw/the_simplest_gui_designer_for_tkinter_and_python/)
 - [Use multiple versions of a package in a single script](https://www.reddit.com/r/Python/comments/x6gb21/use_multiple_versions_of_a_package_in_a_single/)
 - [Thoughts on the best way to analyze image quality](https://www.reddit.com/r/Python/comments/x6g8sl/thoughts_on_the_best_way_to_analyze_image_quality/)
 - [Development Habits Poll](https://www.reddit.com/r/Python/comments/x6fgvn/development_habits_poll/)
 - [Python vs 100Gbps Network Speed.](https://www.reddit.com/r/Python/comments/x6dokf/python_vs_100gbps_network_speed/)
-- [Hacker News PyPl phishing warning](https://www.reddit.com/r/Python/comments/x6cn0f/hacker_news_pypl_phishing_warning/)
 <!-- BLOG-POST-LIST:END -->
