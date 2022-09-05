@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Type Hints are Turing Complete](https://www.reddit.com/r/Python/comments/x6nfh9/python_type_hints_are_turing_complete/)
+- [Finished my first cool poject! &lpar;Cash_Register&rpar;](https://www.reddit.com/r/Python/comments/x6n9d1/finished_my_first_cool_poject_cash_register/)
+- [HashMaps in Python Tutorial - Data Structures for Coding Interviews](https://www.reddit.com/r/Python/comments/x6mz05/hashmaps_in_python_tutorial_data_structures_for/)
+- [Automation of form filling using python and selenium](https://www.reddit.com/r/Python/comments/x6m6hz/automation_of_form_filling_using_python_and/)
 - [My first project](https://www.reddit.com/r/Python/comments/x6ljtx/my_first_project/)
-- [can someone help me?](https://www.reddit.com/r/Python/comments/x6keu7/can_someone_help_me/)
-- [How to make a Twitter bot with Tweepy](https://www.reddit.com/r/Python/comments/x6jsnq/how_to_make_a_twitter_bot_with_tweepy/)
-- [I&#39;m looking for projects to work on](https://www.reddit.com/r/Python/comments/x6j4jh/im_looking_for_projects_to_work_on/)
-- [Transcrypt is no longer a Class A Pure Python Web Application solution](https://www.reddit.com/r/Python/comments/x6ipkm/transcrypt_is_no_longer_a_class_a_pure_python_web/)
 <!-- BLOG-POST-LIST:END -->
