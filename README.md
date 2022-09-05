@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Use multiple versions of a package in a single script](https://www.reddit.com/r/Python/comments/x6gb21/use_multiple_versions_of_a_package_in_a_single/)
+- [Thoughts on the best way to analyze image quality](https://www.reddit.com/r/Python/comments/x6g8sl/thoughts_on_the_best_way_to_analyze_image_quality/)
+- [Development Habits Poll](https://www.reddit.com/r/Python/comments/x6fgvn/development_habits_poll/)
 - [Python vs 100Gbps Network Speed.](https://www.reddit.com/r/Python/comments/x6dokf/python_vs_100gbps_network_speed/)
 - [Hacker News PyPl phishing warning](https://www.reddit.com/r/Python/comments/x6cn0f/hacker_news_pypl_phishing_warning/)
-- [Best way to organize code snippets](https://www.reddit.com/r/Python/comments/x6bt9z/best_way_to_organize_code_snippets/)
-- [EverydayCalculator v0.4](https://www.reddit.com/r/Python/comments/x6b659/everydaycalculator_v04/)
-- [To provide easy access of information on ingredients and preservatives used in packaged products with facts.](https://www.reddit.com/r/Python/comments/x6aj0n/to_provide_easy_access_of_information_on/)
 <!-- BLOG-POST-LIST:END -->
