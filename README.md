@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [The simplest GUI designer for Tkinter and Python](https://www.reddit.com/r/Python/comments/x6h4mw/the_simplest_gui_designer_for_tkinter_and_python/)
-- [Use multiple versions of a package in a single script](https://www.reddit.com/r/Python/comments/x6gb21/use_multiple_versions_of_a_package_in_a_single/)
-- [Thoughts on the best way to analyze image quality](https://www.reddit.com/r/Python/comments/x6g8sl/thoughts_on_the_best_way_to_analyze_image_quality/)
-- [Development Habits Poll](https://www.reddit.com/r/Python/comments/x6fgvn/development_habits_poll/)
-- [Python vs 100Gbps Network Speed.](https://www.reddit.com/r/Python/comments/x6dokf/python_vs_100gbps_network_speed/)
+- [Transcrypt is no longer a Class A Pure Python Web Application solution](https://www.reddit.com/r/Python/comments/x6ipkm/transcrypt_is_no_longer_a_class_a_pure_python_web/)
+- [A Github Action Python Bot to Status Checker of Federal Drug Administration Colour Additives Chemical Lists](https://www.reddit.com/r/Python/comments/x6ipae/a_github_action_python_bot_to_status_checker_of/)
+- [4 Robots Killed 29 Humans in a japanese Lab](https://www.reddit.com/r/Python/comments/x6iffi/4_robots_killed_29_humans_in_a_japanese_lab/)
+- [I gave a 2 hour newbie friendly tutorial at Kiwi Pycon on Distributed Computation - here my materials](https://www.reddit.com/r/Python/comments/x6hynp/i_gave_a_2_hour_newbie_friendly_tutorial_at_kiwi/)
+- [An IDE which uses pictures instead of syntax highlighting](https://www.reddit.com/r/Python/comments/x6hfqv/an_ide_which_uses_pictures_instead_of_syntax/)
 <!-- BLOG-POST-LIST:END -->
