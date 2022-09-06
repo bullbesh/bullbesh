@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Macbook Pro M1 Pro](https://www.reddit.com/r/Python/comments/x73xpi/macbook_pro_m1_pro/)
+- [7 Tips for Python Beginners](https://www.reddit.com/r/Python/comments/x73iyd/7_tips_for_python_beginners/)
+- [Logges v2 Out Now!](https://www.reddit.com/r/Python/comments/x73gy8/logges_v2_out_now/)
 - [Found Solution to: WARNING: Ignoring invalid distribution -{packageName} &lpar;{pathToIssue}&rpar;](https://www.reddit.com/r/Python/comments/x70edr/found_solution_to_warning_ignoring_invalid/)
 - [Gooey - for quickly building GUIs](https://www.reddit.com/r/Python/comments/x6y5s7/gooey_for_quickly_building_guis/)
-- [Yet another object serialization framework!](https://www.reddit.com/r/Python/comments/x6wugh/yet_another_object_serialization_framework/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/x6vdb4/tuesday_daily_thread_advanced_questions/)
-- [Announcing Poetry 1.2.0 -- Python dependency management and packaging made easy](https://www.reddit.com/r/Python/comments/x6njsq/announcing_poetry_120_python_dependency/)
 <!-- BLOG-POST-LIST:END -->
