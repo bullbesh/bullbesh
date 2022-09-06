@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gooey - for quickly building GUIs](https://www.reddit.com/r/Python/comments/x6y5s7/gooey_for_quickly_building_guis/)
+- [Yet another object serialization framework!](https://www.reddit.com/r/Python/comments/x6wugh/yet_another_object_serialization_framework/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/x6vdb4/tuesday_daily_thread_advanced_questions/)
 - [Any good resources for algebra?](https://www.reddit.com/r/Python/comments/x6sviu/any_good_resources_for_algebra/)
 - [Announcing Poetry 1.2.0 -- Python dependency management and packaging made easy](https://www.reddit.com/r/Python/comments/x6njsq/announcing_poetry_120_python_dependency/)
-- [Python Type Hints are Turing Complete](https://www.reddit.com/r/Python/comments/x6nfh9/python_type_hints_are_turing_complete/)
-- [Finished my first cool poject! &lpar;Cash_Register&rpar;](https://www.reddit.com/r/Python/comments/x6n9d1/finished_my_first_cool_poject_cash_register/)
-- [HashMaps in Python Tutorial - Data Structures for Coding Interviews](https://www.reddit.com/r/Python/comments/x6mz05/hashmaps_in_python_tutorial_data_structures_for/)
 <!-- BLOG-POST-LIST:END -->
