@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python News: What&#39;s New From August 2022 – Real Python](https://www.reddit.com/r/Python/comments/x7b8wq/python_news_whats_new_from_august_2022_real_python/)
+- [I&#39;ve found an alternative project to sherlock | The Watcher](https://www.reddit.com/r/Python/comments/x7b7x5/ive_found_an_alternative_project_to_sherlock_the/)
 - [Python in Visual Studio Code – September 2022 Release](https://www.reddit.com/r/Python/comments/x78yuc/python_in_visual_studio_code_september_2022/)
 - [I developed a machine learning based malware classification system](https://www.reddit.com/r/Python/comments/x788ac/i_developed_a_machine_learning_based_malware/)
 - [Honest Question: Why don&#39;t Python strings have a &quot;contains&quot; method?](https://www.reddit.com/r/Python/comments/x77ddy/honest_question_why_dont_python_strings_have_a/)
-- [I made an NLP model that determines whether a plot is anime enough](https://www.reddit.com/r/Python/comments/x76i8u/i_made_an_nlp_model_that_determines_whether_a/)
-- [Termcharts: Terminal plotting with rich compatibility in mind &lpar;low hanging contribution opportunities&rpar;](https://www.reddit.com/r/Python/comments/x76a10/termcharts_terminal_plotting_with_rich/)
 <!-- BLOG-POST-LIST:END -->
