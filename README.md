@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rock paper scissor](https://www.reddit.com/r/Python/comments/x74zm8/rock_paper_scissor/)
+- [Using ADTK for easy time series anomaly detection](https://www.reddit.com/r/Python/comments/x74wjm/using_adtk_for_easy_time_series_anomaly_detection/)
+- [We made a new blockchain that allows you to code smart contracts with pure Python](https://www.reddit.com/r/Python/comments/x74vhs/we_made_a_new_blockchain_that_allows_you_to_code/)
+- [py.wtf: Reference docs for PyPI packages](https://www.reddit.com/r/Python/comments/x74g4h/pywtf_reference_docs_for_pypi_packages/)
 - [Macbook Pro M1 Pro](https://www.reddit.com/r/Python/comments/x73xpi/macbook_pro_m1_pro/)
-- [7 Tips for Python Beginners](https://www.reddit.com/r/Python/comments/x73iyd/7_tips_for_python_beginners/)
-- [Logges v2 Out Now!](https://www.reddit.com/r/Python/comments/x73gy8/logges_v2_out_now/)
-- [Found Solution to: WARNING: Ignoring invalid distribution -{packageName} &lpar;{pathToIssue}&rpar;](https://www.reddit.com/r/Python/comments/x70edr/found_solution_to_warning_ignoring_invalid/)
-- [Gooey - for quickly building GUIs](https://www.reddit.com/r/Python/comments/x6y5s7/gooey_for_quickly_building_guis/)
 <!-- BLOG-POST-LIST:END -->
