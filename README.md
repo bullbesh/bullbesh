@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made an utility to convert absolute local imports from a package into relative ones](https://www.reddit.com/r/Python/comments/x7jofr/made_an_utility_to_convert_absolute_local_imports/)
 - [I&#39;ve experience with Django and want to learn a microframework. Which one should I go with Flask or Fast API?](https://www.reddit.com/r/Python/comments/x7f9r9/ive_experience_with_django_and_want_to_learn_a/)
 - [Hybrid Programming : POWER-KI + Python](https://www.reddit.com/r/Python/comments/x7f3oj/hybrid_programming_powerki_python/)
 - [I was excited about YOLOv7, so I built a sharable object detection application with VDP and Streamlit.](https://www.reddit.com/r/Python/comments/x7f0zp/i_was_excited_about_yolov7_so_i_built_a_sharable/)
 - [The little things: Just wrote a program to calculate rent increase over a period of years.](https://www.reddit.com/r/Python/comments/x7f0dp/the_little_things_just_wrote_a_program_to/)
-- [flake8-todos: Lint TODO comments in a Python code](https://www.reddit.com/r/Python/comments/x7ctqr/flake8todos_lint_todo_comments_in_a_python_code/)
 <!-- BLOG-POST-LIST:END -->
