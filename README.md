@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI, Trio, and Backpressure](https://www.reddit.com/r/Python/comments/x8as3g/fastapi_trio_and_backpressure/)
+- [`int&lpar;&#39;1&#39; * 4301&rpar;` will raise ValueError starting with Python 3.10.7](https://www.reddit.com/r/Python/comments/x8ag01/int1_4301_will_raise_valueerror_starting_with/)
 - [ptc::print: a modern C++ implementation of the Python print&lpar;&rpar; function with further improvements](https://www.reddit.com/r/Python/comments/x89ok8/ptcprint_a_modern_c_implementation_of_the_python/)
-- [Don&#39;t use the time&lpar;&rpar; function to measure performance!](https://www.reddit.com/r/Python/comments/x89bk0/dont_use_the_time_function_to_measure_performance/)
 - [Made a utility for the Zoom API, useful to bulk create meetings](https://www.reddit.com/r/Python/comments/x89bf5/made_a_utility_for_the_zoom_api_useful_to_bulk/)
 - [Made a search engine in Python that can answer any technical question in under 5 seconds. It&#39;s live at beta.sayhello.so](https://www.reddit.com/r/Python/comments/x8929h/made_a_search_engine_in_python_that_can_answer/)
-- [Count-Trailing-Zeros&lpar;1200&rpar; --&gt; 2 ----------- Can I use Log&lpar;x&rpar; to see if X is equal to &lpar; Integer * 10 ^ k&rpar; ???](https://www.reddit.com/r/Python/comments/x88ezd/counttrailingzeros1200_2_can_i_use_logx_to_see_if/)
 <!-- BLOG-POST-LIST:END -->
