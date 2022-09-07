@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Any trick to load few big files in Python?](https://www.reddit.com/r/Python/comments/x87oyq/any_trick_to_load_few_big_files_in_python/)
-- [New TUI Framework for python, Like Tkinter But with TUI!](https://www.reddit.com/r/Python/comments/x86pes/new_tui_framework_for_python_like_tkinter_but/)
-- [Simplest way to code Python with output right there?](https://www.reddit.com/r/Python/comments/x86low/simplest_way_to_code_python_with_output_right/)
-- [Pytest-cloudist seamlessly distributes pytests to cloud machines, runs the pandas unit tests up to 3x faster](https://www.reddit.com/r/Python/comments/x86gok/pytestcloudist_seamlessly_distributes_pytests_to/)
-- [What are the tradeoffs between the various methods of writing bindings to a C++ library in Python?](https://www.reddit.com/r/Python/comments/x84av4/what_are_the_tradeoffs_between_the_various/)
+- [ptc::print: a modern C++ implementation of the Python print&lpar;&rpar; function with further improvements](https://www.reddit.com/r/Python/comments/x89ok8/ptcprint_a_modern_c_implementation_of_the_python/)
+- [Don&#39;t use the time&lpar;&rpar; function to measure performance!](https://www.reddit.com/r/Python/comments/x89bk0/dont_use_the_time_function_to_measure_performance/)
+- [Made a utility for the Zoom API, useful to bulk create meetings](https://www.reddit.com/r/Python/comments/x89bf5/made_a_utility_for_the_zoom_api_useful_to_bulk/)
+- [Made a search engine in Python that can answer any technical question in under 5 seconds. It&#39;s live at beta.sayhello.so](https://www.reddit.com/r/Python/comments/x8929h/made_a_search_engine_in_python_that_can_answer/)
+- [Count-Trailing-Zeros&lpar;1200&rpar; --&gt; 2 ----------- Can I use Log&lpar;x&rpar; to see if X is equal to &lpar; Integer * 10 ^ k&rpar; ???](https://www.reddit.com/r/Python/comments/x88ezd/counttrailingzeros1200_2_can_i_use_logx_to_see_if/)
 <!-- BLOG-POST-LIST:END -->
