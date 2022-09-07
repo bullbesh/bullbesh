@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [VSCode 1.71: Merge Editor Improvements](https://www.reddit.com/r/Python/comments/x8gpr6/vscode_171_merge_editor_improvements/)
+- [mait: package manager for text adventure games.](https://www.reddit.com/r/Python/comments/x8fqg4/mait_package_manager_for_text_adventure_games/)
+- [What brings value to a python developer?](https://www.reddit.com/r/Python/comments/x8fppy/what_brings_value_to_a_python_developer/)
 - [A new take on a Jupyter interface](https://www.reddit.com/r/Python/comments/x8ddc4/a_new_take_on_a_jupyter_interface/)
 - [App to version requirements.txt with respect to a specific date](https://www.reddit.com/r/Python/comments/x8c9lz/app_to_version_requirementstxt_with_respect_to_a/)
-- [FastAPI, Trio, and Backpressure](https://www.reddit.com/r/Python/comments/x8as3g/fastapi_trio_and_backpressure/)
-- [`int&lpar;&#39;1&#39; * 4301&rpar;` will raise ValueError starting with Python 3.10.7](https://www.reddit.com/r/Python/comments/x8ag01/int1_4301_will_raise_valueerror_starting_with/)
-- [ptc::print: a modern C++ implementation of the Python print&lpar;&rpar; function with further improvements](https://www.reddit.com/r/Python/comments/x89ok8/ptcprint_a_modern_c_implementation_of_the_python/)
 <!-- BLOG-POST-LIST:END -->
