@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Python Training Institute in Ghaziabad](https://www.reddit.com/r/Python/comments/x7zcjs/best_python_training_institute_in_ghaziabad/)
+- [Best Python Training Institute in Ghaziabad](https://www.reddit.com/r/Python/comments/x7za3r/best_python_training_institute_in_ghaziabad/)
 - [is Django hard to learn coming from a flask restful hands on experience of 1 year.](https://www.reddit.com/r/Python/comments/x7y5s7/is_django_hard_to_learn_coming_from_a_flask/)
 - [Python List Comprehensions Are More Powerful Than You Might Think](https://www.reddit.com/r/Python/comments/x7y0xg/python_list_comprehensions_are_more_powerful_than/)
 - [Python - Prepare Yourslef for Linkedin Python Assessment Badge - Practice from This Guide and Attempt for Test](https://www.reddit.com/r/Python/comments/x7vpz2/python_prepare_yourslef_for_linkedin_python/)
-- [What&#39;s the most scalable visualization library?](https://www.reddit.com/r/Python/comments/x7vjuv/whats_the_most_scalable_visualization_library/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/x7pxz6/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
