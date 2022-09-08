@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [New App for Mac created with python](https://www.reddit.com/r/Python/comments/x8gxhg/new_app_for_mac_created_with_python/)
-- [VSCode 1.71: Merge Editor Improvements](https://www.reddit.com/r/Python/comments/x8gpr6/vscode_171_merge_editor_improvements/)
-- [mait: package manager for text adventure games.](https://www.reddit.com/r/Python/comments/x8fqg4/mait_package_manager_for_text_adventure_games/)
-- [What brings value to a python developer?](https://www.reddit.com/r/Python/comments/x8fppy/what_brings_value_to_a_python_developer/)
-- [A new take on a Jupyter interface](https://www.reddit.com/r/Python/comments/x8ddc4/a_new_take_on_a_jupyter_interface/)
+- [Python Data Types | Day 1 of Code HackerRank](https://www.reddit.com/r/Python/comments/x8nzs3/python_data_types_day_1_of_code_hackerrank/)
+- [try-except-else vs. try-except](https://www.reddit.com/r/Python/comments/x8njrc/tryexceptelse_vs_tryexcept/)
+- [Teaching Loops in Python](https://www.reddit.com/r/Python/comments/x8nilx/teaching_loops_in_python/)
+- [PassGen - Password Generator/Manager](https://www.reddit.com/r/Python/comments/x8n597/passgen_password_generatormanager/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/x8kp0x/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
