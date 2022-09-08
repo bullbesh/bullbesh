@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mum&#39;s &lpar;a HS Teacher&rpar; is looking for a fun &lpar;and free&rpar; game to teach kids python](https://www.reddit.com/r/Python/comments/x8u6fv/mums_a_hs_teacher_is_looking_for_a_fun_and_free/)
 - [Python reporting tools to generate interactive and beautiful reports](https://www.reddit.com/r/Python/comments/x8t8fw/python_reporting_tools_to_generate_interactive/)
 - [[OCR] The 24k star repo about OCR with 30+ languages supported including Chinese, Japanese .. and image conversion to excel file supported.](https://www.reddit.com/r/Python/comments/x8st37/ocr_the_24k_star_repo_about_ocr_with_30_languages/)
 - [Python developer](https://www.reddit.com/r/Python/comments/x8s7so/python_developer/)
 - [I wrote a kubernetes operator for “locust”, should I open source it](https://www.reddit.com/r/Python/comments/x8rrk3/i_wrote_a_kubernetes_operator_for_locust_should_i/)
-- [Python String Methods to Know](https://www.reddit.com/r/Python/comments/x8rmwj/python_string_methods_to_know/)
 <!-- BLOG-POST-LIST:END -->
