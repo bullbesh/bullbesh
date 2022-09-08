@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python developer](https://www.reddit.com/r/Python/comments/x8s7so/python_developer/)
+- [I wrote a kubernetes operator for “locust”, should I open source it](https://www.reddit.com/r/Python/comments/x8rrk3/i_wrote_a_kubernetes_operator_for_locust_should_i/)
+- [Python String Methods to Know](https://www.reddit.com/r/Python/comments/x8rmwj/python_string_methods_to_know/)
 - [Python Data Types | Day 1 of Code HackerRank](https://www.reddit.com/r/Python/comments/x8nzs3/python_data_types_day_1_of_code_hackerrank/)
 - [try-except-else vs. try-except](https://www.reddit.com/r/Python/comments/x8njrc/tryexceptelse_vs_tryexcept/)
-- [Teaching Loops in Python](https://www.reddit.com/r/Python/comments/x8nilx/teaching_loops_in_python/)
-- [PassGen - Password Generator/Manager](https://www.reddit.com/r/Python/comments/x8n597/passgen_password_generatormanager/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/x8kp0x/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
