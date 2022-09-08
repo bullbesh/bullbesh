@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Don’t laugh at me! Like this is completely not my lane. I’m from the hood.](https://www.reddit.com/r/Python/comments/x9cf74/dont_laugh_at_me_like_this_is_completely_not_my/)
 - [Running something in a method takes much more depending on the data types.](https://www.reddit.com/r/Python/comments/x99itp/running_something_in_a_method_takes_much_more/)
 - [Why IDEs are Important](https://www.reddit.com/r/Python/comments/x9963e/why_ides_are_important/)
 - [E-Mail Sender with Python](https://www.reddit.com/r/Python/comments/x97quz/email_sender_with_python/)
 - [My telegrams bot created on python](https://www.reddit.com/r/Python/comments/x97jr8/my_telegrams_bot_created_on_python/)
-- [Elo / Glicko2 implementation with a scikit-learn interface](https://www.reddit.com/r/Python/comments/x96hr5/elo_glicko2_implementation_with_a_scikitlearn/)
 <!-- BLOG-POST-LIST:END -->
