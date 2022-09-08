@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python tech talks were high on the list of the most watched videos on MeetupFeed in August. That’s why we decided to hand select the ones our audience fancied the most.](https://www.reddit.com/r/Python/comments/x90ojh/python_tech_talks_were_high_on_the_list_of_the/)
-- [QualityScaler update 3.0 - deeplearning image/video upscaler app for Windows](https://www.reddit.com/r/Python/comments/x8zavt/qualityscaler_update_30_deeplearning_imagevideo/)
-- [Book Club: &quot;The Quick Python Book&quot; by Naomi Ceder](https://www.reddit.com/r/Python/comments/x8z6qg/book_club_the_quick_python_book_by_naomi_ceder/)
-- [Environment variables in Python &amp; Docker](https://www.reddit.com/r/Python/comments/x8xjt7/environment_variables_in_python_docker/)
-- [Graphical Database Explained | Python Project](https://www.reddit.com/r/Python/comments/x8wg0e/graphical_database_explained_python_project/)
+- [Is Python starting to become too convoluted?](https://www.reddit.com/r/Python/comments/x91oqr/is_python_starting_to_become_too_convoluted/)
+- [Python course recommendations for sr data analyst?](https://www.reddit.com/r/Python/comments/x91ohy/python_course_recommendations_for_sr_data_analyst/)
+- [25 Nooby Pandas Mistakes you should Avoid](https://www.reddit.com/r/Python/comments/x911l2/25_nooby_pandas_mistakes_you_should_avoid/)
+- [I recently released deptry; a utility to check your Poetry-managed Python projects for obsolete, transitive, missing and misplaced dependencies.](https://www.reddit.com/r/Python/comments/x911kg/i_recently_released_deptry_a_utility_to_check/)
+- [could python be mastered with only a computer?](https://www.reddit.com/r/Python/comments/x9102c/could_python_be_mastered_with_only_a_computer/)
 <!-- BLOG-POST-LIST:END -->
