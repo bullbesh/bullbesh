@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Resource-Repository] A collection of code examples that data from Google Scholar](https://www.reddit.com/r/Python/comments/x9o70m/resourcerepository_a_collection_of_code_examples/)
 - [How crucial is documentation](https://www.reddit.com/r/Python/comments/x9n5wf/how_crucial_is_documentation/)
 - [Python dictionary operations you should know](https://www.reddit.com/r/Python/comments/x9mt93/python_dictionary_operations_you_should_know/)
 - [SSHScript: Integrate subprocess and Paramiko to Automate in Python](https://www.reddit.com/r/Python/comments/x9k040/sshscript_integrate_subprocess_and_paramiko_to/)
 - [Personal Revelation post](https://www.reddit.com/r/Python/comments/x9jnnp/personal_revelation_post/)
-- [Python Pandas + Excel + Github Copilot](https://www.reddit.com/r/Python/comments/x9fqo6/python_pandas_excel_github_copilot/)
 <!-- BLOG-POST-LIST:END -->
