@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made an interactive data viz cookbook with PyScript. It includes over 35 recipes to plot with pandas, matplotlib, seaborn, and plotly.express](https://www.reddit.com/r/Python/comments/x9srdg/i_made_an_interactive_data_viz_cookbook_with/)
+- [Are desktop apps dead](https://www.reddit.com/r/Python/comments/x9s1bu/are_desktop_apps_dead/)
 - [What Dynamic REST Clients do you know that support OpenAPI](https://www.reddit.com/r/Python/comments/x9rflp/what_dynamic_rest_clients_do_you_know_that/)
 - [Amazon Audible clone in Python](https://www.reddit.com/r/Python/comments/x9r3na/amazon_audible_clone_in_python/)
 - [How to develop scalable progress tracker for backend services that can be consumed by frontend to show ETA?](https://www.reddit.com/r/Python/comments/x9r1bk/how_to_develop_scalable_progress_tracker_for/)
-- [Learning Python from 0](https://www.reddit.com/r/Python/comments/x9qqz8/learning_python_from_0/)
-- [minesweeper: a CLI game that is written in Python](https://www.reddit.com/r/Python/comments/x9qp82/minesweeper_a_cli_game_that_is_written_in_python/)
 <!-- BLOG-POST-LIST:END -->
