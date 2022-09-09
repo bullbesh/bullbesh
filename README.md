@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there a command line to update? And is it possible to set auto update ?](https://www.reddit.com/r/Python/comments/x9y79p/is_there_a_command_line_to_update_and_is_it/)
+- [generate turnaround images using deep learning?](https://www.reddit.com/r/Python/comments/x9xwuv/generate_turnaround_images_using_deep_learning/)
+- [Async Python is not faster](https://www.reddit.com/r/Python/comments/x9x8pb/async_python_is_not_faster/)
+- [Library for encrypting text to emojis!](https://www.reddit.com/r/Python/comments/x9wzjk/library_for_encrypting_text_to_emojis/)
 - [End-to-End Tutorial on Combining AWS Lambda, Docker, and Python](https://www.reddit.com/r/Python/comments/x9wizh/endtoend_tutorial_on_combining_aws_lambda_docker/)
-- [Planner](https://www.reddit.com/r/Python/comments/x9wcht/planner/)
-- [Triangular Maze using Python&#39;s Turtle](https://www.reddit.com/r/Python/comments/x9vvyz/triangular_maze_using_pythons_turtle/)
-- [Python dev moving into my first senior role. Any experienced Seniors here with advice?](https://www.reddit.com/r/Python/comments/x9vcsv/python_dev_moving_into_my_first_senior_role_any/)
-- [I Give Up](https://www.reddit.com/r/Python/comments/x9v02v/i_give_up/)
 <!-- BLOG-POST-LIST:END -->
