@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [need more projects](https://www.reddit.com/r/Python/comments/xaxd0s/need_more_projects/)
+- [Do you guys have anything you don&#39;t like about Flask, or things you wish it had?](https://www.reddit.com/r/Python/comments/xax0si/do_you_guys_have_anything_you_dont_like_about/)
+- [Running standard Python and Anaconda in parallel](https://www.reddit.com/r/Python/comments/xawhdt/running_standard_python_and_anaconda_in_parallel/)
 - [Which IDE you tried/use and what is your level in python?](https://www.reddit.com/r/Python/comments/xaw7t6/which_ide_you_trieduse_and_what_is_your_level_in/)
 - [Time Series Analysis resources for beginners](https://www.reddit.com/r/Python/comments/xaw1w2/time_series_analysis_resources_for_beginners/)
-- [ancv: render your &lpar;JSON&rpar; resume &lpar;curriculum vitae&rpar; for online, rich, ANSI-based terminal display](https://www.reddit.com/r/Python/comments/xavock/ancv_render_your_json_resume_curriculum_vitae_for/)
-- [Help ;&lpar;](https://www.reddit.com/r/Python/comments/xav6io/help/)
-- [Options for GPU accelerated python experiments?](https://www.reddit.com/r/Python/comments/xausj8/options_for_gpu_accelerated_python_experiments/)
 <!-- BLOG-POST-LIST:END -->
