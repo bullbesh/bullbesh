@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which IDE you tried/use and what is your level in python?](https://www.reddit.com/r/Python/comments/xaw7t6/which_ide_you_trieduse_and_what_is_your_level_in/)
+- [Time Series Analysis resources for beginners](https://www.reddit.com/r/Python/comments/xaw1w2/time_series_analysis_resources_for_beginners/)
+- [ancv: render your &lpar;JSON&rpar; resume &lpar;curriculum vitae&rpar; for online, rich, ANSI-based terminal display](https://www.reddit.com/r/Python/comments/xavock/ancv_render_your_json_resume_curriculum_vitae_for/)
+- [Help ;&lpar;](https://www.reddit.com/r/Python/comments/xav6io/help/)
 - [Options for GPU accelerated python experiments?](https://www.reddit.com/r/Python/comments/xausj8/options_for_gpu_accelerated_python_experiments/)
-- [Thonny 4.0 has been released! In-built python updated to 3.10 64-bit, even more support for uPythons, automatic completions available, in-line venv-switching, tonnes of QoL](https://www.reddit.com/r/Python/comments/xaqvy3/thonny_40_has_been_released_inbuilt_python/)
-- [Development Trends Poll Results](https://www.reddit.com/r/Python/comments/xaprh9/development_trends_poll_results/)
-- [My First Game in PyGame What You Think?](https://www.reddit.com/r/Python/comments/xao98d/my_first_game_in_pygame_what_you_think/)
-- [Good book for non-beginners in programming](https://www.reddit.com/r/Python/comments/xanjlo/good_book_for_nonbeginners_in_programming/)
 <!-- BLOG-POST-LIST:END -->
