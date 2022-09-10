@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thonny 4.0 has been released! In-built python updated to 3.10 64-bit, even more support for uPythons, automatic completions available, in-line venv-switching, tonnes of QoL](https://www.reddit.com/r/Python/comments/xaqvy3/thonny_40_has_been_released_inbuilt_python/)
 - [Development Trends Poll Results](https://www.reddit.com/r/Python/comments/xaprh9/development_trends_poll_results/)
 - [GitHub - Clivern/Cattle: 🐺 Platform to Run and Share Code. It Supports PHP, Python, Ruby, Java, Go, Rust, C and C++.](https://www.reddit.com/r/Python/comments/xaoyoc/github_cliverncattle_platform_to_run_and_share/)
 - [GitHub - Uptimedog/Cavalier: 🐕 Metrics Ingestion and Alerting Reimagined.](https://www.reddit.com/r/Python/comments/xaowul/github_uptimedogcavalier_metrics_ingestion_and/)
 - [My First Game in PyGame What You Think?](https://www.reddit.com/r/Python/comments/xao98d/my_first_game_in_pygame_what_you_think/)
-- [Good book for non-beginners in programming](https://www.reddit.com/r/Python/comments/xanjlo/good_book_for_nonbeginners_in_programming/)
 <!-- BLOG-POST-LIST:END -->
