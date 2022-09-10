@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Been learning Python for a month now and if you are on the fence on learning programming this post is for you.](https://www.reddit.com/r/Python/comments/xajs4w/been_learning_python_for_a_month_now_and_if_you/)
+- [GitHub - HoloArchivists/twspace-dl: A python module to download twitter spaces.](https://www.reddit.com/r/Python/comments/xajg83/github_holoarchiviststwspacedl_a_python_module_to/)
+- [Which ORM framework are you using with Python, and why?](https://www.reddit.com/r/Python/comments/xaj07j/which_orm_framework_are_you_using_with_python_and/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/xaaivv/saturday_daily_thread_resource_request_and/)
 - [what the difference between def and an variable](https://www.reddit.com/r/Python/comments/xa5hum/what_the_difference_between_def_and_an_variable/)
-- [Understanding and Implementing ResNet using Python](https://www.reddit.com/r/Python/comments/xa3hvk/understanding_and_implementing_resnet_using_python/)
-- [Creating a Bot that can play Piano Tiles](https://www.reddit.com/r/Python/comments/xa178z/creating_a_bot_that_can_play_piano_tiles/)
-- [Pants 2.13: Simpler command line arguments, support for setuptools_scm and mypyc, and native support for visual debugging](https://www.reddit.com/r/Python/comments/xa0zt8/pants_213_simpler_command_line_arguments_support/)
 <!-- BLOG-POST-LIST:END -->
