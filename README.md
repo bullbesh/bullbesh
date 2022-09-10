@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - Clivern/Cattle: 🐺 Platform to Run and Share Code. It Supports PHP, Python, Ruby, Java, Go, Rust, C and C++.](https://www.reddit.com/r/Python/comments/xaoyoc/github_cliverncattle_platform_to_run_and_share/)
+- [GitHub - Uptimedog/Cavalier: 🐕 Metrics Ingestion and Alerting Reimagined.](https://www.reddit.com/r/Python/comments/xaowul/github_uptimedogcavalier_metrics_ingestion_and/)
 - [My First Game in PyGame What You Think?](https://www.reddit.com/r/Python/comments/xao98d/my_first_game_in_pygame_what_you_think/)
 - [Good book for non-beginners in programming](https://www.reddit.com/r/Python/comments/xanjlo/good_book_for_nonbeginners_in_programming/)
 - [What are the Similarities and Difference Between Python Turtle and MSW Turtle?](https://www.reddit.com/r/Python/comments/xalvj9/what_are_the_similarities_and_difference_between/)
-- [Full Python Course - Programming Tutorial For Beginners](https://www.reddit.com/r/Python/comments/xakplb/full_python_course_programming_tutorial_for/)
-- [Been learning Python for a month now and if you are on the fence on learning programming this post is for you.](https://www.reddit.com/r/Python/comments/xajs4w/been_learning_python_for_a_month_now_and_if_you/)
 <!-- BLOG-POST-LIST:END -->
