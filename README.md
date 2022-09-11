@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A script for making multiple Spotipy API requests and adding all the data in one big, happy dictionary](https://www.reddit.com/r/Python/comments/xbi6fa/a_script_for_making_multiple_spotipy_api_requests/)
 - [Python w Golang or Python w Java As Second Language](https://www.reddit.com/r/Python/comments/xbhi9f/python_w_golang_or_python_w_java_as_second/)
 - [Make your Tkinter app look truly modern with a single line of code!](https://www.reddit.com/r/Python/comments/xbgyov/make_your_tkinter_app_look_truly_modern_with_a/)
 - [[D] Confused between stack](https://www.reddit.com/r/Python/comments/xbew6s/d_confused_between_stack/)
 - [Default argument that remembers past arguments](https://www.reddit.com/r/Python/comments/xberfg/default_argument_that_remembers_past_arguments/)
-- [ipyannotations: create rich data annotations right in jupyter notebooks](https://www.reddit.com/r/Python/comments/xbeie6/ipyannotations_create_rich_data_annotations_right/)
 <!-- BLOG-POST-LIST:END -->
