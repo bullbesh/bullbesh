@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Dataset for Interdisciplinary Topic Modeling](https://www.reddit.com/r/Python/comments/xbv9fj/creating_a_dataset_for_interdisciplinary_topic/)
 - [I made a 3D model renderer](https://www.reddit.com/r/Python/comments/xbovvg/i_made_a_3d_model_renderer/)
 - [Build an Alexa or Siri-Equivalent Bot in Python Using OpenAI](https://www.reddit.com/r/Python/comments/xbo78l/build_an_alexa_or_siriequivalent_bot_in_python/)
 - [The maze of Python dependency management](https://www.reddit.com/r/Python/comments/xbo3qd/the_maze_of_python_dependency_management/)
 - [simpletyper - TUI typing speed test made using textual](https://www.reddit.com/r/Python/comments/xbn91o/simpletyper_tui_typing_speed_test_made_using/)
-- [I&#39;ve made a project that visualizes records of pairs of NBA players!](https://www.reddit.com/r/Python/comments/xbiv4k/ive_made_a_project_that_visualizes_records_of/)
 <!-- BLOG-POST-LIST:END -->
