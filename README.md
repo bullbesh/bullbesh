@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What file types does open&lpar;&rpar; function can read and when do I use it?](https://www.reddit.com/r/Python/comments/xb4fe8/what_file_types_does_open_function_can_read_and/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/xb3w16/sunday_daily_thread_whats_everyone_working_on/)
 - [I created PixelHub to customize your GitHub contribution graph , check it out ;&rpar;](https://www.reddit.com/r/Python/comments/xb25lo/i_created_pixelhub_to_customize_your_github/)
 - [Rock, paper, scissors but with some twists](https://www.reddit.com/r/Python/comments/xaybfp/rock_paper_scissors_but_with_some_twists/)
-- [need more projects](https://www.reddit.com/r/Python/comments/xaxd0s/need_more_projects/)
 - [Do you guys have anything you don&#39;t like about Flask, or things you wish it had?](https://www.reddit.com/r/Python/comments/xax0si/do_you_guys_have_anything_you_dont_like_about/)
-- [Running standard Python and Anaconda in parallel](https://www.reddit.com/r/Python/comments/xawhdt/running_standard_python_and_anaconda_in_parallel/)
 <!-- BLOG-POST-LIST:END -->
