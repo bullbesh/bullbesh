@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build an Alexa or Siri-Equivalent Bot in Python Using OpenAI](https://www.reddit.com/r/Python/comments/xbo78l/build_an_alexa_or_siriequivalent_bot_in_python/)
+- [The maze of Python dependency management](https://www.reddit.com/r/Python/comments/xbo3qd/the_maze_of_python_dependency_management/)
+- [simpletyper - TUI typing speed test made using textual](https://www.reddit.com/r/Python/comments/xbn91o/simpletyper_tui_typing_speed_test_made_using/)
 - [i am not able to solve any practice problem](https://www.reddit.com/r/Python/comments/xbmt23/i_am_not_able_to_solve_any_practice_problem/)
 - [I&#39;ve made a project that visualizes records of pairs of NBA players!](https://www.reddit.com/r/Python/comments/xbiv4k/ive_made_a_project_that_visualizes_records_of/)
-- [A script for making multiple Spotipy API requests and adding all the data in one big, happy dictionary](https://www.reddit.com/r/Python/comments/xbi6fa/a_script_for_making_multiple_spotipy_api_requests/)
-- [Python w Golang or Python w Java As Second Language](https://www.reddit.com/r/Python/comments/xbhi9f/python_w_golang_or_python_w_java_as_second/)
-- [Make your Tkinter app look truly modern with a single line of code!](https://www.reddit.com/r/Python/comments/xbgyov/make_your_tkinter_app_look_truly_modern_with_a/)
 <!-- BLOG-POST-LIST:END -->
