@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Column mapping for ETL preparation?](https://www.reddit.com/r/Python/comments/xclgaz/column_mapping_for_etl_preparation/)
+- [Java Or Python For Android - Why Not Both!](https://www.reddit.com/r/Python/comments/xcl7po/java_or_python_for_android_why_not_both/)
 - [Rasterize vector data using GeoPandas and GeoCube](https://www.reddit.com/r/Python/comments/xck4ck/rasterize_vector_data_using_geopandas_and_geocube/)
 - [Interactive Plots in Matplotlib and Jupyter](https://www.reddit.com/r/Python/comments/xcjrj3/interactive_plots_in_matplotlib_and_jupyter/)
 - [Python recap for week 36/2022](https://www.reddit.com/r/Python/comments/xcj6eq/python_recap_for_week_362022/)
-- [GitHub - erdewit/HiFiScan: Optimize the audio quality of loudspeakers](https://www.reddit.com/r/Python/comments/xcj1g5/github_erdewithifiscan_optimize_the_audio_quality/)
-- [Python 3.10 on Windows 7](https://www.reddit.com/r/Python/comments/xcirns/python_310_on_windows_7/)
 <!-- BLOG-POST-LIST:END -->
