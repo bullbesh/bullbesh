@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stick to django or move?](https://www.reddit.com/r/Python/comments/xcn2zp/stick_to_django_or_move/)
+- [Python tools for integration with third-party services](https://www.reddit.com/r/Python/comments/xcmtm6/python_tools_for_integration_with_thirdparty/)
+- [Wallhaven Wallpaper Downloader &lpar;First Python App&rpar;](https://www.reddit.com/r/Python/comments/xcm83t/wallhaven_wallpaper_downloader_first_python_app/)
+- [Python for Data](https://www.reddit.com/r/Python/comments/xclz9h/python_for_data/)
 - [Column mapping for ETL preparation?](https://www.reddit.com/r/Python/comments/xclgaz/column_mapping_for_etl_preparation/)
-- [Java Or Python For Android - Why Not Both!](https://www.reddit.com/r/Python/comments/xcl7po/java_or_python_for_android_why_not_both/)
-- [Rasterize vector data using GeoPandas and GeoCube](https://www.reddit.com/r/Python/comments/xck4ck/rasterize_vector_data_using_geopandas_and_geocube/)
-- [Interactive Plots in Matplotlib and Jupyter](https://www.reddit.com/r/Python/comments/xcjrj3/interactive_plots_in_matplotlib_and_jupyter/)
-- [Python recap for week 36/2022](https://www.reddit.com/r/Python/comments/xcj6eq/python_recap_for_week_362022/)
 <!-- BLOG-POST-LIST:END -->
