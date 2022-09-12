@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Dataset for Interdisciplinary Topic Modeling](https://www.reddit.com/r/Python/comments/xbv9fj/creating_a_dataset_for_interdisciplinary_topic/)
-- [I made a 3D model renderer](https://www.reddit.com/r/Python/comments/xbovvg/i_made_a_3d_model_renderer/)
-- [Build an Alexa or Siri-Equivalent Bot in Python Using OpenAI](https://www.reddit.com/r/Python/comments/xbo78l/build_an_alexa_or_siriequivalent_bot_in_python/)
-- [The maze of Python dependency management](https://www.reddit.com/r/Python/comments/xbo3qd/the_maze_of_python_dependency_management/)
-- [simpletyper - TUI typing speed test made using textual](https://www.reddit.com/r/Python/comments/xbn91o/simpletyper_tui_typing_speed_test_made_using/)
+- [Recipes from Python SQLite docs](https://www.reddit.com/r/Python/comments/xc0g0b/recipes_from_python_sqlite_docs/)
+- [starlette-admin: Simple and extensible admin interface framework for Starlette/FastApi](https://www.reddit.com/r/Python/comments/xbz8jd/starletteadmin_simple_and_extensible_admin/)
+- [Creating NFL Data Visualizations w/ Python](https://www.reddit.com/r/Python/comments/xbz1wh/creating_nfl_data_visualizations_w_python/)
+- [[P] A command-line tool to create development environments for AI/ML, based on Docker and buildkit](https://www.reddit.com/r/Python/comments/xbyqbv/p_a_commandline_tool_to_create_development/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/xbxs9l/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
