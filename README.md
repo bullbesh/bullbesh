@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Working with Strings &lpar;from the POV of a self taught Python Dev who moved from Java&rpar;](https://www.reddit.com/r/Python/comments/xcflr0/a_guide_to_working_with_strings_from_the_pov_of_a/)
-- [Learning Python](https://www.reddit.com/r/Python/comments/xcempl/learning_python/)
-- [Perform High-Level File Operations In Python - shutil Module](https://www.reddit.com/r/Python/comments/xceim2/perform_highlevel_file_operations_in_python/)
-- [Plotting Performance Grid of Multiple Securities w\matplotlib || Stock A...](https://www.reddit.com/r/Python/comments/xcd0v4/plotting_performance_grid_of_multiple_securities/)
-- [GNOLL: An efficient grammar-based dice roller that supports a lot more dice notation than most python dice packages](https://www.reddit.com/r/Python/comments/xccqpn/gnoll_an_efficient_grammarbased_dice_roller_that/)
+- [I hate regular expressions, so I built a library which makes it easier!](https://www.reddit.com/r/Python/comments/xch93m/i_hate_regular_expressions_so_i_built_a_library/)
+- [How to create an advanced dictionary in python](https://www.reddit.com/r/Python/comments/xch81s/how_to_create_an_advanced_dictionary_in_python/)
+- [Improved Reddit Account Generator, using Python, Selenium and now PyEasyGUI.](https://www.reddit.com/r/Python/comments/xcgr5y/improved_reddit_account_generator_using_python/)
+- [I Updated the My first Game Created in PyGame](https://www.reddit.com/r/Python/comments/xcgg5j/i_updated_the_my_first_game_created_in_pygame/)
+- [Python Tutorial: How to Create Neural Networks](https://www.reddit.com/r/Python/comments/xcg398/python_tutorial_how_to_create_neural_networks/)
 <!-- BLOG-POST-LIST:END -->
