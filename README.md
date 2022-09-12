@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Complete Article To Understand Generators In Python](https://www.reddit.com/r/Python/comments/xc8y1m/a_complete_article_to_understand_generators_in/)
 - [deptry 0.4.1 is now live, which adds support for detecting unused, missing and transitive dependencies in projects using a requirement.txt file](https://www.reddit.com/r/Python/comments/xc64i7/deptry_041_is_now_live_which_adds_support_for/)
 - [Need input with multithreading vs multiprocessing?](https://www.reddit.com/r/Python/comments/xc574c/need_input_with_multithreading_vs_multiprocessing/)
 - [Recipes from Python SQLite docs](https://www.reddit.com/r/Python/comments/xc0g0b/recipes_from_python_sqlite_docs/)
 - [starlette-admin: Simple and extensible admin interface framework for Starlette/FastApi](https://www.reddit.com/r/Python/comments/xbz8jd/starletteadmin_simple_and_extensible_admin/)
-- [Creating NFL Data Visualizations w/ Python](https://www.reddit.com/r/Python/comments/xbz1wh/creating_nfl_data_visualizations_w_python/)
 <!-- BLOG-POST-LIST:END -->
