@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Plotting Performance Grid of Multiple Securities w\matplotlib || Stock A...](https://www.reddit.com/r/Python/comments/xcd0v4/plotting_performance_grid_of_multiple_securities/)
+- [GNOLL: An efficient grammar-based dice roller that supports a lot more dice notation than most python dice packages](https://www.reddit.com/r/Python/comments/xccqpn/gnoll_an_efficient_grammarbased_dice_roller_that/)
+- [Slice objects pattern matching in __getitem__](https://www.reddit.com/r/Python/comments/xccniv/slice_objects_pattern_matching_in_getitem/)
+- [Object Oriented Programming &lpar;OOP&rpar; in Python](https://www.reddit.com/r/Python/comments/xcc99h/object_oriented_programming_oop_in_python/)
 - [Pull ESPN Fantasy Football Data w/ Python &amp; ESPN API](https://www.reddit.com/r/Python/comments/xcbziu/pull_espn_fantasy_football_data_w_python_espn_api/)
-- [Python 3.11.0rc2 is out](https://www.reddit.com/r/Python/comments/xcalho/python_3110rc2_is_out/)
-- [A Complete Article To Understand Generators In Python](https://www.reddit.com/r/Python/comments/xc8y1m/a_complete_article_to_understand_generators_in/)
-- [deptry 0.4.1 is now live, which adds support for detecting unused, missing and transitive dependencies in projects using a requirement.txt file](https://www.reddit.com/r/Python/comments/xc64i7/deptry_041_is_now_live_which_adds_support_for/)
-- [Need input with multithreading vs multiprocessing?](https://www.reddit.com/r/Python/comments/xc574c/need_input_with_multithreading_vs_multiprocessing/)
 <!-- BLOG-POST-LIST:END -->
