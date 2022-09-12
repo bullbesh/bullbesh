@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.10 on Windows 7](https://www.reddit.com/r/Python/comments/xcirns/python_310_on_windows_7/)
+- [How to create an advanced dictionary using python](https://www.reddit.com/r/Python/comments/xchuy1/how_to_create_an_advanced_dictionary_using_python/)
+- [I made Rock paper Scissors game with Image detection in Python!](https://www.reddit.com/r/Python/comments/xchuqu/i_made_rock_paper_scissors_game_with_image/)
 - [I hate regular expressions, so I built a library which makes it easier!](https://www.reddit.com/r/Python/comments/xch93m/i_hate_regular_expressions_so_i_built_a_library/)
-- [How to create an advanced dictionary in python](https://www.reddit.com/r/Python/comments/xch81s/how_to_create_an_advanced_dictionary_in_python/)
 - [Improved Reddit Account Generator, using Python, Selenium and now PyEasyGUI.](https://www.reddit.com/r/Python/comments/xcgr5y/improved_reddit_account_generator_using_python/)
-- [I Updated the My first Game Created in PyGame](https://www.reddit.com/r/Python/comments/xcgg5j/i_updated_the_my_first_game_created_in_pygame/)
-- [Python Tutorial: How to Create Neural Networks](https://www.reddit.com/r/Python/comments/xcg398/python_tutorial_how_to_create_neural_networks/)
 <!-- BLOG-POST-LIST:END -->
