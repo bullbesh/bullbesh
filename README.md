@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Working with Strings &lpar;from the POV of a self taught Python Dev who moved from Java&rpar;](https://www.reddit.com/r/Python/comments/xcflr0/a_guide_to_working_with_strings_from_the_pov_of_a/)
+- [Learning Python](https://www.reddit.com/r/Python/comments/xcempl/learning_python/)
+- [Perform High-Level File Operations In Python - shutil Module](https://www.reddit.com/r/Python/comments/xceim2/perform_highlevel_file_operations_in_python/)
 - [Plotting Performance Grid of Multiple Securities w\matplotlib || Stock A...](https://www.reddit.com/r/Python/comments/xcd0v4/plotting_performance_grid_of_multiple_securities/)
 - [GNOLL: An efficient grammar-based dice roller that supports a lot more dice notation than most python dice packages](https://www.reddit.com/r/Python/comments/xccqpn/gnoll_an_efficient_grammarbased_dice_roller_that/)
-- [Slice objects pattern matching in __getitem__](https://www.reddit.com/r/Python/comments/xccniv/slice_objects_pattern_matching_in_getitem/)
-- [Object Oriented Programming &lpar;OOP&rpar; in Python](https://www.reddit.com/r/Python/comments/xcc99h/object_oriented_programming_oop_in_python/)
-- [Pull ESPN Fantasy Football Data w/ Python &amp; ESPN API](https://www.reddit.com/r/Python/comments/xcbziu/pull_espn_fantasy_football_data_w_python_espn_api/)
 <!-- BLOG-POST-LIST:END -->
