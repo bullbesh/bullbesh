@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m Al Sweigart, author of Automate the Boring Stuff with Python. I&#39;m currently doing an AMA about my latest book on recursive algorithms.](https://www.reddit.com/r/Python/comments/xcr4tt/im_al_sweigart_author_of_automate_the_boring/)
+- [str/int: Controversial breaking change added to Python](https://www.reddit.com/r/Python/comments/xcqalk/strint_controversial_breaking_change_added_to/)
 - [Stick to django or move?](https://www.reddit.com/r/Python/comments/xcn2zp/stick_to_django_or_move/)
 - [Wallhaven Wallpaper Downloader &lpar;First Python App&rpar;](https://www.reddit.com/r/Python/comments/xcm83t/wallhaven_wallpaper_downloader_first_python_app/)
 - [Python for Data](https://www.reddit.com/r/Python/comments/xclz9h/python_for_data/)
-- [Column mapping for ETL preparation?](https://www.reddit.com/r/Python/comments/xclgaz/column_mapping_for_etl_preparation/)
-- [Java Or Python For Android - Why Not Both!](https://www.reddit.com/r/Python/comments/xcl7po/java_or_python_for_android_why_not_both/)
 <!-- BLOG-POST-LIST:END -->
