@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rasterize vector data using GeoPandas and GeoCube](https://www.reddit.com/r/Python/comments/xck4ck/rasterize_vector_data_using_geopandas_and_geocube/)
+- [Interactive Plots in Matplotlib and Jupyter](https://www.reddit.com/r/Python/comments/xcjrj3/interactive_plots_in_matplotlib_and_jupyter/)
+- [Python recap for week 36/2022](https://www.reddit.com/r/Python/comments/xcj6eq/python_recap_for_week_362022/)
+- [GitHub - erdewit/HiFiScan: Optimize the audio quality of loudspeakers](https://www.reddit.com/r/Python/comments/xcj1g5/github_erdewithifiscan_optimize_the_audio_quality/)
 - [Python 3.10 on Windows 7](https://www.reddit.com/r/Python/comments/xcirns/python_310_on_windows_7/)
-- [How to create an advanced dictionary using python](https://www.reddit.com/r/Python/comments/xchuy1/how_to_create_an_advanced_dictionary_using_python/)
-- [I made Rock paper Scissors game with Image detection in Python!](https://www.reddit.com/r/Python/comments/xchuqu/i_made_rock_paper_scissors_game_with_image/)
-- [I hate regular expressions, so I built a library which makes it easier!](https://www.reddit.com/r/Python/comments/xch93m/i_hate_regular_expressions_so_i_built_a_library/)
-- [Improved Reddit Account Generator, using Python, Selenium and now PyEasyGUI.](https://www.reddit.com/r/Python/comments/xcgr5y/improved_reddit_account_generator_using_python/)
 <!-- BLOG-POST-LIST:END -->
