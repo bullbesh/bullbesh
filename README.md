@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Library of the Week: Tenacity](https://www.reddit.com/r/Python/comments/xdhgvx/python_library_of_the_week_tenacity/)
-- [Near-Earth Objects - Project Part 7: The Opposition Effect](https://www.reddit.com/r/Python/comments/xdhbig/nearearth_objects_project_part_7_the_opposition/)
-- [using python for finances](https://www.reddit.com/r/Python/comments/xdesbc/using_python_for_finances/)
-- [Fast computational geometry library for 2D geometries?](https://www.reddit.com/r/Python/comments/xddlj3/fast_computational_geometry_library_for_2d/)
-- [Custom Python Lists: Inheriting From list vs UserList – Real Python](https://www.reddit.com/r/Python/comments/xddhi4/custom_python_lists_inheriting_from_list_vs/)
+- [Used &quot;Py To EXE&quot; and It Showed KeyLogger as One of Viruses](https://www.reddit.com/r/Python/comments/xdkikk/used_py_to_exe_and_it_showed_keylogger_as_one_of/)
+- [looking for an API/data set of food ingredients](https://www.reddit.com/r/Python/comments/xdk5vd/looking_for_an_apidata_set_of_food_ingredients/)
+- [How Long Does It Take To Learn Python To Get a Job?](https://www.reddit.com/r/Python/comments/xdk3ij/how_long_does_it_take_to_learn_python_to_get_a_job/)
+- [How to turn off anyone&#39;s PC](https://www.reddit.com/r/Python/comments/xdj9m9/how_to_turn_off_anyones_pc/)
+- [Complete Python Project using the Twitter Developer Account &amp; Transformer HuggingFace 😁](https://www.reddit.com/r/Python/comments/xdj1bq/complete_python_project_using_the_twitter/)
 <!-- BLOG-POST-LIST:END -->
