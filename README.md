@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Github - gradio-app/gradio: Gradio is an open-source Python library to quickly build web-based machine learning apps, data science demos and web applications, entirely in Python](https://www.reddit.com/r/Python/comments/xcvihi/github_gradioappgradio_gradio_is_an_opensource/)
+- [Make a Colour Picker in Python/PyGame in 9 min!](https://www.reddit.com/r/Python/comments/xculzx/make_a_colour_picker_in_pythonpygame_in_9_min/)
+- [Game i made](https://www.reddit.com/r/Python/comments/xcsf5x/game_i_made/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/xcsa6v/tuesday_daily_thread_advanced_questions/)
 - [I&#39;m Al Sweigart, author of Automate the Boring Stuff with Python. I&#39;m currently doing an AMA about my latest book on recursive algorithms.](https://www.reddit.com/r/Python/comments/xcr4tt/im_al_sweigart_author_of_automate_the_boring/)
-- [str/int: Controversial breaking change added to Python](https://www.reddit.com/r/Python/comments/xcqalk/strint_controversial_breaking_change_added_to/)
-- [Stick to django or move?](https://www.reddit.com/r/Python/comments/xcn2zp/stick_to_django_or_move/)
-- [Wallhaven Wallpaper Downloader &lpar;First Python App&rpar;](https://www.reddit.com/r/Python/comments/xcm83t/wallhaven_wallpaper_downloader_first_python_app/)
-- [Python for Data](https://www.reddit.com/r/Python/comments/xclz9h/python_for_data/)
 <!-- BLOG-POST-LIST:END -->
