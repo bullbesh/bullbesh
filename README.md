@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Evolution of Access Control Explained Using Python](https://www.reddit.com/r/Python/comments/xd0g08/evolution_of_access_control_explained_using_python/)
+- [I need some help getting started :c](https://www.reddit.com/r/Python/comments/xd0727/i_need_some_help_getting_started_c/)
 - [Our Final Semester Project](https://www.reddit.com/r/Python/comments/xcyquh/our_final_semester_project/)
 - [Help me with my python homework :&gt;](https://www.reddit.com/r/Python/comments/xcy521/help_me_with_my_python_homework/)
 - [Github - gradio-app/gradio: Gradio is an open-source Python library to quickly build web-based machine learning apps, data science demos and web applications, entirely in Python](https://www.reddit.com/r/Python/comments/xcvihi/github_gradioappgradio_gradio_is_an_opensource/)
-- [Make a Colour Picker in Python/PyGame in 9 min!](https://www.reddit.com/r/Python/comments/xculzx/make_a_colour_picker_in_pythonpygame_in_9_min/)
-- [Game i made](https://www.reddit.com/r/Python/comments/xcsf5x/game_i_made/)
 <!-- BLOG-POST-LIST:END -->
