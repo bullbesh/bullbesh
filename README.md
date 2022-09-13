@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is anyone not a &quot;self taught programmer&quot;?](https://www.reddit.com/r/Python/comments/xdc5m7/is_anyone_not_a_self_taught_programmer/)
+- [create points accordingly to the curvature of the curve](https://www.reddit.com/r/Python/comments/xdbsd9/create_points_accordingly_to_the_curvature_of_the/)
+- [Mapping the](https://www.reddit.com/r/Python/comments/xdbn3j/mapping_the/)
+- [How To Save A Child&#39;s Life with AWS and Python](https://www.reddit.com/r/Python/comments/xdanar/how_to_save_a_childs_life_with_aws_and_python/)
 - [HEROKU FLASK REACT BOILER PLATE](https://www.reddit.com/r/Python/comments/xdaeti/heroku_flask_react_boiler_plate/)
-- [Package for object detection database management and evaluation](https://www.reddit.com/r/Python/comments/xda3fn/package_for_object_detection_database_management/)
-- [Securing a Python CLI application with Auth0](https://www.reddit.com/r/Python/comments/xda30d/securing_a_python_cli_application_with_auth0/)
-- [i want to read a csv file ,and each row with attributes as a matrix cell. the second row as second matrix cell](https://www.reddit.com/r/Python/comments/xd9nx7/i_want_to_read_a_csv_file_and_each_row_with/)
-- [has anyone created a memory bounded A* search](https://www.reddit.com/r/Python/comments/xd9mnb/has_anyone_created_a_memory_bounded_a_search/)
 <!-- BLOG-POST-LIST:END -->
