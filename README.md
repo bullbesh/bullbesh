@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I used Python libfuse bindings to build a filesystem on top of a immutable database](https://www.reddit.com/r/Python/comments/xd1q4o/i_used_python_libfuse_bindings_to_build_a/)
+- [Best place to learn socket programming for free?](https://www.reddit.com/r/Python/comments/xd1nbp/best_place_to_learn_socket_programming_for_free/)
+- [I’ve developed a PostgreSQL Orm with a particular interface](https://www.reddit.com/r/Python/comments/xd17zr/ive_developed_a_postgresql_orm_with_a_particular/)
 - [Evolution of Access Control Explained Using Python](https://www.reddit.com/r/Python/comments/xd0g08/evolution_of_access_control_explained_using_python/)
 - [I need some help getting started :c](https://www.reddit.com/r/Python/comments/xd0727/i_need_some_help_getting_started_c/)
-- [Our Final Semester Project](https://www.reddit.com/r/Python/comments/xcyquh/our_final_semester_project/)
-- [Help me with my python homework :&gt;](https://www.reddit.com/r/Python/comments/xcy521/help_me_with_my_python_homework/)
-- [Github - gradio-app/gradio: Gradio is an open-source Python library to quickly build web-based machine learning apps, data science demos and web applications, entirely in Python](https://www.reddit.com/r/Python/comments/xcvihi/github_gradioappgradio_gradio_is_an_opensource/)
 <!-- BLOG-POST-LIST:END -->
