@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I need some help](https://www.reddit.com/r/Python/comments/xdem8b/i_need_some_help/)
 - [Fast computational geometry library for 2D geometries?](https://www.reddit.com/r/Python/comments/xddlj3/fast_computational_geometry_library_for_2d/)
 - [Custom Python Lists: Inheriting From list vs UserList – Real Python](https://www.reddit.com/r/Python/comments/xddhi4/custom_python_lists_inheriting_from_list_vs/)
 - [Encoding type detetction](https://www.reddit.com/r/Python/comments/xddb9n/encoding_type_detetction/)
 - [Is anyone not a &quot;self taught programmer&quot;?](https://www.reddit.com/r/Python/comments/xdc5m7/is_anyone_not_a_self_taught_programmer/)
-- [create points accordingly to the curvature of the curve](https://www.reddit.com/r/Python/comments/xdbsd9/create_points_accordingly_to_the_curvature_of_the/)
 <!-- BLOG-POST-LIST:END -->
