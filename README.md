@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Teach Me Python Website Launch](https://www.reddit.com/r/Python/comments/xd8o3w/teach_me_python_website_launch/)
-- [Recruiter asking how much experience is development vs. scripting](https://www.reddit.com/r/Python/comments/xd8cu3/recruiter_asking_how_much_experience_is/)
-- [I used Python libfuse bindings to build a filesystem on top of a immutable database](https://www.reddit.com/r/Python/comments/xd1q4o/i_used_python_libfuse_bindings_to_build_a/)
-- [Best place to learn socket programming for free?](https://www.reddit.com/r/Python/comments/xd1nbp/best_place_to_learn_socket_programming_for_free/)
-- [I’ve developed a PostgreSQL Orm with a particular interface](https://www.reddit.com/r/Python/comments/xd17zr/ive_developed_a_postgresql_orm_with_a_particular/)
+- [HEROKU FLASK REACT BOILER PLATE](https://www.reddit.com/r/Python/comments/xdaeti/heroku_flask_react_boiler_plate/)
+- [Package for object detection database management and evaluation](https://www.reddit.com/r/Python/comments/xda3fn/package_for_object_detection_database_management/)
+- [Securing a Python CLI application with Auth0](https://www.reddit.com/r/Python/comments/xda30d/securing_a_python_cli_application_with_auth0/)
+- [i want to read a csv file ,and each row with attributes as a matrix cell. the second row as second matrix cell](https://www.reddit.com/r/Python/comments/xd9nx7/i_want_to_read_a_csv_file_and_each_row_with/)
+- [has anyone created a memory bounded A* search](https://www.reddit.com/r/Python/comments/xd9mnb/has_anyone_created_a_memory_bounded_a_search/)
 <!-- BLOG-POST-LIST:END -->
