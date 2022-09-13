@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Library of the Week: Tenacity](https://www.reddit.com/r/Python/comments/xdhgvx/python_library_of_the_week_tenacity/)
+- [Near-Earth Objects - Project Part 7: The Opposition Effect](https://www.reddit.com/r/Python/comments/xdhbig/nearearth_objects_project_part_7_the_opposition/)
 - [using python for finances](https://www.reddit.com/r/Python/comments/xdesbc/using_python_for_finances/)
 - [I need some help](https://www.reddit.com/r/Python/comments/xdem8b/i_need_some_help/)
 - [Fast computational geometry library for 2D geometries?](https://www.reddit.com/r/Python/comments/xddlj3/fast_computational_geometry_library_for_2d/)
-- [Custom Python Lists: Inheriting From list vs UserList – Real Python](https://www.reddit.com/r/Python/comments/xddhi4/custom_python_lists_inheriting_from_list_vs/)
-- [Encoding type detetction](https://www.reddit.com/r/Python/comments/xddb9n/encoding_type_detetction/)
 <!-- BLOG-POST-LIST:END -->
