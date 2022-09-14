@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [List Comprehensions Are More Powerful Than You Think | Martin Heinz](https://www.reddit.com/r/Python/comments/xdz7qn/list_comprehensions_are_more_powerful_than_you/)
 - [Multithreading a concept which is always misunderstood!!](https://www.reddit.com/r/Python/comments/xdyahc/multithreading_a_concept_which_is_always/)
 - [Generate WEBP and WEBM images instantly](https://www.reddit.com/r/Python/comments/xdx9aw/generate_webp_and_webm_images_instantly/)
 - [I want to automate my social media account.](https://www.reddit.com/r/Python/comments/xdwu0z/i_want_to_automate_my_social_media_account/)
 - [[Script] Web Scraping ResearchGate All Qestions](https://www.reddit.com/r/Python/comments/xdwguq/script_web_scraping_researchgate_all_qestions/)
-- [It is so cool! Only 3 lines of python code can generate imaginative visuals and arts from texts.](https://www.reddit.com/r/Python/comments/xdvzzo/it_is_so_cool_only_3_lines_of_python_code_can/)
 <!-- BLOG-POST-LIST:END -->
