@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Discussing Nested Loops in Python](https://www.reddit.com/r/Python/comments/xdkudy/discussing_nested_loops_in_python/)
-- [My first python project and my friends don&#39;t care and dont want to open it](https://www.reddit.com/r/Python/comments/xdkmvn/my_first_python_project_and_my_friends_dont_care/)
-- [Used &quot;Py To EXE&quot; and It Showed KeyLogger as One of Viruses](https://www.reddit.com/r/Python/comments/xdkikk/used_py_to_exe_and_it_showed_keylogger_as_one_of/)
-- [looking for an API/data set of food ingredients](https://www.reddit.com/r/Python/comments/xdk5vd/looking_for_an_apidata_set_of_food_ingredients/)
-- [How Long Does It Take To Learn Python To Get a Job?](https://www.reddit.com/r/Python/comments/xdk3ij/how_long_does_it_take_to_learn_python_to_get_a_job/)
+- [Starting my journey](https://www.reddit.com/r/Python/comments/xdpr96/starting_my_journey/)
+- [Python - Pyglet paint application](https://www.reddit.com/r/Python/comments/xdnhed/python_pyglet_paint_application/)
+- [Pong Bot made with python](https://www.reddit.com/r/Python/comments/xdmz1e/pong_bot_made_with_python/)
+- [Original game, hope you enjoy](https://www.reddit.com/r/Python/comments/xdmwer/original_game_hope_you_enjoy/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/xdmrzi/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
