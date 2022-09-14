@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Up to date review of build tooling](https://www.reddit.com/r/Python/comments/xe63j7/up_to_date_review_of_build_tooling/)
+- [Why do I find Python harder to learn than C++? is this weird? am I doing something wrong?](https://www.reddit.com/r/Python/comments/xe5ruh/why_do_i_find_python_harder_to_learn_than_c_is/)
+- [PaddleHub ERNIE-ViLG](https://www.reddit.com/r/Python/comments/xe57s7/paddlehub_ernievilg/)
 - [Is there something comparable to npmjs.com for Python?](https://www.reddit.com/r/Python/comments/xe3rph/is_there_something_comparable_to_npmjscom_for/)
 - [Machine Learning from Scratch with Python](https://www.reddit.com/r/Python/comments/xe2mzy/machine_learning_from_scratch_with_python/)
-- [Accelerate PyTorch with Taichi: Data Preprocessing &amp; High-performance ML Operator Customization](https://www.reddit.com/r/Python/comments/xe1lrm/accelerate_pytorch_with_taichi_data_preprocessing/)
-- [Visualizing Line Charts in Seaborn library of Python](https://www.reddit.com/r/Python/comments/xe16pt/visualizing_line_charts_in_seaborn_library_of/)
-- [PythonFiddle: Fully private client-side sample code execution and sharing](https://www.reddit.com/r/Python/comments/xe0d6p/pythonfiddle_fully_private_clientside_sample_code/)
 <!-- BLOG-POST-LIST:END -->
