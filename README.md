@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there something comparable to npmjs.com for Python?](https://www.reddit.com/r/Python/comments/xe3rph/is_there_something_comparable_to_npmjscom_for/)
 - [Machine Learning from Scratch with Python](https://www.reddit.com/r/Python/comments/xe2mzy/machine_learning_from_scratch_with_python/)
 - [Accelerate PyTorch with Taichi: Data Preprocessing &amp; High-performance ML Operator Customization](https://www.reddit.com/r/Python/comments/xe1lrm/accelerate_pytorch_with_taichi_data_preprocessing/)
 - [Visualizing Line Charts in Seaborn library of Python](https://www.reddit.com/r/Python/comments/xe16pt/visualizing_line_charts_in_seaborn_library_of/)
 - [PythonFiddle: Fully private client-side sample code execution and sharing](https://www.reddit.com/r/Python/comments/xe0d6p/pythonfiddle_fully_private_clientside_sample_code/)
-- [Read-Defining](https://www.reddit.com/r/Python/comments/xdzya0/readdefining/)
 <!-- BLOG-POST-LIST:END -->
