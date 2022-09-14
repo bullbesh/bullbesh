@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Application Design Discussion: Real-time Task Checker](https://www.reddit.com/r/Python/comments/xedbub/application_design_discussion_realtime_task/)
 - [My First Project In Python.](https://www.reddit.com/r/Python/comments/xe9w79/my_first_project_in_python/)
 - [My knock off version of python&#39;s thread.Lock&lpar;&rpar;](https://www.reddit.com/r/Python/comments/xe9kdc/my_knock_off_version_of_pythons_threadlock/)
 - [Fine-tune GPT-3 Using Python to Create a Virtual Mental Health Assistant App](https://www.reddit.com/r/Python/comments/xe91yp/finetune_gpt3_using_python_to_create_a_virtual/)
 - [Published my first module to PyPi](https://www.reddit.com/r/Python/comments/xe8ha2/published_my_first_module_to_pypi/)
-- [Is it possible to write a node.js wrapper around python code? Has this been done before?](https://www.reddit.com/r/Python/comments/xe7vez/is_it_possible_to_write_a_nodejs_wrapper_around/)
 <!-- BLOG-POST-LIST:END -->
