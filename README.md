@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [List Comprehensions Are More Powerful Than You Think | Martin Heinz](https://www.reddit.com/r/Python/comments/xdz7qn/list_comprehensions_are_more_powerful_than_you/)
-- [Multithreading a concept which is always misunderstood!!](https://www.reddit.com/r/Python/comments/xdyahc/multithreading_a_concept_which_is_always/)
-- [Generate WEBP and WEBM images instantly](https://www.reddit.com/r/Python/comments/xdx9aw/generate_webp_and_webm_images_instantly/)
-- [I want to automate my social media account.](https://www.reddit.com/r/Python/comments/xdwu0z/i_want_to_automate_my_social_media_account/)
-- [[Script] Web Scraping ResearchGate All Qestions](https://www.reddit.com/r/Python/comments/xdwguq/script_web_scraping_researchgate_all_qestions/)
+- [PythonFiddle: Fully private client-side sample code execution and sharing](https://www.reddit.com/r/Python/comments/xe0d6p/pythonfiddle_fully_private_clientside_sample_code/)
+- [Read-Defining](https://www.reddit.com/r/Python/comments/xdzya0/readdefining/)
+- [The answer is 5,6,15,5,6 - But I can&#39;t understand how, can anyone explain ?](https://www.reddit.com/r/Python/comments/xdzsqd/the_answer_is_561556_but_i_cant_understand_how/)
+- [Python Discord](https://www.reddit.com/r/Python/comments/xdzn2o/python_discord/)
+- [Is the social media traffic&lpar;like facebook&rpar; harmful for Admob Ads?](https://www.reddit.com/r/Python/comments/xdzld4/is_the_social_media_trafficlike_facebook_harmful/)
 <!-- BLOG-POST-LIST:END -->
