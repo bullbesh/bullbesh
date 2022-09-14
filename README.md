@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What Python code analysis tools are you using?](https://www.reddit.com/r/Python/comments/xef3u2/what_python_code_analysis_tools_are_you_using/)
+- [Symbolic Solvers](https://www.reddit.com/r/Python/comments/xee8ta/symbolic_solvers/)
+- [Decoupled Conway&#39;s Game of Life](https://www.reddit.com/r/Python/comments/xedr31/decoupled_conways_game_of_life/)
 - [Application Design Discussion: Real-time Task Checker](https://www.reddit.com/r/Python/comments/xedbub/application_design_discussion_realtime_task/)
 - [My First Project In Python.](https://www.reddit.com/r/Python/comments/xe9w79/my_first_project_in_python/)
-- [My knock off version of python&#39;s thread.Lock&lpar;&rpar;](https://www.reddit.com/r/Python/comments/xe9kdc/my_knock_off_version_of_pythons_threadlock/)
-- [Fine-tune GPT-3 Using Python to Create a Virtual Mental Health Assistant App](https://www.reddit.com/r/Python/comments/xe91yp/finetune_gpt3_using_python_to_create_a_virtual/)
-- [Published my first module to PyPi](https://www.reddit.com/r/Python/comments/xe8ha2/published_my_first_module_to_pypi/)
 <!-- BLOG-POST-LIST:END -->
