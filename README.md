@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate WEBP and WEBM images instantly](https://www.reddit.com/r/Python/comments/xdx9aw/generate_webp_and_webm_images_instantly/)
+- [Make an extremely creative picture by 3 lines of python code !](https://www.reddit.com/r/Python/comments/xdwuvv/make_an_extremely_creative_picture_by_3_lines_of/)
+- [I want to automate my social media account.](https://www.reddit.com/r/Python/comments/xdwu0z/i_want_to_automate_my_social_media_account/)
+- [[Script] Web Scraping ResearchGate All Qestions](https://www.reddit.com/r/Python/comments/xdwguq/script_web_scraping_researchgate_all_qestions/)
 - [It is so cool! Only 3 lines of python code can generate imaginative visuals and arts from texts.](https://www.reddit.com/r/Python/comments/xdvzzo/it_is_so_cool_only_3_lines_of_python_code_can/)
-- [library to log methods and function calls.](https://www.reddit.com/r/Python/comments/xdvqyo/library_to_log_methods_and_function_calls/)
-- [We built a search engine to find good neighborhoods &lpar;in Florida&rpar;](https://www.reddit.com/r/Python/comments/xdvp3c/we_built_a_search_engine_to_find_good/)
-- [Python protobuf how to consume and produce to different topics](https://www.reddit.com/r/Python/comments/xdv7ne/python_protobuf_how_to_consume_and_produce_to/)
-- [I need to scrape my Instagram followers emails and I don’t know how, I used Osintgram on a Linux virtual machine but I get a lot of errors. Can anyone suggest me another program or give me any ideas?](https://www.reddit.com/r/Python/comments/xdu7ad/i_need_to_scrape_my_instagram_followers_emails/)
 <!-- BLOG-POST-LIST:END -->
