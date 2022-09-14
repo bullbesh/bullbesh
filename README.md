@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning from Scratch with Python](https://www.reddit.com/r/Python/comments/xe2mzy/machine_learning_from_scratch_with_python/)
 - [Accelerate PyTorch with Taichi: Data Preprocessing &amp; High-performance ML Operator Customization](https://www.reddit.com/r/Python/comments/xe1lrm/accelerate_pytorch_with_taichi_data_preprocessing/)
 - [Visualizing Line Charts in Seaborn library of Python](https://www.reddit.com/r/Python/comments/xe16pt/visualizing_line_charts_in_seaborn_library_of/)
 - [PythonFiddle: Fully private client-side sample code execution and sharing](https://www.reddit.com/r/Python/comments/xe0d6p/pythonfiddle_fully_private_clientside_sample_code/)
 - [Read-Defining](https://www.reddit.com/r/Python/comments/xdzya0/readdefining/)
-- [The answer is 5,6,15,5,6 - But I can&#39;t understand how, can anyone explain ?](https://www.reddit.com/r/Python/comments/xdzsqd/the_answer_is_561556_but_i_cant_understand_how/)
 <!-- BLOG-POST-LIST:END -->
