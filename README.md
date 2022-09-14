@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [It is so cool! Only 3 lines of python code can generate imaginative visuals and arts from texts.](https://www.reddit.com/r/Python/comments/xdvzzo/it_is_so_cool_only_3_lines_of_python_code_can/)
+- [library to log methods and function calls.](https://www.reddit.com/r/Python/comments/xdvqyo/library_to_log_methods_and_function_calls/)
+- [We built a search engine to find good neighborhoods &lpar;in Florida&rpar;](https://www.reddit.com/r/Python/comments/xdvp3c/we_built_a_search_engine_to_find_good/)
 - [Python protobuf how to consume and produce to different topics](https://www.reddit.com/r/Python/comments/xdv7ne/python_protobuf_how_to_consume_and_produce_to/)
 - [I need to scrape my Instagram followers emails and I don’t know how, I used Osintgram on a Linux virtual machine but I get a lot of errors. Can anyone suggest me another program or give me any ideas?](https://www.reddit.com/r/Python/comments/xdu7ad/i_need_to_scrape_my_instagram_followers_emails/)
-- [What are different ways to make a Python exe besides py-to-exe?](https://www.reddit.com/r/Python/comments/xdtx9r/what_are_different_ways_to_make_a_python_exe/)
-- [Python + Wix?](https://www.reddit.com/r/Python/comments/xdrqlg/python_wix/)
-- [Simple Crafting Game](https://www.reddit.com/r/Python/comments/xdrh7m/simple_crafting_game/)
 <!-- BLOG-POST-LIST:END -->
