@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python + Wix?](https://www.reddit.com/r/Python/comments/xdrqlg/python_wix/)
+- [Simple Crafting Game](https://www.reddit.com/r/Python/comments/xdrh7m/simple_crafting_game/)
+- [Hello! I&#39;m new to the community, and I&#39;m working on something big!](https://www.reddit.com/r/Python/comments/xdqoi9/hello_im_new_to_the_community_and_im_working_on/)
 - [Starting my journey](https://www.reddit.com/r/Python/comments/xdpr96/starting_my_journey/)
 - [Python - Pyglet paint application](https://www.reddit.com/r/Python/comments/xdnhed/python_pyglet_paint_application/)
-- [Pong Bot made with python](https://www.reddit.com/r/Python/comments/xdmz1e/pong_bot_made_with_python/)
-- [Original game, hope you enjoy](https://www.reddit.com/r/Python/comments/xdmwer/original_game_hope_you_enjoy/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/xdmrzi/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
