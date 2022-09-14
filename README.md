@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python protobuf how to consume and produce to different topics](https://www.reddit.com/r/Python/comments/xdv7ne/python_protobuf_how_to_consume_and_produce_to/)
+- [I need to scrape my Instagram followers emails and I don’t know how, I used Osintgram on a Linux virtual machine but I get a lot of errors. Can anyone suggest me another program or give me any ideas?](https://www.reddit.com/r/Python/comments/xdu7ad/i_need_to_scrape_my_instagram_followers_emails/)
 - [What are different ways to make a Python exe besides py-to-exe?](https://www.reddit.com/r/Python/comments/xdtx9r/what_are_different_ways_to_make_a_python_exe/)
 - [Python + Wix?](https://www.reddit.com/r/Python/comments/xdrqlg/python_wix/)
 - [Simple Crafting Game](https://www.reddit.com/r/Python/comments/xdrh7m/simple_crafting_game/)
-- [Hello! I&#39;m new to the community, and I&#39;m working on something big!](https://www.reddit.com/r/Python/comments/xdqoi9/hello_im_new_to_the_community_and_im_working_on/)
-- [Starting my journey](https://www.reddit.com/r/Python/comments/xdpr96/starting_my_journey/)
 <!-- BLOG-POST-LIST:END -->
