@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning Python Open Source project into Product with Redis OSS and Redis Enterprise](https://www.reddit.com/r/Python/comments/xeuw8k/turning_python_open_source_project_into_product/)
+- [Making large line-charts &lpar;visualizations&rpar; scalable with plotly-resampler](https://www.reddit.com/r/Python/comments/xeu857/making_large_linecharts_visualizations_scalable/)
 - [Pacman Fetch!](https://www.reddit.com/r/Python/comments/xeu2ku/pacman_fetch/)
 - [Removing Space&lpar;s&rpar;](https://www.reddit.com/r/Python/comments/xetq1a/removing_spaces/)
 - [Web Scraping With Python &lpar;An Ultimate Guide&rpar;](https://www.reddit.com/r/Python/comments/xetbdk/web_scraping_with_python_an_ultimate_guide/)
-- [Learn Python Programming --- Python for Beginners](https://www.reddit.com/r/Python/comments/xernfr/learn_python_programming_python_for_beginners/)
-- [Parsing Output of Paramiko recv channel](https://www.reddit.com/r/Python/comments/xepdf5/parsing_output_of_paramiko_recv_channel/)
 <!-- BLOG-POST-LIST:END -->
