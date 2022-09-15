@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What stack or tools are you using for ensuring code quality and best practices in medium and large codebases ?](https://www.reddit.com/r/Python/comments/xf4l0a/what_stack_or_tools_are_you_using_for_ensuring/)
 - [Platform Jumper Game using Ursina Python](https://www.reddit.com/r/Python/comments/xf3wqx/platform_jumper_game_using_ursina_python/)
 - [The hard Choice multithreading or multiprocessing](https://www.reddit.com/r/Python/comments/xf3aqm/the_hard_choice_multithreading_or_multiprocessing/)
 - [Can Amazon&#39;s CodeWhisperer Write Better Python than You?](https://www.reddit.com/r/Python/comments/xf2pw4/can_amazons_codewhisperer_write_better_python/)
 - [OpenSSF Brings SBOM and SDPX to Python](https://www.reddit.com/r/Python/comments/xf2olt/openssf_brings_sbom_and_sdpx_to_python/)
-- [Could an attacker with few lines of Python code shutting down over 7,000 fueling stations in the United States leave the nation crippled?](https://www.reddit.com/r/Python/comments/xf2cpk/could_an_attacker_with_few_lines_of_python_code/)
 <!-- BLOG-POST-LIST:END -->
