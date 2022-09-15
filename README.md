@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hi guys how do you enable turbo mode](https://www.reddit.com/r/Python/comments/xexew7/hi_guys_how_do_you_enable_turbo_mode/)
+- [Visualizing Scatter Plots in Seaborn](https://www.reddit.com/r/Python/comments/xewsg3/visualizing_scatter_plots_in_seaborn/)
+- [Using tcpdump to measure latency and store output](https://www.reddit.com/r/Python/comments/xewrgp/using_tcpdump_to_measure_latency_and_store_output/)
+- [Is it possible to make &quot;Photoshop&quot; in Python?](https://www.reddit.com/r/Python/comments/xew81a/is_it_possible_to_make_photoshop_in_python/)
 - [Turning Python Open Source project into Product with Redis OSS and Redis Enterprise](https://www.reddit.com/r/Python/comments/xeuw8k/turning_python_open_source_project_into_product/)
-- [Making large line-charts &lpar;visualizations&rpar; scalable with plotly-resampler](https://www.reddit.com/r/Python/comments/xeu857/making_large_linecharts_visualizations_scalable/)
-- [Pacman Fetch!](https://www.reddit.com/r/Python/comments/xeu2ku/pacman_fetch/)
-- [Removing Space&lpar;s&rpar;](https://www.reddit.com/r/Python/comments/xetq1a/removing_spaces/)
-- [Web Scraping With Python &lpar;An Ultimate Guide&rpar;](https://www.reddit.com/r/Python/comments/xetbdk/web_scraping_with_python_an_ultimate_guide/)
 <!-- BLOG-POST-LIST:END -->
