@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does python 3 have applications in servo control &amp; robotics?](https://www.reddit.com/r/Python/comments/xfb95j/does_python_3_have_applications_in_servo_control/)
 - [Strings in Python](https://www.reddit.com/r/Python/comments/xf9ouu/strings_in_python/)
 - [jsonparse library. Extract from deeply nested JSON based on key&#39;s and key value](https://www.reddit.com/r/Python/comments/xf863f/jsonparse_library_extract_from_deeply_nested_json/)
 - [Pulling Fantasy Data From ESPN API &amp; Visualizing w/ Python](https://www.reddit.com/r/Python/comments/xf83aq/pulling_fantasy_data_from_espn_api_visualizing_w/)
 - [Yolov7 Person recognition&lpar;REID&rpar; with Python](https://www.reddit.com/r/Python/comments/xf7ot5/yolov7_person_recognitionreid_with_python/)
-- [Thanks to the feedback here, resumy can now build your resume from a yaml file using the jsonresume format](https://www.reddit.com/r/Python/comments/xf6tpm/thanks_to_the_feedback_here_resumy_can_now_build/)
 <!-- BLOG-POST-LIST:END -->
