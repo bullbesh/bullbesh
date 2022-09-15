@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Platform Jumper Game using Ursina Python](https://www.reddit.com/r/Python/comments/xf3wqx/platform_jumper_game_using_ursina_python/)
+- [The hard Choice multithreading or multiprocessing](https://www.reddit.com/r/Python/comments/xf3aqm/the_hard_choice_multithreading_or_multiprocessing/)
+- [Can Amazon&#39;s CodeWhisperer Write Better Python than You?](https://www.reddit.com/r/Python/comments/xf2pw4/can_amazons_codewhisperer_write_better_python/)
+- [OpenSSF Brings SBOM and SDPX to Python](https://www.reddit.com/r/Python/comments/xf2olt/openssf_brings_sbom_and_sdpx_to_python/)
 - [Could an attacker with few lines of Python code shutting down over 7,000 fueling stations in the United States leave the nation crippled?](https://www.reddit.com/r/Python/comments/xf2cpk/could_an_attacker_with_few_lines_of_python_code/)
-- [Advanced dictionary app using python part 2 | antonym functions](https://www.reddit.com/r/Python/comments/xf1sqi/advanced_dictionary_app_using_python_part_2/)
-- [If you&#39;ve watched Lost...](https://www.reddit.com/r/Python/comments/xf1han/if_youve_watched_lost/)
-- [Real-time glucose updates on Discord](https://www.reddit.com/r/Python/comments/xf0i8c/realtime_glucose_updates_on_discord/)
-- [Wordpress to Pelican in 24 hours](https://www.reddit.com/r/Python/comments/xeyzkn/wordpress_to_pelican_in_24_hours/)
 <!-- BLOG-POST-LIST:END -->
