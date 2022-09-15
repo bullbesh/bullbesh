@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Parsing Output of Paramiko recv channel](https://www.reddit.com/r/Python/comments/xepdf5/parsing_output_of_paramiko_recv_channel/)
+- [Which interactive python visualization library would you suggest for a personal project?](https://www.reddit.com/r/Python/comments/xep45e/which_interactive_python_visualization_library/)
+- [How did Hugging Face get such good PyPI package names?](https://www.reddit.com/r/Python/comments/xeoyqc/how_did_hugging_face_get_such_good_pypi_package/)
 - [How 25 Lines of Python Could Cripple America&#39;s Economy](https://www.reddit.com/r/Python/comments/xeo2rm/how_25_lines_of_python_could_cripple_americas/)
 - [The Infamous GIL !!](https://www.reddit.com/r/Python/comments/xelx9n/the_infamous_gil/)
-- [Year long beginner and am proud of my solution in class today!](https://www.reddit.com/r/Python/comments/xehxiv/year_long_beginner_and_am_proud_of_my_solution_in/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/xehfdb/thursday_daily_thread_python_careers_courses_and/)
-- [I made a simple search engine for Real Estate in Python](https://www.reddit.com/r/Python/comments/xegvsd/i_made_a_simple_search_engine_for_real_estate_in/)
 <!-- BLOG-POST-LIST:END -->
