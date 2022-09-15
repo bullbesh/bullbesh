@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [jsonparse library. Extract from deeply nested JSON based on key&#39;s and key value](https://www.reddit.com/r/Python/comments/xf863f/jsonparse_library_extract_from_deeply_nested_json/)
+- [Pulling Fantasy Data From ESPN API &amp; Visualizing w/ Python](https://www.reddit.com/r/Python/comments/xf83aq/pulling_fantasy_data_from_espn_api_visualizing_w/)
+- [Yolov7 Person recognition&lpar;REID&rpar; with Python](https://www.reddit.com/r/Python/comments/xf7ot5/yolov7_person_recognitionreid_with_python/)
 - [Thanks to the feedback here, resumy can now build your resume from a yaml file using the jsonresume format](https://www.reddit.com/r/Python/comments/xf6tpm/thanks_to_the_feedback_here_resumy_can_now_build/)
 - [Is it true that Python 3.14 will be faster than C++?](https://www.reddit.com/r/Python/comments/xf6t7t/is_it_true_that_python_314_will_be_faster_than_c/)
-- [What stack or tools are you using for ensuring code quality and best practices in medium and large codebases ?](https://www.reddit.com/r/Python/comments/xf4l0a/what_stack_or_tools_are_you_using_for_ensuring/)
-- [Platform Jumper Game using Ursina Python](https://www.reddit.com/r/Python/comments/xf3wqx/platform_jumper_game_using_ursina_python/)
-- [The hard Choice multithreading or multiprocessing](https://www.reddit.com/r/Python/comments/xf3aqm/the_hard_choice_multithreading_or_multiprocessing/)
 <!-- BLOG-POST-LIST:END -->
