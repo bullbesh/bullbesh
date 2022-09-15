@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thanks to the feedback here, resumy can now build your resume from a yaml file using the jsonresume format](https://www.reddit.com/r/Python/comments/xf6tpm/thanks_to_the_feedback_here_resumy_can_now_build/)
+- [Is it true that Python 3.14 will be faster than C++?](https://www.reddit.com/r/Python/comments/xf6t7t/is_it_true_that_python_314_will_be_faster_than_c/)
 - [What stack or tools are you using for ensuring code quality and best practices in medium and large codebases ?](https://www.reddit.com/r/Python/comments/xf4l0a/what_stack_or_tools_are_you_using_for_ensuring/)
 - [Platform Jumper Game using Ursina Python](https://www.reddit.com/r/Python/comments/xf3wqx/platform_jumper_game_using_ursina_python/)
 - [The hard Choice multithreading or multiprocessing](https://www.reddit.com/r/Python/comments/xf3aqm/the_hard_choice_multithreading_or_multiprocessing/)
-- [Can Amazon&#39;s CodeWhisperer Write Better Python than You?](https://www.reddit.com/r/Python/comments/xf2pw4/can_amazons_codewhisperer_write_better_python/)
-- [OpenSSF Brings SBOM and SDPX to Python](https://www.reddit.com/r/Python/comments/xf2olt/openssf_brings_sbom_and_sdpx_to_python/)
 <!-- BLOG-POST-LIST:END -->
