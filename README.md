@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for a good book or other resource about python and Blockchain.](https://www.reddit.com/r/Python/comments/xfdo9t/looking_for_a_good_book_or_other_resource_about/)
 - [Does python 3 have applications in servo control &amp; robotics?](https://www.reddit.com/r/Python/comments/xfb95j/does_python_3_have_applications_in_servo_control/)
 - [Strings in Python](https://www.reddit.com/r/Python/comments/xf9ouu/strings_in_python/)
 - [jsonparse library. Extract from deeply nested JSON based on key&#39;s and key value](https://www.reddit.com/r/Python/comments/xf863f/jsonparse_library_extract_from_deeply_nested_json/)
 - [Pulling Fantasy Data From ESPN API &amp; Visualizing w/ Python](https://www.reddit.com/r/Python/comments/xf83aq/pulling_fantasy_data_from_espn_api_visualizing_w/)
-- [Yolov7 Person recognition&lpar;REID&rpar; with Python](https://www.reddit.com/r/Python/comments/xf7ot5/yolov7_person_recognitionreid_with_python/)
 <!-- BLOG-POST-LIST:END -->
