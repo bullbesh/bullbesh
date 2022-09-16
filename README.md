@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Types of Python Programming Language](https://www.reddit.com/r/Python/comments/xfkm6a/data_types_of_python_programming_language/)
-- [Python Keywords List questions and answers](https://www.reddit.com/r/Python/comments/xfkllh/python_keywords_list_questions_and_answers/)
-- [Python Variables| Python Course for Beginners with Examples](https://www.reddit.com/r/Python/comments/xfkl0i/python_variables_python_course_for_beginners_with/)
-- [Python Introduction To Computer Science and Programming](https://www.reddit.com/r/Python/comments/xfkkd1/python_introduction_to_computer_science_and/)
-- [Huak - A Python Package manager written in Rust](https://www.reddit.com/r/Python/comments/xfibbd/huak_a_python_package_manager_written_in_rust/)
+- [i have forked a repo with has a password hardcoded what would be the best way to not expose it while pushing to my devops repo.](https://www.reddit.com/r/Python/comments/xflk60/i_have_forked_a_repo_with_has_a_password/)
+- [I made a Smooth Water Effect using python and pygame. Also used pymunk for the rocks and scipy + numpy for the smooth wave effect. Hope you all like it : &rpar;](https://www.reddit.com/r/Python/comments/xflh57/i_made_a_smooth_water_effect_using_python_and/)
+- [Python for Data Science/Analysis](https://www.reddit.com/r/Python/comments/xflaqr/python_for_data_scienceanalysis/)
+- [I would like to share my experience and workflow for setting up event-driven architecture using Knative](https://www.reddit.com/r/Python/comments/xfl6qf/i_would_like_to_share_my_experience_and_workflow/)
+- [uninstall](https://www.reddit.com/r/Python/comments/xfku82/uninstall/)
 <!-- BLOG-POST-LIST:END -->
