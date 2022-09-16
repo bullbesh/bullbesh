@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Types of Python Programming Language](https://www.reddit.com/r/Python/comments/xfkm6a/data_types_of_python_programming_language/)
+- [Python Keywords List questions and answers](https://www.reddit.com/r/Python/comments/xfkllh/python_keywords_list_questions_and_answers/)
+- [Python Variables| Python Course for Beginners with Examples](https://www.reddit.com/r/Python/comments/xfkl0i/python_variables_python_course_for_beginners_with/)
+- [Python Introduction To Computer Science and Programming](https://www.reddit.com/r/Python/comments/xfkkd1/python_introduction_to_computer_science_and/)
 - [Huak - A Python Package manager written in Rust](https://www.reddit.com/r/Python/comments/xfibbd/huak_a_python_package_manager_written_in_rust/)
-- [How to auto-grading a exam on a website?](https://www.reddit.com/r/Python/comments/xffxqe/how_to_autograding_a_exam_on_a_website/)
-- [Looking for a good book or other resource about python and Blockchain.](https://www.reddit.com/r/Python/comments/xfdo9t/looking_for_a_good_book_or_other_resource_about/)
-- [Does python 3 have applications in servo control &amp; robotics?](https://www.reddit.com/r/Python/comments/xfb95j/does_python_3_have_applications_in_servo_control/)
-- [jsonparse library. Extract from deeply nested JSON based on key&#39;s and key value](https://www.reddit.com/r/Python/comments/xf863f/jsonparse_library_extract_from_deeply_nested_json/)
 <!-- BLOG-POST-LIST:END -->
