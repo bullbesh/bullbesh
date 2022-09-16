@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Prefix and Postfix ++ -- Operators for Python](https://www.reddit.com/r/Python/comments/xg56eq/prefix_and_postfix_operators_for_python/)
 - [AutomaticDemuxer package for video/audio media](https://www.reddit.com/r/Python/comments/xg34y5/automaticdemuxer_package_for_videoaudio_media/)
 - [Run Selenium with Python via Github Actions using Headless or Non-Headless browsers!](https://www.reddit.com/r/Python/comments/xg2apa/run_selenium_with_python_via_github_actions_using/)
 - [Introducing the Semantic Graph](https://www.reddit.com/r/Python/comments/xfz8s2/introducing_the_semantic_graph/)
 - [Matplotlib 3.6 is out with big updates to 3D plots and more](https://www.reddit.com/r/Python/comments/xfy2gf/matplotlib_36_is_out_with_big_updates_to_3d_plots/)
-- [A framework for building Slack bots in Python](https://www.reddit.com/r/Python/comments/xfsmiu/a_framework_for_building_slack_bots_in_python/)
 <!-- BLOG-POST-LIST:END -->
