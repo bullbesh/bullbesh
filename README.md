@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Flying around matplotlib 3d plots with an IMU and quaternions](https://www.reddit.com/r/Python/comments/xfuwgo/flying_around_matplotlib_3d_plots_with_an_imu_and/)
+- [botnets on Twitter, how do they work and can we detect and counter them ?](https://www.reddit.com/r/Python/comments/xfyh5u/botnets_on_twitter_how_do_they_work_and_can_we/)
+- [Matplotlib 3.6 is out with big updates to 3D plots and more](https://www.reddit.com/r/Python/comments/xfy2gf/matplotlib_36_is_out_with_big_updates_to_3d_plots/)
 - [Which is better for coding? i3 1115g4 or ryzen 3 5300u?](https://www.reddit.com/r/Python/comments/xfu6ee/which_is_better_for_coding_i3_1115g4_or_ryzen_3/)
 - [Are there nim users?](https://www.reddit.com/r/Python/comments/xftsad/are_there_nim_users/)
-- [Python vs. R: Why is Python the First Choice for Data Scientists?](https://www.reddit.com/r/Python/comments/xftqbg/python_vs_r_why_is_python_the_first_choice_for/)
 - [A framework for building Slack bots in Python](https://www.reddit.com/r/Python/comments/xfsmiu/a_framework_for_building_slack_bots_in_python/)
 <!-- BLOG-POST-LIST:END -->
