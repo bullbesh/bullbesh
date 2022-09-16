@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any tips as to what kinds of things are involved in reaching different stages of proficiency in Python?](https://www.reddit.com/r/Python/comments/xfrc0n/any_tips_as_to_what_kinds_of_things_are_involved/)
+- [Why you should use Data Classes in Python](https://www.reddit.com/r/Python/comments/xfqli0/why_you_should_use_data_classes_in_python/)
 - [k means](https://www.reddit.com/r/Python/comments/xforzr/k_means/)
 - [Anyone need help on a project?](https://www.reddit.com/r/Python/comments/xfoebq/anyone_need_help_on_a_project/)
 - [best most professional way to create an executable file](https://www.reddit.com/r/Python/comments/xfn8fj/best_most_professional_way_to_create_an/)
-- [Python Optimization database](https://www.reddit.com/r/Python/comments/xflwdc/python_optimization_database/)
-- [i have forked a repo with has a password hardcoded what would be the best way to not expose it while pushing to my devops repo.](https://www.reddit.com/r/Python/comments/xflk60/i_have_forked_a_repo_with_has_a_password/)
 <!-- BLOG-POST-LIST:END -->
