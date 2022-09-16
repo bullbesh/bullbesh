@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [k means](https://www.reddit.com/r/Python/comments/xforzr/k_means/)
 - [Anyone need help on a project?](https://www.reddit.com/r/Python/comments/xfoebq/anyone_need_help_on_a_project/)
 - [best most professional way to create an executable file](https://www.reddit.com/r/Python/comments/xfn8fj/best_most_professional_way_to_create_an/)
 - [Python Optimization database](https://www.reddit.com/r/Python/comments/xflwdc/python_optimization_database/)
 - [i have forked a repo with has a password hardcoded what would be the best way to not expose it while pushing to my devops repo.](https://www.reddit.com/r/Python/comments/xflk60/i_have_forked_a_repo_with_has_a_password/)
-- [I made a Smooth Water Effect using python and pygame. Also used pymunk for the rocks and scipy + numpy for the smooth wave effect. Hope you all like it : &rpar;](https://www.reddit.com/r/Python/comments/xflh57/i_made_a_smooth_water_effect_using_python_and/)
 <!-- BLOG-POST-LIST:END -->
