@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Huak - A Python Package manager written in Rust](https://www.reddit.com/r/Python/comments/xfibbd/huak_a_python_package_manager_written_in_rust/)
 - [How to auto-grading a exam on a website?](https://www.reddit.com/r/Python/comments/xffxqe/how_to_autograding_a_exam_on_a_website/)
 - [Looking for a good book or other resource about python and Blockchain.](https://www.reddit.com/r/Python/comments/xfdo9t/looking_for_a_good_book_or_other_resource_about/)
 - [Does python 3 have applications in servo control &amp; robotics?](https://www.reddit.com/r/Python/comments/xfb95j/does_python_3_have_applications_in_servo_control/)
-- [Strings in Python](https://www.reddit.com/r/Python/comments/xf9ouu/strings_in_python/)
 - [jsonparse library. Extract from deeply nested JSON based on key&#39;s and key value](https://www.reddit.com/r/Python/comments/xf863f/jsonparse_library_extract_from_deeply_nested_json/)
 <!-- BLOG-POST-LIST:END -->
