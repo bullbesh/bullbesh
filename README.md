@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Bunch of Python Deep-dives](https://www.reddit.com/r/Python/comments/xgl190/a_bunch_of_python_deepdives/)
+- [Monitoring ML models with FastAPI and Evidently AI](https://www.reddit.com/r/Python/comments/xgk3mk/monitoring_ml_models_with_fastapi_and_evidently_ai/)
 - [Libraries](https://www.reddit.com/r/Python/comments/xgj9d1/libraries/)
 - [Made an NLP model that predicts subreddit based on the title of a post](https://www.reddit.com/r/Python/comments/xgiozr/made_an_nlp_model_that_predicts_subreddit_based/)
 - [What if concurrent.futures was revamped?](https://www.reddit.com/r/Python/comments/xgf2fd/what_if_concurrentfutures_was_revamped/)
-- [Using Python in Databricks?](https://www.reddit.com/r/Python/comments/xgem9e/using_python_in_databricks/)
-- [Writing REST with Django and Ninja [Webinar]](https://www.reddit.com/r/Python/comments/xgem21/writing_rest_with_django_and_ninja_webinar/)
 <!-- BLOG-POST-LIST:END -->
