@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Analyze left and right channels independently with pyaudio?](https://www.reddit.com/r/Python/comments/xg8bg0/analyze_left_and_right_channels_independently/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/xg72un/saturday_daily_thread_resource_request_and/)
 - [Prefix and Postfix ++ -- Operators for Python](https://www.reddit.com/r/Python/comments/xg56eq/prefix_and_postfix_operators_for_python/)
 - [AutomaticDemuxer package for video/audio media](https://www.reddit.com/r/Python/comments/xg34y5/automaticdemuxer_package_for_videoaudio_media/)
 - [Run Selenium with Python via Github Actions using Headless or Non-Headless browsers!](https://www.reddit.com/r/Python/comments/xg2apa/run_selenium_with_python_via_github_actions_using/)
-- [Introducing the Semantic Graph](https://www.reddit.com/r/Python/comments/xfz8s2/introducing_the_semantic_graph/)
-- [Matplotlib 3.6 is out with big updates to 3D plots and more](https://www.reddit.com/r/Python/comments/xfy2gf/matplotlib_36_is_out_with_big_updates_to_3d_plots/)
 <!-- BLOG-POST-LIST:END -->
