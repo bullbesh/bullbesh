@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ML for string matching when there&#39;s no any semantic relationship?](https://www.reddit.com/r/Python/comments/xgnczt/ml_for_string_matching_when_theres_no_any/)
 - [Python overloading just like C++ stuff](https://www.reddit.com/r/Python/comments/xgmb0l/python_overloading_just_like_c_stuff/)
 - [A Bunch of Python Deep-dives](https://www.reddit.com/r/Python/comments/xgl190/a_bunch_of_python_deepdives/)
 - [Monitoring ML models with FastAPI and Evidently AI](https://www.reddit.com/r/Python/comments/xgk3mk/monitoring_ml_models_with_fastapi_and_evidently_ai/)
 - [Libraries](https://www.reddit.com/r/Python/comments/xgj9d1/libraries/)
-- [Made an NLP model that predicts subreddit based on the title of a post](https://www.reddit.com/r/Python/comments/xgiozr/made_an_nlp_model_that_predicts_subreddit_based/)
 <!-- BLOG-POST-LIST:END -->
