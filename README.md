@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Career change from Finance to ? with Python](https://www.reddit.com/r/Python/comments/xgq872/career_change_from_finance_to_with_python/)
 - [Time series feature extraction using Pandas](https://www.reddit.com/r/Python/comments/xgo4qt/time_series_feature_extraction_using_pandas/)
 - [ML for string matching when there&#39;s no any semantic relationship?](https://www.reddit.com/r/Python/comments/xgnczt/ml_for_string_matching_when_theres_no_any/)
 - [Python overloading just like C++ stuff](https://www.reddit.com/r/Python/comments/xgmb0l/python_overloading_just_like_c_stuff/)
 - [A Bunch of Python Deep-dives](https://www.reddit.com/r/Python/comments/xgl190/a_bunch_of_python_deepdives/)
-- [Monitoring ML models with FastAPI and Evidently AI](https://www.reddit.com/r/Python/comments/xgk3mk/monitoring_ml_models_with_fastapi_and_evidently_ai/)
 <!-- BLOG-POST-LIST:END -->
