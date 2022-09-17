@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I watched every YouTube video with Python](https://www.reddit.com/r/Python/comments/xgz66b/how_i_watched_every_youtube_video_with_python/)
+- [Number Guessing Game Tutorial in Python](https://www.reddit.com/r/Python/comments/xgz4sf/number_guessing_game_tutorial_in_python/)
+- [Python turtle project](https://www.reddit.com/r/Python/comments/xgyqof/python_turtle_project/)
+- [Made my first program using Tkinter, Selenium, and cefpython3. A web scraper for the SLOWLY app.](https://www.reddit.com/r/Python/comments/xgy72n/made_my_first_program_using_tkinter_selenium_and/)
 - [OO and Pydantic](https://www.reddit.com/r/Python/comments/xgxenq/oo_and_pydantic/)
-- [I manage to plot 2 bar without using a subplot in matplotlib](https://www.reddit.com/r/Python/comments/xgwgda/i_manage_to_plot_2_bar_without_using_a_subplot_in/)
-- [help regarding dictonary and creating function](https://www.reddit.com/r/Python/comments/xgwbkp/help_regarding_dictonary_and_creating_function/)
-- [Make the most from your IPv6 subnet in Python](https://www.reddit.com/r/Python/comments/xgv671/make_the_most_from_your_ipv6_subnet_in_python/)
-- [What&#39;s a good interview question to ask a data scientist/data analyst candidate?](https://www.reddit.com/r/Python/comments/xguie3/whats_a_good_interview_question_to_ask_a_data/)
 <!-- BLOG-POST-LIST:END -->
