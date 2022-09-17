@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I don&#39;t know what&#39;s next after python](https://www.reddit.com/r/Python/comments/xgby49/i_dont_know_whats_next_after_python/)
-- [Analyze left and right channels independently with pyaudio?](https://www.reddit.com/r/Python/comments/xg8bg0/analyze_left_and_right_channels_independently/)
+- [Using Python in Databricks?](https://www.reddit.com/r/Python/comments/xgem9e/using_python_in_databricks/)
+- [Writing REST with Django and Ninja [Webinar]](https://www.reddit.com/r/Python/comments/xgem21/writing_rest_with_django_and_ninja_webinar/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/xg72un/saturday_daily_thread_resource_request_and/)
 - [Prefix and Postfix ++ -- Operators for Python](https://www.reddit.com/r/Python/comments/xg56eq/prefix_and_postfix_operators_for_python/)
 - [AutomaticDemuxer package for video/audio media](https://www.reddit.com/r/Python/comments/xg34y5/automaticdemuxer_package_for_videoaudio_media/)
