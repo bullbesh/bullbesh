@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What makes a python developer stand out?](https://www.reddit.com/r/Python/comments/xhhm7v/what_makes_a_python_developer_stand_out/)
 - [Is this a Glitch or did I make a fluke???](https://www.reddit.com/r/Python/comments/xhfz32/is_this_a_glitch_or_did_i_make_a_fluke/)
 - [HTTPX: modern Python module for doing HTTP&lpar;S&rpar; requests](https://www.reddit.com/r/Python/comments/xhbzbm/httpx_modern_python_module_for_doing_https/)
 - [Venv or anaconda?](https://www.reddit.com/r/Python/comments/xhbhbh/venv_or_anaconda/)
 - [trying to debug this code getting these trace back errors](https://www.reddit.com/r/Python/comments/xh9ieh/trying_to_debug_this_code_getting_these_trace/)
-- [Spinning Cube in 45 lines, 45 Chars Each](https://www.reddit.com/r/Python/comments/xh7ny4/spinning_cube_in_45_lines_45_chars_each/)
 <!-- BLOG-POST-LIST:END -->
