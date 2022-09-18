@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reading Group: Financial Data Science](https://www.reddit.com/r/Python/comments/xh1slz/reading_group_financial_data_science/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/xh1lwk/sunday_daily_thread_whats_everyone_working_on/)
 - [How I watched every YouTube video with Python](https://www.reddit.com/r/Python/comments/xgz66b/how_i_watched_every_youtube_video_with_python/)
 - [Number Guessing Game Tutorial in Python](https://www.reddit.com/r/Python/comments/xgz4sf/number_guessing_game_tutorial_in_python/)
-- [Python turtle project](https://www.reddit.com/r/Python/comments/xgyqof/python_turtle_project/)
 - [Made my first program using Tkinter, Selenium, and cefpython3. A web scraper for the SLOWLY app.](https://www.reddit.com/r/Python/comments/xgy72n/made_my_first_program_using_tkinter_selenium_and/)
-- [OO and Pydantic](https://www.reddit.com/r/Python/comments/xgxenq/oo_and_pydantic/)
 <!-- BLOG-POST-LIST:END -->
