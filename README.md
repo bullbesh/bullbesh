@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Website uploaded file to converter function with Flask](https://www.reddit.com/r/Python/comments/xhl18z/website_uploaded_file_to_converter_function_with/)
+- [A tried to create a simple Python🐍 script that makes your Wallpaper smart [Windows 10/11]](https://www.reddit.com/r/Python/comments/xhkjkb/a_tried_to_create_a_simple_python_script_that/)
 - [What makes a python developer stand out?](https://www.reddit.com/r/Python/comments/xhhm7v/what_makes_a_python_developer_stand_out/)
 - [Is this a Glitch or did I make a fluke???](https://www.reddit.com/r/Python/comments/xhfz32/is_this_a_glitch_or_did_i_make_a_fluke/)
 - [HTTPX: modern Python module for doing HTTP&lpar;S&rpar; requests](https://www.reddit.com/r/Python/comments/xhbzbm/httpx_modern_python_module_for_doing_https/)
-- [Venv or anaconda?](https://www.reddit.com/r/Python/comments/xhbhbh/venv_or_anaconda/)
-- [trying to debug this code getting these trace back errors](https://www.reddit.com/r/Python/comments/xh9ieh/trying_to_debug_this_code_getting_these_trace/)
 <!-- BLOG-POST-LIST:END -->
