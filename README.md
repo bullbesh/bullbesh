@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTPX: modern Python module for doing HTTP&lpar;S&rpar; requests](https://www.reddit.com/r/Python/comments/xhbzbm/httpx_modern_python_module_for_doing_https/)
+- [Venv or anaconda?](https://www.reddit.com/r/Python/comments/xhbhbh/venv_or_anaconda/)
 - [trying to debug this code getting these trace back errors](https://www.reddit.com/r/Python/comments/xh9ieh/trying_to_debug_this_code_getting_these_trace/)
 - [Spinning Cube in 45 lines, 45 Chars Each](https://www.reddit.com/r/Python/comments/xh7ny4/spinning_cube_in_45_lines_45_chars_each/)
 - [Gevent disables float subnormals leading to slow numpy performance](https://www.reddit.com/r/Python/comments/xh7ejf/gevent_disables_float_subnormals_leading_to_slow/)
-- [Reminder that pip will run arbitrary code](https://www.reddit.com/r/Python/comments/xh6ehc/reminder_that_pip_will_run_arbitrary_code/)
-- [Reading Group: Financial Data Science](https://www.reddit.com/r/Python/comments/xh1slz/reading_group_financial_data_science/)
 <!-- BLOG-POST-LIST:END -->
