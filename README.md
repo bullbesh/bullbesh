@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for opinions on a design issue of a CLI I am currently developing](https://www.reddit.com/r/Python/comments/xi5pl1/looking_for_opinions_on_a_design_issue_of_a_cli_i/)
+- [Switching career to Python developper](https://www.reddit.com/r/Python/comments/xi5ml0/switching_career_to_python_developper/)
+- [Automatic Differentiation in 26 lines of Python](https://www.reddit.com/r/Python/comments/xi5i6h/automatic_differentiation_in_26_lines_of_python/)
 - [adding a supression file in python to overcome guardian secrets error.](https://www.reddit.com/r/Python/comments/xi4tu3/adding_a_supression_file_in_python_to_overcome/)
 - [A cool Python tool to download Research papers in bulk from any conference](https://www.reddit.com/r/Python/comments/xi4mpa/a_cool_python_tool_to_download_research_papers_in/)
-- [Question regarding regex output](https://www.reddit.com/r/Python/comments/xi3osw/question_regarding_regex_output/)
-- [Is there a more secured way to save your password and be accessed with Python than environment variable?](https://www.reddit.com/r/Python/comments/xi2omw/is_there_a_more_secured_way_to_save_your_password/)
-- [Pytest, but Pumpkin Spiced](https://www.reddit.com/r/Python/comments/xhzout/pytest_but_pumpkin_spiced/)
 <!-- BLOG-POST-LIST:END -->
