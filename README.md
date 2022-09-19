@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Website to learn](https://www.reddit.com/r/Python/comments/xiic9o/website_to_learn/)
+- [maildiscover: a simple python library for email connection parameters discovery](https://www.reddit.com/r/Python/comments/xii9kf/maildiscover_a_simple_python_library_for_email/)
 - [Movie Ticketing System application made using Python and CSV.](https://www.reddit.com/r/Python/comments/xigd7d/movie_ticketing_system_application_made_using/)
-- [test to finde some thing](https://www.reddit.com/r/Python/comments/xig0pe/test_to_finde_some_thing/)
 - [Visualizing Bar Charts in Seaborn](https://www.reddit.com/r/Python/comments/xieje0/visualizing_bar_charts_in_seaborn/)
 - [[ZnInit] dataclass like package but using descriptors.](https://www.reddit.com/r/Python/comments/xiedw6/zninit_dataclass_like_package_but_using/)
-- [Visualizing Bar Charts](https://www.reddit.com/r/Python/comments/xiec2r/visualizing_bar_charts/)
 <!-- BLOG-POST-LIST:END -->
