@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a text based game, then a GUI](https://www.reddit.com/r/Python/comments/xidbi2/i_built_a_text_based_game_then_a_gui/)
 - [Top 10 Python Security Best Practices](https://www.reddit.com/r/Python/comments/xicp3h/top_10_python_security_best_practices/)
 - [The free weekly electronic Python on Microcontrollers Newsletter is out tomorrow - please subscribe now](https://www.reddit.com/r/Python/comments/xic9qd/the_free_weekly_electronic_python_on/)
 - [python 3.8 download](https://www.reddit.com/r/Python/comments/xibzs4/python_38_download/)
 - [Large pyproject.toml or many config files?](https://www.reddit.com/r/Python/comments/xibync/large_pyprojecttoml_or_many_config_files/)
-- [Optimistic offline lock pattern explained with Python examples](https://www.reddit.com/r/Python/comments/xibrs6/optimistic_offline_lock_pattern_explained_with/)
 <!-- BLOG-POST-LIST:END -->
