@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tell me the python skills that I need to know to land a job at google](https://www.reddit.com/r/Python/comments/xio4ui/tell_me_the_python_skills_that_i_need_to_know_to/)
+- [Communicating with a MQTT broker using Python](https://www.reddit.com/r/Python/comments/xio4hk/communicating_with_a_mqtt_broker_using_python/)
+- [What Is Python’s &quot;self&quot; Argument, Anyway?](https://www.reddit.com/r/Python/comments/xio3k2/what_is_pythons_self_argument_anyway/)
 - [Website created to host, share, run and display GLSL shader code - shadergrounds.com](https://www.reddit.com/r/Python/comments/xim92d/website_created_to_host_share_run_and_display/)
 - [redframes, a new data manipulation library for ML and visualization](https://www.reddit.com/r/Python/comments/xilyus/redframes_a_new_data_manipulation_library_for_ml/)
-- [Weekend project - Python Word Cloud for an entire YouTube Channel’s transcripts](https://www.reddit.com/r/Python/comments/xikset/weekend_project_python_word_cloud_for_an_entire/)
-- [maildiscover: a simple python library for email connection parameters discovery](https://www.reddit.com/r/Python/comments/xii9kf/maildiscover_a_simple_python_library_for_email/)
-- [Movie Ticketing System application made using Python and CSV.](https://www.reddit.com/r/Python/comments/xigd7d/movie_ticketing_system_application_made_using/)
 <!-- BLOG-POST-LIST:END -->
