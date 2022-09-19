@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Website created to host, share, run and display GLSL shader code - shadergrounds.com](https://www.reddit.com/r/Python/comments/xim92d/website_created_to_host_share_run_and_display/)
+- [redframes, a new data manipulation library for ML and visualization](https://www.reddit.com/r/Python/comments/xilyus/redframes_a_new_data_manipulation_library_for_ml/)
 - [Weekend project - Python Word Cloud for an entire YouTube Channel’s transcripts](https://www.reddit.com/r/Python/comments/xikset/weekend_project_python_word_cloud_for_an_entire/)
 - [maildiscover: a simple python library for email connection parameters discovery](https://www.reddit.com/r/Python/comments/xii9kf/maildiscover_a_simple_python_library_for_email/)
 - [Movie Ticketing System application made using Python and CSV.](https://www.reddit.com/r/Python/comments/xigd7d/movie_ticketing_system_application_made_using/)
-- [Visualizing Bar Charts in Seaborn](https://www.reddit.com/r/Python/comments/xieje0/visualizing_bar_charts_in_seaborn/)
-- [[ZnInit] dataclass like package but using descriptors.](https://www.reddit.com/r/Python/comments/xiedw6/zninit_dataclass_like_package_but_using/)
 <!-- BLOG-POST-LIST:END -->
