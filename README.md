@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Calling Convention for Class Constants](https://www.reddit.com/r/Python/comments/xiaphd/calling_convention_for_class_constants/)
-- [New Python Online Coding Platform](https://www.reddit.com/r/Python/comments/xi9xwu/new_python_online_coding_platform/)
-- [Starlite Updates](https://www.reddit.com/r/Python/comments/xi9qzl/starlite_updates/)
-- [Best Python Interview Questions And Answers](https://www.reddit.com/r/Python/comments/xi9lac/best_python_interview_questions_and_answers/)
-- [Python Hackerrank Day 2 of Code | Operators](https://www.reddit.com/r/Python/comments/xi95z7/python_hackerrank_day_2_of_code_operators/)
+- [Top 10 Python Security Best Practices](https://www.reddit.com/r/Python/comments/xicp3h/top_10_python_security_best_practices/)
+- [The free weekly electronic Python on Microcontrollers Newsletter is out tomorrow - please subscribe now](https://www.reddit.com/r/Python/comments/xic9qd/the_free_weekly_electronic_python_on/)
+- [python 3.8 download](https://www.reddit.com/r/Python/comments/xibzs4/python_38_download/)
+- [Large pyproject.toml or many config files?](https://www.reddit.com/r/Python/comments/xibync/large_pyprojecttoml_or_many_config_files/)
+- [Optimistic offline lock pattern explained with Python examples](https://www.reddit.com/r/Python/comments/xibrs6/optimistic_offline_lock_pattern_explained_with/)
 <!-- BLOG-POST-LIST:END -->
