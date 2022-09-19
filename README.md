@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [CyRK – An Open-Source, Cython and Numba Based Runge-Kutta Integrator That Works With Python Functions](https://www.reddit.com/r/Python/comments/xhufth/cyrk_an_opensource_cython_and_numba_based/)
-- [What is the fastest way to make a cross-platform executable program using python?](https://www.reddit.com/r/Python/comments/xhrcnm/what_is_the_fastest_way_to_make_a_crossplatform/)
-- [Alphaton - A very simple programing language made in Python](https://www.reddit.com/r/Python/comments/xhpcp6/alphaton_a_very_simple_programing_language_made/)
-- [Part Material Crafting Calculator &lpar;For Scrap Mechanic&rpar;](https://www.reddit.com/r/Python/comments/xhp9xs/part_material_crafting_calculator_for_scrap/)
-- [Program to download one piece chapters and add them to pdf with bookmarks for easier navigation](https://www.reddit.com/r/Python/comments/xhng7s/program_to_download_one_piece_chapters_and_add/)
+- [Worth it to learn about Google Sheets API or just use ezsheets?](https://www.reddit.com/r/Python/comments/xhyq0a/worth_it_to_learn_about_google_sheets_api_or_just/)
+- [I made a Lamp a coinflip. I coined the name &quot;Lightflip&quot; and made a discord bot to use it](https://www.reddit.com/r/Python/comments/xhyjh2/i_made_a_lamp_a_coinflip_i_coined_the_name/)
+- [I made an AI powered Twitter bot that tweets everything from mom jokes to the most biased Samsung vs Apple comparisons](https://www.reddit.com/r/Python/comments/xhxsri/i_made_an_ai_powered_twitter_bot_that_tweets/)
+- [A simple tool to check the rarity of words or extract rare words from a text](https://www.reddit.com/r/Python/comments/xhw93f/a_simple_tool_to_check_the_rarity_of_words_or/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/xhw62a/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
