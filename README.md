@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fundamental Cryptography in Theory and Python](https://www.reddit.com/r/Python/comments/xjdbgd/fundamental_cryptography_in_theory_and_python/)
+- [Pandas DataFrame Indexing Explained: from .loc to .iloc and beyond](https://www.reddit.com/r/Python/comments/xjbwj7/pandas_dataframe_indexing_explained_from_loc_to/)
 - [looking for community of Pythonista that specialize in automating apps , games with pyautogui ,opencv2 etc ...](https://www.reddit.com/r/Python/comments/xjbgs2/looking_for_community_of_pythonista_that/)
 - [What&#39;s the trickiest about coding an app in python?](https://www.reddit.com/r/Python/comments/xjbank/whats_the_trickiest_about_coding_an_app_in_python/)
 - [I made a CPU Emulator in Python&lpar;Not Really it&#39;s Just Another Programing Language&rpar;](https://www.reddit.com/r/Python/comments/xjas97/i_made_a_cpu_emulator_in_pythonnot_really_its/)
-- [Python Stock Exchange Engine](https://www.reddit.com/r/Python/comments/xja6ui/python_stock_exchange_engine/)
-- [When Do You Use an Ellipsis in Python? – Real Python](https://www.reddit.com/r/Python/comments/xja07d/when_do_you_use_an_ellipsis_in_python_real_python/)
 <!-- BLOG-POST-LIST:END -->
