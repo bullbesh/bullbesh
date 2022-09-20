@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [looking for community of Pythonista that specialize in automating apps , games with pyautogui ,opencv2 etc ...](https://www.reddit.com/r/Python/comments/xjbgs2/looking_for_community_of_pythonista_that/)
+- [What&#39;s the trickiest about coding an app in python?](https://www.reddit.com/r/Python/comments/xjbank/whats_the_trickiest_about_coding_an_app_in_python/)
+- [I made a CPU Emulator in Python&lpar;Not Really it&#39;s Just Another Programing Language&rpar;](https://www.reddit.com/r/Python/comments/xjas97/i_made_a_cpu_emulator_in_pythonnot_really_its/)
 - [Python Stock Exchange Engine](https://www.reddit.com/r/Python/comments/xja6ui/python_stock_exchange_engine/)
 - [When Do You Use an Ellipsis in Python? – Real Python](https://www.reddit.com/r/Python/comments/xja07d/when_do_you_use_an_ellipsis_in_python_real_python/)
-- [Gri Portal - All your e-Archive Invoices on This Platform!](https://www.reddit.com/r/Python/comments/xj7lre/gri_portal_all_your_earchive_invoices_on_this/)
-- [GitHub - quintoandar/python-chain: An easy to use function chaining pattern on Python.](https://www.reddit.com/r/Python/comments/xj74wr/github_quintoandarpythonchain_an_easy_to_use/)
-- [Create simple tools with web UI using Python Eel &lpar;Gevent and websockets&rpar; - Docker logs example](https://www.reddit.com/r/Python/comments/xj6tl6/create_simple_tools_with_web_ui_using_python_eel/)
 <!-- BLOG-POST-LIST:END -->
