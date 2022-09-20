@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hey, I made a Spotify Account Generator in python](https://www.reddit.com/r/Python/comments/xiz5vv/hey_i_made_a_spotify_account_generator_in_python/)
+- [I Made A Cool GUI Using PyQt5 For My Wuddz-Search Repository](https://www.reddit.com/r/Python/comments/xix3r5/i_made_a_cool_gui_using_pyqt5_for_my_wuddzsearch/)
 - [Teaching Lists in Python](https://www.reddit.com/r/Python/comments/xiuc4i/teaching_lists_in_python/)
-- [Old version vs Python 3.10](https://www.reddit.com/r/Python/comments/xit3c3/old_version_vs_python_310/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/xit1rr/tuesday_daily_thread_advanced_questions/)
 - [K-Means Clustering for Magic: the Gathering Decks - Card Recommendation](https://www.reddit.com/r/Python/comments/xip73l/kmeans_clustering_for_magic_the_gathering_decks/)
-- [Tell me the python skills that I need to know to land a job at google](https://www.reddit.com/r/Python/comments/xio4ui/tell_me_the_python_skills_that_i_need_to_know_to/)
 <!-- BLOG-POST-LIST:END -->
