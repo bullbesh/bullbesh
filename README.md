@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gri Portal - All your e-Archive Invoices on This Platform!](https://www.reddit.com/r/Python/comments/xj7lre/gri_portal_all_your_earchive_invoices_on_this/)
+- [GitHub - quintoandar/python-chain: An easy to use function chaining pattern on Python.](https://www.reddit.com/r/Python/comments/xj74wr/github_quintoandarpythonchain_an_easy_to_use/)
+- [Create simple tools with web UI using Python Eel &lpar;Gevent and websockets&rpar; - Docker logs example](https://www.reddit.com/r/Python/comments/xj6tl6/create_simple_tools_with_web_ui_using_python_eel/)
 - [Best approach to read CSV File](https://www.reddit.com/r/Python/comments/xj5jct/best_approach_to_read_csv_file/)
 - [Pytris a Tetris Clone in Python Pygame](https://www.reddit.com/r/Python/comments/xj4myo/pytris_a_tetris_clone_in_python_pygame/)
-- [Follow these rules to write PYTHON variables names like a PRO.](https://www.reddit.com/r/Python/comments/xj35at/follow_these_rules_to_write_python_variables/)
-- [Hey, What should i learn next](https://www.reddit.com/r/Python/comments/xj2to9/hey_what_should_i_learn_next/)
-- [Which of these &#39;looks&#39; better?](https://www.reddit.com/r/Python/comments/xj1hlx/which_of_these_looks_better/)
 <!-- BLOG-POST-LIST:END -->
