@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Teaching Lists in Python](https://www.reddit.com/r/Python/comments/xiuc4i/teaching_lists_in_python/)
+- [Old version vs Python 3.10](https://www.reddit.com/r/Python/comments/xit3c3/old_version_vs_python_310/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/xit1rr/tuesday_daily_thread_advanced_questions/)
 - [K-Means Clustering for Magic: the Gathering Decks - Card Recommendation](https://www.reddit.com/r/Python/comments/xip73l/kmeans_clustering_for_magic_the_gathering_decks/)
 - [Tell me the python skills that I need to know to land a job at google](https://www.reddit.com/r/Python/comments/xio4ui/tell_me_the_python_skills_that_i_need_to_know_to/)
-- [Communicating with a MQTT broker using Python](https://www.reddit.com/r/Python/comments/xio4hk/communicating_with_a_mqtt_broker_using_python/)
-- [What Is Python’s &quot;self&quot; Argument, Anyway?](https://www.reddit.com/r/Python/comments/xio3k2/what_is_pythons_self_argument_anyway/)
-- [Website created to host, share, run and display GLSL shader code - shadergrounds.com](https://www.reddit.com/r/Python/comments/xim92d/website_created_to_host_share_run_and_display/)
 <!-- BLOG-POST-LIST:END -->
