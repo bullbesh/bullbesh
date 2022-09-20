@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Arguing, An easy and lightweight argument library](https://www.reddit.com/r/Python/comments/xjkozj/arguing_an_easy_and_lightweight_argument_library/)
+- [Verifying webhook origin via payload hash signing](https://www.reddit.com/r/Python/comments/xjkasx/verifying_webhook_origin_via_payload_hash_signing/)
 - [Base-2048 encoder, feat. Rust and PyO3](https://www.reddit.com/r/Python/comments/xjj3qv/base2048_encoder_feat_rust_and_pyo3/)
-- [Problem-solving technique with algorithms](https://www.reddit.com/r/Python/comments/xjilof/problemsolving_technique_with_algorithms/)
 - [Stock Predictions and Self Modifying Recurrent Neural Networks](https://www.reddit.com/r/Python/comments/xjid2w/stock_predictions_and_self_modifying_recurrent/)
 - [A simple, production-ready FastAPI template](https://www.reddit.com/r/Python/comments/xjh9cg/a_simple_productionready_fastapi_template/)
-- [Using Conda? You might not need Docker](https://www.reddit.com/r/Python/comments/xjfc6o/using_conda_you_might_not_need_docker/)
 <!-- BLOG-POST-LIST:END -->
