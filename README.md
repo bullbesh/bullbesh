@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Stock Exchange Engine](https://www.reddit.com/r/Python/comments/xja6ui/python_stock_exchange_engine/)
+- [When Do You Use an Ellipsis in Python? – Real Python](https://www.reddit.com/r/Python/comments/xja07d/when_do_you_use_an_ellipsis_in_python_real_python/)
 - [Gri Portal - All your e-Archive Invoices on This Platform!](https://www.reddit.com/r/Python/comments/xj7lre/gri_portal_all_your_earchive_invoices_on_this/)
 - [GitHub - quintoandar/python-chain: An easy to use function chaining pattern on Python.](https://www.reddit.com/r/Python/comments/xj74wr/github_quintoandarpythonchain_an_easy_to_use/)
 - [Create simple tools with web UI using Python Eel &lpar;Gevent and websockets&rpar; - Docker logs example](https://www.reddit.com/r/Python/comments/xj6tl6/create_simple_tools_with_web_ui_using_python_eel/)
-- [Best approach to read CSV File](https://www.reddit.com/r/Python/comments/xj5jct/best_approach_to_read_csv_file/)
-- [Pytris a Tetris Clone in Python Pygame](https://www.reddit.com/r/Python/comments/xj4myo/pytris_a_tetris_clone_in_python_pygame/)
 <!-- BLOG-POST-LIST:END -->
