@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ FastGen, Start FastAPI Projects In Lightning Speed!](https://www.reddit.com/r/Python/comments/xjes27/fastgen_start_fastapi_projects_in_lightning_speed/)
+- [Commandline-config: A library for users to write &lpar;experiment in research&rpar; configurations in Python Dict format, while can read parameters from the command line. 一个供用户以Python Dict或JSON格式编写（科研中实验）配置的库，同时可以从命令行中读取参数。](https://www.reddit.com/r/Python/comments/xjebx2/commandlineconfig_a_library_for_users_to_write/)
+- [maige: A pure python package to create your own generative art!](https://www.reddit.com/r/Python/comments/xje2qf/maige_a_pure_python_package_to_create_your_own/)
 - [Fundamental Cryptography in Theory and Python](https://www.reddit.com/r/Python/comments/xjdbgd/fundamental_cryptography_in_theory_and_python/)
 - [Pandas DataFrame Indexing Explained: from .loc to .iloc and beyond](https://www.reddit.com/r/Python/comments/xjbwj7/pandas_dataframe_indexing_explained_from_loc_to/)
-- [looking for community of Pythonista that specialize in automating apps , games with pyautogui ,opencv2 etc ...](https://www.reddit.com/r/Python/comments/xjbgs2/looking_for_community_of_pythonista_that/)
-- [What&#39;s the trickiest about coding an app in python?](https://www.reddit.com/r/Python/comments/xjbank/whats_the_trickiest_about_coding_an_app_in_python/)
-- [I made a CPU Emulator in Python&lpar;Not Really it&#39;s Just Another Programing Language&rpar;](https://www.reddit.com/r/Python/comments/xjas97/i_made_a_cpu_emulator_in_pythonnot_really_its/)
 <!-- BLOG-POST-LIST:END -->
