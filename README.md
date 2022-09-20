@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which of these &#39;looks&#39; better?](https://www.reddit.com/r/Python/comments/xj1hlx/which_of_these_looks_better/)
+- [Python 3.12 speedup plan! Includes less RC overhead, compact objects, trace optimized interpreter and more!](https://www.reddit.com/r/Python/comments/xj19hn/python_312_speedup_plan_includes_less_rc_overhead/)
+- [Why Should You Choose Python for Web Development?](https://www.reddit.com/r/Python/comments/xj10j2/why_should_you_choose_python_for_web_development/)
 - [Hey, I made a Spotify Account Generator in python](https://www.reddit.com/r/Python/comments/xiz5vv/hey_i_made_a_spotify_account_generator_in_python/)
 - [I Made A Cool GUI Using PyQt5 For My Wuddz-Search Repository](https://www.reddit.com/r/Python/comments/xix3r5/i_made_a_cool_gui_using_pyqt5_for_my_wuddzsearch/)
-- [Teaching Lists in Python](https://www.reddit.com/r/Python/comments/xiuc4i/teaching_lists_in_python/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/xit1rr/tuesday_daily_thread_advanced_questions/)
-- [K-Means Clustering for Magic: the Gathering Decks - Card Recommendation](https://www.reddit.com/r/Python/comments/xip73l/kmeans_clustering_for_magic_the_gathering_decks/)
 <!-- BLOG-POST-LIST:END -->
