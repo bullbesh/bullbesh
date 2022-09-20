@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Backend developer that can help me out.](https://www.reddit.com/r/Python/comments/xjmgn2/backend_developer_that_can_help_me_out/)
 - [Why is MySQL Python Connector not &quot;pythonized&quot;?](https://www.reddit.com/r/Python/comments/xjlp1j/why_is_mysql_python_connector_not_pythonized/)
-- [I fixed typos on Github to get open-source contributions and it worked! all the code was in python ❤️](https://www.reddit.com/r/Python/comments/xjl0xt/i_fixed_typos_on_github_to_get_opensource/)
 - [Arguing, An easy and lightweight argument library](https://www.reddit.com/r/Python/comments/xjkozj/arguing_an_easy_and_lightweight_argument_library/)
 - [Verifying webhook origin via payload hash signing](https://www.reddit.com/r/Python/comments/xjkasx/verifying_webhook_origin_via_payload_hash_signing/)
+- [Base-2048 encoder, feat. Rust and PyO3](https://www.reddit.com/r/Python/comments/xjj3qv/base2048_encoder_feat_rust_and_pyo3/)
 <!-- BLOG-POST-LIST:END -->
