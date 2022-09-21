@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [HELP ME](https://www.reddit.com/r/Python/comments/xk3yus/help_me/)
-- [Some direction please?](https://www.reddit.com/r/Python/comments/xk3vn5/some_direction_please/)
-- [Add custom entries to the JupyterLab launcher with jupyter_app_launcher](https://www.reddit.com/r/Python/comments/xk3rf5/add_custom_entries_to_the_jupyterlab_launcher/)
-- [OpenZiti SDK: make your app secure with embedded zero trust networking](https://www.reddit.com/r/Python/comments/xk3b58/openziti_sdk_make_your_app_secure_with_embedded/)
-- [What is Python&#39;s &quot;self&quot; Argument, Anyway?](https://www.reddit.com/r/Python/comments/xk2jw4/what_is_pythons_self_argument_anyway/)
+- [Python program that allows you to connect to PLCs in one click!](https://www.reddit.com/r/Python/comments/xk5e4z/python_program_that_allows_you_to_connect_to_plcs/)
+- [Introduction to microservices architecture](https://www.reddit.com/r/Python/comments/xk56yd/introduction_to_microservices_architecture/)
+- [str/int: Controversial breaking change added to Python](https://www.reddit.com/r/Python/comments/xk51cw/strint_controversial_breaking_change_added_to/)
+- [Dead Simple Intro to Match Statements](https://www.reddit.com/r/Python/comments/xk4e83/dead_simple_intro_to_match_statements/)
+- [How to upload multiple file under same CID with python](https://www.reddit.com/r/Python/comments/xk45xh/how_to_upload_multiple_file_under_same_cid_with/)
 <!-- BLOG-POST-LIST:END -->
