@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Backend developer that can help me out.](https://www.reddit.com/r/Python/comments/xjmgn2/backend_developer_that_can_help_me_out/)
-- [Why is MySQL Python Connector not &quot;pythonized&quot;?](https://www.reddit.com/r/Python/comments/xjlp1j/why_is_mysql_python_connector_not_pythonized/)
-- [Arguing, An easy and lightweight argument library](https://www.reddit.com/r/Python/comments/xjkozj/arguing_an_easy_and_lightweight_argument_library/)
-- [Verifying webhook origin via payload hash signing](https://www.reddit.com/r/Python/comments/xjkasx/verifying_webhook_origin_via_payload_hash_signing/)
-- [Base-2048 encoder, feat. Rust and PyO3](https://www.reddit.com/r/Python/comments/xjj3qv/base2048_encoder_feat_rust_and_pyo3/)
+- [Anyone can explain the syntax error for main&lpar;&rpar;](https://www.reddit.com/r/Python/comments/xjq73l/anyone_can_explain_the_syntax_error_for_main/)
+- [Add information to assign to a json file dynamically during the cicd to be published to control-m](https://www.reddit.com/r/Python/comments/xjpzbx/add_information_to_assign_to_a_json_file/)
+- [A hand-tracking mouse inspired stylistically by Iron Man. I&#39;m a new programmer but I&#39;m obsessed and can&#39;t stop working on this thing, if there&#39;s a Pythonista out there that thinks this is cool and worth developing, let&#39;s collaborate and make something better than what exists out there!](https://www.reddit.com/r/Python/comments/xjpy5s/a_handtracking_mouse_inspired_stylistically_by/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/xjov3k/wednesday_daily_thread_beginner_questions/)
+- [AudioVisualizer with Code | 1](https://www.reddit.com/r/Python/comments/xjo6j2/audiovisualizer_with_code_1/)
 <!-- BLOG-POST-LIST:END -->
