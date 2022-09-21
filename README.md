@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python interpreters to try in 2022](https://www.reddit.com/r/Python/comments/xjxylz/python_interpreters_to_try_in_2022/)
+- [Benchmarking Pandas, CuDF, Modin, Apache Arrow and Spark on a Billion Taxi Rides dataset](https://www.reddit.com/r/Python/comments/xjx4uo/benchmarking_pandas_cudf_modin_apache_arrow_and/)
 - [library methods](https://www.reddit.com/r/Python/comments/xjvvnw/library_methods/)
 - [What is the best course for learning pandas for data analysis?](https://www.reddit.com/r/Python/comments/xjvmvi/what_is_the_best_course_for_learning_pandas_for/)
 - [Anyone can explain the syntax error for main&lpar;&rpar;](https://www.reddit.com/r/Python/comments/xjq73l/anyone_can_explain_the_syntax_error_for_main/)
-- [Add information to assign to a json file dynamically during the cicd to be published to control-m](https://www.reddit.com/r/Python/comments/xjpzbx/add_information_to_assign_to_a_json_file/)
-- [A hand-tracking mouse inspired stylistically by Iron Man. I&#39;m a new programmer but I&#39;m obsessed and can&#39;t stop working on this thing, if there&#39;s a Pythonista out there that thinks this is cool and worth developing, let&#39;s collaborate and make something better than what exists out there!](https://www.reddit.com/r/Python/comments/xjpy5s/a_handtracking_mouse_inspired_stylistically_by/)
 <!-- BLOG-POST-LIST:END -->
