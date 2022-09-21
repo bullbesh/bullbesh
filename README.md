@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Storing Pandas data frames efficiently in Python](https://www.reddit.com/r/Python/comments/xkjs92/storing_pandas_data_frames_efficiently_in_python/)
+- [Design choice for string.join&lpar;array&rpar;, instead of array.join&lpar;string&rpar;](https://www.reddit.com/r/Python/comments/xkjirq/design_choice_for_stringjoinarray_instead_of/)
+- [Using Final with dataclass](https://www.reddit.com/r/Python/comments/xkjihn/using_final_with_dataclass/)
 - [Can MS Access be used with Python?](https://www.reddit.com/r/Python/comments/xkfwwp/can_ms_access_be_used_with_python/)
 - [Visualizing Box plots in Seaborn](https://www.reddit.com/r/Python/comments/xkcjve/visualizing_box_plots_in_seaborn/)
-- [Yark: Python-based archiver and viewer for YouTube](https://www.reddit.com/r/Python/comments/xkbpto/yark_pythonbased_archiver_and_viewer_for_youtube/)
-- [Python Career Guide](https://www.reddit.com/r/Python/comments/xkbcl6/python_career_guide/)
-- [A Life Simulator game inspired by BitLife](https://www.reddit.com/r/Python/comments/xkbbd0/a_life_simulator_game_inspired_by_bitlife/)
 <!-- BLOG-POST-LIST:END -->
