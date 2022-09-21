@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m trying to make a website that will allow the client to add blogs. I’m thinking of using the Django admin to allow her to do this without needing devs. The site would have a react front end and Django backend. Is there a better way to go about this?](https://www.reddit.com/r/Python/comments/xk0kaw/im_trying_to_make_a_website_that_will_allow_the/)
 - [Python interpreters to try in 2022](https://www.reddit.com/r/Python/comments/xjxylz/python_interpreters_to_try_in_2022/)
 - [Benchmarking Pandas, CuDF, Modin, Apache Arrow and Spark on a Billion Taxi Rides dataset](https://www.reddit.com/r/Python/comments/xjx4uo/benchmarking_pandas_cudf_modin_apache_arrow_and/)
 - [library methods](https://www.reddit.com/r/Python/comments/xjvvnw/library_methods/)
 - [What is the best course for learning pandas for data analysis?](https://www.reddit.com/r/Python/comments/xjvmvi/what_is_the_best_course_for_learning_pandas_for/)
-- [Anyone can explain the syntax error for main&lpar;&rpar;](https://www.reddit.com/r/Python/comments/xjq73l/anyone_can_explain_the_syntax_error_for_main/)
 <!-- BLOG-POST-LIST:END -->
