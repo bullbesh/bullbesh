@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for Complete Beginners Part 3](https://www.reddit.com/r/Python/comments/xk60io/python_for_complete_beginners_part_3/)
 - [Python program that allows you to connect to PLCs in one click!](https://www.reddit.com/r/Python/comments/xk5e4z/python_program_that_allows_you_to_connect_to_plcs/)
 - [Introduction to microservices architecture](https://www.reddit.com/r/Python/comments/xk56yd/introduction_to_microservices_architecture/)
 - [str/int: Controversial breaking change added to Python](https://www.reddit.com/r/Python/comments/xk51cw/strint_controversial_breaking_change_added_to/)
 - [Dead Simple Intro to Match Statements](https://www.reddit.com/r/Python/comments/xk4e83/dead_simple_intro_to_match_statements/)
-- [How to upload multiple file under same CID with python](https://www.reddit.com/r/Python/comments/xk45xh/how_to_upload_multiple_file_under_same_cid_with/)
 <!-- BLOG-POST-LIST:END -->
