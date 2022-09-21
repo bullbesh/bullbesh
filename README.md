@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Visualizing Box plots in Seaborn](https://www.reddit.com/r/Python/comments/xkcjve/visualizing_box_plots_in_seaborn/)
+- [Yark: Python-based archiver and viewer for YouTube](https://www.reddit.com/r/Python/comments/xkbpto/yark_pythonbased_archiver_and_viewer_for_youtube/)
 - [Python Career Guide](https://www.reddit.com/r/Python/comments/xkbcl6/python_career_guide/)
 - [A Life Simulator game inspired by BitLife](https://www.reddit.com/r/Python/comments/xkbbd0/a_life_simulator_game_inspired_by_bitlife/)
 - [Trying to build an ASO tool using python. How can i find the ranking of an App for a keyword?](https://www.reddit.com/r/Python/comments/xkap03/trying_to_build_an_aso_tool_using_python_how_can/)
-- [18 Common Python Anti-Patterns I Wish I Had Known Before](https://www.reddit.com/r/Python/comments/xk8q1w/18_common_python_antipatterns_i_wish_i_had_known/)
-- [How to Build an Audio Intelligence Dashboard with Python](https://www.reddit.com/r/Python/comments/xk81al/how_to_build_an_audio_intelligence_dashboard_with/)
 <!-- BLOG-POST-LIST:END -->
