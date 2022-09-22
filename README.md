@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Celsius and Fahrenheit Converter](https://www.reddit.com/r/Python/comments/xkvmml/celsius_and_fahrenheit_converter/)
 - [Need Book review](https://www.reddit.com/r/Python/comments/xkujde/need_book_review/)
 - [I need help with Stripe connecting](https://www.reddit.com/r/Python/comments/xktx5v/i_need_help_with_stripe_connecting/)
 - [An actual in-place swap function for cpython](https://www.reddit.com/r/Python/comments/xktaw0/an_actual_inplace_swap_function_for_cpython/)
 - [Reinforcement Learning for Beginners - coding a Maze-solving agent from scratch](https://www.reddit.com/r/Python/comments/xkr98k/reinforcement_learning_for_beginners_coding_a/)
-- [Which IDE is best for Python programming in 2023?](https://www.reddit.com/r/Python/comments/xkpezf/which_ide_is_best_for_python_programming_in_2023/)
 <!-- BLOG-POST-LIST:END -->
