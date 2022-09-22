@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a program that lets you play text-only blindfold chess against Stockfish](https://www.reddit.com/r/Python/comments/xkshq9/i_wrote_a_program_that_lets_you_play_textonly/)
 - [Reinforcement Learning for Beginners - coding a Maze-solving agent from scratch](https://www.reddit.com/r/Python/comments/xkr98k/reinforcement_learning_for_beginners_coding_a/)
 - [Which IDE is best for Python programming in 2023?](https://www.reddit.com/r/Python/comments/xkpezf/which_ide_is_best_for_python_programming_in_2023/)
 - [What issues do you face when prototyping a feature, idea, concept and do you face issues trying to explain technical logic to peers?](https://www.reddit.com/r/Python/comments/xkmbwq/what_issues_do_you_face_when_prototyping_a/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/xkldrj/thursday_daily_thread_python_careers_courses_and/)
-- [Storing Pandas data frames efficiently in Python](https://www.reddit.com/r/Python/comments/xkjs92/storing_pandas_data_frames_efficiently_in_python/)
 <!-- BLOG-POST-LIST:END -->
