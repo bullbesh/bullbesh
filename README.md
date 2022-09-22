@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python-CLI VPN Connection Program Using OpenVPN &amp; .Ovpn Config Files](https://www.reddit.com/r/Python/comments/xl5tnn/pythoncli_vpn_connection_program_using_openvpn/)
+- [Flask or TOP as a side learning?](https://www.reddit.com/r/Python/comments/xl5fdt/flask_or_top_as_a_side_learning/)
 - [OSS vs. Commercial product naming](https://www.reddit.com/r/Python/comments/xl2f6x/oss_vs_commercial_product_naming/)
 - [Using Python and NetworkManager to control the network - Fedora Magazine](https://www.reddit.com/r/Python/comments/xkyibt/using_python_and_networkmanager_to_control_the/)
 - [Pyspark Training in Hyderabad](https://www.reddit.com/r/Python/comments/xkxip8/pyspark_training_in_hyderabad/)
-- [OpenAI&#39;s Whisper: an open-sourced neural net &quot;that approaches human level robustness and accuracy on English speech recognition.&quot; Can be used as a Python package or from the command line](https://www.reddit.com/r/Python/comments/xkwt34/openais_whisper_an_opensourced_neural_net_that/)
-- [Leet Haskell-style lazy evaluation in Python](https://www.reddit.com/r/Python/comments/xkvsrr/leet_haskellstyle_lazy_evaluation_in_python/)
 <!-- BLOG-POST-LIST:END -->
