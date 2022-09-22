@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [what does these , underscore before brackets mean? in python , how are they used?](https://www.reddit.com/r/Python/comments/xl7owe/what_does_these_underscore_before_brackets_mean/)
+- [How to use OpenAI&#39;s Whisper in Python &lpar;and some accuracy, runtime, and cost benchmarks&rpar;](https://www.reddit.com/r/Python/comments/xl7m0z/how_to_use_openais_whisper_in_python_and_some/)
+- [Swapping variables by abusing the c-api](https://www.reddit.com/r/Python/comments/xl74zd/swapping_variables_by_abusing_the_capi/)
+- [stupid question!](https://www.reddit.com/r/Python/comments/xl6sn4/stupid_question/)
 - [Python-CLI VPN Connection Program Using OpenVPN &amp; .Ovpn Config Files](https://www.reddit.com/r/Python/comments/xl5tnn/pythoncli_vpn_connection_program_using_openvpn/)
-- [Flask or TOP as a side learning?](https://www.reddit.com/r/Python/comments/xl5fdt/flask_or_top_as_a_side_learning/)
-- [OSS vs. Commercial product naming](https://www.reddit.com/r/Python/comments/xl2f6x/oss_vs_commercial_product_naming/)
-- [Using Python and NetworkManager to control the network - Fedora Magazine](https://www.reddit.com/r/Python/comments/xkyibt/using_python_and_networkmanager_to_control_the/)
-- [Pyspark Training in Hyderabad](https://www.reddit.com/r/Python/comments/xkxip8/pyspark_training_in_hyderabad/)
 <!-- BLOG-POST-LIST:END -->
