@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What issues do you face when prototyping a feature, idea, concept and do you face issues trying to explain technical logic to peers?](https://www.reddit.com/r/Python/comments/xkmbwq/what_issues_do_you_face_when_prototyping_a/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/xkldrj/thursday_daily_thread_python_careers_courses_and/)
+- [Reinforcement Learning for Beginners - Maze Solver with Sarsa](https://www.reddit.com/r/Python/comments/xkl4nx/reinforcement_learning_for_beginners_maze_solver/)
 - [Storing Pandas data frames efficiently in Python](https://www.reddit.com/r/Python/comments/xkjs92/storing_pandas_data_frames_efficiently_in_python/)
 - [Design choice for string.join&lpar;array&rpar;, instead of array.join&lpar;string&rpar;](https://www.reddit.com/r/Python/comments/xkjirq/design_choice_for_stringjoinarray_instead_of/)
-- [Using Final with dataclass](https://www.reddit.com/r/Python/comments/xkjihn/using_final_with_dataclass/)
-- [Can MS Access be used with Python?](https://www.reddit.com/r/Python/comments/xkfwwp/can_ms_access_be_used_with_python/)
-- [Visualizing Box plots in Seaborn](https://www.reddit.com/r/Python/comments/xkcjve/visualizing_box_plots_in_seaborn/)
 <!-- BLOG-POST-LIST:END -->
