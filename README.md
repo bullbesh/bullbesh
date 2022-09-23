@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Package and Tool for Sizing Smart Contract Audits in Solidity](https://www.reddit.com/r/Python/comments/xm4bag/python_package_and_tool_for_sizing_smart_contract/)
+- [I hate regex in Python](https://www.reddit.com/r/Python/comments/xm4b3l/i_hate_regex_in_python/)
+- [Wall vs CPU time, or the cost of asyncio Tasks](https://www.reddit.com/r/Python/comments/xm4ang/wall_vs_cpu_time_or_the_cost_of_asyncio_tasks/)
 - [Subscribe to YouTube Events with Python and Kafka](https://www.reddit.com/r/Python/comments/xm20do/subscribe_to_youtube_events_with_python_and_kafka/)
 - [eng: Translate British English into American English in text files and Python code](https://www.reddit.com/r/Python/comments/xlzyi1/eng_translate_british_english_into_american/)
-- [How to Deploy a Machine Learning Model with FastAPI, Docker and Github Actions](https://www.reddit.com/r/Python/comments/xlyk8u/how_to_deploy_a_machine_learning_model_with/)
-- [Address book with Python](https://www.reddit.com/r/Python/comments/xlxmdj/address_book_with_python/)
-- [The Definitive Guide to Graph Problems](https://www.reddit.com/r/Python/comments/xlvtwd/the_definitive_guide_to_graph_problems/)
 <!-- BLOG-POST-LIST:END -->
