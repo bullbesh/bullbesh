@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Huge problem in start](https://www.reddit.com/r/Python/comments/xlgocm/huge_problem_in_start/)
+- [Gist statistics mini-library.](https://www.reddit.com/r/Python/comments/xljs8t/gist_statistics_minilibrary/)
+- [I created a Tesla Cybertruck that Drives with Matplotlib](https://www.reddit.com/r/Python/comments/xlj0yg/i_created_a_tesla_cybertruck_that_drives_with/)
 - [I wrote my first real scripts today](https://www.reddit.com/r/Python/comments/xlgo4a/i_wrote_my_first_real_scripts_today/)
 - [Web Applications in Production using Flask, Gunicorn WSGI and Nginx](https://www.reddit.com/r/Python/comments/xldrkz/web_applications_in_production_using_flask/)
 - [Creating matplotlib figures for research papers](https://www.reddit.com/r/Python/comments/xlc7w9/creating_matplotlib_figures_for_research_papers/)
-- [Updated An Annoying Game based on feedback recieved here and other places](https://www.reddit.com/r/Python/comments/xlaa2g/updated_an_annoying_game_based_on_feedback/)
 <!-- BLOG-POST-LIST:END -->
