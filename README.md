@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - temporalio/sdk-python: Temporal Python SDK](https://www.reddit.com/r/Python/comments/xlqgs2/github_temporaliosdkpython_temporal_python_sdk/)
+- [In what non-tech job does coding come most in clutch?](https://www.reddit.com/r/Python/comments/xlq66b/in_what_nontech_job_does_coding_come_most_in/)
+- [How to apply force on any body in pymunk ?????😬😬](https://www.reddit.com/r/Python/comments/xlq5ow/how_to_apply_force_on_any_body_in_pymunk/)
 - [Speech to Text in python is too easy with OpenAI&#39;s Whisper](https://www.reddit.com/r/Python/comments/xllud6/speech_to_text_in_python_is_too_easy_with_openais/)
 - [Gist statistics mini-library.](https://www.reddit.com/r/Python/comments/xljs8t/gist_statistics_minilibrary/)
-- [I created a Tesla Cybertruck that Drives with Matplotlib](https://www.reddit.com/r/Python/comments/xlj0yg/i_created_a_tesla_cybertruck_that_drives_with/)
-- [I wrote my first real scripts today](https://www.reddit.com/r/Python/comments/xlgo4a/i_wrote_my_first_real_scripts_today/)
-- [Web Applications in Production using Flask, Gunicorn WSGI and Nginx](https://www.reddit.com/r/Python/comments/xldrkz/web_applications_in_production_using_flask/)
 <!-- BLOG-POST-LIST:END -->
