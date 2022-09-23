@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Brainfried: A Brainfuck to Assembly Compiler](https://www.reddit.com/r/Python/comments/xm8n2h/brainfried_a_brainfuck_to_assembly_compiler/)
 - [looking for a great algorithm to search a string in list which length is 350K](https://www.reddit.com/r/Python/comments/xm7ina/looking_for_a_great_algorithm_to_search_a_string/)
 - [DIY - Automating OpenAI Whisper to Transcribe YouTube Videos](https://www.reddit.com/r/Python/comments/xm7fmn/diy_automating_openai_whisper_to_transcribe/)
 - [Python Package and Tool for Sizing Smart Contract Audits in Solidity](https://www.reddit.com/r/Python/comments/xm4bag/python_package_and_tool_for_sizing_smart_contract/)
 - [I hate regex in Python](https://www.reddit.com/r/Python/comments/xm4b3l/i_hate_regex_in_python/)
-- [Wall vs CPU time, or the cost of asyncio Tasks](https://www.reddit.com/r/Python/comments/xm4ang/wall_vs_cpu_time_or_the_cost_of_asyncio_tasks/)
 <!-- BLOG-POST-LIST:END -->
