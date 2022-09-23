@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is your favourite graphing and plotting package?](https://www.reddit.com/r/Python/comments/xluovz/what_is_your_favourite_graphing_and_plotting/)
-- [Pleas help me self in python](https://www.reddit.com/r/Python/comments/xluion/pleas_help_me_self_in_python/)
-- [What is the moment when you decide &quot;This is too much for a python codebase&quot;?](https://www.reddit.com/r/Python/comments/xltw3z/what_is_the_moment_when_you_decide_this_is_too/)
-- [Top Python Web Development Services](https://www.reddit.com/r/Python/comments/xltude/top_python_web_development_services/)
-- [Python Lessons For Absolute Beginners](https://www.reddit.com/r/Python/comments/xlsi8c/python_lessons_for_absolute_beginners/)
+- [Best Python Interview Questions And Answers 2022](https://www.reddit.com/r/Python/comments/xlwdwm/best_python_interview_questions_and_answers_2022/)
+- [Python Coding Challenge](https://www.reddit.com/r/Python/comments/xlw598/python_coding_challenge/)
+- [Proxy Service](https://www.reddit.com/r/Python/comments/xlw32a/proxy_service/)
+- [The Definitive Guide to Graph Problems](https://www.reddit.com/r/Python/comments/xlvtwd/the_definitive_guide_to_graph_problems/)
+- [Chest X Ray Pneumonia Detection using Deep Convolutional Neural Networks with Keras | Python](https://www.reddit.com/r/Python/comments/xlvnic/chest_x_ray_pneumonia_detection_using_deep/)
 <!-- BLOG-POST-LIST:END -->
