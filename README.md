@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pip is weird](https://www.reddit.com/r/Python/comments/xmcg24/pip_is_weird/)
+- [Pull Fantasy Football Player Data w/ ESPN API &amp; Python](https://www.reddit.com/r/Python/comments/xmbd97/pull_fantasy_football_player_data_w_espn_api/)
 - [Does anyone else find MyLabProgramming frustrating?](https://www.reddit.com/r/Python/comments/xm9xxz/does_anyone_else_find_mylabprogramming_frustrating/)
 - [Brainfried: A Brainfuck to Assembly Compiler](https://www.reddit.com/r/Python/comments/xm8n2h/brainfried_a_brainfuck_to_assembly_compiler/)
 - [looking for a great algorithm to search a string in list which length is 350K](https://www.reddit.com/r/Python/comments/xm7ina/looking_for_a_great_algorithm_to_search_a_string/)
-- [DIY - Automating OpenAI Whisper to Transcribe YouTube Videos](https://www.reddit.com/r/Python/comments/xm7fmn/diy_automating_openai_whisper_to_transcribe/)
-- [Python Package and Tool for Sizing Smart Contract Audits in Solidity](https://www.reddit.com/r/Python/comments/xm4bag/python_package_and_tool_for_sizing_smart_contract/)
 <!-- BLOG-POST-LIST:END -->
