@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [eng: Translate British English into American English in text files and Python code](https://www.reddit.com/r/Python/comments/xlzyi1/eng_translate_british_english_into_american/)
 - [How to Deploy a Machine Learning Model with FastAPI, Docker and Github Actions](https://www.reddit.com/r/Python/comments/xlyk8u/how_to_deploy_a_machine_learning_model_with/)
 - [Address book with Python](https://www.reddit.com/r/Python/comments/xlxmdj/address_book_with_python/)
 - [Python Turtle Performance Inconsistent? &lpar;Developing on Ubuntu 22.04&rpar;](https://www.reddit.com/r/Python/comments/xlwu8e/python_turtle_performance_inconsistent_developing/)
 - [Proxy Service](https://www.reddit.com/r/Python/comments/xlw32a/proxy_service/)
-- [The Definitive Guide to Graph Problems](https://www.reddit.com/r/Python/comments/xlvtwd/the_definitive_guide_to_graph_problems/)
 <!-- BLOG-POST-LIST:END -->
