@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is your favourite graphing and plotting package?](https://www.reddit.com/r/Python/comments/xluovz/what_is_your_favourite_graphing_and_plotting/)
+- [Pleas help me self in python](https://www.reddit.com/r/Python/comments/xluion/pleas_help_me_self_in_python/)
+- [What is the moment when you decide &quot;This is too much for a python codebase&quot;?](https://www.reddit.com/r/Python/comments/xltw3z/what_is_the_moment_when_you_decide_this_is_too/)
+- [Top Python Web Development Services](https://www.reddit.com/r/Python/comments/xltude/top_python_web_development_services/)
 - [Python Lessons For Absolute Beginners](https://www.reddit.com/r/Python/comments/xlsi8c/python_lessons_for_absolute_beginners/)
-- [UnstableFusion - A stable diffusion frontend with inpainting, img2img, and more. Link to the github page in the comments](https://www.reddit.com/r/Python/comments/xlsamz/unstablefusion_a_stable_diffusion_frontend_with/)
-- [GitHub - temporalio/sdk-python: Temporal Python SDK](https://www.reddit.com/r/Python/comments/xlqgs2/github_temporaliosdkpython_temporal_python_sdk/)
-- [In what non-tech job does coding come most in clutch?](https://www.reddit.com/r/Python/comments/xlq66b/in_what_nontech_job_does_coding_come_most_in/)
-- [How to apply force on any body in pymunk ?????😬😬](https://www.reddit.com/r/Python/comments/xlq5ow/how_to_apply_force_on_any_body_in_pymunk/)
 <!-- BLOG-POST-LIST:END -->
