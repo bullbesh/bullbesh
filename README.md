@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Speech to Text in python is too easy with OpenAI&#39;s Whisper](https://www.reddit.com/r/Python/comments/xllud6/speech_to_text_in_python_is_too_easy_with_openais/)
 - [Gist statistics mini-library.](https://www.reddit.com/r/Python/comments/xljs8t/gist_statistics_minilibrary/)
 - [I created a Tesla Cybertruck that Drives with Matplotlib](https://www.reddit.com/r/Python/comments/xlj0yg/i_created_a_tesla_cybertruck_that_drives_with/)
 - [I wrote my first real scripts today](https://www.reddit.com/r/Python/comments/xlgo4a/i_wrote_my_first_real_scripts_today/)
 - [Web Applications in Production using Flask, Gunicorn WSGI and Nginx](https://www.reddit.com/r/Python/comments/xldrkz/web_applications_in_production_using_flask/)
-- [Creating matplotlib figures for research papers](https://www.reddit.com/r/Python/comments/xlc7w9/creating_matplotlib_figures_for_research_papers/)
 <!-- BLOG-POST-LIST:END -->
