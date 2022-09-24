@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Speeding up Python with Zig](https://www.reddit.com/r/Python/comments/xmxpsy/speeding_up_python_with_zig/)
+- [Visualizing Heatmaps in Seaborn](https://www.reddit.com/r/Python/comments/xmxfu3/visualizing_heatmaps_in_seaborn/)
 - [Complete Tutorial Video for OpenAI&#39;s Whisper Model for Windows Users - Uses Python - How to do speech-to-text transcription &lpar;speech recognition - NLP&rpar; for free with better quality than Google&#39;s API](https://www.reddit.com/r/Python/comments/xmw3dw/complete_tutorial_video_for_openais_whisper_model/)
 - [dependency_injectors: Tests and comparison of Python dependency injection libraries](https://www.reddit.com/r/Python/comments/xmv49b/dependency_injectors_tests_and_comparison_of/)
 - [Data Engineering with Python | Simplest Guide](https://www.reddit.com/r/Python/comments/xmssfl/data_engineering_with_python_simplest_guide/)
-- [FREE RESOURCE: Python Tips and Tricks : 50 Basic &amp; Intermediate Tips &amp; Tricks 2](https://www.reddit.com/r/Python/comments/xmsg70/free_resource_python_tips_and_tricks_50_basic/)
-- [I have created a program with an interface that identifies plants](https://www.reddit.com/r/Python/comments/xmqgx0/i_have_created_a_program_with_an_interface_that/)
 <!-- BLOG-POST-LIST:END -->
