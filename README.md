@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/xmde38/saturday_daily_thread_resource_request_and/)
 - [pip is weird](https://www.reddit.com/r/Python/comments/xmcg24/pip_is_weird/)
 - [Pull Fantasy Football Player Data w/ ESPN API &amp; Python](https://www.reddit.com/r/Python/comments/xmbd97/pull_fantasy_football_player_data_w_espn_api/)
 - [Does anyone else find MyLabProgramming frustrating?](https://www.reddit.com/r/Python/comments/xm9xxz/does_anyone_else_find_mylabprogramming_frustrating/)
 - [Brainfried: A Brainfuck to Assembly Compiler](https://www.reddit.com/r/Python/comments/xm8n2h/brainfried_a_brainfuck_to_assembly_compiler/)
-- [looking for a great algorithm to search a string in list which length is 350K](https://www.reddit.com/r/Python/comments/xm7ina/looking_for_a_great_algorithm_to_search_a_string/)
 <!-- BLOG-POST-LIST:END -->
