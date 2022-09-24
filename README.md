@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make a simple web-based name generator app in Brython](https://www.reddit.com/r/Python/comments/xn4duq/how_to_make_a_simple_webbased_name_generator_app/)
 - [Monetizing Python Skills](https://www.reddit.com/r/Python/comments/xn31sl/monetizing_python_skills/)
 - [Teaching Python to a student with autism](https://www.reddit.com/r/Python/comments/xn0adv/teaching_python_to_a_student_with_autism/)
 - [My First Ever Python Project](https://www.reddit.com/r/Python/comments/xn048t/my_first_ever_python_project/)
 - [RGBPRINT V4.0.1 Print gradients and colors on your terminal.](https://www.reddit.com/r/Python/comments/xmyvqj/rgbprint_v401_print_gradients_and_colors_on_your/)
-- [Speeding up Python with Zig](https://www.reddit.com/r/Python/comments/xmxpsy/speeding_up_python_with_zig/)
 <!-- BLOG-POST-LIST:END -->
