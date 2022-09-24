@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Engineering with Python | Simplest Guide](https://www.reddit.com/r/Python/comments/xmssfl/data_engineering_with_python_simplest_guide/)
+- [FREE RESOURCE: Python Tips and Tricks : 50 Basic &amp; Intermediate Tips &amp; Tricks 2](https://www.reddit.com/r/Python/comments/xmsg70/free_resource_python_tips_and_tricks_50_basic/)
 - [I have created a program with an interface that identifies plants](https://www.reddit.com/r/Python/comments/xmqgx0/i_have_created_a_program_with_an_interface_that/)
 - [Is there any template I can easily use to make my plotly-dash app more professional/beautiful? Do you have inspiring examples?](https://www.reddit.com/r/Python/comments/xmpxge/is_there_any_template_i_can_easily_use_to_make_my/)
 - [Has anybody faced any issues with Google Colab &lpar;basic free version&rpar;&#39;s faster runtime out on Brave Chromium than Google Chrome? Can anyone test it out?](https://www.reddit.com/r/Python/comments/xmoowt/has_anybody_faced_any_issues_with_google_colab/)
-- [I have developed a simple Task Orchestrator](https://www.reddit.com/r/Python/comments/xmojgh/i_have_developed_a_simple_task_orchestrator/)
-- [Would anyone be willing to critique my resume and portfolio for junior dev roles?](https://www.reddit.com/r/Python/comments/xmnzu5/would_anyone_be_willing_to_critique_my_resume_and/)
 <!-- BLOG-POST-LIST:END -->
