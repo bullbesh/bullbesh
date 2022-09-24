@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there any template I can easily use to make my plotly-dash app more professional/beautiful? Do you have inspiring examples?](https://www.reddit.com/r/Python/comments/xmpxge/is_there_any_template_i_can_easily_use_to_make_my/)
 - [Has anybody faced any issues with Google Colab &lpar;basic free version&rpar;&#39;s faster runtime out on Brave Chromium than Google Chrome? Can anyone test it out?](https://www.reddit.com/r/Python/comments/xmoowt/has_anybody_faced_any_issues_with_google_colab/)
 - [I have developed a simple Task Orchestrator](https://www.reddit.com/r/Python/comments/xmojgh/i_have_developed_a_simple_task_orchestrator/)
 - [Would anyone be willing to critique my resume and portfolio for junior dev roles?](https://www.reddit.com/r/Python/comments/xmnzu5/would_anyone_be_willing_to_critique_my_resume_and/)
 - [PEP 698 – Override Decorator for Static Typing](https://www.reddit.com/r/Python/comments/xmnv04/pep_698_override_decorator_for_static_typing/)
-- [Certification for the CV](https://www.reddit.com/r/Python/comments/xmj8ir/certification_for_the_cv/)
 <!-- BLOG-POST-LIST:END -->
