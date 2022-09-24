@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Teaching Python to a student with autism](https://www.reddit.com/r/Python/comments/xn0adv/teaching_python_to_a_student_with_autism/)
+- [My First Ever Python Project](https://www.reddit.com/r/Python/comments/xn048t/my_first_ever_python_project/)
+- [Python Library to Download NSE Data](https://www.reddit.com/r/Python/comments/xmz4a6/python_library_to_download_nse_data/)
+- [RGBPRINT V4.0.1 Print gradients and colors on your terminal.](https://www.reddit.com/r/Python/comments/xmyvqj/rgbprint_v401_print_gradients_and_colors_on_your/)
 - [Speeding up Python with Zig](https://www.reddit.com/r/Python/comments/xmxpsy/speeding_up_python_with_zig/)
-- [Visualizing Heatmaps in Seaborn](https://www.reddit.com/r/Python/comments/xmxfu3/visualizing_heatmaps_in_seaborn/)
-- [Complete Tutorial Video for OpenAI&#39;s Whisper Model for Windows Users - Uses Python - How to do speech-to-text transcription &lpar;speech recognition - NLP&rpar; for free with better quality than Google&#39;s API](https://www.reddit.com/r/Python/comments/xmw3dw/complete_tutorial_video_for_openais_whisper_model/)
-- [dependency_injectors: Tests and comparison of Python dependency injection libraries](https://www.reddit.com/r/Python/comments/xmv49b/dependency_injectors_tests_and_comparison_of/)
-- [Data Engineering with Python | Simplest Guide](https://www.reddit.com/r/Python/comments/xmssfl/data_engineering_with_python_simplest_guide/)
 <!-- BLOG-POST-LIST:END -->
