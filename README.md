@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Has anybody faced any issues with Google Colab &lpar;basic free version&rpar;&#39;s faster runtime out on Brave Chromium than Google Chrome? Can anyone test it out?](https://www.reddit.com/r/Python/comments/xmoowt/has_anybody_faced_any_issues_with_google_colab/)
+- [I have developed a simple Task Orchestrator](https://www.reddit.com/r/Python/comments/xmojgh/i_have_developed_a_simple_task_orchestrator/)
 - [Would anyone be willing to critique my resume and portfolio for junior dev roles?](https://www.reddit.com/r/Python/comments/xmnzu5/would_anyone_be_willing_to_critique_my_resume_and/)
-- [I wrote a website where you can play text-based blindfold chess against Stockfish. &lpar;Python+Flask&rpar;](https://www.reddit.com/r/Python/comments/xmnwpa/i_wrote_a_website_where_you_can_play_textbased/)
 - [PEP 698 – Override Decorator for Static Typing](https://www.reddit.com/r/Python/comments/xmnv04/pep_698_override_decorator_for_static_typing/)
 - [Certification for the CV](https://www.reddit.com/r/Python/comments/xmj8ir/certification_for_the_cv/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/xmde38/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
