@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [CS50p finale project](https://www.reddit.com/r/Python/comments/xn60q1/cs50p_finale_project/)
+- [diskinfo Python library for Linux](https://www.reddit.com/r/Python/comments/xn5w7w/diskinfo_python_library_for_linux/)
 - [Machine Learning Resources &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/xn4ky8/machine_learning_resources_python/)
 - [How to make a simple web-based name generator app in Brython](https://www.reddit.com/r/Python/comments/xn4duq/how_to_make_a_simple_webbased_name_generator_app/)
-- [Monetizing Python Skills](https://www.reddit.com/r/Python/comments/xn31sl/monetizing_python_skills/)
 - [Teaching Python to a student with autism](https://www.reddit.com/r/Python/comments/xn0adv/teaching_python_to_a_student_with_autism/)
-- [My First Ever Python Project](https://www.reddit.com/r/Python/comments/xn048t/my_first_ever_python_project/)
 <!-- BLOG-POST-LIST:END -->
