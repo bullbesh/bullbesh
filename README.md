@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My new package: pytest-sqlalchemy-mock](https://www.reddit.com/r/Python/comments/xnt34c/my_new_package_pytestsqlalchemymock/)
 - [Just created a simple Python app. It converts YouTube audio to text using openai/whisper library.](https://www.reddit.com/r/Python/comments/xnrry3/just_created_a_simple_python_app_it_converts/)
 - [Prospector vs running pylint/pycodestyle/mypy/etc individually?](https://www.reddit.com/r/Python/comments/xnr47u/prospector_vs_running_pylintpycodestylemypyetc/)
 - [Installing Python Packages - Blog Post](https://www.reddit.com/r/Python/comments/xnqtb6/installing_python_packages_blog_post/)
 - [brand new to python and having libraries problems](https://www.reddit.com/r/Python/comments/xnqbg9/brand_new_to_python_and_having_libraries_problems/)
-- [Requirements to practice python.](https://www.reddit.com/r/Python/comments/xnpmlf/requirements_to_practice_python/)
 <!-- BLOG-POST-LIST:END -->
