@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Application auto updater framework for Python](https://www.reddit.com/r/Python/comments/xo1nqo/application_auto_updater_framework_for_python/)
 - [What&#39;s best library for swagger + flask?](https://www.reddit.com/r/Python/comments/xnzrxr/whats_best_library_for_swagger_flask/)
 - [Can AI generate entire Python applications?](https://www.reddit.com/r/Python/comments/xnzh05/can_ai_generate_entire_python_applications/)
 - [I wrote an open-source Python script that turns Discord images into a WordPress website &lpar;live demo included&rpar;](https://www.reddit.com/r/Python/comments/xnzgg4/i_wrote_an_opensource_python_script_that_turns/)
 - [Introspect type hints Pythonically in O&lpar;1&rpar; time.](https://www.reddit.com/r/Python/comments/xnwj3r/introspect_type_hints_pythonically_in_o1_time/)
-- [Interview practice websites?](https://www.reddit.com/r/Python/comments/xnw4c9/interview_practice_websites/)
 <!-- BLOG-POST-LIST:END -->
