@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just created a simple Python app. It converts YouTube audio to text using openai/whisper library.](https://www.reddit.com/r/Python/comments/xnrry3/just_created_a_simple_python_app_it_converts/)
+- [Prospector vs running pylint/pycodestyle/mypy/etc individually?](https://www.reddit.com/r/Python/comments/xnr47u/prospector_vs_running_pylintpycodestylemypyetc/)
+- [Installing Python Packages - Blog Post](https://www.reddit.com/r/Python/comments/xnqtb6/installing_python_packages_blog_post/)
+- [brand new to python and having libraries problems](https://www.reddit.com/r/Python/comments/xnqbg9/brand_new_to_python_and_having_libraries_problems/)
 - [Requirements to practice python.](https://www.reddit.com/r/Python/comments/xnpmlf/requirements_to_practice_python/)
-- [Solar forecast API](https://www.reddit.com/r/Python/comments/xnoeq1/solar_forecast_api/)
-- [Resize and depixelate low resolution images](https://www.reddit.com/r/Python/comments/xnm6f9/resize_and_depixelate_low_resolution_images/)
-- [I made a GUI app that sends e-mails in bulk.](https://www.reddit.com/r/Python/comments/xnk5r5/i_made_a_gui_app_that_sends_emails_in_bulk/)
-- [What is a good replacement for MoinMoin Wiki?](https://www.reddit.com/r/Python/comments/xnj99s/what_is_a_good_replacement_for_moinmoin_wiki/)
 <!-- BLOG-POST-LIST:END -->
