@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What should I learn after completing a basic python course+ &lpar;goal is learning AI&rpar;](https://www.reddit.com/r/Python/comments/xnuwgw/what_should_i_learn_after_completing_a_basic/)
+- [Natural Language Processing With Tensorflow » CodeSearchOnline Natural Language Processing With Tensorflow](https://www.reddit.com/r/Python/comments/xnu5v4/natural_language_processing_with_tensorflow/)
+- [I wrote a website where you can play text-based blindfold chess against Stockfish. &lpar;Python+Flask&rpar;](https://www.reddit.com/r/Python/comments/xnu5fo/i_wrote_a_website_where_you_can_play_textbased/)
 - [My new package: pytest-sqlalchemy-mock](https://www.reddit.com/r/Python/comments/xnt34c/my_new_package_pytestsqlalchemymock/)
 - [Just created a simple Python app. It converts YouTube audio to text using openai/whisper library.](https://www.reddit.com/r/Python/comments/xnrry3/just_created_a_simple_python_app_it_converts/)
-- [Prospector vs running pylint/pycodestyle/mypy/etc individually?](https://www.reddit.com/r/Python/comments/xnr47u/prospector_vs_running_pylintpycodestylemypyetc/)
-- [Installing Python Packages - Blog Post](https://www.reddit.com/r/Python/comments/xnqtb6/installing_python_packages_blog_post/)
-- [brand new to python and having libraries problems](https://www.reddit.com/r/Python/comments/xnqbg9/brand_new_to_python_and_having_libraries_problems/)
 <!-- BLOG-POST-LIST:END -->
