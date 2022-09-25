@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interview practice websites?](https://www.reddit.com/r/Python/comments/xnw4c9/interview_practice_websites/)
+- [Near-Earth Objects &lpar;NEOs&rpar; Science Project Part 8](https://www.reddit.com/r/Python/comments/xnvggf/nearearth_objects_neos_science_project_part_8/)
+- [Hi guys! I want to download some tth robotic voices, like Stephen Hawnikg](https://www.reddit.com/r/Python/comments/xnvect/hi_guys_i_want_to_download_some_tth_robotic/)
 - [What should I learn after completing a basic python course+ &lpar;goal is learning AI&rpar;](https://www.reddit.com/r/Python/comments/xnuwgw/what_should_i_learn_after_completing_a_basic/)
 - [Natural Language Processing With Tensorflow » CodeSearchOnline Natural Language Processing With Tensorflow](https://www.reddit.com/r/Python/comments/xnu5v4/natural_language_processing_with_tensorflow/)
-- [I wrote a website where you can play text-based blindfold chess against Stockfish. &lpar;Python+Flask&rpar;](https://www.reddit.com/r/Python/comments/xnu5fo/i_wrote_a_website_where_you_can_play_textbased/)
-- [My new package: pytest-sqlalchemy-mock](https://www.reddit.com/r/Python/comments/xnt34c/my_new_package_pytestsqlalchemymock/)
-- [Just created a simple Python app. It converts YouTube audio to text using openai/whisper library.](https://www.reddit.com/r/Python/comments/xnrry3/just_created_a_simple_python_app_it_converts/)
 <!-- BLOG-POST-LIST:END -->
