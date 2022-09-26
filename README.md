@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Requesting a response](https://www.reddit.com/r/Python/comments/xof7bu/requesting_a_response/)
 - [PaddleSeg: An easy-to-use and awesome image segmentation toolkit](https://www.reddit.com/r/Python/comments/xoecvk/paddleseg_an_easytouse_and_awesome_image/)
 - [Clip raster by polygon geometry in Python using Rioxarray](https://www.reddit.com/r/Python/comments/xobzu1/clip_raster_by_polygon_geometry_in_python_using/)
 - [How I deploy my bootstrapped Python webapp with 150k monthly users](https://www.reddit.com/r/Python/comments/xobba8/how_i_deploy_my_bootstrapped_python_webapp_with/)
 - [David Thompson: Guix for development](https://www.reddit.com/r/Python/comments/xoa0pw/david_thompson_guix_for_development/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/xo37yn/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
