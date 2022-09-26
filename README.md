@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Clip raster by polygon geometry in Python using Rioxarray](https://www.reddit.com/r/Python/comments/xobzu1/clip_raster_by_polygon_geometry_in_python_using/)
+- [How I deploy my bootstrapped Python webapp with 150k monthly users](https://www.reddit.com/r/Python/comments/xobba8/how_i_deploy_my_bootstrapped_python_webapp_with/)
 - [David Thompson: Guix for development](https://www.reddit.com/r/Python/comments/xoa0pw/david_thompson_guix_for_development/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/xo37yn/monday_daily_thread_project_ideas/)
 - [What&#39;s best library for swagger + flask?](https://www.reddit.com/r/Python/comments/xnzrxr/whats_best_library_for_swagger_flask/)
-- [Can AI generate entire Python applications?](https://www.reddit.com/r/Python/comments/xnzh05/can_ai_generate_entire_python_applications/)
-- [I wrote an open-source Python script that turns Discord images into a WordPress website &lpar;live demo included&rpar;](https://www.reddit.com/r/Python/comments/xnzgg4/i_wrote_an_opensource_python_script_that_turns/)
 <!-- BLOG-POST-LIST:END -->
