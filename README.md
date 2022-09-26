@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [David Thompson: Guix for development](https://www.reddit.com/r/Python/comments/xoa0pw/david_thompson_guix_for_development/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/xo37yn/monday_daily_thread_project_ideas/)
 - [What&#39;s best library for swagger + flask?](https://www.reddit.com/r/Python/comments/xnzrxr/whats_best_library_for_swagger_flask/)
 - [Can AI generate entire Python applications?](https://www.reddit.com/r/Python/comments/xnzh05/can_ai_generate_entire_python_applications/)
 - [I wrote an open-source Python script that turns Discord images into a WordPress website &lpar;live demo included&rpar;](https://www.reddit.com/r/Python/comments/xnzgg4/i_wrote_an_opensource_python_script_that_turns/)
-- [Introspect type hints Pythonically in O&lpar;1&rpar; time.](https://www.reddit.com/r/Python/comments/xnwj3r/introspect_type_hints_pythonically_in_o1_time/)
 <!-- BLOG-POST-LIST:END -->
