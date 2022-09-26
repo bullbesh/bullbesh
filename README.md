@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Dashboard for audio summarization, sentiment analysis, and more!](https://www.reddit.com/r/Python/comments/xonx2g/dashboard_for_audio_summarization_sentiment/)
-- [Savefig image shows up blank &lpar;0 axes&rpar;](https://www.reddit.com/r/Python/comments/xomst0/savefig_image_shows_up_blank_0_axes/)
-- [PyCharm 2022.3 EAP 1 Is Out!](https://www.reddit.com/r/Python/comments/xomip2/pycharm_20223_eap_1_is_out/)
-- [Binaural audio conversion using python?](https://www.reddit.com/r/Python/comments/xolrhk/binaural_audio_conversion_using_python/)
-- [What am I doing wrong?](https://www.reddit.com/r/Python/comments/xokvr9/what_am_i_doing_wrong/)
+- [Your Python Malware is Bad and You Should Feel Bad](https://www.reddit.com/r/Python/comments/xopsgn/your_python_malware_is_bad_and_you_should_feel_bad/)
+- [When using Poetry should I update the dependencies values inside pyproject.toml?](https://www.reddit.com/r/Python/comments/xopqhe/when_using_poetry_should_i_update_the/)
+- [Script Template for Basic File Management](https://www.reddit.com/r/Python/comments/xopcol/script_template_for_basic_file_management/)
+- [I wrote a program in Python that cycles through all the pixels in an image, turning them to either red, green or blue - changing colour at the original colour boundaries. Now it looks like I&#39;ve dropped my laptop and broke my screen](https://www.reddit.com/r/Python/comments/xop8g2/i_wrote_a_program_in_python_that_cycles_through/)
+- [Using .wx to create a label that can’t be edited.](https://www.reddit.com/r/Python/comments/xooqo1/using_wx_to_create_a_label_that_cant_be_edited/)
 <!-- BLOG-POST-LIST:END -->
