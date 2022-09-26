@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made an 8 minute primer on OpenAI&#39;s Whisper speech recognition model with English, German, and Japanese examples](https://www.reddit.com/r/Python/comments/xox2ih/i_made_an_8_minute_primer_on_openais_whisper/)
 - [Interesting use cases for a TypedDict](https://www.reddit.com/r/Python/comments/xovtf0/interesting_use_cases_for_a_typeddict/)
-- [Python is taught in stages, from beginner to advanced](https://www.reddit.com/r/Python/comments/xoutub/python_is_taught_in_stages_from_beginner_to/)
 - [VirtualEnv: Why doesn&#39;t python windows symlink env/bin to env/scripts?](https://www.reddit.com/r/Python/comments/xouaew/virtualenv_why_doesnt_python_windows_symlink/)
 - [11 hour of free python course for beginners.](https://www.reddit.com/r/Python/comments/xou4yd/11_hour_of_free_python_course_for_beginners/)
 - [Why do I need to test my code?](https://www.reddit.com/r/Python/comments/xotmod/why_do_i_need_to_test_my_code/)
