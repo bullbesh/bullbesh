@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What am I doing wrong?](https://www.reddit.com/r/Python/comments/xokvr9/what_am_i_doing_wrong/)
+- [Is there any module in python to create GUI for an Artificial intelligence. same as looking like Jarvis](https://www.reddit.com/r/Python/comments/xokjql/is_there_any_module_in_python_to_create_gui_for/)
+- [Why You Need To Learn Python In 2022](https://www.reddit.com/r/Python/comments/xok6rh/why_you_need_to_learn_python_in_2022/)
 - [Easy way to incorporate animated &#39;typewriter&#39; style text into python projects!](https://www.reddit.com/r/Python/comments/xojzpe/easy_way_to_incorporate_animated_typewriter_style/)
 - [Live training or training with instructor access?](https://www.reddit.com/r/Python/comments/xoj6l7/live_training_or_training_with_instructor_access/)
-- [pygame_shaders - a module to easily integrate shaders with Pygame](https://www.reddit.com/r/Python/comments/xohsk6/pygame_shaders_a_module_to_easily_integrate/)
-- [I&#39;ve built a Todo app with a Quart backend, React frontend, running in Docker on AWS](https://www.reddit.com/r/Python/comments/xoh1oo/ive_built_a_todo_app_with_a_quart_backend_react/)
-- [New terminal command package](https://www.reddit.com/r/Python/comments/xogowt/new_terminal_command_package/)
 <!-- BLOG-POST-LIST:END -->
