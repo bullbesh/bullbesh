@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pygame_shaders - a module to easily integrate shaders with Pygame](https://www.reddit.com/r/Python/comments/xohsk6/pygame_shaders_a_module_to_easily_integrate/)
+- [I&#39;ve built a Todo app with a Quart backend, React frontend, running in Docker on AWS](https://www.reddit.com/r/Python/comments/xoh1oo/ive_built_a_todo_app_with_a_quart_backend_react/)
+- [New terminal command package](https://www.reddit.com/r/Python/comments/xogowt/new_terminal_command_package/)
 - [Requesting a response](https://www.reddit.com/r/Python/comments/xof7bu/requesting_a_response/)
 - [PaddleSeg: An easy-to-use and awesome image segmentation toolkit](https://www.reddit.com/r/Python/comments/xoecvk/paddleseg_an_easytouse_and_awesome_image/)
-- [Clip raster by polygon geometry in Python using Rioxarray](https://www.reddit.com/r/Python/comments/xobzu1/clip_raster_by_polygon_geometry_in_python_using/)
-- [How I deploy my bootstrapped Python webapp with 150k monthly users](https://www.reddit.com/r/Python/comments/xobba8/how_i_deploy_my_bootstrapped_python_webapp_with/)
-- [David Thompson: Guix for development](https://www.reddit.com/r/Python/comments/xoa0pw/david_thompson_guix_for_development/)
 <!-- BLOG-POST-LIST:END -->
