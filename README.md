@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easy way to incorporate animated &#39;typewriter&#39; style text into python projects!](https://www.reddit.com/r/Python/comments/xojzpe/easy_way_to_incorporate_animated_typewriter_style/)
+- [Live training or training with instructor access?](https://www.reddit.com/r/Python/comments/xoj6l7/live_training_or_training_with_instructor_access/)
 - [pygame_shaders - a module to easily integrate shaders with Pygame](https://www.reddit.com/r/Python/comments/xohsk6/pygame_shaders_a_module_to_easily_integrate/)
 - [I&#39;ve built a Todo app with a Quart backend, React frontend, running in Docker on AWS](https://www.reddit.com/r/Python/comments/xoh1oo/ive_built_a_todo_app_with_a_quart_backend_react/)
 - [New terminal command package](https://www.reddit.com/r/Python/comments/xogowt/new_terminal_command_package/)
-- [Requesting a response](https://www.reddit.com/r/Python/comments/xof7bu/requesting_a_response/)
-- [PaddleSeg: An easy-to-use and awesome image segmentation toolkit](https://www.reddit.com/r/Python/comments/xoecvk/paddleseg_an_easytouse_and_awesome_image/)
 <!-- BLOG-POST-LIST:END -->
