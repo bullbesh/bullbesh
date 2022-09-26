@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [VirtualEnv: Why doesn&#39;t python windows symlink env/bin to env/scripts?](https://www.reddit.com/r/Python/comments/xouaew/virtualenv_why_doesnt_python_windows_symlink/)
+- [11 hour of free python course for beginners.](https://www.reddit.com/r/Python/comments/xou4yd/11_hour_of_free_python_course_for_beginners/)
+- [Why do I need to test my code?](https://www.reddit.com/r/Python/comments/xotmod/why_do_i_need_to_test_my_code/)
+- [Mypy 0.981 Released](https://www.reddit.com/r/Python/comments/xot2dv/mypy_0981_released/)
 - [How to Efficiently find, where each elements in the first array located in the second array ?](https://www.reddit.com/r/Python/comments/xosnqm/how_to_efficiently_find_where_each_elements_in/)
-- [Use Airtable as Python Backend - This is how I did it](https://www.reddit.com/r/Python/comments/xosn3u/use_airtable_as_python_backend_this_is_how_i_did/)
-- [I created a script that generates a photomosaic from a set of images. It can also generate a low resolution image, a GIF and a video of the result.](https://www.reddit.com/r/Python/comments/xorz41/i_created_a_script_that_generates_a_photomosaic/)
-- [I created Eyecare Reminder. It sends desktop notifications to take a break from looking at the screen.](https://www.reddit.com/r/Python/comments/xor28d/i_created_eyecare_reminder_it_sends_desktop/)
-- [Fundamentals of object-oriented programming &lpar;OOP&rpar;](https://www.reddit.com/r/Python/comments/xoqa1f/fundamentals_of_objectoriented_programming_oop/)
 <!-- BLOG-POST-LIST:END -->
