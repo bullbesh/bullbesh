@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created Eyecare Reminder. It sends desktop notifications to take a break from looking at the screen.](https://www.reddit.com/r/Python/comments/xor28d/i_created_eyecare_reminder_it_sends_desktop/)
+- [Fundamentals of object-oriented programming &lpar;OOP&rpar;](https://www.reddit.com/r/Python/comments/xoqa1f/fundamentals_of_objectoriented_programming_oop/)
 - [Your Python Malware is Bad and You Should Feel Bad](https://www.reddit.com/r/Python/comments/xopsgn/your_python_malware_is_bad_and_you_should_feel_bad/)
 - [When using Poetry should I update the dependencies values inside pyproject.toml?](https://www.reddit.com/r/Python/comments/xopqhe/when_using_poetry_should_i_update_the/)
 - [Script Template for Basic File Management](https://www.reddit.com/r/Python/comments/xopcol/script_template_for_basic_file_management/)
-- [I wrote a program in Python that cycles through all the pixels in an image, turning them to either red, green or blue - changing colour at the original colour boundaries. Now it looks like I&#39;ve dropped my laptop and broke my screen](https://www.reddit.com/r/Python/comments/xop8g2/i_wrote_a_program_in_python_that_cycles_through/)
-- [Using .wx to create a label that can’t be edited.](https://www.reddit.com/r/Python/comments/xooqo1/using_wx_to_create_a_label_that_cant_be_edited/)
 <!-- BLOG-POST-LIST:END -->
