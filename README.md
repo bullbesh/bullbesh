@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Developing RESTful APIs with Python and Flask](https://www.reddit.com/r/Python/comments/xpptfv/developing_restful_apis_with_python_and_flask/)
+- [How to remove simple black lines in the morphed image?](https://www.reddit.com/r/Python/comments/xppo1s/how_to_remove_simple_black_lines_in_the_morphed/)
+- [Running Python Script Online](https://www.reddit.com/r/Python/comments/xpoxrh/running_python_script_online/)
 - [What is the str&lpar;&rpar; function in Python?](https://www.reddit.com/r/Python/comments/xpnsmc/what_is_the_str_function_in_python/)
 - [txtai 5.0 released - build semantic search applications and workflows](https://www.reddit.com/r/Python/comments/xpnbwo/txtai_50_released_build_semantic_search/)
-- [What do you think about tox?](https://www.reddit.com/r/Python/comments/xpn9y9/what_do_you_think_about_tox/)
-- [I made a hole simulator](https://www.reddit.com/r/Python/comments/xpk7dx/i_made_a_hole_simulator/)
-- [How to display art and create typewriter effect for your ASCII game!](https://www.reddit.com/r/Python/comments/xpj0b8/how_to_display_art_and_create_typewriter_effect/)
 <!-- BLOG-POST-LIST:END -->
