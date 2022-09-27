@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How can I handle &quot;Depth &lpar;% of base&rpar;&quot; from Python &lpar;using the Openpyxl module&rpar;?](https://www.reddit.com/r/Python/comments/xpqfja/how_can_i_handle_depth_of_base_from_python_using/)
+- [arsenalgear-py v1.3.1: a Python library with general purpose utils &lpar;functions, classes, etc...&rpar;](https://www.reddit.com/r/Python/comments/xpq6es/arsenalgearpy_v131_a_python_library_with_general/)
+- [Jeff Heer &lpar;D3.js co-creator&rpar; Data Exploration Course](https://www.reddit.com/r/Python/comments/xpq5d6/jeff_heer_d3js_cocreator_data_exploration_course/)
 - [Developing RESTful APIs with Python and Flask](https://www.reddit.com/r/Python/comments/xpptfv/developing_restful_apis_with_python_and_flask/)
 - [How to remove simple black lines in the morphed image?](https://www.reddit.com/r/Python/comments/xppo1s/how_to_remove_simple_black_lines_in_the_morphed/)
-- [Running Python Script Online](https://www.reddit.com/r/Python/comments/xpoxrh/running_python_script_online/)
-- [What is the str&lpar;&rpar; function in Python?](https://www.reddit.com/r/Python/comments/xpnsmc/what_is_the_str_function_in_python/)
-- [txtai 5.0 released - build semantic search applications and workflows](https://www.reddit.com/r/Python/comments/xpnbwo/txtai_50_released_build_semantic_search/)
 <!-- BLOG-POST-LIST:END -->
