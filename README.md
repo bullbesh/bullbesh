@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [google-form-cracker: AIM-9 Sidewinder for google forms](https://www.reddit.com/r/Python/comments/xp2518/googleformcracker_aim9_sidewinder_for_google_forms/)
+- [Any way I can learn python for free,if so plz recommend resources](https://www.reddit.com/r/Python/comments/xp0klj/any_way_i_can_learn_python_for_freeif_so_plz/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/xp0c2v/tuesday_daily_thread_advanced_questions/)
 - [Pandas Groupby Warning - Practical Business Python](https://www.reddit.com/r/Python/comments/xoyeyd/pandas_groupby_warning_practical_business_python/)
 - [I made an 8 minute primer on OpenAI&#39;s Whisper speech recognition model with English, German, and Japanese examples](https://www.reddit.com/r/Python/comments/xox2ih/i_made_an_8_minute_primer_on_openais_whisper/)
-- [Interesting use cases for a TypedDict](https://www.reddit.com/r/Python/comments/xovtf0/interesting_use_cases_for_a_typeddict/)
-- [VirtualEnv: Why doesn&#39;t python windows symlink env/bin to env/scripts?](https://www.reddit.com/r/Python/comments/xouaew/virtualenv_why_doesnt_python_windows_symlink/)
-- [11 hour of free python course for beginners.](https://www.reddit.com/r/Python/comments/xou4yd/11_hour_of_free_python_course_for_beginners/)
 <!-- BLOG-POST-LIST:END -->
