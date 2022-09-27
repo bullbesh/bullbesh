@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Upsample and Downsample raster in python using rioxarray](https://www.reddit.com/r/Python/comments/xpcbeq/upsample_and_downsample_raster_in_python_using/)
 - [Calling C++ function in Python](https://www.reddit.com/r/Python/comments/xpbdci/calling_c_function_in_python/)
 - [Yesterday start/end timestamp](https://www.reddit.com/r/Python/comments/xpb1oj/yesterday_startend_timestamp/)
 - [Making python fast for free - adventures with mypyc](https://www.reddit.com/r/Python/comments/xpamlp/making_python_fast_for_free_adventures_with_mypyc/)
 - [Creating Flappy Bird &lpar;Landscaped Edition&rpar; in Python [Timelapse]](https://www.reddit.com/r/Python/comments/xp9sp7/creating_flappy_bird_landscaped_edition_in_python/)
-- [Scrap PDF&#39;s using python](https://www.reddit.com/r/Python/comments/xp7n7x/scrap_pdfs_using_python/)
 <!-- BLOG-POST-LIST:END -->
