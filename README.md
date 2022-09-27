@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What do you think about tox?](https://www.reddit.com/r/Python/comments/xpn9y9/what_do_you_think_about_tox/)
 - [I made a hole simulator](https://www.reddit.com/r/Python/comments/xpk7dx/i_made_a_hole_simulator/)
 - [How to display art and create typewriter effect for your ASCII game!](https://www.reddit.com/r/Python/comments/xpj0b8/how_to_display_art_and_create_typewriter_effect/)
 - [Vacancies and actuality of Python](https://www.reddit.com/r/Python/comments/xpi9sj/vacancies_and_actuality_of_python/)
 - [Python internationalization library](https://www.reddit.com/r/Python/comments/xpg80d/python_internationalization_library/)
-- [Deadpool drawn in low poly art](https://www.reddit.com/r/Python/comments/xpenfo/deadpool_drawn_in_low_poly_art/)
 <!-- BLOG-POST-LIST:END -->
