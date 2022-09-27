@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the str&lpar;&rpar; function in Python?](https://www.reddit.com/r/Python/comments/xpnsmc/what_is_the_str_function_in_python/)
+- [txtai 5.0 released - build semantic search applications and workflows](https://www.reddit.com/r/Python/comments/xpnbwo/txtai_50_released_build_semantic_search/)
 - [What do you think about tox?](https://www.reddit.com/r/Python/comments/xpn9y9/what_do_you_think_about_tox/)
 - [I made a hole simulator](https://www.reddit.com/r/Python/comments/xpk7dx/i_made_a_hole_simulator/)
 - [How to display art and create typewriter effect for your ASCII game!](https://www.reddit.com/r/Python/comments/xpj0b8/how_to_display_art_and_create_typewriter_effect/)
-- [Vacancies and actuality of Python](https://www.reddit.com/r/Python/comments/xpi9sj/vacancies_and_actuality_of_python/)
-- [Python internationalization library](https://www.reddit.com/r/Python/comments/xpg80d/python_internationalization_library/)
 <!-- BLOG-POST-LIST:END -->
