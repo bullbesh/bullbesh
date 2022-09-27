@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [60 articles on machine learning, MLOps, and programming for data scientists](https://www.reddit.com/r/Python/comments/xpu953/60_articles_on_machine_learning_mlops_and/)
+- [I wrote a script to fill out a spreadsheet so I didn&#39;t have to](https://www.reddit.com/r/Python/comments/xpt9mt/i_wrote_a_script_to_fill_out_a_spreadsheet_so_i/)
 - [If someone was to start learning Python tomorrow...](https://www.reddit.com/r/Python/comments/xpsgoi/if_someone_was_to_start_learning_python_tomorrow/)
 - [How can I handle &quot;Depth &lpar;% of base&rpar;&quot; from Python &lpar;using the Openpyxl module&rpar;?](https://www.reddit.com/r/Python/comments/xpqfja/how_can_i_handle_depth_of_base_from_python_using/)
 - [arsenalgear-py v1.3.1: a Python library with general purpose utils &lpar;functions, classes, etc...&rpar;](https://www.reddit.com/r/Python/comments/xpq6es/arsenalgearpy_v131_a_python_library_with_general/)
-- [Jeff Heer &lpar;D3.js co-creator&rpar; Data Exploration Course](https://www.reddit.com/r/Python/comments/xpq5d6/jeff_heer_d3js_cocreator_data_exploration_course/)
-- [Developing RESTful APIs with Python and Flask](https://www.reddit.com/r/Python/comments/xpptfv/developing_restful_apis_with_python_and_flask/)
 <!-- BLOG-POST-LIST:END -->
