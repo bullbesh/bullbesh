@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [An effective, simple, and async security library for the Sanic framework.](https://www.reddit.com/r/Python/comments/xqef5g/an_effective_simple_and_async_security_library/)
 - [Bad Wordle in Python](https://www.reddit.com/r/Python/comments/xqctbx/bad_wordle_in_python/)
 - [Pytest for Beginners](https://www.reddit.com/r/Python/comments/xqch9f/pytest_for_beginners/)
 - [Training Custom Object Detection with YOLO in Python](https://www.reddit.com/r/Python/comments/xqbqa3/training_custom_object_detection_with_yolo_in/)
 - [arsenalgear-py 1.3.1: a library with general purpose Python utils](https://www.reddit.com/r/Python/comments/xqan9h/arsenalgearpy_131_a_library_with_general_purpose/)
-- [macOS apple silcon](https://www.reddit.com/r/Python/comments/xqalre/macos_apple_silcon/)
 <!-- BLOG-POST-LIST:END -->
