@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.11rc2 is out!](https://www.reddit.com/r/Python/comments/xq1z3t/python_311rc2_is_out/)
+- [Engineering Calculation Report](https://www.reddit.com/r/Python/comments/xq0fdr/engineering_calculation_report/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/xpwwbi/wednesday_daily_thread_beginner_questions/)
 - [Monty Hall problem, simulated in Python using](https://www.reddit.com/r/Python/comments/xpvngd/monty_hall_problem_simulated_in_python_using/)
 - [60 articles on machine learning, MLOps, and programming for data scientists](https://www.reddit.com/r/Python/comments/xpu953/60_articles_on_machine_learning_mlops_and/)
-- [I wrote a script to fill out a spreadsheet so I didn&#39;t have to](https://www.reddit.com/r/Python/comments/xpt9mt/i_wrote_a_script_to_fill_out_a_spreadsheet_so_i/)
-- [If someone was to start learning Python tomorrow...](https://www.reddit.com/r/Python/comments/xpsgoi/if_someone_was_to_start_learning_python_tomorrow/)
 <!-- BLOG-POST-LIST:END -->
