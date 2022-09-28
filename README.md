@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Training Custom Object Detection with YOLO in Python](https://www.reddit.com/r/Python/comments/xqbqa3/training_custom_object_detection_with_yolo_in/)
+- [arsenalgear-py 1.3.1: a library with general purpose Python utils](https://www.reddit.com/r/Python/comments/xqan9h/arsenalgearpy_131_a_library_with_general_purpose/)
+- [macOS apple silcon](https://www.reddit.com/r/Python/comments/xqalre/macos_apple_silcon/)
 - [Best Python Courses on Udemy | Python Bootcamp Udemy -](https://www.reddit.com/r/Python/comments/xq92dx/best_python_courses_on_udemy_python_bootcamp_udemy/)
 - [Analysts of Reddit - What tasks do you find yourself repeating all the time?](https://www.reddit.com/r/Python/comments/xq7mbu/analysts_of_reddit_what_tasks_do_you_find/)
-- [I built a platform for helping Django developers to find a new job... and it&#39;s work pretty well !](https://www.reddit.com/r/Python/comments/xq7kk3/i_built_a_platform_for_helping_django_developers/)
-- [I want a &quot;__dict__&lpar;self&rpar;&quot; dunder method! Who do we complain to?/How do we do it ourselves?](https://www.reddit.com/r/Python/comments/xq5zi5/i_want_a_dict_self_dunder_method_who_do_we/)
-- [Spark-NLP 4.2.0: Wav2Vec2 for Automatic Speech Recognition &lpar;ASR&rpar;, TAPAS for Table Question Answering, CamemBERT for Token Classification, new evaluation metrics for external datasets in all classifiers, much faster EntityRuler, over 3000+ state-of-the-art models &amp; pipelines, and many more!](https://www.reddit.com/r/Python/comments/xq5ywk/sparknlp_420_wav2vec2_for_automatic_speech/)
 <!-- BLOG-POST-LIST:END -->
