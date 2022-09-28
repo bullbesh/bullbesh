@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [App with bit sized coding challenges](https://www.reddit.com/r/Python/comments/xqj55c/app_with_bit_sized_coding_challenges/)
+- [API Monitor With Email Notifications](https://www.reddit.com/r/Python/comments/xqj03j/api_monitor_with_email_notifications/)
 - [Shrink or Compress Data](https://www.reddit.com/r/Python/comments/xqfdkk/shrink_or_compress_data/)
 - [Has anyone used Python flash cards by Eric Matthes for teaching?](https://www.reddit.com/r/Python/comments/xqet3f/has_anyone_used_python_flash_cards_by_eric/)
 - [An effective, simple, and async security library for the Sanic framework.](https://www.reddit.com/r/Python/comments/xqef5g/an_effective_simple_and_async_security_library/)
-- [Bad Wordle in Python](https://www.reddit.com/r/Python/comments/xqctbx/bad_wordle_in_python/)
-- [Pytest for Beginners](https://www.reddit.com/r/Python/comments/xqch9f/pytest_for_beginners/)
 <!-- BLOG-POST-LIST:END -->
