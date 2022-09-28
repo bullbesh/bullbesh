@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free Alternatives to Heroku?](https://www.reddit.com/r/Python/comments/xqpuqf/free_alternatives_to_heroku/)
+- [code mentor?](https://www.reddit.com/r/Python/comments/xqpoho/code_mentor/)
 - [do the two snakes have a name](https://www.reddit.com/r/Python/comments/xqot6g/do_the_two_snakes_have_a_name/)
 - [Thank GOD for Poetry!](https://www.reddit.com/r/Python/comments/xqoi36/thank_god_for_poetry/)
 - [Finding trade support and resistance levels using Python](https://www.reddit.com/r/Python/comments/xqn43x/finding_trade_support_and_resistance_levels_using/)
-- [while loops](https://www.reddit.com/r/Python/comments/xqm6j1/while_loops/)
-- [Speech to Text that actually works! My first impressions of &quot;Whisper&quot; from OpenAI.](https://www.reddit.com/r/Python/comments/xqlay2/speech_to_text_that_actually_works_my_first/)
 <!-- BLOG-POST-LIST:END -->
