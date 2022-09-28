@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Samila v0.9: Colorful Generative Art](https://www.reddit.com/r/Python/comments/xqqjec/samila_v09_colorful_generative_art/)
 - [Free Alternatives to Heroku?](https://www.reddit.com/r/Python/comments/xqpuqf/free_alternatives_to_heroku/)
 - [code mentor?](https://www.reddit.com/r/Python/comments/xqpoho/code_mentor/)
 - [do the two snakes have a name](https://www.reddit.com/r/Python/comments/xqot6g/do_the_two_snakes_have_a_name/)
 - [Thank GOD for Poetry!](https://www.reddit.com/r/Python/comments/xqoi36/thank_god_for_poetry/)
-- [Finding trade support and resistance levels using Python](https://www.reddit.com/r/Python/comments/xqn43x/finding_trade_support_and_resistance_levels_using/)
 <!-- BLOG-POST-LIST:END -->
