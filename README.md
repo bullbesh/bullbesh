@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/xpwwbi/wednesday_daily_thread_beginner_questions/)
 - [Monty Hall problem, simulated in Python using](https://www.reddit.com/r/Python/comments/xpvngd/monty_hall_problem_simulated_in_python_using/)
 - [60 articles on machine learning, MLOps, and programming for data scientists](https://www.reddit.com/r/Python/comments/xpu953/60_articles_on_machine_learning_mlops_and/)
 - [I wrote a script to fill out a spreadsheet so I didn&#39;t have to](https://www.reddit.com/r/Python/comments/xpt9mt/i_wrote_a_script_to_fill_out_a_spreadsheet_so_i/)
 - [If someone was to start learning Python tomorrow...](https://www.reddit.com/r/Python/comments/xpsgoi/if_someone_was_to_start_learning_python_tomorrow/)
-- [How can I handle &quot;Depth &lpar;% of base&rpar;&quot; from Python &lpar;using the Openpyxl module&rpar;?](https://www.reddit.com/r/Python/comments/xpqfja/how_can_i_handle_depth_of_base_from_python_using/)
 <!-- BLOG-POST-LIST:END -->
