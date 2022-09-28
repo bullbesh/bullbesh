@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finding trade support and resistance levels using Python](https://www.reddit.com/r/Python/comments/xqn43x/finding_trade_support_and_resistance_levels_using/)
+- [First year CS. Binary to decimal conversion](https://www.reddit.com/r/Python/comments/xqmx7q/first_year_cs_binary_to_decimal_conversion/)
+- [while loops](https://www.reddit.com/r/Python/comments/xqm6j1/while_loops/)
 - [Speech to Text that actually works! My first impressions of &quot;Whisper&quot; from OpenAI.](https://www.reddit.com/r/Python/comments/xqlay2/speech_to_text_that_actually_works_my_first/)
 - [Created a CLI to manage virtual envs with pyenv-win](https://www.reddit.com/r/Python/comments/xqjmd9/created_a_cli_to_manage_virtual_envs_with_pyenvwin/)
-- [efficient way of iterating twice over same iterable](https://www.reddit.com/r/Python/comments/xqjdwq/efficient_way_of_iterating_twice_over_same/)
-- [App with bit sized coding challenges](https://www.reddit.com/r/Python/comments/xqj55c/app_with_bit_sized_coding_challenges/)
-- [API Monitor With Email Notifications](https://www.reddit.com/r/Python/comments/xqj03j/api_monitor_with_email_notifications/)
 <!-- BLOG-POST-LIST:END -->
