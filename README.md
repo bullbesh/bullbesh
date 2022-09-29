@@ -11,6 +11,6 @@
 - [Python Hackerrank Day 4 of Code | Classes vs Intances](https://www.reddit.com/r/Python/comments/xqt7r6/python_hackerrank_day_4_of_code_classes_vs/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/xqsk02/thursday_daily_thread_python_careers_courses_and/)
 - [Samila v0.9: Colorful Generative Art](https://www.reddit.com/r/Python/comments/xqqjec/samila_v09_colorful_generative_art/)
-- [Free Alternatives to Heroku?](https://www.reddit.com/r/Python/comments/xqpuqf/free_alternatives_to_heroku/)
-- [code mentor?](https://www.reddit.com/r/Python/comments/xqpoho/code_mentor/)
+- [do the two snakes have a name](https://www.reddit.com/r/Python/comments/xqot6g/do_the_two_snakes_have_a_name/)
+- [Thank GOD for Poetry!](https://www.reddit.com/r/Python/comments/xqoi36/thank_god_for_poetry/)
 <!-- BLOG-POST-LIST:END -->
