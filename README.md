@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - dosisod/refurb: A tool for refurbishing and modernizing Python codebases](https://www.reddit.com/r/Python/comments/xr5nqp/github_dosisodrefurb_a_tool_for_refurbishing_and/)
+- [Making Python a compiled language](https://www.reddit.com/r/Python/comments/xr5cvp/making_python_a_compiled_language/)
 - [Any Python Blockchain devs out there?](https://www.reddit.com/r/Python/comments/xr4hdr/any_python_blockchain_devs_out_there/)
 - [From Data Science to Software Engineering](https://www.reddit.com/r/Python/comments/xr2zfz/from_data_science_to_software_engineering/)
 - [Whisper challenge: The Jabberwocky](https://www.reddit.com/r/Python/comments/xr1ush/whisper_challenge_the_jabberwocky/)
-- [How to explain Python programming language to a kid?](https://www.reddit.com/r/Python/comments/xr0gae/how_to_explain_python_programming_language_to_a/)
-- [Python Hackerrank Day 4 of Code | Classes vs Intances](https://www.reddit.com/r/Python/comments/xqt7r6/python_hackerrank_day_4_of_code_classes_vs/)
 <!-- BLOG-POST-LIST:END -->
