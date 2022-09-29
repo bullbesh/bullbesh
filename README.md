@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[OC] What programming languages do data scientists use?](https://www.reddit.com/r/Python/comments/xr80hc/oc_what_programming_languages_do_data_scientists/)
 - [GitHub - dosisod/refurb: A tool for refurbishing and modernizing Python codebases](https://www.reddit.com/r/Python/comments/xr5nqp/github_dosisodrefurb_a_tool_for_refurbishing_and/)
 - [Making Python a compiled language](https://www.reddit.com/r/Python/comments/xr5cvp/making_python_a_compiled_language/)
 - [Any Python Blockchain devs out there?](https://www.reddit.com/r/Python/comments/xr4hdr/any_python_blockchain_devs_out_there/)
 - [From Data Science to Software Engineering](https://www.reddit.com/r/Python/comments/xr2zfz/from_data_science_to_software_engineering/)
-- [Whisper challenge: The Jabberwocky](https://www.reddit.com/r/Python/comments/xr1ush/whisper_challenge_the_jabberwocky/)
 <!-- BLOG-POST-LIST:END -->
