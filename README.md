@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Please help](https://www.reddit.com/r/Python/comments/xrm8mh/please_help/)
+- [Please need help](https://www.reddit.com/r/Python/comments/xrm15j/please_need_help/)
+- [Need help please](https://www.reddit.com/r/Python/comments/xrlne2/need_help_please/)
 - [Which built-in modules have CLI functionality?](https://www.reddit.com/r/Python/comments/xrjhzn/which_builtin_modules_have_cli_functionality/)
 - [How to get into Python Programming](https://www.reddit.com/r/Python/comments/xrjh7a/how_to_get_into_python_programming/)
-- [How did you started with python? What was your first project?](https://www.reddit.com/r/Python/comments/xrhscb/how_did_you_started_with_python_what_was_your/)
-- [Detect constant sound on/off](https://www.reddit.com/r/Python/comments/xrfsux/detect_constant_sound_onoff/)
-- [what is boundary requests python](https://www.reddit.com/r/Python/comments/xraqir/what_is_boundary_requests_python/)
 <!-- BLOG-POST-LIST:END -->
