@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Please help](https://www.reddit.com/r/Python/comments/xrm8mh/please_help/)
-- [Please need help](https://www.reddit.com/r/Python/comments/xrm15j/please_need_help/)
-- [Need help please](https://www.reddit.com/r/Python/comments/xrlne2/need_help_please/)
+- [Changing the ** to ^](https://www.reddit.com/r/Python/comments/xrq45w/changing_the_to/)
+- [Python Robot](https://www.reddit.com/r/Python/comments/xro7e4/python_robot/)
+- [best way to test requests and responses in pytest?](https://www.reddit.com/r/Python/comments/xrmnh0/best_way_to_test_requests_and_responses_in_pytest/)
 - [Which built-in modules have CLI functionality?](https://www.reddit.com/r/Python/comments/xrjhzn/which_builtin_modules_have_cli_functionality/)
 - [How to get into Python Programming](https://www.reddit.com/r/Python/comments/xrjh7a/how_to_get_into_python_programming/)
 <!-- BLOG-POST-LIST:END -->
