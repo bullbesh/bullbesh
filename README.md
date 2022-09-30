@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solved Autonomous Driving with 4 lines of Code](https://www.reddit.com/r/Python/comments/xs7fyf/solved_autonomous_driving_with_4_lines_of_code/)
+- [Geolocation-API - Town / City geolocations with FastAPI &amp; Mongo](https://www.reddit.com/r/Python/comments/xs6icp/geolocationapi_town_city_geolocations_with/)
 - [Building a Highly Scalable Data Streaming Pipeline in Python](https://www.reddit.com/r/Python/comments/xs43pm/building_a_highly_scalable_data_streaming/)
 - [A Complete Guide to Logging in Python with Loguru](https://www.reddit.com/r/Python/comments/xs2rdf/a_complete_guide_to_logging_in_python_with_loguru/)
 - [One minute Python videos](https://www.reddit.com/r/Python/comments/xs2jzh/one_minute_python_videos/)
-- [Trading Exchange Engine Simulator](https://www.reddit.com/r/Python/comments/xs25kf/trading_exchange_engine_simulator/)
-- [I&#39;ve built an app to show how to build a complete web app](https://www.reddit.com/r/Python/comments/xs184r/ive_built_an_app_to_show_how_to_build_a_complete/)
 <!-- BLOG-POST-LIST:END -->
