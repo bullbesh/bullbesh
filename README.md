@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Doing Maths with Python - A collection of articles](https://www.reddit.com/r/Python/comments/xrvg99/doing_maths_with_python_a_collection_of_articles/)
 - [GitHub - Arfius/apijet: A command line tool to deploy RestApi](https://www.reddit.com/r/Python/comments/xruiok/github_arfiusapijet_a_command_line_tool_to_deploy/)
 - [New Programmers...](https://www.reddit.com/r/Python/comments/xrt6yz/new_programmers/)
 - [Python Indentation: Is It That Bad a Thing?](https://www.reddit.com/r/Python/comments/xrt0aj/python_indentation_is_it_that_bad_a_thing/)
 - [versionedobj 1.0.0 is out!](https://www.reddit.com/r/Python/comments/xrqluz/versionedobj_100_is_out/)
-- [best way to test requests and responses in pytest?](https://www.reddit.com/r/Python/comments/xrmnh0/best_way_to_test_requests_and_responses_in_pytest/)
 <!-- BLOG-POST-LIST:END -->
