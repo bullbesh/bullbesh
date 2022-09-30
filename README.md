@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a website to help people in finding remote jobs](https://www.reddit.com/r/Python/comments/xs460n/i_built_a_website_to_help_people_in_finding/)
+- [Building Automated Podcast Videos Using Python](https://www.reddit.com/r/Python/comments/xs45ey/building_automated_podcast_videos_using_python/)
+- [Building a Highly Scalable Data Streaming Pipeline in Python](https://www.reddit.com/r/Python/comments/xs43pm/building_a_highly_scalable_data_streaming/)
+- [Green Python SDK/API Hackathon: $40k top prize, $100k pool. Microsoft, Intel, Goldman Sachs](https://www.reddit.com/r/Python/comments/xs33cu/green_python_sdkapi_hackathon_40k_top_prize_100k/)
 - [A Complete Guide to Logging in Python with Loguru](https://www.reddit.com/r/Python/comments/xs2rdf/a_complete_guide_to_logging_in_python_with_loguru/)
-- [One minute Python videos](https://www.reddit.com/r/Python/comments/xs2jzh/one_minute_python_videos/)
-- [Trading Exchange Engine Simulator](https://www.reddit.com/r/Python/comments/xs25kf/trading_exchange_engine_simulator/)
-- [I&#39;ve built an app to show how to build a complete web app](https://www.reddit.com/r/Python/comments/xs184r/ive_built_an_app_to_show_how_to_build_a_complete/)
-- [⚡FastGen 0.2.5, Poetry and ORMs are now supported!](https://www.reddit.com/r/Python/comments/xs1498/fastgen_025_poetry_and_orms_are_now_supported/)
 <!-- BLOG-POST-LIST:END -->
