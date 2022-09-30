@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it recommended to use `gc.collect&lpar;&rpar;` in production code?](https://www.reddit.com/r/Python/comments/xs8kqz/is_it_recommended_to_use_gccollect_in_production/)
+- [If you could choose any Python web framework to build APIs for a startup, which one would you choose and why?](https://www.reddit.com/r/Python/comments/xs7s6a/if_you_could_choose_any_python_web_framework_to/)
+- [What is defaultdict&lpar;set&rpar; ???](https://www.reddit.com/r/Python/comments/xs7in0/what_is_defaultdictset/)
 - [Solved Autonomous Driving with 4 lines of Code](https://www.reddit.com/r/Python/comments/xs7fyf/solved_autonomous_driving_with_4_lines_of_code/)
 - [Geolocation-API - Town / City geolocations with FastAPI &amp; Mongo](https://www.reddit.com/r/Python/comments/xs6icp/geolocationapi_town_city_geolocations_with/)
-- [Building a Highly Scalable Data Streaming Pipeline in Python](https://www.reddit.com/r/Python/comments/xs43pm/building_a_highly_scalable_data_streaming/)
-- [A Complete Guide to Logging in Python with Loguru](https://www.reddit.com/r/Python/comments/xs2rdf/a_complete_guide_to_logging_in_python_with_loguru/)
-- [One minute Python videos](https://www.reddit.com/r/Python/comments/xs2jzh/one_minute_python_videos/)
 <!-- BLOG-POST-LIST:END -->
