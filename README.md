@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Started Learning python](https://www.reddit.com/r/Python/comments/xrxqsb/started_learning_python/)
+- [Python Turtle &lpar;Quick and easy way to visualize, code inside&rpar;](https://www.reddit.com/r/Python/comments/xrxwav/python_turtle_quick_and_easy_way_to_visualize/)
 - [Do I need to do standardization after dimensionality reduction?](https://www.reddit.com/r/Python/comments/xrxaze/do_i_need_to_do_standardization_after/)
 - [Doing Maths with Python - A collection of articles](https://www.reddit.com/r/Python/comments/xrvg99/doing_maths_with_python_a_collection_of_articles/)
 - [GitHub - Arfius/apijet: A command line tool to deploy RestApi](https://www.reddit.com/r/Python/comments/xruiok/github_arfiusapijet_a_command_line_tool_to_deploy/)
