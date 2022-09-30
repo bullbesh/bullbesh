@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve built an app to show how to build a complete web app](https://www.reddit.com/r/Python/comments/xs184r/ive_built_an_app_to_show_how_to_build_a_complete/)
+- [⚡FastGen 0.2.5, Poetry and ORMs are now supported!](https://www.reddit.com/r/Python/comments/xs1498/fastgen_025_poetry_and_orms_are_now_supported/)
 - [Python Turtle &lpar;Quick and easy way to visualize, code inside&rpar;](https://www.reddit.com/r/Python/comments/xrxwav/python_turtle_quick_and_easy_way_to_visualize/)
 - [Do I need to do standardization after dimensionality reduction?](https://www.reddit.com/r/Python/comments/xrxaze/do_i_need_to_do_standardization_after/)
 - [Doing Maths with Python - A collection of articles](https://www.reddit.com/r/Python/comments/xrvg99/doing_maths_with_python_a_collection_of_articles/)
-- [GitHub - Arfius/apijet: A command line tool to deploy RestApi](https://www.reddit.com/r/Python/comments/xruiok/github_arfiusapijet_a_command_line_tool_to_deploy/)
-- [New Programmers...](https://www.reddit.com/r/Python/comments/xrt6yz/new_programmers/)
 <!-- BLOG-POST-LIST:END -->
