@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [as somebody that is just beginning to learn python through udemy courses what advice might any of you have for someone lacking consistency?](https://www.reddit.com/r/Python/comments/xsciua/as_somebody_that_is_just_beginning_to_learn/)
+- [Which ffmpeg wrapper should i choose?](https://www.reddit.com/r/Python/comments/xsc35g/which_ffmpeg_wrapper_should_i_choose/)
+- [Python E-commerce what mapping 1million files looks like](https://www.reddit.com/r/Python/comments/xsbsfn/python_ecommerce_what_mapping_1million_files/)
+- [I made a Collatz Conjecture calculator that uses sys.maxsize](https://www.reddit.com/r/Python/comments/xsbolf/i_made_a_collatz_conjecture_calculator_that_uses/)
 - [Is it ok to learn Python with the motivation of getting a job?](https://www.reddit.com/r/Python/comments/xsbdz2/is_it_ok_to_learn_python_with_the_motivation_of/)
-- [Modern game login UI made with Tkinter and CustomTkinter](https://www.reddit.com/r/Python/comments/xsa89l/modern_game_login_ui_made_with_tkinter_and/)
-- [Is it recommended to use `gc.collect&lpar;&rpar;` in production code?](https://www.reddit.com/r/Python/comments/xs8kqz/is_it_recommended_to_use_gccollect_in_production/)
-- [If you could choose any Python web framework to build APIs for a startup, which one would you choose and why?](https://www.reddit.com/r/Python/comments/xs7s6a/if_you_could_choose_any_python_web_framework_to/)
-- [Geolocation-API - Town / City geolocations with FastAPI &amp; Mongo](https://www.reddit.com/r/Python/comments/xs6icp/geolocationapi_town_city_geolocations_with/)
 <!-- BLOG-POST-LIST:END -->
