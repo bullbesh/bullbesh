@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spotless - Declutter your Mac desktop.](https://www.reddit.com/r/Python/comments/xt6iei/spotless_declutter_your_mac_desktop/)
+- [I created an encryption tool that allows you to encrypt a text of any length into a hexadecimal number or into an image by providing it a password that will affect the entire encryption process.](https://www.reddit.com/r/Python/comments/xt60ql/i_created_an_encryption_tool_that_allows_you_to/)
 - [What to Watch](https://www.reddit.com/r/Python/comments/xt2x5y/what_to_watch/)
 - [Pip package tricks that will make your Python development experience so much easier](https://www.reddit.com/r/Python/comments/xsxtdy/pip_package_tricks_that_will_make_your_python/)
 - [nume](https://www.reddit.com/r/Python/comments/xsxae2/nume/)
-- [PyUpdater is no longer maintained. What now? - Tufup: automated updates for stand-alone Python applications.](https://www.reddit.com/r/Python/comments/xsu2tn/pyupdater_is_no_longer_maintained_what_now_tufup/)
-- [Looking for contributors and maintainers](https://www.reddit.com/r/Python/comments/xstfnx/looking_for_contributors_and_maintainers/)
 <!-- BLOG-POST-LIST:END -->
