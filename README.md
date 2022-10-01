@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Scrape Google Search Results Using Python &lpar;A Comprehensive Guide&rpar;](https://www.reddit.com/r/Python/comments/xsnttn/how_to_scrape_google_search_results_using_python/)
 - [Python library to convert list of alphabets to sentences.](https://www.reddit.com/r/Python/comments/xsndv6/python_library_to_convert_list_of_alphabets_to/)
 - [EVA: Querying videos using deep learning](https://www.reddit.com/r/Python/comments/xsm146/eva_querying_videos_using_deep_learning/)
 - [It never does what it must](https://www.reddit.com/r/Python/comments/xsl4fq/it_never_does_what_it_must/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/xsglc4/saturday_daily_thread_resource_request_and/)
-- [I made a Collatz Conjecture calculator that uses sys.maxsize](https://www.reddit.com/r/Python/comments/xsbolf/i_made_a_collatz_conjecture_calculator_that_uses/)
 <!-- BLOG-POST-LIST:END -->
