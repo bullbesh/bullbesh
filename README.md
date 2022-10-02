@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Has anyone made any Youtube bot for view count..](https://www.reddit.com/r/Python/comments/xterov/has_anyone_made_any_youtube_bot_for_view_count/)
+- [Error when install scanpy on Jupyter notebook](https://www.reddit.com/r/Python/comments/xtdczj/error_when_install_scanpy_on_jupyter_notebook/)
 - [My new python package](https://www.reddit.com/r/Python/comments/xtcule/my_new_python_package/)
 - [Whisper python Web UI, is a general-purpose speech recognition model by OpenAI](https://www.reddit.com/r/Python/comments/xtcfcl/whisper_python_web_ui_is_a_generalpurpose_speech/)
 - [What are some common things you look at while reviewing Pull requests?](https://www.reddit.com/r/Python/comments/xtac64/what_are_some_common_things_you_look_at_while/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/xta3ka/sunday_daily_thread_whats_everyone_working_on/)
-- [I created an encryption tool that allows you to encrypt a text of any length into a hexadecimal number or into an image by providing it a password that will affect the entire encryption process.](https://www.reddit.com/r/Python/comments/xt60ql/i_created_an_encryption_tool_that_allows_you_to/)
 <!-- BLOG-POST-LIST:END -->
