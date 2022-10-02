@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [small changes big results](https://www.reddit.com/r/Python/comments/xtlec8/small_changes_big_results/)
+- [Python 3.10.8 Upcoming Improvements](https://www.reddit.com/r/Python/comments/xtkib4/python_3108_upcoming_improvements/)
 - [How can I make the transition from Notebooks to OOP Python scripts?](https://www.reddit.com/r/Python/comments/xtjbz8/how_can_i_make_the_transition_from_notebooks_to/)
 - [My Python Image Editor - ImaGen. [Free Download link]. I&#39;ve started making devlog about it](https://www.reddit.com/r/Python/comments/xth5dg/my_python_image_editor_imagen_free_download_link/)
 - [My new python package](https://www.reddit.com/r/Python/comments/xtcule/my_new_python_package/)
-- [What are some common things you look at while reviewing Pull requests?](https://www.reddit.com/r/Python/comments/xtac64/what_are_some_common_things_you_look_at_while/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/xta3ka/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
