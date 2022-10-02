@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are you good at math?Why do you like it ?](https://www.reddit.com/r/Python/comments/xtr2fg/are_you_good_at_mathwhy_do_you_like_it/)
+- [flake8-comments: Report redundant comments in python code](https://www.reddit.com/r/Python/comments/xtqydf/flake8comments_report_redundant_comments_in/)
 - [DotA 2 Roshan Death Timer - DotA 2 Roshan death timer macros, using computer vision.](https://www.reddit.com/r/Python/comments/xtp0sb/dota_2_roshan_death_timer_dota_2_roshan_death/)
 - [Could not find a version that satisfies torch1.10.0+cu113](https://www.reddit.com/r/Python/comments/xtofz3/could_not_find_a_version_that_satisfies/)
 - [Faster prototyping of local ract.js components in Dash Plotly visualizations using the dash-local-react-components package](https://www.reddit.com/r/Python/comments/xto24r/faster_prototyping_of_local_ractjs_components_in/)
-- [I wrote a Python script which can generate any city from the real world in Minecraft](https://www.reddit.com/r/Python/comments/xtmxsp/i_wrote_a_python_script_which_can_generate_any/)
-- [An unofficial API client to search players using the player&#39;s reference image and get the player Stats data from the Premier League](https://www.reddit.com/r/Python/comments/xtlp6u/an_unofficial_api_client_to_search_players_using/)
 <!-- BLOG-POST-LIST:END -->
