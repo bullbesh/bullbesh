@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sharing a scripting engine that I&#39;ve spent a week on &lpar;PyBot&rpar;](https://www.reddit.com/r/Python/comments/xusj46/sharing_a_scripting_engine_that_ive_spent_a_week/)
+- [Help - Python or Something Else](https://www.reddit.com/r/Python/comments/xus0vx/help_python_or_something_else/)
+- [nt2: a CLI converter between NestedText and JSON, YAML, or TOML](https://www.reddit.com/r/Python/comments/xurzji/nt2_a_cli_converter_between_nestedtext_and_json/)
 - [Gear | an experimental programming language written in python](https://www.reddit.com/r/Python/comments/xurg2b/gear_an_experimental_programming_language_written/)
 - [Python Mini Reference - Free PDF](https://www.reddit.com/r/Python/comments/xur67l/python_mini_reference_free_pdf/)
-- [Careers with Plotly](https://www.reddit.com/r/Python/comments/xupuau/careers_with_plotly/)
-- [Getting started with Rocksdb and Python | Adnan&#39;s Random bytes](https://www.reddit.com/r/Python/comments/xuop5q/getting_started_with_rocksdb_and_python_adnans/)
-- [Finding Projects and Libraries - Tips?](https://www.reddit.com/r/Python/comments/xuoi72/finding_projects_and_libraries_tips/)
 <!-- BLOG-POST-LIST:END -->
