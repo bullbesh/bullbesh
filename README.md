@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gear | an experimental programming language written in python](https://www.reddit.com/r/Python/comments/xurg2b/gear_an_experimental_programming_language_written/)
+- [Python Mini Reference - Free PDF](https://www.reddit.com/r/Python/comments/xur67l/python_mini_reference_free_pdf/)
 - [Careers with Plotly](https://www.reddit.com/r/Python/comments/xupuau/careers_with_plotly/)
-- [Created this animation for her during lunchtime using python turtle library? How is it? Will she like it?](https://www.reddit.com/r/Python/comments/xuori2/created_this_animation_for_her_during_lunchtime/)
 - [Getting started with Rocksdb and Python | Adnan&#39;s Random bytes](https://www.reddit.com/r/Python/comments/xuop5q/getting_started_with_rocksdb_and_python_adnans/)
 - [Finding Projects and Libraries - Tips?](https://www.reddit.com/r/Python/comments/xuoi72/finding_projects_and_libraries_tips/)
-- [I Created a Python Program to Automate Microsoft Rewards](https://www.reddit.com/r/Python/comments/xuoben/i_created_a_python_program_to_automate_microsoft/)
 <!-- BLOG-POST-LIST:END -->
