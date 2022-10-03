@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What sorting algorithm is this?](https://www.reddit.com/r/Python/comments/xuggr4/what_sorting_algorithm_is_this/)
+- [What kind of job is best suited for Python programmers](https://www.reddit.com/r/Python/comments/xug6b3/what_kind_of_job_is_best_suited_for_python/)
+- [How to add spaces in between every 4 letters?](https://www.reddit.com/r/Python/comments/xufoyw/how_to_add_spaces_in_between_every_4_letters/)
 - [Algorithmic Thinking with Python part 1 - Brute Force Algorithms](https://www.reddit.com/r/Python/comments/xue742/algorithmic_thinking_with_python_part_1_brute/)
 - [Beginner Python GUI](https://www.reddit.com/r/Python/comments/xuc7j3/beginner_python_gui/)
-- [My code for finding the largest element of a list seems to be fasters than python&#39;s inbuilt function for doing the same&lpar;max&lpar;&rpar;&rpar;... is this a trade for some other functionality?](https://www.reddit.com/r/Python/comments/xuc553/my_code_for_finding_the_largest_element_of_a_list/)
-- [Adding two binary numbers in python](https://www.reddit.com/r/Python/comments/xubd16/adding_two_binary_numbers_in_python/)
-- [Python Coding - How to make a Rock, Paper, Scissors GAME!](https://www.reddit.com/r/Python/comments/xuaajl/python_coding_how_to_make_a_rock_paper_scissors/)
 <!-- BLOG-POST-LIST:END -->
