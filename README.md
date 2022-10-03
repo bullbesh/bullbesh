@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How do I get 2 active Threads in python to share the same input values?](https://www.reddit.com/r/Python/comments/xu1ti0/how_do_i_get_2_active_threads_in_python_to_share/)
+- [ascii art with Python](https://www.reddit.com/r/Python/comments/xu5ugo/ascii_art_with_python/)
+- [I have just started learning Python &lpar;my first programming language&rpar;. What should be my journey&#39;s timeline if I want to good at AI and ML?](https://www.reddit.com/r/Python/comments/xu4dno/i_have_just_started_learning_python_my_first/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/xu3v9h/monday_daily_thread_project_ideas/)
 - [Which Python framework should I use to develop a mobile app for something like an encyclopedia?](https://www.reddit.com/r/Python/comments/xtxtdf/which_python_framework_should_i_use_to_develop_a/)
 - [Set Black &lpar;Dark Theme&rpar; Notepad saved for all time use?](https://www.reddit.com/r/Python/comments/xtwmno/set_black_dark_theme_notepad_saved_for_all_time/)
-- [Beanie equivalent for Postgres?](https://www.reddit.com/r/Python/comments/xtwb39/beanie_equivalent_for_postgres/)
-- [&quot;Arrow&quot; - Best python module to work with date and time](https://www.reddit.com/r/Python/comments/xtvmk0/arrow_best_python_module_to_work_with_date_and/)
 <!-- BLOG-POST-LIST:END -->
