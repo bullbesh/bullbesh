@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Careers with Plotly](https://www.reddit.com/r/Python/comments/xupuau/careers_with_plotly/)
+- [Created this animation for her during lunchtime using python turtle library? How is it? Will she like it?](https://www.reddit.com/r/Python/comments/xuori2/created_this_animation_for_her_during_lunchtime/)
+- [Getting started with Rocksdb and Python | Adnan&#39;s Random bytes](https://www.reddit.com/r/Python/comments/xuop5q/getting_started_with_rocksdb_and_python_adnans/)
 - [Finding Projects and Libraries - Tips?](https://www.reddit.com/r/Python/comments/xuoi72/finding_projects_and_libraries_tips/)
 - [I Created a Python Program to Automate Microsoft Rewards](https://www.reddit.com/r/Python/comments/xuoben/i_created_a_python_program_to_automate_microsoft/)
-- [Hotfix for asyncio Loop](https://www.reddit.com/r/Python/comments/xunnef/hotfix_for_asyncio_loop/)
-- [Processing JSON 2.5x faster than simdjson with msgspec](https://www.reddit.com/r/Python/comments/xunm0f/processing_json_25x_faster_than_simdjson_with/)
-- [Translate a Notion page using Azure Cognitive Services Translator](https://www.reddit.com/r/Python/comments/xume5l/translate_a_notion_page_using_azure_cognitive/)
 <!-- BLOG-POST-LIST:END -->
