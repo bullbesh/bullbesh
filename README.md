@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding two binary numbers in python](https://www.reddit.com/r/Python/comments/xubd16/adding_two_binary_numbers_in_python/)
 - [Python Coding - How to make a Rock, Paper, Scissors GAME!](https://www.reddit.com/r/Python/comments/xuaajl/python_coding_how_to_make_a_rock_paper_scissors/)
 - [ascii art with Python](https://www.reddit.com/r/Python/comments/xu5ugo/ascii_art_with_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/xu3v9h/monday_daily_thread_project_ideas/)
 - [Which Python framework should I use to develop a mobile app for something like an encyclopedia?](https://www.reddit.com/r/Python/comments/xtxtdf/which_python_framework_should_i_use_to_develop_a/)
-- [Set Black &lpar;Dark Theme&rpar; Notepad saved for all time use?](https://www.reddit.com/r/Python/comments/xtwmno/set_black_dark_theme_notepad_saved_for_all_time/)
 <!-- BLOG-POST-LIST:END -->
