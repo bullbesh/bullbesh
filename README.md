@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Algorithmic Thinking with Python part 1 - Brute Force Algorithms](https://www.reddit.com/r/Python/comments/xue742/algorithmic_thinking_with_python_part_1_brute/)
 - [Beginner Python GUI](https://www.reddit.com/r/Python/comments/xuc7j3/beginner_python_gui/)
 - [My code for finding the largest element of a list seems to be fasters than python&#39;s inbuilt function for doing the same&lpar;max&lpar;&rpar;&rpar;... is this a trade for some other functionality?](https://www.reddit.com/r/Python/comments/xuc553/my_code_for_finding_the_largest_element_of_a_list/)
 - [Adding two binary numbers in python](https://www.reddit.com/r/Python/comments/xubd16/adding_two_binary_numbers_in_python/)
 - [Python Coding - How to make a Rock, Paper, Scissors GAME!](https://www.reddit.com/r/Python/comments/xuaajl/python_coding_how_to_make_a_rock_paper_scissors/)
-- [ascii art with Python](https://www.reddit.com/r/Python/comments/xu5ugo/ascii_art_with_python/)
 <!-- BLOG-POST-LIST:END -->
