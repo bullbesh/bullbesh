@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Automate Sending a different email out everyday?](https://www.reddit.com/r/Python/comments/xuipek/python_automate_sending_a_different_email_out/)
+- [Translate a Notion page using Azure Cognitive Services Translator](https://www.reddit.com/r/Python/comments/xume5l/translate_a_notion_page_using_azure_cognitive/)
+- [Created a Telegram bot to remotely control my windows PC](https://www.reddit.com/r/Python/comments/xum74e/created_a_telegram_bot_to_remotely_control_my/)
+- [Python recap for week 39/2022](https://www.reddit.com/r/Python/comments/xum1e7/python_recap_for_week_392022/)
+- [flake8-warnings: Python linter &lpar;flake8, pylint, CLI&rpar; that warns you about using deprecated modules, classes, and functions](https://www.reddit.com/r/Python/comments/xulujl/flake8warnings_python_linter_flake8_pylint_cli/)
 - [[Project] Automatic voiceover of subtitles on YouTube](https://www.reddit.com/r/Python/comments/xuhe58/project_automatic_voiceover_of_subtitles_on/)
-- [What sorting algorithm is this?](https://www.reddit.com/r/Python/comments/xuggr4/what_sorting_algorithm_is_this/)
-- [What kind of job is best suited for Python programmers](https://www.reddit.com/r/Python/comments/xug6b3/what_kind_of_job_is_best_suited_for_python/)
-- [How to add spaces in between every 4 letters?](https://www.reddit.com/r/Python/comments/xufoyw/how_to_add_spaces_in_between_every_4_letters/)
 <!-- BLOG-POST-LIST:END -->
