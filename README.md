@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Automate Sending a different email out everyday?](https://www.reddit.com/r/Python/comments/xuipek/python_automate_sending_a_different_email_out/)
 - [[Project] Automatic voiceover of subtitles on YouTube](https://www.reddit.com/r/Python/comments/xuhe58/project_automatic_voiceover_of_subtitles_on/)
 - [What sorting algorithm is this?](https://www.reddit.com/r/Python/comments/xuggr4/what_sorting_algorithm_is_this/)
 - [What kind of job is best suited for Python programmers](https://www.reddit.com/r/Python/comments/xug6b3/what_kind_of_job_is_best_suited_for_python/)
 - [How to add spaces in between every 4 letters?](https://www.reddit.com/r/Python/comments/xufoyw/how_to_add_spaces_in_between_every_4_letters/)
-- [Algorithmic Thinking with Python part 1 - Brute Force Algorithms](https://www.reddit.com/r/Python/comments/xue742/algorithmic_thinking_with_python_part_1_brute/)
 <!-- BLOG-POST-LIST:END -->
