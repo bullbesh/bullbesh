@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Celery + RabbitMQ alternatives](https://www.reddit.com/r/Python/comments/xve9ap/celery_rabbitmq_alternatives/)
+- [How To split a list without using split&lpar;&rpar;](https://www.reddit.com/r/Python/comments/xvdlnt/how_to_split_a_list_without_using_split/)
+- [newbie project](https://www.reddit.com/r/Python/comments/xvcpy0/newbie_project/)
+- [New release of Firebird driver for Python V1.5.2 is available with a few fixes](https://www.reddit.com/r/Python/comments/xvchjn/new_release_of_firebird_driver_for_python_v152_is/)
 - [pyusb&lpar;invalid decimal literal&rpar;](https://www.reddit.com/r/Python/comments/xv9w04/pyusbinvalid_decimal_literal/)
-- [All the Ways To Introspect Python Objects at Runtime](https://www.reddit.com/r/Python/comments/xv83zo/all_the_ways_to_introspect_python_objects_at/)
-- [How I start every new Python backend API project](https://www.reddit.com/r/Python/comments/xv7k6p/how_i_start_every_new_python_backend_api_project/)
-- [I discovered that Python now does true match exhaustiveness checking. ??](https://www.reddit.com/r/Python/comments/xv4k0j/i_discovered_that_python_now_does_true_match/)
-- [Are there automotive industries that use Python?, if yes, What type of libraries do they use?](https://www.reddit.com/r/Python/comments/xv4ep2/are_there_automotive_industries_that_use_python/)
 <!-- BLOG-POST-LIST:END -->
