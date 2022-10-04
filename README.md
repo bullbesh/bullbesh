@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I start every new Python backend API project](https://www.reddit.com/r/Python/comments/xv7k6p/how_i_start_every_new_python_backend_api_project/)
 - [I discovered that Python now does true match exhaustiveness checking. ??](https://www.reddit.com/r/Python/comments/xv4k0j/i_discovered_that_python_now_does_true_match/)
 - [Are there automotive industries that use Python?, if yes, What type of libraries do they use?](https://www.reddit.com/r/Python/comments/xv4ep2/are_there_automotive_industries_that_use_python/)
 - [🐍 Calculator Jungle V3.4](https://www.reddit.com/r/Python/comments/xv2yq2/calculator_jungle_v34/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/xuzlry/tuesday_daily_thread_advanced_questions/)
-- [Critique it, if you can &lpar;Object Oriented Blackjack&rpar;](https://www.reddit.com/r/Python/comments/xuz093/critique_it_if_you_can_object_oriented_blackjack/)
 <!-- BLOG-POST-LIST:END -->
