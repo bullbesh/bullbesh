@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spotify API not working](https://www.reddit.com/r/Python/comments/xv2f06/spotify_api_not_working/)
+- [what&#39;s the first skills to actually be able to work](https://www.reddit.com/r/Python/comments/xv1dmr/whats_the_first_skills_to_actually_be_able_to_work/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/xuzlry/tuesday_daily_thread_advanced_questions/)
+- [Critique it, if you can &lpar;Object Oriented Blackjack&rpar;](https://www.reddit.com/r/Python/comments/xuz093/critique_it_if_you_can_object_oriented_blackjack/)
 - [2022 NFL Next Gen Stats - Time to Throw vs. Average Completion Percentage Over Expected](https://www.reddit.com/r/Python/comments/xuxm3f/2022_nfl_next_gen_stats_time_to_throw_vs_average/)
-- [How to Calculate &amp; Normalize Expected Stock Returns || Python Stock Anal...](https://www.reddit.com/r/Python/comments/xuvt33/how_to_calculate_normalize_expected_stock_returns/)
-- [How to style django-allauth authentication forms.](https://www.reddit.com/r/Python/comments/xuuwt4/how_to_style_djangoallauth_authentication_forms/)
-- [12 Beginner Concepts About Type Hints To Improve Your Python Code](https://www.reddit.com/r/Python/comments/xutw7d/12_beginner_concepts_about_type_hints_to_improve/)
-- [I created a script that can create a high resolution image out of Unicode characters](https://www.reddit.com/r/Python/comments/xutlr7/i_created_a_script_that_can_create_a_high/)
 <!-- BLOG-POST-LIST:END -->
