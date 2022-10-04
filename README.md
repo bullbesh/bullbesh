@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I discovered that Python now does true match exhaustiveness checking. ??](https://www.reddit.com/r/Python/comments/xv4k0j/i_discovered_that_python_now_does_true_match/)
+- [Are there automotive industries that use Python?, if yes, What type of libraries do they use?](https://www.reddit.com/r/Python/comments/xv4ep2/are_there_automotive_industries_that_use_python/)
+- [🐍 Calculator Jungle V3.4](https://www.reddit.com/r/Python/comments/xv2yq2/calculator_jungle_v34/)
 - [Spotify API not working](https://www.reddit.com/r/Python/comments/xv2f06/spotify_api_not_working/)
 - [what&#39;s the first skills to actually be able to work](https://www.reddit.com/r/Python/comments/xv1dmr/whats_the_first_skills_to_actually_be_able_to_work/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/xuzlry/tuesday_daily_thread_advanced_questions/)
-- [Critique it, if you can &lpar;Object Oriented Blackjack&rpar;](https://www.reddit.com/r/Python/comments/xuz093/critique_it_if_you_can_object_oriented_blackjack/)
-- [2022 NFL Next Gen Stats - Time to Throw vs. Average Completion Percentage Over Expected](https://www.reddit.com/r/Python/comments/xuxm3f/2022_nfl_next_gen_stats_time_to_throw_vs_average/)
 <!-- BLOG-POST-LIST:END -->
