@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [sets question](https://www.reddit.com/r/Python/comments/xwbvof/sets_question/)
+- [[1 year of learning Python] Marketplace for exchanging plants in Django](https://www.reddit.com/r/Python/comments/xwboj4/1_year_of_learning_python_marketplace_for/)
+- [Copy DigitalOcean Spaces to an AWS S3 Bucket](https://www.reddit.com/r/Python/comments/xwbad0/copy_digitalocean_spaces_to_an_aws_s3_bucket/)
+- [GitHub - Clivern/arduino_exporter: 🦅 Arduino Prometheus Exporter.](https://www.reddit.com/r/Python/comments/xwaihw/github_clivernarduino_exporter_arduino_prometheus/)
 - [Final project ideas with python](https://www.reddit.com/r/Python/comments/xw91fa/final_project_ideas_with_python/)
-- [where should i start in my programming journey](https://www.reddit.com/r/Python/comments/xw7kma/where_should_i_start_in_my_programming_journey/)
-- [Essential Basic Statistical Concepts for Data Analysis when using Python Data Analysis/Visualization Libraries.](https://www.reddit.com/r/Python/comments/xw75gw/essential_basic_statistical_concepts_for_data/)
-- [Open Source API Testing and Monitoring with Step CI](https://www.reddit.com/r/Python/comments/xw5g57/open_source_api_testing_and_monitoring_with_step/)
-- [Phony PyPi package imitates known developer](https://www.reddit.com/r/Python/comments/xw4z73/phony_pypi_package_imitates_known_developer/)
 <!-- BLOG-POST-LIST:END -->
