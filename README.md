@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source API Testing and Monitoring with Step CI](https://www.reddit.com/r/Python/comments/xw5g57/open_source_api_testing_and_monitoring_with_step/)
+- [Phony PyPi package imitates known developer](https://www.reddit.com/r/Python/comments/xw4z73/phony_pypi_package_imitates_known_developer/)
 - [Reasoning about asyncio.Semaphore &lpar;article by Guido van Rossum&rpar;](https://www.reddit.com/r/Python/comments/xw4f0k/reasoning_about_asynciosemaphore_article_by_guido/)
 - [Been learning for a month. Made a code that prints itself and you can edit it from the console directly.](https://www.reddit.com/r/Python/comments/xw39wf/been_learning_for_a_month_made_a_code_that_prints/)
 - [Super curious based their docs, has anyone ever come into a syntax error after using black? They don’t guarantee it so more just a curiosity.](https://www.reddit.com/r/Python/comments/xw337b/super_curious_based_their_docs_has_anyone_ever/)
-- [5 Beginner Python Projects](https://www.reddit.com/r/Python/comments/xw331z/5_beginner_python_projects/)
-- [Discover SQLAlchemy: A Beginner Tutorial With Examples](https://www.reddit.com/r/Python/comments/xw2trt/discover_sqlalchemy_a_beginner_tutorial_with/)
 <!-- BLOG-POST-LIST:END -->
