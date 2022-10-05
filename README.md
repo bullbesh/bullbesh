@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cool sorted list function](https://www.reddit.com/r/Python/comments/xwf1pb/cool_sorted_list_function/)
 - [How to start a career in Python?](https://www.reddit.com/r/Python/comments/xwc0pn/how_to_start_a_career_in_python/)
 - [Making Music From Images With Python](https://www.reddit.com/r/Python/comments/xwbzqe/making_music_from_images_with_python/)
 - [sets question](https://www.reddit.com/r/Python/comments/xwbvof/sets_question/)
 - [[1 year of learning Python] Marketplace for exchanging plants in Django](https://www.reddit.com/r/Python/comments/xwboj4/1_year_of_learning_python_marketplace_for/)
-- [Copy DigitalOcean Spaces to an AWS S3 Bucket](https://www.reddit.com/r/Python/comments/xwbad0/copy_digitalocean_spaces_to_an_aws_s3_bucket/)
 <!-- BLOG-POST-LIST:END -->
