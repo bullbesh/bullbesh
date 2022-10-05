@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Best python backend framework for simple machine learning projects](https://www.reddit.com/r/Python/comments/xvn996/best_python_backend_framework_for_simple_machine/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/xvut41/wednesday_daily_thread_beginner_questions/)
 - [flake8-length: Flake8 plugin for a smart line length validation.](https://www.reddit.com/r/Python/comments/xvhef4/flake8length_flake8_plugin_for_a_smart_line/)
 - [Open sourcing our company&#39;s research on Explainable AI &lpar;XAI&rpar;. Issues and stars are welcome](https://www.reddit.com/r/Python/comments/xvh8dd/open_sourcing_our_companys_research_on/)
 - [Build Enumerations of Constants With Python&#39;s Enum – Real Python](https://www.reddit.com/r/Python/comments/xvgeox/build_enumerations_of_constants_with_pythons_enum/)
