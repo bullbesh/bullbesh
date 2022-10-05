@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Super curious based their docs, has anyone ever come into a syntax error after using black? They don’t guarantee it so more just a curiosity.](https://www.reddit.com/r/Python/comments/xw337b/super_curious_based_their_docs_has_anyone_ever/)
+- [5 Beginner Python Projects](https://www.reddit.com/r/Python/comments/xw331z/5_beginner_python_projects/)
+- [Discover SQLAlchemy: A Beginner Tutorial With Examples](https://www.reddit.com/r/Python/comments/xw2trt/discover_sqlalchemy_a_beginner_tutorial_with/)
 - [AWS Certification Roadmap &lpar;Python - Developer Associate, Data Analytics, Machine Learning&rpar;](https://www.reddit.com/r/Python/comments/xw1mgn/aws_certification_roadmap_python_developer/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/xvut41/wednesday_daily_thread_beginner_questions/)
-- [flake8-length: Flake8 plugin for a smart line length validation.](https://www.reddit.com/r/Python/comments/xvhef4/flake8length_flake8_plugin_for_a_smart_line/)
-- [Open sourcing our company&#39;s research on Explainable AI &lpar;XAI&rpar;. Issues and stars are welcome](https://www.reddit.com/r/Python/comments/xvh8dd/open_sourcing_our_companys_research_on/)
-- [Build Enumerations of Constants With Python&#39;s Enum – Real Python](https://www.reddit.com/r/Python/comments/xvgeox/build_enumerations_of_constants_with_pythons_enum/)
 <!-- BLOG-POST-LIST:END -->
