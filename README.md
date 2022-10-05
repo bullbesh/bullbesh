@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers at MIT Startup ‘DataCebo,’ Introduce Synthetic Data Metrics: An Open-Source Python Library That Evaluates Synthetic Data By Comparing It To The Real Data That You’re Trying To Mimic](https://www.reddit.com/r/Python/comments/xwgonu/researchers_at_mit_startup_datacebo_introduce/)
+- [Update: The Windows issue I reported with venv is getting fixed in 3.12!](https://www.reddit.com/r/Python/comments/xwgmvs/update_the_windows_issue_i_reported_with_venv_is/)
+- [Jupyter but in your own IDE -- A new visual documentation and sharing platform -- Live interactive demo linked](https://www.reddit.com/r/Python/comments/xwg0l3/jupyter_but_in_your_own_ide_a_new_visual/)
 - [Cool sorted list function](https://www.reddit.com/r/Python/comments/xwf1pb/cool_sorted_list_function/)
 - [How to start a career in Python?](https://www.reddit.com/r/Python/comments/xwc0pn/how_to_start_a_career_in_python/)
-- [Making Music From Images With Python](https://www.reddit.com/r/Python/comments/xwbzqe/making_music_from_images_with_python/)
-- [sets question](https://www.reddit.com/r/Python/comments/xwbvof/sets_question/)
-- [[1 year of learning Python] Marketplace for exchanging plants in Django](https://www.reddit.com/r/Python/comments/xwboj4/1_year_of_learning_python_marketplace_for/)
 <!-- BLOG-POST-LIST:END -->
