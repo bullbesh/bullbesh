@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python collect from endpoint through API Key](https://www.reddit.com/r/Python/comments/xxcaat/python_collect_from_endpoint_through_api_key/)
 - [Assignment help - mastermind game](https://www.reddit.com/r/Python/comments/xxag95/assignment_help_mastermind_game/)
 - [How to automate a Python script in Windows and Linux](https://www.reddit.com/r/Python/comments/xx9x44/how_to_automate_a_python_script_in_windows_and/)
 - [Semantic search of Stack Overflow with codequestion](https://www.reddit.com/r/Python/comments/xx9cnk/semantic_search_of_stack_overflow_with/)
 - [I made a program that auto-generates SQL code for dataclasses!](https://www.reddit.com/r/Python/comments/xx96lz/i_made_a_program_that_autogenerates_sql_code_for/)
-- [Count consecutive days with missing days.](https://www.reddit.com/r/Python/comments/xx84c8/count_consecutive_days_with_missing_days/)
 <!-- BLOG-POST-LIST:END -->
