@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrape Zillow Real-Estate Data Using Python](https://www.reddit.com/r/Python/comments/xxzmsl/scrape_zillow_realestate_data_using_python/)
 - [pysert, a script to generate templatized random data - my first python project written 11 years ago.](https://www.reddit.com/r/Python/comments/xxxvck/pysert_a_script_to_generate_templatized_random/)
 - [I&#39;m creating a pokedex bot with discord.py and PokéApi](https://www.reddit.com/r/Python/comments/xxxrbs/im_creating_a_pokedex_bot_with_discordpy_and/)
 - [Python in Visual Studio Code - October 2022 Release](https://www.reddit.com/r/Python/comments/xxxohj/python_in_visual_studio_code_october_2022_release/)
 - [Need help](https://www.reddit.com/r/Python/comments/xxxdtt/need_help/)
-- [Tutorial about unsupervised anomaly detection](https://www.reddit.com/r/Python/comments/xxux3l/tutorial_about_unsupervised_anomaly_detection/)
 <!-- BLOG-POST-LIST:END -->
