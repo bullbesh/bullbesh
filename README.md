@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Free online Python Course Give away](https://www.reddit.com/r/Python/comments/xxvakr/free_online_python_course_give_away/)
 - [Tutorial about unsupervised anomaly detection](https://www.reddit.com/r/Python/comments/xxux3l/tutorial_about_unsupervised_anomaly_detection/)
 - [hey guys](https://www.reddit.com/r/Python/comments/xxuof2/hey_guys/)
 - [deployed flask app need json dump to store files in app root, any ideas?](https://www.reddit.com/r/Python/comments/xxub1j/deployed_flask_app_need_json_dump_to_store_files/)
 - [how to remove two substring combination from a string](https://www.reddit.com/r/Python/comments/xxu4z8/how_to_remove_two_substring_combination_from_a/)
+- [Github - Automating Action Secrets deployment in a project through a simple yet powerful configuration file](https://www.reddit.com/r/Python/comments/xxu1jf/github_automating_action_secrets_deployment_in_a/)
 <!-- BLOG-POST-LIST:END -->
