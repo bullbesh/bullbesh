@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I collected 300+ python learning resources](https://www.reddit.com/r/Python/comments/xxqax6/i_collected_300_python_learning_resources/)
+- [Im making a video editor in Python. Yes, i&#39;m crazy. No, it wont lag](https://www.reddit.com/r/Python/comments/xxrs6j/im_making_a_video_editor_in_python_yes_im_crazy/)
 - [I created a time-based code that opens a link](https://www.reddit.com/r/Python/comments/xxp863/i_created_a_timebased_code_that_opens_a_link/)
 - [searchpie a cli tool to search through mal,tmdb and wiki](https://www.reddit.com/r/Python/comments/xxp4kq/searchpie_a_cli_tool_to_search_through_maltmdb/)
 - [What to do after learning Python basics &lpar; preparing myself for a shot in CyberSecurity&rpar;](https://www.reddit.com/r/Python/comments/xxoo5v/what_to_do_after_learning_python_basics_preparing/)
