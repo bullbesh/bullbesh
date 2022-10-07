@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pysert, a script to generate templatized random data - my first python project written 11 years ago.](https://www.reddit.com/r/Python/comments/xxxvck/pysert_a_script_to_generate_templatized_random/)
+- [I&#39;m creating a pokedex bot with discord.py and PokéApi](https://www.reddit.com/r/Python/comments/xxxrbs/im_creating_a_pokedex_bot_with_discordpy_and/)
+- [Python in Visual Studio Code - October 2022 Release](https://www.reddit.com/r/Python/comments/xxxohj/python_in_visual_studio_code_october_2022_release/)
+- [Need help](https://www.reddit.com/r/Python/comments/xxxdtt/need_help/)
 - [Tutorial about unsupervised anomaly detection](https://www.reddit.com/r/Python/comments/xxux3l/tutorial_about_unsupervised_anomaly_detection/)
-- [hey guys](https://www.reddit.com/r/Python/comments/xxuof2/hey_guys/)
-- [deployed flask app need json dump to store files in app root, any ideas?](https://www.reddit.com/r/Python/comments/xxub1j/deployed_flask_app_need_json_dump_to_store_files/)
-- [how to remove two substring combination from a string](https://www.reddit.com/r/Python/comments/xxu4z8/how_to_remove_two_substring_combination_from_a/)
-- [Github - Automating Action Secrets deployment in a project through a simple yet powerful configuration file](https://www.reddit.com/r/Python/comments/xxu1jf/github_automating_action_secrets_deployment_in_a/)
 <!-- BLOG-POST-LIST:END -->
