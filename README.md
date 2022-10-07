@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pymongo.errors.AutoReconnect exception in threading environment](https://www.reddit.com/r/Python/comments/xy1bwz/pymongoerrorsautoreconnect_exception_in_threading/)
+- [Python interview questions |An overview of Python](https://www.reddit.com/r/Python/comments/xy0wcc/python_interview_questions_an_overview_of_python/)
+- [Object Oriented Programming BlackJackV2, Critique it if possible](https://www.reddit.com/r/Python/comments/xy0vav/object_oriented_programming_blackjackv2_critique/)
 - [Scrape Zillow Real-Estate Data Using Python](https://www.reddit.com/r/Python/comments/xxzmsl/scrape_zillow_realestate_data_using_python/)
 - [pysert, a script to generate templatized random data - my first python project written 11 years ago.](https://www.reddit.com/r/Python/comments/xxxvck/pysert_a_script_to_generate_templatized_random/)
-- [I&#39;m creating a pokedex bot with discord.py and PokéApi](https://www.reddit.com/r/Python/comments/xxxrbs/im_creating_a_pokedex_bot_with_discordpy_and/)
-- [Python in Visual Studio Code - October 2022 Release](https://www.reddit.com/r/Python/comments/xxxohj/python_in_visual_studio_code_october_2022_release/)
-- [Need help](https://www.reddit.com/r/Python/comments/xxxdtt/need_help/)
 <!-- BLOG-POST-LIST:END -->
