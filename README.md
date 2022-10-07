@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a time-based code that opens a link](https://www.reddit.com/r/Python/comments/xxp863/i_created_a_timebased_code_that_opens_a_link/)
+- [searchpie a cli tool to search through mal,tmdb and wiki](https://www.reddit.com/r/Python/comments/xxp4kq/searchpie_a_cli_tool_to_search_through_maltmdb/)
+- [What to do after learning Python basics &lpar; preparing myself for a shot in CyberSecurity&rpar;](https://www.reddit.com/r/Python/comments/xxoo5v/what_to_do_after_learning_python_basics_preparing/)
+- [Python Wrapper](https://www.reddit.com/r/Python/comments/xxo9dp/python_wrapper/)
 - [Why would anyone willingly use SQLAlchemy when Dataset can access array columns in Postgres?](https://www.reddit.com/r/Python/comments/xxm8wp/why_would_anyone_willingly_use_sqlalchemy_when/)
-- [How does one add and delete rows from a Pandas DataFrame ?](https://www.reddit.com/r/Python/comments/xxl5f4/how_does_one_add_and_delete_rows_from_a_pandas/)
-- [What is Pycharm?](https://www.reddit.com/r/Python/comments/xxkzzx/what_is_pycharm/)
-- [.loc inverse method](https://www.reddit.com/r/Python/comments/xxkck6/loc_inverse_method/)
-- [Making data-driven Twitter bots with Python](https://www.reddit.com/r/Python/comments/xxi5b6/making_datadriven_twitter_bots_with_python/)
 <!-- BLOG-POST-LIST:END -->
