@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [deployed flask app need json dump to store files in app root, any ideas?](https://www.reddit.com/r/Python/comments/xxub1j/deployed_flask_app_need_json_dump_to_store_files/)
+- [how to remove two substring combination from a string](https://www.reddit.com/r/Python/comments/xxu4z8/how_to_remove_two_substring_combination_from_a/)
+- [Github - Automating Action Secrets deployment in a project through a simple yet powerful configuration file](https://www.reddit.com/r/Python/comments/xxu1jf/github_automating_action_secrets_deployment_in_a/)
 - [cannot find anaconda-navigator after anaconda install &quot;command not found: anaconda-navigator &quot;](https://www.reddit.com/r/Python/comments/xxt9pp/cannot_find_anacondanavigator_after_anaconda/)
 - [How to evaluate good coding practices in python?](https://www.reddit.com/r/Python/comments/xxsy5n/how_to_evaluate_good_coding_practices_in_python/)
-- [Im making a video editor in Python. Yes, i&#39;m crazy. No, it wont lag](https://www.reddit.com/r/Python/comments/xxrs6j/im_making_a_video_editor_in_python_yes_im_crazy/)
-- [I created a time-based code that opens a link](https://www.reddit.com/r/Python/comments/xxp863/i_created_a_timebased_code_that_opens_a_link/)
-- [searchpie a cli tool to search through mal,tmdb and wiki](https://www.reddit.com/r/Python/comments/xxp4kq/searchpie_a_cli_tool_to_search_through_maltmdb/)
 <!-- BLOG-POST-LIST:END -->
