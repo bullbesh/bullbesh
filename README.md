@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a Python program that automatically sends scheduled messages via WhatsApp](https://www.reddit.com/r/Python/comments/xy2qbv/i_made_a_python_program_that_automatically_sends/)
 - [pymongo.errors.AutoReconnect exception in threading environment](https://www.reddit.com/r/Python/comments/xy1bwz/pymongoerrorsautoreconnect_exception_in_threading/)
 - [Python interview questions |An overview of Python](https://www.reddit.com/r/Python/comments/xy0wcc/python_interview_questions_an_overview_of_python/)
 - [Object Oriented Programming BlackJackV2, Critique it if possible](https://www.reddit.com/r/Python/comments/xy0vav/object_oriented_programming_blackjackv2_critique/)
 - [Scrape Zillow Real-Estate Data Using Python](https://www.reddit.com/r/Python/comments/xxzmsl/scrape_zillow_realestate_data_using_python/)
-- [pysert, a script to generate templatized random data - my first python project written 11 years ago.](https://www.reddit.com/r/Python/comments/xxxvck/pysert_a_script_to_generate_templatized_random/)
 <!-- BLOG-POST-LIST:END -->
