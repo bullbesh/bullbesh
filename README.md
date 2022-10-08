@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Minimax in Python: Learn How to Lose the Game of Nim – Real Python](https://www.reddit.com/r/Python/comments/xyv8h1/minimax_in_python_learn_how_to_lose_the_game_of/)
+- [How to find position of A and B values then slice the string to select whats between A and B?](https://www.reddit.com/r/Python/comments/xyuil2/how_to_find_position_of_a_and_b_values_then_slice/)
 - [a sqlite3 database manager](https://www.reddit.com/r/Python/comments/xyu32e/a_sqlite3_database_manager/)
 - [Open Source Dependencies: Is It the Holy Grail or a Can of Worms?](https://www.reddit.com/r/Python/comments/xyu06w/open_source_dependencies_is_it_the_holy_grail_or/)
 - [Are there any published articles about Python that I can reference?](https://www.reddit.com/r/Python/comments/xyt9mp/are_there_any_published_articles_about_python/)
-- [What is the Python Job Delusion?](https://www.reddit.com/r/Python/comments/xyt0na/what_is_the_python_job_delusion/)
-- [How to determinate if a number &quot;n&quot; belongs to the Fibonacci sequence?](https://www.reddit.com/r/Python/comments/xyslx6/how_to_determinate_if_a_number_n_belongs_to_the/)
 <!-- BLOG-POST-LIST:END -->
