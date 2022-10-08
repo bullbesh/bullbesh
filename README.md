@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a document generator for YAML files in Python](https://www.reddit.com/r/Python/comments/xyebbv/i_wrote_a_document_generator_for_yaml_files_in/)
+- [Can someone help me with this question](https://www.reddit.com/r/Python/comments/xye53l/can_someone_help_me_with_this_question/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/xye4ru/saturday_daily_thread_resource_request_and/)
 - [Create Your Own Code Editor Using PyQt5 #7 - Adding Theming System &amp; Fixing QSS](https://www.reddit.com/r/Python/comments/xycvql/create_your_own_code_editor_using_pyqt5_7_adding/)
 - [Standardization, Date Time Formats](https://www.reddit.com/r/Python/comments/xya8t4/standardization_date_time_formats/)
-- [Idk wtf I’m doing](https://www.reddit.com/r/Python/comments/xy9k9i/idk_wtf_im_doing/)
-- [Does Python plan to add JIT or get rid of the GIL?](https://www.reddit.com/r/Python/comments/xy8yb4/does_python_plan_to_add_jit_or_get_rid_of_the_gil/)
-- [Starlette-Babel - i18n and l10n for your Starlette framework.](https://www.reddit.com/r/Python/comments/xy5fub/starlettebabel_i18n_and_l10n_for_your_starlette/)
 <!-- BLOG-POST-LIST:END -->
