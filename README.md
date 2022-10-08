@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the Python Job Delusion?](https://www.reddit.com/r/Python/comments/xyt0na/what_is_the_python_job_delusion/)
+- [How to determinate if a number &quot;n&quot; belongs to the Fibonacci sequence?](https://www.reddit.com/r/Python/comments/xyslx6/how_to_determinate_if_a_number_n_belongs_to_the/)
 - [Made an app which conducts continuous ping tests on IP addresses using PySide6](https://www.reddit.com/r/Python/comments/xyreld/made_an_app_which_conducts_continuous_ping_tests/)
 - [Rob J Hyndman - Python implementations of time series forecasting and anomaly detection](https://www.reddit.com/r/Python/comments/xyqm2y/rob_j_hyndman_python_implementations_of_time/)
 - [python with braces](https://www.reddit.com/r/Python/comments/xypa3o/python_with_braces/)
-- [I am wondering how many people here are web2py or py4web developers?](https://www.reddit.com/r/Python/comments/xynzzu/i_am_wondering_how_many_people_here_are_web2py_or/)
-- [Intro to Python Tutor](https://www.reddit.com/r/Python/comments/xymle9/intro_to_python_tutor/)
 <!-- BLOG-POST-LIST:END -->
