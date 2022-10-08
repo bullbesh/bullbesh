@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How run Python in computer with 4GB ram?](https://www.reddit.com/r/Python/comments/xykh1o/how_run_python_in_computer_with_4gb_ram/)
+- [Are there any Docker hosts that use persistant storage by default?](https://www.reddit.com/r/Python/comments/xyk3j7/are_there_any_docker_hosts_that_use_persistant/)
 - [I wrote a document generator for YAML files in Python](https://www.reddit.com/r/Python/comments/xyebbv/i_wrote_a_document_generator_for_yaml_files_in/)
 - [Can someone help me with this question](https://www.reddit.com/r/Python/comments/xye53l/can_someone_help_me_with_this_question/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/xye4ru/saturday_daily_thread_resource_request_and/)
-- [Create Your Own Code Editor Using PyQt5 #7 - Adding Theming System &amp; Fixing QSS](https://www.reddit.com/r/Python/comments/xycvql/create_your_own_code_editor_using_pyqt5_7_adding/)
-- [Standardization, Date Time Formats](https://www.reddit.com/r/Python/comments/xya8t4/standardization_date_time_formats/)
 <!-- BLOG-POST-LIST:END -->
