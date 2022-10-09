@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Transactional Unit tests with Async SQLAlchemy and Pytest](https://www.reddit.com/r/Python/comments/xzdjpi/transactional_unit_tests_with_async_sqlalchemy/)
+- [I made a simple script that helps you stay focused while working](https://www.reddit.com/r/Python/comments/xzdapo/i_made_a_simple_script_that_helps_you_stay/)
+- [I made my first app to help my coworkers](https://www.reddit.com/r/Python/comments/xzd0jb/i_made_my_first_app_to_help_my_coworkers/)
 - [python-preloaded: Bundle Python executable with preloaded modules](https://www.reddit.com/r/Python/comments/xzbonx/pythonpreloaded_bundle_python_executable_with/)
 - [SciPy 1.9.2 released with Python 3.11 wheels](https://www.reddit.com/r/Python/comments/xzbejb/scipy_192_released_with_python_311_wheels/)
-- [Twitter weather bot as a first real python project](https://www.reddit.com/r/Python/comments/xzb7fb/twitter_weather_bot_as_a_first_real_python_project/)
-- [Working on a simple framework for API development, what do you think?](https://www.reddit.com/r/Python/comments/xz96be/working_on_a_simple_framework_for_api_development/)
-- [Easy to use PostgreSQL to MongoDB data importer module written in Python](https://www.reddit.com/r/Python/comments/xz8mxj/easy_to_use_postgresql_to_mongodb_data_importer/)
 <!-- BLOG-POST-LIST:END -->
