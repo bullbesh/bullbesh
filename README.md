@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [NASA Images Bot on Twitter - A fun project](https://www.reddit.com/r/Python/comments/xznctd/nasa_images_bot_on_twitter_a_fun_project/)
+- [Using Hugging Face NLP Model RoBERTa to Zero-Shot Classify NFL Play Descriptions](https://www.reddit.com/r/Python/comments/xzna20/using_hugging_face_nlp_model_roberta_to_zeroshot/)
 - [Library to send data to Graylog in GELF format](https://www.reddit.com/r/Python/comments/xzmwd8/library_to_send_data_to_graylog_in_gelf_format/)
 - [Voxel - The Programming Language](https://www.reddit.com/r/Python/comments/xzmowr/voxel_the_programming_language/)
 - [deptry 0.6.1 was just released, adding support for PDM.](https://www.reddit.com/r/Python/comments/xzl1hv/deptry_061_was_just_released_adding_support_for/)
-- [I created a Python library to Tweet, Retweet, Like, Quote Tweet without Twitter API](https://www.reddit.com/r/Python/comments/xzkd46/i_created_a_python_library_to_tweet_retweet_like/)
-- [rich-argparse / rich-argparse-plus: a drop in replacement with color themes and improved layout for our friend argparse. improves comprehension and more importantly looks cool. bonus: render your command line options to PNG, HTML, PDF, and more at the touch of an environment variable &lpar;made w/Rich&rpar;](https://www.reddit.com/r/Python/comments/xzjvyc/richargparse_richargparseplus_a_drop_in/)
 <!-- BLOG-POST-LIST:END -->
