@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing slobbler: Linux based DBus/MPRIS Slack Scrobbler](https://www.reddit.com/r/Python/comments/xzxp8m/introducing_slobbler_linux_based_dbusmpris_slack/)
+- [black 22.10.0 released with Python 3.11 wheels](https://www.reddit.com/r/Python/comments/xzx6ae/black_22100_released_with_python_311_wheels/)
+- [I published a BIG update for my scheduled WhatsApp messenger I wrote a post about a few days ago. I wrote a fully functioning WebUI, all running in Python!](https://www.reddit.com/r/Python/comments/xzx4k7/i_published_a_big_update_for_my_scheduled/)
 - [Space Science with Python - NEOs #9: ... in the sky](https://www.reddit.com/r/Python/comments/xzw1xx/space_science_with_python_neos_9_in_the_sky/)
 - [Not certain what promt in my Computer Science class means.](https://www.reddit.com/r/Python/comments/xzvnsj/not_certain_what_promt_in_my_computer_science/)
-- [pcontract - A data structure to track data over time](https://www.reddit.com/r/Python/comments/xztnvl/pcontract_a_data_structure_to_track_data_over_time/)
-- [Making a pool game with working physics using pygame and pymunk libraries](https://www.reddit.com/r/Python/comments/xzsodl/making_a_pool_game_with_working_physics_using/)
-- [is there any difference between using string.format&lpar;&rpar; or an fstring?](https://www.reddit.com/r/Python/comments/xzsgz2/is_there_any_difference_between_using/)
 <!-- BLOG-POST-LIST:END -->
