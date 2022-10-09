@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [python-preloaded: Bundle Python executable with preloaded modules](https://www.reddit.com/r/Python/comments/xzbonx/pythonpreloaded_bundle_python_executable_with/)
+- [SciPy 1.9.2 released with Python 3.11 wheels](https://www.reddit.com/r/Python/comments/xzbejb/scipy_192_released_with_python_311_wheels/)
+- [Twitter weather bot as a first real python project](https://www.reddit.com/r/Python/comments/xzb7fb/twitter_weather_bot_as_a_first_real_python_project/)
 - [Working on a simple framework for API development, what do you think?](https://www.reddit.com/r/Python/comments/xz96be/working_on_a_simple_framework_for_api_development/)
 - [Easy to use PostgreSQL to MongoDB data importer module written in Python](https://www.reddit.com/r/Python/comments/xz8mxj/easy_to_use_postgresql_to_mongodb_data_importer/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/xz7dtg/sunday_daily_thread_whats_everyone_working_on/)
-- [Discover Awesome Python projects](https://www.reddit.com/r/Python/comments/xz5y0x/discover_awesome_python_projects/)
-- [After watching “A Trip to Infinity” on Netflix, I’ve realized what they don’t know is behind everything that’s Infinity, there’s just one fancy generator lazy loading new info :&rpar;](https://www.reddit.com/r/Python/comments/xz4xoh/after_watching_a_trip_to_infinity_on_netflix_ive/)
 <!-- BLOG-POST-LIST:END -->
