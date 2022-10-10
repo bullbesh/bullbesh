@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Context deadline exceeded &lpar;Client.Timeout exceeded while awaiting headers&rpar;](https://www.reddit.com/r/Python/comments/y0msyz/context_deadline_exceeded_clienttimeout_exceeded/)
 - [Python Object-Oriented Trading Bot Architecture](https://www.reddit.com/r/Python/comments/y0m65w/python_objectoriented_trading_bot_architecture/)
 - [A python project to make a simple calculator.](https://www.reddit.com/r/Python/comments/y0lds9/a_python_project_to_make_a_simple_calculator/)
 - [My project TOMLscript is a small showcase for using a toml config file to execute programs](https://www.reddit.com/r/Python/comments/y0kmn6/my_project_tomlscript_is_a_small_showcase_for/)
 - [effeciency comparison](https://www.reddit.com/r/Python/comments/y0jav9/effeciency_comparison/)
-- [De/Serializing JSON In Python, While Keeping Your Types](https://www.reddit.com/r/Python/comments/y0iapk/deserializing_json_in_python_while_keeping_your/)
 <!-- BLOG-POST-LIST:END -->
