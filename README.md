@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [effeciency comparison](https://www.reddit.com/r/Python/comments/y0jav9/effeciency_comparison/)
+- [De/Serializing JSON In Python, While Keeping Your Types](https://www.reddit.com/r/Python/comments/y0iapk/deserializing_json_in_python_while_keeping_your/)
+- [A Guide to Python Namespaces &amp; Variable Scope](https://www.reddit.com/r/Python/comments/y0hyp6/a_guide_to_python_namespaces_variable_scope/)
 - [A game called &quot;Hand Cricket&quot;](https://www.reddit.com/r/Python/comments/y0hbxf/a_game_called_hand_cricket/)
 - [Analyzing Reddit data with Pushshift, pandas and Plotly](https://www.reddit.com/r/Python/comments/y0g1dv/analyzing_reddit_data_with_pushshift_pandas_and/)
-- [The free weekly Python on Microcontrollers Newsletter - please subscribe today](https://www.reddit.com/r/Python/comments/y0fgvw/the_free_weekly_python_on_microcontrollers/)
-- [Looking for students who want to test my course](https://www.reddit.com/r/Python/comments/y0f2hl/looking_for_students_who_want_to_test_my_course/)
-- [Stable Diffusion meets Infinite draw board!](https://www.reddit.com/r/Python/comments/y0es0d/stable_diffusion_meets_infinite_draw_board/)
 <!-- BLOG-POST-LIST:END -->
