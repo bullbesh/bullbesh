@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A gRPC server for BLS &lpar;Boneh–Lynn–Shacham&rpar; digital signatures related functionalities](https://www.reddit.com/r/Python/comments/y09xu8/a_grpc_server_for_bls_bonehlynnshacham_digital/)
+- [I wrote a working WebUI in Python and integrated it my Python project that automatically sends scheduled WhatsApp messages in it](https://www.reddit.com/r/Python/comments/y09sz2/i_wrote_a_working_webui_in_python_and_integrated/)
 - [Class and Static methods](https://www.reddit.com/r/Python/comments/y09cgf/class_and_static_methods/)
 - [[Script] Google Play Search Apps](https://www.reddit.com/r/Python/comments/y071xi/script_google_play_search_apps/)
 - [Created my first ever useful module.](https://www.reddit.com/r/Python/comments/y06omt/created_my_first_ever_useful_module/)
-- [get RGB list using PIL](https://www.reddit.com/r/Python/comments/y03p2d/get_rgb_list_using_pil/)
-- [Can I compile Python source using Nuitka or PyPy if my code is obfuscated?](https://www.reddit.com/r/Python/comments/y03d12/can_i_compile_python_source_using_nuitka_or_pypy/)
 <!-- BLOG-POST-LIST:END -->
