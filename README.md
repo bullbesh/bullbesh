@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing slobbler: Linux based DBus/MPRIS Slack Scrobbler](https://www.reddit.com/r/Python/comments/xzxp8m/introducing_slobbler_linux_based_dbusmpris_slack/)
-- [black 22.10.0 released with Python 3.11 wheels](https://www.reddit.com/r/Python/comments/xzx6ae/black_22100_released_with_python_311_wheels/)
-- [I published a BIG update for my scheduled WhatsApp messenger I wrote a post about a few days ago. I wrote a fully functioning WebUI, all running in Python!](https://www.reddit.com/r/Python/comments/xzx4k7/i_published_a_big_update_for_my_scheduled/)
-- [Space Science with Python - NEOs #9: ... in the sky](https://www.reddit.com/r/Python/comments/xzw1xx/space_science_with_python_neos_9_in_the_sky/)
-- [Not certain what promt in my Computer Science class means.](https://www.reddit.com/r/Python/comments/xzvnsj/not_certain_what_promt_in_my_computer_science/)
+- [I made Moe: a program for managing your music library](https://www.reddit.com/r/Python/comments/y029a5/i_made_moe_a_program_for_managing_your_music/)
+- [extracts data from json to csv](https://www.reddit.com/r/Python/comments/y01zdz/extracts_data_from_json_to_csv/)
+- [Manipulating PotPlayer windows using Python - move video to different directory](https://www.reddit.com/r/Python/comments/y01wtb/manipulating_potplayer_windows_using_python_move/)
+- [Turbulence in Flocking Behavior Versus Fuel Injector](https://www.reddit.com/r/Python/comments/y00mej/turbulence_in_flocking_behavior_versus_fuel/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/y0069z/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
