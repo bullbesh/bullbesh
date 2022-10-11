@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [FREE PYTHON ZOOM FOR ADULTS 1st WEEK](https://www.reddit.com/r/Python/comments/y178u9/free_python_zoom_for_adults_1st_week/)
+- [object detection with python?](https://www.reddit.com/r/Python/comments/y19njo/object_detection_with_python/)
 - [Image Similarity Search using PyTorch &amp; Spotify Annoy](https://www.reddit.com/r/Python/comments/y15vs3/image_similarity_search_using_pytorch_spotify/)
 - [Classically - Classifier Comparison and Feature Analysis](https://www.reddit.com/r/Python/comments/y15cm8/classically_classifier_comparison_and_feature/)
 - [Is there a way to create a markdown document containing only outputs?](https://www.reddit.com/r/Python/comments/y140qd/is_there_a_way_to_create_a_markdown_document/)
