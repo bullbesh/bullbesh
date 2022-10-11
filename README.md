@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New release of django-metamask-auth](https://www.reddit.com/r/Python/comments/y1ce4n/new_release_of_djangometamaskauth/)
+- [Feature Selection Techniques](https://www.reddit.com/r/Python/comments/y1c7ur/feature_selection_techniques/)
 - [Debugging PyTorch memory use with snapshots](https://www.reddit.com/r/Python/comments/y1bzue/debugging_pytorch_memory_use_with_snapshots/)
 - [How We Boosted Video Processing Speed 5x by Optimizing GPU Usage in Python](https://www.reddit.com/r/Python/comments/y1bjxi/how_we_boosted_video_processing_speed_5x_by/)
 - [Is an easy sms bomber hard project to do&gt;?](https://www.reddit.com/r/Python/comments/y1ba5j/is_an_easy_sms_bomber_hard_project_to_do/)
-- [Scrape and book bot for trucking](https://www.reddit.com/r/Python/comments/y1alhm/scrape_and_book_bot_for_trucking/)
-- [Python News: What&#39;s New From September 2022? – Real Python](https://www.reddit.com/r/Python/comments/y1a7zx/python_news_whats_new_from_september_2022_real/)
 <!-- BLOG-POST-LIST:END -->
