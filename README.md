@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a complex randomizer GUI to randomize tasks using python tkinter. It contains a treeview to keep track of the tasks/things you randomize which you can edit.](https://www.reddit.com/r/Python/comments/y1ksbe/i_made_a_complex_randomizer_gui_to_randomize/)
+- [I have a begginers question :C](https://www.reddit.com/r/Python/comments/y1kqph/i_have_a_begginers_question_c/)
+- [What is the purpose of Main&lpar;&rpar; and using self.name= name at beginning?](https://www.reddit.com/r/Python/comments/y1khfh/what_is_the_purpose_of_main_and_using_selfname/)
+- [Can someone explain the main&lpar;&rpar; function and what it is used for?](https://www.reddit.com/r/Python/comments/y1kfrd/can_someone_explain_the_main_function_and_what_it/)
 - [Merkury is a command line utility to run Python and SQL scripts and render static HTML or PDF reports with code and produced output](https://www.reddit.com/r/Python/comments/y1jgbo/merkury_is_a_command_line_utility_to_run_python/)
-- [I’m taking Python Bootcamp From Zero to Hero on Udemy. I’m looking for additional material to study along with the course. Is Python Crash Course a nice supplemental material to the course?](https://www.reddit.com/r/Python/comments/y1jefe/im_taking_python_bootcamp_from_zero_to_hero_on/)
-- [Best Beginner&#39;s Guide to Python](https://www.reddit.com/r/Python/comments/y1ikpd/best_beginners_guide_to_python/)
-- [Team for projects](https://www.reddit.com/r/Python/comments/y1id3r/team_for_projects/)
-- [Python Password Manager](https://www.reddit.com/r/Python/comments/y1goq6/python_password_manager/)
 <!-- BLOG-POST-LIST:END -->
