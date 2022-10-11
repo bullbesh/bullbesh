@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there a way to create a markdown document containing only outputs?](https://www.reddit.com/r/Python/comments/y140qd/is_there_a_way_to_create_a_markdown_document/)
+- [RSI Algorithm in Python](https://www.reddit.com/r/Python/comments/y13ywh/rsi_algorithm_in_python/)
 - [Asking for Feedback: We built a tool that automatically generates API tests](https://www.reddit.com/r/Python/comments/y12xq0/asking_for_feedback_we_built_a_tool_that/)
 - [How to Track the Rank of Keywords in Google SERPs using Python](https://www.reddit.com/r/Python/comments/y12p5i/how_to_track_the_rank_of_keywords_in_google_serps/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/y0u2xl/tuesday_daily_thread_advanced_questions/)
-- [The Pdfalyzer is a tool for visualizing the inner tree structure of a PDF in large and colorful diagrams as well as scanning its internals for suspicious content](https://www.reddit.com/r/Python/comments/y0rnqk/the_pdfalyzer_is_a_tool_for_visualizing_the_inner/)
-- [Been learning for a couple weeks. Made a project that allows you to store passwords locally.](https://www.reddit.com/r/Python/comments/y0p9aa/been_learning_for_a_couple_weeks_made_a_project/)
 <!-- BLOG-POST-LIST:END -->
