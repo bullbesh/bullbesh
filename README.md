@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [object detection with python?](https://www.reddit.com/r/Python/comments/y19njo/object_detection_with_python/)
-- [Image Similarity Search using PyTorch &amp; Spotify Annoy](https://www.reddit.com/r/Python/comments/y15vs3/image_similarity_search_using_pytorch_spotify/)
-- [Classically - Classifier Comparison and Feature Analysis](https://www.reddit.com/r/Python/comments/y15cm8/classically_classifier_comparison_and_feature/)
-- [Is there a way to create a markdown document containing only outputs?](https://www.reddit.com/r/Python/comments/y140qd/is_there_a_way_to_create_a_markdown_document/)
-- [RSI Algorithm in Python](https://www.reddit.com/r/Python/comments/y13ywh/rsi_algorithm_in_python/)
+- [Debugging PyTorch memory use with snapshots](https://www.reddit.com/r/Python/comments/y1bzue/debugging_pytorch_memory_use_with_snapshots/)
+- [How We Boosted Video Processing Speed 5x by Optimizing GPU Usage in Python](https://www.reddit.com/r/Python/comments/y1bjxi/how_we_boosted_video_processing_speed_5x_by/)
+- [Is an easy sms bomber hard project to do&gt;?](https://www.reddit.com/r/Python/comments/y1ba5j/is_an_easy_sms_bomber_hard_project_to_do/)
+- [Scrape and book bot for trucking](https://www.reddit.com/r/Python/comments/y1alhm/scrape_and_book_bot_for_trucking/)
+- [Python News: What&#39;s New From September 2022? – Real Python](https://www.reddit.com/r/Python/comments/y1a7zx/python_news_whats_new_from_september_2022_real/)
 <!-- BLOG-POST-LIST:END -->
