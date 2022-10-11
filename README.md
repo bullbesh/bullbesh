@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Image Similarity Search using PyTorch &amp; Spotify Annoy](https://www.reddit.com/r/Python/comments/y15vs3/image_similarity_search_using_pytorch_spotify/)
 - [Classically - Classifier Comparison and Feature Analysis](https://www.reddit.com/r/Python/comments/y15cm8/classically_classifier_comparison_and_feature/)
 - [Is there a way to create a markdown document containing only outputs?](https://www.reddit.com/r/Python/comments/y140qd/is_there_a_way_to_create_a_markdown_document/)
 - [RSI Algorithm in Python](https://www.reddit.com/r/Python/comments/y13ywh/rsi_algorithm_in_python/)
 - [Asking for Feedback: We built a tool that automatically generates API tests](https://www.reddit.com/r/Python/comments/y12xq0/asking_for_feedback_we_built_a_tool_that/)
-- [How to Track the Rank of Keywords in Google SERPs using Python](https://www.reddit.com/r/Python/comments/y12p5i/how_to_track_the_rank_of_keywords_in_google_serps/)
 <!-- BLOG-POST-LIST:END -->
