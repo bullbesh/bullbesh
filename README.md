@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Password Manager](https://www.reddit.com/r/Python/comments/y1goq6/python_password_manager/)
 - [Auto Incidents Creation From New Suspect Emails](https://www.reddit.com/r/Python/comments/y1gfyk/auto_incidents_creation_from_new_suspect_emails/)
 - [Free 45 Pages tutorial for Flask &lpar;How to build a mobile web&rpar;](https://www.reddit.com/r/Python/comments/y1fp3q/free_45_pages_tutorial_for_flask_how_to_build_a/)
 - [I made a new Python Keychain for my students](https://www.reddit.com/r/Python/comments/y1fkue/i_made_a_new_python_keychain_for_my_students/)
 - [Unravelling `if` statements](https://www.reddit.com/r/Python/comments/y1f464/unravelling_if_statements/)
-- [This awesome project publishes Python manylinux wheels for geospatial projects, including GDAL and pyproj. Today, wheels for Python 3.11 were released!](https://www.reddit.com/r/Python/comments/y1ead4/this_awesome_project_publishes_python_manylinux/)
 <!-- BLOG-POST-LIST:END -->
