@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Packj runner flags risky/malicious NPM/PyPI/Ruby dependencies in your PRs](https://www.reddit.com/r/Python/comments/y28tco/packj_runner_flags_riskymalicious_npmpypiruby/)
+- [I created a package for getting the native GUID of any device](https://www.reddit.com/r/Python/comments/y27fuy/i_created_a_package_for_getting_the_native_guid/)
+- [Any software for Image to Text?](https://www.reddit.com/r/Python/comments/y27ezw/any_software_for_image_to_text/)
 - [pararius: Python library to get information about houses from pararius.nl](https://www.reddit.com/r/Python/comments/y269fc/pararius_python_library_to_get_information_about/)
 - [Python dependency management difficulty is an unhelpful meme](https://www.reddit.com/r/Python/comments/y261ss/python_dependency_management_difficulty_is_an/)
-- [How to Train YOLOv7 on a Custom Dataset for License Plate Recognition in Python — ANPR / ALPR Tutorial — Theos AI](https://www.reddit.com/r/Python/comments/y25kbl/how_to_train_yolov7_on_a_custom_dataset_for/)
-- [Set Static Outgoing IP for AWS Lambda](https://www.reddit.com/r/Python/comments/y2589m/set_static_outgoing_ip_for_aws_lambda/)
-- [I created a tool to quickly view reference images using keybindings](https://www.reddit.com/r/Python/comments/y2519a/i_created_a_tool_to_quickly_view_reference_images/)
 <!-- BLOG-POST-LIST:END -->
