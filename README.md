@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make rock/paper/scissors in Python](https://www.reddit.com/r/Python/comments/y1tt7h/how_to_make_rockpaperscissors_in_python/)
+- [When to break down a script into functions?](https://www.reddit.com/r/Python/comments/y1sgax/when_to_break_down_a_script_into_functions/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/y1oht5/wednesday_daily_thread_beginner_questions/)
 - [I made a randomizer GUI to randomize tasks using python tkinter. It contains a treeview to keep track of the tasks/things you randomize which you can edit.](https://www.reddit.com/r/Python/comments/y1mbsv/i_made_a_randomizer_gui_to_randomize_tasks_using/)
 - [Python 3.10.8](https://www.reddit.com/r/Python/comments/y1lu0b/python_3108/)
-- [Which of your favorite Python 3.11 packages lack Python 3.11 support?](https://www.reddit.com/r/Python/comments/y1ldtp/which_of_your_favorite_python_311_packages_lack/)
-- [Merkury is a command line utility to run Python and SQL scripts and render static HTML or PDF reports with code and produced output](https://www.reddit.com/r/Python/comments/y1jgbo/merkury_is_a_command_line_utility_to_run_python/)
 <!-- BLOG-POST-LIST:END -->
