@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is your preferred method of using pathlib?](https://www.reddit.com/r/Python/comments/y2ixgo/what_is_your_preferred_method_of_using_pathlib/)
 - [Riffing on triplet sum to a target](https://www.reddit.com/r/Python/comments/y2gpr6/riffing_on_triplet_sum_to_a_target/)
 - [Dan Becker’s &lpar;Kaggle learn co-creator, Google &amp; DataRobot&rpar; Machine Learning with Tabular Data](https://www.reddit.com/r/Python/comments/y2fg3o/dan_beckers_kaggle_learn_cocreator_google/)
 - [Using LaTeX in Python](https://www.reddit.com/r/Python/comments/y2f107/using_latex_in_python/)
 - [I&#39;ve built an Auto Subtitled Video Generator using Streamlit and OpenAI Whisper, hosted on HuggingFace spaces.](https://www.reddit.com/r/Python/comments/y2cd4a/ive_built_an_auto_subtitled_video_generator_using/)
-- [What&#39;s the average salary of Junior Python Developer in other countries? &lpar;I&#39;m based in Czech Republic&rpar;](https://www.reddit.com/r/Python/comments/y2c5lh/whats_the_average_salary_of_junior_python/)
 <!-- BLOG-POST-LIST:END -->
