@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Empty Spaces](https://www.reddit.com/r/Python/comments/y1y0lh/empty_spaces/)
 - [from imageai.Detection import ObjectDetection doesn&#39;t work](https://www.reddit.com/r/Python/comments/y1xyb8/from_imageaidetection_import_objectdetection/)
 - [What to learn in python so I can make myself marketable towards sustainability/conservation sectors](https://www.reddit.com/r/Python/comments/y1uxf9/what_to_learn_in_python_so_i_can_make_myself/)
 - [How to make rock/paper/scissors in Python](https://www.reddit.com/r/Python/comments/y1tt7h/how_to_make_rockpaperscissors_in_python/)
 - [When to break down a script into functions?](https://www.reddit.com/r/Python/comments/y1sgax/when_to_break_down_a_script_into_functions/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/y1oht5/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
