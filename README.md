@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create intelligent Python functions that respond to HTTP requests and classify images with Azure Functions and Custom Vision](https://www.reddit.com/r/Python/comments/y234yy/how_to_create_intelligent_python_functions_that/)
+- [Reticulum Network Stack - A transport agnostic cryptography-based networking stack with E2EE and PFS](https://www.reddit.com/r/Python/comments/y21uxc/reticulum_network_stack_a_transport_agnostic/)
 - [Create A Reddit Post Notifier in Python](https://www.reddit.com/r/Python/comments/y1zhjx/create_a_reddit_post_notifier_in_python/)
 - [tools for Architecture design and presentation](https://www.reddit.com/r/Python/comments/y1zc3i/tools_for_architecture_design_and_presentation/)
 - [from imageai.Detection import ObjectDetection doesn&#39;t work](https://www.reddit.com/r/Python/comments/y1xyb8/from_imageaidetection_import_objectdetection/)
-- [What to learn in python so I can make myself marketable towards sustainability/conservation sectors](https://www.reddit.com/r/Python/comments/y1uxf9/what_to_learn_in_python_so_i_can_make_myself/)
-- [How to make rock/paper/scissors in Python](https://www.reddit.com/r/Python/comments/y1tt7h/how_to_make_rockpaperscissors_in_python/)
 <!-- BLOG-POST-LIST:END -->
