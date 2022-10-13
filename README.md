@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Storing and querying large json array of data](https://www.reddit.com/r/Python/comments/y36kbw/storing_and_querying_large_json_array_of_data/)
+- [I wrote a tool to extract the prices of medical procedures from the newly released MRFs](https://www.reddit.com/r/Python/comments/y36c4z/i_wrote_a_tool_to_extract_the_prices_of_medical/)
 - [Generating Chess Puzzles with Genetic Algorithms](https://www.reddit.com/r/Python/comments/y34t9x/generating_chess_puzzles_with_genetic_algorithms/)
 - [Free week on Pluralsight, which courses are worth having a look for a Python developer?](https://www.reddit.com/r/Python/comments/y34rxs/free_week_on_pluralsight_which_courses_are_worth/)
 - [Classic Topic Modeling with BM25](https://www.reddit.com/r/Python/comments/y33wm4/classic_topic_modeling_with_bm25/)
-- [How big is the market for back-end &lpar;Flask&rpar;/API Python developers?](https://www.reddit.com/r/Python/comments/y33gp0/how_big_is_the_market_for_backend_flaskapi_python/)
-- [Angela yu VS muslim helalee courses for learning python?](https://www.reddit.com/r/Python/comments/y32na3/angela_yu_vs_muslim_helalee_courses_for_learning/)
 <!-- BLOG-POST-LIST:END -->
