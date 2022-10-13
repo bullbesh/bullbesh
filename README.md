@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Angela yu VS muslim helalee courses for learning python?](https://www.reddit.com/r/Python/comments/y32na3/angela_yu_vs_muslim_helalee_courses_for_learning/)
+- [Quiz: What Is Your Salary?](https://www.reddit.com/r/Python/comments/y32fsg/quiz_what_is_your_salary/)
 - [&quot;Python Performance Matters&quot; by Emery Berger &lpar;Strange Loop 2022&rpar;](https://www.reddit.com/r/Python/comments/y30xb5/python_performance_matters_by_emery_berger/)
 - [Meile dVPN is a decentralized VPN client utilizing the Sentinel Blockchain](https://www.reddit.com/r/Python/comments/y30pb3/meile_dvpn_is_a_decentralized_vpn_client/)
 - [The Best Python Framework?!](https://www.reddit.com/r/Python/comments/y30es0/the_best_python_framework/)
-- [Load API Data to SQL Server Using Python and Generate Report with Power BI](https://www.reddit.com/r/Python/comments/y30784/load_api_data_to_sql_server_using_python_and/)
-- [Running a Tableau Prep flow process from script?](https://www.reddit.com/r/Python/comments/y2z9gb/running_a_tableau_prep_flow_process_from_script/)
 <!-- BLOG-POST-LIST:END -->
