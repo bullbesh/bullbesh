@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [extracting text from images using python](https://www.reddit.com/r/Python/comments/y2mvkv/extracting_text_from_images_using_python/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/y2jpp1/thursday_daily_thread_python_careers_courses_and/)
 - [What is your preferred method of using pathlib?](https://www.reddit.com/r/Python/comments/y2ixgo/what_is_your_preferred_method_of_using_pathlib/)
 - [Riffing on triplet sum to a target](https://www.reddit.com/r/Python/comments/y2gpr6/riffing_on_triplet_sum_to_a_target/)
 - [Dan Becker’s &lpar;Kaggle learn co-creator, Google &amp; DataRobot&rpar; Machine Learning with Tabular Data](https://www.reddit.com/r/Python/comments/y2fg3o/dan_beckers_kaggle_learn_cocreator_google/)
-- [Using LaTeX in Python](https://www.reddit.com/r/Python/comments/y2f107/using_latex_in_python/)
-- [I&#39;ve built an Auto Subtitled Video Generator using Streamlit and OpenAI Whisper, hosted on HuggingFace spaces.](https://www.reddit.com/r/Python/comments/y2cd4a/ive_built_an_auto_subtitled_video_generator_using/)
 <!-- BLOG-POST-LIST:END -->
