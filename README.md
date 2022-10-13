@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I’ve been using Metable.ai with VSCode for python development- works fine, thought to share](https://www.reddit.com/r/Python/comments/y2y141/ive_been_using_metableai_with_vscode_for_python/)
+- [Do you remember what your first programming language was? 🙂](https://www.reddit.com/r/Python/comments/y2xh6h/do_you_remember_what_your_first_programming/)
+- [Starlite: v1.27.0 updates](https://www.reddit.com/r/Python/comments/y2w6fl/starlite_v1270_updates/)
 - [Webcast Series: Python for C# Developers](https://www.reddit.com/r/Python/comments/y2w2sh/webcast_series_python_for_c_developers/)
 - [Load Data Asynchronously to SQL Server via an API and Python](https://www.reddit.com/r/Python/comments/y2u2jg/load_data_asynchronously_to_sql_server_via_an_api/)
-- [what&#39;s a good IDE which also has python notebook](https://www.reddit.com/r/Python/comments/y2s8kw/whats_a_good_ide_which_also_has_python_notebook/)
-- [Impose new syntax for test cases](https://www.reddit.com/r/Python/comments/y2rrdz/impose_new_syntax_for_test_cases/)
-- [Making Python classes serializable to/from JSON](https://www.reddit.com/r/Python/comments/y2oa2u/making_python_classes_serializable_tofrom_json/)
 <!-- BLOG-POST-LIST:END -->
