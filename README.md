@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generating Chess Puzzles with Genetic Algorithms](https://www.reddit.com/r/Python/comments/y34t9x/generating_chess_puzzles_with_genetic_algorithms/)
+- [Free week on Pluralsight, which courses are worth having a look for a Python developer?](https://www.reddit.com/r/Python/comments/y34rxs/free_week_on_pluralsight_which_courses_are_worth/)
+- [Classic Topic Modeling with BM25](https://www.reddit.com/r/Python/comments/y33wm4/classic_topic_modeling_with_bm25/)
+- [How big is the market for back-end &lpar;Flask&rpar;/API Python developers?](https://www.reddit.com/r/Python/comments/y33gp0/how_big_is_the_market_for_backend_flaskapi_python/)
 - [Angela yu VS muslim helalee courses for learning python?](https://www.reddit.com/r/Python/comments/y32na3/angela_yu_vs_muslim_helalee_courses_for_learning/)
-- [Quiz: What Is Your Salary?](https://www.reddit.com/r/Python/comments/y32fsg/quiz_what_is_your_salary/)
-- [&quot;Python Performance Matters&quot; by Emery Berger &lpar;Strange Loop 2022&rpar;](https://www.reddit.com/r/Python/comments/y30xb5/python_performance_matters_by_emery_berger/)
-- [Meile dVPN is a decentralized VPN client utilizing the Sentinel Blockchain](https://www.reddit.com/r/Python/comments/y30pb3/meile_dvpn_is_a_decentralized_vpn_client/)
-- [The Best Python Framework?!](https://www.reddit.com/r/Python/comments/y30es0/the_best_python_framework/)
 <!-- BLOG-POST-LIST:END -->
