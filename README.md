@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Webcast Series: Python for C# Developers](https://www.reddit.com/r/Python/comments/y2w2sh/webcast_series_python_for_c_developers/)
 - [Load Data Asynchronously to SQL Server via an API and Python](https://www.reddit.com/r/Python/comments/y2u2jg/load_data_asynchronously_to_sql_server_via_an_api/)
 - [what&#39;s a good IDE which also has python notebook](https://www.reddit.com/r/Python/comments/y2s8kw/whats_a_good_ide_which_also_has_python_notebook/)
 - [Impose new syntax for test cases](https://www.reddit.com/r/Python/comments/y2rrdz/impose_new_syntax_for_test_cases/)
 - [Making Python classes serializable to/from JSON](https://www.reddit.com/r/Python/comments/y2oa2u/making_python_classes_serializable_tofrom_json/)
-- [extracting text from images using python](https://www.reddit.com/r/Python/comments/y2mvkv/extracting_text_from_images_using_python/)
 <!-- BLOG-POST-LIST:END -->
