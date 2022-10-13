@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Running a Tableau Prep flow process from script?](https://www.reddit.com/r/Python/comments/y2z9gb/running_a_tableau_prep_flow_process_from_script/)
+- [Calculator 2](https://www.reddit.com/r/Python/comments/y2yje6/calculator_2/)
 - [I’ve been using Metable.ai with VSCode for python development- works fine, thought to share](https://www.reddit.com/r/Python/comments/y2y141/ive_been_using_metableai_with_vscode_for_python/)
 - [Do you remember what your first programming language was? 🙂](https://www.reddit.com/r/Python/comments/y2xh6h/do_you_remember_what_your_first_programming/)
 - [Starlite: v1.27.0 updates](https://www.reddit.com/r/Python/comments/y2w6fl/starlite_v1270_updates/)
-- [Webcast Series: Python for C# Developers](https://www.reddit.com/r/Python/comments/y2w2sh/webcast_series_python_for_c_developers/)
-- [Load Data Asynchronously to SQL Server via an API and Python](https://www.reddit.com/r/Python/comments/y2u2jg/load_data_asynchronously_to_sql_server_via_an_api/)
 <!-- BLOG-POST-LIST:END -->
