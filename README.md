@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best practices for providing examples for Python packages](https://www.reddit.com/r/Python/comments/y3inzj/best_practices_for_providing_examples_for_python/)
 - [OpenCV mask with python](https://www.reddit.com/r/Python/comments/y3hrsd/opencv_mask_with_python/)
-- [Filtring csv file datas and save them another csv file using Python](https://www.reddit.com/r/Python/comments/y3hgcq/filtring_csv_file_datas_and_save_them_another_csv/)
-- [How to improve the efficiency of this piece of code? With millions of points. It will run in days. Please help, thanks](https://www.reddit.com/r/Python/comments/y3g4cp/how_to_improve_the_efficiency_of_this_piece_of/)
 - [Instructor split us into teams to turn a percentage into a letter grade &quot;using as few lines of code as possible&quot;; here is the monstrosity our team came up with.](https://www.reddit.com/r/Python/comments/y3dzhu/instructor_split_us_into_teams_to_turn_a/)
-- [Mnist help](https://www.reddit.com/r/Python/comments/y3d50n/mnist_help/)
+- [New, free book from Al Sweigart: Python Programming Exercises, Gently Explained](https://www.reddit.com/r/Python/comments/y38r6b/new_free_book_from_al_sweigart_python_programming/)
+- [CNZero dev Update: visualizer is working with several features&lpar;more info in the comments&rpar;](https://www.reddit.com/r/Python/comments/y38ft9/cnzero_dev_update_visualizer_is_working_with/)
 <!-- BLOG-POST-LIST:END -->
