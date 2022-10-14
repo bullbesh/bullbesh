@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Im stuck with it](https://www.reddit.com/r/Python/comments/y3tzw5/im_stuck_with_it/)
+- [I wrote a tool for running tests 100x - 1000x slower](https://www.reddit.com/r/Python/comments/y3w4ss/i_wrote_a_tool_for_running_tests_100x_1000x_slower/)
+- [Pain points of moving to Poetry?](https://www.reddit.com/r/Python/comments/y3vzho/pain_points_of_moving_to_poetry/)
 - [Firebird driver for Python v1.6.0 is released](https://www.reddit.com/r/Python/comments/y3ttrj/firebird_driver_for_python_v160_is_released/)
 - [Showcase: I built a tool for running pytest tests 95% faster](https://www.reddit.com/r/Python/comments/y3tdxh/showcase_i_built_a_tool_for_running_pytest_tests/)
 - [neograd - A deep learning framework created from scratch using Python and NumPy](https://www.reddit.com/r/Python/comments/y3t15p/neograd_a_deep_learning_framework_created_from/)
-- [Topic Modeling with BM25 and Graphs](https://www.reddit.com/r/Python/comments/y3qwni/topic_modeling_with_bm25_and_graphs/)
 <!-- BLOG-POST-LIST:END -->
