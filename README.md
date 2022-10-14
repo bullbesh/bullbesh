@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Im stuck with it](https://www.reddit.com/r/Python/comments/y3tzw5/im_stuck_with_it/)
+- [Firebird driver for Python v1.6.0 is released](https://www.reddit.com/r/Python/comments/y3ttrj/firebird_driver_for_python_v160_is_released/)
+- [Showcase: I built a tool for running pytest tests 95% faster](https://www.reddit.com/r/Python/comments/y3tdxh/showcase_i_built_a_tool_for_running_pytest_tests/)
 - [neograd - A deep learning framework created from scratch using Python and NumPy](https://www.reddit.com/r/Python/comments/y3t15p/neograd_a_deep_learning_framework_created_from/)
-- [Creating virtual env using pipenv without launching a subshell](https://www.reddit.com/r/Python/comments/y3sqhl/creating_virtual_env_using_pipenv_without/)
 - [Topic Modeling with BM25 and Graphs](https://www.reddit.com/r/Python/comments/y3qwni/topic_modeling_with_bm25_and_graphs/)
-- [API to fetch real time markets data from Binance](https://www.reddit.com/r/Python/comments/y3q3bg/api_to_fetch_real_time_markets_data_from_binance/)
-- [pyffi - Use Python from Racket](https://www.reddit.com/r/Python/comments/y3prlo/pyffi_use_python_from_racket/)
 <!-- BLOG-POST-LIST:END -->
