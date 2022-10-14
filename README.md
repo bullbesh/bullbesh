@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [After analyzing the work of 2,000+ dev teams, data scientists found that companies using C++ and Ruby have the longest wait times between when a pull request is created and code merged &lpar;~150 hours and ~90 hours&rpar;. Companies using Java, C# and Python had the shortest &lpar;between 20-30 hours&rpar;.](https://www.reddit.com/r/Python/comments/y3y6bx/after_analyzing_the_work_of_2000_dev_teams_data/)
-- [Fleet is out. Thoughts?](https://www.reddit.com/r/Python/comments/y3y0hb/fleet_is_out_thoughts/)
+- [A python-based a Twitter bot to post every frame of a given .mp4 file.](https://www.reddit.com/r/Python/comments/y3zjb7/a_pythonbased_a_twitter_bot_to_post_every_frame/)
+- [what features would you like to see in a obsidian.md competitor made in python?](https://www.reddit.com/r/Python/comments/y3z1ky/what_features_would_you_like_to_see_in_a/)
 - [I wrote a tool for running tests 100x - 1000x slower](https://www.reddit.com/r/Python/comments/y3w4ss/i_wrote_a_tool_for_running_tests_100x_1000x_slower/)
 - [Pain points of moving to Poetry?](https://www.reddit.com/r/Python/comments/y3vzho/pain_points_of_moving_to_poetry/)
 - [Firebird driver for Python v1.6.0 is released](https://www.reddit.com/r/Python/comments/y3ttrj/firebird_driver_for_python_v160_is_released/)
