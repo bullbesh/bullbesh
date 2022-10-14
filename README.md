@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New distributed rate limiter library written in Rust, with pyo3](https://www.reddit.com/r/Python/comments/y3p1eq/new_distributed_rate_limiter_library_written_in/)
+- [Underwater image and video color correction with Python](https://www.reddit.com/r/Python/comments/y3onmb/underwater_image_and_video_color_correction_with/)
+- [I am having doubts about python as a whole...Please read...](https://www.reddit.com/r/Python/comments/y3ob34/i_am_having_doubts_about_python_as_a_wholeplease/)
 - [What&#39;s new in the upcoming JupyterLab 4](https://www.reddit.com/r/Python/comments/y3m7oj/whats_new_in_the_upcoming_jupyterlab_4/)
 - [Best practices for providing examples for Python packages](https://www.reddit.com/r/Python/comments/y3inzj/best_practices_for_providing_examples_for_python/)
-- [Instructor split us into teams to turn a percentage into a letter grade &quot;using as few lines of code as possible&quot;; here is the monstrosity our team came up with.](https://www.reddit.com/r/Python/comments/y3dzhu/instructor_split_us_into_teams_to_turn_a/)
-- [New, free book from Al Sweigart: Python Programming Exercises, Gently Explained](https://www.reddit.com/r/Python/comments/y38r6b/new_free_book_from_al_sweigart_python_programming/)
-- [CNZero dev Update: visualizer is working with several features&lpar;more info in the comments&rpar;](https://www.reddit.com/r/Python/comments/y38ft9/cnzero_dev_update_visualizer_is_working_with/)
 <!-- BLOG-POST-LIST:END -->
