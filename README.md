@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [neograd - A deep learning framework created from scratch using Python and NumPy](https://www.reddit.com/r/Python/comments/y3t15p/neograd_a_deep_learning_framework_created_from/)
+- [Creating virtual env using pipenv without launching a subshell](https://www.reddit.com/r/Python/comments/y3sqhl/creating_virtual_env_using_pipenv_without/)
 - [Topic Modeling with BM25 and Graphs](https://www.reddit.com/r/Python/comments/y3qwni/topic_modeling_with_bm25_and_graphs/)
 - [API to fetch real time markets data from Binance](https://www.reddit.com/r/Python/comments/y3q3bg/api_to_fetch_real_time_markets_data_from_binance/)
 - [pyffi - Use Python from Racket](https://www.reddit.com/r/Python/comments/y3prlo/pyffi_use_python_from_racket/)
-- [New distributed rate limiter library written in Rust, with pyo3](https://www.reddit.com/r/Python/comments/y3p1eq/new_distributed_rate_limiter_library_written_in/)
-- [Underwater image and video color correction with Python](https://www.reddit.com/r/Python/comments/y3onmb/underwater_image_and_video_color_correction_with/)
 <!-- BLOG-POST-LIST:END -->
