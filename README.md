@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenCV mask with python](https://www.reddit.com/r/Python/comments/y3hrsd/opencv_mask_with_python/)
+- [Filtring csv file datas and save them another csv file using Python](https://www.reddit.com/r/Python/comments/y3hgcq/filtring_csv_file_datas_and_save_them_another_csv/)
+- [How to improve the efficiency of this piece of code? With millions of points. It will run in days. Please help, thanks](https://www.reddit.com/r/Python/comments/y3g4cp/how_to_improve_the_efficiency_of_this_piece_of/)
+- [Instructor split us into teams to turn a percentage into a letter grade &quot;using as few lines of code as possible&quot;; here is the monstrosity our team came up with.](https://www.reddit.com/r/Python/comments/y3dzhu/instructor_split_us_into_teams_to_turn_a/)
 - [Mnist help](https://www.reddit.com/r/Python/comments/y3d50n/mnist_help/)
-- [New, free book from Al Sweigart: Python Programming Exercises, Gently Explained](https://www.reddit.com/r/Python/comments/y38r6b/new_free_book_from_al_sweigart_python_programming/)
-- [CNZero dev Update: visualizer is working with several features&lpar;more info in the comments&rpar;](https://www.reddit.com/r/Python/comments/y38ft9/cnzero_dev_update_visualizer_is_working_with/)
-- [Storing and querying large json array of data](https://www.reddit.com/r/Python/comments/y36kbw/storing_and_querying_large_json_array_of_data/)
-- [I wrote a tool to extract the prices of medical procedures from the newly released MRFs](https://www.reddit.com/r/Python/comments/y36c4z/i_wrote_a_tool_to_extract_the_prices_of_medical/)
 <!-- BLOG-POST-LIST:END -->
