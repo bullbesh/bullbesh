@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Excellent Python Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/y4ig47/8_excellent_python_courses_on_udemy_2022/)
+- [The Best Machine Learning Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/y4ib2o/the_best_machine_learning_courses_on_udemy_2022/)
 - [Pet project turning v0.0.3](https://www.reddit.com/r/Python/comments/y4h8os/pet_project_turning_v003/)
 - [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/y4h39y/python_cybersecurity_build_your_own_python_tools/)
 - [What makes a good library name?](https://www.reddit.com/r/Python/comments/y4geri/what_makes_a_good_library_name/)
-- [HELP! This code is not running in VScode. P:&rpar; I&#39;m a beginner in Python.](https://www.reddit.com/r/Python/comments/y4g8yr/help_this_code_is_not_running_in_vscode_p_im_a/)
-- [Python/ai coding](https://www.reddit.com/r/Python/comments/y4f9z5/pythonai_coding/)
 <!-- BLOG-POST-LIST:END -->
