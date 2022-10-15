@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What makes a good library name?](https://www.reddit.com/r/Python/comments/y4geri/what_makes_a_good_library_name/)
+- [HELP! This code is not running in VScode. P:&rpar; I&#39;m a beginner in Python.](https://www.reddit.com/r/Python/comments/y4g8yr/help_this_code_is_not_running_in_vscode_p_im_a/)
 - [Python/ai coding](https://www.reddit.com/r/Python/comments/y4f9z5/pythonai_coding/)
 - [PyPy 3.10](https://www.reddit.com/r/Python/comments/y4f3h1/pypy_310/)
 - [Visualize your network connections!](https://www.reddit.com/r/Python/comments/y4besn/visualize_your_network_connections/)
-- [Crazy user-defined Type Operators works in mypy, are they legal?](https://www.reddit.com/r/Python/comments/y4a2g4/crazy_userdefined_type_operators_works_in_mypy/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/y4981u/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
