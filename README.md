@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [polars 0.14.19 first release with larger than RAM capabilities.](https://www.reddit.com/r/Python/comments/y4kue8/polars_01419_first_release_with_larger_than_ram/)
-- [Interpreters and WTFs - Part 1](https://www.reddit.com/r/Python/comments/y4kp3v/interpreters_and_wtfs_part_1/)
-- [Learn Linear Algebra for Data Science and ML &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/y4k9n5/learn_linear_algebra_for_data_science_and_ml/)
-- [GitHub - omarmhaimdat/whatlang-pyo3: Python Binding for Rust WhatLang](https://www.reddit.com/r/Python/comments/y4k3vj/github_omarmhaimdatwhatlangpyo3_python_binding/)
-- [Linear Regression Stock Price](https://www.reddit.com/r/Python/comments/y4jtkv/linear_regression_stock_price/)
+- [How to set up WebSockets in Starlette](https://www.reddit.com/r/Python/comments/y4n0d9/how_to_set_up_websockets_in_starlette/)
+- [A checklist to speed up your pytest suite](https://www.reddit.com/r/Python/comments/y4mkml/a_checklist_to_speed_up_your_pytest_suite/)
+- [arts and kwargs in python](https://www.reddit.com/r/Python/comments/y4mjox/arts_and_kwargs_in_python/)
+- [Building Implicit Interfaces in Python with Protocol Classes – Andrew Brookins](https://www.reddit.com/r/Python/comments/y4m4oj/building_implicit_interfaces_in_python_with/)
+- [Try Except Else question- when do you use Else?](https://www.reddit.com/r/Python/comments/y4lndz/try_except_else_question_when_do_you_use_else/)
 <!-- BLOG-POST-LIST:END -->
