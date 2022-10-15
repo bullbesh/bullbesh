@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Cartesian product by example](https://www.reddit.com/r/Python/comments/y4tgv1/cartesian_product_by_example/)
-- [When I run my Python file it keeps executing the first script I created](https://www.reddit.com/r/Python/comments/y4t1ex/when_i_run_my_python_file_it_keeps_executing_the/)
 - [Where do Data Analyst and Data Science ask question most of the time &lpar;except StackOverflow and StackExchange&rpar;?](https://www.reddit.com/r/Python/comments/y4nzzl/where_do_data_analyst_and_data_science_ask/)
 - [Open sourcing our company&#39;s research on Explainable AI &lpar;XAI&rpar;. Issues and stars are welcome](https://www.reddit.com/r/Python/comments/y4ns21/open_sourcing_our_companys_research_on/)
 - [How to set up WebSockets in Starlette](https://www.reddit.com/r/Python/comments/y4n0d9/how_to_set_up_websockets_in_starlette/)
+- [A checklist to speed up your pytest suite](https://www.reddit.com/r/Python/comments/y4mkml/a_checklist_to_speed_up_your_pytest_suite/)
 <!-- BLOG-POST-LIST:END -->
