@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made a Streamlit app to show demographic breakdowns by age, race, gender, and education in the biggest 100 US metro areas.](https://www.reddit.com/r/Python/comments/y4jdh7/made_a_streamlit_app_to_show_demographic/)
+- [Made a fb messenger bot that can perform almost any task and more customizable](https://www.reddit.com/r/Python/comments/y4iopk/made_a_fb_messenger_bot_that_can_perform_almost/)
+- [Seaborn Visualization | Superheros Powers](https://www.reddit.com/r/Python/comments/y4inct/seaborn_visualization_superheros_powers/)
 - [8 Excellent Python Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/y4ig47/8_excellent_python_courses_on_udemy_2022/)
 - [The Best Machine Learning Courses on Udemy &lpar;2022&rpar;](https://www.reddit.com/r/Python/comments/y4ib2o/the_best_machine_learning_courses_on_udemy_2022/)
-- [Pet project turning v0.0.3](https://www.reddit.com/r/Python/comments/y4h8os/pet_project_turning_v003/)
-- [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/y4h39y/python_cybersecurity_build_your_own_python_tools/)
-- [What makes a good library name?](https://www.reddit.com/r/Python/comments/y4geri/what_makes_a_good_library_name/)
 <!-- BLOG-POST-LIST:END -->
