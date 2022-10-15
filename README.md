@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [polars 0.14.19 first release with larger than RAM capabilities.](https://www.reddit.com/r/Python/comments/y4kue8/polars_01419_first_release_with_larger_than_ram/)
+- [Interpreters and WTFs - Part 1](https://www.reddit.com/r/Python/comments/y4kp3v/interpreters_and_wtfs_part_1/)
 - [Learn Linear Algebra for Data Science and ML &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/y4k9n5/learn_linear_algebra_for_data_science_and_ml/)
 - [GitHub - omarmhaimdat/whatlang-pyo3: Python Binding for Rust WhatLang](https://www.reddit.com/r/Python/comments/y4k3vj/github_omarmhaimdatwhatlangpyo3_python_binding/)
 - [Linear Regression Stock Price](https://www.reddit.com/r/Python/comments/y4jtkv/linear_regression_stock_price/)
-- [Made a Streamlit app to show demographic breakdowns by age, race, gender, and education in the biggest 100 US metro areas.](https://www.reddit.com/r/Python/comments/y4jdh7/made_a_streamlit_app_to_show_demographic/)
-- [Made a fb messenger bot that can perform almost any task and more customizable](https://www.reddit.com/r/Python/comments/y4iopk/made_a_fb_messenger_bot_that_can_perform_almost/)
 <!-- BLOG-POST-LIST:END -->
