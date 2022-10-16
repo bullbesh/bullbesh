@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Puff - Run Django / Flask / Python on Greenlets using Rust&#39;s Tokio.](https://www.reddit.com/r/Python/comments/y5onkf/announcing_puff_run_django_flask_python_on/)
+- [Equation Wiki](https://www.reddit.com/r/Python/comments/y5ohkn/equation_wiki/)
 - [What are some good learning resources for kids starting with Python?](https://www.reddit.com/r/Python/comments/y5jzir/what_are_some_good_learning_resources_for_kids/)
 - [Musings on Python Type Hints](https://www.reddit.com/r/Python/comments/y5elev/musings_on_python_type_hints/)
 - [Creating an e-commerce bot to buy online items with ScrapingBee and Python](https://www.reddit.com/r/Python/comments/y5ehx2/creating_an_ecommerce_bot_to_buy_online_items/)
-- [Small Mechanical Engineering and Physics Repo](https://www.reddit.com/r/Python/comments/y5d5lm/small_mechanical_engineering_and_physics_repo/)
-- [What do you want in a Python data science publication &lpar;blog&rpar;?](https://www.reddit.com/r/Python/comments/y5cg5q/what_do_you_want_in_a_python_data_science/)
 <!-- BLOG-POST-LIST:END -->
