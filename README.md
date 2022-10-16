@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I always hated the property decorator. So I fixed it.](https://www.reddit.com/r/Python/comments/y5jjmz/i_always_hated_the_property_decorator_so_i_fixed/)
-- [Abandoned showcase cinemas](https://www.reddit.com/r/Python/comments/y5ibsr/abandoned_showcase_cinemas/)
+- [Introduction to Machine Learning](https://www.reddit.com/r/Python/comments/y5k8hq/introduction_to_machine_learning/)
+- [What are some good learning resources for kids starting with Python?](https://www.reddit.com/r/Python/comments/y5jzir/what_are_some_good_learning_resources_for_kids/)
 - [Musings on Python Type Hints](https://www.reddit.com/r/Python/comments/y5elev/musings_on_python_type_hints/)
 - [Creating an e-commerce bot to buy online items with ScrapingBee and Python](https://www.reddit.com/r/Python/comments/y5ehx2/creating_an_ecommerce_bot_to_buy_online_items/)
 - [Small Mechanical Engineering and Physics Repo](https://www.reddit.com/r/Python/comments/y5d5lm/small_mechanical_engineering_and_physics_repo/)
