@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What do you want in a Python data science publication &lpar;blog&rpar;?](https://www.reddit.com/r/Python/comments/y5cg5q/what_do_you_want_in_a_python_data_science/)
+- [Understanding Hashing and Equality in Python with __hash__ and __eq__](https://www.reddit.com/r/Python/comments/y5bt6k/understanding_hashing_and_equality_in_python_with/)
 - [Calculator 2](https://www.reddit.com/r/Python/comments/y59y4o/calculator_2/)
 - [I built densify, a tool for visualizing point interpolation with matplotlib](https://www.reddit.com/r/Python/comments/y52mxv/i_built_densify_a_tool_for_visualizing_point/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/y52fbw/sunday_daily_thread_whats_everyone_working_on/)
-- [Check out my app!](https://www.reddit.com/r/Python/comments/y50egv/check_out_my_app/)
-- [Small PyPI package to log ressource consumption of remote cluster jobs](https://www.reddit.com/r/Python/comments/y4za0a/small_pypi_package_to_log_ressource_consumption/)
 <!-- BLOG-POST-LIST:END -->
