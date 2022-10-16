@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Musings on Python Type Hints](https://www.reddit.com/r/Python/comments/y5elev/musings_on_python_type_hints/)
+- [Creating an e-commerce bot to buy online items with ScrapingBee and Python](https://www.reddit.com/r/Python/comments/y5ehx2/creating_an_ecommerce_bot_to_buy_online_items/)
 - [What are some cool automation scripts that makes you money?](https://www.reddit.com/r/Python/comments/y5e3vj/what_are_some_cool_automation_scripts_that_makes/)
 - [Small Mechanical Engineering and Physics Repo](https://www.reddit.com/r/Python/comments/y5d5lm/small_mechanical_engineering_and_physics_repo/)
 - [What do you want in a Python data science publication &lpar;blog&rpar;?](https://www.reddit.com/r/Python/comments/y5cg5q/what_do_you_want_in_a_python_data_science/)
-- [Understanding Hashing and Equality in Python with __hash__ and __eq__](https://www.reddit.com/r/Python/comments/y5bt6k/understanding_hashing_and_equality_in_python_with/)
-- [Calculator 2](https://www.reddit.com/r/Python/comments/y59y4o/calculator_2/)
 <!-- BLOG-POST-LIST:END -->
