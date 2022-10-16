@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Small Mechanical Engineering and Physics Repo](https://www.reddit.com/r/Python/comments/y5d5lm/small_mechanical_engineering_and_physics_repo/)
 - [What do you want in a Python data science publication &lpar;blog&rpar;?](https://www.reddit.com/r/Python/comments/y5cg5q/what_do_you_want_in_a_python_data_science/)
 - [Understanding Hashing and Equality in Python with __hash__ and __eq__](https://www.reddit.com/r/Python/comments/y5bt6k/understanding_hashing_and_equality_in_python_with/)
 - [Calculator 2](https://www.reddit.com/r/Python/comments/y59y4o/calculator_2/)
 - [I built densify, a tool for visualizing point interpolation with matplotlib](https://www.reddit.com/r/Python/comments/y52mxv/i_built_densify_a_tool_for_visualizing_point/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/y52fbw/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
