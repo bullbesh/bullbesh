@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [reducing code lines &lpar;if statements&rpar;](https://www.reddit.com/r/Python/comments/y5t31e/reducing_code_lines_if_statements/)
 - [Architecture Versioning](https://www.reddit.com/r/Python/comments/y5q6ar/architecture_versioning/)
 - [Announcing Puff - Run Django / Flask / Python on Greenlets using Rust&#39;s Tokio.](https://www.reddit.com/r/Python/comments/y5onkf/announcing_puff_run_django_flask_python_on/)
 - [Equation Wiki](https://www.reddit.com/r/Python/comments/y5ohkn/equation_wiki/)
 - [What are some good learning resources for kids starting with Python?](https://www.reddit.com/r/Python/comments/y5jzir/what_are_some_good_learning_resources_for_kids/)
-- [Musings on Python Type Hints](https://www.reddit.com/r/Python/comments/y5elev/musings_on_python_type_hints/)
 <!-- BLOG-POST-LIST:END -->
