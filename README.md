@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Too complex for a beginner?](https://www.reddit.com/r/Python/comments/y59dlu/too_complex_for_a_beginner/)
+- [Calculator 2](https://www.reddit.com/r/Python/comments/y59y4o/calculator_2/)
 - [I built densify, a tool for visualizing point interpolation with matplotlib](https://www.reddit.com/r/Python/comments/y52mxv/i_built_densify_a_tool_for_visualizing_point/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/y52fbw/sunday_daily_thread_whats_everyone_working_on/)
 - [Check out my app!](https://www.reddit.com/r/Python/comments/y50egv/check_out_my_app/)
