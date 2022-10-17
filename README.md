@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [wanted dissuss in what way i convert this code to python](https://www.reddit.com/r/Python/comments/y6isq8/wanted_dissuss_in_what_way_i_convert_this_code_to/)
+- [python question](https://www.reddit.com/r/Python/comments/y6i0ln/python_question/)
 - [Showcasing async backend practices in python on example of FastAPI, complete with clear examples and explanations. Hope this will be helpful to those who&#39;re confused about concurrency in python](https://www.reddit.com/r/Python/comments/y6hb8j/showcasing_async_backend_practices_in_python_on/)
 - [&quot;Rock, paper, scissors&quot; game in the terminal with ASCII arts, colors and more](https://www.reddit.com/r/Python/comments/y6gn1g/rock_paper_scissors_game_in_the_terminal_with/)
 - [PYTHON CHARTS: the Python data visualization site with more than 500 different charts with reproducible code and color tools](https://www.reddit.com/r/Python/comments/y6fumv/python_charts_the_python_data_visualization_site/)
-- [Python CLI Tricks That Don’t Require Any Code Whatsoever](https://www.reddit.com/r/Python/comments/y6e039/python_cli_tricks_that_dont_require_any_code/)
-- [Python / Kids / Simple “Challenges”](https://www.reddit.com/r/Python/comments/y6dhaz/python_kids_simple_challenges/)
 <!-- BLOG-POST-LIST:END -->
