@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Pythoncgi.net explains how to use Python3 cgi to web program.](https://www.reddit.com/r/Python/comments/y5uyav/pythoncginet_explains_how_to_use_python3_cgi_to/)
-- [Three-digit lottery code?](https://www.reddit.com/r/Python/comments/y5upe0/threedigit_lottery_code/)
-- [reducing code lines &lpar;if statements&rpar;](https://www.reddit.com/r/Python/comments/y5t31e/reducing_code_lines_if_statements/)
-- [Architecture Versioning](https://www.reddit.com/r/Python/comments/y5q6ar/architecture_versioning/)
-- [Announcing Puff - Run Django / Flask / Python on Greenlets using Rust&#39;s Tokio.](https://www.reddit.com/r/Python/comments/y5onkf/announcing_puff_run_django_flask_python_on/)
+- [I’ve started to build a web app in Python](https://www.reddit.com/r/Python/comments/y5z2o1/ive_started_to_build_a_web_app_in_python/)
+- [Coding Assignment Assistance](https://www.reddit.com/r/Python/comments/y5ypoh/coding_assignment_assistance/)
+- [WKTPlot - A Python package for programmatically visualizing geo-spatial data](https://www.reddit.com/r/Python/comments/y5x2ki/wktplot_a_python_package_for_programmatically/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/y5vw8a/monday_daily_thread_project_ideas/)
+- [Any good local AI completion suggesters?](https://www.reddit.com/r/Python/comments/y5vtmc/any_good_local_ai_completion_suggesters/)
 <!-- BLOG-POST-LIST:END -->
