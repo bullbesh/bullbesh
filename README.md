@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to progress from mid-level to ninja with Python :&rpar;](https://www.reddit.com/r/Python/comments/y6c1we/how_to_progress_from_midlevel_to_ninja_with_python/)
-- [Renaming a list of files with dictionary](https://www.reddit.com/r/Python/comments/y68pmp/renaming_a_list_of_files_with_dictionary/)
-- [Python for mobile app](https://www.reddit.com/r/Python/comments/y6863a/python_for_mobile_app/)
-- [QPython 3L example script &quot;testcurses.py&quot; error fixed](https://www.reddit.com/r/Python/comments/y67hjg/qpython_3l_example_script_testcursespy_error_fixed/)
-- [Looking for beginner/intermediate level open source projects to contribute to](https://www.reddit.com/r/Python/comments/y672tz/looking_for_beginnerintermediate_level_open/)
+- [Python CLI Tricks That Don’t Require Any Code Whatsoever](https://www.reddit.com/r/Python/comments/y6e039/python_cli_tricks_that_dont_require_any_code/)
+- [Python / Kids / Simple “Challenges”](https://www.reddit.com/r/Python/comments/y6dhaz/python_kids_simple_challenges/)
+- [GitHub - brettcannon/desugar: Unravelling Python source code](https://www.reddit.com/r/Python/comments/y6d19b/github_brettcannondesugar_unravelling_python/)
+- [sitepath - the anti-packaging system](https://www.reddit.com/r/Python/comments/y6cp4l/sitepath_the_antipackaging_system/)
+- [I created a Streamlit UI for OpenAI&#39;s Whisper and added some basic scaffolding for transcript summarization](https://www.reddit.com/r/Python/comments/y6c8vn/i_created_a_streamlit_ui_for_openais_whisper_and/)
 <!-- BLOG-POST-LIST:END -->
