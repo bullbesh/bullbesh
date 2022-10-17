@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Job search](https://www.reddit.com/r/Python/comments/y66en3/job_search/)
+- [FastAPI for Beginners - 40 min](https://www.reddit.com/r/Python/comments/y661ze/fastapi_for_beginners_40_min/)
 - [Courses/resources of TraitsUI 7](https://www.reddit.com/r/Python/comments/y64z8a/coursesresources_of_traitsui_7/)
 - [Is a course worth learning Python coding?](https://www.reddit.com/r/Python/comments/y62tr5/is_a_course_worth_learning_python_coding/)
 - [I&#39;m working on a curses-based text editor!](https://www.reddit.com/r/Python/comments/y62cxv/im_working_on_a_cursesbased_text_editor/)
-- [I dont know how to get my inventory to pick up items](https://www.reddit.com/r/Python/comments/y60t49/i_dont_know_how_to_get_my_inventory_to_pick_up/)
-- [Hatch 1.6.0 - improved build environments and support for VS Code](https://www.reddit.com/r/Python/comments/y60lt5/hatch_160_improved_build_environments_and_support/)
 <!-- BLOG-POST-LIST:END -->
