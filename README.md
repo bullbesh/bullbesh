@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for mobile app](https://www.reddit.com/r/Python/comments/y6863a/python_for_mobile_app/)
 - [QPython 3L example script &quot;testcurses.py&quot; error fixed](https://www.reddit.com/r/Python/comments/y67hjg/qpython_3l_example_script_testcursespy_error_fixed/)
 - [Looking for beginner/intermediate level open source projects to contribute to](https://www.reddit.com/r/Python/comments/y672tz/looking_for_beginnerintermediate_level_open/)
 - [Job search](https://www.reddit.com/r/Python/comments/y66en3/job_search/)
 - [FastAPI for Beginners - 40 min](https://www.reddit.com/r/Python/comments/y661ze/fastapi_for_beginners_40_min/)
-- [Courses/resources of TraitsUI 7](https://www.reddit.com/r/Python/comments/y64z8a/coursesresources_of_traitsui_7/)
 <!-- BLOG-POST-LIST:END -->
