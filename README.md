@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple script to rename a file and update any references to that file.](https://www.reddit.com/r/Python/comments/y74dbb/simple_script_to_rename_a_file_and_update_any/)
 - [sqlalchemy-file: Attach files to your SQLAlchemy model and uploading them to various storage with Apache Libcloud.](https://www.reddit.com/r/Python/comments/y742xo/sqlalchemyfile_attach_files_to_your_sqlalchemy/)
-- [25$ Tkinter-Designer Giveaway 🔥💵](https://www.reddit.com/r/Python/comments/y735ec/25_tkinterdesigner_giveaway/)
 - [Create Beautiful Python GUI in minutes 🐍⏳ | New Tkinter-Designer tutorial is up on Youtube !!](https://www.reddit.com/r/Python/comments/y732it/create_beautiful_python_gui_in_minutes_new/)
 - [Python CLI Tricks That Don&#39;t Require Any Code Whatsoever | Martin Heinz](https://www.reddit.com/r/Python/comments/y71rac/python_cli_tricks_that_dont_require_any_code/)
 - [I made a CLI for downloading video hosted on Reddit!](https://www.reddit.com/r/Python/comments/y70t49/i_made_a_cli_for_downloading_video_hosted_on/)
