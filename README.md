@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Quick and Easy Pip Fixes if Pip Won&#39;t Install Modules in your project](https://www.reddit.com/r/Python/comments/y77r3l/quick_and_easy_pip_fixes_if_pip_wont_install/)
-- [seaborn v0.12.1 released](https://www.reddit.com/r/Python/comments/y76oxi/seaborn_v0121_released/)
-- [Is it possible to learn python coding solely using Pyto?](https://www.reddit.com/r/Python/comments/y76h37/is_it_possible_to_learn_python_coding_solely/)
-- [Simple script to rename a file and update any references to that file.](https://www.reddit.com/r/Python/comments/y74dbb/simple_script_to_rename_a_file_and_update_any/)
-- [sqlalchemy-file: Attach files to your SQLAlchemy model and uploading them to various storage with Apache Libcloud.](https://www.reddit.com/r/Python/comments/y742xo/sqlalchemyfile_attach_files_to_your_sqlalchemy/)
+- [Do you know these Software Engineering Terms?](https://www.reddit.com/r/Python/comments/y7a6ez/do_you_know_these_software_engineering_terms/)
+- [A Practical Introduction to Web Scraping in Python – Real Python](https://www.reddit.com/r/Python/comments/y79pfs/a_practical_introduction_to_web_scraping_in/)
+- [I made a python library for making apps on the ReMarkable paper tablet!](https://www.reddit.com/r/Python/comments/y79nrg/i_made_a_python_library_for_making_apps_on_the/)
+- [Finding the minimum of a multi-dimensional function, plotting each step with pyplot](https://www.reddit.com/r/Python/comments/y78tmz/finding_the_minimum_of_a_multidimensional/)
+- [Functional Programming Principles You Can Use in Python](https://www.reddit.com/r/Python/comments/y786ch/functional_programming_principles_you_can_use_in/)
 <!-- BLOG-POST-LIST:END -->
