@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pygamelib - a python framework to write console games and apps.](https://www.reddit.com/r/Python/comments/y6snos/pygamelib_a_python_framework_to_write_console/)
+- [A template for Python projects with support for black/isort/pyupgrade/pytest/coverage, plus Codespaces and Github Actions](https://www.reddit.com/r/Python/comments/y6r5hu/a_template_for_python_projects_with_support_for/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/y6qyo5/tuesday_daily_thread_advanced_questions/)
 - [any hacktoberfest github repository to contribute on Python scripting](https://www.reddit.com/r/Python/comments/y6olfx/any_hacktoberfest_github_repository_to_contribute/)
 - [Python Codes to Read](https://www.reddit.com/r/Python/comments/y6nu0l/python_codes_to_read/)
-- [wanted dissuss in what way i convert this code to python](https://www.reddit.com/r/Python/comments/y6isq8/wanted_dissuss_in_what_way_i_convert_this_code_to/)
-- [python question](https://www.reddit.com/r/Python/comments/y6i0ln/python_question/)
-- [Showcasing async backend practices in python on example of FastAPI, complete with clear examples and explanations. Hope this will be helpful to those who&#39;re confused about concurrency in python](https://www.reddit.com/r/Python/comments/y6hb8j/showcasing_async_backend_practices_in_python_on/)
 <!-- BLOG-POST-LIST:END -->
