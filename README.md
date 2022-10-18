@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Do you know these Software Engineering Terms?](https://www.reddit.com/r/Python/comments/y7a6ez/do_you_know_these_software_engineering_terms/)
+- [Would it be possible to write a python script that monitors a public FB page &lpar;or twitter account&rpar; to pick up new posts and highlight when a new post is gaining a lot of traction &lpar;likes etc&rpar;](https://www.reddit.com/r/Python/comments/y7c0fc/would_it_be_possible_to_write_a_python_script/)
+- [Simple Library for Stripe API &lpar;Products&rpar; - Information saved in JSON / Can be used in Mini Ecommerce Projects &lpar;links in comments&rpar;](https://www.reddit.com/r/Python/comments/y7bznq/simple_library_for_stripe_api_products/)
+- [I am developing a package that helps you figure out verbs in Euskera/Basque](https://www.reddit.com/r/Python/comments/y7bu2c/i_am_developing_a_package_that_helps_you_figure/)
+- [Open Metric Learning — a new open-source library for Metric learning!](https://www.reddit.com/r/Python/comments/y7bjv6/open_metric_learning_a_new_opensource_library_for/)
 - [A Practical Introduction to Web Scraping in Python – Real Python](https://www.reddit.com/r/Python/comments/y79pfs/a_practical_introduction_to_web_scraping_in/)
-- [I made a python library for making apps on the ReMarkable paper tablet!](https://www.reddit.com/r/Python/comments/y79nrg/i_made_a_python_library_for_making_apps_on_the/)
-- [Finding the minimum of a multi-dimensional function, plotting each step with pyplot](https://www.reddit.com/r/Python/comments/y78tmz/finding_the_minimum_of_a_multidimensional/)
-- [Functional Programming Principles You Can Use in Python](https://www.reddit.com/r/Python/comments/y786ch/functional_programming_principles_you_can_use_in/)
 <!-- BLOG-POST-LIST:END -->
