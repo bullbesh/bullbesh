@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [25$ Tkinter-Designer Giveaway 🔥💵](https://www.reddit.com/r/Python/comments/y735ec/25_tkinterdesigner_giveaway/)
+- [Create Beautiful Python GUI in minutes 🐍⏳ | New Tkinter-Designer tutorial is up on Youtube !!](https://www.reddit.com/r/Python/comments/y732it/create_beautiful_python_gui_in_minutes_new/)
 - [Python CLI Tricks That Don&#39;t Require Any Code Whatsoever | Martin Heinz](https://www.reddit.com/r/Python/comments/y71rac/python_cli_tricks_that_dont_require_any_code/)
 - [I made a CLI for downloading video hosted on Reddit!](https://www.reddit.com/r/Python/comments/y70t49/i_made_a_cli_for_downloading_video_hosted_on/)
 - [OCR help required](https://www.reddit.com/r/Python/comments/y6zgcb/ocr_help_required/)
-- [Anaconda introduces cloud-hosted Jupyter notebooks](https://www.reddit.com/r/Python/comments/y6z289/anaconda_introduces_cloudhosted_jupyter_notebooks/)
-- [I made a library to help mitigate bots spamming known vulnerabilities in my FastAPI web apps](https://www.reddit.com/r/Python/comments/y6ymut/i_made_a_library_to_help_mitigate_bots_spamming/)
 <!-- BLOG-POST-LIST:END -->
