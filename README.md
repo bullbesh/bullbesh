@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Run python scripts on Android](https://www.reddit.com/r/Python/comments/y7gjgh/run_python_scripts_on_android/)
+- [Alternative to Faust for Kafka Stream Processing](https://www.reddit.com/r/Python/comments/y7j7fb/alternative_to_faust_for_kafka_stream_processing/)
+- [How to build an Image Search Application with Weaviate and Python](https://www.reddit.com/r/Python/comments/y7ix2n/how_to_build_an_image_search_application_with/)
+- [How python can make you a better boyfriend.](https://www.reddit.com/r/Python/comments/y7ibv1/how_python_can_make_you_a_better_boyfriend/)
 - [Had to deal with a browser hijacking this morning](https://www.reddit.com/r/Python/comments/y7e5r7/had_to_deal_with_a_browser_hijacking_this_morning/)
 - [txtai 5.1 released - new translation models, OpenAI Whisper transcription and ARM Docker images](https://www.reddit.com/r/Python/comments/y7d7ia/txtai_51_released_new_translation_models_openai/)
-- [Analyzing Twitter Sentiment with Python](https://www.reddit.com/r/Python/comments/y7d4d7/analyzing_twitter_sentiment_with_python/)
-- [Python Problem Sets with Solutions from Harvard&#39;s CS50P 2022 Course](https://www.reddit.com/r/Python/comments/y7c6ha/python_problem_sets_with_solutions_from_harvards/)
 <!-- BLOG-POST-LIST:END -->
