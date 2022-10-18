@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [txtai 5.1 released - new translation models, OpenAI Whisper transcription and ARM Docker images](https://www.reddit.com/r/Python/comments/y7d7ia/txtai_51_released_new_translation_models_openai/)
+- [Analyzing Twitter Sentiment with Python](https://www.reddit.com/r/Python/comments/y7d4d7/analyzing_twitter_sentiment_with_python/)
+- [A Geeky Timer for Your Terminal](https://www.reddit.com/r/Python/comments/y7c8vw/a_geeky_timer_for_your_terminal/)
+- [Python Problem Sets with Solutions from Harvard&#39;s CS50P 2022 Course](https://www.reddit.com/r/Python/comments/y7c6ha/python_problem_sets_with_solutions_from_harvards/)
 - [Would it be possible to write a python script that monitors a public FB page &lpar;or twitter account&rpar; to pick up new posts and highlight when a new post is gaining a lot of traction &lpar;likes etc&rpar;](https://www.reddit.com/r/Python/comments/y7c0fc/would_it_be_possible_to_write_a_python_script/)
-- [Simple Library for Stripe API &lpar;Products&rpar; - Information saved in JSON / Can be used in Mini Ecommerce Projects &lpar;links in comments&rpar;](https://www.reddit.com/r/Python/comments/y7bznq/simple_library_for_stripe_api_products/)
-- [I am developing a package that helps you figure out verbs in Euskera/Basque](https://www.reddit.com/r/Python/comments/y7bu2c/i_am_developing_a_package_that_helps_you_figure/)
-- [Open Metric Learning — a new open-source library for Metric learning!](https://www.reddit.com/r/Python/comments/y7bjv6/open_metric_learning_a_new_opensource_library_for/)
-- [A Practical Introduction to Web Scraping in Python – Real Python](https://www.reddit.com/r/Python/comments/y79pfs/a_practical_introduction_to_web_scraping_in/)
 <!-- BLOG-POST-LIST:END -->
