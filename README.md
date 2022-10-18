@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick and Easy Pip Fixes if Pip Won&#39;t Install Modules in your project](https://www.reddit.com/r/Python/comments/y77r3l/quick_and_easy_pip_fixes_if_pip_wont_install/)
+- [seaborn v0.12.1 released](https://www.reddit.com/r/Python/comments/y76oxi/seaborn_v0121_released/)
+- [Is it possible to learn python coding solely using Pyto?](https://www.reddit.com/r/Python/comments/y76h37/is_it_possible_to_learn_python_coding_solely/)
 - [Simple script to rename a file and update any references to that file.](https://www.reddit.com/r/Python/comments/y74dbb/simple_script_to_rename_a_file_and_update_any/)
 - [sqlalchemy-file: Attach files to your SQLAlchemy model and uploading them to various storage with Apache Libcloud.](https://www.reddit.com/r/Python/comments/y742xo/sqlalchemyfile_attach_files_to_your_sqlalchemy/)
-- [Create Beautiful Python GUI in minutes 🐍⏳ | New Tkinter-Designer tutorial is up on Youtube !!](https://www.reddit.com/r/Python/comments/y732it/create_beautiful_python_gui_in_minutes_new/)
-- [Python CLI Tricks That Don&#39;t Require Any Code Whatsoever | Martin Heinz](https://www.reddit.com/r/Python/comments/y71rac/python_cli_tricks_that_dont_require_any_code/)
-- [I made a CLI for downloading video hosted on Reddit!](https://www.reddit.com/r/Python/comments/y70t49/i_made_a_cli_for_downloading_video_hosted_on/)
 <!-- BLOG-POST-LIST:END -->
