@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [A less cumbersome Property decoroator.](https://www.reddit.com/r/Python/comments/y7m12a/a_less_cumbersome_property_decoroator/)
-- [can someone explain why at the end of my program, the msg2 goes through if it is not a happy face?](https://www.reddit.com/r/Python/comments/y7ky5y/can_someone_explain_why_at_the_end_of_my_program/)
-- [CPython has two new core developers: Filipe Laíns &lpar;FFY00&rpar; and Alex Waygood &lpar;AlexWaygood&rpar;!](https://www.reddit.com/r/Python/comments/y7jsq7/cpython_has_two_new_core_developers_filipe_laíns/)
-- [Alternative to Faust for Kafka Stream Processing](https://www.reddit.com/r/Python/comments/y7j7fb/alternative_to_faust_for_kafka_stream_processing/)
-- [How to build an Image Search Application with Weaviate and Python](https://www.reddit.com/r/Python/comments/y7ix2n/how_to_build_an_image_search_application_with/)
+- [Call for questions for Guido van Rossum from Lex Fridman](https://www.reddit.com/r/Python/comments/y7q4gv/call_for_questions_for_guido_van_rossum_from_lex/)
+- [Where do I start?](https://www.reddit.com/r/Python/comments/y7omnb/where_do_i_start/)
+- [I&#39;m relatively new to Python and started using pywebview with chromium embedded framework. I then realised that cefpython is outdated and started to write my own wrapper for it. It is still in a very early stage. But already has basic functionality. Tell me what you think of it!](https://www.reddit.com/r/Python/comments/y7nhf9/im_relatively_new_to_python_and_started_using/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/y7n3gz/wednesday_daily_thread_beginner_questions/)
+- [Self-Employed Python Career Path?](https://www.reddit.com/r/Python/comments/y7msgc/selfemployed_python_career_path/)
 <!-- BLOG-POST-LIST:END -->
