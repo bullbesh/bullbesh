@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a free app/service that uses AI to write music and create MIDI samples for music producers.](https://www.reddit.com/r/Python/comments/y8azu2/i_created_a_free_appservice_that_uses_ai_to_write/)
+- [Example of Job Interview Questions](https://www.reddit.com/r/Python/comments/y8apxk/example_of_job_interview_questions/)
 - [Tiny lib to trace the path of a particular key](https://www.reddit.com/r/Python/comments/y8amoq/tiny_lib_to_trace_the_path_of_a_particular_key/)
-- [I am new to Python Programming. Please Help.](https://www.reddit.com/r/Python/comments/y89fur/i_am_new_to_python_programming_please_help/)
 - [How to Sort Python Imports in Visual Studio Code](https://www.reddit.com/r/Python/comments/y894of/how_to_sort_python_imports_in_visual_studio_code/)
 - [How to Build a Knowledge Base Platform Using Python and Redis](https://www.reddit.com/r/Python/comments/y890qi/how_to_build_a_knowledge_base_platform_using/)
-- [If you could rename 1 component of the Python language, which one would it be?](https://www.reddit.com/r/Python/comments/y887d1/if_you_could_rename_1_component_of_the_python/)
 <!-- BLOG-POST-LIST:END -->
