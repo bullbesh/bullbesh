@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to download Kaggle Datasets using Python library for downloading datasets from online sources like Kaggle and Google Drive.](https://www.reddit.com/r/Python/comments/y81dyl/how_to_download_kaggle_datasets_using_python/)
+- [Komputee - Low Code Data Apps with FastAPI](https://www.reddit.com/r/Python/comments/y80hrn/komputee_low_code_data_apps_with_fastapi/)
+- [How to add global remote controls to Python projects](https://www.reddit.com/r/Python/comments/y80gwp/how_to_add_global_remote_controls_to_python/)
 - [Web Scraping Yellow Pages using Python for Business Data, Email, Phone Number &amp; Address](https://www.reddit.com/r/Python/comments/y7zqq9/web_scraping_yellow_pages_using_python_for/)
 - [How to print data type in python](https://www.reddit.com/r/Python/comments/y7zd9t/how_to_print_data_type_in_python/)
-- [FastAPI + Poetry Docker Image, 3.7x size reduction](https://www.reddit.com/r/Python/comments/y7z1je/fastapi_poetry_docker_image_37x_size_reduction/)
-- [PC Screen scanner to automate new notifications](https://www.reddit.com/r/Python/comments/y7wklf/pc_screen_scanner_to_automate_new_notifications/)
-- [A Markov-Chain Twitter bot trained on Elon Musk Tweets and Childrens Books](https://www.reddit.com/r/Python/comments/y7weum/a_markovchain_twitter_bot_trained_on_elon_musk/)
 <!-- BLOG-POST-LIST:END -->
