@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Sort Python Imports in Visual Studio Code](https://www.reddit.com/r/Python/comments/y894of/how_to_sort_python_imports_in_visual_studio_code/)
+- [How to Build a Knowledge Base Platform Using Python and Redis](https://www.reddit.com/r/Python/comments/y890qi/how_to_build_a_knowledge_base_platform_using/)
+- [If you could rename 1 component of the Python language, which one would it be?](https://www.reddit.com/r/Python/comments/y887d1/if_you_could_rename_1_component_of_the_python/)
 - [Free alternative to Github Copilot?!](https://www.reddit.com/r/Python/comments/y856ml/free_alternative_to_github_copilot/)
 - [ASST - simple automation server which handle backend servers automation, DevOps tasks, QA needs and more](https://www.reddit.com/r/Python/comments/y84ufn/asst_simple_automation_server_which_handle/)
-- [Iterate through prime numbers](https://www.reddit.com/r/Python/comments/y83vmy/iterate_through_prime_numbers/)
-- [The most overkill stairs automation.](https://www.reddit.com/r/Python/comments/y82ych/the_most_overkill_stairs_automation/)
-- [How to download Kaggle Datasets using Python library for downloading datasets from online sources like Kaggle and Google Drive.](https://www.reddit.com/r/Python/comments/y81dyl/how_to_download_kaggle_datasets_using_python/)
 <!-- BLOG-POST-LIST:END -->
