@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How can i make a plot like this on python?](https://www.reddit.com/r/Python/comments/y8hsq8/how_can_i_make_a_plot_like_this_on_python/)
+- [I wrote a self hosted note taking app that saves all notes in QR Codes instead of text](https://www.reddit.com/r/Python/comments/y8he2x/i_wrote_a_self_hosted_note_taking_app_that_saves/)
 - [For People who use online IDE&#39;s I Did a stress test](https://www.reddit.com/r/Python/comments/y8g4dm/for_people_who_use_online_ides_i_did_a_stress_test/)
 - [Create Config Files in Python](https://www.reddit.com/r/Python/comments/y8fuvv/create_config_files_in_python/)
 - [How to judge the inclusion of a Python Library into your project ?](https://www.reddit.com/r/Python/comments/y8e2qm/how_to_judge_the_inclusion_of_a_python_library/)
-- [In Python, is everything an object indeed?](https://www.reddit.com/r/Python/comments/y8d6ux/in_python_is_everything_an_object_indeed/)
-- [I created a free app/service that uses AI to write music and create MIDI samples for music producers.](https://www.reddit.com/r/Python/comments/y8azu2/i_created_a_free_appservice_that_uses_ai_to_write/)
 <!-- BLOG-POST-LIST:END -->
