@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI + Poetry Docker Image, 3.7x size reduction](https://www.reddit.com/r/Python/comments/y7z1je/fastapi_poetry_docker_image_37x_size_reduction/)
 - [PC Screen scanner to automate new notifications](https://www.reddit.com/r/Python/comments/y7wklf/pc_screen_scanner_to_automate_new_notifications/)
 - [A Markov-Chain Twitter bot trained on Elon Musk Tweets and Childrens Books](https://www.reddit.com/r/Python/comments/y7weum/a_markovchain_twitter_bot_trained_on_elon_musk/)
 - [Linkedin Python Assessment Answers 2022 - Chase2Learn](https://www.reddit.com/r/Python/comments/y7vf22/linkedin_python_assessment_answers_2022/)
 - [How to run python codes on iso/android mobile](https://www.reddit.com/r/Python/comments/y7vdu0/how_to_run_python_codes_on_isoandroid_mobile/)
-- [AI converts plain English to Python code [OpenAI Codex]](https://www.reddit.com/r/Python/comments/y7rqgh/ai_converts_plain_english_to_python_code_openai/)
 <!-- BLOG-POST-LIST:END -->
