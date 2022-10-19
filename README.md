@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The most overkill stairs automation.](https://www.reddit.com/r/Python/comments/y82ych/the_most_overkill_stairs_automation/)
 - [How to download Kaggle Datasets using Python library for downloading datasets from online sources like Kaggle and Google Drive.](https://www.reddit.com/r/Python/comments/y81dyl/how_to_download_kaggle_datasets_using_python/)
 - [Komputee - Low Code Data Apps with FastAPI](https://www.reddit.com/r/Python/comments/y80hrn/komputee_low_code_data_apps_with_fastapi/)
 - [How to add global remote controls to Python projects](https://www.reddit.com/r/Python/comments/y80gwp/how_to_add_global_remote_controls_to_python/)
 - [Web Scraping Yellow Pages using Python for Business Data, Email, Phone Number &amp; Address](https://www.reddit.com/r/Python/comments/y7zqq9/web_scraping_yellow_pages_using_python_for/)
-- [How to print data type in python](https://www.reddit.com/r/Python/comments/y7zd9t/how_to_print_data_type_in_python/)
 <!-- BLOG-POST-LIST:END -->
