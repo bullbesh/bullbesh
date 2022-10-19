@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Free alternative to Github Copilot?!](https://www.reddit.com/r/Python/comments/y856ml/free_alternative_to_github_copilot/)
-- [5 powerfull function in python](https://www.reddit.com/r/Python/comments/y84v1p/5_powerfull_function_in_python/)
 - [ASST - simple automation server which handle backend servers automation, DevOps tasks, QA needs and more](https://www.reddit.com/r/Python/comments/y84ufn/asst_simple_automation_server_which_handle/)
 - [Iterate through prime numbers](https://www.reddit.com/r/Python/comments/y83vmy/iterate_through_prime_numbers/)
 - [The most overkill stairs automation.](https://www.reddit.com/r/Python/comments/y82ych/the_most_overkill_stairs_automation/)
+- [How to download Kaggle Datasets using Python library for downloading datasets from online sources like Kaggle and Google Drive.](https://www.reddit.com/r/Python/comments/y81dyl/how_to_download_kaggle_datasets_using_python/)
 <!-- BLOG-POST-LIST:END -->
