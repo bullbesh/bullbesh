@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [please help me with one small piece of my project for class](https://www.reddit.com/r/Python/comments/y9bvve/please_help_me_with_one_small_piece_of_my_project/)
+- [How important is no third party dependencies to you to adopt a library?](https://www.reddit.com/r/Python/comments/y9d730/how_important_is_no_third_party_dependencies_to/)
+- [Coding in python](https://www.reddit.com/r/Python/comments/y9cgeg/coding_in_python/)
+- [Using Python to Answer the Question: Are ESPN Fantasy Football Player Projections Accurate?](https://www.reddit.com/r/Python/comments/y9cffn/using_python_to_answer_the_question_are_espn/)
 - [My First Python Code!](https://www.reddit.com/r/Python/comments/y9buzy/my_first_python_code/)
 - [Our new playlist is hands-on sessions to learn the H2O Machine Learning platform using R.](https://www.reddit.com/r/Python/comments/y9b7f9/our_new_playlist_is_handson_sessions_to_learn_the/)
-- [Unicloud, Unison UI Smart File Sync - API, Automatic client registration. Sync from any replica. Docker, Flask, Python! Check it out :-&rpar;](https://www.reddit.com/r/Python/comments/y97u3v/unicloud_unison_ui_smart_file_sync_api_automatic/)
-- [Formula 1 API &lpar;Update&rpar;](https://www.reddit.com/r/Python/comments/y9487s/formula_1_api_update/)
 <!-- BLOG-POST-LIST:END -->
