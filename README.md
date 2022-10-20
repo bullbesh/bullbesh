@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python tools for integration with third-party services](https://www.reddit.com/r/Python/comments/y8v5vq/python_tools_for_integration_with_thirdparty/)
 - [Python is the Top 6th Highest Paid Programming Language in 2022, with an AVG salary of ~$114k per year.](https://www.reddit.com/r/Python/comments/y8u5vi/python_is_the_top_6th_highest_paid_programming/)
 - [Analyzing 4.6+ million mentions of climate change on Reddit using DuckDB](https://www.reddit.com/r/Python/comments/y8tu99/analyzing_46_million_mentions_of_climate_change/)
 - [websites or anything to practice python basics?](https://www.reddit.com/r/Python/comments/y8tmyk/websites_or_anything_to_practice_python_basics/)
 - [I made a package to make importing an optional dependency a breeze!](https://www.reddit.com/r/Python/comments/y8t8v5/i_made_a_package_to_make_importing_an_optional/)
-- [Type annotation via automated refactoring](https://www.reddit.com/r/Python/comments/y8t5mz/type_annotation_via_automated_refactoring/)
 <!-- BLOG-POST-LIST:END -->
