@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Unicloud, Unison UI Smart File Sync - API, Automatic client registration. Sync from any replica. Docker, Flask, Python! Check it out :-&rpar;](https://www.reddit.com/r/Python/comments/y97u3v/unicloud_unison_ui_smart_file_sync_api_automatic/)
-- [One day a student came to Moon and said, &quot;I understand how to make a better garbage collector. We must keep a reference count of the pointers to each cons.&quot; Moon patiently told the student the following story: One day a student came to Moon and said, &quot;I understand how to make a better garbage...](https://www.reddit.com/r/Python/comments/y973cr/one_day_a_student_came_to_moon_and_said_i/)
 - [Formula 1 API &lpar;Update&rpar;](https://www.reddit.com/r/Python/comments/y9487s/formula_1_api_update/)
 - [How to write your code fast for YouTube shorts, Instagram reels and Tiktok](https://www.reddit.com/r/Python/comments/y91irs/how_to_write_your_code_fast_for_youtube_shorts/)
 - [I wrote a simple CSS &quot;style engine&quot; for tkinter.](https://www.reddit.com/r/Python/comments/y90kh0/i_wrote_a_simple_css_style_engine_for_tkinter/)
+- [Yo-Yo! I&#39;m running a 4 weeks Python Bootcamp! and it&#39;s 100% free.](https://www.reddit.com/r/Python/comments/y8zaik/yoyo_im_running_a_4_weeks_python_bootcamp_and_its/)
 <!-- BLOG-POST-LIST:END -->
