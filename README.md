@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why does this code only work for the B day](https://www.reddit.com/r/Python/comments/y8xgkc/why_does_this_code_only_work_for_the_b_day/)
+- [I wrote a simple CSS &quot;style engine&quot; for tkinter.](https://www.reddit.com/r/Python/comments/y90kh0/i_wrote_a_simple_css_style_engine_for_tkinter/)
+- [Yo-Yo! I&#39;m running a 4 weeks Python Bootcamp! and it&#39;s 100% free.](https://www.reddit.com/r/Python/comments/y8zaik/yoyo_im_running_a_4_weeks_python_bootcamp_and_its/)
 - [Points and isolines &lpar;contour&rpar; in python](https://www.reddit.com/r/Python/comments/y8woec/points_and_isolines_contour_in_python/)
 - [Upscale an image and increase details](https://www.reddit.com/r/Python/comments/y8wmy9/upscale_an_image_and_increase_details/)
 - [mirrord 3.0 is out - open-source devtool for backend developers](https://www.reddit.com/r/Python/comments/y8w09n/mirrord_30_is_out_opensource_devtool_for_backend/)
-- [Python tools for integration with third-party services](https://www.reddit.com/r/Python/comments/y8v5vq/python_tools_for_integration_with_thirdparty/)
 <!-- BLOG-POST-LIST:END -->
