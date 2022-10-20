@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [some project i made when i was bored](https://www.reddit.com/r/Python/comments/y8lf1n/some_project_i_made_when_i_was_bored/)
+- [mini_lambda](https://www.reddit.com/r/Python/comments/y8je8p/mini_lambda/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/y8iisy/thursday_daily_thread_python_careers_courses_and/)
 - [How can i make a plot like this on python?](https://www.reddit.com/r/Python/comments/y8hsq8/how_can_i_make_a_plot_like_this_on_python/)
 - [I wrote a self hosted note taking app that saves all notes in QR Codes instead of text](https://www.reddit.com/r/Python/comments/y8he2x/i_wrote_a_self_hosted_note_taking_app_that_saves/)
-- [For People who use online IDE&#39;s I Did a stress test](https://www.reddit.com/r/Python/comments/y8g4dm/for_people_who_use_online_ides_i_did_a_stress_test/)
-- [Create Config Files in Python](https://www.reddit.com/r/Python/comments/y8fuvv/create_config_files_in_python/)
-- [How to judge the inclusion of a Python Library into your project ?](https://www.reddit.com/r/Python/comments/y8e2qm/how_to_judge_the_inclusion_of_a_python_library/)
 <!-- BLOG-POST-LIST:END -->
