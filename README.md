@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why does this code only work for the B day](https://www.reddit.com/r/Python/comments/y8xgkc/why_does_this_code_only_work_for_the_b_day/)
+- [Points and isolines &lpar;contour&rpar; in python](https://www.reddit.com/r/Python/comments/y8woec/points_and_isolines_contour_in_python/)
+- [Upscale an image and increase details](https://www.reddit.com/r/Python/comments/y8wmy9/upscale_an_image_and_increase_details/)
+- [mirrord 3.0 is out - open-source devtool for backend developers](https://www.reddit.com/r/Python/comments/y8w09n/mirrord_30_is_out_opensource_devtool_for_backend/)
 - [Python tools for integration with third-party services](https://www.reddit.com/r/Python/comments/y8v5vq/python_tools_for_integration_with_thirdparty/)
-- [Python is the Top 6th Highest Paid Programming Language in 2022, with an AVG salary of ~$114k per year.](https://www.reddit.com/r/Python/comments/y8u5vi/python_is_the_top_6th_highest_paid_programming/)
-- [Analyzing 4.6+ million mentions of climate change on Reddit using DuckDB](https://www.reddit.com/r/Python/comments/y8tu99/analyzing_46_million_mentions_of_climate_change/)
-- [websites or anything to practice python basics?](https://www.reddit.com/r/Python/comments/y8tmyk/websites_or_anything_to_practice_python_basics/)
-- [I made a package to make importing an optional dependency a breeze!](https://www.reddit.com/r/Python/comments/y8t8v5/i_made_a_package_to_make_importing_an_optional/)
 <!-- BLOG-POST-LIST:END -->
