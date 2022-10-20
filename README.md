@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Teaching a senior chemical engineer python, should I teach them just python or python through jupyter?](https://www.reddit.com/r/Python/comments/y8m73c/teaching_a_senior_chemical_engineer_python_should/)
 - [some project i made when i was bored](https://www.reddit.com/r/Python/comments/y8lf1n/some_project_i_made_when_i_was_bored/)
 - [mini_lambda](https://www.reddit.com/r/Python/comments/y8je8p/mini_lambda/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/y8iisy/thursday_daily_thread_python_careers_courses_and/)
 - [How can i make a plot like this on python?](https://www.reddit.com/r/Python/comments/y8hsq8/how_can_i_make_a_plot_like_this_on_python/)
-- [I wrote a self hosted note taking app that saves all notes in QR Codes instead of text](https://www.reddit.com/r/Python/comments/y8he2x/i_wrote_a_self_hosted_note_taking_app_that_saves/)
 <!-- BLOG-POST-LIST:END -->
