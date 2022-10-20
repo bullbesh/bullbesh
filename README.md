@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Honest question: Why must &quot;self&quot; always be passed in as parameter, why wasn&#39;t it made a built-in?](https://www.reddit.com/r/Python/comments/y8ofb6/honest_question_why_must_self_always_be_passed_in/)
 - [Teaching a senior chemical engineer python, should I teach them just python or python through jupyter?](https://www.reddit.com/r/Python/comments/y8m73c/teaching_a_senior_chemical_engineer_python_should/)
 - [some project i made when i was bored](https://www.reddit.com/r/Python/comments/y8lf1n/some_project_i_made_when_i_was_bored/)
 - [mini_lambda](https://www.reddit.com/r/Python/comments/y8je8p/mini_lambda/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/y8iisy/thursday_daily_thread_python_careers_courses_and/)
-- [How can i make a plot like this on python?](https://www.reddit.com/r/Python/comments/y8hsq8/how_can_i_make_a_plot_like_this_on_python/)
 <!-- BLOG-POST-LIST:END -->
