@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SYSIG](https://www.reddit.com/r/Python/comments/y9qaca/sysig/)
 - [I need help starting with the Alien Invasion Project - Python Crash Course](https://www.reddit.com/r/Python/comments/y9od0j/i_need_help_starting_with_the_alien_invasion/)
 - [FlastAPI: A FastAPI-like interface for building APIs in Flask](https://www.reddit.com/r/Python/comments/y9n472/flastapi_a_fastapilike_interface_for_building/)
 - [Python compiler nuitka](https://www.reddit.com/r/Python/comments/y9m7s7/python_compiler_nuitka/)
 - [Will Rust Take over Data Engineering?](https://www.reddit.com/r/Python/comments/y9lf13/will_rust_take_over_data_engineering/)
-- [The only &quot;best practice&quot; you should be using all the time is &quot;Use Your Brain&quot;.](https://www.reddit.com/r/Python/comments/y9k3gd/the_only_best_practice_you_should_be_using_all/)
 <!-- BLOG-POST-LIST:END -->
