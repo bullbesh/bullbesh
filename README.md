@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python for hacking](https://www.reddit.com/r/Python/comments/ya0urn/python_for_hacking/)
+- [Python logging quirks in AWS Lambda environment](https://www.reddit.com/r/Python/comments/ya1m72/python_logging_quirks_in_aws_lambda_environment/)
+- [Put an app in background and then call it back](https://www.reddit.com/r/Python/comments/ya1g0g/put_an_app_in_background_and_then_call_it_back/)
 - [Python 3.11 Release Stream hosted by Pablo Galindo and Leon Sandøy on Oct 24th](https://www.reddit.com/r/Python/comments/y9ylkt/python_311_release_stream_hosted_by_pablo_galindo/)
 - [Can we stop creating docker images that require you to use environments within them?](https://www.reddit.com/r/Python/comments/y9u87s/can_we_stop_creating_docker_images_that_require/)
 - [SYSIG](https://www.reddit.com/r/Python/comments/y9qaca/sysig/)
-- [FlastAPI: A FastAPI-like interface for building APIs in Flask](https://www.reddit.com/r/Python/comments/y9n472/flastapi_a_fastapilike_interface_for_building/)
 <!-- BLOG-POST-LIST:END -->
