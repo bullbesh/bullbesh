@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Will Rust Take over Data Engineering?](https://www.reddit.com/r/Python/comments/y9lf13/will_rust_take_over_data_engineering/)
 - [The only &quot;best practice&quot; you should be using all the time is &quot;Use Your Brain&quot;.](https://www.reddit.com/r/Python/comments/y9k3gd/the_only_best_practice_you_should_be_using_all/)
 - [How important is no third party dependencies to you to adopt a library?](https://www.reddit.com/r/Python/comments/y9d730/how_important_is_no_third_party_dependencies_to/)
 - [Using Python to Answer the Question: Are ESPN Fantasy Football Player Projections Accurate?](https://www.reddit.com/r/Python/comments/y9cffn/using_python_to_answer_the_question_are_espn/)
 - [My First Python Code!](https://www.reddit.com/r/Python/comments/y9buzy/my_first_python_code/)
-- [Performance comparison: Reduct Storage vs. Minio](https://www.reddit.com/r/Python/comments/y9bdja/performance_comparison_reduct_storage_vs_minio/)
 <!-- BLOG-POST-LIST:END -->
