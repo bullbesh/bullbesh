@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.11 Release Stream hosted by Pablo Galindo and Leon Sandøy on Oct 24th](https://www.reddit.com/r/Python/comments/y9ylkt/python_311_release_stream_hosted_by_pablo_galindo/)
 - [YouTube Video Transcriber with OpenAI&#39;s Whisper](https://www.reddit.com/r/Python/comments/y9y5zc/youtube_video_transcriber_with_openais_whisper/)
-- [Best route to learn Python](https://www.reddit.com/r/Python/comments/y9w44g/best_route_to_learn_python/)
 - [Can we stop creating docker images that require you to use environments within them?](https://www.reddit.com/r/Python/comments/y9u87s/can_we_stop_creating_docker_images_that_require/)
 - [SYSIG](https://www.reddit.com/r/Python/comments/y9qaca/sysig/)
-- [I need help starting with the Alien Invasion Project - Python Crash Course](https://www.reddit.com/r/Python/comments/y9od0j/i_need_help_starting_with_the_alien_invasion/)
+- [FlastAPI: A FastAPI-like interface for building APIs in Flask](https://www.reddit.com/r/Python/comments/y9n472/flastapi_a_fastapilike_interface_for_building/)
 <!-- BLOG-POST-LIST:END -->
