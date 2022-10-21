@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can we stop creating docker images that require you to use environments within them?](https://www.reddit.com/r/Python/comments/y9u87s/can_we_stop_creating_docker_images_that_require/)
 - [SQL, python And excel integration](https://www.reddit.com/r/Python/comments/y9sgmp/sql_python_and_excel_integration/)
 - [SYSIG](https://www.reddit.com/r/Python/comments/y9qaca/sysig/)
 - [I need help starting with the Alien Invasion Project - Python Crash Course](https://www.reddit.com/r/Python/comments/y9od0j/i_need_help_starting_with_the_alien_invasion/)
 - [FlastAPI: A FastAPI-like interface for building APIs in Flask](https://www.reddit.com/r/Python/comments/y9n472/flastapi_a_fastapilike_interface_for_building/)
-- [Python compiler nuitka](https://www.reddit.com/r/Python/comments/y9m7s7/python_compiler_nuitka/)
 <!-- BLOG-POST-LIST:END -->
