@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Numerical Python: Scientific Computing and Data Science Applications with Numpy, Scipy and Matplotlib](https://www.reddit.com/r/Python/comments/yaqjkz/numerical_python_scientific_computing_and_data/)
-- [Building Machine Learning Systems with Python](https://www.reddit.com/r/Python/comments/yaqhkz/building_machine_learning_systems_with_python/)
+- [I created a script that allows you to store any file &lpar;encrypted or not&rpar; in an image using steganography](https://www.reddit.com/r/Python/comments/yaqoxd/i_created_a_script_that_allows_you_to_store_any/)
+- [Recovering cleared globals and builtins.](https://www.reddit.com/r/Python/comments/yaqoux/recovering_cleared_globals_and_builtins/)
 - [Python execution in a VM beats host?](https://www.reddit.com/r/Python/comments/yaqfvh/python_execution_in_a_vm_beats_host/)
-- [Understanding Optics with Python](https://www.reddit.com/r/Python/comments/yaqfhu/understanding_optics_with_python/)
-- [Tango With Django: A beginner’s Guide to Web Development With Python / Django 1.9](https://www.reddit.com/r/Python/comments/yaqe31/tango_with_django_a_beginners_guide_to_web/)
+- [Build a Tic-Tac-Toe Game Engine With an AI Player in Python – Real Python](https://www.reddit.com/r/Python/comments/yao5cl/build_a_tictactoe_game_engine_with_an_ai_player/)
+- [[Free workshops] API applications, databases, OAuth](https://www.reddit.com/r/Python/comments/yan7ig/free_workshops_api_applications_databases_oauth/)
 <!-- BLOG-POST-LIST:END -->
