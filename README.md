@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My code is all loops and dicts](https://www.reddit.com/r/Python/comments/yamb8h/my_code_is_all_loops_and_dicts/)
+- [Using Neo4j to visualize medicines’ class and their ingredients](https://www.reddit.com/r/Python/comments/yalqa3/using_neo4j_to_visualize_medicines_class_and/)
 - [Move python prototypes from Heroku to Render | Blog](https://www.reddit.com/r/Python/comments/yal3fs/move_python_prototypes_from_heroku_to_render_blog/)
 - [CKAD for Kubernetes Application Developers](https://www.reddit.com/r/Python/comments/yajdhr/ckad_for_kubernetes_application_developers/)
 - [Meet PyWeb3D — Three.js With Python Syntax](https://www.reddit.com/r/Python/comments/yahwa1/meet_pyweb3d_threejs_with_python_syntax/)
-- [how-to run headfull Chrome and Selenium and Python in Docker](https://www.reddit.com/r/Python/comments/yaa3fa/howto_run_headfull_chrome_and_selenium_and_python/)
-- [How to scrape tweets and automatically like using python](https://www.reddit.com/r/Python/comments/ya8r3a/how_to_scrape_tweets_and_automatically_like_using/)
 <!-- BLOG-POST-LIST:END -->
