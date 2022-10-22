@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [#shorts YouTube downloader with python](https://www.reddit.com/r/Python/comments/yafarw/shorts_youtube_downloader_with_python/)
 - [timeout for itertools.islice](https://www.reddit.com/r/Python/comments/yacxxw/timeout_for_itertoolsislice/)
 - [how-to run headfull Chrome and Selenium and Python in Docker](https://www.reddit.com/r/Python/comments/yaa3fa/howto_run_headfull_chrome_and_selenium_and_python/)
 - [How to scrape tweets and automatically like using python](https://www.reddit.com/r/Python/comments/ya8r3a/how_to_scrape_tweets_and_automatically_like_using/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/ya8phi/saturday_daily_thread_resource_request_and/)
-- [Why you &lpar;probably&rpar; need to learn python concurrency](https://www.reddit.com/r/Python/comments/ya85c9/why_you_probably_need_to_learn_python_concurrency/)
 <!-- BLOG-POST-LIST:END -->
