@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Website Scraping with Python: Using BeautifulSoup and Scrapy](https://www.reddit.com/r/Python/comments/yap4hc/website_scraping_with_python_using_beautifulsoup/)
+- [Python Concurrency with asyncio](https://www.reddit.com/r/Python/comments/yap2tp/python_concurrency_with_asyncio/)
 - [Build a Tic-Tac-Toe Game Engine With an AI Player in Python – Real Python](https://www.reddit.com/r/Python/comments/yao5cl/build_a_tictactoe_game_engine_with_an_ai_player/)
 - [Data Analysis with Python and PySpark](https://www.reddit.com/r/Python/comments/yao0m1/data_analysis_with_python_and_pyspark/)
 - [Foundations of PyGTK Development: GUI Creation with Python](https://www.reddit.com/r/Python/comments/yanxki/foundations_of_pygtk_development_gui_creation/)
-- [Introducing Python: Modern Computing in Simple Packages](https://www.reddit.com/r/Python/comments/yanter/introducing_python_modern_computing_in_simple/)
-- [Fast Python for Data Science Version 8](https://www.reddit.com/r/Python/comments/yanqi3/fast_python_for_data_science_version_8/)
 <!-- BLOG-POST-LIST:END -->
