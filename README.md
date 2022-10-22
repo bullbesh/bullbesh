@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking For Group](https://www.reddit.com/r/Python/comments/yabb3q/looking_for_group/)
+- [timeout for itertools.islice](https://www.reddit.com/r/Python/comments/yacxxw/timeout_for_itertoolsislice/)
 - [how-to run headfull Chrome and Selenium and Python in Docker](https://www.reddit.com/r/Python/comments/yaa3fa/howto_run_headfull_chrome_and_selenium_and_python/)
 - [How to scrape tweets and automatically like using python](https://www.reddit.com/r/Python/comments/ya8r3a/how_to_scrape_tweets_and_automatically_like_using/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/ya8phi/saturday_daily_thread_resource_request_and/)
