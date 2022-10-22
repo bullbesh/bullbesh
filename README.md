@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve created &#39;logzy&#39;, a fixer for Python logging messages](https://www.reddit.com/r/Python/comments/yaxpj8/ive_created_logzy_a_fixer_for_python_logging/)
+- [Tried To Make a Language In Python](https://www.reddit.com/r/Python/comments/yaxk78/tried_to_make_a_language_in_python/)
+- [Python automation in a browser](https://www.reddit.com/r/Python/comments/yawutv/python_automation_in_a_browser/)
+- [Learn the Basics of Python &lpar;or any other language&rpar; in 2 minutes](https://www.reddit.com/r/Python/comments/yawcnl/learn_the_basics_of_python_or_any_other_language/)
 - [Dictances: efficient distances &amp; divergences between dictionaries.](https://www.reddit.com/r/Python/comments/yaw0ll/dictances_efficient_distances_divergences_between/)
-- [Python/MT5 script.](https://www.reddit.com/r/Python/comments/yauyir/pythonmt5_script/)
-- [Curvipy - Make math animations in a few lines of code.](https://www.reddit.com/r/Python/comments/yaudp9/curvipy_make_math_animations_in_a_few_lines_of/)
-- [I created a script that allows you to store any file &lpar;encrypted or not&rpar; in an image using steganography](https://www.reddit.com/r/Python/comments/yaqoxd/i_created_a_script_that_allows_you_to_store_any/)
-- [Recovering cleared globals and builtins.](https://www.reddit.com/r/Python/comments/yaqoux/recovering_cleared_globals_and_builtins/)
 <!-- BLOG-POST-LIST:END -->
