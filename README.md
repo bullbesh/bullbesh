@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet PyWeb3D — Three.js With Python Syntax](https://www.reddit.com/r/Python/comments/yahwa1/meet_pyweb3d_threejs_with_python_syntax/)
 - [how-to run headfull Chrome and Selenium and Python in Docker](https://www.reddit.com/r/Python/comments/yaa3fa/howto_run_headfull_chrome_and_selenium_and_python/)
 - [How to scrape tweets and automatically like using python](https://www.reddit.com/r/Python/comments/ya8r3a/how_to_scrape_tweets_and_automatically_like_using/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/ya8phi/saturday_daily_thread_resource_request_and/)
 - [Why you &lpar;probably&rpar; need to learn python concurrency](https://www.reddit.com/r/Python/comments/ya85c9/why_you_probably_need_to_learn_python_concurrency/)
-- [Determine Soccer Player Jersey Colors From Video Footage](https://www.reddit.com/r/Python/comments/ya7jii/determine_soccer_player_jersey_colors_from_video/)
 <!-- BLOG-POST-LIST:END -->
