@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Determine Soccer Player Jersey Colors From Video Footage](https://www.reddit.com/r/Python/comments/ya7jii/determine_soccer_player_jersey_colors_from_video/)
-- [How To Write Excel Macros In Python?](https://www.reddit.com/r/Python/comments/ya5f4x/how_to_write_excel_macros_in_python/)
-- [Python logging quirks in AWS Lambda environment](https://www.reddit.com/r/Python/comments/ya1m72/python_logging_quirks_in_aws_lambda_environment/)
-- [Python 3.11 Release Stream hosted by Pablo Galindo and Leon Sandøy on Oct 24th](https://www.reddit.com/r/Python/comments/y9ylkt/python_311_release_stream_hosted_by_pablo_galindo/)
-- [Can we stop creating docker images that require you to use environments within them?](https://www.reddit.com/r/Python/comments/y9u87s/can_we_stop_creating_docker_images_that_require/)
+- [Looking For Group](https://www.reddit.com/r/Python/comments/yabb3q/looking_for_group/)
+- [how-to run headfull Chrome and Selenium and Python in Docker](https://www.reddit.com/r/Python/comments/yaa3fa/howto_run_headfull_chrome_and_selenium_and_python/)
+- [How to scrape tweets and automatically like using python](https://www.reddit.com/r/Python/comments/ya8r3a/how_to_scrape_tweets_and_automatically_like_using/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/ya8phi/saturday_daily_thread_resource_request_and/)
+- [Why you &lpar;probably&rpar; need to learn python concurrency](https://www.reddit.com/r/Python/comments/ya85c9/why_you_probably_need_to_learn_python_concurrency/)
 <!-- BLOG-POST-LIST:END -->
