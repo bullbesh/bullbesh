@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Website Scraping with Python: Using BeautifulSoup and Scrapy](https://www.reddit.com/r/Python/comments/yap4hc/website_scraping_with_python_using_beautifulsoup/)
-- [Python Concurrency with asyncio](https://www.reddit.com/r/Python/comments/yap2tp/python_concurrency_with_asyncio/)
-- [Build a Tic-Tac-Toe Game Engine With an AI Player in Python – Real Python](https://www.reddit.com/r/Python/comments/yao5cl/build_a_tictactoe_game_engine_with_an_ai_player/)
-- [Data Analysis with Python and PySpark](https://www.reddit.com/r/Python/comments/yao0m1/data_analysis_with_python_and_pyspark/)
-- [Foundations of PyGTK Development: GUI Creation with Python](https://www.reddit.com/r/Python/comments/yanxki/foundations_of_pygtk_development_gui_creation/)
+- [Numerical Python: Scientific Computing and Data Science Applications with Numpy, Scipy and Matplotlib](https://www.reddit.com/r/Python/comments/yaqjkz/numerical_python_scientific_computing_and_data/)
+- [Building Machine Learning Systems with Python](https://www.reddit.com/r/Python/comments/yaqhkz/building_machine_learning_systems_with_python/)
+- [Python execution in a VM beats host?](https://www.reddit.com/r/Python/comments/yaqfvh/python_execution_in_a_vm_beats_host/)
+- [Understanding Optics with Python](https://www.reddit.com/r/Python/comments/yaqfhu/understanding_optics_with_python/)
+- [Tango With Django: A beginner’s Guide to Web Development With Python / Django 1.9](https://www.reddit.com/r/Python/comments/yaqe31/tango_with_django_a_beginners_guide_to_web/)
 <!-- BLOG-POST-LIST:END -->
