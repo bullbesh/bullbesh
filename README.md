@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I/O for a list](https://www.reddit.com/r/Python/comments/ybcv3l/io_for_a_list/)
+- [justpy open source community is growing](https://www.reddit.com/r/Python/comments/ybe1z4/justpy_open_source_community_is_growing/)
 - [$1,597 Worth of Programming Books by Packt for $15 &lpar;-99% OFF&rpar;](https://www.reddit.com/r/Python/comments/ybcpqv/1597_worth_of_programming_books_by_packt_for_15/)
 - [Recursion In Python — Solve Complex Problems With Simple Code](https://www.reddit.com/r/Python/comments/ybbt09/recursion_in_python_solve_complex_problems_with/)
 - [styling the Dataframe](https://www.reddit.com/r/Python/comments/ybbo21/styling_the_dataframe/)
