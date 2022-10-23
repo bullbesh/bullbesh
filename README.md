@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recursion In Python — Solve Complex Problems With Simple Code](https://www.reddit.com/r/Python/comments/ybbt09/recursion_in_python_solve_complex_problems_with/)
+- [styling the Dataframe](https://www.reddit.com/r/Python/comments/ybbo21/styling_the_dataframe/)
+- [Explaining decorators with concrete examples](https://www.reddit.com/r/Python/comments/ybbj5y/explaining_decorators_with_concrete_examples/)
 - [Images created by plotly truncated when saved as PNG](https://www.reddit.com/r/Python/comments/yb6l4t/images_created_by_plotly_truncated_when_saved_as/)
 - [I made a tiny project that does word censorship for an input text file](https://www.reddit.com/r/Python/comments/yb5nlu/i_made_a_tiny_project_that_does_word_censorship/)
-- [Reason Why XGBoost Algorithm is so Good!](https://www.reddit.com/r/Python/comments/yb4wsl/reason_why_xgboost_algorithm_is_so_good/)
-- [MachineLearning/Neuronal network to identify and categorize text](https://www.reddit.com/r/Python/comments/yb36oj/machinelearningneuronal_network_to_identify_and/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/yb2lxx/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
