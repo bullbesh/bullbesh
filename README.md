@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python learning path](https://www.reddit.com/r/Python/comments/yaxzzk/python_learning_path/)
-- [I&#39;ve created &#39;logzy&#39;, a fixer for Python logging messages](https://www.reddit.com/r/Python/comments/yaxpj8/ive_created_logzy_a_fixer_for_python_logging/)
-- [Tried To Make a Language In Python](https://www.reddit.com/r/Python/comments/yaxk78/tried_to_make_a_language_in_python/)
-- [Python automation in a browser](https://www.reddit.com/r/Python/comments/yawutv/python_automation_in_a_browser/)
-- [Learn the Basics of Python &lpar;or any other language&rpar; in 2 minutes](https://www.reddit.com/r/Python/comments/yawcnl/learn_the_basics_of_python_or_any_other_language/)
+- [I made a tiny project that does word censorship for an input text file](https://www.reddit.com/r/Python/comments/yb5nlu/i_made_a_tiny_project_that_does_word_censorship/)
+- [Beginner help](https://www.reddit.com/r/Python/comments/yb53u5/beginner_help/)
+- [Reason Why XGBoost Algorithm is so Good!](https://www.reddit.com/r/Python/comments/yb4wsl/reason_why_xgboost_algorithm_is_so_good/)
+- [MachineLearning/Neuronal network to identify and categorize text](https://www.reddit.com/r/Python/comments/yb36oj/machinelearningneuronal_network_to_identify_and/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/yb2lxx/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
