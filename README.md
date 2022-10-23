@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I/O for a list](https://www.reddit.com/r/Python/comments/ybcv3l/io_for_a_list/)
+- [$1,597 Worth of Programming Books by Packt for $15 &lpar;-99% OFF&rpar;](https://www.reddit.com/r/Python/comments/ybcpqv/1597_worth_of_programming_books_by_packt_for_15/)
 - [Recursion In Python — Solve Complex Problems With Simple Code](https://www.reddit.com/r/Python/comments/ybbt09/recursion_in_python_solve_complex_problems_with/)
 - [styling the Dataframe](https://www.reddit.com/r/Python/comments/ybbo21/styling_the_dataframe/)
 - [Explaining decorators with concrete examples](https://www.reddit.com/r/Python/comments/ybbj5y/explaining_decorators_with_concrete_examples/)
-- [Images created by plotly truncated when saved as PNG](https://www.reddit.com/r/Python/comments/yb6l4t/images_created_by_plotly_truncated_when_saved_as/)
-- [I made a tiny project that does word censorship for an input text file](https://www.reddit.com/r/Python/comments/yb5nlu/i_made_a_tiny_project_that_does_word_censorship/)
 <!-- BLOG-POST-LIST:END -->
