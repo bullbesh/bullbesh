@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Uncanny Python.](https://www.reddit.com/r/Python/comments/ybw090/uncanny_python/)
+- [My first python3 program](https://www.reddit.com/r/Python/comments/ybvtxl/my_first_python3_program/)
+- [Do you guys have ideas for a fun, hands-on middle school Python class?](https://www.reddit.com/r/Python/comments/ybvoly/do_you_guys_have_ideas_for_a_fun_handson_middle/)
 - [Python web frameworks](https://www.reddit.com/r/Python/comments/ybohu7/python_web_frameworks/)
 - [op &lpar;Python Pandas + Excel + Github Copilot&rpar; is now in beta](https://www.reddit.com/r/Python/comments/ybnnzn/op_python_pandas_excel_github_copilot_is_now_in/)
-- [Football bets prediction based on momentum](https://www.reddit.com/r/Python/comments/yblb0a/football_bets_prediction_based_on_momentum/)
-- [New version of Textual adds CSS support](https://www.reddit.com/r/Python/comments/ybi3u3/new_version_of_textual_adds_css_support/)
-- [Introducing Python to a 10year old kid.](https://www.reddit.com/r/Python/comments/ybhva9/introducing_python_to_a_10year_old_kid/)
 <!-- BLOG-POST-LIST:END -->
