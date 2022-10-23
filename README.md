@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to take multiple data types as input in Python?](https://www.reddit.com/r/Python/comments/ybergk/how_to_take_multiple_data_types_as_input_in_python/)
+- [Beta users wanted: never lose control of your software architecture and save time in routinary tasks &lpar;a combination of Notion + Figma specifically for software architecture&rpar;](https://www.reddit.com/r/Python/comments/ybg6pz/beta_users_wanted_never_lose_control_of_your/)
+- [Hi, I made this python program, it will save the time when sometimes user need to lift the mouse.](https://www.reddit.com/r/Python/comments/ybg5vi/hi_i_made_this_python_program_it_will_save_the/)
+- [Pyxel, a retro game engine for Python, reaches 300,000 downloads!](https://www.reddit.com/r/Python/comments/ybf948/pyxel_a_retro_game_engine_for_python_reaches/)
 - [justpy open source community is growing](https://www.reddit.com/r/Python/comments/ybe1z4/justpy_open_source_community_is_growing/)
-- [$1,597 Worth of Programming Books by Packt for $15 &lpar;-99% OFF&rpar;](https://www.reddit.com/r/Python/comments/ybcpqv/1597_worth_of_programming_books_by_packt_for_15/)
 - [Recursion In Python — Solve Complex Problems With Simple Code](https://www.reddit.com/r/Python/comments/ybbt09/recursion_in_python_solve_complex_problems_with/)
-- [styling the Dataframe](https://www.reddit.com/r/Python/comments/ybbo21/styling_the_dataframe/)
 <!-- BLOG-POST-LIST:END -->
