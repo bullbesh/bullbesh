@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Algorithm Questions.](https://www.reddit.com/r/Python/comments/yc03ig/algorithm_questions/)
+- [Editable/Runnable Python In StackOverflow](https://www.reddit.com/r/Python/comments/ybzv02/editablerunnable_python_in_stackoverflow/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/ybwsz6/monday_daily_thread_project_ideas/)
 - [Uncanny Python.](https://www.reddit.com/r/Python/comments/ybw090/uncanny_python/)
 - [My first python3 program](https://www.reddit.com/r/Python/comments/ybvtxl/my_first_python3_program/)
-- [Do you guys have ideas for a fun, hands-on middle school Python class?](https://www.reddit.com/r/Python/comments/ybvoly/do_you_guys_have_ideas_for_a_fun_handson_middle/)
-- [Python web frameworks](https://www.reddit.com/r/Python/comments/ybohu7/python_web_frameworks/)
-- [op &lpar;Python Pandas + Excel + Github Copilot&rpar; is now in beta](https://www.reddit.com/r/Python/comments/ybnnzn/op_python_pandas_excel_github_copilot_is_now_in/)
 <!-- BLOG-POST-LIST:END -->
