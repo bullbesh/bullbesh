@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best books to read about Python in bed &lpar;without coding&rpar;](https://www.reddit.com/r/Python/comments/ycmutu/best_books_to_read_about_python_in_bed_without/)
+- [Python 3.11 is out! Huzzah!](https://www.reddit.com/r/Python/comments/ycmnor/python_311_is_out_huzzah/)
 - [Animated Map Tips](https://www.reddit.com/r/Python/comments/ycl4d4/animated_map_tips/)
 - [Backend of Max function](https://www.reddit.com/r/Python/comments/yckio8/backend_of_max_function/)
 - [Interactive website for app demo](https://www.reddit.com/r/Python/comments/yckaog/interactive_website_for_app_demo/)
-- [Articles on Python- Learn Data Science by Reading :&rpar;](https://www.reddit.com/r/Python/comments/yck3qr/articles_on_python_learn_data_science_by_reading/)
-- [Transforming user-generated content into writing hints with spaCy](https://www.reddit.com/r/Python/comments/ychvo6/transforming_usergenerated_content_into_writing/)
 <!-- BLOG-POST-LIST:END -->
