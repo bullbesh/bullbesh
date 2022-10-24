@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Animated Map Tips](https://www.reddit.com/r/Python/comments/ycl4d4/animated_map_tips/)
+- [Backend of Max function](https://www.reddit.com/r/Python/comments/yckio8/backend_of_max_function/)
+- [Interactive website for app demo](https://www.reddit.com/r/Python/comments/yckaog/interactive_website_for_app_demo/)
 - [Articles on Python- Learn Data Science by Reading :&rpar;](https://www.reddit.com/r/Python/comments/yck3qr/articles_on_python_learn_data_science_by_reading/)
 - [Transforming user-generated content into writing hints with spaCy](https://www.reddit.com/r/Python/comments/ychvo6/transforming_usergenerated_content_into_writing/)
-- [My first game project](https://www.reddit.com/r/Python/comments/ychrfr/my_first_game_project/)
-- [Made a Blender add-on with Python](https://www.reddit.com/r/Python/comments/ychlpx/made_a_blender_addon_with_python/)
-- [I&#39;ve created a telegram bot that functions as the BeReal app with python](https://www.reddit.com/r/Python/comments/ychktm/ive_created_a_telegram_bot_that_functions_as_the/)
 <!-- BLOG-POST-LIST:END -->
