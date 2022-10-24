@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Starlite to drop Starlette](https://www.reddit.com/r/Python/comments/yc7rvf/starlite_to_drop_starlette/)
+- [Flyte: Kubernetes-native Workflow Automation Platform](https://www.reddit.com/r/Python/comments/yc7n24/flyte_kubernetesnative_workflow_automation/)
+- [How much time it takes to master Python ?](https://www.reddit.com/r/Python/comments/yc71lx/how_much_time_it_takes_to_master_python/)
 - [APP with rtsp streaming &amp; recording 24/7](https://www.reddit.com/r/Python/comments/yc6psu/app_with_rtsp_streaming_recording_247/)
 - [Compressed Sqlite database and indexing](https://www.reddit.com/r/Python/comments/yc6kk2/compressed_sqlite_database_and_indexing/)
-- [Raising better exceptions](https://www.reddit.com/r/Python/comments/yc5fzv/raising_better_exceptions/)
-- [Move over vector search, tensor search is here.](https://www.reddit.com/r/Python/comments/yc4fz9/move_over_vector_search_tensor_search_is_here/)
-- [Generating memes and infographics with Pillow](https://www.reddit.com/r/Python/comments/yc3sbj/generating_memes_and_infographics_with_pillow/)
 <!-- BLOG-POST-LIST:END -->
