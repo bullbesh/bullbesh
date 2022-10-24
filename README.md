@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Transforming user-generated content into writing hints with spaCy](https://www.reddit.com/r/Python/comments/ychvo6/transforming_usergenerated_content_into_writing/)
+- [My first game project](https://www.reddit.com/r/Python/comments/ychrfr/my_first_game_project/)
+- [Made a Blender add-on with Python](https://www.reddit.com/r/Python/comments/ychlpx/made_a_blender_addon_with_python/)
+- [I&#39;ve created a telegram bot that functions as the BeReal app with python](https://www.reddit.com/r/Python/comments/ychktm/ive_created_a_telegram_bot_that_functions_as_the/)
 - [Bypassing reCaptcha using OpenAI&#39;s Whisper Model](https://www.reddit.com/r/Python/comments/ych1b0/bypassing_recaptcha_using_openais_whisper_model/)
-- [Packaging a service in a monorepo](https://www.reddit.com/r/Python/comments/ycgbxi/packaging_a_service_in_a_monorepo/)
-- [Python 3.11 Release Stream hosted by Pablo Galindo Salgado and Leon Sandøy!](https://www.reddit.com/r/Python/comments/ycgask/python_311_release_stream_hosted_by_pablo_galindo/)
-- [Find all og: Tags from a website](https://www.reddit.com/r/Python/comments/ycg3ym/find_all_og_tags_from_a_website/)
-- [From 3D Contour Plots to AI-Generated Art](https://www.reddit.com/r/Python/comments/ycg3xa/from_3d_contour_plots_to_aigenerated_art/)
 <!-- BLOG-POST-LIST:END -->
