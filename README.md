@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make a Todo App with Python Flask](https://www.reddit.com/r/Python/comments/ycc6ub/how_to_make_a_todo_app_with_python_flask/)
+- [Is it possible to manipulate GPU speed with Python?](https://www.reddit.com/r/Python/comments/ycboy3/is_it_possible_to_manipulate_gpu_speed_with_python/)
 - [When to use Flask as API or Server?](https://www.reddit.com/r/Python/comments/yca9ze/when_to_use_flask_as_api_or_server/)
 - [How to build a RESTful API with Quart](https://www.reddit.com/r/Python/comments/yc8zgg/how_to_build_a_restful_api_with_quart/)
 - [Pytest Tutorial](https://www.reddit.com/r/Python/comments/yc8ad3/pytest_tutorial/)
-- [Starlite to drop Starlette](https://www.reddit.com/r/Python/comments/yc7rvf/starlite_to_drop_starlette/)
-- [Flyte: Kubernetes-native Workflow Automation Platform](https://www.reddit.com/r/Python/comments/yc7n24/flyte_kubernetesnative_workflow_automation/)
 <!-- BLOG-POST-LIST:END -->
