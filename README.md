@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [APP with rtsp streaming &amp; recording 24/7](https://www.reddit.com/r/Python/comments/yc6psu/app_with_rtsp_streaming_recording_247/)
+- [Compressed Sqlite database and indexing](https://www.reddit.com/r/Python/comments/yc6kk2/compressed_sqlite_database_and_indexing/)
 - [Raising better exceptions](https://www.reddit.com/r/Python/comments/yc5fzv/raising_better_exceptions/)
 - [Move over vector search, tensor search is here.](https://www.reddit.com/r/Python/comments/yc4fz9/move_over_vector_search_tensor_search_is_here/)
 - [Generating memes and infographics with Pillow](https://www.reddit.com/r/Python/comments/yc3sbj/generating_memes_and_infographics_with_pillow/)
-- [SQLAlchemy and Idle in transaction queries.](https://www.reddit.com/r/Python/comments/yc3chq/sqlalchemy_and_idle_in_transaction_queries/)
-- [Is there any repository with PCEP questions?](https://www.reddit.com/r/Python/comments/yc35v0/is_there_any_repository_with_pcep_questions/)
 <!-- BLOG-POST-LIST:END -->
