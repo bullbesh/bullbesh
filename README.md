@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Move over vector search, tensor search is here.](https://www.reddit.com/r/Python/comments/yc4fz9/move_over_vector_search_tensor_search_is_here/)
+- [Generating memes and infographics with Pillow](https://www.reddit.com/r/Python/comments/yc3sbj/generating_memes_and_infographics_with_pillow/)
+- [SQLAlchemy and Idle in transaction queries.](https://www.reddit.com/r/Python/comments/yc3chq/sqlalchemy_and_idle_in_transaction_queries/)
+- [Is there any repository with PCEP questions?](https://www.reddit.com/r/Python/comments/yc35v0/is_there_any_repository_with_pcep_questions/)
 - [Do you think OAuth libraries like oauthlib and requests_oauthlib are the best solutions for writing OAuth clients for any website or services? Are there cases where none of them are worthwhile and you should just use a library like requests?](https://www.reddit.com/r/Python/comments/yc25f4/do_you_think_oauth_libraries_like_oauthlib_and/)
-- [$1,597 Worth of 27 Programming Books for $15 &lpar;-99% OFF&rpar;](https://www.reddit.com/r/Python/comments/yc1fum/1597_worth_of_27_programming_books_for_15_99_off/)
-- [PassGen password generator/Manager.](https://www.reddit.com/r/Python/comments/yc07d4/passgen_password_generatormanager/)
-- [Editable/Runnable Python In StackOverflow](https://www.reddit.com/r/Python/comments/ybzv02/editablerunnable_python_in_stackoverflow/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/ybwsz6/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
