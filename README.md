@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [regfmt - a command line utility to generate SVG diagrams for control register-style data formats](https://www.reddit.com/r/Python/comments/ycptmw/regfmt_a_command_line_utility_to_generate_svg/)
+- [3.11 has grassroots 🐍🍎](https://www.reddit.com/r/Python/comments/ycoxrh/311_has_grassroots/)
 - [Halloween music player and trick or treater display in Python](https://www.reddit.com/r/Python/comments/ycoij7/halloween_music_player_and_trick_or_treater/)
 - [Python 3.11.0 is now available](https://www.reddit.com/r/Python/comments/ycoda2/python_3110_is_now_available/)
 - [Any reason not to use dataclasses everywhere?](https://www.reddit.com/r/Python/comments/ycn5ae/any_reason_not_to_use_dataclasses_everywhere/)
-- [Best books to read about Python in bed &lpar;without coding&rpar;](https://www.reddit.com/r/Python/comments/ycmutu/best_books_to_read_about_python_in_bed_without/)
-- [Python 3.11 is out! Huzzah!](https://www.reddit.com/r/Python/comments/ycmnor/python_311_is_out_huzzah/)
 <!-- BLOG-POST-LIST:END -->
