@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [It’s Python 3.11 release day! The core devs will be hosting a release stream starting at 17:00 UTC &lpar;when this post is 35 minutes old&rpar;](https://www.reddit.com/r/Python/comments/ycfon4/its_python_311_release_day_the_core_devs_will_be/)
-- [Add your own custom methods to third-party types with this pattern](https://www.reddit.com/r/Python/comments/ycfbm5/add_your_own_custom_methods_to_thirdparty_types/)
-- [An Educational Platform for Python Beginners](https://www.reddit.com/r/Python/comments/ycfbkt/an_educational_platform_for_python_beginners/)
-- [Inlay Type Hints: a cool new feature for Python &amp; VS Code](https://www.reddit.com/r/Python/comments/ycevgq/inlay_type_hints_a_cool_new_feature_for_python_vs/)
-- [pythonetc: Posts about Python stdlib, syntax, and internals](https://www.reddit.com/r/Python/comments/ycdjhe/pythonetc_posts_about_python_stdlib_syntax_and/)
+- [Bypassing reCaptcha using OpenAI&#39;s Whisper Model](https://www.reddit.com/r/Python/comments/ych1b0/bypassing_recaptcha_using_openais_whisper_model/)
+- [Packaging a service in a monorepo](https://www.reddit.com/r/Python/comments/ycgbxi/packaging_a_service_in_a_monorepo/)
+- [Python 3.11 Release Stream hosted by Pablo Galindo Salgado and Leon Sandøy!](https://www.reddit.com/r/Python/comments/ycgask/python_311_release_stream_hosted_by_pablo_galindo/)
+- [Find all og: Tags from a website](https://www.reddit.com/r/Python/comments/ycg3ym/find_all_og_tags_from_a_website/)
+- [From 3D Contour Plots to AI-Generated Art](https://www.reddit.com/r/Python/comments/ycg3xa/from_3d_contour_plots_to_aigenerated_art/)
 <!-- BLOG-POST-LIST:END -->
