@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [When to use Flask as API or Server?](https://www.reddit.com/r/Python/comments/yca9ze/when_to_use_flask_as_api_or_server/)
+- [How to build a RESTful API with Quart](https://www.reddit.com/r/Python/comments/yc8zgg/how_to_build_a_restful_api_with_quart/)
 - [Pytest Tutorial](https://www.reddit.com/r/Python/comments/yc8ad3/pytest_tutorial/)
 - [Starlite to drop Starlette](https://www.reddit.com/r/Python/comments/yc7rvf/starlite_to_drop_starlette/)
 - [Flyte: Kubernetes-native Workflow Automation Platform](https://www.reddit.com/r/Python/comments/yc7n24/flyte_kubernetesnative_workflow_automation/)
-- [How much time it takes to master Python ?](https://www.reddit.com/r/Python/comments/yc71lx/how_much_time_it_takes_to_master_python/)
-- [APP with rtsp streaming &amp; recording 24/7](https://www.reddit.com/r/Python/comments/yc6psu/app_with_rtsp_streaming_recording_247/)
 <!-- BLOG-POST-LIST:END -->
