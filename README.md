@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Who is Scott Meyers but for Python instead of C++?](https://www.reddit.com/r/Python/comments/ydelk2/who_is_scott_meyers_but_for_python_instead_of_c/)
+- [Need Help!!! Where do invoke the interprator on Python?](https://www.reddit.com/r/Python/comments/yddt74/need_help_where_do_invoke_the_interprator_on/)
 - [HPy: Debugging Features with Kiwisolver](https://www.reddit.com/r/Python/comments/ydc3o1/hpy_debugging_features_with_kiwisolver/)
 - [Prepaid Credits Billing System in Python &lpar;Open Source&rpar;](https://www.reddit.com/r/Python/comments/yd8by2/prepaid_credits_billing_system_in_python_open/)
 - [UniHack - international hackathon](https://www.reddit.com/r/Python/comments/yd63xa/unihack_international_hackathon/)
-- [Hades: Serverless Dask for massive compute scale](https://www.reddit.com/r/Python/comments/yd60jx/hades_serverless_dask_for_massive_compute_scale/)
-- [Python 3.11: Cool New Features for You to Try – Real Python](https://www.reddit.com/r/Python/comments/yd527l/python_311_cool_new_features_for_you_to_try_real/)
 <!-- BLOG-POST-LIST:END -->
