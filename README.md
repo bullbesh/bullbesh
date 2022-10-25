@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.11.0 final is now available](https://www.reddit.com/r/Python/comments/yd0j8f/python_3110_final_is_now_available/)
+- [Do you know python odoo?](https://www.reddit.com/r/Python/comments/yd0b20/do_you_know_python_odoo/)
+- [Scrape Walmart Data using Python for Product Information &lpar;Name, Price &amp; Rating&rpar;](https://www.reddit.com/r/Python/comments/yd01fv/scrape_walmart_data_using_python_for_product/)
+- [Ensemble Learning with Python Examples](https://www.reddit.com/r/Python/comments/yczvhb/ensemble_learning_with_python_examples/)
 - [Particle Life - Life of Particles](https://www.reddit.com/r/Python/comments/yczh3b/particle_life_life_of_particles/)
-- [Lax mocks encouraged by standard library](https://www.reddit.com/r/Python/comments/ycx1u2/lax_mocks_encouraged_by_standard_library/)
-- [Manipulating class variables question](https://www.reddit.com/r/Python/comments/yctjcb/manipulating_class_variables_question/)
-- [Any Remote Jobs for Entry Level Python Developers?](https://www.reddit.com/r/Python/comments/ycr7qi/any_remote_jobs_for_entry_level_python_developers/)
-- [Scraping Business Data with Google Places API in Python](https://www.reddit.com/r/Python/comments/ycr1ke/scraping_business_data_with_google_places_api_in/)
 <!-- BLOG-POST-LIST:END -->
