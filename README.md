@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Improve Unit Tests with Property-Based Testing!](https://www.reddit.com/r/Python/comments/yd16zi/improve_unit_tests_with_propertybased_testing/)
-- [Python 3.11.0 final is now available](https://www.reddit.com/r/Python/comments/yd0j8f/python_3110_final_is_now_available/)
-- [Do you know python odoo?](https://www.reddit.com/r/Python/comments/yd0b20/do_you_know_python_odoo/)
-- [Scrape Walmart Data using Python for Product Information &lpar;Name, Price &amp; Rating&rpar;](https://www.reddit.com/r/Python/comments/yd01fv/scrape_walmart_data_using_python_for_product/)
-- [Ensemble Learning with Python Examples](https://www.reddit.com/r/Python/comments/yczvhb/ensemble_learning_with_python_examples/)
+- [[OC] Data scientists love PowerPoint?! 😯](https://www.reddit.com/r/Python/comments/yd3swa/oc_data_scientists_love_powerpoint/)
+- [My experience so far with 3.11](https://www.reddit.com/r/Python/comments/yd3hq5/my_experience_so_far_with_311/)
+- [When should you upgrade to Python 3.11?](https://www.reddit.com/r/Python/comments/yd3eja/when_should_you_upgrade_to_python_311/)
+- [A match-based Red-black tree written in python](https://www.reddit.com/r/Python/comments/yd2p51/a_matchbased_redblack_tree_written_in_python/)
+- [Shall we see more game engines using python?](https://www.reddit.com/r/Python/comments/yd2f8b/shall_we_see_more_game_engines_using_python/)
 <!-- BLOG-POST-LIST:END -->
