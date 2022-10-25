@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [HPy: Debugging Features with Kiwisolver](https://www.reddit.com/r/Python/comments/ydc3o1/hpy_debugging_features_with_kiwisolver/)
-- [DataCamp Analyst Takeover](https://www.reddit.com/r/Python/comments/ydbpbu/datacamp_analyst_takeover/)
 - [Prepaid Credits Billing System in Python &lpar;Open Source&rpar;](https://www.reddit.com/r/Python/comments/yd8by2/prepaid_credits_billing_system_in_python_open/)
 - [UniHack - international hackathon](https://www.reddit.com/r/Python/comments/yd63xa/unihack_international_hackathon/)
 - [Hades: Serverless Dask for massive compute scale](https://www.reddit.com/r/Python/comments/yd60jx/hades_serverless_dask_for_massive_compute_scale/)
+- [Python 3.11: Cool New Features for You to Try – Real Python](https://www.reddit.com/r/Python/comments/yd527l/python_311_cool_new_features_for_you_to_try_real/)
 <!-- BLOG-POST-LIST:END -->
