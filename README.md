@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My python discord localhost tunneler](https://www.reddit.com/r/Python/comments/ydg7dp/my_python_discord_localhost_tunneler/)
 - [Playing around with 3.11 atomic grouping in regexes](https://www.reddit.com/r/Python/comments/ydfu2q/playing_around_with_311_atomic_grouping_in_regexes/)
 - [I am a Windows SyaAdmin who uses tons of PowerShell, Should I learn Python?](https://www.reddit.com/r/Python/comments/ydeyus/i_am_a_windows_syaadmin_who_uses_tons_of/)
 - [Who is Scott Meyers but for Python instead of C++?](https://www.reddit.com/r/Python/comments/ydelk2/who_is_scott_meyers_but_for_python_instead_of_c/)
-- [Need Help!!! Where do invoke the interprator on Python?](https://www.reddit.com/r/Python/comments/yddt74/need_help_where_do_invoke_the_interprator_on/)
 - [HPy: Debugging Features with Kiwisolver](https://www.reddit.com/r/Python/comments/ydc3o1/hpy_debugging_features_with_kiwisolver/)
 <!-- BLOG-POST-LIST:END -->
