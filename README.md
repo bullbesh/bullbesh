@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [regfmt - a command line utility to generate SVG diagrams for control register-style data formats](https://www.reddit.com/r/Python/comments/ycptmw/regfmt_a_command_line_utility_to_generate_svg/)
-- [3.11 has grassroots 🐍🍎](https://www.reddit.com/r/Python/comments/ycoxrh/311_has_grassroots/)
-- [Halloween music player and trick or treater display in Python](https://www.reddit.com/r/Python/comments/ycoij7/halloween_music_player_and_trick_or_treater/)
-- [Python 3.11.0 is now available](https://www.reddit.com/r/Python/comments/ycoda2/python_3110_is_now_available/)
-- [Any reason not to use dataclasses everywhere?](https://www.reddit.com/r/Python/comments/ycn5ae/any_reason_not_to_use_dataclasses_everywhere/)
+- [Manipulating class variables question](https://www.reddit.com/r/Python/comments/yctjcb/manipulating_class_variables_question/)
+- [Any Remote Jobs for Entry Level Python Developers?](https://www.reddit.com/r/Python/comments/ycr7qi/any_remote_jobs_for_entry_level_python_developers/)
+- [Scraping Business Data with Google Places API in Python](https://www.reddit.com/r/Python/comments/ycr1ke/scraping_business_data_with_google_places_api_in/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/ycqkjb/tuesday_daily_thread_advanced_questions/)
+- [AI-chatbot.py w/NeuralIntents by NeuralNine using discord.py written by myself for my Discord server](https://www.reddit.com/r/Python/comments/ycqd18/aichatbotpy_wneuralintents_by_neuralnine_using/)
 <!-- BLOG-POST-LIST:END -->
