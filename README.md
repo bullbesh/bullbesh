@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [UniHack - international hackathon](https://www.reddit.com/r/Python/comments/yd63xa/unihack_international_hackathon/)
+- [Hades: Serverless Dask for massive compute scale](https://www.reddit.com/r/Python/comments/yd60jx/hades_serverless_dask_for_massive_compute_scale/)
 - [I need to learn more!!!!!](https://www.reddit.com/r/Python/comments/yd5a1c/i_need_to_learn_more/)
 - [Python 3.11: Cool New Features for You to Try – Real Python](https://www.reddit.com/r/Python/comments/yd527l/python_311_cool_new_features_for_you_to_try_real/)
 - [People who sold a self-programmed product &lpar;or service&rpar; or made money of it in any way, what was the product and how did it go?](https://www.reddit.com/r/Python/comments/yd4srw/people_who_sold_a_selfprogrammed_product_or/)
-- [what feature you want python to have in next update?](https://www.reddit.com/r/Python/comments/yd4qnt/what_feature_you_want_python_to_have_in_next/)
-- [Search Video/Audio with Python and ML](https://www.reddit.com/r/Python/comments/yd4nrw/search_videoaudio_with_python_and_ml/)
 <!-- BLOG-POST-LIST:END -->
