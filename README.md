@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [[OC] Data scientists love PowerPoint?! 😯](https://www.reddit.com/r/Python/comments/yd3swa/oc_data_scientists_love_powerpoint/)
-- [My experience so far with 3.11](https://www.reddit.com/r/Python/comments/yd3hq5/my_experience_so_far_with_311/)
-- [When should you upgrade to Python 3.11?](https://www.reddit.com/r/Python/comments/yd3eja/when_should_you_upgrade_to_python_311/)
-- [A match-based Red-black tree written in python](https://www.reddit.com/r/Python/comments/yd2p51/a_matchbased_redblack_tree_written_in_python/)
-- [Shall we see more game engines using python?](https://www.reddit.com/r/Python/comments/yd2f8b/shall_we_see_more_game_engines_using_python/)
+- [I need to learn more!!!!!](https://www.reddit.com/r/Python/comments/yd5a1c/i_need_to_learn_more/)
+- [Python 3.11: Cool New Features for You to Try – Real Python](https://www.reddit.com/r/Python/comments/yd527l/python_311_cool_new_features_for_you_to_try_real/)
+- [People who sold a self-programmed product &lpar;or service&rpar; or made money of it in any way, what was the product and how did it go?](https://www.reddit.com/r/Python/comments/yd4srw/people_who_sold_a_selfprogrammed_product_or/)
+- [what feature you want python to have in next update?](https://www.reddit.com/r/Python/comments/yd4qnt/what_feature_you_want_python_to_have_in_next/)
+- [Search Video/Audio with Python and ML](https://www.reddit.com/r/Python/comments/yd4nrw/search_videoaudio_with_python_and_ml/)
 <!-- BLOG-POST-LIST:END -->
