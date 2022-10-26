@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve created DictDataBase, a JSON file based serverless DB for concurrent environments!](https://www.reddit.com/r/Python/comments/ydv7tt/ive_created_dictdatabase_a_json_file_based/)
+- [Snake Game 🐍](https://www.reddit.com/r/Python/comments/ydv6kb/snake_game/)
 - [Automating downloading 95 Excel files with Python](https://www.reddit.com/r/Python/comments/ydugq9/automating_downloading_95_excel_files_with_python/)
 - [We did it lads](https://www.reddit.com/r/Python/comments/ydu8bi/we_did_it_lads/)
 - [GUI in Python](https://www.reddit.com/r/Python/comments/ydt07g/gui_in_python/)
-- [Tuples vs Lists](https://www.reddit.com/r/Python/comments/ydsxhd/tuples_vs_lists/)
-- [Buffers on the edge: Python and Rust](https://www.reddit.com/r/Python/comments/ydsmeu/buffers_on_the_edge_python_and_rust/)
 <!-- BLOG-POST-LIST:END -->
