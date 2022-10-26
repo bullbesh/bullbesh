@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL - Cancelling statement due to conflict with recovery](https://www.reddit.com/r/Python/comments/ydpruy/postgresql_cancelling_statement_due_to_conflict/)
 - [How are you writing to logs when using asyncio/trio?](https://www.reddit.com/r/Python/comments/ydmrxe/how_are_you_writing_to_logs_when_using_asynciotrio/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/ydjlio/wednesday_daily_thread_beginner_questions/)
 - [Which python library electronics engineers use the most ?](https://www.reddit.com/r/Python/comments/ydi030/which_python_library_electronics_engineers_use/)
 - [Pandas df.head&lpar;&rpar; olympics - post your score](https://www.reddit.com/r/Python/comments/ydhxnp/pandas_dfhead_olympics_post_your_score/)
-- [My python discord localhost tunneler](https://www.reddit.com/r/Python/comments/ydg7dp/my_python_discord_localhost_tunneler/)
 <!-- BLOG-POST-LIST:END -->
