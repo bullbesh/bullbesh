@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate images with Python and physics](https://www.reddit.com/r/Python/comments/ye2b0m/generate_images_with_python_and_physics/)
+- [How can I get my dev team to be more efficient without being an asshole?](https://www.reddit.com/r/Python/comments/ye1nkd/how_can_i_get_my_dev_team_to_be_more_efficient/)
+- [Simple Python Data Types &lpar;With Code&rpar; || Python for beginners](https://www.reddit.com/r/Python/comments/ye1hd1/simple_python_data_types_with_code_python_for/)
 - [Create Python CLIs blazingly fast with python-fire🔥](https://www.reddit.com/r/Python/comments/ye0kc8/create_python_clis_blazingly_fast_with_pythonfire/)
 - [scikit-learn 1.1.3 released, with Python 3.11 wheels on PyPI](https://www.reddit.com/r/Python/comments/ye0jy0/scikitlearn_113_released_with_python_311_wheels/)
-- [Looking for advice](https://www.reddit.com/r/Python/comments/ye0ha3/looking_for_advice/)
-- [infer-types: A CLI tool to automatically add type annotations into Python code. Must have tool for annotating existing code.](https://www.reddit.com/r/Python/comments/ye09ht/infertypes_a_cli_tool_to_automatically_add_type/)
-- [need help Write a program using flowchart &lpar;or python, c++&rpar; that computes for the average of scores of a student. Scores accepted must be between 0 to 100.](https://www.reddit.com/r/Python/comments/ydybnk/need_help_write_a_program_using_flowchart_or/)
 <!-- BLOG-POST-LIST:END -->
