@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning how to problem solve on code wars](https://www.reddit.com/r/Python/comments/yeabmv/learning_how_to_problem_solve_on_code_wars/)
+- [Aprender python](https://www.reddit.com/r/Python/comments/ye9vvn/aprender_python/)
 - [Pants 2.14: Less boilerplate, more Rust, interactive debugging support, and more!](https://www.reddit.com/r/Python/comments/ye6slf/pants_214_less_boilerplate_more_rust_interactive/)
 - [Looking for perspective on testing file structure](https://www.reddit.com/r/Python/comments/ye6myb/looking_for_perspective_on_testing_file_structure/)
 - [What is the best open source/community IDE with Cython syntax highlighting](https://www.reddit.com/r/Python/comments/ye4eq1/what_is_the_best_open_sourcecommunity_ide_with/)
-- [pythondocs.xyz real-time documentation search updated for Python 3.11](https://www.reddit.com/r/Python/comments/ye33zd/pythondocsxyz_realtime_documentation_search/)
-- [Inside the team at Microsoft that helped make Python 10-60% Faster](https://www.reddit.com/r/Python/comments/ye2sfl/inside_the_team_at_microsoft_that_helped_make/)
 <!-- BLOG-POST-LIST:END -->
