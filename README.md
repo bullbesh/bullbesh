@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python implementation of Levenberg-Marquardt nonlinear curve-fitting algorithm built from scratch using NumPy !](https://www.reddit.com/r/Python/comments/yf286g/python_implementation_of_levenbergmarquardt/)
+- [Intel 13th gen AVX512](https://www.reddit.com/r/Python/comments/yf0wo4/intel_13th_gen_avx512/)
+- [Hiring an engineer, looking for a good screener question](https://www.reddit.com/r/Python/comments/yf0qg0/hiring_an_engineer_looking_for_a_good_screener/)
 - [Python 3.11: Cool New Features for You to Try – Real Python](https://www.reddit.com/r/Python/comments/yez0px/python_311_cool_new_features_for_you_to_try_real/)
 - [Hello! I created a cool looking Plexus effect. Enjoy!](https://www.reddit.com/r/Python/comments/yey5pl/hello_i_created_a_cool_looking_plexus_effect_enjoy/)
-- [Wave Stats](https://www.reddit.com/r/Python/comments/yexxbf/wave_stats/)
-- [I made FandomVideoGenerator, a project which generates short descriptive videos of Fandom pages](https://www.reddit.com/r/Python/comments/yeweil/i_made_fandomvideogenerator_a_project_which/)
-- [I trained a deep reinforcement learning agent in Python to play a space shooter game. Here it is battling itself!](https://www.reddit.com/r/Python/comments/yewaei/i_trained_a_deep_reinforcement_learning_agent_in/)
 <!-- BLOG-POST-LIST:END -->
