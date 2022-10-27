@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Automation: Don&#39;t Use Selenium, Use Playwright](https://www.reddit.com/r/Python/comments/yeuqw6/web_automation_dont_use_selenium_use_playwright/)
+- [A Team at Microsoft is Helping Make Python Faster](https://www.reddit.com/r/Python/comments/yeucg6/a_team_at_microsoft_is_helping_make_python_faster/)
 - [How do I tokenize this input sentences by the following stopwords &lpar;&quot;!&quot;, &quot;?&quot;, &quot;.&quot;, “,”&rpar;.](https://www.reddit.com/r/Python/comments/yesymb/how_do_i_tokenize_this_input_sentences_by_the/)
 - [YARDIMMM!!! Bu kodun neden çalışmadığını söyleyecek birisi var mı??????](https://www.reddit.com/r/Python/comments/yeswo9/yardimmm_bu_kodun_neden_çalışmadığını_söyleyecek/)
 - [sqlite vs SQL server](https://www.reddit.com/r/Python/comments/yesa9h/sqlite_vs_sql_server/)
-- [Seeking Feedback on Tkinter Entry Module](https://www.reddit.com/r/Python/comments/yes58s/seeking_feedback_on_tkinter_entry_module/)
-- [Script to convert Twitter thread into LinkedIn Carousel](https://www.reddit.com/r/Python/comments/yeroz8/script_to_convert_twitter_thread_into_linkedin/)
 <!-- BLOG-POST-LIST:END -->
