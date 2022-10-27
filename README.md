@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [logs reversed](https://www.reddit.com/r/Python/comments/yez5kp/logs_reversed/)
 - [Python 3.11: Cool New Features for You to Try – Real Python](https://www.reddit.com/r/Python/comments/yez0px/python_311_cool_new_features_for_you_to_try_real/)
-- [Python help](https://www.reddit.com/r/Python/comments/yeybdg/python_help/)
 - [Hello! I created a cool looking Plexus effect. Enjoy!](https://www.reddit.com/r/Python/comments/yey5pl/hello_i_created_a_cool_looking_plexus_effect_enjoy/)
 - [Wave Stats](https://www.reddit.com/r/Python/comments/yexxbf/wave_stats/)
+- [I made FandomVideoGenerator, a project which generates short descriptive videos of Fandom pages](https://www.reddit.com/r/Python/comments/yeweil/i_made_fandomvideogenerator_a_project_which/)
+- [I trained a deep reinforcement learning agent in Python to play a space shooter game. Here it is battling itself!](https://www.reddit.com/r/Python/comments/yewaei/i_trained_a_deep_reinforcement_learning_agent_in/)
 <!-- BLOG-POST-LIST:END -->
