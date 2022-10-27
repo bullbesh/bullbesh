@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Combining stable diffusion with semantic search to tag and query images at scale.](https://www.reddit.com/r/Python/comments/yel1nv/combining_stable_diffusion_with_semantic_search/)
 - [General purpose Tweet Streamer](https://www.reddit.com/r/Python/comments/yek8pz/general_purpose_tweet_streamer/)
 - [Build Real-time Data Applications Quickly Using Streamlit And Prisma](https://www.reddit.com/r/Python/comments/yek0zr/build_realtime_data_applications_quickly_using/)
 - [Share your `pipx list`](https://www.reddit.com/r/Python/comments/yegk2m/share_your_pipx_list/)
 - [Embedding AI directly into Databases!!](https://www.reddit.com/r/Python/comments/yefnbv/embedding_ai_directly_into_databases/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/yeczkv/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
