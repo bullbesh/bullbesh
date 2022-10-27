@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made DictDataBase, it‘s like SQLite but for JSON!](https://www.reddit.com/r/Python/comments/yemdn4/i_made_dictdatabase_its_like_sqlite_but_for_json/)
+- [Get Off The Weirdo game &lpar;I made it&rpar;](https://www.reddit.com/r/Python/comments/yelvy3/get_off_the_weirdo_game_i_made_it/)
 - [Combining stable diffusion with semantic search to tag and query images at scale.](https://www.reddit.com/r/Python/comments/yel1nv/combining_stable_diffusion_with_semantic_search/)
 - [General purpose Tweet Streamer](https://www.reddit.com/r/Python/comments/yek8pz/general_purpose_tweet_streamer/)
 - [Build Real-time Data Applications Quickly Using Streamlit And Prisma](https://www.reddit.com/r/Python/comments/yek0zr/build_realtime_data_applications_quickly_using/)
-- [Share your `pipx list`](https://www.reddit.com/r/Python/comments/yegk2m/share_your_pipx_list/)
-- [Embedding AI directly into Databases!!](https://www.reddit.com/r/Python/comments/yefnbv/embedding_ai_directly_into_databases/)
 <!-- BLOG-POST-LIST:END -->
