@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [sqlite vs SQL server](https://www.reddit.com/r/Python/comments/yesa9h/sqlite_vs_sql_server/)
+- [Seeking Feedback on Tkinter Entry Module](https://www.reddit.com/r/Python/comments/yes58s/seeking_feedback_on_tkinter_entry_module/)
+- [Script to convert Twitter thread into LinkedIn Carousel](https://www.reddit.com/r/Python/comments/yeroz8/script_to_convert_twitter_thread_into_linkedin/)
 - [Hi i have a question about == in while loop.](https://www.reddit.com/r/Python/comments/yeqnbt/hi_i_have_a_question_about_in_while_loop/)
 - [GitHub - SamirPaul1/DSAlgo: A repository that contains all the Data Structures and Algorithms concepts and solutions to various problems in Python3 stored in a structured manner](https://www.reddit.com/r/Python/comments/yeopfv/github_samirpaul1dsalgo_a_repository_that/)
-- [Low cost or free VPS](https://www.reddit.com/r/Python/comments/yeoo13/low_cost_or_free_vps/)
-- [I made DictDataBase, it‘s like SQLite but for JSON!](https://www.reddit.com/r/Python/comments/yemdn4/i_made_dictdatabase_its_like_sqlite_but_for_json/)
-- [Get Off The Weirdo game &lpar;I made it&rpar;](https://www.reddit.com/r/Python/comments/yelvy3/get_off_the_weirdo_game_i_made_it/)
 <!-- BLOG-POST-LIST:END -->
