@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to identify similar images with Python using hashing](https://www.reddit.com/r/Python/comments/yfsriq/how_to_identify_similar_images_with_python_using/)
+- [GitHub - capitalone/DataProfiler: What&#39;s in your data? Extract schema, statistics and entities from datasets](https://www.reddit.com/r/Python/comments/yfrbd4/github_capitalonedataprofiler_whats_in_your_data/)
 - [How to Audit the Quality of Your Python Code: A Step-by-Step Guide](https://www.reddit.com/r/Python/comments/yfqsmn/how_to_audit_the_quality_of_your_python_code_a/)
 - [DuckDB: Hi-performance SQL queries on pandas dataframe](https://www.reddit.com/r/Python/comments/yfqjdv/duckdb_hiperformance_sql_queries_on_pandas/)
 - [A brief explanation of Python dependency management](https://www.reddit.com/r/Python/comments/yfoffw/a_brief_explanation_of_python_dependency/)
-- [Machine Learning with Django](https://www.reddit.com/r/Python/comments/yfnr5y/machine_learning_with_django/)
-- [Help on loop](https://www.reddit.com/r/Python/comments/yfmy2g/help_on_loop/)
 <!-- BLOG-POST-LIST:END -->
