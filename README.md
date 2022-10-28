@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python ThreadPool: The Complete Guide](https://www.reddit.com/r/Python/comments/yfwy0n/python_threadpool_the_complete_guide/)
+- [PyCharm vs command line for Git workflow?](https://www.reddit.com/r/Python/comments/yfwv4u/pycharm_vs_command_line_for_git_workflow/)
 - [Big data, CSV file exploration. How do you do it? Here&#39;s my way](https://www.reddit.com/r/Python/comments/yftg4g/big_data_csv_file_exploration_how_do_you_do_it/)
 - [How to identify similar images with Python using hashing](https://www.reddit.com/r/Python/comments/yfsriq/how_to_identify_similar_images_with_python_using/)
 - [GitHub - capitalone/DataProfiler: What&#39;s in your data? Extract schema, statistics and entities from datasets](https://www.reddit.com/r/Python/comments/yfrbd4/github_capitalonedataprofiler_whats_in_your_data/)
-- [How to Audit the Quality of Your Python Code: A Step-by-Step Guide](https://www.reddit.com/r/Python/comments/yfqsmn/how_to_audit_the_quality_of_your_python_code_a/)
-- [DuckDB: Hi-performance SQL queries on pandas dataframe](https://www.reddit.com/r/Python/comments/yfqjdv/duckdb_hiperformance_sql_queries_on_pandas/)
 <!-- BLOG-POST-LIST:END -->
