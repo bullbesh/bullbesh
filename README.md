@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A brief explanation of Python dependency management](https://www.reddit.com/r/Python/comments/yfoffw/a_brief_explanation_of_python_dependency/)
+- [Machine Learning with Django](https://www.reddit.com/r/Python/comments/yfnr5y/machine_learning_with_django/)
 - [Help on loop](https://www.reddit.com/r/Python/comments/yfmy2g/help_on_loop/)
 - [Pipenv, venv or virtualenv or ?](https://www.reddit.com/r/Python/comments/yfmljp/pipenv_venv_or_virtualenv_or/)
 - [Clean Large Set of Data - Generate TAGS.](https://www.reddit.com/r/Python/comments/yfjodf/clean_large_set_of_data_generate_tags/)
-- [how to write](https://www.reddit.com/r/Python/comments/yfiu0k/how_to_write/)
-- [Why do we need an async version of every library?](https://www.reddit.com/r/Python/comments/yfir8u/why_do_we_need_an_async_version_of_every_library/)
 <!-- BLOG-POST-LIST:END -->
