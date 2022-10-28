@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Audit the Quality of Your Python Code: A Step-by-Step Guide](https://www.reddit.com/r/Python/comments/yfqsmn/how_to_audit_the_quality_of_your_python_code_a/)
+- [DuckDB: Hi-performance SQL queries on pandas dataframe](https://www.reddit.com/r/Python/comments/yfqjdv/duckdb_hiperformance_sql_queries_on_pandas/)
 - [A brief explanation of Python dependency management](https://www.reddit.com/r/Python/comments/yfoffw/a_brief_explanation_of_python_dependency/)
 - [Machine Learning with Django](https://www.reddit.com/r/Python/comments/yfnr5y/machine_learning_with_django/)
 - [Help on loop](https://www.reddit.com/r/Python/comments/yfmy2g/help_on_loop/)
-- [Pipenv, venv or virtualenv or ?](https://www.reddit.com/r/Python/comments/yfmljp/pipenv_venv_or_virtualenv_or/)
-- [Clean Large Set of Data - Generate TAGS.](https://www.reddit.com/r/Python/comments/yfjodf/clean_large_set_of_data_generate_tags/)
 <!-- BLOG-POST-LIST:END -->
