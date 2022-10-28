@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [how to write](https://www.reddit.com/r/Python/comments/yfiu0k/how_to_write/)
+- [Why do we need an async version of every library?](https://www.reddit.com/r/Python/comments/yfir8u/why_do_we_need_an_async_version_of_every_library/)
+- [How to build your own website](https://www.reddit.com/r/Python/comments/yfikmk/how_to_build_your_own_website/)
 - [Is this really the fastest way to eval over the same string?](https://www.reddit.com/r/Python/comments/yf6qsl/is_this_really_the_fastest_way_to_eval_over_the/)
 - [Python implementation of Levenberg-Marquardt nonlinear curve-fitting algorithm built from scratch using NumPy !](https://www.reddit.com/r/Python/comments/yf286g/python_implementation_of_levenbergmarquardt/)
-- [Python 3.11: Cool New Features for You to Try – Real Python](https://www.reddit.com/r/Python/comments/yez0px/python_311_cool_new_features_for_you_to_try_real/)
-- [Hello! I created a cool looking Plexus effect. Enjoy!](https://www.reddit.com/r/Python/comments/yey5pl/hello_i_created_a_cool_looking_plexus_effect_enjoy/)
-- [Wave Stats](https://www.reddit.com/r/Python/comments/yexxbf/wave_stats/)
 <!-- BLOG-POST-LIST:END -->
