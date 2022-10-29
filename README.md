@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/yg4j5l/saturday_daily_thread_resource_request_and/)
+- [Data Storage Best Practices](https://www.reddit.com/r/Python/comments/yg4b3p/data_storage_best_practices/)
+- [I made a Mac menu bar app for updating your Slack status!](https://www.reddit.com/r/Python/comments/yg3x5s/i_made_a_mac_menu_bar_app_for_updating_your_slack/)
 - [Python beginner tutorial - Datatypes](https://www.reddit.com/r/Python/comments/yg2j0v/python_beginner_tutorial_datatypes/)
 - [Day 2 of trying to make a 3D engine and failing miserably](https://www.reddit.com/r/Python/comments/yfyt46/day_2_of_trying_to_make_a_3d_engine_and_failing/)
-- [reasoning behind this Python code style?](https://www.reddit.com/r/Python/comments/yfyigm/reasoning_behind_this_python_code_style/)
-- [Fun project: I moved my mood-based ☺️ personal spotify playlist generator App from Heroku to Render.](https://www.reddit.com/r/Python/comments/yfyfsm/fun_project_i_moved_my_moodbased_personal_spotify/)
-- [So, I&#39;m kind of disgusted that I figured out how to pass a parameter to a property.](https://www.reddit.com/r/Python/comments/yfyfh4/so_im_kind_of_disgusted_that_i_figured_out_how_to/)
 <!-- BLOG-POST-LIST:END -->
