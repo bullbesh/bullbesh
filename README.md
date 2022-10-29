@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s the best shooting game on #OculusQuest2 ⁉️👀](https://www.reddit.com/r/Python/comments/yg9e4g/whats_the_best_shooting_game_on_oculusquest2/)
 - [To Do app](https://www.reddit.com/r/Python/comments/yg8v62/to_do_app/)
 - [Learn programming](https://www.reddit.com/r/Python/comments/yg8ubr/learn_programming/)
 - [my biggest python nightmare](https://www.reddit.com/r/Python/comments/yg73uj/my_biggest_python_nightmare/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/yg4j5l/saturday_daily_thread_resource_request_and/)
-- [Data Storage Best Practices](https://www.reddit.com/r/Python/comments/yg4b3p/data_storage_best_practices/)
 <!-- BLOG-POST-LIST:END -->
