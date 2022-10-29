@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [fiximport package: fixes import errors](https://www.reddit.com/r/Python/comments/ygrutc/fiximport_package_fixes_import_errors/)
+- [I made my own version of Brainfuck! It&#39;s called &quot;MindVomit&quot;!](https://www.reddit.com/r/Python/comments/ygrjed/i_made_my_own_version_of_brainfuck_its_called/)
 - [Database API Standard?](https://www.reddit.com/r/Python/comments/ygql61/database_api_standard/)
 - [PassGen | Password generator/manager.](https://www.reddit.com/r/Python/comments/ygoapl/passgen_password_generatormanager/)
 - [How to Get the First Match From a Python List or Iterable – Real Python](https://www.reddit.com/r/Python/comments/ygmgy1/how_to_get_the_first_match_from_a_python_list_or/)
-- [How to Predict UFC with AI and Profit](https://www.reddit.com/r/Python/comments/ygjjyf/how_to_predict_ufc_with_ai_and_profit/)
-- [Project Ideas for Github](https://www.reddit.com/r/Python/comments/yggvgw/project_ideas_for_github/)
 <!-- BLOG-POST-LIST:END -->
