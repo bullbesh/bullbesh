@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [masking image python](https://www.reddit.com/r/Python/comments/ygafx3/masking_image_python/)
-- [To Do app](https://www.reddit.com/r/Python/comments/yg8v62/to_do_app/)
-- [Learn programming](https://www.reddit.com/r/Python/comments/yg8ubr/learn_programming/)
-- [my biggest python nightmare](https://www.reddit.com/r/Python/comments/yg73uj/my_biggest_python_nightmare/)
+- [detect file changes in directory with Python](https://www.reddit.com/r/Python/comments/ygbs2p/detect_file_changes_in_directory_with_python/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/yg4j5l/saturday_daily_thread_resource_request_and/)
+- [Data Storage Best Practices](https://www.reddit.com/r/Python/comments/yg4b3p/data_storage_best_practices/)
+- [I made a Mac menu bar app for updating your Slack status!](https://www.reddit.com/r/Python/comments/yg3x5s/i_made_a_mac_menu_bar_app_for_updating_your_slack/)
+- [Python beginner tutorial - Datatypes](https://www.reddit.com/r/Python/comments/yg2j0v/python_beginner_tutorial_datatypes/)
 <!-- BLOG-POST-LIST:END -->
