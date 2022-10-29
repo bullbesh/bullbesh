@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are variables in Python?](https://www.reddit.com/r/Python/comments/ygt7ue/what_are_variables_in_python/)
+- [Esmerald framework](https://www.reddit.com/r/Python/comments/ygssyy/esmerald_framework/)
 - [fiximport package: fixes import errors](https://www.reddit.com/r/Python/comments/ygrutc/fiximport_package_fixes_import_errors/)
 - [I made my own version of Brainfuck! It&#39;s called &quot;MindVomit&quot;!](https://www.reddit.com/r/Python/comments/ygrjed/i_made_my_own_version_of_brainfuck_its_called/)
 - [Database API Standard?](https://www.reddit.com/r/Python/comments/ygql61/database_api_standard/)
-- [PassGen | Password generator/manager.](https://www.reddit.com/r/Python/comments/ygoapl/passgen_password_generatormanager/)
-- [How to Get the First Match From a Python List or Iterable – Real Python](https://www.reddit.com/r/Python/comments/ygmgy1/how_to_get_the_first_match_from_a_python_list_or/)
 <!-- BLOG-POST-LIST:END -->
