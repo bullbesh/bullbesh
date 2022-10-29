@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [This is for people that are new to python](https://www.reddit.com/r/Python/comments/ygkfli/this_is_for_people_that_are_new_to_python/)
 - [How to Predict UFC with AI and Profit](https://www.reddit.com/r/Python/comments/ygjjyf/how_to_predict_ufc_with_ai_and_profit/)
 - [Project Ideas for Github](https://www.reddit.com/r/Python/comments/yggvgw/project_ideas_for_github/)
 - [Technically speaking do comments and whitespaces slow down performance since Python is interpreted rather than compiled?](https://www.reddit.com/r/Python/comments/yggiqk/technically_speaking_do_comments_and_whitespaces/)
 - [create mask OpenCV python](https://www.reddit.com/r/Python/comments/ygfv0q/create_mask_opencv_python/)
-- [Guide to Scrape HTML Table Using Python](https://www.reddit.com/r/Python/comments/ygewma/guide_to_scrape_html_table_using_python/)
 <!-- BLOG-POST-LIST:END -->
