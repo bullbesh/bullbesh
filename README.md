@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Whatsapp API](https://www.reddit.com/r/Python/comments/yh1wgj/whatsapp_api/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/ygz33h/sunday_daily_thread_whats_everyone_working_on/)
-- [question](https://www.reddit.com/r/Python/comments/ygwcjs/question/)
 - [Succesful calculator!](https://www.reddit.com/r/Python/comments/ygu0z7/succesful_calculator/)
 - [Esmerald framework](https://www.reddit.com/r/Python/comments/ygssyy/esmerald_framework/)
+- [fiximport package: fixes import errors](https://www.reddit.com/r/Python/comments/ygrutc/fiximport_package_fixes_import_errors/)
 <!-- BLOG-POST-LIST:END -->
