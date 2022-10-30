@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Tutors](https://www.reddit.com/r/Python/comments/yhgw8y/python_tutors/)
-- [Rock, Paper, Scissors: Crap](https://www.reddit.com/r/Python/comments/yhgst3/rock_paper_scissors_crap/)
-- [Rock paper scissors](https://www.reddit.com/r/Python/comments/yhflk9/rock_paper_scissors/)
-- [Python Institute Certifications:](https://www.reddit.com/r/Python/comments/yheqjb/python_institute_certifications/)
-- [Get a mask OpenCV python](https://www.reddit.com/r/Python/comments/yhclhy/get_a_mask_opencv_python/)
+- [Python song-guesser game](https://www.reddit.com/r/Python/comments/yhim76/python_songguesser_game/)
+- [Best way to create .exe application in Python since Django is more complex and takes time to build](https://www.reddit.com/r/Python/comments/yhigtc/best_way_to_create_exe_application_in_python/)
+- [pip3 or python3 -m pip](https://www.reddit.com/r/Python/comments/yhhyy0/pip3_or_python3_m_pip/)
+- [I am cooking nice things😃](https://www.reddit.com/r/Python/comments/yhhycm/i_am_cooking_nice_things/)
+- [Is there anyway to control an Xbox game using python?](https://www.reddit.com/r/Python/comments/yhhhju/is_there_anyway_to_control_an_xbox_game_using/)
 <!-- BLOG-POST-LIST:END -->
