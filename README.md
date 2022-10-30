@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Tutors](https://www.reddit.com/r/Python/comments/yhgw8y/python_tutors/)
+- [Rock, Paper, Scissors: Crap](https://www.reddit.com/r/Python/comments/yhgst3/rock_paper_scissors_crap/)
+- [Rock paper scissors](https://www.reddit.com/r/Python/comments/yhflk9/rock_paper_scissors/)
 - [Python Institute Certifications:](https://www.reddit.com/r/Python/comments/yheqjb/python_institute_certifications/)
 - [Get a mask OpenCV python](https://www.reddit.com/r/Python/comments/yhclhy/get_a_mask_opencv_python/)
-- [pandas merge using how = outer results in empty dataframe](https://www.reddit.com/r/Python/comments/yhbobd/pandas_merge_using_how_outer_results_in_empty/)
-- [GitHub - rnd-team-dev/plotoptix: Data visualisation and ray tracing in Python based on OptiX 7.5 framework.](https://www.reddit.com/r/Python/comments/yh9t25/github_rndteamdevplotoptix_data_visualisation_and/)
-- [Whatsapp API](https://www.reddit.com/r/Python/comments/yh1wgj/whatsapp_api/)
 <!-- BLOG-POST-LIST:END -->
