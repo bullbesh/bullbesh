@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - rnd-team-dev/plotoptix: Data visualisation and ray tracing in Python based on OptiX 7.5 framework.](https://www.reddit.com/r/Python/comments/yh9t25/github_rndteamdevplotoptix_data_visualisation_and/)
 - [Whatsapp API](https://www.reddit.com/r/Python/comments/yh1wgj/whatsapp_api/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/ygz33h/sunday_daily_thread_whats_everyone_working_on/)
 - [Succesful calculator!](https://www.reddit.com/r/Python/comments/ygu0z7/succesful_calculator/)
 - [Esmerald framework](https://www.reddit.com/r/Python/comments/ygssyy/esmerald_framework/)
-- [fiximport package: fixes import errors](https://www.reddit.com/r/Python/comments/ygrutc/fiximport_package_fixes_import_errors/)
 <!-- BLOG-POST-LIST:END -->
