@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create incredibly customizable boxes in the terminal using Python](https://www.reddit.com/r/Python/comments/yij91t/create_incredibly_customizable_boxes_in_the/)
 - [Dan Becker’s &lpar;Kaggle learn co-creator, Google &amp; DataRobot&rpar; Decision Optimization Using ML Models](https://www.reddit.com/r/Python/comments/yiiczh/dan_beckers_kaggle_learn_cocreator_google/)
 - [What optimisation wins initially eluded you because &quot;Python is slow&quot;?](https://www.reddit.com/r/Python/comments/yih4ue/what_optimisation_wins_initially_eluded_you/)
-- [Python on M1 chip](https://www.reddit.com/r/Python/comments/yifhyh/python_on_m1_chip/)
 - [Best &quot;device&quot; to run python script 24/7](https://www.reddit.com/r/Python/comments/yiec9b/best_device_to_run_python_script_247/)
 - [nah a compiler should solve this](https://www.reddit.com/r/Python/comments/yiec7n/nah_a_compiler_should_solve_this/)
 <!-- BLOG-POST-LIST:END -->
