@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Know Python? Then learn how to write Smart Contracts in a one-week winter school](https://www.reddit.com/r/Python/comments/yir32w/know_python_then_learn_how_to_write_smart/)
 - [MySQL-mimic - Python implementation of the MySQL server wire protocol.](https://www.reddit.com/r/Python/comments/yio840/mysqlmimic_python_implementation_of_the_mysql/)
 - [Python 3.11 micro-benchmark](https://www.reddit.com/r/Python/comments/yinokv/python_311_microbenchmark/)
 - [Would I ever need anything besides Python &lpar;not pro&rpar;](https://www.reddit.com/r/Python/comments/yilu2n/would_i_ever_need_anything_besides_python_not_pro/)
 - [Create incredibly customizable boxes in the terminal using Python](https://www.reddit.com/r/Python/comments/yij91t/create_incredibly_customizable_boxes_in_the/)
-- [Dan Becker’s &lpar;Kaggle learn co-creator, Google &amp; DataRobot&rpar; Decision Optimization Using ML Models](https://www.reddit.com/r/Python/comments/yiiczh/dan_beckers_kaggle_learn_cocreator_google/)
 <!-- BLOG-POST-LIST:END -->
