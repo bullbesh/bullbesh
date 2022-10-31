@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best &quot;device&quot; to run python script 24/7](https://www.reddit.com/r/Python/comments/yiec9b/best_device_to_run_python_script_247/)
+- [nah a compiler should solve this](https://www.reddit.com/r/Python/comments/yiec7n/nah_a_compiler_should_solve_this/)
 - [[P] SOTA Solution for Portrait and Human Segmentation with Python API &lpar;5.8k star&rpar;](https://www.reddit.com/r/Python/comments/yidf4y/p_sota_solution_for_portrait_and_human/)
 - [Use any web browser as GUI in Python](https://www.reddit.com/r/Python/comments/yid1mh/use_any_web_browser_as_gui_in_python/)
 - [Create a batch to run directly outpainting - Stable Diffusion](https://www.reddit.com/r/Python/comments/yiahmr/create_a_batch_to_run_directly_outpainting_stable/)
-- [how do you improve this code for read/write on CSV?](https://www.reddit.com/r/Python/comments/yiadwa/how_do_you_improve_this_code_for_readwrite_on_csv/)
-- [High performance profiling for Python 3.11](https://www.reddit.com/r/Python/comments/yi6n8f/high_performance_profiling_for_python_311/)
 <!-- BLOG-POST-LIST:END -->
