@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pretty data visualization for Python? Coming from PPT and PBI](https://www.reddit.com/r/Python/comments/yi00te/pretty_data_visualization_for_python_coming_from/)
 - [Math with Significant Figures](https://www.reddit.com/r/Python/comments/yhy2xo/math_with_significant_figures/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/yhuobs/monday_daily_thread_project_ideas/)
 - [SPyQL 0.8.1 is out featuring a brand new documentation!](https://www.reddit.com/r/Python/comments/yhu9mx/spyql_081_is_out_featuring_a_brand_new/)
 - [Python career Guidance needed](https://www.reddit.com/r/Python/comments/yhq9ai/python_career_guidance_needed/)
-- [Multi-Frame Support For TkinterDesigner is here 🎊](https://www.reddit.com/r/Python/comments/yhlkxw/multiframe_support_for_tkinterdesigner_is_here/)
 <!-- BLOG-POST-LIST:END -->
