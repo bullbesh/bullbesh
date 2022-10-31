@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Math with Significant Figures](https://www.reddit.com/r/Python/comments/yhy2xo/math_with_significant_figures/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/yhuobs/monday_daily_thread_project_ideas/)
+- [SPyQL 0.8.1 is out featuring a brand new documentation!](https://www.reddit.com/r/Python/comments/yhu9mx/spyql_081_is_out_featuring_a_brand_new/)
 - [Python career Guidance needed](https://www.reddit.com/r/Python/comments/yhq9ai/python_career_guidance_needed/)
 - [Multi-Frame Support For TkinterDesigner is here 🎊](https://www.reddit.com/r/Python/comments/yhlkxw/multiframe_support_for_tkinterdesigner_is_here/)
-- [Best resource to learn test driven development?](https://www.reddit.com/r/Python/comments/yhkur8/best_resource_to_learn_test_driven_development/)
-- [Python song-guesser game](https://www.reddit.com/r/Python/comments/yhim76/python_songguesser_game/)
-- [pip3 or python3 -m pip](https://www.reddit.com/r/Python/comments/yhhyy0/pip3_or_python3_m_pip/)
 <!-- BLOG-POST-LIST:END -->
