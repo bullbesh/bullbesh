@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[P] SOTA Solution for Portrait and Human Segmentation with Python API &lpar;5.8k star&rpar;](https://www.reddit.com/r/Python/comments/yidf4y/p_sota_solution_for_portrait_and_human/)
+- [Use any web browser as GUI in Python](https://www.reddit.com/r/Python/comments/yid1mh/use_any_web_browser_as_gui_in_python/)
 - [Create a batch to run directly outpainting - Stable Diffusion](https://www.reddit.com/r/Python/comments/yiahmr/create_a_batch_to_run_directly_outpainting_stable/)
 - [how do you improve this code for read/write on CSV?](https://www.reddit.com/r/Python/comments/yiadwa/how_do_you_improve_this_code_for_readwrite_on_csv/)
 - [High performance profiling for Python 3.11](https://www.reddit.com/r/Python/comments/yi6n8f/high_performance_profiling_for_python_311/)
-- [GraphQL Server with Python and reusing REST APIs for GraphQL](https://www.reddit.com/r/Python/comments/yi5pmi/graphql_server_with_python_and_reusing_rest_apis/)
-- [Accelerate MATLAB with Python and Numba · TechThought](https://www.reddit.com/r/Python/comments/yi42as/accelerate_matlab_with_python_and_numba/)
 <!-- BLOG-POST-LIST:END -->
