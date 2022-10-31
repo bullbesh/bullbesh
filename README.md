@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a batch to run directly outpainting - Stable Diffusion](https://www.reddit.com/r/Python/comments/yiahmr/create_a_batch_to_run_directly_outpainting_stable/)
+- [how do you improve this code for read/write on CSV?](https://www.reddit.com/r/Python/comments/yiadwa/how_do_you_improve_this_code_for_readwrite_on_csv/)
 - [High performance profiling for Python 3.11](https://www.reddit.com/r/Python/comments/yi6n8f/high_performance_profiling_for_python_311/)
 - [GraphQL Server with Python and reusing REST APIs for GraphQL](https://www.reddit.com/r/Python/comments/yi5pmi/graphql_server_with_python_and_reusing_rest_apis/)
 - [Accelerate MATLAB with Python and Numba · TechThought](https://www.reddit.com/r/Python/comments/yi42as/accelerate_matlab_with_python_and_numba/)
-- [Latest Python 3.11 has tomllib, does that mean we don&#39;t need something like poetry now?](https://www.reddit.com/r/Python/comments/yi0xzn/latest_python_311_has_tomllib_does_that_mean_we/)
-- [Russian roulette](https://www.reddit.com/r/Python/comments/yi09ea/russian_roulette/)
 <!-- BLOG-POST-LIST:END -->
