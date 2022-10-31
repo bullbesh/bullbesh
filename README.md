@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Accelerate MATLAB with Python and Numba · TechThought](https://www.reddit.com/r/Python/comments/yi42as/accelerate_matlab_with_python_and_numba/)
 - [Latest Python 3.11 has tomllib, does that mean we don&#39;t need something like poetry now?](https://www.reddit.com/r/Python/comments/yi0xzn/latest_python_311_has_tomllib_does_that_mean_we/)
 - [Russian roulette](https://www.reddit.com/r/Python/comments/yi09ea/russian_roulette/)
 - [Pretty data visualization for Python? Coming from PPT and PBI](https://www.reddit.com/r/Python/comments/yi00te/pretty_data_visualization_for_python_coming_from/)
 - [Math with Significant Figures](https://www.reddit.com/r/Python/comments/yhy2xo/math_with_significant_figures/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/yhuobs/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
