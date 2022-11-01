@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Google APIs in Python](https://www.reddit.com/r/Python/comments/yj9thc/getting_started_with_google_apis_in_python/)
+- [Finally - A way to catch errors while typing](https://www.reddit.com/r/Python/comments/yj9iyz/finally_a_way_to_catch_errors_while_typing/)
+- [How smart is the Python compiler when it comes to optimization?](https://www.reddit.com/r/Python/comments/yj9fjt/how_smart_is_the_python_compiler_when_it_comes_to/)
 - [Python&#39;s doctest: Document and Test Your Code at Once — Real Python](https://www.reddit.com/r/Python/comments/yj8e09/pythons_doctest_document_and_test_your_code_at/)
 - [Python 3.11 micro-benchmark](https://www.reddit.com/r/Python/comments/yj78ib/python_311_microbenchmark/)
-- [NPM like init command for pip](https://www.reddit.com/r/Python/comments/yj50ht/npm_like_init_command_for_pip/)
-- [How to learn Python internals/ CPython / Cython](https://www.reddit.com/r/Python/comments/yj3kmv/how_to_learn_python_internals_cpython_cython/)
-- [Python 3.12 speed plan: trace optimizer, per-interpreter GIL for multi-threaded, bytecode specializations, smaller object structs and reduced memory management overhead!](https://www.reddit.com/r/Python/comments/yj2qj7/python_312_speed_plan_trace_optimizer/)
 <!-- BLOG-POST-LIST:END -->
