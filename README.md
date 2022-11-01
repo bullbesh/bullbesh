@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to learn Python internals/ CPython / Cython](https://www.reddit.com/r/Python/comments/yj3kmv/how_to_learn_python_internals_cpython_cython/)
 - [Python 3.12 speed plan: trace optimizer, per-interpreter GIL for multi-threaded, bytecode specializations, smaller object structs and reduced memory management overhead!](https://www.reddit.com/r/Python/comments/yj2qj7/python_312_speed_plan_trace_optimizer/)
 - [How To Create Django Blog Step By Step Tutorial](https://www.reddit.com/r/Python/comments/yizyhz/how_to_create_django_blog_step_by_step_tutorial/)
 - [I published a Free &amp; Open Source book to Learn Python 3. It includes a nice website for online reading and PDF for offline reading. Any feedback is highly appreciated.](https://www.reddit.com/r/Python/comments/yizxm0/i_published_a_free_open_source_book_to_learn/)
 - [PSA SciPy docs are down &lpar;Python.org is fine&rpar;](https://www.reddit.com/r/Python/comments/yiuh83/psa_scipy_docs_are_down_pythonorg_is_fine/)
-- [Pytonium - A framework for building python apps, with a GUI based on the web-technologies HTML, CSS and Javascript. Would be happy to hear some feedback on the code and the idea](https://www.reddit.com/r/Python/comments/yityxm/pytonium_a_framework_for_building_python_apps/)
 <!-- BLOG-POST-LIST:END -->
