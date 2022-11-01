@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Our XAI repo just hit 100 stars 😱 Thank you everyone for the support. 100 stars in a couple of weeks is amazing for us. We have more open source tools coming in the next days so stay tuned.](https://www.reddit.com/r/Python/comments/yjhcvb/our_xai_repo_just_hit_100_stars_thank_you/)
-- [Pydantic Crash Course](https://www.reddit.com/r/Python/comments/yjfyfj/pydantic_crash_course/)
-- [The Log | Where exactly does Python 3.11 get its ~25% Speedup? Part 1: General Optimizations](https://www.reddit.com/r/Python/comments/yjf9ch/the_log_where_exactly_does_python_311_get_its_25/)
-- [Python Protobuf message different encoding](https://www.reddit.com/r/Python/comments/yjeu3j/python_protobuf_message_different_encoding/)
-- [How to Overwrite AssertError in Python and Use Custom Exceptions](https://www.reddit.com/r/Python/comments/yjdj0e/how_to_overwrite_asserterror_in_python_and_use/)
+- [Educational / learning resource question](https://www.reddit.com/r/Python/comments/yjk404/educational_learning_resource_question/)
+- [Dependency inference: Pants&#39;s special sauce](https://www.reddit.com/r/Python/comments/yjj1gz/dependency_inference_pantss_special_sauce/)
+- [Pls Need help in this function body !!!1](https://www.reddit.com/r/Python/comments/yjj0of/pls_need_help_in_this_function_body_1/)
+- [Statsmodels 0.13.3 released with Python 3.11 support](https://www.reddit.com/r/Python/comments/yjitxw/statsmodels_0133_released_with_python_311_support/)
+- [What can Python do that Java can’t?](https://www.reddit.com/r/Python/comments/yjinff/what_can_python_do_that_java_cant/)
 <!-- BLOG-POST-LIST:END -->
