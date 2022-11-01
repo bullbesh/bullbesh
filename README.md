@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Know Python? Then learn how to write Smart Contracts in a one-week winter school](https://www.reddit.com/r/Python/comments/yir32w/know_python_then_learn_how_to_write_smart/)
-- [MySQL-mimic - Python implementation of the MySQL server wire protocol.](https://www.reddit.com/r/Python/comments/yio840/mysqlmimic_python_implementation_of_the_mysql/)
-- [Python 3.11 micro-benchmark](https://www.reddit.com/r/Python/comments/yinokv/python_311_microbenchmark/)
-- [Would I ever need anything besides Python &lpar;not pro&rpar;](https://www.reddit.com/r/Python/comments/yilu2n/would_i_ever_need_anything_besides_python_not_pro/)
-- [Create incredibly customizable boxes in the terminal using Python](https://www.reddit.com/r/Python/comments/yij91t/create_incredibly_customizable_boxes_in_the/)
+- [PSA SciPy docs are down &lpar;Python.org is fine&rpar;](https://www.reddit.com/r/Python/comments/yiuh83/psa_scipy_docs_are_down_pythonorg_is_fine/)
+- [Pytonium - A framework for building python apps, with a GUI based on the web-technologies HTML, CSS and Javascript. Would be happy to hear some feedback on the code and the idea](https://www.reddit.com/r/Python/comments/yityxm/pytonium_a_framework_for_building_python_apps/)
+- [I made a little mandelbrot-shaped mandelbrot code](https://www.reddit.com/r/Python/comments/yit4xo/i_made_a_little_mandelbrotshaped_mandelbrot_code/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/yit2pp/tuesday_daily_thread_advanced_questions/)
+- [scroll.club: A micro-blogging website created entirely with SQLite, FastAPI and the Python standard library](https://www.reddit.com/r/Python/comments/yisgt0/scrollclub_a_microblogging_website_created/)
 <!-- BLOG-POST-LIST:END -->
