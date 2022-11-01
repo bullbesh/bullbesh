@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to break the routing into many files in socketio?](https://www.reddit.com/r/Python/comments/yjb9b1/how_to_break_the_routing_into_many_files_in/)
+- [I just found out about Typer, which has made my CLI life much easier. How does everyone else keep current with key utilities and packages that are being released?](https://www.reddit.com/r/Python/comments/yjaw3q/i_just_found_out_about_typer_which_has_made_my/)
+- [best reference or scientific for face detection &amp; emotion detection](https://www.reddit.com/r/Python/comments/yja8bs/best_reference_or_scientific_for_face_detection/)
 - [Getting Started with Google APIs in Python](https://www.reddit.com/r/Python/comments/yj9thc/getting_started_with_google_apis_in_python/)
 - [Finally - A way to catch errors while typing](https://www.reddit.com/r/Python/comments/yj9iyz/finally_a_way_to_catch_errors_while_typing/)
-- [How smart is the Python compiler when it comes to optimization?](https://www.reddit.com/r/Python/comments/yj9fjt/how_smart_is_the_python_compiler_when_it_comes_to/)
-- [Python&#39;s doctest: Document and Test Your Code at Once — Real Python](https://www.reddit.com/r/Python/comments/yj8e09/pythons_doctest_document_and_test_your_code_at/)
-- [Python 3.11 micro-benchmark](https://www.reddit.com/r/Python/comments/yj78ib/python_311_microbenchmark/)
 <!-- BLOG-POST-LIST:END -->
