@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Our XAI repo just hit 100 stars 😱 Thank you everyone for the support. 100 stars in a couple of weeks is amazing for us. We have more open source tools coming in the next days so stay tuned.](https://www.reddit.com/r/Python/comments/yjhcvb/our_xai_repo_just_hit_100_stars_thank_you/)
 - [Pydantic Crash Course](https://www.reddit.com/r/Python/comments/yjfyfj/pydantic_crash_course/)
 - [The Log | Where exactly does Python 3.11 get its ~25% Speedup? Part 1: General Optimizations](https://www.reddit.com/r/Python/comments/yjf9ch/the_log_where_exactly_does_python_311_get_its_25/)
 - [Python Protobuf message different encoding](https://www.reddit.com/r/Python/comments/yjeu3j/python_protobuf_message_different_encoding/)
 - [How to Overwrite AssertError in Python and Use Custom Exceptions](https://www.reddit.com/r/Python/comments/yjdj0e/how_to_overwrite_asserterror_in_python_and_use/)
-- [What advantages does Python have over R for Data Science and Machine Learning?](https://www.reddit.com/r/Python/comments/yjbt37/what_advantages_does_python_have_over_r_for_data/)
 <!-- BLOG-POST-LIST:END -->
