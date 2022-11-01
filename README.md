@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [top programming languages #programming #python #techexponent #coding](https://www.reddit.com/r/Python/comments/yj5vxq/top_programming_languages_programming_python/)
+- [Python 3.11 micro-benchmark](https://www.reddit.com/r/Python/comments/yj78ib/python_311_microbenchmark/)
 - [NPM like init command for pip](https://www.reddit.com/r/Python/comments/yj50ht/npm_like_init_command_for_pip/)
 - [How to learn Python internals/ CPython / Cython](https://www.reddit.com/r/Python/comments/yj3kmv/how_to_learn_python_internals_cpython_cython/)
 - [Python 3.12 speed plan: trace optimizer, per-interpreter GIL for multi-threaded, bytecode specializations, smaller object structs and reduced memory management overhead!](https://www.reddit.com/r/Python/comments/yj2qj7/python_312_speed_plan_trace_optimizer/)
