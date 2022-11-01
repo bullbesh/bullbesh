@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to start a loop with threading / multiprocessing for my example?](https://www.reddit.com/r/Python/comments/yjlp2n/how_to_start_a_loop_with_threading/)
 - [Educational / learning resource question](https://www.reddit.com/r/Python/comments/yjk404/educational_learning_resource_question/)
 - [Dependency inference: Pants&#39;s special sauce](https://www.reddit.com/r/Python/comments/yjj1gz/dependency_inference_pantss_special_sauce/)
 - [Statsmodels 0.13.3 released with Python 3.11 support](https://www.reddit.com/r/Python/comments/yjitxw/statsmodels_0133_released_with_python_311_support/)
-- [What can Python do that Java can’t?](https://www.reddit.com/r/Python/comments/yjinff/what_can_python_do_that_java_cant/)
+- [Our XAI repo just hit 100 stars 😱 Thank you everyone for the support. 100 stars in a couple of weeks is amazing for us. We have more open source tools coming in the next days so stay tuned.](https://www.reddit.com/r/Python/comments/yjhcvb/our_xai_repo_just_hit_100_stars_thank_you/)
+- [Pydantic Crash Course](https://www.reddit.com/r/Python/comments/yjfyfj/pydantic_crash_course/)
 <!-- BLOG-POST-LIST:END -->
