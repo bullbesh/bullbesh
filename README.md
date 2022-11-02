@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just a fine collection of rain sounds. No music, no loops no nothing. Figured some of you might want to use it](https://www.reddit.com/r/Python/comments/yk44ov/just_a_fine_collection_of_rain_sounds_no_music_no/)
+- [Getting Started with Google APIs in Python](https://www.reddit.com/r/Python/comments/yk3rb9/getting_started_with_google_apis_in_python/)
+- [How to Generate your AI Avatar for Free Without Coding](https://www.reddit.com/r/Python/comments/yk2nyt/how_to_generate_your_ai_avatar_for_free_without/)
 - [aaargs - autocompletion and argument parsing](https://www.reddit.com/r/Python/comments/yk12p5/aaargs_autocompletion_and_argument_parsing/)
 - [Command-line data analytics made easy](https://www.reddit.com/r/Python/comments/yjzvek/commandline_data_analytics_made_easy/)
-- [I built a simple Airbnb scraper to analyze cleaning fees so you don&#39;t have to. Nothing fancy. Hopefully, it&#39;s useful.](https://www.reddit.com/r/Python/comments/yjw3ji/i_built_a_simple_airbnb_scraper_to_analyze/)
-- [Is there an official document to check python dependencies?](https://www.reddit.com/r/Python/comments/yjtkqx/is_there_an_official_document_to_check_python/)
-- [ASCII Analog Clock](https://www.reddit.com/r/Python/comments/yjs6ht/ascii_analog_clock/)
 <!-- BLOG-POST-LIST:END -->
