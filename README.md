@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Streamlit tutorial, 68 pages, 35 minimal app examples, focus on SQL+Streamlit](https://www.reddit.com/r/Python/comments/ykapvv/new_streamlit_tutorial_68_pages_35_minimal_app/)
+- [ELI5: Can’t one write a compiler for Python and make everything go brrrr?](https://www.reddit.com/r/Python/comments/yka96n/eli5_cant_one_write_a_compiler_for_python_and/)
 - [I created a social media](https://www.reddit.com/r/Python/comments/yk9i06/i_created_a_social_media/)
 - [Keynote: Multithreaded Python without the GIL - presented by Sam Gross](https://www.reddit.com/r/Python/comments/yk98zm/keynote_multithreaded_python_without_the_gil/)
 - [Python is the most used back-end programming language when opening pull requests on GitHub](https://www.reddit.com/r/Python/comments/yk97p5/python_is_the_most_used_backend_programming/)
-- [Best micro framework for web development without a database?](https://www.reddit.com/r/Python/comments/yk8kv9/best_micro_framework_for_web_development_without/)
-- [Adding Distributed Tasks to Puff: Schedule and Prioritize Function Calls across Nodes](https://www.reddit.com/r/Python/comments/yk892g/adding_distributed_tasks_to_puff_schedule_and/)
 <!-- BLOG-POST-LIST:END -->
