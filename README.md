@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Warp 0.5.0 is out! A Python framework for high performance GPU simulation and graphics](https://www.reddit.com/r/Python/comments/yklekd/warp_050_is_out_a_python_framework_for_high/)
+- [MERGE JSON FILES](https://www.reddit.com/r/Python/comments/ykk9ul/merge_json_files/)
 - [The python:3.11-slim Docker image doesn&#39;t include gcc?!?](https://www.reddit.com/r/Python/comments/ykivay/the_python311slim_docker_image_doesnt_include_gcc/)
 - [Efficiently implementing the power function in python](https://www.reddit.com/r/Python/comments/ykhzzw/efficiently_implementing_the_power_function_in/)
 - [GPT3 + IPython = Assistant Bot](https://www.reddit.com/r/Python/comments/ykg4ow/gpt3_ipython_assistant_bot/)
-- [A simple command line interface for GPT3](https://www.reddit.com/r/Python/comments/ykfyu6/a_simple_command_line_interface_for_gpt3/)
-- [What&#39;s the coolest automation tool you&#39;ve built or been involved in?](https://www.reddit.com/r/Python/comments/ykfvpi/whats_the_coolest_automation_tool_youve_built_or/)
 <!-- BLOG-POST-LIST:END -->
