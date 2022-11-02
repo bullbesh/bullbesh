@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Should You Update to the Latest Python Bugfix Version?](https://www.reddit.com/r/Python/comments/yk6uud/should_you_update_to_the_latest_python_bugfix/)
-- [Learn Python - Full Course for Beginners [Tutorial] - freeCodeCamp.org](https://www.reddit.com/r/Python/comments/yk6kf5/learn_python_full_course_for_beginners_tutorial/)
-- [What is the best flow for accessing environment variables?](https://www.reddit.com/r/Python/comments/yk5bc2/what_is_the_best_flow_for_accessing_environment/)
-- [Just a fine collection of rain sounds. No music, no loops no nothing. Figured some of you might want to use it](https://www.reddit.com/r/Python/comments/yk44ov/just_a_fine_collection_of_rain_sounds_no_music_no/)
-- [Getting Started with Google APIs in Python](https://www.reddit.com/r/Python/comments/yk3rb9/getting_started_with_google_apis_in_python/)
+- [I created a social media](https://www.reddit.com/r/Python/comments/yk9i06/i_created_a_social_media/)
+- [Keynote: Multithreaded Python without the GIL - presented by Sam Gross](https://www.reddit.com/r/Python/comments/yk98zm/keynote_multithreaded_python_without_the_gil/)
+- [Python is the most used back-end programming language when opening pull requests on GitHub](https://www.reddit.com/r/Python/comments/yk97p5/python_is_the_most_used_backend_programming/)
+- [Best micro framework for web development without a database?](https://www.reddit.com/r/Python/comments/yk8kv9/best_micro_framework_for_web_development_without/)
+- [Adding Distributed Tasks to Puff: Schedule and Prioritize Function Calls across Nodes](https://www.reddit.com/r/Python/comments/yk892g/adding_distributed_tasks_to_puff_schedule_and/)
 <!-- BLOG-POST-LIST:END -->
