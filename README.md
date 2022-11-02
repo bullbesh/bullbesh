@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Phylum Discovers Dozens More PyPI Packages Attempting to Deliver W4SP Stealer in Ongoing Supply-Chain Attack](https://www.reddit.com/r/Python/comments/ykdosd/phylum_discovers_dozens_more_pypi_packages/)
+- [If you into python and machine learning](https://www.reddit.com/r/Python/comments/ykda4k/if_you_into_python_and_machine_learning/)
 - [A simple method for discovering and learning about useful packages](https://www.reddit.com/r/Python/comments/ykc5bs/a_simple_method_for_discovering_and_learning/)
 - [Could you theoretically build a deepfake/learning algorithm that converts photos to a 3d model?](https://www.reddit.com/r/Python/comments/ykc2s2/could_you_theoretically_build_a_deepfakelearning/)
 - [All Data Structures and Algorithms in a Single Repository!!](https://www.reddit.com/r/Python/comments/ykbxaz/all_data_structures_and_algorithms_in_a_single/)
-- [Daily Asteroid Orbit Tracker - AstOrbit](https://www.reddit.com/r/Python/comments/ykbprl/daily_asteroid_orbit_tracker_astorbit/)
-- [New Streamlit tutorial, 68 pages, 35 minimal app examples, focus on SQL+Streamlit](https://www.reddit.com/r/Python/comments/ykapvv/new_streamlit_tutorial_68_pages_35_minimal_app/)
 <!-- BLOG-POST-LIST:END -->
