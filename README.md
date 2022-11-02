@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A simple method for discovering and learning about useful packages](https://www.reddit.com/r/Python/comments/ykc5bs/a_simple_method_for_discovering_and_learning/)
+- [Could you theoretically build a deepfake/learning algorithm that converts photos to a 3d model?](https://www.reddit.com/r/Python/comments/ykc2s2/could_you_theoretically_build_a_deepfakelearning/)
+- [All Data Structures and Algorithms in a Single Repository!!](https://www.reddit.com/r/Python/comments/ykbxaz/all_data_structures_and_algorithms_in_a_single/)
+- [Daily Asteroid Orbit Tracker - AstOrbit](https://www.reddit.com/r/Python/comments/ykbprl/daily_asteroid_orbit_tracker_astorbit/)
 - [New Streamlit tutorial, 68 pages, 35 minimal app examples, focus on SQL+Streamlit](https://www.reddit.com/r/Python/comments/ykapvv/new_streamlit_tutorial_68_pages_35_minimal_app/)
-- [ELI5: Can’t one write a compiler for Python and make everything go brrrr?](https://www.reddit.com/r/Python/comments/yka96n/eli5_cant_one_write_a_compiler_for_python_and/)
-- [I created a social media](https://www.reddit.com/r/Python/comments/yk9i06/i_created_a_social_media/)
-- [Keynote: Multithreaded Python without the GIL - presented by Sam Gross](https://www.reddit.com/r/Python/comments/yk98zm/keynote_multithreaded_python_without_the_gil/)
-- [Python is the most used back-end programming language when opening pull requests on GitHub](https://www.reddit.com/r/Python/comments/yk97p5/python_is_the_most_used_backend_programming/)
 <!-- BLOG-POST-LIST:END -->
