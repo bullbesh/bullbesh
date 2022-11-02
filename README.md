@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Phylum Discovers Dozens More PyPI Packages Attempting to Deliver W4SP Stealer in Ongoing Supply-Chain Attack](https://www.reddit.com/r/Python/comments/ykdosd/phylum_discovers_dozens_more_pypi_packages/)
-- [If you into python and machine learning](https://www.reddit.com/r/Python/comments/ykda4k/if_you_into_python_and_machine_learning/)
-- [A simple method for discovering and learning about useful packages](https://www.reddit.com/r/Python/comments/ykc5bs/a_simple_method_for_discovering_and_learning/)
-- [Could you theoretically build a deepfake/learning algorithm that converts photos to a 3d model?](https://www.reddit.com/r/Python/comments/ykc2s2/could_you_theoretically_build_a_deepfakelearning/)
-- [All Data Structures and Algorithms in a Single Repository!!](https://www.reddit.com/r/Python/comments/ykbxaz/all_data_structures_and_algorithms_in_a_single/)
+- [GPT3 + IPython = Assistant Bot](https://www.reddit.com/r/Python/comments/ykg4ow/gpt3_ipython_assistant_bot/)
+- [A simple command line interface for GPT3](https://www.reddit.com/r/Python/comments/ykfyu6/a_simple_command_line_interface_for_gpt3/)
+- [What&#39;s the coolest automation tool you&#39;ve built or been involved in?](https://www.reddit.com/r/Python/comments/ykfvpi/whats_the_coolest_automation_tool_youve_built_or/)
+- [App for beginners in python](https://www.reddit.com/r/Python/comments/ykfs5t/app_for_beginners_in_python/)
+- [Python beginner app](https://www.reddit.com/r/Python/comments/ykfpyf/python_beginner_app/)
 <!-- BLOG-POST-LIST:END -->
