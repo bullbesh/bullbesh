@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Combine Python Tools and script In One Script](https://www.reddit.com/r/Python/comments/yl5iog/combine_python_tools_and_script_in_one_script/)
+- [[Faster cpython project] Speculation on switching from a stack based to register VM.](https://www.reddit.com/r/Python/comments/yl4zpz/faster_cpython_project_speculation_on_switching/)
+- [A package to capture jupyter output like Text, Image, Video and more](https://www.reddit.com/r/Python/comments/yl4zhx/a_package_to_capture_jupyter_output_like_text/)
 - [How to install and deploy OpenAI Whisper with Python](https://www.reddit.com/r/Python/comments/yl3813/how_to_install_and_deploy_openai_whisper_with/)
 - [Looking for a book presenting the different/main programming languages and protocols](https://www.reddit.com/r/Python/comments/yl30xi/looking_for_a_book_presenting_the_differentmain/)
-- [Made a text generation model to extend stable diffusion prompts with suitable style cues](https://www.reddit.com/r/Python/comments/ykxqn4/made_a_text_generation_model_to_extend_stable/)
-- [Why do Python 2 to Python 3 converters have to be run from the command line?](https://www.reddit.com/r/Python/comments/ykt5ga/why_do_python_2_to_python_3_converters_have_to_be/)
-- [numpy str to int](https://www.reddit.com/r/Python/comments/ykt0rq/numpy_str_to_int/)
 <!-- BLOG-POST-LIST:END -->
