@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [how i can fix that?](https://www.reddit.com/r/Python/comments/ylf8wu/how_i_can_fix_that/)
+- [Pydantic 2 rewritten in Rust was merged](https://www.reddit.com/r/Python/comments/yleubq/pydantic_2_rewritten_in_rust_was_merged/)
+- [are there any correlation between the swedish people and good programmers?](https://www.reddit.com/r/Python/comments/yldo4s/are_there_any_correlation_between_the_swedish/)
 - [Simple and Fast Data Streaming for Machine Learning Projects](https://www.reddit.com/r/Python/comments/yl9fuc/simple_and_fast_data_streaming_for_machine/)
 - [Introducing : RBS &lpar;RandomBroadcastingSelector&rpar; - give everyday people a speech token](https://www.reddit.com/r/Python/comments/yl9c03/introducing_rbs_randombroadcastingselector_give/)
-- [My first Pygame tri](https://www.reddit.com/r/Python/comments/yl8tww/my_first_pygame_tri/)
-- [Introducing &quot;Ask it&quot;: simply type your question into the terminal, and GPT-3 gives the answer.](https://www.reddit.com/r/Python/comments/yl78uo/introducing_ask_it_simply_type_your_question_into/)
-- [Automatically generate a PDF Report summarising the key features, baseline model performance, potential bias detection, and a variety of data visualisations, for any given tabular or audio machine learning dataset](https://www.reddit.com/r/Python/comments/yl6yqh/automatically_generate_a_pdf_report_summarising/)
 <!-- BLOG-POST-LIST:END -->
