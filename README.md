@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple and Fast Data Streaming for Machine Learning Projects](https://www.reddit.com/r/Python/comments/yl9fuc/simple_and_fast_data_streaming_for_machine/)
+- [Introducing : RBS &lpar;RandomBroadcastingSelector&rpar; - give everyday people a speech token](https://www.reddit.com/r/Python/comments/yl9c03/introducing_rbs_randombroadcastingselector_give/)
+- [My first Pygame tri](https://www.reddit.com/r/Python/comments/yl8tww/my_first_pygame_tri/)
 - [Introducing &quot;Ask it&quot;: simply type your question into the terminal, and GPT-3 gives the answer.](https://www.reddit.com/r/Python/comments/yl78uo/introducing_ask_it_simply_type_your_question_into/)
 - [Automatically generate a PDF Report summarising the key features, baseline model performance, potential bias detection, and a variety of data visualisations, for any given tabular or audio machine learning dataset](https://www.reddit.com/r/Python/comments/yl6yqh/automatically_generate_a_pdf_report_summarising/)
-- [Data persistency, large-scale data analytics and visualizations - biggest NetworkX challenges](https://www.reddit.com/r/Python/comments/yl65gl/data_persistency_largescale_data_analytics_and/)
-- [Combine Python Tools and script In One Script](https://www.reddit.com/r/Python/comments/yl5iog/combine_python_tools_and_script_in_one_script/)
-- [[Faster cpython project] Speculation on switching from a stack based to register VM.](https://www.reddit.com/r/Python/comments/yl4zpz/faster_cpython_project_speculation_on_switching/)
 <!-- BLOG-POST-LIST:END -->
