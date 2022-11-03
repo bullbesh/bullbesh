@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the best &lpar;free if possible&rpar; collaborative Python space?](https://www.reddit.com/r/Python/comments/ylgo98/what_is_the_best_free_if_possible_collaborative/)
+- [Has anyone ever monetized Python outside of a typical job?](https://www.reddit.com/r/Python/comments/ylgi5y/has_anyone_ever_monetized_python_outside_of_a/)
 - [how i can fix that?](https://www.reddit.com/r/Python/comments/ylf8wu/how_i_can_fix_that/)
 - [Pydantic 2 rewritten in Rust was merged](https://www.reddit.com/r/Python/comments/yleubq/pydantic_2_rewritten_in_rust_was_merged/)
 - [are there any correlation between the swedish people and good programmers?](https://www.reddit.com/r/Python/comments/yldo4s/are_there_any_correlation_between_the_swedish/)
-- [Simple and Fast Data Streaming for Machine Learning Projects](https://www.reddit.com/r/Python/comments/yl9fuc/simple_and_fast_data_streaming_for_machine/)
-- [Introducing : RBS &lpar;RandomBroadcastingSelector&rpar; - give everyday people a speech token](https://www.reddit.com/r/Python/comments/yl9c03/introducing_rbs_randombroadcastingselector_give/)
 <!-- BLOG-POST-LIST:END -->
