@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - geohot/tinygrad: You like pytorch? You like micrograd? You love tinygrad!](https://www.reddit.com/r/Python/comments/ylxx47/github_geohottinygrad_you_like_pytorch_you_like/)
+- [Introducing lois](https://www.reddit.com/r/Python/comments/ylxfdf/introducing_lois/)
+- [Autotyper for monkeytype.com](https://www.reddit.com/r/Python/comments/ylxf6k/autotyper_for_monkeytypecom/)
+- [Reddit News - A Python project that generates a news website based on Reddit posts](https://www.reddit.com/r/Python/comments/ylxenr/reddit_news_a_python_project_that_generates_a/)
 - [Python lower&lpar;&rpar; – How to Lowercase a Python String with the tolower Function Equivalent](https://www.reddit.com/r/Python/comments/ylvpwh/python_lower_how_to_lowercase_a_python_string/)
-- [Adding Python support using Pyodide to our low-code framework which supported only JavaScript.](https://www.reddit.com/r/Python/comments/ylrufi/adding_python_support_using_pyodide_to_our/)
-- [DALLE-E now available via API](https://www.reddit.com/r/Python/comments/ylq7up/dallee_now_available_via_api/)
-- [DALL·E 2 now available as public API for Python!](https://www.reddit.com/r/Python/comments/ylp60v/dalle_2_now_available_as_public_api_for_python/)
-- [Seperate and capatilize only the first letter](https://www.reddit.com/r/Python/comments/ylomoy/seperate_and_capatilize_only_the_first_letter/)
 <!-- BLOG-POST-LIST:END -->
