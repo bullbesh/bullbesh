@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free Data Science Courses at 365 Data Science](https://www.reddit.com/r/Python/comments/ylyixi/free_data_science_courses_at_365_data_science/)
 - [GitHub - geohot/tinygrad: You like pytorch? You like micrograd? You love tinygrad!](https://www.reddit.com/r/Python/comments/ylxx47/github_geohottinygrad_you_like_pytorch_you_like/)
 - [Introducing lois](https://www.reddit.com/r/Python/comments/ylxfdf/introducing_lois/)
 - [Autotyper for monkeytype.com](https://www.reddit.com/r/Python/comments/ylxf6k/autotyper_for_monkeytypecom/)
 - [Reddit News - A Python project that generates a news website based on Reddit posts](https://www.reddit.com/r/Python/comments/ylxenr/reddit_news_a_python_project_that_generates_a/)
-- [Python lower&lpar;&rpar; – How to Lowercase a Python String with the tolower Function Equivalent](https://www.reddit.com/r/Python/comments/ylvpwh/python_lower_how_to_lowercase_a_python_string/)
 <!-- BLOG-POST-LIST:END -->
