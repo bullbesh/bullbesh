@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help please! need with coding associate control a phidget22 single board comp with DSMx. any idea how to?](https://www.reddit.com/r/Python/comments/yllhrb/help_please_need_with_coding_associate_control_a/)
+- [If you&#39;re interested in cybersecurity, check out this video to learn more about the basics of ethical hacking! Hope this helps.](https://www.reddit.com/r/Python/comments/yllcmo/if_youre_interested_in_cybersecurity_check_out/)
 - [What is the best &lpar;free if possible&rpar; collaborative Python space?](https://www.reddit.com/r/Python/comments/ylgo98/what_is_the_best_free_if_possible_collaborative/)
 - [Has anyone ever monetized Python outside of a typical job?](https://www.reddit.com/r/Python/comments/ylgi5y/has_anyone_ever_monetized_python_outside_of_a/)
 - [how i can fix that?](https://www.reddit.com/r/Python/comments/ylf8wu/how_i_can_fix_that/)
-- [Pydantic 2 rewritten in Rust was merged](https://www.reddit.com/r/Python/comments/yleubq/pydantic_2_rewritten_in_rust_was_merged/)
-- [are there any correlation between the swedish people and good programmers?](https://www.reddit.com/r/Python/comments/yldo4s/are_there_any_correlation_between_the_swedish/)
 <!-- BLOG-POST-LIST:END -->
