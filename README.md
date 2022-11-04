@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - L3xiuS/PhoneScanner: PhoneScan is a simple tool that allows you to scan mobile phone numbers and display the operators associated with the number](https://www.reddit.com/r/Python/comments/ym4m43/github_l3xiusphonescanner_phonescan_is_a_simple/)
+- [The Best Python IDEs and Code Editors](https://www.reddit.com/r/Python/comments/ym46cd/the_best_python_ides_and_code_editors/)
 - [benchmark-imports: CLI tool to record how much time it takes to import each dependency in a Python project](https://www.reddit.com/r/Python/comments/ym1bc6/benchmarkimports_cli_tool_to_record_how_much_time/)
 - [Best options to digitalize 100.000 PDF&#39;s?](https://www.reddit.com/r/Python/comments/ym0itn/best_options_to_digitalize_100000_pdfs/)
 - [Monetize project](https://www.reddit.com/r/Python/comments/ylzq6b/monetize_project/)
-- [Dinero: Make exact monetary calculations](https://www.reddit.com/r/Python/comments/ylzpae/dinero_make_exact_monetary_calculations/)
-- [I made a pygame where you compete against Control Theory and Reinforcement Learning](https://www.reddit.com/r/Python/comments/ylzit9/i_made_a_pygame_where_you_compete_against_control/)
 <!-- BLOG-POST-LIST:END -->
