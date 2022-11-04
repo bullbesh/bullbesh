@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [DALLE-E now available via API](https://www.reddit.com/r/Python/comments/ylq7up/dallee_now_available_via_api/)
 - [DALL·E 2 now available as public API for Python!](https://www.reddit.com/r/Python/comments/ylp60v/dalle_2_now_available_as_public_api_for_python/)
 - [Seperate and capatilize only the first letter](https://www.reddit.com/r/Python/comments/ylomoy/seperate_and_capatilize_only_the_first_letter/)
 - [Help please! need with coding associate control a phidget22 single board comp with DSMx. any idea how to?](https://www.reddit.com/r/Python/comments/yllhrb/help_please_need_with_coding_associate_control_a/)
 - [If you&#39;re interested in cybersecurity, check out this video to learn more about the basics of ethical hacking! Hope this helps.](https://www.reddit.com/r/Python/comments/yllcmo/if_youre_interested_in_cybersecurity_check_out/)
-- [What is the best &lpar;free if possible&rpar; collaborative Python space?](https://www.reddit.com/r/Python/comments/ylgo98/what_is_the_best_free_if_possible_collaborative/)
 <!-- BLOG-POST-LIST:END -->
