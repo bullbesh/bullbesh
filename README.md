@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [benchmark-imports: CLI tool to record how much time it takes to import each dependency in a Python project](https://www.reddit.com/r/Python/comments/ym1bc6/benchmarkimports_cli_tool_to_record_how_much_time/)
+- [Best options to digitalize 100.000 PDF&#39;s?](https://www.reddit.com/r/Python/comments/ym0itn/best_options_to_digitalize_100000_pdfs/)
 - [Monetize project](https://www.reddit.com/r/Python/comments/ylzq6b/monetize_project/)
 - [Dinero: Make exact monetary calculations](https://www.reddit.com/r/Python/comments/ylzpae/dinero_make_exact_monetary_calculations/)
 - [I made a pygame where you compete against Control Theory and Reinforcement Learning](https://www.reddit.com/r/Python/comments/ylzit9/i_made_a_pygame_where_you_compete_against_control/)
-- [Free Data Science Courses at 365 Data Science](https://www.reddit.com/r/Python/comments/ylyixi/free_data_science_courses_at_365_data_science/)
-- [GitHub - geohot/tinygrad: You like pytorch? You like micrograd? You love tinygrad!](https://www.reddit.com/r/Python/comments/ylxx47/github_geohottinygrad_you_like_pytorch_you_like/)
 <!-- BLOG-POST-LIST:END -->
