@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning Python via short form content](https://www.reddit.com/r/Python/comments/ymj7n8/learning_python_via_short_form_content/)
-- [I made a python bot to automate those terrible Reddit TikToks](https://www.reddit.com/r/Python/comments/ymh3cs/i_made_a_python_bot_to_automate_those_terrible/)
-- [Any recent updates in dependency management?](https://www.reddit.com/r/Python/comments/ymgt60/any_recent_updates_in_dependency_management/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/ymejxk/saturday_daily_thread_resource_request_and/)
-- [I&#39;m building an IDE and open source library to make it easier to work with geospatial data using Python](https://www.reddit.com/r/Python/comments/ymadyg/im_building_an_ide_and_open_source_library_to/)
+- [Topic modeling with semantic graphs: a different approach](https://www.reddit.com/r/Python/comments/ymtyoq/topic_modeling_with_semantic_graphs_a_different/)
+- [&lpar;VIDEO&rpar; Remade an old Rock Paper Scissors game today](https://www.reddit.com/r/Python/comments/ymtwom/video_remade_an_old_rock_paper_scissors_game_today/)
+- [Asynchronous and generator-based HTTP proxy in Python](https://www.reddit.com/r/Python/comments/ymtqkx/asynchronous_and_generatorbased_http_proxy_in/)
+- [I wrote a script to periodically change my Desktop background to live satellite images!](https://www.reddit.com/r/Python/comments/ymtija/i_wrote_a_script_to_periodically_change_my/)
+- [Scrape Nasdaq Stock Market Data using Python &lpar;A Complete Tutorial&rpar;](https://www.reddit.com/r/Python/comments/ymtbnf/scrape_nasdaq_stock_market_data_using_python_a/)
 <!-- BLOG-POST-LIST:END -->
