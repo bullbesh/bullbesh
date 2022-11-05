@@ -12,5 +12,5 @@
 - [&lpar;VIDEO&rpar; Remade an old Rock Paper Scissors game today](https://www.reddit.com/r/Python/comments/ymtwom/video_remade_an_old_rock_paper_scissors_game_today/)
 - [Asynchronous and generator-based HTTP proxy in Python](https://www.reddit.com/r/Python/comments/ymtqkx/asynchronous_and_generatorbased_http_proxy_in/)
 - [I wrote a script to periodically change my Desktop background to live satellite images!](https://www.reddit.com/r/Python/comments/ymtija/i_wrote_a_script_to_periodically_change_my/)
-- [Scrape Nasdaq Stock Market Data using Python &lpar;A Complete Tutorial&rpar;](https://www.reddit.com/r/Python/comments/ymtbnf/scrape_nasdaq_stock_market_data_using_python_a/)
+- [An ordered set for Python? [LWN.net]](https://www.reddit.com/r/Python/comments/ymt0op/an_ordered_set_for_python_lwnnet/)
 <!-- BLOG-POST-LIST:END -->
