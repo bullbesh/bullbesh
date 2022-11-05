@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python RGB to HEX code converter](https://www.reddit.com/r/Python/comments/yn93qo/python_rgb_to_hex_code_converter/)
 - [I have written a script to make code in Python significantly uglier](https://www.reddit.com/r/Python/comments/yn6x0t/i_have_written_a_script_to_make_code_in_python/)
 - [Library for composable content blocks?](https://www.reddit.com/r/Python/comments/yn5vo0/library_for_composable_content_blocks/)
 - [I made an extensible command line file organizer and searching tool a while ago. I&#39;ve been using it for a while and its pretty good.](https://www.reddit.com/r/Python/comments/yn3iss/i_made_an_extensible_command_line_file_organizer/)
 - [Practice Python with 100+ Free Challenges](https://www.reddit.com/r/Python/comments/yn2zgy/practice_python_with_100_free_challenges/)
-- [Utility for Searching the Earliest Root Commit](https://www.reddit.com/r/Python/comments/yn2sub/utility_for_searching_the_earliest_root_commit/)
 <!-- BLOG-POST-LIST:END -->
