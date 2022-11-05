@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [try my first game in python.](https://www.reddit.com/r/Python/comments/ymwh07/try_my_first_game_in_python/)
-- [EyesOnly: an access control list for your secrets](https://www.reddit.com/r/Python/comments/ymwg4g/eyesonly_an_access_control_list_for_your_secrets/)
-- [Topic modeling with semantic graphs: a different approach](https://www.reddit.com/r/Python/comments/ymtyoq/topic_modeling_with_semantic_graphs_a_different/)
-- [&lpar;VIDEO&rpar; Remade an old Rock Paper Scissors game today](https://www.reddit.com/r/Python/comments/ymtwom/video_remade_an_old_rock_paper_scissors_game_today/)
-- [Asynchronous and generator-based HTTP proxy in Python](https://www.reddit.com/r/Python/comments/ymtqkx/asynchronous_and_generatorbased_http_proxy_in/)
+- [differential equation calculator help](https://www.reddit.com/r/Python/comments/ymyr7r/differential_equation_calculator_help/)
+- [I updated my script that allows you to store any file in an image. Now you don&#39;t need the original image to extract the file!](https://www.reddit.com/r/Python/comments/ymxrvl/i_updated_my_script_that_allows_you_to_store_any/)
+- [I am so grateful that PyPI authors develop libraries for human beings](https://www.reddit.com/r/Python/comments/ymxlck/i_am_so_grateful_that_pypi_authors_develop/)
+- [QualityScaler 5.0 - deeplearning image/video upscaler app for Windows with any GPU](https://www.reddit.com/r/Python/comments/ymx7zq/qualityscaler_50_deeplearning_imagevideo_upscaler/)
+- [Should You Update to the Latest Python Bugfix Version? – Real Python](https://www.reddit.com/r/Python/comments/ymx0xe/should_you_update_to_the_latest_python_bugfix/)
 <!-- BLOG-POST-LIST:END -->
