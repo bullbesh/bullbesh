@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a python bot to automate those terrible Reddit TikToks](https://www.reddit.com/r/Python/comments/ymh3cs/i_made_a_python_bot_to_automate_those_terrible/)
+- [Any recent updates in dependency management?](https://www.reddit.com/r/Python/comments/ymgt60/any_recent_updates_in_dependency_management/)
+- [Looking for weekend Python programming study buddy](https://www.reddit.com/r/Python/comments/ymf4p8/looking_for_weekend_python_programming_study_buddy/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/ymejxk/saturday_daily_thread_resource_request_and/)
 - [I&#39;m building an IDE and open source library to make it easier to work with geospatial data using Python](https://www.reddit.com/r/Python/comments/ymadyg/im_building_an_ide_and_open_source_library_to/)
-- [5 Articles on Pandas Library of Python for Data Science](https://www.reddit.com/r/Python/comments/ym9uva/5_articles_on_pandas_library_of_python_for_data/)
-- [A software that downloads a database from a LAMP server to a PC and saves it in a CSV format?](https://www.reddit.com/r/Python/comments/ym7gir/a_software_that_downloads_a_database_from_a_lamp/)
-- [What&#39;s the weirdest thing Python is/has been used for?](https://www.reddit.com/r/Python/comments/ym51b5/whats_the_weirdest_thing_python_ishas_been_used/)
-- [GitHub - L3xiuS/PhoneScanner: PhoneScan is a simple tool that allows you to scan mobile phone numbers and display the operators associated with the number](https://www.reddit.com/r/Python/comments/ym4m43/github_l3xiusphonescanner_phonescan_is_a_simple/)
 <!-- BLOG-POST-LIST:END -->
