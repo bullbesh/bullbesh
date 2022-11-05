@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [hi i want to know if this task can be automated?](https://www.reddit.com/r/Python/comments/yn20p3/hi_i_want_to_know_if_this_task_can_be_automated/)
+- [Utility for Searching the Earliest Root Commit](https://www.reddit.com/r/Python/comments/yn2sub/utility_for_searching_the_earliest_root_commit/)
 - [2,000 free sign ups available for the &quot;Automate the Boring Stuff with Python&quot; online course. &lpar;Nov 2022&rpar;](https://www.reddit.com/r/Python/comments/yn13m2/2000_free_sign_ups_available_for_the_automate_the/)
 - [I wrote a federated search engine called SWIRL SEARCH http://swirl.today/](https://www.reddit.com/r/Python/comments/yn0tva/i_wrote_a_federated_search_engine_called_swirl/)
 - [The simplest way to Build REST API with Falcon and Python 3.10: Application in Spatial Geometry](https://www.reddit.com/r/Python/comments/yn03rd/the_simplest_way_to_build_rest_api_with_falcon/)
