@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The simplest way to Build REST API with Falcon and Python 3.10: Application in Spatial Geometry](https://www.reddit.com/r/Python/comments/yn03rd/the_simplest_way_to_build_rest_api_with_falcon/)
 - [differential equation calculator help](https://www.reddit.com/r/Python/comments/ymyr7r/differential_equation_calculator_help/)
 - [I updated my script that allows you to store any file in an image. Now you don&#39;t need the original image to extract the file!](https://www.reddit.com/r/Python/comments/ymxrvl/i_updated_my_script_that_allows_you_to_store_any/)
 - [I am so grateful that PyPI authors develop libraries for human beings](https://www.reddit.com/r/Python/comments/ymxlck/i_am_so_grateful_that_pypi_authors_develop/)
 - [QualityScaler 5.0 - deeplearning image/video upscaler app for Windows with any GPU](https://www.reddit.com/r/Python/comments/ymx7zq/qualityscaler_50_deeplearning_imagevideo_upscaler/)
-- [Should You Update to the Latest Python Bugfix Version? – Real Python](https://www.reddit.com/r/Python/comments/ymx0xe/should_you_update_to_the_latest_python_bugfix/)
 <!-- BLOG-POST-LIST:END -->
