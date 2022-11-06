@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microframework recommendations](https://www.reddit.com/r/Python/comments/yo5zb3/microframework_recommendations/)
+- [Python Library of the Week: Jello](https://www.reddit.com/r/Python/comments/yo59ii/python_library_of_the_week_jello/)
+- [Tutorial on building a GPT-3 Powered Discord Support Bot - would appreciate any feedback!](https://www.reddit.com/r/Python/comments/yo50hj/tutorial_on_building_a_gpt3_powered_discord/)
+- [reputable journals for python implementations of an algorithm open to the public?](https://www.reddit.com/r/Python/comments/yo4t82/reputable_journals_for_python_implementations_of/)
 - [Do you think it&#39;s worth learning Streamlit? Or should one stick to Flask or Django?](https://www.reddit.com/r/Python/comments/ynzbre/do_you_think_its_worth_learning_streamlit_or/)
-- [Plotting all public transport in NL livestream using Streamlit](https://www.reddit.com/r/Python/comments/ynxvpm/plotting_all_public_transport_in_nl_livestream/)
-- [what&#39;s the most used image processing algorithm in face recognition &lpar;not using any kind of AI&rpar;?](https://www.reddit.com/r/Python/comments/ynwths/whats_the_most_used_image_processing_algorithm_in/)
-- [Open-source Machine Learning for Software Engineerings Course 🚀](https://www.reddit.com/r/Python/comments/ynwh2v/opensource_machine_learning_for_software/)
-- [I generated a 23GB photomosaic with my script](https://www.reddit.com/r/Python/comments/ynt9zq/i_generated_a_23gb_photomosaic_with_my_script/)
 <!-- BLOG-POST-LIST:END -->
