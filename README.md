@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Started teaching python questions, any feedback on my format, and is this easy to understands?](https://www.reddit.com/r/Python/comments/ynsmfa/started_teaching_python_questions_any_feedback_on/)
+- [is this code good?](https://www.reddit.com/r/Python/comments/ynrgri/is_this_code_good/)
+- [Seeking library recommendation for 3D visualization of crystal structure](https://www.reddit.com/r/Python/comments/ynr6xk/seeking_library_recommendation_for_3d/)
 - [Anti-duplicates | What do you think ?](https://www.reddit.com/r/Python/comments/ynqk7t/antiduplicates_what_do_you_think/)
 - [Python 3.11 minimum macOS version system requirements](https://www.reddit.com/r/Python/comments/ynqg4v/python_311_minimum_macos_version_system/)
-- [I wrote a little article on Factory Functions and how to use them in Python to write better code. Let me know what you all think?](https://www.reddit.com/r/Python/comments/yno4ik/i_wrote_a_little_article_on_factory_functions_and/)
-- [Free python learning sources for beginners?](https://www.reddit.com/r/Python/comments/ynnq7u/free_python_learning_sources_for_beginners/)
-- [hey guys need help finding a solution to making stl files using only measurements!](https://www.reddit.com/r/Python/comments/ynko28/hey_guys_need_help_finding_a_solution_to_making/)
 <!-- BLOG-POST-LIST:END -->
