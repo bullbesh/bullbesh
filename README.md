@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advice](https://www.reddit.com/r/Python/comments/ynjgbw/advice/)
+- [How to run a Python script at each startup minimized in Windows tray?](https://www.reddit.com/r/Python/comments/ynj5hw/how_to_run_a_python_script_at_each_startup/)
 - [Password Manager Using Python](https://www.reddit.com/r/Python/comments/yniftl/password_manager_using_python/)
 - [A simple python library to work with Sony Bravia pro displays](https://www.reddit.com/r/Python/comments/yngwwu/a_simple_python_library_to_work_with_sony_bravia/)
 - [Reddit Bot for helping in Moderating medium-to-large Subs](https://www.reddit.com/r/Python/comments/yngc6x/reddit_bot_for_helping_in_moderating/)
-- [Coolest things you have automated?](https://www.reddit.com/r/Python/comments/yncx0m/coolest_things_you_have_automated/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/ynawx5/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
