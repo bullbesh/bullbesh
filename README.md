@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [hey guys need help finding a solution to making stl files using only measurements!](https://www.reddit.com/r/Python/comments/ynko28/hey_guys_need_help_finding_a_solution_to_making/)
 - [Total Beginner looking for advice](https://www.reddit.com/r/Python/comments/ynkfyi/total_beginner_looking_for_advice/)
 - [Advice](https://www.reddit.com/r/Python/comments/ynjgbw/advice/)
 - [How to run a Python script at each startup minimized in Windows tray?](https://www.reddit.com/r/Python/comments/ynj5hw/how_to_run_a_python_script_at_each_startup/)
 - [Password Manager Using Python](https://www.reddit.com/r/Python/comments/yniftl/password_manager_using_python/)
-- [A simple python library to work with Sony Bravia pro displays](https://www.reddit.com/r/Python/comments/yngwwu/a_simple_python_library_to_work_with_sony_bravia/)
 <!-- BLOG-POST-LIST:END -->
