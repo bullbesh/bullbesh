@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I generated a 23GB photomosaic with my script](https://www.reddit.com/r/Python/comments/ynt9zq/i_generated_a_23gb_photomosaic_with_my_script/)
 - [Started teaching python questions, any feedback on my format, and is this easy to understands?](https://www.reddit.com/r/Python/comments/ynsmfa/started_teaching_python_questions_any_feedback_on/)
 - [is this code good?](https://www.reddit.com/r/Python/comments/ynrgri/is_this_code_good/)
 - [Seeking library recommendation for 3D visualization of crystal structure](https://www.reddit.com/r/Python/comments/ynr6xk/seeking_library_recommendation_for_3d/)
 - [Anti-duplicates | What do you think ?](https://www.reddit.com/r/Python/comments/ynqk7t/antiduplicates_what_do_you_think/)
-- [Python 3.11 minimum macOS version system requirements](https://www.reddit.com/r/Python/comments/ynqg4v/python_311_minimum_macos_version_system/)
 <!-- BLOG-POST-LIST:END -->
