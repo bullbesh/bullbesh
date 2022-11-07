@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [FastApi CRUD project generator](https://www.reddit.com/r/Python/comments/yobokq/fastapi_crud_project_generator/)
 - [Python Malware Replaces Crypto Addresses in Developer Clipboards](https://www.reddit.com/r/Python/comments/yobf4v/python_malware_replaces_crypto_addresses_in/)
-- [Bot for job applications](https://www.reddit.com/r/Python/comments/yob6pv/bot_for_job_applications/)
 - [Key-value database.](https://www.reddit.com/r/Python/comments/yo7w90/keyvalue_database/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/yo70hn/monday_daily_thread_project_ideas/)
+- [Stocks, is it possible to get the timestamp for the daily high and low?](https://www.reddit.com/r/Python/comments/yo6ft9/stocks_is_it_possible_to_get_the_timestamp_for/)
 <!-- BLOG-POST-LIST:END -->
