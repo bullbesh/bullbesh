@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tired of endlessly scrolling through remote jobs that hire only within certain countries? I made a site to curate fully location independent jobs. It now has around 250 work-from-anywhere job opportunities.](https://www.reddit.com/r/Python/comments/yohul1/tired_of_endlessly_scrolling_through_remote_jobs/)
+- [Question about python.](https://www.reddit.com/r/Python/comments/yohq68/question_about_python/)
 - [Building an open-source platform &lpar;1k+Github Stars&rpar; for building tensor search!](https://www.reddit.com/r/Python/comments/yoh8lk/building_an_opensource_platform_1kgithub_stars/)
 - [Is there a consensus on __about__.py and the dunder variables?](https://www.reddit.com/r/Python/comments/yoexts/is_there_a_consensus_on_about_py_and_the_dunder/)
 - [FastApi CRUD project generator](https://www.reddit.com/r/Python/comments/yobokq/fastapi_crud_project_generator/)
-- [Python Malware Replaces Crypto Addresses in Developer Clipboards](https://www.reddit.com/r/Python/comments/yobf4v/python_malware_replaces_crypto_addresses_in/)
-- [Key-value database.](https://www.reddit.com/r/Python/comments/yo7w90/keyvalue_database/)
 <!-- BLOG-POST-LIST:END -->
