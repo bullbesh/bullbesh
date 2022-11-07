@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring An Untouched Abandoned Hospital With Electricity-Found Autopsy Room!!!! &lpar;Closed In 2017&rpar;](https://www.reddit.com/r/Python/comments/yodbro/exploring_an_untouched_abandoned_hospital_with/)
 - [FastApi CRUD project generator](https://www.reddit.com/r/Python/comments/yobokq/fastapi_crud_project_generator/)
 - [Python Malware Replaces Crypto Addresses in Developer Clipboards](https://www.reddit.com/r/Python/comments/yobf4v/python_malware_replaces_crypto_addresses_in/)
 - [Key-value database.](https://www.reddit.com/r/Python/comments/yo7w90/keyvalue_database/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/yo70hn/monday_daily_thread_project_ideas/)
+- [Microframework recommendations](https://www.reddit.com/r/Python/comments/yo5zb3/microframework_recommendations/)
 <!-- BLOG-POST-LIST:END -->
