@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [November Starlite development updates](https://www.reddit.com/r/Python/comments/yoned8/november_starlite_development_updates/)
+- [help needed](https://www.reddit.com/r/Python/comments/yon36l/help_needed/)
+- [Exercício de cadastro Python](https://www.reddit.com/r/Python/comments/yomhmo/exercício_de_cadastro_python/)
+- [How Python 3.11 became so fast.](https://www.reddit.com/r/Python/comments/yom733/how_python_311_became_so_fast/)
 - [Scrape FB Messenger?](https://www.reddit.com/r/Python/comments/yolp5c/scrape_fb_messenger/)
-- [Tired of endlessly scrolling through remote jobs that hire only within certain countries? I made a site to curate fully location independent jobs. It now has around 250 work-from-anywhere job opportunities.](https://www.reddit.com/r/Python/comments/yohul1/tired_of_endlessly_scrolling_through_remote_jobs/)
-- [Question about python.](https://www.reddit.com/r/Python/comments/yohq68/question_about_python/)
-- [Building an open-source platform &lpar;1k+Github Stars&rpar; for building tensor search!](https://www.reddit.com/r/Python/comments/yoh8lk/building_an_opensource_platform_1kgithub_stars/)
-- [Is there a consensus on __about__.py and the dunder variables?](https://www.reddit.com/r/Python/comments/yoexts/is_there_a_consensus_on_about_py_and_the_dunder/)
 <!-- BLOG-POST-LIST:END -->
