@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Key-value database.](https://www.reddit.com/r/Python/comments/yo7w90/keyvalue_database/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/yo70hn/monday_daily_thread_project_ideas/)
+- [Stocks, is it possible to get the timestamp for the daily high and low?](https://www.reddit.com/r/Python/comments/yo6ft9/stocks_is_it_possible_to_get_the_timestamp_for/)
 - [Microframework recommendations](https://www.reddit.com/r/Python/comments/yo5zb3/microframework_recommendations/)
 - [Python Library of the Week: Jello](https://www.reddit.com/r/Python/comments/yo59ii/python_library_of_the_week_jello/)
-- [Tutorial on building a GPT-3 Powered Discord Support Bot - would appreciate any feedback!](https://www.reddit.com/r/Python/comments/yo50hj/tutorial_on_building_a_gpt3_powered_discord/)
-- [reputable journals for python implementations of an algorithm open to the public?](https://www.reddit.com/r/Python/comments/yo4t82/reputable_journals_for_python_implementations_of/)
-- [Do you think it&#39;s worth learning Streamlit? Or should one stick to Flask or Django?](https://www.reddit.com/r/Python/comments/ynzbre/do_you_think_its_worth_learning_streamlit_or/)
 <!-- BLOG-POST-LIST:END -->
