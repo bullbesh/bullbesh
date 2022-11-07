@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [When should I subclass multiprocessing.Process?](https://www.reddit.com/r/Python/comments/yowvci/when_should_i_subclass_multiprocessingprocess/)
+- [what is the best book/material/course to learn about develop app and websites with Python?](https://www.reddit.com/r/Python/comments/yowm1s/what_is_the_best_bookmaterialcourse_to_learn/)
+- [Function to create requests.get&lpar;&rpar; params dictionary](https://www.reddit.com/r/Python/comments/yowd95/function_to_create_requestsget_params_dictionary/)
 - [I updated DictDataBase, it&#39;s like SQLite but for JSON, now a lot better!](https://www.reddit.com/r/Python/comments/you4c2/i_updated_dictdatabase_its_like_sqlite_but_for/)
 - [Start Learning Quantum Computing with IBM Qiskit](https://www.reddit.com/r/Python/comments/yot8wo/start_learning_quantum_computing_with_ibm_qiskit/)
-- [I have written MeerQTT - A FastAPI for MQTT protocol](https://www.reddit.com/r/Python/comments/yosykl/i_have_written_meerqtt_a_fastapi_for_mqtt_protocol/)
-- [Will async make this faster?](https://www.reddit.com/r/Python/comments/yorroh/will_async_make_this_faster/)
-- [Python 3.11: What&#39;s New](https://www.reddit.com/r/Python/comments/yoops3/python_311_whats_new/)
 <!-- BLOG-POST-LIST:END -->
