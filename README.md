@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [socketify.py - Bringing WebSockets, Http/Https High Peformance servers for PyPy3 and Python3](https://www.reddit.com/r/Python/comments/ypqv1z/socketifypy_bringing_websockets_httphttps_high/)
 - [Python News: What&#39;s New From October 2022 – Real Python](https://www.reddit.com/r/Python/comments/ypnak5/python_news_whats_new_from_october_2022_real/)
 - [Python vs. R: Why is Python the First Choice for Data Scientists?](https://www.reddit.com/r/Python/comments/ypnady/python_vs_r_why_is_python_the_first_choice_for/)
 - [Is Django security features enough?](https://www.reddit.com/r/Python/comments/ypn8af/is_django_security_features_enough/)
 - [taichi -- a Python compiler that is somewhere between cython and numba?](https://www.reddit.com/r/Python/comments/ypmyxg/taichi_a_python_compiler_that_is_somewhere/)
-- [SPL?](https://www.reddit.com/r/Python/comments/yplkv7/spl/)
 <!-- BLOG-POST-LIST:END -->
