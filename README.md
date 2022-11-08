@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Quantum Computing Primer for Python Programmers 😁](https://www.reddit.com/r/Python/comments/ypzp3k/a_quantum_computing_primer_for_python_programmers/)
+- [Socketify.py - Maybe the fastest web framework for Python and PyPy](https://www.reddit.com/r/Python/comments/ypyxb5/socketifypy_maybe_the_fastest_web_framework_for/)
 - [A game coded in Python on Steam !](https://www.reddit.com/r/Python/comments/ypy02u/a_game_coded_in_python_on_steam/)
 - [A Team at Microsoft is Helping Make Python Faster](https://www.reddit.com/r/Python/comments/yptejs/a_team_at_microsoft_is_helping_make_python_faster/)
 - [Imgmanip - Image manipulation tool to perform different operations on large number of photos.](https://www.reddit.com/r/Python/comments/ypslpa/imgmanip_image_manipulation_tool_to_perform/)
-- [Adding types to a large Python codebase](https://www.reddit.com/r/Python/comments/ypseo7/adding_types_to_a_large_python_codebase/)
-- [Python News: What&#39;s New From October 2022 – Real Python](https://www.reddit.com/r/Python/comments/ypnak5/python_news_whats_new_from_october_2022_real/)
 <!-- BLOG-POST-LIST:END -->
