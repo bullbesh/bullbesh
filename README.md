@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/yp5bet/tuesday_daily_thread_advanced_questions/)
+- [Creating A Python Chatbot That Learns As You Speak To It](https://www.reddit.com/r/Python/comments/yp4ksv/creating_a_python_chatbot_that_learns_as_you/)
 - [betterTUI &lpar; widgets for python curses, but on steroids &rpar;](https://www.reddit.com/r/Python/comments/yp3sjb/bettertui_widgets_for_python_curses_but_on/)
 - [Textual tutorial](https://www.reddit.com/r/Python/comments/yp33s4/textual_tutorial/)
 - [Self.question from a slighty frustrated developer](https://www.reddit.com/r/Python/comments/yp2bdm/selfquestion_from_a_slighty_frustrated_developer/)
-- [Pytokei: a python binding for rust&#39;s tokei](https://www.reddit.com/r/Python/comments/yozt10/pytokei_a_python_binding_for_rusts_tokei/)
-- [Made a reddit image scraper using praw and flask.](https://www.reddit.com/r/Python/comments/yoz3ou/made_a_reddit_image_scraper_using_praw_and_flask/)
 <!-- BLOG-POST-LIST:END -->
