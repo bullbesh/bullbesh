@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [universal c decompiler &lpar;open source&rpar;](https://www.reddit.com/r/Python/comments/yq20n7/universal_c_decompiler_open_source/)
+- [Django or Flask for migrate the backend of a ERP System built with Classic ASP ?](https://www.reddit.com/r/Python/comments/yq1ygu/django_or_flask_for_migrate_the_backend_of_a_erp/)
+- [Would it make sense of Python to have a NoSQL database as part of the standard library?](https://www.reddit.com/r/Python/comments/yq1fqh/would_it_make_sense_of_python_to_have_a_nosql/)
 - [A Quantum Computing Primer for Python Programmers 😁](https://www.reddit.com/r/Python/comments/ypzp3k/a_quantum_computing_primer_for_python_programmers/)
 - [Socketify.py - Maybe the fastest web framework for Python and PyPy](https://www.reddit.com/r/Python/comments/ypyxb5/socketifypy_maybe_the_fastest_web_framework_for/)
-- [A game coded in Python on Steam !](https://www.reddit.com/r/Python/comments/ypy02u/a_game_coded_in_python_on_steam/)
-- [A Team at Microsoft is Helping Make Python Faster](https://www.reddit.com/r/Python/comments/yptejs/a_team_at_microsoft_is_helping_make_python_faster/)
-- [Imgmanip - Image manipulation tool to perform different operations on large number of photos.](https://www.reddit.com/r/Python/comments/ypslpa/imgmanip_image_manipulation_tool_to_perform/)
 <!-- BLOG-POST-LIST:END -->
