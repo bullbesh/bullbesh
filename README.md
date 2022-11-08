@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tkinter Gui-based app for typing speed test](https://www.reddit.com/r/Python/comments/yphwj3/tkinter_guibased_app_for_typing_speed_test/)
+- [I updated DictDataBase, it&#39;s like SQLite but for JSON, now a lot faster!](https://www.reddit.com/r/Python/comments/ypgxb9/i_updated_dictdatabase_its_like_sqlite_but_for/)
 - [Teaching high-schoolers Python, what is the best place for them to practice and enhance their skills?](https://www.reddit.com/r/Python/comments/ypeb8l/teaching_highschoolers_python_what_is_the_best/)
 - [How to Evaluate Python developer skills?](https://www.reddit.com/r/Python/comments/ype91d/how_to_evaluate_python_developer_skills/)
 - [I made an arithmetic calculator](https://www.reddit.com/r/Python/comments/yparo3/i_made_an_arithmetic_calculator/)
-- [Anaconda installer &lpar;Fedora Linux&rpar; Python error](https://www.reddit.com/r/Python/comments/yp9r1n/anaconda_installer_fedora_linux_python_error/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/yp5bet/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
