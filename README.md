@@ -11,6 +11,6 @@
 - [A Team at Microsoft is Helping Make Python Faster](https://www.reddit.com/r/Python/comments/yptejs/a_team_at_microsoft_is_helping_make_python_faster/)
 - [Imgmanip - Image manipulation tool to perform different operations on large number of photos.](https://www.reddit.com/r/Python/comments/ypslpa/imgmanip_image_manipulation_tool_to_perform/)
 - [Adding types to a large Python codebase](https://www.reddit.com/r/Python/comments/ypseo7/adding_types_to_a_large_python_codebase/)
-- [socketify.py - Bringing WebSockets, Http/Https High Peformance servers for PyPy3 and Python3](https://www.reddit.com/r/Python/comments/ypqv1z/socketifypy_bringing_websockets_httphttps_high/)
 - [Python News: What&#39;s New From October 2022 – Real Python](https://www.reddit.com/r/Python/comments/ypnak5/python_news_whats_new_from_october_2022_real/)
+- [Python vs. R: Why is Python the First Choice for Data Scientists?](https://www.reddit.com/r/Python/comments/ypnady/python_vs_r_why_is_python_the_first_choice_for/)
 <!-- BLOG-POST-LIST:END -->
