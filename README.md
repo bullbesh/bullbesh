@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Teaching high-schoolers Python, what is the best place for them to practice and enhance their skills?](https://www.reddit.com/r/Python/comments/ypeb8l/teaching_highschoolers_python_what_is_the_best/)
+- [How to Evaluate Python developer skills?](https://www.reddit.com/r/Python/comments/ype91d/how_to_evaluate_python_developer_skills/)
 - [I made an arithmetic calculator](https://www.reddit.com/r/Python/comments/yparo3/i_made_an_arithmetic_calculator/)
 - [Anaconda installer &lpar;Fedora Linux&rpar; Python error](https://www.reddit.com/r/Python/comments/yp9r1n/anaconda_installer_fedora_linux_python_error/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/yp5bet/tuesday_daily_thread_advanced_questions/)
-- [Creating A Python Chatbot That Learns As You Speak To It](https://www.reddit.com/r/Python/comments/yp4ksv/creating_a_python_chatbot_that_learns_as_you/)
-- [betterTUI &lpar; widgets for python curses, but on steroids &rpar;](https://www.reddit.com/r/Python/comments/yp3sjb/bettertui_widgets_for_python_curses_but_on/)
 <!-- BLOG-POST-LIST:END -->
