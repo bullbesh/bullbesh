@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python News: What&#39;s New From October 2022 – Real Python](https://www.reddit.com/r/Python/comments/ypnak5/python_news_whats_new_from_october_2022_real/)
+- [Python vs. R: Why is Python the First Choice for Data Scientists?](https://www.reddit.com/r/Python/comments/ypnady/python_vs_r_why_is_python_the_first_choice_for/)
+- [Is Django security features enough?](https://www.reddit.com/r/Python/comments/ypn8af/is_django_security_features_enough/)
+- [taichi -- a Python compiler that is somewhere between cython and numba?](https://www.reddit.com/r/Python/comments/ypmyxg/taichi_a_python_compiler_that_is_somewhere/)
 - [SPL?](https://www.reddit.com/r/Python/comments/yplkv7/spl/)
-- [guys what do you prefer django or starlite?](https://www.reddit.com/r/Python/comments/ypjr2p/guys_what_do_you_prefer_django_or_starlite/)
-- [Pickle is over 10 times faster than joblib for save and load scikit-learn models](https://www.reddit.com/r/Python/comments/ypj13g/pickle_is_over_10_times_faster_than_joblib_for/)
-- [Tkinter Gui-based app for typing speed test](https://www.reddit.com/r/Python/comments/yphwj3/tkinter_guibased_app_for_typing_speed_test/)
-- [I updated DictDataBase, it&#39;s like SQLite but for JSON, now a lot faster!](https://www.reddit.com/r/Python/comments/ypgxb9/i_updated_dictdatabase_its_like_sqlite_but_for/)
 <!-- BLOG-POST-LIST:END -->
