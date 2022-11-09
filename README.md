@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to get the text from the “option” tag selectively &lpar;for specific Ids&rpar; using BeautifulSoup](https://www.reddit.com/r/Python/comments/yqwujf/how_to_get_the_text_from_the_option_tag/)
-- [Can you check for nan in a float value?](https://www.reddit.com/r/Python/comments/yqwnqa/can_you_check_for_nan_in_a_float_value/)
+- [Best ways to deploy a computationally heavy application?](https://www.reddit.com/r/Python/comments/yqxr2s/best_ways_to_deploy_a_computationally_heavy/)
 - [A script to predict US senate election results using county data](https://www.reddit.com/r/Python/comments/yqtebe/a_script_to_predict_us_senate_election_results/)
 - [Build a Real-Time Product Recommendation System using Python, Redis, and DocArray](https://www.reddit.com/r/Python/comments/yqt08u/build_a_realtime_product_recommendation_system/)
 - [Python Asyncio: The Complete Guide](https://www.reddit.com/r/Python/comments/yqrr94/python_asyncio_the_complete_guide/)
+- [A Python 3.11 &quot;gotcha&quot;](https://www.reddit.com/r/Python/comments/yqqv8r/a_python_311_gotcha/)
 <!-- BLOG-POST-LIST:END -->
