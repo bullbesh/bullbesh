@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern Forecasting in Practice with Jan Gasthaus &lpar;AWS&rpar; and Tim Januschowski &lpar;Zalando&rpar;](https://www.reddit.com/r/Python/comments/yq3mho/modern_forecasting_in_practice_with_jan_gasthaus/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/yq2tmr/wednesday_daily_thread_beginner_questions/)
+- [Weekend scripting adventure - given an IP address find out if it originates from a public cloud provider](https://www.reddit.com/r/Python/comments/yq2apa/weekend_scripting_adventure_given_an_ip_address/)
 - [universal c decompiler &lpar;open source&rpar;](https://www.reddit.com/r/Python/comments/yq20n7/universal_c_decompiler_open_source/)
 - [Django or Flask for migrate the backend of a ERP System built with Classic ASP ?](https://www.reddit.com/r/Python/comments/yq1ygu/django_or_flask_for_migrate_the_backend_of_a_erp/)
-- [Would it make sense of Python to have a NoSQL database as part of the standard library?](https://www.reddit.com/r/Python/comments/yq1fqh/would_it_make_sense_of_python_to_have_a_nosql/)
-- [A Quantum Computing Primer for Python Programmers 😁](https://www.reddit.com/r/Python/comments/ypzp3k/a_quantum_computing_primer_for_python_programmers/)
-- [Socketify.py - Maybe the fastest web framework for Python and PyPy](https://www.reddit.com/r/Python/comments/ypyxb5/socketifypy_maybe_the_fastest_web_framework_for/)
 <!-- BLOG-POST-LIST:END -->
