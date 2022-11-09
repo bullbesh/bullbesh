@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hi, I&#39;ve been building a Auto subtitled video generator. Currently looking for collaborators experienced with flask/django, react and cloud deployment.](https://www.reddit.com/r/Python/comments/yqu5ar/hi_ive_been_building_a_auto_subtitled_video/)
+- [A script to predict US senate election results using county data](https://www.reddit.com/r/Python/comments/yqtebe/a_script_to_predict_us_senate_election_results/)
+- [Build a Real-Time Product Recommendation System using Python, Redis, and DocArray](https://www.reddit.com/r/Python/comments/yqt08u/build_a_realtime_product_recommendation_system/)
 - [Python Asyncio: The Complete Guide](https://www.reddit.com/r/Python/comments/yqrr94/python_asyncio_the_complete_guide/)
 - [A Python 3.11 &quot;gotcha&quot;](https://www.reddit.com/r/Python/comments/yqqv8r/a_python_311_gotcha/)
-- [Streaming processing in Python using Timely Dataflow with Bytewax](https://www.reddit.com/r/Python/comments/yqph7f/streaming_processing_in_python_using_timely/)
-- [the wbc project](https://www.reddit.com/r/Python/comments/yqoxnn/the_wbc_project/)
-- [Append lists in dicts if key doesn&#39;t exist yet](https://www.reddit.com/r/Python/comments/yqovyy/append_lists_in_dicts_if_key_doesnt_exist_yet/)
 <!-- BLOG-POST-LIST:END -->
