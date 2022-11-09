@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python 3.11 &quot;gotcha&quot;](https://www.reddit.com/r/Python/comments/yqqv8r/a_python_311_gotcha/)
+- [Streaming processing in Python using Timely Dataflow with Bytewax](https://www.reddit.com/r/Python/comments/yqph7f/streaming_processing_in_python_using_timely/)
 - [the wbc project](https://www.reddit.com/r/Python/comments/yqoxnn/the_wbc_project/)
-- [Got hired @ my dream company Microsoft. Here are the items I used for preparation. Good luck.](https://www.reddit.com/r/Python/comments/yqowmt/got_hired_my_dream_company_microsoft_here_are_the/)
 - [Append lists in dicts if key doesn&#39;t exist yet](https://www.reddit.com/r/Python/comments/yqovyy/append_lists_in_dicts_if_key_doesnt_exist_yet/)
 - [SpaceDrones: A simple learning environment for genetic optimization](https://www.reddit.com/r/Python/comments/yqko0t/spacedrones_a_simple_learning_environment_for/)
-- [Generic return value &lpar;empty dict or list as return value&rpar;](https://www.reddit.com/r/Python/comments/yqknll/generic_return_value_empty_dict_or_list_as_return/)
 <!-- BLOG-POST-LIST:END -->
