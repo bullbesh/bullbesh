@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python exercise. New student please advise](https://www.reddit.com/r/Python/comments/yqihlj/python_exercise_new_student_please_advise/)
+- [Can somone suggest a solution for this ?](https://www.reddit.com/r/Python/comments/yqig9u/can_somone_suggest_a_solution_for_this/)
 - [PyPI In a box: Using a Raspberry Pi as a portable PyPI server](https://www.reddit.com/r/Python/comments/yqht9e/pypi_in_a_box_using_a_raspberry_pi_as_a_portable/)
 - [how to find emails in list of studends with same surname](https://www.reddit.com/r/Python/comments/yqhb1i/how_to_find_emails_in_list_of_studends_with_same/)
 - [I found a very COOL AI model deployment repository on Github!](https://www.reddit.com/r/Python/comments/yqguep/i_found_a_very_cool_ai_model_deployment/)
-- [is it possible to code a Blockchain and a criptocurrency in python and alone? would you recommend another language instead?](https://www.reddit.com/r/Python/comments/yqgtu6/is_it_possible_to_code_a_blockchain_and_a/)
-- [url-cleaner helps you get rid of tracking parameters](https://www.reddit.com/r/Python/comments/yqgbf2/urlcleaner_helps_you_get_rid_of_tracking/)
 <!-- BLOG-POST-LIST:END -->
