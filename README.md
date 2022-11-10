@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A brand new scraping API is looking for Python beta-testers!](https://www.reddit.com/r/Python/comments/yraiq8/a_brand_new_scraping_api_is_looking_for_python/)
+- [[Beginner] Script that split PDF and rename](https://www.reddit.com/r/Python/comments/yrafg6/beginner_script_that_split_pdf_and_rename/)
 - [40 percent of Python code is written by Copilot](https://www.reddit.com/r/Python/comments/yr7exw/40_percent_of_python_code_is_written_by_copilot/)
 - [🤯 Build simple input/output UIs for your Python scripts with no HTML/CSS](https://www.reddit.com/r/Python/comments/yr27s0/build_simple_inputoutput_uis_for_your_python/)
 - [Loosely coupled Python code with Dependency Injection](https://www.reddit.com/r/Python/comments/yr23qb/loosely_coupled_python_code_with_dependency/)
-- [Data analysts: what’re some initial steps you take to get familiar w datasets?](https://www.reddit.com/r/Python/comments/yr1vun/data_analysts_whatre_some_initial_steps_you_take/)
-- [Python 3 OpenCV Project to Capture Images From Webcam and Save it as PNG Image in Directory - WebNinjaDeveloper.com](https://www.reddit.com/r/Python/comments/yr0s0q/python_3_opencv_project_to_capture_images_from/)
 <!-- BLOG-POST-LIST:END -->
