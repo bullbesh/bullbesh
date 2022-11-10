@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Some Misunderstanding about LinkedList!](https://www.reddit.com/r/Python/comments/yrc9bz/some_misunderstanding_about_linkedlist/)
+- [[Medical Segmentation] The all-in-one 3D medical image segmentation python toolkit. From data annotation to model deployment, you are welcome to try it all！](https://www.reddit.com/r/Python/comments/yrc04o/medical_segmentation_the_allinone_3d_medical/)
 - [Pyscript exciting news november 2022: Micropython, Pyodide, Bytecode All...](https://www.reddit.com/r/Python/comments/yrboq5/pyscript_exciting_news_november_2022_micropython/)
 - [A brand new scraping API is looking for Python beta-testers!](https://www.reddit.com/r/Python/comments/yraiq8/a_brand_new_scraping_api_is_looking_for_python/)
 - [[Beginner] Script that split PDF and rename](https://www.reddit.com/r/Python/comments/yrafg6/beginner_script_that_split_pdf_and_rename/)
-- [🤯 Build simple input/output UIs for your Python scripts with no HTML/CSS](https://www.reddit.com/r/Python/comments/yr27s0/build_simple_inputoutput_uis_for_your_python/)
-- [Loosely coupled Python code with Dependency Injection](https://www.reddit.com/r/Python/comments/yr23qb/loosely_coupled_python_code_with_dependency/)
 <!-- BLOG-POST-LIST:END -->
