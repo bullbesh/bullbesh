@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Best ways to deploy a computationally heavy application?](https://www.reddit.com/r/Python/comments/yqxr2s/best_ways_to_deploy_a_computationally_heavy/)
-- [A script to predict US senate election results using county data](https://www.reddit.com/r/Python/comments/yqtebe/a_script_to_predict_us_senate_election_results/)
-- [Build a Real-Time Product Recommendation System using Python, Redis, and DocArray](https://www.reddit.com/r/Python/comments/yqt08u/build_a_realtime_product_recommendation_system/)
-- [Python Asyncio: The Complete Guide](https://www.reddit.com/r/Python/comments/yqrr94/python_asyncio_the_complete_guide/)
-- [A Python 3.11 &quot;gotcha&quot;](https://www.reddit.com/r/Python/comments/yqqv8r/a_python_311_gotcha/)
+- [🤯 Build simple input/output UIs for your Python scripts with no HTML/CSS](https://www.reddit.com/r/Python/comments/yr27s0/build_simple_inputoutput_uis_for_your_python/)
+- [Loosely coupled Python code with Dependency Injection](https://www.reddit.com/r/Python/comments/yr23qb/loosely_coupled_python_code_with_dependency/)
+- [Data analysts: what’re some initial steps you take to get familiar w datasets?](https://www.reddit.com/r/Python/comments/yr1vun/data_analysts_whatre_some_initial_steps_you_take/)
+- [Python 3 OpenCV Project to Capture Images From Webcam and Save it as PNG Image in Directory - WebNinjaDeveloper.com](https://www.reddit.com/r/Python/comments/yr0s0q/python_3_opencv_project_to_capture_images_from/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/yqzppe/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
