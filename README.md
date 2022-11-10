@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;The Well Grounded Python Developer&quot; book review](https://www.reddit.com/r/Python/comments/yriw7b/the_well_grounded_python_developer_book_review/)
 - [Is Python suitable for writing Windows programs such as accounting programs that have SQL Server databases?](https://www.reddit.com/r/Python/comments/yrhhtj/is_python_suitable_for_writing_windows_programs/)
 - [How to use SetWindowSubclass function in Python](https://www.reddit.com/r/Python/comments/yrhcw6/how_to_use_setwindowsubclass_function_in_python/)
 - [7 Python Projects for Beginners](https://www.reddit.com/r/Python/comments/yrfeou/7_python_projects_for_beginners/)
 - [Can someone tell me how programming is implemented in computer or in real life situations? Look below at the text for further illustration.](https://www.reddit.com/r/Python/comments/yrf76y/can_someone_tell_me_how_programming_is/)
-- [New to large SW projects in Python, best practices to organize code](https://www.reddit.com/r/Python/comments/yrenj3/new_to_large_sw_projects_in_python_best_practices/)
 <!-- BLOG-POST-LIST:END -->
