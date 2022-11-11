@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it possible to program my heater in python?](https://www.reddit.com/r/Python/comments/ys56uy/is_it_possible_to_program_my_heater_in_python/)
 - [How to save and load a class object with out using pickle ?](https://www.reddit.com/r/Python/comments/ys4o36/how_to_save_and_load_a_class_object_with_out/)
 - [How should I treat my python installation?](https://www.reddit.com/r/Python/comments/ys4dhe/how_should_i_treat_my_python_installation/)
 - [nstr = int&lpar;&quot;Laugh At My Mistakes&quot;&rpar;](https://www.reddit.com/r/Python/comments/yryz5e/nstr_intlaugh_at_my_mistakes/)
 - [What Are the Most Common Mistakes That People Are Doing in Learning Python? 5,000+ Learners&#39; Data Analyzed](https://www.reddit.com/r/Python/comments/yrnp2k/what_are_the_most_common_mistakes_that_people_are/)
-- [PyCon US CFP is open // mentor program deadline TOMORROW](https://www.reddit.com/r/Python/comments/yrn9sc/pycon_us_cfp_is_open_mentor_program_deadline/)
 <!-- BLOG-POST-LIST:END -->
