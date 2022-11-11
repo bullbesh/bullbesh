@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating my own library to setup a password autofill using device42 api. What&#39;s the best way to set up config variables?](https://www.reddit.com/r/Python/comments/ysetjq/creating_my_own_library_to_setup_a_password/)
+- [AI Hackathon Announcement - $50,000 in prizes](https://www.reddit.com/r/Python/comments/yse75y/ai_hackathon_announcement_50000_in_prizes/)
+- [is there is a way to bypass hcap](https://www.reddit.com/r/Python/comments/ysdtvn/is_there_is_a_way_to_bypass_hcap/)
 - [What are some good resources for API client design in Python?](https://www.reddit.com/r/Python/comments/ysdaxe/what_are_some_good_resources_for_api_client/)
 - [Portable python install possible?](https://www.reddit.com/r/Python/comments/ysd52q/portable_python_install_possible/)
-- [What is the *main* reason you write unit tests?](https://www.reddit.com/r/Python/comments/ys9gsc/what_is_the_main_reason_you_write_unit_tests/)
-- [A better Fibonacci program.](https://www.reddit.com/r/Python/comments/ys9d6z/a_better_fibonacci_program/)
-- [Learn how you can do that without having to worry about breaking scrapers.](https://www.reddit.com/r/Python/comments/ys7ogn/learn_how_you_can_do_that_without_having_to_worry/)
 <!-- BLOG-POST-LIST:END -->
