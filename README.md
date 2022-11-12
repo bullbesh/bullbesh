@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Many Python Libraries Have Been Infected](https://www.reddit.com/r/Python/comments/ysqb5x/many_python_libraries_have_been_infected/)
+- [We just release a complete open-source solution for accelerating Stable Diffusion pretraining and fine-tuning!](https://www.reddit.com/r/Python/comments/ystm53/we_just_release_a_complete_opensource_solution/)
+- [Key-value database.](https://www.reddit.com/r/Python/comments/yssvyr/keyvalue_database/)
+- [What small business ideas can I make with python?](https://www.reddit.com/r/Python/comments/yssdgt/what_small_business_ideas_can_i_make_with_python/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/ysr8ns/saturday_daily_thread_resource_request_and/)
 - [Python hacking lib](https://www.reddit.com/r/Python/comments/ysoyec/python_hacking_lib/)
-- [Space Science with Python - Creating interactive sky maps!](https://www.reddit.com/r/Python/comments/ysnnks/space_science_with_python_creating_interactive/)
-- [my first achivment](https://www.reddit.com/r/Python/comments/ysn87h/my_first_achivment/)
-- [Coworker &lpar;non-programmer&rpar; said zero indexing and binary clocks are stupid and for nerds - so to prove how cool they actually are I made this programmer&#39;s clock in PyQt5 to display on my desk all day using a raspberry pi.](https://www.reddit.com/r/Python/comments/ysl3qf/coworker_nonprogrammer_said_zero_indexing_and/)
 <!-- BLOG-POST-LIST:END -->
