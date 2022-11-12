@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python Engineering from 6 year experienced Developer&lpar;Self promotion&rpar;](https://www.reddit.com/r/Python/comments/yt423k/learn_python_engineering_from_6_year_experienced/)
+- [GitHub - hwchase17/langchain: Building applications with LLMs through composability](https://www.reddit.com/r/Python/comments/yt3r01/github_hwchase17langchain_building_applications/)
+- [This is how i got more performance in WebSockets than Node or Bun using Python](https://www.reddit.com/r/Python/comments/yt3j70/this_is_how_i_got_more_performance_in_websockets/)
 - [Free workshops?](https://www.reddit.com/r/Python/comments/ysztmj/free_workshops/)
 - [What is the best Django Course / Youtube Playlist available to learn Django from ?](https://www.reddit.com/r/Python/comments/ysznz7/what_is_the_best_django_course_youtube_playlist/)
-- [While True Antipattern](https://www.reddit.com/r/Python/comments/ysxcpd/while_true_antipattern/)
-- [I want to learn Python as a hobby](https://www.reddit.com/r/Python/comments/ysvcoh/i_want_to_learn_python_as_a_hobby/)
-- [It wold be great if someone familiar with Python &lpar;teach how to&rpar; turn this &quot;Guitar Hero&quot; assignment into Python version](https://www.reddit.com/r/Python/comments/ysuju0/it_wold_be_great_if_someone_familiar_with_python/)
 <!-- BLOG-POST-LIST:END -->
