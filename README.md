@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [While True Antipattern](https://www.reddit.com/r/Python/comments/ysxcpd/while_true_antipattern/)
 - [I want to learn Python as a hobby](https://www.reddit.com/r/Python/comments/ysvcoh/i_want_to_learn_python_as_a_hobby/)
 - [It wold be great if someone familiar with Python &lpar;teach how to&rpar; turn this &quot;Guitar Hero&quot; assignment into Python version](https://www.reddit.com/r/Python/comments/ysuju0/it_wold_be_great_if_someone_familiar_with_python/)
 - [What if we have infinite for loops under one other?](https://www.reddit.com/r/Python/comments/ysuhoz/what_if_we_have_infinite_for_loops_under_one_other/)
 - [Removing useless files with python](https://www.reddit.com/r/Python/comments/ysueq4/removing_useless_files_with_python/)
-- [We just release a complete open-source solution for accelerating Stable Diffusion pretraining and fine-tuning!](https://www.reddit.com/r/Python/comments/ystm53/we_just_release_a_complete_opensource_solution/)
 <!-- BLOG-POST-LIST:END -->
