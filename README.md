@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub - jim-schwoebel/dopg_cli: A python command line interface for DigitalOcean postgres clusters &lpar;5+ integrations&rpar;.](https://www.reddit.com/r/Python/comments/ytyddw/github_jimschwoebeldopg_cli_a_python_command_line/)
-- [python for web 🤔](https://www.reddit.com/r/Python/comments/ytvlx2/python_for_web/)
-- [NameError: name &#39;output&#39; is not defined](https://www.reddit.com/r/Python/comments/ytv5q5/nameerror_name_output_is_not_defined/)
-- [python cli application](https://www.reddit.com/r/Python/comments/ytv56m/python_cli_application/)
-- [Celery course. Part 1 - overview](https://www.reddit.com/r/Python/comments/ytuxyy/celery_course_part_1_overview/)
+- [i made a script that transforms image to ascii](https://www.reddit.com/r/Python/comments/yu0eo4/i_made_a_script_that_transforms_image_to_ascii/)
+- [Getting started with semantic search](https://www.reddit.com/r/Python/comments/yu079o/getting_started_with_semantic_search/)
+- [When You Should Not Use f-Strings In Python And What You Should Use Instead](https://www.reddit.com/r/Python/comments/ytzifx/when_you_should_not_use_fstrings_in_python_and/)
+- [Asking feedback from Java backend developers that moved to Python](https://www.reddit.com/r/Python/comments/ytzcqk/asking_feedback_from_java_backend_developers_that/)
+- [why there&#39;s no official release of Python for Android?](https://www.reddit.com/r/Python/comments/ytzacb/why_theres_no_official_release_of_python_for/)
 <!-- BLOG-POST-LIST:END -->
