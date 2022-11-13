@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Traffic tunneling and blocking bypass with python](https://www.reddit.com/r/Python/comments/ytwdmp/traffic_tunneling_and_blocking_bypass_with_python/)
+- [GitHub - jim-schwoebel/dopg_cli: A python command line interface for DigitalOcean postgres clusters &lpar;5+ integrations&rpar;.](https://www.reddit.com/r/Python/comments/ytyddw/github_jimschwoebeldopg_cli_a_python_command_line/)
 - [python for web 🤔](https://www.reddit.com/r/Python/comments/ytvlx2/python_for_web/)
 - [NameError: name &#39;output&#39; is not defined](https://www.reddit.com/r/Python/comments/ytv5q5/nameerror_name_output_is_not_defined/)
 - [python cli application](https://www.reddit.com/r/Python/comments/ytv56m/python_cli_application/)
