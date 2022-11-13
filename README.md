@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastodon instances for Python developers?](https://www.reddit.com/r/Python/comments/yu7shw/mastodon_instances_for_python_developers/)
 - [Alchemical Queues: &lpar;task&rpar; queues on pure SQLAlchemy](https://www.reddit.com/r/Python/comments/yu5oap/alchemical_queues_task_queues_on_pure_sqlalchemy/)
 - [py-template: one-click extensive GitHub Actions pipelines for your Python projects!](https://www.reddit.com/r/Python/comments/yu4ynu/pytemplate_oneclick_extensive_github_actions/)
 - [Created my first true python project](https://www.reddit.com/r/Python/comments/yu461o/created_my_first_true_python_project/)
 - [Are there any free resources to start learn python?](https://www.reddit.com/r/Python/comments/yu42c3/are_there_any_free_resources_to_start_learn_python/)
-- [i made a script that transforms image to ascii](https://www.reddit.com/r/Python/comments/yu0eo4/i_made_a_script_that_transforms_image_to_ascii/)
 <!-- BLOG-POST-LIST:END -->
