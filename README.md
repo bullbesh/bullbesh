@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [HELP!! Is it possible to turn this into Dict Comprehension or create an equal object with built-in functions?](https://www.reddit.com/r/Python/comments/yu4eof/help_is_it_possible_to_turn_this_into_dict/)
+- [Created my first true python project](https://www.reddit.com/r/Python/comments/yu461o/created_my_first_true_python_project/)
+- [Are there any free resources to start learn python?](https://www.reddit.com/r/Python/comments/yu42c3/are_there_any_free_resources_to_start_learn_python/)
 - [i made a script that transforms image to ascii](https://www.reddit.com/r/Python/comments/yu0eo4/i_made_a_script_that_transforms_image_to_ascii/)
 - [Getting started with semantic search](https://www.reddit.com/r/Python/comments/yu079o/getting_started_with_semantic_search/)
-- [When You Should Not Use f-Strings In Python And What You Should Use Instead](https://www.reddit.com/r/Python/comments/ytzifx/when_you_should_not_use_fstrings_in_python_and/)
-- [Asking feedback from Java backend developers that moved to Python](https://www.reddit.com/r/Python/comments/ytzcqk/asking_feedback_from_java_backend_developers_that/)
-- [why there&#39;s no official release of Python for Android?](https://www.reddit.com/r/Python/comments/ytzacb/why_theres_no_official_release_of_python_for/)
 <!-- BLOG-POST-LIST:END -->
