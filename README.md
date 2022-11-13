@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ligoogle: a simple way to view google results on a terminal](https://www.reddit.com/r/Python/comments/yufbto/ligoogle_a_simple_way_to_view_google_results_on_a/)
 - [Chatbot](https://www.reddit.com/r/Python/comments/yudxeq/chatbot/)
 - [Advanced Python GUI Resources](https://www.reddit.com/r/Python/comments/yu9sdt/advanced_python_gui_resources/)
 - [How to manage authentication between services written in two different languages?](https://www.reddit.com/r/Python/comments/yu9gi3/how_to_manage_authentication_between_services/)
 - [Mastodon instances for Python developers?](https://www.reddit.com/r/Python/comments/yu7shw/mastodon_instances_for_python_developers/)
-- [Alchemical Queues: &lpar;task&rpar; queues on pure SQLAlchemy](https://www.reddit.com/r/Python/comments/yu5oap/alchemical_queues_task_queues_on_pure_sqlalchemy/)
 <!-- BLOG-POST-LIST:END -->
