@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are good resources for an intermediate programmer to learn more?](https://www.reddit.com/r/Python/comments/ytpdh9/what_are_good_resources_for_an_intermediate/)
+- [I made a program that races horses while relying on the terminal for the graphics.](https://www.reddit.com/r/Python/comments/ytow1d/i_made_a_program_that_races_horses_while_relying/)
 - [Seeking suggestion for project](https://www.reddit.com/r/Python/comments/ytndvf/seeking_suggestion_for_project/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/ytmeap/sunday_daily_thread_whats_everyone_working_on/)
 - [I need r/python to judge the code I&#39;ve made and tell me what I can improve](https://www.reddit.com/r/Python/comments/ytklde/i_need_rpython_to_judge_the_code_ive_made_and/)
-- [Lightweight Python DB that can hold arbitrary binary objects](https://www.reddit.com/r/Python/comments/ytfzug/lightweight_python_db_that_can_hold_arbitrary/)
-- [Why is my code running slower on python 3.11 &lpar;as compared to 3.10&rpar;?](https://www.reddit.com/r/Python/comments/ytfbjt/why_is_my_code_running_slower_on_python_311_as/)
 <!-- BLOG-POST-LIST:END -->
