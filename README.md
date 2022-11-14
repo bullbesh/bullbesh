@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python book for programmer](https://www.reddit.com/r/Python/comments/yujju0/python_book_for_programmer/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/yuj56h/monday_daily_thread_project_ideas/)
+- [Use Python with Racket](https://www.reddit.com/r/Python/comments/yuisk6/use_python_with_racket/)
+- [Python-OMEMO 1.0.2 release | An open python implementation of the OMEMO Multi-End Message and Object Encryption protocol](https://www.reddit.com/r/Python/comments/yuid7a/pythonomemo_102_release_an_open_python/)
 - [ligoogle: a simple way to view google results on a terminal](https://www.reddit.com/r/Python/comments/yufbto/ligoogle_a_simple_way_to_view_google_results_on_a/)
-- [Chatbot](https://www.reddit.com/r/Python/comments/yudxeq/chatbot/)
-- [Advanced Python GUI Resources](https://www.reddit.com/r/Python/comments/yu9sdt/advanced_python_gui_resources/)
-- [How to manage authentication between services written in two different languages?](https://www.reddit.com/r/Python/comments/yu9gi3/how_to_manage_authentication_between_services/)
-- [Mastodon instances for Python developers?](https://www.reddit.com/r/Python/comments/yu7shw/mastodon_instances_for_python_developers/)
 <!-- BLOG-POST-LIST:END -->
