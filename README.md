@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Xabadia&#39;s vocabulary trainer](https://www.reddit.com/r/Python/comments/yuum32/xabadias_vocabulary_trainer/)
 - [Python scripts for global watershed delineation](https://www.reddit.com/r/Python/comments/yutnex/python_scripts_for_global_watershed_delineation/)
 - [How to crawl dynamic websites using Selenium, BeautifulSoup, and Python.](https://www.reddit.com/r/Python/comments/yusxdx/how_to_crawl_dynamic_websites_using_selenium/)
 - [Hexagonal architecture in Python](https://www.reddit.com/r/Python/comments/yusgzs/hexagonal_architecture_in_python/)
 - [Trying Python for 1st Time &lpar;CSharp Guy&rpar;](https://www.reddit.com/r/Python/comments/yuqyjy/trying_python_for_1st_time_csharp_guy/)
-- [pac-hunter: A US election finance utility to search donations from specific PACs to candidates of interest, using OpenFEC](https://www.reddit.com/r/Python/comments/yunh5v/pachunter_a_us_election_finance_utility_to_search/)
 <!-- BLOG-POST-LIST:END -->
