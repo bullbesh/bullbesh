@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Strapi Equivalent with Python backend](https://www.reddit.com/r/Python/comments/yv7z67/strapi_equivalent_with_python_backend/)
+- [I rewrote the Spotify API Quickstart using FastAPI](https://www.reddit.com/r/Python/comments/yv6jpu/i_rewrote_the_spotify_api_quickstart_using_fastapi/)
 - [What is a good data project that doesn&#39;t use SQL](https://www.reddit.com/r/Python/comments/yv5c43/what_is_a_good_data_project_that_doesnt_use_sql/)
 - [Simple labyrinth text game &lpar;Beginner in Python&rpar;](https://www.reddit.com/r/Python/comments/yv4el2/simple_labyrinth_text_game_beginner_in_python/)
 - [I made a CLI tool that helps you stay up to date with reddit, Twitter and Spotify &lpar;adding more integrations&rpar;](https://www.reddit.com/r/Python/comments/yv2nie/i_made_a_cli_tool_that_helps_you_stay_up_to_date/)
-- [Hii Im making a train delivery app I want to add non-existing features use machine learning Any suggestions](https://www.reddit.com/r/Python/comments/yv2mh8/hii_im_making_a_train_delivery_app_i_want_to_add/)
-- [Working with pdf](https://www.reddit.com/r/Python/comments/yv1lhh/working_with_pdf/)
 <!-- BLOG-POST-LIST:END -->
