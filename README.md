@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with pdf](https://www.reddit.com/r/Python/comments/yv1lhh/working_with_pdf/)
+- [What is the best tool for moving Python code and updating all the imports?](https://www.reddit.com/r/Python/comments/yv14cv/what_is_the_best_tool_for_moving_python_code_and/)
+- [I built an AI-based tool that answers any question as SQL code. This can help data teams save a lot of time addressing data requests from sales, marketing, product teams.](https://www.reddit.com/r/Python/comments/yv13bi/i_built_an_aibased_tool_that_answers_any_question/)
 - [Clean Architecture in python](https://www.reddit.com/r/Python/comments/yuz6b8/clean_architecture_in_python/)
-- [Free Python for Data Science course](https://www.reddit.com/r/Python/comments/yuyd88/free_python_for_data_science_course/)
 - [Iterating over a list, creation of a dataframe with numpy](https://www.reddit.com/r/Python/comments/yuxtfj/iterating_over_a_list_creation_of_a_dataframe/)
-- [Open-source SOTA Solution for Portrait and Human Segmentation &lpar;5.7k stars&rpar;](https://www.reddit.com/r/Python/comments/yuww41/opensource_sota_solution_for_portrait_and_human/)
-- [Search/Spell algorithm in cyhunspell library](https://www.reddit.com/r/Python/comments/yuwc0i/searchspell_algorithm_in_cyhunspell_library/)
 <!-- BLOG-POST-LIST:END -->
