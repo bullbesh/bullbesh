@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flake8 took down the gitlab repository in favor of github](https://www.reddit.com/r/Python/comments/yvfww8/flake8_took_down_the_gitlab_repository_in_favor/)
 - [TLSPYO: A small library for easy and safe transfer of python objects over network](https://www.reddit.com/r/Python/comments/yvecs9/tlspyo_a_small_library_for_easy_and_safe_transfer/)
 - [Is &quot;Python X&quot; a good tool to start learining Python?](https://www.reddit.com/r/Python/comments/yvdw14/is_python_x_a_good_tool_to_start_learining_python/)
 - [How Python chooses a MAC address for UUIDv1](https://www.reddit.com/r/Python/comments/yvchlp/how_python_chooses_a_mac_address_for_uuidv1/)
 - [How to Create Python Packages for Sharing Code and Installing with pip](https://www.reddit.com/r/Python/comments/yvayu1/how_to_create_python_packages_for_sharing_code/)
-- [Strapi Equivalent with Python backend](https://www.reddit.com/r/Python/comments/yv7z67/strapi_equivalent_with_python_backend/)
 <!-- BLOG-POST-LIST:END -->
