@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Parallel Nested For-Loops in Python](https://www.reddit.com/r/Python/comments/ywcgwl/parallel_nested_forloops_in_python/)
+- [Help with my Python class](https://www.reddit.com/r/Python/comments/ywbt9w/help_with_my_python_class/)
+- [Hola no se donde corrre el error en este programa que quiero hacer mediante POO](https://www.reddit.com/r/Python/comments/ywbhq4/hola_no_se_donde_corrre_el_error_en_este_programa/)
 - [An open source ML model registry called modelstore](https://www.reddit.com/r/Python/comments/yw8xje/an_open_source_ml_model_registry_called_modelstore/)
 - [I&#39;ve made a Fluent Password Checker App using CustomTkinter and Mica Theme](https://www.reddit.com/r/Python/comments/yw7w7e/ive_made_a_fluent_password_checker_app_using/)
-- [Hello everyone can someone tell me how much would u ask for a project like this one?](https://www.reddit.com/r/Python/comments/yw7smk/hello_everyone_can_someone_tell_me_how_much_would/)
-- [Dask - True unlocking to parallel computation in Python](https://www.reddit.com/r/Python/comments/yw5sbu/dask_true_unlocking_to_parallel_computation_in/)
-- [My first programming experience! Automatic trade system](https://www.reddit.com/r/Python/comments/yw4diu/my_first_programming_experience_automatic_trade/)
 <!-- BLOG-POST-LIST:END -->
