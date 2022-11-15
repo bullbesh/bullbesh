@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [df.clip&lpar;lower=0&rpar; doesnt change anything for my df.astype&lpar;float&rpar; Ideas ?](https://www.reddit.com/r/Python/comments/yvu8ci/dfcliplower0_doesnt_change_anything_for_my/)
+- [Compilation of the CPython interpreter for different Linux kernel](https://www.reddit.com/r/Python/comments/yvtjbu/compilation_of_the_cpython_interpreter_for/)
 - [Extract Data Using Python : Web Scraping Instagram](https://www.reddit.com/r/Python/comments/yvt2jt/extract_data_using_python_web_scraping_instagram/)
 - [Top 10 Python applications in the real world](https://www.reddit.com/r/Python/comments/yvsvgd/top_10_python_applications_in_the_real_world/)
 - [Python Lambda Function](https://www.reddit.com/r/Python/comments/yvshr1/python_lambda_function/)
-- [Few Days of trying!!!](https://www.reddit.com/r/Python/comments/yvsgx6/few_days_of_trying/)
-- [How to do a t-test in Python?](https://www.reddit.com/r/Python/comments/yvs7wd/how_to_do_a_ttest_in_python/)
 <!-- BLOG-POST-LIST:END -->
