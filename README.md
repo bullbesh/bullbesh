@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Configuration Options](https://www.reddit.com/r/Python/comments/yvyhrt/python_configuration_options/)
+- [ABI compatibility in Python: how hard could it be?](https://www.reddit.com/r/Python/comments/yvxz4z/abi_compatibility_in_python_how_hard_could_it_be/)
 - [Which are you most used Modules?](https://www.reddit.com/r/Python/comments/yvxeuk/which_are_you_most_used_modules/)
 - [Sanic vs FastAPI &lpar;and Starlite maybe&rpar; for large scale apps](https://www.reddit.com/r/Python/comments/yvwowx/sanic_vs_fastapi_and_starlite_maybe_for_large/)
 - [Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 1 – Real Python](https://www.reddit.com/r/Python/comments/yvw73t/python_rest_apis_with_flask_connexion_and/)
-- [Audio Parse](https://www.reddit.com/r/Python/comments/yvvk4e/audio_parse/)
-- [df.clip&lpar;lower=0&rpar; doesnt change anything for my df.astype&lpar;float&rpar; Ideas ?](https://www.reddit.com/r/Python/comments/yvu8ci/dfcliplower0_doesnt_change_anything_for_my/)
 <!-- BLOG-POST-LIST:END -->
