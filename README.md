@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Help with script. Search pdf for a list of words in a text/csv file](https://www.reddit.com/r/Python/comments/yw1vdm/help_with_script_search_pdf_for_a_list_of_words/)
-- [QualityScaler 6.0 - deeplearning image/video upscaler app for Windows with any GPU](https://www.reddit.com/r/Python/comments/yw1ic6/qualityscaler_60_deeplearning_imagevideo_upscaler/)
-- [Is python worth learning?](https://www.reddit.com/r/Python/comments/yw11d4/is_python_worth_learning/)
-- [Open Source project - AI APIs aggregator: speech recognition, machine translation, etc.](https://www.reddit.com/r/Python/comments/yw0yls/open_source_project_ai_apis_aggregator_speech/)
-- [5 Ways of Filtering Python Lists](https://www.reddit.com/r/Python/comments/yvzp1j/5_ways_of_filtering_python_lists/)
+- [My first programming experience! Automatic trade system](https://www.reddit.com/r/Python/comments/yw4diu/my_first_programming_experience_automatic_trade/)
+- [Speech Recognition module in Python](https://www.reddit.com/r/Python/comments/yw4b6z/speech_recognition_module_in_python/)
+- [I made a classic arcade-style shooting gallery game form python using the PyGame framework!](https://www.reddit.com/r/Python/comments/yw43ok/i_made_a_classic_arcadestyle_shooting_gallery/)
+- [Who controls parallelism? A disagreement that leads to slower code](https://www.reddit.com/r/Python/comments/yw3meg/who_controls_parallelism_a_disagreement_that/)
+- [Selenium Google maps](https://www.reddit.com/r/Python/comments/yw30uw/selenium_google_maps/)
 <!-- BLOG-POST-LIST:END -->
