@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sanic vs Starlite](https://www.reddit.com/r/Python/comments/yvivhf/sanic_vs_starlite/)
+- [I wrote my first proper Python program!](https://www.reddit.com/r/Python/comments/yvhhlb/i_wrote_my_first_proper_python_program/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/yvgyji/tuesday_daily_thread_advanced_questions/)
+- [CLI to lint Jenkinsfiles I hope it will help a lot of devOps saving time to validate Jenkinsfiles](https://www.reddit.com/r/Python/comments/yvgyaf/cli_to_lint_jenkinsfiles_i_hope_it_will_help_a/)
 - [Flake8 took down the gitlab repository in favor of github](https://www.reddit.com/r/Python/comments/yvfww8/flake8_took_down_the_gitlab_repository_in_favor/)
-- [TLSPYO: A small library for easy and safe transfer of python objects over network](https://www.reddit.com/r/Python/comments/yvecs9/tlspyo_a_small_library_for_easy_and_safe_transfer/)
-- [Is &quot;Python X&quot; a good tool to start learining Python?](https://www.reddit.com/r/Python/comments/yvdw14/is_python_x_a_good_tool_to_start_learining_python/)
-- [How Python chooses a MAC address for UUIDv1](https://www.reddit.com/r/Python/comments/yvchlp/how_python_chooses_a_mac_address_for_uuidv1/)
-- [How to Create Python Packages for Sharing Code and Installing with pip](https://www.reddit.com/r/Python/comments/yvayu1/how_to_create_python_packages_for_sharing_code/)
 <!-- BLOG-POST-LIST:END -->
