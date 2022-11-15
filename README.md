@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help with script. Search pdf for a list of words in a text/csv file](https://www.reddit.com/r/Python/comments/yw1vdm/help_with_script_search_pdf_for_a_list_of_words/)
+- [QualityScaler 6.0 - deeplearning image/video upscaler app for Windows with any GPU](https://www.reddit.com/r/Python/comments/yw1ic6/qualityscaler_60_deeplearning_imagevideo_upscaler/)
+- [Is python worth learning?](https://www.reddit.com/r/Python/comments/yw11d4/is_python_worth_learning/)
+- [Open Source project - AI APIs aggregator: speech recognition, machine translation, etc.](https://www.reddit.com/r/Python/comments/yw0yls/open_source_project_ai_apis_aggregator_speech/)
 - [5 Ways of Filtering Python Lists](https://www.reddit.com/r/Python/comments/yvzp1j/5_ways_of_filtering_python_lists/)
-- [I am getting Error Please guide me on this .](https://www.reddit.com/r/Python/comments/yvzipx/i_am_getting_error_please_guide_me_on_this/)
-- [Python Configuration Options](https://www.reddit.com/r/Python/comments/yvyhrt/python_configuration_options/)
-- [ABI compatibility in Python: how hard could it be?](https://www.reddit.com/r/Python/comments/yvxz4z/abi_compatibility_in_python_how_hard_could_it_be/)
-- [Which are you most used Modules?](https://www.reddit.com/r/Python/comments/yvxeuk/which_are_you_most_used_modules/)
 <!-- BLOG-POST-LIST:END -->
