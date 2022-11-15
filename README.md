@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Audio Parse](https://www.reddit.com/r/Python/comments/yvvk4e/audio_parse/)
 - [df.clip&lpar;lower=0&rpar; doesnt change anything for my df.astype&lpar;float&rpar; Ideas ?](https://www.reddit.com/r/Python/comments/yvu8ci/dfcliplower0_doesnt_change_anything_for_my/)
 - [Compilation of the CPython interpreter for different Linux kernel](https://www.reddit.com/r/Python/comments/yvtjbu/compilation_of_the_cpython_interpreter_for/)
 - [Extract Data Using Python : Web Scraping Instagram](https://www.reddit.com/r/Python/comments/yvt2jt/extract_data_using_python_web_scraping_instagram/)
-- [Top 10 Python applications in the real world](https://www.reddit.com/r/Python/comments/yvsvgd/top_10_python_applications_in_the_real_world/)
 - [Python Lambda Function](https://www.reddit.com/r/Python/comments/yvshr1/python_lambda_function/)
 <!-- BLOG-POST-LIST:END -->
