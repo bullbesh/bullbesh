@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Ways of Filtering Python Lists](https://www.reddit.com/r/Python/comments/yvzp1j/5_ways_of_filtering_python_lists/)
+- [I am getting Error Please guide me on this .](https://www.reddit.com/r/Python/comments/yvzipx/i_am_getting_error_please_guide_me_on_this/)
 - [Python Configuration Options](https://www.reddit.com/r/Python/comments/yvyhrt/python_configuration_options/)
 - [ABI compatibility in Python: how hard could it be?](https://www.reddit.com/r/Python/comments/yvxz4z/abi_compatibility_in_python_how_hard_could_it_be/)
 - [Which are you most used Modules?](https://www.reddit.com/r/Python/comments/yvxeuk/which_are_you_most_used_modules/)
-- [Sanic vs FastAPI &lpar;and Starlite maybe&rpar; for large scale apps](https://www.reddit.com/r/Python/comments/yvwowx/sanic_vs_fastapi_and_starlite_maybe_for_large/)
-- [Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 1 – Real Python](https://www.reddit.com/r/Python/comments/yvw73t/python_rest_apis_with_flask_connexion_and/)
 <!-- BLOG-POST-LIST:END -->
