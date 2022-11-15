@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve made a Fluent Password Checker App using CustomTkinter and Mica Theme](https://www.reddit.com/r/Python/comments/yw7w7e/ive_made_a_fluent_password_checker_app_using/)
+- [Hello everyone can someone tell me how much would u ask for a project like this one?](https://www.reddit.com/r/Python/comments/yw7smk/hello_everyone_can_someone_tell_me_how_much_would/)
 - [Dask - True unlocking to parallel computation in Python](https://www.reddit.com/r/Python/comments/yw5sbu/dask_true_unlocking_to_parallel_computation_in/)
 - [My first programming experience! Automatic trade system](https://www.reddit.com/r/Python/comments/yw4diu/my_first_programming_experience_automatic_trade/)
 - [Speech Recognition module in Python](https://www.reddit.com/r/Python/comments/yw4b6z/speech_recognition_module_in_python/)
-- [I made a classic arcade-style shooting gallery game form python using the PyGame framework!](https://www.reddit.com/r/Python/comments/yw43ok/i_made_a_classic_arcadestyle_shooting_gallery/)
-- [Who controls parallelism? A disagreement that leads to slower code](https://www.reddit.com/r/Python/comments/yw3meg/who_controls_parallelism_a_disagreement_that/)
 <!-- BLOG-POST-LIST:END -->
