@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Wanna share an interesting tutorial on accelerating Python programs](https://www.reddit.com/r/Python/comments/yvrovm/wanna_share_an_interesting_tutorial_on/)
-- [Unpopular Opinion: Pycharm is far overrated, and Vs code is fast, has great autocomplete, and is much less bloated!](https://www.reddit.com/r/Python/comments/yvqawd/unpopular_opinion_pycharm_is_far_overrated_and_vs/)
-- [Given an m x n matrix, return all elements of the matrix in Spiral order.](https://www.reddit.com/r/Python/comments/yvq2yw/given_an_m_x_n_matrix_return_all_elements_of_the/)
-- [Made the first step towards a fun coding project](https://www.reddit.com/r/Python/comments/yvo9zv/made_the_first_step_towards_a_fun_coding_project/)
-- [How to handle version control for beginner developers?](https://www.reddit.com/r/Python/comments/yvka8l/how_to_handle_version_control_for_beginner/)
+- [Extract Data Using Python : Web Scraping Instagram](https://www.reddit.com/r/Python/comments/yvt2jt/extract_data_using_python_web_scraping_instagram/)
+- [Top 10 Python applications in the real world](https://www.reddit.com/r/Python/comments/yvsvgd/top_10_python_applications_in_the_real_world/)
+- [Python Lambda Function](https://www.reddit.com/r/Python/comments/yvshr1/python_lambda_function/)
+- [Few Days of trying!!!](https://www.reddit.com/r/Python/comments/yvsgx6/few_days_of_trying/)
+- [How to do a t-test in Python?](https://www.reddit.com/r/Python/comments/yvs7wd/how_to_do_a_ttest_in_python/)
 <!-- BLOG-POST-LIST:END -->
