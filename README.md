@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I spent 4 years developing a search engine just for food and finally launched the first-ever realtime menu API for almost all restaurants and grocery stores in the US+Canada](https://www.reddit.com/r/Python/comments/yx1llr/i_spent_4_years_developing_a_search_engine_just/)
+- [Paolo Melchiorre - Intervista Pythonista - Ep 31](https://www.reddit.com/r/Python/comments/yx1iyp/paolo_melchiorre_intervista_pythonista_ep_31/)
+- [Open Python job stats](https://www.reddit.com/r/Python/comments/yx0lea/open_python_job_stats/)
 - [Create Your OWN Programming Language! EP 1 - The Lexer](https://www.reddit.com/r/Python/comments/ywzc71/create_your_own_programming_language_ep_1_the/)
 - [iOS or android?](https://www.reddit.com/r/Python/comments/ywyxke/ios_or_android/)
-- [Develop your pipelines as code with the Dagger Python SDK](https://www.reddit.com/r/Python/comments/ywy58n/develop_your_pipelines_as_code_with_the_dagger/)
-- [Need feedback/help for my GitHub repository where I post simple python programs.](https://www.reddit.com/r/Python/comments/ywxa2m/need_feedbackhelp_for_my_github_repository_where/)
-- [PROGRAMA HELP](https://www.reddit.com/r/Python/comments/ywuhbn/programa_help/)
 <!-- BLOG-POST-LIST:END -->
