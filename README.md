@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas &quot;sort_values&quot; not Updating data , working on VScode](https://www.reddit.com/r/Python/comments/yx1s7q/pandas_sort_values_not_updating_data_working_on/)
 - [I spent 4 years developing a search engine just for food and finally launched the first-ever realtime menu API for almost all restaurants and grocery stores in the US+Canada](https://www.reddit.com/r/Python/comments/yx1llr/i_spent_4_years_developing_a_search_engine_just/)
 - [Paolo Melchiorre - Intervista Pythonista - Ep 31](https://www.reddit.com/r/Python/comments/yx1iyp/paolo_melchiorre_intervista_pythonista_ep_31/)
 - [Open Python job stats](https://www.reddit.com/r/Python/comments/yx0lea/open_python_job_stats/)
 - [Create Your OWN Programming Language! EP 1 - The Lexer](https://www.reddit.com/r/Python/comments/ywzc71/create_your_own_programming_language_ep_1_the/)
-- [iOS or android?](https://www.reddit.com/r/Python/comments/ywyxke/ios_or_android/)
 <!-- BLOG-POST-LIST:END -->
