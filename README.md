@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why the Flake8 repo was moved from gitlab to GitHub](https://www.reddit.com/r/Python/comments/yx86cy/why_the_flake8_repo_was_moved_from_gitlab_to/)
 - [Guide to my way of setting up an up-to-standards Python dev environment; safe, isolated, consistent/reproducible, and very friendly to today&#39;s container-based infrastructures](https://www.reddit.com/r/Python/comments/yx764z/guide_to_my_way_of_setting_up_an_uptostandards/)
 - [json downloder.](https://www.reddit.com/r/Python/comments/yx66iz/json_downloder/)
 - [I spent 4 years developing a search engine just for food and finally launched the first-ever realtime menu API for almost all restaurants and grocery stores in the US+Canada](https://www.reddit.com/r/Python/comments/yx1llr/i_spent_4_years_developing_a_search_engine_just/)
 - [Paolo Melchiorre - Intervista Pythonista - Ep 31](https://www.reddit.com/r/Python/comments/yx1iyp/paolo_melchiorre_intervista_pythonista_ep_31/)
-- [Open Python job stats](https://www.reddit.com/r/Python/comments/yx0lea/open_python_job_stats/)
 <!-- BLOG-POST-LIST:END -->
