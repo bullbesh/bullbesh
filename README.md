@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [can you suggest a book for Ai and ML in python?](https://www.reddit.com/r/Python/comments/ywh17o/can_you_suggest_a_book_for_ai_and_ml_in_python/)
 - [In your opinion, which is a better Python based CMS and why? Django CMS or Wagtail?](https://www.reddit.com/r/Python/comments/ywg9qh/in_your_opinion_which_is_a_better_python_based/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/ywdu6t/wednesday_daily_thread_beginner_questions/)
 - [Parallel Nested For-Loops in Python](https://www.reddit.com/r/Python/comments/ywcgwl/parallel_nested_forloops_in_python/)
 - [An open source ML model registry called modelstore](https://www.reddit.com/r/Python/comments/yw8xje/an_open_source_ml_model_registry_called_modelstore/)
+- [I&#39;ve made a Fluent Password Checker App using CustomTkinter and Mica Theme](https://www.reddit.com/r/Python/comments/yw7w7e/ive_made_a_fluent_password_checker_app_using/)
 <!-- BLOG-POST-LIST:END -->
