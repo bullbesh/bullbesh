@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Does anyone have experience with adobe analytics api 2.0?](https://www.reddit.com/r/Python/comments/yxha3z/does_anyone_have_experience_with_adobe_analytics/)
-- [Kivy won&#39;t install](https://www.reddit.com/r/Python/comments/yxgjmu/kivy_wont_install/)
-- [Supply Chain Uses Cases](https://www.reddit.com/r/Python/comments/yxfokn/supply_chain_uses_cases/)
+- [data=[ {&quot;dsi&quot;:&#39;abc&#39;,&#39;asv&#39;:&#39;uk1&#39;}, {&quot;dsi&quot;:&#39;abc&#39;,&#39;asv&#39;:&#39;uk1&#39;}, {&#39;dsi&#39;:&#39;test&#39;,&#39;asv&#39;:&#39;us1&#39;}, {&#39;dsi&#39;:&#39;test&#39;,&#39;asv&#39;:&#39;us2&#39;} ] required output [{&quot;dsi&quot;:&#39;abc&#39;,&#39;asv&#39;:&#39;uk1&#39;}, {&#39;dsi&#39;:&#39;test&#39;,&#39;asv&#39;:[&#39;us1&#39;,&#39;us2&#39;]}]. I failed to get required output anyone does pls share code](https://www.reddit.com/r/Python/comments/yxive0/data_dsiabcasvuk1_dsiabcasvuk1_dsitestasvus1/)
 - [Python package to turn any server into a serverless platform](https://www.reddit.com/r/Python/comments/yxcexk/python_package_to_turn_any_server_into_a/)
-- [Split up JSON file into multiple csv files as preparation for loading into Teradata tables](https://www.reddit.com/r/Python/comments/yxc0sk/split_up_json_file_into_multiple_csv_files_as/)
+- [What&#39;s New In Python 3.12 — Python 3.12.0a2 released](https://www.reddit.com/r/Python/comments/yxbghd/whats_new_in_python_312_python_3120a2_released/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/yxakdp/thursday_daily_thread_python_careers_courses_and/)
+- [Why the Flake8 repo was moved from gitlab to GitHub](https://www.reddit.com/r/Python/comments/yx86cy/why_the_flake8_repo_was_moved_from_gitlab_to/)
 <!-- BLOG-POST-LIST:END -->
