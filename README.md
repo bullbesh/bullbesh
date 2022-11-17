@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [RTFormer : Real-Time Semantic Segmentation with Transformer Implemented by Python &lpar;NeurIPS 2022&rpar;](https://www.reddit.com/r/Python/comments/yxpb0m/rtformer_realtime_semantic_segmentation_with/)
+- [Want to get started quickly with image classification? The bulk labeling technique can also be applied to computer vision](https://www.reddit.com/r/Python/comments/yxog4l/want_to_get_started_quickly_with_image/)
 - [Is it possible to change the python syntax through declarations to do away with the whole whitespace nonsense ?](https://www.reddit.com/r/Python/comments/yxl1t9/is_it_possible_to_change_the_python_syntax/)
 - [A open source vim cheatsheet](https://www.reddit.com/r/Python/comments/yxkk2c/a_open_source_vim_cheatsheet/)
 - [Python.NET 3.0.0 Released](https://www.reddit.com/r/Python/comments/yxkik3/pythonnet_300_released/)
-- [data=[ {&quot;dsi&quot;:&#39;abc&#39;,&#39;asv&#39;:&#39;uk1&#39;}, {&quot;dsi&quot;:&#39;abc&#39;,&#39;asv&#39;:&#39;uk1&#39;}, {&#39;dsi&#39;:&#39;test&#39;,&#39;asv&#39;:&#39;us1&#39;}, {&#39;dsi&#39;:&#39;test&#39;,&#39;asv&#39;:&#39;us2&#39;} ] required output [{&quot;dsi&quot;:&#39;abc&#39;,&#39;asv&#39;:&#39;uk1&#39;}, {&#39;dsi&#39;:&#39;test&#39;,&#39;asv&#39;:[&#39;us1&#39;,&#39;us2&#39;]}]. I failed to get required output anyone does pls share code](https://www.reddit.com/r/Python/comments/yxive0/data_dsiabcasvuk1_dsiabcasvuk1_dsitestasvus1/)
-- [Python package to turn any server into a serverless platform](https://www.reddit.com/r/Python/comments/yxcexk/python_package_to_turn_any_server_into_a/)
 <!-- BLOG-POST-LIST:END -->
