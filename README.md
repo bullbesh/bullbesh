@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to connect to BigQuery with Python](https://www.reddit.com/r/Python/comments/yxuska/how_to_connect_to_bigquery_with_python/)
 - [Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 2 – Real Python](https://www.reddit.com/r/Python/comments/yxt5ou/python_rest_apis_with_flask_connexion_and/)
 - [Really Simple Github Chat with rooms using WebSockets pub/sub &lt;3](https://www.reddit.com/r/Python/comments/yxsd2m/really_simple_github_chat_with_rooms_using/)
 - [Google Forms submitter](https://www.reddit.com/r/Python/comments/yxrhng/google_forms_submitter/)
 - [Infosys leaked FullAdminAccess AWS keys on PyPi for over a year](https://www.reddit.com/r/Python/comments/yxqwf5/infosys_leaked_fulladminaccess_aws_keys_on_pypi/)
-- [Semantic Code Search — fully local &amp; open source code search using SentenceTransformers](https://www.reddit.com/r/Python/comments/yxqpue/semantic_code_search_fully_local_open_source_code/)
 <!-- BLOG-POST-LIST:END -->
