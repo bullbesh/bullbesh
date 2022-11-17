@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [multiprocessing vs multithreading for control of 100 android devices](https://www.reddit.com/r/Python/comments/yy4hdf/multiprocessing_vs_multithreading_for_control_of/)
+- [Multiprocessing Race Conditions in Python](https://www.reddit.com/r/Python/comments/yy3n40/multiprocessing_race_conditions_in_python/)
 - [Change your Jupyter&#39;s theme if you are bored of the default theme](https://www.reddit.com/r/Python/comments/yy1d6f/change_your_jupyters_theme_if_you_are_bored_of/)
 - [Interpreter and compiler | Difference between Interpreter and Compiler | Python Interpreter](https://www.reddit.com/r/Python/comments/yxzfnw/interpreter_and_compiler_difference_between/)
 - [MonoBox: a lightweight music player that can stream songs from your computer&#39;s local library to your phone&#39;s app](https://www.reddit.com/r/Python/comments/yxz6at/monobox_a_lightweight_music_player_that_can/)
-- [Runit-cli: Command line tool to manage your runit projects](https://www.reddit.com/r/Python/comments/yxyst3/runitcli_command_line_tool_to_manage_your_runit/)
-- [Simple labyrinth text game &lpar;Beginner in Python&rpar; **EDITED**](https://www.reddit.com/r/Python/comments/yxym60/simple_labyrinth_text_game_beginner_in_python/)
 <!-- BLOG-POST-LIST:END -->
