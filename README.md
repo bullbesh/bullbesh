@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Change your Jupyter&#39;s theme if you are bored of the default theme](https://www.reddit.com/r/Python/comments/yy1d6f/change_your_jupyters_theme_if_you_are_bored_of/)
-- [I&#39;m creating a way to build proof of concepts visually](https://www.reddit.com/r/Python/comments/yy00mu/im_creating_a_way_to_build_proof_of_concepts/)
 - [Interpreter and compiler | Difference between Interpreter and Compiler | Python Interpreter](https://www.reddit.com/r/Python/comments/yxzfnw/interpreter_and_compiler_difference_between/)
 - [MonoBox: a lightweight music player that can stream songs from your computer&#39;s local library to your phone&#39;s app](https://www.reddit.com/r/Python/comments/yxz6at/monobox_a_lightweight_music_player_that_can/)
 - [Runit-cli: Command line tool to manage your runit projects](https://www.reddit.com/r/Python/comments/yxyst3/runitcli_command_line_tool_to_manage_your_runit/)
+- [Simple labyrinth text game &lpar;Beginner in Python&rpar; **EDITED**](https://www.reddit.com/r/Python/comments/yxym60/simple_labyrinth_text_game_beginner_in_python/)
 <!-- BLOG-POST-LIST:END -->
