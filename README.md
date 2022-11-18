@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Low-code tools with Python as first class citizen](https://www.reddit.com/r/Python/comments/yyqrx8/lowcode_tools_with_python_as_first_class_citizen/)
+- [What&#39;s the most challenging thing in learning Python online?](https://www.reddit.com/r/Python/comments/yyqa7d/whats_the_most_challenging_thing_in_learning/)
 - [Code that doesn&#39;t work from the first time](https://www.reddit.com/r/Python/comments/yypbno/code_that_doesnt_work_from_the_first_time/)
 - [What insights have you had about refactoring in Python?](https://www.reddit.com/r/Python/comments/yyp97e/what_insights_have_you_had_about_refactoring_in/)
 - [A gallery of often used math functions made with matplotlib](https://www.reddit.com/r/Python/comments/yyn2cx/a_gallery_of_often_used_math_functions_made_with/)
-- [Reading from a JSON file 5000x faster with DictDataBase](https://www.reddit.com/r/Python/comments/yymhhx/reading_from_a_json_file_5000x_faster_with/)
-- [How to do cohort analysis in Python](https://www.reddit.com/r/Python/comments/yymbzs/how_to_do_cohort_analysis_in_python/)
 <!-- BLOG-POST-LIST:END -->
