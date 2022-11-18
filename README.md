@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pet project: automatically rewriting Jupyter Notebooks to improve performance - using semantic analysis and dynamic profiling](https://www.reddit.com/r/Python/comments/yyfa33/pet_project_automatically_rewriting_jupyter/)
 - [The Minion Game: Hackerrank Solution in python.](https://www.reddit.com/r/Python/comments/yyesa9/the_minion_game_hackerrank_solution_in_python/)
 - [ShyySH: a TUI connection manager for SSH](https://www.reddit.com/r/Python/comments/yybwff/shyysh_a_tui_connection_manager_for_ssh/)
 - [Multiprocessing Race Conditions in Python](https://www.reddit.com/r/Python/comments/yy3n40/multiprocessing_race_conditions_in_python/)
 - [Change your Jupyter&#39;s theme if you are bored of the default theme](https://www.reddit.com/r/Python/comments/yy1d6f/change_your_jupyters_theme_if_you_are_bored_of/)
-- [Interpreter and compiler | Difference between Interpreter and Compiler | Python Interpreter](https://www.reddit.com/r/Python/comments/yxzfnw/interpreter_and_compiler_difference_between/)
 <!-- BLOG-POST-LIST:END -->
