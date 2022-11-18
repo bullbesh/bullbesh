@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ShyySH: a TUI connection manager for SSH](https://www.reddit.com/r/Python/comments/yybwff/shyysh_a_tui_connection_manager_for_ssh/)
 - [Multiprocessing Race Conditions in Python](https://www.reddit.com/r/Python/comments/yy3n40/multiprocessing_race_conditions_in_python/)
 - [Change your Jupyter&#39;s theme if you are bored of the default theme](https://www.reddit.com/r/Python/comments/yy1d6f/change_your_jupyters_theme_if_you_are_bored_of/)
 - [Interpreter and compiler | Difference between Interpreter and Compiler | Python Interpreter](https://www.reddit.com/r/Python/comments/yxzfnw/interpreter_and_compiler_difference_between/)
 - [MonoBox: a lightweight music player that can stream songs from your computer&#39;s local library to your phone&#39;s app](https://www.reddit.com/r/Python/comments/yxz6at/monobox_a_lightweight_music_player_that_can/)
-- [Runit-cli: Command line tool to manage your runit projects](https://www.reddit.com/r/Python/comments/yxyst3/runitcli_command_line_tool_to_manage_your_runit/)
 <!-- BLOG-POST-LIST:END -->
