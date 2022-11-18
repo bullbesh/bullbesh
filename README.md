@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Python Mega Course is now free on Udemy](https://www.reddit.com/r/Python/comments/yyi6xv/the_python_mega_course_is_now_free_on_udemy/)
+- [The Definitive Guide To Sitemaps With Python](https://www.reddit.com/r/Python/comments/yyi2fv/the_definitive_guide_to_sitemaps_with_python/)
 - [Simple notifications for MacOS with callback support.](https://www.reddit.com/r/Python/comments/yygbfq/simple_notifications_for_macos_with_callback/)
 - [Pet project: automatically rewriting Jupyter Notebooks to improve performance - using semantic analysis and dynamic profiling](https://www.reddit.com/r/Python/comments/yyfa33/pet_project_automatically_rewriting_jupyter/)
 - [The Minion Game: Hackerrank Solution in python.](https://www.reddit.com/r/Python/comments/yyesa9/the_minion_game_hackerrank_solution_in_python/)
-- [ShyySH: a TUI connection manager for SSH](https://www.reddit.com/r/Python/comments/yybwff/shyysh_a_tui_connection_manager_for_ssh/)
-- [Multiprocessing Race Conditions in Python](https://www.reddit.com/r/Python/comments/yy3n40/multiprocessing_race_conditions_in_python/)
 <!-- BLOG-POST-LIST:END -->
