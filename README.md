@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to handle document similarity while fetching the data from different sources.](https://www.reddit.com/r/Python/comments/yzac4f/how_to_handle_document_similarity_while_fetching/)
+- [I made my first program, a password generator.](https://www.reddit.com/r/Python/comments/yz9z7j/i_made_my_first_program_a_password_generator/)
+- [Easily automate your lights with Python,Mqtt and Zigbee](https://www.reddit.com/r/Python/comments/yz9tun/easily_automate_your_lights_with_pythonmqtt_and/)
 - [Tuples | Tuples in Python](https://www.reddit.com/r/Python/comments/yz9d1o/tuples_tuples_in_python/)
 - [What does this piece of code do?](https://www.reddit.com/r/Python/comments/yz8j1i/what_does_this_piece_of_code_do/)
-- [Pitfall: returning generators from with statements](https://www.reddit.com/r/Python/comments/yz6c1j/pitfall_returning_generators_from_with_statements/)
-- [A from-scratch tour of Bitcoin in Python](https://www.reddit.com/r/Python/comments/yz66uv/a_fromscratch_tour_of_bitcoin_in_python/)
-- [Ray - Way Forward For True Multithreaded and Distributed Programming](https://www.reddit.com/r/Python/comments/yz41pt/ray_way_forward_for_true_multithreaded_and/)
 <!-- BLOG-POST-LIST:END -->
