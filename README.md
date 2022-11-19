@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What does this piece of code do?](https://www.reddit.com/r/Python/comments/yz8j1i/what_does_this_piece_of_code_do/)
 - [Pitfall: returning generators from with statements](https://www.reddit.com/r/Python/comments/yz6c1j/pitfall_returning_generators_from_with_statements/)
 - [A from-scratch tour of Bitcoin in Python](https://www.reddit.com/r/Python/comments/yz66uv/a_fromscratch_tour_of_bitcoin_in_python/)
 - [Ray - Way Forward For True Multithreaded and Distributed Programming](https://www.reddit.com/r/Python/comments/yz41pt/ray_way_forward_for_true_multithreaded_and/)
 - [There is BFD Sale on Udemy. Python Courses on Udemy Worth it?](https://www.reddit.com/r/Python/comments/yz3h9y/there_is_bfd_sale_on_udemy_python_courses_on/)
-- [Python loops are slow?! Exploring Solutions: Numpy, Cython, and C Extens...](https://www.reddit.com/r/Python/comments/yyyozn/python_loops_are_slow_exploring_solutions_numpy/)
 <!-- BLOG-POST-LIST:END -->
