@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a script that can store any file in an audio or image using steganography](https://www.reddit.com/r/Python/comments/yzfbxf/i_created_a_script_that_can_store_any_file_in_an/)
+- [PrintABook: My FREE app lets you print your own books at home!](https://www.reddit.com/r/Python/comments/yzf18z/printabook_my_free_app_lets_you_print_your_own/)
 - [Issues/Experience with Procrastinate library for distributed tasks](https://www.reddit.com/r/Python/comments/yzd7ys/issuesexperience_with_procrastinate_library_for/)
 - [Best form to evaluate a candidate for a Position - Senior](https://www.reddit.com/r/Python/comments/yzc5ap/best_form_to_evaluate_a_candidate_for_a_position/)
 - [Python software engineer path?](https://www.reddit.com/r/Python/comments/yzb6ss/python_software_engineer_path/)
-- [How to handle document similarity while fetching the data from different sources.](https://www.reddit.com/r/Python/comments/yzac4f/how_to_handle_document_similarity_while_fetching/)
-- [I made my first program, a password generator.](https://www.reddit.com/r/Python/comments/yz9z7j/i_made_my_first_program_a_password_generator/)
 <!-- BLOG-POST-LIST:END -->
