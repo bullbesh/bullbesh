@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/yzpx8g/sunday_daily_thread_whats_everyone_working_on/)
 - [Build API applications with Python](https://www.reddit.com/r/Python/comments/yzoqad/build_api_applications_with_python/)
 - [Positional vs Keyword argument in Python, what&#39;s the difference? [Short YouTube Video]](https://www.reddit.com/r/Python/comments/yzo1yt/positional_vs_keyword_argument_in_python_whats/)
 - [Genja - Generatate HTML files from Markdown files](https://www.reddit.com/r/Python/comments/yzmfjr/genja_generatate_html_files_from_markdown_files/)
 - [How To Create Simple Name Generation Algorithm in Python](https://www.reddit.com/r/Python/comments/yzlico/how_to_create_simple_name_generation_algorithm_in/)
-- [Need input for my puzzle game’s name](https://www.reddit.com/r/Python/comments/yzjo0r/need_input_for_my_puzzle_games_name/)
 <!-- BLOG-POST-LIST:END -->
