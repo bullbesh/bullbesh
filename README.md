@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why doesn&#39;t python return my results in the way &lpar;I believe&rpar; it&#39;s supposed to? How am I doing this wrong, exactly?](https://www.reddit.com/r/Python/comments/z042c2/why_doesnt_python_return_my_results_in_the_way_i/)
+- [Knight covering the entire Chess Board](https://www.reddit.com/r/Python/comments/z03bhu/knight_covering_the_entire_chess_board/)
 - [Comment on inheritance of async classes](https://www.reddit.com/r/Python/comments/z02tjt/comment_on_inheritance_of_async_classes/)
 - [Has anyone actually learned python/coding with getmimo?](https://www.reddit.com/r/Python/comments/z02hr4/has_anyone_actually_learned_pythoncoding_with/)
-- [Python tutorial](https://www.reddit.com/r/Python/comments/z01ozw/python_tutorial/)
-- [How can I take an input such that?](https://www.reddit.com/r/Python/comments/z01mma/how_can_i_take_an_input_such_that/)
 - [I made a command line mp3 player called mpy3!](https://www.reddit.com/r/Python/comments/z00mw4/i_made_a_command_line_mp3_player_called_mpy3/)
 <!-- BLOG-POST-LIST:END -->
