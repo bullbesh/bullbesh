@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Explore Galactica Capabilities](https://www.reddit.com/r/Python/comments/z09dpb/explore_galactica_capabilities/)
 - [&quot;Ai&quot; Color Palette Generator &lpar;Text Propmt&rpar; in under 50 lines of code](https://www.reddit.com/r/Python/comments/z083dd/ai_color_palette_generator_text_propmt_in_under/)
 - [Solving Equations in Ansys Python](https://www.reddit.com/r/Python/comments/z05qph/solving_equations_in_ansys_python/)
 - [Stealing Open Source code from Textual](https://www.reddit.com/r/Python/comments/z055ei/stealing_open_source_code_from_textual/)
 - [How &amp; Why I Built My Very Own Music Player](https://www.reddit.com/r/Python/comments/z04n3g/how_why_i_built_my_very_own_music_player/)
-- [Why doesn&#39;t python return my results in the way &lpar;I believe&rpar; it&#39;s supposed to? How am I doing this wrong, exactly?](https://www.reddit.com/r/Python/comments/z042c2/why_doesnt_python_return_my_results_in_the_way_i/)
 <!-- BLOG-POST-LIST:END -->
