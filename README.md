@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Comment on inheritance of async classes](https://www.reddit.com/r/Python/comments/z02tjt/comment_on_inheritance_of_async_classes/)
+- [Has anyone actually learned python/coding with getmimo?](https://www.reddit.com/r/Python/comments/z02hr4/has_anyone_actually_learned_pythoncoding_with/)
+- [Python tutorial](https://www.reddit.com/r/Python/comments/z01ozw/python_tutorial/)
+- [How can I take an input such that?](https://www.reddit.com/r/Python/comments/z01mma/how_can_i_take_an_input_such_that/)
 - [I made a command line mp3 player called mpy3!](https://www.reddit.com/r/Python/comments/z00mw4/i_made_a_command_line_mp3_player_called_mpy3/)
-- [Showcase : UiDOM an HTML library for creating webpages.](https://www.reddit.com/r/Python/comments/z008ef/showcase_uidom_an_html_library_for_creating/)
-- [Reddit Monitoring with Python](https://www.reddit.com/r/Python/comments/yzzyo8/reddit_monitoring_with_python/)
-- [Analyzing and Creating a Predictive Model for Binance Data](https://www.reddit.com/r/Python/comments/yzzxja/analyzing_and_creating_a_predictive_model_for/)
-- [Got an emails from a company wanting to &quot;reach out&quot;](https://www.reddit.com/r/Python/comments/yzynpg/got_an_emails_from_a_company_wanting_to_reach_out/)
 <!-- BLOG-POST-LIST:END -->
