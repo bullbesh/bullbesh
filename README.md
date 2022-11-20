@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [what would be the Pandas df logic in this case?](https://www.reddit.com/r/Python/comments/z0c5a0/what_would_be_the_pandas_df_logic_in_this_case/)
 - [Would this project be okay to show employers](https://www.reddit.com/r/Python/comments/z0ax6i/would_this_project_be_okay_to_show_employers/)
-- [Explore Galactica Capabilities](https://www.reddit.com/r/Python/comments/z09dpb/explore_galactica_capabilities/)
 - [&quot;Ai&quot; Color Palette Generator &lpar;Text Propmt&rpar; in under 50 lines of code](https://www.reddit.com/r/Python/comments/z083dd/ai_color_palette_generator_text_propmt_in_under/)
-- [Solving Equations in Ansys Python](https://www.reddit.com/r/Python/comments/z05qph/solving_equations_in_ansys_python/)
 - [Stealing Open Source code from Textual](https://www.reddit.com/r/Python/comments/z055ei/stealing_open_source_code_from_textual/)
+- [Comment on inheritance of async classes](https://www.reddit.com/r/Python/comments/z02tjt/comment_on_inheritance_of_async_classes/)
 <!-- BLOG-POST-LIST:END -->
