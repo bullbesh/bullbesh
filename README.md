@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a command line mp3 player called mpy3!](https://www.reddit.com/r/Python/comments/z00mw4/i_made_a_command_line_mp3_player_called_mpy3/)
+- [Showcase : UiDOM an HTML library for creating webpages.](https://www.reddit.com/r/Python/comments/z008ef/showcase_uidom_an_html_library_for_creating/)
+- [Reddit Monitoring with Python](https://www.reddit.com/r/Python/comments/yzzyo8/reddit_monitoring_with_python/)
+- [Analyzing and Creating a Predictive Model for Binance Data](https://www.reddit.com/r/Python/comments/yzzxja/analyzing_and_creating_a_predictive_model_for/)
 - [Got an emails from a company wanting to &quot;reach out&quot;](https://www.reddit.com/r/Python/comments/yzynpg/got_an_emails_from_a_company_wanting_to_reach_out/)
-- [DNS Cache Snooping Tool](https://www.reddit.com/r/Python/comments/yzybti/dns_cache_snooping_tool/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/yzpx8g/sunday_daily_thread_whats_everyone_working_on/)
-- [Build API applications with Python](https://www.reddit.com/r/Python/comments/yzoqad/build_api_applications_with_python/)
-- [Positional vs Keyword argument in Python, what&#39;s the difference? [Short YouTube Video]](https://www.reddit.com/r/Python/comments/yzo1yt/positional_vs_keyword_argument_in_python_whats/)
 <!-- BLOG-POST-LIST:END -->
