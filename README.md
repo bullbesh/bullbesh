@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [List Comprehension in Python Hackerrank Solution](https://www.reddit.com/r/Python/comments/yzxvye/list_comprehension_in_python_hackerrank_solution/)
+- [Got an emails from a company wanting to &quot;reach out&quot;](https://www.reddit.com/r/Python/comments/yzynpg/got_an_emails_from_a_company_wanting_to_reach_out/)
+- [DNS Cache Snooping Tool](https://www.reddit.com/r/Python/comments/yzybti/dns_cache_snooping_tool/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/yzpx8g/sunday_daily_thread_whats_everyone_working_on/)
 - [Build API applications with Python](https://www.reddit.com/r/Python/comments/yzoqad/build_api_applications_with_python/)
 - [Positional vs Keyword argument in Python, what&#39;s the difference? [Short YouTube Video]](https://www.reddit.com/r/Python/comments/yzo1yt/positional_vs_keyword_argument_in_python_whats/)
-- [Genja - Generatate HTML files from Markdown files](https://www.reddit.com/r/Python/comments/yzmfjr/genja_generatate_html_files_from_markdown_files/)
 <!-- BLOG-POST-LIST:END -->
