@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to select Python Developer Interview Questions for hiring Python Developers?](https://www.reddit.com/r/Python/comments/z0svj5/how_to_select_python_developer_interview/)
 - [Fastberry &lpar;FastAPI + Strawberry&rpar;](https://www.reddit.com/r/Python/comments/z0m82g/fastberry_fastapi_strawberry/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/z0jm4w/monday_daily_thread_project_ideas/)
 - [Password Generator](https://www.reddit.com/r/Python/comments/z0ijv6/password_generator/)
 - [Run Pip From The Interactive Shell with pipfromrepl](https://www.reddit.com/r/Python/comments/z0edqb/run_pip_from_the_interactive_shell_with/)
-- [My work uses Powershell/SQL, and I want to learn Python some more, can I have the best of both worlds?](https://www.reddit.com/r/Python/comments/z0divc/my_work_uses_powershellsql_and_i_want_to_learn/)
 <!-- BLOG-POST-LIST:END -->
