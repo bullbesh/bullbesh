@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Pure Python Web Application Solutions Guide Needs a Serious Revamping](https://www.reddit.com/r/Python/comments/z1as35/the_pure_python_web_application_solutions_guide/)
 - [on-done, an IPython/Jupyter cell magic to execute code after a cell succeeds or fails](https://www.reddit.com/r/Python/comments/z10qjx/ondone_an_ipythonjupyter_cell_magic_to_execute/)
 - [Kangas V1 - An open source library for exploring large, multimedia datasets](https://www.reddit.com/r/Python/comments/z10jrz/kangas_v1_an_open_source_library_for_exploring/)
 - [Cloud based IDE alternative to Pycharm](https://www.reddit.com/r/Python/comments/z0zf1p/cloud_based_ide_alternative_to_pycharm/)
 - [Best Data Structures Books | Algorithms Books for Beginners in 2022 -](https://www.reddit.com/r/Python/comments/z0yrtw/best_data_structures_books_algorithms_books_for/)
-- [Sentiment Analysis of Amazon Reviews using Python - NLP](https://www.reddit.com/r/Python/comments/z0yrgp/sentiment_analysis_of_amazon_reviews_using_python/)
 <!-- BLOG-POST-LIST:END -->
