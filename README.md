@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fastberry &lpar;FastAPI + Strawberry&rpar;](https://www.reddit.com/r/Python/comments/z0m82g/fastberry_fastapi_strawberry/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/z0jm4w/monday_daily_thread_project_ideas/)
 - [Password Generator](https://www.reddit.com/r/Python/comments/z0ijv6/password_generator/)
 - [Run Pip From The Interactive Shell with pipfromrepl](https://www.reddit.com/r/Python/comments/z0edqb/run_pip_from_the_interactive_shell_with/)
 - [My work uses Powershell/SQL, and I want to learn Python some more, can I have the best of both worlds?](https://www.reddit.com/r/Python/comments/z0divc/my_work_uses_powershellsql_and_i_want_to_learn/)
-- [ReSR.Scaler - image/video deeplearning upscaler for any GPU &lpar;Real-ESRGAN/Pytorch&rpar;](https://www.reddit.com/r/Python/comments/z0d4eh/resrscaler_imagevideo_deeplearning_upscaler_for/)
 <!-- BLOG-POST-LIST:END -->
