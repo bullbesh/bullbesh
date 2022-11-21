@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sleepless nights to be a coder](https://www.reddit.com/r/Python/comments/z10011/sleepless_nights_to_be_a_coder/)
+- [Cloud based IDE alternative to Pycharm](https://www.reddit.com/r/Python/comments/z0zf1p/cloud_based_ide_alternative_to_pycharm/)
 - [SWIRL SEARCH Webinar *TODAY*](https://www.reddit.com/r/Python/comments/z0ywjd/swirl_search_webinar_today/)
 - [Best Data Structures Books | Algorithms Books for Beginners in 2022 -](https://www.reddit.com/r/Python/comments/z0yrtw/best_data_structures_books_algorithms_books_for/)
 - [Sentiment Analysis of Amazon Reviews using Python - NLP](https://www.reddit.com/r/Python/comments/z0yrgp/sentiment_analysis_of_amazon_reviews_using_python/)
-- [GitHub - abstra-app/hackerforms-lib: Hackerforms Library](https://www.reddit.com/r/Python/comments/z0ypif/github_abstraapphackerformslib_hackerforms_library/)
-- [Python Cheatsheet](https://www.reddit.com/r/Python/comments/z0ydjo/python_cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
