@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [My first project - logger_lib](https://www.reddit.com/r/Python/comments/z0xm4o/my_first_project_logger_lib/)
-- [Memory Profiling for Python](https://www.reddit.com/r/Python/comments/z0x3v4/memory_profiling_for_python/)
-- [Software Engineering And Entrepreneurship - PyBites podcast](https://www.reddit.com/r/Python/comments/z0x25r/software_engineering_and_entrepreneurship_pybites/)
-- [Whitebox is an open source E2E ML monitoring platform that plays nicely with kubernetes and has a great logo! Think of it as MLflow for production metrics. Still in early dev. Stars appreciated.](https://www.reddit.com/r/Python/comments/z0upjo/whitebox_is_an_open_source_e2e_ml_monitoring/)
-- [How to select Python Developer Interview Questions for hiring Python Developers?](https://www.reddit.com/r/Python/comments/z0svj5/how_to_select_python_developer_interview/)
+- [SWIRL SEARCH Webinar *TODAY*](https://www.reddit.com/r/Python/comments/z0ywjd/swirl_search_webinar_today/)
+- [Best Data Structures Books | Algorithms Books for Beginners in 2022 -](https://www.reddit.com/r/Python/comments/z0yrtw/best_data_structures_books_algorithms_books_for/)
+- [Sentiment Analysis of Amazon Reviews using Python - NLP](https://www.reddit.com/r/Python/comments/z0yrgp/sentiment_analysis_of_amazon_reviews_using_python/)
+- [GitHub - abstra-app/hackerforms-lib: Hackerforms Library](https://www.reddit.com/r/Python/comments/z0ypif/github_abstraapphackerformslib_hackerforms_library/)
+- [Python Cheatsheet](https://www.reddit.com/r/Python/comments/z0ydjo/python_cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
