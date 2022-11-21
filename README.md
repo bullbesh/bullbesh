@@ -12,5 +12,5 @@
 - [on-done, an IPython/Jupyter cell magic to execute code after a cell succeeds or fails](https://www.reddit.com/r/Python/comments/z10qjx/ondone_an_ipythonjupyter_cell_magic_to_execute/)
 - [Kangas V1 - An open source library for exploring large, multimedia datasets](https://www.reddit.com/r/Python/comments/z10jrz/kangas_v1_an_open_source_library_for_exploring/)
 - [I’m having trouble](https://www.reddit.com/r/Python/comments/z10fv7/im_having_trouble/)
-- [Sleepless nights to be a coder](https://www.reddit.com/r/Python/comments/z10011/sleepless_nights_to_be_a_coder/)
+- [Cloud based IDE alternative to Pycharm](https://www.reddit.com/r/Python/comments/z0zf1p/cloud_based_ide_alternative_to_pycharm/)
 <!-- BLOG-POST-LIST:END -->
