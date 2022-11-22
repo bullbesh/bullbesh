@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What code editor are you using?](https://www.reddit.com/r/Python/comments/z1x7g1/what_code_editor_are_you_using/)
+- [Scam detection bot with PRAW and bit ML!](https://www.reddit.com/r/Python/comments/z1wt4c/scam_detection_bot_with_praw_and_bit_ml/)
 - [This doesn&#39;t feel very pythonesque to me](https://www.reddit.com/r/Python/comments/z1w1d6/this_doesnt_feel_very_pythonesque_to_me/)
-- [Python Help!! beautifulSoup](https://www.reddit.com/r/Python/comments/z1vf1x/python_help_beautifulsoup/)
 - [Vent: I&#39;m tired of the 1001 libraries of virtual environments.](https://www.reddit.com/r/Python/comments/z1v0f1/vent_im_tired_of_the_1001_libraries_of_virtual/)
 - [Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 3 – Real Python](https://www.reddit.com/r/Python/comments/z1utsv/python_rest_apis_with_flask_connexion_and/)
-- [CI / CD Testing diff](https://www.reddit.com/r/Python/comments/z1ujk6/ci_cd_testing_diff/)
 <!-- BLOG-POST-LIST:END -->
