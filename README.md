@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [CI / CD Testing diff](https://www.reddit.com/r/Python/comments/z1ujk6/ci_cd_testing_diff/)
+- [Help!](https://www.reddit.com/r/Python/comments/z1u3p8/help/)
+- [Branch naming convention](https://www.reddit.com/r/Python/comments/z1tx2b/branch_naming_convention/)
+- [I built an app that scans every social media network for your username](https://www.reddit.com/r/Python/comments/z1ts1n/i_built_an_app_that_scans_every_social_media/)
 - [Deploying Python web apps as AWS Lambda functions](https://www.reddit.com/r/Python/comments/z1td34/deploying_python_web_apps_as_aws_lambda_functions/)
-- [How to Build a Data Science Portfolio](https://www.reddit.com/r/Python/comments/z1sudv/how_to_build_a_data_science_portfolio/)
-- [Semantic Search with SQLite](https://www.reddit.com/r/Python/comments/z1qgdl/semantic_search_with_sqlite/)
-- [Roadmapper - open source Roadmap as Code &lpar;RaC&rpar; python library](https://www.reddit.com/r/Python/comments/z1osxx/roadmapper_open_source_roadmap_as_code_rac_python/)
-- [Has anyone else noticed that pypi seems to be adding a lot of new packages?](https://www.reddit.com/r/Python/comments/z1oi4o/has_anyone_else_noticed_that_pypi_seems_to_be/)
 <!-- BLOG-POST-LIST:END -->
