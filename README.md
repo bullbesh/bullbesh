@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [This doesn&#39;t feel very pythonesque to me](https://www.reddit.com/r/Python/comments/z1w1d6/this_doesnt_feel_very_pythonesque_to_me/)
+- [Python Help!! beautifulSoup](https://www.reddit.com/r/Python/comments/z1vf1x/python_help_beautifulsoup/)
+- [Vent: I&#39;m tired of the 1001 libraries of virtual environments.](https://www.reddit.com/r/Python/comments/z1v0f1/vent_im_tired_of_the_1001_libraries_of_virtual/)
+- [Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 3 – Real Python](https://www.reddit.com/r/Python/comments/z1utsv/python_rest_apis_with_flask_connexion_and/)
 - [CI / CD Testing diff](https://www.reddit.com/r/Python/comments/z1ujk6/ci_cd_testing_diff/)
-- [Help!](https://www.reddit.com/r/Python/comments/z1u3p8/help/)
-- [Branch naming convention](https://www.reddit.com/r/Python/comments/z1tx2b/branch_naming_convention/)
-- [I built an app that scans every social media network for your username](https://www.reddit.com/r/Python/comments/z1ts1n/i_built_an_app_that_scans_every_social_media/)
-- [Deploying Python web apps as AWS Lambda functions](https://www.reddit.com/r/Python/comments/z1td34/deploying_python_web_apps_as_aws_lambda_functions/)
 <!-- BLOG-POST-LIST:END -->
