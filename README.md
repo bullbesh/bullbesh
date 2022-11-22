@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Most Trending Opensource MLOps Tools of 2022 - Majorly python written](https://www.reddit.com/r/Python/comments/z1odl5/5_most_trending_opensource_mlops_tools_of_2022/)
+- [Made a little web scraper for crypto price that can send you emails of your favorite cryptos](https://www.reddit.com/r/Python/comments/z1ny8j/made_a_little_web_scraper_for_crypto_price_that/)
+- [Spellings, Grammer checker for code](https://www.reddit.com/r/Python/comments/z1nd5u/spellings_grammer_checker_for_code/)
 - [Implement Custom Deep-Learning Model Into The Flask App For Image Recognition](https://www.reddit.com/r/Python/comments/z1naej/implement_custom_deeplearning_model_into_the/)
 - [I made a cursed library that lets you write bytecode with cat kaomojis &lpar;^・ω・^ &rpar;](https://www.reddit.com/r/Python/comments/z1gf6k/i_made_a_cursed_library_that_lets_you_write/)
-- [How to run &gt;100k Python tests in &lt;5 minutes with Tox and GitHub Actions](https://www.reddit.com/r/Python/comments/z1evcd/how_to_run_100k_python_tests_in_5_minutes_with/)
-- [Machine Learning at Reasonable Scale with Ciro Greco &lpar;ex-VP of AI at Coveo&rpar; and Jacopo Tagliabue &lpar;ex-Director of AI at Coveo and father of Reasonable Scale MLOps&rpar;](https://www.reddit.com/r/Python/comments/z1ep8s/machine_learning_at_reasonable_scale_with_ciro/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/z1emof/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
