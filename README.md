@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - kutoga/yapsl: Yet another python sms library](https://www.reddit.com/r/Python/comments/z2icjs/github_kutogayapsl_yet_another_python_sms_library/)
+- [Digital filter](https://www.reddit.com/r/Python/comments/z2ibn0/digital_filter/)
+- [Bulk rename script for Gopro files](https://www.reddit.com/r/Python/comments/z2i4wy/bulk_rename_script_for_gopro_files/)
 - [My First Fluid Simulator! &lpar;slower if add more particles&rpar;](https://www.reddit.com/r/Python/comments/z2fkzd/my_first_fluid_simulator_slower_if_add_more/)
 - [DApp API with FastAPI [Backend Blueprint]](https://www.reddit.com/r/Python/comments/z2cxfw/dapp_api_with_fastapi_backend_blueprint/)
-- [Building “CoreTable” and the Our World in Data “Data Explorer”](https://www.reddit.com/r/Python/comments/z2bjmk/building_coretable_and_the_our_world_in_data_data/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/z29ilo/wednesday_daily_thread_beginner_questions/)
-- [2D Coordinate Utilities](https://www.reddit.com/r/Python/comments/z26rdm/2d_coordinate_utilities/)
 <!-- BLOG-POST-LIST:END -->
