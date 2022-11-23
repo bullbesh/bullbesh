@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [DApp API with FastAPI [Backend Blueprint]](https://www.reddit.com/r/Python/comments/z2cxfw/dapp_api_with_fastapi_backend_blueprint/)
+- [Can you please help me out to come up with a road map/ code architecture to create a program for this task?](https://www.reddit.com/r/Python/comments/z2cw34/can_you_please_help_me_out_to_come_up_with_a_road/)
 - [Building “CoreTable” and the Our World in Data “Data Explorer”](https://www.reddit.com/r/Python/comments/z2bjmk/building_coretable_and_the_our_world_in_data_data/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/z29ilo/wednesday_daily_thread_beginner_questions/)
 - [Python word guessing game](https://www.reddit.com/r/Python/comments/z296me/python_word_guessing_game/)
-- [2D Coordinate Utilities](https://www.reddit.com/r/Python/comments/z26rdm/2d_coordinate_utilities/)
-- [Auto-provision cloud infrastructure](https://www.reddit.com/r/Python/comments/z25ks8/autoprovision_cloud_infrastructure/)
 <!-- BLOG-POST-LIST:END -->
