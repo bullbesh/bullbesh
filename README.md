@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Absolute Beginner made &quot;Mad Libs&quot; style game.](https://www.reddit.com/r/Python/comments/z2o595/absolute_beginner_made_mad_libs_style_game/)
 - [Krptn: Zero Knowledge security for Python Webapps](https://www.reddit.com/r/Python/comments/z2o0on/krptn_zero_knowledge_security_for_python_webapps/)
 - [python for loop](https://www.reddit.com/r/Python/comments/z2mz5z/python_for_loop/)
 - [7 Useful Python Libraries You Should Use in Your Next Project](https://www.reddit.com/r/Python/comments/z2mu31/7_useful_python_libraries_you_should_use_in_your/)
 - [I created an A.I. that turns reliable crypto news on the internet into short tweets.](https://www.reddit.com/r/Python/comments/z2ll8l/i_created_an_ai_that_turns_reliable_crypto_news/)
-- [What are some easy WFH jobs that can be mostly automated with python?](https://www.reddit.com/r/Python/comments/z2l09z/what_are_some_easy_wfh_jobs_that_can_be_mostly/)
 <!-- BLOG-POST-LIST:END -->
