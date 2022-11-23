@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python coder using scratch!](https://www.reddit.com/r/Python/comments/z2xfmi/python_coder_using_scratch/)
+- [Help! infinite while loop and how to break it](https://www.reddit.com/r/Python/comments/z2x2f6/help_infinite_while_loop_and_how_to_break_it/)
 - [Numpy Cheatsheet](https://www.reddit.com/r/Python/comments/z2vfji/numpy_cheatsheet/)
 - [Father of Python, Guido van Rossum Talk to Weezer&#39;s Rivers Cuomo](https://www.reddit.com/r/Python/comments/z2uo5z/father_of_python_guido_van_rossum_talk_to_weezers/)
 - [Anyone Knows how to fix this?](https://www.reddit.com/r/Python/comments/z2udv7/anyone_knows_how_to_fix_this/)
-- [I made a Telegram Bot which sends you alerts from command line or from a Python module!](https://www.reddit.com/r/Python/comments/z2tony/i_made_a_telegram_bot_which_sends_you_alerts_from/)
-- [Meet FastExcel, the fastest excel reader wrote in rust with a python binding.](https://www.reddit.com/r/Python/comments/z2thpb/meet_fastexcel_the_fastest_excel_reader_wrote_in/)
 <!-- BLOG-POST-LIST:END -->
