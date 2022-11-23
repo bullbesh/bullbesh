@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FREE Udemy Course With Certificate](https://www.reddit.com/r/Python/comments/z2kgar/free_udemy_course_with_certificate/)
+- [Tutorial for subscribing to MQTT topics with Python and Paho.](https://www.reddit.com/r/Python/comments/z2jr2w/tutorial_for_subscribing_to_mqtt_topics_with/)
 - [GitHub - kutoga/yapsl: Yet another python sms library](https://www.reddit.com/r/Python/comments/z2icjs/github_kutogayapsl_yet_another_python_sms_library/)
 - [Digital filter](https://www.reddit.com/r/Python/comments/z2ibn0/digital_filter/)
 - [Bulk rename script for Gopro files](https://www.reddit.com/r/Python/comments/z2i4wy/bulk_rename_script_for_gopro_files/)
-- [My First Fluid Simulator! &lpar;slower if add more particles&rpar;](https://www.reddit.com/r/Python/comments/z2fkzd/my_first_fluid_simulator_slower_if_add_more/)
-- [DApp API with FastAPI [Backend Blueprint]](https://www.reddit.com/r/Python/comments/z2cxfw/dapp_api_with_fastapi_backend_blueprint/)
 <!-- BLOG-POST-LIST:END -->
