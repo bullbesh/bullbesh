@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created an A.I. that turns reliable crypto news on the internet into short tweets.](https://www.reddit.com/r/Python/comments/z2ll8l/i_created_an_ai_that_turns_reliable_crypto_news/)
 - [What are some easy WFH jobs that can be mostly automated with python?](https://www.reddit.com/r/Python/comments/z2l09z/what_are_some_easy_wfh_jobs_that_can_be_mostly/)
 - [FREE Udemy Course With Certificate](https://www.reddit.com/r/Python/comments/z2kgar/free_udemy_course_with_certificate/)
 - [Tutorial for subscribing to MQTT topics with Python and Paho.](https://www.reddit.com/r/Python/comments/z2jr2w/tutorial_for_subscribing_to_mqtt_topics_with/)
 - [GitHub - kutoga/yapsl: Yet another python sms library](https://www.reddit.com/r/Python/comments/z2icjs/github_kutogayapsl_yet_another_python_sms_library/)
-- [Digital filter](https://www.reddit.com/r/Python/comments/z2ibn0/digital_filter/)
 <!-- BLOG-POST-LIST:END -->
