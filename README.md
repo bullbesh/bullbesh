@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My First Fluid Simulator! &lpar;slower if add more particles&rpar;](https://www.reddit.com/r/Python/comments/z2fkzd/my_first_fluid_simulator_slower_if_add_more/)
 - [DApp API with FastAPI [Backend Blueprint]](https://www.reddit.com/r/Python/comments/z2cxfw/dapp_api_with_fastapi_backend_blueprint/)
 - [Building “CoreTable” and the Our World in Data “Data Explorer”](https://www.reddit.com/r/Python/comments/z2bjmk/building_coretable_and_the_our_world_in_data_data/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/z29ilo/wednesday_daily_thread_beginner_questions/)
 - [2D Coordinate Utilities](https://www.reddit.com/r/Python/comments/z26rdm/2d_coordinate_utilities/)
-- [Auto-provision cloud infrastructure](https://www.reddit.com/r/Python/comments/z25ks8/autoprovision_cloud_infrastructure/)
 <!-- BLOG-POST-LIST:END -->
