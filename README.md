@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Help with the assignment](https://www.reddit.com/r/Python/comments/z2qffa/help_with_the_assignment/)
+- [Meet FastExcel, the fastest excel reader wrote in rust with a python binding.](https://www.reddit.com/r/Python/comments/z2thpb/meet_fastexcel_the_fastest_excel_reader_wrote_in/)
 - [Absolute Beginner made &quot;Mad Libs&quot; style game.](https://www.reddit.com/r/Python/comments/z2o595/absolute_beginner_made_mad_libs_style_game/)
 - [Krptn: Zero Knowledge security for Python Webapps](https://www.reddit.com/r/Python/comments/z2o0on/krptn_zero_knowledge_security_for_python_webapps/)
 - [python for loop](https://www.reddit.com/r/Python/comments/z2mz5z/python_for_loop/)
