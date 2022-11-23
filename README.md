@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pick a Python Lockfile and Improve Security](https://www.reddit.com/r/Python/comments/z33aze/pick_a_python_lockfile_and_improve_security/)
+- [Python code on nintendo switch](https://www.reddit.com/r/Python/comments/z32u5a/python_code_on_nintendo_switch/)
+- [All of the MAJOR Machine Learning Algorithms you NEED to Know! [Video Series]](https://www.reddit.com/r/Python/comments/z32m0t/all_of_the_major_machine_learning_algorithms_you/)
 - [20% Faster Python with a Single GC Tweak](https://www.reddit.com/r/Python/comments/z31k8r/20_faster_python_with_a_single_gc_tweak/)
 - [Season 3 Episode 8: Rivers Cuomo and Guido van Rossum — Sing for Science](https://www.reddit.com/r/Python/comments/z30p4y/season_3_episode_8_rivers_cuomo_and_guido_van/)
-- [Best Python Book for Automations?](https://www.reddit.com/r/Python/comments/z30o8z/best_python_book_for_automations/)
-- [Making Python Code Idiomatic by Automatic Refactoring Non-Idiomatic Python Code with Pythonic Idioms](https://www.reddit.com/r/Python/comments/z2zrmy/making_python_code_idiomatic_by_automatic/)
-- [Python coder using scratch!](https://www.reddit.com/r/Python/comments/z2xfmi/python_coder_using_scratch/)
 <!-- BLOG-POST-LIST:END -->
