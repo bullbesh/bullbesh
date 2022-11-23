@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Am I good enough yet?](https://www.reddit.com/r/Python/comments/z2yyya/am_i_good_enough_yet/)
-- [Little help please!](https://www.reddit.com/r/Python/comments/z2y77j/little_help_please/)
+- [Season 3 Episode 8: Rivers Cuomo and Guido van Rossum — Sing for Science](https://www.reddit.com/r/Python/comments/z30p4y/season_3_episode_8_rivers_cuomo_and_guido_van/)
+- [I want a new monitor for my desk.](https://www.reddit.com/r/Python/comments/z30ogv/i_want_a_new_monitor_for_my_desk/)
+- [Best Python Book for Automations?](https://www.reddit.com/r/Python/comments/z30o8z/best_python_book_for_automations/)
+- [Making Python Code Idiomatic by Automatic Refactoring Non-Idiomatic Python Code with Pythonic Idioms](https://www.reddit.com/r/Python/comments/z2zrmy/making_python_code_idiomatic_by_automatic/)
 - [Python coder using scratch!](https://www.reddit.com/r/Python/comments/z2xfmi/python_coder_using_scratch/)
-- [Help! infinite while loop and how to break it](https://www.reddit.com/r/Python/comments/z2x2f6/help_infinite_while_loop_and_how_to_break_it/)
-- [Numpy Cheatsheet](https://www.reddit.com/r/Python/comments/z2vfji/numpy_cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
