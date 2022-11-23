@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building “CoreTable” and the Our World in Data “Data Explorer”](https://www.reddit.com/r/Python/comments/z2bjmk/building_coretable_and_the_our_world_in_data_data/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/z29ilo/wednesday_daily_thread_beginner_questions/)
+- [Python word guessing game](https://www.reddit.com/r/Python/comments/z296me/python_word_guessing_game/)
 - [2D Coordinate Utilities](https://www.reddit.com/r/Python/comments/z26rdm/2d_coordinate_utilities/)
 - [Auto-provision cloud infrastructure](https://www.reddit.com/r/Python/comments/z25ks8/autoprovision_cloud_infrastructure/)
-- [Kite is saying farewell](https://www.reddit.com/r/Python/comments/z24fic/kite_is_saying_farewell/)
-- [poliastro is a pure Python library which provides an elegant and powerful API to solve for astrodynamics and orbital mechanics problems](https://www.reddit.com/r/Python/comments/z21g87/poliastro_is_a_pure_python_library_which_provides/)
-- [DSA Python](https://www.reddit.com/r/Python/comments/z20krk/dsa_python/)
 <!-- BLOG-POST-LIST:END -->
