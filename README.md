@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Father of Python, Guido van Rossum Talk to Weezer&#39;s Rivers Cuomo](https://www.reddit.com/r/Python/comments/z2uo5z/father_of_python_guido_van_rossum_talk_to_weezers/)
+- [Anyone Knows how to fix this?](https://www.reddit.com/r/Python/comments/z2udv7/anyone_knows_how_to_fix_this/)
+- [I made a Telegram Bot which sends you alerts from command line or from a Python module!](https://www.reddit.com/r/Python/comments/z2tony/i_made_a_telegram_bot_which_sends_you_alerts_from/)
 - [Meet FastExcel, the fastest excel reader wrote in rust with a python binding.](https://www.reddit.com/r/Python/comments/z2thpb/meet_fastexcel_the_fastest_excel_reader_wrote_in/)
 - [Absolute Beginner made &quot;Mad Libs&quot; style game.](https://www.reddit.com/r/Python/comments/z2o595/absolute_beginner_made_mad_libs_style_game/)
-- [Krptn: Zero Knowledge security for Python Webapps](https://www.reddit.com/r/Python/comments/z2o0on/krptn_zero_knowledge_security_for_python_webapps/)
-- [python for loop](https://www.reddit.com/r/Python/comments/z2mz5z/python_for_loop/)
-- [7 Useful Python Libraries You Should Use in Your Next Project](https://www.reddit.com/r/Python/comments/z2mu31/7_useful_python_libraries_you_should_use_in_your/)
 <!-- BLOG-POST-LIST:END -->
