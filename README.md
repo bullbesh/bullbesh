@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help propose modification to function](https://www.reddit.com/r/Python/comments/z3o4sq/help_propose_modification_to_function/)
+- [Dependency Injection in Python?](https://www.reddit.com/r/Python/comments/z3o2e5/dependency_injection_in_python/)
+- [Does the ideal python web framework exist? A simple comparison of the options.](https://www.reddit.com/r/Python/comments/z3nyzc/does_the_ideal_python_web_framework_exist_a/)
+- [SQLAlchemy with asyncpg cannot perform operation: another operation is in progress](https://www.reddit.com/r/Python/comments/z3nk2r/sqlalchemy_with_asyncpg_cannot_perform_operation/)
 - [Free Python Lessons - New Video!](https://www.reddit.com/r/Python/comments/z3mir9/free_python_lessons_new_video/)
-- [Feasibility on a project](https://www.reddit.com/r/Python/comments/z3mh3x/feasibility_on_a_project/)
-- [Can someone please explain to me how this code works? How is it that except for the first letter, all the others are reversed?](https://www.reddit.com/r/Python/comments/z3m8ir/can_someone_please_explain_to_me_how_this_code/)
-- [After 10 months of development, my game OVRDOZE made in pygame is out on itch.io for free](https://www.reddit.com/r/Python/comments/z3lzqk/after_10_months_of_development_my_game_ovrdoze/)
-- [What&#39;s the easiest graph &lpar;= vertices + edges&rpar; library to use in python? graph as for diagram, not a plot](https://www.reddit.com/r/Python/comments/z3li6m/whats_the_easiest_graph_vertices_edges_library_to/)
 <!-- BLOG-POST-LIST:END -->
