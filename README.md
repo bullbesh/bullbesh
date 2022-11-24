@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [We built an open-source lightweight alternative to Pingdom and Checkly](https://www.reddit.com/r/Python/comments/z3e59j/we_built_an_opensource_lightweight_alternative_to/)
 - [Free Python lessons](https://www.reddit.com/r/Python/comments/z3d4lz/free_python_lessons/)
 - [PyDaCo](https://www.reddit.com/r/Python/comments/z3acla/pydaco/)
 - [Django Speed Run - Introduction - What&#39;s possible](https://www.reddit.com/r/Python/comments/z38o4m/django_speed_run_introduction_whats_possible/)
 - [Python Frontend Framework for Building Websites](https://www.reddit.com/r/Python/comments/z3852d/python_frontend_framework_for_building_websites/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/z34q96/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
