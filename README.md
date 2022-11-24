@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Frontend Framework for Building Websites](https://www.reddit.com/r/Python/comments/z3852d/python_frontend_framework_for_building_websites/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/z34q96/thursday_daily_thread_python_careers_courses_and/)
 - [Robyn, a web framework for Python built it on top of Rust.](https://www.reddit.com/r/Python/comments/z34pm7/robyn_a_web_framework_for_python_built_it_on_top/)
 - [Pick a Python Lockfile and Improve Security](https://www.reddit.com/r/Python/comments/z33aze/pick_a_python_lockfile_and_improve_security/)
 - [Python code on nintendo switch](https://www.reddit.com/r/Python/comments/z32u5a/python_code_on_nintendo_switch/)
-- [20% Faster Python with a Single GC Tweak](https://www.reddit.com/r/Python/comments/z31k8r/20_faster_python_with_a_single_gc_tweak/)
 <!-- BLOG-POST-LIST:END -->
