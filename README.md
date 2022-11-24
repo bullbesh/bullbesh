@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python file structure with Rust extensions](https://www.reddit.com/r/Python/comments/z3xdog/python_file_structure_with_rust_extensions/)
+- [Made a simple context manager to quickly generate matplotlib&#39;s subplots](https://www.reddit.com/r/Python/comments/z3wsx9/made_a_simple_context_manager_to_quickly_generate/)
 - [Ukraine NGO Making Machine Learning tool using Python for UA soldiers &lpar;volunteers needed, training provided&rpar;](https://www.reddit.com/r/Python/comments/z3v1vt/ukraine_ngo_making_machine_learning_tool_using/)
 - [Why would __pycache__ not be .pycache at least on Unix-like systems?](https://www.reddit.com/r/Python/comments/z3ur3k/why_would_pycache_not_be_pycache_at_least_on/)
 - [Web scraper ideas](https://www.reddit.com/r/Python/comments/z3u83j/web_scraper_ideas/)
-- [Old python2 programs. How to properly deal with python3](https://www.reddit.com/r/Python/comments/z3t045/old_python2_programs_how_to_properly_deal_with/)
-- [Does anyone misses the npm scripts feature in python ecosystem?](https://www.reddit.com/r/Python/comments/z3ryhd/does_anyone_misses_the_npm_scripts_feature_in/)
 <!-- BLOG-POST-LIST:END -->
