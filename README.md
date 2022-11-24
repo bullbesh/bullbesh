@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Basic Spyware&lpar;Window Logger&rpar; in Python](https://www.reddit.com/r/Python/comments/z3kgo3/basic_spywarewindow_logger_in_python/)
-- [Learning Data Structures and Algorithms](https://www.reddit.com/r/Python/comments/z3j8o1/learning_data_structures_and_algorithms/)
-- [Should I open documents as a global command or in a function?](https://www.reddit.com/r/Python/comments/z3im3t/should_i_open_documents_as_a_global_command_or_in/)
-- [Bobtails - new Python we framework](https://www.reddit.com/r/Python/comments/z3i7ow/bobtails_new_python_we_framework/)
-- [GitHub - Acreom/quickadd: Parse natural language time and date expressions in python](https://www.reddit.com/r/Python/comments/z3hjas/github_acreomquickadd_parse_natural_language_time/)
+- [Free Python Lessons - New Video!](https://www.reddit.com/r/Python/comments/z3mir9/free_python_lessons_new_video/)
+- [Feasibility on a project](https://www.reddit.com/r/Python/comments/z3mh3x/feasibility_on_a_project/)
+- [Can someone please explain to me how this code works? How is it that except for the first letter, all the others are reversed?](https://www.reddit.com/r/Python/comments/z3m8ir/can_someone_please_explain_to_me_how_this_code/)
+- [After 10 months of development, my game OVRDOZE made in pygame is out on itch.io for free](https://www.reddit.com/r/Python/comments/z3lzqk/after_10_months_of_development_my_game_ovrdoze/)
+- [What&#39;s the easiest graph &lpar;= vertices + edges&rpar; library to use in python? graph as for diagram, not a plot](https://www.reddit.com/r/Python/comments/z3li6m/whats_the_easiest_graph_vertices_edges_library_to/)
 <!-- BLOG-POST-LIST:END -->
