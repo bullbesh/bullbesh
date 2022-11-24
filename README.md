@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning Data Structures and Algorithms](https://www.reddit.com/r/Python/comments/z3j8o1/learning_data_structures_and_algorithms/)
 - [Should I open documents as a global command or in a function?](https://www.reddit.com/r/Python/comments/z3im3t/should_i_open_documents_as_a_global_command_or_in/)
 - [Bobtails - new Python we framework](https://www.reddit.com/r/Python/comments/z3i7ow/bobtails_new_python_we_framework/)
 - [GitHub - Acreom/quickadd: Parse natural language time and date expressions in python](https://www.reddit.com/r/Python/comments/z3hjas/github_acreomquickadd_parse_natural_language_time/)
 - [A program that spews the script of the Bee Movie into any textbox line-by-line](https://www.reddit.com/r/Python/comments/z3hca4/a_program_that_spews_the_script_of_the_bee_movie/)
-- [Is rubber duck debugging actually a thing?](https://www.reddit.com/r/Python/comments/z3gq1i/is_rubber_duck_debugging_actually_a_thing/)
 <!-- BLOG-POST-LIST:END -->
