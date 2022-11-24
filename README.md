@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A program that spews the script of the Bee Movie into any textbox line-by-line](https://www.reddit.com/r/Python/comments/z3hca4/a_program_that_spews_the_script_of_the_bee_movie/)
+- [Is rubber duck debugging actually a thing?](https://www.reddit.com/r/Python/comments/z3gq1i/is_rubber_duck_debugging_actually_a_thing/)
+- [Detailed Python developer roadmap](https://www.reddit.com/r/Python/comments/z3gntf/detailed_python_developer_roadmap/)
 - [Open source auto clicker completely written in python!](https://www.reddit.com/r/Python/comments/z3etr3/open_source_auto_clicker_completely_written_in/)
 - [We built an open-source lightweight alternative to Pingdom and Checkly](https://www.reddit.com/r/Python/comments/z3e59j/we_built_an_opensource_lightweight_alternative_to/)
-- [Free Python lessons](https://www.reddit.com/r/Python/comments/z3d4lz/free_python_lessons/)
-- [PyDaCo](https://www.reddit.com/r/Python/comments/z3acla/pydaco/)
-- [Django Speed Run - Introduction - What&#39;s possible](https://www.reddit.com/r/Python/comments/z38o4m/django_speed_run_introduction_whats_possible/)
 <!-- BLOG-POST-LIST:END -->
