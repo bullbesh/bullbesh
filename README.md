@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why would __pycache__ not be .pycache at least on Unix-like systems?](https://www.reddit.com/r/Python/comments/z3ur3k/why_would_pycache_not_be_pycache_at_least_on/)
+- [Web scraper ideas](https://www.reddit.com/r/Python/comments/z3u83j/web_scraper_ideas/)
 - [Old python2 programs. How to properly deal with python3](https://www.reddit.com/r/Python/comments/z3t045/old_python2_programs_how_to_properly_deal_with/)
 - [Does anyone misses the npm scripts feature in python ecosystem?](https://www.reddit.com/r/Python/comments/z3ryhd/does_anyone_misses_the_npm_scripts_feature_in/)
 - [Help propose modification to function](https://www.reddit.com/r/Python/comments/z3o4sq/help_propose_modification_to_function/)
-- [Dependency Injection in Python?](https://www.reddit.com/r/Python/comments/z3o2e5/dependency_injection_in_python/)
-- [Does the ideal python web framework exist? A simple comparison of the options.](https://www.reddit.com/r/Python/comments/z3nyzc/does_the_ideal_python_web_framework_exist_a/)
 <!-- BLOG-POST-LIST:END -->
