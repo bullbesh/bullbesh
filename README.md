@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Extract only dicom tags from pacs with python?](https://www.reddit.com/r/Python/comments/z4pw9v/extract_only_dicom_tags_from_pacs_with_python/)
+- [Find the top courses from Udemy &amp; Coursera in a single search.](https://www.reddit.com/r/Python/comments/z4pgr9/find_the_top_courses_from_udemy_coursera_in_a/)
 - [Falcon vs Flask?](https://www.reddit.com/r/Python/comments/z4nqb4/falcon_vs_flask/)
 - [Speed Run Tutorial - Setup for 2023 Docker &amp; Postgresql with Cookiecutter](https://www.reddit.com/r/Python/comments/z4n341/speed_run_tutorial_setup_for_2023_docker/)
 - [I made a super fast proxy fetcher package](https://www.reddit.com/r/Python/comments/z4l4p4/i_made_a_super_fast_proxy_fetcher_package/)
-- [Niagara v0.0.6 - Config deployer for Linux Systems](https://www.reddit.com/r/Python/comments/z4jgn4/niagara_v006_config_deployer_for_linux_systems/)
-- [QualityScaler 7.0 - image/video deeplearning upscaler with any GPU &lpar;BSRGAN/Pytorch&rpar;](https://www.reddit.com/r/Python/comments/z4g2p7/qualityscaler_70_imagevideo_deeplearning_upscaler/)
 <!-- BLOG-POST-LIST:END -->
