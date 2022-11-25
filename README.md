@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Programming - From Basics to Advanced level [2022]](https://www.reddit.com/r/Python/comments/z4d9ux/python_programming_from_basics_to_advanced_level/)
 - [Your perfect guide to understand the role of Python in Artificial Intelligence &lpar;AI&rpar;](https://www.reddit.com/r/Python/comments/z4avry/your_perfect_guide_to_understand_the_role_of/)
 - [Free Udemy Course - Learn Python: Build a Virtual Assistant](https://www.reddit.com/r/Python/comments/z4asal/free_udemy_course_learn_python_build_a_virtual/)
 - [defer in python!](https://www.reddit.com/r/Python/comments/z4aic2/defer_in_python/)
 - [Free Udemy Course - A Beginners Guide to Python 3 Web Development Using Flask](https://www.reddit.com/r/Python/comments/z4a41l/free_udemy_course_a_beginners_guide_to_python_3/)
-- [Linting library.](https://www.reddit.com/r/Python/comments/z48byr/linting_library/)
 <!-- BLOG-POST-LIST:END -->
