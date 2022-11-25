@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [100% Off Udemy Course - Python-Introduction to Data Science and Machine learning A-Z](https://www.reddit.com/r/Python/comments/z4iidh/100_off_udemy_course_pythonintroduction_to_data/)
 - [A student left a rating on my Python course](https://www.reddit.com/r/Python/comments/z4h0ai/a_student_left_a_rating_on_my_python_course/)
 - [QualityScaler 7.0 - image/video deeplearning upscaler with any GPU &lpar;BSRGAN/Pytorch&rpar;](https://www.reddit.com/r/Python/comments/z4g2p7/qualityscaler_70_imagevideo_deeplearning_upscaler/)
 - [Internal library code management: mono/multi/meta repo vs versioned builds + Poetry](https://www.reddit.com/r/Python/comments/z4fr1q/internal_library_code_management_monomultimeta/)
 - [Operations research packages](https://www.reddit.com/r/Python/comments/z4dxlr/operations_research_packages/)
-- [Your perfect guide to understand the role of Python in Artificial Intelligence &lpar;AI&rpar;](https://www.reddit.com/r/Python/comments/z4avry/your_perfect_guide_to_understand_the_role_of/)
 <!-- BLOG-POST-LIST:END -->
