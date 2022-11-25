@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Speed Run Tutorial - Setup for 2023 Docker &amp; Postgresql with Cookiecutter](https://www.reddit.com/r/Python/comments/z4n341/speed_run_tutorial_setup_for_2023_docker/)
 - [I made a super fast proxy fetcher package](https://www.reddit.com/r/Python/comments/z4l4p4/i_made_a_super_fast_proxy_fetcher_package/)
 - [Niagara v0.0.6 - Config deployer for Linux Systems](https://www.reddit.com/r/Python/comments/z4jgn4/niagara_v006_config_deployer_for_linux_systems/)
 - [QualityScaler 7.0 - image/video deeplearning upscaler with any GPU &lpar;BSRGAN/Pytorch&rpar;](https://www.reddit.com/r/Python/comments/z4g2p7/qualityscaler_70_imagevideo_deeplearning_upscaler/)
-- [Internal library code management: mono/multi/meta repo vs versioned builds + Poetry](https://www.reddit.com/r/Python/comments/z4fr1q/internal_library_code_management_monomultimeta/)
 - [Operations research packages](https://www.reddit.com/r/Python/comments/z4dxlr/operations_research_packages/)
 <!-- BLOG-POST-LIST:END -->
