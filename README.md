@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your perfect guide to understand the role of Python in Artificial Intelligence &lpar;AI&rpar;](https://www.reddit.com/r/Python/comments/z4avry/your_perfect_guide_to_understand_the_role_of/)
+- [Free Udemy Course - Learn Python: Build a Virtual Assistant](https://www.reddit.com/r/Python/comments/z4asal/free_udemy_course_learn_python_build_a_virtual/)
+- [defer in python!](https://www.reddit.com/r/Python/comments/z4aic2/defer_in_python/)
+- [Free Udemy Course - A Beginners Guide to Python 3 Web Development Using Flask](https://www.reddit.com/r/Python/comments/z4a41l/free_udemy_course_a_beginners_guide_to_python_3/)
 - [Linting library.](https://www.reddit.com/r/Python/comments/z48byr/linting_library/)
-- [100% Off Udemy Course - Python For Absolute Beginners : Learn Python From Scratch](https://www.reddit.com/r/Python/comments/z48639/100_off_udemy_course_python_for_absolute/)
-- [Python File Not Running](https://www.reddit.com/r/Python/comments/z47oyp/python_file_not_running/)
-- [How do you maintain hundreds of ETL scripts and ensure backwards compatibility when updating Python and packages?](https://www.reddit.com/r/Python/comments/z47mnb/how_do_you_maintain_hundreds_of_etl_scripts_and/)
-- [Modern, user-friendly, programmable command-line HTTP client for the API.](https://www.reddit.com/r/Python/comments/z47f20/modern_userfriendly_programmable_commandline_http/)
 <!-- BLOG-POST-LIST:END -->
