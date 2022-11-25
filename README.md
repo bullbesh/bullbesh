@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI dependency injection](https://www.reddit.com/r/Python/comments/z45uz6/fastapi_dependency_injection/)
+- [EZBar - A simple yet powerful progress bar](https://www.reddit.com/r/Python/comments/z459y6/ezbar_a_simple_yet_powerful_progress_bar/)
+- [Free Udemy Course - The Top 5 Machine Learning Libraries in Python](https://www.reddit.com/r/Python/comments/z4573k/free_udemy_course_the_top_5_machine_learning/)
+- [Free Udemy Course - Python for Absolute Beginners!](https://www.reddit.com/r/Python/comments/z44vkl/free_udemy_course_python_for_absolute_beginners/)
 - [Is anyone here using Tkinker in their job? is worth learning, or should I move to Django?](https://www.reddit.com/r/Python/comments/z3yti4/is_anyone_here_using_tkinker_in_their_job_is/)
-- [Python file structure with Rust extensions](https://www.reddit.com/r/Python/comments/z3xdog/python_file_structure_with_rust_extensions/)
-- [Made a simple context manager to quickly generate matplotlib&#39;s subplots](https://www.reddit.com/r/Python/comments/z3wsx9/made_a_simple_context_manager_to_quickly_generate/)
-- [Ukraine NGO Making Machine Learning tool using Python for UA soldiers &lpar;volunteers needed, training provided&rpar;](https://www.reddit.com/r/Python/comments/z3v1vt/ukraine_ngo_making_machine_learning_tool_using/)
-- [Why would __pycache__ not be .pycache at least on Unix-like systems?](https://www.reddit.com/r/Python/comments/z3ur3k/why_would_pycache_not_be_pycache_at_least_on/)
 <!-- BLOG-POST-LIST:END -->
