@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Benchmark Python Code](https://www.reddit.com/r/Python/comments/z46l2e/how_to_benchmark_python_code/)
-- [Convert standard and image format PDF to Word](https://www.reddit.com/r/Python/comments/z46doc/convert_standard_and_image_format_pdf_to_word/)
-- [Python — Interpreted Code](https://www.reddit.com/r/Python/comments/z4657o/python_interpreted_code/)
-- [FastAPI dependency injection](https://www.reddit.com/r/Python/comments/z45uz6/fastapi_dependency_injection/)
-- [EZBar - A simple yet powerful progress bar](https://www.reddit.com/r/Python/comments/z459y6/ezbar_a_simple_yet_powerful_progress_bar/)
+- [100% Off Udemy Course - Build 8 Mini Projects in Python from Scratch](https://www.reddit.com/r/Python/comments/z47rb5/100_off_udemy_course_build_8_mini_projects_in/)
+- [Python File Not Running](https://www.reddit.com/r/Python/comments/z47oyp/python_file_not_running/)
+- [How do you maintain hundreds of ETL scripts and ensure backwards compatibility when updating Python and packages?](https://www.reddit.com/r/Python/comments/z47mnb/how_do_you_maintain_hundreds_of_etl_scripts_and/)
+- [Modern, user-friendly, programmable command-line HTTP client for the API.](https://www.reddit.com/r/Python/comments/z47f20/modern_userfriendly_programmable_commandline_http/)
+- [How do I stop an infinite while loop](https://www.reddit.com/r/Python/comments/z4701x/how_do_i_stop_an_infinite_while_loop/)
 <!-- BLOG-POST-LIST:END -->
