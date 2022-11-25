@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Detect, track and count objects with Python](https://www.reddit.com/r/Python/comments/z4r5i9/detect_track_and_count_objects_with_python/)
 - [Extract only dicom tags from pacs with python?](https://www.reddit.com/r/Python/comments/z4pw9v/extract_only_dicom_tags_from_pacs_with_python/)
-- [Find the top courses from Udemy &amp; Coursera in a single search.](https://www.reddit.com/r/Python/comments/z4pgr9/find_the_top_courses_from_udemy_coursera_in_a/)
 - [Falcon vs Flask?](https://www.reddit.com/r/Python/comments/z4nqb4/falcon_vs_flask/)
 - [Speed Run Tutorial - Setup for 2023 Docker &amp; Postgresql with Cookiecutter](https://www.reddit.com/r/Python/comments/z4n341/speed_run_tutorial_setup_for_2023_docker/)
 - [I made a super fast proxy fetcher package](https://www.reddit.com/r/Python/comments/z4l4p4/i_made_a_super_fast_proxy_fetcher_package/)
