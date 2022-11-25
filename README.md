@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Benchmark Python Code](https://www.reddit.com/r/Python/comments/z46l2e/how_to_benchmark_python_code/)
+- [Convert standard and image format PDF to Word](https://www.reddit.com/r/Python/comments/z46doc/convert_standard_and_image_format_pdf_to_word/)
+- [Python — Interpreted Code](https://www.reddit.com/r/Python/comments/z4657o/python_interpreted_code/)
 - [FastAPI dependency injection](https://www.reddit.com/r/Python/comments/z45uz6/fastapi_dependency_injection/)
 - [EZBar - A simple yet powerful progress bar](https://www.reddit.com/r/Python/comments/z459y6/ezbar_a_simple_yet_powerful_progress_bar/)
-- [Free Udemy Course - The Top 5 Machine Learning Libraries in Python](https://www.reddit.com/r/Python/comments/z4573k/free_udemy_course_the_top_5_machine_learning/)
-- [Free Udemy Course - Python for Absolute Beginners!](https://www.reddit.com/r/Python/comments/z44vkl/free_udemy_course_python_for_absolute_beginners/)
-- [Is anyone here using Tkinker in their job? is worth learning, or should I move to Django?](https://www.reddit.com/r/Python/comments/z3yti4/is_anyone_here_using_tkinker_in_their_job_is/)
 <!-- BLOG-POST-LIST:END -->
