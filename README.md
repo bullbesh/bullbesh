@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Internal library code management: mono/multi/meta repo vs versioned builds + Poetry](https://www.reddit.com/r/Python/comments/z4fr1q/internal_library_code_management_monomultimeta/)
 - [Operations research packages](https://www.reddit.com/r/Python/comments/z4dxlr/operations_research_packages/)
-- [100% Off Udemy Course - Python 3 Ultimate Guide](https://www.reddit.com/r/Python/comments/z4dwj7/100_off_udemy_course_python_3_ultimate_guide/)
-- [Python Programming - From Basics to Advanced level [2022]](https://www.reddit.com/r/Python/comments/z4d9ux/python_programming_from_basics_to_advanced_level/)
 - [Your perfect guide to understand the role of Python in Artificial Intelligence &lpar;AI&rpar;](https://www.reddit.com/r/Python/comments/z4avry/your_perfect_guide_to_understand_the_role_of/)
-- [Free Udemy Course - Learn Python: Build a Virtual Assistant](https://www.reddit.com/r/Python/comments/z4asal/free_udemy_course_learn_python_build_a_virtual/)
+- [defer in python!](https://www.reddit.com/r/Python/comments/z4aic2/defer_in_python/)
+- [Linting library.](https://www.reddit.com/r/Python/comments/z48byr/linting_library/)
 <!-- BLOG-POST-LIST:END -->
