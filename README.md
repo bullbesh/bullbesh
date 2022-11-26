@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I have to write some webpages and I read that usually JavaScript is used with HTML, but, can a person used Python instead?](https://www.reddit.com/r/Python/comments/z5dkz8/i_have_to_write_some_webpages_and_i_read_that/)
+- [Free Udemy Online Courses - Without Certificate - Python](https://www.reddit.com/r/Python/comments/z5dajh/free_udemy_online_courses_without_certificate/)
+- [Automate creating TikTok compilations with Python](https://www.reddit.com/r/Python/comments/z5cpeh/automate_creating_tiktok_compilations_with_python/)
 - [Guido van Rossum: Python and the Future of Programming | Lex Fridman Podcast #341](https://www.reddit.com/r/Python/comments/z5cjum/guido_van_rossum_python_and_the_future_of/)
 - [Free Python lessons new video on variables and data types](https://www.reddit.com/r/Python/comments/z5catl/free_python_lessons_new_video_on_variables_and/)
-- [Microsoft Power BI and Python: Two Superpowers Combined – Real Python](https://www.reddit.com/r/Python/comments/z5abul/microsoft_power_bi_and_python_two_superpowers/)
-- [My All New Py Project | I Am A Beginner In Python So Please!](https://www.reddit.com/r/Python/comments/z58x4n/my_all_new_py_project_i_am_a_beginner_in_python/)
-- [World Cup 2022 Sweepstake Slack bot](https://www.reddit.com/r/Python/comments/z58rzk/world_cup_2022_sweepstake_slack_bot/)
 <!-- BLOG-POST-LIST:END -->
