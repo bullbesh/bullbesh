@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Good projects to show off programming skills.](https://www.reddit.com/r/Python/comments/z55phz/good_projects_to_show_off_programming_skills/)
 - [Making an MMO with Python and Godot: The first lesson in a free online game dev series I have been working very hard on for months now](https://www.reddit.com/r/Python/comments/z551ru/making_an_mmo_with_python_and_godot_the_first/)
 - [Catching bugs in code with AI, fully local CLI app](https://www.reddit.com/r/Python/comments/z533gl/catching_bugs_in_code_with_ai_fully_local_cli_app/)
 - [The Origins of Python | Lambert Meertens | Inference](https://www.reddit.com/r/Python/comments/z51dm9/the_origins_of_python_lambert_meertens_inference/)
 - [Which, if any, are the business that specialize in “automating the boring stuff”?](https://www.reddit.com/r/Python/comments/z4z3r9/which_if_any_are_the_business_that_specialize_in/)
-- [programmatic function consolidator](https://www.reddit.com/r/Python/comments/z4xojf/programmatic_function_consolidator/)
 <!-- BLOG-POST-LIST:END -->
