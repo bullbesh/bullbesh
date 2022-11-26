@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [programmatic function consolidator](https://www.reddit.com/r/Python/comments/z4xojf/programmatic_function_consolidator/)
 - [PyToolKit is now PowerWrapper.](https://www.reddit.com/r/Python/comments/z4vsz0/pytoolkit_is_now_powerwrapper/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/z4sdhp/saturday_daily_thread_resource_request_and/)
 - [Detect, track and count objects with Python](https://www.reddit.com/r/Python/comments/z4r5i9/detect_track_and_count_objects_with_python/)
 - [Extract only dicom tags from pacs with python?](https://www.reddit.com/r/Python/comments/z4pw9v/extract_only_dicom_tags_from_pacs_with_python/)
-- [Falcon vs Flask?](https://www.reddit.com/r/Python/comments/z4nqb4/falcon_vs_flask/)
 <!-- BLOG-POST-LIST:END -->
