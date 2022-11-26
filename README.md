@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Write Comments in Python.](https://www.reddit.com/r/Python/comments/z5et2b/how_to_write_comments_in_python/)
+- [Python — Changing Builtin Function — Why do we need “secure boot” for runtime environments?](https://www.reddit.com/r/Python/comments/z5es41/python_changing_builtin_function_why_do_we_need/)
 - [I have to write some webpages and I read that usually JavaScript is used with HTML, but, can a person used Python instead?](https://www.reddit.com/r/Python/comments/z5dkz8/i_have_to_write_some_webpages_and_i_read_that/)
 - [Free Udemy Online Courses - Without Certificate - Python](https://www.reddit.com/r/Python/comments/z5dajh/free_udemy_online_courses_without_certificate/)
 - [Automate creating TikTok compilations with Python](https://www.reddit.com/r/Python/comments/z5cpeh/automate_creating_tiktok_compilations_with_python/)
-- [Guido van Rossum: Python and the Future of Programming | Lex Fridman Podcast #341](https://www.reddit.com/r/Python/comments/z5cjum/guido_van_rossum_python_and_the_future_of/)
-- [Free Python lessons new video on variables and data types](https://www.reddit.com/r/Python/comments/z5catl/free_python_lessons_new_video_on_variables_and/)
 <!-- BLOG-POST-LIST:END -->
