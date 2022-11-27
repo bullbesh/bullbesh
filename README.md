@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Niagara v0.0.1.2](https://www.reddit.com/r/Python/comments/z5n68r/introducing_niagara_v0012/)
+- [Twitter API shell](https://www.reddit.com/r/Python/comments/z5m1ac/twitter_api_shell/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/z5lyjy/sunday_daily_thread_whats_everyone_working_on/)
+- [Is it possible to make a game engine with Python?](https://www.reddit.com/r/Python/comments/z5lfj9/is_it_possible_to_make_a_game_engine_with_python/)
 - [Teach your AI to read you a book, in any language, super easy.](https://www.reddit.com/r/Python/comments/z5ikhw/teach_your_ai_to_read_you_a_book_in_any_language/)
-- [SQLModel vs SQLalchemy](https://www.reddit.com/r/Python/comments/z5h8xr/sqlmodel_vs_sqlalchemy/)
-- [Tutorial: How &quot;detectable&quot; are Near-Earth Objects &lpar;close asteroids and comets&rpar;](https://www.reddit.com/r/Python/comments/z5fqw9/tutorial_how_detectable_are_nearearth_objects/)
-- [Real Python Poetry](https://www.reddit.com/r/Python/comments/z5fntq/real_python_poetry/)
-- [How to Write Comments in Python.](https://www.reddit.com/r/Python/comments/z5et2b/how_to_write_comments_in_python/)
 <!-- BLOG-POST-LIST:END -->
