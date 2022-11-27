@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [UPDATE | My Old Project](https://www.reddit.com/r/Python/comments/z5xhoe/update_my_old_project/)
+- [Is it time to leave Python behind? &lpar;My personal rant&rpar;](https://www.reddit.com/r/Python/comments/z5xbxu/is_it_time_to_leave_python_behind_my_personal_rant/)
+- [Jupyter notebook resources](https://www.reddit.com/r/Python/comments/z5wwtb/jupyter_notebook_resources/)
+- [Multiprocessing and random&lpar;&rpar;](https://www.reddit.com/r/Python/comments/z5wsuf/multiprocessing_and_random/)
 - [Made a surprisingly short yet effective program that resizes a picture so that it fits on an iPhone&#39;s screen during iBoot. This can be helpful for simple people that want to make custom &quot;boot logos&quot; for their iDevices!](https://www.reddit.com/r/Python/comments/z5w0k0/made_a_surprisingly_short_yet_effective_program/)
-- [Expense Tracker with Tkinter and SQLite](https://www.reddit.com/r/Python/comments/z5vx64/expense_tracker_with_tkinter_and_sqlite/)
-- [Windows Calculator App with Tkinter](https://www.reddit.com/r/Python/comments/z5vt2r/windows_calculator_app_with_tkinter/)
-- [I made a Notepad with Tkinter](https://www.reddit.com/r/Python/comments/z5t5kn/i_made_a_notepad_with_tkinter/)
-- [100% Off Udemy Course - Python And Flask Demonstrations Practice Course](https://www.reddit.com/r/Python/comments/z5rada/100_off_udemy_course_python_and_flask/)
 <!-- BLOG-POST-LIST:END -->
