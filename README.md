@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data-oriented Programming in Python](https://www.reddit.com/r/Python/comments/z665w3/dataoriented_programming_in_python/)
 - [Save and Load numpy arrays.](https://www.reddit.com/r/Python/comments/z64uak/save_and_load_numpy_arrays/)
 - [Get Any of these top Python Courses with Udemy Black Friday Sale at $9.99](https://www.reddit.com/r/Python/comments/z645ox/get_any_of_these_top_python_courses_with_udemy/)
 - [is python x a good learning tool](https://www.reddit.com/r/Python/comments/z63tz4/is_python_x_a_good_learning_tool/)
 - [What is Multimodal Deep Learning and what are its applications? How to use python well to build these cool applications? Here is the answer](https://www.reddit.com/r/Python/comments/z62zlg/what_is_multimodal_deep_learning_and_what_are_its/)
-- [Free Udemy Course Without Certificate - Python](https://www.reddit.com/r/Python/comments/z62wuw/free_udemy_course_without_certificate_python/)
 <!-- BLOG-POST-LIST:END -->
