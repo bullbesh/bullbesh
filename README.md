@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Visualize Neural Networks With This Free Cool Tool!](https://www.reddit.com/r/Python/comments/z6xeml/visualize_neural_networks_with_this_free_cool_tool/)
+- [100 numpy exercises &lpar;with solutions&rpar;](https://www.reddit.com/r/Python/comments/z6xbcf/100_numpy_exercises_with_solutions/)
 - [Fiverr experiences](https://www.reddit.com/r/Python/comments/z6wfso/fiverr_experiences/)
 - [How to Scrape booking.com Hotel Prices using Python](https://www.reddit.com/r/Python/comments/z6vop0/how_to_scrape_bookingcom_hotel_prices_using_python/)
-- [100% Off Udemy Course - PCEP Certification Practice Tests Python](https://www.reddit.com/r/Python/comments/z6u3wj/100_off_udemy_course_pcep_certification_practice/)
 - [Comparison of Python + Pandas vs other data wrangling solutions, with benchmarks](https://www.reddit.com/r/Python/comments/z6tlls/comparison_of_python_pandas_vs_other_data/)
-- [Need mentorship?](https://www.reddit.com/r/Python/comments/z6t7ih/need_mentorship/)
 <!-- BLOG-POST-LIST:END -->
