@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Flake8 6.0 has a bug which breaks repos](https://www.reddit.com/r/Python/comments/z6itb8/new_flake8_60_has_a_bug_which_breaks_repos/)
+- [Dealing python CICD issue on a onprem server behind strict firewalls](https://www.reddit.com/r/Python/comments/z6iee5/dealing_python_cicd_issue_on_a_onprem_server/)
+- [BMI Calculator help](https://www.reddit.com/r/Python/comments/z6he0b/bmi_calculator_help/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/z6gzbm/monday_daily_thread_project_ideas/)
 - [I made the Snake game using pygame in Python [YouTube &amp; GitHub links]](https://www.reddit.com/r/Python/comments/z6eb5l/i_made_the_snake_game_using_pygame_in_python/)
-- [Create colormaps from images](https://www.reddit.com/r/Python/comments/z6e6e0/create_colormaps_from_images/)
-- [That&#39;s why i chose to support PyPy and Python 3.11](https://www.reddit.com/r/Python/comments/z6auzl/thats_why_i_chose_to_support_pypy_and_python_311/)
-- [A Cyber Security Audit Script I made](https://www.reddit.com/r/Python/comments/z69sje/a_cyber_security_audit_script_i_made/)
-- [Graphical Robot Framework Test Case Runner](https://www.reddit.com/r/Python/comments/z67wm0/graphical_robot_framework_test_case_runner/)
 <!-- BLOG-POST-LIST:END -->
