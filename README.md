@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Does anyone have a simple text based game](https://www.reddit.com/r/Python/comments/z7a5dx/does_anyone_have_a_simple_text_based_game/)
+- [Boot camp](https://www.reddit.com/r/Python/comments/z7bsrn/boot_camp/)
 - [NOOB Here learning For loop](https://www.reddit.com/r/Python/comments/z79io0/noob_here_learning_for_loop/)
 - [Using DuckDB and IPython-SQL to and Other Tools to Query Pandas Using SQL](https://www.reddit.com/r/Python/comments/z78h79/using_duckdb_and_ipythonsql_to_and_other_tools_to/)
 - [Give me a challenge!](https://www.reddit.com/r/Python/comments/z789f7/give_me_a_challenge/)
