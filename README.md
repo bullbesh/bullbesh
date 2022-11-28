@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Flask vs. Streamlit &lpar;42 vs. 7 lines&rpar;](https://www.reddit.com/r/Python/comments/z73krp/flask_vs_streamlit_42_vs_7_lines/)
+- [Modern Forecasting in Practice with Jan Gasthaus &lpar;AWS&rpar; and Tim Januschowski &lpar;Zalando&rpar;](https://www.reddit.com/r/Python/comments/z76k3w/modern_forecasting_in_practice_with_jan_gasthaus/)
+- [Power of Pyhton](https://www.reddit.com/r/Python/comments/z75zcu/power_of_pyhton/)
+- [list start and end. why?](https://www.reddit.com/r/Python/comments/z75rzm/list_start_and_end_why/)
 - [auto-booking class using python](https://www.reddit.com/r/Python/comments/z72thy/autobooking_class_using_python/)
 - [ticket-booking algorithms](https://www.reddit.com/r/Python/comments/z72h5n/ticketbooking_algorithms/)
-- [I Made A Simple Action1 API Client](https://www.reddit.com/r/Python/comments/z6z4h8/i_made_a_simple_action1_api_client/)
-- [Enquiry: How to make a Python class execute first in a Project?](https://www.reddit.com/r/Python/comments/z6y5ph/enquiry_how_to_make_a_python_class_execute_first/)
 <!-- BLOG-POST-LIST:END -->
