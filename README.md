@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [9 Time-Saving Python Scripts To Automate Your Daily Life](https://www.reddit.com/r/Python/comments/z6s8cs/9_timesaving_python_scripts_to_automate_your/)
+- [Be Pydantic with PyArrow](https://www.reddit.com/r/Python/comments/z6s7hi/be_pydantic_with_pyarrow/)
+- [Create Your Own Code Editor Using PyQt5 #8 - Refactoring File Manager And Adding Context Menu](https://www.reddit.com/r/Python/comments/z6s0lz/create_your_own_code_editor_using_pyqt5_8/)
 - [Project opinion](https://www.reddit.com/r/Python/comments/z6rtuu/project_opinion/)
 - [Why do huge loops slow down during operation?](https://www.reddit.com/r/Python/comments/z6rg78/why_do_huge_loops_slow_down_during_operation/)
-- [I made a chess program that displays the chessboard as ascii in the console.](https://www.reddit.com/r/Python/comments/z6qljd/i_made_a_chess_program_that_displays_the/)
-- [Writing an Excel formula Parser in Python](https://www.reddit.com/r/Python/comments/z6pwgu/writing_an_excel_formula_parser_in_python/)
-- [Can Guido van Rossum solve every Leetcode problem without using inbuilt functions?](https://www.reddit.com/r/Python/comments/z6orbh/can_guido_van_rossum_solve_every_leetcode_problem/)
 <!-- BLOG-POST-LIST:END -->
