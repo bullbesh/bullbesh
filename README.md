@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Made A Simple Action1 API Client](https://www.reddit.com/r/Python/comments/z6z4h8/i_made_a_simple_action1_api_client/)
+- [Enquiry: How to make a Python class execute first in a Project?](https://www.reddit.com/r/Python/comments/z6y5ph/enquiry_how_to_make_a_python_class_execute_first/)
+- [What can Python do that R can’t do?](https://www.reddit.com/r/Python/comments/z6y4nu/what_can_python_do_that_r_cant_do/)
+- [One tool python webapp deployment: initializes your gitlab repo, installs dokku and your app on your server, deploys your app from gitlab to your server, sets your domain and establishes continuous deployment so that all main commits are automatically deployed. Templates for Django, flask, fastApi](https://www.reddit.com/r/Python/comments/z6xuet/one_tool_python_webapp_deployment_initializes/)
 - [Visualize Neural Networks With This Free Cool Tool!](https://www.reddit.com/r/Python/comments/z6xeml/visualize_neural_networks_with_this_free_cool_tool/)
-- [100 numpy exercises &lpar;with solutions&rpar;](https://www.reddit.com/r/Python/comments/z6xbcf/100_numpy_exercises_with_solutions/)
-- [Fiverr experiences](https://www.reddit.com/r/Python/comments/z6wfso/fiverr_experiences/)
-- [How to Scrape booking.com Hotel Prices using Python](https://www.reddit.com/r/Python/comments/z6vop0/how_to_scrape_bookingcom_hotel_prices_using_python/)
-- [Comparison of Python + Pandas vs other data wrangling solutions, with benchmarks](https://www.reddit.com/r/Python/comments/z6tlls/comparison_of_python_pandas_vs_other_data/)
 <!-- BLOG-POST-LIST:END -->
