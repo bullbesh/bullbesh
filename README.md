@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project opinion](https://www.reddit.com/r/Python/comments/z6rtuu/project_opinion/)
+- [Why do huge loops slow down during operation?](https://www.reddit.com/r/Python/comments/z6rg78/why_do_huge_loops_slow_down_during_operation/)
 - [I made a chess program that displays the chessboard as ascii in the console.](https://www.reddit.com/r/Python/comments/z6qljd/i_made_a_chess_program_that_displays_the/)
 - [Writing an Excel formula Parser in Python](https://www.reddit.com/r/Python/comments/z6pwgu/writing_an_excel_formula_parser_in_python/)
 - [Can Guido van Rossum solve every Leetcode problem without using inbuilt functions?](https://www.reddit.com/r/Python/comments/z6orbh/can_guido_van_rossum_solve_every_leetcode_problem/)
-- [Know How to Create and Visualize a Decision Tree with Python](https://www.reddit.com/r/Python/comments/z6o3av/know_how_to_create_and_visualize_a_decision_tree/)
-- [Phoenix10.1, a Personalized Radio Station](https://www.reddit.com/r/Python/comments/z6kjh1/phoenix101_a_personalized_radio_station/)
 <!-- BLOG-POST-LIST:END -->
