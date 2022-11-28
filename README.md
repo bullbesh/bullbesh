@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [100% Off Udemy Course - PCEP Certification Practice Tests Python](https://www.reddit.com/r/Python/comments/z6u3wj/100_off_udemy_course_pcep_certification_practice/)
 - [Comparison of Python + Pandas vs other data wrangling solutions, with benchmarks](https://www.reddit.com/r/Python/comments/z6tlls/comparison_of_python_pandas_vs_other_data/)
 - [Need mentorship?](https://www.reddit.com/r/Python/comments/z6t7ih/need_mentorship/)
 - [9 Time-Saving Python Scripts To Automate Your Daily Life](https://www.reddit.com/r/Python/comments/z6s8cs/9_timesaving_python_scripts_to_automate_your/)
 - [Be Pydantic with PyArrow](https://www.reddit.com/r/Python/comments/z6s7hi/be_pydantic_with_pyarrow/)
-- [Create Your Own Code Editor Using PyQt5 #8 - Refactoring File Manager And Adding Context Menu](https://www.reddit.com/r/Python/comments/z6s0lz/create_your_own_code_editor_using_pyqt5_8/)
 <!-- BLOG-POST-LIST:END -->
