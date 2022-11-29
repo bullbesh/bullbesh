@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Curvipy - Make math animations in a few lines of code.](https://www.reddit.com/r/Python/comments/z7u3mq/curvipy_make_math_animations_in_a_few_lines_of/)
-- [Script to simplify/automate compiling with pyinstaller](https://www.reddit.com/r/Python/comments/z7qzfb/script_to_simplifyautomate_compiling_with/)
-- [Python and Selenium are better for scraping data](https://www.reddit.com/r/Python/comments/z7qs7y/python_and_selenium_are_better_for_scraping_data/)
-- [Hidden Python Features that Beginners should Know](https://www.reddit.com/r/Python/comments/z7nawd/hidden_python_features_that_beginners_should_know/)
-- [Python - Press the two buttons in the order right, left, left, right](https://www.reddit.com/r/Python/comments/z7mg5q/python_press_the_two_buttons_in_the_order_right/)
+- [How to Get a List of All Files in a Directory With Python – Real Python](https://www.reddit.com/r/Python/comments/z7wh9e/how_to_get_a_list_of_all_files_in_a_directory/)
+- [astypes: Python library to infer types for AST nodes. Make the most powerful Python linters and formatters!](https://www.reddit.com/r/Python/comments/z7wfs9/astypes_python_library_to_infer_types_for_ast/)
+- [Announcing DocArray v2](https://www.reddit.com/r/Python/comments/z7wc20/announcing_docarray_v2/)
+- [Why though?](https://www.reddit.com/r/Python/comments/z7vsaj/why_though/)
+- [Application Design Techniques](https://www.reddit.com/r/Python/comments/z7vihg/application_design_techniques/)
 <!-- BLOG-POST-LIST:END -->
