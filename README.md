@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python - Press the two buttons in the order right, left, left, right](https://www.reddit.com/r/Python/comments/z7mg5q/python_press_the_two_buttons_in_the_order_right/)
+- [A Desktop application, for streaming and downloading your favourite anime.](https://www.reddit.com/r/Python/comments/z7m1gc/a_desktop_application_for_streaming_and/)
+- [The Ultimate Guide To Learning Python For Data Science](https://www.reddit.com/r/Python/comments/z7lv2g/the_ultimate_guide_to_learning_python_for_data/)
 - [Ignore All Web Performance Benchmarks, Including This One - Great post from Miguel Grinberg](https://www.reddit.com/r/Python/comments/z7lkf4/ignore_all_web_performance_benchmarks_including/)
 - [Free Online Certificate Courses - Python](https://www.reddit.com/r/Python/comments/z7ja0u/free_online_certificate_courses_python/)
-- [Baby programmer started blog](https://www.reddit.com/r/Python/comments/z7i89x/baby_programmer_started_blog/)
-- [Beware the Black Swan](https://www.reddit.com/r/Python/comments/z7ht0i/beware_the_black_swan/)
-- [PLAYING WITH PRPROJ FILES](https://www.reddit.com/r/Python/comments/z7hqlv/playing_with_prproj_files/)
 <!-- BLOG-POST-LIST:END -->
