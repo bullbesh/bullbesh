@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Boot camp](https://www.reddit.com/r/Python/comments/z7bsrn/boot_camp/)
-- [NOOB Here learning For loop](https://www.reddit.com/r/Python/comments/z79io0/noob_here_learning_for_loop/)
+- [Free Python lessons! Video on different methods to print](https://www.reddit.com/r/Python/comments/z7ewv2/free_python_lessons_video_on_different_methods_to/)
+- [I spent the last 2 months converting APL primitives into executable NumPy](https://www.reddit.com/r/Python/comments/z7doen/i_spent_the_last_2_months_converting_apl/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/z7d8im/tuesday_daily_thread_advanced_questions/)
 - [Using DuckDB and IPython-SQL to and Other Tools to Query Pandas Using SQL](https://www.reddit.com/r/Python/comments/z78h79/using_duckdb_and_ipythonsql_to_and_other_tools_to/)
-- [Give me a challenge!](https://www.reddit.com/r/Python/comments/z789f7/give_me_a_challenge/)
-- [“The longer a developer assumes a code review will take, the longer they will take to respond to it.” Interesting case for adding estimated review times to Python pull requests](https://www.reddit.com/r/Python/comments/z7801k/the_longer_a_developer_assumes_a_code_review_will/)
+- [Modern Forecasting in Practice with Jan Gasthaus &lpar;AWS&rpar; and Tim Januschowski &lpar;Zalando&rpar;](https://www.reddit.com/r/Python/comments/z76k3w/modern_forecasting_in_practice_with_jan_gasthaus/)
 <!-- BLOG-POST-LIST:END -->
