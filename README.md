@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ignore All Web Performance Benchmarks, Including This One - Great post from Miguel Grinberg](https://www.reddit.com/r/Python/comments/z7lkf4/ignore_all_web_performance_benchmarks_including/)
 - [Free Online Certificate Courses - Python](https://www.reddit.com/r/Python/comments/z7ja0u/free_online_certificate_courses_python/)
 - [Baby programmer started blog](https://www.reddit.com/r/Python/comments/z7i89x/baby_programmer_started_blog/)
 - [Beware the Black Swan](https://www.reddit.com/r/Python/comments/z7ht0i/beware_the_black_swan/)
 - [PLAYING WITH PRPROJ FILES](https://www.reddit.com/r/Python/comments/z7hqlv/playing_with_prproj_files/)
-- [I spent the last 2 months converting APL primitives into executable NumPy](https://www.reddit.com/r/Python/comments/z7doen/i_spent_the_last_2_months_converting_apl/)
 <!-- BLOG-POST-LIST:END -->
