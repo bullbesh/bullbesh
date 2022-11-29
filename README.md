@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What tools would be useful to you as python developers?](https://www.reddit.com/r/Python/comments/z7zo90/what_tools_would_be_useful_to_you_as_python/)
 - [Getting Started with Mastodon API in Python](https://www.reddit.com/r/Python/comments/z7yhd4/getting_started_with_mastodon_api_in_python/)
 - [Sanic Security: An effective, simple, and async security library for the Sanic framework.](https://www.reddit.com/r/Python/comments/z7xiod/sanic_security_an_effective_simple_and_async/)
 - [HTML Parsing library PyParsy](https://www.reddit.com/r/Python/comments/z7x49x/html_parsing_library_pyparsy/)
 - [How to Get a List of All Files in a Directory With Python – Real Python](https://www.reddit.com/r/Python/comments/z7wh9e/how_to_get_a_list_of_all_files_in_a_directory/)
-- [astypes: Python library to infer types for AST nodes. Make the most powerful Python linters and formatters!](https://www.reddit.com/r/Python/comments/z7wfs9/astypes_python_library_to_infer_types_for_ast/)
 <!-- BLOG-POST-LIST:END -->
