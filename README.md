@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Renaming files with timestamp to numerical order](https://www.reddit.com/r/Python/comments/z810dp/renaming_files_with_timestamp_to_numerical_order/)
+- [I made a Python package that can automatically spin up cloud infrastructure to transcribe your voice notes in Notion](https://www.reddit.com/r/Python/comments/z80z0f/i_made_a_python_package_that_can_automatically/)
 - [What tools would be useful to you as python developers?](https://www.reddit.com/r/Python/comments/z7zo90/what_tools_would_be_useful_to_you_as_python/)
 - [Getting Started with Mastodon API in Python](https://www.reddit.com/r/Python/comments/z7yhd4/getting_started_with_mastodon_api_in_python/)
 - [Sanic Security: An effective, simple, and async security library for the Sanic framework.](https://www.reddit.com/r/Python/comments/z7xiod/sanic_security_an_effective_simple_and_async/)
-- [HTML Parsing library PyParsy](https://www.reddit.com/r/Python/comments/z7x49x/html_parsing_library_pyparsy/)
-- [How to Get a List of All Files in a Directory With Python – Real Python](https://www.reddit.com/r/Python/comments/z7wh9e/how_to_get_a_list_of_all_files_in_a_directory/)
 <!-- BLOG-POST-LIST:END -->
