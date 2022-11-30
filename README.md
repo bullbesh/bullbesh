@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Order when testing for equality?](https://www.reddit.com/r/Python/comments/z8f9ti/order_when_testing_for_equality/)
 - [High quality, fast performing, local text to speech generation](https://www.reddit.com/r/Python/comments/z8ek4o/high_quality_fast_performing_local_text_to_speech/)
 - [List of fonts for tkinter](https://www.reddit.com/r/Python/comments/z8cvus/list_of_fonts_for_tkinter/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/z8apzq/wednesday_daily_thread_beginner_questions/)
 - [Python Backtracking Sudoku Solver](https://www.reddit.com/r/Python/comments/z84ybv/python_backtracking_sudoku_solver/)
-- [We have developed a python package for complex membrane engineering tasks. The key aspect here was to validate the algorithms against real published reliable experimental data to increase the reliability of the package. We are trying to get more visibility, please consider starring the Project!](https://www.reddit.com/r/Python/comments/z84g65/we_have_developed_a_python_package_for_complex/)
 <!-- BLOG-POST-LIST:END -->
