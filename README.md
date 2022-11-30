@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Problem with Number Guess game](https://www.reddit.com/r/Python/comments/z93axd/problem_with_number_guess_game/)
+- [zip and enumerate](https://www.reddit.com/r/Python/comments/z953v9/zip_and_enumerate/)
 - [I made VS Code plugin that turns Python code into comments](https://www.reddit.com/r/Python/comments/z92gtp/i_made_vs_code_plugin_that_turns_python_code_into/)
 - [Every Death Note Frame Python Twitter Bot](https://www.reddit.com/r/Python/comments/z91zk4/every_death_note_frame_python_twitter_bot/)
 - [using Python To Scrape Google Search Results](https://www.reddit.com/r/Python/comments/z91yl8/using_python_to_scrape_google_search_results/)
