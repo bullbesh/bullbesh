@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ReSR.Scaler 7.0 - image/video deeplearning upscaler &lpar;Real-ESRGAN/Pytorch&rpar;](https://www.reddit.com/r/Python/comments/z8yg2j/resrscaler_70_imagevideo_deeplearning_upscaler/)
 - [Getting Started with Mastodon API in Python](https://www.reddit.com/r/Python/comments/z8vh2b/getting_started_with_mastodon_api_in_python/)
 - [Sentiment analysis + vector search for queryable analytics](https://www.reddit.com/r/Python/comments/z8uid0/sentiment_analysis_vector_search_for_queryable/)
 - [Financial Dataset Generator](https://www.reddit.com/r/Python/comments/z8tkmi/financial_dataset_generator/)
-- [I need help with google cloud editing a file at runtime after deploying my python project](https://www.reddit.com/r/Python/comments/z8r6vb/i_need_help_with_google_cloud_editing_a_file_at/)
 - [Making €6,147,455 Overnight in in-game currency using Computer Vision](https://www.reddit.com/r/Python/comments/z8qstu/making_6147455_overnight_in_ingame_currency_using/)
 <!-- BLOG-POST-LIST:END -->
