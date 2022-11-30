@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [itsdangerous vs pyjwt](https://www.reddit.com/r/Python/comments/z95x8c/itsdangerous_vs_pyjwt/)
+- [Async Python is not faster - excellent analysis from Cal Paterson](https://www.reddit.com/r/Python/comments/z95j2j/async_python_is_not_faster_excellent_analysis/)
+- [Beginner in need of some help/ advice for first project.](https://www.reddit.com/r/Python/comments/z95hal/beginner_in_need_of_some_help_advice_for_first/)
 - [zip and enumerate](https://www.reddit.com/r/Python/comments/z953v9/zip_and_enumerate/)
 - [I made VS Code plugin that turns Python code into comments](https://www.reddit.com/r/Python/comments/z92gtp/i_made_vs_code_plugin_that_turns_python_code_into/)
-- [Every Death Note Frame Python Twitter Bot](https://www.reddit.com/r/Python/comments/z91zk4/every_death_note_frame_python_twitter_bot/)
-- [using Python To Scrape Google Search Results](https://www.reddit.com/r/Python/comments/z91yl8/using_python_to_scrape_google_search_results/)
-- [Stock analysis with python](https://www.reddit.com/r/Python/comments/z91q89/stock_analysis_with_python/)
 <!-- BLOG-POST-LIST:END -->
