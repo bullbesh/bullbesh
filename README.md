@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Textualize launches a dev blog, for the developers behind Rich and Textual](https://www.reddit.com/r/Python/comments/z8lsh8/textualize_launches_a_dev_blog_for_the_developers/)
 - [Sentiment analysis of YouTube comments in Javascript &lpar;Sample Python snippets available too&rpar;.](https://www.reddit.com/r/Python/comments/z8iesk/sentiment_analysis_of_youtube_comments_in/)
 - [TIC-TAC-TOE Terminal Game](https://www.reddit.com/r/Python/comments/z8i8bi/tictactoe_terminal_game/)
 - [100% Off Udemy Course - Quantitative Finance with Python](https://www.reddit.com/r/Python/comments/z8hpmi/100_off_udemy_course_quantitative_finance_with/)
 - [What is a great beginner Python project?](https://www.reddit.com/r/Python/comments/z8goxi/what_is_a_great_beginner_python_project/)
-- [Order when testing for equality?](https://www.reddit.com/r/Python/comments/z8f9ti/order_when_testing_for_equality/)
 <!-- BLOG-POST-LIST:END -->
