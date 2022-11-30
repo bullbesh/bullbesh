@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is a great beginner Python project?](https://www.reddit.com/r/Python/comments/z8goxi/what_is_a_great_beginner_python_project/)
+- [Float vs Decimal in Python](https://www.reddit.com/r/Python/comments/z8gdx8/float_vs_decimal_in_python/)
 - [Order when testing for equality?](https://www.reddit.com/r/Python/comments/z8f9ti/order_when_testing_for_equality/)
 - [High quality, fast performing, local text to speech generation](https://www.reddit.com/r/Python/comments/z8ek4o/high_quality_fast_performing_local_text_to_speech/)
 - [List of fonts for tkinter](https://www.reddit.com/r/Python/comments/z8cvus/list_of_fonts_for_tkinter/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/z8apzq/wednesday_daily_thread_beginner_questions/)
-- [Python Backtracking Sudoku Solver](https://www.reddit.com/r/Python/comments/z84ybv/python_backtracking_sudoku_solver/)
 <!-- BLOG-POST-LIST:END -->
