@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Discord Bot Error Python &lpar;Traceback &lpar;most recent call last&rpar;: File &quot;main.py&quot;, line 4, in &lt;module&gt; client = discord.Client&lpar;&rpar; TypeError: __init__&lpar;&rpar; missing 1 required keyword-only argument: &#39;intents&#39;&rpar;](https://www.reddit.com/r/Python/comments/z9syea/discord_bot_error_python_traceback_most_recent/)
 - [Default arguments depth](https://www.reddit.com/r/Python/comments/z9shrb/default_arguments_depth/)
 - [Making a new REST API framework in Python; QuAPI](https://www.reddit.com/r/Python/comments/z9s3cm/making_a_new_rest_api_framework_in_python_quapi/)
 - [Inspired by bad online text editors I made my own problem generator.](https://www.reddit.com/r/Python/comments/z9rca5/inspired_by_bad_online_text_editors_i_made_my_own/)
 - [Any open source games written in Python? Ideally, something being actively developed](https://www.reddit.com/r/Python/comments/z9r3lp/any_open_source_games_written_in_python_ideally/)
+- [Advent of Code: Solving Your Puzzles With Python – Real Python](https://www.reddit.com/r/Python/comments/z9qb6s/advent_of_code_solving_your_puzzles_with_python/)
 <!-- BLOG-POST-LIST:END -->
