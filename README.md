@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does anyone know how to do Python well? If so message me](https://www.reddit.com/r/Python/comments/z9emk9/does_anyone_know_how_to_do_python_well_if_so/)
+- [Spotify Wrapped/instafest.app for YouTube Music users](https://www.reddit.com/r/Python/comments/z9em26/spotify_wrappedinstafestapp_for_youtube_music/)
+- [I made a program that takes a signal from a potentiometer, converts it to rotational degrees, moves a servo to that degree and displays the servos position on a LCD screen](https://www.reddit.com/r/Python/comments/z9egzv/i_made_a_program_that_takes_a_signal_from_a/)
 - [/r/Python&#39;s 2022 Advent of Code](https://www.reddit.com/r/Python/comments/z9d1r8/rpythons_2022_advent_of_code/)
 - [Free image background remover written in Streamlit](https://www.reddit.com/r/Python/comments/z9ajpe/free_image_background_remover_written_in_streamlit/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/z97v3z/thursday_daily_thread_python_careers_courses_and/)
-- [Trading with python + interpretation of results + free template | TJA](https://www.reddit.com/r/Python/comments/z97ktl/trading_with_python_interpretation_of_results/)
-- [Xtreme Defender &lpar; Lowest usage, maximum protection against CIA-KGB&rpar;](https://www.reddit.com/r/Python/comments/z96xqd/xtreme_defender_lowest_usage_maximum_protection/)
 <!-- BLOG-POST-LIST:END -->
