@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Data Science December](https://www.reddit.com/r/Python/comments/z9oj9n/python_data_science_december/)
 - [A Cheatsheet to Find the Best-Fit Python Library](https://www.reddit.com/r/Python/comments/z9ny3w/a_cheatsheet_to_find_the_bestfit_python_library/)
 - [Grokking Algorithms • Aditya Y. Bhargava &amp; Gabi O&#39;Connor](https://www.reddit.com/r/Python/comments/z9njyt/grokking_algorithms_aditya_y_bhargava_gabi_oconnor/)
 - [Debugging tool looking for alpha testers &lpar;Kenobi&rpar;](https://www.reddit.com/r/Python/comments/z9lf37/debugging_tool_looking_for_alpha_testers_kenobi/)
 - [Does anyone know how someone can download Bloomberg News from Bloomberg terminal using Python or any other language?](https://www.reddit.com/r/Python/comments/z9ldd4/does_anyone_know_how_someone_can_download/)
-- [ModuleNotFoundError: No module named &#39;PIL&#39;](https://www.reddit.com/r/Python/comments/z9krga/modulenotfounderror_no_module_named_pil/)
 <!-- BLOG-POST-LIST:END -->
