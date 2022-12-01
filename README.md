@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [/r/Python&#39;s 2022 Advent of Code](https://www.reddit.com/r/Python/comments/z9d1r8/rpythons_2022_advent_of_code/)
 - [Free image background remover written in Streamlit](https://www.reddit.com/r/Python/comments/z9ajpe/free_image_background_remover_written_in_streamlit/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/z97v3z/thursday_daily_thread_python_careers_courses_and/)
 - [Trading with python + interpretation of results + free template | TJA](https://www.reddit.com/r/Python/comments/z97ktl/trading_with_python_interpretation_of_results/)
 - [Xtreme Defender &lpar; Lowest usage, maximum protection against CIA-KGB&rpar;](https://www.reddit.com/r/Python/comments/z96xqd/xtreme_defender_lowest_usage_maximum_protection/)
-- [itsdangerous vs pyjwt](https://www.reddit.com/r/Python/comments/z95x8c/itsdangerous_vs_pyjwt/)
 <!-- BLOG-POST-LIST:END -->
