@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the best python web stack? Beginner to intermediate](https://www.reddit.com/r/Python/comments/z9xrx1/what_is_the_best_python_web_stack_beginner_to/)
+- [Pre-release v0.3 of Openclick just released for testing!](https://www.reddit.com/r/Python/comments/z9xqsc/prerelease_v03_of_openclick_just_released_for/)
 - [Default arguments depth](https://www.reddit.com/r/Python/comments/z9shrb/default_arguments_depth/)
 - [Making a new REST API framework in Python; QuAPI](https://www.reddit.com/r/Python/comments/z9s3cm/making_a_new_rest_api_framework_in_python_quapi/)
 - [Inspired by bad online text editors I made my own problem generator.](https://www.reddit.com/r/Python/comments/z9rca5/inspired_by_bad_online_text_editors_i_made_my_own/)
-- [Any open source games written in Python? Ideally, something being actively developed](https://www.reddit.com/r/Python/comments/z9r3lp/any_open_source_games_written_in_python_ideally/)
-- [Advent of Code: Solving Your Puzzles With Python – Real Python](https://www.reddit.com/r/Python/comments/z9qb6s/advent_of_code_solving_your_puzzles_with_python/)
 <!-- BLOG-POST-LIST:END -->
