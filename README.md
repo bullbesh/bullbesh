@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging tool looking for alpha testers &lpar;Kenobi&rpar;](https://www.reddit.com/r/Python/comments/z9lf37/debugging_tool_looking_for_alpha_testers_kenobi/)
+- [Does anyone know how someone can download Bloomberg News from Bloomberg terminal using Python or any other language?](https://www.reddit.com/r/Python/comments/z9ldd4/does_anyone_know_how_someone_can_download/)
 - [ModuleNotFoundError: No module named &#39;PIL&#39;](https://www.reddit.com/r/Python/comments/z9krga/modulenotfounderror_no_module_named_pil/)
 - [The 23 Top Python Interview Questions &amp; Answers](https://www.reddit.com/r/Python/comments/z9jnq9/the_23_top_python_interview_questions_answers/)
 - [help what is pyee.asyncio](https://www.reddit.com/r/Python/comments/z9hr1w/help_what_is_pyeeasyncio/)
-- [GitHub - julvo/reloading: Change Python code while it&#39;s running without losing state](https://www.reddit.com/r/Python/comments/z9hk6y/github_julvoreloading_change_python_code_while/)
-- [Python-like sets in Go with golang-set](https://www.reddit.com/r/Python/comments/z9gvcc/pythonlike_sets_in_go_with_golangset/)
 <!-- BLOG-POST-LIST:END -->
