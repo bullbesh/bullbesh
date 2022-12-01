@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ModuleNotFoundError: No module named &#39;PIL&#39;](https://www.reddit.com/r/Python/comments/z9krga/modulenotfounderror_no_module_named_pil/)
 - [The 23 Top Python Interview Questions &amp; Answers](https://www.reddit.com/r/Python/comments/z9jnq9/the_23_top_python_interview_questions_answers/)
 - [help what is pyee.asyncio](https://www.reddit.com/r/Python/comments/z9hr1w/help_what_is_pyeeasyncio/)
 - [GitHub - julvo/reloading: Change Python code while it&#39;s running without losing state](https://www.reddit.com/r/Python/comments/z9hk6y/github_julvoreloading_change_python_code_while/)
 - [Python-like sets in Go with golang-set](https://www.reddit.com/r/Python/comments/z9gvcc/pythonlike_sets_in_go_with_golangset/)
-- [Starting Python](https://www.reddit.com/r/Python/comments/z9fqzl/starting_python/)
 <!-- BLOG-POST-LIST:END -->
