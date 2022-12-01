@@ -11,6 +11,6 @@
 - [help what is pyee.asyncio](https://www.reddit.com/r/Python/comments/z9hr1w/help_what_is_pyeeasyncio/)
 - [GitHub - julvo/reloading: Change Python code while it&#39;s running without losing state](https://www.reddit.com/r/Python/comments/z9hk6y/github_julvoreloading_change_python_code_while/)
 - [Python-like sets in Go with golang-set](https://www.reddit.com/r/Python/comments/z9gvcc/pythonlike_sets_in_go_with_golangset/)
+- [Starting Python](https://www.reddit.com/r/Python/comments/z9fqzl/starting_python/)
 - [Spotify Wrapped/instafest.app for YouTube Music users](https://www.reddit.com/r/Python/comments/z9em26/spotify_wrappedinstafestapp_for_youtube_music/)
-- [I made a program that takes a signal from a potentiometer, converts it to rotational degrees, moves a servo to that degree and displays the servos position on a LCD screen](https://www.reddit.com/r/Python/comments/z9egzv/i_made_a_program_that_takes_a_signal_from_a/)
 <!-- BLOG-POST-LIST:END -->
