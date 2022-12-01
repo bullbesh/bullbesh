@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free image background remover written in Streamlit](https://www.reddit.com/r/Python/comments/z9ajpe/free_image_background_remover_written_in_streamlit/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/z97v3z/thursday_daily_thread_python_careers_courses_and/)
+- [Trading with python + interpretation of results + free template | TJA](https://www.reddit.com/r/Python/comments/z97ktl/trading_with_python_interpretation_of_results/)
+- [Xtreme Defender &lpar; Lowest usage, maximum protection against CIA-KGB&rpar;](https://www.reddit.com/r/Python/comments/z96xqd/xtreme_defender_lowest_usage_maximum_protection/)
 - [itsdangerous vs pyjwt](https://www.reddit.com/r/Python/comments/z95x8c/itsdangerous_vs_pyjwt/)
-- [Async Python is not faster - excellent analysis from Cal Paterson](https://www.reddit.com/r/Python/comments/z95j2j/async_python_is_not_faster_excellent_analysis/)
-- [Beginner in need of some help/ advice for first project.](https://www.reddit.com/r/Python/comments/z95hal/beginner_in_need_of_some_help_advice_for_first/)
-- [zip and enumerate](https://www.reddit.com/r/Python/comments/z953v9/zip_and_enumerate/)
-- [I made VS Code plugin that turns Python code into comments](https://www.reddit.com/r/Python/comments/z92gtp/i_made_vs_code_plugin_that_turns_python_code_into/)
 <!-- BLOG-POST-LIST:END -->
