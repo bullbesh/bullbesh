@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Data Science December](https://www.reddit.com/r/Python/comments/z9oj9n/python_data_science_december/)
-- [A Cheatsheet to Find the Best-Fit Python Library](https://www.reddit.com/r/Python/comments/z9ny3w/a_cheatsheet_to_find_the_bestfit_python_library/)
-- [Grokking Algorithms • Aditya Y. Bhargava &amp; Gabi O&#39;Connor](https://www.reddit.com/r/Python/comments/z9njyt/grokking_algorithms_aditya_y_bhargava_gabi_oconnor/)
-- [Debugging tool looking for alpha testers &lpar;Kenobi&rpar;](https://www.reddit.com/r/Python/comments/z9lf37/debugging_tool_looking_for_alpha_testers_kenobi/)
-- [Does anyone know how someone can download Bloomberg News from Bloomberg terminal using Python or any other language?](https://www.reddit.com/r/Python/comments/z9ldd4/does_anyone_know_how_someone_can_download/)
+- [Advent of Code: Solving Your Puzzles With Python – Real Python](https://www.reddit.com/r/Python/comments/z9qb6s/advent_of_code_solving_your_puzzles_with_python/)
+- [Speeding up Flask &amp; Quart’s routing [Video talk]](https://www.reddit.com/r/Python/comments/z9q1s2/speeding_up_flask_quarts_routing_video_talk/)
+- [&lpar;REPOST&rpar; Script for simplifying/automating using pyinstaller for compiling python files](https://www.reddit.com/r/Python/comments/z9pt4a/repost_script_for_simplifyingautomating_using/)
+- [Convert Trapped Tables within PDFs as Pandas DataFrames with Tabula-py](https://www.reddit.com/r/Python/comments/z9psx8/convert_trapped_tables_within_pdfs_as_pandas/)
+- [PyRGG: Python Random Graph Generator - Version 1.3](https://www.reddit.com/r/Python/comments/z9ps5a/pyrgg_python_random_graph_generator_version_13/)
 <!-- BLOG-POST-LIST:END -->
