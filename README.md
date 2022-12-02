@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a VS Code plugin that brings codex to the VS Code](https://www.reddit.com/r/Python/comments/zahzzk/i_made_a_vs_code_plugin_that_brings_codex_to_the/)
+- [𝗛𝗮𝗿𝘃𝗮𝗿𝗱 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗶𝘀 𝗼𝗳𝗳𝗲𝗿𝗶𝗻𝗴 𝗳𝗿𝗲𝗲 𝗼𝗻𝗹𝗶𝗻𝗲 𝗰𝗼𝘂𝗿𝘀𝗲𝘀. Free Python Programming Classes](https://www.reddit.com/r/Python/comments/zah525/𝗛𝗮𝗿𝘃𝗮𝗿𝗱_𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆_𝗶𝘀_𝗼𝗳𝗳𝗲𝗿𝗶𝗻𝗴_𝗳𝗿𝗲𝗲_𝗼𝗻𝗹𝗶𝗻𝗲/)
 - [Python web scraping exercise for beginners](https://www.reddit.com/r/Python/comments/zagule/python_web_scraping_exercise_for_beginners/)
 - [speeding up backends development](https://www.reddit.com/r/Python/comments/zagr94/speeding_up_backends_development/)
 - [Amazon Web Services &lpar;AWS&rpar; for Python Developers](https://www.reddit.com/r/Python/comments/zag959/amazon_web_services_aws_for_python_developers/)
-- [GitHub - selimrbd/py-obsidianmd: Python utilities for the personal knowledge management tool &quot;Obsidian&quot;](https://www.reddit.com/r/Python/comments/zaf8aq/github_selimrbdpyobsidianmd_python_utilities_for/)
-- [A python-GraphQL mapper - part 2](https://www.reddit.com/r/Python/comments/za6ef6/a_pythongraphql_mapper_part_2/)
 <!-- BLOG-POST-LIST:END -->
