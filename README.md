@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [A good openCV tutorial?](https://www.reddit.com/r/Python/comments/zatyd3/a_good_opencv_tutorial/)
 - [I found the shortest hello world program](https://www.reddit.com/r/Python/comments/zatgrv/i_found_the_shortest_hello_world_program/)
-- [Learning the language vs problem solving](https://www.reddit.com/r/Python/comments/zasmtf/learning_the_language_vs_problem_solving/)
 - [Fapello.Downloader 3.0 - NSFW image and video downloader](https://www.reddit.com/r/Python/comments/zarucy/fapellodownloader_30_nsfw_image_and_video/)
 - [Programming Time Card Game - 55 cards with python snippets for kids](https://www.reddit.com/r/Python/comments/zaqj6s/programming_time_card_game_55_cards_with_python/)
+- [Looking at the Python documentation can be dangerous](https://www.reddit.com/r/Python/comments/zapv47/looking_at_the_python_documentation_can_be/)
 <!-- BLOG-POST-LIST:END -->
