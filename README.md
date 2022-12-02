@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which Pandas version did I use? Recover dependency versions from legacy notebooks](https://www.reddit.com/r/Python/comments/zaopu7/which_pandas_version_did_i_use_recover_dependency/)
+- [How is everyone managing project config?](https://www.reddit.com/r/Python/comments/zao8us/how_is_everyone_managing_project_config/)
+- [100% Off Udemy Course - Python Programming for Beginners [Full Course] - Hindi](https://www.reddit.com/r/Python/comments/zanmaa/100_off_udemy_course_python_programming_for/)
 - [FAQtory - a tool to compile a FAQ.md for your repository and suggest answers to GitHub issues](https://www.reddit.com/r/Python/comments/zaitz8/faqtory_a_tool_to_compile_a_faqmd_for_your/)
 - [I&#39;m doing some work on the SDK of Whitebox, a new ML monitoring platform. First time building an SQD for mass consumption in python so feedback is essential. Here is the PR link.](https://www.reddit.com/r/Python/comments/zaicqg/im_doing_some_work_on_the_sdk_of_whitebox_a_new/)
-- [Want to click on a button in Facebook marketplace.](https://www.reddit.com/r/Python/comments/zai54i/want_to_click_on_a_button_in_facebook_marketplace/)
-- [I made a VS Code plugin that brings codex to the VS Code](https://www.reddit.com/r/Python/comments/zahzzk/i_made_a_vs_code_plugin_that_brings_codex_to_the/)
-- [𝗛𝗮𝗿𝘃𝗮𝗿𝗱 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗶𝘀 𝗼𝗳𝗳𝗲𝗿𝗶𝗻𝗴 𝗳𝗿𝗲𝗲 𝗼𝗻𝗹𝗶𝗻𝗲 𝗰𝗼𝘂𝗿𝘀𝗲𝘀. Free Python Programming Classes](https://www.reddit.com/r/Python/comments/zah525/𝗛𝗮𝗿𝘃𝗮𝗿𝗱_𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆_𝗶𝘀_𝗼𝗳𝗳𝗲𝗿𝗶𝗻𝗴_𝗳𝗿𝗲𝗲_𝗼𝗻𝗹𝗶𝗻𝗲/)
 <!-- BLOG-POST-LIST:END -->
