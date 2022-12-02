@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why does my code keep saying “ type error: “str” object is not callable “. Please help. Source code is provided&lpar;won’t let me put a input &lpar;&rpar;&rpar;](https://www.reddit.com/r/Python/comments/zaqf06/why_does_my_code_keep_saying_type_error_str/)
+- [Looking at the Python documentation can be dangerous](https://www.reddit.com/r/Python/comments/zapv47/looking_at_the_python_documentation_can_be/)
+- [Chess AI with python &lpar;pygame&rpar; - using the Minimax algorithm](https://www.reddit.com/r/Python/comments/zap71p/chess_ai_with_python_pygame_using_the_minimax/)
 - [Which Pandas version did I use? Recover dependency versions from legacy notebooks](https://www.reddit.com/r/Python/comments/zaopu7/which_pandas_version_did_i_use_recover_dependency/)
 - [How is everyone managing project config?](https://www.reddit.com/r/Python/comments/zao8us/how_is_everyone_managing_project_config/)
-- [100% Off Udemy Course - Python Programming for Beginners [Full Course] - Hindi](https://www.reddit.com/r/Python/comments/zanmaa/100_off_udemy_course_python_programming_for/)
-- [FAQtory - a tool to compile a FAQ.md for your repository and suggest answers to GitHub issues](https://www.reddit.com/r/Python/comments/zaitz8/faqtory_a_tool_to_compile_a_faqmd_for_your/)
-- [I&#39;m doing some work on the SDK of Whitebox, a new ML monitoring platform. First time building an SQD for mass consumption in python so feedback is essential. Here is the PR link.](https://www.reddit.com/r/Python/comments/zaicqg/im_doing_some_work_on_the_sdk_of_whitebox_a_new/)
 <!-- BLOG-POST-LIST:END -->
