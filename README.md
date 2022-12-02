@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My way takes forever, can you count number of occurrences per hour over a super large data set better?](https://www.reddit.com/r/Python/comments/zb0wjh/my_way_takes_forever_can_you_count_number_of/)
+- [what else?](https://www.reddit.com/r/Python/comments/zb03sj/what_else/)
 - [reposting](https://www.reddit.com/r/Python/comments/zaziea/reposting/)
 - [Question about statsmodels.api](https://www.reddit.com/r/Python/comments/zayp28/question_about_statsmodelsapi/)
 - [Encryption chat app that I made from scratch](https://www.reddit.com/r/Python/comments/zaylf1/encryption_chat_app_that_i_made_from_scratch/)
-- [A good openCV tutorial?](https://www.reddit.com/r/Python/comments/zatyd3/a_good_opencv_tutorial/)
-- [I found the shortest hello world program](https://www.reddit.com/r/Python/comments/zatgrv/i_found_the_shortest_hello_world_program/)
 <!-- BLOG-POST-LIST:END -->
