@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Interview Questions](https://www.reddit.com/r/Python/comments/zardbv/python_interview_questions/)
+- [Programming Time Card Game - 55 cards with python snippets for kids](https://www.reddit.com/r/Python/comments/zaqj6s/programming_time_card_game_55_cards_with_python/)
 - [Why does my code keep saying “ type error: “str” object is not callable “. Please help. Source code is provided&lpar;won’t let me put a input &lpar;&rpar;&rpar;](https://www.reddit.com/r/Python/comments/zaqf06/why_does_my_code_keep_saying_type_error_str/)
 - [Looking at the Python documentation can be dangerous](https://www.reddit.com/r/Python/comments/zapv47/looking_at_the_python_documentation_can_be/)
 - [Chess AI with python &lpar;pygame&rpar; - using the Minimax algorithm](https://www.reddit.com/r/Python/comments/zap71p/chess_ai_with_python_pygame_using_the_minimax/)
-- [Which Pandas version did I use? Recover dependency versions from legacy notebooks](https://www.reddit.com/r/Python/comments/zaopu7/which_pandas_version_did_i_use_recover_dependency/)
-- [How is everyone managing project config?](https://www.reddit.com/r/Python/comments/zao8us/how_is_everyone_managing_project_config/)
 <!-- BLOG-POST-LIST:END -->
