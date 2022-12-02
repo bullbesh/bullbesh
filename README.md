@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementing the Argparse module](https://www.reddit.com/r/Python/comments/zae8s4/implementing_the_argparse_module/)
+- [GitHub - selimrbd/py-obsidianmd: Python utilities for the personal knowledge management tool &quot;Obsidian&quot;](https://www.reddit.com/r/Python/comments/zaf8aq/github_selimrbdpyobsidianmd_python_utilities_for/)
 - [A python-GraphQL mapper - part 2](https://www.reddit.com/r/Python/comments/za6ef6/a_pythongraphql_mapper_part_2/)
 - [New video on tuples](https://www.reddit.com/r/Python/comments/za6aub/new_video_on_tuples/)
 - [GitHub - explosion/confection: Confection: the sweetest config system for Python](https://www.reddit.com/r/Python/comments/z9yjfg/github_explosionconfection_confection_the/)
