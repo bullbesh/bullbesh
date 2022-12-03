@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Question Answering System in Python using NLP](https://www.reddit.com/r/Python/comments/zb9veo/question_answering_system_in_python_using_nlp/)
+- [An Intuitive Guide On Data Augmentation In Deep Learning](https://www.reddit.com/r/Python/comments/zb9m9b/an_intuitive_guide_on_data_augmentation_in_deep/)
 - [VS Code doesn&#39;t bother to sort your settings.json by key, so I wrote a quick Python tool that sorts any json by 1st level of keys](https://www.reddit.com/r/Python/comments/zb7yq2/vs_code_doesnt_bother_to_sort_your_settingsjson/)
 - [Options backtesting website using python](https://www.reddit.com/r/Python/comments/zb7rw0/options_backtesting_website_using_python/)
 - [Write from wasm and publish your libraries to python](https://www.reddit.com/r/Python/comments/zb76oy/write_from_wasm_and_publish_your_libraries_to/)
-- [I got laid off in mid-October and decided to teach myself how to code. My first public project, Spheri, is a Python/Flask web app that gives you Spotify song recommendations based on your local weather.](https://www.reddit.com/r/Python/comments/zb6ro9/i_got_laid_off_in_midoctober_and_decided_to_teach/)
-- [What&#39;s the best way to organize and run various Python programs? Currently using VScode, but not sure if it&#39;s best. What do you use?](https://www.reddit.com/r/Python/comments/zb5r0b/whats_the_best_way_to_organize_and_run_various/)
 <!-- BLOG-POST-LIST:END -->
