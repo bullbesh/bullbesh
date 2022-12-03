@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the best way to organize and run various Python programs? Currently using VScode, but not sure if it&#39;s best. What do you use?](https://www.reddit.com/r/Python/comments/zb5r0b/whats_the_best_way_to_organize_and_run_various/)
+- [Hacked my network, stolen my startup code](https://www.reddit.com/r/Python/comments/zb5mh1/hacked_my_network_stolen_my_startup_code/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/zb26ub/saturday_daily_thread_resource_request_and/)
 - [#datascience #datascientist #data #python #function #lambda #dataanaly...](https://www.reddit.com/r/Python/comments/zb22r9/datascience_datascientist_data_python_function/)
 - [Encryption chat app that I made from scratch](https://www.reddit.com/r/Python/comments/zaylf1/encryption_chat_app_that_i_made_from_scratch/)
-- [I found the shortest hello world program](https://www.reddit.com/r/Python/comments/zatgrv/i_found_the_shortest_hello_world_program/)
-- [Fapello.Downloader 3.0 - NSFW image and video downloader](https://www.reddit.com/r/Python/comments/zarucy/fapellodownloader_30_nsfw_image_and_video/)
 <!-- BLOG-POST-LIST:END -->
