@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Embedding Python interpreter inside a MacOS app &lpar;and iOS app&rpar;, and publish to the App Store successfully.](https://www.reddit.com/r/Python/comments/zbi9qp/embedding_python_interpreter_inside_a_macos_app/)
+- [Hands-On-Python, Registration Link : https://docs.google.com/forms/d/1e0IuRtFFaCW_KydfAIab2-FFid89yKxp9NmYtucTrMM/edit](https://www.reddit.com/r/Python/comments/zbhk6h/handsonpython_registration_link/)
+- [Mobile Python Interpreter](https://www.reddit.com/r/Python/comments/zbgd26/mobile_python_interpreter/)
 - [How we fixed a 7x CUDA slowdown with an ONNX model](https://www.reddit.com/r/Python/comments/zbfstu/how_we_fixed_a_7x_cuda_slowdown_with_an_onnx_model/)
 - [What are some must-have features for a Notepad?](https://www.reddit.com/r/Python/comments/zbfdij/what_are_some_musthave_features_for_a_notepad/)
-- [Bobtail - a little REST framework](https://www.reddit.com/r/Python/comments/zbeiz8/bobtail_a_little_rest_framework/)
-- [computer](https://www.reddit.com/r/Python/comments/zbdv99/computer/)
-- [Introducing PyTorch 2.0](https://www.reddit.com/r/Python/comments/zbb4ma/introducing_pytorch_20/)
 <!-- BLOG-POST-LIST:END -->
