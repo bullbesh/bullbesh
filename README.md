@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can someone help me with this code?](https://www.reddit.com/r/Python/comments/zbk67y/can_someone_help_me_with_this_code/)
 - [Embedding Python interpreter inside a MacOS app &lpar;and iOS app&rpar;, and publish to the App Store successfully.](https://www.reddit.com/r/Python/comments/zbi9qp/embedding_python_interpreter_inside_a_macos_app/)
 - [Hands-On-Python, Registration Link : https://docs.google.com/forms/d/1e0IuRtFFaCW_KydfAIab2-FFid89yKxp9NmYtucTrMM/edit](https://www.reddit.com/r/Python/comments/zbhk6h/handsonpython_registration_link/)
 - [Mobile Python Interpreter](https://www.reddit.com/r/Python/comments/zbgd26/mobile_python_interpreter/)
 - [How we fixed a 7x CUDA slowdown with an ONNX model](https://www.reddit.com/r/Python/comments/zbfstu/how_we_fixed_a_7x_cuda_slowdown_with_an_onnx_model/)
-- [What are some must-have features for a Notepad?](https://www.reddit.com/r/Python/comments/zbfdij/what_are_some_musthave_features_for_a_notepad/)
 <!-- BLOG-POST-LIST:END -->
