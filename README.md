@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Write from wasm and publish your libraries to python](https://www.reddit.com/r/Python/comments/zb76oy/write_from_wasm_and_publish_your_libraries_to/)
+- [I got laid off in mid-October and decided to teach myself how to code. My first public project, Spheri, is a Python/Flask web app that gives you Spotify song recommendations based on your local weather.](https://www.reddit.com/r/Python/comments/zb6ro9/i_got_laid_off_in_midoctober_and_decided_to_teach/)
 - [What&#39;s the best way to organize and run various Python programs? Currently using VScode, but not sure if it&#39;s best. What do you use?](https://www.reddit.com/r/Python/comments/zb5r0b/whats_the_best_way_to_organize_and_run_various/)
-- [Hacked my network, stolen my startup code](https://www.reddit.com/r/Python/comments/zb5mh1/hacked_my_network_stolen_my_startup_code/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/zb26ub/saturday_daily_thread_resource_request_and/)
 - [#datascience #datascientist #data #python #function #lambda #dataanaly...](https://www.reddit.com/r/Python/comments/zb22r9/datascience_datascientist_data_python_function/)
-- [Encryption chat app that I made from scratch](https://www.reddit.com/r/Python/comments/zaylf1/encryption_chat_app_that_i_made_from_scratch/)
 <!-- BLOG-POST-LIST:END -->
