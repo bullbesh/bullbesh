@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How we fixed a 7x CUDA slowdown with an ONNX model](https://www.reddit.com/r/Python/comments/zbfstu/how_we_fixed_a_7x_cuda_slowdown_with_an_onnx_model/)
+- [What are some must-have features for a Notepad?](https://www.reddit.com/r/Python/comments/zbfdij/what_are_some_musthave_features_for_a_notepad/)
 - [Bobtail - a little REST framework](https://www.reddit.com/r/Python/comments/zbeiz8/bobtail_a_little_rest_framework/)
 - [computer](https://www.reddit.com/r/Python/comments/zbdv99/computer/)
 - [Introducing PyTorch 2.0](https://www.reddit.com/r/Python/comments/zbb4ma/introducing_pytorch_20/)
-- [How do I go about using Python to build a LinkedIn bot to find a co-founder?](https://www.reddit.com/r/Python/comments/zbau55/how_do_i_go_about_using_python_to_build_a/)
-- [Question Answering System in Python using NLP](https://www.reddit.com/r/Python/comments/zb9veo/question_answering_system_in_python_using_nlp/)
 <!-- BLOG-POST-LIST:END -->
