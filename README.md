@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating a list using list comprehension from two other lists](https://www.reddit.com/r/Python/comments/zclixn/creating_a_list_using_list_comprehension_from_two/)
+- [Astronomy Project: Detecting hazard asteroids &lpar;but in a biased way...&rpar;](https://www.reddit.com/r/Python/comments/zcn7ok/astronomy_project_detecting_hazard_asteroids_but/)
+- [Unofficial Python SDK for OpenAI&#39;s ChatGPT](https://www.reddit.com/r/Python/comments/zcmmgm/unofficial_python_sdk_for_openais_chatgpt/)
 - [What is the hardest challenge when writing unit tests?](https://www.reddit.com/r/Python/comments/zckje7/what_is_the_hardest_challenge_when_writing_unit/)
-- [Help/ideas/links for business class project](https://www.reddit.com/r/Python/comments/zcj0nd/helpideaslinks_for_business_class_project/)
-- [NOOB here - udemy pandas dataframe](https://www.reddit.com/r/Python/comments/zciisg/noob_here_udemy_pandas_dataframe/)
 - [Scrape Idealista.com Property Data using Python](https://www.reddit.com/r/Python/comments/zchpit/scrape_idealistacom_property_data_using_python/)
+- [I&#39;ve made a Twitter Bot that replies to you with a dad joke](https://www.reddit.com/r/Python/comments/zch6py/ive_made_a_twitter_bot_that_replies_to_you_with_a/)
 <!-- BLOG-POST-LIST:END -->
