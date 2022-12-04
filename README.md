@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 3 100% Free Python Courses - You Might Know](https://www.reddit.com/r/Python/comments/zcdac5/top_3_100_free_python_courses_you_might_know/)
+- [Is this a bad way to map tabular data to objects/json?](https://www.reddit.com/r/Python/comments/zccwxg/is_this_a_bad_way_to_map_tabular_data_to/)
 - [Having trouble using iterators in Python? Here&#39;s a quick guide on iterators and when you should consider using them.](https://www.reddit.com/r/Python/comments/zcbg9q/having_trouble_using_iterators_in_python_heres_a/)
 - [I made a little GUI tool that shows the current position of your mouse. Can be useful if you work with pyautogui.](https://www.reddit.com/r/Python/comments/zc7ldk/i_made_a_little_gui_tool_that_shows_the_current/)
 - [A long journey from a manual QA to a Software Engineer In Test &lpar;python&rpar;](https://www.reddit.com/r/Python/comments/zc75cr/a_long_journey_from_a_manual_qa_to_a_software/)
-- [Aura Notes - A Notepad completely made with Python](https://www.reddit.com/r/Python/comments/zc6mpq/aura_notes_a_notepad_completely_made_with_python/)
-- [File-based routing library for Flask](https://www.reddit.com/r/Python/comments/zc4o5w/filebased_routing_library_for_flask/)
 <!-- BLOG-POST-LIST:END -->
