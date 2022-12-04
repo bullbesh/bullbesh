@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [NOOB here - udemy pandas dataframe](https://www.reddit.com/r/Python/comments/zciisg/noob_here_udemy_pandas_dataframe/)
+- [Scrape Idealista.com Property Data using Python](https://www.reddit.com/r/Python/comments/zchpit/scrape_idealistacom_property_data_using_python/)
+- [I&#39;ve made a Twitter Bot that replies to you with a dad joke](https://www.reddit.com/r/Python/comments/zch6py/ive_made_a_twitter_bot_that_replies_to_you_with_a/)
 - [Python Quiz - Python Machine Learning](https://www.reddit.com/r/Python/comments/zcgn0o/python_quiz_python_machine_learning/)
 - [Spotix Streaming app](https://www.reddit.com/r/Python/comments/zcekxo/spotix_streaming_app/)
-- [Top 3 100% Free Python Courses - You Might Know](https://www.reddit.com/r/Python/comments/zcdac5/top_3_100_free_python_courses_you_might_know/)
-- [Is this a bad way to map tabular data to objects/json?](https://www.reddit.com/r/Python/comments/zccwxg/is_this_a_bad_way_to_map_tabular_data_to/)
-- [Having trouble using iterators in Python? Here&#39;s a quick guide on iterators and when you should consider using them.](https://www.reddit.com/r/Python/comments/zcbg9q/having_trouble_using_iterators_in_python_heres_a/)
 <!-- BLOG-POST-LIST:END -->
