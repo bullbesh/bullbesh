@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help/ideas/links for business class project](https://www.reddit.com/r/Python/comments/zcj0nd/helpideaslinks_for_business_class_project/)
 - [NOOB here - udemy pandas dataframe](https://www.reddit.com/r/Python/comments/zciisg/noob_here_udemy_pandas_dataframe/)
 - [Scrape Idealista.com Property Data using Python](https://www.reddit.com/r/Python/comments/zchpit/scrape_idealistacom_property_data_using_python/)
 - [I&#39;ve made a Twitter Bot that replies to you with a dad joke](https://www.reddit.com/r/Python/comments/zch6py/ive_made_a_twitter_bot_that_replies_to_you_with_a/)
 - [Python Quiz - Python Machine Learning](https://www.reddit.com/r/Python/comments/zcgn0o/python_quiz_python_machine_learning/)
-- [Spotix Streaming app](https://www.reddit.com/r/Python/comments/zcekxo/spotix_streaming_app/)
 <!-- BLOG-POST-LIST:END -->
