@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a little GUI tool that shows the current position of your mouse. Can be useful if you work with pyautogui.](https://www.reddit.com/r/Python/comments/zc7ldk/i_made_a_little_gui_tool_that_shows_the_current/)
 - [A long journey from a manual QA to a Software Engineer In Test &lpar;python&rpar;](https://www.reddit.com/r/Python/comments/zc75cr/a_long_journey_from_a_manual_qa_to_a_software/)
 - [Aura Notes - A Notepad completely made with Python](https://www.reddit.com/r/Python/comments/zc6mpq/aura_notes_a_notepad_completely_made_with_python/)
 - [File-based routing library for Flask](https://www.reddit.com/r/Python/comments/zc4o5w/filebased_routing_library_for_flask/)
 - [File-based routing library for flask.](https://www.reddit.com/r/Python/comments/zc4m00/filebased_routing_library_for_flask/)
-- [What is your favorite ,most underrated 3rd party python module that made your programming 10 times more easier and less code ? so we can also try that out :-&rpar; .as a beginner , mine is pyinputplus](https://www.reddit.com/r/Python/comments/zc3mvf/what_is_your_favorite_most_underrated_3rd_party/)
 <!-- BLOG-POST-LIST:END -->
