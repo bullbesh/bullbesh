@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python CLI package](https://www.reddit.com/r/Python/comments/zcz1vt/python_cli_package/)
+- [Okay but like...how much memory does each object take up?](https://www.reddit.com/r/Python/comments/zcygde/okay_but_likehow_much_memory_does_each_object/)
 - [Minesweeper - first ever python project](https://www.reddit.com/r/Python/comments/zcxncg/minesweeper_first_ever_python_project/)
 - [Best place to learn python in an efficient way?](https://www.reddit.com/r/Python/comments/zcwp75/best_place_to_learn_python_in_an_efficient_way/)
 - [Do you have a kind of Flip/Flop operator in Python](https://www.reddit.com/r/Python/comments/zcttda/do_you_have_a_kind_of_flipflop_operator_in_python/)
-- [If there’s gonna be a Python 4.0 one day, what’s a breaking change you’d like to see? Let’s explore the ideas you have that can make Python even better!](https://www.reddit.com/r/Python/comments/zcr6o0/if_theres_gonna_be_a_python_40_one_day_whats_a/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/zcqd6d/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
