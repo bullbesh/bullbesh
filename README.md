@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn how to write those sweet list comprehensions other people do.](https://www.reddit.com/r/Python/comments/zcs9xs/learn_how_to_write_those_sweet_list/)
+- [If there’s gonna be a Python 4.0 one day, what’s a breaking change you’d like to see? Let’s explore the ideas you have that can make Python even better!](https://www.reddit.com/r/Python/comments/zcr6o0/if_theres_gonna_be_a_python_40_one_day_whats_a/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/zcqd6d/monday_daily_thread_project_ideas/)
 - [Astronomy Project: Detecting hazard asteroids &lpar;but in a biased way...&rpar;](https://www.reddit.com/r/Python/comments/zcn7ok/astronomy_project_detecting_hazard_asteroids_but/)
 - [Unofficial Python SDK for OpenAI&#39;s ChatGPT](https://www.reddit.com/r/Python/comments/zcmmgm/unofficial_python_sdk_for_openais_chatgpt/)
-- [What is the hardest challenge when writing unit tests?](https://www.reddit.com/r/Python/comments/zckje7/what_is_the_hardest_challenge_when_writing_unit/)
-- [Scrape Idealista.com Property Data using Python](https://www.reddit.com/r/Python/comments/zchpit/scrape_idealistacom_property_data_using_python/)
-- [I&#39;ve made a Twitter Bot that replies to you with a dad joke](https://www.reddit.com/r/Python/comments/zch6py/ive_made_a_twitter_bot_that_replies_to_you_with_a/)
 <!-- BLOG-POST-LIST:END -->
