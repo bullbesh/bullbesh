@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A missed joke in r/learnpython](https://www.reddit.com/r/Python/comments/zd3r0u/a_missed_joke_in_rlearnpython/)
+- [I implemented an SPH &lpar;Smooth Particle Hydrodynamics&rpar; simulator in Python](https://www.reddit.com/r/Python/comments/zd3pil/i_implemented_an_sph_smooth_particle/)
 - [Hey professionals … can someone help me with this request?](https://www.reddit.com/r/Python/comments/zd2j37/hey_professionals_can_someone_help_me_with_this/)
 - [What are Github Copilot&#39;s limitations?](https://www.reddit.com/r/Python/comments/zd2g1y/what_are_github_copilots_limitations/)
 - [Learn Python ?](https://www.reddit.com/r/Python/comments/zd0qho/learn_python/)
-- [For/else, while/else, try/else.](https://www.reddit.com/r/Python/comments/zd009j/forelse_whileelse_tryelse/)
-- [Python CLI package](https://www.reddit.com/r/Python/comments/zcz1vt/python_cli_package/)
 <!-- BLOG-POST-LIST:END -->
