@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python ?](https://www.reddit.com/r/Python/comments/zd0qho/learn_python/)
 - [For/else, while/else, try/else.](https://www.reddit.com/r/Python/comments/zd009j/forelse_whileelse_tryelse/)
 - [Python CLI package](https://www.reddit.com/r/Python/comments/zcz1vt/python_cli_package/)
 - [Okay but like...how much memory does each object take up?](https://www.reddit.com/r/Python/comments/zcygde/okay_but_likehow_much_memory_does_each_object/)
 - [Minesweeper - first ever python project](https://www.reddit.com/r/Python/comments/zcxncg/minesweeper_first_ever_python_project/)
-- [Best place to learn python in an efficient way?](https://www.reddit.com/r/Python/comments/zcwp75/best_place_to_learn_python_in_an_efficient_way/)
 <!-- BLOG-POST-LIST:END -->
