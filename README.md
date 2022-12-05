@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [KlongPy - I learned array programming by porting Klong array lang to Python and vectorizing with NumPy](https://www.reddit.com/r/Python/comments/zdcwsl/klongpy_i_learned_array_programming_by_porting/)
+- [I made adding floats together accurate!](https://www.reddit.com/r/Python/comments/zdbyfh/i_made_adding_floats_together_accurate/)
 - [Zero Knowledge Encryption for Python: Krptn](https://www.reddit.com/r/Python/comments/zdaxaa/zero_knowledge_encryption_for_python_krptn/)
 - [How many of the *other* developers around you write unit tests?](https://www.reddit.com/r/Python/comments/zdatbo/how_many_of_the_other_developers_around_you_write/)
 - [What are the best ways to use python for front-end development?](https://www.reddit.com/r/Python/comments/zdasc2/what_are_the_best_ways_to_use_python_for_frontend/)
-- [Sync data with faker library&lpar;python&rpar;](https://www.reddit.com/r/Python/comments/zdakxe/sync_data_with_faker_librarypython/)
-- [The free weekly Python on Microcontrollers Newsletter - please subscribe](https://www.reddit.com/r/Python/comments/zd8ldh/the_free_weekly_python_on_microcontrollers/)
 <!-- BLOG-POST-LIST:END -->
