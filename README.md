@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My video game coded with Python on Steam &lpar;and a little bit more ...&rpar;](https://www.reddit.com/r/Python/comments/zdluat/my_video_game_coded_with_python_on_steam_and_a/)
 - [I will try to explain classes and OOP to those who still do not understand them](https://www.reddit.com/r/Python/comments/zdj0yn/i_will_try_to_explain_classes_and_oop_to_those/)
 - [Survey on Python for Game Development](https://www.reddit.com/r/Python/comments/zdiueq/survey_on_python_for_game_development/)
 - [Tool for OpenAI&#39;s ChatGPT that allows you to chat straight from your terminal](https://www.reddit.com/r/Python/comments/zdfwdu/tool_for_openais_chatgpt_that_allows_you_to_chat/)
-- [Free Movie Api](https://www.reddit.com/r/Python/comments/zdfcmh/free_movie_api/)
 - [KlongPy - I learned array programming by porting Klong array lang to Python and vectorizing with NumPy](https://www.reddit.com/r/Python/comments/zdcwsl/klongpy_i_learned_array_programming_by_porting/)
 <!-- BLOG-POST-LIST:END -->
