@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Hospital Price Transparency](https://www.reddit.com/r/Python/comments/zeax48/open_source_hospital_price_transparency/)
+- [ICPC Archives: Collection of problems and solutions of final and regional ICPC contests](https://www.reddit.com/r/Python/comments/zeax19/icpc_archives_collection_of_problems_and/)
+- [Want to become a Software Engineer?](https://www.reddit.com/r/Python/comments/zea87v/want_to_become_a_software_engineer/)
 - [Advent of Code with Pandas - Advanced Pandas Tricks](https://www.reddit.com/r/Python/comments/ze8tix/advent_of_code_with_pandas_advanced_pandas_tricks/)
 - [Python News: What&#39;s New From November 2022 – Real Python](https://www.reddit.com/r/Python/comments/ze8qu8/python_news_whats_new_from_november_2022_real/)
-- [Python Data Science December](https://www.reddit.com/r/Python/comments/ze7v3o/python_data_science_december/)
-- [Predict how teams will rank in sports/video games using our rating system.](https://www.reddit.com/r/Python/comments/ze5k96/predict_how_teams_will_rank_in_sportsvideo_games/)
-- [Python Classes and OOP Explained](https://www.reddit.com/r/Python/comments/ze2mqa/python_classes_and_oop_explained/)
 <!-- BLOG-POST-LIST:END -->
