@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Classes and OOP Explained](https://www.reddit.com/r/Python/comments/ze2mqa/python_classes_and_oop_explained/)
+- [A 10k-particle comet simulation, completed within 100 lines of Python code](https://www.reddit.com/r/Python/comments/ze29pf/a_10kparticle_comet_simulation_completed_within/)
+- [Using Helper Functions to Make Tests More Concise](https://www.reddit.com/r/Python/comments/ze25dh/using_helper_functions_to_make_tests_more_concise/)
+- [Top Must-Have Python Modules](https://www.reddit.com/r/Python/comments/ze1gev/top_musthave_python_modules/)
 - [Python All In-One 2023 ™️ - [ Free 9-Hours Course]- Including Automation And Image/Video Processing](https://www.reddit.com/r/Python/comments/ze0sc0/python_all_inone_2023_free_9hours_course/)
-- [My first ever terminal game coded in Python.](https://www.reddit.com/r/Python/comments/ze0jgz/my_first_ever_terminal_game_coded_in_python/)
-- [The BriskCI Python beta is now public](https://www.reddit.com/r/Python/comments/zdzlcs/the_briskci_python_beta_is_now_public/)
-- [How do we get inspiration for creating innovative things in python.](https://www.reddit.com/r/Python/comments/zdxygf/how_do_we_get_inspiration_for_creating_innovative/)
-- [laptop for coding &lpar;python&rpar; and others](https://www.reddit.com/r/Python/comments/zdu1a2/laptop_for_coding_python_and_others/)
 <!-- BLOG-POST-LIST:END -->
