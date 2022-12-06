@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is ChatGPT? Is it a Threat to Google](https://www.reddit.com/r/Python/comments/zef0ee/what_is_chatgpt_is_it_a_threat_to_google/)
+- [Text Based Bit Life!](https://www.reddit.com/r/Python/comments/zees3h/text_based_bit_life/)
 - [Practice Python and win a prize!](https://www.reddit.com/r/Python/comments/zed1y2/practice_python_and_win_a_prize/)
 - [Intruder Detection](https://www.reddit.com/r/Python/comments/zebsc1/intruder_detection/)
 - [Cool stramlit app for podcasts using NLP](https://www.reddit.com/r/Python/comments/zeb79s/cool_stramlit_app_for_podcasts_using_nlp/)
-- [Perfect, Infinite-Precision, Game Physics in Python](https://www.reddit.com/r/Python/comments/zeb6ji/perfect_infiniteprecision_game_physics_in_python/)
-- [ICPC Archives: Collection of problems and solutions of final and regional ICPC contests](https://www.reddit.com/r/Python/comments/zeax19/icpc_archives_collection_of_problems_and/)
 <!-- BLOG-POST-LIST:END -->
