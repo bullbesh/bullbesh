@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is ChatGPT? Is it a Threat to Google](https://www.reddit.com/r/Python/comments/zef0ee/what_is_chatgpt_is_it_a_threat_to_google/)
+- [Game Engine written in Python! Feedback welcome :&rpar;](https://www.reddit.com/r/Python/comments/zegkgk/game_engine_written_in_python_feedback_welcome/)
 - [Text Based Bit Life!](https://www.reddit.com/r/Python/comments/zees3h/text_based_bit_life/)
 - [Practice Python and win a prize!](https://www.reddit.com/r/Python/comments/zed1y2/practice_python_and_win_a_prize/)
 - [Intruder Detection](https://www.reddit.com/r/Python/comments/zebsc1/intruder_detection/)
