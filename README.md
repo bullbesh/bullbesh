@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I finished a project!](https://www.reddit.com/r/Python/comments/zec6pu/i_finished_a_project/)
+- [Practice Python and win a prize!](https://www.reddit.com/r/Python/comments/zed1y2/practice_python_and_win_a_prize/)
 - [Intruder Detection](https://www.reddit.com/r/Python/comments/zebsc1/intruder_detection/)
-- [I&#39;m on the waitlist for Coqui 🐸💬 Studio - Coqui&#39;s first AI voice studio release! Get your spot in line too!](https://www.reddit.com/r/Python/comments/zebr03/im_on_the_waitlist_for_coqui_studio_coquis_first/)
 - [Cool stramlit app for podcasts using NLP](https://www.reddit.com/r/Python/comments/zeb79s/cool_stramlit_app_for_podcasts_using_nlp/)
 - [Perfect, Infinite-Precision, Game Physics in Python](https://www.reddit.com/r/Python/comments/zeb6ji/perfect_infiniteprecision_game_physics_in_python/)
+- [ICPC Archives: Collection of problems and solutions of final and regional ICPC contests](https://www.reddit.com/r/Python/comments/zeax19/icpc_archives_collection_of_problems_and/)
 <!-- BLOG-POST-LIST:END -->
