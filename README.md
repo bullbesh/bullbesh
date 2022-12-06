@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are some features you wish Python had?](https://www.reddit.com/r/Python/comments/zejscp/what_are_some_features_you_wish_python_had/)
+- [Python script for renaming a group of files](https://www.reddit.com/r/Python/comments/zeizcf/python_script_for_renaming_a_group_of_files/)
 - [Game Engine written in Python! Feedback welcome :&rpar;](https://www.reddit.com/r/Python/comments/zegkgk/game_engine_written_in_python_feedback_welcome/)
 - [Text Based Bit Life!](https://www.reddit.com/r/Python/comments/zees3h/text_based_bit_life/)
 - [Practice Python and win a prize!](https://www.reddit.com/r/Python/comments/zed1y2/practice_python_and_win_a_prize/)
-- [Intruder Detection](https://www.reddit.com/r/Python/comments/zebsc1/intruder_detection/)
-- [Cool stramlit app for podcasts using NLP](https://www.reddit.com/r/Python/comments/zeb79s/cool_stramlit_app_for_podcasts_using_nlp/)
 <!-- BLOG-POST-LIST:END -->
