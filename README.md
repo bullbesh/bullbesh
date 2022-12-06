@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Code with Pandas - Advanced Pandas Tricks](https://www.reddit.com/r/Python/comments/ze8tix/advent_of_code_with_pandas_advanced_pandas_tricks/)
+- [Python News: What&#39;s New From November 2022 – Real Python](https://www.reddit.com/r/Python/comments/ze8qu8/python_news_whats_new_from_november_2022_real/)
 - [Python Data Science December](https://www.reddit.com/r/Python/comments/ze7v3o/python_data_science_december/)
 - [Predict how teams will rank in sports/video games using our rating system.](https://www.reddit.com/r/Python/comments/ze5k96/predict_how_teams_will_rank_in_sportsvideo_games/)
 - [Python Classes and OOP Explained](https://www.reddit.com/r/Python/comments/ze2mqa/python_classes_and_oop_explained/)
-- [A 10k-particle comet simulation, completed within 100 lines of Python code](https://www.reddit.com/r/Python/comments/ze29pf/a_10kparticle_comet_simulation_completed_within/)
-- [Using Helper Functions to Make Tests More Concise](https://www.reddit.com/r/Python/comments/ze25dh/using_helper_functions_to_make_tests_more_concise/)
 <!-- BLOG-POST-LIST:END -->
