@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Hospital Price Transparency](https://www.reddit.com/r/Python/comments/zeax48/open_source_hospital_price_transparency/)
-- [ICPC Archives: Collection of problems and solutions of final and regional ICPC contests](https://www.reddit.com/r/Python/comments/zeax19/icpc_archives_collection_of_problems_and/)
-- [Want to become a Software Engineer?](https://www.reddit.com/r/Python/comments/zea87v/want_to_become_a_software_engineer/)
-- [Advent of Code with Pandas - Advanced Pandas Tricks](https://www.reddit.com/r/Python/comments/ze8tix/advent_of_code_with_pandas_advanced_pandas_tricks/)
-- [Python News: What&#39;s New From November 2022 – Real Python](https://www.reddit.com/r/Python/comments/ze8qu8/python_news_whats_new_from_november_2022_real/)
+- [I finished a project!](https://www.reddit.com/r/Python/comments/zec6pu/i_finished_a_project/)
+- [Intruder Detection](https://www.reddit.com/r/Python/comments/zebsc1/intruder_detection/)
+- [I&#39;m on the waitlist for Coqui 🐸💬 Studio - Coqui&#39;s first AI voice studio release! Get your spot in line too!](https://www.reddit.com/r/Python/comments/zebr03/im_on_the_waitlist_for_coqui_studio_coquis_first/)
+- [Cool stramlit app for podcasts using NLP](https://www.reddit.com/r/Python/comments/zeb79s/cool_stramlit_app_for_podcasts_using_nlp/)
+- [Perfect, Infinite-Precision, Game Physics in Python](https://www.reddit.com/r/Python/comments/zeb6ji/perfect_infiniteprecision_game_physics_in_python/)
 <!-- BLOG-POST-LIST:END -->
