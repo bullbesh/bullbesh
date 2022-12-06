@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hey! A newbie with a problem here.](https://www.reddit.com/r/Python/comments/zdqnkq/hey_a_newbie_with_a_problem_here/)
 - [at 44, I am struggling on Python for two months now but I keep at it. 2 hours a night, after the kids sleep, I work on it and will eventually be able to use it to get a better job, a better life for them.](https://www.reddit.com/r/Python/comments/zdpoi4/at_44_i_am_struggling_on_python_for_two_months/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/zdouqv/tuesday_daily_thread_advanced_questions/)
 - [Reddit image scraper with selenium](https://www.reddit.com/r/Python/comments/zdmdlm/reddit_image_scraper_with_selenium/)
 - [My video game coded with Python on Steam &lpar;and a little bit more ...&rpar;](https://www.reddit.com/r/Python/comments/zdluat/my_video_game_coded_with_python_on_steam_and_a/)
+- [I will try to explain classes and OOP to those who still do not understand them](https://www.reddit.com/r/Python/comments/zdj0yn/i_will_try_to_explain_classes_and_oop_to_those/)
 <!-- BLOG-POST-LIST:END -->
