@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Package Authors: Zero-config building cross-platform wheels for publishing to PyPI](https://www.reddit.com/r/Python/comments/zf6qut/package_authors_zeroconfig_building_crossplatform/)
 - [Trying to create my own module](https://www.reddit.com/r/Python/comments/zf5hg3/trying_to_create_my_own_module/)
 - [Get whole or custom interval transcript from YouTube Video with fixed format.](https://www.reddit.com/r/Python/comments/zf55lf/get_whole_or_custom_interval_transcript_from/)
 - [Do y&#39;all use Word Wrap?](https://www.reddit.com/r/Python/comments/zf4ymr/do_yall_use_word_wrap/)
 - [GitHub - fkhan0520/cgpt_exceptions Use ChatGPT to give helpful advice when your python program fails](https://www.reddit.com/r/Python/comments/zf4tem/github_fkhan0520cgpt_exceptions_use_chatgpt_to/)
-- [QualityScaler 8.0 - image/video deeplearning upscaler with any GPU &lpar;BSRGAN/Pytorch&rpar;](https://www.reddit.com/r/Python/comments/zf1awt/qualityscaler_80_imagevideo_deeplearning_upscaler/)
 <!-- BLOG-POST-LIST:END -->
