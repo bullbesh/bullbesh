@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trying to create my own module](https://www.reddit.com/r/Python/comments/zf5hg3/trying_to_create_my_own_module/)
+- [Get whole or custom interval transcript from YouTube Video with fixed format.](https://www.reddit.com/r/Python/comments/zf55lf/get_whole_or_custom_interval_transcript_from/)
+- [Do y&#39;all use Word Wrap?](https://www.reddit.com/r/Python/comments/zf4ymr/do_yall_use_word_wrap/)
+- [GitHub - fkhan0520/cgpt_exceptions Use ChatGPT to give helpful advice when your python program fails](https://www.reddit.com/r/Python/comments/zf4tem/github_fkhan0520cgpt_exceptions_use_chatgpt_to/)
 - [QualityScaler 8.0 - image/video deeplearning upscaler with any GPU &lpar;BSRGAN/Pytorch&rpar;](https://www.reddit.com/r/Python/comments/zf1awt/qualityscaler_80_imagevideo_deeplearning_upscaler/)
-- [PyPy v7.3.10 released](https://www.reddit.com/r/Python/comments/zf0553/pypy_v7310_released/)
-- [Extract keys](https://www.reddit.com/r/Python/comments/zezyj3/extract_keys/)
-- [ETH Price prediction algorithm: any recommendations?](https://www.reddit.com/r/Python/comments/zezjct/eth_price_prediction_algorithm_any_recommendations/)
-- [New Features of Image Segmentation Project PaddleSeg](https://www.reddit.com/r/Python/comments/zez214/new_features_of_image_segmentation_project/)
 <!-- BLOG-POST-LIST:END -->
