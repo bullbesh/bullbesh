@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [what can I make with python?](https://www.reddit.com/r/Python/comments/zep7bx/what_can_i_make_with_python/)
+- [Python Insider: Python 3.11.1, 3.10.9, 3.9.16, 3.8.16, 3.7.16, and 3.12.0 alpha 3 are now available](https://www.reddit.com/r/Python/comments/zeoy84/python_insider_python_3111_3109_3916_3816_3716/)
 - [Additional Python Interview questions](https://www.reddit.com/r/Python/comments/zenx40/additional_python_interview_questions/)
 - [Best Way to Learn Python?](https://www.reddit.com/r/Python/comments/zen69c/best_way_to_learn_python/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/zemgt2/wednesday_daily_thread_beginner_questions/)
-- [What are some features you wish Python had?](https://www.reddit.com/r/Python/comments/zejscp/what_are_some_features_you_wish_python_had/)
-- [Python script for renaming a group of files](https://www.reddit.com/r/Python/comments/zeizcf/python_script_for_renaming_a_group_of_files/)
 <!-- BLOG-POST-LIST:END -->
