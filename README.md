@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nedry, self-hosted discord bot with a modular plugin system &lpar;named after Dennis Nedry from Jurassic Park&rpar;](https://www.reddit.com/r/Python/comments/zestbu/nedry_selfhosted_discord_bot_with_a_modular/)
+- [Important differences between Python 2.x and Python 3.x with examples](https://www.reddit.com/r/Python/comments/zes1aj/important_differences_between_python_2x_and/)
 - [Multiple versions install?](https://www.reddit.com/r/Python/comments/zernyh/multiple_versions_install/)
 - [Python Insider: Python 3.11.1, 3.10.9, 3.9.16, 3.8.16, 3.7.16, and 3.12.0 alpha 3 are now available](https://www.reddit.com/r/Python/comments/zeoy84/python_insider_python_3111_3109_3916_3816_3716/)
 - [Additional Python Interview questions](https://www.reddit.com/r/Python/comments/zenx40/additional_python_interview_questions/)
-- [Best Way to Learn Python?](https://www.reddit.com/r/Python/comments/zen69c/best_way_to_learn_python/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/zemgt2/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
