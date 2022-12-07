@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyPy v7.3.10 released](https://www.reddit.com/r/Python/comments/zf0553/pypy_v7310_released/)
 - [Extract keys](https://www.reddit.com/r/Python/comments/zezyj3/extract_keys/)
 - [ETH Price prediction algorithm: any recommendations?](https://www.reddit.com/r/Python/comments/zezjct/eth_price_prediction_algorithm_any_recommendations/)
 - [New Features of Image Segmentation Project PaddleSeg](https://www.reddit.com/r/Python/comments/zez214/new_features_of_image_segmentation_project/)
 - [How to build a Data Science Portfolio](https://www.reddit.com/r/Python/comments/zeylqd/how_to_build_a_data_science_portfolio/)
-- [10 Mistakes I made as a Newbie Python Developer](https://www.reddit.com/r/Python/comments/zexbkd/10_mistakes_i_made_as_a_newbie_python_developer/)
 <!-- BLOG-POST-LIST:END -->
