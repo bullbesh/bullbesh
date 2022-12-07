@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Mistakes I made as a Newbie Python Developer](https://www.reddit.com/r/Python/comments/zexbkd/10_mistakes_i_made_as_a_newbie_python_developer/)
+- [I asked the AI to program the code for me](https://www.reddit.com/r/Python/comments/zewqwy/i_asked_the_ai_to_program_the_code_for_me/)
 - [Top Rated Talks at ODSC West 2022](https://www.reddit.com/r/Python/comments/zew7cs/top_rated_talks_at_odsc_west_2022/)
 - [How to write tests in Python using doctest](https://www.reddit.com/r/Python/comments/zew3em/how_to_write_tests_in_python_using_doctest/)
 - [Nedry, self-hosted discord bot with a modular plugin system &lpar;named after Dennis Nedry from Jurassic Park&rpar;](https://www.reddit.com/r/Python/comments/zestbu/nedry_selfhosted_discord_bot_with_a_modular/)
-- [Multiple versions install?](https://www.reddit.com/r/Python/comments/zernyh/multiple_versions_install/)
-- [Python Insider: Python 3.11.1, 3.10.9, 3.9.16, 3.8.16, 3.7.16, and 3.12.0 alpha 3 are now available](https://www.reddit.com/r/Python/comments/zeoy84/python_insider_python_3111_3109_3916_3816_3716/)
 <!-- BLOG-POST-LIST:END -->
