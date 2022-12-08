@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Checkout my Python Stable Diffusion tutorial series! It walks you through how to setup and use Stable Diffusion and the Diffusers library to create some awesome A.I art with Python. Part 2 just came out today!](https://www.reddit.com/r/Python/comments/zg8mic/checkout_my_python_stable_diffusion_tutorial/)
 - [Codon: A high-performance Python compiler using LLVM](https://www.reddit.com/r/Python/comments/zg85e8/codon_a_highperformance_python_compiler_using_llvm/)
 - [bruttle - A bruteforcing tool](https://www.reddit.com/r/Python/comments/zg81wt/bruttle_a_bruteforcing_tool/)
 - [Introducing Anvil’s Python-based Data Files API](https://www.reddit.com/r/Python/comments/zg7m9y/introducing_anvils_pythonbased_data_files_api/)
 - [Anyone tried Shiny for Python?](https://www.reddit.com/r/Python/comments/zg7ca7/anyone_tried_shiny_for_python/)
-- [hi guys! Do you think i can get an actual job with python, i just started learning and I&#39;m aiming to get a job in IT in 3-4 years &lpar; im 16&rpar;](https://www.reddit.com/r/Python/comments/zg6sf9/hi_guys_do_you_think_i_can_get_an_actual_job_with/)
 <!-- BLOG-POST-LIST:END -->
