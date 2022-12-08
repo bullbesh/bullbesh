@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Joining a Wi-Fi network with style!](https://www.reddit.com/r/Python/comments/zftspn/joining_a_wifi_network_with_style/)
+- [Pandas Doubt](https://www.reddit.com/r/Python/comments/zftct8/pandas_doubt/)
+- [I made a course for developing web APIs with Python and Fast API.](https://www.reddit.com/r/Python/comments/zft8oi/i_made_a_course_for_developing_web_apis_with/)
 - [Where to look for interesting jobs?](https://www.reddit.com/r/Python/comments/zft3g6/where_to_look_for_interesting_jobs/)
 - [Using Python to Calculate Twitter Sentiment](https://www.reddit.com/r/Python/comments/zfs2bk/using_python_to_calculate_twitter_sentiment/)
-- [Python Flask Web App with Amazon RDS, Elastic Beanstalk, Route53 &amp; Amazon Certificate Manager](https://www.reddit.com/r/Python/comments/zfot2j/python_flask_web_app_with_amazon_rds_elastic/)
-- [What are some good Python Automation Ideas?](https://www.reddit.com/r/Python/comments/zfmcyr/what_are_some_good_python_automation_ideas/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/zfimac/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
