@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Command-Line Interfaces With Python&#39;s argparse – Real Python](https://www.reddit.com/r/Python/comments/zg0wo9/build_commandline_interfaces_with_pythons/)
+- [FastAPI Project Template with Docker, Tests, Linting and CI](https://www.reddit.com/r/Python/comments/zg0i4r/fastapi_project_template_with_docker_tests/)
 - [InstaUnFollowers - Legal Instagram Unfollower Tracker [Docker/Flask/Jinja/PEP8]](https://www.reddit.com/r/Python/comments/zfzuxx/instaunfollowers_legal_instagram_unfollower/)
 - [Tumult Analytics: Differential privacy made easy… and open-source!](https://www.reddit.com/r/Python/comments/zfzsyn/tumult_analytics_differential_privacy_made_easy/)
 - [Gufo Liftbridge - the Python asyncio Liftbridge client](https://www.reddit.com/r/Python/comments/zfywnj/gufo_liftbridge_the_python_asyncio_liftbridge/)
-- [Help on installing requirements](https://www.reddit.com/r/Python/comments/zfys5l/help_on_installing_requirements/)
-- [Why is my generator with low level threads slower?](https://www.reddit.com/r/Python/comments/zfy965/why_is_my_generator_with_low_level_threads_slower/)
 <!-- BLOG-POST-LIST:END -->
