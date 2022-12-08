@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building a network to increase stars on your GitHub repo completely free](https://www.reddit.com/r/Python/comments/zfjsw1/im_building_a_network_to_increase_stars_on_your/)
+- [What are some good Python Automation Ideas?](https://www.reddit.com/r/Python/comments/zfmcyr/what_are_some_good_python_automation_ideas/)
 - [How much should i ask for a social media website with UX/UI, branding/logo included?](https://www.reddit.com/r/Python/comments/zfj44s/how_much_should_i_ask_for_a_social_media_website/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/zfimac/thursday_daily_thread_python_careers_courses_and/)
 - [Which Python package generates and iterates over inputs for unit testing?](https://www.reddit.com/r/Python/comments/zfi3ja/which_python_package_generates_and_iterates_over/)
