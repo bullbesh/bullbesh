@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [assertnever - Syntactical sugar for assert never](https://www.reddit.com/r/Python/comments/zgcplq/assertnever_syntactical_sugar_for_assert_never/)
 - [The PSF announces new Sliding Scale option for Supporting Membership](https://www.reddit.com/r/Python/comments/zgb2ga/the_psf_announces_new_sliding_scale_option_for/)
 - [Daath AI Parser is an open-source application that uses OpenAI to parse visible text of HTML elements](https://www.reddit.com/r/Python/comments/zgaz4c/daath_ai_parser_is_an_opensource_application_that/)
 - [Codon: A high-performance Python compiler using LLVM](https://www.reddit.com/r/Python/comments/zg85e8/codon_a_highperformance_python_compiler_using_llvm/)
 - [bruttle - A bruteforcing tool](https://www.reddit.com/r/Python/comments/zg81wt/bruttle_a_bruteforcing_tool/)
-- [Introducing Anvil’s Python-based Data Files API](https://www.reddit.com/r/Python/comments/zg7m9y/introducing_anvils_pythonbased_data_files_api/)
 <!-- BLOG-POST-LIST:END -->
