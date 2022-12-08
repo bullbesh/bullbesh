@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Where to look for interesting jobs?](https://www.reddit.com/r/Python/comments/zft3g6/where_to_look_for_interesting_jobs/)
+- [Using Python to Calculate Twitter Sentiment](https://www.reddit.com/r/Python/comments/zfs2bk/using_python_to_calculate_twitter_sentiment/)
 - [Python Flask Web App with Amazon RDS, Elastic Beanstalk, Route53 &amp; Amazon Certificate Manager](https://www.reddit.com/r/Python/comments/zfot2j/python_flask_web_app_with_amazon_rds_elastic/)
 - [What are some good Python Automation Ideas?](https://www.reddit.com/r/Python/comments/zfmcyr/what_are_some_good_python_automation_ideas/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/zfimac/thursday_daily_thread_python_careers_courses_and/)
-- [Which Python package generates and iterates over inputs for unit testing?](https://www.reddit.com/r/Python/comments/zfi3ja/which_python_package_generates_and_iterates_over/)
-- [What are your preferred conventions for documenting python code?](https://www.reddit.com/r/Python/comments/zfbm0q/what_are_your_preferred_conventions_for/)
 <!-- BLOG-POST-LIST:END -->
