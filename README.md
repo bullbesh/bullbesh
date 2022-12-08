@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Checkout my Python Stable Diffusion tutorial series! It walks you through how to setup and use Stable Diffusion and the Diffusers library to create some awesome A.I art with Python. Part 2 just came out today!](https://www.reddit.com/r/Python/comments/zg8mic/checkout_my_python_stable_diffusion_tutorial/)
+- [The PSF announces new Sliding Scale option for Supporting Membership](https://www.reddit.com/r/Python/comments/zgb2ga/the_psf_announces_new_sliding_scale_option_for/)
+- [Daath AI Parser is an open-source application that uses OpenAI to parse visible text of HTML elements](https://www.reddit.com/r/Python/comments/zgaz4c/daath_ai_parser_is_an_opensource_application_that/)
 - [Codon: A high-performance Python compiler using LLVM](https://www.reddit.com/r/Python/comments/zg85e8/codon_a_highperformance_python_compiler_using_llvm/)
 - [bruttle - A bruteforcing tool](https://www.reddit.com/r/Python/comments/zg81wt/bruttle_a_bruteforcing_tool/)
 - [Introducing Anvil’s Python-based Data Files API](https://www.reddit.com/r/Python/comments/zg7m9y/introducing_anvils_pythonbased_data_files_api/)
-- [Anyone tried Shiny for Python?](https://www.reddit.com/r/Python/comments/zg7ca7/anyone_tried_shiny_for_python/)
 <!-- BLOG-POST-LIST:END -->
