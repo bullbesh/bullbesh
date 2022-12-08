@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python in Visual Studio Code - December 2022 Release](https://www.reddit.com/r/Python/comments/zg52pg/python_in_visual_studio_code_december_2022_release/)
+- [Friend’s work does not allow developers to use Python](https://www.reddit.com/r/Python/comments/zg4cku/friends_work_does_not_allow_developers_to_use/)
+- [First project as a beginner](https://www.reddit.com/r/Python/comments/zg41u7/first_project_as_a_beginner/)
 - [It’s time to stop using Python 3.7](https://www.reddit.com/r/Python/comments/zg3p5y/its_time_to_stop_using_python_37/)
 - [Python Project For Beginners | Browser Automation &amp; Web Scraping Craigslist &lpar;Full-Tutorial&rpar;](https://www.reddit.com/r/Python/comments/zg2j83/python_project_for_beginners_browser_automation/)
-- [Visualization of Stereographic projection with python](https://www.reddit.com/r/Python/comments/zg23bw/visualization_of_stereographic_projection_with/)
-- [Build Command-Line Interfaces With Python&#39;s argparse – Real Python](https://www.reddit.com/r/Python/comments/zg0wo9/build_commandline_interfaces_with_pythons/)
-- [FastAPI Project Template with Docker, Tests, Linting and CI](https://www.reddit.com/r/Python/comments/zg0i4r/fastapi_project_template_with_docker_tests/)
 <!-- BLOG-POST-LIST:END -->
