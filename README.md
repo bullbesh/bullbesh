@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [It’s time to stop using Python 3.7](https://www.reddit.com/r/Python/comments/zg3p5y/its_time_to_stop_using_python_37/)
+- [Python Project For Beginners | Browser Automation &amp; Web Scraping Craigslist &lpar;Full-Tutorial&rpar;](https://www.reddit.com/r/Python/comments/zg2j83/python_project_for_beginners_browser_automation/)
+- [Visualization of Stereographic projection with python](https://www.reddit.com/r/Python/comments/zg23bw/visualization_of_stereographic_projection_with/)
 - [Build Command-Line Interfaces With Python&#39;s argparse – Real Python](https://www.reddit.com/r/Python/comments/zg0wo9/build_commandline_interfaces_with_pythons/)
 - [FastAPI Project Template with Docker, Tests, Linting and CI](https://www.reddit.com/r/Python/comments/zg0i4r/fastapi_project_template_with_docker_tests/)
-- [InstaUnFollowers - Legal Instagram Unfollower Tracker [Docker/Flask/Jinja/PEP8]](https://www.reddit.com/r/Python/comments/zfzuxx/instaunfollowers_legal_instagram_unfollower/)
-- [Tumult Analytics: Differential privacy made easy… and open-source!](https://www.reddit.com/r/Python/comments/zfzsyn/tumult_analytics_differential_privacy_made_easy/)
-- [Gufo Liftbridge - the Python asyncio Liftbridge client](https://www.reddit.com/r/Python/comments/zfywnj/gufo_liftbridge_the_python_asyncio_liftbridge/)
 <!-- BLOG-POST-LIST:END -->
