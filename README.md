@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Codon: A high-performance Python compiler using LLVM](https://www.reddit.com/r/Python/comments/zg85e8/codon_a_highperformance_python_compiler_using_llvm/)
+- [bruttle - A bruteforcing tool](https://www.reddit.com/r/Python/comments/zg81wt/bruttle_a_bruteforcing_tool/)
+- [Introducing Anvil’s Python-based Data Files API](https://www.reddit.com/r/Python/comments/zg7m9y/introducing_anvils_pythonbased_data_files_api/)
+- [Anyone tried Shiny for Python?](https://www.reddit.com/r/Python/comments/zg7ca7/anyone_tried_shiny_for_python/)
 - [hi guys! Do you think i can get an actual job with python, i just started learning and I&#39;m aiming to get a job in IT in 3-4 years &lpar; im 16&rpar;](https://www.reddit.com/r/Python/comments/zg6sf9/hi_guys_do_you_think_i_can_get_an_actual_job_with/)
-- [Data Scientist at Forta](https://www.reddit.com/r/Python/comments/zg60je/data_scientist_at_forta/)
-- [Aura Notes v1.0.8 &lpar;Upcoming&rpar;](https://www.reddit.com/r/Python/comments/zg5lfn/aura_notes_v108_upcoming/)
-- [Python in Visual Studio Code - December 2022 Release](https://www.reddit.com/r/Python/comments/zg52pg/python_in_visual_studio_code_december_2022_release/)
-- [Friend’s work does not allow developers to use Python](https://www.reddit.com/r/Python/comments/zg4cku/friends_work_does_not_allow_developers_to_use/)
 <!-- BLOG-POST-LIST:END -->
