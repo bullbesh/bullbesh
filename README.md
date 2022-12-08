@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [What are some good Python Automation Ideas?](https://www.reddit.com/r/Python/comments/zfmcyr/what_are_some_good_python_automation_ideas/)
-- [How much should i ask for a social media website with UX/UI, branding/logo included?](https://www.reddit.com/r/Python/comments/zfj44s/how_much_should_i_ask_for_a_social_media_website/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/zfimac/thursday_daily_thread_python_careers_courses_and/)
 - [Which Python package generates and iterates over inputs for unit testing?](https://www.reddit.com/r/Python/comments/zfi3ja/which_python_package_generates_and_iterates_over/)
-- [Python library to remove predicates from a query for fingerprinting/checksums](https://www.reddit.com/r/Python/comments/zfbsq8/python_library_to_remove_predicates_from_a_query/)
+- [What are your preferred conventions for documenting python code?](https://www.reddit.com/r/Python/comments/zfbm0q/what_are_your_preferred_conventions_for/)
+- [My IT teacher has an amazing YouTube channel with free Python lessons. Please subscribe to him so he can monetize his videos and give us more candy in class.](https://www.reddit.com/r/Python/comments/zf8ikn/my_it_teacher_has_an_amazing_youtube_channel_with/)
 <!-- BLOG-POST-LIST:END -->
