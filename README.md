@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [hi guys! Do you think i can get an actual job with python, i just started learning and I&#39;m aiming to get a job in IT in 3-4 years &lpar; im 16&rpar;](https://www.reddit.com/r/Python/comments/zg6sf9/hi_guys_do_you_think_i_can_get_an_actual_job_with/)
+- [Data Scientist at Forta](https://www.reddit.com/r/Python/comments/zg60je/data_scientist_at_forta/)
+- [Aura Notes v1.0.8 &lpar;Upcoming&rpar;](https://www.reddit.com/r/Python/comments/zg5lfn/aura_notes_v108_upcoming/)
 - [Python in Visual Studio Code - December 2022 Release](https://www.reddit.com/r/Python/comments/zg52pg/python_in_visual_studio_code_december_2022_release/)
 - [Friend’s work does not allow developers to use Python](https://www.reddit.com/r/Python/comments/zg4cku/friends_work_does_not_allow_developers_to_use/)
-- [First project as a beginner](https://www.reddit.com/r/Python/comments/zg41u7/first_project_as_a_beginner/)
-- [It’s time to stop using Python 3.7](https://www.reddit.com/r/Python/comments/zg3p5y/its_time_to_stop_using_python_37/)
-- [Python Project For Beginners | Browser Automation &amp; Web Scraping Craigslist &lpar;Full-Tutorial&rpar;](https://www.reddit.com/r/Python/comments/zg2j83/python_project_for_beginners_browser_automation/)
 <!-- BLOG-POST-LIST:END -->
