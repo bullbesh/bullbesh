@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Levels of Using Type Hints in Python](https://www.reddit.com/r/Python/comments/zfup3v/8_levels_of_using_type_hints_in_python/)
+- [asyncio gather with multiple return values](https://www.reddit.com/r/Python/comments/zfuls8/asyncio_gather_with_multiple_return_values/)
+- [New release of Firebird driver for Python V1.8.0 is available](https://www.reddit.com/r/Python/comments/zfucu5/new_release_of_firebird_driver_for_python_v180_is/)
 - [Joining a Wi-Fi network with style!](https://www.reddit.com/r/Python/comments/zftspn/joining_a_wifi_network_with_style/)
 - [Pandas Doubt](https://www.reddit.com/r/Python/comments/zftct8/pandas_doubt/)
-- [I made a course for developing web APIs with Python and Fast API.](https://www.reddit.com/r/Python/comments/zft8oi/i_made_a_course_for_developing_web_apis_with/)
-- [Where to look for interesting jobs?](https://www.reddit.com/r/Python/comments/zft3g6/where_to_look_for_interesting_jobs/)
-- [Using Python to Calculate Twitter Sentiment](https://www.reddit.com/r/Python/comments/zfs2bk/using_python_to_calculate_twitter_sentiment/)
 <!-- BLOG-POST-LIST:END -->
