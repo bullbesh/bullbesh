@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI REST API pre-configured with a database. This will get you up and running with CRUD operations quickly. Use this starter, boilerplate for all your new FastAPI projects.](https://www.reddit.com/r/Python/comments/zghz7j/fastapi_rest_api_preconfigured_with_a_database/)
+- [I accidentally made some monkey patching on steroid module: overlaymodule](https://www.reddit.com/r/Python/comments/zghtqp/i_accidentally_made_some_monkey_patching_on/)
 - [assertnever - Syntactical sugar for assert never](https://www.reddit.com/r/Python/comments/zgcplq/assertnever_syntactical_sugar_for_assert_never/)
 - [The PSF announces new Sliding Scale option for Supporting Membership](https://www.reddit.com/r/Python/comments/zgb2ga/the_psf_announces_new_sliding_scale_option_for/)
 - [Daath AI Parser is an open-source application that uses OpenAI to parse visible text of HTML elements](https://www.reddit.com/r/Python/comments/zgaz4c/daath_ai_parser_is_an_opensource_application_that/)
-- [Checkout my Python Stable Diffusion tutorial series! It walks you through how to setup and use Stable Diffusion and the Diffusers library to create some awesome A.I art with Python. Part 2 just came out today!](https://www.reddit.com/r/Python/comments/zg8mic/checkout_my_python_stable_diffusion_tutorial/)
-- [Codon: A high-performance Python compiler using LLVM](https://www.reddit.com/r/Python/comments/zg85e8/codon_a_highperformance_python_compiler_using_llvm/)
 <!-- BLOG-POST-LIST:END -->
