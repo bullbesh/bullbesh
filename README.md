@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I coded an API](https://www.reddit.com/r/Python/comments/zh8bhf/i_coded_an_api/)
 - [why does pep8 say package names must be all lowercase and no underscores? doesnt that make it harder to read](https://www.reddit.com/r/Python/comments/zh5pa6/why_does_pep8_say_package_names_must_be_all/)
 - [Ransomware being published to PyPI in ongoing campaign](https://www.reddit.com/r/Python/comments/zh4xjh/ransomware_being_published_to_pypi_in_ongoing/)
 - [Pynecone: Web Apps in Pure Python](https://www.reddit.com/r/Python/comments/zh0pmy/pynecone_web_apps_in_pure_python/)
 - [High Performance Charts for Python Apps](https://www.reddit.com/r/Python/comments/zgywzx/high_performance_charts_for_python_apps/)
-- [Python helps us to build a high-performance and holistic framework for Feature Flags, A/B testing, and more.](https://www.reddit.com/r/Python/comments/zgy87z/python_helps_us_to_build_a_highperformance_and/)
 <!-- BLOG-POST-LIST:END -->
