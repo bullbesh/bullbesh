@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Textual autocomplete &lpar;auto complete for terminal base apps&rpar;](https://www.reddit.com/r/Python/comments/zgvddu/textual_autocomplete_auto_complete_for_terminal/)
+- [Letting your cook multitask while bringing water to a boil](https://www.reddit.com/r/Python/comments/zgv1ry/letting_your_cook_multitask_while_bringing_water/)
 - [Help me complete the code coz ChatGPT f*ed up!](https://www.reddit.com/r/Python/comments/zgu7ca/help_me_complete_the_code_coz_chatgpt_fed_up/)
 - [PEP 701 – Syntactic formalization of f-strings](https://www.reddit.com/r/Python/comments/zgrc2u/pep_701_syntactic_formalization_of_fstrings/)
 - [Pip will not work](https://www.reddit.com/r/Python/comments/zgq892/pip_will_not_work/)
-- [Python/Pyglet Paint [WIP]](https://www.reddit.com/r/Python/comments/zgq3pu/pythonpyglet_paint_wip/)
-- [Sierpinski triangle fractal](https://www.reddit.com/r/Python/comments/zgn6p0/sierpinski_triangle_fractal/)
 <!-- BLOG-POST-LIST:END -->
