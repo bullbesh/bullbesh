@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Please help with iterating a list.](https://www.reddit.com/r/Python/comments/zgzhs4/please_help_with_iterating_a_list/)
+- [High Performance Charts for Python Apps](https://www.reddit.com/r/Python/comments/zgywzx/high_performance_charts_for_python_apps/)
 - [Python helps us to build a high-performance and holistic framework for Feature Flags, A/B testing, and more.](https://www.reddit.com/r/Python/comments/zgy87z/python_helps_us_to_build_a_highperformance_and/)
 - [Writing LaTeX Documents with Python](https://www.reddit.com/r/Python/comments/zgxow6/writing_latex_documents_with_python/)
 - [Make your own Pomodoro Application with Python](https://www.reddit.com/r/Python/comments/zgw98t/make_your_own_pomodoro_application_with_python/)
-- [Textual autocomplete &lpar;auto complete for terminal base apps&rpar;](https://www.reddit.com/r/Python/comments/zgvddu/textual_autocomplete_auto_complete_for_terminal/)
-- [Letting your cook multitask while bringing water to a boil](https://www.reddit.com/r/Python/comments/zgv1ry/letting_your_cook_multitask_while_bringing_water/)
 <!-- BLOG-POST-LIST:END -->
