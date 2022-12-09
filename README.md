@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python helps us to build a high-performance and holistic framework for Feature Flags, A/B testing, and more.](https://www.reddit.com/r/Python/comments/zgy87z/python_helps_us_to_build_a_highperformance_and/)
+- [Writing LaTeX Documents with Python](https://www.reddit.com/r/Python/comments/zgxow6/writing_latex_documents_with_python/)
 - [Make your own Pomodoro Application with Python](https://www.reddit.com/r/Python/comments/zgw98t/make_your_own_pomodoro_application_with_python/)
 - [Textual autocomplete &lpar;auto complete for terminal base apps&rpar;](https://www.reddit.com/r/Python/comments/zgvddu/textual_autocomplete_auto_complete_for_terminal/)
 - [Letting your cook multitask while bringing water to a boil](https://www.reddit.com/r/Python/comments/zgv1ry/letting_your_cook_multitask_while_bringing_water/)
-- [Help me complete the code coz ChatGPT f*ed up!](https://www.reddit.com/r/Python/comments/zgu7ca/help_me_complete_the_code_coz_chatgpt_fed_up/)
-- [PEP 701 – Syntactic formalization of f-strings](https://www.reddit.com/r/Python/comments/zgrc2u/pep_701_syntactic_formalization_of_fstrings/)
 <!-- BLOG-POST-LIST:END -->
