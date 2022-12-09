@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help me complete the code coz ChatGPT f*ed up!](https://www.reddit.com/r/Python/comments/zgu7ca/help_me_complete_the_code_coz_chatgpt_fed_up/)
 - [PEP 701 – Syntactic formalization of f-strings](https://www.reddit.com/r/Python/comments/zgrc2u/pep_701_syntactic_formalization_of_fstrings/)
 - [Pip will not work](https://www.reddit.com/r/Python/comments/zgq892/pip_will_not_work/)
 - [Python/Pyglet Paint [WIP]](https://www.reddit.com/r/Python/comments/zgq3pu/pythonpyglet_paint_wip/)
 - [Sierpinski triangle fractal](https://www.reddit.com/r/Python/comments/zgn6p0/sierpinski_triangle_fractal/)
-- [Transcribe Video/Audio on the web using `transcribe-anything`, a front end to WhisperAI](https://www.reddit.com/r/Python/comments/zgjnmg/transcribe_videoaudio_on_the_web_using/)
 <!-- BLOG-POST-LIST:END -->
