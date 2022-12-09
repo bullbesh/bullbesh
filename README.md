@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made an ARP spoofer and wrote and article about it. Provided the code to chatGPT and the code explanation was very impressive](https://www.reddit.com/r/Python/comments/zh1a5q/made_an_arp_spoofer_and_wrote_and_article_about/)
+- [Pynecone: Web Apps in Pure Python](https://www.reddit.com/r/Python/comments/zh0pmy/pynecone_web_apps_in_pure_python/)
 - [Please help with iterating a list.](https://www.reddit.com/r/Python/comments/zgzhs4/please_help_with_iterating_a_list/)
 - [High Performance Charts for Python Apps](https://www.reddit.com/r/Python/comments/zgywzx/high_performance_charts_for_python_apps/)
 - [Python helps us to build a high-performance and holistic framework for Feature Flags, A/B testing, and more.](https://www.reddit.com/r/Python/comments/zgy87z/python_helps_us_to_build_a_highperformance_and/)
-- [Writing LaTeX Documents with Python](https://www.reddit.com/r/Python/comments/zgxow6/writing_latex_documents_with_python/)
-- [Make your own Pomodoro Application with Python](https://www.reddit.com/r/Python/comments/zgw98t/make_your_own_pomodoro_application_with_python/)
 <!-- BLOG-POST-LIST:END -->
