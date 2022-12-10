@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - rawandahmad698/PyChatGPT: Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.](https://www.reddit.com/r/Python/comments/zhpzoa/github_rawandahmad698pychatgpt_python_client_for/)
+- [Building a Python Interpreter inside ChatGPT](https://www.reddit.com/r/Python/comments/zhpk5o/building_a_python_interpreter_inside_chatgpt/)
 - [DyCode: dynamic python code manipulations](https://www.reddit.com/r/Python/comments/zhk5nx/dycode_dynamic_python_code_manipulations/)
 - [[PYTHON] 29 best practices for writing efficient and effective code in 2023](https://www.reddit.com/r/Python/comments/zhh4i2/python_29_best_practices_for_writing_efficient/)
 - [How do you guys refer to variables in your comments?](https://www.reddit.com/r/Python/comments/zhgeqb/how_do_you_guys_refer_to_variables_in_your/)
-- [How to write a hello world program using TTS AI model in python](https://www.reddit.com/r/Python/comments/zhf4f2/how_to_write_a_hello_world_program_using_tts_ai/)
-- [All in with Nuitka &lpar;Python Compiler&rpar;](https://www.reddit.com/r/Python/comments/zheid7/all_in_with_nuitka_python_compiler/)
 <!-- BLOG-POST-LIST:END -->
