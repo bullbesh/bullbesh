@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Best Python Courses Online to Take in 2023](https://www.reddit.com/r/Python/comments/zhjb0h/10_best_python_courses_online_to_take_in_2023/)
+- [DyCode: dynamic python code manipulations](https://www.reddit.com/r/Python/comments/zhk5nx/dycode_dynamic_python_code_manipulations/)
 - [[PYTHON] 29 best practices for writing efficient and effective code in 2023](https://www.reddit.com/r/Python/comments/zhh4i2/python_29_best_practices_for_writing_efficient/)
 - [How do you guys refer to variables in your comments?](https://www.reddit.com/r/Python/comments/zhgeqb/how_do_you_guys_refer_to_variables_in_your/)
 - [How to write a hello world program using TTS AI model in python](https://www.reddit.com/r/Python/comments/zhf4f2/how_to_write_a_hello_world_program_using_tts_ai/)
