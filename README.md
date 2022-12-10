@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do you guys refer to variables in your comments?](https://www.reddit.com/r/Python/comments/zhgeqb/how_do_you_guys_refer_to_variables_in_your/)
+- [How to write a hello world program using TTS AI model in python](https://www.reddit.com/r/Python/comments/zhf4f2/how_to_write_a_hello_world_program_using_tts_ai/)
 - [All in with Nuitka &lpar;Python Compiler&rpar;](https://www.reddit.com/r/Python/comments/zheid7/all_in_with_nuitka_python_compiler/)
 - [Has anyone used Flet? How robust is it and how does it compare to Streamlit?](https://www.reddit.com/r/Python/comments/zhea3t/has_anyone_used_flet_how_robust_is_it_and_how/)
 - [python-clout](https://www.reddit.com/r/Python/comments/zhdqrg/pythonclout/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/zhd40s/saturday_daily_thread_resource_request_and/)
-- [I coded an API](https://www.reddit.com/r/Python/comments/zh8bhf/i_coded_an_api/)
 <!-- BLOG-POST-LIST:END -->
