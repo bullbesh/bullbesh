@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Flet - Design Practices and Reusability Tutorial &lpar;Part 2&rpar;](https://www.reddit.com/r/Python/comments/zhwirw/python_flet_design_practices_and_reusability/)
+- [Python Lesson Playlist](https://www.reddit.com/r/Python/comments/zhvzmi/python_lesson_playlist/)
+- [Will be soon starting python, have a question about a potential futur project feasability](https://www.reddit.com/r/Python/comments/zhvzgf/will_be_soon_starting_python_have_a_question/)
 - [Radial: the new clean and powerful HTTP library](https://www.reddit.com/r/Python/comments/zhue9w/radial_the_new_clean_and_powerful_http_library/)
 - [What does your development process look like ?](https://www.reddit.com/r/Python/comments/zhtc2b/what_does_your_development_process_look_like/)
-- [making progress on python after individual scripting stage](https://www.reddit.com/r/Python/comments/zhrtuc/making_progress_on_python_after_individual/)
-- [GitHub - rawandahmad698/PyChatGPT: Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.](https://www.reddit.com/r/Python/comments/zhpzoa/github_rawandahmad698pychatgpt_python_client_for/)
-- [Building a Python Interpreter inside ChatGPT](https://www.reddit.com/r/Python/comments/zhpk5o/building_a_python_interpreter_inside_chatgpt/)
 <!-- BLOG-POST-LIST:END -->
