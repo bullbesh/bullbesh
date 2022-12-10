@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [All in with Nuitka &lpar;Python Compiler&rpar;](https://www.reddit.com/r/Python/comments/zheid7/all_in_with_nuitka_python_compiler/)
+- [Has anyone used Flet? How robust is it and how does it compare to Streamlit?](https://www.reddit.com/r/Python/comments/zhea3t/has_anyone_used_flet_how_robust_is_it_and_how/)
+- [python-clout](https://www.reddit.com/r/Python/comments/zhdqrg/pythonclout/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/zhd40s/saturday_daily_thread_resource_request_and/)
 - [I coded an API](https://www.reddit.com/r/Python/comments/zh8bhf/i_coded_an_api/)
-- [why does pep8 say package names must be all lowercase and no underscores? doesnt that make it harder to read](https://www.reddit.com/r/Python/comments/zh5pa6/why_does_pep8_say_package_names_must_be_all/)
-- [Ransomware being published to PyPI in ongoing campaign](https://www.reddit.com/r/Python/comments/zh4xjh/ransomware_being_published_to_pypi_in_ongoing/)
-- [Pynecone: Web Apps in Pure Python](https://www.reddit.com/r/Python/comments/zh0pmy/pynecone_web_apps_in_pure_python/)
-- [High Performance Charts for Python Apps](https://www.reddit.com/r/Python/comments/zgywzx/high_performance_charts_for_python_apps/)
 <!-- BLOG-POST-LIST:END -->
