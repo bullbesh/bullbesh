@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Signal processing in Python](https://www.reddit.com/r/Python/comments/zj461l/signal_processing_in_python/)
 - [Free Python Data Science Course&lpar;single use&rpar;](https://www.reddit.com/r/Python/comments/ziz4fm/free_python_data_science_coursesingle_use/)
 - [New version of Textual adds improved Tree control, and list view widgets](https://www.reddit.com/r/Python/comments/zitxli/new_version_of_textual_adds_improved_tree_control/)
-- [I made a command-line tool that explains runtime errors using ChatGPT](https://www.reddit.com/r/Python/comments/zit2mr/i_made_a_commandline_tool_that_explains_runtime/)
 - [Spanned-Toml: parse TOML with location of every key / value definition in your string](https://www.reddit.com/r/Python/comments/zisqwx/spannedtoml_parse_toml_with_location_of_every_key/)
 - [Web apps in pure Python.](https://www.reddit.com/r/Python/comments/zis5d2/web_apps_in_pure_python/)
 <!-- BLOG-POST-LIST:END -->
