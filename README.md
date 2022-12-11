@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free Python Unit Test Generation Tool in VSCode](https://www.reddit.com/r/Python/comments/zia5ch/free_python_unit_test_generation_tool_in_vscode/)
+- [The rock doesnt work can someone help me](https://www.reddit.com/r/Python/comments/zi8zoy/the_rock_doesnt_work_can_someone_help_me/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/zi7uuv/sunday_daily_thread_whats_everyone_working_on/)
+- [Tapping stellite Intel to build maps &amp; dashboards](https://www.reddit.com/r/Python/comments/zi6x1h/tapping_stellite_intel_to_build_maps_dashboards/)
 - [How To Auto-Tune Your Voice with Python? &lt;- A complete tutorial on a Python command-line utility that can make your voice sound in tune :&rpar; &lpar;feat. corrected performance of Adele&#39;s &quot;Skyfall&quot; cover&rpar;](https://www.reddit.com/r/Python/comments/zi4ffp/how_to_autotune_your_voice_with_python_a_complete/)
-- [Borrow checker for Python i.e Rust completely with Python Syntax.](https://www.reddit.com/r/Python/comments/zi4euf/borrow_checker_for_python_ie_rust_completely_with/)
-- [Bioinformatics and Computational Biology with Python](https://www.reddit.com/r/Python/comments/zi0pl5/bioinformatics_and_computational_biology_with/)
-- [Python Web-Programming Literature](https://www.reddit.com/r/Python/comments/zi0bb1/python_webprogramming_literature/)
-- [2,000 free sign ups available for the &quot;Automate the Boring Stuff with Python&quot; online course. &lpar;Dec 2022&rpar;](https://www.reddit.com/r/Python/comments/zi05e6/2000_free_sign_ups_available_for_the_automate_the/)
 <!-- BLOG-POST-LIST:END -->
