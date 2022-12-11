@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [random question](https://www.reddit.com/r/Python/comments/zicre4/random_question/)
+- [CodeJams](https://www.reddit.com/r/Python/comments/zicc6i/codejams/)
 - [I finally got the big chunk of my midterm project to work!](https://www.reddit.com/r/Python/comments/zibcoa/i_finally_got_the_big_chunk_of_my_midterm_project/)
 - [Free Python Unit Test Generation Tool in VSCode](https://www.reddit.com/r/Python/comments/zia5ch/free_python_unit_test_generation_tool_in_vscode/)
 - [The rock doesnt work can someone help me](https://www.reddit.com/r/Python/comments/zi8zoy/the_rock_doesnt_work_can_someone_help_me/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/zi7uuv/sunday_daily_thread_whats_everyone_working_on/)
-- [Tapping stellite Intel to build maps &amp; dashboards](https://www.reddit.com/r/Python/comments/zi6x1h/tapping_stellite_intel_to_build_maps_dashboards/)
 <!-- BLOG-POST-LIST:END -->
