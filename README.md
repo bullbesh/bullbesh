@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a command-line tool that explains runtime errors using ChatGPT](https://www.reddit.com/r/Python/comments/zit2mr/i_made_a_commandline_tool_that_explains_runtime/)
+- [Spanned-Toml: parse TOML with location of every key / value definition in your string](https://www.reddit.com/r/Python/comments/zisqwx/spannedtoml_parse_toml_with_location_of_every_key/)
+- [Web apps in pure Python.](https://www.reddit.com/r/Python/comments/zis5d2/web_apps_in_pure_python/)
+- [Starlite December &#39;22 Updates](https://www.reddit.com/r/Python/comments/zirwqr/starlite_december_22_updates/)
 - [Upload and Display Images On the Frontend Using Python Flask](https://www.reddit.com/r/Python/comments/zipgf7/upload_and_display_images_on_the_frontend_using/)
-- [Simple Processing and Stacking Astrophotography images using Jupyter / Python / NumPy](https://www.reddit.com/r/Python/comments/zipbh7/simple_processing_and_stacking_astrophotography/)
-- [I&#39;ve just finished my free five-lesson course teaching how to make an MMO with Python and Godot. Read on my blog, or watch on YouTube!](https://www.reddit.com/r/Python/comments/zip9ew/ive_just_finished_my_free_fivelesson_course/)
-- [Check out my obfuscator](https://www.reddit.com/r/Python/comments/zip46k/check_out_my_obfuscator/)
-- [Feedback request: a super-lightweight library for transferring data between applications](https://www.reddit.com/r/Python/comments/zip25j/feedback_request_a_superlightweight_library_for/)
 <!-- BLOG-POST-LIST:END -->
