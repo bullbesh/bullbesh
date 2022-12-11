@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I Have this error: TypeError: addItem&lpar;self, QLayoutItem&rpar;: first argument of unbound method must have type &#39;QBoxLayout&#39;](https://www.reddit.com/r/Python/comments/zinifs/i_have_this_error_typeerror_additemself/)
-- [Help python code not printing on command prompt](https://www.reddit.com/r/Python/comments/zim8bw/help_python_code_not_printing_on_command_prompt/)
-- [ChatGPT is great for people who want to fast track writing doct string documentations, it would be a great tool if it is available as a plug in in vs code or other editors.](https://www.reddit.com/r/Python/comments/zilz62/chatgpt_is_great_for_people_who_want_to_fast/)
-- [Python for Beginners - Conditions with Logical Operators](https://www.reddit.com/r/Python/comments/zigd5j/python_for_beginners_conditions_with_logical/)
-- [The Essential Guide to Python String Methods: Tips and Tricks for Work](https://www.reddit.com/r/Python/comments/zif3f8/the_essential_guide_to_python_string_methods_tips/)
+- [Upload and Display Images On the Frontend Using Python Flask](https://www.reddit.com/r/Python/comments/zipgf7/upload_and_display_images_on_the_frontend_using/)
+- [Simple Processing and Stacking Astrophotography images using Jupyter / Python / NumPy](https://www.reddit.com/r/Python/comments/zipbh7/simple_processing_and_stacking_astrophotography/)
+- [I&#39;ve just finished my free five-lesson course teaching how to make an MMO with Python and Godot. Read on my blog, or watch on YouTube!](https://www.reddit.com/r/Python/comments/zip9ew/ive_just_finished_my_free_fivelesson_course/)
+- [Check out my obfuscator](https://www.reddit.com/r/Python/comments/zip46k/check_out_my_obfuscator/)
+- [Feedback request: a super-lightweight library for transferring data between applications](https://www.reddit.com/r/Python/comments/zip25j/feedback_request_a_superlightweight_library_for/)
 <!-- BLOG-POST-LIST:END -->
