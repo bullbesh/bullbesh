@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is this really a thing that developers do?](https://www.reddit.com/r/Python/comments/zj916f/is_this_really_a_thing_that_developers_do/)
+- [Python: How to get a telegram notification when a Twitch stream goes live ?](https://www.reddit.com/r/Python/comments/zj8xs1/python_how_to_get_a_telegram_notification_when_a/)
+- [Open Source Python libraries/projects that need contributions?](https://www.reddit.com/r/Python/comments/zj8gux/open_source_python_librariesprojects_that_need/)
 - [Signal processing in Python](https://www.reddit.com/r/Python/comments/zj461l/signal_processing_in_python/)
 - [Free Python Data Science Course&lpar;single use&rpar;](https://www.reddit.com/r/Python/comments/ziz4fm/free_python_data_science_coursesingle_use/)
-- [New version of Textual adds improved Tree control, and list view widgets](https://www.reddit.com/r/Python/comments/zitxli/new_version_of_textual_adds_improved_tree_control/)
-- [Spanned-Toml: parse TOML with location of every key / value definition in your string](https://www.reddit.com/r/Python/comments/zisqwx/spannedtoml_parse_toml_with_location_of_every_key/)
-- [Web apps in pure Python.](https://www.reddit.com/r/Python/comments/zis5d2/web_apps_in_pure_python/)
 <!-- BLOG-POST-LIST:END -->
