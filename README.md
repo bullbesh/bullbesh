@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help python code not printing on command prompt](https://www.reddit.com/r/Python/comments/zim8bw/help_python_code_not_printing_on_command_prompt/)
+- [ChatGPT is great for people who want to fast track writing doct string documentations, it would be a great tool if it is available as a plug in in vs code or other editors.](https://www.reddit.com/r/Python/comments/zilz62/chatgpt_is_great_for_people_who_want_to_fast/)
 - [Python for Beginners - Conditions with Logical Operators](https://www.reddit.com/r/Python/comments/zigd5j/python_for_beginners_conditions_with_logical/)
 - [The Essential Guide to Python String Methods: Tips and Tricks for Work](https://www.reddit.com/r/Python/comments/zif3f8/the_essential_guide_to_python_string_methods_tips/)
 - [CodeJams](https://www.reddit.com/r/Python/comments/zicc6i/codejams/)
-- [I finally got the big chunk of my midterm project to work!](https://www.reddit.com/r/Python/comments/zibcoa/i_finally_got_the_big_chunk_of_my_midterm_project/)
-- [Free Python Unit Test Generation Tool in VSCode](https://www.reddit.com/r/Python/comments/zia5ch/free_python_unit_test_generation_tool_in_vscode/)
 <!-- BLOG-POST-LIST:END -->
