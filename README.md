@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [stupid question](https://www.reddit.com/r/Python/comments/zjbfba/stupid_question/)
+- [Guido van Rossum on types, speed, and the future of Python](https://www.reddit.com/r/Python/comments/zjb9pr/guido_van_rossum_on_types_speed_and_the_future_of/)
+- [Writing Python in VS Code just got a whole lot better](https://www.reddit.com/r/Python/comments/zjazx5/writing_python_in_vs_code_just_got_a_whole_lot/)
+- [What are the best python GUI libraries in order?](https://www.reddit.com/r/Python/comments/zjaz5k/what_are_the_best_python_gui_libraries_in_order/)
 - [Is this really a thing that developers do?](https://www.reddit.com/r/Python/comments/zj916f/is_this_really_a_thing_that_developers_do/)
-- [Python: How to get a telegram notification when a Twitch stream goes live ?](https://www.reddit.com/r/Python/comments/zj8xs1/python_how_to_get_a_telegram_notification_when_a/)
-- [Open Source Python libraries/projects that need contributions?](https://www.reddit.com/r/Python/comments/zj8gux/open_source_python_librariesprojects_that_need/)
-- [Signal processing in Python](https://www.reddit.com/r/Python/comments/zj461l/signal_processing_in_python/)
-- [Free Python Data Science Course&lpar;single use&rpar;](https://www.reddit.com/r/Python/comments/ziz4fm/free_python_data_science_coursesingle_use/)
 <!-- BLOG-POST-LIST:END -->
