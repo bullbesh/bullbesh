@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Essential Guide to Python String Methods: Tips and Tricks for Work](https://www.reddit.com/r/Python/comments/zif3f8/the_essential_guide_to_python_string_methods_tips/)
+- [Zoom + Music File on Mac](https://www.reddit.com/r/Python/comments/zieuz6/zoom_music_file_on_mac/)
 - [random question](https://www.reddit.com/r/Python/comments/zicre4/random_question/)
 - [CodeJams](https://www.reddit.com/r/Python/comments/zicc6i/codejams/)
 - [I finally got the big chunk of my midterm project to work!](https://www.reddit.com/r/Python/comments/zibcoa/i_finally_got_the_big_chunk_of_my_midterm_project/)
-- [Free Python Unit Test Generation Tool in VSCode](https://www.reddit.com/r/Python/comments/zia5ch/free_python_unit_test_generation_tool_in_vscode/)
-- [The rock doesnt work can someone help me](https://www.reddit.com/r/Python/comments/zi8zoy/the_rock_doesnt_work_can_someone_help_me/)
 <!-- BLOG-POST-LIST:END -->
