@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python screen capture for Computer Vision Speed Testing - mss vs. PIL vs. pyautogui](https://www.reddit.com/r/Python/comments/zjtlrs/python_screen_capture_for_computer_vision_speed/)
+- [Fine-tuning with Low Budget and High Expectations in Python](https://www.reddit.com/r/Python/comments/zjt39q/finetuning_with_low_budget_and_high_expectations/)
 - [statistics in machine learning](https://www.reddit.com/r/Python/comments/zjm6vj/statistics_in_machine_learning/)
 - [Guide to fetching public YouTube data using the YouTube Data API with Python.](https://www.reddit.com/r/Python/comments/zjj2sl/guide_to_fetching_public_youtube_data_using_the/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/zjfgyy/monday_daily_thread_project_ideas/)
-- [stupid question](https://www.reddit.com/r/Python/comments/zjbfba/stupid_question/)
-- [Guido van Rossum on types, speed, and the future of Python](https://www.reddit.com/r/Python/comments/zjb9pr/guido_van_rossum_on_types_speed_and_the_future_of/)
 <!-- BLOG-POST-LIST:END -->
