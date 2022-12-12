@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Step by Step World of Warcraft fishing bot tutorial with Python OpenCV](https://www.reddit.com/r/Python/comments/zju2si/step_by_step_world_of_warcraft_fishing_bot/)
+- [Pynimate, python package for statistical data animations](https://www.reddit.com/r/Python/comments/zjtqsy/pynimate_python_package_for_statistical_data/)
 - [Python screen capture for Computer Vision Speed Testing - mss vs. PIL vs. pyautogui](https://www.reddit.com/r/Python/comments/zjtlrs/python_screen_capture_for_computer_vision_speed/)
 - [Fine-tuning with Low Budget and High Expectations in Python](https://www.reddit.com/r/Python/comments/zjt39q/finetuning_with_low_budget_and_high_expectations/)
 - [statistics in machine learning](https://www.reddit.com/r/Python/comments/zjm6vj/statistics_in_machine_learning/)
-- [Guide to fetching public YouTube data using the YouTube Data API with Python.](https://www.reddit.com/r/Python/comments/zjj2sl/guide_to_fetching_public_youtube_data_using_the/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/zjfgyy/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
