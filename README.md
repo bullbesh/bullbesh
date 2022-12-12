@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Pip-Install-Pirate &lpar;Django / Flask&rpar; Satellite Mapping the world](https://www.reddit.com/r/Python/comments/zkc4td/pipinstallpirate_django_flask_satellite_mapping/)
-- [Instabot reliable or not](https://www.reddit.com/r/Python/comments/zkbeko/instabot_reliable_or_not/)
-- [Hello I want to learn Python tell the best source](https://www.reddit.com/r/Python/comments/zkb72z/hello_i_want_to_learn_python_tell_the_best_source/)
 - [Wrote a tutorial on how to build a basic RNN with Keras as part of my Keras learning journey](https://www.reddit.com/r/Python/comments/zk828v/wrote_a_tutorial_on_how_to_build_a_basic_rnn_with/)
 - [What&#39;s the optimal way to read partitioned parquet files into Python?](https://www.reddit.com/r/Python/comments/zk7f1x/whats_the_optimal_way_to_read_partitioned_parquet/)
+- [First Python Game](https://www.reddit.com/r/Python/comments/zk6o7i/first_python_game/)
+- [PyTorch 2.0 release explained](https://www.reddit.com/r/Python/comments/zk6lhw/pytorch_20_release_explained/)
 <!-- BLOG-POST-LIST:END -->
