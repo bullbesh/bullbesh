@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PokeLance A statically typed api wrapper for PokeApi](https://www.reddit.com/r/Python/comments/zk4yx4/pokelance_a_statically_typed_api_wrapper_for/)
+- [Free Udemy Certificate Course- Python And Flask Demonstrations Practice Course](https://www.reddit.com/r/Python/comments/zk4q6k/free_udemy_certificate_course_python_and_flask/)
+- [Using AutoRegistry to Simplify Python Interfaces](https://www.reddit.com/r/Python/comments/zk4jar/using_autoregistry_to_simplify_python_interfaces/)
+- [Making a game for my kids](https://www.reddit.com/r/Python/comments/zk4avl/making_a_game_for_my_kids/)
 - [Hashmaping Common elements](https://www.reddit.com/r/Python/comments/zk2r7z/hashmaping_common_elements/)
-- [Suggestions..](https://www.reddit.com/r/Python/comments/zk2f57/suggestions/)
-- [__int__ vs __init__](https://www.reddit.com/r/Python/comments/zk0i9a/int_vs_init/)
-- [[N][R] SOTA Real-Time Semantic Segmentation Model Implemented by Python](https://www.reddit.com/r/Python/comments/zjxod5/nr_sota_realtime_semantic_segmentation_model/)
-- [Any suggestions on how to automate 2 monthly emails to colleagues?](https://www.reddit.com/r/Python/comments/zjxlbi/any_suggestions_on_how_to_automate_2_monthly/)
 <!-- BLOG-POST-LIST:END -->
