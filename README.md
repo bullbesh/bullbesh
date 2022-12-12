@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/zjfgyy/monday_daily_thread_project_ideas/)
 - [stupid question](https://www.reddit.com/r/Python/comments/zjbfba/stupid_question/)
 - [Guido van Rossum on types, speed, and the future of Python](https://www.reddit.com/r/Python/comments/zjb9pr/guido_van_rossum_on_types_speed_and_the_future_of/)
 - [Writing Python in VS Code just got a whole lot better](https://www.reddit.com/r/Python/comments/zjazx5/writing_python_in_vs_code_just_got_a_whole_lot/)
-- [What are the best python GUI libraries in order?](https://www.reddit.com/r/Python/comments/zjaz5k/what_are_the_best_python_gui_libraries_in_order/)
 - [Is this really a thing that developers do?](https://www.reddit.com/r/Python/comments/zj916f/is_this_really_a_thing_that_developers_do/)
 <!-- BLOG-POST-LIST:END -->
