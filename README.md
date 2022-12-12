@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [First Python Game](https://www.reddit.com/r/Python/comments/zk6o7i/first_python_game/)
+- [PyTorch 2.0 release explained](https://www.reddit.com/r/Python/comments/zk6lhw/pytorch_20_release_explained/)
+- [GitHub - R9295/panoptisch: A recursive dependency scanner for Python projects](https://www.reddit.com/r/Python/comments/zk54rp/github_r9295panoptisch_a_recursive_dependency/)
 - [PokeLance A statically typed api wrapper for PokeApi](https://www.reddit.com/r/Python/comments/zk4yx4/pokelance_a_statically_typed_api_wrapper_for/)
-- [Free Udemy Certificate Course- Python And Flask Demonstrations Practice Course](https://www.reddit.com/r/Python/comments/zk4q6k/free_udemy_certificate_course_python_and_flask/)
 - [Using AutoRegistry to Simplify Python Interfaces](https://www.reddit.com/r/Python/comments/zk4jar/using_autoregistry_to_simplify_python_interfaces/)
-- [Making a game for my kids](https://www.reddit.com/r/Python/comments/zk4avl/making_a_game_for_my_kids/)
-- [Hashmaping Common elements](https://www.reddit.com/r/Python/comments/zk2r7z/hashmaping_common_elements/)
 <!-- BLOG-POST-LIST:END -->
