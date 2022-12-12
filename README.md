@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[N][R] SOTA Real-Time Semantic Segmentation Model Implemented by Python](https://www.reddit.com/r/Python/comments/zjxod5/nr_sota_realtime_semantic_segmentation_model/)
+- [Any suggestions on how to automate 2 monthly emails to colleagues?](https://www.reddit.com/r/Python/comments/zjxlbi/any_suggestions_on_how_to_automate_2_monthly/)
+- [I created an overlay using Python and Tkinter for popular game LOL](https://www.reddit.com/r/Python/comments/zjx4qi/i_created_an_overlay_using_python_and_tkinter_for/)
+- [How to use oneof in gRPC](https://www.reddit.com/r/Python/comments/zjwej2/how_to_use_oneof_in_grpc/)
 - [Step by Step World of Warcraft fishing bot tutorial with Python OpenCV](https://www.reddit.com/r/Python/comments/zju2si/step_by_step_world_of_warcraft_fishing_bot/)
-- [Pynimate, python package for statistical data animations](https://www.reddit.com/r/Python/comments/zjtqsy/pynimate_python_package_for_statistical_data/)
-- [Python screen capture for Computer Vision Speed Testing - mss vs. PIL vs. pyautogui](https://www.reddit.com/r/Python/comments/zjtlrs/python_screen_capture_for_computer_vision_speed/)
-- [Fine-tuning with Low Budget and High Expectations in Python](https://www.reddit.com/r/Python/comments/zjt39q/finetuning_with_low_budget_and_high_expectations/)
-- [statistics in machine learning](https://www.reddit.com/r/Python/comments/zjm6vj/statistics_in_machine_learning/)
 <!-- BLOG-POST-LIST:END -->
