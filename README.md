@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wrote a tutorial on how to build a basic RNN with Keras as part of my Keras learning journey](https://www.reddit.com/r/Python/comments/zk828v/wrote_a_tutorial_on_how_to_build_a_basic_rnn_with/)
+- [What&#39;s the optimal way to read partitioned parquet files into Python?](https://www.reddit.com/r/Python/comments/zk7f1x/whats_the_optimal_way_to_read_partitioned_parquet/)
 - [First Python Game](https://www.reddit.com/r/Python/comments/zk6o7i/first_python_game/)
 - [PyTorch 2.0 release explained](https://www.reddit.com/r/Python/comments/zk6lhw/pytorch_20_release_explained/)
 - [GitHub - R9295/panoptisch: A recursive dependency scanner for Python projects](https://www.reddit.com/r/Python/comments/zk54rp/github_r9295panoptisch_a_recursive_dependency/)
-- [PokeLance A statically typed api wrapper for PokeApi](https://www.reddit.com/r/Python/comments/zk4yx4/pokelance_a_statically_typed_api_wrapper_for/)
-- [Using AutoRegistry to Simplify Python Interfaces](https://www.reddit.com/r/Python/comments/zk4jar/using_autoregistry_to_simplify_python_interfaces/)
 <!-- BLOG-POST-LIST:END -->
