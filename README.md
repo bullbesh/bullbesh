@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [An attempt to significantly reduce homelessness and poverty: I made an open source web application that helps people who are struggling find social services and donators in their area that will help them.](https://www.reddit.com/r/Python/comments/zknjik/an_attempt_to_significantly_reduce_homelessness/)
+- [Code critique](https://www.reddit.com/r/Python/comments/zknb7a/code_critique/)
 - [Is there a better way to write `val = min&lpar;val, other_var&rpar;`?](https://www.reddit.com/r/Python/comments/zkmkjx/is_there_a_better_way_to_write_val_minval_other/)
 - [Free Udemy Certificate Course- Python Complete Course For Beginners](https://www.reddit.com/r/Python/comments/zkmgum/free_udemy_certificate_course_python_complete/)
 - [Criar Portscan em python](https://www.reddit.com/r/Python/comments/zkm17y/criar_portscan_em_python/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/zkg6xf/tuesday_daily_thread_advanced_questions/)
-- [Pip-Install-Pirate &lpar;Django / Flask&rpar; Satellite Mapping the world](https://www.reddit.com/r/Python/comments/zkc4td/pipinstallpirate_django_flask_satellite_mapping/)
 <!-- BLOG-POST-LIST:END -->
