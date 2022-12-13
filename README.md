@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there a better way to write `val = min&lpar;val, other_var&rpar;`?](https://www.reddit.com/r/Python/comments/zkmkjx/is_there_a_better_way_to_write_val_minval_other/)
+- [Free Udemy Certificate Course- Python Complete Course For Beginners](https://www.reddit.com/r/Python/comments/zkmgum/free_udemy_certificate_course_python_complete/)
 - [Criar Portscan em python](https://www.reddit.com/r/Python/comments/zkm17y/criar_portscan_em_python/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/zkg6xf/tuesday_daily_thread_advanced_questions/)
 - [Pip-Install-Pirate &lpar;Django / Flask&rpar; Satellite Mapping the world](https://www.reddit.com/r/Python/comments/zkc4td/pipinstallpirate_django_flask_satellite_mapping/)
-- [Wrote a tutorial on how to build a basic RNN with Keras as part of my Keras learning journey](https://www.reddit.com/r/Python/comments/zk828v/wrote_a_tutorial_on_how_to_build_a_basic_rnn_with/)
-- [What&#39;s the optimal way to read partitioned parquet files into Python?](https://www.reddit.com/r/Python/comments/zk7f1x/whats_the_optimal_way_to_read_partitioned_parquet/)
 <!-- BLOG-POST-LIST:END -->
