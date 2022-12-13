@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Extract parts of the file name and dump parts into different columns](https://www.reddit.com/r/Python/comments/zl2o7i/extract_parts_of_the_file_name_and_dump_parts/)
+- [Remote Dev Environment](https://www.reddit.com/r/Python/comments/zl3yjg/remote_dev_environment/)
 - [Introducing my Python course: learn the language from the ground up and master the fundamentals](https://www.reddit.com/r/Python/comments/zl2658/introducing_my_python_course_learn_the_language/)
 - [code maker program](https://www.reddit.com/r/Python/comments/zl034l/code_maker_program/)
 - [How much time do you spend debugging?](https://www.reddit.com/r/Python/comments/zkzqrq/how_much_time_do_you_spend_debugging/)
