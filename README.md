@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Programming jobs and chatGPT](https://www.reddit.com/r/Python/comments/zkqfn8/programming_jobs_and_chatgpt/)
+- [Learn Graph Analytics With Python - Tools covered in course are NetworkX and Memgraph](https://www.reddit.com/r/Python/comments/zkpwmy/learn_graph_analytics_with_python_tools_covered/)
 - [An attempt to significantly reduce homelessness and poverty: I made an open source web application that helps people who are struggling find social services and donators in their area that will help them.](https://www.reddit.com/r/Python/comments/zknjik/an_attempt_to_significantly_reduce_homelessness/)
 - [Code critique](https://www.reddit.com/r/Python/comments/zknb7a/code_critique/)
 - [Is there a better way to write `val = min&lpar;val, other_var&rpar;`?](https://www.reddit.com/r/Python/comments/zkmkjx/is_there_a_better_way_to_write_val_minval_other/)
-- [Free Udemy Certificate Course- Python Complete Course For Beginners](https://www.reddit.com/r/Python/comments/zkmgum/free_udemy_certificate_course_python_complete/)
-- [Criar Portscan em python](https://www.reddit.com/r/Python/comments/zkm17y/criar_portscan_em_python/)
 <!-- BLOG-POST-LIST:END -->
