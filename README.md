@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Bytes and integers](https://www.reddit.com/r/Python/comments/zkvxnj/bytes_and_integers/)
+- [Reacton - A pure Python port of React for ipywidgets](https://www.reddit.com/r/Python/comments/zkxq1j/reacton_a_pure_python_port_of_react_for_ipywidgets/)
+- [Made a simple yaml parser class using OpenAI.](https://www.reddit.com/r/Python/comments/zkxpfp/made_a_simple_yaml_parser_class_using_openai/)
+- [Sneaker bot programmieren](https://www.reddit.com/r/Python/comments/zkxp26/sneaker_bot_programmieren/)
+- [How to Get and Use the Current Time in Python – Real Python](https://www.reddit.com/r/Python/comments/zkxbax/how_to_get_and_use_the_current_time_in_python/)
 - [Observing Python Applications Using Prometheus starts in three hours](https://www.reddit.com/r/Python/comments/zkvqdu/observing_python_applications_using_prometheus/)
-- [How many packages did you install?](https://www.reddit.com/r/Python/comments/zkr2ri/how_many_packages_did_you_install/)
-- [Programming jobs and chatGPT](https://www.reddit.com/r/Python/comments/zkqfn8/programming_jobs_and_chatgpt/)
-- [Learn Graph Analytics With Python - Tools covered in course are NetworkX and Memgraph](https://www.reddit.com/r/Python/comments/zkpwmy/learn_graph_analytics_with_python_tools_covered/)
 <!-- BLOG-POST-LIST:END -->
