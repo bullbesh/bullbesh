@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [internal assessment computer science IB](https://www.reddit.com/r/Python/comments/zl76o3/internal_assessment_computer_science_ib/)
+- [What&#39;s the gateway drug to programming these days? Only answer if you&#39;re under 20.](https://www.reddit.com/r/Python/comments/zl6ktm/whats_the_gateway_drug_to_programming_these_days/)
+- [I guess I am useless now](https://www.reddit.com/r/Python/comments/zl6fje/i_guess_i_am_useless_now/)
+- [Why and how I make an unofficial API library for Fragment.com](https://www.reddit.com/r/Python/comments/zl633g/why_and_how_i_make_an_unofficial_api_library_for/)
 - [Introducing my Python course: learn the language from the ground up and master the fundamentals](https://www.reddit.com/r/Python/comments/zl2658/introducing_my_python_course_learn_the_language/)
-- [How much time do you spend debugging?](https://www.reddit.com/r/Python/comments/zkzqrq/how_much_time_do_you_spend_debugging/)
-- [Scaling notebooks in the cloud with zero infrastructure configuration](https://www.reddit.com/r/Python/comments/zkzg6x/scaling_notebooks_in_the_cloud_with_zero/)
-- [Reacton - A pure Python port of React for ipywidgets](https://www.reddit.com/r/Python/comments/zkxq1j/reacton_a_pure_python_port_of_react_for_ipywidgets/)
-- [Made a simple yaml parser class using OpenAI.](https://www.reddit.com/r/Python/comments/zkxpfp/made_a_simple_yaml_parser_class_using_openai/)
 <!-- BLOG-POST-LIST:END -->
