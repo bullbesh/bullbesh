@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bytes and integers](https://www.reddit.com/r/Python/comments/zkvxnj/bytes_and_integers/)
+- [Observing Python Applications Using Prometheus starts in three hours](https://www.reddit.com/r/Python/comments/zkvqdu/observing_python_applications_using_prometheus/)
 - [How many packages did you install?](https://www.reddit.com/r/Python/comments/zkr2ri/how_many_packages_did_you_install/)
 - [Programming jobs and chatGPT](https://www.reddit.com/r/Python/comments/zkqfn8/programming_jobs_and_chatgpt/)
 - [Learn Graph Analytics With Python - Tools covered in course are NetworkX and Memgraph](https://www.reddit.com/r/Python/comments/zkpwmy/learn_graph_analytics_with_python_tools_covered/)
-- [An attempt to significantly reduce homelessness and poverty: I made an open source web application that helps people who are struggling find social services and donators in their area that will help them.](https://www.reddit.com/r/Python/comments/zknjik/an_attempt_to_significantly_reduce_homelessness/)
-- [Code critique](https://www.reddit.com/r/Python/comments/zknb7a/code_critique/)
 <!-- BLOG-POST-LIST:END -->
