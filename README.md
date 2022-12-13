@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How much time do you spend debugging?](https://www.reddit.com/r/Python/comments/zkzqrq/how_much_time_do_you_spend_debugging/)
+- [Scaling notebooks in the cloud with zero infrastructure configuration](https://www.reddit.com/r/Python/comments/zkzg6x/scaling_notebooks_in_the_cloud_with_zero/)
 - [Reacton - A pure Python port of React for ipywidgets](https://www.reddit.com/r/Python/comments/zkxq1j/reacton_a_pure_python_port_of_react_for_ipywidgets/)
 - [Made a simple yaml parser class using OpenAI.](https://www.reddit.com/r/Python/comments/zkxpfp/made_a_simple_yaml_parser_class_using_openai/)
-- [Sneaker bot programmieren](https://www.reddit.com/r/Python/comments/zkxp26/sneaker_bot_programmieren/)
 - [How to Get and Use the Current Time in Python – Real Python](https://www.reddit.com/r/Python/comments/zkxbax/how_to_get_and_use_the_current_time_in_python/)
-- [Observing Python Applications Using Prometheus starts in three hours](https://www.reddit.com/r/Python/comments/zkvqdu/observing_python_applications_using_prometheus/)
 <!-- BLOG-POST-LIST:END -->
