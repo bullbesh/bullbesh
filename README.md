@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I need help with a task! Could anyone help me?](https://www.reddit.com/r/Python/comments/zltjnr/i_need_help_with_a_task_could_anyone_help_me/)
-- [Just created - novela.ink - personal AI assistant to create/modify/enchance your stories](https://www.reddit.com/r/Python/comments/zlr8f5/just_created_novelaink_personal_ai_assistant_to/)
-- [Complete Beautiful Soup Tutorial](https://www.reddit.com/r/Python/comments/zlpou5/complete_beautiful_soup_tutorial/)
-- [GitHub - justpy-org/justpy: An object oriented high-level Python Web Framework that requires no frontend programming](https://www.reddit.com/r/Python/comments/zloqgn/github_justpyorgjustpy_an_object_oriented/)
-- [Vocabulary Builder and NLP CLI](https://www.reddit.com/r/Python/comments/zlohwv/vocabulary_builder_and_nlp_cli/)
+- [Celestial Interface Programming: A Python Beginners Discord Server](https://www.reddit.com/r/Python/comments/zlv5hn/celestial_interface_programming_a_python/)
+- [Generate climate time series data for any point on the globe &lpar;streamlit app&rpar;](https://www.reddit.com/r/Python/comments/zluy3h/generate_climate_time_series_data_for_any_point/)
+- [Are you a researcher, programmer, artist, physicist, or just tinkering with AI tools? Come join us; we are a Discord Community called Learn AI Together with just over 30&#39;000 amazing members! Ask questions, find colleagues, share your projects, learn together, and much more!](https://www.reddit.com/r/Python/comments/zluj7w/are_you_a_researcher_programmer_artist_physicist/)
+- [colorblind-async: call await outside of async context](https://www.reddit.com/r/Python/comments/zlu17j/colorblindasync_call_await_outside_of_async/)
+- [Docker containerization explained, devops virtual machine](https://www.reddit.com/r/Python/comments/zltzjy/docker_containerization_explained_devops_virtual/)
 <!-- BLOG-POST-LIST:END -->
