@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Magic Methods You Haven’t Heard About](https://www.reddit.com/r/Python/comments/zlmeoj/python_magic_methods_you_havent_heard_about/)
+- [Emily Robinson’s lightning interview to learn how to land your first, or next, role.](https://www.reddit.com/r/Python/comments/zlmb6k/emily_robinsons_lightning_interview_to_learn_how/)
 - [Help Please](https://www.reddit.com/r/Python/comments/zlktgm/help_please/)
 - [Pynecone - a full-stack framework for building and deploying web apps.](https://www.reddit.com/r/Python/comments/zljs4o/pynecone_a_fullstack_framework_for_building_and/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/zlber1/wednesday_daily_thread_beginner_questions/)
-- [Package Discovery with setuptools](https://www.reddit.com/r/Python/comments/zl901p/package_discovery_with_setuptools/)
-- [Why and how I make an unofficial API library for Fragment.com](https://www.reddit.com/r/Python/comments/zl633g/why_and_how_i_make_an_unofficial_api_library_for/)
 <!-- BLOG-POST-LIST:END -->
