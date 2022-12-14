@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Registration is OPEN for PyCon US 2023!](https://www.reddit.com/r/Python/comments/zm0jy3/registration_is_open_for_pycon_us_2023/)
+- [Awesome artificial intelligent project. Open source repo.](https://www.reddit.com/r/Python/comments/zm0bra/awesome_artificial_intelligent_project_open/)
+- [Learn python in this video above, you can learn about strings and training your brain to improve better your skills in language python.](https://www.reddit.com/r/Python/comments/zlzz27/learn_python_in_this_video_above_you_can_learn/)
 - [Blackjack with Python](https://www.reddit.com/r/Python/comments/zlzkbh/blackjack_with_python/)
 - [&quot;How does pytest work?&quot; I found a 2018 four part explanation of how pytest uses Python&#39;s AST module to make better asserts.](https://www.reddit.com/r/Python/comments/zly6bh/how_does_pytest_work_i_found_a_2018_four_part/)
-- [Recommendations for parsing text from .pdf files](https://www.reddit.com/r/Python/comments/zlxtq0/recommendations_for_parsing_text_from_pdf_files/)
-- [Python en español](https://www.reddit.com/r/Python/comments/zlxnvo/python_en_español/)
-- [Plotly/Dash is the Best Framework for Frontend Development IMO](https://www.reddit.com/r/Python/comments/zlvsdq/plotlydash_is_the_best_framework_for_frontend/)
 <!-- BLOG-POST-LIST:END -->
