@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Plotly/Dash is the Best Framework for Frontend Development IMO](https://www.reddit.com/r/Python/comments/zlvsdq/plotlydash_is_the_best_framework_for_frontend/)
+- [Why using Alpine Docker images and Python is probably bad for your project &lpar;right now&rpar;](https://www.reddit.com/r/Python/comments/zlviud/why_using_alpine_docker_images_and_python_is/)
+- [Text-to-Regex. Shows assumptions.](https://www.reddit.com/r/Python/comments/zlvde9/texttoregex_shows_assumptions/)
 - [Celestial Interface Programming: A Python Beginners Discord Server](https://www.reddit.com/r/Python/comments/zlv5hn/celestial_interface_programming_a_python/)
 - [Generate climate time series data for any point on the globe &lpar;streamlit app&rpar;](https://www.reddit.com/r/Python/comments/zluy3h/generate_climate_time_series_data_for_any_point/)
-- [Are you a researcher, programmer, artist, physicist, or just tinkering with AI tools? Come join us; we are a Discord Community called Learn AI Together with just over 30&#39;000 amazing members! Ask questions, find colleagues, share your projects, learn together, and much more!](https://www.reddit.com/r/Python/comments/zluj7w/are_you_a_researcher_programmer_artist_physicist/)
-- [colorblind-async: call await outside of async context](https://www.reddit.com/r/Python/comments/zlu17j/colorblindasync_call_await_outside_of_async/)
-- [Docker containerization explained, devops virtual machine](https://www.reddit.com/r/Python/comments/zltzjy/docker_containerization_explained_devops_virtual/)
 <!-- BLOG-POST-LIST:END -->
