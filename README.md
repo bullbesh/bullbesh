@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🐍 5 Awesome Python Projects People Don’t Know About](https://www.reddit.com/r/Python/comments/zm3l4a/5_awesome_python_projects_people_dont_know_about/)
+- [ChatGPT hello world challenge using python](https://www.reddit.com/r/Python/comments/zm370u/chatgpt_hello_world_challenge_using_python/)
 - [Simple tool to track your net worth live &lpar;stocks, crypto, assets&rpar;](https://www.reddit.com/r/Python/comments/zm1slc/simple_tool_to_track_your_net_worth_live_stocks/)
 - [Registration is OPEN for PyCon US 2023!](https://www.reddit.com/r/Python/comments/zm0jy3/registration_is_open_for_pycon_us_2023/)
 - [Awesome artificial intelligent project. Open source repo.](https://www.reddit.com/r/Python/comments/zm0bra/awesome_artificial_intelligent_project_open/)
-- [Learn python in this video above, you can learn about strings and training your brain to improve better your skills in language python.](https://www.reddit.com/r/Python/comments/zlzz27/learn_python_in_this_video_above_you_can_learn/)
-- [Blackjack with Python](https://www.reddit.com/r/Python/comments/zlzkbh/blackjack_with_python/)
 <!-- BLOG-POST-LIST:END -->
