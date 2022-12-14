@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Complete Beautiful Soup Tutorial](https://www.reddit.com/r/Python/comments/zlpou5/complete_beautiful_soup_tutorial/)
+- [GitHub - justpy-org/justpy: An object oriented high-level Python Web Framework that requires no frontend programming](https://www.reddit.com/r/Python/comments/zloqgn/github_justpyorgjustpy_an_object_oriented/)
+- [Vocabulary Builder and NLP CLI](https://www.reddit.com/r/Python/comments/zlohwv/vocabulary_builder_and_nlp_cli/)
 - [Which is the Best Python Hosting provider with an affordable price](https://www.reddit.com/r/Python/comments/zln8q0/which_is_the_best_python_hosting_provider_with_an/)
 - [Python Magic Methods You Haven’t Heard About](https://www.reddit.com/r/Python/comments/zlmeoj/python_magic_methods_you_havent_heard_about/)
-- [Emily Robinson’s lightning interview to learn how to land your first, or next, role.](https://www.reddit.com/r/Python/comments/zlmb6k/emily_robinsons_lightning_interview_to_learn_how/)
-- [Help Please](https://www.reddit.com/r/Python/comments/zlktgm/help_please/)
-- [Pynecone - a full-stack framework for building and deploying web apps.](https://www.reddit.com/r/Python/comments/zljs4o/pynecone_a_fullstack_framework_for_building_and/)
 <!-- BLOG-POST-LIST:END -->
