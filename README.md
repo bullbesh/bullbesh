@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/zlber1/wednesday_daily_thread_beginner_questions/)
 - [Package Discovery with setuptools](https://www.reddit.com/r/Python/comments/zl901p/package_discovery_with_setuptools/)
-- [internal assessment computer science IB](https://www.reddit.com/r/Python/comments/zl76o3/internal_assessment_computer_science_ib/)
 - [I guess I am useless now](https://www.reddit.com/r/Python/comments/zl6fje/i_guess_i_am_useless_now/)
 - [Why and how I make an unofficial API library for Fragment.com](https://www.reddit.com/r/Python/comments/zl633g/why_and_how_i_make_an_unofficial_api_library_for/)
 - [Introducing my Python course: learn the language from the ground up and master the fundamentals](https://www.reddit.com/r/Python/comments/zl2658/introducing_my_python_course_learn_the_language/)
