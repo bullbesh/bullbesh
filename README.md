@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hosting a fast api publicly-safety precautions?](https://www.reddit.com/r/Python/comments/zm9ggd/hosting_a_fast_api_publiclysafety_precautions/)
+- [For anyone looking for python project ideas!](https://www.reddit.com/r/Python/comments/zmb8gq/for_anyone_looking_for_python_project_ideas/)
+- [If your python project needed a NoSQL database, and you could choose any, which would you use?](https://www.reddit.com/r/Python/comments/zmaxzv/if_your_python_project_needed_a_nosql_database/)
 - [Good use cases for pickling?](https://www.reddit.com/r/Python/comments/zm96op/good_use_cases_for_pickling/)
 - [How to extract data from receipts using Python ?](https://www.reddit.com/r/Python/comments/zm86kg/how_to_extract_data_from_receipts_using_python/)
-- [I already studied python, how can I continue? I want to work in machine learning](https://www.reddit.com/r/Python/comments/zm6gz0/i_already_studied_python_how_can_i_continue_i/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/zm6fgk/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
