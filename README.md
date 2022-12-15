@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New website with better navigation: 200+ Free Python Tutorials and Courses](https://www.reddit.com/r/Python/comments/zmhpw8/new_website_with_better_navigation_200_free/)
+- [Performing sentiment analysis on tweets using Python](https://www.reddit.com/r/Python/comments/zmhpbf/performing_sentiment_analysis_on_tweets_using/)
 - [Python 3.11 delivers.](https://www.reddit.com/r/Python/comments/zmgm6b/python_311_delivers/)
 - [Can I make something more advanced with tkinter?](https://www.reddit.com/r/Python/comments/zmemwb/can_i_make_something_more_advanced_with_tkinter/)
 - [Fapello.Downloader 4.0 - NSFW image and video downloader](https://www.reddit.com/r/Python/comments/zmdwfs/fapellodownloader_40_nsfw_image_and_video/)
-- [Is it possible to add a noise to an image in python?](https://www.reddit.com/r/Python/comments/zmdolk/is_it_possible_to_add_a_noise_to_an_image_in/)
-- [First project has officially been completed](https://www.reddit.com/r/Python/comments/zmdaqo/first_project_has_officially_been_completed/)
 <!-- BLOG-POST-LIST:END -->
