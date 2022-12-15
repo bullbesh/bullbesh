@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there any Flake8 plugin that validates docstring against function typehint](https://www.reddit.com/r/Python/comments/zmoui8/is_there_any_flake8_plugin_that_validates/)
+- [Motivation secret for learning Python](https://www.reddit.com/r/Python/comments/zmolqj/motivation_secret_for_learning_python/)
+- [Simple Emulator For Roulette Gambler](https://www.reddit.com/r/Python/comments/zmog7p/simple_emulator_for_roulette_gambler/)
 - [Recently published a formula for the conversion between quaternions and Euler angles &lpar;in any sequence&rpar;, does anyone know of any open source projets I can contribute it to?](https://www.reddit.com/r/Python/comments/zmnhs8/recently_published_a_formula_for_the_conversion/)
 - [⚡FastGen v0.3.5, What&#39;s new !?](https://www.reddit.com/r/Python/comments/zmmkfx/fastgen_v035_whats_new/)
-- [Maintain A Clean Architecture With Dependency Rules](https://www.reddit.com/r/Python/comments/zmmiow/maintain_a_clean_architecture_with_dependency/)
-- [Programming](https://www.reddit.com/r/Python/comments/zmmeev/programming/)
-- [Harfang3D update: 3D Engine in Python](https://www.reddit.com/r/Python/comments/zmmbtb/harfang3d_update_3d_engine_in_python/)
 <!-- BLOG-POST-LIST:END -->
