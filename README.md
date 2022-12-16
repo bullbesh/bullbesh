@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [is it acceptable to troll scammers with Python?](https://www.reddit.com/r/Python/comments/znja3p/is_it_acceptable_to_troll_scammers_with_python/)
-- [Fireworks simulation](https://www.reddit.com/r/Python/comments/znj6sr/fireworks_simulation/)
-- [Running a Python REPL inside ChatGPT](https://www.reddit.com/r/Python/comments/zni809/running_a_python_repl_inside_chatgpt/)
-- [Python script that enables interactive voice conversation with OpenAI ChatGPT fully eliminating the need for typing out messages.](https://www.reddit.com/r/Python/comments/znhkyq/python_script_that_enables_interactive_voice/)
-- [Why is everyone trying to kill Airflow?](https://www.reddit.com/r/Python/comments/znhahf/why_is_everyone_trying_to_kill_airflow/)
+- [Construction worker learning Python Hoping I could get some feedback on my latest Project, Terrace Dashboard &lpar;Fastapi, Websockets, HTML CSS JS&rpar;](https://www.reddit.com/r/Python/comments/znkqtj/construction_worker_learning_python_hoping_i/)
+- [how should i structure a data scraper that pulls and compares data across multiple sites?](https://www.reddit.com/r/Python/comments/znko8l/how_should_i_structure_a_data_scraper_that_pulls/)
+- [Drawing with Python](https://www.reddit.com/r/Python/comments/znka3b/drawing_with_python/)
+- [this cool gui thing im making, it can run at a high FPS which means it can handle alot of widgets while being smooth](https://www.reddit.com/r/Python/comments/znjy28/this_cool_gui_thing_im_making_it_can_run_at_a/)
+- [Python SDK for creating data connectors for ELT pipelines](https://www.reddit.com/r/Python/comments/znjvom/python_sdk_for_creating_data_connectors_for_elt/)
 <!-- BLOG-POST-LIST:END -->
