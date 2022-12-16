@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [is it acceptable to troll scammers with Python?](https://www.reddit.com/r/Python/comments/znja3p/is_it_acceptable_to_troll_scammers_with_python/)
+- [Fireworks simulation](https://www.reddit.com/r/Python/comments/znj6sr/fireworks_simulation/)
 - [Running a Python REPL inside ChatGPT](https://www.reddit.com/r/Python/comments/zni809/running_a_python_repl_inside_chatgpt/)
 - [Python script that enables interactive voice conversation with OpenAI ChatGPT fully eliminating the need for typing out messages.](https://www.reddit.com/r/Python/comments/znhkyq/python_script_that_enables_interactive_voice/)
 - [Why is everyone trying to kill Airflow?](https://www.reddit.com/r/Python/comments/znhahf/why_is_everyone_trying_to_kill_airflow/)
-- [Inkscape - Short-term contract for Python programming - FOSS](https://www.reddit.com/r/Python/comments/zngrdp/inkscape_shortterm_contract_for_python/)
-- [Publishing Python Packages: new book available](https://www.reddit.com/r/Python/comments/zng084/publishing_python_packages_new_book_available/)
 <!-- BLOG-POST-LIST:END -->
