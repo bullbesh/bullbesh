@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 futuristic Python builds that will change the world in 2023](https://www.reddit.com/r/Python/comments/zn4ml4/5_futuristic_python_builds_that_will_change_the/)
+- [5 creative Python builds that are worth millions &lpar;of dollars, or at least appreciation&rpar;](https://www.reddit.com/r/Python/comments/zn4iqk/5_creative_python_builds_that_are_worth_millions/)
+- [Why you should automate the boring stuff with Python](https://www.reddit.com/r/Python/comments/zn4d1c/why_you_should_automate_the_boring_stuff_with/)
+- [10 Python tricks every developer should know](https://www.reddit.com/r/Python/comments/zn49qa/10_python_tricks_every_developer_should_know/)
 - [Which is the most complete course in udemy or similar to learn Python?](https://www.reddit.com/r/Python/comments/zn050y/which_is_the_most_complete_course_in_udemy_or/)
-- [Pythonic way to explode a mixed IPv4 list](https://www.reddit.com/r/Python/comments/zn023u/pythonic_way_to_explode_a_mixed_ipv4_list/)
-- [Help with pip/pygame](https://www.reddit.com/r/Python/comments/zmztc5/help_with_pippygame/)
-- [A small 2D simulation of Lidar sensor on Simultaneous Localization And Mapping&lpar;SLAM&rpar;](https://www.reddit.com/r/Python/comments/zmyssa/a_small_2d_simulation_of_lidar_sensor_on/)
-- [sticker-convert: A python program for converting/making &lpar;animated&rpar; stickers that supports WhatsApp, Telegram, Signal, Line and Kakao &lpar;Alt. Title: Python modules for handling images could be better&rpar;](https://www.reddit.com/r/Python/comments/zmy1od/stickerconvert_a_python_program_for/)
 <!-- BLOG-POST-LIST:END -->
