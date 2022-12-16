@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why AI might never replace programmers](https://www.reddit.com/r/Python/comments/znmuoa/why_ai_might_never_replace_programmers/)
+- [What causes Python libraries to become outdated?](https://www.reddit.com/r/Python/comments/znoekm/what_causes_python_libraries_to_become_outdated/)
 - [Construction worker learning Python Hoping I could get some feedback on my latest Project, Terrace Dashboard &lpar;Fastapi, Websockets, HTML CSS JS&rpar;](https://www.reddit.com/r/Python/comments/znkqtj/construction_worker_learning_python_hoping_i/)
 - [how should i structure a data scraper that pulls and compares data across multiple sites?](https://www.reddit.com/r/Python/comments/znko8l/how_should_i_structure_a_data_scraper_that_pulls/)
 - [Drawing with Python](https://www.reddit.com/r/Python/comments/znka3b/drawing_with_python/)
