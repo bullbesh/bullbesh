@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SES Template Manager - hobby project for editing AWS SES templates with a user-interface](https://www.reddit.com/r/Python/comments/zndzuz/ses_template_manager_hobby_project_for_editing/)
 - [announcing eclipse-ecal 5.11 ipc framework](https://www.reddit.com/r/Python/comments/znco0i/announcing_eclipseecal_511_ipc_framework/)
 - [Effective Python Async like a PRO 🐍🔀](https://www.reddit.com/r/Python/comments/zncinx/effective_python_async_like_a_pro/)
 - [Vector animations with Python](https://www.reddit.com/r/Python/comments/znaa2q/vector_animations_with_python/)
 - [GitHub - im-n1/rug: Library for fetching various stock data from the internet &lpar;official and unofficial APIs&rpar;.](https://www.reddit.com/r/Python/comments/zn980n/github_imn1rug_library_for_fetching_various_stock/)
-- [5 Python Projects for Data Science Portfolio](https://www.reddit.com/r/Python/comments/zn6q7l/5_python_projects_for_data_science_portfolio/)
 <!-- BLOG-POST-LIST:END -->
