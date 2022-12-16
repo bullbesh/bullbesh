@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Running a Python REPL inside ChatGPT](https://www.reddit.com/r/Python/comments/zni809/running_a_python_repl_inside_chatgpt/)
+- [Python script that enables interactive voice conversation with OpenAI ChatGPT fully eliminating the need for typing out messages.](https://www.reddit.com/r/Python/comments/znhkyq/python_script_that_enables_interactive_voice/)
+- [Why is everyone trying to kill Airflow?](https://www.reddit.com/r/Python/comments/znhahf/why_is_everyone_trying_to_kill_airflow/)
 - [Inkscape - Short-term contract for Python programming - FOSS](https://www.reddit.com/r/Python/comments/zngrdp/inkscape_shortterm_contract_for_python/)
 - [Publishing Python Packages: new book available](https://www.reddit.com/r/Python/comments/zng084/publishing_python_packages_new_book_available/)
-- [What&#39;s the best thing/library you learned this year ?](https://www.reddit.com/r/Python/comments/znfqrp/whats_the_best_thinglibrary_you_learned_this_year/)
-- [Spyder seems to be forcing users to employ Anaconda to install new packages. Is there a way around this ? Or am I wrong / missing something.](https://www.reddit.com/r/Python/comments/zney6g/spyder_seems_to_be_forcing_users_to_employ/)
-- [SES Template Manager - hobby project for editing AWS SES templates with a user-interface](https://www.reddit.com/r/Python/comments/zndzuz/ses_template_manager_hobby_project_for_editing/)
 <!-- BLOG-POST-LIST:END -->
