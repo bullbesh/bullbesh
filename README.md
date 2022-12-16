@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which is the most complete course in udemy or similar to learn Python?](https://www.reddit.com/r/Python/comments/zn050y/which_is_the_most_complete_course_in_udemy_or/)
+- [Pythonic way to explode a mixed IPv4 list](https://www.reddit.com/r/Python/comments/zn023u/pythonic_way_to_explode_a_mixed_ipv4_list/)
+- [Help with pip/pygame](https://www.reddit.com/r/Python/comments/zmztc5/help_with_pippygame/)
 - [A small 2D simulation of Lidar sensor on Simultaneous Localization And Mapping&lpar;SLAM&rpar;](https://www.reddit.com/r/Python/comments/zmyssa/a_small_2d_simulation_of_lidar_sensor_on/)
 - [sticker-convert: A python program for converting/making &lpar;animated&rpar; stickers that supports WhatsApp, Telegram, Signal, Line and Kakao &lpar;Alt. Title: Python modules for handling images could be better&rpar;](https://www.reddit.com/r/Python/comments/zmy1od/stickerconvert_a_python_program_for/)
-- [How to schedule a Python script with Docker and Google Cloud](https://www.reddit.com/r/Python/comments/zmrl6x/how_to_schedule_a_python_script_with_docker_and/)
-- [Is there any Flake8 plugin that validates docstring against function typehint](https://www.reddit.com/r/Python/comments/zmoui8/is_there_any_flake8_plugin_that_validates/)
-- [Recently published a formula for the conversion between quaternions and Euler angles &lpar;in any sequence&rpar;, does anyone know of any open source projets I can contribute it to?](https://www.reddit.com/r/Python/comments/zmnhs8/recently_published_a_formula_for_the_conversion/)
 <!-- BLOG-POST-LIST:END -->
