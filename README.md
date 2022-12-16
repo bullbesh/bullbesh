@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - im-n1/rug: Library for fetching various stock data from the internet &lpar;official and unofficial APIs&rpar;.](https://www.reddit.com/r/Python/comments/zn980n/github_imn1rug_library_for_fetching_various_stock/)
 - [5 Python Projects for Data Science Portfolio](https://www.reddit.com/r/Python/comments/zn6q7l/5_python_projects_for_data_science_portfolio/)
 - [End of 2022 Python Bootcamp](https://www.reddit.com/r/Python/comments/zn6p64/end_of_2022_python_bootcamp/)
 - [Textualize\Rich and TKInter scrolledtext](https://www.reddit.com/r/Python/comments/zn5y7e/textualizerich_and_tkinter_scrolledtext/)
 - [Which is the most complete course in udemy or similar to learn Python?](https://www.reddit.com/r/Python/comments/zn050y/which_is_the_most_complete_course_in_udemy_or/)
-- [Pythonic way to explode a mixed IPv4 list](https://www.reddit.com/r/Python/comments/zn023u/pythonic_way_to_explode_a_mixed_ipv4_list/)
 <!-- BLOG-POST-LIST:END -->
