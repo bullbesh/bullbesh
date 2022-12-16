@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Inkscape - Short-term contract for Python programming - FOSS](https://www.reddit.com/r/Python/comments/zngrdp/inkscape_shortterm_contract_for_python/)
+- [Publishing Python Packages: new book available](https://www.reddit.com/r/Python/comments/zng084/publishing_python_packages_new_book_available/)
+- [What&#39;s the best thing/library you learned this year ?](https://www.reddit.com/r/Python/comments/znfqrp/whats_the_best_thinglibrary_you_learned_this_year/)
 - [Spyder seems to be forcing users to employ Anaconda to install new packages. Is there a way around this ? Or am I wrong / missing something.](https://www.reddit.com/r/Python/comments/zney6g/spyder_seems_to_be_forcing_users_to_employ/)
 - [SES Template Manager - hobby project for editing AWS SES templates with a user-interface](https://www.reddit.com/r/Python/comments/zndzuz/ses_template_manager_hobby_project_for_editing/)
-- [announcing eclipse-ecal 5.11 ipc framework](https://www.reddit.com/r/Python/comments/znco0i/announcing_eclipseecal_511_ipc_framework/)
-- [Effective Python Async like a PRO 🐍🔀](https://www.reddit.com/r/Python/comments/zncinx/effective_python_async_like_a_pro/)
-- [Vector animations with Python](https://www.reddit.com/r/Python/comments/znaa2q/vector_animations_with_python/)
 <!-- BLOG-POST-LIST:END -->
