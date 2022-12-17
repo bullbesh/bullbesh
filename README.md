@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is web scraping a viable niche specialization for a Python Developer in 2022?](https://www.reddit.com/r/Python/comments/znyqio/is_web_scraping_a_viable_niche_specialization_for/)
+- [Can I get a job after completing Dr Angela&#39;s 100 day bootcamp ?](https://www.reddit.com/r/Python/comments/znyqgf/can_i_get_a_job_after_completing_dr_angelas_100/)
+- [For loops](https://www.reddit.com/r/Python/comments/znyi3i/for_loops/)
 - [Python For Loops Explained in 30 Seconds!](https://www.reddit.com/r/Python/comments/znu3el/python_for_loops_explained_in_30_seconds/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/znt08m/saturday_daily_thread_resource_request_and/)
-- [What causes Python libraries to become outdated?](https://www.reddit.com/r/Python/comments/znoekm/what_causes_python_libraries_to_become_outdated/)
-- [Construction worker learning Python Hoping I could get some feedback on my latest Project, Terrace Dashboard &lpar;Fastapi, Websockets, HTML CSS JS&rpar;](https://www.reddit.com/r/Python/comments/znkqtj/construction_worker_learning_python_hoping_i/)
-- [this cool gui thing im making, it can run at a high FPS which means it can handle alot of widgets while being smooth](https://www.reddit.com/r/Python/comments/znjy28/this_cool_gui_thing_im_making_it_can_run_at_a/)
 <!-- BLOG-POST-LIST:END -->
