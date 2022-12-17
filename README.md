@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Another one PyCharm Pro vs VSCode/VSCodium question, but focused on UI/UX](https://www.reddit.com/r/Python/comments/zo6h13/another_one_pycharm_pro_vs_vscodevscodium/)
 - [Dash Dashboards, Multi-Paged Quick Development with Python &amp; React Tutorial](https://www.reddit.com/r/Python/comments/zo4ctd/dash_dashboards_multipaged_quick_development_with/)
 - [Efficient Table Conversion Tool for Various Formats](https://www.reddit.com/r/Python/comments/zo30dn/efficient_table_conversion_tool_for_various/)
 - [Can you share self project?](https://www.reddit.com/r/Python/comments/zo28e7/can_you_share_self_project/)
 - [Boyer-moore file search w/ pure python, search a 1GB unicode file in ~8s without loading it all into memory](https://www.reddit.com/r/Python/comments/znyweu/boyermoore_file_search_w_pure_python_search_a_1gb/)
-- [Python For Loops Explained in 30 Seconds!](https://www.reddit.com/r/Python/comments/znu3el/python_for_loops_explained_in_30_seconds/)
 <!-- BLOG-POST-LIST:END -->
