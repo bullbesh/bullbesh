@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Auto-generate Python REST API clients using OpenAPI Generator](https://www.reddit.com/r/Python/comments/zo7vvg/autogenerate_python_rest_api_clients_using/)
-- [Another one PyCharm Pro vs VSCode/VSCodium question, but focused on UI/UX](https://www.reddit.com/r/Python/comments/zo6h13/another_one_pycharm_pro_vs_vscodevscodium/)
-- [Dash Dashboards, Multi-Paged Quick Development with Python &amp; React Tutorial](https://www.reddit.com/r/Python/comments/zo4ctd/dash_dashboards_multipaged_quick_development_with/)
-- [Efficient Table Conversion Tool for Various Formats](https://www.reddit.com/r/Python/comments/zo30dn/efficient_table_conversion_tool_for_various/)
-- [Can you share self project?](https://www.reddit.com/r/Python/comments/zo28e7/can_you_share_self_project/)
+- [Docker multi-stage build with Poetry](https://www.reddit.com/r/Python/comments/zo9kmi/docker_multistage_build_with_poetry/)
+- [TUI Markdown &quot;browser&quot; built with Textual](https://www.reddit.com/r/Python/comments/zo9bhw/tui_markdown_browser_built_with_textual/)
+- [Cough Model Integration to Java Mobile Application](https://www.reddit.com/r/Python/comments/zo9b3z/cough_model_integration_to_java_mobile_application/)
+- [GitHub - teddyoweh/Beardb: Database system implementing encrypted versions JSON of data. Easy to access, manage and deploy remotely](https://www.reddit.com/r/Python/comments/zo8wt8/github_teddyowehbeardb_database_system/)
+- [Cross Regional Dask on AWS](https://www.reddit.com/r/Python/comments/zo8t6c/cross_regional_dask_on_aws/)
 <!-- BLOG-POST-LIST:END -->
