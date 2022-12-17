@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Boyer-moore file search w/ pure python, search a 1GB unicode file in ~8s without loading it all into memory](https://www.reddit.com/r/Python/comments/znyweu/boyermoore_file_search_w_pure_python_search_a_1gb/)
 - [Is web scraping a viable niche specialization for a Python Developer in 2022?](https://www.reddit.com/r/Python/comments/znyqio/is_web_scraping_a_viable_niche_specialization_for/)
 - [Can I get a job after completing Dr Angela&#39;s 100 day bootcamp ?](https://www.reddit.com/r/Python/comments/znyqgf/can_i_get_a_job_after_completing_dr_angelas_100/)
-- [For loops](https://www.reddit.com/r/Python/comments/znyi3i/for_loops/)
 - [Python For Loops Explained in 30 Seconds!](https://www.reddit.com/r/Python/comments/znu3el/python_for_loops_explained_in_30_seconds/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/znt08m/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
