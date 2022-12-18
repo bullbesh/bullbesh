@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trying to be fluent in python.](https://www.reddit.com/r/Python/comments/zon1x1/trying_to_be_fluent_in_python/)
 - [What IDE do you think is best for Python Programming? I currently am using Visual Studio Code but am open to test others...](https://www.reddit.com/r/Python/comments/zolzmm/what_ide_do_you_think_is_best_for_python/)
 - [ASCII Art Python](https://www.reddit.com/r/Python/comments/zolmj1/ascii_art_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/zokaeb/sunday_daily_thread_whats_everyone_working_on/)
 - [Anyone using Enthought libs like Traits, TraitsUI and Envisage?](https://www.reddit.com/r/Python/comments/zoj8qx/anyone_using_enthought_libs_like_traits_traitsui/)
-- [&quot;You don&#39;t need to be smart to be an expert coder&quot; I believe is total BS. Change my mind](https://www.reddit.com/r/Python/comments/zoh7so/you_dont_need_to_be_smart_to_be_an_expert_coder_i/)
 <!-- BLOG-POST-LIST:END -->
