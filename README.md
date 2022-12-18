@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [error involving =&lt; &gt;=](https://www.reddit.com/r/Python/comments/zorb1m/error_involving/)
 - [Any good reason to use macro in CPython?](https://www.reddit.com/r/Python/comments/zoq8fz/any_good_reason_to_use_macro_in_cpython/)
-- [Want to become a software engineer?](https://www.reddit.com/r/Python/comments/zoq3co/want_to_become_a_software_engineer/)
-- [Trying to be fluent in python.](https://www.reddit.com/r/Python/comments/zon1x1/trying_to_be_fluent_in_python/)
 - [What IDE do you think is best for Python Programming? I currently am using Visual Studio Code but am open to test others...](https://www.reddit.com/r/Python/comments/zolzmm/what_ide_do_you_think_is_best_for_python/)
 - [ASCII Art Python](https://www.reddit.com/r/Python/comments/zolmj1/ascii_art_python/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/zokaeb/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
