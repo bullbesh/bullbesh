@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pip install - old python modules being installed](https://www.reddit.com/r/Python/comments/zp8km9/pip_install_old_python_modules_being_installed/)
+- [Space Science with Python: Near-Earth Objects Part 14](https://www.reddit.com/r/Python/comments/zp8ck7/space_science_with_python_nearearth_objects_part/)
 - [An Overview &amp; Implementation of K-Means Clustering](https://www.reddit.com/r/Python/comments/zp767k/an_overview_implementation_of_kmeans_clustering/)
 - [Self-improving with Python](https://www.reddit.com/r/Python/comments/zp5zcm/selfimproving_with_python/)
 - [App development &lpar;iOS and andoid&rpar; using python?](https://www.reddit.com/r/Python/comments/zp5jia/app_development_ios_and_andoid_using_python/)
-- [Benchmarking Python&lpar;3.9 -&gt; 3.11&rpar; With Django](https://www.reddit.com/r/Python/comments/zp5eh1/benchmarking_python39_311_with_django/)
-- [C++ with Python for Algorithmic Trading](https://www.reddit.com/r/Python/comments/zowmdf/c_with_python_for_algorithmic_trading/)
 <!-- BLOG-POST-LIST:END -->
