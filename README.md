@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can I sell software where I use python public modules like pandas and numpy?](https://www.reddit.com/r/Python/comments/zpdy4y/can_i_sell_software_where_i_use_python_public/)
+- [Function with a for-loop](https://www.reddit.com/r/Python/comments/zpfjhh/function_with_a_forloop/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/zpcbaj/monday_daily_thread_project_ideas/)
-- [QTreeWidgetItem - check state a solid block](https://www.reddit.com/r/Python/comments/zp9x2p/qtreewidgetitem_check_state_a_solid_block/)
 - [NumPy 1.24.0 released](https://www.reddit.com/r/Python/comments/zp9l6x/numpy_1240_released/)
 - [Pip install - old python modules being installed](https://www.reddit.com/r/Python/comments/zp8km9/pip_install_old_python_modules_being_installed/)
+- [Space Science with Python: Near-Earth Objects Part 14](https://www.reddit.com/r/Python/comments/zp8ck7/space_science_with_python_nearearth_objects_part/)
 <!-- BLOG-POST-LIST:END -->
