@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Magic Methods You Haven&#39;t Heard About](https://www.reddit.com/r/Python/comments/zq08vo/python_magic_methods_you_havent_heard_about/)
+- [Whats better?](https://www.reddit.com/r/Python/comments/zpzk3d/whats_better/)
 - [MEnDec &lpar;Message ENcryption and DEcryption&rpar;](https://www.reddit.com/r/Python/comments/zpwwmn/mendec_message_encryption_and_decryption/)
 - [DevOps Docker 101, Commands and Architecture Explained](https://www.reddit.com/r/Python/comments/zpwdja/devops_docker_101_commands_and_architecture/)
 - [I made a project to find good real-estate deals online](https://www.reddit.com/r/Python/comments/zpw4zl/i_made_a_project_to_find_good_realestate_deals/)
-- [Build A Custom Deep Learning Model Using Transfer Learning](https://www.reddit.com/r/Python/comments/zpuma0/build_a_custom_deep_learning_model_using_transfer/)
-- [How to Record Audio using Python](https://www.reddit.com/r/Python/comments/zptpul/how_to_record_audio_using_python/)
 <!-- BLOG-POST-LIST:END -->
