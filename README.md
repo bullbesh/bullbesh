@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [multi line lambdas, as god intended](https://www.reddit.com/r/Python/comments/zq2b1f/multi_line_lambdas_as_god_intended/)
+- [How to progress in non-dev role](https://www.reddit.com/r/Python/comments/zq1tw5/how_to_progress_in_nondev_role/)
 - [Python Magic Methods You Haven&#39;t Heard About](https://www.reddit.com/r/Python/comments/zq08vo/python_magic_methods_you_havent_heard_about/)
-- [Whats better?](https://www.reddit.com/r/Python/comments/zpzk3d/whats_better/)
 - [MEnDec &lpar;Message ENcryption and DEcryption&rpar;](https://www.reddit.com/r/Python/comments/zpwwmn/mendec_message_encryption_and_decryption/)
 - [DevOps Docker 101, Commands and Architecture Explained](https://www.reddit.com/r/Python/comments/zpwdja/devops_docker_101_commands_and_architecture/)
-- [I made a project to find good real-estate deals online](https://www.reddit.com/r/Python/comments/zpw4zl/i_made_a_project_to_find_good_realestate_deals/)
 <!-- BLOG-POST-LIST:END -->
