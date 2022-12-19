@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lingua 1.2.0 - The most accurate natural language detection library for Python - now with support for detecting multiple languages in mixed-language text.](https://www.reddit.com/r/Python/comments/zq6tc4/lingua_120_the_most_accurate_natural_language/)
+- [Odd error](https://www.reddit.com/r/Python/comments/zq6t2v/odd_error/)
+- [A simple application for reviewing products using django framework.](https://www.reddit.com/r/Python/comments/zq6nzh/a_simple_application_for_reviewing_products_using/)
+- [Testing ChatGPT&#39;s ability to write Python code resulted in flawless snake game](https://www.reddit.com/r/Python/comments/zq5uy5/testing_chatgpts_ability_to_write_python_code/)
 - [Boring Python: code quality](https://www.reddit.com/r/Python/comments/zq4b4p/boring_python_code_quality/)
-- [Here is the list of most popular interview questions. Good luck.](https://www.reddit.com/r/Python/comments/zq3tur/here_is_the_list_of_most_popular_interview/)
-- [Hey everyone, I’m the guy whose web app did really well here last week. It was a web app to help people who are struggling. Ironically, today I was let go from my job.](https://www.reddit.com/r/Python/comments/zq3sbt/hey_everyone_im_the_guy_whose_web_app_did_really/)
-- [multi line lambdas, as god intended](https://www.reddit.com/r/Python/comments/zq2b1f/multi_line_lambdas_as_god_intended/)
-- [How to progress in non-dev role](https://www.reddit.com/r/Python/comments/zq1tw5/how_to_progress_in_nondev_role/)
 <!-- BLOG-POST-LIST:END -->
