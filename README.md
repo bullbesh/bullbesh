@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MEnDec &lpar;Message ENcryption and DEcryption&rpar;](https://www.reddit.com/r/Python/comments/zpwwmn/mendec_message_encryption_and_decryption/)
+- [Basic calculator](https://www.reddit.com/r/Python/comments/zpwmja/basic_calculator/)
+- [DevOps Docker 101, Commands and Architecture Explained](https://www.reddit.com/r/Python/comments/zpwdja/devops_docker_101_commands_and_architecture/)
+- [I made a project to find good real-estate deals online](https://www.reddit.com/r/Python/comments/zpw4zl/i_made_a_project_to_find_good_realestate_deals/)
 - [Build A Custom Deep Learning Model Using Transfer Learning](https://www.reddit.com/r/Python/comments/zpuma0/build_a_custom_deep_learning_model_using_transfer/)
-- [How to Record Audio using Python](https://www.reddit.com/r/Python/comments/zptpul/how_to_record_audio_using_python/)
-- [Vertebrae: a security-focused, all purpose application framework for building async Python microservices](https://www.reddit.com/r/Python/comments/zpto6j/vertebrae_a_securityfocused_all_purpose/)
-- [is data structures and algorithms necessary for complex app development like social media](https://www.reddit.com/r/Python/comments/zpssbg/is_data_structures_and_algorithms_necessary_for/)
-- [Python SciPy Tutorial - A Guide for Beginners](https://www.reddit.com/r/Python/comments/zpsfx5/python_scipy_tutorial_a_guide_for_beginners/)
 <!-- BLOG-POST-LIST:END -->
