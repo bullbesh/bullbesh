@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy FastApi to Fly.io?](https://www.reddit.com/r/Python/comments/zpkxbq/how_to_deploy_fastapi_to_flyio/)
 - [Marqo-YOLO: Bringing highlighting to image search.](https://www.reddit.com/r/Python/comments/zpiow6/marqoyolo_bringing_highlighting_to_image_search/)
 - [3 Simple Ways ChatGPT Can Make You a Better Python Coder](https://www.reddit.com/r/Python/comments/zpi9id/3_simple_ways_chatgpt_can_make_you_a_better/)
 - [Python Course](https://www.reddit.com/r/Python/comments/zpgt3n/python_course/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/zpcbaj/monday_daily_thread_project_ideas/)
-- [NumPy 1.24.0 released](https://www.reddit.com/r/Python/comments/zp9l6x/numpy_1240_released/)
 <!-- BLOG-POST-LIST:END -->
