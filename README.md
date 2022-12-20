@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Black 23.1a1 - We want your help testing and finalizing Black&#39;s stable code style for 2023!](https://www.reddit.com/r/Python/comments/zqcnpk/black_231a1_we_want_your_help_testing_and/)
 - [Simon Says](https://www.reddit.com/r/Python/comments/zq9nme/simon_says/)
 - [Common beginner mistake - modifying lists in the loop](https://www.reddit.com/r/Python/comments/zq9f5f/common_beginner_mistake_modifying_lists_in_the/)
 - [I made a a tool for creating animations in the terminal with python!](https://www.reddit.com/r/Python/comments/zq8a3c/i_made_a_a_tool_for_creating_animations_in_the/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/zq8047/tuesday_daily_thread_advanced_questions/)
-- [Lingua 1.2.0 - The most accurate natural language detection library for Python - now with support for detecting multiple languages in mixed-language text.](https://www.reddit.com/r/Python/comments/zq6tc4/lingua_120_the_most_accurate_natural_language/)
 <!-- BLOG-POST-LIST:END -->
