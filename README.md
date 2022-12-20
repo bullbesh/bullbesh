@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [behance-py - free download pictures from behance.net](https://www.reddit.com/r/Python/comments/zqj6ci/behancepy_free_download_pictures_from_behancenet/)
 - [Boring Python: dependency management](https://www.reddit.com/r/Python/comments/zqikt8/boring_python_dependency_management/)
 - [Combine ChatGPT with Google, Bing, DuckDuckGo or any search engine, Why not?](https://www.reddit.com/r/Python/comments/zqi3gv/combine_chatgpt_with_google_bing_duckduckgo_or/)
 - [Black 23.1a1 - We want your help testing and finalizing Black&#39;s stable code style for 2023!](https://www.reddit.com/r/Python/comments/zqcnpk/black_231a1_we_want_your_help_testing_and/)
 - [Simon Says](https://www.reddit.com/r/Python/comments/zq9nme/simon_says/)
-- [Common beginner mistake - modifying lists in the loop](https://www.reddit.com/r/Python/comments/zq9f5f/common_beginner_mistake_modifying_lists_in_the/)
 <!-- BLOG-POST-LIST:END -->
