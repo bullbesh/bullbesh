@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simon Says](https://www.reddit.com/r/Python/comments/zq9nme/simon_says/)
+- [Common beginner mistake - modifying lists in the loop](https://www.reddit.com/r/Python/comments/zq9f5f/common_beginner_mistake_modifying_lists_in_the/)
+- [I made a a tool for creating animations in the terminal with python!](https://www.reddit.com/r/Python/comments/zq8a3c/i_made_a_a_tool_for_creating_animations_in_the/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/zq8047/tuesday_daily_thread_advanced_questions/)
 - [Lingua 1.2.0 - The most accurate natural language detection library for Python - now with support for detecting multiple languages in mixed-language text.](https://www.reddit.com/r/Python/comments/zq6tc4/lingua_120_the_most_accurate_natural_language/)
-- [Odd error](https://www.reddit.com/r/Python/comments/zq6t2v/odd_error/)
-- [A simple application for reviewing products using django framework.](https://www.reddit.com/r/Python/comments/zq6nzh/a_simple_application_for_reviewing_products_using/)
-- [Testing ChatGPT&#39;s ability to write Python code resulted in flawless snake game](https://www.reddit.com/r/Python/comments/zq5uy5/testing_chatgpts_ability_to_write_python_code/)
-- [Boring Python: code quality](https://www.reddit.com/r/Python/comments/zq4b4p/boring_python_code_quality/)
 <!-- BLOG-POST-LIST:END -->
