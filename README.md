@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [txtai 5.2 released: open-source semantic search](https://www.reddit.com/r/Python/comments/zqv3md/txtai_52_released_opensource_semantic_search/)
+- [Priority-Random](https://www.reddit.com/r/Python/comments/zqut2p/priorityrandom/)
+- [North Hollywood Compiled Python](https://www.reddit.com/r/Python/comments/zqu9xu/north_hollywood_compiled_python/)
+- [Which library in your opinion take the cake for the best full stack development in python.](https://www.reddit.com/r/Python/comments/zqu5wx/which_library_in_your_opinion_take_the_cake_for/)
 - [Plone 6 Released... wait, what? you haven&#39;t heard of Plone? It&#39;s only been around for like 20 years....](https://www.reddit.com/r/Python/comments/zqt2ng/plone_6_released_wait_what_you_havent_heard_of/)
-- [How I Used ChatGPT to Automate These 6 Tasks in My Data Science Role](https://www.reddit.com/r/Python/comments/zqrynk/how_i_used_chatgpt_to_automate_these_6_tasks_in/)
-- [You can learn a lot from debugging and read other people&#39;s good code](https://www.reddit.com/r/Python/comments/zqrrq6/you_can_learn_a_lot_from_debugging_and_read_other/)
-- [Sigils are an underappreciated programming technology](https://www.reddit.com/r/Python/comments/zqptcw/sigils_are_an_underappreciated_programming/)
-- [Normally I teach Python as a CS professor. Now I’m developing a programming game where you can apply your Python skills to different coding challenges.](https://www.reddit.com/r/Python/comments/zqpnm5/normally_i_teach_python_as_a_cs_professor_now_im/)
 <!-- BLOG-POST-LIST:END -->
