@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - DerwenAI/kglab: Graph Data Science: an abstraction layer in Python for building knowledge graphs, integrated with popular graph libraries – atop Pandas, NetworkX, RAPIDS, RDFlib, pySHACL, PyVis, morph-kgc, pslpython, pyarrow, etc.](https://www.reddit.com/r/Python/comments/zqvlyr/github_derwenaikglab_graph_data_science_an/)
 - [txtai 5.2 released: open-source semantic search](https://www.reddit.com/r/Python/comments/zqv3md/txtai_52_released_opensource_semantic_search/)
 - [Priority-Random](https://www.reddit.com/r/Python/comments/zqut2p/priorityrandom/)
 - [North Hollywood Compiled Python](https://www.reddit.com/r/Python/comments/zqu9xu/north_hollywood_compiled_python/)
 - [Which library in your opinion take the cake for the best full stack development in python.](https://www.reddit.com/r/Python/comments/zqu5wx/which_library_in_your_opinion_take_the_cake_for/)
-- [Plone 6 Released... wait, what? you haven&#39;t heard of Plone? It&#39;s only been around for like 20 years....](https://www.reddit.com/r/Python/comments/zqt2ng/plone_6_released_wait_what_you_havent_heard_of/)
 <!-- BLOG-POST-LIST:END -->
