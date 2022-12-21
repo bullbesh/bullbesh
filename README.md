@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Get A free $750 Cash App Card! See if you qualify below!](https://www.reddit.com/r/Python/comments/zs2pb7/get_a_free_750_cash_app_card_see_if_you_qualify/)
+- [Get rid of SettingWithCopyWarning in pandas with Copy on Write](https://www.reddit.com/r/Python/comments/zs4kau/get_rid_of_settingwithcopywarning_in_pandas_with/)
+- [I am looking for learning friends for python](https://www.reddit.com/r/Python/comments/zs4hf9/i_am_looking_for_learning_friends_for_python/)
+- [starlette-admin: support for Odmantic &amp; many more](https://www.reddit.com/r/Python/comments/zs41tb/starletteadmin_support_for_odmantic_many_more/)
+- [Python strings: how to use them -- Part 1](https://www.reddit.com/r/Python/comments/zs3r4g/python_strings_how_to_use_them_part_1/)
 - [Automation on inactive windows.](https://www.reddit.com/r/Python/comments/zs2d55/automation_on_inactive_windows/)
-- [Gamma ECS Game Engine](https://www.reddit.com/r/Python/comments/zrvyvs/gamma_ecs_game_engine/)
-- [Would anyone be interested in collaborating on a financial tracker GUI app?](https://www.reddit.com/r/Python/comments/zrv4hx/would_anyone_be_interested_in_collaborating_on_a/)
-- [Any books recommended for Operation Research on Python?](https://www.reddit.com/r/Python/comments/zruyma/any_books_recommended_for_operation_research_on/)
 <!-- BLOG-POST-LIST:END -->
