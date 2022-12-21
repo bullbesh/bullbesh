@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Ethereum Name Service &lpar;$ENS&rpar; is Airdropping Tokens worth up to 5000$ for the first 1000 People To Claim it.](https://www.reddit.com/r/Python/comments/zrnhgt/ethereum_name_service_ens_is_airdropping_tokens/)
+- [punchline: Generate stripes for music box from MIDI](https://www.reddit.com/r/Python/comments/zrpgm1/punchline_generate_stripes_for_music_box_from_midi/)
+- [New to Python](https://www.reddit.com/r/Python/comments/zrooyv/new_to_python/)
 - [99.8% Python - IRL City Mini Map](https://www.reddit.com/r/Python/comments/zrmxsu/998_python_irl_city_mini_map/)
 - [Alternative to Pandas](https://www.reddit.com/r/Python/comments/zrhnq1/alternative_to_pandas/)
 - [Which code formatter do you use?](https://www.reddit.com/r/Python/comments/zrhg5o/which_code_formatter_do_you_use/)
-- [Python tuples: unveiling their power with a complete programming example](https://www.reddit.com/r/Python/comments/zrf3u6/python_tuples_unveiling_their_power_with_a/)
 <!-- BLOG-POST-LIST:END -->
