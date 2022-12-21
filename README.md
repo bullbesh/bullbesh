@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [No module named &lpar;problem with libraries&rpar; Python](https://www.reddit.com/r/Python/comments/zrxpkj/no_module_named_problem_with_libraries_python/)
+- [ITF+](https://www.reddit.com/r/Python/comments/zs0tae/itf/)
 - [Gamma ECS Game Engine](https://www.reddit.com/r/Python/comments/zrvyvs/gamma_ecs_game_engine/)
 - [Would anyone be interested in collaborating on a financial tracker GUI app?](https://www.reddit.com/r/Python/comments/zrv4hx/would_anyone_be_interested_in_collaborating_on_a/)
 - [Any books recommended for Operation Research on Python?](https://www.reddit.com/r/Python/comments/zruyma/any_books_recommended_for_operation_research_on/)
