@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Some one help me finnish this code :D](https://www.reddit.com/r/Python/comments/zrs3wi/some_one_help_me_finnish_this_code_d/)
+- [OpenAI GPT-3 + Streamlit WEB APPS | Python |Article Summarizer using text-davinci-003 model @OpenAI](https://www.reddit.com/r/Python/comments/zrrnhz/openai_gpt3_streamlit_web_apps_python_article/)
+- [Learn Python Programming --- Python for Beginners](https://www.reddit.com/r/Python/comments/zrrena/learn_python_programming_python_for_beginners/)
 - [punchline: Generate stripes for music box from MIDI](https://www.reddit.com/r/Python/comments/zrpgm1/punchline_generate_stripes_for_music_box_from_midi/)
 - [New to Python](https://www.reddit.com/r/Python/comments/zrooyv/new_to_python/)
-- [99.8% Python - IRL City Mini Map](https://www.reddit.com/r/Python/comments/zrmxsu/998_python_irl_city_mini_map/)
-- [Alternative to Pandas](https://www.reddit.com/r/Python/comments/zrhnq1/alternative_to_pandas/)
-- [Which code formatter do you use?](https://www.reddit.com/r/Python/comments/zrhg5o/which_code_formatter_do_you_use/)
 <!-- BLOG-POST-LIST:END -->
