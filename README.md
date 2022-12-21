@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [ITF+](https://www.reddit.com/r/Python/comments/zs0tae/itf/)
+- [Get A free $750 Cash App Card! See if you qualify below!](https://www.reddit.com/r/Python/comments/zs2pb7/get_a_free_750_cash_app_card_see_if_you_qualify/)
+- [Automation on inactive windows.](https://www.reddit.com/r/Python/comments/zs2d55/automation_on_inactive_windows/)
 - [Gamma ECS Game Engine](https://www.reddit.com/r/Python/comments/zrvyvs/gamma_ecs_game_engine/)
 - [Would anyone be interested in collaborating on a financial tracker GUI app?](https://www.reddit.com/r/Python/comments/zrv4hx/would_anyone_be_interested_in_collaborating_on_a/)
 - [Any books recommended for Operation Research on Python?](https://www.reddit.com/r/Python/comments/zruyma/any_books_recommended_for_operation_research_on/)
-- [OpenAI GPT-3 + Streamlit WEB APPS | Python |Article Summarizer using text-davinci-003 model @OpenAI](https://www.reddit.com/r/Python/comments/zrrnhz/openai_gpt3_streamlit_web_apps_python_article/)
 <!-- BLOG-POST-LIST:END -->
