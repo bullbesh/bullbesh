@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Working with large CSV files in Python from Scratch](https://www.reddit.com/r/Python/comments/zr5d8t/working_with_large_csv_files_in_python_from/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/zr401u/wednesday_daily_thread_beginner_questions/)
-- [How the F*** programmers do to master new subjects ?](https://www.reddit.com/r/Python/comments/zr3eui/how_the_f_programmers_do_to_master_new_subjects/)
-- [Validating Okta Access Tokens in Python with PyJWT](https://www.reddit.com/r/Python/comments/zqyvd5/validating_okta_access_tokens_in_python_with_pyjwt/)
-- [GitHub - DerwenAI/kglab: Graph Data Science: an abstraction layer in Python for building knowledge graphs, integrated with popular graph libraries – atop Pandas, NetworkX, RAPIDS, RDFlib, pySHACL, PyVis, morph-kgc, pslpython, pyarrow, etc.](https://www.reddit.com/r/Python/comments/zqvlyr/github_derwenaikglab_graph_data_science_an/)
+- [Hi, how to understand m here? Could anyone give me some help? Thank you so much](https://www.reddit.com/r/Python/comments/zr7q43/hi_how_to_understand_m_here_could_anyone_give_me/)
+- [A Cheat Sheet to Machine Learning Algorithms: Types, Applications, and Examples](https://www.reddit.com/r/Python/comments/zr7iq2/a_cheat_sheet_to_machine_learning_algorithms/)
+- [10 Must-Know Seaborn Visualizations](https://www.reddit.com/r/Python/comments/zr7417/10_mustknow_seaborn_visualizations/)
+- [A CUDA-free instant NGP renderer written entirely in Python: Support real-time rendering and camera interaction and consume less than 1GB of VRAM](https://www.reddit.com/r/Python/comments/zr6xlv/a_cudafree_instant_ngp_renderer_written_entirely/)
+- [Do you want to spend more time coding and less time writing Python tests? [Version 0.0.14]](https://www.reddit.com/r/Python/comments/zr6fci/do_you_want_to_spend_more_time_coding_and_less/)
 <!-- BLOG-POST-LIST:END -->
