@@ -12,5 +12,5 @@
 - [Gamma ECS Game Engine](https://www.reddit.com/r/Python/comments/zrvyvs/gamma_ecs_game_engine/)
 - [Would anyone be interested in collaborating on a financial tracker GUI app?](https://www.reddit.com/r/Python/comments/zrv4hx/would_anyone_be_interested_in_collaborating_on_a/)
 - [Any books recommended for Operation Research on Python?](https://www.reddit.com/r/Python/comments/zruyma/any_books_recommended_for_operation_research_on/)
-- [Some one help me finnish this code :D](https://www.reddit.com/r/Python/comments/zrs3wi/some_one_help_me_finnish_this_code_d/)
+- [OpenAI GPT-3 + Streamlit WEB APPS | Python |Article Summarizer using text-davinci-003 model @OpenAI](https://www.reddit.com/r/Python/comments/zrrnhz/openai_gpt3_streamlit_web_apps_python_article/)
 <!-- BLOG-POST-LIST:END -->
