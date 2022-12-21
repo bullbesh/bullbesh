@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ethereum Name Service &lpar;$ENS&rpar; is Airdropping Tokens worth up to 5000$ for the first 1000 People To Claim it.](https://www.reddit.com/r/Python/comments/zrjudi/ethereum_name_service_ens_is_airdropping_tokens/)
+- [Alternative to Pandas](https://www.reddit.com/r/Python/comments/zrhnq1/alternative_to_pandas/)
+- [Which code formatter do you use?](https://www.reddit.com/r/Python/comments/zrhg5o/which_code_formatter_do_you_use/)
 - [Python tuples: unveiling their power with a complete programming example](https://www.reddit.com/r/Python/comments/zrf3u6/python_tuples_unveiling_their_power_with_a/)
 - [QualityScaler &amp; RealESRScaler 9.0 | image/video AI upscaler apps](https://www.reddit.com/r/Python/comments/zrepr8/qualityscaler_realesrscaler_90_imagevideo_ai/)
-- [Why are python dependencies so broken?](https://www.reddit.com/r/Python/comments/zrehp8/why_are_python_dependencies_so_broken/)
-- [I managed to update spyder on windows but the older version is still available, how can I uninstall it ?](https://www.reddit.com/r/Python/comments/zrdrgd/i_managed_to_update_spyder_on_windows_but_the/)
-- [A Cheat Sheet to Machine Learning Algorithms: Types, Applications, and Examples](https://www.reddit.com/r/Python/comments/zr7iq2/a_cheat_sheet_to_machine_learning_algorithms/)
 <!-- BLOG-POST-LIST:END -->
