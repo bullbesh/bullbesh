@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Share your thoughts about Code Coverage statistic. Do you use it, is it useful for you?](https://www.reddit.com/r/Python/comments/zsk1js/share_your_thoughts_about_code_coverage_statistic/)
 - [how to keep and manipulate shapes in word document after using python-docx](https://www.reddit.com/r/Python/comments/zsjo8v/how_to_keep_and_manipulate_shapes_in_word/)
 - [Combine Flet and DRF/Flask/FastAPI/DN for a cross platform application](https://www.reddit.com/r/Python/comments/zshrg3/combine_flet_and_drfflaskfastapidn_for_a_cross/)
 - [How do I transpile to an older version of Python?](https://www.reddit.com/r/Python/comments/zshq22/how_do_i_transpile_to_an_older_version_of_python/)
 - [Alternatives For ImageAI for Image Classification in Python 3.11](https://www.reddit.com/r/Python/comments/zsh6aa/alternatives_for_imageai_for_image_classification/)
-- [What&#39;s your favorite TUI framework in python?](https://www.reddit.com/r/Python/comments/zsg13t/whats_your_favorite_tui_framework_in_python/)
 <!-- BLOG-POST-LIST:END -->
