@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [i need help. willing to pay a small amount.](https://www.reddit.com/r/Python/comments/zsmgby/i_need_help_willing_to_pay_a_small_amount/)
+- [mypy-baseline: Integrate mypy in seconds with existing codebase. A friendly CLI tool to make mypy report only new type violations and ignore existing ones.](https://www.reddit.com/r/Python/comments/zso38g/mypybaseline_integrate_mypy_in_seconds_with/)
 - [I made autothread: the easiest way to add parallelization to your code](https://www.reddit.com/r/Python/comments/zsmf1j/i_made_autothread_the_easiest_way_to_add/)
 - [A year of building for the terminal](https://www.reddit.com/r/Python/comments/zsm77r/a_year_of_building_for_the_terminal/)
 - [IMAGE ANALISYS](https://www.reddit.com/r/Python/comments/zsm4uv/image_analisys/)
