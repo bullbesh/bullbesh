@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [i need help. willing to pay a small amount.](https://www.reddit.com/r/Python/comments/zsmgby/i_need_help_willing_to_pay_a_small_amount/)
+- [I made autothread: the easiest way to add parallelization to your code](https://www.reddit.com/r/Python/comments/zsmf1j/i_made_autothread_the_easiest_way_to_add/)
+- [A year of building for the terminal](https://www.reddit.com/r/Python/comments/zsm77r/a_year_of_building_for_the_terminal/)
+- [IMAGE ANALISYS](https://www.reddit.com/r/Python/comments/zsm4uv/image_analisys/)
 - [The outbox pattern in Python](https://www.reddit.com/r/Python/comments/zsllxd/the_outbox_pattern_in_python/)
-- [create-tf-app: Set up and maintain a machine learning project with a single script.](https://www.reddit.com/r/Python/comments/zslbhf/createtfapp_set_up_and_maintain_a_machine/)
-- [Share your thoughts about Code Coverage statistic. Do you use it, is it useful for you?](https://www.reddit.com/r/Python/comments/zsk1js/share_your_thoughts_about_code_coverage_statistic/)
-- [how to keep and manipulate shapes in word document after using python-docx](https://www.reddit.com/r/Python/comments/zsjo8v/how_to_keep_and_manipulate_shapes_in_word/)
-- [Combine Flet and DRF/Flask/FastAPI/DN for a cross platform application](https://www.reddit.com/r/Python/comments/zshrg3/combine_flet_and_drfflaskfastapidn_for_a_cross/)
 <!-- BLOG-POST-LIST:END -->
