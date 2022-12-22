@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Naughty or Nice Based on Your Reddit Comments Using Webhook Parameters](https://www.reddit.com/r/Python/comments/zswnvf/naughty_or_nice_based_on_your_reddit_comments/)
+- [how to use python to predict outcome](https://www.reddit.com/r/Python/comments/zswkq4/how_to_use_python_to_predict_outcome/)
 - [Any artists, musicians, writers, etc, here? Have you found any interesting ways to use Python in your work?](https://www.reddit.com/r/Python/comments/zsvkjc/any_artists_musicians_writers_etc_here_have_you/)
 - [python beginner computer set up?](https://www.reddit.com/r/Python/comments/zsv4ay/python_beginner_computer_set_up/)
 - [Random Data Generators](https://www.reddit.com/r/Python/comments/zsuehz/random_data_generators/)
-- [Tips and Tricks for Solving Advent of Code&#39;s Puzzles](https://www.reddit.com/r/Python/comments/zsu3sq/tips_and_tricks_for_solving_advent_of_codes/)
-- [Generate Images With DALL·E 2 and the OpenAI API – Real Python](https://www.reddit.com/r/Python/comments/zsrdlg/generate_images_with_dalle_2_and_the_openai_api/)
 <!-- BLOG-POST-LIST:END -->
