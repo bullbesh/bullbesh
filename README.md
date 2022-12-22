@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any artists, musicians, writers, etc, here? Have you found any interesting ways to use Python in your work?](https://www.reddit.com/r/Python/comments/zsvkjc/any_artists_musicians_writers_etc_here_have_you/)
+- [python beginner computer set up?](https://www.reddit.com/r/Python/comments/zsv4ay/python_beginner_computer_set_up/)
+- [Random Data Generators](https://www.reddit.com/r/Python/comments/zsuehz/random_data_generators/)
 - [Tips and Tricks for Solving Advent of Code&#39;s Puzzles](https://www.reddit.com/r/Python/comments/zsu3sq/tips_and_tricks_for_solving_advent_of_codes/)
 - [Generate Images With DALL·E 2 and the OpenAI API – Real Python](https://www.reddit.com/r/Python/comments/zsrdlg/generate_images_with_dalle_2_and_the_openai_api/)
-- [Update on My Regular Expression Library](https://www.reddit.com/r/Python/comments/zsrdg3/update_on_my_regular_expression_library/)
-- [Using OpenCV and NLP - Python](https://www.reddit.com/r/Python/comments/zsqw0w/using_opencv_and_nlp_python/)
-- [How much would it cost to pay someone to develop this app? &lpar;Long post with details of the app&rpar;](https://www.reddit.com/r/Python/comments/zsq46v/how_much_would_it_cost_to_pay_someone_to_develop/)
 <!-- BLOG-POST-LIST:END -->
