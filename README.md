@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python strings: how to use them -- Part 2](https://www.reddit.com/r/Python/comments/zs8a5j/python_strings_how_to_use_them_part_2/)
 - [ccxt python question for crypto bot.](https://www.reddit.com/r/Python/comments/zs63qi/ccxt_python_question_for_crypto_bot/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/zs5y8q/thursday_daily_thread_python_careers_courses_and/)
 - [Creating a Regression Model to Predict QB Passing Yards](https://www.reddit.com/r/Python/comments/zs54v2/creating_a_regression_model_to_predict_qb_passing/)
 - [Get rid of SettingWithCopyWarning in pandas with Copy on Write](https://www.reddit.com/r/Python/comments/zs4kau/get_rid_of_settingwithcopywarning_in_pandas_with/)
-- [starlette-admin: support for Odmantic &amp; many more](https://www.reddit.com/r/Python/comments/zs41tb/starletteadmin_support_for_odmantic_many_more/)
 <!-- BLOG-POST-LIST:END -->
