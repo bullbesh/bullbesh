@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [HELP out if no where python is telling me my files don’t exist it never had trouble until now. Giving me errno 2 “no such file or directory”](https://www.reddit.com/r/Python/comments/ztnkig/help_out_if_no_where_python_is_telling_me_my/)
+- [Hello world](https://www.reddit.com/r/Python/comments/ztp54i/hello_world/)
 - [What made you start programming?](https://www.reddit.com/r/Python/comments/ztmcua/what_made_you_start_programming/)
 - [Transcribe Speech to Text with 3 Lines of Python](https://www.reddit.com/r/Python/comments/ztmcjb/transcribe_speech_to_text_with_3_lines_of_python/)
 - [Python F/C converter app by newb on ChatGPT &lpar;no effort&rpar;](https://www.reddit.com/r/Python/comments/ztl8qc/python_fc_converter_app_by_newb_on_chatgpt_no/)
