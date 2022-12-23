@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Project advice for IOT device](https://www.reddit.com/r/Python/comments/zt3aj9/project_advice_for_iot_device/)
+- [Enum with `str` or `int` Mixin Breaking Change in Python 3.11](https://www.reddit.com/r/Python/comments/zt4ot4/enum_with_str_or_int_mixin_breaking_change_in/)
+- [Deploy a web app as a wheel?](https://www.reddit.com/r/Python/comments/zt4mkv/deploy_a_web_app_as_a_wheel/)
 - [309. Best Time to Buy and Sell Stock with Cooldown Python solutions - Best Time to Buy and Sell Stock with Cooldown - LeetCode](https://www.reddit.com/r/Python/comments/zt2hyk/309_best_time_to_buy_and_sell_stock_with_cooldown/)
 - [ReductStore Client SDK for Python v1.2.0: New Features and Example Use](https://www.reddit.com/r/Python/comments/zsydsq/reductstore_client_sdk_for_python_v120_new/)
 - [Naughty or Nice Based on Your Reddit Comments Using Webhook Parameters](https://www.reddit.com/r/Python/comments/zswnvf/naughty_or_nice_based_on_your_reddit_comments/)
-- [Any artists, musicians, writers, etc, here? Have you found any interesting ways to use Python in your work?](https://www.reddit.com/r/Python/comments/zsvkjc/any_artists_musicians_writers_etc_here_have_you/)
 <!-- BLOG-POST-LIST:END -->
