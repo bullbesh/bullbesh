@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What made you start programming?](https://www.reddit.com/r/Python/comments/ztmcua/what_made_you_start_programming/)
+- [Transcribe Speech to Text with 3 Lines of Python](https://www.reddit.com/r/Python/comments/ztmcjb/transcribe_speech_to_text_with_3_lines_of_python/)
 - [Python F/C converter app by newb on ChatGPT &lpar;no effort&rpar;](https://www.reddit.com/r/Python/comments/ztl8qc/python_fc_converter_app_by_newb_on_chatgpt_no/)
 - [Introducing a powerful web scraper for collecting email addresses](https://www.reddit.com/r/Python/comments/ztl8ov/introducing_a_powerful_web_scraper_for_collecting/)
 - [An off-topic holiday wish](https://www.reddit.com/r/Python/comments/ztks4v/an_offtopic_holiday_wish/)
-- [I built a tool that aggregates and filters python job postings from the internet for you. Let me know your thoughts!](https://www.reddit.com/r/Python/comments/ztj5s2/i_built_a_tool_that_aggregates_and_filters_python/)
-- [Random Sparse Matrix Generator](https://www.reddit.com/r/Python/comments/ztfhf3/random_sparse_matrix_generator/)
 <!-- BLOG-POST-LIST:END -->
