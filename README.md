@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recruiting python devs in Prague, Czech Republic.](https://www.reddit.com/r/Python/comments/ztammr/recruiting_python_devs_in_prague_czech_republic/)
 - [Portable gps](https://www.reddit.com/r/Python/comments/zt5qxy/portable_gps/)
 - [Enum with `str` or `int` Mixin Breaking Change in Python 3.11](https://www.reddit.com/r/Python/comments/zt4ot4/enum_with_str_or_int_mixin_breaking_change_in/)
 - [Deploy a web app as a wheel?](https://www.reddit.com/r/Python/comments/zt4mkv/deploy_a_web_app_as_a_wheel/)
 - [309. Best Time to Buy and Sell Stock with Cooldown Python solutions - Best Time to Buy and Sell Stock with Cooldown - LeetCode](https://www.reddit.com/r/Python/comments/zt2hyk/309_best_time_to_buy_and_sell_stock_with_cooldown/)
-- [ReductStore Client SDK for Python v1.2.0: New Features and Example Use](https://www.reddit.com/r/Python/comments/zsydsq/reductstore_client_sdk_for_python_v120_new/)
 <!-- BLOG-POST-LIST:END -->
