@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Random Sparse Matrix Generator](https://www.reddit.com/r/Python/comments/ztfhf3/random_sparse_matrix_generator/)
 - [Dalle Preview: create DALL-E 2 images from your messaging apps](https://www.reddit.com/r/Python/comments/ztep5t/dalle_preview_create_dalle_2_images_from_your/)
 - [Open-source Best Practices in Responsible AI](https://www.reddit.com/r/Python/comments/ztdncc/opensource_best_practices_in_responsible_ai/)
 - [How to secure a Python MMO for deployment to AWS free tier](https://www.reddit.com/r/Python/comments/ztdhd6/how_to_secure_a_python_mmo_for_deployment_to_aws/)
 - [Know How to Create and Visualize a Decision Tree with Python](https://www.reddit.com/r/Python/comments/ztcvhd/know_how_to_create_and_visualize_a_decision_tree/)
-- [Python QR code](https://www.reddit.com/r/Python/comments/ztblok/python_qr_code/)
 <!-- BLOG-POST-LIST:END -->
