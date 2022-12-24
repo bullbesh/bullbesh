@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free Python Udemy Certificate Courses - Limited Slots](https://www.reddit.com/r/Python/comments/zuc3ej/free_python_udemy_certificate_courses_limited/)
 - [Random Mandalas Generator | Python for Prediction](https://www.reddit.com/r/Python/comments/zubru6/random_mandalas_generator_python_for_prediction/)
 - [Can any one suggest me any free cloud storage more than 50GB and it is safe.](https://www.reddit.com/r/Python/comments/zubimu/can_any_one_suggest_me_any_free_cloud_storage/)
 - [Advise what to code for a beginner in python](https://www.reddit.com/r/Python/comments/zubfte/advise_what_to_code_for_a_beginner_in_python/)
 - [Dead code pytest plug-in](https://www.reddit.com/r/Python/comments/zuaugs/dead_code_pytest_plugin/)
-- [How to program it by python?](https://www.reddit.com/r/Python/comments/zuaud5/how_to_program_it_by_python/)
 <!-- BLOG-POST-LIST:END -->
