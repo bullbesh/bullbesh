@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Free Python Udemy Certificate Courses - Limited Slots](https://www.reddit.com/r/Python/comments/zu0o3f/free_python_udemy_certificate_courses_limited/)
+- [Python in Datacamp](https://www.reddit.com/r/Python/comments/zu22qx/python_in_datacamp/)
 - [vscode theme](https://www.reddit.com/r/Python/comments/ztz27f/vscode_theme/)
 - [How to use NASA&#39;s Mars Rover Camera API in Python | Devlog](https://www.reddit.com/r/Python/comments/ztx6sw/how_to_use_nasas_mars_rover_camera_api_in_python/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/ztwhol/saturday_daily_thread_resource_request_and/)
