@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Working on a Procedural Survival Game using Python + Pygame](https://www.reddit.com/r/Python/comments/zu7ir5/working_on_a_procedural_survival_game_using/)
-- [apply file changes to a bunch of other PCs with p2p](https://www.reddit.com/r/Python/comments/zu6v55/apply_file_changes_to_a_bunch_of_other_pcs_with/)
-- [Implementation of Monte Carlo Tree Search Algorithm in Python with code.](https://www.reddit.com/r/Python/comments/zu5zsq/implementation_of_monte_carlo_tree_search/)
-- [Is Python a good option to implement Websockets?](https://www.reddit.com/r/Python/comments/zu4k17/is_python_a_good_option_to_implement_websockets/)
-- [How to use NASA&#39;s Mars Rover Camera API in Python | Devlog](https://www.reddit.com/r/Python/comments/ztx6sw/how_to_use_nasas_mars_rover_camera_api_in_python/)
+- [100% Free Udemy Certificate Courses - Master Python by Building Real-World Python Projects](https://www.reddit.com/r/Python/comments/zu8q94/100_free_udemy_certificate_courses_master_python/)
+- [What features of the Python language predestined it to be so accepted in data science, machine learning and artificial intelligence?](https://www.reddit.com/r/Python/comments/zu8azk/what_features_of_the_python_language_predestined/)
+- [100% Free Udemy Certificate Courses - Create Space Invaders with Python PyGame](https://www.reddit.com/r/Python/comments/zu88ew/100_free_udemy_certificate_courses_create_space/)
+- [How can I leverage ChatGPT to help me with learning to code / working?](https://www.reddit.com/r/Python/comments/zu7ycm/how_can_i_leverage_chatgpt_to_help_me_with/)
+- [Python Data Science December [Completed] - 24 Data Science Projects](https://www.reddit.com/r/Python/comments/zu7vqp/python_data_science_december_completed_24_data/)
 <!-- BLOG-POST-LIST:END -->
