@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to make a AI project related to stock market](https://www.reddit.com/r/Python/comments/zuaipl/how_to_make_a_ai_project_related_to_stock_market/)
-- [100% Free Udemy Certificate Courses - Master Python by Building Real-World Python Projects](https://www.reddit.com/r/Python/comments/zu8q94/100_free_udemy_certificate_courses_master_python/)
-- [What features of the Python language predestined it to be so accepted in data science, machine learning and artificial intelligence?](https://www.reddit.com/r/Python/comments/zu8azk/what_features_of_the_python_language_predestined/)
-- [How can I leverage ChatGPT to help me with learning to code / working?](https://www.reddit.com/r/Python/comments/zu7ycm/how_can_i_leverage_chatgpt_to_help_me_with/)
-- [Python Data Science December [Completed] - 24 Data Science Projects](https://www.reddit.com/r/Python/comments/zu7vqp/python_data_science_december_completed_24_data/)
+- [Random Mandalas Generator | Python for Prediction](https://www.reddit.com/r/Python/comments/zubru6/random_mandalas_generator_python_for_prediction/)
+- [Can any one suggest me any free cloud storage more than 50GB and it is safe.](https://www.reddit.com/r/Python/comments/zubimu/can_any_one_suggest_me_any_free_cloud_storage/)
+- [Advise what to code for a beginner in python](https://www.reddit.com/r/Python/comments/zubfte/advise_what_to_code_for_a_beginner_in_python/)
+- [Dead code pytest plug-in](https://www.reddit.com/r/Python/comments/zuaugs/dead_code_pytest_plugin/)
+- [How to program it by python?](https://www.reddit.com/r/Python/comments/zuaud5/how_to_program_it_by_python/)
 <!-- BLOG-POST-LIST:END -->
