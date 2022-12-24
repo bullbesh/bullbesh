@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [100% Free Udemy Certificate Courses - Master Python by Building Real-World Python Projects](https://www.reddit.com/r/Python/comments/zu8q94/100_free_udemy_certificate_courses_master_python/)
 - [What features of the Python language predestined it to be so accepted in data science, machine learning and artificial intelligence?](https://www.reddit.com/r/Python/comments/zu8azk/what_features_of_the_python_language_predestined/)
-- [100% Free Udemy Certificate Courses - Create Space Invaders with Python PyGame](https://www.reddit.com/r/Python/comments/zu88ew/100_free_udemy_certificate_courses_create_space/)
 - [How can I leverage ChatGPT to help me with learning to code / working?](https://www.reddit.com/r/Python/comments/zu7ycm/how_can_i_leverage_chatgpt_to_help_me_with/)
 - [Python Data Science December [Completed] - 24 Data Science Projects](https://www.reddit.com/r/Python/comments/zu7vqp/python_data_science_december_completed_24_data/)
+- [Working on a Procedural Survival Game using Python + Pygame](https://www.reddit.com/r/Python/comments/zu7ir5/working_on_a_procedural_survival_game_using/)
 <!-- BLOG-POST-LIST:END -->
