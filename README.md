@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need help with web scrapping. i wrote a code in python using beautiful soup that finds the student from a list of colleges. i didnt get any error but im also not getting any output. Any help would be appreciated.](https://www.reddit.com/r/Python/comments/zuyaju/need_help_with_web_scrapping_i_wrote_a_code_in/)
 - [How would you convince your friend to give coding a try if he thinks it’s difficult?](https://www.reddit.com/r/Python/comments/zuwwb7/how_would_you_convince_your_friend_to_give_coding/)
-- [Need help with web scrapping. i wrote a code in python using beautiful soup that finds the student from a list of colleges. i didnt get any error but im also not getting any output. Any help would be appreciated.](https://www.reddit.com/r/Python/comments/zuvve8/need_help_with_web_scrapping_i_wrote_a_code_in/)
 - [Convert YouTube to Text with OpenAI Whisper](https://www.reddit.com/r/Python/comments/zur8bn/convert_youtube_to_text_with_openai_whisper/)
 - [What is some niche/ quirky python code you know?](https://www.reddit.com/r/Python/comments/zupnod/what_is_some_niche_quirky_python_code_you_know/)
 - [LSTM time series Prediction](https://www.reddit.com/r/Python/comments/zupekh/lstm_time_series_prediction/)
