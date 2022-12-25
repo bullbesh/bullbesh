@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Working on a classic platformer game &quot;The Last Blade&quot; with Python and Pygame.](https://www.reddit.com/r/Python/comments/zv1o01/working_on_a_classic_platformer_game_the_last/)
 - [I Asked AI to Solve The Hardest Python Challenge on Codehub](https://www.reddit.com/r/Python/comments/zv13nm/i_asked_ai_to_solve_the_hardest_python_challenge/)
 - [Should we always use OOP?](https://www.reddit.com/r/Python/comments/zv082y/should_we_always_use_oop/)
 - [I know this isn&#39;t much, but I made Minesweeper using Python. Really proud how it turned out!](https://www.reddit.com/r/Python/comments/zuzx7r/i_know_this_isnt_much_but_i_made_minesweeper/)
 - [What is the future for Python?](https://www.reddit.com/r/Python/comments/zuzfpc/what_is_the_future_for_python/)
-- [Need help with web scrapping. i wrote a code in python using beautiful soup that finds the student from a list of colleges. i didnt get any error but im also not getting any output. Any help would be appreciated.](https://www.reddit.com/r/Python/comments/zuyaju/need_help_with_web_scrapping_i_wrote_a_code_in/)
 <!-- BLOG-POST-LIST:END -->
