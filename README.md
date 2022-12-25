@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Convert YouTube to Text with OpenAI Whisper](https://www.reddit.com/r/Python/comments/zur8bn/convert_youtube_to_text_with_openai_whisper/)
 - [What is some niche/ quirky python code you know?](https://www.reddit.com/r/Python/comments/zupnod/what_is_some_niche_quirky_python_code_you_know/)
-- [100% Free Udemy Certificate Courses - CSS, Bootstrap And JavaScript And Python Stack Course](https://www.reddit.com/r/Python/comments/zuplyb/100_free_udemy_certificate_courses_css_bootstrap/)
-- [Free Python Certificate Courses - Limited Slots](https://www.reddit.com/r/Python/comments/zuphmz/free_python_certificate_courses_limited_slots/)
 - [LSTM time series Prediction](https://www.reddit.com/r/Python/comments/zupekh/lstm_time_series_prediction/)
+- [flowdas-meta missing from PYPI, can&#39;t pip install launch ? Impossible ?](https://www.reddit.com/r/Python/comments/zuo3za/flowdasmeta_missing_from_pypi_cant_pip_install/)
+- [Take Your Python Skills to the Next Level with My New Book](https://www.reddit.com/r/Python/comments/zun13d/take_your_python_skills_to_the_next_level_with_my/)
 <!-- BLOG-POST-LIST:END -->
