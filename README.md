@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a JARVIS with Python &amp; Arduino using AI &amp; ML](https://www.reddit.com/r/Python/comments/zvloek/how_to_create_a_jarvis_with_python_arduino_using/)
+- [Is it possible to make a super-resolution image processing system?](https://www.reddit.com/r/Python/comments/zvlkcs/is_it_possible_to_make_a_superresolution_image/)
+- [Interesting article about DI in python](https://www.reddit.com/r/Python/comments/zvl87q/interesting_article_about_di_in_python/)
+- [$664 Worth of 15 Programming Books by O&#39;Reilly for $15 &lpar; -98% OFF&rpar;](https://www.reddit.com/r/Python/comments/zvl4ak/664_worth_of_15_programming_books_by_oreilly_for/)
 - [NoPy - An unofficial OOP interface for the Notion API.](https://www.reddit.com/r/Python/comments/zvk5cc/nopy_an_unofficial_oop_interface_for_the_notion/)
-- [Could you tell me which language is best for website development according to your point of view?](https://www.reddit.com/r/Python/comments/zvjwxp/could_you_tell_me_which_language_is_best_for/)
-- [I used Python to control a custom stop-motion animation drawing machine](https://www.reddit.com/r/Python/comments/zvjj2a/i_used_python_to_control_a_custom_stopmotion/)
-- [Comprehensive Python Cheatsheet](https://www.reddit.com/r/Python/comments/zvjfdy/comprehensive_python_cheatsheet/)
-- [Release: Fast Query Parsers](https://www.reddit.com/r/Python/comments/zvijpa/release_fast_query_parsers/)
 <!-- BLOG-POST-LIST:END -->
