@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [NoPy - An unofficial OOP interface for the Notion API.](https://www.reddit.com/r/Python/comments/zvk5cc/nopy_an_unofficial_oop_interface_for_the_notion/)
+- [Could you tell me which language is best for website development according to your point of view?](https://www.reddit.com/r/Python/comments/zvjwxp/could_you_tell_me_which_language_is_best_for/)
+- [I used Python to control a custom stop-motion animation drawing machine](https://www.reddit.com/r/Python/comments/zvjj2a/i_used_python_to_control_a_custom_stopmotion/)
 - [Comprehensive Python Cheatsheet](https://www.reddit.com/r/Python/comments/zvjfdy/comprehensive_python_cheatsheet/)
 - [Release: Fast Query Parsers](https://www.reddit.com/r/Python/comments/zvijpa/release_fast_query_parsers/)
-- [Can Someone post a Proper road-map to start learning Python](https://www.reddit.com/r/Python/comments/zvi0ov/can_someone_post_a_proper_roadmap_to_start/)
-- [I wrote a simplistic Python script for Windows that automatically adjusts monitor brightness and contrast based on the time of the day](https://www.reddit.com/r/Python/comments/zvhjek/i_wrote_a_simplistic_python_script_for_windows/)
-- [Does this thing work with more than 3 people on it? &lpar;made with PyQt5&rpar;](https://www.reddit.com/r/Python/comments/zve92t/does_this_thing_work_with_more_than_3_people_on/)
 <!-- BLOG-POST-LIST:END -->
