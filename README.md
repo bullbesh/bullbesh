@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Convolutional Neural Network for Reverse Engineering](https://www.reddit.com/r/Python/comments/zvn29m/implementing_convolutional_neural_network_for/)
 - [How to Create a JARVIS with Python &amp; Arduino using AI &amp; ML](https://www.reddit.com/r/Python/comments/zvloek/how_to_create_a_jarvis_with_python_arduino_using/)
 - [Is it possible to make a super-resolution image processing system?](https://www.reddit.com/r/Python/comments/zvlkcs/is_it_possible_to_make_a_superresolution_image/)
 - [Interesting article about DI in python](https://www.reddit.com/r/Python/comments/zvl87q/interesting_article_about_di_in_python/)
 - [NoPy - An unofficial OOP interface for the Notion API.](https://www.reddit.com/r/Python/comments/zvk5cc/nopy_an_unofficial_oop_interface_for_the_notion/)
-- [Could you tell me which language is best for website development according to your point of view?](https://www.reddit.com/r/Python/comments/zvjwxp/could_you_tell_me_which_language_is_best_for/)
 <!-- BLOG-POST-LIST:END -->
