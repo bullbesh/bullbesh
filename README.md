@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Jupyter Extension - beta testers needed!](https://www.reddit.com/r/Python/comments/zvtwa9/chatgpt_jupyter_extension_beta_testers_needed/)
+- [Why is Kivy not popular?](https://www.reddit.com/r/Python/comments/zvvt33/why_is_kivy_not_popular/)
+- [ChatGPT Jupyter Extension - code/error help, auto-format, and auto-complete](https://www.reddit.com/r/Python/comments/zvvdnm/chatgpt_jupyter_extension_codeerror_help/)
+- [Open Source Webhooks as a Service](https://www.reddit.com/r/Python/comments/zvuxrq/open_source_webhooks_as_a_service/)
+- [When did complex list comprehensions click for you?](https://www.reddit.com/r/Python/comments/zvuj1n/when_did_complex_list_comprehensions_click_for_you/)
 - [Example datasets retrieval](https://www.reddit.com/r/Python/comments/zvrlk7/example_datasets_retrieval/)
-- [8 ways to get current time with Python](https://www.reddit.com/r/Python/comments/zvr3jq/8_ways_to_get_current_time_with_python/)
-- [Pip Explore Dash Bootstrap Templates, styling dashboards, tips, tricks &amp; cheatsheet](https://www.reddit.com/r/Python/comments/zvqixi/pip_explore_dash_bootstrap_templates_styling/)
-- [Are you struggling with Python?](https://www.reddit.com/r/Python/comments/zvpx63/are_you_struggling_with_python/)
 <!-- BLOG-POST-LIST:END -->
