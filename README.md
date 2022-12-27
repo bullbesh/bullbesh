@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any good books?](https://www.reddit.com/r/Python/comments/zwpocb/any_good_books/)
+- [Video: Array data structures in Python - Array.array, bytes and bytes array objects](https://www.reddit.com/r/Python/comments/zwpn0j/video_array_data_structures_in_python_arrayarray/)
+- [Tensortrax: A python package for gradient and hessian evaluations &lpar;by forward-mode AD / hyper-dual numbers&rpar; of functions.](https://www.reddit.com/r/Python/comments/zwpevs/tensortrax_a_python_package_for_gradient_and/)
 - [Just a question](https://www.reddit.com/r/Python/comments/zwopy5/just_a_question/)
 - [pyRFtdi library to connect RFM75 radio modules to PC using FTDI](https://www.reddit.com/r/Python/comments/zwl9sc/pyrftdi_library_to_connect_rfm75_radio_modules_to/)
-- [Python Speech Recognition and Text to Speech Resources](https://www.reddit.com/r/Python/comments/zwiycg/python_speech_recognition_and_text_to_speech/)
-- [Memory usage and speed for one line is_prime functions](https://www.reddit.com/r/Python/comments/zwisbi/memory_usage_and_speed_for_one_line_is_prime/)
-- [Building a Geo Locatable Social Media Network with Python](https://www.reddit.com/r/Python/comments/zwi1aa/building_a_geo_locatable_social_media_network/)
 <!-- BLOG-POST-LIST:END -->
