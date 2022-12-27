@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Write Clean Code in Python](https://www.reddit.com/r/Python/comments/zwemo4/how_to_write_clean_code_in_python/)
 - [To type or not to type: A Measured Response](https://www.reddit.com/r/Python/comments/zwbtmm/to_type_or_not_to_type_a_measured_response/)
 - [Classification metrics can&#39;t handle a mix of binary and unknown targets?????how to solve this??](https://www.reddit.com/r/Python/comments/zw9xo3/classification_metrics_cant_handle_a_mix_of/)
 - [SQLAlchemy - Python Databases Beginner&#39;s Tutoiral - Building Simplified Social Media Backend](https://www.reddit.com/r/Python/comments/zw8wn5/sqlalchemy_python_databases_beginners_tutoiral/)
 - [I frequently get into the problem: Should I give a structure to my data-analysis or data-science project? The answer is always yes. I am sharing a small template that works very well for me. Hope it helps you too.](https://www.reddit.com/r/Python/comments/zw8sh7/i_frequently_get_into_the_problem_should_i_give_a/)
-- [I would like some impressive projects to learn API&#39;s](https://www.reddit.com/r/Python/comments/zw75nk/i_would_like_some_impressive_projects_to_learn/)
 <!-- BLOG-POST-LIST:END -->
