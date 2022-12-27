@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Master Python Lessons!](https://www.reddit.com/r/Python/comments/zw10wf/master_python_lessons/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/zw0x77/tuesday_daily_thread_advanced_questions/)
 - [Python - A Minecraft username utility to check names](https://www.reddit.com/r/Python/comments/zvz5c3/python_a_minecraft_username_utility_to_check_names/)
 - [The hand-picked selection of the best Python libraries and tools of 2022](https://www.reddit.com/r/Python/comments/zvxb2x/the_handpicked_selection_of_the_best_python/)
 - [Open and close your window blinds using Python and blind motor. Great for home automations!](https://www.reddit.com/r/Python/comments/zvx2su/open_and_close_your_window_blinds_using_python/)
-- [GitHub - davep/textual-astview: A Textual-based Python AST viewing widget library and application](https://www.reddit.com/r/Python/comments/zvwmb2/github_daveptextualastview_a_textualbased_python/)
-- [Why is Kivy not popular?](https://www.reddit.com/r/Python/comments/zvvt33/why_is_kivy_not_popular/)
 <!-- BLOG-POST-LIST:END -->
