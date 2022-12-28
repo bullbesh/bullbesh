@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Awesome python projects for beginners](https://www.reddit.com/r/Python/comments/zww2j2/awesome_python_projects_for_beginners/)
+- [How to run a chromedriver script 24/7?](https://www.reddit.com/r/Python/comments/zwvvu3/how_to_run_a_chromedriver_script_247/)
+- [secure my source code](https://www.reddit.com/r/Python/comments/zwv97u/secure_my_source_code/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/zwuhs2/wednesday_daily_thread_beginner_questions/)
 - [F1 22 Telemetry Parser](https://www.reddit.com/r/Python/comments/zwrbb8/f1_22_telemetry_parser/)
-- [Any good books?](https://www.reddit.com/r/Python/comments/zwpocb/any_good_books/)
-- [Video: Array data structures in Python - Array.array, bytes and bytes array objects](https://www.reddit.com/r/Python/comments/zwpn0j/video_array_data_structures_in_python_arrayarray/)
-- [Tensortrax: A python package for gradient and hessian evaluations &lpar;by forward-mode AD / hyper-dual numbers&rpar; of functions.](https://www.reddit.com/r/Python/comments/zwpevs/tensortrax_a_python_package_for_gradient_and/)
-- [Just a question](https://www.reddit.com/r/Python/comments/zwopy5/just_a_question/)
 <!-- BLOG-POST-LIST:END -->
