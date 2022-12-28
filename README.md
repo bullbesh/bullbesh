@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hey, I&#39;m a scientist and I&#39;ve just created my first song using only python.. I wanted someone to test it out for me under psychedelics influence!](https://www.reddit.com/r/Python/comments/zx6vv5/hey_im_a_scientist_and_ive_just_created_my_first/)
+- [Extending Python with Rust &lpar;via PyO3&rpar;](https://www.reddit.com/r/Python/comments/zx6bpl/extending_python_with_rust_via_pyo3/)
 - [Best IDE for iPad Pro?](https://www.reddit.com/r/Python/comments/zx608q/best_ide_for_ipad_pro/)
 - [Python Projects](https://www.reddit.com/r/Python/comments/zx4qci/python_projects/)
 - [Pipy proxy: Creating HTTP Tunnel with 10 lines of code](https://www.reddit.com/r/Python/comments/zx46mz/pipy_proxy_creating_http_tunnel_with_10_lines_of/)
-- [How To Write Clean Code in Python](https://www.reddit.com/r/Python/comments/zx3sl9/how_to_write_clean_code_in_python/)
-- [Explaining Logistic Regression as Generalized Linear Model &lpar;in use as a classifier&rpar;](https://www.reddit.com/r/Python/comments/zx3aiv/explaining_logistic_regression_as_generalized/)
 <!-- BLOG-POST-LIST:END -->
