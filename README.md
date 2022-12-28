@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I did a thing](https://www.reddit.com/r/Python/comments/zwwlzi/i_did_a_thing/)
 - [Awesome python projects for beginners](https://www.reddit.com/r/Python/comments/zww2j2/awesome_python_projects_for_beginners/)
 - [How to run a chromedriver script 24/7?](https://www.reddit.com/r/Python/comments/zwvvu3/how_to_run_a_chromedriver_script_247/)
 - [secure my source code](https://www.reddit.com/r/Python/comments/zwv97u/secure_my_source_code/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/zwuhs2/wednesday_daily_thread_beginner_questions/)
-- [F1 22 Telemetry Parser](https://www.reddit.com/r/Python/comments/zwrbb8/f1_22_telemetry_parser/)
 <!-- BLOG-POST-LIST:END -->
