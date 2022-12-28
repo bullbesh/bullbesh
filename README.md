@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [hello , I&#39;m a begginer and I want to learn data science what could be the roadmap for this field ? recommendations?](https://www.reddit.com/r/Python/comments/zx1rdl/hello_im_a_begginer_and_i_want_to_learn_data/)
 - [Free Lessons&lpar;For me&rpar;](https://www.reddit.com/r/Python/comments/zx0zrc/free_lessonsfor_me/)
 - [Audio Reactive Animation using Stable Diffusion](https://www.reddit.com/r/Python/comments/zx0f6z/audio_reactive_animation_using_stable_diffusion/)
 - [unpopular opinion](https://www.reddit.com/r/Python/comments/zwzulk/unpopular_opinion/)
 - [Options for local database storage?](https://www.reddit.com/r/Python/comments/zwy8qv/options_for_local_database_storage/)
-- [I did a thing](https://www.reddit.com/r/Python/comments/zwwlzi/i_did_a_thing/)
 <!-- BLOG-POST-LIST:END -->
