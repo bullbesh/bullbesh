@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [2D Lighting Engine](https://www.reddit.com/r/Python/comments/zxcof5/2d_lighting_engine/)
 - [Tries with frequencies | Python for Prediction](https://www.reddit.com/r/Python/comments/zxb8bg/tries_with_frequencies_python_for_prediction/)
 - [1=0](https://www.reddit.com/r/Python/comments/zxb194/10/)
 - [I personally found these very useful when I first got into data science :&rpar;](https://www.reddit.com/r/Python/comments/zx7pkd/i_personally_found_these_very_useful_when_i_first/)
 - [Python Uninstalled but still shows up in Remove apps list](https://www.reddit.com/r/Python/comments/zx73px/python_uninstalled_but_still_shows_up_in_remove/)
-- [Hey, I&#39;m a scientist and I&#39;ve just created my first song using only python.. I wanted someone to test it out for me under psychedelics influence!](https://www.reddit.com/r/Python/comments/zx6vv5/hey_im_a_scientist_and_ive_just_created_my_first/)
 <!-- BLOG-POST-LIST:END -->
