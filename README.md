@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [100% Off Udemy Course - The Complete Automation PyTest Course for 2022](https://www.reddit.com/r/Python/comments/zx2ypo/100_off_udemy_course_the_complete_automation/)
+- [Python Courses](https://www.reddit.com/r/Python/comments/zx2dts/python_courses/)
 - [hello , I&#39;m a begginer and I want to learn data science what could be the roadmap for this field ? recommendations?](https://www.reddit.com/r/Python/comments/zx1rdl/hello_im_a_begginer_and_i_want_to_learn_data/)
 - [Free Lessons&lpar;For me&rpar;](https://www.reddit.com/r/Python/comments/zx0zrc/free_lessonsfor_me/)
 - [Audio Reactive Animation using Stable Diffusion](https://www.reddit.com/r/Python/comments/zx0f6z/audio_reactive_animation_using_stable_diffusion/)
-- [unpopular opinion](https://www.reddit.com/r/Python/comments/zwzulk/unpopular_opinion/)
-- [Options for local database storage?](https://www.reddit.com/r/Python/comments/zwy8qv/options_for_local_database_storage/)
 <!-- BLOG-POST-LIST:END -->
