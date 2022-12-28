@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Would you suggest web development to someone willing to self study? Why and why not?](https://www.reddit.com/r/Python/comments/zxgrdg/would_you_suggest_web_development_to_someone/)
+- [faketyper](https://www.reddit.com/r/Python/comments/zxg329/faketyper/)
+- [Cool python modable games](https://www.reddit.com/r/Python/comments/zxfq3z/cool_python_modable_games/)
+- [Learn How To Monitor your Mac’s battery life with Python](https://www.reddit.com/r/Python/comments/zxfpsa/learn_how_to_monitor_your_macs_battery_life_with/)
 - [Bro, listen: Interact with OpenAI using voice](https://www.reddit.com/r/Python/comments/zxf1ni/bro_listen_interact_with_openai_using_voice/)
-- [CodeSquire: what are your thoughts?](https://www.reddit.com/r/Python/comments/zxelhy/codesquire_what_are_your_thoughts/)
-- [What was your most fun/clever personal script?](https://www.reddit.com/r/Python/comments/zxebe2/what_was_your_most_funclever_personal_script/)
-- [JS Tooling and Python backend in same project](https://www.reddit.com/r/Python/comments/zxe0nu/js_tooling_and_python_backend_in_same_project/)
-- [2D Lighting Engine](https://www.reddit.com/r/Python/comments/zxcof5/2d_lighting_engine/)
 <!-- BLOG-POST-LIST:END -->
