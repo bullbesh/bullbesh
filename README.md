@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Projects](https://www.reddit.com/r/Python/comments/zx4qci/python_projects/)
 - [Pipy proxy: Creating HTTP Tunnel with 10 lines of code](https://www.reddit.com/r/Python/comments/zx46mz/pipy_proxy_creating_http_tunnel_with_10_lines_of/)
 - [How To Write Clean Code in Python](https://www.reddit.com/r/Python/comments/zx3sl9/how_to_write_clean_code_in_python/)
 - [Explaining Logistic Regression as Generalized Linear Model &lpar;in use as a classifier&rpar;](https://www.reddit.com/r/Python/comments/zx3aiv/explaining_logistic_regression_as_generalized/)
 - [hello , I&#39;m a begginer and I want to learn data science what could be the roadmap for this field ? recommendations?](https://www.reddit.com/r/Python/comments/zx1rdl/hello_im_a_begginer_and_i_want_to_learn_data/)
-- [Free Lessons&lpar;For me&rpar;](https://www.reddit.com/r/Python/comments/zx0zrc/free_lessonsfor_me/)
 <!-- BLOG-POST-LIST:END -->
