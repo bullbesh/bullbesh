@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [100% Off Udemy Course - The Complete Automation PyTest Course for 2022](https://www.reddit.com/r/Python/comments/zx2ypo/100_off_udemy_course_the_complete_automation/)
-- [Python Courses](https://www.reddit.com/r/Python/comments/zx2dts/python_courses/)
+- [Pipy proxy: Creating HTTP Tunnel with 10 lines of code](https://www.reddit.com/r/Python/comments/zx46mz/pipy_proxy_creating_http_tunnel_with_10_lines_of/)
+- [How To Write Clean Code in Python](https://www.reddit.com/r/Python/comments/zx3sl9/how_to_write_clean_code_in_python/)
+- [Explaining Logistic Regression as Generalized Linear Model &lpar;in use as a classifier&rpar;](https://www.reddit.com/r/Python/comments/zx3aiv/explaining_logistic_regression_as_generalized/)
 - [hello , I&#39;m a begginer and I want to learn data science what could be the roadmap for this field ? recommendations?](https://www.reddit.com/r/Python/comments/zx1rdl/hello_im_a_begginer_and_i_want_to_learn_data/)
 - [Free Lessons&lpar;For me&rpar;](https://www.reddit.com/r/Python/comments/zx0zrc/free_lessonsfor_me/)
-- [Audio Reactive Animation using Stable Diffusion](https://www.reddit.com/r/Python/comments/zx0f6z/audio_reactive_animation_using_stable_diffusion/)
 <!-- BLOG-POST-LIST:END -->
