@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trouble with the function split&lpar;&rpar;](https://www.reddit.com/r/Python/comments/zy4vxo/trouble_with_the_function_split/)
+- [ive created a test in python](https://www.reddit.com/r/Python/comments/zy4pyd/ive_created_a_test_in_python/)
+- [[selenium] How to find span in found element in selenium python](https://www.reddit.com/r/Python/comments/zy4fyc/selenium_how_to_find_span_in_found_element_in/)
 - [Running Community Detection With Memgraph and Python NetworkX](https://www.reddit.com/r/Python/comments/zy17gx/running_community_detection_with_memgraph_and/)
 - [Building a Packet-Sniffing Tool With Python](https://www.reddit.com/r/Python/comments/zy13by/building_a_packetsniffing_tool_with_python/)
-- [Code translator {java to python} and {golang to python} online](https://www.reddit.com/r/Python/comments/zy0riw/code_translator_java_to_python_and_golang_to/)
-- [Elixir guards in Python &lpar;predicate dispatch in Python&rpar;](https://www.reddit.com/r/Python/comments/zy06id/elixir_guards_in_python_predicate_dispatch_in/)
-- [RQ-Scheduler for tasks in far future?](https://www.reddit.com/r/Python/comments/zxz9xg/rqscheduler_for_tasks_in_far_future/)
 <!-- BLOG-POST-LIST:END -->
