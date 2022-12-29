@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/zxpgoc/thursday_daily_thread_python_careers_courses_and/)
+- [What Python script could you not live without?](https://www.reddit.com/r/Python/comments/zxpf64/what_python_script_could_you_not_live_without/)
 - [Hikaru 0.12.0b released](https://www.reddit.com/r/Python/comments/zxo6q0/hikaru_0120b_released/)
 - [FunUnit: a functional, declarative, unit-testing library for testing pure functions](https://www.reddit.com/r/Python/comments/zxn6b1/fununit_a_functional_declarative_unittesting/)
 - [WebSocket anywhere!](https://www.reddit.com/r/Python/comments/zxm7vl/websocket_anywhere/)
-- [Best Executable Packaging tool that supports PyTorch?](https://www.reddit.com/r/Python/comments/zxkcyv/best_executable_packaging_tool_that_supports/)
-- [where to host my api?](https://www.reddit.com/r/Python/comments/zxigfe/where_to_host_my_api/)
 <!-- BLOG-POST-LIST:END -->
