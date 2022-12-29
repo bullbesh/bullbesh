@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Community Detection With Memgraph and Python NetworkX](https://www.reddit.com/r/Python/comments/zy17gx/running_community_detection_with_memgraph_and/)
+- [Building a Packet-Sniffing Tool With Python](https://www.reddit.com/r/Python/comments/zy13by/building_a_packetsniffing_tool_with_python/)
 - [Code translator {java to python} and {golang to python} online](https://www.reddit.com/r/Python/comments/zy0riw/code_translator_java_to_python_and_golang_to/)
 - [Elixir guards in Python &lpar;predicate dispatch in Python&rpar;](https://www.reddit.com/r/Python/comments/zy06id/elixir_guards_in_python_predicate_dispatch_in/)
 - [RQ-Scheduler for tasks in far future?](https://www.reddit.com/r/Python/comments/zxz9xg/rqscheduler_for_tasks_in_far_future/)
-- [GitHub - lucidrains/PaLM-rlhf-pytorch: Implementation of RLHF &lpar;Reinforcement Learning with Human Feedback&rpar; on top of the PaLM architecture. Basically ChatGPT but with PaLM](https://www.reddit.com/r/Python/comments/zxy4hn/github_lucidrainspalmrlhfpytorch_implementation/)
-- [Snscrape](https://www.reddit.com/r/Python/comments/zxxcec/snscrape/)
 <!-- BLOG-POST-LIST:END -->
