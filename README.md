@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [RQ-Scheduler for tasks in far future?](https://www.reddit.com/r/Python/comments/zxz9xg/rqscheduler_for_tasks_in_far_future/)
 - [GitHub - lucidrains/PaLM-rlhf-pytorch: Implementation of RLHF &lpar;Reinforcement Learning with Human Feedback&rpar; on top of the PaLM architecture. Basically ChatGPT but with PaLM](https://www.reddit.com/r/Python/comments/zxy4hn/github_lucidrainspalmrlhfpytorch_implementation/)
 - [Snscrape](https://www.reddit.com/r/Python/comments/zxxcec/snscrape/)
 - [Stock tracker program](https://www.reddit.com/r/Python/comments/zxvnlb/stock_tracker_program/)
 - [I have a random generator to meme maker](https://www.reddit.com/r/Python/comments/zxsd75/i_have_a_random_generator_to_meme_maker/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/zxpgoc/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
