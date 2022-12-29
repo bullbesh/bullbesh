@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is SQL a prerequisite to learning Python ?](https://www.reddit.com/r/Python/comments/zyf0ng/is_sql_a_prerequisite_to_learning_python/)
 - [Organizing Your Downloads Directory with Python](https://www.reddit.com/r/Python/comments/zyc5fk/organizing_your_downloads_directory_with_python/)
 - [I made a subreddit specifically for pandas!](https://www.reddit.com/r/Python/comments/zybjx8/i_made_a_subreddit_specifically_for_pandas/)
 - [Quote2Image : A python module to convert text quotes into graphical images](https://www.reddit.com/r/Python/comments/zy9kkm/quote2image_a_python_module_to_convert_text/)
 - [How to learn Python in a funny way?](https://www.reddit.com/r/Python/comments/zy8x4u/how_to_learn_python_in_a_funny_way/)
-- [Fireworks-Animated Ascii Art - Happy New Year!](https://www.reddit.com/r/Python/comments/zy8vty/fireworksanimated_ascii_art_happy_new_year/)
 <!-- BLOG-POST-LIST:END -->
