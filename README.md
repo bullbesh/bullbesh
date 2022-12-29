@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to learn Python in a funny way?](https://www.reddit.com/r/Python/comments/zy8x4u/how_to_learn_python_in_a_funny_way/)
+- [Fireworks-Animated Ascii Art - Happy New Year!](https://www.reddit.com/r/Python/comments/zy8vty/fireworksanimated_ascii_art_happy_new_year/)
+- [Python SaaS product](https://www.reddit.com/r/Python/comments/zy8d56/python_saas_product/)
+- [ChatGPT understands what &quot;pythonic&quot; is, and can apply it to code examples](https://www.reddit.com/r/Python/comments/zy7wy9/chatgpt_understands_what_pythonic_is_and_can/)
 - [python-testing: Exercises to learn best practice of writing tests in Python](https://www.reddit.com/r/Python/comments/zy7fyh/pythontesting_exercises_to_learn_best_practice_of/)
-- [Full-length tutorial on adding automated CI &lpar;continuous integration&rpar; to your Python projects with GitHub Actions](https://www.reddit.com/r/Python/comments/zy65qa/fulllength_tutorial_on_adding_automated_ci/)
-- [Trouble with the function split&lpar;&rpar;](https://www.reddit.com/r/Python/comments/zy4vxo/trouble_with_the_function_split/)
-- [ive created a test in python](https://www.reddit.com/r/Python/comments/zy4pyd/ive_created_a_test_in_python/)
-- [[selenium] How to find span in found element in selenium python](https://www.reddit.com/r/Python/comments/zy4fyc/selenium_how_to_find_span_in_found_element_in/)
 <!-- BLOG-POST-LIST:END -->
