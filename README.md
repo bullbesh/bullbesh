@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate with Python?](https://www.reddit.com/r/Python/comments/zygdo9/automate_with_python/)
+- [GPT3/DALL-E2 Discord bot, chat like ChatGPT with infinitely long conversations! Generate, edit, and vary images, optimize image prompts, long term memory, and much more! Awesome as a pair programming buddy!](https://www.reddit.com/r/Python/comments/zyfu9x/gpt3dalle2_discord_bot_chat_like_chatgpt_with/)
 - [Is SQL a prerequisite to learning Python ?](https://www.reddit.com/r/Python/comments/zyf0ng/is_sql_a_prerequisite_to_learning_python/)
 - [Organizing Your Downloads Directory with Python](https://www.reddit.com/r/Python/comments/zyc5fk/organizing_your_downloads_directory_with_python/)
 - [I made a subreddit specifically for pandas!](https://www.reddit.com/r/Python/comments/zybjx8/i_made_a_subreddit_specifically_for_pandas/)
-- [Quote2Image : A python module to convert text quotes into graphical images](https://www.reddit.com/r/Python/comments/zy9kkm/quote2image_a_python_module_to_convert_text/)
-- [How to learn Python in a funny way?](https://www.reddit.com/r/Python/comments/zy8x4u/how_to_learn_python_in_a_funny_way/)
 <!-- BLOG-POST-LIST:END -->
