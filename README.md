@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Collection of my tkinter programs..](https://www.reddit.com/r/Python/comments/zz3rr1/collection_of_my_tkinter_programs/)
 - [I learnt all the basics about python and had interest in learning about &quot;AI development with python&quot;. and now I&#39;m stuck cuz I don&#39;t know where to start. Can anyone give some advice to me ?](https://www.reddit.com/r/Python/comments/zz1h3i/i_learnt_all_the_basics_about_python_and_had/)
 - [A better asyncio sleep for Windows to fix animation](https://www.reddit.com/r/Python/comments/zz0oqe/a_better_asyncio_sleep_for_windows_to_fix/)
 - [OpenAI just rick rolled me...](https://www.reddit.com/r/Python/comments/zyyv9z/openai_just_rick_rolled_me/)
 - [Python script that scrapes the People also ask section from Google in the niche you want and publishes it to a WP website.](https://www.reddit.com/r/Python/comments/zyv8ma/python_script_that_scrapes_the_people_also_ask/)
-- [What&#39;s the ideal process for pushing a poetry python project to GitHub then PyPI for distribution?](https://www.reddit.com/r/Python/comments/zynmjj/whats_the_ideal_process_for_pushing_a_poetry/)
 <!-- BLOG-POST-LIST:END -->
