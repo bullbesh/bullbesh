@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [An Opinionated Python Setup Guide for Mac](https://www.reddit.com/r/Python/comments/zz8gxq/an_opinionated_python_setup_guide_for_mac/)
+- [GitHub Actions CI/CD Full Course using Python, Docker DevOps Tutorial](https://www.reddit.com/r/Python/comments/zz8eod/github_actions_cicd_full_course_using_python/)
+- [Any good open source python projects that have used GRPC?](https://www.reddit.com/r/Python/comments/zz898s/any_good_open_source_python_projects_that_have/)
+- [Shed Skin &quot;Python &lpar;restricted&rpar; to C++&quot; transpiler gains partial python3 support](https://www.reddit.com/r/Python/comments/zz87pm/shed_skin_python_restricted_to_c_transpiler_gains/)
 - [Guiding python programming for beginners!](https://www.reddit.com/r/Python/comments/zz5ssk/guiding_python_programming_for_beginners/)
-- [NREPL Python: Python server implementation of the nRepl Protocol](https://www.reddit.com/r/Python/comments/zz5b3h/nrepl_python_python_server_implementation_of_the/)
-- [Integrate PostgreSQL Database In Python - A Hands-On Guide](https://www.reddit.com/r/Python/comments/zz59kk/integrate_postgresql_database_in_python_a_handson/)
-- [Collection of my tkinter programs..](https://www.reddit.com/r/Python/comments/zz3rr1/collection_of_my_tkinter_programs/)
-- [I learnt all the basics about python and had interest in learning about &quot;AI development with python&quot;. and now I&#39;m stuck cuz I don&#39;t know where to start. Can anyone give some advice to me ?](https://www.reddit.com/r/Python/comments/zz1h3i/i_learnt_all_the_basics_about_python_and_had/)
 <!-- BLOG-POST-LIST:END -->
