@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python script that scrapes the People also ask section from Google in the niche you want and publishes it to a WP website.](https://www.reddit.com/r/Python/comments/zyv8ma/python_script_that_scrapes_the_people_also_ask/)
 - [Compare 2 lists of dicts](https://www.reddit.com/r/Python/comments/zysvrc/compare_2_lists_of_dicts/)
 - [What&#39;s the ideal process for pushing a poetry python project to GitHub then PyPI for distribution?](https://www.reddit.com/r/Python/comments/zynmjj/whats_the_ideal_process_for_pushing_a_poetry/)
 - [Hi, Is there a subreddit where people share cool python library they found?](https://www.reddit.com/r/Python/comments/zymjrm/hi_is_there_a_subreddit_where_people_share_cool/)
 - [After three months of work I finally completed my first finished real Python game!](https://www.reddit.com/r/Python/comments/zyku6n/after_three_months_of_work_i_finally_completed_my/)
-- [Find average of a word](https://www.reddit.com/r/Python/comments/zyj4xf/find_average_of_a_word/)
 <!-- BLOG-POST-LIST:END -->
