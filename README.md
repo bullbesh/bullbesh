@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python script to USB drive to Google photos backup without using a computer. Is possible?. Using only router usb port or maybe a raspberry pi &lpar;worst case&rpar;](https://www.reddit.com/r/Python/comments/zzbm2i/python_script_to_usb_drive_to_google_photos/)
+- [I wanted to try to send emails from my Gmail with Python but..had they stopped support for that? I think a person used to do it, but, I am not sure.](https://www.reddit.com/r/Python/comments/zzayou/i_wanted_to_try_to_send_emails_from_my_gmail_with/)
+- [Python package to create a desktop app with CRUD and dashboard?](https://www.reddit.com/r/Python/comments/zzalz3/python_package_to_create_a_desktop_app_with_crud/)
 - [I am in need of some help with python ! Can anyone here lend me a hand! I am 22 years old &amp; just had my first baby, so I am trying to get into a better career been taking a few hours a day to understand but I’m getting backed up from my other projects 🥲please help! 🥹](https://www.reddit.com/r/Python/comments/zz8ryp/i_am_in_need_of_some_help_with_python_can_anyone/)
 - [An Opinionated Python Setup Guide for Mac](https://www.reddit.com/r/Python/comments/zz8gxq/an_opinionated_python_setup_guide_for_mac/)
-- [GitHub Actions CI/CD Full Course using Python, Docker DevOps Tutorial](https://www.reddit.com/r/Python/comments/zz8eod/github_actions_cicd_full_course_using_python/)
-- [Any good open source python projects that have used GRPC?](https://www.reddit.com/r/Python/comments/zz898s/any_good_open_source_python_projects_that_have/)
-- [Shed Skin &quot;Python &lpar;restricted&rpar; to C++&quot; transpiler gains partial python3 support](https://www.reddit.com/r/Python/comments/zz87pm/shed_skin_python_restricted_to_c_transpiler_gains/)
 <!-- BLOG-POST-LIST:END -->
