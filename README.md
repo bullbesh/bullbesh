@@ -12,5 +12,5 @@
 - [A better asyncio sleep for Windows to fix animation](https://www.reddit.com/r/Python/comments/zz0oqe/a_better_asyncio_sleep_for_windows_to_fix/)
 - [OpenAI just rick rolled me...](https://www.reddit.com/r/Python/comments/zyyv9z/openai_just_rick_rolled_me/)
 - [Python script that scrapes the People also ask section from Google in the niche you want and publishes it to a WP website.](https://www.reddit.com/r/Python/comments/zyv8ma/python_script_that_scrapes_the_people_also_ask/)
-- [Compare 2 lists of dicts](https://www.reddit.com/r/Python/comments/zysvrc/compare_2_lists_of_dicts/)
+- [What&#39;s the ideal process for pushing a poetry python project to GitHub then PyPI for distribution?](https://www.reddit.com/r/Python/comments/zynmjj/whats_the_ideal_process_for_pushing_a_poetry/)
 <!-- BLOG-POST-LIST:END -->
