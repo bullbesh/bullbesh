@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python library for the Svix API and verifying webhook signatures](https://www.reddit.com/r/Python/comments/10052uu/python_library_for_the_svix_api_and_verifying/)
 - [30 Cool, Easy &amp; Fun Python Projects with Source Code](https://www.reddit.com/r/Python/comments/1002u44/30_cool_easy_fun_python_projects_with_source_code/)
 - [Eel Python?](https://www.reddit.com/r/Python/comments/10021de/eel_python/)
 - [Video about projects that I made in 2022 using Pygame](https://www.reddit.com/r/Python/comments/zzzhzv/video_about_projects_that_i_made_in_2022_using/)
 - [Don’t Use This Syntax To Access A Dictionary Value In Python](https://www.reddit.com/r/Python/comments/zzxdoi/dont_use_this_syntax_to_access_a_dictionary_value/)
-- [Polars: The Next Big Python Data Science Library... written in RUST?](https://www.reddit.com/r/Python/comments/zzw1ov/polars_the_next_big_python_data_science_library/)
 <!-- BLOG-POST-LIST:END -->
