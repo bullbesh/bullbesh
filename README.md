@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [$1,064 Worth of 21 Programming Books by Packt for $15 &lpar; -98% OFF&rpar;](https://www.reddit.com/r/Python/comments/zznc19/1064_worth_of_21_programming_books_by_packt_for/)
+- [I created a BeautifulSoup4 webscraper to quickly get pip commands for packages listed on pypi.org](https://www.reddit.com/r/Python/comments/zzn11b/i_created_a_beautifulsoup4_webscraper_to_quickly/)
+- [LOOKIN FOR A JOB](https://www.reddit.com/r/Python/comments/zzmvx9/lookin_for_a_job/)
+- [Data Harvesting and NLP using Python](https://www.reddit.com/r/Python/comments/zzm96i/data_harvesting_and_nlp_using_python/)
 - [Python-HDWallet v2.2.1 - Added new more #Flux &lpar;FLUX&rpar; &amp; #Ycash &lpar;YEC&rpar; cryptocurrencies.](https://www.reddit.com/r/Python/comments/zzl8kc/pythonhdwallet_v221_added_new_more_flux_flux/)
-- [Mandown - Comic downloader and CBZ/EPUB/PDF converter for ereaders](https://www.reddit.com/r/Python/comments/zzl6n7/mandown_comic_downloader_and_cbzepubpdf_converter/)
-- [Seeking Help for Python Homework](https://www.reddit.com/r/Python/comments/zzl2r9/seeking_help_for_python_homework/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/zzfo96/saturday_daily_thread_resource_request_and/)
-- [Natural Language Processing Demystified](https://www.reddit.com/r/Python/comments/zzekmn/natural_language_processing_demystified/)
 <!-- BLOG-POST-LIST:END -->
