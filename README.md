@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mandown - Comic downloader and CBZ/EPUB/PDF converter for ereaders](https://www.reddit.com/r/Python/comments/zzl6n7/mandown_comic_downloader_and_cbzepubpdf_converter/)
+- [Seeking Help for Python Homework](https://www.reddit.com/r/Python/comments/zzl2r9/seeking_help_for_python_homework/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/zzfo96/saturday_daily_thread_resource_request_and/)
 - [Natural Language Processing Demystified](https://www.reddit.com/r/Python/comments/zzekmn/natural_language_processing_demystified/)
 - [How Secure is SMTP over SSL](https://www.reddit.com/r/Python/comments/zze6tb/how_secure_is_smtp_over_ssl/)
-- [Made my first Git commit today](https://www.reddit.com/r/Python/comments/zzdxy0/made_my_first_git_commit_today/)
-- [Python script to USB drive to Google photos backup without using a computer. Is possible?. Using only router usb port or maybe a raspberry pi &lpar;worst case&rpar;](https://www.reddit.com/r/Python/comments/zzbm2i/python_script_to_usb_drive_to_google_photos/)
 <!-- BLOG-POST-LIST:END -->
