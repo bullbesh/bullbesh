@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Don’t Use This Syntax To Access A Dictionary Value In Python](https://www.reddit.com/r/Python/comments/zzxdoi/dont_use_this_syntax_to_access_a_dictionary_value/)
 - [Polars: The Next Big Python Data Science Library... written in RUST?](https://www.reddit.com/r/Python/comments/zzw1ov/polars_the_next_big_python_data_science_library/)
 - [1 year ago I started building Practice Probs - a site with 138 programming practice problems primarily focused on Python for data science](https://www.reddit.com/r/Python/comments/zzv4zt/1_year_ago_i_started_building_practice_probs_a/)
 - [Bringing back Blobby with PyScript](https://www.reddit.com/r/Python/comments/zzv2d4/bringing_back_blobby_with_pyscript/)
 - [Security Log Generator](https://www.reddit.com/r/Python/comments/zzurys/security_log_generator/)
-- [Top 12 Fascinating Python Applications in Real-World [2023] | upGrad blog](https://www.reddit.com/r/Python/comments/zzubtk/top_12_fascinating_python_applications_in/)
 <!-- BLOG-POST-LIST:END -->
