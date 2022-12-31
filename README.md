@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Security Log Generator](https://www.reddit.com/r/Python/comments/zzurys/security_log_generator/)
+- [Top 12 Fascinating Python Applications in Real-World [2023] | upGrad blog](https://www.reddit.com/r/Python/comments/zzubtk/top_12_fascinating_python_applications_in/)
 - [can some give me feedback on my python script](https://www.reddit.com/r/Python/comments/zzthss/can_some_give_me_feedback_on_my_python_script/)
 - [pythontutor](https://www.reddit.com/r/Python/comments/zztgnv/pythontutor/)
 - [I created a python library called TBLIB](https://www.reddit.com/r/Python/comments/zzswyb/i_created_a_python_library_called_tblib/)
-- [Debugging a Python project with VSCode and Docker](https://www.reddit.com/r/Python/comments/zzrmu6/debugging_a_python_project_with_vscode_and_docker/)
-- [Is it possible to do this with Python ?](https://www.reddit.com/r/Python/comments/zzqdg1/is_it_possible_to_do_this_with_python/)
 <!-- BLOG-POST-LIST:END -->
