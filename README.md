@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Shed Skin restricted-Python-to-C++ compiler ported to Python 3](https://www.reddit.com/r/Python/comments/100ikia/shed_skin_restrictedpythontoc_compiler_ported_to/)
 - [Tkinter-Designer has reached over 5K stars today 🚀](https://www.reddit.com/r/Python/comments/100ckfr/tkinterdesigner_has_reached_over_5k_stars_today/)
 - [Work in Biotech. Can python and sql do this?](https://www.reddit.com/r/Python/comments/100b56q/work_in_biotech_can_python_and_sql_do_this/)
 - [Happy New Year!](https://www.reddit.com/r/Python/comments/100auvr/happy_new_year/)
 - [Compromised PyTorch-nightly dependency chain between December 25th and December 30th, 2022](https://www.reddit.com/r/Python/comments/100afke/compromised_pytorchnightly_dependency_chain/)
-- [hey all! I&#39;d love some feedback on a beginner project of mine. 14 days in!](https://www.reddit.com/r/Python/comments/100abad/hey_all_id_love_some_feedback_on_a_beginner/)
 <!-- BLOG-POST-LIST:END -->
