@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What I learned &lpar;about Python&rpar; through Advent of Code 2022](https://www.reddit.com/r/Python/comments/100skek/what_i_learned_about_python_through_advent_of/)
+- [Extend Commitizen Conventional-Commits implementation](https://www.reddit.com/r/Python/comments/100se2u/extend_commitizen_conventionalcommits/)
 - [Solving Mastermind with Genetic Algorithms](https://www.reddit.com/r/Python/comments/100r8fl/solving_mastermind_with_genetic_algorithms/)
 - [Unexpected interaction between some functools cache decorators, and methods on dataclasses](https://www.reddit.com/r/Python/comments/100r3qx/unexpected_interaction_between_some_functools/)
 - [A project I created](https://www.reddit.com/r/Python/comments/100qjma/a_project_i_created/)
-- [How to authenticate requests with Quart, and Quart-Auth.](https://www.reddit.com/r/Python/comments/100pvu9/how_to_authenticate_requests_with_quart_and/)
-- [Chemics v23.1 is now available](https://www.reddit.com/r/Python/comments/100psxw/chemics_v231_is_now_available/)
 <!-- BLOG-POST-LIST:END -->
