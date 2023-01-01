@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving Mastermind with Genetic Algorithms](https://www.reddit.com/r/Python/comments/100r8fl/solving_mastermind_with_genetic_algorithms/)
+- [Unexpected interaction between some functools cache decorators, and methods on dataclasses](https://www.reddit.com/r/Python/comments/100r3qx/unexpected_interaction_between_some_functools/)
 - [A project I created](https://www.reddit.com/r/Python/comments/100qjma/a_project_i_created/)
 - [How to authenticate requests with Quart, and Quart-Auth.](https://www.reddit.com/r/Python/comments/100pvu9/how_to_authenticate_requests_with_quart_and/)
 - [Chemics v23.1 is now available](https://www.reddit.com/r/Python/comments/100psxw/chemics_v231_is_now_available/)
-- [Awesome-Starlite : Growing list of awesome projects and libraries based on Starlite web framework.](https://www.reddit.com/r/Python/comments/100pn50/awesomestarlite_growing_list_of_awesome_projects/)
-- [run script in repl for prototyping](https://www.reddit.com/r/Python/comments/100mxc0/run_script_in_repl_for_prototyping/)
 <!-- BLOG-POST-LIST:END -->
