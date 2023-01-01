@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Pyenchant --- What are en_DK , en_BS, en_TT, en_NG ? ------- [‘en_BW’, ‘en_AU’, ‘en_BZ’, ‘en_GB’, ‘en_JM’, ‘en_DK’, ‘en_HK’, ‘en_GH’, ‘en_US’, ‘en_ZA’, ‘en_ZW’, ‘en_SG’, ‘en_NZ’, ‘en_BS’, ‘en_AG’, ‘en_PH’, ‘en_IE’, ‘en_NA’, ‘en_TT’, ‘en_IN’, ‘en_NG’, ‘en_CA’]](https://www.reddit.com/r/Python/comments/100pejd/pyenchant_what_are_en_dk_en_bs_en_tt_en_ng_en_bw/)
-- [This video will tell you its current total views.](https://www.reddit.com/r/Python/comments/100or03/this_video_will_tell_you_its_current_total_views/)
+- [A project I created](https://www.reddit.com/r/Python/comments/100qjma/a_project_i_created/)
+- [How to authenticate requests with Quart, and Quart-Auth.](https://www.reddit.com/r/Python/comments/100pvu9/how_to_authenticate_requests_with_quart_and/)
+- [Chemics v23.1 is now available](https://www.reddit.com/r/Python/comments/100psxw/chemics_v231_is_now_available/)
+- [Awesome-Starlite : Growing list of awesome projects and libraries based on Starlite web framework.](https://www.reddit.com/r/Python/comments/100pn50/awesomestarlite_growing_list_of_awesome_projects/)
 - [run script in repl for prototyping](https://www.reddit.com/r/Python/comments/100mxc0/run_script_in_repl_for_prototyping/)
-- [Beginning on Wednesday, each Wednesday. Recommendations on courses?](https://www.reddit.com/r/Python/comments/100mvce/beginning_on_wednesday_each_wednesday/)
-- [Shed Skin restricted-Python-to-C++ compiler ported to Python 3](https://www.reddit.com/r/Python/comments/100ikia/shed_skin_restrictedpythontoc_compiler_ported_to/)
 <!-- BLOG-POST-LIST:END -->
