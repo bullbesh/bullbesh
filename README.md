@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Perf engineering with Python 3.12](https://www.reddit.com/r/Python/comments/1019vay/perf_engineering_with_python_312/)
 - [A GitHub action to run Selenium scripts with ease!](https://www.reddit.com/r/Python/comments/10195ra/a_github_action_to_run_selenium_scripts_with_ease/)
 - [Python 3.11 vs Cython vs C++ Performance for Simulations](https://www.reddit.com/r/Python/comments/101920k/python_311_vs_cython_vs_c_performance_for/)
 - [Is there such thing as abusing dataclasses?](https://www.reddit.com/r/Python/comments/1018p9r/is_there_such_thing_as_abusing_dataclasses/)
 - [Exploring human fear mechanism using python](https://www.reddit.com/r/Python/comments/10180hi/exploring_human_fear_mechanism_using_python/)
-- [Meet TextBox 2.0 – A Python Library, Based On PyTorch, For Applying Pre-Trained Language Models To Text Generation](https://www.reddit.com/r/Python/comments/1017fq9/meet_textbox_20_a_python_library_based_on_pytorch/)
 <!-- BLOG-POST-LIST:END -->
