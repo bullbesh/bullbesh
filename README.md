@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/100xk64/monday_daily_thread_project_ideas/)
+- [User registrations with ptyhon](https://www.reddit.com/r/Python/comments/100xik0/user_registrations_with_ptyhon/)
 - [Asteroids on sky maps using Kernel Density Estimators &lpar;Scikit Learn&rpar;](https://www.reddit.com/r/Python/comments/100ulzr/asteroids_on_sky_maps_using_kernel_density/)
 - [Python reverse remote desktop application.](https://www.reddit.com/r/Python/comments/100tnkj/python_reverse_remote_desktop_application/)
 - [What I learned &lpar;about Python&rpar; through Advent of Code 2022](https://www.reddit.com/r/Python/comments/100skek/what_i_learned_about_python_through_advent_of/)
-- [Extend Commitizen Conventional-Commits implementation](https://www.reddit.com/r/Python/comments/100se2u/extend_commitizen_conventionalcommits/)
-- [Solving Mastermind with Genetic Algorithms](https://www.reddit.com/r/Python/comments/100r8fl/solving_mastermind_with_genetic_algorithms/)
 <!-- BLOG-POST-LIST:END -->
