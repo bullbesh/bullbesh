@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am still making a video editor in Python. I am still crazy. Please help me&lpar;really&rpar;.](https://www.reddit.com/r/Python/comments/101hu89/i_am_still_making_a_video_editor_in_python_i_am/)
+- [How would you improve these charts?](https://www.reddit.com/r/Python/comments/101h478/how_would_you_improve_these_charts/)
+- [Python developers, uninstall this malicious package right now](https://www.reddit.com/r/Python/comments/101guny/python_developers_uninstall_this_malicious/)
 - [Python Sliding Window Problem Explained](https://www.reddit.com/r/Python/comments/101g70x/python_sliding_window_problem_explained/)
 - [Python Web Scraping Beginner&#39;s Tutorial - With The Most Frequent Challenges walkthrough](https://www.reddit.com/r/Python/comments/101g506/python_web_scraping_beginners_tutorial_with_the/)
-- [Three Interesting Bugfixes In Python 3.11.1](https://www.reddit.com/r/Python/comments/101evy2/three_interesting_bugfixes_in_python_3111/)
-- [The free weekly Python on Microcontrollers Newsletter](https://www.reddit.com/r/Python/comments/101e1q2/the_free_weekly_python_on_microcontrollers/)
-- [I made Game Engine from scratch &lpar;and game on it&rpar;](https://www.reddit.com/r/Python/comments/101de6o/i_made_game_engine_from_scratch_and_game_on_it/)
 <!-- BLOG-POST-LIST:END -->
