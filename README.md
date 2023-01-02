@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made Game Engine from scratch &lpar;and game on it&rpar;](https://www.reddit.com/r/Python/comments/101de6o/i_made_game_engine_from_scratch_and_game_on_it/)
+- [Implementing Convolutional Neural Network for Reverse Engineering](https://www.reddit.com/r/Python/comments/101cufz/implementing_convolutional_neural_network_for/)
 - [Django Authentication: The Basics With a Quick Tutorial](https://www.reddit.com/r/Python/comments/101chp8/django_authentication_the_basics_with_a_quick/)
 - [This is how I started the development of the fastest ASGI and WSGI Server in TechEmPower Benchmarks](https://www.reddit.com/r/Python/comments/101bsqm/this_is_how_i_started_the_development_of_the/)
 - [Exploratory Data Analysis Using Python | Free Masterclass](https://www.reddit.com/r/Python/comments/101awir/exploratory_data_analysis_using_python_free/)
-- [PEP 702 – Marking deprecations using the type system](https://www.reddit.com/r/Python/comments/101aelo/pep_702_marking_deprecations_using_the_type_system/)
-- [Classifying Python virtual environment workflows](https://www.reddit.com/r/Python/comments/101abo8/classifying_python_virtual_environment_workflows/)
 <!-- BLOG-POST-LIST:END -->
