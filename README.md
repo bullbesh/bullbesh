@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;cheat codes&quot; for new programmers that saved you a bunch of time learning?](https://www.reddit.com/r/Python/comments/101xijy/cheat_codes_for_new_programmers_that_saved_you_a/)
+- [What are the best practices to develop and deploy a python app without an API?](https://www.reddit.com/r/Python/comments/101xdoy/what_are_the_best_practices_to_develop_and_deploy/)
+- [Door unlock tool](https://www.reddit.com/r/Python/comments/101wtx1/door_unlock_tool/)
 - [A new technology benchmark achieved using our Image Segmentation model &lpar;Beta test is live!&rpar;](https://www.reddit.com/r/Python/comments/101w1d5/a_new_technology_benchmark_achieved_using_our/)
 - [Youtube Downloader w/ Flask](https://www.reddit.com/r/Python/comments/101v0ji/youtube_downloader_w_flask/)
-- [Any python programmable augmented reality glasses out on the market?](https://www.reddit.com/r/Python/comments/101slno/any_python_programmable_augmented_reality_glasses/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/101s3ce/tuesday_daily_thread_advanced_questions/)
-- [2,000 free sign ups available for the &quot;Automate the Boring Stuff with Python&quot; online course. &lpar;Jan 2023&rpar;](https://www.reddit.com/r/Python/comments/101p7xy/2000_free_sign_ups_available_for_the_automate_the/)
 <!-- BLOG-POST-LIST:END -->
