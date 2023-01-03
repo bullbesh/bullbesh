@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hikaru 0.13.0a released](https://www.reddit.com/r/Python/comments/102g72h/hikaru_0130a_released/)
+- [Learning code from freecodecamp.org](https://www.reddit.com/r/Python/comments/102fabx/learning_code_from_freecodecamporg/)
 - [Learning python from UDEMY?](https://www.reddit.com/r/Python/comments/102d0wc/learning_python_from_udemy/)
 - [hello guys I&#39;m new to this community just need help in learning python I&#39;m finding it very discouraging to learn it. could just tell me how to go about it](https://www.reddit.com/r/Python/comments/102cxuy/hello_guys_im_new_to_this_community_just_need/)
 - [GitHub - jrdnh/respread: Spreadsheet alternative for end-user models that can access Python&#39;s statistical, computational, and networking ecosystem.](https://www.reddit.com/r/Python/comments/102cqe4/github_jrdnhrespread_spreadsheet_alternative_for/)
-- [Connect to Reddit API and Perform Sentiment Analysis](https://www.reddit.com/r/Python/comments/102c5mj/connect_to_reddit_api_and_perform_sentiment/)
-- [Python 2 removed from Debian](https://www.reddit.com/r/Python/comments/102c22m/python_2_removed_from_debian/)
 <!-- BLOG-POST-LIST:END -->
