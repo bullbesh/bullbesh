@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any python programmable augmented reality glasses out on the market?](https://www.reddit.com/r/Python/comments/101slno/any_python_programmable_augmented_reality_glasses/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/101s3ce/tuesday_daily_thread_advanced_questions/)
 - [2,000 free sign ups available for the &quot;Automate the Boring Stuff with Python&quot; online course. &lpar;Jan 2023&rpar;](https://www.reddit.com/r/Python/comments/101p7xy/2000_free_sign_ups_available_for_the_automate_the/)
 - [Extracting embedded csv from PDF](https://www.reddit.com/r/Python/comments/101j6we/extracting_embedded_csv_from_pdf/)
 - [Set-OS-Date-Time-Using-Python](https://www.reddit.com/r/Python/comments/101ir4p/setosdatetimeusingpython/)
-- [CMV: str.islower should return True for the empty string](https://www.reddit.com/r/Python/comments/101iqzv/cmv_strislower_should_return_true_for_the_empty/)
-- [Instant Replay Suite - Tools for formatting/editing NVIDIA GeForce Experience/ShadowPlay clips](https://www.reddit.com/r/Python/comments/101ik2u/instant_replay_suite_tools_for_formattingediting/)
 <!-- BLOG-POST-LIST:END -->
