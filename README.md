@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Montecarlo simulation library - run Montecarlo statistic methods with two line of code](https://www.reddit.com/r/Python/comments/102jo7j/montecarlo_simulation_library_run_montecarlo/)
 - [Want to learn Bayesian Modeling in Python? - Join the Scicloj Online Book Club starting Saturday January 7th 2023 12:00 EST](https://www.reddit.com/r/Python/comments/102i7w4/want_to_learn_bayesian_modeling_in_python_join/)
 - [9 Python Built-In Decorators That Optimize Your Code Significantly](https://www.reddit.com/r/Python/comments/102hxqz/9_python_builtin_decorators_that_optimize_your/)
 - [Jackrabbit Relay](https://www.reddit.com/r/Python/comments/102h70a/jackrabbit_relay/)
 - [Hikaru 0.13.0a released](https://www.reddit.com/r/Python/comments/102g72h/hikaru_0130a_released/)
-- [Learning code from freecodecamp.org](https://www.reddit.com/r/Python/comments/102fabx/learning_code_from_freecodecamporg/)
 <!-- BLOG-POST-LIST:END -->
