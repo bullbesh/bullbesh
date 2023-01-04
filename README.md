@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Remarkable Python OOP Tips That Will Optimize Your Code Significantly](https://www.reddit.com/r/Python/comments/103f5pb/10_remarkable_python_oop_tips_that_will_optimize/)
+- [How do you say, &quot;strftime?&quot;](https://www.reddit.com/r/Python/comments/103ejna/how_do_you_say_strftime/)
 - [GitHub - civisanalytics/async-graph-data-flow: Asynchronous functions that pass data along a directed acyclic graph](https://www.reddit.com/r/Python/comments/103csd7/github_civisanalyticsasyncgraphdataflow/)
 - [Any ideas for portfolio projects?](https://www.reddit.com/r/Python/comments/103b54m/any_ideas_for_portfolio_projects/)
 - [Should I be strict about circular dependencies between sub-packages?](https://www.reddit.com/r/Python/comments/103areb/should_i_be_strict_about_circular_dependencies/)
-- [JupySQL: Better SQL in Jupyter](https://www.reddit.com/r/Python/comments/1039zv1/jupysql_better_sql_in_jupyter/)
-- [Learn Jazz Piano Theory with an application written in Python &lpar;supports midi controller&rpar;](https://www.reddit.com/r/Python/comments/103706z/learn_jazz_piano_theory_with_an_application/)
 <!-- BLOG-POST-LIST:END -->
