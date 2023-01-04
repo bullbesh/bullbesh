@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Jazz Piano Theory with an application written in Python &lpar;supports midi controller&rpar;](https://www.reddit.com/r/Python/comments/103706z/learn_jazz_piano_theory_with_an_application/)
+- [Pirates Online Classic - a fan-made recreation of Disney&#39;s now-defunct MMORPG; Pirates of the Caribbean Online. - Written in Python!!](https://www.reddit.com/r/Python/comments/1036tsv/pirates_online_classic_a_fanmade_recreation_of/)
+- [Meet TextBox 2.0 – A Python Library, Based On PyTorch, For Applying Pre-Trained Language Models To Text Generation](https://www.reddit.com/r/Python/comments/1036ged/meet_textbox_20_a_python_library_based_on_pytorch/)
+- [A Piano Sampler written in Python &lpar;github&rpar;](https://www.reddit.com/r/Python/comments/1036ahj/a_piano_sampler_written_in_python_github/)
 - [urllib3 raised $26,000 and shipped v2.0 in 2022](https://www.reddit.com/r/Python/comments/1035bdi/urllib3_raised_26000_and_shipped_v20_in_2022/)
-- [PyCentral](https://www.reddit.com/r/Python/comments/103405g/pycentral/)
-- [Create QR Codes with PyQRCode and Detect and Decode QR Codes with openCv2](https://www.reddit.com/r/Python/comments/1033emu/create_qr_codes_with_pyqrcode_and_detect_and/)
-- [I made a SoundFont MIDI synthesizer](https://www.reddit.com/r/Python/comments/1032r08/i_made_a_soundfont_midi_synthesizer/)
-- [Learn Python String methods to get better at writing efficient and elegant code.](https://www.reddit.com/r/Python/comments/1031ypo/learn_python_string_methods_to_get_better_at/)
 <!-- BLOG-POST-LIST:END -->
