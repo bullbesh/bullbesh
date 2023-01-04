@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Curse Words to Censored Words Converter in Python](https://www.reddit.com/r/Python/comments/102t6r6/curse_words_to_censored_words_converter_in_python/)
 - [how to automate my office work? I know only a little bit of programming](https://www.reddit.com/r/Python/comments/102rxhz/how_to_automate_my_office_work_i_know_only_a/)
 - [How to measure improvements in time spent debugging codebase?](https://www.reddit.com/r/Python/comments/102rt8v/how_to_measure_improvements_in_time_spent/)
 - [Which Scrapping tool is best for extracting data from ecommerse sites using Python, BeautifulSoup, Selenium or Scrappy?](https://www.reddit.com/r/Python/comments/102qcl9/which_scrapping_tool_is_best_for_extracting_data/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/102nwxd/wednesday_daily_thread_beginner_questions/)
-- [unexpected-isaves 1.3 just released and now supports different minecraft versions!](https://www.reddit.com/r/Python/comments/102n5p0/unexpectedisaves_13_just_released_and_now/)
 <!-- BLOG-POST-LIST:END -->
