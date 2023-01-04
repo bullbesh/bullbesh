@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lazy Evaluation Using Recursive Python Generators](https://www.reddit.com/r/Python/comments/102xoxa/lazy_evaluation_using_recursive_python_generators/)
 - [NFT and Metadata Generator - Python &amp; Streamlit](https://www.reddit.com/r/Python/comments/102vasd/nft_and_metadata_generator_python_streamlit/)
 - [My first big project, a Manga Translator.](https://www.reddit.com/r/Python/comments/102uurs/my_first_big_project_a_manga_translator/)
 - [Curse Words to Censored Words Converter in Python](https://www.reddit.com/r/Python/comments/102t6r6/curse_words_to_censored_words_converter_in_python/)
 - [how to automate my office work? I know only a little bit of programming](https://www.reddit.com/r/Python/comments/102rxhz/how_to_automate_my_office_work_i_know_only_a/)
-- [How to measure improvements in time spent debugging codebase?](https://www.reddit.com/r/Python/comments/102rt8v/how_to_measure_improvements_in_time_spent/)
 <!-- BLOG-POST-LIST:END -->
