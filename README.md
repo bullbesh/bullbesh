@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [my first window with a background using pygame](https://www.reddit.com/r/Python/comments/103fme2/my_first_window_with_a_background_using_pygame/)
+- [I made a small compilation of all python games I made in 2022](https://www.reddit.com/r/Python/comments/103fk1d/i_made_a_small_compilation_of_all_python_games_i/)
+- [Is cs50x a good way to learn python?](https://www.reddit.com/r/Python/comments/103fbex/is_cs50x_a_good_way_to_learn_python/)
 - [10 Remarkable Python OOP Tips That Will Optimize Your Code Significantly](https://www.reddit.com/r/Python/comments/103f5pb/10_remarkable_python_oop_tips_that_will_optimize/)
 - [How do you say, &quot;strftime?&quot;](https://www.reddit.com/r/Python/comments/103ejna/how_do_you_say_strftime/)
-- [GitHub - civisanalytics/async-graph-data-flow: Asynchronous functions that pass data along a directed acyclic graph](https://www.reddit.com/r/Python/comments/103csd7/github_civisanalyticsasyncgraphdataflow/)
-- [Any ideas for portfolio projects?](https://www.reddit.com/r/Python/comments/103b54m/any_ideas_for_portfolio_projects/)
-- [Should I be strict about circular dependencies between sub-packages?](https://www.reddit.com/r/Python/comments/103areb/should_i_be_strict_about_circular_dependencies/)
 <!-- BLOG-POST-LIST:END -->
