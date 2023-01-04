@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are the best books to learn python?](https://www.reddit.com/r/Python/comments/103i4d2/what_are_the_best_books_to_learn_python/)
+- [How To Create an End-2-End Text Paraphrase App](https://www.reddit.com/r/Python/comments/103hfuu/how_to_create_an_end2end_text_paraphrase_app/)
 - [my first window with a background using pygame](https://www.reddit.com/r/Python/comments/103fme2/my_first_window_with_a_background_using_pygame/)
 - [I made a small compilation of all python games I made in 2022](https://www.reddit.com/r/Python/comments/103fk1d/i_made_a_small_compilation_of_all_python_games_i/)
-- [Is cs50x a good way to learn python?](https://www.reddit.com/r/Python/comments/103fbex/is_cs50x_a_good_way_to_learn_python/)
-- [10 Remarkable Python OOP Tips That Will Optimize Your Code Significantly](https://www.reddit.com/r/Python/comments/103f5pb/10_remarkable_python_oop_tips_that_will_optimize/)
 - [How do you say, &quot;strftime?&quot;](https://www.reddit.com/r/Python/comments/103ejna/how_do_you_say_strftime/)
 <!-- BLOG-POST-LIST:END -->
