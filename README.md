@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Comprehending The Gripping Roles of Python Developers in Data Science](https://www.reddit.com/r/Python/comments/103ohxh/comprehending_the_gripping_roles_of_python/)
+- [Personal Investment Portfolio Dashboard](https://www.reddit.com/r/Python/comments/103oh63/personal_investment_portfolio_dashboard/)
+- [Business Owner, looking to learn python to automate my business](https://www.reddit.com/r/Python/comments/103octh/business_owner_looking_to_learn_python_to/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/103jifx/thursday_daily_thread_python_careers_courses_and/)
 - [IMAGE TO ASCII USING PYTHON! &lpar;5 min&rpar;](https://www.reddit.com/r/Python/comments/103j4p8/image_to_ascii_using_python_5_min/)
-- [What are the best books to learn python?](https://www.reddit.com/r/Python/comments/103i4d2/what_are_the_best_books_to_learn_python/)
-- [How To Create an End-2-End Text Paraphrase App](https://www.reddit.com/r/Python/comments/103hfuu/how_to_create_an_end2end_text_paraphrase_app/)
-- [my first window with a background using pygame](https://www.reddit.com/r/Python/comments/103fme2/my_first_window_with_a_background_using_pygame/)
 <!-- BLOG-POST-LIST:END -->
