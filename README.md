@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just released my much-improved YouTube archiver as v1.2 🎉🎉](https://www.reddit.com/r/Python/comments/1045ug4/just_released_my_muchimproved_youtube_archiver_as/)
+- [Lazy Evaluation Using Recursive Python Generators](https://www.reddit.com/r/Python/comments/10451s1/lazy_evaluation_using_recursive_python_generators/)
 - [I made a Spotify playlist downloader](https://www.reddit.com/r/Python/comments/1042o9y/i_made_a_spotify_playlist_downloader/)
 - [How to create a speech recognition system using the SpeechRecognition Module in Python](https://www.reddit.com/r/Python/comments/1042gt9/how_to_create_a_speech_recognition_system_using/)
 - [Where should I go next to get a job in this field?](https://www.reddit.com/r/Python/comments/10428zo/where_should_i_go_next_to_get_a_job_in_this_field/)
-- [Consistent Naming with Voldemort Rules](https://www.reddit.com/r/Python/comments/10413ua/consistent_naming_with_voldemort_rules/)
-- [Discover bpython: A Python REPL With IDE-Like Features – Real Python](https://www.reddit.com/r/Python/comments/1040yoy/discover_bpython_a_python_repl_with_idelike/)
 <!-- BLOG-POST-LIST:END -->
