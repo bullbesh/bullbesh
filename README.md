@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a game with Pygame in 10 Hours!](https://www.reddit.com/r/Python/comments/103vc07/i_made_a_game_with_pygame_in_10_hours/)
 - [Customized Calculator](https://www.reddit.com/r/Python/comments/103u6qh/customized_calculator/)
 - [PyTorch discloses malicious dependency chain compromise over holidays](https://www.reddit.com/r/Python/comments/103u5rr/pytorch_discloses_malicious_dependency_chain/)
 - [7 automation ideas using python with examples](https://www.reddit.com/r/Python/comments/103tsex/7_automation_ideas_using_python_with_examples/)
 - [Six is maintained by 1 person and used by 25% of the most popular packages. Is this our left-pad to be?](https://www.reddit.com/r/Python/comments/103su3s/six_is_maintained_by_1_person_and_used_by_25_of/)
-- [Maybe more in the machine learning realm, but how can a bot be forced to listen to music?](https://www.reddit.com/r/Python/comments/103qfis/maybe_more_in_the_machine_learning_realm_but_how/)
 <!-- BLOG-POST-LIST:END -->
