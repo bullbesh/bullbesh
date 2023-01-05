@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Wrote a Python tool that calculates and generates a Jet Engine Compressor](https://www.reddit.com/r/Python/comments/1049p9u/wrote_a_python_tool_that_calculates_and_generates/)
+- [How to use Poetry to reduce your susceptibility to compromised dependencies](https://www.reddit.com/r/Python/comments/104bv0s/how_to_use_poetry_to_reduce_your_susceptibility/)
 - [The way I build new FastAPI projects](https://www.reddit.com/r/Python/comments/1047tdb/the_way_i_build_new_fastapi_projects/)
 - [IMAGE TO ASCII USING PYTHON! &lpar;5 min&rpar;](https://www.reddit.com/r/Python/comments/10476r4/image_to_ascii_using_python_5_min/)
 - [I created my first GitHub repository! Discord ChatGPT-3 Bot!](https://www.reddit.com/r/Python/comments/1046ufg/i_created_my_first_github_repository_discord/)
