@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a Spotify playlist downloader](https://www.reddit.com/r/Python/comments/1042o9y/i_made_a_spotify_playlist_downloader/)
+- [How to create a speech recognition system using the SpeechRecognition Module in Python](https://www.reddit.com/r/Python/comments/1042gt9/how_to_create_a_speech_recognition_system_using/)
+- [Where should I go next to get a job in this field?](https://www.reddit.com/r/Python/comments/10428zo/where_should_i_go_next_to_get_a_job_in_this_field/)
 - [Consistent Naming with Voldemort Rules](https://www.reddit.com/r/Python/comments/10413ua/consistent_naming_with_voldemort_rules/)
 - [Discover bpython: A Python REPL With IDE-Like Features – Real Python](https://www.reddit.com/r/Python/comments/1040yoy/discover_bpython_a_python_repl_with_idelike/)
-- [Chronological list of Resources to Learn Python from Complete Beginner to Advanced Level](https://www.reddit.com/r/Python/comments/1040y7d/chronological_list_of_resources_to_learn_python/)
-- [Instagram bot generates images using stable diffusion](https://www.reddit.com/r/Python/comments/1040avu/instagram_bot_generates_images_using_stable/)
-- [I went a little overboard with day 7 of the Advent of Code puzzle...](https://www.reddit.com/r/Python/comments/103zt3p/i_went_a_little_overboard_with_day_7_of_the/)
 <!-- BLOG-POST-LIST:END -->
