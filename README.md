@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I went a little overboard with day 7 of the Advent of Code puzzle...](https://www.reddit.com/r/Python/comments/103zt3p/i_went_a_little_overboard_with_day_7_of_the/)
+- [If you had to convert a team to python coding, how would you go about it?](https://www.reddit.com/r/Python/comments/103zjz5/if_you_had_to_convert_a_team_to_python_coding_how/)
+- [Quibbler: A new real fun package for interactive data analysis](https://www.reddit.com/r/Python/comments/103z815/quibbler_a_new_real_fun_package_for_interactive/)
+- [Developer Q&amp;A: Pablo Galindo Talks Python&#39;s Speedy Future](https://www.reddit.com/r/Python/comments/103z2w9/developer_qa_pablo_galindo_talks_pythons_speedy/)
 - [Free Online Converters for PHP and Python](https://www.reddit.com/r/Python/comments/103x0u7/free_online_converters_for_php_and_python/)
-- [HiClass: a Python library for local hierarchical classification compatible with scikit-learn](https://www.reddit.com/r/Python/comments/103wseg/hiclass_a_python_library_for_local_hierarchical/)
-- [I made a game with Pygame in 10 Hours!](https://www.reddit.com/r/Python/comments/103vc07/i_made_a_game_with_pygame_in_10_hours/)
-- [Customized Calculator](https://www.reddit.com/r/Python/comments/103u6qh/customized_calculator/)
-- [PyTorch discloses malicious dependency chain compromise over holidays](https://www.reddit.com/r/Python/comments/103u5rr/pytorch_discloses_malicious_dependency_chain/)
 <!-- BLOG-POST-LIST:END -->
