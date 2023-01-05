@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Customized Calculator](https://www.reddit.com/r/Python/comments/103u6qh/customized_calculator/)
+- [PyTorch discloses malicious dependency chain compromise over holidays](https://www.reddit.com/r/Python/comments/103u5rr/pytorch_discloses_malicious_dependency_chain/)
+- [7 automation ideas using python with examples](https://www.reddit.com/r/Python/comments/103tsex/7_automation_ideas_using_python_with_examples/)
 - [Six is maintained by 1 person and used by 25% of the most popular packages. Is this our left-pad to be?](https://www.reddit.com/r/Python/comments/103su3s/six_is_maintained_by_1_person_and_used_by_25_of/)
 - [Maybe more in the machine learning realm, but how can a bot be forced to listen to music?](https://www.reddit.com/r/Python/comments/103qfis/maybe_more_in_the_machine_learning_realm_but_how/)
-- [Pycharm vs Vscode](https://www.reddit.com/r/Python/comments/103qclm/pycharm_vs_vscode/)
-- [What&#39;s the Python project that you&#39;ve built that you like showing off to others?](https://www.reddit.com/r/Python/comments/103qbie/whats_the_python_project_that_youve_built_that/)
-- [Comprehending The Gripping Roles of Python Developers in Data Science](https://www.reddit.com/r/Python/comments/103ohxh/comprehending_the_gripping_roles_of_python/)
 <!-- BLOG-POST-LIST:END -->
