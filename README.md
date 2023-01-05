@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How does a virtual environment work?](https://www.reddit.com/r/Python/comments/104dfxa/how_does_a_virtual_environment_work/)
 - [How to use Poetry to reduce your susceptibility to compromised dependencies](https://www.reddit.com/r/Python/comments/104bv0s/how_to_use_poetry_to_reduce_your_susceptibility/)
 - [The way I build new FastAPI projects](https://www.reddit.com/r/Python/comments/1047tdb/the_way_i_build_new_fastapi_projects/)
 - [IMAGE TO ASCII USING PYTHON! &lpar;5 min&rpar;](https://www.reddit.com/r/Python/comments/10476r4/image_to_ascii_using_python_5_min/)
 - [I created my first GitHub repository! Discord ChatGPT-3 Bot!](https://www.reddit.com/r/Python/comments/1046ufg/i_created_my_first_github_repository_discord/)
-- [Just released my much-improved YouTube archiver as v1.2 🎉🎉](https://www.reddit.com/r/Python/comments/1045ug4/just_released_my_muchimproved_youtube_archiver_as/)
 <!-- BLOG-POST-LIST:END -->
