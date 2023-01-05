@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built A GPT-3 Powered Productivity App](https://www.reddit.com/r/Python/comments/103kuqm/how_i_built_a_gpt3_powered_productivity_app/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/103jifx/thursday_daily_thread_python_careers_courses_and/)
+- [IMAGE TO ASCII USING PYTHON! &lpar;5 min&rpar;](https://www.reddit.com/r/Python/comments/103j4p8/image_to_ascii_using_python_5_min/)
 - [What are the best books to learn python?](https://www.reddit.com/r/Python/comments/103i4d2/what_are_the_best_books_to_learn_python/)
 - [How To Create an End-2-End Text Paraphrase App](https://www.reddit.com/r/Python/comments/103hfuu/how_to_create_an_end2end_text_paraphrase_app/)
-- [my first window with a background using pygame](https://www.reddit.com/r/Python/comments/103fme2/my_first_window_with_a_background_using_pygame/)
-- [I made a small compilation of all python games I made in 2022](https://www.reddit.com/r/Python/comments/103fk1d/i_made_a_small_compilation_of_all_python_games_i/)
-- [How do you say, &quot;strftime?&quot;](https://www.reddit.com/r/Python/comments/103ejna/how_do_you_say_strftime/)
 <!-- BLOG-POST-LIST:END -->
