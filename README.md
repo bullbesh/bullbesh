@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python code for analyzing Bitcoin price correlation with other financial indexes](https://www.reddit.com/r/Python/comments/104hnno/python_code_for_analyzing_bitcoin_price/)
 - [Adding list elements to each other](https://www.reddit.com/r/Python/comments/104fowf/adding_list_elements_to_each_other/)
 - [Twitter bot automation post tweets with text and image](https://www.reddit.com/r/Python/comments/104flg3/twitter_bot_automation_post_tweets_with_text_and/)
 - [Programme communication and integration](https://www.reddit.com/r/Python/comments/104ecym/programme_communication_and_integration/)
 - [How does a virtual environment work?](https://www.reddit.com/r/Python/comments/104dfxa/how_does_a_virtual_environment_work/)
-- [How to use Poetry to reduce your susceptibility to compromised dependencies](https://www.reddit.com/r/Python/comments/104bv0s/how_to_use_poetry_to_reduce_your_susceptibility/)
 <!-- BLOG-POST-LIST:END -->
