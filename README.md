@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [No more bloat! I&#39;m automatically publishing botocore-a-la-carte](https://www.reddit.com/r/Python/comments/104th66/no_more_bloat_im_automatically_publishing/)
 - [a project I created](https://www.reddit.com/r/Python/comments/104srq9/a_project_i_created/)
 - [Flask-Turnstile - A Cloudflare Turnstile implementation for Flask webapps](https://www.reddit.com/r/Python/comments/104nym7/flaskturnstile_a_cloudflare_turnstile/)
 - [Twitter bot automation post tweets with text and image](https://www.reddit.com/r/Python/comments/104flg3/twitter_bot_automation_post_tweets_with_text_and/)
 - [How does a virtual environment work?](https://www.reddit.com/r/Python/comments/104dfxa/how_does_a_virtual_environment_work/)
-- [How to use Poetry to reduce your susceptibility to compromised dependencies](https://www.reddit.com/r/Python/comments/104bv0s/how_to_use_poetry_to_reduce_your_susceptibility/)
 <!-- BLOG-POST-LIST:END -->
