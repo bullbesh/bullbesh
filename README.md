@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Novelty and optimization are the enemy of durable, long term code: The 10 year old mobile app](https://www.reddit.com/r/Python/comments/1057ajz/novelty_and_optimization_are_the_enemy_of_durable/)
+- [I made a script that will give you a random kanye quote&lpar;I&#39;m pretty sure you can contribute&rpar;](https://www.reddit.com/r/Python/comments/1056jmu/i_made_a_script_that_will_give_you_a_random_kanye/)
+- [Pytest plugin to track the real coverage with unit tests](https://www.reddit.com/r/Python/comments/1056e6d/pytest_plugin_to_track_the_real_coverage_with/)
 - [Clip generated using AI https://youtu.be/40_D3rnbcf0](https://www.reddit.com/r/Python/comments/10554nt/clip_generated_using_ai_httpsyoutube40_d3rnbcf0/)
 - [learn to code in python start up](https://www.reddit.com/r/Python/comments/1054m53/learn_to_code_in_python_start_up/)
-- [Icon sizing](https://www.reddit.com/r/Python/comments/10542ia/icon_sizing/)
-- [What is the best Python linter in VSCode?](https://www.reddit.com/r/Python/comments/1053onk/what_is_the_best_python_linter_in_vscode/)
-- [Open Source AI Image Classifier with Automatic Dataset Creator](https://www.reddit.com/r/Python/comments/1053ba9/open_source_ai_image_classifier_with_automatic/)
 <!-- BLOG-POST-LIST:END -->
