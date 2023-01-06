@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern Polars: an extensive side-by-side comparison of Polars and Pandas](https://www.reddit.com/r/Python/comments/104wqfg/modern_polars_an_extensive_sidebyside_comparison/)
+- [Plant UML for video generation, but in python](https://www.reddit.com/r/Python/comments/104wfsr/plant_uml_for_video_generation_but_in_python/)
+- [Implemented JWT Token-Based Authentication in Django and Dash with Ninja API](https://www.reddit.com/r/Python/comments/104w53i/implemented_jwt_tokenbased_authentication_in/)
 - [What are some of your favorite resources for learning the basic about algorithms?](https://www.reddit.com/r/Python/comments/104v7hh/what_are_some_of_your_favorite_resources_for/)
 - [What are some of your favorite resources for learning the basic about algorithms?](https://www.reddit.com/r/Python/comments/104v7hg/what_are_some_of_your_favorite_resources_for/)
-- [MATXScript: A high-performance Python AOT compiler](https://www.reddit.com/r/Python/comments/104v3s0/matxscript_a_highperformance_python_aot_compiler/)
-- [No more bloat! I&#39;m automatically publishing botocore-a-la-carte](https://www.reddit.com/r/Python/comments/104th66/no_more_bloat_im_automatically_publishing/)
-- [a project I created](https://www.reddit.com/r/Python/comments/104srq9/a_project_i_created/)
 <!-- BLOG-POST-LIST:END -->
