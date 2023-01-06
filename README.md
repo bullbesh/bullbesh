@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flask-Turnstile - A Cloudflare Turnstile implementation for Flask webapps](https://www.reddit.com/r/Python/comments/104nym7/flaskturnstile_a_cloudflare_turnstile/)
 - [Python code for analyzing Bitcoin price correlation with other financial indexes](https://www.reddit.com/r/Python/comments/104hnno/python_code_for_analyzing_bitcoin_price/)
 - [Twitter bot automation post tweets with text and image](https://www.reddit.com/r/Python/comments/104flg3/twitter_bot_automation_post_tweets_with_text_and/)
 - [How does a virtual environment work?](https://www.reddit.com/r/Python/comments/104dfxa/how_does_a_virtual_environment_work/)
 - [How to use Poetry to reduce your susceptibility to compromised dependencies](https://www.reddit.com/r/Python/comments/104bv0s/how_to_use_poetry_to_reduce_your_susceptibility/)
-- [The way I build new FastAPI projects](https://www.reddit.com/r/Python/comments/1047tdb/the_way_i_build_new_fastapi_projects/)
 <!-- BLOG-POST-LIST:END -->
