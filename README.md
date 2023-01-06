@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are some of your favorite resources for learning the basic about algorithms?](https://www.reddit.com/r/Python/comments/104v7hh/what_are_some_of_your_favorite_resources_for/)
+- [What are some of your favorite resources for learning the basic about algorithms?](https://www.reddit.com/r/Python/comments/104v7hg/what_are_some_of_your_favorite_resources_for/)
+- [MATXScript: A high-performance Python AOT compiler](https://www.reddit.com/r/Python/comments/104v3s0/matxscript_a_highperformance_python_aot_compiler/)
 - [No more bloat! I&#39;m automatically publishing botocore-a-la-carte](https://www.reddit.com/r/Python/comments/104th66/no_more_bloat_im_automatically_publishing/)
 - [a project I created](https://www.reddit.com/r/Python/comments/104srq9/a_project_i_created/)
-- [Flask-Turnstile - A Cloudflare Turnstile implementation for Flask webapps](https://www.reddit.com/r/Python/comments/104nym7/flaskturnstile_a_cloudflare_turnstile/)
-- [Twitter bot automation post tweets with text and image](https://www.reddit.com/r/Python/comments/104flg3/twitter_bot_automation_post_tweets_with_text_and/)
-- [How does a virtual environment work?](https://www.reddit.com/r/Python/comments/104dfxa/how_does_a_virtual_environment_work/)
 <!-- BLOG-POST-LIST:END -->
