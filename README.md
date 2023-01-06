@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I scanned every package on PyPi and found 57 live AWS keys](https://www.reddit.com/r/Python/comments/10525zo/i_scanned_every_package_on_pypi_and_found_57_live/)
+- [Learn PYTHON full course for free without any payment.](https://www.reddit.com/r/Python/comments/1051ws4/learn_python_full_course_for_free_without_any/)
 - [Concurrent Programming in Python](https://www.reddit.com/r/Python/comments/10518fj/concurrent_programming_in_python/)
 - [First post](https://www.reddit.com/r/Python/comments/1050jke/first_post/)
 - [Power](https://www.reddit.com/r/Python/comments/104ydn8/power/)
-- [Multiplying numbers with lines using manim python library](https://www.reddit.com/r/Python/comments/104xdnr/multiplying_numbers_with_lines_using_manim_python/)
-- [AIJack: I built an OSS framework for the attack and defense against Machine Learning](https://www.reddit.com/r/Python/comments/104x2q3/aijack_i_built_an_oss_framework_for_the_attack/)
 <!-- BLOG-POST-LIST:END -->
