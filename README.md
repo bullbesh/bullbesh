@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Clip generated using AI https://youtu.be/40_D3rnbcf0](https://www.reddit.com/r/Python/comments/10554nt/clip_generated_using_ai_httpsyoutube40_d3rnbcf0/)
+- [learn to code in python start up](https://www.reddit.com/r/Python/comments/1054m53/learn_to_code_in_python_start_up/)
 - [Icon sizing](https://www.reddit.com/r/Python/comments/10542ia/icon_sizing/)
 - [What is the best Python linter in VSCode?](https://www.reddit.com/r/Python/comments/1053onk/what_is_the_best_python_linter_in_vscode/)
 - [Open Source AI Image Classifier with Automatic Dataset Creator](https://www.reddit.com/r/Python/comments/1053ba9/open_source_ai_image_classifier_with_automatic/)
-- [Analyse Cricket data with Python...](https://www.reddit.com/r/Python/comments/1052xqu/analyse_cricket_data_with_python/)
-- [I scanned every package on PyPi and found 57 live AWS keys](https://www.reddit.com/r/Python/comments/10525zo/i_scanned_every_package_on_pypi_and_found_57_live/)
 <!-- BLOG-POST-LIST:END -->
