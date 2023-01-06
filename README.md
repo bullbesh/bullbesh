@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Icon sizing](https://www.reddit.com/r/Python/comments/10542ia/icon_sizing/)
+- [What is the best Python linter in VSCode?](https://www.reddit.com/r/Python/comments/1053onk/what_is_the_best_python_linter_in_vscode/)
+- [Open Source AI Image Classifier with Automatic Dataset Creator](https://www.reddit.com/r/Python/comments/1053ba9/open_source_ai_image_classifier_with_automatic/)
+- [Analyse Cricket data with Python...](https://www.reddit.com/r/Python/comments/1052xqu/analyse_cricket_data_with_python/)
 - [I scanned every package on PyPi and found 57 live AWS keys](https://www.reddit.com/r/Python/comments/10525zo/i_scanned_every_package_on_pypi_and_found_57_live/)
-- [Learn PYTHON full course for free without any payment.](https://www.reddit.com/r/Python/comments/1051ws4/learn_python_full_course_for_free_without_any/)
-- [Concurrent Programming in Python](https://www.reddit.com/r/Python/comments/10518fj/concurrent_programming_in_python/)
-- [First post](https://www.reddit.com/r/Python/comments/1050jke/first_post/)
-- [Power](https://www.reddit.com/r/Python/comments/104ydn8/power/)
 <!-- BLOG-POST-LIST:END -->
