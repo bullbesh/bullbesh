@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using VS code for Python](https://www.reddit.com/r/Python/comments/105r19b/using_vs_code_for_python/)
+- [After your feedback from the last post, the API for my Python programming game is now fully pep8 compliant](https://www.reddit.com/r/Python/comments/105qscb/after_your_feedback_from_the_last_post_the_api/)
+- [Does anyone else constantly have problems with Conda conflicts?](https://www.reddit.com/r/Python/comments/105qinj/does_anyone_else_constantly_have_problems_with/)
+- [Try these programming languages](https://www.reddit.com/r/Python/comments/105pzwm/try_these_programming_languages/)
 - [Code example using Regexp POSIX bracket expressions](https://www.reddit.com/r/Python/comments/105mkby/code_example_using_regexp_posix_bracket/)
-- [scrape Instagram data using snscrape](https://www.reddit.com/r/Python/comments/105mavd/scrape_instagram_data_using_snscrape/)
-- [Sync Local Git Repo with Remote Using GitBranchCleaner](https://www.reddit.com/r/Python/comments/105lcpg/sync_local_git_repo_with_remote_using/)
-- [I need help with this assignment. Dont use hard stuff as this is my first year using python](https://www.reddit.com/r/Python/comments/105lbe3/i_need_help_with_this_assignment_dont_use_hard/)
-- [Learn Python for beginners in 1 hour](https://www.reddit.com/r/Python/comments/105jmy2/learn_python_for_beginners_in_1_hour/)
 <!-- BLOG-POST-LIST:END -->
