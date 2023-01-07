@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing PyPI Maker: simplifying Python package uploads](https://www.reddit.com/r/Python/comments/105g879/introducing_pypi_maker_simplifying_python_package/)
 - [How to make a twitter bot with python](https://www.reddit.com/r/Python/comments/105fidc/how_to_make_a_twitter_bot_with_python/)
 - [using sys argv](https://www.reddit.com/r/Python/comments/105exl2/using_sys_argv/)
 - [please help me to create an AI](https://www.reddit.com/r/Python/comments/105enk2/please_help_me_to_create_an_ai/)
 - [For the past week I have been working on a calculator &lpar;This is just a first version I will add more options later.&rpar;](https://www.reddit.com/r/Python/comments/105blii/for_the_past_week_i_have_been_working_on_a/)
-- [Bookmark of commands with Python](https://www.reddit.com/r/Python/comments/105aynt/bookmark_of_commands_with_python/)
 <!-- BLOG-POST-LIST:END -->
