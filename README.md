@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python for beginners in 1 hour](https://www.reddit.com/r/Python/comments/105jmy2/learn_python_for_beginners_in_1_hour/)
 - [Introducing PyPI Maker: simplifying Python package uploads](https://www.reddit.com/r/Python/comments/105g879/introducing_pypi_maker_simplifying_python_package/)
 - [How to make a twitter bot with python](https://www.reddit.com/r/Python/comments/105fidc/how_to_make_a_twitter_bot_with_python/)
 - [Bookmark of commands with Python](https://www.reddit.com/r/Python/comments/105aynt/bookmark_of_commands_with_python/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1059w5c/saturday_daily_thread_resource_request_and/)
-- [Novelty and optimization are the enemy of durable, long term code: The 10 year old mobile app](https://www.reddit.com/r/Python/comments/1057ajz/novelty_and_optimization_are_the_enemy_of_durable/)
 <!-- BLOG-POST-LIST:END -->
