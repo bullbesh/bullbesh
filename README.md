@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I set up a server and a listener, or a reverse shell in Python3. Trying to do a backdoor. I added the Json library but im having trouble with encode&lpar;&rpar;, and decode&lpar;&rpar;. Heres the code.](https://www.reddit.com/r/Python/comments/105v6nu/i_set_up_a_server_and_a_listener_or_a_reverse/)
 - [Best IDE to practice python as a beginner?](https://www.reddit.com/r/Python/comments/105tp9e/best_ide_to_practice_python_as_a_beginner/)
 - [Using VS code for Python](https://www.reddit.com/r/Python/comments/105r19b/using_vs_code_for_python/)
 - [After your feedback from the last post, the API for my Python programming game is now fully pep8 compliant](https://www.reddit.com/r/Python/comments/105qscb/after_your_feedback_from_the_last_post_the_api/)
 - [Does anyone else constantly have problems with Conda conflicts?](https://www.reddit.com/r/Python/comments/105qinj/does_anyone_else_constantly_have_problems_with/)
-- [Try these programming languages](https://www.reddit.com/r/Python/comments/105pzwm/try_these_programming_languages/)
 <!-- BLOG-POST-LIST:END -->
