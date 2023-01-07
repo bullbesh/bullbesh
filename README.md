@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code example using Regexp POSIX bracket expressions](https://www.reddit.com/r/Python/comments/105mkby/code_example_using_regexp_posix_bracket/)
+- [scrape Instagram data using snscrape](https://www.reddit.com/r/Python/comments/105mavd/scrape_instagram_data_using_snscrape/)
 - [Sync Local Git Repo with Remote Using GitBranchCleaner](https://www.reddit.com/r/Python/comments/105lcpg/sync_local_git_repo_with_remote_using/)
 - [I need help with this assignment. Dont use hard stuff as this is my first year using python](https://www.reddit.com/r/Python/comments/105lbe3/i_need_help_with_this_assignment_dont_use_hard/)
 - [Learn Python for beginners in 1 hour](https://www.reddit.com/r/Python/comments/105jmy2/learn_python_for_beginners_in_1_hour/)
-- [Introducing PyPI Maker: simplifying Python package uploads](https://www.reddit.com/r/Python/comments/105g879/introducing_pypi_maker_simplifying_python_package/)
-- [How to make a twitter bot with python](https://www.reddit.com/r/Python/comments/105fidc/how_to_make_a_twitter_bot_with_python/)
 <!-- BLOG-POST-LIST:END -->
