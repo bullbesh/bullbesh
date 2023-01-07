@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best IDE to practice python as a beginner?](https://www.reddit.com/r/Python/comments/105tp9e/best_ide_to_practice_python_as_a_beginner/)
 - [Using VS code for Python](https://www.reddit.com/r/Python/comments/105r19b/using_vs_code_for_python/)
 - [After your feedback from the last post, the API for my Python programming game is now fully pep8 compliant](https://www.reddit.com/r/Python/comments/105qscb/after_your_feedback_from_the_last_post_the_api/)
 - [Does anyone else constantly have problems with Conda conflicts?](https://www.reddit.com/r/Python/comments/105qinj/does_anyone_else_constantly_have_problems_with/)
 - [Try these programming languages](https://www.reddit.com/r/Python/comments/105pzwm/try_these_programming_languages/)
-- [Code example using Regexp POSIX bracket expressions](https://www.reddit.com/r/Python/comments/105mkby/code_example_using_regexp_posix_bracket/)
 <!-- BLOG-POST-LIST:END -->
