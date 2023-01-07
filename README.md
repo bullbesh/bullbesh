@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Interesting Predictions From The State of AI Report For 2023 ⭕ News](https://www.reddit.com/r/Python/comments/10610pn/7_interesting_predictions_from_the_state_of_ai/)
+- [A very simple game me and a friend made](https://www.reddit.com/r/Python/comments/1060qgw/a_very_simple_game_me_and_a_friend_made/)
+- [Why does the FFT work only for highly composite input arrays?](https://www.reddit.com/r/Python/comments/1060gqf/why_does_the_fft_work_only_for_highly_composite/)
+- [Pip Install Plotly-Dash | Top 10 Useful Resources for Learning / Building Dashboards within the Framework](https://www.reddit.com/r/Python/comments/1060efc/pip_install_plotlydash_top_10_useful_resources/)
 - [Advanced type annotations using TypeVar](https://www.reddit.com/r/Python/comments/105yjcx/advanced_type_annotations_using_typevar/)
-- [Testing Python Type Annotations](https://www.reddit.com/r/Python/comments/105yblz/testing_python_type_annotations/)
-- [Does anyone want to be a member of a new coding team for creating an android app in Kivy &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/105wavn/does_anyone_want_to_be_a_member_of_a_new_coding/)
-- [Best IDE to practice python as a beginner?](https://www.reddit.com/r/Python/comments/105tp9e/best_ide_to_practice_python_as_a_beginner/)
-- [After your feedback from the last post, the API for my Python programming game is now fully pep8 compliant](https://www.reddit.com/r/Python/comments/105qscb/after_your_feedback_from_the_last_post_the_api/)
 <!-- BLOG-POST-LIST:END -->
