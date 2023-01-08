@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Argdantic: typed CLIs with Argparse and Pydantic](https://www.reddit.com/r/Python/comments/106lfm4/argdantic_typed_clis_with_argparse_and_pydantic/)
+- [A script for automatically formatting/editing NVIDIA GeForce Experience/ShadowPlay clips](https://www.reddit.com/r/Python/comments/106lbt5/a_script_for_automatically_formattingediting/)
+- [Seeking a python solution to this AWS EC2 task...](https://www.reddit.com/r/Python/comments/106l13b/seeking_a_python_solution_to_this_aws_ec2_task/)
+- [A TUI-based Interactive Image Viewer](https://www.reddit.com/r/Python/comments/106kjab/a_tuibased_interactive_image_viewer/)
 - [SteamGiftBot: Automation of taking part in various distributions.](https://www.reddit.com/r/Python/comments/106hzx0/steamgiftbot_automation_of_taking_part_in_various/)
-- [I created my own discord bot, which has multiple functions including AI&lpar;OpenAI API&rpar;!](https://www.reddit.com/r/Python/comments/106grra/i_created_my_own_discord_bot_which_has_multiple/)
-- [Exchange rates app](https://www.reddit.com/r/Python/comments/106gm5l/exchange_rates_app/)
-- [Optimizing our longest nightly job — a story of sessions, complexity, and toilets #SQLAlchemy #Performance](https://www.reddit.com/r/Python/comments/106fxa6/optimizing_our_longest_nightly_job_a_story_of/)
-- [F-String In Python - A Modern Way To Perform String Interpolation](https://www.reddit.com/r/Python/comments/106fae5/fstring_in_python_a_modern_way_to_perform_string/)
 <!-- BLOG-POST-LIST:END -->
