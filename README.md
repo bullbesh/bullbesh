@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Improved Verlet Physics Engine is on Github!](https://www.reddit.com/r/Python/comments/106r96x/my_improved_verlet_physics_engine_is_on_github/)
+- [High-Quality Numpy/PyTorch/Pandas Practice Problems](https://www.reddit.com/r/Python/comments/106q8ux/highquality_numpypytorchpandas_practice_problems/)
 - [Where can I share my quiz](https://www.reddit.com/r/Python/comments/106o668/where_can_i_share_my_quiz/)
 - [I&#39;ve learned Python. What next ? I&#39;m confused 😕](https://www.reddit.com/r/Python/comments/106nr3k/ive_learned_python_what_next_im_confused/)
 - [Python package that will create docstrings using OpenAI](https://www.reddit.com/r/Python/comments/106ngcw/python_package_that_will_create_docstrings_using/)
-- [FastQL: Prototype your text to image models in GraphQL with Rust backend in one line of code🔥](https://www.reddit.com/r/Python/comments/106me3d/fastql_prototype_your_text_to_image_models_in/)
-- [How to run Python in VSCode &lpar;100K views&rpar;](https://www.reddit.com/r/Python/comments/106m3t2/how_to_run_python_in_vscode_100k_views/)
 <!-- BLOG-POST-LIST:END -->
