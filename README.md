@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Interesting Predictions From The State of AI Report For 2023 ⭕ News](https://www.reddit.com/r/Python/comments/10610pn/7_interesting_predictions_from_the_state_of_ai/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1063vg5/sunday_daily_thread_whats_everyone_working_on/)
+- [Best IDE for Python Programming on MacBook M1 in 2023?](https://www.reddit.com/r/Python/comments/10633oj/best_ide_for_python_programming_on_macbook_m1_in/)
+- [Top Predictions and Trends for Generative AI in 2023](https://www.reddit.com/r/Python/comments/1062vag/top_predictions_and_trends_for_generative_ai_in/)
 - [A very simple game me and a friend made](https://www.reddit.com/r/Python/comments/1060qgw/a_very_simple_game_me_and_a_friend_made/)
-- [Why does the FFT work only for highly composite input arrays?](https://www.reddit.com/r/Python/comments/1060gqf/why_does_the_fft_work_only_for_highly_composite/)
 - [Pip Install Plotly-Dash | Top 10 Useful Resources for Learning / Building Dashboards within the Framework](https://www.reddit.com/r/Python/comments/1060efc/pip_install_plotlydash_top_10_useful_resources/)
-- [Advanced type annotations using TypeVar](https://www.reddit.com/r/Python/comments/105yjcx/advanced_type_annotations_using_typevar/)
 <!-- BLOG-POST-LIST:END -->
