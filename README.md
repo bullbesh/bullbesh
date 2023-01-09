@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/106yoak/monday_daily_thread_project_ideas/)
+- [Quick Start with the ReductStore Python SDK](https://www.reddit.com/r/Python/comments/106ybnw/quick_start_with_the_reductstore_python_sdk/)
 - [Price Scraping and Monitoring Script](https://www.reddit.com/r/Python/comments/106toz6/price_scraping_and_monitoring_script/)
 - [Packaging tools in Python app](https://www.reddit.com/r/Python/comments/106tjc3/packaging_tools_in_python_app/)
 - [Cache function calls in Python](https://www.reddit.com/r/Python/comments/106sobq/cache_function_calls_in_python/)
-- [Thoughts on nested / inner functions in Python for better encapsulation and clarity?](https://www.reddit.com/r/Python/comments/106rsv8/thoughts_on_nested_inner_functions_in_python_for/)
-- [Another personal awesome list of resources for Python 🐍](https://www.reddit.com/r/Python/comments/106rsi4/another_personal_awesome_list_of_resources_for/)
 <!-- BLOG-POST-LIST:END -->
