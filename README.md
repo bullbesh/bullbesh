@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [DSA Activity Selection Problem Explained](https://www.reddit.com/r/Python/comments/107j0bo/dsa_activity_selection_problem_explained/)
 - [Something similar to Rust&#39;s `bacon` tool but for Python?](https://www.reddit.com/r/Python/comments/107igqy/something_similar_to_rusts_bacon_tool_but_for/)
 - [So you&#39;re looking for a wee bit of Textual help...](https://www.reddit.com/r/Python/comments/107ig9j/so_youre_looking_for_a_wee_bit_of_textual_help/)
 - [running python modules vs scripts](https://www.reddit.com/r/Python/comments/107i2nh/running_python_modules_vs_scripts/)
 - [Super proud of this &lpar;after one class in Python at Red Rocks Community College&rpar;](https://www.reddit.com/r/Python/comments/107gqmz/super_proud_of_this_after_one_class_in_python_at/)
-- [Would you increment SemVer when removing support for EOL Python 3 versions?](https://www.reddit.com/r/Python/comments/107g04w/would_you_increment_semver_when_removing_support/)
 <!-- BLOG-POST-LIST:END -->
