@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am a beginner coder and I want to be a web developer but I&#39;m in a bit of a financial crunch, so is it possible for me to learn enough within 4 months and get a developer job? Any company is fine.](https://www.reddit.com/r/Python/comments/107bo4p/i_am_a_beginner_coder_and_i_want_to_be_a_web/)
+- [Malicious PyPI package posed as SentinelOne SDK to serve info-stealing malware](https://www.reddit.com/r/Python/comments/107blqo/malicious_pypi_package_posed_as_sentinelone_sdk/)
+- [Getting my first Python internship/job?](https://www.reddit.com/r/Python/comments/107bctv/getting_my_first_python_internshipjob/)
+- [Malicious PyPI package posed as SentinelOne SDK to serve info-stealing malware](https://www.reddit.com/r/Python/comments/107b3pl/malicious_pypi_package_posed_as_sentinelone_sdk/)
 - [Adding better DX to my package](https://www.reddit.com/r/Python/comments/107abiy/adding_better_dx_to_my_package/)
-- [I finally finished my mapper between python and GraphQL](https://www.reddit.com/r/Python/comments/1079q8i/i_finally_finished_my_mapper_between_python_and/)
-- [Fixing Python&#39;s &quot;Cachetools&quot; Library](https://www.reddit.com/r/Python/comments/1077q6z/fixing_pythons_cachetools_library/)
-- [9 Python Built-In Decorators That Optimize Your Code Significantly](https://www.reddit.com/r/Python/comments/1077neu/9_python_builtin_decorators_that_optimize_your/)
-- [Idea for possibly useful library](https://www.reddit.com/r/Python/comments/1076opy/idea_for_possibly_useful_library/)
 <!-- BLOG-POST-LIST:END -->
