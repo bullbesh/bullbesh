@@ -12,5 +12,5 @@
 - [PyTorch Poisoned in Software Supply Chain Attack](https://www.reddit.com/r/Python/comments/107kn7z/pytorch_poisoned_in_software_supply_chain_attack/)
 - [TikTok and Instagram mass content downloader](https://www.reddit.com/r/Python/comments/107kj3y/tiktok_and_instagram_mass_content_downloader/)
 - [DSA Activity Selection Problem Explained](https://www.reddit.com/r/Python/comments/107j0bo/dsa_activity_selection_problem_explained/)
-- [Something similar to Rust&#39;s `bacon` tool but for Python?](https://www.reddit.com/r/Python/comments/107igqy/something_similar_to_rusts_bacon_tool_but_for/)
+- [So you&#39;re looking for a wee bit of Textual help...](https://www.reddit.com/r/Python/comments/107ig9j/so_youre_looking_for_a_wee_bit_of_textual_help/)
 <!-- BLOG-POST-LIST:END -->
