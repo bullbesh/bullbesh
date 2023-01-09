@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [EuroPython&#39;s 2022 Sessions Are Now Online](https://www.reddit.com/r/Python/comments/107l6ip/europythons_2022_sessions_are_now_online/)
+- [PyTorch Poisoned in Software Supply Chain Attack](https://www.reddit.com/r/Python/comments/107kn7z/pytorch_poisoned_in_software_supply_chain_attack/)
+- [TikTok and Instagram mass content downloader](https://www.reddit.com/r/Python/comments/107kj3y/tiktok_and_instagram_mass_content_downloader/)
 - [DSA Activity Selection Problem Explained](https://www.reddit.com/r/Python/comments/107j0bo/dsa_activity_selection_problem_explained/)
 - [Something similar to Rust&#39;s `bacon` tool but for Python?](https://www.reddit.com/r/Python/comments/107igqy/something_similar_to_rusts_bacon_tool_but_for/)
-- [So you&#39;re looking for a wee bit of Textual help...](https://www.reddit.com/r/Python/comments/107ig9j/so_youre_looking_for_a_wee_bit_of_textual_help/)
-- [running python modules vs scripts](https://www.reddit.com/r/Python/comments/107i2nh/running_python_modules_vs_scripts/)
-- [Super proud of this &lpar;after one class in Python at Red Rocks Community College&rpar;](https://www.reddit.com/r/Python/comments/107gqmz/super_proud_of_this_after_one_class_in_python_at/)
 <!-- BLOG-POST-LIST:END -->
