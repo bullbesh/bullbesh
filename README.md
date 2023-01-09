@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Something similar to Rust&#39;s `bacon` tool but for Python?](https://www.reddit.com/r/Python/comments/107igqy/something_similar_to_rusts_bacon_tool_but_for/)
+- [So you&#39;re looking for a wee bit of Textual help...](https://www.reddit.com/r/Python/comments/107ig9j/so_youre_looking_for_a_wee_bit_of_textual_help/)
+- [running python modules vs scripts](https://www.reddit.com/r/Python/comments/107i2nh/running_python_modules_vs_scripts/)
 - [Super proud of this &lpar;after one class in Python at Red Rocks Community College&rpar;](https://www.reddit.com/r/Python/comments/107gqmz/super_proud_of_this_after_one_class_in_python_at/)
 - [Would you increment SemVer when removing support for EOL Python 3 versions?](https://www.reddit.com/r/Python/comments/107g04w/would_you_increment_semver_when_removing_support/)
-- [End-to-End Tutorial on Combining AWS Lambda, Docker, and Python](https://www.reddit.com/r/Python/comments/107f6r2/endtoend_tutorial_on_combining_aws_lambda_docker/)
-- [chafa.py - Terminal graphics with Python](https://www.reddit.com/r/Python/comments/107e2j9/chafapy_terminal_graphics_with_python/)
-- [Make your own notepad using python](https://www.reddit.com/r/Python/comments/107d669/make_your_own_notepad_using_python/)
 <!-- BLOG-POST-LIST:END -->
