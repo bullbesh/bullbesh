@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Tutorial: Simulate the Powerball Lottery Using Python &lpar;Corey Schafer is back!&rpar;](https://www.reddit.com/r/Python/comments/107rksp/python_tutorial_simulate_the_powerball_lottery/)
+- [If there was a python package named Senpy &lpar;like senpai&rpar; what would it do?](https://www.reddit.com/r/Python/comments/107rgxx/if_there_was_a_python_package_named_senpy_like/)
+- [Robyn&#39;s plan for 2023](https://www.reddit.com/r/Python/comments/107rb4g/robyns_plan_for_2023/)
+- [Data Analysis with Strava](https://www.reddit.com/r/Python/comments/107qudm/data_analysis_with_strava/)
 - [New project: mastodon-social-graph](https://www.reddit.com/r/Python/comments/107px1h/new_project_mastodonsocialgraph/)
-- [8000+ python packages might have to change to GNU Public License](https://www.reddit.com/r/Python/comments/107p41z/8000_python_packages_might_have_to_change_to_gnu/)
-- [Domain-Driven Design Framework for Python Developers](https://www.reddit.com/r/Python/comments/107og1g/domaindriven_design_framework_for_python/)
-- [Deploy Django on Railway app for Free](https://www.reddit.com/r/Python/comments/107o9sn/deploy_django_on_railway_app_for_free/)
-- [EuroPython&#39;s 2022 Sessions Are Now Online](https://www.reddit.com/r/Python/comments/107l6ip/europythons_2022_sessions_are_now_online/)
 <!-- BLOG-POST-LIST:END -->
