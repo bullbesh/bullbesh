@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Django on Railway app for Free](https://www.reddit.com/r/Python/comments/107o9sn/deploy_django_on_railway_app_for_free/)
+- [How to get clients as a developer freelancer. |Daily tips|](https://www.reddit.com/r/Python/comments/107n5c3/how_to_get_clients_as_a_developer_freelancer/)
 - [EuroPython&#39;s 2022 Sessions Are Now Online](https://www.reddit.com/r/Python/comments/107l6ip/europythons_2022_sessions_are_now_online/)
-- [PyTorch Poisoned in Software Supply Chain Attack](https://www.reddit.com/r/Python/comments/107kn7z/pytorch_poisoned_in_software_supply_chain_attack/)
 - [TikTok and Instagram mass content downloader](https://www.reddit.com/r/Python/comments/107kj3y/tiktok_and_instagram_mass_content_downloader/)
 - [DSA Activity Selection Problem Explained](https://www.reddit.com/r/Python/comments/107j0bo/dsa_activity_selection_problem_explained/)
-- [So you&#39;re looking for a wee bit of Textual help...](https://www.reddit.com/r/Python/comments/107ig9j/so_youre_looking_for_a_wee_bit_of_textual_help/)
 <!-- BLOG-POST-LIST:END -->
