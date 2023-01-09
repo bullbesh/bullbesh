@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Make your own notepad using python](https://www.reddit.com/r/Python/comments/107d669/make_your_own_notepad_using_python/)
 - [I am a beginner coder and I want to be a web developer but I&#39;m in a bit of a financial crunch, so is it possible for me to learn enough within 4 months and get a developer job? Any company is fine.](https://www.reddit.com/r/Python/comments/107bo4p/i_am_a_beginner_coder_and_i_want_to_be_a_web/)
-- [Malicious PyPI package posed as SentinelOne SDK to serve info-stealing malware](https://www.reddit.com/r/Python/comments/107blqo/malicious_pypi_package_posed_as_sentinelone_sdk/)
 - [Getting my first Python internship/job?](https://www.reddit.com/r/Python/comments/107bctv/getting_my_first_python_internshipjob/)
 - [Malicious PyPI package posed as SentinelOne SDK to serve info-stealing malware](https://www.reddit.com/r/Python/comments/107b3pl/malicious_pypi_package_posed_as_sentinelone_sdk/)
 - [Adding better DX to my package](https://www.reddit.com/r/Python/comments/107abiy/adding_better_dx_to_my_package/)
