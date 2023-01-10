@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build High-Performance REST APIs with Python](https://www.reddit.com/r/Python/comments/107w5g0/how_to_build_highperformance_rest_apis_with_python/)
-- [Where can I teach younger kids Python while also getting paid?](https://www.reddit.com/r/Python/comments/107v6qb/where_can_i_teach_younger_kids_python_while_also/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/107ukq7/tuesday_daily_thread_advanced_questions/)
-- [Python Tutorial: Simulate the Powerball Lottery Using Python &lpar;Corey Schafer is back!&rpar;](https://www.reddit.com/r/Python/comments/107rksp/python_tutorial_simulate_the_powerball_lottery/)
-- [If there was a python package named Senpy &lpar;like senpai&rpar; what would it do?](https://www.reddit.com/r/Python/comments/107rgxx/if_there_was_a_python_package_named_senpy_like/)
+- [Python Learning Resources](https://www.reddit.com/r/Python/comments/107y3f1/python_learning_resources/)
+- [Tutorial: Book Recommendation System With OpenAI GPT APIs](https://www.reddit.com/r/Python/comments/107xuuo/tutorial_book_recommendation_system_with_openai/)
+- [Hi everyone, I’m trying to learn python and I heard about exercism io is this good open resource for learning python? I appreciate any valuable recommendations](https://www.reddit.com/r/Python/comments/107xt0w/hi_everyone_im_trying_to_learn_python_and_i_heard/)
+- [A new voice assistant that looks promising](https://www.reddit.com/r/Python/comments/107x8n3/a_new_voice_assistant_that_looks_promising/)
+- [Is it possible to learn Python and DSAs within 4 months to get a basic entry level job as a developer ? I&#39;m an Indian so around 50k per month would be fine .](https://www.reddit.com/r/Python/comments/107x7lb/is_it_possible_to_learn_python_and_dsas_within_4/)
 <!-- BLOG-POST-LIST:END -->
