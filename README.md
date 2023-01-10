@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Demo] YouTube Mentions Tracker](https://www.reddit.com/r/Python/comments/1089c7e/demo_youtube_mentions_tracker/)
 - [Advise for engineers wanting to &#39;make it&#39;](https://www.reddit.com/r/Python/comments/1088l4o/advise_for_engineers_wanting_to_make_it/)
 - [Question about creating models in Django](https://www.reddit.com/r/Python/comments/10884z3/question_about_creating_models_in_django/)
 - [labelimg error !!!](https://www.reddit.com/r/Python/comments/1087yr0/labelimg_error/)
 - [Convert an input image with circle packing](https://www.reddit.com/r/Python/comments/10873zu/convert_an_input_image_with_circle_packing/)
-- [Python Financial app : a rather philosophical question ..](https://www.reddit.com/r/Python/comments/1086udw/python_financial_app_a_rather_philosophical/)
 <!-- BLOG-POST-LIST:END -->
