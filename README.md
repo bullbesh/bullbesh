@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [stdin query](https://www.reddit.com/r/Python/comments/108i51a/stdin_query/)
-- [i write youtube downloader](https://www.reddit.com/r/Python/comments/108i4y1/i_write_youtube_downloader/)
-- [Is there any famous programmer who started programming late?](https://www.reddit.com/r/Python/comments/108harm/is_there_any_famous_programmer_who_started/)
-- [Scrape launches from SpaceX website with Beautifulsoup and Python](https://www.reddit.com/r/Python/comments/108gmkt/scrape_launches_from_spacex_website_with/)
-- [Curtains: my GUI tool to hide windows from screensharing](https://www.reddit.com/r/Python/comments/108fs42/curtains_my_gui_tool_to_hide_windows_from/)
+- [PDF-Rend, pdf manager tools](https://www.reddit.com/r/Python/comments/108jqi0/pdfrend_pdf_manager_tools/)
+- [dgLinker python web client sniffer tools](https://www.reddit.com/r/Python/comments/108jntq/dglinker_python_web_client_sniffer_tools/)
+- [Did pygame just get hacked](https://www.reddit.com/r/Python/comments/108jd7l/did_pygame_just_get_hacked/)
+- [Filtering and Sorting the data in Python &lpar;Refer Excel File&rpar;](https://www.reddit.com/r/Python/comments/108jd0q/filtering_and_sorting_the_data_in_python_refer/)
+- [JetBrains Fleet One Dark Pro theme](https://www.reddit.com/r/Python/comments/108j809/jetbrains_fleet_one_dark_pro_theme/)
 <!-- BLOG-POST-LIST:END -->
