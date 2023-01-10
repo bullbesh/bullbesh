@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to classify audio using deep learning and Tensorflow hub? [project]](https://www.reddit.com/r/Python/comments/108dbfa/how_to_classify_audio_using_deep_learning_and/)
-- [Python courses for risk modeller](https://www.reddit.com/r/Python/comments/108d9en/python_courses_for_risk_modeller/)
-- [Learn From 2022&#39;s Most Popular Python Tutorials and Courses – Real Python](https://www.reddit.com/r/Python/comments/108bccw/learn_from_2022s_most_popular_python_tutorials/)
-- [Starlite development updates January ’23](https://www.reddit.com/r/Python/comments/108aq5b/starlite_development_updates_january_23/)
-- [[Demo] YouTube Mentions Tracker](https://www.reddit.com/r/Python/comments/1089c7e/demo_youtube_mentions_tracker/)
+- [Scrape launches from SpaceX website with Beautifulsoup and Python](https://www.reddit.com/r/Python/comments/108gmkt/scrape_launches_from_spacex_website_with/)
+- [python_module_vs_script](https://www.reddit.com/r/Python/comments/108fug1/python_module_vs_script/)
+- [Curtains: my GUI tool to hide windows from screensharing](https://www.reddit.com/r/Python/comments/108fs42/curtains_my_gui_tool_to_hide_windows_from/)
+- [How to set python to be a controller?](https://www.reddit.com/r/Python/comments/108ffqd/how_to_set_python_to_be_a_controller/)
+- [One thing you wish was done differently in python ?](https://www.reddit.com/r/Python/comments/108fcz9/one_thing_you_wish_was_done_differently_in_python/)
 <!-- BLOG-POST-LIST:END -->
