@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to classify audio using deep learning and Tensorflow hub? [project]](https://www.reddit.com/r/Python/comments/108dbfa/how_to_classify_audio_using_deep_learning_and/)
+- [Python courses for risk modeller](https://www.reddit.com/r/Python/comments/108d9en/python_courses_for_risk_modeller/)
 - [Learn From 2022&#39;s Most Popular Python Tutorials and Courses – Real Python](https://www.reddit.com/r/Python/comments/108bccw/learn_from_2022s_most_popular_python_tutorials/)
 - [Starlite development updates January ’23](https://www.reddit.com/r/Python/comments/108aq5b/starlite_development_updates_january_23/)
 - [[Demo] YouTube Mentions Tracker](https://www.reddit.com/r/Python/comments/1089c7e/demo_youtube_mentions_tracker/)
-- [Convert an input image with circle packing](https://www.reddit.com/r/Python/comments/10873zu/convert_an_input_image_with_circle_packing/)
-- [Python Financial app : a rather philosophical question ..](https://www.reddit.com/r/Python/comments/1086udw/python_financial_app_a_rather_philosophical/)
 <!-- BLOG-POST-LIST:END -->
