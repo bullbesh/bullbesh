@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - g1776/termgame: Terminal-based game engine written in Python](https://www.reddit.com/r/Python/comments/1085aqi/github_g1776termgame_terminalbased_game_engine/)
+- [Analyzing Loan Application Data Using Python | Free Masterclass](https://www.reddit.com/r/Python/comments/10858j1/analyzing_loan_application_data_using_python_free/)
+- [C++/Rust purist writes a &lpar;small&rpar; TUI renderer in Python](https://www.reddit.com/r/Python/comments/1084v32/crust_purist_writes_a_small_tui_renderer_in_python/)
 - [I just released ckit - A CLI utility to manage and run frequently used commands.](https://www.reddit.com/r/Python/comments/10833j1/i_just_released_ckit_a_cli_utility_to_manage_and/)
 - [Data Structures: How Computers Store and Organize Data — The Backbone](https://www.reddit.com/r/Python/comments/1082gfz/data_structures_how_computers_store_and_organize/)
-- [Python Challenge for the New Year &lpar;with Solutions&rpar;](https://www.reddit.com/r/Python/comments/1081cp0/python_challenge_for_the_new_year_with_solutions/)
-- [Do different financial markets influence each other? Can the trend in the price of Bitcoin be predicted? &lpar;Python project&rpar;](https://www.reddit.com/r/Python/comments/1081bqb/do_different_financial_markets_influence_each/)
-- [PCAP is legit or/and has any value?](https://www.reddit.com/r/Python/comments/107zsjo/pcap_is_legit_orand_has_any_value/)
 <!-- BLOG-POST-LIST:END -->
