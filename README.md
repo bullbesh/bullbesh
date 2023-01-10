@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build High-Performance REST APIs with Python](https://www.reddit.com/r/Python/comments/107w5g0/how_to_build_highperformance_rest_apis_with_python/)
+- [Where can I teach younger kids Python while also getting paid?](https://www.reddit.com/r/Python/comments/107v6qb/where_can_i_teach_younger_kids_python_while_also/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/107ukq7/tuesday_daily_thread_advanced_questions/)
 - [Python Tutorial: Simulate the Powerball Lottery Using Python &lpar;Corey Schafer is back!&rpar;](https://www.reddit.com/r/Python/comments/107rksp/python_tutorial_simulate_the_powerball_lottery/)
 - [If there was a python package named Senpy &lpar;like senpai&rpar; what would it do?](https://www.reddit.com/r/Python/comments/107rgxx/if_there_was_a_python_package_named_senpy_like/)
-- [Robyn&#39;s plan for 2023](https://www.reddit.com/r/Python/comments/107rb4g/robyns_plan_for_2023/)
-- [Data Analysis with Strava](https://www.reddit.com/r/Python/comments/107qudm/data_analysis_with_strava/)
-- [New project: mastodon-social-graph](https://www.reddit.com/r/Python/comments/107px1h/new_project_mastodonsocialgraph/)
 <!-- BLOG-POST-LIST:END -->
