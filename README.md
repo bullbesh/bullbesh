@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advise for engineers wanting to &#39;make it&#39;](https://www.reddit.com/r/Python/comments/1088l4o/advise_for_engineers_wanting_to_make_it/)
+- [Question about creating models in Django](https://www.reddit.com/r/Python/comments/10884z3/question_about_creating_models_in_django/)
+- [labelimg error !!!](https://www.reddit.com/r/Python/comments/1087yr0/labelimg_error/)
 - [Convert an input image with circle packing](https://www.reddit.com/r/Python/comments/10873zu/convert_an_input_image_with_circle_packing/)
 - [Python Financial app : a rather philosophical question ..](https://www.reddit.com/r/Python/comments/1086udw/python_financial_app_a_rather_philosophical/)
-- [11 Python Tricks To Show Off Your Advanced Skills](https://www.reddit.com/r/Python/comments/10865aw/11_python_tricks_to_show_off_your_advanced_skills/)
-- [#1 Python Tutorials For Beginners [Hand Written Notes]](https://www.reddit.com/r/Python/comments/1085sad/1_python_tutorials_for_beginners_hand_written/)
-- [GitHub - g1776/termgame: Terminal-based game engine written in Python](https://www.reddit.com/r/Python/comments/1085aqi/github_g1776termgame_terminalbased_game_engine/)
 <!-- BLOG-POST-LIST:END -->
