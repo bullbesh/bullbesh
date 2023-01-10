@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made my variant of the Rock Paper Scissors game going on Twitter a while ago](https://www.reddit.com/r/Python/comments/108mgt8/i_made_my_variant_of_the_rock_paper_scissors_game/)
+- [Matrops Python Package](https://www.reddit.com/r/Python/comments/108lw07/matrops_python_package/)
 - [PEP 703 – Making the Global Interpreter Lock Optional in CPython](https://www.reddit.com/r/Python/comments/108l3mu/pep_703_making_the_global_interpreter_lock/)
 - [How would you do this without a reference object? Am I missing something, like AI skills, or is this another just do your magic job post?](https://www.reddit.com/r/Python/comments/108kwds/how_would_you_do_this_without_a_reference_object/)
 - [How to render plot?](https://www.reddit.com/r/Python/comments/108klcf/how_to_render_plot/)
-- [Some Python tricks that can help you write more efficient and readable code:](https://www.reddit.com/r/Python/comments/108kfta/some_python_tricks_that_can_help_you_write_more/)
-- [I made a wallpaper script with unsplash API](https://www.reddit.com/r/Python/comments/108ju9w/i_made_a_wallpaper_script_with_unsplash_api/)
 <!-- BLOG-POST-LIST:END -->
