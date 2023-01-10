@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [PDF-Rend, pdf manager tools](https://www.reddit.com/r/Python/comments/108jqi0/pdfrend_pdf_manager_tools/)
-- [dgLinker python web client sniffer tools](https://www.reddit.com/r/Python/comments/108jntq/dglinker_python_web_client_sniffer_tools/)
-- [Did pygame just get hacked](https://www.reddit.com/r/Python/comments/108jd7l/did_pygame_just_get_hacked/)
-- [Filtering and Sorting the data in Python &lpar;Refer Excel File&rpar;](https://www.reddit.com/r/Python/comments/108jd0q/filtering_and_sorting_the_data_in_python_refer/)
-- [JetBrains Fleet One Dark Pro theme](https://www.reddit.com/r/Python/comments/108j809/jetbrains_fleet_one_dark_pro_theme/)
+- [PEP 703 – Making the Global Interpreter Lock Optional in CPython](https://www.reddit.com/r/Python/comments/108l3mu/pep_703_making_the_global_interpreter_lock/)
+- [How would you do this without a reference object? Am I missing something, like AI skills, or is this another just do your magic job post?](https://www.reddit.com/r/Python/comments/108kwds/how_would_you_do_this_without_a_reference_object/)
+- [How to render plot?](https://www.reddit.com/r/Python/comments/108klcf/how_to_render_plot/)
+- [Some Python tricks that can help you write more efficient and readable code:](https://www.reddit.com/r/Python/comments/108kfta/some_python_tricks_that_can_help_you_write_more/)
+- [I made a wallpaper script with unsplash API](https://www.reddit.com/r/Python/comments/108ju9w/i_made_a_wallpaper_script_with_unsplash_api/)
 <!-- BLOG-POST-LIST:END -->
