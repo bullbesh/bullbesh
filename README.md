@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [stdin query](https://www.reddit.com/r/Python/comments/108i51a/stdin_query/)
+- [i write youtube downloader](https://www.reddit.com/r/Python/comments/108i4y1/i_write_youtube_downloader/)
+- [Is there any famous programmer who started programming late?](https://www.reddit.com/r/Python/comments/108harm/is_there_any_famous_programmer_who_started/)
 - [Scrape launches from SpaceX website with Beautifulsoup and Python](https://www.reddit.com/r/Python/comments/108gmkt/scrape_launches_from_spacex_website_with/)
-- [python_module_vs_script](https://www.reddit.com/r/Python/comments/108fug1/python_module_vs_script/)
 - [Curtains: my GUI tool to hide windows from screensharing](https://www.reddit.com/r/Python/comments/108fs42/curtains_my_gui_tool_to_hide_windows_from/)
-- [How to set python to be a controller?](https://www.reddit.com/r/Python/comments/108ffqd/how_to_set_python_to_be_a_controller/)
-- [One thing you wish was done differently in python ?](https://www.reddit.com/r/Python/comments/108fcz9/one_thing_you_wish_was_done_differently_in_python/)
 <!-- BLOG-POST-LIST:END -->
