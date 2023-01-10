@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Challenge for the New Year &lpar;with Solutions&rpar;](https://www.reddit.com/r/Python/comments/1081cp0/python_challenge_for_the_new_year_with_solutions/)
+- [Do different financial markets influence each other? Can the trend in the price of Bitcoin be predicted? &lpar;Python project&rpar;](https://www.reddit.com/r/Python/comments/1081bqb/do_different_financial_markets_influence_each/)
 - [PCAP is legit or/and has any value?](https://www.reddit.com/r/Python/comments/107zsjo/pcap_is_legit_orand_has_any_value/)
 - [Python Learning Resources](https://www.reddit.com/r/Python/comments/107y3f1/python_learning_resources/)
 - [Tutorial: Book Recommendation System With OpenAI GPT APIs](https://www.reddit.com/r/Python/comments/107xuuo/tutorial_book_recommendation_system_with_openai/)
-- [Hi everyone, I’m trying to learn python and I heard about exercism io is this good open resource for learning python? I appreciate any valuable recommendations](https://www.reddit.com/r/Python/comments/107xt0w/hi_everyone_im_trying_to_learn_python_and_i_heard/)
-- [A new voice assistant that looks promising](https://www.reddit.com/r/Python/comments/107x8n3/a_new_voice_assistant_that_looks_promising/)
 <!-- BLOG-POST-LIST:END -->
