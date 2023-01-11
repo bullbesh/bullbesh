@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [HPy - A better C API for Python](https://www.reddit.com/r/Python/comments/1091v71/hpy_a_better_c_api_for_python/)
+- [Python is best for beginners :&rpar;](https://www.reddit.com/r/Python/comments/1091qqm/python_is_best_for_beginners/)
 - [Did anyone see this Python framework outperforming Golang Fiber?](https://www.reddit.com/r/Python/comments/10918h6/did_anyone_see_this_python_framework/)
 - [NetworkX 3.0 has been released](https://www.reddit.com/r/Python/comments/108z0iu/networkx_30_has_been_released/)
 - [Using moviepy to scroll text from right to left but the whole text doesn&#39;t last for the duration of the video and gets cut midway](https://www.reddit.com/r/Python/comments/108xj7s/using_moviepy_to_scroll_text_from_right_to_left/)
-- [Python Tutorials for Scientists](https://www.reddit.com/r/Python/comments/108vxcq/python_tutorials_for_scientists/)
-- [Cheap, fast and accurate data labeling strategies](https://www.reddit.com/r/Python/comments/108sjt5/cheap_fast_and_accurate_data_labeling_strategies/)
 <!-- BLOG-POST-LIST:END -->
