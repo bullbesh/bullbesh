@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using moviepy to scroll text from right to left but the whole text doesn&#39;t last for the duration of the video and gets cut midway](https://www.reddit.com/r/Python/comments/108xj7s/using_moviepy_to_scroll_text_from_right_to_left/)
 - [Python Tutorials for Scientists](https://www.reddit.com/r/Python/comments/108vxcq/python_tutorials_for_scientists/)
 - [Cheap, fast and accurate data labeling strategies](https://www.reddit.com/r/Python/comments/108sjt5/cheap_fast_and_accurate_data_labeling_strategies/)
 - [Mapping Python to LLVM](https://www.reddit.com/r/Python/comments/108ra4a/mapping_python_to_llvm/)
 - [Autodedenting docstrings](https://www.reddit.com/r/Python/comments/108pxap/autodedenting_docstrings/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/108phia/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
