@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mapping Python to LLVM](https://www.reddit.com/r/Python/comments/108ra4a/mapping_python_to_llvm/)
+- [Autodedenting docstrings](https://www.reddit.com/r/Python/comments/108pxap/autodedenting_docstrings/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/108phia/wednesday_daily_thread_beginner_questions/)
 - [I &lpar;co-&rpar;wrote a book on how to Scale Python programs using Ray &lpar;for distributed computing&rpar;](https://www.reddit.com/r/Python/comments/108nuvj/i_cowrote_a_book_on_how_to_scale_python_programs/)
 - [I made my variant of the Rock Paper Scissors game going on Twitter a while ago](https://www.reddit.com/r/Python/comments/108mgt8/i_made_my_variant_of_the_rock_paper_scissors_game/)
-- [Matrops Python Package](https://www.reddit.com/r/Python/comments/108lw07/matrops_python_package/)
-- [PEP 703 – Making the Global Interpreter Lock Optional in CPython](https://www.reddit.com/r/Python/comments/108l3mu/pep_703_making_the_global_interpreter_lock/)
-- [How would you do this without a reference object? Am I missing something, like AI skills, or is this another just do your magic job post?](https://www.reddit.com/r/Python/comments/108kwds/how_would_you_do_this_without_a_reference_object/)
 <!-- BLOG-POST-LIST:END -->
