@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cheap, fast and accurate data labeling strategies](https://www.reddit.com/r/Python/comments/108sjt5/cheap_fast_and_accurate_data_labeling_strategies/)
 - [Mapping Python to LLVM](https://www.reddit.com/r/Python/comments/108ra4a/mapping_python_to_llvm/)
 - [Autodedenting docstrings](https://www.reddit.com/r/Python/comments/108pxap/autodedenting_docstrings/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/108phia/wednesday_daily_thread_beginner_questions/)
 - [I &lpar;co-&rpar;wrote a book on how to Scale Python programs using Ray &lpar;for distributed computing&rpar;](https://www.reddit.com/r/Python/comments/108nuvj/i_cowrote_a_book_on_how_to_scale_python_programs/)
-- [I made my variant of the Rock Paper Scissors game going on Twitter a while ago](https://www.reddit.com/r/Python/comments/108mgt8/i_made_my_variant_of_the_rock_paper_scissors_game/)
 <!-- BLOG-POST-LIST:END -->
