@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Tutorials for Scientists](https://www.reddit.com/r/Python/comments/108vxcq/python_tutorials_for_scientists/)
 - [Cheap, fast and accurate data labeling strategies](https://www.reddit.com/r/Python/comments/108sjt5/cheap_fast_and_accurate_data_labeling_strategies/)
 - [Mapping Python to LLVM](https://www.reddit.com/r/Python/comments/108ra4a/mapping_python_to_llvm/)
 - [Autodedenting docstrings](https://www.reddit.com/r/Python/comments/108pxap/autodedenting_docstrings/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/108phia/wednesday_daily_thread_beginner_questions/)
-- [I &lpar;co-&rpar;wrote a book on how to Scale Python programs using Ray &lpar;for distributed computing&rpar;](https://www.reddit.com/r/Python/comments/108nuvj/i_cowrote_a_book_on_how_to_scale_python_programs/)
 <!-- BLOG-POST-LIST:END -->
