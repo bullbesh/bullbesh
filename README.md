@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Overview | NetworkX Guide](https://www.reddit.com/r/Python/comments/10956y4/overview_networkx_guide/)
 - [Easy euclidean algorithm to find gcd Python](https://www.reddit.com/r/Python/comments/10940rc/easy_euclidean_algorithm_to_find_gcd_python/)
 - [deploy one api &lpar;flask/fastapi/sanic/etc&rpar; as many Lambdas, one per endpoint?](https://www.reddit.com/r/Python/comments/1093wwf/deploy_one_api_flaskfastapisanicetc_as_many/)
 - [Why or why not use AWS Lambda instead of a web framework for your REST APIs? &lpar;Business projects&rpar;](https://www.reddit.com/r/Python/comments/1092py3/why_or_why_not_use_aws_lambda_instead_of_a_web/)
 - [HPy - A better C API for Python](https://www.reddit.com/r/Python/comments/1091v71/hpy_a_better_c_api_for_python/)
-- [Did anyone see this Python framework outperforming Golang Fiber?](https://www.reddit.com/r/Python/comments/10918h6/did_anyone_see_this_python_framework/)
 <!-- BLOG-POST-LIST:END -->
