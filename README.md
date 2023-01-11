@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is pygame.org down ?](https://www.reddit.com/r/Python/comments/109iyjf/is_pygameorg_down/)
 - [Conventional Commits with a data prefix](https://www.reddit.com/r/Python/comments/109gfc4/conventional_commits_with_a_data_prefix/)
 - [Data Analysis](https://www.reddit.com/r/Python/comments/109fqlv/data_analysis/)
 - [Language server built using Python and tree-sitter](https://www.reddit.com/r/Python/comments/109emjk/language_server_built_using_python_and_treesitter/)
 - [Best backend for building Python packages](https://www.reddit.com/r/Python/comments/109dj2z/best_backend_for_building_python_packages/)
-- [hey, I&#39;m a newbie in python... can you suggest the best way to begin with free courses and tutorials with notes?](https://www.reddit.com/r/Python/comments/109d4aq/hey_im_a_newbie_in_python_can_you_suggest_the/)
 <!-- BLOG-POST-LIST:END -->
