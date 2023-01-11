@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple guide on creating Text to Image using Stable Diffusion on Local Box with/without GPU](https://www.reddit.com/r/Python/comments/109erg2/simple_guide_on_creating_text_to_image_using/)
+- [Language server built using Python and tree-sitter](https://www.reddit.com/r/Python/comments/109emjk/language_server_built_using_python_and_treesitter/)
+- [Best backend for building Python packages](https://www.reddit.com/r/Python/comments/109dj2z/best_backend_for_building_python_packages/)
 - [hey, I&#39;m a newbie in python... can you suggest the best way to begin with free courses and tutorials with notes?](https://www.reddit.com/r/Python/comments/109d4aq/hey_im_a_newbie_in_python_can_you_suggest_the/)
-- [Python and blockchain?](https://www.reddit.com/r/Python/comments/109cvzp/python_and_blockchain/)
 - [Reduce upto 80% Code with this library. Quick SQL Connector](https://www.reddit.com/r/Python/comments/109babq/reduce_upto_80_code_with_this_library_quick_sql/)
-- [How to list all words starting with a given string? -------- &lpar;e.g.&rpar; all words starting with ABR, or with STRA _________ &lpar;possibly using Pyenchant&rpar;](https://www.reddit.com/r/Python/comments/1099mae/how_to_list_all_words_starting_with_a_given/)
-- [App to practice 500+ free Python challenges from beginner to advanced topics.](https://www.reddit.com/r/Python/comments/1098ju2/app_to_practice_500_free_python_challenges_from/)
 <!-- BLOG-POST-LIST:END -->
