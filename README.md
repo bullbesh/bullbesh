@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - python-xlib/python-xlib: XLib in pure Python &lpar;Py2/Py3 compatible&rpar;](https://www.reddit.com/r/Python/comments/109ugs3/github_pythonxlibpythonxlib_xlib_in_pure_python/)
 - [Updated documentation for ScreenPy which should help you understand Screenplay Pattern, we think, we hope.](https://www.reddit.com/r/Python/comments/109s091/updated_documentation_for_screenpy_which_should/)
 - [Scriptum: A command line utility for storing, documenting, and executing your project&#39;s scripts.](https://www.reddit.com/r/Python/comments/109qxzw/scriptum_a_command_line_utility_for_storing/)
 - [Chronological list of Resources to Learn Django from Complete Beginner to Advanced Level](https://www.reddit.com/r/Python/comments/109px3s/chronological_list_of_resources_to_learn_django/)
 - [Kubespider: A unified downloading orchestration system, implemented with python.](https://www.reddit.com/r/Python/comments/109pwcj/kubespider_a_unified_downloading_orchestration/)
-- [Do you think a product that uses AI &lpar;openAI APIs&rpar; to document your code would be useful?](https://www.reddit.com/r/Python/comments/109owrp/do_you_think_a_product_that_uses_ai_openai_apis/)
 <!-- BLOG-POST-LIST:END -->
