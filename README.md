@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a ChatGPT-like SMS Chatbot with OpenAI and Python](https://www.reddit.com/r/Python/comments/10aasev/build_a_chatgptlike_sms_chatbot_with_openai_and/)
+- [The first Cardano Smart contract written in eopsin/Python compiled and deployed on preprod testnet.](https://www.reddit.com/r/Python/comments/10a9qha/the_first_cardano_smart_contract_written_in/)
 - [coppercube game engine visual scripting system created in python](https://www.reddit.com/r/Python/comments/10a8fe8/coppercube_game_engine_visual_scripting_system/)
-- [Hey](https://www.reddit.com/r/Python/comments/10a88iv/hey/)
+- [Electron and Django](https://www.reddit.com/r/Python/comments/10a7qcy/electron_and_django/)
 - [Train a language model from scratch](https://www.reddit.com/r/Python/comments/10a72bh/train_a_language_model_from_scratch/)
-- [Do you want to easily fetch weather data in Python for your Data Science projects?](https://www.reddit.com/r/Python/comments/10a6dj2/do_you_want_to_easily_fetch_weather_data_in/)
-- [I Created A Cool Web3 &lpar;d&rpar;App For Daily Blockchain Activities](https://www.reddit.com/r/Python/comments/10a46c9/i_created_a_cool_web3_dapp_for_daily_blockchain/)
 <!-- BLOG-POST-LIST:END -->
