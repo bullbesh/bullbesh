@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made an animated video on The Game of Life with Manim &lpar;a Python library by 3b1b&rpar;](https://www.reddit.com/r/Python/comments/109ksi1/i_made_an_animated_video_on_the_game_of_life_with/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/109k9to/thursday_daily_thread_python_careers_courses_and/)
+- [Dancing in Synthwavepunk style](https://www.reddit.com/r/Python/comments/109jw5p/dancing_in_synthwavepunk_style/)
 - [Is pygame.org down ?](https://www.reddit.com/r/Python/comments/109iyjf/is_pygameorg_down/)
 - [Conventional Commits with a data prefix](https://www.reddit.com/r/Python/comments/109gfc4/conventional_commits_with_a_data_prefix/)
-- [Data Analysis](https://www.reddit.com/r/Python/comments/109fqlv/data_analysis/)
-- [Language server built using Python and tree-sitter](https://www.reddit.com/r/Python/comments/109emjk/language_server_built_using_python_and_treesitter/)
-- [Best backend for building Python packages](https://www.reddit.com/r/Python/comments/109dj2z/best_backend_for_building_python_packages/)
 <!-- BLOG-POST-LIST:END -->
