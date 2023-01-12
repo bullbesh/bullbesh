@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Organizing folders using Python and MacOS shortcuts](https://www.reddit.com/r/Python/comments/109zprl/organizing_folders_using_python_and_macos/)
 - [Take the tools out of &#39;Data&#39;, but don&#39;t take the data out of the tools](https://www.reddit.com/r/Python/comments/109vtdk/take_the_tools_out_of_data_but_dont_take_the_data/)
 - [How to detect unwanted licenses in your python project?](https://www.reddit.com/r/Python/comments/109vs1k/how_to_detect_unwanted_licenses_in_your_python/)
 - [Beginner&#39;s book guide to Python programming?](https://www.reddit.com/r/Python/comments/109vnjk/beginners_book_guide_to_python_programming/)
 - [Enforcing fixed time step in FMI++ &lpar;fmipp&rpar;](https://www.reddit.com/r/Python/comments/109ut9w/enforcing_fixed_time_step_in_fmi_fmipp/)
-- [GitHub - python-xlib/python-xlib: XLib in pure Python &lpar;Py2/Py3 compatible&rpar;](https://www.reddit.com/r/Python/comments/109ugs3/github_pythonxlibpythonxlib_xlib_in_pure_python/)
 <!-- BLOG-POST-LIST:END -->
