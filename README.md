@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Chronological list of Resources to Learn Django from Complete Beginner to Advanced Level](https://www.reddit.com/r/Python/comments/109px3s/chronological_list_of_resources_to_learn_django/)
+- [Kubespider: A unified downloading orchestration system, implemented with python.](https://www.reddit.com/r/Python/comments/109pwcj/kubespider_a_unified_downloading_orchestration/)
+- [Do you think a product that uses AI &lpar;openAI APIs&rpar; to document your code would be useful?](https://www.reddit.com/r/Python/comments/109owrp/do_you_think_a_product_that_uses_ai_openai_apis/)
+- [EPOCH ETA](https://www.reddit.com/r/Python/comments/109owge/epoch_eta/)
 - [I made an animated video on The Game of Life with Manim &lpar;a Python library by 3b1b&rpar;](https://www.reddit.com/r/Python/comments/109ksi1/i_made_an_animated_video_on_the_game_of_life_with/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/109k9to/thursday_daily_thread_python_careers_courses_and/)
-- [Dancing in Synthwavepunk style](https://www.reddit.com/r/Python/comments/109jw5p/dancing_in_synthwavepunk_style/)
-- [Is pygame.org down ?](https://www.reddit.com/r/Python/comments/109iyjf/is_pygameorg_down/)
-- [Conventional Commits with a data prefix](https://www.reddit.com/r/Python/comments/109gfc4/conventional_commits_with_a_data_prefix/)
 <!-- BLOG-POST-LIST:END -->
