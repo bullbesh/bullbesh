@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easy-to-Use Python Library to Access BLS Data](https://www.reddit.com/r/Python/comments/10acoss/easytouse_python_library_to_access_bls_data/)
 - [ML-Powered Search with Doug Turnbull &lpar;Shopify&rpar;](https://www.reddit.com/r/Python/comments/10ac3ve/mlpowered_search_with_doug_turnbull_shopify/)
 - [Build a ChatGPT-like SMS Chatbot with OpenAI and Python](https://www.reddit.com/r/Python/comments/10aasev/build_a_chatgptlike_sms_chatbot_with_openai_and/)
 - [The first Cardano Smart contract written in eopsin/Python compiled and deployed on preprod testnet.](https://www.reddit.com/r/Python/comments/10a9qha/the_first_cardano_smart_contract_written_in/)
 - [coppercube game engine visual scripting system created in python](https://www.reddit.com/r/Python/comments/10a8fe8/coppercube_game_engine_visual_scripting_system/)
-- [Electron and Django](https://www.reddit.com/r/Python/comments/10a7qcy/electron_and_django/)
 <!-- BLOG-POST-LIST:END -->
