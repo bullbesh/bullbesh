@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving Django race conditions with select_for_update and optimistic updates](https://www.reddit.com/r/Python/comments/10a30wz/solving_django_race_conditions_with_select_for/)
+- [Building Access Permissions into Your &lpar;Flask&rpar; API](https://www.reddit.com/r/Python/comments/10a30mt/building_access_permissions_into_your_flask_api/)
+- [Why Polars uses less memory than Pandas](https://www.reddit.com/r/Python/comments/10a2tjg/why_polars_uses_less_memory_than_pandas/)
 - [Is it still relevant today to take a Python and Pandas course that was created two years ago?](https://www.reddit.com/r/Python/comments/10a1zir/is_it_still_relevant_today_to_take_a_python_and/)
 - [Storing Functions](https://www.reddit.com/r/Python/comments/10a1oqv/storing_functions/)
-- [what are some great ways to study for Python programming interview questions?](https://www.reddit.com/r/Python/comments/10a1nf9/what_are_some_great_ways_to_study_for_python/)
-- [Mockitup - Convenient DSL around `unittest.mock`](https://www.reddit.com/r/Python/comments/10a1iij/mockitup_convenient_dsl_around_unittestmock/)
-- [atomfeed.py - A single file atom feed library with no dependencies](https://www.reddit.com/r/Python/comments/10a171p/atomfeedpy_a_single_file_atom_feed_library_with/)
 <!-- BLOG-POST-LIST:END -->
