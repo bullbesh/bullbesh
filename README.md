@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Folium: Create Web Maps From Your Data – Real Python](https://www.reddit.com/r/Python/comments/10a0t7w/python_folium_create_web_maps_from_your_data_real/)
-- [How to use ChatGPT on Discord - Python Based - As Quickly As Possible &lpar;Sped Up&rpar;](https://www.reddit.com/r/Python/comments/10a00pf/how_to_use_chatgpt_on_discord_python_based_as/)
-- [Organizing folders using Python and MacOS shortcuts](https://www.reddit.com/r/Python/comments/109zprl/organizing_folders_using_python_and_macos/)
-- [Take the tools out of &#39;Data&#39;, but don&#39;t take the data out of the tools](https://www.reddit.com/r/Python/comments/109vtdk/take_the_tools_out_of_data_but_dont_take_the_data/)
-- [How to detect unwanted licenses in your python project?](https://www.reddit.com/r/Python/comments/109vs1k/how_to_detect_unwanted_licenses_in_your_python/)
+- [Is it still relevant today to take a Python and Pandas course that was created two years ago?](https://www.reddit.com/r/Python/comments/10a1zir/is_it_still_relevant_today_to_take_a_python_and/)
+- [Storing Functions](https://www.reddit.com/r/Python/comments/10a1oqv/storing_functions/)
+- [what are some great ways to study for Python programming interview questions?](https://www.reddit.com/r/Python/comments/10a1nf9/what_are_some_great_ways_to_study_for_python/)
+- [Mockitup - Convenient DSL around `unittest.mock`](https://www.reddit.com/r/Python/comments/10a1iij/mockitup_convenient_dsl_around_unittestmock/)
+- [atomfeed.py - A single file atom feed library with no dependencies](https://www.reddit.com/r/Python/comments/10a171p/atomfeedpy_a_single_file_atom_feed_library_with/)
 <!-- BLOG-POST-LIST:END -->
