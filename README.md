@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Take the tools out of &#39;Data&#39;, but don&#39;t take the data out of the tools](https://www.reddit.com/r/Python/comments/109vtdk/take_the_tools_out_of_data_but_dont_take_the_data/)
+- [How to detect unwanted licenses in your python project?](https://www.reddit.com/r/Python/comments/109vs1k/how_to_detect_unwanted_licenses_in_your_python/)
+- [Beginner&#39;s book guide to Python programming?](https://www.reddit.com/r/Python/comments/109vnjk/beginners_book_guide_to_python_programming/)
 - [Enforcing fixed time step in FMI++ &lpar;fmipp&rpar;](https://www.reddit.com/r/Python/comments/109ut9w/enforcing_fixed_time_step_in_fmi_fmipp/)
 - [GitHub - python-xlib/python-xlib: XLib in pure Python &lpar;Py2/Py3 compatible&rpar;](https://www.reddit.com/r/Python/comments/109ugs3/github_pythonxlibpythonxlib_xlib_in_pure_python/)
-- [Updated documentation for ScreenPy which should help you understand Screenplay Pattern, we think, we hope.](https://www.reddit.com/r/Python/comments/109s091/updated_documentation_for_screenpy_which_should/)
-- [Scriptum: A command line utility for storing, documenting, and executing your project&#39;s scripts.](https://www.reddit.com/r/Python/comments/109qxzw/scriptum_a_command_line_utility_for_storing/)
-- [Chronological list of Resources to Learn Django from Complete Beginner to Advanced Level](https://www.reddit.com/r/Python/comments/109px3s/chronological_list_of_resources_to_learn_django/)
 <!-- BLOG-POST-LIST:END -->
