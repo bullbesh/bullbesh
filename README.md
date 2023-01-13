@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Unofficial Python Library tutorial](https://www.reddit.com/r/Python/comments/10b2oh4/chatgpt_unofficial_python_library_tutorial/)
+- [tempy: render beautiful weather data to your terminal](https://www.reddit.com/r/Python/comments/10b289u/tempy_render_beautiful_weather_data_to_your/)
 - [Researchers from Meta AI released ‘balance,’ a Python Package for Balancing Biased Data Samples](https://www.reddit.com/r/Python/comments/10b1d3i/researchers_from_meta_ai_released_balance_a/)
-- [&quot;Snow fall&quot; and &quot;The Matrix&quot; effects in terminal](https://www.reddit.com/r/Python/comments/10azwpm/snow_fall_and_the_matrix_effects_in_terminal/)
 - [I made Light Config &lpar;LCO&rpar; - a super small package/snippet to load a config once and use it anywhere in your application](https://www.reddit.com/r/Python/comments/10axlc6/i_made_light_config_lco_a_super_small/)
 - [Announcing a stable release of sigstore-python](https://www.reddit.com/r/Python/comments/10awssr/announcing_a_stable_release_of_sigstorepython/)
-- [Build a Python GUI Youtube Downloader Tutorial](https://www.reddit.com/r/Python/comments/10av9bu/build_a_python_gui_youtube_downloader_tutorial/)
 <!-- BLOG-POST-LIST:END -->
