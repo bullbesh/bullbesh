@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python learning. 1 long video vs Multi-parts on YouTube](https://www.reddit.com/r/Python/comments/10ao53v/python_learning_1_long_video_vs_multiparts_on/)
+- [Quantum Machine Learning: A Beginner’s Guide](https://www.reddit.com/r/Python/comments/10anhed/quantum_machine_learning_a_beginners_guide/)
 - [A Cheat Sheet to Machine Learning Algorithms: Types, Applications, and Examples](https://www.reddit.com/r/Python/comments/10amed9/a_cheat_sheet_to_machine_learning_algorithms/)
 - [Analyzing the Chemical Trends of Cannabis Sativa with Python](https://www.reddit.com/r/Python/comments/10ajm1j/analyzing_the_chemical_trends_of_cannabis_sativa/)
 - [Console application that automates participation in giveaways on SteamGifts.com using PHPSESSID](https://www.reddit.com/r/Python/comments/10ah47o/console_application_that_automates_participation/)
-- [Easy-to-Use Python Library to Access BLS Data](https://www.reddit.com/r/Python/comments/10acoss/easytouse_python_library_to_access_bls_data/)
-- [ML-Powered Search with Doug Turnbull &lpar;Shopify&rpar;](https://www.reddit.com/r/Python/comments/10ac3ve/mlpowered_search_with_doug_turnbull_shopify/)
 <!-- BLOG-POST-LIST:END -->
