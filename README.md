@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Researchers from Meta AI released ‘balance,’ a Python Package for Balancing Biased Data Samples](https://www.reddit.com/r/Python/comments/10b1d3i/researchers_from_meta_ai_released_balance_a/)
+- [&quot;Snow fall&quot; and &quot;The Matrix&quot; effects in terminal](https://www.reddit.com/r/Python/comments/10azwpm/snow_fall_and_the_matrix_effects_in_terminal/)
 - [I made Light Config &lpar;LCO&rpar; - a super small package/snippet to load a config once and use it anywhere in your application](https://www.reddit.com/r/Python/comments/10axlc6/i_made_light_config_lco_a_super_small/)
 - [Announcing a stable release of sigstore-python](https://www.reddit.com/r/Python/comments/10awssr/announcing_a_stable_release_of_sigstorepython/)
 - [Build a Python GUI Youtube Downloader Tutorial](https://www.reddit.com/r/Python/comments/10av9bu/build_a_python_gui_youtube_downloader_tutorial/)
-- [10 Tips to Optimize PostgreSQL Queries in Django - w/ Jupyter notebook](https://www.reddit.com/r/Python/comments/10av799/10_tips_to_optimize_postgresql_queries_in_django/)
-- [super lightweight &lpar;only 35 lines&rpar; dependency injection &lpar;ioc&rpar; support for Python](https://www.reddit.com/r/Python/comments/10arciy/super_lightweight_only_35_lines_dependency/)
 <!-- BLOG-POST-LIST:END -->
