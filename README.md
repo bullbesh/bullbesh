@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [100% Off Udemy Course - Machine Learning- From Basics to Advanced](https://www.reddit.com/r/Python/comments/10asyvu/100_off_udemy_course_machine_learning_from_basics/)
-- [100% Off Udemy Course - Python Programming - From Basics to Advanced level [2022]](https://www.reddit.com/r/Python/comments/10asxde/100_off_udemy_course_python_programming_from/)
+- [Build a Python GUI Youtube Downloader Tutorial](https://www.reddit.com/r/Python/comments/10av9bu/build_a_python_gui_youtube_downloader_tutorial/)
+- [10 Tips to Optimize PostgreSQL Queries in Django - w/ Jupyter notebook](https://www.reddit.com/r/Python/comments/10av799/10_tips_to_optimize_postgresql_queries_in_django/)
+- [Vote for Python Online course logo](https://www.reddit.com/r/Python/comments/10av53t/vote_for_python_online_course_logo/)
+- [As per the title, are there any packages in Python or R that automatically fit, Mathematica style, stochastic volatility models like the Heston model to data? Thanks](https://www.reddit.com/r/Python/comments/10aumrr/as_per_the_title_are_there_any_packages_in_python/)
 - [super lightweight &lpar;only 35 lines&rpar; dependency injection &lpar;ioc&rpar; support for Python](https://www.reddit.com/r/Python/comments/10arciy/super_lightweight_only_35_lines_dependency/)
-- [Jupyter Server: A whirlwind tour](https://www.reddit.com/r/Python/comments/10apsq2/jupyter_server_a_whirlwind_tour/)
-- [GitHub - 0ut0flin3/openai-davinci003-python-speech: A Python script to use OpenAI&#39;s text-davinci-003 model using your own voice instead of text, in any language](https://www.reddit.com/r/Python/comments/10apqt2/github_0ut0flin3openaidavinci003pythonspeech_a/)
 <!-- BLOG-POST-LIST:END -->
