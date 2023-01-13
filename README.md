@@ -12,5 +12,5 @@
 - [Announcing a stable release of sigstore-python](https://www.reddit.com/r/Python/comments/10awssr/announcing_a_stable_release_of_sigstorepython/)
 - [Build a Python GUI Youtube Downloader Tutorial](https://www.reddit.com/r/Python/comments/10av9bu/build_a_python_gui_youtube_downloader_tutorial/)
 - [10 Tips to Optimize PostgreSQL Queries in Django - w/ Jupyter notebook](https://www.reddit.com/r/Python/comments/10av799/10_tips_to_optimize_postgresql_queries_in_django/)
-- [Vote for Python Online course logo](https://www.reddit.com/r/Python/comments/10av53t/vote_for_python_online_course_logo/)
+- [super lightweight &lpar;only 35 lines&rpar; dependency injection &lpar;ioc&rpar; support for Python](https://www.reddit.com/r/Python/comments/10arciy/super_lightweight_only_35_lines_dependency/)
 <!-- BLOG-POST-LIST:END -->
