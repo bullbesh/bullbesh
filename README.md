@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jupyter Server: A whirlwind tour](https://www.reddit.com/r/Python/comments/10apsq2/jupyter_server_a_whirlwind_tour/)
+- [GitHub - 0ut0flin3/openai-davinci003-python-speech: A Python script to use OpenAI&#39;s text-davinci-003 model using your own voice instead of text, in any language](https://www.reddit.com/r/Python/comments/10apqt2/github_0ut0flin3openaidavinci003pythonspeech_a/)
 - [Python learning. 1 long video vs Multi-parts on YouTube](https://www.reddit.com/r/Python/comments/10ao53v/python_learning_1_long_video_vs_multiparts_on/)
 - [Quantum Machine Learning: A Beginner’s Guide](https://www.reddit.com/r/Python/comments/10anhed/quantum_machine_learning_a_beginners_guide/)
 - [A Cheat Sheet to Machine Learning Algorithms: Types, Applications, and Examples](https://www.reddit.com/r/Python/comments/10amed9/a_cheat_sheet_to_machine_learning_algorithms/)
-- [Analyzing the Chemical Trends of Cannabis Sativa with Python](https://www.reddit.com/r/Python/comments/10ajm1j/analyzing_the_chemical_trends_of_cannabis_sativa/)
-- [Console application that automates participation in giveaways on SteamGifts.com using PHPSESSID](https://www.reddit.com/r/Python/comments/10ah47o/console_application_that_automates_participation/)
 <!-- BLOG-POST-LIST:END -->
