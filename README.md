@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Extracting the last value from a column](https://www.reddit.com/r/Python/comments/10bzio4/extracting_the_last_value_from_a_column/)
+- [How To Build Command Line Programs In Python](https://www.reddit.com/r/Python/comments/10c02xa/how_to_build_command_line_programs_in_python/)
 - [What Python library do you wish existed?](https://www.reddit.com/r/Python/comments/10byj5d/what_python_library_do_you_wish_existed/)
 - [Flask-like library for discord.py](https://www.reddit.com/r/Python/comments/10by81u/flasklike_library_for_discordpy/)
 - [What are people using to organize virtual environments these days?](https://www.reddit.com/r/Python/comments/10bxkjp/what_are_people_using_to_organize_virtual/)
