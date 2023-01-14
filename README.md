@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT is coming for python devs](https://www.reddit.com/r/Python/comments/10bcjhy/chatgpt_is_coming_for_python_devs/)
+- [I want to create a website which uses worpress as the front end or flask/django as backend; the website will be taking in user data from another website &lpar;after user has logged in through OAuth&rpar; and organizing it in a more appealling/user friendly way, is wordpress and flask/django the smart decision](https://www.reddit.com/r/Python/comments/10bc81u/i_want_to_create_a_website_which_uses_worpress_as/)
 - [[beetrace]Trace your python process line by line with low overhead!](https://www.reddit.com/r/Python/comments/10bakal/beetracetrace_your_python_process_line_by_line/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/10b9r0f/saturday_daily_thread_resource_request_and/)
 - [Making Your Application Behave](https://www.reddit.com/r/Python/comments/10b999z/making_your_application_behave/)
-- [Is there an equivalent of npmtrends.com but for python packages?](https://www.reddit.com/r/Python/comments/10b75mh/is_there_an_equivalent_of_npmtrendscom_but_for/)
-- [Python bindings for RocksDB and LevelDB](https://www.reddit.com/r/Python/comments/10b4n3v/python_bindings_for_rocksdb_and_leveldb/)
 <!-- BLOG-POST-LIST:END -->
