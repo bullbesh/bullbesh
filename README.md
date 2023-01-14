@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [LEARN PYTHON &lpar;1 - 20&rpar;](https://www.reddit.com/r/Python/comments/10biyzo/learn_python_1_20/)
+- [Solution to if Challenge](https://www.reddit.com/r/Python/comments/10biyk1/solution_to_if_challenge/)
+- [ChatGPT-Desktop-Webview GUI app.](https://www.reddit.com/r/Python/comments/10bijtd/chatgptdesktopwebview_gui_app/)
 - [Quantum Deep Learning: The Next Frontier in Machine Learning](https://www.reddit.com/r/Python/comments/10bh4eg/quantum_deep_learning_the_next_frontier_in/)
-- [Classes vs projects](https://www.reddit.com/r/Python/comments/10bgnkg/classes_vs_projects/)
 - [I am the thinking of getting certified in python and is the PCEP certification a good way to get certified in python?](https://www.reddit.com/r/Python/comments/10bfmlj/i_am_the_thinking_of_getting_certified_in_python/)
-- [CNAME vs AWS Route 53 Alias](https://www.reddit.com/r/Python/comments/10bek94/cname_vs_aws_route_53_alias/)
-- [I wanted to ask what are some pros and cons of tkinter and PyQt5](https://www.reddit.com/r/Python/comments/10be5yp/i_wanted_to_ask_what_are_some_pros_and_cons_of/)
 <!-- BLOG-POST-LIST:END -->
