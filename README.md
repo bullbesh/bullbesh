@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Python Interview Questions for Senior Developers](https://www.reddit.com/r/Python/comments/10bow2a/10_python_interview_questions_for_senior/)
 - [Vrin](https://www.reddit.com/r/Python/comments/10bo2rv/vrin/)
 - [Matrix Rain, Screen Transitions and Palette Explorations · Discussion #1510 · Textualize/textual](https://www.reddit.com/r/Python/comments/10bna4z/matrix_rain_screen_transitions_and_palette/)
 - [What courses &lpar;online&rpar; or programs that are relevant in the USA to get a job in the it can you recommend to me?](https://www.reddit.com/r/Python/comments/10bn48k/what_courses_online_or_programs_that_are_relevant/)
 - [YOLO v8 Object Detection](https://www.reddit.com/r/Python/comments/10blwa0/yolo_v8_object_detection/)
-- [Deep-timeit: Break down your functions line by line to find the bottlenecks!](https://www.reddit.com/r/Python/comments/10bluo9/deeptimeit_break_down_your_functions_line_by_line/)
 <!-- BLOG-POST-LIST:END -->
