@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am the thinking of getting certified in python and is the PCEP certification a good way to get certified in python?](https://www.reddit.com/r/Python/comments/10bfmlj/i_am_the_thinking_of_getting_certified_in_python/)
 - [CNAME vs AWS Route 53 Alias](https://www.reddit.com/r/Python/comments/10bek94/cname_vs_aws_route_53_alias/)
 - [I wanted to ask what are some pros and cons of tkinter and PyQt5](https://www.reddit.com/r/Python/comments/10be5yp/i_wanted_to_ask_what_are_some_pros_and_cons_of/)
 - [ChatGPT is coming for python devs](https://www.reddit.com/r/Python/comments/10bcjhy/chatgpt_is_coming_for_python_devs/)
 - [I want to create a website which uses worpress as the front end or flask/django as backend; the website will be taking in user data from another website &lpar;after user has logged in through OAuth&rpar; and organizing it in a more appealling/user friendly way, is wordpress and flask/django the smart decision](https://www.reddit.com/r/Python/comments/10bc81u/i_want_to_create_a_website_which_uses_worpress_as/)
-- [[beetrace]Trace your python process line by line with low overhead!](https://www.reddit.com/r/Python/comments/10bakal/beetracetrace_your_python_process_line_by_line/)
 <!-- BLOG-POST-LIST:END -->
