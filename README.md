@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Quickly Deploy A Machine Learning API On AWS EC2 Using BentoML](https://www.reddit.com/r/Python/comments/10bl03i/quickly_deploy_a_machine_learning_api_on_aws_ec2/)
 - [LEARN PYTHON &lpar;1 - 20&rpar;](https://www.reddit.com/r/Python/comments/10biyzo/learn_python_1_20/)
 - [Solution to if Challenge](https://www.reddit.com/r/Python/comments/10biyk1/solution_to_if_challenge/)
 - [ChatGPT-Desktop-Webview GUI app.](https://www.reddit.com/r/Python/comments/10bijtd/chatgptdesktopwebview_gui_app/)
 - [Quantum Deep Learning: The Next Frontier in Machine Learning](https://www.reddit.com/r/Python/comments/10bh4eg/quantum_deep_learning_the_next_frontier_in/)
-- [I am the thinking of getting certified in python and is the PCEP certification a good way to get certified in python?](https://www.reddit.com/r/Python/comments/10bfmlj/i_am_the_thinking_of_getting_certified_in_python/)
 <!-- BLOG-POST-LIST:END -->
