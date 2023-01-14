@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Matrix Rain, Screen Transitions and Palette Explorations · Discussion #1510 · Textualize/textual](https://www.reddit.com/r/Python/comments/10bna4z/matrix_rain_screen_transitions_and_palette/)
+- [What courses &lpar;online&rpar; or programs that are relevant in the USA to get a job in the it can you recommend to me?](https://www.reddit.com/r/Python/comments/10bn48k/what_courses_online_or_programs_that_are_relevant/)
 - [YOLO v8 Object Detection](https://www.reddit.com/r/Python/comments/10blwa0/yolo_v8_object_detection/)
 - [Deep-timeit: Break down your functions line by line to find the bottlenecks!](https://www.reddit.com/r/Python/comments/10bluo9/deeptimeit_break_down_your_functions_line_by_line/)
 - [Quickly Deploy A Machine Learning API On AWS EC2 Using BentoML](https://www.reddit.com/r/Python/comments/10bl03i/quickly_deploy_a_machine_learning_api_on_aws_ec2/)
-- [LEARN PYTHON &lpar;1 - 20&rpar;](https://www.reddit.com/r/Python/comments/10biyzo/learn_python_1_20/)
-- [Solution to if Challenge](https://www.reddit.com/r/Python/comments/10biyk1/solution_to_if_challenge/)
 <!-- BLOG-POST-LIST:END -->
