@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Extracting the last value from a column](https://www.reddit.com/r/Python/comments/10bzio4/extracting_the_last_value_from_a_column/)
+- [What Python library do you wish existed?](https://www.reddit.com/r/Python/comments/10byj5d/what_python_library_do_you_wish_existed/)
+- [Flask-like library for discord.py](https://www.reddit.com/r/Python/comments/10by81u/flasklike_library_for_discordpy/)
 - [What are people using to organize virtual environments these days?](https://www.reddit.com/r/Python/comments/10bxkjp/what_are_people_using_to_organize_virtual/)
 - [Create an email newsletter from an RSS feed with Python, Sqlite, and Modal](https://www.reddit.com/r/Python/comments/10bwgwo/create_an_email_newsletter_from_an_rss_feed_with/)
-- [&#39;balance&#39;: an open-source Python package for adjusting biased samples &lpar;from Meta&rpar;](https://www.reddit.com/r/Python/comments/10bvk6z/balance_an_opensource_python_package_for/)
-- [I made a website where users can share and review different programming materials based on their usefulness to simplify internet browsing and learning for other users](https://www.reddit.com/r/Python/comments/10bs9sb/i_made_a_website_where_users_can_share_and_review/)
-- [RecoverPy 2.0.0: Recover deleted or overwritten files from your terminal](https://www.reddit.com/r/Python/comments/10br02x/recoverpy_200_recover_deleted_or_overwritten/)
 <!-- BLOG-POST-LIST:END -->
