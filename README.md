@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project - Computational MAth EXamples on github](https://www.reddit.com/r/Python/comments/10cjzdz/project_computational_math_examples_on_github/)
 - [Discord Bot pretending to be human using Chat GPT](https://www.reddit.com/r/Python/comments/10cjm62/discord_bot_pretending_to_be_human_using_chat_gpt/)
-- [https://www.fiverr.com/share/RQaPm2](https://www.reddit.com/r/Python/comments/10ciw3v/httpswwwfiverrcomsharerqapm2/)
 - [Activities to keep in touch with python programming](https://www.reddit.com/r/Python/comments/10chz9y/activities_to_keep_in_touch_with_python/)
 - [Internal Audit Department Software](https://www.reddit.com/r/Python/comments/10chimm/internal_audit_department_software/)
 - [P2PD: Improving async networking in Python](https://www.reddit.com/r/Python/comments/10cgsvx/p2pd_improving_async_networking_in_python/)
