@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tips to get more work done via python code](https://www.reddit.com/r/Python/comments/10cqfc5/tips_to_get_more_work_done_via_python_code/)
 - [New python graphics library !](https://www.reddit.com/r/Python/comments/10cos5v/new_python_graphics_library/)
 - [How to improve Python packaging, or why fourteen tools are at least twelve too many](https://www.reddit.com/r/Python/comments/10cnx5i/how_to_improve_python_packaging_or_why_fourteen/)
 - [Analyzing Wireshark Package with Python](https://www.reddit.com/r/Python/comments/10cmque/analyzing_wireshark_package_with_python/)
 - [Introducing my-package: A powerful and easy-to-use json database tool](https://www.reddit.com/r/Python/comments/10cmb94/introducing_mypackage_a_powerful_and_easytouse/)
-- [Supply Chain Attack Using Identical PyPI Packages, “colorslib”, “httpslib”, and “libhttps” | FortiGuard Labs](https://www.reddit.com/r/Python/comments/10cm2yo/supply_chain_attack_using_identical_pypi_packages/)
 <!-- BLOG-POST-LIST:END -->
