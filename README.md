@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [P2PD: Improving async networking in Python](https://www.reddit.com/r/Python/comments/10cgsvx/p2pd_improving_async_networking_in_python/)
+- [I would need to program a raspberry pi. What python learning resouce is relevant in my case?](https://www.reddit.com/r/Python/comments/10cggrx/i_would_need_to_program_a_raspberry_pi_what/)
 - [How to Create a Face Recognition Using Python](https://www.reddit.com/r/Python/comments/10ccwe2/how_to_create_a_face_recognition_using_python/)
 - [Yellowpage scraper powered by Python](https://www.reddit.com/r/Python/comments/10cc17r/yellowpage_scraper_powered_by_python/)
 - [Check out AWESOME PANEL SHARING - An easy to use sharing service for Panel data apps](https://www.reddit.com/r/Python/comments/10cbt17/check_out_awesome_panel_sharing_an_easy_to_use/)
-- [I&#39;ve updated the README of Panel. Let me know what you think. Thanks.](https://www.reddit.com/r/Python/comments/10cbmkk/ive_updated_the_readme_of_panel_let_me_know_what/)
-- [How to parallelize integration tests?](https://www.reddit.com/r/Python/comments/10cbjg7/how_to_parallelize_integration_tests/)
 <!-- BLOG-POST-LIST:END -->
