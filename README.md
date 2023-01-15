@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m running a fully automated YouTube channel on my Raspberry Pi using Python - it posts every 2 hours](https://www.reddit.com/r/Python/comments/10csntr/im_running_a_fully_automated_youtube_channel_on/)
+- [A new ML Monitoring platform. Stars help a lot 🤟](https://www.reddit.com/r/Python/comments/10csbut/a_new_ml_monitoring_platform_stars_help_a_lot/)
 - [Developing Code That Performs Internet Speed Tests with Python](https://www.reddit.com/r/Python/comments/10cri68/developing_code_that_performs_internet_speed/)
 - [Tips to get more work done via python code](https://www.reddit.com/r/Python/comments/10cqfc5/tips_to_get_more_work_done_via_python_code/)
 - [New python graphics library !](https://www.reddit.com/r/Python/comments/10cos5v/new_python_graphics_library/)
-- [How to improve Python packaging, or why fourteen tools are at least twelve too many](https://www.reddit.com/r/Python/comments/10cnx5i/how_to_improve_python_packaging_or_why_fourteen/)
-- [Analyzing Wireshark Package with Python](https://www.reddit.com/r/Python/comments/10cmque/analyzing_wireshark_package_with_python/)
 <!-- BLOG-POST-LIST:END -->
