@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Regular Expressions in Python](https://www.reddit.com/r/Python/comments/10cieu4/mastering_regular_expressions_in_python/)
+- [Activities to keep in touch with python programming](https://www.reddit.com/r/Python/comments/10chz9y/activities_to_keep_in_touch_with_python/)
+- [Creating Videos, Tutorials and other Resources for Starlite](https://www.reddit.com/r/Python/comments/10chipi/creating_videos_tutorials_and_other_resources_for/)
+- [Internal Audit Department Software](https://www.reddit.com/r/Python/comments/10chimm/internal_audit_department_software/)
 - [P2PD: Improving async networking in Python](https://www.reddit.com/r/Python/comments/10cgsvx/p2pd_improving_async_networking_in_python/)
-- [I would need to program a raspberry pi. What python learning resouce is relevant in my case?](https://www.reddit.com/r/Python/comments/10cggrx/i_would_need_to_program_a_raspberry_pi_what/)
-- [How to Create a Face Recognition Using Python](https://www.reddit.com/r/Python/comments/10ccwe2/how_to_create_a_face_recognition_using_python/)
-- [Yellowpage scraper powered by Python](https://www.reddit.com/r/Python/comments/10cc17r/yellowpage_scraper_powered_by_python/)
-- [Check out AWESOME PANEL SHARING - An easy to use sharing service for Panel data apps](https://www.reddit.com/r/Python/comments/10cbt17/check_out_awesome_panel_sharing_an_easy_to_use/)
 <!-- BLOG-POST-LIST:END -->
