@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing Wireshark Package with Python](https://www.reddit.com/r/Python/comments/10cmque/analyzing_wireshark_package_with_python/)
+- [Introducing my-package: A powerful and easy-to-use json database tool](https://www.reddit.com/r/Python/comments/10cmb94/introducing_mypackage_a_powerful_and_easytouse/)
 - [Supply Chain Attack Using Identical PyPI Packages, “colorslib”, “httpslib”, and “libhttps” | FortiGuard Labs](https://www.reddit.com/r/Python/comments/10cm2yo/supply_chain_attack_using_identical_pypi_packages/)
 - [How to get user IP location using python-](https://www.reddit.com/r/Python/comments/10cle8w/how_to_get_user_ip_location_using_python/)
 - [Project - Computational MAth EXamples on github](https://www.reddit.com/r/Python/comments/10cjzdz/project_computational_math_examples_on_github/)
-- [Discord Bot pretending to be human using Chat GPT](https://www.reddit.com/r/Python/comments/10cjm62/discord_bot_pretending_to_be_human_using_chat_gpt/)
-- [Activities to keep in touch with python programming](https://www.reddit.com/r/Python/comments/10chz9y/activities_to_keep_in_touch_with_python/)
 <!-- BLOG-POST-LIST:END -->
