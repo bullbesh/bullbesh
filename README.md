@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python: What,Why and the Future - AI and ML](https://www.reddit.com/r/Python/comments/10c8if1/python_whatwhy_and_the_future_ai_and_ml/)
 - [New Project: Call Untrusted Python Code from Python inside a Web Assembly “Sandbox”](https://www.reddit.com/r/Python/comments/10c5ggi/new_project_call_untrusted_python_code_from/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/10c4t91/sunday_daily_thread_whats_everyone_working_on/)
 - [Total beginner - Could Python be interesting for sales?](https://www.reddit.com/r/Python/comments/10c4o15/total_beginner_could_python_be_interesting_for/)
 - [&lpar;Maybe&rpar; Everything You&#39;ll Ever Need to Know about Python Imports and Project Structure](https://www.reddit.com/r/Python/comments/10c49jo/maybe_everything_youll_ever_need_to_know_about/)
-- [How To Build Command Line Programs In Python](https://www.reddit.com/r/Python/comments/10c02xa/how_to_build_command_line_programs_in_python/)
 <!-- BLOG-POST-LIST:END -->
