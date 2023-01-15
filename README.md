@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Regular Expressions in Python](https://www.reddit.com/r/Python/comments/10cieu4/mastering_regular_expressions_in_python/)
+- [Discord Bot pretending to be human using Chat GPT](https://www.reddit.com/r/Python/comments/10cjm62/discord_bot_pretending_to_be_human_using_chat_gpt/)
+- [https://www.fiverr.com/share/RQaPm2](https://www.reddit.com/r/Python/comments/10ciw3v/httpswwwfiverrcomsharerqapm2/)
 - [Activities to keep in touch with python programming](https://www.reddit.com/r/Python/comments/10chz9y/activities_to_keep_in_touch_with_python/)
-- [Creating Videos, Tutorials and other Resources for Starlite](https://www.reddit.com/r/Python/comments/10chipi/creating_videos_tutorials_and_other_resources_for/)
 - [Internal Audit Department Software](https://www.reddit.com/r/Python/comments/10chimm/internal_audit_department_software/)
 - [P2PD: Improving async networking in Python](https://www.reddit.com/r/Python/comments/10cgsvx/p2pd_improving_async_networking_in_python/)
 <!-- BLOG-POST-LIST:END -->
