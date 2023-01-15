@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Face Recognition Using Python](https://www.reddit.com/r/Python/comments/10ccwe2/how_to_create_a_face_recognition_using_python/)
 - [Yellowpage scraper powered by Python](https://www.reddit.com/r/Python/comments/10cc17r/yellowpage_scraper_powered_by_python/)
 - [Check out AWESOME PANEL SHARING - An easy to use sharing service for Panel data apps](https://www.reddit.com/r/Python/comments/10cbt17/check_out_awesome_panel_sharing_an_easy_to_use/)
 - [I&#39;ve updated the README of Panel. Let me know what you think. Thanks.](https://www.reddit.com/r/Python/comments/10cbmkk/ive_updated_the_readme_of_panel_let_me_know_what/)
 - [How to parallelize integration tests?](https://www.reddit.com/r/Python/comments/10cbjg7/how_to_parallelize_integration_tests/)
-- [Python: What,Why and the Future - AI and ML](https://www.reddit.com/r/Python/comments/10c8if1/python_whatwhy_and_the_future_ai_and_ml/)
 <!-- BLOG-POST-LIST:END -->
