@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python contest worth 50 Euros](https://www.reddit.com/r/Python/comments/10droer/python_contest_worth_50_euros/)
 - [Undervalued Crypto Finder Project in Python](https://www.reddit.com/r/Python/comments/10doylo/undervalued_crypto_finder_project_in_python/)
 - [Podcasts and doing projects for Python and](https://www.reddit.com/r/Python/comments/10doshf/podcasts_and_doing_projects_for_python_and/)
 - [UCLA Researcher Develops a Python Library Called ClimateLearn for Accessing State-of-the-Art Climate Data and Machine Learning Models in a Standardized and Straightforward Way](https://www.reddit.com/r/Python/comments/10dmcf6/ucla_researcher_develops_a_python_library_called/)
 - [Python Structure and DSA question, Geeks for Geeks Problem](https://www.reddit.com/r/Python/comments/10djvtu/python_structure_and_dsa_question_geeks_for_geeks/)
-- [Microblogging on the Blockchain &lpar;Django + Algorand&rpar;](https://www.reddit.com/r/Python/comments/10dj3v7/microblogging_on_the_blockchain_django_algorand/)
 <!-- BLOG-POST-LIST:END -->
