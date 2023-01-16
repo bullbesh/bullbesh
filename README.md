@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Compclasses: prefer composition over inheritance](https://www.reddit.com/r/Python/comments/10deaff/compclasses_prefer_composition_over_inheritance/)
+- [New async networking lib with P2P support](https://www.reddit.com/r/Python/comments/10ddpe4/new_async_networking_lib_with_p2p_support/)
 - [Lyrid: New Actor Model Framework for complex parallel programming](https://www.reddit.com/r/Python/comments/10dcmpr/lyrid_new_actor_model_framework_for_complex/)
 - [How Python 3.11 became so fast!!!](https://www.reddit.com/r/Python/comments/10dcjxx/how_python_311_became_so_fast/)
 - [Instagram Profile Photos Downloader](https://www.reddit.com/r/Python/comments/10dbx4a/instagram_profile_photos_downloader/)
-- [I made a web extension that lets you preview content of a links on hover for google. Currently works in chromium browsers. Using flask backend to bypass Cors](https://www.reddit.com/r/Python/comments/10daxxd/i_made_a_web_extension_that_lets_you_preview/)
-- [How Nvidia’s CUDA Monopoly In Machine Learning Is Breaking - OpenAI Triton And PyTorch 2.0](https://www.reddit.com/r/Python/comments/10damug/how_nvidias_cuda_monopoly_in_machine_learning_is/)
 <!-- BLOG-POST-LIST:END -->
