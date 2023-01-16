@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Python Books for beginners to advanced to read](https://www.reddit.com/r/Python/comments/10d1prx/best_python_books_for_beginners_to_advanced_to/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/10cz8rg/monday_daily_thread_project_ideas/)
 - [How to avoid precision loss of Rotated Bent Cigar &amp; Rotated Schaffers F7 when running Scipy&#39;s bfgs for CEC2013 benchmark functions with 30 dimensions?](https://www.reddit.com/r/Python/comments/10cycww/how_to_avoid_precision_loss_of_rotated_bent_cigar/)
-- [9 IPython Magic Commands That Make Your Programming Easier](https://www.reddit.com/r/Python/comments/10cx7m7/9_ipython_magic_commands_that_make_your/)
 - [[Source Code] Python Desktop Finder App In PySide6 &amp; PyQt5](https://www.reddit.com/r/Python/comments/10cwmz1/source_code_python_desktop_finder_app_in_pyside6/)
 - [Focus group for learning, practicing, improving.](https://www.reddit.com/r/Python/comments/10cum1o/focus_group_for_learning_practicing_improving/)
 <!-- BLOG-POST-LIST:END -->
