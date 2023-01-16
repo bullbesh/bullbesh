@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to improve Python packaging, or why fourteen tools are at least twelve too many](https://www.reddit.com/r/Python/comments/10dinss/how_to_improve_python_packaging_or_why_fourteen/)
 - [Understanding Python generators for scraping and automation](https://www.reddit.com/r/Python/comments/10dewe9/understanding_python_generators_for_scraping_and/)
 - [Compclasses: prefer composition over inheritance](https://www.reddit.com/r/Python/comments/10deaff/compclasses_prefer_composition_over_inheritance/)
 - [New async networking lib with P2P support](https://www.reddit.com/r/Python/comments/10ddpe4/new_async_networking_lib_with_p2p_support/)
 - [Lyrid: New Actor Model Framework for complex parallel programming](https://www.reddit.com/r/Python/comments/10dcmpr/lyrid_new_actor_model_framework_for_complex/)
-- [How Python 3.11 became so fast!!!](https://www.reddit.com/r/Python/comments/10dcjxx/how_python_311_became_so_fast/)
 <!-- BLOG-POST-LIST:END -->
