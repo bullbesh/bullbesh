@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How can I replicate the behavior of Python&#39;s sorted built-in function in C#?](https://www.reddit.com/r/Python/comments/10e4yk8/how_can_i_replicate_the_behavior_of_pythons/)
+- [i am 16 years old and I need help in expanding my knowledge](https://www.reddit.com/r/Python/comments/10e4bgo/i_am_16_years_old_and_i_need_help_in_expanding_my/)
+- [Robyn: a fast and extensible async Python web server with a Rust runtime](https://www.reddit.com/r/Python/comments/10e419m/robyn_a_fast_and_extensible_async_python_web/)
 - [Analyzing Loan Application Data Using Python | Free Masterclass](https://www.reddit.com/r/Python/comments/10e3nft/analyzing_loan_application_data_using_python_free/)
 - [Best/recommended road map for python beginner?? already met with the basics and now don&#39;t know what to start and where to start, just started python for job opportunities and now feeling energetic learning it but don&#39;t know what to do next](https://www.reddit.com/r/Python/comments/10e39zq/bestrecommended_road_map_for_python_beginner/)
-- [Using Temporal with Python](https://www.reddit.com/r/Python/comments/10e39cy/using_temporal_with_python/)
-- [An open source Python project CI pipeline](https://www.reddit.com/r/Python/comments/10e38v0/an_open_source_python_project_ci_pipeline/)
-- [This is my first complete project,the game 2048 with one or two hover effects.Any advice and feedback is appreciated very much. Thanks](https://www.reddit.com/r/Python/comments/10e20j1/this_is_my_first_complete_projectthe_game_2048/)
 <!-- BLOG-POST-LIST:END -->
