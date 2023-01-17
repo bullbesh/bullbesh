@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Catching errors in Python](https://www.reddit.com/r/Python/comments/10eirsl/catching_errors_in_python/)
+- [How to skip useless iteration if some condition](https://www.reddit.com/r/Python/comments/10ei9e7/how_to_skip_useless_iteration_if_some_condition/)
 - [Boost Your Python Application Performance Using Continuous Profiling](https://www.reddit.com/r/Python/comments/10egvm8/boost_your_python_application_performance_using/)
 - [n00b here](https://www.reddit.com/r/Python/comments/10efnd1/n00b_here/)
 - [Unlocking the Potential of ChatGPT: A Community Discussion](https://www.reddit.com/r/Python/comments/10eeqbo/unlocking_the_potential_of_chatgpt_a_community/)
-- [Numpy tutorial](https://www.reddit.com/r/Python/comments/10eekmj/numpy_tutorial/)
-- [asynchrony: asyncio Python framework for writing safe and fast concurrent code](https://www.reddit.com/r/Python/comments/10eedhq/asynchrony_asyncio_python_framework_for_writing/)
 <!-- BLOG-POST-LIST:END -->
