@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anyone used ChatGPT in their projects?](https://www.reddit.com/r/Python/comments/10em1hk/anyone_used_chatgpt_in_their_projects/)
+- [Using PyArrow with Pandas - Arrow Tables and Parquet Files explored](https://www.reddit.com/r/Python/comments/10el34b/using_pyarrow_with_pandas_arrow_tables_and/)
+- [What are the best IDEs for Python?](https://www.reddit.com/r/Python/comments/10ekmyl/what_are_the_best_ides_for_python/)
 - [Build Rich GUI Apps In Python With Aid From Delphi](https://www.reddit.com/r/Python/comments/10ejy21/build_rich_gui_apps_in_python_with_aid_from_delphi/)
 - [Create Your OWN Programming Language! EP 2 - Token Types](https://www.reddit.com/r/Python/comments/10ejwix/create_your_own_programming_language_ep_2_token/)
-- [How to skip useless iteration if some condition](https://www.reddit.com/r/Python/comments/10ei9e7/how_to_skip_useless_iteration_if_some_condition/)
-- [Boost Your Python Application Performance Using Continuous Profiling](https://www.reddit.com/r/Python/comments/10egvm8/boost_your_python_application_performance_using/)
-- [n00b here](https://www.reddit.com/r/Python/comments/10efnd1/n00b_here/)
 <!-- BLOG-POST-LIST:END -->
