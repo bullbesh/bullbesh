@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generative art coded in Python](https://www.reddit.com/r/Python/comments/10eahk7/generative_art_coded_in_python/)
+- [fileghost: encrypt\decrypt files and messages with your unique and unrepeatable 2048-bit key](https://www.reddit.com/r/Python/comments/10ea91z/fileghost_encryptdecrypt_files_and_messages_with/)
+- [is there any website where I post my python related question and it comes with an answer instantly?](https://www.reddit.com/r/Python/comments/10e9xty/is_there_any_website_where_i_post_my_python/)
 - [Mutable tuple views - einspect](https://www.reddit.com/r/Python/comments/10e80md/mutable_tuple_views_einspect/)
 - [GPTalk : free and open-source Python app to interact with GPT using your voice, in any language](https://www.reddit.com/r/Python/comments/10e78u2/gptalk_free_and_opensource_python_app_to_interact/)
-- [GitHub Dependabot in Action](https://www.reddit.com/r/Python/comments/10e71h3/github_dependabot_in_action/)
-- [Why does unittest require __init__.py to be present in Python 3.6?](https://www.reddit.com/r/Python/comments/10e512k/why_does_unittest_require_init_py_to_be_present/)
-- [How can I replicate the behavior of Python&#39;s sorted built-in function in C#?](https://www.reddit.com/r/Python/comments/10e4yk8/how_can_i_replicate_the_behavior_of_pythons/)
 <!-- BLOG-POST-LIST:END -->
