@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [does google python course is a good idea to lear python?](https://www.reddit.com/r/Python/comments/10ed3cm/does_google_python_course_is_a_good_idea_to_lear/)
-- [What are your thoughts on ChatGPT as an aid for coding?](https://www.reddit.com/r/Python/comments/10ecfdv/what_are_your_thoughts_on_chatgpt_as_an_aid_for/)
+- [Unlocking the Potential of ChatGPT: A Community Discussion](https://www.reddit.com/r/Python/comments/10eeqbo/unlocking_the_potential_of_chatgpt_a_community/)
+- [Numpy tutorial](https://www.reddit.com/r/Python/comments/10eekmj/numpy_tutorial/)
+- [asynchrony: asyncio Python framework for writing safe and fast concurrent code](https://www.reddit.com/r/Python/comments/10eedhq/asynchrony_asyncio_python_framework_for_writing/)
+- [Python&#39;s Assignment Operator: Write Robust Assignments – Real Python](https://www.reddit.com/r/Python/comments/10ee6gb/pythons_assignment_operator_write_robust/)
 - [Adding For Loops to an Interpreter](https://www.reddit.com/r/Python/comments/10ebz7i/adding_for_loops_to_an_interpreter/)
-- [Semantic workflows backed by Transformers models](https://www.reddit.com/r/Python/comments/10ebcma/semantic_workflows_backed_by_transformers_models/)
-- [Generative art coded in Python](https://www.reddit.com/r/Python/comments/10eahk7/generative_art_coded_in_python/)
 <!-- BLOG-POST-LIST:END -->
