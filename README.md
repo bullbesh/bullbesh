@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Faster than calling abs&lpar;&rpar;](https://www.reddit.com/r/Python/comments/10ep3y3/faster_than_calling_abs/)
 - [Anyone used ChatGPT in their projects?](https://www.reddit.com/r/Python/comments/10em1hk/anyone_used_chatgpt_in_their_projects/)
 - [Using PyArrow with Pandas - Arrow Tables and Parquet Files explored](https://www.reddit.com/r/Python/comments/10el34b/using_pyarrow_with_pandas_arrow_tables_and/)
 - [What are the best IDEs for Python?](https://www.reddit.com/r/Python/comments/10ekmyl/what_are_the_best_ides_for_python/)
 - [Build Rich GUI Apps In Python With Aid From Delphi](https://www.reddit.com/r/Python/comments/10ejy21/build_rich_gui_apps_in_python_with_aid_from_delphi/)
-- [Create Your OWN Programming Language! EP 2 - Token Types](https://www.reddit.com/r/Python/comments/10ejwix/create_your_own_programming_language_ep_2_token/)
 <!-- BLOG-POST-LIST:END -->
