@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [n00b here](https://www.reddit.com/r/Python/comments/10efnd1/n00b_here/)
 - [Unlocking the Potential of ChatGPT: A Community Discussion](https://www.reddit.com/r/Python/comments/10eeqbo/unlocking_the_potential_of_chatgpt_a_community/)
 - [Numpy tutorial](https://www.reddit.com/r/Python/comments/10eekmj/numpy_tutorial/)
 - [asynchrony: asyncio Python framework for writing safe and fast concurrent code](https://www.reddit.com/r/Python/comments/10eedhq/asynchrony_asyncio_python_framework_for_writing/)
 - [Python&#39;s Assignment Operator: Write Robust Assignments – Real Python](https://www.reddit.com/r/Python/comments/10ee6gb/pythons_assignment_operator_write_robust/)
-- [Adding For Loops to an Interpreter](https://www.reddit.com/r/Python/comments/10ebz7i/adding_for_loops_to_an_interpreter/)
 <!-- BLOG-POST-LIST:END -->
