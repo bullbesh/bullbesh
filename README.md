@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Delivery driver tip tracker: tkinter and openpyxl](https://www.reddit.com/r/Python/comments/10fb96m/delivery_driver_tip_tracker_tkinter_and_openpyxl/)
+- [Open applications without knowing their absolute paths.](https://www.reddit.com/r/Python/comments/10faalo/open_applications_without_knowing_their_absolute/)
 - [What&#39;s your favourite thing about automated tests?](https://www.reddit.com/r/Python/comments/10f935p/whats_your_favourite_thing_about_automated_tests/)
 - [Best python tutorials, codecamps, courses for begginers in 2023?](https://www.reddit.com/r/Python/comments/10f8odt/best_python_tutorials_codecamps_courses_for/)
 - [DocArray v2: Nicely represent multi-modal data in your ML models](https://www.reddit.com/r/Python/comments/10f8bms/docarray_v2_nicely_represent_multimodal_data_in/)
-- [Best Python &quot;Pocket Reference&quot;?](https://www.reddit.com/r/Python/comments/10f80er/best_python_pocket_reference/)
-- [Roadmap to A Career in Data Science |Demo Class](https://www.reddit.com/r/Python/comments/10f61to/roadmap_to_a_career_in_data_science_demo_class/)
 <!-- BLOG-POST-LIST:END -->
