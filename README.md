@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to OpenCV](https://www.reddit.com/r/Python/comments/10fcp8e/introduction_to_opencv/)
+- [Using Gaussian Elimination instead of a Monte Carlo simulation?](https://www.reddit.com/r/Python/comments/10fckk2/using_gaussian_elimination_instead_of_a_monte/)
+- [I think I found a bug in subprocess and created a test case, whats the best way to let the python development team know?](https://www.reddit.com/r/Python/comments/10fbw6t/i_think_i_found_a_bug_in_subprocess_and_created_a/)
 - [Delivery driver tip tracker: tkinter and openpyxl](https://www.reddit.com/r/Python/comments/10fb96m/delivery_driver_tip_tracker_tkinter_and_openpyxl/)
 - [Open applications without knowing their absolute paths.](https://www.reddit.com/r/Python/comments/10faalo/open_applications_without_knowing_their_absolute/)
-- [What&#39;s your favourite thing about automated tests?](https://www.reddit.com/r/Python/comments/10f935p/whats_your_favourite_thing_about_automated_tests/)
-- [Best python tutorials, codecamps, courses for begginers in 2023?](https://www.reddit.com/r/Python/comments/10f8odt/best_python_tutorials_codecamps_courses_for/)
-- [DocArray v2: Nicely represent multi-modal data in your ML models](https://www.reddit.com/r/Python/comments/10f8bms/docarray_v2_nicely_represent_multimodal_data_in/)
 <!-- BLOG-POST-LIST:END -->
