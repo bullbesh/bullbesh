@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [stacked quantiles](https://www.reddit.com/r/Python/comments/10ew7am/stacked_quantiles/)
 - [Secret messages in coding?](https://www.reddit.com/r/Python/comments/10eso5l/secret_messages_in_coding/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/10erylo/wednesday_daily_thread_beginner_questions/)
 - [Faster than calling abs&lpar;&rpar;](https://www.reddit.com/r/Python/comments/10ep3y3/faster_than_calling_abs/)
 - [Using PyArrow with Pandas - Arrow Tables and Parquet Files explored](https://www.reddit.com/r/Python/comments/10el34b/using_pyarrow_with_pandas_arrow_tables_and/)
-- [What are the best IDEs for Python?](https://www.reddit.com/r/Python/comments/10ekmyl/what_are_the_best_ides_for_python/)
 <!-- BLOG-POST-LIST:END -->
