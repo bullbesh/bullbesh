@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing mamba problem](https://www.reddit.com/r/Python/comments/10fe7pg/installing_mamba_problem/)
+- [Process streaming data using Python in Google Colab or Jupyter Notebooks](https://www.reddit.com/r/Python/comments/10fdlji/process_streaming_data_using_python_in_google/)
 - [Introduction to OpenCV](https://www.reddit.com/r/Python/comments/10fcp8e/introduction_to_opencv/)
 - [Using Gaussian Elimination instead of a Monte Carlo simulation?](https://www.reddit.com/r/Python/comments/10fckk2/using_gaussian_elimination_instead_of_a_monte/)
 - [I think I found a bug in subprocess and created a test case, whats the best way to let the python development team know?](https://www.reddit.com/r/Python/comments/10fbw6t/i_think_i_found_a_bug_in_subprocess_and_created_a/)
-- [Delivery driver tip tracker: tkinter and openpyxl](https://www.reddit.com/r/Python/comments/10fb96m/delivery_driver_tip_tracker_tkinter_and_openpyxl/)
-- [Open applications without knowing their absolute paths.](https://www.reddit.com/r/Python/comments/10faalo/open_applications_without_knowing_their_absolute/)
 <!-- BLOG-POST-LIST:END -->
