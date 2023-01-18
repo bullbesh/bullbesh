@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made an URL shortener in python](https://www.reddit.com/r/Python/comments/10fhivs/i_made_an_url_shortener_in_python/)
+- [Instagram bot generates images using Stable Diffusion Webui](https://www.reddit.com/r/Python/comments/10fhd44/instagram_bot_generates_images_using_stable/)
+- [Nathan&#39;s Python Console &lpar;online Python environment&rpar;](https://www.reddit.com/r/Python/comments/10fgiy3/nathans_python_console_online_python_environment/)
 - [A heavily tested &lpar;2k lines&rpar; and commented classic Red Black Tree implementation in Python and Ruby. Great for learning the material.](https://www.reddit.com/r/Python/comments/10fev4r/a_heavily_tested_2k_lines_and_commented_classic/)
 - [python jobs](https://www.reddit.com/r/Python/comments/10fem5v/python_jobs/)
-- [Installing mamba problem](https://www.reddit.com/r/Python/comments/10fe7pg/installing_mamba_problem/)
-- [Process streaming data using Python in Google Colab or Jupyter Notebooks](https://www.reddit.com/r/Python/comments/10fdlji/process_streaming_data_using_python_in_google/)
-- [Introduction to OpenCV](https://www.reddit.com/r/Python/comments/10fcp8e/introduction_to_opencv/)
 <!-- BLOG-POST-LIST:END -->
