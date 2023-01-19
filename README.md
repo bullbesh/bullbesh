@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Course that can help you with the deployment part of things](https://www.reddit.com/r/Python/comments/10fw95c/course_that_can_help_you_with_the_deployment_part/)
+- [GPT-4 Will Be 500x Smaller Than People Think - Here Is Why](https://www.reddit.com/r/Python/comments/10fw3a5/gpt4_will_be_500x_smaller_than_people_think_here/)
+- [Cnverting a List[string] into a List[list]...](https://www.reddit.com/r/Python/comments/10fvovh/cnverting_a_liststring_into_a_listlist/)
 - [Python - sunshine learning](https://www.reddit.com/r/Python/comments/10fs2gy/python_sunshine_learning/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/10fmmy9/thursday_daily_thread_python_careers_courses_and/)
-- [Why I Like Nox](https://www.reddit.com/r/Python/comments/10fkkwj/why_i_like_nox/)
-- [CS50 during PhD in Earth Sciences? advices gratefully appreciated :&rpar;](https://www.reddit.com/r/Python/comments/10fi6wq/cs50_during_phd_in_earth_sciences_advices/)
-- [I made an URL shortener in python](https://www.reddit.com/r/Python/comments/10fhivs/i_made_an_url_shortener_in_python/)
 <!-- BLOG-POST-LIST:END -->
