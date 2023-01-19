@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Made the YouTube Series Implementing ML Models Using NumPy](https://www.reddit.com/r/Python/comments/10g9vd0/made_the_youtube_series_implementing_ml_models/)
+- [GitHub - benhoyt/dhash: Python library to calculate the difference hash &lpar;perceptual hash&rpar; for a given image, useful for detecting duplicates](https://www.reddit.com/r/Python/comments/10gbzy5/github_benhoytdhash_python_library_to_calculate/)
+- [How do you know you’re ready to apply at entry level jobs, as a self-taught?](https://www.reddit.com/r/Python/comments/10gbwts/how_do_you_know_youre_ready_to_apply_at_entry/)
+- [Some reasons to avoid Cython](https://www.reddit.com/r/Python/comments/10gbt8w/some_reasons_to_avoid_cython/)
+- [Cruising through complex data with Python in the browser](https://www.reddit.com/r/Python/comments/10gavop/cruising_through_complex_data_with_python_in_the/)
 - [Grand strategy gane](https://www.reddit.com/r/Python/comments/10g9g89/grand_strategy_gane/)
-- [Poisoned Lolip0p PyPI Packages](https://www.reddit.com/r/Python/comments/10g8xcl/poisoned_lolip0p_pypi_packages/)
-- [VidGoogle | A python &amp; django adult search engine](https://www.reddit.com/r/Python/comments/10g8ivg/vidgoogle_a_python_django_adult_search_engine/)
-- [Use Python to Build a free Stable Diffusion app &lpar;with a GPU backend&rpar;](https://www.reddit.com/r/Python/comments/10g5nay/use_python_to_build_a_free_stable_diffusion_app/)
 <!-- BLOG-POST-LIST:END -->
