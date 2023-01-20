@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Module pywhatkit for automation to improve your workflow](https://www.reddit.com/r/Python/comments/10h3vzi/python_module_pywhatkit_for_automation_to_improve/)
+- [Python module pywhatkit for automation](https://www.reddit.com/r/Python/comments/10h4m3o/python_module_pywhatkit_for_automation/)
 - [Python Web Devs say NO to SSRF and XSS now, use RegXon!](https://www.reddit.com/r/Python/comments/10h3m6y/python_web_devs_say_no_to_ssrf_and_xss_now_use/)
 - [Ensemble Meta-Labeling](https://www.reddit.com/r/Python/comments/10h2zzz/ensemble_metalabeling/)
 - [Public, Private And Protected Access Modifiers In Python](https://www.reddit.com/r/Python/comments/10h19yz/public_private_and_protected_access_modifiers_in/)
