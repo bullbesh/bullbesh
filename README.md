@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrating from Flask to FastAPI](https://www.reddit.com/r/Python/comments/10h9fb5/migrating_from_flask_to_fastapi/)
 - [Python &quot;minigame&quot;](https://www.reddit.com/r/Python/comments/10h7jwk/python_minigame/)
 - [Pynecone: New Features and Performance Improvements ⚡️](https://www.reddit.com/r/Python/comments/10h6l7e/pynecone_new_features_and_performance_improvements/)
 - [Cool, Nifty &amp; Efficient File/Folder Explorer Gui Application](https://www.reddit.com/r/Python/comments/10h6ikp/cool_nifty_efficient_filefolder_explorer_gui/)
-- [Matrix Operations and NumPy](https://www.reddit.com/r/Python/comments/10h5htf/matrix_operations_and_numpy/)
 - [Python module pywhatkit for automation](https://www.reddit.com/r/Python/comments/10h4m3o/python_module_pywhatkit_for_automation/)
 <!-- BLOG-POST-LIST:END -->
