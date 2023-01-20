@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT as a Python Programming Assistant](https://www.reddit.com/r/Python/comments/10h0otx/chatgpt_as_a_python_programming_assistant/)
+- [Chainguard Image Now Available for Python 3.11](https://www.reddit.com/r/Python/comments/10h00c0/chainguard_image_now_available_for_python_311/)
 - [Parsing and validating `pyproject.toml` files with msgspec](https://www.reddit.com/r/Python/comments/10gzbgo/parsing_and_validating_pyprojecttoml_files_with/)
 - [In 4 months I have to be proficient in Python](https://www.reddit.com/r/Python/comments/10gywdq/in_4_months_i_have_to_be_proficient_in_python/)
 - [credit modeling in python](https://www.reddit.com/r/Python/comments/10gxo8t/credit_modeling_in_python/)
-- [Alembic: run only changes necessary to reflect the latest datamodel instead of all revisions OR how did you setup a dev/prod split in Alembic?](https://www.reddit.com/r/Python/comments/10gxa4d/alembic_run_only_changes_necessary_to_reflect_the/)
-- [Introduction to Python for Kafka](https://www.reddit.com/r/Python/comments/10gx933/introduction_to_python_for_kafka/)
 <!-- BLOG-POST-LIST:END -->
