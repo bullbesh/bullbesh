@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Python Machine Learning Projects](https://www.reddit.com/r/Python/comments/10gin7i/top_10_python_machine_learning_projects/)
+- [Ipynb extension idea I had to help with ML/GPU deployment](https://www.reddit.com/r/Python/comments/10ggk5k/ipynb_extension_idea_i_had_to_help_with_mlgpu/)
 - [Replacing Pandas with Polars. A Practical Guide.](https://www.reddit.com/r/Python/comments/10gf1cr/replacing_pandas_with_polars_a_practical_guide/)
 - [AmazonMe](https://www.reddit.com/r/Python/comments/10gekp4/amazonme/)
 - [GitHub - benhoyt/dhash: Python library to calculate the difference hash &lpar;perceptual hash&rpar; for a given image, useful for detecting duplicates](https://www.reddit.com/r/Python/comments/10gbzy5/github_benhoytdhash_python_library_to_calculate/)
-- [Some reasons to avoid Cython](https://www.reddit.com/r/Python/comments/10gbt8w/some_reasons_to_avoid_cython/)
-- [Cruising through complex data with Python in the browser](https://www.reddit.com/r/Python/comments/10gavop/cruising_through_complex_data_with_python_in_the/)
 <!-- BLOG-POST-LIST:END -->
