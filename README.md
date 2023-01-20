@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Module pywhatkit for automation to improve your workflow](https://www.reddit.com/r/Python/comments/10h3vzi/python_module_pywhatkit_for_automation_to_improve/)
+- [Python Web Devs say NO to SSRF and XSS now, use RegXon!](https://www.reddit.com/r/Python/comments/10h3m6y/python_web_devs_say_no_to_ssrf_and_xss_now_use/)
+- [Ensemble Meta-Labeling](https://www.reddit.com/r/Python/comments/10h2zzz/ensemble_metalabeling/)
 - [Public, Private And Protected Access Modifiers In Python](https://www.reddit.com/r/Python/comments/10h19yz/public_private_and_protected_access_modifiers_in/)
 - [ChatGPT as a Python Programming Assistant](https://www.reddit.com/r/Python/comments/10h0otx/chatgpt_as_a_python_programming_assistant/)
-- [Chainguard Image Now Available for Python 3.11](https://www.reddit.com/r/Python/comments/10h00c0/chainguard_image_now_available_for_python_311/)
-- [Parsing and validating `pyproject.toml` files with msgspec](https://www.reddit.com/r/Python/comments/10gzbgo/parsing_and_validating_pyprojecttoml_files_with/)
-- [In 4 months I have to be proficient in Python](https://www.reddit.com/r/Python/comments/10gywdq/in_4_months_i_have_to_be_proficient_in_python/)
 <!-- BLOG-POST-LIST:END -->
