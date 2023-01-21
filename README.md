@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Resources for a beginner to learn Python.. suggestions?](https://www.reddit.com/r/Python/comments/10i08vv/resources_for_a_beginner_to_learn_python/)
+- [Last semester of college. Want a JR python developer role. Any help landing my first job/where to look would be appreciated! I have had an internship already](https://www.reddit.com/r/Python/comments/10hzc9v/last_semester_of_college_want_a_jr_python/)
+- [An Ode Tuple Keys](https://www.reddit.com/r/Python/comments/10hz8t0/an_ode_tuple_keys/)
 - [First App](https://www.reddit.com/r/Python/comments/10hy8jb/first_app/)
 - [Introducing anywidget: Custom Jupyter Widgets Made Easy](https://www.reddit.com/r/Python/comments/10hxq95/introducing_anywidget_custom_jupyter_widgets_made/)
-- [O365 - Python Help](https://www.reddit.com/r/Python/comments/10hshc2/o365_python_help/)
-- [What are some good books to learn python ?](https://www.reddit.com/r/Python/comments/10hrwq0/what_are_some_good_books_to_learn_python/)
-- [Hello World Programs for API Stock Trading](https://www.reddit.com/r/Python/comments/10hqngx/hello_world_programs_for_api_stock_trading/)
 <!-- BLOG-POST-LIST:END -->
