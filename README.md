@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Am I over thinking this question?](https://www.reddit.com/r/Python/comments/10hde5l/am_i_over_thinking_this_question/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/10hdaol/saturday_daily_thread_resource_request_and/)
+- [Experimental MiniJinja Bindings for Python](https://www.reddit.com/r/Python/comments/10hcmdj/experimental_minijinja_bindings_for_python/)
+- [Bot That Says &quot;I love you&quot; and Other Things | RedditBotFTW](https://www.reddit.com/r/Python/comments/10hccir/bot_that_says_i_love_you_and_other_things/)
 - [Coding an AI Job Posting Analyzer in 56 Lines of Code in Python](https://www.reddit.com/r/Python/comments/10hbeg0/coding_an_ai_job_posting_analyzer_in_56_lines_of/)
-- [Data Scientist or Python Developer career path](https://www.reddit.com/r/Python/comments/10hawjs/data_scientist_or_python_developer_career_path/)
-- [Migrating from Flask to FastAPI](https://www.reddit.com/r/Python/comments/10h9fb5/migrating_from_flask_to_fastapi/)
-- [Python &quot;minigame&quot;](https://www.reddit.com/r/Python/comments/10h7jwk/python_minigame/)
-- [Pynecone: New Features and Performance Improvements ⚡️](https://www.reddit.com/r/Python/comments/10h6l7e/pynecone_new_features_and_performance_improvements/)
 <!-- BLOG-POST-LIST:END -->
