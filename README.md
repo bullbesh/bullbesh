@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Breaking the Snake: How Python went from 2 to 3](https://www.reddit.com/r/Python/comments/10hq5ny/breaking_the_snake_how_python_went_from_2_to_3/)
+- [Get test coverage faster without killing your server](https://www.reddit.com/r/Python/comments/10hpqgt/get_test_coverage_faster_without_killing_your/)
+- [I made a tool to make it easier to heat your home with BOINC &lpar;like Folding@home&rpar;.](https://www.reddit.com/r/Python/comments/10hp18c/i_made_a_tool_to_make_it_easier_to_heat_your_home/)
+- [Boost Your Python Application Performance using Continuous Profiling](https://www.reddit.com/r/Python/comments/10hp0fp/boost_your_python_application_performance_using/)
 - [Business Process Diagram as Code in Python](https://www.reddit.com/r/Python/comments/10homov/business_process_diagram_as_code_in_python/)
-- [Thoughts on the Python packaging ecosystem | Pradyun Gedam](https://www.reddit.com/r/Python/comments/10hol7d/thoughts_on_the_python_packaging_ecosystem/)
-- [Another modern game login screen!](https://www.reddit.com/r/Python/comments/10hnzmn/another_modern_game_login_screen/)
-- [Build a custom Python linter in 5 minutes](https://www.reddit.com/r/Python/comments/10hnsxq/build_a_custom_python_linter_in_5_minutes/)
-- [Python Freelancer](https://www.reddit.com/r/Python/comments/10hmld8/python_freelancer/)
 <!-- BLOG-POST-LIST:END -->
