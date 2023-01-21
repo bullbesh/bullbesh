@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are some good books to learn python ?](https://www.reddit.com/r/Python/comments/10hrwq0/what_are_some_good_books_to_learn_python/)
 - [Hello World Programs for API Stock Trading](https://www.reddit.com/r/Python/comments/10hqngx/hello_world_programs_for_api_stock_trading/)
 - [Effortlessly Create Classes in Python with @dataclass](https://www.reddit.com/r/Python/comments/10hqii8/effortlessly_create_classes_in_python_with/)
 - [Breaking the Snake: How Python went from 2 to 3](https://www.reddit.com/r/Python/comments/10hq5ny/breaking_the_snake_how_python_went_from_2_to_3/)
 - [Get test coverage faster without killing your server](https://www.reddit.com/r/Python/comments/10hpqgt/get_test_coverage_faster_without_killing_your/)
-- [I made a tool to make it easier to heat your home with BOINC &lpar;like Folding@home&rpar;.](https://www.reddit.com/r/Python/comments/10hp18c/i_made_a_tool_to_make_it_easier_to_heat_your_home/)
 <!-- BLOG-POST-LIST:END -->
