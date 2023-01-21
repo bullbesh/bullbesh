@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Business Process Diagram as Code in Python](https://www.reddit.com/r/Python/comments/10homov/business_process_diagram_as_code_in_python/)
+- [Thoughts on the Python packaging ecosystem | Pradyun Gedam](https://www.reddit.com/r/Python/comments/10hol7d/thoughts_on_the_python_packaging_ecosystem/)
 - [Another modern game login screen!](https://www.reddit.com/r/Python/comments/10hnzmn/another_modern_game_login_screen/)
 - [Build a custom Python linter in 5 minutes](https://www.reddit.com/r/Python/comments/10hnsxq/build_a_custom_python_linter_in_5_minutes/)
 - [Python Freelancer](https://www.reddit.com/r/Python/comments/10hmld8/python_freelancer/)
-- [How to Build Python GUI Applications with PySide6](https://www.reddit.com/r/Python/comments/10hl1t8/how_to_build_python_gui_applications_with_pyside6/)
-- [Hey, I want to announce that I&#39;ve created Pyckish](https://www.reddit.com/r/Python/comments/10hjqbj/hey_i_want_to_announce_that_ive_created_pyckish/)
 <!-- BLOG-POST-LIST:END -->
