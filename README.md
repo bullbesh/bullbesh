@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [🤯 Drag&#39;n drop GUI builder for Python apps](https://www.reddit.com/r/Python/comments/10hh6j8/dragn_drop_gui_builder_for_python_apps/)
 - [NiceGUI now has a subreddit.](https://www.reddit.com/r/Python/comments/10hg2i4/nicegui_now_has_a_subreddit/)
 - [Add Watermarks To PDF, JPG &amp; PNG files with no restrictive licensing](https://www.reddit.com/r/Python/comments/10hfz75/add_watermarks_to_pdf_jpg_png_files_with_no/)
 - [Am I over thinking this question?](https://www.reddit.com/r/Python/comments/10hde5l/am_i_over_thinking_this_question/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/10hdaol/saturday_daily_thread_resource_request_and/)
+- [Experimental MiniJinja Bindings for Python](https://www.reddit.com/r/Python/comments/10hcmdj/experimental_minijinja_bindings_for_python/)
 <!-- BLOG-POST-LIST:END -->
