@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [textual-bee: a Spelling Bee game in your terminal &lpar;using Textual&rpar;](https://www.reddit.com/r/Python/comments/10i31bb/textualbee_a_spelling_bee_game_in_your_terminal/)
 - [Differentiating what Python skills a data scientist would need vs. a developer/engineer](https://www.reddit.com/r/Python/comments/10i2351/differentiating_what_python_skills_a_data/)
-- [Free Code Analysis](https://www.reddit.com/r/Python/comments/10i1pja/free_code_analysis/)
 - [MicroPython captive portal for easy network configuration!](https://www.reddit.com/r/Python/comments/10i18vs/micropython_captive_portal_for_easy_network/)
 - [Resources for a beginner to learn Python.. suggestions?](https://www.reddit.com/r/Python/comments/10i08vv/resources_for_a_beginner_to_learn_python/)
+- [Last semester of college. Want a JR python developer role. Any help landing my first job/where to look would be appreciated! I have had an internship already](https://www.reddit.com/r/Python/comments/10hzc9v/last_semester_of_college_want_a_jr_python/)
 <!-- BLOG-POST-LIST:END -->
