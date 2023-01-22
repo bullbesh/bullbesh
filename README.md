@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [C#-like properties in python - version 0.01 on github](https://www.reddit.com/r/Python/comments/10if81d/clike_properties_in_python_version_001_on_github/)
+- [A Hands-On Guide To Data Augmentation — Techniques With Examples](https://www.reddit.com/r/Python/comments/10if3kr/a_handson_guide_to_data_augmentation_techniques/)
 - [Performing String Interpolation Using F-String In Python](https://www.reddit.com/r/Python/comments/10iemnp/performing_string_interpolation_using_fstring_in/)
 - [Neat little program I made finally finished in the latest Pyt](https://www.reddit.com/r/Python/comments/10idyym/neat_little_program_i_made_finally_finished_in/)
 - [Sequential Functions Package](https://www.reddit.com/r/Python/comments/10iduhx/sequential_functions_package/)
-- [Finally, a cross platform way to set system environment variables and paths](https://www.reddit.com/r/Python/comments/10ibd1x/finally_a_cross_platform_way_to_set_system/)
-- [Just released version 2.3.0 of FlatSiteBuilder a CMS like web creation tools for Windows](https://www.reddit.com/r/Python/comments/10i9cdn/just_released_version_230_of_flatsitebuilder_a/)
 <!-- BLOG-POST-LIST:END -->
