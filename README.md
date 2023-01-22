@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [RF HEARMAPPING. RF SENSORS. RADIO FREQUENCY ANALYSIS. AND THE SCIENCE BEHIND THE PROGRAMMING](https://www.reddit.com/r/Python/comments/10ihy1q/rf_hearmapping_rf_sensors_radio_frequency/)
+- [Why stable diffusion isn&#39;t natively available on windows even though pytorch is?](https://www.reddit.com/r/Python/comments/10ihpow/why_stable_diffusion_isnt_natively_available_on/)
+- [My first real useful python project. A rofi extension to help manage my latex notes/assignments](https://www.reddit.com/r/Python/comments/10ihl7r/my_first_real_useful_python_project_a_rofi/)
 - [Simple Python Program](https://www.reddit.com/r/Python/comments/10ih0si/simple_python_program/)
 - [Getting Started With Property-Based Testing in Python With Hypothesis and Pytest - Semaphore](https://www.reddit.com/r/Python/comments/10ig6qh/getting_started_with_propertybased_testing_in/)
-- [C#-like properties in python - version 0.01 on github](https://www.reddit.com/r/Python/comments/10if81d/clike_properties_in_python_version_001_on_github/)
-- [A Hands-On Guide To Data Augmentation — Techniques With Examples](https://www.reddit.com/r/Python/comments/10if3kr/a_handson_guide_to_data_augmentation_techniques/)
-- [Performing String Interpolation Using F-String In Python](https://www.reddit.com/r/Python/comments/10iemnp/performing_string_interpolation_using_fstring_in/)
 <!-- BLOG-POST-LIST:END -->
