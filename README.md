@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Common Asyncio Errors &lpar;and how to avoid them&rpar;](https://www.reddit.com/r/Python/comments/10isqfj/5_common_asyncio_errors_and_how_to_avoid_them/)
 - [Anaconda Pandas DataReader?](https://www.reddit.com/r/Python/comments/10ipy0n/anaconda_pandas_datareader/)
 - [Effizient way to let a Django/flask app communicate with a ESP8266 Board?](https://www.reddit.com/r/Python/comments/10ipt6v/effizient_way_to_let_a_djangoflask_app/)
 - [100 days of Python by Angela Yu on udemy](https://www.reddit.com/r/Python/comments/10ip5u4/100_days_of_python_by_angela_yu_on_udemy/)
 - [Chatgpt alternative to python co-coder](https://www.reddit.com/r/Python/comments/10iof4u/chatgpt_alternative_to_python_cocoder/)
-- [Want to start a career as a python developer](https://www.reddit.com/r/Python/comments/10imykp/want_to_start_a_career_as_a_python_developer/)
 <!-- BLOG-POST-LIST:END -->
