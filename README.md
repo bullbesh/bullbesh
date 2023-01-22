@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [RF HEARMAPPING. RF SENSORS. RADIO FREQUENCY ANALYSIS. AND THE SCIENCE BEHIND THE PROGRAMMING](https://www.reddit.com/r/Python/comments/10ihy1q/rf_hearmapping_rf_sensors_radio_frequency/)
+- [Interfaces with Protocols: why not ditch ABC for good?](https://www.reddit.com/r/Python/comments/10ikape/interfaces_with_protocols_why_not_ditch_abc_for/)
+- [It&#39;s almost 1.5 years from Structural Pattern Matching being released in 3.10, share your use cases!](https://www.reddit.com/r/Python/comments/10ik9tx/its_almost_15_years_from_structural_pattern/)
+- [PyHash Checker - A GUI app to check the cryptographic checksum of a file.](https://www.reddit.com/r/Python/comments/10ijrbx/pyhash_checker_a_gui_app_to_check_the/)
+- [Flatliner: turn python programs into one line of &lpar;still python&rpar; code](https://www.reddit.com/r/Python/comments/10ijoep/flatliner_turn_python_programs_into_one_line_of/)
 - [Why stable diffusion isn&#39;t natively available on windows even though pytorch is?](https://www.reddit.com/r/Python/comments/10ihpow/why_stable_diffusion_isnt_natively_available_on/)
-- [My first real useful python project. A rofi extension to help manage my latex notes/assignments](https://www.reddit.com/r/Python/comments/10ihl7r/my_first_real_useful_python_project_a_rofi/)
-- [Simple Python Program](https://www.reddit.com/r/Python/comments/10ih0si/simple_python_program/)
-- [Getting Started With Property-Based Testing in Python With Hypothesis and Pytest - Semaphore](https://www.reddit.com/r/Python/comments/10ig6qh/getting_started_with_propertybased_testing_in/)
 <!-- BLOG-POST-LIST:END -->
