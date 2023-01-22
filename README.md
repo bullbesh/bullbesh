@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Performing String Interpolation Using F-String In Python](https://www.reddit.com/r/Python/comments/10iemnp/performing_string_interpolation_using_fstring_in/)
+- [Neat little program I made finally finished in the latest Pyt](https://www.reddit.com/r/Python/comments/10idyym/neat_little_program_i_made_finally_finished_in/)
+- [Sequential Functions Package](https://www.reddit.com/r/Python/comments/10iduhx/sequential_functions_package/)
 - [Finally, a cross platform way to set system environment variables and paths](https://www.reddit.com/r/Python/comments/10ibd1x/finally_a_cross_platform_way_to_set_system/)
 - [Just released version 2.3.0 of FlatSiteBuilder a CMS like web creation tools for Windows](https://www.reddit.com/r/Python/comments/10i9cdn/just_released_version_230_of_flatsitebuilder_a/)
-- [Python GUI book](https://www.reddit.com/r/Python/comments/10i948d/python_gui_book/)
-- [Simple Python Script for Downloading Subtitles from Youtube as Json with Python](https://www.reddit.com/r/Python/comments/10i8bcn/simple_python_script_for_downloading_subtitles/)
-- [How to use Python&#39;s In-Built Memoization](https://www.reddit.com/r/Python/comments/10i6riv/how_to_use_pythons_inbuilt_memoization/)
 <!-- BLOG-POST-LIST:END -->
