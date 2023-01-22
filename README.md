@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just released version 2.3.0 of FlatSiteBuilder a CMS like web creation tools for Windows](https://www.reddit.com/r/Python/comments/10i9cdn/just_released_version_230_of_flatsitebuilder_a/)
+- [Python GUI book](https://www.reddit.com/r/Python/comments/10i948d/python_gui_book/)
 - [Simple Python Script for Downloading Subtitles from Youtube as Json with Python](https://www.reddit.com/r/Python/comments/10i8bcn/simple_python_script_for_downloading_subtitles/)
 - [How to use Python&#39;s In-Built Memoization](https://www.reddit.com/r/Python/comments/10i6riv/how_to_use_pythons_inbuilt_memoization/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/10i5ly7/sunday_daily_thread_whats_everyone_working_on/)
-- [finding common strings](https://www.reddit.com/r/Python/comments/10i50a6/finding_common_strings/)
-- [textual-bee: a Spelling Bee game in your terminal &lpar;using Textual&rpar;](https://www.reddit.com/r/Python/comments/10i31bb/textualbee_a_spelling_bee_game_in_your_terminal/)
 <!-- BLOG-POST-LIST:END -->
