@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Discord message to one server to another](https://www.reddit.com/r/Python/comments/10j2bod/discord_message_to_one_server_to_another/)
 - [Live-Stream Friendly Radio Station](https://www.reddit.com/r/Python/comments/10j107i/livestream_friendly_radio_station/)
 - [Is ffn still working?](https://www.reddit.com/r/Python/comments/10j0ly7/is_ffn_still_working/)
 - [Looking for compassionate cofounder for open source social care nonprofit](https://www.reddit.com/r/Python/comments/10iyv2p/looking_for_compassionate_cofounder_for_open/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/10iydbm/monday_daily_thread_project_ideas/)
-- [Old-School Adventure Game with PyGame &lpar;love letter to Shadowgate&rpar;](https://www.reddit.com/r/Python/comments/10ivej4/oldschool_adventure_game_with_pygame_love_letter/)
 <!-- BLOG-POST-LIST:END -->
