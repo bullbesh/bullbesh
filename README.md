@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [linkedin-stats: Stats for messages I received on LinkedIn](https://www.reddit.com/r/Python/comments/10jehtd/linkedinstats_stats_for_messages_i_received_on/)
+- [SWIRL SEARCH 1.8 &lpar;python/django search engine&rpar; released](https://www.reddit.com/r/Python/comments/10je3vr/swirl_search_18_pythondjango_search_engine/)
+- [A machine learning monitoring platform](https://www.reddit.com/r/Python/comments/10jdrrg/a_machine_learning_monitoring_platform/)
 - [End-to-end Case Study on how to mitigate unintended bias in toxic comment classification.](https://www.reddit.com/r/Python/comments/10jdac9/endtoend_case_study_on_how_to_mitigate_unintended/)
-- [IDEs for Python on Ubuntu/Linux](https://www.reddit.com/r/Python/comments/10jc1jo/ides_for_python_on_ubuntulinux/)
 - [Made a Telegram bot to notify me if any devices are connecting or disconnecting from my network](https://www.reddit.com/r/Python/comments/10jbjgo/made_a_telegram_bot_to_notify_me_if_any_devices/)
-- [Bionic Blue: Free open-source action platformer game](https://www.reddit.com/r/Python/comments/10jbbik/bionic_blue_free_opensource_action_platformer_game/)
-- [Best website for python exercises ?](https://www.reddit.com/r/Python/comments/10j9s7r/best_website_for_python_exercises/)
 <!-- BLOG-POST-LIST:END -->
