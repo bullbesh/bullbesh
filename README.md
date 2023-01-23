@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Assignment](https://www.reddit.com/r/Python/comments/10j9yff/assignment/)
+- [Best website for python exercises ?](https://www.reddit.com/r/Python/comments/10j9s7r/best_website_for_python_exercises/)
 - [Reverse debugging for Python](https://www.reddit.com/r/Python/comments/10j90c1/reverse_debugging_for_python/)
 - [My own raytracer in python](https://www.reddit.com/r/Python/comments/10j7ls8/my_own_raytracer_in_python/)
 - [Different modes of opening python files Explained!!](https://www.reddit.com/r/Python/comments/10j7cug/different_modes_of_opening_python_files_explained/)
-- [Bare minimum for BI analyst](https://www.reddit.com/r/Python/comments/10j6muf/bare_minimum_for_bi_analyst/)
-- [panel-modal: A Modal for Jupyter Notebooks and Panel data apps](https://www.reddit.com/r/Python/comments/10j6agi/panelmodal_a_modal_for_jupyter_notebooks_and/)
 <!-- BLOG-POST-LIST:END -->
