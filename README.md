@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve made small tool today to quickly get packages info from requirements.txt](https://www.reddit.com/r/Python/comments/10jle3s/ive_made_small_tool_today_to_quickly_get_packages/)
+- [seeking an Advice](https://www.reddit.com/r/Python/comments/10jlckp/seeking_an_advice/)
+- [python -m http.server; but Markdown is Rendered and Served as HTML](https://www.reddit.com/r/Python/comments/10jl1ey/python_m_httpserver_but_markdown_is_rendered_and/)
+- [Finding 16,146 Unique Solutions to a Puzzle Using Python](https://www.reddit.com/r/Python/comments/10jky8j/finding_16146_unique_solutions_to_a_puzzle_using/)
 - [Sidewinder: open source Django starter kit that focuses on good defaults, developer experience, and deployment](https://www.reddit.com/r/Python/comments/10jkkhj/sidewinder_open_source_django_starter_kit_that/)
-- [Hey developers! We&#39;ve launched a Kaggle competition for finding accurate coordinates from text alone 🌎📍](https://www.reddit.com/r/Python/comments/10jkcck/hey_developers_weve_launched_a_kaggle_competition/)
-- [What are the benefits of Pycharm over VS Code](https://www.reddit.com/r/Python/comments/10jkbcc/what_are_the_benefits_of_pycharm_over_vs_code/)
-- [Use AI To Create Images With Python | Tutorial For Beginners &lpar;OpenAI DALL-E API&rpar;](https://www.reddit.com/r/Python/comments/10jjatr/use_ai_to_create_images_with_python_tutorial_for/)
-- [InvenTree - Open Source Inventory Management System based on Django/Python](https://www.reddit.com/r/Python/comments/10jhmaq/inventree_open_source_inventory_management_system/)
 <!-- BLOG-POST-LIST:END -->
