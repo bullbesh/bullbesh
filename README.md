@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python functions](https://www.reddit.com/r/Python/comments/10jmyy9/python_functions/)
+- [Dali - Powerful rendering of your source code.](https://www.reddit.com/r/Python/comments/10jmu6d/dali_powerful_rendering_of_your_source_code/)
+- [File backup application with python. open source project. If u like it dont forget the star :&rpar;](https://www.reddit.com/r/Python/comments/10jmkwr/file_backup_application_with_python_open_source/)
 - [I&#39;ve made small tool today to quickly get packages info from requirements.txt](https://www.reddit.com/r/Python/comments/10jle3s/ive_made_small_tool_today_to_quickly_get_packages/)
 - [seeking an Advice](https://www.reddit.com/r/Python/comments/10jlckp/seeking_an_advice/)
-- [python -m http.server; but Markdown is Rendered and Served as HTML](https://www.reddit.com/r/Python/comments/10jl1ey/python_m_httpserver_but_markdown_is_rendered_and/)
-- [Finding 16,146 Unique Solutions to a Puzzle Using Python](https://www.reddit.com/r/Python/comments/10jky8j/finding_16146_unique_solutions_to_a_puzzle_using/)
-- [Sidewinder: open source Django starter kit that focuses on good defaults, developer experience, and deployment](https://www.reddit.com/r/Python/comments/10jkkhj/sidewinder_open_source_django_starter_kit_that/)
 <!-- BLOG-POST-LIST:END -->
