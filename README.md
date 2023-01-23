@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Use AI To Create Images With Python | Tutorial For Beginners &lpar;OpenAI DALL-E API&rpar;](https://www.reddit.com/r/Python/comments/10jjatr/use_ai_to_create_images_with_python_tutorial_for/)
 - [InvenTree - Open Source Inventory Management System based on Django/Python](https://www.reddit.com/r/Python/comments/10jhmaq/inventree_open_source_inventory_management_system/)
 - [Python Pokemon Card Generator &lpar;with AI Prompt Engineering&rpar;](https://www.reddit.com/r/Python/comments/10jh9vz/python_pokemon_card_generator_with_ai_prompt/)
 - [Super Protocol Python Competition. Build an ML Solution](https://www.reddit.com/r/Python/comments/10jgpcs/super_protocol_python_competition_build_an_ml/)
 - [Setup a Python environment with Docker](https://www.reddit.com/r/Python/comments/10jfxx2/setup_a_python_environment_with_docker/)
-- [High-level, file-system like interface for S3 with AsyncIO support to replace/extend `boto3`](https://www.reddit.com/r/Python/comments/10jfb8s/highlevel_filesystem_like_interface_for_s3_with/)
 <!-- BLOG-POST-LIST:END -->
