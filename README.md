@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [InvenTree - Open Source Inventory Management System based on Django/Python](https://www.reddit.com/r/Python/comments/10jhmaq/inventree_open_source_inventory_management_system/)
+- [Python Pokemon Card Generator &lpar;with AI Prompt Engineering&rpar;](https://www.reddit.com/r/Python/comments/10jh9vz/python_pokemon_card_generator_with_ai_prompt/)
+- [Super Protocol Python Competition. Build an ML Solution](https://www.reddit.com/r/Python/comments/10jgpcs/super_protocol_python_competition_build_an_ml/)
 - [Setup a Python environment with Docker](https://www.reddit.com/r/Python/comments/10jfxx2/setup_a_python_environment_with_docker/)
 - [High-level, file-system like interface for S3 with AsyncIO support to replace/extend `boto3`](https://www.reddit.com/r/Python/comments/10jfb8s/highlevel_filesystem_like_interface_for_s3_with/)
-- [Recommendations for Python package repositories in the Python community](https://www.reddit.com/r/Python/comments/10jf83z/recommendations_for_python_package_repositories/)
-- [linkedin-stats: Stats for messages I received on LinkedIn](https://www.reddit.com/r/Python/comments/10jehtd/linkedinstats_stats_for_messages_i_received_on/)
-- [SWIRL SEARCH 1.8 &lpar;python/django search engine&rpar; released](https://www.reddit.com/r/Python/comments/10je3vr/swirl_search_18_pythondjango_search_engine/)
 <!-- BLOG-POST-LIST:END -->
