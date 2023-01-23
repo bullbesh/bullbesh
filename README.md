@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Print&lpar;“question about multiple variables”&rpar;](https://www.reddit.com/r/Python/comments/10jp1ua/printquestion_about_multiple_variables/)
+- [Self Taught Beginner Question](https://www.reddit.com/r/Python/comments/10jopeq/self_taught_beginner_question/)
 - [Python functions](https://www.reddit.com/r/Python/comments/10jmyy9/python_functions/)
 - [Dali - Powerful rendering of your source code.](https://www.reddit.com/r/Python/comments/10jmu6d/dali_powerful_rendering_of_your_source_code/)
 - [File backup application with python. open source project. If u like it dont forget the star :&rpar;](https://www.reddit.com/r/Python/comments/10jmkwr/file_backup_application_with_python_open_source/)
-- [I&#39;ve made small tool today to quickly get packages info from requirements.txt](https://www.reddit.com/r/Python/comments/10jle3s/ive_made_small_tool_today_to_quickly_get_packages/)
-- [seeking an Advice](https://www.reddit.com/r/Python/comments/10jlckp/seeking_an_advice/)
 <!-- BLOG-POST-LIST:END -->
