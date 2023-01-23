@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sidewinder: open source Django starter kit that focuses on good defaults, developer experience, and deployment](https://www.reddit.com/r/Python/comments/10jkkhj/sidewinder_open_source_django_starter_kit_that/)
+- [Hey developers! We&#39;ve launched a Kaggle competition for finding accurate coordinates from text alone 🌎📍](https://www.reddit.com/r/Python/comments/10jkcck/hey_developers_weve_launched_a_kaggle_competition/)
+- [What are the benefits of Pycharm over VS Code](https://www.reddit.com/r/Python/comments/10jkbcc/what_are_the_benefits_of_pycharm_over_vs_code/)
 - [Use AI To Create Images With Python | Tutorial For Beginners &lpar;OpenAI DALL-E API&rpar;](https://www.reddit.com/r/Python/comments/10jjatr/use_ai_to_create_images_with_python_tutorial_for/)
 - [InvenTree - Open Source Inventory Management System based on Django/Python](https://www.reddit.com/r/Python/comments/10jhmaq/inventree_open_source_inventory_management_system/)
-- [Python Pokemon Card Generator &lpar;with AI Prompt Engineering&rpar;](https://www.reddit.com/r/Python/comments/10jh9vz/python_pokemon_card_generator_with_ai_prompt/)
-- [Super Protocol Python Competition. Build an ML Solution](https://www.reddit.com/r/Python/comments/10jgpcs/super_protocol_python_competition_build_an_ml/)
-- [Setup a Python environment with Docker](https://www.reddit.com/r/Python/comments/10jfxx2/setup_a_python_environment_with_docker/)
 <!-- BLOG-POST-LIST:END -->
