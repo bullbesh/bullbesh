@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setup a Python environment with Docker](https://www.reddit.com/r/Python/comments/10jfxx2/setup_a_python_environment_with_docker/)
+- [High-level, file-system like interface for S3 with AsyncIO support to replace/extend `boto3`](https://www.reddit.com/r/Python/comments/10jfb8s/highlevel_filesystem_like_interface_for_s3_with/)
+- [Recommendations for Python package repositories in the Python community](https://www.reddit.com/r/Python/comments/10jf83z/recommendations_for_python_package_repositories/)
 - [linkedin-stats: Stats for messages I received on LinkedIn](https://www.reddit.com/r/Python/comments/10jehtd/linkedinstats_stats_for_messages_i_received_on/)
 - [SWIRL SEARCH 1.8 &lpar;python/django search engine&rpar; released](https://www.reddit.com/r/Python/comments/10je3vr/swirl_search_18_pythondjango_search_engine/)
-- [A machine learning monitoring platform](https://www.reddit.com/r/Python/comments/10jdrrg/a_machine_learning_monitoring_platform/)
-- [End-to-end Case Study on how to mitigate unintended bias in toxic comment classification.](https://www.reddit.com/r/Python/comments/10jdac9/endtoend_case_study_on_how_to_mitigate_unintended/)
-- [Made a Telegram bot to notify me if any devices are connecting or disconnecting from my network](https://www.reddit.com/r/Python/comments/10jbjgo/made_a_telegram_bot_to_notify_me_if_any_devices/)
 <!-- BLOG-POST-LIST:END -->
