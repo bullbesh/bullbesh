@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [panel-modal: A Modal for Jupyter Notebooks and Panel data apps](https://www.reddit.com/r/Python/comments/10j6agi/panelmodal_a_modal_for_jupyter_notebooks_and/)
+- [Pygame RPG Game Design- That Childhood dream of building a video game can easily come true](https://www.reddit.com/r/Python/comments/10j5z2j/pygame_rpg_game_design_that_childhood_dream_of/)
 - [New python course starting this week pls interested dm!](https://www.reddit.com/r/Python/comments/10j54pr/new_python_course_starting_this_week_pls/)
 - [What does the Python community feel about using pillow package in Python and is there a better alternative?](https://www.reddit.com/r/Python/comments/10j35bn/what_does_the_python_community_feel_about_using/)
 - [How To Make Flask Apps The CORRECT Way](https://www.reddit.com/r/Python/comments/10j2zil/how_to_make_flask_apps_the_correct_way/)
-- [Discord message to one server to another](https://www.reddit.com/r/Python/comments/10j2bod/discord_message_to_one_server_to_another/)
-- [Live-Stream Friendly Radio Station](https://www.reddit.com/r/Python/comments/10j107i/livestream_friendly_radio_station/)
 <!-- BLOG-POST-LIST:END -->
