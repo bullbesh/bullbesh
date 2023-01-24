@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pybi &lpar; &lpar;PYthon BInary&rpar; and Posy](https://www.reddit.com/r/Python/comments/10k8ser/pybi_python_binary_and_posy/)
+- [Semantic search and workflows for medical/scientific papers](https://www.reddit.com/r/Python/comments/10k80m7/semantic_search_and_workflows_for/)
 - [Linear Algebra in Python: Matrix Inverses and Least Squares – Real Python](https://www.reddit.com/r/Python/comments/10k6mxi/linear_algebra_in_python_matrix_inverses_and/)
 - [Returning to snake&#39;s nest after a long journey, any major advances in python for science ?](https://www.reddit.com/r/Python/comments/10k6dcf/returning_to_snakes_nest_after_a_long_journey_any/)
 - [I created my first ever open source library!!](https://www.reddit.com/r/Python/comments/10k63si/i_created_my_first_ever_open_source_library/)
-- [Forecasting with Facebook&#39;s Prophet Model](https://www.reddit.com/r/Python/comments/10k4cmm/forecasting_with_facebooks_prophet_model/)
-- [FastQL: Spin up a fast API to prototype your ML model in one line of Python code](https://www.reddit.com/r/Python/comments/10k4azv/fastql_spin_up_a_fast_api_to_prototype_your_ml/)
 <!-- BLOG-POST-LIST:END -->
