@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I would like to showcase a work in progress mastodon client made in python](https://www.reddit.com/r/Python/comments/10jshr5/i_would_like_to_showcase_a_work_in_progress/)
+- [Random Info Generator &lpar;First project with python&rpar;](https://www.reddit.com/r/Python/comments/10jsdjs/random_info_generator_first_project_with_python/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/10jrpiu/tuesday_daily_thread_advanced_questions/)
+- [I wrote a book and I&#39;m so thankful for your support!](https://www.reddit.com/r/Python/comments/10jquse/i_wrote_a_book_and_im_so_thankful_for_your_support/)
 - [Improved merged-cell handling in docx2python](https://www.reddit.com/r/Python/comments/10jphyt/improved_mergedcell_handling_in_docx2python/)
-- [Dali - Powerful rendering of your source code.](https://www.reddit.com/r/Python/comments/10jmu6d/dali_powerful_rendering_of_your_source_code/)
-- [I&#39;ve made small tool today to quickly get packages info from requirements.txt](https://www.reddit.com/r/Python/comments/10jle3s/ive_made_small_tool_today_to_quickly_get_packages/)
-- [python -m http.server; but Markdown is Rendered and Served as HTML](https://www.reddit.com/r/Python/comments/10jl1ey/python_m_httpserver_but_markdown_is_rendered_and/)
-- [Finding 16,146 Unique Solutions to a Puzzle Using Python](https://www.reddit.com/r/Python/comments/10jky8j/finding_16146_unique_solutions_to_a_puzzle_using/)
 <!-- BLOG-POST-LIST:END -->
