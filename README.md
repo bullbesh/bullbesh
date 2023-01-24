@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linear Algebra in Python: Matrix Inverses and Least Squares – Real Python](https://www.reddit.com/r/Python/comments/10k6mxi/linear_algebra_in_python_matrix_inverses_and/)
 - [Returning to snake&#39;s nest after a long journey, any major advances in python for science ?](https://www.reddit.com/r/Python/comments/10k6dcf/returning_to_snakes_nest_after_a_long_journey_any/)
-- [How to learn web scrapping](https://www.reddit.com/r/Python/comments/10k6bqz/how_to_learn_web_scrapping/)
 - [I created my first ever open source library!!](https://www.reddit.com/r/Python/comments/10k63si/i_created_my_first_ever_open_source_library/)
-- [Manipulating the school survey to do something good](https://www.reddit.com/r/Python/comments/10k6326/manipulating_the_school_survey_to_do_something/)
-- [10 Creative python project ideas for beginners](https://www.reddit.com/r/Python/comments/10k5tuj/10_creative_python_project_ideas_for_beginners/)
+- [Forecasting with Facebook&#39;s Prophet Model](https://www.reddit.com/r/Python/comments/10k4cmm/forecasting_with_facebooks_prophet_model/)
+- [FastQL: Spin up a fast API to prototype your ML model in one line of Python code](https://www.reddit.com/r/Python/comments/10k4azv/fastql_spin_up_a_fast_api_to_prototype_your_ml/)
 <!-- BLOG-POST-LIST:END -->
