@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Python Function Better](https://www.reddit.com/r/Python/comments/10k2xh2/understanding_the_python_function_better/)
-- [Telegram botnet](https://www.reddit.com/r/Python/comments/10k2ew9/telegram_botnet/)
-- [ChatGPT As Python Instructor | Build 5 Python Apps with ChatGPT](https://www.reddit.com/r/Python/comments/10k2bfo/chatgpt_as_python_instructor_build_5_python_apps/)
-- [How do I compare string in an list?](https://www.reddit.com/r/Python/comments/10k2053/how_do_i_compare_string_in_an_list/)
-- [Mastopy -- a lightweight, cross-platform, desktop frontend to Mastodon written in Python and Kivy](https://www.reddit.com/r/Python/comments/10k10qh/mastopy_a_lightweight_crossplatform_desktop/)
+- [Forecasting with Facebook&#39;s Prophet Model](https://www.reddit.com/r/Python/comments/10k4cmm/forecasting_with_facebooks_prophet_model/)
+- [FastQL: Spin up a fast API to prototype your ML model in one line of Python code](https://www.reddit.com/r/Python/comments/10k4azv/fastql_spin_up_a_fast_api_to_prototype_your_ml/)
+- [How I made errors in Strawberry more user-friendly](https://www.reddit.com/r/Python/comments/10k40y2/how_i_made_errors_in_strawberry_more_userfriendly/)
+- [How to use the asciimatics library](https://www.reddit.com/r/Python/comments/10k3t18/how_to_use_the_asciimatics_library/)
+- [Best resources to learn Python](https://www.reddit.com/r/Python/comments/10k3ljc/best_resources_to_learn_python/)
 <!-- BLOG-POST-LIST:END -->
