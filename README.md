@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What happens when you run `python myfile.py`?](https://www.reddit.com/r/Python/comments/10kehin/what_happens_when_you_run_python_myfilepy/)
+- [Offer to Type Hint API&#39;s, or Start a Statically Typed Python?](https://www.reddit.com/r/Python/comments/10kehbi/offer_to_type_hint_apis_or_start_a_statically/)
+- [My first ever open source library!](https://www.reddit.com/r/Python/comments/10kdvwn/my_first_ever_open_source_library/)
 - [Playaudio - simplest cross platform way to play audio on Windows/MacOS/Linux](https://www.reddit.com/r/Python/comments/10kbvfc/playaudio_simplest_cross_platform_way_to_play/)
 - [How do you debug your code when learning new libraries?](https://www.reddit.com/r/Python/comments/10kbbwn/how_do_you_debug_your_code_when_learning_new/)
-- [Is it possible to exclude packages that are not specified in extra_required?](https://www.reddit.com/r/Python/comments/10k9o8o/is_it_possible_to_exclude_packages_that_are_not/)
-- [Pybi &lpar; &lpar;PYthon BInary&rpar; and Posy](https://www.reddit.com/r/Python/comments/10k8ser/pybi_python_binary_and_posy/)
-- [Semantic search and workflows for medical/scientific papers](https://www.reddit.com/r/Python/comments/10k80m7/semantic_search_and_workflows_for/)
 <!-- BLOG-POST-LIST:END -->
