@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [File backup desktop app. You can backup local and google drive on app. Also recover your files easily.](https://www.reddit.com/r/Python/comments/10kjd2h/file_backup_desktop_app_you_can_backup_local_and/)
+- [Pomodoro Timer in Python and PyGame!](https://www.reddit.com/r/Python/comments/10kigoy/pomodoro_timer_in_python_and_pygame/)
 - [Offer to Type Hint API&#39;s, or Start a Statically Typed Python?](https://www.reddit.com/r/Python/comments/10kehbi/offer_to_type_hint_apis_or_start_a_statically/)
 - [My first ever open source library!](https://www.reddit.com/r/Python/comments/10kdvwn/my_first_ever_open_source_library/)
 - [Playaudio - simplest cross platform way to play audio on Windows/MacOS/Linux](https://www.reddit.com/r/Python/comments/10kbvfc/playaudio_simplest_cross_platform_way_to_play/)
-- [How do you debug your code when learning new libraries?](https://www.reddit.com/r/Python/comments/10kbbwn/how_do_you_debug_your_code_when_learning_new/)
-- [Is it possible to exclude packages that are not specified in extra_required?](https://www.reddit.com/r/Python/comments/10k9o8o/is_it_possible_to_exclude_packages_that_are_not/)
 <!-- BLOG-POST-LIST:END -->
