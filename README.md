@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [This is how I create &quot;Messi vs Ronaldo using Python Programming&quot;](https://www.reddit.com/r/Python/comments/10jxkrb/this_is_how_i_create_messi_vs_ronaldo_using/)
 - [What were the resource&lpar;s&rpar; that helped you learn Python?](https://www.reddit.com/r/Python/comments/10jw0ju/what_were_the_resources_that_helped_you_learn/)
 - [Master Python Today!](https://www.reddit.com/r/Python/comments/10jvrqw/master_python_today/)
 - [quality assurance](https://www.reddit.com/r/Python/comments/10jvhdq/quality_assurance/)
 - [I would like to showcase a work in progress mastodon client made in python](https://www.reddit.com/r/Python/comments/10jshr5/i_would_like_to_showcase_a_work_in_progress/)
-- [Random Info Generator &lpar;First project with python&rpar;](https://www.reddit.com/r/Python/comments/10jsdjs/random_info_generator_first_project_with_python/)
 <!-- BLOG-POST-LIST:END -->
