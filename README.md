@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python crushing the other programming languages &lpar;1980-2023&rpar;](https://www.reddit.com/r/Python/comments/10l9vdy/python_crushing_the_other_programming_languages/)
+- [Programming Career Internship](https://www.reddit.com/r/Python/comments/10l9qbd/programming_career_internship/)
+- [Saving](https://www.reddit.com/r/Python/comments/10l95z8/saving/)
 - [Built a website for practicing Python](https://www.reddit.com/r/Python/comments/10l8ac0/built_a_website_for_practicing_python/)
 - [PEP 704 – Require virtual environments by default for package installers](https://www.reddit.com/r/Python/comments/10l5mmk/pep_704_require_virtual_environments_by_default/)
-- [tkinter in 2023?](https://www.reddit.com/r/Python/comments/10l4qv9/tkinter_in_2023/)
-- [Flood Fill: Recursion versus Iterative Solution](https://www.reddit.com/r/Python/comments/10l3jyx/flood_fill_recursion_versus_iterative_solution/)
-- [Python Programming Fundamentals - 6 How to Define a Function, and make use of Lambda Functions](https://www.reddit.com/r/Python/comments/10l344w/python_programming_fundamentals_6_how_to_define_a/)
 <!-- BLOG-POST-LIST:END -->
