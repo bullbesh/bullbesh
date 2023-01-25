@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [I wrote a script in python to view system details and update the linux system](https://www.reddit.com/r/Python/comments/10kqlk4/i_wrote_a_script_in_python_to_view_system_details/)
-- [help &lpar; beginner &rpar;](https://www.reddit.com/r/Python/comments/10kqfy1/help_beginner/)
-- [Chat gpt is wrong ig](https://www.reddit.com/r/Python/comments/10kq04q/chat_gpt_is_wrong_ig/)
 - [PyCharm and Python 3.11](https://www.reddit.com/r/Python/comments/10kpsxo/pycharm_and_python_311/)
 - [[WIP] drag’n drop UI builder for python](https://www.reddit.com/r/Python/comments/10ko89r/wip_dragn_drop_ui_builder_for_python/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/10kkgd1/wednesday_daily_thread_beginner_questions/)
+- [File backup desktop app. You can backup local and google drive on app. Also recover your files easily.](https://www.reddit.com/r/Python/comments/10kjd2h/file_backup_desktop_app_you_can_backup_local_and/)
 <!-- BLOG-POST-LIST:END -->
