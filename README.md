@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a program that organizes your music library by renaming your music files based on the ID3 tag &lpar;metadata&rpar;.](https://www.reddit.com/r/Python/comments/10kxmj9/i_wrote_a_program_that_organizes_your_music/)
+- [Made a generator tool of these 3D-Print-ready models](https://www.reddit.com/r/Python/comments/10kxa9o/made_a_generator_tool_of_these_3dprintready_models/)
+- [Asynchronous programming in Python with asyncio](https://www.reddit.com/r/Python/comments/10kwveo/asynchronous_programming_in_python_with_asyncio/)
 - [Hello I am new is there a welcome! I am still a beginner in the world of programming and I hope to be a professional.](https://www.reddit.com/r/Python/comments/10kw7tp/hello_i_am_new_is_there_a_welcome_i_am_still_a/)
 - [Alternatives to Makefile for Python](https://www.reddit.com/r/Python/comments/10kvfat/alternatives_to_makefile_for_python/)
-- [What is the reason for using Python for developing the Odoo?](https://www.reddit.com/r/Python/comments/10kuywm/what_is_the_reason_for_using_python_for/)
-- [I wrote an app for people suffering from OCD](https://www.reddit.com/r/Python/comments/10kt19u/i_wrote_an_app_for_people_suffering_from_ocd/)
-- [I wrote a script in python to view system details and update the linux system](https://www.reddit.com/r/Python/comments/10kqlk4/i_wrote_a_script_in_python_to_view_system_details/)
 <!-- BLOG-POST-LIST:END -->
