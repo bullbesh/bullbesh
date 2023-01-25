@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do Python webscrapers simulate Actually web traffic to websites?](https://www.reddit.com/r/Python/comments/10l25ii/do_python_webscrapers_simulate_actually_web/)
+- [Python script to auto move mouse every 4 minutes. Used part of TikToker afksosa script for the mouse moving part, but the rest of the logic is mine.](https://www.reddit.com/r/Python/comments/10l1gmk/python_script_to_auto_move_mouse_every_4_minutes/)
 - [generative-art: Generative art in Python using svg.py](https://www.reddit.com/r/Python/comments/10l0mun/generativeart_generative_art_in_python_using_svgpy/)
 - [What to do now?](https://www.reddit.com/r/Python/comments/10kzxih/what_to_do_now/)
 - [A GUI to automatically generate AI images from dream.ai](https://www.reddit.com/r/Python/comments/10kzho3/a_gui_to_automatically_generate_ai_images_from/)
-- [Python on Windows 7](https://www.reddit.com/r/Python/comments/10kzem2/python_on_windows_7/)
-- [Does someone of you work with plain python?](https://www.reddit.com/r/Python/comments/10kz7uz/does_someone_of_you_work_with_plain_python/)
 <!-- BLOG-POST-LIST:END -->
