@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [generative-art: Generative art in Python using svg.py](https://www.reddit.com/r/Python/comments/10l0mun/generativeart_generative_art_in_python_using_svgpy/)
+- [What to do now?](https://www.reddit.com/r/Python/comments/10kzxih/what_to_do_now/)
 - [A GUI to automatically generate AI images from dream.ai](https://www.reddit.com/r/Python/comments/10kzho3/a_gui_to_automatically_generate_ai_images_from/)
 - [Python on Windows 7](https://www.reddit.com/r/Python/comments/10kzem2/python_on_windows_7/)
 - [Does someone of you work with plain python?](https://www.reddit.com/r/Python/comments/10kz7uz/does_someone_of_you_work_with_plain_python/)
-- [How can i access data from a POST request body API with Python?](https://www.reddit.com/r/Python/comments/10kz4vf/how_can_i_access_data_from_a_post_request_body/)
-- [MusicLang : A python symbolic music library](https://www.reddit.com/r/Python/comments/10kyg4d/musiclang_a_python_symbolic_music_library/)
 <!-- BLOG-POST-LIST:END -->
