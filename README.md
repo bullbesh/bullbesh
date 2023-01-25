@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [get-pip.py SSL certificate expired](https://www.reddit.com/r/Python/comments/10lbc44/getpippy_ssl_certificate_expired/)
+- [Hi just cracked my shell](https://www.reddit.com/r/Python/comments/10lb6lf/hi_just_cracked_my_shell/)
+- [What did Python say to its lover? qt.py](https://www.reddit.com/r/Python/comments/10lasbq/what_did_python_say_to_its_lover_qtpy/)
+- [Which book](https://www.reddit.com/r/Python/comments/10lamwq/which_book/)
 - [Python crushing the other programming languages &lpar;1980-2023&rpar;](https://www.reddit.com/r/Python/comments/10l9vdy/python_crushing_the_other_programming_languages/)
-- [Programming Career Internship](https://www.reddit.com/r/Python/comments/10l9qbd/programming_career_internship/)
-- [Saving](https://www.reddit.com/r/Python/comments/10l95z8/saving/)
-- [Built a website for practicing Python](https://www.reddit.com/r/Python/comments/10l8ac0/built_a_website_for_practicing_python/)
-- [PEP 704 – Require virtual environments by default for package installers](https://www.reddit.com/r/Python/comments/10l5mmk/pep_704_require_virtual_environments_by_default/)
 <!-- BLOG-POST-LIST:END -->
