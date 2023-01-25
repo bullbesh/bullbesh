@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyCharm and Python 3.11](https://www.reddit.com/r/Python/comments/10kpsxo/pycharm_and_python_311/)
 - [[WIP] drag’n drop UI builder for python](https://www.reddit.com/r/Python/comments/10ko89r/wip_dragn_drop_ui_builder_for_python/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/10kkgd1/wednesday_daily_thread_beginner_questions/)
 - [File backup desktop app. You can backup local and google drive on app. Also recover your files easily.](https://www.reddit.com/r/Python/comments/10kjd2h/file_backup_desktop_app_you_can_backup_local_and/)
 - [Pomodoro Timer in Python and PyGame!](https://www.reddit.com/r/Python/comments/10kigoy/pomodoro_timer_in_python_and_pygame/)
-- [Offer to Type Hint API&#39;s, or Start a Statically Typed Python?](https://www.reddit.com/r/Python/comments/10kehbi/offer_to_type_hint_apis_or_start_a_statically/)
 <!-- BLOG-POST-LIST:END -->
