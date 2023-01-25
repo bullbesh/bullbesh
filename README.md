@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A GUI to automatically generate AI images from dream.ai](https://www.reddit.com/r/Python/comments/10kzho3/a_gui_to_automatically_generate_ai_images_from/)
+- [Python on Windows 7](https://www.reddit.com/r/Python/comments/10kzem2/python_on_windows_7/)
+- [Does someone of you work with plain python?](https://www.reddit.com/r/Python/comments/10kz7uz/does_someone_of_you_work_with_plain_python/)
+- [How can i access data from a POST request body API with Python?](https://www.reddit.com/r/Python/comments/10kz4vf/how_can_i_access_data_from_a_post_request_body/)
 - [MusicLang : A python symbolic music library](https://www.reddit.com/r/Python/comments/10kyg4d/musiclang_a_python_symbolic_music_library/)
-- [Python Bindings for Performance Optimization: A Zero to One Guide](https://www.reddit.com/r/Python/comments/10kydmi/python_bindings_for_performance_optimization_a/)
-- [I wrote a program that organizes your music library by renaming your music files based on the ID3 tag &lpar;metadata&rpar;.](https://www.reddit.com/r/Python/comments/10kxmj9/i_wrote_a_program_that_organizes_your_music/)
-- [Made a generator tool of these 3D-Print-ready models](https://www.reddit.com/r/Python/comments/10kxa9o/made_a_generator_tool_of_these_3dprintready_models/)
-- [Asynchronous programming in Python with asyncio](https://www.reddit.com/r/Python/comments/10kwveo/asynchronous_programming_in_python_with_asyncio/)
 <!-- BLOG-POST-LIST:END -->
