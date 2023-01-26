@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [power of a number using recursion](https://www.reddit.com/r/Python/comments/10ltr8c/power_of_a_number_using_recursion/)
+- [Replace JupyterHub with a simple FastAPI app to manage notebooks on Kubernetes](https://www.reddit.com/r/Python/comments/10ltpbe/replace_jupyterhub_with_a_simple_fastapi_app_to/)
+- [The Ultimate Coding Pal](https://www.reddit.com/r/Python/comments/10lt530/the_ultimate_coding_pal/)
+- [Earth Moon Model Tabletop Digital Art Python Project Combines a Raspberry Pi Computer with Sensors and Actuators to Create a Realistic Model of the Earth and the Moon in their orbits.](https://www.reddit.com/r/Python/comments/10lsra6/earth_moon_model_tabletop_digital_art_python/)
 - [Ruff: A new, fast and correct Python checker/linter](https://www.reddit.com/r/Python/comments/10lsovt/ruff_a_new_fast_and_correct_python_checkerlinter/)
-- [Discussion: big, nested, untyped dictionaries &lpar;converted JSON&rpar; that come back from API calls](https://www.reddit.com/r/Python/comments/10lsk2i/discussion_big_nested_untyped_dictionaries/)
-- [Free python course needed for beginners….plz tell where I can find one?](https://www.reddit.com/r/Python/comments/10ls9n9/free_python_course_needed_for_beginnersplz_tell/)
-- [ETL for medical and scientific papers](https://www.reddit.com/r/Python/comments/10ls2nu/etl_for_medical_and_scientific_papers/)
-- [JSON Database](https://www.reddit.com/r/Python/comments/10lrw3q/json_database/)
 <!-- BLOG-POST-LIST:END -->
