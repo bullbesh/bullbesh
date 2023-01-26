@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Interactive plots](https://www.reddit.com/r/Python/comments/10lq9h0/interactive_plots/)
-- [Announcing PostgreSQL 15, Python 3.11, and Ruby 3.2 for Platform.sh users](https://www.reddit.com/r/Python/comments/10lq82c/announcing_postgresql_15_python_311_and_ruby_32/)
-- [Heat map representation of chess moves](https://www.reddit.com/r/Python/comments/10lq7z7/heat_map_representation_of_chess_moves/)
-- [GitHub - causalgraph/causalgraph: A python package for modeling, persisting and visualizing causal graphs embedded in knowledge graphs.](https://www.reddit.com/r/Python/comments/10lpk2r/github_causalgraphcausalgraph_a_python_package/)
-- [pip and cargo are not the same](https://www.reddit.com/r/Python/comments/10lpbod/pip_and_cargo_are_not_the_same/)
+- [Ruff: A new, fast and correct Python checker/linter](https://www.reddit.com/r/Python/comments/10lsovt/ruff_a_new_fast_and_correct_python_checkerlinter/)
+- [Discussion: big, nested, untyped dictionaries &lpar;converted JSON&rpar; that come back from API calls](https://www.reddit.com/r/Python/comments/10lsk2i/discussion_big_nested_untyped_dictionaries/)
+- [Free python course needed for beginners….plz tell where I can find one?](https://www.reddit.com/r/Python/comments/10ls9n9/free_python_course_needed_for_beginnersplz_tell/)
+- [ETL for medical and scientific papers](https://www.reddit.com/r/Python/comments/10ls2nu/etl_for_medical_and_scientific_papers/)
+- [JSON Database](https://www.reddit.com/r/Python/comments/10lrw3q/json_database/)
 <!-- BLOG-POST-LIST:END -->
