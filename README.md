@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Open-source python projects](https://www.reddit.com/r/Python/comments/10m19wa/opensource_python_projects/)
+- [Best Practices for Dependency Versions](https://www.reddit.com/r/Python/comments/10m429j/best_practices_for_dependency_versions/)
+- [Create Your Chat GPT-3 Web App with Streamlit in Python](https://www.reddit.com/r/Python/comments/10m30vq/create_your_chat_gpt3_web_app_with_streamlit_in/)
+- [My first Open-Source project!](https://www.reddit.com/r/Python/comments/10m2u1j/my_first_opensource_project/)
 - [Python-pptx?](https://www.reddit.com/r/Python/comments/10lzcex/pythonpptx/)
 - [Koda Validate: Alternative to Pydantic that is faster, more flexible, and async-compatible.](https://www.reddit.com/r/Python/comments/10lx90w/koda_validate_alternative_to_pydantic_that_is/)
-- [Python 101 Crash Course for Beginners](https://www.reddit.com/r/Python/comments/10lx7l8/python_101_crash_course_for_beginners/)
-- [EVA Multimedia Database System | SQL meets Deep Learning](https://www.reddit.com/r/Python/comments/10lx3zy/eva_multimedia_database_system_sql_meets_deep/)
 <!-- BLOG-POST-LIST:END -->
