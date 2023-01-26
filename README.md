@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linear Algebra in Python: Matrix Inverses and Least Squares – Real Python](https://www.reddit.com/r/Python/comments/10lvixd/linear_algebra_in_python_matrix_inverses_and/)
+- [ANOVA](https://www.reddit.com/r/Python/comments/10lvfcl/anova/)
 - [power of a number using recursion](https://www.reddit.com/r/Python/comments/10ltr8c/power_of_a_number_using_recursion/)
 - [Replace JupyterHub with a simple FastAPI app to manage notebooks on Kubernetes](https://www.reddit.com/r/Python/comments/10ltpbe/replace_jupyterhub_with_a_simple_fastapi_app_to/)
-- [The Ultimate Coding Pal](https://www.reddit.com/r/Python/comments/10lt530/the_ultimate_coding_pal/)
 - [Earth Moon Model Tabletop Digital Art Python Project Combines a Raspberry Pi Computer with Sensors and Actuators to Create a Realistic Model of the Earth and the Moon in their orbits.](https://www.reddit.com/r/Python/comments/10lsra6/earth_moon_model_tabletop_digital_art_python/)
-- [Ruff: A new, fast and correct Python checker/linter](https://www.reddit.com/r/Python/comments/10lsovt/ruff_a_new_fast_and_correct_python_checkerlinter/)
 <!-- BLOG-POST-LIST:END -->
