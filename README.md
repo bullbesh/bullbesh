@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interactive plots](https://www.reddit.com/r/Python/comments/10lq9h0/interactive_plots/)
+- [Announcing PostgreSQL 15, Python 3.11, and Ruby 3.2 for Platform.sh users](https://www.reddit.com/r/Python/comments/10lq82c/announcing_postgresql_15_python_311_and_ruby_32/)
+- [Heat map representation of chess moves](https://www.reddit.com/r/Python/comments/10lq7z7/heat_map_representation_of_chess_moves/)
+- [GitHub - causalgraph/causalgraph: A python package for modeling, persisting and visualizing causal graphs embedded in knowledge graphs.](https://www.reddit.com/r/Python/comments/10lpk2r/github_causalgraphcausalgraph_a_python_package/)
 - [pip and cargo are not the same](https://www.reddit.com/r/Python/comments/10lpbod/pip_and_cargo_are_not_the_same/)
-- [Coming from Python background, i am very happy to share with you, Korm, an elegant and lightning-fast ORM for all your concurrent and async needs. Inspired by the highly popular Django Framework, Korm offers similar functionality with the added bonus of performance](https://www.reddit.com/r/Python/comments/10lp6ao/coming_from_python_background_i_am_very_happy_to/)
-- [Python script to use OpenAI ChatGPT in your CLI . Search and Save file in your CLI.](https://www.reddit.com/r/Python/comments/10lneab/python_script_to_use_openai_chatgpt_in_your_cli/)
-- [Advanced Quantum Machine Learning- Project Tutorial](https://www.reddit.com/r/Python/comments/10lkt0p/advanced_quantum_machine_learning_project_tutorial/)
-- [Input&lpar;&rpar; problem](https://www.reddit.com/r/Python/comments/10lki9r/input_problem/)
 <!-- BLOG-POST-LIST:END -->
