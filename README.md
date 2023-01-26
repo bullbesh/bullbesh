@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Linear Algebra in Python: Matrix Inverses and Least Squares – Real Python](https://www.reddit.com/r/Python/comments/10lvixd/linear_algebra_in_python_matrix_inverses_and/)
+- [Koda Validate: Alternative to Pydantic that is faster, more flexible, and async-compatible.](https://www.reddit.com/r/Python/comments/10lx90w/koda_validate_alternative_to_pydantic_that_is/)
+- [Python 101 Crash Course for Beginners](https://www.reddit.com/r/Python/comments/10lx7l8/python_101_crash_course_for_beginners/)
+- [EVA Multimedia Database System | SQL meets Deep Learning](https://www.reddit.com/r/Python/comments/10lx3zy/eva_multimedia_database_system_sql_meets_deep/)
 - [ANOVA](https://www.reddit.com/r/Python/comments/10lvfcl/anova/)
 - [power of a number using recursion](https://www.reddit.com/r/Python/comments/10ltr8c/power_of_a_number_using_recursion/)
-- [Replace JupyterHub with a simple FastAPI app to manage notebooks on Kubernetes](https://www.reddit.com/r/Python/comments/10ltpbe/replace_jupyterhub_with_a_simple_fastapi_app_to/)
-- [Earth Moon Model Tabletop Digital Art Python Project Combines a Raspberry Pi Computer with Sensors and Actuators to Create a Realistic Model of the Earth and the Moon in their orbits.](https://www.reddit.com/r/Python/comments/10lsra6/earth_moon_model_tabletop_digital_art_python/)
 <!-- BLOG-POST-LIST:END -->
