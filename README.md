@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A python module to generate optimized prompts, Prompt-engineering &amp; solve different NLP problems using GPT-n &lpar;GPT-3, ChatGPT&rpar; based models and return structured python object for easy parsing](https://www.reddit.com/r/Python/comments/10mg2yf/a_python_module_to_generate_optimized_prompts/)
 - [Difficult merge review.](https://www.reddit.com/r/Python/comments/10mfmwn/difficult_merge_review/)
 - [Pandas Illustrated. The Definitive Visual Guide to Pandas.](https://www.reddit.com/r/Python/comments/10mezt9/pandas_illustrated_the_definitive_visual_guide_to/)
 - [Requesting a review of the package `pyytdata`](https://www.reddit.com/r/Python/comments/10mdkqa/requesting_a_review_of_the_package_pyytdata/)
 - [I made a flask web app for my office to track work](https://www.reddit.com/r/Python/comments/10md9s4/i_made_a_flask_web_app_for_my_office_to_track_work/)
-- [Web App That Can Run Scripts](https://www.reddit.com/r/Python/comments/10mb9fy/web_app_that_can_run_scripts/)
 <!-- BLOG-POST-LIST:END -->
