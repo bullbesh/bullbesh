@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [⭕ What People Are Missing About Microsoft’s $10B Investment In OpenAI](https://www.reddit.com/r/Python/comments/10mhxrt/what_people_are_missing_about_microsofts_10b/)
 - [Analyze malicious behaviors in PyPI packages - Efficient Threat Detection in Cybersecurity with Memgraph based on data from CVE](https://www.reddit.com/r/Python/comments/10mhc1r/analyze_malicious_behaviors_in_pypi_packages/)
 - [A python module to generate optimized prompts, Prompt-engineering &amp; solve different NLP problems using GPT-n &lpar;GPT-3, ChatGPT&rpar; based models and return structured python object for easy parsing](https://www.reddit.com/r/Python/comments/10mg2yf/a_python_module_to_generate_optimized_prompts/)
 - [Difficult merge review.](https://www.reddit.com/r/Python/comments/10mfmwn/difficult_merge_review/)
 - [Pandas Illustrated. The Definitive Visual Guide to Pandas.](https://www.reddit.com/r/Python/comments/10mezt9/pandas_illustrated_the_definitive_visual_guide_to/)
-- [Requesting a review of the package `pyytdata`](https://www.reddit.com/r/Python/comments/10mdkqa/requesting_a_review_of_the_package_pyytdata/)
 <!-- BLOG-POST-LIST:END -->
