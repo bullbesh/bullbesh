@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Machine Learning: An Advanced End-to-End Project Tutorial](https://www.reddit.com/r/Python/comments/10m8a5m/quantum_machine_learning_an_advanced_endtoend/)
+- [save values to an empty array &lpar;float&rpar; from tkinter](https://www.reddit.com/r/Python/comments/10m84dw/save_values_to_an_empty_array_float_from_tkinter/)
+- [What are you guys using for making GUIs nowadays?](https://www.reddit.com/r/Python/comments/10m7egh/what_are_you_guys_using_for_making_guis_nowadays/)
+- [SQLAlchemy 2.0.0 Released](https://www.reddit.com/r/Python/comments/10m7blk/sqlalchemy_200_released/)
 - [Best Practices for Dependency Versions](https://www.reddit.com/r/Python/comments/10m429j/best_practices_for_dependency_versions/)
-- [Create Your Chat GPT-3 Web App with Streamlit in Python](https://www.reddit.com/r/Python/comments/10m30vq/create_your_chat_gpt3_web_app_with_streamlit_in/)
-- [My first Open-Source project!](https://www.reddit.com/r/Python/comments/10m2u1j/my_first_opensource_project/)
-- [Python-pptx?](https://www.reddit.com/r/Python/comments/10lzcex/pythonpptx/)
-- [Koda Validate: Alternative to Pydantic that is faster, more flexible, and async-compatible.](https://www.reddit.com/r/Python/comments/10lx90w/koda_validate_alternative_to_pydantic_that_is/)
 <!-- BLOG-POST-LIST:END -->
