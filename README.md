@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a CLI tool that lets you interact with the terminal in plain English using GPT-3](https://www.reddit.com/r/Python/comments/10mnbw6/i_made_a_cli_tool_that_lets_you_interact_with_the/)
+- [Cacheme: Asyncio cache framework with multiple storages and thundering herd protection](https://www.reddit.com/r/Python/comments/10mmj33/cacheme_asyncio_cache_framework_with_multiple/)
+- [Why don&#39;t virtual environments create links to a central package location?](https://www.reddit.com/r/Python/comments/10mm3b6/why_dont_virtual_environments_create_links_to_a/)
 - [downsampling 500M datapoints in &lt; 0.05s](https://www.reddit.com/r/Python/comments/10mk2ke/downsampling_500m_datapoints_in_005s/)
-- [⭕ What People Are Missing About Microsoft’s $10B Investment In OpenAI](https://www.reddit.com/r/Python/comments/10mhxrt/what_people_are_missing_about_microsofts_10b/)
 - [Analyze malicious behaviors in PyPI packages - Efficient Threat Detection in Cybersecurity with Memgraph based on data from CVE](https://www.reddit.com/r/Python/comments/10mhc1r/analyze_malicious_behaviors_in_pypi_packages/)
-- [A python module to generate optimized prompts, Prompt-engineering &amp; solve different NLP problems using GPT-n &lpar;GPT-3, ChatGPT&rpar; based models and return structured python object for easy parsing](https://www.reddit.com/r/Python/comments/10mg2yf/a_python_module_to_generate_optimized_prompts/)
-- [Difficult merge review.](https://www.reddit.com/r/Python/comments/10mfmwn/difficult_merge_review/)
 <!-- BLOG-POST-LIST:END -->
