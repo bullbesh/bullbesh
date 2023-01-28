@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What have you automated with python?](https://www.reddit.com/r/Python/comments/10nalz1/what_have_you_automated_with_python/)
+- [Class Methods and other functions](https://www.reddit.com/r/Python/comments/10nabtt/class_methods_and_other_functions/)
 - [What are some real world projects to try working on?](https://www.reddit.com/r/Python/comments/10n9yai/what_are_some_real_world_projects_to_try_working/)
 - [Any robust language translation libraries? Translation seems to raise exceptions out of nowhere](https://www.reddit.com/r/Python/comments/10n9t0g/any_robust_language_translation_libraries/)
-- [Meet Graphein: a Python Library for Geometric Deep Learning and Network Analysis on Protein Structures and Interaction Networks](https://www.reddit.com/r/Python/comments/10n9m64/meet_graphein_a_python_library_for_geometric_deep/)
 - [A new way to accelerate your data science workflow](https://www.reddit.com/r/Python/comments/10n89ij/a_new_way_to_accelerate_your_data_science_workflow/)
-- [Introducing the New Release of ReductStore Python SDK: v1.3.0: Labels Support and More](https://www.reddit.com/r/Python/comments/10n82iq/introducing_the_new_release_of_reductstore_python/)
 <!-- BLOG-POST-LIST:END -->
