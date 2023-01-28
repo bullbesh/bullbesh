@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [First Published Book &quot;Python and AI: The Ultimate Party Guide for Mastering the Magic of Code&quot;](https://www.reddit.com/r/Python/comments/10nq0qh/first_published_book_python_and_ai_the_ultimate/)
+- [Library for Music Segmentation](https://www.reddit.com/r/Python/comments/10npw4t/library_for_music_segmentation/)
 - [Flake8 FastAPI route-case](https://www.reddit.com/r/Python/comments/10nolqk/flake8_fastapi_routecase/)
 - [Is it really that hard to code Python on mobile?](https://www.reddit.com/r/Python/comments/10noe29/is_it_really_that_hard_to_code_python_on_mobile/)
 - [I would like to share my project to use YOLOv7 Pose estimation easily in your projects.](https://www.reddit.com/r/Python/comments/10no9g9/i_would_like_to_share_my_project_to_use_yolov7/)
-- [Data Structures: Cheat Sheet](https://www.reddit.com/r/Python/comments/10nlxnw/data_structures_cheat_sheet/)
-- [Seeking Feedback: How to Improve My Cheat Sheet for Beginners in Machine Learning Algorithms - Types, Applications, and Examples](https://www.reddit.com/r/Python/comments/10nlp3a/seeking_feedback_how_to_improve_my_cheat_sheet/)
 <!-- BLOG-POST-LIST:END -->
