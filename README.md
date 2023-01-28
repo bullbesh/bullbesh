@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [tft virtaul mouse with opencv python](https://www.reddit.com/r/Python/comments/10n3vai/tft_virtaul_mouse_with_opencv_python/)
 - [Does anyone have an explanation to this? Fibonacci sequence calculation](https://www.reddit.com/r/Python/comments/10n10np/does_anyone_have_an_explanation_to_this_fibonacci/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/10n0br9/saturday_daily_thread_resource_request_and/)
 - [I coded a 100% automated YouTube Channel](https://www.reddit.com/r/Python/comments/10mz86x/i_coded_a_100_automated_youtube_channel/)
 - [I have made spongebob-cli, watch classic spongebob from your terminal! 🎥](https://www.reddit.com/r/Python/comments/10myh18/i_have_made_spongebobcli_watch_classic_spongebob/)
-- [Gui to set desktop background to live satellite images. For Windows, Mac and Linux. You can create your own image compositions with all known Earth and Sun satellite images.](https://www.reddit.com/r/Python/comments/10mya8w/gui_to_set_desktop_background_to_live_satellite/)
 <!-- BLOG-POST-LIST:END -->
