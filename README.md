@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are some real world projects to try working on?](https://www.reddit.com/r/Python/comments/10n9yai/what_are_some_real_world_projects_to_try_working/)
+- [Any robust language translation libraries? Translation seems to raise exceptions out of nowhere](https://www.reddit.com/r/Python/comments/10n9t0g/any_robust_language_translation_libraries/)
+- [Meet Graphein: a Python Library for Geometric Deep Learning and Network Analysis on Protein Structures and Interaction Networks](https://www.reddit.com/r/Python/comments/10n9m64/meet_graphein_a_python_library_for_geometric_deep/)
 - [A new way to accelerate your data science workflow](https://www.reddit.com/r/Python/comments/10n89ij/a_new_way_to_accelerate_your_data_science_workflow/)
 - [Introducing the New Release of ReductStore Python SDK: v1.3.0: Labels Support and More](https://www.reddit.com/r/Python/comments/10n82iq/introducing_the_new_release_of_reductstore_python/)
-- [Power history research with python and AI](https://www.reddit.com/r/Python/comments/10n4m6f/power_history_research_with_python_and_ai/)
-- [Sharing my first text-based python game: MOOD! The game features crafting, pets and housing systems. I&#39;m sure it will still crash here and there since I&#39;m just starting out, but I hope you enjoy it](https://www.reddit.com/r/Python/comments/10n4gon/sharing_my_first_textbased_python_game_mood_the/)
-- [tft virtaul mouse with opencv python](https://www.reddit.com/r/Python/comments/10n3vai/tft_virtaul_mouse_with_opencv_python/)
 <!-- BLOG-POST-LIST:END -->
