@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it really that hard to code Python on mobile?](https://www.reddit.com/r/Python/comments/10noe29/is_it_really_that_hard_to_code_python_on_mobile/)
+- [I would like to share my project to use YOLOv7 Pose estimation easily in your projects.](https://www.reddit.com/r/Python/comments/10no9g9/i_would_like_to_share_my_project_to_use_yolov7/)
+- [How to easily extract data from Spotify?](https://www.reddit.com/r/Python/comments/10nnr05/how_to_easily_extract_data_from_spotify/)
 - [Data Structures: Cheat Sheet](https://www.reddit.com/r/Python/comments/10nlxnw/data_structures_cheat_sheet/)
 - [Seeking Feedback: How to Improve My Cheat Sheet for Beginners in Machine Learning Algorithms - Types, Applications, and Examples](https://www.reddit.com/r/Python/comments/10nlp3a/seeking_feedback_how_to_improve_my_cheat_sheet/)
-- [Python Celery - high level overview&lpar;animated video&rpar;](https://www.reddit.com/r/Python/comments/10nl6ii/python_celery_high_level_overviewanimated_video/)
-- [Automatically tweet your last four letterboxd movies logged.](https://www.reddit.com/r/Python/comments/10nkqbh/automatically_tweet_your_last_four_letterboxd/)
-- [Clamshell- an experimental, interactive shell](https://www.reddit.com/r/Python/comments/10nf8d3/clamshell_an_experimental_interactive_shell/)
 <!-- BLOG-POST-LIST:END -->
