@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pygame Dungeon Lighting Demo](https://www.reddit.com/r/Python/comments/10o6jaw/pygame_dungeon_lighting_demo/)
+- [float=0.0, string=&quot;🐝&quot;](https://www.reddit.com/r/Python/comments/10o6izl/float00_string/)
+- [I made a spotify song request bot for twitch.](https://www.reddit.com/r/Python/comments/10o5rus/i_made_a_spotify_song_request_bot_for_twitch/)
+- [Hello everyone, I want to solve the problem of downloading visual code on Windows 7 64-bit](https://www.reddit.com/r/Python/comments/10o5g8j/hello_everyone_i_want_to_solve_the_problem_of/)
 - [Reinforcement Learning for Beginners: Coding a Maze-solving Agent from Scratch](https://www.reddit.com/r/Python/comments/10o3k0b/reinforcement_learning_for_beginners_coding_a/)
-- [CLI Pomodoro work flow timer with Curses!](https://www.reddit.com/r/Python/comments/10o20yj/cli_pomodoro_work_flow_timer_with_curses/)
-- [A* Pathfinding Algorithm in python](https://www.reddit.com/r/Python/comments/10o1v4w/a_pathfinding_algorithm_in_python/)
-- [Coroutines: Most Intuitive Explanation](https://www.reddit.com/r/Python/comments/10o1rzk/coroutines_most_intuitive_explanation/)
-- [Databases](https://www.reddit.com/r/Python/comments/10nytgq/databases/)
 <!-- BLOG-POST-LIST:END -->
