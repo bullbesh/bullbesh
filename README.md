@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reinforcement Learning for Beginners: Coding a Maze-solving Agent from Scratch](https://www.reddit.com/r/Python/comments/10o3k0b/reinforcement_learning_for_beginners_coding_a/)
 - [CLI Pomodoro work flow timer with Curses!](https://www.reddit.com/r/Python/comments/10o20yj/cli_pomodoro_work_flow_timer_with_curses/)
 - [A* Pathfinding Algorithm in python](https://www.reddit.com/r/Python/comments/10o1v4w/a_pathfinding_algorithm_in_python/)
 - [Coroutines: Most Intuitive Explanation](https://www.reddit.com/r/Python/comments/10o1rzk/coroutines_most_intuitive_explanation/)
 - [Databases](https://www.reddit.com/r/Python/comments/10nytgq/databases/)
-- [Tienc - my python library for encrypting images and text](https://www.reddit.com/r/Python/comments/10nyqq2/tienc_my_python_library_for_encrypting_images_and/)
 <!-- BLOG-POST-LIST:END -->
