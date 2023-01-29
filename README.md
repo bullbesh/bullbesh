@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a python script that converts your beer or wine size and alcohol by volume into how many shots it is](https://www.reddit.com/r/Python/comments/10ok84v/i_created_a_python_script_that_converts_your_beer/)
+- [Extra Code](https://www.reddit.com/r/Python/comments/10ojlyx/extra_code/)
 - [My Book: 200 OOP Exercises for Python](https://www.reddit.com/r/Python/comments/10ohcs0/my_book_200_oop_exercises_for_python/)
 - [windows logs collection](https://www.reddit.com/r/Python/comments/10ogsmd/windows_logs_collection/)
 - [Hope this brightens someones day :&rpar;](https://www.reddit.com/r/Python/comments/10oe8hl/hope_this_brightens_someones_day/)
-- [ORM for FastAPI+PostgreSQL, Tortoise or Sqlalchemy? what would you choose and why?](https://www.reddit.com/r/Python/comments/10odh4p/orm_for_fastapipostgresql_tortoise_or_sqlalchemy/)
-- [im taking a programming class and ill try to make any code you suggest](https://www.reddit.com/r/Python/comments/10odgs6/im_taking_a_programming_class_and_ill_try_to_make/)
 <!-- BLOG-POST-LIST:END -->
