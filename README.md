@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/10ntjak/sunday_daily_thread_whats_everyone_working_on/)
+- [How to build a DAG based Task Scheduling tool for Multiprocessor systems using python](https://www.reddit.com/r/Python/comments/10nstyh/how_to_build_a_dag_based_task_scheduling_tool_for/)
 - [First Published Book &quot;Python and AI: The Ultimate Party Guide for Mastering the Magic of Code&quot;](https://www.reddit.com/r/Python/comments/10nq0qh/first_published_book_python_and_ai_the_ultimate/)
 - [Library for Music Segmentation](https://www.reddit.com/r/Python/comments/10npw4t/library_for_music_segmentation/)
 - [Flake8 FastAPI route-case](https://www.reddit.com/r/Python/comments/10nolqk/flake8_fastapi_routecase/)
-- [Is it really that hard to code Python on mobile?](https://www.reddit.com/r/Python/comments/10noe29/is_it_really_that_hard_to_code_python_on_mobile/)
-- [I would like to share my project to use YOLOv7 Pose estimation easily in your projects.](https://www.reddit.com/r/Python/comments/10no9g9/i_would_like_to_share_my_project_to_use_yolov7/)
 <!-- BLOG-POST-LIST:END -->
