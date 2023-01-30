@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [An interesting way of writing code to print prime numbers within a specified range.](https://www.reddit.com/r/Python/comments/10p57eb/an_interesting_way_of_writing_code_to_print_prime/)
+- [How did I ever get along without IDLEx?](https://www.reddit.com/r/Python/comments/10p3ma7/how_did_i_ever_get_along_without_idlex/)
 - [I need Some opinion on my beginner tkinter typing test project.](https://www.reddit.com/r/Python/comments/10p3gqt/i_need_some_opinion_on_my_beginner_tkinter_typing/)
 - [Understanding Similarity Measures for Text Analysis](https://www.reddit.com/r/Python/comments/10p0q7t/understanding_similarity_measures_for_text/)
 - [Coroutines : Most Intuitive Explanation](https://www.reddit.com/r/Python/comments/10oz1l4/coroutines_most_intuitive_explanation/)
-- [Stacks and Queues in Python](https://www.reddit.com/r/Python/comments/10oyssl/stacks_and_queues_in_python/)
-- [Quaker: A paginated client for the USGS earthquake database](https://www.reddit.com/r/Python/comments/10oybdv/quaker_a_paginated_client_for_the_usgs_earthquake/)
 <!-- BLOG-POST-LIST:END -->
