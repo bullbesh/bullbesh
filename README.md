@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I need Some opinion on my beginner tkinter typing test project.](https://www.reddit.com/r/Python/comments/10p3gqt/i_need_some_opinion_on_my_beginner_tkinter_typing/)
 - [Understanding Similarity Measures for Text Analysis](https://www.reddit.com/r/Python/comments/10p0q7t/understanding_similarity_measures_for_text/)
-- [Is there anyone worked with weather Api?](https://www.reddit.com/r/Python/comments/10ozw7f/is_there_anyone_worked_with_weather_api/)
-- [Python for automotive testing](https://www.reddit.com/r/Python/comments/10ozkbc/python_for_automotive_testing/)
 - [Coroutines : Most Intuitive Explanation](https://www.reddit.com/r/Python/comments/10oz1l4/coroutines_most_intuitive_explanation/)
 - [Stacks and Queues in Python](https://www.reddit.com/r/Python/comments/10oyssl/stacks_and_queues_in_python/)
+- [Quaker: A paginated client for the USGS earthquake database](https://www.reddit.com/r/Python/comments/10oybdv/quaker_a_paginated_client_for_the_usgs_earthquake/)
 <!-- BLOG-POST-LIST:END -->
