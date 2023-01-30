@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Full support for slots in dataclasses](https://www.reddit.com/r/Python/comments/10pce4u/full_support_for_slots_in_dataclasses/)
+- [Do you know any library that automatically detects unused files / functions inside a project folder?](https://www.reddit.com/r/Python/comments/10pc0vg/do_you_know_any_library_that_automatically/)
+- [Computer Vision Autopilot](https://www.reddit.com/r/Python/comments/10pbmqn/computer_vision_autopilot/)
 - [So you want to write a package manager](https://www.reddit.com/r/Python/comments/10pa3r0/so_you_want_to_write_a_package_manager/)
 - [Puthon Automation](https://www.reddit.com/r/Python/comments/10p9odk/puthon_automation/)
-- [ConfigParser potential inconsistencies](https://www.reddit.com/r/Python/comments/10p8szk/configparser_potential_inconsistencies/)
-- [Built a little evolution simulator in pygame!](https://www.reddit.com/r/Python/comments/10p87t5/built_a_little_evolution_simulator_in_pygame/)
-- [pls help idk why &quot;remove&lpar;&rpar;&quot; doesnt work on my program =&lpar;](https://www.reddit.com/r/Python/comments/10p6tqd/pls_help_idk_why_remove_doesnt_work_on_my_program/)
 <!-- BLOG-POST-LIST:END -->
