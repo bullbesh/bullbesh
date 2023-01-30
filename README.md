@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Puthon Automation](https://www.reddit.com/r/Python/comments/10p9odk/puthon_automation/)
+- [Top 10 Uses of ChatGPT for Python Programmers](https://www.reddit.com/r/Python/comments/10p99lk/top_10_uses_of_chatgpt_for_python_programmers/)
+- [ConfigParser potential inconsistencies](https://www.reddit.com/r/Python/comments/10p8szk/configparser_potential_inconsistencies/)
 - [Built a little evolution simulator in pygame!](https://www.reddit.com/r/Python/comments/10p87t5/built_a_little_evolution_simulator_in_pygame/)
 - [pls help idk why &quot;remove&lpar;&rpar;&quot; doesnt work on my program =&lpar;](https://www.reddit.com/r/Python/comments/10p6tqd/pls_help_idk_why_remove_doesnt_work_on_my_program/)
-- [An interesting way of writing code to print prime numbers within a specified range.](https://www.reddit.com/r/Python/comments/10p57eb/an_interesting_way_of_writing_code_to_print_prime/)
-- [How did I ever get along without IDLEx?](https://www.reddit.com/r/Python/comments/10p3ma7/how_did_i_ever_get_along_without_idlex/)
-- [I need Some opinion on my beginner tkinter typing test project.](https://www.reddit.com/r/Python/comments/10p3gqt/i_need_some_opinion_on_my_beginner_tkinter_typing/)
 <!-- BLOG-POST-LIST:END -->
