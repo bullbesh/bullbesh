@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python newbie](https://www.reddit.com/r/Python/comments/10ouoy2/python_newbie/)
+- [MentorSpace Education - Python, Data Structures, and Algorithms](https://www.reddit.com/r/Python/comments/10ouhk1/mentorspace_education_python_data_structures_and/)
 - [Complete 2022 Python for OpenCV &amp; Detection](https://www.reddit.com/r/Python/comments/10otare/complete_2022_python_for_opencv_detection/)
 - [Reading RAW images on Apple M1/M2 &lpar;arm64&rpar;](https://www.reddit.com/r/Python/comments/10oqy9m/reading_raw_images_on_apple_m1m2_arm64/)
 - [Optimization algorithms](https://www.reddit.com/r/Python/comments/10onx1a/optimization_algorithms/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/10omwjh/monday_daily_thread_project_ideas/)
-- [Creating Sky Maps to track comet C/2022 E3 &lpar;ZTF&rpar;](https://www.reddit.com/r/Python/comments/10okrio/creating_sky_maps_to_track_comet_c2022_e3_ztf/)
 <!-- BLOG-POST-LIST:END -->
