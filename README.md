@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I don&#39;t understand urllib redirections.](https://www.reddit.com/r/Python/comments/10pd88r/i_dont_understand_urllib_redirections/)
+- [Expense Tracker](https://www.reddit.com/r/Python/comments/10pcz96/expense_tracker/)
 - [Full support for slots in dataclasses](https://www.reddit.com/r/Python/comments/10pce4u/full_support_for_slots_in_dataclasses/)
 - [Do you know any library that automatically detects unused files / functions inside a project folder?](https://www.reddit.com/r/Python/comments/10pc0vg/do_you_know_any_library_that_automatically/)
 - [Computer Vision Autopilot](https://www.reddit.com/r/Python/comments/10pbmqn/computer_vision_autopilot/)
-- [So you want to write a package manager](https://www.reddit.com/r/Python/comments/10pa3r0/so_you_want_to_write_a_package_manager/)
-- [Puthon Automation](https://www.reddit.com/r/Python/comments/10p9odk/puthon_automation/)
 <!-- BLOG-POST-LIST:END -->
