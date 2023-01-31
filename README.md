@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyCharm has become horrible to work with over SSH interpreter, any similar experiences?](https://www.reddit.com/r/Python/comments/10pyujg/pycharm_has_become_horrible_to_work_with_over_ssh/)
+- [What does Python uniquely offer for automation?](https://www.reddit.com/r/Python/comments/10pyttg/what_does_python_uniquely_offer_for_automation/)
+- [AWS lambda payload in Pythonic way.](https://www.reddit.com/r/Python/comments/10pxx2f/aws_lambda_payload_in_pythonic_way/)
 - [Understanding Python re&lpar;gex&rpar;? with hundreds of examples and exercises &lpar;free till Feb 5&rpar;](https://www.reddit.com/r/Python/comments/10pwmaw/understanding_python_regex_with_hundreds_of/)
-- [Why Python remains to be the Most In-Demand Programming Language](https://www.reddit.com/r/Python/comments/10pwlc1/why_python_remains_to_be_the_most_indemand/)
 - [The New Anvil Editor: Build Python Web Apps with Even More Power and Flexibility](https://www.reddit.com/r/Python/comments/10pw01v/the_new_anvil_editor_build_python_web_apps_with/)
-- [Transfer the ownership of Flask-Mailing](https://www.reddit.com/r/Python/comments/10pvwlu/transfer_the_ownership_of_flaskmailing/)
-- [Using Testing Library with Selenium in Python](https://www.reddit.com/r/Python/comments/10psk29/using_testing_library_with_selenium_in_python/)
 <!-- BLOG-POST-LIST:END -->
