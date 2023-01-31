@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cursor clicker program question](https://www.reddit.com/r/Python/comments/10q5lj5/cursor_clicker_program_question/)
+- [Raspberry Pi camera &amp; Python time lapse project](https://www.reddit.com/r/Python/comments/10q59nr/raspberry_pi_camera_python_time_lapse_project/)
+- [Documentation assistant, chat bot that helps with libraries. Fully context aware](https://www.reddit.com/r/Python/comments/10q4xn0/documentation_assistant_chat_bot_that_helps_with/)
+- [Idea &lpar;or not sure if exists&rpar;: automatic setdefault in dict](https://www.reddit.com/r/Python/comments/10q4vdw/idea_or_not_sure_if_exists_automatic_setdefault/)
 - [A Music Theory Telegram Bot written in Python](https://www.reddit.com/r/Python/comments/10q44dg/a_music_theory_telegram_bot_written_in_python/)
-- [What Makes a Good Leader](https://www.reddit.com/r/Python/comments/10q3eyy/what_makes_a_good_leader/)
-- [Create a GUI with Python](https://www.reddit.com/r/Python/comments/10q2vjz/create_a_gui_with_python/)
-- [Django and Flutter. What Flet has joined together.](https://www.reddit.com/r/Python/comments/10q2tuu/django_and_flutter_what_flet_has_joined_together/)
-- [Leak Detection with Sound Files](https://www.reddit.com/r/Python/comments/10q2bc0/leak_detection_with_sound_files/)
 <!-- BLOG-POST-LIST:END -->
