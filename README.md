@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Detailed tutorial on How to Use Python and Beautiful Soup for Web Scraping](https://www.reddit.com/r/Python/comments/10q7ji7/detailed_tutorial_on_how_to_use_python_and/)
+- [5 Common Asyncio Errors in Python &lpar;and how to avoid them&rpar;](https://www.reddit.com/r/Python/comments/10q6ma3/5_common_asyncio_errors_in_python_and_how_to/)
 - [Cursor clicker program question](https://www.reddit.com/r/Python/comments/10q5lj5/cursor_clicker_program_question/)
 - [Raspberry Pi camera &amp; Python time lapse project](https://www.reddit.com/r/Python/comments/10q59nr/raspberry_pi_camera_python_time_lapse_project/)
 - [Documentation assistant, chat bot that helps with libraries. Fully context aware](https://www.reddit.com/r/Python/comments/10q4xn0/documentation_assistant_chat_bot_that_helps_with/)
-- [Idea &lpar;or not sure if exists&rpar;: automatic setdefault in dict](https://www.reddit.com/r/Python/comments/10q4vdw/idea_or_not_sure_if_exists_automatic_setdefault/)
-- [A Music Theory Telegram Bot written in Python](https://www.reddit.com/r/Python/comments/10q44dg/a_music_theory_telegram_bot_written_in_python/)
 <!-- BLOG-POST-LIST:END -->
