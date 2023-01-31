@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Python re&lpar;gex&rpar;? with hundreds of examples and exercises &lpar;free till Feb 5&rpar;](https://www.reddit.com/r/Python/comments/10pwmaw/understanding_python_regex_with_hundreds_of/)
+- [Why Python remains to be the Most In-Demand Programming Language](https://www.reddit.com/r/Python/comments/10pwlc1/why_python_remains_to_be_the_most_indemand/)
 - [The New Anvil Editor: Build Python Web Apps with Even More Power and Flexibility](https://www.reddit.com/r/Python/comments/10pw01v/the_new_anvil_editor_build_python_web_apps_with/)
 - [Transfer the ownership of Flask-Mailing](https://www.reddit.com/r/Python/comments/10pvwlu/transfer_the_ownership_of_flaskmailing/)
 - [Using Testing Library with Selenium in Python](https://www.reddit.com/r/Python/comments/10psk29/using_testing_library_with_selenium_in_python/)
-- [Looking for a tutorial on building restful apis in the functional paradigm in python](https://www.reddit.com/r/Python/comments/10ps5us/looking_for_a_tutorial_on_building_restful_apis/)
-- [How to run our Python WebAssembly module it in Docker, Wasmtime and WasmEdge](https://www.reddit.com/r/Python/comments/10ps4ry/how_to_run_our_python_webassembly_module_it_in/)
 <!-- BLOG-POST-LIST:END -->
