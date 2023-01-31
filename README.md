@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Music Theory Telegram Bot written in Python](https://www.reddit.com/r/Python/comments/10q44dg/a_music_theory_telegram_bot_written_in_python/)
+- [What Makes a Good Leader](https://www.reddit.com/r/Python/comments/10q3eyy/what_makes_a_good_leader/)
 - [Create a GUI with Python](https://www.reddit.com/r/Python/comments/10q2vjz/create_a_gui_with_python/)
 - [Django and Flutter. What Flet has joined together.](https://www.reddit.com/r/Python/comments/10q2tuu/django_and_flutter_what_flet_has_joined_together/)
 - [Leak Detection with Sound Files](https://www.reddit.com/r/Python/comments/10q2bc0/leak_detection_with_sound_files/)
-- [Python Project Recommendations](https://www.reddit.com/r/Python/comments/10q1fqw/python_project_recommendations/)
-- [How to Scrape a Website that Requires a Login with Python](https://www.reddit.com/r/Python/comments/10q18dq/how_to_scrape_a_website_that_requires_a_login/)
 <!-- BLOG-POST-LIST:END -->
