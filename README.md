@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a GUI with Python](https://www.reddit.com/r/Python/comments/10q2vjz/create_a_gui_with_python/)
+- [Django and Flutter. What Flet has joined together.](https://www.reddit.com/r/Python/comments/10q2tuu/django_and_flutter_what_flet_has_joined_together/)
+- [Leak Detection with Sound Files](https://www.reddit.com/r/Python/comments/10q2bc0/leak_detection_with_sound_files/)
 - [Python Project Recommendations](https://www.reddit.com/r/Python/comments/10q1fqw/python_project_recommendations/)
 - [How to Scrape a Website that Requires a Login with Python](https://www.reddit.com/r/Python/comments/10q18dq/how_to_scrape_a_website_that_requires_a_login/)
-- [How to Iterate Over Rows in pandas, and Why You Shouldn&#39;t – Real Python](https://www.reddit.com/r/Python/comments/10pz6vf/how_to_iterate_over_rows_in_pandas_and_why_you/)
-- [PyCharm has become horrible to work with over SSH interpreter, any similar experiences?](https://www.reddit.com/r/Python/comments/10pyujg/pycharm_has_become_horrible_to_work_with_over_ssh/)
-- [What does Python uniquely offer for automation?](https://www.reddit.com/r/Python/comments/10pyttg/what_does_python_uniquely_offer_for_automation/)
 <!-- BLOG-POST-LIST:END -->
