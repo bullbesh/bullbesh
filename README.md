@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Use cases for PySide](https://www.reddit.com/r/Python/comments/10pknit/use_cases_for_pyside/)
 - [Building an Amazon Prime content-based Movie Recommender System](https://www.reddit.com/r/Python/comments/10pii3w/building_an_amazon_prime_contentbased_movie/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/10pid6b/tuesday_daily_thread_advanced_questions/)
 - [Beginner question: Web parsing and tools](https://www.reddit.com/r/Python/comments/10ph6mo/beginner_question_web_parsing_and_tools/)
 - [How do you guys feel about live learning/live coding videos? &lpar;featuring one about Open AI&rpar;](https://www.reddit.com/r/Python/comments/10pfwfe/how_do_you_guys_feel_about_live_learninglive/)
-- [Making Automatic YouTube Videos with Python](https://www.reddit.com/r/Python/comments/10peps0/making_automatic_youtube_videos_with_python/)
 <!-- BLOG-POST-LIST:END -->
