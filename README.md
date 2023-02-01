@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a ChatGPT clone using Python, but i added voice interaction functionality ! Check the code in description and tell me what do you think !](https://www.reddit.com/r/Python/comments/10qgq1s/i_made_a_chatgpt_clone_using_python_but_i_added/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/10qeq7f/wednesday_daily_thread_beginner_questions/)
+- [A Beginner&#39;s Guide to Mastering AI and Python [First Book on Amazon]](https://www.reddit.com/r/Python/comments/10qeg4c/a_beginners_guide_to_mastering_ai_and_python/)
 - [Expense Tracker](https://www.reddit.com/r/Python/comments/10q9fei/expense_tracker/)
 - [Data Science Tools for Python](https://www.reddit.com/r/Python/comments/10q7yaw/data_science_tools_for_python/)
-- [Detailed tutorial on How to Use Python and Beautiful Soup for Web Scraping](https://www.reddit.com/r/Python/comments/10q7ji7/detailed_tutorial_on_how_to_use_python_and/)
-- [5 Common Asyncio Errors in Python &lpar;and how to avoid them&rpar;](https://www.reddit.com/r/Python/comments/10q6ma3/5_common_asyncio_errors_in_python_and_how_to/)
-- [Cursor clicker program question](https://www.reddit.com/r/Python/comments/10q5lj5/cursor_clicker_program_question/)
 <!-- BLOG-POST-LIST:END -->
