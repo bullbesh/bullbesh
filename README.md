@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Opinions on Dash-leaflet?](https://www.reddit.com/r/Python/comments/10qwj5b/opinions_on_dashleaflet/)
-- [If chat GPT is supposedly..](https://www.reddit.com/r/Python/comments/10qwfxt/if_chat_gpt_is_supposedly/)
-- [The best version to download Visual on Win 7 is version 1.50](https://www.reddit.com/r/Python/comments/10qwaw6/the_best_version_to_download_visual_on_win_7_is/)
-- [Build a Feature Rich Virtual Assistant J.A.R.V.I.S in Python !](https://www.reddit.com/r/Python/comments/10qw4qz/build_a_feature_rich_virtual_assistant_jarvis_in/)
-- [I’m developing a programming game where you use Python to automate all kinds of machines, robots, drones and more and solve exciting bite-sized coding challenges.](https://www.reddit.com/r/Python/comments/10qv40g/im_developing_a_programming_game_where_you_use/)
+- [2,000 free sign ups available for the &quot;Automate the Boring Stuff with Python&quot; online course. &lpar;Feb 2023&rpar;](https://www.reddit.com/r/Python/comments/10qye0u/2000_free_sign_ups_available_for_the_automate_the/)
+- [Python vs JS for generic automation](https://www.reddit.com/r/Python/comments/10qydg2/python_vs_js_for_generic_automation/)
+- [New to Python](https://www.reddit.com/r/Python/comments/10qxwlz/new_to_python/)
+- [How could I use python documentation to help me learn python?](https://www.reddit.com/r/Python/comments/10qxfq3/how_could_i_use_python_documentation_to_help_me/)
+- [8 Most Popular Python HTML Web Scraping Packages with Benchmarks](https://www.reddit.com/r/Python/comments/10qx5zu/8_most_popular_python_html_web_scraping_packages/)
 <!-- BLOG-POST-LIST:END -->
