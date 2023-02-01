@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The secret sauce of serving files in Python with kernel sendfile](https://www.reddit.com/r/Python/comments/10r4icz/the_secret_sauce_of_serving_files_in_python_with/)
+- [Don’t bother trying to estimate Pandas memory usage](https://www.reddit.com/r/Python/comments/10r4a2j/dont_bother_trying_to_estimate_pandas_memory_usage/)
 - [Dictionary Dispatch Pattern in Python](https://www.reddit.com/r/Python/comments/10r37xs/dictionary_dispatch_pattern_in_python/)
 - [Which linter to use with VSCode python extension.](https://www.reddit.com/r/Python/comments/10r283j/which_linter_to_use_with_vscode_python_extension/)
 - [Getting Started with Hugging Face Transformers: An Overview of the NLP Library](https://www.reddit.com/r/Python/comments/10r1skn/getting_started_with_hugging_face_transformers_an/)
-- [2,000 free sign ups available for the &quot;Automate the Boring Stuff with Python&quot; online course. &lpar;Feb 2023&rpar;](https://www.reddit.com/r/Python/comments/10qye0u/2000_free_sign_ups_available_for_the_automate_the/)
-- [Python vs JS for generic automation](https://www.reddit.com/r/Python/comments/10qydg2/python_vs_js_for_generic_automation/)
 <!-- BLOG-POST-LIST:END -->
