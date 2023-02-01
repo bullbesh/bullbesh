@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Opinions on Dash-leaflet?](https://www.reddit.com/r/Python/comments/10qwj5b/opinions_on_dashleaflet/)
+- [If chat GPT is supposedly..](https://www.reddit.com/r/Python/comments/10qwfxt/if_chat_gpt_is_supposedly/)
+- [The best version to download Visual on Win 7 is version 1.50](https://www.reddit.com/r/Python/comments/10qwaw6/the_best_version_to_download_visual_on_win_7_is/)
+- [Build a Feature Rich Virtual Assistant J.A.R.V.I.S in Python !](https://www.reddit.com/r/Python/comments/10qw4qz/build_a_feature_rich_virtual_assistant_jarvis_in/)
 - [I’m developing a programming game where you use Python to automate all kinds of machines, robots, drones and more and solve exciting bite-sized coding challenges.](https://www.reddit.com/r/Python/comments/10qv40g/im_developing_a_programming_game_where_you_use/)
-- [Compare two array and extract the elements that are not same.](https://www.reddit.com/r/Python/comments/10qtl57/compare_two_array_and_extract_the_elements_that/)
-- [This morning i woke up deciding to get my hands on some ML.](https://www.reddit.com/r/Python/comments/10qsmhx/this_morning_i_woke_up_deciding_to_get_my_hands/)
-- [Interesting methods to improve python skills](https://www.reddit.com/r/Python/comments/10qsdzq/interesting_methods_to_improve_python_skills/)
-- [Strong passwords with python](https://www.reddit.com/r/Python/comments/10qsaex/strong_passwords_with_python/)
 <!-- BLOG-POST-LIST:END -->
