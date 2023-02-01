@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Suggest faster way to check if a proccess is active or not](https://www.reddit.com/r/Python/comments/10qp0ev/suggest_faster_way_to_check_if_a_proccess_is/)
 - [Introduction to Ant Colony Optimization for the Traveling Salesman Problem](https://www.reddit.com/r/Python/comments/10qobwu/introduction_to_ant_colony_optimization_for_the/)
 - [Creative learning and skill-development initiatives at Mentorspace](https://www.reddit.com/r/Python/comments/10ql8c5/creative_learning_and_skilldevelopment/)
 - [Search-as-you-Type with NiceGUI](https://www.reddit.com/r/Python/comments/10qk9kv/searchasyoutype_with_nicegui/)
 - [Simulator of hypohtetical investment in the past - housing/stock](https://www.reddit.com/r/Python/comments/10qi554/simulator_of_hypohtetical_investment_in_the_past/)
-- [What&#39;s the best python projects for freelancing?](https://www.reddit.com/r/Python/comments/10qhkrc/whats_the_best_python_projects_for_freelancing/)
 <!-- BLOG-POST-LIST:END -->
