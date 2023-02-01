@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Streamlit a Python Web Framework Cheat Sheet](https://www.reddit.com/r/Python/comments/10qptbo/streamlit_a_python_web_framework_cheat_sheet/)
-- [Which programming language do you use most?](https://www.reddit.com/r/Python/comments/10qpb96/which_programming_language_do_you_use_most/)
-- [Suggest faster way to check if a proccess is active or not](https://www.reddit.com/r/Python/comments/10qp0ev/suggest_faster_way_to_check_if_a_proccess_is/)
-- [Introduction to Ant Colony Optimization for the Traveling Salesman Problem](https://www.reddit.com/r/Python/comments/10qobwu/introduction_to_ant_colony_optimization_for_the/)
-- [Creative learning and skill-development initiatives at Mentorspace](https://www.reddit.com/r/Python/comments/10ql8c5/creative_learning_and_skilldevelopment/)
+- [Compare two array and extract the elements that are not same.](https://www.reddit.com/r/Python/comments/10qtl57/compare_two_array_and_extract_the_elements_that/)
+- [This morning i woke up deciding to get my hands on some ML.](https://www.reddit.com/r/Python/comments/10qsmhx/this_morning_i_woke_up_deciding_to_get_my_hands/)
+- [Interesting methods to improve python skills](https://www.reddit.com/r/Python/comments/10qsdzq/interesting_methods_to_improve_python_skills/)
+- [Strong passwords with python](https://www.reddit.com/r/Python/comments/10qsaex/strong_passwords_with_python/)
+- [py-constant lacks a pyproject.toml file and will encounter install issues if wheels are not available. The author has not responded to me on this. What is the ideal path forward?](https://www.reddit.com/r/Python/comments/10qrlfz/pyconstant_lacks_a_pyprojecttoml_file_and_will/)
 <!-- BLOG-POST-LIST:END -->
