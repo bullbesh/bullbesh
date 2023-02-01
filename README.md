@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [[WIP] drag’n drop UI builder in VS Code](https://www.reddit.com/r/Python/comments/10r7cml/wip_dragn_drop_ui_builder_in_vs_code/)
-- [Text-Based Game Engine](https://www.reddit.com/r/Python/comments/10r6phy/textbased_game_engine/)
-- [[WIP] Working on a Reddit Monitor PySimpleGUI App...](https://www.reddit.com/r/Python/comments/10r52tf/wip_working_on_a_reddit_monitor_pysimplegui_app/)
-- [The secret sauce of serving files in Python with kernel sendfile](https://www.reddit.com/r/Python/comments/10r4icz/the_secret_sauce_of_serving_files_in_python_with/)
-- [Don’t bother trying to estimate Pandas memory usage](https://www.reddit.com/r/Python/comments/10r4a2j/dont_bother_trying_to_estimate_pandas_memory_usage/)
+- [100+ Harvard University FREE online courses](https://www.reddit.com/r/Python/comments/10r9629/100_harvard_university_free_online_courses/)
+- [Small API to check if your password has been pwnd](https://www.reddit.com/r/Python/comments/10r8zg1/small_api_to_check_if_your_password_has_been_pwnd/)
+- [[PyPI] unexpected-isaves 1.5.0 released!](https://www.reddit.com/r/Python/comments/10r8glj/pypi_unexpectedisaves_150_released/)
+- [What are some interesting numpy tricks/ gimmicks you know?](https://www.reddit.com/r/Python/comments/10r8g30/what_are_some_interesting_numpy_tricks_gimmicks/)
+- [Genter | Password generator &amp; manager](https://www.reddit.com/r/Python/comments/10r88x0/genter_password_generator_manager/)
 <!-- BLOG-POST-LIST:END -->
