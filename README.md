@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Three Python trends in 2023](https://www.reddit.com/r/Python/comments/10rkjnq/three_python_trends_in_2023/)
+- [Post Mortem of a Sneaky Bug Whilst Using Python Multiprocessing](https://www.reddit.com/r/Python/comments/10rkaso/post_mortem_of_a_sneaky_bug_whilst_using_python/)
+- [Startnog Python](https://www.reddit.com/r/Python/comments/10rk27v/startnog_python/)
 - [ChatGPT exploited to generate images using PYTHON PIL library](https://www.reddit.com/r/Python/comments/10rhqrw/chatgpt_exploited_to_generate_images_using_python/)
-- [Today&#39;s Leetcode Challenge in Python](https://www.reddit.com/r/Python/comments/10rh1z3/todays_leetcode_challenge_in_python/)
 - [TBT when I decided to create a visual scripting tool for python](https://www.reddit.com/r/Python/comments/10rgt68/tbt_when_i_decided_to_create_a_visual_scripting/)
-- [is this construction &quot;pythonic&quot;, or not?](https://www.reddit.com/r/Python/comments/10rgdoj/is_this_construction_pythonic_or_not/)
-- [IT LAYOFFS](https://www.reddit.com/r/Python/comments/10re1j5/it_layoffs/)
 <!-- BLOG-POST-LIST:END -->
