@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Challange](https://www.reddit.com/r/Python/comments/10s158n/python_challange/)
+- [Which programming language has the best future outlook?](https://www.reddit.com/r/Python/comments/10s475l/which_programming_language_has_the_best_future/)
+- [&quot;Introducing &quot;callpyback&quot;: Last callbacks for your Python functions you will ever need - Feedback and Contributions Wanted!&quot;](https://www.reddit.com/r/Python/comments/10s3uzq/introducing_callpyback_last_callbacks_for_your/)
+- [Growing concern about starting my coding journey](https://www.reddit.com/r/Python/comments/10s3u2x/growing_concern_about_starting_my_coding_journey/)
+- [Here&#39;s how easy it is to download subtitles from YouTube as JSON: A short and informative tutorial](https://www.reddit.com/r/Python/comments/10s2x0c/heres_how_easy_it_is_to_download_subtitles_from/)
 - [Making a loudness monitor for online meetings using Python](https://www.reddit.com/r/Python/comments/10rzbcv/making_a_loudness_monitor_for_online_meetings/)
-- [I built cakework - open source platform to deploy computationally intensive Python functions as serverless jobs, with no timeouts](https://www.reddit.com/r/Python/comments/10ryiqt/i_built_cakework_open_source_platform_to_deploy/)
-- [[WIP] A Python web framework as powerful as NextJS + Webflow](https://www.reddit.com/r/Python/comments/10rwwf4/wip_a_python_web_framework_as_powerful_as_nextjs/)
-- [Simple Multiprocessing with QuasiQueue](https://www.reddit.com/r/Python/comments/10rwoxp/simple_multiprocessing_with_quasiqueue/)
 <!-- BLOG-POST-LIST:END -->
