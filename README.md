@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python course for beginners??](https://www.reddit.com/r/Python/comments/10rhlya/python_course_for_beginners/)
+- [Today&#39;s Leetcode Challenge in Python](https://www.reddit.com/r/Python/comments/10rh1z3/todays_leetcode_challenge_in_python/)
+- [TBT when I decided to create a visual scripting tool for python](https://www.reddit.com/r/Python/comments/10rgt68/tbt_when_i_decided_to_create_a_visual_scripting/)
 - [is this construction &quot;pythonic&quot;, or not?](https://www.reddit.com/r/Python/comments/10rgdoj/is_this_construction_pythonic_or_not/)
 - [IT LAYOFFS](https://www.reddit.com/r/Python/comments/10re1j5/it_layoffs/)
-- [Embeddings-guided and Prompt-driven search with Large Language Models &lpar;LLMs&rpar;](https://www.reddit.com/r/Python/comments/10rd9o0/embeddingsguided_and_promptdriven_search_with/)
-- [I just released my new book &quot;Practical Python Artificial Intelligence Programming&quot;](https://www.reddit.com/r/Python/comments/10rc3vy/i_just_released_my_new_book_practical_python/)
-- [I did a thing! - Rewrote Angry Purple Tiger in Python](https://www.reddit.com/r/Python/comments/10rbae2/i_did_a_thing_rewrote_angry_purple_tiger_in_python/)
 <!-- BLOG-POST-LIST:END -->
