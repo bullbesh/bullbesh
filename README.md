@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python course for beginners??](https://www.reddit.com/r/Python/comments/10rhlya/python_course_for_beginners/)
+- [ChatGPT exploited to generate images using PYTHON PIL library](https://www.reddit.com/r/Python/comments/10rhqrw/chatgpt_exploited_to_generate_images_using_python/)
 - [Today&#39;s Leetcode Challenge in Python](https://www.reddit.com/r/Python/comments/10rh1z3/todays_leetcode_challenge_in_python/)
 - [TBT when I decided to create a visual scripting tool for python](https://www.reddit.com/r/Python/comments/10rgt68/tbt_when_i_decided_to_create_a_visual_scripting/)
 - [is this construction &quot;pythonic&quot;, or not?](https://www.reddit.com/r/Python/comments/10rgdoj/is_this_construction_pythonic_or_not/)
