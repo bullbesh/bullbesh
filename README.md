@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [100+ Harvard University FREE online courses](https://www.reddit.com/r/Python/comments/10r9629/100_harvard_university_free_online_courses/)
-- [Small API to check if your password has been pwnd](https://www.reddit.com/r/Python/comments/10r8zg1/small_api_to_check_if_your_password_has_been_pwnd/)
-- [[PyPI] unexpected-isaves 1.5.0 released!](https://www.reddit.com/r/Python/comments/10r8glj/pypi_unexpectedisaves_150_released/)
-- [What are some interesting numpy tricks/ gimmicks you know?](https://www.reddit.com/r/Python/comments/10r8g30/what_are_some_interesting_numpy_tricks_gimmicks/)
-- [Genter | Password generator &amp; manager](https://www.reddit.com/r/Python/comments/10r88x0/genter_password_generator_manager/)
+- [I just released my new book &quot;Practical Python Artificial Intelligence Programming&quot;](https://www.reddit.com/r/Python/comments/10rc3vy/i_just_released_my_new_book_practical_python/)
+- [I did a thing! - Rewrote Angry Purple Tiger in Python](https://www.reddit.com/r/Python/comments/10rbae2/i_did_a_thing_rewrote_angry_purple_tiger_in_python/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/10ral8v/thursday_daily_thread_python_careers_courses_and/)
+- [Pylint 2.16.0 released](https://www.reddit.com/r/Python/comments/10rajr8/pylint_2160_released/)
+- [Controlling a 2D Quadcopter using AI](https://www.reddit.com/r/Python/comments/10raajc/controlling_a_2d_quadcopter_using_ai/)
 <!-- BLOG-POST-LIST:END -->
