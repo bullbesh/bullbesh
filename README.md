@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What to do after python?](https://www.reddit.com/r/Python/comments/10rtuyh/what_to_do_after_python/)
+- [Jupyter Notebook Aren’t Made for Sensitive Data Science](https://www.reddit.com/r/Python/comments/10rtg6i/jupyter_notebook_arent_made_for_sensitive_data/)
+- [Building a dns record directory](https://www.reddit.com/r/Python/comments/10rt38p/building_a_dns_record_directory/)
+- [Sylver: a new programmable linter for Python](https://www.reddit.com/r/Python/comments/10rssvg/sylver_a_new_programmable_linter_for_python/)
 - [Intuitive SQL with Python](https://www.reddit.com/r/Python/comments/10rs5qh/intuitive_sql_with_python/)
-- [Using Python and basic maths/image processing to find similar photos](https://www.reddit.com/r/Python/comments/10rrqc2/using_python_and_basic_mathsimage_processing_to/)
-- [What are some great features you&#39;d like to see in a notepad/code editor ?? &lpar;More in Description&rpar;](https://www.reddit.com/r/Python/comments/10rrb2v/what_are_some_great_features_youd_like_to_see_in/)
-- [Fast-Async: Alternative for asyncio designed for speed](https://www.reddit.com/r/Python/comments/10rr5au/fastasync_alternative_for_asyncio_designed_for/)
-- [Ariadne Codegen: code generator for Python GraphQL clients](https://www.reddit.com/r/Python/comments/10rqo82/ariadne_codegen_code_generator_for_python_graphql/)
 <!-- BLOG-POST-LIST:END -->
