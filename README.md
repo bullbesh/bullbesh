@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Intuitive SQL with Python](https://www.reddit.com/r/Python/comments/10rs5qh/intuitive_sql_with_python/)
+- [Using Python and basic maths/image processing to find similar photos](https://www.reddit.com/r/Python/comments/10rrqc2/using_python_and_basic_mathsimage_processing_to/)
+- [What are some great features you&#39;d like to see in a notepad/code editor ?? &lpar;More in Description&rpar;](https://www.reddit.com/r/Python/comments/10rrb2v/what_are_some_great_features_youd_like_to_see_in/)
+- [Fast-Async: Alternative for asyncio designed for speed](https://www.reddit.com/r/Python/comments/10rr5au/fastasync_alternative_for_asyncio_designed_for/)
 - [Ariadne Codegen: code generator for Python GraphQL clients](https://www.reddit.com/r/Python/comments/10rqo82/ariadne_codegen_code_generator_for_python_graphql/)
-- [Expense tracker project in flask](https://www.reddit.com/r/Python/comments/10rqbyv/expense_tracker_project_in_flask/)
-- [PocketPy: A Lightweight&lpar;~5000 LOC&rpar; Python Implementation](https://www.reddit.com/r/Python/comments/10rq7gd/pocketpy_a_lightweight5000_loc_python/)
-- [I scraped some popular Python GitHub repo&#39;s. Here are the most frequent words](https://www.reddit.com/r/Python/comments/10rq5h8/i_scraped_some_popular_python_github_repos_here/)
-- [Should I be improving resume projects?](https://www.reddit.com/r/Python/comments/10rpohz/should_i_be_improving_resume_projects/)
 <!-- BLOG-POST-LIST:END -->
