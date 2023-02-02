@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ariadne Codegen: code generator for Python GraphQL clients](https://www.reddit.com/r/Python/comments/10rqo82/ariadne_codegen_code_generator_for_python_graphql/)
+- [Expense tracker project in flask](https://www.reddit.com/r/Python/comments/10rqbyv/expense_tracker_project_in_flask/)
+- [PocketPy: A Lightweight&lpar;~5000 LOC&rpar; Python Implementation](https://www.reddit.com/r/Python/comments/10rq7gd/pocketpy_a_lightweight5000_loc_python/)
+- [I scraped some popular Python GitHub repo&#39;s. Here are the most frequent words](https://www.reddit.com/r/Python/comments/10rq5h8/i_scraped_some_popular_python_github_repos_here/)
 - [Should I be improving resume projects?](https://www.reddit.com/r/Python/comments/10rpohz/should_i_be_improving_resume_projects/)
-- [What’s your favourite static type checker and why?](https://www.reddit.com/r/Python/comments/10rperi/whats_your_favourite_static_type_checker_and_why/)
-- [Python&#39;s &quot;Disappointing&quot; Superpowers](https://www.reddit.com/r/Python/comments/10rotx6/pythons_disappointing_superpowers/)
-- [PokerPy , Python module for precise and fast Texas Hold&#39;em Poker probability calculations.](https://www.reddit.com/r/Python/comments/10rodh3/pokerpy_python_module_for_precise_and_fast_texas/)
-- [Realtime Audio on Android with Python, Kivy and Audiostream &lpar;low level l...](https://www.reddit.com/r/Python/comments/10ro1ct/realtime_audio_on_android_with_python_kivy_and/)
 <!-- BLOG-POST-LIST:END -->
