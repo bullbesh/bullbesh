@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Challange](https://www.reddit.com/r/Python/comments/10s158n/python_challange/)
 - [Making a loudness monitor for online meetings using Python](https://www.reddit.com/r/Python/comments/10rzbcv/making_a_loudness_monitor_for_online_meetings/)
 - [I built cakework - open source platform to deploy computationally intensive Python functions as serverless jobs, with no timeouts](https://www.reddit.com/r/Python/comments/10ryiqt/i_built_cakework_open_source_platform_to_deploy/)
 - [[WIP] A Python web framework as powerful as NextJS + Webflow](https://www.reddit.com/r/Python/comments/10rwwf4/wip_a_python_web_framework_as_powerful_as_nextjs/)
 - [Simple Multiprocessing with QuasiQueue](https://www.reddit.com/r/Python/comments/10rwoxp/simple_multiprocessing_with_quasiqueue/)
-- [pyatv - a client library for Apple TV and AirPlay devices](https://www.reddit.com/r/Python/comments/10rvv0g/pyatv_a_client_library_for_apple_tv_and_airplay/)
 <!-- BLOG-POST-LIST:END -->
