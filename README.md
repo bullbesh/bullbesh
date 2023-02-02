@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[WIP] A Python web framework as powerful as NextJS + Webflow](https://www.reddit.com/r/Python/comments/10rwwf4/wip_a_python_web_framework_as_powerful_as_nextjs/)
 - [Simple Multiprocessing with QuasiQueue](https://www.reddit.com/r/Python/comments/10rwoxp/simple_multiprocessing_with_quasiqueue/)
 - [pyatv - a client library for Apple TV and AirPlay devices](https://www.reddit.com/r/Python/comments/10rvv0g/pyatv_a_client_library_for_apple_tv_and_airplay/)
 - [Python package that normalizes common data fields](https://www.reddit.com/r/Python/comments/10rtze2/python_package_that_normalizes_common_data_fields/)
 - [What to do after python?](https://www.reddit.com/r/Python/comments/10rtuyh/what_to_do_after_python/)
-- [Jupyter Notebook Aren’t Made for Sensitive Data Science](https://www.reddit.com/r/Python/comments/10rtg6i/jupyter_notebook_arent_made_for_sensitive_data/)
 <!-- BLOG-POST-LIST:END -->
