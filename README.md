@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Multiprocessing with QuasiQueue](https://www.reddit.com/r/Python/comments/10rwoxp/simple_multiprocessing_with_quasiqueue/)
+- [pyatv - a client library for Apple TV and AirPlay devices](https://www.reddit.com/r/Python/comments/10rvv0g/pyatv_a_client_library_for_apple_tv_and_airplay/)
 - [Python package that normalizes common data fields](https://www.reddit.com/r/Python/comments/10rtze2/python_package_that_normalizes_common_data_fields/)
 - [What to do after python?](https://www.reddit.com/r/Python/comments/10rtuyh/what_to_do_after_python/)
 - [Jupyter Notebook Aren’t Made for Sensitive Data Science](https://www.reddit.com/r/Python/comments/10rtg6i/jupyter_notebook_arent_made_for_sensitive_data/)
-- [Building a dns record directory](https://www.reddit.com/r/Python/comments/10rt38p/building_a_dns_record_directory/)
-- [Sylver: a new programmable linter for Python](https://www.reddit.com/r/Python/comments/10rssvg/sylver_a_new_programmable_linter_for_python/)
 <!-- BLOG-POST-LIST:END -->
