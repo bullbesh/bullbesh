@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mentorspace Education&#39;s JavaScript course](https://www.reddit.com/r/Python/comments/10sbtf8/mentorspace_educations_javascript_course/)
+- [Catfish / Instagram hack](https://www.reddit.com/r/Python/comments/10sbric/catfish_instagram_hack/)
 - [Where to learn good design and software engineering for python?](https://www.reddit.com/r/Python/comments/10s9ayf/where_to_learn_good_design_and_software/)
 - [Cookiecutter template to build and deploy FastAPI backends…batteries included](https://www.reddit.com/r/Python/comments/10s6b5x/cookiecutter_template_to_build_and_deploy_fastapi/)
 - [Python code that parses an xlsx file taking long, should I convert the xlsx to an SQL table and use SQLite3 during the parsing?](https://www.reddit.com/r/Python/comments/10s62wo/python_code_that_parses_an_xlsx_file_taking_long/)
-- [&quot;Introducing &quot;callpyback&quot;: Last callbacks for your Python functions you will ever need - Feedback and Contributions Wanted!&quot;](https://www.reddit.com/r/Python/comments/10s3uzq/introducing_callpyback_last_callbacks_for_your/)
-- [Growing concern about starting my coding journey](https://www.reddit.com/r/Python/comments/10s3u2x/growing_concern_about_starting_my_coding_journey/)
 <!-- BLOG-POST-LIST:END -->
