@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[PYGAME] THE SHIP THAT FIRES BULLETS in a version of mine.](https://www.reddit.com/r/Python/comments/10se0dt/pygame_the_ship_that_fires_bullets_in_a_version/)
+- [How to recieve the user inpout from joystick of PS4 and use it to recognise the pattern in the input and also identify time using pygame](https://www.reddit.com/r/Python/comments/10sd8yc/how_to_recieve_the_user_inpout_from_joystick_of/)
 - [Mentorspace Education&#39;s JavaScript course](https://www.reddit.com/r/Python/comments/10sbtf8/mentorspace_educations_javascript_course/)
 - [Where to learn good design and software engineering for python?](https://www.reddit.com/r/Python/comments/10s9ayf/where_to_learn_good_design_and_software/)
 - [Cookiecutter template to build and deploy FastAPI backends…batteries included](https://www.reddit.com/r/Python/comments/10s6b5x/cookiecutter_template_to_build_and_deploy_fastapi/)
-- [Python code that parses an xlsx file taking long, should I convert the xlsx to an SQL table and use SQLite3 during the parsing?](https://www.reddit.com/r/Python/comments/10s62wo/python_code_that_parses_an_xlsx_file_taking_long/)
-- [&quot;Introducing &quot;callpyback&quot;: Last callbacks for your Python functions you will ever need - Feedback and Contributions Wanted!&quot;](https://www.reddit.com/r/Python/comments/10s3uzq/introducing_callpyback_last_callbacks_for_your/)
 <!-- BLOG-POST-LIST:END -->
