@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing files in Python like a pro](https://www.reddit.com/r/Python/comments/10swsdv/testing_files_in_python_like_a_pro/)
+- [Python String Matching Without Complex RegEx Syntax](https://www.reddit.com/r/Python/comments/10swqir/python_string_matching_without_complex_regex/)
 - [What are your favorite python decorators and why?](https://www.reddit.com/r/Python/comments/10sv972/what_are_your_favorite_python_decorators_and_why/)
 - [opinions about my project - sushi](https://www.reddit.com/r/Python/comments/10styuv/opinions_about_my_project_sushi/)
 - [AI, Python and Wordpress](https://www.reddit.com/r/Python/comments/10ssjii/ai_python_and_wordpress/)
-- [Python solution: packaging.version.InvalidVersion: Invalid version: ‘None’](https://www.reddit.com/r/Python/comments/10sq3zv/python_solution_packagingversioninvalidversion/)
-- [Sanic Security: An effective, simple, and async security library for the Sanic framework.](https://www.reddit.com/r/Python/comments/10spyyd/sanic_security_an_effective_simple_and_async/)
 <!-- BLOG-POST-LIST:END -->
