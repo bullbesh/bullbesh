@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Where is it better to start creating a simple social network &lpar;Django&rpar;?](https://www.reddit.com/r/Python/comments/10tpqch/where_is_it_better_to_start_creating_a_simple/)
 - [How important is TDD and other testing tools and methodologies?](https://www.reddit.com/r/Python/comments/10tpdga/how_important_is_tdd_and_other_testing_tools_and/)
 - [Will I ever need python again if I learn rust other than for AI stuff?](https://www.reddit.com/r/Python/comments/10tosaz/will_i_ever_need_python_again_if_i_learn_rust/)
 - [Introducing Dear ImGui Bundle](https://www.reddit.com/r/Python/comments/10tnwlj/introducing_dear_imgui_bundle/)
 - [Packaging Python+JS app for Mac App Store?](https://www.reddit.com/r/Python/comments/10tnn6i/packaging_pythonjs_app_for_mac_app_store/)
+- [Build a JavaScript Front End for a Flask API – Real Python](https://www.reddit.com/r/Python/comments/10tm9vg/build_a_javascript_front_end_for_a_flask_api_real/)
 <!-- BLOG-POST-LIST:END -->
