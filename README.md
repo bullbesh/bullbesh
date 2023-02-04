@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ansible vs Python for workstations and VM installments](https://www.reddit.com/r/Python/comments/10t7cng/ansible_vs_python_for_workstations_and_vm/)
 - [Ain’t nobody got the time — Save time while plotting in Plotly](https://www.reddit.com/r/Python/comments/10t4osd/aint_nobody_got_the_time_save_time_while_plotting/)
 - [Control Flow &lpar;Loops&rpar;](https://www.reddit.com/r/Python/comments/10t0qsz/control_flow_loops/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/10szhe5/saturday_daily_thread_resource_request_and/)
 - [Testing files in Python like a pro](https://www.reddit.com/r/Python/comments/10swsdv/testing_files_in_python_like_a_pro/)
-- [Python String Matching Without Complex RegEx Syntax](https://www.reddit.com/r/Python/comments/10swqir/python_string_matching_without_complex_regex/)
 <!-- BLOG-POST-LIST:END -->
