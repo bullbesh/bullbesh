@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Control Flow &lpar;Loops&rpar;](https://www.reddit.com/r/Python/comments/10t0qsz/control_flow_loops/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/10szhe5/saturday_daily_thread_resource_request_and/)
 - [Testing files in Python like a pro](https://www.reddit.com/r/Python/comments/10swsdv/testing_files_in_python_like_a_pro/)
 - [Python String Matching Without Complex RegEx Syntax](https://www.reddit.com/r/Python/comments/10swqir/python_string_matching_without_complex_regex/)
 - [What are your favorite python decorators and why?](https://www.reddit.com/r/Python/comments/10sv972/what_are_your_favorite_python_decorators_and_why/)
-- [opinions about my project - sushi](https://www.reddit.com/r/Python/comments/10styuv/opinions_about_my_project_sushi/)
-- [AI, Python and Wordpress](https://www.reddit.com/r/Python/comments/10ssjii/ai_python_and_wordpress/)
 <!-- BLOG-POST-LIST:END -->
