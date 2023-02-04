@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [4 IN LINE Game with PYTHON](https://www.reddit.com/r/Python/comments/10tk5se/4_in_line_game_with_python/)
+- [I figured out how to make a snake clone that actually works properly.](https://www.reddit.com/r/Python/comments/10titn4/i_figured_out_how_to_make_a_snake_clone_that/)
 - [Audiotext: A program that transcribes audio from a file or microphone to text in any language supported by the Google API.](https://www.reddit.com/r/Python/comments/10tim7j/audiotext_a_program_that_transcribes_audio_from_a/)
 - [DocsGPT, open-source documentation assistant, fully aware of libraries](https://www.reddit.com/r/Python/comments/10th3lq/docsgpt_opensource_documentation_assistant_fully/)
 - [I finished writing my 4th program for work](https://www.reddit.com/r/Python/comments/10tfpm9/i_finished_writing_my_4th_program_for_work/)
-- [When to use try-except-else-finally in Python](https://www.reddit.com/r/Python/comments/10tfc2p/when_to_use_tryexceptelsefinally_in_python/)
-- [Is it a good idea to share dictionary between threads where each thread doesn’t update the same key.](https://www.reddit.com/r/Python/comments/10tf2xa/is_it_a_good_idea_to_share_dictionary_between/)
 <!-- BLOG-POST-LIST:END -->
