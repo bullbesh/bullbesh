@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [When to use try-except-else-finally in Python](https://www.reddit.com/r/Python/comments/10tfc2p/when_to_use_tryexceptelsefinally_in_python/)
+- [Is it a good idea to share dictionary between threads where each thread doesn’t update the same key.](https://www.reddit.com/r/Python/comments/10tf2xa/is_it_a_good_idea_to_share_dictionary_between/)
+- [Fake python website Be carefull!!!](https://www.reddit.com/r/Python/comments/10tezc6/fake_python_website_be_carefull/)
 - [Just finished my first application and have no one to share the accomplishment with](https://www.reddit.com/r/Python/comments/10tdhec/just_finished_my_first_application_and_have_no/)
 - [PythonCMS: A CMS Written With Ease of Development In Mind](https://www.reddit.com/r/Python/comments/10td9f2/pythoncms_a_cms_written_with_ease_of_development/)
-- [I created my very first project, a descriptive statistics calculator.](https://www.reddit.com/r/Python/comments/10td3vg/i_created_my_very_first_project_a_descriptive/)
-- [In terms of the aspect of Software Engineering, how do security camera companies &lpar;e.g. ADT, SimpliSafe&rpar; safely &quot;transport&quot; the video cameras&#39; feeds to their 24/7 Monitoring Team? VLAN?](https://www.reddit.com/r/Python/comments/10tb9pf/in_terms_of_the_aspect_of_software_engineering/)
-- [Ansible vs Python for workstations and VM installments](https://www.reddit.com/r/Python/comments/10t7cng/ansible_vs_python_for_workstations_and_vm/)
 <!-- BLOG-POST-LIST:END -->
