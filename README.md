@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing: Pathfinding Visualiser](https://www.reddit.com/r/Python/comments/10uizo6/introducing_pathfinding_visualiser/)
+- [A guide on when to use small vs large language models with semantic workflows](https://www.reddit.com/r/Python/comments/10uia4r/a_guide_on_when_to_use_small_vs_large_language/)
 - [Python Certifications: Are they worth it? Which would you recommend?](https://www.reddit.com/r/Python/comments/10uggc7/python_certifications_are_they_worth_it_which/)
 - [How to make a TEXT EDITOR using tkinter](https://www.reddit.com/r/Python/comments/10ug03t/how_to_make_a_text_editor_using_tkinter/)
-- [Standardized, Python based Block Diagram File Format for Dynamic Modeling as an Open Source Alternative to Matlab and Simulink](https://www.reddit.com/r/Python/comments/10ufaqk/standardized_python_based_block_diagram_file/)
-- [Git essentials for Data Scientist or Engineer](https://www.reddit.com/r/Python/comments/10ufakh/git_essentials_for_data_scientist_or_engineer/)
-- [Password Pro: Knowledge on random password generators](https://www.reddit.com/r/Python/comments/10uf5zv/password_pro_knowledge_on_random_password/)
+- [Implementing Netflix-like Skip-intro feature using video processing](https://www.reddit.com/r/Python/comments/10uff0s/implementing_netflixlike_skipintro_feature_using/)
 <!-- BLOG-POST-LIST:END -->
