@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [If you&#39;ve been affected by layoffs, register on reverse jobs boards](https://www.reddit.com/r/Python/comments/10uab9i/if_youve_been_affected_by_layoffs_register_on/)
 - [RecoverPy 2.0.0: Recover deleted or overwritten files from your terminal](https://www.reddit.com/r/Python/comments/10ua51t/recoverpy_200_recover_deleted_or_overwritten/)
 - [Genetic Algorithm for Image Recreation](https://www.reddit.com/r/Python/comments/10u7svr/genetic_algorithm_for_image_recreation/)
 - [Is there a way to accept Stripe payments and convert them to USDC automatically?](https://www.reddit.com/r/Python/comments/10u19jx/is_there_a_way_to_accept_stripe_payments_and/)
 - [I hate local scopes…](https://www.reddit.com/r/Python/comments/10ty0df/i_hate_local_scopes/)
-- [Multidimensional Hydroplanar - An experimental FM Synthesis approach](https://www.reddit.com/r/Python/comments/10tvp2u/multidimensional_hydroplanar_an_experimental_fm/)
 <!-- BLOG-POST-LIST:END -->
