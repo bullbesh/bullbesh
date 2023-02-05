@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Please, explain me how and when you should use try/except](https://www.reddit.com/r/Python/comments/10tx3x2/please_explain_me_how_and_when_you_should_use/)
+- [Multidimensional Hydroplanar - An experimental FM Synthesis approach](https://www.reddit.com/r/Python/comments/10tvp2u/multidimensional_hydroplanar_an_experimental_fm/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/10tvdn1/sunday_daily_thread_whats_everyone_working_on/)
 - [How important is TDD and other testing tools and methodologies?](https://www.reddit.com/r/Python/comments/10tpdga/how_important_is_tdd_and_other_testing_tools_and/)
 - [Will I ever need python again if I learn rust other than for AI stuff?](https://www.reddit.com/r/Python/comments/10tosaz/will_i_ever_need_python_again_if_i_learn_rust/)
-- [Introducing Dear ImGui Bundle](https://www.reddit.com/r/Python/comments/10tnwlj/introducing_dear_imgui_bundle/)
-- [Packaging Python+JS app for Mac App Store?](https://www.reddit.com/r/Python/comments/10tnn6i/packaging_pythonjs_app_for_mac_app_store/)
-- [Build a JavaScript Front End for a Flask API – Real Python](https://www.reddit.com/r/Python/comments/10tm9vg/build_a_javascript_front_end_for_a_flask_api_real/)
 <!-- BLOG-POST-LIST:END -->
