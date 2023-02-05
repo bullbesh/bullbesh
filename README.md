@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python DataClasses - Object-Oriented Programming made easier and better](https://www.reddit.com/r/Python/comments/10ue9hc/python_dataclasses_objectoriented_programming/)
-- [PROGRAMMING MAKES MY DAY](https://www.reddit.com/r/Python/comments/10uc95n/programming_makes_my_day/)
-- [If you&#39;ve been affected by layoffs, register on reverse jobs boards](https://www.reddit.com/r/Python/comments/10uab9i/if_youve_been_affected_by_layoffs_register_on/)
-- [RecoverPy 2.0.0: Recover deleted or overwritten files from your terminal](https://www.reddit.com/r/Python/comments/10ua51t/recoverpy_200_recover_deleted_or_overwritten/)
-- [Genetic Algorithm for Image Recreation](https://www.reddit.com/r/Python/comments/10u7svr/genetic_algorithm_for_image_recreation/)
+- [How to make a TEXT EDITOR using tkinter](https://www.reddit.com/r/Python/comments/10ug03t/how_to_make_a_text_editor_using_tkinter/)
+- [Standardized, Python based Block Diagram File Format for Dynamic Modeling as an Open Source Alternative to Matlab and Simulink](https://www.reddit.com/r/Python/comments/10ufaqk/standardized_python_based_block_diagram_file/)
+- [Git essentials for Data Scientist or Engineer](https://www.reddit.com/r/Python/comments/10ufakh/git_essentials_for_data_scientist_or_engineer/)
+- [Password Pro: Knowledge on random password generators](https://www.reddit.com/r/Python/comments/10uf5zv/password_pro_knowledge_on_random_password/)
+- [Distributed Inference - Apply Deep Learning to WebRTC video frames w/Redis Streams](https://www.reddit.com/r/Python/comments/10uf2yf/distributed_inference_apply_deep_learning_to/)
 <!-- BLOG-POST-LIST:END -->
