@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Certifications: Are they worth it? Which would you recommend?](https://www.reddit.com/r/Python/comments/10uggc7/python_certifications_are_they_worth_it_which/)
 - [How to make a TEXT EDITOR using tkinter](https://www.reddit.com/r/Python/comments/10ug03t/how_to_make_a_text_editor_using_tkinter/)
 - [Standardized, Python based Block Diagram File Format for Dynamic Modeling as an Open Source Alternative to Matlab and Simulink](https://www.reddit.com/r/Python/comments/10ufaqk/standardized_python_based_block_diagram_file/)
 - [Git essentials for Data Scientist or Engineer](https://www.reddit.com/r/Python/comments/10ufakh/git_essentials_for_data_scientist_or_engineer/)
 - [Password Pro: Knowledge on random password generators](https://www.reddit.com/r/Python/comments/10uf5zv/password_pro_knowledge_on_random_password/)
-- [Distributed Inference - Apply Deep Learning to WebRTC video frames w/Redis Streams](https://www.reddit.com/r/Python/comments/10uf2yf/distributed_inference_apply_deep_learning_to/)
 <!-- BLOG-POST-LIST:END -->
