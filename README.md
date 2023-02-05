@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Please, explain me how and when you should use try/except](https://www.reddit.com/r/Python/comments/10tx3x2/please_explain_me_how_and_when_you_should_use/)
+- [I hate local scopes…](https://www.reddit.com/r/Python/comments/10ty0df/i_hate_local_scopes/)
 - [Multidimensional Hydroplanar - An experimental FM Synthesis approach](https://www.reddit.com/r/Python/comments/10tvp2u/multidimensional_hydroplanar_an_experimental_fm/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/10tvdn1/sunday_daily_thread_whats_everyone_working_on/)
 - [How important is TDD and other testing tools and methodologies?](https://www.reddit.com/r/Python/comments/10tpdga/how_important_is_tdd_and_other_testing_tools_and/)
