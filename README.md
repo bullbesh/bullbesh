@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can you make a Google search results bot? &lpar;That can count&rpar;?](https://www.reddit.com/r/Python/comments/10v8bjm/can_you_make_a_google_search_results_bot_that_can/)
+- [13 tips and techniques for modern Flask apps](https://www.reddit.com/r/Python/comments/10v7xe8/13_tips_and_techniques_for_modern_flask_apps/)
+- [Want to learn](https://www.reddit.com/r/Python/comments/10v7wan/want_to_learn/)
 - [Mongodb CRUD operations using python with a simple example](https://www.reddit.com/r/Python/comments/10v6o3l/mongodb_crud_operations_using_python_with_a/)
 - [My first end to end python project.](https://www.reddit.com/r/Python/comments/10v36mr/my_first_end_to_end_python_project/)
-- [[P] We made an open source ML / data monitoring platform](https://www.reddit.com/r/Python/comments/10v32p8/p_we_made_an_open_source_ml_data_monitoring/)
-- [A not so unfortunate sharp edge in Pipenv](https://www.reddit.com/r/Python/comments/10uyh1w/a_not_so_unfortunate_sharp_edge_in_pipenv/)
-- [map&lpar;&rpar; is almost always slower than any other methods of iteration, why is it still in Python?](https://www.reddit.com/r/Python/comments/10us7au/map_is_almost_always_slower_than_any_other/)
 <!-- BLOG-POST-LIST:END -->
