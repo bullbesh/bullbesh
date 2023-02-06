@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How many of you use Python in the IOT context? I found a getting tutorial using Micropython and MQTT](https://www.reddit.com/r/Python/comments/10vcg30/how_many_of_you_use_python_in_the_iot_context_i/)
 - [Can&#39;t remember the name of a python problem solving website](https://www.reddit.com/r/Python/comments/10vbmec/cant_remember_the_name_of_a_python_problem/)
 - [Automatic Video Editor Using Python](https://www.reddit.com/r/Python/comments/10vbfom/automatic_video_editor_using_python/)
 - [Whisper-UI Update: You can now bulk-transcribe, save &amp; search transcriptions with Streamlit &amp; SQLAlchemy 2.0](https://www.reddit.com/r/Python/comments/10vb541/whisperui_update_you_can_now_bulktranscribe_save/)
 - [Hacking Python](https://www.reddit.com/r/Python/comments/10vac0i/hacking_python/)
-- [Intro To APIs In Python - Code With Tomi](https://www.reddit.com/r/Python/comments/10va90b/intro_to_apis_in_python_code_with_tomi/)
 <!-- BLOG-POST-LIST:END -->
