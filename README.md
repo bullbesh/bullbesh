@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can you make a Google search results bot? &lpar;That can count&rpar;?](https://www.reddit.com/r/Python/comments/10v8bjm/can_you_make_a_google_search_results_bot_that_can/)
-- [13 tips and techniques for modern Flask apps](https://www.reddit.com/r/Python/comments/10v7xe8/13_tips_and_techniques_for_modern_flask_apps/)
-- [Want to learn](https://www.reddit.com/r/Python/comments/10v7wan/want_to_learn/)
-- [Mongodb CRUD operations using python with a simple example](https://www.reddit.com/r/Python/comments/10v6o3l/mongodb_crud_operations_using_python_with_a/)
-- [My first end to end python project.](https://www.reddit.com/r/Python/comments/10v36mr/my_first_end_to_end_python_project/)
+- [Whisper-UI Update: You can now bulk-transcribe, save &amp; search transcriptions with Streamlit &amp; SQLAlchemy 2.0](https://www.reddit.com/r/Python/comments/10vaojy/whisperui_update_you_can_now_bulktranscribe_save/)
+- [Hacking Python](https://www.reddit.com/r/Python/comments/10vac0i/hacking_python/)
+- [Intro To APIs In Python - Code With Tomi](https://www.reddit.com/r/Python/comments/10va90b/intro_to_apis_in_python_code_with_tomi/)
+- [Python Tutorial. Full course collection](https://www.reddit.com/r/Python/comments/10v9p2y/python_tutorial_full_course_collection/)
+- [Building a real-time application using Python and WebSockets](https://www.reddit.com/r/Python/comments/10v99mp/building_a_realtime_application_using_python_and/)
 <!-- BLOG-POST-LIST:END -->
