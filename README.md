@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [map&lpar;&rpar; is almost always slower than any other methods of iteration, why is it still in Python?](https://www.reddit.com/r/Python/comments/10us7au/map_is_almost_always_slower_than_any_other/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/10urrt5/monday_daily_thread_project_ideas/)
+- [Why is Python CPU usage alternating between logical processors?](https://www.reddit.com/r/Python/comments/10urdkc/why_is_python_cpu_usage_alternating_between/)
 - [Particle Life Simulator -- Based off gravity physics](https://www.reddit.com/r/Python/comments/10up5de/particle_life_simulator_based_off_gravity_physics/)
 - [AutoFake for Python](https://www.reddit.com/r/Python/comments/10uo9n8/autofake_for_python/)
-- [Has anybody tried using Prisma in Python n production?](https://www.reddit.com/r/Python/comments/10uknhi/has_anybody_tried_using_prisma_in_python_n/)
-- [I made my 3D rendering Tkinter App 6 times faster using Numba](https://www.reddit.com/r/Python/comments/10ujx9y/i_made_my_3d_rendering_tkinter_app_6_times_faster/)
-- [BEM Methodology: Class Compositions with Modifiers](https://www.reddit.com/r/Python/comments/10ujqjd/bem_methodology_class_compositions_with_modifiers/)
 <!-- BLOG-POST-LIST:END -->
