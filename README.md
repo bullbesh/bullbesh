@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flight Controller Software in Python](https://www.reddit.com/r/Python/comments/10vli30/flight_controller_software_in_python/)
+- [My temperature scale representation API is finally finished!](https://www.reddit.com/r/Python/comments/10vk6c5/my_temperature_scale_representation_api_is/)
 - [GitLab/GitHub for newbies](https://www.reddit.com/r/Python/comments/10vj2fy/gitlabgithub_for_newbies/)
 - [Mypy 1.0 Released](https://www.reddit.com/r/Python/comments/10vh1v5/mypy_10_released/)
 - [Building an ETL pipeline with Apache Airflow and Visualizing AWS Redshift data using Power BI](https://www.reddit.com/r/Python/comments/10vfudv/building_an_etl_pipeline_with_apache_airflow_and/)
-- [How to Optimize an RNN in PyTorch &lpar;~10 minutes of coding&rpar;](https://www.reddit.com/r/Python/comments/10vfkbh/how_to_optimize_an_rnn_in_pytorch_10_minutes_of/)
-- [How many of you use Python in the IOT context? I found a getting tutorial using Micropython and MQTT](https://www.reddit.com/r/Python/comments/10vcg30/how_many_of_you_use_python_in_the_iot_context_i/)
 <!-- BLOG-POST-LIST:END -->
