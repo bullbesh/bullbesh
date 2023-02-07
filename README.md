@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which framework to connect two APIs? Where would you host it?](https://www.reddit.com/r/Python/comments/10vs0x3/which_framework_to_connect_two_apis_where_would/)
+- [A Step-by-Step Tutorial - Quantum Deep Learning for Medical Datasets](https://www.reddit.com/r/Python/comments/10vrzqc/a_stepbystep_tutorial_quantum_deep_learning_for/)
+- [HACKING THE PYTHON FOR LOOP](https://www.reddit.com/r/Python/comments/10vr9v5/hacking_the_python_for_loop/)
 - [txtai 5.3 released: open-source semantic search](https://www.reddit.com/r/Python/comments/10vqzxk/txtai_53_released_opensource_semantic_search/)
 - [Should I learn Zope in 2023?](https://www.reddit.com/r/Python/comments/10vmwev/should_i_learn_zope_in_2023/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/10vmhgk/tuesday_daily_thread_advanced_questions/)
-- [My temperature scale representation API is finally finished!](https://www.reddit.com/r/Python/comments/10vk6c5/my_temperature_scale_representation_api_is/)
-- [Mypy 1.0 Released](https://www.reddit.com/r/Python/comments/10vh1v5/mypy_10_released/)
 <!-- BLOG-POST-LIST:END -->
