@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bobtail - A tiny http framework](https://www.reddit.com/r/Python/comments/10w6m1p/bobtail_a_tiny_http_framework/)
+- [Python backend projects!](https://www.reddit.com/r/Python/comments/10w6g3a/python_backend_projects/)
+- [I made a bot to easily archive Reddit threads!](https://www.reddit.com/r/Python/comments/10w66d5/i_made_a_bot_to_easily_archive_reddit_threads/)
 - [Question about Json library expected functionality](https://www.reddit.com/r/Python/comments/10w5q70/question_about_json_library_expected_functionality/)
 - [12 Python Decorators To Take Your Code To The Next Level](https://www.reddit.com/r/Python/comments/10w5co0/12_python_decorators_to_take_your_code_to_the/)
-- [Build a Wordle Clone With Python and Rich – Real Python](https://www.reddit.com/r/Python/comments/10w3lw5/build_a_wordle_clone_with_python_and_rich_real/)
-- [Gracy helps you handle failures, logging, retries, throttling, and tracking for all your HTTP interactions](https://www.reddit.com/r/Python/comments/10w0ykx/gracy_helps_you_handle_failures_logging_retries/)
-- [Deploy your Pynecone app on Huggingface Spaces!](https://www.reddit.com/r/Python/comments/10vytoq/deploy_your_pynecone_app_on_huggingface_spaces/)
 <!-- BLOG-POST-LIST:END -->
