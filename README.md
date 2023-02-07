@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a vulnerability scanner using python - Codelivly](https://www.reddit.com/r/Python/comments/10vviu9/building_a_vulnerability_scanner_using_python/)
 - [I wrote my first unit test today!](https://www.reddit.com/r/Python/comments/10vufhi/i_wrote_my_first_unit_test_today/)
 - [Building a Game-Playing AI with Reinforcement Learning in Python](https://www.reddit.com/r/Python/comments/10vszm9/building_a_gameplaying_ai_with_reinforcement/)
 - [Which framework to connect two APIs? Where would you host it?](https://www.reddit.com/r/Python/comments/10vs0x3/which_framework_to_connect_two_apis_where_would/)
 - [A Step-by-Step Tutorial - Quantum Deep Learning for Medical Datasets](https://www.reddit.com/r/Python/comments/10vrzqc/a_stepbystep_tutorial_quantum_deep_learning_for/)
-- [txtai 5.3 released: open-source semantic search](https://www.reddit.com/r/Python/comments/10vqzxk/txtai_53_released_opensource_semantic_search/)
 <!-- BLOG-POST-LIST:END -->
