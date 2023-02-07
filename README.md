@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [With Python Skill, you don&#39;t need Alteryx/UiPath?](https://www.reddit.com/r/Python/comments/10w8wls/with_python_skill_you_dont_need_alteryxuipath/)
+- [Open Source Pricing and Billing Engine Built In Python](https://www.reddit.com/r/Python/comments/10w8pvc/open_source_pricing_and_billing_engine_built_in/)
+- [Custom plugins and rules for sonarQube](https://www.reddit.com/r/Python/comments/10w7pnc/custom_plugins_and_rules_for_sonarqube/)
 - [Bobtail - A tiny http framework](https://www.reddit.com/r/Python/comments/10w6m1p/bobtail_a_tiny_http_framework/)
 - [Python backend projects!](https://www.reddit.com/r/Python/comments/10w6g3a/python_backend_projects/)
-- [I made a bot to easily archive Reddit threads!](https://www.reddit.com/r/Python/comments/10w66d5/i_made_a_bot_to_easily_archive_reddit_threads/)
-- [Question about Json library expected functionality](https://www.reddit.com/r/Python/comments/10w5q70/question_about_json_library_expected_functionality/)
-- [12 Python Decorators To Take Your Code To The Next Level](https://www.reddit.com/r/Python/comments/10w5co0/12_python_decorators_to_take_your_code_to_the/)
 <!-- BLOG-POST-LIST:END -->
