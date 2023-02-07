@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Leetcode solution in python with explanation](https://www.reddit.com/r/Python/comments/10vxtyv/leetcode_solution_in_python_with_explanation/)
+- [Why Python Developers Prefer PythonAnywhere for Hosting](https://www.reddit.com/r/Python/comments/10vxqqw/why_python_developers_prefer_pythonanywhere_for/)
+- [Python&#39;s Role in Spotify&#39;s Cutting Edge Technology](https://www.reddit.com/r/Python/comments/10vxpvz/pythons_role_in_spotifys_cutting_edge_technology/)
 - [“the Easiest Way to Prototype models with Python, GraphQL, &amp; Rust!” according to GraphQLEditor.](https://www.reddit.com/r/Python/comments/10vwsj9/the_easiest_way_to_prototype_models_with_python/)
 - [PyQt6 - The Ultimate GUI Toolkit for Python Developers](https://www.reddit.com/r/Python/comments/10vvvkh/pyqt6_the_ultimate_gui_toolkit_for_python/)
-- [Building a vulnerability scanner using python - Codelivly](https://www.reddit.com/r/Python/comments/10vviu9/building_a_vulnerability_scanner_using_python/)
-- [I wrote my first unit test today!](https://www.reddit.com/r/Python/comments/10vufhi/i_wrote_my_first_unit_test_today/)
-- [Building a Game-Playing AI with Reinforcement Learning in Python](https://www.reddit.com/r/Python/comments/10vszm9/building_a_gameplaying_ai_with_reinforcement/)
 <!-- BLOG-POST-LIST:END -->
