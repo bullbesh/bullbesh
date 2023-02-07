@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nikhil Garg &lpar;Fennel AI, ex-Facebook, ex-Quora&rpar; Teaches Production-Grade Python](https://www.reddit.com/r/Python/comments/10wbc37/nikhil_garg_fennel_ai_exfacebook_exquora_teaches/)
+- [Dictionary Dispatch Pattern in Python](https://www.reddit.com/r/Python/comments/10wb3zv/dictionary_dispatch_pattern_in_python/)
+- [Flight Controller Software in Python](https://www.reddit.com/r/Python/comments/10wahfi/flight_controller_software_in_python/)
 - [With Python Skill, you don&#39;t need Alteryx/UiPath?](https://www.reddit.com/r/Python/comments/10w8wls/with_python_skill_you_dont_need_alteryxuipath/)
 - [Open Source Pricing and Billing Engine Built In Python](https://www.reddit.com/r/Python/comments/10w8pvc/open_source_pricing_and_billing_engine_built_in/)
-- [Custom plugins and rules for sonarQube](https://www.reddit.com/r/Python/comments/10w7pnc/custom_plugins_and_rules_for_sonarqube/)
-- [Bobtail - A tiny http framework](https://www.reddit.com/r/Python/comments/10w6m1p/bobtail_a_tiny_http_framework/)
-- [Python backend projects!](https://www.reddit.com/r/Python/comments/10w6g3a/python_backend_projects/)
 <!-- BLOG-POST-LIST:END -->
