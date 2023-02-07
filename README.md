@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nine Rules for Writing Python Extensions in Rust](https://www.reddit.com/r/Python/comments/10wd5ut/nine_rules_for_writing_python_extensions_in_rust/)
+- [When you use the if operator, are you required to use the else operator too?](https://www.reddit.com/r/Python/comments/10wcsoc/when_you_use_the_if_operator_are_you_required_to/)
+- [Lists in Python](https://www.reddit.com/r/Python/comments/10wccoa/lists_in_python/)
 - [Nikhil Garg &lpar;Fennel AI, ex-Facebook, ex-Quora&rpar; Teaches Production-Grade Python](https://www.reddit.com/r/Python/comments/10wbc37/nikhil_garg_fennel_ai_exfacebook_exquora_teaches/)
 - [Dictionary Dispatch Pattern in Python](https://www.reddit.com/r/Python/comments/10wb3zv/dictionary_dispatch_pattern_in_python/)
-- [Flight Controller Software in Python](https://www.reddit.com/r/Python/comments/10wahfi/flight_controller_software_in_python/)
-- [With Python Skill, you don&#39;t need Alteryx/UiPath?](https://www.reddit.com/r/Python/comments/10w8wls/with_python_skill_you_dont_need_alteryxuipath/)
-- [Open Source Pricing and Billing Engine Built In Python](https://www.reddit.com/r/Python/comments/10w8pvc/open_source_pricing_and_billing_engine_built_in/)
 <!-- BLOG-POST-LIST:END -->
