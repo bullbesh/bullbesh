@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Question about Json library expected functionality](https://www.reddit.com/r/Python/comments/10w5q70/question_about_json_library_expected_functionality/)
+- [12 Python Decorators To Take Your Code To The Next Level](https://www.reddit.com/r/Python/comments/10w5co0/12_python_decorators_to_take_your_code_to_the/)
 - [Build a Wordle Clone With Python and Rich – Real Python](https://www.reddit.com/r/Python/comments/10w3lw5/build_a_wordle_clone_with_python_and_rich_real/)
 - [Gracy helps you handle failures, logging, retries, throttling, and tracking for all your HTTP interactions](https://www.reddit.com/r/Python/comments/10w0ykx/gracy_helps_you_handle_failures_logging_retries/)
 - [Deploy your Pynecone app on Huggingface Spaces!](https://www.reddit.com/r/Python/comments/10vytoq/deploy_your_pynecone_app_on_huggingface_spaces/)
-- [Although I am a beginner in programming, I would like to see how your journey began in learning programming, how you learned, and what was the first project you did. I hope that you all will participate so that I can benefit](https://www.reddit.com/r/Python/comments/10vyoxd/although_i_am_a_beginner_in_programming_i_would/)
-- [Leetcode solution in python with explanation](https://www.reddit.com/r/Python/comments/10vxtyv/leetcode_solution_in_python_with_explanation/)
 <!-- BLOG-POST-LIST:END -->
