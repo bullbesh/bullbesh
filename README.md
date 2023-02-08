@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Open AI API](https://www.reddit.com/r/Python/comments/10xaxd8/open_ai_api/)
+- [BEM: Build from Blocks with Modifiers](https://www.reddit.com/r/Python/comments/10xbaq9/bem_build_from_blocks_with_modifiers/)
 - [Stripe API &lpar;or other payment method providers&rpar; uses?](https://www.reddit.com/r/Python/comments/10x9138/stripe_api_or_other_payment_method_providers_uses/)
 - [My first web dev project in Python!](https://www.reddit.com/r/Python/comments/10x8jdg/my_first_web_dev_project_in_python/)
 - [Introducing Scovie: A Digital Signage Solution for High Schools Built with Python and Django](https://www.reddit.com/r/Python/comments/10x7yqa/introducing_scovie_a_digital_signage_solution_for/)
