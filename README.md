@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [custom 6 bit encryption](https://www.reddit.com/r/Python/comments/10ws5fo/custom_6_bit_encryption/)
+- [How to reverse Numpy Array in Hindi | Numpy flip&lpar;&rpar; function](https://www.reddit.com/r/Python/comments/10ws4ob/how_to_reverse_numpy_array_in_hindi_numpy_flip/)
+- [Python: Count number of occurrences of a word in a text file](https://www.reddit.com/r/Python/comments/10wruif/python_count_number_of_occurrences_of_a_word_in_a/)
+- [GitHub - withlogicco/django-prose: Wonderful rich-text editing for your Django project](https://www.reddit.com/r/Python/comments/10wrq2h/github_withlogiccodjangoprose_wonderful_richtext/)
 - [Aura Text: Text Editor made with Tkinter and Python](https://www.reddit.com/r/Python/comments/10wptcn/aura_text_text_editor_made_with_tkinter_and_python/)
-- [GitHub - LAION-AI/Open-Assistant: OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.](https://www.reddit.com/r/Python/comments/10wjyt2/github_laionaiopenassistant_openassistant_is_a/)
-- [Is there really a way to scrape data from an otp, captcha, login site.](https://www.reddit.com/r/Python/comments/10wigda/is_there_really_a_way_to_scrape_data_from_an_otp/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/10whfw3/wednesday_daily_thread_beginner_questions/)
-- [Use libraries in company server](https://www.reddit.com/r/Python/comments/10wgw2y/use_libraries_in_company_server/)
 <!-- BLOG-POST-LIST:END -->
