@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Logging in Python](https://www.reddit.com/r/Python/comments/10x421b/a_comprehensive_guide_to_logging_in_python/)
 - [I remade the classic Flash Gam &#39;Helicopter&#39; using python and the PyGame framework!](https://www.reddit.com/r/Python/comments/10wxl3n/i_remade_the_classic_flash_gam_helicopter_using/)
 - [Announcing Blackfire middleware support for WSGI Python applications](https://www.reddit.com/r/Python/comments/10wvgi7/announcing_blackfire_middleware_support_for_wsgi/)
 - [Paaster v2 – New UI and ChaCha20 – E2EE Pastebin – Docker Deployable](https://www.reddit.com/r/Python/comments/10wtrr5/paaster_v2_new_ui_and_chacha20_e2ee_pastebin/)
 - [custom 6 bit encryption](https://www.reddit.com/r/Python/comments/10ws5fo/custom_6_bit_encryption/)
-- [How to reverse Numpy Array in Hindi | Numpy flip&lpar;&rpar; function](https://www.reddit.com/r/Python/comments/10ws4ob/how_to_reverse_numpy_array_in_hindi_numpy_flip/)
 <!-- BLOG-POST-LIST:END -->
