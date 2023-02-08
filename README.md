@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stripe API &lpar;or other payment method providers&rpar; uses?](https://www.reddit.com/r/Python/comments/10x9138/stripe_api_or_other_payment_method_providers_uses/)
+- [My first web dev project in Python!](https://www.reddit.com/r/Python/comments/10x8jdg/my_first_web_dev_project_in_python/)
+- [Introducing Scovie: A Digital Signage Solution for High Schools Built with Python and Django](https://www.reddit.com/r/Python/comments/10x7yqa/introducing_scovie_a_digital_signage_solution_for/)
 - [What have you &quot;washed your hands of&quot; in Python?](https://www.reddit.com/r/Python/comments/10x6yyz/what_have_you_washed_your_hands_of_in_python/)
 - [[Tutorial] Creating a UUID from a string like &quot;this is unique ID based string&quot;](https://www.reddit.com/r/Python/comments/10x6yur/tutorial_creating_a_uuid_from_a_string_like_this/)
-- [Stream Responses from OpenAI API with Python: A Step-by-Step Guide](https://www.reddit.com/r/Python/comments/10x6633/stream_responses_from_openai_api_with_python_a/)
-- [Flask app boilerplate](https://www.reddit.com/r/Python/comments/10x6469/flask_app_boilerplate/)
-- [Build a Regular Expression Engines with Python](https://www.reddit.com/r/Python/comments/10x5gvu/build_a_regular_expression_engines_with_python/)
 <!-- BLOG-POST-LIST:END -->
