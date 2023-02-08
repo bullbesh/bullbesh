@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do I launch Python 3.11?](https://www.reddit.com/r/Python/comments/10wsbnj/how_do_i_launch_python_311/)
 - [custom 6 bit encryption](https://www.reddit.com/r/Python/comments/10ws5fo/custom_6_bit_encryption/)
 - [How to reverse Numpy Array in Hindi | Numpy flip&lpar;&rpar; function](https://www.reddit.com/r/Python/comments/10ws4ob/how_to_reverse_numpy_array_in_hindi_numpy_flip/)
 - [Python: Count number of occurrences of a word in a text file](https://www.reddit.com/r/Python/comments/10wruif/python_count_number_of_occurrences_of_a_word_in_a/)
 - [GitHub - withlogicco/django-prose: Wonderful rich-text editing for your Django project](https://www.reddit.com/r/Python/comments/10wrq2h/github_withlogiccodjangoprose_wonderful_richtext/)
-- [Aura Text: Text Editor made with Tkinter and Python](https://www.reddit.com/r/Python/comments/10wptcn/aura_text_text_editor_made_with_tkinter_and_python/)
 <!-- BLOG-POST-LIST:END -->
