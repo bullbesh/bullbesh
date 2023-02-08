@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - LAION-AI/Open-Assistant: OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.](https://www.reddit.com/r/Python/comments/10wjyt2/github_laionaiopenassistant_openassistant_is_a/)
 - [Is there really a way to scrape data from an otp, captcha, login site.](https://www.reddit.com/r/Python/comments/10wigda/is_there_really_a_way_to_scrape_data_from_an_otp/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/10whfw3/wednesday_daily_thread_beginner_questions/)
 - [Use libraries in company server](https://www.reddit.com/r/Python/comments/10wgw2y/use_libraries_in_company_server/)
 - [Python in Visual Studio Code - February 2023 Release](https://www.reddit.com/r/Python/comments/10wenbd/python_in_visual_studio_code_february_2023_release/)
-- [Nine Rules for Writing Python Extensions in Rust](https://www.reddit.com/r/Python/comments/10wd5ut/nine_rules_for_writing_python_extensions_in_rust/)
 <!-- BLOG-POST-LIST:END -->
