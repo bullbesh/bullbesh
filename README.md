@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What have you &quot;washed your hands of&quot; in Python?](https://www.reddit.com/r/Python/comments/10x6yyz/what_have_you_washed_your_hands_of_in_python/)
+- [[Tutorial] Creating a UUID from a string like &quot;this is unique ID based string&quot;](https://www.reddit.com/r/Python/comments/10x6yur/tutorial_creating_a_uuid_from_a_string_like_this/)
 - [Stream Responses from OpenAI API with Python: A Step-by-Step Guide](https://www.reddit.com/r/Python/comments/10x6633/stream_responses_from_openai_api_with_python_a/)
 - [Flask app boilerplate](https://www.reddit.com/r/Python/comments/10x6469/flask_app_boilerplate/)
 - [Build a Regular Expression Engines with Python](https://www.reddit.com/r/Python/comments/10x5gvu/build_a_regular_expression_engines_with_python/)
-- [A primer on using CNCF&#39;s OpenTelemetry in Python with Jaeger.](https://www.reddit.com/r/Python/comments/10x576x/a_primer_on_using_cncfs_opentelemetry_in_python/)
-- [Read Raster Data From Postgis Using Python](https://www.reddit.com/r/Python/comments/10x53ah/read_raster_data_from_postgis_using_python/)
 <!-- BLOG-POST-LIST:END -->
