@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Logging in Python](https://www.reddit.com/r/Python/comments/10x421b/a_comprehensive_guide_to_logging_in_python/)
-- [I remade the classic Flash Gam &#39;Helicopter&#39; using python and the PyGame framework!](https://www.reddit.com/r/Python/comments/10wxl3n/i_remade_the_classic_flash_gam_helicopter_using/)
-- [Announcing Blackfire middleware support for WSGI Python applications](https://www.reddit.com/r/Python/comments/10wvgi7/announcing_blackfire_middleware_support_for_wsgi/)
-- [Paaster v2 – New UI and ChaCha20 – E2EE Pastebin – Docker Deployable](https://www.reddit.com/r/Python/comments/10wtrr5/paaster_v2_new_ui_and_chacha20_e2ee_pastebin/)
-- [custom 6 bit encryption](https://www.reddit.com/r/Python/comments/10ws5fo/custom_6_bit_encryption/)
+- [Stream Responses from OpenAI API with Python: A Step-by-Step Guide](https://www.reddit.com/r/Python/comments/10x6633/stream_responses_from_openai_api_with_python_a/)
+- [Flask app boilerplate](https://www.reddit.com/r/Python/comments/10x6469/flask_app_boilerplate/)
+- [Build a Regular Expression Engines with Python](https://www.reddit.com/r/Python/comments/10x5gvu/build_a_regular_expression_engines_with_python/)
+- [A primer on using CNCF&#39;s OpenTelemetry in Python with Jaeger.](https://www.reddit.com/r/Python/comments/10x576x/a_primer_on_using_cncfs_opentelemetry_in_python/)
+- [Read Raster Data From Postgis Using Python](https://www.reddit.com/r/Python/comments/10x53ah/read_raster_data_from_postgis_using_python/)
 <!-- BLOG-POST-LIST:END -->
