@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New to Py, it&#39;s there a dictionary?](https://www.reddit.com/r/Python/comments/10xjsjs/new_to_py_its_there_a_dictionary/)
 - [Is it normal that in programming jobs your department manager tells you shouldn&#39;t talk if you have tasks &lpar;always&rpar;?](https://www.reddit.com/r/Python/comments/10xj6hs/is_it_normal_that_in_programming_jobs_your/)
 - [Data Structures in python](https://www.reddit.com/r/Python/comments/10xik4n/data_structures_in_python/)
 - [How to scrape Amazon with Scrapy](https://www.reddit.com/r/Python/comments/10xids2/how_to_scrape_amazon_with_scrapy/)
 - [in need of a pure python crypto library](https://www.reddit.com/r/Python/comments/10xg72e/in_need_of_a_pure_python_crypto_library/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/10xfavm/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
