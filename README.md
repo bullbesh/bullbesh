@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Python Libraries that everyone should know](https://www.reddit.com/r/Python/comments/10xye9i/12_python_libraries_that_everyone_should_know/)
+- [Teacher restricts use of break statements.](https://www.reddit.com/r/Python/comments/10xy3is/teacher_restricts_use_of_break_statements/)
 - [I just released ThatMetricTimeline &lpar;TMT&rpar;, version 0.1.8, a KISS library to keep track of machine learning experiments](https://www.reddit.com/r/Python/comments/10xx7tj/i_just_released_thatmetrictimeline_tmt_version/)
 - [pencils: Collection of color palettes for Python](https://www.reddit.com/r/Python/comments/10xww3n/pencils_collection_of_color_palettes_for_python/)
 - [How to Automate the Creation of Shorts Videos using OpenAI and MoviePy](https://www.reddit.com/r/Python/comments/10xwo8c/how_to_automate_the_creation_of_shorts_videos/)
-- [How to Split a Python List or Iterable Into Chunks – Real Python](https://www.reddit.com/r/Python/comments/10xwbof/how_to_split_a_python_list_or_iterable_into/)
-- [Install and Run Python Applications with pyenv!](https://www.reddit.com/r/Python/comments/10xw36p/install_and_run_python_applications_with_pyenv/)
 <!-- BLOG-POST-LIST:END -->
