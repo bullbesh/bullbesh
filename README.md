@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a CS club in Highschool](https://www.reddit.com/r/Python/comments/10xo2z2/creating_a_cs_club_in_highschool/)
+- [Python deserves a good in-memory cache library!](https://www.reddit.com/r/Python/comments/10xnpjh/python_deserves_a_good_inmemory_cache_library/)
 - [A Crypto Portfolio Tracker Built using Python by a CS Student! [With Video Demonstration]](https://www.reddit.com/r/Python/comments/10xm11y/a_crypto_portfolio_tracker_built_using_python_by/)
 - [How do you work with Python Datetime and MySql Datetime](https://www.reddit.com/r/Python/comments/10xlo9n/how_do_you_work_with_python_datetime_and_mysql/)
 - [Is it a good practice to have multiple functions doing mostly the same things with slight differences?](https://www.reddit.com/r/Python/comments/10xln1i/is_it_a_good_practice_to_have_multiple_functions/)
-- [Trying to install Python &lpar;Flask&rpar; via OpenAI instructions](https://www.reddit.com/r/Python/comments/10xkrlq/trying_to_install_python_flask_via_openai/)
-- [Cannot install requirements.txt file](https://www.reddit.com/r/Python/comments/10xko7k/cannot_install_requirementstxt_file/)
 <!-- BLOG-POST-LIST:END -->
