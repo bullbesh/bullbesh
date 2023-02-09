@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it normal that in programming jobs your department manager tells you shouldn&#39;t talk if you have tasks &lpar;always&rpar;?](https://www.reddit.com/r/Python/comments/10xj6hs/is_it_normal_that_in_programming_jobs_your/)
+- [Data Structures in python](https://www.reddit.com/r/Python/comments/10xik4n/data_structures_in_python/)
+- [How to scrape Amazon with Scrapy](https://www.reddit.com/r/Python/comments/10xids2/how_to_scrape_amazon_with_scrapy/)
 - [in need of a pure python crypto library](https://www.reddit.com/r/Python/comments/10xg72e/in_need_of_a_pure_python_crypto_library/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/10xfavm/thursday_daily_thread_python_careers_courses_and/)
-- [Python raytracer optimizations and improvements](https://www.reddit.com/r/Python/comments/10xer29/python_raytracer_optimizations_and_improvements/)
-- [C2-continuous spline from a point set](https://www.reddit.com/r/Python/comments/10xe7xs/c2continuous_spline_from_a_point_set/)
-- [BEM: Build from Blocks with Modifiers](https://www.reddit.com/r/Python/comments/10xbaq9/bem_build_from_blocks_with_modifiers/)
 <!-- BLOG-POST-LIST:END -->
