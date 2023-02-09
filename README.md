@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Crypto Portfolio Tracker Built using Python by a CS Student! [With Video Demonstration]](https://www.reddit.com/r/Python/comments/10xm11y/a_crypto_portfolio_tracker_built_using_python_by/)
+- [How do you work with Python Datetime and MySql Datetime](https://www.reddit.com/r/Python/comments/10xlo9n/how_do_you_work_with_python_datetime_and_mysql/)
+- [Is it a good practice to have multiple functions doing mostly the same things with slight differences?](https://www.reddit.com/r/Python/comments/10xln1i/is_it_a_good_practice_to_have_multiple_functions/)
 - [Trying to install Python &lpar;Flask&rpar; via OpenAI instructions](https://www.reddit.com/r/Python/comments/10xkrlq/trying_to_install_python_flask_via_openai/)
 - [Cannot install requirements.txt file](https://www.reddit.com/r/Python/comments/10xko7k/cannot_install_requirementstxt_file/)
-- [New to Py, it&#39;s there a dictionary?](https://www.reddit.com/r/Python/comments/10xjsjs/new_to_py_its_there_a_dictionary/)
-- [Is it normal that in programming jobs your department manager tells you shouldn&#39;t talk if you have tasks &lpar;always&rpar;?](https://www.reddit.com/r/Python/comments/10xj6hs/is_it_normal_that_in_programming_jobs_your/)
-- [Data Structures in python](https://www.reddit.com/r/Python/comments/10xik4n/data_structures_in_python/)
 <!-- BLOG-POST-LIST:END -->
