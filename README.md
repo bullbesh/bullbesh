@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the release of my new book &quot;Python Frenzy: 50 fun and simple projects for beginners&quot; - a comedic guide for Python beginners!](https://www.reddit.com/r/Python/comments/10xvtpx/announcing_the_release_of_my_new_book_python/)
+- [psychopg2 to psychopg3 Upgrade](https://www.reddit.com/r/Python/comments/10xvpt1/psychopg2_to_psychopg3_upgrade/)
+- [Documenting Python Code and Projects](https://www.reddit.com/r/Python/comments/10xvjmd/documenting_python_code_and_projects/)
+- [best python book that covers everything, from beginner to expert?](https://www.reddit.com/r/Python/comments/10xv3l6/best_python_book_that_covers_everything_from/)
 - [Python ideas for upcoming semester?](https://www.reddit.com/r/Python/comments/10xtzcr/python_ideas_for_upcoming_semester/)
-- [Course that can help you with the deployment part of things](https://www.reddit.com/r/Python/comments/10xttnu/course_that_can_help_you_with_the_deployment_part/)
-- [How to Scrape Realtor.com Property Data using Python](https://www.reddit.com/r/Python/comments/10xs226/how_to_scrape_realtorcom_property_data_using/)
-- [Creating a CS club in Highschool](https://www.reddit.com/r/Python/comments/10xo2z2/creating_a_cs_club_in_highschool/)
-- [Python deserves a good in-memory cache library!](https://www.reddit.com/r/Python/comments/10xnpjh/python_deserves_a_good_inmemory_cache_library/)
 <!-- BLOG-POST-LIST:END -->
