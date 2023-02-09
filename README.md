@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trying to install Python &lpar;Flask&rpar; via OpenAI instructions](https://www.reddit.com/r/Python/comments/10xkrlq/trying_to_install_python_flask_via_openai/)
+- [Cannot install requirements.txt file](https://www.reddit.com/r/Python/comments/10xko7k/cannot_install_requirementstxt_file/)
 - [New to Py, it&#39;s there a dictionary?](https://www.reddit.com/r/Python/comments/10xjsjs/new_to_py_its_there_a_dictionary/)
 - [Is it normal that in programming jobs your department manager tells you shouldn&#39;t talk if you have tasks &lpar;always&rpar;?](https://www.reddit.com/r/Python/comments/10xj6hs/is_it_normal_that_in_programming_jobs_your/)
 - [Data Structures in python](https://www.reddit.com/r/Python/comments/10xik4n/data_structures_in_python/)
-- [How to scrape Amazon with Scrapy](https://www.reddit.com/r/Python/comments/10xids2/how_to_scrape_amazon_with_scrapy/)
-- [in need of a pure python crypto library](https://www.reddit.com/r/Python/comments/10xg72e/in_need_of_a_pure_python_crypto_library/)
 <!-- BLOG-POST-LIST:END -->
