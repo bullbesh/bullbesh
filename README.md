@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [🧩 [WIP update] drag’n drop Python GUI in VS Code](https://www.reddit.com/r/Python/comments/10xzmv5/wip_update_dragn_drop_python_gui_in_vs_code/)
-- [12 Python Libraries that everyone should know](https://www.reddit.com/r/Python/comments/10xye9i/12_python_libraries_that_everyone_should_know/)
-- [Teacher restricts use of break statements.](https://www.reddit.com/r/Python/comments/10xy3is/teacher_restricts_use_of_break_statements/)
-- [I just released ThatMetricTimeline &lpar;TMT&rpar;, version 0.1.8, a KISS library to keep track of machine learning experiments](https://www.reddit.com/r/Python/comments/10xx7tj/i_just_released_thatmetrictimeline_tmt_version/)
-- [pencils: Collection of color palettes for Python](https://www.reddit.com/r/Python/comments/10xww3n/pencils_collection_of_color_palettes_for_python/)
+- [copy files from newest subfolder in directory](https://www.reddit.com/r/Python/comments/10y69ln/copy_files_from_newest_subfolder_in_directory/)
+- [How to parse a string object that is a nested dictionary?](https://www.reddit.com/r/Python/comments/10y5cy5/how_to_parse_a_string_object_that_is_a_nested/)
+- [Eliza - A Pioneering Natural Language Processing Program in Python](https://www.reddit.com/r/Python/comments/10y59zr/eliza_a_pioneering_natural_language_processing/)
+- [I wrote about the tools I recommend for building geospatial web applications](https://www.reddit.com/r/Python/comments/10y57bb/i_wrote_about_the_tools_i_recommend_for_building/)
+- [complex http server?](https://www.reddit.com/r/Python/comments/10y56z4/complex_http_server/)
 <!-- BLOG-POST-LIST:END -->
