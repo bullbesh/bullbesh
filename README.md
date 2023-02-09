@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🐍 Python 3.11.2 Leaks Info About A Humble Performance Improvement](https://www.reddit.com/r/Python/comments/10y71e4/python_3112_leaks_info_about_a_humble_performance/)
 - [copy files from newest subfolder in directory](https://www.reddit.com/r/Python/comments/10y69ln/copy_files_from_newest_subfolder_in_directory/)
 - [How to parse a string object that is a nested dictionary?](https://www.reddit.com/r/Python/comments/10y5cy5/how_to_parse_a_string_object_that_is_a_nested/)
 - [Eliza - A Pioneering Natural Language Processing Program in Python](https://www.reddit.com/r/Python/comments/10y59zr/eliza_a_pioneering_natural_language_processing/)
 - [I wrote about the tools I recommend for building geospatial web applications](https://www.reddit.com/r/Python/comments/10y57bb/i_wrote_about_the_tools_i_recommend_for_building/)
-- [complex http server?](https://www.reddit.com/r/Python/comments/10y56z4/complex_http_server/)
 <!-- BLOG-POST-LIST:END -->
