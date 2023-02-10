@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding the Self-Attention Mechanism of Large Language Models in Python From Scratch](https://www.reddit.com/r/Python/comments/10yxzls/coding_the_selfattention_mechanism_of_large/)
+- [best way to learn python](https://www.reddit.com/r/Python/comments/10yxlpf/best_way_to_learn_python/)
 - [Building REST Apis with Python Flask](https://www.reddit.com/r/Python/comments/10yx6pc/building_rest_apis_with_python_flask/)
 - [Faster poetry?](https://www.reddit.com/r/Python/comments/10ywh7h/faster_poetry/)
 - [A new Python course for you](https://www.reddit.com/r/Python/comments/10yvrbm/a_new_python_course_for_you/)
-- [Business Process Models With Python](https://www.reddit.com/r/Python/comments/10yuyd4/business_process_models_with_python/)
-- [5 years automotive experience wanting to change career path.](https://www.reddit.com/r/Python/comments/10yur8i/5_years_automotive_experience_wanting_to_change/)
 <!-- BLOG-POST-LIST:END -->
