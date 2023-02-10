@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [lovely valentine message generator](https://www.reddit.com/r/Python/comments/10ygfpf/lovely_valentine_message_generator/)
+- [here is a lovely valentine message generator](https://www.reddit.com/r/Python/comments/10yge81/here_is_a_lovely_valentine_message_generator/)
 - [Pyspark ETL with postgresql a case study](https://www.reddit.com/r/Python/comments/10ydeh0/pyspark_etl_with_postgresql_a_case_study/)
 - [Can someone help with with school](https://www.reddit.com/r/Python/comments/10yd6hq/can_someone_help_with_with_school/)
 - [UPDATED WEBSITE](https://www.reddit.com/r/Python/comments/10y8hr3/updated_website/)
-- [🐍 Python 3.11.2 Leaks Info About A Humble Performance Improvement](https://www.reddit.com/r/Python/comments/10y71e4/python_3112_leaks_info_about_a_humble_performance/)
-- [Eliza - A Pioneering Natural Language Processing Program in Python](https://www.reddit.com/r/Python/comments/10y59zr/eliza_a_pioneering_natural_language_processing/)
 <!-- BLOG-POST-LIST:END -->
