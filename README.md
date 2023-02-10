@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is learning Flask before Django or FastAPI a good way to introduce myself in Python Web Development?](https://www.reddit.com/r/Python/comments/10ypnnn/is_learning_flask_before_django_or_fastapi_a_good/)
 - [The State of Python in Blockchain 2023 report](https://www.reddit.com/r/Python/comments/10ynbxx/the_state_of_python_in_blockchain_2023_report/)
 - [Use TOML for .env files?](https://www.reddit.com/r/Python/comments/10ynazn/use_toml_for_env_files/)
 - [How to Build a XSS Vulnerability Scanner in Python](https://www.reddit.com/r/Python/comments/10ym4vj/how_to_build_a_xss_vulnerability_scanner_in_python/)
 - [Using Copilot with Python apps](https://www.reddit.com/r/Python/comments/10yk4q9/using_copilot_with_python_apps/)
-- [Spotify Instrumental Playlist Generator](https://www.reddit.com/r/Python/comments/10yiz0b/spotify_instrumental_playlist_generator/)
 <!-- BLOG-POST-LIST:END -->
