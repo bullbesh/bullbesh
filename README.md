@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building REST Apis with Python Flask](https://www.reddit.com/r/Python/comments/10yx6pc/building_rest_apis_with_python_flask/)
+- [Faster poetry?](https://www.reddit.com/r/Python/comments/10ywh7h/faster_poetry/)
 - [A new Python course for you](https://www.reddit.com/r/Python/comments/10yvrbm/a_new_python_course_for_you/)
 - [Business Process Models With Python](https://www.reddit.com/r/Python/comments/10yuyd4/business_process_models_with_python/)
 - [5 years automotive experience wanting to change career path.](https://www.reddit.com/r/Python/comments/10yur8i/5_years_automotive_experience_wanting_to_change/)
-- [ChatGPT-like GPT-3 chatbot that allows you to have a spoken conversation, build robo-familiarity, and customize bot](https://www.reddit.com/r/Python/comments/10yumvp/chatgptlike_gpt3_chatbot_that_allows_you_to_have/)
-- [pip install clear. A clear&lpar;&rpar; function that clears the screen. Win/Mac/Linux, Python 2/3](https://www.reddit.com/r/Python/comments/10ytw7n/pip_install_clear_a_clear_function_that_clears/)
 <!-- BLOG-POST-LIST:END -->
