@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The State of Python in Blockchain 2023 report](https://www.reddit.com/r/Python/comments/10ynbxx/the_state_of_python_in_blockchain_2023_report/)
+- [Use TOML for .env files?](https://www.reddit.com/r/Python/comments/10ynazn/use_toml_for_env_files/)
 - [How to Build a XSS Vulnerability Scanner in Python](https://www.reddit.com/r/Python/comments/10ym4vj/how_to_build_a_xss_vulnerability_scanner_in_python/)
 - [Using Copilot with Python apps](https://www.reddit.com/r/Python/comments/10yk4q9/using_copilot_with_python_apps/)
 - [Spotify Instrumental Playlist Generator](https://www.reddit.com/r/Python/comments/10yiz0b/spotify_instrumental_playlist_generator/)
-- [My first python program](https://www.reddit.com/r/Python/comments/10yiy2d/my_first_python_program/)
-- [lovely valentine message generator](https://www.reddit.com/r/Python/comments/10ygfpf/lovely_valentine_message_generator/)
 <!-- BLOG-POST-LIST:END -->
