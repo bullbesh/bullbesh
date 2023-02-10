@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Visual GUI Desing.](https://www.reddit.com/r/Python/comments/10z045n/visual_gui_desing/)
+- [How to give the user the option to re-run the script or close the script if the input was incorrect?](https://www.reddit.com/r/Python/comments/10yzttz/how_to_give_the_user_the_option_to_rerun_the/)
+- [React-Python](https://www.reddit.com/r/Python/comments/10yzfzl/reactpython/)
 - [Coding the Self-Attention Mechanism of Large Language Models in Python From Scratch](https://www.reddit.com/r/Python/comments/10yxzls/coding_the_selfattention_mechanism_of_large/)
 - [best way to learn python](https://www.reddit.com/r/Python/comments/10yxlpf/best_way_to_learn_python/)
-- [Building REST Apis with Python Flask](https://www.reddit.com/r/Python/comments/10yx6pc/building_rest_apis_with_python_flask/)
-- [Faster poetry?](https://www.reddit.com/r/Python/comments/10ywh7h/faster_poetry/)
-- [A new Python course for you](https://www.reddit.com/r/Python/comments/10yvrbm/a_new_python_course_for_you/)
 <!-- BLOG-POST-LIST:END -->
