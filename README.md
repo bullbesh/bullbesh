@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up VSCode For Python: A Complete Guide](https://www.reddit.com/r/Python/comments/10ztfh7/setting_up_vscode_for_python_a_complete_guide/)
+- [Predicting New Chemicals With Machine Learning](https://www.reddit.com/r/Python/comments/10zt0d5/predicting_new_chemicals_with_machine_learning/)
+- [The Heisenbug lurking in your async code](https://www.reddit.com/r/Python/comments/10zsuun/the_heisenbug_lurking_in_your_async_code/)
 - [How could ChatGPT be useful for python?](https://www.reddit.com/r/Python/comments/10zrpcb/how_could_chatgpt_be_useful_for_python/)
-- [Job hunt as Newbie Self-taught Developer](https://www.reddit.com/r/Python/comments/10zqyxg/job_hunt_as_newbie_selftaught_developer/)
-- [Network Analysis in Python with NetworkX](https://www.reddit.com/r/Python/comments/10zpd4z/network_analysis_in_python_with_networkx/)
-- [Just added voice support to ChatGPT to practice my english!](https://www.reddit.com/r/Python/comments/10znncf/just_added_voice_support_to_chatgpt_to_practice/)
-- [Python Packaging is Confusing - What can we Learn from Node.js?](https://www.reddit.com/r/Python/comments/10zmxr6/python_packaging_is_confusing_what_can_we_learn/)
+- [Mastering Network Analysis in Python with NetworkX : A Comprehensive Guide](https://www.reddit.com/r/Python/comments/10zp8du/mastering_network_analysis_in_python_with/)
 <!-- BLOG-POST-LIST:END -->
