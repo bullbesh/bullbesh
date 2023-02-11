@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does anyone use python debugger?](https://www.reddit.com/r/Python/comments/10zuyqf/does_anyone_use_python_debugger/)
 - [Setting Up VSCode For Python: A Complete Guide](https://www.reddit.com/r/Python/comments/10ztfh7/setting_up_vscode_for_python_a_complete_guide/)
 - [Predicting New Chemicals With Machine Learning](https://www.reddit.com/r/Python/comments/10zt0d5/predicting_new_chemicals_with_machine_learning/)
 - [The Heisenbug lurking in your async code](https://www.reddit.com/r/Python/comments/10zsuun/the_heisenbug_lurking_in_your_async_code/)
-- [How could ChatGPT be useful for python?](https://www.reddit.com/r/Python/comments/10zrpcb/how_could_chatgpt_be_useful_for_python/)
 - [Mastering Network Analysis in Python with NetworkX : A Comprehensive Guide](https://www.reddit.com/r/Python/comments/10zp8du/mastering_network_analysis_in_python_with/)
 <!-- BLOG-POST-LIST:END -->
