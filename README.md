@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Python Style Guide](https://www.reddit.com/r/Python/comments/10zfpj4/google_python_style_guide/)
+- [Hi guys , could you please help me?! Python!](https://www.reddit.com/r/Python/comments/10zfn7s/hi_guys_could_you_please_help_me_python/)
+- [Rememberer package](https://www.reddit.com/r/Python/comments/10zfaxp/rememberer_package/)
 - [python loop : Complete Guide to While, For, and Nested Loops](https://www.reddit.com/r/Python/comments/10zel0t/python_loop_complete_guide_to_while_for_and/)
 - [Why Type Hinting Sucks!](https://www.reddit.com/r/Python/comments/10zdidm/why_type_hinting_sucks/)
-- [sys Library in Python: Understanding Fundamentals](https://www.reddit.com/r/Python/comments/10zau08/sys_library_in_python_understanding_fundamentals/)
-- [What are the best free translation api.](https://www.reddit.com/r/Python/comments/10za7ft/what_are_the_best_free_translation_api/)
-- [Best Python IDE for Apple Mac M1 - Would like connectivity with Private GitHub and Colab](https://www.reddit.com/r/Python/comments/10z9zns/best_python_ide_for_apple_mac_m1_would_like/)
 <!-- BLOG-POST-LIST:END -->
