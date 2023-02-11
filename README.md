@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Type Hinting Sucks!](https://www.reddit.com/r/Python/comments/10zdidm/why_type_hinting_sucks/)
 - [sys Library in Python: Understanding Fundamentals](https://www.reddit.com/r/Python/comments/10zau08/sys_library_in_python_understanding_fundamentals/)
 - [What are the best free translation api.](https://www.reddit.com/r/Python/comments/10za7ft/what_are_the_best_free_translation_api/)
 - [Best Python IDE for Apple Mac M1 - Would like connectivity with Private GitHub and Colab](https://www.reddit.com/r/Python/comments/10z9zns/best_python_ide_for_apple_mac_m1_would_like/)
 - [Users of functools.cached_property, your feedback is requested](https://www.reddit.com/r/Python/comments/10z9rpx/users_of_functoolscached_property_your_feedback/)
-- [Programming with MIDI in Python | Getting started and sending MIDI Messages](https://www.reddit.com/r/Python/comments/10z8tkn/programming_with_midi_in_python_getting_started/)
 <!-- BLOG-POST-LIST:END -->
