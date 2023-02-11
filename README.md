@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Distance and proximity analysis in Python](https://www.reddit.com/r/Python/comments/10zgpro/distance_and_proximity_analysis_in_python/)
+- [Python Ternary: Understanding Syntax, Usage, and Benefits](https://www.reddit.com/r/Python/comments/10zga2l/python_ternary_understanding_syntax_usage_and/)
 - [Google Python Style Guide](https://www.reddit.com/r/Python/comments/10zfpj4/google_python_style_guide/)
 - [Hi guys , could you please help me?! Python!](https://www.reddit.com/r/Python/comments/10zfn7s/hi_guys_could_you_please_help_me_python/)
 - [Rememberer package](https://www.reddit.com/r/Python/comments/10zfaxp/rememberer_package/)
-- [python loop : Complete Guide to While, For, and Nested Loops](https://www.reddit.com/r/Python/comments/10zel0t/python_loop_complete_guide_to_while_for_and/)
-- [Why Type Hinting Sucks!](https://www.reddit.com/r/Python/comments/10zdidm/why_type_hinting_sucks/)
 <!-- BLOG-POST-LIST:END -->
