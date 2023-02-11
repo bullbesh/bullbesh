@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Job hunt as Newbie Self-taught Developer](https://www.reddit.com/r/Python/comments/10zqyxg/job_hunt_as_newbie_selftaught_developer/)
+- [Network Analysis in Python with NetworkX](https://www.reddit.com/r/Python/comments/10zpd4z/network_analysis_in_python_with_networkx/)
 - [Just added voice support to ChatGPT to practice my english!](https://www.reddit.com/r/Python/comments/10znncf/just_added_voice_support_to_chatgpt_to_practice/)
 - [Python Packaging is Confusing - What can we Learn from Node.js?](https://www.reddit.com/r/Python/comments/10zmxr6/python_packaging_is_confusing_what_can_we_learn/)
 - [Pyspark interview question - word count, coding explained step by step](https://www.reddit.com/r/Python/comments/10zjmn5/pyspark_interview_question_word_count_coding/)
-- [just launched my freemium course on youtube !!!](https://www.reddit.com/r/Python/comments/10zi2wr/just_launched_my_freemium_course_on_youtube/)
-- [Distance and proximity analysis in Python](https://www.reddit.com/r/Python/comments/10zgpro/distance_and_proximity_analysis_in_python/)
 <!-- BLOG-POST-LIST:END -->
