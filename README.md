@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/10z6vol/saturday_daily_thread_resource_request_and/)
 - [Some ideas how to improve this code or idea?](https://www.reddit.com/r/Python/comments/10z4uf4/some_ideas_how_to_improve_this_code_or_idea/)
 - [A cli app to increase dev productivity.](https://www.reddit.com/r/Python/comments/10z1v1g/a_cli_app_to_increase_dev_productivity/)
 - [Release John Snow Labs Spark-NLP 4.3.0: New HuBERT for speech recognition, new Swin Transformer for Image Classification, new Zero-shot annotator for Entity Recognition, CamemBERT for question answering, new Databricks and EMR with support for Spark 3.3, 1000+ state-of-the-art models and many more!](https://www.reddit.com/r/Python/comments/10z0v0w/release_john_snow_labs_sparknlp_430_new_hubert/)
 - [Visual GUI Desing.](https://www.reddit.com/r/Python/comments/10z045n/visual_gui_desing/)
-- [Coding the Self-Attention Mechanism of Large Language Models in Python From Scratch](https://www.reddit.com/r/Python/comments/10yxzls/coding_the_selfattention_mechanism_of_large/)
 <!-- BLOG-POST-LIST:END -->
