@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Python IDE for Apple Mac M1 - Would like connectivity with Private GitHub and Colab](https://www.reddit.com/r/Python/comments/10z9zns/best_python_ide_for_apple_mac_m1_would_like/)
+- [Users of functools.cached_property, your feedback is requested](https://www.reddit.com/r/Python/comments/10z9rpx/users_of_functoolscached_property_your_feedback/)
+- [Programming with MIDI in Python | Getting started and sending MIDI Messages](https://www.reddit.com/r/Python/comments/10z8tkn/programming_with_midi_in_python_getting_started/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/10z6vol/saturday_daily_thread_resource_request_and/)
 - [Some ideas how to improve this code or idea?](https://www.reddit.com/r/Python/comments/10z4uf4/some_ideas_how_to_improve_this_code_or_idea/)
-- [A cli app to increase dev productivity.](https://www.reddit.com/r/Python/comments/10z1v1g/a_cli_app_to_increase_dev_productivity/)
-- [Release John Snow Labs Spark-NLP 4.3.0: New HuBERT for speech recognition, new Swin Transformer for Image Classification, new Zero-shot annotator for Entity Recognition, CamemBERT for question answering, new Databricks and EMR with support for Spark 3.3, 1000+ state-of-the-art models and many more!](https://www.reddit.com/r/Python/comments/10z0v0w/release_john_snow_labs_sparknlp_430_new_hubert/)
-- [Visual GUI Desing.](https://www.reddit.com/r/Python/comments/10z045n/visual_gui_desing/)
 <!-- BLOG-POST-LIST:END -->
