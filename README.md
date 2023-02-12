@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Using ChatGPT to fix Python Code](https://www.reddit.com/r/Python/comments/1104izo/using_chatgpt_to_fix_python_code/)
-- [Solved](https://www.reddit.com/r/Python/comments/1104i0k/solved/)
 - [Learn how to scrape WordPress website posts and publish to your WP website&lpar;educational purposes only&rpar;](https://www.reddit.com/r/Python/comments/11049zb/learn_how_to_scrape_wordpress_website_posts_and/)
 - [How to Build a Dividend Investing Dashboard in Python and Streamlit](https://www.reddit.com/r/Python/comments/1103zrs/how_to_build_a_dividend_investing_dashboard_in/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1101tck/sunday_daily_thread_whats_everyone_working_on/)
+- [Which speciality of Python has highest demand?](https://www.reddit.com/r/Python/comments/10zz8ng/which_speciality_of_python_has_highest_demand/)
 <!-- BLOG-POST-LIST:END -->
