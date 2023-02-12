@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [EOmaps v6.0 released!](https://www.reddit.com/r/Python/comments/110s83m/eomaps_v60_released/)
 - [Should you put a license notice on the top of every source file?](https://www.reddit.com/r/Python/comments/110rmyf/should_you_put_a_license_notice_on_the_top_of/)
 - [Rhino model in python](https://www.reddit.com/r/Python/comments/110r76c/rhino_model_in_python/)
-- [c++](https://www.reddit.com/r/Python/comments/110qygh/c/)
-- [جانب من الإحتفال باليوم الوطني الأوكراني](https://www.reddit.com/r/Python/comments/110qwda/جانب_من_الإحتفال_باليوم_الوطني_الأوكراني/)
 - [Testing a game through BDD methodology using Gherkin and Pytest-BDD](https://www.reddit.com/r/Python/comments/110pv6x/testing_a_game_through_bdd_methodology_using/)
+- [Automated WordPress post Generation from your CLI, using OpenAI GPT-3](https://www.reddit.com/r/Python/comments/110oy8z/automated_wordpress_post_generation_from_your_cli/)
 <!-- BLOG-POST-LIST:END -->
