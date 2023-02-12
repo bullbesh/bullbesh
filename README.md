@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing a game through BDD methodology using Gherkin and Pytest-BDD](https://www.reddit.com/r/Python/comments/110pv6x/testing_a_game_through_bdd_methodology_using/)
 - [Automated WordPress post Generation from your CLI, using OpenAI GPT-3](https://www.reddit.com/r/Python/comments/110oy8z/automated_wordpress_post_generation_from_your_cli/)
 - [random chat web app in flask](https://www.reddit.com/r/Python/comments/110n7u3/random_chat_web_app_in_flask/)
 - [Researchers Uncover Obfuscated Malicious Code in PyPI Python Packages](https://www.reddit.com/r/Python/comments/110l7ag/researchers_uncover_obfuscated_malicious_code_in/)
 - [Update about sushi](https://www.reddit.com/r/Python/comments/110jz93/update_about_sushi/)
-- [Learning python and hopefully getting a job using Intel Celeron n4020](https://www.reddit.com/r/Python/comments/110hhvn/learning_python_and_hopefully_getting_a_job_using/)
 <!-- BLOG-POST-LIST:END -->
