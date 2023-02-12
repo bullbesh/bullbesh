@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [random chat web app in flask](https://www.reddit.com/r/Python/comments/110n7u3/random_chat_web_app_in_flask/)
 - [Researchers Uncover Obfuscated Malicious Code in PyPI Python Packages](https://www.reddit.com/r/Python/comments/110l7ag/researchers_uncover_obfuscated_malicious_code_in/)
 - [Update about sushi](https://www.reddit.com/r/Python/comments/110jz93/update_about_sushi/)
 - [Learning python and hopefully getting a job using Intel Celeron n4020](https://www.reddit.com/r/Python/comments/110hhvn/learning_python_and_hopefully_getting_a_job_using/)
 - [Fine-Tuning a Pre-trained BERT Transformer Model For Your Own Dataset](https://www.reddit.com/r/Python/comments/110f1mm/finetuning_a_pretrained_bert_transformer_model/)
-- [GitHub - entropicalabs/openqaoa: Multi-backend SDK for quantum optimisation](https://www.reddit.com/r/Python/comments/110erdo/github_entropicalabsopenqaoa_multibackend_sdk_for/)
 <!-- BLOG-POST-LIST:END -->
