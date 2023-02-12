@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning python and hopefully getting a job using Intel Celeron n4020](https://www.reddit.com/r/Python/comments/110hhvn/learning_python_and_hopefully_getting_a_job_using/)
 - [Fine-Tuning a Pre-trained BERT Transformer Model For Your Own Dataset](https://www.reddit.com/r/Python/comments/110f1mm/finetuning_a_pretrained_bert_transformer_model/)
 - [GitHub - entropicalabs/openqaoa: Multi-backend SDK for quantum optimisation](https://www.reddit.com/r/Python/comments/110erdo/github_entropicalabsopenqaoa_multibackend_sdk_for/)
 - [Shared hosting that supports python!?](https://www.reddit.com/r/Python/comments/110e9d6/shared_hosting_that_supports_python/)
 - [Trees in Python explained !](https://www.reddit.com/r/Python/comments/110cekn/trees_in_python_explained/)
-- [Secret Santa From a Google Form With Python 🎅](https://www.reddit.com/r/Python/comments/110bq8m/secret_santa_from_a_google_form_with_python/)
 <!-- BLOG-POST-LIST:END -->
