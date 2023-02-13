@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Pandas: Integrating with NumPy, Matplotlib, and Scikit-learn](https://www.reddit.com/r/Python/comments/1110t05/pandas_integrating_with_numpy_matplotlib_and/)
 - [Unlock the Secrets of Quantum Cryptography](https://www.reddit.com/r/Python/comments/1110cqz/unlock_the_secrets_of_quantum_cryptography/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/110u5ze/monday_daily_thread_project_ideas/)
 - [EOmaps v6.0 released!](https://www.reddit.com/r/Python/comments/110s83m/eomaps_v60_released/)
 - [Should you put a license notice on the top of every source file?](https://www.reddit.com/r/Python/comments/110rmyf/should_you_put_a_license_notice_on_the_top_of/)
+- [Testing a game through BDD methodology using Gherkin and Pytest-BDD](https://www.reddit.com/r/Python/comments/110pv6x/testing_a_game_through_bdd_methodology_using/)
 <!-- BLOG-POST-LIST:END -->
