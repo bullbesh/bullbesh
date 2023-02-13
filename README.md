@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python !](https://www.reddit.com/r/Python/comments/110wyuf/python/)
 - [Automated Stream Project Update](https://www.reddit.com/r/Python/comments/110vu21/automated_stream_project_update/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/110u5ze/monday_daily_thread_project_ideas/)
 - [EOmaps v6.0 released!](https://www.reddit.com/r/Python/comments/110s83m/eomaps_v60_released/)
 - [Should you put a license notice on the top of every source file?](https://www.reddit.com/r/Python/comments/110rmyf/should_you_put_a_license_notice_on_the_top_of/)
-- [Testing a game through BDD methodology using Gherkin and Pytest-BDD](https://www.reddit.com/r/Python/comments/110pv6x/testing_a_game_through_bdd_methodology_using/)
 <!-- BLOG-POST-LIST:END -->
