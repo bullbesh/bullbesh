@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [#1 FREE Advanced Python Blockchain Course on YouTube](https://www.reddit.com/r/Python/comments/111jsbi/1_free_advanced_python_blockchain_course_on/)
+- [Appreciating Design](https://www.reddit.com/r/Python/comments/111jfjk/appreciating_design/)
+- [Big-O: How Code Slows as Data Grows](https://www.reddit.com/r/Python/comments/111jd5w/bigo_how_code_slows_as_data_grows/)
 - [Snake Microbit card with Custom Engine](https://www.reddit.com/r/Python/comments/111icn4/snake_microbit_card_with_custom_engine/)
 - [Passy &lpar;simple menubar password creator&rpar;](https://www.reddit.com/r/Python/comments/111i8wk/passy_simple_menubar_password_creator/)
-- [Automating Spreadsheets with Python 101](https://www.reddit.com/r/Python/comments/111e4i0/automating_spreadsheets_with_python_101/)
-- [3rd Party Streaming App](https://www.reddit.com/r/Python/comments/111crrs/3rd_party_streaming_app/)
-- [lord-of-the-clips &lpar;lotc&rpar;: CLI app to download, trim/clip, and merge videos. Supports lots of sites. Downloads/trims at multiple points. Merges multiple clips.](https://www.reddit.com/r/Python/comments/111c8dn/lordoftheclips_lotc_cli_app_to_download_trimclip/)
 <!-- BLOG-POST-LIST:END -->
