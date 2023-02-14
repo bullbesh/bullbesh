@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Critique my first application!](https://www.reddit.com/r/Python/comments/111ro8v/critique_my_first_application/)
+- [Today&#39;s LeetCode Challenge &lpar;Add Two Binary Numbers&rpar; in Python](https://www.reddit.com/r/Python/comments/111rngu/todays_leetcode_challenge_add_two_binary_numbers/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/111o7di/tuesday_daily_thread_advanced_questions/)
 - [About copies and views in pandas](https://www.reddit.com/r/Python/comments/111n7lu/about_copies_and_views_in_pandas/)
 - [Appreciating Design](https://www.reddit.com/r/Python/comments/111jfjk/appreciating_design/)
-- [Big-O: How Code Slows as Data Grows](https://www.reddit.com/r/Python/comments/111jd5w/bigo_how_code_slows_as_data_grows/)
-- [Snake Microbit card with Custom Engine](https://www.reddit.com/r/Python/comments/111icn4/snake_microbit_card_with_custom_engine/)
 <!-- BLOG-POST-LIST:END -->
