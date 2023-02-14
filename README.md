@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How did you cement your skills?](https://www.reddit.com/r/Python/comments/112h42i/how_did_you_cement_your_skills/)
 - [A Comprehensive Guide &amp; Hand-Curated Resource List for Prompt Engineering and LLMs on Github](https://www.reddit.com/r/Python/comments/112ed7k/a_comprehensive_guide_handcurated_resource_list/)
 - [Why you should not use JWT for authentication, along with Flask implementation of session cookies](https://www.reddit.com/r/Python/comments/112e83v/why_you_should_not_use_jwt_for_authentication/)
 - [A Comprehensive Guide &amp; Hand-Curated Resource List for Prompt Engineering and LLMs on Github](https://www.reddit.com/r/Python/comments/112e685/a_comprehensive_guide_handcurated_resource_list/)
 - [A Comprehensive Guide &amp; Hand-Curated Resource List for Prompt Engineering and LLMs on Github](https://www.reddit.com/r/Python/comments/112dhlv/a_comprehensive_guide_handcurated_resource_list/)
-- [How&#39;s The World, a sentiment analysis news aggregator app that generates happiness indices](https://www.reddit.com/r/Python/comments/112c7b3/hows_the_world_a_sentiment_analysis_news/)
 <!-- BLOG-POST-LIST:END -->
