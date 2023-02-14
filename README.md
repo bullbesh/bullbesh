@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Classification &lpar;should @dataclass be the default?&rpar;](https://www.reddit.com/r/Python/comments/1122lt2/data_classification_should_dataclass_be_the/)
+- [ChatGPT Is An Extra-Ordinary Python Programmer](https://www.reddit.com/r/Python/comments/1122dl2/chatgpt_is_an_extraordinary_python_programmer/)
+- [Learn Python in 60min](https://www.reddit.com/r/Python/comments/1122djm/learn_python_in_60min/)
 - [Question Answering On Domain Knowledge With Semantic Search And Text Generation](https://www.reddit.com/r/Python/comments/11214cr/question_answering_on_domain_knowledge_with/)
 - [Python projects with best practices on Github?](https://www.reddit.com/r/Python/comments/111y9o2/python_projects_with_best_practices_on_github/)
-- [How to use MQTT in Python &lpar;Paho&rpar;](https://www.reddit.com/r/Python/comments/111y7om/how_to_use_mqtt_in_python_paho/)
-- [Today&#39;s LeetCode Challenge in Python](https://www.reddit.com/r/Python/comments/111x9cl/todays_leetcode_challenge_in_python/)
-- [Help with understanding the &quot;if&quot; and &quot;else&quot; functions in Python. Thank you to everyone who took some time to go over this🫶🫶](https://www.reddit.com/r/Python/comments/111wgxe/help_with_understanding_the_if_and_else_functions/)
 <!-- BLOG-POST-LIST:END -->
