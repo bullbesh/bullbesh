@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using python to enter data](https://www.reddit.com/r/Python/comments/11255wb/using_python_to_enter_data/)
+- [Visual Studio Extension Recommendations](https://www.reddit.com/r/Python/comments/1124vvr/visual_studio_extension_recommendations/)
+- [Caching a lot of methods in Python](https://www.reddit.com/r/Python/comments/1124vr5/caching_a_lot_of_methods_in_python/)
+- [Create Data Web Apps in Jupyter Notebook](https://www.reddit.com/r/Python/comments/1124nxw/create_data_web_apps_in_jupyter_notebook/)
 - [have a doubt!](https://www.reddit.com/r/Python/comments/112303q/have_a_doubt/)
-- [Data Classification &lpar;should @dataclass be the default?&rpar;](https://www.reddit.com/r/Python/comments/1122lt2/data_classification_should_dataclass_be_the/)
-- [ChatGPT Is An Extra-Ordinary Python Programmer](https://www.reddit.com/r/Python/comments/1122dl2/chatgpt_is_an_extraordinary_python_programmer/)
-- [Learn Python in 60min](https://www.reddit.com/r/Python/comments/1122djm/learn_python_in_60min/)
-- [Question Answering On Domain Knowledge With Semantic Search And Text Generation](https://www.reddit.com/r/Python/comments/11214cr/question_answering_on_domain_knowledge_with/)
 <!-- BLOG-POST-LIST:END -->
