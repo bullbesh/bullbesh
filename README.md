@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrape Indeed.com Job Portal using Python](https://www.reddit.com/r/Python/comments/111vrq3/scrape_indeedcom_job_portal_using_python/)
+- [Is it just me or do you also start counting at 0](https://www.reddit.com/r/Python/comments/111ursn/is_it_just_me_or_do_you_also_start_counting_at_0/)
 - [You are bored at work and decide to respond to emails in code.](https://www.reddit.com/r/Python/comments/111rvvs/you_are_bored_at_work_and_decide_to_respond_to/)
 - [Critique my first application!](https://www.reddit.com/r/Python/comments/111ro8v/critique_my_first_application/)
 - [Today&#39;s LeetCode Challenge &lpar;Add Two Binary Numbers&rpar; in Python](https://www.reddit.com/r/Python/comments/111rngu/todays_leetcode_challenge_add_two_binary_numbers/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/111o7di/tuesday_daily_thread_advanced_questions/)
-- [About copies and views in pandas](https://www.reddit.com/r/Python/comments/111n7lu/about_copies_and_views_in_pandas/)
 <!-- BLOG-POST-LIST:END -->
