@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Question Answering On Domain Knowledge With Semantic Search And Text Generation](https://www.reddit.com/r/Python/comments/11214cr/question_answering_on_domain_knowledge_with/)
 - [Python projects with best practices on Github?](https://www.reddit.com/r/Python/comments/111y9o2/python_projects_with_best_practices_on_github/)
 - [How to use MQTT in Python &lpar;Paho&rpar;](https://www.reddit.com/r/Python/comments/111y7om/how_to_use_mqtt_in_python_paho/)
 - [Today&#39;s LeetCode Challenge in Python](https://www.reddit.com/r/Python/comments/111x9cl/todays_leetcode_challenge_in_python/)
 - [Help with understanding the &quot;if&quot; and &quot;else&quot; functions in Python. Thank you to everyone who took some time to go over this🫶🫶](https://www.reddit.com/r/Python/comments/111wgxe/help_with_understanding_the_if_and_else_functions/)
-- [Scrape Indeed.com Job Portal using Python](https://www.reddit.com/r/Python/comments/111vrq3/scrape_indeedcom_job_portal_using_python/)
 <!-- BLOG-POST-LIST:END -->
