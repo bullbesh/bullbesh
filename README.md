@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding Text &amp; Transparency to Images for Featured Image Creation](https://www.reddit.com/r/Python/comments/1135c3x/adding_text_transparency_to_images_for_featured/)
 - [What&#39;s new in Matplotlib 3.7.0 &lpar;Feb 13, 2023&rpar;](https://www.reddit.com/r/Python/comments/1133hk1/whats_new_in_matplotlib_370_feb_13_2023/)
 - [10 Tips for adding SQLAlchemy to FastAPI](https://www.reddit.com/r/Python/comments/11332r2/10_tips_for_adding_sqlalchemy_to_fastapi/)
 - [cyDoomGeneric: write your own doom ports in python!](https://www.reddit.com/r/Python/comments/1131y8s/cydoomgeneric_write_your_own_doom_ports_in_python/)
 - [A new Python package for working with 3D data](https://www.reddit.com/r/Python/comments/1131i0k/a_new_python_package_for_working_with_3d_data/)
-- [Linear and Binary Search Algorithms explained](https://www.reddit.com/r/Python/comments/112zwuw/linear_and_binary_search_algorithms_explained/)
 <!-- BLOG-POST-LIST:END -->
