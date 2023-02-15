@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made an open-source tool to build, test, and deploy algotrading strategies!](https://www.reddit.com/r/Python/comments/112viv7/i_made_an_opensource_tool_to_build_test_and/)
+- [Python Developers Beware: Clipper Malware Found in 450+ PyPI Packages!](https://www.reddit.com/r/Python/comments/112vgw5/python_developers_beware_clipper_malware_found_in/)
+- [Built a little evolution simulator in python and pygame!](https://www.reddit.com/r/Python/comments/112uxkk/built_a_little_evolution_simulator_in_python_and/)
 - [From “iron manual” to “ironman” — augmenting GPT for fast editable memory to enable context aware question &amp; answering](https://www.reddit.com/r/Python/comments/112tsgr/from_iron_manual_to_ironman_augmenting_gpt_for/)
 - [Console &lpar;TUI&rpar; password manager written in python](https://www.reddit.com/r/Python/comments/112rppp/console_tui_password_manager_written_in_python/)
-- [Pyautogui emulator camera in War Of Warcraft game issue](https://www.reddit.com/r/Python/comments/112rjgz/pyautogui_emulator_camera_in_war_of_warcraft_game/)
-- [Secure a Python3 Flask API with Authentication and Authorization](https://www.reddit.com/r/Python/comments/112o6d4/secure_a_python3_flask_api_with_authentication/)
-- [transmitter/receiver on raspberry Pi](https://www.reddit.com/r/Python/comments/112nkxf/transmitterreceiver_on_raspberry_pi/)
 <!-- BLOG-POST-LIST:END -->
