@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [transmitter/receiver on raspberry Pi](https://www.reddit.com/r/Python/comments/112nkxf/transmitterreceiver_on_raspberry_pi/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/112k5lb/wednesday_daily_thread_beginner_questions/)
 - [How did you cement your skills?](https://www.reddit.com/r/Python/comments/112h42i/how_did_you_cement_your_skills/)
 - [A Comprehensive Guide &amp; Hand-Curated Resource List for Prompt Engineering and LLMs on Github](https://www.reddit.com/r/Python/comments/112ed7k/a_comprehensive_guide_handcurated_resource_list/)
 - [Why you should not use JWT for authentication, along with Flask implementation of session cookies](https://www.reddit.com/r/Python/comments/112e83v/why_you_should_not_use_jwt_for_authentication/)
-- [A Comprehensive Guide &amp; Hand-Curated Resource List for Prompt Engineering and LLMs on Github](https://www.reddit.com/r/Python/comments/112e685/a_comprehensive_guide_handcurated_resource_list/)
 <!-- BLOG-POST-LIST:END -->
