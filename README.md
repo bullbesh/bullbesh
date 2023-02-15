@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Represent Python Infinity in Simple Ways](https://www.reddit.com/r/Python/comments/112qwz5/how_to_represent_python_infinity_in_simple_ways/)
 - [Secure a Python3 Flask API with Authentication and Authorization](https://www.reddit.com/r/Python/comments/112o6d4/secure_a_python3_flask_api_with_authentication/)
 - [Today&#39;s LeetCode Challenge in Python](https://www.reddit.com/r/Python/comments/112o5qd/todays_leetcode_challenge_in_python/)
 - [transmitter/receiver on raspberry Pi](https://www.reddit.com/r/Python/comments/112nkxf/transmitterreceiver_on_raspberry_pi/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/112k5lb/wednesday_daily_thread_beginner_questions/)
-- [How did you cement your skills?](https://www.reddit.com/r/Python/comments/112h42i/how_did_you_cement_your_skills/)
 <!-- BLOG-POST-LIST:END -->
