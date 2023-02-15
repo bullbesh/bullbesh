@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [OAuth 1.0a Protocol with the HMAC-SHA1 signature using python.](https://www.reddit.com/r/Python/comments/112yh2w/oauth_10a_protocol_with_the_hmacsha1_signature/)
+- [PEP 706: Filter for tarfile.extractall](https://www.reddit.com/r/Python/comments/112yeou/pep_706_filter_for_tarfileextractall/)
 - [Textual 0.11.0 adds a beautiful Markdown widget](https://www.reddit.com/r/Python/comments/112xpuc/textual_0110_adds_a_beautiful_markdown_widget/)
 - [Python Parquet and Arrow: Using PyArrow with Pandas](https://www.reddit.com/r/Python/comments/112wzpx/python_parquet_and_arrow_using_pyarrow_with_pandas/)
 - [Google Sheets - Search and Replace](https://www.reddit.com/r/Python/comments/112wteh/google_sheets_search_and_replace/)
-- [How many of you are involved in GUI development with Python?](https://www.reddit.com/r/Python/comments/112vw9s/how_many_of_you_are_involved_in_gui_development/)
-- [I made an open-source tool to build, test, and deploy algotrading strategies!](https://www.reddit.com/r/Python/comments/112viv7/i_made_an_opensource_tool_to_build_test_and/)
 <!-- BLOG-POST-LIST:END -->
