@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Parquet and Arrow: Using PyArrow with Pandas](https://www.reddit.com/r/Python/comments/112wzpx/python_parquet_and_arrow_using_pyarrow_with_pandas/)
+- [Google Sheets - Search and Replace](https://www.reddit.com/r/Python/comments/112wteh/google_sheets_search_and_replace/)
+- [How many of you are involved in GUI development with Python?](https://www.reddit.com/r/Python/comments/112vw9s/how_many_of_you_are_involved_in_gui_development/)
 - [I made an open-source tool to build, test, and deploy algotrading strategies!](https://www.reddit.com/r/Python/comments/112viv7/i_made_an_opensource_tool_to_build_test_and/)
 - [Python Developers Beware: Clipper Malware Found in 450+ PyPI Packages!](https://www.reddit.com/r/Python/comments/112vgw5/python_developers_beware_clipper_malware_found_in/)
-- [Built a little evolution simulator in python and pygame!](https://www.reddit.com/r/Python/comments/112uxkk/built_a_little_evolution_simulator_in_python_and/)
-- [From “iron manual” to “ironman” — augmenting GPT for fast editable memory to enable context aware question &amp; answering](https://www.reddit.com/r/Python/comments/112tsgr/from_iron_manual_to_ironman_augmenting_gpt_for/)
-- [Console &lpar;TUI&rpar; password manager written in python](https://www.reddit.com/r/Python/comments/112rppp/console_tui_password_manager_written_in_python/)
 <!-- BLOG-POST-LIST:END -->
