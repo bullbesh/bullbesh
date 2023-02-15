@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Tips for adding SQLAlchemy to FastAPI](https://www.reddit.com/r/Python/comments/11332r2/10_tips_for_adding_sqlalchemy_to_fastapi/)
+- [cyDoomGeneric: write your own doom ports in python!](https://www.reddit.com/r/Python/comments/1131y8s/cydoomgeneric_write_your_own_doom_ports_in_python/)
 - [A new Python package for working with 3D data](https://www.reddit.com/r/Python/comments/1131i0k/a_new_python_package_for_working_with_3d_data/)
 - [Linear and Binary Search Algorithms explained](https://www.reddit.com/r/Python/comments/112zwuw/linear_and_binary_search_algorithms_explained/)
 - [OAuth 1.0a Protocol with the HMAC-SHA1 signature using python.](https://www.reddit.com/r/Python/comments/112yh2w/oauth_10a_protocol_with_the_hmacsha1_signature/)
-- [PEP 706: Filter for tarfile.extractall](https://www.reddit.com/r/Python/comments/112yeou/pep_706_filter_for_tarfileextractall/)
-- [Textual 0.11.0 adds a beautiful Markdown widget](https://www.reddit.com/r/Python/comments/112xpuc/textual_0110_adds_a_beautiful_markdown_widget/)
 <!-- BLOG-POST-LIST:END -->
