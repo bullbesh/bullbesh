@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to debug Python applications](https://www.reddit.com/r/Python/comments/113n1dd/how_to_debug_python_applications/)
+- [Use &quot;distributed pandas&quot; to scale your data science workflow!](https://www.reddit.com/r/Python/comments/113mzof/use_distributed_pandas_to_scale_your_data_science/)
+- [My Horrible Debugging Experience in Python](https://www.reddit.com/r/Python/comments/113mojo/my_horrible_debugging_experience_in_python/)
 - [Divide and Conquer: Merge Sort | Programming Algorithm](https://www.reddit.com/r/Python/comments/113m5g6/divide_and_conquer_merge_sort_programming/)
 - [Writing a password cracker using python](https://www.reddit.com/r/Python/comments/113lot4/writing_a_password_cracker_using_python/)
-- [Brain Tumor Detection Web Application using Transfer Learning: An End-To-End Project](https://www.reddit.com/r/Python/comments/113ke8t/brain_tumor_detection_web_application_using/)
-- [Python OpenAI Library](https://www.reddit.com/r/Python/comments/113k595/python_openai_library/)
-- [What’s a good looking GUI package?](https://www.reddit.com/r/Python/comments/113jabc/whats_a_good_looking_gui_package/)
 <!-- BLOG-POST-LIST:END -->
