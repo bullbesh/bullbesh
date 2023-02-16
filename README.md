@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sample code for time lapse visualisations](https://www.reddit.com/r/Python/comments/113ng2y/sample_code_for_time_lapse_visualisations/)
 - [How to debug Python applications](https://www.reddit.com/r/Python/comments/113n1dd/how_to_debug_python_applications/)
 - [Use &quot;distributed pandas&quot; to scale your data science workflow!](https://www.reddit.com/r/Python/comments/113mzof/use_distributed_pandas_to_scale_your_data_science/)
 - [My Horrible Debugging Experience in Python](https://www.reddit.com/r/Python/comments/113mojo/my_horrible_debugging_experience_in_python/)
 - [Divide and Conquer: Merge Sort | Programming Algorithm](https://www.reddit.com/r/Python/comments/113m5g6/divide_and_conquer_merge_sort_programming/)
-- [Writing a password cracker using python](https://www.reddit.com/r/Python/comments/113lot4/writing_a_password_cracker_using_python/)
 <!-- BLOG-POST-LIST:END -->
