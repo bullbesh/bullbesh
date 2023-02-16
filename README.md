@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I let ChatGPT judge my code](https://www.reddit.com/r/Python/comments/113zw8u/i_let_chatgpt_judge_my_code/)
+- [Open source transactional notifications tool for developers built with Python and Node JS](https://www.reddit.com/r/Python/comments/113z8tl/open_source_transactional_notifications_tool_for/)
+- [Transpose of Matrix and 90 degree Rotation](https://www.reddit.com/r/Python/comments/113z83r/transpose_of_matrix_and_90_degree_rotation/)
 - [Hello, need advice learning](https://www.reddit.com/r/Python/comments/113x49z/hello_need_advice_learning/)
 - [== vs is. Differences between keywords &#39;is&#39; and &#39;==&#39;. Comparisons in Python. One of my first Python tutorials. I am really curious if I did a decent job.](https://www.reddit.com/r/Python/comments/113wbvq/vs_is_differences_between_keywords_is_and/)
-- [Tableu or Python library?](https://www.reddit.com/r/Python/comments/113wb5h/tableu_or_python_library/)
-- [Python Developer - 100% Remote &lpar;Must be US Citizen&rpar;](https://www.reddit.com/r/Python/comments/113v8pj/python_developer_100_remote_must_be_us_citizen/)
-- [How to take user input in python || Python Programming Tutorials For Beginners](https://www.reddit.com/r/Python/comments/113u5mg/how_to_take_user_input_in_python_python/)
 <!-- BLOG-POST-LIST:END -->
