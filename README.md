@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first python package - Scopul!](https://www.reddit.com/r/Python/comments/113ep3z/my_first_python_package_scopul/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/113ck82/thursday_daily_thread_python_careers_courses_and/)
+- [Intel Publishes Blazing Fast AVX-512 Sorting Library, Numpy Switching To It For 10~17x Faster Sorts](https://www.reddit.com/r/Python/comments/113cb77/intel_publishes_blazing_fast_avx512_sorting/)
 - [Hugging Face Teaches Transformers for Enterprise Use Cases](https://www.reddit.com/r/Python/comments/1139ynk/hugging_face_teaches_transformers_for_enterprise/)
 - [REST, gRPC, Thrift, Oh My! One consistent, open-source test application to RULE THEM ALL](https://www.reddit.com/r/Python/comments/1139n1f/rest_grpc_thrift_oh_my_one_consistent_opensource/)
-- [Thoughts on Python packaging and upper bounds - conda-forge vs pypi](https://www.reddit.com/r/Python/comments/1136ujx/thoughts_on_python_packaging_and_upper_bounds/)
-- [Adding Text &amp; Transparency to Images for Featured Image Creation](https://www.reddit.com/r/Python/comments/1135c3x/adding_text_transparency_to_images_for_featured/)
-- [What&#39;s new in Matplotlib 3.7.0 &lpar;Feb 13, 2023&rpar;](https://www.reddit.com/r/Python/comments/1133hk1/whats_new_in_matplotlib_370_feb_13_2023/)
 <!-- BLOG-POST-LIST:END -->
