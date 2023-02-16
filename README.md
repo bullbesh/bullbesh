@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easiest to use Python package for drawing / animating vector-based images?](https://www.reddit.com/r/Python/comments/113qv87/easiest_to_use_python_package_for_drawing/)
+- [walnats: Nats-powered event-driven background jobs and microservices framework for Python. It&#39;s like Celey or Dramatiq but for microservices, asyncio-powered, and type-safe.](https://www.reddit.com/r/Python/comments/113qru2/walnats_natspowered_eventdriven_background_jobs/)
 - [Learn To Build ML Algorithms From Scratch With Python](https://www.reddit.com/r/Python/comments/113pkh6/learn_to_build_ml_algorithms_from_scratch_with/)
 - [creating intermediary variable in a method](https://www.reddit.com/r/Python/comments/113pgbj/creating_intermediary_variable_in_a_method/)
 - [Sample code for time lapse visualisations](https://www.reddit.com/r/Python/comments/113ng2y/sample_code_for_time_lapse_visualisations/)
-- [How to debug Python applications](https://www.reddit.com/r/Python/comments/113n1dd/how_to_debug_python_applications/)
-- [Use &quot;distributed pandas&quot; to scale your data science workflow!](https://www.reddit.com/r/Python/comments/113mzof/use_distributed_pandas_to_scale_your_data_science/)
 <!-- BLOG-POST-LIST:END -->
