@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there any interest in a typed configuration language?](https://www.reddit.com/r/Python/comments/113gfr9/is_there_any_interest_in_a_typed_configuration/)
 - [Today&#39;s LeetCode Challenge in Python](https://www.reddit.com/r/Python/comments/113fbqw/todays_leetcode_challenge_in_python/)
 - [My first python package - Scopul!](https://www.reddit.com/r/Python/comments/113ep3z/my_first_python_package_scopul/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/113ck82/thursday_daily_thread_python_careers_courses_and/)
 - [Intel Publishes Blazing Fast AVX-512 Sorting Library, Numpy Switching To It For 10~17x Faster Sorts](https://www.reddit.com/r/Python/comments/113cb77/intel_publishes_blazing_fast_avx512_sorting/)
-- [Hugging Face Teaches Transformers for Enterprise Use Cases](https://www.reddit.com/r/Python/comments/1139ynk/hugging_face_teaches_transformers_for_enterprise/)
 <!-- BLOG-POST-LIST:END -->
