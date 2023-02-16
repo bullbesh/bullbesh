@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing a password cracker using python](https://www.reddit.com/r/Python/comments/113lot4/writing_a_password_cracker_using_python/)
 - [Brain Tumor Detection Web Application using Transfer Learning: An End-To-End Project](https://www.reddit.com/r/Python/comments/113ke8t/brain_tumor_detection_web_application_using/)
 - [Python OpenAI Library](https://www.reddit.com/r/Python/comments/113k595/python_openai_library/)
 - [What’s a good looking GUI package?](https://www.reddit.com/r/Python/comments/113jabc/whats_a_good_looking_gui_package/)
 - [What framework is good](https://www.reddit.com/r/Python/comments/113i7h1/what_framework_is_good/)
-- [Is there any interest in a typed configuration language?](https://www.reddit.com/r/Python/comments/113gfr9/is_there_any_interest_in_a_typed_configuration/)
 <!-- BLOG-POST-LIST:END -->
