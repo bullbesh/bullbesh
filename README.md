@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python](https://www.reddit.com/r/Python/comments/1142ops/python/)
+- [PyScript Examples: Python for JavaScript Developers](https://www.reddit.com/r/Python/comments/114431u/pyscript_examples_python_for_javascript_developers/)
 - [What are the best laptops for coding with Python and quantitative trading?](https://www.reddit.com/r/Python/comments/11421eb/what_are_the_best_laptops_for_coding_with_python/)
 - [I&#39;ve written a pygame program that simulates spreading territory.](https://www.reddit.com/r/Python/comments/1141y4u/ive_written_a_pygame_program_that_simulates/)
 - [I used Python and ChatGPT to control Hue lights](https://www.reddit.com/r/Python/comments/1141i77/i_used_python_and_chatgpt_to_control_hue_lights/)
