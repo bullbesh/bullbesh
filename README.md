@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s a good looking GUI package?](https://www.reddit.com/r/Python/comments/113jabc/whats_a_good_looking_gui_package/)
 - [What framework is good](https://www.reddit.com/r/Python/comments/113i7h1/what_framework_is_good/)
 - [Is there any interest in a typed configuration language?](https://www.reddit.com/r/Python/comments/113gfr9/is_there_any_interest_in_a_typed_configuration/)
 - [Today&#39;s LeetCode Challenge in Python](https://www.reddit.com/r/Python/comments/113fbqw/todays_leetcode_challenge_in_python/)
 - [My first python package - Scopul!](https://www.reddit.com/r/Python/comments/113ep3z/my_first_python_package_scopul/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/113ck82/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
