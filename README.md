@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a job search API the microservice way with Python and CloudAMQP/RabbitMQ](https://www.reddit.com/r/Python/comments/114j4c5/build_a_job_search_api_the_microservice_way_with/)
 - [I made a simple sandbox Chemistry game that simulates basic reactions with &quot;Mol-ecules&quot; &lpar;a mol of molecules&rpar;.](https://www.reddit.com/r/Python/comments/114diaf/i_made_a_simple_sandbox_chemistry_game_that/)
 - [learning python from today, any mentors and learners who are available HMU.](https://www.reddit.com/r/Python/comments/114dd7d/learning_python_from_today_any_mentors_and/)
 - [Single-page web app in Python, but with all logic done in the browser.](https://www.reddit.com/r/Python/comments/114axwn/singlepage_web_app_in_python_but_with_all_logic/)
 - [Company project : Django/React, Streamlit or non-web based GUI?](https://www.reddit.com/r/Python/comments/1149swv/company_project_djangoreact_streamlit_or_nonweb/)
-- [Theine 0.1.3 release, sync/async decorator added](https://www.reddit.com/r/Python/comments/1148b76/theine_013_release_syncasync_decorator_added/)
 <!-- BLOG-POST-LIST:END -->
