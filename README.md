@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Emulated Quantum Computation](https://www.reddit.com/r/Python/comments/114t5zz/emulated_quantum_computation/)
+- [Master Python Venv?](https://www.reddit.com/r/Python/comments/114sfmk/master_python_venv/)
 - [Automating your Mastodon profile with Python and Pipedream.com](https://www.reddit.com/r/Python/comments/114rit6/automating_your_mastodon_profile_with_python_and/)
 - [android-strings-converter: A Python package that converts Android strings.xml file to any file type supported by the package.](https://www.reddit.com/r/Python/comments/114qatr/androidstringsconverter_a_python_package_that/)
 - [Neptyne Tutorial A programmable spreadsheet that runs Python](https://www.reddit.com/r/Python/comments/114nhrx/neptyne_tutorial_a_programmable_spreadsheet_that/)
-- [How do you begin to tackle a programming problem without getting overwhelmed?](https://www.reddit.com/r/Python/comments/114k3mj/how_do_you_begin_to_tackle_a_programming_problem/)
-- [Hassle switching between different environments and interpreters &lpar;VSCode&rpar;](https://www.reddit.com/r/Python/comments/114jufk/hassle_switching_between_different_environments/)
 <!-- BLOG-POST-LIST:END -->
