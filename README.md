@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for a mentor](https://www.reddit.com/r/Python/comments/11470l6/looking_for_a_mentor/)
+- [Protect yourself from accidentally leaking sensitive information](https://www.reddit.com/r/Python/comments/1145nhv/protect_yourself_from_accidentally_leaking/)
+- [Decoupling Python Code: Implementing the Unit of Work and Repository Pattern](https://www.reddit.com/r/Python/comments/1145a25/decoupling_python_code_implementing_the_unit_of/)
 - [PyScript Examples: Python for JavaScript Developers](https://www.reddit.com/r/Python/comments/114431u/pyscript_examples_python_for_javascript_developers/)
-- [What are the best laptops for coding with Python and quantitative trading?](https://www.reddit.com/r/Python/comments/11421eb/what_are_the_best_laptops_for_coding_with_python/)
 - [I&#39;ve written a pygame program that simulates spreading territory.](https://www.reddit.com/r/Python/comments/1141y4u/ive_written_a_pygame_program_that_simulates/)
-- [I used Python and ChatGPT to control Hue lights](https://www.reddit.com/r/Python/comments/1141i77/i_used_python_and_chatgpt_to_control_hue_lights/)
-- [With KYRSWY you can schedule, rec and upload to your cloud service your favorites radio shows! All with Python, docker, Rclone and Linux. &lpar;KYRSWY doesn&#39;t provide any radio streaming link&rpar;](https://www.reddit.com/r/Python/comments/1140u0h/with_kyrswy_you_can_schedule_rec_and_upload_to/)
 <!-- BLOG-POST-LIST:END -->
