@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python’s multiprocessing performance problem](https://www.reddit.com/r/Python/comments/114w6fw/pythons_multiprocessing_performance_problem/)
+- [Use Pip&#39;s Constraints Files to Manage Your Python Environment](https://www.reddit.com/r/Python/comments/114vwiv/use_pips_constraints_files_to_manage_your_python/)
+- [How does the steering committee remain sensitive to the various communities that use Python? Are all relevant communities surveyed to determine the impact of new PEPs on these communities &lpar;scientific, academic, corporate, etc&rpar;. And what if the BDFL disagrees?](https://www.reddit.com/r/Python/comments/114vsmv/how_does_the_steering_committee_remain_sensitive/)
 - [Emulated Quantum Computation](https://www.reddit.com/r/Python/comments/114t5zz/emulated_quantum_computation/)
 - [Automating your Mastodon profile with Python and Pipedream.com](https://www.reddit.com/r/Python/comments/114rit6/automating_your_mastodon_profile_with_python_and/)
-- [android-strings-converter: A Python package that converts Android strings.xml file to any file type supported by the package.](https://www.reddit.com/r/Python/comments/114qatr/androidstringsconverter_a_python_package_that/)
-- [Neptyne Tutorial A programmable spreadsheet that runs Python](https://www.reddit.com/r/Python/comments/114nhrx/neptyne_tutorial_a_programmable_spreadsheet_that/)
-- [How do you begin to tackle a programming problem without getting overwhelmed?](https://www.reddit.com/r/Python/comments/114k3mj/how_do_you_begin_to_tackle_a_programming_problem/)
 <!-- BLOG-POST-LIST:END -->
