@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can somebody tell why when randomizer chooses two *s it says deposit was multiplied by 1.5 instead of 2?](https://www.reddit.com/r/Python/comments/115lkdf/can_somebody_tell_why_when_randomizer_chooses_two/)
+- [Rust implementation of Python dependency parser for PEP 508](https://www.reddit.com/r/Python/comments/115liyi/rust_implementation_of_python_dependency_parser/)
+- [Requests package give me &#39;set&#39; object is not callable error](https://www.reddit.com/r/Python/comments/115l9hr/requests_package_give_me_set_object_is_not/)
+- [Data Scientist in the Aerospace industry - I&#39;m going to start posting daily practical videos instead of the abundant theoretical knowledge I see everywhere, check me out and let me know how I can improve the format](https://www.reddit.com/r/Python/comments/115l10k/data_scientist_in_the_aerospace_industry_im_going/)
 - [Any tips for learning python](https://www.reddit.com/r/Python/comments/115k3o1/any_tips_for_learning_python/)
-- [Whats the best way to learn python](https://www.reddit.com/r/Python/comments/115jwit/whats_the_best_way_to_learn_python/)
-- [Translate All The Things! An Introduction to LibreTranslate - FOSDEM 2023](https://www.reddit.com/r/Python/comments/115jkuo/translate_all_the_things_an_introduction_to/)
-- [Using Match Case For Pattern Matching In Python](https://www.reddit.com/r/Python/comments/115i3w1/using_match_case_for_pattern_matching_in_python/)
-- [End-to-End Tutorial on Combining AWS Lambda, Docker, and Python](https://www.reddit.com/r/Python/comments/115fzif/endtoend_tutorial_on_combining_aws_lambda_docker/)
 <!-- BLOG-POST-LIST:END -->
