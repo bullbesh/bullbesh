@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Website to interact with Python , show Python data result &lpar; total noob&rpar;](https://www.reddit.com/r/Python/comments/115b69y/website_to_interact_with_python_show_python_data/)
 - [Python Tip on using zip method](https://www.reddit.com/r/Python/comments/11596v1/python_tip_on_using_zip_method/)
 - [Debugging is tough. It took me hours to debug this python error](https://www.reddit.com/r/Python/comments/11594rx/debugging_is_tough_it_took_me_hours_to_debug_this/)
 - [SplootCode - A Python structured editor for beginners](https://www.reddit.com/r/Python/comments/1156xei/splootcode_a_python_structured_editor_for/)
 - [Conch - An open source Windows Terminal Enhancer](https://www.reddit.com/r/Python/comments/11564ar/conch_an_open_source_windows_terminal_enhancer/)
-- [I&#39;ve created a Senior Python Developer roadmap](https://www.reddit.com/r/Python/comments/1153jb6/ive_created_a_senior_python_developer_roadmap/)
 <!-- BLOG-POST-LIST:END -->
