@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need help](https://www.reddit.com/r/Python/comments/115qlzl/need_help/)
+- [I just made a python math flash card game, using tkinter.](https://www.reddit.com/r/Python/comments/115pqs8/i_just_made_a_python_math_flash_card_game_using/)
 - [Brain Tumor Detection Web Application using Transfer Learning: An End-To-End Project](https://www.reddit.com/r/Python/comments/115mm9o/brain_tumor_detection_web_application_using/)
 - [Rust implementation of Python dependency parser for PEP 508](https://www.reddit.com/r/Python/comments/115liyi/rust_implementation_of_python_dependency_parser/)
 - [Data Scientist in the Aerospace industry - I&#39;m going to start posting daily practical videos instead of the abundant theoretical knowledge I see everywhere, check me out and let me know how I can improve the format](https://www.reddit.com/r/Python/comments/115l10k/data_scientist_in_the_aerospace_industry_im_going/)
-- [Translate All The Things! An Introduction to LibreTranslate - FOSDEM 2023](https://www.reddit.com/r/Python/comments/115jkuo/translate_all_the_things_an_introduction_to/)
-- [Using Match Case For Pattern Matching In Python](https://www.reddit.com/r/Python/comments/115i3w1/using_match_case_for_pattern_matching_in_python/)
 <!-- BLOG-POST-LIST:END -->
