@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [OK, what&#39;s definitive list of things you would put in a senior development roadmap for a python developer](https://www.reddit.com/r/Python/comments/115cxkk/ok_whats_definitive_list_of_things_you_would_put/)
+- [An opinionated Python boilerplate](https://www.reddit.com/r/Python/comments/115clhf/an_opinionated_python_boilerplate/)
+- [Python for Beginners Part 1](https://www.reddit.com/r/Python/comments/115cla5/python_for_beginners_part_1/)
 - [Website to interact with Python , show Python data result &lpar; total noob&rpar;](https://www.reddit.com/r/Python/comments/115b69y/website_to_interact_with_python_show_python_data/)
 - [Python Tip on using zip method](https://www.reddit.com/r/Python/comments/11596v1/python_tip_on_using_zip_method/)
-- [Debugging is tough. It took me hours to debug this python error](https://www.reddit.com/r/Python/comments/11594rx/debugging_is_tough_it_took_me_hours_to_debug_this/)
-- [SplootCode - A Python structured editor for beginners](https://www.reddit.com/r/Python/comments/1156xei/splootcode_a_python_structured_editor_for/)
-- [Conch - An open source Windows Terminal Enhancer](https://www.reddit.com/r/Python/comments/11564ar/conch_an_open_source_windows_terminal_enhancer/)
 <!-- BLOG-POST-LIST:END -->
