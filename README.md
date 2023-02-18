@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any tips for learning python](https://www.reddit.com/r/Python/comments/115k3o1/any_tips_for_learning_python/)
+- [Whats the best way to learn python](https://www.reddit.com/r/Python/comments/115jwit/whats_the_best_way_to_learn_python/)
+- [Translate All The Things! An Introduction to LibreTranslate - FOSDEM 2023](https://www.reddit.com/r/Python/comments/115jkuo/translate_all_the_things_an_introduction_to/)
 - [Using Match Case For Pattern Matching In Python](https://www.reddit.com/r/Python/comments/115i3w1/using_match_case_for_pattern_matching_in_python/)
 - [End-to-End Tutorial on Combining AWS Lambda, Docker, and Python](https://www.reddit.com/r/Python/comments/115fzif/endtoend_tutorial_on_combining_aws_lambda_docker/)
-- [what is wrong with this code?](https://www.reddit.com/r/Python/comments/115fsak/what_is_wrong_with_this_code/)
-- [Beginners](https://www.reddit.com/r/Python/comments/115fluw/beginners/)
-- [Chapter 1: Pygame Zero and Mu Editor | Learn to Code with Python and Pygame Zero for Everybody](https://www.reddit.com/r/Python/comments/115dpac/chapter_1_pygame_zero_and_mu_editor_learn_to_code/)
 <!-- BLOG-POST-LIST:END -->
