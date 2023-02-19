@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fast Data Masking using a Python-based package](https://www.reddit.com/r/Python/comments/11601gh/fast_data_masking_using_a_pythonbased_package/)
 - [SHARE WITH MI](https://www.reddit.com/r/Python/comments/115ys9p/share_with_mi/)
 - [I created a fully automated youtube channel with ElevenLabs TTS.](https://www.reddit.com/r/Python/comments/115x831/i_created_a_fully_automated_youtube_channel_with/)
 - [1. How to Create Window | Chapter 2: Creating Window in Pygame Zero](https://www.reddit.com/r/Python/comments/115wzp3/1_how_to_create_window_chapter_2_creating_window/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/115w23y/sunday_daily_thread_whats_everyone_working_on/)
-- [2D photos from 3D model in .obj or .fbx format](https://www.reddit.com/r/Python/comments/115unie/2d_photos_from_3d_model_in_obj_or_fbx_format/)
 <!-- BLOG-POST-LIST:END -->
