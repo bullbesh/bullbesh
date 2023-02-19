@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are your preferred method&lpar;s&rpar; for installing multiple python versions on macOS?](https://www.reddit.com/r/Python/comments/116mpig/what_are_your_preferred_methods_for_installing/)
+- [🐍 🎂 Happy Birthday Python! You 31yo Bada**!](https://www.reddit.com/r/Python/comments/116mm2u/happy_birthday_python_you_31yo_bada/)
+- [How to assume an IAM role to access another AWS account](https://www.reddit.com/r/Python/comments/116lo2g/how_to_assume_an_iam_role_to_access_another_aws/)
 - [“TxtAva” a ChatGPT powered Textbot with Image Generation and Search functionality.](https://www.reddit.com/r/Python/comments/116ku01/txtava_a_chatgpt_powered_textbot_with_image/)
-- [Solana token with tax fees for the developer, is there a way?](https://www.reddit.com/r/Python/comments/116knf6/solana_token_with_tax_fees_for_the_developer_is/)
 - [Which one do you think is elegant, and which do you think is efficient?](https://www.reddit.com/r/Python/comments/116ie6m/which_one_do_you_think_is_elegant_and_which_do/)
-- [Coding python on android](https://www.reddit.com/r/Python/comments/116ichq/coding_python_on_android/)
-- [PyEncry - My fast file encryption and decryption application](https://www.reddit.com/r/Python/comments/116gedd/pyencry_my_fast_file_encryption_and_decryption/)
 <!-- BLOG-POST-LIST:END -->
