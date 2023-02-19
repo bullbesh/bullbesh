@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which one do you think is elegant, and which do you think is efficient?](https://www.reddit.com/r/Python/comments/116ie6m/which_one_do_you_think_is_elegant_and_which_do/)
+- [Coding python on android](https://www.reddit.com/r/Python/comments/116ichq/coding_python_on_android/)
 - [PyEncry - My fast file encryption and decryption application](https://www.reddit.com/r/Python/comments/116gedd/pyencry_my_fast_file_encryption_and_decryption/)
 - [Data Scientist in the Aerospace Industry #2 - As promised Daily No BS Short Videos. YouTube link in the comments section. &lpar;Thanks over the insane support&rpar;. Today&#39;s topic: How to trim your Dataset to keep relevant data.](https://www.reddit.com/r/Python/comments/116foi1/data_scientist_in_the_aerospace_industry_2_as/)
 - [Do you want an easy and quick way to explain your image models?](https://www.reddit.com/r/Python/comments/116buoe/do_you_want_an_easy_and_quick_way_to_explain_your/)
-- [Create Unique Lofi Versions of Your Favorite Songs with Slowed+Reverb+Surround](https://www.reddit.com/r/Python/comments/116a6nb/create_unique_lofi_versions_of_your_favorite/)
-- [IA da Microsoft mostra seu lado sombrio](https://www.reddit.com/r/Python/comments/116815w/ia_da_microsoft_mostra_seu_lado_sombrio/)
 <!-- BLOG-POST-LIST:END -->
