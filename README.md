@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a fully automated youtube channel with ElevenLabs TTS.](https://www.reddit.com/r/Python/comments/115x831/i_created_a_fully_automated_youtube_channel_with/)
+- [1. How to Create Window | Chapter 2: Creating Window in Pygame Zero](https://www.reddit.com/r/Python/comments/115wzp3/1_how_to_create_window_chapter_2_creating_window/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/115w23y/sunday_daily_thread_whats_everyone_working_on/)
 - [2D photos from 3D model in .obj or .fbx format](https://www.reddit.com/r/Python/comments/115unie/2d_photos_from_3d_model_in_obj_or_fbx_format/)
 - [Pong Game Played By AI](https://www.reddit.com/r/Python/comments/115ueyv/pong_game_played_by_ai/)
-- [Image file upload on Facebook mobile.](https://www.reddit.com/r/Python/comments/115trwi/image_file_upload_on_facebook_mobile/)
-- [🧘‍♀️ Hyx - Resiliency Toolkit for Python-based microservice systems](https://www.reddit.com/r/Python/comments/115toaj/hyx_resiliency_toolkit_for_pythonbased/)
-- [My First Python Project, Tkinter-Python Math Flash Cards](https://www.reddit.com/r/Python/comments/115sphs/my_first_python_project_tkinterpython_math_flash/)
 <!-- BLOG-POST-LIST:END -->
