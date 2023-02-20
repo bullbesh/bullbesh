@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [TIL python is named after BBC show “Monty Python’s Flying Circus”](https://www.reddit.com/r/Python/comments/1174mzz/til_python_is_named_after_bbc_show_monty_pythons/)
 - [I made a simple script to folder your files](https://www.reddit.com/r/Python/comments/1173nim/i_made_a_simple_script_to_folder_your_files/)
 - [Seeking Advice on Learning Back-End Development with Flask, Django, and Cassandra.](https://www.reddit.com/r/Python/comments/1173g8z/seeking_advice_on_learning_backend_development/)
 - [Collection of tools for monitoring running Jupyter Notebooks and interacting with them](https://www.reddit.com/r/Python/comments/1173dh5/collection_of_tools_for_monitoring_running/)
 - [GitHub - miguelgrinberg/microdot: The impossibly small web framework for Python and MicroPython.](https://www.reddit.com/r/Python/comments/11730af/github_miguelgrinbergmicrodot_the_impossibly/)
-- [Create Web Applications from Jupyter Notebook with Python only - a new open-source framework with UI widgets](https://www.reddit.com/r/Python/comments/1172c3k/create_web_applications_from_jupyter_notebook/)
 <!-- BLOG-POST-LIST:END -->
