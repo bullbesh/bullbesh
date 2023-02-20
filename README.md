@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python software developers where did you learn python?](https://www.reddit.com/r/Python/comments/117fnzh/python_software_developers_where_did_you_learn/)
+- [Announcing Python Support in CodeSandbox, start a Python VM with one click](https://www.reddit.com/r/Python/comments/117f6ej/announcing_python_support_in_codesandbox_start_a/)
+- [Opinionated article about virtual environments management](https://www.reddit.com/r/Python/comments/117ehp4/opinionated_article_about_virtual_environments/)
 - [I made a simple password generator](https://www.reddit.com/r/Python/comments/117e4ee/i_made_a_simple_password_generator/)
 - [mob apps](https://www.reddit.com/r/Python/comments/117c4b1/mob_apps/)
-- [HI! Choosing Data Science vs Web Dev](https://www.reddit.com/r/Python/comments/117awk0/hi_choosing_data_science_vs_web_dev/)
-- [I made a very basic twitter replica using flask and python &lpar;Nothing fancy&rpar;. I want to test website with large number of users. I would appreciate you guys to post something there and give me feedback below](https://www.reddit.com/r/Python/comments/117aks8/i_made_a_very_basic_twitter_replica_using_flask/)
-- [The free weekly Python on Microcontrollers Newsletter](https://www.reddit.com/r/Python/comments/1178cez/the_free_weekly_python_on_microcontrollers/)
 <!-- BLOG-POST-LIST:END -->
