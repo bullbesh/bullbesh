@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a cool CLI using Python !](https://www.reddit.com/r/Python/comments/117jadt/i_made_a_cool_cli_using_python/)
+- [What is your workflow for managing virtual environments for personal projects?](https://www.reddit.com/r/Python/comments/117irnj/what_is_your_workflow_for_managing_virtual/)
+- [John Cena as a spiderverse character using Img2img and Control net Depth](https://www.reddit.com/r/Python/comments/117ifb9/john_cena_as_a_spiderverse_character_using/)
 - [Elevate Your Language Skills with VocabularyCLI - The Ultimate CLI for Linguaphiles!](https://www.reddit.com/r/Python/comments/117gfeo/elevate_your_language_skills_with_vocabularycli/)
 - [Python software developers where did you learn python?](https://www.reddit.com/r/Python/comments/117fnzh/python_software_developers_where_did_you_learn/)
-- [Announcing Python Support in CodeSandbox, start a Python VM with one click](https://www.reddit.com/r/Python/comments/117f6ej/announcing_python_support_in_codesandbox_start_a/)
-- [Opinionated article about virtual environments management](https://www.reddit.com/r/Python/comments/117ehp4/opinionated_article_about_virtual_environments/)
-- [I made a simple password generator](https://www.reddit.com/r/Python/comments/117e4ee/i_made_a_simple_password_generator/)
 <!-- BLOG-POST-LIST:END -->
