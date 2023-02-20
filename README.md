@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [32 Open Source Libraries for Python&#39;s 32nd Birthday](https://www.reddit.com/r/Python/comments/117kuq6/32_open_source_libraries_for_pythons_32nd_birthday/)
 - [pip install replbuilder: A simple tool for building python based repl clients.](https://www.reddit.com/r/Python/comments/117kfmy/pip_install_replbuilder_a_simple_tool_for/)
-- [How to run Python on Visual Studio ‘22?](https://www.reddit.com/r/Python/comments/117jt70/how_to_run_python_on_visual_studio_22/)
 - [I made a cool CLI using Python !](https://www.reddit.com/r/Python/comments/117jadt/i_made_a_cool_cli_using_python/)
 - [What is your workflow for managing virtual environments for personal projects?](https://www.reddit.com/r/Python/comments/117irnj/what_is_your_workflow_for_managing_virtual/)
-- [John Cena as a spiderverse character using Img2img and Control net Depth](https://www.reddit.com/r/Python/comments/117ifb9/john_cena_as_a_spiderverse_character_using/)
+- [Elevate Your Language Skills with VocabularyCLI - The Ultimate CLI for Linguaphiles!](https://www.reddit.com/r/Python/comments/117gfeo/elevate_your_language_skills_with_vocabularycli/)
 <!-- BLOG-POST-LIST:END -->
