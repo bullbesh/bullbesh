@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/116s5pb/monday_daily_thread_project_ideas/)
 - [Flappy Bird Played By AI -- Trained Using Genetic Algorithm -- Only Numpy + Pygame](https://www.reddit.com/r/Python/comments/116qbcp/flappy_bird_played_by_ai_trained_using_genetic/)
 - [Switching between multiple data streams in a single thread](https://www.reddit.com/r/Python/comments/116ns11/switching_between_multiple_data_streams_in_a/)
 - [In what ways, having knowledge of python can make your life easier? &lpar;with examples&rpar;](https://www.reddit.com/r/Python/comments/116no2y/in_what_ways_having_knowledge_of_python_can_make/)
 - [📢For those interested in Polars, have a look to this new awesome list about Polars !](https://www.reddit.com/r/Python/comments/116ndrt/for_those_interested_in_polars_have_a_look_to/)
-- [🐍 🎂 Happy Birthday Python! You 32yo Bada**!](https://www.reddit.com/r/Python/comments/116n2km/happy_birthday_python_you_32yo_bada/)
 <!-- BLOG-POST-LIST:END -->
