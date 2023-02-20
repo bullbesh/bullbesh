@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [mob apps](https://www.reddit.com/r/Python/comments/117c4b1/mob_apps/)
+- [HI! Choosing Data Science vs Web Dev](https://www.reddit.com/r/Python/comments/117awk0/hi_choosing_data_science_vs_web_dev/)
+- [I made a very basic twitter replica using flask and python &lpar;Nothing fancy&rpar;. I want to test website with large number of users. I would appreciate you guys to post something there and give me feedback below](https://www.reddit.com/r/Python/comments/117aks8/i_made_a_very_basic_twitter_replica_using_flask/)
 - [The free weekly Python on Microcontrollers Newsletter](https://www.reddit.com/r/Python/comments/1178cez/the_free_weekly_python_on_microcontrollers/)
 - [I made a thing.... A PGP gui tool.](https://www.reddit.com/r/Python/comments/117795x/i_made_a_thing_a_pgp_gui_tool/)
-- [How to Make a Calculator With Python](https://www.reddit.com/r/Python/comments/1176qr6/how_to_make_a_calculator_with_python/)
-- [TIL python is named after BBC show “Monty Python’s Flying Circus”](https://www.reddit.com/r/Python/comments/1174mzz/til_python_is_named_after_bbc_show_monty_pythons/)
-- [I made a simple script to folder your files](https://www.reddit.com/r/Python/comments/1173nim/i_made_a_simple_script_to_folder_your_files/)
 <!-- BLOG-POST-LIST:END -->
