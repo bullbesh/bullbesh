@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a simple password generator](https://www.reddit.com/r/Python/comments/117e4ee/i_made_a_simple_password_generator/)
 - [mob apps](https://www.reddit.com/r/Python/comments/117c4b1/mob_apps/)
 - [HI! Choosing Data Science vs Web Dev](https://www.reddit.com/r/Python/comments/117awk0/hi_choosing_data_science_vs_web_dev/)
 - [I made a very basic twitter replica using flask and python &lpar;Nothing fancy&rpar;. I want to test website with large number of users. I would appreciate you guys to post something there and give me feedback below](https://www.reddit.com/r/Python/comments/117aks8/i_made_a_very_basic_twitter_replica_using_flask/)
 - [The free weekly Python on Microcontrollers Newsletter](https://www.reddit.com/r/Python/comments/1178cez/the_free_weekly_python_on_microcontrollers/)
-- [I made a thing.... A PGP gui tool.](https://www.reddit.com/r/Python/comments/117795x/i_made_a_thing_a_pgp_gui_tool/)
 <!-- BLOG-POST-LIST:END -->
