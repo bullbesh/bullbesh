@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Crypt Keeper - New Tool I wrote. Feedback welcome.](https://www.reddit.com/r/Python/comments/118es48/crypt_keeper_new_tool_i_wrote_feedback_welcome/)
-- [The new Python - Share your opinion!](https://www.reddit.com/r/Python/comments/118eabj/the_new_python_share_your_opinion/)
 - [I made a dog morse code language](https://www.reddit.com/r/Python/comments/118df1f/i_made_a_dog_morse_code_language/)
 - [How do you make code make sense?](https://www.reddit.com/r/Python/comments/118de2j/how_do_you_make_code_make_sense/)
 - [A Guide to Pivot Tables in Pandas](https://www.reddit.com/r/Python/comments/118d2v0/a_guide_to_pivot_tables_in_pandas/)
+- [Cool Browser-Based Python Data Computing Tool](https://www.reddit.com/r/Python/comments/118cl45/cool_browserbased_python_data_computing_tool/)
 <!-- BLOG-POST-LIST:END -->
