@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Semantic search for Wikipedia](https://www.reddit.com/r/Python/comments/117r0iq/semantic_search_for_wikipedia/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/117ospx/tuesday_daily_thread_advanced_questions/)
 - [32 Open Source Libraries for Python&#39;s 32nd Birthday](https://www.reddit.com/r/Python/comments/117kuq6/32_open_source_libraries_for_pythons_32nd_birthday/)
 - [pip install replbuilder: A simple tool for building python based repl clients.](https://www.reddit.com/r/Python/comments/117kfmy/pip_install_replbuilder_a_simple_tool_for/)
 - [I made a cool CLI using Python !](https://www.reddit.com/r/Python/comments/117jadt/i_made_a_cool_cli_using_python/)
-- [What is your workflow for managing virtual environments for personal projects?](https://www.reddit.com/r/Python/comments/117irnj/what_is_your_workflow_for_managing_virtual/)
-- [Elevate Your Language Skills with VocabularyCLI - The Ultimate CLI for Linguaphiles!](https://www.reddit.com/r/Python/comments/117gfeo/elevate_your_language_skills_with_vocabularycli/)
 <!-- BLOG-POST-LIST:END -->
