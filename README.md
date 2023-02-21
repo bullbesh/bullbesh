@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tips &amp; Tricks for dealing with json](https://www.reddit.com/r/Python/comments/1182ebd/tips_tricks_for_dealing_with_json/)
+- [Useful libraries for integration/api testing](https://www.reddit.com/r/Python/comments/11829q9/useful_libraries_for_integrationapi_testing/)
 - [I learned how to use spritesheets and play animations properly.](https://www.reddit.com/r/Python/comments/1180zsa/i_learned_how_to_use_spritesheets_and_play/)
 - [My project creates synthetic data to analyze transactions](https://www.reddit.com/r/Python/comments/117yiru/my_project_creates_synthetic_data_to_analyze/)
 - [&lpar;GUIDE&rpar; How to get GPU support for tensorflow on ubuntu 22.04](https://www.reddit.com/r/Python/comments/117xf0z/guide_how_to_get_gpu_support_for_tensorflow_on/)
-- [I am getting an error just by importing a module... that is installed in my device.](https://www.reddit.com/r/Python/comments/117xcd4/i_am_getting_an_error_just_by_importing_a_module/)
-- [After using Python for over 2 years I am still really confused about all of the installation stuff and virtual environments](https://www.reddit.com/r/Python/comments/117xcbj/after_using_python_for_over_2_years_i_am_still/)
 <!-- BLOG-POST-LIST:END -->
