@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [REaLTabFormer: Generating realistic synthetic data using GPT in Python](https://www.reddit.com/r/Python/comments/117vtkx/realtabformer_generating_realistic_synthetic_data/)
 - [Semantic search for Wikipedia](https://www.reddit.com/r/Python/comments/117r0iq/semantic_search_for_wikipedia/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/117ospx/tuesday_daily_thread_advanced_questions/)
 - [32 Open Source Libraries for Python&#39;s 32nd Birthday](https://www.reddit.com/r/Python/comments/117kuq6/32_open_source_libraries_for_pythons_32nd_birthday/)
 - [pip install replbuilder: A simple tool for building python based repl clients.](https://www.reddit.com/r/Python/comments/117kfmy/pip_install_replbuilder_a_simple_tool_for/)
-- [I made a cool CLI using Python !](https://www.reddit.com/r/Python/comments/117jadt/i_made_a_cool_cli_using_python/)
 <!-- BLOG-POST-LIST:END -->
