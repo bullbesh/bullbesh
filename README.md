@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a dog morse code language](https://www.reddit.com/r/Python/comments/118df1f/i_made_a_dog_morse_code_language/)
+- [How do you make code make sense?](https://www.reddit.com/r/Python/comments/118de2j/how_do_you_make_code_make_sense/)
+- [A Guide to Pivot Tables in Pandas](https://www.reddit.com/r/Python/comments/118d2v0/a_guide_to_pivot_tables_in_pandas/)
 - [Cool Browser-Based Python Data Computing Tool](https://www.reddit.com/r/Python/comments/118cl45/cool_browserbased_python_data_computing_tool/)
 - [What are some common challenges in scaling machine learning systems?](https://www.reddit.com/r/Python/comments/118c3de/what_are_some_common_challenges_in_scaling/)
-- [[D] Python-Based virtual assistant capable of calling APIs](https://www.reddit.com/r/Python/comments/118bf6g/d_pythonbased_virtual_assistant_capable_of/)
-- [WebApp that creates an ASCII ART of an image.](https://www.reddit.com/r/Python/comments/118bdhf/webapp_that_creates_an_ascii_art_of_an_image/)
-- [Passing HTML tags to api](https://www.reddit.com/r/Python/comments/118ason/passing_html_tags_to_api/)
 <!-- BLOG-POST-LIST:END -->
