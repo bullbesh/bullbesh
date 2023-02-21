@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Develop Data Visualization Interfaces in Python With Dash – Real Python](https://www.reddit.com/r/Python/comments/11849gz/develop_data_visualization_interfaces_in_python/)
+- [Implementing differentiation in Python using ChatGPT](https://www.reddit.com/r/Python/comments/1183fhh/implementing_differentiation_in_python_using/)
 - [Semantic search for Wikipedia](https://www.reddit.com/r/Python/comments/1183d3r/semantic_search_for_wikipedia/)
 - [Tips &amp; Tricks for dealing with json](https://www.reddit.com/r/Python/comments/1182ebd/tips_tricks_for_dealing_with_json/)
 - [Useful libraries for integration/api testing](https://www.reddit.com/r/Python/comments/11829q9/useful_libraries_for_integrationapi_testing/)
-- [I learned how to use spritesheets and play animations properly.](https://www.reddit.com/r/Python/comments/1180zsa/i_learned_how_to_use_spritesheets_and_play/)
-- [My project creates synthetic data to analyze transactions](https://www.reddit.com/r/Python/comments/117yiru/my_project_creates_synthetic_data_to_analyze/)
 <!-- BLOG-POST-LIST:END -->
