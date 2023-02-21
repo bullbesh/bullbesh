@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am getting an error just by importing a module... that is installed in my device.](https://www.reddit.com/r/Python/comments/117xcd4/i_am_getting_an_error_just_by_importing_a_module/)
+- [After using Python for over 2 years I am still really confused about all of the installation stuff and virtual environments](https://www.reddit.com/r/Python/comments/117xcbj/after_using_python_for_over_2_years_i_am_still/)
+- [Writing a SSH brute forcer using python](https://www.reddit.com/r/Python/comments/117wxhg/writing_a_ssh_brute_forcer_using_python/)
+- [pdm vs poetry](https://www.reddit.com/r/Python/comments/117woh3/pdm_vs_poetry/)
 - [REaLTabFormer: Generating realistic synthetic data using GPT in Python](https://www.reddit.com/r/Python/comments/117vtkx/realtabformer_generating_realistic_synthetic_data/)
-- [Semantic search for Wikipedia](https://www.reddit.com/r/Python/comments/117r0iq/semantic_search_for_wikipedia/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/117ospx/tuesday_daily_thread_advanced_questions/)
-- [32 Open Source Libraries for Python&#39;s 32nd Birthday](https://www.reddit.com/r/Python/comments/117kuq6/32_open_source_libraries_for_pythons_32nd_birthday/)
-- [pip install replbuilder: A simple tool for building python based repl clients.](https://www.reddit.com/r/Python/comments/117kfmy/pip_install_replbuilder_a_simple_tool_for/)
 <!-- BLOG-POST-LIST:END -->
