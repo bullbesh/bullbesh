@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are some common challenges in scaling machine learning systems?](https://www.reddit.com/r/Python/comments/118c3de/what_are_some_common_challenges_in_scaling/)
+- [[D] Python-Based virtual assistant capable of calling APIs](https://www.reddit.com/r/Python/comments/118bf6g/d_pythonbased_virtual_assistant_capable_of/)
+- [WebApp that creates an ASCII ART of an image.](https://www.reddit.com/r/Python/comments/118bdhf/webapp_that_creates_an_ascii_art_of_an_image/)
+- [Passing HTML tags to api](https://www.reddit.com/r/Python/comments/118ason/passing_html_tags_to_api/)
 - [In what ways if you know just python can earn you money and what other skill can you learn to complement python and open more doors for you?](https://www.reddit.com/r/Python/comments/118a7wt/in_what_ways_if_you_know_just_python_can_earn_you/)
-- [Python’s List Comprehensions](https://www.reddit.com/r/Python/comments/118a2hu/pythons_list_comprehensions/)
-- [This video has n views - youtube api tutorial](https://www.reddit.com/r/Python/comments/1189bkb/this_video_has_n_views_youtube_api_tutorial/)
-- [A Virtual Machine Written in C &amp; Python.](https://www.reddit.com/r/Python/comments/11873ee/a_virtual_machine_written_in_c_python/)
-- [Python turned 32 years old yesterday!](https://www.reddit.com/r/Python/comments/1185i69/python_turned_32_years_old_yesterday/)
 <!-- BLOG-POST-LIST:END -->
