@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [In what ways if you know just python can earn you money and what other skill can you learn to complement python and open more doors for you?](https://www.reddit.com/r/Python/comments/118a7wt/in_what_ways_if_you_know_just_python_can_earn_you/)
+- [Python’s List Comprehensions](https://www.reddit.com/r/Python/comments/118a2hu/pythons_list_comprehensions/)
+- [This video has n views - youtube api tutorial](https://www.reddit.com/r/Python/comments/1189bkb/this_video_has_n_views_youtube_api_tutorial/)
 - [A Virtual Machine Written in C &amp; Python.](https://www.reddit.com/r/Python/comments/11873ee/a_virtual_machine_written_in_c_python/)
 - [Python turned 32 years old yesterday!](https://www.reddit.com/r/Python/comments/1185i69/python_turned_32_years_old_yesterday/)
-- [👉 New Awesome Polars release! 🚀 What&#39;s new in #Polars? Let&#39;s find out!](https://www.reddit.com/r/Python/comments/11855fp/new_awesome_polars_release_whats_new_in_polars/)
-- [I made a derivative calculator using Python!](https://www.reddit.com/r/Python/comments/1184ijg/i_made_a_derivative_calculator_using_python/)
-- [Develop Data Visualization Interfaces in Python With Dash – Real Python](https://www.reddit.com/r/Python/comments/11849gz/develop_data_visualization_interfaces_in_python/)
 <!-- BLOG-POST-LIST:END -->
