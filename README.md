@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Virtual Machine Written in C &amp; Python.](https://www.reddit.com/r/Python/comments/11873ee/a_virtual_machine_written_in_c_python/)
 - [Python turned 32 years old yesterday!](https://www.reddit.com/r/Python/comments/1185i69/python_turned_32_years_old_yesterday/)
 - [👉 New Awesome Polars release! 🚀 What&#39;s new in #Polars? Let&#39;s find out!](https://www.reddit.com/r/Python/comments/11855fp/new_awesome_polars_release_whats_new_in_polars/)
 - [I made a derivative calculator using Python!](https://www.reddit.com/r/Python/comments/1184ijg/i_made_a_derivative_calculator_using_python/)
 - [Develop Data Visualization Interfaces in Python With Dash – Real Python](https://www.reddit.com/r/Python/comments/11849gz/develop_data_visualization_interfaces_in_python/)
-- [Implementing differentiation in Python using ChatGPT](https://www.reddit.com/r/Python/comments/1183fhh/implementing_differentiation_in_python_using/)
 <!-- BLOG-POST-LIST:END -->
