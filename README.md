@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Semantic search for Wikipedia](https://www.reddit.com/r/Python/comments/1183d3r/semantic_search_for_wikipedia/)
 - [Tips &amp; Tricks for dealing with json](https://www.reddit.com/r/Python/comments/1182ebd/tips_tricks_for_dealing_with_json/)
 - [Useful libraries for integration/api testing](https://www.reddit.com/r/Python/comments/11829q9/useful_libraries_for_integrationapi_testing/)
 - [I learned how to use spritesheets and play animations properly.](https://www.reddit.com/r/Python/comments/1180zsa/i_learned_how_to_use_spritesheets_and_play/)
 - [My project creates synthetic data to analyze transactions](https://www.reddit.com/r/Python/comments/117yiru/my_project_creates_synthetic_data_to_analyze/)
-- [&lpar;GUIDE&rpar; How to get GPU support for tensorflow on ubuntu 22.04](https://www.reddit.com/r/Python/comments/117xf0z/guide_how_to_get_gpu_support_for_tensorflow_on/)
 <!-- BLOG-POST-LIST:END -->
