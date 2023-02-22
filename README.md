@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [best way to create a grid in Python](https://www.reddit.com/r/Python/comments/118phqv/best_way_to_create_a_grid_in_python/)
+- [error in urllib.request in python](https://www.reddit.com/r/Python/comments/118p5hm/error_in_urllibrequest_in_python/)
+- [The Power of Research in Software Engineering: Why Every Developer Should Make It a Priority](https://www.reddit.com/r/Python/comments/118oxd3/the_power_of_research_in_software_engineering_why/)
 - [Bot to participate in giveaways by using cookies on SteamGift [more information on the repository]](https://www.reddit.com/r/Python/comments/118onko/bot_to_participate_in_giveaways_by_using_cookies/)
 - [Seeking advice on how to incorporate python into cybersecurity?](https://www.reddit.com/r/Python/comments/118omwj/seeking_advice_on_how_to_incorporate_python_into/)
-- [quickindex, a simple way to index python lists](https://www.reddit.com/r/Python/comments/118jlrl/quickindex_a_simple_way_to_index_python_lists/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/118ja2e/wednesday_daily_thread_beginner_questions/)
-- [Finished Automate the Boring Stuff with Python](https://www.reddit.com/r/Python/comments/118gw2q/finished_automate_the_boring_stuff_with_python/)
 <!-- BLOG-POST-LIST:END -->
