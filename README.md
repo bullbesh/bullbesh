@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SEO Rank API](https://www.reddit.com/r/Python/comments/11968nb/seo_rank_api/)
+- [I wrote a script to improve my typing speed by recommending shortcuts from my AutoHotKey script, it also creates and add new shortcuts if a word is used frequently enough.](https://www.reddit.com/r/Python/comments/1195shk/i_wrote_a_script_to_improve_my_typing_speed_by/)
 - [QualityScaler &amp; RealScaler 11.0 | image/video AI upscaler apps](https://www.reddit.com/r/Python/comments/1194qsk/qualityscaler_realscaler_110_imagevideo_ai/)
 - [Users of pre-commit, do you install it globally or per project?](https://www.reddit.com/r/Python/comments/1194pea/users_of_precommit_do_you_install_it_globally_or/)
-- [New Book - Drawing Data with Kids](https://www.reddit.com/r/Python/comments/1194fi5/new_book_drawing_data_with_kids/)
-- [Feeling ashamed of my lack of knowledge as a solo python developer &lpar;2y&rpar;](https://www.reddit.com/r/Python/comments/1193rms/feeling_ashamed_of_my_lack_of_knowledge_as_a_solo/)
-- [Looking for a migrator script or tool to move my all collections &lpar;with each items&rpar; to different accounts?](https://www.reddit.com/r/Python/comments/1192qnx/looking_for_a_migrator_script_or_tool_to_move_my/)
+- [[Update] Super Protocol Python Competition. Build an ML Solution](https://www.reddit.com/r/Python/comments/118z6zg/update_super_protocol_python_competition_build_an/)
 <!-- BLOG-POST-LIST:END -->
