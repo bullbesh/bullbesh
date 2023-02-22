@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [SEO Rank API](https://www.reddit.com/r/Python/comments/11968nb/seo_rank_api/)
+- [Book or web book recommendation request: a data visualization cookbook using Python for scientists.](https://www.reddit.com/r/Python/comments/1197mc4/book_or_web_book_recommendation_request_a_data/)
 - [I wrote a script to improve my typing speed by recommending shortcuts from my AutoHotKey script, it also creates and add new shortcuts if a word is used frequently enough.](https://www.reddit.com/r/Python/comments/1195shk/i_wrote_a_script_to_improve_my_typing_speed_by/)
 - [QualityScaler &amp; RealScaler 11.0 | image/video AI upscaler apps](https://www.reddit.com/r/Python/comments/1194qsk/qualityscaler_realscaler_110_imagevideo_ai/)
 - [Users of pre-commit, do you install it globally or per project?](https://www.reddit.com/r/Python/comments/1194pea/users_of_precommit_do_you_install_it_globally_or/)
