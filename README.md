@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MACHINE LEARNING FOR TRADING](https://www.reddit.com/r/Python/comments/119gx2q/machine_learning_for_trading/)
+- [What are this files inside anaconda inside protego](https://www.reddit.com/r/Python/comments/119g54z/what_are_this_files_inside_anaconda_inside_protego/)
 - [Spacesay - Inspired by cowsay but with space and the ISS](https://www.reddit.com/r/Python/comments/119b2sf/spacesay_inspired_by_cowsay_but_with_space_and/)
 - [static-sox: Easily deploy Sox &lpar;audio manipulation&rpar; binaries for Mac/Win/Ubuntu](https://www.reddit.com/r/Python/comments/119b1an/staticsox_easily_deploy_sox_audio_manipulation/)
 - [[WIP] drag’n drop GUI builder in VS Code](https://www.reddit.com/r/Python/comments/1199yxn/wip_dragn_drop_gui_builder_in_vs_code/)
-- [When Black Formatting Goes Wrong](https://www.reddit.com/r/Python/comments/1199q3l/when_black_formatting_goes_wrong/)
-- [Book or web book recommendation request: a data visualization cookbook using Python for scientists.](https://www.reddit.com/r/Python/comments/1197mc4/book_or_web_book_recommendation_request_a_data/)
 <!-- BLOG-POST-LIST:END -->
