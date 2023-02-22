@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hi guys, i’ve create a new api to check the SEO metric data on a domain such as PA, DA, Mozrank and etc. Please check the details in here https://rapidapi.com/masitingss/api/seo-rank-checker](https://www.reddit.com/r/Python/comments/1190md6/hi_guys_ive_create_a_new_api_to_check_the_seo/)
+- [Feeling ashamed of my lack of knowledge as a solo python developer &lpar;2y&rpar;](https://www.reddit.com/r/Python/comments/1193rms/feeling_ashamed_of_my_lack_of_knowledge_as_a_solo/)
+- [Looking for a migrator script or tool to move my all collections &lpar;with each items&rpar; to different accounts?](https://www.reddit.com/r/Python/comments/1192qnx/looking_for_a_migrator_script_or_tool_to_move_my/)
 - [New addition to Awesome Polars list by Shipyard!](https://www.reddit.com/r/Python/comments/118zxt6/new_addition_to_awesome_polars_list_by_shipyard/)
 - [[Update] Super Protocol Python Competition. Build an ML Solution](https://www.reddit.com/r/Python/comments/118z6zg/update_super_protocol_python_competition_build_an/)
 - [Spent Months Writing A Web Dev Course For A Platform, But It Got Canceled Midway. Publishing It Free For The Community.](https://www.reddit.com/r/Python/comments/118ynyy/spent_months_writing_a_web_dev_course_for_a/)
-- [Short and neat Python interfaces and APIs](https://www.reddit.com/r/Python/comments/118upit/short_and_neat_python_interfaces_and_apis/)
 <!-- BLOG-POST-LIST:END -->
