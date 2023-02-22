@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PythonRP - Creating custom rich presences with Python &amp; Pypresence.](https://www.reddit.com/r/Python/comments/118qtzi/pythonrp_creating_custom_rich_presences_with/)
+- [Bot for participating in cookie-based raffles on SteamGift](https://www.reddit.com/r/Python/comments/118pz2b/bot_for_participating_in_cookiebased_raffles_on/)
 - [best way to create a grid in Python](https://www.reddit.com/r/Python/comments/118phqv/best_way_to_create_a_grid_in_python/)
 - [error in urllib.request in python](https://www.reddit.com/r/Python/comments/118p5hm/error_in_urllibrequest_in_python/)
 - [The Power of Research in Software Engineering: Why Every Developer Should Make It a Priority](https://www.reddit.com/r/Python/comments/118oxd3/the_power_of_research_in_software_engineering_why/)
-- [Bot to participate in giveaways by using cookies on SteamGift [more information on the repository]](https://www.reddit.com/r/Python/comments/118onko/bot_to_participate_in_giveaways_by_using_cookies/)
-- [Seeking advice on how to incorporate python into cybersecurity?](https://www.reddit.com/r/Python/comments/118omwj/seeking_advice_on_how_to_incorporate_python_into/)
 <!-- BLOG-POST-LIST:END -->
