@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spacesay - Inspired by cowsay but with space and the ISS](https://www.reddit.com/r/Python/comments/119b2sf/spacesay_inspired_by_cowsay_but_with_space_and/)
+- [static-sox: Easily deploy Sox &lpar;audio manipulation&rpar; binaries for Mac/Win/Ubuntu](https://www.reddit.com/r/Python/comments/119b1an/staticsox_easily_deploy_sox_audio_manipulation/)
+- [[WIP] drag’n drop GUI builder in VS Code](https://www.reddit.com/r/Python/comments/1199yxn/wip_dragn_drop_gui_builder_in_vs_code/)
+- [When Black Formatting Goes Wrong](https://www.reddit.com/r/Python/comments/1199q3l/when_black_formatting_goes_wrong/)
 - [Book or web book recommendation request: a data visualization cookbook using Python for scientists.](https://www.reddit.com/r/Python/comments/1197mc4/book_or_web_book_recommendation_request_a_data/)
-- [I wrote a script to improve my typing speed by recommending shortcuts from my AutoHotKey script, it also creates and add new shortcuts if a word is used frequently enough.](https://www.reddit.com/r/Python/comments/1195shk/i_wrote_a_script_to_improve_my_typing_speed_by/)
-- [QualityScaler &amp; RealScaler 11.0 | image/video AI upscaler apps](https://www.reddit.com/r/Python/comments/1194qsk/qualityscaler_realscaler_110_imagevideo_ai/)
-- [Users of pre-commit, do you install it globally or per project?](https://www.reddit.com/r/Python/comments/1194pea/users_of_precommit_do_you_install_it_globally_or/)
-- [[Update] Super Protocol Python Competition. Build an ML Solution](https://www.reddit.com/r/Python/comments/118z6zg/update_super_protocol_python_competition_build_an/)
 <!-- BLOG-POST-LIST:END -->
