@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bot to participate in giveaways by using cookies on SteamGift [more information on the repository]](https://www.reddit.com/r/Python/comments/118onko/bot_to_participate_in_giveaways_by_using_cookies/)
+- [Seeking advice on how to incorporate python into cybersecurity?](https://www.reddit.com/r/Python/comments/118omwj/seeking_advice_on_how_to_incorporate_python_into/)
 - [quickindex, a simple way to index python lists](https://www.reddit.com/r/Python/comments/118jlrl/quickindex_a_simple_way_to_index_python_lists/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/118ja2e/wednesday_daily_thread_beginner_questions/)
 - [Finished Automate the Boring Stuff with Python](https://www.reddit.com/r/Python/comments/118gw2q/finished_automate_the_boring_stuff_with_python/)
-- [Crypt Keeper - New Tool I wrote. Feedback welcome.](https://www.reddit.com/r/Python/comments/118es48/crypt_keeper_new_tool_i_wrote_feedback_welcome/)
-- [I made a dog morse code language](https://www.reddit.com/r/Python/comments/118df1f/i_made_a_dog_morse_code_language/)
 <!-- BLOG-POST-LIST:END -->
