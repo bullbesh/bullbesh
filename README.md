@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Has there ever been an instance in the past where a rejected PEP was eventually accepted?](https://www.reddit.com/r/Python/comments/11a74tl/has_there_ever_been_an_instance_in_the_past_where/)
-- [Best websites to give me tasks?](https://www.reddit.com/r/Python/comments/11a6hto/best_websites_to_give_me_tasks/)
-- [Structured and Opinionated FastAPI Boilerplate](https://www.reddit.com/r/Python/comments/11a68p8/structured_and_opinionated_fastapi_boilerplate/)
-- [Build dbt Python models in Snowflake, Datatricks, and BigQuery](https://www.reddit.com/r/Python/comments/11a44gw/build_dbt_python_models_in_snowflake_datatricks/)
-- [Natural Python is an LLM REPL which is an intermediary between you &lpar;who speaks in natural language&rpar; and the computer &lpar;who speaks Python&rpar;.](https://www.reddit.com/r/Python/comments/11a2piq/natural_python_is_an_llm_repl_which_is_an/)
+- [Why unit test flask app?](https://www.reddit.com/r/Python/comments/11a8w4s/why_unit_test_flask_app/)
+- [How to create music With python](https://www.reddit.com/r/Python/comments/11a8hdx/how_to_create_music_with_python/)
+- [My new mini-library: methodic_cache](https://www.reddit.com/r/Python/comments/11a8fyt/my_new_minilibrary_methodic_cache/)
+- [Create Access Control in Your Flask Application using Flask-login &amp; Permify](https://www.reddit.com/r/Python/comments/11a8fx2/create_access_control_in_your_flask_application/)
+- [A quick guide to using mamba-forge for python virtual environment management](https://www.reddit.com/r/Python/comments/11a7nur/a_quick_guide_to_using_mambaforge_for_python/)
 <!-- BLOG-POST-LIST:END -->
