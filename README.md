@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Appending to an empty list vs creating a new Pandas column](https://www.reddit.com/r/Python/comments/11a0owx/appending_to_an_empty_list_vs_creating_a_new/)
+- [I made a Mario-like Platformer game using the Pygame framework](https://www.reddit.com/r/Python/comments/11a0m77/i_made_a_mariolike_platformer_game_using_the/)
 - [If you are interested in APIs, this article is for you. I demystify the legend of creating an API using Django Rest Framework.](https://www.reddit.com/r/Python/comments/119ym8p/if_you_are_interested_in_apis_this_article_is_for/)
 - [Intermediate Python Devs to Workshop Textbook](https://www.reddit.com/r/Python/comments/119xx2w/intermediate_python_devs_to_workshop_textbook/)
 - [The Python for Absolute Beginners Bootcamp](https://www.reddit.com/r/Python/comments/119xqx6/the_python_for_absolute_beginners_bootcamp/)
-- [Elixir for Humans Who Know Python](https://www.reddit.com/r/Python/comments/119xok7/elixir_for_humans_who_know_python/)
-- [Bash vs. Python: For Modern Shell Scripting](https://www.reddit.com/r/Python/comments/119x3dx/bash_vs_python_for_modern_shell_scripting/)
 <!-- BLOG-POST-LIST:END -->
