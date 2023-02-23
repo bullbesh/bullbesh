@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Roadmpa to become a Python backend developer](https://www.reddit.com/r/Python/comments/119nnnk/roadmpa_to_become_a_python_backend_developer/)
 - [Requesting a Python script/game &lpar;text-adventure&rpar; if anyone has bothered to make a decent one that utilizes GPT3](https://www.reddit.com/r/Python/comments/119muai/requesting_a_python_scriptgame_textadventure_if/)
 - [How different is type-casting to type conversion by functions?](https://www.reddit.com/r/Python/comments/119med4/how_different_is_typecasting_to_type_conversion/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/119ichh/thursday_daily_thread_python_careers_courses_and/)
 - [Dis This: Disassemble Python code online](https://www.reddit.com/r/Python/comments/119i4dm/dis_this_disassemble_python_code_online/)
-- [Managing Python dependency versions for web projects](https://www.reddit.com/r/Python/comments/119i3ok/managing_python_dependency_versions_for_web/)
 <!-- BLOG-POST-LIST:END -->
