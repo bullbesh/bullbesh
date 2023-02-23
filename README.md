@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL LOGIN INJECTION PYTHON](https://www.reddit.com/r/Python/comments/11abm5b/sql_login_injection_python/)
+- [🐍 5 Awesome Tools For Python Engineers EP 2](https://www.reddit.com/r/Python/comments/11ab4vz/5_awesome_tools_for_python_engineers_ep_2/)
 - [Why unit test flask app?](https://www.reddit.com/r/Python/comments/11a8w4s/why_unit_test_flask_app/)
 - [How to create music With python](https://www.reddit.com/r/Python/comments/11a8hdx/how_to_create_music_with_python/)
 - [My new mini-library: methodic_cache](https://www.reddit.com/r/Python/comments/11a8fyt/my_new_minilibrary_methodic_cache/)
-- [Create Access Control in Your Flask Application using Flask-login &amp; Permify](https://www.reddit.com/r/Python/comments/11a8fx2/create_access_control_in_your_flask_application/)
-- [A quick guide to using mamba-forge for python virtual environment management](https://www.reddit.com/r/Python/comments/11a7nur/a_quick_guide_to_using_mambaforge_for_python/)
 <!-- BLOG-POST-LIST:END -->
