@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [MACHINE LEARNING FOR TRADING](https://www.reddit.com/r/Python/comments/119gx2q/machine_learning_for_trading/)
-- [What are this files inside anaconda inside protego](https://www.reddit.com/r/Python/comments/119g54z/what_are_this_files_inside_anaconda_inside_protego/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/119ichh/thursday_daily_thread_python_careers_courses_and/)
+- [Dis This: Disassemble Python code online](https://www.reddit.com/r/Python/comments/119i4dm/dis_this_disassemble_python_code_online/)
+- [Managing Python dependency versions for web projects](https://www.reddit.com/r/Python/comments/119i3ok/managing_python_dependency_versions_for_web/)
+- [I made a subreddit where a bot posts chess openings every 8 hours](https://www.reddit.com/r/Python/comments/119ht5z/i_made_a_subreddit_where_a_bot_posts_chess/)
 - [Spacesay - Inspired by cowsay but with space and the ISS](https://www.reddit.com/r/Python/comments/119b2sf/spacesay_inspired_by_cowsay_but_with_space_and/)
-- [static-sox: Easily deploy Sox &lpar;audio manipulation&rpar; binaries for Mac/Win/Ubuntu](https://www.reddit.com/r/Python/comments/119b1an/staticsox_easily_deploy_sox_audio_manipulation/)
-- [[WIP] drag’n drop GUI builder in VS Code](https://www.reddit.com/r/Python/comments/1199yxn/wip_dragn_drop_gui_builder_in_vs_code/)
 <!-- BLOG-POST-LIST:END -->
