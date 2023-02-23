@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Python for Absolute Beginners Bootcamp](https://www.reddit.com/r/Python/comments/119xqx6/the_python_for_absolute_beginners_bootcamp/)
+- [Elixir for Humans Who Know Python](https://www.reddit.com/r/Python/comments/119xok7/elixir_for_humans_who_know_python/)
+- [Bash vs. Python: For Modern Shell Scripting](https://www.reddit.com/r/Python/comments/119x3dx/bash_vs_python_for_modern_shell_scripting/)
 - [The Terminal: First Steps and Useful Commands](https://www.reddit.com/r/Python/comments/119vmnu/the_terminal_first_steps_and_useful_commands/)
 - [bee a pro in python](https://www.reddit.com/r/Python/comments/119v1ls/bee_a_pro_in_python/)
-- [Divide and Conquer: Fibonacci Search | Programming Algorithm](https://www.reddit.com/r/Python/comments/119u5w4/divide_and_conquer_fibonacci_search_programming/)
-- [Why are Unit Test important?](https://www.reddit.com/r/Python/comments/119txri/why_are_unit_test_important/)
-- [Superpower Your Classes Using Super&lpar;&rpar; In Python](https://www.reddit.com/r/Python/comments/119t35i/superpower_your_classes_using_super_in_python/)
 <!-- BLOG-POST-LIST:END -->
