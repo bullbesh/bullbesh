@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m making another Mario-like Platformer Game using Pygame](https://www.reddit.com/r/Python/comments/119ypx1/im_making_another_mariolike_platformer_game_using/)
 - [If you are interested in APIs, this article is for you. I demystify the legend of creating an API using Django Rest Framework.](https://www.reddit.com/r/Python/comments/119ym8p/if_you_are_interested_in_apis_this_article_is_for/)
-- [Heat map of Twitter mentions of &quot;Rihanna&quot; and &quot;Riri&quot; before and after the Super Bowl](https://www.reddit.com/r/Python/comments/119y2ik/heat_map_of_twitter_mentions_of_rihanna_and_riri/)
 - [Intermediate Python Devs to Workshop Textbook](https://www.reddit.com/r/Python/comments/119xx2w/intermediate_python_devs_to_workshop_textbook/)
 - [The Python for Absolute Beginners Bootcamp](https://www.reddit.com/r/Python/comments/119xqx6/the_python_for_absolute_beginners_bootcamp/)
+- [Elixir for Humans Who Know Python](https://www.reddit.com/r/Python/comments/119xok7/elixir_for_humans_who_know_python/)
+- [Bash vs. Python: For Modern Shell Scripting](https://www.reddit.com/r/Python/comments/119x3dx/bash_vs_python_for_modern_shell_scripting/)
 <!-- BLOG-POST-LIST:END -->
