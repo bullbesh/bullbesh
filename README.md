@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [newbie: after activating venv what subdirectory do I actually start coding in?](https://www.reddit.com/r/Python/comments/11a5wkm/newbie_after_activating_venv_what_subdirectory_do/)
+- [Has there ever been an instance in the past where a rejected PEP was eventually accepted?](https://www.reddit.com/r/Python/comments/11a74tl/has_there_ever_been_an_instance_in_the_past_where/)
+- [Best websites to give me tasks?](https://www.reddit.com/r/Python/comments/11a6hto/best_websites_to_give_me_tasks/)
+- [Structured and Opinionated FastAPI Boilerplate](https://www.reddit.com/r/Python/comments/11a68p8/structured_and_opinionated_fastapi_boilerplate/)
 - [Build dbt Python models in Snowflake, Datatricks, and BigQuery](https://www.reddit.com/r/Python/comments/11a44gw/build_dbt_python_models_in_snowflake_datatricks/)
-- [Is it possible to create a computer activity tracker in order to see what you spend your time the most when on your computer with python?](https://www.reddit.com/r/Python/comments/11a2tdk/is_it_possible_to_create_a_computer_activity/)
 - [Natural Python is an LLM REPL which is an intermediary between you &lpar;who speaks in natural language&rpar; and the computer &lpar;who speaks Python&rpar;.](https://www.reddit.com/r/Python/comments/11a2piq/natural_python_is_an_llm_repl_which_is_an/)
-- [Appending to an empty list vs creating a new Pandas column](https://www.reddit.com/r/Python/comments/11a0owx/appending_to_an_empty_list_vs_creating_a_new/)
 <!-- BLOG-POST-LIST:END -->
