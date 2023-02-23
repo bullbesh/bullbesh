@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Superpower Your Classes Using Super&lpar;&rpar; In Python](https://www.reddit.com/r/Python/comments/119t35i/superpower_your_classes_using_super_in_python/)
+- [Guitar chord generator using Python](https://www.reddit.com/r/Python/comments/119sybf/guitar_chord_generator_using_python/)
 - [Doggy64, Encode arbitrary data into dog sounds, instead of boring Base64](https://www.reddit.com/r/Python/comments/119r10f/doggy64_encode_arbitrary_data_into_dog_sounds/)
 - [Projects you&#39;ve done](https://www.reddit.com/r/Python/comments/119qhib/projects_youve_done/)
 - [How can I get out of the tutorial loop?](https://www.reddit.com/r/Python/comments/119q1km/how_can_i_get_out_of_the_tutorial_loop/)
-- [Is this possible?](https://www.reddit.com/r/Python/comments/119py81/is_this_possible/)
-- [SimplePyBLE v0.6.0 - Cross-platform Bluetooth library for Python](https://www.reddit.com/r/Python/comments/119phnv/simplepyble_v060_crossplatform_bluetooth_library/)
 <!-- BLOG-POST-LIST:END -->
