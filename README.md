@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Projects you&#39;ve done](https://www.reddit.com/r/Python/comments/119qhib/projects_youve_done/)
+- [How can I get out of the tutorial loop?](https://www.reddit.com/r/Python/comments/119q1km/how_can_i_get_out_of_the_tutorial_loop/)
+- [Is this possible?](https://www.reddit.com/r/Python/comments/119py81/is_this_possible/)
+- [SimplePyBLE v0.6.0 - Cross-platform Bluetooth library for Python](https://www.reddit.com/r/Python/comments/119phnv/simplepyble_v060_crossplatform_bluetooth_library/)
 - [Roadmpa to become a Python backend developer](https://www.reddit.com/r/Python/comments/119nnnk/roadmpa_to_become_a_python_backend_developer/)
-- [Requesting a Python script/game &lpar;text-adventure&rpar; if anyone has bothered to make a decent one that utilizes GPT3](https://www.reddit.com/r/Python/comments/119muai/requesting_a_python_scriptgame_textadventure_if/)
-- [How different is type-casting to type conversion by functions?](https://www.reddit.com/r/Python/comments/119med4/how_different_is_typecasting_to_type_conversion/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/119ichh/thursday_daily_thread_python_careers_courses_and/)
-- [Dis This: Disassemble Python code online](https://www.reddit.com/r/Python/comments/119i4dm/dis_this_disassemble_python_code_online/)
 <!-- BLOG-POST-LIST:END -->
