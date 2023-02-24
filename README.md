@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Xorbits 0.2.0 is now available 🚀](https://www.reddit.com/r/Python/comments/11agesy/xorbits_020_is_now_available/)
+- [Do you use any kind of mind-mapping software to diagram the inputs and outputs of your programs?](https://www.reddit.com/r/Python/comments/11af7za/do_you_use_any_kind_of_mindmapping_software_to/)
 - [520 Malware Packages Published to PyPI in Ongoing Attack](https://www.reddit.com/r/Python/comments/11aempp/520_malware_packages_published_to_pypi_in_ongoing/)
 - [Creating A Boat In Block Scripting and Python](https://www.reddit.com/r/Python/comments/11adued/creating_a_boat_in_block_scripting_and_python/)
 - [SQL LOGIN INJECTION PYTHON](https://www.reddit.com/r/Python/comments/11abm5b/sql_login_injection_python/)
-- [🐍 5 Awesome Tools For Python Engineers EP 2](https://www.reddit.com/r/Python/comments/11ab4vz/5_awesome_tools_for_python_engineers_ep_2/)
-- [Why unit test flask app?](https://www.reddit.com/r/Python/comments/11a8w4s/why_unit_test_flask_app/)
 <!-- BLOG-POST-LIST:END -->
