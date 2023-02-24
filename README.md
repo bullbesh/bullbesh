@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unix bash scripting versus Python - any resources out there for comparisons?](https://www.reddit.com/r/Python/comments/11az60u/unix_bash_scripting_versus_python_any_resources/)
+- [What&#39;s the best async alternative to Celery?](https://www.reddit.com/r/Python/comments/11az1wc/whats_the_best_async_alternative_to_celery/)
+- [Creating A Circle Spirograph In Block Scripting and Python](https://www.reddit.com/r/Python/comments/11ayou5/creating_a_circle_spirograph_in_block_scripting/)
 - [How to strangle old code using Python decorators](https://www.reddit.com/r/Python/comments/11awbc8/how_to_strangle_old_code_using_python_decorators/)
-- [Best distributed scheduler/executor framework?](https://www.reddit.com/r/Python/comments/11avbwe/best_distributed_schedulerexecutor_framework/)
-- [Which framework/library/tech should I use for my project?](https://www.reddit.com/r/Python/comments/11au99y/which_frameworklibrarytech_should_i_use_for_my/)
 - [From Web Developer to Ethical Hacker: Why I Wrote “Ethical Hacking with Python: A Practical Approach”](https://www.reddit.com/r/Python/comments/11au4ri/from_web_developer_to_ethical_hacker_why_i_wrote/)
-- [Uniswap Universal Router Codec in Python](https://www.reddit.com/r/Python/comments/11atci9/uniswap_universal_router_codec_in_python/)
 <!-- BLOG-POST-LIST:END -->
