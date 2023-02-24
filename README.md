@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [stop using Beautifull soup and requests](https://www.reddit.com/r/Python/comments/11b54as/stop_using_beautifull_soup_and_requests/)
+- [Structural Pattern Matching in Python I](https://www.reddit.com/r/Python/comments/11b44y6/structural_pattern_matching_in_python_i/)
 - [Resuming work on a stale project](https://www.reddit.com/r/Python/comments/11b12pc/resuming_work_on_a_stale_project/)
 - [Unix bash scripting versus Python - any resources out there for comparisons?](https://www.reddit.com/r/Python/comments/11az60u/unix_bash_scripting_versus_python_any_resources/)
 - [What&#39;s the best async alternative to Celery?](https://www.reddit.com/r/Python/comments/11az1wc/whats_the_best_async_alternative_to_celery/)
-- [Creating A Circle Spirograph In Block Scripting and Python](https://www.reddit.com/r/Python/comments/11ayou5/creating_a_circle_spirograph_in_block_scripting/)
-- [How to strangle old code using Python decorators](https://www.reddit.com/r/Python/comments/11awbc8/how_to_strangle_old_code_using_python_decorators/)
 <!-- BLOG-POST-LIST:END -->
