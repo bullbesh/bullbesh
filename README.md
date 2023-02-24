@@ -12,5 +12,5 @@
 - [Best distributed scheduler/executor framework?](https://www.reddit.com/r/Python/comments/11avbwe/best_distributed_schedulerexecutor_framework/)
 - [Which framework/library/tech should I use for my project?](https://www.reddit.com/r/Python/comments/11au99y/which_frameworklibrarytech_should_i_use_for_my/)
 - [From Web Developer to Ethical Hacker: Why I Wrote “Ethical Hacking with Python: A Practical Approach”](https://www.reddit.com/r/Python/comments/11au4ri/from_web_developer_to_ethical_hacker_why_i_wrote/)
-- [TikTok-Uploader, a premade Selenium automation for uploading TikToks!](https://www.reddit.com/r/Python/comments/11atnhb/tiktokuploader_a_premade_selenium_automation_for/)
+- [Uniswap Universal Router Codec in Python](https://www.reddit.com/r/Python/comments/11atci9/uniswap_universal_router_codec_in_python/)
 <!-- BLOG-POST-LIST:END -->
