@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Open-sourced tool that helps developers understand code processes in minutes.](https://www.reddit.com/r/Python/comments/11avdpy/opensourced_tool_that_helps_developers_understand/)
+- [How to strangle old code using Python decorators](https://www.reddit.com/r/Python/comments/11awbc8/how_to_strangle_old_code_using_python_decorators/)
 - [Best distributed scheduler/executor framework?](https://www.reddit.com/r/Python/comments/11avbwe/best_distributed_schedulerexecutor_framework/)
 - [Which framework/library/tech should I use for my project?](https://www.reddit.com/r/Python/comments/11au99y/which_frameworklibrarytech_should_i_use_for_my/)
 - [From Web Developer to Ethical Hacker: Why I Wrote “Ethical Hacking with Python: A Practical Approach”](https://www.reddit.com/r/Python/comments/11au4ri/from_web_developer_to_ethical_hacker_why_i_wrote/)
