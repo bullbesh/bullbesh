@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Community Detection Algorithms With Python NetworkX](https://www.reddit.com/r/Python/comments/11aq8bt/understanding_community_detection_algorithms_with/)
+- [Getting Started with Home Automation and Python: A Beginner-Friendly Project](https://www.reddit.com/r/Python/comments/11aq44f/getting_started_with_home_automation_and_python_a/)
+- [How Sup-Res can help you make more informed trading decisions?](https://www.reddit.com/r/Python/comments/11apmm8/how_supres_can_help_you_make_more_informed/)
 - [For Python freelancers here, do you generate api keys for your clients or you ask your client to generate them and just instruct them to put where they need to be? I&#39;m thinking if I create the api key it will be tied up to my developer account and so I have to make sure it does not get deleted.](https://www.reddit.com/r/Python/comments/11ampqm/for_python_freelancers_here_do_you_generate_api/)
 - [Fundamental code organisation?](https://www.reddit.com/r/Python/comments/11am6ig/fundamental_code_organisation/)
-- [GitHub - RelationRx/pyrelational: pyrelational is a python active learning library for rapidly implementing active learning pipelines from data management, model development &lpar;and Bayesian approximation&rpar;, to creating novel active learning strategies.](https://www.reddit.com/r/Python/comments/11am3ys/github_relationrxpyrelational_pyrelational_is_a/)
-- [Core principles of readable code](https://www.reddit.com/r/Python/comments/11alop5/core_principles_of_readable_code/)
-- [Web App Generation Feature Added to Pyxel, a Retro Game Engine for Python](https://www.reddit.com/r/Python/comments/11ajwv3/web_app_generation_feature_added_to_pyxel_a_retro/)
 <!-- BLOG-POST-LIST:END -->
