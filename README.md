@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [520 Malware Packages Published to PyPI in Ongoing Attack](https://www.reddit.com/r/Python/comments/11aempp/520_malware_packages_published_to_pypi_in_ongoing/)
+- [Creating A Boat In Block Scripting and Python](https://www.reddit.com/r/Python/comments/11adued/creating_a_boat_in_block_scripting_and_python/)
 - [SQL LOGIN INJECTION PYTHON](https://www.reddit.com/r/Python/comments/11abm5b/sql_login_injection_python/)
 - [🐍 5 Awesome Tools For Python Engineers EP 2](https://www.reddit.com/r/Python/comments/11ab4vz/5_awesome_tools_for_python_engineers_ep_2/)
 - [Why unit test flask app?](https://www.reddit.com/r/Python/comments/11a8w4s/why_unit_test_flask_app/)
-- [How to create music With python](https://www.reddit.com/r/Python/comments/11a8hdx/how_to_create_music_with_python/)
-- [My new mini-library: methodic_cache](https://www.reddit.com/r/Python/comments/11a8fyt/my_new_minilibrary_methodic_cache/)
 <!-- BLOG-POST-LIST:END -->
