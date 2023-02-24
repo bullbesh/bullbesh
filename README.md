@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [TikTok-Uploader, a premade Selenium automation for uploading TikToks!](https://www.reddit.com/r/Python/comments/11atnhb/tiktokuploader_a_premade_selenium_automation_for/)
+- [Uniswap Universal Router Codec in Python](https://www.reddit.com/r/Python/comments/11atci9/uniswap_universal_router_codec_in_python/)
+- [What are the best online courses for python automation. I want to learn all about web scrapping - text parsing - automations - api integrations](https://www.reddit.com/r/Python/comments/11asfz2/what_are_the_best_online_courses_for_python/)
 - [Natural Language Analysis of NFL Prospects &lpar;2014-2022&rpar;](https://www.reddit.com/r/Python/comments/11arxdn/natural_language_analysis_of_nfl_prospects/)
 - [PyCon Namibia 2023](https://www.reddit.com/r/Python/comments/11ardl9/pycon_namibia_2023/)
-- [Serverless Private Network - &#39;My Intern Assignment - Call a Dark Webhook from AWS Lambda&#39;](https://www.reddit.com/r/Python/comments/11arc9i/serverless_private_network_my_intern_assignment/)
-- [Master Pattern Matching In Python 3.10](https://www.reddit.com/r/Python/comments/11aqxm7/master_pattern_matching_in_python_310/)
-- [Can’t import nltk](https://www.reddit.com/r/Python/comments/11aqvly/cant_import_nltk/)
 <!-- BLOG-POST-LIST:END -->
