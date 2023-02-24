@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Serverless Private Network - &#39;My Intern Assignment - Call a Dark Webhook from AWS Lambda&#39;](https://www.reddit.com/r/Python/comments/11arc9i/serverless_private_network_my_intern_assignment/)
+- [Master Pattern Matching In Python 3.10](https://www.reddit.com/r/Python/comments/11aqxm7/master_pattern_matching_in_python_310/)
+- [Can’t import nltk](https://www.reddit.com/r/Python/comments/11aqvly/cant_import_nltk/)
 - [Understanding Community Detection Algorithms With Python NetworkX](https://www.reddit.com/r/Python/comments/11aq8bt/understanding_community_detection_algorithms_with/)
 - [Getting Started with Home Automation and Python: A Beginner-Friendly Project](https://www.reddit.com/r/Python/comments/11aq44f/getting_started_with_home_automation_and_python_a/)
-- [How Sup-Res can help you make more informed trading decisions?](https://www.reddit.com/r/Python/comments/11apmm8/how_supres_can_help_you_make_more_informed/)
-- [For Python freelancers here, do you generate api keys for your clients or you ask your client to generate them and just instruct them to put where they need to be? I&#39;m thinking if I create the api key it will be tied up to my developer account and so I have to make sure it does not get deleted.](https://www.reddit.com/r/Python/comments/11ampqm/for_python_freelancers_here_do_you_generate_api/)
-- [Fundamental code organisation?](https://www.reddit.com/r/Python/comments/11am6ig/fundamental_code_organisation/)
 <!-- BLOG-POST-LIST:END -->
