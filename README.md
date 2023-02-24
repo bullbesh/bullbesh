@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fundamental code organisation?](https://www.reddit.com/r/Python/comments/11am6ig/fundamental_code_organisation/)
+- [GitHub - RelationRx/pyrelational: pyrelational is a python active learning library for rapidly implementing active learning pipelines from data management, model development &lpar;and Bayesian approximation&rpar;, to creating novel active learning strategies.](https://www.reddit.com/r/Python/comments/11am3ys/github_relationrxpyrelational_pyrelational_is_a/)
+- [Core principles of readable code](https://www.reddit.com/r/Python/comments/11alop5/core_principles_of_readable_code/)
 - [Web App Generation Feature Added to Pyxel, a Retro Game Engine for Python](https://www.reddit.com/r/Python/comments/11ajwv3/web_app_generation_feature_added_to_pyxel_a_retro/)
 - [replbuilder: Easily build your own repl CLI interface.](https://www.reddit.com/r/Python/comments/11aju75/replbuilder_easily_build_your_own_repl_cli/)
-- [GitHub - neuml/txtchat: 💭 Conversational search and workflows for all](https://www.reddit.com/r/Python/comments/11ahe5c/github_neumltxtchat_conversational_search_and/)
-- [I made a projectile motion simulator with Tkinter](https://www.reddit.com/r/Python/comments/11agy8n/i_made_a_projectile_motion_simulator_with_tkinter/)
-- [Xorbits 0.2.0 is now available 🚀](https://www.reddit.com/r/Python/comments/11agesy/xorbits_020_is_now_available/)
 <!-- BLOG-POST-LIST:END -->
