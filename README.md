@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Natural Language Analysis of NFL Prospects &lpar;2014-2022&rpar;](https://www.reddit.com/r/Python/comments/11arxdn/natural_language_analysis_of_nfl_prospects/)
+- [PyCon Namibia 2023](https://www.reddit.com/r/Python/comments/11ardl9/pycon_namibia_2023/)
 - [Serverless Private Network - &#39;My Intern Assignment - Call a Dark Webhook from AWS Lambda&#39;](https://www.reddit.com/r/Python/comments/11arc9i/serverless_private_network_my_intern_assignment/)
 - [Master Pattern Matching In Python 3.10](https://www.reddit.com/r/Python/comments/11aqxm7/master_pattern_matching_in_python_310/)
 - [Can’t import nltk](https://www.reddit.com/r/Python/comments/11aqvly/cant_import_nltk/)
-- [Understanding Community Detection Algorithms With Python NetworkX](https://www.reddit.com/r/Python/comments/11aq8bt/understanding_community_detection_algorithms_with/)
-- [Getting Started with Home Automation and Python: A Beginner-Friendly Project](https://www.reddit.com/r/Python/comments/11aq44f/getting_started_with_home_automation_and_python_a/)
 <!-- BLOG-POST-LIST:END -->
