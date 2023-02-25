@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [stop using Beautifull soup and requests](https://www.reddit.com/r/Python/comments/11b54as/stop_using_beautifull_soup_and_requests/)
-- [Structural Pattern Matching in Python I](https://www.reddit.com/r/Python/comments/11b44y6/structural_pattern_matching_in_python_i/)
-- [Resuming work on a stale project](https://www.reddit.com/r/Python/comments/11b12pc/resuming_work_on_a_stale_project/)
-- [Unix bash scripting versus Python - any resources out there for comparisons?](https://www.reddit.com/r/Python/comments/11az60u/unix_bash_scripting_versus_python_any_resources/)
-- [What&#39;s the best async alternative to Celery?](https://www.reddit.com/r/Python/comments/11az1wc/whats_the_best_async_alternative_to_celery/)
+- [Parallel computing using python](https://www.reddit.com/r/Python/comments/11b724q/parallel_computing_using_python/)
+- [Explaining Hash Tables in Python!](https://www.reddit.com/r/Python/comments/11b6btj/explaining_hash_tables_in_python/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/11b68pk/saturday_daily_thread_resource_request_and/)
+- [pytest fixture to help debugging &lpar;and asserting&rpar; database queries on django tests.](https://www.reddit.com/r/Python/comments/11b5rr0/pytest_fixture_to_help_debugging_and_asserting/)
+- [Finally done with my Python for Beginners Tutorial!](https://www.reddit.com/r/Python/comments/11b5ik0/finally_done_with_my_python_for_beginners_tutorial/)
 <!-- BLOG-POST-LIST:END -->
