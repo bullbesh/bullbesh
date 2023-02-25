@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Aura Text: Code Editor Made With Python and Tkinter](https://www.reddit.com/r/Python/comments/11bqz4n/aura_text_code_editor_made_with_python_and_tkinter/)
+- [Convert EPUB files to speech using Azure&#39;s Text-to-Speech with Python](https://www.reddit.com/r/Python/comments/11bqqty/convert_epub_files_to_speech_using_azures/)
 - [Python&#39;s future: Humans vs AI.](https://www.reddit.com/r/Python/comments/11bntyd/pythons_future_humans_vs_ai/)
 - [Ecommerce Website Part 2](https://www.reddit.com/r/Python/comments/11bm3x0/ecommerce_website_part_2/)
 - [Pydantic vs Protobuf vs Namedtuples vs Dataclasses](https://www.reddit.com/r/Python/comments/11bl6u5/pydantic_vs_protobuf_vs_namedtuples_vs_dataclasses/)
-- [Say Goodbye to Communication Chaos in Your Python App](https://www.reddit.com/r/Python/comments/11bgriq/say_goodbye_to_communication_chaos_in_your_python/)
-- [Textual 0.12.0 adds syntactical sugar and batch updates](https://www.reddit.com/r/Python/comments/11bge8p/textual_0120_adds_syntactical_sugar_and_batch/)
 <!-- BLOG-POST-LIST:END -->
