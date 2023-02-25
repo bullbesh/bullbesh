@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pydantic vs Protobuf vs Namedtuples vs Dataclasses](https://www.reddit.com/r/Python/comments/11bl6u5/pydantic_vs_protobuf_vs_namedtuples_vs_dataclasses/)
 - [Say Goodbye to Communication Chaos in Your Python App](https://www.reddit.com/r/Python/comments/11bgriq/say_goodbye_to_communication_chaos_in_your_python/)
 - [Textual 0.12.0 adds syntactical sugar and batch updates](https://www.reddit.com/r/Python/comments/11bge8p/textual_0120_adds_syntactical_sugar_and_batch/)
 - [scope of python with data science](https://www.reddit.com/r/Python/comments/11bg9ei/scope_of_python_with_data_science/)
 - [Dual ChatGPT Bots Talk to Two People with OpenAI API](https://www.reddit.com/r/Python/comments/11bfquo/dual_chatgpt_bots_talk_to_two_people_with_openai/)
-- [GitHub - EFavDB/inchwormrf: inchworm root finder - This package provides methods for finding roots of a function using only calls to the derivatives of the function, never the function itself](https://www.reddit.com/r/Python/comments/11beuuv/github_efavdbinchwormrf_inchworm_root_finder_this/)
 <!-- BLOG-POST-LIST:END -->
