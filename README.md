@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [VS code interactive mode](https://www.reddit.com/r/Python/comments/11b8snc/vs_code_interactive_mode/)
 - [Parallel computing using python](https://www.reddit.com/r/Python/comments/11b724q/parallel_computing_using_python/)
 - [Explaining Hash Tables in Python!](https://www.reddit.com/r/Python/comments/11b6btj/explaining_hash_tables_in_python/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/11b68pk/saturday_daily_thread_resource_request_and/)
 - [pytest fixture to help debugging &lpar;and asserting&rpar; database queries on django tests.](https://www.reddit.com/r/Python/comments/11b5rr0/pytest_fixture_to_help_debugging_and_asserting/)
-- [Finally done with my Python for Beginners Tutorial!](https://www.reddit.com/r/Python/comments/11b5ik0/finally_done_with_my_python_for_beginners_tutorial/)
 <!-- BLOG-POST-LIST:END -->
