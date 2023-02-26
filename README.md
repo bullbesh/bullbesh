@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - cdev-framework/cdev-sdk: Cdev Python SDK - Cdev provides a development environment and framework that allows python developers to easily create and deploy Serverless Applications on Amazon Web Services.](https://www.reddit.com/r/Python/comments/11cellh/github_cdevframeworkcdevsdk_cdev_python_sdk_cdev/)
 - [Starlite February Updates](https://www.reddit.com/r/Python/comments/11cdih0/starlite_february_updates/)
 - [Dependency Injection Configuration &lpar;Dicfg&rpar;](https://www.reddit.com/r/Python/comments/11cdggj/dependency_injection_configuration_dicfg/)
 - [Security Verification](https://www.reddit.com/r/Python/comments/11ccvu6/security_verification/)
 - [[Celery] PreconditionFailed issue and how RabbitMQ/AWS related to it](https://www.reddit.com/r/Python/comments/11cbta3/celery_preconditionfailed_issue_and_how/)
-- [how can this python code be optimsed more](https://www.reddit.com/r/Python/comments/11cbt5s/how_can_this_python_code_be_optimsed_more/)
 <!-- BLOG-POST-LIST:END -->
