@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built A Python Command Line Tool To Enhance My Browser Usage](https://www.reddit.com/r/Python/comments/11cvs39/how_i_built_a_python_command_line_tool_to_enhance/)
+- [PyCon US grants free booth space and conference passes to early-stage startups, and applications close Sunday at midnight Pacific Time](https://www.reddit.com/r/Python/comments/11cv65i/pycon_us_grants_free_booth_space_and_conference/)
 - [Web scraping from the terminal](https://www.reddit.com/r/Python/comments/11crk7n/web_scraping_from_the_terminal/)
 - [Building your own PC or Mac based real time data acquisition system using Python and Arduino](https://www.reddit.com/r/Python/comments/11cojhs/building_your_own_pc_or_mac_based_real_time_data/)
 - [A new implementation of a high-precision integrator algorithm for systems of second order differential equations](https://www.reddit.com/r/Python/comments/11coeve/a_new_implementation_of_a_highprecision/)
-- [type-driven development in Python](https://www.reddit.com/r/Python/comments/11co0k2/typedriven_development_in_python/)
-- [How To Create A Circle Pattern In Block Scripting and Python](https://www.reddit.com/r/Python/comments/11cmf8p/how_to_create_a_circle_pattern_in_block_scripting/)
 <!-- BLOG-POST-LIST:END -->
