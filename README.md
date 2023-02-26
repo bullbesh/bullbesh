@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there a way to automate writing unit tests?](https://www.reddit.com/r/Python/comments/11cgko1/is_there_a_way_to_automate_writing_unit_tests/)
+- [Python Garbage Collector and Highly Loaded Applications](https://www.reddit.com/r/Python/comments/11cggrl/python_garbage_collector_and_highly_loaded/)
+- [Chatgpt on &quot;Riffing on triplet sum to a target&quot;](https://www.reddit.com/r/Python/comments/11cg5ob/chatgpt_on_riffing_on_triplet_sum_to_a_target/)
 - [GitHub - cdev-framework/cdev-sdk: Cdev Python SDK - Cdev provides a development environment and framework that allows python developers to easily create and deploy Serverless Applications on Amazon Web Services.](https://www.reddit.com/r/Python/comments/11cellh/github_cdevframeworkcdevsdk_cdev_python_sdk_cdev/)
 - [Starlite February Updates](https://www.reddit.com/r/Python/comments/11cdih0/starlite_february_updates/)
-- [Dependency Injection Configuration &lpar;Dicfg&rpar;](https://www.reddit.com/r/Python/comments/11cdggj/dependency_injection_configuration_dicfg/)
-- [Security Verification](https://www.reddit.com/r/Python/comments/11ccvu6/security_verification/)
-- [[Celery] PreconditionFailed issue and how RabbitMQ/AWS related to it](https://www.reddit.com/r/Python/comments/11cbta3/celery_preconditionfailed_issue_and_how/)
 <!-- BLOG-POST-LIST:END -->
