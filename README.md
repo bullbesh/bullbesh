@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [O que eu tenho a ver com esta tal Inteligência Artificial? Devo aprender ou me preocupar?](https://www.reddit.com/r/Python/comments/11c25cj/o_que_eu_tenho_a_ver_com_esta_tal_inteligência/)
+- [Business Process Diagram as code](https://www.reddit.com/r/Python/comments/11c13xj/business_process_diagram_as_code/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/11bzuxb/sunday_daily_thread_whats_everyone_working_on/)
 - [Aura Text: Code Editor Made With Python and Tkinter](https://www.reddit.com/r/Python/comments/11bqz4n/aura_text_code_editor_made_with_python_and_tkinter/)
 - [Convert EPUB files to speech using Azure&#39;s Text-to-Speech with Python](https://www.reddit.com/r/Python/comments/11bqqty/convert_epub_files_to_speech_using_azures/)
-- [Python&#39;s future: Humans vs AI.](https://www.reddit.com/r/Python/comments/11bntyd/pythons_future_humans_vs_ai/)
-- [Ecommerce Website Part 2](https://www.reddit.com/r/Python/comments/11bm3x0/ecommerce_website_part_2/)
-- [Pydantic vs Protobuf vs Namedtuples vs Dataclasses](https://www.reddit.com/r/Python/comments/11bl6u5/pydantic_vs_protobuf_vs_namedtuples_vs_dataclasses/)
 <!-- BLOG-POST-LIST:END -->
