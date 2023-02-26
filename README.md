@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A new implementation of a high-precision integrator algorithm for systems of second order differential equations](https://www.reddit.com/r/Python/comments/11coeve/a_new_implementation_of_a_highprecision/)
+- [type-driven development in Python](https://www.reddit.com/r/Python/comments/11co0k2/typedriven_development_in_python/)
 - [How To Create A Circle Pattern In Block Scripting and Python](https://www.reddit.com/r/Python/comments/11cmf8p/how_to_create_a_circle_pattern_in_block_scripting/)
-- [Trading Bot Course with full code](https://www.reddit.com/r/Python/comments/11clk3j/trading_bot_course_with_full_code/)
-- [Lads, help me out please](https://www.reddit.com/r/Python/comments/11ck2og/lads_help_me_out_please/)
 - [Handwritten Notes on Python with Projects and Practice Exercises](https://www.reddit.com/r/Python/comments/11cjasn/handwritten_notes_on_python_with_projects_and/)
 - [How to install python 3.11.2 and use it in VS Code.](https://www.reddit.com/r/Python/comments/11ci5vo/how_to_install_python_3112_and_use_it_in_vs_code/)
 <!-- BLOG-POST-LIST:END -->
