@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to install python 3.11.2 and use it in VS Code.](https://www.reddit.com/r/Python/comments/11ci5vo/how_to_install_python_3112_and_use_it_in_vs_code/)
+- [How to install python 3.11.2 and use it in PyCharm.](https://www.reddit.com/r/Python/comments/11ci1uw/how_to_install_python_3112_and_use_it_in_pycharm/)
+- [Theine 0.3.0 release, 5x faster than cachetools/cacheout](https://www.reddit.com/r/Python/comments/11chrq3/theine_030_release_5x_faster_than/)
+- [Cython 3.0 beta 1 is released](https://www.reddit.com/r/Python/comments/11chg45/cython_30_beta_1_is_released/)
 - [Is there a way to automate writing unit tests?](https://www.reddit.com/r/Python/comments/11cgko1/is_there_a_way_to_automate_writing_unit_tests/)
-- [Python Garbage Collector and Highly Loaded Applications](https://www.reddit.com/r/Python/comments/11cggrl/python_garbage_collector_and_highly_loaded/)
-- [Chatgpt on &quot;Riffing on triplet sum to a target&quot;](https://www.reddit.com/r/Python/comments/11cg5ob/chatgpt_on_riffing_on_triplet_sum_to_a_target/)
-- [GitHub - cdev-framework/cdev-sdk: Cdev Python SDK - Cdev provides a development environment and framework that allows python developers to easily create and deploy Serverless Applications on Amazon Web Services.](https://www.reddit.com/r/Python/comments/11cellh/github_cdevframeworkcdevsdk_cdev_python_sdk_cdev/)
-- [Starlite February Updates](https://www.reddit.com/r/Python/comments/11cdih0/starlite_february_updates/)
 <!-- BLOG-POST-LIST:END -->
