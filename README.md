@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python is two languages now, and that&#39;s actually great](https://www.reddit.com/r/Python/comments/11dc82i/python_is_two_languages_now_and_thats_actually/)
+- [convtools: are we really DRY?](https://www.reddit.com/r/Python/comments/11dc6jb/convtools_are_we_really_dry/)
+- [Pydantic Introduction - Models, Fields, Constrained Types, Validator Functions and Model Exports](https://www.reddit.com/r/Python/comments/11dc0hd/pydantic_introduction_models_fields_constrained/)
 - [🐍 Very clear Pydantic Introduction Video](https://www.reddit.com/r/Python/comments/11dapxk/very_clear_pydantic_introduction_video/)
 - [First Project: Create table from subtraction tool](https://www.reddit.com/r/Python/comments/11d9ucc/first_project_create_table_from_subtraction_tool/)
-- [Best python course for a carrier change.](https://www.reddit.com/r/Python/comments/11d8svq/best_python_course_for_a_carrier_change/)
-- [I wrote an enumclass decorator you may find useful... It turns your class type into an enumeration type](https://www.reddit.com/r/Python/comments/11d7mxr/i_wrote_an_enumclass_decorator_you_may_find/)
-- [Open-source alerting CLI](https://www.reddit.com/r/Python/comments/11d78ek/opensource_alerting_cli/)
 <!-- BLOG-POST-LIST:END -->
