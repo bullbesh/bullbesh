@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🐍 Very clear Pydantic Introduction Video](https://www.reddit.com/r/Python/comments/11dapxk/very_clear_pydantic_introduction_video/)
+- [First Project: Create table from subtraction tool](https://www.reddit.com/r/Python/comments/11d9ucc/first_project_create_table_from_subtraction_tool/)
 - [Best python course for a carrier change.](https://www.reddit.com/r/Python/comments/11d8svq/best_python_course_for_a_carrier_change/)
 - [I wrote an enumclass decorator you may find useful... It turns your class type into an enumeration type](https://www.reddit.com/r/Python/comments/11d7mxr/i_wrote_an_enumclass_decorator_you_may_find/)
 - [Open-source alerting CLI](https://www.reddit.com/r/Python/comments/11d78ek/opensource_alerting_cli/)
-- [PEP 709 – Inlined comprehensions](https://www.reddit.com/r/Python/comments/11d6xzd/pep_709_inlined_comprehensions/)
-- [Two Week Programming Blitz - Open Source - Cash Prizes](https://www.reddit.com/r/Python/comments/11d6b56/two_week_programming_blitz_open_source_cash_prizes/)
 <!-- BLOG-POST-LIST:END -->
