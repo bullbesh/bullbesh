@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [golang-wasm: Guide on writing frontend apps in Go](https://www.reddit.com/r/Python/comments/11ddxbv/golangwasm_guide_on_writing_frontend_apps_in_go/)
+- [Can Python, related software and Anaconda take advantage of more GPU-core of Apple&#39;s M1 Max and M2 Max chips?](https://www.reddit.com/r/Python/comments/11dfe97/can_python_related_software_and_anaconda_take/)
+- [Speeding up Python execution 80x](https://www.reddit.com/r/Python/comments/11detit/speeding_up_python_execution_80x/)
 - [hyper-bump-it: Bump the version for a software release](https://www.reddit.com/r/Python/comments/11dd2cr/hyperbumpit_bump_the_version_for_a_software/)
 - [Building an instantaneous application using Python and WebSockets [Part 2]](https://www.reddit.com/r/Python/comments/11dd21x/building_an_instantaneous_application_using/)
 - [Python is two languages now, and that&#39;s actually great](https://www.reddit.com/r/Python/comments/11dc82i/python_is_two_languages_now_and_thats_actually/)
-- [convtools: are we really DRY?](https://www.reddit.com/r/Python/comments/11dc6jb/convtools_are_we_really_dry/)
 <!-- BLOG-POST-LIST:END -->
