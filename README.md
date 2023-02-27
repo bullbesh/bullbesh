@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote an enumclass decorator you may find useful... It turns your class type into an enumeration type](https://www.reddit.com/r/Python/comments/11d7mxr/i_wrote_an_enumclass_decorator_you_may_find/)
 - [Open-source alerting CLI](https://www.reddit.com/r/Python/comments/11d78ek/opensource_alerting_cli/)
 - [PEP 709 – Inlined comprehensions](https://www.reddit.com/r/Python/comments/11d6xzd/pep_709_inlined_comprehensions/)
 - [Two Week Programming Blitz - Open Source - Cash Prizes](https://www.reddit.com/r/Python/comments/11d6b56/two_week_programming_blitz_open_source_cash_prizes/)
 - [Streamlining Event-Driven Architecture with Knative Channels and SinkBinding](https://www.reddit.com/r/Python/comments/11d5ue7/streamlining_eventdriven_architecture_with/)
-- [I have used Flask and Django to implement some web apps before. I am now an intern of a company, and my team leader have written a requirement to implement a web app in Django. However, I really like Flask because it&#39;s minimalistic. What should I do? 😓😓😓](https://www.reddit.com/r/Python/comments/11d5pdo/i_have_used_flask_and_django_to_implement_some/)
 <!-- BLOG-POST-LIST:END -->
