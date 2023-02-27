@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Yo Mama Jokes API](https://www.reddit.com/r/Python/comments/11d19ss/yo_mama_jokes_api/)
+- [Is anyone using the Uncle Bob clean code style?](https://www.reddit.com/r/Python/comments/11d0y98/is_anyone_using_the_uncle_bob_clean_code_style/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/11cx2xv/monday_daily_thread_project_ideas/)
 - [How I Built A Python Command Line Tool To Enhance My Browser Usage](https://www.reddit.com/r/Python/comments/11cvs39/how_i_built_a_python_command_line_tool_to_enhance/)
 - [PyCon US grants free booth space and conference passes to early-stage startups, and applications close Sunday at midnight Pacific Time](https://www.reddit.com/r/Python/comments/11cv65i/pycon_us_grants_free_booth_space_and_conference/)
-- [Web scraping from the terminal](https://www.reddit.com/r/Python/comments/11crk7n/web_scraping_from_the_terminal/)
-- [Building your own PC or Mac based real time data acquisition system using Python and Arduino](https://www.reddit.com/r/Python/comments/11cojhs/building_your_own_pc_or_mac_based_real_time_data/)
 <!-- BLOG-POST-LIST:END -->
