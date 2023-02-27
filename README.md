@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ClownSort is a tool for sorting images, PDFs, and movies into folders based on the text they contain and/or the filename. Particularly useful if you have tons of unsorted screenshots with any kind of text content and would like to be able to search for them based on their content.](https://www.reddit.com/r/Python/comments/11d454t/clownsort_is_a_tool_for_sorting_images_pdfs_and/)
 - [Yo Mama Jokes API](https://www.reddit.com/r/Python/comments/11d19ss/yo_mama_jokes_api/)
 - [Is anyone using the Uncle Bob clean code style?](https://www.reddit.com/r/Python/comments/11d0y98/is_anyone_using_the_uncle_bob_clean_code_style/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/11cx2xv/monday_daily_thread_project_ideas/)
 - [How I Built A Python Command Line Tool To Enhance My Browser Usage](https://www.reddit.com/r/Python/comments/11cvs39/how_i_built_a_python_command_line_tool_to_enhance/)
-- [PyCon US grants free booth space and conference passes to early-stage startups, and applications close Sunday at midnight Pacific Time](https://www.reddit.com/r/Python/comments/11cv65i/pycon_us_grants_free_booth_space_and_conference/)
 <!-- BLOG-POST-LIST:END -->
