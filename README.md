@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can Anyone solve my Google App script function?](https://www.reddit.com/r/Python/comments/11efjhi/can_anyone_solve_my_google_app_script_function/)
+- [programming language i made in python!](https://www.reddit.com/r/Python/comments/11eihdw/programming_language_i_made_in_python/)
+- [hi I&#39;m using replit to program python on my phone, can I use tkiner on it to make gui ?](https://www.reddit.com/r/Python/comments/11ehq51/hi_im_using_replit_to_program_python_on_my_phone/)
 - [When to use Python&#39;s &quot;list&quot; constructor](https://www.reddit.com/r/Python/comments/11ef8jc/when_to_use_pythons_list_constructor/)
 - [Migrating from Flask to FastAPI, part 3 &lpar;last part&rpar;](https://www.reddit.com/r/Python/comments/11eevqo/migrating_from_flask_to_fastapi_part_3_last_part/)
 - [Initial Approach to Python](https://www.reddit.com/r/Python/comments/11eel6h/initial_approach_to_python/)
-- [Help! LCD1602 library for a project.](https://www.reddit.com/r/Python/comments/11ed41j/help_lcd1602_library_for_a_project/)
 <!-- BLOG-POST-LIST:END -->
