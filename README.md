@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Help! LCD1602 library for a project.](https://www.reddit.com/r/Python/comments/11ed41j/help_lcd1602_library_for_a_project/)
-- [Learned how to write text input between separate text boxes](https://www.reddit.com/r/Python/comments/11ecbm6/learned_how_to_write_text_input_between_separate/)
-- [How I Built A Python Command Line Tool To Enhance My Browser Usage](https://www.reddit.com/r/Python/comments/11ec3xs/how_i_built_a_python_command_line_tool_to_enhance/)
-- [Join us for an AMA with the developers of pandas, the powerful data analysis toolkit, this Thursday, March 2nd at 5:30 pm UTC to celebrate the upcoming 2.0 release](https://www.reddit.com/r/Python/comments/11ebuh0/join_us_for_an_ama_with_the_developers_of_pandas/)
-- [pandas 2.0 and the Arrow revolution](https://www.reddit.com/r/Python/comments/11e99a2/pandas_20_and_the_arrow_revolution/)
+- [Can Anyone solve my Google App script function?](https://www.reddit.com/r/Python/comments/11efjhi/can_anyone_solve_my_google_app_script_function/)
+- [When to use Python&#39;s &quot;list&quot; constructor](https://www.reddit.com/r/Python/comments/11ef8jc/when_to_use_pythons_list_constructor/)
+- [100% Free Udemy Certificate Courses - Create a GUI with Python](https://www.reddit.com/r/Python/comments/11ef4dh/100_free_udemy_certificate_courses_create_a_gui/)
+- [Migrating from Flask to FastAPI, part 3 &lpar;last part&rpar;](https://www.reddit.com/r/Python/comments/11eevqo/migrating_from_flask_to_fastapi_part_3_last_part/)
+- [Initial Approach to Python](https://www.reddit.com/r/Python/comments/11eel6h/initial_approach_to_python/)
 <!-- BLOG-POST-LIST:END -->
