@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GPUs and Data analysis](https://www.reddit.com/r/Python/comments/11e4vd3/gpus_and_data_analysis/)
 - [Adding ability to import packages using Micropip to our low-code web framework - ToolJet](https://www.reddit.com/r/Python/comments/11e1dns/adding_ability_to_import_packages_using_micropip/)
 - [GitHub - Aperocky/replbuilder: Python helper tool for building and running a repl with custom commands](https://www.reddit.com/r/Python/comments/11e035b/github_aperockyreplbuilder_python_helper_tool_for/)
 - [Code quality best practices](https://www.reddit.com/r/Python/comments/11e00kq/code_quality_best_practices/)
 - [PySpark for Data Science with Hands-on Examples.](https://www.reddit.com/r/Python/comments/11dzbeu/pyspark_for_data_science_with_handson_examples/)
-- [Why I&#39;m getting this error](https://www.reddit.com/r/Python/comments/11dza2n/why_im_getting_this_error/)
 <!-- BLOG-POST-LIST:END -->
