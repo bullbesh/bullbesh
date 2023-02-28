@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Make Python debugger 80 times faster with Reloadium](https://www.reddit.com/r/Python/comments/11dsne4/make_python_debugger_80_times_faster_with/)
+- [Corey Schafer is making videos again!](https://www.reddit.com/r/Python/comments/11dryt5/corey_schafer_is_making_videos_again/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/11dr3ta/tuesday_daily_thread_advanced_questions/)
 - [How do you all go about writing API clients in python?](https://www.reddit.com/r/Python/comments/11dpfze/how_do_you_all_go_about_writing_api_clients_in/)
 - [Python Auth Module using MySQL , looking for feedback](https://www.reddit.com/r/Python/comments/11dohnr/python_auth_module_using_mysql_looking_for/)
-- [I kept my promise --&gt; 10 days update](https://www.reddit.com/r/Python/comments/11do5en/i_kept_my_promise_10_days_update/)
-- [Fastapi or Starlite for new project?](https://www.reddit.com/r/Python/comments/11dmea6/fastapi_or_starlite_for_new_project/)
-- [Write production grade pandas &lpar;and other libraries!&rpar; with Hamilton](https://www.reddit.com/r/Python/comments/11dkshd/write_production_grade_pandas_and_other_libraries/)
 <!-- BLOG-POST-LIST:END -->
