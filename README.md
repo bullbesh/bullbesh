@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - Aperocky/replbuilder: Python helper tool for building and running a repl with custom commands](https://www.reddit.com/r/Python/comments/11e035b/github_aperockyreplbuilder_python_helper_tool_for/)
+- [Code quality best practices](https://www.reddit.com/r/Python/comments/11e00kq/code_quality_best_practices/)
 - [PySpark for Data Science with Hands-on Examples.](https://www.reddit.com/r/Python/comments/11dzbeu/pyspark_for_data_science_with_handson_examples/)
 - [Why I&#39;m getting this error](https://www.reddit.com/r/Python/comments/11dza2n/why_im_getting_this_error/)
 - [How to Incorporate Basic Physics Concepts into Python games built using the Pygame Framework! Code linked in the GitHub in the comments!](https://www.reddit.com/r/Python/comments/11dw5cs/how_to_incorporate_basic_physics_concepts_into/)
-- [Make Python debugger 80 times faster with Reloadium](https://www.reddit.com/r/Python/comments/11dsne4/make_python_debugger_80_times_faster_with/)
-- [Corey Schafer is making videos again!](https://www.reddit.com/r/Python/comments/11dryt5/corey_schafer_is_making_videos_again/)
 <!-- BLOG-POST-LIST:END -->
