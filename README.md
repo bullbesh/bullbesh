@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learned how to write text input between separate text boxes](https://www.reddit.com/r/Python/comments/11ecbm6/learned_how_to_write_text_input_between_separate/)
+- [How I Built A Python Command Line Tool To Enhance My Browser Usage](https://www.reddit.com/r/Python/comments/11ec3xs/how_i_built_a_python_command_line_tool_to_enhance/)
+- [Join us for an AMA with the developers of pandas, the powerful data analysis toolkit, this Thursday, March 2nd at 5:30 pm UTC to celebrate the upcoming 2.0 release](https://www.reddit.com/r/Python/comments/11ebuh0/join_us_for_an_ama_with_the_developers_of_pandas/)
 - [pandas 2.0 and the Arrow revolution](https://www.reddit.com/r/Python/comments/11e99a2/pandas_20_and_the_arrow_revolution/)
 - [A python script that send me an alert when a reservation is open in a school website](https://www.reddit.com/r/Python/comments/11e6uwe/a_python_script_that_send_me_an_alert_when_a/)
-- [__init__ and __call__ In Python - How They Differ And What They Do](https://www.reddit.com/r/Python/comments/11e6g37/init_and_call_in_python_how_they_differ_and_what/)
-- [Faster apps with use cache in Python](https://www.reddit.com/r/Python/comments/11e6ba0/faster_apps_with_use_cache_in_python/)
-- [Using NumPy reshape&lpar;&rpar; to Change the Shape of an Array – Real Python](https://www.reddit.com/r/Python/comments/11e5x0j/using_numpy_reshape_to_change_the_shape_of_an/)
 <!-- BLOG-POST-LIST:END -->
