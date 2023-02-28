@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help! LCD1602 library for a project.](https://www.reddit.com/r/Python/comments/11ed41j/help_lcd1602_library_for_a_project/)
 - [Learned how to write text input between separate text boxes](https://www.reddit.com/r/Python/comments/11ecbm6/learned_how_to_write_text_input_between_separate/)
 - [How I Built A Python Command Line Tool To Enhance My Browser Usage](https://www.reddit.com/r/Python/comments/11ec3xs/how_i_built_a_python_command_line_tool_to_enhance/)
 - [Join us for an AMA with the developers of pandas, the powerful data analysis toolkit, this Thursday, March 2nd at 5:30 pm UTC to celebrate the upcoming 2.0 release](https://www.reddit.com/r/Python/comments/11ebuh0/join_us_for_an_ama_with_the_developers_of_pandas/)
 - [pandas 2.0 and the Arrow revolution](https://www.reddit.com/r/Python/comments/11e99a2/pandas_20_and_the_arrow_revolution/)
-- [A python script that send me an alert when a reservation is open in a school website](https://www.reddit.com/r/Python/comments/11e6uwe/a_python_script_that_send_me_an_alert_when_a/)
 <!-- BLOG-POST-LIST:END -->
