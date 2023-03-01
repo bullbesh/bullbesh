@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Tutorial 3: Comments](https://www.reddit.com/r/Python/comments/11fghy2/python_tutorial_3_comments/)
-- [Python Tutorial 2: Variables](https://www.reddit.com/r/Python/comments/11fggyg/python_tutorial_2_variables/)
 - [Applications communication interface documentation](https://www.reddit.com/r/Python/comments/11feuid/applications_communication_interface_documentation/)
 - [Learn how to work with LISTS as a BEGINNER](https://www.reddit.com/r/Python/comments/11fes48/learn_how_to_work_with_lists_as_a_beginner/)
 - [I just updated my recent Python AI book to use the new OpenAI ChatGPT API instead of the older GPT-3 API.](https://www.reddit.com/r/Python/comments/11fertv/i_just_updated_my_recent_python_ai_book_to_use/)
+- [I feel I&#39;m getting dumber](https://www.reddit.com/r/Python/comments/11fdwqv/i_feel_im_getting_dumber/)
+- [A brief primer to ChinesePython for those interested and new to mandarin](https://www.reddit.com/r/Python/comments/11fd9os/a_brief_primer_to_chinesepython_for_those/)
 <!-- BLOG-POST-LIST:END -->
