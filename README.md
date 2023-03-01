@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [uniswap-universal-router-decoder v0.6.0 has just been released !! Feedback appreciated :&rpar;](https://www.reddit.com/r/Python/comments/11fisd4/uniswapuniversalrouterdecoder_v060_has_just_been/)
+- [We are the developers behind pandas, currently preparing for the 2.0 release :&rpar; AMA](https://www.reddit.com/r/Python/comments/11fio85/we_are_the_developers_behind_pandas_currently/)
+- [Searching for a not laggy way to plot](https://www.reddit.com/r/Python/comments/11fimln/searching_for_a_not_laggy_way_to_plot/)
 - [Applications communication interface documentation](https://www.reddit.com/r/Python/comments/11feuid/applications_communication_interface_documentation/)
-- [Learn how to work with LISTS as a BEGINNER](https://www.reddit.com/r/Python/comments/11fes48/learn_how_to_work_with_lists_as_a_beginner/)
-- [I just updated my recent Python AI book to use the new OpenAI ChatGPT API instead of the older GPT-3 API.](https://www.reddit.com/r/Python/comments/11fertv/i_just_updated_my_recent_python_ai_book_to_use/)
 - [I feel I&#39;m getting dumber](https://www.reddit.com/r/Python/comments/11fdwqv/i_feel_im_getting_dumber/)
-- [A brief primer to ChinesePython for those interested and new to mandarin](https://www.reddit.com/r/Python/comments/11fd9os/a_brief_primer_to_chinesepython_for_those/)
 <!-- BLOG-POST-LIST:END -->
