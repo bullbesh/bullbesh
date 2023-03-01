@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [100% Free Udemy Certificate Courses - The Python 3 Course For Beginners](https://www.reddit.com/r/Python/comments/11ex6yz/100_free_udemy_certificate_courses_the_python_3/)
+- [How does the for loop work in Python?](https://www.reddit.com/r/Python/comments/11exk5a/how_does_the_for_loop_work_in_python/)
 - [A library for creating huge Sqlite indexes at breakneck speeds](https://www.reddit.com/r/Python/comments/11evbg0/a_library_for_creating_huge_sqlite_indexes_at/)
 - [Introduction to PyQt6!](https://www.reddit.com/r/Python/comments/11esfmc/introduction_to_pyqt6/)
 - [🐼 Pandas 2.0 Up To 32x Faster](https://www.reddit.com/r/Python/comments/11eqczv/pandas_20_up_to_32x_faster/)
