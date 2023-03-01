@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Python Bootcamp From Zero to Hero in Python course worth 90$ For only 20$!!!! Contact me if interested](https://www.reddit.com/r/Python/comments/11f6b4r/the_complete_python_bootcamp_from_zero_to_hero_in/)
+- [Coke Machine - CS50&#39;s Introduction to Programming with Python](https://www.reddit.com/r/Python/comments/11f7m8r/coke_machine_cs50s_introduction_to_programming/)
+- [Einsum Visualized](https://www.reddit.com/r/Python/comments/11f71o9/einsum_visualized/)
 - [Beginner Showcase for Inventory Control System](https://www.reddit.com/r/Python/comments/11f66va/beginner_showcase_for_inventory_control_system/)
+- [Unleash the Power of Python Monads: A Design Pattern for Elegant Code!](https://www.reddit.com/r/Python/comments/11f5s4w/unleash_the_power_of_python_monads_a_design/)
 - [Pydata NYC talk on Shiny for Python](https://www.reddit.com/r/Python/comments/11f5i5j/pydata_nyc_talk_on_shiny_for_python/)
-- [I made a privacy focused, Chromium web browser to intercept all requests on a website while web scraping. I built it using Tor and PySide6 &lpar;a QT framework for Python&rpar;.](https://www.reddit.com/r/Python/comments/11f5b2w/i_made_a_privacy_focused_chromium_web_browser_to/)
-- [Flask-Moreshell : flask shell with ipython, bpython, ptpython](https://www.reddit.com/r/Python/comments/11f4r3h/flaskmoreshell_flask_shell_with_ipython_bpython/)
 <!-- BLOG-POST-LIST:END -->
