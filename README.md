@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping LinkedIn Jobs using Python &lpar;without Selenium😉&rpar;](https://www.reddit.com/r/Python/comments/11ezfwd/web_scraping_linkedin_jobs_using_python_without/)
+- [3.10 Finally close to release for aws lambda](https://www.reddit.com/r/Python/comments/11ezfjv/310_finally_close_to_release_for_aws_lambda/)
+- [FastAPI just closed almost all open issues indiscriminately - time to jump ship?](https://www.reddit.com/r/Python/comments/11ezcy0/fastapi_just_closed_almost_all_open_issues/)
 - [Fast DOOM WAD renderer in 999 lines of Python](https://www.reddit.com/r/Python/comments/11ez5ln/fast_doom_wad_renderer_in_999_lines_of_python/)
 - [Are comments for code necessary?](https://www.reddit.com/r/Python/comments/11ez3sd/are_comments_for_code_necessary/)
-- [Pantsbuild 2.15: Easier multi-platform workflows, Docker build support, automatic code cleanup. Coming attractions in 2.16: Ruff support, support for integrating adhoc tools into your Pants codebase without writing plugins.](https://www.reddit.com/r/Python/comments/11ez3ea/pantsbuild_215_easier_multiplatform_workflows/)
-- [I made a json parser for studying&lpar;wrapper of C json parser actually&rpar; , can you guys check this out?](https://www.reddit.com/r/Python/comments/11eyp3j/i_made_a_json_parser_for_studyingwrapper_of_c/)
-- [How does the for loop work in Python?](https://www.reddit.com/r/Python/comments/11exk5a/how_does_the_for_loop_work_in_python/)
 <!-- BLOG-POST-LIST:END -->
