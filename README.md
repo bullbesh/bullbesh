@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to build a chatbot on the command line with the ChatGPT API and Python](https://www.reddit.com/r/Python/comments/11fl9l8/how_to_build_a_chatbot_on_the_command_line_with/)
+- [Building a Document Converter with the Factory Method pattern using Python](https://www.reddit.com/r/Python/comments/11fkqtz/building_a_document_converter_with_the_factory/)
+- [Suggestions for Udemy, Coursera, DataCamp, Pluralsight courses for Pandas and Visualization? So many options out there...project-based ones would be ideal. Or the ones to avoid or overrated courses?](https://www.reddit.com/r/Python/comments/11fk8fe/suggestions_for_udemy_coursera_datacamp/)
 - [uniswap-universal-router-decoder v0.6.0 has just been released !! Feedback appreciated :&rpar;](https://www.reddit.com/r/Python/comments/11fisd4/uniswapuniversalrouterdecoder_v060_has_just_been/)
 - [We are the developers behind pandas, currently preparing for the 2.0 release :&rpar; AMA](https://www.reddit.com/r/Python/comments/11fio85/we_are_the_developers_behind_pandas_currently/)
-- [Searching for a not laggy way to plot](https://www.reddit.com/r/Python/comments/11fimln/searching_for_a_not_laggy_way_to_plot/)
-- [Applications communication interface documentation](https://www.reddit.com/r/Python/comments/11feuid/applications_communication_interface_documentation/)
-- [I feel I&#39;m getting dumber](https://www.reddit.com/r/Python/comments/11fdwqv/i_feel_im_getting_dumber/)
 <!-- BLOG-POST-LIST:END -->
