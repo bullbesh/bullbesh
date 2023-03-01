@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flask-Moreshell : flask shell with ipython, bpython, ptpython](https://www.reddit.com/r/Python/comments/11f4r3h/flaskmoreshell_flask_shell_with_ipython_bpython/)
 - [How can I read GBs or TBs of data optimally and perform transformation on it and store it into database with limited hardware resources.](https://www.reddit.com/r/Python/comments/11f37wx/how_can_i_read_gbs_or_tbs_of_data_optimally_and/)
 - [Why are you *not* writing unit tests or using TDD?](https://www.reddit.com/r/Python/comments/11f1bxk/why_are_you_not_writing_unit_tests_or_using_tdd/)
 - [My first open-source project: Letterboxd Stats - A CLI tool for retrieving info of your Letterboxd activity](https://www.reddit.com/r/Python/comments/11f19ct/my_first_opensource_project_letterboxd_stats_a/)
 - [GitHub - mtshiba/pylyzer: A fast static code analyzer &amp; language server for Python](https://www.reddit.com/r/Python/comments/11f0uvx/github_mtshibapylyzer_a_fast_static_code_analyzer/)
-- [Software Engineer Interview Learning Resources](https://www.reddit.com/r/Python/comments/11f0hcb/software_engineer_interview_learning_resources/)
 <!-- BLOG-POST-LIST:END -->
