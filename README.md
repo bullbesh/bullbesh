@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [A brief primer to ChinesePython for those interested and new to mandarin](https://www.reddit.com/r/Python/comments/11fd9os/a_brief_primer_to_chinesepython_for_those/)
-- [I built my first VS Code extension - Solve errors 10x faster](https://www.reddit.com/r/Python/comments/11fd96s/i_built_my_first_vs_code_extension_solve_errors/)
-- [how to increase focus while coding?](https://www.reddit.com/r/Python/comments/11fb0k4/how_to_increase_focus_while_coding/)
-- [2,000 free sign ups available for the &quot;Automate the Boring Stuff with Python&quot; online course. &lpar;March 2023&rpar;](https://www.reddit.com/r/Python/comments/11fanbv/2000_free_sign_ups_available_for_the_automate_the/)
-- [spend so much hours on the first day of learning python](https://www.reddit.com/r/Python/comments/11f8uhe/spend_so_much_hours_on_the_first_day_of_learning/)
+- [Python Tutorial 3: Comments](https://www.reddit.com/r/Python/comments/11fghy2/python_tutorial_3_comments/)
+- [Python Tutorial 2: Variables](https://www.reddit.com/r/Python/comments/11fggyg/python_tutorial_2_variables/)
+- [Applications communication interface documentation](https://www.reddit.com/r/Python/comments/11feuid/applications_communication_interface_documentation/)
+- [Learn how to work with LISTS as a BEGINNER](https://www.reddit.com/r/Python/comments/11fes48/learn_how_to_work_with_lists_as_a_beginner/)
+- [I just updated my recent Python AI book to use the new OpenAI ChatGPT API instead of the older GPT-3 API.](https://www.reddit.com/r/Python/comments/11fertv/i_just_updated_my_recent_python_ai_book_to_use/)
 <!-- BLOG-POST-LIST:END -->
