@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fast DOOM WAD renderer in 999 lines of Python](https://www.reddit.com/r/Python/comments/11ez5ln/fast_doom_wad_renderer_in_999_lines_of_python/)
+- [Are comments for code necessary?](https://www.reddit.com/r/Python/comments/11ez3sd/are_comments_for_code_necessary/)
+- [Pantsbuild 2.15: Easier multi-platform workflows, Docker build support, automatic code cleanup. Coming attractions in 2.16: Ruff support, support for integrating adhoc tools into your Pants codebase without writing plugins.](https://www.reddit.com/r/Python/comments/11ez3ea/pantsbuild_215_easier_multiplatform_workflows/)
+- [I made a json parser for studying&lpar;wrapper of C json parser actually&rpar; , can you guys check this out?](https://www.reddit.com/r/Python/comments/11eyp3j/i_made_a_json_parser_for_studyingwrapper_of_c/)
 - [How does the for loop work in Python?](https://www.reddit.com/r/Python/comments/11exk5a/how_does_the_for_loop_work_in_python/)
-- [A library for creating huge Sqlite indexes at breakneck speeds](https://www.reddit.com/r/Python/comments/11evbg0/a_library_for_creating_huge_sqlite_indexes_at/)
-- [Introduction to PyQt6!](https://www.reddit.com/r/Python/comments/11esfmc/introduction_to_pyqt6/)
-- [🐼 Pandas 2.0 Up To 32x Faster](https://www.reddit.com/r/Python/comments/11eqczv/pandas_20_up_to_32x_faster/)
-- [PSA: Bootleg `python.org` spotted in the wild](https://www.reddit.com/r/Python/comments/11eq5pi/psa_bootleg_pythonorg_spotted_in_the_wild/)
 <!-- BLOG-POST-LIST:END -->
