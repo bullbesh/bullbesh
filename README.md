@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why are you *not* writing unit tests or using TDD?](https://www.reddit.com/r/Python/comments/11f1bxk/why_are_you_not_writing_unit_tests_or_using_tdd/)
+- [My first open-source project: Letterboxd Stats - A CLI tool for retrieving info of your Letterboxd activity](https://www.reddit.com/r/Python/comments/11f19ct/my_first_opensource_project_letterboxd_stats_a/)
 - [GitHub - mtshiba/pylyzer: A fast static code analyzer &amp; language server for Python](https://www.reddit.com/r/Python/comments/11f0uvx/github_mtshibapylyzer_a_fast_static_code_analyzer/)
 - [Software Engineer Interview Learning Resources](https://www.reddit.com/r/Python/comments/11f0hcb/software_engineer_interview_learning_resources/)
 - [Web Scraping LinkedIn Jobs using Python &lpar;without Selenium😉&rpar;](https://www.reddit.com/r/Python/comments/11ezfwd/web_scraping_linkedin_jobs_using_python_without/)
-- [3.10 Finally close to release for aws lambda](https://www.reddit.com/r/Python/comments/11ezfjv/310_finally_close_to_release_for_aws_lambda/)
-- [FastAPI just closed almost all open issues indiscriminately - time to jump ship?](https://www.reddit.com/r/Python/comments/11ezcy0/fastapi_just_closed_almost_all_open_issues/)
 <!-- BLOG-POST-LIST:END -->
