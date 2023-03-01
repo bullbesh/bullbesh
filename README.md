@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Python Bootcamp From Zero to Hero in Python course worth 90$ For only 20$!!!! Contact me if interested](https://www.reddit.com/r/Python/comments/11f6b4r/the_complete_python_bootcamp_from_zero_to_hero_in/)
+- [Beginner Showcase for Inventory Control System](https://www.reddit.com/r/Python/comments/11f66va/beginner_showcase_for_inventory_control_system/)
+- [Pydata NYC talk on Shiny for Python](https://www.reddit.com/r/Python/comments/11f5i5j/pydata_nyc_talk_on_shiny_for_python/)
+- [I made a privacy focused, Chromium web browser to intercept all requests on a website while web scraping. I built it using Tor and PySide6 &lpar;a QT framework for Python&rpar;.](https://www.reddit.com/r/Python/comments/11f5b2w/i_made_a_privacy_focused_chromium_web_browser_to/)
 - [Flask-Moreshell : flask shell with ipython, bpython, ptpython](https://www.reddit.com/r/Python/comments/11f4r3h/flaskmoreshell_flask_shell_with_ipython_bpython/)
-- [How can I read GBs or TBs of data optimally and perform transformation on it and store it into database with limited hardware resources.](https://www.reddit.com/r/Python/comments/11f37wx/how_can_i_read_gbs_or_tbs_of_data_optimally_and/)
-- [Why are you *not* writing unit tests or using TDD?](https://www.reddit.com/r/Python/comments/11f1bxk/why_are_you_not_writing_unit_tests_or_using_tdd/)
-- [My first open-source project: Letterboxd Stats - A CLI tool for retrieving info of your Letterboxd activity](https://www.reddit.com/r/Python/comments/11f19ct/my_first_opensource_project_letterboxd_stats_a/)
-- [GitHub - mtshiba/pylyzer: A fast static code analyzer &amp; language server for Python](https://www.reddit.com/r/Python/comments/11f0uvx/github_mtshibapylyzer_a_fast_static_code_analyzer/)
 <!-- BLOG-POST-LIST:END -->
