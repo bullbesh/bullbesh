@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi Flight Controller: Hardware Review](https://www.reddit.com/r/Python/comments/11emzwx/raspberry_pi_flight_controller_hardware_review/)
-- [Developed an effortless terminal notifier completely in Python - Nudge Notifier](https://www.reddit.com/r/Python/comments/11emwwq/developed_an_effortless_terminal_notifier/)
-- [I created a clone of Jasper AI/Copy AI and open sourced it](https://www.reddit.com/r/Python/comments/11emvg8/i_created_a_clone_of_jasper_aicopy_ai_and_open/)
-- [how can install python in Linux Lite? i don&#39;t found the code&rpar;:](https://www.reddit.com/r/Python/comments/11el3dg/how_can_install_python_in_linux_lite_i_dont_found/)
-- [Pypi project to collect a large amount of responses from ChatGPT over extended periods of time](https://www.reddit.com/r/Python/comments/11ejutp/pypi_project_to_collect_a_large_amount_of/)
+- [🐼 Pandas 2.0 Up To 32x Faster](https://www.reddit.com/r/Python/comments/11eqczv/pandas_20_up_to_32x_faster/)
+- [PSA: Bootleg `python.org` spotted in the wild](https://www.reddit.com/r/Python/comments/11eq5pi/psa_bootleg_pythonorg_spotted_in_the_wild/)
+- [Show Reddit: StarQueue - Postgres database backed message queue server for Python](https://www.reddit.com/r/Python/comments/11eovtt/show_reddit_starqueue_postgres_database_backed/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/11eoalz/wednesday_daily_thread_beginner_questions/)
+- [How can you code a script that gets all the url from a google image reverse search without paying api?](https://www.reddit.com/r/Python/comments/11enpre/how_can_you_code_a_script_that_gets_all_the_url/)
 <!-- BLOG-POST-LIST:END -->
