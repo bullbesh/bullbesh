@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A serverless Python app to send public domain gutenberg.org ebooks to your Kindle with one click!](https://www.reddit.com/r/Python/comments/11gasmg/a_serverless_python_app_to_send_public_domain/)
+- [Chatgpt + python Tkinter GUI &lpar;using openai api with python&rpar;](https://www.reddit.com/r/Python/comments/11gapiu/chatgpt_python_tkinter_gui_using_openai_api_with/)
 - [*args **kwargs ***what&#39;s next? &lpar;Yes, tripple star&rpar;](https://www.reddit.com/r/Python/comments/11g9iat/args_kwargs_whats_next_yes_tripple_star/)
 - [3 Usecases of _ in Python](https://www.reddit.com/r/Python/comments/11g9299/3_usecases_of_in_python/)
-- [Why Python Developers Need Multilingual Semantic Search](https://www.reddit.com/r/Python/comments/11g91nz/why_python_developers_need_multilingual_semantic/)
 - [How async should have been](https://www.reddit.com/r/Python/comments/11g40gv/how_async_should_have_been/)
-- [deal facilitates design-by-contract programming in Python. quite impressive](https://www.reddit.com/r/Python/comments/11g3hk8/deal_facilitates_designbycontract_programming_in/)
 <!-- BLOG-POST-LIST:END -->
