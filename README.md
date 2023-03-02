@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Good news for builders! You Now Use ChatGPT In Your Python Project](https://www.reddit.com/r/Python/comments/11fwcd1/good_news_for_builders_you_now_use_chatgpt_in/)
 - [Build a full-fledged installable python CLI from scratch.](https://www.reddit.com/r/Python/comments/11fup3e/build_a_fullfledged_installable_python_cli_from/)
 - [Suppressing audio with Python](https://www.reddit.com/r/Python/comments/11fszb7/suppressing_audio_with_python/)
 - [Video search algorithm with SpeakTheBeats, Spacy-enabled TTS script editing with SpeakTheScript and automatic music arrangement with FixTheBeats!](https://www.reddit.com/r/Python/comments/11frcfs/video_search_algorithm_with_speakthebeats/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/11fmm6e/thursday_daily_thread_python_careers_courses_and/)
-- [How to build a chatbot on the command line with the ChatGPT API and Python](https://www.reddit.com/r/Python/comments/11fl9l8/how_to_build_a_chatbot_on_the_command_line_with/)
 <!-- BLOG-POST-LIST:END -->
