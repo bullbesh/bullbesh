@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [*args **kwargs ***what&#39;s next? &lpar;Yes, tripple star&rpar;](https://www.reddit.com/r/Python/comments/11g9iat/args_kwargs_whats_next_yes_tripple_star/)
+- [3 Usecases of _ in Python](https://www.reddit.com/r/Python/comments/11g9299/3_usecases_of_in_python/)
+- [Why Python Developers Need Multilingual Semantic Search](https://www.reddit.com/r/Python/comments/11g91nz/why_python_developers_need_multilingual_semantic/)
 - [How async should have been](https://www.reddit.com/r/Python/comments/11g40gv/how_async_should_have_been/)
 - [deal facilitates design-by-contract programming in Python. quite impressive](https://www.reddit.com/r/Python/comments/11g3hk8/deal_facilitates_designbycontract_programming_in/)
-- [A python library for competitive coders](https://www.reddit.com/r/Python/comments/11g3c5u/a_python_library_for_competitive_coders/)
-- [[WIP] drag’n drop UI builder in VS Code](https://www.reddit.com/r/Python/comments/11g2d9t/wip_dragn_drop_ui_builder_in_vs_code/)
-- [Learning Python](https://www.reddit.com/r/Python/comments/11g18i6/learning_python/)
 <!-- BLOG-POST-LIST:END -->
