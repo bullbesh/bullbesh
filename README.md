@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Build a full-fledged installable python CLI from scratch.](https://www.reddit.com/r/Python/comments/11fup3e/build_a_fullfledged_installable_python_cli_from/)
-- [100% Free Udemy Certificate Courses - The Python 3 Certification Course](https://www.reddit.com/r/Python/comments/11fu5yo/100_free_udemy_certificate_courses_the_python_3/)
-- [100% Free Udemy Certificate Courses - Python For Beginners Course In-Depth](https://www.reddit.com/r/Python/comments/11fu3g9/100_free_udemy_certificate_courses_python_for/)
-- [GitHub - libAudioFlux/audioFlux: A library for audio and music analysis, feature extraction](https://www.reddit.com/r/Python/comments/11ftoms/github_libaudiofluxaudioflux_a_library_for_audio/)
-- [Beginner Python Courses](https://www.reddit.com/r/Python/comments/11ftht5/beginner_python_courses/)
+- [Suppressing audio with Python](https://www.reddit.com/r/Python/comments/11fszb7/suppressing_audio_with_python/)
+- [Video search algorithm with SpeakTheBeats, Spacy-enabled TTS script editing with SpeakTheScript and automatic music arrangement with FixTheBeats!](https://www.reddit.com/r/Python/comments/11frcfs/video_search_algorithm_with_speakthebeats/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/11fmm6e/thursday_daily_thread_python_careers_courses_and/)
+- [How to build a chatbot on the command line with the ChatGPT API and Python](https://www.reddit.com/r/Python/comments/11fl9l8/how_to_build_a_chatbot_on_the_command_line_with/)
 <!-- BLOG-POST-LIST:END -->
