@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [deal facilitates design-by-contract programming in Python. quite impressive](https://www.reddit.com/r/Python/comments/11g3hk8/deal_facilitates_designbycontract_programming_in/)
+- [A python library for competitive coders](https://www.reddit.com/r/Python/comments/11g3c5u/a_python_library_for_competitive_coders/)
 - [[WIP] drag’n drop UI builder in VS Code](https://www.reddit.com/r/Python/comments/11g2d9t/wip_dragn_drop_ui_builder_in_vs_code/)
 - [Learning Python](https://www.reddit.com/r/Python/comments/11g18i6/learning_python/)
 - [How does web developement process compare to java web developement ?](https://www.reddit.com/r/Python/comments/11g15o9/how_does_web_developement_process_compare_to_java/)
-- [What are the common audio feature tool libraries in python?](https://www.reddit.com/r/Python/comments/11g0oep/what_are_the_common_audio_feature_tool_libraries/)
-- [Using Python 3.11 with AWS Lambda](https://www.reddit.com/r/Python/comments/11g0fgn/using_python_311_with_aws_lambda/)
 <!-- BLOG-POST-LIST:END -->
