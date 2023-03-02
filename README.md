@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How async should have been](https://www.reddit.com/r/Python/comments/11g40gv/how_async_should_have_been/)
 - [deal facilitates design-by-contract programming in Python. quite impressive](https://www.reddit.com/r/Python/comments/11g3hk8/deal_facilitates_designbycontract_programming_in/)
 - [A python library for competitive coders](https://www.reddit.com/r/Python/comments/11g3c5u/a_python_library_for_competitive_coders/)
 - [[WIP] drag’n drop UI builder in VS Code](https://www.reddit.com/r/Python/comments/11g2d9t/wip_dragn_drop_ui_builder_in_vs_code/)
 - [Learning Python](https://www.reddit.com/r/Python/comments/11g18i6/learning_python/)
-- [How does web developement process compare to java web developement ?](https://www.reddit.com/r/Python/comments/11g15o9/how_does_web_developement_process_compare_to_java/)
 <!-- BLOG-POST-LIST:END -->
