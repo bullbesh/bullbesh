@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Trying to make a tinder bot, I have gotten this far and it won&#39;t open up tinder.](https://www.reddit.com/r/Python/comments/11gdskq/trying_to_make_a_tinder_bot_i_have_gotten_this/)
+- [How this algorithm knows every detail of your life | Library of Babel algorithm explained with Python example](https://www.reddit.com/r/Python/comments/11ggi7c/how_this_algorithm_knows_every_detail_of_your/)
+- [A Python Programming Bundle](https://www.reddit.com/r/Python/comments/11gevit/a_python_programming_bundle/)
 - [What are your experiences with the Rust Result ported to Python?](https://www.reddit.com/r/Python/comments/11gd4fy/what_are_your_experiences_with_the_rust_result/)
 - [An app offers 1000+ free Python challenges for beginners to advanced users to practice](https://www.reddit.com/r/Python/comments/11gck2v/an_app_offers_1000_free_python_challenges_for/)
 - [CLI Image Converter](https://www.reddit.com/r/Python/comments/11gbcgp/cli_image_converter/)
-- [A serverless Python app to send public domain gutenberg.org ebooks to your Kindle with one click!](https://www.reddit.com/r/Python/comments/11gasmg/a_serverless_python_app_to_send_public_domain/)
 <!-- BLOG-POST-LIST:END -->
