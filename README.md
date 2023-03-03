@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python in Visual Studio Code &lpar;March 2023 Release&rpar;](https://www.reddit.com/r/Python/comments/11h7wal/python_in_visual_studio_code_march_2023_release/)
 - [JUST NOTICED THE PYTHONISTA APP FOR IOS HAS AN UPDATED BETA!](https://www.reddit.com/r/Python/comments/11h4t4j/just_noticed_the_pythonista_app_for_ios_has_an/)
 - [You know you&#39;re a python developer when?](https://www.reddit.com/r/Python/comments/11h317w/you_know_youre_a_python_developer_when/)
 - [Self learning Python](https://www.reddit.com/r/Python/comments/11h0xs2/self_learning_python/)
 - [Jinja and Django Jinja](https://www.reddit.com/r/Python/comments/11h0sh4/jinja_and_django_jinja/)
-- [Python proof of concept project Email Joker; FYI, &#39;Email GPT&#39; will be my next project.](https://www.reddit.com/r/Python/comments/11gxrdn/python_proof_of_concept_project_email_joker_fyi/)
 <!-- BLOG-POST-LIST:END -->
