@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How this algorithm knows every detail of your life | Library of Babel algorithm explained with Python example](https://www.reddit.com/r/Python/comments/11ggi7c/how_this_algorithm_knows_every_detail_of_your/)
-- [A Python Programming Bundle](https://www.reddit.com/r/Python/comments/11gevit/a_python_programming_bundle/)
-- [What are your experiences with the Rust Result ported to Python?](https://www.reddit.com/r/Python/comments/11gd4fy/what_are_your_experiences_with_the_rust_result/)
-- [An app offers 1000+ free Python challenges for beginners to advanced users to practice](https://www.reddit.com/r/Python/comments/11gck2v/an_app_offers_1000_free_python_challenges_for/)
-- [CLI Image Converter](https://www.reddit.com/r/Python/comments/11gbcgp/cli_image_converter/)
+- [Hello guys, I just made this program for an assignment to find perfect numbers. Do you have any suggestions to improve?](https://www.reddit.com/r/Python/comments/11govt6/hello_guys_i_just_made_this_program_for_an/)
+- [QMainWindow and OOP in PyQt6!](https://www.reddit.com/r/Python/comments/11gnizz/qmainwindow_and_oop_in_pyqt6/)
+- [Signal handling in a multithreaded socket server](https://www.reddit.com/r/Python/comments/11gi7hz/signal_handling_in_a_multithreaded_socket_server/)
+- [Should I make a thread worker that launches a logging GUI, or a logging GUI that launches a thread worker? The worker runs a subprocess that will update the GUI.](https://www.reddit.com/r/Python/comments/11ghsph/should_i_make_a_thread_worker_that_launches_a/)
+- [I made a ChatGPT CLI &lpar;using official APIs&rpar;](https://www.reddit.com/r/Python/comments/11ggs3j/i_made_a_chatgpt_cli_using_official_apis/)
 <!-- BLOG-POST-LIST:END -->
