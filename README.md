@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [String Searching Algorithm &lpar;Knuth–Morris–Pratt&rpar;](https://www.reddit.com/r/Python/comments/11gvq4b/string_searching_algorithm_knuthmorrispratt/)
+- [Python 3.12: A Game-Changer in Performance and Efficiency](https://www.reddit.com/r/Python/comments/11gvo6m/python_312_a_gamechanger_in_performance_and/)
+- [GitHub - raaidarshad/dbdeclare: Declarative layer for your database.](https://www.reddit.com/r/Python/comments/11gvjuq/github_raaidarshaddbdeclare_declarative_layer_for/)
 - [Make your Debugging easier with these 8 tips in Python](https://www.reddit.com/r/Python/comments/11gves5/make_your_debugging_easier_with_these_8_tips_in/)
 - [6 different ways to reverse a string in Python](https://www.reddit.com/r/Python/comments/11gtwob/6_different_ways_to_reverse_a_string_in_python/)
-- [Hello guys, I just made this program for an assignment to find perfect numbers. Do you have any suggestions to improve?](https://www.reddit.com/r/Python/comments/11govt6/hello_guys_i_just_made_this_program_for_an/)
-- [QMainWindow and OOP in PyQt6!](https://www.reddit.com/r/Python/comments/11gnizz/qmainwindow_and_oop_in_pyqt6/)
-- [Signal handling in a multithreaded socket server](https://www.reddit.com/r/Python/comments/11gi7hz/signal_handling_in_a_multithreaded_socket_server/)
 <!-- BLOG-POST-LIST:END -->
