@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning Chinese by programming: ChinesePython intro](https://www.reddit.com/r/Python/comments/11hfslh/learning_chinese_by_programming_chinesepython/)
 - [Camus - An esoteric programming lang written in Python!](https://www.reddit.com/r/Python/comments/11hf0o9/camus_an_esoteric_programming_lang_written_in/)
 - [Function purity and idempotence](https://www.reddit.com/r/Python/comments/11heaaw/function_purity_and_idempotence/)
 - [what are some applications made with tkinter in python](https://www.reddit.com/r/Python/comments/11hcdpn/what_are_some_applications_made_with_tkinter_in/)
 - [PyBroker - Algotrading in Python with Machine Learning](https://www.reddit.com/r/Python/comments/11hbstv/pybroker_algotrading_in_python_with_machine/)
-- [pandas.read_csv&lpar;&quot;xyz.csv&quot;&rpar; showing error](https://www.reddit.com/r/Python/comments/11hbk8t/pandasread_csvxyzcsv_showing_error/)
 <!-- BLOG-POST-LIST:END -->
