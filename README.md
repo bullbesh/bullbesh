@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python proof of concept project Email Joker; FYI, &#39;Email GPT&#39; will be my next project.](https://www.reddit.com/r/Python/comments/11gxrdn/python_proof_of_concept_project_email_joker_fyi/)
+- [Build an AI search engine using FastAPI, Qdrant, and ChatGPT](https://www.reddit.com/r/Python/comments/11gxip7/build_an_ai_search_engine_using_fastapi_qdrant/)
 - [How to assume an IAM role to access another AWS account](https://www.reddit.com/r/Python/comments/11gwk6q/how_to_assume_an_iam_role_to_access_another_aws/)
 - [Learn django signals](https://www.reddit.com/r/Python/comments/11gwatw/learn_django_signals/)
 - [String Searching Algorithm &lpar;Knuth–Morris–Pratt&rpar;](https://www.reddit.com/r/Python/comments/11gvq4b/string_searching_algorithm_knuthmorrispratt/)
-- [Python 3.12: A Game-Changer in Performance and Efficiency](https://www.reddit.com/r/Python/comments/11gvo6m/python_312_a_gamechanger_in_performance_and/)
-- [GitHub - raaidarshad/dbdeclare: Declarative layer for your database.](https://www.reddit.com/r/Python/comments/11gvjuq/github_raaidarshaddbdeclare_declarative_layer_for/)
 <!-- BLOG-POST-LIST:END -->
