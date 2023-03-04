@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Equivalent of English letters in Python](https://www.reddit.com/r/Python/comments/11i3yxt/equivalent_of_english_letters_in_python/)
+- [equivalent of English letters in Python?](https://www.reddit.com/r/Python/comments/11i3vl6/equivalent_of_english_letters_in_python/)
+- [I want to work more with Python instead of making it just a hobby, but where do I start?](https://www.reddit.com/r/Python/comments/11i2d9r/i_want_to_work_more_with_python_instead_of_making/)
+- [Finally got enough screen space for this.](https://www.reddit.com/r/Python/comments/11i1wdq/finally_got_enough_screen_space_for_this/)
 - [TutorialLang - An esoteric programming language written in python!](https://www.reddit.com/r/Python/comments/11i19m6/tutoriallang_an_esoteric_programming_language/)
-- [A code formatting app on Streamlit! [SQL, JSON] 🎈](https://www.reddit.com/r/Python/comments/11i0hfy/a_code_formatting_app_on_streamlit_sql_json/)
-- [How to Print-Debug Python Comprehensions](https://www.reddit.com/r/Python/comments/11hz806/how_to_printdebug_python_comprehensions/)
-- [Prompt templates and task chains - run with Python, YAML or FastAPI](https://www.reddit.com/r/Python/comments/11hxuml/prompt_templates_and_task_chains_run_with_python/)
-- [python data visualization libraries](https://www.reddit.com/r/Python/comments/11hwvpc/python_data_visualization_libraries/)
 <!-- BLOG-POST-LIST:END -->
