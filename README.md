@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Print-Debug Python Comprehensions](https://www.reddit.com/r/Python/comments/11hz806/how_to_printdebug_python_comprehensions/)
 - [Prompt templates and task chains - run with Python, YAML or FastAPI](https://www.reddit.com/r/Python/comments/11hxuml/prompt_templates_and_task_chains_run_with_python/)
 - [python data visualization libraries](https://www.reddit.com/r/Python/comments/11hwvpc/python_data_visualization_libraries/)
 - [Clean Architecture with FastAPI](https://www.reddit.com/r/Python/comments/11hwr7n/clean_architecture_with_fastapi/)
 - [I built a chatbot that debugs your Python code better than ChatGPT](https://www.reddit.com/r/Python/comments/11hwppa/i_built_a_chatbot_that_debugs_your_python_code/)
-- [Reducing size of dependencies](https://www.reddit.com/r/Python/comments/11hvh2f/reducing_size_of_dependencies/)
 <!-- BLOG-POST-LIST:END -->
