@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [restricted integer partition with the accel_acs algorithm](https://www.reddit.com/r/Python/comments/11hn94e/restricted_integer_partition_with_the_accel_acs/)
+- [Totally legit tutorial, thumbnails speaks for itself](https://www.reddit.com/r/Python/comments/11hmi5m/totally_legit_tutorial_thumbnails_speaks_for/)
+- [Is it possible land an entry level Python Developer role right out of college? I obtained my engineering BS and know some Python. I&#39;ve really been digging deep into it and would love to become a Python Developer, but I don&#39;t know if I can obtain an entry level role. I also don&#39;t have any experience.](https://www.reddit.com/r/Python/comments/11hmf2v/is_it_possible_land_an_entry_level_python/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/11hjfsg/saturday_daily_thread_resource_request_and/)
 - [Can we talk about error messages?](https://www.reddit.com/r/Python/comments/11hhyiz/can_we_talk_about_error_messages/)
-- [SlashSlack - A framework for developing Slack slash command bots.](https://www.reddit.com/r/Python/comments/11hhmb8/slashslack_a_framework_for_developing_slack_slash/)
-- [Learning Chinese by programming: ChinesePython intro](https://www.reddit.com/r/Python/comments/11hfslh/learning_chinese_by_programming_chinesepython/)
-- [Camus - An esoteric programming lang written in Python!](https://www.reddit.com/r/Python/comments/11hf0o9/camus_an_esoteric_programming_lang_written_in/)
 <!-- BLOG-POST-LIST:END -->
