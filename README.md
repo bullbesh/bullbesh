@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What to learn to advance my career](https://www.reddit.com/r/Python/comments/11ibmks/what_to_learn_to_advance_my_career/)
+- [sys Module in Python](https://www.reddit.com/r/Python/comments/11iauxx/sys_module_in_python/)
+- [How to add Python environments to vscode](https://www.reddit.com/r/Python/comments/11iadnw/how_to_add_python_environments_to_vscode/)
 - [Matrix filter using python &lpar;webcam input to Ascii&rpar;](https://www.reddit.com/r/Python/comments/11i92e9/matrix_filter_using_python_webcam_input_to_ascii/)
 - [Testing multiple Python versions with nox and pyenv](https://www.reddit.com/r/Python/comments/11i8yjw/testing_multiple_python_versions_with_nox_and/)
-- [Wrapyfi for distributing LLaMA by Meta on multiple machines https://github.com/modular-ml/wrapyfi-examples_llama](https://www.reddit.com/r/Python/comments/11i7psv/wrapyfi_for_distributing_llama_by_meta_on/)
-- [What to know as Python Software Developer](https://www.reddit.com/r/Python/comments/11i5vi6/what_to_know_as_python_software_developer/)
-- [Free Online Pandas Tutorial - Learn Pandas Basics In Lessons!](https://www.reddit.com/r/Python/comments/11i5r0n/free_online_pandas_tutorial_learn_pandas_basics/)
 <!-- BLOG-POST-LIST:END -->
