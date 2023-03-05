@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Signals and Slots in PyQt6!](https://www.reddit.com/r/Python/comments/11imq7k/signals_and_slots_in_pyqt6/)
+- [I want to share my educative.io subscription.](https://www.reddit.com/r/Python/comments/11iluao/i_want_to_share_my_educativeio_subscription/)
 - [Top 3 hardest things with debugging as a beginner?](https://www.reddit.com/r/Python/comments/11il0gh/top_3_hardest_things_with_debugging_as_a_beginner/)
 - [Rust Result in Python!](https://www.reddit.com/r/Python/comments/11ik7p7/rust_result_in_python/)
 - [Unit testing](https://www.reddit.com/r/Python/comments/11ik5dm/unit_testing/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/11ihkjk/sunday_daily_thread_whats_everyone_working_on/)
-- [I need a tool to find out what deletions are in the two videos.](https://www.reddit.com/r/Python/comments/11ih1qk/i_need_a_tool_to_find_out_what_deletions_are_in/)
 <!-- BLOG-POST-LIST:END -->
