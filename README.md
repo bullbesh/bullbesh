@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [a little help for a noob](https://www.reddit.com/r/Python/comments/11itll4/a_little_help_for_a_noob/)
+- [need a python buddy to interested in python learning from basics to advanced. and to do spme small python projects online](https://www.reddit.com/r/Python/comments/11it5t2/need_a_python_buddy_to_interested_in_python/)
 - [Build RESTful API with Flask and Python](https://www.reddit.com/r/Python/comments/11iq1rx/build_restful_api_with_flask_and_python/)
 - [Signals and Slots in PyQt6!](https://www.reddit.com/r/Python/comments/11imq7k/signals_and_slots_in_pyqt6/)
 - [I want to share my educative.io subscription.](https://www.reddit.com/r/Python/comments/11iluao/i_want_to_share_my_educativeio_subscription/)
-- [Top 3 hardest things with debugging as a beginner?](https://www.reddit.com/r/Python/comments/11il0gh/top_3_hardest_things_with_debugging_as_a_beginner/)
-- [Rust Result in Python!](https://www.reddit.com/r/Python/comments/11ik7p7/rust_result_in_python/)
 <!-- BLOG-POST-LIST:END -->
