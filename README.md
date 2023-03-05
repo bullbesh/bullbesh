@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Switch to Python?](https://www.reddit.com/r/Python/comments/11ifdxa/switch_to_python/)
+- [Unit testing](https://www.reddit.com/r/Python/comments/11ik5dm/unit_testing/)
+- [Aprendiendo Python.](https://www.reddit.com/r/Python/comments/11iiwzy/aprendiendo_python/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/11ihkjk/sunday_daily_thread_whats_everyone_working_on/)
+- [I need a tool to find out what deletions are in the two videos.](https://www.reddit.com/r/Python/comments/11ih1qk/i_need_a_tool_to_find_out_what_deletions_are_in/)
 - [VS Code Extension for real-time feedback with optional static typing](https://www.reddit.com/r/Python/comments/11iduyj/vs_code_extension_for_realtime_feedback_with/)
-- [sys Module in Python](https://www.reddit.com/r/Python/comments/11iauxx/sys_module_in_python/)
-- [Matrix filter using python &lpar;webcam input to Ascii&rpar;](https://www.reddit.com/r/Python/comments/11i92e9/matrix_filter_using_python_webcam_input_to_ascii/)
-- [Testing multiple Python versions with nox and pyenv](https://www.reddit.com/r/Python/comments/11i8yjw/testing_multiple_python_versions_with_nox_and/)
 <!-- BLOG-POST-LIST:END -->
