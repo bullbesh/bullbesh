@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first official package on pypi!](https://www.reddit.com/r/Python/comments/11jge3v/my_first_official_package_on_pypi/)
 - [Creating a Resume Automation Website with ChatGPT in 10 Minutes](https://www.reddit.com/r/Python/comments/11jetxj/creating_a_resume_automation_website_with_chatgpt/)
 - [Solving the Monty Hall Problem with Python!](https://www.reddit.com/r/Python/comments/11je2zt/solving_the_monty_hall_problem_with_python/)
 - [What are your thoughts on Ruff? Can it be integrated into our current Python projects to increase speed?](https://www.reddit.com/r/Python/comments/11jdyxr/what_are_your_thoughts_on_ruff_can_it_be/)
 - [Hey r/Python. I did a thing. Would love to get some feedback.](https://www.reddit.com/r/Python/comments/11jddxn/hey_rpython_i_did_a_thing_would_love_to_get_some/)
-- [An awesome python GUI: Vue3, Vite, and Eel](https://www.reddit.com/r/Python/comments/11jcufo/an_awesome_python_gui_vue3_vite_and_eel/)
 <!-- BLOG-POST-LIST:END -->
