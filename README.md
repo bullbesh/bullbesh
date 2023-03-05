@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Any python tutorials that are not just copying code?](https://www.reddit.com/r/Python/comments/11iz0t6/any_python_tutorials_that_are_not_just_copying/)
+- [How to Fine-Tune DeiT: Data-efficient Image Transformer](https://www.reddit.com/r/Python/comments/11j0m71/how_to_finetune_deit_dataefficient_image/)
 - [How do you manage malicious package security?](https://www.reddit.com/r/Python/comments/11iymqr/how_do_you_manage_malicious_package_security/)
 - [Is splitting of validation between setter method and some other method in python class bad practise?](https://www.reddit.com/r/Python/comments/11ivz5b/is_splitting_of_validation_between_setter_method/)
 - [a little help for a noob](https://www.reddit.com/r/Python/comments/11itll4/a_little_help_for_a_noob/)
