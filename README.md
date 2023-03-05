@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [__main__ module in Python](https://www.reddit.com/r/Python/comments/11ixa7f/main_module_in_python/)
 - [Is splitting of validation between setter method and some other method in python class bad practise?](https://www.reddit.com/r/Python/comments/11ivz5b/is_splitting_of_validation_between_setter_method/)
 - [a little help for a noob](https://www.reddit.com/r/Python/comments/11itll4/a_little_help_for_a_noob/)
 - [need a python buddy to interested in python learning from basics to advanced. and to do spme small python projects online](https://www.reddit.com/r/Python/comments/11it5t2/need_a_python_buddy_to_interested_in_python/)
 - [Build RESTful API with Flask and Python](https://www.reddit.com/r/Python/comments/11iq1rx/build_restful_api_with_flask_and_python/)
-- [Signals and Slots in PyQt6!](https://www.reddit.com/r/Python/comments/11imq7k/signals_and_slots_in_pyqt6/)
 <!-- BLOG-POST-LIST:END -->
