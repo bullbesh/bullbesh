@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Resume Automation Website with ChatGPT in 10 Minutes](https://www.reddit.com/r/Python/comments/11jetxj/creating_a_resume_automation_website_with_chatgpt/)
+- [Solving the Monty Hall Problem with Python!](https://www.reddit.com/r/Python/comments/11je2zt/solving_the_monty_hall_problem_with_python/)
 - [What are your thoughts on Ruff? Can it be integrated into our current Python projects to increase speed?](https://www.reddit.com/r/Python/comments/11jdyxr/what_are_your_thoughts_on_ruff_can_it_be/)
 - [Hey r/Python. I did a thing. Would love to get some feedback.](https://www.reddit.com/r/Python/comments/11jddxn/hey_rpython_i_did_a_thing_would_love_to_get_some/)
 - [An awesome python GUI: Vue3, Vite, and Eel](https://www.reddit.com/r/Python/comments/11jcufo/an_awesome_python_gui_vue3_vite_and_eel/)
-- [AI-Generated Mind Maps with the ChatGPT API in Python and Streamlit](https://www.reddit.com/r/Python/comments/11j93uv/aigenerated_mind_maps_with_the_chatgpt_api_in/)
-- [EZ-AppInstaller - A cli tool for windows to help install programs that don&#39;t come with an installer!](https://www.reddit.com/r/Python/comments/11j7tcu/ezappinstaller_a_cli_tool_for_windows_to_help/)
 <!-- BLOG-POST-LIST:END -->
