@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/11jiacw/monday_daily_thread_project_ideas/)
+- [Moving hot loops from Python to WASM won’t be feasible without this trick](https://www.reddit.com/r/Python/comments/11jhirp/moving_hot_loops_from_python_to_wasm_wont_be/)
+- [Python Packaging Explained](https://www.reddit.com/r/Python/comments/11jheds/python_packaging_explained/)
 - [My first official package on pypi!](https://www.reddit.com/r/Python/comments/11jge3v/my_first_official_package_on_pypi/)
 - [Creating a Resume Automation Website with ChatGPT in 10 Minutes](https://www.reddit.com/r/Python/comments/11jetxj/creating_a_resume_automation_website_with_chatgpt/)
-- [Solving the Monty Hall Problem with Python!](https://www.reddit.com/r/Python/comments/11je2zt/solving_the_monty_hall_problem_with_python/)
-- [What are your thoughts on Ruff? Can it be integrated into our current Python projects to increase speed?](https://www.reddit.com/r/Python/comments/11jdyxr/what_are_your_thoughts_on_ruff_can_it_be/)
-- [Hey r/Python. I did a thing. Would love to get some feedback.](https://www.reddit.com/r/Python/comments/11jddxn/hey_rpython_i_did_a_thing_would_love_to_get_some/)
 <!-- BLOG-POST-LIST:END -->
