@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Python still a relevant programming language to learn?](https://www.reddit.com/r/Python/comments/11jlul5/is_python_still_a_relevant_programming_language/)
+- [DTXT Alpha Release - Feedback is welcome](https://www.reddit.com/r/Python/comments/11jlp2g/dtxt_alpha_release_feedback_is_welcome/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/11jiacw/monday_daily_thread_project_ideas/)
 - [Moving hot loops from Python to WASM won’t be feasible without this trick](https://www.reddit.com/r/Python/comments/11jhirp/moving_hot_loops_from_python_to_wasm_wont_be/)
 - [Python Packaging Explained](https://www.reddit.com/r/Python/comments/11jheds/python_packaging_explained/)
-- [My first official package on pypi!](https://www.reddit.com/r/Python/comments/11jge3v/my_first_official_package_on_pypi/)
-- [Creating a Resume Automation Website with ChatGPT in 10 Minutes](https://www.reddit.com/r/Python/comments/11jetxj/creating_a_resume_automation_website_with_chatgpt/)
 <!-- BLOG-POST-LIST:END -->
