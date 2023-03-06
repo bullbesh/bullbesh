@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [streaming now: OpenAI&#39;s Codex to optimize code using python](https://www.reddit.com/r/Python/comments/11kcole/streaming_now_openais_codex_to_optimize_code/)
+- [Perl with Python? Turned out quite natural: alerting to Slack with Swatchdog](https://www.reddit.com/r/Python/comments/11kbvy3/perl_with_python_turned_out_quite_natural/)
+- [Tipe - typed pipe](https://www.reddit.com/r/Python/comments/11kbi1q/tipe_typed_pipe/)
+- [Streamlit App-A-Thon Contest 🏆](https://www.reddit.com/r/Python/comments/11kbd01/streamlit_appathon_contest/)
 - [Courses](https://www.reddit.com/r/Python/comments/11ka6q1/courses/)
-- [Best Beginner Tutorials &lpar;paid or free&rpar;?](https://www.reddit.com/r/Python/comments/11k93oq/best_beginner_tutorials_paid_or_free/)
-- [Python guilds to pandas and numpy](https://www.reddit.com/r/Python/comments/11k8y21/python_guilds_to_pandas_and_numpy/)
-- [Randint with variable](https://www.reddit.com/r/Python/comments/11k7wmc/randint_with_variable/)
-- [Relative beginner looking for a template project for inspiration.](https://www.reddit.com/r/Python/comments/11k6nvf/relative_beginner_looking_for_a_template_project/)
 <!-- BLOG-POST-LIST:END -->
