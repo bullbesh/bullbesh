@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic formula in excel sheet using python](https://www.reddit.com/r/Python/comments/11jongr/dynamic_formula_in_excel_sheet_using_python/)
 - [Pokémon](https://www.reddit.com/r/Python/comments/11jnwhs/pokémon/)
 - [Is Python still a relevant programming language to learn?](https://www.reddit.com/r/Python/comments/11jlul5/is_python_still_a_relevant_programming_language/)
 - [DTXT Alpha Release - Feedback is welcome](https://www.reddit.com/r/Python/comments/11jlp2g/dtxt_alpha_release_feedback_is_welcome/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/11jiacw/monday_daily_thread_project_ideas/)
-- [Moving hot loops from Python to WASM won’t be feasible without this trick](https://www.reddit.com/r/Python/comments/11jhirp/moving_hot_loops_from_python_to_wasm_wont_be/)
 <!-- BLOG-POST-LIST:END -->
