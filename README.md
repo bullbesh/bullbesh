@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pynecone or Anvil works?](https://www.reddit.com/r/Python/comments/11k457w/pynecone_or_anvil_works/)
+- [Installing Dependencies on its own](https://www.reddit.com/r/Python/comments/11k3wr0/installing_dependencies_on_its_own/)
 - [Beginner&#39;s Python Cheat Sheets](https://www.reddit.com/r/Python/comments/11k2pcs/beginners_python_cheat_sheets/)
 - [Do you plan to develop games using Python?](https://www.reddit.com/r/Python/comments/11k2h5b/do_you_plan_to_develop_games_using_python/)
 - [Un bot utilisant la dernière version de l’API chatGPT et Whisper](https://www.reddit.com/r/Python/comments/11k28ys/un_bot_utilisant_la_dernière_version_de_lapi/)
-- [I create a library that converts protocols into Pydantic models](https://www.reddit.com/r/Python/comments/11k283o/i_create_a_library_that_converts_protocols_into/)
-- [The Python on Microcontrollers Newsletter, a free weekly, no spam ever](https://www.reddit.com/r/Python/comments/11k0qf1/the_python_on_microcontrollers_newsletter_a_free/)
 <!-- BLOG-POST-LIST:END -->
