@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Randint with variable](https://www.reddit.com/r/Python/comments/11k7wmc/randint_with_variable/)
+- [Relative beginner looking for a template project for inspiration.](https://www.reddit.com/r/Python/comments/11k6nvf/relative_beginner_looking_for_a_template_project/)
 - [Pynecone or Anvil works?](https://www.reddit.com/r/Python/comments/11k457w/pynecone_or_anvil_works/)
 - [Installing Dependencies on its own](https://www.reddit.com/r/Python/comments/11k3wr0/installing_dependencies_on_its_own/)
 - [Beginner&#39;s Python Cheat Sheets](https://www.reddit.com/r/Python/comments/11k2pcs/beginners_python_cheat_sheets/)
-- [Do you plan to develop games using Python?](https://www.reddit.com/r/Python/comments/11k2h5b/do_you_plan_to_develop_games_using_python/)
-- [Un bot utilisant la dernière version de l’API chatGPT et Whisper](https://www.reddit.com/r/Python/comments/11k28ys/un_bot_utilisant_la_dernière_version_de_lapi/)
 <!-- BLOG-POST-LIST:END -->
