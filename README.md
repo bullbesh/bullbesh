@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [If you had to pick a library from another language &lpar;Rust, JS, etc.&rpar; that isn’t currently available in Python and have it instantly converted into Python for you to use, what would it be?](https://www.reddit.com/r/Python/comments/11kkvfo/if_you_had_to_pick_a_library_from_another/)
+- [1 WEEK TO GO: Register for Python Web Conf Today!](https://www.reddit.com/r/Python/comments/11kjz7z/1_week_to_go_register_for_python_web_conf_today/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/11kiq85/tuesday_daily_thread_advanced_questions/)
 - [Monorepo for Data Science projects in Python](https://www.reddit.com/r/Python/comments/11kgyel/monorepo_for_data_science_projects_in_python/)
 - [Introducing ItsPrompt: Prompting - the fancy way](https://www.reddit.com/r/Python/comments/11kfpzw/introducing_itsprompt_prompting_the_fancy_way/)
-- [A Deep Dive into the __new__&lpar;&rpar; Method in Python: Customizing Object Creation 4 Examples](https://www.reddit.com/r/Python/comments/11kek1e/a_deep_dive_into_the_new_method_in_python/)
-- [I made a pydantic token validation module! Check it out!](https://www.reddit.com/r/Python/comments/11ke48w/i_made_a_pydantic_token_validation_module_check/)
-- [txtai 5.4 released: prompt templates, conversational task chaining and HF Hub](https://www.reddit.com/r/Python/comments/11kcqj1/txtai_54_released_prompt_templates_conversational/)
 <!-- BLOG-POST-LIST:END -->
