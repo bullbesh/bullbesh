@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python data science to Java script](https://www.reddit.com/r/Python/comments/11lb83u/python_data_science_to_java_script/)
+- [beartype: It has documentation now. It only took two years, my last hair follicle, precious sanity points &lpar;SPs&rpar;, and working with Sphinx. Don&#39;t be like @leycec. Go hard on documentation early.](https://www.reddit.com/r/Python/comments/11lac7g/beartype_it_has_documentation_now_it_only_took/)
 - [Call ChatGPT from any text box &lpar;Linux only&rpar;](https://www.reddit.com/r/Python/comments/11l9t2e/call_chatgpt_from_any_text_box_linux_only/)
 - [Conceptual Programming - Mastering the Fundamentals of Coding &lpar;Variables&rpar;](https://www.reddit.com/r/Python/comments/11l9k3a/conceptual_programming_mastering_the_fundamentals/)
 - [Web Scraping - How to Avoid 401 Not Authorized Error](https://www.reddit.com/r/Python/comments/11l6mc9/web_scraping_how_to_avoid_401_not_authorized_error/)
-- [looking for a way of reading big data files into python without having to read the same file every time I run to debug](https://www.reddit.com/r/Python/comments/11l6iek/looking_for_a_way_of_reading_big_data_files_into/)
-- [Creating a cool website using Python](https://www.reddit.com/r/Python/comments/11l63vg/creating_a_cool_website_using_python/)
 <!-- BLOG-POST-LIST:END -->
