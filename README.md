@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Runtime autocompletion with Reloadium. The most reliable way to autocomplete Python code?](https://www.reddit.com/r/Python/comments/11kvblv/runtime_autocompletion_with_reloadium_the_most/)
+- [Want help in becoming a professional developer?](https://www.reddit.com/r/Python/comments/11kv6pb/want_help_in_becoming_a_professional_developer/)
 - [Getting Started with GitHub CLI](https://www.reddit.com/r/Python/comments/11ktqq7/getting_started_with_github_cli/)
 - [Boilerplate code templates?](https://www.reddit.com/r/Python/comments/11kt441/boilerplate_code_templates/)
 - [How to setup Python, PyEnv &amp; Poetry on Windows](https://www.reddit.com/r/Python/comments/11kt1xz/how_to_setup_python_pyenv_poetry_on_windows/)
-- [Guys I&#39;m facing 404 static files not found error while deploying a django app. It works fine in development server , I used render for the deployment.](https://www.reddit.com/r/Python/comments/11ks1oc/guys_im_facing_404_static_files_not_found_error/)
-- [PyQt signal tricks](https://www.reddit.com/r/Python/comments/11ks1hl/pyqt_signal_tricks/)
 <!-- BLOG-POST-LIST:END -->
