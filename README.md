@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mypy 1.1.1 Released](https://www.reddit.com/r/Python/comments/11kxeu5/mypy_111_released/)
+- [What are some useful standard libraries that you wish you had known earlier?](https://www.reddit.com/r/Python/comments/11kwy08/what_are_some_useful_standard_libraries_that_you/)
 - [Textual widget gallery](https://www.reddit.com/r/Python/comments/11kw6ev/textual_widget_gallery/)
 - [Runtime autocompletion with Reloadium. The most reliable way to autocomplete Python code?](https://www.reddit.com/r/Python/comments/11kvblv/runtime_autocompletion_with_reloadium_the_most/)
 - [Want help in becoming a professional developer?](https://www.reddit.com/r/Python/comments/11kv6pb/want_help_in_becoming_a_professional_developer/)
-- [Getting Started with GitHub CLI](https://www.reddit.com/r/Python/comments/11ktqq7/getting_started_with_github_cli/)
-- [Boilerplate code templates?](https://www.reddit.com/r/Python/comments/11kt441/boilerplate_code_templates/)
 <!-- BLOG-POST-LIST:END -->
