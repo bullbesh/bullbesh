@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python 3 behaviour &lpar;beginner&rpar;](https://www.reddit.com/r/Python/comments/11l1vrt/python_3_behaviour_beginner/)
-- [Guys, what other features can I add to my Python traffic sign recognition project to make it a bit more unique?](https://www.reddit.com/r/Python/comments/11l1tdn/guys_what_other_features_can_i_add_to_my_python/)
-- [I made a program to find and delete similar or identical images in Windows](https://www.reddit.com/r/Python/comments/11l0sh3/i_made_a_program_to_find_and_delete_similar_or/)
-- [A Programming game where you use Python to automate all kinds of machines, robots, drones and more and solve exciting bite-sized coding challenges &lpar;developer post&rpar;](https://www.reddit.com/r/Python/comments/11l0a09/a_programming_game_where_you_use_python_to/)
-- [Does anybody know how to style kivymd/kivy spinner options colour ?](https://www.reddit.com/r/Python/comments/11kzny7/does_anybody_know_how_to_style_kivymdkivy_spinner/)
+- [We tracked mentions of OpenAI, Bing, and Bard across social media to find out who&#39;s the most talked about in Silicon Valley](https://www.reddit.com/r/Python/comments/11l30gz/we_tracked_mentions_of_openai_bing_and_bard/)
+- [Hello friends, I recently started a YouTube channel and I will make videos about programming. I am going to make more and more interesting videos. I would be happy if you liked it and subscribe.](https://www.reddit.com/r/Python/comments/11l2ukc/hello_friends_i_recently_started_a_youtube/)
+- [ApiE: blueprint of a python/flask api for json objects](https://www.reddit.com/r/Python/comments/11l2omg/apie_blueprint_of_a_pythonflask_api_for_json/)
+- [Introduction to Knowledge Distillation with Keras](https://www.reddit.com/r/Python/comments/11l2i20/introduction_to_knowledge_distillation_with_keras/)
+- [Do you find it hard understanding other people&#39;s code and logic?](https://www.reddit.com/r/Python/comments/11l2h8q/do_you_find_it_hard_understanding_other_peoples/)
 <!-- BLOG-POST-LIST:END -->
