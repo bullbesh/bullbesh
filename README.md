@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [how should I learn python?](https://www.reddit.com/r/Python/comments/11kntst/how_should_i_learn_python/)
+- [Two different ways to write configuration files in Python](https://www.reddit.com/r/Python/comments/11knilb/two_different_ways_to_write_configuration_files/)
+- [python module paramiko](https://www.reddit.com/r/Python/comments/11kn7dx/python_module_paramiko/)
 - [Python is COOL](https://www.reddit.com/r/Python/comments/11kmp9q/python_is_cool/)
 - [Best place to find jobs as a freelancer](https://www.reddit.com/r/Python/comments/11kmfag/best_place_to_find_jobs_as_a_freelancer/)
-- [pyllama - I just published a python library for LLaMA with Single GPU inference code](https://www.reddit.com/r/Python/comments/11klkad/pyllama_i_just_published_a_python_library_for/)
-- [If you had to pick a library from another language &lpar;Rust, JS, etc.&rpar; that isn’t currently available in Python and have it instantly converted into Python for you to use, what would it be?](https://www.reddit.com/r/Python/comments/11kkvfo/if_you_had_to_pick_a_library_from_another/)
-- [1 WEEK TO GO: Register for Python Web Conf Today!](https://www.reddit.com/r/Python/comments/11kjz7z/1_week_to_go_register_for_python_web_conf_today/)
 <!-- BLOG-POST-LIST:END -->
