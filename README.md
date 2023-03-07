@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the furthest extent one can go in python?](https://www.reddit.com/r/Python/comments/11kp0wj/what_is_the_furthest_extent_one_can_go_in_python/)
 - [how should I learn python?](https://www.reddit.com/r/Python/comments/11kntst/how_should_i_learn_python/)
 - [Two different ways to write configuration files in Python](https://www.reddit.com/r/Python/comments/11knilb/two_different_ways_to_write_configuration_files/)
 - [python module paramiko](https://www.reddit.com/r/Python/comments/11kn7dx/python_module_paramiko/)
 - [Python is COOL](https://www.reddit.com/r/Python/comments/11kmp9q/python_is_cool/)
-- [Best place to find jobs as a freelancer](https://www.reddit.com/r/Python/comments/11kmfag/best_place_to_find_jobs_as_a_freelancer/)
 <!-- BLOG-POST-LIST:END -->
