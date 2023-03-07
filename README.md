@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Textual widget gallery](https://www.reddit.com/r/Python/comments/11kw6ev/textual_widget_gallery/)
 - [Runtime autocompletion with Reloadium. The most reliable way to autocomplete Python code?](https://www.reddit.com/r/Python/comments/11kvblv/runtime_autocompletion_with_reloadium_the_most/)
 - [Want help in becoming a professional developer?](https://www.reddit.com/r/Python/comments/11kv6pb/want_help_in_becoming_a_professional_developer/)
 - [Getting Started with GitHub CLI](https://www.reddit.com/r/Python/comments/11ktqq7/getting_started_with_github_cli/)
 - [Boilerplate code templates?](https://www.reddit.com/r/Python/comments/11kt441/boilerplate_code_templates/)
-- [How to setup Python, PyEnv &amp; Poetry on Windows](https://www.reddit.com/r/Python/comments/11kt1xz/how_to_setup_python_pyenv_poetry_on_windows/)
 <!-- BLOG-POST-LIST:END -->
