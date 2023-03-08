@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to de-duplicate a list in Python](https://www.reddit.com/r/Python/comments/11m8vve/how_to_deduplicate_a_list_in_python/)
+- [Is it not too late?](https://www.reddit.com/r/Python/comments/11m8tgp/is_it_not_too_late/)
 - [Using LLMs in a Streaming Context in Python](https://www.reddit.com/r/Python/comments/11m7ifm/using_llms_in_a_streaming_context_in_python/)
 - [Overhead of Python Asyncio tasks](https://www.reddit.com/r/Python/comments/11m4lha/overhead_of_python_asyncio_tasks/)
 - [RustPython](https://www.reddit.com/r/Python/comments/11m43r5/rustpython/)
-- [Building a ChatGPT-based AI Assistant with Python using OpenAI APIs](https://www.reddit.com/r/Python/comments/11m33b5/building_a_chatgptbased_ai_assistant_with_python/)
-- [Python is too good for me](https://www.reddit.com/r/Python/comments/11m2rtf/python_is_too_good_for_me/)
 <!-- BLOG-POST-LIST:END -->
