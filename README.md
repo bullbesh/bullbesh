@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Python to Cast Fullscreen Web Browser to TV](https://www.reddit.com/r/Python/comments/11lxj0y/using_python_to_cast_fullscreen_web_browser_to_tv/)
-- [Processing RAW &lpar;ARW&rpar; file](https://www.reddit.com/r/Python/comments/11lvfcq/processing_raw_arw_file/)
-- [Django REST Framework: Beginner&#39;s Guide](https://www.reddit.com/r/Python/comments/11lulgu/django_rest_framework_beginners_guide/)
-- [🚨🚨 New Awesome Polars List Release 🚨🚨 Check out the new additions to the list here !](https://www.reddit.com/r/Python/comments/11ltfxq/new_awesome_polars_list_release_check_out_the_new/)
-- [Documentation for COM support in pywin32](https://www.reddit.com/r/Python/comments/11lsvvs/documentation_for_com_support_in_pywin32/)
+- [I made a Finance Database with over 300.000 tickers to make Investment Decisions easier](https://www.reddit.com/r/Python/comments/11lyyzb/i_made_a_finance_database_with_over_300000/)
+- [Why my python shell is restarted every time I’m calling this recursive function. Python code I used and please share good and easy to grok resources of recursion in python. mucho gusto](https://www.reddit.com/r/Python/comments/11lynge/why_my_python_shell_is_restarted_every_time_im/)
+- [Prometheus Push Gateway and Python](https://www.reddit.com/r/Python/comments/11ly4d3/prometheus_push_gateway_and_python/)
+- [how to make your own PIP package?](https://www.reddit.com/r/Python/comments/11lxsg0/how_to_make_your_own_pip_package/)
+- [How to make your own PIP package?](https://www.reddit.com/r/Python/comments/11lxpt1/how_to_make_your_own_pip_package/)
 <!-- BLOG-POST-LIST:END -->
