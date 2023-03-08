@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [If you had to develop a game in Python, what engine and tools would you use?](https://www.reddit.com/r/Python/comments/11lrlfn/if_you_had_to_develop_a_game_in_python_what/)
 - [Data validation in Python: a look into Pandera and Great Expectations](https://www.reddit.com/r/Python/comments/11lprup/data_validation_in_python_a_look_into_pandera_and/)
 - [GitHub - odashi/davinci-functions: Library to ask OpenAI GPT for generating objects on the Python runtime.](https://www.reddit.com/r/Python/comments/11loqsg/github_odashidavincifunctions_library_to_ask/)
 - [Are your django webapps scalable?](https://www.reddit.com/r/Python/comments/11lnxwf/are_your_django_webapps_scalable/)
 - [Using Python with the ChatGPT API](https://www.reddit.com/r/Python/comments/11lkua4/using_python_with_the_chatgpt_api/)
-- [Bounded Zipf generator ported from Go](https://www.reddit.com/r/Python/comments/11lkt3m/bounded_zipf_generator_ported_from_go/)
 <!-- BLOG-POST-LIST:END -->
