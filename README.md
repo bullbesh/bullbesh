@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Python to Cast Fullscreen Web Browser to TV](https://www.reddit.com/r/Python/comments/11lxj0y/using_python_to_cast_fullscreen_web_browser_to_tv/)
 - [Processing RAW &lpar;ARW&rpar; file](https://www.reddit.com/r/Python/comments/11lvfcq/processing_raw_arw_file/)
 - [Django REST Framework: Beginner&#39;s Guide](https://www.reddit.com/r/Python/comments/11lulgu/django_rest_framework_beginners_guide/)
 - [🚨🚨 New Awesome Polars List Release 🚨🚨 Check out the new additions to the list here !](https://www.reddit.com/r/Python/comments/11ltfxq/new_awesome_polars_list_release_check_out_the_new/)
 - [Documentation for COM support in pywin32](https://www.reddit.com/r/Python/comments/11lsvvs/documentation_for_com_support_in_pywin32/)
-- [Company formed around Pydantic](https://www.reddit.com/r/Python/comments/11lsjgk/company_formed_around_pydantic/)
 <!-- BLOG-POST-LIST:END -->
