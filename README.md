@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [make your own youtube downloader](https://www.reddit.com/r/Python/comments/11lv126/make_your_own_youtube_downloader/)
+- [Processing RAW &lpar;ARW&rpar; file](https://www.reddit.com/r/Python/comments/11lvfcq/processing_raw_arw_file/)
 - [Django REST Framework: Beginner&#39;s Guide](https://www.reddit.com/r/Python/comments/11lulgu/django_rest_framework_beginners_guide/)
 - [🚨🚨 New Awesome Polars List Release 🚨🚨 Check out the new additions to the list here !](https://www.reddit.com/r/Python/comments/11ltfxq/new_awesome_polars_list_release_check_out_the_new/)
 - [Documentation for COM support in pywin32](https://www.reddit.com/r/Python/comments/11lsvvs/documentation_for_com_support_in_pywin32/)
