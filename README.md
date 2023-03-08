@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [tgbiofy came out of beta after an year - Show on your Telegram profile the song that you&#39;re listening to on Spotify](https://www.reddit.com/r/Python/comments/11lh7gu/tgbiofy_came_out_of_beta_after_an_year_show_on/)
+- [PyTekla - Python wrap around the Tekla Structures Open API](https://www.reddit.com/r/Python/comments/11lgjqd/pytekla_python_wrap_around_the_tekla_structures/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/11lg0t2/wednesday_daily_thread_beginner_questions/)
 - [Connecting to Snowflake by using Python](https://www.reddit.com/r/Python/comments/11lejqa/connecting_to_snowflake_by_using_python/)
 - [Regretting using pipenv for packaging a library](https://www.reddit.com/r/Python/comments/11lcko7/regretting_using_pipenv_for_packaging_a_library/)
-- [Python data science to Java script](https://www.reddit.com/r/Python/comments/11lb83u/python_data_science_to_java_script/)
-- [beartype: It has documentation now. It only took two years, my last hair follicle, precious sanity points &lpar;SPs&rpar;, and working with Sphinx. Don&#39;t be like @leycec. Go hard on documentation early.](https://www.reddit.com/r/Python/comments/11lac7g/beartype_it_has_documentation_now_it_only_took/)
-- [Conceptual Programming - Mastering the Fundamentals of Coding &lpar;Variables&rpar;](https://www.reddit.com/r/Python/comments/11l9k3a/conceptual_programming_mastering_the_fundamentals/)
 <!-- BLOG-POST-LIST:END -->
