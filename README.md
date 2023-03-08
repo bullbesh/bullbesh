@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Overhead of Python Asyncio tasks](https://www.reddit.com/r/Python/comments/11m4lha/overhead_of_python_asyncio_tasks/)
+- [RustPython](https://www.reddit.com/r/Python/comments/11m43r5/rustpython/)
 - [Building a ChatGPT-based AI Assistant with Python using OpenAI APIs](https://www.reddit.com/r/Python/comments/11m33b5/building_a_chatgptbased_ai_assistant_with_python/)
 - [Python is too good for me](https://www.reddit.com/r/Python/comments/11m2rtf/python_is_too_good_for_me/)
-- [How to find in list of dictionaries](https://www.reddit.com/r/Python/comments/11lzebp/how_to_find_in_list_of_dictionaries/)
 - [Dataframes as a backend?](https://www.reddit.com/r/Python/comments/11lzcrc/dataframes_as_a_backend/)
-- [I made a Finance Database with over 300.000 tickers to make Investment Decisions easier](https://www.reddit.com/r/Python/comments/11lyyzb/i_made_a_finance_database_with_over_300000/)
 <!-- BLOG-POST-LIST:END -->
