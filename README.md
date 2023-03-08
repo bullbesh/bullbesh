@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to find in list of dictionaries](https://www.reddit.com/r/Python/comments/11lzebp/how_to_find_in_list_of_dictionaries/)
+- [Dataframes as a backend?](https://www.reddit.com/r/Python/comments/11lzcrc/dataframes_as_a_backend/)
 - [I made a Finance Database with over 300.000 tickers to make Investment Decisions easier](https://www.reddit.com/r/Python/comments/11lyyzb/i_made_a_finance_database_with_over_300000/)
 - [Why my python shell is restarted every time I’m calling this recursive function. Python code I used and please share good and easy to grok resources of recursion in python. mucho gusto](https://www.reddit.com/r/Python/comments/11lynge/why_my_python_shell_is_restarted_every_time_im/)
 - [Prometheus Push Gateway and Python](https://www.reddit.com/r/Python/comments/11ly4d3/prometheus_push_gateway_and_python/)
-- [how to make your own PIP package?](https://www.reddit.com/r/Python/comments/11lxsg0/how_to_make_your_own_pip_package/)
-- [How to make your own PIP package?](https://www.reddit.com/r/Python/comments/11lxpt1/how_to_make_your_own_pip_package/)
 <!-- BLOG-POST-LIST:END -->
