@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Python with the ChatGPT API](https://www.reddit.com/r/Python/comments/11lkua4/using_python_with_the_chatgpt_api/)
+- [Bounded Zipf generator ported from Go](https://www.reddit.com/r/Python/comments/11lkt3m/bounded_zipf_generator_ported_from_go/)
 - [tgbiofy came out of beta after an year - Show on your Telegram profile the song that you&#39;re listening to on Spotify](https://www.reddit.com/r/Python/comments/11lh7gu/tgbiofy_came_out_of_beta_after_an_year_show_on/)
 - [PyTekla - Python wrap around the Tekla Structures Open API](https://www.reddit.com/r/Python/comments/11lgjqd/pytekla_python_wrap_around_the_tekla_structures/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/11lg0t2/wednesday_daily_thread_beginner_questions/)
-- [Connecting to Snowflake by using Python](https://www.reddit.com/r/Python/comments/11lejqa/connecting_to_snowflake_by_using_python/)
-- [beartype: It has documentation now. It only took two years, my last hair follicle, precious sanity points &lpar;SPs&rpar;, and working with Sphinx. Don&#39;t be like @leycec. Go hard on documentation early.](https://www.reddit.com/r/Python/comments/11lac7g/beartype_it_has_documentation_now_it_only_took/)
 <!-- BLOG-POST-LIST:END -->
