@@ -12,5 +12,5 @@
 - [PyTekla - Python wrap around the Tekla Structures Open API](https://www.reddit.com/r/Python/comments/11lgjqd/pytekla_python_wrap_around_the_tekla_structures/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/11lg0t2/wednesday_daily_thread_beginner_questions/)
 - [Connecting to Snowflake by using Python](https://www.reddit.com/r/Python/comments/11lejqa/connecting_to_snowflake_by_using_python/)
-- [Regretting using pipenv for packaging a library](https://www.reddit.com/r/Python/comments/11lcko7/regretting_using_pipenv_for_packaging_a_library/)
+- [beartype: It has documentation now. It only took two years, my last hair follicle, precious sanity points &lpar;SPs&rpar;, and working with Sphinx. Don&#39;t be like @leycec. Go hard on documentation early.](https://www.reddit.com/r/Python/comments/11lac7g/beartype_it_has_documentation_now_it_only_took/)
 <!-- BLOG-POST-LIST:END -->
