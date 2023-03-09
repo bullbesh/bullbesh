@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How can I deploy a full Tkinter app with database included?](https://www.reddit.com/r/Python/comments/11mfk3l/how_can_i_deploy_a_full_tkinter_app_with_database/)
 - [Python,c++ y JavaScript Daby#5559](https://www.reddit.com/r/Python/comments/11mdoep/pythonc_y_javascript_daby5559/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/11mcnzg/thursday_daily_thread_python_careers_courses_and/)
 - [How to de-duplicate a list in Python](https://www.reddit.com/r/Python/comments/11m8vve/how_to_deduplicate_a_list_in_python/)
 - [Using LLMs in a Streaming Context in Python](https://www.reddit.com/r/Python/comments/11m7ifm/using_llms_in_a_streaming_context_in_python/)
-- [Overhead of Python Asyncio tasks](https://www.reddit.com/r/Python/comments/11m4lha/overhead_of_python_asyncio_tasks/)
 <!-- BLOG-POST-LIST:END -->
