@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [iommi - your first pick for a Django power chord](https://www.reddit.com/r/Python/comments/11n0cha/iommi_your_first_pick_for_a_django_power_chord/)
+- [Can you break my Flask authentication system?](https://www.reddit.com/r/Python/comments/11n082u/can_you_break_my_flask_authentication_system/)
 - [Training Transformer Networks in Scikit-Learn?!](https://www.reddit.com/r/Python/comments/11mzd3p/training_transformer_networks_in_scikitlearn/)
 - [Weird decimal rounding](https://www.reddit.com/r/Python/comments/11myol5/weird_decimal_rounding/)
 - [qStore - Youtube as file storage](https://www.reddit.com/r/Python/comments/11my1tz/qstore_youtube_as_file_storage/)
-- [Pandas 2.0 is coming soon. Here is what&#39;s new.](https://www.reddit.com/r/Python/comments/11mwxox/pandas_20_is_coming_soon_here_is_whats_new/)
-- [Distributed Tracing guide](https://www.reddit.com/r/Python/comments/11mufw4/distributed_tracing_guide/)
 <!-- BLOG-POST-LIST:END -->
