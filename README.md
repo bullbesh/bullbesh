@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Training Transformer Networks in Scikit-Learn?!](https://www.reddit.com/r/Python/comments/11mzd3p/training_transformer_networks_in_scikitlearn/)
+- [Weird decimal rounding](https://www.reddit.com/r/Python/comments/11myol5/weird_decimal_rounding/)
+- [qStore - Youtube as file storage](https://www.reddit.com/r/Python/comments/11my1tz/qstore_youtube_as_file_storage/)
 - [Pandas 2.0 is coming soon. Here is what&#39;s new.](https://www.reddit.com/r/Python/comments/11mwxox/pandas_20_is_coming_soon_here_is_whats_new/)
-- [Data Science - Recruiters don&#39;t really care about your GPA, degrees or PHDs; the only thing that matters is what have you done in the past year that shows your passion &amp; dedication to the field? Keep that in mind if you&#39;re job-hunting 🏹 Attitude &gt; Competence](https://www.reddit.com/r/Python/comments/11mvg2t/data_science_recruiters_dont_really_care_about/)
 - [Distributed Tracing guide](https://www.reddit.com/r/Python/comments/11mufw4/distributed_tracing_guide/)
-- [I created Flask-Squeeze, it minifies and compresses responses so that your data transfers are as small as possible!](https://www.reddit.com/r/Python/comments/11ms54x/i_created_flasksqueeze_it_minifies_and_compresses/)
-- [Know How to Create and Visualize a Decision Tree with Python](https://www.reddit.com/r/Python/comments/11ms546/know_how_to_create_and_visualize_a_decision_tree/)
 <!-- BLOG-POST-LIST:END -->
