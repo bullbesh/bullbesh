@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created Flask-Squeeze, it minifies and compresses responses so that your data transfers are as small as possible!](https://www.reddit.com/r/Python/comments/11ms54x/i_created_flasksqueeze_it_minifies_and_compresses/)
+- [Know How to Create and Visualize a Decision Tree with Python](https://www.reddit.com/r/Python/comments/11ms546/know_how_to_create_and_visualize_a_decision_tree/)
+- [Python&#39;s Mutable vs Immutable Types: What&#39;s the Difference? – Real Python](https://www.reddit.com/r/Python/comments/11mrhad/pythons_mutable_vs_immutable_types_whats_the/)
 - [GitHub: A library for audio and music analysis, feature extraction.](https://www.reddit.com/r/Python/comments/11mqfew/github_a_library_for_audio_and_music_analysis/)
 - [can someone help me understand the pulp library and how to solve this problem](https://www.reddit.com/r/Python/comments/11mpbkq/can_someone_help_me_understand_the_pulp_library/)
-- [What is the best way to start studying python? &lpar;f21&rpar;](https://www.reddit.com/r/Python/comments/11mmdje/what_is_the_best_way_to_start_studying_python_f21/)
-- [Stlite - Streamlit running entirely in WebAssembly &lpar;using Pyodide&rpar;](https://www.reddit.com/r/Python/comments/11mke1g/stlite_streamlit_running_entirely_in_webassembly/)
-- [Becoming Python Backend Developer and gaining experience](https://www.reddit.com/r/Python/comments/11mjyy0/becoming_python_backend_developer_and_gaining/)
 <!-- BLOG-POST-LIST:END -->
