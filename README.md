@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the best way to start studying python? &lpar;f21&rpar;](https://www.reddit.com/r/Python/comments/11mmdje/what_is_the_best_way_to_start_studying_python_f21/)
 - [Stlite - Streamlit running entirely in WebAssembly &lpar;using Pyodide&rpar;](https://www.reddit.com/r/Python/comments/11mke1g/stlite_streamlit_running_entirely_in_webassembly/)
 - [Becoming Python Backend Developer and gaining experience](https://www.reddit.com/r/Python/comments/11mjyy0/becoming_python_backend_developer_and_gaining/)
 - [smb library](https://www.reddit.com/r/Python/comments/11mi055/smb_library/)
 - [Everything you need to know about merging dataframes](https://www.reddit.com/r/Python/comments/11mh5sw/everything_you_need_to_know_about_merging/)
-- [How can I deploy a full Tkinter app with database included?](https://www.reddit.com/r/Python/comments/11mfk3l/how_can_i_deploy_a_full_tkinter_app_with_database/)
 <!-- BLOG-POST-LIST:END -->
