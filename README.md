@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache Airflow Getting Started](https://www.reddit.com/r/Python/comments/11nzb5j/apache_airflow_getting_started/)
 - [Do you feel like your education prepped you in becoming a good programmer?](https://www.reddit.com/r/Python/comments/11nxfx3/do_you_feel_like_your_education_prepped_you_in/)
 - [How important is it to learn your debugging tools?](https://www.reddit.com/r/Python/comments/11nr5bh/how_important_is_it_to_learn_your_debugging_tools/)
 - [Released python module for imports modules in parent directories.](https://www.reddit.com/r/Python/comments/11npl20/released_python_module_for_imports_modules_in/)
 - [Python remote debugging on windows machines is now made easy!](https://www.reddit.com/r/Python/comments/11nod6t/python_remote_debugging_on_windows_machines_is/)
-- [heyoka.py 0.21 - ODE integration wth LLVM, now supporting multiprecision](https://www.reddit.com/r/Python/comments/11nj2g0/heyokapy_021_ode_integration_wth_llvm_now/)
 <!-- BLOG-POST-LIST:END -->
