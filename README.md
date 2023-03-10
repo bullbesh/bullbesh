@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [heyoka.py 0.21 - ODE integration wth LLVM, now supporting multiprecision](https://www.reddit.com/r/Python/comments/11nj2g0/heyokapy_021_ode_integration_wth_llvm_now/)
+- [GitHub - airtai/fastkafka: FastKafka is a powerful and easy-to-use Python library for building asynchronous web services that interact with Kafka topics. Built on top of Pydantic, AIOKafka and AsyncAPI, FastKafka simplifies the process of writing producers and consumers for Kafka topics.](https://www.reddit.com/r/Python/comments/11niru2/github_airtaifastkafka_fastkafka_is_a_powerful/)
+- [Is there some hidden genius in the handle-exception package that I&#39;m missing?](https://www.reddit.com/r/Python/comments/11niekp/is_there_some_hidden_genius_in_the/)
 - [How to learn Python and where to start for beginners?](https://www.reddit.com/r/Python/comments/11ne8fh/how_to_learn_python_and_where_to_start_for/)
 - [Pyfuck - A python to brainfuck translater](https://www.reddit.com/r/Python/comments/11nci0v/pyfuck_a_python_to_brainfuck_translater/)
-- [Hosting --- simple python sit, PySimpleGUIWeb](https://www.reddit.com/r/Python/comments/11n85lm/hosting_simple_python_sit_pysimpleguiweb/)
-- [Creosote - Identify unused dependencies and avoid a bloated virtual environment](https://www.reddit.com/r/Python/comments/11n717z/creosote_identify_unused_dependencies_and_avoid_a/)
-- [Overhead of Python Asyncio tasks](https://www.reddit.com/r/Python/comments/11n5wk8/overhead_of_python_asyncio_tasks/)
 <!-- BLOG-POST-LIST:END -->
