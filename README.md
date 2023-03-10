@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hosting --- simple python sit, PySimpleGUIWeb](https://www.reddit.com/r/Python/comments/11n85lm/hosting_simple_python_sit_pysimpleguiweb/)
 - [Creosote - Identify unused dependencies and avoid a bloated virtual environment](https://www.reddit.com/r/Python/comments/11n717z/creosote_identify_unused_dependencies_and_avoid_a/)
 - [Overhead of Python Asyncio tasks](https://www.reddit.com/r/Python/comments/11n5wk8/overhead_of_python_asyncio_tasks/)
 - [I used OpenAI&#39;s GPT model to create an SMS bot that has its own personality.](https://www.reddit.com/r/Python/comments/11n5m8r/i_used_openais_gpt_model_to_create_an_sms_bot/)
 - [Rayon in Rust vs Python Process and Thread Pools. Parallel data processing.](https://www.reddit.com/r/Python/comments/11n12ep/rayon_in_rust_vs_python_process_and_thread_pools/)
-- [iommi - your first pick for a Django power chord](https://www.reddit.com/r/Python/comments/11n0cha/iommi_your_first_pick_for_a_django_power_chord/)
 <!-- BLOG-POST-LIST:END -->
