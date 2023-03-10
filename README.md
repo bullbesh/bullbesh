@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How important is it to learn your debugging tools?](https://www.reddit.com/r/Python/comments/11nr5bh/how_important_is_it_to_learn_your_debugging_tools/)
+- [Hey community , is there any alternatives for Chat GPT API ?](https://www.reddit.com/r/Python/comments/11nqrzs/hey_community_is_there_any_alternatives_for_chat/)
 - [Released python module for imports modules in parent directories.](https://www.reddit.com/r/Python/comments/11npl20/released_python_module_for_imports_modules_in/)
 - [Python library for audio and music analysis - A post that was misjudged spam before](https://www.reddit.com/r/Python/comments/11npgrd/python_library_for_audio_and_music_analysis_a/)
 - [Python remote debugging on windows machines is now made easy!](https://www.reddit.com/r/Python/comments/11nod6t/python_remote_debugging_on_windows_machines_is/)
-- [Help with ABC Formula Python code](https://www.reddit.com/r/Python/comments/11nlj7q/help_with_abc_formula_python_code/)
-- [How to use python to upload data into SQL Server Database](https://www.reddit.com/r/Python/comments/11nl8vu/how_to_use_python_to_upload_data_into_sql_server/)
 <!-- BLOG-POST-LIST:END -->
