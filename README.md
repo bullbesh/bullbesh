@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [A tutorial to ChinesePython beginners - learning Chinese with code](https://www.reddit.com/r/Python/comments/11o248v/a_tutorial_to_chinesepython_beginners_learning/)
+- [PSA: conda-libmamba-solver can cut two hours off of your Anaconda install, but has only 47 GitHub stars. It deserves more praise.](https://www.reddit.com/r/Python/comments/11o3n76/psa_condalibmambasolver_can_cut_two_hours_off_of/)
 - [docker-compose-diagram 🐳🎨 - create diagram of your docker-compose file](https://www.reddit.com/r/Python/comments/11o002j/dockercomposediagram_create_diagram_of_your/)
 - [Apache Airflow Getting Started](https://www.reddit.com/r/Python/comments/11nzb5j/apache_airflow_getting_started/)
 - [Do you feel like your education prepped you in becoming a good programmer?](https://www.reddit.com/r/Python/comments/11nxfx3/do_you_feel_like_your_education_prepped_you_in/)
