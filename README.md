@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [PSA: conda-libmamba-solver can cut two hours off of your Anaconda install, but has only 47 GitHub stars. It deserves more praise.](https://www.reddit.com/r/Python/comments/11o3n76/psa_condalibmambasolver_can_cut_two_hours_off_of/)
-- [docker-compose-diagram 🐳🎨 - create diagram of your docker-compose file](https://www.reddit.com/r/Python/comments/11o002j/dockercomposediagram_create_diagram_of_your/)
-- [Apache Airflow Getting Started](https://www.reddit.com/r/Python/comments/11nzb5j/apache_airflow_getting_started/)
-- [Do you feel like your education prepped you in becoming a good programmer?](https://www.reddit.com/r/Python/comments/11nxfx3/do_you_feel_like_your_education_prepped_you_in/)
-- [Released python module for imports modules in parent directories.](https://www.reddit.com/r/Python/comments/11npl20/released_python_module_for_imports_modules_in/)
+- [Program is converting a list into an int somewhere in my code](https://www.reddit.com/r/Python/comments/11o69lp/program_is_converting_a_list_into_an_int/)
+- [pip install openfrom](https://www.reddit.com/r/Python/comments/11o5rvs/pip_install_openfrom/)
+- [Config management for deep learning](https://www.reddit.com/r/Python/comments/11o5a6m/config_management_for_deep_learning/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/11o54ib/saturday_daily_thread_resource_request_and/)
+- [12 Python Decorators To Take Your Code To The Next Level](https://www.reddit.com/r/Python/comments/11o4bs5/12_python_decorators_to_take_your_code_to_the/)
 <!-- BLOG-POST-LIST:END -->
