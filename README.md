@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn Python](https://www.reddit.com/r/Python/comments/11os7ct/learn_python/)
+- [Python Declarative UI Framework](https://www.reddit.com/r/Python/comments/11otvzf/python_declarative_ui_framework/)
+- [IndexError: single positional indexer is out-of-bounds](https://www.reddit.com/r/Python/comments/11osiy1/indexerror_single_positional_indexer_is/)
 - [I wrote an article about Pandas Extension types with an example of how to create your own. Thought it might be useful here!](https://www.reddit.com/r/Python/comments/11orcv0/i_wrote_an_article_about_pandas_extension_types/)
 - [Near-Earth Objects &amp; Asteroids: Some space science](https://www.reddit.com/r/Python/comments/11or701/nearearth_objects_asteroids_some_space_science/)
 - [snscrape module](https://www.reddit.com/r/Python/comments/11oqog5/snscrape_module/)
-- [Please break my HTML minifier](https://www.reddit.com/r/Python/comments/11oqhtn/please_break_my_html_minifier/)
 <!-- BLOG-POST-LIST:END -->
