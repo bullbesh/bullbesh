@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made Flask-Squeeze 2.0, it squeezes responeses with minification and compression!](https://www.reddit.com/r/Python/comments/11okzqb/i_made_flasksqueeze_20_it_squeezes_responeses/)
+- [Fibonacci Stack and Queue](https://www.reddit.com/r/Python/comments/11okl38/fibonacci_stack_and_queue/)
 - [SayIt: a simple text-to-speech CLI app](https://www.reddit.com/r/Python/comments/11ojkb4/sayit_a_simple_texttospeech_cli_app/)
 - [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/11ohb9e/python_cybersecurity_build_your_own_python_tools/)
 - [[GlassJar] Stores records as Python objects in the database!](https://www.reddit.com/r/Python/comments/11oh9jc/glassjar_stores_records_as_python_objects_in_the/)
-- [Other cool python feature recommendations](https://www.reddit.com/r/Python/comments/11odpcf/other_cool_python_feature_recommendations/)
-- [Cake Day - 1st Job](https://www.reddit.com/r/Python/comments/11o91ik/cake_day_1st_job/)
 <!-- BLOG-POST-LIST:END -->
