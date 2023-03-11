@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SayIt: a simple text-to-speech CLI app](https://www.reddit.com/r/Python/comments/11ojkb4/sayit_a_simple_texttospeech_cli_app/)
 - [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/11ohb9e/python_cybersecurity_build_your_own_python_tools/)
 - [[GlassJar] Stores records as Python objects in the database!](https://www.reddit.com/r/Python/comments/11oh9jc/glassjar_stores_records_as_python_objects_in_the/)
 - [Other cool python feature recommendations](https://www.reddit.com/r/Python/comments/11odpcf/other_cool_python_feature_recommendations/)
 - [Cake Day - 1st Job](https://www.reddit.com/r/Python/comments/11o91ik/cake_day_1st_job/)
-- [pip install openfrom](https://www.reddit.com/r/Python/comments/11o5rvs/pip_install_openfrom/)
 <!-- BLOG-POST-LIST:END -->
