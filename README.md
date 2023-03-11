@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Cake Day - 1st Job](https://www.reddit.com/r/Python/comments/11o91ik/cake_day_1st_job/)
-- [Pyzbar](https://www.reddit.com/r/Python/comments/11o7mdz/pyzbar/)
 - [pip install openfrom](https://www.reddit.com/r/Python/comments/11o5rvs/pip_install_openfrom/)
 - [Config management for deep learning](https://www.reddit.com/r/Python/comments/11o5a6m/config_management_for_deep_learning/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/11o54ib/saturday_daily_thread_resource_request_and/)
+- [PSA: conda-libmamba-solver can cut two hours off of your Anaconda install, but has only 47 GitHub stars. It deserves more praise.](https://www.reddit.com/r/Python/comments/11o3n76/psa_condalibmambasolver_can_cut_two_hours_off_of/)
 <!-- BLOG-POST-LIST:END -->
