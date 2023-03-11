@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pyzbar](https://www.reddit.com/r/Python/comments/11o7mdz/pyzbar/)
 - [Program is converting a list into an int somewhere in my code](https://www.reddit.com/r/Python/comments/11o69lp/program_is_converting_a_list_into_an_int/)
 - [pip install openfrom](https://www.reddit.com/r/Python/comments/11o5rvs/pip_install_openfrom/)
 - [Config management for deep learning](https://www.reddit.com/r/Python/comments/11o5a6m/config_management_for_deep_learning/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/11o54ib/saturday_daily_thread_resource_request_and/)
-- [12 Python Decorators To Take Your Code To The Next Level](https://www.reddit.com/r/Python/comments/11o4bs5/12_python_decorators_to_take_your_code_to_the/)
 <!-- BLOG-POST-LIST:END -->
