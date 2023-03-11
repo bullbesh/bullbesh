@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python](https://www.reddit.com/r/Python/comments/11os7ct/learn_python/)
+- [I wrote an article about Pandas Extension types with an example of how to create your own. Thought it might be useful here!](https://www.reddit.com/r/Python/comments/11orcv0/i_wrote_an_article_about_pandas_extension_types/)
+- [Near-Earth Objects &amp; Asteroids: Some space science](https://www.reddit.com/r/Python/comments/11or701/nearearth_objects_asteroids_some_space_science/)
 - [snscrape module](https://www.reddit.com/r/Python/comments/11oqog5/snscrape_module/)
 - [Please break my HTML minifier](https://www.reddit.com/r/Python/comments/11oqhtn/please_break_my_html_minifier/)
-- [How to debug complex tool chains?](https://www.reddit.com/r/Python/comments/11omjc1/how_to_debug_complex_tool_chains/)
-- [Easy Python scripts to impress the business](https://www.reddit.com/r/Python/comments/11olib6/easy_python_scripts_to_impress_the_business/)
-- [New book available: Python GUI - Develop Cross Platform Desktop Applications using Python, Qt and PySide6](https://www.reddit.com/r/Python/comments/11ola58/new_book_available_python_gui_develop_cross/)
 <!-- BLOG-POST-LIST:END -->
