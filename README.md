@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cake Day - 1st Job](https://www.reddit.com/r/Python/comments/11o91ik/cake_day_1st_job/)
 - [Pyzbar](https://www.reddit.com/r/Python/comments/11o7mdz/pyzbar/)
-- [Program is converting a list into an int somewhere in my code](https://www.reddit.com/r/Python/comments/11o69lp/program_is_converting_a_list_into_an_int/)
 - [pip install openfrom](https://www.reddit.com/r/Python/comments/11o5rvs/pip_install_openfrom/)
 - [Config management for deep learning](https://www.reddit.com/r/Python/comments/11o5a6m/config_management_for_deep_learning/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/11o54ib/saturday_daily_thread_resource_request_and/)
