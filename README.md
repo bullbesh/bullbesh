@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best practices for caching data between runs &lpar;non-local library&rpar;?](https://www.reddit.com/r/Python/comments/11po5eq/best_practices_for_caching_data_between_runs/)
 - [How virtual environments work](https://www.reddit.com/r/Python/comments/11pmy0v/how_virtual_environments_work/)
 - [can you create your own program language in python, if yes how?](https://www.reddit.com/r/Python/comments/11pli6k/can_you_create_your_own_program_language_in/)
 - [First steps into Python &lpar;again!&rpar; with VSCode](https://www.reddit.com/r/Python/comments/11pjzm0/first_steps_into_python_again_with_vscode/)
 - [Why Python keeps growing, explained](https://www.reddit.com/r/Python/comments/11pice9/why_python_keeps_growing_explained/)
-- [Can we expand on the usage of the walrus operator?](https://www.reddit.com/r/Python/comments/11phtui/can_we_expand_on_the_usage_of_the_walrus_operator/)
 <!-- BLOG-POST-LIST:END -->
