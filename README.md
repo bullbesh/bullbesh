@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best places/ways to learn APIs for career progression?](https://www.reddit.com/r/Python/comments/11p4fd0/best_placesways_to_learn_apis_for_career/)
+- [« PhoneScan » find information of unknown phone number.](https://www.reddit.com/r/Python/comments/11p43ah/phonescan_find_information_of_unknown_phone_number/)
 - [Tutorial: Daily scheduled Python app that adds stock prices to Airtable](https://www.reddit.com/r/Python/comments/11p21pa/tutorial_daily_scheduled_python_app_that_adds/)
 - [Matplotlib showing close but incorrect plot?](https://www.reddit.com/r/Python/comments/11p1ncc/matplotlib_showing_close_but_incorrect_plot/)
 - [How to fix the format](https://www.reddit.com/r/Python/comments/11p119h/how_to_fix_the_format/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/11ozevp/sunday_daily_thread_whats_everyone_working_on/)
-- [Web Scraping Google News Using Python](https://www.reddit.com/r/Python/comments/11ov19i/web_scraping_google_news_using_python/)
 <!-- BLOG-POST-LIST:END -->
