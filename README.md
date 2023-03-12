@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial: Daily scheduled Python app that adds stock prices to Airtable](https://www.reddit.com/r/Python/comments/11p21pa/tutorial_daily_scheduled_python_app_that_adds/)
 - [Matplotlib showing close but incorrect plot?](https://www.reddit.com/r/Python/comments/11p1ncc/matplotlib_showing_close_but_incorrect_plot/)
 - [How to fix the format](https://www.reddit.com/r/Python/comments/11p119h/how_to_fix_the_format/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/11ozevp/sunday_daily_thread_whats_everyone_working_on/)
 - [Web Scraping Google News Using Python](https://www.reddit.com/r/Python/comments/11ov19i/web_scraping_google_news_using_python/)
-- [Python Declarative UI Framework](https://www.reddit.com/r/Python/comments/11otvzf/python_declarative_ui_framework/)
 <!-- BLOG-POST-LIST:END -->
