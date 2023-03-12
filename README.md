@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Parser combinator in Python](https://www.reddit.com/r/Python/comments/11pfh05/parser_combinator_in_python/)
+- [Is something wrong with FastAPI?](https://www.reddit.com/r/Python/comments/11pfgjo/is_something_wrong_with_fastapi/)
+- [StructIO: Library for unpacking and packing binary files](https://www.reddit.com/r/Python/comments/11per16/structio_library_for_unpacking_and_packing_binary/)
 - [Trying to solve The Collatz Conjecture with python](https://www.reddit.com/r/Python/comments/11pe3qf/trying_to_solve_the_collatz_conjecture_with_python/)
 - [Godot Fast Android Export](https://www.reddit.com/r/Python/comments/11pe06l/godot_fast_android_export/)
-- [How to calculate GPT-3 API call costs using python?](https://www.reddit.com/r/Python/comments/11pc8pr/how_to_calculate_gpt3_api_call_costs_using_python/)
-- [Netmeasure - measure Internet connection quality](https://www.reddit.com/r/Python/comments/11pbn4k/netmeasure_measure_internet_connection_quality/)
-- [FastKafka - free open source python lib for building Kafka-based services](https://www.reddit.com/r/Python/comments/11paz9u/fastkafka_free_open_source_python_lib_for/)
 <!-- BLOG-POST-LIST:END -->
