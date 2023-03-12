@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [can you create your own program language in python, if yes how?](https://www.reddit.com/r/Python/comments/11pli6k/can_you_create_your_own_program_language_in/)
+- [First steps into Python &lpar;again!&rpar; with VSCode](https://www.reddit.com/r/Python/comments/11pjzm0/first_steps_into_python_again_with_vscode/)
 - [Why Python keeps growing, explained](https://www.reddit.com/r/Python/comments/11pice9/why_python_keeps_growing_explained/)
 - [Can we expand on the usage of the walrus operator?](https://www.reddit.com/r/Python/comments/11phtui/can_we_expand_on_the_usage_of_the_walrus_operator/)
 - [Python and KIVY for reading info from micro-controller](https://www.reddit.com/r/Python/comments/11phabb/python_and_kivy_for_reading_info_from/)
-- [Parser combinator in Python](https://www.reddit.com/r/Python/comments/11pfh05/parser_combinator_in_python/)
-- [Is something wrong with FastAPI?](https://www.reddit.com/r/Python/comments/11pfgjo/is_something_wrong_with_fastapi/)
 <!-- BLOG-POST-LIST:END -->
