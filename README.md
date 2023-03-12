@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Python keeps growing, explained](https://www.reddit.com/r/Python/comments/11pice9/why_python_keeps_growing_explained/)
+- [Can we expand on the usage of the walrus operator?](https://www.reddit.com/r/Python/comments/11phtui/can_we_expand_on_the_usage_of_the_walrus_operator/)
+- [Python and KIVY for reading info from micro-controller](https://www.reddit.com/r/Python/comments/11phabb/python_and_kivy_for_reading_info_from/)
 - [Parser combinator in Python](https://www.reddit.com/r/Python/comments/11pfh05/parser_combinator_in_python/)
 - [Is something wrong with FastAPI?](https://www.reddit.com/r/Python/comments/11pfgjo/is_something_wrong_with_fastapi/)
-- [StructIO: Library for unpacking and packing binary files](https://www.reddit.com/r/Python/comments/11per16/structio_library_for_unpacking_and_packing_binary/)
-- [Trying to solve The Collatz Conjecture with python](https://www.reddit.com/r/Python/comments/11pe3qf/trying_to_solve_the_collatz_conjecture_with_python/)
-- [Godot Fast Android Export](https://www.reddit.com/r/Python/comments/11pe06l/godot_fast_android_export/)
 <!-- BLOG-POST-LIST:END -->
