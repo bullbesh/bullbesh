@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to run a Python Flask server inside a readonly Docker container](https://www.reddit.com/r/Python/comments/11q3yuw/how_to_run_a_python_flask_server_inside_a/)
+- [Create your Marketing Mix Model &lpar;MMM&rpar; in 5 Minutes for FREE and train it in Cloud](https://www.reddit.com/r/Python/comments/11q3lro/create_your_marketing_mix_model_mmm_in_5_minutes/)
 - [How do you research for bugs/issues solutions?](https://www.reddit.com/r/Python/comments/11q16io/how_do_you_research_for_bugsissues_solutions/)
 - [procedurally generated fantasy names](https://www.reddit.com/r/Python/comments/11pzdej/procedurally_generated_fantasy_names/)
 - [Need Guidance on Python Script](https://www.reddit.com/r/Python/comments/11pv6om/need_guidance_on_python_script/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/11pu7bv/monday_daily_thread_project_ideas/)
-- [Best practices for caching data between runs &lpar;non-local library&rpar;?](https://www.reddit.com/r/Python/comments/11po5eq/best_practices_for_caching_data_between_runs/)
 <!-- BLOG-POST-LIST:END -->
