@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [code: performance vs. readability](https://www.reddit.com/r/Python/comments/11qim3q/code_performance_vs_readability/)
+- [Flask or Django for a Hyper-V Manager?](https://www.reddit.com/r/Python/comments/11qh8ed/flask_or_django_for_a_hyperv_manager/)
 - [Lusbir: an alternative conception of integer ranges](https://www.reddit.com/r/Python/comments/11qgztq/lusbir_an_alternative_conception_of_integer_ranges/)
 - [Why can&#39;t Python/mypy type hint functions outside the function defintion?](https://www.reddit.com/r/Python/comments/11qf1ea/why_cant_pythonmypy_type_hint_functions_outside/)
 - [Asks the Textualize developers anything](https://www.reddit.com/r/Python/comments/11qe2uv/asks_the_textualize_developers_anything/)
-- [Paperback version of my book Develop Cross Platform Desktop Applications using Python, Qt and PySide6 now also available](https://www.reddit.com/r/Python/comments/11qdb2y/paperback_version_of_my_book_develop_cross/)
-- [What is more readable for people and more Pythonic](https://www.reddit.com/r/Python/comments/11qcp01/what_is_more_readable_for_people_and_more_pythonic/)
 <!-- BLOG-POST-LIST:END -->
