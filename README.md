@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Save arbitrary files on YouTube persistently!](https://www.reddit.com/r/Python/comments/11qcdxg/save_arbitrary_files_on_youtube_persistently/)
+- [Introducing 🌀 Ciclo: A functional training loops library for JAX](https://www.reddit.com/r/Python/comments/11qbiqr/introducing_ciclo_a_functional_training_loops/)
+- [Check out Codon: A Python compiler if you have a need for C/C speed](https://www.reddit.com/r/Python/comments/11qb8wx/check_out_codon_a_python_compiler_if_you_have_a/)
 - [I made a CLI to streamline Ethical Hacking workflow](https://www.reddit.com/r/Python/comments/11q8vbh/i_made_a_cli_to_streamline_ethical_hacking/)
 - [i created a new programing language that run on python](https://www.reddit.com/r/Python/comments/11q8gq0/i_created_a_new_programing_language_that_run_on/)
-- [What are the good sources to learn machine learning in Python??](https://www.reddit.com/r/Python/comments/11q64a0/what_are_the_good_sources_to_learn_machine/)
-- [How to run a Python Flask server inside a readonly Docker container](https://www.reddit.com/r/Python/comments/11q3yuw/how_to_run_a_python_flask_server_inside_a/)
-- [Create your Marketing Mix Model &lpar;MMM&rpar; in 5 Minutes for FREE and train it in Cloud](https://www.reddit.com/r/Python/comments/11q3lro/create_your_marketing_mix_model_mmm_in_5_minutes/)
 <!-- BLOG-POST-LIST:END -->
