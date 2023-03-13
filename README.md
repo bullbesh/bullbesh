@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need Guidance on Python Script](https://www.reddit.com/r/Python/comments/11pv6om/need_guidance_on_python_script/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/11pu7bv/monday_daily_thread_project_ideas/)
 - [A Reddit discount on my Python course for beginners](https://www.reddit.com/r/Python/comments/11poti2/a_reddit_discount_on_my_python_course_for/)
 - [Best practices for caching data between runs &lpar;non-local library&rpar;?](https://www.reddit.com/r/Python/comments/11po5eq/best_practices_for_caching_data_between_runs/)
 - [How virtual environments work](https://www.reddit.com/r/Python/comments/11pmy0v/how_virtual_environments_work/)
-- [can you create your own program language in python, if yes how?](https://www.reddit.com/r/Python/comments/11pli6k/can_you_create_your_own_program_language_in/)
-- [First steps into Python &lpar;again!&rpar; with VSCode](https://www.reddit.com/r/Python/comments/11pjzm0/first_steps_into_python_again_with_vscode/)
 <!-- BLOG-POST-LIST:END -->
