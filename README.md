@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Question: Is there a way of using python functions within Excel/a spreadsheet, rather than VBA?](https://www.reddit.com/r/Python/comments/11qjojt/question_is_there_a_way_of_using_python_functions/)
+- [Anyone see a danger in allowing wild west rules for &#39; vs &quot; in strings?](https://www.reddit.com/r/Python/comments/11qjml6/anyone_see_a_danger_in_allowing_wild_west_rules/)
+- [Freeflow - A Discord server to find developer communities with job boards! Welcoming the Python community 🚀](https://www.reddit.com/r/Python/comments/11qj8mr/freeflow_a_discord_server_to_find_developer/)
 - [code: performance vs. readability](https://www.reddit.com/r/Python/comments/11qim3q/code_performance_vs_readability/)
 - [Flask or Django for a Hyper-V Manager?](https://www.reddit.com/r/Python/comments/11qh8ed/flask_or_django_for_a_hyperv_manager/)
-- [Lusbir: an alternative conception of integer ranges](https://www.reddit.com/r/Python/comments/11qgztq/lusbir_an_alternative_conception_of_integer_ranges/)
-- [Why can&#39;t Python/mypy type hint functions outside the function defintion?](https://www.reddit.com/r/Python/comments/11qf1ea/why_cant_pythonmypy_type_hint_functions_outside/)
-- [Asks the Textualize developers anything](https://www.reddit.com/r/Python/comments/11qe2uv/asks_the_textualize_developers_anything/)
 <!-- BLOG-POST-LIST:END -->
