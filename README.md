@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do y’all go about with problem solving?](https://www.reddit.com/r/Python/comments/11qfbvf/how_do_yall_go_about_with_problem_solving/)
+- [Use chatgpt to generate code that runs](https://www.reddit.com/r/Python/comments/11qf7bm/use_chatgpt_to_generate_code_that_runs/)
+- [Why can&#39;t Python/mypy type hint functions outside the function defintion?](https://www.reddit.com/r/Python/comments/11qf1ea/why_cant_pythonmypy_type_hint_functions_outside/)
 - [Asks the Textualize developers anything](https://www.reddit.com/r/Python/comments/11qe2uv/asks_the_textualize_developers_anything/)
 - [Paperback version of my book Develop Cross Platform Desktop Applications using Python, Qt and PySide6 now also available](https://www.reddit.com/r/Python/comments/11qdb2y/paperback_version_of_my_book_develop_cross/)
-- [What is more readable for people and more Pythonic](https://www.reddit.com/r/Python/comments/11qcp01/what_is_more_readable_for_people_and_more_pythonic/)
-- [Save arbitrary files on YouTube persistently!](https://www.reddit.com/r/Python/comments/11qcdxg/save_arbitrary_files_on_youtube_persistently/)
-- [Introducing 🌀 Ciclo: A functional training loops library for JAX](https://www.reddit.com/r/Python/comments/11qbiqr/introducing_ciclo_a_functional_training_loops/)
 <!-- BLOG-POST-LIST:END -->
