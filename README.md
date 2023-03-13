@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Asks the Textualize developers anything](https://www.reddit.com/r/Python/comments/11qe2uv/asks_the_textualize_developers_anything/)
+- [Paperback version of my book Develop Cross Platform Desktop Applications using Python, Qt and PySide6 now also available](https://www.reddit.com/r/Python/comments/11qdb2y/paperback_version_of_my_book_develop_cross/)
+- [What is more readable for people and more Pythonic](https://www.reddit.com/r/Python/comments/11qcp01/what_is_more_readable_for_people_and_more_pythonic/)
 - [Save arbitrary files on YouTube persistently!](https://www.reddit.com/r/Python/comments/11qcdxg/save_arbitrary_files_on_youtube_persistently/)
 - [Introducing 🌀 Ciclo: A functional training loops library for JAX](https://www.reddit.com/r/Python/comments/11qbiqr/introducing_ciclo_a_functional_training_loops/)
-- [Check out Codon: A Python compiler if you have a need for C/C speed](https://www.reddit.com/r/Python/comments/11qb8wx/check_out_codon_a_python_compiler_if_you_have_a/)
-- [I made a CLI to streamline Ethical Hacking workflow](https://www.reddit.com/r/Python/comments/11q8vbh/i_made_a_cli_to_streamline_ethical_hacking/)
-- [i created a new programing language that run on python](https://www.reddit.com/r/Python/comments/11q8gq0/i_created_a_new_programing_language_that_run_on/)
 <!-- BLOG-POST-LIST:END -->
