@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python News: What&#39;s New From February 2023 – Real Python](https://www.reddit.com/r/Python/comments/11r59z6/python_news_whats_new_from_february_2023_real/)
 - [I made a simple random password generator](https://www.reddit.com/r/Python/comments/11r45rj/i_made_a_simple_random_password_generator/)
 - [What is the best interactive learning tool?](https://www.reddit.com/r/Python/comments/11qz29n/what_is_the_best_interactive_learning_tool/)
 - [Many rows -&gt; kernel died](https://www.reddit.com/r/Python/comments/11qyuex/many_rows_kernel_died/)
 - [reddit downloader in python](https://www.reddit.com/r/Python/comments/11qyo4z/reddit_downloader_in_python/)
-- [ChatGPT int the Terminal!](https://www.reddit.com/r/Python/comments/11qwe1a/chatgpt_int_the_terminal/)
 <!-- BLOG-POST-LIST:END -->
