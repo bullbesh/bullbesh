@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the best interactive learning tool?](https://www.reddit.com/r/Python/comments/11qz29n/what_is_the_best_interactive_learning_tool/)
+- [Many rows -&gt; kernel died](https://www.reddit.com/r/Python/comments/11qyuex/many_rows_kernel_died/)
+- [reddit downloader in python](https://www.reddit.com/r/Python/comments/11qyo4z/reddit_downloader_in_python/)
 - [Code not able to execute.](https://www.reddit.com/r/Python/comments/11qx754/code_not_able_to_execute/)
 - [ChatGPT int the Terminal!](https://www.reddit.com/r/Python/comments/11qwe1a/chatgpt_int_the_terminal/)
-- [QCheckBox and QComboBox in PyQt6!](https://www.reddit.com/r/Python/comments/11qttm4/qcheckbox_and_qcombobox_in_pyqt6/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/11qqgwc/tuesday_daily_thread_advanced_questions/)
-- [python security - very simply open source scanner which detect file signed untrusted or leaked certificates](https://www.reddit.com/r/Python/comments/11qq8ex/python_security_very_simply_open_source_scanner/)
 <!-- BLOG-POST-LIST:END -->
