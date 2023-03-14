@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a simple random password generator](https://www.reddit.com/r/Python/comments/11r45rj/i_made_a_simple_random_password_generator/)
 - [What is the best interactive learning tool?](https://www.reddit.com/r/Python/comments/11qz29n/what_is_the_best_interactive_learning_tool/)
 - [Many rows -&gt; kernel died](https://www.reddit.com/r/Python/comments/11qyuex/many_rows_kernel_died/)
 - [reddit downloader in python](https://www.reddit.com/r/Python/comments/11qyo4z/reddit_downloader_in_python/)
-- [Code not able to execute.](https://www.reddit.com/r/Python/comments/11qx754/code_not_able_to_execute/)
 - [ChatGPT int the Terminal!](https://www.reddit.com/r/Python/comments/11qwe1a/chatgpt_int_the_terminal/)
 <!-- BLOG-POST-LIST:END -->
