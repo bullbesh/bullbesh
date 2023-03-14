@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/11qqgwc/tuesday_daily_thread_advanced_questions/)
+- [python security - very simply open source scanner which detect file signed untrusted or leaked certificates](https://www.reddit.com/r/Python/comments/11qq8ex/python_security_very_simply_open_source_scanner/)
+- [PTML - Python Text Markup Language](https://www.reddit.com/r/Python/comments/11qpfw0/ptml_python_text_markup_language/)
 - [Tinkering with Unix domain sockets](https://www.reddit.com/r/Python/comments/11qluiv/tinkering_with_unix_domain_sockets/)
 - [Question: Is there a way of using python functions within Excel/a spreadsheet, rather than VBA?](https://www.reddit.com/r/Python/comments/11qjojt/question_is_there_a_way_of_using_python_functions/)
-- [Anyone see a danger in allowing wild west rules for &#39; vs &quot; in strings?](https://www.reddit.com/r/Python/comments/11qjml6/anyone_see_a_danger_in_allowing_wild_west_rules/)
-- [Freeflow - A Discord server to find developer communities with job boards! Welcoming the Python community 🚀](https://www.reddit.com/r/Python/comments/11qj8mr/freeflow_a_discord_server_to_find_developer/)
-- [code: performance vs. readability](https://www.reddit.com/r/Python/comments/11qim3q/code_performance_vs_readability/)
 <!-- BLOG-POST-LIST:END -->
