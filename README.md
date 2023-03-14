@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code not able to execute.](https://www.reddit.com/r/Python/comments/11qx754/code_not_able_to_execute/)
 - [ChatGPT int the Terminal!](https://www.reddit.com/r/Python/comments/11qwe1a/chatgpt_int_the_terminal/)
 - [QCheckBox and QComboBox in PyQt6!](https://www.reddit.com/r/Python/comments/11qttm4/qcheckbox_and_qcombobox_in_pyqt6/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/11qqgwc/tuesday_daily_thread_advanced_questions/)
 - [python security - very simply open source scanner which detect file signed untrusted or leaked certificates](https://www.reddit.com/r/Python/comments/11qq8ex/python_security_very_simply_open_source_scanner/)
-- [PTML - Python Text Markup Language](https://www.reddit.com/r/Python/comments/11qpfw0/ptml_python_text_markup_language/)
 <!-- BLOG-POST-LIST:END -->
