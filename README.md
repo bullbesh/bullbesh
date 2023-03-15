@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the funnest project you worked on?](https://www.reddit.com/r/Python/comments/11ria83/what_is_the_funnest_project_you_worked_on/)
 - [PyDict3class Generator Claas and Objekt from dict or JSON](https://www.reddit.com/r/Python/comments/11rhd7h/pydict3class_generator_claas_and_objekt_from_dict/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/11rfceo/wednesday_daily_thread_beginner_questions/)
 - [Funny beginners project :&rpar;](https://www.reddit.com/r/Python/comments/11rdbam/funny_beginners_project/)
 - [Python Beginner, Need some advice/route-map to get an Entry-level jobs.](https://www.reddit.com/r/Python/comments/11ravf6/python_beginner_need_some_adviceroutemap_to_get/)
-- [Analyzing Interactions in a Slack Communication Network - using NetworkX](https://www.reddit.com/r/Python/comments/11ra9vr/analyzing_interactions_in_a_slack_communication/)
 <!-- BLOG-POST-LIST:END -->
