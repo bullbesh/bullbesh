@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 701 – Syntactic formalization of f-strings has been accepted](https://www.reddit.com/r/Python/comments/11rze7z/pep_701_syntactic_formalization_of_fstrings_has/)
+- [Newbie/basics = Confused about Python list slicing](https://www.reddit.com/r/Python/comments/11ryj34/newbiebasics_confused_about_python_list_slicing/)
+- [Refactor untested code with PyTest](https://www.reddit.com/r/Python/comments/11rxyvi/refactor_untested_code_with_pytest/)
 - [How to Install Python on MacOS](https://www.reddit.com/r/Python/comments/11rww5y/how_to_install_python_on_macos/)
 - [Finding memory corruption bugs in Python libraries](https://www.reddit.com/r/Python/comments/11rwmv4/finding_memory_corruption_bugs_in_python_libraries/)
-- [Image files as input using GPT-3 with Python](https://www.reddit.com/r/Python/comments/11rv7lu/image_files_as_input_using_gpt3_with_python/)
-- [Integrating ChatGPT in a python webapp &lpar;Django&rpar;](https://www.reddit.com/r/Python/comments/11ruvw0/integrating_chatgpt_in_a_python_webapp_django/)
-- [Python type hints &lpar;type system&rpar; unpythonic](https://www.reddit.com/r/Python/comments/11ru85r/python_type_hints_type_system_unpythonic/)
 <!-- BLOG-POST-LIST:END -->
