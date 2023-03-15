@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [PEP 701 – Syntactic formalization of f-strings has been accepted](https://www.reddit.com/r/Python/comments/11rze7z/pep_701_syntactic_formalization_of_fstrings_has/)
-- [Newbie/basics = Confused about Python list slicing](https://www.reddit.com/r/Python/comments/11ryj34/newbiebasics_confused_about_python_list_slicing/)
-- [Refactor untested code with PyTest](https://www.reddit.com/r/Python/comments/11rxyvi/refactor_untested_code_with_pytest/)
-- [How to Install Python on MacOS](https://www.reddit.com/r/Python/comments/11rww5y/how_to_install_python_on_macos/)
-- [Finding memory corruption bugs in Python libraries](https://www.reddit.com/r/Python/comments/11rwmv4/finding_memory_corruption_bugs_in_python_libraries/)
+- [Python game library? Which one best?](https://www.reddit.com/r/Python/comments/11s160z/python_game_library_which_one_best/)
+- [Suggestions Conda pkg development cycle](https://www.reddit.com/r/Python/comments/11s09f5/suggestions_conda_pkg_development_cycle/)
+- [Solving a simple problem with ML](https://www.reddit.com/r/Python/comments/11s07qt/solving_a_simple_problem_with_ml/)
+- [Chain together LLMs for reasoning and orchestrate multiple large models for accomplishing complex tasks like phoning someone using a GPT-4 model](https://www.reddit.com/r/Python/comments/11s04c7/chain_together_llms_for_reasoning_and_orchestrate/)
+- [Animating graphical character in desktop &lpar;like a widgets&rpar;](https://www.reddit.com/r/Python/comments/11rzygr/animating_graphical_character_in_desktop_like_a/)
 <!-- BLOG-POST-LIST:END -->
