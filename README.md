@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do I feel like I’m learning Python the right way without getting drained](https://www.reddit.com/r/Python/comments/11s9g3k/how_do_i_feel_like_im_learning_python_the_right/)
 - [How to Scrape Twitter Data Using Python Without Using Twitter’s API](https://www.reddit.com/r/Python/comments/11s7tsw/how_to_scrape_twitter_data_using_python_without/)
 - [what do I need to make a python website? please don&#39;t delete it, it&#39;s Wednesday](https://www.reddit.com/r/Python/comments/11s6nrh/what_do_i_need_to_make_a_python_website_please/)
 - [Blaise Pabon on his developer journey, open source and why Python is great [Podcast]](https://www.reddit.com/r/Python/comments/11s2mwe/blaise_pabon_on_his_developer_journey_open_source/)
 - [What if FastAPI was 100x faster and supported NumPy arrays and Pillow images?](https://www.reddit.com/r/Python/comments/11s2e3q/what_if_fastapi_was_100x_faster_and_supported/)
-- [No-async async with Python](https://www.reddit.com/r/Python/comments/11s1umy/noasync_async_with_python/)
 <!-- BLOG-POST-LIST:END -->
