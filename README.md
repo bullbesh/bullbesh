@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Am I the only one who doesn’t like this language?](https://www.reddit.com/r/Python/comments/11sh0fv/am_i_the_only_one_who_doesnt_like_this_language/)
 - [Open-source Mathematical Python Lib](https://www.reddit.com/r/Python/comments/11sfu7i/opensource_mathematical_python_lib/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/11sduam/thursday_daily_thread_python_careers_courses_and/)
 - [Hola necesito ayuda con algo muy fácil en Python sobre bucles “while” operando con and y or](https://www.reddit.com/r/Python/comments/11scwqz/hola_necesito_ayuda_con_algo_muy_fácil_en_python/)
 - [Would it be possible to go back to line 8 until the user inputs m or w ?](https://www.reddit.com/r/Python/comments/11sbze8/would_it_be_possible_to_go_back_to_line_8_until/)
+- [Python mouse.move and pyautogui.moveTo not working properly after window close](https://www.reddit.com/r/Python/comments/11sbvyz/python_mousemove_and_pyautoguimoveto_not_working/)
 <!-- BLOG-POST-LIST:END -->
