@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas 2.0 rc1 is released](https://www.reddit.com/r/Python/comments/11sxzy3/pandas_20_rc1_is_released/)
+- [TRUE AND NOT TRUE](https://www.reddit.com/r/Python/comments/11sxiu9/true_and_not_true/)
+- [Made a Python package for extracting color palettes from images](https://www.reddit.com/r/Python/comments/11sxgjp/made_a_python_package_for_extracting_color/)
 - [Learn how to build a simple TODO app that runs in the terminal with Python 🐍 and Textual. 🚀](https://www.reddit.com/r/Python/comments/11swe9w/learn_how_to_build_a_simple_todo_app_that_runs_in/)
 - [Deploying ML model](https://www.reddit.com/r/Python/comments/11svo4d/deploying_ml_model/)
-- [What is like to work at Anaconda](https://www.reddit.com/r/Python/comments/11svbt7/what_is_like_to_work_at_anaconda/)
-- [looking for a coding buddy!](https://www.reddit.com/r/Python/comments/11suzz1/looking_for_a_coding_buddy/)
-- [How to Evaluate the Quality of Python Packages](https://www.reddit.com/r/Python/comments/11strne/how_to_evaluate_the_quality_of_python_packages/)
 <!-- BLOG-POST-LIST:END -->
