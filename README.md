@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Asking ChatGPT to Create a Basic Decision Tree App, the result is ....](https://www.reddit.com/r/Python/comments/11tgmrn/asking_chatgpt_to_create_a_basic_decision_tree/)
 - [Dad Joke Collector for my Blog](https://www.reddit.com/r/Python/comments/11tf5xk/dad_joke_collector_for_my_blog/)
 - [Simple spawning system || Unity tutorials ep.8](https://www.reddit.com/r/Python/comments/11tcyzh/simple_spawning_system_unity_tutorials_ep8/)
 - [Linked Lists in Python!](https://www.reddit.com/r/Python/comments/11tbqel/linked_lists_in_python/)
 - [how can I code a bot to give me more entries?](https://www.reddit.com/r/Python/comments/11taxoe/how_can_i_code_a_bot_to_give_me_more_entries/)
-- [How to keep a command prompt window open after subprocess is launched in it and completes](https://www.reddit.com/r/Python/comments/11talaa/how_to_keep_a_command_prompt_window_open_after/)
 <!-- BLOG-POST-LIST:END -->
