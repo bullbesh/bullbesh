@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas 2.0 RC1 has been published. Have you tried it? What do you think?](https://www.reddit.com/r/Python/comments/11ts7rv/pandas_20_rc1_has_been_published_have_you_tried/)
+- [Pip Upgrade – And How to Update Pip and Python](https://www.reddit.com/r/Python/comments/11ts388/pip_upgrade_and_how_to_update_pip_and_python/)
+- [Why use classes?](https://www.reddit.com/r/Python/comments/11ts1qq/why_use_classes/)
+- [Know How to Create and Visualize a Decision Tree with Python](https://www.reddit.com/r/Python/comments/11tryqg/know_how_to_create_and_visualize_a_decision_tree/)
 - [An Instruct Version Of GPT-J Using Stanford Alpaca&#39;s Dataset](https://www.reddit.com/r/Python/comments/11tqu9t/an_instruct_version_of_gptj_using_stanford/)
-- [ML models for User Recognition using Keystroke Dynamics](https://www.reddit.com/r/Python/comments/11tpor9/ml_models_for_user_recognition_using_keystroke/)
-- [Mercury – Turn Python Notebooks to Web Apps](https://www.reddit.com/r/Python/comments/11tp5fa/mercury_turn_python_notebooks_to_web_apps/)
-- [Theine 0.3.3 released, introducing new Clock-Pro eviction policy](https://www.reddit.com/r/Python/comments/11tn6iu/theine_033_released_introducing_new_clockpro/)
-- [Easy Python Benchmarking Tool - PyBench](https://www.reddit.com/r/Python/comments/11tn5d5/easy_python_benchmarking_tool_pybench/)
 <!-- BLOG-POST-LIST:END -->
