@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Theine 0.3.3, introducing new Clock-PRO eviction policy](https://www.reddit.com/r/Python/comments/11tn0gv/theine_033_introducing_new_clockpro_eviction/)
+- [PEP 8](https://www.reddit.com/r/Python/comments/11tm7pk/pep_8/)
+- [A &#39;No JS&#39; Solution for Dynamic Search in Django](https://www.reddit.com/r/Python/comments/11tlyqv/a_no_js_solution_for_dynamic_search_in_django/)
 - [Is setting up React with Python difficult?](https://www.reddit.com/r/Python/comments/11tlnkq/is_setting_up_react_with_python_difficult/)
 - [Introducing the Data Wrangler extension for Visual Studio Code Insiders](https://www.reddit.com/r/Python/comments/11tjbjd/introducing_the_data_wrangler_extension_for/)
-- [What should I unit test?](https://www.reddit.com/r/Python/comments/11tj7gm/what_should_i_unit_test/)
-- [README-AI: automated README creation and codebase documentation!](https://www.reddit.com/r/Python/comments/11ti68c/readmeai_automated_readme_creation_and_codebase/)
-- [Asking ChatGPT to Create a Basic Decision Tree App, the result is ....](https://www.reddit.com/r/Python/comments/11tgmrn/asking_chatgpt_to_create_a_basic_decision_tree/)
 <!-- BLOG-POST-LIST:END -->
