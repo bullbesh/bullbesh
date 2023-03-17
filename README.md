@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple spawning system || Unity tutorials ep.8](https://www.reddit.com/r/Python/comments/11tcyzh/simple_spawning_system_unity_tutorials_ep8/)
+- [Linked Lists in Python!](https://www.reddit.com/r/Python/comments/11tbqel/linked_lists_in_python/)
+- [how can I code a bot to give me more entries?](https://www.reddit.com/r/Python/comments/11taxoe/how_can_i_code_a_bot_to_give_me_more_entries/)
+- [How to keep a command prompt window open after subprocess is launched in it and completes](https://www.reddit.com/r/Python/comments/11talaa/how_to_keep_a_command_prompt_window_open_after/)
 - [Export geopandas df to .geojson](https://www.reddit.com/r/Python/comments/11t8ebh/export_geopandas_df_to_geojson/)
-- [Github Action and Pre-commit hooks](https://www.reddit.com/r/Python/comments/11t597e/github_action_and_precommit_hooks/)
-- [Codon: Python now superior performance to C++ . Is Python now undisputed &gt; than C++](https://www.reddit.com/r/Python/comments/11t4p8p/codon_python_now_superior_performance_to_c_is/)
-- [authentik on Django: 500% slower to run but 200% faster to build](https://www.reddit.com/r/Python/comments/11t2u1d/authentik_on_django_500_slower_to_run_but_200/)
-- [Book recommendation, advanced+ level in Python](https://www.reddit.com/r/Python/comments/11t29at/book_recommendation_advanced_level_in_python/)
 <!-- BLOG-POST-LIST:END -->
