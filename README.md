@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [QNX Demodisk Utilities](https://www.reddit.com/r/Python/comments/11u5zng/qnx_demodisk_utilities/)
+- [What are some projects on GitHub you support either through contribution or sponsorship?](https://www.reddit.com/r/Python/comments/11u5v9v/what_are_some_projects_on_github_you_support/)
 - [Meta Pseudo Labels &lpar;MPL&rpar; Algorithm](https://www.reddit.com/r/Python/comments/11u3hqg/meta_pseudo_labels_mpl_algorithm/)
 - [Speed | When has it been an issue for you?](https://www.reddit.com/r/Python/comments/11u0gp7/speed_when_has_it_been_an_issue_for_you/)
 - [Controversial opinion: stop importing single-use symbols in global scope](https://www.reddit.com/r/Python/comments/11tyoes/controversial_opinion_stop_importing_singleuse/)
-- [I wrote a program that calculates the difference between two files](https://www.reddit.com/r/Python/comments/11twxa5/i_wrote_a_program_that_calculates_the_difference/)
-- [Another episode of the office-racer &lpar;Python, websockets,...&rpar;](https://www.reddit.com/r/Python/comments/11tt2gm/another_episode_of_the_officeracer_python/)
 <!-- BLOG-POST-LIST:END -->
