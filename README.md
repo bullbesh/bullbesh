@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Speed | When has it been an issue for you?](https://www.reddit.com/r/Python/comments/11u0gp7/speed_when_has_it_been_an_issue_for_you/)
 - [Controversial opinion: stop importing single-use symbols in global scope](https://www.reddit.com/r/Python/comments/11tyoes/controversial_opinion_stop_importing_singleuse/)
 - [I wrote a program that calculates the difference between two files](https://www.reddit.com/r/Python/comments/11twxa5/i_wrote_a_program_that_calculates_the_difference/)
 - [Another episode of the office-racer &lpar;Python, websockets,...&rpar;](https://www.reddit.com/r/Python/comments/11tt2gm/another_episode_of_the_officeracer_python/)
 - [Pandas 2.0 RC1 has been published. Have you tried it? What do you think?](https://www.reddit.com/r/Python/comments/11ts7rv/pandas_20_rc1_has_been_published_have_you_tried/)
-- [Pip Upgrade – And How to Update Pip and Python](https://www.reddit.com/r/Python/comments/11ts388/pip_upgrade_and_how_to_update_pip_and_python/)
 <!-- BLOG-POST-LIST:END -->
