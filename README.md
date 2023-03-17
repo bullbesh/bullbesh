@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is setting up React with Python difficult?](https://www.reddit.com/r/Python/comments/11tlnkq/is_setting_up_react_with_python_difficult/)
 - [Introducing the Data Wrangler extension for Visual Studio Code Insiders](https://www.reddit.com/r/Python/comments/11tjbjd/introducing_the_data_wrangler_extension_for/)
 - [What should I unit test?](https://www.reddit.com/r/Python/comments/11tj7gm/what_should_i_unit_test/)
 - [README-AI: automated README creation and codebase documentation!](https://www.reddit.com/r/Python/comments/11ti68c/readmeai_automated_readme_creation_and_codebase/)
 - [Asking ChatGPT to Create a Basic Decision Tree App, the result is ....](https://www.reddit.com/r/Python/comments/11tgmrn/asking_chatgpt_to_create_a_basic_decision_tree/)
-- [Dad Joke Collector for my Blog](https://www.reddit.com/r/Python/comments/11tf5xk/dad_joke_collector_for_my_blog/)
 <!-- BLOG-POST-LIST:END -->
