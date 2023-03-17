@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ML models for User Recognition using Keystroke Dynamics](https://www.reddit.com/r/Python/comments/11tpor9/ml_models_for_user_recognition_using_keystroke/)
+- [Mercury – Turn Python Notebooks to Web Apps](https://www.reddit.com/r/Python/comments/11tp5fa/mercury_turn_python_notebooks_to_web_apps/)
 - [Theine 0.3.3 released, introducing new Clock-Pro eviction policy](https://www.reddit.com/r/Python/comments/11tn6iu/theine_033_released_introducing_new_clockpro/)
 - [Easy Python Benchmarking Tool - PyBench](https://www.reddit.com/r/Python/comments/11tn5d5/easy_python_benchmarking_tool_pybench/)
 - [PEP 8](https://www.reddit.com/r/Python/comments/11tm7pk/pep_8/)
-- [A &#39;No JS&#39; Solution for Dynamic Search in Django](https://www.reddit.com/r/Python/comments/11tlyqv/a_no_js_solution_for_dynamic_search_in_django/)
-- [Is setting up React with Python difficult?](https://www.reddit.com/r/Python/comments/11tlnkq/is_setting_up_react_with_python_difficult/)
 <!-- BLOG-POST-LIST:END -->
