@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing DataFrame QuickView: A Python package for easy DataFrame visualization, co-created with GPT-4! Seeking contributors 🚀](https://www.reddit.com/r/Python/comments/11uj8hh/introducing_dataframe_quickview_a_python_package/)
 - [My first post](https://www.reddit.com/r/Python/comments/11uiymb/my_first_post/)
 - [Personal Project - JDR Tool Introduction](https://www.reddit.com/r/Python/comments/11ui2v4/personal_project_jdr_tool_introduction/)
 - [Making a script that checks Twitch chat emote usage, channel has 828 emotes, VOD has 41,033 lines of chat. was blown away by how fast it took to run. 93ms.](https://www.reddit.com/r/Python/comments/11uhi51/making_a_script_that_checks_twitch_chat_emote/)
 - [Python 3.11 is much faster , but is it good for competitive programming?](https://www.reddit.com/r/Python/comments/11ufqkw/python_311_is_much_faster_but_is_it_good_for/)
-- [New to Python. Is this an inconsistency of the &#39;round&lpar;&rpar;&#39; function?](https://www.reddit.com/r/Python/comments/11ud58f/new_to_python_is_this_an_inconsistency_of_the/)
 <!-- BLOG-POST-LIST:END -->
