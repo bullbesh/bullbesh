@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to write long integers EASILY!](https://www.reddit.com/r/Python/comments/11uv8sv/how_to_write_long_integers_easily/)
+- [Workshop: Algorithmic Trading](https://www.reddit.com/r/Python/comments/11uur4a/workshop_algorithmic_trading/)
 - [🦄 uniswap-universal-router-decoder ✨ v0.8.0 ✨ has just been released !!](https://www.reddit.com/r/Python/comments/11ut8rs/uniswapuniversalrouterdecoder_v080_has_just_been/)
-- [&quot;The Shocking Truth About How AI Is Taking Over the Graphic Design Industry&quot;](https://www.reddit.com/r/Python/comments/11us99c/the_shocking_truth_about_how_ai_is_taking_over/)
 - [Python and SLSA 💃](https://www.reddit.com/r/Python/comments/11uqwqf/python_and_slsa/)
 - [Alternative to Pygments](https://www.reddit.com/r/Python/comments/11upnql/alternative_to_pygments/)
-- [Remove typing/stubs packages in production](https://www.reddit.com/r/Python/comments/11uljz7/remove_typingstubs_packages_in_production/)
 <!-- BLOG-POST-LIST:END -->
