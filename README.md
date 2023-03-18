@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🦄 uniswap-universal-router-decoder ✨ v0.8.0 ✨ has just been released !!](https://www.reddit.com/r/Python/comments/11ut8rs/uniswapuniversalrouterdecoder_v080_has_just_been/)
 - [&quot;The Shocking Truth About How AI Is Taking Over the Graphic Design Industry&quot;](https://www.reddit.com/r/Python/comments/11us99c/the_shocking_truth_about_how_ai_is_taking_over/)
 - [Python and SLSA 💃](https://www.reddit.com/r/Python/comments/11uqwqf/python_and_slsa/)
 - [Alternative to Pygments](https://www.reddit.com/r/Python/comments/11upnql/alternative_to_pygments/)
 - [Remove typing/stubs packages in production](https://www.reddit.com/r/Python/comments/11uljz7/remove_typingstubs_packages_in_production/)
-- [Introducing DataFrame QuickView: A Python package for easy DataFrame visualization, co-created with GPT-4! Seeking contributors 🚀](https://www.reddit.com/r/Python/comments/11uj8hh/introducing_dataframe_quickview_a_python_package/)
 <!-- BLOG-POST-LIST:END -->
