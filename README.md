@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a tic tac toe game with 98 lines of code. Is this good for a beginner?](https://www.reddit.com/r/Python/comments/11u9868/i_made_a_tic_tac_toe_game_with_98_lines_of_code/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/11u8hmv/saturday_daily_thread_resource_request_and/)
+- [How to speed up bulkinsert in python?](https://www.reddit.com/r/Python/comments/11u7hwo/how_to_speed_up_bulkinsert_in_python/)
 - [QNX Demodisk Utilities](https://www.reddit.com/r/Python/comments/11u5zng/qnx_demodisk_utilities/)
 - [What are some projects on GitHub you support either through contribution or sponsorship?](https://www.reddit.com/r/Python/comments/11u5v9v/what_are_some_projects_on_github_you_support/)
-- [Meta Pseudo Labels &lpar;MPL&rpar; Algorithm](https://www.reddit.com/r/Python/comments/11u3hqg/meta_pseudo_labels_mpl_algorithm/)
-- [Speed | When has it been an issue for you?](https://www.reddit.com/r/Python/comments/11u0gp7/speed_when_has_it_been_an_issue_for_you/)
-- [Controversial opinion: stop importing single-use symbols in global scope](https://www.reddit.com/r/Python/comments/11tyoes/controversial_opinion_stop_importing_singleuse/)
 <!-- BLOG-POST-LIST:END -->
