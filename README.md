@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve created one of the Fastest Python web Frameworks!!](https://www.reddit.com/r/Python/comments/11vzvde/ive_created_one_of_the_fastest_python_web/)
 - [pyWave - Financial transaction tracker.](https://www.reddit.com/r/Python/comments/11vywu8/pywave_financial_transaction_tracker/)
 - [GitHub - npiv/chatblade: A CLI Swiss Army Knife for ChatGPT](https://www.reddit.com/r/Python/comments/11vy9yd/github_npivchatblade_a_cli_swiss_army_knife_for/)
 - [Rooshk - A command line sandbox god mode game!](https://www.reddit.com/r/Python/comments/11vy4wd/rooshk_a_command_line_sandbox_god_mode_game/)
 - [How to learn code in short time](https://www.reddit.com/r/Python/comments/11vxyqd/how_to_learn_code_in_short_time/)
-- [bare-bones terminal interface for chatGPT](https://www.reddit.com/r/Python/comments/11vvrqb/barebones_terminal_interface_for_chatgpt/)
 <!-- BLOG-POST-LIST:END -->
