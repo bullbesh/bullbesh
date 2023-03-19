@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pyWave - Financial transaction tracker.](https://www.reddit.com/r/Python/comments/11vywu8/pywave_financial_transaction_tracker/)
+- [GitHub - npiv/chatblade: A CLI Swiss Army Knife for ChatGPT](https://www.reddit.com/r/Python/comments/11vy9yd/github_npivchatblade_a_cli_swiss_army_knife_for/)
+- [Rooshk - A command line sandbox god mode game!](https://www.reddit.com/r/Python/comments/11vy4wd/rooshk_a_command_line_sandbox_god_mode_game/)
+- [How to learn code in short time](https://www.reddit.com/r/Python/comments/11vxyqd/how_to_learn_code_in_short_time/)
 - [bare-bones terminal interface for chatGPT](https://www.reddit.com/r/Python/comments/11vvrqb/barebones_terminal_interface_for_chatgpt/)
-- [Is anyone using Python and GPT4? I just started using python for the first time.. mind is blown.](https://www.reddit.com/r/Python/comments/11vtg9g/is_anyone_using_python_and_gpt4_i_just_started/)
-- [Is it possible to include C code in a package published to PyPi while not limiting compatibility?](https://www.reddit.com/r/Python/comments/11vsrnh/is_it_possible_to_include_c_code_in_a_package/)
-- [Learn Python using Minecraft](https://www.reddit.com/r/Python/comments/11vrits/learn_python_using_minecraft/)
-- [Austin, the CPython frame stack sampler, is now available from PyPI](https://www.reddit.com/r/Python/comments/11vqqqz/austin_the_cpython_frame_stack_sampler_is_now/)
 <!-- BLOG-POST-LIST:END -->
