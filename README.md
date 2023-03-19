@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/11vl6ul/python_cybersecurity_build_your_own_python_tools/)
+- [Create Your Own Code Editor Using PyQt5 #9 - Fixing Bugs and Adding Few Features](https://www.reddit.com/r/Python/comments/11vkdmt/create_your_own_code_editor_using_pyqt5_9_fixing/)
 - [NASA&#39;s Cassini - Cosmic Dust Analyzer: How to calibrate a space instrument](https://www.reddit.com/r/Python/comments/11vjmc2/nasas_cassini_cosmic_dust_analyzer_how_to/)
 - [Introduction to __getitem__: A Magic Method in Python - KDnuggets](https://www.reddit.com/r/Python/comments/11viuco/introduction_to_getitem_a_magic_method_in_python/)
 - [What you can do in 24 hour?](https://www.reddit.com/r/Python/comments/11vijrs/what_you_can_do_in_24_hour/)
-- [Weird-formatting jupyter notebook&#39;s output in Pycharm](https://www.reddit.com/r/Python/comments/11vij4v/weirdformatting_jupyter_notebooks_output_in/)
-- [Middle level book to study Python](https://www.reddit.com/r/Python/comments/11vhrgr/middle_level_book_to_study_python/)
 <!-- BLOG-POST-LIST:END -->
