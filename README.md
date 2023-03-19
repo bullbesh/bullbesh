@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it possible to include C code in a package published to PyPi while not limiting compatibility?](https://www.reddit.com/r/Python/comments/11vsrnh/is_it_possible_to_include_c_code_in_a_package/)
+- [Learn Python using Minecraft](https://www.reddit.com/r/Python/comments/11vrits/learn_python_using_minecraft/)
 - [Austin, the CPython frame stack sampler, is now available from PyPI](https://www.reddit.com/r/Python/comments/11vqqqz/austin_the_cpython_frame_stack_sampler_is_now/)
 - [Are Variables Labels or Boxes?](https://www.reddit.com/r/Python/comments/11vq5eo/are_variables_labels_or_boxes/)
 - [Any way to short circuit parsing in html.parser?](https://www.reddit.com/r/Python/comments/11vq2ai/any_way_to_short_circuit_parsing_in_htmlparser/)
-- [Hi there I’ve been trying to write a python code using openCV to count British coins in an image.](https://www.reddit.com/r/Python/comments/11vojn3/hi_there_ive_been_trying_to_write_a_python_code/)
-- [&quot;I prefer to use Panel for my data apps. Here is why.&quot; by Marc-Skov Madsen... guys/girls/non-binary: do not sleep on this deeply detailed article.](https://www.reddit.com/r/Python/comments/11vn3z7/i_prefer_to_use_panel_for_my_data_apps_here_is/)
 <!-- BLOG-POST-LIST:END -->
