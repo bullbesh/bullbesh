@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;I prefer to use Panel for my data apps. Here is why.&quot; by Marc-Skov Madsen... guys/girls/non-binary: do not sleep on this deeply detailed article.](https://www.reddit.com/r/Python/comments/11vn3z7/i_prefer_to_use_panel_for_my_data_apps_here_is/)
 - [Black for web development?](https://www.reddit.com/r/Python/comments/11vlqcu/black_for_web_development/)
 - [Learn Python Programming --- Python for Beginners &lpar;Legacy course&rpar;](https://www.reddit.com/r/Python/comments/11vlkz6/learn_python_programming_python_for_beginners/)
 - [Alternate python spacing.](https://www.reddit.com/r/Python/comments/11vlkh2/alternate_python_spacing/)
 - [I made a script that makes you lose the game every month.](https://www.reddit.com/r/Python/comments/11vlau9/i_made_a_script_that_makes_you_lose_the_game/)
-- [Python Cybersecurity — Build your own python tools &lpar;PortScanner, Visual Network Tracker and Anonymous FTP Scanner&rpar;](https://www.reddit.com/r/Python/comments/11vl6ul/python_cybersecurity_build_your_own_python_tools/)
 <!-- BLOG-POST-LIST:END -->
