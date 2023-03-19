@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplify a polyline or polygon with Visvalingham-Whyatt or Douglas-Peucker](https://www.reddit.com/r/Python/comments/11v89pg/simplify_a_polyline_or_polygon_with/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/11v57uj/sunday_daily_thread_whats_everyone_working_on/)
 - [Building And Distributing A macOS Application Written in Python](https://www.reddit.com/r/Python/comments/11v37cr/building_and_distributing_a_macos_application/)
 - [Simple Transformer based Optical Music Recognition](https://www.reddit.com/r/Python/comments/11v36lv/simple_transformer_based_optical_music_recognition/)
 - [FastAPI 0.95.0 supports and recommends Annotated 🚀 [cross-post from r/FastAPI]](https://www.reddit.com/r/Python/comments/11v0kcb/fastapi_0950_supports_and_recommends_annotated/)
-- [Hi r/py I&#39;m working on a Python library for PySimpleGUI to design UIs with a Live Preview, giving a low barrier to entry. I hope you like it!](https://www.reddit.com/r/Python/comments/11uyzsz/hi_rpy_im_working_on_a_python_library_for/)
 <!-- BLOG-POST-LIST:END -->
