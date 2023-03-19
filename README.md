@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I made a python script that makes you lose the game at the first of every month.](https://www.reddit.com/r/Python/comments/11v41b1/i_made_a_python_script_that_makes_you_lose_the/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/11v57uj/sunday_daily_thread_whats_everyone_working_on/)
 - [Building And Distributing A macOS Application Written in Python](https://www.reddit.com/r/Python/comments/11v37cr/building_and_distributing_a_macos_application/)
 - [Simple Transformer based Optical Music Recognition](https://www.reddit.com/r/Python/comments/11v36lv/simple_transformer_based_optical_music_recognition/)
 - [FastAPI 0.95.0 supports and recommends Annotated 🚀 [cross-post from r/FastAPI]](https://www.reddit.com/r/Python/comments/11v0kcb/fastapi_0950_supports_and_recommends_annotated/)
