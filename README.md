@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Python Fullstack developer](https://www.reddit.com/r/Python/comments/11vebq2/python_fullstack_developer/)
-- [Need help](https://www.reddit.com/r/Python/comments/11vd5d2/need_help/)
 - [Simplify a polyline or polygon with Visvalingham-Whyatt or Douglas-Peucker](https://www.reddit.com/r/Python/comments/11v89pg/simplify_a_polyline_or_polygon_with/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/11v57uj/sunday_daily_thread_whats_everyone_working_on/)
 - [Building And Distributing A macOS Application Written in Python](https://www.reddit.com/r/Python/comments/11v37cr/building_and_distributing_a_macos_application/)
+- [Simple Transformer based Optical Music Recognition](https://www.reddit.com/r/Python/comments/11v36lv/simple_transformer_based_optical_music_recognition/)
 <!-- BLOG-POST-LIST:END -->
