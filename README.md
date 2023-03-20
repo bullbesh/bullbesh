@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reduce - The Power of a Single Python Function](https://www.reddit.com/r/Python/comments/11wvnnq/reduce_the_power_of_a_single_python_function/)
 - [Orm or not Orm? Mayim?](https://www.reddit.com/r/Python/comments/11ws1js/orm_or_not_orm_mayim/)
 - [How to perform an excel formula such as, &quot;A1/A2-1&quot; using a pandas dataframe?](https://www.reddit.com/r/Python/comments/11wrnj1/how_to_perform_an_excel_formula_such_as_a1a21/)
 - [Python Platformer Game Tutorial for Beginners [1:52:06]](https://www.reddit.com/r/Python/comments/11wqy9w/python_platformer_game_tutorial_for_beginners/)
 - [Lona - create full web-applications from a simple Python script](https://www.reddit.com/r/Python/comments/11wppu7/lona_create_full_webapplications_from_a_simple/)
-- [Impressions and interesting talks from PyData NYC 2022](https://www.reddit.com/r/Python/comments/11wnkdt/impressions_and_interesting_talks_from_pydata_nyc/)
 <!-- BLOG-POST-LIST:END -->
