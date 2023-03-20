@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django Developers Survey 2022 Results](https://www.reddit.com/r/Python/comments/11wk31n/django_developers_survey_2022_results/)
+- [Random Settler&#39;s Of Catan Board Generating Program](https://www.reddit.com/r/Python/comments/11wjz95/random_settlers_of_catan_board_generating_program/)
 - [Google Foobar Invite](https://www.reddit.com/r/Python/comments/11wi0ot/google_foobar_invite/)
 - [Smarty-GPT: wrapper of prompts/contexts](https://www.reddit.com/r/Python/comments/11wh5v9/smartygpt_wrapper_of_promptscontexts/)
 - [I explained threading by making a cup of tea. Please give me honest feedback.](https://www.reddit.com/r/Python/comments/11wdil0/i_explained_threading_by_making_a_cup_of_tea/)
-- [CPorter: Streamlined C &amp; Python Integration with Auto Type Checking and more](https://www.reddit.com/r/Python/comments/11wd5y8/cporter_streamlined_c_python_integration_with/)
-- [How to learn for loop, do while loop and functions?](https://www.reddit.com/r/Python/comments/11wcya8/how_to_learn_for_loop_do_while_loop_and_functions/)
 <!-- BLOG-POST-LIST:END -->
