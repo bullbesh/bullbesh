@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made an introductory python video using Master Chief](https://www.reddit.com/r/Python/comments/11w4f31/i_made_an_introductory_python_video_using_master/)
+- [Wayback machine for pip requirements.txt](https://www.reddit.com/r/Python/comments/11w2zpm/wayback_machine_for_pip_requirementstxt/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/11w27d5/monday_daily_thread_project_ideas/)
+- [QLineEdit in PyQt6! How to Access User Input in Your GUI!](https://www.reddit.com/r/Python/comments/11w1s01/qlineedit_in_pyqt6_how_to_access_user_input_in/)
 - [I&#39;ve created one of the Fastest Python web Frameworks!!](https://www.reddit.com/r/Python/comments/11vzvde/ive_created_one_of_the_fastest_python_web/)
-- [pyWave - Financial transaction tracker.](https://www.reddit.com/r/Python/comments/11vywu8/pywave_financial_transaction_tracker/)
-- [GitHub - npiv/chatblade: A CLI Swiss Army Knife for ChatGPT](https://www.reddit.com/r/Python/comments/11vy9yd/github_npivchatblade_a_cli_swiss_army_knife_for/)
-- [Rooshk - A command line sandbox god mode game!](https://www.reddit.com/r/Python/comments/11vy4wd/rooshk_a_command_line_sandbox_god_mode_game/)
-- [How to learn code in short time](https://www.reddit.com/r/Python/comments/11vxyqd/how_to_learn_code_in_short_time/)
 <!-- BLOG-POST-LIST:END -->
