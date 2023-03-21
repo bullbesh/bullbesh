@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GPT-4 API Reference Guide with Python Examples](https://www.reddit.com/r/Python/comments/11xlrka/gpt4_api_reference_guide_with_python_examples/)
+- [A Simple Python Guide to Concatenating DataFrames](https://www.reddit.com/r/Python/comments/11xkakr/a_simple_python_guide_to_concatenating_dataframes/)
 - [How to check if pip package is malicious](https://www.reddit.com/r/Python/comments/11xj3ua/how_to_check_if_pip_package_is_malicious/)
 - [Solomon: Data Exploration tool.](https://www.reddit.com/r/Python/comments/11xiaov/solomon_data_exploration_tool/)
 - [Question: How does spotify-dl work?](https://www.reddit.com/r/Python/comments/11xhv9l/question_how_does_spotifydl_work/)
-- [[ZnFlow] Play around with Graphs](https://www.reddit.com/r/Python/comments/11xhb4a/znflow_play_around_with_graphs/)
-- [Executing Python Scripts With a Shebang – Real Python](https://www.reddit.com/r/Python/comments/11xgvij/executing_python_scripts_with_a_shebang_real/)
 <!-- BLOG-POST-LIST:END -->
