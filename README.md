@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [some leetcode solutions for you guys](https://www.reddit.com/r/Python/comments/11xst05/some_leetcode_solutions_for_you_guys/)
 - [Practice 1,000+ Free Python Challenges with AI](https://www.reddit.com/r/Python/comments/11xo6m1/practice_1000_free_python_challenges_with_ai/)
 - [I am building a ReadMe for tips on coding with python. It is for beginners and gives you a some nice tips on different situations when programming with Python](https://www.reddit.com/r/Python/comments/11xmn0j/i_am_building_a_readme_for_tips_on_coding_with/)
 - [chat-toolkit: an extensible package for creating ML-powered chatbots](https://www.reddit.com/r/Python/comments/11xm82u/chattoolkit_an_extensible_package_for_creating/)
 - [Twitter API - free, no tokens required](https://www.reddit.com/r/Python/comments/11xlw5k/twitter_api_free_no_tokens_required/)
-- [GPT-4 API Reference Guide with Python Examples](https://www.reddit.com/r/Python/comments/11xlrka/gpt4_api_reference_guide_with_python_examples/)
 <!-- BLOG-POST-LIST:END -->
