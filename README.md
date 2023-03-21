@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/11x0no5/tuesday_daily_thread_advanced_questions/)
 - [List of reasons to avoid side effects](https://www.reddit.com/r/Python/comments/11wzf3o/list_of_reasons_to_avoid_side_effects/)
 - [Use OpenAI&#39;s DALL-E for free](https://www.reddit.com/r/Python/comments/11wzcej/use_openais_dalle_for_free/)
 - [Are people abusing Python?](https://www.reddit.com/r/Python/comments/11wye72/are_people_abusing_python/)
 - [Reduce - The Power of a Single Python Function](https://www.reddit.com/r/Python/comments/11wvnnq/reduce_the_power_of_a_single_python_function/)
-- [Orm or not Orm? Mayim?](https://www.reddit.com/r/Python/comments/11ws1js/orm_or_not_orm_mayim/)
 <!-- BLOG-POST-LIST:END -->
