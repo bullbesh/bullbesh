@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Opinion on the monaco lib ?](https://www.reddit.com/r/Python/comments/11xbg6o/opinion_on_the_monaco_lib/)
 - [Feel free to shit on my code this is a script for finding if a number is even or odd](https://www.reddit.com/r/Python/comments/11xarii/feel_free_to_shit_on_my_code_this_is_a_script_for/)
 - [Build an open-source Python Game - $12.7K in prizes.](https://www.reddit.com/r/Python/comments/11x4jkx/build_an_opensource_python_game_127k_in_prizes/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/11x0no5/tuesday_daily_thread_advanced_questions/)
 - [List of reasons to avoid side effects](https://www.reddit.com/r/Python/comments/11wzf3o/list_of_reasons_to_avoid_side_effects/)
-- [Use OpenAI&#39;s DALL-E for free](https://www.reddit.com/r/Python/comments/11wzcej/use_openais_dalle_for_free/)
 <!-- BLOG-POST-LIST:END -->
