@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Question: How does spotify-dl work?](https://www.reddit.com/r/Python/comments/11xhv9l/question_how_does_spotifydl_work/)
+- [[ZnFlow] Play around with Graphs](https://www.reddit.com/r/Python/comments/11xhb4a/znflow_play_around_with_graphs/)
+- [Executing Python Scripts With a Shebang – Real Python](https://www.reddit.com/r/Python/comments/11xgvij/executing_python_scripts_with_a_shebang_real/)
+- [Hello everyone, this is my deep learning project to recognize pokemon by image on Github, hope you enjoy!](https://www.reddit.com/r/Python/comments/11xgqwf/hello_everyone_this_is_my_deep_learning_project/)
 - [[I] created a discord chatgpt bot.](https://www.reddit.com/r/Python/comments/11xgfxp/i_created_a_discord_chatgpt_bot/)
-- [How do you decide to use a Python Package](https://www.reddit.com/r/Python/comments/11xfo9c/how_do_you_decide_to_use_a_python_package/)
-- [Deep Learning for Audio: A library for audio and music analysis](https://www.reddit.com/r/Python/comments/11xfa47/deep_learning_for_audio_a_library_for_audio_and/)
-- [Made a basic system monitor with pygame](https://www.reddit.com/r/Python/comments/11xeeuj/made_a_basic_system_monitor_with_pygame/)
-- [Fitness Tracking using Python &amp; Mediapipe Tutorial -Angle Tracking](https://www.reddit.com/r/Python/comments/11xe2av/fitness_tracking_using_python_mediapipe_tutorial/)
 <!-- BLOG-POST-LIST:END -->
