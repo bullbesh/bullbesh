@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep Learning for Audio: A library for audio and music analysis](https://www.reddit.com/r/Python/comments/11xfa47/deep_learning_for_audio_a_library_for_audio_and/)
+- [Made a basic system monitor with pygame](https://www.reddit.com/r/Python/comments/11xeeuj/made_a_basic_system_monitor_with_pygame/)
+- [Fitness Tracking using Python &amp; Mediapipe Tutorial -Angle Tracking](https://www.reddit.com/r/Python/comments/11xe2av/fitness_tracking_using_python_mediapipe_tutorial/)
 - [Why you need to use CBVs over FBVs in django](https://www.reddit.com/r/Python/comments/11xd7d9/why_you_need_to_use_cbvs_over_fbvs_in_django/)
 - [Opinion on the monaco lib ?](https://www.reddit.com/r/Python/comments/11xbg6o/opinion_on_the_monaco_lib/)
-- [Feel free to shit on my code this is a script for finding if a number is even or odd](https://www.reddit.com/r/Python/comments/11xarii/feel_free_to_shit_on_my_code_this_is_a_script_for/)
-- [Build an open-source Python Game - $12.7K in prizes.](https://www.reddit.com/r/Python/comments/11x4jkx/build_an_opensource_python_game_127k_in_prizes/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/11x0no5/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
