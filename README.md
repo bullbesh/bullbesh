@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to check if pip package is malicious](https://www.reddit.com/r/Python/comments/11xj3ua/how_to_check_if_pip_package_is_malicious/)
+- [Solomon: Data Exploration tool.](https://www.reddit.com/r/Python/comments/11xiaov/solomon_data_exploration_tool/)
 - [Question: How does spotify-dl work?](https://www.reddit.com/r/Python/comments/11xhv9l/question_how_does_spotifydl_work/)
 - [[ZnFlow] Play around with Graphs](https://www.reddit.com/r/Python/comments/11xhb4a/znflow_play_around_with_graphs/)
 - [Executing Python Scripts With a Shebang – Real Python](https://www.reddit.com/r/Python/comments/11xgvij/executing_python_scripts_with_a_shebang_real/)
-- [Hello everyone, this is my deep learning project to recognize pokemon by image on Github, hope you enjoy!](https://www.reddit.com/r/Python/comments/11xgqwf/hello_everyone_this_is_my_deep_learning_project/)
-- [[I] created a discord chatgpt bot.](https://www.reddit.com/r/Python/comments/11xgfxp/i_created_a_discord_chatgpt_bot/)
 <!-- BLOG-POST-LIST:END -->
