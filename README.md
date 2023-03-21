@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am building a ReadMe for tips on coding with python. It is for beginners and gives you a some nice tips on different situations when programming with Python](https://www.reddit.com/r/Python/comments/11xmn0j/i_am_building_a_readme_for_tips_on_coding_with/)
+- [chat-toolkit: an extensible package for creating ML-powered chatbots](https://www.reddit.com/r/Python/comments/11xm82u/chattoolkit_an_extensible_package_for_creating/)
+- [Twitter API - free, no tokens required](https://www.reddit.com/r/Python/comments/11xlw5k/twitter_api_free_no_tokens_required/)
 - [GPT-4 API Reference Guide with Python Examples](https://www.reddit.com/r/Python/comments/11xlrka/gpt4_api_reference_guide_with_python_examples/)
 - [A Simple Python Guide to Concatenating DataFrames](https://www.reddit.com/r/Python/comments/11xkakr/a_simple_python_guide_to_concatenating_dataframes/)
-- [How to check if pip package is malicious](https://www.reddit.com/r/Python/comments/11xj3ua/how_to_check_if_pip_package_is_malicious/)
-- [Solomon: Data Exploration tool.](https://www.reddit.com/r/Python/comments/11xiaov/solomon_data_exploration_tool/)
-- [Question: How does spotify-dl work?](https://www.reddit.com/r/Python/comments/11xhv9l/question_how_does_spotifydl_work/)
 <!-- BLOG-POST-LIST:END -->
