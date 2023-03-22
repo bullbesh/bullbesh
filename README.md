@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating 25 Years of cURL! 🎂](https://www.reddit.com/r/Python/comments/11ycnec/celebrating_25_years_of_curl/)
+- [pytest tips and tricks](https://www.reddit.com/r/Python/comments/11ycg3k/pytest_tips_and_tricks/)
+- [PyVibe: Easily create styled web pages with Python](https://www.reddit.com/r/Python/comments/11yc2i0/pyvibe_easily_create_styled_web_pages_with_python/)
 - [another 4x to 5x speed up in calling #WASM #WebAssembly from python is on the horizon](https://www.reddit.com/r/Python/comments/11yazr0/another_4x_to_5x_speed_up_in_calling_wasm/)
 - [Welcome to the PyPI Blog](https://www.reddit.com/r/Python/comments/11y9y9o/welcome_to_the_pypi_blog/)
-- [artificial intelligence has become my obsession.](https://www.reddit.com/r/Python/comments/11y9ol8/artificial_intelligence_has_become_my_obsession/)
-- [Making a Really good discord bot anyone wanna collaborate reply &quot;Yeah Let&#39;s do it&quot;](https://www.reddit.com/r/Python/comments/11y9l2g/making_a_really_good_discord_bot_anyone_wanna/)
-- [Open source tool Pair, An iterative, stateful chat-like interface for programmers to pair programming with GPT-4](https://www.reddit.com/r/Python/comments/11y8w3t/open_source_tool_pair_an_iterative_stateful/)
 <!-- BLOG-POST-LIST:END -->
