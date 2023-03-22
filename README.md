@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling Files In Python - Opening, Reading &amp; Writing](https://www.reddit.com/r/Python/comments/11yee7y/handling_files_in_python_opening_reading_writing/)
+- [Implementing a BackgroundRunner with Flask-Executor](https://www.reddit.com/r/Python/comments/11yd97t/implementing_a_backgroundrunner_with_flaskexecutor/)
 - [Celebrating 25 Years of cURL! 🎂](https://www.reddit.com/r/Python/comments/11ycnec/celebrating_25_years_of_curl/)
 - [pytest tips and tricks](https://www.reddit.com/r/Python/comments/11ycg3k/pytest_tips_and_tricks/)
 - [PyVibe: Easily create styled web pages with Python](https://www.reddit.com/r/Python/comments/11yc2i0/pyvibe_easily_create_styled_web_pages_with_python/)
-- [another 4x to 5x speed up in calling #WASM #WebAssembly from python is on the horizon](https://www.reddit.com/r/Python/comments/11yazr0/another_4x_to_5x_speed_up_in_calling_wasm/)
-- [Welcome to the PyPI Blog](https://www.reddit.com/r/Python/comments/11y9y9o/welcome_to_the_pypi_blog/)
 <!-- BLOG-POST-LIST:END -->
