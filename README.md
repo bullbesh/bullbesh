@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Talk with LLaMA using txtchat](https://www.reddit.com/r/Python/comments/11yzjl9/talk_with_llama_using_txtchat/)
+- [Birthday paradox](https://www.reddit.com/r/Python/comments/11yzg7d/birthday_paradox/)
+- [How do I advance as a Python Programmer in general?](https://www.reddit.com/r/Python/comments/11yzbnn/how_do_i_advance_as_a_python_programmer_in_general/)
 - [Auto Login and Auto Prompt for non api chat gpt. No cloudfare so far!!](https://www.reddit.com/r/Python/comments/11yxp81/auto_login_and_auto_prompt_for_non_api_chat_gpt/)
 - [Python-based &lpar;or usable through command-line&rpar; synths and samplers](https://www.reddit.com/r/Python/comments/11yrwfz/pythonbased_or_usable_through_commandline_synths/)
-- [Web Scraping Amazon using Python](https://www.reddit.com/r/Python/comments/11yrni9/web_scraping_amazon_using_python/)
-- [Using Python to stream data at scale to and from pandas data frame + Intro offer](https://www.reddit.com/r/Python/comments/11yrjga/using_python_to_stream_data_at_scale_to_and_from/)
-- [python filename linter : a small pre-commit hook I made to lint python files and their folders to be snake_case](https://www.reddit.com/r/Python/comments/11yp6pv/python_filename_linter_a_small_precommit_hook_i/)
 <!-- BLOG-POST-LIST:END -->
