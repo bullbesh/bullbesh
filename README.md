@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Going to fail an Exam because I wasn&#39;t prepared](https://www.reddit.com/r/Python/comments/11y6h5r/going_to_fail_an_exam_because_i_wasnt_prepared/)
 - [PyLLaMACpp: A simple way to run llama.cpp + Python bindings](https://www.reddit.com/r/Python/comments/11y3q6p/pyllamacpp_a_simple_way_to_run_llamacpp_python/)
 - [Was there a reason the post regarding the Devpost Python Hackathon was removed?](https://www.reddit.com/r/Python/comments/11y2nk2/was_there_a_reason_the_post_regarding_the_devpost/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/11xzshx/wednesday_daily_thread_beginner_questions/)
 - [PyVibe: Generate styled HTML pages from Python](https://www.reddit.com/r/Python/comments/11xzbyp/pyvibe_generate_styled_html_pages_from_python/)
-- [some leetcode solutions for you guys](https://www.reddit.com/r/Python/comments/11xst05/some_leetcode_solutions_for_you_guys/)
 <!-- BLOG-POST-LIST:END -->
