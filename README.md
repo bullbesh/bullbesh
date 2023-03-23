@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [When Should You Use .__repr__&lpar;&rpar; vs .__str__&lpar;&rpar; in Python? – Real Python](https://www.reddit.com/r/Python/comments/11zl8pi/when_should_you_use_repr_vs_str_in_python_real/)
 - [Cheshire Cat - Open source layer on top of any language model &lpar;extendible via plugins&rpar;](https://www.reddit.com/r/Python/comments/11zk83o/cheshire_cat_open_source_layer_on_top_of_any/)
 - [Statista resource ♥](https://www.reddit.com/r/Python/comments/11zjw97/statista_resource/)
 - [Arguments against separating `test` from `src` in a python package?](https://www.reddit.com/r/Python/comments/11zjjzy/arguments_against_separating_test_from_src_in_a/)
 - [Monty Hall Problem, Simulation and New Perspective](https://www.reddit.com/r/Python/comments/11zi407/monty_hall_problem_simulation_and_new_perspective/)
-- [How to implement __getitem__, __setitem__, and __delitem__ in Python](https://www.reddit.com/r/Python/comments/11zhvhq/how_to_implement_getitem_setitem_and_delitem_in/)
 <!-- BLOG-POST-LIST:END -->
