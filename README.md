@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Daft: The Distributed Python Dataframe](https://www.reddit.com/r/Python/comments/11zsmz3/daft_the_distributed_python_dataframe/)
+- [Speeding up text processing in Python &lpar;is hard&rpar;](https://www.reddit.com/r/Python/comments/11zsess/speeding_up_text_processing_in_python_is_hard/)
 - [How to Use Memgraph With Python and Jupyter Notebooks](https://www.reddit.com/r/Python/comments/11zqb7k/how_to_use_memgraph_with_python_and_jupyter/)
 - [Galactic Something](https://www.reddit.com/r/Python/comments/11zo0ou/galactic_something/)
 - [my first python, aka fastapi is my new favorite thing](https://www.reddit.com/r/Python/comments/11zmn7x/my_first_python_aka_fastapi_is_my_new_favorite/)
-- [When Should You Use .__repr__&lpar;&rpar; vs .__str__&lpar;&rpar; in Python? – Real Python](https://www.reddit.com/r/Python/comments/11zl8pi/when_should_you_use_repr_vs_str_in_python_real/)
-- [Cheshire Cat - Open source layer on top of any language model &lpar;extendible via plugins&rpar;](https://www.reddit.com/r/Python/comments/11zk83o/cheshire_cat_open_source_layer_on_top_of_any/)
 <!-- BLOG-POST-LIST:END -->
