@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cheshire Cat - Open source layer on top of any language model &lpar;extendible via plugins&rpar;](https://www.reddit.com/r/Python/comments/11zk83o/cheshire_cat_open_source_layer_on_top_of_any/)
+- [Statista resource ♥](https://www.reddit.com/r/Python/comments/11zjw97/statista_resource/)
+- [Arguments against separating `test` from `src` in a python package?](https://www.reddit.com/r/Python/comments/11zjjzy/arguments_against_separating_test_from_src_in_a/)
 - [Monty Hall Problem, Simulation and New Perspective](https://www.reddit.com/r/Python/comments/11zi407/monty_hall_problem_simulation_and_new_perspective/)
 - [How to implement __getitem__, __setitem__, and __delitem__ in Python](https://www.reddit.com/r/Python/comments/11zhvhq/how_to_implement_getitem_setitem_and_delitem_in/)
-- [Why is Python Best for Automation?](https://www.reddit.com/r/Python/comments/11zgrg4/why_is_python_best_for_automation/)
-- [Tools for address verification/repair](https://www.reddit.com/r/Python/comments/11zepzq/tools_for_address_verificationrepair/)
-- [Hey Guys, I&#39;m an Open Source enthusiast. StackFoss.com is an open source StackOverFlow alternative, and what makes StackFoss awesome is Focus on open source and Ad-free.](https://www.reddit.com/r/Python/comments/11zb27l/hey_guys_im_an_open_source_enthusiast/)
 <!-- BLOG-POST-LIST:END -->
