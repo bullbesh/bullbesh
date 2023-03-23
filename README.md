@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it a good time to use asyncio?](https://www.reddit.com/r/Python/comments/11zsr7f/is_it_a_good_time_to_use_asyncio/)
 - [Daft: The Distributed Python Dataframe](https://www.reddit.com/r/Python/comments/11zsmz3/daft_the_distributed_python_dataframe/)
 - [Speeding up text processing in Python &lpar;is hard&rpar;](https://www.reddit.com/r/Python/comments/11zsess/speeding_up_text_processing_in_python_is_hard/)
 - [How to Use Memgraph With Python and Jupyter Notebooks](https://www.reddit.com/r/Python/comments/11zqb7k/how_to_use_memgraph_with_python_and_jupyter/)
 - [Galactic Something](https://www.reddit.com/r/Python/comments/11zo0ou/galactic_something/)
-- [my first python, aka fastapi is my new favorite thing](https://www.reddit.com/r/Python/comments/11zmn7x/my_first_python_aka_fastapi_is_my_new_favorite/)
 <!-- BLOG-POST-LIST:END -->
