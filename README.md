@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Basic Python problem. What am I doing wrong???](https://www.reddit.com/r/Python/comments/120t076/basic_python_problem_what_am_i_doing_wrong/)
+- [Generating PDF files via FastAPI and sending the file to the user&#39;s email. &lpar;Currently using PyPDF2&rpar;](https://www.reddit.com/r/Python/comments/120spc5/generating_pdf_files_via_fastapi_and_sending_the/)
 - [New release of FastKafka supporting Redpanda](https://www.reddit.com/r/Python/comments/120mt5k/new_release_of_fastkafka_supporting_redpanda/)
 - [Spotr - a simple spotify CLI made in python](https://www.reddit.com/r/Python/comments/120mdb8/spotr_a_simple_spotify_cli_made_in_python/)
 - [pandas 2.0 is coming out soon](https://www.reddit.com/r/Python/comments/120mci9/pandas_20_is_coming_out_soon/)
-- [Want to create a Telegram bot by using Python? Here is what you need to know](https://www.reddit.com/r/Python/comments/120lmhh/want_to_create_a_telegram_bot_by_using_python/)
-- [So, You Recommended a Python Time-Series Package … Now What?](https://www.reddit.com/r/Python/comments/120l3te/so_you_recommended_a_python_timeseries_package/)
 <!-- BLOG-POST-LIST:END -->
