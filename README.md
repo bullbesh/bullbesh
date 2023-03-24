@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - 0ut0flin3/fileghost: encrypt anything](https://www.reddit.com/r/Python/comments/120j95o/github_0ut0flin3fileghost_encrypt_anything/)
+- [Python Verse Series: The Ultimate Guide for Beginners in Python!](https://www.reddit.com/r/Python/comments/120iu3i/python_verse_series_the_ultimate_guide_for/)
 - [Customs Inspector - Easy manual auditing of Python Poetry package updates](https://www.reddit.com/r/Python/comments/1201eri/customs_inspector_easy_manual_auditing_of_python/)
 - [Python script to generate Table of Contents of a users Github gists](https://www.reddit.com/r/Python/comments/1200ngq/python_script_to_generate_table_of_contents_of_a/)
 - [Part time work/roles using python.](https://www.reddit.com/r/Python/comments/11zzn4i/part_time_workroles_using_python/)
-- [I am an incoming Aerospace Engineering undergrad and would like some feedback](https://www.reddit.com/r/Python/comments/11zvsv5/i_am_an_incoming_aerospace_engineering_undergrad/)
-- [Live Tutorial on Scaling Python with Dask and Coiled &lpar;April 13&rpar;](https://www.reddit.com/r/Python/comments/11zubw8/live_tutorial_on_scaling_python_with_dask_and/)
 <!-- BLOG-POST-LIST:END -->
