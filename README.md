@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New release of FastKafka supporting Redpanda](https://www.reddit.com/r/Python/comments/120mt5k/new_release_of_fastkafka_supporting_redpanda/)
+- [Spotr - a simple spotify CLI made in python](https://www.reddit.com/r/Python/comments/120mdb8/spotr_a_simple_spotify_cli_made_in_python/)
+- [pandas 2.0 is coming out soon](https://www.reddit.com/r/Python/comments/120mci9/pandas_20_is_coming_out_soon/)
 - [Want to create a Telegram bot by using Python? Here is what you need to know](https://www.reddit.com/r/Python/comments/120lmhh/want_to_create_a_telegram_bot_by_using_python/)
 - [So, You Recommended a Python Time-Series Package … Now What?](https://www.reddit.com/r/Python/comments/120l3te/so_you_recommended_a_python_timeseries_package/)
-- [GitHub - 0ut0flin3/fileghost: encrypt anything](https://www.reddit.com/r/Python/comments/120j95o/github_0ut0flin3fileghost_encrypt_anything/)
-- [Python Verse Series: The Ultimate Guide for Beginners in Python!](https://www.reddit.com/r/Python/comments/120iu3i/python_verse_series_the_ultimate_guide_for/)
-- [Customs Inspector - Easy manual auditing of Python Poetry package updates](https://www.reddit.com/r/Python/comments/1201eri/customs_inspector_easy_manual_auditing_of_python/)
 <!-- BLOG-POST-LIST:END -->
