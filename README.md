@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tired of mediocre jobs, teaching self Python.](https://www.reddit.com/r/Python/comments/1220cw8/tired_of_mediocre_jobs_teaching_self_python/)
 - [10 beginner python projects with code snippets](https://www.reddit.com/r/Python/comments/121ydvb/10_beginner_python_projects_with_code_snippets/)
 - [python help](https://www.reddit.com/r/Python/comments/121yasp/python_help/)
 - [Which Jupyter Notebook service has worked best for you?](https://www.reddit.com/r/Python/comments/121yagw/which_jupyter_notebook_service_has_worked_best/)
 - [macos Terminal not detecting Python](https://www.reddit.com/r/Python/comments/121xthd/macos_terminal_not_detecting_python/)
-- [Machine Learning with Project - Complete Tutorial](https://www.reddit.com/r/Python/comments/121w9pu/machine_learning_with_project_complete_tutorial/)
 <!-- BLOG-POST-LIST:END -->
