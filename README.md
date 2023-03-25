@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Warning, Streamlit collects a lot of data!](https://www.reddit.com/r/Python/comments/121pvdy/warning_streamlit_collects_a_lot_of_data/)
 - [Zang - A dynamically typed programming language made in python](https://www.reddit.com/r/Python/comments/121ofpa/zang_a_dynamically_typed_programming_language/)
-- [Sports statistics for sports betting](https://www.reddit.com/r/Python/comments/121odip/sports_statistics_for_sports_betting/)
 - [Python on Silicon Mac](https://www.reddit.com/r/Python/comments/121nqho/python_on_silicon_mac/)
 - [Youtube downloader](https://www.reddit.com/r/Python/comments/121nbko/youtube_downloader/)
 - [pywinterminal -- fun project for Windows/Linux admins](https://www.reddit.com/r/Python/comments/121lyf1/pywinterminal_fun_project_for_windowslinux_admins/)
