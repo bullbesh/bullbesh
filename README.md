@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pywinterminal -- fun project for Windows/Linux admins](https://www.reddit.com/r/Python/comments/121lyf1/pywinterminal_fun_project_for_windowslinux_admins/)
 - [Position Embedding: A Detailed Explanation](https://www.reddit.com/r/Python/comments/121l3fl/position_embedding_a_detailed_explanation/)
 - [Panther - Throttling &lpar;Day 1&rpar;](https://www.reddit.com/r/Python/comments/121ip41/panther_throttling_day_1/)
 - [How to test Python Programs with Pytest](https://www.reddit.com/r/Python/comments/121i245/how_to_test_python_programs_with_pytest/)
 - [A system for deep learning and reinforcement learning.](https://www.reddit.com/r/Python/comments/121h7fh/a_system_for_deep_learning_and_reinforcement/)
-- [My first app in Tkinter - Bézier curve read off](https://www.reddit.com/r/Python/comments/121h43w/my_first_app_in_tkinter_bézier_curve_read_off/)
 <!-- BLOG-POST-LIST:END -->
