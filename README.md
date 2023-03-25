@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to test Python Programs with Pytest](https://www.reddit.com/r/Python/comments/121i245/how_to_test_python_programs_with_pytest/)
 - [A system for deep learning and reinforcement learning.](https://www.reddit.com/r/Python/comments/121h7fh/a_system_for_deep_learning_and_reinforcement/)
 - [My first app in Tkinter - Bézier curve read off](https://www.reddit.com/r/Python/comments/121h43w/my_first_app_in_tkinter_bézier_curve_read_off/)
 - [Input on designing an introduction to python course](https://www.reddit.com/r/Python/comments/121gujc/input_on_designing_an_introduction_to_python/)
 - [https://www.fiverr.com/share/Ebzma7](https://www.reddit.com/r/Python/comments/121f99i/httpswwwfiverrcomshareebzma7/)
-- [Build your own python security tools - PortScanner, Visual Network Tracker and Anonymous FTP Scanner](https://www.reddit.com/r/Python/comments/121f4w0/build_your_own_python_security_tools_portscanner/)
 <!-- BLOG-POST-LIST:END -->
