@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Web Scraping Delay](https://www.reddit.com/r/Python/comments/12159xu/python_web_scraping_delay/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1213pp7/saturday_daily_thread_resource_request_and/)
 - [NASA&#39;s Cassini - Cosmic Dust Analyzer: A proper calibration!](https://www.reddit.com/r/Python/comments/120zfin/nasas_cassini_cosmic_dust_analyzer_a_proper/)
 - [New Release: ChatGPT desktop application written in Python](https://www.reddit.com/r/Python/comments/120xgrr/new_release_chatgpt_desktop_application_written/)
 - [Alarm clock made with Python &amp; Kivy](https://www.reddit.com/r/Python/comments/120vt7l/alarm_clock_made_with_python_kivy/)
-- [reKarma - my first public app ever. MacOS menu bar app that checks reddit&#39;s karma of given user.](https://www.reddit.com/r/Python/comments/120vq47/rekarma_my_first_public_app_ever_macos_menu_bar/)
-- [Using Python and OpenAi API to generate YouTube titles](https://www.reddit.com/r/Python/comments/120ur7d/using_python_and_openai_api_to_generate_youtube/)
 <!-- BLOG-POST-LIST:END -->
