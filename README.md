@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate Your Stock Trading with Investopedia-Bot](https://www.reddit.com/r/Python/comments/1222f6l/automate_your_stock_trading_with_investopediabot/)
+- [Trained an ML model using TensorFlow.js to classify American Sign Language &lpar;ASL&rpar; alphabets on browser. We are creating an open-source platform and would love to receive your feedback on our project.](https://www.reddit.com/r/Python/comments/1221eaw/trained_an_ml_model_using_tensorflowjs_to/)
 - [Tired of mediocre jobs, teaching self Python.](https://www.reddit.com/r/Python/comments/1220cw8/tired_of_mediocre_jobs_teaching_self_python/)
 - [10 beginner python projects with code snippets](https://www.reddit.com/r/Python/comments/121ydvb/10_beginner_python_projects_with_code_snippets/)
 - [python help](https://www.reddit.com/r/Python/comments/121yasp/python_help/)
-- [Which Jupyter Notebook service has worked best for you?](https://www.reddit.com/r/Python/comments/121yagw/which_jupyter_notebook_service_has_worked_best/)
-- [macos Terminal not detecting Python](https://www.reddit.com/r/Python/comments/121xthd/macos_terminal_not_detecting_python/)
 <!-- BLOG-POST-LIST:END -->
