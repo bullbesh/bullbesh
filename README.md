@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 beginner python projects with code snippets](https://www.reddit.com/r/Python/comments/121ydvb/10_beginner_python_projects_with_code_snippets/)
+- [python help](https://www.reddit.com/r/Python/comments/121yasp/python_help/)
+- [Which Jupyter Notebook service has worked best for you?](https://www.reddit.com/r/Python/comments/121yagw/which_jupyter_notebook_service_has_worked_best/)
+- [macos Terminal not detecting Python](https://www.reddit.com/r/Python/comments/121xthd/macos_terminal_not_detecting_python/)
 - [Machine Learning with Project - Complete Tutorial](https://www.reddit.com/r/Python/comments/121w9pu/machine_learning_with_project_complete_tutorial/)
-- [Need help with running code on Python 3](https://www.reddit.com/r/Python/comments/121vny4/need_help_with_running_code_on_python_3/)
-- [Warning, Streamlit collects a lot of data!](https://www.reddit.com/r/Python/comments/121pvdy/warning_streamlit_collects_a_lot_of_data/)
-- [Zang - A dynamically typed programming language made in python](https://www.reddit.com/r/Python/comments/121ofpa/zang_a_dynamically_typed_programming_language/)
-- [Python on Silicon Mac](https://www.reddit.com/r/Python/comments/121nqho/python_on_silicon_mac/)
 <!-- BLOG-POST-LIST:END -->
