@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zang - A dynamically typed programming language made in python](https://www.reddit.com/r/Python/comments/121ofpa/zang_a_dynamically_typed_programming_language/)
+- [Sports statistics for sports betting](https://www.reddit.com/r/Python/comments/121odip/sports_statistics_for_sports_betting/)
+- [Python on Silicon Mac](https://www.reddit.com/r/Python/comments/121nqho/python_on_silicon_mac/)
+- [Youtube downloader](https://www.reddit.com/r/Python/comments/121nbko/youtube_downloader/)
 - [pywinterminal -- fun project for Windows/Linux admins](https://www.reddit.com/r/Python/comments/121lyf1/pywinterminal_fun_project_for_windowslinux_admins/)
-- [Position Embedding: A Detailed Explanation](https://www.reddit.com/r/Python/comments/121l3fl/position_embedding_a_detailed_explanation/)
-- [Panther - Throttling &lpar;Day 1&rpar;](https://www.reddit.com/r/Python/comments/121ip41/panther_throttling_day_1/)
-- [How to test Python Programs with Pytest](https://www.reddit.com/r/Python/comments/121i245/how_to_test_python_programs_with_pytest/)
-- [A system for deep learning and reinforcement learning.](https://www.reddit.com/r/Python/comments/121h7fh/a_system_for_deep_learning_and_reinforcement/)
 <!-- BLOG-POST-LIST:END -->
