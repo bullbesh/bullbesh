@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [https://www.fiverr.com/share/Ebzma7](https://www.reddit.com/r/Python/comments/121f99i/httpswwwfiverrcomshareebzma7/)
+- [Build your own python security tools - PortScanner, Visual Network Tracker and Anonymous FTP Scanner](https://www.reddit.com/r/Python/comments/121f4w0/build_your_own_python_security_tools_portscanner/)
+- [GitHub - blipk/pysh: bash in python](https://www.reddit.com/r/Python/comments/121es8d/github_blipkpysh_bash_in_python/)
 - [Apple Photo Scores: AI Judges Your Photos](https://www.reddit.com/r/Python/comments/121dbas/apple_photo_scores_ai_judges_your_photos/)
 - [popularity behind pydantic](https://www.reddit.com/r/Python/comments/121amct/popularity_behind_pydantic/)
-- [Python software developer role is really profitable?](https://www.reddit.com/r/Python/comments/1219z55/python_software_developer_role_is_really/)
-- [myKamus: A Free and Open Source Indonesian Translation Program](https://www.reddit.com/r/Python/comments/1219gse/mykamus_a_free_and_open_source_indonesian/)
-- [I made a cli tool to convert m3u to pyradio playlist.](https://www.reddit.com/r/Python/comments/1218jin/i_made_a_cli_tool_to_convert_m3u_to_pyradio/)
 <!-- BLOG-POST-LIST:END -->
