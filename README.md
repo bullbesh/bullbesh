@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A system for deep learning and reinforcement learning.](https://www.reddit.com/r/Python/comments/121h7fh/a_system_for_deep_learning_and_reinforcement/)
+- [My first app in Tkinter - Bézier curve read off](https://www.reddit.com/r/Python/comments/121h43w/my_first_app_in_tkinter_bézier_curve_read_off/)
+- [Input on designing an introduction to python course](https://www.reddit.com/r/Python/comments/121gujc/input_on_designing_an_introduction_to_python/)
 - [https://www.fiverr.com/share/Ebzma7](https://www.reddit.com/r/Python/comments/121f99i/httpswwwfiverrcomshareebzma7/)
 - [Build your own python security tools - PortScanner, Visual Network Tracker and Anonymous FTP Scanner](https://www.reddit.com/r/Python/comments/121f4w0/build_your_own_python_security_tools_portscanner/)
-- [GitHub - blipk/pysh: bash in python](https://www.reddit.com/r/Python/comments/121es8d/github_blipkpysh_bash_in_python/)
-- [Apple Photo Scores: AI Judges Your Photos](https://www.reddit.com/r/Python/comments/121dbas/apple_photo_scores_ai_judges_your_photos/)
-- [popularity behind pydantic](https://www.reddit.com/r/Python/comments/121amct/popularity_behind_pydantic/)
 <!-- BLOG-POST-LIST:END -->
