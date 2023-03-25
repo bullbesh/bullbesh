@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 VSCode Extensions for Python Developers in 2023!](https://www.reddit.com/r/Python/comments/1217mtx/top_5_vscode_extensions_for_python_developers_in/)
 - [Python Web Scraping Delay](https://www.reddit.com/r/Python/comments/12159xu/python_web_scraping_delay/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1213pp7/saturday_daily_thread_resource_request_and/)
 - [NASA&#39;s Cassini - Cosmic Dust Analyzer: A proper calibration!](https://www.reddit.com/r/Python/comments/120zfin/nasas_cassini_cosmic_dust_analyzer_a_proper/)
 - [New Release: ChatGPT desktop application written in Python](https://www.reddit.com/r/Python/comments/120xgrr/new_release_chatgpt_desktop_application_written/)
-- [Alarm clock made with Python &amp; Kivy](https://www.reddit.com/r/Python/comments/120vt7l/alarm_clock_made_with_python_kivy/)
 <!-- BLOG-POST-LIST:END -->
