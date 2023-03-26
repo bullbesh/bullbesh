@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [IS IT EVEN WORTH IT](https://www.reddit.com/r/Python/comments/122mwzp/is_it_even_worth_it/)
+- [I developed a CLI tool for querying CSV, Parquet and JSON files](https://www.reddit.com/r/Python/comments/122miha/i_developed_a_cli_tool_for_querying_csv_parquet/)
 - [Starlite updates March &#39;22 | 2.0 is coming](https://www.reddit.com/r/Python/comments/122ld24/starlite_updates_march_22_20_is_coming/)
 - [Python executable makers](https://www.reddit.com/r/Python/comments/122l5el/python_executable_makers/)
 - [Python Mentor](https://www.reddit.com/r/Python/comments/122kxej/python_mentor/)
-- [How to Ban 1+N in Django](https://www.reddit.com/r/Python/comments/122kkrs/how_to_ban_1n_in_django/)
-- [What are your thoughts on Codon compiler having a paid licence?](https://www.reddit.com/r/Python/comments/122gssr/what_are_your_thoughts_on_codon_compiler_having_a/)
 <!-- BLOG-POST-LIST:END -->
