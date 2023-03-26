@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I was giving courses on Udemy, I want to try the Youtube this time. I uploaded a Python Fundamentals course to the Youtube](https://www.reddit.com/r/Python/comments/122w1m6/i_was_giving_courses_on_udemy_i_want_to_try_the/)
+- [I made a complete Data Science Project using Python and uploaded it to the Youtube with the explanations of all the codes](https://www.reddit.com/r/Python/comments/122vv2i/i_made_a_complete_data_science_project_using/)
+- [I created Pamet - a FOSS desktop app for organizing thoughts and notes](https://www.reddit.com/r/Python/comments/122vjzu/i_created_pamet_a_foss_desktop_app_for_organizing/)
 - [Which area/field for new Python programmer?](https://www.reddit.com/r/Python/comments/122uptr/which_areafield_for_new_python_programmer/)
 - [py-template: one-click Python environment v0.2.0 update](https://www.reddit.com/r/Python/comments/122tph3/pytemplate_oneclick_python_environment_v020_update/)
-- [Simplify Your Programming Journey with These 3 Command-Line Aliases using Pygments &amp; jq](https://www.reddit.com/r/Python/comments/122q41s/simplify_your_programming_journey_with_these_3/)
-- [FCL &lpar;function-centered-language&rpar; is a functional language written in Python](https://www.reddit.com/r/Python/comments/122nw08/fcl_functioncenteredlanguage_is_a_functional/)
-- [I developed a CLI tool for querying CSV, Parquet and JSON files](https://www.reddit.com/r/Python/comments/122miha/i_developed_a_cli_tool_for_querying_csv_parquet/)
 <!-- BLOG-POST-LIST:END -->
