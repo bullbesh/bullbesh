@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python-Selenium-Action: Easily Run Selenium with Python via Github Actions using Headless or Non-Headless browsers!](https://www.reddit.com/r/Python/comments/1224rwb/pythonseleniumaction_easily_run_selenium_with/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/12244qx/sunday_daily_thread_whats_everyone_working_on/)
+- [Best Code I made soo far](https://www.reddit.com/r/Python/comments/122405l/best_code_i_made_soo_far/)
 - [Automate Your Stock Trading with Investopedia-Bot](https://www.reddit.com/r/Python/comments/1222f6l/automate_your_stock_trading_with_investopediabot/)
 - [Trained an ML model using TensorFlow.js to classify American Sign Language &lpar;ASL&rpar; alphabets on browser. We are creating an open-source platform and would love to receive your feedback on our project.](https://www.reddit.com/r/Python/comments/1221eaw/trained_an_ml_model_using_tensorflowjs_to/)
-- [Tired of mediocre jobs, teaching self Python.](https://www.reddit.com/r/Python/comments/1220cw8/tired_of_mediocre_jobs_teaching_self_python/)
-- [10 beginner python projects with code snippets](https://www.reddit.com/r/Python/comments/121ydvb/10_beginner_python_projects_with_code_snippets/)
-- [python help](https://www.reddit.com/r/Python/comments/121yasp/python_help/)
 <!-- BLOG-POST-LIST:END -->
