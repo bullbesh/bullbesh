@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve made a simple and extendable utility to perform tests coverage analysis](https://www.reddit.com/r/Python/comments/123do9n/ive_made_a_simple_and_extendable_utility_to/)
 - [Which GUI module is better in Python? tkinter or PyQt or kivy?](https://www.reddit.com/r/Python/comments/123b6x2/which_gui_module_is_better_in_python_tkinter_or/)
 - [Introducing gptty v0.2.1 - A Powerful CLI Wrapper for ChatGPT with Context Preservation &amp; Query Support, Now on PyPI!](https://www.reddit.com/r/Python/comments/123aiqk/introducing_gptty_v021_a_powerful_cli_wrapper_for/)
 - [Created my first project &#39;macpip&#39;](https://www.reddit.com/r/Python/comments/12366xj/created_my_first_project_macpip/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1234ii2/monday_daily_thread_project_ideas/)
-- [yoyo-migrations performance feedback](https://www.reddit.com/r/Python/comments/1232r09/yoyomigrations_performance_feedback/)
 <!-- BLOG-POST-LIST:END -->
