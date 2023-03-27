@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Title: pyCryptoBox - A Python Package for Secure File Encryption and Decryption Hey there!](https://www.reddit.com/r/Python/comments/123pttc/title_pycryptobox_a_python_package_for_secure/)
+- [Python&#39;s ABC: Understanding the Basics of Abstract Base Classes](https://www.reddit.com/r/Python/comments/123s13u/pythons_abc_understanding_the_basics_of_abstract/)
+- [Optimizing Database Interactions in Python: SQLAlchemy Best Practices](https://www.reddit.com/r/Python/comments/123qssw/optimizing_database_interactions_in_python/)
+- [Building A Custom Geocoding Service With Autocomplete Using Python, PostGIS, And OpenLayers For Address Lookup](https://www.reddit.com/r/Python/comments/123q5pt/building_a_custom_geocoding_service_with/)
 - [docked: A friendly and safe alternative to Dockefile. Write Docker images using the full power of Python.](https://www.reddit.com/r/Python/comments/123pi5y/docked_a_friendly_and_safe_alternative_to/)
 - [I didn&#39;t like that Pandas doesn&#39;t have a .notin method, so I made it myself.](https://www.reddit.com/r/Python/comments/123p3n6/i_didnt_like_that_pandas_doesnt_have_a_notin/)
-- [gRPC and Pydantic](https://www.reddit.com/r/Python/comments/123m4oa/grpc_and_pydantic/)
-- [Looking for Python programmers to participate in a thesis study: Python Code Evaluation Survey &lpar;5-10 min&rpar;](https://www.reddit.com/r/Python/comments/123ke17/looking_for_python_programmers_to_participate_in/)
 <!-- BLOG-POST-LIST:END -->
