@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [collecting old twitter data](https://www.reddit.com/r/Python/comments/123n9fi/collecting_old_twitter_data/)
+- [Title: pyCryptoBox - A Python Package for Secure File Encryption and Decryption Hey there!](https://www.reddit.com/r/Python/comments/123pttc/title_pycryptobox_a_python_package_for_secure/)
+- [docked: A friendly and safe alternative to Dockefile. Write Docker images using the full power of Python.](https://www.reddit.com/r/Python/comments/123pi5y/docked_a_friendly_and_safe_alternative_to/)
+- [I didn&#39;t like that Pandas doesn&#39;t have a .notin method, so I made it myself.](https://www.reddit.com/r/Python/comments/123p3n6/i_didnt_like_that_pandas_doesnt_have_a_notin/)
 - [gRPC and Pydantic](https://www.reddit.com/r/Python/comments/123m4oa/grpc_and_pydantic/)
 - [Looking for Python programmers to participate in a thesis study: Python Code Evaluation Survey &lpar;5-10 min&rpar;](https://www.reddit.com/r/Python/comments/123ke17/looking_for_python_programmers_to_participate_in/)
-- [10 highly effective BI dashboards that you can build with Python](https://www.reddit.com/r/Python/comments/123j8kd/10_highly_effective_bi_dashboards_that_you_can/)
-- [ckit: Create a user interface for your frequently used commands with simple yaml files.](https://www.reddit.com/r/Python/comments/123ik6d/ckit_create_a_user_interface_for_your_frequently/)
 <!-- BLOG-POST-LIST:END -->
