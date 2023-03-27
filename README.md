@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 highly effective BI dashboards that you can build with Python](https://www.reddit.com/r/Python/comments/123j8kd/10_highly_effective_bi_dashboards_that_you_can/)
 - [ckit: Create a user interface for your frequently used commands with simple yaml files.](https://www.reddit.com/r/Python/comments/123ik6d/ckit_create_a_user_interface_for_your_frequently/)
 - [How to Build Python Media Player with PyQt5](https://www.reddit.com/r/Python/comments/123hgj0/how_to_build_python_media_player_with_pyqt5/)
 - [https://replit.com/@zucalcu/Python?s=app](https://www.reddit.com/r/Python/comments/123h8ye/httpsreplitcomzucalcupythonsapp/)
 - [I made a Data Science project &lpar;Time Series Analysis Methods - Data Analysis &amp; Machine Learning&rpar; using Python and uploaded it to the Youtube](https://www.reddit.com/r/Python/comments/123fitp/i_made_a_data_science_project_time_series/)
-- [I&#39;ve made a simple and extendable utility to perform tests coverage analysis](https://www.reddit.com/r/Python/comments/123do9n/ive_made_a_simple_and_extendable_utility_to/)
 <!-- BLOG-POST-LIST:END -->
