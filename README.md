@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I appreciate all the support of Part 1. Here&#39;s Part 2 of creating my own dividend tracker using yahoo-fin instead of yfinance which has been giving me problems. In this video, I get the monthly dividend and plot it out temporarily using matplotlib and will be in plotly dash next video. Enjoy!](https://www.reddit.com/r/Python/comments/123vzfz/i_appreciate_all_the_support_of_part_1_heres_part/)
+- [Extracting Data from Wikidata Using SPARQL and Python](https://www.reddit.com/r/Python/comments/123vsh2/extracting_data_from_wikidata_using_sparql_and/)
 - [We want to hear from you!! What do you think about an ODM/ORM solution for MongoDB in your language of choice?](https://www.reddit.com/r/Python/comments/123ur1v/we_want_to_hear_from_you_what_do_you_think_about/)
 - [Hikaru 1.0.0 released](https://www.reddit.com/r/Python/comments/123sqzs/hikaru_100_released/)
 - [Python&#39;s ABC: Understanding the Basics of Abstract Base Classes](https://www.reddit.com/r/Python/comments/123s13u/pythons_abc_understanding_the_basics_of_abstract/)
-- [Optimizing Database Interactions in Python: SQLAlchemy Best Practices](https://www.reddit.com/r/Python/comments/123qssw/optimizing_database_interactions_in_python/)
-- [Building A Custom Geocoding Service With Autocomplete Using Python, PostGIS, And OpenLayers For Address Lookup](https://www.reddit.com/r/Python/comments/123q5pt/building_a_custom_geocoding_service_with/)
 <!-- BLOG-POST-LIST:END -->
