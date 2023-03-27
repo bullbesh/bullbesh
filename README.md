@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [collecting old twitter data](https://www.reddit.com/r/Python/comments/123n9fi/collecting_old_twitter_data/)
 - [gRPC and Pydantic](https://www.reddit.com/r/Python/comments/123m4oa/grpc_and_pydantic/)
 - [Looking for Python programmers to participate in a thesis study: Python Code Evaluation Survey &lpar;5-10 min&rpar;](https://www.reddit.com/r/Python/comments/123ke17/looking_for_python_programmers_to_participate_in/)
 - [10 highly effective BI dashboards that you can build with Python](https://www.reddit.com/r/Python/comments/123j8kd/10_highly_effective_bi_dashboards_that_you_can/)
 - [ckit: Create a user interface for your frequently used commands with simple yaml files.](https://www.reddit.com/r/Python/comments/123ik6d/ckit_create_a_user_interface_for_your_frequently/)
-- [How to Build Python Media Player with PyQt5](https://www.reddit.com/r/Python/comments/123hgj0/how_to_build_python_media_player_with_pyqt5/)
 <!-- BLOG-POST-LIST:END -->
