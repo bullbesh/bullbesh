@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [API Access and Token Introspection with OpenID Connect in ZITADEL](https://www.reddit.com/r/Python/comments/124e12r/api_access_and_token_introspection_with_openid/)
 - [I made a file manager in python](https://www.reddit.com/r/Python/comments/12460ah/i_made_a_file_manager_in_python/)
 - [Seeking early feedback on MegaMock - a dev experience upgrade to mocking](https://www.reddit.com/r/Python/comments/1245ugm/seeking_early_feedback_on_megamock_a_dev/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1245s9e/tuesday_daily_thread_advanced_questions/)
 - [Any preferred library?](https://www.reddit.com/r/Python/comments/1245iex/any_preferred_library/)
-- [my first rock paper scissors game as a python newbie &lpar;code is not that great but it works&rpar;](https://www.reddit.com/r/Python/comments/1244rqi/my_first_rock_paper_scissors_game_as_a_python/)
 <!-- BLOG-POST-LIST:END -->
