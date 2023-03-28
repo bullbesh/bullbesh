@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 582 rejected - consensus among the community needed](https://www.reddit.com/r/Python/comments/12552g8/pep_582_rejected_consensus_among_the_community/)
 - [A small toolkit used for collecting responses from ChatGPT for research / data analysis](https://www.reddit.com/r/Python/comments/1253p23/a_small_toolkit_used_for_collecting_responses/)
 - [Has anyone done the onlc intro to python course?](https://www.reddit.com/r/Python/comments/124zo2u/has_anyone_done_the_onlc_intro_to_python_course/)
 - [Does anyone have recommendations on where to stay for PyData Seattle?](https://www.reddit.com/r/Python/comments/124zl74/does_anyone_have_recommendations_on_where_to_stay/)
 - [Pants &quot;Environments&quot;: simpler multi-platform workflows](https://www.reddit.com/r/Python/comments/124yazu/pants_environments_simpler_multiplatform_workflows/)
-- [[Girok] The most beautiful and powerful CLI scheduler to boost your productivity!](https://www.reddit.com/r/Python/comments/124xyka/girok_the_most_beautiful_and_powerful_cli/)
 <!-- BLOG-POST-LIST:END -->
