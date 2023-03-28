@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Instruct-NeRF2NeRF: An AI Method For Editing 3D Scenes With Text-Instructions](https://www.reddit.com/r/Python/comments/124u9dm/instructnerf2nerf_an_ai_method_for_editing_3d/)
+- [Simple but useful decorators to save input of a file as pickle](https://www.reddit.com/r/Python/comments/124todq/simple_but_useful_decorators_to_save_input_of_a/)
+- [FluidFrames 1.13 - video AI interpolation app &lpar;RIFE-HDv3&rpar;](https://www.reddit.com/r/Python/comments/124s64e/fluidframes_113_video_ai_interpolation_app/)
 - [Building an AI to Read the News and Make Stock Trades](https://www.reddit.com/r/Python/comments/124rily/building_an_ai_to_read_the_news_and_make_stock/)
 - [Geometry dash, in Python!](https://www.reddit.com/r/Python/comments/124qchh/geometry_dash_in_python/)
-- [I used GPT-4 to build a replacement for StackOverflow](https://www.reddit.com/r/Python/comments/124pfgr/i_used_gpt4_to_build_a_replacement_for/)
-- [Building a Remote Controlled Skateboard Ramp in Python](https://www.reddit.com/r/Python/comments/124p7gj/building_a_remote_controlled_skateboard_ramp_in/)
-- [v0.2.0 Envio - The Trending Modern And Secure CLI Tool You Absolutely Need For Your Environment Variables](https://www.reddit.com/r/Python/comments/124p1as/v020_envio_the_trending_modern_and_secure_cli/)
 <!-- BLOG-POST-LIST:END -->
