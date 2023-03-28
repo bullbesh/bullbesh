@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Has anyone done the onlc intro to python course?](https://www.reddit.com/r/Python/comments/124zo2u/has_anyone_done_the_onlc_intro_to_python_course/)
+- [Does anyone have recommendations on where to stay for PyData Seattle?](https://www.reddit.com/r/Python/comments/124zl74/does_anyone_have_recommendations_on_where_to_stay/)
 - [Pants &quot;Environments&quot;: simpler multi-platform workflows](https://www.reddit.com/r/Python/comments/124yazu/pants_environments_simpler_multiplatform_workflows/)
 - [[Girok] The most beautiful and powerful CLI scheduler to boost your productivity!](https://www.reddit.com/r/Python/comments/124xyka/girok_the_most_beautiful_and_powerful_cli/)
 - [For Fun: Building an Algo with TF and Keras to Read the News and Predict Stock Prices](https://www.reddit.com/r/Python/comments/124ve2w/for_fun_building_an_algo_with_tf_and_keras_to/)
-- [Instruct-NeRF2NeRF: An AI Method For Editing 3D Scenes With Text-Instructions](https://www.reddit.com/r/Python/comments/124u9dm/instructnerf2nerf_an_ai_method_for_editing_3d/)
-- [Simple but useful decorators to save input of a file as pickle](https://www.reddit.com/r/Python/comments/124todq/simple_but_useful_decorators_to_save_input_of_a/)
 <!-- BLOG-POST-LIST:END -->
