@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The beginner questions man…](https://www.reddit.com/r/Python/comments/124iqa9/the_beginner_questions_man/)
+- [I made a tutorial type Python basic calculator video which can be helpful on remembering the basics](https://www.reddit.com/r/Python/comments/124iq0d/i_made_a_tutorial_type_python_basic_calculator/)
 - [Relieving your Python packaging pain](https://www.reddit.com/r/Python/comments/124hktv/relieving_your_python_packaging_pain/)
 - [Downloading PDFs from URLs](https://www.reddit.com/r/Python/comments/124g3mo/downloading_pdfs_from_urls/)
 - [A small doubt..!](https://www.reddit.com/r/Python/comments/124fvxb/a_small_doubt/)
-- [API Access and Token Introspection with OpenID Connect in ZITADEL](https://www.reddit.com/r/Python/comments/124e12r/api_access_and_token_introspection_with_openid/)
-- [I made a file manager in python](https://www.reddit.com/r/Python/comments/12460ah/i_made_a_file_manager_in_python/)
 <!-- BLOG-POST-LIST:END -->
