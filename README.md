@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing python extensions never been easier… with Rust and PyO3](https://www.reddit.com/r/Python/comments/125q9vo/writing_python_extensions_never_been_easier_with/)
+- [The worst diagnostic ever?](https://www.reddit.com/r/Python/comments/125pgpf/the_worst_diagnostic_ever/)
+- [I created a Porsche Model Classification AI using Deep Learning](https://www.reddit.com/r/Python/comments/125pfmo/i_created_a_porsche_model_classification_ai_using/)
+- [Does anyone want to learn Python with me?](https://www.reddit.com/r/Python/comments/125peoo/does_anyone_want_to_learn_python_with_me/)
 - [Help needed! Securing credentials, safe use of credentials etc.](https://www.reddit.com/r/Python/comments/125nd08/help_needed_securing_credentials_safe_use_of/)
-- [How to revert a migration in django?](https://www.reddit.com/r/Python/comments/125n0ip/how_to_revert_a_migration_in_django/)
-- [Keystroke Dynamics -- Predicting the User — Lambda App](https://www.reddit.com/r/Python/comments/125m0cd/keystroke_dynamics_predicting_the_user_lambda_app/)
-- [Datapane - Build internal data products in 100% Python](https://www.reddit.com/r/Python/comments/125lyru/datapane_build_internal_data_products_in_100/)
-- [Stock tracker](https://www.reddit.com/r/Python/comments/125lx0k/stock_tracker/)
 <!-- BLOG-POST-LIST:END -->
