@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help needed! Securing credentials, safe use of credentials etc.](https://www.reddit.com/r/Python/comments/125nd08/help_needed_securing_credentials_safe_use_of/)
+- [How to revert a migration in django?](https://www.reddit.com/r/Python/comments/125n0ip/how_to_revert_a_migration_in_django/)
 - [Keystroke Dynamics -- Predicting the User — Lambda App](https://www.reddit.com/r/Python/comments/125m0cd/keystroke_dynamics_predicting_the_user_lambda_app/)
 - [Datapane - Build internal data products in 100% Python](https://www.reddit.com/r/Python/comments/125lyru/datapane_build_internal_data_products_in_100/)
 - [Stock tracker](https://www.reddit.com/r/Python/comments/125lx0k/stock_tracker/)
-- [#LearningPython](https://www.reddit.com/r/Python/comments/125lbef/learningpython/)
-- [A countdown timer in your terminal](https://www.reddit.com/r/Python/comments/125l3vo/a_countdown_timer_in_your_terminal/)
 <!-- BLOG-POST-LIST:END -->
