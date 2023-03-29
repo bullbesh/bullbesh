@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why you should use Python and Rust together](https://www.reddit.com/r/Python/comments/125tilp/why_you_should_use_python_and_rust_together/)
+- [Hello, I made a program called PyKorean.](https://www.reddit.com/r/Python/comments/125vz8n/hello_i_made_a_program_called_pykorean/)
+- [Accessing MS Access databases from Python and Django](https://www.reddit.com/r/Python/comments/125vrmy/accessing_ms_access_databases_from_python_and/)
 - [Using &quot;any&quot; and &quot;all&quot; in Python](https://www.reddit.com/r/Python/comments/125rmr2/using_any_and_all_in_python/)
 - [Writing python extensions never been easier… with Rust and PyO3](https://www.reddit.com/r/Python/comments/125q9vo/writing_python_extensions_never_been_easier_with/)
 - [The worst diagnostic ever?](https://www.reddit.com/r/Python/comments/125pgpf/the_worst_diagnostic_ever/)
-- [I created a Porsche Model Classification AI using Deep Learning](https://www.reddit.com/r/Python/comments/125pfmo/i_created_a_porsche_model_classification_ai_using/)
 <!-- BLOG-POST-LIST:END -->
