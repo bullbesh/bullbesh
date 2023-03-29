@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [help for a beginner:-&rpar; modul could not be resolved:-/](https://www.reddit.com/r/Python/comments/125yai1/help_for_a_beginner_modul_could_not_be_resolved/)
+- [I built a Hosted Python bot that responds to my iMessages](https://www.reddit.com/r/Python/comments/1260wzz/i_built_a_hosted_python_bot_that_responds_to_my/)
 - [AITA? Unless building for a container &lpar;docker/k8s&rpar;, always use a virtual environment for your projects.](https://www.reddit.com/r/Python/comments/125xson/aita_unless_building_for_a_container_dockerk8s/)
 - [Would like to hire a python developer to write me a short script.](https://www.reddit.com/r/Python/comments/125x1iy/would_like_to_hire_a_python_developer_to_write_me/)
 - [First Flask project - YouTube video downloader](https://www.reddit.com/r/Python/comments/125wzpd/first_flask_project_youtube_video_downloader/)
