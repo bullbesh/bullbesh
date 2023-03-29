@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Would like to hire a python developer to write me a short script.](https://www.reddit.com/r/Python/comments/125x1iy/would_like_to_hire_a_python_developer_to_write_me/)
+- [First Flask project - YouTube video downloader](https://www.reddit.com/r/Python/comments/125wzpd/first_flask_project_youtube_video_downloader/)
+- [Textual 0.17.0 adds translucent screens and Option List widget](https://www.reddit.com/r/Python/comments/125wr3s/textual_0170_adds_translucent_screens_and_option/)
 - [Hello, I made a program called PyKorean.](https://www.reddit.com/r/Python/comments/125vz8n/hello_i_made_a_program_called_pykorean/)
 - [Accessing MS Access databases from Python and Django](https://www.reddit.com/r/Python/comments/125vrmy/accessing_ms_access_databases_from_python_and/)
-- [Using &quot;any&quot; and &quot;all&quot; in Python](https://www.reddit.com/r/Python/comments/125rmr2/using_any_and_all_in_python/)
-- [Writing python extensions never been easier… with Rust and PyO3](https://www.reddit.com/r/Python/comments/125q9vo/writing_python_extensions_never_been_easier_with/)
-- [The worst diagnostic ever?](https://www.reddit.com/r/Python/comments/125pgpf/the_worst_diagnostic_ever/)
 <!-- BLOG-POST-LIST:END -->
