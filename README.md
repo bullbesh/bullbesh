@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [VeraDungeon Rogue - A roguelike game in Python](https://www.reddit.com/r/Python/comments/1265u1l/veradungeon_rogue_a_roguelike_game_in_python/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/12658lh/thursday_daily_thread_python_careers_courses_and/)
 - [I wrote a script to turn a satellite dish into a microwave camera](https://www.reddit.com/r/Python/comments/1262jgy/i_wrote_a_script_to_turn_a_satellite_dish_into_a/)
 - [I built a Hosted Python bot that responds to my iMessages](https://www.reddit.com/r/Python/comments/1260wzz/i_built_a_hosted_python_bot_that_responds_to_my/)
 - [AITA? Unless building for a container &lpar;docker/k8s&rpar;, always use a virtual environment for your projects.](https://www.reddit.com/r/Python/comments/125xson/aita_unless_building_for_a_container_dockerk8s/)
-- [Would like to hire a python developer to write me a short script.](https://www.reddit.com/r/Python/comments/125x1iy/would_like_to_hire_a_python_developer_to_write_me/)
-- [First Flask project - YouTube video downloader](https://www.reddit.com/r/Python/comments/125wzpd/first_flask_project_youtube_video_downloader/)
 <!-- BLOG-POST-LIST:END -->
