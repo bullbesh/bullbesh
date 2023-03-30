@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - madawei2699/myGPTReader: myGPTReader is a bot on Slack that can read and summarize any webpage, documents including ebooks, or even videos from YouTube. It can communicate with you through voice. &lpar;a Python project&rpar;](https://www.reddit.com/r/Python/comments/126n53p/github_madawei2699mygptreader_mygptreader_is_a/)
+- [Reverse-engineered Skyscanner API to return a feature they removed](https://www.reddit.com/r/Python/comments/126n47z/reverseengineered_skyscanner_api_to_return_a/)
 - [Build a Maze Solver in Python Using Graphs – Real Python](https://www.reddit.com/r/Python/comments/126mk2m/build_a_maze_solver_in_python_using_graphs_real/)
 - [Seeking Help on Best Fit Teaching Materials for a Non-Teacher](https://www.reddit.com/r/Python/comments/126mgx8/seeking_help_on_best_fit_teaching_materials_for_a/)
 - [I wrote a detailed guide of how Pandas&#39; read_csv&lpar;&rpar; function actually works and the different engine options available, including new features in v2.0. Figured it might be of interest here!](https://www.reddit.com/r/Python/comments/126mfdw/i_wrote_a_detailed_guide_of_how_pandas_read_csv/)
-- [Debugging Python Code Is Like Detective Work](https://www.reddit.com/r/Python/comments/126meab/debugging_python_code_is_like_detective_work/)
-- [Been working on a Rock Paper Scissors game for school and ran into a problem where no matter what I input it still prints the response for &#39;yes&#39;. Can anyone help?](https://www.reddit.com/r/Python/comments/126lzag/been_working_on_a_rock_paper_scissors_game_for/)
 <!-- BLOG-POST-LIST:END -->
