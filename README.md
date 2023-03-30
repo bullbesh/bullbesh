@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Anomaly detection](https://www.reddit.com/r/Python/comments/126jo28/anomaly_detection/)
-- [Made a basic overhead game cam using a ray casting system I made](https://www.reddit.com/r/Python/comments/126inuj/made_a_basic_overhead_game_cam_using_a_ray/)
-- [Introducing cbor-diag, a simple tool dor CBOR Diagnostic Notation](https://www.reddit.com/r/Python/comments/126hckr/introducing_cbordiag_a_simple_tool_dor_cbor/)
-- [Nanobind is a small binding library that exposes C++ types in Python and vice versa](https://www.reddit.com/r/Python/comments/126gnp4/nanobind_is_a_small_binding_library_that_exposes/)
-- [Introducing Pysura, now in beta.](https://www.reddit.com/r/Python/comments/126fxkr/introducing_pysura_now_in_beta/)
+- [Build a Maze Solver in Python Using Graphs – Real Python](https://www.reddit.com/r/Python/comments/126mk2m/build_a_maze_solver_in_python_using_graphs_real/)
+- [Seeking Help on Best Fit Teaching Materials for a Non-Teacher](https://www.reddit.com/r/Python/comments/126mgx8/seeking_help_on_best_fit_teaching_materials_for_a/)
+- [I wrote a detailed guide of how Pandas&#39; read_csv&lpar;&rpar; function actually works and the different engine options available, including new features in v2.0. Figured it might be of interest here!](https://www.reddit.com/r/Python/comments/126mfdw/i_wrote_a_detailed_guide_of_how_pandas_read_csv/)
+- [Debugging Python Code Is Like Detective Work](https://www.reddit.com/r/Python/comments/126meab/debugging_python_code_is_like_detective_work/)
+- [Been working on a Rock Paper Scissors game for school and ran into a problem where no matter what I input it still prints the response for &#39;yes&#39;. Can anyone help?](https://www.reddit.com/r/Python/comments/126lzag/been_working_on_a_rock_paper_scissors_game_for/)
 <!-- BLOG-POST-LIST:END -->
