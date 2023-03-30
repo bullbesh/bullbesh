@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anomaly detection](https://www.reddit.com/r/Python/comments/126jo28/anomaly_detection/)
+- [Made a basic overhead game cam using a ray casting system I made](https://www.reddit.com/r/Python/comments/126inuj/made_a_basic_overhead_game_cam_using_a_ray/)
 - [Introducing cbor-diag, a simple tool dor CBOR Diagnostic Notation](https://www.reddit.com/r/Python/comments/126hckr/introducing_cbordiag_a_simple_tool_dor_cbor/)
 - [Nanobind is a small binding library that exposes C++ types in Python and vice versa](https://www.reddit.com/r/Python/comments/126gnp4/nanobind_is_a_small_binding_library_that_exposes/)
 - [Introducing Pysura, now in beta.](https://www.reddit.com/r/Python/comments/126fxkr/introducing_pysura_now_in_beta/)
-- [Create an ai with python](https://www.reddit.com/r/Python/comments/126cez4/create_an_ai_with_python/)
-- [Book that reads more like a tutor](https://www.reddit.com/r/Python/comments/126c7uq/book_that_reads_more_like_a_tutor/)
 <!-- BLOG-POST-LIST:END -->
