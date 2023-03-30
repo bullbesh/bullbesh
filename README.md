@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Bard vs Bing AI: Who Wins this ChatBot Battle?](https://www.reddit.com/r/Python/comments/126xfql/google_bard_vs_bing_ai_who_wins_this_chatbot/)
+- [TLDR: An extension that uses OpenAI&#39;s api to summarize and help you analyse articles](https://www.reddit.com/r/Python/comments/126x4lo/tldr_an_extension_that_uses_openais_api_to/)
+- [What am I missing to be hired as a Python Developer?](https://www.reddit.com/r/Python/comments/126wztr/what_am_i_missing_to_be_hired_as_a_python/)
 - [Hey folks! Need help with DSA prep](https://www.reddit.com/r/Python/comments/126w2gz/hey_folks_need_help_with_dsa_prep/)
 - [Dive deeper into Django or learn other micro frameworks like Flask or FastAPI?](https://www.reddit.com/r/Python/comments/126vu17/dive_deeper_into_django_or_learn_other_micro/)
-- [Project Ditto - Python Based Pokemon Clone](https://www.reddit.com/r/Python/comments/126v67b/project_ditto_python_based_pokemon_clone/)
-- [Want to get better at Dask Dataframes? Free tutorial 04/05](https://www.reddit.com/r/Python/comments/126ubay/want_to_get_better_at_dask_dataframes_free/)
-- [I get an error when issuing the command &quot;sudo pip3 install --upgrade setuptools&quot; on my raspberry pi 3 a+ &lpar;buster version not bullseye&rpar;](https://www.reddit.com/r/Python/comments/126u85q/i_get_an_error_when_issuing_the_command_sudo_pip3/)
 <!-- BLOG-POST-LIST:END -->
