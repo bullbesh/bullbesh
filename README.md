@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python Program for Palindrome Enthusiasts - Beginner Friendly!](https://www.reddit.com/r/Python/comments/127g8ju/a_python_program_for_palindrome_enthusiasts/)
+- [Free Python event](https://www.reddit.com/r/Python/comments/127fxci/free_python_event/)
+- [Why not tell people to &quot;simply&quot; use pyenv, poetry or anaconda](https://www.reddit.com/r/Python/comments/127fra9/why_not_tell_people_to_simply_use_pyenv_poetry_or/)
 - [Reverse Engineering LED Lights with Python to Turn Your Monitor into an Ambient Monitor](https://www.reddit.com/r/Python/comments/127f7a1/reverse_engineering_led_lights_with_python_to/)
 - [I Found 400+ Incredible Project Ideas with Sources on Product Hunt!!](https://www.reddit.com/r/Python/comments/127edqx/i_found_400_incredible_project_ideas_with_sources/)
-- [[cgpt] Python Module to use chat GPT inside your LAN](https://www.reddit.com/r/Python/comments/127dxlx/cgpt_python_module_to_use_chat_gpt_inside_your_lan/)
-- [comma-python: a persistent Jupyter python kernel for your shell](https://www.reddit.com/r/Python/comments/12790ex/commapython_a_persistent_jupyter_python_kernel/)
-- [Python Hackerrank Series | Practice the Interview Problems](https://www.reddit.com/r/Python/comments/127710g/python_hackerrank_series_practice_the_interview/)
 <!-- BLOG-POST-LIST:END -->
