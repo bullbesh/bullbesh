@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a Voice Assistant using Python and ChatGPT](https://www.reddit.com/r/Python/comments/127mqff/i_made_a_voice_assistant_using_python_and_chatgpt/)
+- [Auto blogging With OpenAI and Python +Free Source Code](https://www.reddit.com/r/Python/comments/127mcr5/auto_blogging_with_openai_and_python_free_source/)
+- [Preparing a consistent Python environment [to build a C program]](https://www.reddit.com/r/Python/comments/127lm0w/preparing_a_consistent_python_environment_to/)
 - [NiceGUI 1.2 paves the way for Electron-like capabilities](https://www.reddit.com/r/Python/comments/127kiep/nicegui_12_paves_the_way_for_electronlike/)
 - [Wow this is cool](https://www.reddit.com/r/Python/comments/127k570/wow_this_is_cool/)
-- [Introduction to Contrastive Learning](https://www.reddit.com/r/Python/comments/127gztw/introduction_to_contrastive_learning/)
-- [A Python Program for Palindrome Enthusiasts - Beginner Friendly!](https://www.reddit.com/r/Python/comments/127g8ju/a_python_program_for_palindrome_enthusiasts/)
-- [Free Python event](https://www.reddit.com/r/Python/comments/127fxci/free_python_event/)
 <!-- BLOG-POST-LIST:END -->
