@@ -11,6 +11,6 @@
 - [Improve your Python code with pre-commit](https://www.reddit.com/r/Python/comments/127tdi2/improve_your_python_code_with_precommit/)
 - [Manipulate file input to post to Python&#39;s WebSSH server?](https://www.reddit.com/r/Python/comments/127t65a/manipulate_file_input_to_post_to_pythons_webssh/)
 - [Simple manga downloader with Python](https://www.reddit.com/r/Python/comments/127t212/simple_manga_downloader_with_python/)
-- [3 Quick Questions from the Hardest Math Test in the World](https://www.reddit.com/r/Python/comments/127spjg/3_quick_questions_from_the_hardest_math_test_in/)
 - [Difference Between seek&lpar;&rpar; &amp; tell&lpar;&rpar; And How To Use](https://www.reddit.com/r/Python/comments/127rtqi/difference_between_seek_tell_and_how_to_use/)
+- [Python Flask Web App, Quiz on Opening Day Baseball Players](https://www.reddit.com/r/Python/comments/127pls1/python_flask_web_app_quiz_on_opening_day_baseball/)
 <!-- BLOG-POST-LIST:END -->
