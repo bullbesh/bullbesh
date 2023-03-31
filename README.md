@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas 101 : Learn pandas in 10 minutes](https://www.reddit.com/r/Python/comments/1280fns/pandas_101_learn_pandas_in_10_minutes/)
 - [I just finished doing my 3rd Python course, what should I do next?](https://www.reddit.com/r/Python/comments/127yfv0/i_just_finished_doing_my_3rd_python_course_what/)
 - [What is important to know to gain full ownership of your project before posting it on the playstore?](https://www.reddit.com/r/Python/comments/127xquy/what_is_important_to_know_to_gain_full_ownership/)
 - [MIT Turbocharges Python’s Notoriously Slow Compiler](https://www.reddit.com/r/Python/comments/127xp03/mit_turbocharges_pythons_notoriously_slow_compiler/)
 - [Is there a syntax highlighter that changes colour of the token based on its return type?](https://www.reddit.com/r/Python/comments/127xonf/is_there_a_syntax_highlighter_that_changes_colour/)
-- [Improve your Python code with pre-commit](https://www.reddit.com/r/Python/comments/127tdi2/improve_your_python_code_with_precommit/)
 <!-- BLOG-POST-LIST:END -->
