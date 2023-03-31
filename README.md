@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is important to know to gain full ownership of your project before posting it on the playstore?](https://www.reddit.com/r/Python/comments/127xquy/what_is_important_to_know_to_gain_full_ownership/)
+- [MIT Turbocharges Python’s Notoriously Slow Compiler](https://www.reddit.com/r/Python/comments/127xp03/mit_turbocharges_pythons_notoriously_slow_compiler/)
+- [Is there a syntax highlighter that changes colour of the token based on its return type?](https://www.reddit.com/r/Python/comments/127xonf/is_there_a_syntax_highlighter_that_changes_colour/)
 - [Improve your Python code with pre-commit](https://www.reddit.com/r/Python/comments/127tdi2/improve_your_python_code_with_precommit/)
 - [Manipulate file input to post to Python&#39;s WebSSH server?](https://www.reddit.com/r/Python/comments/127t65a/manipulate_file_input_to_post_to_pythons_webssh/)
-- [Simple manga downloader with Python](https://www.reddit.com/r/Python/comments/127t212/simple_manga_downloader_with_python/)
-- [Difference Between seek&lpar;&rpar; &amp; tell&lpar;&rpar; And How To Use](https://www.reddit.com/r/Python/comments/127rtqi/difference_between_seek_tell_and_how_to_use/)
-- [Python Flask Web App, Quiz on Opening Day Baseball Players](https://www.reddit.com/r/Python/comments/127pls1/python_flask_web_app_quiz_on_opening_day_baseball/)
 <!-- BLOG-POST-LIST:END -->
