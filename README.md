@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GNU Linux Documentation](https://www.reddit.com/r/Python/comments/12777vu/gnu_linux_documentation/)
+- [Python Hackerrank Series | Practice the Interview Problems](https://www.reddit.com/r/Python/comments/127710g/python_hackerrank_series_practice_the_interview/)
 - [ReactPy: Build ReactJS Interfaces in Pure Python](https://www.reddit.com/r/Python/comments/1274w68/reactpy_build_reactjs_interfaces_in_pure_python/)
 - [A heuristic for lazy-splitting, reading the first n token-separated subarray/substrings of a bytearray/string without actually splitting it entirely --- works faster than Python&#39;s own split on larger streams](https://www.reddit.com/r/Python/comments/1272g3d/a_heuristic_for_lazysplitting_reading_the_first_n/)
 - [Useful helper libraries](https://www.reddit.com/r/Python/comments/1270vsz/useful_helper_libraries/)
-- [People who work in Finance and use Python, what do you do with Python?](https://www.reddit.com/r/Python/comments/126yjoy/people_who_work_in_finance_and_use_python_what_do/)
-- [TLDR: An extension that uses OpenAI&#39;s api to summarize and help you analyse articles](https://www.reddit.com/r/Python/comments/126x4lo/tldr_an_extension_that_uses_openais_api_to/)
 <!-- BLOG-POST-LIST:END -->
