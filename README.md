@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code Editor made with PySide6](https://www.reddit.com/r/Python/comments/128ev4p/code_editor_made_with_pyside6/)
+- [TechCrunch | Python 4 To Be Renamed to Viper And Introduce TypeScript support](https://www.reddit.com/r/Python/comments/128eq5o/techcrunch_python_4_to_be_renamed_to_viper_and/)
+- [GitHub - INeddHelp/PyPuts: Open source library for colorful text in python](https://www.reddit.com/r/Python/comments/128epo7/github_ineddhelppyputs_open_source_library_for/)
+- [Django model constrains write up](https://www.reddit.com/r/Python/comments/128eiyw/django_model_constrains_write_up/)
 - [Chat GPT in Blender](https://www.reddit.com/r/Python/comments/128bgwb/chat_gpt_in_blender/)
-- [Open Source Voice Assistant](https://www.reddit.com/r/Python/comments/1287zwm/open_source_voice_assistant/)
-- [A Comprehensive Guide to Auto-Encoders in Neural Networks](https://www.reddit.com/r/Python/comments/12861y2/a_comprehensive_guide_to_autoencoders_in_neural/)
-- [Matrix Rain Effect](https://www.reddit.com/r/Python/comments/1285gb8/matrix_rain_effect/)
-- [Why do people use piglet when python arcade uses pyglet pymunk and some in house stuff](https://www.reddit.com/r/Python/comments/1284qas/why_do_people_use_piglet_when_python_arcade_uses/)
 <!-- BLOG-POST-LIST:END -->
