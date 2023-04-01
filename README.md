@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How easy is Python compared to C++ truly?](https://www.reddit.com/r/Python/comments/1291xwa/how_easy_is_python_compared_to_c_truly/)
+- [Smtplib starttls wont work](https://www.reddit.com/r/Python/comments/1291xdu/smtplib_starttls_wont_work/)
+- [Install Python Libraries Using Command Prompt](https://www.reddit.com/r/Python/comments/1290wi4/install_python_libraries_using_command_prompt/)
 - [Are there any Python tutors in this group?](https://www.reddit.com/r/Python/comments/12907e9/are_there_any_python_tutors_in_this_group/)
 - [A quick test of ChatGPT for the use of writing code](https://www.reddit.com/r/Python/comments/128xvwt/a_quick_test_of_chatgpt_for_the_use_of_writing/)
-- [Variable question.](https://www.reddit.com/r/Python/comments/128wr7i/variable_question/)
-- [bma_benchmark - a simple benchmark module](https://www.reddit.com/r/Python/comments/128t47p/bma_benchmark_a_simple_benchmark_module/)
-- [Python code to retrieve NSE Option Chain data in Tabular form](https://www.reddit.com/r/Python/comments/128sreu/python_code_to_retrieve_nse_option_chain_data_in/)
 <!-- BLOG-POST-LIST:END -->
