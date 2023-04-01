@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Chat GPT in Blender](https://www.reddit.com/r/Python/comments/128bgwb/chat_gpt_in_blender/)
 - [Open Source Voice Assistant](https://www.reddit.com/r/Python/comments/1287zwm/open_source_voice_assistant/)
 - [A Comprehensive Guide to Auto-Encoders in Neural Networks](https://www.reddit.com/r/Python/comments/12861y2/a_comprehensive_guide_to_autoencoders_in_neural/)
 - [Matrix Rain Effect](https://www.reddit.com/r/Python/comments/1285gb8/matrix_rain_effect/)
 - [Why do people use piglet when python arcade uses pyglet pymunk and some in house stuff](https://www.reddit.com/r/Python/comments/1284qas/why_do_people_use_piglet_when_python_arcade_uses/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1284li3/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
