@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Shed Skin now has native Windows support](https://www.reddit.com/r/Python/comments/128gir5/shed_skin_now_has_native_windows_support/)
 - [Code Editor made with PySide6](https://www.reddit.com/r/Python/comments/128ev4p/code_editor_made_with_pyside6/)
 - [TechCrunch | Python 4 To Be Renamed to Viper And Introduce TypeScript support](https://www.reddit.com/r/Python/comments/128eq5o/techcrunch_python_4_to_be_renamed_to_viper_and/)
 - [GitHub - INeddHelp/PyPuts: Open source library for colorful text in python](https://www.reddit.com/r/Python/comments/128epo7/github_ineddhelppyputs_open_source_library_for/)
 - [Django model constrains write up](https://www.reddit.com/r/Python/comments/128eiyw/django_model_constrains_write_up/)
-- [Chat GPT in Blender](https://www.reddit.com/r/Python/comments/128bgwb/chat_gpt_in_blender/)
 <!-- BLOG-POST-LIST:END -->
