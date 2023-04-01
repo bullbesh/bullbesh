@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project Suggestion](https://www.reddit.com/r/Python/comments/128m57g/project_suggestion/)
 - [Sites to keep devops/software engineer skills sharp](https://www.reddit.com/r/Python/comments/128ktol/sites_to_keep_devopssoftware_engineer_skills_sharp/)
 - [Lexica.art : An easy-to-use Python API wrapper for Lexica.art to generate and search for AI produced images](https://www.reddit.com/r/Python/comments/128jp96/lexicaart_an_easytouse_python_api_wrapper_for/)
 - [Unit testing. How do I do it?](https://www.reddit.com/r/Python/comments/128jij5/unit_testing_how_do_i_do_it/)
 - [Shed Skin now has native Windows support](https://www.reddit.com/r/Python/comments/128gir5/shed_skin_now_has_native_windows_support/)
-- [Code Editor made with PySide6](https://www.reddit.com/r/Python/comments/128ev4p/code_editor_made_with_pyside6/)
 <!-- BLOG-POST-LIST:END -->
