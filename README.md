@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python uuid-utils in Rust](https://www.reddit.com/r/Python/comments/1281kp0/python_uuidutils_in_rust/)
-- [Pandas 101 : Learn pandas in 10 minutes](https://www.reddit.com/r/Python/comments/1280fns/pandas_101_learn_pandas_in_10_minutes/)
-- [I just finished doing my 3rd Python course, what should I do next?](https://www.reddit.com/r/Python/comments/127yfv0/i_just_finished_doing_my_3rd_python_course_what/)
-- [What is important to know to gain full ownership of your project before posting it on the playstore?](https://www.reddit.com/r/Python/comments/127xquy/what_is_important_to_know_to_gain_full_ownership/)
-- [MIT Turbocharges Python’s Notoriously Slow Compiler](https://www.reddit.com/r/Python/comments/127xp03/mit_turbocharges_pythons_notoriously_slow_compiler/)
+- [A Comprehensive Guide to Auto-Encoders in Neural Networks](https://www.reddit.com/r/Python/comments/12861y2/a_comprehensive_guide_to_autoencoders_in_neural/)
+- [All coders and developers please help!](https://www.reddit.com/r/Python/comments/1285rvh/all_coders_and_developers_please_help/)
+- [Matrix Rain Effect](https://www.reddit.com/r/Python/comments/1285gb8/matrix_rain_effect/)
+- [Why do people use piglet when python arcade uses pyglet pymunk and some in house stuff](https://www.reddit.com/r/Python/comments/1284qas/why_do_people_use_piglet_when_python_arcade_uses/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1284li3/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
