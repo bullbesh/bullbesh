@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python code doesn&#39;t run on Visual Code studio](https://www.reddit.com/r/Python/comments/129hrsz/python_code_doesnt_run_on_visual_code_studio/)
+- [Python Package to build ETL flows/dags](https://www.reddit.com/r/Python/comments/129h22y/python_package_to_build_etl_flowsdags/)
 - [Network Communication in Python: Sockets, Requests, and Urllib](https://www.reddit.com/r/Python/comments/129fkry/network_communication_in_python_sockets_requests/)
 - [HTML 02](https://www.reddit.com/r/Python/comments/129fioe/html_02/)
 - [HTML 01](https://www.reddit.com/r/Python/comments/129fher/html_01/)
-- [Taskiq: async celery alternative](https://www.reddit.com/r/Python/comments/129f5w2/taskiq_async_celery_alternative/)
-- [rain alert for gf](https://www.reddit.com/r/Python/comments/129btgk/rain_alert_for_gf/)
 <!-- BLOG-POST-LIST:END -->
