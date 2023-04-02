@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fastest and slowest docker images for python2](https://www.reddit.com/r/Python/comments/129lzbj/fastest_and_slowest_docker_images_for_python2/)
+- [Machine Learning Course with Python: From Linear Models to Deep Learning](https://www.reddit.com/r/Python/comments/129lnli/machine_learning_course_with_python_from_linear/)
 - [Python code doesn&#39;t run on Visual Code studio](https://www.reddit.com/r/Python/comments/129hrsz/python_code_doesnt_run_on_visual_code_studio/)
 - [Python Package to build ETL flows/dags](https://www.reddit.com/r/Python/comments/129h22y/python_package_to_build_etl_flowsdags/)
 - [Network Communication in Python: Sockets, Requests, and Urllib](https://www.reddit.com/r/Python/comments/129fkry/network_communication_in_python_sockets_requests/)
-- [HTML 02](https://www.reddit.com/r/Python/comments/129fioe/html_02/)
-- [HTML 01](https://www.reddit.com/r/Python/comments/129fher/html_01/)
 <!-- BLOG-POST-LIST:END -->
