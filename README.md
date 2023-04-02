@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1293hsw/sunday_daily_thread_whats_everyone_working_on/)
+- [What about designing carbon effective data science workflows?](https://www.reddit.com/r/Python/comments/1293bmt/what_about_designing_carbon_effective_data/)
 - [How easy is Python compared to C++ truly?](https://www.reddit.com/r/Python/comments/1291xwa/how_easy_is_python_compared_to_c_truly/)
 - [Smtplib starttls wont work](https://www.reddit.com/r/Python/comments/1291xdu/smtplib_starttls_wont_work/)
 - [Install Python Libraries Using Command Prompt](https://www.reddit.com/r/Python/comments/1290wi4/install_python_libraries_using_command_prompt/)
-- [Are there any Python tutors in this group?](https://www.reddit.com/r/Python/comments/12907e9/are_there_any_python_tutors_in_this_group/)
-- [A quick test of ChatGPT for the use of writing code](https://www.reddit.com/r/Python/comments/128xvwt/a_quick_test_of_chatgpt_for_the_use_of_writing/)
 <!-- BLOG-POST-LIST:END -->
