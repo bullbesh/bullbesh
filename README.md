@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Summer timezones](https://www.reddit.com/r/Python/comments/129srqo/summer_timezones/)
+- [Using the help of ChatGPT, wrote code to analyse James Bond films.](https://www.reddit.com/r/Python/comments/129rymv/using_the_help_of_chatgpt_wrote_code_to_analyse/)
+- [Python package to download manga from mangadex.org as PDF or imgs : mangadex-dl](https://www.reddit.com/r/Python/comments/129rlse/python_package_to_download_manga_from_mangadexorg/)
 - [Should I learn Python?](https://www.reddit.com/r/Python/comments/129nw5e/should_i_learn_python/)
 - [AOS-GUI 0.8 is out now!!](https://www.reddit.com/r/Python/comments/129n68g/aosgui_08_is_out_now/)
-- [Renaming Starlite to LiteStar](https://www.reddit.com/r/Python/comments/129n4dc/renaming_starlite_to_litestar/)
-- [Fastest and slowest docker images for python2](https://www.reddit.com/r/Python/comments/129lzbj/fastest_and_slowest_docker_images_for_python2/)
-- [Machine Learning Course with Python: From Linear Models to Deep Learning](https://www.reddit.com/r/Python/comments/129lnli/machine_learning_course_with_python_from_linear/)
 <!-- BLOG-POST-LIST:END -->
