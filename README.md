@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - INeddHelp/PyLockAES: PyLockAES is a Python library that provides encryption and decryption functionality using AES-CBC mode.](https://www.reddit.com/r/Python/comments/129wm2s/github_ineddhelppylockaes_pylockaes_is_a_python/)
 - [Freak: remote state control](https://www.reddit.com/r/Python/comments/129uej2/freak_remote_state_control/)
 - [I Built a Streamlit App to Generate Websites in Seconds](https://www.reddit.com/r/Python/comments/129te5y/i_built_a_streamlit_app_to_generate_websites_in/)
 - [Summer timezones](https://www.reddit.com/r/Python/comments/129srqo/summer_timezones/)
 - [Python package to download manga from mangadex.org as PDF or imgs : mangadex-dl](https://www.reddit.com/r/Python/comments/129rlse/python_package_to_download_manga_from_mangadexorg/)
-- [AOS-GUI 0.8 is out now!!](https://www.reddit.com/r/Python/comments/129n68g/aosgui_08_is_out_now/)
 <!-- BLOG-POST-LIST:END -->
