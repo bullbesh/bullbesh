@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ghstars: ⭐️ Collect and render most notable stargazers for your GitHub projects](https://www.reddit.com/r/Python/comments/12an453/ghstars_collect_and_render_most_notable/)
+- [Why do we use not operator](https://www.reddit.com/r/Python/comments/12an036/why_do_we_use_not_operator/)
+- [Fpdf2 latest new features](https://www.reddit.com/r/Python/comments/12amq5d/fpdf2_latest_new_features/)
+- [Voice Assistant](https://www.reddit.com/r/Python/comments/12amdn6/voice_assistant/)
 - [Course that can help you with the deployment part of things](https://www.reddit.com/r/Python/comments/12alnt9/course_that_can_help_you_with_the_deployment_part/)
-- [Full-length tutorial on deploying Flask app on AWS with Docker + RDS + Secrets Manager](https://www.reddit.com/r/Python/comments/12algsx/fulllength_tutorial_on_deploying_flask_app_on_aws/)
-- [The Python on Microcontrollers Newsletter, a free weekly news and project resource](https://www.reddit.com/r/Python/comments/12al9k0/the_python_on_microcontrollers_newsletter_a_free/)
-- [Comprehending The Gripping Roles of Python Developers in Data Science](https://www.reddit.com/r/Python/comments/12akbm8/comprehending_the_gripping_roles_of_python/)
-- [Pandas 2.0 Released](https://www.reddit.com/r/Python/comments/12ahvyk/pandas_20_released/)
 <!-- BLOG-POST-LIST:END -->
