@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [HTMAL /lesson 03](https://www.reddit.com/r/Python/comments/12adovi/htmal_lesson_03/)
+- [Package gpt-magic enables in-context generation of IPython/Jupyter code cells using GPT models API. 0.2.0 adds memory with “%gpt -c”](https://www.reddit.com/r/Python/comments/12acsd9/package_gptmagic_enables_incontext_generation_of/)
 - [This might be the most beautiful piece of code I ever made myself](https://www.reddit.com/r/Python/comments/12abkh5/this_might_be_the_most_beautiful_piece_of_code_i/)
 - [Converting a huge CSV file into a custom made table](https://www.reddit.com/r/Python/comments/12a9y4k/converting_a_huge_csv_file_into_a_custom_made/)
 - [Coder Wanted - Motorsports/Racing/Time Attack Project Nearly Complete](https://www.reddit.com/r/Python/comments/12a5r8y/coder_wanted_motorsportsracingtime_attack_project/)
-- [Layouts in PyQt6!](https://www.reddit.com/r/Python/comments/12a4szl/layouts_in_pyqt6/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/12a2z80/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
