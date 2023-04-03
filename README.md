@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Course that can help you with the deployment part of things](https://www.reddit.com/r/Python/comments/12alnt9/course_that_can_help_you_with_the_deployment_part/)
+- [Full-length tutorial on deploying Flask app on AWS with Docker + RDS + Secrets Manager](https://www.reddit.com/r/Python/comments/12algsx/fulllength_tutorial_on_deploying_flask_app_on_aws/)
+- [The Python on Microcontrollers Newsletter, a free weekly news and project resource](https://www.reddit.com/r/Python/comments/12al9k0/the_python_on_microcontrollers_newsletter_a_free/)
+- [Comprehending The Gripping Roles of Python Developers in Data Science](https://www.reddit.com/r/Python/comments/12akbm8/comprehending_the_gripping_roles_of_python/)
 - [Pandas 2.0 Released](https://www.reddit.com/r/Python/comments/12ahvyk/pandas_20_released/)
-- [Change and not save a variable](https://www.reddit.com/r/Python/comments/12afoam/change_and_not_save_a_variable/)
-- [🌟 Learn to create Computer Vision and Natural Language Processing with TensorLayerX&#39;s Classic and SOTA Models 🌟](https://www.reddit.com/r/Python/comments/12aeclz/learn_to_create_computer_vision_and_natural/)
-- [19 Sweet Python Syntax Sugar for Improving Your Coding Experience](https://www.reddit.com/r/Python/comments/12advko/19_sweet_python_syntax_sugar_for_improving_your/)
-- [HTMAL /lesson 03](https://www.reddit.com/r/Python/comments/12adovi/htmal_lesson_03/)
 <!-- BLOG-POST-LIST:END -->
