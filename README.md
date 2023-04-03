@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Research Participation](https://www.reddit.com/r/Python/comments/12ap194/research_participation/)
 - [ghstars: ⭐️ Collect and render most notable stargazers for your GitHub projects](https://www.reddit.com/r/Python/comments/12an453/ghstars_collect_and_render_most_notable/)
 - [Why do we use not operator](https://www.reddit.com/r/Python/comments/12an036/why_do_we_use_not_operator/)
 - [Fpdf2 latest new features](https://www.reddit.com/r/Python/comments/12amq5d/fpdf2_latest_new_features/)
 - [Voice Assistant](https://www.reddit.com/r/Python/comments/12amdn6/voice_assistant/)
-- [Course that can help you with the deployment part of things](https://www.reddit.com/r/Python/comments/12alnt9/course_that_can_help_you_with_the_deployment_part/)
 <!-- BLOG-POST-LIST:END -->
