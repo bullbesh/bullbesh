@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Coder Wanted - Motorsports/Racing/Time Attack Project Nearly Complete](https://www.reddit.com/r/Python/comments/12a5r8y/coder_wanted_motorsportsracingtime_attack_project/)
 - [Layouts in PyQt6!](https://www.reddit.com/r/Python/comments/12a4szl/layouts_in_pyqt6/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/12a2z80/monday_daily_thread_project_ideas/)
 - [Blinker 1.6 Released!](https://www.reddit.com/r/Python/comments/129z2yw/blinker_16_released/)
 - [Scripting is prototyping, nothing more but nothing less!](https://www.reddit.com/r/Python/comments/129z2ou/scripting_is_prototyping_nothing_more_but_nothing/)
-- [PyIntellect Python Code Obfuscator.](https://www.reddit.com/r/Python/comments/129yvvk/pyintellect_python_code_obfuscator/)
 <!-- BLOG-POST-LIST:END -->
