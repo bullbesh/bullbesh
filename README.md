@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to design an application?](https://www.reddit.com/r/Python/comments/12aej19/how_to_design_an_application/)
+- [Change and not save a variable](https://www.reddit.com/r/Python/comments/12afoam/change_and_not_save_a_variable/)
 - [🌟 Learn to create Computer Vision and Natural Language Processing with TensorLayerX&#39;s Classic and SOTA Models 🌟](https://www.reddit.com/r/Python/comments/12aeclz/learn_to_create_computer_vision_and_natural/)
 - [19 Sweet Python Syntax Sugar for Improving Your Coding Experience](https://www.reddit.com/r/Python/comments/12advko/19_sweet_python_syntax_sugar_for_improving_your/)
 - [HTMAL /lesson 03](https://www.reddit.com/r/Python/comments/12adovi/htmal_lesson_03/)
