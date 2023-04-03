@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Layouts in PyQt6!](https://www.reddit.com/r/Python/comments/12a4szl/layouts_in_pyqt6/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/12a2z80/monday_daily_thread_project_ideas/)
 - [Blinker 1.6 Released!](https://www.reddit.com/r/Python/comments/129z2yw/blinker_16_released/)
 - [Scripting is prototyping, nothing more but nothing less!](https://www.reddit.com/r/Python/comments/129z2ou/scripting_is_prototyping_nothing_more_but_nothing/)
 - [PyIntellect Python Code Obfuscator.](https://www.reddit.com/r/Python/comments/129yvvk/pyintellect_python_code_obfuscator/)
-- [GitHub - INeddHelp/PyLockAES: PyLockAES is a Python library that provides encryption and decryption functionality using AES-CBC mode.](https://www.reddit.com/r/Python/comments/129wm2s/github_ineddhelppylockaes_pylockaes_is_a_python/)
-- [Freak: remote state control](https://www.reddit.com/r/Python/comments/129uej2/freak_remote_state_control/)
 <!-- BLOG-POST-LIST:END -->
