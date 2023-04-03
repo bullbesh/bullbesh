@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Persistent and addable text for video files &lpar;repo feedback&rpar;](https://www.reddit.com/r/Python/comments/12b0vp8/persistent_and_addable_text_for_video_files_repo/)
+- [Anyone know if python can be used to make a MATLAB simulink clone &lpar;dragging and dropping elements&rpar;? If not, do you have recommendations of other languages that can do this best to make a desktop app?](https://www.reddit.com/r/Python/comments/12b0tfq/anyone_know_if_python_can_be_used_to_make_a/)
+- [I didn&#39;t realize that Jupyter was such a great tool..its now my favorite IDE](https://www.reddit.com/r/Python/comments/12b051z/i_didnt_realize_that_jupyter_was_such_a_great/)
 - [Very interesting and descriptive trading article with python](https://www.reddit.com/r/Python/comments/12azj73/very_interesting_and_descriptive_trading_article/)
-- [I created a programming language similar to assembly](https://www.reddit.com/r/Python/comments/12aygd6/i_created_a_programming_language_similar_to/)
 - [Is Python 3.rd party libraries are legit safe to pip install?](https://www.reddit.com/r/Python/comments/12axib9/is_python_3rd_party_libraries_are_legit_safe_to/)
-- [PEP 710 – Recording the provenance of installed packages](https://www.reddit.com/r/Python/comments/12avcam/pep_710_recording_the_provenance_of_installed/)
-- [How we run our Python tests in hundreds of environments really fast](https://www.reddit.com/r/Python/comments/12aun12/how_we_run_our_python_tests_in_hundreds_of/)
 <!-- BLOG-POST-LIST:END -->
