@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrape each question on StackOverflow along with the best answer](https://www.reddit.com/r/Python/comments/12aufkv/scrape_each_question_on_stackoverflow_along_with/)
+- [Is there a better API for getting stock data than yfinance?](https://www.reddit.com/r/Python/comments/12ato0q/is_there_a_better_api_for_getting_stock_data_than/)
+- [Zero is now in beta! 🙌 A fast and easy-to-use RPC framework 🚀](https://www.reddit.com/r/Python/comments/12atd4v/zero_is_now_in_beta_a_fast_and_easytouse_rpc/)
+- [Where can a beginner start making money programming in Python?](https://www.reddit.com/r/Python/comments/12at1wi/where_can_a_beginner_start_making_money/)
 - [I used Python to create a Virtual Assistant that allows you to speak to and get verbal responses from ChatGPT](https://www.reddit.com/r/Python/comments/12asusf/i_used_python_to_create_a_virtual_assistant_that/)
-- [Our latest image classifier: because spotting a fake Pope in a puffer jacket or a fake Trump arrest just got a whole lot easier!](https://www.reddit.com/r/Python/comments/12arqkk/our_latest_image_classifier_because_spotting_a/)
-- [How to make an API request to an AWS microservice that is protected by IAM auth](https://www.reddit.com/r/Python/comments/12armz8/how_to_make_an_api_request_to_an_aws_microservice/)
-- [Anaconda Aims to Democratize Python with PyScript](https://www.reddit.com/r/Python/comments/12are5w/anaconda_aims_to_democratize_python_with_pyscript/)
-- [[Girok] Pretty cool CLI task scheduler for geeks](https://www.reddit.com/r/Python/comments/12aqvpw/girok_pretty_cool_cli_task_scheduler_for_geeks/)
 <!-- BLOG-POST-LIST:END -->
