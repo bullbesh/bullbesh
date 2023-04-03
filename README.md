@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Very interesting and descriptive trading article with python](https://www.reddit.com/r/Python/comments/12azj73/very_interesting_and_descriptive_trading_article/)
+- [I created a programming language similar to assembly](https://www.reddit.com/r/Python/comments/12aygd6/i_created_a_programming_language_similar_to/)
 - [Is Python 3.rd party libraries are legit safe to pip install?](https://www.reddit.com/r/Python/comments/12axib9/is_python_3rd_party_libraries_are_legit_safe_to/)
 - [PEP 710 – Recording the provenance of installed packages](https://www.reddit.com/r/Python/comments/12avcam/pep_710_recording_the_provenance_of_installed/)
 - [How we run our Python tests in hundreds of environments really fast](https://www.reddit.com/r/Python/comments/12aun12/how_we_run_our_python_tests_in_hundreds_of/)
-- [Scrape each question on StackOverflow along with the best answer](https://www.reddit.com/r/Python/comments/12aufkv/scrape_each_question_on_stackoverflow_along_with/)
-- [Is there a better API for getting stock data than yfinance?](https://www.reddit.com/r/Python/comments/12ato0q/is_there_a_better_api_for_getting_stock_data_than/)
 <!-- BLOG-POST-LIST:END -->
