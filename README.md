@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Text Parsing: Now You Have Three Problems &lpar;David Beazley&rpar;](https://www.reddit.com/r/Python/comments/12b9p5f/text_parsing_now_you_have_three_problems_david/)
+- [Is this ethical? Our AI celebrity voice bot app is incredibly realistic, but it raises concerns.](https://www.reddit.com/r/Python/comments/12b9ngj/is_this_ethical_our_ai_celebrity_voice_bot_app_is/)
+- [The Ultimate Swiss Army Knife for handling files and directories in your python code!](https://www.reddit.com/r/Python/comments/12b8un3/the_ultimate_swiss_army_knife_for_handling_files/)
 - [Everything you need to know about pandas 2.0.0!](https://www.reddit.com/r/Python/comments/12b7w3y/everything_you_need_to_know_about_pandas_200/)
 - [Python + Chat-GPT4 = Sports Score Bots](https://www.reddit.com/r/Python/comments/12b5fhx/python_chatgpt4_sports_score_bots/)
-- [Decided to try coding my project for a Go board game in Python. Advice?](https://www.reddit.com/r/Python/comments/12b34ln/decided_to_try_coding_my_project_for_a_go_board/)
-- [Accelerate Hyperparameter Tuning with fal-serverless](https://www.reddit.com/r/Python/comments/12b2uxt/accelerate_hyperparameter_tuning_with/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/12b2qgu/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
