@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Intermediate level Python exercises](https://www.reddit.com/r/Python/comments/12bravd/intermediate_level_python_exercises/)
 - [What projects use ebooklib](https://www.reddit.com/r/Python/comments/12bmy0q/what_projects_use_ebooklib/)
 - [Analysing the emotion timeline of the Enron scandal through their internal emails in Python](https://www.reddit.com/r/Python/comments/12bl2uj/analysing_the_emotion_timeline_of_the_enron/)
 - [Favorite/best PyCharm plugins?](https://www.reddit.com/r/Python/comments/12bkrqg/favoritebest_pycharm_plugins/)
 - [I did a Data Analysis Project in Python and shared it on Youtube with Data Set](https://www.reddit.com/r/Python/comments/12bkeby/i_did_a_data_analysis_project_in_python_and/)
-- [TelegramGPT : simple basic python script to introduce Telegram Ai chatBot using DALL-E](https://www.reddit.com/r/Python/comments/12bk3l5/telegramgpt_simple_basic_python_script_to/)
 <!-- BLOG-POST-LIST:END -->
