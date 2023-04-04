@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [👉 New Awesome Polars release! 🚀 What&#39;s new in #Polars? Let&#39;s find out!](https://www.reddit.com/r/Python/comments/12bdh3v/new_awesome_polars_release_whats_new_in_polars/)
-- [Pandas 2.0.0](https://www.reddit.com/r/Python/comments/12bc9qg/pandas_200/)
-- [Easy python module for understanding. recently I have been learning the Oops concepts in python, but I don&#39;t feel satisfied in applying those to actual scenarios. can any one please suggest any already developed python module so that I can see the actual Oops concepts involved while development.](https://www.reddit.com/r/Python/comments/12bbzpe/easy_python_module_for_understanding_recently_i/)
-- [Recommendation for courses to learn Selenium with Python](https://www.reddit.com/r/Python/comments/12b9vx2/recommendation_for_courses_to_learn_selenium_with/)
-- [Text Parsing: Now You Have Three Problems &lpar;David Beazley&rpar;](https://www.reddit.com/r/Python/comments/12b9p5f/text_parsing_now_you_have_three_problems_david/)
+- [Textual 0.18.0 adds an API for managing concurrent workers](https://www.reddit.com/r/Python/comments/12biwwo/textual_0180_adds_an_api_for_managing_concurrent/)
+- [RedditWarp: A comprehensive and type-complete library for interacting with the Reddit API](https://www.reddit.com/r/Python/comments/12biwcy/redditwarp_a_comprehensive_and_typecomplete/)
+- [Pydantic V2 Pre Release](https://www.reddit.com/r/Python/comments/12bif2z/pydantic_v2_pre_release/)
+- [Little guidance of a python newbie](https://www.reddit.com/r/Python/comments/12biago/little_guidance_of_a_python_newbie/)
+- [Python 2 to 3 work around](https://www.reddit.com/r/Python/comments/12bi3jx/python_2_to_3_work_around/)
 <!-- BLOG-POST-LIST:END -->
