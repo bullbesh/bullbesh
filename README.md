@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas 2.0.0](https://www.reddit.com/r/Python/comments/12bc9qg/pandas_200/)
+- [Easy python module for understanding. recently I have been learning the Oops concepts in python, but I don&#39;t feel satisfied in applying those to actual scenarios. can any one please suggest any already developed python module so that I can see the actual Oops concepts involved while development.](https://www.reddit.com/r/Python/comments/12bbzpe/easy_python_module_for_understanding_recently_i/)
 - [Recommendation for courses to learn Selenium with Python](https://www.reddit.com/r/Python/comments/12b9vx2/recommendation_for_courses_to_learn_selenium_with/)
 - [Text Parsing: Now You Have Three Problems &lpar;David Beazley&rpar;](https://www.reddit.com/r/Python/comments/12b9p5f/text_parsing_now_you_have_three_problems_david/)
 - [The Ultimate Swiss Army Knife for handling files and directories in your python code!](https://www.reddit.com/r/Python/comments/12b8un3/the_ultimate_swiss_army_knife_for_handling_files/)
-- [Everything you need to know about pandas 2.0.0!](https://www.reddit.com/r/Python/comments/12b7w3y/everything_you_need_to_know_about_pandas_200/)
-- [Decided to try coding my project for a Go board game in Python. Advice?](https://www.reddit.com/r/Python/comments/12b34ln/decided_to_try_coding_my_project_for_a_go_board/)
 <!-- BLOG-POST-LIST:END -->
