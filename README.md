@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I did a Data Analysis Project in Python and shared it on Youtube with Data Set](https://www.reddit.com/r/Python/comments/12bkeby/i_did_a_data_analysis_project_in_python_and/)
+- [TelegramGPT : simple basic python script to introduce Telegram Ai chatBot using DALL-E](https://www.reddit.com/r/Python/comments/12bk3l5/telegramgpt_simple_basic_python_script_to/)
+- [Inspect interactively any object in Colab](https://www.reddit.com/r/Python/comments/12bj27u/inspect_interactively_any_object_in_colab/)
+- [Flask app with PostgreSQL &lpar;CRUD operations&rpar;](https://www.reddit.com/r/Python/comments/12bj0qj/flask_app_with_postgresql_crud_operations/)
 - [Textual 0.18.0 adds an API for managing concurrent workers](https://www.reddit.com/r/Python/comments/12biwwo/textual_0180_adds_an_api_for_managing_concurrent/)
-- [RedditWarp: A comprehensive and type-complete library for interacting with the Reddit API](https://www.reddit.com/r/Python/comments/12biwcy/redditwarp_a_comprehensive_and_typecomplete/)
-- [Pydantic V2 Pre Release](https://www.reddit.com/r/Python/comments/12bif2z/pydantic_v2_pre_release/)
-- [Little guidance of a python newbie](https://www.reddit.com/r/Python/comments/12biago/little_guidance_of_a_python_newbie/)
-- [Python 2 to 3 work around](https://www.reddit.com/r/Python/comments/12bi3jx/python_2_to_3_work_around/)
 <!-- BLOG-POST-LIST:END -->
