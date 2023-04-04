@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A new subreddit for the scientific programmers out there: r/ScientificComputing](https://www.reddit.com/r/Python/comments/12bshnh/a_new_subreddit_for_the_scientific_programmers/)
+- [I made a program to download / back up all of your saved Reddit content](https://www.reddit.com/r/Python/comments/12bs0xr/i_made_a_program_to_download_back_up_all_of_your/)
 - [Intermediate level Python exercises](https://www.reddit.com/r/Python/comments/12bravd/intermediate_level_python_exercises/)
 - [What projects use ebooklib](https://www.reddit.com/r/Python/comments/12bmy0q/what_projects_use_ebooklib/)
 - [Analysing the emotion timeline of the Enron scandal through their internal emails in Python](https://www.reddit.com/r/Python/comments/12bl2uj/analysing_the_emotion_timeline_of_the_enron/)
-- [Favorite/best PyCharm plugins?](https://www.reddit.com/r/Python/comments/12bkrqg/favoritebest_pycharm_plugins/)
-- [I did a Data Analysis Project in Python and shared it on Youtube with Data Set](https://www.reddit.com/r/Python/comments/12bkeby/i_did_a_data_analysis_project_in_python_and/)
 <!-- BLOG-POST-LIST:END -->
