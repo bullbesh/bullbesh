@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Beginnings](https://www.reddit.com/r/Python/comments/12c2zw2/simple_beginnings/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/12c1jky/wednesday_daily_thread_beginner_questions/)
 - [Be confident in your requirements list with bonded](https://www.reddit.com/r/Python/comments/12byqwg/be_confident_in_your_requirements_list_with_bonded/)
 - [Time Complexity and Big O Notation](https://www.reddit.com/r/Python/comments/12bwrfs/time_complexity_and_big_o_notation/)
 - [Wordle Solver package for fun/practice, would really appreciate any feedback or suggestions!](https://www.reddit.com/r/Python/comments/12busil/wordle_solver_package_for_funpractice_would/)
-- [Performant csv parsers](https://www.reddit.com/r/Python/comments/12btus6/performant_csv_parsers/)
-- [A new subreddit for the scientific programmers out there: r/ScientificComputing](https://www.reddit.com/r/Python/comments/12bshnh/a_new_subreddit_for_the_scientific_programmers/)
 <!-- BLOG-POST-LIST:END -->
