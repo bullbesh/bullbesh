@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [2,000 free sign ups available for the &quot;Automate the Boring Stuff with Python&quot; online course. &lpar;April 2023&rpar;](https://www.reddit.com/r/Python/comments/12cn56l/2000_free_sign_ups_available_for_the_automate_the/)
+- [Checkr is a different way to validate data](https://www.reddit.com/r/Python/comments/12cmp0v/checkr_is_a_different_way_to_validate_data/)
+- [StrictPython](https://www.reddit.com/r/Python/comments/12clzsx/strictpython/)
 - [__doc__ thing](https://www.reddit.com/r/Python/comments/12ck847/doc_thing/)
 - [Develop and Invoke AWS Lambda Functions programmatically.](https://www.reddit.com/r/Python/comments/12cjaoa/develop_and_invoke_aws_lambda_functions/)
-- [How I was able to identify 3 bottlenecks in WebAssembly python bindings](https://www.reddit.com/r/Python/comments/12ciyi7/how_i_was_able_to_identify_3_bottlenecks_in/)
-- [GitHub - blipk/pysh: bash in python](https://www.reddit.com/r/Python/comments/12chv0i/github_blipkpysh_bash_in_python/)
-- [Step-by-step tutorial on Web Scraping with Python with code snippets](https://www.reddit.com/r/Python/comments/12cgplg/stepbystep_tutorial_on_web_scraping_with_python/)
 <!-- BLOG-POST-LIST:END -->
