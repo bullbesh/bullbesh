@@ -12,5 +12,5 @@
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/12c1jky/wednesday_daily_thread_beginner_questions/)
 - [Be confident in your requirements list with bonded](https://www.reddit.com/r/Python/comments/12byqwg/be_confident_in_your_requirements_list_with_bonded/)
 - [Time Complexity and Big O Notation](https://www.reddit.com/r/Python/comments/12bwrfs/time_complexity_and_big_o_notation/)
-- [Wordle Solver package for fun/practice, would really appreciate any feedback or suggestions!](https://www.reddit.com/r/Python/comments/12busil/wordle_solver_package_for_funpractice_would/)
+- [Performant csv parsers](https://www.reddit.com/r/Python/comments/12btus6/performant_csv_parsers/)
 <!-- BLOG-POST-LIST:END -->
