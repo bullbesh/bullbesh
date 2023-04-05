@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Quantum Machine Learning Can Boost Drug Discovery](https://www.reddit.com/r/Python/comments/12cajkp/how_quantum_machine_learning_can_boost_drug/)
+- [Built a cli utility to move, rename, add, and delete files or directories in bulk](https://www.reddit.com/r/Python/comments/12c9px1/built_a_cli_utility_to_move_rename_add_and_delete/)
 - [Hey friends, im starting in python right now! Any suggestions? Or high quality content available online?](https://www.reddit.com/r/Python/comments/12c6zzw/hey_friends_im_starting_in_python_right_now_any/)
 - [🎙️ Introducing an Impressive Streamlit Audio Recorder Custom Component for Python Enthusiasts! 🚀 Star the Repo &amp; Enhance Your Apps! 🎵](https://www.reddit.com/r/Python/comments/12c6ww6/introducing_an_impressive_streamlit_audio/)
 - [Simple Beginnings](https://www.reddit.com/r/Python/comments/12c2zw2/simple_beginnings/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/12c1jky/wednesday_daily_thread_beginner_questions/)
-- [Be confident in your requirements list with bonded](https://www.reddit.com/r/Python/comments/12byqwg/be_confident_in_your_requirements_list_with_bonded/)
 <!-- BLOG-POST-LIST:END -->
