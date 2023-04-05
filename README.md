@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing tmplt - A User Friendly CLI Tool for Creating Projects with Templates](https://www.reddit.com/r/Python/comments/12d0uu8/introducing_tmplt_a_user_friendly_cli_tool_for/)
+- [10 Essential Python code snippets for projects](https://www.reddit.com/r/Python/comments/12d0f7y/10_essential_python_code_snippets_for_projects/)
 - [A Python Crash Course for Software Engineers](https://www.reddit.com/r/Python/comments/12cztk4/a_python_crash_course_for_software_engineers/)
 - [I wrote a small polygon &quot;renderer&quot; for .wav files to tell my gf I love her](https://www.reddit.com/r/Python/comments/12cyybm/i_wrote_a_small_polygon_renderer_for_wav_files_to/)
 - [Rubbrband: Python CLI for finetuning Stable Diffusion](https://www.reddit.com/r/Python/comments/12cybmt/rubbrband_python_cli_for_finetuning_stable/)
-- [Is E501 &lpar;79 character lines&rpar; still relevant?](https://www.reddit.com/r/Python/comments/12cx3fa/is_e501_79_character_lines_still_relevant/)
-- [Best pycharm theme.](https://www.reddit.com/r/Python/comments/12cwtp2/best_pycharm_theme/)
 <!-- BLOG-POST-LIST:END -->
