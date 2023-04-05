@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [__doc__ thing](https://www.reddit.com/r/Python/comments/12ck847/doc_thing/)
+- [Develop and Invoke AWS Lambda Functions programmatically.](https://www.reddit.com/r/Python/comments/12cjaoa/develop_and_invoke_aws_lambda_functions/)
 - [How I was able to identify 3 bottlenecks in WebAssembly python bindings](https://www.reddit.com/r/Python/comments/12ciyi7/how_i_was_able_to_identify_3_bottlenecks_in/)
 - [GitHub - blipk/pysh: bash in python](https://www.reddit.com/r/Python/comments/12chv0i/github_blipkpysh_bash_in_python/)
 - [Step-by-step tutorial on Web Scraping with Python with code snippets](https://www.reddit.com/r/Python/comments/12cgplg/stepbystep_tutorial_on_web_scraping_with_python/)
-- [I re-implemented JupyterHub the Kubernetes way](https://www.reddit.com/r/Python/comments/12cftw9/i_reimplemented_jupyterhub_the_kubernetes_way/)
-- [chatGPT can never replace programmers](https://www.reddit.com/r/Python/comments/12cfdal/chatgpt_can_never_replace_programmers/)
 <!-- BLOG-POST-LIST:END -->
