@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is E501 &lpar;79 character lines&rpar; still relevant?](https://www.reddit.com/r/Python/comments/12cx3fa/is_e501_79_character_lines_still_relevant/)
+- [Best pycharm theme.](https://www.reddit.com/r/Python/comments/12cwtp2/best_pycharm_theme/)
 - [GitHub - INeddHelp/PySwissArmy: PySwissArmy is a Python utility library designed to make common programming tasks easier.](https://www.reddit.com/r/Python/comments/12cu0mo/github_ineddhelppyswissarmy_pyswissarmy_is_a/)
 - [Help creating python script copying a script on mac mini](https://www.reddit.com/r/Python/comments/12ctlyt/help_creating_python_script_copying_a_script_on/)
 - [OpenConnect Linux GUI Front-end With Tkinter](https://www.reddit.com/r/Python/comments/12crz98/openconnect_linux_gui_frontend_with_tkinter/)
-- [if &quot;foo, bar, baz&quot; are &quot;spam, ham, eggs&quot; in Python, what is &quot;qux&quot;?](https://www.reddit.com/r/Python/comments/12coive/if_foo_bar_baz_are_spam_ham_eggs_in_python_what/)
-- [2,000 free sign ups available for the &quot;Automate the Boring Stuff with Python&quot; online course. &lpar;April 2023&rpar;](https://www.reddit.com/r/Python/comments/12cn56l/2000_free_sign_ups_available_for_the_automate_the/)
 <!-- BLOG-POST-LIST:END -->
