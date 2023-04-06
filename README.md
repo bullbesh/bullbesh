@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mypy 1.2 Released](https://www.reddit.com/r/Python/comments/12dpaz2/mypy_12_released/)
+- [a little mantra abt Python as a whole](https://www.reddit.com/r/Python/comments/12docmn/a_little_mantra_abt_python_as_a_whole/)
+- [&lpar;Flask&rpar; Personal portfolio website - Template](https://www.reddit.com/r/Python/comments/12do763/flask_personal_portfolio_website_template/)
 - [Polars for initial data analysis, Polars for production](https://www.reddit.com/r/Python/comments/12dmp1v/polars_for_initial_data_analysis_polars_for/)
 - [PyArrow Strings in Dask DataFrames!!](https://www.reddit.com/r/Python/comments/12dl030/pyarrow_strings_in_dask_dataframes/)
-- [Looking for Tips / Educational Newsletter for Intermediate to Advanced Python](https://www.reddit.com/r/Python/comments/12djg75/looking_for_tips_educational_newsletter_for/)
-- [GitHub - INeddHelp/PyLockAES: PyLockAES is a Python library that provides encryption and decryption functionality using AES-CBC mode.](https://www.reddit.com/r/Python/comments/12di66x/github_ineddhelppylockaes_pylockaes_is_a_python/)
-- [SpotiFile : Music scraping made easy](https://www.reddit.com/r/Python/comments/12dfdq1/spotifile_music_scraping_made_easy/)
 <!-- BLOG-POST-LIST:END -->
