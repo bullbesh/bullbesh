@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for Tips / Educational Newsletter for Intermediate to Advanced Python](https://www.reddit.com/r/Python/comments/12djg75/looking_for_tips_educational_newsletter_for/)
 - [GitHub - INeddHelp/PyLockAES: PyLockAES is a Python library that provides encryption and decryption functionality using AES-CBC mode.](https://www.reddit.com/r/Python/comments/12di66x/github_ineddhelppylockaes_pylockaes_is_a_python/)
 - [SpotiFile : Music scraping made easy](https://www.reddit.com/r/Python/comments/12dfdq1/spotifile_music_scraping_made_easy/)
 - [Building and Training Vision Transformer from Scratch](https://www.reddit.com/r/Python/comments/12ddc7l/building_and_training_vision_transformer_from/)
 - [versionedobj 2.0.4 is out!](https://www.reddit.com/r/Python/comments/12daix1/versionedobj_204_is_out/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/12d2l9a/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
