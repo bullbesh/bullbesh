@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Mypy 1.2 Released](https://www.reddit.com/r/Python/comments/12dpaz2/mypy_12_released/)
-- [a little mantra abt Python as a whole](https://www.reddit.com/r/Python/comments/12docmn/a_little_mantra_abt_python_as_a_whole/)
-- [&lpar;Flask&rpar; Personal portfolio website - Template](https://www.reddit.com/r/Python/comments/12do763/flask_personal_portfolio_website_template/)
-- [Polars for initial data analysis, Polars for production](https://www.reddit.com/r/Python/comments/12dmp1v/polars_for_initial_data_analysis_polars_for/)
-- [PyArrow Strings in Dask DataFrames!!](https://www.reddit.com/r/Python/comments/12dl030/pyarrow_strings_in_dask_dataframes/)
+- [Is geopandas right for this use case or should I be looking at something else? Looking to create, manipulate, and measure closed polylines with arc segments across a shared geometric space.](https://www.reddit.com/r/Python/comments/12dqwr5/is_geopandas_right_for_this_use_case_or_should_i/)
+- [Python sort vs sorted - Detailed Comparison With Code](https://www.reddit.com/r/Python/comments/12dq2nj/python_sort_vs_sorted_detailed_comparison_with/)
+- [Presenting gptty v0.2.5 - Enhanced CLI Wrapper for ChatGPT with Context Preservation, Query Support &amp; More!](https://www.reddit.com/r/Python/comments/12dppzi/presenting_gptty_v025_enhanced_cli_wrapper_for/)
+- [Announcing sequence_align: an open-source Python + Rust toolkit for efficient sequence alignment](https://www.reddit.com/r/Python/comments/12dpp6z/announcing_sequence_align_an_opensource_python/)
+- [Algebraic Data Types in &lpar;typed&rpar; Python](https://www.reddit.com/r/Python/comments/12dpdfx/algebraic_data_types_in_typed_python/)
 <!-- BLOG-POST-LIST:END -->
