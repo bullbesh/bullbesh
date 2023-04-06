@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Quantum Machine Learning Can Boost Drug Discovery](https://www.reddit.com/r/Python/comments/12d88bw/how_quantum_machine_learning_can_boost_drug/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/12d2l9a/thursday_daily_thread_python_careers_courses_and/)
 - [Introducing tmplt - A User Friendly CLI Tool for Creating Projects with Templates](https://www.reddit.com/r/Python/comments/12d0uu8/introducing_tmplt_a_user_friendly_cli_tool_for/)
 - [10 Essential Python code snippets for projects](https://www.reddit.com/r/Python/comments/12d0f7y/10_essential_python_code_snippets_for_projects/)
 - [A Python Crash Course for Software Engineers](https://www.reddit.com/r/Python/comments/12cztk4/a_python_crash_course_for_software_engineers/)
-- [I wrote a small polygon &quot;renderer&quot; for .wav files to tell my gf I love her](https://www.reddit.com/r/Python/comments/12cyybm/i_wrote_a_small_polygon_renderer_for_wav_files_to/)
 <!-- BLOG-POST-LIST:END -->
