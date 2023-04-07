@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ableton Auto Export using Python&#39;s AbletonOSC library, and osascript through sub process, among others. Script will soon be available!](https://www.reddit.com/r/Python/comments/12e6fyd/ableton_auto_export_using_pythons_abletonosc/)
+- [Start Programming With Python](https://www.reddit.com/r/Python/comments/12e5y27/start_programming_with_python/)
+- [Introducing: sqlalchemy-declarative-extensions &lpar;0.6.0&rpar;](https://www.reddit.com/r/Python/comments/12e52tq/introducing_sqlalchemydeclarativeextensions_060/)
 - [Appreciating Python&#39;s match-case by parsing Python code](https://www.reddit.com/r/Python/comments/12e2pyb/appreciating_pythons_matchcase_by_parsing_python/)
 - [Hacking games with Python, ctypes, and the Windows API](https://www.reddit.com/r/Python/comments/12e0uvn/hacking_games_with_python_ctypes_and_the_windows/)
-- [Made a application for TVshows and Anime that allows for search and also has a listings feature.](https://www.reddit.com/r/Python/comments/12dy5ru/made_a_application_for_tvshows_and_anime_that/)
-- [NetworkX 3.1 released](https://www.reddit.com/r/Python/comments/12dvk2r/networkx_31_released/)
-- [Showcasing a 2D scrolling shooter game](https://www.reddit.com/r/Python/comments/12duqn4/showcasing_a_2d_scrolling_shooter_game/)
 <!-- BLOG-POST-LIST:END -->
