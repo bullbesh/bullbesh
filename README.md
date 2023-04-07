@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Calibrating a NASA instrument using Tensorflow / Keras](https://www.reddit.com/r/Python/comments/12exbw6/calibrating_a_nasa_instrument_using_tensorflow/)
 - [The new Balder Test Framework - Reusable and installable tests](https://www.reddit.com/r/Python/comments/12evuek/the_new_balder_test_framework_reusable_and/)
 - [Python Hacks: Sneaky Techniques for Efficient Code](https://www.reddit.com/r/Python/comments/12evpfb/python_hacks_sneaky_techniques_for_efficient_code/)
 - [How to Embed a Python Streamlit App in WordPress with Replit](https://www.reddit.com/r/Python/comments/12evhz4/how_to_embed_a_python_streamlit_app_in_wordpress/)
 - [ChatGPT voice assistant for Windows.](https://www.reddit.com/r/Python/comments/12ev22j/chatgpt_voice_assistant_for_windows/)
-- [Thoughts on the Python packaging ecosystem](https://www.reddit.com/r/Python/comments/12esmz7/thoughts_on_the_python_packaging_ecosystem/)
 <!-- BLOG-POST-LIST:END -->
