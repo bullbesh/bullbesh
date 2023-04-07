@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Training in Marathahalli Bangalore](https://www.reddit.com/r/Python/comments/12eg1ld/python_training_in_marathahalli_bangalore/)
+- [PEP 711 – PyBI: a standard format for distributing Python Binaries](https://www.reddit.com/r/Python/comments/12efni5/pep_711_pybi_a_standard_format_for_distributing/)
 - [PyGAD wins the contest for most intimidating logo, change my mind](https://www.reddit.com/r/Python/comments/12eezx8/pygad_wins_the_contest_for_most_intimidating_logo/)
 - [opinions on codon? Compiled from source on linux arm?](https://www.reddit.com/r/Python/comments/12eemcq/opinions_on_codon_compiled_from_source_on_linux/)
 - [How would you unit test a graph builder?](https://www.reddit.com/r/Python/comments/12ecwop/how_would_you_unit_test_a_graph_builder/)
-- [GPT for ML feature generation in Python](https://www.reddit.com/r/Python/comments/12ec5sg/gpt_for_ml_feature_generation_in_python/)
-- [Data race in Python and GIL&#39;s role in it](https://www.reddit.com/r/Python/comments/12ebgzd/data_race_in_python_and_gils_role_in_it/)
 <!-- BLOG-POST-LIST:END -->
