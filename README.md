@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [RGB to Hex Converter](https://www.reddit.com/r/Python/comments/12eo8wl/rgb_to_hex_converter/)
+- [Keyring module issues?](https://www.reddit.com/r/Python/comments/12eo7gz/keyring_module_issues/)
+- [hello](https://www.reddit.com/r/Python/comments/12emzda/hello/)
 - [Building a GPT Bot like ChatGPT in 5 mins.](https://www.reddit.com/r/Python/comments/12elg8s/building_a_gpt_bot_like_chatgpt_in_5_mins/)
 - [Python 3.12 Preview: Ever Better Error Messages – Real Python](https://www.reddit.com/r/Python/comments/12eld7u/python_312_preview_ever_better_error_messages/)
-- [Make Python Runtime faster than C++](https://www.reddit.com/r/Python/comments/12ek73o/make_python_runtime_faster_than_c/)
-- [Can you help me create a simulation of a velocity filter for physics?](https://www.reddit.com/r/Python/comments/12ek3cq/can_you_help_me_create_a_simulation_of_a_velocity/)
-- [Dane Hillard joins the Pybites Podcast hosted by Bob Belderbos, for a chat about #Python packaging and developer tooling.](https://www.reddit.com/r/Python/comments/12ejm56/dane_hillard_joins_the_pybites_podcast_hosted_by/)
 <!-- BLOG-POST-LIST:END -->
