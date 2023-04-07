@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dane Hillard joins the Pybites Podcast hosted by Bob Belderbos, for a chat about #Python packaging and developer tooling.](https://www.reddit.com/r/Python/comments/12ejm56/dane_hillard_joins_the_pybites_podcast_hosted_by/)
+- [GitHub - Smyja/blackmaria: Python package for webscraping in Natural language](https://www.reddit.com/r/Python/comments/12ejeqz/github_smyjablackmaria_python_package_for/)
+- [I made a full Data Science Project &lpar;Data Analysis &amp; Machine Learning&rpar; using Python and uploaded it to Youtube, I also provided the data set I used](https://www.reddit.com/r/Python/comments/12eigeh/i_made_a_full_data_science_project_data_analysis/)
 - [I trained a RoastBot on &gt;120,000 faces and &gt;0.5 million comments and it&#39;s a menace 😈.](https://www.reddit.com/r/Python/comments/12egsoz/i_trained_a_roastbot_on_120000_faces_and_05/)
 - [Python Training in Marathahalli Bangalore](https://www.reddit.com/r/Python/comments/12eg1ld/python_training_in_marathahalli_bangalore/)
-- [PEP 711 – PyBI: a standard format for distributing Python Binaries](https://www.reddit.com/r/Python/comments/12efni5/pep_711_pybi_a_standard_format_for_distributing/)
-- [PyGAD wins the contest for most intimidating logo, change my mind](https://www.reddit.com/r/Python/comments/12eezx8/pygad_wins_the_contest_for_most_intimidating_logo/)
-- [opinions on codon? Compiled from source on linux arm?](https://www.reddit.com/r/Python/comments/12eemcq/opinions_on_codon_compiled_from_source_on_linux/)
 <!-- BLOG-POST-LIST:END -->
