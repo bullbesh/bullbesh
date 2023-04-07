@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am making a python package to simulate physics. Check it out!](https://www.reddit.com/r/Python/comments/12ezk23/i_am_making_a_python_package_to_simulate_physics/)
+- [Thoropass is hiring Python Engineers in Latin America](https://www.reddit.com/r/Python/comments/12ezd6n/thoropass_is_hiring_python_engineers_in_latin/)
+- [Live Tutorial on Scaling Python with Dask and Coiled &lpar;April 13&rpar;](https://www.reddit.com/r/Python/comments/12exw6s/live_tutorial_on_scaling_python_with_dask_and/)
 - [Calibrating a NASA instrument using Tensorflow / Keras](https://www.reddit.com/r/Python/comments/12exbw6/calibrating_a_nasa_instrument_using_tensorflow/)
 - [The new Balder Test Framework - Reusable and installable tests](https://www.reddit.com/r/Python/comments/12evuek/the_new_balder_test_framework_reusable_and/)
-- [Python Hacks: Sneaky Techniques for Efficient Code](https://www.reddit.com/r/Python/comments/12evpfb/python_hacks_sneaky_techniques_for_efficient_code/)
-- [How to Embed a Python Streamlit App in WordPress with Replit](https://www.reddit.com/r/Python/comments/12evhz4/how_to_embed_a_python_streamlit_app_in_wordpress/)
-- [ChatGPT voice assistant for Windows.](https://www.reddit.com/r/Python/comments/12ev22j/chatgpt_voice_assistant_for_windows/)
 <!-- BLOG-POST-LIST:END -->
