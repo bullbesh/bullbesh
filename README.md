@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What could I do with this library I created](https://www.reddit.com/r/Python/comments/12erva9/what_could_i_do_with_this_library_i_created/)
+- [How Quantum Machine Learning Can Boost Drug Discovery](https://www.reddit.com/r/Python/comments/12erbaj/how_quantum_machine_learning_can_boost_drug/)
+- [How long does it take to learn Python?](https://www.reddit.com/r/Python/comments/12er1if/how_long_does_it_take_to_learn_python/)
 - [Telegram bot to chat with ChatGPT easily from your phone](https://www.reddit.com/r/Python/comments/12eqi3c/telegram_bot_to_chat_with_chatgpt_easily_from/)
 - [Started learning about 2 weeks ago what project do i do or should i learn other languages](https://www.reddit.com/r/Python/comments/12eq0an/started_learning_about_2_weeks_ago_what_project/)
-- [RGB to Hex Converter](https://www.reddit.com/r/Python/comments/12eo8wl/rgb_to_hex_converter/)
-- [Keyring module issues?](https://www.reddit.com/r/Python/comments/12eo7gz/keyring_module_issues/)
-- [Building a GPT Bot like ChatGPT in 5 mins.](https://www.reddit.com/r/Python/comments/12elg8s/building_a_gpt_bot_like_chatgpt_in_5_mins/)
 <!-- BLOG-POST-LIST:END -->
