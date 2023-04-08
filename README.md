@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn to Code in Just 7 Minutes! - Python Tutorial For Beginners](https://www.reddit.com/r/Python/comments/12fmj70/learn_to_code_in_just_7_minutes_python_tutorial/)
-- [Python program replace](https://www.reddit.com/r/Python/comments/12fmfis/python_program_replace/)
-- [Making of a Bot](https://www.reddit.com/r/Python/comments/12fiiwi/making_of_a_bot/)
-- [What are the most profitable/in demand Python gigs?](https://www.reddit.com/r/Python/comments/12fickr/what_are_the_most_profitablein_demand_python_gigs/)
-- [Made a python software that makes videos with OpenAI’s API &lpar;ChatGPT and Dall-E&rpar;](https://www.reddit.com/r/Python/comments/12fic7e/made_a_python_software_that_makes_videos_with/)
+- [aiob2 - A Modern and Pythonic API Wrapper for Backblaze&#39;s API](https://www.reddit.com/r/Python/comments/12fob7n/aiob2_a_modern_and_pythonic_api_wrapper_for/)
+- [Python 3.12 On The Way ...](https://www.reddit.com/r/Python/comments/12fo1bf/python_312_on_the_way/)
+- [AutoControl is an automation package for Python.](https://www.reddit.com/r/Python/comments/12fnmcy/autocontrol_is_an_automation_package_for_python/)
+- [I got annoyed by building and maintaining custom web scrapers, so I built a GPT-4 powered tool that can generate a Python scraper for any website.](https://www.reddit.com/r/Python/comments/12fnlfe/i_got_annoyed_by_building_and_maintaining_custom/)
+- [Finding Side Gigs](https://www.reddit.com/r/Python/comments/12fngd2/finding_side_gigs/)
 <!-- BLOG-POST-LIST:END -->
