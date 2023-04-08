@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GPTCache: A semantic cache for LLMs](https://www.reddit.com/r/Python/comments/12faadk/gptcache_a_semantic_cache_for_llms/)
 - [Workshop: Algorithmic Trading with Python &lpar;part 2&rpar;](https://www.reddit.com/r/Python/comments/12f96cf/workshop_algorithmic_trading_with_python_part_2/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/12f4hre/saturday_daily_thread_resource_request_and/)
 - [do you think I could make a 2d game where you can swap between these screens and move around on the map and interact with people. I will keep updating ye on the progress if people think its interesting. Is this too ambitious or is there any major problems that you see?](https://www.reddit.com/r/Python/comments/12f3gww/do_you_think_i_could_make_a_2d_game_where_you_can/)
 - [PEP 695: Type Parameter Syntax has been accepted by the Steering Council](https://www.reddit.com/r/Python/comments/12f3glm/pep_695_type_parameter_syntax_has_been_accepted/)
-- [How to write a loop in ChinesePython: learning Chinese by programming](https://www.reddit.com/r/Python/comments/12f227h/how_to_write_a_loop_in_chinesepython_learning/)
 <!-- BLOG-POST-LIST:END -->
