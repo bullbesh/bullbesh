@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Making of a Bot](https://www.reddit.com/r/Python/comments/12fiiwi/making_of_a_bot/)
+- [What are the most profitable/in demand Python gigs?](https://www.reddit.com/r/Python/comments/12fickr/what_are_the_most_profitablein_demand_python_gigs/)
+- [Made a python software that makes videos with OpenAI’s API &lpar;ChatGPT and Dall-E&rpar;](https://www.reddit.com/r/Python/comments/12fic7e/made_a_python_software_that_makes_videos_with/)
 - [Pandas 2.0 &lpar;with pyarrow&rpar; vs Pandas 1.3 - Performance Comparison](https://www.reddit.com/r/Python/comments/12fgyui/pandas_20_with_pyarrow_vs_pandas_13_performance/)
 - [Is concurrency in python really that tedious?](https://www.reddit.com/r/Python/comments/12fftdh/is_concurrency_in_python_really_that_tedious/)
-- [EP 684: A Per-Interpreter GIL Accepted](https://www.reddit.com/r/Python/comments/12ffsif/ep_684_a_perinterpreter_gil_accepted/)
-- [GPTCache: A semantic cache for LLMs](https://www.reddit.com/r/Python/comments/12faadk/gptcache_a_semantic_cache_for_llms/)
-- [Workshop: Algorithmic Trading with Python &lpar;part 2&rpar;](https://www.reddit.com/r/Python/comments/12f96cf/workshop_algorithmic_trading_with_python_part_2/)
 <!-- BLOG-POST-LIST:END -->
