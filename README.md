@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m about to learn web development from scratch,can please someone explain to me what is frontend and backend and what&#39;s relating to web development?](https://www.reddit.com/r/Python/comments/12gfwv0/im_about_to_learn_web_development_from_scratchcan/)
+- [Python flask frontend for commandline todo application TaskWarrior](https://www.reddit.com/r/Python/comments/12gfr5j/python_flask_frontend_for_commandline_todo/)
+- [Python: everything is object](https://www.reddit.com/r/Python/comments/12gfn0h/python_everything_is_object/)
+- [Learn the Basics of Test-Driven Development with a focus on Data Structures](https://www.reddit.com/r/Python/comments/12gfi23/learn_the_basics_of_testdriven_development_with_a/)
 - [Is there a python game like rimworld, dwarf fortress and cdda](https://www.reddit.com/r/Python/comments/12gdst9/is_there_a_python_game_like_rimworld_dwarf/)
-- [Are We Ready to Shape the Future? Unlocking the Potential of JavaScript, Python, and AI for Tomorrow&#39;s Generation](https://www.reddit.com/r/Python/comments/12gb2xq/are_we_ready_to_shape_the_future_unlocking_the/)
-- [Pytorch vs tensorflow for beginners](https://www.reddit.com/r/Python/comments/12g6qif/pytorch_vs_tensorflow_for_beginners/)
-- [How to Get Started with Python in 2023 — Step-by-Step Walkthrough for Success](https://www.reddit.com/r/Python/comments/12g6pn8/how_to_get_started_with_python_in_2023_stepbystep/)
-- [Artificial Intelligence: Optimization Algorithms in Python](https://www.reddit.com/r/Python/comments/12g6odj/artificial_intelligence_optimization_algorithms/)
 <!-- BLOG-POST-LIST:END -->
