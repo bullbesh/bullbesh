@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [An Internet Speed Test with Turtle module](https://www.reddit.com/r/Python/comments/12gluke/an_internet_speed_test_with_turtle_module/)
+- [Why didn&#39;t Python become popular until long after its creation?](https://www.reddit.com/r/Python/comments/12glkw4/why_didnt_python_become_popular_until_long_after/)
+- [Best unit-test practices?](https://www.reddit.com/r/Python/comments/12glki6/best_unittest_practices/)
+- [Wrote an article on medium above webscraping in python](https://www.reddit.com/r/Python/comments/12gkrkh/wrote_an_article_on_medium_above_webscraping_in/)
 - [I&#39;m about to learn web development from scratch,can please someone explain to me what is frontend and backend and what&#39;s relating to web development?](https://www.reddit.com/r/Python/comments/12gfwv0/im_about_to_learn_web_development_from_scratchcan/)
-- [Python flask frontend for commandline todo application TaskWarrior](https://www.reddit.com/r/Python/comments/12gfr5j/python_flask_frontend_for_commandline_todo/)
-- [Python: everything is object](https://www.reddit.com/r/Python/comments/12gfn0h/python_everything_is_object/)
-- [Learn the Basics of Test-Driven Development with a focus on Data Structures](https://www.reddit.com/r/Python/comments/12gfi23/learn_the_basics_of_testdriven_development_with_a/)
-- [Is there a python game like rimworld, dwarf fortress and cdda](https://www.reddit.com/r/Python/comments/12gdst9/is_there_a_python_game_like_rimworld_dwarf/)
 <!-- BLOG-POST-LIST:END -->
