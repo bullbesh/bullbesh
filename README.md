@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pytorch vs tensorflow for beginners](https://www.reddit.com/r/Python/comments/12g6qif/pytorch_vs_tensorflow_for_beginners/)
+- [How to Get Started with Python in 2023 — Step-by-Step Walkthrough for Success](https://www.reddit.com/r/Python/comments/12g6pn8/how_to_get_started_with_python_in_2023_stepbystep/)
+- [Artificial Intelligence: Optimization Algorithms in Python](https://www.reddit.com/r/Python/comments/12g6odj/artificial_intelligence_optimization_algorithms/)
+- [What does &lpar;if __name__ == ‘__main__’&rpar; mean in Python?](https://www.reddit.com/r/Python/comments/12g6m8b/what_does_if_name_main_mean_in_python/)
 - [What all programming languages and libraries should I learn to land a job as a Python dev?](https://www.reddit.com/r/Python/comments/12g2yzr/what_all_programming_languages_and_libraries/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/12g2rk1/sunday_daily_thread_whats_everyone_working_on/)
-- [Pushing real-time updates to clients with server-sent events](https://www.reddit.com/r/Python/comments/12fzmge/pushing_realtime_updates_to_clients_with/)
-- [Comprehensive Reddit Saved Posts Downloader - retrieves almost all content ever saved](https://www.reddit.com/r/Python/comments/12fzdu2/comprehensive_reddit_saved_posts_downloader/)
-- [Check out my story to learn how to refactor code when dealing with too many conditional statements in Python](https://www.reddit.com/r/Python/comments/12fyspm/check_out_my_story_to_learn_how_to_refactor_code/)
 <!-- BLOG-POST-LIST:END -->
