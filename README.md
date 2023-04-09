@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Tale of Debugging: The Competitive Programming Approach](https://www.reddit.com/r/Python/comments/12gryl2/a_tale_of_debugging_the_competitive_programming/)
+- [pandas + pandera + beartype: BFFs at last. Type-check pandas data frames in ML pipelines for the good of LLaMa-kind. Arise, bug-free GPT. Overthrow all huma—*transmission terminated*](https://www.reddit.com/r/Python/comments/12grvly/pandas_pandera_beartype_bffs_at_last_typecheck/)
+- [I made a data analysis project using Python &lpar;Pandas - Numpy - Matplotlib - Seaborn&rpar; and uploaded it on Youtube &lpar;with Data Set&rpar;](https://www.reddit.com/r/Python/comments/12grji6/i_made_a_data_analysis_project_using_python/)
+- [Hello community](https://www.reddit.com/r/Python/comments/12grejb/hello_community/)
 - [Data/Web Scraping for a Career?](https://www.reddit.com/r/Python/comments/12goflg/dataweb_scraping_for_a_career/)
-- [Learning python at 16](https://www.reddit.com/r/Python/comments/12gngjd/learning_python_at_16/)
-- [An Internet Speed Test with Turtle module](https://www.reddit.com/r/Python/comments/12gluke/an_internet_speed_test_with_turtle_module/)
-- [Why didn&#39;t Python become popular until long after its creation?](https://www.reddit.com/r/Python/comments/12glkw4/why_didnt_python_become_popular_until_long_after/)
-- [Best unit-test practices?](https://www.reddit.com/r/Python/comments/12glki6/best_unittest_practices/)
 <!-- BLOG-POST-LIST:END -->
