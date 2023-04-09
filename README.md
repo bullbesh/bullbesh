@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data/Web Scraping for a Career?](https://www.reddit.com/r/Python/comments/12goflg/dataweb_scraping_for_a_career/)
 - [Learning python at 16](https://www.reddit.com/r/Python/comments/12gngjd/learning_python_at_16/)
 - [An Internet Speed Test with Turtle module](https://www.reddit.com/r/Python/comments/12gluke/an_internet_speed_test_with_turtle_module/)
 - [Why didn&#39;t Python become popular until long after its creation?](https://www.reddit.com/r/Python/comments/12glkw4/why_didnt_python_become_popular_until_long_after/)
 - [Best unit-test practices?](https://www.reddit.com/r/Python/comments/12glki6/best_unittest_practices/)
-- [Wrote an article on medium above webscraping in python](https://www.reddit.com/r/Python/comments/12gkrkh/wrote_an_article_on_medium_above_webscraping_in/)
 <!-- BLOG-POST-LIST:END -->
