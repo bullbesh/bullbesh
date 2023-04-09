@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there a python game like rimworld, dwarf fortress and cdda](https://www.reddit.com/r/Python/comments/12gdst9/is_there_a_python_game_like_rimworld_dwarf/)
 - [Are We Ready to Shape the Future? Unlocking the Potential of JavaScript, Python, and AI for Tomorrow&#39;s Generation](https://www.reddit.com/r/Python/comments/12gb2xq/are_we_ready_to_shape_the_future_unlocking_the/)
 - [Pytorch vs tensorflow for beginners](https://www.reddit.com/r/Python/comments/12g6qif/pytorch_vs_tensorflow_for_beginners/)
 - [How to Get Started with Python in 2023 — Step-by-Step Walkthrough for Success](https://www.reddit.com/r/Python/comments/12g6pn8/how_to_get_started_with_python_in_2023_stepbystep/)
 - [Artificial Intelligence: Optimization Algorithms in Python](https://www.reddit.com/r/Python/comments/12g6odj/artificial_intelligence_optimization_algorithms/)
-- [What does &lpar;if __name__ == ‘__main__’&rpar; mean in Python?](https://www.reddit.com/r/Python/comments/12g6m8b/what_does_if_name_main_mean_in_python/)
 <!-- BLOG-POST-LIST:END -->
