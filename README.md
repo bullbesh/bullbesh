@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What all programming languages and libraries should I learn to land a job as a Python dev?](https://www.reddit.com/r/Python/comments/12g2yzr/what_all_programming_languages_and_libraries/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/12g2rk1/sunday_daily_thread_whats_everyone_working_on/)
 - [Pushing real-time updates to clients with server-sent events](https://www.reddit.com/r/Python/comments/12fzmge/pushing_realtime_updates_to_clients_with/)
 - [Comprehensive Reddit Saved Posts Downloader - retrieves almost all content ever saved](https://www.reddit.com/r/Python/comments/12fzdu2/comprehensive_reddit_saved_posts_downloader/)
 - [Check out my story to learn how to refactor code when dealing with too many conditional statements in Python](https://www.reddit.com/r/Python/comments/12fyspm/check_out_my_story_to_learn_how_to_refactor_code/)
-- [Algebra Functions Graphing App - CustomTkinter](https://www.reddit.com/r/Python/comments/12fxwr4/algebra_functions_graphing_app_customtkinter/)
-- [How to get a python developer job as a fresher?](https://www.reddit.com/r/Python/comments/12ftlkh/how_to_get_a_python_developer_job_as_a_fresher/)
 <!-- BLOG-POST-LIST:END -->
