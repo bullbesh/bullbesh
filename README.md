@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Yet another template for a Python library](https://www.reddit.com/r/Python/comments/12hxsjj/yet_another_template_for_a_python_library/)
+- [Procedual generated audio-tracks](https://www.reddit.com/r/Python/comments/12hwn5c/procedual_generated_audiotracks/)
 - [Twitter API Reverse Engineered](https://www.reddit.com/r/Python/comments/12htrim/twitter_api_reverse_engineered/)
 - [v0.5.0 Envio: Securely manage your environment variables with encrypted profiles using GPG now!](https://www.reddit.com/r/Python/comments/12ht8dh/v050_envio_securely_manage_your_environment/)
-- [Help me to learn python](https://www.reddit.com/r/Python/comments/12hsych/help_me_to_learn_python/)
 - [Repo comparing Streamlit with Shiny](https://www.reddit.com/r/Python/comments/12hsx8i/repo_comparing_streamlit_with_shiny/)
-- [Python Library for Astronomy](https://www.reddit.com/r/Python/comments/12hrxcw/python_library_for_astronomy/)
 <!-- BLOG-POST-LIST:END -->
