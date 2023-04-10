@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial - Using your own data with ChatGPT](https://www.reddit.com/r/Python/comments/12hqgnn/tutorial_using_your_own_data_with_chatgpt/)
+- [What do you think about the Python logo?](https://www.reddit.com/r/Python/comments/12hq7lj/what_do_you_think_about_the_python_logo/)
+- [Highly configurable resource usage/limit tracker](https://www.reddit.com/r/Python/comments/12hq6hl/highly_configurable_resource_usagelimit_tracker/)
+- [Freelance or remote work](https://www.reddit.com/r/Python/comments/12hps3u/freelance_or_remote_work/)
 - [Why You Should Learn Python: The Best Programming Language for Beginners](https://www.reddit.com/r/Python/comments/12howwu/why_you_should_learn_python_the_best_programming/)
-- [I made a two player Chess game in python using the PyGame framework for my GUI!](https://www.reddit.com/r/Python/comments/12ho95r/i_made_a_two_player_chess_game_in_python_using/)
-- [Download video list from YouTube with progress bar using Python](https://www.reddit.com/r/Python/comments/12hnr61/download_video_list_from_youtube_with_progress/)
-- [When does it matter to only use built-ins or minimizing dependencies?](https://www.reddit.com/r/Python/comments/12hmcc9/when_does_it_matter_to_only_use_builtins_or/)
-- [Geospatial Mapping Within a Webpage - with Streamlit](https://www.reddit.com/r/Python/comments/12hky9m/geospatial_mapping_within_a_webpage_with_streamlit/)
 <!-- BLOG-POST-LIST:END -->
