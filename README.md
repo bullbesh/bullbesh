@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [When does it matter to only use built-ins or minimizing dependencies?](https://www.reddit.com/r/Python/comments/12hmcc9/when_does_it_matter_to_only_use_builtins_or/)
 - [Geospatial Mapping Within a Webpage - with Streamlit](https://www.reddit.com/r/Python/comments/12hky9m/geospatial_mapping_within_a_webpage_with_streamlit/)
 - [Trial on OpenAI&#39;s API for email generation](https://www.reddit.com/r/Python/comments/12hkup2/trial_on_openais_api_for_email_generation/)
 - [typed-args: Create Command Line Interfaces with Typing](https://www.reddit.com/r/Python/comments/12hkabm/typedargs_create_command_line_interfaces_with/)
 - [Tutorial: Python + ChatGPT = AI Assistant](https://www.reddit.com/r/Python/comments/12hjouc/tutorial_python_chatgpt_ai_assistant/)
-- [Free course: Build a modern API with FastAPI and Python](https://www.reddit.com/r/Python/comments/12hj9oc/free_course_build_a_modern_api_with_fastapi_and/)
 <!-- BLOG-POST-LIST:END -->
