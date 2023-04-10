@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Geospatial Mapping Within a Webpage - with Streamlit](https://www.reddit.com/r/Python/comments/12hky9m/geospatial_mapping_within_a_webpage_with_streamlit/)
+- [Trial on OpenAI&#39;s API for email generation](https://www.reddit.com/r/Python/comments/12hkup2/trial_on_openais_api_for_email_generation/)
+- [typed-args: Create Command Line Interfaces with Typing](https://www.reddit.com/r/Python/comments/12hkabm/typedargs_create_command_line_interfaces_with/)
 - [Tutorial: Python + ChatGPT = AI Assistant](https://www.reddit.com/r/Python/comments/12hjouc/tutorial_python_chatgpt_ai_assistant/)
-- [Natural lang to shell commands](https://www.reddit.com/r/Python/comments/12hjc9p/natural_lang_to_shell_commands/)
 - [Free course: Build a modern API with FastAPI and Python](https://www.reddit.com/r/Python/comments/12hj9oc/free_course_build_a_modern_api_with_fastapi_and/)
-- [Is The OpenAI Study On GPT&#39; Labor Market Impacts Flawed?](https://www.reddit.com/r/Python/comments/12hj5ol/is_the_openai_study_on_gpt_labor_market_impacts/)
-- [Pandas or Polars to work with dataframes?](https://www.reddit.com/r/Python/comments/12hixyi/pandas_or_polars_to_work_with_dataframes/)
 <!-- BLOG-POST-LIST:END -->
