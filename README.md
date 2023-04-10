@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any one help me to integrate Python to Woocommerce integration?](https://www.reddit.com/r/Python/comments/12ha85a/any_one_help_me_to_integrate_python_to/)
+- [Ruff: one Python linter to rule them all](https://www.reddit.com/r/Python/comments/12ha6mc/ruff_one_python_linter_to_rule_them_all/)
+- [Learn how to build ChatGPT plugins using ChatGPT :&rpar;](https://www.reddit.com/r/Python/comments/12h9vkl/learn_how_to_build_chatgpt_plugins_using_chatgpt/)
 - [Learing python for Test Automation](https://www.reddit.com/r/Python/comments/12h93tb/learing_python_for_test_automation/)
 - [Quantum Machine Learning Tutorial for Beginners](https://www.reddit.com/r/Python/comments/12h5u6g/quantum_machine_learning_tutorial_for_beginners/)
-- [Brain Tumor Detection Web Application using Transfer Learning: An End-To-End Project](https://www.reddit.com/r/Python/comments/12h3hvr/brain_tumor_detection_web_application_using/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/12h0ihl/monday_daily_thread_project_ideas/)
-- [Made A Getting Started Video for Auto-GPT](https://www.reddit.com/r/Python/comments/12gxqll/made_a_getting_started_video_for_autogpt/)
 <!-- BLOG-POST-LIST:END -->
