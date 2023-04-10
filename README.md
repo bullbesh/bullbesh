@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Library for Astronomy](https://www.reddit.com/r/Python/comments/12hrxcw/python_library_for_astronomy/)
+- [Building a Network Tracking script using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/12hritp/building_a_network_tracking_script_using/)
 - [Tutorial - Using your own data with ChatGPT](https://www.reddit.com/r/Python/comments/12hqgnn/tutorial_using_your_own_data_with_chatgpt/)
 - [What do you think about the Python logo?](https://www.reddit.com/r/Python/comments/12hq7lj/what_do_you_think_about_the_python_logo/)
 - [Highly configurable resource usage/limit tracker](https://www.reddit.com/r/Python/comments/12hq6hl/highly_configurable_resource_usagelimit_tracker/)
-- [Freelance or remote work](https://www.reddit.com/r/Python/comments/12hps3u/freelance_or_remote_work/)
-- [Why You Should Learn Python: The Best Programming Language for Beginners](https://www.reddit.com/r/Python/comments/12howwu/why_you_should_learn_python_the_best_programming/)
 <!-- BLOG-POST-LIST:END -->
