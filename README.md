@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [need help with flet](https://www.reddit.com/r/Python/comments/12hh7st/need_help_with_flet/)
+- [New to python - what next?](https://www.reddit.com/r/Python/comments/12hgqm9/new_to_python_what_next/)
+- [Python Decorators: Beginner&#39;s Guide](https://www.reddit.com/r/Python/comments/12hgccp/python_decorators_beginners_guide/)
 - [Python Packages: a Primer for Data People &lpar;part 1 of 2&rpar; | Dagster Blog](https://www.reddit.com/r/Python/comments/12hcni6/python_packages_a_primer_for_data_people_part_1/)
 - [Adding multiplication code to the attached python code](https://www.reddit.com/r/Python/comments/12haktc/adding_multiplication_code_to_the_attached_python/)
-- [Any one help me to integrate Python to Woocommerce integration?](https://www.reddit.com/r/Python/comments/12ha85a/any_one_help_me_to_integrate_python_to/)
-- [Ruff: one Python linter to rule them all](https://www.reddit.com/r/Python/comments/12ha6mc/ruff_one_python_linter_to_rule_them_all/)
-- [Learn how to build ChatGPT plugins using ChatGPT :&rpar;](https://www.reddit.com/r/Python/comments/12h9vkl/learn_how_to_build_chatgpt_plugins_using_chatgpt/)
 <!-- BLOG-POST-LIST:END -->
