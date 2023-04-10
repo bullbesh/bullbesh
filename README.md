@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter API Reverse Engineered](https://www.reddit.com/r/Python/comments/12htrim/twitter_api_reverse_engineered/)
+- [v0.5.0 Envio: Securely manage your environment variables with encrypted profiles using GPG now!](https://www.reddit.com/r/Python/comments/12ht8dh/v050_envio_securely_manage_your_environment/)
+- [Help me to learn python](https://www.reddit.com/r/Python/comments/12hsych/help_me_to_learn_python/)
+- [Repo comparing Streamlit with Shiny](https://www.reddit.com/r/Python/comments/12hsx8i/repo_comparing_streamlit_with_shiny/)
 - [Python Library for Astronomy](https://www.reddit.com/r/Python/comments/12hrxcw/python_library_for_astronomy/)
-- [Building a Network Tracking script using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/12hritp/building_a_network_tracking_script_using/)
-- [Tutorial - Using your own data with ChatGPT](https://www.reddit.com/r/Python/comments/12hqgnn/tutorial_using_your_own_data_with_chatgpt/)
-- [What do you think about the Python logo?](https://www.reddit.com/r/Python/comments/12hq7lj/what_do_you_think_about_the_python_logo/)
-- [Highly configurable resource usage/limit tracker](https://www.reddit.com/r/Python/comments/12hq6hl/highly_configurable_resource_usagelimit_tracker/)
 <!-- BLOG-POST-LIST:END -->
