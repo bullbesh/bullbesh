@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Learn Python: The Best Programming Language for Beginners](https://www.reddit.com/r/Python/comments/12howwu/why_you_should_learn_python_the_best_programming/)
+- [I made a two player Chess game in python using the PyGame framework for my GUI!](https://www.reddit.com/r/Python/comments/12ho95r/i_made_a_two_player_chess_game_in_python_using/)
+- [Download video list from YouTube with progress bar using Python](https://www.reddit.com/r/Python/comments/12hnr61/download_video_list_from_youtube_with_progress/)
 - [When does it matter to only use built-ins or minimizing dependencies?](https://www.reddit.com/r/Python/comments/12hmcc9/when_does_it_matter_to_only_use_builtins_or/)
 - [Geospatial Mapping Within a Webpage - with Streamlit](https://www.reddit.com/r/Python/comments/12hky9m/geospatial_mapping_within_a_webpage_with_streamlit/)
-- [Trial on OpenAI&#39;s API for email generation](https://www.reddit.com/r/Python/comments/12hkup2/trial_on_openais_api_for_email_generation/)
-- [typed-args: Create Command Line Interfaces with Typing](https://www.reddit.com/r/Python/comments/12hkabm/typedargs_create_command_line_interfaces_with/)
-- [Tutorial: Python + ChatGPT = AI Assistant](https://www.reddit.com/r/Python/comments/12hjouc/tutorial_python_chatgpt_ai_assistant/)
 <!-- BLOG-POST-LIST:END -->
