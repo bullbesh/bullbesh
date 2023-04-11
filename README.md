@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Good projects?](https://www.reddit.com/r/Python/comments/12imshy/good_projects/)
+- [Using Python and AI to query and ask question about your audio data](https://www.reddit.com/r/Python/comments/12ima2b/using_python_and_ai_to_query_and_ask_question/)
+- [Is anyone working on edge computing solutions targeting Python?](https://www.reddit.com/r/Python/comments/12im8cx/is_anyone_working_on_edge_computing_solutions/)
 - [Python News: What&#39;s New From March 2023 – Real Python](https://www.reddit.com/r/Python/comments/12ik6hq/python_news_whats_new_from_march_2023_real_python/)
 - [What&#39;s my best option to create a webapp that incorporates pyvista and does some more computation under the hood?](https://www.reddit.com/r/Python/comments/12ik23w/whats_my_best_option_to_create_a_webapp_that/)
-- [How to Stop Testing &amp; Break Your Code Base](https://www.reddit.com/r/Python/comments/12ii9ew/how_to_stop_testing_break_your_code_base/)
-- [Limiting concurrency in Python asyncio: the story of async imap_unordered&lpar;&rpar;](https://www.reddit.com/r/Python/comments/12ii45y/limiting_concurrency_in_python_asyncio_the_story/)
-- [pytypest: testing framework that empowers pytest &lpar;with better fixtures and parametrization&rpar;](https://www.reddit.com/r/Python/comments/12ii3e0/pytypest_testing_framework_that_empowers_pytest/)
 <!-- BLOG-POST-LIST:END -->
