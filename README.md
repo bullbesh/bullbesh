@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Blake2Signer: simple and straightforward library to securely sign data using BLAKE](https://www.reddit.com/r/Python/comments/12itcst/blake2signer_simple_and_straightforward_library/)
+- [New release of FastKafka improves testability](https://www.reddit.com/r/Python/comments/12isl07/new_release_of_fastkafka_improves_testability/)
 - [Companies that use Python for scientific research and programming](https://www.reddit.com/r/Python/comments/12iozyw/companies_that_use_python_for_scientific_research/)
-- [First webbed project in python, Flask + HTML + CSS + vanilla JS &lpar;NSFW Because I got NSFW subreddit names&rpar;](https://www.reddit.com/r/Python/comments/12ioy0m/first_webbed_project_in_python_flask_html_css/)
 - [pyright-polite: An intelligent cross-platform wrapper for pyright that makes it less noisy](https://www.reddit.com/r/Python/comments/12iolqk/pyrightpolite_an_intelligent_crossplatform/)
 - [onGAU: a UI for Stable Diffusion using DearPyGui.](https://www.reddit.com/r/Python/comments/12inhoe/ongau_a_ui_for_stable_diffusion_using_dearpygui/)
-- [Using Python and AI to query and ask question about your audio data](https://www.reddit.com/r/Python/comments/12ima2b/using_python_and_ai_to_query_and_ask_question/)
 <!-- BLOG-POST-LIST:END -->
