@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python News: What&#39;s New From March 2023 – Real Python](https://www.reddit.com/r/Python/comments/12ik6hq/python_news_whats_new_from_march_2023_real_python/)
+- [What&#39;s my best option to create a webapp that incorporates pyvista and does some more computation under the hood?](https://www.reddit.com/r/Python/comments/12ik23w/whats_my_best_option_to_create_a_webapp_that/)
 - [How to Stop Testing &amp; Break Your Code Base](https://www.reddit.com/r/Python/comments/12ii9ew/how_to_stop_testing_break_your_code_base/)
 - [Limiting concurrency in Python asyncio: the story of async imap_unordered&lpar;&rpar;](https://www.reddit.com/r/Python/comments/12ii45y/limiting_concurrency_in_python_asyncio_the_story/)
 - [pytypest: testing framework that empowers pytest &lpar;with better fixtures and parametrization&rpar;](https://www.reddit.com/r/Python/comments/12ii3e0/pytypest_testing_framework_that_empowers_pytest/)
-- [Python in top 3 most payed jobs in AI. Analyzed 1000+ AI jobs from 100+ AI startups.](https://www.reddit.com/r/Python/comments/12ieq2k/python_in_top_3_most_payed_jobs_in_ai_analyzed/)
-- [Creating a Python discord chatbot safely on replit](https://www.reddit.com/r/Python/comments/12iekle/creating_a_python_discord_chatbot_safely_on_replit/)
 <!-- BLOG-POST-LIST:END -->
