@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just finished my project for a hackathon and i think you should check it out](https://www.reddit.com/r/Python/comments/12iv91i/i_just_finished_my_project_for_a_hackathon_and_i/)
+- [Introducing Markdown Code Runner: Automatically execute code blocks in your Markdown files! 🚀](https://www.reddit.com/r/Python/comments/12iupj2/introducing_markdown_code_runner_automatically/)
+- [Made a hangman game](https://www.reddit.com/r/Python/comments/12iuhap/made_a_hangman_game/)
 - [Blake2Signer: simple and straightforward library to securely sign data using BLAKE](https://www.reddit.com/r/Python/comments/12itcst/blake2signer_simple_and_straightforward_library/)
 - [New release of FastKafka improves testability](https://www.reddit.com/r/Python/comments/12isl07/new_release_of_fastkafka_improves_testability/)
-- [Companies that use Python for scientific research and programming](https://www.reddit.com/r/Python/comments/12iozyw/companies_that_use_python_for_scientific_research/)
-- [pyright-polite: An intelligent cross-platform wrapper for pyright that makes it less noisy](https://www.reddit.com/r/Python/comments/12iolqk/pyrightpolite_an_intelligent_crossplatform/)
-- [onGAU: a UI for Stable Diffusion using DearPyGui.](https://www.reddit.com/r/Python/comments/12inhoe/ongau_a_ui_for_stable_diffusion_using_dearpygui/)
 <!-- BLOG-POST-LIST:END -->
