@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Quartodoc: a quarto-based alternative to sphinx](https://www.reddit.com/r/Python/comments/12jkvjg/quartodoc_a_quartobased_alternative_to_sphinx/)
 - [A web portal focusing on tutorials in Python](https://www.reddit.com/r/Python/comments/12jjtln/a_web_portal_focusing_on_tutorials_in_python/)
-- [AI Chat Bot Project](https://www.reddit.com/r/Python/comments/12jiq62/ai_chat_bot_project/)
 - [Tutorial on Web Scraping with Python: create your first Python scraper](https://www.reddit.com/r/Python/comments/12jhwv4/tutorial_on_web_scraping_with_python_create_your/)
 - [API Wrapper for Open-Meteo API](https://www.reddit.com/r/Python/comments/12jhjjq/api_wrapper_for_openmeteo_api/)
+- [Interfaces in Python](https://www.reddit.com/r/Python/comments/12jghhf/interfaces_in_python/)
 <!-- BLOG-POST-LIST:END -->
