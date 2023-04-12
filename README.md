@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Application size](https://www.reddit.com/r/Python/comments/12j6pxi/application_size/)
+- [If you&#39;re a beginner interested in data science and machine learning, I recently produced a video series that goes through all of the major algorithms and their implementations in Python! I put a lot of work into each tutorial, so hopefully this helps out!](https://www.reddit.com/r/Python/comments/12j68f7/if_youre_a_beginner_interested_in_data_science/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/12j2rz4/wednesday_daily_thread_beginner_questions/)
 - [Modern Python tooling suggestions](https://www.reddit.com/r/Python/comments/12j14cq/modern_python_tooling_suggestions/)
 - [I used Python to make a BizBuySell web scraper to get businesses for sale in a given state. I used aiohttp to fetch requests asynchronously. The code has a rate limiter as well!](https://www.reddit.com/r/Python/comments/12ixw47/i_used_python_to_make_a_bizbuysell_web_scraper_to/)
-- [I made a Machine Learning project using Python &lpar;sci-kit learn&rpar; and published it on Youtube, I also provide the data set](https://www.reddit.com/r/Python/comments/12ixgj5/i_made_a_machine_learning_project_using_python/)
-- [I created a one-liner QnA over docs bot with LangChain and GPT. Do you like it?](https://www.reddit.com/r/Python/comments/12iwowi/i_created_a_oneliner_qna_over_docs_bot_with/)
 <!-- BLOG-POST-LIST:END -->
