@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [TF-IDF Search Engine](https://www.reddit.com/r/Python/comments/12jfqgd/tfidf_search_engine/)
+- [Question regarding my worries about the Applied Data Science Program by MIT and Great Learning](https://www.reddit.com/r/Python/comments/12jfhuu/question_regarding_my_worries_about_the_applied/)
+- [Permanently add Subtitles to a Video Using Python and Moviepy](https://www.reddit.com/r/Python/comments/12jf83k/permanently_add_subtitles_to_a_video_using_python/)
 - [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://www.reddit.com/r/Python/comments/12jeukq/running_python_microbenchmarks_using_the_chatgpt/)
 - [Algebraic Data Types in &lpar;typed&rpar; Python](https://www.reddit.com/r/Python/comments/12je601/algebraic_data_types_in_typed_python/)
-- [🚀 Introducing GoRules: Open-Source Business Rules Engine](https://www.reddit.com/r/Python/comments/12je354/introducing_gorules_opensource_business_rules/)
-- [PSF expresses concerns about a proposed EU law that may make it impossible to continue providing Python and PyPI to the European public](https://www.reddit.com/r/Python/comments/12jbj6v/psf_expresses_concerns_about_a_proposed_eu_law/)
-- [jeremarc - Understand Python Environment management through a hiking trip.](https://www.reddit.com/r/Python/comments/12jbe3m/jeremarc_understand_python_environment_management/)
 <!-- BLOG-POST-LIST:END -->
