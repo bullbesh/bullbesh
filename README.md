@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [idea for additional print shortcut . print&lpar;,,&rpar; =&quot;,&quot;](https://www.reddit.com/r/Python/comments/12jp8mp/idea_for_additional_print_shortcut_print/)
+- [A decorator that uses GPT3 to run a function.](https://www.reddit.com/r/Python/comments/12jooaj/a_decorator_that_uses_gpt3_to_run_a_function/)
+- [Why we dropped Docker for Python environments](https://www.reddit.com/r/Python/comments/12jojj7/why_we_dropped_docker_for_python_environments/)
+- [Which web framework is “king”?](https://www.reddit.com/r/Python/comments/12jnsh3/which_web_framework_is_king/)
 - [Quartodoc: a quarto-based alternative to sphinx](https://www.reddit.com/r/Python/comments/12jkvjg/quartodoc_a_quartobased_alternative_to_sphinx/)
-- [A web portal focusing on tutorials in Python](https://www.reddit.com/r/Python/comments/12jjtln/a_web_portal_focusing_on_tutorials_in_python/)
-- [Tutorial on Web Scraping with Python: create your first Python scraper](https://www.reddit.com/r/Python/comments/12jhwv4/tutorial_on_web_scraping_with_python_create_your/)
-- [API Wrapper for Open-Meteo API](https://www.reddit.com/r/Python/comments/12jhjjq/api_wrapper_for_openmeteo_api/)
-- [Interfaces in Python](https://www.reddit.com/r/Python/comments/12jghhf/interfaces_in_python/)
 <!-- BLOG-POST-LIST:END -->
