@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a simple gui to use whisper.cpp in python.](https://www.reddit.com/r/Python/comments/12kyfl4/i_made_a_simple_gui_to_use_whispercpp_in_python/)
 - [Balacoon: python package for text-to-speech](https://www.reddit.com/r/Python/comments/12kwbn3/balacoon_python_package_for_texttospeech/)
 - [codecov gone from PyPi](https://www.reddit.com/r/Python/comments/12kukhk/codecov_gone_from_pypi/)
 - [__str__ &amp; __repr__: Change String Representation In Python](https://www.reddit.com/r/Python/comments/12kroqt/str_repr_change_string_representation_in_python/)
 - [How to Get the Most Out of PyCon US – Real Python](https://www.reddit.com/r/Python/comments/12kr616/how_to_get_the_most_out_of_pycon_us_real_python/)
-- [Code editor powered by AI [experimental][work in progress]](https://www.reddit.com/r/Python/comments/12kpylb/code_editor_powered_by_ai_experimentalwork_in/)
 <!-- BLOG-POST-LIST:END -->
