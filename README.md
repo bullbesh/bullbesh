@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Learning Python](https://www.reddit.com/r/Python/comments/12kue3m/learning_python/)
+- [codecov gone from PyPi](https://www.reddit.com/r/Python/comments/12kukhk/codecov_gone_from_pypi/)
 - [__str__ &amp; __repr__: Change String Representation In Python](https://www.reddit.com/r/Python/comments/12kroqt/str_repr_change_string_representation_in_python/)
 - [How to Get the Most Out of PyCon US – Real Python](https://www.reddit.com/r/Python/comments/12kr616/how_to_get_the_most_out_of_pycon_us_real_python/)
 - [Code editor powered by AI [experimental][work in progress]](https://www.reddit.com/r/Python/comments/12kpylb/code_editor_powered_by_ai_experimentalwork_in/)
