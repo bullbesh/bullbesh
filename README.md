@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code editor powered by AI [experimental][work in progress]](https://www.reddit.com/r/Python/comments/12kpylb/code_editor_powered_by_ai_experimentalwork_in/)
+- [My friend and I created a learning platform to teach kids how to problem solve and create cool projects with Python. We made it incredibly fun, since it&#39;s something we wish we had when we were younger.](https://www.reddit.com/r/Python/comments/12kphmi/my_friend_and_i_created_a_learning_platform_to/)
 - [Federated-Recommendation-Neural-Collaborative-Filtering](https://www.reddit.com/r/Python/comments/12ko8f5/federatedrecommendationneuralcollaborativefilterin/)
 - [A Tool for Stress Testing using Python](https://www.reddit.com/r/Python/comments/12knpor/a_tool_for_stress_testing_using_python/)
 - [A Tale of Algorithms: Edit Distance in Web Development](https://www.reddit.com/r/Python/comments/12kmdbr/a_tale_of_algorithms_edit_distance_in_web/)
-- [AI And The Anxieties of a Junior Developer](https://www.reddit.com/r/Python/comments/12kjqir/ai_and_the_anxieties_of_a_junior_developer/)
-- [Introduction: What you need to know about Python Strings [Beginners Tutorial]](https://www.reddit.com/r/Python/comments/12ki1jf/introduction_what_you_need_to_know_about_python/)
 <!-- BLOG-POST-LIST:END -->
