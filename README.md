@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning Python](https://www.reddit.com/r/Python/comments/12kue3m/learning_python/)
 - [__str__ &amp; __repr__: Change String Representation In Python](https://www.reddit.com/r/Python/comments/12kroqt/str_repr_change_string_representation_in_python/)
 - [How to Get the Most Out of PyCon US – Real Python](https://www.reddit.com/r/Python/comments/12kr616/how_to_get_the_most_out_of_pycon_us_real_python/)
 - [Code editor powered by AI [experimental][work in progress]](https://www.reddit.com/r/Python/comments/12kpylb/code_editor_powered_by_ai_experimentalwork_in/)
 - [My friend and I created a learning platform to teach kids how to problem solve and create cool projects with Python. We made it incredibly fun, since it&#39;s something we wish we had when we were younger.](https://www.reddit.com/r/Python/comments/12kphmi/my_friend_and_i_created_a_learning_platform_to/)
-- [Federated-Recommendation-Neural-Collaborative-Filtering](https://www.reddit.com/r/Python/comments/12ko8f5/federatedrecommendationneuralcollaborativefilterin/)
 <!-- BLOG-POST-LIST:END -->
