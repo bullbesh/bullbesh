@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Tale of Algorithms: Edit Distance in Web Development](https://www.reddit.com/r/Python/comments/12kmdbr/a_tale_of_algorithms_edit_distance_in_web/)
 - [Django 4.2 released](https://www.reddit.com/r/Python/comments/12kkmpx/django_42_released/)
 - [AI And The Anxieties of a Junior Developer](https://www.reddit.com/r/Python/comments/12kjqir/ai_and_the_anxieties_of_a_junior_developer/)
 - [Introduction: What you need to know about Python Strings [Beginners Tutorial]](https://www.reddit.com/r/Python/comments/12ki1jf/introduction_what_you_need_to_know_about_python/)
 - [I recorded a Python Data Analysis project &lpar;pandas - numpy - matplotlib - seaborn&rpar; video in tutorial type and uploaded it on Youtube](https://www.reddit.com/r/Python/comments/12kg5mm/i_recorded_a_python_data_analysis_project_pandas/)
-- [Gitbi - Lightweight BI app based on git repo](https://www.reddit.com/r/Python/comments/12kf0g3/gitbi_lightweight_bi_app_based_on_git_repo/)
 <!-- BLOG-POST-LIST:END -->
