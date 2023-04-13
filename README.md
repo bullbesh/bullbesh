@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gitbi - Lightweight BI app based on git repo](https://www.reddit.com/r/Python/comments/12kf0g3/gitbi_lightweight_bi_app_based_on_git_repo/)
 - [Is it just me or are `trio`&#39;s function names more than a bit ridiculous?](https://www.reddit.com/r/Python/comments/12k6yd4/is_it_just_me_or_are_trios_function_names_more/)
 - [Large-Scale Datamining &amp; Built a Reddit Bot for r/boardgames to reply with BGG Links](https://www.reddit.com/r/Python/comments/12k5yfb/largescale_datamining_built_a_reddit_bot_for/)
 - [I made an advanced math flash card game in python using tkinter!](https://www.reddit.com/r/Python/comments/12k5djw/i_made_an_advanced_math_flash_card_game_in_python/)
 - [PokéSearch: FastAPI + React &lpar;Open Source&rpar;](https://www.reddit.com/r/Python/comments/12k4qhe/pokésearch_fastapi_react_open_source/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/12k4o7f/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
