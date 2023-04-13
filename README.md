@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cracking the Coding Interview: Insider Tips and Strategies for Landing Your Dream Programming Job](https://www.reddit.com/r/Python/comments/12l6cwk/cracking_the_coding_interview_insider_tips_and/)
-- [Looking for a simple and basic Python machine learning tutorial](https://www.reddit.com/r/Python/comments/12l404p/looking_for_a_simple_and_basic_python_machine/)
+- [Python File manager](https://www.reddit.com/r/Python/comments/12l99zp/python_file_manager/)
+- [Best way to make an ml training pipeline in Python](https://www.reddit.com/r/Python/comments/12l8x3w/best_way_to_make_an_ml_training_pipeline_in_python/)
 - [Build a ChatGPT-like SMS Chatbot with OpenAI and Python](https://www.reddit.com/r/Python/comments/12l2kqo/build_a_chatgptlike_sms_chatbot_with_openai_and/)
 - [I made a simple gui to use whisper.cpp in python.](https://www.reddit.com/r/Python/comments/12kyfl4/i_made_a_simple_gui_to_use_whispercpp_in_python/)
 - [Balacoon: python package for text-to-speech](https://www.reddit.com/r/Python/comments/12kwbn3/balacoon_python_package_for_texttospeech/)
