@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [suggestion for Python and machine learning in Medical research](https://www.reddit.com/r/Python/comments/12k1d4m/suggestion_for_python_and_machine_learning_in/)
-- [What do you think about this code?](https://www.reddit.com/r/Python/comments/12k07z8/what_do_you_think_about_this_code/)
-- [Why would you use python to write files?](https://www.reddit.com/r/Python/comments/12jyv4h/why_would_you_use_python_to_write_files/)
-- [can i make a ai video editor write script,spell it ,choose the key words and add to photo of key words to back ground when the key word are spelling.&lpar;preferably using pyhton&rpar;](https://www.reddit.com/r/Python/comments/12jvanq/can_i_make_a_ai_video_editor_write_scriptspell_it/)
-- [[P] Create a question answering over docs bot with one line of code](https://www.reddit.com/r/Python/comments/12juy5b/p_create_a_question_answering_over_docs_bot_with/)
+- [Large-Scale Datamining &amp; Built a Reddit Bot for r/boardgames to reply with BGG Links](https://www.reddit.com/r/Python/comments/12k5yfb/largescale_datamining_built_a_reddit_bot_for/)
+- [A Python package written in Rust for email verification without sending any emails.](https://www.reddit.com/r/Python/comments/12k5uba/a_python_package_written_in_rust_for_email/)
+- [I made an advanced math flash card game in python using tkinter!](https://www.reddit.com/r/Python/comments/12k5djw/i_made_an_advanced_math_flash_card_game_in_python/)
+- [PokéSearch: FastAPI + React &lpar;Open Source&rpar;](https://www.reddit.com/r/Python/comments/12k4qhe/pokésearch_fastapi_react_open_source/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/12k4o7f/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
