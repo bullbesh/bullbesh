@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [An open-source CLI for LangChain](https://www.reddit.com/r/Python/comments/12mb0wk/an_opensource_cli_for_langchain/)
 - [This week I made my first ever python script! It scrapes and translates a single Japanese website for hotel bookings asynchronously. Please come take a look :&rpar;](https://www.reddit.com/r/Python/comments/12m6obx/this_week_i_made_my_first_ever_python_script_it/)
 - [Looking for a beginner-friendly Python book](https://www.reddit.com/r/Python/comments/12m5lht/looking_for_a_beginnerfriendly_python_book/)
 - [How to Read and Write JSON Files in Python](https://www.reddit.com/r/Python/comments/12m5ffq/how_to_read_and_write_json_files_in_python/)
 - [Wrong output](https://www.reddit.com/r/Python/comments/12m38qw/wrong_output/)
-- [Timeless Data Science Treasures - Python modules that will never die](https://www.reddit.com/r/Python/comments/12m2pxe/timeless_data_science_treasures_python_modules/)
 <!-- BLOG-POST-LIST:END -->
