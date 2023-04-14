@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Crosspost] Introducing BungIO - a python bungie.net / destiny 2 api wrapper](https://www.reddit.com/r/Python/comments/12m2kpe/crosspost_introducing_bungio_a_python_bungienet/)
+- [How do you guys handle pandas and its sh*tty data type inference](https://www.reddit.com/r/Python/comments/12m2gn8/how_do_you_guys_handle_pandas_and_its_shtty_data/)
+- [Collaborative Approach to Problem-Solving with Python Examples](https://www.reddit.com/r/Python/comments/12m1zer/collaborative_approach_to_problemsolving_with/)
 - [Introducing Visual Cookiecutter: a web UI for instanciating cookiecutter templates](https://www.reddit.com/r/Python/comments/12m0ast/introducing_visual_cookiecutter_a_web_ui_for/)
 - [Release: NiceGUI 1.2.7 with ui.download, easier color definitions, &quot;aggrid from pandas dataframe&quot; and much more](https://www.reddit.com/r/Python/comments/12m03v5/release_nicegui_127_with_uidownload_easier_color/)
-- [Tracking which values are called, passed into, in occurance/execution order in a log form&lpar;but if you have a good idea other than logging it is also much appreciated&rpar;](https://www.reddit.com/r/Python/comments/12lzzme/tracking_which_values_are_called_passed_into_in/)
-- [Logging code mess](https://www.reddit.com/r/Python/comments/12lzpvi/logging_code_mess/)
-- [Using Python to query your videos - ChatGPT, Chroma, LangChain - Tutorial](https://www.reddit.com/r/Python/comments/12lysic/using_python_to_query_your_videos_chatgpt_chroma/)
 <!-- BLOG-POST-LIST:END -->
