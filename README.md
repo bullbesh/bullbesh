@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [openai_pricing_logger: A Python package to easily log your OpenAI API costs and timestamps](https://www.reddit.com/r/Python/comments/12lec2s/openai_pricing_logger_a_python_package_to_easily/)
+- [Bing AI made up a package that doesn&#39;t, but maybe should, exists and even gave examples of how to use it. Read/Write session splitter for sqlalchemy.](https://www.reddit.com/r/Python/comments/12lcp6j/bing_ai_made_up_a_package_that_doesnt_but_maybe/)
 - [Python File manager](https://www.reddit.com/r/Python/comments/12l99zp/python_file_manager/)
 - [Best way to make an ml training pipeline in Python](https://www.reddit.com/r/Python/comments/12l8x3w/best_way_to_make_an_ml_training_pipeline_in_python/)
 - [Build a ChatGPT-like SMS Chatbot with OpenAI and Python](https://www.reddit.com/r/Python/comments/12l2kqo/build_a_chatgptlike_sms_chatbot_with_openai_and/)
-- [I made a simple gui to use whisper.cpp in python.](https://www.reddit.com/r/Python/comments/12kyfl4/i_made_a_simple_gui_to_use_whispercpp_in_python/)
-- [Balacoon: python package for text-to-speech](https://www.reddit.com/r/Python/comments/12kwbn3/balacoon_python_package_for_texttospeech/)
 <!-- BLOG-POST-LIST:END -->
