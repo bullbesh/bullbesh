@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I need code that read the csv file and divide them by regions geografic](https://www.reddit.com/r/Python/comments/12lxbvu/i_need_code_that_read_the_csv_file_and_divide/)
-- [I just created an simple OpenAI interactive chatbot in Python 3](https://www.reddit.com/r/Python/comments/12lvpey/i_just_created_an_simple_openai_interactive/)
-- [Open source Python bot to level League of Legends Accounts](https://www.reddit.com/r/Python/comments/12lvcrb/open_source_python_bot_to_level_league_of_legends/)
-- [A Practical Guide to Implementing CQRS with Diator in Python](https://www.reddit.com/r/Python/comments/12luylb/a_practical_guide_to_implementing_cqrs_with/)
-- [Highcharts for Python toolkit](https://www.reddit.com/r/Python/comments/12lo1kh/highcharts_for_python_toolkit/)
+- [Introducing Visual Cookiecutter: a web UI for instanciating cookiecutter templates](https://www.reddit.com/r/Python/comments/12m0ast/introducing_visual_cookiecutter_a_web_ui_for/)
+- [Release: NiceGUI 1.2.7 with ui.download, easier color definitions, &quot;aggrid from pandas dataframe&quot; and much more](https://www.reddit.com/r/Python/comments/12m03v5/release_nicegui_127_with_uidownload_easier_color/)
+- [Tracking which values are called, passed into, in occurance/execution order in a log form&lpar;but if you have a good idea other than logging it is also much appreciated&rpar;](https://www.reddit.com/r/Python/comments/12lzzme/tracking_which_values_are_called_passed_into_in/)
+- [Logging code mess](https://www.reddit.com/r/Python/comments/12lzpvi/logging_code_mess/)
+- [Using Python to query your videos - ChatGPT, Chroma, LangChain - Tutorial](https://www.reddit.com/r/Python/comments/12lysic/using_python_to_query_your_videos_chatgpt_chroma/)
 <!-- BLOG-POST-LIST:END -->
