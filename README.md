@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [NameError: name ‘color’ is not defined.](https://www.reddit.com/r/Python/comments/12liyxz/nameerror_name_color_is_not_defined/)
+- [Do you discriminate your callback functions in any way?](https://www.reddit.com/r/Python/comments/12lkuq9/do_you_discriminate_your_callback_functions_in/)
 - [openai_pricing_logger: A Python package to easily log your OpenAI API costs and timestamps](https://www.reddit.com/r/Python/comments/12lec2s/openai_pricing_logger_a_python_package_to_easily/)
 - [Bing AI made up a package that doesn&#39;t, but maybe should, exists and even gave examples of how to use it. Read/Write session splitter for sqlalchemy.](https://www.reddit.com/r/Python/comments/12lcp6j/bing_ai_made_up_a_package_that_doesnt_but_maybe/)
 - [Python File manager](https://www.reddit.com/r/Python/comments/12l99zp/python_file_manager/)
