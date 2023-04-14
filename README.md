@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [how do i make if variable == variable work](https://www.reddit.com/r/Python/comments/12lre2u/how_do_i_make_if_variable_variable_work/)
+- [Open source Python bot to level League of Legends Accounts](https://www.reddit.com/r/Python/comments/12lvcrb/open_source_python_bot_to_level_league_of_legends/)
+- [A Practical Guide to Implementing CQRS with Diator in Python](https://www.reddit.com/r/Python/comments/12luylb/a_practical_guide_to_implementing_cqrs_with/)
 - [How to debug faster? Do it like a competitive programmer!](https://www.reddit.com/r/Python/comments/12lptjb/how_to_debug_faster_do_it_like_a_competitive/)
 - [Highcharts for Python toolkit](https://www.reddit.com/r/Python/comments/12lo1kh/highcharts_for_python_toolkit/)
 - [A Tale of Interviews: A Collaborative Approach to Problem-Solving](https://www.reddit.com/r/Python/comments/12lnvvq/a_tale_of_interviews_a_collaborative_approach_to/)
-- [Swap tokens using Uniswap V3 and web3.py](https://www.reddit.com/r/Python/comments/12lnhfk/swap_tokens_using_uniswap_v3_and_web3py/)
 <!-- BLOG-POST-LIST:END -->
