@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Speeding up Python 100x using C/C++ Integration](https://www.reddit.com/r/Python/comments/12lmgwx/speeding_up_python_100x_using_cc_integration/)
+- [Semaphore: A full-body keyboard implemented in Python](https://www.reddit.com/r/Python/comments/12lldjc/semaphore_a_fullbody_keyboard_implemented_in/)
+- [Wall Street&#39;s Transition from Excel to Python](https://www.reddit.com/r/Python/comments/12llc1e/wall_streets_transition_from_excel_to_python/)
 - [Do you discriminate your callback functions in any way?](https://www.reddit.com/r/Python/comments/12lkuq9/do_you_discriminate_your_callback_functions_in/)
 - [openai_pricing_logger: A Python package to easily log your OpenAI API costs and timestamps](https://www.reddit.com/r/Python/comments/12lec2s/openai_pricing_logger_a_python_package_to_easily/)
-- [Bing AI made up a package that doesn&#39;t, but maybe should, exists and even gave examples of how to use it. Read/Write session splitter for sqlalchemy.](https://www.reddit.com/r/Python/comments/12lcp6j/bing_ai_made_up_a_package_that_doesnt_but_maybe/)
-- [Python File manager](https://www.reddit.com/r/Python/comments/12l99zp/python_file_manager/)
-- [Best way to make an ml training pipeline in Python](https://www.reddit.com/r/Python/comments/12l8x3w/best_way_to_make_an_ml_training_pipeline_in_python/)
 <!-- BLOG-POST-LIST:END -->
