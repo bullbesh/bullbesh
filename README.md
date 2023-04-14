@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [NameError: name ‘color’ is not defined.](https://www.reddit.com/r/Python/comments/12liyxz/nameerror_name_color_is_not_defined/)
 - [openai_pricing_logger: A Python package to easily log your OpenAI API costs and timestamps](https://www.reddit.com/r/Python/comments/12lec2s/openai_pricing_logger_a_python_package_to_easily/)
 - [Bing AI made up a package that doesn&#39;t, but maybe should, exists and even gave examples of how to use it. Read/Write session splitter for sqlalchemy.](https://www.reddit.com/r/Python/comments/12lcp6j/bing_ai_made_up_a_package_that_doesnt_but_maybe/)
 - [Python File manager](https://www.reddit.com/r/Python/comments/12l99zp/python_file_manager/)
 - [Best way to make an ml training pipeline in Python](https://www.reddit.com/r/Python/comments/12l8x3w/best_way_to_make_an_ml_training_pipeline_in_python/)
-- [Build a ChatGPT-like SMS Chatbot with OpenAI and Python](https://www.reddit.com/r/Python/comments/12l2kqo/build_a_chatgptlike_sms_chatbot_with_openai_and/)
 <!-- BLOG-POST-LIST:END -->
