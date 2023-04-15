@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New search package in python](https://www.reddit.com/r/Python/comments/12mw0dc/new_search_package_in_python/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/12mirgo/saturday_daily_thread_resource_request_and/)
 - [Here&#39;s my project to explore stress control through controlled breathing using Python, BLE, and the Polar H10 Heart Rate monitor](https://www.reddit.com/r/Python/comments/12mi0ij/heres_my_project_to_explore_stress_control/)
 - [Comprehensive Python Install Tutorial From Scratch For Machine Learning Apps](https://www.reddit.com/r/Python/comments/12mhgp5/comprehensive_python_install_tutorial_from/)
 - [CJournal: A Simple Encrypted Journaling/Diary Program](https://www.reddit.com/r/Python/comments/12mgo22/cjournal_a_simple_encrypted_journalingdiary/)
-- [Gaussian/Banker&#39;s Rounding.. the algorithm behind Python&#39;s round function.](https://www.reddit.com/r/Python/comments/12me2t4/gaussianbankers_rounding_the_algorithm_behind/)
 <!-- BLOG-POST-LIST:END -->
