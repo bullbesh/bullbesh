@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pip 23.1 Released - Massive improvement to backtracking](https://www.reddit.com/r/Python/comments/12n5lai/pip_231_released_massive_improvement_to/)
+- [I just created `ipython-gpt`, a Jupyter/IPython interface for ChatGPT. Very early version, suggestions are welcome!](https://www.reddit.com/r/Python/comments/12n57qc/i_just_created_ipythongpt_a_jupyteripython/)
 - [Website that filters indicators such as bollinger band and cryptocurrencies](https://www.reddit.com/r/Python/comments/12n3up4/website_that_filters_indicators_such_as_bollinger/)
 - [Web Scraping Twitter Data with Python](https://www.reddit.com/r/Python/comments/12n2jru/web_scraping_twitter_data_with_python/)
 - [I discovered that the fastest way to create a Pandas DataFrame from a CSV file is to actually use Polars](https://www.reddit.com/r/Python/comments/12n0wfk/i_discovered_that_the_fastest_way_to_create_a/)
-- [First steps into programming - What should I know?](https://www.reddit.com/r/Python/comments/12n0qz3/first_steps_into_programming_what_should_i_know/)
-- [Is getting hooked on languages a thing?](https://www.reddit.com/r/Python/comments/12n0nx8/is_getting_hooked_on_languages_a_thing/)
 <!-- BLOG-POST-LIST:END -->
