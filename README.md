@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The different uses of Python type hints](https://www.reddit.com/r/Python/comments/12np7gd/the_different_uses_of_python_type_hints/)
+- [django-api-admin: A RESTful Service for Django Admin](https://www.reddit.com/r/Python/comments/12noib7/djangoapiadmin_a_restful_service_for_django_admin/)
+- [What is Dot product doing here?](https://www.reddit.com/r/Python/comments/12no1bq/what_is_dot_product_doing_here/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/12nnqs3/sunday_daily_thread_whats_everyone_working_on/)
 - [LiliDB &lpar;JSON-based database&rpar;](https://www.reddit.com/r/Python/comments/12njbbn/lilidb_jsonbased_database/)
-- [Pycodeless: Build Python code using natural language as a universal interface](https://www.reddit.com/r/Python/comments/12nezs5/pycodeless_build_python_code_using_natural/)
-- [How naive is to try create trading bots using python?](https://www.reddit.com/r/Python/comments/12na2zh/how_naive_is_to_try_create_trading_bots_using/)
-- [Pip 23.1 Released - Massive improvement to backtracking](https://www.reddit.com/r/Python/comments/12n5lai/pip_231_released_massive_improvement_to/)
-- [I just created `ipython-gpt`, a Jupyter/IPython interface for ChatGPT. Very early version, suggestions are welcome!](https://www.reddit.com/r/Python/comments/12n57qc/i_just_created_ipythongpt_a_jupyteripython/)
 <!-- BLOG-POST-LIST:END -->
