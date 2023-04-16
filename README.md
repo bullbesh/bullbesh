@@ -11,6 +11,6 @@
 - [Task Scheduling and Execution](https://www.reddit.com/r/Python/comments/12nqscm/task_scheduling_and_execution/)
 - [The different uses of Python type hints](https://www.reddit.com/r/Python/comments/12np7gd/the_different_uses_of_python_type_hints/)
 - [django-api-admin: A RESTful Service for Django Admin](https://www.reddit.com/r/Python/comments/12noib7/djangoapiadmin_a_restful_service_for_django_admin/)
-- [What is Dot product doing here?](https://www.reddit.com/r/Python/comments/12no1bq/what_is_dot_product_doing_here/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/12nnqs3/sunday_daily_thread_whats_everyone_working_on/)
+- [LiliDB &lpar;JSON-based database&rpar;](https://www.reddit.com/r/Python/comments/12njbbn/lilidb_jsonbased_database/)
 <!-- BLOG-POST-LIST:END -->
