@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I use python 3.9. Do i have to update python to 3.11?](https://www.reddit.com/r/Python/comments/12o03zw/i_use_python_39_do_i_have_to_update_python_to_311/)
 - [[Gist] zinteger.py: dynamically-generated wrappers for ctypes integers, supporting unary, binary and in-place operators, with over/underflow checking, a suitable primer on metaprogramming in Python](https://www.reddit.com/r/Python/comments/12nxwzu/gist_zintegerpy_dynamicallygenerated_wrappers_for/)
 - [Google announces the list of 574 Python packages in its new &quot;Assured Open Source Software&quot; service](https://www.reddit.com/r/Python/comments/12nxsop/google_announces_the_list_of_574_python_packages/)
 - [Task Scheduling and Execution](https://www.reddit.com/r/Python/comments/12nqscm/task_scheduling_and_execution/)
 - [The different uses of Python type hints](https://www.reddit.com/r/Python/comments/12np7gd/the_different_uses_of_python_type_hints/)
-- [django-api-admin: A RESTful Service for Django Admin](https://www.reddit.com/r/Python/comments/12noib7/djangoapiadmin_a_restful_service_for_django_admin/)
 <!-- BLOG-POST-LIST:END -->
