@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI and Beanie: A Simple Guide to Building RESTful APIs with MongoDB &lpar;fully async&rpar;](https://www.reddit.com/r/Python/comments/12o37nm/fastapi_and_beanie_a_simple_guide_to_building/)
+- [Clean Code: Best Practices for Writing Readable and Maintainable Code](https://www.reddit.com/r/Python/comments/12o2zho/clean_code_best_practices_for_writing_readable/)
 - [Python facial recognition code using OpenCV library](https://www.reddit.com/r/Python/comments/12o127r/python_facial_recognition_code_using_opencv/)
 - [An error appears when pickle is loaded：ModuleNotFoundError: No module named &#39;__builtin__&#39;](https://www.reddit.com/r/Python/comments/12o1035/an_error_appears_when_pickle_is/)
 - [I use python 3.9. Do i have to update python to 3.11?](https://www.reddit.com/r/Python/comments/12o03zw/i_use_python_39_do_i_have_to_update_python_to_311/)
-- [[Gist] zinteger.py: dynamically-generated wrappers for ctypes integers, supporting unary, binary and in-place operators, with over/underflow checking, a suitable primer on metaprogramming in Python](https://www.reddit.com/r/Python/comments/12nxwzu/gist_zintegerpy_dynamicallygenerated_wrappers_for/)
-- [Google announces the list of 574 Python packages in its new &quot;Assured Open Source Software&quot; service](https://www.reddit.com/r/Python/comments/12nxsop/google_announces_the_list_of_574_python_packages/)
 <!-- BLOG-POST-LIST:END -->
