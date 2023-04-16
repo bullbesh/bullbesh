@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Polyfactory - a powerful mock data generator for dataclasses, Pydantic and more](https://www.reddit.com/r/Python/comments/12o69ld/announcing_polyfactory_a_powerful_mock_data/)
 - [Script for AutoCAD that generates IPE steel beams using pyautocad library.](https://www.reddit.com/r/Python/comments/12o4vv4/script_for_autocad_that_generates_ipe_steel_beams/)
 - [FastAPI and Beanie: A Simple Guide to Building RESTful APIs with MongoDB &lpar;fully async&rpar;](https://www.reddit.com/r/Python/comments/12o37nm/fastapi_and_beanie_a_simple_guide_to_building/)
 - [Clean Code: Best Practices for Writing Readable and Maintainable Code](https://www.reddit.com/r/Python/comments/12o2zho/clean_code_best_practices_for_writing_readable/)
 - [Python facial recognition code using OpenCV library](https://www.reddit.com/r/Python/comments/12o127r/python_facial_recognition_code_using_opencv/)
-- [An error appears when pickle is loaded：ModuleNotFoundError: No module named &#39;__builtin__&#39;](https://www.reddit.com/r/Python/comments/12o1035/an_error_appears_when_pickle_is/)
 <!-- BLOG-POST-LIST:END -->
