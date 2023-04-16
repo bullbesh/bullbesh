@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Script for procedual ambient tracks](https://www.reddit.com/r/Python/comments/12onlkg/script_for_procedual_ambient_tracks/)
 - [Building a News API via RSS or Scraping](https://www.reddit.com/r/Python/comments/12oj9zf/building_a_news_api_via_rss_or_scraping/)
-- [Need help with python error](https://www.reddit.com/r/Python/comments/12oj42n/need_help_with_python_error/)
-- [New form of reinforcement learning](https://www.reddit.com/r/Python/comments/12ohre7/new_form_of_reinforcement_learning/)
-- [New to coding does this look right?](https://www.reddit.com/r/Python/comments/12og5da/new_to_coding_does_this_look_right/)
 - [Fluke v0.3.0 has been released!](https://www.reddit.com/r/Python/comments/12oef63/fluke_v030_has_been_released/)
+- [pdm-dotenv: Simplify Your Project&#39;s Environment Variable Management](https://www.reddit.com/r/Python/comments/12o7240/pdmdotenv_simplify_your_projects_environment/)
+- [Announcing Polyfactory - a powerful mock data generator for dataclasses, Pydantic and more](https://www.reddit.com/r/Python/comments/12o69ld/announcing_polyfactory_a_powerful_mock_data/)
 <!-- BLOG-POST-LIST:END -->
