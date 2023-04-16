@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python facial recognition code using OpenCV library](https://www.reddit.com/r/Python/comments/12o127r/python_facial_recognition_code_using_opencv/)
+- [An error appears when pickle is loaded：ModuleNotFoundError: No module named &#39;__builtin__&#39;](https://www.reddit.com/r/Python/comments/12o1035/an_error_appears_when_pickle_is/)
 - [I use python 3.9. Do i have to update python to 3.11?](https://www.reddit.com/r/Python/comments/12o03zw/i_use_python_39_do_i_have_to_update_python_to_311/)
 - [[Gist] zinteger.py: dynamically-generated wrappers for ctypes integers, supporting unary, binary and in-place operators, with over/underflow checking, a suitable primer on metaprogramming in Python](https://www.reddit.com/r/Python/comments/12nxwzu/gist_zintegerpy_dynamicallygenerated_wrappers_for/)
 - [Google announces the list of 574 Python packages in its new &quot;Assured Open Source Software&quot; service](https://www.reddit.com/r/Python/comments/12nxsop/google_announces_the_list_of_574_python_packages/)
-- [Task Scheduling and Execution](https://www.reddit.com/r/Python/comments/12nqscm/task_scheduling_and_execution/)
-- [The different uses of Python type hints](https://www.reddit.com/r/Python/comments/12np7gd/the_different_uses_of_python_type_hints/)
 <!-- BLOG-POST-LIST:END -->
