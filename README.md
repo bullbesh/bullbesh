@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fluke v0.3.0 has been released!](https://www.reddit.com/r/Python/comments/12oef63/fluke_v030_has_been_released/)
 - [pdm-dotenv: Simplify Your Project&#39;s Environment Variable Management](https://www.reddit.com/r/Python/comments/12o7240/pdmdotenv_simplify_your_projects_environment/)
 - [Announcing Polyfactory - a powerful mock data generator for dataclasses, Pydantic and more](https://www.reddit.com/r/Python/comments/12o69ld/announcing_polyfactory_a_powerful_mock_data/)
 - [Script for AutoCAD that generates IPE steel beams using pyautocad library.](https://www.reddit.com/r/Python/comments/12o4vv4/script_for_autocad_that_generates_ipe_steel_beams/)
 - [FastAPI and Beanie: A Simple Guide to Building RESTful APIs with MongoDB &lpar;fully async&rpar;](https://www.reddit.com/r/Python/comments/12o37nm/fastapi_and_beanie_a_simple_guide_to_building/)
-- [Clean Code: Best Practices for Writing Readable and Maintainable Code](https://www.reddit.com/r/Python/comments/12o2zho/clean_code_best_practices_for_writing_readable/)
 <!-- BLOG-POST-LIST:END -->
