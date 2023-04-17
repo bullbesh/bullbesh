@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas - Explained &amp; Coding examples](https://www.reddit.com/r/Python/comments/12p9xfz/pandas_explained_coding_examples/)
+- [Linear Regression Tutorial Beginner-friendly](https://www.reddit.com/r/Python/comments/12p9gw1/linear_regression_tutorial_beginnerfriendly/)
 - [Tremolo - Stream-oriented, async, Pure Python HTTP Server Framework](https://www.reddit.com/r/Python/comments/12p8e92/tremolo_streamoriented_async_pure_python_http/)
 - [Certification &lpar;UK&rpar;](https://www.reddit.com/r/Python/comments/12p8a6k/certification_uk/)
 - [SVC](https://www.reddit.com/r/Python/comments/12p89tt/svc/)
-- [Is there a Python Script Or library that can help me generate Google Serp snapshot from a backdate from specific location?](https://www.reddit.com/r/Python/comments/12p7tb4/is_there_a_python_script_or_library_that_can_help/)
-- [What can I contribute to SciPy &lpar;or other&rpar; with my pure math skill? I’m pen and paper mathematician](https://www.reddit.com/r/Python/comments/12p771v/what_can_i_contribute_to_scipy_or_other_with_my/)
 <!-- BLOG-POST-LIST:END -->
