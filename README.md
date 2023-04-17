@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tremolo - Stream-oriented, async, Pure Python HTTP Server Framework](https://www.reddit.com/r/Python/comments/12p8e92/tremolo_streamoriented_async_pure_python_http/)
+- [Certification &lpar;UK&rpar;](https://www.reddit.com/r/Python/comments/12p8a6k/certification_uk/)
+- [SVC](https://www.reddit.com/r/Python/comments/12p89tt/svc/)
 - [Is there a Python Script Or library that can help me generate Google Serp snapshot from a backdate from specific location?](https://www.reddit.com/r/Python/comments/12p7tb4/is_there_a_python_script_or_library_that_can_help/)
 - [What can I contribute to SciPy &lpar;or other&rpar; with my pure math skill? I’m pen and paper mathematician](https://www.reddit.com/r/Python/comments/12p771v/what_can_i_contribute_to_scipy_or_other_with_my/)
-- [Predicting Incomes of Individuals with Machine Learning: A Python Project](https://www.reddit.com/r/Python/comments/12p74ur/predicting_incomes_of_individuals_with_machine/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/12ou5no/monday_daily_thread_project_ideas/)
-- [Building a News API via RSS or Scraping](https://www.reddit.com/r/Python/comments/12oj9zf/building_a_news_api_via_rss_or_scraping/)
 <!-- BLOG-POST-LIST:END -->
