@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Consumes 500ml Of Water To Answer 20 Question](https://www.reddit.com/r/Python/comments/12pjz4y/chatgpt_consumes_500ml_of_water_to_answer_20/)
+- [Python task scheduler with a web UI](https://www.reddit.com/r/Python/comments/12piw1m/python_task_scheduler_with_a_web_ui/)
+- [Using SQL with Python](https://www.reddit.com/r/Python/comments/12pif8z/using_sql_with_python/)
+- [How To: Extract Table From Image In Python &lpar;OpenCV &amp; OCR&rpar;](https://www.reddit.com/r/Python/comments/12phvr0/how_to_extract_table_from_image_in_python_opencv/)
 - [Unsupervised Sentiment Analysis using VADER and Flair](https://www.reddit.com/r/Python/comments/12phocy/unsupervised_sentiment_analysis_using_vader_and/)
-- [Dependency Injection in Python](https://www.reddit.com/r/Python/comments/12pfqxy/dependency_injection_in_python/)
-- [How to change/suppress server header with gunicorn and uvicorn worker class ?](https://www.reddit.com/r/Python/comments/12pez3i/how_to_changesuppress_server_header_with_gunicorn/)
-- [What common Python code and libraries do you guys struggle with](https://www.reddit.com/r/Python/comments/12pdf5m/what_common_python_code_and_libraries_do_you_guys/)
-- [PEAT&lpar;Python Editor And Terminal&rpar;](https://www.reddit.com/r/Python/comments/12pczvk/peatpython_editor_and_terminal/)
 <!-- BLOG-POST-LIST:END -->
