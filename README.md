@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple and secure OTP generator for Python](https://www.reddit.com/r/Python/comments/12prc7e/simple_and_secure_otp_generator_for_python/)
+- [Create websites with notebooks using nbdev + Netlify](https://www.reddit.com/r/Python/comments/12prasv/create_websites_with_notebooks_using_nbdev_netlify/)
+- [Robust mixed attributes classifier &lpar;machine learning&rpar;](https://www.reddit.com/r/Python/comments/12pq3q6/robust_mixed_attributes_classifier_machine/)
 - [LazyCSV - A zero-dependency, out-of-memory CSV parser](https://www.reddit.com/r/Python/comments/12pop1w/lazycsv_a_zerodependency_outofmemory_csv_parser/)
 - [Anyone interested in creating slay the spire game in python??](https://www.reddit.com/r/Python/comments/12po61p/anyone_interested_in_creating_slay_the_spire_game/)
-- [Shuffling large data at constant memory in Dask](https://www.reddit.com/r/Python/comments/12pma7d/shuffling_large_data_at_constant_memory_in_dask/)
-- [ChatGPT Consumes 500ml Of Water To Answer 20 Question](https://www.reddit.com/r/Python/comments/12pjz4y/chatgpt_consumes_500ml_of_water_to_answer_20/)
-- [Python task scheduler with a web UI](https://www.reddit.com/r/Python/comments/12piw1m/python_task_scheduler_with_a_web_ui/)
 <!-- BLOG-POST-LIST:END -->
