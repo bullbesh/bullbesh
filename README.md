@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Scrape Python script](https://www.reddit.com/r/Python/comments/12ps1r9/web_scrape_python_script/)
 - [Simple and secure OTP generator for Python](https://www.reddit.com/r/Python/comments/12prc7e/simple_and_secure_otp_generator_for_python/)
 - [Create websites with notebooks using nbdev + Netlify](https://www.reddit.com/r/Python/comments/12prasv/create_websites_with_notebooks_using_nbdev_netlify/)
 - [Robust mixed attributes classifier &lpar;machine learning&rpar;](https://www.reddit.com/r/Python/comments/12pq3q6/robust_mixed_attributes_classifier_machine/)
 - [LazyCSV - A zero-dependency, out-of-memory CSV parser](https://www.reddit.com/r/Python/comments/12pop1w/lazycsv_a_zerodependency_outofmemory_csv_parser/)
-- [Anyone interested in creating slay the spire game in python??](https://www.reddit.com/r/Python/comments/12po61p/anyone_interested_in_creating_slay_the_spire_game/)
 <!-- BLOG-POST-LIST:END -->
