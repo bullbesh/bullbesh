@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there a Python Script Or library that can help me generate Google Serp snapshot from a backdate from specific location?](https://www.reddit.com/r/Python/comments/12p7tb4/is_there_a_python_script_or_library_that_can_help/)
+- [What can I contribute to SciPy &lpar;or other&rpar; with my pure math skill? I’m pen and paper mathematician](https://www.reddit.com/r/Python/comments/12p771v/what_can_i_contribute_to_scipy_or_other_with_my/)
+- [Predicting Incomes of Individuals with Machine Learning: A Python Project](https://www.reddit.com/r/Python/comments/12p74ur/predicting_incomes_of_individuals_with_machine/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/12ou5no/monday_daily_thread_project_ideas/)
 - [Building a News API via RSS or Scraping](https://www.reddit.com/r/Python/comments/12oj9zf/building_a_news_api_via_rss_or_scraping/)
-- [Fluke v0.3.0 has been released!](https://www.reddit.com/r/Python/comments/12oef63/fluke_v030_has_been_released/)
-- [pdm-dotenv: Simplify Your Project&#39;s Environment Variable Management](https://www.reddit.com/r/Python/comments/12o7240/pdmdotenv_simplify_your_projects_environment/)
-- [Announcing Polyfactory - a powerful mock data generator for dataclasses, Pydantic and more](https://www.reddit.com/r/Python/comments/12o69ld/announcing_polyfactory_a_powerful_mock_data/)
 <!-- BLOG-POST-LIST:END -->
