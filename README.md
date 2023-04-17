@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Practical Introduction to Polars for Python Data Processing](https://www.reddit.com/r/Python/comments/12pvb4n/a_practical_introduction_to_polars_for_python/)
 - [JupyterLab Python Tutorials](https://www.reddit.com/r/Python/comments/12puuw1/jupyterlab_python_tutorials/)
 - [Library to implement core github actions functionality in python](https://www.reddit.com/r/Python/comments/12pudln/library_to_implement_core_github_actions/)
 - [a few comments and questions about loguru - the most popular 3rd party logging module for Python](https://www.reddit.com/r/Python/comments/12pu6b8/a_few_comments_and_questions_about_loguru_the/)
-- [Web Scrape Python script](https://www.reddit.com/r/Python/comments/12ps1r9/web_scrape_python_script/)
 - [Simple and secure OTP generator for Python](https://www.reddit.com/r/Python/comments/12prc7e/simple_and_secure_otp_generator_for_python/)
 <!-- BLOG-POST-LIST:END -->
