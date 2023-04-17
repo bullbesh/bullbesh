@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Shuffling large data at constant memory in Dask](https://www.reddit.com/r/Python/comments/12pma7d/shuffling_large_data_at_constant_memory_in_dask/)
 - [ChatGPT Consumes 500ml Of Water To Answer 20 Question](https://www.reddit.com/r/Python/comments/12pjz4y/chatgpt_consumes_500ml_of_water_to_answer_20/)
 - [Python task scheduler with a web UI](https://www.reddit.com/r/Python/comments/12piw1m/python_task_scheduler_with_a_web_ui/)
 - [Using SQL with Python](https://www.reddit.com/r/Python/comments/12pif8z/using_sql_with_python/)
 - [How To: Extract Table From Image In Python &lpar;OpenCV &amp; OCR&rpar;](https://www.reddit.com/r/Python/comments/12phvr0/how_to_extract_table_from_image_in_python_opencv/)
-- [Unsupervised Sentiment Analysis using VADER and Flair](https://www.reddit.com/r/Python/comments/12phocy/unsupervised_sentiment_analysis_using_vader_and/)
 <!-- BLOG-POST-LIST:END -->
