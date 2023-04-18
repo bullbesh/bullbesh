@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python API Best Practices You Should Follow](https://www.reddit.com/r/Python/comments/12qk6wg/python_api_best_practices_you_should_follow/)
 - [I Created Cfddns, a Python script to Dynamically Update Records in Cloudflare](https://www.reddit.com/r/Python/comments/12qjlzt/i_created_cfddns_a_python_script_to_dynamically/)
 - [Out of curiosity: what is the python project structure you usually go gor?](https://www.reddit.com/r/Python/comments/12qit60/out_of_curiosity_what_is_the_python_project/)
 - [For stock trading/finance, which kind of Python library are you looking for and can’t find?](https://www.reddit.com/r/Python/comments/12qfd3z/for_stock_tradingfinance_which_kind_of_python/)
 - [Collaborate on Python Projects with the First Multiplayer Desktop in the Browser](https://www.reddit.com/r/Python/comments/12qb2e8/collaborate_on_python_projects_with_the_first/)
-- [A Python script that replies to Y/N questions](https://www.reddit.com/r/Python/comments/12qaejw/a_python_script_that_replies_to_yn_questions/)
 <!-- BLOG-POST-LIST:END -->
