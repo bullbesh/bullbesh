@@ -11,6 +11,6 @@
 - [Chat with Pandas](https://www.reddit.com/r/Python/comments/12r44az/chat_with_pandas/)
 - [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://www.reddit.com/r/Python/comments/12r0uhs/running_python_microbenchmarks_using_the_chatgpt/)
 - [What&#39;s the best library to draw good-looking geometrical pictures?](https://www.reddit.com/r/Python/comments/12r09d6/whats_the_best_library_to_draw_goodlooking/)
-- [Scanning Gmail](https://www.reddit.com/r/Python/comments/12qyv09/scanning_gmail/)
 - [What Are Python Data Classes?](https://www.reddit.com/r/Python/comments/12qykby/what_are_python_data_classes/)
+- [Gimme projects](https://www.reddit.com/r/Python/comments/12qvymi/gimme_projects/)
 <!-- BLOG-POST-LIST:END -->
