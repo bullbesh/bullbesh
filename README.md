@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/12q2gyd/tuesday_daily_thread_advanced_questions/)
 - [Flask Portfolio website created :&rpar; &lpar;my first project&rpar;](https://www.reddit.com/r/Python/comments/12q110v/flask_portfolio_website_created_my_first_project/)
 - [Kubecon EU 2023](https://www.reddit.com/r/Python/comments/12q04at/kubecon_eu_2023/)
 - [A Practical Introduction to Polars for Python Data Processing](https://www.reddit.com/r/Python/comments/12pvb4n/a_practical_introduction_to_polars_for_python/)
 - [JupyterLab Python Tutorials](https://www.reddit.com/r/Python/comments/12puuw1/jupyterlab_python_tutorials/)
-- [Library to implement core github actions functionality in python](https://www.reddit.com/r/Python/comments/12pudln/library_to_implement_core_github_actions/)
 <!-- BLOG-POST-LIST:END -->
