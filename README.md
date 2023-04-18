@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [For stock trading/finance, which kind of Python library are you looking for and can’t find?](https://www.reddit.com/r/Python/comments/12qfd3z/for_stock_tradingfinance_which_kind_of_python/)
 - [Collaborate on Python Projects with the First Multiplayer Desktop in the Browser](https://www.reddit.com/r/Python/comments/12qb2e8/collaborate_on_python_projects_with_the_first/)
 - [A Python script that replies to Y/N questions](https://www.reddit.com/r/Python/comments/12qaejw/a_python_script_that_replies_to_yn_questions/)
 - [[Resource] Create Your Own Pokémon Battle Bot with Reinforcement Learning with Cloud Tools](https://www.reddit.com/r/Python/comments/12q878b/resource_create_your_own_pokémon_battle_bot_with/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/12q2gyd/tuesday_daily_thread_advanced_questions/)
-- [Flask Portfolio website created :&rpar; &lpar;my first project&rpar;](https://www.reddit.com/r/Python/comments/12q110v/flask_portfolio_website_created_my_first_project/)
 <!-- BLOG-POST-LIST:END -->
