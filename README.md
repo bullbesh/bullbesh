@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a web scraper for AI/ML training.](https://www.reddit.com/r/Python/comments/12scp6o/i_created_a_web_scraper_for_aiml_training/)
 - [PySenti4SD for Sentiment Analysis](https://www.reddit.com/r/Python/comments/12sc8ns/pysenti4sd_for_sentiment_analysis/)
 - [Just made a python script to post to Mastodon](https://www.reddit.com/r/Python/comments/12sbxlt/just_made_a_python_script_to_post_to_mastodon/)
 - [Free Security Books: Hacking &amp; Threat Hunting](https://www.reddit.com/r/Python/comments/12sa0kt/free_security_books_hacking_threat_hunting/)
-- [Framework for Complex AI Workflows and Reusable LLM Tools](https://www.reddit.com/r/Python/comments/12s7e8q/framework_for_complex_ai_workflows_and_reusable/)
 - [Announcing profile-photo: Create headshots from profile photos](https://www.reddit.com/r/Python/comments/12s76bf/announcing_profilephoto_create_headshots_from/)
 <!-- BLOG-POST-LIST:END -->
