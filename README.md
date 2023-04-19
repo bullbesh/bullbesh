@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is there a python library to which I pass a mobile captured clear photo of my thumb, and it generates a black-and-white fingerprint from that image?](https://www.reddit.com/r/Python/comments/12rns3m/is_there_a_python_library_to_which_i_pass_a/)
 - [Generate BPMN diagram with code or plain text](https://www.reddit.com/r/Python/comments/12rmy2t/generate_bpmn_diagram_with_code_or_plain_text/)
 - [LoopGPT: A Modular Auto-GPT Framework](https://www.reddit.com/r/Python/comments/12rmrh2/loopgpt_a_modular_autogpt_framework/)
 - [9 Practical Examples of Using Regular Expressions in Python](https://www.reddit.com/r/Python/comments/12rm8ox/9_practical_examples_of_using_regular_expressions/)
 - [How to easily find all N+1 queries your Django apps make](https://www.reddit.com/r/Python/comments/12rm31z/how_to_easily_find_all_n1_queries_your_django/)
+- [Chili - serialize/deserialize anything from/to dict/json](https://www.reddit.com/r/Python/comments/12rkgoc/chili_serializedeserialize_anything_fromto/)
 <!-- BLOG-POST-LIST:END -->
