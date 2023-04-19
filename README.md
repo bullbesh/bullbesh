@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Chili - serialize/deserialize anything from/to dict/json](https://www.reddit.com/r/Python/comments/12rkgoc/chili_serializedeserialize_anything_fromto/)
+- [Using modules with pywebview](https://www.reddit.com/r/Python/comments/12rkfny/using_modules_with_pywebview/)
+- [Astral: Next-gen Python tooling](https://www.reddit.com/r/Python/comments/12rk41t/astral_nextgen_python_tooling/)
 - [Please explain the code logic of following function to find the median of stream of numbers](https://www.reddit.com/r/Python/comments/12rimek/please_explain_the_code_logic_of_following/)
 - [🐍 Pymodelio 1.0.3 just released! 🐍](https://www.reddit.com/r/Python/comments/12r9zzx/pymodelio_103_just_released/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/12r9j0k/wednesday_daily_thread_beginner_questions/)
-- [Astral, the company behind Ruff](https://www.reddit.com/r/Python/comments/12r7oi0/astral_the_company_behind_ruff/)
-- [Chat with Pandas](https://www.reddit.com/r/Python/comments/12r44az/chat_with_pandas/)
 <!-- BLOG-POST-LIST:END -->
