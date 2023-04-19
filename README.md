@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [PythonX Pro?](https://www.reddit.com/r/Python/comments/12rumlw/pythonx_pro/)
+- [Freeflow - A Discord bot to run useful jobs channels. Written in interactions.py.](https://www.reddit.com/r/Python/comments/12rvx2n/freeflow_a_discord_bot_to_run_useful_jobs/)
 - [Software engineering with Python?](https://www.reddit.com/r/Python/comments/12rsedi/software_engineering_with_python/)
 - [Can we access values stored from os.add_dll_directory?](https://www.reddit.com/r/Python/comments/12rrktn/can_we_access_values_stored_from_osadd_dll/)
 - [Get Instagram Account Details using Python!](https://www.reddit.com/r/Python/comments/12rrj3j/get_instagram_account_details_using_python/)
