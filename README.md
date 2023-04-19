@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Visual Programming! with AI](https://www.reddit.com/r/Python/comments/12s33jq/python_visual_programming_with_ai/)
+- [Wystia v1.2.2: A Pythonic wrapper Library for the Wistia Data API](https://www.reddit.com/r/Python/comments/12s329u/wystia_v122_a_pythonic_wrapper_library_for_the/)
+- [Shiny for Python out of Alpha](https://www.reddit.com/r/Python/comments/12s206s/shiny_for_python_out_of_alpha/)
+- [Does my academic background matter?](https://www.reddit.com/r/Python/comments/12s1t9g/does_my_academic_background_matter/)
 - [Python for AI and Robotics: A Beginner&#39;s Guide to Machine Intelligence](https://www.reddit.com/r/Python/comments/12s182x/python_for_ai_and_robotics_a_beginners_guide_to/)
-- [Anyone attending PyCon?](https://www.reddit.com/r/Python/comments/12s14fp/anyone_attending_pycon/)
-- [IAMbic, A multi-account identity-centric IaC written in Python](https://www.reddit.com/r/Python/comments/12ryeut/iambic_a_multiaccount_identitycentric_iac_written/)
-- [Is python enough for beginner positions at jobs?](https://www.reddit.com/r/Python/comments/12rx014/is_python_enough_for_beginner_positions_at_jobs/)
-- [Freeflow - A Discord bot to run useful jobs channels. Written in interactions.py.](https://www.reddit.com/r/Python/comments/12rvx2n/freeflow_a_discord_bot_to_run_useful_jobs/)
 <!-- BLOG-POST-LIST:END -->
