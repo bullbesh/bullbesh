@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [gui for python/Flask API](https://www.reddit.com/r/Python/comments/12s6qe6/gui_for_pythonflask_api/)
+- [Web Scraping With Python&lpar;2023&rpar; - A Complete Guide](https://www.reddit.com/r/Python/comments/12s6bt8/web_scraping_with_python2023_a_complete_guide/)
+- [How to Master Programming: Top Free Courses to Help You Begin Your Journey](https://www.reddit.com/r/Python/comments/12s60i3/how_to_master_programming_top_free_courses_to/)
+- [5 Ways to Optimise Python Code](https://www.reddit.com/r/Python/comments/12s5w1w/5_ways_to_optimise_python_code/)
 - [Derivation of the Y-combinator, in Python](https://www.reddit.com/r/Python/comments/12s3t5x/derivation_of_the_ycombinator_in_python/)
-- [Python Visual Programming! with AI](https://www.reddit.com/r/Python/comments/12s33jq/python_visual_programming_with_ai/)
-- [Wystia v1.2.2: A Pythonic wrapper Library for the Wistia Data API](https://www.reddit.com/r/Python/comments/12s329u/wystia_v122_a_pythonic_wrapper_library_for_the/)
-- [Shiny for Python out of Alpha](https://www.reddit.com/r/Python/comments/12s206s/shiny_for_python_out_of_alpha/)
-- [Does my academic background matter?](https://www.reddit.com/r/Python/comments/12s1t9g/does_my_academic_background_matter/)
 <!-- BLOG-POST-LIST:END -->
