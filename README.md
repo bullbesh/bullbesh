@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for AI and Robotics: A Beginner&#39;s Guide to Machine Intelligence](https://www.reddit.com/r/Python/comments/12s182x/python_for_ai_and_robotics_a_beginners_guide_to/)
+- [Anyone attending PyCon?](https://www.reddit.com/r/Python/comments/12s14fp/anyone_attending_pycon/)
+- [IAMbic, A multi-account identity-centric IaC written in Python](https://www.reddit.com/r/Python/comments/12ryeut/iambic_a_multiaccount_identitycentric_iac_written/)
+- [Is python enough for beginner positions at jobs?](https://www.reddit.com/r/Python/comments/12rx014/is_python_enough_for_beginner_positions_at_jobs/)
 - [Freeflow - A Discord bot to run useful jobs channels. Written in interactions.py.](https://www.reddit.com/r/Python/comments/12rvx2n/freeflow_a_discord_bot_to_run_useful_jobs/)
-- [Software engineering with Python?](https://www.reddit.com/r/Python/comments/12rsedi/software_engineering_with_python/)
-- [Can we access values stored from os.add_dll_directory?](https://www.reddit.com/r/Python/comments/12rrktn/can_we_access_values_stored_from_osadd_dll/)
-- [Get Instagram Account Details using Python!](https://www.reddit.com/r/Python/comments/12rrj3j/get_instagram_account_details_using_python/)
-- [Why although Pyqt and Pyside are very similar in terms of functionality, every known course is made for Pyqt which has commercial licence? I am really curious to know...](https://www.reddit.com/r/Python/comments/12rrgnf/why_although_pyqt_and_pyside_are_very_similar_in/)
 <!-- BLOG-POST-LIST:END -->
