@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Where would you start from if you were me](https://www.reddit.com/r/Python/comments/12rf3xa/where_would_you_start_from_if_you_were_me/)
+- [Please explain the code logic of following function to find the median of stream of numbers](https://www.reddit.com/r/Python/comments/12rimek/please_explain_the_code_logic_of_following/)
 - [🐍 Pymodelio 1.0.3 just released! 🐍](https://www.reddit.com/r/Python/comments/12r9zzx/pymodelio_103_just_released/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/12r9j0k/wednesday_daily_thread_beginner_questions/)
 - [Astral, the company behind Ruff](https://www.reddit.com/r/Python/comments/12r7oi0/astral_the_company_behind_ruff/)
