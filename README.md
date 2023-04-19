@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🐍 Pymodelio 1.0.3 just released! 🐍](https://www.reddit.com/r/Python/comments/12r9zzx/pymodelio_103_just_released/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/12r9j0k/wednesday_daily_thread_beginner_questions/)
 - [Astral, the company behind Ruff](https://www.reddit.com/r/Python/comments/12r7oi0/astral_the_company_behind_ruff/)
 - [Chat with Pandas](https://www.reddit.com/r/Python/comments/12r44az/chat_with_pandas/)
 - [Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha](https://www.reddit.com/r/Python/comments/12r0uhs/running_python_microbenchmarks_using_the_chatgpt/)
-- [What&#39;s the best library to draw good-looking geometrical pictures?](https://www.reddit.com/r/Python/comments/12r09d6/whats_the_best_library_to_draw_goodlooking/)
-- [What Are Python Data Classes?](https://www.reddit.com/r/Python/comments/12qykby/what_are_python_data_classes/)
 <!-- BLOG-POST-LIST:END -->
