@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate BPMN diagram with code or plain text](https://www.reddit.com/r/Python/comments/12rmy2t/generate_bpmn_diagram_with_code_or_plain_text/)
+- [LoopGPT: A Modular Auto-GPT Framework](https://www.reddit.com/r/Python/comments/12rmrh2/loopgpt_a_modular_autogpt_framework/)
+- [9 Practical Examples of Using Regular Expressions in Python](https://www.reddit.com/r/Python/comments/12rm8ox/9_practical_examples_of_using_regular_expressions/)
+- [How to easily find all N+1 queries your Django apps make](https://www.reddit.com/r/Python/comments/12rm31z/how_to_easily_find_all_n1_queries_your_django/)
 - [Chili - serialize/deserialize anything from/to dict/json](https://www.reddit.com/r/Python/comments/12rkgoc/chili_serializedeserialize_anything_fromto/)
-- [Using modules with pywebview](https://www.reddit.com/r/Python/comments/12rkfny/using_modules_with_pywebview/)
-- [Astral: Next-gen Python tooling](https://www.reddit.com/r/Python/comments/12rk41t/astral_nextgen_python_tooling/)
-- [Please explain the code logic of following function to find the median of stream of numbers](https://www.reddit.com/r/Python/comments/12rimek/please_explain_the_code_logic_of_following/)
-- [🐍 Pymodelio 1.0.3 just released! 🐍](https://www.reddit.com/r/Python/comments/12r9zzx/pymodelio_103_just_released/)
 <!-- BLOG-POST-LIST:END -->
