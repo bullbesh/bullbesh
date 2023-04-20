@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI &lpar;or any API&rpar; and pandas/connectorx instead of bare SQLAlchemy](https://www.reddit.com/r/Python/comments/12t2w6a/fastapi_or_any_api_and_pandasconnectorx_instead/)
-- [I&#39;ve packaged some helper methods like add_if_new to SQLAlchemy &lpar;is this useful to someone else?&rpar;](https://www.reddit.com/r/Python/comments/12t14a7/ive_packaged_some_helper_methods_like_add_if_new/)
-- [I recorded a 1 hour Python course and uploaded it on Youtube](https://www.reddit.com/r/Python/comments/12t0xf1/i_recorded_a_1_hour_python_course_and_uploaded_it/)
-- [Just created a set of Python info cards - would love your feedback!](https://www.reddit.com/r/Python/comments/12t0mk5/just_created_a_set_of_python_info_cards_would/)
-- [Conway’s game of life &lpar;in python&rpar;](https://www.reddit.com/r/Python/comments/12szwso/conways_game_of_life_in_python/)
+- [I made a Path Cheat Sheet. It could be better. It could be worse.](https://www.reddit.com/r/Python/comments/12ta44k/i_made_a_path_cheat_sheet_it_could_be_better_it/)
+- [A game I made entirely using python and pygame](https://www.reddit.com/r/Python/comments/12t9lab/a_game_i_made_entirely_using_python_and_pygame/)
+- [Code based Youtuber](https://www.reddit.com/r/Python/comments/12t9dsf/code_based_youtuber/)
+- [How To Scrape Amazon Product Details Like A Pro using Python](https://www.reddit.com/r/Python/comments/12t91rn/how_to_scrape_amazon_product_details_like_a_pro/)
+- [ChatGPT for PyTorch and Other Open Source Libraries](https://www.reddit.com/r/Python/comments/12t8shv/chatgpt_for_pytorch_and_other_open_source/)
 <!-- BLOG-POST-LIST:END -->
