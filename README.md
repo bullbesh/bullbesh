@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Snake-against-snake battleground GUI](https://www.reddit.com/r/Python/comments/12tb7mk/snakeagainstsnake_battleground_gui/)
+- [Dependency injection and inversion of control in Python](https://www.reddit.com/r/Python/comments/12tb4hr/dependency_injection_and_inversion_of_control_in/)
+- [All Python books 25%-off at No Starch Press](https://www.reddit.com/r/Python/comments/12tagoo/all_python_books_25off_at_no_starch_press/)
 - [I made a Path Cheat Sheet. It could be better. It could be worse.](https://www.reddit.com/r/Python/comments/12ta44k/i_made_a_path_cheat_sheet_it_could_be_better_it/)
 - [A game I made entirely using python and pygame](https://www.reddit.com/r/Python/comments/12t9lab/a_game_i_made_entirely_using_python_and_pygame/)
-- [Code based Youtuber](https://www.reddit.com/r/Python/comments/12t9dsf/code_based_youtuber/)
-- [How To Scrape Amazon Product Details Like A Pro using Python](https://www.reddit.com/r/Python/comments/12t91rn/how_to_scrape_amazon_product_details_like_a_pro/)
-- [ChatGPT for PyTorch and Other Open Source Libraries](https://www.reddit.com/r/Python/comments/12t8shv/chatgpt_for_pytorch_and_other_open_source/)
 <!-- BLOG-POST-LIST:END -->
