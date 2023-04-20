@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI &lpar;or any API&rpar; and pandas/connectorx instead of bare SQLAlchemy](https://www.reddit.com/r/Python/comments/12t2w6a/fastapi_or_any_api_and_pandasconnectorx_instead/)
+- [I&#39;ve packaged some helper methods like add_if_new to SQLAlchemy &lpar;is this useful to someone else?&rpar;](https://www.reddit.com/r/Python/comments/12t14a7/ive_packaged_some_helper_methods_like_add_if_new/)
+- [I recorded a 1 hour Python course and uploaded it on Youtube](https://www.reddit.com/r/Python/comments/12t0xf1/i_recorded_a_1_hour_python_course_and_uploaded_it/)
+- [Just created a set of Python info cards - would love your feedback!](https://www.reddit.com/r/Python/comments/12t0mk5/just_created_a_set_of_python_info_cards_would/)
 - [Conway’s game of life &lpar;in python&rpar;](https://www.reddit.com/r/Python/comments/12szwso/conways_game_of_life_in_python/)
-- [QualityScaler 2.0 - image/video AI upscaler](https://www.reddit.com/r/Python/comments/12sxlx5/qualityscaler_20_imagevideo_ai_upscaler/)
-- [RE: If you had to pick a library from another language &lpar;Rust, JS, etc.&rpar; that isn’t currently available in Python and have it instantly converted into Python for you to use, what would it be?](https://www.reddit.com/r/Python/comments/12sv2m8/re_if_you_had_to_pick_a_library_from_another/)
-- [Aura Text, Code Editor made with PySide6!!](https://www.reddit.com/r/Python/comments/12suynj/aura_text_code_editor_made_with_pyside6/)
-- [Event driven development with FastAPI and Kafka](https://www.reddit.com/r/Python/comments/12stcsj/event_driven_development_with_fastapi_and_kafka/)
 <!-- BLOG-POST-LIST:END -->
