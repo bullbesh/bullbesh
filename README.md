@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unicodeitplus: Convert simple LaTeX into an unicode approximation and paste it anywhere.](https://www.reddit.com/r/Python/comments/12tguck/unicodeitplus_convert_simple_latex_into_an/)
+- [GPT-4 Debugs Python Code - Next Level](https://www.reddit.com/r/Python/comments/12tgt3r/gpt4_debugs_python_code_next_level/)
+- [It is safe to change Python environments variables, they are just copies](https://www.reddit.com/r/Python/comments/12tfljp/it_is_safe_to_change_python_environments/)
+- [Introducing &#39;Trusted Publishers&#39; - The Python Package Index](https://www.reddit.com/r/Python/comments/12tffp7/introducing_trusted_publishers_the_python_package/)
 - [The 6 Essential Codes of Conduct for Professional Programmers That Will Boost Your Career!](https://www.reddit.com/r/Python/comments/12tf3gx/the_6_essential_codes_of_conduct_for_professional/)
-- [Snake-against-snake battleground GUI](https://www.reddit.com/r/Python/comments/12tb7mk/snakeagainstsnake_battleground_gui/)
-- [Dependency injection and inversion of control in Python](https://www.reddit.com/r/Python/comments/12tb4hr/dependency_injection_and_inversion_of_control_in/)
-- [All Python books 25%-off at No Starch Press](https://www.reddit.com/r/Python/comments/12tagoo/all_python_books_25off_at_no_starch_press/)
-- [I made a Path Cheat Sheet. It could be better. It could be worse.](https://www.reddit.com/r/Python/comments/12ta44k/i_made_a_path_cheat_sheet_it_could_be_better_it/)
 <!-- BLOG-POST-LIST:END -->
