@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The 6 Essential Codes of Conduct for Professional Programmers That Will Boost Your Career!](https://www.reddit.com/r/Python/comments/12tf3gx/the_6_essential_codes_of_conduct_for_professional/)
 - [Snake-against-snake battleground GUI](https://www.reddit.com/r/Python/comments/12tb7mk/snakeagainstsnake_battleground_gui/)
 - [Dependency injection and inversion of control in Python](https://www.reddit.com/r/Python/comments/12tb4hr/dependency_injection_and_inversion_of_control_in/)
 - [All Python books 25%-off at No Starch Press](https://www.reddit.com/r/Python/comments/12tagoo/all_python_books_25off_at_no_starch_press/)
 - [I made a Path Cheat Sheet. It could be better. It could be worse.](https://www.reddit.com/r/Python/comments/12ta44k/i_made_a_path_cheat_sheet_it_could_be_better_it/)
-- [A game I made entirely using python and pygame](https://www.reddit.com/r/Python/comments/12t9lab/a_game_i_made_entirely_using_python_and_pygame/)
 <!-- BLOG-POST-LIST:END -->
