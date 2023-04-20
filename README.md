@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is python the code to learn for casual coding?](https://www.reddit.com/r/Python/comments/12tiiim/is_python_the_code_to_learn_for_casual_coding/)
+- [How to run pytests if your functions include SQL queries:](https://www.reddit.com/r/Python/comments/12thqls/how_to_run_pytests_if_your_functions_include_sql/)
 - [Unicodeitplus: Convert simple LaTeX into an unicode approximation and paste it anywhere.](https://www.reddit.com/r/Python/comments/12tguck/unicodeitplus_convert_simple_latex_into_an/)
 - [GPT-4 Debugs Python Code - Next Level](https://www.reddit.com/r/Python/comments/12tgt3r/gpt4_debugs_python_code_next_level/)
 - [It is safe to change Python environments variables, they are just copies](https://www.reddit.com/r/Python/comments/12tfljp/it_is_safe_to_change_python_environments/)
-- [Introducing &#39;Trusted Publishers&#39; - The Python Package Index](https://www.reddit.com/r/Python/comments/12tffp7/introducing_trusted_publishers_the_python_package/)
-- [The 6 Essential Codes of Conduct for Professional Programmers That Will Boost Your Career!](https://www.reddit.com/r/Python/comments/12tf3gx/the_6_essential_codes_of_conduct_for_professional/)
 <!-- BLOG-POST-LIST:END -->
