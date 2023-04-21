@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Pascal triangle&quot; using minus sign](https://www.reddit.com/r/Python/comments/12u8og9/pascal_triangle_using_minus_sign/)
+- [Starting Web App Research 2023!](https://www.reddit.com/r/Python/comments/12u7y74/starting_web_app_research_2023/)
 - [PyCon US 2023 Has Begun!](https://www.reddit.com/r/Python/comments/12u67jd/pycon_us_2023_has_begun/)
 - [Sushi - Foreign function interface for any language.](https://www.reddit.com/r/Python/comments/12u4t8v/sushi_foreign_function_interface_for_any_language/)
 - [Pythoneers here, what is the best thing you love about this language?](https://www.reddit.com/r/Python/comments/12u4jim/pythoneers_here_what_is_the_best_thing_you_love/)
-- [Python code in real life](https://www.reddit.com/r/Python/comments/12u47n6/python_code_in_real_life/)
-- [How to Create a Text Improver App](https://www.reddit.com/r/Python/comments/12u3rvl/how_to_create_a_text_improver_app/)
 <!-- BLOG-POST-LIST:END -->
