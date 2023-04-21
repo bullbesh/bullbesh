@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pythoneers here, what are some of the best python tricks you guys use when progrmming with python](https://www.reddit.com/r/Python/comments/12tr2sn/pythoneers_here_what_are_some_of_the_best_python/)
+- [I built an API with Flask based on the adult animated sitcom Archer](https://www.reddit.com/r/Python/comments/12tquwr/i_built_an_api_with_flask_based_on_the_adult/)
+- [Unlock the Power of Asynchronous Programming in Python with asyncio](https://www.reddit.com/r/Python/comments/12tqfj5/unlock_the_power_of_asynchronous_programming_in/)
+- [I created a weather radar for Australian capital cities.](https://www.reddit.com/r/Python/comments/12tqatc/i_created_a_weather_radar_for_australian_capital/)
 - [Created Python decompiler: pychd](https://www.reddit.com/r/Python/comments/12tpogg/created_python_decompiler_pychd/)
-- [Github-hosted PyPi index](https://www.reddit.com/r/Python/comments/12tlfqp/githubhosted_pypi_index/)
-- [Ayuda para terminar un codigo de python...](https://www.reddit.com/r/Python/comments/12tjy3z/ayuda_para_terminar_un_codigo_de_python/)
-- [Is python the code to learn for casual coding?](https://www.reddit.com/r/Python/comments/12tiiim/is_python_the_code_to_learn_for_casual_coding/)
-- [How to run pytests if your functions include SQL queries:](https://www.reddit.com/r/Python/comments/12thqls/how_to_run_pytests_if_your_functions_include_sql/)
 <!-- BLOG-POST-LIST:END -->
