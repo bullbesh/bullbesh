@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Subject: 🚀 Explore the Impact of ChatGPT on Our Lives &amp; Work - Contribute to a Pioneering Study! 🧠](https://www.reddit.com/r/Python/comments/12ua2hd/subject_explore_the_impact_of_chatgpt_on_our/)
+- [Showcase: A tool to help visualize CAN messages in real time](https://www.reddit.com/r/Python/comments/12uc262/showcase_a_tool_to_help_visualize_can_messages_in/)
+- [What do you actually do on your first Python job right after you finish your courses?](https://www.reddit.com/r/Python/comments/12ubvnb/what_do_you_actually_do_on_your_first_python_job/)
 - [&quot;Pascal triangle&quot; using minus sign](https://www.reddit.com/r/Python/comments/12u8og9/pascal_triangle_using_minus_sign/)
 - [Starting Web App Research 2023!](https://www.reddit.com/r/Python/comments/12u7y74/starting_web_app_research_2023/)
 - [PyCon US 2023 Has Begun!](https://www.reddit.com/r/Python/comments/12u67jd/pycon_us_2023_has_begun/)
-- [Sushi - Foreign function interface for any language.](https://www.reddit.com/r/Python/comments/12u4t8v/sushi_foreign_function_interface_for_any_language/)
 <!-- BLOG-POST-LIST:END -->
