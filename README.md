@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Created Python decompiler: pychd](https://www.reddit.com/r/Python/comments/12tpogg/created_python_decompiler_pychd/)
 - [Github-hosted PyPi index](https://www.reddit.com/r/Python/comments/12tlfqp/githubhosted_pypi_index/)
 - [Ayuda para terminar un codigo de python...](https://www.reddit.com/r/Python/comments/12tjy3z/ayuda_para_terminar_un_codigo_de_python/)
 - [Is python the code to learn for casual coding?](https://www.reddit.com/r/Python/comments/12tiiim/is_python_the_code_to_learn_for_casual_coding/)
 - [How to run pytests if your functions include SQL queries:](https://www.reddit.com/r/Python/comments/12thqls/how_to_run_pytests_if_your_functions_include_sql/)
-- [Unicodeitplus: Convert simple LaTeX into an unicode approximation and paste it anywhere.](https://www.reddit.com/r/Python/comments/12tguck/unicodeitplus_convert_simple_latex_into_an/)
 <!-- BLOG-POST-LIST:END -->
