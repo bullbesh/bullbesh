@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Asynchronous Programming in Python with asyncio](https://www.reddit.com/r/Python/comments/12u2znd/asynchronous_programming_in_python_with_asyncio/)
-- [NiceGUI 1.2.9 with &quot;refreshable&quot; UI functions, better dark mode support and an interactive styling demo](https://www.reddit.com/r/Python/comments/12u2b9w/nicegui_129_with_refreshable_ui_functions_better/)
-- [Write React in the Jupyter notebook without JavaScript build tools](https://www.reddit.com/r/Python/comments/12u1n15/write_react_in_the_jupyter_notebook_without/)
-- [Ayuda para terminar un codigo](https://www.reddit.com/r/Python/comments/12u0l59/ayuda_para_terminar_un_codigo/)
-- [Gsubpy, an interpreter for subset of Python, written in Go](https://www.reddit.com/r/Python/comments/12u0ge2/gsubpy_an_interpreter_for_subset_of_python/)
+- [PyCon US 2023 Has Begun!](https://www.reddit.com/r/Python/comments/12u67jd/pycon_us_2023_has_begun/)
+- [Sushi - Foreign function interface for any language.](https://www.reddit.com/r/Python/comments/12u4t8v/sushi_foreign_function_interface_for_any_language/)
+- [Pythoneers here, what is the best thing you love about this language?](https://www.reddit.com/r/Python/comments/12u4jim/pythoneers_here_what_is_the_best_thing_you_love/)
+- [Python code in real life](https://www.reddit.com/r/Python/comments/12u47n6/python_code_in_real_life/)
+- [How to Create a Text Improver App](https://www.reddit.com/r/Python/comments/12u3rvl/how_to_create_a_text_improver_app/)
 <!-- BLOG-POST-LIST:END -->
