@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous Programming in Python with asyncio](https://www.reddit.com/r/Python/comments/12u2znd/asynchronous_programming_in_python_with_asyncio/)
+- [NiceGUI 1.2.9 with &quot;refreshable&quot; UI functions, better dark mode support and an interactive styling demo](https://www.reddit.com/r/Python/comments/12u2b9w/nicegui_129_with_refreshable_ui_functions_better/)
+- [Write React in the Jupyter notebook without JavaScript build tools](https://www.reddit.com/r/Python/comments/12u1n15/write_react_in_the_jupyter_notebook_without/)
 - [Ayuda para terminar un codigo](https://www.reddit.com/r/Python/comments/12u0l59/ayuda_para_terminar_un_codigo/)
 - [Gsubpy, an interpreter for subset of Python, written in Go](https://www.reddit.com/r/Python/comments/12u0ge2/gsubpy_an_interpreter_for_subset_of_python/)
-- [Share Jupyter Notebook on Hugging Face Spaces with Mercury](https://www.reddit.com/r/Python/comments/12tz52r/share_jupyter_notebook_on_hugging_face_spaces/)
-- [GitHub - insight-platform/Savant: Python Streaming Video Analytics Framework With Batteries Included](https://www.reddit.com/r/Python/comments/12tyb9p/github_insightplatformsavant_python_streaming/)
-- [Jupyter AI: A generative AI extension for JupyterLab](https://www.reddit.com/r/Python/comments/12txal7/jupyter_ai_a_generative_ai_extension_for/)
 <!-- BLOG-POST-LIST:END -->
