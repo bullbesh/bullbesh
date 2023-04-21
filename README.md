@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GPT-4 Generates and Debugs Python code](https://www.reddit.com/r/Python/comments/12ttjp7/gpt4_generates_and_debugs_python_code/)
+- [Is India Prepared to Meet the Growing Demand for Data Science??](https://www.reddit.com/r/Python/comments/12tstjo/is_india_prepared_to_meet_the_growing_demand_for/)
 - [Anything similar to Wallaby.js for Python?](https://www.reddit.com/r/Python/comments/12tro1b/anything_similar_to_wallabyjs_for_python/)
 - [Pythoneers here, what are some of the best python tricks you guys use when progrmming with python](https://www.reddit.com/r/Python/comments/12tr2sn/pythoneers_here_what_are_some_of_the_best_python/)
 - [I built an API with Flask based on the adult animated sitcom Archer](https://www.reddit.com/r/Python/comments/12tquwr/i_built_an_api_with_flask_based_on_the_adult/)
-- [Unlock the Power of Asynchronous Programming in Python with asyncio](https://www.reddit.com/r/Python/comments/12tqfj5/unlock_the_power_of_asynchronous_programming_in/)
-- [I created a weather radar for Australian capital cities.](https://www.reddit.com/r/Python/comments/12tqatc/i_created_a_weather_radar_for_australian_capital/)
 <!-- BLOG-POST-LIST:END -->
