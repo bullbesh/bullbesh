@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [👉 New Awesome Polars release &lpar;04-21-2023&rpar; ! 🚀 What&#39;s new in #Polars? Let&#39;s find out!](https://www.reddit.com/r/Python/comments/12tueof/new_awesome_polars_release_04212023_whats_new_in/)
+- [What is ipykernel, and how does it contribute to generating output?](https://www.reddit.com/r/Python/comments/12tu9w5/what_is_ipykernel_and_how_does_it_contribute_to/)
+- [Python opportunity for VFX and Animation Industry for fresher](https://www.reddit.com/r/Python/comments/12ttq3q/python_opportunity_for_vfx_and_animation_industry/)
 - [GPT-4 Generates and Debugs Python code](https://www.reddit.com/r/Python/comments/12ttjp7/gpt4_generates_and_debugs_python_code/)
 - [Is India Prepared to Meet the Growing Demand for Data Science??](https://www.reddit.com/r/Python/comments/12tstjo/is_india_prepared_to_meet_the_growing_demand_for/)
-- [Anything similar to Wallaby.js for Python?](https://www.reddit.com/r/Python/comments/12tro1b/anything_similar_to_wallabyjs_for_python/)
-- [Pythoneers here, what are some of the best python tricks you guys use when progrmming with python](https://www.reddit.com/r/Python/comments/12tr2sn/pythoneers_here_what_are_some_of_the_best_python/)
-- [I built an API with Flask based on the adult animated sitcom Archer](https://www.reddit.com/r/Python/comments/12tquwr/i_built_an_api_with_flask_based_on_the_adult/)
 <!-- BLOG-POST-LIST:END -->
