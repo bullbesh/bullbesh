@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - insight-platform/Savant: Python Streaming Video Analytics Framework With Batteries Included](https://www.reddit.com/r/Python/comments/12tyb9p/github_insightplatformsavant_python_streaming/)
+- [Jupyter AI: A generative AI extension for JupyterLab](https://www.reddit.com/r/Python/comments/12txal7/jupyter_ai_a_generative_ai_extension_for/)
+- [Duck Typing vs Type Hints vs Type Guards](https://www.reddit.com/r/Python/comments/12txa38/duck_typing_vs_type_hints_vs_type_guards/)
 - [Best python course with certification of completion?](https://www.reddit.com/r/Python/comments/12twvmb/best_python_course_with_certification_of/)
 - [Location of assigning variables in Python](https://www.reddit.com/r/Python/comments/12twf2o/location_of_assigning_variables_in_python/)
-- [Web Scraping](https://www.reddit.com/r/Python/comments/12tvmex/web_scraping/)
-- [👉 New Awesome Polars release &lpar;04-21-2023&rpar; ! 🚀 What&#39;s new in #Polars? Let&#39;s find out!](https://www.reddit.com/r/Python/comments/12tueof/new_awesome_polars_release_04212023_whats_new_in/)
-- [What is ipykernel, and how does it contribute to generating output?](https://www.reddit.com/r/Python/comments/12tu9w5/what_is_ipykernel_and_how_does_it_contribute_to/)
 <!-- BLOG-POST-LIST:END -->
