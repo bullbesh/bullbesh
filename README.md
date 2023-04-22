@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Milestone reached for my first Flask project!](https://www.reddit.com/r/Python/comments/12v1umw/milestone_reached_for_my_first_flask_project/)
 - [My Goldilocks Python Setup: pyenv, pipx, and pip-tools](https://www.reddit.com/r/Python/comments/12v0mdz/my_goldilocks_python_setup_pyenv_pipx_and_piptools/)
 - [Where can I deploy websites that using python as a backend &lpar;web applications&rpar;](https://www.reddit.com/r/Python/comments/12v0d0e/where_can_i_deploy_websites_that_using_python_as/)
 - [Secure Your Applications with Python: Learn Ethical Hacking Techniques and Tools](https://www.reddit.com/r/Python/comments/12uyyd6/secure_your_applications_with_python_learn/)
 - [Asynchronous Python with asyncio: A Quick Guide and Sample Code](https://www.reddit.com/r/Python/comments/12uwisk/asynchronous_python_with_asyncio_a_quick_guide/)
-- [I made `write-the` an AI-powered documentation and test generation tool](https://www.reddit.com/r/Python/comments/12uts9k/i_made_writethe_an_aipowered_documentation_and/)
 <!-- BLOG-POST-LIST:END -->
