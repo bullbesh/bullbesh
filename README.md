@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Goldilocks Python Setup: pyenv, pipx, and pip-tools](https://www.reddit.com/r/Python/comments/12v0mdz/my_goldilocks_python_setup_pyenv_pipx_and_piptools/)
+- [Where can I deploy websites that using python as a backend &lpar;web applications&rpar;](https://www.reddit.com/r/Python/comments/12v0d0e/where_can_i_deploy_websites_that_using_python_as/)
 - [Secure Your Applications with Python: Learn Ethical Hacking Techniques and Tools](https://www.reddit.com/r/Python/comments/12uyyd6/secure_your_applications_with_python_learn/)
 - [Asynchronous Python with asyncio: A Quick Guide and Sample Code](https://www.reddit.com/r/Python/comments/12uwisk/asynchronous_python_with_asyncio_a_quick_guide/)
 - [I made `write-the` an AI-powered documentation and test generation tool](https://www.reddit.com/r/Python/comments/12uts9k/i_made_writethe_an_aipowered_documentation_and/)
-- [MenuScript - Run Python Scripts from the MacOS menubar](https://www.reddit.com/r/Python/comments/12ut616/menuscript_run_python_scripts_from_the_macos/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/12unks8/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
