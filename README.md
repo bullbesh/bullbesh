@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Secure Your Applications with Python: Learn Ethical Hacking Techniques and Tools](https://www.reddit.com/r/Python/comments/12uyyd6/secure_your_applications_with_python_learn/)
-- [Is this legit??](https://www.reddit.com/r/Python/comments/12uxmh0/is_this_legit/)
 - [Asynchronous Python with asyncio: A Quick Guide and Sample Code](https://www.reddit.com/r/Python/comments/12uwisk/asynchronous_python_with_asyncio_a_quick_guide/)
 - [I made `write-the` an AI-powered documentation and test generation tool](https://www.reddit.com/r/Python/comments/12uts9k/i_made_writethe_an_aipowered_documentation_and/)
 - [MenuScript - Run Python Scripts from the MacOS menubar](https://www.reddit.com/r/Python/comments/12ut616/menuscript_run_python_scripts_from_the_macos/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/12unks8/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
