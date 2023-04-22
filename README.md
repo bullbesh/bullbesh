@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/12unks8/saturday_daily_thread_resource_request_and/)
-- [What Python packages are missing and should be developed?](https://www.reddit.com/r/Python/comments/12ujttx/what_python_packages_are_missing_and_should_be/)
 - [I made a PyAutoGUI GUI, what do you think?](https://www.reddit.com/r/Python/comments/12uenpr/i_made_a_pyautogui_gui_what_do_you_think/)
 - [Does anyone else use the object method reference for things like __len__ rather than using the functional invocation?](https://www.reddit.com/r/Python/comments/12ue0qi/does_anyone_else_use_the_object_method_reference/)
 - [Showcase: A tool to help visualize CAN messages in real time](https://www.reddit.com/r/Python/comments/12uc262/showcase_a_tool_to_help_visualize_can_messages_in/)
+- [What do you actually do on your first Python job right after you finish your courses?](https://www.reddit.com/r/Python/comments/12ubvnb/what_do_you_actually_do_on_your_first_python_job/)
 <!-- BLOG-POST-LIST:END -->
