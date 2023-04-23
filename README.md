@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first website made with Python](https://www.reddit.com/r/Python/comments/12whlg7/my_first_website_made_with_python/)
 - [Question about unit testing](https://www.reddit.com/r/Python/comments/12wcyf0/question_about_unit_testing/)
 - [Todays Soccer Matches on A Map](https://www.reddit.com/r/Python/comments/12w92rp/todays_soccer_matches_on_a_map/)
 - [Chart Your Favorite TV Show&#39;s Ratings](https://www.reddit.com/r/Python/comments/12w8dol/chart_your_favorite_tv_shows_ratings/)
 - [&quot;Pascal triangle&quot; using minus sign creates Sierpiński triangle](https://www.reddit.com/r/Python/comments/12w6khk/pascal_triangle_using_minus_sign_creates/)
-- [Built a little evolution simulator in python and pygame!](https://www.reddit.com/r/Python/comments/12w4gg5/built_a_little_evolution_simulator_in_python_and/)
 <!-- BLOG-POST-LIST:END -->
