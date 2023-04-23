@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [End-to-end Machine Learning modeling in BigQuery — Google Cloud](https://www.reddit.com/r/Python/comments/12woytf/endtoend_machine_learning_modeling_in_bigquery/)
 - [Regression with Keras - Sample Weights](https://www.reddit.com/r/Python/comments/12wngqf/regression_with_keras_sample_weights/)
 - [a small object storage implementation](https://www.reddit.com/r/Python/comments/12wn8l3/a_small_object_storage_implementation/)
 - [Jupyter notebook development workspace using Docker, Docker Compose and Git](https://www.reddit.com/r/Python/comments/12wl7og/jupyter_notebook_development_workspace_using/)
 - [Add Some Pun to Your Command Line with pun-cli - Now with a Repository of +150 Hilarious Puns!](https://www.reddit.com/r/Python/comments/12wl3l0/add_some_pun_to_your_command_line_with_puncli_now/)
-- [Has anybody noticed that astronomy libraries in Python tend to be really hard to use?](https://www.reddit.com/r/Python/comments/12witub/has_anybody_noticed_that_astronomy_libraries_in/)
 <!-- BLOG-POST-LIST:END -->
