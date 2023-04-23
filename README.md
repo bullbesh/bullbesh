@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Todays Soccer Matches on A Map](https://www.reddit.com/r/Python/comments/12w92rp/todays_soccer_matches_on_a_map/)
+- [Chart Your Favorite TV Show&#39;s Ratings](https://www.reddit.com/r/Python/comments/12w8dol/chart_your_favorite_tv_shows_ratings/)
 - [&quot;Pascal triangle&quot; using minus sign creates Sierpiński triangle](https://www.reddit.com/r/Python/comments/12w6khk/pascal_triangle_using_minus_sign_creates/)
-- [Can you trace the link backwards?](https://www.reddit.com/r/Python/comments/12w4eat/can_you_trace_the_link_backwards/)
+- [Built a little evolution simulator in python and pygame!](https://www.reddit.com/r/Python/comments/12w4gg5/built_a_little_evolution_simulator_in_python_and/)
 - [As if there weren&#39;t enough packaging tools already: mitsuhiko/rye: an experimental alternative to poetry/pip/pipenv/venv/virtualenv/pdm/hatch/…](https://www.reddit.com/r/Python/comments/12w2ws7/as_if_there_werent_enough_packaging_tools_already/)
-- [I&#39;ve written a tutorial on how to use ChatGPT &lpar;GPT3&rpar; over your own documents](https://www.reddit.com/r/Python/comments/12vq8mm/ive_written_a_tutorial_on_how_to_use_chatgpt_gpt3/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/12vod9k/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
