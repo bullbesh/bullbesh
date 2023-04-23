@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jupyter notebook development workspace using Docker, Docker Compose and Git](https://www.reddit.com/r/Python/comments/12wl7og/jupyter_notebook_development_workspace_using/)
+- [Add Some Pun to Your Command Line with pun-cli - Now with a Repository of +150 Hilarious Puns!](https://www.reddit.com/r/Python/comments/12wl3l0/add_some_pun_to_your_command_line_with_puncli_now/)
 - [Has anybody noticed that astronomy libraries in Python tend to be really hard to use?](https://www.reddit.com/r/Python/comments/12witub/has_anybody_noticed_that_astronomy_libraries_in/)
 - [Rye: Flask author&#39;s new project for Python bootstrapping](https://www.reddit.com/r/Python/comments/12wirkn/rye_flask_authors_new_project_for_python/)
 - [My first website made with Python](https://www.reddit.com/r/Python/comments/12whlg7/my_first_website_made_with_python/)
-- [Question about unit testing](https://www.reddit.com/r/Python/comments/12wcyf0/question_about_unit_testing/)
-- [Todays Soccer Matches on A Map](https://www.reddit.com/r/Python/comments/12w92rp/todays_soccer_matches_on_a_map/)
 <!-- BLOG-POST-LIST:END -->
