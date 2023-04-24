@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Geovisualization test with OSM map data and matplotib for styling](https://www.reddit.com/r/Python/comments/12xv38r/geovisualization_test_with_osm_map_data_and/)
 - [Excelize](https://www.reddit.com/r/Python/comments/12xuhzo/excelize/)
 - [Designing CNN kernel](https://www.reddit.com/r/Python/comments/12xuas6/designing_cnn_kernel/)
 - [Landing first freelance client and have NO clue how to price the job. HALP](https://www.reddit.com/r/Python/comments/12xtov9/landing_first_freelance_client_and_have_no_clue/)
 - [What are some free ways to run python 24x7?](https://www.reddit.com/r/Python/comments/12xse2k/what_are_some_free_ways_to_run_python_24x7/)
-- [Is it just me or are the docs for sqlalchemy a f*cking nightmare?](https://www.reddit.com/r/Python/comments/12xrvwz/is_it_just_me_or_are_the_docs_for_sqlalchemy_a/)
 <!-- BLOG-POST-LIST:END -->
