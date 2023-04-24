@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Word guessing game created with python](https://www.reddit.com/r/Python/comments/12xri7j/word_guessing_game_created_with_python/)
+- [[Python] Easy way to control your quality of code by SonarQube](https://www.reddit.com/r/Python/comments/12xq7x2/python_easy_way_to_control_your_quality_of_code/)
+- [Python OpenTelemetry - Walkthrough and monitoring Examples](https://www.reddit.com/r/Python/comments/12xpvhr/python_opentelemetry_walkthrough_and_monitoring/)
 - [Python Programmer Snakes &amp; Automated Python Course App](https://www.reddit.com/r/Python/comments/12xo78s/python_programmer_snakes_automated_python_course/)
 - [I making a bot for a school project that can run from the command line and get the office hours of professors off of the internet. The only source for this information I have found is protected by a &quot;&lt;!-- Google reCaptcha --&gt;&quot;. How difficult is this to bypass?](https://www.reddit.com/r/Python/comments/12xmkyd/i_making_a_bot_for_a_school_project_that_can_run/)
-- [TerraTrivia, a website that helps you learn world capitals.](https://www.reddit.com/r/Python/comments/12xmieu/terratrivia_a_website_that_helps_you_learn_world/)
-- [A Guide to Writing Python with AI](https://www.reddit.com/r/Python/comments/12xm4he/a_guide_to_writing_python_with_ai/)
-- [Creating Map Visualizations with Wikidata and Python](https://www.reddit.com/r/Python/comments/12xkmqt/creating_map_visualizations_with_wikidata_and/)
 <!-- BLOG-POST-LIST:END -->
