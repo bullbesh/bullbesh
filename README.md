@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorials you’re missing?](https://www.reddit.com/r/Python/comments/12xzhqh/tutorials_youre_missing/)
+- [MegaMock - The Mocking DevX Upgrade Moves to Beta](https://www.reddit.com/r/Python/comments/12xzgpt/megamock_the_mocking_devx_upgrade_moves_to_beta/)
+- [Install PySenti4SD in Google Colab](https://www.reddit.com/r/Python/comments/12xzb97/install_pysenti4sd_in_google_colab/)
 - [simple screenfetch written in python](https://www.reddit.com/r/Python/comments/12xy5pp/simple_screenfetch_written_in_python/)
 - [MY first Python-tutorial ever :&rpar; I guess i will make a series out of it](https://www.reddit.com/r/Python/comments/12xxxc6/my_first_pythontutorial_ever_i_guess_i_will_make/)
-- [Geovisualization test with OSM map data and matplotib for styling](https://www.reddit.com/r/Python/comments/12xv38r/geovisualization_test_with_osm_map_data_and/)
-- [Excelize](https://www.reddit.com/r/Python/comments/12xuhzo/excelize/)
-- [Designing CNN kernel](https://www.reddit.com/r/Python/comments/12xuas6/designing_cnn_kernel/)
 <!-- BLOG-POST-LIST:END -->
