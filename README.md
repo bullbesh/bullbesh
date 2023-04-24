@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Programmer Snakes &amp; Automated Python Course App](https://www.reddit.com/r/Python/comments/12xo78s/python_programmer_snakes_automated_python_course/)
 - [I making a bot for a school project that can run from the command line and get the office hours of professors off of the internet. The only source for this information I have found is protected by a &quot;&lt;!-- Google reCaptcha --&gt;&quot;. How difficult is this to bypass?](https://www.reddit.com/r/Python/comments/12xmkyd/i_making_a_bot_for_a_school_project_that_can_run/)
 - [TerraTrivia, a website that helps you learn world capitals.](https://www.reddit.com/r/Python/comments/12xmieu/terratrivia_a_website_that_helps_you_learn_world/)
 - [A Guide to Writing Python with AI](https://www.reddit.com/r/Python/comments/12xm4he/a_guide_to_writing_python_with_ai/)
 - [Creating Map Visualizations with Wikidata and Python](https://www.reddit.com/r/Python/comments/12xkmqt/creating_map_visualizations_with_wikidata_and/)
-- [Data Analysis Books](https://www.reddit.com/r/Python/comments/12xk40q/data_analysis_books/)
 <!-- BLOG-POST-LIST:END -->
