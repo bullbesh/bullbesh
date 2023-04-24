@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dividing 2 columns and getting an incorrect answer](https://www.reddit.com/r/Python/comments/12x52zl/dividing_2_columns_and_getting_an_incorrect_answer/)
+- [Without using openai token, make chatbot using own datasets.](https://www.reddit.com/r/Python/comments/12x4uy9/without_using_openai_token_make_chatbot_using_own/)
+- [PEP 713 – Callable Modules](https://www.reddit.com/r/Python/comments/12x4sr5/pep_713_callable_modules/)
+- [PEP 712 – Adding a “converter” parameter to dataclasses.field](https://www.reddit.com/r/Python/comments/12x4rth/pep_712_adding_a_converter_parameter_to/)
 - [What do you guys use python for?](https://www.reddit.com/r/Python/comments/12x24ni/what_do_you_guys_use_python_for/)
-- [Sharing: Converting drawings into 3D animation; a deep dive into the Python modules behind ShapeMeshing](https://www.reddit.com/r/Python/comments/12wxfb0/sharing_converting_drawings_into_3d_animation_a/)
-- [Solarflare](https://www.reddit.com/r/Python/comments/12wvwsa/solarflare/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/12wvgm0/monday_daily_thread_project_ideas/)
-- [Do you guys use Chat GPT to code? If so, what do you make?](https://www.reddit.com/r/Python/comments/12wsx2g/do_you_guys_use_chat_gpt_to_code_if_so_what_do/)
 <!-- BLOG-POST-LIST:END -->
