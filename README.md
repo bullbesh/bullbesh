@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Analysis Books](https://www.reddit.com/r/Python/comments/12xk40q/data_analysis_books/)
 - [Angela or Codeweather](https://www.reddit.com/r/Python/comments/12xf35d/angela_or_codeweather/)
-- [The problem with Google Colab](https://www.reddit.com/r/Python/comments/12xcbov/the_problem_with_google_colab/)
 - [I built a simple and efficient rate limiter for the OpenAI API](https://www.reddit.com/r/Python/comments/12xahnb/i_built_a_simple_and_efficient_rate_limiter_for/)
 - [Announcing: Avoid duplicate Sentry errors with this new formatter](https://www.reddit.com/r/Python/comments/12x9pdj/announcing_avoid_duplicate_sentry_errors_with/)
 - [🚀 Boost Your Python Code Performance: Essential Tips &amp; Techniques](https://www.reddit.com/r/Python/comments/12x76vj/boost_your_python_code_performance_essential_tips/)
