@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I making a bot for a school project that can run from the command line and get the office hours of professors off of the internet. The only source for this information I have found is protected by a &quot;&lt;!-- Google reCaptcha --&gt;&quot;. How difficult is this to bypass?](https://www.reddit.com/r/Python/comments/12xmkyd/i_making_a_bot_for_a_school_project_that_can_run/)
+- [TerraTrivia, a website that helps you learn world capitals.](https://www.reddit.com/r/Python/comments/12xmieu/terratrivia_a_website_that_helps_you_learn_world/)
+- [A Guide to Writing Python with AI](https://www.reddit.com/r/Python/comments/12xm4he/a_guide_to_writing_python_with_ai/)
+- [Creating Map Visualizations with Wikidata and Python](https://www.reddit.com/r/Python/comments/12xkmqt/creating_map_visualizations_with_wikidata_and/)
 - [Data Analysis Books](https://www.reddit.com/r/Python/comments/12xk40q/data_analysis_books/)
-- [Angela or Codeweather](https://www.reddit.com/r/Python/comments/12xf35d/angela_or_codeweather/)
-- [I built a simple and efficient rate limiter for the OpenAI API](https://www.reddit.com/r/Python/comments/12xahnb/i_built_a_simple_and_efficient_rate_limiter_for/)
-- [Announcing: Avoid duplicate Sentry errors with this new formatter](https://www.reddit.com/r/Python/comments/12x9pdj/announcing_avoid_duplicate_sentry_errors_with/)
-- [🚀 Boost Your Python Code Performance: Essential Tips &amp; Techniques](https://www.reddit.com/r/Python/comments/12x76vj/boost_your_python_code_performance_essential_tips/)
 <!-- BLOG-POST-LIST:END -->
