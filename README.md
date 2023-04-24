@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The problem with Google Colab](https://www.reddit.com/r/Python/comments/12xcbov/the_problem_with_google_colab/)
 - [I built a simple and efficient rate limiter for the OpenAI API](https://www.reddit.com/r/Python/comments/12xahnb/i_built_a_simple_and_efficient_rate_limiter_for/)
 - [🚀 Boost Your Python Code Performance: Essential Tips &amp; Techniques](https://www.reddit.com/r/Python/comments/12x76vj/boost_your_python_code_performance_essential_tips/)
 - [CupCakeAGI🧁🍰🎉🤖🧠🍩🍪](https://www.reddit.com/r/Python/comments/12x702g/cupcakeagi/)
 - [diantonioandrea/lookUp](https://www.reddit.com/r/Python/comments/12x6mdu/diantonioandrealookup/)
-- [Dividing 2 columns and getting an incorrect answer](https://www.reddit.com/r/Python/comments/12x52zl/dividing_2_columns_and_getting_an_incorrect_answer/)
 <!-- BLOG-POST-LIST:END -->
