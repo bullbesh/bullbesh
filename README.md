@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python script to automatically remove your old reddit comments](https://www.reddit.com/r/Python/comments/12yvjc8/python_script_to_automatically_remove_your_old/)
-- [Python Careers](https://www.reddit.com/r/Python/comments/12yuqm9/python_careers/)
-- [Books suggestions for advanced beginner](https://www.reddit.com/r/Python/comments/12ystp9/books_suggestions_for_advanced_beginner/)
-- [How to Quickly Spin Up Python Landing Pages with ButterCMS](https://www.reddit.com/r/Python/comments/12yr8dh/how_to_quickly_spin_up_python_landing_pages_with/)
-- [IKM Python 3 Test?](https://www.reddit.com/r/Python/comments/12yr0pe/ikm_python_3_test/)
+- [My first Flask CRUD app :&rpar;](https://www.reddit.com/r/Python/comments/12yxtd7/my_first_flask_crud_app/)
+- [This editor is to Python what emacs is to Lisp...](https://www.reddit.com/r/Python/comments/12yxqse/this_editor_is_to_python_what_emacs_is_to_lisp/)
+- [dictf - An extended Python dict implementation that supports multiple key selection with a pretty syntax.](https://www.reddit.com/r/Python/comments/12ywtn8/dictf_an_extended_python_dict_implementation_that/)
+- [Python Idiom](https://www.reddit.com/r/Python/comments/12ywrnk/python_idiom/)
+- [Mentor](https://www.reddit.com/r/Python/comments/12ywqmn/mentor/)
 <!-- BLOG-POST-LIST:END -->
