@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Accessing List Values Within The Dictionary In Python](https://www.reddit.com/r/Python/comments/12yaraa/accessing_list_values_within_the_dictionary_in/)
 - [100 Days of X](https://www.reddit.com/r/Python/comments/12ya8nt/100_days_of_x/)
 - [for loop || find odd even number in for loop || nested for loop](https://www.reddit.com/r/Python/comments/12y8vje/for_loop_find_odd_even_number_in_for_loop_nested/)
 - [We reduced conda’s index fetch bandwidth by 99%](https://www.reddit.com/r/Python/comments/12y8tvg/we_reduced_condas_index_fetch_bandwidth_by_99/)
 - [Using Neuro-Fuzzy Systems to Model the Human Thinking](https://www.reddit.com/r/Python/comments/12y6a9s/using_neurofuzzy_systems_to_model_the_human/)
-- [Flask or FastAPI for hackathons?](https://www.reddit.com/r/Python/comments/12y3z66/flask_or_fastapi_for_hackathons/)
 <!-- BLOG-POST-LIST:END -->
