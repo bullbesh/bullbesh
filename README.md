@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Please Help Debug: deadlock error](https://www.reddit.com/r/Python/comments/12ypl55/please_help_debug_deadlock_error/)
+- [Unlock the Power of Python, Scikit-Learn &amp; TensorFlow: Machine Learning Made Easy 🔥](https://www.reddit.com/r/Python/comments/12ypg7u/unlock_the_power_of_python_scikitlearn_tensorflow/)
+- [99+% Handwriting OCR Accuracy When Writing with Biodegradable Ink on Reusable Notebook!](https://www.reddit.com/r/Python/comments/12yok5u/99_handwriting_ocr_accuracy_when_writing_with/)
 - [I uploaded a Python Machine Learning Project video on Youtube - Predicting Incomes using Sci-kit Learn](https://www.reddit.com/r/Python/comments/12yo1kr/i_uploaded_a_python_machine_learning_project/)
 - [WhisperAI flask docker app](https://www.reddit.com/r/Python/comments/12yngpa/whisperai_flask_docker_app/)
-- [First published module: monocular depth estimation on webcam feed](https://www.reddit.com/r/Python/comments/12ymsad/first_published_module_monocular_depth_estimation/)
-- [Hot reloading and ChatGPT - Make programming in Python easy with AI and Reloadium](https://www.reddit.com/r/Python/comments/12yl1c0/hot_reloading_and_chatgpt_make_programming_in/)
-- [End-to-end Machine Learning modeling in BigQuery — Google Cloud](https://www.reddit.com/r/Python/comments/12ykecb/endtoend_machine_learning_modeling_in_bigquery/)
 <!-- BLOG-POST-LIST:END -->
