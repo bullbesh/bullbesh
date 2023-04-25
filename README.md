@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Please Help Debug: deadlock error](https://www.reddit.com/r/Python/comments/12ypl55/please_help_debug_deadlock_error/)
-- [Unlock the Power of Python, Scikit-Learn &amp; TensorFlow: Machine Learning Made Easy 🔥](https://www.reddit.com/r/Python/comments/12ypg7u/unlock_the_power_of_python_scikitlearn_tensorflow/)
-- [99+% Handwriting OCR Accuracy When Writing with Biodegradable Ink on Reusable Notebook!](https://www.reddit.com/r/Python/comments/12yok5u/99_handwriting_ocr_accuracy_when_writing_with/)
-- [I uploaded a Python Machine Learning Project video on Youtube - Predicting Incomes using Sci-kit Learn](https://www.reddit.com/r/Python/comments/12yo1kr/i_uploaded_a_python_machine_learning_project/)
-- [WhisperAI flask docker app](https://www.reddit.com/r/Python/comments/12yngpa/whisperai_flask_docker_app/)
+- [How to Parse Html with Regex?](https://www.reddit.com/r/Python/comments/12yratf/how_to_parse_html_with_regex/)
+- [How to Quickly Spin Up Python Landing Pages with ButterCMS](https://www.reddit.com/r/Python/comments/12yr8dh/how_to_quickly_spin_up_python_landing_pages_with/)
+- [IKM Python 3 Test?](https://www.reddit.com/r/Python/comments/12yr0pe/ikm_python_3_test/)
+- [review and provide suggestions on the improvement of https://github.com/Agent-Hellboy/datatable-faker](https://www.reddit.com/r/Python/comments/12yqqau/review_and_provide_suggestions_on_the_improvement/)
+- [Microsoft releases SynapseMl v0.11 with support for ChatGPT, GPT-4, causal learning, and more](https://www.reddit.com/r/Python/comments/12yqmnl/microsoft_releases_synapseml_v011_with_support/)
 <!-- BLOG-POST-LIST:END -->
