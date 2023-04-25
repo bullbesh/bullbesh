@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [for loop || find odd even number in for loop || nested for loop](https://www.reddit.com/r/Python/comments/12y8vje/for_loop_find_odd_even_number_in_for_loop_nested/)
+- [We reduced conda’s index fetch bandwidth by 99%](https://www.reddit.com/r/Python/comments/12y8tvg/we_reduced_condas_index_fetch_bandwidth_by_99/)
 - [Using Neuro-Fuzzy Systems to Model the Human Thinking](https://www.reddit.com/r/Python/comments/12y6a9s/using_neurofuzzy_systems_to_model_the_human/)
 - [Flask or FastAPI for hackathons?](https://www.reddit.com/r/Python/comments/12y3z66/flask_or_fastapi_for_hackathons/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/12y1e49/tuesday_daily_thread_advanced_questions/)
-- [Where can I post question for help with Python?](https://www.reddit.com/r/Python/comments/12y14zn/where_can_i_post_question_for_help_with_python/)
-- [Tutorials you’re missing?](https://www.reddit.com/r/Python/comments/12xzhqh/tutorials_youre_missing/)
 <!-- BLOG-POST-LIST:END -->
