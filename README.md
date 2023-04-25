@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/12y1e49/tuesday_daily_thread_advanced_questions/)
+- [Where can I post question for help with Python?](https://www.reddit.com/r/Python/comments/12y14zn/where_can_i_post_question_for_help_with_python/)
 - [Tutorials you’re missing?](https://www.reddit.com/r/Python/comments/12xzhqh/tutorials_youre_missing/)
 - [MegaMock - The Mocking DevX Upgrade Moves to Beta](https://www.reddit.com/r/Python/comments/12xzgpt/megamock_the_mocking_devx_upgrade_moves_to_beta/)
 - [Install PySenti4SD in Google Colab](https://www.reddit.com/r/Python/comments/12xzb97/install_pysenti4sd_in_google_colab/)
-- [simple screenfetch written in python](https://www.reddit.com/r/Python/comments/12xy5pp/simple_screenfetch_written_in_python/)
-- [MY first Python-tutorial ever :&rpar; I guess i will make a series out of it](https://www.reddit.com/r/Python/comments/12xxxc6/my_first_pythontutorial_ever_i_guess_i_will_make/)
 <!-- BLOG-POST-LIST:END -->
