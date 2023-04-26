@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I like my python projects to live like I do](https://www.reddit.com/r/Python/comments/12zigb4/i_like_my_python_projects_to_live_like_i_do/)
-- [Debugging a Mixed Python and C Language Stack](https://www.reddit.com/r/Python/comments/12zhl45/debugging_a_mixed_python_and_c_language_stack/)
-- [I wrote a Python stocks suggestions tool based on OpenAI&#39;s ChatGPT, would love to hear your feedback &amp; suggestions](https://www.reddit.com/r/Python/comments/12zgv73/i_wrote_a_python_stocks_suggestions_tool_based_on/)
-- [Machine Learning Made Easy With PyCaret](https://www.reddit.com/r/Python/comments/12zfqzs/machine_learning_made_easy_with_pycaret/)
-- [GitHub - mriale/PyDPainter: A usable pixel art paint program written in Python](https://www.reddit.com/r/Python/comments/12zcdir/github_mrialepydpainter_a_usable_pixel_art_paint/)
+- [Idea: Tracking ABI additions and changes for better pre-release wheel management](https://www.reddit.com/r/Python/comments/12zkfz6/idea_tracking_abi_additions_and_changes_for/)
+- [statsmodels Release Candidate 0.14.0rc0 tagged](https://www.reddit.com/r/Python/comments/12zkeoj/statsmodels_release_candidate_0140rc0_tagged/)
+- [My first real-world Python project is a comprehensive library for fetching IMF API data](https://www.reddit.com/r/Python/comments/12zk7q0/my_first_realworld_python_project_is_a/)
+- [How to make smooth lines in scatter plot?](https://www.reddit.com/r/Python/comments/12zk3qb/how_to_make_smooth_lines_in_scatter_plot/)
+- [🐍 Presenting to you pymodelio v1.1.1- A module for defining, serializing, deserializing and validating rich domain models 🐍](https://www.reddit.com/r/Python/comments/12zj91o/presenting_to_you_pymodelio_v111_a_module_for/)
 <!-- BLOG-POST-LIST:END -->
