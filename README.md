@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zero to master python, Udemy](https://www.reddit.com/r/Python/comments/12z3bq8/zero_to_master_python_udemy/)
+- [ideas to guide a customer through certain topics in a chatbot using embeddings?](https://www.reddit.com/r/Python/comments/12z2ffx/ideas_to_guide_a_customer_through_certain_topics/)
 - [Boost Python Automation Projects with These Essential Libraries](https://www.reddit.com/r/Python/comments/12z1kz9/boost_python_automation_projects_with_these/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/12z0gle/wednesday_daily_thread_beginner_questions/)
 - [My first Flask CRUD app :&rpar;](https://www.reddit.com/r/Python/comments/12yxtd7/my_first_flask_crud_app/)
-- [This editor is to Python what emacs is to Lisp...](https://www.reddit.com/r/Python/comments/12yxqse/this_editor_is_to_python_what_emacs_is_to_lisp/)
-- [dictf - An extended Python dict implementation that supports multiple key selection with a pretty syntax.](https://www.reddit.com/r/Python/comments/12ywtn8/dictf_an_extended_python_dict_implementation_that/)
 <!-- BLOG-POST-LIST:END -->
