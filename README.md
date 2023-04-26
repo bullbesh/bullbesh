@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I like my python projects to live like I do](https://www.reddit.com/r/Python/comments/12zigb4/i_like_my_python_projects_to_live_like_i_do/)
+- [Debugging a Mixed Python and C Language Stack](https://www.reddit.com/r/Python/comments/12zhl45/debugging_a_mixed_python_and_c_language_stack/)
 - [I wrote a Python stocks suggestions tool based on OpenAI&#39;s ChatGPT, would love to hear your feedback &amp; suggestions](https://www.reddit.com/r/Python/comments/12zgv73/i_wrote_a_python_stocks_suggestions_tool_based_on/)
 - [Machine Learning Made Easy With PyCaret](https://www.reddit.com/r/Python/comments/12zfqzs/machine_learning_made_easy_with_pycaret/)
-- [Why is it needed and where is it better to use function groupby in pandas?](https://www.reddit.com/r/Python/comments/12ze6nm/why_is_it_needed_and_where_is_it_better_to_use/)
 - [GitHub - mriale/PyDPainter: A usable pixel art paint program written in Python](https://www.reddit.com/r/Python/comments/12zcdir/github_mrialepydpainter_a_usable_pixel_art_paint/)
-- [🐍 Mastering Python and APIs: Unlock the Power of Web Services with this Comprehensive Guide 🔗🚀](https://www.reddit.com/r/Python/comments/12zbb0x/mastering_python_and_apis_unlock_the_power_of_web/)
 <!-- BLOG-POST-LIST:END -->
