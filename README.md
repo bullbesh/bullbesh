@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [best practices for classes](https://www.reddit.com/r/Python/comments/12zo8ny/best_practices_for_classes/)
+- [A Cheat Sheet on using OpenAI&#39;s API in Python &lpar;PDF Download Link&rpar;](https://www.reddit.com/r/Python/comments/12zmlge/a_cheat_sheet_on_using_openais_api_in_python_pdf/)
+- [PyChatErr: exception hook with ChatGPT enhancements](https://www.reddit.com/r/Python/comments/12zkpa6/pychaterr_exception_hook_with_chatgpt_enhancements/)
 - [Idea: Tracking ABI additions and changes for better pre-release wheel management](https://www.reddit.com/r/Python/comments/12zkfz6/idea_tracking_abi_additions_and_changes_for/)
 - [statsmodels Release Candidate 0.14.0rc0 tagged](https://www.reddit.com/r/Python/comments/12zkeoj/statsmodels_release_candidate_0140rc0_tagged/)
-- [My first real-world Python project is a comprehensive library for fetching IMF API data](https://www.reddit.com/r/Python/comments/12zk7q0/my_first_realworld_python_project_is_a/)
-- [How to make smooth lines in scatter plot?](https://www.reddit.com/r/Python/comments/12zk3qb/how_to_make_smooth_lines_in_scatter_plot/)
-- [🐍 Presenting to you pymodelio v1.1.1- A module for defining, serializing, deserializing and validating rich domain models 🐍](https://www.reddit.com/r/Python/comments/12zj91o/presenting_to_you_pymodelio_v111_a_module_for/)
 <!-- BLOG-POST-LIST:END -->
