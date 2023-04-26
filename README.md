@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SSL error in corporate laptop](https://www.reddit.com/r/Python/comments/12z4s40/ssl_error_in_corporate_laptop/)
 - [Zero to master python, Udemy](https://www.reddit.com/r/Python/comments/12z3bq8/zero_to_master_python_udemy/)
 - [ideas to guide a customer through certain topics in a chatbot using embeddings?](https://www.reddit.com/r/Python/comments/12z2ffx/ideas_to_guide_a_customer_through_certain_topics/)
 - [Boost Python Automation Projects with These Essential Libraries](https://www.reddit.com/r/Python/comments/12z1kz9/boost_python_automation_projects_with_these/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/12z0gle/wednesday_daily_thread_beginner_questions/)
-- [My first Flask CRUD app :&rpar;](https://www.reddit.com/r/Python/comments/12yxtd7/my_first_flask_crud_app/)
 <!-- BLOG-POST-LIST:END -->
