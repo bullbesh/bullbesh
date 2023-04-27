@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Search with LangChain, OpenAI, and Elasticsearch](https://www.reddit.com/r/Python/comments/130fexw/semantic_search_with_langchain_openai_and/)
+- [GitHub - csgoh/roadmapper: Roadmapper - A Roadmap as Code &lpar;Rac&rpar; python library. Generate professional roadmap diagram using python code.](https://www.reddit.com/r/Python/comments/130hpn4/github_csgohroadmapper_roadmapper_a_roadmap_as/)
 - [Request For Information: What are you using Supabase for? · Issue #424 · supabase-community/supabase-py](https://www.reddit.com/r/Python/comments/130f6qy/request_for_information_what_are_you_using/)
 - [Ultralearning](https://www.reddit.com/r/Python/comments/130e5cz/ultralearning/)
 - [I migrated PANhunt to Python 3 and need feedback](https://www.reddit.com/r/Python/comments/130dtab/i_migrated_panhunt_to_python_3_and_need_feedback/)
