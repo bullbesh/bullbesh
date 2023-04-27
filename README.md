@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Semantic Search with LangChain, OpenAI, and Elasticsearch](https://www.reddit.com/r/Python/comments/130fexw/semantic_search_with_langchain_openai_and/)
+- [Request For Information: What are you using Supabase for? · Issue #424 · supabase-community/supabase-py](https://www.reddit.com/r/Python/comments/130f6qy/request_for_information_what_are_you_using/)
 - [Ultralearning](https://www.reddit.com/r/Python/comments/130e5cz/ultralearning/)
 - [I migrated PANhunt to Python 3 and need feedback](https://www.reddit.com/r/Python/comments/130dtab/i_migrated_panhunt_to_python_3_and_need_feedback/)
 - [Python + containerd? Who might be interested?](https://www.reddit.com/r/Python/comments/130dev3/python_containerd_who_might_be_interested/)
-- [Python for Data Science: Unlocking the Power of NumPy, Pandas, and Matplotlib](https://www.reddit.com/r/Python/comments/130c4ko/python_for_data_science_unlocking_the_power_of/)
-- [How long did it take you to code by second nature?](https://www.reddit.com/r/Python/comments/13084ts/how_long_did_it_take_you_to_code_by_second_nature/)
 <!-- BLOG-POST-LIST:END -->
