@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using AI to find and explain bugs in Python code](https://www.reddit.com/r/Python/comments/13050lv/using_ai_to_find_and_explain_bugs_in_python_code/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1303x3j/thursday_daily_thread_python_careers_courses_and/)
 - [I made a code analysis and submission tool in Python](https://www.reddit.com/r/Python/comments/1301enz/i_made_a_code_analysis_and_submission_tool_in/)
 - [urllib3 v2.0.0 is now generally available!](https://www.reddit.com/r/Python/comments/12zrs9n/urllib3_v200_is_now_generally_available/)
 - [You wrote some code but it was waste](https://www.reddit.com/r/Python/comments/12zpfam/you_wrote_some_code_but_it_was_waste/)
-- [A Cheat Sheet on using OpenAI&#39;s API in Python &lpar;PDF Download Link&rpar;](https://www.reddit.com/r/Python/comments/12zmlge/a_cheat_sheet_on_using_openais_api_in_python_pdf/)
-- [PyChatErr: exception hook with ChatGPT enhancements](https://www.reddit.com/r/Python/comments/12zkpa6/pychaterr_exception_hook_with_chatgpt_enhancements/)
 <!-- BLOG-POST-LIST:END -->
