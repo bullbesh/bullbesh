@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [How long did it take you to code by second nature?](https://www.reddit.com/r/Python/comments/13084ts/how_long_did_it_take_you_to_code_by_second_nature/)
-- [Can I do this?](https://www.reddit.com/r/Python/comments/1306g65/can_i_do_this/)
-- [Python for beginners](https://www.reddit.com/r/Python/comments/130638p/python_for_beginners/)
 - [Yeah so I made a clicker game its pretty bad](https://www.reddit.com/r/Python/comments/1305vb6/yeah_so_i_made_a_clicker_game_its_pretty_bad/)
 - [Using AI to find and explain bugs in Python code](https://www.reddit.com/r/Python/comments/13050lv/using_ai_to_find_and_explain_bugs_in_python_code/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1303x3j/thursday_daily_thread_python_careers_courses_and/)
+- [I made a code analysis and submission tool in Python](https://www.reddit.com/r/Python/comments/1301enz/i_made_a_code_analysis_and_submission_tool_in/)
 <!-- BLOG-POST-LIST:END -->
