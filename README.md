@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python resume projects?](https://www.reddit.com/r/Python/comments/13187gs/python_resume_projects/)
 - [Convert Excel to csv using Python multiprocessing](https://www.reddit.com/r/Python/comments/1313uvl/convert_excel_to_csv_using_python_multiprocessing/)
 - [Overcome Your Data Quality Issues with Great Expectations](https://www.reddit.com/r/Python/comments/1310bvr/overcome_your_data_quality_issues_with_great/)
 - [Introducing pyeaze: A Python package for creating smooth, customizable animations!](https://www.reddit.com/r/Python/comments/130yxaf/introducing_pyeaze_a_python_package_for_creating/)
 - [YOLOv8 running on MacOS at 10FPS using Modular Open SourceAS-One Library](https://www.reddit.com/r/Python/comments/130wpn2/yolov8_running_on_macos_at_10fps_using_modular/)
-- [NiceGUI 1.2.10 with improved bindings, ui.grid, ui.chat_message and more](https://www.reddit.com/r/Python/comments/130toef/nicegui_1210_with_improved_bindings_uigrid_uichat/)
 <!-- BLOG-POST-LIST:END -->
