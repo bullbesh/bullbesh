@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Stream episode 5 Essential Python Developer Tools by Deepak Garhwal podcast](https://www.reddit.com/r/Python/comments/131n9jh/stream_episode_5_essential_python_developer_tools/)
+- [Why is poetry such a mess?](https://www.reddit.com/r/Python/comments/131snt9/why_is_poetry_such_a_mess/)
+- [Python installation and usage guide for newbies who wants to be able to have multiple Python versions, make venv and use them to run Machine Learning and AI projects posted on Git repositories - prepared for 100% newbies](https://www.reddit.com/r/Python/comments/131rxzb/python_installation_and_usage_guide_for_newbies/)
+- [Building CLIs with Typer and Hydra](https://www.reddit.com/r/Python/comments/131ronx/building_clis_with_typer_and_hydra/)
 - [Piperoni ~ Create your business process diagrams with words!](https://www.reddit.com/r/Python/comments/131myf1/piperoni_create_your_business_process_diagrams/)
 - [Web Scraping LinkedIn with Python - a guide from pro scraper with ethical nuances](https://www.reddit.com/r/Python/comments/131m702/web_scraping_linkedin_with_python_a_guide_from/)
-- [Cerbos Python Demo - Holiday request system authZ showcase solution.](https://www.reddit.com/r/Python/comments/131m6ec/cerbos_python_demo_holiday_request_system_authz/)
-- [Introducing Socon: Socon enables you to create a generic framework structure for all your different projects.](https://www.reddit.com/r/Python/comments/131lfa4/introducing_socon_socon_enables_you_to_create_a/)
 <!-- BLOG-POST-LIST:END -->
