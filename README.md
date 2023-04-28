@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Project Ragaz - A fast, safe and powerful pythonic compiler which aims allow you to create simple scripts to complex systems in a code easier to read, write and maintain than other system languages with the same purpose.](https://www.reddit.com/r/Python/comments/1329mfw/introducing_project_ragaz_a_fast_safe_and/)
 - [GitHub - kagisearch/pyllms: Minimal Python library to connect to LLMs &lpar;OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, with a built-in model performance benchmark.](https://www.reddit.com/r/Python/comments/1326gpo/github_kagisearchpyllms_minimal_python_library_to/)
 - [SQLModel or SQLAlchemy for big data analysis application?](https://www.reddit.com/r/Python/comments/13260j3/sqlmodel_or_sqlalchemy_for_big_data_analysis/)
 - [Furthering my Knowledge](https://www.reddit.com/r/Python/comments/1325yq8/furthering_my_knowledge/)
 - [What do I do next?](https://www.reddit.com/r/Python/comments/1325pcc/what_do_i_do_next/)
-- [We are building Lamini - Can we rapidly achieve ChatGPT performance with an LLM Engine embedding in Python?](https://www.reddit.com/r/Python/comments/1322c2p/we_are_building_lamini_can_we_rapidly_achieve/)
 <!-- BLOG-POST-LIST:END -->
