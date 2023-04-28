@@ -11,6 +11,6 @@
 - [What do you think of my first thing that I coded.](https://www.reddit.com/r/Python/comments/131gee4/what_do_you_think_of_my_first_thing_that_i_coded/)
 - [Open Source AI](https://www.reddit.com/r/Python/comments/131g4rx/open_source_ai/)
 - [Introducing LLMChess: Play Chess Against GPT-3.5-turbo and GPT-4 Powered AI - Open Source and Ready for Action!](https://www.reddit.com/r/Python/comments/131fgz6/introducing_llmchess_play_chess_against/)
-- [FILL THIS OUT FOR MY SCHOOL PROJECT](https://www.reddit.com/r/Python/comments/131drur/fill_this_out_for_my_school_project/)
 - [I created smooth_lines python module, great for drawing software](https://www.reddit.com/r/Python/comments/131dfk9/i_created_smooth_lines_python_module_great_for/)
+- [Open-source collaboration](https://www.reddit.com/r/Python/comments/131bqkj/opensource_collaboration/)
 <!-- BLOG-POST-LIST:END -->
