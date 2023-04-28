@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [We are building Lamini - Can we rapidly achieve ChatGPT performance with an LLM Engine embedding in Python?](https://www.reddit.com/r/Python/comments/1322c2p/we_are_building_lamini_can_we_rapidly_achieve/)
-- [Building your own defaultdict](https://www.reddit.com/r/Python/comments/131t4fs/building_your_own_defaultdict/)
-- [Why is poetry such a mess?](https://www.reddit.com/r/Python/comments/131snt9/why_is_poetry_such_a_mess/)
-- [Python installation and usage guide for newbies who wants to be able to have multiple Python versions, make venv and use them to run Machine Learning and AI projects posted on Git repositories - prepared for 100% newbies](https://www.reddit.com/r/Python/comments/131rxzb/python_installation_and_usage_guide_for_newbies/)
-- [Building CLIs with Typer and Hydra](https://www.reddit.com/r/Python/comments/131ronx/building_clis_with_typer_and_hydra/)
+- [GitHub - kagisearch/pyllms: Minimal Python library to connect to LLMs &lpar;OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, with a built-in model performance benchmark.](https://www.reddit.com/r/Python/comments/1326gpo/github_kagisearchpyllms_minimal_python_library_to/)
+- [SQLModel or SQLAlchemy for big data analysis application?](https://www.reddit.com/r/Python/comments/13260j3/sqlmodel_or_sqlalchemy_for_big_data_analysis/)
+- [Furthering my Knowledge](https://www.reddit.com/r/Python/comments/1325yq8/furthering_my_knowledge/)
+- [❤️ Master Regular Expressions &amp; Unlock Text Manipulation Power! | Back without so many ads…](https://www.reddit.com/r/Python/comments/1325wpe/master_regular_expressions_unlock_text/)
+- [What do I do next?](https://www.reddit.com/r/Python/comments/1325pcc/what_do_i_do_next/)
 <!-- BLOG-POST-LIST:END -->
