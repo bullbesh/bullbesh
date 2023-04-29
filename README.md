@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Making My PC As Server For Hosting My Django Website](https://www.reddit.com/r/Python/comments/1331847/making_my_pc_as_server_for_hosting_my_django/)
+- [Getting Started with pdoc3 for Python project documentation](https://www.reddit.com/r/Python/comments/13308nv/getting_started_with_pdoc3_for_python_project/)
 - [Full-length tutorial on adding automated CI &lpar;continuous integration&rpar; to your Python projects with GitHub Actions](https://www.reddit.com/r/Python/comments/132tpyi/fulllength_tutorial_on_adding_automated_ci/)
 - [[Discussion] Exploring the Multiverse of Python Frameworks: Share Your Experiences and Insights!](https://www.reddit.com/r/Python/comments/132rnui/discussion_exploring_the_multiverse_of_python/)
 - [What&#39;s up in the Python community? - April 2023](https://www.reddit.com/r/Python/comments/132r0th/whats_up_in_the_python_community_april_2023/)
-- [AI-driven Porsche Classifier!](https://www.reddit.com/r/Python/comments/132pqe9/aidriven_porsche_classifier/)
-- [Cryptical: A GUI Password Manager, written in Python](https://www.reddit.com/r/Python/comments/132mkq9/cryptical_a_gui_password_manager_written_in_python/)
 <!-- BLOG-POST-LIST:END -->
