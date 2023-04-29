@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solarflare Updates](https://www.reddit.com/r/Python/comments/1333g5b/solarflare_updates/)
 - [Introducing surveydown - an open source, markdown-based survey framework &lpar;that doesn’t exist yet&rpar;](https://www.reddit.com/r/Python/comments/1332tsx/introducing_surveydown_an_open_source/)
 - [GitHub - scipopt/PySCIPOpt: Python interface for the SCIP Optimization Suite](https://www.reddit.com/r/Python/comments/1331j8k/github_scipoptpyscipopt_python_interface_for_the/)
 - [Making My PC As Server For Hosting My Django Website](https://www.reddit.com/r/Python/comments/1331847/making_my_pc_as_server_for_hosting_my_django/)
 - [Getting Started with pdoc3 for Python project documentation](https://www.reddit.com/r/Python/comments/13308nv/getting_started_with_pdoc3_for_python_project/)
-- [Full-length tutorial on adding automated CI &lpar;continuous integration&rpar; to your Python projects with GitHub Actions](https://www.reddit.com/r/Python/comments/132tpyi/fulllength_tutorial_on_adding_automated_ci/)
 <!-- BLOG-POST-LIST:END -->
