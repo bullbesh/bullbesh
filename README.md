@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s up in the Python community? - April 2023](https://www.reddit.com/r/Python/comments/132r0th/whats_up_in_the_python_community_april_2023/)
 - [AI-driven Porsche Classifier!](https://www.reddit.com/r/Python/comments/132pqe9/aidriven_porsche_classifier/)
 - [Cryptical: A GUI Password Manager, written in Python](https://www.reddit.com/r/Python/comments/132mkq9/cryptical_a_gui_password_manager_written_in_python/)
 - [How To Convert Bytes To A String - Different Methods Explained](https://www.reddit.com/r/Python/comments/132lalb/how_to_convert_bytes_to_a_string_different/)
 - [How do you feel about vendored packages?](https://www.reddit.com/r/Python/comments/132jk6l/how_do_you_feel_about_vendored_packages/)
-- [I tried to make automated YouTube videos using python](https://www.reddit.com/r/Python/comments/132ichv/i_tried_to_make_automated_youtube_videos_using/)
 <!-- BLOG-POST-LIST:END -->
