@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [A minimal example showing how to set up rust bindings into your python package with poetry!](https://www.reddit.com/r/Python/comments/132dxix/a_minimal_example_showing_how_to_set_up_rust/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/132duia/saturday_daily_thread_resource_request_and/)
-- [Introducing Project Ragaz - A fast, safe and powerful pythonic compiler which aims allow you to create simple scripts to complex systems in a code easier to read, write and maintain than other system languages with the same purpose.](https://www.reddit.com/r/Python/comments/1329mfw/introducing_project_ragaz_a_fast_safe_and/)
 - [GitHub - kagisearch/pyllms: Minimal Python library to connect to LLMs &lpar;OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, with a built-in model performance benchmark.](https://www.reddit.com/r/Python/comments/1326gpo/github_kagisearchpyllms_minimal_python_library_to/)
 - [SQLModel or SQLAlchemy for big data analysis application?](https://www.reddit.com/r/Python/comments/13260j3/sqlmodel_or_sqlalchemy_for_big_data_analysis/)
+- [We are building Lamini - Can we rapidly achieve ChatGPT performance with an LLM Engine embedding in Python?](https://www.reddit.com/r/Python/comments/1322c2p/we_are_building_lamini_can_we_rapidly_achieve/)
 <!-- BLOG-POST-LIST:END -->
