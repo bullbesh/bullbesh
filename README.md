@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [You can&#39;t use pip on Ubuntu 23.04 anymore](https://www.reddit.com/r/Python/comments/1338oge/you_cant_use_pip_on_ubuntu_2304_anymore/)
 - [Python - You need to know Map&lpar;&rpar; Function!](https://www.reddit.com/r/Python/comments/1337fr4/python_you_need_to_know_map_function/)
 - [An CLI Application to Track Expenses and Budgets](https://www.reddit.com/r/Python/comments/13352uu/an_cli_application_to_track_expenses_and_budgets/)
 - [Quantum Machine Learning —Advanced Project Tutorial](https://www.reddit.com/r/Python/comments/1334u5s/quantum_machine_learning_advanced_project_tutorial/)
 - [Solarflare Updates](https://www.reddit.com/r/Python/comments/1333g5b/solarflare_updates/)
-- [Introducing surveydown - an open source, markdown-based survey framework &lpar;that doesn’t exist yet&rpar;](https://www.reddit.com/r/Python/comments/1332tsx/introducing_surveydown_an_open_source/)
 <!-- BLOG-POST-LIST:END -->
