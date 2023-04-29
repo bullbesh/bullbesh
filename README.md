@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Code for lists.](https://www.reddit.com/r/Python/comments/132a2bs/code_for_lists/)
+- [A minimal example showing how to set up rust bindings into your python package with poetry!](https://www.reddit.com/r/Python/comments/132dxix/a_minimal_example_showing_how_to_set_up_rust/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/132duia/saturday_daily_thread_resource_request_and/)
 - [Introducing Project Ragaz - A fast, safe and powerful pythonic compiler which aims allow you to create simple scripts to complex systems in a code easier to read, write and maintain than other system languages with the same purpose.](https://www.reddit.com/r/Python/comments/1329mfw/introducing_project_ragaz_a_fast_safe_and/)
 - [GitHub - kagisearch/pyllms: Minimal Python library to connect to LLMs &lpar;OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, with a built-in model performance benchmark.](https://www.reddit.com/r/Python/comments/1326gpo/github_kagisearchpyllms_minimal_python_library_to/)
 - [SQLModel or SQLAlchemy for big data analysis application?](https://www.reddit.com/r/Python/comments/13260j3/sqlmodel_or_sqlalchemy_for_big_data_analysis/)
-- [Furthering my Knowledge](https://www.reddit.com/r/Python/comments/1325yq8/furthering_my_knowledge/)
 <!-- BLOG-POST-LIST:END -->
