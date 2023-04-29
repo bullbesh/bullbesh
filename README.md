@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Full-length tutorial on adding automated CI &lpar;continuous integration&rpar; to your Python projects with GitHub Actions](https://www.reddit.com/r/Python/comments/132tpyi/fulllength_tutorial_on_adding_automated_ci/)
-- [How datacamps and dataquests query/answer control logic works](https://www.reddit.com/r/Python/comments/132s6k8/how_datacamps_and_dataquests_queryanswer_control/)
 - [[Discussion] Exploring the Multiverse of Python Frameworks: Share Your Experiences and Insights!](https://www.reddit.com/r/Python/comments/132rnui/discussion_exploring_the_multiverse_of_python/)
 - [What&#39;s up in the Python community? - April 2023](https://www.reddit.com/r/Python/comments/132r0th/whats_up_in_the_python_community_april_2023/)
 - [AI-driven Porsche Classifier!](https://www.reddit.com/r/Python/comments/132pqe9/aidriven_porsche_classifier/)
+- [Cryptical: A GUI Password Manager, written in Python](https://www.reddit.com/r/Python/comments/132mkq9/cryptical_a_gui_password_manager_written_in_python/)
 <!-- BLOG-POST-LIST:END -->
