@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which IDE is your favorite? And which IDE would you recommend for trading](https://www.reddit.com/r/Python/comments/133yywv/which_ide_is_your_favorite_and_which_ide_would/)
+- [Adding Virtual Environments to Git Repo](https://www.reddit.com/r/Python/comments/133y7ij/adding_virtual_environments_to_git_repo/)
 - [Just finished my first beginner python course](https://www.reddit.com/r/Python/comments/133vso2/just_finished_my_first_beginner_python_course/)
 - [Playing Badapple on github contribution Calendar](https://www.reddit.com/r/Python/comments/133v1vz/playing_badapple_on_github_contribution_calendar/)
 - [Number Swapping Tutorial](https://www.reddit.com/r/Python/comments/133usxa/number_swapping_tutorial/)
-- [Linker.js: Link Python libraries from Node.js](https://www.reddit.com/r/Python/comments/133tej0/linkerjs_link_python_libraries_from_nodejs/)
-- [I made a package for building CLI that infers everything from function signature and type annotations.](https://www.reddit.com/r/Python/comments/133sh0v/i_made_a_package_for_building_cli_that_infers/)
 <!-- BLOG-POST-LIST:END -->
