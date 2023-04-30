@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just finished my first beginner python course](https://www.reddit.com/r/Python/comments/133vso2/just_finished_my_first_beginner_python_course/)
+- [Playing Badapple on github contribution Calendar](https://www.reddit.com/r/Python/comments/133v1vz/playing_badapple_on_github_contribution_calendar/)
+- [Hello everyone](https://www.reddit.com/r/Python/comments/133v1uy/hello_everyone/)
+- [Number Swapping Tutorial](https://www.reddit.com/r/Python/comments/133usxa/number_swapping_tutorial/)
 - [🌟 Python &amp; Blockchain: Develop Decentralized Apps with Smart Contracts | Solidity](https://www.reddit.com/r/Python/comments/133tj8e/python_blockchain_develop_decentralized_apps_with/)
-- [Linker.js: Link Python libraries from Node.js](https://www.reddit.com/r/Python/comments/133tej0/linkerjs_link_python_libraries_from_nodejs/)
-- [I made a package for building CLI that infers everything from function signature and type annotations.](https://www.reddit.com/r/Python/comments/133sh0v/i_made_a_package_for_building_cli_that_infers/)
-- [15 Project Ideas for Developers: From Easy to Hard](https://www.reddit.com/r/Python/comments/133rf9t/15_project_ideas_for_developers_from_easy_to_hard/)
-- [Frogmouth - A Markdown browser for your terminal](https://www.reddit.com/r/Python/comments/133par1/frogmouth_a_markdown_browser_for_your_terminal/)
 <!-- BLOG-POST-LIST:END -->
