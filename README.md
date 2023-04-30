@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I found this Video helpful for data science beginners](https://www.reddit.com/r/Python/comments/133f9ny/i_found_this_video_helpful_for_data_science/)
+- [Improving code](https://www.reddit.com/r/Python/comments/133hidh/improving_code/)
 - [Help for a beginner](https://www.reddit.com/r/Python/comments/133e57k/help_for_a_beginner/)
-- [I found this Video helpful for data science beginners](https://www.reddit.com/r/Python/comments/133bxks/i_found_this_video_helpful_for_data_science/)
 - [Python Scrapper for dice.com with Litestar](https://www.reddit.com/r/Python/comments/133bkke/python_scrapper_for_dicecom_with_litestar/)
 - [Want an advice](https://www.reddit.com/r/Python/comments/133bjbj/want_an_advice/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/133amkc/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
