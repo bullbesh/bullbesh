@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Play Videos In Terminal](https://www.reddit.com/r/Python/comments/133jb4n/play_videos_in_terminal/)
+- [How to Use Hashing Functions in Python](https://www.reddit.com/r/Python/comments/133j5v7/how_to_use_hashing_functions_in_python/)
 - [What&#39;s wrong with my code?](https://www.reddit.com/r/Python/comments/133i63n/whats_wrong_with_my_code/)
 - [Linear programming for employee schedule](https://www.reddit.com/r/Python/comments/133i57n/linear_programming_for_employee_schedule/)
 - [Python Scrapper for dice.com with Litestar](https://www.reddit.com/r/Python/comments/133bkke/python_scrapper_for_dicecom_with_litestar/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/133amkc/sunday_daily_thread_whats_everyone_working_on/)
-- [You can&#39;t use pip on Ubuntu 23.04 anymore](https://www.reddit.com/r/Python/comments/1338oge/you_cant_use_pip_on_ubuntu_2304_anymore/)
 <!-- BLOG-POST-LIST:END -->
