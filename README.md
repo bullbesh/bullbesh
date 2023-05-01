@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PYTHON tkinter GUI from JobinPy](https://www.reddit.com/r/Python/comments/134bhwu/python_tkinter_gui_from_jobinpy/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/13472vn/monday_daily_thread_project_ideas/)
 - [I&#39;ve just created a Python app for Lyrics finding.](https://www.reddit.com/r/Python/comments/1344127/ive_just_created_a_python_app_for_lyrics_finding/)
 - [My Favorite Technical Interview](https://www.reddit.com/r/Python/comments/13434z1/my_favorite_technical_interview/)
 - [Polars with MYSQL](https://www.reddit.com/r/Python/comments/13421fr/polars_with_mysql/)
-- [A Pure Python 2D and 3D Graphics Library that output to BMP format](https://www.reddit.com/r/Python/comments/1341ep0/a_pure_python_2d_and_3d_graphics_library_that/)
 <!-- BLOG-POST-LIST:END -->
