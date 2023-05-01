@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Sep vs end in python print function](https://www.reddit.com/r/Python/comments/134m2qd/sep_vs_end_in_python_print_function/)
-- [Effortlessly update Your Spotify Playlists daily with This Simple Tool](https://www.reddit.com/r/Python/comments/134l1dj/effortlessly_update_your_spotify_playlists_daily/)
-- [An AI assistant inspired by The Machine and Samaritan from Person of Interest.](https://www.reddit.com/r/Python/comments/134kkpv/an_ai_assistant_inspired_by_the_machine_and/)
-- [Creating a Python Virtual Environment and Installing requirements for Running a Flask App on Windows](https://www.reddit.com/r/Python/comments/134k4mi/creating_a_python_virtual_environment_and/)
-- [Made a Free Proxy Rotator library](https://www.reddit.com/r/Python/comments/134jgiu/made_a_free_proxy_rotator_library/)
+- [Python&#39;s Missing Batteries: Essential Libraries You&#39;re Missing Out On](https://www.reddit.com/r/Python/comments/134p541/pythons_missing_batteries_essential_libraries/)
+- [Wandering Wilderness](https://www.reddit.com/r/Python/comments/134ox4w/wandering_wilderness/)
+- [Profiling Memory usage across time with psutil](https://www.reddit.com/r/Python/comments/134ob8h/profiling_memory_usage_across_time_with_psutil/)
+- [Analysis of Polish programmers&#39; salaries](https://www.reddit.com/r/Python/comments/134o1ld/analysis_of_polish_programmers_salaries/)
+- [Python Package Index Malware Scanning · It Will Never Work in Theory](https://www.reddit.com/r/Python/comments/134ntgp/python_package_index_malware_scanning_it_will/)
 <!-- BLOG-POST-LIST:END -->
