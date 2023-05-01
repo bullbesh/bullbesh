@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas Inplace Warning](https://www.reddit.com/r/Python/comments/1350eu1/pandas_inplace_warning/)
+- [A website to learn Python, like datacamp, but free?](https://www.reddit.com/r/Python/comments/135087z/a_website_to_learn_python_like_datacamp_but_free/)
 - [Goodbye to Flake8 and PyLint: faster linting with Ruff](https://www.reddit.com/r/Python/comments/134zkvd/goodbye_to_flake8_and_pylint_faster_linting_with/)
 - [SOAP/REST project refactoring. Looking for &#39;pythonic&#39; framework / model for coding guidelines and good practices](https://www.reddit.com/r/Python/comments/134ytcw/soaprest_project_refactoring_looking_for_pythonic/)
 - [&quot;Hello World&quot; with Langchain and Python](https://www.reddit.com/r/Python/comments/134x8v7/hello_world_with_langchain_and_python/)
-- [Q/A over Documents using Langchain + Milvus](https://www.reddit.com/r/Python/comments/134x43c/qa_over_documents_using_langchain_milvus/)
-- [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe now for tomorrow&#39;s release](https://www.reddit.com/r/Python/comments/134vu5o/the_python_on_microcontrollers_newsletter_a_free/)
 <!-- BLOG-POST-LIST:END -->
