@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [codium show error in linux &lpar;is my code is wrong or what&rpar;](https://www.reddit.com/r/Python/comments/134snyv/codium_show_error_in_linux_is_my_code_is_wrong_or/)
-- [Basic function](https://www.reddit.com/r/Python/comments/134r9xt/basic_function/)
-- [Generating Vector Tiles with PostGIS and Python for OpenLayers Map Rendering](https://www.reddit.com/r/Python/comments/134q9fs/generating_vector_tiles_with_postgis_and_python/)
-- [Seasoned python dev looking for work - first timer to the marketplace, need some guidance on digging up side work!](https://www.reddit.com/r/Python/comments/134pnmr/seasoned_python_dev_looking_for_work_first_timer/)
-- [Python&#39;s Missing Batteries: Essential Libraries You&#39;re Missing Out On](https://www.reddit.com/r/Python/comments/134p541/pythons_missing_batteries_essential_libraries/)
+- [Merge two sliders in Tkinter ?](https://www.reddit.com/r/Python/comments/134wxbg/merge_two_sliders_in_tkinter/)
+- [$$$ A REAL WORLD, EVER INCREASING MONETARY BOUNTY FOR THE LOCATION OF A SINGLE GOLDEN STAR!!!](https://www.reddit.com/r/Python/comments/134wse1/a_real_world_ever_increasing_monetary_bounty_for/)
+- [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe now for tomorrow&#39;s release](https://www.reddit.com/r/Python/comments/134vu5o/the_python_on_microcontrollers_newsletter_a_free/)
+- [1 to 1 color conversion. DeltaE CIE 2000 distance. ...](https://www.reddit.com/r/Python/comments/134u01v/1_to_1_color_conversion_deltae_cie_2000_distance/)
+- [1 to 1 color conversion, DeltaE CIE 2000 distance.](https://www.reddit.com/r/Python/comments/134tqah/1_to_1_color_conversion_deltae_cie_2000_distance/)
 <!-- BLOG-POST-LIST:END -->
