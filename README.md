@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Suggestion needed regarding python debugger](https://www.reddit.com/r/Python/comments/134y0nx/suggestion_needed_regarding_python_debugger/)
+- [&quot;Hello World&quot; with Langchain and Python](https://www.reddit.com/r/Python/comments/134x8v7/hello_world_with_langchain_and_python/)
+- [Q/A over Documents using Langchain + Milvus](https://www.reddit.com/r/Python/comments/134x43c/qa_over_documents_using_langchain_milvus/)
 - [Merge two sliders in Tkinter ?](https://www.reddit.com/r/Python/comments/134wxbg/merge_two_sliders_in_tkinter/)
-- [$$$ A REAL WORLD, EVER INCREASING MONETARY BOUNTY FOR THE LOCATION OF A SINGLE GOLDEN STAR!!!](https://www.reddit.com/r/Python/comments/134wse1/a_real_world_ever_increasing_monetary_bounty_for/)
 - [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe now for tomorrow&#39;s release](https://www.reddit.com/r/Python/comments/134vu5o/the_python_on_microcontrollers_newsletter_a_free/)
-- [1 to 1 color conversion. DeltaE CIE 2000 distance. ...](https://www.reddit.com/r/Python/comments/134u01v/1_to_1_color_conversion_deltae_cie_2000_distance/)
-- [1 to 1 color conversion, DeltaE CIE 2000 distance.](https://www.reddit.com/r/Python/comments/134tqah/1_to_1_color_conversion_deltae_cie_2000_distance/)
 <!-- BLOG-POST-LIST:END -->
