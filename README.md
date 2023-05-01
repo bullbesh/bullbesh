@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Suggestion needed regarding python debugger](https://www.reddit.com/r/Python/comments/134y0nx/suggestion_needed_regarding_python_debugger/)
+- [Goodbye to Flake8 and PyLint: faster linting with Ruff](https://www.reddit.com/r/Python/comments/134zkvd/goodbye_to_flake8_and_pylint_faster_linting_with/)
+- [SOAP/REST project refactoring. Looking for &#39;pythonic&#39; framework / model for coding guidelines and good practices](https://www.reddit.com/r/Python/comments/134ytcw/soaprest_project_refactoring_looking_for_pythonic/)
 - [&quot;Hello World&quot; with Langchain and Python](https://www.reddit.com/r/Python/comments/134x8v7/hello_world_with_langchain_and_python/)
 - [Q/A over Documents using Langchain + Milvus](https://www.reddit.com/r/Python/comments/134x43c/qa_over_documents_using_langchain_milvus/)
-- [Merge two sliders in Tkinter ?](https://www.reddit.com/r/Python/comments/134wxbg/merge_two_sliders_in_tkinter/)
 - [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe now for tomorrow&#39;s release](https://www.reddit.com/r/Python/comments/134vu5o/the_python_on_microcontrollers_newsletter_a_free/)
 <!-- BLOG-POST-LIST:END -->
