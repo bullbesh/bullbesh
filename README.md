@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom terminal made in python](https://www.reddit.com/r/Python/comments/1351m36/custom_terminal_made_in_python/)
 - [Pandas Inplace Warning](https://www.reddit.com/r/Python/comments/1350eu1/pandas_inplace_warning/)
 - [A website to learn Python, like datacamp, but free?](https://www.reddit.com/r/Python/comments/135087z/a_website_to_learn_python_like_datacamp_but_free/)
 - [Goodbye to Flake8 and PyLint: faster linting with Ruff](https://www.reddit.com/r/Python/comments/134zkvd/goodbye_to_flake8_and_pylint_faster_linting_with/)
 - [SOAP/REST project refactoring. Looking for &#39;pythonic&#39; framework / model for coding guidelines and good practices](https://www.reddit.com/r/Python/comments/134ytcw/soaprest_project_refactoring_looking_for_pythonic/)
-- [&quot;Hello World&quot; with Langchain and Python](https://www.reddit.com/r/Python/comments/134x8v7/hello_world_with_langchain_and_python/)
 <!-- BLOG-POST-LIST:END -->
