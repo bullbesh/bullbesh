@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - cmdjulian/mopy: mopy is a buildkit frontend to automatically build high efficient python based docker images in a custom dsl - no more docker specific skills required! 🐋](https://www.reddit.com/r/Python/comments/134idqq/github_cmdjulianmopy_mopy_is_a_buildkit_frontend/)
 - [Python &amp; Data Structures Roadmap for Absolute Beginners, Non-Tech Professionals, 15+ Projects, 30 Topics, 500+ Practice Questions](https://www.reddit.com/r/Python/comments/134gjps/python_data_structures_roadmap_for_absolute/)
 - [How to Generate Pandas Code with LLM Tools like ChatGPT](https://www.reddit.com/r/Python/comments/134gi9x/how_to_generate_pandas_code_with_llm_tools_like/)
 - [Elegantly Handle Environment Variables in Python with Pydantic](https://www.reddit.com/r/Python/comments/134g767/elegantly_handle_environment_variables_in_python/)
 - [my first python script buys or sells dogecoin based on my twitter follower count](https://www.reddit.com/r/Python/comments/134f34l/my_first_python_script_buys_or_sells_dogecoin/)
-- [PYTHON tkinter GUI from JobinPy](https://www.reddit.com/r/Python/comments/134bhwu/python_tkinter_gui_from_jobinpy/)
 <!-- BLOG-POST-LIST:END -->
