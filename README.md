@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generating Vector Tiles with PostGIS and Python for OpenLayers Map Rendering](https://www.reddit.com/r/Python/comments/134q9fs/generating_vector_tiles_with_postgis_and_python/)
+- [Seasoned python dev looking for work - first timer to the marketplace, need some guidance on digging up side work!](https://www.reddit.com/r/Python/comments/134pnmr/seasoned_python_dev_looking_for_work_first_timer/)
 - [Python&#39;s Missing Batteries: Essential Libraries You&#39;re Missing Out On](https://www.reddit.com/r/Python/comments/134p541/pythons_missing_batteries_essential_libraries/)
 - [Wandering Wilderness](https://www.reddit.com/r/Python/comments/134ox4w/wandering_wilderness/)
 - [Profiling Memory usage across time with psutil](https://www.reddit.com/r/Python/comments/134ob8h/profiling_memory_usage_across_time_with_psutil/)
-- [Analysis of Polish programmers&#39; salaries](https://www.reddit.com/r/Python/comments/134o1ld/analysis_of_polish_programmers_salaries/)
-- [Python Package Index Malware Scanning · It Will Never Work in Theory](https://www.reddit.com/r/Python/comments/134ntgp/python_package_index_malware_scanning_it_will/)
 <!-- BLOG-POST-LIST:END -->
