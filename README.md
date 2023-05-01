@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sep vs end in python print function](https://www.reddit.com/r/Python/comments/134m2qd/sep_vs_end_in_python_print_function/)
 - [Effortlessly update Your Spotify Playlists daily with This Simple Tool](https://www.reddit.com/r/Python/comments/134l1dj/effortlessly_update_your_spotify_playlists_daily/)
 - [An AI assistant inspired by The Machine and Samaritan from Person of Interest.](https://www.reddit.com/r/Python/comments/134kkpv/an_ai_assistant_inspired_by_the_machine_and/)
 - [Creating a Python Virtual Environment and Installing requirements for Running a Flask App on Windows](https://www.reddit.com/r/Python/comments/134k4mi/creating_a_python_virtual_environment_and/)
 - [Made a Free Proxy Rotator library](https://www.reddit.com/r/Python/comments/134jgiu/made_a_free_proxy_rotator_library/)
-- [Python &amp; Data Structures Roadmap for Absolute Beginners, Non-Tech Professionals, 15+ Projects, 30 Topics, 500+ Practice Questions](https://www.reddit.com/r/Python/comments/134gjps/python_data_structures_roadmap_for_absolute/)
 <!-- BLOG-POST-LIST:END -->
