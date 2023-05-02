@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Say goodbye to Python, Julia, C++, and say hello to Mojo 🔥](https://www.reddit.com/r/Python/comments/135vgr1/say_goodbye_to_python_julia_c_and_say_hello_to/)
 - [INSTLD: The runtime dependensy management](https://www.reddit.com/r/Python/comments/135svmg/instld_the_runtime_dependensy_management/)
 - [easy-reed | a config module to help configure multiple packages across multiple environments, all in a single file](https://www.reddit.com/r/Python/comments/135sh79/easyreed_a_config_module_to_help_configure/)
 - [I recorded a tutorial type Python Exploratory Data Analysis video using Pandas, Numpy, Matplotlib and Seaborn libraries and uploaded it on Youtube](https://www.reddit.com/r/Python/comments/135qds9/i_recorded_a_tutorial_type_python_exploratory/)
 - [Looking for a Study Buddy](https://www.reddit.com/r/Python/comments/135ouqw/looking_for_a_study_buddy/)
-- [Day 2: Strings | The Bear and Steady Genes](https://www.reddit.com/r/Python/comments/135lgrp/day_2_strings_the_bear_and_steady_genes/)
 <!-- BLOG-POST-LIST:END -->
