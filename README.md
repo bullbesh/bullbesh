@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1355kwt/tuesday_daily_thread_advanced_questions/)
 - [Unleashing the Power of Async/Await in Python](https://www.reddit.com/r/Python/comments/1354bff/unleashing_the_power_of_asyncawait_in_python/)
 - [Custom terminal made in python](https://www.reddit.com/r/Python/comments/1351m36/custom_terminal_made_in_python/)
 - [Pandas Inplace Warning](https://www.reddit.com/r/Python/comments/1350eu1/pandas_inplace_warning/)
 - [A website to learn Python, like datacamp, but free?](https://www.reddit.com/r/Python/comments/135087z/a_website_to_learn_python_like_datacamp_but_free/)
-- [Goodbye to Flake8 and PyLint: faster linting with Ruff](https://www.reddit.com/r/Python/comments/134zkvd/goodbye_to_flake8_and_pylint_faster_linting_with/)
 <!-- BLOG-POST-LIST:END -->
