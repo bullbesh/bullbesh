@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Less than 100 loc Python and 5 mins of watching - Tutorial to query your own .pdf files with ChatGPT](https://www.reddit.com/r/Python/comments/13617dk/less_than_100_loc_python_and_5_mins_of_watching/)
+- [ChatGPT wave](https://www.reddit.com/r/Python/comments/1360uwy/chatgpt_wave/)
 - [Making a presentation of a code](https://www.reddit.com/r/Python/comments/13601yx/making_a_presentation_of_a_code/)
 - [I am studying my college Python so can I learn algorithms from it?](https://www.reddit.com/r/Python/comments/135zwix/i_am_studying_my_college_python_so_can_i_learn/)
 - [Passivebot&#39;s Midjourney Automation Bot](https://www.reddit.com/r/Python/comments/135wpzx/passivebots_midjourney_automation_bot/)
-- [INSTLD: The runtime dependensy management](https://www.reddit.com/r/Python/comments/135svmg/instld_the_runtime_dependensy_management/)
-- [easy-reed | a config module to help configure multiple packages across multiple environments, all in a single file](https://www.reddit.com/r/Python/comments/135sh79/easyreed_a_config_module_to_help_configure/)
 <!-- BLOG-POST-LIST:END -->
