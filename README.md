@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Made this Python code with chat GPT](https://www.reddit.com/r/Python/comments/135hd60/made_this_python_code_with_chat_gpt/)
+- [Convolutional Neural Network for Reverse Engineering](https://www.reddit.com/r/Python/comments/135jrz1/convolutional_neural_network_for_reverse/)
+- [Streamsync: UI editor + Python](https://www.reddit.com/r/Python/comments/135i584/streamsync_ui_editor_python/)
 - [Looking for alternative sequential data models to lists or tuples?](https://www.reddit.com/r/Python/comments/135flip/looking_for_alternative_sequential_data_models_to/)
 - [Client-Server application to detect HW](https://www.reddit.com/r/Python/comments/135eyru/clientserver_application_to_detect_hw/)
 - [Building a Cryptocurrency Portfolio Management App with Django - A 3-Part Tutorial Series](https://www.reddit.com/r/Python/comments/135etqc/building_a_cryptocurrency_portfolio_management/)
-- [Say hello to my new open source library for document analysis: &quot;pydoxtools&quot; on github!](https://www.reddit.com/r/Python/comments/135e14f/say_hello_to_my_new_open_source_library_for/)
 <!-- BLOG-POST-LIST:END -->
