@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for alternative sequential data models to lists or tuples?](https://www.reddit.com/r/Python/comments/135flip/looking_for_alternative_sequential_data_models_to/)
 - [Client-Server application to detect HW](https://www.reddit.com/r/Python/comments/135eyru/clientserver_application_to_detect_hw/)
 - [Building a Cryptocurrency Portfolio Management App with Django - A 3-Part Tutorial Series](https://www.reddit.com/r/Python/comments/135etqc/building_a_cryptocurrency_portfolio_management/)
 - [Say hello to my new open source library for document analysis: &quot;pydoxtools&quot; on github!](https://www.reddit.com/r/Python/comments/135e14f/say_hello_to_my_new_open_source_library_for/)
 - [misura: Python library for easy unit handling and conversion for scientific &amp; engineering applications.](https://www.reddit.com/r/Python/comments/135dfei/misura_python_library_for_easy_unit_handling_and/)
-- [Introducing Grasshopper - An Open Source Python Library for Load Testing](https://www.reddit.com/r/Python/comments/135dcvs/introducing_grasshopper_an_open_source_python/)
 <!-- BLOG-POST-LIST:END -->
