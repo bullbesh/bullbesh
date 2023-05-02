@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Grasshopper - An Open Source Python Library for Load Testing](https://www.reddit.com/r/Python/comments/1359uik/introducing_grasshopper_an_open_source_python/)
 - [How Attackers Can Sneakily Slip Malware Packages Into Poetry.lock Files](https://www.reddit.com/r/Python/comments/1357wra/how_attackers_can_sneakily_slip_malware_packages/)
-- [Bug in Django](https://www.reddit.com/r/Python/comments/1357p1b/bug_in_django/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1355kwt/tuesday_daily_thread_advanced_questions/)
 - [Unleashing the Power of Async/Await in Python](https://www.reddit.com/r/Python/comments/1354bff/unleashing_the_power_of_asyncawait_in_python/)
 - [Custom terminal made in python](https://www.reddit.com/r/Python/comments/1351m36/custom_terminal_made_in_python/)
