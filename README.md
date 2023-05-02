@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Making a presentation of a code](https://www.reddit.com/r/Python/comments/13601yx/making_a_presentation_of_a_code/)
+- [I am studying my college Python so can I learn algorithms from it?](https://www.reddit.com/r/Python/comments/135zwix/i_am_studying_my_college_python_so_can_i_learn/)
 - [Passivebot&#39;s Midjourney Automation Bot](https://www.reddit.com/r/Python/comments/135wpzx/passivebots_midjourney_automation_bot/)
 - [INSTLD: The runtime dependensy management](https://www.reddit.com/r/Python/comments/135svmg/instld_the_runtime_dependensy_management/)
 - [easy-reed | a config module to help configure multiple packages across multiple environments, all in a single file](https://www.reddit.com/r/Python/comments/135sh79/easyreed_a_config_module_to_help_configure/)
-- [I recorded a tutorial type Python Exploratory Data Analysis video using Pandas, Numpy, Matplotlib and Seaborn libraries and uploaded it on Youtube](https://www.reddit.com/r/Python/comments/135qds9/i_recorded_a_tutorial_type_python_exploratory/)
-- [Looking for a Study Buddy](https://www.reddit.com/r/Python/comments/135ouqw/looking_for_a_study_buddy/)
 <!-- BLOG-POST-LIST:END -->
