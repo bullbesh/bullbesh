@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pygame — Crafting a Thrilling Galaga-Inspired Game](https://www.reddit.com/r/Python/comments/1362imc/pygame_crafting_a_thrilling_galagainspired_game/)
+- [GPT-powered command line productivity tool for Python developers](https://www.reddit.com/r/Python/comments/1362fn9/gptpowered_command_line_productivity_tool_for/)
+- [Showcase of some very cursed Python features](https://www.reddit.com/r/Python/comments/1362690/showcase_of_some_very_cursed_python_features/)
+- [Diator: CQRS pattern in Python](https://www.reddit.com/r/Python/comments/13625wo/diator_cqrs_pattern_in_python/)
 - [Less than 100 loc Python and 5 mins of watching - Tutorial to query your own .pdf files with ChatGPT](https://www.reddit.com/r/Python/comments/13617dk/less_than_100_loc_python_and_5_mins_of_watching/)
-- [ChatGPT wave](https://www.reddit.com/r/Python/comments/1360uwy/chatgpt_wave/)
-- [Making a presentation of a code](https://www.reddit.com/r/Python/comments/13601yx/making_a_presentation_of_a_code/)
-- [I am studying my college Python so can I learn algorithms from it?](https://www.reddit.com/r/Python/comments/135zwix/i_am_studying_my_college_python_so_can_i_learn/)
-- [Passivebot&#39;s Midjourney Automation Bot](https://www.reddit.com/r/Python/comments/135wpzx/passivebots_midjourney_automation_bot/)
 <!-- BLOG-POST-LIST:END -->
