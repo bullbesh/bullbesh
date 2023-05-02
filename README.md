@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 2: Strings | The Bear and Steady Genes](https://www.reddit.com/r/Python/comments/135lgrp/day_2_strings_the_bear_and_steady_genes/)
+- [Display Local And Web Images In Jupyter Notebook](https://www.reddit.com/r/Python/comments/135lc3s/display_local_and_web_images_in_jupyter_notebook/)
 - [SOLID Principles: Improve Object-Oriented Design in Python – Real Python](https://www.reddit.com/r/Python/comments/135jwy0/solid_principles_improve_objectoriented_design_in/)
 - [Convolutional Neural Network for Reverse Engineering](https://www.reddit.com/r/Python/comments/135jrz1/convolutional_neural_network_for_reverse/)
 - [Streamsync: UI editor + Python](https://www.reddit.com/r/Python/comments/135i584/streamsync_ui_editor_python/)
-- [Looking for alternative sequential data models to lists or tuples?](https://www.reddit.com/r/Python/comments/135flip/looking_for_alternative_sequential_data_models_to/)
-- [Client-Server application to detect HW](https://www.reddit.com/r/Python/comments/135eyru/clientserver_application_to_detect_hw/)
 <!-- BLOG-POST-LIST:END -->
