@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [File Manager Application - PySimpleGUI](https://www.reddit.com/r/Python/comments/136yj9t/file_manager_application_pysimplegui/)
 - [Looking for collaborators to work on a project.](https://www.reddit.com/r/Python/comments/136vzoi/looking_for_collaborators_to_work_on_a_project/)
-- [Ikigai Labs No Code AI/ML Tool](https://www.reddit.com/r/Python/comments/136vjzy/ikigai_labs_no_code_aiml_tool/)
 - [This package will &quot;GUI-fy&quot; your functions!](https://www.reddit.com/r/Python/comments/136valo/this_package_will_guify_your_functions/)
 - [AWS Permission Bouncers: Letting Loose in Dev, Keeping it Tight in Prod](https://www.reddit.com/r/Python/comments/136ts47/aws_permission_bouncers_letting_loose_in_dev/)
 - [browsr 🗂️, a pleasant file explorer in your terminal](https://www.reddit.com/r/Python/comments/136sfyb/browsr_a_pleasant_file_explorer_in_your_terminal/)
