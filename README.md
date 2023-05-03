@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [class JobPost:](https://www.reddit.com/r/Python/comments/136k010/class_jobpost/)
+- [which framework for frontend and backend to avoid abandoned libraries,breaking changes,terrible debugging features?](https://www.reddit.com/r/Python/comments/136lcp9/which_framework_for_frontend_and_backend_to_avoid/)
+- [Opinions on the Mojo Language by Modular: What Do You Think?](https://www.reddit.com/r/Python/comments/136km0v/opinions_on_the_mojo_language_by_modular_what_do/)
+- [Is the Mojo superset of Python a Pypy, Numba or Cython with marketing?](https://www.reddit.com/r/Python/comments/136kjah/is_the_mojo_superset_of_python_a_pypy_numba_or/)
+- [🔒 Master Ethical Hacking with Python: Essential Tools &amp; Techniques 🔧](https://www.reddit.com/r/Python/comments/136kixy/master_ethical_hacking_with_python_essential/)
 - [3 Python Libraries to Simplify Your UI Development](https://www.reddit.com/r/Python/comments/136jref/3_python_libraries_to_simplify_your_ui_development/)
-- [Are there any Python web frameworks with a similar setup and folder structure to Laravel or Rails?](https://www.reddit.com/r/Python/comments/136jqpt/are_there_any_python_web_frameworks_with_a/)
-- [Textual 0.23.0 improves message handling](https://www.reddit.com/r/Python/comments/136jf50/textual_0230_improves_message_handling/)
-- [Pylint strict base configuration](https://www.reddit.com/r/Python/comments/136hqoo/pylint_strict_base_configuration/)
 <!-- BLOG-POST-LIST:END -->
