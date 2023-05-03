@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help with Text editing](https://www.reddit.com/r/Python/comments/136el6n/help_with_text_editing/)
 - [Python Program to find any prime number..](https://www.reddit.com/r/Python/comments/136dsz4/python_program_to_find_any_prime_number/)
 - [Abilian Development Tools: a curated collection of Python development tools that includes formatters, testing frameworks, style checkers, type checkers, and supply chain audit tools.](https://www.reddit.com/r/Python/comments/136d7yd/abilian_development_tools_a_curated_collection_of/)
 - [Need help coding a script to pull LinkedIn post headlines from a group](https://www.reddit.com/r/Python/comments/136d6jx/need_help_coding_a_script_to_pull_linkedin_post/)
 - [PyXHDL - Python Frontend For VHDL And Verilog](https://www.reddit.com/r/Python/comments/136cadg/pyxhdl_python_frontend_for_vhdl_and_verilog/)
-- [DeFiLlama-Curl: A Python package to access DeFiLlama data faster!](https://www.reddit.com/r/Python/comments/1369von/defillamacurl_a_python_package_to_access/)
 <!-- BLOG-POST-LIST:END -->
