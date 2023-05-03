@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [class JobPost:](https://www.reddit.com/r/Python/comments/136k010/class_jobpost/)
+- [3 Python Libraries to Simplify Your UI Development](https://www.reddit.com/r/Python/comments/136jref/3_python_libraries_to_simplify_your_ui_development/)
+- [Are there any Python web frameworks with a similar setup and folder structure to Laravel or Rails?](https://www.reddit.com/r/Python/comments/136jqpt/are_there_any_python_web_frameworks_with_a/)
+- [Textual 0.23.0 improves message handling](https://www.reddit.com/r/Python/comments/136jf50/textual_0230_improves_message_handling/)
 - [Pylint strict base configuration](https://www.reddit.com/r/Python/comments/136hqoo/pylint_strict_base_configuration/)
-- [1000 100% OFF coupons: Course that can help you with the deployment part of things](https://www.reddit.com/r/Python/comments/136gdfs/1000_100_off_coupons_course_that_can_help_you/)
-- [mirrord 3.40.0 out - debugging in PyCharm now fully supported](https://www.reddit.com/r/Python/comments/136fh8s/mirrord_3400_out_debugging_in_pycharm_now_fully/)
-- [Help with Text editing](https://www.reddit.com/r/Python/comments/136el6n/help_with_text_editing/)
-- [Python Program to find any prime number..](https://www.reddit.com/r/Python/comments/136dsz4/python_program_to_find_any_prime_number/)
 <!-- BLOG-POST-LIST:END -->
