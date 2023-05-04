@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What IDE do y’all use](https://www.reddit.com/r/Python/comments/1383eox/what_ide_do_yall_use/)
 - [Learn how to generate secure passcodes using Python with this step-by-step tutorial!](https://www.reddit.com/r/Python/comments/1380wod/learn_how_to_generate_secure_passcodes_using/)
 - [Selenium over scrapy](https://www.reddit.com/r/Python/comments/137zeq8/selenium_over_scrapy/)
-- [Maximizing Python Performance: A Must-Read Resource for Every Python Developer](https://www.reddit.com/r/Python/comments/137xpmk/maximizing_python_performance_a_mustread_resource/)
 - [Python Unit Testing: Project Setup](https://www.reddit.com/r/Python/comments/137wn0w/python_unit_testing_project_setup/)
 - [YouTube Downloader - app](https://www.reddit.com/r/Python/comments/137uoer/youtube_downloader_app/)
 <!-- BLOG-POST-LIST:END -->
