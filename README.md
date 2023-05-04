@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python-Selenium-Action: Run Selenium with Python via Github Actions using Headless or Non-Headless browsers!](https://www.reddit.com/r/Python/comments/1376pqe/pythonseleniumaction_run_selenium_with_python_via/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1373x63/thursday_daily_thread_python_careers_courses_and/)
 - [Run pandas and NumPy on DuckDB](https://www.reddit.com/r/Python/comments/1373fk1/run_pandas_and_numpy_on_duckdb/)
 - [Auto Imgur upload from screenshot](https://www.reddit.com/r/Python/comments/13734k4/auto_imgur_upload_from_screenshot/)
 - [Tried Textual to build a simple TUI - Skylab &lpar;a tool to track upcoming space launches&rpar;](https://www.reddit.com/r/Python/comments/1371gjj/tried_textual_to_build_a_simple_tui_skylab_a_tool/)
-- [File Manager Application - PySimpleGUI](https://www.reddit.com/r/Python/comments/136yj9t/file_manager_application_pysimplegui/)
 <!-- BLOG-POST-LIST:END -->
