@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Training Python with ChatGPT](https://www.reddit.com/r/Python/comments/137rqsx/training_python_with_chatgpt/)
+- [temporary mail CLI](https://www.reddit.com/r/Python/comments/137te8o/temporary_mail_cli/)
 - [Is there a wheel pip archive of earlier versions than kept on pypi.org?](https://www.reddit.com/r/Python/comments/137jerv/is_there_a_wheel_pip_archive_of_earlier_versions/)
 - [&lpar;Failed - but working 100%&rpar; Interview challenge](https://www.reddit.com/r/Python/comments/137gvt9/failed_but_working_100_interview_challenge/)
 - [Feedback needed for my code-editor project](https://www.reddit.com/r/Python/comments/137gj1j/feedback_needed_for_my_codeeditor_project/)
