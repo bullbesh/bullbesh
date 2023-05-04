@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Course in Electronic City Bangalore](https://www.reddit.com/r/Python/comments/137cfis/python_course_in_electronic_city_bangalore/)
-- [👀Looking for someone special to help me out](https://www.reddit.com/r/Python/comments/137c22e/looking_for_someone_special_to_help_me_out/)
-- [OSS Collaboration - Omnibridge Python Package](https://www.reddit.com/r/Python/comments/137bsrn/oss_collaboration_omnibridge_python_package/)
-- [Anyone able to point me in the direction of a free movie script database that also provides metadata such as its score on rotten tomatoes?](https://www.reddit.com/r/Python/comments/137bnt2/anyone_able_to_point_me_in_the_direction_of_a/)
-- [Check out my lates project!](https://www.reddit.com/r/Python/comments/1379cs8/check_out_my_lates_project/)
+- [need advice](https://www.reddit.com/r/Python/comments/137evrc/need_advice/)
+- [HELP Linkedin Job Post Wordcloud Generator?](https://www.reddit.com/r/Python/comments/137eu3e/help_linkedin_job_post_wordcloud_generator/)
+- [GitHub - santiagobasulto/ipython-gpt: An ChatGPT integration for Jupyter Notebooks and the IPython Shell](https://www.reddit.com/r/Python/comments/137er0s/github_santiagobasultoipythongpt_an_chatgpt/)
+- [Deploy a Voice-Based ChatGPT Clone with BentoML, LangChain, and Gradio](https://www.reddit.com/r/Python/comments/137eoiv/deploy_a_voicebased_chatgpt_clone_with_bentoml/)
+- [I made a system which lets you easily create and communicate between a server and client](https://www.reddit.com/r/Python/comments/137ehuw/i_made_a_system_which_lets_you_easily_create_and/)
 <!-- BLOG-POST-LIST:END -->
