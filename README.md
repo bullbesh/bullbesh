@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Maximizing Python Performance: A Must-Read Resource for Every Python Developer](https://www.reddit.com/r/Python/comments/137xpmk/maximizing_python_performance_a_mustread_resource/)
 - [Python Unit Testing: Project Setup](https://www.reddit.com/r/Python/comments/137wn0w/python_unit_testing_project_setup/)
 - [YouTube Downloader - app](https://www.reddit.com/r/Python/comments/137uoer/youtube_downloader_app/)
 - [temporary mail CLI](https://www.reddit.com/r/Python/comments/137te8o/temporary_mail_cli/)
 - [Is there a wheel pip archive of earlier versions than kept on pypi.org?](https://www.reddit.com/r/Python/comments/137jerv/is_there_a_wheel_pip_archive_of_earlier_versions/)
-- [&lpar;Failed - but working 100%&rpar; Interview challenge](https://www.reddit.com/r/Python/comments/137gvt9/failed_but_working_100_interview_challenge/)
 <!-- BLOG-POST-LIST:END -->
