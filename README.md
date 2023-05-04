@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [CKAN V2.9.3](https://www.reddit.com/r/Python/comments/137ft6d/ckan_v293/)
+- [Edit Images with DALLE2 in Python from OpenAI](https://www.reddit.com/r/Python/comments/137frzf/edit_images_with_dalle2_in_python_from_openai/)
 - [need advice](https://www.reddit.com/r/Python/comments/137evrc/need_advice/)
 - [HELP Linkedin Job Post Wordcloud Generator?](https://www.reddit.com/r/Python/comments/137eu3e/help_linkedin_job_post_wordcloud_generator/)
 - [GitHub - santiagobasulto/ipython-gpt: An ChatGPT integration for Jupyter Notebooks and the IPython Shell](https://www.reddit.com/r/Python/comments/137er0s/github_santiagobasultoipythongpt_an_chatgpt/)
-- [Deploy a Voice-Based ChatGPT Clone with BentoML, LangChain, and Gradio](https://www.reddit.com/r/Python/comments/137eoiv/deploy_a_voicebased_chatgpt_clone_with_bentoml/)
-- [I made a system which lets you easily create and communicate between a server and client](https://www.reddit.com/r/Python/comments/137ehuw/i_made_a_system_which_lets_you_easily_create_and/)
 <!-- BLOG-POST-LIST:END -->
