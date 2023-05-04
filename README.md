@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Training Python with ChatGPT](https://www.reddit.com/r/Python/comments/137rqsx/training_python_with_chatgpt/)
 - [Is there a wheel pip archive of earlier versions than kept on pypi.org?](https://www.reddit.com/r/Python/comments/137jerv/is_there_a_wheel_pip_archive_of_earlier_versions/)
 - [&lpar;Failed - but working 100%&rpar; Interview challenge](https://www.reddit.com/r/Python/comments/137gvt9/failed_but_working_100_interview_challenge/)
 - [Feedback needed for my code-editor project](https://www.reddit.com/r/Python/comments/137gj1j/feedback_needed_for_my_codeeditor_project/)
 - [SteamGiftBot is an application I wrote in Python 3.9.6](https://www.reddit.com/r/Python/comments/137gec4/steamgiftbot_is_an_application_i_wrote_in_python/)
-- [Edit Images with DALLE2 in Python from OpenAI](https://www.reddit.com/r/Python/comments/137frzf/edit_images_with_dalle2_in_python_from_openai/)
 <!-- BLOG-POST-LIST:END -->
