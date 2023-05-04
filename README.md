@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [👀Looking for someone special to help me out](https://www.reddit.com/r/Python/comments/137c22e/looking_for_someone_special_to_help_me_out/)
+- [OSS Collaboration - Omnibridge Python Package](https://www.reddit.com/r/Python/comments/137bsrn/oss_collaboration_omnibridge_python_package/)
+- [Anyone able to point me in the direction of a free movie script database that also provides metadata such as its score on rotten tomatoes?](https://www.reddit.com/r/Python/comments/137bnt2/anyone_able_to_point_me_in_the_direction_of_a/)
 - [Check out my lates project!](https://www.reddit.com/r/Python/comments/1379cs8/check_out_my_lates_project/)
 - [Mojo – a new programming language for AI developers](https://www.reddit.com/r/Python/comments/13795fo/mojo_a_new_programming_language_for_ai_developers/)
-- [Python-Selenium-Action: Run Selenium with Python via Github Actions using Headless or Non-Headless browsers!](https://www.reddit.com/r/Python/comments/1376pqe/pythonseleniumaction_run_selenium_with_python_via/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1373x63/thursday_daily_thread_python_careers_courses_and/)
-- [Run pandas and NumPy on DuckDB](https://www.reddit.com/r/Python/comments/1373fk1/run_pandas_and_numpy_on_duckdb/)
 <!-- BLOG-POST-LIST:END -->
