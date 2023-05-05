@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Python AI Bootcamp!](https://www.reddit.com/r/Python/comments/138x65j/new_python_ai_bootcamp/)
 - [An AI waifu that you can speak to and it&#39;ll speak back](https://www.reddit.com/r/Python/comments/138vsa9/an_ai_waifu_that_you_can_speak_to_and_itll_speak/)
 - [Master Cloud Computing with Python: Boost Your Career in AWS, Azure, and GCP](https://www.reddit.com/r/Python/comments/138vpu2/master_cloud_computing_with_python_boost_your/)
 - [Create dynamic tasks with Airflow &amp; Python](https://www.reddit.com/r/Python/comments/138vmii/create_dynamic_tasks_with_airflow_python/)
 - [Generative agents with open-sourced large langurage models!](https://www.reddit.com/r/Python/comments/138ux8s/generative_agents_with_opensourced_large/)
-- [Supercharge Your Python Code with Numba — A Programmer’s Guide](https://www.reddit.com/r/Python/comments/138uuub/supercharge_your_python_code_with_numba_a/)
 <!-- BLOG-POST-LIST:END -->
