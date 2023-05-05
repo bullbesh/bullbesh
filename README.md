@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fast plotting](https://www.reddit.com/r/Python/comments/138434d/fast_plotting/)
+- [Build a simple TUI TextEditor using ttkDesigner and pyTermTk](https://www.reddit.com/r/Python/comments/1383st0/build_a_simple_tui_texteditor_using_ttkdesigner/)
 - [What IDE do y’all use](https://www.reddit.com/r/Python/comments/1383eox/what_ide_do_yall_use/)
 - [Learn how to generate secure passcodes using Python with this step-by-step tutorial!](https://www.reddit.com/r/Python/comments/1380wod/learn_how_to_generate_secure_passcodes_using/)
 - [Selenium over scrapy](https://www.reddit.com/r/Python/comments/137zeq8/selenium_over_scrapy/)
-- [Python Unit Testing: Project Setup](https://www.reddit.com/r/Python/comments/137wn0w/python_unit_testing_project_setup/)
-- [YouTube Downloader - app](https://www.reddit.com/r/Python/comments/137uoer/youtube_downloader_app/)
 <!-- BLOG-POST-LIST:END -->
