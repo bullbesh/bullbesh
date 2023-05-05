@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Dask Does Upstream Testing](https://www.reddit.com/r/Python/comments/138t3do/how_dask_does_upstream_testing/)
+- [Upgrade Python version without keeping old version?](https://www.reddit.com/r/Python/comments/138svk8/upgrade_python_version_without_keeping_old_version/)
+- [TOTAL PYTHON. 01](https://www.reddit.com/r/Python/comments/138stxj/total_python_01/)
+- [Mojo Lang - The TypeScript of &quot;Python&quot;, The Real Future of Python?](https://www.reddit.com/r/Python/comments/138sa49/mojo_lang_the_typescript_of_python_the_real/)
 - [What should I learn next in Python ?](https://www.reddit.com/r/Python/comments/138rlxz/what_should_i_learn_next_in_python/)
-- [“Externally managed environments”: when PEP 668 breaks pip](https://www.reddit.com/r/Python/comments/138qyef/externally_managed_environments_when_pep_668/)
-- [Python application deployment in Windows](https://www.reddit.com/r/Python/comments/138pvi4/python_application_deployment_in_windows/)
-- [Machine Learning with Python - Free Online Course](https://www.reddit.com/r/Python/comments/138ox9m/machine_learning_with_python_free_online_course/)
-- [&quot;slow&quot; python based rabbitmq consumer](https://www.reddit.com/r/Python/comments/138lxom/slow_python_based_rabbitmq_consumer/)
 <!-- BLOG-POST-LIST:END -->
