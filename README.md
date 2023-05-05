@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [An AI waifu that you can speak to and it&#39;ll speak back](https://www.reddit.com/r/Python/comments/138vsa9/an_ai_waifu_that_you_can_speak_to_and_itll_speak/)
+- [Master Cloud Computing with Python: Boost Your Career in AWS, Azure, and GCP](https://www.reddit.com/r/Python/comments/138vpu2/master_cloud_computing_with_python_boost_your/)
+- [Create dynamic tasks with Airflow &amp; Python](https://www.reddit.com/r/Python/comments/138vmii/create_dynamic_tasks_with_airflow_python/)
 - [Generative agents with open-sourced large langurage models!](https://www.reddit.com/r/Python/comments/138ux8s/generative_agents_with_opensourced_large/)
 - [Supercharge Your Python Code with Numba — A Programmer’s Guide](https://www.reddit.com/r/Python/comments/138uuub/supercharge_your_python_code_with_numba_a/)
-- [Configuration management in Python using Hydra](https://www.reddit.com/r/Python/comments/138ujk6/configuration_management_in_python_using_hydra/)
-- [My Python-based Code Smells Catalog Paper was finally published in Springer! 🎉](https://www.reddit.com/r/Python/comments/138u9yf/my_pythonbased_code_smells_catalog_paper_was/)
-- [How Dask Does Upstream Testing](https://www.reddit.com/r/Python/comments/138t3do/how_dask_does_upstream_testing/)
 <!-- BLOG-POST-LIST:END -->
