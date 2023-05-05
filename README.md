@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generative agents with open-sourced large langurage models!](https://www.reddit.com/r/Python/comments/138ux8s/generative_agents_with_opensourced_large/)
+- [Supercharge Your Python Code with Numba — A Programmer’s Guide](https://www.reddit.com/r/Python/comments/138uuub/supercharge_your_python_code_with_numba_a/)
+- [Configuration management in Python using Hydra](https://www.reddit.com/r/Python/comments/138ujk6/configuration_management_in_python_using_hydra/)
+- [My Python-based Code Smells Catalog Paper was finally published in Springer! 🎉](https://www.reddit.com/r/Python/comments/138u9yf/my_pythonbased_code_smells_catalog_paper_was/)
 - [How Dask Does Upstream Testing](https://www.reddit.com/r/Python/comments/138t3do/how_dask_does_upstream_testing/)
-- [Upgrade Python version without keeping old version?](https://www.reddit.com/r/Python/comments/138svk8/upgrade_python_version_without_keeping_old_version/)
-- [TOTAL PYTHON. 01](https://www.reddit.com/r/Python/comments/138stxj/total_python_01/)
-- [Mojo Lang - The TypeScript of &quot;Python&quot;, The Real Future of Python?](https://www.reddit.com/r/Python/comments/138sa49/mojo_lang_the_typescript_of_python_the_real/)
-- [What should I learn next in Python ?](https://www.reddit.com/r/Python/comments/138rlxz/what_should_i_learn_next_in_python/)
 <!-- BLOG-POST-LIST:END -->
