@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python program to find finbacci series of numbers..](https://www.reddit.com/r/Python/comments/138bhwu/python_program_to_find_finbacci_series_of_numbers/)
 - [Behave Driven Development Python library](https://www.reddit.com/r/Python/comments/13874wi/behave_driven_development_python_library/)
 - [Fast plotting](https://www.reddit.com/r/Python/comments/138434d/fast_plotting/)
 - [Build a simple TUI TextEditor using ttkDesigner and pyTermTk](https://www.reddit.com/r/Python/comments/1383st0/build_a_simple_tui_texteditor_using_ttkdesigner/)
 - [What IDE do y’all use](https://www.reddit.com/r/Python/comments/1383eox/what_ide_do_yall_use/)
-- [Learn how to generate secure passcodes using Python with this step-by-step tutorial!](https://www.reddit.com/r/Python/comments/1380wod/learn_how_to_generate_secure_passcodes_using/)
 <!-- BLOG-POST-LIST:END -->
