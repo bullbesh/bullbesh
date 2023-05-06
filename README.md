@@ -12,5 +12,5 @@
 - [AV1 Reencode project](https://www.reddit.com/r/Python/comments/1395tfe/av1_reencode_project/)
 - [Event-driven architecture for trading: live workshop](https://www.reddit.com/r/Python/comments/139565e/eventdriven_architecture_for_trading_live_workshop/)
 - [module creation bash script](https://www.reddit.com/r/Python/comments/1393no6/module_creation_bash_script/)
-- [Master Cloud Computing with Python: Boost Your Career in AWS, Azure, and GCP](https://www.reddit.com/r/Python/comments/138vpu2/master_cloud_computing_with_python_boost_your/)
+- [New Python AI Bootcamp!](https://www.reddit.com/r/Python/comments/138x65j/new_python_ai_bootcamp/)
 <!-- BLOG-POST-LIST:END -->
