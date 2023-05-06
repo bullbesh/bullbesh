@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [cmd_queue: A lightweight bash DAG scheduler.](https://www.reddit.com/r/Python/comments/13a0lc8/cmd_queue_a_lightweight_bash_dag_scheduler/)
 - [How to Build Micro-SaaS Products in Pure Python. Fast.](https://www.reddit.com/r/Python/comments/139xv8f/how_to_build_microsaas_products_in_pure_python/)
 - [I recorded a crash course on Polars library of Python &lpar;Great library for working with big data&rpar; and uploaded it on Youtube](https://www.reddit.com/r/Python/comments/139wsvp/i_recorded_a_crash_course_on_polars_library_of/)
 - [Translucent Web Browser Widget on desktop](https://www.reddit.com/r/Python/comments/139wj9n/translucent_web_browser_widget_on_desktop/)
 - [How to Code Your First CNN in Python](https://www.reddit.com/r/Python/comments/139wi96/how_to_code_your_first_cnn_in_python/)
-- [Scraping Manchester City X Arsenal Data - &lpar;Premier League ESPN Scrape Example&rpar;](https://www.reddit.com/r/Python/comments/139w1iw/scraping_manchester_city_x_arsenal_data_premier/)
 <!-- BLOG-POST-LIST:END -->
