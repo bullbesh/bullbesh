@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [FrontEngine can play videos, GIFs, webpages, and more on your screen foreground.](https://www.reddit.com/r/Python/comments/139vgm7/frontengine_can_play_videos_gifs_webpages_and/)
-- [Simple c/c++ build tool in python](https://www.reddit.com/r/Python/comments/139s4ix/simple_cc_build_tool_in_python/)
-- [Introducing ipfs_dict_chain: A Python Package for Building Mini-Blockchains on IPFS using Dictionary-like Data Structures](https://www.reddit.com/r/Python/comments/139rbts/introducing_ipfs_dict_chain_a_python_package_for/)
-- [Context Managers And The &#39;with&#39; Statement In Python: A Comprehensive Guide With Examples](https://www.reddit.com/r/Python/comments/139prq4/context_managers_and_the_with_statement_in_python/)
-- [Script taking a long time to run](https://www.reddit.com/r/Python/comments/139okqk/script_taking_a_long_time_to_run/)
+- [I recorded a crash course on Polars library of Python &lpar;Great library for working with big data&rpar; and uploaded it on Youtube](https://www.reddit.com/r/Python/comments/139wsvp/i_recorded_a_crash_course_on_polars_library_of/)
+- [Translucent Web Browser Widget on desktop](https://www.reddit.com/r/Python/comments/139wj9n/translucent_web_browser_widget_on_desktop/)
+- [How to Code Your First CNN in Python](https://www.reddit.com/r/Python/comments/139wi96/how_to_code_your_first_cnn_in_python/)
+- [Scraping Manchester City X Arsenal Data - &lpar;Premier League ESPN Scrape Example&rpar;](https://www.reddit.com/r/Python/comments/139w1iw/scraping_manchester_city_x_arsenal_data_premier/)
+- [Is it possible pickle a function with its dependencies?](https://www.reddit.com/r/Python/comments/139vz41/is_it_possible_pickle_a_function_with_its/)
 <!-- BLOG-POST-LIST:END -->
