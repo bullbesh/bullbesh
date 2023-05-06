@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Youtube Summarizer project using OpenAI API](https://www.reddit.com/r/Python/comments/139fjsw/youtube_summarizer_project_using_openai_api/)
+- [Checkout the tool I coded to generate a multiple choice quizz from the content of any uploaded PDF.](https://www.reddit.com/r/Python/comments/139l9da/checkout_the_tool_i_coded_to_generate_a_multiple/)
 - [Python project to download novel from neosekaitranslations.com as PDF : neosekai-dl](https://www.reddit.com/r/Python/comments/139bay1/python_project_to_download_novel_from/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1395uno/saturday_daily_thread_resource_request_and/)
 - [AV1 Reencode project](https://www.reddit.com/r/Python/comments/1395tfe/av1_reencode_project/)
