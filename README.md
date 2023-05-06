@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1395uno/saturday_daily_thread_resource_request_and/)
+- [AV1 Reencode project](https://www.reddit.com/r/Python/comments/1395tfe/av1_reencode_project/)
+- [Event-driven architecture for trading: live workshop](https://www.reddit.com/r/Python/comments/139565e/eventdriven_architecture_for_trading_live_workshop/)
+- [I made an AI bot of Sam Altman using Langchain and OpenAI to find the se...](https://www.reddit.com/r/Python/comments/1395083/i_made_an_ai_bot_of_sam_altman_using_langchain/)
 - [module creation bash script](https://www.reddit.com/r/Python/comments/1393no6/module_creation_bash_script/)
-- [Created a library for fastapi to make life easier](https://www.reddit.com/r/Python/comments/138zden/created_a_library_for_fastapi_to_make_life_easier/)
-- [New Python AI Bootcamp!](https://www.reddit.com/r/Python/comments/138x65j/new_python_ai_bootcamp/)
-- [Master Cloud Computing with Python: Boost Your Career in AWS, Azure, and GCP](https://www.reddit.com/r/Python/comments/138vpu2/master_cloud_computing_with_python_boost_your/)
-- [Create dynamic tasks with Airflow &amp; Python](https://www.reddit.com/r/Python/comments/138vmii/create_dynamic_tasks_with_airflow_python/)
 <!-- BLOG-POST-LIST:END -->
