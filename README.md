@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Context Managers And The &#39;with&#39; Statement In Python: A Comprehensive Guide With Examples](https://www.reddit.com/r/Python/comments/139prq4/context_managers_and_the_with_statement_in_python/)
+- [Script taking a long time to run](https://www.reddit.com/r/Python/comments/139okqk/script_taking_a_long_time_to_run/)
 - [Checkout the tool I coded to generate a multiple choice quizz from the content of any uploaded PDF.](https://www.reddit.com/r/Python/comments/139l9da/checkout_the_tool_i_coded_to_generate_a_multiple/)
 - [Python project to download novel from neosekaitranslations.com as PDF : neosekai-dl](https://www.reddit.com/r/Python/comments/139bay1/python_project_to_download_novel_from/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1395uno/saturday_daily_thread_resource_request_and/)
-- [AV1 Reencode project](https://www.reddit.com/r/Python/comments/1395tfe/av1_reencode_project/)
-- [Event-driven architecture for trading: live workshop](https://www.reddit.com/r/Python/comments/139565e/eventdriven_architecture_for_trading_live_workshop/)
 <!-- BLOG-POST-LIST:END -->
