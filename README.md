@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [python-eol: A package to check whether the python version you&#39;re using is beyond/close to end of life](https://www.reddit.com/r/Python/comments/13aff2y/pythoneol_a_package_to_check_whether_the_python/)
+- [What is the most used keyword or function in all of programming?](https://www.reddit.com/r/Python/comments/13af8sx/what_is_the_most_used_keyword_or_function_in_all/)
 - [Quantum Computing Simulator in python](https://www.reddit.com/r/Python/comments/13ae4ts/quantum_computing_simulator_in_python/)
 - [Introducing the Telegram Fake Location Bot: Bypass Location Checks with Ease!](https://www.reddit.com/r/Python/comments/13adkmt/introducing_the_telegram_fake_location_bot_bypass/)
 - [Quick Python Primer: Master the Basics in 20 Minutes](https://www.reddit.com/r/Python/comments/13ad5at/quick_python_primer_master_the_basics_in_20/)
-- [I made a module idea real.](https://www.reddit.com/r/Python/comments/13a97ef/i_made_a_module_idea_real/)
-- [Hermes. Extremely fast full-text-searches &lpar;10-300µs&rpar; and cache.](https://www.reddit.com/r/Python/comments/13a6qxd/hermes_extremely_fast_fulltextsearches_10300µs/)
 <!-- BLOG-POST-LIST:END -->
