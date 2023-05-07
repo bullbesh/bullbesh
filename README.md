@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made a schedulable script that sends you an email notification of the newest movies from your local AMC theater](https://www.reddit.com/r/Python/comments/13askfn/made_a_schedulable_script_that_sends_you_an_email/)
+- [Failures: A New Python Library for Handling Application Failures with Ease](https://www.reddit.com/r/Python/comments/13arhw1/failures_a_new_python_library_for_handling/)
 - [ItsPrompt v1.2 - Introducing a new Prompt Type!](https://www.reddit.com/r/Python/comments/13am447/itsprompt_v12_introducing_a_new_prompt_type/)
 - [Made a program for year 12 to detect sign language via the webcam and translate it to text and audio](https://www.reddit.com/r/Python/comments/13alyc2/made_a_program_for_year_12_to_detect_sign/)
 - [An integration test that generates docs. An integration test that rewrites itself.](https://www.reddit.com/r/Python/comments/13akj6t/an_integration_test_that_generates_docs_an/)
-- [Best Python course for Udemy](https://www.reddit.com/r/Python/comments/13ainlb/best_python_course_for_udemy/)
-- [Random things that I found in python](https://www.reddit.com/r/Python/comments/13aggao/random_things_that_i_found_in_python/)
 <!-- BLOG-POST-LIST:END -->
