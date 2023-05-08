@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [In-Depth Guide: Create a custom chat-bot that answers questions based on an infinite custom knowledge base using a vector DB &amp; ChatGPT](https://www.reddit.com/r/Python/comments/13bo4b4/indepth_guide_create_a_custom_chatbot_that/)
 - [Entertainment Media Analysis App for Book and Movie Lovers!](https://www.reddit.com/r/Python/comments/13bnk9i/entertainment_media_analysis_app_for_book_and/)
 - [Unique Python features](https://www.reddit.com/r/Python/comments/13bm1mh/unique_python_features/)
 - [free Facebook page information scraper ?](https://www.reddit.com/r/Python/comments/13blux4/free_facebook_page_information_scraper/)
 - [Starfyre - A Python Web Framework for creating frontend web applications](https://www.reddit.com/r/Python/comments/13bloxf/starfyre_a_python_web_framework_for_creating/)
-- [🔍 Unlock the Secrets of Debugging Python Code in Production! 🔍](https://www.reddit.com/r/Python/comments/13bkons/unlock_the_secrets_of_debugging_python_code_in/)
 <!-- BLOG-POST-LIST:END -->
