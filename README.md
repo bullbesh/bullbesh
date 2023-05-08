@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Starting Web App Research 2023!](https://www.reddit.com/r/Python/comments/13bv3ff/starting_web_app_research_2023/)
+- [Building Privacy-Preserving Machine Learning Workflows with Zero-Knowledge Cryptography.](https://www.reddit.com/r/Python/comments/13bwds7/building_privacypreserving_machine_learning/)
+- [deptry 0.10.0 - A tool to detect issues with your project&#39;s dependencies and imports.](https://www.reddit.com/r/Python/comments/13bwa7y/deptry_0100_a_tool_to_detect_issues_with_your/)
+- [feedback on data quality tool](https://www.reddit.com/r/Python/comments/13bw6sd/feedback_on_data_quality_tool/)
+- [BlockFrame: a file chunking library](https://www.reddit.com/r/Python/comments/13bvd8l/blockframe_a_file_chunking_library/)
 - [How well does Dask run on Graviton?](https://www.reddit.com/r/Python/comments/13bt817/how_well_does_dask_run_on_graviton/)
-- [In-Depth Guide: Create a custom chat-bot that answers questions based on an infinite custom knowledge base using a vector DB &amp; ChatGPT](https://www.reddit.com/r/Python/comments/13bo4b4/indepth_guide_create_a_custom_chatbot_that/)
-- [Entertainment Media Analysis App for Book and Movie Lovers!](https://www.reddit.com/r/Python/comments/13bnk9i/entertainment_media_analysis_app_for_book_and/)
-- [Unique Python features](https://www.reddit.com/r/Python/comments/13bm1mh/unique_python_features/)
 <!-- BLOG-POST-LIST:END -->
