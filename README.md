@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [free Facebook page information scraper ?](https://www.reddit.com/r/Python/comments/13blux4/free_facebook_page_information_scraper/)
+- [Starfyre - A Python Web Framework for creating frontend web applications](https://www.reddit.com/r/Python/comments/13bloxf/starfyre_a_python_web_framework_for_creating/)
 - [🔍 Unlock the Secrets of Debugging Python Code in Production! 🔍](https://www.reddit.com/r/Python/comments/13bkons/unlock_the_secrets_of_debugging_python_code_in/)
 - [Can scientists / academics / researchers elaborate on the pros and cons of dynamic vs static typing in Python?](https://www.reddit.com/r/Python/comments/13bjkkt/can_scientists_academics_researchers_elaborate_on/)
 - [I wrote a web-based chat app in 31 lines of Python code.](https://www.reddit.com/r/Python/comments/13bhgcz/i_wrote_a_webbased_chat_app_in_31_lines_of_python/)
-- [chompjs 1.2.0 released](https://www.reddit.com/r/Python/comments/13bezgi/chompjs_120_released/)
-- [Looking for collaborators for a &quot;Workflow Assistant&quot;. Code help or new ideas are welcome!](https://www.reddit.com/r/Python/comments/13bbdp8/looking_for_collaborators_for_a_workflow/)
 <!-- BLOG-POST-LIST:END -->
