@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom shell made in python](https://www.reddit.com/r/Python/comments/13b8udx/custom_shell_made_in_python/)
+- [How do I concatenate two lists in Python?](https://www.reddit.com/r/Python/comments/13b86j1/how_do_i_concatenate_two_lists_in_python/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/13b7gml/monday_daily_thread_project_ideas/)
 - [Structed LLM outputs via Pydantic with struct-GPT](https://www.reddit.com/r/Python/comments/13b3c80/structed_llm_outputs_via_pydantic_with_structgpt/)
 - [I built Youtube Subtitle Summarizer allows to see highlighted moments](https://www.reddit.com/r/Python/comments/13b0j2l/i_built_youtube_subtitle_summarizer_allows_to_see/)
-- [Seeking Feedback on Performance Optimization for News Classification Code](https://www.reddit.com/r/Python/comments/13azisy/seeking_feedback_on_performance_optimization_for/)
-- [Hey guys, I was wondering why Kivy isn&#39;t as well-known or widely used as other Python frameworks. Any thoughts or insights on this? Let&#39;s discuss!](https://www.reddit.com/r/Python/comments/13azabl/hey_guys_i_was_wondering_why_kivy_isnt_as/)
-- [Introducing FlaskGuard: The Easy Way to Validate Requests in Your Flask Applications](https://www.reddit.com/r/Python/comments/13axxfb/introducing_flaskguard_the_easy_way_to_validate/)
 <!-- BLOG-POST-LIST:END -->
