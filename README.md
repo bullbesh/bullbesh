@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Test On 4 Concurrent Jobs Using Python-Polars 0.17.11 to GroupBy Billion Rows](https://www.reddit.com/r/Python/comments/13bb59x/test_on_4_concurrent_jobs_using_pythonpolars/)
 - [Custom shell made in python](https://www.reddit.com/r/Python/comments/13b8udx/custom_shell_made_in_python/)
 - [How do I concatenate two lists in Python?](https://www.reddit.com/r/Python/comments/13b86j1/how_do_i_concatenate_two_lists_in_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/13b7gml/monday_daily_thread_project_ideas/)
 - [Structed LLM outputs via Pydantic with struct-GPT](https://www.reddit.com/r/Python/comments/13b3c80/structed_llm_outputs_via_pydantic_with_structgpt/)
-- [I built Youtube Subtitle Summarizer allows to see highlighted moments](https://www.reddit.com/r/Python/comments/13b0j2l/i_built_youtube_subtitle_summarizer_allows_to_see/)
 <!-- BLOG-POST-LIST:END -->
