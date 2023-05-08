@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a web-based chat app in 31 lines of Python code.](https://www.reddit.com/r/Python/comments/13bhgcz/i_wrote_a_webbased_chat_app_in_31_lines_of_python/)
 - [chompjs 1.2.0 released](https://www.reddit.com/r/Python/comments/13bezgi/chompjs_120_released/)
 - [Looking for collaborators for a &quot;Workflow Assistant&quot;. Code help or new ideas are welcome!](https://www.reddit.com/r/Python/comments/13bbdp8/looking_for_collaborators_for_a_workflow/)
 - [Test On 4 Concurrent Jobs Using Python-Polars 0.17.11 to GroupBy Billion Rows](https://www.reddit.com/r/Python/comments/13bb59x/test_on_4_concurrent_jobs_using_pythonpolars/)
 - [Custom shell made in python](https://www.reddit.com/r/Python/comments/13b8udx/custom_shell_made_in_python/)
-- [How do I concatenate two lists in Python?](https://www.reddit.com/r/Python/comments/13b86j1/how_do_i_concatenate_two_lists_in_python/)
 <!-- BLOG-POST-LIST:END -->
