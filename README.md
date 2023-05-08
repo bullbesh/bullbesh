@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for collaborators for a &quot;Workflow Assistant&quot;. Code help or new ideas are welcome!](https://www.reddit.com/r/Python/comments/13c1lle/looking_for_collaborators_for_a_workflow/)
+- [Web Scraping Expedia using Python and Selenium](https://www.reddit.com/r/Python/comments/13c0fve/web_scraping_expedia_using_python_and_selenium/)
 - [Textual 0.24.0 adds a Select control](https://www.reddit.com/r/Python/comments/13bxof6/textual_0240_adds_a_select_control/)
 - [Building Privacy-Preserving Machine Learning Workflows with Zero-Knowledge Cryptography.](https://www.reddit.com/r/Python/comments/13bwds7/building_privacypreserving_machine_learning/)
 - [deptry 0.10.0 - A tool to detect issues with your project&#39;s dependencies and imports.](https://www.reddit.com/r/Python/comments/13bwa7y/deptry_0100_a_tool_to_detect_issues_with_your/)
-- [feedback on data quality tool](https://www.reddit.com/r/Python/comments/13bw6sd/feedback_on_data_quality_tool/)
-- [BlockFrame: a file chunking library](https://www.reddit.com/r/Python/comments/13bvd8l/blockframe_a_file_chunking_library/)
 <!-- BLOG-POST-LIST:END -->
