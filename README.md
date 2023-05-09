@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - vouch-insurance/quadipy: quadipy is a python package to help transform structured data into RDF graph format](https://www.reddit.com/r/Python/comments/13ci0iz/github_vouchinsurancequadipy_quadipy_is_a_python/)
 - [Minerva, a GPT-Powered Discord Bot Built to Help Students Learn Software Development and Machine Learning](https://www.reddit.com/r/Python/comments/13cgi8p/minerva_a_gptpowered_discord_bot_built_to_help/)
 - [Scraping Data Then Finding A Way To Monetize It - Django Python](https://www.reddit.com/r/Python/comments/13cekda/scraping_data_then_finding_a_way_to_monetize_it/)
 - [After tearing my hair out writing JavaScript the last few days how close are we to Python in the browser?](https://www.reddit.com/r/Python/comments/13ccenx/after_tearing_my_hair_out_writing_javascript_the/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/13c9b4a/tuesday_daily_thread_advanced_questions/)
-- [Non block orms for tornado](https://www.reddit.com/r/Python/comments/13c94pi/non_block_orms_for_tornado/)
 <!-- BLOG-POST-LIST:END -->
