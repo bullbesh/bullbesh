@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Master thesis research: A Python version update behavior survey](https://www.reddit.com/r/Python/comments/13csjhj/master_thesis_research_a_python_version_update/)
+- [Leverage A-SQL Statement to Accelerate ETL Processing](https://www.reddit.com/r/Python/comments/13crw8m/leverage_asql_statement_to_accelerate_etl/)
+- [Build Robust Continuous Integration With Docker and Friends – Real Python](https://www.reddit.com/r/Python/comments/13crloa/build_robust_continuous_integration_with_docker/)
+- [I made a retirement/salary calculator in customtkinter!](https://www.reddit.com/r/Python/comments/13cris4/i_made_a_retirementsalary_calculator_in/)
 - [End-to-End Tutorial on Combining AWS Lambda, Docker, and Python](https://www.reddit.com/r/Python/comments/13cqx5p/endtoend_tutorial_on_combining_aws_lambda_docker/)
-- [Faster and Easier Python Debugging with breakpoint&lpar;&rpar; and PDB](https://www.reddit.com/r/Python/comments/13cqj2m/faster_and_easier_python_debugging_with/)
-- [Airflow 2.6: A New Milestone in Data Engineering](https://www.reddit.com/r/Python/comments/13cpktm/airflow_26_a_new_milestone_in_data_engineering/)
-- [Intro to PDB, the Python Debugger](https://www.reddit.com/r/Python/comments/13cpbh7/intro_to_pdb_the_python_debugger/)
-- [Pip or Anaconda or Miniconda or Poetry or Docker or Nothing for Package/Container Management?](https://www.reddit.com/r/Python/comments/13cnf3c/pip_or_anaconda_or_miniconda_or_poetry_or_docker/)
 <!-- BLOG-POST-LIST:END -->
