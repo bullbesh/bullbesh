@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The contradictions in &#39;The Zen of Python&#39;](https://www.reddit.com/r/Python/comments/13cy37z/the_contradictions_in_the_zen_of_python/)
+- [Thoughts on &quot;no local installs&quot; environments? &lpar;docker focused&rpar;](https://www.reddit.com/r/Python/comments/13cxp30/thoughts_on_no_local_installs_environments_docker/)
 - [Master thesis research: A Python version update behavior survey](https://www.reddit.com/r/Python/comments/13csjhj/master_thesis_research_a_python_version_update/)
 - [Leverage A-SQL Statement to Accelerate ETL Processing](https://www.reddit.com/r/Python/comments/13crw8m/leverage_asql_statement_to_accelerate_etl/)
 - [Build Robust Continuous Integration With Docker and Friends – Real Python](https://www.reddit.com/r/Python/comments/13crloa/build_robust_continuous_integration_with_docker/)
-- [I made a retirement/salary calculator in customtkinter!](https://www.reddit.com/r/Python/comments/13cris4/i_made_a_retirementsalary_calculator_in/)
-- [End-to-End Tutorial on Combining AWS Lambda, Docker, and Python](https://www.reddit.com/r/Python/comments/13cqx5p/endtoend_tutorial_on_combining_aws_lambda_docker/)
 <!-- BLOG-POST-LIST:END -->
