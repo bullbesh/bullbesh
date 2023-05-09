@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scraping Data Then Finding A Way To Monetize It - Django Python](https://www.reddit.com/r/Python/comments/13cekda/scraping_data_then_finding_a_way_to_monetize_it/)
 - [After tearing my hair out writing JavaScript the last few days how close are we to Python in the browser?](https://www.reddit.com/r/Python/comments/13ccenx/after_tearing_my_hair_out_writing_javascript_the/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/13c9b4a/tuesday_daily_thread_advanced_questions/)
 - [Non block orms for tornado](https://www.reddit.com/r/Python/comments/13c94pi/non_block_orms_for_tornado/)
 - [Dashboard library in Python Question.](https://www.reddit.com/r/Python/comments/13c8bpt/dashboard_library_in_python_question/)
-- [Looking for collaborators for a &quot;Workflow Assistant&quot;. Code help or new ideas are welcome!](https://www.reddit.com/r/Python/comments/13c1lle/looking_for_collaborators_for_a_workflow/)
 <!-- BLOG-POST-LIST:END -->
