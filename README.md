@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [15 tips and tricks for writing better Python](https://www.reddit.com/r/Python/comments/13e5oxw/15_tips_and_tricks_for_writing_better_python/)
 - [Is it worth it](https://www.reddit.com/r/Python/comments/13e509i/is_it_worth_it/)
 - [Mypy 1.3 Released](https://www.reddit.com/r/Python/comments/13e40pr/mypy_13_released/)
 - [Parabollat](https://www.reddit.com/r/Python/comments/13e3oyj/parabollat/)
 - [Simplify TradingView&#39;s Lightweight Charts in Python!](https://www.reddit.com/r/Python/comments/13e36mq/simplify_tradingviews_lightweight_charts_in_python/)
-- [Created a short video about `dict.get&lpar;&rpar;`](https://www.reddit.com/r/Python/comments/13e1fq7/created_a_short_video_about_dictget/)
 <!-- BLOG-POST-LIST:END -->
