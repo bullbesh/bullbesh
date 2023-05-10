@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplify TradingView&#39;s Lightweight Charts in Python!](https://www.reddit.com/r/Python/comments/13e36mq/simplify_tradingviews_lightweight_charts_in_python/)
 - [Created a short video about `dict.get&lpar;&rpar;`](https://www.reddit.com/r/Python/comments/13e1fq7/created_a_short_video_about_dictget/)
-- [created a short video about `dict.get&lpar;&rpar;`](https://www.reddit.com/r/Python/comments/13e1060/created_a_short_video_about_dictget/)
 - [lowercase_underscores versus CamelCase](https://www.reddit.com/r/Python/comments/13dzvi1/lowercase_underscores_versus_camelcase/)
 - [SacPy - Python in a Nutshell with Authors Alex Martelli and Anna Ravenscroft](https://www.reddit.com/r/Python/comments/13dy9ud/sacpy_python_in_a_nutshell_with_authors_alex/)
 - [Bevy v2.0](https://www.reddit.com/r/Python/comments/13dvdk8/bevy_v20/)
