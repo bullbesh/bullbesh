@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bevy v2.0](https://www.reddit.com/r/Python/comments/13dvdk8/bevy_v20/)
 - [Extending web applications with WebAssembly and Python](https://www.reddit.com/r/Python/comments/13dtojs/extending_web_applications_with_webassembly_and/)
-- [Easy calculator for beginner](https://www.reddit.com/r/Python/comments/13dt6ok/easy_calculator_for_beginner/)
 - [HarvardX CS50&#39;s Introduction to Programming with Python](https://www.reddit.com/r/Python/comments/13dls6c/harvardx_cs50s_introduction_to_programming_with/)
 - [GitHub - griptape-ai/griptape: Python framework for AI workflows and pipelines with chain of thought reasoning, external tools, and memory.](https://www.reddit.com/r/Python/comments/13djuec/github_griptapeaigriptape_python_framework_for_ai/)
 - [Cleanest way to install python](https://www.reddit.com/r/Python/comments/13dioxr/cleanest_way_to_install_python/)
