@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I accidentally nuked my project along with my OS yesterday. Now rewriting, and need help structuring the project.](https://www.reddit.com/r/Python/comments/13dk44v/i_accidentally_nuked_my_project_along_with_my_os/)
+- [GitHub - griptape-ai/griptape: Python framework for AI workflows and pipelines with chain of thought reasoning, external tools, and memory.](https://www.reddit.com/r/Python/comments/13djuec/github_griptapeaigriptape_python_framework_for_ai/)
+- [Python for stock analysis?](https://www.reddit.com/r/Python/comments/13dj7ka/python_for_stock_analysis/)
 - [Cleanest way to install python](https://www.reddit.com/r/Python/comments/13dioxr/cleanest_way_to_install_python/)
 - [Demand Planning](https://www.reddit.com/r/Python/comments/13di80d/demand_planning/)
-- [When the CPU becomes hot, it will run slower for a billion-row test](https://www.reddit.com/r/Python/comments/13di3pi/when_the_cpu_becomes_hot_it_will_run_slower_for_a/)
-- [Introducing Grasshopper - An Open Source Python Library for Load Testing](https://www.reddit.com/r/Python/comments/13dghoc/introducing_grasshopper_an_open_source_python/)
-- [how does the timeit library get such high precision?](https://www.reddit.com/r/Python/comments/13dfi21/how_does_the_timeit_library_get_such_high/)
 <!-- BLOG-POST-LIST:END -->
