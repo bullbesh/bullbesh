@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What’s the difference between software developer and software engineer?](https://www.reddit.com/r/Python/comments/13d8ni0/whats_the_difference_between_software_developer/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/13dahzw/wednesday_daily_thread_beginner_questions/)
 - [Do you really need microservices?](https://www.reddit.com/r/Python/comments/13d227c/do_you_really_need_microservices/)
 - [Best Python Courses on Coursera To Learn you Might Consider](https://www.reddit.com/r/Python/comments/13cz9tr/best_python_courses_on_coursera_to_learn_you/)
 - [I made a tool to analyze and visualize data using ChatGPT, Pyodide, and Plotly](https://www.reddit.com/r/Python/comments/13cyll7/i_made_a_tool_to_analyze_and_visualize_data_using/)
