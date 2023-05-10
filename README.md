@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [HarvardX CS50&#39;s Introduction to Programming with Python](https://www.reddit.com/r/Python/comments/13dls6c/harvardx_cs50s_introduction_to_programming_with/)
 - [GitHub - griptape-ai/griptape: Python framework for AI workflows and pipelines with chain of thought reasoning, external tools, and memory.](https://www.reddit.com/r/Python/comments/13djuec/github_griptapeaigriptape_python_framework_for_ai/)
 - [Python for stock analysis?](https://www.reddit.com/r/Python/comments/13dj7ka/python_for_stock_analysis/)
 - [Cleanest way to install python](https://www.reddit.com/r/Python/comments/13dioxr/cleanest_way_to_install_python/)
 - [Demand Planning](https://www.reddit.com/r/Python/comments/13di80d/demand_planning/)
-- [When the CPU becomes hot, it will run slower for a billion-row test](https://www.reddit.com/r/Python/comments/13di3pi/when_the_cpu_becomes_hot_it_will_run_slower_for_a/)
 <!-- BLOG-POST-LIST:END -->
