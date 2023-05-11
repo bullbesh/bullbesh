@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Modernizing authentication?](https://www.reddit.com/r/Python/comments/13eacg7/modernizing_authentication/)
 - [word2num: Convert complex &quot;word numbers&quot; to numerical values](https://www.reddit.com/r/Python/comments/13e8tzc/word2num_convert_complex_word_numbers_to/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/13e7jfp/thursday_daily_thread_python_careers_courses_and/)
 - [15 tips and tricks for writing better Python](https://www.reddit.com/r/Python/comments/13e5oxw/15_tips_and_tricks_for_writing_better_python/)
 - [Mypy 1.3 Released](https://www.reddit.com/r/Python/comments/13e40pr/mypy_13_released/)
-- [Parabollat](https://www.reddit.com/r/Python/comments/13e3oyj/parabollat/)
 <!-- BLOG-POST-LIST:END -->
