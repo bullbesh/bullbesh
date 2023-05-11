@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Python Courses on Udemy for Beginners to Advanced](https://www.reddit.com/r/Python/comments/13ethav/best_python_courses_on_udemy_for_beginners_to/)
+- [Python code comprehension survey!!](https://www.reddit.com/r/Python/comments/13etcmd/python_code_comprehension_survey/)
+- [Tips on fine-tuning Transformer models for multilingual customer support?](https://www.reddit.com/r/Python/comments/13eshf0/tips_on_finetuning_transformer_models_for/)
+- [How can I start programming a trading bot?](https://www.reddit.com/r/Python/comments/13esgtp/how_can_i_start_programming_a_trading_bot/)
 - [WeasyPrint v59 Has Been Released](https://www.reddit.com/r/Python/comments/13erva8/weasyprint_v59_has_been_released/)
-- [Is 10k enough for 8hrs Internship?](https://www.reddit.com/r/Python/comments/13erffy/is_10k_enough_for_8hrs_internship/)
-- [Any good course on Python microservices?](https://www.reddit.com/r/Python/comments/13eqxic/any_good_course_on_python_microservices/)
-- [From Novice to Pro: How to Use Kaggle Kernels with Python](https://www.reddit.com/r/Python/comments/13eq5rh/from_novice_to_pro_how_to_use_kaggle_kernels_with/)
-- [LEARN PYTHON &lpar;1-20 &rpar; and LEARN PYTHON &lpar;21-40&rpar;](https://www.reddit.com/r/Python/comments/13eq1m6/learn_python_120_and_learn_python_2140/)
 <!-- BLOG-POST-LIST:END -->
