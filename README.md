@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [2 line tic tac toe](https://www.reddit.com/r/Python/comments/13euaww/2_line_tic_tac_toe/)
+- [Alguém sabe de professor particular python?](https://www.reddit.com/r/Python/comments/13etx4y/alguém_sabe_de_professor_particular_python/)
 - [Best Python Courses on Udemy for Beginners to Advanced](https://www.reddit.com/r/Python/comments/13ethav/best_python_courses_on_udemy_for_beginners_to/)
 - [Python code comprehension survey!!](https://www.reddit.com/r/Python/comments/13etcmd/python_code_comprehension_survey/)
 - [Tips on fine-tuning Transformer models for multilingual customer support?](https://www.reddit.com/r/Python/comments/13eshf0/tips_on_finetuning_transformer_models_for/)
-- [How can I start programming a trading bot?](https://www.reddit.com/r/Python/comments/13esgtp/how_can_i_start_programming_a_trading_bot/)
-- [WeasyPrint v59 Has Been Released](https://www.reddit.com/r/Python/comments/13erva8/weasyprint_v59_has_been_released/)
 <!-- BLOG-POST-LIST:END -->
