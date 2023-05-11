@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [WeasyPrint v59 Has Been Released](https://www.reddit.com/r/Python/comments/13erva8/weasyprint_v59_has_been_released/)
+- [Is 10k enough for 8hrs Internship?](https://www.reddit.com/r/Python/comments/13erffy/is_10k_enough_for_8hrs_internship/)
+- [Any good course on Python microservices?](https://www.reddit.com/r/Python/comments/13eqxic/any_good_course_on_python_microservices/)
 - [From Novice to Pro: How to Use Kaggle Kernels with Python](https://www.reddit.com/r/Python/comments/13eq5rh/from_novice_to_pro_how_to_use_kaggle_kernels_with/)
 - [LEARN PYTHON &lpar;1-20 &rpar; and LEARN PYTHON &lpar;21-40&rpar;](https://www.reddit.com/r/Python/comments/13eq1m6/learn_python_120_and_learn_python_2140/)
-- [Faster CPython at PyCon, part one](https://www.reddit.com/r/Python/comments/13eplm1/faster_cpython_at_pycon_part_one/)
-- [Convert a video file or camera captured to display as text.](https://www.reddit.com/r/Python/comments/13emsxv/convert_a_video_file_or_camera_captured_to/)
-- [AI MIDI Generator - Generate MIDI Clips with ChatGPT](https://www.reddit.com/r/Python/comments/13ele8j/ai_midi_generator_generate_midi_clips_with_chatgpt/)
 <!-- BLOG-POST-LIST:END -->
