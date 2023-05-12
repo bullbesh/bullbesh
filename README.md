@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML5 Web Pivot/Drilldown Viewer for Polars.exe](https://www.reddit.com/r/Python/comments/13f8ade/html5_web_pivotdrilldown_viewer_for_polarsexe/)
+- [Open-Source Hawkeye for Volleyball](https://www.reddit.com/r/Python/comments/13f815u/opensource_hawkeye_for_volleyball/)
 - [Free Cloud Desktops with Python from Enoki!](https://www.reddit.com/r/Python/comments/13f7use/free_cloud_desktops_with_python_from_enoki/)
 - [AI tools](https://www.reddit.com/r/Python/comments/13f0xek/ai_tools/)
 - [Scaling Python for Web Services](https://www.reddit.com/r/Python/comments/13eybmd/scaling_python_for_web_services/)
-- [2 line tic tac toe](https://www.reddit.com/r/Python/comments/13euaww/2_line_tic_tac_toe/)
-- [Tips on fine-tuning Transformer models for multilingual customer support?](https://www.reddit.com/r/Python/comments/13eshf0/tips_on_finetuning_transformer_models_for/)
 <!-- BLOG-POST-LIST:END -->
