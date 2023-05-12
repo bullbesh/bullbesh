@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Got problem with pip install](https://www.reddit.com/r/Python/comments/13fg7t3/got_problem_with_pip_install/)
 - [Impressive Python use-cases](https://www.reddit.com/r/Python/comments/13ff8o4/impressive_python_usecases/)
 - [Cloud Mobile Browser IDE for Python](https://www.reddit.com/r/Python/comments/13ff2gj/cloud_mobile_browser_ide_for_python/)
 - [Introducing Solara: A Pure Python, React-style Framework for Scaling Your Web Apps](https://www.reddit.com/r/Python/comments/13fegbp/introducing_solara_a_pure_python_reactstyle/)
 - [Should Rye Exist?](https://www.reddit.com/r/Python/comments/13fdx8a/should_rye_exist/)
-- [HTML5 Web Pivot/Drilldown Viewer for Polars.exe](https://www.reddit.com/r/Python/comments/13f8ade/html5_web_pivotdrilldown_viewer_for_polarsexe/)
 <!-- BLOG-POST-LIST:END -->
