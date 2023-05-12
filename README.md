@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Data Structure and Algorithms exercises](https://www.reddit.com/r/Python/comments/13fkp8g/python_data_structure_and_algorithms_exercises/)
+- [Python __init__ Vs __new__ Method - With Examples](https://www.reddit.com/r/Python/comments/13fk77q/python_init_vs_new_method_with_examples/)
 - [Script to automatically install torch and CUDA](https://www.reddit.com/r/Python/comments/13fjiph/script_to_automatically_install_torch_and_cuda/)
 - [Data Analysis with Polars](https://www.reddit.com/r/Python/comments/13fjbzj/data_analysis_with_polars/)
 - [Got problem with pip install](https://www.reddit.com/r/Python/comments/13fg7t3/got_problem_with_pip_install/)
-- [Impressive Python use-cases](https://www.reddit.com/r/Python/comments/13ff8o4/impressive_python_usecases/)
-- [Cloud Mobile Browser IDE for Python](https://www.reddit.com/r/Python/comments/13ff2gj/cloud_mobile_browser_ide_for_python/)
 <!-- BLOG-POST-LIST:END -->
