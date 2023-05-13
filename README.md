@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Algorithmic Trading Application](https://www.reddit.com/r/Python/comments/13fzqed/algorithmic_trading_application/)
-- [Auto completion AI’s](https://www.reddit.com/r/Python/comments/13fxoo1/auto_completion_ais/)
-- [How to Convert Web to PDF Using PYTHON? | APITier Blog](https://www.reddit.com/r/Python/comments/13fwru3/how_to_convert_web_to_pdf_using_python_apitier/)
-- [Python libs that I wish were part of the standard library](https://www.reddit.com/r/Python/comments/13fvkqj/python_libs_that_i_wish_were_part_of_the_standard/)
-- [Thermite - a new CLI generator](https://www.reddit.com/r/Python/comments/13ftxzx/thermite_a_new_cli_generator/)
+- [pyproject-generator: A CLI tool to set up Python projects](https://www.reddit.com/r/Python/comments/13g2ryg/pyprojectgenerator_a_cli_tool_to_set_up_python/)
+- [GLaDOS -- Family of Open LLM ChatBots](https://www.reddit.com/r/Python/comments/13g2qbp/glados_family_of_open_llm_chatbots/)
+- [Use Python to Remove Passive Aggressiveness from Tweets &lpar;powered by Dev-GPT&rpar;](https://www.reddit.com/r/Python/comments/13g2fp7/use_python_to_remove_passive_aggressiveness_from/)
+- [Create a program that calculates the average of a list of numbers.](https://www.reddit.com/r/Python/comments/13g24w4/create_a_program_that_calculates_the_average_of_a/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/13g1e22/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
