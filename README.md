@@ -12,5 +12,5 @@
 - [Python News: What&#39;s New From April 2023 – Real Python](https://www.reddit.com/r/Python/comments/13gk6gs/python_news_whats_new_from_april_2023_real_python/)
 - [Best 7 Atom Packages To Use In 2023 - Articlis](https://www.reddit.com/r/Python/comments/13ghzwg/best_7_atom_packages_to_use_in_2023_articlis/)
 - [Mastering Short Circuiting in Python: A Comprehensive Guide’](https://www.reddit.com/r/Python/comments/13gh8tn/mastering_short_circuiting_in_python_a/)
-- [I don&#39;t understand why importing my file isn&#39;t working.](https://www.reddit.com/r/Python/comments/13ggg0i/i_dont_understand_why_importing_my_file_isnt/)
+- [Anything similiar to The Odin Project?](https://www.reddit.com/r/Python/comments/13gffoz/anything_similiar_to_the_odin_project/)
 <!-- BLOG-POST-LIST:END -->
