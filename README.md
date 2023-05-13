@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Need help to scrape a website](https://www.reddit.com/r/Python/comments/13g8eft/need_help_to_scrape_a_website/)
+- [When will Python4 out, and what will be the futures?](https://www.reddit.com/r/Python/comments/13ga731/when_will_python4_out_and_what_will_be_the_futures/)
+- [Anybody has code for a gui app to extract images from several pdfs at once?](https://www.reddit.com/r/Python/comments/13g9g5j/anybody_has_code_for_a_gui_app_to_extract_images/)
 - [What applications you use most often ?](https://www.reddit.com/r/Python/comments/13g6qk6/what_applications_you_use_most_often/)
 - [Pyscript founders](https://www.reddit.com/r/Python/comments/13g6ca3/pyscript_founders/)
-- [How to understand word problems](https://www.reddit.com/r/Python/comments/13g4twb/how_to_understand_word_problems/)
 - [Do You Use Singletons?](https://www.reddit.com/r/Python/comments/13g4ml1/do_you_use_singletons/)
 <!-- BLOG-POST-LIST:END -->
