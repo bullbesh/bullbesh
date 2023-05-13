@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do You Use Singletons?](https://www.reddit.com/r/Python/comments/13g4ml1/do_you_use_singletons/)
 - [pyproject-generator: A CLI tool to set up Python projects](https://www.reddit.com/r/Python/comments/13g2ryg/pyprojectgenerator_a_cli_tool_to_set_up_python/)
 - [GLaDOS -- Family of Open LLM ChatBots](https://www.reddit.com/r/Python/comments/13g2qbp/glados_family_of_open_llm_chatbots/)
 - [Use Python to Remove Passive Aggressiveness from Tweets &lpar;powered by Dev-GPT&rpar;](https://www.reddit.com/r/Python/comments/13g2fp7/use_python_to_remove_passive_aggressiveness_from/)
-- [Create a program that calculates the average of a list of numbers.](https://www.reddit.com/r/Python/comments/13g24w4/create_a_program_that_calculates_the_average_of_a/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/13g1e22/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
