@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[OC] Python Cheat Sheet in PCB design](https://www.reddit.com/r/Python/comments/13gpfiu/oc_python_cheat_sheet_in_pcb_design/)
 - [How to send bulk messages with Python &lpar;WhatsApp/Telegram for any type.&rpar;](https://www.reddit.com/r/Python/comments/13go8s8/how_to_send_bulk_messages_with_python/)
 - [Space Instrument Calibration: Keras Tuner + Multi-Output Regression](https://www.reddit.com/r/Python/comments/13gkql0/space_instrument_calibration_keras_tuner/)
 - [Python News: What&#39;s New From April 2023 – Real Python](https://www.reddit.com/r/Python/comments/13gk6gs/python_news_whats_new_from_april_2023_real_python/)
 - [Best 7 Atom Packages To Use In 2023 - Articlis](https://www.reddit.com/r/Python/comments/13ghzwg/best_7_atom_packages_to_use_in_2023_articlis/)
-- [Mastering Short Circuiting in Python: A Comprehensive Guide’](https://www.reddit.com/r/Python/comments/13gh8tn/mastering_short_circuiting_in_python_a/)
 <!-- BLOG-POST-LIST:END -->
