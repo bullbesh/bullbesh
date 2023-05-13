@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Python Banking Application &lpar;Console Version&rpar;](https://www.reddit.com/r/Python/comments/13gg904/my_python_banking_application_console_version/)
+- [Anything similiar to The Odin Project?](https://www.reddit.com/r/Python/comments/13gffoz/anything_similiar_to_the_odin_project/)
 - [rewrite Self-taught dev shares diverse portfolio](https://www.reddit.com/r/Python/comments/13gen1d/rewrite_selftaught_dev_shares_diverse_portfolio/)
 - [Discussion: Incompatibility between library versions](https://www.reddit.com/r/Python/comments/13gcpo3/discussion_incompatibility_between_library/)
 - [Making pong in pygame as a challenge.](https://www.reddit.com/r/Python/comments/13gbpsm/making_pong_in_pygame_as_a_challenge/)
-- [When will Python4 out, and what will be the futures?](https://www.reddit.com/r/Python/comments/13ga731/when_will_python4_out_and_what_will_be_the_futures/)
-- [Anybody has code for a gui app to extract images from several pdfs at once?](https://www.reddit.com/r/Python/comments/13g9g5j/anybody_has_code_for_a_gui_app_to_extract_images/)
 <!-- BLOG-POST-LIST:END -->
