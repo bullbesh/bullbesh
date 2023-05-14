@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generating abstract art images using Python](https://www.reddit.com/r/Python/comments/13hlqxr/generating_abstract_art_images_using_python/)
+- [Build a Network Tracking script using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/13hl9j8/build_a_network_tracking_script_using_wireshark/)
+- [Multiparadigmatic Web Scraping Tool!](https://www.reddit.com/r/Python/comments/13hkrgc/multiparadigmatic_web_scraping_tool/)
 - [Code interpreter chatbot with Pyodide and LangChain](https://www.reddit.com/r/Python/comments/13hki9r/code_interpreter_chatbot_with_pyodide_and/)
 - [Scrape Bing With Python](https://www.reddit.com/r/Python/comments/13hjobd/scrape_bing_with_python/)
-- [Python standard library backward compatibility breakage?](https://www.reddit.com/r/Python/comments/13hgt0n/python_standard_library_backward_compatibility/)
-- [GitHub - INeddHelp/Matrix-console: &quot;Matrix-console&quot; is a CLI program that simulates SQL injection, downloading resources from random URLs, and CPU component scanning, using random elements to create a more realistic simulation.](https://www.reddit.com/r/Python/comments/13hgrtt/github_ineddhelpmatrixconsole_matrixconsole_is_a/)
-- [Real Multithreading is Coming to Python - Learn How You Can Use It Now](https://www.reddit.com/r/Python/comments/13heek6/real_multithreading_is_coming_to_python_learn_how/)
 <!-- BLOG-POST-LIST:END -->
