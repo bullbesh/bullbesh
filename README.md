@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python standard library backward compatibility breakage?](https://www.reddit.com/r/Python/comments/13hgt0n/python_standard_library_backward_compatibility/)
+- [GitHub - INeddHelp/Matrix-console: &quot;Matrix-console&quot; is a CLI program that simulates SQL injection, downloading resources from random URLs, and CPU component scanning, using random elements to create a more realistic simulation.](https://www.reddit.com/r/Python/comments/13hgrtt/github_ineddhelpmatrixconsole_matrixconsole_is_a/)
 - [Real Multithreading is Coming to Python - Learn How You Can Use It Now](https://www.reddit.com/r/Python/comments/13heek6/real_multithreading_is_coming_to_python_learn_how/)
 - [Pythons chained conditional expressions &lpar;and Fizz Buzz&rpar;](https://www.reddit.com/r/Python/comments/13hd4k4/pythons_chained_conditional_expressions_and_fizz/)
 - [Python knowledge](https://www.reddit.com/r/Python/comments/13hcwes/python_knowledge/)
-- [Creating a WebSockets chat in just 30 lines with Litestar](https://www.reddit.com/r/Python/comments/13hcmuu/creating_a_websockets_chat_in_just_30_lines_with/)
-- [Understanding Python Decorators and How to Use Them Effectively](https://www.reddit.com/r/Python/comments/13hchou/understanding_python_decorators_and_how_to_use/)
 <!-- BLOG-POST-LIST:END -->
