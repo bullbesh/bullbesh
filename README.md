@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How impossible is the job market right now?](https://www.reddit.com/r/Python/comments/13gz1cr/how_impossible_is_the_job_market_right_now/)
 - [Colortag: a new library for ANSI colors on the terminal with simple syntax](https://www.reddit.com/r/Python/comments/13gxxq1/colortag_a_new_library_for_ansi_colors_on_the/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/13gwu0m/sunday_daily_thread_whats_everyone_working_on/)
 - [Why doesn’t python upgrade to be like other programming languages?](https://www.reddit.com/r/Python/comments/13gvm57/why_doesnt_python_upgrade_to_be_like_other/)
 - [Ported a popular &lpar;untested&rpar; 600+ Line Bash Script 📜 to Python 🐍: Introducing rsync-time-machine.py for Time Machine-Style Backups Using Rsync 🔄⏰](https://www.reddit.com/r/Python/comments/13gtmz2/ported_a_popular_untested_600_line_bash_script_to/)
-- [[OC] Python Cheat Sheet in PCB design](https://www.reddit.com/r/Python/comments/13gpfiu/oc_python_cheat_sheet_in_pcb_design/)
 <!-- BLOG-POST-LIST:END -->
