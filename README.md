@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [image processing/analysis in Python](https://www.reddit.com/r/Python/comments/13hazdz/image_processinganalysis_in_python/)
-- [Python Errors and Exceptions: A Comprehensive Guide to Handling Errors and Exceptions in Python https://link.medium.com/ajEzXvthNzb](https://www.reddit.com/r/Python/comments/13hao4v/python_errors_and_exceptions_a_comprehensive/)
-- [The Future of Data Analysis | Using A.I. Models for Analysis](https://www.reddit.com/r/Python/comments/13h7lkz/the_future_of_data_analysis_using_ai_models_for/)
-- [Made a Document Question Answering Bot](https://www.reddit.com/r/Python/comments/13h68ri/made_a_document_question_answering_bot/)
-- [Which is better option to build neural networks ?](https://www.reddit.com/r/Python/comments/13h4z8g/which_is_better_option_to_build_neural_networks/)
+- [Pythons chained conditional expressions &lpar;and Fizz Buzz&rpar;](https://www.reddit.com/r/Python/comments/13hd4k4/pythons_chained_conditional_expressions_and_fizz/)
+- [Python knowledge](https://www.reddit.com/r/Python/comments/13hcwes/python_knowledge/)
+- [Creating a WebSockets chat in just 30 lines with Litestar](https://www.reddit.com/r/Python/comments/13hcmuu/creating_a_websockets_chat_in_just_30_lines_with/)
+- [Understanding Python Decorators and How to Use Them Effectively](https://www.reddit.com/r/Python/comments/13hchou/understanding_python_decorators_and_how_to_use/)
+- [Set default for combination of some fields in data model &lpar;Pydantic or dataclass&rpar;](https://www.reddit.com/r/Python/comments/13hc7mn/set_default_for_combination_of_some_fields_in/)
 <!-- BLOG-POST-LIST:END -->
