@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python package to retrieve data from Steam](https://www.reddit.com/r/Python/comments/13i7oyy/a_python_package_to_retrieve_data_from_steam/)
+- [Introducing Nautikos; a Python tool for updating tags in Kubernetes manifests](https://www.reddit.com/r/Python/comments/13i7jn8/introducing_nautikos_a_python_tool_for_updating/)
+- [Implementing SVM and Kernel SVM with Python&#39;s Scikit-Learn](https://www.reddit.com/r/Python/comments/13i76zx/implementing_svm_and_kernel_svm_with_pythons/)
 - [I interviewed Joris Schellekens, author of the Borb PDF library, about his progress on building a business around an open source library. “If you want a library that is regularly updated by a team of developers, someone needs to pay those developers.”](https://www.reddit.com/r/Python/comments/13i6wo4/i_interviewed_joris_schellekens_author_of_the/)
 - [🎨 Infinite Drawboard in Python](https://www.reddit.com/r/Python/comments/13i6b3h/infinite_drawboard_in_python/)
-- [I made a tiny GPT CLI tool](https://www.reddit.com/r/Python/comments/13i5869/i_made_a_tiny_gpt_cli_tool/)
-- [Python Working with another file](https://www.reddit.com/r/Python/comments/13i45ru/python_working_with_another_file/)
-- [SafeArchive: A File Backup Tool](https://www.reddit.com/r/Python/comments/13i3lua/safearchive_a_file_backup_tool/)
 <!-- BLOG-POST-LIST:END -->
