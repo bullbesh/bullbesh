@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [CoLab Notebook for Reverse Image Search](https://www.reddit.com/r/Python/comments/13ij4b0/colab_notebook_for_reverse_image_search/)
 - [Are you ready to risk it?](https://www.reddit.com/r/Python/comments/13ifsnk/are_you_ready_to_risk_it/)
 - [5 Python Projects People Don’t Know About EP 3](https://www.reddit.com/r/Python/comments/13ielsa/5_python_projects_people_dont_know_about_ep_3/)
 - [Chatgpt MIDI Converter](https://www.reddit.com/r/Python/comments/13iehxy/chatgpt_midi_converter/)
 - [I recorded a 1 hour Data Visualization with Plotly course and uploaded it to Youtube](https://www.reddit.com/r/Python/comments/13idtqw/i_recorded_a_1_hour_data_visualization_with/)
-- [Taipy: an Open-Source Python Only Web App Builder Library](https://www.reddit.com/r/Python/comments/13iawcm/taipy_an_opensource_python_only_web_app_builder/)
 <!-- BLOG-POST-LIST:END -->
