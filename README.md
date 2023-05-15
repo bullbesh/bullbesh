@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I interviewed Joris Schellekens, author of the Borb PDF library, about his progress on building a business around an open source library. “If you want a library that is regularly updated by a team of developers, someone needs to pay those developers.”](https://www.reddit.com/r/Python/comments/13i6wo4/i_interviewed_joris_schellekens_author_of_the/)
+- [🎨 Infinite Drawboard in Python](https://www.reddit.com/r/Python/comments/13i6b3h/infinite_drawboard_in_python/)
+- [I made a tiny GPT CLI tool](https://www.reddit.com/r/Python/comments/13i5869/i_made_a_tiny_gpt_cli_tool/)
 - [Python Working with another file](https://www.reddit.com/r/Python/comments/13i45ru/python_working_with_another_file/)
 - [SafeArchive: A File Backup Tool](https://www.reddit.com/r/Python/comments/13i3lua/safearchive_a_file_backup_tool/)
-- [need help on your python desktop app ?](https://www.reddit.com/r/Python/comments/13i21g4/need_help_on_your_python_desktop_app/)
-- [I made a type-safe mocking library](https://www.reddit.com/r/Python/comments/13i20be/i_made_a_typesafe_mocking_library/)
-- [Release 0.6.0 of FastKafka adds Redditors&#39; requested features](https://www.reddit.com/r/Python/comments/13i0eaz/release_060_of_fastkafka_adds_redditors_requested/)
 <!-- BLOG-POST-LIST:END -->
