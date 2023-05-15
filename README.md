@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [need help on your python desktop app ?](https://www.reddit.com/r/Python/comments/13i21g4/need_help_on_your_python_desktop_app/)
+- [I made a type-safe mocking library](https://www.reddit.com/r/Python/comments/13i20be/i_made_a_typesafe_mocking_library/)
 - [Release 0.6.0 of FastKafka adds Redditors&#39; requested features](https://www.reddit.com/r/Python/comments/13i0eaz/release_060_of_fastkafka_adds_redditors_requested/)
 - [How to achieve AWS rekongnition like accuracy in face recognition?](https://www.reddit.com/r/Python/comments/13hzf31/how_to_achieve_aws_rekongnition_like_accuracy_in/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/13hrkfo/monday_daily_thread_project_ideas/)
-- [What are the Qualities of a Good Model?](https://www.reddit.com/r/Python/comments/13hrgx1/what_are_the_qualities_of_a_good_model/)
-- [Generating abstract art images using Python](https://www.reddit.com/r/Python/comments/13hlqxr/generating_abstract_art_images_using_python/)
 <!-- BLOG-POST-LIST:END -->
