@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I recorded a 1 hour Data Visualization with Plotly course and uploaded it to Youtube](https://www.reddit.com/r/Python/comments/13idtqw/i_recorded_a_1_hour_data_visualization_with/)
 - [Taipy: an Open-Source Python Only Web App Builder Library](https://www.reddit.com/r/Python/comments/13iawcm/taipy_an_opensource_python_only_web_app_builder/)
 - [Benchmarking for Pandas and Polars Using CSV and Parquet File](https://www.reddit.com/r/Python/comments/13i9wco/benchmarking_for_pandas_and_polars_using_csv_and/)
 - [Your Django-Docker Starter Kit: Streamlined Development &amp; Production Ready](https://www.reddit.com/r/Python/comments/13i8xla/your_djangodocker_starter_kit_streamlined/)
 - [Mastering Functions in Python: A Practical Guide to Code Reusability and Modularity](https://www.reddit.com/r/Python/comments/13i8v71/mastering_functions_in_python_a_practical_guide/)
-- [Github Action for using Pytest&#39;s --last-failed option](https://www.reddit.com/r/Python/comments/13i8ijp/github_action_for_using_pytests_lastfailed_option/)
 <!-- BLOG-POST-LIST:END -->
