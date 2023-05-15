@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Release 0.6.0 of FastKafka adds Redditors&#39; requested features](https://www.reddit.com/r/Python/comments/13i0eaz/release_060_of_fastkafka_adds_redditors_requested/)
 - [How to achieve AWS rekongnition like accuracy in face recognition?](https://www.reddit.com/r/Python/comments/13hzf31/how_to_achieve_aws_rekongnition_like_accuracy_in/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/13hrkfo/monday_daily_thread_project_ideas/)
 - [What are the Qualities of a Good Model?](https://www.reddit.com/r/Python/comments/13hrgx1/what_are_the_qualities_of_a_good_model/)
 - [Generating abstract art images using Python](https://www.reddit.com/r/Python/comments/13hlqxr/generating_abstract_art_images_using_python/)
-- [Build a Network Tracking script using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/13hl9j8/build_a_network_tracking_script_using_wireshark/)
 <!-- BLOG-POST-LIST:END -->
