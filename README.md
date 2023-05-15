@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/13hrkfo/monday_daily_thread_project_ideas/)
 - [What are the Qualities of a Good Model?](https://www.reddit.com/r/Python/comments/13hrgx1/what_are_the_qualities_of_a_good_model/)
-- [Introducing AnkiPackBuilder: Simplify Anki Deck Creation &lpar;Feedback Appreciated&rpar;](https://www.reddit.com/r/Python/comments/13hmmc9/introducing_ankipackbuilder_simplify_anki_deck/)
 - [Generating abstract art images using Python](https://www.reddit.com/r/Python/comments/13hlqxr/generating_abstract_art_images_using_python/)
 - [Build a Network Tracking script using Wireshark and Google Maps](https://www.reddit.com/r/Python/comments/13hl9j8/build_a_network_tracking_script_using_wireshark/)
+- [Multiparadigmatic Web Scraping Tool!](https://www.reddit.com/r/Python/comments/13hkrgc/multiparadigmatic_web_scraping_tool/)
 <!-- BLOG-POST-LIST:END -->
