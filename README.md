@@ -11,6 +11,6 @@
 - [Are you ready to risk it?](https://www.reddit.com/r/Python/comments/13ifsnk/are_you_ready_to_risk_it/)
 - [5 Python Projects People Don’t Know About EP 3](https://www.reddit.com/r/Python/comments/13ielsa/5_python_projects_people_dont_know_about_ep_3/)
 - [Chatgpt MIDI Converter](https://www.reddit.com/r/Python/comments/13iehxy/chatgpt_midi_converter/)
-- [I created an emoji movie game with chatgpt as the game master](https://www.reddit.com/r/Python/comments/13iedd3/i_created_an_emoji_movie_game_with_chatgpt_as_the/)
 - [I recorded a 1 hour Data Visualization with Plotly course and uploaded it to Youtube](https://www.reddit.com/r/Python/comments/13idtqw/i_recorded_a_1_hour_data_visualization_with/)
+- [Taipy: an Open-Source Python Only Web App Builder Library](https://www.reddit.com/r/Python/comments/13iawcm/taipy_an_opensource_python_only_web_app_builder/)
 <!-- BLOG-POST-LIST:END -->
