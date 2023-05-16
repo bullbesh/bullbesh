@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why learn Python?](https://www.reddit.com/r/Python/comments/13ijhlp/why_learn_python/)
-- [CoLab Notebook for Reverse Image Search](https://www.reddit.com/r/Python/comments/13ij4b0/colab_notebook_for_reverse_image_search/)
-- [5 Python Projects People Don’t Know About EP 3](https://www.reddit.com/r/Python/comments/13ielsa/5_python_projects_people_dont_know_about_ep_3/)
-- [Chatgpt MIDI Converter](https://www.reddit.com/r/Python/comments/13iehxy/chatgpt_midi_converter/)
-- [I recorded a 1 hour Data Visualization with Plotly course and uploaded it to Youtube](https://www.reddit.com/r/Python/comments/13idtqw/i_recorded_a_1_hour_data_visualization_with/)
+- [GPT -&gt; PDF chat project completed!](https://www.reddit.com/r/Python/comments/13iqvhm/gpt_pdf_chat_project_completed/)
+- [Zillion - Semantic data modeling and analytics with a sprinkle of AI](https://www.reddit.com/r/Python/comments/13ipubp/zillion_semantic_data_modeling_and_analytics_with/)
+- [Built an easy to use site to troubleshoot and locate large amounts of camera/video streams.](https://www.reddit.com/r/Python/comments/13ipipi/built_an_easy_to_use_site_to_troubleshoot_and/)
+- [Qr code genration and tracking api](https://www.reddit.com/r/Python/comments/13ip2zb/qr_code_genration_and_tracking_api/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/13ip05k/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
