@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI&#39;s whisper](https://www.reddit.com/r/Python/comments/13iuh9r/openais_whisper/)
+- [Introducing seaborn-polars, a package allowing to use Polars DataFrames and LazyFrames with Seaborn](https://www.reddit.com/r/Python/comments/13ittrl/introducing_seabornpolars_a_package_allowing_to/)
 - [GPT -&gt; PDF chat project completed!](https://www.reddit.com/r/Python/comments/13iqvhm/gpt_pdf_chat_project_completed/)
 - [Zillion - Semantic data modeling and analytics with a sprinkle of AI](https://www.reddit.com/r/Python/comments/13ipubp/zillion_semantic_data_modeling_and_analytics_with/)
 - [Built an easy to use site to troubleshoot and locate large amounts of camera/video streams.](https://www.reddit.com/r/Python/comments/13ipipi/built_an_easy_to_use_site_to_troubleshoot_and/)
-- [Qr code genration and tracking api](https://www.reddit.com/r/Python/comments/13ip2zb/qr_code_genration_and_tracking_api/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/13ip05k/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
