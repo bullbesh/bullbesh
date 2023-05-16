@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why you should still read the docs](https://www.reddit.com/r/Python/comments/13j3bbk/why_you_should_still_read_the_docs/)
+- [Python’s super&lpar;&rpar; considered super! &lpar;Raymond Hettinger&rpar;](https://www.reddit.com/r/Python/comments/13j39al/pythons_super_considered_super_raymond_hettinger/)
 - [Keras GPT Copilot &lpar;New Python Package&rpar; - Integrating an LLM copilot within the Keras model development workflow!](https://www.reddit.com/r/Python/comments/13j1zjb/keras_gpt_copilot_new_python_package_integrating/)
-- [Library to prevent common circular import error](https://www.reddit.com/r/Python/comments/13j1e4h/library_to_prevent_common_circular_import_error/)
 - [LunarVim as a Python IDE](https://www.reddit.com/r/Python/comments/13j0nz5/lunarvim_as_a_python_ide/)
 - [Day 4: Stacks | Equal Stacks [ Interview Prep]](https://www.reddit.com/r/Python/comments/13j0kde/day_4_stacks_equal_stacks_interview_prep/)
-- [News APi in python for your next project](https://www.reddit.com/r/Python/comments/13j08n5/news_api_in_python_for_your_next_project/)
 <!-- BLOG-POST-LIST:END -->
