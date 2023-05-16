@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friend &amp; I built a production debugging &amp; monitoring alternative to Datadog, New Relic &lpar;based on Clickhouse + OpenTelemetry&rpar;](https://www.reddit.com/r/Python/comments/13j9inv/friend_i_built_a_production_debugging_monitoring/)
+- [RPython-based emulator speeds up RISC-V simulation over 15x](https://www.reddit.com/r/Python/comments/13j9i06/rpythonbased_emulator_speeds_up_riscv_simulation/)
+- [I just published ‘Exploring Recursion: A Comprehensive Guide to Recursive Algorithms’](https://www.reddit.com/r/Python/comments/13j8xvc/i_just_published_exploring_recursion_a/)
+- [Tailor AWS Identity Center &lpar;SSO&rpar; Permissions Per Account with IAMbic](https://www.reddit.com/r/Python/comments/13j88x7/tailor_aws_identity_center_sso_permissions_per/)
 - [Implementation of lazy import, in a hacky way with context manager&lpar;Like PEP690&#39;s eager_imports but lazy&rpar;](https://www.reddit.com/r/Python/comments/13j7la4/implementation_of_lazy_import_in_a_hacky_way_with/)
-- [I am trying to get a career in programming and don’t know how to begin](https://www.reddit.com/r/Python/comments/13j7368/i_am_trying_to_get_a_career_in_programming_and/)
-- [Why is &quot;strict fixed requirements&quot; a best practice when distributing packages?](https://www.reddit.com/r/Python/comments/13j6bri/why_is_strict_fixed_requirements_a_best_practice/)
-- [Using and Creating Global Variables in Your Python Functions – Real Python](https://www.reddit.com/r/Python/comments/13j664y/using_and_creating_global_variables_in_your/)
-- [Pandas AI: The Generative AI Python Library - KDnuggets](https://www.reddit.com/r/Python/comments/13j4jg8/pandas_ai_the_generative_ai_python_library/)
 <!-- BLOG-POST-LIST:END -->
