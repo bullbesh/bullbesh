@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;#:&quot; to denote a multiline comment?](https://www.reddit.com/r/Python/comments/13k0t6r/to_denote_a_multiline_comment/)
+- [image_collage_filter.py, an image processing script that recreates an image as an image made up of smaller images!](https://www.reddit.com/r/Python/comments/13k0sg9/image_collage_filterpy_an_image_processing_script/)
 - [10 Python Itertools To Make Your Code Neater, Cleaner, and Better](https://www.reddit.com/r/Python/comments/13k0daj/10_python_itertools_to_make_your_code_neater/)
 - [🗓 date-operations: A package for common date operations [Package on PyPy]](https://www.reddit.com/r/Python/comments/13k0b93/dateoperations_a_package_for_common_date/)
 - [Python API server](https://www.reddit.com/r/Python/comments/13k04dz/python_api_server/)
-- [The Power of Bit Manipulation - How to Solve Problems Efficiently](https://www.reddit.com/r/Python/comments/13jy2x8/the_power_of_bit_manipulation_how_to_solve/)
-- [In the Market for Python/Django short term gigs](https://www.reddit.com/r/Python/comments/13jxyk5/in_the_market_for_pythondjango_short_term_gigs/)
 <!-- BLOG-POST-LIST:END -->
