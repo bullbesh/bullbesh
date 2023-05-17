@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Course to learn code structuring and best practices](https://www.reddit.com/r/Python/comments/13jjff2/course_to_learn_code_structuring_and_best/)
-- [Cross device persistent caching service in python/js/typescript](https://www.reddit.com/r/Python/comments/13jh64x/cross_device_persistent_caching_service_in/)
-- [Integrate popular machine learning models into your applications in mins.](https://www.reddit.com/r/Python/comments/13jgwyr/integrate_popular_machine_learning_models_into/)
-- [Which way do you prefer to define an empty string in Python?](https://www.reddit.com/r/Python/comments/13jg6wk/which_way_do_you_prefer_to_define_an_empty_string/)
-- [Looking for collaborators for a &quot;Workflow Assistant&quot;. Code help or new ideas are welcome!](https://www.reddit.com/r/Python/comments/13jfs7q/looking_for_collaborators_for_a_workflow/)
+- [Can you shortcut learning Python with ChatGPT](https://www.reddit.com/r/Python/comments/13jmz87/can_you_shortcut_learning_python_with_chatgpt/)
+- [dnsrezulf.py: The Walter Blanco to dig&#39;s Walter White! &lpar;DNS protocol RFC 1035 implementation prototype, commented&rpar;](https://www.reddit.com/r/Python/comments/13jm3hp/dnsrezulfpy_the_walter_blanco_to_digs_walter/)
+- [SteamGiftBot is an application I wrote in Python 3.9.6](https://www.reddit.com/r/Python/comments/13jlk40/steamgiftbot_is_an_application_i_wrote_in_python/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/13jlfti/wednesday_daily_thread_beginner_questions/)
+- [Hi! I created a library which simplifies and augments usage of Python threads - called SuperLoops. It provides support for thread maintenance, events, failure handling, health status propagation, and graceful termination. Hope you find it useful 👋](https://www.reddit.com/r/Python/comments/13jkssi/hi_i_created_a_library_which_simplifies_and/)
 <!-- BLOG-POST-LIST:END -->
