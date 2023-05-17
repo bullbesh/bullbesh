@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Python Itertools To Make Your Code Neater, Cleaner, and Better](https://www.reddit.com/r/Python/comments/13k0daj/10_python_itertools_to_make_your_code_neater/)
+- [🗓 date-operations: A package for common date operations [Package on PyPy]](https://www.reddit.com/r/Python/comments/13k0b93/dateoperations_a_package_for_common_date/)
+- [Python API server](https://www.reddit.com/r/Python/comments/13k04dz/python_api_server/)
 - [The Power of Bit Manipulation - How to Solve Problems Efficiently](https://www.reddit.com/r/Python/comments/13jy2x8/the_power_of_bit_manipulation_how_to_solve/)
 - [In the Market for Python/Django short term gigs](https://www.reddit.com/r/Python/comments/13jxyk5/in_the_market_for_pythondjango_short_term_gigs/)
-- [Best video resource to learn django.](https://www.reddit.com/r/Python/comments/13jxukb/best_video_resource_to_learn_django/)
-- [gcp-log: Python library to format logs as GCP-compatible JSON.](https://www.reddit.com/r/Python/comments/13jxqj7/gcplog_python_library_to_format_logs_as/)
-- [Share a Python script update of Linkedin Post Automation using Linkedin API](https://www.reddit.com/r/Python/comments/13jx96u/share_a_python_script_update_of_linkedin_post/)
 <!-- BLOG-POST-LIST:END -->
