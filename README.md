@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Design a Layout in Textual](https://www.reddit.com/r/Python/comments/13k603q/how_to_design_a_layout_in_textual/)
 - [‘Exploring Lambda Functions: Syntax, Applications, and Real-World Examples&#39;](https://www.reddit.com/r/Python/comments/13k444u/exploring_lambda_functions_syntax_applications/)
 - [&quot;#:&quot; to denote a multiline comment?](https://www.reddit.com/r/Python/comments/13k0t6r/to_denote_a_multiline_comment/)
 - [image_collage_filter.py, an image processing script that recreates an image as an image made up of smaller images!](https://www.reddit.com/r/Python/comments/13k0sg9/image_collage_filterpy_an_image_processing_script/)
 - [10 Python Itertools To Make Your Code Neater, Cleaner, and Better](https://www.reddit.com/r/Python/comments/13k0daj/10_python_itertools_to_make_your_code_neater/)
-- [🗓 date-operations: A package for common date operations [Package on PyPy]](https://www.reddit.com/r/Python/comments/13k0b93/dateoperations_a_package_for_common_date/)
 <!-- BLOG-POST-LIST:END -->
