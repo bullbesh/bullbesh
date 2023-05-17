@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Strategy for finding new entries between two pandas data frames? [Trying to find new or changed entries to a calendar]](https://www.reddit.com/r/Python/comments/13kbkwn/strategy_for_finding_new_entries_between_two/)
+- [Announcing aws-cdk-secure-api v0.3.0: Using AWS CDK to Easily Deploy &quot;Secured&quot; APIs](https://www.reddit.com/r/Python/comments/13kbd5s/announcing_awscdksecureapi_v030_using_aws_cdk_to/)
+- [I made a plugin for Anki for adding pitch accent graphs from OJAD](https://www.reddit.com/r/Python/comments/13kbbe3/i_made_a_plugin_for_anki_for_adding_pitch_accent/)
 - [Suggestions for an automation script that uploads local folders to Google Drive](https://www.reddit.com/r/Python/comments/13kai0g/suggestions_for_an_automation_script_that_uploads/)
 - [Python Tutorials : PIP Commands in Python](https://www.reddit.com/r/Python/comments/13k9na0/python_tutorials_pip_commands_in_python/)
-- [Decorators in Python in Hindi](https://www.reddit.com/r/Python/comments/13k9he1/decorators_in_python_in_hindi/)
-- [Python for Network Engineers](https://www.reddit.com/r/Python/comments/13k7djn/python_for_network_engineers/)
-- [Observability for Distributed Computing with Dask](https://www.reddit.com/r/Python/comments/13k6jv8/observability_for_distributed_computing_with_dask/)
 <!-- BLOG-POST-LIST:END -->
