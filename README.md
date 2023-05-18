@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I published a Python Plotly Data Visualization course on Youtube](https://www.reddit.com/r/Python/comments/13kgvoe/i_published_a_python_plotly_data_visualization/)
+- [Should the way I learn Python change now that you can code with an AI companion or other things of the sort?](https://www.reddit.com/r/Python/comments/13kk1zv/should_the_way_i_learn_python_change_now_that_you/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/13kiiw7/thursday_daily_thread_python_careers_courses_and/)
 - [Postgres Lock Explainer](https://www.reddit.com/r/Python/comments/13kgod5/postgres_lock_explainer/)
 - [Project to train an AI to automate debugging and refactoring Python](https://www.reddit.com/r/Python/comments/13kdiub/project_to_train_an_ai_to_automate_debugging_and/)
 - [Strategy for finding new entries between two pandas data frames? [Trying to find new or changed entries to a calendar]](https://www.reddit.com/r/Python/comments/13kbkwn/strategy_for_finding_new_entries_between_two/)
-- [Announcing aws-cdk-secure-api v0.3.0: Using AWS CDK to Easily Deploy &quot;Secured&quot; APIs](https://www.reddit.com/r/Python/comments/13kbd5s/announcing_awscdksecureapi_v030_using_aws_cdk_to/)
 <!-- BLOG-POST-LIST:END -->
