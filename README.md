@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there a library which can take a protobuf schema and some protobuf data, and give me a dictionary? Not looking for the whole compiling process](https://www.reddit.com/r/Python/comments/13kmhgi/is_there_a_library_which_can_take_a_protobuf/)
+- [Does anyone know if there is an SDK for Sylvania Bluetooth Lightbulbs?](https://www.reddit.com/r/Python/comments/13km6c3/does_anyone_know_if_there_is_an_sdk_for_sylvania/)
+- [You pip install pyserial, but then you import serial, so what exactly does pip install serial download?](https://www.reddit.com/r/Python/comments/13km1q6/you_pip_install_pyserial_but_then_you_import/)
+- [Modin won&#39;t save the complete dataframe into csv](https://www.reddit.com/r/Python/comments/13km19x/modin_wont_save_the_complete_dataframe_into_csv/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/13kiiw7/thursday_daily_thread_python_careers_courses_and/)
-- [Postgres Lock Explainer](https://www.reddit.com/r/Python/comments/13kgod5/postgres_lock_explainer/)
-- [Project to train an AI to automate debugging and refactoring Python](https://www.reddit.com/r/Python/comments/13kdiub/project_to_train_an_ai_to_automate_debugging_and/)
-- [Strategy for finding new entries between two pandas data frames? [Trying to find new or changed entries to a calendar]](https://www.reddit.com/r/Python/comments/13kbkwn/strategy_for_finding_new_entries_between_two/)
-- [Announcing aws-cdk-secure-api v0.3.0: Using AWS CDK to Easily Deploy &quot;Secured&quot; APIs](https://www.reddit.com/r/Python/comments/13kbd5s/announcing_awscdksecureapi_v030_using_aws_cdk_to/)
 <!-- BLOG-POST-LIST:END -->
