@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tools for Python](https://www.reddit.com/r/Python/comments/13kvia6/tools_for_python/)
+- [Building a Robust Data Lake with Python and DuckDB](https://www.reddit.com/r/Python/comments/13kvgex/building_a_robust_data_lake_with_python_and_duckdb/)
+- [lablup/rraft-py: Unofficial Python Binding of the tikv/raft-rs](https://www.reddit.com/r/Python/comments/13kvae4/labluprraftpy_unofficial_python_binding_of_the/)
+- [write byte to binary file](https://www.reddit.com/r/Python/comments/13kus4d/write_byte_to_binary_file/)
 - [GitHub - Crunch-io/lazycsv - lazycsv is a C implementation of a csv parser for python.](https://www.reddit.com/r/Python/comments/13kt6vd/github_crunchiolazycsv_lazycsv_is_a_c/)
-- [Challenge Solution / learn Python 62](https://www.reddit.com/r/Python/comments/13ksrqs/challenge_solution_learn_python_62/)
-- [Systango: Your Trusted Python Development Company](https://www.reddit.com/r/Python/comments/13kr0zd/systango_your_trusted_python_development_company/)
-- [I published a Python Plotly Data Visualization Course on Youtube](https://www.reddit.com/r/Python/comments/13kr079/i_published_a_python_plotly_data_visualization/)
-- [Check out the Python package `pdfgpt` #openai #pdf](https://www.reddit.com/r/Python/comments/13kq2na/check_out_the_python_package_pdfgpt_openai_pdf/)
 <!-- BLOG-POST-LIST:END -->
