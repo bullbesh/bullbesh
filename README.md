@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easy to use python cryptography library](https://www.reddit.com/r/Python/comments/13l5cwf/easy_to_use_python_cryptography_library/)
 - [ChatGPT Takes the Python World by Storm as the Ultimate Creative Coding Companion!](https://www.reddit.com/r/Python/comments/13l4lyc/chatgpt_takes_the_python_world_by_storm_as_the/)
-- [Pleas I need serious help please](https://www.reddit.com/r/Python/comments/13l4gto/pleas_i_need_serious_help_please/)
 - [Unleashing the power of python](https://www.reddit.com/r/Python/comments/13l3f89/unleashing_the_power_of_python/)
 - [create-ac-cli-tool!](https://www.reddit.com/r/Python/comments/13l2e8x/createacclitool/)
 - [Locally running OCR app with OS native theming](https://www.reddit.com/r/Python/comments/13l1l5m/locally_running_ocr_app_with_os_native_theming/)
