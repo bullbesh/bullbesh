@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Odigos v0.1.5 - Managing OpenTelemetry using Kubernetes labels](https://www.reddit.com/r/Python/comments/13kytfc/odigos_v015_managing_opentelemetry_using/)
 - [Interactive Decision Tree](https://www.reddit.com/r/Python/comments/13kxiwu/interactive_decision_tree/)
 - [Streamlit meets analytics &lpar;Headless BI&rpar;](https://www.reddit.com/r/Python/comments/13kx175/streamlit_meets_analytics_headless_bi/)
 - [Tools for Python](https://www.reddit.com/r/Python/comments/13kvia6/tools_for_python/)
 - [Building a Robust Data Lake with Python and DuckDB](https://www.reddit.com/r/Python/comments/13kvgex/building_a_robust_data_lake_with_python_and_duckdb/)
-- [lablup/rraft-py: Unofficial Python Binding of the tikv/raft-rs](https://www.reddit.com/r/Python/comments/13kvae4/labluprraftpy_unofficial_python_binding_of_the/)
 <!-- BLOG-POST-LIST:END -->
