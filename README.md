@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - Crunch-io/lazycsv - lazycsv is a C implementation of a csv parser for python.](https://www.reddit.com/r/Python/comments/13kt6vd/github_crunchiolazycsv_lazycsv_is_a_c/)
+- [Challenge Solution / learn Python 62](https://www.reddit.com/r/Python/comments/13ksrqs/challenge_solution_learn_python_62/)
 - [Systango: Your Trusted Python Development Company](https://www.reddit.com/r/Python/comments/13kr0zd/systango_your_trusted_python_development_company/)
 - [I published a Python Plotly Data Visualization Course on Youtube](https://www.reddit.com/r/Python/comments/13kr079/i_published_a_python_plotly_data_visualization/)
 - [Check out the Python package `pdfgpt` #openai #pdf](https://www.reddit.com/r/Python/comments/13kq2na/check_out_the_python_package_pdfgpt_openai_pdf/)
-- [README-AI: Auto-generate README.md files!](https://www.reddit.com/r/Python/comments/13kpoti/readmeai_autogenerate_readmemd_files/)
-- [Is there a library which can take a protobuf schema and some protobuf data, and give me a dictionary? Not looking for the whole compiling process](https://www.reddit.com/r/Python/comments/13kmhgi/is_there_a_library_which_can_take_a_protobuf/)
 <!-- BLOG-POST-LIST:END -->
