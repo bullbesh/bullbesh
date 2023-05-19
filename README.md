@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [CSV serialisation and deserialisation](https://www.reddit.com/r/Python/comments/13lm6g9/csv_serialisation_and_deserialisation/)
+- [What if: python without commas](https://www.reddit.com/r/Python/comments/13lm5cy/what_if_python_without_commas/)
 - [Using Taichi to accelerate native Python code of DE algorithm](https://www.reddit.com/r/Python/comments/13lkbar/using_taichi_to_accelerate_native_python_code_of/)
 - [New to Python and OOP. Appreciate the simplicity of this language. What do I need to do to understand it at a deep level? Reading standard library documentation can be confusing.](https://www.reddit.com/r/Python/comments/13ligtf/new_to_python_and_oop_appreciate_the_simplicity/)
 - [NoDoze - smart sleep for Linux computers](https://www.reddit.com/r/Python/comments/13lftqi/nodoze_smart_sleep_for_linux_computers/)
-- [Writing my own ChatGPT Code Interpreter](https://www.reddit.com/r/Python/comments/13ldlmd/writing_my_own_chatgpt_code_interpreter/)
-- [Share a Python script on Instagram post scraper using hashtags FYI](https://www.reddit.com/r/Python/comments/13l88gq/share_a_python_script_on_instagram_post_scraper/)
 <!-- BLOG-POST-LIST:END -->
