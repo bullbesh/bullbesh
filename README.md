@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python learning](https://www.reddit.com/r/Python/comments/13m68g1/python_learning/)
+- [PromptOptimizer -- Save Money on OpenAI &lpar;and more&rpar; LLM API costs by Minimizing the Token Complexity](https://www.reddit.com/r/Python/comments/13m75f9/promptoptimizer_save_money_on_openai_and_more_llm/)
 - [chatgpt and interviews](https://www.reddit.com/r/Python/comments/13m62xt/chatgpt_and_interviews/)
 - [Welp, I&#39;ve made a Roblox studio clone in Python. I have no idea what to do with it...](https://www.reddit.com/r/Python/comments/13m5gug/welp_ive_made_a_roblox_studio_clone_in_python_i/)
 - [AI Newssite on Python with GPT3.5](https://www.reddit.com/r/Python/comments/13m4d0n/ai_newssite_on_python_with_gpt35/)
