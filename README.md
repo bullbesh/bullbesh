@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python learning](https://www.reddit.com/r/Python/comments/13m68g1/python_learning/)
+- [chatgpt and interviews](https://www.reddit.com/r/Python/comments/13m62xt/chatgpt_and_interviews/)
+- [Welp, I&#39;ve made a Roblox studio clone in Python. I have no idea what to do with it...](https://www.reddit.com/r/Python/comments/13m5gug/welp_ive_made_a_roblox_studio_clone_in_python_i/)
 - [AI Newssite on Python with GPT3.5](https://www.reddit.com/r/Python/comments/13m4d0n/ai_newssite_on_python_with_gpt35/)
 - [Introducing Grasshopper - An Open Source Python Library for Load Testing](https://www.reddit.com/r/Python/comments/13m43rs/introducing_grasshopper_an_open_source_python/)
-- [better understand python booleans](https://www.reddit.com/r/Python/comments/13m1acs/better_understand_python_booleans/)
-- [🌈 Rainbow Tweet Chrome Plugin &lpar;Python Backend&rpar;](https://www.reddit.com/r/Python/comments/13lu3g3/rainbow_tweet_chrome_plugin_python_backend/)
-- [Lists within infinite lists](https://www.reddit.com/r/Python/comments/13ltkk0/lists_within_infinite_lists/)
 <!-- BLOG-POST-LIST:END -->
