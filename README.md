@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [3D Random Walk Visualization using Mayavi](https://www.reddit.com/r/Python/comments/13mjxof/3d_random_walk_visualization_using_mayavi/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/13mc34l/saturday_daily_thread_resource_request_and/)
 - [🌍EOmaps v6.5 released!](https://www.reddit.com/r/Python/comments/13ma54g/eomaps_v65_released/)
 - [I am starting my Journey as Python Programming Tutorial Blog. Kindly read if possible and give suggestion on how I can improve for future articles.](https://www.reddit.com/r/Python/comments/13m9bah/i_am_starting_my_journey_as_python_programming/)
 - [PromptOptimizer -- Save Money on OpenAI &lpar;and more&rpar; LLM API costs by Minimizing the Token Complexity](https://www.reddit.com/r/Python/comments/13m75f9/promptoptimizer_save_money_on_openai_and_more_llm/)
-- [chatgpt and interviews](https://www.reddit.com/r/Python/comments/13m62xt/chatgpt_and_interviews/)
 <!-- BLOG-POST-LIST:END -->
