@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT: Your Personal Python Coding Mentor – Real Python](https://www.reddit.com/r/Python/comments/13n1k00/chatgpt_your_personal_python_coding_mentor_real/)
+- [Consolidate codes in a Python script of developing Flask App dynamic XML sitemap, which includes the route, frontend html section](https://www.reddit.com/r/Python/comments/13n1gdc/consolidate_codes_in_a_python_script_of/)
+- [Rendering electron orbitals with Python - The Periodic Table of Orbitals](https://www.reddit.com/r/Python/comments/13n1ctr/rendering_electron_orbitals_with_python_the/)
 - [Weaponising Chatgpt](https://www.reddit.com/r/Python/comments/13myovw/weaponising_chatgpt/)
 - [Blog post: Writing Python like it’s Rust](https://www.reddit.com/r/Python/comments/13mxvli/blog_post_writing_python_like_its_rust/)
-- [New package: swoopyui - swiftUI in python!](https://www.reddit.com/r/Python/comments/13mwun5/new_package_swoopyui_swiftui_in_python/)
-- [coBib 4.0: a modern UI using Textualize libraries](https://www.reddit.com/r/Python/comments/13mwpz4/cobib_40_a_modern_ui_using_textualize_libraries/)
-- [Building a Sudoku Solver in Python](https://www.reddit.com/r/Python/comments/13mvvcc/building_a_sudoku_solver_in_python/)
 <!-- BLOG-POST-LIST:END -->
