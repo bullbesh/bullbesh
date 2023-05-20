@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Weaponising Chatgpt](https://www.reddit.com/r/Python/comments/13myovw/weaponising_chatgpt/)
+- [Blog post: Writing Python like it’s Rust](https://www.reddit.com/r/Python/comments/13mxvli/blog_post_writing_python_like_its_rust/)
 - [New package: swoopyui - swiftUI in python!](https://www.reddit.com/r/Python/comments/13mwun5/new_package_swoopyui_swiftui_in_python/)
 - [coBib 4.0: a modern UI using Textualize libraries](https://www.reddit.com/r/Python/comments/13mwpz4/cobib_40_a_modern_ui_using_textualize_libraries/)
 - [Building a Sudoku Solver in Python](https://www.reddit.com/r/Python/comments/13mvvcc/building_a_sudoku_solver_in_python/)
-- [Don&#39;t judge a book by it&#39;s cover...](https://www.reddit.com/r/Python/comments/13mtvwe/dont_judge_a_book_by_its_cover/)
-- [Compiling a Python EXE back to a .py](https://www.reddit.com/r/Python/comments/13mrjlk/compiling_a_python_exe_back_to_a_py/)
 <!-- BLOG-POST-LIST:END -->
