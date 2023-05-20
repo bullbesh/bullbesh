@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Infrastructure Status - PyPI new user and new project registrations temporarily suspended.](https://www.reddit.com/r/Python/comments/13n5o2d/python_infrastructure_status_pypi_new_user_and/)
+- [Beginner](https://www.reddit.com/r/Python/comments/13n4d09/beginner/)
 - [ChatGPT: Your Personal Python Coding Mentor – Real Python](https://www.reddit.com/r/Python/comments/13n1k00/chatgpt_your_personal_python_coding_mentor_real/)
 - [Consolidate codes in a Python script of developing Flask App dynamic XML sitemap, which includes the route, frontend html section](https://www.reddit.com/r/Python/comments/13n1gdc/consolidate_codes_in_a_python_script_of/)
 - [Rendering electron orbitals with Python - The Periodic Table of Orbitals](https://www.reddit.com/r/Python/comments/13n1ctr/rendering_electron_orbitals_with_python_the/)
-- [Weaponising Chatgpt](https://www.reddit.com/r/Python/comments/13myovw/weaponising_chatgpt/)
-- [Blog post: Writing Python like it’s Rust](https://www.reddit.com/r/Python/comments/13mxvli/blog_post_writing_python_like_its_rust/)
 <!-- BLOG-POST-LIST:END -->
