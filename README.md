@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Job Market](https://www.reddit.com/r/Python/comments/13mhm34/python_job_market/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/13mc34l/saturday_daily_thread_resource_request_and/)
 - [🌍EOmaps v6.5 released!](https://www.reddit.com/r/Python/comments/13ma54g/eomaps_v65_released/)
 - [I am starting my Journey as Python Programming Tutorial Blog. Kindly read if possible and give suggestion on how I can improve for future articles.](https://www.reddit.com/r/Python/comments/13m9bah/i_am_starting_my_journey_as_python_programming/)
 - [Happiness is a good PYTHONSTARTUP script](https://www.reddit.com/r/Python/comments/13m86df/happiness_is_a_good_pythonstartup_script/)
-- [PromptOptimizer -- Save Money on OpenAI &lpar;and more&rpar; LLM API costs by Minimizing the Token Complexity](https://www.reddit.com/r/Python/comments/13m75f9/promptoptimizer_save_money_on_openai_and_more_llm/)
 <!-- BLOG-POST-LIST:END -->
