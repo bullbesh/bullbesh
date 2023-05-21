@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi Debuts a Code Editor for Young People: &quot;Python is the preferred coding language for beginners &lpar;particularly young people&rpar;, as it’s the most intuitive language utilized by professionals. For this reason, Raspberry Pi’s Code Editor uses Python &lpar;specifically the standard library and P5&rpar;.&quot;](https://www.reddit.com/r/Python/comments/13o040f/raspberry_pi_debuts_a_code_editor_for_young/)
-- [I want to learn](https://www.reddit.com/r/Python/comments/13nzjur/i_want_to_learn/)
-- [Cuid2 - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation UUIDs.](https://www.reddit.com/r/Python/comments/13ny8ry/cuid2_secure_collisionresistant_ids_optimized_for/)
-- [Ich wollte ein kleines clicker game machen aber meine hitboxen in der y coordinate wollen sich nicht Konfigurieren lassen hättet ihr da eine lösung ?](https://www.reddit.com/r/Python/comments/13nxzd2/ich_wollte_ein_kleines_clicker_game_machen_aber/)
-- [🥥 Django 5.0: 3 Features You Waited For That Will Go Public In December 2023](https://www.reddit.com/r/Python/comments/13nvtsy/django_50_3_features_you_waited_for_that_will_go/)
+- [How long to learn Python until I can automate a data entry job?](https://www.reddit.com/r/Python/comments/13o22vh/how_long_to_learn_python_until_i_can_automate_a/)
+- [The Ultimate Guide: Best Free Resources to Learn Python](https://www.reddit.com/r/Python/comments/13o1je6/the_ultimate_guide_best_free_resources_to_learn/)
+- [GitHub - fikisipi/elkai: elkai is a Python library for solving travelling salesman problems &lpar;TSP&rpar; based on LKH 3](https://www.reddit.com/r/Python/comments/13o1c4w/github_fikisipielkai_elkai_is_a_python_library/)
+- [want a code for a pptx file or google slides for a ten slide presentation of on topic carbon and its compounds&lpar;only content&rpar;](https://www.reddit.com/r/Python/comments/13o137m/want_a_code_for_a_pptx_file_or_google_slides_for/)
+- [Quick Python Scripting Tip: Simplify Data Retrieval from HTTPS API](https://www.reddit.com/r/Python/comments/13o0tb0/quick_python_scripting_tip_simplify_data/)
 <!-- BLOG-POST-LIST:END -->
