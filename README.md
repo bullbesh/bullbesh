@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi Debuts a Code Editor for Young People: &quot;Python is the preferred coding language for beginners &lpar;particularly young people&rpar;, as it’s the most intuitive language utilized by professionals. For this reason, Raspberry Pi’s Code Editor uses Python &lpar;specifically the standard library and P5&rpar;.&quot;](https://www.reddit.com/r/Python/comments/13o040f/raspberry_pi_debuts_a_code_editor_for_young/)
+- [I want to learn](https://www.reddit.com/r/Python/comments/13nzjur/i_want_to_learn/)
 - [Cuid2 - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation UUIDs.](https://www.reddit.com/r/Python/comments/13ny8ry/cuid2_secure_collisionresistant_ids_optimized_for/)
 - [Ich wollte ein kleines clicker game machen aber meine hitboxen in der y coordinate wollen sich nicht Konfigurieren lassen hättet ihr da eine lösung ?](https://www.reddit.com/r/Python/comments/13nxzd2/ich_wollte_ein_kleines_clicker_game_machen_aber/)
 - [🥥 Django 5.0: 3 Features You Waited For That Will Go Public In December 2023](https://www.reddit.com/r/Python/comments/13nvtsy/django_50_3_features_you_waited_for_that_will_go/)
-- [SqlAlchemy - Tkinter](https://www.reddit.com/r/Python/comments/13nv9qr/sqlalchemy_tkinter/)
-- [Turn your Click CLI into a TUI with a two-line change](https://www.reddit.com/r/Python/comments/13nv4a7/turn_your_click_cli_into_a_tui_with_a_twoline/)
 <!-- BLOG-POST-LIST:END -->
