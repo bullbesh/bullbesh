@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 658](https://www.reddit.com/r/Python/comments/13o4x3z/pep_658/)
+- [WhisperFlow: Unleash the Magic of Infinite Storage on YouTube!](https://www.reddit.com/r/Python/comments/13o4ith/whisperflow_unleash_the_magic_of_infinite_storage/)
+- [Why is the Pygame screen blank?](https://www.reddit.com/r/Python/comments/13o4f5p/why_is_the_pygame_screen_blank/)
 - [Python syntax tutorial](https://www.reddit.com/r/Python/comments/13o2qna/python_syntax_tutorial/)
 - [Using a Golang package in Python using Gopy](https://www.reddit.com/r/Python/comments/13o2ch6/using_a_golang_package_in_python_using_gopy/)
-- [How long to learn Python until I can automate a data entry job?](https://www.reddit.com/r/Python/comments/13o22vh/how_long_to_learn_python_until_i_can_automate_a/)
-- [The Ultimate Guide: Best Free Resources to Learn Python](https://www.reddit.com/r/Python/comments/13o1je6/the_ultimate_guide_best_free_resources_to_learn/)
-- [GitHub - fikisipi/elkai: elkai is a Python library for solving travelling salesman problems &lpar;TSP&rpar; based on LKH 3](https://www.reddit.com/r/Python/comments/13o1c4w/github_fikisipielkai_elkai_is_a_python_library/)
 <!-- BLOG-POST-LIST:END -->
