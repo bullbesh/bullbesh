@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python true static typing](https://www.reddit.com/r/Python/comments/13nf0ua/python_true_static_typing/)
+- [How to do En without bad* letters *[g i j p r s z**]? Anyone made math to make ok _entence_ out of En? Doe_ _oo_le _lay _to_e have?](https://www.reddit.com/r/Python/comments/13ndlgl/how_to_do_en_without_bad_letters_g_i_j_p_r_s_z/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/13nd675/sunday_daily_thread_whats_everyone_working_on/)
+- [Python for beginner](https://www.reddit.com/r/Python/comments/13nd07d/python_for_beginner/)
 - [Python Infrastructure Status - PyPI new user and new project registrations temporarily suspended.](https://www.reddit.com/r/Python/comments/13n5o2d/python_infrastructure_status_pypi_new_user_and/)
-- [ChatGPT: Your Personal Python Coding Mentor – Real Python](https://www.reddit.com/r/Python/comments/13n1k00/chatgpt_your_personal_python_coding_mentor_real/)
-- [Consolidate codes in a Python script of developing Flask App dynamic XML sitemap, which includes the route, frontend html section](https://www.reddit.com/r/Python/comments/13n1gdc/consolidate_codes_in_a_python_script_of/)
-- [Rendering electron orbitals with Python - The Periodic Table of Orbitals](https://www.reddit.com/r/Python/comments/13n1ctr/rendering_electron_orbitals_with_python_the/)
-- [Weaponising Chatgpt](https://www.reddit.com/r/Python/comments/13myovw/weaponising_chatgpt/)
 <!-- BLOG-POST-LIST:END -->
