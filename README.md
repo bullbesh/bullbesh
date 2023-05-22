@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Asking questions on my own PDFs via the command line](https://www.reddit.com/r/Python/comments/13oix7x/asking_questions_on_my_own_pdfs_via_the_command/)
 - [looking for a junior internship](https://www.reddit.com/r/Python/comments/13oguex/looking_for_a_junior_internship/)
 - [Anyone able to pip install xmlsec on an M1 Mac with Python 3.11?](https://www.reddit.com/r/Python/comments/13ogtre/anyone_able_to_pip_install_xmlsec_on_an_m1_mac/)
 - [MOCAT](https://www.reddit.com/r/Python/comments/13ofkuv/mocat/)
 - [PGP signatures on PyPI: worse than useless](https://www.reddit.com/r/Python/comments/13ocv2p/pgp_signatures_on_pypi_worse_than_useless/)
-- [2D table top game](https://www.reddit.com/r/Python/comments/13oc7si/2d_table_top_game/)
 <!-- BLOG-POST-LIST:END -->
