@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Quickly visualize your Django schemas with DjangoViz](https://www.reddit.com/r/Python/comments/13oq7hs/quickly_visualize_your_django_schemas_with/)
-- [Any good VS Code extensions?](https://www.reddit.com/r/Python/comments/13oq1v7/any_good_vs_code_extensions/)
-- [Select rows by conditions from a folder which contain many CSV files?](https://www.reddit.com/r/Python/comments/13opte1/select_rows_by_conditions_from_a_folder_which/)
-- [Any good alternatives of &quot;javascript.info&quot; website but for python?](https://www.reddit.com/r/Python/comments/13opfto/any_good_alternatives_of_javascriptinfo_website/)
-- [The Recent Security Threats on Python Package Index &lpar;PyPI&rpar; and Its Implications](https://www.reddit.com/r/Python/comments/13oof3r/the_recent_security_threats_on_python_package/)
+- [ElevenLabs: Python script to download a phrase mp3 and re-use locally on subsequent requests](https://www.reddit.com/r/Python/comments/13os1kx/elevenlabs_python_script_to_download_a_phrase_mp3/)
+- [Will devs be replaced by AI? I found this ai python code generator and it&#39;s terrifyingly good](https://www.reddit.com/r/Python/comments/13orj93/will_devs_be_replaced_by_ai_i_found_this_ai/)
+- [Streaming live from my computer or cellphone camera to an rtmp server](https://www.reddit.com/r/Python/comments/13or23j/streaming_live_from_my_computer_or_cellphone/)
+- [Using Bytesafe CE as a free private repository](https://www.reddit.com/r/Python/comments/13or1hl/using_bytesafe_ce_as_a_free_private_repository/)
+- [Best python course on udemy?](https://www.reddit.com/r/Python/comments/13oqu5y/best_python_course_on_udemy/)
 <!-- BLOG-POST-LIST:END -->
