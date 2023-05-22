@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🏆 Trending and Awesome Python open source projects](https://www.reddit.com/r/Python/comments/13ox6ck/trending_and_awesome_python_open_source_projects/)
 - [LangChain Tutorial: A Step-by-Step LangChain Python Crash Course](https://www.reddit.com/r/Python/comments/13owmh3/langchain_tutorial_a_stepbystep_langchain_python/)
 - [Flask ChatGPT Interface](https://www.reddit.com/r/Python/comments/13ovgfn/flask_chatgpt_interface/)
 - [Talk With Your Files - Open Source LLM-GUI project with Langchain &amp; Streamlit](https://www.reddit.com/r/Python/comments/13ov4uj/talk_with_your_files_open_source_llmgui_project/)
 - [Are AI fine-tuning tools worth learning and investing?](https://www.reddit.com/r/Python/comments/13otmiw/are_ai_finetuning_tools_worth_learning_and/)
-- [The Many Problems with Celery](https://www.reddit.com/r/Python/comments/13othrq/the_many_problems_with_celery/)
 <!-- BLOG-POST-LIST:END -->
