@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any good alternatives of &quot;javascript.info&quot; website but for python?](https://www.reddit.com/r/Python/comments/13opfto/any_good_alternatives_of_javascriptinfo_website/)
+- [The Recent Security Threats on Python Package Index &lpar;PyPI&rpar; and Its Implications](https://www.reddit.com/r/Python/comments/13oof3r/the_recent_security_threats_on_python_package/)
+- [GitHub - ipyflow/ipyflow: A reactive Python kernel for Jupyter notebooks](https://www.reddit.com/r/Python/comments/13oo340/github_ipyflowipyflow_a_reactive_python_kernel/)
+- [Instrumenting a Python application with OpenTelemetry](https://www.reddit.com/r/Python/comments/13oo0y6/instrumenting_a_python_application_with/)
 - [FastDepends - FastAPI Dependency Injection system extracted from FastAPI and cleared of all HTTP logic](https://www.reddit.com/r/Python/comments/13onfbp/fastdepends_fastapi_dependency_injection_system/)
-- [Python projects](https://www.reddit.com/r/Python/comments/13ona53/python_projects/)
-- [Yay! I can officially join this subreddit now!](https://www.reddit.com/r/Python/comments/13omgv8/yay_i_can_officially_join_this_subreddit_now/)
-- [Asking questions on my own PDFs via the command line](https://www.reddit.com/r/Python/comments/13oix7x/asking_questions_on_my_own_pdfs_via_the_command/)
-- [Anyone able to pip install xmlsec on an M1 Mac with Python 3.11?](https://www.reddit.com/r/Python/comments/13ogtre/anyone_able_to_pip_install_xmlsec_on_an_m1_mac/)
 <!-- BLOG-POST-LIST:END -->
