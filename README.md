@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Quickly visualize your Django schemas with DjangoViz](https://www.reddit.com/r/Python/comments/13oq7hs/quickly_visualize_your_django_schemas_with/)
+- [Any good VS Code extensions?](https://www.reddit.com/r/Python/comments/13oq1v7/any_good_vs_code_extensions/)
+- [Select rows by conditions from a folder which contain many CSV files?](https://www.reddit.com/r/Python/comments/13opte1/select_rows_by_conditions_from_a_folder_which/)
 - [Any good alternatives of &quot;javascript.info&quot; website but for python?](https://www.reddit.com/r/Python/comments/13opfto/any_good_alternatives_of_javascriptinfo_website/)
 - [The Recent Security Threats on Python Package Index &lpar;PyPI&rpar; and Its Implications](https://www.reddit.com/r/Python/comments/13oof3r/the_recent_security_threats_on_python_package/)
-- [GitHub - ipyflow/ipyflow: A reactive Python kernel for Jupyter notebooks](https://www.reddit.com/r/Python/comments/13oo340/github_ipyflowipyflow_a_reactive_python_kernel/)
-- [Instrumenting a Python application with OpenTelemetry](https://www.reddit.com/r/Python/comments/13oo0y6/instrumenting_a_python_application_with/)
-- [FastDepends - FastAPI Dependency Injection system extracted from FastAPI and cleared of all HTTP logic](https://www.reddit.com/r/Python/comments/13onfbp/fastdepends_fastapi_dependency_injection_system/)
 <!-- BLOG-POST-LIST:END -->
