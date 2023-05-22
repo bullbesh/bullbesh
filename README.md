@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [2D table top game](https://www.reddit.com/r/Python/comments/13oc7si/2d_table_top_game/)
+- [is it true or false](https://www.reddit.com/r/Python/comments/13ob4yp/is_it_true_or_false/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/13oakho/monday_daily_thread_project_ideas/)
 - [A simple CLI for asking questions on your own PDFs using GPT-3.5-Turbo](https://www.reddit.com/r/Python/comments/13o7ssn/a_simple_cli_for_asking_questions_on_your_own/)
 - [numpysane: more reasonable core functions for numpy](https://www.reddit.com/r/Python/comments/13o7nnr/numpysane_more_reasonable_core_functions_for_numpy/)
-- [What&#39;s your Python story?](https://www.reddit.com/r/Python/comments/13o6r6r/whats_your_python_story/)
-- [First Pet-Project](https://www.reddit.com/r/Python/comments/13o5hex/first_petproject/)
-- [PEP 658](https://www.reddit.com/r/Python/comments/13o4x3z/pep_658/)
 <!-- BLOG-POST-LIST:END -->
