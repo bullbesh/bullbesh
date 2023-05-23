@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Removing PGP from PyPI - The Python Package Index](https://www.reddit.com/r/Python/comments/13ppnaa/removing_pgp_from_pypi_the_python_package_index/)
+- [Tenforce - Type enforcement for Python](https://www.reddit.com/r/Python/comments/13ppaoc/tenforce_type_enforcement_for_python/)
+- [Made a Discord username sniper since it&#39;s a new feature being rolled out](https://www.reddit.com/r/Python/comments/13pp2rb/made_a_discord_username_sniper_since_its_a_new/)
 - [Is the Python ORM &quot;Ormar&quot; Production-Ready?](https://www.reddit.com/r/Python/comments/13poau7/is_the_python_orm_ormar_productionready/)
 - [Introducing a Free Facebook Scraping Library - Unlimited Calls and Future Optimizations!](https://www.reddit.com/r/Python/comments/13pnby5/introducing_a_free_facebook_scraping_library/)
-- [Decode .dat file with .asn1 in python](https://www.reddit.com/r/Python/comments/13pnbx0/decode_dat_file_with_asn1_in_python/)
-- [Python selenium](https://www.reddit.com/r/Python/comments/13pn7uc/python_selenium/)
-- [I&#39;m building a new web browser](https://www.reddit.com/r/Python/comments/13pn6xi/im_building_a_new_web_browser/)
 <!-- BLOG-POST-LIST:END -->
