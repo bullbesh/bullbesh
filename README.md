@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Better with Python](https://www.reddit.com/r/Python/comments/13p9fj7/getting_better_with_python/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/13p7vlm/tuesday_daily_thread_advanced_questions/)
+- [FinQual: Python script to connect with the SEC&#39;s website to provide fundamental data &lpar;income statement, balance sheet, cashflow&rpar; with fast and unlimited calls!](https://www.reddit.com/r/Python/comments/13p750w/finqual_python_script_to_connect_with_the_secs/)
 - [Completely rebuilt classic Donkey Kong in Python using the PyGame module!](https://www.reddit.com/r/Python/comments/13p67zi/completely_rebuilt_classic_donkey_kong_in_python/)
 - [Seeking Advice on Optimal Computer Configuration for Machine/Deep Learning: CPU, GPU, and VRAM Considerations](https://www.reddit.com/r/Python/comments/13p3lpq/seeking_advice_on_optimal_computer_configuration/)
-- [Sculpting a Python function](https://www.reddit.com/r/Python/comments/13p2a0v/sculpting_a_python_function/)
-- [Importing multiple javascript files to html using Bottle that are in subfolder of javascript folder](https://www.reddit.com/r/Python/comments/13p0otf/importing_multiple_javascript_files_to_html_using/)
-- [🏆 Trending and Awesome Python open source projects](https://www.reddit.com/r/Python/comments/13ox6ck/trending_and_awesome_python_open_source_projects/)
 <!-- BLOG-POST-LIST:END -->
