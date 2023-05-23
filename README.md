@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Instance Segmentation with YOLOv7 in Python](https://www.reddit.com/r/Python/comments/13pz34m/instance_segmentation_with_yolov7_in_python/)
+- [How to Drive Away Top Python Developers: A Guide to Terrible Hiring Practices](https://www.reddit.com/r/Python/comments/13pyb3l/how_to_drive_away_top_python_developers_a_guide/)
 - [Importing anti-pattern?](https://www.reddit.com/r/Python/comments/13pxla1/importing_antipattern/)
 - [Not a search for porn!](https://www.reddit.com/r/Python/comments/13pwrhd/not_a_search_for_porn/)
 - [Embrace Dev Environments, Leave Manual SSH Behind](https://www.reddit.com/r/Python/comments/13ptiww/embrace_dev_environments_leave_manual_ssh_behind/)
-- [Looking for collaborators for a an open source &quot;Productivity App&quot;. Any kind of help is welcome!](https://www.reddit.com/r/Python/comments/13psbhl/looking_for_collaborators_for_a_an_open_source/)
-- [Learn how to create a mini web framework with Python](https://www.reddit.com/r/Python/comments/13ps7fm/learn_how_to_create_a_mini_web_framework_with/)
 <!-- BLOG-POST-LIST:END -->
