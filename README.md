@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Will Python ever be eco friendly?](https://www.reddit.com/r/Python/comments/13qfobf/will_python_ever_be_eco_friendly/)
 - [Lona 1.14 finally adds support for Channels](https://www.reddit.com/r/Python/comments/13qfg7s/lona_114_finally_adds_support_for_channels/)
 - [Variable assignment issue](https://www.reddit.com/r/Python/comments/13qffxo/variable_assignment_issue/)
 - [Deploy Django Project to EC2 using NGINX, Gunicorn, RDS. Part 1](https://www.reddit.com/r/Python/comments/13qexrs/deploy_django_project_to_ec2_using_nginx_gunicorn/)
 - [Building a cost-effective image vector search engine with CLIP](https://www.reddit.com/r/Python/comments/13qe0ea/building_a_costeffective_image_vector_search/)
-- [Deploy Django Project to EC2 using NGINX, Gunicorn, RDS. Part 1](https://www.reddit.com/r/Python/comments/13qcyme/deploy_django_project_to_ec2_using_nginx_gunicorn/)
 <!-- BLOG-POST-LIST:END -->
