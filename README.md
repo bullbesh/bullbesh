@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Fibonacci sequence in Python](https://www.reddit.com/r/Python/comments/13q08yx/fibonacci_sequence_in_python/)
+- [So I found a bad esy to make anonymous functions using backslashes](https://www.reddit.com/r/Python/comments/13q5azb/so_i_found_a_bad_esy_to_make_anonymous_functions/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/13q578e/wednesday_daily_thread_beginner_questions/)
 - [PyTorch 2.0: Unveiling the Latest Updates and Insights with Code Examples](https://www.reddit.com/r/Python/comments/13pzolo/pytorch_20_unveiling_the_latest_updates_and/)
 - [Instance Segmentation with YOLOv7 in Python](https://www.reddit.com/r/Python/comments/13pz34m/instance_segmentation_with_yolov7_in_python/)
 - [How to Drive Away Top Python Developers: A Guide to Terrible Hiring Practices](https://www.reddit.com/r/Python/comments/13pyb3l/how_to_drive_away_top_python_developers_a_guide/)
-- [Importing anti-pattern?](https://www.reddit.com/r/Python/comments/13pxla1/importing_antipattern/)
 <!-- BLOG-POST-LIST:END -->
