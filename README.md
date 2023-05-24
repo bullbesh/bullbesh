@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Video processing to read out data wrt. time](https://www.reddit.com/r/Python/comments/13qnz7x/video_processing_to_read_out_data_wrt_time/)
+- [Let advanced AI take care of code completion, formatting, translation, and bug fixing for free. You can also chat with StarChat and use VSCode extensions for work.](https://www.reddit.com/r/Python/comments/13qnfmz/let_advanced_ai_take_care_of_code_completion/)
+- [marpyter - Marp for JupyterLab](https://www.reddit.com/r/Python/comments/13qn4ow/marpyter_marp_for_jupyterlab/)
 - [Ope Source Document Understanding Library using Transformers instead of OCR](https://www.reddit.com/r/Python/comments/13qmj03/ope_source_document_understanding_library_using/)
 - [Vecs: Vector Store Client backed by PostgreSQL/pgvector](https://www.reddit.com/r/Python/comments/13qm28d/vecs_vector_store_client_backed_by/)
-- [Python Commands?](https://www.reddit.com/r/Python/comments/13qlznc/python_commands/)
-- [I created a python seccomp sandbox, but per-module in your code.](https://www.reddit.com/r/Python/comments/13ql1mc/i_created_a_python_seccomp_sandbox_but_permodule/)
-- [GitHub - autorope/donkeycar: Open source hardware and software platform to build a small scale self driving car.](https://www.reddit.com/r/Python/comments/13qku9p/github_autoropedonkeycar_open_source_hardware_and/)
 <!-- BLOG-POST-LIST:END -->
