@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a python seccomp sandbox, but per-module in your code.](https://www.reddit.com/r/Python/comments/13ql1mc/i_created_a_python_seccomp_sandbox_but_permodule/)
+- [GitHub - autorope/donkeycar: Open source hardware and software platform to build a small scale self driving car.](https://www.reddit.com/r/Python/comments/13qku9p/github_autoropedonkeycar_open_source_hardware_and/)
+- [What do you expect when renaming an import?](https://www.reddit.com/r/Python/comments/13qkg1h/what_do_you_expect_when_renaming_an_import/)
 - [Pyttsx3 Python Library: Create Text to Speech &lpar;TTS&rpar; Applications](https://www.reddit.com/r/Python/comments/13qh6n2/pyttsx3_python_library_create_text_to_speech_tts/)
 - [php2py: a PHP -&gt; Python transpiler &lpar;prototype&rpar;](https://www.reddit.com/r/Python/comments/13qgnk0/php2py_a_php_python_transpiler_prototype/)
-- [Will Python ever be eco friendly?](https://www.reddit.com/r/Python/comments/13qfobf/will_python_ever_be_eco_friendly/)
-- [Lona 1.14 finally adds support for Channels](https://www.reddit.com/r/Python/comments/13qfg7s/lona_114_finally_adds_support_for_channels/)
-- [Variable assignment issue](https://www.reddit.com/r/Python/comments/13qffxo/variable_assignment_issue/)
 <!-- BLOG-POST-LIST:END -->
