@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python package that has a basic app setup inside it](https://www.reddit.com/r/Python/comments/13qpve4/a_python_package_that_has_a_basic_app_setup/)
+- [Pyemerald: Pokemon save file editor](https://www.reddit.com/r/Python/comments/13qpdve/pyemerald_pokemon_save_file_editor/)
+- [Choosing a good file format for Pandas](https://www.reddit.com/r/Python/comments/13qpdiz/choosing_a_good_file_format_for_pandas/)
+- [I made a Data Science Project using Python and shared it on Youtube &lpar;I also provided the dataset I use&rpar;](https://www.reddit.com/r/Python/comments/13qoumm/i_made_a_data_science_project_using_python_and/)
 - [Video processing to read out data wrt. time](https://www.reddit.com/r/Python/comments/13qnz7x/video_processing_to_read_out_data_wrt_time/)
-- [Let advanced AI take care of code completion, formatting, translation, and bug fixing for free. You can also chat with StarChat and use VSCode extensions for work.](https://www.reddit.com/r/Python/comments/13qnfmz/let_advanced_ai_take_care_of_code_completion/)
-- [marpyter - Marp for JupyterLab](https://www.reddit.com/r/Python/comments/13qn4ow/marpyter_marp_for_jupyterlab/)
-- [Ope Source Document Understanding Library using Transformers instead of OCR](https://www.reddit.com/r/Python/comments/13qmj03/ope_source_document_understanding_library_using/)
-- [Vecs: Vector Store Client backed by PostgreSQL/pgvector](https://www.reddit.com/r/Python/comments/13qm28d/vecs_vector_store_client_backed_by/)
 <!-- BLOG-POST-LIST:END -->
