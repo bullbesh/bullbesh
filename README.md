@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Bluesky SDK with Firehose support](https://www.reddit.com/r/Python/comments/13qv1w2/python_bluesky_sdk_with_firehose_support/)
+- [Python Dataclass: A Paradigm Shift in Class Definitions](https://www.reddit.com/r/Python/comments/13qurn3/python_dataclass_a_paradigm_shift_in_class/)
 - [PyPI was subpoenaed](https://www.reddit.com/r/Python/comments/13qsfvd/pypi_was_subpoenaed/)
 - [My First FastAPI Project - a simple keyboard-friendly URL shortener](https://www.reddit.com/r/Python/comments/13qs9zf/my_first_fastapi_project_a_simple/)
 - [I created a library for validation cloning the syntax of Yup/Joi](https://www.reddit.com/r/Python/comments/13qrvhb/i_created_a_library_for_validation_cloning_the/)
-- [A Python package that has a basic app setup inside it](https://www.reddit.com/r/Python/comments/13qpve4/a_python_package_that_has_a_basic_app_setup/)
-- [Pyemerald: Pokemon save file editor](https://www.reddit.com/r/Python/comments/13qpdve/pyemerald_pokemon_save_file_editor/)
 <!-- BLOG-POST-LIST:END -->
