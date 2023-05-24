@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyPI was subpoenaed](https://www.reddit.com/r/Python/comments/13qsfvd/pypi_was_subpoenaed/)
+- [My First FastAPI Project - a simple keyboard-friendly URL shortener](https://www.reddit.com/r/Python/comments/13qs9zf/my_first_fastapi_project_a_simple/)
+- [I created a library for validation cloning the syntax of Yup/Joi](https://www.reddit.com/r/Python/comments/13qrvhb/i_created_a_library_for_validation_cloning_the/)
 - [A Python package that has a basic app setup inside it](https://www.reddit.com/r/Python/comments/13qpve4/a_python_package_that_has_a_basic_app_setup/)
 - [Pyemerald: Pokemon save file editor](https://www.reddit.com/r/Python/comments/13qpdve/pyemerald_pokemon_save_file_editor/)
-- [Choosing a good file format for Pandas](https://www.reddit.com/r/Python/comments/13qpdiz/choosing_a_good_file_format_for_pandas/)
-- [I made a Data Science Project using Python and shared it on Youtube &lpar;I also provided the dataset I use&rpar;](https://www.reddit.com/r/Python/comments/13qoumm/i_made_a_data_science_project_using_python_and/)
-- [Video processing to read out data wrt. time](https://www.reddit.com/r/Python/comments/13qnz7x/video_processing_to_read_out_data_wrt_time/)
 <!-- BLOG-POST-LIST:END -->
