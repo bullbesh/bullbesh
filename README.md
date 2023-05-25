@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can&#39;t download libraries in jupyter botebook](https://www.reddit.com/r/Python/comments/13rq0jn/cant_download_libraries_in_jupyter_botebook/)
-- [AWS Lambda Adopts Python 3.10](https://www.reddit.com/r/Python/comments/13roops/aws_lambda_adopts_python_310/)
-- [Pyttsx3 Python Library: Create Text to Speech &lpar;TTS&rpar; Applications](https://www.reddit.com/r/Python/comments/13rmusq/pyttsx3_python_library_create_text_to_speech_tts/)
-- [Share a guide to deploy Flask app on AWS EC2 that includes commands and scripts. wonder if having any free SSL provider recommendation, thank you!](https://www.reddit.com/r/Python/comments/13rmn42/share_a_guide_to_deploy_flask_app_on_aws_ec2_that/)
-- [Creating Kubernetes Custom Resource Definitions using the Kubernetes Python SDK](https://www.reddit.com/r/Python/comments/13rmm13/creating_kubernetes_custom_resource_definitions/)
+- [Introduction to OpenCV: Master the Basics of Image and Video Processing](https://www.reddit.com/r/Python/comments/13rs2pv/introduction_to_opencv_master_the_basics_of_image/)
+- [I need some advice to learn Python.](https://www.reddit.com/r/Python/comments/13rrqj8/i_need_some_advice_to_learn_python/)
+- [Tracing Python](https://www.reddit.com/r/Python/comments/13rr8gd/tracing_python/)
+- [Sweet Dream, or a Beautiful Nightmare?](https://www.reddit.com/r/Python/comments/13rquqj/sweet_dream_or_a_beautiful_nightmare/)
+- [A Python package for streaming synthetic data](https://www.reddit.com/r/Python/comments/13rqnpz/a_python_package_for_streaming_synthetic_data/)
 <!-- BLOG-POST-LIST:END -->
