@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [36 years old. Started an operator certification &lpar;1 years and a half&rpar; but looking to go into coding. Am I too old ?](https://www.reddit.com/r/Python/comments/13r29gg/36_years_old_started_an_operator_certification_1/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/13r26zl/thursday_daily_thread_python_careers_courses_and/)
 - [Python Flask app exhibiting high latency due to SSL?](https://www.reddit.com/r/Python/comments/13qy3bv/python_flask_app_exhibiting_high_latency_due_to/)
 - [Python equivalent of powershell](https://www.reddit.com/r/Python/comments/13qx146/python_equivalent_of_powershell/)
 - [Can you help me run a code ?](https://www.reddit.com/r/Python/comments/13qwgg0/can_you_help_me_run_a_code/)
-- [Python Bluesky SDK with Firehose support](https://www.reddit.com/r/Python/comments/13qv1w2/python_bluesky_sdk_with_firehose_support/)
-- [Python Dataclass: A Paradigm Shift in Class Definitions](https://www.reddit.com/r/Python/comments/13qurn3/python_dataclass_a_paradigm_shift_in_class/)
 <!-- BLOG-POST-LIST:END -->
