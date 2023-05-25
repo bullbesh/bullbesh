@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [i just made an equation solver using constraint propogation in style of sicp](https://www.reddit.com/r/Python/comments/13r8ygc/i_just_made_an_equation_solver_using_constraint/)
 - [How to use `requests` without installing `requests`](https://www.reddit.com/r/Python/comments/13r8ngb/how_to_use_requests_without_installing_requests/)
 - [Python Conference Planner](https://www.reddit.com/r/Python/comments/13r7srm/python_conference_planner/)
 - [Simple Bitcoin API to send and receive bitcoins](https://www.reddit.com/r/Python/comments/13r5z32/simple_bitcoin_api_to_send_and_receive_bitcoins/)
 - [why does my describe command on MySQL table shows datatype as b&#39;int&#39;, b&#39;vchar&lpar;20&rpar; etc?](https://www.reddit.com/r/Python/comments/13r42p2/why_does_my_describe_command_on_mysql_table_shows/)
-- [36 years old. Started an operator certification &lpar;1 years and a half&rpar; but looking to go into coding. Am I too old ?](https://www.reddit.com/r/Python/comments/13r29gg/36_years_old_started_an_operator_certification_1/)
 <!-- BLOG-POST-LIST:END -->
