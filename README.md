@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What tools/internal projects/app/scripts/automation stuff have you built at work to improve your development experience](https://www.reddit.com/r/Python/comments/13rkck6/what_toolsinternal_projectsappscriptsautomation/)
-- [Mastering Python Decorators: A Comprehensive Guide for Enhancing Code Modularity and Functionality” … https://link.medium.com/LnrACO4H5zb](https://www.reddit.com/r/Python/comments/13rk266/mastering_python_decorators_a_comprehensive_guide/)
-- [Exploring Scientific Research: Accessing brain scanners as a simple programmer?](https://www.reddit.com/r/Python/comments/13rjtch/exploring_scientific_research_accessing_brain/)
-- [That&#39;s how readable is to do validation in exodia &lpar;pip install exodia&rpar;](https://www.reddit.com/r/Python/comments/13rin17/thats_how_readable_is_to_do_validation_in_exodia/)
-- [Tell me something to code!](https://www.reddit.com/r/Python/comments/13rhiz2/tell_me_something_to_code/)
+- [Can Python....](https://www.reddit.com/r/Python/comments/13rm2xj/can_python/)
+- [&lpar;Q&rpar; Advantage of Raw vs Pandas vs SQL based data manipulation in Python](https://www.reddit.com/r/Python/comments/13rly0v/q_advantage_of_raw_vs_pandas_vs_sql_based_data/)
+- [Distributed printing with Dask](https://www.reddit.com/r/Python/comments/13rlx66/distributed_printing_with_dask/)
+- [Comprehensive Python language test suite?](https://www.reddit.com/r/Python/comments/13rlj34/comprehensive_python_language_test_suite/)
+- [dynamic simpleguis](https://www.reddit.com/r/Python/comments/13rkz7b/dynamic_simpleguis/)
 <!-- BLOG-POST-LIST:END -->
