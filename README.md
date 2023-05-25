@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pyttsx3 Python Library: Create Text to Speech &lpar;TTS&rpar; Applications](https://www.reddit.com/r/Python/comments/13rmusq/pyttsx3_python_library_create_text_to_speech_tts/)
+- [Share a guide to deploy Flask app on AWS EC2 that includes commands and scripts. wonder if having any free SSL provider recommendation, thank you!](https://www.reddit.com/r/Python/comments/13rmn42/share_a_guide_to_deploy_flask_app_on_aws_ec2_that/)
+- [Creating Kubernetes Custom Resource Definitions using the Kubernetes Python SDK](https://www.reddit.com/r/Python/comments/13rmm13/creating_kubernetes_custom_resource_definitions/)
+- [MicroPython on LegoMindstorms Invertor](https://www.reddit.com/r/Python/comments/13rmgwr/micropython_on_legomindstorms_invertor/)
 - [Can Python....](https://www.reddit.com/r/Python/comments/13rm2xj/can_python/)
-- [&lpar;Q&rpar; Advantage of Raw vs Pandas vs SQL based data manipulation in Python](https://www.reddit.com/r/Python/comments/13rly0v/q_advantage_of_raw_vs_pandas_vs_sql_based_data/)
-- [Distributed printing with Dask](https://www.reddit.com/r/Python/comments/13rlx66/distributed_printing_with_dask/)
-- [Comprehensive Python language test suite?](https://www.reddit.com/r/Python/comments/13rlj34/comprehensive_python_language_test_suite/)
-- [dynamic simpleguis](https://www.reddit.com/r/Python/comments/13rkz7b/dynamic_simpleguis/)
 <!-- BLOG-POST-LIST:END -->
