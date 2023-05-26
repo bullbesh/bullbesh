@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Petition for python to add access modifiers.](https://www.reddit.com/r/Python/comments/13s3y89/petition_for_python_to_add_access_modifiers/)
+- [How much time do you spend on writing automated tests?](https://www.reddit.com/r/Python/comments/13s3e6o/how_much_time_do_you_spend_on_writing_automated/)
 - [Newbie question](https://www.reddit.com/r/Python/comments/13s28m0/newbie_question/)
 - [Acyncio-TCP : A TCP Chat Server](https://www.reddit.com/r/Python/comments/13s21nv/acynciotcp_a_tcp_chat_server/)
 - [Python package etiquette](https://www.reddit.com/r/Python/comments/13s1ruj/python_package_etiquette/)
-- [How to move email &lpar;with specific word from email body&rpar; to another folder in outlook?](https://www.reddit.com/r/Python/comments/13s1ety/how_to_move_email_with_specific_word_from_email/)
-- [Need a quick cache for your app that persists? Check out my zero-dependency disklru](https://www.reddit.com/r/Python/comments/13ry3zd/need_a_quick_cache_for_your_app_that_persists/)
 <!-- BLOG-POST-LIST:END -->
