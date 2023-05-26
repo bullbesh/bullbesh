@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scale Python in the Cloud with Dask and Coiled](https://www.reddit.com/r/Python/comments/13siizo/scale_python_in_the_cloud_with_dask_and_coiled/)
+- [EfficientPy](https://www.reddit.com/r/Python/comments/13si656/efficientpy/)
 - [Basic AF help please Dictionaries](https://www.reddit.com/r/Python/comments/13shkc6/basic_af_help_please_dictionaries/)
 - [Job hunting automation using python](https://www.reddit.com/r/Python/comments/13sgu7t/job_hunting_automation_using_python/)
 - [GitHub - Rainbow-Dreamer/musicpy: Musicpy is a music programming language in Python designed to write music in very handy syntax through music theory and algorithms.](https://www.reddit.com/r/Python/comments/13sgneq/github_rainbowdreamermusicpy_musicpy_is_a_music/)
-- [Youtube tutorials](https://www.reddit.com/r/Python/comments/13se4jl/youtube_tutorials/)
-- [Deploy Django Project to EC2 using NGINX, Gunicorn, RDS Part 2](https://www.reddit.com/r/Python/comments/13se02t/deploy_django_project_to_ec2_using_nginx_gunicorn/)
 <!-- BLOG-POST-LIST:END -->
