@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Basic AF help please Dictionaries](https://www.reddit.com/r/Python/comments/13shkc6/basic_af_help_please_dictionaries/)
+- [Job hunting automation using python](https://www.reddit.com/r/Python/comments/13sgu7t/job_hunting_automation_using_python/)
+- [GitHub - Rainbow-Dreamer/musicpy: Musicpy is a music programming language in Python designed to write music in very handy syntax through music theory and algorithms.](https://www.reddit.com/r/Python/comments/13sgneq/github_rainbowdreamermusicpy_musicpy_is_a_music/)
 - [Youtube tutorials](https://www.reddit.com/r/Python/comments/13se4jl/youtube_tutorials/)
 - [Deploy Django Project to EC2 using NGINX, Gunicorn, RDS Part 2](https://www.reddit.com/r/Python/comments/13se02t/deploy_django_project_to_ec2_using_nginx_gunicorn/)
-- [Christoph Gohlke&#39;s pre-compiled wheels now available on his Github](https://www.reddit.com/r/Python/comments/13sdl53/christoph_gohlkes_precompiled_wheels_now/)
-- [Use Pipelines to understand Functional Programming](https://www.reddit.com/r/Python/comments/13sbr8f/use_pipelines_to_understand_functional_programming/)
-- [12 VSCode Tips and Tricks for Python Development](https://www.reddit.com/r/Python/comments/13saq39/12_vscode_tips_and_tricks_for_python_development/)
 <!-- BLOG-POST-LIST:END -->
