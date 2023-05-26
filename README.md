@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Development Tools](https://www.reddit.com/r/Python/comments/13s7q5f/python_development_tools/)
+- [Realised Ive spent 10 hrs learning to automate a job that takes me 15 minutes a week](https://www.reddit.com/r/Python/comments/13s7h2m/realised_ive_spent_10_hrs_learning_to_automate_a/)
 - [Python Subprocess: Run Shell Commands with Ease](https://www.reddit.com/r/Python/comments/13s6y65/python_subprocess_run_shell_commands_with_ease/)
 - [PyPI will require 2FA by the end of 2023](https://www.reddit.com/r/Python/comments/13s6qm3/pypi_will_require_2fa_by_the_end_of_2023/)
 - [Python Performance Testing Shenanigans](https://www.reddit.com/r/Python/comments/13s5rz5/python_performance_testing_shenanigans/)
-- [Hone Your Skills with TOPS Technologies Best Python Classes In Ahmedabad](https://www.reddit.com/r/Python/comments/13s406x/hone_your_skills_with_tops_technologies_best/)
-- [How much time do you spend on writing automated tests?](https://www.reddit.com/r/Python/comments/13s3e6o/how_much_time_do_you_spend_on_writing_automated/)
 <!-- BLOG-POST-LIST:END -->
