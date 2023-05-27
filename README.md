@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python adventures: Finding unused dependencies in Python projects](https://www.reddit.com/r/Python/comments/13tcjob/python_adventures_finding_unused_dependencies_in/)
 - [What is the best way to learn Python if I want to become a data engineer](https://www.reddit.com/r/Python/comments/13tbkm6/what_is_the_best_way_to_learn_python_if_i_want_to/)
 - [PYPI Detected Malicious Packages and Stopped New User Registration and Package Upload, Remove These Packages If you&#39;re using them.](https://www.reddit.com/r/Python/comments/13tbjkp/pypi_detected_malicious_packages_and_stopped_new/)
 - [Python app that syncs the file names of two directories](https://www.reddit.com/r/Python/comments/13ta2sp/python_app_that_syncs_the_file_names_of_two/)
 - [How long does the post approval usually take in this sub?](https://www.reddit.com/r/Python/comments/13t7gid/how_long_does_the_post_approval_usually_take_in/)
-- [Made a python library that lets you use the chatgpt website as an API, works on headless linux servers and even google collab, can be an alternative to the paid chatgpt API!](https://www.reddit.com/r/Python/comments/13t4z44/made_a_python_library_that_lets_you_use_the/)
 <!-- BLOG-POST-LIST:END -->
