@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anyone have ekmans spiral for oceanography?](https://www.reddit.com/r/Python/comments/13te8qd/anyone_have_ekmans_spiral_for_oceanography/)
+- [Flask App Clone of Crazy Days and Nights](https://www.reddit.com/r/Python/comments/13tdugz/flask_app_clone_of_crazy_days_and_nights/)
 - [Python adventures: Finding unused dependencies in Python projects](https://www.reddit.com/r/Python/comments/13tcjob/python_adventures_finding_unused_dependencies_in/)
 - [What is the best way to learn Python if I want to become a data engineer](https://www.reddit.com/r/Python/comments/13tbkm6/what_is_the_best_way_to_learn_python_if_i_want_to/)
 - [PYPI Detected Malicious Packages and Stopped New User Registration and Package Upload, Remove These Packages If you&#39;re using them.](https://www.reddit.com/r/Python/comments/13tbjkp/pypi_detected_malicious_packages_and_stopped_new/)
-- [Python app that syncs the file names of two directories](https://www.reddit.com/r/Python/comments/13ta2sp/python_app_that_syncs_the_file_names_of_two/)
-- [How long does the post approval usually take in this sub?](https://www.reddit.com/r/Python/comments/13t7gid/how_long_does_the_post_approval_usually_take_in/)
 <!-- BLOG-POST-LIST:END -->
