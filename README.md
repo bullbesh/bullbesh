@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[ine] a simple terminal based text editor made only using bultin python functions](https://www.reddit.com/r/Python/comments/13u54fn/ine_a_simple_terminal_based_text_editor_made_only/)
+- [Python namedtuple: A Better Way to Work with Data](https://www.reddit.com/r/Python/comments/13u4hp5/python_namedtuple_a_better_way_to_work_with_data/)
 - [A small tool for JSON](https://www.reddit.com/r/Python/comments/13u3r16/a_small_tool_for_json/)
 - [I wrote a Python script to find working mirror/proxy sites for the Pirate Bay](https://www.reddit.com/r/Python/comments/13u351v/i_wrote_a_python_script_to_find_working/)
 - [Deploy Celery to EC2 using Docker part 1](https://www.reddit.com/r/Python/comments/13u26x9/deploy_celery_to_ec2_using_docker_part_1/)
-- [Deploy Celery to EC2 using Docker part 1](https://www.reddit.com/r/Python/comments/13u1xl6/deploy_celery_to_ec2_using_docker_part_1/)
-- [GitHub Codespaces and GitHub Copilot: 2 Stories, Thousands of Possibilities](https://www.reddit.com/r/Python/comments/13u19ut/github_codespaces_and_github_copilot_2_stories/)
 <!-- BLOG-POST-LIST:END -->
