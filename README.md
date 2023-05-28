@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Codespaces and GitHub Copilot: 2 Stories, Thousands of Possibilities](https://www.reddit.com/r/Python/comments/13u19ut/github_codespaces_and_github_copilot_2_stories/)
+- [Are there any user friendly report generating packages?](https://www.reddit.com/r/Python/comments/13u0iqd/are_there_any_user_friendly_report_generating/)
 - [I recently made a reddit bot in python that. Proud of what i made as a self taught.](https://www.reddit.com/r/Python/comments/13u01xi/i_recently_made_a_reddit_bot_in_python_that_proud/)
 - [Analyze Podcast Speaker Sentiment/Emotion with locally-running Language Models!](https://www.reddit.com/r/Python/comments/13tz4c3/analyze_podcast_speaker_sentimentemotion_with/)
 - [prfiesta - Collect, analyze and celebrate your contributions for end of year reviews](https://www.reddit.com/r/Python/comments/13tyxlx/prfiesta_collect_analyze_and_celebrate_your/)
-- [Realtor Agents Scraper Pro](https://www.reddit.com/r/Python/comments/13txkaj/realtor_agents_scraper_pro/)
-- [Use cProfile to quickly identify performance bottlenecks](https://www.reddit.com/r/Python/comments/13tw4xn/use_cprofile_to_quickly_identify_performance/)
 <!-- BLOG-POST-LIST:END -->
