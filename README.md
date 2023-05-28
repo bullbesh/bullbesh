@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I recently made a reddit bot in python that. Proud of what i made as a self taught.](https://www.reddit.com/r/Python/comments/13u01xi/i_recently_made_a_reddit_bot_in_python_that_proud/)
 - [Analyze Podcast Speaker Sentiment/Emotion with locally-running Language Models!](https://www.reddit.com/r/Python/comments/13tz4c3/analyze_podcast_speaker_sentimentemotion_with/)
 - [prfiesta - Collect, analyze and celebrate your contributions for end of year reviews](https://www.reddit.com/r/Python/comments/13tyxlx/prfiesta_collect_analyze_and_celebrate_your/)
 - [Realtor Agents Scraper Pro](https://www.reddit.com/r/Python/comments/13txkaj/realtor_agents_scraper_pro/)
 - [Use cProfile to quickly identify performance bottlenecks](https://www.reddit.com/r/Python/comments/13tw4xn/use_cprofile_to_quickly_identify_performance/)
-- [How do you make the jump from intermediate to expert?](https://www.reddit.com/r/Python/comments/13tvobx/how_do_you_make_the_jump_from_intermediate_to/)
 <!-- BLOG-POST-LIST:END -->
