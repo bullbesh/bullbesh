@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Copilot vs Sourcery for VScode](https://www.reddit.com/r/Python/comments/13ts462/copilot_vs_sourcery_for_vscode/)
 - [Git &amp; GitHub: In-Depth Guide](https://www.reddit.com/r/Python/comments/13tqc73/git_github_indepth_guide/)
 - [python project for blender](https://www.reddit.com/r/Python/comments/13tq4a4/python_project_for_blender/)
 - [How to think like a programmer/ having trouble with worded problems.](https://www.reddit.com/r/Python/comments/13tpulg/how_to_think_like_a_programmer_having_trouble/)
 - [How do I set working directory for vs code interactive python?](https://www.reddit.com/r/Python/comments/13tpapp/how_do_i_set_working_directory_for_vs_code/)
-- [Scraping help needed](https://www.reddit.com/r/Python/comments/13tp3yf/scraping_help_needed/)
 <!-- BLOG-POST-LIST:END -->
