@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Analyze Podcast Speaker Sentiment/Emotion with locally-running Language Models!](https://www.reddit.com/r/Python/comments/13tz4c3/analyze_podcast_speaker_sentimentemotion_with/)
+- [prfiesta - Collect, analyze and celebrate your contributions for end of year reviews](https://www.reddit.com/r/Python/comments/13tyxlx/prfiesta_collect_analyze_and_celebrate_your/)
 - [Realtor Agents Scraper Pro](https://www.reddit.com/r/Python/comments/13txkaj/realtor_agents_scraper_pro/)
 - [Use cProfile to quickly identify performance bottlenecks](https://www.reddit.com/r/Python/comments/13tw4xn/use_cprofile_to_quickly_identify_performance/)
 - [How do you make the jump from intermediate to expert?](https://www.reddit.com/r/Python/comments/13tvobx/how_do_you_make_the_jump_from_intermediate_to/)
-- [GitHub - andim/noisyopt: Python library for optimizing noisy functions.](https://www.reddit.com/r/Python/comments/13tvldi/github_andimnoisyopt_python_library_for/)
-- [Share Notion CRUD python scripts. It might be helpful if you are using Notion AI and looking for ways to connect with your app and automatically interact with your Notion content](https://www.reddit.com/r/Python/comments/13tui9r/share_notion_crud_python_scripts_it_might_be/)
 <!-- BLOG-POST-LIST:END -->
