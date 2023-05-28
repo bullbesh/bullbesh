@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Share Notion CRUD python scripts. It might be helpful if you are using Notion AI and looking for ways to connect with your app and automatically interact with your Notion content](https://www.reddit.com/r/Python/comments/13tui9r/share_notion_crud_python_scripts_it_might_be/)
+- [How to integrate Semantic Search and LLM Prompts for a Chatbot with Domain-Specific Expertise in Streamlit](https://www.reddit.com/r/Python/comments/13tub8g/how_to_integrate_semantic_search_and_llm_prompts/)
+- [Python OOP](https://www.reddit.com/r/Python/comments/13tua4i/python_oop/)
 - [Copilot vs Sourcery for VScode](https://www.reddit.com/r/Python/comments/13ts462/copilot_vs_sourcery_for_vscode/)
 - [Git &amp; GitHub: In-Depth Guide](https://www.reddit.com/r/Python/comments/13tqc73/git_github_indepth_guide/)
-- [python project for blender](https://www.reddit.com/r/Python/comments/13tq4a4/python_project_for_blender/)
-- [How to think like a programmer/ having trouble with worded problems.](https://www.reddit.com/r/Python/comments/13tpulg/how_to_think_like_a_programmer_having_trouble/)
-- [How do I set working directory for vs code interactive python?](https://www.reddit.com/r/Python/comments/13tpapp/how_do_i_set_working_directory_for_vs_code/)
 <!-- BLOG-POST-LIST:END -->
