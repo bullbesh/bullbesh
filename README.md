@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do you make the jump from intermediate to expert?](https://www.reddit.com/r/Python/comments/13tvobx/how_do_you_make_the_jump_from_intermediate_to/)
+- [GitHub - andim/noisyopt: Python library for optimizing noisy functions.](https://www.reddit.com/r/Python/comments/13tvldi/github_andimnoisyopt_python_library_for/)
 - [Share Notion CRUD python scripts. It might be helpful if you are using Notion AI and looking for ways to connect with your app and automatically interact with your Notion content](https://www.reddit.com/r/Python/comments/13tui9r/share_notion_crud_python_scripts_it_might_be/)
 - [How to integrate Semantic Search and LLM Prompts for a Chatbot with Domain-Specific Expertise in Streamlit](https://www.reddit.com/r/Python/comments/13tub8g/how_to_integrate_semantic_search_and_llm_prompts/)
 - [Python OOP](https://www.reddit.com/r/Python/comments/13tua4i/python_oop/)
-- [Copilot vs Sourcery for VScode](https://www.reddit.com/r/Python/comments/13ts462/copilot_vs_sourcery_for_vscode/)
-- [Git &amp; GitHub: In-Depth Guide](https://www.reddit.com/r/Python/comments/13tqc73/git_github_indepth_guide/)
 <!-- BLOG-POST-LIST:END -->
