@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to generate audio using python](https://www.reddit.com/r/Python/comments/13u9bsd/how_to_generate_audio_using_python/)
-- [UnlimitedGPT now lets you automate most things on the ChatGPT website! Get user data, switch accounts, clear all conversations, switch themes, get messages much more faster than before, logout of current accounts, imitate human typing with customized delays, and much more!](https://www.reddit.com/r/Python/comments/13u9bhi/unlimitedgpt_now_lets_you_automate_most_things_on/)
 - [Generating a Podcast using Reddit Comments, AI, and Python](https://www.reddit.com/r/Python/comments/13u7voi/generating_a_podcast_using_reddit_comments_ai_and/)
 - [Python&#39;s .__call__&lpar;&rpar; Method: Creating Callable Instances – Real Python](https://www.reddit.com/r/Python/comments/13u6t7p/pythons_call_method_creating_callable_instances/)
 - [5 best Python books for beginners.](https://www.reddit.com/r/Python/comments/13u61xg/5_best_python_books_for_beginners/)
+- [[ine] a simple terminal based text editor made only using bultin python functions](https://www.reddit.com/r/Python/comments/13u54fn/ine_a_simple_terminal_based_text_editor_made_only/)
 <!-- BLOG-POST-LIST:END -->
