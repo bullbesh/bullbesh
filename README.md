@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do I set working directory for vs code interactive python?](https://www.reddit.com/r/Python/comments/13tpapp/how_do_i_set_working_directory_for_vs_code/)
+- [Chat with GPT-4 Web App in only 80 lines of Python](https://www.reddit.com/r/Python/comments/13tp7d4/chat_with_gpt4_web_app_in_only_80_lines_of_python/)
+- [Scraping help needed](https://www.reddit.com/r/Python/comments/13tp3yf/scraping_help_needed/)
 - [Where should i deploy my app ?](https://www.reddit.com/r/Python/comments/13to585/where_should_i_deploy_my_app/)
 - [Introducing an Open-Source Python API for AI Image Generator Midjourney](https://www.reddit.com/r/Python/comments/13tndcj/introducing_an_opensource_python_api_for_ai_image/)
-- [Is there actually any enterprise using Python for production?](https://www.reddit.com/r/Python/comments/13tmfiq/is_there_actually_any_enterprise_using_python_for/)
-- [The app GIF2Flipbook lets you create double sided flipbooks from your favorite GIFs or other animated files!](https://www.reddit.com/r/Python/comments/13tm9l9/the_app_gif2flipbook_lets_you_create_double_sided/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/13tm4oh/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
