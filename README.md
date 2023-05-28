@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [ITProTV/ACI Learning](https://www.reddit.com/r/Python/comments/13thcc1/itprotvaci_learning/)
-- [Web Scraping Amazon.com](https://www.reddit.com/r/Python/comments/13tf9sg/web_scraping_amazoncom/)
-- [Flask App Clone of Crazy Days and Nights](https://www.reddit.com/r/Python/comments/13tdugz/flask_app_clone_of_crazy_days_and_nights/)
-- [Python adventures: Finding unused dependencies in Python projects](https://www.reddit.com/r/Python/comments/13tcjob/python_adventures_finding_unused_dependencies_in/)
-- [What is the best way to learn Python if I want to become a data engineer](https://www.reddit.com/r/Python/comments/13tbkm6/what_is_the_best_way_to_learn_python_if_i_want_to/)
+- [Where should i deploy my app ?](https://www.reddit.com/r/Python/comments/13to585/where_should_i_deploy_my_app/)
+- [Introducing an Open-Source Python API for AI Image Generator Midjourney](https://www.reddit.com/r/Python/comments/13tndcj/introducing_an_opensource_python_api_for_ai_image/)
+- [Is there actually any enterprise using Python for production?](https://www.reddit.com/r/Python/comments/13tmfiq/is_there_actually_any_enterprise_using_python_for/)
+- [The app GIF2Flipbook lets you create double sided flipbooks from your favorite GIFs or other animated files!](https://www.reddit.com/r/Python/comments/13tm9l9/the_app_gif2flipbook_lets_you_create_double_sided/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/13tm4oh/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
