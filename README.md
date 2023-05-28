@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Celery to EC2 using Docker part 1](https://www.reddit.com/r/Python/comments/13u26x9/deploy_celery_to_ec2_using_docker_part_1/)
+- [Deploy Celery to EC2 using Docker part 1](https://www.reddit.com/r/Python/comments/13u1xl6/deploy_celery_to_ec2_using_docker_part_1/)
 - [GitHub Codespaces and GitHub Copilot: 2 Stories, Thousands of Possibilities](https://www.reddit.com/r/Python/comments/13u19ut/github_codespaces_and_github_copilot_2_stories/)
-- [Are there any user friendly report generating packages?](https://www.reddit.com/r/Python/comments/13u0iqd/are_there_any_user_friendly_report_generating/)
 - [I recently made a reddit bot in python that. Proud of what i made as a self taught.](https://www.reddit.com/r/Python/comments/13u01xi/i_recently_made_a_reddit_bot_in_python_that_proud/)
 - [Analyze Podcast Speaker Sentiment/Emotion with locally-running Language Models!](https://www.reddit.com/r/Python/comments/13tz4c3/analyze_podcast_speaker_sentimentemotion_with/)
-- [prfiesta - Collect, analyze and celebrate your contributions for end of year reviews](https://www.reddit.com/r/Python/comments/13tyxlx/prfiesta_collect_analyze_and_celebrate_your/)
 <!-- BLOG-POST-LIST:END -->
