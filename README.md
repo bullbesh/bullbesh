@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interacting with Kubernetes Deployments and Services using Python SDK](https://www.reddit.com/r/Python/comments/13uz469/interacting_with_kubernetes_deployments_and/)
+- [Introducing: Python Network Calculator](https://www.reddit.com/r/Python/comments/13uy9wl/introducing_python_network_calculator/)
+- [I used multiprocessing and multithreading at the same time to drop the execution time of my code from 155+ seconds to just over 2+ seconds](https://www.reddit.com/r/Python/comments/13uxqez/i_used_multiprocessing_and_multithreading_at_the/)
 - [Python Basics](https://www.reddit.com/r/Python/comments/13uxlxp/python_basics/)
 - [Ryu Controller](https://www.reddit.com/r/Python/comments/13uwxza/ryu_controller/)
-- [Has anyone solved the prime number problem on SPOJ yet using pure python?](https://www.reddit.com/r/Python/comments/13uwr1x/has_anyone_solved_the_prime_number_problem_on/)
-- [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe now for tomorrow&#39;s release](https://www.reddit.com/r/Python/comments/13uvk5e/the_python_on_microcontrollers_newsletter_a_free/)
-- [Need someone with AMD graphics on Linux to test something in my script](https://www.reddit.com/r/Python/comments/13uvd2u/need_someone_with_amd_graphics_on_linux_to_test/)
 <!-- BLOG-POST-LIST:END -->
