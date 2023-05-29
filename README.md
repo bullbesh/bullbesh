@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Alexa ChatGPT integration with Slack support](https://www.reddit.com/r/Python/comments/13usu2x/alexa_chatgpt_integration_with_slack_support/)
 - [Made plai.tv, a video platform that lets you organise videos from any URL into private and public playlists, in python + react](https://www.reddit.com/r/Python/comments/13urp7q/made_plaitv_a_video_platform_that_lets_you/)
 - [https://www.youtube.com/watch?v=OfBhHErwjGk](https://www.reddit.com/r/Python/comments/13uqheo/httpswwwyoutubecomwatchvofbhherwjgk/)
 - [python matplotlib plotx, y](https://www.reddit.com/r/Python/comments/13upxs8/python_matplotlib_plotx_y/)
 - [python matplotlib plotx, y](https://www.reddit.com/r/Python/comments/13upxjd/python_matplotlib_plotx_y/)
-- [generate text in python and Markovify withot any api](https://www.reddit.com/r/Python/comments/13uothj/generate_text_in_python_and_markovify_withot_any/)
 <!-- BLOG-POST-LIST:END -->
