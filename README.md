@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - vladkens/twscrape: Twitter Search &amp; GraphQL API scrapper with authorization support. Allows you to scrape search results, User&#39;s profiles &lpar;followers/following&rpar; and Tweets &lpar;favoriters/retweeters&rpar;.](https://www.reddit.com/r/Python/comments/13ufgvs/github_vladkenstwscrape_twitter_search_graphql/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/13uf702/monday_daily_thread_project_ideas/)
+- [pyzoom now handles entire Zoom oauth flow](https://www.reddit.com/r/Python/comments/13ueq53/pyzoom_now_handles_entire_zoom_oauth_flow/)
 - [How to generate audio using python](https://www.reddit.com/r/Python/comments/13u9bsd/how_to_generate_audio_using_python/)
 - [Generating a Podcast using Reddit Comments, AI, and Python](https://www.reddit.com/r/Python/comments/13u7voi/generating_a_podcast_using_reddit_comments_ai_and/)
-- [Python&#39;s .__call__&lpar;&rpar; Method: Creating Callable Instances – Real Python](https://www.reddit.com/r/Python/comments/13u6t7p/pythons_call_method_creating_callable_instances/)
-- [5 best Python books for beginners.](https://www.reddit.com/r/Python/comments/13u61xg/5_best_python_books_for_beginners/)
-- [[ine] a simple terminal based text editor made only using bultin python functions](https://www.reddit.com/r/Python/comments/13u54fn/ine_a_simple_terminal_based_text_editor_made_only/)
 <!-- BLOG-POST-LIST:END -->
