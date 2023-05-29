@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [https://www.youtube.com/watch?v=OfBhHErwjGk](https://www.reddit.com/r/Python/comments/13uqheo/httpswwwyoutubecomwatchvofbhherwjgk/)
+- [python matplotlib plotx, y](https://www.reddit.com/r/Python/comments/13upxs8/python_matplotlib_plotx_y/)
+- [python matplotlib plotx, y](https://www.reddit.com/r/Python/comments/13upxjd/python_matplotlib_plotx_y/)
 - [generate text in python and Markovify withot any api](https://www.reddit.com/r/Python/comments/13uothj/generate_text_in_python_and_markovify_withot_any/)
 - [get geo location info from ip using python](https://www.reddit.com/r/Python/comments/13uot0j/get_geo_location_info_from_ip_using_python/)
-- [the best way to convert python file to exe using Nuitka](https://www.reddit.com/r/Python/comments/13uorop/the_best_way_to_convert_python_file_to_exe_using/)
-- [Is it possible that AI will take over software development industry?](https://www.reddit.com/r/Python/comments/13uoo2r/is_it_possible_that_ai_will_take_over_software/)
-- [Generate Images from text without any api😎](https://www.reddit.com/r/Python/comments/13uok5x/generate_images_from_text_without_any_api/)
 <!-- BLOG-POST-LIST:END -->
