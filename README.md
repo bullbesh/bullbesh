@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe now for tomorrow&#39;s release](https://www.reddit.com/r/Python/comments/13uvk5e/the_python_on_microcontrollers_newsletter_a_free/)
+- [Need someone with AMD graphics on Linux to test something in my script](https://www.reddit.com/r/Python/comments/13uvd2u/need_someone_with_amd_graphics_on_linux_to_test/)
+- [Why we need a Python functional programming initiative](https://www.reddit.com/r/Python/comments/13uuyz3/why_we_need_a_python_functional_programming/)
 - [Alexa ChatGPT integration with Slack support](https://www.reddit.com/r/Python/comments/13usu2x/alexa_chatgpt_integration_with_slack_support/)
 - [Made plai.tv, a video platform that lets you organise videos from any URL into private and public playlists, in python + react](https://www.reddit.com/r/Python/comments/13urp7q/made_plaitv_a_video_platform_that_lets_you/)
-- [https://www.youtube.com/watch?v=OfBhHErwjGk](https://www.reddit.com/r/Python/comments/13uqheo/httpswwwyoutubecomwatchvofbhherwjgk/)
-- [python matplotlib plotx, y](https://www.reddit.com/r/Python/comments/13upxs8/python_matplotlib_plotx_y/)
-- [python matplotlib plotx, y](https://www.reddit.com/r/Python/comments/13upxjd/python_matplotlib_plotx_y/)
 <!-- BLOG-POST-LIST:END -->
