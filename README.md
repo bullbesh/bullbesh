@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open-source projects](https://www.reddit.com/r/Python/comments/13vyuqg/opensource_projects/)
+- [A simple Python package to easily use Meta&#39;s Massively Multilingual Speech &lpar;MMS&rpar; project](https://www.reddit.com/r/Python/comments/13vy915/a_simple_python_package_to_easily_use_metas/)
+- [Alternatives to the now archived darglint project.](https://www.reddit.com/r/Python/comments/13vxtjw/alternatives_to_the_now_archived_darglint_project/)
 - [Reading the stack trace to understand python errors](https://www.reddit.com/r/Python/comments/13vx9yf/reading_the_stack_trace_to_understand_python/)
 - [I created a Python Script that scrapes Music Playists from Top Sources, downloads official WEBM files from Official Audio/Video sites, then converts those files to MP3 using FFMPEG and then tags MetaData using API. AMA](https://www.reddit.com/r/Python/comments/13vwxg6/i_created_a_python_script_that_scrapes_music/)
-- [Getting Started with Streamlit Visualizations for Medical Research](https://www.reddit.com/r/Python/comments/13vwuh8/getting_started_with_streamlit_visualizations_for/)
-- [Ultimate Python Multithreading Guide](https://www.reddit.com/r/Python/comments/13vwk9g/ultimate_python_multithreading_guide/)
-- [Talk To Your CSV: How To Visualize Your Data With Langchain And Streamlit](https://www.reddit.com/r/Python/comments/13vwe4f/talk_to_your_csv_how_to_visualize_your_data_with/)
 <!-- BLOG-POST-LIST:END -->
