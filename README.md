@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I recorded a Python Plotly Data Visualization Course and uploaded it on Youtube](https://www.reddit.com/r/Python/comments/13vui9q/i_recorded_a_python_plotly_data_visualization/)
-- [How can I find out why my python is so slow?](https://www.reddit.com/r/Python/comments/13vu586/how_can_i_find_out_why_my_python_is_so_slow/)
-- [IKM remote assessment](https://www.reddit.com/r/Python/comments/13vsnn0/ikm_remote_assessment/)
-- [Compare weather providers and publish results with automated tweeting!](https://www.reddit.com/r/Python/comments/13vqn92/compare_weather_providers_and_publish_results/)
-- [Image Detection with simple Python: From Concept to Code](https://www.reddit.com/r/Python/comments/13vqhwb/image_detection_with_simple_python_from_concept/)
+- [Reading the stack trace to understand python errors](https://www.reddit.com/r/Python/comments/13vx9yf/reading_the_stack_trace_to_understand_python/)
+- [I created a Python Script that scrapes Music Playists from Top Sources, downloads official WEBM files from Official Audio/Video sites, then converts those files to MP3 using FFMPEG and then tags MetaData using API. AMA](https://www.reddit.com/r/Python/comments/13vwxg6/i_created_a_python_script_that_scrapes_music/)
+- [Getting Started with Streamlit Visualizations for Medical Research](https://www.reddit.com/r/Python/comments/13vwuh8/getting_started_with_streamlit_visualizations_for/)
+- [Ultimate Python Multithreading Guide](https://www.reddit.com/r/Python/comments/13vwk9g/ultimate_python_multithreading_guide/)
+- [Talk To Your CSV: How To Visualize Your Data With Langchain And Streamlit](https://www.reddit.com/r/Python/comments/13vwe4f/talk_to_your_csv_how_to_visualize_your_data_with/)
 <!-- BLOG-POST-LIST:END -->
