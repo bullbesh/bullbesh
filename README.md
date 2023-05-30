@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Two AIs talking about UCL Semifinal between Man City and Real Madrid](https://www.reddit.com/r/Python/comments/13vfk5o/two_ais_talking_about_ucl_semifinal_between_man/)
 - [What more can I do with Python](https://www.reddit.com/r/Python/comments/13vehc7/what_more_can_i_do_with_python/)
 - [Are ChatGPT jobs safe from Python developers?](https://www.reddit.com/r/Python/comments/13vdcmk/are_chatgpt_jobs_safe_from_python_developers/)
 - [Data Types in Python](https://www.reddit.com/r/Python/comments/13vcnu3/data_types_in_python/)
 - [Need sudo on Windows? Try my gsudo wrapper package](https://www.reddit.com/r/Python/comments/13vbzat/need_sudo_on_windows_try_my_gsudo_wrapper_package/)
-- [Hi guys, I’m currently learning Python taking Udemy courses, I want to land a tech job and I was wondering if learning Python would be enough to land a tech job or would I need to learn something else? Thank you for your reply’s](https://www.reddit.com/r/Python/comments/13vba8h/hi_guys_im_currently_learning_python_taking_udemy/)
 <!-- BLOG-POST-LIST:END -->
