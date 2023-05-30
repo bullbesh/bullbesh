@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are using protected and private class variables/functions worth it?](https://www.reddit.com/r/Python/comments/13w0q2q/are_using_protected_and_private_class/)
+- [Epic Base Conversion](https://www.reddit.com/r/Python/comments/13w0kwu/epic_base_conversion/)
 - [Open-source projects](https://www.reddit.com/r/Python/comments/13vyuqg/opensource_projects/)
 - [A simple Python package to easily use Meta&#39;s Massively Multilingual Speech &lpar;MMS&rpar; project](https://www.reddit.com/r/Python/comments/13vy915/a_simple_python_package_to_easily_use_metas/)
 - [Alternatives to the now archived darglint project.](https://www.reddit.com/r/Python/comments/13vxtjw/alternatives_to_the_now_archived_darglint_project/)
-- [Reading the stack trace to understand python errors](https://www.reddit.com/r/Python/comments/13vx9yf/reading_the_stack_trace_to_understand_python/)
-- [I created a Python Script that scrapes Music Playists from Top Sources, downloads official WEBM files from Official Audio/Video sites, then converts those files to MP3 using FFMPEG and then tags MetaData using API. AMA](https://www.reddit.com/r/Python/comments/13vwxg6/i_created_a_python_script_that_scrapes_music/)
 <!-- BLOG-POST-LIST:END -->
