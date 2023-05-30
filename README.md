@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GShellX: A GPT-powered CLI for generating and executing shell commands - would love some feedback!](https://www.reddit.com/r/Python/comments/13vmsfd/gshellx_a_gptpowered_cli_for_generating_and/)
+- [Being a good UNIX neighbour &lpar;click&rpar;](https://www.reddit.com/r/Python/comments/13vmf1i/being_a_good_unix_neighbour_click/)
 - [Basics of Python: Variables and Data Types](https://www.reddit.com/r/Python/comments/13vklcy/basics_of_python_variables_and_data_types/)
 - [List comprehensions, break-continue, exception handling in Python](https://www.reddit.com/r/Python/comments/13vkg00/list_comprehensions_breakcontinue_exception/)
 - [evalidate - Safe evaluation of untrusted user-supplied python expression](https://www.reddit.com/r/Python/comments/13vk7l9/evalidate_safe_evaluation_of_untrusted/)
-- [👉 New Awesome Polars release! What&#39;s new in the world of Polars in the last 3 weeks ? Let&#39;s find out! 🚀](https://www.reddit.com/r/Python/comments/13vjxa7/new_awesome_polars_release_whats_new_in_the_world/)
-- [The Python Language Summit 2023: Making the Global Interpreter Lock Optional](https://www.reddit.com/r/Python/comments/13vjkoj/the_python_language_summit_2023_making_the_global/)
 <!-- BLOG-POST-LIST:END -->
