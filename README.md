@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I recorded a Python Plotly Data Visualization Course and uploaded it on Youtube](https://www.reddit.com/r/Python/comments/13vui9q/i_recorded_a_python_plotly_data_visualization/)
+- [How can I find out why my python is so slow?](https://www.reddit.com/r/Python/comments/13vu586/how_can_i_find_out_why_my_python_is_so_slow/)
 - [IKM remote assessment](https://www.reddit.com/r/Python/comments/13vsnn0/ikm_remote_assessment/)
 - [Compare weather providers and publish results with automated tweeting!](https://www.reddit.com/r/Python/comments/13vqn92/compare_weather_providers_and_publish_results/)
 - [Image Detection with simple Python: From Concept to Code](https://www.reddit.com/r/Python/comments/13vqhwb/image_detection_with_simple_python_from_concept/)
-- [DuckDB Performance Test 0.8.0](https://www.reddit.com/r/Python/comments/13vq0su/duckdb_performance_test_080/)
-- [CLI testing &amp; model management tool #promptengineering](https://www.reddit.com/r/Python/comments/13vpsa6/cli_testing_model_management_tool/)
 <!-- BLOG-POST-LIST:END -->
