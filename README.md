@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use if else, while and for loops in python?](https://www.reddit.com/r/Python/comments/13vi3u5/how_to_use_if_else_while_and_for_loops_in_python/)
 - [Two AIs talking about UCL Semifinal between Man City and Real Madrid](https://www.reddit.com/r/Python/comments/13vfk5o/two_ais_talking_about_ucl_semifinal_between_man/)
 - [What more can I do with Python](https://www.reddit.com/r/Python/comments/13vehc7/what_more_can_i_do_with_python/)
 - [Are ChatGPT jobs safe from Python developers?](https://www.reddit.com/r/Python/comments/13vdcmk/are_chatgpt_jobs_safe_from_python_developers/)
 - [Data Types in Python](https://www.reddit.com/r/Python/comments/13vcnu3/data_types_in_python/)
-- [Need sudo on Windows? Try my gsudo wrapper package](https://www.reddit.com/r/Python/comments/13vbzat/need_sudo_on_windows_try_my_gsudo_wrapper_package/)
 <!-- BLOG-POST-LIST:END -->
