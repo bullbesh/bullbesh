@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I recorded a Python Plotly Data Visualization Course and uploaded it on Youtube &lpar;+1 hour course&rpar;](https://www.reddit.com/r/Python/comments/13vovbf/i_recorded_a_python_plotly_data_visualization/)
+- [Low code and friendly integration about a new mode of online teaching platform. Anyone needs tutorial?](https://www.reddit.com/r/Python/comments/13vobin/low_code_and_friendly_integration_about_a_new/)
+- [Creating Autonomous Agents AGI framework using Python](https://www.reddit.com/r/Python/comments/13voa0r/creating_autonomous_agents_agi_framework_using/)
+- [Crypto indicator screener website using flask](https://www.reddit.com/r/Python/comments/13vnjgg/crypto_indicator_screener_website_using_flask/)
 - [GShellX: A GPT-powered CLI for generating and executing shell commands - would love some feedback!](https://www.reddit.com/r/Python/comments/13vmsfd/gshellx_a_gptpowered_cli_for_generating_and/)
-- [Being a good UNIX neighbour &lpar;click&rpar;](https://www.reddit.com/r/Python/comments/13vmf1i/being_a_good_unix_neighbour_click/)
-- [Basics of Python: Variables and Data Types](https://www.reddit.com/r/Python/comments/13vklcy/basics_of_python_variables_and_data_types/)
-- [List comprehensions, break-continue, exception handling in Python](https://www.reddit.com/r/Python/comments/13vkg00/list_comprehensions_breakcontinue_exception/)
-- [evalidate - Safe evaluation of untrusted user-supplied python expression](https://www.reddit.com/r/Python/comments/13vk7l9/evalidate_safe_evaluation_of_untrusted/)
 <!-- BLOG-POST-LIST:END -->
