@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I saved us $400M the second time around using python tools lol](https://www.reddit.com/r/Python/comments/13w2xiq/i_saved_us_400m_the_second_time_around_using/)
+- [Python Programming for Beginners chapter 1 basics](https://www.reddit.com/r/Python/comments/13w2t7b/python_programming_for_beginners_chapter_1_basics/)
 - [Are using protected and private class variables/functions worth it?](https://www.reddit.com/r/Python/comments/13w0q2q/are_using_protected_and_private_class/)
 - [Epic Base Conversion](https://www.reddit.com/r/Python/comments/13w0kwu/epic_base_conversion/)
 - [Open-source projects](https://www.reddit.com/r/Python/comments/13vyuqg/opensource_projects/)
-- [A simple Python package to easily use Meta&#39;s Massively Multilingual Speech &lpar;MMS&rpar; project](https://www.reddit.com/r/Python/comments/13vy915/a_simple_python_package_to_easily_use_metas/)
-- [Alternatives to the now archived darglint project.](https://www.reddit.com/r/Python/comments/13vxtjw/alternatives_to_the_now_archived_darglint_project/)
 <!-- BLOG-POST-LIST:END -->
