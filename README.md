@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I saved us $400M the second time around using python tools lol](https://www.reddit.com/r/Python/comments/13w2xiq/i_saved_us_400m_the_second_time_around_using/)
+- [Used Python to create this AI extension that allows people to Search through Youtube videos using AI](https://www.reddit.com/r/Python/comments/13w4d02/used_python_to_create_this_ai_extension_that/)
+- [Using Python to create audio with emotion from ElevenLabs](https://www.reddit.com/r/Python/comments/13w3xft/using_python_to_create_audio_with_emotion_from/)
 - [Python Programming for Beginners chapter 1 basics](https://www.reddit.com/r/Python/comments/13w2t7b/python_programming_for_beginners_chapter_1_basics/)
 - [Are using protected and private class variables/functions worth it?](https://www.reddit.com/r/Python/comments/13w0q2q/are_using_protected_and_private_class/)
 - [Epic Base Conversion](https://www.reddit.com/r/Python/comments/13w0kwu/epic_base_conversion/)
-- [Open-source projects](https://www.reddit.com/r/Python/comments/13vyuqg/opensource_projects/)
 <!-- BLOG-POST-LIST:END -->
