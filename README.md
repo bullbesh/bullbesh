@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [python webdriver extract some financial data](https://www.reddit.com/r/Python/comments/13wudof/python_webdriver_extract_some_financial_data/)
+- [Finetuning openLLAMA on Intel discrete GPUS](https://www.reddit.com/r/Python/comments/13wtw36/finetuning_openllama_on_intel_discrete_gpus/)
 - [Elden Ring ML bot using PSO algorithm](https://www.reddit.com/r/Python/comments/13wsucn/elden_ring_ml_bot_using_pso_algorithm/)
 - [Checkout this Blog Post, In the Blog we will walk through full setup of Jupyter Python Notebook On GCP&lpar;Google Cloud Platform&rpar; with Key Features.](https://www.reddit.com/r/Python/comments/13wsp2p/checkout_this_blog_post_in_the_blog_we_will_walk/)
 - [The IOPCC 2023 is now open!](https://www.reddit.com/r/Python/comments/13ws3a2/the_iopcc_2023_is_now_open/)
-- [Update a Python script about Gmail email automation using Python. Previously Gmail updated sign-in SMTP requires App password instead of the gmail account. Pleaes be sure to update if you might need to run email campaigns](https://www.reddit.com/r/Python/comments/13wr9um/update_a_python_script_about_gmail_email/)
-- [Run Redis, PostGres and Celery using Docker &lpar;feedback welcome&rpar;](https://www.reddit.com/r/Python/comments/13wqjcj/run_redis_postgres_and_celery_using_docker/)
 <!-- BLOG-POST-LIST:END -->
