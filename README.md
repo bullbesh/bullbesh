@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing Results of Latest Polars Version 0.18.0](https://www.reddit.com/r/Python/comments/13wox5s/testing_results_of_latest_polars_version_0180/)
+- [I created a python script that analyzes Redditors with AI](https://www.reddit.com/r/Python/comments/13wo36k/i_created_a_python_script_that_analyzes_redditors/)
+- [Migrating from bcrypt to Argon2id for password hashing](https://www.reddit.com/r/Python/comments/13wnlvb/migrating_from_bcrypt_to_argon2id_for_password/)
 - [I made a glyph node calculator for Diablo IV.](https://www.reddit.com/r/Python/comments/13wmcsk/i_made_a_glyph_node_calculator_for_diablo_iv/)
 - [Published my first research article &quot;A divide and conquer approach to maximise deep learning mammography classification accuracies&quot; with the code written 100% in Python.](https://www.reddit.com/r/Python/comments/13wld82/published_my_first_research_article_a_divide_and/)
-- [I wrote a Python practicing website. Feedback appreciated. python-practice.com](https://www.reddit.com/r/Python/comments/13wjmri/i_wrote_a_python_practicing_website_feedback/)
-- [Recommended YouTube videos to watch as a python beginner](https://www.reddit.com/r/Python/comments/13wi6wn/recommended_youtube_videos_to_watch_as_a_python/)
-- [Project Ideas](https://www.reddit.com/r/Python/comments/13wgs5z/project_ideas/)
 <!-- BLOG-POST-LIST:END -->
