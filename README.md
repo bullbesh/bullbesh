@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Elden Ring ML bot using PSO algorithm](https://www.reddit.com/r/Python/comments/13wsucn/elden_ring_ml_bot_using_pso_algorithm/)
+- [Checkout this Blog Post, In the Blog we will walk through full setup of Jupyter Python Notebook On GCP&lpar;Google Cloud Platform&rpar; with Key Features.](https://www.reddit.com/r/Python/comments/13wsp2p/checkout_this_blog_post_in_the_blog_we_will_walk/)
 - [The IOPCC 2023 is now open!](https://www.reddit.com/r/Python/comments/13ws3a2/the_iopcc_2023_is_now_open/)
 - [Update a Python script about Gmail email automation using Python. Previously Gmail updated sign-in SMTP requires App password instead of the gmail account. Pleaes be sure to update if you might need to run email campaigns](https://www.reddit.com/r/Python/comments/13wr9um/update_a_python_script_about_gmail_email/)
 - [Run Redis, PostGres and Celery using Docker &lpar;feedback welcome&rpar;](https://www.reddit.com/r/Python/comments/13wqjcj/run_redis_postgres_and_celery_using_docker/)
-- [Can you solve this surprisingly tricky Python challenge?](https://www.reddit.com/r/Python/comments/13wq4jm/can_you_solve_this_surprisingly_tricky_python/)
-- [Create user interfaces from only Python and HTML using ToUI](https://www.reddit.com/r/Python/comments/13wq0x0/create_user_interfaces_from_only_python_and_html/)
 <!-- BLOG-POST-LIST:END -->
