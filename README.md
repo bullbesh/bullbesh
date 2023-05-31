@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Core Python Team Members Remain in Denial](https://www.reddit.com/r/Python/comments/13wamt4/core_python_team_members_remain_in_denial/)
 - [qStore - POC youtube as file storage.](https://www.reddit.com/r/Python/comments/13wa1o3/qstore_poc_youtube_as_file_storage/)
 - [Finding art in the &lpar;near&rpar; infinite Canvas of Babel](https://www.reddit.com/r/Python/comments/13w8l4e/finding_art_in_the_near_infinite_canvas_of_babel/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/13w6eje/wednesday_daily_thread_beginner_questions/)
-- [Used Python to create this AI extension that allows people to Search through Youtube videos using AI](https://www.reddit.com/r/Python/comments/13w4d02/used_python_to_create_this_ai_extension_that/)
+- [Using Python to create audio with emotion from ElevenLabs](https://www.reddit.com/r/Python/comments/13w3xft/using_python_to_create_audio_with_emotion_from/)
+- [Python Programming for Beginners chapter 1 basics](https://www.reddit.com/r/Python/comments/13w2t7b/python_programming_for_beginners_chapter_1_basics/)
 <!-- BLOG-POST-LIST:END -->
