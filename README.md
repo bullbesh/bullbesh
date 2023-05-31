@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wrote an open source VSCode plugin to generate docstrings, using a self-hosted server](https://www.reddit.com/r/Python/comments/13wewdk/wrote_an_open_source_vscode_plugin_to_generate/)
+- [🤖 How I Got Tired Of Writing Python Tests. Now AI Writes Them For Me](https://www.reddit.com/r/Python/comments/13wee0t/how_i_got_tired_of_writing_python_tests_now_ai/)
 - [The Python Language Summit 2023: What is the Standard Library for?](https://www.reddit.com/r/Python/comments/13we6hl/the_python_language_summit_2023_what_is_the/)
 - [qStore - POC youtube as file storage.](https://www.reddit.com/r/Python/comments/13wa1o3/qstore_poc_youtube_as_file_storage/)
 - [Finding art in the &lpar;near&rpar; infinite Canvas of Babel](https://www.reddit.com/r/Python/comments/13w8l4e/finding_art_in_the_near_infinite_canvas_of_babel/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/13w6eje/wednesday_daily_thread_beginner_questions/)
-- [Using Python to create audio with emotion from ElevenLabs](https://www.reddit.com/r/Python/comments/13w3xft/using_python_to_create_audio_with_emotion_from/)
 <!-- BLOG-POST-LIST:END -->
