@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The IOPCC 2023 is now open!](https://www.reddit.com/r/Python/comments/13ws3a2/the_iopcc_2023_is_now_open/)
+- [Update a Python script about Gmail email automation using Python. Previously Gmail updated sign-in SMTP requires App password instead of the gmail account. Pleaes be sure to update if you might need to run email campaigns](https://www.reddit.com/r/Python/comments/13wr9um/update_a_python_script_about_gmail_email/)
 - [Run Redis, PostGres and Celery using Docker &lpar;feedback welcome&rpar;](https://www.reddit.com/r/Python/comments/13wqjcj/run_redis_postgres_and_celery_using_docker/)
 - [Can you solve this surprisingly tricky Python challenge?](https://www.reddit.com/r/Python/comments/13wq4jm/can_you_solve_this_surprisingly_tricky_python/)
 - [Create user interfaces from only Python and HTML using ToUI](https://www.reddit.com/r/Python/comments/13wq0x0/create_user_interfaces_from_only_python_and_html/)
-- [Arq vs Dramatiq vs Taskiq vs Repid](https://www.reddit.com/r/Python/comments/13wpqzy/arq_vs_dramatiq_vs_taskiq_vs_repid/)
-- [CSV or Parquet File Format](https://www.reddit.com/r/Python/comments/13wp8bu/csv_or_parquet_file_format/)
 <!-- BLOG-POST-LIST:END -->
