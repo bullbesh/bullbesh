@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a Python practicing website. Feedback appreciated. python-practice.com](https://www.reddit.com/r/Python/comments/13wjmri/i_wrote_a_python_practicing_website_feedback/)
 - [Recommended YouTube videos to watch as a python beginner](https://www.reddit.com/r/Python/comments/13wi6wn/recommended_youtube_videos_to_watch_as_a_python/)
 - [Project Ideas](https://www.reddit.com/r/Python/comments/13wgs5z/project_ideas/)
 - [PyScript Limitations for building data web apps](https://www.reddit.com/r/Python/comments/13wgqzh/pyscript_limitations_for_building_data_web_apps/)
 - [The Fedora Python Classroom](https://www.reddit.com/r/Python/comments/13wfexd/the_fedora_python_classroom/)
-- [Simple, Web-Based ToDo App](https://www.reddit.com/r/Python/comments/13wfb0n/simple_webbased_todo_app/)
 <!-- BLOG-POST-LIST:END -->
