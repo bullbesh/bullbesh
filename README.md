@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [📣 Announcement: Discover the Power of pytest and labgrid for Integration Testing!](https://www.reddit.com/r/Python/comments/13wxzma/announcement_discover_the_power_of_pytest_and/)
+- [&lpar;UNDER DEVELOPMENT&rpar; Zenith is a powerful Python framework that revolutionizes web development by enabling declarative and efficient UI components for building interactive and scalable websites.](https://www.reddit.com/r/Python/comments/13wxt1b/under_development_zenith_is_a_powerful_python/)
+- [Made a csv parser library which automatically detects delimiter and start and end of data](https://www.reddit.com/r/Python/comments/13wxiih/made_a_csv_parser_library_which_automatically/)
 - [python webdriver extract some financial data](https://www.reddit.com/r/Python/comments/13wudof/python_webdriver_extract_some_financial_data/)
 - [Finetuning openLLAMA on Intel discrete GPUS](https://www.reddit.com/r/Python/comments/13wtw36/finetuning_openllama_on_intel_discrete_gpus/)
-- [Elden Ring ML bot using PSO algorithm](https://www.reddit.com/r/Python/comments/13wsucn/elden_ring_ml_bot_using_pso_algorithm/)
-- [Checkout this Blog Post, In the Blog we will walk through full setup of Jupyter Python Notebook On GCP&lpar;Google Cloud Platform&rpar; with Key Features.](https://www.reddit.com/r/Python/comments/13wsp2p/checkout_this_blog_post_in_the_blog_we_will_walk/)
-- [The IOPCC 2023 is now open!](https://www.reddit.com/r/Python/comments/13ws3a2/the_iopcc_2023_is_now_open/)
 <!-- BLOG-POST-LIST:END -->
