@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stopped using PyCharm? Tell us why!](https://www.reddit.com/r/Python/comments/13xbaup/stopped_using_pycharm_tell_us_why/)
+- [FastKafka 0.7.0 adds Windows support](https://www.reddit.com/r/Python/comments/13xb6gm/fastkafka_070_adds_windows_support/)
+- [Best AI code helper? Still Copilot?](https://www.reddit.com/r/Python/comments/13xaxzy/best_ai_code_helper_still_copilot/)
 - [Python frustration](https://www.reddit.com/r/Python/comments/13xansb/python_frustration/)
 - [Configuring ruff](https://www.reddit.com/r/Python/comments/13x3iht/configuring_ruff/)
-- [I am looking for a Python book whose title I can&#39;t recollect](https://www.reddit.com/r/Python/comments/13x2ufr/i_am_looking_for_a_python_book_whose_title_i_cant/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/13x2hgn/thursday_daily_thread_python_careers_courses_and/)
-- [Hey guys, look what I found, differential equations in Python](https://www.reddit.com/r/Python/comments/13x1tw8/hey_guys_look_what_i_found_differential_equations/)
 <!-- BLOG-POST-LIST:END -->
