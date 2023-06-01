@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dynamically reload on file-changes made to a script running in an infinite loop](https://www.reddit.com/r/Python/comments/13xukvm/dynamically_reload_on_filechanges_made_to_a/)
 - [Build a Basketball SMS Chatbot with LangChain Prompt Templates in Python](https://www.reddit.com/r/Python/comments/13xrpye/build_a_basketball_sms_chatbot_with_langchain/)
 - [dsame3 &lpar;Python EAS SAME Alert Message Decoder&rpar;](https://www.reddit.com/r/Python/comments/13xr7z9/dsame3_python_eas_same_alert_message_decoder/)
 - [Fileaway - A nifty tool to sort your messy folders](https://www.reddit.com/r/Python/comments/13xqyu5/fileaway_a_nifty_tool_to_sort_your_messy_folders/)
 - [Here&#39;s my falling blocks game, which is essentially a rip off of an old Neopets games.](https://www.reddit.com/r/Python/comments/13xqmsv/heres_my_falling_blocks_game_which_is_essentially/)
-- [Packaging a self contained CLI application for any environment?](https://www.reddit.com/r/Python/comments/13xq615/packaging_a_self_contained_cli_application_for/)
 <!-- BLOG-POST-LIST:END -->
