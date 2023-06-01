@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [argparse_dataclass: declarative CLIs with argparse and dataclasses &lpar;e.g. similar to Rust&#39;s structopt&rpar;](https://www.reddit.com/r/Python/comments/13xj3lx/argparse_dataclass_declarative_clis_with_argparse/)
 - [midi-clip: A python package for midi clip](https://www.reddit.com/r/Python/comments/13xhkjd/midiclip_a_python_package_for_midi_clip/)
 - [Choosing the Best Coding Font for Programming – Real Python](https://www.reddit.com/r/Python/comments/13xhke6/choosing_the_best_coding_font_for_programming/)
 - [Easy Machine Learning Dataset Evaluation Tool &lpar;Update&rpar;](https://www.reddit.com/r/Python/comments/13xg6de/easy_machine_learning_dataset_evaluation_tool/)
 - [Comparing to None in Python and Pandas](https://www.reddit.com/r/Python/comments/13xfmeg/comparing_to_none_in_python_and_pandas/)
-- [What is python? Python introduction](https://www.reddit.com/r/Python/comments/13xfhck/what_is_python_python_introduction/)
 <!-- BLOG-POST-LIST:END -->
