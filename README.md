@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple CLI to filter stdin with Python slice notation](https://www.reddit.com/r/Python/comments/13xmxuu/simple_cli_to_filter_stdin_with_python_slice/)
 - [What’s your biggest challenge when looking for professional development courses?](https://www.reddit.com/r/Python/comments/13xlosd/whats_your_biggest_challenge_when_looking_for/)
 - [Gaussian Integers in Python](https://www.reddit.com/r/Python/comments/13xlavm/gaussian_integers_in_python/)
 - [Crack the Coding Interview: Essential Resources for Success!](https://www.reddit.com/r/Python/comments/13xl3wz/crack_the_coding_interview_essential_resources/)
 - [Snake Game Feedback](https://www.reddit.com/r/Python/comments/13xl0es/snake_game_feedback/)
-- [argparse_dataclass: declarative CLIs with argparse and dataclasses &lpar;e.g. similar to Rust&#39;s structopt&rpar;](https://www.reddit.com/r/Python/comments/13xj3lx/argparse_dataclass_declarative_clis_with_argparse/)
 <!-- BLOG-POST-LIST:END -->
