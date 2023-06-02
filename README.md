@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Neat trick I learned](https://www.reddit.com/r/Python/comments/13ylgfb/neat_trick_i_learned/)
 - [pycon 2023 videos just posted on youtube](https://www.reddit.com/r/Python/comments/13yj5tf/pycon_2023_videos_just_posted_on_youtube/)
 - [Run Functions from any language in Python!](https://www.reddit.com/r/Python/comments/13yieix/run_functions_from_any_language_in_python/)
 - [Coding Confessions: What&#39;s Your Funniest or Most Embarrassing Coding Story?](https://www.reddit.com/r/Python/comments/13yh8r0/coding_confessions_whats_your_funniest_or_most/)
 - [Combine and Query Multiple Documents with LlamaIndex + LangChain + Milvus](https://www.reddit.com/r/Python/comments/13ygmuq/combine_and_query_multiple_documents_with/)
-- [Benchmarking for DuckDB and Polars](https://www.reddit.com/r/Python/comments/13ybbh5/benchmarking_for_duckdb_and_polars/)
 <!-- BLOG-POST-LIST:END -->
