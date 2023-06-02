@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Run Functions from any language in Python!](https://www.reddit.com/r/Python/comments/13yieix/run_functions_from_any_language_in_python/)
+- [Looking for a little feedback](https://www.reddit.com/r/Python/comments/13yhlf5/looking_for_a_little_feedback/)
+- [Coding Confessions: What&#39;s Your Funniest or Most Embarrassing Coding Story?](https://www.reddit.com/r/Python/comments/13yh8r0/coding_confessions_whats_your_funniest_or_most/)
 - [Combine and Query Multiple Documents with LlamaIndex + LangChain + Milvus](https://www.reddit.com/r/Python/comments/13ygmuq/combine_and_query_multiple_documents_with/)
 - [Benchmarking for DuckDB and Polars](https://www.reddit.com/r/Python/comments/13ybbh5/benchmarking_for_duckdb_and_polars/)
-- [How to connect to S3 locally from your Django Project &lpar;Feedback appreciated&rpar;](https://www.reddit.com/r/Python/comments/13yb5lv/how_to_connect_to_s3_locally_from_your_django/)
-- [A Python extension module to find where a passed keyword is defined as a function inside the Python library](https://www.reddit.com/r/Python/comments/13yb5g0/a_python_extension_module_to_find_where_a_passed/)
-- [Enforcement of 2FA for upload.pypi.org begins today](https://www.reddit.com/r/Python/comments/13y8d3i/enforcement_of_2fa_for_uploadpypiorg_begins_today/)
 <!-- BLOG-POST-LIST:END -->
