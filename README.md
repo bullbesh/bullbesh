@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Opencv error](https://www.reddit.com/r/Python/comments/13ysy9o/opencv_error/)
+- [Python for Finance: Pandas Resample, Groupby, and Rolling](https://www.reddit.com/r/Python/comments/13yrcl9/python_for_finance_pandas_resample_groupby_and/)
 - [Code to extract text from pdf to excel](https://www.reddit.com/r/Python/comments/13ynzql/code_to_extract_text_from_pdf_to_excel/)
 - [Neat trick I learned](https://www.reddit.com/r/Python/comments/13ylgfb/neat_trick_i_learned/)
 - [pycon 2023 videos just posted on youtube](https://www.reddit.com/r/Python/comments/13yj5tf/pycon_2023_videos_just_posted_on_youtube/)
-- [Run Functions from any language in Python!](https://www.reddit.com/r/Python/comments/13yieix/run_functions_from_any_language_in_python/)
-- [Coding Confessions: What&#39;s Your Funniest or Most Embarrassing Coding Story?](https://www.reddit.com/r/Python/comments/13yh8r0/coding_confessions_whats_your_funniest_or_most/)
 <!-- BLOG-POST-LIST:END -->
