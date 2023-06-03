@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is still worthy to learn programming in the era of AI?](https://www.reddit.com/r/Python/comments/13zfm03/is_still_worthy_to_learn_programming_in_the_era/)
+- [Development Environment with Microservices?](https://www.reddit.com/r/Python/comments/13zg93h/development_environment_with_microservices/)
+- [Magnetic Drawing Board – beauty in simplicity](https://www.reddit.com/r/Python/comments/13zfzid/magnetic_drawing_board_beauty_in_simplicity/)
 - [Unlocking the Power of Voice: Enhance Your Applications with Azure Speech Services](https://www.reddit.com/r/Python/comments/13zehk3/unlocking_the_power_of_voice_enhance_your/)
 - [Cursor Error](https://www.reddit.com/r/Python/comments/13zdgkw/cursor_error/)
 - [Why and how to hide the Python stack trace](https://www.reddit.com/r/Python/comments/13zcbk1/why_and_how_to_hide_the_python_stack_trace/)
-- [Machine learning tool to detect heart disease](https://www.reddit.com/r/Python/comments/13zc5pu/machine_learning_tool_to_detect_heart_disease/)
 <!-- BLOG-POST-LIST:END -->
