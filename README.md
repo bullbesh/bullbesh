@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 695 – Type Parameter Syntax](https://www.reddit.com/r/Python/comments/13zkinu/pep_695_type_parameter_syntax/)
+- [Python List Comprehension: The Art of Condensed Coding](https://www.reddit.com/r/Python/comments/13zkg86/python_list_comprehension_the_art_of_condensed/)
+- [Calling MATLAB functions from a Python script](https://www.reddit.com/r/Python/comments/13zj5ih/calling_matlab_functions_from_a_python_script/)
 - [Development Environment with Microservices?](https://www.reddit.com/r/Python/comments/13zg93h/development_environment_with_microservices/)
 - [Magnetic Drawing Board – beauty in simplicity](https://www.reddit.com/r/Python/comments/13zfzid/magnetic_drawing_board_beauty_in_simplicity/)
-- [Unlocking the Power of Voice: Enhance Your Applications with Azure Speech Services](https://www.reddit.com/r/Python/comments/13zehk3/unlocking_the_power_of_voice_enhance_your/)
-- [Cursor Error](https://www.reddit.com/r/Python/comments/13zdgkw/cursor_error/)
-- [Why and how to hide the Python stack trace](https://www.reddit.com/r/Python/comments/13zcbk1/why_and_how_to_hide_the_python_stack_trace/)
 <!-- BLOG-POST-LIST:END -->
