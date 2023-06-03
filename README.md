@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a library for making user terminal input really really pretty!](https://www.reddit.com/r/Python/comments/13z53lo/i_made_a_library_for_making_user_terminal_input/)
 - [How to create an RDS postgres instance on AWS](https://www.reddit.com/r/Python/comments/13z3r7n/how_to_create_an_rds_postgres_instance_on_aws/)
 - [Learn Python with ChatGPT](https://www.reddit.com/r/Python/comments/13z37te/learn_python_with_chatgpt/)
 - [CMDBaker](https://www.reddit.com/r/Python/comments/13z1jsq/cmdbaker/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/13yu664/saturday_daily_thread_resource_request_and/)
-- [Python for Finance: Pandas Resample, Groupby, and Rolling](https://www.reddit.com/r/Python/comments/13yrcl9/python_for_finance_pandas_resample_groupby_and/)
 <!-- BLOG-POST-LIST:END -->
