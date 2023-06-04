@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Example of OOP and database](https://www.reddit.com/r/Python/comments/140ra8w/example_of_oop_and_database/)
 - [Example app using FastAPI, SQLModel, Celery, Alembic and Supertokens](https://www.reddit.com/r/Python/comments/140myvu/example_app_using_fastapi_sqlmodel_celery_alembic/)
 - [Running python script from excel](https://www.reddit.com/r/Python/comments/140mcci/running_python_script_from_excel/)
 - [Extracting keypoints from multiple videos with openpose](https://www.reddit.com/r/Python/comments/140l35m/extracting_keypoints_from_multiple_videos_with/)
 - [Python nightmare - circular error loop](https://www.reddit.com/r/Python/comments/140jdv9/python_nightmare_circular_error_loop/)
-- [2,000 free sign ups available for the &quot;Automate the Boring Stuff with Python&quot; online course. &lpar;June 2023&rpar;](https://www.reddit.com/r/Python/comments/140iopx/2000_free_sign_ups_available_for_the_automate_the/)
 <!-- BLOG-POST-LIST:END -->
