@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does Python cache package imports?](https://www.reddit.com/r/Python/comments/140c9z9/does_python_cache_package_imports/)
 - [Best Free Resources to Learn Python Programming](https://www.reddit.com/r/Python/comments/140a9j1/best_free_resources_to_learn_python_programming/)
 - [Share up-to-date scripts with libraries and components to connect a Python app with non-SQL MongoDB](https://www.reddit.com/r/Python/comments/1409pz5/share_uptodate_scripts_with_libraries_and/)
 - [chuck norris witze generator](https://www.reddit.com/r/Python/comments/1406fq4/chuck_norris_witze_generator/)
 - [I am new](https://www.reddit.com/r/Python/comments/1403ivl/i_am_new/)
-- [Fun and quirky Python resources?](https://www.reddit.com/r/Python/comments/1402b7a/fun_and_quirky_python_resources/)
 <!-- BLOG-POST-LIST:END -->
