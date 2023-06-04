@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Built a very simple Flask application that allows you monitor your server](https://www.reddit.com/r/Python/comments/1402tm4/built_a_very_simple_flask_application_that_allows/)
+- [I am new](https://www.reddit.com/r/Python/comments/1403ivl/i_am_new/)
 - [Fun and quirky Python resources?](https://www.reddit.com/r/Python/comments/1402b7a/fun_and_quirky_python_resources/)
 - [Linear Regression in Machine Learning: A Comprehensive Guide](https://www.reddit.com/r/Python/comments/1400imz/linear_regression_in_machine_learning_a/)
 - [su &lpar;Super User&rpar; tools: Lightweight CLI, Logging, and Benchmarking Utilities](https://www.reddit.com/r/Python/comments/13zwzqu/su_super_user_tools_lightweight_cli_logging_and/)
