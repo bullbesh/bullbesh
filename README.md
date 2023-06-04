@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linear Regression in Machine Learning: A Comprehensive Guide](https://www.reddit.com/r/Python/comments/1400imz/linear_regression_in_machine_learning_a/)
 - [su &lpar;Super User&rpar; tools: Lightweight CLI, Logging, and Benchmarking Utilities](https://www.reddit.com/r/Python/comments/13zwzqu/su_super_user_tools_lightweight_cli_logging_and/)
 - [How to interop between C and python](https://www.reddit.com/r/Python/comments/13zw527/how_to_interop_between_c_and_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/13zuduh/sunday_daily_thread_whats_everyone_working_on/)
 - [Robyn introduces SubRouters in v0.32.0](https://www.reddit.com/r/Python/comments/13ztwzd/robyn_introduces_subrouters_in_v0320/)
-- [Hello I am new here. I&#39;m learning python fully.](https://www.reddit.com/r/Python/comments/13zszip/hello_i_am_new_here_im_learning_python_fully/)
 <!-- BLOG-POST-LIST:END -->
