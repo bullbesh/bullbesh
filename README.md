@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Share up-to-date scripts with libraries and components to connect a Python app with non-SQL MongoDB](https://www.reddit.com/r/Python/comments/1409pz5/share_uptodate_scripts_with_libraries_and/)
 - [chuck norris witze generator](https://www.reddit.com/r/Python/comments/1406fq4/chuck_norris_witze_generator/)
 - [I am new](https://www.reddit.com/r/Python/comments/1403ivl/i_am_new/)
 - [Fun and quirky Python resources?](https://www.reddit.com/r/Python/comments/1402b7a/fun_and_quirky_python_resources/)
 - [Linear Regression in Machine Learning: A Comprehensive Guide](https://www.reddit.com/r/Python/comments/1400imz/linear_regression_in_machine_learning_a/)
-- [su &lpar;Super User&rpar; tools: Lightweight CLI, Logging, and Benchmarking Utilities](https://www.reddit.com/r/Python/comments/13zwzqu/su_super_user_tools_lightweight_cli_logging_and/)
 <!-- BLOG-POST-LIST:END -->
