@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can&#39;t find Elements using mechanize](https://www.reddit.com/r/Python/comments/140hlpw/cant_find_elements_using_mechanize/)
+- [Hello](https://www.reddit.com/r/Python/comments/140gz0j/hello/)
 - [Server Monitoring using Flask](https://www.reddit.com/r/Python/comments/140fony/server_monitoring_using_flask/)
-- [How to run functions from another language in Python](https://www.reddit.com/r/Python/comments/140f36o/how_to_run_functions_from_another_language_in/)
 - [Asynx api wrapper for swapi](https://www.reddit.com/r/Python/comments/140ewmu/asynx_api_wrapper_for_swapi/)
 - [My new tutorial about ASCII HEALTH BARS, for beginners!](https://www.reddit.com/r/Python/comments/140emza/my_new_tutorial_about_ascii_health_bars_for/)
-- [Does Python cache package imports?](https://www.reddit.com/r/Python/comments/140c9z9/does_python_cache_package_imports/)
 <!-- BLOG-POST-LIST:END -->
