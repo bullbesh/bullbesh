@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python nightmare - circular error loop](https://www.reddit.com/r/Python/comments/140jdv9/python_nightmare_circular_error_loop/)
+- [2,000 free sign ups available for the &quot;Automate the Boring Stuff with Python&quot; online course. &lpar;June 2023&rpar;](https://www.reddit.com/r/Python/comments/140iopx/2000_free_sign_ups_available_for_the_automate_the/)
+- [Developing a Common Chemical Name Large Language Model With Python](https://www.reddit.com/r/Python/comments/140i5e9/developing_a_common_chemical_name_large_language/)
 - [Can&#39;t find Elements using mechanize](https://www.reddit.com/r/Python/comments/140hlpw/cant_find_elements_using_mechanize/)
-- [Hello](https://www.reddit.com/r/Python/comments/140gz0j/hello/)
 - [Server Monitoring using Flask](https://www.reddit.com/r/Python/comments/140fony/server_monitoring_using_flask/)
-- [Asynx api wrapper for swapi](https://www.reddit.com/r/Python/comments/140ewmu/asynx_api_wrapper_for_swapi/)
-- [My new tutorial about ASCII HEALTH BARS, for beginners!](https://www.reddit.com/r/Python/comments/140emza/my_new_tutorial_about_ascii_health_bars_for/)
 <!-- BLOG-POST-LIST:END -->
