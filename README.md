@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built a very simple Flask application that allows you monitor your server](https://www.reddit.com/r/Python/comments/1402tm4/built_a_very_simple_flask_application_that_allows/)
+- [Fun and quirky Python resources?](https://www.reddit.com/r/Python/comments/1402b7a/fun_and_quirky_python_resources/)
 - [Linear Regression in Machine Learning: A Comprehensive Guide](https://www.reddit.com/r/Python/comments/1400imz/linear_regression_in_machine_learning_a/)
 - [su &lpar;Super User&rpar; tools: Lightweight CLI, Logging, and Benchmarking Utilities](https://www.reddit.com/r/Python/comments/13zwzqu/su_super_user_tools_lightweight_cli_logging_and/)
 - [How to interop between C and python](https://www.reddit.com/r/Python/comments/13zw527/how_to_interop_between_c_and_python/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/13zuduh/sunday_daily_thread_whats_everyone_working_on/)
-- [Robyn introduces SubRouters in v0.32.0](https://www.reddit.com/r/Python/comments/13ztwzd/robyn_introduces_subrouters_in_v0320/)
 <!-- BLOG-POST-LIST:END -->
