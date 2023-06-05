@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Proposal for game hackathon &lpar;Panda 3D&rpar;](https://www.reddit.com/r/Python/comments/141g2g6/proposal_for_game_hackathon_panda_3d/)
-- [Learn Python from Zero to Hero — Learn Python in 10 Hours](https://www.reddit.com/r/Python/comments/141fqy6/learn_python_from_zero_to_hero_learn_python_in_10/)
-- [Rendering matplotlib in PyQt 6](https://www.reddit.com/r/Python/comments/141f88f/rendering_matplotlib_in_pyqt_6/)
-- [How to retry an API request to the external system](https://www.reddit.com/r/Python/comments/141dpa2/how_to_retry_an_api_request_to_the_external_system/)
-- [Why Static Typing Came Back](https://www.reddit.com/r/Python/comments/141cv2q/why_static_typing_came_back/)
+- [The Right Way to Run Shell Commands From Python](https://www.reddit.com/r/Python/comments/141jlzb/the_right_way_to_run_shell_commands_from_python/)
+- [Now, NiceGUI has a build-in persistent user/session based storage.](https://www.reddit.com/r/Python/comments/141jly8/now_nicegui_has_a_buildin_persistent_usersession/)
+- [Video links/tutorials](https://www.reddit.com/r/Python/comments/141jlbw/video_linkstutorials/)
+- [different types of data analytics](https://www.reddit.com/r/Python/comments/141izog/different_types_of_data_analytics/)
+- [Understanding the Different Uses of the Asterisk&lpar;*&rpar; in Python](https://www.reddit.com/r/Python/comments/141iw27/understanding_the_different_uses_of_the_asterisk/)
 <!-- BLOG-POST-LIST:END -->
