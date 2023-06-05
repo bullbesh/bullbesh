@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Python genuinely easy?](https://www.reddit.com/r/Python/comments/1415hlx/is_python_genuinely_easy/)
+- [Brett Cannon: proposing a struct syntax for Python](https://www.reddit.com/r/Python/comments/1415e4e/brett_cannon_proposing_a_struct_syntax_for_python/)
+- [paddleocr](https://www.reddit.com/r/Python/comments/1414o2q/paddleocr/)
 - [Why do people choose Python over Lua?](https://www.reddit.com/r/Python/comments/1413op8/why_do_people_choose_python_over_lua/)
 - [Pynecone refreshing the components when value changes](https://www.reddit.com/r/Python/comments/1413mp0/pynecone_refreshing_the_components_when_value/)
-- [How to upgrade your Flask application using async](https://www.reddit.com/r/Python/comments/1410vib/how_to_upgrade_your_flask_application_using_async/)
-- [Full SQL manual on GitHub](https://www.reddit.com/r/Python/comments/1410b6s/full_sql_manual_on_github/)
-- [Plan to Have a Python Bindings for My App Written in Go](https://www.reddit.com/r/Python/comments/140zsmk/plan_to_have_a_python_bindings_for_my_app_written/)
 <!-- BLOG-POST-LIST:END -->
