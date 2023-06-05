@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Static Typing Came Back](https://www.reddit.com/r/Python/comments/141cv2q/why_static_typing_came_back/)
+- [Does it makes sense to use OOP in Python in sport programming?](https://www.reddit.com/r/Python/comments/141cqps/does_it_makes_sense_to_use_oop_in_python_in_sport/)
+- [this gives me this eror &quot; &#39;float&#39; object is not callable &quot; on line 26 can sb help plz](https://www.reddit.com/r/Python/comments/141c1a4/this_gives_me_this_eror_float_object_is_not/)
 - [New way of logging - is this a good idea?](https://www.reddit.com/r/Python/comments/141an0s/new_way_of_logging_is_this_a_good_idea/)
-- [Creating a Table usng SQL or Python](https://www.reddit.com/r/Python/comments/141adtg/creating_a_table_usng_sql_or_python/)
 - [New to coding, how can I learn full stack with some hands on experience?](https://www.reddit.com/r/Python/comments/1419mal/new_to_coding_how_can_i_learn_full_stack_with/)
-- [German Python student searching for online friendship with english native speaker &lpar;preferable from the states&rpar;](https://www.reddit.com/r/Python/comments/14195rl/german_python_student_searching_for_online/)
-- [Aprenda FastAPI e crie APIs em minutos!](https://www.reddit.com/r/Python/comments/1417oq0/aprenda_fastapi_e_crie_apis_em_minutos/)
 <!-- BLOG-POST-LIST:END -->
