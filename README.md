@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Right Way to Run Shell Commands From Python](https://www.reddit.com/r/Python/comments/141jlzb/the_right_way_to_run_shell_commands_from_python/)
-- [Now, NiceGUI has a build-in persistent user/session based storage.](https://www.reddit.com/r/Python/comments/141jly8/now_nicegui_has_a_buildin_persistent_usersession/)
-- [Video links/tutorials](https://www.reddit.com/r/Python/comments/141jlbw/video_linkstutorials/)
-- [different types of data analytics](https://www.reddit.com/r/Python/comments/141izog/different_types_of_data_analytics/)
-- [Understanding the Different Uses of the Asterisk&lpar;*&rpar; in Python](https://www.reddit.com/r/Python/comments/141iw27/understanding_the_different_uses_of_the_asterisk/)
+- [Scrape Google Search Results Using Python&lpar;2023 Guide&rpar;](https://www.reddit.com/r/Python/comments/141n9j1/scrape_google_search_results_using_python2023/)
+- [I made this tool to help my kids learn Chinese](https://www.reddit.com/r/Python/comments/141n1zv/i_made_this_tool_to_help_my_kids_learn_chinese/)
+- [What ORM/ODM do you use for mongo? or which one do you suggest for a large scale application](https://www.reddit.com/r/Python/comments/141mn2g/what_ormodm_do_you_use_for_mongo_or_which_one_do/)
+- [Job Market Situation](https://www.reddit.com/r/Python/comments/141ldyj/job_market_situation/)
+- [Need an Extension for Code Analysis](https://www.reddit.com/r/Python/comments/141kodm/need_an_extension_for_code_analysis/)
 <!-- BLOG-POST-LIST:END -->
