@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to upgrade your Flask application using async](https://www.reddit.com/r/Python/comments/1410vib/how_to_upgrade_your_flask_application_using_async/)
 - [Full SQL manual on GitHub](https://www.reddit.com/r/Python/comments/1410b6s/full_sql_manual_on_github/)
 - [Plan to Have a Python Bindings for My App Written in Go](https://www.reddit.com/r/Python/comments/140zsmk/plan_to_have_a_python_bindings_for_my_app_written/)
 - [MangaDex Downloader to PDF &lpar;with scuffed source code&rpar;](https://www.reddit.com/r/Python/comments/140yf5e/mangadex_downloader_to_pdf_with_scuffed_source/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/140vclq/monday_daily_thread_project_ideas/)
-- [Example of OOP and database](https://www.reddit.com/r/Python/comments/140ra8w/example_of_oop_and_database/)
 <!-- BLOG-POST-LIST:END -->
