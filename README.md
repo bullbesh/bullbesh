@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New way of logging - is this a good idea?](https://www.reddit.com/r/Python/comments/141an0s/new_way_of_logging_is_this_a_good_idea/)
+- [Creating a Table usng SQL or Python](https://www.reddit.com/r/Python/comments/141adtg/creating_a_table_usng_sql_or_python/)
 - [New to coding, how can I learn full stack with some hands on experience?](https://www.reddit.com/r/Python/comments/1419mal/new_to_coding_how_can_i_learn_full_stack_with/)
 - [German Python student searching for online friendship with english native speaker &lpar;preferable from the states&rpar;](https://www.reddit.com/r/Python/comments/14195rl/german_python_student_searching_for_online/)
 - [Aprenda FastAPI e crie APIs em minutos!](https://www.reddit.com/r/Python/comments/1417oq0/aprenda_fastapi_e_crie_apis_em_minutos/)
-- [Doctest is not working](https://www.reddit.com/r/Python/comments/1417fvk/doctest_is_not_working/)
-- [https://www.youtube.com/watch?v=spzxu_JGRO0](https://www.reddit.com/r/Python/comments/14173f2/httpswwwyoutubecomwatchvspzxu_jgro0/)
 <!-- BLOG-POST-LIST:END -->
