@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Aprenda FastAPI e crie APIs em minutos!](https://www.reddit.com/r/Python/comments/1417oq0/aprenda_fastapi_e_crie_apis_em_minutos/)
+- [Doctest is not working](https://www.reddit.com/r/Python/comments/1417fvk/doctest_is_not_working/)
 - [https://www.youtube.com/watch?v=spzxu_JGRO0](https://www.reddit.com/r/Python/comments/14173f2/httpswwwyoutubecomwatchvspzxu_jgro0/)
 - [https://www.youtube.com/watch?v=O2ZRdff_9kw](https://www.reddit.com/r/Python/comments/14166qs/httpswwwyoutubecomwatchvo2zrdff_9kw/)
 - [Is Python genuinely easy?](https://www.reddit.com/r/Python/comments/1415hlx/is_python_genuinely_easy/)
-- [Brett Cannon: proposing a struct syntax for Python](https://www.reddit.com/r/Python/comments/1415e4e/brett_cannon_proposing_a_struct_syntax_for_python/)
-- [paddleocr](https://www.reddit.com/r/Python/comments/1414o2q/paddleocr/)
 <!-- BLOG-POST-LIST:END -->
