@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [11 New Park Systems Added to my Campsite Finder with an AbstractBaseClass!](https://www.reddit.com/r/Python/comments/1423zne/11_new_park_systems_added_to_my_campsite_finder/)
 - [Unraveling the &#39;IndexError: Invalid Index to Scalar Variable&#39; Error in Python](https://www.reddit.com/r/Python/comments/1421eth/unraveling_the_indexerror_invalid_index_to_scalar/)
 - [Learn Python by Building Real-World Projects](https://www.reddit.com/r/Python/comments/14212rs/learn_python_by_building_realworld_projects/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/141wtq5/tuesday_daily_thread_advanced_questions/)
 - [How to create a custom model field in Django.&lpar;feedback appreciated&rpar;](https://www.reddit.com/r/Python/comments/141wt7j/how_to_create_a_custom_model_field_in/)
-- [How to build a standalone python apps &lpar;CLI and GUI&rpar; with googles build tool &lpar;Bazel build&rpar;](https://www.reddit.com/r/Python/comments/141tj78/how_to_build_a_standalone_python_apps_cli_and_gui/)
 <!-- BLOG-POST-LIST:END -->
