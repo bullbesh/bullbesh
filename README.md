@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Analyze graphs with advanced analytical methods](https://www.reddit.com/r/Python/comments/1428k88/analyze_graphs_with_advanced_analytical_methods/)
+- [Need Help Extracting Data from a Website](https://www.reddit.com/r/Python/comments/1427dk8/need_help_extracting_data_from_a_website/)
 - [Utilise PyArrow in pandas and Dask](https://www.reddit.com/r/Python/comments/14260an/utilise_pyarrow_in_pandas_and_dask/)
 - [Going dark on 12th June](https://www.reddit.com/r/Python/comments/1424s7m/going_dark_on_12th_june/)
 - [11 New Park Systems Added to my Campsite Finder with an AbstractBaseClass!](https://www.reddit.com/r/Python/comments/1423zne/11_new_park_systems_added_to_my_campsite_finder/)
-- [Unraveling the &#39;IndexError: Invalid Index to Scalar Variable&#39; Error in Python](https://www.reddit.com/r/Python/comments/1421eth/unraveling_the_indexerror_invalid_index_to_scalar/)
-- [Learn Python by Building Real-World Projects](https://www.reddit.com/r/Python/comments/14212rs/learn_python_by_building_realworld_projects/)
 <!-- BLOG-POST-LIST:END -->
