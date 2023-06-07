@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Cosine Similarity in Python with Scikit-Learn](https://www.reddit.com/r/Python/comments/143fpmc/understanding_cosine_similarity_in_python_with/)
+- [[style] If a conditional will return should a following condition use if or elif?](https://www.reddit.com/r/Python/comments/143fjsr/style_if_a_conditional_will_return_should_a/)
+- [How did I do?](https://www.reddit.com/r/Python/comments/143fc0h/how_did_i_do/)
+- [Bokeh Python Library for Interactive Visualizations](https://www.reddit.com/r/Python/comments/143fbys/bokeh_python_library_for_interactive/)
 - [Data Profiler 0.9.0 -- offering a massive improvement to memory usage during profiling of large datasets](https://www.reddit.com/r/Python/comments/143dr2m/data_profiler_090_offering_a_massive_improvement/)
-- [Pip install only works from cmd?](https://www.reddit.com/r/Python/comments/143di3i/pip_install_only_works_from_cmd/)
-- [Jeroen Janssens Is Writing Python Polars: The Definitive Guide](https://www.reddit.com/r/Python/comments/143cx0i/jeroen_janssens_is_writing_python_polars_the/)
-- [How to add Natural Language Input to an existing Python application with LangChain and Pydantic](https://www.reddit.com/r/Python/comments/143c417/how_to_add_natural_language_input_to_an_existing/)
-- [I am interested in Python but i hate snakes](https://www.reddit.com/r/Python/comments/1439swa/i_am_interested_in_python_but_i_hate_snakes/)
 <!-- BLOG-POST-LIST:END -->
