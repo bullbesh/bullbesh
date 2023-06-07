@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [DuckDB 0.8 and Polars 0.18.0](https://www.reddit.com/r/Python/comments/143axvs/duckdb_08_and_polars_0180/)
 - [I am interested in Python but i hate snakes](https://www.reddit.com/r/Python/comments/1439swa/i_am_interested_in_python_but_i_hate_snakes/)
 - [In what order should one read the following recommended books?](https://www.reddit.com/r/Python/comments/1439s7f/in_what_order_should_one_read_the_following/)
 - [An improved perfect number algorithm with Python](https://www.reddit.com/r/Python/comments/1439nz1/an_improved_perfect_number_algorithm_with_python/)
 - [Automatically Generate YouTube shorts with Python](https://www.reddit.com/r/Python/comments/1438sff/automatically_generate_youtube_shorts_with_python/)
-- [R vs Python](https://www.reddit.com/r/Python/comments/1437v53/r_vs_python/)
 <!-- BLOG-POST-LIST:END -->
