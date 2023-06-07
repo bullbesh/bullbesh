@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any recommendations for a fun, interactive Python game/course/website?](https://www.reddit.com/r/Python/comments/143mwhn/any_recommendations_for_a_fun_interactive_python/)
+- [What was your first creation?](https://www.reddit.com/r/Python/comments/143mcjy/what_was_your_first_creation/)
 - [Manga downloader using mangadex api &lpar;Raw images, PDF or cbz&rpar;](https://www.reddit.com/r/Python/comments/143jxn2/manga_downloader_using_mangadex_api_raw_images/)
 - [The emulator rite of passage, my crack at a Chip8 Emulator &lpar;Feedback Appreciated&rpar;](https://www.reddit.com/r/Python/comments/143jvma/the_emulator_rite_of_passage_my_crack_at_a_chip8/)
 - [Take Harvard&#39;s CS50 Introduction to Artificial Intelligence with Python For Free](https://www.reddit.com/r/Python/comments/143jqa4/take_harvards_cs50_introduction_to_artificial/)
-- [I made a printer driver downloader because printers suck](https://www.reddit.com/r/Python/comments/143hc6z/i_made_a_printer_driver_downloader_because/)
-- [Understanding Cosine Similarity in Python with Scikit-Learn](https://www.reddit.com/r/Python/comments/143fpmc/understanding_cosine_similarity_in_python_with/)
 <!-- BLOG-POST-LIST:END -->
