@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am interested in Python but i hate snakes](https://www.reddit.com/r/Python/comments/1439swa/i_am_interested_in_python_but_i_hate_snakes/)
+- [In what order should one read the following recommended books?](https://www.reddit.com/r/Python/comments/1439s7f/in_what_order_should_one_read_the_following/)
+- [An improved perfect number algorithm with Python](https://www.reddit.com/r/Python/comments/1439nz1/an_improved_perfect_number_algorithm_with_python/)
 - [Automatically Generate YouTube shorts with Python](https://www.reddit.com/r/Python/comments/1438sff/automatically_generate_youtube_shorts_with_python/)
 - [R vs Python](https://www.reddit.com/r/Python/comments/1437v53/r_vs_python/)
-- [The weather is good](https://www.reddit.com/r/Python/comments/1436hr3/the_weather_is_good/)
-- [Python library for open source LLM experimentation and fine tuning](https://www.reddit.com/r/Python/comments/1435q7c/python_library_for_open_source_llm/)
-- [Title: Seeking Feedback and Insights on AI-driven Idea - Join the Discussion!](https://www.reddit.com/r/Python/comments/14357yp/title_seeking_feedback_and_insights_on_aidriven/)
 <!-- BLOG-POST-LIST:END -->
