@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Manga downloader using mangadex api &lpar;Raw images, PDF or cbz&rpar;](https://www.reddit.com/r/Python/comments/143jxn2/manga_downloader_using_mangadex_api_raw_images/)
+- [The emulator rite of passage, my crack at a Chip8 Emulator &lpar;Feedback Appreciated&rpar;](https://www.reddit.com/r/Python/comments/143jvma/the_emulator_rite_of_passage_my_crack_at_a_chip8/)
+- [Take Harvard&#39;s CS50 Introduction to Artificial Intelligence with Python For Free](https://www.reddit.com/r/Python/comments/143jqa4/take_harvards_cs50_introduction_to_artificial/)
 - [I made a printer driver downloader because printers suck](https://www.reddit.com/r/Python/comments/143hc6z/i_made_a_printer_driver_downloader_because/)
 - [Understanding Cosine Similarity in Python with Scikit-Learn](https://www.reddit.com/r/Python/comments/143fpmc/understanding_cosine_similarity_in_python_with/)
-- [[style] If a conditional will return should a following condition use if or elif?](https://www.reddit.com/r/Python/comments/143fjsr/style_if_a_conditional_will_return_should_a/)
-- [How did I do?](https://www.reddit.com/r/Python/comments/143fc0h/how_did_i_do/)
-- [Bokeh Python Library for Interactive Visualizations](https://www.reddit.com/r/Python/comments/143fbys/bokeh_python_library_for_interactive/)
 <!-- BLOG-POST-LIST:END -->
