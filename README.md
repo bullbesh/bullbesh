@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Title: Seeking Feedback and Insights on AI-driven Idea - Join the Discussion!](https://www.reddit.com/r/Python/comments/14357yp/title_seeking_feedback_and_insights_on_aidriven/)
+- [Should r/Python participate in the June 12th Blackout protesting the API changes](https://www.reddit.com/r/Python/comments/1434dxo/should_rpython_participate_in_the_june_12th/)
+- [How to use Python for data analysis and visualization ?](https://www.reddit.com/r/Python/comments/14348gt/how_to_use_python_for_data_analysis_and/)
 - [What is your opinion on Pandas multi indices and how do you use them?](https://www.reddit.com/r/Python/comments/1432n2v/what_is_your_opinion_on_pandas_multi_indices_and/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/142xkjf/wednesday_daily_thread_beginner_questions/)
-- [I made a boilerplate 🧪 Python/Flask + GCP Cloud Run + Docker + Gitlab](https://www.reddit.com/r/Python/comments/142pzcz/i_made_a_boilerplate_pythonflask_gcp_cloud_run/)
-- [Tutorial: How to extract NDVI time-series from Sentinel-2 using Python and STAC](https://www.reddit.com/r/Python/comments/142ppxc/tutorial_how_to_extract_ndvi_timeseries_from/)
-- [Python for data analytics: How to use Python for data analysis and visualization](https://www.reddit.com/r/Python/comments/142msf2/python_for_data_analytics_how_to_use_python_for/)
 <!-- BLOG-POST-LIST:END -->
