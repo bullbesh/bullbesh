@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automatically Generate YouTube shorts with Python](https://www.reddit.com/r/Python/comments/1438sff/automatically_generate_youtube_shorts_with_python/)
 - [R vs Python](https://www.reddit.com/r/Python/comments/1437v53/r_vs_python/)
 - [The weather is good](https://www.reddit.com/r/Python/comments/1436hr3/the_weather_is_good/)
 - [Python library for open source LLM experimentation and fine tuning](https://www.reddit.com/r/Python/comments/1435q7c/python_library_for_open_source_llm/)
 - [Title: Seeking Feedback and Insights on AI-driven Idea - Join the Discussion!](https://www.reddit.com/r/Python/comments/14357yp/title_seeking_feedback_and_insights_on_aidriven/)
-- [Should r/Python participate in the June 12th Blackout protesting the API changes](https://www.reddit.com/r/Python/comments/1434dxo/should_rpython_participate_in_the_june_12th/)
 <!-- BLOG-POST-LIST:END -->
