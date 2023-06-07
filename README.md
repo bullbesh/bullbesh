@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Most Used Python IDEs and Code Editors](https://www.reddit.com/r/Python/comments/143pi84/most_used_python_ides_and_code_editors/)
 - [Microsoft cancels plans for Python packages on GitHub](https://www.reddit.com/r/Python/comments/143p39s/microsoft_cancels_plans_for_python_packages_on/)
 - [Unveiling pm-td-ameritrade-api: A Comprehensive TD Ameritrade API Wrapper with Pydantic Models and More](https://www.reddit.com/r/Python/comments/143oajl/unveiling_pmtdameritradeapi_a_comprehensive_td/)
 - [Any recommendations for a fun, interactive Python game/course/website?](https://www.reddit.com/r/Python/comments/143mwhn/any_recommendations_for_a_fun_interactive_python/)
 - [What was your first creation?](https://www.reddit.com/r/Python/comments/143mcjy/what_was_your_first_creation/)
-- [Manga downloader using mangadex api &lpar;Raw images, PDF or cbz&rpar;](https://www.reddit.com/r/Python/comments/143jxn2/manga_downloader_using_mangadex_api_raw_images/)
 <!-- BLOG-POST-LIST:END -->
