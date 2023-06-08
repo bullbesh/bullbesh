@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Podcasts](https://www.reddit.com/r/Python/comments/144eynl/podcasts/)
 - [Practical dependency tracking for Python function calls](https://www.reddit.com/r/Python/comments/144ddp1/practical_dependency_tracking_for_python_function/)
 - [Understanding CPUs can help speed up Numba and NumPy code](https://www.reddit.com/r/Python/comments/144d5hm/understanding_cpus_can_help_speed_up_numba_and/)
 - [Template for Cython + Poetry + PoetryDynamicVersioning + GithubActions + CIBuildWheel](https://www.reddit.com/r/Python/comments/144c0zy/template_for_cython_poetry/)
 - [how to get all running processes using python](https://www.reddit.com/r/Python/comments/144bp5g/how_to_get_all_running_processes_using_python/)
-- [DingDong Sonos for Productivity in your Office ⏰](https://www.reddit.com/r/Python/comments/144aw81/dingdong_sonos_for_productivity_in_your_office/)
 <!-- BLOG-POST-LIST:END -->
