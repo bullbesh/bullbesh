@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Podcasts](https://www.reddit.com/r/Python/comments/144eynl/podcasts/)
-- [Practical dependency tracking for Python function calls](https://www.reddit.com/r/Python/comments/144ddp1/practical_dependency_tracking_for_python_function/)
-- [Understanding CPUs can help speed up Numba and NumPy code](https://www.reddit.com/r/Python/comments/144d5hm/understanding_cpus_can_help_speed_up_numba_and/)
-- [Template for Cython + Poetry + PoetryDynamicVersioning + GithubActions + CIBuildWheel](https://www.reddit.com/r/Python/comments/144c0zy/template_for_cython_poetry/)
-- [how to get all running processes using python](https://www.reddit.com/r/Python/comments/144bp5g/how_to_get_all_running_processes_using_python/)
+- [Seeking 18-year-olds Python enthusiasts for a study group in Data Science and AI/ML](https://www.reddit.com/r/Python/comments/144gk5c/seeking_18yearolds_python_enthusiasts_for_a_study/)
+- [Little help in a small website &lpar;flask&rpar;](https://www.reddit.com/r/Python/comments/144fwfl/little_help_in_a_small_website_flask/)
+- [Best usage of dictConfig for logging](https://www.reddit.com/r/Python/comments/144fnkj/best_usage_of_dictconfig_for_logging/)
+- [Elden Ring Bot](https://www.reddit.com/r/Python/comments/144fkzq/elden_ring_bot/)
+- [Top 5 Things to Know When Using the Snowflake Module in Python](https://www.reddit.com/r/Python/comments/144faq7/top_5_things_to_know_when_using_the_snowflake/)
 <!-- BLOG-POST-LIST:END -->
