@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Loved this python project!](https://www.reddit.com/r/Python/comments/1445aqt/loved_this_python_project/)
+- [automaticly create an nginx file and SSL certificate](https://www.reddit.com/r/Python/comments/14458pv/automaticly_create_an_nginx_file_and_ssl/)
 - [anyone has done an API endpoints scanner?](https://www.reddit.com/r/Python/comments/1443i76/anyone_has_done_an_api_endpoints_scanner/)
 - [Multimodal Vector Search with Personalization](https://www.reddit.com/r/Python/comments/1443gq9/multimodal_vector_search_with_personalization/)
 - [Seeking Advice on Transitioning from Learning to Coding to Real Work](https://www.reddit.com/r/Python/comments/1440xac/seeking_advice_on_transitioning_from_learning_to/)
-- [How many python developers here have idea of what is pickling and unpickling in Python?](https://www.reddit.com/r/Python/comments/1440fyj/how_many_python_developers_here_have_idea_of_what/)
-- [A Python Joke!!](https://www.reddit.com/r/Python/comments/143yu62/a_python_joke/)
 <!-- BLOG-POST-LIST:END -->
