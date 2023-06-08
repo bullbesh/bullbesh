@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical dependency tracking for Python function calls](https://www.reddit.com/r/Python/comments/144ddp1/practical_dependency_tracking_for_python_function/)
+- [Understanding CPUs can help speed up Numba and NumPy code](https://www.reddit.com/r/Python/comments/144d5hm/understanding_cpus_can_help_speed_up_numba_and/)
+- [Template for Cython + Poetry + PoetryDynamicVersioning + GithubActions + CIBuildWheel](https://www.reddit.com/r/Python/comments/144c0zy/template_for_cython_poetry/)
 - [how to get all running processes using python](https://www.reddit.com/r/Python/comments/144bp5g/how_to_get_all_running_processes_using_python/)
 - [DingDong Sonos for Productivity in your Office ⏰](https://www.reddit.com/r/Python/comments/144aw81/dingdong_sonos_for_productivity_in_your_office/)
-- [How to Pickle and Unpickle Objects in Python: A Complete Guide](https://www.reddit.com/r/Python/comments/144ajpj/how_to_pickle_and_unpickle_objects_in_python_a/)
-- [Trying to consolidate some basic Python scripts using LangChain and OpenAI Chat model &lpar;GPT3.5&rpar;. Using the framework saves some time, although it still has limitation like token spent tracking except OpenAI. Please feel free to explore if you are interested in developing apps using LangChain.](https://www.reddit.com/r/Python/comments/14487ak/trying_to_consolidate_some_basic_python_scripts/)
-- [How to Pickle and Unpickle Objects in Python: A Complete Guide](https://www.reddit.com/r/Python/comments/1447n01/how_to_pickle_and_unpickle_objects_in_python_a/)
 <!-- BLOG-POST-LIST:END -->
