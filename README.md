@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trying to consolidate some basic Python scripts using LangChain and OpenAI Chat model &lpar;GPT3.5&rpar;. Using the framework saves some time, although it still has limitation like token spent tracking except OpenAI. Please feel free to explore if you are interested in developing apps using LangChain.](https://www.reddit.com/r/Python/comments/14487ak/trying_to_consolidate_some_basic_python_scripts/)
 - [How to Pickle and Unpickle Objects in Python: A Complete Guide](https://www.reddit.com/r/Python/comments/1447n01/how_to_pickle_and_unpickle_objects_in_python_a/)
 - [Socket Programming in Python - Client and Server](https://www.reddit.com/r/Python/comments/1446yec/socket_programming_in_python_client_and_server/)
 - [Help Needed: I need help scraping the PDF documents in the attached format.](https://www.reddit.com/r/Python/comments/1446lbn/help_needed_i_need_help_scraping_the_pdf/)
 - [Loved this python project!](https://www.reddit.com/r/Python/comments/1445aqt/loved_this_python_project/)
-- [automaticly create an nginx file and SSL certificate](https://www.reddit.com/r/Python/comments/14458pv/automaticly_create_an_nginx_file_and_ssl/)
 <!-- BLOG-POST-LIST:END -->
