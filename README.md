@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [anyone has done an API endpoints scanner?](https://www.reddit.com/r/Python/comments/1443i76/anyone_has_done_an_api_endpoints_scanner/)
+- [Multimodal Vector Search with Personalization](https://www.reddit.com/r/Python/comments/1443gq9/multimodal_vector_search_with_personalization/)
 - [Seeking Advice on Transitioning from Learning to Coding to Real Work](https://www.reddit.com/r/Python/comments/1440xac/seeking_advice_on_transitioning_from_learning_to/)
 - [How many python developers here have idea of what is pickling and unpickling in Python?](https://www.reddit.com/r/Python/comments/1440fyj/how_many_python_developers_here_have_idea_of_what/)
 - [A Python Joke!!](https://www.reddit.com/r/Python/comments/143yu62/a_python_joke/)
-- [Update from nogil python - PEP 703](https://www.reddit.com/r/Python/comments/143v676/update_from_nogil_python_pep_703/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/143td9n/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
