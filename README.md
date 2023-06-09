@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [If you&#39;ve ever gotten hit with a large API Bill, I want to help &lpar;for free&rpar; !](https://www.reddit.com/r/Python/comments/144subv/if_youve_ever_gotten_hit_with_a_large_api_bill_i/)
 - [Combinator birds](https://www.reddit.com/r/Python/comments/144qezr/combinator_birds/)
 - [Looking for beautiful JupyterNotebook alternative.](https://www.reddit.com/r/Python/comments/144ow31/looking_for_beautiful_jupyternotebook_alternative/)
 - [Template repository for Python projects](https://www.reddit.com/r/Python/comments/144np60/template_repository_for_python_projects/)
 - [YouTube content creation assistant](https://www.reddit.com/r/Python/comments/144jud9/youtube_content_creation_assistant/)
-- [RadioTTS lets you generate audio tracks with TTS introductions, directly from their file names!](https://www.reddit.com/r/Python/comments/144jdzf/radiotts_lets_you_generate_audio_tracks_with_tts/)
 <!-- BLOG-POST-LIST:END -->
