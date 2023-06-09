@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just started learning, and picked something to work towards. Can Python take a set of samples and then generate the next item?](https://www.reddit.com/r/Python/comments/145c2hm/just_started_learning_and_picked_something_to/)
+- [Getting Started with ReactPy](https://www.reddit.com/r/Python/comments/145bf6d/getting_started_with_reactpy/)
 - [i created an IDE for lua/love2d in python named PyMoon](https://www.reddit.com/r/Python/comments/145anle/i_created_an_ide_for_lualove2d_in_python_named/)
 - [How to install Python packages or libraries in a virtual environment of Unix/macOS?](https://www.reddit.com/r/Python/comments/145a5dm/how_to_install_python_packages_or_libraries_in_a/)
 - [Lessons learned from Adding ChatGPT Python Code Gen into our Jupyter Extension](https://www.reddit.com/r/Python/comments/1458spi/lessons_learned_from_adding_chatgpt_python_code/)
-- [Slack Consolidate: a slackbot built with Python and Supabase](https://www.reddit.com/r/Python/comments/1456iui/slack_consolidate_a_slackbot_built_with_python/)
-- [Build and Connect Python App to Multiple Databases](https://www.reddit.com/r/Python/comments/1455unu/build_and_connect_python_app_to_multiple_databases/)
 <!-- BLOG-POST-LIST:END -->
