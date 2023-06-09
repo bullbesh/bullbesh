@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a script to create a customisable wallpaper of the solar system with the current positions of any specified body](https://www.reddit.com/r/Python/comments/145g13y/i_wrote_a_script_to_create_a_customisable/)
+- [Writing Unit Tests Best Practices](https://www.reddit.com/r/Python/comments/145g08l/writing_unit_tests_best_practices/)
+- [Coração](https://www.reddit.com/r/Python/comments/145fv4v/coração/)
 - [Getting Started with ReactPy](https://www.reddit.com/r/Python/comments/145bf6d/getting_started_with_reactpy/)
 - [i created an IDE for lua/love2d in python named PyMoon](https://www.reddit.com/r/Python/comments/145anle/i_created_an_ide_for_lualove2d_in_python_named/)
-- [Lessons learned from Adding ChatGPT Python Code Gen into our Jupyter Extension](https://www.reddit.com/r/Python/comments/1458spi/lessons_learned_from_adding_chatgpt_python_code/)
-- [Slack Consolidate: a slackbot built with Python and Supabase](https://www.reddit.com/r/Python/comments/1456iui/slack_consolidate_a_slackbot_built_with_python/)
-- [Build and Connect Python App to Multiple Databases](https://www.reddit.com/r/Python/comments/1455unu/build_and_connect_python_app_to_multiple_databases/)
 <!-- BLOG-POST-LIST:END -->
