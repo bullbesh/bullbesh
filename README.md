@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Voozh - Internet minimizer &rpar;](https://www.reddit.com/r/Python/comments/1453zlc/voozh_internet_minimizer/)
+- [PEP 703: Making the Global Interpreter Lock Optional](https://www.reddit.com/r/Python/comments/14534lk/pep_703_making_the_global_interpreter_lock/)
 - [Sharing Jupyter Notebooks from localhost - without downloading any tool](https://www.reddit.com/r/Python/comments/144z0qr/sharing_jupyter_notebooks_from_localhost_without/)
 - [Using computer vision for poker](https://www.reddit.com/r/Python/comments/144ygh5/using_computer_vision_for_poker/)
 - [GitHub - hdmamin/roboduck: Natural language debugging, talking error messages, and loquacious loggers.](https://www.reddit.com/r/Python/comments/144yexi/github_hdmaminroboduck_natural_language_debugging/)
-- [I spent 4 years developing a search engine just for food and finally launched the first-ever realtime menu API for almost all restaurants and grocery stores in the US+Canada. Check it out for your next project!](https://www.reddit.com/r/Python/comments/144vqsz/i_spent_4_years_developing_a_search_engine_just/)
-- [If you&#39;ve ever gotten hit with a large API Bill, I want to help &lpar;for free&rpar; !](https://www.reddit.com/r/Python/comments/144subv/if_youve_ever_gotten_hit_with_a_large_api_bill_i/)
 <!-- BLOG-POST-LIST:END -->
