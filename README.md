@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just a couple of question about Python from an EE stud](https://www.reddit.com/r/Python/comments/145jjap/just_a_couple_of_question_about_python_from_an_ee/)
+- [The Hidden Crisis in Open Source Development: A Call to Action](https://www.reddit.com/r/Python/comments/145j8v6/the_hidden_crisis_in_open_source_development_a/)
 - [I wrote a script to create a customisable wallpaper of the solar system with the current positions of any specified body](https://www.reddit.com/r/Python/comments/145g13y/i_wrote_a_script_to_create_a_customisable/)
 - [Writing Unit Tests Best Practices](https://www.reddit.com/r/Python/comments/145g08l/writing_unit_tests_best_practices/)
 - [Coração](https://www.reddit.com/r/Python/comments/145fv4v/coração/)
-- [Getting Started with ReactPy](https://www.reddit.com/r/Python/comments/145bf6d/getting_started_with_reactpy/)
-- [i created an IDE for lua/love2d in python named PyMoon](https://www.reddit.com/r/Python/comments/145anle/i_created_an_ide_for_lualove2d_in_python_named/)
 <!-- BLOG-POST-LIST:END -->
