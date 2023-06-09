@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sharing Jupyter Notebooks from localhost - without downloading any tool](https://www.reddit.com/r/Python/comments/144z0qr/sharing_jupyter_notebooks_from_localhost_without/)
+- [Using computer vision for poker](https://www.reddit.com/r/Python/comments/144ygh5/using_computer_vision_for_poker/)
+- [GitHub - hdmamin/roboduck: Natural language debugging, talking error messages, and loquacious loggers.](https://www.reddit.com/r/Python/comments/144yexi/github_hdmaminroboduck_natural_language_debugging/)
 - [I spent 4 years developing a search engine just for food and finally launched the first-ever realtime menu API for almost all restaurants and grocery stores in the US+Canada. Check it out for your next project!](https://www.reddit.com/r/Python/comments/144vqsz/i_spent_4_years_developing_a_search_engine_just/)
 - [If you&#39;ve ever gotten hit with a large API Bill, I want to help &lpar;for free&rpar; !](https://www.reddit.com/r/Python/comments/144subv/if_youve_ever_gotten_hit_with_a_large_api_bill_i/)
-- [Combinator birds](https://www.reddit.com/r/Python/comments/144qezr/combinator_birds/)
-- [Looking for beautiful JupyterNotebook alternative.](https://www.reddit.com/r/Python/comments/144ow31/looking_for_beautiful_jupyternotebook_alternative/)
-- [Template repository for Python projects](https://www.reddit.com/r/Python/comments/144np60/template_repository_for_python_projects/)
 <!-- BLOG-POST-LIST:END -->
