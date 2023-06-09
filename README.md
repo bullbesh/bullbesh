@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lessons learned from Adding ChatGPT Python Code Gen into our Jupyter Extension](https://www.reddit.com/r/Python/comments/1458spi/lessons_learned_from_adding_chatgpt_python_code/)
 - [Slack Consolidate: a slackbot built with Python and Supabase](https://www.reddit.com/r/Python/comments/1456iui/slack_consolidate_a_slackbot_built_with_python/)
 - [Build and Connect Python App to Multiple Databases](https://www.reddit.com/r/Python/comments/1455unu/build_and_connect_python_app_to_multiple_databases/)
 - [Is square brackets possible in Python](https://www.reddit.com/r/Python/comments/1454m47/is_square_brackets_possible_in_python/)
 - [Voozh - Internet minimizer &rpar;](https://www.reddit.com/r/Python/comments/1453zlc/voozh_internet_minimizer/)
-- [PEP 703: Making the Global Interpreter Lock Optional](https://www.reddit.com/r/Python/comments/14534lk/pep_703_making_the_global_interpreter_lock/)
 <!-- BLOG-POST-LIST:END -->
