@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [To ChatGPT or Not?](https://www.reddit.com/r/Python/comments/145rqxg/to_chatgpt_or_not/)
+- [Create App to Run Faster than DuckDB is not Impossble for Any Developer](https://www.reddit.com/r/Python/comments/145rmt7/create_app_to_run_faster_than_duckdb_is_not/)
 - [Pyt2: My Python project boilerplate template](https://www.reddit.com/r/Python/comments/145qm56/pyt2_my_python_project_boilerplate_template/)
 - [Top 10 Udemy Courses to Learn Python in 2023](https://www.reddit.com/r/Python/comments/145qinl/top_10_udemy_courses_to_learn_python_in_2023/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/145kzwc/saturday_daily_thread_resource_request_and/)
-- [Using Langchain, Python, and OpenAI to supercharge my Telegram group](https://www.reddit.com/r/Python/comments/145kxlm/using_langchain_python_and_openai_to_supercharge/)
-- [Just a couple of question about Python from an EE stud](https://www.reddit.com/r/Python/comments/145jjap/just_a_couple_of_question_about_python_from_an_ee/)
 <!-- BLOG-POST-LIST:END -->
