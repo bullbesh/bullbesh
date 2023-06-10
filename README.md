@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a script that exploits a practical vulnerability in &quot;Bolt&quot; a popular European e-scooter app](https://www.reddit.com/r/Python/comments/145yn5q/i_created_a_script_that_exploits_a_practical/)
 - [Python Generator: The Art of Lazily Generated Data](https://www.reddit.com/r/Python/comments/145xix4/python_generator_the_art_of_lazily_generated_data/)
 - [How to Use a Collaborative Approach to Problem-Solving &lpar;with Python examples&rpar;](https://www.reddit.com/r/Python/comments/145wphi/how_to_use_a_collaborative_approach_to/)
 - [I created a small command line tool to traverse directories](https://www.reddit.com/r/Python/comments/145w0v2/i_created_a_small_command_line_tool_to_traverse/)
 - [Space between foo&lpar;&rpar;/foo &lpar;&rpar;](https://www.reddit.com/r/Python/comments/145vgzq/space_between_foofoo/)
-- [Py2App VS Code Extention](https://www.reddit.com/r/Python/comments/145v9mv/py2app_vs_code_extention/)
 <!-- BLOG-POST-LIST:END -->
