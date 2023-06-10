@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a small command line tool to traverse directories](https://www.reddit.com/r/Python/comments/145w0v2/i_created_a_small_command_line_tool_to_traverse/)
+- [Space between foo&lpar;&rpar;/foo &lpar;&rpar;](https://www.reddit.com/r/Python/comments/145vgzq/space_between_foofoo/)
 - [Py2App VS Code Extention](https://www.reddit.com/r/Python/comments/145v9mv/py2app_vs_code_extention/)
 - [Faster sorting algorithms discovered using deep reinforcement learning](https://www.reddit.com/r/Python/comments/145uujx/faster_sorting_algorithms_discovered_using_deep/)
 - [ReactPy: Will it Dethrone JavaScript as the Top Choice?](https://www.reddit.com/r/Python/comments/145u6y9/reactpy_will_it_dethrone_javascript_as_the_top/)
-- [Streamlit app for doing tarot readings with OpenAI](https://www.reddit.com/r/Python/comments/145t4rg/streamlit_app_for_doing_tarot_readings_with_openai/)
-- [To ChatGPT or Not?](https://www.reddit.com/r/Python/comments/145rqxg/to_chatgpt_or_not/)
 <!-- BLOG-POST-LIST:END -->
