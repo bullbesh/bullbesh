@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Not all emptiness are created equal, I guess?](https://www.reddit.com/r/Python/comments/14612xf/not_all_emptiness_are_created_equal_i_guess/)
 - [Dynamically configure your Python application &lpar;FastAPI Tutorial Series&rpar;](https://www.reddit.com/r/Python/comments/1460sb4/dynamically_configure_your_python_application/)
-- [What are the disadvantages in using Generative AI?](https://www.reddit.com/r/Python/comments/145zsvy/what_are_the_disadvantages_in_using_generative_ai/)
 - [help your bro guys !😂](https://www.reddit.com/r/Python/comments/145zjqt/help_your_bro_guys/)
 - [I created a script that exploits a practical vulnerability in &quot;Bolt&quot; a popular European e-scooter app](https://www.reddit.com/r/Python/comments/145yn5q/i_created_a_script_that_exploits_a_practical/)
+- [Python Generator: The Art of Lazily Generated Data](https://www.reddit.com/r/Python/comments/145xix4/python_generator_the_art_of_lazily_generated_data/)
 <!-- BLOG-POST-LIST:END -->
