@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Generator: The Art of Lazily Generated Data](https://www.reddit.com/r/Python/comments/145xix4/python_generator_the_art_of_lazily_generated_data/)
+- [How to Use a Collaborative Approach to Problem-Solving &lpar;with Python examples&rpar;](https://www.reddit.com/r/Python/comments/145wphi/how_to_use_a_collaborative_approach_to/)
 - [I created a small command line tool to traverse directories](https://www.reddit.com/r/Python/comments/145w0v2/i_created_a_small_command_line_tool_to_traverse/)
 - [Space between foo&lpar;&rpar;/foo &lpar;&rpar;](https://www.reddit.com/r/Python/comments/145vgzq/space_between_foofoo/)
 - [Py2App VS Code Extention](https://www.reddit.com/r/Python/comments/145v9mv/py2app_vs_code_extention/)
-- [Faster sorting algorithms discovered using deep reinforcement learning](https://www.reddit.com/r/Python/comments/145uujx/faster_sorting_algorithms_discovered_using_deep/)
-- [ReactPy: Will it Dethrone JavaScript as the Top Choice?](https://www.reddit.com/r/Python/comments/145u6y9/reactpy_will_it_dethrone_javascript_as_the_top/)
 <!-- BLOG-POST-LIST:END -->
