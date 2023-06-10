@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ReactPy: Will it Dethrone JavaScript as the Top Choice?](https://www.reddit.com/r/Python/comments/145u6y9/reactpy_will_it_dethrone_javascript_as_the_top/)
 - [Streamlit app for doing tarot readings with OpenAI](https://www.reddit.com/r/Python/comments/145t4rg/streamlit_app_for_doing_tarot_readings_with_openai/)
 - [To ChatGPT or Not?](https://www.reddit.com/r/Python/comments/145rqxg/to_chatgpt_or_not/)
 - [Create App to Run Faster than DuckDB is not Impossble for Any Developer](https://www.reddit.com/r/Python/comments/145rmt7/create_app_to_run_faster_than_duckdb_is_not/)
 - [Pyt2: My Python project boilerplate template](https://www.reddit.com/r/Python/comments/145qm56/pyt2_my_python_project_boilerplate_template/)
-- [Top 10 Udemy Courses to Learn Python in 2023](https://www.reddit.com/r/Python/comments/145qinl/top_10_udemy_courses_to_learn_python_in_2023/)
 <!-- BLOG-POST-LIST:END -->
