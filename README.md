@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [First time working on a Python/Django project. Where do I start?](https://www.reddit.com/r/Python/comments/146cbus/first_time_working_on_a_pythondjango_project/)
+- [Introducing PyDALL-E: AI-Powered Art Prompt Design Tool [Very Early Preview]](https://www.reddit.com/r/Python/comments/146bzct/introducing_pydalle_aipowered_art_prompt_design/)
+- [Measurement tool](https://www.reddit.com/r/Python/comments/146bru6/measurement_tool/)
 - [maestro: A cross-platform CLI music player](https://www.reddit.com/r/Python/comments/1466p4i/maestro_a_crossplatform_cli_music_player/)
 - [Seeking Feedback on My First Django Project](https://www.reddit.com/r/Python/comments/1466f0o/seeking_feedback_on_my_first_django_project/)
-- [extract the sitekey from recaptcha](https://www.reddit.com/r/Python/comments/14665wb/extract_the_sitekey_from_recaptcha/)
-- [A tkinter app which provides you a virtual companion with digital lively and cute cats to interact with on the screen.](https://www.reddit.com/r/Python/comments/1465fzs/a_tkinter_app_which_provides_you_a_virtual/)
-- [Perform High-level Path Manipulation Using pathlib Module In Python](https://www.reddit.com/r/Python/comments/14655gt/perform_highlevel_path_manipulation_using_pathlib/)
 <!-- BLOG-POST-LIST:END -->
