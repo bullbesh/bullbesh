@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jwt access token + refresh token vs normal token auth &lpar;django&rpar;](https://www.reddit.com/r/Python/comments/146ncxa/jwt_access_token_refresh_token_vs_normal_token/)
 - [Help Python script DLMS/COSEM](https://www.reddit.com/r/Python/comments/146n54g/help_python_script_dlmscosem/)
 - [Custom Graphic-Text Engine](https://www.reddit.com/r/Python/comments/146n0ur/custom_graphictext_engine/)
 - [ChatGPT-Driven Arduino Quiz Game | ChatGPT | Arduino | OLED | STM32 #cha...](https://www.reddit.com/r/Python/comments/146n0o6/chatgptdriven_arduino_quiz_game_chatgpt_arduino/)
 - [Learn Handling Missing Data in 10 Minutes](https://www.reddit.com/r/Python/comments/146lgnn/learn_handling_missing_data_in_10_minutes/)
-- [What&#39;s the experience of using Python to build the backend of a large application?](https://www.reddit.com/r/Python/comments/146kbc0/whats_the_experience_of_using_python_to_build_the/)
 <!-- BLOG-POST-LIST:END -->
