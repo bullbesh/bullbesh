@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reddit Comment Nuke: A Python script to edit and save your Reddit comment history en masse](https://www.reddit.com/r/Python/comments/146vhh0/reddit_comment_nuke_a_python_script_to_edit_and/)
 - [Giving my Python books away for free!](https://www.reddit.com/r/Python/comments/146sses/giving_my_python_books_away_for_free/)
 - [Panorma: a lightweight Python package &lpar;just over 50 lines of code&rpar; that enables you to create typed models for Pandas DataFrames using classes. ⚡️ Autocompletion ⚡️](https://www.reddit.com/r/Python/comments/146sf3r/panorma_a_lightweight_python_package_just_over_50/)
 - [Python: The Versatile Language for Today’s Developers](https://www.reddit.com/r/Python/comments/146ourj/python_the_versatile_language_for_todays/)
 - [Jwt access token + refresh token vs normal token auth &lpar;django&rpar;](https://www.reddit.com/r/Python/comments/146ncxa/jwt_access_token_refresh_token_vs_normal_token/)
-- [Help Python script DLMS/COSEM](https://www.reddit.com/r/Python/comments/146n54g/help_python_script_dlmscosem/)
 <!-- BLOG-POST-LIST:END -->
