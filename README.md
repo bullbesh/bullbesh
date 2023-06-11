@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenLM: A Drop-in OpenAI-compatible library that can call LLMs from most providers &lpar;e.g., HuggingFace, Cohere, and more&rpar;.](https://www.reddit.com/r/Python/comments/1470dbx/openlm_a_dropin_openaicompatible_library_that_can/)
+- [r/Python Will Black Out on June 12 at 00:00 UTC](https://www.reddit.com/r/Python/comments/146zye6/rpython_will_black_out_on_june_12_at_0000_utc/)
 - [A Survey of Generative AI with more than 350 applications.](https://www.reddit.com/r/Python/comments/146z5sc/a_survey_of_generative_ai_with_more_than_350/)
 - [Build Passkey Auth into your web applications](https://www.reddit.com/r/Python/comments/146xe9i/build_passkey_auth_into_your_web_applications/)
 - [How to print the date &amp; time string in another language](https://www.reddit.com/r/Python/comments/146wz6m/how_to_print_the_date_time_string_in_another/)
-- [Python doesn&#39;t need to be slow](https://www.reddit.com/r/Python/comments/146wjjv/python_doesnt_need_to_be_slow/)
-- [Reddit Comment Nuke: A Python script to edit and save your Reddit comment history en masse](https://www.reddit.com/r/Python/comments/146vhh0/reddit_comment_nuke_a_python_script_to_edit_and/)
 <!-- BLOG-POST-LIST:END -->
