@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Passkey Auth into your web applications](https://www.reddit.com/r/Python/comments/146xe9i/build_passkey_auth_into_your_web_applications/)
+- [How to print the date &amp; time string in another language](https://www.reddit.com/r/Python/comments/146wz6m/how_to_print_the_date_time_string_in_another/)
+- [Python doesn&#39;t need to be slow](https://www.reddit.com/r/Python/comments/146wjjv/python_doesnt_need_to_be_slow/)
 - [Reddit Comment Nuke: A Python script to edit and save your Reddit comment history en masse](https://www.reddit.com/r/Python/comments/146vhh0/reddit_comment_nuke_a_python_script_to_edit_and/)
 - [Giving my Python books away for free!](https://www.reddit.com/r/Python/comments/146sses/giving_my_python_books_away_for_free/)
-- [Panorma: a lightweight Python package &lpar;just over 50 lines of code&rpar; that enables you to create typed models for Pandas DataFrames using classes. ⚡️ Autocompletion ⚡️](https://www.reddit.com/r/Python/comments/146sf3r/panorma_a_lightweight_python_package_just_over_50/)
-- [Python: The Versatile Language for Today’s Developers](https://www.reddit.com/r/Python/comments/146ourj/python_the_versatile_language_for_todays/)
-- [Jwt access token + refresh token vs normal token auth &lpar;django&rpar;](https://www.reddit.com/r/Python/comments/146ncxa/jwt_access_token_refresh_token_vs_normal_token/)
 <!-- BLOG-POST-LIST:END -->
