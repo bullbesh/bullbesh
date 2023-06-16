@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Engineering Twitter Spaces](https://www.reddit.com/r/Python/comments/1472twy/reverse_engineering_twitter_spaces/)
-- [Regression using Keras: Bayesian Blocks for sample weighting](https://www.reddit.com/r/Python/comments/1471j26/regression_using_keras_bayesian_blocks_for_sample/)
-- [OpenLM: A Drop-in OpenAI-compatible library that can call LLMs from most providers &lpar;e.g., HuggingFace, Cohere, and more&rpar;.](https://www.reddit.com/r/Python/comments/1470dbx/openlm_a_dropin_openaicompatible_library_that_can/)
-- [r/Python Will Black Out on June 12 at 00:00 UTC](https://www.reddit.com/r/Python/comments/146zye6/rpython_will_black_out_on_june_12_at_0000_utc/)
-- [A Survey of Generative AI with more than 350 applications.](https://www.reddit.com/r/Python/comments/146z5sc/a_survey_of_generative_ai_with_more_than_350/)
+- [An Update about our Community](https://www.reddit.com/r/Python/comments/14ai1m5/an_update_about_our_community/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/149n8iz/thursday_daily_thread_python_careers_courses_and/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/148tca1/wednesday_daily_thread_beginner_questions/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1481eas/tuesday_daily_thread_advanced_questions/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1479jb8/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
