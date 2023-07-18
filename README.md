@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Programming for Beginners:Chapter 2 Control Flow](https://www.reddit.com/r/Python/comments/153a87v/python_programming_for_beginnerschapter_2_control/)
 - [I created a CLI for converting CSV and JSON files into beautiful RST](https://www.reddit.com/r/Python/comments/153a87o/i_created_a_cli_for_converting_csv_and_json_files/)
+- [Python Programming for Beginners:Chapter 2 Control Flow](https://www.reddit.com/r/Python/comments/153a87v/python_programming_for_beginnerschapter_2_control/)
 - [Why Adaptive Rate Limiting is a Game-Changer](https://www.reddit.com/r/Python/comments/1533vpt/why_adaptive_rate_limiting_is_a_gamechanger/)
 - [Notedock - open source note app project](https://www.reddit.com/r/Python/comments/1533uvk/notedock_open_source_note_app_project/)
 - [verifying if a pdf is searchable or not.](https://www.reddit.com/r/Python/comments/1532r2u/verifying_if_a_pdf_is_searchable_or_not/)
