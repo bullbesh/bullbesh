@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [PYTHON COURSE FROM UDEMY FOR 30$ HERE](https://www.reddit.com/r/Python/comments/1535sfi/python_course_from_udemy_for_30_here/)
 - [Why Adaptive Rate Limiting is a Game-Changer](https://www.reddit.com/r/Python/comments/1533vpt/why_adaptive_rate_limiting_is_a_gamechanger/)
 - [Notedock - open source note app project](https://www.reddit.com/r/Python/comments/1533uvk/notedock_open_source_note_app_project/)
 - [verifying if a pdf is searchable or not.](https://www.reddit.com/r/Python/comments/1532r2u/verifying_if_a_pdf_is_searchable_or_not/)
 - [Using context managers](https://www.reddit.com/r/Python/comments/15321kw/using_context_managers/)
+- [Generate mazes using jupyter, numpy, matplotlib and scikit-image](https://www.reddit.com/r/Python/comments/1530xum/generate_mazes_using_jupyter_numpy_matplotlib_and/)
 <!-- BLOG-POST-LIST:END -->
