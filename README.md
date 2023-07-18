@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/14lpds0/thursday_daily_thread_python_careers_courses_and/)
-- [By community vote, r/Python will Return to a Blackout](https://www.reddit.com/r/Python/comments/14lfawc/by_community_vote_rpython_will_return_to_a/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/14ktvpt/wednesday_daily_thread_beginner_questions/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/14jxmdv/tuesday_daily_thread_advanced_questions/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/14j1ijd/monday_daily_thread_project_ideas/)
+- [/r/Python is reopening, Calling for new Mods, and what&#39;s next](https://www.reddit.com/r/Python/comments/152ymwf/rpython_is_reopening_calling_for_new_mods_and/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/152idgj/tuesday_daily_thread_advanced_questions/)
+- [EuroPython 2023 Has Begun!](https://www.reddit.com/r/Python/comments/1525pc9/europython_2023_has_begun/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/151lvfe/monday_daily_thread_project_ideas/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/150r5al/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
