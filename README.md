@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python dev for research project at Brandeis University](https://www.reddit.com/r/Python/comments/153g3lh/python_dev_for_research_project_at_brandeis/)
+- [Master Python with 10 Online Comprehensive Exams &lpar;1017 Objective Type Questions&rpar;: Unleash Your Python Coding Potential](https://www.reddit.com/r/Python/comments/153jjs3/master_python_with_10_online_comprehensive_exams/)
 - [Blog: How does CPython print stack traces?](https://www.reddit.com/r/Python/comments/153f56y/blog_how_does_cpython_print_stack_traces/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/153ess4/wednesday_daily_thread_beginner_questions/)
 - [Optimizing AI Model Serving with MinIO and PyTorch Serve](https://www.reddit.com/r/Python/comments/153e0uq/optimizing_ai_model_serving_with_minio_and/)
