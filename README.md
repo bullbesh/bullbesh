@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Programming for Beginners:Chapter 2 Control Flow](https://www.reddit.com/r/Python/comments/153a87v/python_programming_for_beginnerschapter_2_control/)
+- [Python dev for research project at Brandeis University](https://www.reddit.com/r/Python/comments/153g3lh/python_dev_for_research_project_at_brandeis/)
+- [Blog: How does CPython print stack traces?](https://www.reddit.com/r/Python/comments/153f56y/blog_how_does_cpython_print_stack_traces/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/153ess4/wednesday_daily_thread_beginner_questions/)
+- [Optimizing AI Model Serving with MinIO and PyTorch Serve](https://www.reddit.com/r/Python/comments/153e0uq/optimizing_ai_model_serving_with_minio_and/)
 - [I created a CLI for converting CSV and JSON files into beautiful RST](https://www.reddit.com/r/Python/comments/153a87o/i_created_a_cli_for_converting_csv_and_json_files/)
-- [Why Adaptive Rate Limiting is a Game-Changer](https://www.reddit.com/r/Python/comments/1533vpt/why_adaptive_rate_limiting_is_a_gamechanger/)
-- [Notedock - open source note app project](https://www.reddit.com/r/Python/comments/1533uvk/notedock_open_source_note_app_project/)
-- [verifying if a pdf is searchable or not.](https://www.reddit.com/r/Python/comments/1532r2u/verifying_if_a_pdf_is_searchable_or_not/)
 <!-- BLOG-POST-LIST:END -->
