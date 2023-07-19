@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The origin of &quot;pythonista&quot;](https://www.reddit.com/r/Python/comments/1548c7i/the_origin_of_pythonista/)
+- [What is the use of Python&#39;s turtle graphics?](https://www.reddit.com/r/Python/comments/1547n63/what_is_the_use_of_pythons_turtle_graphics/)
 - [Pynecone Is Now Reflex - Web Apps in Pure Python](https://www.reddit.com/r/Python/comments/1545w7e/pynecone_is_now_reflex_web_apps_in_pure_python/)
 - [Escaping the template pattern hellscape in Python](https://www.reddit.com/r/Python/comments/1545bqn/escaping_the_template_pattern_hellscape_in_python/)
 - [I wrote a basic text editor and code runner in Python called Functino! Feedback appreciated.](https://www.reddit.com/r/Python/comments/1543rrq/i_wrote_a_basic_text_editor_and_code_runner_in/)
-- [Do you all have a preference for ordering public, protected, private, and special methods in a class?](https://www.reddit.com/r/Python/comments/1542dlm/do_you_all_have_a_preference_for_ordering_public/)
-- [Notion-based Error Logging for Python](https://www.reddit.com/r/Python/comments/1542cuv/notionbased_error_logging_for_python/)
 <!-- BLOG-POST-LIST:END -->
