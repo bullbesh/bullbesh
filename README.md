@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you all have a preference for ordering public, protected, private, and special methods in a class?](https://www.reddit.com/r/Python/comments/1542dlm/do_you_all_have_a_preference_for_ordering_public/)
+- [Notion-based Error Logging for Python](https://www.reddit.com/r/Python/comments/1542cuv/notionbased_error_logging_for_python/)
+- [Has anyone worked with real estate data?](https://www.reddit.com/r/Python/comments/1541qgt/has_anyone_worked_with_real_estate_data/)
 - [Instagram Accounts With 2FA Bypass in Python](https://www.reddit.com/r/Python/comments/1540hfw/instagram_accounts_with_2fa_bypass_in_python/)
 - [Textual 0.30.0 adds desktop-style notifications](https://www.reddit.com/r/Python/comments/15403ep/textual_0300_adds_desktopstyle_notifications/)
-- [👉 New Awesome Polars release! What&#39;s new in the world of Polars in the last 3 weeks ? Let&#39;s find out! 🚀](https://www.reddit.com/r/Python/comments/153wfn4/new_awesome_polars_release_whats_new_in_the_world/)
-- [Advanced Python Mastery – A Course by David Beazley](https://www.reddit.com/r/Python/comments/153vtu9/advanced_python_mastery_a_course_by_david_beazley/)
-- [Development of a distributed and asynchronous system to schedule actions from JSON with the option of modifying and canceling events &lpar;Python with Celery + RabbitMQ&rpar;](https://www.reddit.com/r/Python/comments/153uxgk/development_of_a_distributed_and_asynchronous/)
 <!-- BLOG-POST-LIST:END -->
