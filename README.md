@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monorepo + Microservices + Dependency Managment + Build system HELL](https://www.reddit.com/r/Python/comments/153oomg/monorepo_microservices_dependency_managment_build/)
+- [Linear Programming in Python](https://www.reddit.com/r/Python/comments/153o1mv/linear_programming_in_python/)
+- [Python Web Development – The Key to Unlock Far-fetched Possibilities](https://www.reddit.com/r/Python/comments/153o005/python_web_development_the_key_to_unlock/)
 - [A taste of iteration in Python](https://www.reddit.com/r/Python/comments/153mns3/a_taste_of_iteration_in_python/)
 - [A PyQt App for Trajectory Evaluation](https://www.reddit.com/r/Python/comments/153lxxg/a_pyqt_app_for_trajectory_evaluation/)
-- [Master Python with 10 Online Comprehensive Exams &lpar;1017 Objective Type Questions&rpar;: Unleash Your Python Coding Potential](https://www.reddit.com/r/Python/comments/153jjs3/master_python_with_10_online_comprehensive_exams/)
-- [Blog: How does CPython print stack traces?](https://www.reddit.com/r/Python/comments/153f56y/blog_how_does_cpython_print_stack_traces/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/153ess4/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
