@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Python Mastery – A Course by David Beazley](https://www.reddit.com/r/Python/comments/153vtu9/advanced_python_mastery_a_course_by_david_beazley/)
+- [Development of a distributed and asynchronous system to schedule actions from JSON with the option of modifying and canceling events &lpar;Python with Celery + RabbitMQ&rpar;](https://www.reddit.com/r/Python/comments/153uxgk/development_of_a_distributed_and_asynchronous/)
 - [Migrating Cartography from Neo4j to Memgraph](https://www.reddit.com/r/Python/comments/153uj1b/migrating_cartography_from_neo4j_to_memgraph/)
 - [connect weight scale and python](https://www.reddit.com/r/Python/comments/153pebc/connect_weight_scale_and_python/)
 - [Monorepo + Microservices + Dependency Managment + Build system HELL](https://www.reddit.com/r/Python/comments/153oomg/monorepo_microservices_dependency_managment_build/)
-- [Linear Programming in Python](https://www.reddit.com/r/Python/comments/153o1mv/linear_programming_in_python/)
-- [Python Web Development – The Key to Unlock Far-fetched Possibilities](https://www.reddit.com/r/Python/comments/153o005/python_web_development_the_key_to_unlock/)
 <!-- BLOG-POST-LIST:END -->
