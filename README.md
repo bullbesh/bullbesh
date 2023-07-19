@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrating Cartography from Neo4j to Memgraph](https://www.reddit.com/r/Python/comments/153uj1b/migrating_cartography_from_neo4j_to_memgraph/)
 - [connect weight scale and python](https://www.reddit.com/r/Python/comments/153pebc/connect_weight_scale_and_python/)
 - [Monorepo + Microservices + Dependency Managment + Build system HELL](https://www.reddit.com/r/Python/comments/153oomg/monorepo_microservices_dependency_managment_build/)
 - [Linear Programming in Python](https://www.reddit.com/r/Python/comments/153o1mv/linear_programming_in_python/)
 - [Python Web Development – The Key to Unlock Far-fetched Possibilities](https://www.reddit.com/r/Python/comments/153o005/python_web_development_the_key_to_unlock/)
-- [A taste of iteration in Python](https://www.reddit.com/r/Python/comments/153mns3/a_taste_of_iteration_in_python/)
 <!-- BLOG-POST-LIST:END -->
