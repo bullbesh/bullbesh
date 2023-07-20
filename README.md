@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [EV Battery - Calendar ageing simulation with Python](https://www.reddit.com/r/Python/comments/154mmjb/ev_battery_calendar_ageing_simulation_with_python/)
+- [Monitor sockets in Python, the socket class doesn&#39;t seem to do it.](https://www.reddit.com/r/Python/comments/154mgnk/monitor_sockets_in_python_the_socket_class_doesnt/)
+- [Doug Farrell on Python Podcast](https://www.reddit.com/r/Python/comments/154m636/doug_farrell_on_python_podcast/)
 - [WebScraper Efficiency and Speed](https://www.reddit.com/r/Python/comments/154jjxp/webscraper_efficiency_and_speed/)
 - [Datalookup 1.0 - Deep nested data filtering library](https://www.reddit.com/r/Python/comments/154iarj/datalookup_10_deep_nested_data_filtering_library/)
-- [Python GUI Calculator](https://www.reddit.com/r/Python/comments/154hv06/python_gui_calculator/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/154b6wa/thursday_daily_thread_python_careers_courses_and/)
-- [The origin of &quot;pythonista&quot;](https://www.reddit.com/r/Python/comments/1548c7i/the_origin_of_pythonista/)
 <!-- BLOG-POST-LIST:END -->
