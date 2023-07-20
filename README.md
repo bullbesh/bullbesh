@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turn your Python code into a ChatGPT-like UI](https://www.reddit.com/r/Python/comments/154t1ac/turn_your_python_code_into_a_chatgptlike_ui/)
+- [Controlling Servo Motors with Python&#39;s Widgets - A Step-by-Step Guide!](https://www.reddit.com/r/Python/comments/154sujx/controlling_servo_motors_with_pythons_widgets_a/)
 - [Any django developer out there](https://www.reddit.com/r/Python/comments/154oj7l/any_django_developer_out_there/)
 - [Create Wind Speed and Direction in Python](https://www.reddit.com/r/Python/comments/154oe1q/create_wind_speed_and_direction_in_python/)
 - [Python Error](https://www.reddit.com/r/Python/comments/154nvpd/python_error/)
-- [EV Battery - Calendar ageing simulation with Python](https://www.reddit.com/r/Python/comments/154mmjb/ev_battery_calendar_ageing_simulation_with_python/)
-- [Monitor sockets in Python, the socket class doesn&#39;t seem to do it.](https://www.reddit.com/r/Python/comments/154mgnk/monitor_sockets_in_python_the_socket_class_doesnt/)
 <!-- BLOG-POST-LIST:END -->
