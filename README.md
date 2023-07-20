@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Datalookup 1.0 - Deep nested data filtering library](https://www.reddit.com/r/Python/comments/154iarj/datalookup_10_deep_nested_data_filtering_library/)
+- [Python GUI Calculator](https://www.reddit.com/r/Python/comments/154hv06/python_gui_calculator/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/154b6wa/thursday_daily_thread_python_careers_courses_and/)
 - [The origin of &quot;pythonista&quot;](https://www.reddit.com/r/Python/comments/1548c7i/the_origin_of_pythonista/)
 - [What is the use of Python&#39;s turtle graphics?](https://www.reddit.com/r/Python/comments/1547n63/what_is_the_use_of_pythons_turtle_graphics/)
-- [Pynecone Is Now Reflex - Web Apps in Pure Python](https://www.reddit.com/r/Python/comments/1545w7e/pynecone_is_now_reflex_web_apps_in_pure_python/)
-- [Escaping the template pattern hellscape in Python](https://www.reddit.com/r/Python/comments/1545bqn/escaping_the_template_pattern_hellscape_in_python/)
 <!-- BLOG-POST-LIST:END -->
