@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pythong beginner](https://www.reddit.com/r/Python/comments/155rk1o/pythong_beginner/)
 - [Monitoring and Observability using native Python modules](https://www.reddit.com/r/Python/comments/155qv75/monitoring_and_observability_using_native_python/)
 - [Explore the fileinput Module to Process and Read Multiple Files Simultaneously in Python](https://www.reddit.com/r/Python/comments/155nt1y/explore_the_fileinput_module_to_process_and_read/)
 - [I trying to make a pong game using pygame, and not sure what should I do to move the ball and let it bounce](https://www.reddit.com/r/Python/comments/155mwym/i_trying_to_make_a_pong_game_using_pygame_and_not/)
 - [Kraken Technologies: How we organise our very large Python monolith](https://www.reddit.com/r/Python/comments/155kqy1/kraken_technologies_how_we_organise_our_very/)
-- [Announcing fastapi-serve - Simplified FastAPI app deployments to the Cloud](https://www.reddit.com/r/Python/comments/155kgnp/announcing_fastapiserve_simplified_fastapi_app/)
 <!-- BLOG-POST-LIST:END -->
