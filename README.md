@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kraken Technologies: How we organise our very large Python monolith](https://www.reddit.com/r/Python/comments/155kqy1/kraken_technologies_how_we_organise_our_very/)
+- [Announcing fastapi-serve - Simplified FastAPI app deployments to the Cloud](https://www.reddit.com/r/Python/comments/155kgnp/announcing_fastapiserve_simplified_fastapi_app/)
 - [Three Techniques for Inverting Control, in Python](https://www.reddit.com/r/Python/comments/155jjzk/three_techniques_for_inverting_control_in_python/)
 - [Install Termux and Python on Chipsee Industrial Android Tablet and Utilize RS485 Serial Port](https://www.reddit.com/r/Python/comments/155hsik/install_termux_and_python_on_chipsee_industrial/)
 - [Python Programming for Beginners:Chapter 3 ,Collections and Data Structures](https://www.reddit.com/r/Python/comments/155hg4o/python_programming_for_beginnerschapter_3/)
-- [Tears of the Kingdom Compendium REST API](https://www.reddit.com/r/Python/comments/155h44d/tears_of_the_kingdom_compendium_rest_api/)
-- [Platform for managing teams device and servers access](https://www.reddit.com/r/Python/comments/155ea1f/platform_for_managing_teams_device_and_servers/)
 <!-- BLOG-POST-LIST:END -->
