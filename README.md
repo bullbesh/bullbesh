@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Install Termux and Python on Chipsee Industrial Android Tablet and Utilize RS485 Serial Port](https://www.reddit.com/r/Python/comments/155hsik/install_termux_and_python_on_chipsee_industrial/)
 - [Python Programming for Beginners:Chapter 3 ,Collections and Data Structures](https://www.reddit.com/r/Python/comments/155hg4o/python_programming_for_beginnerschapter_3/)
 - [Tears of the Kingdom Compendium REST API](https://www.reddit.com/r/Python/comments/155h44d/tears_of_the_kingdom_compendium_rest_api/)
 - [Platform for managing teams device and servers access](https://www.reddit.com/r/Python/comments/155ea1f/platform_for_managing_teams_device_and_servers/)
 - [Macbook and Pycharm](https://www.reddit.com/r/Python/comments/155d0k2/macbook_and_pycharm/)
-- [Google Colab 101 Tutorial with Python — Tips, Tricks, and FAQ](https://www.reddit.com/r/Python/comments/155cc3y/google_colab_101_tutorial_with_python_tips_tricks/)
 <!-- BLOG-POST-LIST:END -->
