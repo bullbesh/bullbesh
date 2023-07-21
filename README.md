@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Communication is the best tool](https://www.reddit.com/r/Python/comments/155x5f5/communication_is_the_best_tool/)
+- [HDF5 File Viewer &lpar;GUI and CLI&rpar;](https://www.reddit.com/r/Python/comments/155w81p/hdf5_file_viewer_gui_and_cli/)
 - [Python Checks Management](https://www.reddit.com/r/Python/comments/155uhd9/python_checks_management/)
 - [Pythong beginner](https://www.reddit.com/r/Python/comments/155rk1o/pythong_beginner/)
 - [Monitoring and Observability using native Python modules](https://www.reddit.com/r/Python/comments/155qv75/monitoring_and_observability_using_native_python/)
-- [Explore the fileinput Module to Process and Read Multiple Files Simultaneously in Python](https://www.reddit.com/r/Python/comments/155nt1y/explore_the_fileinput_module_to_process_and_read/)
-- [I trying to make a pong game using pygame, and not sure what should I do to move the ball and let it bounce](https://www.reddit.com/r/Python/comments/155mwym/i_trying_to_make_a_pong_game_using_pygame_and_not/)
 <!-- BLOG-POST-LIST:END -->
