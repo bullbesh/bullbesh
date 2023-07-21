@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Let GPT solve mypy issues for you!](https://www.reddit.com/r/Python/comments/155xpnk/let_gpt_solve_mypy_issues_for_you/)
 - [Communication is the best tool](https://www.reddit.com/r/Python/comments/155x5f5/communication_is_the_best_tool/)
 - [HDF5 File Viewer &lpar;GUI and CLI&rpar;](https://www.reddit.com/r/Python/comments/155w81p/hdf5_file_viewer_gui_and_cli/)
 - [Python Checks Management](https://www.reddit.com/r/Python/comments/155uhd9/python_checks_management/)
 - [Pythong beginner](https://www.reddit.com/r/Python/comments/155rk1o/pythong_beginner/)
-- [Monitoring and Observability using native Python modules](https://www.reddit.com/r/Python/comments/155qv75/monitoring_and_observability_using_native_python/)
 <!-- BLOG-POST-LIST:END -->
