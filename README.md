@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Macbook and Pycharm](https://www.reddit.com/r/Python/comments/155d0k2/macbook_and_pycharm/)
-- [Simulation of how Bouncing Cubes Compute Pi - Built with Python and Matplotlib](https://www.reddit.com/r/Python/comments/155d0i9/simulation_of_how_bouncing_cubes_compute_pi_built/)
 - [Google Colab 101 Tutorial with Python — Tips, Tricks, and FAQ](https://www.reddit.com/r/Python/comments/155cc3y/google_colab_101_tutorial_with_python_tips_tricks/)
 - [working on making a programming language entirely from scratch](https://www.reddit.com/r/Python/comments/1557se9/working_on_making_a_programming_language_entirely/)
 - [Pluralizing an English Word is Hard!](https://www.reddit.com/r/Python/comments/15527f5/pluralizing_an_english_word_is_hard/)
+- [How to update to Pip 23.2](https://www.reddit.com/r/Python/comments/1551ugr/how_to_update_to_pip_232/)
 <!-- BLOG-POST-LIST:END -->
