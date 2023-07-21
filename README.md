@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Programming for Beginners:Chapter 3 ,Collections and Data Structures](https://www.reddit.com/r/Python/comments/155hg4o/python_programming_for_beginnerschapter_3/)
+- [Tears of the Kingdom Compendium REST API](https://www.reddit.com/r/Python/comments/155h44d/tears_of_the_kingdom_compendium_rest_api/)
 - [Platform for managing teams device and servers access](https://www.reddit.com/r/Python/comments/155ea1f/platform_for_managing_teams_device_and_servers/)
 - [Macbook and Pycharm](https://www.reddit.com/r/Python/comments/155d0k2/macbook_and_pycharm/)
 - [Google Colab 101 Tutorial with Python — Tips, Tricks, and FAQ](https://www.reddit.com/r/Python/comments/155cc3y/google_colab_101_tutorial_with_python_tips_tricks/)
-- [working on making a programming language entirely from scratch](https://www.reddit.com/r/Python/comments/1557se9/working_on_making_a_programming_language_entirely/)
-- [Pluralizing an English Word is Hard!](https://www.reddit.com/r/Python/comments/15527f5/pluralizing_an_english_word_is_hard/)
 <!-- BLOG-POST-LIST:END -->
