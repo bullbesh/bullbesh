@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 722: Python dependencies for single-file scripts](https://www.reddit.com/r/Python/comments/156s81c/pep_722_python_dependencies_for_singlefile_scripts/)
+- [Review my JSON based DBMS](https://www.reddit.com/r/Python/comments/156rs11/review_my_json_based_dbms/)
 - [Alternatives for Editing Python-Generated SVG Graphics](https://www.reddit.com/r/Python/comments/156qfml/alternatives_for_editing_pythongenerated_svg/)
 - [I self-published a Trivia book using python, free this week on Amazon](https://www.reddit.com/r/Python/comments/156pjkp/i_selfpublished_a_trivia_book_using_python_free/)
 - [I recorded a crash course on Polars library of Python &lpar;Great library for working with big data&rpar; and uploaded it on Youtube](https://www.reddit.com/r/Python/comments/156ojqe/i_recorded_a_crash_course_on_polars_library_of/)
-- [Quick guide on how to use codingame for problem solving with python](https://www.reddit.com/r/Python/comments/156m0bb/quick_guide_on_how_to_use_codingame_for_problem/)
-- [An idea for partial string matches in structural pattern matching](https://www.reddit.com/r/Python/comments/156lswt/an_idea_for_partial_string_matches_in_structural/)
 <!-- BLOG-POST-LIST:END -->
