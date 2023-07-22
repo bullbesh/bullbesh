@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick guide on how to use codingame for problem solving with python](https://www.reddit.com/r/Python/comments/156m0bb/quick_guide_on_how_to_use_codingame_for_problem/)
+- [An idea for partial string matches in structural pattern matching](https://www.reddit.com/r/Python/comments/156lswt/an_idea_for_partial_string_matches_in_structural/)
 - [Made a simple text based Expense Tracker for my reusme](https://www.reddit.com/r/Python/comments/156is1j/made_a_simple_text_based_expense_tracker_for_my/)
 - [Sending mail with MS Graph and MSAL problem](https://www.reddit.com/r/Python/comments/156ipxv/sending_mail_with_ms_graph_and_msal_problem/)
 - [GitHub - r-aristov/simba-ps: Fast deterministic all-Python Lennard-Jones particle simulator that utilizes Numba for GPU-accelerated computation.](https://www.reddit.com/r/Python/comments/156gj8q/github_raristovsimbaps_fast_deterministic/)
-- [Update Python Function Extractor](https://www.reddit.com/r/Python/comments/156bcn3/update_python_function_extractor/)
-- [I made a one-page comprehensive dashboard using Fitbit API, influxdb, and Grafana. Code and setup instructions are available in the comments.](https://www.reddit.com/r/Python/comments/1569zcl/i_made_a_onepage_comprehensive_dashboard_using/)
 <!-- BLOG-POST-LIST:END -->
