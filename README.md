@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I create free tutorials about Python, Data Analysis, Data Visualization and Machine Learning on my YouTube channel](https://www.reddit.com/r/Python/comments/156ntjp/i_create_free_tutorials_about_python_data/)
+- [I self-published a Trivia book using python, free this week on Amazon](https://www.reddit.com/r/Python/comments/156pjkp/i_selfpublished_a_trivia_book_using_python_free/)
+- [I recorded a crash course on Polars library of Python &lpar;Great library for working with big data&rpar; and uploaded it on Youtube](https://www.reddit.com/r/Python/comments/156ojqe/i_recorded_a_crash_course_on_polars_library_of/)
 - [Quick guide on how to use codingame for problem solving with python](https://www.reddit.com/r/Python/comments/156m0bb/quick_guide_on_how_to_use_codingame_for_problem/)
 - [An idea for partial string matches in structural pattern matching](https://www.reddit.com/r/Python/comments/156lswt/an_idea_for_partial_string_matches_in_structural/)
 - [Made a simple text based Expense Tracker for my reusme](https://www.reddit.com/r/Python/comments/156is1j/made_a_simple_text_based_expense_tracker_for_my/)
-- [Sending mail with MS Graph and MSAL problem](https://www.reddit.com/r/Python/comments/156ipxv/sending_mail_with_ms_graph_and_msal_problem/)
 <!-- BLOG-POST-LIST:END -->
