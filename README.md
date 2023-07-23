@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/156zf3c/sunday_daily_thread_whats_everyone_working_on/)
+- [python tutorial not for total beginners](https://www.reddit.com/r/Python/comments/156z05r/python_tutorial_not_for_total_beginners/)
+- [Polars vs Pandas. Inside an AWS Lambda.](https://www.reddit.com/r/Python/comments/156yr2c/polars_vs_pandas_inside_an_aws_lambda/)
 - [achieving O&lpar;n log n&rpar; complexity on a problem that intuitively has to involve loops](https://www.reddit.com/r/Python/comments/156umnf/achieving_on_log_n_complexity_on_a_problem_that/)
 - [The Pure Python Web Framework Survey - July Posting](https://www.reddit.com/r/Python/comments/156sxav/the_pure_python_web_framework_survey_july_posting/)
-- [PEP 722: Python dependencies for single-file scripts](https://www.reddit.com/r/Python/comments/156s81c/pep_722_python_dependencies_for_singlefile_scripts/)
-- [Review my JSON based DBMS](https://www.reddit.com/r/Python/comments/156rs11/review_my_json_based_dbms/)
-- [Alternatives for Editing Python-Generated SVG Graphics](https://www.reddit.com/r/Python/comments/156qfml/alternatives_for_editing_pythongenerated_svg/)
 <!-- BLOG-POST-LIST:END -->
