@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m building an open-source tool for tracing APIs automatically within applications without any developer effort - looking for any feedback or suggestions.](https://www.reddit.com/r/Python/comments/157owll/im_building_an_opensource_tool_for_tracing_apis/)
+- [A Python module for terminal colors.](https://www.reddit.com/r/Python/comments/157o6fb/a_python_module_for_terminal_colors/)
+- [Three Questions about Python.](https://www.reddit.com/r/Python/comments/157nuij/three_questions_about_python/)
 - [Simple python menu](https://www.reddit.com/r/Python/comments/157m5is/simple_python_menu/)
 - [preventing nsfw keywords?](https://www.reddit.com/r/Python/comments/157jyj8/preventing_nsfw_keywords/)
-- [Python port of Klong array lang](https://www.reddit.com/r/Python/comments/157h5sk/python_port_of_klong_array_lang/)
-- [PyDPainter - A remake of Deluxe Paint by Electronic Arts in 1985, written in Python &amp; Pygame](https://www.reddit.com/r/Python/comments/157gyr6/pydpainter_a_remake_of_deluxe_paint_by_electronic/)
-- [Python vs Golang for DevOps platform](https://www.reddit.com/r/Python/comments/157el2l/python_vs_golang_for_devops_platform/)
 <!-- BLOG-POST-LIST:END -->
