@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduce TerraJet - an AWS Terraform template that helps Python Backend Developers save time in learning and deploying their Monolith application in AWS.](https://www.reddit.com/r/Python/comments/1572rtx/introduce_terrajet_an_aws_terraform_template_that/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/156zf3c/sunday_daily_thread_whats_everyone_working_on/)
 - [python tutorial not for total beginners](https://www.reddit.com/r/Python/comments/156z05r/python_tutorial_not_for_total_beginners/)
 - [Polars vs Pandas. Inside an AWS Lambda.](https://www.reddit.com/r/Python/comments/156yr2c/polars_vs_pandas_inside_an_aws_lambda/)
 - [achieving O&lpar;n log n&rpar; complexity on a problem that intuitively has to involve loops](https://www.reddit.com/r/Python/comments/156umnf/achieving_on_log_n_complexity_on_a_problem_that/)
-- [The Pure Python Web Framework Survey - July Posting](https://www.reddit.com/r/Python/comments/156sxav/the_pure_python_web_framework_survey_july_posting/)
 <!-- BLOG-POST-LIST:END -->
