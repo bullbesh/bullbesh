@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple python menu](https://www.reddit.com/r/Python/comments/157m5is/simple_python_menu/)
 - [preventing nsfw keywords?](https://www.reddit.com/r/Python/comments/157jyj8/preventing_nsfw_keywords/)
 - [Python port of Klong array lang](https://www.reddit.com/r/Python/comments/157h5sk/python_port_of_klong_array_lang/)
 - [PyDPainter - A remake of Deluxe Paint by Electronic Arts in 1985, written in Python &amp; Pygame](https://www.reddit.com/r/Python/comments/157gyr6/pydpainter_a_remake_of_deluxe_paint_by_electronic/)
 - [Python vs Golang for DevOps platform](https://www.reddit.com/r/Python/comments/157el2l/python_vs_golang_for_devops_platform/)
-- [FEniCS](https://www.reddit.com/r/Python/comments/157dszk/fenics/)
 <!-- BLOG-POST-LIST:END -->
