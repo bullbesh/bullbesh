@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/157uhxh/monday_daily_thread_project_ideas/)
+- [Ocean Odyssey: simple side scrolling pixel game using pygame](https://www.reddit.com/r/Python/comments/157u9el/ocean_odyssey_simple_side_scrolling_pixel_game/)
 - [A little ASGI service to convert html to text](https://www.reddit.com/r/Python/comments/157scaf/a_little_asgi_service_to_convert_html_to_text/)
 - [Sphinx README: Generate README.rst that renders beautifully on GitHub, PyPi, GitLab, and BitBucket](https://www.reddit.com/r/Python/comments/157qf1a/sphinx_readme_generate_readmerst_that_renders/)
 - [Python Programming for Beginners, Chapter 4: Functions](https://www.reddit.com/r/Python/comments/157q1ul/python_programming_for_beginners_chapter_4/)
-- [I&#39;m building an open-source tool for tracing APIs automatically within applications without any developer effort - looking for any feedback or suggestions.](https://www.reddit.com/r/Python/comments/157owll/im_building_an_opensource_tool_for_tracing_apis/)
-- [A Python module for terminal colors.](https://www.reddit.com/r/Python/comments/157o6fb/a_python_module_for_terminal_colors/)
 <!-- BLOG-POST-LIST:END -->
