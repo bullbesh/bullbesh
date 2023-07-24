@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Problem with extracting text from PDF in python with pyPDF2](https://www.reddit.com/r/Python/comments/158hdrs/problem_with_extracting_text_from_pdf_in_python/)
-- [Python trick - bind function and enum argument](https://www.reddit.com/r/Python/comments/158ex8d/python_trick_bind_function_and_enum_argument/)
-- [PyArrow backed strings are the default in Dask DataFrames for Dask &gt;=2023.7.1](https://www.reddit.com/r/Python/comments/158efvq/pyarrow_backed_strings_are_the_default_in_dask/)
-- [A Python tool to add fancy scrolling word subtitles to videos for free using OpenAI&#39;s Whisper and Movipey](https://www.reddit.com/r/Python/comments/158b6u1/a_python_tool_to_add_fancy_scrolling_word/)
-- [Thinking of shifting career from web dev to something else. Need advice.](https://www.reddit.com/r/Python/comments/1589r60/thinking_of_shifting_career_from_web_dev_to/)
+- [Time based cross validation](https://www.reddit.com/r/Python/comments/158jtjf/time_based_cross_validation/)
+- [CoPilot or Code Whisperer or something else?](https://www.reddit.com/r/Python/comments/158jcls/copilot_or_code_whisperer_or_something_else/)
+- [I want to learn ML and bot making with python](https://www.reddit.com/r/Python/comments/158j8ln/i_want_to_learn_ml_and_bot_making_with_python/)
+- [2,000 free downloads available for &quot;Web Scraping Techniques for Developers&quot; online video course. Beginner friendly. Focused on Python tools and techniques. &lpar;July 2023&rpar;](https://www.reddit.com/r/Python/comments/158j4yc/2000_free_downloads_available_for_web_scraping/)
+- [Mastering Functional Programming in Python](https://www.reddit.com/r/Python/comments/158iupi/mastering_functional_programming_in_python/)
 <!-- BLOG-POST-LIST:END -->
