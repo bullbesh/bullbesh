@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why won’t this work](https://www.reddit.com/r/Python/comments/158n5fl/why_wont_this_work/)
 - [Code Search Infra for an AI junior developer - in Python](https://www.reddit.com/r/Python/comments/158lpdn/code_search_infra_for_an_ai_junior_developer_in/)
 - [Python: Uncovering the Overlooked Core Functionalities](https://www.reddit.com/r/Python/comments/158lmca/python_uncovering_the_overlooked_core/)
 - [Soft Body Physics](https://www.reddit.com/r/Python/comments/158l6ob/soft_body_physics/)
 - [Ai](https://www.reddit.com/r/Python/comments/158knxg/ai/)
-- [How To Use a Proxy With Python Requests](https://www.reddit.com/r/Python/comments/158kkf1/how_to_use_a_proxy_with_python_requests/)
 <!-- BLOG-POST-LIST:END -->
