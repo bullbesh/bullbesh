@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Differences and Overlaps Between Web Development and Software Development](https://www.reddit.com/r/Python/comments/15854cq/exploring_the_differences_and_overlaps_between/)
 - [Fluke, a simple API to object storage and message queues in the cloud](https://www.reddit.com/r/Python/comments/1584aor/fluke_a_simple_api_to_object_storage_and_message/)
 - [WikiChangeWatcher: real-time monitoring of all Wikipedia page edits](https://www.reddit.com/r/Python/comments/1581yje/wikichangewatcher_realtime_monitoring_of_all/)
 - [Machine learning post](https://www.reddit.com/r/Python/comments/1580f2g/machine_learning_post/)
 - [Why Python has different scopes?](https://www.reddit.com/r/Python/comments/157zt2p/why_python_has_different_scopes/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/157uhxh/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
