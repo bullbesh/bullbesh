@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Get a thorough understanding of Python file systems and disk management from this article](https://www.reddit.com/r/Python/comments/1587m49/get_a_thorough_understanding_of_python_file/)
 - [How to extract investment data without any API with python?](https://www.reddit.com/r/Python/comments/1585vp6/how_to_extract_investment_data_without_any_api/)
 - [A Python tool to search visually similar images in the command line using AI](https://www.reddit.com/r/Python/comments/1585ru7/a_python_tool_to_search_visually_similar_images/)
 - [Exploring the Differences and Overlaps Between Web Development and Software Development](https://www.reddit.com/r/Python/comments/15854cq/exploring_the_differences_and_overlaps_between/)
 - [Fluke, a simple API to object storage and message queues in the cloud](https://www.reddit.com/r/Python/comments/1584aor/fluke_a_simple_api_to_object_storage_and_message/)
-- [WikiChangeWatcher: real-time monitoring of all Wikipedia page edits](https://www.reddit.com/r/Python/comments/1581yje/wikichangewatcher_realtime_monitoring_of_all/)
 <!-- BLOG-POST-LIST:END -->
