@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Time based cross validation](https://www.reddit.com/r/Python/comments/158jtjf/time_based_cross_validation/)
-- [CoPilot or Code Whisperer or something else?](https://www.reddit.com/r/Python/comments/158jcls/copilot_or_code_whisperer_or_something_else/)
-- [I want to learn ML and bot making with python](https://www.reddit.com/r/Python/comments/158j8ln/i_want_to_learn_ml_and_bot_making_with_python/)
-- [2,000 free downloads available for &quot;Web Scraping Techniques for Developers&quot; online video course. Beginner friendly. Focused on Python tools and techniques. &lpar;July 2023&rpar;](https://www.reddit.com/r/Python/comments/158j4yc/2000_free_downloads_available_for_web_scraping/)
-- [Mastering Functional Programming in Python](https://www.reddit.com/r/Python/comments/158iupi/mastering_functional_programming_in_python/)
+- [Code Search Infra for an AI junior developer - in Python](https://www.reddit.com/r/Python/comments/158lpdn/code_search_infra_for_an_ai_junior_developer_in/)
+- [Python: Uncovering the Overlooked Core Functionalities](https://www.reddit.com/r/Python/comments/158lmca/python_uncovering_the_overlooked_core/)
+- [Soft Body Physics](https://www.reddit.com/r/Python/comments/158l6ob/soft_body_physics/)
+- [Ai](https://www.reddit.com/r/Python/comments/158knxg/ai/)
+- [How To Use a Proxy With Python Requests](https://www.reddit.com/r/Python/comments/158kkf1/how_to_use_a_proxy_with_python_requests/)
 <!-- BLOG-POST-LIST:END -->
