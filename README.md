@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pattern Recognition in images](https://www.reddit.com/r/Python/comments/159nvr4/pattern_recognition_in_images/)
 - [The costly mistake so many make with numpy and pandas](https://www.reddit.com/r/Python/comments/159krlt/the_costly_mistake_so_many_make_with_numpy_and/)
 - [important](https://www.reddit.com/r/Python/comments/159k9w3/important/)
 - [Small pet project a library for image collages](https://www.reddit.com/r/Python/comments/159jal7/small_pet_project_a_library_for_image_collages/)
 - [Python&#39;s simplicity is what makes it overwhelming to learn.](https://www.reddit.com/r/Python/comments/159fahi/pythons_simplicity_is_what_makes_it_overwhelming/)
-- [Python Parallelization - Threads vs. Processes](https://www.reddit.com/r/Python/comments/159f2kg/python_parallelization_threads_vs_processes/)
 <!-- BLOG-POST-LIST:END -->
