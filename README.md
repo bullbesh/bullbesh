@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I think python is either toy or kitchen-sink programming language](https://www.reddit.com/r/Python/comments/1598krw/i_think_python_is_either_toy_or_kitchensink/)
 - [GPT-4 function calling can label hospital price data](https://www.reddit.com/r/Python/comments/1597i8b/gpt4_function_calling_can_label_hospital_price/)
 - [Build a news App using Django](https://www.reddit.com/r/Python/comments/1595x7d/build_a_news_app_using_django/)
 - [Python FastAPI Microservices with Polylith](https://www.reddit.com/r/Python/comments/15959vt/python_fastapi_microservices_with_polylith/)
 - [Is PyCon Japan usually &lpar;at least partly&rpar; an English-speaking event?](https://www.reddit.com/r/Python/comments/1594i9l/is_pycon_japan_usually_at_least_partly_an/)
-- [I made an &quot;add-on&quot; for Click called CCL: Click Command Loader. This will load commands from a folder and keep each commands in their own file.](https://www.reddit.com/r/Python/comments/1594cce/i_made_an_addon_for_click_called_ccl_click/)
 <!-- BLOG-POST-LIST:END -->
