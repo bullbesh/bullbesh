@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Low retention span? That is why I made this Django series](https://www.reddit.com/r/Python/comments/1592qmm/low_retention_span_that_is_why_i_made_this_django/)
+- [I made an &quot;add-on&quot; for Click called CCL: Click Command Loader. This will load commands from a folder and keep each commands in their own file.](https://www.reddit.com/r/Python/comments/1594cce/i_made_an_addon_for_click_called_ccl_click/)
+- [Making Minecraft with Python &amp; Ursina](https://www.reddit.com/r/Python/comments/1593kgd/making_minecraft_with_python_ursina/)
 - [Statistical Modeling with Python: Comparison of Popular Libraries &lpar;NumPy &amp; Pandas, Matplotlib &amp; Seaborn, Statsmodels, etc.&rpar;](https://www.reddit.com/r/Python/comments/1591u5o/statistical_modeling_with_python_comparison_of/)
 - [🐍🌐 Don&#39;t miss out on the Python Online Meetup - Sign up now for an inspiring and engaging Python event!](https://www.reddit.com/r/Python/comments/1590z5k/dont_miss_out_on_the_python_online_meetup_sign_up/)
 - [Securing PyTorch Models with eBPF](https://www.reddit.com/r/Python/comments/158zdz7/securing_pytorch_models_with_ebpf/)
-- [Basic Linear Regression with Scikit-Learn](https://www.reddit.com/r/Python/comments/158ywxu/basic_linear_regression_with_scikitlearn/)
 <!-- BLOG-POST-LIST:END -->
