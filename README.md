@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made an autonomous agent that writes code](https://www.reddit.com/r/Python/comments/158t4qm/i_made_an_autonomous_agent_that_writes_code/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/158rkkb/tuesday_daily_thread_advanced_questions/)
 - [whats the best ide to make a game engine in python?](https://www.reddit.com/r/Python/comments/158o33b/whats_the_best_ide_to_make_a_game_engine_in_python/)
 - [IDE for Python Data Analysis](https://www.reddit.com/r/Python/comments/158nwfk/ide_for_python_data_analysis/)
 - [Why won’t this work](https://www.reddit.com/r/Python/comments/158n5fl/why_wont_this_work/)
-- [Code Search Infra for an AI junior developer - in Python](https://www.reddit.com/r/Python/comments/158lpdn/code_search_infra_for_an_ai_junior_developer_in/)
-- [Python: Uncovering the Overlooked Core Functionalities](https://www.reddit.com/r/Python/comments/158lmca/python_uncovering_the_overlooked_core/)
 <!-- BLOG-POST-LIST:END -->
