@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a news App using Django](https://www.reddit.com/r/Python/comments/1595x7d/build_a_news_app_using_django/)
 - [Python FastAPI Microservices with Polylith](https://www.reddit.com/r/Python/comments/15959vt/python_fastapi_microservices_with_polylith/)
 - [Is PyCon Japan usually &lpar;at least partly&rpar; an English-speaking event?](https://www.reddit.com/r/Python/comments/1594i9l/is_pycon_japan_usually_at_least_partly_an/)
 - [I made an &quot;add-on&quot; for Click called CCL: Click Command Loader. This will load commands from a folder and keep each commands in their own file.](https://www.reddit.com/r/Python/comments/1594cce/i_made_an_addon_for_click_called_ccl_click/)
 - [Making Minecraft with Python &amp; Ursina](https://www.reddit.com/r/Python/comments/1593kgd/making_minecraft_with_python_ursina/)
-- [Statistical Modeling with Python: Comparison of Popular Libraries &lpar;NumPy &amp; Pandas, Matplotlib &amp; Seaborn, Statsmodels, etc.&rpar;](https://www.reddit.com/r/Python/comments/1591u5o/statistical_modeling_with_python_comparison_of/)
 <!-- BLOG-POST-LIST:END -->
