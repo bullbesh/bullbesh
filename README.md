@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Breaking Down the Hyperbolic Buzz: An In-Depth Review of the &#39;Leaked&#39; GPT-4 Architecture &amp; a Mixture of Experts Literature Review with Code](https://www.reddit.com/r/Python/comments/159ctgi/breaking_down_the_hyperbolic_buzz_an_indepth/)
+- [A cool hack to transpose a matrix in just 10 characters code .](https://www.reddit.com/r/Python/comments/159el09/a_cool_hack_to_transpose_a_matrix_in_just_10/)
+- [Comparing Files and Directories Using filecmp Module in Python](https://www.reddit.com/r/Python/comments/159ei1l/comparing_files_and_directories_using_filecmp/)
+- [PolyLock - Code obfuscation &amp; locking](https://www.reddit.com/r/Python/comments/159efcc/polylock_code_obfuscation_locking/)
+- [Books on Data analysis &amp; data science with Python](https://www.reddit.com/r/Python/comments/159df5f/books_on_data_analysis_data_science_with_python/)
 - [A reddit account creator for r/place](https://www.reddit.com/r/Python/comments/159cpz1/a_reddit_account_creator_for_rplace/)
-- [One day in a developer life...](https://www.reddit.com/r/Python/comments/159auoz/one_day_in_a_developer_life/)
-- [Textual Paint: MS Paint... in your terminal.](https://www.reddit.com/r/Python/comments/159ahzy/textual_paint_ms_paint_in_your_terminal/)
-- [Blenderbot: A chatbot that can run locally on your computer](https://www.reddit.com/r/Python/comments/159adnu/blenderbot_a_chatbot_that_can_run_locally_on_your/)
 <!-- BLOG-POST-LIST:END -->
