@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python&#39;s simplicity is what makes it overwhelming to learn.](https://www.reddit.com/r/Python/comments/159fahi/pythons_simplicity_is_what_makes_it_overwhelming/)
+- [Python Parallelization - Threads vs. Processes](https://www.reddit.com/r/Python/comments/159f2kg/python_parallelization_threads_vs_processes/)
+- [Measuring the time complexity of your code never been so simple](https://www.reddit.com/r/Python/comments/159f0de/measuring_the_time_complexity_of_your_code_never/)
 - [A cool hack to transpose a matrix in just 10 characters code .](https://www.reddit.com/r/Python/comments/159el09/a_cool_hack_to_transpose_a_matrix_in_just_10/)
 - [Comparing Files and Directories Using filecmp Module in Python](https://www.reddit.com/r/Python/comments/159ei1l/comparing_files_and_directories_using_filecmp/)
-- [PolyLock - Code obfuscation &amp; locking](https://www.reddit.com/r/Python/comments/159efcc/polylock_code_obfuscation_locking/)
-- [Books on Data analysis &amp; data science with Python](https://www.reddit.com/r/Python/comments/159df5f/books_on_data_analysis_data_science_with_python/)
-- [A reddit account creator for r/place](https://www.reddit.com/r/Python/comments/159cpz1/a_reddit_account_creator_for_rplace/)
 <!-- BLOG-POST-LIST:END -->
