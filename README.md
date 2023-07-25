@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Statistical Modeling with Python: Comparison of Popular Libraries &lpar;NumPy &amp; Pandas, Matplotlib &amp; Seaborn, Statsmodels, etc.&rpar;](https://www.reddit.com/r/Python/comments/1591u5o/statistical_modeling_with_python_comparison_of/)
+- [🐍🌐 Don&#39;t miss out on the Python Online Meetup - Sign up now for an inspiring and engaging Python event!](https://www.reddit.com/r/Python/comments/1590z5k/dont_miss_out_on_the_python_online_meetup_sign_up/)
 - [Securing PyTorch Models with eBPF](https://www.reddit.com/r/Python/comments/158zdz7/securing_pytorch_models_with_ebpf/)
 - [Basic Linear Regression with Scikit-Learn](https://www.reddit.com/r/Python/comments/158ywxu/basic_linear_regression_with_scikitlearn/)
 - [Building a Tamagotchi-like Baby-AGI, Minimal Python Code](https://www.reddit.com/r/Python/comments/158v4oa/building_a_tamagotchilike_babyagi_minimal_python/)
-- [I made an autonomous agent that writes code](https://www.reddit.com/r/Python/comments/158t4qm/i_made_an_autonomous_agent_that_writes_code/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/158rkkb/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
