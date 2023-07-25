@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Tamagotchi-like Baby-AGI, Minimal Python Code](https://www.reddit.com/r/Python/comments/158v4oa/building_a_tamagotchilike_babyagi_minimal_python/)
 - [I made an autonomous agent that writes code](https://www.reddit.com/r/Python/comments/158t4qm/i_made_an_autonomous_agent_that_writes_code/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/158rkkb/tuesday_daily_thread_advanced_questions/)
 - [whats the best ide to make a game engine in python?](https://www.reddit.com/r/Python/comments/158o33b/whats_the_best_ide_to_make_a_game_engine_in_python/)
 - [IDE for Python Data Analysis](https://www.reddit.com/r/Python/comments/158nwfk/ide_for_python_data_analysis/)
-- [Why won’t this work](https://www.reddit.com/r/Python/comments/158n5fl/why_wont_this_work/)
 <!-- BLOG-POST-LIST:END -->
