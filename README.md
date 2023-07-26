@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python People ep 3: Brett Cannon - Public Speaking, Canada, Fountain Pens, Community](https://www.reddit.com/r/Python/comments/15abit0/python_people_ep_3_brett_cannon_public_speaking/)
 - [Script for automating the filling out of surveys?](https://www.reddit.com/r/Python/comments/15aa8rl/script_for_automating_the_filling_out_of_surveys/)
 - [what are some good resources &lpar;free&rpar; to learn python for a beginner](https://www.reddit.com/r/Python/comments/15a94l9/what_are_some_good_resources_free_to_learn_python/)
 - [Python Dataclass Tutorial](https://www.reddit.com/r/Python/comments/15a81p9/python_dataclass_tutorial/)
 - [YDEP &lpar;Youtube Show Poster&rpar;](https://www.reddit.com/r/Python/comments/15a7oqr/ydep_youtube_show_poster/)
-- [Recommend python data science project ideas for final year](https://www.reddit.com/r/Python/comments/15a7o2j/recommend_python_data_science_project_ideas_for/)
 <!-- BLOG-POST-LIST:END -->
