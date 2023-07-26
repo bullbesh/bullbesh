@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Free Python OSS tool for managing IAM](https://www.reddit.com/r/Python/comments/15a5zy5/free_python_oss_tool_for_managing_iam/)
-- [the man ?](https://www.reddit.com/r/Python/comments/15a4rk6/the_man/)
-- [Logging in Python: A Comparison of the Top 6 Libraries](https://www.reddit.com/r/Python/comments/15a4bh8/logging_in_python_a_comparison_of_the_top_6/)
-- [Presenting SimplePyDash: Real-Time Data Plotting Made Simple!](https://www.reddit.com/r/Python/comments/15a3t45/presenting_simplepydash_realtime_data_plotting/)
-- [Simple Post-Quantum Encryption with Python](https://www.reddit.com/r/Python/comments/15a0ubp/simple_postquantum_encryption_with_python/)
+- [Python Dataclass Tutorial](https://www.reddit.com/r/Python/comments/15a81p9/python_dataclass_tutorial/)
+- [YDEP &lpar;Youtube Show Poster&rpar;](https://www.reddit.com/r/Python/comments/15a7oqr/ydep_youtube_show_poster/)
+- [Recommend python data science project ideas for final year](https://www.reddit.com/r/Python/comments/15a7o2j/recommend_python_data_science_project_ideas_for/)
+- [Recommendation of Python Web Development course](https://www.reddit.com/r/Python/comments/15a7n47/recommendation_of_python_web_development_course/)
+- [Introduction to Statistical Learning with Python released](https://www.reddit.com/r/Python/comments/15a7dk8/introduction_to_statistical_learning_with_python/)
 <!-- BLOG-POST-LIST:END -->
