@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Post-Quantum Encryption with Python](https://www.reddit.com/r/Python/comments/15a0ubp/simple_postquantum_encryption_with_python/)
 - [Full Stack Python training in Tronix technologies](https://www.reddit.com/r/Python/comments/159wb7a/full_stack_python_training_in_tronix_technologies/)
 - [The Future of Web Development is Here. This App converts your text into a Web App with Zero Coding!](https://www.reddit.com/r/Python/comments/159tkaw/the_future_of_web_development_is_here_this_app/)
 - [Published a simple &#39;MCQ Generator&#39; using openAI on PyPI](https://www.reddit.com/r/Python/comments/159qnat/published_a_simple_mcq_generator_using_openai_on/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/159pmoq/wednesday_daily_thread_beginner_questions/)
-- [Pattern Recognition in images](https://www.reddit.com/r/Python/comments/159nvr4/pattern_recognition_in_images/)
 <!-- BLOG-POST-LIST:END -->
