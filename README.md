@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Published a simple &#39;MCQ Generator&#39; using openAI on PyPI](https://www.reddit.com/r/Python/comments/159qnat/published_a_simple_mcq_generator_using_openai_on/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/159pmoq/wednesday_daily_thread_beginner_questions/)
 - [Pattern Recognition in images](https://www.reddit.com/r/Python/comments/159nvr4/pattern_recognition_in_images/)
 - [The costly mistake so many make with numpy and pandas](https://www.reddit.com/r/Python/comments/159krlt/the_costly_mistake_so_many_make_with_numpy_and/)
 - [important](https://www.reddit.com/r/Python/comments/159k9w3/important/)
-- [Small pet project a library for image collages](https://www.reddit.com/r/Python/comments/159jal7/small_pet_project_a_library_for_image_collages/)
-- [Python&#39;s simplicity is what makes it overwhelming to learn.](https://www.reddit.com/r/Python/comments/159fahi/pythons_simplicity_is_what_makes_it_overwhelming/)
 <!-- BLOG-POST-LIST:END -->
