@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Rich Inspect to interrogate Python objects](https://www.reddit.com/r/Python/comments/15b0fsl/using_rich_inspect_to_interrogate_python_objects/)
+- [where: analyse gps data of your photos](https://www.reddit.com/r/Python/comments/15azz93/where_analyse_gps_data_of_your_photos/)
 - [GitHub - Distributive-Network/PythonMonkey: A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.](https://www.reddit.com/r/Python/comments/15ayczk/github_distributivenetworkpythonmonkey_a_mozilla/)
 - [How to make money with Python ?](https://www.reddit.com/r/Python/comments/15apsfk/how_to_make_money_with_python/)
 - [Numpy full course in 45 mins](https://www.reddit.com/r/Python/comments/15apfy9/numpy_full_course_in_45_mins/)
-- [Payment Processing](https://www.reddit.com/r/Python/comments/15aov3r/payment_processing/)
-- [How do I select the way to install JupyuterLab? &lpar;conda, mamba, pip, pipenv, flatpak...&rpar;](https://www.reddit.com/r/Python/comments/15aobo2/how_do_i_select_the_way_to_install_jupyuterlab/)
 <!-- BLOG-POST-LIST:END -->
