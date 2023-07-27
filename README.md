@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/15am4a6/thursday_daily_thread_python_careers_courses_and/)
+- [Work Task](https://www.reddit.com/r/Python/comments/15am2o5/work_task/)
 - [How to train a neural net on a GPU in the cloud](https://www.reddit.com/r/Python/comments/15akqr3/how_to_train_a_neural_net_on_a_gpu_in_the_cloud/)
 - [Async IO in Python: A Practical Guide to Efficient API Calls](https://www.reddit.com/r/Python/comments/15ah99t/async_io_in_python_a_practical_guide_to_efficient/)
 - [It is said that &#39;in Python, everything is an object&#39;. I took that statement literally.](https://www.reddit.com/r/Python/comments/15aebrf/it_is_said_that_in_python_everything_is_an_object/)
-- [I m a 3D artist for years but just learned Python for a few days, try running this age calculator from me, and do critic me where can i do better!](https://www.reddit.com/r/Python/comments/15adjka/i_m_a_3d_artist_for_years_but_just_learned_python/)
-- [Send and receive SMS for free &lpar;self-hosted&rpar;](https://www.reddit.com/r/Python/comments/15adih9/send_and_receive_sms_for_free_selfhosted/)
 <!-- BLOG-POST-LIST:END -->
