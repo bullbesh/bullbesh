@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My firm is afraid of Anaconda/Jupyter Notebook](https://www.reddit.com/r/Python/comments/15b6j1n/my_firm_is_afraid_of_anacondajupyter_notebook/)
 - [Getting modules to extract form field data from a pdf](https://www.reddit.com/r/Python/comments/15b57u8/getting_modules_to_extract_form_field_data_from_a/)
 - [How to extract data from pdf files](https://www.reddit.com/r/Python/comments/15b4s2t/how_to_extract_data_from_pdf_files/)
 - [Python exam ! Tips needed](https://www.reddit.com/r/Python/comments/15b311s/python_exam_tips_needed/)
 - [Using Rich Inspect to interrogate Python objects](https://www.reddit.com/r/Python/comments/15b0fsl/using_rich_inspect_to_interrogate_python_objects/)
-- [where: analyse gps data of your photos](https://www.reddit.com/r/Python/comments/15azz93/where_analyse_gps_data_of_your_photos/)
 <!-- BLOG-POST-LIST:END -->
