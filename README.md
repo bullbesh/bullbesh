@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - srbhr/Resume-Matcher: Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.](https://www.reddit.com/r/Python/comments/15b94e5/github_srbhrresumematcher_open_source_free_ats/)
+- [Pandas - Issue regarding sorting of index specified in pivot method](https://www.reddit.com/r/Python/comments/15b8dqu/pandas_issue_regarding_sorting_of_index_specified/)
+- [Introduction](https://www.reddit.com/r/Python/comments/15b813c/introduction/)
 - [My firm is afraid of Anaconda/Jupyter Notebook](https://www.reddit.com/r/Python/comments/15b6j1n/my_firm_is_afraid_of_anacondajupyter_notebook/)
 - [Getting modules to extract form field data from a pdf](https://www.reddit.com/r/Python/comments/15b57u8/getting_modules_to_extract_form_field_data_from_a/)
-- [How to extract data from pdf files](https://www.reddit.com/r/Python/comments/15b4s2t/how_to_extract_data_from_pdf_files/)
-- [Python exam ! Tips needed](https://www.reddit.com/r/Python/comments/15b311s/python_exam_tips_needed/)
-- [Using Rich Inspect to interrogate Python objects](https://www.reddit.com/r/Python/comments/15b0fsl/using_rich_inspect_to_interrogate_python_objects/)
 <!-- BLOG-POST-LIST:END -->
