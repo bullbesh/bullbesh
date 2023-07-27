@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python exam ! Tips needed](https://www.reddit.com/r/Python/comments/15b311s/python_exam_tips_needed/)
 - [Using Rich Inspect to interrogate Python objects](https://www.reddit.com/r/Python/comments/15b0fsl/using_rich_inspect_to_interrogate_python_objects/)
 - [where: analyse gps data of your photos](https://www.reddit.com/r/Python/comments/15azz93/where_analyse_gps_data_of_your_photos/)
 - [GitHub - Distributive-Network/PythonMonkey: A Mozilla SpiderMonkey JavaScript engine embedded into the Python VM, using the Python engine to provide the JS host environment.](https://www.reddit.com/r/Python/comments/15ayczk/github_distributivenetworkpythonmonkey_a_mozilla/)
 - [How to make money with Python ?](https://www.reddit.com/r/Python/comments/15apsfk/how_to_make_money_with_python/)
-- [Numpy full course in 45 mins](https://www.reddit.com/r/Python/comments/15apfy9/numpy_full_course_in_45_mins/)
 <!-- BLOG-POST-LIST:END -->
