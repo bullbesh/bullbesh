@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Steering Council intend to accept PEP 703 - no-GIL to be the default](https://www.reddit.com/r/Python/comments/15c98dm/python_steering_council_intend_to_accept_pep_703/)
-- [Why python documentation is hard to read?](https://www.reddit.com/r/Python/comments/15c58xx/why_python_documentation_is_hard_to_read/)
-- [Why is there no single, simple solution to create a Python package?](https://www.reddit.com/r/Python/comments/15c4psx/why_is_there_no_single_simple_solution_to_create/)
-- [Repeat try-except statement N times](https://www.reddit.com/r/Python/comments/15c0mx7/repeat_tryexcept_statement_n_times/)
-- [Want to Know, How to share Jupyter Notebook with others, including exporting and converting notebooks to different formats? Checkout this Blog Post.](https://www.reddit.com/r/Python/comments/15c0c4k/want_to_know_how_to_share_jupyter_notebook_with/)
+- [Ctypes with c dll](https://www.reddit.com/r/Python/comments/15cahak/ctypes_with_c_dll/)
+- [Parallel Scraping - Advice?](https://www.reddit.com/r/Python/comments/15ca4s3/parallel_scraping_advice/)
+- [Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them. Built in Python](https://www.reddit.com/r/Python/comments/15c9z64/open_source_free_ats_tool_to_compare_resumes_with/)
+- [I made a website for all Fitbit owners where you can view an interactive wellness report and download it for free without any premium membership. Please give it a try.](https://www.reddit.com/r/Python/comments/15c9td7/i_made_a_website_for_all_fitbit_owners_where_you/)
+- [The Python Steering Council posts intent to approve PEP 703: making the GIL optional](https://www.reddit.com/r/Python/comments/15c9obk/the_python_steering_council_posts_intent_to/)
 <!-- BLOG-POST-LIST:END -->
