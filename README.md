@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Textual to Build a ChatGPT TUI App](https://www.reddit.com/r/Python/comments/15bxlw7/using_textual_to_build_a_chatgpt_tui_app/)
+- [Creating Our Own Chat GPT](https://www.reddit.com/r/Python/comments/15bxart/creating_our_own_chat_gpt/)
 - [Python packaging with conda](https://www.reddit.com/r/Python/comments/15bw2gn/python_packaging_with_conda/)
 - [Better Ascii quality?](https://www.reddit.com/r/Python/comments/15bv8zs/better_ascii_quality/)
 - [Mastering Tailwind CSS: A Comprehensive Guide to Efficient Web Development and Design](https://www.reddit.com/r/Python/comments/15bt2og/mastering_tailwind_css_a_comprehensive_guide_to/)
-- [multi-producer multi-consumer channels for message passing python library](https://www.reddit.com/r/Python/comments/15bqj0t/multiproducer_multiconsumer_channels_for_message/)
-- [I just started learning Python, I need help. How to resolve the errors?](https://www.reddit.com/r/Python/comments/15bplx1/i_just_started_learning_python_i_need_help_how_to/)
 <!-- BLOG-POST-LIST:END -->
