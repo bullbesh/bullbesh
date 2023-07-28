@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why python documentation is hard to read?](https://www.reddit.com/r/Python/comments/15c58xx/why_python_documentation_is_hard_to_read/)
 - [Why is there no single, simple solution to create a Python package?](https://www.reddit.com/r/Python/comments/15c4psx/why_is_there_no_single_simple_solution_to_create/)
 - [Repeat try-except statement N times](https://www.reddit.com/r/Python/comments/15c0mx7/repeat_tryexcept_statement_n_times/)
 - [Want to Know, How to share Jupyter Notebook with others, including exporting and converting notebooks to different formats? Checkout this Blog Post.](https://www.reddit.com/r/Python/comments/15c0c4k/want_to_know_how_to_share_jupyter_notebook_with/)
 - [Python Priority Decorators Library](https://www.reddit.com/r/Python/comments/15bzh62/python_priority_decorators_library/)
-- [Using Textual to Build a ChatGPT TUI App](https://www.reddit.com/r/Python/comments/15bxlw7/using_textual_to_build_a_chatgpt_tui_app/)
 <!-- BLOG-POST-LIST:END -->
