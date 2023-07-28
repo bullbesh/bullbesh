@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Replaces All Operators with Walrus Operator](https://www.reddit.com/r/Python/comments/15bn1sy/ai_replaces_all_operators_with_walrus_operator/)
+- [api-usage: An Open-Source Flask tool for tracking OpenAI API token usage and costs.](https://www.reddit.com/r/Python/comments/15bmzj0/apiusage_an_opensource_flask_tool_for_tracking/)
+- [I recorded a 1+ hour Python Plotly course &lpar;Data Visualization library&rpar; and shared it on YouTube](https://www.reddit.com/r/Python/comments/15bmrlb/i_recorded_a_1_hour_python_plotly_course_data/)
+- [CyRK – An Open-Source, Cython and Numba Based Runge-Kutta Integrator That Works With Python Functions](https://www.reddit.com/r/Python/comments/15bmq2x/cyrk_an_opensource_cython_and_numba_based/)
 - [Python in a cloud environment](https://www.reddit.com/r/Python/comments/15bkhdn/python_in_a_cloud_environment/)
-- [Automating DFIR - How to series on Programming libtsk with Python Part 1](https://www.reddit.com/r/Python/comments/15bdbwj/automating_dfir_how_to_series_on_programming/)
-- [GitHub - srbhr/Resume-Matcher: Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.](https://www.reddit.com/r/Python/comments/15b94e5/github_srbhrresumematcher_open_source_free_ats/)
-- [Introduction](https://www.reddit.com/r/Python/comments/15b813c/introduction/)
-- [My firm is afraid of Anaconda/Jupyter Notebook](https://www.reddit.com/r/Python/comments/15b6j1n/my_firm_is_afraid_of_anacondajupyter_notebook/)
 <!-- BLOG-POST-LIST:END -->
