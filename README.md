@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automatic Mail in Python and images](https://www.reddit.com/r/Python/comments/15cw4m2/automatic_mail_in_python_and_images/)
+- [🔍🎩 Switch cases/Match Cases in Python Programming - Tutorial #8 Going Viral! 🚀💥| #codewithscientist](https://www.reddit.com/r/Python/comments/15cvv39/switch_casesmatch_cases_in_python_programming/)
 - [A Cybersecurity Attack Simulation Library for testing and strengthening system defenses.](https://www.reddit.com/r/Python/comments/15ctbvu/a_cybersecurity_attack_simulation_library_for/)
 - [I could never remember argparse syntax, so I wrote ezargs.](https://www.reddit.com/r/Python/comments/15crx5a/i_could_never_remember_argparse_syntax_so_i_wrote/)
 - [LPython: Novel, Fast, Retargetable Python Compiler. &lpar;Julia, LLVM, C, C++, WASM and x86 as a backend&rpar;](https://www.reddit.com/r/Python/comments/15cpc3l/lpython_novel_fast_retargetable_python_compiler/)
-- [Why is comparing string to bytes allowed when it is a tautology](https://www.reddit.com/r/Python/comments/15cpaah/why_is_comparing_string_to_bytes_allowed_when_it/)
-- [My Fourth Project! :&rpar;&rpar;&rpar;](https://www.reddit.com/r/Python/comments/15cp0nd/my_fourth_project/)
 <!-- BLOG-POST-LIST:END -->
