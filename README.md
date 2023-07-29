@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [python in humanities](https://www.reddit.com/r/Python/comments/15d2u71/python_in_humanities/)
+- [Abstract Webtools](https://www.reddit.com/r/Python/comments/15d208s/abstract_webtools/)
 - [We created an open-source semantic search Python package on top of Postgres](https://www.reddit.com/r/Python/comments/15d1aa5/we_created_an_opensource_semantic_search_python/)
 - [PandaPlyr - Pipe Syntax for Pandas](https://www.reddit.com/r/Python/comments/15cz0qh/pandaplyr_pipe_syntax_for_pandas/)
 - [Saving time and easily managing files is possible through FinderZ - a full file management library in Python.](https://www.reddit.com/r/Python/comments/15cyndz/saving_time_and_easily_managing_files_is_possible/)
-- [Automatic Mail in Python and images](https://www.reddit.com/r/Python/comments/15cw4m2/automatic_mail_in_python_and_images/)
-- [🔍🎩 Switch cases/Match Cases in Python Programming - Tutorial #8 Going Viral! 🚀💥| #codewithscientist](https://www.reddit.com/r/Python/comments/15cvv39/switch_casesmatch_cases_in_python_programming/)
 <!-- BLOG-POST-LIST:END -->
