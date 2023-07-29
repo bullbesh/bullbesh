@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [LPython: Novel, Fast, Retargetable Python Compiler. &lpar;Julia, LLVM, C, C++, WASM and x86 as a backend&rpar;](https://www.reddit.com/r/Python/comments/15cpc3l/lpython_novel_fast_retargetable_python_compiler/)
+- [Why is comparing string to bytes allowed when it is a tautology](https://www.reddit.com/r/Python/comments/15cpaah/why_is_comparing_string_to_bytes_allowed_when_it/)
+- [My Fourth Project! :&rpar;&rpar;&rpar;](https://www.reddit.com/r/Python/comments/15cp0nd/my_fourth_project/)
+- [Working with Excel Spreadsheets in Python](https://www.reddit.com/r/Python/comments/15coxub/working_with_excel_spreadsheets_in_python/)
 - [Web Wanderer - A Multi-Threaded Web Crawler](https://www.reddit.com/r/Python/comments/15coitx/web_wanderer_a_multithreaded_web_crawler/)
-- [A Python library implementing Golang patterns like goroutines and channels](https://www.reddit.com/r/Python/comments/15cnu9y/a_python_library_implementing_golang_patterns/)
-- [DIY PM2.5 Monitor with Python React and SDS011 Sensor](https://www.reddit.com/r/Python/comments/15cn21o/diy_pm25_monitor_with_python_react_and_sds011/)
-- [Excited to share my new open-source package release!](https://www.reddit.com/r/Python/comments/15cm8pe/excited_to_share_my_new_opensource_package_release/)
-- [How to Create and Publish Your Python Open-Source Package](https://www.reddit.com/r/Python/comments/15cjwrr/how_to_create_and_publish_your_python_opensource/)
 <!-- BLOG-POST-LIST:END -->
