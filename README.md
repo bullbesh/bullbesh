@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saving time and easily managing files is possible through FinderZ - a full file management library in Python.](https://www.reddit.com/r/Python/comments/15cyndz/saving_time_and_easily_managing_files_is_possible/)
 - [Automatic Mail in Python and images](https://www.reddit.com/r/Python/comments/15cw4m2/automatic_mail_in_python_and_images/)
 - [🔍🎩 Switch cases/Match Cases in Python Programming - Tutorial #8 Going Viral! 🚀💥| #codewithscientist](https://www.reddit.com/r/Python/comments/15cvv39/switch_casesmatch_cases_in_python_programming/)
 - [A Cybersecurity Attack Simulation Library for testing and strengthening system defenses.](https://www.reddit.com/r/Python/comments/15ctbvu/a_cybersecurity_attack_simulation_library_for/)
 - [I could never remember argparse syntax, so I wrote ezargs.](https://www.reddit.com/r/Python/comments/15crx5a/i_could_never_remember_argparse_syntax_so_i_wrote/)
-- [LPython: Novel, Fast, Retargetable Python Compiler. &lpar;Julia, LLVM, C, C++, WASM and x86 as a backend&rpar;](https://www.reddit.com/r/Python/comments/15cpc3l/lpython_novel_fast_retargetable_python_compiler/)
 <!-- BLOG-POST-LIST:END -->
