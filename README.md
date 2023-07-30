@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Steering Council notice about PEP 703 &lpar;Making the Global Interpreter Lock Optional in CPython&rpar;](https://www.reddit.com/r/Python/comments/15dzhz1/a_steering_council_notice_about_pep_703_making/)
+- [Configurable and customizable text-based adventure based on OpenAI and their powerful GPT language models - InfinityWorlds](https://www.reddit.com/r/Python/comments/15dyhuk/configurable_and_customizable_textbased_adventure/)
 - [Would anyone be interested in a Python package that allows apps to get with 1000+ users based on user inputs? What potential does this have?](https://www.reddit.com/r/Python/comments/15dvs2p/would_anyone_be_interested_in_a_python_package/)
 - [Web Scraping Booking.com Using Python](https://www.reddit.com/r/Python/comments/15dv2m2/web_scraping_bookingcom_using_python/)
 - [Serve Django static files with CloudFront and S3](https://www.reddit.com/r/Python/comments/15dv1to/serve_django_static_files_with_cloudfront_and_s3/)
-- [What&#39;s up, Python? The GIL removed, a new compiler, optparse deprecated...](https://www.reddit.com/r/Python/comments/15du57x/whats_up_python_the_gil_removed_a_new_compiler/)
-- [Python Decorators — Without foo/bar functions, real examples from my day job](https://www.reddit.com/r/Python/comments/15dtmpu/python_decorators_without_foobar_functions_real/)
 <!-- BLOG-POST-LIST:END -->
