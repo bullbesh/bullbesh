@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/15d6uin/sunday_daily_thread_whats_everyone_working_on/)
 - [Best Machine Learning Algorithms for Forecasting](https://www.reddit.com/r/Python/comments/15d4rcz/best_machine_learning_algorithms_for_forecasting/)
 - [python in humanities](https://www.reddit.com/r/Python/comments/15d2u71/python_in_humanities/)
 - [Abstract Webtools](https://www.reddit.com/r/Python/comments/15d208s/abstract_webtools/)
 - [We created an open-source semantic search Python package on top of Postgres](https://www.reddit.com/r/Python/comments/15d1aa5/we_created_an_opensource_semantic_search_python/)
-- [PandaPlyr - Pipe Syntax for Pandas](https://www.reddit.com/r/Python/comments/15cz0qh/pandaplyr_pipe_syntax_for_pandas/)
 <!-- BLOG-POST-LIST:END -->
