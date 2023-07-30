@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Database in Appwrite Using Python](https://www.reddit.com/r/Python/comments/15dlprq/how_to_create_a_database_in_appwrite_using_python/)
 - [[Discussion][Music] Any programs to convert chords to chord progression ?](https://www.reddit.com/r/Python/comments/15dl42k/discussionmusic_any_programs_to_convert_chords_to/)
 - [Can I use a dictionary as part of a regex to simplify a search?](https://www.reddit.com/r/Python/comments/15dcmri/can_i_use_a_dictionary_as_part_of_a_regex_to/)
 - [Do open source developers get paid?](https://www.reddit.com/r/Python/comments/15dciiy/do_open_source_developers_get_paid/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/15d6uin/sunday_daily_thread_whats_everyone_working_on/)
-- [Best Machine Learning Algorithms for Forecasting](https://www.reddit.com/r/Python/comments/15d4rcz/best_machine_learning_algorithms_for_forecasting/)
 <!-- BLOG-POST-LIST:END -->
