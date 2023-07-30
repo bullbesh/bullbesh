@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m working on a project that you code on terminal](https://www.reddit.com/r/Python/comments/15dnffy/im_working_on_a_project_that_you_code_on_terminal/)
+- [ELI5: Why do mac users joke that python can brick their computer?](https://www.reddit.com/r/Python/comments/15dn9kt/eli5_why_do_mac_users_joke_that_python_can_brick/)
+- [Hello guys, I am available to work as freelancing or part-time support on Skills : Python, Django, Fastapi, Flask, Pandas, Numpy, Scikitlearn, Keras, ML, DS and AI. Please free to contact me.](https://www.reddit.com/r/Python/comments/15dn7nq/hello_guys_i_am_available_to_work_as_freelancing/)
 - [How to Create a Database in Appwrite Using Python](https://www.reddit.com/r/Python/comments/15dlprq/how_to_create_a_database_in_appwrite_using_python/)
 - [[Discussion][Music] Any programs to convert chords to chord progression ?](https://www.reddit.com/r/Python/comments/15dl42k/discussionmusic_any_programs_to_convert_chords_to/)
-- [Can I use a dictionary as part of a regex to simplify a search?](https://www.reddit.com/r/Python/comments/15dcmri/can_i_use_a_dictionary_as_part_of_a_regex_to/)
-- [Do open source developers get paid?](https://www.reddit.com/r/Python/comments/15dciiy/do_open_source_developers_get_paid/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/15d6uin/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
