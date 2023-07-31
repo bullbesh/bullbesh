@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why does sys.argv not fallback to default value](https://www.reddit.com/r/Python/comments/15e8non/why_does_sysargv_not_fallback_to_default_value/)
+- [Python Generator: The Art of Lazily Generated Data](https://www.reddit.com/r/Python/comments/15e8ibk/python_generator_the_art_of_lazily_generated_data/)
+- [Taming conditionals with bitmasks](https://www.reddit.com/r/Python/comments/15e8ah7/taming_conditionals_with_bitmasks/)
+- [The Basics of Test-Driven Development with a Focus on Data Structures](https://www.reddit.com/r/Python/comments/15e89n8/the_basics_of_testdriven_development_with_a_focus/)
 - [Want to Know About, Version Control with Jupyter Notebook using Git, including recommended workflows? Check Out this Blog Post.](https://www.reddit.com/r/Python/comments/15e7lj8/want_to_know_about_version_control_with_jupyter/)
-- [I created a handy data validation library.](https://www.reddit.com/r/Python/comments/15e24q8/i_created_a_handy_data_validation_library/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/15e0mqo/monday_daily_thread_project_ideas/)
-- [A Steering Council notice about PEP 703 &lpar;Making the Global Interpreter Lock Optional in CPython&rpar;](https://www.reddit.com/r/Python/comments/15dzhz1/a_steering_council_notice_about_pep_703_making/)
-- [Configurable and customizable text-based adventure based on OpenAI and their powerful GPT language models - InfinityWorlds](https://www.reddit.com/r/Python/comments/15dyhuk/configurable_and_customizable_textbased_adventure/)
 <!-- BLOG-POST-LIST:END -->
