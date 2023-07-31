@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What are some cool applications of an alternate dns root?](https://www.reddit.com/r/Python/comments/15eh1rn/what_are_some_cool_applications_of_an_alternate/)
+- [A hands-on introduction to Cython](https://www.reddit.com/r/Python/comments/15ehr51/a_handson_introduction_to_cython/)
 - [How to use the sportsipy and pyairtable Python packages to access advanced NBA basketball data](https://www.reddit.com/r/Python/comments/15ecziy/how_to_use_the_sportsipy_and_pyairtable_python/)
 - [Polyglot Apache Arrow: Java and Python Perspective](https://www.reddit.com/r/Python/comments/15ecvbs/polyglot_apache_arrow_java_and_python_perspective/)
 - [OpenCV based auto aiming laser turret](https://www.reddit.com/r/Python/comments/15ec402/opencv_based_auto_aiming_laser_turret/)
