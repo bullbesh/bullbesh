@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just ran my first container using Docker](https://www.reddit.com/r/Python/comments/15et5yk/i_just_ran_my_first_container_using_docker/)
+- [GPT-4 Python Code Interpreter Insanity: Instant Data Visualizations](https://www.reddit.com/r/Python/comments/15esxj0/gpt4_python_code_interpreter_insanity_instant/)
+- [Identifying bird species with machine learning](https://www.reddit.com/r/Python/comments/15esoax/identifying_bird_species_with_machine_learning/)
 - [is pop! os a good linux distro for python?](https://www.reddit.com/r/Python/comments/15es8el/is_pop_os_a_good_linux_distro_for_python/)
 - [Creating Interactive Map Visualizations of Settlements with Wikidata and Python](https://www.reddit.com/r/Python/comments/15epx7v/creating_interactive_map_visualizations_of/)
-- [Exploring Image Processing with Python and a Visual Debugger](https://www.reddit.com/r/Python/comments/15epv9z/exploring_image_processing_with_python_and_a/)
-- [python quirks](https://www.reddit.com/r/Python/comments/15epaa9/python_quirks/)
-- [Looking for learning resources for beginner](https://www.reddit.com/r/Python/comments/15enwap/looking_for_learning_resources_for_beginner/)
 <!-- BLOG-POST-LIST:END -->
