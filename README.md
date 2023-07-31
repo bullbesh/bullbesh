@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [after finishing YT beginner &amp; intermediate course, what should I do next?](https://www.reddit.com/r/Python/comments/15ea9gs/after_finishing_yt_beginner_intermediate_course/)
 - [Mastering Functional Programming in Python - Guide](https://www.reddit.com/r/Python/comments/15e9g3w/mastering_functional_programming_in_python_guide/)
 - [Why does sys.argv not fallback to default value](https://www.reddit.com/r/Python/comments/15e8non/why_does_sysargv_not_fallback_to_default_value/)
 - [Python Generator: The Art of Lazily Generated Data](https://www.reddit.com/r/Python/comments/15e8ibk/python_generator_the_art_of_lazily_generated_data/)
 - [Taming conditionals with bitmasks](https://www.reddit.com/r/Python/comments/15e8ah7/taming_conditionals_with_bitmasks/)
-- [The Basics of Test-Driven Development with a Focus on Data Structures](https://www.reddit.com/r/Python/comments/15e89n8/the_basics_of_testdriven_development_with_a_focus/)
 <!-- BLOG-POST-LIST:END -->
