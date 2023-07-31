@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use the sportsipy and pyairtable Python packages to access advanced NBA basketball data](https://www.reddit.com/r/Python/comments/15ecziy/how_to_use_the_sportsipy_and_pyairtable_python/)
+- [Polyglot Apache Arrow: Java and Python Perspective](https://www.reddit.com/r/Python/comments/15ecvbs/polyglot_apache_arrow_java_and_python_perspective/)
 - [OpenCV based auto aiming laser turret](https://www.reddit.com/r/Python/comments/15ec402/opencv_based_auto_aiming_laser_turret/)
 - [Simplify API Integration: Introducing the Module-inator - Dynamically Load Python Classes for Vendor APIs](https://www.reddit.com/r/Python/comments/15ec0cn/simplify_api_integration_introducing_the/)
 - [after finishing YT beginner &amp; intermediate course, what should I do next?](https://www.reddit.com/r/Python/comments/15ea9gs/after_finishing_yt_beginner_intermediate_course/)
-- [Mastering Functional Programming in Python - Guide](https://www.reddit.com/r/Python/comments/15e9g3w/mastering_functional_programming_in_python_guide/)
-- [Why does sys.argv not fallback to default value](https://www.reddit.com/r/Python/comments/15e8non/why_does_sysargv_not_fallback_to_default_value/)
 <!-- BLOG-POST-LIST:END -->
