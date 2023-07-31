@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [They should add a play button debugger in python in the next update to make it easy and more like vs code](https://www.reddit.com/r/Python/comments/15ek08j/they_should_add_a_play_button_debugger_in_python/)
+- [Biggest ever: Python GIL proposal PEP 703 will make CPython GIL optional! 20x speedups seen previously in some tests &lpar;unrelated to this news&rpar; without GIL and 20 threads.](https://www.reddit.com/r/Python/comments/15ej7k6/biggest_ever_python_gil_proposal_pep_703_will/)
 - [A hands-on introduction to Cython](https://www.reddit.com/r/Python/comments/15ehr51/a_handson_introduction_to_cython/)
 - [How to use the sportsipy and pyairtable Python packages to access advanced NBA basketball data](https://www.reddit.com/r/Python/comments/15ecziy/how_to_use_the_sportsipy_and_pyairtable_python/)
 - [Polyglot Apache Arrow: Java and Python Perspective](https://www.reddit.com/r/Python/comments/15ecvbs/polyglot_apache_arrow_java_and_python_perspective/)
-- [OpenCV based auto aiming laser turret](https://www.reddit.com/r/Python/comments/15ec402/opencv_based_auto_aiming_laser_turret/)
-- [Simplify API Integration: Introducing the Module-inator - Dynamically Load Python Classes for Vendor APIs](https://www.reddit.com/r/Python/comments/15ec0cn/simplify_api_integration_introducing_the/)
 <!-- BLOG-POST-LIST:END -->
