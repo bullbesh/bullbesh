@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [do scripts need/require functions?](https://www.reddit.com/r/Python/comments/15ezuac/do_scripts_needrequire_functions/)
+- [/r/Python Call for Mods](https://www.reddit.com/r/Python/comments/15ezlj5/rpython_call_for_mods/)
+- [side project showoff](https://www.reddit.com/r/Python/comments/15eyki5/side_project_showoff/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/15ewdmk/tuesday_daily_thread_advanced_questions/)
 - [libretro_finder - Simple tool that finds and prepares your BIOS files for usage with Libretro &lpar;or its RetroArch frontend&rpar;](https://www.reddit.com/r/Python/comments/15evteu/libretro_finder_simple_tool_that_finds_and/)
-- [I just ran my first container using Docker](https://www.reddit.com/r/Python/comments/15et5yk/i_just_ran_my_first_container_using_docker/)
-- [GPT-4 Python Code Interpreter Insanity: Instant Data Visualizations](https://www.reddit.com/r/Python/comments/15esxj0/gpt4_python_code_interpreter_insanity_instant/)
-- [Identifying bird species with machine learning](https://www.reddit.com/r/Python/comments/15esoax/identifying_bird_species_with_machine_learning/)
 <!-- BLOG-POST-LIST:END -->
