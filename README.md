@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Invoice pdf generator using python](https://www.reddit.com/r/Python/comments/15f263i/invoice_pdf_generator_using_python/)
+- [Novice&#39;s road](https://www.reddit.com/r/Python/comments/15f1yom/novices_road/)
 - [How can I make a virtual assistant in python?](https://www.reddit.com/r/Python/comments/15f0yzz/how_can_i_make_a_virtual_assistant_in_python/)
 - [Thoughts on Grant based Authorization Framework in Python?](https://www.reddit.com/r/Python/comments/15f0oiw/thoughts_on_grant_based_authorization_framework/)
 - [do scripts need/require functions?](https://www.reddit.com/r/Python/comments/15ezuac/do_scripts_needrequire_functions/)
-- [/r/Python Call for Mods](https://www.reddit.com/r/Python/comments/15ezlj5/rpython_call_for_mods/)
-- [side project showoff](https://www.reddit.com/r/Python/comments/15eyki5/side_project_showoff/)
 <!-- BLOG-POST-LIST:END -->
