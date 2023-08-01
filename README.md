@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How can I make a virtual assistant in python?](https://www.reddit.com/r/Python/comments/15f0yzz/how_can_i_make_a_virtual_assistant_in_python/)
+- [Thoughts on Grant based Authorization Framework in Python?](https://www.reddit.com/r/Python/comments/15f0oiw/thoughts_on_grant_based_authorization_framework/)
 - [do scripts need/require functions?](https://www.reddit.com/r/Python/comments/15ezuac/do_scripts_needrequire_functions/)
 - [/r/Python Call for Mods](https://www.reddit.com/r/Python/comments/15ezlj5/rpython_call_for_mods/)
 - [side project showoff](https://www.reddit.com/r/Python/comments/15eyki5/side_project_showoff/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/15ewdmk/tuesday_daily_thread_advanced_questions/)
-- [libretro_finder - Simple tool that finds and prepares your BIOS files for usage with Libretro &lpar;or its RetroArch frontend&rpar;](https://www.reddit.com/r/Python/comments/15evteu/libretro_finder_simple_tool_that_finds_and/)
 <!-- BLOG-POST-LIST:END -->
