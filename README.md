@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Heavyweight Serverless Functions](https://www.reddit.com/r/Python/comments/15fbqbo/heavyweight_serverless_functions/)
+- [question by someone who is new to python](https://www.reddit.com/r/Python/comments/15fbmwd/question_by_someone_who_is_new_to_python/)
 - [Compiling typed Python](https://www.reddit.com/r/Python/comments/15f8h6m/compiling_typed_python/)
 - [cool shape with turtle](https://www.reddit.com/r/Python/comments/15f7wuc/cool_shape_with_turtle/)
 - [Incognito Pilot - Local Python ChatGPT Code Interpreter](https://www.reddit.com/r/Python/comments/15f7vab/incognito_pilot_local_python_chatgpt_code/)
-- [KDD 2023 Predicting Information Pathways Across Online Communities](https://www.reddit.com/r/Python/comments/15f5we1/kdd_2023_predicting_information_pathways_across/)
-- [Leading Education Institute [BBA, BA, BCom, MBA Courses] in India | Mit University shillong](https://www.reddit.com/r/Python/comments/15f5sk5/leading_education_institute_bba_ba_bcom_mba/)
 <!-- BLOG-POST-LIST:END -->
