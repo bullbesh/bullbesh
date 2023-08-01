@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Attention everyone! Google is notifying its users that inactive accounts will be deleted in December.](https://www.reddit.com/r/Python/comments/15fielr/attention_everyone_google_is_notifying_its_users/)
+- [Elia - A terminal ChatGPT client](https://www.reddit.com/r/Python/comments/15fhywl/elia_a_terminal_chatgpt_client/)
+- [Your best python project](https://www.reddit.com/r/Python/comments/15fhlks/your_best_python_project/)
 - [Youtube Video Downloader | Pytube | Python Tutorial](https://www.reddit.com/r/Python/comments/15ffujo/youtube_video_downloader_pytube_python_tutorial/)
 - [Bridging Financial Data Streams: A Look at ASOF Join in Pathway](https://www.reddit.com/r/Python/comments/15fflzu/bridging_financial_data_streams_a_look_at_asof/)
-- [I&#39;ve made a Finance Toolkit with 50+ Financial Ratios to make Investment Research Easier](https://www.reddit.com/r/Python/comments/15femrf/ive_made_a_finance_toolkit_with_50_financial/)
-- [Want to Know About Performance Optimization of Jupyter Notebook A tutorial on how to optimize the performance of Jupyter Notebook, including how to use profiling tools like line_profiler and cProfile, and recommended best practices. Check out this Blog Post.](https://www.reddit.com/r/Python/comments/15felw1/want_to_know_about_performance_optimization_of/)
-- [Create Black holes with ease](https://www.reddit.com/r/Python/comments/15fegss/create_black_holes_with_ease/)
 <!-- BLOG-POST-LIST:END -->
