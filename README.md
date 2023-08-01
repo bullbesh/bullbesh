@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [We saw 2x Performance After Migrating Python 2 to Python 3](https://www.reddit.com/r/Python/comments/15fk8jg/we_saw_2x_performance_after_migrating_python_2_to/)
+- [Where should I learn Python for free online that is credible enough?](https://www.reddit.com/r/Python/comments/15fjgpa/where_should_i_learn_python_for_free_online_that/)
+- [Python One-Liners YSK](https://www.reddit.com/r/Python/comments/15fj5gw/python_oneliners_ysk/)
+- [potential of django and django rest framework](https://www.reddit.com/r/Python/comments/15fj52r/potential_of_django_and_django_rest_framework/)
 - [Attention everyone! Google is notifying its users that inactive accounts will be deleted in December.](https://www.reddit.com/r/Python/comments/15fielr/attention_everyone_google_is_notifying_its_users/)
-- [Elia - A terminal ChatGPT client](https://www.reddit.com/r/Python/comments/15fhywl/elia_a_terminal_chatgpt_client/)
-- [Your best python project](https://www.reddit.com/r/Python/comments/15fhlks/your_best_python_project/)
-- [Youtube Video Downloader | Pytube | Python Tutorial](https://www.reddit.com/r/Python/comments/15ffujo/youtube_video_downloader_pytube_python_tutorial/)
-- [Bridging Financial Data Streams: A Look at ASOF Join in Pathway](https://www.reddit.com/r/Python/comments/15fflzu/bridging_financial_data_streams_a_look_at_asof/)
 <!-- BLOG-POST-LIST:END -->
