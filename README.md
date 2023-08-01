@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Collection Speed?](https://www.reddit.com/r/Python/comments/15fdfc1/collection_speed/)
+- [Python Plotly: Combining Dropdowns and Range Sliders For User Interaction](https://www.reddit.com/r/Python/comments/15fdea8/python_plotly_combining_dropdowns_and_range/)
+- [libretro_finder: Simple tool that finds and prepares your BIOS files for usage with Libretro &lpar;or its RetroArch frontend&rpar;](https://www.reddit.com/r/Python/comments/15fch6g/libretro_finder_simple_tool_that_finds_and/)
 - [Heavyweight Serverless Functions](https://www.reddit.com/r/Python/comments/15fbqbo/heavyweight_serverless_functions/)
 - [question by someone who is new to python](https://www.reddit.com/r/Python/comments/15fbmwd/question_by_someone_who_is_new_to_python/)
-- [Compiling typed Python](https://www.reddit.com/r/Python/comments/15f8h6m/compiling_typed_python/)
-- [cool shape with turtle](https://www.reddit.com/r/Python/comments/15f7wuc/cool_shape_with_turtle/)
-- [Incognito Pilot - Local Python ChatGPT Code Interpreter](https://www.reddit.com/r/Python/comments/15f7vab/incognito_pilot_local_python_chatgpt_code/)
 <!-- BLOG-POST-LIST:END -->
