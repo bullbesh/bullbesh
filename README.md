@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made an introduction to Python tutorial](https://www.reddit.com/r/Python/comments/15fncbe/i_made_an_introduction_to_python_tutorial/)
+- [Tips to Connect Python to Snowflake](https://www.reddit.com/r/Python/comments/15fmkp6/tips_to_connect_python_to_snowflake/)
 - [Cool iter tricks](https://www.reddit.com/r/Python/comments/15fli8j/cool_iter_tricks/)
 - [dora-rs: experimental ROS2 alternative up to 17x faster for Python API 🐍](https://www.reddit.com/r/Python/comments/15flgti/dorars_experimental_ros2_alternative_up_to_17x/)
 - [We saw 2x Performance After Migrating Python 2 to Python 3](https://www.reddit.com/r/Python/comments/15fk8jg/we_saw_2x_performance_after_migrating_python_2_to/)
-- [Where should I learn Python for free online that is credible enough?](https://www.reddit.com/r/Python/comments/15fjgpa/where_should_i_learn_python_for_free_online_that/)
-- [Python One-Liners YSK](https://www.reddit.com/r/Python/comments/15fj5gw/python_oneliners_ysk/)
 <!-- BLOG-POST-LIST:END -->
