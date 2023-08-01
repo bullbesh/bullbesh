@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get the links of the images from pimeyes ?](https://www.reddit.com/r/Python/comments/15foz16/how_to_get_the_links_of_the_images_from_pimeyes/)
+- [I am teaching kids how to code and the kids are using ChatGPT to solve every problems](https://www.reddit.com/r/Python/comments/15fo9wl/i_am_teaching_kids_how_to_code_and_the_kids_are/)
+- [&quot;Remotior Sensus&quot;, Python package for GIS and remote sensing](https://www.reddit.com/r/Python/comments/15fnvor/remotior_sensus_python_package_for_gis_and_remote/)
 - [I made an introduction to Python tutorial](https://www.reddit.com/r/Python/comments/15fncbe/i_made_an_introduction_to_python_tutorial/)
 - [Tips to Connect Python to Snowflake](https://www.reddit.com/r/Python/comments/15fmkp6/tips_to_connect_python_to_snowflake/)
-- [Cool iter tricks](https://www.reddit.com/r/Python/comments/15fli8j/cool_iter_tricks/)
-- [dora-rs: experimental ROS2 alternative up to 17x faster for Python API 🐍](https://www.reddit.com/r/Python/comments/15flgti/dorars_experimental_ros2_alternative_up_to_17x/)
-- [We saw 2x Performance After Migrating Python 2 to Python 3](https://www.reddit.com/r/Python/comments/15fk8jg/we_saw_2x_performance_after_migrating_python_2_to/)
 <!-- BLOG-POST-LIST:END -->
