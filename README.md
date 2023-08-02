@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [youtube playlist calculator](https://www.reddit.com/r/Python/comments/15g6nq7/youtube_playlist_calculator/)
+- [Speed up strftime / strptime by code generation](https://www.reddit.com/r/Python/comments/15g6dte/speed_up_strftime_strptime_by_code_generation/)
 - [&quot;Advanced python chatbot&quot;](https://www.reddit.com/r/Python/comments/15g5pcn/advanced_python_chatbot/)
 - [Advantages of using test automation frameworks over just using Pytest?](https://www.reddit.com/r/Python/comments/15g4fkw/advantages_of_using_test_automation_frameworks/)
 - [Created URL shortener](https://www.reddit.com/r/Python/comments/15g3zd8/created_url_shortener/)
-- [What would you do if you had to learn Python all over and had a limited amount of time?](https://www.reddit.com/r/Python/comments/15g07gv/what_would_you_do_if_you_had_to_learn_python_all/)
-- [PyInstaller Lets Me Make PDFs Now](https://www.reddit.com/r/Python/comments/15fxf45/pyinstaller_lets_me_make_pdfs_now/)
 <!-- BLOG-POST-LIST:END -->
