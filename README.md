@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning Python ipywidgets script into public web app](https://www.reddit.com/r/Python/comments/15geitl/turning_python_ipywidgets_script_into_public_web/)
+- [Web-scraping our WordPress site to generate a CSV sheet with user info](https://www.reddit.com/r/Python/comments/15gedcq/webscraping_our_wordpress_site_to_generate_a_csv/)
 - [I&#39;ve made a BaaS alternative to Firebase](https://www.reddit.com/r/Python/comments/15gd8e1/ive_made_a_baas_alternative_to_firebase/)
 - [Convert Py to Exe | From Code to Software](https://www.reddit.com/r/Python/comments/15gd2a6/convert_py_to_exe_from_code_to_software/)
 - [a choice with my post from yesterday.](https://www.reddit.com/r/Python/comments/15g9j8r/a_choice_with_my_post_from_yesterday/)
-- [Confuse 😕 About, Running Parallel Computing on Jupyter Notebook, Check Out 🚀 our Blog Post on, how to utilize Jupyter Notebook for parallel computing, including how to use tools like IPython parallel and Dask.](https://www.reddit.com/r/Python/comments/15g9akc/confuse_about_running_parallel_computing_on/)
-- [youtube playlist calculator](https://www.reddit.com/r/Python/comments/15g6nq7/youtube_playlist_calculator/)
 <!-- BLOG-POST-LIST:END -->
