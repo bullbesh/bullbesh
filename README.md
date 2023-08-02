@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [a choice with my post from yesterday.](https://www.reddit.com/r/Python/comments/15g9j8r/a_choice_with_my_post_from_yesterday/)
+- [Confuse 😕 About, Running Parallel Computing on Jupyter Notebook, Check Out 🚀 our Blog Post on, how to utilize Jupyter Notebook for parallel computing, including how to use tools like IPython parallel and Dask.](https://www.reddit.com/r/Python/comments/15g9akc/confuse_about_running_parallel_computing_on/)
 - [youtube playlist calculator](https://www.reddit.com/r/Python/comments/15g6nq7/youtube_playlist_calculator/)
 - [Speed up strftime / strptime by code generation](https://www.reddit.com/r/Python/comments/15g6dte/speed_up_strftime_strptime_by_code_generation/)
 - [&quot;Advanced python chatbot&quot;](https://www.reddit.com/r/Python/comments/15g5pcn/advanced_python_chatbot/)
-- [Advantages of using test automation frameworks over just using Pytest?](https://www.reddit.com/r/Python/comments/15g4fkw/advantages_of_using_test_automation_frameworks/)
-- [Created URL shortener](https://www.reddit.com/r/Python/comments/15g3zd8/created_url_shortener/)
 <!-- BLOG-POST-LIST:END -->
