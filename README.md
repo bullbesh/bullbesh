@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Advanced python chatbot&quot;](https://www.reddit.com/r/Python/comments/15g5pcn/advanced_python_chatbot/)
 - [Advantages of using test automation frameworks over just using Pytest?](https://www.reddit.com/r/Python/comments/15g4fkw/advantages_of_using_test_automation_frameworks/)
 - [Created URL shortener](https://www.reddit.com/r/Python/comments/15g3zd8/created_url_shortener/)
 - [What would you do if you had to learn Python all over and had a limited amount of time?](https://www.reddit.com/r/Python/comments/15g07gv/what_would_you_do_if_you_had_to_learn_python_all/)
 - [PyInstaller Lets Me Make PDFs Now](https://www.reddit.com/r/Python/comments/15fxf45/pyinstaller_lets_me_make_pdfs_now/)
-- [Can I Turn a Phone Recording into Studio Quality Music?](https://www.reddit.com/r/Python/comments/15fwfm6/can_i_turn_a_phone_recording_into_studio_quality/)
 <!-- BLOG-POST-LIST:END -->
