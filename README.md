@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[PROJECT] I Created an Automatic Shiny Hunter for Any Pokemon Game Using Python](https://www.reddit.com/r/Python/comments/15gio30/project_i_created_an_automatic_shiny_hunter_for/)
+- [cpr: a healthchecker for docker containers](https://www.reddit.com/r/Python/comments/15gicf7/cpr_a_healthchecker_for_docker_containers/)
 - [Introducing ReelRecs: A Movie Recommendation Web Application Built with Flask](https://www.reddit.com/r/Python/comments/15ght7h/introducing_reelrecs_a_movie_recommendation_web/)
 - [Bridging the Python async gap from the other side](https://www.reddit.com/r/Python/comments/15gfyw7/bridging_the_python_async_gap_from_the_other_side/)
 - [Logarithmic Number System &lpar;LNS&rpar; Extension in Pytorch](https://www.reddit.com/r/Python/comments/15gfco1/logarithmic_number_system_lns_extension_in_pytorch/)
-- [[HIRING] High Paying Remote Python Jobs](https://www.reddit.com/r/Python/comments/15geqj1/hiring_high_paying_remote_python_jobs/)
-- [Turning Python ipywidgets script into public web app](https://www.reddit.com/r/Python/comments/15geitl/turning_python_ipywidgets_script_into_public_web/)
 <!-- BLOG-POST-LIST:END -->
