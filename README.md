@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve made a BaaS alternative to Firebase](https://www.reddit.com/r/Python/comments/15gd8e1/ive_made_a_baas_alternative_to_firebase/)
+- [Convert Py to Exe | From Code to Software](https://www.reddit.com/r/Python/comments/15gd2a6/convert_py_to_exe_from_code_to_software/)
 - [a choice with my post from yesterday.](https://www.reddit.com/r/Python/comments/15g9j8r/a_choice_with_my_post_from_yesterday/)
 - [Confuse 😕 About, Running Parallel Computing on Jupyter Notebook, Check Out 🚀 our Blog Post on, how to utilize Jupyter Notebook for parallel computing, including how to use tools like IPython parallel and Dask.](https://www.reddit.com/r/Python/comments/15g9akc/confuse_about_running_parallel_computing_on/)
 - [youtube playlist calculator](https://www.reddit.com/r/Python/comments/15g6nq7/youtube_playlist_calculator/)
-- [Speed up strftime / strptime by code generation](https://www.reddit.com/r/Python/comments/15g6dte/speed_up_strftime_strptime_by_code_generation/)
-- [&quot;Advanced python chatbot&quot;](https://www.reddit.com/r/Python/comments/15g5pcn/advanced_python_chatbot/)
 <!-- BLOG-POST-LIST:END -->
