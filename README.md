@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[HIRING] High Paying Remote Python Jobs](https://www.reddit.com/r/Python/comments/15h18hs/hiring_high_paying_remote_python_jobs/)
 - [Security Tools in Python](https://www.reddit.com/r/Python/comments/15h0e4a/security_tools_in_python/)
 - [Polars is starting a company](https://www.reddit.com/r/Python/comments/15h05rm/polars_is_starting_a_company/)
 - [Multiple Inheritance in Python: A Basic Guide with Examples](https://www.reddit.com/r/Python/comments/15gzuhi/multiple_inheritance_in_python_a_basic_guide_with/)
 - [Lambda Functions in Python: How to Write Concise Code and Get More Done in Less Time!](https://www.reddit.com/r/Python/comments/15gztiy/lambda_functions_in_python_how_to_write_concise/)
-- [Python Data Types: Everything You Need to Know in One Simple Guide!](https://www.reddit.com/r/Python/comments/15gzsm7/python_data_types_everything_you_need_to_know_in/)
 <!-- BLOG-POST-LIST:END -->
