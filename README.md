@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python, foreign functions and Steam](https://www.reddit.com/r/Python/comments/15hctzd/python_foreign_functions_and_steam/)
+- [Sidewinder: Configured Django on your own server in 10 minutes](https://www.reddit.com/r/Python/comments/15hbw6o/sidewinder_configured_django_on_your_own_server/)
 - [Will I be making a lot of money in 2025 if all I do is study python for the next 2 years](https://www.reddit.com/r/Python/comments/15hazvr/will_i_be_making_a_lot_of_money_in_2025_if_all_i/)
 - [I created ScoreCast, a tool to predict the outcome of soccer games.](https://www.reddit.com/r/Python/comments/15h9thk/i_created_scorecast_a_tool_to_predict_the_outcome/)
 - [Does the speed of a language or framework for serving a REST API with a database connection matter?](https://www.reddit.com/r/Python/comments/15h91pb/does_the_speed_of_a_language_or_framework_for/)
-- [Want to Know About, how to use Jupyter Notebook with big data frameworks like Apache Spark and Hadoop, including recommended libraries and tools? Check Out this Blog Post.](https://www.reddit.com/r/Python/comments/15h7au5/want_to_know_about_how_to_use_jupyter_notebook/)
-- [Quirks of Python Package Versioning](https://www.reddit.com/r/Python/comments/15h76rh/quirks_of_python_package_versioning/)
 <!-- BLOG-POST-LIST:END -->
