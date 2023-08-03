@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing PokerKit: An Open-source Library for Poker Games and Hand Evaluations](https://www.reddit.com/r/Python/comments/15gv5vm/introducing_pokerkit_an_opensource_library_for/)
 - [Python Control RGB keyboard help](https://www.reddit.com/r/Python/comments/15guotz/python_control_rgb_keyboard_help/)
 - [You should learn python in 2023](https://www.reddit.com/r/Python/comments/15guh3q/you_should_learn_python_in_2023/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/15goaj7/thursday_daily_thread_python_careers_courses_and/)
 - [A very basic reverse UML generator using openai&#39;s &quot;gpt-3.5-turbo-16k](https://www.reddit.com/r/Python/comments/15gmvke/a_very_basic_reverse_uml_generator_using_openais/)
-- [[PROJECT] I Created an Automatic Shiny Hunter for Any Pokemon Game Using Python](https://www.reddit.com/r/Python/comments/15gio30/project_i_created_an_automatic_shiny_hunter_for/)
 <!-- BLOG-POST-LIST:END -->
