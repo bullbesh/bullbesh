@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Multiple Inheritance in Python: A Basic Guide with Examples](https://www.reddit.com/r/Python/comments/15gzuhi/multiple_inheritance_in_python_a_basic_guide_with/)
+- [Lambda Functions in Python: How to Write Concise Code and Get More Done in Less Time!](https://www.reddit.com/r/Python/comments/15gztiy/lambda_functions_in_python_how_to_write_concise/)
+- [Python Data Types: Everything You Need to Know in One Simple Guide!](https://www.reddit.com/r/Python/comments/15gzsm7/python_data_types_everything_you_need_to_know_in/)
 - [My Python Project Book for Beginners](https://www.reddit.com/r/Python/comments/15gxzww/my_python_project_book_for_beginners/)
 - [Introducing PokerKit: An Open-source Library for Poker Games and Hand Evaluations](https://www.reddit.com/r/Python/comments/15gv5vm/introducing_pokerkit_an_opensource_library_for/)
-- [Python Control RGB keyboard help](https://www.reddit.com/r/Python/comments/15guotz/python_control_rgb_keyboard_help/)
-- [You should learn python in 2023](https://www.reddit.com/r/Python/comments/15guh3q/you_should_learn_python_in_2023/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/15goaj7/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
