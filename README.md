@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Leaky Ledger, a fake bank built with Django](https://www.reddit.com/r/Python/comments/15i3quv/leaky_ledger_a_fake_bank_built_with_django/)
+- [i made a to-do list maker! make an improved version of it!](https://www.reddit.com/r/Python/comments/15i3qsa/i_made_a_todo_list_maker_make_an_improved_version/)
+- [QR Code in 10 Lines of Python Code | Generate and Access QR Code Easily Using Python](https://www.reddit.com/r/Python/comments/15i2xwc/qr_code_in_10_lines_of_python_code_generate_and/)
 - [Need a advice!](https://www.reddit.com/r/Python/comments/15i1vpy/need_a_advice/)
 - [How to anonymize Python code for public forums?](https://www.reddit.com/r/Python/comments/15i0yoa/how_to_anonymize_python_code_for_public_forums/)
-- [Reflex open source tool helps turn Python](https://www.reddit.com/r/Python/comments/15i0xfg/reflex_open_source_tool_helps_turn_python/)
-- [Is there any meaning learning python now, in the age of rising AI?](https://www.reddit.com/r/Python/comments/15i0kdv/is_there_any_meaning_learning_python_now_in_the/)
-- [I recorded a PySpark Big Data Course &lpar;Python API of Apache Spark&rpar; and uploaded it on YouTube](https://www.reddit.com/r/Python/comments/15hyra8/i_recorded_a_pyspark_big_data_course_python_api/)
 <!-- BLOG-POST-LIST:END -->
