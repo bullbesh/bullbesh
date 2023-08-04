@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Technical Note. Exploring Python3 Language from a Computing Perspective I](https://www.reddit.com/r/Python/comments/15iab32/technical_note_exploring_python3_language_from_a/)
+- [Dealing with side effects in Python step by step](https://www.reddit.com/r/Python/comments/15i9m22/dealing_with_side_effects_in_python_step_by_step/)
+- [Best IDEs or ways to use Python to automate data extraction on Windows](https://www.reddit.com/r/Python/comments/15i9536/best_ides_or_ways_to_use_python_to_automate_data/)
 - [I just don&#39;t get it..](https://www.reddit.com/r/Python/comments/15i7t5y/i_just_dont_get_it/)
 - [Blackboard| Machine Learning Concepts Super Simply Explained](https://www.reddit.com/r/Python/comments/15i5zp5/blackboard_machine_learning_concepts_super_simply/)
-- [Announcing pyKLI: interactive command line client for ksqlDB](https://www.reddit.com/r/Python/comments/15i5xmu/announcing_pykli_interactive_command_line_client/)
-- [Unlocking Performance: CPython 3.12 Global Interpreter Lock](https://www.reddit.com/r/Python/comments/15i5je7/unlocking_performance_cpython_312_global/)
-- [Switching from CI&lpar;php&rpar; to python?](https://www.reddit.com/r/Python/comments/15i5hhi/switching_from_ciphp_to_python/)
 <!-- BLOG-POST-LIST:END -->
