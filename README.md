@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Tutorial: How to create an address cleaner with ChatGPT API and Python - Beginner Friendly](https://www.reddit.com/r/Python/comments/15hm5ji/python_tutorial_how_to_create_an_address_cleaner/)
+- [Python 3.11 in production](https://www.reddit.com/r/Python/comments/15hkug7/python_311_in_production/)
 - [Introducing UnifyIQ : Open Source Knowledge Assistant written in Python](https://www.reddit.com/r/Python/comments/15hghkn/introducing_unifyiq_open_source_knowledge/)
 - [How do you add min_range to the below code? Can someone please help?](https://www.reddit.com/r/Python/comments/15hep04/how_do_you_add_min_range_to_the_below_code_can/)
 - [Web Scraping in Python: How to Scrape an eCommerce Site](https://www.reddit.com/r/Python/comments/15hej2y/web_scraping_in_python_how_to_scrape_an_ecommerce/)
-- [Print &lpar;&#39;Hello&#39;&rpar;](https://www.reddit.com/r/Python/comments/15hd8kw/print_hello/)
-- [New: Add Interactive Spreadsheets to Streamlit Apps](https://www.reddit.com/r/Python/comments/15hd7ez/new_add_interactive_spreadsheets_to_streamlit_apps/)
 <!-- BLOG-POST-LIST:END -->
