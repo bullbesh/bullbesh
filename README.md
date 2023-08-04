@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I recorded a PySpark Big Data Course &lpar;Python API of Apache Spark&rpar; and uploaded it on YouTube](https://www.reddit.com/r/Python/comments/15hyra8/i_recorded_a_pyspark_big_data_course_python_api/)
 - [Game](https://www.reddit.com/r/Python/comments/15hvoqq/game/)
 - [Face detection rest api not working](https://www.reddit.com/r/Python/comments/15hsz17/face_detection_rest_api_not_working/)
 - [Having trouble face detection rest api](https://www.reddit.com/r/Python/comments/15hsy7u/having_trouble_face_detection_rest_api/)
 - [Knowledge Navigator - Great Learning Resources](https://www.reddit.com/r/Python/comments/15hs7la/knowledge_navigator_great_learning_resources/)
-- [Efficiently Load Large JSON Files Object by Object](https://www.reddit.com/r/Python/comments/15hm7rg/efficiently_load_large_json_files_object_by_object/)
 <!-- BLOG-POST-LIST:END -->
