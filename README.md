@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to anonymize Python code for public forums?](https://www.reddit.com/r/Python/comments/15i0yoa/how_to_anonymize_python_code_for_public_forums/)
+- [Reflex open source tool helps turn Python](https://www.reddit.com/r/Python/comments/15i0xfg/reflex_open_source_tool_helps_turn_python/)
+- [Is there any meaning learning python now, in the age of rising AI?](https://www.reddit.com/r/Python/comments/15i0kdv/is_there_any_meaning_learning_python_now_in_the/)
 - [I recorded a PySpark Big Data Course &lpar;Python API of Apache Spark&rpar; and uploaded it on YouTube](https://www.reddit.com/r/Python/comments/15hyra8/i_recorded_a_pyspark_big_data_course_python_api/)
 - [Game](https://www.reddit.com/r/Python/comments/15hvoqq/game/)
-- [Face detection rest api not working](https://www.reddit.com/r/Python/comments/15hsz17/face_detection_rest_api_not_working/)
-- [Having trouble face detection rest api](https://www.reddit.com/r/Python/comments/15hsy7u/having_trouble_face_detection_rest_api/)
-- [Knowledge Navigator - Great Learning Resources](https://www.reddit.com/r/Python/comments/15hs7la/knowledge_navigator_great_learning_resources/)
 <!-- BLOG-POST-LIST:END -->
