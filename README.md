@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Performance: CPython 3.12 Global Interpreter Lock](https://www.reddit.com/r/Python/comments/15i5je7/unlocking_performance_cpython_312_global/)
+- [Switching from CI&lpar;php&rpar; to python?](https://www.reddit.com/r/Python/comments/15i5hhi/switching_from_ciphp_to_python/)
+- [9 years of experience and I still wouldn&#39;t consider myself senior](https://www.reddit.com/r/Python/comments/15i4qj9/9_years_of_experience_and_i_still_wouldnt/)
 - [Leaky Ledger, a fake bank built with Django](https://www.reddit.com/r/Python/comments/15i3quv/leaky_ledger_a_fake_bank_built_with_django/)
 - [i made a to-do list maker! make an improved version of it!](https://www.reddit.com/r/Python/comments/15i3qsa/i_made_a_todo_list_maker_make_an_improved_version/)
-- [QR Code in 10 Lines of Python Code | Generate and Access QR Code Easily Using Python](https://www.reddit.com/r/Python/comments/15i2xwc/qr_code_in_10_lines_of_python_code_generate_and/)
-- [Need a advice!](https://www.reddit.com/r/Python/comments/15i1vpy/need_a_advice/)
-- [How to anonymize Python code for public forums?](https://www.reddit.com/r/Python/comments/15i0yoa/how_to_anonymize_python_code_for_public_forums/)
 <!-- BLOG-POST-LIST:END -->
