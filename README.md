@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I shared a Big Data Handling with PySpark Course &lpar;Python API of Apache Spark&rpar; on my YouTube Channel](https://www.reddit.com/r/Python/comments/15ivsku/i_shared_a_big_data_handling_with_pyspark_course/)
+- [I built ChatGPT into a rotary phone and made it sound German](https://www.reddit.com/r/Python/comments/15ivqii/i_built_chatgpt_into_a_rotary_phone_and_made_it/)
+- [Vine Archive Viewer &amp; Downloader GUI](https://www.reddit.com/r/Python/comments/15ivjg1/vine_archive_viewer_downloader_gui/)
 - [How to use python in Android](https://www.reddit.com/r/Python/comments/15ir2x5/how_to_use_python_in_android/)
 - [First program &lpar;tetris&rpar; I made after starting Python!](https://www.reddit.com/r/Python/comments/15iqfhl/first_program_tetris_i_made_after_starting_python/)
-- [Creating point cloud videos from arbitrary RGB videos](https://www.reddit.com/r/Python/comments/15igaaf/creating_point_cloud_videos_from_arbitrary_rgb/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/15ig8sd/saturday_daily_thread_resource_request_and/)
-- [UnifyIQ : Open Source Knowledge Assistant written in Python](https://www.reddit.com/r/Python/comments/15iftee/unifyiq_open_source_knowledge_assistant_written/)
 <!-- BLOG-POST-LIST:END -->
