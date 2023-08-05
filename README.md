@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating point cloud videos from arbitrary RGB videos](https://www.reddit.com/r/Python/comments/15igaaf/creating_point_cloud_videos_from_arbitrary_rgb/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/15ig8sd/saturday_daily_thread_resource_request_and/)
+- [UnifyIQ : Open Source Knowledge Assistant written in Python](https://www.reddit.com/r/Python/comments/15iftee/unifyiq_open_source_knowledge_assistant_written/)
 - [Technical Note. Exploring Python3 Language from a Computing Perspective I](https://www.reddit.com/r/Python/comments/15iab32/technical_note_exploring_python3_language_from_a/)
 - [Dealing with side effects in Python step by step](https://www.reddit.com/r/Python/comments/15i9m22/dealing_with_side_effects_in_python_step_by_step/)
-- [Best IDEs or ways to use Python to automate data extraction on Windows](https://www.reddit.com/r/Python/comments/15i9536/best_ides_or_ways_to_use_python_to_automate_data/)
-- [I just don&#39;t get it..](https://www.reddit.com/r/Python/comments/15i7t5y/i_just_dont_get_it/)
-- [Blackboard| Machine Learning Concepts Super Simply Explained](https://www.reddit.com/r/Python/comments/15i5zp5/blackboard_machine_learning_concepts_super_simply/)
 <!-- BLOG-POST-LIST:END -->
