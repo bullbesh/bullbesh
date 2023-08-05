@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Python + Optimization to help my wife&#39;s sewing problem](https://www.reddit.com/r/Python/comments/15ixoqd/using_python_optimization_to_help_my_wifes_sewing/)
+- [Python Gravity Simulation](https://www.reddit.com/r/Python/comments/15ix8zi/python_gravity_simulation/)
 - [I shared a Big Data Handling with PySpark Course &lpar;Python API of Apache Spark&rpar; on my YouTube Channel](https://www.reddit.com/r/Python/comments/15ivsku/i_shared_a_big_data_handling_with_pyspark_course/)
 - [I built ChatGPT into a rotary phone and made it sound German](https://www.reddit.com/r/Python/comments/15ivqii/i_built_chatgpt_into_a_rotary_phone_and_made_it/)
 - [Vine Archive Viewer &amp; Downloader GUI](https://www.reddit.com/r/Python/comments/15ivjg1/vine_archive_viewer_downloader_gui/)
-- [How to use python in Android](https://www.reddit.com/r/Python/comments/15ir2x5/how_to_use_python_in_android/)
-- [First program &lpar;tetris&rpar; I made after starting Python!](https://www.reddit.com/r/Python/comments/15iqfhl/first_program_tetris_i_made_after_starting_python/)
 <!-- BLOG-POST-LIST:END -->
