@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Entity Resolution Challenges](https://www.reddit.com/r/Python/comments/15jgiqn/entity_resolution_challenges/)
 - [AWS Lambda Adds Support for Python 3.11](https://www.reddit.com/r/Python/comments/15jf7ee/aws_lambda_adds_support_for_python_311/)
 - [python-is-terrible](https://www.reddit.com/r/Python/comments/15jbnn9/pythonisterrible/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/15jauei/sunday_daily_thread_whats_everyone_working_on/)
 - [Freelance](https://www.reddit.com/r/Python/comments/15jaeiy/freelance/)
-- [Do you use a lot of pytest fixtures in your tests? Are you sure all of them are actually used?](https://www.reddit.com/r/Python/comments/15j8ya2/do_you_use_a_lot_of_pytest_fixtures_in_your_tests/)
 <!-- BLOG-POST-LIST:END -->
