@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 723 – Embedding pyproject.toml in single-file scripts](https://www.reddit.com/r/Python/comments/15k1wds/pep_723_embedding_pyprojecttoml_in_singlefile/)
+- [Understanding Python Descriptors: A Practical Dive](https://www.reddit.com/r/Python/comments/15k1967/understanding_python_descriptors_a_practical_dive/)
 - [New commenting system that finds the consensus/disagreements in text!](https://www.reddit.com/r/Python/comments/15k0l15/new_commenting_system_that_finds_the/)
 - [SELF TAUGHT PYTHON DEVS! WHAT DID YOU LEARN TO LAND A JOB.](https://www.reddit.com/r/Python/comments/15jz9sb/self_taught_python_devs_what_did_you_learn_to/)
 - [Learning python project](https://www.reddit.com/r/Python/comments/15jz9r2/learning_python_project/)
-- [Cheating?](https://www.reddit.com/r/Python/comments/15jvsn2/cheating/)
-- [I just installed python and pyo. Cannot get pyo to work](https://www.reddit.com/r/Python/comments/15juf7b/i_just_installed_python_and_pyo_cannot_get_pyo_to/)
 <!-- BLOG-POST-LIST:END -->
