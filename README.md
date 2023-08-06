@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cheating?](https://www.reddit.com/r/Python/comments/15jvsn2/cheating/)
 - [I just installed python and pyo. Cannot get pyo to work](https://www.reddit.com/r/Python/comments/15juf7b/i_just_installed_python_and_pyo_cannot_get_pyo_to/)
 - [Interfaces &amp; Dependency Inversion in Python - Medium Article](https://www.reddit.com/r/Python/comments/15jt0rr/interfaces_dependency_inversion_in_python_medium/)
 - [My first Kaggle Competition Submission](https://www.reddit.com/r/Python/comments/15jt0l5/my_first_kaggle_competition_submission/)
 - [Deep learning project idea](https://www.reddit.com/r/Python/comments/15jswym/deep_learning_project_idea/)
-- [Why can&#39;t Python launch a dev server like Node?](https://www.reddit.com/r/Python/comments/15jsc1a/why_cant_python_launch_a_dev_server_like_node/)
 <!-- BLOG-POST-LIST:END -->
