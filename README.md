@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [conda environments tutorial &lpar;Miniconda 2023-07 and Windows 11&rpar;](https://www.reddit.com/r/Python/comments/15jrmfk/conda_environments_tutorial_miniconda_202307_and/)
+- [Enterprise data+GPT-3: Build chatbots from PDFs using Python [Source code+Article]](https://www.reddit.com/r/Python/comments/15jrj0a/enterprise_datagpt3_build_chatbots_from_pdfs/)
 - [Diabetes Predictor with Streamlit and Scikit-Learn](https://www.reddit.com/r/Python/comments/15jpbd2/diabetes_predictor_with_streamlit_and_scikitlearn/)
 - [An attempt to significantly reduce homelessness and poverty: I made an open source web application that helps people who are struggling find social services and donators in their area that will help them.](https://www.reddit.com/r/Python/comments/15jorha/an_attempt_to_significantly_reduce_homelessness/)
 - [Python Script For Creating Appwrite Database](https://www.reddit.com/r/Python/comments/15jnzto/python_script_for_creating_appwrite_database/)
-- [I built yet another ChatGPT Telegram bot](https://www.reddit.com/r/Python/comments/15jnv9f/i_built_yet_another_chatgpt_telegram_bot/)
-- [Is anyone hiring mid-level python developers?](https://www.reddit.com/r/Python/comments/15jmvbw/is_anyone_hiring_midlevel_python_developers/)
 <!-- BLOG-POST-LIST:END -->
