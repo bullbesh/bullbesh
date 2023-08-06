@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to profile an asynchronous FastAPI server](https://www.reddit.com/r/Python/comments/15jj010/how_to_profile_an_asynchronous_fastapi_server/)
 - [I built a search-engine web scraper](https://www.reddit.com/r/Python/comments/15jhdp1/i_built_a_searchengine_web_scraper/)
 - [Entity Resolution Challenges](https://www.reddit.com/r/Python/comments/15jgiqn/entity_resolution_challenges/)
 - [AWS Lambda Adds Support for Python 3.11](https://www.reddit.com/r/Python/comments/15jf7ee/aws_lambda_adds_support_for_python_311/)
 - [python-is-terrible](https://www.reddit.com/r/Python/comments/15jbnn9/pythonisterrible/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/15jauei/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
