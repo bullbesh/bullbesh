@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Diabetes Predictor with Streamlit and Scikit-Learn](https://www.reddit.com/r/Python/comments/15jpbd2/diabetes_predictor_with_streamlit_and_scikitlearn/)
+- [An attempt to significantly reduce homelessness and poverty: I made an open source web application that helps people who are struggling find social services and donators in their area that will help them.](https://www.reddit.com/r/Python/comments/15jorha/an_attempt_to_significantly_reduce_homelessness/)
 - [Python Script For Creating Appwrite Database](https://www.reddit.com/r/Python/comments/15jnzto/python_script_for_creating_appwrite_database/)
 - [I built yet another ChatGPT Telegram bot](https://www.reddit.com/r/Python/comments/15jnv9f/i_built_yet_another_chatgpt_telegram_bot/)
 - [Is anyone hiring mid-level python developers?](https://www.reddit.com/r/Python/comments/15jmvbw/is_anyone_hiring_midlevel_python_developers/)
-- [Python cocktail: mix a context manager and an iterator in equal parts](https://www.reddit.com/r/Python/comments/15jlvyd/python_cocktail_mix_a_context_manager_and_an/)
-- [Convert CSV File Data to Json file using python](https://www.reddit.com/r/Python/comments/15jl5qk/convert_csv_file_data_to_json_file_using_python/)
 <!-- BLOG-POST-LIST:END -->
