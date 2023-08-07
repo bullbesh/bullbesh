@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Text Widget in Python Tkinter](https://www.reddit.com/r/Python/comments/15kjewe/how_to_create_a_text_widget_in_python_tkinter/)
-- [How to Create an Entry Widget in Python Tkinter](https://www.reddit.com/r/Python/comments/15kjcct/how_to_create_an_entry_widget_in_python_tkinter/)
-- [How to Create a Button in Python Tkinter](https://www.reddit.com/r/Python/comments/15kjajr/how_to_create_a_button_in_python_tkinter/)
-- [How to Create a Label in Python Tkinter](https://www.reddit.com/r/Python/comments/15kj74l/how_to_create_a_label_in_python_tkinter/)
-- [How to Create a Simple Python Tkinter GUI](https://www.reddit.com/r/Python/comments/15kj0z0/how_to_create_a_simple_python_tkinter_gui/)
+- [Building a query optimizer for Dask DataFrames](https://www.reddit.com/r/Python/comments/15kk5in/building_a_query_optimizer_for_dask_dataframes/)
+- [How to Pack Widgets in Python Tkinter](https://www.reddit.com/r/Python/comments/15kk02f/how_to_pack_widgets_in_python_tkinter/)
+- [How to Convert a String to a Float in Python? &lpar;It&#39;s Like Stack Overflow But Isn&#39;t, Lol&rpar;](https://www.reddit.com/r/Python/comments/15kjyba/how_to_convert_a_string_to_a_float_in_python_its/)
+- [How to Place Widgets in Python Tkinter](https://www.reddit.com/r/Python/comments/15kjtqu/how_to_place_widgets_in_python_tkinter/)
+- [How to Grid Widgets in Python Tkinter](https://www.reddit.com/r/Python/comments/15kjs5o/how_to_grid_widgets_in_python_tkinter/)
 <!-- BLOG-POST-LIST:END -->
