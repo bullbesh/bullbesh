@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a simple GPT-3 chatbot from Mercedes&#39; product brochures](https://www.reddit.com/r/Python/comments/15keeyj/i_built_a_simple_gpt3_chatbot_from_mercedes/)
 - [Python Programming Courses | Tronix Technologies: Unlock the Power of Python!](https://www.reddit.com/r/Python/comments/15k9ueo/python_programming_courses_tronix_technologies/)
 - [Why does Python prefer the right side to the left side?](https://www.reddit.com/r/Python/comments/15k79mg/why_does_python_prefer_the_right_side_to_the_left/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/15k4qwj/monday_daily_thread_project_ideas/)
 - [Bored python/Linux fiend](https://www.reddit.com/r/Python/comments/15k37r5/bored_pythonlinux_fiend/)
-- [PEP 723 – Embedding pyproject.toml in single-file scripts](https://www.reddit.com/r/Python/comments/15k1wds/pep_723_embedding_pyprojecttoml_in_singlefile/)
 <!-- BLOG-POST-LIST:END -->
