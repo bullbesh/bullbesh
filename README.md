@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What would I miss from Django/DRF if switching to fastAPI ?](https://www.reddit.com/r/Python/comments/15kh532/what_would_i_miss_from_djangodrf_if_switching_to/)
-- [Handling CAPTCHAs in Python](https://www.reddit.com/r/Python/comments/15kh0wr/handling_captchas_in_python/)
-- [How to achieve this in multiprocessing?](https://www.reddit.com/r/Python/comments/15kfr4d/how_to_achieve_this_in_multiprocessing/)
-- [Tkinter in short](https://www.reddit.com/r/Python/comments/15kend8/tkinter_in_short/)
-- [I built a simple GPT-3 chatbot from Mercedes&#39; product brochures](https://www.reddit.com/r/Python/comments/15keeyj/i_built_a_simple_gpt3_chatbot_from_mercedes/)
+- [How to Create a Text Widget in Python Tkinter](https://www.reddit.com/r/Python/comments/15kjewe/how_to_create_a_text_widget_in_python_tkinter/)
+- [How to Create an Entry Widget in Python Tkinter](https://www.reddit.com/r/Python/comments/15kjcct/how_to_create_an_entry_widget_in_python_tkinter/)
+- [How to Create a Button in Python Tkinter](https://www.reddit.com/r/Python/comments/15kjajr/how_to_create_a_button_in_python_tkinter/)
+- [How to Create a Label in Python Tkinter](https://www.reddit.com/r/Python/comments/15kj74l/how_to_create_a_label_in_python_tkinter/)
+- [How to Create a Simple Python Tkinter GUI](https://www.reddit.com/r/Python/comments/15kj0z0/how_to_create_a_simple_python_tkinter_gui/)
 <!-- BLOG-POST-LIST:END -->
