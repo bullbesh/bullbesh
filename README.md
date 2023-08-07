@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What would I miss from Django/DRF if switching to fastAPI ?](https://www.reddit.com/r/Python/comments/15kh532/what_would_i_miss_from_djangodrf_if_switching_to/)
+- [Handling CAPTCHAs in Python](https://www.reddit.com/r/Python/comments/15kh0wr/handling_captchas_in_python/)
 - [How to achieve this in multiprocessing?](https://www.reddit.com/r/Python/comments/15kfr4d/how_to_achieve_this_in_multiprocessing/)
 - [Tkinter in short](https://www.reddit.com/r/Python/comments/15kend8/tkinter_in_short/)
 - [I built a simple GPT-3 chatbot from Mercedes&#39; product brochures](https://www.reddit.com/r/Python/comments/15keeyj/i_built_a_simple_gpt3_chatbot_from_mercedes/)
-- [Python Programming Courses | Tronix Technologies: Unlock the Power of Python!](https://www.reddit.com/r/Python/comments/15k9ueo/python_programming_courses_tronix_technologies/)
-- [Why does Python prefer the right side to the left side?](https://www.reddit.com/r/Python/comments/15k79mg/why_does_python_prefer_the_right_side_to_the_left/)
 <!-- BLOG-POST-LIST:END -->
