@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create Engaging Django Landing Pages with headless CMS](https://www.reddit.com/r/Python/comments/15kv2di/create_engaging_django_landing_pages_with/)
+- [Creating a context manager in 5 minutes](https://www.reddit.com/r/Python/comments/15ku6qo/creating_a_context_manager_in_5_minutes/)
 - [Creating a Loan Amortization Schedule with Prepayments using Python and Pandas](https://www.reddit.com/r/Python/comments/15kt7sa/creating_a_loan_amortization_schedule_with/)
 - [Best Practices - check return value immediately, or assign to variable first?](https://www.reddit.com/r/Python/comments/15kt24a/best_practices_check_return_value_immediately_or/)
 - [Hello fellow Python programmer](https://www.reddit.com/r/Python/comments/15kr24i/hello_fellow_python_programmer/)
-- [Become a tester for a new cloud storage system!](https://www.reddit.com/r/Python/comments/15knloa/become_a_tester_for_a_new_cloud_storage_system/)
-- [Clean code in Python: what&#39;s your idea?](https://www.reddit.com/r/Python/comments/15km1ke/clean_code_in_python_whats_your_idea/)
 <!-- BLOG-POST-LIST:END -->
