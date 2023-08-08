@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Y’all where did you learn python. I’ll start. No this ain’t a shitpost I’m being quite serious](https://www.reddit.com/r/Python/comments/15l38fu/yall_where_did_you_learn_python_ill_start_no_this/)
+- [Struggling with GoEmotion Dataset: Seeking Guidance](https://www.reddit.com/r/Python/comments/15l2b8z/struggling_with_goemotion_dataset_seeking_guidance/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/15l1khy/tuesday_daily_thread_advanced_questions/)
 - [Using python and generative AI to automatically generate codes in other languages](https://www.reddit.com/r/Python/comments/15kz0xm/using_python_and_generative_ai_to_automatically/)
 - [New package: async MongoDB almost-ODM with vanilla Pydantic v2](https://www.reddit.com/r/Python/comments/15kw6c8/new_package_async_mongodb_almostodm_with_vanilla/)
-- [Create Engaging Django Landing Pages with headless CMS](https://www.reddit.com/r/Python/comments/15kv2di/create_engaging_django_landing_pages_with/)
-- [Creating a context manager in 5 minutes](https://www.reddit.com/r/Python/comments/15ku6qo/creating_a_context_manager_in_5_minutes/)
-- [Creating a Loan Amortization Schedule with Prepayments using Python and Pandas](https://www.reddit.com/r/Python/comments/15kt7sa/creating_a_loan_amortization_schedule_with/)
 <!-- BLOG-POST-LIST:END -->
