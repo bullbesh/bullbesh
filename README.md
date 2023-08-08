@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scraping social media and extracting insights using Python and a headful browser](https://www.reddit.com/r/Python/comments/15le96q/scraping_social_media_and_extracting_insights/)
 - [Looking For Developers](https://www.reddit.com/r/Python/comments/15lb5ts/looking_for_developers/)
 - [Scrape facebook community](https://www.reddit.com/r/Python/comments/15l9ggs/scrape_facebook_community/)
 - [Want to Know About, TensorBoard Integration with AI/ML Models in Jupyter Notebook, Checkout this Blog Post on how to integrate TensorBoard, a TensorFlow visualization tool, with AI/ML Models, including how to visualize and debug models.](https://www.reddit.com/r/Python/comments/15l5q8b/want_to_know_about_tensorboard_integration_with/)
 - [Python Never Goes As Planned](https://www.reddit.com/r/Python/comments/15l4bqt/python_never_goes_as_planned/)
-- [Wrote code for first time in 10+ years!](https://www.reddit.com/r/Python/comments/15l3h16/wrote_code_for_first_time_in_10_years/)
 <!-- BLOG-POST-LIST:END -->
