@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SciPy 2023 Proceedings are up!](https://www.reddit.com/r/Python/comments/15mjrnr/scipy_2023_proceedings_are_up/)
+- [Elon Musk vs. Mark Zuckerberg changes the future of tech…](https://www.reddit.com/r/Python/comments/15mja5a/elon_musk_vs_mark_zuckerberg_changes_the_future/)
+- [Is turnstile captcha alternative really working ?](https://www.reddit.com/r/Python/comments/15mibfn/is_turnstile_captcha_alternative_really_working/)
 - [Integrating AI Models into Zulip Chatbots Using FastAPI: Part 2](https://www.reddit.com/r/Python/comments/15mhxbz/integrating_ai_models_into_zulip_chatbots_using/)
 - [Looking for 2 developers - has anyone tried using GitHub as a recruiting tool ?](https://www.reddit.com/r/Python/comments/15mhx5i/looking_for_2_developers_has_anyone_tried_using/)
-- [Use Rust PyO3 to Create Python Binding Is More Efficient Than Expectation](https://www.reddit.com/r/Python/comments/15mgw8b/use_rust_pyo3_to_create_python_binding_is_more/)
-- [DailyPythonProject:000](https://www.reddit.com/r/Python/comments/15mgc9x/dailypythonproject000/)
-- [__init__ Files in Python: How to Organize Your Code into Logical and Reusable Units](https://www.reddit.com/r/Python/comments/15mfem8/init_files_in_python_how_to_organize_your_code/)
 <!-- BLOG-POST-LIST:END -->
