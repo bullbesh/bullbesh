@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Python Requests](https://www.reddit.com/r/Python/comments/15may67/mastering_python_requests/)
+- [Python GUI - .mbundle Viewer, Extractor](https://www.reddit.com/r/Python/comments/15maqa9/python_gui_mbundle_viewer_extractor/)
+- [My own Duolingo without overengineering](https://www.reddit.com/r/Python/comments/15mabz1/my_own_duolingo_without_overengineering/)
 - [How to use structural pattern matching in Python](https://www.reddit.com/r/Python/comments/15m8k2z/how_to_use_structural_pattern_matching_in_python/)
 - [A cleaner, more readable, parametrization for pytest &lpar;imho&rpar;](https://www.reddit.com/r/Python/comments/15m8fbc/a_cleaner_more_readable_parametrization_for/)
-- [Pytest tui explorer](https://www.reddit.com/r/Python/comments/15m6mkh/pytest_tui_explorer/)
-- [Guess The Pin](https://www.reddit.com/r/Python/comments/15m0wm6/guess_the_pin/)
-- [CLI Make-like utility for Windows: Why is that so hard?](https://www.reddit.com/r/Python/comments/15lz3om/cli_makelike_utility_for_windows_why_is_that_so/)
 <!-- BLOG-POST-LIST:END -->
