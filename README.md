@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Guess the pin website cracker](https://www.reddit.com/r/Python/comments/15lzw7b/guess_the_pin_website_cracker/)
+- [Guess The Pin](https://www.reddit.com/r/Python/comments/15m0wm6/guess_the_pin/)
 - [CLI Make-like utility for Windows: Why is that so hard?](https://www.reddit.com/r/Python/comments/15lz3om/cli_makelike_utility_for_windows_why_is_that_so/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/15lyvlw/wednesday_daily_thread_beginner_questions/)
 - [Maintaining order for the Python crowd](https://www.reddit.com/r/Python/comments/15lt8q8/maintaining_order_for_the_python_crowd/)
