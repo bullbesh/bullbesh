@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pytest tui explorer](https://www.reddit.com/r/Python/comments/15m6mkh/pytest_tui_explorer/)
 - [Guess The Pin](https://www.reddit.com/r/Python/comments/15m0wm6/guess_the_pin/)
 - [CLI Make-like utility for Windows: Why is that so hard?](https://www.reddit.com/r/Python/comments/15lz3om/cli_makelike_utility_for_windows_why_is_that_so/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/15lyvlw/wednesday_daily_thread_beginner_questions/)
 - [Maintaining order for the Python crowd](https://www.reddit.com/r/Python/comments/15lt8q8/maintaining_order_for_the_python_crowd/)
-- [How I used Python and Folium to map my hiking trails](https://www.reddit.com/r/Python/comments/15lsla3/how_i_used_python_and_folium_to_map_my_hiking/)
 <!-- BLOG-POST-LIST:END -->
