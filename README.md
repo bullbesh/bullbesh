@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mypy 1.5 Released](https://www.reddit.com/r/Python/comments/15nhegh/mypy_15_released/)
+- [Stop Jupyter Notebook output window from collapsing](https://www.reddit.com/r/Python/comments/15nh2m2/stop_jupyter_notebook_output_window_from/)
 - [[Blockchain+Python]](https://www.reddit.com/r/Python/comments/15nb6x5/blockchainpython/)
 - [txtai 6.0 - the all-in-one embeddings database](https://www.reddit.com/r/Python/comments/15nai2p/txtai_60_the_allinone_embeddings_database/)
 - [Python SQLite3 json_extract function tutorial](https://www.reddit.com/r/Python/comments/15n9lpu/python_sqlite3_json_extract_function_tutorial/)
-- [Project idx](https://www.reddit.com/r/Python/comments/15n92r2/project_idx/)
-- [We are building a no-code API builder](https://www.reddit.com/r/Python/comments/15n8jq9/we_are_building_a_nocode_api_builder/)
 <!-- BLOG-POST-LIST:END -->
