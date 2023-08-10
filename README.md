@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Quantum Machine Learning- Project Tutorial](https://www.reddit.com/r/Python/comments/15nksep/advanced_quantum_machine_learning_project_tutorial/)
 - [Can we blackout the sub again?](https://www.reddit.com/r/Python/comments/15njose/can_we_blackout_the_sub_again/)
 - [I made a 2d death match game!](https://www.reddit.com/r/Python/comments/15ninzn/i_made_a_2d_death_match_game/)
 - [What is the best method for learning Python.](https://www.reddit.com/r/Python/comments/15niecy/what_is_the_best_method_for_learning_python/)
 - [Mypy 1.5 Released](https://www.reddit.com/r/Python/comments/15nhegh/mypy_15_released/)
-- [Stop Jupyter Notebook output window from collapsing](https://www.reddit.com/r/Python/comments/15nh2m2/stop_jupyter_notebook_output_window_from/)
 <!-- BLOG-POST-LIST:END -->
