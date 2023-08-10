@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which course is better for a complete beginner in algorithms and data structures?](https://www.reddit.com/r/Python/comments/15nmuq1/which_course_is_better_for_a_complete_beginner_in/)
+- [Intermediate Python devs, what topics you want to learn?](https://www.reddit.com/r/Python/comments/15nmcc8/intermediate_python_devs_what_topics_you_want_to/)
+- [3 Rules for Choosing Between SQL and Python](https://www.reddit.com/r/Python/comments/15nm93g/3_rules_for_choosing_between_sql_and_python/)
 - [Advanced Quantum Machine Learning- Project Tutorial](https://www.reddit.com/r/Python/comments/15nksep/advanced_quantum_machine_learning_project_tutorial/)
 - [Can we blackout the sub again?](https://www.reddit.com/r/Python/comments/15njose/can_we_blackout_the_sub_again/)
-- [I made a 2d death match game!](https://www.reddit.com/r/Python/comments/15ninzn/i_made_a_2d_death_match_game/)
-- [What is the best method for learning Python.](https://www.reddit.com/r/Python/comments/15niecy/what_is_the_best_method_for_learning_python/)
-- [Mypy 1.5 Released](https://www.reddit.com/r/Python/comments/15nhegh/mypy_15_released/)
 <!-- BLOG-POST-LIST:END -->
