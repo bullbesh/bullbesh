@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can we blackout the sub again?](https://www.reddit.com/r/Python/comments/15njose/can_we_blackout_the_sub_again/)
+- [I made a 2d death match game!](https://www.reddit.com/r/Python/comments/15ninzn/i_made_a_2d_death_match_game/)
+- [What is the best method for learning Python.](https://www.reddit.com/r/Python/comments/15niecy/what_is_the_best_method_for_learning_python/)
 - [Mypy 1.5 Released](https://www.reddit.com/r/Python/comments/15nhegh/mypy_15_released/)
 - [Stop Jupyter Notebook output window from collapsing](https://www.reddit.com/r/Python/comments/15nh2m2/stop_jupyter_notebook_output_window_from/)
-- [[Blockchain+Python]](https://www.reddit.com/r/Python/comments/15nb6x5/blockchainpython/)
-- [txtai 6.0 - the all-in-one embeddings database](https://www.reddit.com/r/Python/comments/15nai2p/txtai_60_the_allinone_embeddings_database/)
-- [Python SQLite3 json_extract function tutorial](https://www.reddit.com/r/Python/comments/15n9lpu/python_sqlite3_json_extract_function_tutorial/)
 <!-- BLOG-POST-LIST:END -->
