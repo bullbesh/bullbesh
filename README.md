@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Blockchain+Python]](https://www.reddit.com/r/Python/comments/15nb6x5/blockchainpython/)
+- [txtai 6.0 - the all-in-one embeddings database](https://www.reddit.com/r/Python/comments/15nai2p/txtai_60_the_allinone_embeddings_database/)
+- [Python SQLite3 json_extract function tutorial](https://www.reddit.com/r/Python/comments/15n9lpu/python_sqlite3_json_extract_function_tutorial/)
+- [I need help](https://www.reddit.com/r/Python/comments/15n9kgn/i_need_help/)
 - [Project idx](https://www.reddit.com/r/Python/comments/15n92r2/project_idx/)
-- [We are building a no-code API builder](https://www.reddit.com/r/Python/comments/15n8jq9/we_are_building_a_nocode_api_builder/)
-- [Using Background Tasks in FastAPI: An Easy Way to Boost App Performance and Reliability](https://www.reddit.com/r/Python/comments/15n89zm/using_background_tasks_in_fastapi_an_easy_way_to/)
-- [Python&#39;s __name__ == &quot;__main__&quot;: Significance, Best Practices, and Effective Usage](https://www.reddit.com/r/Python/comments/15n72vl/pythons_name_main_significance_best_practices_and/)
-- [Want to be part of an internal job networking group I’m starting? &lpar;Slack&rpar;](https://www.reddit.com/r/Python/comments/15n70a9/want_to_be_part_of_an_internal_job_networking/)
 <!-- BLOG-POST-LIST:END -->
