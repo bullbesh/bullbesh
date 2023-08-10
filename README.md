@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/15mw1y9/thursday_daily_thread_python_careers_courses_and/)
+- [Is Python really that much slower?](https://www.reddit.com/r/Python/comments/15mvkj9/is_python_really_that_much_slower/)
+- [Fighting game engine.](https://www.reddit.com/r/Python/comments/15mv52w/fighting_game_engine/)
 - [Setup a Django Python app on GCP in 30 Minutes](https://www.reddit.com/r/Python/comments/15mnhgo/setup_a_django_python_app_on_gcp_in_30_minutes/)
 - [Rika AI chat with your fav characters](https://www.reddit.com/r/Python/comments/15mm6zj/rika_ai_chat_with_your_fav_characters/)
-- [Killing the ProcessPoolExecutor](https://www.reddit.com/r/Python/comments/15mln17/killing_the_processpoolexecutor/)
-- [Simple HTTP Server in Python](https://www.reddit.com/r/Python/comments/15mle3h/simple_http_server_in_python/)
-- [SciPy 2023 Proceedings are up!](https://www.reddit.com/r/Python/comments/15mjrnr/scipy_2023_proceedings_are_up/)
 <!-- BLOG-POST-LIST:END -->
