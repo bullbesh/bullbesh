@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tronix Technologies is Offering a Java Full-Stack Course with Less Fee if Any one Of your Friends Interest refer them.](https://www.reddit.com/r/Python/comments/15n286m/tronix_technologies_is_offering_a_java_fullstack/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/15mw1y9/thursday_daily_thread_python_careers_courses_and/)
 - [Is Python really that much slower?](https://www.reddit.com/r/Python/comments/15mvkj9/is_python_really_that_much_slower/)
 - [Fighting game engine.](https://www.reddit.com/r/Python/comments/15mv52w/fighting_game_engine/)
 - [Setup a Django Python app on GCP in 30 Minutes](https://www.reddit.com/r/Python/comments/15mnhgo/setup_a_django_python_app_on_gcp_in_30_minutes/)
-- [Rika AI chat with your fav characters](https://www.reddit.com/r/Python/comments/15mm6zj/rika_ai_chat_with_your_fav_characters/)
 <!-- BLOG-POST-LIST:END -->
