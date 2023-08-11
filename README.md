@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generating chess puzzles with genetic algorithms](https://www.reddit.com/r/Python/comments/15ntmxc/generating_chess_puzzles_with_genetic_algorithms/)
+- [I’ve fallen in love with Python and PS scripting](https://www.reddit.com/r/Python/comments/15nt2qh/ive_fallen_in_love_with_python_and_ps_scripting/)
 - [Leveraging Web Scraping for Dynamic Pricing Strategies for E-commerce](https://www.reddit.com/r/Python/comments/15nqk4w/leveraging_web_scraping_for_dynamic_pricing/)
 - [Best place to get started with practical exercises?](https://www.reddit.com/r/Python/comments/15nqeqr/best_place_to_get_started_with_practical_exercises/)
 - [Copy-on-Write in pandas](https://www.reddit.com/r/Python/comments/15nq4be/copyonwrite_in_pandas/)
-- [How to use a Python multiprocessing module](https://www.reddit.com/r/Python/comments/15nnza0/how_to_use_a_python_multiprocessing_module/)
-- [Which course is better for a complete beginner in algorithms and data structures?](https://www.reddit.com/r/Python/comments/15nmuq1/which_course_is_better_for_a_complete_beginner_in/)
 <!-- BLOG-POST-LIST:END -->
