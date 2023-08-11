@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Degiroapi does not work as it should](https://www.reddit.com/r/Python/comments/15ogvbm/degiroapi_does_not_work_as_it_should/)
+- [What do you think about pybites PDM program?](https://www.reddit.com/r/Python/comments/15ogtq0/what_do_you_think_about_pybites_pdm_program/)
+- [Pyspark tutorial for beginners |PYSPARK ML |#pyspark #rlanguagestatistics](https://www.reddit.com/r/Python/comments/15ogh6g/pyspark_tutorial_for_beginners_pyspark_ml_pyspark/)
+- [Need help regarding flet](https://www.reddit.com/r/Python/comments/15oge4m/need_help_regarding_flet/)
 - [How to create custom reading mode&lpar;night light&rpar; ?](https://www.reddit.com/r/Python/comments/15og0kr/how_to_create_custom_reading_modenight_light/)
-- [VarScope: Ultra simple module for creating local scopes in Python](https://www.reddit.com/r/Python/comments/15oehyf/varscope_ultra_simple_module_for_creating_local/)
-- [Want to Know About, Jupyter Notebook Extensions &amp; how to install and use popular Jupyter Notebook extensions, Check out this Blog Post.](https://www.reddit.com/r/Python/comments/15o8w4i/want_to_know_about_jupyter_notebook_extensions/)
-- [What ruff config do you use?](https://www.reddit.com/r/Python/comments/15o73kq/what_ruff_config_do_you_use/)
-- [Open Weather Map Project | Free to use code | Help improve code](https://www.reddit.com/r/Python/comments/15o5h7b/open_weather_map_project_free_to_use_code_help/)
 <!-- BLOG-POST-LIST:END -->
