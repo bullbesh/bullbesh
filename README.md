@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python coding skills for statistic](https://www.reddit.com/r/Python/comments/15ois5l/python_coding_skills_for_statistic/)
+- [Transferring data from one software to another software.](https://www.reddit.com/r/Python/comments/15oiqzd/transferring_data_from_one_software_to_another/)
+- [More than you ever wanted to know about pandas read_sql!](https://www.reddit.com/r/Python/comments/15oianb/more_than_you_ever_wanted_to_know_about_pandas/)
 - [Degiroapi does not work as it should](https://www.reddit.com/r/Python/comments/15ogvbm/degiroapi_does_not_work_as_it_should/)
 - [What do you think about pybites PDM program?](https://www.reddit.com/r/Python/comments/15ogtq0/what_do_you_think_about_pybites_pdm_program/)
-- [Pyspark tutorial for beginners |PYSPARK ML |#pyspark #rlanguagestatistics](https://www.reddit.com/r/Python/comments/15ogh6g/pyspark_tutorial_for_beginners_pyspark_ml_pyspark/)
-- [Need help regarding flet](https://www.reddit.com/r/Python/comments/15oge4m/need_help_regarding_flet/)
-- [How to create custom reading mode&lpar;night light&rpar; ?](https://www.reddit.com/r/Python/comments/15og0kr/how_to_create_custom_reading_modenight_light/)
 <!-- BLOG-POST-LIST:END -->
