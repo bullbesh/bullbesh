@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Chudnovsky algorithm I made.](https://www.reddit.com/r/Python/comments/15o1vgv/chudnovsky_algorithm_i_made/)
-- [[PyCon India 2023] Is anyone intending to go to Pycon India? Have you been there before?](https://www.reddit.com/r/Python/comments/15nz58p/pycon_india_2023_is_anyone_intending_to_go_to/)
-- [Run JavaScript/WASM in Python: high-level SpiderMonkey bindings to Python with PythonMonkey](https://www.reddit.com/r/Python/comments/15nwbus/run_javascriptwasm_in_python_highlevel/)
-- [Sonar detection and defense system using Python](https://www.reddit.com/r/Python/comments/15nw2uw/sonar_detection_and_defense_system_using_python/)
-- [Easier options for smallish database implementations](https://www.reddit.com/r/Python/comments/15nuq5k/easier_options_for_smallish_database/)
+- [REST vs. GraphQL: Choosing the Right Tool for Your API Needs](https://www.reddit.com/r/Python/comments/15o4mon/rest_vs_graphql_choosing_the_right_tool_for_your/)
+- [Python can help you explode with new ideas - here’s some you could explore if you’re struggling for ideas](https://www.reddit.com/r/Python/comments/15o4ltu/python_can_help_you_explode_with_new_ideas_heres/)
+- [Metaclasses in Python: A Quick and Easy Guide with Examples](https://www.reddit.com/r/Python/comments/15o4iw3/metaclasses_in_python_a_quick_and_easy_guide_with/)
+- [Highly overlooked but an extremely effective technique for Outlier Detection](https://www.reddit.com/r/Python/comments/15o4fts/highly_overlooked_but_an_extremely_effective/)
+- [Database Migrations in Python: A Basic Guide to In-Depth Concepts](https://www.reddit.com/r/Python/comments/15o4esz/database_migrations_in_python_a_basic_guide_to/)
 <!-- BLOG-POST-LIST:END -->
