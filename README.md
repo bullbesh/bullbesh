@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for Finance?](https://www.reddit.com/r/Python/comments/15omg8k/python_for_finance/)
+- [Progress reporting for long running commands](https://www.reddit.com/r/Python/comments/15olhr3/progress_reporting_for_long_running_commands/)
 - [Python coding skills for statistic](https://www.reddit.com/r/Python/comments/15ois5l/python_coding_skills_for_statistic/)
 - [Transferring data from one software to another software.](https://www.reddit.com/r/Python/comments/15oiqzd/transferring_data_from_one_software_to_another/)
 - [More than you ever wanted to know about pandas read_sql!](https://www.reddit.com/r/Python/comments/15oianb/more_than_you_ever_wanted_to_know_about_pandas/)
-- [Degiroapi does not work as it should](https://www.reddit.com/r/Python/comments/15ogvbm/degiroapi_does_not_work_as_it_should/)
-- [What do you think about pybites PDM program?](https://www.reddit.com/r/Python/comments/15ogtq0/what_do_you_think_about_pybites_pdm_program/)
 <!-- BLOG-POST-LIST:END -->
