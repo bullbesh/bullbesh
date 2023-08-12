@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Book Highlight Learning Python for Forensics](https://www.reddit.com/r/Python/comments/15pbeqm/book_highlight_learning_python_for_forensics/)
+- [What is the current situation of Poetry and Pytorch?](https://www.reddit.com/r/Python/comments/15pba7o/what_is_the_current_situation_of_poetry_and/)
 - [Mastering Python: A few Techniques for Optimizing Your Applications 🐍](https://www.reddit.com/r/Python/comments/15p92ze/mastering_python_a_few_techniques_for_optimizing/)
 - [I recorded a Gathering and Visualizing Financial Data with Python video and uploaded it on YouTube](https://www.reddit.com/r/Python/comments/15p92w2/i_recorded_a_gathering_and_visualizing_financial/)
 - [A React-inspired way to code in Python](https://www.reddit.com/r/Python/comments/15p824f/a_reactinspired_way_to_code_in_python/)
-- [Introductory books for python](https://www.reddit.com/r/Python/comments/15p6k7g/introductory_books_for_python/)
-- [Distribute Python apps to Windows machines without freezing them](https://www.reddit.com/r/Python/comments/15p6j5l/distribute_python_apps_to_windows_machines/)
 <!-- BLOG-POST-LIST:END -->
