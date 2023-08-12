@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A React-inspired way to code in Python](https://www.reddit.com/r/Python/comments/15p824f/a_reactinspired_way_to_code_in_python/)
 - [Introductory books for python](https://www.reddit.com/r/Python/comments/15p6k7g/introductory_books_for_python/)
 - [Distribute Python apps to Windows machines without freezing them](https://www.reddit.com/r/Python/comments/15p6j5l/distribute_python_apps_to_windows_machines/)
 - [6 month University Data Analytics courses](https://www.reddit.com/r/Python/comments/15p6hm6/6_month_university_data_analytics_courses/)
 - [Python certification?](https://www.reddit.com/r/Python/comments/15p6elz/python_certification/)
-- [Guichet: Quickly create simple GUIs in Python.](https://www.reddit.com/r/Python/comments/15p61nl/guichet_quickly_create_simple_guis_in_python/)
 <!-- BLOG-POST-LIST:END -->
