@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a package to easily interact with azure pipelines](https://www.reddit.com/r/Python/comments/15pg6qn/i_created_a_package_to_easily_interact_with_azure/)
+- [5 Uses of SymPy: Writing Python Code Like a Mathematician](https://www.reddit.com/r/Python/comments/15pfuyl/5_uses_of_sympy_writing_python_code_like_a/)
 - [Book Highlight Learning Python for Forensics](https://www.reddit.com/r/Python/comments/15pbeqm/book_highlight_learning_python_for_forensics/)
 - [What is the current situation of Poetry and Pytorch?](https://www.reddit.com/r/Python/comments/15pba7o/what_is_the_current_situation_of_poetry_and/)
 - [Mastering Python: A few Techniques for Optimizing Your Applications 🐍](https://www.reddit.com/r/Python/comments/15p92ze/mastering_python_a_few_techniques_for_optimizing/)
-- [I recorded a Gathering and Visualizing Financial Data with Python video and uploaded it on YouTube](https://www.reddit.com/r/Python/comments/15p92w2/i_recorded_a_gathering_and_visualizing_financial/)
-- [A React-inspired way to code in Python](https://www.reddit.com/r/Python/comments/15p824f/a_reactinspired_way_to_code_in_python/)
 <!-- BLOG-POST-LIST:END -->
