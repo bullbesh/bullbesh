@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Python: A few Techniques for Optimizing Your Applications 🐍](https://www.reddit.com/r/Python/comments/15p92ze/mastering_python_a_few_techniques_for_optimizing/)
+- [I recorded a Gathering and Visualizing Financial Data with Python video and uploaded it on YouTube](https://www.reddit.com/r/Python/comments/15p92w2/i_recorded_a_gathering_and_visualizing_financial/)
 - [A React-inspired way to code in Python](https://www.reddit.com/r/Python/comments/15p824f/a_reactinspired_way_to_code_in_python/)
 - [Introductory books for python](https://www.reddit.com/r/Python/comments/15p6k7g/introductory_books_for_python/)
 - [Distribute Python apps to Windows machines without freezing them](https://www.reddit.com/r/Python/comments/15p6j5l/distribute_python_apps_to_windows_machines/)
-- [6 month University Data Analytics courses](https://www.reddit.com/r/Python/comments/15p6hm6/6_month_university_data_analytics_courses/)
-- [Python certification?](https://www.reddit.com/r/Python/comments/15p6elz/python_certification/)
 <!-- BLOG-POST-LIST:END -->
