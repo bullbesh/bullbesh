@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I made an application that renames your Movie and TV Show collection](https://www.reddit.com/r/Python/comments/15p57gz/i_made_an_application_that_renames_your_movie_and/)
-- [I recorded a tutorial type of Gathering and Visualizing Financial Data with Python video and uploaded it on YouTube](https://www.reddit.com/r/Python/comments/15p4rrl/i_recorded_a_tutorial_type_of_gathering_and/)
-- [Broken pycharm](https://www.reddit.com/r/Python/comments/15p4lqe/broken_pycharm/)
-- [I made a Python Library that creates Long form Youtube videos from a text prompt](https://www.reddit.com/r/Python/comments/15p3ub0/i_made_a_python_library_that_creates_long_form/)
-- [[Cursed] Hello World that looks like Java](https://www.reddit.com/r/Python/comments/15p34aj/cursed_hello_world_that_looks_like_java/)
+- [Introductory books for python](https://www.reddit.com/r/Python/comments/15p6k7g/introductory_books_for_python/)
+- [Distribute Python apps to Windows machines without freezing them](https://www.reddit.com/r/Python/comments/15p6j5l/distribute_python_apps_to_windows_machines/)
+- [6 month University Data Analytics courses](https://www.reddit.com/r/Python/comments/15p6hm6/6_month_university_data_analytics_courses/)
+- [Python certification?](https://www.reddit.com/r/Python/comments/15p6elz/python_certification/)
+- [Guichet: Quickly create simple GUIs in Python.](https://www.reddit.com/r/Python/comments/15p61nl/guichet_quickly_create_simple_guis_in_python/)
 <!-- BLOG-POST-LIST:END -->
