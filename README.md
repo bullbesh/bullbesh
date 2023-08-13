@@ -12,5 +12,5 @@
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/15pjqhp/sunday_daily_thread_whats_everyone_working_on/)
 - [I made a Python program that displays song lyrics in the corner of the screen, synced with Spotify.](https://www.reddit.com/r/Python/comments/15pio1o/i_made_a_python_program_that_displays_song_lyrics/)
 - [I created a package to easily interact with azure pipelines](https://www.reddit.com/r/Python/comments/15pg6qn/i_created_a_package_to_easily_interact_with_azure/)
-- [5 Uses of SymPy: Writing Python Code Like a Mathematician](https://www.reddit.com/r/Python/comments/15pfuyl/5_uses_of_sympy_writing_python_code_like_a/)
+- [Is Apple Silicon mostly supported now?](https://www.reddit.com/r/Python/comments/15pfvxt/is_apple_silicon_mostly_supported_now/)
 <!-- BLOG-POST-LIST:END -->
