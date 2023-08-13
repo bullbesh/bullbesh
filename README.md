@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve made conway&#39;s game of life in python, pygame](https://www.reddit.com/r/Python/comments/15pv5ur/ive_made_conways_game_of_life_in_python_pygame/)
+- [Steam Client Python](https://www.reddit.com/r/Python/comments/15pvzbf/steam_client_python/)
+- [I&#39;ve made conway&#39;s game of life in python, pygame](https://www.reddit.com/r/Python/comments/15pv7qs/ive_made_conways_game_of_life_in_python_pygame/)
 - [if you click any ware while running this code python will crash](https://www.reddit.com/r/Python/comments/15pumj1/if_you_click_any_ware_while_running_this_code/)
 - [How To Add Project to Github in Command Line | Push Code to Github](https://www.reddit.com/r/Python/comments/15pttmg/how_to_add_project_to_github_in_command_line_push/)
 - [The roadmap for the python language &lpar;not to learn it but the actual language&rpar;](https://www.reddit.com/r/Python/comments/15prkag/the_roadmap_for_the_python_language_not_to_learn/)
-- [Image Processing, Computer Vision with OpenCV and Network Programming with Python &lpar;100 Objective Type Questions&rpar;](https://www.reddit.com/r/Python/comments/15por3z/image_processing_computer_vision_with_opencv_and/)
 <!-- BLOG-POST-LIST:END -->
