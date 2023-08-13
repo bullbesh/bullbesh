@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Visual Asset MetaData Reader - JustTheMeta!](https://www.reddit.com/r/Python/comments/15q5nvy/visual_asset_metadata_reader_justthemeta/)
+- [How to run python script in cloud for cheap?](https://www.reddit.com/r/Python/comments/15q56gs/how_to_run_python_script_in_cloud_for_cheap/)
+- [Svelete for Python?](https://www.reddit.com/r/Python/comments/15q4etp/svelete_for_python/)
 - [Help regarding coad](https://www.reddit.com/r/Python/comments/15q215y/help_regarding_coad/)
 - [GitHub - runprism/prism: Prism is the easiest way to develop, orchestrate, and execute data pipelines in Python.](https://www.reddit.com/r/Python/comments/15q02g4/github_runprismprism_prism_is_the_easiest_way_to/)
-- [What is a topological sort good for? | Examples in Python](https://www.reddit.com/r/Python/comments/15pzlt1/what_is_a_topological_sort_good_for_examples_in/)
-- [Steam Client Python](https://www.reddit.com/r/Python/comments/15pvzbf/steam_client_python/)
-- [I&#39;ve made conway&#39;s game of life in python, pygame](https://www.reddit.com/r/Python/comments/15pv7qs/ive_made_conways_game_of_life_in_python_pygame/)
 <!-- BLOG-POST-LIST:END -->
