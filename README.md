@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create 3 Simple Visuals with Seaborn &amp; Matplotlib: Countplot, Scatterplot, and Boxplot](https://www.reddit.com/r/Python/comments/15pk0dh/create_3_simple_visuals_with_seaborn_matplotlib/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/15pjqhp/sunday_daily_thread_whats_everyone_working_on/)
 - [I made a Python program that displays song lyrics in the corner of the screen, synced with Spotify.](https://www.reddit.com/r/Python/comments/15pio1o/i_made_a_python_program_that_displays_song_lyrics/)
 - [I created a package to easily interact with azure pipelines](https://www.reddit.com/r/Python/comments/15pg6qn/i_created_a_package_to_easily_interact_with_azure/)
 - [5 Uses of SymPy: Writing Python Code Like a Mathematician](https://www.reddit.com/r/Python/comments/15pfuyl/5_uses_of_sympy_writing_python_code_like_a/)
-- [Book Highlight Learning Python for Forensics](https://www.reddit.com/r/Python/comments/15pbeqm/book_highlight_learning_python_for_forensics/)
-- [What is the current situation of Poetry and Pytorch?](https://www.reddit.com/r/Python/comments/15pba7o/what_is_the_current_situation_of_poetry_and/)
 <!-- BLOG-POST-LIST:END -->
