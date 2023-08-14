@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🔥🔥 Automate your boring work with amazing Python Script](https://www.reddit.com/r/Python/comments/15qq0ws/automate_your_boring_work_with_amazing_python/)
+- [Weird Python &quot;Features&quot; That Might Catch You By Surprise](https://www.reddit.com/r/Python/comments/15qprx9/weird_python_features_that_might_catch_you_by/)
+- [Khan Academy&#39;s switch from a Python 2 monolith to a services-oriented backend written in Go](https://www.reddit.com/r/Python/comments/15qpphj/khan_academys_switch_from_a_python_2_monolith_to/)
+- [What&#39;s up, Python? The GIL was removed, a new compiler, optparse deprecated](https://www.reddit.com/r/Python/comments/15qpnm3/whats_up_python_the_gil_was_removed_a_new/)
 - [What content do you consume to learn web scraping?](https://www.reddit.com/r/Python/comments/15qniw3/what_content_do_you_consume_to_learn_web_scraping/)
-- [did you know that you can type ; in python when you print something just like java and it won&#39;t give you an error](https://www.reddit.com/r/Python/comments/15qnfwx/did_you_know_that_you_can_type_in_python_when_you/)
-- [Can someone review the game I am making and provide a genuine feedback](https://www.reddit.com/r/Python/comments/15ql282/can_someone_review_the_game_i_am_making_and/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/15qehur/monday_daily_thread_project_ideas/)
-- [llama2.py](https://www.reddit.com/r/Python/comments/15qbl60/llama2py/)
 <!-- BLOG-POST-LIST:END -->
