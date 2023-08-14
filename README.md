@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [pywinstyles: a small library that can take your UI app to the next level!](https://www.reddit.com/r/Python/comments/15qoets/pywinstyles_a_small_library_that_can_take_your_ui/)
 - [What content do you consume to learn web scraping?](https://www.reddit.com/r/Python/comments/15qniw3/what_content_do_you_consume_to_learn_web_scraping/)
 - [did you know that you can type ; in python when you print something just like java and it won&#39;t give you an error](https://www.reddit.com/r/Python/comments/15qnfwx/did_you_know_that_you_can_type_in_python_when_you/)
 - [Can someone review the game I am making and provide a genuine feedback](https://www.reddit.com/r/Python/comments/15ql282/can_someone_review_the_game_i_am_making_and/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/15qehur/monday_daily_thread_project_ideas/)
+- [llama2.py](https://www.reddit.com/r/Python/comments/15qbl60/llama2py/)
 <!-- BLOG-POST-LIST:END -->
