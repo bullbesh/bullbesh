@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Generator: The Art of Lazily Generated Data](https://www.reddit.com/r/Python/comments/15qrhgc/python_generator_the_art_of_lazily_generated_data/)
+- [Python Camunda SDK](https://www.reddit.com/r/Python/comments/15qr0zm/python_camunda_sdk/)
+- [This app converts any YouTube video to text](https://www.reddit.com/r/Python/comments/15qqyjm/this_app_converts_any_youtube_video_to_text/)
 - [🔥🔥 Automate your boring work with amazing Python Script](https://www.reddit.com/r/Python/comments/15qq0ws/automate_your_boring_work_with_amazing_python/)
 - [Weird Python &quot;Features&quot; That Might Catch You By Surprise](https://www.reddit.com/r/Python/comments/15qprx9/weird_python_features_that_might_catch_you_by/)
-- [Khan Academy&#39;s switch from a Python 2 monolith to a services-oriented backend written in Go](https://www.reddit.com/r/Python/comments/15qpphj/khan_academys_switch_from_a_python_2_monolith_to/)
-- [What&#39;s up, Python? The GIL was removed, a new compiler, optparse deprecated](https://www.reddit.com/r/Python/comments/15qpnm3/whats_up_python_the_gil_was_removed_a_new/)
-- [What content do you consume to learn web scraping?](https://www.reddit.com/r/Python/comments/15qniw3/what_content_do_you_consume_to_learn_web_scraping/)
 <!-- BLOG-POST-LIST:END -->
