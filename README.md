@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sqlalchemy and Render.com or DigitalOcean, broken by default](https://www.reddit.com/r/Python/comments/15r40t2/sqlalchemy_and_rendercom_or_digitalocean_broken/)
 - [It is becoming difficult for me to be productive in Python](https://www.reddit.com/r/Python/comments/15r05mq/it_is_becoming_difficult_for_me_to_be_productive/)
 - [How Snowflake makes the dbt Python models shine](https://www.reddit.com/r/Python/comments/15qxiy4/how_snowflake_makes_the_dbt_python_models_shine/)
 - [How to write Python code people actually want to use](https://www.reddit.com/r/Python/comments/15qx13e/how_to_write_python_code_people_actually_want_to/)
 - [Field-level encryption in Python for Django applications](https://www.reddit.com/r/Python/comments/15qvpwf/fieldlevel_encryption_in_python_for_django/)
-- [Ideas for python projects](https://www.reddit.com/r/Python/comments/15quvit/ideas_for_python_projects/)
 <!-- BLOG-POST-LIST:END -->
