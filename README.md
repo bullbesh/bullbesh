@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to write Python code people actually want to use](https://www.reddit.com/r/Python/comments/15qx13e/how_to_write_python_code_people_actually_want_to/)
 - [Field-level encryption in Python for Django applications](https://www.reddit.com/r/Python/comments/15qvpwf/fieldlevel_encryption_in_python_for_django/)
 - [Ideas for python projects](https://www.reddit.com/r/Python/comments/15quvit/ideas_for_python_projects/)
 - [Connect to AI APIs](https://www.reddit.com/r/Python/comments/15qtoh0/connect_to_ai_apis/)
 - [Goodbye MongoDB](https://www.reddit.com/r/Python/comments/15qthff/goodbye_mongodb/)
-- [A tour of the dunder methods fully in Seuss rhyme &lpar;North Bay Python 2023&rpar;](https://www.reddit.com/r/Python/comments/15qrtiz/a_tour_of_the_dunder_methods_fully_in_seuss_rhyme/)
 <!-- BLOG-POST-LIST:END -->
