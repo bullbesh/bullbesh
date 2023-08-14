@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A tour of the dunder methods fully in Seuss rhyme &lpar;North Bay Python 2023&rpar;](https://www.reddit.com/r/Python/comments/15qrtiz/a_tour_of_the_dunder_methods_fully_in_seuss_rhyme/)
 - [Python Generator: The Art of Lazily Generated Data](https://www.reddit.com/r/Python/comments/15qrhgc/python_generator_the_art_of_lazily_generated_data/)
 - [Python Camunda SDK](https://www.reddit.com/r/Python/comments/15qr0zm/python_camunda_sdk/)
 - [This app converts any YouTube video to text](https://www.reddit.com/r/Python/comments/15qqyjm/this_app_converts_any_youtube_video_to_text/)
 - [🔥🔥 Automate your boring work with amazing Python Script](https://www.reddit.com/r/Python/comments/15qq0ws/automate_your_boring_work_with_amazing_python/)
-- [Weird Python &quot;Features&quot; That Might Catch You By Surprise](https://www.reddit.com/r/Python/comments/15qprx9/weird_python_features_that_might_catch_you_by/)
 <!-- BLOG-POST-LIST:END -->
