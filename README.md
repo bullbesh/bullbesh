@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can someone review the game I am making and provide a genuine feedback](https://www.reddit.com/r/Python/comments/15ql282/can_someone_review_the_game_i_am_making_and/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/15qehur/monday_daily_thread_project_ideas/)
 - [llama2.py](https://www.reddit.com/r/Python/comments/15qbl60/llama2py/)
 - [I made a GitHub Action to publish poetry-based Python projects to PyPI and GitHub with automated semantic versioning](https://www.reddit.com/r/Python/comments/15qbh3b/i_made_a_github_action_to_publish_poetrybased/)
 - [This project provides a visual simulation of the Epsilon Delta Definition. Its purpose is to illustrate how the values of a function approach a specific limit point.](https://www.reddit.com/r/Python/comments/15qaoo7/this_project_provides_a_visual_simulation_of_the/)
-- [Typing Test Discord Bot](https://www.reddit.com/r/Python/comments/15q8mfq/typing_test_discord_bot/)
 <!-- BLOG-POST-LIST:END -->
