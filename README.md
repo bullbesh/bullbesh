@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [when installing packages in pycharm . am i making ANOTHER copy of stuff thats already in my python folder tree](https://www.reddit.com/r/Python/comments/15rycgw/when_installing_packages_in_pycharm_am_i_making/)
+- [Head to head](https://www.reddit.com/r/Python/comments/15rxzcp/head_to_head/)
 - [What Cost Convenience: FastAPI And The Responsibility For Others&#39; Opinions](https://www.reddit.com/r/Python/comments/15rwnl8/what_cost_convenience_fastapi_and_the/)
 - [Python: Just write SQL](https://www.reddit.com/r/Python/comments/15rvxj3/python_just_write_sql/)
 - [What Are Python Asterisk and Slash Special Parameters For? – Real Python](https://www.reddit.com/r/Python/comments/15ruzzm/what_are_python_asterisk_and_slash_special/)
-- [Medium: A React.js inspired way to code in Python](https://www.reddit.com/r/Python/comments/15ru3il/medium_a_reactjs_inspired_way_to_code_in_python/)
-- [Korrect: Testing and Fact-Checking Framework for LLMs](https://www.reddit.com/r/Python/comments/15rtzca/korrect_testing_and_factchecking_framework_for/)
 <!-- BLOG-POST-LIST:END -->
