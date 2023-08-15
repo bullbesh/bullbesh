@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python certification resources?](https://www.reddit.com/r/Python/comments/15s4mxl/python_certification_resources/)
+- [Amazon Photos API](https://www.reddit.com/r/Python/comments/15s4glg/amazon_photos_api/)
 - [What could Python 4 look like with integrated LLMs?](https://www.reddit.com/r/Python/comments/15s3gtt/what_could_python_4_look_like_with_integrated_llms/)
 - [Building a Python Mobile App with User Authentication](https://www.reddit.com/r/Python/comments/15s386w/building_a_python_mobile_app_with_user/)
 - [UFC upcoming event predictor using XGBoost &lpar;69-70% on test, 70-71% on train&rpar;](https://www.reddit.com/r/Python/comments/15s2lxn/ufc_upcoming_event_predictor_using_xgboost_6970/)
-- [when installing packages in pycharm . am i making ANOTHER copy of stuff thats already in my python folder tree](https://www.reddit.com/r/Python/comments/15rycgw/when_installing_packages_in_pycharm_am_i_making/)
-- [Head to head](https://www.reddit.com/r/Python/comments/15rxzcp/head_to_head/)
 <!-- BLOG-POST-LIST:END -->
