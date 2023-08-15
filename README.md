@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What could Python 4 look like with integrated LLMs?](https://www.reddit.com/r/Python/comments/15s3gtt/what_could_python_4_look_like_with_integrated_llms/)
+- [Building a Python Mobile App with User Authentication](https://www.reddit.com/r/Python/comments/15s386w/building_a_python_mobile_app_with_user/)
+- [UFC upcoming event predictor using XGBoost &lpar;69-70% on test, 70-71% on train&rpar;](https://www.reddit.com/r/Python/comments/15s2lxn/ufc_upcoming_event_predictor_using_xgboost_6970/)
 - [when installing packages in pycharm . am i making ANOTHER copy of stuff thats already in my python folder tree](https://www.reddit.com/r/Python/comments/15rycgw/when_installing_packages_in_pycharm_am_i_making/)
 - [Head to head](https://www.reddit.com/r/Python/comments/15rxzcp/head_to_head/)
-- [What Cost Convenience: FastAPI And The Responsibility For Others&#39; Opinions](https://www.reddit.com/r/Python/comments/15rwnl8/what_cost_convenience_fastapi_and_the/)
-- [Python: Just write SQL](https://www.reddit.com/r/Python/comments/15rvxj3/python_just_write_sql/)
-- [What Are Python Asterisk and Slash Special Parameters For? – Real Python](https://www.reddit.com/r/Python/comments/15ruzzm/what_are_python_asterisk_and_slash_special/)
 <!-- BLOG-POST-LIST:END -->
