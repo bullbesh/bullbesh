@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Loking for code to Pack](https://www.reddit.com/r/Python/comments/15rhb24/loking_for_code_to_pack/)
+- [Loking for code to Pack](https://www.reddit.com/r/Python/comments/15rhb1t/loking_for_code_to_pack/)
 - [liteLLM – simple library to standardize OpenAI, Cohere, Azure, Anthropic, Llama2, LLM Input/Output](https://www.reddit.com/r/Python/comments/15reo0q/litellm_simple_library_to_standardize_openai/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/15rbo8a/tuesday_daily_thread_advanced_questions/)
 - [What LSP and other tools are recommended? &lpar;not for VScode&rpar;](https://www.reddit.com/r/Python/comments/15r68df/what_lsp_and_other_tools_are_recommended_not_for/)
-- [Robyn v0.38.0 - An improved CLI for create-robyn-app](https://www.reddit.com/r/Python/comments/15r63m8/robyn_v0380_an_improved_cli_for_createrobynapp/)
-- [Sqlalchemy and Render.com or DigitalOcean, broken by default](https://www.reddit.com/r/Python/comments/15r40t2/sqlalchemy_and_rendercom_or_digitalocean_broken/)
 <!-- BLOG-POST-LIST:END -->
