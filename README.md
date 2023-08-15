@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best youtube channel to learn python core section.](https://www.reddit.com/r/Python/comments/15rs2by/best_youtube_channel_to_learn_python_core_section/)
 - [Apple - Fruit = X? rclip update: query combos and snapcraft, homebrew, and pypi releases](https://www.reddit.com/r/Python/comments/15rr5tn/apple_fruit_x_rclip_update_query_combos_and/)
 - [How to Face SWAP Any Video Using FREE AI | DeepFake 2023](https://www.reddit.com/r/Python/comments/15rodym/how_to_face_swap_any_video_using_free_ai_deepfake/)
 - [Data Compliant Web Scraping with Python](https://www.reddit.com/r/Python/comments/15rmw4c/data_compliant_web_scraping_with_python/)
 - [Automate ERP system with python](https://www.reddit.com/r/Python/comments/15rm64b/automate_erp_system_with_python/)
-- [🌐 Join the Ultimate Tech Extravaganza at Global DevSlam 2023! 🚀](https://www.reddit.com/r/Python/comments/15rjqye/join_the_ultimate_tech_extravaganza_at_global/)
 <!-- BLOG-POST-LIST:END -->
