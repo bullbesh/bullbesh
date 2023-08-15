@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Compliant Web Scraping with Python](https://www.reddit.com/r/Python/comments/15rmw4c/data_compliant_web_scraping_with_python/)
 - [Automate ERP system with python](https://www.reddit.com/r/Python/comments/15rm64b/automate_erp_system_with_python/)
 - [🌐 Join the Ultimate Tech Extravaganza at Global DevSlam 2023! 🚀](https://www.reddit.com/r/Python/comments/15rjqye/join_the_ultimate_tech_extravaganza_at_global/)
-- [Loking for code to Pack](https://www.reddit.com/r/Python/comments/15rhb24/loking_for_code_to_pack/)
 - [Loking for code to Pack](https://www.reddit.com/r/Python/comments/15rhb1t/loking_for_code_to_pack/)
-- [liteLLM – simple library to standardize OpenAI, Cohere, Azure, Anthropic, Llama2, LLM Input/Output](https://www.reddit.com/r/Python/comments/15reo0q/litellm_simple_library_to_standardize_openai/)
+- [Loking for code to Pack](https://www.reddit.com/r/Python/comments/15rhb24/loking_for_code_to_pack/)
 <!-- BLOG-POST-LIST:END -->
