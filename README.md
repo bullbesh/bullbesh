@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Poetry only useful for packages?](https://www.reddit.com/r/Python/comments/15slsmf/poetry_only_useful_for_packages/)
+- [New RestAPI Framework For Python](https://www.reddit.com/r/Python/comments/15skrhm/new_restapi_framework_for_python/)
 - [A algorithms which is better than dikstra&#39;s algorithm](https://www.reddit.com/r/Python/comments/15sk9kp/a_algorithms_which_is_better_than_dikstras/)
 - [An algorithm that is better than Dijkstra&#39;s algorithm](https://www.reddit.com/r/Python/comments/15sk3pc/an_algorithm_that_is_better_than_dijkstras/)
 - [Do you think i should go to physical python course or just learn it on my own?](https://www.reddit.com/r/Python/comments/15shah0/do_you_think_i_should_go_to_physical_python/)
-- [Send Ping by using Python](https://www.reddit.com/r/Python/comments/15sfi0y/send_ping_by_using_python/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/15s9h89/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
