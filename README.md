@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tools for package and python version management &lpar;e.g. Pipenv + Pyenv&rpar;?](https://www.reddit.com/r/Python/comments/15sr0kh/tools_for_package_and_python_version_management/)
 - [Implement parallel training using the multiprocessing module.](https://www.reddit.com/r/Python/comments/15sofwo/implement_parallel_training_using_the/)
 - [Want to Know About Exploratory Data Analysis with Python Jupyter Notebook, Check Out This Blog Post.](https://www.reddit.com/r/Python/comments/15so8as/want_to_know_about_exploratory_data_analysis_with/)
 - [How to Work With Time Series in Python?](https://www.reddit.com/r/Python/comments/15so0qs/how_to_work_with_time_series_in_python/)
 - [Poetry only useful for packages?](https://www.reddit.com/r/Python/comments/15slsmf/poetry_only_useful_for_packages/)
-- [New RestAPI Framework For Python](https://www.reddit.com/r/Python/comments/15skrhm/new_restapi_framework_for_python/)
 <!-- BLOG-POST-LIST:END -->
