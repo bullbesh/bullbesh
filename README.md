@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How can I remove the &#39;readonly&#39; attribute on the pygame module?](https://www.reddit.com/r/Python/comments/15swlek/how_can_i_remove_the_readonly_attribute_on_the/)
 - [Python Methods - append, insert, loops](https://www.reddit.com/r/Python/comments/15suorz/python_methods_append_insert_loops/)
 - [Premier league live scores](https://www.reddit.com/r/Python/comments/15sua37/premier_league_live_scores/)
 - [Calling all Python DEVS! Use your Github to earn badges and rewards](https://www.reddit.com/r/Python/comments/15su7gk/calling_all_python_devs_use_your_github_to_earn/)
 - [I&#39;m working on a video series about my Wanted Poster Python Application!](https://www.reddit.com/r/Python/comments/15stt3m/im_working_on_a_video_series_about_my_wanted/)
-- [natural language to query conversion](https://www.reddit.com/r/Python/comments/15stsh4/natural_language_to_query_conversion/)
 <!-- BLOG-POST-LIST:END -->
