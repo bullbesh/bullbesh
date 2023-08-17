@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What I dislike about Python](https://www.reddit.com/r/Python/comments/15tst4c/what_i_dislike_about_python/)
+- [How to Use Blueprint to Structure Your Flask App](https://www.reddit.com/r/Python/comments/15tsghu/how_to_use_blueprint_to_structure_your_flask_app/)
+- [Compiling Python to Shellscript](https://www.reddit.com/r/Python/comments/15ts7mf/compiling_python_to_shellscript/)
 - [Test LOC / production LOC?](https://www.reddit.com/r/Python/comments/15tqe2e/test_loc_production_loc/)
 - [Is there something like Zefoy but for Instagram?](https://www.reddit.com/r/Python/comments/15tpsqy/is_there_something_like_zefoy_but_for_instagram/)
-- [Want to Know About HOW TO GET AI/ML DEVELOPMENT, TRAINING &amp; INFERENCE USING PYTHON &amp; JUPYTER KIT ON Azure, Check Out this Blog Post.](https://www.reddit.com/r/Python/comments/15tpb31/want_to_know_about_how_to_get_aiml_development/)
-- [How to implement CommandBus in Python. FastAPI example incuded](https://www.reddit.com/r/Python/comments/15tow6k/how_to_implement_commandbus_in_python_fastapi/)
-- [Python REPL-themed portfolio website](https://www.reddit.com/r/Python/comments/15tnv80/python_replthemed_portfolio_website/)
 <!-- BLOG-POST-LIST:END -->
