@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pixi – a fast package manager for conda packages &lpar;written in Rust&rpar;](https://www.reddit.com/r/Python/comments/15tftnj/pixi_a_fast_package_manager_for_conda_packages/)
+- [Code crisis please help](https://www.reddit.com/r/Python/comments/15tfnhm/code_crisis_please_help/)
 - [Image Processing, Computer Vision with OpenCV and Network Programming with Python &lpar;100 Objective Type Questions&rpar;](https://www.reddit.com/r/Python/comments/15telyz/image_processing_computer_vision_with_opencv_and/)
 - [How do you sum a column in Python](https://www.reddit.com/r/Python/comments/15te3ng/how_do_you_sum_a_column_in_python/)
 - [My python syntax wish list](https://www.reddit.com/r/Python/comments/15tar70/my_python_syntax_wish_list/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/15t6lgk/thursday_daily_thread_python_careers_courses_and/)
-- [Error Handling: From Charles Babbage to Python 3.11](https://www.reddit.com/r/Python/comments/15t503x/error_handling_from_charles_babbage_to_python_311/)
 <!-- BLOG-POST-LIST:END -->
