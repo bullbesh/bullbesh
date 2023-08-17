@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Harmony Journey - The soundtrack to your life](https://www.reddit.com/r/Python/comments/15tuxt6/harmony_journey_the_soundtrack_to_your_life/)
 - [What I dislike about Python](https://www.reddit.com/r/Python/comments/15tst4c/what_i_dislike_about_python/)
 - [How to Use Blueprint to Structure Your Flask App](https://www.reddit.com/r/Python/comments/15tsghu/how_to_use_blueprint_to_structure_your_flask_app/)
 - [Compiling Python to Shellscript](https://www.reddit.com/r/Python/comments/15ts7mf/compiling_python_to_shellscript/)
 - [Test LOC / production LOC?](https://www.reddit.com/r/Python/comments/15tqe2e/test_loc_production_loc/)
-- [Is there something like Zefoy but for Instagram?](https://www.reddit.com/r/Python/comments/15tpsqy/is_there_something_like_zefoy_but_for_instagram/)
 <!-- BLOG-POST-LIST:END -->
