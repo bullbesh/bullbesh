@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Track githash inside python application](https://www.reddit.com/r/Python/comments/15twcwf/track_githash_inside_python_application/)
+- [python](https://www.reddit.com/r/Python/comments/15txg6i/python/)
 - [Beginning](https://www.reddit.com/r/Python/comments/15tw1hh/beginning/)
 - [Harmony Journey - The soundtrack to your life](https://www.reddit.com/r/Python/comments/15tuxt6/harmony_journey_the_soundtrack_to_your_life/)
 - [What I dislike about Python](https://www.reddit.com/r/Python/comments/15tst4c/what_i_dislike_about_python/)
