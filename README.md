@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [python](https://www.reddit.com/r/Python/comments/15txg6i/python/)
+- [Kaggle Notebook to Find Your FPL Mini-League MOTW](https://www.reddit.com/r/Python/comments/15tzn1c/kaggle_notebook_to_find_your_fpl_minileague_motw/)
+- [.ajpg Utils](https://www.reddit.com/r/Python/comments/15tz56l/ajpg_utils/)
+- [Quite odd, isn&#39;t it?](https://www.reddit.com/r/Python/comments/15tz2y7/quite_odd_isnt_it/)
+- [Can You Really Bypass the ChatGPT API with Python &amp; Selenium?](https://www.reddit.com/r/Python/comments/15tytjy/can_you_really_bypass_the_chatgpt_api_with_python/)
 - [Beginning](https://www.reddit.com/r/Python/comments/15tw1hh/beginning/)
-- [Harmony Journey - The soundtrack to your life](https://www.reddit.com/r/Python/comments/15tuxt6/harmony_journey_the_soundtrack_to_your_life/)
-- [What I dislike about Python](https://www.reddit.com/r/Python/comments/15tst4c/what_i_dislike_about_python/)
-- [How to Use Blueprint to Structure Your Flask App](https://www.reddit.com/r/Python/comments/15tsghu/how_to_use_blueprint_to_structure_your_flask_app/)
 <!-- BLOG-POST-LIST:END -->
