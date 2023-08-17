@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/15t6lgk/thursday_daily_thread_python_careers_courses_and/)
 - [Error Handling: From Charles Babbage to Python 3.11](https://www.reddit.com/r/Python/comments/15t503x/error_handling_from_charles_babbage_to_python_311/)
 - [Where to find PEP draft implementations?](https://www.reddit.com/r/Python/comments/15t4yuh/where_to_find_pep_draft_implementations/)
 - [Database management app](https://www.reddit.com/r/Python/comments/15t3sxz/database_management_app/)
 - [How APL made me a better Python developer by Rodrigo Girão Serrão @FuncProgSweden](https://www.reddit.com/r/Python/comments/15t05ka/how_apl_made_me_a_better_python_developer_by/)
-- [Maths or physics related problems/simulations in phyton](https://www.reddit.com/r/Python/comments/15t0581/maths_or_physics_related_problemssimulations_in/)
 <!-- BLOG-POST-LIST:END -->
