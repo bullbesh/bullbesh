@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Test LOC / production LOC?](https://www.reddit.com/r/Python/comments/15tqe2e/test_loc_production_loc/)
+- [Is there something like Zefoy but for Instagram?](https://www.reddit.com/r/Python/comments/15tpsqy/is_there_something_like_zefoy_but_for_instagram/)
+- [Want to Know About HOW TO GET AI/ML DEVELOPMENT, TRAINING &amp; INFERENCE USING PYTHON &amp; JUPYTER KIT ON Azure, Check Out this Blog Post.](https://www.reddit.com/r/Python/comments/15tpb31/want_to_know_about_how_to_get_aiml_development/)
+- [How to implement CommandBus in Python. FastAPI example incuded](https://www.reddit.com/r/Python/comments/15tow6k/how_to_implement_commandbus_in_python_fastapi/)
 - [Python REPL-themed portfolio website](https://www.reddit.com/r/Python/comments/15tnv80/python_replthemed_portfolio_website/)
-- [New version of line_profiler: 4.1.0](https://www.reddit.com/r/Python/comments/15tnu99/new_version_of_line_profiler_410/)
-- [Manage your desk differently with Wallpaper-time](https://www.reddit.com/r/Python/comments/15tljut/manage_your_desk_differently_with_wallpapertime/)
-- [Any thoughts on the Python Steering Committee? Is there a set of checks and balances in it? How do they balance keeping Python simple for education, approachable for science, yet scalable for enterprise software engineering? They seem to do a fairly good job of keeping Python lean yet appealing, no?](https://www.reddit.com/r/Python/comments/15tjvx5/any_thoughts_on_the_python_steering_committee_is/)
-- [Recommendations for Python](https://www.reddit.com/r/Python/comments/15ti7gp/recommendations_for_python/)
 <!-- BLOG-POST-LIST:END -->
