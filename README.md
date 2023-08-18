@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python script to generate subtitles for youtube or local videos](https://www.reddit.com/r/Python/comments/15u9sqn/python_script_to_generate_subtitles_for_youtube/)
+- [i made it!!!](https://www.reddit.com/r/Python/comments/15u8xiq/i_made_it/)
 - [Building an efficient sparse keyword index in Python](https://www.reddit.com/r/Python/comments/15u7faq/building_an_efficient_sparse_keyword_index_in/)
 - [What are your best practices for coding in Python in the industry?](https://www.reddit.com/r/Python/comments/15u6fey/what_are_your_best_practices_for_coding_in_python/)
 - [would it make sense to increase the modules contained in the standard library?](https://www.reddit.com/r/Python/comments/15u2uf2/would_it_make_sense_to_increase_the_modules/)
-- [What&#39;s the Best 2D Python Physics Engine for High Objects Only?](https://www.reddit.com/r/Python/comments/15u2byo/whats_the_best_2d_python_physics_engine_for_high/)
-- [Low latency AI voice talk in 60 lines of code](https://www.reddit.com/r/Python/comments/15u0zx3/low_latency_ai_voice_talk_in_60_lines_of_code/)
 <!-- BLOG-POST-LIST:END -->
