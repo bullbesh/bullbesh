@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [F-Strings: A Powerful and Easy Way to Format Strings in Python](https://www.reddit.com/r/Python/comments/15uj7e7/fstrings_a_powerful_and_easy_way_to_format/)
+- [Calculating Pi Using The mpmath Module.](https://www.reddit.com/r/Python/comments/15uix2e/calculating_pi_using_the_mpmath_module/)
+- [Any good discord servers outside of the reddit discord? Looking for a smaller coding community.](https://www.reddit.com/r/Python/comments/15uiwbz/any_good_discord_servers_outside_of_the_reddit/)
+- [freelancing for gaining experience and not for money](https://www.reddit.com/r/Python/comments/15uis44/freelancing_for_gaining_experience_and_not_for/)
 - [100 python interview questions](https://www.reddit.com/r/Python/comments/15ufums/100_python_interview_questions/)
-- [Building an efficient sparse keyword index in Python](https://www.reddit.com/r/Python/comments/15ufl65/building_an_efficient_sparse_keyword_index_in/)
-- [My Top 10 VSCode Extensions for python in 2023](https://www.reddit.com/r/Python/comments/15ue7l9/my_top_10_vscode_extensions_for_python_in_2023/)
-- [request: better way to skip to next iterable if any caller functions detect certain conditions](https://www.reddit.com/r/Python/comments/15ucfhu/request_better_way_to_skip_to_next_iterable_if/)
-- [Join the Global DevSlam 2023: Unleash Your Coding Passion! 🚀](https://www.reddit.com/r/Python/comments/15ucekh/join_the_global_devslam_2023_unleash_your_coding/)
 <!-- BLOG-POST-LIST:END -->
