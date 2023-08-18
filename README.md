@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [100% Off Udemy Course - Time Series Analysis, Forecasting, and ML with Python](https://www.reddit.com/r/Python/comments/15ua1ih/100_off_udemy_course_time_series_analysis/)
+- [How to sum row from csv file in Python](https://www.reddit.com/r/Python/comments/15ua02d/how_to_sum_row_from_csv_file_in_python/)
 - [Python script to generate subtitles for youtube or local videos](https://www.reddit.com/r/Python/comments/15u9sqn/python_script_to_generate_subtitles_for_youtube/)
 - [i made it!!!](https://www.reddit.com/r/Python/comments/15u8xiq/i_made_it/)
 - [Building an efficient sparse keyword index in Python](https://www.reddit.com/r/Python/comments/15u7faq/building_an_efficient_sparse_keyword_index_in/)
-- [What are your best practices for coding in Python in the industry?](https://www.reddit.com/r/Python/comments/15u6fey/what_are_your_best_practices_for_coding_in_python/)
-- [would it make sense to increase the modules contained in the standard library?](https://www.reddit.com/r/Python/comments/15u2uf2/would_it_make_sense_to_increase_the_modules/)
 <!-- BLOG-POST-LIST:END -->
