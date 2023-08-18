@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [request: better way to skip to next iterable if any caller functions detect certain conditions](https://www.reddit.com/r/Python/comments/15ucfhu/request_better_way_to_skip_to_next_iterable_if/)
+- [Join the Global DevSlam 2023: Unleash Your Coding Passion! 🚀](https://www.reddit.com/r/Python/comments/15ucekh/join_the_global_devslam_2023_unleash_your_coding/)
 - [How to use Python to get the Twitter/X word trends of 2022](https://www.reddit.com/r/Python/comments/15ublsk/how_to_use_python_to_get_the_twitterx_word_trends/)
 - [How to sum row from csv file in Python](https://www.reddit.com/r/Python/comments/15ua02d/how_to_sum_row_from_csv_file_in_python/)
 - [Python script to generate subtitles for youtube or local videos](https://www.reddit.com/r/Python/comments/15u9sqn/python_script_to_generate_subtitles_for_youtube/)
-- [i made it!!!](https://www.reddit.com/r/Python/comments/15u8xiq/i_made_it/)
-- [Building an efficient sparse keyword index in Python](https://www.reddit.com/r/Python/comments/15u7faq/building_an_efficient_sparse_keyword_index_in/)
 <!-- BLOG-POST-LIST:END -->
