@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [100 python interview questions](https://www.reddit.com/r/Python/comments/15ufums/100_python_interview_questions/)
+- [Building an efficient sparse keyword index in Python](https://www.reddit.com/r/Python/comments/15ufl65/building_an_efficient_sparse_keyword_index_in/)
 - [My Top 10 VSCode Extensions for python in 2023](https://www.reddit.com/r/Python/comments/15ue7l9/my_top_10_vscode_extensions_for_python_in_2023/)
-- [100% Off Udemy Course - Learn to Code in Python 3: Programming beginner to advanced](https://www.reddit.com/r/Python/comments/15udrfx/100_off_udemy_course_learn_to_code_in_python_3/)
 - [request: better way to skip to next iterable if any caller functions detect certain conditions](https://www.reddit.com/r/Python/comments/15ucfhu/request_better_way_to_skip_to_next_iterable_if/)
 - [Join the Global DevSlam 2023: Unleash Your Coding Passion! 🚀](https://www.reddit.com/r/Python/comments/15ucekh/join_the_global_devslam_2023_unleash_your_coding/)
-- [How to use Python to get the Twitter/X word trends of 2022](https://www.reddit.com/r/Python/comments/15ublsk/how_to_use_python_to_get_the_twitterx_word_trends/)
 <!-- BLOG-POST-LIST:END -->
