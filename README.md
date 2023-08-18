@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [100% Off Udemy Course - Time Series Analysis, Forecasting, and ML with Python](https://www.reddit.com/r/Python/comments/15ua1ih/100_off_udemy_course_time_series_analysis/)
+- [How to use Python to get the Twitter/X word trends of 2022](https://www.reddit.com/r/Python/comments/15ublsk/how_to_use_python_to_get_the_twitterx_word_trends/)
 - [How to sum row from csv file in Python](https://www.reddit.com/r/Python/comments/15ua02d/how_to_sum_row_from_csv_file_in_python/)
 - [Python script to generate subtitles for youtube or local videos](https://www.reddit.com/r/Python/comments/15u9sqn/python_script_to_generate_subtitles_for_youtube/)
 - [i made it!!!](https://www.reddit.com/r/Python/comments/15u8xiq/i_made_it/)
