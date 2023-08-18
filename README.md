@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Constrained Linear Regression](https://www.reddit.com/r/Python/comments/15uuo14/constrained_linear_regression/)
+- [Pipext: An extended pip installer that updates req.txt](https://www.reddit.com/r/Python/comments/15uuo08/pipext_an_extended_pip_installer_that_updates/)
+- [What are some less known ways to get into understanding and learning python that aren’t talked about often?](https://www.reddit.com/r/Python/comments/15uuajy/what_are_some_less_known_ways_to_get_into/)
 - [From Ground Zero to Python Hero: Inspirational Stories of Learning Programming Afresh](https://www.reddit.com/r/Python/comments/15uscqf/from_ground_zero_to_python_hero_inspirational/)
 - [Ищу вдохновение: Поделитесь историями изучения Python с нуля](https://www.reddit.com/r/Python/comments/15uryb4/ищу_вдохновение_поделитесь_историями_изучения/)
-- [🔒 Learn the Basics of Pyperclip: Building a Simple Password Locker Program! 🔑](https://www.reddit.com/r/Python/comments/15unw4i/learn_the_basics_of_pyperclip_building_a_simple/)
-- [Deterministic Machine Learning Development Environments with Docker and CUDA](https://www.reddit.com/r/Python/comments/15un2ws/deterministic_machine_learning_development/)
-- [Today is CircuitPython Day. Write and Run Python on Microcontrollers and Celebrate the Day and watch a range of video broadcasts](https://www.reddit.com/r/Python/comments/15ulfrw/today_is_circuitpython_day_write_and_run_python/)
 <!-- BLOG-POST-LIST:END -->
