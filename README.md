@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Top 10 VSCode Extensions for python in 2023](https://www.reddit.com/r/Python/comments/15ue7l9/my_top_10_vscode_extensions_for_python_in_2023/)
+- [100% Off Udemy Course - Learn to Code in Python 3: Programming beginner to advanced](https://www.reddit.com/r/Python/comments/15udrfx/100_off_udemy_course_learn_to_code_in_python_3/)
 - [request: better way to skip to next iterable if any caller functions detect certain conditions](https://www.reddit.com/r/Python/comments/15ucfhu/request_better_way_to_skip_to_next_iterable_if/)
 - [Join the Global DevSlam 2023: Unleash Your Coding Passion! 🚀](https://www.reddit.com/r/Python/comments/15ucekh/join_the_global_devslam_2023_unleash_your_coding/)
 - [How to use Python to get the Twitter/X word trends of 2022](https://www.reddit.com/r/Python/comments/15ublsk/how_to_use_python_to_get_the_twitterx_word_trends/)
-- [How to sum row from csv file in Python](https://www.reddit.com/r/Python/comments/15ua02d/how_to_sum_row_from_csv_file_in_python/)
-- [Python script to generate subtitles for youtube or local videos](https://www.reddit.com/r/Python/comments/15u9sqn/python_script_to_generate_subtitles_for_youtube/)
 <!-- BLOG-POST-LIST:END -->
