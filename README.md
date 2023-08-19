@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reliability](https://www.reddit.com/r/Python/comments/15v0v70/reliability/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/15v0m5b/saturday_daily_thread_resource_request_and/)
 - [Python function-based graph viz for vs code](https://www.reddit.com/r/Python/comments/15uypw5/python_functionbased_graph_viz_for_vs_code/)
 - [Cargo &lpar;Rust&rpar; inspired package manager for Python. Pyrgo](https://www.reddit.com/r/Python/comments/15uvtca/cargo_rust_inspired_package_manager_for_python/)
 - [Constrained Linear Regression](https://www.reddit.com/r/Python/comments/15uuo14/constrained_linear_regression/)
-- [Pipext: An extended pip installer that updates req.txt](https://www.reddit.com/r/Python/comments/15uuo08/pipext_an_extended_pip_installer_that_updates/)
-- [What are some less known ways to get into understanding and learning python that aren’t talked about often?](https://www.reddit.com/r/Python/comments/15uuajy/what_are_some_less_known_ways_to_get_into/)
 <!-- BLOG-POST-LIST:END -->
