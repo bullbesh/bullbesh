@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [EasyGraph: A Multifunctional, Cross-Platform, and Effective Library for Interdisciplinary Network Analysis](https://www.reddit.com/r/Python/comments/15vbu1i/easygraph_a_multifunctional_crossplatform_and/)
 - [Desktop app for GPT4](https://www.reddit.com/r/Python/comments/15vabyy/desktop_app_for_gpt4/)
 - [Reliability](https://www.reddit.com/r/Python/comments/15v0v70/reliability/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/15v0m5b/saturday_daily_thread_resource_request_and/)
 - [Python function-based graph viz for vs code](https://www.reddit.com/r/Python/comments/15uypw5/python_functionbased_graph_viz_for_vs_code/)
-- [Cargo &lpar;Rust&rpar; inspired package manager for Python. Pyrgo](https://www.reddit.com/r/Python/comments/15uvtca/cargo_rust_inspired_package_manager_for_python/)
 <!-- BLOG-POST-LIST:END -->
