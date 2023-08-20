@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I prefer to learn code through books, Kindle or print. Problem is there&#39;s a lot of very poor books out there. Can anyone recommend any decent books, perhaps across a range of prices?](https://www.reddit.com/r/Python/comments/15vx5mt/i_prefer_to_learn_code_through_books_kindle_or/)
+- [Safe Arithmetic Expression Evaluator](https://www.reddit.com/r/Python/comments/15vw439/safe_arithmetic_expression_evaluator/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/15vvsw8/sunday_daily_thread_whats_everyone_working_on/)
+- [Suitable data structure to store food log and daily activities?](https://www.reddit.com/r/Python/comments/15vvaot/suitable_data_structure_to_store_food_log_and/)
 - [When to be concerned? LiveFeeder](https://www.reddit.com/r/Python/comments/15vow9j/when_to_be_concerned_livefeeder/)
-- [Experience with typed libraries](https://www.reddit.com/r/Python/comments/15vmecw/experience_with_typed_libraries/)
-- [I shared a Python Exploratory Data Analysis project on my YouTube Channel](https://www.reddit.com/r/Python/comments/15vilt4/i_shared_a_python_exploratory_data_analysis/)
-- [Easily share data between iOS and Windows Devices](https://www.reddit.com/r/Python/comments/15vg9qc/easily_share_data_between_ios_and_windows_devices/)
-- [What does your Python dev environment look like?](https://www.reddit.com/r/Python/comments/15vezni/what_does_your_python_dev_environment_look_like/)
 <!-- BLOG-POST-LIST:END -->
