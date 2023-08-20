@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [For Beginners &lpar;i just had some fun with chatgpt&rpar; &lpar;:](https://www.reddit.com/r/Python/comments/15wgbr0/for_beginners_i_just_had_some_fun_with_chatgpt/)
+- [When did it “click” for you?](https://www.reddit.com/r/Python/comments/15wg92q/when_did_it_click_for_you/)
 - [Python + sqlAlchemy + mysql + multithreading](https://www.reddit.com/r/Python/comments/15we24f/python_sqlalchemy_mysql_multithreading/)
 - [Fluke 0.5.0 is out with support for GCS](https://www.reddit.com/r/Python/comments/15we1uh/fluke_050_is_out_with_support_for_gcs/)
 - [Fast CV App: Cross Platform Computer Vision Using Multiprocessing](https://www.reddit.com/r/Python/comments/15wczkz/fast_cv_app_cross_platform_computer_vision_using/)
-- [What is your field of work?](https://www.reddit.com/r/Python/comments/15wcrev/what_is_your_field_of_work/)
-- [🔒 Introducing Litecrypt: Library to Simplify Data Protection 🔒](https://www.reddit.com/r/Python/comments/15wcevh/introducing_litecrypt_library_to_simplify_data/)
 <!-- BLOG-POST-LIST:END -->
