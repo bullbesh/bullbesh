@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hola me presento...](https://www.reddit.com/r/Python/comments/15wq3vt/hola_me_presento/)
 - [Inheritance in Python Classes](https://www.reddit.com/r/Python/comments/15wocve/inheritance_in_python_classes/)
 - [New, easy to integrate OAuth2 authentication for FastAPI](https://www.reddit.com/r/Python/comments/15wn1vr/new_easy_to_integrate_oauth2_authentication_for/)
 - [Unveiling `types-confluent-kafka`: Elevate Confluent Kafka Typing in Your IDE!](https://www.reddit.com/r/Python/comments/15wkch9/unveiling_typesconfluentkafka_elevate_confluent/)
 - [Web Scraping Realtor.com](https://www.reddit.com/r/Python/comments/15whvvb/web_scraping_realtorcom/)
-- [For Beginners &lpar;i just had some fun with chatgpt&rpar; &lpar;:](https://www.reddit.com/r/Python/comments/15wgbr0/for_beginners_i_just_had_some_fun_with_chatgpt/)
 <!-- BLOG-POST-LIST:END -->
