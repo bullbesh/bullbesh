@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🔒 Introducing Litecrypt: Library to Simplify Data Protection 🔒](https://www.reddit.com/r/Python/comments/15wcevh/introducing_litecrypt_library_to_simplify_data/)
+- [A Comprehensive Guide to Python Logging with Structlog](https://www.reddit.com/r/Python/comments/15wc91b/a_comprehensive_guide_to_python_logging_with/)
 - [Generalising a simple encryption using Python](https://www.reddit.com/r/Python/comments/15w84z5/generalising_a_simple_encryption_using_python/)
 - [I shared a PySpark &lpar;Python API of Apache Spark&rpar; Big Data Course on my YouTube Channel](https://www.reddit.com/r/Python/comments/15w7nhq/i_shared_a_pyspark_python_api_of_apache_spark_big/)
 - [Recommendation on how to learn Python!](https://www.reddit.com/r/Python/comments/15w54yn/recommendation_on_how_to_learn_python/)
-- [New PyconAU &#39;23 videos/tutorials coming out as the conference finishes up! Great source of fresh ideas and topics to try.](https://www.reddit.com/r/Python/comments/15w44zn/new_pyconau_23_videostutorials_coming_out_as_the/)
-- [How can I write a Python Script that runs at 00:XX then runs 2 minutes later the next time?](https://www.reddit.com/r/Python/comments/15vzefv/how_can_i_write_a_python_script_that_runs_at_00xx/)
 <!-- BLOG-POST-LIST:END -->
