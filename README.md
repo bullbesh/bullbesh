@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling `types-confluent-kafka`: Elevate Confluent Kafka Typing in Your IDE!](https://www.reddit.com/r/Python/comments/15wkch9/unveiling_typesconfluentkafka_elevate_confluent/)
 - [Web Scraping Realtor.com](https://www.reddit.com/r/Python/comments/15whvvb/web_scraping_realtorcom/)
 - [For Beginners &lpar;i just had some fun with chatgpt&rpar; &lpar;:](https://www.reddit.com/r/Python/comments/15wgbr0/for_beginners_i_just_had_some_fun_with_chatgpt/)
 - [When did it “click” for you?](https://www.reddit.com/r/Python/comments/15wg92q/when_did_it_click_for_you/)
 - [Python + sqlAlchemy + mysql + multithreading](https://www.reddit.com/r/Python/comments/15we24f/python_sqlalchemy_mysql_multithreading/)
-- [Fluke 0.5.0 is out with support for GCS](https://www.reddit.com/r/Python/comments/15we1uh/fluke_050_is_out_with_support_for_gcs/)
 <!-- BLOG-POST-LIST:END -->
