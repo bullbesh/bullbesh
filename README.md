@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [KCL: A Python Like Configuration Programming Language written in Rust and Python](https://www.reddit.com/r/Python/comments/15wuk0i/kcl_a_python_like_configuration_programming/)
 - [Play A Video In 2 Lines Of Code!](https://www.reddit.com/r/Python/comments/15wu6l3/play_a_video_in_2_lines_of_code/)
-- [100% Off Udemy Course - Top 100 python interview questions](https://www.reddit.com/r/Python/comments/15wt5tj/100_off_udemy_course_top_100_python_interview/)
 - [Exploring LLMs and prompts: A guide to the PromptTools Playground](https://www.reddit.com/r/Python/comments/15wrvcg/exploring_llms_and_prompts_a_guide_to_the/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/15wr9l2/monday_daily_thread_project_ideas/)
 - [Python | OpenSCAD](https://www.reddit.com/r/Python/comments/15wqk6a/python_openscad/)
