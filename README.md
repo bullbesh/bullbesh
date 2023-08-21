@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Godeh Series, Python, and OEIS](https://www.reddit.com/r/Python/comments/15xjs95/the_godeh_series_python_and_oeis/)
+- [Rye: An Experimental Package Management Solution for Python by Armin Ronacher &lpar;mitsuhiko&rpar;](https://www.reddit.com/r/Python/comments/15xjej4/rye_an_experimental_package_management_solution/)
 - [Where do I get data structures and algorithms in python complete course for free](https://www.reddit.com/r/Python/comments/15xhe9k/where_do_i_get_data_structures_and_algorithms_in/)
 - [Fail your build automatically for legal reasons](https://www.reddit.com/r/Python/comments/15xf8cu/fail_your_build_automatically_for_legal_reasons/)
 - [Python web apps with AI](https://www.reddit.com/r/Python/comments/15x9n3j/python_web_apps_with_ai/)
-- [3D Engine in Python: New update on Harfang 3D](https://www.reddit.com/r/Python/comments/15x8tqh/3d_engine_in_python_new_update_on_harfang_3d/)
-- [Deploying a Machine Learning Model to AWS Lambda](https://www.reddit.com/r/Python/comments/15x8mbe/deploying_a_machine_learning_model_to_aws_lambda/)
 <!-- BLOG-POST-LIST:END -->
