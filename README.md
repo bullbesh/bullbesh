@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Python in VS Code Tutorial DE](https://www.reddit.com/r/Python/comments/15wywbj/python_in_vs_code_tutorial_de/)
 - [How to Flash Messages on Frontend using Flask](https://www.reddit.com/r/Python/comments/15wys5z/how_to_flash_messages_on_frontend_using_flask/)
-- [Odd list to set conversion behavior](https://www.reddit.com/r/Python/comments/15wwf1o/odd_list_to_set_conversion_behavior/)
 - [KCL: A Python Like Configuration Programming Language written in Rust and Python](https://www.reddit.com/r/Python/comments/15wuk0i/kcl_a_python_like_configuration_programming/)
 - [Play A Video In 2 Lines Of Code!](https://www.reddit.com/r/Python/comments/15wu6l3/play_a_video_in_2_lines_of_code/)
+- [Exploring LLMs and prompts: A guide to the PromptTools Playground](https://www.reddit.com/r/Python/comments/15wrvcg/exploring_llms_and_prompts_a_guide_to_the/)
 <!-- BLOG-POST-LIST:END -->
