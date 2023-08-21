@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [3D Engine in Python: New update on Harfang 3D](https://www.reddit.com/r/Python/comments/15x8tqh/3d_engine_in_python_new_update_on_harfang_3d/)
+- [Deploying a Machine Learning Model to AWS Lambda](https://www.reddit.com/r/Python/comments/15x8mbe/deploying_a_machine_learning_model_to_aws_lambda/)
+- [Want to Know About, How to run Open Source LLMs in Jupyter Python Notebook as an Alternative to ChatGPT, Check Out this Blog Post.](https://www.reddit.com/r/Python/comments/15x8jwu/want_to_know_about_how_to_run_open_source_llms_in/)
+- [Python challenge tutorial to get started: build a tictactoe game from scratch](https://www.reddit.com/r/Python/comments/15x7so4/python_challenge_tutorial_to_get_started_build_a/)
 - [GitHub - coldtype/coldtype: cross-platform display typography in python](https://www.reddit.com/r/Python/comments/15x6xvq/github_coldtypecoldtype_crossplatform_display/)
-- [Python quiz!](https://www.reddit.com/r/Python/comments/15x6qmj/python_quiz/)
-- [What do you think is the best specialisation for someone who intends to teach Python?](https://www.reddit.com/r/Python/comments/15x5l7k/what_do_you_think_is_the_best_specialisation_for/)
-- [4 small Python hints to improve your code](https://www.reddit.com/r/Python/comments/15x5azn/4_small_python_hints_to_improve_your_code/)
-- [Book Review : Python Programming Exercises, Gently Explained](https://www.reddit.com/r/Python/comments/15x3sfe/book_review_python_programming_exercises_gently/)
 <!-- BLOG-POST-LIST:END -->
