@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Where do I get data structures and algorithms in python complete course for free](https://www.reddit.com/r/Python/comments/15xhe9k/where_do_i_get_data_structures_and_algorithms_in/)
 - [Fail your build automatically for legal reasons](https://www.reddit.com/r/Python/comments/15xf8cu/fail_your_build_automatically_for_legal_reasons/)
-- [Can someone write a program for this without conditional statements?](https://www.reddit.com/r/Python/comments/15xd5r3/can_someone_write_a_program_for_this_without/)
 - [Python web apps with AI](https://www.reddit.com/r/Python/comments/15x9n3j/python_web_apps_with_ai/)
 - [3D Engine in Python: New update on Harfang 3D](https://www.reddit.com/r/Python/comments/15x8tqh/3d_engine_in_python_new_update_on_harfang_3d/)
 - [Deploying a Machine Learning Model to AWS Lambda](https://www.reddit.com/r/Python/comments/15x8mbe/deploying_a_machine_learning_model_to_aws_lambda/)
