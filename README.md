@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What do you think is the best specialisation for someone who intends to teach Python?](https://www.reddit.com/r/Python/comments/15x5l7k/what_do_you_think_is_the_best_specialisation_for/)
+- [4 small Python hints to improve your code](https://www.reddit.com/r/Python/comments/15x5azn/4_small_python_hints_to_improve_your_code/)
 - [Book Review : Python Programming Exercises, Gently Explained](https://www.reddit.com/r/Python/comments/15x3sfe/book_review_python_programming_exercises_gently/)
 - [Any course recommendations for absolute beginner ? Thanks in advance](https://www.reddit.com/r/Python/comments/15x3pib/any_course_recommendations_for_absolute_beginner/)
 - [Why doesnt Python add itself to PATH on Windows?](https://www.reddit.com/r/Python/comments/15x2ny7/why_doesnt_python_add_itself_to_path_on_windows/)
-- [What should the next moves be for a beginner who just finished “python crash course”](https://www.reddit.com/r/Python/comments/15x256j/what_should_the_next_moves_be_for_a_beginner_who/)
-- [Supercharge Your C# Code: Integrating Python using Python.NET](https://www.reddit.com/r/Python/comments/15x0xuk/supercharge_your_c_code_integrating_python_using/)
 <!-- BLOG-POST-LIST:END -->
