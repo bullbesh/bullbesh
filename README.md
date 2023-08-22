@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Made a python webscraper for downloading r/wallpapers](https://www.reddit.com/r/Python/comments/15y2yqh/made_a_python_webscraper_for_downloading/)
-- [What tools do you use to auto-generate api docs in python packages?](https://www.reddit.com/r/Python/comments/15y03m7/what_tools_do_you_use_to_autogenerate_api_docs_in/)
-- [9 Python Built-In Decorators That Optimize Your Code Significantly](https://www.reddit.com/r/Python/comments/15xzi1e/9_python_builtin_decorators_that_optimize_your/)
-- [Beyond the Basics: A Deep Dive into Stock Analysis with Python](https://www.reddit.com/r/Python/comments/15xygd1/beyond_the_basics_a_deep_dive_into_stock_analysis/)
-- [GitHub - normal-computing/outlines: Generative Model Programming](https://www.reddit.com/r/Python/comments/15xx0tz/github_normalcomputingoutlines_generative_model/)
+- [Why is Python not used to make AAA games ?](https://www.reddit.com/r/Python/comments/15y71w5/why_is_python_not_used_to_make_aaa_games/)
+- [Build a Code Image Generator With Python – Real Python](https://www.reddit.com/r/Python/comments/15y70kw/build_a_code_image_generator_with_python_real/)
+- [Python coming to excel](https://www.reddit.com/r/Python/comments/15y6fea/python_coming_to_excel/)
+- [Microsoft is bringing Python to Excel](https://www.reddit.com/r/Python/comments/15y6f88/microsoft_is_bringing_python_to_excel/)
+- [Want to Know About, Types of Open Source &amp; Closed Source LLMs&lpar;Large Language Models&rpar;, Check Out this Blog Post.](https://www.reddit.com/r/Python/comments/15y67xz/want_to_know_about_types_of_open_source_closed/)
 <!-- BLOG-POST-LIST:END -->
