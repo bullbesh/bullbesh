@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I shared a video about forecasting stock prices using Python, used an ARIMA model for the forecast](https://www.reddit.com/r/Python/comments/15y8jcb/i_shared_a_video_about_forecasting_stock_prices/)
+- [Reconciling elegance and secure-by-design in APIs](https://www.reddit.com/r/Python/comments/15y7788/reconciling_elegance_and_securebydesign_in_apis/)
 - [Why is Python not used to make AAA games ?](https://www.reddit.com/r/Python/comments/15y71w5/why_is_python_not_used_to_make_aaa_games/)
 - [Build a Code Image Generator With Python – Real Python](https://www.reddit.com/r/Python/comments/15y70kw/build_a_code_image_generator_with_python_real/)
 - [Python coming to excel](https://www.reddit.com/r/Python/comments/15y6fea/python_coming_to_excel/)
-- [Microsoft is bringing Python to Excel](https://www.reddit.com/r/Python/comments/15y6f88/microsoft_is_bringing_python_to_excel/)
-- [Want to Know About, Types of Open Source &amp; Closed Source LLMs&lpar;Large Language Models&rpar;, Check Out this Blog Post.](https://www.reddit.com/r/Python/comments/15y67xz/want_to_know_about_types_of_open_source_closed/)
 <!-- BLOG-POST-LIST:END -->
