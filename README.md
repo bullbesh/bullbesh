@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a fun Typing Racer style game in Python using the Pygame Module and get a huge word dataset using the natural language toolkit package &lpar;nltk&rpar;](https://www.reddit.com/r/Python/comments/15xrx4m/i_made_a_fun_typing_racer_style_game_in_python/)
 - [switch-case equivalent in Python : match-case](https://www.reddit.com/r/Python/comments/15xppi0/switchcase_equivalent_in_python_matchcase/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/15xoqfm/tuesday_daily_thread_advanced_questions/)
 - [Python Interview for beginner !](https://www.reddit.com/r/Python/comments/15xkvka/python_interview_for_beginner/)
 - [The Godeh Series, Python, and OEIS](https://www.reddit.com/r/Python/comments/15xjs95/the_godeh_series_python_and_oeis/)
-- [Rye: An Experimental Package Management Solution for Python by Armin Ronacher &lpar;mitsuhiko&rpar;](https://www.reddit.com/r/Python/comments/15xjej4/rye_an_experimental_package_management_solution/)
 <!-- BLOG-POST-LIST:END -->
