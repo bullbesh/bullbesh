@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I shared a video about forecasting stock prices using Python, used an ARIMA model for the forecast](https://www.reddit.com/r/Python/comments/15y8jcb/i_shared_a_video_about_forecasting_stock_prices/)
-- [Reconciling elegance and secure-by-design in APIs](https://www.reddit.com/r/Python/comments/15y7788/reconciling_elegance_and_securebydesign_in_apis/)
-- [Why is Python not used to make AAA games ?](https://www.reddit.com/r/Python/comments/15y71w5/why_is_python_not_used_to_make_aaa_games/)
-- [Build a Code Image Generator With Python – Real Python](https://www.reddit.com/r/Python/comments/15y70kw/build_a_code_image_generator_with_python_real/)
-- [Python coming to excel](https://www.reddit.com/r/Python/comments/15y6fea/python_coming_to_excel/)
+- [I did a project about forecasting stock prices using Python and uploaded it on YouTube](https://www.reddit.com/r/Python/comments/15yagl9/i_did_a_project_about_forecasting_stock_prices/)
+- [Python Web Conference 2023 Sessions Now Online](https://www.reddit.com/r/Python/comments/15yafoo/python_web_conference_2023_sessions_now_online/)
+- [CISC 219 programming in Python](https://www.reddit.com/r/Python/comments/15yaagt/cisc_219_programming_in_python/)
+- [Use the complete AutoHotkey language from Python, all features.](https://www.reddit.com/r/Python/comments/15ya3af/use_the_complete_autohotkey_language_from_python/)
+- [python tips](https://www.reddit.com/r/Python/comments/15y9pqn/python_tips/)
 <!-- BLOG-POST-LIST:END -->
