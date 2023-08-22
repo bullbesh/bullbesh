@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m building a Github for Open Data](https://www.reddit.com/r/Python/comments/15y1p65/im_building_a_github_for_open_data/)
 - [What tools do you use to auto-generate api docs in python packages?](https://www.reddit.com/r/Python/comments/15y03m7/what_tools_do_you_use_to_autogenerate_api_docs_in/)
 - [9 Python Built-In Decorators That Optimize Your Code Significantly](https://www.reddit.com/r/Python/comments/15xzi1e/9_python_builtin_decorators_that_optimize_your/)
 - [Beyond the Basics: A Deep Dive into Stock Analysis with Python](https://www.reddit.com/r/Python/comments/15xygd1/beyond_the_basics_a_deep_dive_into_stock_analysis/)
 - [GitHub - normal-computing/outlines: Generative Model Programming](https://www.reddit.com/r/Python/comments/15xx0tz/github_normalcomputingoutlines_generative_model/)
-- [I made a fun Typing Racer style game in Python using the Pygame Module and get a huge word dataset using the natural language toolkit package &lpar;nltk&rpar;](https://www.reddit.com/r/Python/comments/15xrx4m/i_made_a_fun_typing_racer_style_game_in_python/)
 <!-- BLOG-POST-LIST:END -->
