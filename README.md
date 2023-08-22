@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finding a partner in crime&rpar;](https://www.reddit.com/r/Python/comments/15yjxxw/finding_a_partner_in_crime/)
+- [Explore the collections module](https://www.reddit.com/r/Python/comments/15yjfka/explore_the_collections_module/)
 - [Hi](https://www.reddit.com/r/Python/comments/15yek4x/hi/)
 - [How To Re-Create Photoshop&#39;s Spot Healing Tool In Python Using PyQt5 &amp; Opencv](https://www.reddit.com/r/Python/comments/15yds5c/how_to_recreate_photoshops_spot_healing_tool_in/)
 - [Asyncio, twisted, tornado, gevent walk into a bar...](https://www.reddit.com/r/Python/comments/15ydahg/asyncio_twisted_tornado_gevent_walk_into_a_bar/)
-- [Pandas error in Vscode &lpar;Anaconda environment&rpar;](https://www.reddit.com/r/Python/comments/15yar42/pandas_error_in_vscode_anaconda_environment/)
-- [I did a project about forecasting stock prices using Python and uploaded it on YouTube](https://www.reddit.com/r/Python/comments/15yagl9/i_did_a_project_about_forecasting_stock_prices/)
 <!-- BLOG-POST-LIST:END -->
