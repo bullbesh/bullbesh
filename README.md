@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [switch-case equivalent in Python : match-case](https://www.reddit.com/r/Python/comments/15xppi0/switchcase_equivalent_in_python_matchcase/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/15xoqfm/tuesday_daily_thread_advanced_questions/)
 - [Python Interview for beginner !](https://www.reddit.com/r/Python/comments/15xkvka/python_interview_for_beginner/)
 - [The Godeh Series, Python, and OEIS](https://www.reddit.com/r/Python/comments/15xjs95/the_godeh_series_python_and_oeis/)
 - [Rye: An Experimental Package Management Solution for Python by Armin Ronacher &lpar;mitsuhiko&rpar;](https://www.reddit.com/r/Python/comments/15xjej4/rye_an_experimental_package_management_solution/)
-- [Where do I get data structures and algorithms in python complete course for free](https://www.reddit.com/r/Python/comments/15xhe9k/where_do_i_get_data_structures_and_algorithms_in/)
-- [Fail your build automatically for legal reasons](https://www.reddit.com/r/Python/comments/15xf8cu/fail_your_build_automatically_for_legal_reasons/)
 <!-- BLOG-POST-LIST:END -->
