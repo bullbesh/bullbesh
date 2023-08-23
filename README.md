@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[gsc scripts without a cronus or titan] is it possible.](https://www.reddit.com/r/Python/comments/15zhch6/gsc_scripts_without_a_cronus_or_titan_is_it/)
+- [Code Feedback For OSINT Tool](https://www.reddit.com/r/Python/comments/15zhasr/code_feedback_for_osint_tool/)
 - [How do an upper class calls a sub class method based only on a substring like &quot;test_&quot;?](https://www.reddit.com/r/Python/comments/15zflrz/how_do_an_upper_class_calls_a_sub_class_method/)
 - [Pydantic Projects](https://www.reddit.com/r/Python/comments/15zdv64/pydantic_projects/)
 - [Recommended learning path for kids?](https://www.reddit.com/r/Python/comments/15zc2z2/recommended_learning_path_for_kids/)
-- [ImageChat as Fashion Advisor](https://www.reddit.com/r/Python/comments/15z6ljv/imagechat_as_fashion_advisor/)
-- [How to fine-tune gpt-3.5-turbo in four steps.](https://www.reddit.com/r/Python/comments/15z6ktg/how_to_finetune_gpt35turbo_in_four_steps/)
 <!-- BLOG-POST-LIST:END -->
