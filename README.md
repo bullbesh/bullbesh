@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - adbar/trafilatura: Python &amp; command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments](https://www.reddit.com/r/Python/comments/15yvd8v/github_adbartrafilatura_python_commandline_tool/)
+- [Am I Prepared?](https://www.reddit.com/r/Python/comments/15yvcd0/am_i_prepared/)
 - [Have you tried Go?](https://www.reddit.com/r/Python/comments/15yusow/have_you_tried_go/)
 - [Python URL Parsing Function Flaw Exposes System to Arbitrary Command Execution](https://www.reddit.com/r/Python/comments/15yu7pi/python_url_parsing_function_flaw_exposes_system/)
 - [[gsc scripts without a cronus or titan] is it possible](https://www.reddit.com/r/Python/comments/15yu4if/gsc_scripts_without_a_cronus_or_titan_is_it/)
-- [xpath数据提取失败求大佬解答一下](https://www.reddit.com/r/Python/comments/15yrt54/xpath数据提取失败求大佬解答一下/)
-- [adhd.py lmao](https://www.reddit.com/r/Python/comments/15ypv13/adhdpy_lmao/)
 <!-- BLOG-POST-LIST:END -->
