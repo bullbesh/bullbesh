@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Roadmap: How to become a python developer?](https://www.reddit.com/r/Python/comments/15z3kxc/roadmap_how_to_become_a_python_developer/)
+- [Roadmap: How to become a python developer?](https://www.reddit.com/r/Python/comments/15z3kx8/roadmap_how_to_become_a_python_developer/)
 - [Quart-Schema, 0.17.0 Released](https://www.reddit.com/r/Python/comments/15z2eau/quartschema_0170_released/)
 - [Flight price scraper](https://www.reddit.com/r/Python/comments/15z2btq/flight_price_scraper/)
 - [I built a remote only jobs site for developers!](https://www.reddit.com/r/Python/comments/15z20cd/i_built_a_remote_only_jobs_site_for_developers/)
-- [How to create a temporary virtualenv](https://www.reddit.com/r/Python/comments/15z1nwk/how_to_create_a_temporary_virtualenv/)
-- [How to build the front end of a web app if you only know python?](https://www.reddit.com/r/Python/comments/15z1amc/how_to_build_the_front_end_of_a_web_app_if_you/)
 <!-- BLOG-POST-LIST:END -->
