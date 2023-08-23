@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to extract data from Pdf files](https://www.reddit.com/r/Python/comments/15z0o2k/how_to_extract_data_from_pdf_files/)
-- [Saving data of web scraping in local json file](https://www.reddit.com/r/Python/comments/15yzfqa/saving_data_of_web_scraping_in_local_json_file/)
-- [Can mypy be configured to not need certain type annotations?](https://www.reddit.com/r/Python/comments/15yyvj0/can_mypy_be_configured_to_not_need_certain_type/)
-- [Sanic Security: An effective, simple, and async security library for the Sanic framework.](https://www.reddit.com/r/Python/comments/15yxvkp/sanic_security_an_effective_simple_and_async/)
-- [GitHub - adbar/trafilatura: Python &amp; command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments](https://www.reddit.com/r/Python/comments/15yvd8v/github_adbartrafilatura_python_commandline_tool/)
+- [Quart-Schema, 0.17.0 Released](https://www.reddit.com/r/Python/comments/15z2eau/quartschema_0170_released/)
+- [Flight price scraper](https://www.reddit.com/r/Python/comments/15z2btq/flight_price_scraper/)
+- [I built a remote only jobs site for developers!](https://www.reddit.com/r/Python/comments/15z20cd/i_built_a_remote_only_jobs_site_for_developers/)
+- [How to create a temporary virtualenv](https://www.reddit.com/r/Python/comments/15z1nwk/how_to_create_a_temporary_virtualenv/)
+- [How to build the front end of a web app if you only know python?](https://www.reddit.com/r/Python/comments/15z1amc/how_to_build_the_front_end_of_a_web_app_if_you/)
 <!-- BLOG-POST-LIST:END -->
