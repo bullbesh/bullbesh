@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saving data of web scraping in local json file](https://www.reddit.com/r/Python/comments/15yzfqa/saving_data_of_web_scraping_in_local_json_file/)
+- [Can mypy be configured to not need certain type annotations?](https://www.reddit.com/r/Python/comments/15yyvj0/can_mypy_be_configured_to_not_need_certain_type/)
 - [Sanic Security: An effective, simple, and async security library for the Sanic framework.](https://www.reddit.com/r/Python/comments/15yxvkp/sanic_security_an_effective_simple_and_async/)
 - [GitHub - adbar/trafilatura: Python &amp; command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments](https://www.reddit.com/r/Python/comments/15yvd8v/github_adbartrafilatura_python_commandline_tool/)
 - [Am I Prepared?](https://www.reddit.com/r/Python/comments/15yvcd0/am_i_prepared/)
-- [Have you tried Go?](https://www.reddit.com/r/Python/comments/15yusow/have_you_tried_go/)
-- [Python URL Parsing Function Flaw Exposes System to Arbitrary Command Execution](https://www.reddit.com/r/Python/comments/15yu7pi/python_url_parsing_function_flaw_exposes_system/)
 <!-- BLOG-POST-LIST:END -->
