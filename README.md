@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recommended learning path for kids?](https://www.reddit.com/r/Python/comments/15zc2z2/recommended_learning_path_for_kids/)
 - [Code Feedback](https://www.reddit.com/r/Python/comments/15zb8tx/code_feedback/)
-- [Need help on this python task.](https://www.reddit.com/r/Python/comments/15z86gd/need_help_on_this_python_task/)
-- [How to use Beautiful Soup to scrape data off website for](https://www.reddit.com/r/Python/comments/15z7try/how_to_use_beautiful_soup_to_scrape_data_off/)
 - [ImageChat as Fashion Advisor](https://www.reddit.com/r/Python/comments/15z6ljv/imagechat_as_fashion_advisor/)
 - [How to fine-tune gpt-3.5-turbo in four steps.](https://www.reddit.com/r/Python/comments/15z6ktg/how_to_finetune_gpt35turbo_in_four_steps/)
+- [The simplest guide to create a ChatGPT chatbot &lpar;with Django&rpar; in 4 minutes 🦾](https://www.reddit.com/r/Python/comments/15z5irq/the_simplest_guide_to_create_a_chatgpt_chatbot/)
 <!-- BLOG-POST-LIST:END -->
