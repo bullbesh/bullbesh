@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [adhd.py lmao](https://www.reddit.com/r/Python/comments/15ypv13/adhdpy_lmao/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/15yn5iq/wednesday_daily_thread_beginner_questions/)
 - [Python Weather App in 8 Minutes](https://www.reddit.com/r/Python/comments/15ymyhk/python_weather_app_in_8_minutes/)
 - [Finding a partner in crime&rpar;](https://www.reddit.com/r/Python/comments/15yjxxw/finding_a_partner_in_crime/)
 - [Explore the collections module](https://www.reddit.com/r/Python/comments/15yjfka/explore_the_collections_module/)
-- [Hi](https://www.reddit.com/r/Python/comments/15yek4x/hi/)
 <!-- BLOG-POST-LIST:END -->
