@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jupyter Kernel Architecture](https://www.reddit.com/r/Python/comments/1601nfg/jupyter_kernel_architecture/)
+- [A smarter way to learn Python](https://www.reddit.com/r/Python/comments/1601eyl/a_smarter_way_to_learn_python/)
+- [Understanding Automatic Differentiation in 30 lines of Python](https://www.reddit.com/r/Python/comments/1600y5v/understanding_automatic_differentiation_in_30/)
+- [Python - JavaScript smart contract collab demo &lpar;build on a Cosmos SDK chain enhanced with WasmX meta-contracts&rpar;](https://www.reddit.com/r/Python/comments/1600xm2/python_javascript_smart_contract_collab_demo/)
 - [Newsi python free news api](https://www.reddit.com/r/Python/comments/1600evn/newsi_python_free_news_api/)
-- [Looking for big FastAPI repos](https://www.reddit.com/r/Python/comments/1600apt/looking_for_big_fastapi_repos/)
-- [Chatbot kind of functionality based on data from an oracle table](https://www.reddit.com/r/Python/comments/15zyls0/chatbot_kind_of_functionality_based_on_data_from/)
-- [Apriori, association rule visual for kaggle retail dataset](https://www.reddit.com/r/Python/comments/15zx6xn/apriori_association_rule_visual_for_kaggle_retail/)
-- [How to Use RPC in Python?](https://www.reddit.com/r/Python/comments/15zwbij/how_to_use_rpc_in_python/)
 <!-- BLOG-POST-LIST:END -->
