@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Newsi python free news api](https://www.reddit.com/r/Python/comments/1600evn/newsi_python_free_news_api/)
+- [Looking for big FastAPI repos](https://www.reddit.com/r/Python/comments/1600apt/looking_for_big_fastapi_repos/)
 - [Chatbot kind of functionality based on data from an oracle table](https://www.reddit.com/r/Python/comments/15zyls0/chatbot_kind_of_functionality_based_on_data_from/)
 - [Apriori, association rule visual for kaggle retail dataset](https://www.reddit.com/r/Python/comments/15zx6xn/apriori_association_rule_visual_for_kaggle_retail/)
 - [How to Use RPC in Python?](https://www.reddit.com/r/Python/comments/15zwbij/how_to_use_rpc_in_python/)
-- [Exploring the Perceiver Model: General Perception with Iterative Attention](https://www.reddit.com/r/Python/comments/15zvnnv/exploring_the_perceiver_model_general_perception/)
-- [Can anyone please help me with gstreamer question in stackoverflow?](https://www.reddit.com/r/Python/comments/15zo8gx/can_anyone_please_help_me_with_gstreamer_question/)
 <!-- BLOG-POST-LIST:END -->
