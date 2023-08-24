@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SQLAlchemyAPI: A library that exposes serialized and validated REST endpoint for SQLAlchemy models.](https://www.reddit.com/r/Python/comments/160h1d2/sqlalchemyapi_a_library_that_exposes_serialized/)
 - [I’m not finding the Python Function option in Excel. What am I missing? Should I enable something? or is it not completely launched?](https://www.reddit.com/r/Python/comments/160du8s/im_not_finding_the_python_function_option_in/)
 - [I recorded a crash course on Polars library of Python &lpar;Great library for working with big data&rpar; and uploaded it on Youtube](https://www.reddit.com/r/Python/comments/160dbdm/i_recorded_a_crash_course_on_polars_library_of/)
 - [🚀 Just Launched on ProductHunt: JobArxiv – AI-Powered Career Path Finder 🤖🌍](https://www.reddit.com/r/Python/comments/160bako/just_launched_on_producthunt_jobarxiv_aipowered/)
 - [Python 3.11.5 Released](https://www.reddit.com/r/Python/comments/160apiq/python_3115_released/)
-- [Show Reddit: My simple BDD micro-framework](https://www.reddit.com/r/Python/comments/160a73n/show_reddit_my_simple_bdd_microframework/)
 <!-- BLOG-POST-LIST:END -->
