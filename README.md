@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use RPC in Python?](https://www.reddit.com/r/Python/comments/15zwbij/how_to_use_rpc_in_python/)
 - [Exploring the Perceiver Model: General Perception with Iterative Attention](https://www.reddit.com/r/Python/comments/15zvnnv/exploring_the_perceiver_model_general_perception/)
 - [Can anyone please help me with gstreamer question in stackoverflow?](https://www.reddit.com/r/Python/comments/15zo8gx/can_anyone_please_help_me_with_gstreamer_question/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/15zldqk/thursday_daily_thread_python_careers_courses_and/)
 - [FastAPI job scraper for LinkedIn, Indeed, &amp; ZipRecruiter](https://www.reddit.com/r/Python/comments/15zl2ed/fastapi_job_scraper_for_linkedin_indeed/)
-- [Microsoft is bringing Python to Excel](https://www.reddit.com/r/Python/comments/15zkwnt/microsoft_is_bringing_python_to_excel/)
 <!-- BLOG-POST-LIST:END -->
