@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/15zldqk/thursday_daily_thread_python_careers_courses_and/)
+- [FastAPI job scraper for LinkedIn, Indeed, &amp; ZipRecruiter](https://www.reddit.com/r/Python/comments/15zl2ed/fastapi_job_scraper_for_linkedin_indeed/)
+- [Microsoft is bringing Python to Excel](https://www.reddit.com/r/Python/comments/15zkwnt/microsoft_is_bringing_python_to_excel/)
+- [I just launched my first Flask site: cosmictrip.space, new space AI images every 10 mins. It&#39;s meta-prompting: I have a GPT-4 prompt generator, which makes prompts to be consumed by DALL-E to make Space Images. What do you think?](https://www.reddit.com/r/Python/comments/15zkh3m/i_just_launched_my_first_flask_site/)
 - [I just watched Nvidia Keynote at Siggraph 2023. By end, I started feeling depressed.](https://www.reddit.com/r/Python/comments/15zjp2s/i_just_watched_nvidia_keynote_at_siggraph_2023_by/)
-- [📚 Special Announcement for Python Lovers! 🐍](https://www.reddit.com/r/Python/comments/15zjkee/special_announcement_for_python_lovers/)
-- [[gsc scripts without a cronus or titan] is it possible.](https://www.reddit.com/r/Python/comments/15zhch6/gsc_scripts_without_a_cronus_or_titan_is_it/)
-- [Code Feedback For OSINT Tool](https://www.reddit.com/r/Python/comments/15zhasr/code_feedback_for_osint_tool/)
-- [How do an upper class calls a sub class method based only on a substring like &quot;test_&quot;?](https://www.reddit.com/r/Python/comments/15zflrz/how_do_an_upper_class_calls_a_sub_class_method/)
 <!-- BLOG-POST-LIST:END -->
