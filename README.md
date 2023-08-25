@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [EasyOCR alternative?](https://www.reddit.com/r/Python/comments/160vfge/easyocr_alternative/)
 - [Optimization](https://www.reddit.com/r/Python/comments/160uyl6/optimization/)
 - [Serve Django static files with CloudFront and S3](https://www.reddit.com/r/Python/comments/160uwmx/serve_django_static_files_with_cloudfront_and_s3/)
 - [Python3: A Gentle Introduction](https://www.reddit.com/r/Python/comments/160uvc1/python3_a_gentle_introduction/)
 - [Talks from PyCon AU 2023 are up!](https://www.reddit.com/r/Python/comments/160tmox/talks_from_pycon_au_2023_are_up/)
-- [swap_8_and_9: How a simple import can modify the Python interpreter](https://www.reddit.com/r/Python/comments/160s9x9/swap_8_and_9_how_a_simple_import_can_modify_the/)
 <!-- BLOG-POST-LIST:END -->
