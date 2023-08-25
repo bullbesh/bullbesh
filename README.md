@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Talks from PyCon AU 2023 are up!](https://www.reddit.com/r/Python/comments/160tmox/talks_from_pycon_au_2023_are_up/)
 - [swap_8_and_9: How a simple import can modify the Python interpreter](https://www.reddit.com/r/Python/comments/160s9x9/swap_8_and_9_how_a_simple_import_can_modify_the/)
 - [Mastering OOP](https://www.reddit.com/r/Python/comments/160rf55/mastering_oop/)
 - [Help with self._running](https://www.reddit.com/r/Python/comments/160ldyx/help_with_self_running/)
 - [PolyLock | Code locking &amp; Obfuscation](https://www.reddit.com/r/Python/comments/160kly0/polylock_code_locking_obfuscation/)
-- [Alfred, a advanced OSINT tool](https://www.reddit.com/r/Python/comments/160iyyp/alfred_a_advanced_osint_tool/)
 <!-- BLOG-POST-LIST:END -->
