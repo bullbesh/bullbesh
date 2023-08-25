@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.12 Prerelease](https://www.reddit.com/r/Python/comments/161678v/python_312_prerelease/)
+- [Learn Python With Two Courses From David Beazley](https://www.reddit.com/r/Python/comments/1615zvn/learn_python_with_two_courses_from_david_beazley/)
 - [Build Apps in Python with Dara](https://www.reddit.com/r/Python/comments/1614om5/build_apps_in_python_with_dara/)
 - [I shared a Python Exploratory Data Analysis project on my YouTube Channel](https://www.reddit.com/r/Python/comments/161481e/i_shared_a_python_exploratory_data_analysis/)
 - [Boards: Kanban Inception CLI](https://www.reddit.com/r/Python/comments/16133ex/boards_kanban_inception_cli/)
-- [📚 Just Published a New Blog Post: &quot;Jupyter Notebook Extensions: A guide on how to install and use popular Jupyter Notebook extensions! 🚀&quot;](https://www.reddit.com/r/Python/comments/1610oxx/just_published_a_new_blog_post_jupyter_notebook/)
-- [Pinning your SQLite version across your Python environments](https://www.reddit.com/r/Python/comments/1610a4x/pinning_your_sqlite_version_across_your_python/)
 <!-- BLOG-POST-LIST:END -->
