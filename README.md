@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [An Urban Heat Index / Tree Canopy Cover Dashboard for Australian Cities](https://www.reddit.com/r/Python/comments/160o52e/an_urban_heat_index_tree_canopy_cover_dashboard/)
 - [Help with self._running](https://www.reddit.com/r/Python/comments/160ldyx/help_with_self_running/)
 - [PolyLock | Code locking &amp; Obfuscation](https://www.reddit.com/r/Python/comments/160kly0/polylock_code_locking_obfuscation/)
 - [Alfred, a advanced OSINT tool](https://www.reddit.com/r/Python/comments/160iyyp/alfred_a_advanced_osint_tool/)
 - [Talks from SciPy2023 are up!](https://www.reddit.com/r/Python/comments/160imya/talks_from_scipy2023_are_up/)
-- [SQLAlchemyAPI: A library that exposes serialized and validated REST endpoint for SQLAlchemy models.](https://www.reddit.com/r/Python/comments/160h1d2/sqlalchemyapi_a_library_that_exposes_serialized/)
 <!-- BLOG-POST-LIST:END -->
