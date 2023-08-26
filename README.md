@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Click and Python: Build Extensible and Composable CLI Apps – Real Python](https://www.reddit.com/r/Python/comments/161w9nw/click_and_python_build_extensible_and_composable/)
+- [Robyn crosses 1M installs on PyPi](https://www.reddit.com/r/Python/comments/161vq99/robyn_crosses_1m_installs_on_pypi/)
+- [My First Python Library, SimComm: Wireless Network Simulator; Code Feedback Appreciated](https://www.reddit.com/r/Python/comments/161vequ/my_first_python_library_simcomm_wireless_network/)
+- [Understanding Nested for Loops in Python – How Does it Work](https://www.reddit.com/r/Python/comments/161v9x4/understanding_nested_for_loops_in_python_how_does/)
 - [ISO Week Date library](https://www.reddit.com/r/Python/comments/161uy26/iso_week_date_library/)
-- [Understanding Immortal Objects in Python 3.12: A Deep Dive into Python Internals](https://www.reddit.com/r/Python/comments/161r3zx/understanding_immortal_objects_in_python_312_a/)
-- [&quot;Staring at assorted perms and Python&quot;, or &quot;The Ranking and Unranking of Lexical Permutations&quot;](https://www.reddit.com/r/Python/comments/161pug5/staring_at_assorted_perms_and_python_or_the/)
-- [GitHub - python-cmd2/cmd2: cmd2 - quickly build feature-rich and user-friendly interactive command line applications in Python](https://www.reddit.com/r/Python/comments/161p05g/github_pythoncmd2cmd2_cmd2_quickly_build/)
-- [100% Off Udemy Course - Python 3 Ultimate Guide](https://www.reddit.com/r/Python/comments/161n2kt/100_off_udemy_course_python_3_ultimate_guide/)
 <!-- BLOG-POST-LIST:END -->
