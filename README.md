@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Security Response Team handling of CVE-2023-40217](https://www.reddit.com/r/Python/comments/16256ib/python_security_response_team_handling_of/)
+- [My website](https://www.reddit.com/r/Python/comments/16255cc/my_website/)
+- [How not to sort in Python](https://www.reddit.com/r/Python/comments/1624sl1/how_not_to_sort_in_python/)
+- [I made a installation/setup file cleaner](https://www.reddit.com/r/Python/comments/16246vz/i_made_a_installationsetup_file_cleaner/)
 - [Question regarding type-hinting Collection types](https://www.reddit.com/r/Python/comments/1623g35/question_regarding_typehinting_collection_types/)
-- [Made a python program to autocompile c projects](https://www.reddit.com/r/Python/comments/1623g2x/made_a_python_program_to_autocompile_c_projects/)
-- [A scratch GAN &lpar;Generative Adversarial Network&rpar; to generate images of mixed world coins using PyTorch](https://www.reddit.com/r/Python/comments/1622pog/a_scratch_gan_generative_adversarial_network_to/)
-- [FastAPI + HTMX hello world demo app](https://www.reddit.com/r/Python/comments/161xkr7/fastapi_htmx_hello_world_demo_app/)
-- [Click and Python: Build Extensible and Composable CLI Apps – Real Python](https://www.reddit.com/r/Python/comments/161w9nw/click_and_python_build_extensible_and_composable/)
 <!-- BLOG-POST-LIST:END -->
