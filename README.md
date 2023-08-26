@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Good financial API?](https://www.reddit.com/r/Python/comments/161fsao/good_financial_api/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/161fj0h/saturday_daily_thread_resource_request_and/)
+- [Code Feedback](https://www.reddit.com/r/Python/comments/161ew9a/code_feedback/)
 - [Web Crawling with Python &lpar;A Comprehensive Guide&rpar;](https://www.reddit.com/r/Python/comments/1618yv0/web_crawling_with_python_a_comprehensive_guide/)
 - [I created J.A.R.V.I.S. from the Marvel movies](https://www.reddit.com/r/Python/comments/1618jhk/i_created_jarvis_from_the_marvel_movies/)
-- [What does the Python Security Response Team do behind-the-scenes to keep users safe?](https://www.reddit.com/r/Python/comments/1618283/what_does_the_python_security_response_team_do/)
-- [Unleash Your Python Potential with &quot;50 Days of Python&quot;](https://www.reddit.com/r/Python/comments/1617fy9/unleash_your_python_potential_with_50_days_of/)
-- [Python 3.12 Prerelease](https://www.reddit.com/r/Python/comments/161678v/python_312_prerelease/)
 <!-- BLOG-POST-LIST:END -->
