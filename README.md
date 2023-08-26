@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [100% Off Udemy Course - Python 3 Ultimate Guide](https://www.reddit.com/r/Python/comments/161n2kt/100_off_udemy_course_python_3_ultimate_guide/)
+- [Create WordPress posts with my software by using Python](https://www.reddit.com/r/Python/comments/161n002/create_wordpress_posts_with_my_software_by_using/)
 - [Good financial API?](https://www.reddit.com/r/Python/comments/161fsao/good_financial_api/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/161fj0h/saturday_daily_thread_resource_request_and/)
 - [Code Feedback](https://www.reddit.com/r/Python/comments/161ew9a/code_feedback/)
-- [Web Crawling with Python &lpar;A Comprehensive Guide&rpar;](https://www.reddit.com/r/Python/comments/1618yv0/web_crawling_with_python_a_comprehensive_guide/)
-- [I created J.A.R.V.I.S. from the Marvel movies](https://www.reddit.com/r/Python/comments/1618jhk/i_created_jarvis_from_the_marvel_movies/)
 <!-- BLOG-POST-LIST:END -->
