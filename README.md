@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI + HTMX hello world demo app](https://www.reddit.com/r/Python/comments/161xkr7/fastapi_htmx_hello_world_demo_app/)
+- [Python for the Completely Newbie: Learn PYTHON NOW!](https://www.reddit.com/r/Python/comments/161xje2/python_for_the_completely_newbie_learn_python_now/)
 - [Click and Python: Build Extensible and Composable CLI Apps – Real Python](https://www.reddit.com/r/Python/comments/161w9nw/click_and_python_build_extensible_and_composable/)
 - [Robyn crosses 1M installs on PyPi](https://www.reddit.com/r/Python/comments/161vq99/robyn_crosses_1m_installs_on_pypi/)
 - [My First Python Library, SimComm: Wireless Network Simulator; Code Feedback Appreciated](https://www.reddit.com/r/Python/comments/161vequ/my_first_python_library_simcomm_wireless_network/)
-- [Understanding Nested for Loops in Python – How Does it Work](https://www.reddit.com/r/Python/comments/161v9x4/understanding_nested_for_loops_in_python_how_does/)
-- [ISO Week Date library](https://www.reddit.com/r/Python/comments/161uy26/iso_week_date_library/)
 <!-- BLOG-POST-LIST:END -->
