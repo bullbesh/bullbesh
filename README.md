@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Question regarding type-hinting Collection types](https://www.reddit.com/r/Python/comments/1623g35/question_regarding_typehinting_collection_types/)
+- [Made a python program to autocompile c projects](https://www.reddit.com/r/Python/comments/1623g2x/made_a_python_program_to_autocompile_c_projects/)
+- [A scratch GAN &lpar;Generative Adversarial Network&rpar; to generate images of mixed world coins using PyTorch](https://www.reddit.com/r/Python/comments/1622pog/a_scratch_gan_generative_adversarial_network_to/)
 - [FastAPI + HTMX hello world demo app](https://www.reddit.com/r/Python/comments/161xkr7/fastapi_htmx_hello_world_demo_app/)
-- [Python for the Completely Newbie: Learn PYTHON NOW!](https://www.reddit.com/r/Python/comments/161xje2/python_for_the_completely_newbie_learn_python_now/)
 - [Click and Python: Build Extensible and Composable CLI Apps – Real Python](https://www.reddit.com/r/Python/comments/161w9nw/click_and_python_build_extensible_and_composable/)
-- [Robyn crosses 1M installs on PyPi](https://www.reddit.com/r/Python/comments/161vq99/robyn_crosses_1m_installs_on_pypi/)
-- [My First Python Library, SimComm: Wireless Network Simulator; Code Feedback Appreciated](https://www.reddit.com/r/Python/comments/161vequ/my_first_python_library_simcomm_wireless_network/)
 <!-- BLOG-POST-LIST:END -->
