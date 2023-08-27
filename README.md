@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [abstract_ai is a Python module that provides a wide range of functionalities aimed at facilitating and enhancing interactions with AI](https://www.reddit.com/r/Python/comments/162u191/abstract_ai_is_a_python_module_that_provides_a/)
+- [This GitHub issue resolution...](https://www.reddit.com/r/Python/comments/162to5k/this_github_issue_resolution/)
 - [Litestar 2.0](https://www.reddit.com/r/Python/comments/162siv5/litestar_20/)
 - [I build my own cryptocurrency 100% in python...](https://www.reddit.com/r/Python/comments/162reme/i_build_my_own_cryptocurrency_100_in_python/)
 - [Python contract factories and other blockchain integrations are made available for Python devs. Testable on Mythos Testnet 15.](https://www.reddit.com/r/Python/comments/162qpub/python_contract_factories_and_other_blockchain/)
-- [Website 100% Python/Django](https://www.reddit.com/r/Python/comments/162p2fp/website_100_pythondjango/)
-- [Typedload 2.25 is out! Pure Python schema validation still faster than Rust](https://www.reddit.com/r/Python/comments/162ocgb/typedload_225_is_out_pure_python_schema/)
 <!-- BLOG-POST-LIST:END -->
