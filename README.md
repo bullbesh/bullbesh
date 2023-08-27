@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Inference Llama 2 in one file of pure Python with zero dependencies](https://www.reddit.com/r/Python/comments/162b4l7/inference_llama_2_in_one_file_of_pure_python_with/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/162ay4g/sunday_daily_thread_whats_everyone_working_on/)
+- [Code review.](https://www.reddit.com/r/Python/comments/162amos/code_review/)
 - [Python Security Response Team handling of CVE-2023-40217](https://www.reddit.com/r/Python/comments/16256ib/python_security_response_team_handling_of/)
 - [My website](https://www.reddit.com/r/Python/comments/16255cc/my_website/)
-- [How not to sort in Python](https://www.reddit.com/r/Python/comments/1624sl1/how_not_to_sort_in_python/)
-- [I made a installation/setup file cleaner](https://www.reddit.com/r/Python/comments/16246vz/i_made_a_installationsetup_file_cleaner/)
-- [Question regarding type-hinting Collection types](https://www.reddit.com/r/Python/comments/1623g35/question_regarding_typehinting_collection_types/)
 <!-- BLOG-POST-LIST:END -->
