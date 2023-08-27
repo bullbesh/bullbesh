@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Litestar 2.0](https://www.reddit.com/r/Python/comments/162siv5/litestar_20/)
 - [I build my own cryptocurrency 100% in python...](https://www.reddit.com/r/Python/comments/162reme/i_build_my_own_cryptocurrency_100_in_python/)
 - [Python contract factories and other blockchain integrations are made available for Python devs. Testable on Mythos Testnet 15.](https://www.reddit.com/r/Python/comments/162qpub/python_contract_factories_and_other_blockchain/)
-- [Litestar 2.0 released](https://www.reddit.com/r/Python/comments/162qdan/litestar_20_released/)
 - [Website 100% Python/Django](https://www.reddit.com/r/Python/comments/162p2fp/website_100_pythondjango/)
 - [Typedload 2.25 is out! Pure Python schema validation still faster than Rust](https://www.reddit.com/r/Python/comments/162ocgb/typedload_225_is_out_pure_python_schema/)
 <!-- BLOG-POST-LIST:END -->
