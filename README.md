@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created my own cryptocurrency 100% in python](https://www.reddit.com/r/Python/comments/162moo8/i_created_my_own_cryptocurrency_100_in_python/)
 - [GitHub - jina-ai/vectordb: A Python vector database you just need - no more, no less.](https://www.reddit.com/r/Python/comments/162m6xb/github_jinaaivectordb_a_python_vector_database/)
 - [How to Use Apple Vision Framework via PyObjC for Text Recognition](https://www.reddit.com/r/Python/comments/162gcog/how_to_use_apple_vision_framework_via_pyobjc_for/)
 - [Inference Llama 2 in one file of pure Python with zero dependencies](https://www.reddit.com/r/Python/comments/162b4l7/inference_llama_2_in_one_file_of_pure_python_with/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/162ay4g/sunday_daily_thread_whats_everyone_working_on/)
-- [Code review.](https://www.reddit.com/r/Python/comments/162amos/code_review/)
 <!-- BLOG-POST-LIST:END -->
