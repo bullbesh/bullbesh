@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Bitcoin like in Python from Scratch](https://www.reddit.com/r/Python/comments/1631ib5/creating_bitcoin_like_in_python_from_scratch/)
 - [Poker Playing Robot](https://www.reddit.com/r/Python/comments/162zooj/poker_playing_robot/)
 - [Return the Factorial](https://www.reddit.com/r/Python/comments/162zbnl/return_the_factorial/)
 - [Python is coming to Excel](https://www.reddit.com/r/Python/comments/162y3yn/python_is_coming_to_excel/)
 - [New Python Web framework almost to beta version. Do you think there is room for a new one in current landscape?](https://www.reddit.com/r/Python/comments/162xnnl/new_python_web_framework_almost_to_beta_version/)
-- [Crafting an AI Game Character using ChatGPT &amp; Python: In-Depth Tutorial](https://www.reddit.com/r/Python/comments/162vxqj/crafting_an_ai_game_character_using_chatgpt/)
 <!-- BLOG-POST-LIST:END -->
