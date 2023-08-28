@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Does it matter where I save .py files?](https://www.reddit.com/r/Python/comments/163mbth/does_it_matter_where_i_save_py_files/)
-- [Why can’t I open py. file on my laptop?](https://www.reddit.com/r/Python/comments/163m9xy/why_cant_i_open_py_file_on_my_laptop/)
+- [A pure python LSH nearest neighbors implementation](https://www.reddit.com/r/Python/comments/163pvw9/a_pure_python_lsh_nearest_neighbors_implementation/)
+- [GitHub - CambioML/pykoi: pykoi: Active learning in one unified interface](https://www.reddit.com/r/Python/comments/163pu8a/github_cambiomlpykoi_pykoi_active_learning_in_one/)
+- [FastAPI Architecture](https://www.reddit.com/r/Python/comments/163owkc/fastapi_architecture/)
 - [Script to make rdopng useful](https://www.reddit.com/r/Python/comments/163lowo/script_to_make_rdopng_useful/)
 - [Scaling Python for Machine Learning: Beyond Data Parallelism](https://www.reddit.com/r/Python/comments/163kjmg/scaling_python_for_machine_learning_beyond_data/)
-- [A flask extension to log route latency](https://www.reddit.com/r/Python/comments/163kicn/a_flask_extension_to_log_route_latency/)
 <!-- BLOG-POST-LIST:END -->
