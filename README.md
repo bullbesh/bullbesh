@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Command line VoiceBot powered by ChatGPT for language learning &lpar;using Python&rpar;](https://www.reddit.com/r/Python/comments/1640b9z/command_line_voicebot_powered_by_chatgpt_for/)
 - [Stringzilla: 10x faster SIMD-accelerated Python `str` class](https://www.reddit.com/r/Python/comments/163ztzd/stringzilla_10x_faster_simdaccelerated_python_str/)
 - [Call for Research Participants: Summarizing AI-Generated Python Programs](https://www.reddit.com/r/Python/comments/163wz3s/call_for_research_participants_summarizing/)
 - [Agent Dingo: A microframework for simplifying function integration into ChatGPT](https://www.reddit.com/r/Python/comments/163va52/agent_dingo_a_microframework_for_simplifying/)
 - [PSA: As of Python 3.11, `datetime.fromisoformat` supports most ISO 8601 formats &lpar;notably the &quot;Z&quot; suffix&rpar;](https://www.reddit.com/r/Python/comments/163ugsm/psa_as_of_python_311_datetimefromisoformat/)
-- [I recorded a 1+ hour Python Plotly course &lpar;Data Visualization library&rpar; and shared it on YouTube](https://www.reddit.com/r/Python/comments/163s2vr/i_recorded_a_1_hour_python_plotly_course_data/)
 <!-- BLOG-POST-LIST:END -->
