@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Could you rate my simple calculator project after one year of learning python ?](https://www.reddit.com/r/Python/comments/163s67f/could_you_rate_my_simple_calculator_project_after/)
+- [I recorded a 1+ hour Python Plotly course &lpar;Data Visualization library&rpar; and shared it on YouTube](https://www.reddit.com/r/Python/comments/163s2vr/i_recorded_a_1_hour_python_plotly_course_data/)
 - [Flowform: a declarative configuration language for your data pipelines](https://www.reddit.com/r/Python/comments/163rv9l/flowform_a_declarative_configuration_language_for/)
 - [A dead simple and easy-to-use Data Quality &lpar;DQ&rpar; tool built for Dataframes and Files with Python.](https://www.reddit.com/r/Python/comments/163ri1c/a_dead_simple_and_easytouse_data_quality_dq_tool/)
-- [Find Programming Buddies/Friends For Your Project](https://www.reddit.com/r/Python/comments/163r5gr/find_programming_buddiesfriends_for_your_project/)
 - [Find Programming Buddies/Friends](https://www.reddit.com/r/Python/comments/163r2sg/find_programming_buddiesfriends/)
-- [A pure python LSH nearest neighbors implementation](https://www.reddit.com/r/Python/comments/163pvw9/a_pure_python_lsh_nearest_neighbors_implementation/)
 <!-- BLOG-POST-LIST:END -->
