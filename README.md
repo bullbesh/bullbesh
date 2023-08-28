@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SqlAlchemy error](https://www.reddit.com/r/Python/comments/163ktvj/sqlalchemy_error/)
+- [Scaling Python for Machine Learning: Beyond Data Parallelism](https://www.reddit.com/r/Python/comments/163kjmg/scaling_python_for_machine_learning_beyond_data/)
+- [A flask extension to log route latency](https://www.reddit.com/r/Python/comments/163kicn/a_flask_extension_to_log_route_latency/)
+- [Please explain why my PONG game code is wrong](https://www.reddit.com/r/Python/comments/163jxn5/please_explain_why_my_pong_game_code_is_wrong/)
 - [Need Serious and Genuine Advice/Suggestion](https://www.reddit.com/r/Python/comments/163id6p/need_serious_and_genuine_advicesuggestion/)
-- [Meta&#39;s new AI model can generate and explain code for you](https://www.reddit.com/r/Python/comments/163h6gx/metas_new_ai_model_can_generate_and_explain_code/)
-- [List comprehension is faster than a loop in Python](https://www.reddit.com/r/Python/comments/163gs1m/list_comprehension_is_faster_than_a_loop_in_python/)
-- [Help](https://www.reddit.com/r/Python/comments/163gc3z/help/)
-- [Recommendation system](https://www.reddit.com/r/Python/comments/163eptz/recommendation_system/)
 <!-- BLOG-POST-LIST:END -->
