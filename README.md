@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does it matter where I save .py files?](https://www.reddit.com/r/Python/comments/163mbth/does_it_matter_where_i_save_py_files/)
+- [Why can’t I open py. file on my laptop?](https://www.reddit.com/r/Python/comments/163m9xy/why_cant_i_open_py_file_on_my_laptop/)
 - [Script to make rdopng useful](https://www.reddit.com/r/Python/comments/163lowo/script_to_make_rdopng_useful/)
-- [SqlAlchemy error](https://www.reddit.com/r/Python/comments/163ktvj/sqlalchemy_error/)
 - [Scaling Python for Machine Learning: Beyond Data Parallelism](https://www.reddit.com/r/Python/comments/163kjmg/scaling_python_for_machine_learning_beyond_data/)
 - [A flask extension to log route latency](https://www.reddit.com/r/Python/comments/163kicn/a_flask_extension_to_log_route_latency/)
-- [Please explain why my PONG game code is wrong](https://www.reddit.com/r/Python/comments/163jxn5/please_explain_why_my_pong_game_code_is_wrong/)
 <!-- BLOG-POST-LIST:END -->
