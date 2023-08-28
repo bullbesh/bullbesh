@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [will ai replace programmers?](https://www.reddit.com/r/Python/comments/1637vfj/will_ai_replace_programmers/)
+- [PicSort - A simple photo sorting program](https://www.reddit.com/r/Python/comments/163810o/picsort_a_simple_photo_sorting_program/)
 - [Music Jam Session done with python / foxDot / supercollider / Crash Server](https://www.reddit.com/r/Python/comments/1636n3b/music_jam_session_done_with_python_foxdot/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1636f9v/monday_daily_thread_project_ideas/)
 - [getting second job, is my website bad?](https://www.reddit.com/r/Python/comments/1633jxq/getting_second_job_is_my_website_bad/)
