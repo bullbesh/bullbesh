@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flowform: a declarative configuration language for your data pipelines](https://www.reddit.com/r/Python/comments/163rv9l/flowform_a_declarative_configuration_language_for/)
+- [A dead simple and easy-to-use Data Quality &lpar;DQ&rpar; tool built for Dataframes and Files with Python.](https://www.reddit.com/r/Python/comments/163ri1c/a_dead_simple_and_easytouse_data_quality_dq_tool/)
+- [Find Programming Buddies/Friends For Your Project](https://www.reddit.com/r/Python/comments/163r5gr/find_programming_buddiesfriends_for_your_project/)
+- [Find Programming Buddies/Friends](https://www.reddit.com/r/Python/comments/163r2sg/find_programming_buddiesfriends/)
 - [A pure python LSH nearest neighbors implementation](https://www.reddit.com/r/Python/comments/163pvw9/a_pure_python_lsh_nearest_neighbors_implementation/)
-- [GitHub - CambioML/pykoi: pykoi: Active learning in one unified interface](https://www.reddit.com/r/Python/comments/163pu8a/github_cambiomlpykoi_pykoi_active_learning_in_one/)
-- [FastAPI Architecture](https://www.reddit.com/r/Python/comments/163owkc/fastapi_architecture/)
-- [Script to make rdopng useful](https://www.reddit.com/r/Python/comments/163lowo/script_to_make_rdopng_useful/)
-- [Scaling Python for Machine Learning: Beyond Data Parallelism](https://www.reddit.com/r/Python/comments/163kjmg/scaling_python_for_machine_learning_beyond_data/)
 <!-- BLOG-POST-LIST:END -->
