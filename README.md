@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [List comprehension is faster than a loop in Python](https://www.reddit.com/r/Python/comments/163gs1m/list_comprehension_is_faster_than_a_loop_in_python/)
+- [Help](https://www.reddit.com/r/Python/comments/163gc3z/help/)
 - [Recommendation system](https://www.reddit.com/r/Python/comments/163eptz/recommendation_system/)
 - [An Urban Heat Index / Tree Canopy Cover Dashboard for Australian Cities](https://www.reddit.com/r/Python/comments/163e6s7/an_urban_heat_index_tree_canopy_cover_dashboard/)
 - [Any cheap/free news archive API?](https://www.reddit.com/r/Python/comments/163db2k/any_cheapfree_news_archive_api/)
-- [PicSort - A simple photo sorting program](https://www.reddit.com/r/Python/comments/163810o/picsort_a_simple_photo_sorting_program/)
-- [Music Jam Session done with python / foxDot / supercollider / Crash Server](https://www.reddit.com/r/Python/comments/1636n3b/music_jam_session_done_with_python_foxdot/)
 <!-- BLOG-POST-LIST:END -->
