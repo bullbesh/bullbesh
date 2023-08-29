@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [grex 1.0.0 - Generate regular expressions from user-provided test cases](https://www.reddit.com/r/Python/comments/164s1ap/grex_100_generate_regular_expressions_from/)
+- [Small flask spotify project](https://www.reddit.com/r/Python/comments/164rpyl/small_flask_spotify_project/)
 - [🐍 5 Awesome Python Projects: Create Interactive Dashboards, OCR, Go Paperless, Perform Data…](https://www.reddit.com/r/Python/comments/164q93v/5_awesome_python_projects_create_interactive/)
 - [VisionScript: An abstract programming language for learning computer vision &lpar;made with Python&rpar;](https://www.reddit.com/r/Python/comments/164k1jn/visionscript_an_abstract_programming_language_for/)
 - [What are Sessions? How to use Sessions in Flask](https://www.reddit.com/r/Python/comments/164jhb3/what_are_sessions_how_to_use_sessions_in_flask/)
-- [Making Financial Calculations Transparent and Efficient with the Finance Toolkit](https://www.reddit.com/r/Python/comments/164iq0x/making_financial_calculations_transparent_and/)
-- [Anaconda Python Distribution Tutorial &lpar;Windows 11&rpar;](https://www.reddit.com/r/Python/comments/164ecpr/anaconda_python_distribution_tutorial_windows_11/)
 <!-- BLOG-POST-LIST:END -->
