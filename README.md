@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [VisionScript: An abstract programming language for learning computer vision &lpar;made with Python&rpar;](https://www.reddit.com/r/Python/comments/164k1jn/visionscript_an_abstract_programming_language_for/)
 - [What are Sessions? How to use Sessions in Flask](https://www.reddit.com/r/Python/comments/164jhb3/what_are_sessions_how_to_use_sessions_in_flask/)
 - [Making Financial Calculations Transparent and Efficient with the Finance Toolkit](https://www.reddit.com/r/Python/comments/164iq0x/making_financial_calculations_transparent_and/)
 - [Anaconda Python Distribution Tutorial &lpar;Windows 11&rpar;](https://www.reddit.com/r/Python/comments/164ecpr/anaconda_python_distribution_tutorial_windows_11/)
 - [GitHub - amitassaraf/python-hooks: A React inspired way to code in Python](https://www.reddit.com/r/Python/comments/164ct73/github_amitassarafpythonhooks_a_react_inspired/)
-- [__init__.py files need to know the dependency DAG of your module. It&#39;s weird.](https://www.reddit.com/r/Python/comments/164cj87/init_py_files_need_to_know_the_dependency_dag_of/)
 <!-- BLOG-POST-LIST:END -->
