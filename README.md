@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - amitassaraf/python-hooks: A React inspired way to code in Python](https://www.reddit.com/r/Python/comments/164ct73/github_amitassarafpythonhooks_a_react_inspired/)
+- [__init__.py files need to know the dependency DAG of your module. It&#39;s weird.](https://www.reddit.com/r/Python/comments/164cj87/init_py_files_need_to_know_the_dependency_dag_of/)
 - [100% Off Udemy Course - Python And Flask Demonstrations Practice Course](https://www.reddit.com/r/Python/comments/164b2z1/100_off_udemy_course_python_and_flask/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1642hi5/tuesday_daily_thread_advanced_questions/)
 - [Command line VoiceBot powered by ChatGPT for language learning &lpar;using Python&rpar;](https://www.reddit.com/r/Python/comments/1640b9z/command_line_voicebot_powered_by_chatgpt_for/)
-- [Stringzilla: 10x faster SIMD-accelerated Python `str` class](https://www.reddit.com/r/Python/comments/163ztzd/stringzilla_10x_faster_simdaccelerated_python_str/)
-- [Call for Research Participants: Summarizing AI-Generated Python Programs](https://www.reddit.com/r/Python/comments/163wz3s/call_for_research_participants_summarizing/)
 <!-- BLOG-POST-LIST:END -->
