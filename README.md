@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Get Your Mac Python From Python.org](https://www.reddit.com/r/Python/comments/164v07r/get_your_mac_python_from_pythonorg/)
 - [[Fun Project] Snag Audio from YouTube with the &quot;Youtube Audio Ripper&quot;](https://www.reddit.com/r/Python/comments/164tnel/fun_project_snag_audio_from_youtube_with_the/)
 - [Seek courses](https://www.reddit.com/r/Python/comments/164tmre/seek_courses/)
 - [grex 1.0.0 - Generate regular expressions from user-provided test cases](https://www.reddit.com/r/Python/comments/164s1ap/grex_100_generate_regular_expressions_from/)
 - [Small flask spotify project](https://www.reddit.com/r/Python/comments/164rpyl/small_flask_spotify_project/)
-- [🐍 5 Awesome Python Projects: Create Interactive Dashboards, OCR, Go Paperless, Perform Data…](https://www.reddit.com/r/Python/comments/164q93v/5_awesome_python_projects_create_interactive/)
 <!-- BLOG-POST-LIST:END -->
