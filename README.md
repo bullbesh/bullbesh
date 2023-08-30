@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Japanese Vocal Chatbot for Language Learning 🇯🇵🤖](https://www.reddit.com/r/Python/comments/165gmyn/a_japanese_vocal_chatbot_for_language_learning/)
+- [Depth-Aware Object Insertion in Videos Using Python](https://www.reddit.com/r/Python/comments/165g269/depthaware_object_insertion_in_videos_using_python/)
 - [Bot for checking Booking.com availability](https://www.reddit.com/r/Python/comments/165fdh4/bot_for_checking_bookingcom_availability/)
 - [Efficiently Handling 100+ GB of Data on a Single Mac Using a Pandas-Compatible API](https://www.reddit.com/r/Python/comments/165fcjm/efficiently_handling_100_gb_of_data_on_a_single/)
 - [GitHub - Cyrus2D/Pyrus2D: PYRUS Soccer Simulation 2D base code is the first Python base code &lpar;sample team&rpar; for RoboCup Soccer 2D Simulator.](https://www.reddit.com/r/Python/comments/165f407/github_cyrus2dpyrus2d_pyrus_soccer_simulation_2d/)
-- [Data Validation for PySpark Applications using Pandera](https://www.reddit.com/r/Python/comments/165e5qx/data_validation_for_pyspark_applications_using/)
-- [Accelerating PyTorch Model Training with Mixed-Precision Training and Tensor Parallelism with Minimal Code Changes](https://www.reddit.com/r/Python/comments/165dzyc/accelerating_pytorch_model_training_with/)
 <!-- BLOG-POST-LIST:END -->
