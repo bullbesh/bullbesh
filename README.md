@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the point for Pandas and Numpy](https://www.reddit.com/r/Python/comments/165neyy/whats_the_point_for_pandas_and_numpy/)
+- [Best way to learn python?](https://www.reddit.com/r/Python/comments/165mza5/best_way_to_learn_python/)
+- [Failure with install allennlp==0.9.0](https://www.reddit.com/r/Python/comments/165mxyw/failure_with_install_allennlp090/)
 - [Command-line text editor](https://www.reddit.com/r/Python/comments/165mcyf/commandline_text_editor/)
 - [enhancing my python learning experience with an AI](https://www.reddit.com/r/Python/comments/165m3py/enhancing_my_python_learning_experience_with_an_ai/)
-- [[Fun for tooling and learning] Package to encode/decode with a custom Enigma Machine &lpar;enigma-cipher&rpar;](https://www.reddit.com/r/Python/comments/165m34b/fun_for_tooling_and_learning_package_to/)
-- [Ask!! Python.](https://www.reddit.com/r/Python/comments/165m2ab/ask_python/)
-- [COSCUP newletter subscribe service](https://www.reddit.com/r/Python/comments/165kj8u/coscup_newletter_subscribe_service/)
 <!-- BLOG-POST-LIST:END -->
