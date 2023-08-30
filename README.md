@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Performance hit of import statements on multiprocessing ?](https://www.reddit.com/r/Python/comments/165ox5d/performance_hit_of_import_statements_on/)
+- [How to handle errors in a python stored procedure in Snowflake](https://www.reddit.com/r/Python/comments/165nzrp/how_to_handle_errors_in_a_python_stored_procedure/)
 - [What&#39;s the point for Pandas and Numpy](https://www.reddit.com/r/Python/comments/165neyy/whats_the_point_for_pandas_and_numpy/)
 - [Best way to learn python?](https://www.reddit.com/r/Python/comments/165mza5/best_way_to_learn_python/)
 - [Failure with install allennlp==0.9.0](https://www.reddit.com/r/Python/comments/165mxyw/failure_with_install_allennlp090/)
-- [Command-line text editor](https://www.reddit.com/r/Python/comments/165mcyf/commandline_text_editor/)
-- [enhancing my python learning experience with an AI](https://www.reddit.com/r/Python/comments/165m3py/enhancing_my_python_learning_experience_with_an_ai/)
 <!-- BLOG-POST-LIST:END -->
