@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [COSCUP newletter subscribe service](https://www.reddit.com/r/Python/comments/165kj8u/coscup_newletter_subscribe_service/)
+- [how to generate random words and numbers in python](https://www.reddit.com/r/Python/comments/165k9sq/how_to_generate_random_words_and_numbers_in_python/)
+- [FOOTBALL GAME SIMULATOR](https://www.reddit.com/r/Python/comments/165jxch/football_game_simulator/)
 - [The best GUI toolkit on Python 2023](https://www.reddit.com/r/Python/comments/165i77a/the_best_gui_toolkit_on_python_2023/)
 - [A Japanese Vocal Chatbot for Language Learning 🇯🇵🤖](https://www.reddit.com/r/Python/comments/165gmyn/a_japanese_vocal_chatbot_for_language_learning/)
-- [Depth-Aware Object Insertion in Videos Using Python](https://www.reddit.com/r/Python/comments/165g269/depthaware_object_insertion_in_videos_using_python/)
-- [Bot for checking Booking.com availability](https://www.reddit.com/r/Python/comments/165fdh4/bot_for_checking_bookingcom_availability/)
-- [Efficiently Handling 100+ GB of Data on a Single Mac Using a Pandas-Compatible API](https://www.reddit.com/r/Python/comments/165fcjm/efficiently_handling_100_gb_of_data_on_a_single/)
 <!-- BLOG-POST-LIST:END -->
