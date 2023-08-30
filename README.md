@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Command-line text editor](https://www.reddit.com/r/Python/comments/165mcyf/commandline_text_editor/)
+- [enhancing my python learning experience with an AI](https://www.reddit.com/r/Python/comments/165m3py/enhancing_my_python_learning_experience_with_an_ai/)
+- [[Fun for tooling and learning] Package to encode/decode with a custom Enigma Machine &lpar;enigma-cipher&rpar;](https://www.reddit.com/r/Python/comments/165m34b/fun_for_tooling_and_learning_package_to/)
+- [Ask!! Python.](https://www.reddit.com/r/Python/comments/165m2ab/ask_python/)
 - [COSCUP newletter subscribe service](https://www.reddit.com/r/Python/comments/165kj8u/coscup_newletter_subscribe_service/)
-- [how to generate random words and numbers in python](https://www.reddit.com/r/Python/comments/165k9sq/how_to_generate_random_words_and_numbers_in_python/)
-- [FOOTBALL GAME SIMULATOR](https://www.reddit.com/r/Python/comments/165jxch/football_game_simulator/)
-- [The best GUI toolkit on Python 2023](https://www.reddit.com/r/Python/comments/165i77a/the_best_gui_toolkit_on_python_2023/)
-- [A Japanese Vocal Chatbot for Language Learning 🇯🇵🤖](https://www.reddit.com/r/Python/comments/165gmyn/a_japanese_vocal_chatbot_for_language_learning/)
 <!-- BLOG-POST-LIST:END -->
