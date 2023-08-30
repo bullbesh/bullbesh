@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bot for checking Booking.com availability](https://www.reddit.com/r/Python/comments/165fdh4/bot_for_checking_bookingcom_availability/)
+- [Efficiently Handling 100+ GB of Data on a Single Mac Using a Pandas-Compatible API](https://www.reddit.com/r/Python/comments/165fcjm/efficiently_handling_100_gb_of_data_on_a_single/)
+- [GitHub - Cyrus2D/Pyrus2D: PYRUS Soccer Simulation 2D base code is the first Python base code &lpar;sample team&rpar; for RoboCup Soccer 2D Simulator.](https://www.reddit.com/r/Python/comments/165f407/github_cyrus2dpyrus2d_pyrus_soccer_simulation_2d/)
 - [Data Validation for PySpark Applications using Pandera](https://www.reddit.com/r/Python/comments/165e5qx/data_validation_for_pyspark_applications_using/)
 - [Accelerating PyTorch Model Training with Mixed-Precision Training and Tensor Parallelism with Minimal Code Changes](https://www.reddit.com/r/Python/comments/165dzyc/accelerating_pytorch_model_training_with/)
-- [Is UML still a thing?](https://www.reddit.com/r/Python/comments/165dpya/is_uml_still_a_thing/)
-- [SwiftCrypt: Simplify Security Tasks in Python Effortlessly!](https://www.reddit.com/r/Python/comments/165cvgn/swiftcrypt_simplify_security_tasks_in_python/)
-- [Why did Python win?](https://www.reddit.com/r/Python/comments/165bd1d/why_did_python_win/)
 <!-- BLOG-POST-LIST:END -->
