@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I recorded a crash course on Polars library of Python &lpar;Great library for working with big data&rpar; and uploaded it on Youtube](https://www.reddit.com/r/Python/comments/166just/i_recorded_a_crash_course_on_polars_library_of/)
+- [Hamilton is a general purpose micro-framework for creating dataflows from python functions](https://www.reddit.com/r/Python/comments/166lmh1/hamilton_is_a_general_purpose_microframework_for/)
+- [5 Lesser Known Python Security Vulnerabilities](https://www.reddit.com/r/Python/comments/166kg0a/5_lesser_known_python_security_vulnerabilities/)
+- [I recorded a crash course on Polars library of Python &lpar;Great library for working with big data&rpar; and uploaded it on Youtube](https://www.reddit.com/r/Python/comments/166kew9/i_recorded_a_crash_course_on_polars_library_of/)
 - [Reuse your fixtures, by utilising pytests mark annotation.](https://www.reddit.com/r/Python/comments/166g1u8/reuse_your_fixtures_by_utilising_pytests_mark/)
 - [Get Started With Django: Build a Portfolio App – Real Python](https://www.reddit.com/r/Python/comments/166fnnl/get_started_with_django_build_a_portfolio_app/)
-- [Awesome Python is listed on the top of Curateds, a community for curated awesome list](https://www.reddit.com/r/Python/comments/166f1gr/awesome_python_is_listed_on_the_top_of_curateds_a/)
-- [Use Python and Bash to automatically regenerate your guest Wi-Fi password and display the QR Code for joining the said network on a Raspberry Pi Pico display.](https://www.reddit.com/r/Python/comments/166enqh/use_python_and_bash_to_automatically_regenerate/)
 <!-- BLOG-POST-LIST:END -->
