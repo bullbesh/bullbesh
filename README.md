@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a Yahoo fantasy sports discord bot using Python and discord.py](https://www.reddit.com/r/Python/comments/165vp8l/i_made_a_yahoo_fantasy_sports_discord_bot_using/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/165v1l5/thursday_daily_thread_python_careers_courses_and/)
+- [I created a video series for learning Python from the basics to objected-oriented programming.](https://www.reddit.com/r/Python/comments/165unfl/i_created_a_video_series_for_learning_python_from/)
 - [What was your first paid python project?](https://www.reddit.com/r/Python/comments/165rfz0/what_was_your_first_paid_python_project/)
 - [🐼 Pandas 2.1 Paves A Way For Predictable Data Analysis](https://www.reddit.com/r/Python/comments/165r39i/pandas_21_paves_a_way_for_predictable_data/)
-- [ML and AI developers, what is your story?](https://www.reddit.com/r/Python/comments/165qnx4/ml_and_ai_developers_what_is_your_story/)
-- [Performance hit of import statements on multiprocessing ?](https://www.reddit.com/r/Python/comments/165ox5d/performance_hit_of_import_statements_on/)
-- [How to handle errors in a python stored procedure in Snowflake](https://www.reddit.com/r/Python/comments/165nzrp/how_to_handle_errors_in_a_python_stored_procedure/)
 <!-- BLOG-POST-LIST:END -->
