@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you want to guess what this one-liner does?](https://www.reddit.com/r/Python/comments/1667o2x/do_you_want_to_guess_what_this_oneliner_does/)
 - [Learn how to create an OCR backend with Python Flask](https://www.reddit.com/r/Python/comments/1665qcw/learn_how_to_create_an_ocr_backend_with_python/)
 - [PEP 726: Module __setattr__ and __delattr__](https://www.reddit.com/r/Python/comments/1663uo3/pep_726_module_setattr_and_delattr/)
 - [🌶️ Chili comes to help you with the serialization of complex data structures](https://www.reddit.com/r/Python/comments/1662pk1/chili_comes_to_help_you_with_the_serialization_of/)
 - [For DS &amp; Algo](https://www.reddit.com/r/Python/comments/1662n3i/for_ds_algo/)
-- [How to Get and Plot Weather Data at Any City in the World Using Python](https://www.reddit.com/r/Python/comments/1660o7p/how_to_get_and_plot_weather_data_at_any_city_in/)
 <!-- BLOG-POST-LIST:END -->
