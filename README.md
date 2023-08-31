@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [PYODBC into Microsoft Azure database](https://www.reddit.com/r/Python/comments/166dx2t/pyodbc_into_microsoft_azure_database/)
-- [For new programmers](https://www.reddit.com/r/Python/comments/166dlei/for_new_programmers/)
-- [Startup - Library Advice](https://www.reddit.com/r/Python/comments/166bg35/startup_library_advice/)
-- [pyproject.toml build-backend statistics](https://www.reddit.com/r/Python/comments/166a9br/pyprojecttoml_buildbackend_statistics/)
-- [Python for Data Analysis](https://www.reddit.com/r/Python/comments/1669n79/python_for_data_analysis/)
+- [Awesome Python is listed on the top of Curateds, a community for curated awesome list](https://www.reddit.com/r/Python/comments/166f1gr/awesome_python_is_listed_on_the_top_of_curateds_a/)
+- [Use Python and Bash to automatically regenerate your guest Wi-Fi password and display the QR Code for joining the said network on a Raspberry Pi Pico display.](https://www.reddit.com/r/Python/comments/166enqh/use_python_and_bash_to_automatically_regenerate/)
+- [Automatically summarize lectures and ask questions about the material using Python](https://www.reddit.com/r/Python/comments/166ekb7/automatically_summarize_lectures_and_ask/)
+- [Image Compression Without Losing Quality Using Python](https://www.reddit.com/r/Python/comments/166dzd0/image_compression_without_losing_quality_using/)
+- [Require info about python jobs](https://www.reddit.com/r/Python/comments/166dy7b/require_info_about_python_jobs/)
 <!-- BLOG-POST-LIST:END -->
