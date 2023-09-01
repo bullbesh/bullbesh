@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet aztraphile ⚡ a tool to help you quickly take your Python code and run it as an Azure Function App - see more in comments or here: https://github.com/luis261/aztraphile](https://www.reddit.com/r/Python/comments/1679w5u/meet_aztraphile_a_tool_to_help_you_quickly_take/)
+- [Requests: Faster JSON de-serialization](https://www.reddit.com/r/Python/comments/1679ko7/requests_faster_json_deserialization/)
+- [Building a Custom “Stock Screener” Web Application in Python](https://www.reddit.com/r/Python/comments/1679bzo/building_a_custom_stock_screener_web_application/)
+- [Functions in Python](https://www.reddit.com/r/Python/comments/167970s/functions_in_python/)
 - [How to extract table names from a column in Dataframe?](https://www.reddit.com/r/Python/comments/167864e/how_to_extract_table_names_from_a_column_in/)
-- [Which python client API package you lately used was so fantastic that you remember it even now? :-&rpar;](https://www.reddit.com/r/Python/comments/16770jw/which_python_client_api_package_you_lately_used/)
-- [GitHub - nexus1203/MeshViewer: A pyqtgraph GLViewWidget based viewer utility for viewing mesh, adding images, or text to the 3D view.](https://www.reddit.com/r/Python/comments/1676ooh/github_nexus1203meshviewer_a_pyqtgraph/)
-- [Web Crawling with Python &lpar;Using Requests and Scrapy&rpar;](https://www.reddit.com/r/Python/comments/1675tyo/web_crawling_with_python_using_requests_and_scrapy/)
-- [check-config helps managing your config files](https://www.reddit.com/r/Python/comments/1675q94/checkconfig_helps_managing_your_config_files/)
 <!-- BLOG-POST-LIST:END -->
