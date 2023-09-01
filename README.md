@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to extract table names from a column in Dataframe?](https://www.reddit.com/r/Python/comments/167864e/how_to_extract_table_names_from_a_column_in/)
+- [Which python client API package you lately used was so fantastic that you remember it even now? :-&rpar;](https://www.reddit.com/r/Python/comments/16770jw/which_python_client_api_package_you_lately_used/)
 - [GitHub - nexus1203/MeshViewer: A pyqtgraph GLViewWidget based viewer utility for viewing mesh, adding images, or text to the 3D view.](https://www.reddit.com/r/Python/comments/1676ooh/github_nexus1203meshviewer_a_pyqtgraph/)
 - [Web Crawling with Python &lpar;Using Requests and Scrapy&rpar;](https://www.reddit.com/r/Python/comments/1675tyo/web_crawling_with_python_using_requests_and_scrapy/)
 - [check-config helps managing your config files](https://www.reddit.com/r/Python/comments/1675q94/checkconfig_helps_managing_your_config_files/)
-- [Interactively explore unstructured datasets from your dataframe &lpar;OSS project&rpar;](https://www.reddit.com/r/Python/comments/1675390/interactively_explore_unstructured_datasets_from/)
-- [Multiprocess TCP &amp; UDP listening servers in Python similar to nodejs clustering.](https://www.reddit.com/r/Python/comments/1670gqs/multiprocess_tcp_udp_listening_servers_in_python/)
 <!-- BLOG-POST-LIST:END -->
