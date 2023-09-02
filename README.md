@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Python dictionary dispatch pattern](https://www.reddit.com/r/Python/comments/1689jbf/the_python_dictionary_dispatch_pattern/)
+- [Best resource for Python training and Certification](https://www.reddit.com/r/Python/comments/16881et/best_resource_for_python_training_and/)
 - [I shared a Python Seaborn Data Visualization Tutorial video on my YouTube Channel](https://www.reddit.com/r/Python/comments/1687aag/i_shared_a_python_seaborn_data_visualization/)
 - [Need Desperate career advice for Python, how can I be employable for companies?](https://www.reddit.com/r/Python/comments/1686gmi/need_desperate_career_advice_for_python_how_can_i/)
 - [Hand Gesture Interface Program](https://www.reddit.com/r/Python/comments/1680f8w/hand_gesture_interface_program/)
-- [Meta&#39;s Immortal Objects: How Python Became 2% Slower but More Powerful](https://www.reddit.com/r/Python/comments/167y5ld/metas_immortal_objects_how_python_became_2_slower/)
-- [Youtube resources for clean code / refactoring](https://www.reddit.com/r/Python/comments/167wp64/youtube_resources_for_clean_code_refactoring/)
 <!-- BLOG-POST-LIST:END -->
