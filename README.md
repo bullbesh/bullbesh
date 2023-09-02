@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/167nbls/saturday_daily_thread_resource_request_and/)
+- [Duckie AI - interactive AI coding agent](https://www.reddit.com/r/Python/comments/167n9jh/duckie_ai_interactive_ai_coding_agent/)
+- [Easily build and deploy computer vision apps with Python](https://www.reddit.com/r/Python/comments/167mxm2/easily_build_and_deploy_computer_vision_apps_with/)
 - [Texas Weather Analysis with Python, Analysis Feedback Greatly Appreciated](https://www.reddit.com/r/Python/comments/167lbpr/texas_weather_analysis_with_python_analysis/)
 - [How do you know when youre proficient enoughbto get a job?](https://www.reddit.com/r/Python/comments/167kksw/how_do_you_know_when_youre_proficient_enoughbto/)
-- [Has anyone tried relying on one of the new package managers?](https://www.reddit.com/r/Python/comments/167i8x6/has_anyone_tried_relying_on_one_of_the_new/)
-- [SNUGBUG © a CLI based chatapp. The CLI is here to stay !!!](https://www.reddit.com/r/Python/comments/167g4v8/snugbug_a_cli_based_chatapp_the_cli_is_here_to/)
-- [The Pain and the Poetry of Python](https://www.reddit.com/r/Python/comments/167fwkc/the_pain_and_the_poetry_of_python/)
 <!-- BLOG-POST-LIST:END -->
