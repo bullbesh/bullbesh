@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need Desperate career advice for Python, how can I be employable for companies?](https://www.reddit.com/r/Python/comments/1686gmi/need_desperate_career_advice_for_python_how_can_i/)
 - [Hand Gesture Interface Program](https://www.reddit.com/r/Python/comments/1680f8w/hand_gesture_interface_program/)
 - [Meta&#39;s Immortal Objects: How Python Became 2% Slower but More Powerful](https://www.reddit.com/r/Python/comments/167y5ld/metas_immortal_objects_how_python_became_2_slower/)
 - [Youtube resources for clean code / refactoring](https://www.reddit.com/r/Python/comments/167wp64/youtube_resources_for_clean_code_refactoring/)
 - [How to Use Python&#39;s power Function Effectively](https://www.reddit.com/r/Python/comments/167w16c/how_to_use_pythons_power_function_effectively/)
-- [has anyone here trained paddleocr on there own custom dataset using transfer learning approach?](https://www.reddit.com/r/Python/comments/167vdz4/has_anyone_here_trained_paddleocr_on_there_own/)
 <!-- BLOG-POST-LIST:END -->
