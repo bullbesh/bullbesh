@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Youtube resources for clean code / refactoring](https://www.reddit.com/r/Python/comments/167wp64/youtube_resources_for_clean_code_refactoring/)
+- [How to Use Python&#39;s power Function Effectively](https://www.reddit.com/r/Python/comments/167w16c/how_to_use_pythons_power_function_effectively/)
 - [has anyone here trained paddleocr on there own custom dataset using transfer learning approach?](https://www.reddit.com/r/Python/comments/167vdz4/has_anyone_here_trained_paddleocr_on_there_own/)
 - [Is it possible for a complete novice to be certified in Python and land a job in less than 5 months?](https://www.reddit.com/r/Python/comments/167q9o1/is_it_possible_for_a_complete_novice_to_be/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/167nbls/saturday_daily_thread_resource_request_and/)
-- [Duckie AI - interactive AI coding agent](https://www.reddit.com/r/Python/comments/167n9jh/duckie_ai_interactive_ai_coding_agent/)
-- [Easily build and deploy computer vision apps with Python](https://www.reddit.com/r/Python/comments/167mxm2/easily_build_and_deploy_computer_vision_apps_with/)
 <!-- BLOG-POST-LIST:END -->
