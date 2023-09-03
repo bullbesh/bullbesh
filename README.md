@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python numerical ecosystem: deep technical issues soon fixed through the HPy project?](https://www.reddit.com/r/Python/comments/16908iv/python_numerical_ecosystem_deep_technical_issues/)
 - [Struggling with a question](https://www.reddit.com/r/Python/comments/168wnnu/struggling_with_a_question/)
 - [What are some things I can do in Python?](https://www.reddit.com/r/Python/comments/168w1s9/what_are_some_things_i_can_do_in_python/)
 - [Coding on iPads](https://www.reddit.com/r/Python/comments/168uya3/coding_on_ipads/)
 - [With only python I got a job at a Silicon Valley based start up still as a student I explained how here](https://www.reddit.com/r/Python/comments/168u6a2/with_only_python_i_got_a_job_at_a_silicon_valley/)
-- [What&#39;s up Python? New packaging proposal, Python in Excel, a piano in the shell](https://www.reddit.com/r/Python/comments/168tpam/whats_up_python_new_packaging_proposal_python_in/)
 <!-- BLOG-POST-LIST:END -->
