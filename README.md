@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kick.com bot creation package](https://www.reddit.com/r/Python/comments/168p0yj/kickcom_bot_creation_package/)
 - [Learning Priorities](https://www.reddit.com/r/Python/comments/168lrwb/learning_priorities/)
 - [Chatbot help](https://www.reddit.com/r/Python/comments/168l850/chatbot_help/)
 - [Why is it better ?](https://www.reddit.com/r/Python/comments/168j529/why_is_it_better/)
 - [What stack will you use for a site similar to Indeed?](https://www.reddit.com/r/Python/comments/168ifck/what_stack_will_you_use_for_a_site_similar_to/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/168i0se/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
