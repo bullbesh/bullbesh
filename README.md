@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is it better ?](https://www.reddit.com/r/Python/comments/168j529/why_is_it_better/)
+- [What stack will you use for a site similar to Indeed?](https://www.reddit.com/r/Python/comments/168ifck/what_stack_will_you_use_for_a_site_similar_to/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/168i0se/sunday_daily_thread_whats_everyone_working_on/)
 - [Thoughts about python 4.x](https://www.reddit.com/r/Python/comments/168g65p/thoughts_about_python_4x/)
 - [New automate the boring stuff with python 3rd edition](https://www.reddit.com/r/Python/comments/168g3nq/new_automate_the_boring_stuff_with_python_3rd/)
-- [guidance on getting a job](https://www.reddit.com/r/Python/comments/168fn89/guidance_on_getting_a_job/)
-- [Packforge - Linux package management interface in Python](https://www.reddit.com/r/Python/comments/168f3bb/packforge_linux_package_management_interface_in/)
-- [I&#39;m new at this](https://www.reddit.com/r/Python/comments/168eyr1/im_new_at_this/)
 <!-- BLOG-POST-LIST:END -->
