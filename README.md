@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [1 transaction: 3 languages. Python - JavaScript - Go: multi-VM collab demo on a Cosmos SDK, WebAssembly blockchain.](https://www.reddit.com/r/Python/comments/1697vj5/1_transaction_3_languages_python_javascript_go/)
 - [Python numerical ecosystem: deep technical issues soon fixed through the HPy project?](https://www.reddit.com/r/Python/comments/16908iv/python_numerical_ecosystem_deep_technical_issues/)
 - [Coding on iPads](https://www.reddit.com/r/Python/comments/168uya3/coding_on_ipads/)
 - [What&#39;s up Python? New packaging proposal, Python in Excel, a piano in the shell](https://www.reddit.com/r/Python/comments/168tpam/whats_up_python_new_packaging_proposal_python_in/)
 - [Built a Redis GUI using Python in the Name of Making It Easier for Me to Develop in Django!](https://www.reddit.com/r/Python/comments/168qf3f/built_a_redis_gui_using_python_in_the_name_of/)
-- [Kick.com bot creation package](https://www.reddit.com/r/Python/comments/168p0yj/kickcom_bot_creation_package/)
 <!-- BLOG-POST-LIST:END -->
