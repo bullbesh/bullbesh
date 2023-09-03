@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built a Redis GUI using Python in the Name of Making It Easier for Me to Develop in Django!](https://www.reddit.com/r/Python/comments/168qf3f/built_a_redis_gui_using_python_in_the_name_of/)
+- [PIP is running extremly slow. how to reinstall it?](https://www.reddit.com/r/Python/comments/168qek7/pip_is_running_extremly_slow_how_to_reinstall_it/)
 - [Kick.com bot creation package](https://www.reddit.com/r/Python/comments/168p0yj/kickcom_bot_creation_package/)
 - [Learning Priorities](https://www.reddit.com/r/Python/comments/168lrwb/learning_priorities/)
 - [Chatbot help](https://www.reddit.com/r/Python/comments/168l850/chatbot_help/)
-- [Why is it better ?](https://www.reddit.com/r/Python/comments/168j529/why_is_it_better/)
-- [What stack will you use for a site similar to Indeed?](https://www.reddit.com/r/Python/comments/168ifck/what_stack_will_you_use_for_a_site_similar_to/)
 <!-- BLOG-POST-LIST:END -->
