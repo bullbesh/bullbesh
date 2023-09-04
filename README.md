@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first big Python project: Horror Interactive](https://www.reddit.com/r/Python/comments/169lfnx/my_first_big_python_project_horror_interactive/)
 - [Is anyone really familiar with triangulation algorithms? Ex. Dulauney, Alpha-shape](https://www.reddit.com/r/Python/comments/169kq96/is_anyone_really_familiar_with_triangulation/)
 - [Crafting a CI Pipeline: My Experience with GitHub Actions, Python and AWS](https://www.reddit.com/r/Python/comments/169j2e9/crafting_a_ci_pipeline_my_experience_with_github/)
 - [What is the hardest thing in planning for a coding project?](https://www.reddit.com/r/Python/comments/169eyn5/what_is_the_hardest_thing_in_planning_for_a/)
 - [ELI5 SQL vs Python for relational databases.](https://www.reddit.com/r/Python/comments/169dfdl/eli5_sql_vs_python_for_relational_databases/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/169ci03/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
