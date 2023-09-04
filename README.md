@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Crafting a CI Pipeline: My Experience with GitHub Actions, Python and AWS](https://www.reddit.com/r/Python/comments/169j2e9/crafting_a_ci_pipeline_my_experience_with_github/)
 - [What is the hardest thing in planning for a coding project?](https://www.reddit.com/r/Python/comments/169eyn5/what_is_the_hardest_thing_in_planning_for_a/)
 - [ELI5 SQL vs Python for relational databases.](https://www.reddit.com/r/Python/comments/169dfdl/eli5_sql_vs_python_for_relational_databases/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/169ci03/monday_daily_thread_project_ideas/)
 - [How does the xenomorph - Alien Iso - do pathfinding?](https://www.reddit.com/r/Python/comments/1699v4t/how_does_the_xenomorph_alien_iso_do_pathfinding/)
-- [Combining MLFlow with realtime SQL and Python UDFs using Apache Flink](https://www.reddit.com/r/Python/comments/16995nm/combining_mlflow_with_realtime_sql_and_python/)
 <!-- BLOG-POST-LIST:END -->
