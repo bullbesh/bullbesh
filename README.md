@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I shared a Python Exploratory Data Analysis project about Olympics statistics on my YouTube channel](https://www.reddit.com/r/Python/comments/169zvdg/i_shared_a_python_exploratory_data_analysis/)
 - [First code](https://www.reddit.com/r/Python/comments/169zho6/first_code/)
 - [Interesting Integer operation](https://www.reddit.com/r/Python/comments/169zfuq/interesting_integer_operation/)
 - [Employee Timesheet App in Flask?](https://www.reddit.com/r/Python/comments/169zcxk/employee_timesheet_app_in_flask/)
 - [Spark NLP 5.1.0: Introducing state-of-the-art OpenAI Whisper speech-to-text, OpenAI Embeddings and Completion transformers, MPNet text embeddings, ONNX support for E5 text embeddings, new multi-lingual BART Zero-Shot text classification, and much more!](https://www.reddit.com/r/Python/comments/169zbe7/spark_nlp_510_introducing_stateoftheart_openai/)
-- [Python in payroll](https://www.reddit.com/r/Python/comments/169xs64/python_in_payroll/)
 <!-- BLOG-POST-LIST:END -->
