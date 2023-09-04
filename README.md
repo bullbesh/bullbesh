@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A implementation of Conway&#39;s game of life &lpar;cellular automata&rpar; in the terminal using textual.](https://www.reddit.com/r/Python/comments/16a70mq/a_implementation_of_conways_game_of_life_cellular/)
+- [Send JSON to backend via URL](https://www.reddit.com/r/Python/comments/16a5usn/send_json_to_backend_via_url/)
 - [how to become dev ?](https://www.reddit.com/r/Python/comments/16a2d8m/how_to_become_dev/)
 - [I shared a Python Exploratory Data Analysis project about Olympics statistics on my YouTube channel](https://www.reddit.com/r/Python/comments/169zvdg/i_shared_a_python_exploratory_data_analysis/)
 - [First code](https://www.reddit.com/r/Python/comments/169zho6/first_code/)
-- [Interesting Integer operation](https://www.reddit.com/r/Python/comments/169zfuq/interesting_integer_operation/)
-- [Employee Timesheet App in Flask?](https://www.reddit.com/r/Python/comments/169zcxk/employee_timesheet_app_in_flask/)
 <!-- BLOG-POST-LIST:END -->
