@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Predictive Modeling for Future Stock Prices in Python: A Step-by-Step Guide](https://www.reddit.com/r/Python/comments/169v1fq/predictive_modeling_for_future_stock_prices_in/)
-- [I built a Chrome extension that adds a chatbot to every GitHub repository](https://www.reddit.com/r/Python/comments/169trj1/i_built_a_chrome_extension_that_adds_a_chatbot_to/)
-- [Will the industry will become more &quot;academic&quot;?](https://www.reddit.com/r/Python/comments/169qlkc/will_the_industry_will_become_more_academic/)
-- [Looking for a book/course on Arduino programming with Python](https://www.reddit.com/r/Python/comments/169q4qm/looking_for_a_bookcourse_on_arduino_programming/)
-- [A questionnaire about Python&#39;s syntactic grammar --- what do you like about it, what do you want more, and what do you want gone?](https://www.reddit.com/r/Python/comments/169obq4/a_questionnaire_about_pythons_syntactic_grammar/)
+- [First code](https://www.reddit.com/r/Python/comments/169zho6/first_code/)
+- [Interesting Integer operation](https://www.reddit.com/r/Python/comments/169zfuq/interesting_integer_operation/)
+- [Employee Timesheet App in Flask?](https://www.reddit.com/r/Python/comments/169zcxk/employee_timesheet_app_in_flask/)
+- [Spark NLP 5.1.0: Introducing state-of-the-art OpenAI Whisper speech-to-text, OpenAI Embeddings and Completion transformers, MPNet text embeddings, ONNX support for E5 text embeddings, new multi-lingual BART Zero-Shot text classification, and much more!](https://www.reddit.com/r/Python/comments/169zbe7/spark_nlp_510_introducing_stateoftheart_openai/)
+- [Python in payroll](https://www.reddit.com/r/Python/comments/169xs64/python_in_payroll/)
 <!-- BLOG-POST-LIST:END -->
