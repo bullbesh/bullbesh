@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Predictive Modeling for Future Stock Prices in Python: A Step-by-Step Guide](https://www.reddit.com/r/Python/comments/169v1fq/predictive_modeling_for_future_stock_prices_in/)
 - [I built a Chrome extension that adds a chatbot to every GitHub repository](https://www.reddit.com/r/Python/comments/169trj1/i_built_a_chrome_extension_that_adds_a_chatbot_to/)
 - [Will the industry will become more &quot;academic&quot;?](https://www.reddit.com/r/Python/comments/169qlkc/will_the_industry_will_become_more_academic/)
 - [Looking for a book/course on Arduino programming with Python](https://www.reddit.com/r/Python/comments/169q4qm/looking_for_a_bookcourse_on_arduino_programming/)
 - [A questionnaire about Python&#39;s syntactic grammar --- what do you like about it, what do you want more, and what do you want gone?](https://www.reddit.com/r/Python/comments/169obq4/a_questionnaire_about_pythons_syntactic_grammar/)
-- [Consuming events from python modules generated for COM](https://www.reddit.com/r/Python/comments/169mzv8/consuming_events_from_python_modules_generated/)
 <!-- BLOG-POST-LIST:END -->
