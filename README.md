@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyCon India 2023 Discount Pass](https://www.reddit.com/r/Python/comments/16aqjyj/pycon_india_2023_discount_pass/)
+- [Need Employed Python Developer to Rate my Resumee](https://www.reddit.com/r/Python/comments/16aqji5/need_employed_python_developer_to_rate_my_resumee/)
+- [How do y’all implement Python in your professional life?](https://www.reddit.com/r/Python/comments/16aq8e7/how_do_yall_implement_python_in_your_professional/)
 - [Writing production-ready web apps from Python](https://www.reddit.com/r/Python/comments/16apdp9/writing_productionready_web_apps_from_python/)
 - [Writing a C compiler in 500 lines of Python](https://www.reddit.com/r/Python/comments/16apbst/writing_a_c_compiler_in_500_lines_of_python/)
-- [My YouTube channel on Python Programming, Feedback required!!](https://www.reddit.com/r/Python/comments/16ap545/my_youtube_channel_on_python_programming_feedback/)
-- [Is there a fast way to sell your Python code as a service or create a Shopify-like store for Python apps?](https://www.reddit.com/r/Python/comments/16anwup/is_there_a_fast_way_to_sell_your_python_code_as_a/)
-- [Packaging Python projects in 2023 from scratch](https://www.reddit.com/r/Python/comments/16amxlh/packaging_python_projects_in_2023_from_scratch/)
 <!-- BLOG-POST-LIST:END -->
