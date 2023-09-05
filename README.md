@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any good Python library for fixing invalid JSON data?](https://www.reddit.com/r/Python/comments/16ai2qx/any_good_python_library_for_fixing_invalid_json/)
+- [Hello im New here and coding in pyton](https://www.reddit.com/r/Python/comments/16ai0gt/hello_im_new_here_and_coding_in_pyton/)
+- [Just curious, is it still possible to find junior level job in Python?](https://www.reddit.com/r/Python/comments/16ahgpe/just_curious_is_it_still_possible_to_find_junior/)
 - [Learn how to fine-tune your Donut transformer model](https://www.reddit.com/r/Python/comments/16agxp7/learn_how_to_finetune_your_donut_transformer_model/)
 - [To all the self taught Python programmers](https://www.reddit.com/r/Python/comments/16aeoj5/to_all_the_self_taught_python_programmers/)
-- [I shared a tutorial type Python Exploratory Data Analysis video on my YouTube channel](https://www.reddit.com/r/Python/comments/16adj2g/i_shared_a_tutorial_type_python_exploratory_data/)
-- [Implementing Switch-Case statements in Python using Metaprogramming with m4](https://www.reddit.com/r/Python/comments/16a8v5x/implementing_switchcase_statements_in_python/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/16a8gtm/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
