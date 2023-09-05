@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Send Encrypted Messages in Python](https://www.reddit.com/r/Python/comments/16avjw5/how_to_send_encrypted_messages_in_python/)
+- [Invitation to Beta Test Chatgpt Email Spam Filter](https://www.reddit.com/r/Python/comments/16aui09/invitation_to_beta_test_chatgpt_email_spam_filter/)
 - [Virtual Environments or not?](https://www.reddit.com/r/Python/comments/16ato9c/virtual_environments_or_not/)
 - [Dep Tree: Visualize &amp; Enforce Your Python Project&#39;s File Structure Right from the Terminal 🌳](https://www.reddit.com/r/Python/comments/16asu8c/dep_tree_visualize_enforce_your_python_projects/)
 - [Introducing: Memory Mapper an app to plot your memories](https://www.reddit.com/r/Python/comments/16as5m8/introducing_memory_mapper_an_app_to_plot_your/)
-- [Open-source markerless motion capture with webcams...one year of learning to program](https://www.reddit.com/r/Python/comments/16ar0dx/opensource_markerless_motion_capture_with/)
-- [PyCon India 2023 Discount Pass](https://www.reddit.com/r/Python/comments/16aqjyj/pycon_india_2023_discount_pass/)
 <!-- BLOG-POST-LIST:END -->
