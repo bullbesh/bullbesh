@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Packaging Python projects in 2023 from scratch](https://www.reddit.com/r/Python/comments/16amxlh/packaging_python_projects_in_2023_from_scratch/)
+- [Strategic goals re automation](https://www.reddit.com/r/Python/comments/16ams0m/strategic_goals_re_automation/)
+- [100% Off Udemy Course - Python And Flask Framework Complete Course](https://www.reddit.com/r/Python/comments/16alqxc/100_off_udemy_course_python_and_flask_framework/)
 - [Can someone do a quick review of my package?](https://www.reddit.com/r/Python/comments/16akml4/can_someone_do_a_quick_review_of_my_package/)
 - [Dataclass Field&lpar;&rpar;, inelegant?](https://www.reddit.com/r/Python/comments/16ak1a8/dataclass_field_inelegant/)
-- [Exploring 4 Hidden Filter Functions:How do you use the Itertools function in Python?](https://www.reddit.com/r/Python/comments/16ajwz0/exploring_4_hidden_filter_functionshow_do_you_use/)
-- [Is anyone selling their own Python based products ?](https://www.reddit.com/r/Python/comments/16ajhf4/is_anyone_selling_their_own_python_based_products/)
-- [EOmaps v7.1 - A python package for interactive geo-data visualization and analysis](https://www.reddit.com/r/Python/comments/16aiqd1/eomaps_v71_a_python_package_for_interactive/)
 <!-- BLOG-POST-LIST:END -->
