@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there a fast way to sell your Python code as a service or create a Shopify-like store for Python apps?](https://www.reddit.com/r/Python/comments/16anwup/is_there_a_fast_way_to_sell_your_python_code_as_a/)
 - [Packaging Python projects in 2023 from scratch](https://www.reddit.com/r/Python/comments/16amxlh/packaging_python_projects_in_2023_from_scratch/)
 - [Strategic goals re automation](https://www.reddit.com/r/Python/comments/16ams0m/strategic_goals_re_automation/)
 - [100% Off Udemy Course - Python And Flask Framework Complete Course](https://www.reddit.com/r/Python/comments/16alqxc/100_off_udemy_course_python_and_flask_framework/)
 - [Can someone do a quick review of my package?](https://www.reddit.com/r/Python/comments/16akml4/can_someone_do_a_quick_review_of_my_package/)
-- [Dataclass Field&lpar;&rpar;, inelegant?](https://www.reddit.com/r/Python/comments/16ak1a8/dataclass_field_inelegant/)
 <!-- BLOG-POST-LIST:END -->
