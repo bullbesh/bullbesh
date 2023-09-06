@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/16b4q59/wednesday_daily_thread_beginner_questions/)
+- [Python News: What&#39;s New From August 2023 – Real Python](https://www.reddit.com/r/Python/comments/16b3su1/python_news_whats_new_from_august_2023_real_python/)
 - [Any ideas why the genetic algorithm performs better than the ant colony optimization? I&#39;m using 25 points as the test](https://www.reddit.com/r/Python/comments/16azhzf/any_ideas_why_the_genetic_algorithm_performs/)
 - [Python&#39;s need for framework](https://www.reddit.com/r/Python/comments/16ayvuy/pythons_need_for_framework/)
-- [Mass delete tweets using twitter &lpar;X&rpar; archive](https://www.reddit.com/r/Python/comments/16ayjtg/mass_delete_tweets_using_twitter_x_archive/)
 - [Python Day - Free Conference September 7th hosted by Microsoft](https://www.reddit.com/r/Python/comments/16ay4r3/python_day_free_conference_september_7th_hosted/)
-- [How to Send Encrypted Messages in Python](https://www.reddit.com/r/Python/comments/16avjw5/how_to_send_encrypted_messages_in_python/)
 <!-- BLOG-POST-LIST:END -->
