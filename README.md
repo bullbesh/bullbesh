@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bot sign up and clicker](https://www.reddit.com/r/Python/comments/16bdv07/bot_sign_up_and_clicker/)
 - [A Python package for face-recognition on large collections of images](https://www.reddit.com/r/Python/comments/16bapv3/a_python_package_for_facerecognition_on_large/)
 - [Cython or C API for Python ?](https://www.reddit.com/r/Python/comments/16b97ed/cython_or_c_api_for_python/)
 - [JupySQL Connector Widget: Managing Database Connection from Jupyter](https://www.reddit.com/r/Python/comments/16b6tyr/jupysql_connector_widget_managing_database/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/16b4q59/wednesday_daily_thread_beginner_questions/)
-- [Python News: What&#39;s New From August 2023 – Real Python](https://www.reddit.com/r/Python/comments/16b3su1/python_news_whats_new_from_august_2023_real_python/)
 <!-- BLOG-POST-LIST:END -->
