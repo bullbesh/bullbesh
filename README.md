@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Projects to develop skills](https://www.reddit.com/r/Python/comments/16bqv96/projects_to_develop_skills/)
 - [AFTER LEARNING PYTHON BASICS](https://www.reddit.com/r/Python/comments/16boje1/after_learning_python_basics/)
 - [Got problem while learning python](https://www.reddit.com/r/Python/comments/16bmbak/got_problem_while_learning_python/)
 - [flake8-no-pytest-mark-only: Flake8 plugin to prevent accidentally committing tests with the @pytest.mark.only decorator](https://www.reddit.com/r/Python/comments/16bkxuy/flake8nopytestmarkonly_flake8_plugin_to_prevent/)
 - [Join the Golem Cloud Hackathon: Craft your Golem App using Python and earn rewards! &lpar;Event&rpar;](https://www.reddit.com/r/Python/comments/16biho0/join_the_golem_cloud_hackathon_craft_your_golem/)
-- [⧓ oplog ⧓ - Easy-to-use context-rich Python logging library.](https://www.reddit.com/r/Python/comments/16bicef/oplog_easytouse_contextrich_python_logging_library/)
 <!-- BLOG-POST-LIST:END -->
