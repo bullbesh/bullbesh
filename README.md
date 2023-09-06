@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AFTER LEARNING PYTHON BASICS](https://www.reddit.com/r/Python/comments/16boje1/after_learning_python_basics/)
 - [I shared a crash course of Python Polars library &lpar;Great library for working with Big Data&rpar;](https://www.reddit.com/r/Python/comments/16bmomi/i_shared_a_crash_course_of_python_polars_library/)
 - [Got problem while learning python](https://www.reddit.com/r/Python/comments/16bmbak/got_problem_while_learning_python/)
-- [A reddit community for absolute Python Beginners](https://www.reddit.com/r/Python/comments/16bloml/a_reddit_community_for_absolute_python_beginners/)
 - [flake8-no-pytest-mark-only: Flake8 plugin to prevent accidentally committing tests with the @pytest.mark.only decorator](https://www.reddit.com/r/Python/comments/16bkxuy/flake8nopytestmarkonly_flake8_plugin_to_prevent/)
 - [Join the Golem Cloud Hackathon: Craft your Golem App using Python and earn rewards! &lpar;Event&rpar;](https://www.reddit.com/r/Python/comments/16biho0/join_the_golem_cloud_hackathon_craft_your_golem/)
 <!-- BLOG-POST-LIST:END -->
