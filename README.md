@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Twitter &lpar;X&rpar; / Backend Engineers Community](https://www.reddit.com/r/Python/comments/16co8l4/twitter_x_backend_engineers_community/)
+- [Learn Python for beginners](https://www.reddit.com/r/Python/comments/16cqd4u/learn_python_for_beginners/)
 - [How to Hack a 3D Printer With Python](https://www.reddit.com/r/Python/comments/16cleut/how_to_hack_a_3d_printer_with_python/)
 - [svcs: A Flexible Service Locator](https://www.reddit.com/r/Python/comments/16cle8r/svcs_a_flexible_service_locator/)
 - [What is the best place to learn about up-coming features to python with each new version?](https://www.reddit.com/r/Python/comments/16cl8o0/what_is_the_best_place_to_learn_about_upcoming/)
