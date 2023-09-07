@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter &lpar;X&rpar; / Backend Engineers Community](https://www.reddit.com/r/Python/comments/16co8l4/twitter_x_backend_engineers_community/)
 - [How to Hack a 3D Printer With Python](https://www.reddit.com/r/Python/comments/16cleut/how_to_hack_a_3d_printer_with_python/)
 - [svcs: A Flexible Service Locator](https://www.reddit.com/r/Python/comments/16cle8r/svcs_a_flexible_service_locator/)
 - [What is the best place to learn about up-coming features to python with each new version?](https://www.reddit.com/r/Python/comments/16cl8o0/what_is_the_best_place_to_learn_about_upcoming/)
 - [Creating multi categorical plot in python](https://www.reddit.com/r/Python/comments/16cl7jx/creating_multi_categorical_plot_in_python/)
-- [2,000 free sign ups available for the &quot;Automate the Boring Stuff with Python&quot; online course. &lpar;September 2023&rpar;](https://www.reddit.com/r/Python/comments/16ckacv/2000_free_sign_ups_available_for_the_automate_the/)
 <!-- BLOG-POST-LIST:END -->
