@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Large python codebase - how to introduce validation-on-CI](https://www.reddit.com/r/Python/comments/16ccwnm/large_python_codebase_how_to_introduce/)
+- [What is Textual Web?](https://www.reddit.com/r/Python/comments/16ccc8t/what_is_textual_web/)
 - [Does this good?](https://www.reddit.com/r/Python/comments/16cbjif/does_this_good/)
 - [Making AI chatbot to hear and speak](https://www.reddit.com/r/Python/comments/16cb816/making_ai_chatbot_to_hear_and_speak/)
 - [Code Limit - Your Refactoring Alarm 🔔 - Looking for feedback](https://www.reddit.com/r/Python/comments/16cb15z/code_limit_your_refactoring_alarm_looking_for/)
-- [Want to Know About, How to Run Parallel Computing on Jupyter Notebook, Check Out this Blog Post.](https://www.reddit.com/r/Python/comments/16c8evy/want_to_know_about_how_to_run_parallel_computing/)
-- [Python bindings for low level asynchronous web frameworks](https://www.reddit.com/r/Python/comments/16c6oot/python_bindings_for_low_level_asynchronous_web/)
 <!-- BLOG-POST-LIST:END -->
