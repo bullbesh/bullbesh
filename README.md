@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/16c0i9p/thursday_daily_thread_python_careers_courses_and/)
 - [Shell scripting in Python](https://www.reddit.com/r/Python/comments/16byt8j/shell_scripting_in_python/)
 - [Introducing Snippet Vault](https://www.reddit.com/r/Python/comments/16bxwp9/introducing_snippet_vault/)
 - [Creating and handling computer vision events in real time with Python, Kafka and Pipeless](https://www.reddit.com/r/Python/comments/16bx9vt/creating_and_handling_computer_vision_events_in/)
 - [Comprehensive Guide To Web Scraping in Python](https://www.reddit.com/r/Python/comments/16bt6tb/comprehensive_guide_to_web_scraping_in_python/)
-- [I created a python code that optimizes bulk images for SEO](https://www.reddit.com/r/Python/comments/16bsn5y/i_created_a_python_code_that_optimizes_bulk/)
 <!-- BLOG-POST-LIST:END -->
