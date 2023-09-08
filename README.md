@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generating QR Codes in 4 Lines of code](https://www.reddit.com/r/Python/comments/16d7a0y/generating_qr_codes_in_4_lines_of_code/)
+- [Extract text from PDF in 2 lines of code &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/16d6ond/extract_text_from_pdf_in_2_lines_of_code_python/)
 - [Created a Resume builder](https://www.reddit.com/r/Python/comments/16d63wz/created_a_resume_builder/)
 - [Alternatives?](https://www.reddit.com/r/Python/comments/16d62rv/alternatives/)
 - [Free 30-Day Python Programming Challenge](https://www.reddit.com/r/Python/comments/16d4uj4/free_30day_python_programming_challenge/)
-- [Best learning resources for a newbie](https://www.reddit.com/r/Python/comments/16d4nno/best_learning_resources_for_a_newbie/)
-- [Acceleration data analysis](https://www.reddit.com/r/Python/comments/16d49x0/acceleration_data_analysis/)
 <!-- BLOG-POST-LIST:END -->
