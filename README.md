@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ralsei - Task framework for structured web scraping](https://www.reddit.com/r/Python/comments/16dd3yd/ralsei_task_framework_for_structured_web_scraping/)
+- [🚀 Introducing Threaddit: A Full-Stack Reddit Clone with React.js and Flask! Your Feedback Needed!](https://www.reddit.com/r/Python/comments/16dbv2c/introducing_threaddit_a_fullstack_reddit_clone/)
 - [Want to Know About, Using Jupyter Notebook with Big Data, Check out this Blog Post.](https://www.reddit.com/r/Python/comments/16da1sn/want_to_know_about_using_jupyter_notebook_with/)
 - [Build a REST API from the ground up with Python](https://www.reddit.com/r/Python/comments/16d95v2/build_a_rest_api_from_the_ground_up_with_python/)
 - [Built extract-transform while honing my Python skills – Would love your thoughts!](https://www.reddit.com/r/Python/comments/16d7rbh/built_extracttransform_while_honing_my_python/)
-- [Generating QR Codes in 4 Lines of code](https://www.reddit.com/r/Python/comments/16d7a0y/generating_qr_codes_in_4_lines_of_code/)
-- [Extract text from PDF in 2 lines of code &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/16d6ond/extract_text_from_pdf_in_2_lines_of_code_python/)
 <!-- BLOG-POST-LIST:END -->
