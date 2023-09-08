@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [CLI tool to benchmark 100+LLMs response, response time, cost](https://www.reddit.com/r/Python/comments/16demyr/cli_tool_to_benchmark_100llms_response_response/)
+- [Python Interview Question Playlist](https://www.reddit.com/r/Python/comments/16de953/python_interview_question_playlist/)
+- [Circular imports in Python](https://www.reddit.com/r/Python/comments/16de1av/circular_imports_in_python/)
 - [Ralsei - Task framework for structured web scraping](https://www.reddit.com/r/Python/comments/16dd3yd/ralsei_task_framework_for_structured_web_scraping/)
 - [🚀 Introducing Threaddit: A Full-Stack Reddit Clone with React.js and Flask! Your Feedback Needed!](https://www.reddit.com/r/Python/comments/16dbv2c/introducing_threaddit_a_fullstack_reddit_clone/)
-- [Want to Know About, Using Jupyter Notebook with Big Data, Check out this Blog Post.](https://www.reddit.com/r/Python/comments/16da1sn/want_to_know_about_using_jupyter_notebook_with/)
-- [Build a REST API from the ground up with Python](https://www.reddit.com/r/Python/comments/16d95v2/build_a_rest_api_from_the_ground_up_with_python/)
-- [Built extract-transform while honing my Python skills – Would love your thoughts!](https://www.reddit.com/r/Python/comments/16d7rbh/built_extracttransform_while_honing_my_python/)
 <!-- BLOG-POST-LIST:END -->
