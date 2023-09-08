@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I shared a Python Matplotlib Data Visualization Tutorial video on my YouTube channel](https://www.reddit.com/r/Python/comments/16dj263/i_shared_a_python_matplotlib_data_visualization/)
+- [Python DB Schedule](https://www.reddit.com/r/Python/comments/16div0n/python_db_schedule/)
 - [📢Excited to share the latest release of fastapi-listing. It Just Got Better😍](https://www.reddit.com/r/Python/comments/16dhwvz/excited_to_share_the_latest_release_of/)
 - [Dependency upgrade pain](https://www.reddit.com/r/Python/comments/16dfsko/dependency_upgrade_pain/)
 - [A command-line Python REPL with a built in LLM agent.](https://www.reddit.com/r/Python/comments/16dfkqn/a_commandline_python_repl_with_a_built_in_llm/)
-- [Python Interview Question Playlist](https://www.reddit.com/r/Python/comments/16dfgfs/python_interview_question_playlist/)
-- [CLI tool to benchmark 100+LLMs response, response time, cost](https://www.reddit.com/r/Python/comments/16demyr/cli_tool_to_benchmark_100llms_response_response/)
 <!-- BLOG-POST-LIST:END -->
