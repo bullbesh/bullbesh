@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Created a coding blog with Flask!](https://www.reddit.com/r/Python/comments/16dmn18/created_a_coding_blog_with_flask/)
 - [Ask](https://www.reddit.com/r/Python/comments/16dl53w/ask/)
 - [I shared a Python Matplotlib Data Visualization Tutorial video on my YouTube channel](https://www.reddit.com/r/Python/comments/16dl1fc/i_shared_a_python_matplotlib_data_visualization/)
-- [Python is ranked as one of the most popular and easier languages to learn. Why can’t python alone get someone a job?](https://www.reddit.com/r/Python/comments/16dktq8/python_is_ranked_as_one_of_the_most_popular_and/)
 - [What are your thoughts on the design requirements of Traitlets?](https://www.reddit.com/r/Python/comments/16dkftc/what_are_your_thoughts_on_the_design_requirements/)
 - [Python DB Schedule](https://www.reddit.com/r/Python/comments/16div0n/python_db_schedule/)
 <!-- BLOG-POST-LIST:END -->
