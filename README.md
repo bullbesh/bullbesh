@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python is ranked as one of the most popular and easier languages to learn. Why can’t python alone get someone a job?](https://www.reddit.com/r/Python/comments/16dktq8/python_is_ranked_as_one_of_the_most_popular_and/)
+- [What are your thoughts on the design requirements of Traitlets?](https://www.reddit.com/r/Python/comments/16dkftc/what_are_your_thoughts_on_the_design_requirements/)
 - [I shared a Python Matplotlib Data Visualization Tutorial video on my YouTube channel](https://www.reddit.com/r/Python/comments/16dj263/i_shared_a_python_matplotlib_data_visualization/)
 - [Python DB Schedule](https://www.reddit.com/r/Python/comments/16div0n/python_db_schedule/)
 - [📢Excited to share the latest release of fastapi-listing. It Just Got Better😍](https://www.reddit.com/r/Python/comments/16dhwvz/excited_to_share_the_latest_release_of/)
-- [Dependency upgrade pain](https://www.reddit.com/r/Python/comments/16dfsko/dependency_upgrade_pain/)
-- [A command-line Python REPL with a built in LLM agent.](https://www.reddit.com/r/Python/comments/16dfkqn/a_commandline_python_repl_with_a_built_in_llm/)
 <!-- BLOG-POST-LIST:END -->
