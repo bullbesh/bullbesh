@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dependency upgrade pain](https://www.reddit.com/r/Python/comments/16dfsko/dependency_upgrade_pain/)
+- [A command-line Python REPL with a built in LLM agent.](https://www.reddit.com/r/Python/comments/16dfkqn/a_commandline_python_repl_with_a_built_in_llm/)
+- [Python Interview Question Playlist](https://www.reddit.com/r/Python/comments/16dfgfs/python_interview_question_playlist/)
 - [CLI tool to benchmark 100+LLMs response, response time, cost](https://www.reddit.com/r/Python/comments/16demyr/cli_tool_to_benchmark_100llms_response_response/)
-- [Python Interview Question Playlist](https://www.reddit.com/r/Python/comments/16de953/python_interview_question_playlist/)
 - [Circular imports in Python](https://www.reddit.com/r/Python/comments/16de1av/circular_imports_in_python/)
-- [Ralsei - Task framework for structured web scraping](https://www.reddit.com/r/Python/comments/16dd3yd/ralsei_task_framework_for_structured_web_scraping/)
-- [🚀 Introducing Threaddit: A Full-Stack Reddit Clone with React.js and Flask! Your Feedback Needed!](https://www.reddit.com/r/Python/comments/16dbv2c/introducing_threaddit_a_fullstack_reddit_clone/)
 <!-- BLOG-POST-LIST:END -->
