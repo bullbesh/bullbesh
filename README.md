@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [What are the Python packages you consistently use to do data analysis?](https://www.reddit.com/r/Python/comments/16czwre/what_are_the_python_packages_you_consistently_use/)
-- [Pythonistas, grab a &#39;byte&#39; to eat and a &#39;Quick Byte&#39; to read! 🍔🐍 Dive into tech trends faster than you can say &#39;print&lpar;&quot;Hello, World!&quot;&rpar;&#39;. Stay sssavvy without the web hunt!](https://www.reddit.com/r/Python/comments/16czru1/pythonistas_grab_a_byte_to_eat_and_a_quick_byte/)
 - [PyLadiesCon 2023: Call for Proposals Deadline is Soon!](https://www.reddit.com/r/Python/comments/16csgv5/pyladiescon_2023_call_for_proposals_deadline_is/)
 - [How to Hack a 3D Printer With Python](https://www.reddit.com/r/Python/comments/16cleut/how_to_hack_a_3d_printer_with_python/)
 - [svcs: A Flexible Service Locator](https://www.reddit.com/r/Python/comments/16cle8r/svcs_a_flexible_service_locator/)
+- [What is the best place to learn about up-coming features to python with each new version?](https://www.reddit.com/r/Python/comments/16cl8o0/what_is_the_best_place_to_learn_about_upcoming/)
 <!-- BLOG-POST-LIST:END -->
