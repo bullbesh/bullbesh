@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [How do you usually handle backend regressions?](https://www.reddit.com/r/Python/comments/16ecjo2/how_do_you_usually_handle_backend_regressions/)
-- [Demystifying Consistent Hashing: A Key to Scalable and Efficient Data Distribution](https://www.reddit.com/r/Python/comments/16eaamg/demystifying_consistent_hashing_a_key_to_scalable/)
 - [Layering text on an image](https://www.reddit.com/r/Python/comments/16ea7re/layering_text_on_an_image/)
-- [Need some help newbie question](https://www.reddit.com/r/Python/comments/16e9zqe/need_some_help_newbie_question/)
 - [Virtualise Python scripts](https://www.reddit.com/r/Python/comments/16e8swh/virtualise_python_scripts/)
+- [RecoverPy 2.1.0: TUI File recovery tool](https://www.reddit.com/r/Python/comments/16e75tw/recoverpy_210_tui_file_recovery_tool/)
+- [i built an entire web framework from scratch](https://www.reddit.com/r/Python/comments/16e5jkg/i_built_an_entire_web_framework_from_scratch/)
 <!-- BLOG-POST-LIST:END -->
