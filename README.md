@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I coded my first Python library! A chess analytics library](https://www.reddit.com/r/Python/comments/16dwy8e/i_coded_my_first_python_library_a_chess_analytics/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/16dqm4s/saturday_daily_thread_resource_request_and/)
 - [Python convert html to pptx](https://www.reddit.com/r/Python/comments/16dpr7p/python_convert_html_to_pptx/)
 - [Python window applications](https://www.reddit.com/r/Python/comments/16dpqw2/python_window_applications/)
 - [Create a REST API using Python](https://www.reddit.com/r/Python/comments/16doq4s/create_a_rest_api_using_python/)
-- [Online pygame compiler](https://www.reddit.com/r/Python/comments/16do6ao/online_pygame_compiler/)
 <!-- BLOG-POST-LIST:END -->
