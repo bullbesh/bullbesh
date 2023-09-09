@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/16dqm4s/saturday_daily_thread_resource_request_and/)
+- [Python convert html to pptx](https://www.reddit.com/r/Python/comments/16dpr7p/python_convert_html_to_pptx/)
+- [Python window applications](https://www.reddit.com/r/Python/comments/16dpqw2/python_window_applications/)
 - [Create a REST API using Python](https://www.reddit.com/r/Python/comments/16doq4s/create_a_rest_api_using_python/)
 - [Online pygame compiler](https://www.reddit.com/r/Python/comments/16do6ao/online_pygame_compiler/)
-- [Created a coding blog with Flask!](https://www.reddit.com/r/Python/comments/16dmn18/created_a_coding_blog_with_flask/)
-- [I shared a Python Matplotlib Data Visualization Tutorial video on my YouTube channel](https://www.reddit.com/r/Python/comments/16dl1fc/i_shared_a_python_matplotlib_data_visualization/)
-- [What are your thoughts on the design requirements of Traitlets?](https://www.reddit.com/r/Python/comments/16dkftc/what_are_your_thoughts_on_the_design_requirements/)
 <!-- BLOG-POST-LIST:END -->
