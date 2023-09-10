@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python beginner](https://www.reddit.com/r/Python/comments/16etw93/python_beginner/)
 - [Planning to start a GNSS oriented Python YouTube channel](https://www.reddit.com/r/Python/comments/16es6hx/planning_to_start_a_gnss_oriented_python_youtube/)
 - [417 Python Objective Type Questions and Answers on Web Scrapping, Data Analysis, Pandas, Scikit-Learn, NLP, Image Processing, Computer Vision, OpenCV, Network Programming, Web Development with Django and Chatbots](https://www.reddit.com/r/Python/comments/16eqlsp/417_python_objective_type_questions_and_answers/)
 - [Adam Mancini Newsletter](https://www.reddit.com/r/Python/comments/16eord2/adam_mancini_newsletter/)
 - [I build this SaaS in Python](https://www.reddit.com/r/Python/comments/16eo44j/i_build_this_saas_in_python/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/16el35a/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
