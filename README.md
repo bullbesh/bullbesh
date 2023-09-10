@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI + Django](https://www.reddit.com/r/Python/comments/16ewn7s/fastapi_django/)
+- [How To Send A Post Requests with Python &lpar;from basics to sessions&rpar;](https://www.reddit.com/r/Python/comments/16ew2ni/how_to_send_a_post_requests_with_python_from/)
+- [Comfy with Python basic tooling, now what?](https://www.reddit.com/r/Python/comments/16evsmz/comfy_with_python_basic_tooling_now_what/)
 - [Indentation error](https://www.reddit.com/r/Python/comments/16evewx/indentation_error/)
 - [Should we use from __future__ import annotations in python 3.10+?](https://www.reddit.com/r/Python/comments/16evc3u/should_we_use_from_future_import_annotations_in/)
-- [Android App recommendations to start with Python](https://www.reddit.com/r/Python/comments/16euxc8/android_app_recommendations_to_start_with_python/)
-- [Python beginner](https://www.reddit.com/r/Python/comments/16etw93/python_beginner/)
-- [Planning to start a GNSS oriented Python YouTube channel](https://www.reddit.com/r/Python/comments/16es6hx/planning_to_start_a_gnss_oriented_python_youtube/)
 <!-- BLOG-POST-LIST:END -->
