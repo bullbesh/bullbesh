@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve created a web application that prevents a large proportion of phishing attacks by authenticating real companies.](https://www.reddit.com/r/Python/comments/16f5ma3/ive_created_a_web_application_that_prevents_a/)
 - [First Program, Quiz game](https://www.reddit.com/r/Python/comments/16f4rw9/first_program_quiz_game/)
 - [black-formatter question about import statments](https://www.reddit.com/r/Python/comments/16f4rr3/blackformatter_question_about_import_statments/)
-- [I built an AI Customer Service agent that&#39;s available 24/7 using Python + OpenAI API](https://www.reddit.com/r/Python/comments/16f4mck/i_built_an_ai_customer_service_agent_thats/)
-- [Does anyone know what the problem might be?](https://www.reddit.com/r/Python/comments/16f3tjq/does_anyone_know_what_the_problem_might_be/)
+- [HPy: A Better API for Python](https://www.reddit.com/r/Python/comments/16f3pdi/hpy_a_better_api_for_python/)
+- [I tried making a YouTube video](https://www.reddit.com/r/Python/comments/16f3ixe/i_tried_making_a_youtube_video/)
+- [Common new learner hangups with Python](https://www.reddit.com/r/Python/comments/16f2rf2/common_new_learner_hangups_with_python/)
 <!-- BLOG-POST-LIST:END -->
