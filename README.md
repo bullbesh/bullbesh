@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/16el35a/sunday_daily_thread_whats_everyone_working_on/)
 - [How do you make good data visuals using Python? FEEDBACK APPRECIATED](https://www.reddit.com/r/Python/comments/16ehztp/how_do_you_make_good_data_visuals_using_python/)
-- [i need help](https://www.reddit.com/r/Python/comments/16eht2p/i_need_help/)
 - [How do you usually handle backend regressions?](https://www.reddit.com/r/Python/comments/16ecjo2/how_do_you_usually_handle_backend_regressions/)
 - [Layering text on an image](https://www.reddit.com/r/Python/comments/16ea7re/layering_text_on_an_image/)
 - [Virtualise Python scripts](https://www.reddit.com/r/Python/comments/16e8swh/virtualise_python_scripts/)
