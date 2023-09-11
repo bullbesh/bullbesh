@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/16fg42z/monday_daily_thread_project_ideas/)
 - [I wrote a bot to allow remote management of a Minecraft server.](https://www.reddit.com/r/Python/comments/16fb8em/i_wrote_a_bot_to_allow_remote_management_of_a/)
 - [Is FastAPI overtaking popularity from Django?](https://www.reddit.com/r/Python/comments/16f9ou2/is_fastapi_overtaking_popularity_from_django/)
 - [Fastapi R/w patterns](https://www.reddit.com/r/Python/comments/16f8s0b/fastapi_rw_patterns/)
 - [Image to sound wav file, Python script](https://www.reddit.com/r/Python/comments/16f7kqs/image_to_sound_wav_file_python_script/)
-- [First Program, Quiz game](https://www.reddit.com/r/Python/comments/16f4rw9/first_program_quiz_game/)
 <!-- BLOG-POST-LIST:END -->
