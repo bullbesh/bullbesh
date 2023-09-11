@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [abstract_blockchain; a python module for interacting with smart contracts.](https://www.reddit.com/r/Python/comments/16fxiwm/abstract_blockchain_a_python_module_for/)
 - [Want to Know About, How to Install AI/ML Python Libraries and packages in Jupyter Notebook, Check out this Blog Post.](https://www.reddit.com/r/Python/comments/16fweu3/want_to_know_about_how_to_install_aiml_python/)
 - [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe](https://www.reddit.com/r/Python/comments/16fw1bd/the_python_on_microcontrollers_newsletter_a_free/)
 - [Is this normal I spend almost 6 hours to extract &quot;desired text&quot; from a huge text for scraping data?](https://www.reddit.com/r/Python/comments/16fw0n5/is_this_normal_i_spend_almost_6_hours_to_extract/)
 - [showcert: simple OpenSSL for humans](https://www.reddit.com/r/Python/comments/16fvwc0/showcert_simple_openssl_for_humans/)
-- [Any good google search python package nowadays?](https://www.reddit.com/r/Python/comments/16fvg3d/any_good_google_search_python_package_nowadays/)
 <!-- BLOG-POST-LIST:END -->
