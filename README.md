@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is there a tool to visualize the inheritance hierarchy in Python &lpar;for free!&rpar;?](https://www.reddit.com/r/Python/comments/16fusgi/is_there_a_tool_to_visualize_the_inheritance/)
-- [How To Develop A Token Streaming UI For Your LLM With Go, FastAPI And JS](https://www.reddit.com/r/Python/comments/16fuqrk/how_to_develop_a_token_streaming_ui_for_your_llm/)
-- [Is there any python module which can decode lorawan packets.](https://www.reddit.com/r/Python/comments/16ftbtn/is_there_any_python_module_which_can_decode/)
-- [Strange run as administrator installation occurrence](https://www.reddit.com/r/Python/comments/16frihl/strange_run_as_administrator_installation/)
-- [Visualizing the CPython Release Process](https://www.reddit.com/r/Python/comments/16fr5ec/visualizing_the_cpython_release_process/)
+- [Want to Know About, How to Install AI/ML Python Libraries and packages in Jupyter Notebook, Check out this Blog Post.](https://www.reddit.com/r/Python/comments/16fweu3/want_to_know_about_how_to_install_aiml_python/)
+- [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe](https://www.reddit.com/r/Python/comments/16fw1bd/the_python_on_microcontrollers_newsletter_a_free/)
+- [Is this normal I spend almost 6 hours to extract &quot;desired text&quot; from a huge text for scraping data?](https://www.reddit.com/r/Python/comments/16fw0n5/is_this_normal_i_spend_almost_6_hours_to_extract/)
+- [showcert: simple OpenSSL for humans](https://www.reddit.com/r/Python/comments/16fvwc0/showcert_simple_openssl_for_humans/)
+- [Any good google search python package nowadays?](https://www.reddit.com/r/Python/comments/16fvg3d/any_good_google_search_python_package_nowadays/)
 <!-- BLOG-POST-LIST:END -->
