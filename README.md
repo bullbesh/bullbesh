@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just made a GUI that generates a &quot;news ticker&quot; for stats of NBA players of a given team using Tkinter and NBA_API.](https://www.reddit.com/r/Python/comments/16g0ye1/i_just_made_a_gui_that_generates_a_news_ticker/)
+- [Python Slot Machine](https://www.reddit.com/r/Python/comments/16g0t0z/python_slot_machine/)
+- [GitHub - anthonynsimon/secrets-vault: simple encrypted secrets for Python](https://www.reddit.com/r/Python/comments/16fzpwo/github_anthonynsimonsecretsvault_simple_encrypted/)
 - [Are there any benchmarks for Sqlalchemy 2.0? Did going async improve performance? Please share your experience.](https://www.reddit.com/r/Python/comments/16fzjlb/are_there_any_benchmarks_for_sqlalchemy_20_did/)
 - [abstract_blockchain; a python module for interacting with smart contracts.](https://www.reddit.com/r/Python/comments/16fxiwm/abstract_blockchain_a_python_module_for/)
-- [Want to Know About, How to Install AI/ML Python Libraries and packages in Jupyter Notebook, Check out this Blog Post.](https://www.reddit.com/r/Python/comments/16fweu3/want_to_know_about_how_to_install_aiml_python/)
-- [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe](https://www.reddit.com/r/Python/comments/16fw1bd/the_python_on_microcontrollers_newsletter_a_free/)
-- [Is this normal I spend almost 6 hours to extract &quot;desired text&quot; from a huge text for scraping data?](https://www.reddit.com/r/Python/comments/16fw0n5/is_this_normal_i_spend_almost_6_hours_to_extract/)
 <!-- BLOG-POST-LIST:END -->
