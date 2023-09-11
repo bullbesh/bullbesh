@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Command Prompt &quot;Python&quot; [WinError 32] The process cannot access the file because it is being used by another process](https://www.reddit.com/r/Python/comments/16g3qjh/command_prompt_python_winerror_32_the_process/)
 - [Is the use of a debugger commonplace at your work or not?](https://www.reddit.com/r/Python/comments/16g1j49/is_the_use_of_a_debugger_commonplace_at_your_work/)
 - [I just made a GUI that generates a &quot;news ticker&quot; for stats of NBA players of a given team using Tkinter and NBA_API.](https://www.reddit.com/r/Python/comments/16g0ye1/i_just_made_a_gui_that_generates_a_news_ticker/)
 - [GitHub - anthonynsimon/secrets-vault: simple encrypted secrets for Python](https://www.reddit.com/r/Python/comments/16fzpwo/github_anthonynsimonsecretsvault_simple_encrypted/)
 - [Are there any benchmarks for Sqlalchemy 2.0? Did going async improve performance? Please share your experience.](https://www.reddit.com/r/Python/comments/16fzjlb/are_there_any_benchmarks_for_sqlalchemy_20_did/)
+- [abstract_blockchain; a python module for interacting with smart contracts.](https://www.reddit.com/r/Python/comments/16fxiwm/abstract_blockchain_a_python_module_for/)
 <!-- BLOG-POST-LIST:END -->
