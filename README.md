@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Question about forecasting with small historic data](https://www.reddit.com/r/Python/comments/16h2h4m/question_about_forecasting_with_small_historic/)
-- [How would you make karma](https://www.reddit.com/r/Python/comments/16h1oob/how_would_you_make_karma/)
 - [Planning to compile a Library for GPS related stuff. Give me some productivity tips please](https://www.reddit.com/r/Python/comments/16h16h1/planning_to_compile_a_library_for_gps_related/)
 - [Working with many parquet files on S3](https://www.reddit.com/r/Python/comments/16gzi5j/working_with_many_parquet_files_on_s3/)
 - [What is your python workspace?](https://www.reddit.com/r/Python/comments/16gy8rs/what_is_your_python_workspace/)
+- [How to configure your MicroPython project with JSON files](https://www.reddit.com/r/Python/comments/16gtyhd/how_to_configure_your_micropython_project_with/)
 <!-- BLOG-POST-LIST:END -->
