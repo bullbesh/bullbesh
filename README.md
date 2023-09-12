@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hi I’m looking for beginner book recommendations](https://www.reddit.com/r/Python/comments/16gkgdi/hi_im_looking_for_beginner_book_recommendations/)
 - [WHY PYTHON?](https://www.reddit.com/r/Python/comments/16gholj/why_python/)
 - [I Recreated a Silly Typing Tutor Game](https://www.reddit.com/r/Python/comments/16ggesr/i_recreated_a_silly_typing_tutor_game/)
 - [Open source Bloomberg Terminal in Python](https://www.reddit.com/r/Python/comments/16gdybd/open_source_bloomberg_terminal_in_python/)
 - [Underused Library: Ibis - Dataframe frontend, SQL backend](https://www.reddit.com/r/Python/comments/16gciot/underused_library_ibis_dataframe_frontend_sql/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/16gbuhe/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
