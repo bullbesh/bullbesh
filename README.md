@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python language basics](https://www.reddit.com/r/Python/comments/16goe16/python_language_basics/)
-- [Self restart path error...](https://www.reddit.com/r/Python/comments/16go4gf/self_restart_path_error/)
+- [Python Dictionary: A Complete &lpar;Beginner&#39;s&rpar; Guide + PDF Cheat Sheet](https://www.reddit.com/r/Python/comments/16gpywx/python_dictionary_a_complete_beginners_guide_pdf/)
 - [Create 2D list](https://www.reddit.com/r/Python/comments/16gn1yh/create_2d_list/)
 - [Firebolt vs Redshift &lpar;2023&rpar; | Firebolt](https://www.reddit.com/r/Python/comments/16gln4d/firebolt_vs_redshift_2023_firebolt/)
 - [Implementing Streaming with FastAPI’s StreamingResponse](https://www.reddit.com/r/Python/comments/16gkrto/implementing_streaming_with_fastapis/)
+- [Hi I’m looking for beginner book recommendations](https://www.reddit.com/r/Python/comments/16gkgdi/hi_im_looking_for_beginner_book_recommendations/)
 <!-- BLOG-POST-LIST:END -->
