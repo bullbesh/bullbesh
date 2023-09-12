@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Streaming with FastAPI’s StreamingResponse](https://www.reddit.com/r/Python/comments/16gkrto/implementing_streaming_with_fastapis/)
 - [Hi I’m looking for beginner book recommendations](https://www.reddit.com/r/Python/comments/16gkgdi/hi_im_looking_for_beginner_book_recommendations/)
 - [WHY PYTHON?](https://www.reddit.com/r/Python/comments/16gholj/why_python/)
 - [I Recreated a Silly Typing Tutor Game](https://www.reddit.com/r/Python/comments/16ggesr/i_recreated_a_silly_typing_tutor_game/)
 - [Open source Bloomberg Terminal in Python](https://www.reddit.com/r/Python/comments/16gdybd/open_source_bloomberg_terminal_in_python/)
-- [Underused Library: Ibis - Dataframe frontend, SQL backend](https://www.reddit.com/r/Python/comments/16gciot/underused_library_ibis_dataframe_frontend_sql/)
 <!-- BLOG-POST-LIST:END -->
