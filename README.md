@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is your python workspace?](https://www.reddit.com/r/Python/comments/16gy8rs/what_is_your_python_workspace/)
+- [SOCORRO me ajudem com esse código está dando erro](https://www.reddit.com/r/Python/comments/16gxiff/socorro_me_ajudem_com_esse_código_está_dando_erro/)
 - [Football points / push-up problem](https://www.reddit.com/r/Python/comments/16gw2s2/football_points_pushup_problem/)
 - [When checking to see if a variable is an instance of class pathlib, which I know why is ther eno value returning ?](https://www.reddit.com/r/Python/comments/16gu5vw/when_checking_to_see_if_a_variable_is_an_instance/)
 - [How to configure your MicroPython project with JSON files](https://www.reddit.com/r/Python/comments/16gtyhd/how_to_configure_your_micropython_project_with/)
-- [How do I mainuplate data from a generator ?](https://www.reddit.com/r/Python/comments/16gsg8u/how_do_i_mainuplate_data_from_a_generator/)
-- [Libtorrent USING PYTHON](https://www.reddit.com/r/Python/comments/16gsa0m/libtorrent_using_python/)
 <!-- BLOG-POST-LIST:END -->
