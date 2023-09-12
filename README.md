@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Recreated a Silly Typing Tutor Game](https://www.reddit.com/r/Python/comments/16ggesr/i_recreated_a_silly_typing_tutor_game/)
 - [Open source Bloomberg Terminal in Python](https://www.reddit.com/r/Python/comments/16gdybd/open_source_bloomberg_terminal_in_python/)
 - [Underused Library: Ibis - Dataframe frontend, SQL backend](https://www.reddit.com/r/Python/comments/16gciot/underused_library_ibis_dataframe_frontend_sql/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/16gbuhe/tuesday_daily_thread_advanced_questions/)
 - [Introducing WireUp - A Modern Dependency Injection Library](https://www.reddit.com/r/Python/comments/16gadfj/introducing_wireup_a_modern_dependency_injection/)
-- [Flake-8 logging](https://www.reddit.com/r/Python/comments/16ga4uw/flake8_logging/)
 <!-- BLOG-POST-LIST:END -->
