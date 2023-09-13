@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can Anyone Explain This?](https://www.reddit.com/r/Python/comments/16hn3pa/can_anyone_explain_this/)
-- [Cerbos Python SDK: trials and tribulations in transition from HTTP to gRPC](https://www.reddit.com/r/Python/comments/16hjznm/cerbos_python_sdk_trials_and_tribulations_in/)
+- [I shared a Python Exploratory Data Analysis Project &lpar;with dataset&rpar; on YouTube](https://www.reddit.com/r/Python/comments/16hpdfr/i_shared_a_python_exploratory_data_analysis/)
 - [Quantization of linear models and neural networks of sklearn](https://www.reddit.com/r/Python/comments/16hi1yi/quantization_of_linear_models_and_neural_networks/)
 - [Want to Know About, How to share Jupyter Notebooks with others, including how to export and convert notebooks to different formats, Check out this Blog Post.](https://www.reddit.com/r/Python/comments/16hd6m6/want_to_know_about_how_to_share_jupyter_notebooks/)
 - [Str-AI-hd von ZaroBot Just another AI Discord chatbot](https://www.reddit.com/r/Python/comments/16hcmqw/straihd_von_zarobot_just_another_ai_discord/)
+- [Tabber window manager by Python](https://www.reddit.com/r/Python/comments/16h9wey/tabber_window_manager_by_python/)
 <!-- BLOG-POST-LIST:END -->
