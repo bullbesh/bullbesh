@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Dynamic README.md File](https://www.reddit.com/r/Python/comments/16htwja/creating_dynamic_readmemd_file/)
+- [CAPM implementation &lpar;with UI!&rpar;](https://www.reddit.com/r/Python/comments/16htj25/capm_implementation_with_ui/)
+- [Chaos Theory and the Delicate Equilibrium of Newborns: A Mathematical Model of Hunger and Tiredness](https://www.reddit.com/r/Python/comments/16ht8im/chaos_theory_and_the_delicate_equilibrium_of/)
 - [Need help with Plotly and Dash](https://www.reddit.com/r/Python/comments/16hslbs/need_help_with_plotly_and_dash/)
 - [OPEN D/I](https://www.reddit.com/r/Python/comments/16hrfuy/open_di/)
-- [I shared a Python Exploratory Data Analysis Project &lpar;with dataset&rpar; on YouTube](https://www.reddit.com/r/Python/comments/16hr1t4/i_shared_a_python_exploratory_data_analysis/)
-- [Interpolating bathymetry point dataset using python](https://www.reddit.com/r/Python/comments/16hqaya/interpolating_bathymetry_point_dataset_using/)
-- [Threads&lpar;meta&rpar; Module for Python](https://www.reddit.com/r/Python/comments/16hq2yl/threadsmeta_module_for_python/)
 <!-- BLOG-POST-LIST:END -->
