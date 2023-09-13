@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need help with Plotly and Dash](https://www.reddit.com/r/Python/comments/16hslbs/need_help_with_plotly_and_dash/)
+- [OPEN D/I](https://www.reddit.com/r/Python/comments/16hrfuy/open_di/)
 - [I shared a Python Exploratory Data Analysis Project &lpar;with dataset&rpar; on YouTube](https://www.reddit.com/r/Python/comments/16hr1t4/i_shared_a_python_exploratory_data_analysis/)
 - [Interpolating bathymetry point dataset using python](https://www.reddit.com/r/Python/comments/16hqaya/interpolating_bathymetry_point_dataset_using/)
 - [Threads&lpar;meta&rpar; Module for Python](https://www.reddit.com/r/Python/comments/16hq2yl/threadsmeta_module_for_python/)
-- [The Protocol class in the context of static typing](https://www.reddit.com/r/Python/comments/16hq1fk/the_protocol_class_in_the_context_of_static_typing/)
-- [Maybe we should have more Q&amp;A AMA-style topics here?](https://www.reddit.com/r/Python/comments/16hpuau/maybe_we_should_have_more_qa_amastyle_topics_here/)
 <!-- BLOG-POST-LIST:END -->
