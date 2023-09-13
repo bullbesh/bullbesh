@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Essence of Types, Subtyping, and Object Orientation](https://www.reddit.com/r/Python/comments/16hyqpt/essence_of_types_subtyping_and_object_orientation/)
+- [I made quantum-resistant file/text encryption tool in Python](https://www.reddit.com/r/Python/comments/16i1ako/i_made_quantumresistant_filetext_encryption_tool/)
 - [Whats the use of jinja in real world projects?](https://www.reddit.com/r/Python/comments/16hxm0r/whats_the_use_of_jinja_in_real_world_projects/)
 - [Are there any entertaining books like why&#39;s &lpar;poignant&rpar; guide to ruby but for python?](https://www.reddit.com/r/Python/comments/16hwx33/are_there_any_entertaining_books_like_whys/)
 - [I developed an open-source metasearch engine using Python with the Flask framework last year in December, and it is still a project I work on.](https://www.reddit.com/r/Python/comments/16hwujj/i_developed_an_opensource_metasearch_engine_using/)
