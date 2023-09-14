@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[AMA] - Since my AMA a couple days ago. I wanted to share how you all have helped bring this class to life.](https://www.reddit.com/r/Python/comments/16ipl8r/ama_since_my_ama_a_couple_days_ago_i_wanted_to/)
+- [Edifice v0.1.0: Declarative GUI library for Python](https://www.reddit.com/r/Python/comments/16ipeu4/edifice_v010_declarative_gui_library_for_python/)
+- [Poetry package manager conflicting packages](https://www.reddit.com/r/Python/comments/16io9so/poetry_package_manager_conflicting_packages/)
 - [I Recreated a Silly Typing Tutor Game](https://www.reddit.com/r/Python/comments/16in35c/i_recreated_a_silly_typing_tutor_game/)
 - [How to add one instance of a double quote?](https://www.reddit.com/r/Python/comments/16in0qh/how_to_add_one_instance_of_a_double_quote/)
-- [emlearn: scikit-learn for microcontrollers and embedded - now with MicroPython support](https://www.reddit.com/r/Python/comments/16imd8m/emlearn_scikitlearn_for_microcontrollers_and/)
-- [Introducing Armasec: Easy OIDC Security for FastAPI Apps](https://www.reddit.com/r/Python/comments/16ilrg9/introducing_armasec_easy_oidc_security_for/)
-- [What is StandardScaler&lpar;&rpar; in Machine Learning and How and Why it is Used?](https://www.reddit.com/r/Python/comments/16ijjki/what_is_standardscaler_in_machine_learning_and/)
 <!-- BLOG-POST-LIST:END -->
