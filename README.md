@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrapy} I try to scrape Fashion website but the site has a button &quot;Load more products&quot;, that will reveal more products when it is pressed, can Scrapy press a button and then scrape?](https://www.reddit.com/r/Python/comments/16ib8g4/scrapy_i_try_to_scrape_fashion_website_but_the/)
+- [Stop Eye-Balling If Prompts Work, How To Test LLMs](https://www.reddit.com/r/Python/comments/16iao66/stop_eyeballing_if_prompts_work_how_to_test_llms/)
 - [Repo for python plotting functions](https://www.reddit.com/r/Python/comments/16i7jxo/repo_for_python_plotting_functions/)
 - [Build and Publish to PyPI with Setuptools](https://www.reddit.com/r/Python/comments/16i5om4/build_and_publish_to_pypi_with_setuptools/)
 - [A Python book with the most extensive examples and most extensive index?](https://www.reddit.com/r/Python/comments/16i4r2q/a_python_book_with_the_most_extensive_examples/)
-- [When to reconsider using Pandas for data processing](https://www.reddit.com/r/Python/comments/16i3g8k/when_to_reconsider_using_pandas_for_data/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/16i353n/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
