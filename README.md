@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I want to learn Python, but I&#39;ve heard that new EU regulations might &lpar;in practice&rpar; make Python unavailable in Europe in the near future. Should I be concerned?](https://www.reddit.com/r/Python/comments/16ijlf4/i_want_to_learn_python_but_ive_heard_that_new_eu/)
+- [What is StandardScaler&lpar;&rpar; in Machine Learning and How and Why it is Used?](https://www.reddit.com/r/Python/comments/16ijjki/what_is_standardscaler_in_machine_learning_and/)
+- [Releasing Temporian, a Python library for processing temporal data, built together with Google](https://www.reddit.com/r/Python/comments/16ij35c/releasing_temporian_a_python_library_for/)
+- [Bypassing the GIL for Parallel Processing in Python – Real Python](https://www.reddit.com/r/Python/comments/16iiwz9/bypassing_the_gil_for_parallel_processing_in/)
 - [Want to Know About, Performance Optimization of Jupyter Notebook, Check out this blog Post.](https://www.reddit.com/r/Python/comments/16iicro/want_to_know_about_performance_optimization_of/)
-- [I got a lot of interest in my Udemy Course during my AMA session. Here is the link.](https://www.reddit.com/r/Python/comments/16ii2v1/i_got_a_lot_of_interest_in_my_udemy_course_during/)
-- [Ruff format, new tool to format python files that is 30-120x faster than other tools&lpar;e.g black or yapf&rpar; - benchmark](https://www.reddit.com/r/Python/comments/16ig4wu/ruff_format_new_tool_to_format_python_files_that/)
-- [Now you can audit the Solidity code yourself or significantly increase the chance of finding a critical bug. Try my Python-based tool!](https://www.reddit.com/r/Python/comments/16iexlp/now_you_can_audit_the_solidity_code_yourself_or/)
-- [Do other scientists use the Spyder IDE or is it just my university?](https://www.reddit.com/r/Python/comments/16iep4i/do_other_scientists_use_the_spyder_ide_or_is_it/)
 <!-- BLOG-POST-LIST:END -->
