@@ -12,5 +12,5 @@
 - [Felienne Hermans, creator of Hedy, an open source, progressive language for learning Python](https://www.reddit.com/r/Python/comments/16jfidr/felienne_hermans_creator_of_hedy_an_open_source/)
 - [GitHub - indeedeng/iwf-python-sdk: Python SDK for iWF](https://www.reddit.com/r/Python/comments/16jf81i/github_indeedengiwfpythonsdk_python_sdk_for_iwf/)
 - [Not possible to simulate human activity?](https://www.reddit.com/r/Python/comments/16jf3ra/not_possible_to_simulate_human_activity/)
-- [I hate python because it takes 7 characters to print something.](https://www.reddit.com/r/Python/comments/16jejki/i_hate_python_because_it_takes_7_characters_to/)
+- [Why don’t i get Python or programming in general. Is it just me?](https://www.reddit.com/r/Python/comments/16jdp3m/why_dont_i_get_python_or_programming_in_general/)
 <!-- BLOG-POST-LIST:END -->
