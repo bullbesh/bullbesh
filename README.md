@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Demo: Python app to chat with a CSV file](https://www.reddit.com/r/Python/comments/16ixjgo/demo_python_app_to_chat_with_a_csv_file/)
+- [I created a cli Alarm](https://www.reddit.com/r/Python/comments/16ixgs3/i_created_a_cli_alarm/)
+- [Create an Object Detector for Any Game Using YOLO](https://www.reddit.com/r/Python/comments/16ix8ul/create_an_object_detector_for_any_game_using_yolo/)
 - [Python - aspen/autodesk](https://www.reddit.com/r/Python/comments/16ivz68/python_aspenautodesk/)
 - [QSketchMetric - Python 2D parametric DXF rendering engine](https://www.reddit.com/r/Python/comments/16isr34/qsketchmetric_python_2d_parametric_dxf_rendering/)
-- [Exploratory Data Analysis with Python Jupyter Notebook: A tutorial on how to perform exploratory…](https://www.reddit.com/r/Python/comments/16irr7l/exploratory_data_analysis_with_python_jupyter/)
-- [Is there any downsides to using pipx?](https://www.reddit.com/r/Python/comments/16ipu0s/is_there_any_downsides_to_using_pipx/)
-- [Edifice v0.1.0: Declarative GUI library for Python](https://www.reddit.com/r/Python/comments/16ipeu4/edifice_v010_declarative_gui_library_for_python/)
 <!-- BLOG-POST-LIST:END -->
