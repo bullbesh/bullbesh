@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Extract Email addresses in 3 lines of Code from a text blob](https://www.reddit.com/r/Python/comments/16jj0x9/extract_email_addresses_in_3_lines_of_code_from_a/)
+- [The PyCon AU and SciPy 2023 Sessions Are Now Online](https://www.reddit.com/r/Python/comments/16jizn8/the_pycon_au_and_scipy_2023_sessions_are_now/)
+- [Question](https://www.reddit.com/r/Python/comments/16ji2tq/question/)
+- [Python explanations?](https://www.reddit.com/r/Python/comments/16ji0lf/python_explanations/)
 - [Upcoming AMA: Al Sweigart, author of Automate the Boring Stuff with Python](https://www.reddit.com/r/Python/comments/16jfyx4/upcoming_ama_al_sweigart_author_of_automate_the/)
-- [Felienne Hermans, creator of Hedy, an open source, progressive language for learning Python](https://www.reddit.com/r/Python/comments/16jfidr/felienne_hermans_creator_of_hedy_an_open_source/)
-- [GitHub - indeedeng/iwf-python-sdk: Python SDK for iWF](https://www.reddit.com/r/Python/comments/16jf81i/github_indeedengiwfpythonsdk_python_sdk_for_iwf/)
-- [Not possible to simulate human activity?](https://www.reddit.com/r/Python/comments/16jf3ra/not_possible_to_simulate_human_activity/)
-- [Why don’t i get Python or programming in general. Is it just me?](https://www.reddit.com/r/Python/comments/16jdp3m/why_dont_i_get_python_or_programming_in_general/)
 <!-- BLOG-POST-LIST:END -->
