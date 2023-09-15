@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wrote this before I knew chr&lpar;&rpar; was a thing...](https://www.reddit.com/r/Python/comments/16jk9pv/wrote_this_before_i_knew_chr_was_a_thing/)
 - [Extract Email addresses in 3 lines of Code from a text blob](https://www.reddit.com/r/Python/comments/16jj0x9/extract_email_addresses_in_3_lines_of_code_from_a/)
 - [The PyCon AU and SciPy 2023 Sessions Are Now Online](https://www.reddit.com/r/Python/comments/16jizn8/the_pycon_au_and_scipy_2023_sessions_are_now/)
 - [Question](https://www.reddit.com/r/Python/comments/16ji2tq/question/)
 - [Python explanations?](https://www.reddit.com/r/Python/comments/16ji0lf/python_explanations/)
-- [Upcoming AMA: Al Sweigart, author of Automate the Boring Stuff with Python](https://www.reddit.com/r/Python/comments/16jfyx4/upcoming_ama_al_sweigart_author_of_automate_the/)
 <!-- BLOG-POST-LIST:END -->
