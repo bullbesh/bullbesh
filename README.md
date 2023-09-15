@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Upcoming AMA: Al Sweigart, author of Automate the Boring Stuff with Python](https://www.reddit.com/r/Python/comments/16jfyx4/upcoming_ama_al_sweigart_author_of_automate_the/)
+- [Felienne Hermans, creator of Hedy, an open source, progressive language for learning Python](https://www.reddit.com/r/Python/comments/16jfidr/felienne_hermans_creator_of_hedy_an_open_source/)
+- [GitHub - indeedeng/iwf-python-sdk: Python SDK for iWF](https://www.reddit.com/r/Python/comments/16jf81i/github_indeedengiwfpythonsdk_python_sdk_for_iwf/)
+- [Not possible to simulate human activity?](https://www.reddit.com/r/Python/comments/16jf3ra/not_possible_to_simulate_human_activity/)
 - [I hate python because it takes 7 characters to print something.](https://www.reddit.com/r/Python/comments/16jejki/i_hate_python_because_it_takes_7_characters_to/)
-- [Why don’t i get Python or programming in general. Is it just me?](https://www.reddit.com/r/Python/comments/16jdp3m/why_dont_i_get_python_or_programming_in_general/)
-- [When to use classes in Python? When you repeat the same functions](https://www.reddit.com/r/Python/comments/16jd1d4/when_to_use_classes_in_python_when_you_repeat_the/)
-- [My project is 100 different spreadsheets - halp.](https://www.reddit.com/r/Python/comments/16jcm5t/my_project_is_100_different_spreadsheets_halp/)
-- [QuasiQueue: Python Multiprocessing Queues Made Easy](https://www.reddit.com/r/Python/comments/16jb8f1/quasiqueue_python_multiprocessing_queues_made_easy/)
 <!-- BLOG-POST-LIST:END -->
