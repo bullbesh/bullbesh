@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [This might be an extremely topic to discuss about, but I just had to talk about it](https://www.reddit.com/r/Python/comments/16jqcth/this_might_be_an_extremely_topic_to_discuss_about/)
+- [Help with a small CODE](https://www.reddit.com/r/Python/comments/16jqu6a/help_with_a_small_code/)
 - [PyQt QSlider](https://www.reddit.com/r/Python/comments/16jous6/pyqt_qslider/)
 - [[Feedback] I just wrote this article, &quot;Why Python is Essential in 2023&quot;](https://www.reddit.com/r/Python/comments/16jmo3a/feedback_i_just_wrote_this_article_why_python_is/)
 - [[Save the Date: AMA September 18, 7pm EST] Dr. Lawrence Gray on Python Basics, Data Analytics, Data-Driven Decision Making, and More!](https://www.reddit.com/r/Python/comments/16jlgwb/save_the_date_ama_september_18_7pm_est_dr/)
