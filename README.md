@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you have experiences with using Guix for Python packaging or in multi-language projects?](https://www.reddit.com/r/Python/comments/16j7bp4/do_you_have_experiences_with_using_guix_for/)
+- [This is my story of how I made a Django scraping app and it’s paying my college tuition fees](https://www.reddit.com/r/Python/comments/16j79dv/this_is_my_story_of_how_i_made_a_django_scraping/)
+- [POST: Using Redis For Producer Consumer Queues Part 1](https://www.reddit.com/r/Python/comments/16j6noz/post_using_redis_for_producer_consumer_queues/)
+- [Need help!!!!!&lpar;need book&rpar;](https://www.reddit.com/r/Python/comments/16j6ipn/need_helpneed_book/)
 - [Web Scraping](https://www.reddit.com/r/Python/comments/16j68qx/web_scraping/)
-- [I created a cli Alarm](https://www.reddit.com/r/Python/comments/16ixgs3/i_created_a_cli_alarm/)
-- [Create an Object Detector for Any Game Using YOLO](https://www.reddit.com/r/Python/comments/16ix8ul/create_an_object_detector_for_any_game_using_yolo/)
-- [QSketchMetric - Python 2D parametric DXF rendering engine](https://www.reddit.com/r/Python/comments/16isr34/qsketchmetric_python_2d_parametric_dxf_rendering/)
-- [Exploratory Data Analysis with Python Jupyter Notebook: A tutorial on how to perform exploratory…](https://www.reddit.com/r/Python/comments/16irr7l/exploratory_data_analysis_with_python_jupyter/)
 <!-- BLOG-POST-LIST:END -->
