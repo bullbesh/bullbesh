@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I shared a crash course about Python Financial Analysis on YouTube](https://www.reddit.com/r/Python/comments/16k7dw1/i_shared_a_crash_course_about_python_financial/)
+- [Captcha Solving Service](https://www.reddit.com/r/Python/comments/16k6nna/captcha_solving_service/)
 - [I built a SaaS web app with the python library streamlit in a weekend](https://www.reddit.com/r/Python/comments/16k63df/i_built_a_saas_web_app_with_the_python_library/)
 - [Brand new tool, for Game Devs](https://www.reddit.com/r/Python/comments/16k4s6z/brand_new_tool_for_game_devs/)
 - [My favorite prime number generator](https://www.reddit.com/r/Python/comments/16k4ohx/my_favorite_prime_number_generator/)
-- [Advanced Foundations of Python Programming](https://www.reddit.com/r/Python/comments/16k3wvn/advanced_foundations_of_python_programming/)
-- [I&#39;ve built an open source tool for Heart Rate Variability training. The python application connects to a Polar H10 heart rate monitor, gives real-time feedback of breathing control, and tracks heart rate patterns.](https://www.reddit.com/r/Python/comments/16k3ft3/ive_built_an_open_source_tool_for_heart_rate/)
 <!-- BLOG-POST-LIST:END -->
