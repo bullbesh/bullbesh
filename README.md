@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A book to learn python](https://www.reddit.com/r/Python/comments/16kjp6p/a_book_to_learn_python/)
+- [What are examples of intermediate level projects?](https://www.reddit.com/r/Python/comments/16kjlkk/what_are_examples_of_intermediate_level_projects/)
+- [Loop killed my ssd](https://www.reddit.com/r/Python/comments/16kja4l/loop_killed_my_ssd/)
+- [I shared a crash course about Financial Analysis with Python on YouTube](https://www.reddit.com/r/Python/comments/16kj18e/i_shared_a_crash_course_about_financial_analysis/)
 - [Object mapping libraries](https://www.reddit.com/r/Python/comments/16keq2w/object_mapping_libraries/)
-- [Beginner code](https://www.reddit.com/r/Python/comments/16kegbz/beginner_code/)
-- [Textual 0.37.0 adds a command palette](https://www.reddit.com/r/Python/comments/16ke9nx/textual_0370_adds_a_command_palette/)
-- [Pictofeed - Social media app with a Python API backend built using Django](https://www.reddit.com/r/Python/comments/16kde9u/pictofeed_social_media_app_with_a_python_api/)
-- [I Shared my First Data Science Project on YouTube &lpar;Kaggle Titanic&rpar;](https://www.reddit.com/r/Python/comments/16kcch2/i_shared_my_first_data_science_project_on_youtube/)
 <!-- BLOG-POST-LIST:END -->
