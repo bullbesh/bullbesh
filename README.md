@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Brand new tool, for Game Devs](https://www.reddit.com/r/Python/comments/16k4s6z/brand_new_tool_for_game_devs/)
+- [My favorite prime number generator](https://www.reddit.com/r/Python/comments/16k4ohx/my_favorite_prime_number_generator/)
+- [Advanced Foundations of Python Programming](https://www.reddit.com/r/Python/comments/16k3wvn/advanced_foundations_of_python_programming/)
 - [I&#39;ve built an open source tool for Heart Rate Variability training. The python application connects to a Polar H10 heart rate monitor, gives real-time feedback of breathing control, and tracks heart rate patterns.](https://www.reddit.com/r/Python/comments/16k3ft3/ive_built_an_open_source_tool_for_heart_rate/)
 - [What is the best mobile app to learn python?](https://www.reddit.com/r/Python/comments/16k2n96/what_is_the_best_mobile_app_to_learn_python/)
-- [Xlookup for LibreOffice](https://www.reddit.com/r/Python/comments/16k0vqj/xlookup_for_libreoffice/)
-- [poetry on offline machines: diverting the cache-dir](https://www.reddit.com/r/Python/comments/16k0jkk/poetry_on_offline_machines_diverting_the_cachedir/)
-- [Community Vote: Include Jupyter Notebooks in &quot;Select language&quot; at VSCode](https://www.reddit.com/r/Python/comments/16jyu5a/community_vote_include_jupyter_notebooks_in/)
 <!-- BLOG-POST-LIST:END -->
