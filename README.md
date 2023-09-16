@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve built an open source tool for Heart Rate Variability training. The python application connects to a Polar H10 heart rate monitor, gives real-time feedback of breathing control, and tracks heart rate patterns.](https://www.reddit.com/r/Python/comments/16k3ft3/ive_built_an_open_source_tool_for_heart_rate/)
 - [What is the best mobile app to learn python?](https://www.reddit.com/r/Python/comments/16k2n96/what_is_the_best_mobile_app_to_learn_python/)
 - [Xlookup for LibreOffice](https://www.reddit.com/r/Python/comments/16k0vqj/xlookup_for_libreoffice/)
 - [poetry on offline machines: diverting the cache-dir](https://www.reddit.com/r/Python/comments/16k0jkk/poetry_on_offline_machines_diverting_the_cachedir/)
 - [Community Vote: Include Jupyter Notebooks in &quot;Select language&quot; at VSCode](https://www.reddit.com/r/Python/comments/16jyu5a/community_vote_include_jupyter_notebooks_in/)
-- [Ganimede, Jupyter Whiteboard](https://www.reddit.com/r/Python/comments/16jyjyi/ganimede_jupyter_whiteboard/)
 <!-- BLOG-POST-LIST:END -->
