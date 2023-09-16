@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Xlookup for LibreOffice](https://www.reddit.com/r/Python/comments/16k0vqj/xlookup_for_libreoffice/)
+- [poetry on offline machines: diverting the cache-dir](https://www.reddit.com/r/Python/comments/16k0jkk/poetry_on_offline_machines_diverting_the_cachedir/)
 - [Community Vote: Include Jupyter Notebooks in &quot;Select language&quot; at VSCode](https://www.reddit.com/r/Python/comments/16jyu5a/community_vote_include_jupyter_notebooks_in/)
 - [Ganimede, Jupyter Whiteboard](https://www.reddit.com/r/Python/comments/16jyjyi/ganimede_jupyter_whiteboard/)
 - [Repositories with Excellent python code](https://www.reddit.com/r/Python/comments/16juq0t/repositories_with_excellent_python_code/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/16jt0r9/saturday_daily_thread_resource_request_and/)
-- [[Feedback] I just wrote this article, &quot;Why Python is Essential in 2023&quot;](https://www.reddit.com/r/Python/comments/16jmo3a/feedback_i_just_wrote_this_article_why_python_is/)
 <!-- BLOG-POST-LIST:END -->
