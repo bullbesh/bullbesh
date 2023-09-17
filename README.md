@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there any Python package for Logistic regression with panel data?](https://www.reddit.com/r/Python/comments/16kx69c/is_there_any_python_package_for_logistic/)
 - [natsort-rs: Faster natural sorting for Python - Need testers and support](https://www.reddit.com/r/Python/comments/16kwcgo/natsortrs_faster_natural_sorting_for_python_need/)
 - [Recreating Canva bulk create - Programmatically overlaying text/GIFs/SVGs on top of a video/GIF](https://www.reddit.com/r/Python/comments/16kvesq/recreating_canva_bulk_create_programmatically/)
 - [How to run Python Selenium 24/7](https://www.reddit.com/r/Python/comments/16kukat/how_to_run_python_selenium_247/)
 - [Full stack machine learning web application course](https://www.reddit.com/r/Python/comments/16ktflg/full_stack_machine_learning_web_application_course/)
-- [PyWeek 36 - A Python Game Jam](https://www.reddit.com/r/Python/comments/16ks279/pyweek_36_a_python_game_jam/)
 <!-- BLOG-POST-LIST:END -->
