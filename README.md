@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How new python is depress the freedom?](https://www.reddit.com/r/Python/comments/16l3rvs/how_new_python_is_depress_the_freedom/)
-- [Getting started with Vector DBs in Python](https://www.reddit.com/r/Python/comments/16l3ons/getting_started_with_vector_dbs_in_python/)
-- [Vectors?](https://www.reddit.com/r/Python/comments/16kynet/vectors/)
-- [I wrote a remote script execution webapp which can be set up as a self-service portal for users](https://www.reddit.com/r/Python/comments/16ky0cu/i_wrote_a_remote_script_execution_webapp_which/)
-- [Is there any Python package for Logistic regression with panel data?](https://www.reddit.com/r/Python/comments/16kx69c/is_there_any_python_package_for_logistic/)
+- [Visual Pandas Selector: Visualize and interactively select time-series data](https://www.reddit.com/r/Python/comments/16l5y04/visual_pandas_selector_visualize_and/)
+- [Struggling with loops](https://www.reddit.com/r/Python/comments/16l5qqv/struggling_with_loops/)
+- [3 Python Libraries You Should Know](https://www.reddit.com/r/Python/comments/16l5nmd/3_python_libraries_you_should_know/)
+- [Learn python programming](https://www.reddit.com/r/Python/comments/16l4xoy/learn_python_programming/)
+- [Function to find squares and square roots in Python](https://www.reddit.com/r/Python/comments/16l4vg6/function_to_find_squares_and_square_roots_in/)
 <!-- BLOG-POST-LIST:END -->
