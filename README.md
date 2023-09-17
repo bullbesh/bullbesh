@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I thought of something](https://www.reddit.com/r/Python/comments/16kr0df/i_thought_of_something/)
 - [Python manage.py runserver.Unable to create process using python](https://www.reddit.com/r/Python/comments/16kprmq/python_managepy_runserverunable_to_create_process/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/16km68m/sunday_daily_thread_whats_everyone_working_on/)
 - [What are examples of intermediate level projects?](https://www.reddit.com/r/Python/comments/16kjlkk/what_are_examples_of_intermediate_level_projects/)
 - [Loop killed my ssd](https://www.reddit.com/r/Python/comments/16kja4l/loop_killed_my_ssd/)
-- [I shared a crash course about Financial Analysis with Python on YouTube](https://www.reddit.com/r/Python/comments/16kj18e/i_shared_a_crash_course_about_financial_analysis/)
 <!-- BLOG-POST-LIST:END -->
