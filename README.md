@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A simple example of how to build a text sentiment analysis using FastAPI and Huggingface Models](https://www.reddit.com/r/Python/comments/16l6g5q/a_simple_example_of_how_to_build_a_text_sentiment/)
 - [Visual Pandas Selector: Visualize and interactively select time-series data](https://www.reddit.com/r/Python/comments/16l5y04/visual_pandas_selector_visualize_and/)
 - [Struggling with loops](https://www.reddit.com/r/Python/comments/16l5qqv/struggling_with_loops/)
 - [3 Python Libraries You Should Know](https://www.reddit.com/r/Python/comments/16l5nmd/3_python_libraries_you_should_know/)
 - [Learn python programming](https://www.reddit.com/r/Python/comments/16l4xoy/learn_python_programming/)
-- [Function to find squares and square roots in Python](https://www.reddit.com/r/Python/comments/16l4vg6/function_to_find_squares_and_square_roots_in/)
 <!-- BLOG-POST-LIST:END -->
