@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recreating Canva bulk create - Programmatically overlaying text/GIFs/SVGs on top of a video/GIF](https://www.reddit.com/r/Python/comments/16kvesq/recreating_canva_bulk_create_programmatically/)
 - [How to run Python Selenium 24/7](https://www.reddit.com/r/Python/comments/16kukat/how_to_run_python_selenium_247/)
 - [Full stack machine learning web application course](https://www.reddit.com/r/Python/comments/16ktflg/full_stack_machine_learning_web_application_course/)
 - [PyWeek 36 - A Python Game Jam](https://www.reddit.com/r/Python/comments/16ks279/pyweek_36_a_python_game_jam/)
 - [Build a Multiple Regression Model with Sklearn in Python!](https://www.reddit.com/r/Python/comments/16krx2k/build_a_multiple_regression_model_with_sklearn_in/)
-- [Python manage.py runserver.Unable to create process using python](https://www.reddit.com/r/Python/comments/16kprmq/python_managepy_runserverunable_to_create_process/)
 <!-- BLOG-POST-LIST:END -->
