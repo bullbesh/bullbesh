@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/16km68m/sunday_daily_thread_whats_everyone_working_on/)
 - [A book to learn python](https://www.reddit.com/r/Python/comments/16kjp6p/a_book_to_learn_python/)
 - [What are examples of intermediate level projects?](https://www.reddit.com/r/Python/comments/16kjlkk/what_are_examples_of_intermediate_level_projects/)
 - [Loop killed my ssd](https://www.reddit.com/r/Python/comments/16kja4l/loop_killed_my_ssd/)
 - [I shared a crash course about Financial Analysis with Python on YouTube](https://www.reddit.com/r/Python/comments/16kj18e/i_shared_a_crash_course_about_financial_analysis/)
-- [Object mapping libraries](https://www.reddit.com/r/Python/comments/16keq2w/object_mapping_libraries/)
 <!-- BLOG-POST-LIST:END -->
