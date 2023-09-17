@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [PyWeek 36 - A Python Game Jam](https://www.reddit.com/r/Python/comments/16ks279/pyweek_36_a_python_game_jam/)
 - [Build a Multiple Regression Model with Sklearn in Python!](https://www.reddit.com/r/Python/comments/16krx2k/build_a_multiple_regression_model_with_sklearn_in/)
-- [I thought of something](https://www.reddit.com/r/Python/comments/16kr0df/i_thought_of_something/)
 - [Python manage.py runserver.Unable to create process using python](https://www.reddit.com/r/Python/comments/16kprmq/python_managepy_runserverunable_to_create_process/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/16km68m/sunday_daily_thread_whats_everyone_working_on/)
+- [What are examples of intermediate level projects?](https://www.reddit.com/r/Python/comments/16kjlkk/what_are_examples_of_intermediate_level_projects/)
 <!-- BLOG-POST-LIST:END -->
