@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/16lg9gf/monday_daily_thread_project_ideas/)
 - [Twitter sentiment analysis project for beginners &lpar;sklearn and Pytorch&rpar;](https://www.reddit.com/r/Python/comments/16letlb/twitter_sentiment_analysis_project_for_beginners/)
 - [Open Source ML Model Management Tool](https://www.reddit.com/r/Python/comments/16ldou2/open_source_ml_model_management_tool/)
 - [Advice to beginners](https://www.reddit.com/r/Python/comments/16lcsoj/advice_to_beginners/)
 - [Demystifying UUIDS in Python: Generating Unique Identifiers](https://www.reddit.com/r/Python/comments/16la8s4/demystifying_uuids_in_python_generating_unique/)
-- [A simple example of how to build a text sentiment analysis using FastAPI and Huggingface Models](https://www.reddit.com/r/Python/comments/16l6g5q/a_simple_example_of_how_to_build_a_text_sentiment/)
 <!-- BLOG-POST-LIST:END -->
