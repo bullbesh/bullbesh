@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Seeking Advice to make a Resume Parser](https://www.reddit.com/r/Python/comments/16m2etk/seeking_advice_to_make_a_resume_parser/)
+- [FastAPI Dockerization: Your First Image](https://www.reddit.com/r/Python/comments/16m299b/fastapi_dockerization_your_first_image/)
+- [Running Python in the browser to create a playground](https://www.reddit.com/r/Python/comments/16m1xaw/running_python_in_the_browser_to_create_a/)
 - [[AMA] I am Al Sweigart, author of &quot;Automate the Boring Stuff with Python&quot; and other books. Ask me anything!](https://www.reddit.com/r/Python/comments/16m0yqk/ama_i_am_al_sweigart_author_of_automate_the/)
 - [Feedback required on my YouTube video about Python Lists, List Methods, Comprehension and Nested list](https://www.reddit.com/r/Python/comments/16lzsqs/feedback_required_on_my_youtube_video_about/)
-- [Rendering math notation with ASCIIMath](https://www.reddit.com/r/Python/comments/16lz8id/rendering_math_notation_with_asciimath/)
-- [Want to Know About, How to Integrate TensorBoard with AI/ML Models in Jupyter Notebook, Check out this Blog Post.](https://www.reddit.com/r/Python/comments/16lvdd5/want_to_know_about_how_to_integrate_tensorboard/)
-- [Showcase and help: Kinda like interactive fiction but just &quot;fiction&quot;](https://www.reddit.com/r/Python/comments/16lr5tl/showcase_and_help_kinda_like_interactive_fiction/)
 <!-- BLOG-POST-LIST:END -->
