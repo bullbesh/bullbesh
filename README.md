@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Showcase and help: Kinda like interactive fiction but just &quot;fiction&quot;](https://www.reddit.com/r/Python/comments/16lr5tl/showcase_and_help_kinda_like_interactive_fiction/)
 - [How big is the python dev community for non-AI enterprise SaaS?](https://www.reddit.com/r/Python/comments/16lqg0s/how_big_is_the_python_dev_community_for_nonai/)
 - [Gpt4all alternative?](https://www.reddit.com/r/Python/comments/16lqfcy/gpt4all_alternative/)
 - [&lpar;Beginner&rpar; How can I install Tensorflow 2.10 in pip 3.11?](https://www.reddit.com/r/Python/comments/16lqcip/beginner_how_can_i_install_tensorflow_210_in_pip/)
 - [PyCharm - How to enable Black Formatting globally](https://www.reddit.com/r/Python/comments/16lpwhj/pycharm_how_to_enable_black_formatting_globally/)
-- [Need help with python discord bot](https://www.reddit.com/r/Python/comments/16lpnfy/need_help_with_python_discord_bot/)
 <!-- BLOG-POST-LIST:END -->
