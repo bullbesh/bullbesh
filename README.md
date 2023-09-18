@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Django REST API Course in Hindi | REST API using Django in One Shot [Django REST Framework]](https://www.reddit.com/r/Python/comments/16lpmdj/ultimate_django_rest_api_course_in_hindi_rest_api/)
-- [Do you rely on a self-service deployment platform for rolling out your applications within your organization? Let&#39;s share our experiences!](https://www.reddit.com/r/Python/comments/16lpc5u/do_you_rely_on_a_selfservice_deployment_platform/)
-- [Need help and explanation on CSS selector/Xpath for finding urls of products in this site](https://www.reddit.com/r/Python/comments/16lp4iv/need_help_and_explanation_on_css_selectorxpath/)
-- [started to learn Python 3](https://www.reddit.com/r/Python/comments/16lp377/started_to_learn_python_3/)
-- [How difficult is it to become a Python Developer?](https://www.reddit.com/r/Python/comments/16lo1wo/how_difficult_is_it_to_become_a_python_developer/)
+- [How big is the python dev community for non-AI enterprise SaaS?](https://www.reddit.com/r/Python/comments/16lqg0s/how_big_is_the_python_dev_community_for_nonai/)
+- [Gpt4all alternative?](https://www.reddit.com/r/Python/comments/16lqfcy/gpt4all_alternative/)
+- [&lpar;Beginner&rpar; How can I install Tensorflow 2.10 in pip 3.11?](https://www.reddit.com/r/Python/comments/16lqcip/beginner_how_can_i_install_tensorflow_210_in_pip/)
+- [PyCharm - How to enable Black Formatting globally](https://www.reddit.com/r/Python/comments/16lpwhj/pycharm_how_to_enable_black_formatting_globally/)
+- [Need help with python discord bot](https://www.reddit.com/r/Python/comments/16lpnfy/need_help_with_python_discord_bot/)
 <!-- BLOG-POST-LIST:END -->
