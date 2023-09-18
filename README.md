@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Zero Config Deployments](https://www.reddit.com/r/Python/comments/16m340z/python_zero_config_deployments/)
 - [Seeking Advice to make a Resume Parser](https://www.reddit.com/r/Python/comments/16m2etk/seeking_advice_to_make_a_resume_parser/)
-- [FastAPI Dockerization: Your First Image](https://www.reddit.com/r/Python/comments/16m299b/fastapi_dockerization_your_first_image/)
 - [Running Python in the browser to create a playground](https://www.reddit.com/r/Python/comments/16m1xaw/running_python_in_the_browser_to_create_a/)
 - [[AMA] I am Al Sweigart, author of &quot;Automate the Boring Stuff with Python&quot; and other books. Ask me anything!](https://www.reddit.com/r/Python/comments/16m0yqk/ama_i_am_al_sweigart_author_of_automate_the/)
 - [Feedback required on my YouTube video about Python Lists, List Methods, Comprehension and Nested list](https://www.reddit.com/r/Python/comments/16lzsqs/feedback_required_on_my_youtube_video_about/)
