@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [HomeHarvest: Real estate scraping library for Zillow, Realtor.com &amp; Redfin](https://www.reddit.com/r/Python/comments/16my4k6/homeharvest_real_estate_scraping_library_for/)
+- [Make Tkinter Look 10x Better in 5 Minutes &lpar;CustomTkinter&rpar;](https://www.reddit.com/r/Python/comments/16my3ev/make_tkinter_look_10x_better_in_5_minutes/)
 - [Why is it common in python to make an empty list or dict first?](https://www.reddit.com/r/Python/comments/16mvw86/why_is_it_common_in_python_to_make_an_empty_list/)
-- [Camelot python library](https://www.reddit.com/r/Python/comments/16mvau5/camelot_python_library/)
 - [Flet and full web apps](https://www.reddit.com/r/Python/comments/16mub48/flet_and_full_web_apps/)
 - [Why does Python Code Run Faster in a Function?](https://www.reddit.com/r/Python/comments/16mskc9/why_does_python_code_run_faster_in_a_function/)
-- [Cleanse Your Dataset by Identifying and then Removing Duplicate Rows](https://www.reddit.com/r/Python/comments/16mq913/cleanse_your_dataset_by_identifying_and_then/)
 <!-- BLOG-POST-LIST:END -->
