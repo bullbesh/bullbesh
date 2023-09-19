@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am trying to break into BA industry and most roles requires python,SQL. What projects can I do to showcase my knowledge?](https://www.reddit.com/r/Python/comments/16n2kp2/i_am_trying_to_break_into_ba_industry_and_most/)
+- [Build an AI Personal Marathon Trainer with SendGrid and LangChain Agents](https://www.reddit.com/r/Python/comments/16n2h4i/build_an_ai_personal_marathon_trainer_with/)
+- [How fast should I be catching on to beginner concepts? Is it a bad sign of it&#39;s taking a while?](https://www.reddit.com/r/Python/comments/16n2byx/how_fast_should_i_be_catching_on_to_beginner/)
+- [Is is possible to run Python w/ Turtle in github codespaces?](https://www.reddit.com/r/Python/comments/16n1ek6/is_is_possible_to_run_python_w_turtle_in_github/)
 - [I recorded a tutorial-type video on a Python Data Analysis project using Pandas, Numpy, Matplotlib, and Seaborn, and uploaded it to YouTube](https://www.reddit.com/r/Python/comments/16mznzg/i_recorded_a_tutorialtype_video_on_a_python_data/)
-- [HomeHarvest: Real estate scraping library for Zillow, Realtor.com &amp; Redfin](https://www.reddit.com/r/Python/comments/16my4k6/homeharvest_real_estate_scraping_library_for/)
-- [Make Tkinter Look 10x Better in 5 Minutes &lpar;CustomTkinter&rpar;](https://www.reddit.com/r/Python/comments/16my3ev/make_tkinter_look_10x_better_in_5_minutes/)
-- [Why is it common in python to make an empty list or dict first?](https://www.reddit.com/r/Python/comments/16mvw86/why_is_it_common_in_python_to_make_an_empty_list/)
-- [Flet and full web apps](https://www.reddit.com/r/Python/comments/16mub48/flet_and_full_web_apps/)
 <!-- BLOG-POST-LIST:END -->
