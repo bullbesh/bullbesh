@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Best Python HTML Parsing Libraries &lpar;Updated&rpar;](https://www.reddit.com/r/Python/comments/16mp7gm/4_best_python_html_parsing_libraries_updated/)
+- [What is a merge queue? Did someone try it before?](https://www.reddit.com/r/Python/comments/16mouz0/what_is_a_merge_queue_did_someone_try_it_before/)
+- [Demystifying JWT Authentication with Python](https://www.reddit.com/r/Python/comments/16momc5/demystifying_jwt_authentication_with_python/)
+- [Python variables, references and mutability](https://www.reddit.com/r/Python/comments/16mo7p2/python_variables_references_and_mutability/)
 - [A New way to convert images to WEBP](https://www.reddit.com/r/Python/comments/16mnta6/a_new_way_to_convert_images_to_webp/)
-- [Thread safe caching in Python](https://www.reddit.com/r/Python/comments/16mn7kr/thread_safe_caching_in_python/)
-- [Combating Telegram Spam With a Serverless Bot](https://www.reddit.com/r/Python/comments/16ml24r/combating_telegram_spam_with_a_serverless_bot/)
-- [GLaDOS AI Assistant](https://www.reddit.com/r/Python/comments/16mktuq/glados_ai_assistant/)
-- [protobuf-to-pydantic version 0.2.0 has been released!&lpar;support Pydantic v2&rpar;](https://www.reddit.com/r/Python/comments/16mgbqa/protobuftopydantic_version_020_has_been/)
 <!-- BLOG-POST-LIST:END -->
