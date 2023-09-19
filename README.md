@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SimpleCrypt - A simple encryption tool in Python](https://www.reddit.com/r/Python/comments/16md07b/simplecrypt_a_simple_encryption_tool_in_python/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/16mbnn7/tuesday_daily_thread_advanced_questions/)
 - [&quot;scope_capture&quot; - a library that &quot;fixes&quot; the old Python variable capture problem for closures](https://www.reddit.com/r/Python/comments/16m4vi1/scope_capture_a_library_that_fixes_the_old_python/)
 - [Python Zero Config Deployments](https://www.reddit.com/r/Python/comments/16m340z/python_zero_config_deployments/)
 - [Running Python in the browser to create a playground](https://www.reddit.com/r/Python/comments/16m1xaw/running_python_in_the_browser_to_create_a/)
-- [[AMA] I am Al Sweigart, author of &quot;Automate the Boring Stuff with Python&quot; and other books. Ask me anything!](https://www.reddit.com/r/Python/comments/16m0yqk/ama_i_am_al_sweigart_author_of_automate_the/)
-- [Feedback required on my YouTube video about Python Lists, List Methods, Comprehension and Nested list](https://www.reddit.com/r/Python/comments/16lzsqs/feedback_required_on_my_youtube_video_about/)
 <!-- BLOG-POST-LIST:END -->
