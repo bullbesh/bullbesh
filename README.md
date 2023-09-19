@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A New way to convert images to WEBP](https://www.reddit.com/r/Python/comments/16mnta6/a_new_way_to_convert_images_to_webp/)
+- [Thread safe caching in Python](https://www.reddit.com/r/Python/comments/16mn7kr/thread_safe_caching_in_python/)
 - [Combating Telegram Spam With a Serverless Bot](https://www.reddit.com/r/Python/comments/16ml24r/combating_telegram_spam_with_a_serverless_bot/)
 - [GLaDOS AI Assistant](https://www.reddit.com/r/Python/comments/16mktuq/glados_ai_assistant/)
 - [protobuf-to-pydantic version 0.2.0 has been released!&lpar;support Pydantic v2&rpar;](https://www.reddit.com/r/Python/comments/16mgbqa/protobuftopydantic_version_020_has_been/)
-- [Numpy cannot install in pypy](https://www.reddit.com/r/Python/comments/16mftbi/numpy_cannot_install_in_pypy/)
-- [SimpleCrypt - A simple encryption tool in Python](https://www.reddit.com/r/Python/comments/16md07b/simplecrypt_a_simple_encryption_tool_in_python/)
 <!-- BLOG-POST-LIST:END -->
