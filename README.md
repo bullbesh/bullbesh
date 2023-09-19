@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Camelot python library](https://www.reddit.com/r/Python/comments/16mvau5/camelot_python_library/)
+- [Flet and full web apps](https://www.reddit.com/r/Python/comments/16mub48/flet_and_full_web_apps/)
 - [🐼 Pandas Introduction Tutorial: Master Data Manipulation with Python! 💻](https://www.reddit.com/r/Python/comments/16mtlf4/pandas_introduction_tutorial_master_data/)
 - [Why does Python Code Run Faster in a Function?](https://www.reddit.com/r/Python/comments/16mskc9/why_does_python_code_run_faster_in_a_function/)
 - [Cleanse Your Dataset by Identifying and then Removing Duplicate Rows](https://www.reddit.com/r/Python/comments/16mq913/cleanse_your_dataset_by_identifying_and_then/)
-- [Last Python 3.12 release candidate now available &lpar;final release next!&rpar;](https://www.reddit.com/r/Python/comments/16mq4b7/last_python_312_release_candidate_now_available/)
-- [4 Best Python HTML Parsing Libraries &lpar;Updated&rpar;](https://www.reddit.com/r/Python/comments/16mp7gm/4_best_python_html_parsing_libraries_updated/)
 <!-- BLOG-POST-LIST:END -->
