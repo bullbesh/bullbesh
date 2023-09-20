@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easy object detection with ONNX, Pipeless and Yolo. Explanation + code example](https://www.reddit.com/r/Python/comments/16nwfeu/easy_object_detection_with_onnx_pipeless_and_yolo/)
+- [What&#39;s the difference if I used the actual t value instead of an iterator for threads?](https://www.reddit.com/r/Python/comments/16nw24v/whats_the_difference_if_i_used_the_actual_t_value/)
+- [What is the playlist on YouTube to learn python from scratch to advanced](https://www.reddit.com/r/Python/comments/16nw1ec/what_is_the_playlist_on_youtube_to_learn_python/)
 - [Speeding up Floyd-Steinberg dithering: an optimization exercise](https://www.reddit.com/r/Python/comments/16nuag9/speeding_up_floydsteinberg_dithering_an/)
 - [Python w/streamlit](https://www.reddit.com/r/Python/comments/16nrsoa/python_wstreamlit/)
-- [Reading and Writing into a json file at the same time](https://www.reddit.com/r/Python/comments/16nrbkr/reading_and_writing_into_a_json_file_at_the_same/)
-- [Python code to get list of specific websites from DNS server](https://www.reddit.com/r/Python/comments/16noxg2/python_code_to_get_list_of_specific_websites_from/)
-- [What is the pythonic way of defining multiple constructors ?](https://www.reddit.com/r/Python/comments/16no34q/what_is_the_pythonic_way_of_defining_multiple/)
 <!-- BLOG-POST-LIST:END -->
