@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Speeding up Floyd-Steinberg dithering: an optimization exercise](https://www.reddit.com/r/Python/comments/16nuag9/speeding_up_floydsteinberg_dithering_an/)
 - [Python w/streamlit](https://www.reddit.com/r/Python/comments/16nrsoa/python_wstreamlit/)
 - [Reading and Writing into a json file at the same time](https://www.reddit.com/r/Python/comments/16nrbkr/reading_and_writing_into_a_json_file_at_the_same/)
 - [Python code to get list of specific websites from DNS server](https://www.reddit.com/r/Python/comments/16noxg2/python_code_to_get_list_of_specific_websites_from/)
 - [What is the pythonic way of defining multiple constructors ?](https://www.reddit.com/r/Python/comments/16no34q/what_is_the_pythonic_way_of_defining_multiple/)
-- [Want to Know About, How to share Jupyter Notebook, Check out this Blog Post.](https://www.reddit.com/r/Python/comments/16nl261/want_to_know_about_how_to_share_jupyter_notebook/)
 <!-- BLOG-POST-LIST:END -->
