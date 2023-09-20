@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to solve this](https://www.reddit.com/r/Python/comments/16nfilz/how_to_solve_this/)
 - [100% Off Udemy Course - Learn to Code in Python 3: Programming beginner to advanced](https://www.reddit.com/r/Python/comments/16ndy42/100_off_udemy_course_learn_to_code_in_python_3/)
 - [What is Python primarily known for?](https://www.reddit.com/r/Python/comments/16ndhb6/what_is_python_primarily_known_for/)
 - [OOP Newb; Should class attribute names be unique in this case?](https://www.reddit.com/r/Python/comments/16n6qud/oop_newb_should_class_attribute_names_be_unique/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/16n6ghu/wednesday_daily_thread_beginner_questions/)
-- [Python DSA Class #19:--Delete a Node At the beginning of Doubly linked list || Logic + Code](https://www.reddit.com/r/Python/comments/16n69kq/python_dsa_class_19delete_a_node_at_the_beginning/)
 <!-- BLOG-POST-LIST:END -->
