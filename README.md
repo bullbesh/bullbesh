@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [S.T.A.R.K - The First Voice Assistant&#39;s Framework](https://www.reddit.com/r/Python/comments/16ngdl2/stark_the_first_voice_assistants_framework/)
+- [Web Apps for work projects: Did you choose Flask or Django? And why? Any learnings?](https://www.reddit.com/r/Python/comments/16nfteh/web_apps_for_work_projects_did_you_choose_flask/)
 - [How to solve this](https://www.reddit.com/r/Python/comments/16nfilz/how_to_solve_this/)
-- [100% Off Udemy Course - Learn to Code in Python 3: Programming beginner to advanced](https://www.reddit.com/r/Python/comments/16ndy42/100_off_udemy_course_learn_to_code_in_python_3/)
-- [What is Python primarily known for?](https://www.reddit.com/r/Python/comments/16ndhb6/what_is_python_primarily_known_for/)
 - [OOP Newb; Should class attribute names be unique in this case?](https://www.reddit.com/r/Python/comments/16n6qud/oop_newb_should_class_attribute_names_be_unique/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/16n6ghu/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
