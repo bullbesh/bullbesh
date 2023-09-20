@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Want to Know About, How to share Jupyter Notebook, Check out this Blog Post.](https://www.reddit.com/r/Python/comments/16nl261/want_to_know_about_how_to_share_jupyter_notebook/)
+- [Resiliency](https://www.reddit.com/r/Python/comments/16nk7za/resiliency/)
 - [When we use Celery + RabbitMQ with Django, we use it both as a Producer and Consumer it seems. Isn&#39;t that level of abstraction a bit dangerous?](https://www.reddit.com/r/Python/comments/16nj6ap/when_we_use_celery_rabbitmq_with_django_we_use_it/)
 - [100% Off Udemy Course - Matplotlib Intro with Python](https://www.reddit.com/r/Python/comments/16nj3lk/100_off_udemy_course_matplotlib_intro_with_python/)
 - [Creating a program that solves and shows work on math problems for fun &lpar;would like a suggestion please&rpar;](https://www.reddit.com/r/Python/comments/16nj1av/creating_a_program_that_solves_and_shows_work_on/)
-- [Asynchronous driver written in Rust for ScyllaDB, Cassandra and AWS Keyspaces.](https://www.reddit.com/r/Python/comments/16nh6i6/asynchronous_driver_written_in_rust_for_scylladb/)
-- [S.T.A.R.K - The First Voice Assistant&#39;s Framework](https://www.reddit.com/r/Python/comments/16ngdl2/stark_the_first_voice_assistants_framework/)
 <!-- BLOG-POST-LIST:END -->
