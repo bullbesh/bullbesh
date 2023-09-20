@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to learn Tensorflow.keras?](https://www.reddit.com/r/Python/comments/16n7gah/how_to_learn_tensorflowkeras/)
+- [OOP Newb; Should class attribute names be unique in this case?](https://www.reddit.com/r/Python/comments/16n6qud/oop_newb_should_class_attribute_names_be_unique/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/16n6ghu/wednesday_daily_thread_beginner_questions/)
+- [Python DSA Class #19:--Delete a Node At the beginning of Doubly linked list || Logic + Code](https://www.reddit.com/r/Python/comments/16n69kq/python_dsa_class_19delete_a_node_at_the_beginning/)
 - [Infrastructure as Python - Deploying Hugging Face models on Amazon SageMaker](https://www.reddit.com/r/Python/comments/16n4fku/infrastructure_as_python_deploying_hugging_face/)
-- [Why isn&#39;t venv easier?](https://www.reddit.com/r/Python/comments/16n328m/why_isnt_venv_easier/)
-- [Where can i see how python implemented data structures? Like the actual source code, i tried do look on cpython but didn&#39;t rlly find anything](https://www.reddit.com/r/Python/comments/16n2twm/where_can_i_see_how_python_implemented_data/)
-- [Build an AI Personal Marathon Trainer with SendGrid and LangChain Agents](https://www.reddit.com/r/Python/comments/16n2h4i/build_an_ai_personal_marathon_trainer_with/)
-- [How fast should I be catching on to beginner concepts? Is it a bad sign of it&#39;s taking a while?](https://www.reddit.com/r/Python/comments/16n2byx/how_fast_should_i_be_catching_on_to_beginner/)
 <!-- BLOG-POST-LIST:END -->
