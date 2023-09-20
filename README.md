@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous driver written in Rust for ScyllaDB, Cassandra and AWS Keyspaces.](https://www.reddit.com/r/Python/comments/16nh6i6/asynchronous_driver_written_in_rust_for_scylladb/)
+- [Excel files with Python](https://www.reddit.com/r/Python/comments/16ngokm/excel_files_with_python/)
 - [S.T.A.R.K - The First Voice Assistant&#39;s Framework](https://www.reddit.com/r/Python/comments/16ngdl2/stark_the_first_voice_assistants_framework/)
 - [Web Apps for work projects: Did you choose Flask or Django? And why? Any learnings?](https://www.reddit.com/r/Python/comments/16nfteh/web_apps_for_work_projects_did_you_choose_flask/)
 - [How to solve this](https://www.reddit.com/r/Python/comments/16nfilz/how_to_solve_this/)
-- [OOP Newb; Should class attribute names be unique in this case?](https://www.reddit.com/r/Python/comments/16n6qud/oop_newb_should_class_attribute_names_be_unique/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/16n6ghu/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
