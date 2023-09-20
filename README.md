@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Python Courses for Data Analysis for beginners to Advanced](https://www.reddit.com/r/Python/comments/16naqwt/best_python_courses_for_data_analysis_for/)
-- [I&#39;m a newbie...I think I&#39;m right but why does ai mess seemingly simple things up like this? Using Codeium chat in PyCharm](https://www.reddit.com/r/Python/comments/16naeqb/im_a_newbiei_think_im_right_but_why_does_ai_mess/)
-- [How to learn Tensorflow.keras?](https://www.reddit.com/r/Python/comments/16n7gah/how_to_learn_tensorflowkeras/)
 - [OOP Newb; Should class attribute names be unique in this case?](https://www.reddit.com/r/Python/comments/16n6qud/oop_newb_should_class_attribute_names_be_unique/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/16n6ghu/wednesday_daily_thread_beginner_questions/)
+- [Python DSA Class #19:--Delete a Node At the beginning of Doubly linked list || Logic + Code](https://www.reddit.com/r/Python/comments/16n69kq/python_dsa_class_19delete_a_node_at_the_beginning/)
+- [Infrastructure as Python - Deploying Hugging Face models on Amazon SageMaker](https://www.reddit.com/r/Python/comments/16n4fku/infrastructure_as_python_deploying_hugging_face/)
+- [Where can i see how python implemented data structures? Like the actual source code, i tried do look on cpython but didn&#39;t rlly find anything](https://www.reddit.com/r/Python/comments/16n2twm/where_can_i_see_how_python_implemented_data/)
 <!-- BLOG-POST-LIST:END -->
