@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Best practice source code that show how/when/why use the del keyword or pop on lists to iterate and manage memory.](https://www.reddit.com/r/Python/comments/16ny6mn/best_practice_source_code_that_show_howwhenwhy/)
+- [Got the Murachs python programming book for learing](https://www.reddit.com/r/Python/comments/16o1utj/got_the_murachs_python_programming_book_for/)
+- [Discounted Cash Flow Model in Python with Monte Carlo Simulation and Tutorial](https://www.reddit.com/r/Python/comments/16o183i/discounted_cash_flow_model_in_python_with_monte/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/16o0qwu/thursday_daily_thread_python_careers_courses_and/)
 - [Easy object detection with ONNX, Pipeless and Yolo. Explanation + code example](https://www.reddit.com/r/Python/comments/16nwfeu/easy_object_detection_with_onnx_pipeless_and_yolo/)
-- [What&#39;s the difference if I used the actual t value instead of an iterator for threads?](https://www.reddit.com/r/Python/comments/16nw24v/whats_the_difference_if_i_used_the_actual_t_value/)
-- [What is the playlist on YouTube to learn python from scratch to advanced](https://www.reddit.com/r/Python/comments/16nw1ec/what_is_the_playlist_on_youtube_to_learn_python/)
 - [Speeding up Floyd-Steinberg dithering: an optimization exercise](https://www.reddit.com/r/Python/comments/16nuag9/speeding_up_floydsteinberg_dithering_an/)
 <!-- BLOG-POST-LIST:END -->
