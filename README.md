@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [170 Flask and Django Objective Type Questions and Answers &lpar;with Explanation&rpar; in form of 2 Exams](https://www.reddit.com/r/Python/comments/16o6ovb/170_flask_and_django_objective_type_questions_and/)
 - [Can someone help me modify this project](https://www.reddit.com/r/Python/comments/16o3z2z/can_someone_help_me_modify_this_project/)
 - [List A = list B](https://www.reddit.com/r/Python/comments/16o32k3/list_a_list_b/)
 - [Got the Murachs python programming book for learing](https://www.reddit.com/r/Python/comments/16o1utj/got_the_murachs_python_programming_book_for/)
 - [Discounted Cash Flow Model in Python with Monte Carlo Simulation and Tutorial](https://www.reddit.com/r/Python/comments/16o183i/discounted_cash_flow_model_in_python_with_monte/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/16o0qwu/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
