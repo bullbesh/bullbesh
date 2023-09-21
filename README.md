@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Where to go from building a tool?](https://www.reddit.com/r/Python/comments/16ogn1m/where_to_go_from_building_a_tool/)
+- [Want to Know About, Version Control with Jupyter Notebook, Check out this Blog Post.](https://www.reddit.com/r/Python/comments/16og99v/want_to_know_about_version_control_with_jupyter/)
 - [A framework to develop analytical models](https://www.reddit.com/r/Python/comments/16ofs89/a_framework_to_develop_analytical_models/)
 - [Textual 0.38.0 adds a syntax aware TextArea](https://www.reddit.com/r/Python/comments/16oe820/textual_0380_adds_a_syntax_aware_textarea/)
 - [Simple Method to Embed ML Model into Web Application](https://www.reddit.com/r/Python/comments/16ocwq3/simple_method_to_embed_ml_model_into_web/)
-- [I&#39;ve made a YouTube video about Python Generators and Iterators](https://www.reddit.com/r/Python/comments/16oc9f6/ive_made_a_youtube_video_about_python_generators/)
-- [Python Json output structure change](https://www.reddit.com/r/Python/comments/16obq7g/python_json_output_structure_change/)
 <!-- BLOG-POST-LIST:END -->
