@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Textual 0.38.0 adds a syntax aware TextArea](https://www.reddit.com/r/Python/comments/16oe820/textual_0380_adds_a_syntax_aware_textarea/)
 - [Simple Method to Embed ML Model into Web Application](https://www.reddit.com/r/Python/comments/16ocwq3/simple_method_to_embed_ml_model_into_web/)
 - [I&#39;ve made a YouTube video about Python Generators and Iterators](https://www.reddit.com/r/Python/comments/16oc9f6/ive_made_a_youtube_video_about_python_generators/)
 - [Python Json output structure change](https://www.reddit.com/r/Python/comments/16obq7g/python_json_output_structure_change/)
 - [Python DSA Class #20:--Delete a Node At the END of Doubly linked list || Logic + Code](https://www.reddit.com/r/Python/comments/16o9ua3/python_dsa_class_20delete_a_node_at_the_end_of/)
-- [A developer-friendly way to write code interacting with LLMs](https://www.reddit.com/r/Python/comments/16o96vd/a_developerfriendly_way_to_write_code_interacting/)
 <!-- BLOG-POST-LIST:END -->
