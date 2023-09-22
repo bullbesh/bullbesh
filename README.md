@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastStream: a powerful and easy-to-use library for building asynchronous services with event streams such as ApacheKafka and RabbitMQ](https://www.reddit.com/r/Python/comments/16pc38l/faststream_a_powerful_and_easytouse_library_for/)
 - [Easily transform GIS annotations into Microsoft&#39;s Common Objects In Context &lpar;COCO&rpar; datasets with GeoCOCO [Open Source]](https://www.reddit.com/r/Python/comments/16p8r8o/easily_transform_gis_annotations_into_microsofts/)
 - [Tkinter, Gradio, and DearPyGUI](https://www.reddit.com/r/Python/comments/16p4rgd/tkinter_gradio_and_dearpygui/)
 - [ArjanCodes appreciation post](https://www.reddit.com/r/Python/comments/16p1bif/arjancodes_appreciation_post/)
 - [Automatically Determining Data sources on a pod or machine](https://www.reddit.com/r/Python/comments/16oza71/automatically_determining_data_sources_on_a_pod/)
-- [CLI app for scraping &amp; paraphrasing](https://www.reddit.com/r/Python/comments/16ou4gl/cli_app_for_scraping_paraphrasing/)
 <!-- BLOG-POST-LIST:END -->
