@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Automatically Determining Data sources on a pod or machine](https://www.reddit.com/r/Python/comments/16oza71/automatically_determining_data_sources_on_a_pod/)
-- [Can someone please help me get started in PyCharm I have an assignment I need to kick off with a .sh script and I can&#39;t get it to work](https://www.reddit.com/r/Python/comments/16ouqco/can_someone_please_help_me_get_started_in_pycharm/)
 - [Is this code inefficient](https://www.reddit.com/r/Python/comments/16oul62/is_this_code_inefficient/)
 - [CLI app for scraping &amp; paraphrasing](https://www.reddit.com/r/Python/comments/16ou4gl/cli_app_for_scraping_paraphrasing/)
 - [Technical task template](https://www.reddit.com/r/Python/comments/16oobmf/technical_task_template/)
+- [Debugging Catastrophic Backtracking for Regular Expressions in Python | Krishnan Chandra](https://www.reddit.com/r/Python/comments/16omp9l/debugging_catastrophic_backtracking_for_regular/)
 <!-- BLOG-POST-LIST:END -->
