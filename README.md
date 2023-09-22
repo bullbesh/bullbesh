@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Python from the mac command line &lpar;terminal&rpar;](https://www.reddit.com/r/Python/comments/16pl533/running_python_from_the_mac_command_line_terminal/)
+- [ConfigDB an open source, database like, dynamic config file generator.](https://www.reddit.com/r/Python/comments/16pk86e/configdb_an_open_source_database_like_dynamic/)
 - [A maintained library for OIDC in Python ?](https://www.reddit.com/r/Python/comments/16pin4l/a_maintained_library_for_oidc_in_python/)
 - [STC GECK: Retrieving full-texts of scholarly papers and books for AI](https://www.reddit.com/r/Python/comments/16pi7mp/stc_geck_retrieving_fulltexts_of_scholarly_papers/)
 - [GitHub - platforminfo/platforminfo: System info made easy - Python library to find system info on your computer. Requires python ≥ 3.7](https://www.reddit.com/r/Python/comments/16pgkw8/github_platforminfoplatforminfo_system_info_made/)
-- [I shared a Python &lpar;Pandas - Numpy - Matplotlib&rpar; data analysis project video on YouTube](https://www.reddit.com/r/Python/comments/16peitp/i_shared_a_python_pandas_numpy_matplotlib_data/)
-- [Python Interview Question &amp; Answers](https://www.reddit.com/r/Python/comments/16pebmw/python_interview_question_answers/)
 <!-- BLOG-POST-LIST:END -->
