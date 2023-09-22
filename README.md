@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [install latest update to python version on win](https://www.reddit.com/r/Python/comments/16p5ded/install_latest_update_to_python_version_on_win/)
 - [Tkinter, Gradio, and DearPyGUI](https://www.reddit.com/r/Python/comments/16p4rgd/tkinter_gradio_and_dearpygui/)
 - [ArjanCodes appreciation post](https://www.reddit.com/r/Python/comments/16p1bif/arjancodes_appreciation_post/)
 - [Automatically Determining Data sources on a pod or machine](https://www.reddit.com/r/Python/comments/16oza71/automatically_determining_data_sources_on_a_pod/)
 - [CLI app for scraping &amp; paraphrasing](https://www.reddit.com/r/Python/comments/16ou4gl/cli_app_for_scraping_paraphrasing/)
+- [Technical task template](https://www.reddit.com/r/Python/comments/16oobmf/technical_task_template/)
 <!-- BLOG-POST-LIST:END -->
