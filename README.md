@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Best python gui library for quick responsive real time socket based application ?](https://www.reddit.com/r/Python/comments/16p2m9l/best_python_gui_library_for_quick_responsive_real/)
 - [ArjanCodes appreciation post](https://www.reddit.com/r/Python/comments/16p1bif/arjancodes_appreciation_post/)
-- [I want to convert multiple integer values ​​in a list into binary numbers.](https://www.reddit.com/r/Python/comments/16p14ae/i_want_to_convert_multiple_integer_values_in_a/)
 - [Automatically Determining Data sources on a pod or machine](https://www.reddit.com/r/Python/comments/16oza71/automatically_determining_data_sources_on_a_pod/)
-- [Is this code inefficient](https://www.reddit.com/r/Python/comments/16oul62/is_this_code_inefficient/)
+- [CLI app for scraping &amp; paraphrasing](https://www.reddit.com/r/Python/comments/16ou4gl/cli_app_for_scraping_paraphrasing/)
+- [Technical task template](https://www.reddit.com/r/Python/comments/16oobmf/technical_task_template/)
+- [Debugging Catastrophic Backtracking for Regular Expressions in Python | Krishnan Chandra](https://www.reddit.com/r/Python/comments/16omp9l/debugging_catastrophic_backtracking_for_regular/)
 <!-- BLOG-POST-LIST:END -->
