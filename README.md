@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction To Python&#39;s Functools Module](https://www.reddit.com/r/Python/comments/16q0h23/introduction_to_pythons_functools_module/)
+- [Supply Chain Issues in PyPI](https://www.reddit.com/r/Python/comments/16q0em6/supply_chain_issues_in_pypi/)
+- [New Documentation website for Robyn!](https://www.reddit.com/r/Python/comments/16q0chw/new_documentation_website_for_robyn/)
+- [Generating stubs to autocomplete dynamic classes?](https://www.reddit.com/r/Python/comments/16pzu2x/generating_stubs_to_autocomplete_dynamic_classes/)
 - [Python Basics: A Step-by-Step Course for Beginners 2023](https://www.reddit.com/r/Python/comments/16pzh1m/python_basics_a_stepbystep_course_for_beginners/)
-- [Hidden Features of Python](https://www.reddit.com/r/Python/comments/16pxpq4/hidden_features_of_python/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/16ppkdi/saturday_daily_thread_resource_request_and/)
-- [ConfigDB an open source, database like, dynamic config file generator.](https://www.reddit.com/r/Python/comments/16pk86e/configdb_an_open_source_database_like_dynamic/)
-- [A maintained library for OIDC in Python ?](https://www.reddit.com/r/Python/comments/16pin4l/a_maintained_library_for_oidc_in_python/)
 <!-- BLOG-POST-LIST:END -->
