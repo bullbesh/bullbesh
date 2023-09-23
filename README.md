@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hybrid Programming: PYTHON &lt;-&gt; POWER-KI - Get the best of both worlds](https://www.reddit.com/r/Python/comments/16q2fxw/hybrid_programming_python_powerki_get_the_best_of/)
 - [Distributing a python server as windows application. Is it even possible?](https://www.reddit.com/r/Python/comments/16q11ke/distributing_a_python_server_as_windows/)
 - [Introduction To Python&#39;s Functools Module](https://www.reddit.com/r/Python/comments/16q0h23/introduction_to_pythons_functools_module/)
 - [Supply Chain Issues in PyPI](https://www.reddit.com/r/Python/comments/16q0em6/supply_chain_issues_in_pypi/)
 - [New Documentation website for Robyn!](https://www.reddit.com/r/Python/comments/16q0chw/new_documentation_website_for_robyn/)
-- [Generating stubs to autocomplete dynamic classes?](https://www.reddit.com/r/Python/comments/16pzu2x/generating_stubs_to_autocomplete_dynamic_classes/)
 <!-- BLOG-POST-LIST:END -->
