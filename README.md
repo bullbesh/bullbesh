@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [shshsh: a bridge between python and shell](https://www.reddit.com/r/Python/comments/16q6gcw/shshsh_a_bridge_between_python_and_shell/)
+- [FREE RESOURCE: Python Tips &amp; Tricks : A Collection of 100 Basic and Intermediate Tips and Tricks](https://www.reddit.com/r/Python/comments/16q64xe/free_resource_python_tips_tricks_a_collection_of/)
+- [Django v FastAPI](https://www.reddit.com/r/Python/comments/16q60g4/django_v_fastapi/)
 - [A Practical Examination of 4 Pre-trained Models for Accuracy](https://www.reddit.com/r/Python/comments/16q5301/a_practical_examination_of_4_pretrained_models/)
 - [Hybrid Programming: PYTHON &lt;-&gt; POWER-KI - Get the best of both worlds](https://www.reddit.com/r/Python/comments/16q2fxw/hybrid_programming_python_powerki_get_the_best_of/)
-- [Distributing a python server as windows application. Is it even possible?](https://www.reddit.com/r/Python/comments/16q11ke/distributing_a_python_server_as_windows/)
-- [Introduction To Python&#39;s Functools Module](https://www.reddit.com/r/Python/comments/16q0h23/introduction_to_pythons_functools_module/)
-- [Supply Chain Issues in PyPI](https://www.reddit.com/r/Python/comments/16q0em6/supply_chain_issues_in_pypi/)
 <!-- BLOG-POST-LIST:END -->
