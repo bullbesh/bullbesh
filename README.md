@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/16ppkdi/saturday_daily_thread_resource_request_and/)
 - [ConfigDB an open source, database like, dynamic config file generator.](https://www.reddit.com/r/Python/comments/16pk86e/configdb_an_open_source_database_like_dynamic/)
 - [A maintained library for OIDC in Python ?](https://www.reddit.com/r/Python/comments/16pin4l/a_maintained_library_for_oidc_in_python/)
 - [GitHub - platforminfo/platforminfo: System info made easy - Python library to find system info on your computer. Requires python ≥ 3.7](https://www.reddit.com/r/Python/comments/16pgkw8/github_platforminfoplatforminfo_system_info_made/)
 - [I shared a Python &lpar;Pandas - Numpy - Matplotlib&rpar; data analysis project video on YouTube](https://www.reddit.com/r/Python/comments/16peitp/i_shared_a_python_pandas_numpy_matplotlib_data/)
-- [Python Interview Question &amp; Answers](https://www.reddit.com/r/Python/comments/16pebmw/python_interview_question_answers/)
 <!-- BLOG-POST-LIST:END -->
