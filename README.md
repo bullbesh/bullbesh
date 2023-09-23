@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How hard is to write scripts for image processing instead of paying pro photo editors?](https://www.reddit.com/r/Python/comments/16qdz8j/how_hard_is_to_write_scripts_for_image_processing/)
+- [Python interview questions. Part I. Junior](https://www.reddit.com/r/Python/comments/16qd35i/python_interview_questions_part_i_junior/)
 - [Career change: Next steps into Coding and Data Analysis](https://www.reddit.com/r/Python/comments/16qauuq/career_change_next_steps_into_coding_and_data/)
 - [Found a great beginner LangChain Tutorial and generated an article about it! Check it out.](https://www.reddit.com/r/Python/comments/16qatdg/found_a_great_beginner_langchain_tutorial_and/)
 - [FastAPI Background Tasks — The Ninjas of Your API](https://www.reddit.com/r/Python/comments/16q89p6/fastapi_background_tasks_the_ninjas_of_your_api/)
-- [When you have an invisible space in your code](https://www.reddit.com/r/Python/comments/16q73es/when_you_have_an_invisible_space_in_your_code/)
-- [shshsh: a bridge between python and shell](https://www.reddit.com/r/Python/comments/16q6gcw/shshsh_a_bridge_between_python_and_shell/)
 <!-- BLOG-POST-LIST:END -->
