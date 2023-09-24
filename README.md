@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [LangLearnCopilot – Your Companion Python Package for Language Learning](https://www.reddit.com/r/Python/comments/16r4ddp/langlearncopilot_your_companion_python_package/)
+- [Set desktop wallpaper by intervals - Wallpapertime](https://www.reddit.com/r/Python/comments/16r3tsh/set_desktop_wallpaper_by_intervals_wallpapertime/)
+- [Sort Pictuers/Video by date using metadata - PicSort](https://www.reddit.com/r/Python/comments/16r3l0u/sort_pictuersvideo_by_date_using_metadata_picsort/)
 - [Using Python to Delete Videos and Photos &lpar;or any files&rpar; from Google Drive](https://www.reddit.com/r/Python/comments/16r0bfe/using_python_to_delete_videos_and_photos_or_any/)
 - [Does anyone else have any funny Pyjokes modifications?](https://www.reddit.com/r/Python/comments/16r099w/does_anyone_else_have_any_funny_pyjokes/)
-- [Pipenv, pip-tools, PDM, or Poetry?](https://www.reddit.com/r/Python/comments/16qz8mx/pipenv_piptools_pdm_or_poetry/)
-- [Image Generation with the OpenAI API &lpar;DALL-E&rpar; and Python](https://www.reddit.com/r/Python/comments/16quj9e/image_generation_with_the_openai_api_dalle_and/)
-- [Extra path functions and group-path, with accesses and more, and they are all nested for all attributes and accesses and more. Thoughts?](https://www.reddit.com/r/Python/comments/16qt96w/extra_path_functions_and_grouppath_with_accesses/)
 <!-- BLOG-POST-LIST:END -->
