@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Miniconda version 3.11.3](https://www.reddit.com/r/Python/comments/16qocgx/miniconda_version_3113/)
+- [Astronomy/Astrophysics Related Jobs](https://www.reddit.com/r/Python/comments/16qqbm2/astronomyastrophysics_related_jobs/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/16qj72u/sunday_daily_thread_whats_everyone_working_on/)
 - [How hard is to write scripts for image processing instead of paying pro photo editors?](https://www.reddit.com/r/Python/comments/16qdz8j/how_hard_is_to_write_scripts_for_image_processing/)
 - [FastAPI Background Tasks — The Ninjas of Your API](https://www.reddit.com/r/Python/comments/16q89p6/fastapi_background_tasks_the_ninjas_of_your_api/)
