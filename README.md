@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Image Generation with the OpenAI API &lpar;DALL-E&rpar; and Python](https://www.reddit.com/r/Python/comments/16quj9e/image_generation_with_the_openai_api_dalle_and/)
 - [Extra path functions and group-path, with accesses and more, and they are all nested for all attributes and accesses and more. Thoughts?](https://www.reddit.com/r/Python/comments/16qt96w/extra_path_functions_and_grouppath_with_accesses/)
 - [What Python programs have you made to help with study?](https://www.reddit.com/r/Python/comments/16qsl48/what_python_programs_have_you_made_to_help_with/)
 - [Astronomy/Astrophysics Related Jobs](https://www.reddit.com/r/Python/comments/16qqbm2/astronomyastrophysics_related_jobs/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/16qj72u/sunday_daily_thread_whats_everyone_working_on/)
-- [How hard is to write scripts for image processing instead of paying pro photo editors?](https://www.reddit.com/r/Python/comments/16qdz8j/how_hard_is_to_write_scripts_for_image_processing/)
 <!-- BLOG-POST-LIST:END -->
