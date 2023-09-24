@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Python to Delete Videos and Photos &lpar;or any files&rpar; from Google Drive](https://www.reddit.com/r/Python/comments/16r0bfe/using_python_to_delete_videos_and_photos_or_any/)
+- [Does anyone else have any funny Pyjokes modifications?](https://www.reddit.com/r/Python/comments/16r099w/does_anyone_else_have_any_funny_pyjokes/)
 - [Pipenv, pip-tools, PDM, or Poetry?](https://www.reddit.com/r/Python/comments/16qz8mx/pipenv_piptools_pdm_or_poetry/)
 - [Image Generation with the OpenAI API &lpar;DALL-E&rpar; and Python](https://www.reddit.com/r/Python/comments/16quj9e/image_generation_with_the_openai_api_dalle_and/)
 - [Extra path functions and group-path, with accesses and more, and they are all nested for all attributes and accesses and more. Thoughts?](https://www.reddit.com/r/Python/comments/16qt96w/extra_path_functions_and_grouppath_with_accesses/)
-- [What Python programs have you made to help with study?](https://www.reddit.com/r/Python/comments/16qsl48/what_python_programs_have_you_made_to_help_with/)
-- [Astronomy/Astrophysics Related Jobs](https://www.reddit.com/r/Python/comments/16qqbm2/astronomyastrophysics_related_jobs/)
 <!-- BLOG-POST-LIST:END -->
