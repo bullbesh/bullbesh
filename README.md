@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [yournal.py: Fast &lpar;y&rpar;ournal script to make daily notes from your terminal.](https://www.reddit.com/r/Python/comments/16s34un/yournalpy_fast_yournal_script_to_make_daily_notes/)
 - [Asyncio Coroutines Faster Than Threads!?](https://www.reddit.com/r/Python/comments/16s1ius/asyncio_coroutines_faster_than_threads/)
-- [Privacy Personal health server in python](https://www.reddit.com/r/Python/comments/16rxywc/privacy_personal_health_server_in_python/)
-- [Guess the execution time for a Python script](https://www.reddit.com/r/Python/comments/16rw3uc/guess_the_execution_time_for_a_python_script/)
 - [Thread Safety in Python](https://www.reddit.com/r/Python/comments/16rtmfi/thread_safety_in_python/)
+- [[Video] Python&#39;s __getitem__ Methos in 2 Minutes](https://www.reddit.com/r/Python/comments/16rt565/video_pythons_getitem_methos_in_2_minutes/)
+- [3 IRL use cases for Python and HTMX](https://www.reddit.com/r/Python/comments/16rshly/3_irl_use_cases_for_python_and_htmx/)
 <!-- BLOG-POST-LIST:END -->
