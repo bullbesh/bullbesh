@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Complete PYTHON Programming for Beginners - 2023](https://www.reddit.com/r/Python/comments/16rnvj6/complete_python_programming_for_beginners_2023/)
+- [Top 10 Python Machine Learning Libraries in 2023](https://www.reddit.com/r/Python/comments/16rngu8/top_10_python_machine_learning_libraries_in_2023/)
+- [Why is this so confusing?](https://www.reddit.com/r/Python/comments/16rn7ad/why_is_this_so_confusing/)
 - [Pine Script for tradingview](https://www.reddit.com/r/Python/comments/16rmbh8/pine_script_for_tradingview/)
 - [Package Python scripts into executable files with one command, and run them in a lightweight container runtime.](https://www.reddit.com/r/Python/comments/16rm3z8/package_python_scripts_into_executable_files_with/)
-- [Cross-compiling dependencies for docker multistage build?](https://www.reddit.com/r/Python/comments/16reys2/crosscompiling_dependencies_for_docker_multistage/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/16rcxk3/monday_daily_thread_project_ideas/)
-- [Created a tutorial Video for Installation and Setup. Hoping Suggestions and Feedback :&rpar; ?](https://www.reddit.com/r/Python/comments/16rcix8/created_a_tutorial_video_for_installation_and/)
 <!-- BLOG-POST-LIST:END -->
