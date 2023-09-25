@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - Qiskit/rustworkx: A high performance Python graph library implemented in Rust.](https://www.reddit.com/r/Python/comments/16rr64t/github_qiskitrustworkx_a_high_performance_python/)
+- [Reproducibility in PyPI](https://www.reddit.com/r/Python/comments/16rr3kx/reproducibility_in_pypi/)
 - [Tutorial: Building a Python Flask Passkey Login Page](https://www.reddit.com/r/Python/comments/16rq1za/tutorial_building_a_python_flask_passkey_login/)
 - [VLC remote control using FastAPI](https://www.reddit.com/r/Python/comments/16rp7c2/vlc_remote_control_using_fastapi/)
 - [Complete PYTHON Programming for Beginners - 2023](https://www.reddit.com/r/Python/comments/16rnvj6/complete_python_programming_for_beginners_2023/)
-- [Top 10 Python Machine Learning Libraries in 2023](https://www.reddit.com/r/Python/comments/16rngu8/top_10_python_machine_learning_libraries_in_2023/)
-- [Why is this so confusing?](https://www.reddit.com/r/Python/comments/16rn7ad/why_is_this_so_confusing/)
 <!-- BLOG-POST-LIST:END -->
