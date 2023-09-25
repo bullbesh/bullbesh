@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Privacy Personal health server in python](https://www.reddit.com/r/Python/comments/16rxywc/privacy_personal_health_server_in_python/)
 - [Ayuda con subir una aplicación web con flask a la web.](https://www.reddit.com/r/Python/comments/16rwvqn/ayuda_con_subir_una_aplicación_web_con_flask_a_la/)
 - [Guess the execution time for a Python script](https://www.reddit.com/r/Python/comments/16rw3uc/guess_the_execution_time_for_a_python_script/)
 - [Thread Safety in Python](https://www.reddit.com/r/Python/comments/16rtmfi/thread_safety_in_python/)
 - [[Video] Python&#39;s __getitem__ Methos in 2 Minutes](https://www.reddit.com/r/Python/comments/16rt565/video_pythons_getitem_methos_in_2_minutes/)
-- [What is Google Cloud Vertex AI, its architecture, and key features?](https://www.reddit.com/r/Python/comments/16rt1s4/what_is_google_cloud_vertex_ai_its_architecture/)
 <!-- BLOG-POST-LIST:END -->
