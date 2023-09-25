@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial: Building a Python Flask Passkey Login Page](https://www.reddit.com/r/Python/comments/16rq1za/tutorial_building_a_python_flask_passkey_login/)
+- [VLC remote control using FastAPI](https://www.reddit.com/r/Python/comments/16rp7c2/vlc_remote_control_using_fastapi/)
 - [Complete PYTHON Programming for Beginners - 2023](https://www.reddit.com/r/Python/comments/16rnvj6/complete_python_programming_for_beginners_2023/)
 - [Top 10 Python Machine Learning Libraries in 2023](https://www.reddit.com/r/Python/comments/16rngu8/top_10_python_machine_learning_libraries_in_2023/)
 - [Why is this so confusing?](https://www.reddit.com/r/Python/comments/16rn7ad/why_is_this_so_confusing/)
-- [Pine Script for tradingview](https://www.reddit.com/r/Python/comments/16rmbh8/pine_script_for_tradingview/)
-- [Package Python scripts into executable files with one command, and run them in a lightweight container runtime.](https://www.reddit.com/r/Python/comments/16rm3z8/package_python_scripts_into_executable_files_with/)
 <!-- BLOG-POST-LIST:END -->
