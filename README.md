@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Video] Python&#39;s __getitem__ Methos in 2 Minutes](https://www.reddit.com/r/Python/comments/16rt565/video_pythons_getitem_methos_in_2_minutes/)
+- [What is Google Cloud Vertex AI, its architecture, and key features?](https://www.reddit.com/r/Python/comments/16rt1s4/what_is_google_cloud_vertex_ai_its_architecture/)
+- [3 IRL use cases for Python and HTMX](https://www.reddit.com/r/Python/comments/16rshly/3_irl_use_cases_for_python_and_htmx/)
+- [I find this hard 🤕](https://www.reddit.com/r/Python/comments/16rrwjq/i_find_this_hard/)
 - [GitHub - Qiskit/rustworkx: A high performance Python graph library implemented in Rust.](https://www.reddit.com/r/Python/comments/16rr64t/github_qiskitrustworkx_a_high_performance_python/)
-- [Reproducibility in PyPI](https://www.reddit.com/r/Python/comments/16rr3kx/reproducibility_in_pypi/)
-- [Tutorial: Building a Python Flask Passkey Login Page](https://www.reddit.com/r/Python/comments/16rq1za/tutorial_building_a_python_flask_passkey_login/)
-- [VLC remote control using FastAPI](https://www.reddit.com/r/Python/comments/16rp7c2/vlc_remote_control_using_fastapi/)
-- [Complete PYTHON Programming for Beginners - 2023](https://www.reddit.com/r/Python/comments/16rnvj6/complete_python_programming_for_beginners_2023/)
 <!-- BLOG-POST-LIST:END -->
