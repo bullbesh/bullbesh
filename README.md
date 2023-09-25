@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thread Safety in Python](https://www.reddit.com/r/Python/comments/16rtmfi/thread_safety_in_python/)
 - [[Video] Python&#39;s __getitem__ Methos in 2 Minutes](https://www.reddit.com/r/Python/comments/16rt565/video_pythons_getitem_methos_in_2_minutes/)
 - [What is Google Cloud Vertex AI, its architecture, and key features?](https://www.reddit.com/r/Python/comments/16rt1s4/what_is_google_cloud_vertex_ai_its_architecture/)
 - [3 IRL use cases for Python and HTMX](https://www.reddit.com/r/Python/comments/16rshly/3_irl_use_cases_for_python_and_htmx/)
 - [I find this hard 🤕](https://www.reddit.com/r/Python/comments/16rrwjq/i_find_this_hard/)
-- [GitHub - Qiskit/rustworkx: A high performance Python graph library implemented in Rust.](https://www.reddit.com/r/Python/comments/16rr64t/github_qiskitrustworkx_a_high_performance_python/)
 <!-- BLOG-POST-LIST:END -->
