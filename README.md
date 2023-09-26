@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Relatively new to Python, was inspired by some random math reel to make this](https://www.reddit.com/r/Python/comments/16sm0wi/relatively_new_to_python_was_inspired_by_some/)
+- [Constantly Receiving Python Packages Errors For Almost Every Module](https://www.reddit.com/r/Python/comments/16sl5sl/constantly_receiving_python_packages_errors_for/)
 - [New to this world](https://www.reddit.com/r/Python/comments/16skpjf/new_to_this_world/)
 - [Advanced Foundations of Python Programming](https://www.reddit.com/r/Python/comments/16sj8w2/advanced_foundations_of_python_programming/)
 - [Python Development First Steps and Development IDE Platform](https://www.reddit.com/r/Python/comments/16siktu/python_development_first_steps_and_development/)
-- [PSA: Python 3.12 releases in one week! NumPy, Pandas and SciPy have 3.12 wheels up on PyPI &lpar;among others&rpar;, get your package ready and wheels uploaded for release!](https://www.reddit.com/r/Python/comments/16shvto/psa_python_312_releases_in_one_week_numpy_pandas/)
-- [🌍 Spatial Analysis of Population Shifts: A Deep Dive into Raster-based Exploration 🌍](https://www.reddit.com/r/Python/comments/16sg7lu/spatial_analysis_of_population_shifts_a_deep_dive/)
 <!-- BLOG-POST-LIST:END -->
