@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python + JavaScript, Game automation script, Legend Legacy of Dragons - Auto-Fighter - Auto-Collector, code will posted on Github](https://www.reddit.com/r/Python/comments/16st1k3/python_javascript_game_automation_script_legend/)
+- [LLMFunctionObjects | Python for Prediction](https://www.reddit.com/r/Python/comments/16ssrmd/llmfunctionobjects_python_for_prediction/)
 - [Seaborn v0.13 release candidate: major overhaul to categorical plotting](https://www.reddit.com/r/Python/comments/16ss4iy/seaborn_v013_release_candidate_major_overhaul_to/)
 - [Using Python for Retrieval Augmented Generation on audio data](https://www.reddit.com/r/Python/comments/16srria/using_python_for_retrieval_augmented_generation/)
 - [Malicious npm Packages Strike Again: Exfiltrating Kubernetes Configurations and SSH Keys](https://www.reddit.com/r/Python/comments/16src5s/malicious_npm_packages_strike_again_exfiltrating/)
-- [Python 3.12 Preview: Subinterpreters – Real Python](https://www.reddit.com/r/Python/comments/16sptvi/python_312_preview_subinterpreters_real_python/)
-- [Best Certification](https://www.reddit.com/r/Python/comments/16so216/best_certification/)
 <!-- BLOG-POST-LIST:END -->
