@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Seaborn v0.13 release candidate: major overhaul to categorical plotting](https://www.reddit.com/r/Python/comments/16ss4iy/seaborn_v013_release_candidate_major_overhaul_to/)
+- [Using Python for Retrieval Augmented Generation on audio data](https://www.reddit.com/r/Python/comments/16srria/using_python_for_retrieval_augmented_generation/)
+- [Malicious npm Packages Strike Again: Exfiltrating Kubernetes Configurations and SSH Keys](https://www.reddit.com/r/Python/comments/16src5s/malicious_npm_packages_strike_again_exfiltrating/)
 - [Python 3.12 Preview: Subinterpreters – Real Python](https://www.reddit.com/r/Python/comments/16sptvi/python_312_preview_subinterpreters_real_python/)
-- [Learning to code?](https://www.reddit.com/r/Python/comments/16sp2oe/learning_to_code/)
 - [Best Certification](https://www.reddit.com/r/Python/comments/16so216/best_certification/)
-- [I got JSON, Description: Description: &quot;Hi the size is &#39;M&#39; &quot; . How can i add escape the sign &quot;&quot; between M so I can parse Json using Json.loads in Python?](https://www.reddit.com/r/Python/comments/16sn69k/i_got_json_description_description_hi_the_size_is/)
-- [Preferred ways log/output/alert from sceduled scripts](https://www.reddit.com/r/Python/comments/16smz5h/preferred_ways_logoutputalert_from_sceduled/)
 <!-- BLOG-POST-LIST:END -->
