@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Github Sample Links](https://www.reddit.com/r/Python/comments/16s9hd8/python_github_sample_links/)
+- [“if not _ in _:”, vs “if _ not in _:”](https://www.reddit.com/r/Python/comments/16s8uix/if_not_in_vs_if_not_in/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/16s88v4/tuesday_daily_thread_advanced_questions/)
 - [yournal.py: Fast &lpar;y&rpar;ournal script to make daily notes from your terminal.](https://www.reddit.com/r/Python/comments/16s34un/yournalpy_fast_yournal_script_to_make_daily_notes/)
 - [Asyncio Coroutines Faster Than Threads!?](https://www.reddit.com/r/Python/comments/16s1ius/asyncio_coroutines_faster_than_threads/)
-- [Thread Safety in Python](https://www.reddit.com/r/Python/comments/16rtmfi/thread_safety_in_python/)
-- [[Video] Python&#39;s __getitem__ Methos in 2 Minutes](https://www.reddit.com/r/Python/comments/16rt565/video_pythons_getitem_methos_in_2_minutes/)
-- [3 IRL use cases for Python and HTMX](https://www.reddit.com/r/Python/comments/16rshly/3_irl_use_cases_for_python_and_htmx/)
 <!-- BLOG-POST-LIST:END -->
