@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Development First Steps and Development IDE Platform](https://www.reddit.com/r/Python/comments/16siktu/python_development_first_steps_and_development/)
+- [PSA: Python 3.12 releases in one week! NumPy, Pandas and SciPy have 3.12 wheels up on PyPI &lpar;among others&rpar;, get your package ready and wheels uploaded for release!](https://www.reddit.com/r/Python/comments/16shvto/psa_python_312_releases_in_one_week_numpy_pandas/)
 - [🌍 Spatial Analysis of Population Shifts: A Deep Dive into Raster-based Exploration 🌍](https://www.reddit.com/r/Python/comments/16sg7lu/spatial_analysis_of_population_shifts_a_deep_dive/)
 - [82 New Enhancements in NiceGUI: Elevate Your Browser-based Python Frontend](https://www.reddit.com/r/Python/comments/16sehf8/82_new_enhancements_in_nicegui_elevate_your/)
 - [Best front end to use with Python for web app including user file management?](https://www.reddit.com/r/Python/comments/16sdsp6/best_front_end_to_use_with_python_for_web_app/)
-- [“if not _ in _:”, vs “if _ not in _:”](https://www.reddit.com/r/Python/comments/16s8uix/if_not_in_vs_if_not_in/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/16s88v4/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
