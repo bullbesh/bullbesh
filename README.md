@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.12 Preview: Subinterpreters – Real Python](https://www.reddit.com/r/Python/comments/16sptvi/python_312_preview_subinterpreters_real_python/)
 - [Learning to code?](https://www.reddit.com/r/Python/comments/16sp2oe/learning_to_code/)
 - [Best Certification](https://www.reddit.com/r/Python/comments/16so216/best_certification/)
 - [I got JSON, Description: Description: &quot;Hi the size is &#39;M&#39; &quot; . How can i add escape the sign &quot;&quot; between M so I can parse Json using Json.loads in Python?](https://www.reddit.com/r/Python/comments/16sn69k/i_got_json_description_description_hi_the_size_is/)
 - [Preferred ways log/output/alert from sceduled scripts](https://www.reddit.com/r/Python/comments/16smz5h/preferred_ways_logoutputalert_from_sceduled/)
-- [Relatively new to Python, was inspired by some random math reel to make this](https://www.reddit.com/r/Python/comments/16sm0wi/relatively_new_to_python_was_inspired_by_some/)
 <!-- BLOG-POST-LIST:END -->
