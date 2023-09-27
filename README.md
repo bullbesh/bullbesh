@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Prepare Python environment for a 2 hour coding assignment. Best tips to win productivity and time.](https://www.reddit.com/r/Python/comments/16tsli8/prepare_python_environment_for_a_2_hour_coding/)
+- [What are some of the biggest international companies who hire Django and/or Flask developers?](https://www.reddit.com/r/Python/comments/16ts68v/what_are_some_of_the_biggest_international/)
 - [Why autocommit is off in Python and what it means for your SQL database connection code](https://www.reddit.com/r/Python/comments/16trk7b/why_autocommit_is_off_in_python_and_what_it_means/)
 - [Flask Web App for Summarizing YouTube Transcripts with OpenAI API and Flask.](https://www.reddit.com/r/Python/comments/16tqbqj/flask_web_app_for_summarizing_youtube_transcripts/)
 - [Software Engineering Tools](https://www.reddit.com/r/Python/comments/16tn5m2/software_engineering_tools/)
-- [PyMilo: New Python Library for Machine Learning I/O](https://www.reddit.com/r/Python/comments/16tn3oj/pymilo_new_python_library_for_machine_learning_io/)
-- [Python-TKML -- Single-File Library for using XML to layout your tkinter gui](https://www.reddit.com/r/Python/comments/16tlwfu/pythontkml_singlefile_library_for_using_xml_to/)
 <!-- BLOG-POST-LIST:END -->
