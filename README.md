@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve developed a 2D parametric CAD engine that&#39;s built upon a custom parametric description of a DXF file. Check it out!](https://www.reddit.com/r/Python/comments/16tttqr/ive_developed_a_2d_parametric_cad_engine_thats/)
+- [mongoie - tool for exporting data from mongo to files or importing from files to mongo in a lazy way - using generators and chunking.](https://www.reddit.com/r/Python/comments/16ttpuv/mongoie_tool_for_exporting_data_from_mongo_to/)
 - [Prepare Python environment for a 2 hour coding assignment. Best tips to win productivity and time.](https://www.reddit.com/r/Python/comments/16tsli8/prepare_python_environment_for_a_2_hour_coding/)
 - [What are some of the biggest international companies who hire Django and/or Flask developers?](https://www.reddit.com/r/Python/comments/16ts68v/what_are_some_of_the_biggest_international/)
 - [Why autocommit is off in Python and what it means for your SQL database connection code](https://www.reddit.com/r/Python/comments/16trk7b/why_autocommit_is_off_in_python_and_what_it_means/)
-- [Flask Web App for Summarizing YouTube Transcripts with OpenAI API and Flask.](https://www.reddit.com/r/Python/comments/16tqbqj/flask_web_app_for_summarizing_youtube_transcripts/)
-- [Software Engineering Tools](https://www.reddit.com/r/Python/comments/16tn5m2/software_engineering_tools/)
 <!-- BLOG-POST-LIST:END -->
