@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What security improvements would you like to see in Python?](https://www.reddit.com/r/Python/comments/16tlbhw/what_security_improvements_would_you_like_to_see/)
-- [LLMPrompts | Python for Prediction](https://www.reddit.com/r/Python/comments/16tjjcr/llmprompts_python_for_prediction/)
-- [txtai 6.1: Build embeddings databases with Postgres and Faiss/Hnswlib](https://www.reddit.com/r/Python/comments/16tj0fy/txtai_61_build_embeddings_databases_with_postgres/)
-- [Python Asyncio Part 1 – Basic Concepts and Patterns](https://www.reddit.com/r/Python/comments/16ti0mi/python_asyncio_part_1_basic_concepts_and_patterns/)
-- [Minimalistic and local first semantic search and chat with your codebase from cli](https://www.reddit.com/r/Python/comments/16thg8x/minimalistic_and_local_first_semantic_search_and/)
+- [Software Engineering Tools](https://www.reddit.com/r/Python/comments/16tn5m2/software_engineering_tools/)
+- [PyMilo: New Python Library for Machine Learning I/O](https://www.reddit.com/r/Python/comments/16tn3oj/pymilo_new_python_library_for_machine_learning_io/)
+- [Sharing Twitter API Pro](https://www.reddit.com/r/Python/comments/16tn2z3/sharing_twitter_api_pro/)
+- [Is the job market bad enough for me to consider changing majors?](https://www.reddit.com/r/Python/comments/16tmcvu/is_the_job_market_bad_enough_for_me_to_consider/)
+- [8 years experience in python with no real job &lpar;too lazy to search&rpar; with severe depression and social anxiety](https://www.reddit.com/r/Python/comments/16tmaf9/8_years_experience_in_python_with_no_real_job_too/)
 <!-- BLOG-POST-LIST:END -->
