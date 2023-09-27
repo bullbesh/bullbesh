@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can I use facebook Graph API to retrieve share count and share names of users who shared a facebook post?](https://www.reddit.com/r/Python/comments/16tdsl2/can_i_use_facebook_graph_api_to_retrieve_share/)
+- [Exploring Wordle: Programmatically finding all remaining eligible words for a Wordle game from guess-score pairs.](https://www.reddit.com/r/Python/comments/16td813/exploring_wordle_programmatically_finding_all/)
 - [Checkout my Ultimate Calculator!](https://www.reddit.com/r/Python/comments/16tc8pj/checkout_my_ultimate_calculator/)
 - [Can we create production ready applications with Python only frameworks like reflex, nicegui, flet?](https://www.reddit.com/r/Python/comments/16t8r3p/can_we_create_production_ready_applications_with/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/16t4m3q/wednesday_daily_thread_beginner_questions/)
-- [Introducing: Cappa &lpar;A typed, declarative CLI argument parsing library&rpar;](https://www.reddit.com/r/Python/comments/16t1nkv/introducing_cappa_a_typed_declarative_cli/)
-- [Combine video+text style with css](https://www.reddit.com/r/Python/comments/16sztln/combine_videotext_style_with_css/)
 <!-- BLOG-POST-LIST:END -->
