@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Minimalistic and local first semantic search and chat with your codebase from cli](https://www.reddit.com/r/Python/comments/16thg8x/minimalistic_and_local_first_semantic_search_and/)
+- [How come Python code from e.g. youtube &lpar;2years old&rpar; do not work when inserting in Pycharm today?](https://www.reddit.com/r/Python/comments/16thdyo/how_come_python_code_from_eg_youtube_2years_old/)
+- [start to learn python](https://www.reddit.com/r/Python/comments/16tgt95/start_to_learn_python/)
+- [Python package for mappers](https://www.reddit.com/r/Python/comments/16tgr8g/python_package_for_mappers/)
 - [Check out my ChatGPT integration for CLI.](https://www.reddit.com/r/Python/comments/16tfm9q/check_out_my_chatgpt_integration_for_cli/)
-- [Can I use facebook Graph API to retrieve share count and share names of users who shared a facebook post?](https://www.reddit.com/r/Python/comments/16tdsl2/can_i_use_facebook_graph_api_to_retrieve_share/)
-- [Exploring Wordle: Programmatically finding all remaining eligible words for a Wordle game from guess-score pairs.](https://www.reddit.com/r/Python/comments/16td813/exploring_wordle_programmatically_finding_all/)
-- [Checkout my Ultimate Calculator!](https://www.reddit.com/r/Python/comments/16tc8pj/checkout_my_ultimate_calculator/)
-- [Can we create production ready applications with Python only frameworks like reflex, nicegui, flet?](https://www.reddit.com/r/Python/comments/16t8r3p/can_we_create_production_ready_applications_with/)
 <!-- BLOG-POST-LIST:END -->
