@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flask Web App for Summarizing YouTube Transcripts with OpenAI API and Flask.](https://www.reddit.com/r/Python/comments/16tqbqj/flask_web_app_for_summarizing_youtube_transcripts/)
 - [9 Open Source LLMs and Agents to Watch](https://www.reddit.com/r/Python/comments/16topd4/9_open_source_llms_and_agents_to_watch/)
 - [Software Engineering Tools](https://www.reddit.com/r/Python/comments/16tn5m2/software_engineering_tools/)
 - [PyMilo: New Python Library for Machine Learning I/O](https://www.reddit.com/r/Python/comments/16tn3oj/pymilo_new_python_library_for_machine_learning_io/)
 - [Sharing Twitter API Pro](https://www.reddit.com/r/Python/comments/16tn2z3/sharing_twitter_api_pro/)
-- [Python-TKML -- Single-File Library for using XML to layout your tkinter gui](https://www.reddit.com/r/Python/comments/16tlwfu/pythontkml_singlefile_library_for_using_xml_to/)
 <!-- BLOG-POST-LIST:END -->
