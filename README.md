@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [top software training institutes in kochi](https://www.reddit.com/r/Python/comments/16uiqwv/top_software_training_institutes_in_kochi/)
-- [The Best Software Training Institute in Kochi Infopark](https://www.reddit.com/r/Python/comments/16uinjd/the_best_software_training_institute_in_kochi/)
-- [Want to Know About, Search &amp; Conversation Layer in Vertex AI with use cases, Check out this blog Post.](https://www.reddit.com/r/Python/comments/16uhy6x/want_to_know_about_search_conversation_layer_in/)
+- [Python 3.12 Preview: Static Typing Improvements – Real Python](https://www.reddit.com/r/Python/comments/16uk1tf/python_312_preview_static_typing_improvements/)
 - [Cloud Benchmarker: See how fast your cloud instances are for real! &lpar;Python Open-Source&rpar;](https://www.reddit.com/r/Python/comments/16ufagw/cloud_benchmarker_see_how_fast_your_cloud/)
 - [[question] ActiveState Alternative - Python3 patches for Python2](https://www.reddit.com/r/Python/comments/16uc2dt/question_activestate_alternative_python3_patches/)
+- [Developers of Python in Excel AMA is live over in r/excel now &lpar;answers at 9am PDT 28th Sep&rpar;](https://www.reddit.com/r/Python/comments/16u9tt8/developers_of_python_in_excel_ama_is_live_over_in/)
+- [Data Engineering Jobs for Beginners to Consider](https://www.reddit.com/r/Python/comments/16u9j67/data_engineering_jobs_for_beginners_to_consider/)
 <!-- BLOG-POST-LIST:END -->
