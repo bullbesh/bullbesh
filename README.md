@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Ways to Measure Execution Time in Python](https://www.reddit.com/r/Python/comments/16uq7rl/5_ways_to_measure_execution_time_in_python/)
+- [Koopman eigenfunctions of the Duffing equation](https://www.reddit.com/r/Python/comments/16uowuf/koopman_eigenfunctions_of_the_duffing_equation/)
 - [Proposed new typing governance process](https://www.reddit.com/r/Python/comments/16um9h4/proposed_new_typing_governance_process/)
 - [Python 3.12 Preview: Static Typing Improvements – Real Python](https://www.reddit.com/r/Python/comments/16uk1tf/python_312_preview_static_typing_improvements/)
 - [Cloud Benchmarker: See how fast your cloud instances are for real! &lpar;Python Open-Source&rpar;](https://www.reddit.com/r/Python/comments/16ufagw/cloud_benchmarker_see_how_fast_your_cloud/)
-- [[question] ActiveState Alternative - Python3 patches for Python2](https://www.reddit.com/r/Python/comments/16uc2dt/question_activestate_alternative_python3_patches/)
-- [Developers of Python in Excel AMA is live over in r/excel now &lpar;answers at 9am PDT 28th Sep&rpar;](https://www.reddit.com/r/Python/comments/16u9tt8/developers_of_python_in_excel_ama_is_live_over_in/)
 <!-- BLOG-POST-LIST:END -->
