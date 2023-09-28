@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any good pre trained BERT Models for Healthcare/Manufacturing?](https://www.reddit.com/r/Python/comments/16uh2bl/any_good_pre_trained_bert_models_for/)
+- [online utility to convert json to a python dict source code?](https://www.reddit.com/r/Python/comments/16ug42d/online_utility_to_convert_json_to_a_python_dict/)
 - [Cloud Benchmarker: See how fast your cloud instances are for real! &lpar;Python Open-Source&rpar;](https://www.reddit.com/r/Python/comments/16ufagw/cloud_benchmarker_see_how_fast_your_cloud/)
-- [Hi folks, I am currently working as a oracle Technical Consultant and have 5 years of experience. I have recently completed my MS in Data Science. Now, i want to transition into data science MLops role using my current skills. I wanted to ask if it is a better choice? Should i go for it.? How i can](https://www.reddit.com/r/Python/comments/16ucgft/hi_folks_i_am_currently_working_as_a_oracle/)
 - [[question] ActiveState Alternative - Python3 patches for Python2](https://www.reddit.com/r/Python/comments/16uc2dt/question_activestate_alternative_python3_patches/)
 - [How to use chat gpt api without reloading the page every time?](https://www.reddit.com/r/Python/comments/16u9z5p/how_to_use_chat_gpt_api_without_reloading_the/)
-- [Developers of Python in Excel AMA is live over in r/excel now &lpar;answers at 9am PDT 28th Sep&rpar;](https://www.reddit.com/r/Python/comments/16u9tt8/developers_of_python_in_excel_ama_is_live_over_in/)
 <!-- BLOG-POST-LIST:END -->
