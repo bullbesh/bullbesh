@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best place to learn python for free?](https://www.reddit.com/r/Python/comments/16ua64m/best_place_to_learn_python_for_free/)
+- [How to use chat gpt api without reloading the page every time?](https://www.reddit.com/r/Python/comments/16u9z5p/how_to_use_chat_gpt_api_without_reloading_the/)
+- [Developers of Python in Excel AMA is live over in r/excel now &lpar;answers at 9am PDT 28th Sep&rpar;](https://www.reddit.com/r/Python/comments/16u9tt8/developers_of_python_in_excel_ama_is_live_over_in/)
+- [Data Engineering Jobs for Beginners to Consider](https://www.reddit.com/r/Python/comments/16u9j67/data_engineering_jobs_for_beginners_to_consider/)
 - [How to Use threading Module to Create Threads in Python](https://www.reddit.com/r/Python/comments/16u8fcc/how_to_use_threading_module_to_create_threads_in/)
-- [Python Official Documentation in book/hardcopy form](https://www.reddit.com/r/Python/comments/16u23sf/python_official_documentation_in_bookhardcopy_form/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/16u0itf/thursday_daily_thread_python_careers_courses_and/)
-- [Forward declarations in Python](https://www.reddit.com/r/Python/comments/16tzk6b/forward_declarations_in_python/)
-- [Pure python performance effect on sympy?](https://www.reddit.com/r/Python/comments/16tw6sp/pure_python_performance_effect_on_sympy/)
 <!-- BLOG-POST-LIST:END -->
