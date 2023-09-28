@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Who&#39;s using asyncio?](https://www.reddit.com/r/Python/comments/16ureyk/whos_using_asyncio/)
+- [FastAPI Berlin Meetup Talks](https://www.reddit.com/r/Python/comments/16urc1y/fastapi_berlin_meetup_talks/)
+- [How to Split and Compress files with Python for loading data effectively into Snowflake](https://www.reddit.com/r/Python/comments/16ura62/how_to_split_and_compress_files_with_python_for/)
 - [5 Ways to Measure Execution Time in Python](https://www.reddit.com/r/Python/comments/16uq7rl/5_ways_to_measure_execution_time_in_python/)
 - [Koopman eigenfunctions of the Duffing equation](https://www.reddit.com/r/Python/comments/16uowuf/koopman_eigenfunctions_of_the_duffing_equation/)
-- [Proposed new typing governance process](https://www.reddit.com/r/Python/comments/16um9h4/proposed_new_typing_governance_process/)
-- [Python 3.12 Preview: Static Typing Improvements – Real Python](https://www.reddit.com/r/Python/comments/16uk1tf/python_312_preview_static_typing_improvements/)
-- [Cloud Benchmarker: See how fast your cloud instances are for real! &lpar;Python Open-Source&rpar;](https://www.reddit.com/r/Python/comments/16ufagw/cloud_benchmarker_see_how_fast_your_cloud/)
 <!-- BLOG-POST-LIST:END -->
