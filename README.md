@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dealing with huge Json files faster?](https://www.reddit.com/r/Python/comments/16vb7rz/dealing_with_huge_json_files_faster/)
 - [Please recommend a python app like duolingo for easy and daily learning](https://www.reddit.com/r/Python/comments/16v8ohh/please_recommend_a_python_app_like_duolingo_for/)
 - [Image Processing with Python PIL](https://www.reddit.com/r/Python/comments/16v7zr4/image_processing_with_python_pil/)
 - [Using Multiple Data Structures in Redis as a Queue](https://www.reddit.com/r/Python/comments/16v6vtu/using_multiple_data_structures_in_redis_as_a_queue/)
 - [Optical Character Recognition &lpar;OCR&rpar; MasterClass in Python](https://www.reddit.com/r/Python/comments/16v6m10/optical_character_recognition_ocr_masterclass_in/)
-- [PyPy v7.3.13 release](https://www.reddit.com/r/Python/comments/16v6ipd/pypy_v7313_release/)
 <!-- BLOG-POST-LIST:END -->
