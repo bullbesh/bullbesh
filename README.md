@@ -12,5 +12,5 @@
 - [Good Free Python course](https://www.reddit.com/r/Python/comments/16vlia7/good_free_python_course/)
 - [Python x Jetbrains 2022 Developer Survey Results Available!](https://www.reddit.com/r/Python/comments/16vj86g/python_x_jetbrains_2022_developer_survey_results/)
 - [tf.keras.losses.Hinge in TensorFlow - CodeSpeedy](https://www.reddit.com/r/Python/comments/16vj7dk/tfkeraslosseshinge_in_tensorflow_codespeedy/)
-- [Cloud Engineer Dipping Toes in Pythonic Waters: Seeking Projects &amp; Communities 🐍](https://www.reddit.com/r/Python/comments/16vfx1r/cloud_engineer_dipping_toes_in_pythonic_waters/)
+- [List of advanced Python Topics](https://www.reddit.com/r/Python/comments/16vdylm/list_of_advanced_python_topics/)
 <!-- BLOG-POST-LIST:END -->
