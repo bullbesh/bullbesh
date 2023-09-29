@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [seaborn v0.13.0 released, with major enhancements to categorical plots](https://www.reddit.com/r/Python/comments/16vo9ex/seaborn_v0130_released_with_major_enhancements_to/)
+- [Generate Python code using GPT](https://www.reddit.com/r/Python/comments/16vnqmj/generate_python_code_using_gpt/)
 - [Share Your favorite python related software!](https://www.reddit.com/r/Python/comments/16vlxwt/share_your_favorite_python_related_software/)
-- [Good Free Python course](https://www.reddit.com/r/Python/comments/16vlia7/good_free_python_course/)
 - [Python x Jetbrains 2022 Developer Survey Results Available!](https://www.reddit.com/r/Python/comments/16vj86g/python_x_jetbrains_2022_developer_survey_results/)
 - [tf.keras.losses.Hinge in TensorFlow - CodeSpeedy](https://www.reddit.com/r/Python/comments/16vj7dk/tfkeraslosseshinge_in_tensorflow_codespeedy/)
-- [List of advanced Python Topics](https://www.reddit.com/r/Python/comments/16vdylm/list_of_advanced_python_topics/)
 <!-- BLOG-POST-LIST:END -->
