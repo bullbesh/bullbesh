@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Engineer Dipping Toes in Pythonic Waters: Seeking Projects &amp; Communities 🐍](https://www.reddit.com/r/Python/comments/16vfx1r/cloud_engineer_dipping_toes_in_pythonic_waters/)
 - [List of advanced Python Topics](https://www.reddit.com/r/Python/comments/16vdylm/list_of_advanced_python_topics/)
 - [Using Multiple Data Structures in Redis as a Queue](https://www.reddit.com/r/Python/comments/16v6vtu/using_multiple_data_structures_in_redis_as_a_queue/)
 - [Optical Character Recognition &lpar;OCR&rpar; MasterClass in Python](https://www.reddit.com/r/Python/comments/16v6m10/optical_character_recognition_ocr_masterclass_in/)
 - [PyPy v7.3.13 release](https://www.reddit.com/r/Python/comments/16v6ipd/pypy_v7313_release/)
-- [GitHub - isidentical/refactor: AST-based fragmental source code refactoring toolkit for Python](https://www.reddit.com/r/Python/comments/16v4j24/github_isidenticalrefactor_astbased_fragmental/)
 <!-- BLOG-POST-LIST:END -->
