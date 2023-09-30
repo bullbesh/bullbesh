@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Swiss Army Llama: Do tons of useful stuff with local LLMs with a REST API &lpar;written in Python&rpar;](https://www.reddit.com/r/Python/comments/16wj5oc/swiss_army_llama_do_tons_of_useful_stuff_with/)
+- [I wrote browser_cookie3 in Rust for Python!](https://www.reddit.com/r/Python/comments/16wj14c/i_wrote_browser_cookie3_in_rust_for_python/)
+- [Web Scraping In Python: A Beginners Guide](https://www.reddit.com/r/Python/comments/16wi8rx/web_scraping_in_python_a_beginners_guide/)
 - [Does async with await optimize Python?](https://www.reddit.com/r/Python/comments/16weoly/does_async_with_await_optimize_python/)
 - [Is it too soon to persue a carrer in AI?](https://www.reddit.com/r/Python/comments/16weg4r/is_it_too_soon_to_persue_a_carrer_in_ai/)
-- [Anaconda 2023.09-0 Released &lpar;py 3.11.5, np 1.24.3, pd 2.0.3, plt 3.7.2&rpar;](https://www.reddit.com/r/Python/comments/16wdzug/anaconda_2023090_released_py_3115_np_1243_pd_203/)
-- [Meerschaum 2.0 Released](https://www.reddit.com/r/Python/comments/16wb29b/meerschaum_20_released/)
-- [Script for downloading youtube videos and &#39;printing&#39; subtitles on them](https://www.reddit.com/r/Python/comments/16wa3w5/script_for_downloading_youtube_videos_and/)
 <!-- BLOG-POST-LIST:END -->
