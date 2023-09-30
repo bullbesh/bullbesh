@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python in VS Code [Beginner Tutorial]](https://www.reddit.com/r/Python/comments/16w4x1s/python_in_vs_code_beginner_tutorial/)
+- [Please i need help with my code](https://www.reddit.com/r/Python/comments/16w4sw8/please_i_need_help_with_my_code/)
 - [Aura Text: IDE made with Python](https://www.reddit.com/r/Python/comments/16w3v0t/aura_text_ide_made_with_python/)
 - [PhysiPy: Python Library to Solve Physics Equations](https://www.reddit.com/r/Python/comments/16w3ta7/physipy_python_library_to_solve_physics_equations/)
 - [Generate structured data with Mistral Instruct on your laptop &lpar;no GPU needed&rpar;](https://www.reddit.com/r/Python/comments/16w3j1z/generate_structured_data_with_mistral_instruct_on/)
-- [Pytonium 0.0.10 release. A framework to build Python Desktop Apps with HTML, CSS and Javascript for the UI.](https://www.reddit.com/r/Python/comments/16vxruj/pytonium_0010_release_a_framework_to_build_python/)
-- [Open-Sourced Pterodactyl GamePanel - Designed for Hosting Companies; Enhance User&#39;s Experience](https://www.reddit.com/r/Python/comments/16vun3b/opensourced_pterodactyl_gamepanel_designed_for/)
 <!-- BLOG-POST-LIST:END -->
