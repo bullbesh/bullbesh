@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python in Hacktoberfest](https://www.reddit.com/r/Python/comments/16w7dyq/python_in_hacktoberfest/)
 - [mathematical challenge worth a grade](https://www.reddit.com/r/Python/comments/16w6ceu/mathematical_challenge_worth_a_grade/)
 - [Python in VS Code [Beginner Tutorial]](https://www.reddit.com/r/Python/comments/16w4x1s/python_in_vs_code_beginner_tutorial/)
 - [Please i need help with my code](https://www.reddit.com/r/Python/comments/16w4sw8/please_i_need_help_with_my_code/)
 - [Aura Text: IDE made with Python](https://www.reddit.com/r/Python/comments/16w3v0t/aura_text_ide_made_with_python/)
-- [PhysiPy: Python Library to Solve Physics Equations](https://www.reddit.com/r/Python/comments/16w3ta7/physipy_python_library_to_solve_physics_equations/)
 <!-- BLOG-POST-LIST:END -->
