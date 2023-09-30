@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does async with await optimize Python?](https://www.reddit.com/r/Python/comments/16weoly/does_async_with_await_optimize_python/)
+- [Is it too soon to persue a carrer in AI?](https://www.reddit.com/r/Python/comments/16weg4r/is_it_too_soon_to_persue_a_carrer_in_ai/)
+- [Anaconda 2023.09-0 Released &lpar;py 3.11.5, np 1.24.3, pd 2.0.3, plt 3.7.2&rpar;](https://www.reddit.com/r/Python/comments/16wdzug/anaconda_2023090_released_py_3115_np_1243_pd_203/)
 - [Meerschaum 2.0 Released](https://www.reddit.com/r/Python/comments/16wb29b/meerschaum_20_released/)
 - [Script for downloading youtube videos and &#39;printing&#39; subtitles on them](https://www.reddit.com/r/Python/comments/16wa3w5/script_for_downloading_youtube_videos_and/)
-- [Flask 3.0.0 Released](https://www.reddit.com/r/Python/comments/16w97i6/flask_300_released/)
-- [I shared a tutorial type Data Science Project &lpar;Data Analysis &amp; Machine Learning&rpar; video on YouTube](https://www.reddit.com/r/Python/comments/16w96iz/i_shared_a_tutorial_type_data_science_project/)
-- [RecoverPy 2.1.1: TUI File recovery tool](https://www.reddit.com/r/Python/comments/16w90kc/recoverpy_211_tui_file_recovery_tool/)
 <!-- BLOG-POST-LIST:END -->
