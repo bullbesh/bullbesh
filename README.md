@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Pytonium 0.0.10 release. A framework to build Python Desktop Apps with HTML, CSS and Javascript for the UI.](https://www.reddit.com/r/Python/comments/16vxruj/pytonium_0010_release_a_framework_to_build_python/)
-- [How people earn money with web scrapping?](https://www.reddit.com/r/Python/comments/16vxjgo/how_people_earn_money_with_web_scrapping/)
 - [Open-Sourced Pterodactyl GamePanel - Designed for Hosting Companies; Enhance User&#39;s Experience](https://www.reddit.com/r/Python/comments/16vun3b/opensourced_pterodactyl_gamepanel_designed_for/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/16vrr7u/saturday_daily_thread_resource_request_and/)
 - [seaborn v0.13.0 released, with major enhancements to categorical plots](https://www.reddit.com/r/Python/comments/16vo9ex/seaborn_v0130_released_with_major_enhancements_to/)
+- [Share Your favorite python related software!](https://www.reddit.com/r/Python/comments/16vlxwt/share_your_favorite_python_related_software/)
 <!-- BLOG-POST-LIST:END -->
