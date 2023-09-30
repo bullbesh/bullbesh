@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flask 3.0.0 Released](https://www.reddit.com/r/Python/comments/16w97i6/flask_300_released/)
+- [I shared a tutorial type Data Science Project &lpar;Data Analysis &amp; Machine Learning&rpar; video on YouTube](https://www.reddit.com/r/Python/comments/16w96iz/i_shared_a_tutorial_type_data_science_project/)
+- [RecoverPy 2.1.1: TUI File recovery tool](https://www.reddit.com/r/Python/comments/16w90kc/recoverpy_211_tui_file_recovery_tool/)
 - [Python in Hacktoberfest](https://www.reddit.com/r/Python/comments/16w7dyq/python_in_hacktoberfest/)
-- [mathematical challenge worth a grade](https://www.reddit.com/r/Python/comments/16w6ceu/mathematical_challenge_worth_a_grade/)
 - [Python in VS Code [Beginner Tutorial]](https://www.reddit.com/r/Python/comments/16w4x1s/python_in_vs_code_beginner_tutorial/)
-- [Please i need help with my code](https://www.reddit.com/r/Python/comments/16w4sw8/please_i_need_help_with_my_code/)
-- [Aura Text: IDE made with Python](https://www.reddit.com/r/Python/comments/16w3v0t/aura_text_ide_made_with_python/)
 <!-- BLOG-POST-LIST:END -->
