@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gevent based web framework that aims to outperform asgi ?](https://www.reddit.com/r/Python/comments/16wjypy/gevent_based_web_framework_that_aims_to/)
 - [Swiss Army Llama: Do tons of useful stuff with local LLMs with a REST API &lpar;written in Python&rpar;](https://www.reddit.com/r/Python/comments/16wj5oc/swiss_army_llama_do_tons_of_useful_stuff_with/)
 - [I wrote browser_cookie3 in Rust for Python!](https://www.reddit.com/r/Python/comments/16wj14c/i_wrote_browser_cookie3_in_rust_for_python/)
 - [Web Scraping In Python: A Beginners Guide](https://www.reddit.com/r/Python/comments/16wi8rx/web_scraping_in_python_a_beginners_guide/)
 - [Does async with await optimize Python?](https://www.reddit.com/r/Python/comments/16weoly/does_async_with_await_optimize_python/)
-- [Is it too soon to persue a carrer in AI?](https://www.reddit.com/r/Python/comments/16weg4r/is_it_too_soon_to_persue_a_carrer_in_ai/)
 <!-- BLOG-POST-LIST:END -->
