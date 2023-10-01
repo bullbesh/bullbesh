@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flask and Quart have now partially merged](https://www.reddit.com/r/Python/comments/16wvx34/flask_and_quart_have_now_partially_merged/)
+- [I shared Data Science Project &lpar;Data Analysis &amp; Machine Learning&rpar; video on YouTube](https://www.reddit.com/r/Python/comments/16wvtna/i_shared_data_science_project_data_analysis/)
 - [LEARNING PYTHON WITHIN 30 DAYS](https://www.reddit.com/r/Python/comments/16wukrk/learning_python_within_30_days/)
 - [Easily Web Scrape any Data using Pandas!](https://www.reddit.com/r/Python/comments/16ws3g9/easily_web_scrape_any_data_using_pandas/)
 - [What finance libraries/APIs do you use?](https://www.reddit.com/r/Python/comments/16wprz9/what_finance_librariesapis_do_you_use/)
-- [What&#39;s your favorite use of python?](https://www.reddit.com/r/Python/comments/16wnao8/whats_your_favorite_use_of_python/)
-- [Tried to explain the random package. Any feedback, suggestions ?](https://www.reddit.com/r/Python/comments/16wmg9c/tried_to_explain_the_random_package_any_feedback/)
 <!-- BLOG-POST-LIST:END -->
