@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Gevent based web framework that aims to outperform asgi ?](https://www.reddit.com/r/Python/comments/16wjypy/gevent_based_web_framework_that_aims_to/)
-- [Swiss Army Llama: Do tons of useful stuff with local LLMs with a REST API &lpar;written in Python&rpar;](https://www.reddit.com/r/Python/comments/16wj5oc/swiss_army_llama_do_tons_of_useful_stuff_with/)
-- [I wrote browser_cookie3 in Rust for Python!](https://www.reddit.com/r/Python/comments/16wj14c/i_wrote_browser_cookie3_in_rust_for_python/)
-- [Web Scraping In Python: A Beginners Guide](https://www.reddit.com/r/Python/comments/16wi8rx/web_scraping_in_python_a_beginners_guide/)
-- [Does async with await optimize Python?](https://www.reddit.com/r/Python/comments/16weoly/does_async_with_await_optimize_python/)
+- [Dear programmers, please save my life!](https://www.reddit.com/r/Python/comments/16wntlq/dear_programmers_please_save_my_life/)
+- [What&#39;s your favorite use of python?](https://www.reddit.com/r/Python/comments/16wnao8/whats_your_favorite_use_of_python/)
+- [Tried to explain the random package. Any feedback, suggestions ?](https://www.reddit.com/r/Python/comments/16wmg9c/tried_to_explain_the_random_package_any_feedback/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/16wm3d8/sunday_daily_thread_whats_everyone_working_on/)
+- [Pong in ASMR and Python](https://www.reddit.com/r/Python/comments/16wl7ct/pong_in_asmr_and_python/)
 <!-- BLOG-POST-LIST:END -->
