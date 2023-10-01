@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How can lamination parameters for composites coded into python?](https://www.reddit.com/r/Python/comments/16x7zbn/how_can_lamination_parameters_for_composites/)
+- [FastAPI PR’s are getting out of control now….](https://www.reddit.com/r/Python/comments/16x7kr8/fastapi_prs_are_getting_out_of_control_now/)
+- [AI-Driven Automation for Database Apps](https://www.reddit.com/r/Python/comments/16x6t0y/aidriven_automation_for_database_apps/)
 - [Help a noobie](https://www.reddit.com/r/Python/comments/16x5i64/help_a_noobie/)
 - [Check out My Handcrafted GPU-Accelerated Neural Network on GitHub!](https://www.reddit.com/r/Python/comments/16x3tww/check_out_my_handcrafted_gpuaccelerated_neural/)
-- [Python Tutorial: Lambda Functions](https://www.reddit.com/r/Python/comments/16x3s08/python_tutorial_lambda_functions/)
-- [What&#39;s up Python: Jupyter more popular than Vim, VSCode in Excel and a button](https://www.reddit.com/r/Python/comments/16x3qsw/whats_up_python_jupyter_more_popular_than_vim/)
-- [Installing libraries](https://www.reddit.com/r/Python/comments/16x3jki/installing_libraries/)
 <!-- BLOG-POST-LIST:END -->
