@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Tutorial: Lambda Functions](https://www.reddit.com/r/Python/comments/16x3s08/python_tutorial_lambda_functions/)
+- [What&#39;s up Python: Jupyter more popular than Vim, VSCode in Excel and a button](https://www.reddit.com/r/Python/comments/16x3qsw/whats_up_python_jupyter_more_popular_than_vim/)
+- [Installing libraries](https://www.reddit.com/r/Python/comments/16x3jki/installing_libraries/)
+- [Is everyone excited about tomorrow for the big 3.12 release?](https://www.reddit.com/r/Python/comments/16x36mr/is_everyone_excited_about_tomorrow_for_the_big/)
 - [Mongolite - SQLite for MongoDB](https://www.reddit.com/r/Python/comments/16x219d/mongolite_sqlite_for_mongodb/)
-- [ML Data Version Control and Reproducibility at Scale](https://www.reddit.com/r/Python/comments/16x1hws/ml_data_version_control_and_reproducibility_at/)
-- [Effortless Task Scheduling with Python’s Schedule Package](https://www.reddit.com/r/Python/comments/16wy7sq/effortless_task_scheduling_with_pythons_schedule/)
-- [What are your opinions on sololearn to learn Python?](https://www.reddit.com/r/Python/comments/16wxqvp/what_are_your_opinions_on_sololearn_to_learn/)
-- [Flask and Quart have now partially merged](https://www.reddit.com/r/Python/comments/16wvx34/flask_and_quart_have_now_partially_merged/)
 <!-- BLOG-POST-LIST:END -->
