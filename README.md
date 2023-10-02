@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Lab Equipment into pytest-Based Tests](https://www.reddit.com/r/Python/comments/16y3zph/integrating_lab_equipment_into_pytestbased_tests/)
+- [Given Unity playing stupid, I am deciding to switch from C# to Python to start](https://www.reddit.com/r/Python/comments/16y2gg7/given_unity_playing_stupid_i_am_deciding_to/)
+- [*rant* I hate FastAI&#39;s documentation.](https://www.reddit.com/r/Python/comments/16y2d24/rant_i_hate_fastais_documentation/)
 - [Python Data Analysis: What Do We Know About Pop Songs? [Article]](https://www.reddit.com/r/Python/comments/16y1fqi/python_data_analysis_what_do_we_know_about_pop/)
 - [Python 3.12 released](https://www.reddit.com/r/Python/comments/16y0op4/python_312_released/)
-- [Somple ai in python that can be trained and learn](https://www.reddit.com/r/Python/comments/16xzfem/somple_ai_in_python_that_can_be_trained_and_learn/)
-- [Introducing EconomicAgents: A Python Package for Simulating Economic Agents Inspired by John J Horton&#39;s Paper](https://www.reddit.com/r/Python/comments/16xybl0/introducing_economicagents_a_python_package_for/)
-- [[Video] *args and **kwargs in 2 Minutes - No Jargon, Straightforward Explanation](https://www.reddit.com/r/Python/comments/16xx8xl/video_args_and_kwargs_in_2_minutes_no_jargon/)
 <!-- BLOG-POST-LIST:END -->
