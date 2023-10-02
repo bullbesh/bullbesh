@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What problems does pydantic solves? and How should it be used](https://www.reddit.com/r/Python/comments/16xnhim/what_problems_does_pydantic_solves_and_how_should/)
+- [Is Googletrans legit?](https://www.reddit.com/r/Python/comments/16xnhbg/is_googletrans_legit/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/16xhc9v/monday_daily_thread_project_ideas/)
 - [Analyze robots.txt with Python Standard Library](https://www.reddit.com/r/Python/comments/16xh7p4/analyze_robotstxt_with_python_standard_library/)
 - [Unraveling Redis Applications with Python](https://www.reddit.com/r/Python/comments/16xdx4c/unraveling_redis_applications_with_python/)
-- [Want to see if your project could work under PyPy easily?](https://www.reddit.com/r/Python/comments/16x8xeh/want_to_see_if_your_project_could_work_under_pypy/)
-- [PyPI Lookup - Python Package Name Checker](https://www.reddit.com/r/Python/comments/16x8wyg/pypi_lookup_python_package_name_checker/)
 <!-- BLOG-POST-LIST:END -->
