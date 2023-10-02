@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Coder Help](https://www.reddit.com/r/Python/comments/16y0s4s/new_coder_help/)
+- [Python 3.12 released](https://www.reddit.com/r/Python/comments/16y0op4/python_312_released/)
+- [Somple ai in python that can be trained and learn](https://www.reddit.com/r/Python/comments/16xzfem/somple_ai_in_python_that_can_be_trained_and_learn/)
 - [Introducing EconomicAgents: A Python Package for Simulating Economic Agents Inspired by John J Horton&#39;s Paper](https://www.reddit.com/r/Python/comments/16xybl0/introducing_economicagents_a_python_package_for/)
 - [[Video] *args and **kwargs in 2 Minutes - No Jargon, Straightforward Explanation](https://www.reddit.com/r/Python/comments/16xx8xl/video_args_and_kwargs_in_2_minutes_no_jargon/)
-- [Jupyter Chatbook multi cell LLM chats teaser video](https://www.reddit.com/r/Python/comments/16xwsby/jupyter_chatbook_multi_cell_llm_chats_teaser_video/)
-- [spasmlang: Simple Python Assembly Language](https://www.reddit.com/r/Python/comments/16xwgmf/spasmlang_simple_python_assembly_language/)
-- [Want to Know About, a model garden in Google Cloud Vertex AI, Check out this Blog Post.](https://www.reddit.com/r/Python/comments/16xvwln/want_to_know_about_a_model_garden_in_google_cloud/)
 <!-- BLOG-POST-LIST:END -->
