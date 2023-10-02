@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I need ideas for a game](https://www.reddit.com/r/Python/comments/16yarln/i_need_ideas_for_a_game/)
 - [App Wars: Streamlit vs Shiny vs Dash](https://www.reddit.com/r/Python/comments/16y9uv3/app_wars_streamlit_vs_shiny_vs_dash/)
 - [YouShazam - Download your Shazam playlist from YouTube](https://www.reddit.com/r/Python/comments/16y7erl/youshazam_download_your_shazam_playlist_from/)
 - [FastStream 0.2.0: NATS support added an easy-to-use library for building asynchronous services with event streams](https://www.reddit.com/r/Python/comments/16y4wor/faststream_020_nats_support_added_an_easytouse/)
 - [GitHub - benibenj/vscode-pythonCpp: A Visual Studio Code Debug Extension for debugging mixed Python and C++ code.](https://www.reddit.com/r/Python/comments/16y4amg/github_benibenjvscodepythoncpp_a_visual_studio/)
-- [Integrating Lab Equipment into pytest-Based Tests](https://www.reddit.com/r/Python/comments/16y3zph/integrating_lab_equipment_into_pytestbased_tests/)
 <!-- BLOG-POST-LIST:END -->
