@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to install python on vscode](https://www.reddit.com/r/Python/comments/16xv0qa/how_to_install_python_on_vscode/)
+- [spasmlang: Simple Python Assembly Language](https://www.reddit.com/r/Python/comments/16xwgmf/spasmlang_simple_python_assembly_language/)
+- [Share your open-source Python project!](https://www.reddit.com/r/Python/comments/16xw8fv/share_your_opensource_python_project/)
+- [Want to Know About, a model garden in Google Cloud Vertex AI, Check out this Blog Post.](https://www.reddit.com/r/Python/comments/16xvwln/want_to_know_about_a_model_garden_in_google_cloud/)
+- [Looking for recommendations for GraphQL clients and/or good examples of libraries that act as a wrapper for a GraphQL API](https://www.reddit.com/r/Python/comments/16xviit/looking_for_recommendations_for_graphql_clients/)
 - [Business logic in the controllers](https://www.reddit.com/r/Python/comments/16xqpof/business_logic_in_the_controllers/)
-- [Square pass a cli based multi-platform password manager.](https://www.reddit.com/r/Python/comments/16xqp3d/square_pass_a_cli_based_multiplatform_password/)
-- [I finished learning the basics of Pandas from Corey Schaffer &amp; here are my notes on GitHub](https://www.reddit.com/r/Python/comments/16xos4x/i_finished_learning_the_basics_of_pandas_from/)
-- [What problems does pydantic solves? and How should it be used](https://www.reddit.com/r/Python/comments/16xnhim/what_problems_does_pydantic_solves_and_how_should/)
 <!-- BLOG-POST-LIST:END -->
