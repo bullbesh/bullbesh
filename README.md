@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastStream 0.2.0: NATS support added an easy-to-use library for building asynchronous services with event streams](https://www.reddit.com/r/Python/comments/16y4wor/faststream_020_nats_support_added_an_easytouse/)
+- [GitHub - benibenj/vscode-pythonCpp: A Visual Studio Code Debug Extension for debugging mixed Python and C++ code.](https://www.reddit.com/r/Python/comments/16y4amg/github_benibenjvscodepythoncpp_a_visual_studio/)
 - [Integrating Lab Equipment into pytest-Based Tests](https://www.reddit.com/r/Python/comments/16y3zph/integrating_lab_equipment_into_pytestbased_tests/)
 - [Given Unity playing stupid, I am deciding to switch from C# to Python to start](https://www.reddit.com/r/Python/comments/16y2gg7/given_unity_playing_stupid_i_am_deciding_to/)
 - [*rant* I hate FastAI&#39;s documentation.](https://www.reddit.com/r/Python/comments/16y2d24/rant_i_hate_fastais_documentation/)
-- [Python Data Analysis: What Do We Know About Pop Songs? [Article]](https://www.reddit.com/r/Python/comments/16y1fqi/python_data_analysis_what_do_we_know_about_pop/)
-- [Python 3.12 released](https://www.reddit.com/r/Python/comments/16y0op4/python_312_released/)
 <!-- BLOG-POST-LIST:END -->
