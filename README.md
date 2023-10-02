@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Video] *args and **kwargs in 2 Minutes - No Jargon, Straightforward Explanation](https://www.reddit.com/r/Python/comments/16xx8xl/video_args_and_kwargs_in_2_minutes_no_jargon/)
+- [Jupyter Chatbook multi cell LLM chats teaser video](https://www.reddit.com/r/Python/comments/16xwsby/jupyter_chatbook_multi_cell_llm_chats_teaser_video/)
 - [spasmlang: Simple Python Assembly Language](https://www.reddit.com/r/Python/comments/16xwgmf/spasmlang_simple_python_assembly_language/)
-- [Share your open-source Python project!](https://www.reddit.com/r/Python/comments/16xw8fv/share_your_opensource_python_project/)
 - [Want to Know About, a model garden in Google Cloud Vertex AI, Check out this Blog Post.](https://www.reddit.com/r/Python/comments/16xvwln/want_to_know_about_a_model_garden_in_google_cloud/)
 - [Looking for recommendations for GraphQL clients and/or good examples of libraries that act as a wrapper for a GraphQL API](https://www.reddit.com/r/Python/comments/16xviit/looking_for_recommendations_for_graphql_clients/)
-- [Business logic in the controllers](https://www.reddit.com/r/Python/comments/16xqpof/business_logic_in_the_controllers/)
 <!-- BLOG-POST-LIST:END -->
