@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [New Coder Help](https://www.reddit.com/r/Python/comments/16y0s4s/new_coder_help/)
+- [Python Data Analysis: What Do We Know About Pop Songs? [Article]](https://www.reddit.com/r/Python/comments/16y1fqi/python_data_analysis_what_do_we_know_about_pop/)
 - [Python 3.12 released](https://www.reddit.com/r/Python/comments/16y0op4/python_312_released/)
 - [Somple ai in python that can be trained and learn](https://www.reddit.com/r/Python/comments/16xzfem/somple_ai_in_python_that_can_be_trained_and_learn/)
 - [Introducing EconomicAgents: A Python Package for Simulating Economic Agents Inspired by John J Horton&#39;s Paper](https://www.reddit.com/r/Python/comments/16xybl0/introducing_economicagents_a_python_package_for/)
