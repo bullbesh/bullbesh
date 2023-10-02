@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/16xhc9v/monday_daily_thread_project_ideas/)
+- [Analyze robots.txt with Python Standard Library](https://www.reddit.com/r/Python/comments/16xh7p4/analyze_robotstxt_with_python_standard_library/)
 - [Unraveling Redis Applications with Python](https://www.reddit.com/r/Python/comments/16xdx4c/unraveling_redis_applications_with_python/)
 - [How to download video from YouTube using python?](https://www.reddit.com/r/Python/comments/16xaxjt/how_to_download_video_from_youtube_using_python/)
 - [Want to see if your project could work under PyPy easily?](https://www.reddit.com/r/Python/comments/16x8xeh/want_to_see_if_your_project_could_work_under_pypy/)
-- [PyPI Lookup - Python Package Name Checker](https://www.reddit.com/r/Python/comments/16x8wyg/pypi_lookup_python_package_name_checker/)
-- [How can lamination parameters for composites coded into python?](https://www.reddit.com/r/Python/comments/16x7zbn/how_can_lamination_parameters_for_composites/)
 <!-- BLOG-POST-LIST:END -->
