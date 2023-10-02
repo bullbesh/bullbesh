@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I finished learning the basics of Pandas from Corey Schaffer &amp; here are my notes on GitHub](https://www.reddit.com/r/Python/comments/16xos4x/i_finished_learning_the_basics_of_pandas_from/)
 - [What problems does pydantic solves? and How should it be used](https://www.reddit.com/r/Python/comments/16xnhim/what_problems_does_pydantic_solves_and_how_should/)
 - [Is Googletrans legit?](https://www.reddit.com/r/Python/comments/16xnhbg/is_googletrans_legit/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/16xhc9v/monday_daily_thread_project_ideas/)
 - [Analyze robots.txt with Python Standard Library](https://www.reddit.com/r/Python/comments/16xh7p4/analyze_robotstxt_with_python_standard_library/)
-- [Unraveling Redis Applications with Python](https://www.reddit.com/r/Python/comments/16xdx4c/unraveling_redis_applications_with_python/)
 <!-- BLOG-POST-LIST:END -->
