@@ -11,6 +11,6 @@
 - [What are the differences between Python 3.12 sub-interpreters and multithreading/multiprocessing?](https://www.reddit.com/r/Python/comments/16yw7zt/what_are_the_differences_between_python_312/)
 - [Ideas: making it easier to extend Python’s syntax](https://www.reddit.com/r/Python/comments/16yv4ww/ideas_making_it_easier_to_extend_pythons_syntax/)
 - [Hikaru 1.1.0 released: new application capability, new slimmer packaging](https://www.reddit.com/r/Python/comments/16yuaqr/hikaru_110_released_new_application_capability/)
-- [Python Interview Question &amp; Answers](https://www.reddit.com/r/Python/comments/16yttd2/python_interview_question_answers/)
 - [Want to Know About, Google Cloud Vertex AI Platform Extensions, Connectors, Grounding, and More, Check out this Amazing Blog Post.](https://www.reddit.com/r/Python/comments/16ystxv/want_to_know_about_google_cloud_vertex_ai/)
+- [Python 3.12: Cool New Features for You to Try – Real Python](https://www.reddit.com/r/Python/comments/16ypqz1/python_312_cool_new_features_for_you_to_try_real/)
 <!-- BLOG-POST-LIST:END -->
