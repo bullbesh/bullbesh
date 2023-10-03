@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Theoretical Approach to Trees](https://www.reddit.com/r/Python/comments/16yekm3/theoretical_approach_to_trees/)
 - [Created a &quot;Quote!-Quiz using the &quot;quotes.txt&quot; from github](https://www.reddit.com/r/Python/comments/16ydvnc/created_a_quotequiz_using_the_quotestxt_from/)
 - [Check out my runtime type checker library &lpar;type-strict&rpar;!](https://www.reddit.com/r/Python/comments/16ydfkb/check_out_my_runtime_type_checker_library/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/16ycujv/tuesday_daily_thread_advanced_questions/)
 - [App Wars: Streamlit vs Shiny vs Dash](https://www.reddit.com/r/Python/comments/16y9uv3/app_wars_streamlit_vs_shiny_vs_dash/)
-- [YouShazam - Download your Shazam playlist from YouTube](https://www.reddit.com/r/Python/comments/16y7erl/youshazam_download_your_shazam_playlist_from/)
 <!-- BLOG-POST-LIST:END -->
