@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hikaru 1.1.0 released: new application capability, new slimmer packaging](https://www.reddit.com/r/Python/comments/16yuaqr/hikaru_110_released_new_application_capability/)
+- [Python Interview Question &amp; Answers](https://www.reddit.com/r/Python/comments/16yttd2/python_interview_question_answers/)
 - [Want to Know About, Google Cloud Vertex AI Platform Extensions, Connectors, Grounding, and More, Check out this Amazing Blog Post.](https://www.reddit.com/r/Python/comments/16ystxv/want_to_know_about_google_cloud_vertex_ai/)
 - [Python 3.12: What&#39;s New](https://www.reddit.com/r/Python/comments/16ysov2/python_312_whats_new/)
 - [Python 3.12: Cool New Features for You to Try – Real Python](https://www.reddit.com/r/Python/comments/16ypqz1/python_312_cool_new_features_for_you_to_try_real/)
-- [Dimensional input parameters and units](https://www.reddit.com/r/Python/comments/16yn6zq/dimensional_input_parameters_and_units/)
-- [Babel now supports f-strings](https://www.reddit.com/r/Python/comments/16yn3jz/babel_now_supports_fstrings/)
 <!-- BLOG-POST-LIST:END -->
