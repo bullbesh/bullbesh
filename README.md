@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What made you overcome challenges you face as a dev. What are cheats for overcoming these challenges.](https://www.reddit.com/r/Python/comments/16yh6kt/what_made_you_overcome_challenges_you_face_as_a/)
+- [What are your thoughts on python](https://www.reddit.com/r/Python/comments/16yiigh/what_are_your_thoughts_on_python/)
+- [What got you into python or programming in general](https://www.reddit.com/r/Python/comments/16yii08/what_got_you_into_python_or_programming_in_general/)
+- [What python editor like pycharm do you use](https://www.reddit.com/r/Python/comments/16yihef/what_python_editor_like_pycharm_do_you_use/)
+- [What is the single worst mistake a programmer can make](https://www.reddit.com/r/Python/comments/16yignk/what_is_the_single_worst_mistake_a_programmer_can/)
 - [Theoretical Approach to Trees](https://www.reddit.com/r/Python/comments/16yekm3/theoretical_approach_to_trees/)
-- [Created a &quot;Quote!-Quiz using the &quot;quotes.txt&quot; from github](https://www.reddit.com/r/Python/comments/16ydvnc/created_a_quotequiz_using_the_quotestxt_from/)
-- [Check out my runtime type checker library &lpar;type-strict&rpar;!](https://www.reddit.com/r/Python/comments/16ydfkb/check_out_my_runtime_type_checker_library/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/16ycujv/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
