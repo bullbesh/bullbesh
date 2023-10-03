@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I need ideas for a game](https://www.reddit.com/r/Python/comments/16yarln/i_need_ideas_for_a_game/)
+- [Created a &quot;Quote!-Quiz using the &quot;quotes.txt&quot; from github](https://www.reddit.com/r/Python/comments/16ydvnc/created_a_quotequiz_using_the_quotestxt_from/)
+- [Check out my runtime type checker library &lpar;type-strict&rpar;!](https://www.reddit.com/r/Python/comments/16ydfkb/check_out_my_runtime_type_checker_library/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/16ycujv/tuesday_daily_thread_advanced_questions/)
 - [App Wars: Streamlit vs Shiny vs Dash](https://www.reddit.com/r/Python/comments/16y9uv3/app_wars_streamlit_vs_shiny_vs_dash/)
 - [YouShazam - Download your Shazam playlist from YouTube](https://www.reddit.com/r/Python/comments/16y7erl/youshazam_download_your_shazam_playlist_from/)
-- [FastStream 0.2.0: NATS support added an easy-to-use library for building asynchronous services with event streams](https://www.reddit.com/r/Python/comments/16y4wor/faststream_020_nats_support_added_an_easytouse/)
-- [GitHub - benibenj/vscode-pythonCpp: A Visual Studio Code Debug Extension for debugging mixed Python and C++ code.](https://www.reddit.com/r/Python/comments/16y4amg/github_benibenjvscodepythoncpp_a_visual_studio/)
 <!-- BLOG-POST-LIST:END -->
