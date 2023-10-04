@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Running a script against an existing software?](https://www.reddit.com/r/Python/comments/16zik9t/running_a_script_against_an_existing_software/)
 - [From HTTP to gRPC: Trials, tribulations and triumphs of porting our Python SDK | Cerbos](https://www.reddit.com/r/Python/comments/16zgmat/from_http_to_grpc_trials_tribulations_and/)
 - [https://youtu.be/htXMmzZKmsk?si=pAjF6UhdgHEBIZyl](https://www.reddit.com/r/Python/comments/16zghjy/httpsyoutubehtxmmzzkmsksipajf6uhdghebizyl/)
 - [PEP 729 – Typing governance process](https://www.reddit.com/r/Python/comments/16zfghv/pep_729_typing_governance_process/)
 - [Travelling hobby coder what do you suggest?](https://www.reddit.com/r/Python/comments/16zesya/travelling_hobby_coder_what_do_you_suggest/)
-- [how can I utilize AI with Python simultaneously?](https://www.reddit.com/r/Python/comments/16zeg1x/how_can_i_utilize_ai_with_python_simultaneously/)
 <!-- BLOG-POST-LIST:END -->
