@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for a website that has codes to solve from beginner to advanced level . I learnt from YouTube so it was pretty much passive . Now I wanna apply it .](https://www.reddit.com/r/Python/comments/16zlpc5/looking_for_a_website_that_has_codes_to_solve/)
+- [Looking for a final year university project in python.](https://www.reddit.com/r/Python/comments/16zleth/looking_for_a_final_year_university_project_in/)
+- [Windows in python](https://www.reddit.com/r/Python/comments/16zkha2/windows_in_python/)
 - [How to setup duration based profiling in Sentry &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/16zk6ag/how_to_setup_duration_based_profiling_in_sentry/)
 - [.append&lpar;&rpar; or +=](https://www.reddit.com/r/Python/comments/16zjs6e/append_or/)
-- [Running a script against an existing software?](https://www.reddit.com/r/Python/comments/16zik9t/running_a_script_against_an_existing_software/)
-- [From HTTP to gRPC: Trials, tribulations and triumphs of porting our Python SDK | Cerbos](https://www.reddit.com/r/Python/comments/16zgmat/from_http_to_grpc_trials_tribulations_and/)
-- [https://youtu.be/htXMmzZKmsk?si=pAjF6UhdgHEBIZyl](https://www.reddit.com/r/Python/comments/16zghjy/httpsyoutubehtxmmzzkmsksipajf6uhdghebizyl/)
 <!-- BLOG-POST-LIST:END -->
