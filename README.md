@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [What are your favourite tutorials and resources to learn numpy ?](https://www.reddit.com/r/Python/comments/16zagp5/what_are_your_favourite_tutorials_and_resources/)
 - [Best beginner-friendly/modern GUI library for python?](https://www.reddit.com/r/Python/comments/16za40l/best_beginnerfriendlymodern_gui_library_for_python/)
-- [Alpha](https://www.reddit.com/r/Python/comments/16z87co/alpha/)
 - [Python Dev CLI is a powerful, lightweight utility that enables you and your team to run custom scripts defined in your pyproject.toml file.](https://www.reddit.com/r/Python/comments/16z8356/python_dev_cli_is_a_powerful_lightweight_utility/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/16z7wt5/wednesday_daily_thread_beginner_questions/)
+- [BriskAPI lightweight ASGI framework with only jsonschema as a dependency](https://www.reddit.com/r/Python/comments/16z78fy/briskapi_lightweight_asgi_framework_with_only/)
 <!-- BLOG-POST-LIST:END -->
