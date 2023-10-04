@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing textual-plotext](https://www.reddit.com/r/Python/comments/16zn23l/announcing_textualplotext/)
+- [MyTimer v0.9: A Geeky Timer for Terminal Enthusiasts](https://www.reddit.com/r/Python/comments/16zn1fr/mytimer_v09_a_geeky_timer_for_terminal_enthusiasts/)
+- [Strong typing, a hill I&#39;m willing to die on...](https://www.reddit.com/r/Python/comments/16zmkeg/strong_typing_a_hill_im_willing_to_die_on/)
+- [I’m developing a programming game where you use Python to automate all kinds of machines, robots, drones and more. A demo version is now available!](https://www.reddit.com/r/Python/comments/16zm1ic/im_developing_a_programming_game_where_you_use/)
 - [Looking for a website that has codes to solve from beginner to advanced level . I learnt from YouTube so it was pretty much passive . Now I wanna apply it .](https://www.reddit.com/r/Python/comments/16zlpc5/looking_for_a_website_that_has_codes_to_solve/)
-- [Looking for a final year university project in python.](https://www.reddit.com/r/Python/comments/16zleth/looking_for_a_final_year_university_project_in/)
-- [Windows in python](https://www.reddit.com/r/Python/comments/16zkha2/windows_in_python/)
-- [How to setup duration based profiling in Sentry &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/16zk6ag/how_to_setup_duration_based_profiling_in_sentry/)
-- [.append&lpar;&rpar; or +=](https://www.reddit.com/r/Python/comments/16zjs6e/append_or/)
 <!-- BLOG-POST-LIST:END -->
