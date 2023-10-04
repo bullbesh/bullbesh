@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Offering free coding tutoring](https://www.reddit.com/r/Python/comments/16zvfp7/offering_free_coding_tutoring/)
+- [Concurrent NumPy 7-Day Course](https://www.reddit.com/r/Python/comments/16zvar1/concurrent_numpy_7day_course/)
+- [Web Scraping using ChatGPT - Complete Guide with Examples](https://www.reddit.com/r/Python/comments/16zv9xi/web_scraping_using_chatgpt_complete_guide_with/)
+- [Workflows with LLM functions &lpar;in Python&rpar; - Wolfram Community](https://www.reddit.com/r/Python/comments/16zuvj6/workflows_with_llm_functions_in_python_wolfram/)
 - [Python 3.12 Advances Open Source Programming Language with New Features](https://www.reddit.com/r/Python/comments/16zsegw/python_312_advances_open_source_programming/)
-- [Profiling Python using eBPF](https://www.reddit.com/r/Python/comments/16zpid8/profiling_python_using_ebpf/)
-- [Announcing textual-plotext](https://www.reddit.com/r/Python/comments/16zn23l/announcing_textualplotext/)
-- [MyTimer v0.9: A Geeky Timer for Terminal Enthusiasts](https://www.reddit.com/r/Python/comments/16zn1fr/mytimer_v09_a_geeky_timer_for_terminal_enthusiasts/)
-- [I’m developing a programming game where you use Python to automate all kinds of machines, robots, drones and more. A demo version is now available!](https://www.reddit.com/r/Python/comments/16zm1ic/im_developing_a_programming_game_where_you_use/)
 <!-- BLOG-POST-LIST:END -->
