@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [https://youtu.be/htXMmzZKmsk?si=pAjF6UhdgHEBIZyl](https://www.reddit.com/r/Python/comments/16zghjy/httpsyoutubehtxmmzzkmsksipajf6uhdghebizyl/)
 - [PEP 729 – Typing governance process](https://www.reddit.com/r/Python/comments/16zfghv/pep_729_typing_governance_process/)
 - [Travelling hobby coder what do you suggest?](https://www.reddit.com/r/Python/comments/16zesya/travelling_hobby_coder_what_do_you_suggest/)
 - [how can I utilize AI with Python simultaneously?](https://www.reddit.com/r/Python/comments/16zeg1x/how_can_i_utilize_ai_with_python_simultaneously/)
 - [What are your favourite tutorials and resources to learn numpy ?](https://www.reddit.com/r/Python/comments/16zagp5/what_are_your_favourite_tutorials_and_resources/)
-- [Best beginner-friendly/modern GUI library for python?](https://www.reddit.com/r/Python/comments/16za40l/best_beginnerfriendlymodern_gui_library_for_python/)
 <!-- BLOG-POST-LIST:END -->
