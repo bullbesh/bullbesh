@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Course that can help you with the deployment part of things](https://www.reddit.com/r/Python/comments/170cw3h/course_that_can_help_you_with_the_deployment_part/)
 - [Anaconda or vs code](https://www.reddit.com/r/Python/comments/170bo76/anaconda_or_vs_code/)
 - [Understanding Python Variables: Namespaces and Variable Scope](https://www.reddit.com/r/Python/comments/170b9a1/understanding_python_variables_namespaces_and/)
 - [I developed a GUI to get Anime episode details just from a screenshot](https://www.reddit.com/r/Python/comments/170b4e9/i_developed_a_gui_to_get_anime_episode_details/)
 - [Why Are There So Many Python Dataframes?](https://www.reddit.com/r/Python/comments/170avwv/why_are_there_so_many_python_dataframes/)
-- [The Complete BeautifulSoup Cheatsheet with Examples](https://www.reddit.com/r/Python/comments/170952g/the_complete_beautifulsoup_cheatsheet_with/)
 <!-- BLOG-POST-LIST:END -->
