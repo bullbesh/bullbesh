@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1702zrx/thursday_daily_thread_python_careers_courses_and/)
 - [Made a youtube video, trying to explain tuples ^^ Any suggestions and feedback regarding my failure :&rpar;](https://www.reddit.com/r/Python/comments/1701m0v/made_a_youtube_video_trying_to_explain_tuples_any/)
-- [Websites to learn Python](https://www.reddit.com/r/Python/comments/17015xc/websites_to_learn_python/)
 - [Austin -- CPython frame stack sampler v3.6 is now available](https://www.reddit.com/r/Python/comments/1700vqm/austin_cpython_frame_stack_sampler_v36_is_now/)
-- [Pyautogui screenshot region not working &lpar;mac m2&rpar;](https://www.reddit.com/r/Python/comments/16zzy5o/pyautogui_screenshot_region_not_working_mac_m2/)
+- [Offering free coding tutoring](https://www.reddit.com/r/Python/comments/16zvfp7/offering_free_coding_tutoring/)
+- [Concurrent NumPy 7-Day Course](https://www.reddit.com/r/Python/comments/16zvar1/concurrent_numpy_7day_course/)
 <!-- BLOG-POST-LIST:END -->
