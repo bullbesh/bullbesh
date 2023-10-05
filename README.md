@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting into Python.](https://www.reddit.com/r/Python/comments/1708bx2/getting_into_python/)
+- [what do you think of a telegram bot that can summarize videos and articles in your group chat?](https://www.reddit.com/r/Python/comments/17087yg/what_do_you_think_of_a_telegram_bot_that_can/)
+- [Basic python project: Flash Card App using Tkinter](https://www.reddit.com/r/Python/comments/17080xl/basic_python_project_flash_card_app_using_tkinter/)
+- [Python 3.12.0 from a supply chain security perspective](https://www.reddit.com/r/Python/comments/1707unu/python_3120_from_a_supply_chain_security/)
 - [I made a library for extracting cookies](https://www.reddit.com/r/Python/comments/1706he7/i_made_a_library_for_extracting_cookies/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1702zrx/thursday_daily_thread_python_careers_courses_and/)
-- [Made a youtube video, trying to explain tuples ^^ Any suggestions and feedback regarding my failure :&rpar;](https://www.reddit.com/r/Python/comments/1701m0v/made_a_youtube_video_trying_to_explain_tuples_any/)
-- [Austin -- CPython frame stack sampler v3.6 is now available](https://www.reddit.com/r/Python/comments/1700vqm/austin_cpython_frame_stack_sampler_v36_is_now/)
-- [Offering free coding tutoring](https://www.reddit.com/r/Python/comments/16zvfp7/offering_free_coding_tutoring/)
 <!-- BLOG-POST-LIST:END -->
