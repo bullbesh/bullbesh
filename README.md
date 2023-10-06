@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just release my 3D viewer module on pypi! Please try it?](https://www.reddit.com/r/Python/comments/1715sdw/just_release_my_3d_viewer_module_on_pypi_please/)
+- [Cost/Memory overhead of object initializing in Python/fastapi](https://www.reddit.com/r/Python/comments/1715nqc/costmemory_overhead_of_object_initializing_in/)
+- [Should I consider electron or cefpython for desktop app?](https://www.reddit.com/r/Python/comments/17153xa/should_i_consider_electron_or_cefpython_for/)
 - [Trying to import module aNorm for Python in Maya 2024?](https://www.reddit.com/r/Python/comments/1713bij/trying_to_import_module_anorm_for_python_in_maya/)
 - [A sad story about ChatGPT](https://www.reddit.com/r/Python/comments/1711jue/a_sad_story_about_chatgpt/)
-- [From Epi in Python book, first problem that is described on page 1…what will be the output if the input is as…](https://www.reddit.com/r/Python/comments/1711eu6/from_epi_in_python_book_first_problem_that_is/)
-- [KL Divergence - Intuition and Math clearly explained &lpar;in Python&rpar;](https://www.reddit.com/r/Python/comments/17113we/kl_divergence_intuition_and_math_clearly/)
-- [Ssl error when ‘make’ python 3.12 install on Linux](https://www.reddit.com/r/Python/comments/170yc1t/ssl_error_when_make_python_312_install_on_linux/)
 <!-- BLOG-POST-LIST:END -->
