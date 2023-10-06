@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made a Tutorial regarding Enumerations in Python, any feedback ?](https://www.reddit.com/r/Python/comments/171d6bq/made_a_tutorial_regarding_enumerations_in_python/)
+- [How to convert &lpar;speed up 100x&rpar; Python to Cython in Jupyter notebooks](https://www.reddit.com/r/Python/comments/171d5uj/how_to_convert_speed_up_100x_python_to_cython_in/)
+- [Ziggy Pydust: a toolkit for building native Python extensions in Zig](https://www.reddit.com/r/Python/comments/171cbsd/ziggy_pydust_a_toolkit_for_building_native_python/)
+- [Apple M2 Anaconda/Miniconda compatibility ?](https://www.reddit.com/r/Python/comments/171b1rt/apple_m2_anacondaminiconda_compatibility/)
 - [I made a minimal ten-segment encoder/decoder](https://www.reddit.com/r/Python/comments/1718l7f/i_made_a_minimal_tensegment_encoderdecoder/)
-- [hiding type annotations](https://www.reddit.com/r/Python/comments/1718g5f/hiding_type_annotations/)
-- [Image Captioning with ViT and GPT-2 - PyTorch only](https://www.reddit.com/r/Python/comments/17173as/image_captioning_with_vit_and_gpt2_pytorch_only/)
-- [Just release my 3D viewer module on pypi! Please try it?](https://www.reddit.com/r/Python/comments/1715sdw/just_release_my_3d_viewer_module_on_pypi_please/)
-- [Cost/Memory overhead of object initializing in Python/fastapi](https://www.reddit.com/r/Python/comments/1715nqc/costmemory_overhead_of_object_initializing_in/)
 <!-- BLOG-POST-LIST:END -->
