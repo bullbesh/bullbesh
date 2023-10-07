@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Schemas for Python Data Frames](https://www.reddit.com/r/Python/comments/17203xq/schemas_for_python_data_frames/)
 - [I recorded a Python PySpark Big Data Course and uploaded it on YouTube](https://www.reddit.com/r/Python/comments/171yesf/i_recorded_a_python_pyspark_big_data_course_and/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/171rw7l/saturday_daily_thread_resource_request_and/)
 - [Best way to take/store user input for use in an interactive festival graphic?](https://www.reddit.com/r/Python/comments/171n2c3/best_way_to_takestore_user_input_for_use_in_an/)
 - [How to Use ORTools Effectively for Linear Optimization](https://www.reddit.com/r/Python/comments/171ltl0/how_to_use_ortools_effectively_for_linear/)
-- [Hundreds of malicious Python packages found stealing sensitive data](https://www.reddit.com/r/Python/comments/171juq8/hundreds_of_malicious_python_packages_found/)
 <!-- BLOG-POST-LIST:END -->
