@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [hikaru-model-28 package released, also included in updated hikaru meta-package &lpar;not a chess program&rpar;](https://www.reddit.com/r/Python/comments/1724wsy/hikarumodel28_package_released_also_included_in/)
+- [Semantic search and chat with your codebase. Minimalistic and local first from cli.](https://www.reddit.com/r/Python/comments/1724qx1/semantic_search_and_chat_with_your_codebase/)
+- [Mocking and patching](https://www.reddit.com/r/Python/comments/17243dt/mocking_and_patching/)
 - [[UPDATE 1] I developed a GUI to get Anime episode details just from a screenshot](https://www.reddit.com/r/Python/comments/1723fe9/update_1_i_developed_a_gui_to_get_anime_episode/)
 - [Schemas for Python Data Frames](https://www.reddit.com/r/Python/comments/17203xq/schemas_for_python_data_frames/)
-- [I recorded a Python PySpark Big Data Course and uploaded it on YouTube](https://www.reddit.com/r/Python/comments/171yesf/i_recorded_a_python_pyspark_big_data_course_and/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/171rw7l/saturday_daily_thread_resource_request_and/)
-- [Best way to take/store user input for use in an interactive festival graphic?](https://www.reddit.com/r/Python/comments/171n2c3/best_way_to_takestore_user_input_for_use_in_an/)
 <!-- BLOG-POST-LIST:END -->
