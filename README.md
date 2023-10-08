@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Open-Code-Interpreter](https://www.reddit.com/r/Python/comments/172mzgb/opencodeinterpreter/)
-- [Jupyter Chatbook LLM cells demo](https://www.reddit.com/r/Python/comments/172mcet/jupyter_chatbook_llm_cells_demo/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/172ku9q/sunday_daily_thread_whats_everyone_working_on/)
-- [Am I the only one that hates how strict pylint is?](https://www.reddit.com/r/Python/comments/172iuzf/am_i_the_only_one_that_hates_how_strict_pylint_is/)
-- [The Lightning-fast Pace of Polars Fuels the Development of Peaks](https://www.reddit.com/r/Python/comments/172b32q/the_lightningfast_pace_of_polars_fuels_the/)
+- [Calling Rust from Python](https://www.reddit.com/r/Python/comments/1733gl6/calling_rust_from_python/)
+- [Rocket Chat Async implementation](https://www.reddit.com/r/Python/comments/1732lox/rocket_chat_async_implementation/)
+- [Introducing: Mussolini Sort](https://www.reddit.com/r/Python/comments/1731hsl/introducing_mussolini_sort/)
+- [Create and Integrate MySQL Database with the Flask App](https://www.reddit.com/r/Python/comments/173152k/create_and_integrate_mysql_database_with_the/)
+- [pytheus 0.5.0 - try it without changing code &amp; new improved samples generation](https://www.reddit.com/r/Python/comments/172wqgn/pytheus_050_try_it_without_changing_code_new/)
 <!-- BLOG-POST-LIST:END -->
