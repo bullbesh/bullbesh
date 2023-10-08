@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [new graphql client library](https://www.reddit.com/r/Python/comments/173b5nw/new_graphql_client_library/)
+- [Whatever happened to the faster-cpython project?](https://www.reddit.com/r/Python/comments/173azue/whatever_happened_to_the_fastercpython_project/)
+- [Introducing interactive_buttons !](https://www.reddit.com/r/Python/comments/173ahlr/introducing_interactive_buttons/)
 - [3d plotting for robotics](https://www.reddit.com/r/Python/comments/173a104/3d_plotting_for_robotics/)
-- [Best Python Projects to Read Through for Learning](https://www.reddit.com/r/Python/comments/17354rp/best_python_projects_to_read_through_for_learning/)
 - [Django things you want with HTMX](https://www.reddit.com/r/Python/comments/1734x6o/django_things_you_want_with_htmx/)
-- [Calling Rust from Python](https://www.reddit.com/r/Python/comments/1733gl6/calling_rust_from_python/)
-- [Rocket Chat Async implementation](https://www.reddit.com/r/Python/comments/1732lox/rocket_chat_async_implementation/)
 <!-- BLOG-POST-LIST:END -->
