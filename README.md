@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [GeoVisulaization and Python](https://www.reddit.com/r/Python/comments/1735t7s/geovisulaization_and_python/)
-- [Options to run Python scripts](https://www.reddit.com/r/Python/comments/1735gpx/options_to_run_python_scripts/)
+- [3d plotting for robotics](https://www.reddit.com/r/Python/comments/173a104/3d_plotting_for_robotics/)
 - [Best Python Projects to Read Through for Learning](https://www.reddit.com/r/Python/comments/17354rp/best_python_projects_to_read_through_for_learning/)
 - [Django things you want with HTMX](https://www.reddit.com/r/Python/comments/1734x6o/django_things_you_want_with_htmx/)
 - [Calling Rust from Python](https://www.reddit.com/r/Python/comments/1733gl6/calling_rust_from_python/)
+- [Rocket Chat Async implementation](https://www.reddit.com/r/Python/comments/1732lox/rocket_chat_async_implementation/)
 <!-- BLOG-POST-LIST:END -->
