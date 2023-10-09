@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My lightweight OSINT tool, Behold](https://www.reddit.com/r/Python/comments/173e7b7/my_lightweight_osint_tool_behold/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/173dwlp/monday_daily_thread_project_ideas/)
 - [new graphql client library](https://www.reddit.com/r/Python/comments/173b5nw/new_graphql_client_library/)
 - [Whatever happened to the faster-cpython project?](https://www.reddit.com/r/Python/comments/173azue/whatever_happened_to_the_fastercpython_project/)
 - [Introducing interactive_buttons !](https://www.reddit.com/r/Python/comments/173ahlr/introducing_interactive_buttons/)
-- [3d plotting for robotics](https://www.reddit.com/r/Python/comments/173a104/3d_plotting_for_robotics/)
-- [Django things you want with HTMX](https://www.reddit.com/r/Python/comments/1734x6o/django_things_you_want_with_htmx/)
 <!-- BLOG-POST-LIST:END -->
