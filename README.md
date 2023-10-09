@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What do i need to make my project work?](https://www.reddit.com/r/Python/comments/173o93i/what_do_i_need_to_make_my_project_work/)
+- [How to make 1d flowfields in python using pygame and perlin noise](https://www.reddit.com/r/Python/comments/173ntcn/how_to_make_1d_flowfields_in_python_using_pygame/)
 - [The Elegance of Modular Data Processing with Python’s Pipeline Approach](https://www.reddit.com/r/Python/comments/173mydw/the_elegance_of_modular_data_processing_with/)
 - [Step-by-Step Guide to Creating an AI Chatbot like ChatGPT](https://www.reddit.com/r/Python/comments/173k34c/stepbystep_guide_to_creating_an_ai_chatbot_like/)
 - [Art + Cryptography + Code = 🚀 | Tetralogue Logogram](https://www.reddit.com/r/Python/comments/173j54o/art_cryptography_code_tetralogue_logogram/)
-- [Fastapi? anyone?](https://www.reddit.com/r/Python/comments/173i4id/fastapi_anyone/)
-- [Front-end for Windows32 Context Menu Customization](https://www.reddit.com/r/Python/comments/173h6tm/frontend_for_windows32_context_menu_customization/)
 <!-- BLOG-POST-LIST:END -->
