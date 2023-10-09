@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Step-by-Step Guide to Creating an AI Chatbot like ChatGPT](https://www.reddit.com/r/Python/comments/173k34c/stepbystep_guide_to_creating_an_ai_chatbot_like/)
 - [Art + Cryptography + Code = 🚀 | Tetralogue Logogram](https://www.reddit.com/r/Python/comments/173j54o/art_cryptography_code_tetralogue_logogram/)
-- [Suggestions Needed &gt; Read data from hive2 Kerberos authentication on windows using python](https://www.reddit.com/r/Python/comments/173ib5e/suggestions_needed_read_data_from_hive2_kerberos/)
+- [Fastapi? anyone?](https://www.reddit.com/r/Python/comments/173i4id/fastapi_anyone/)
 - [Front-end for Windows32 Context Menu Customization](https://www.reddit.com/r/Python/comments/173h6tm/frontend_for_windows32_context_menu_customization/)
 - [My lightweight OSINT tool, Behold](https://www.reddit.com/r/Python/comments/173e7b7/my_lightweight_osint_tool_behold/)
 <!-- BLOG-POST-LIST:END -->
