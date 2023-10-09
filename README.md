@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [RTX is a multi-language runtime management tool - but it&#39;s great for just Python.](https://www.reddit.com/r/Python/comments/17449ry/rtx_is_a_multilanguage_runtime_management_tool/)
+- [The abstract_webtools module; a data agg tool that allows for comprehensive request handling, source-code creation, html parsing, and downloads/extraction](https://www.reddit.com/r/Python/comments/17431l4/the_abstract_webtools_module_a_data_agg_tool_that/)
+- [Made a program to sync the color of your smart RGB light bulb to the color of your screen, GitHub link in comments](https://www.reddit.com/r/Python/comments/1742ixn/made_a_program_to_sync_the_color_of_your_smart/)
+- [Text Based Website Builder Tool](https://www.reddit.com/r/Python/comments/173ysuk/text_based_website_builder_tool/)
 - [Build a Data Science SaaS App with Just Python: A Streamlit Guide](https://www.reddit.com/r/Python/comments/173qcwe/build_a_data_science_saas_app_with_just_python_a/)
-- [Building a Lucene quality BM25 index using Python and SQLite](https://www.reddit.com/r/Python/comments/173pvzl/building_a_lucene_quality_bm25_index_using_python/)
-- [The Elegance of Modular Data Processing with Python’s Pipeline Approach](https://www.reddit.com/r/Python/comments/173mydw/the_elegance_of_modular_data_processing_with/)
-- [Step-by-Step Guide to Creating an AI Chatbot like ChatGPT](https://www.reddit.com/r/Python/comments/173k34c/stepbystep_guide_to_creating_an_ai_chatbot_like/)
-- [Art + Cryptography + Code = 🚀 | Tetralogue Logogram](https://www.reddit.com/r/Python/comments/173j54o/art_cryptography_code_tetralogue_logogram/)
 <!-- BLOG-POST-LIST:END -->
