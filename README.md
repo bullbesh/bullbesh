@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Data Science SaaS App with Just Python: A Streamlit Guide](https://www.reddit.com/r/Python/comments/173qcwe/build_a_data_science_saas_app_with_just_python_a/)
+- [Access smart card reader](https://www.reddit.com/r/Python/comments/173q8eq/access_smart_card_reader/)
+- [Building a Lucene quality BM25 index using Python and SQLite](https://www.reddit.com/r/Python/comments/173pvzl/building_a_lucene_quality_bm25_index_using_python/)
 - [What do i need to make my project work?](https://www.reddit.com/r/Python/comments/173o93i/what_do_i_need_to_make_my_project_work/)
 - [How to make 1d flowfields in python using pygame and perlin noise](https://www.reddit.com/r/Python/comments/173ntcn/how_to_make_1d_flowfields_in_python_using_pygame/)
-- [The Elegance of Modular Data Processing with Python’s Pipeline Approach](https://www.reddit.com/r/Python/comments/173mydw/the_elegance_of_modular_data_processing_with/)
-- [Step-by-Step Guide to Creating an AI Chatbot like ChatGPT](https://www.reddit.com/r/Python/comments/173k34c/stepbystep_guide_to_creating_an_ai_chatbot_like/)
-- [Art + Cryptography + Code = 🚀 | Tetralogue Logogram](https://www.reddit.com/r/Python/comments/173j54o/art_cryptography_code_tetralogue_logogram/)
 <!-- BLOG-POST-LIST:END -->
