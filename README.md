@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Highcharts for Python v.1.4.0 Released](https://www.reddit.com/r/Python/comments/174m7gj/highcharts_for_python_v140_released/)
+- [Why does Python Code Run Faster in a Function?](https://www.reddit.com/r/Python/comments/174lk6p/why_does_python_code_run_faster_in_a_function/)
 - [App to build IP address deny lists](https://www.reddit.com/r/Python/comments/174j7ly/app_to_build_ip_address_deny_lists/)
 - [Function Inheritance!](https://www.reddit.com/r/Python/comments/174fb7i/function_inheritance/)
-- [Python for Finance and Data Science – GetFreeCourses](https://www.reddit.com/r/Python/comments/174f97f/python_for_finance_and_data_science_getfreecourses/)
 - [Interesting developers to follow?](https://www.reddit.com/r/Python/comments/174bfdt/interesting_developers_to_follow/)
-- [I made a package for generating Magic: The Gathering cards](https://www.reddit.com/r/Python/comments/17484ej/i_made_a_package_for_generating_magic_the/)
 <!-- BLOG-POST-LIST:END -->
