@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a package for generating Magic: The Gathering cards](https://www.reddit.com/r/Python/comments/17484ej/i_made_a_package_for_generating_magic_the/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/174730v/tuesday_daily_thread_advanced_questions/)
 - [RTX is a multi-language runtime management tool - but it&#39;s great for just Python.](https://www.reddit.com/r/Python/comments/17449ry/rtx_is_a_multilanguage_runtime_management_tool/)
 - [The abstract_webtools module; a data agg tool that allows for comprehensive request handling, source-code creation, html parsing, and downloads/extraction](https://www.reddit.com/r/Python/comments/17431l4/the_abstract_webtools_module_a_data_agg_tool_that/)
 - [Made a program to sync the color of your smart RGB light bulb to the color of your screen, GitHub link in comments](https://www.reddit.com/r/Python/comments/1742ixn/made_a_program_to_sync_the_color_of_your_smart/)
-- [Text Based Website Builder Tool](https://www.reddit.com/r/Python/comments/173ysuk/text_based_website_builder_tool/)
-- [Build a Data Science SaaS App with Just Python: A Streamlit Guide](https://www.reddit.com/r/Python/comments/173qcwe/build_a_data_science_saas_app_with_just_python_a/)
 <!-- BLOG-POST-LIST:END -->
