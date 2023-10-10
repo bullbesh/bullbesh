@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Function Inheritance!](https://www.reddit.com/r/Python/comments/174fb7i/function_inheritance/)
+- [Python for Finance and Data Science – GetFreeCourses](https://www.reddit.com/r/Python/comments/174f97f/python_for_finance_and_data_science_getfreecourses/)
 - [Interesting developers to follow?](https://www.reddit.com/r/Python/comments/174bfdt/interesting_developers_to_follow/)
 - [I made a package for generating Magic: The Gathering cards](https://www.reddit.com/r/Python/comments/17484ej/i_made_a_package_for_generating_magic_the/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/174730v/tuesday_daily_thread_advanced_questions/)
-- [RTX is a multi-language runtime management tool - but it&#39;s great for just Python.](https://www.reddit.com/r/Python/comments/17449ry/rtx_is_a_multilanguage_runtime_management_tool/)
-- [The abstract_webtools module; a data agg tool that allows for comprehensive request handling, source-code creation, html parsing, and downloads/extraction](https://www.reddit.com/r/Python/comments/17431l4/the_abstract_webtools_module_a_data_agg_tool_that/)
 <!-- BLOG-POST-LIST:END -->
