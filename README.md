@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to perform real-time transcription in Python](https://www.reddit.com/r/Python/comments/174odis/how_to_perform_realtime_transcription_in_python/)
-- [I feel like a genius](https://www.reddit.com/r/Python/comments/174ni26/i_feel_like_a_genius/)
 - [Python News: What&#39;s New From September 2023 – Real Python](https://www.reddit.com/r/Python/comments/174mqbv/python_news_whats_new_from_september_2023_real/)
 - [Have you seen my &quot;Camerata&quot; lib?](https://www.reddit.com/r/Python/comments/174mn4z/have_you_seen_my_camerata_lib/)
 - [Highcharts for Python v.1.4.0 Released](https://www.reddit.com/r/Python/comments/174m7gj/highcharts_for_python_v140_released/)
+- [Why does Python Code Run Faster in a Function?](https://www.reddit.com/r/Python/comments/174lk6p/why_does_python_code_run_faster_in_a_function/)
 <!-- BLOG-POST-LIST:END -->
