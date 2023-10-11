@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Duckie AI - interactive AI coding agent🐣](https://www.reddit.com/r/Python/comments/175i02h/duckie_ai_interactive_ai_coding_agent/)
+- [[Video] Python&#39;s Super&lpar;&rpar; Function in 2 Minutes. No Jargon Straightforward Explanation](https://www.reddit.com/r/Python/comments/175hiuh/video_pythons_super_function_in_2_minutes_no/)
 - [Want to Know About, Azure services in deep, check out this blog Post.](https://www.reddit.com/r/Python/comments/175g2l7/want_to_know_about_azure_services_in_deep_check/)
-- [ssh user maker](https://www.reddit.com/r/Python/comments/175f2lw/ssh_user_maker/)
 - [Looking for an updated version of &quot;Obey the Testing Goat&quot;](https://www.reddit.com/r/Python/comments/175ee15/looking_for_an_updated_version_of_obey_the/)
 - [Which animal uses python?](https://www.reddit.com/r/Python/comments/175ajzx/which_animal_uses_python/)
-- [How the Python Dataframe Interchange Protocol Makes Life Better](https://www.reddit.com/r/Python/comments/1757562/how_the_python_dataframe_interchange_protocol/)
 <!-- BLOG-POST-LIST:END -->
