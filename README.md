@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Get Charts From Non Searchable PDFs](https://www.reddit.com/r/Python/comments/1755uda/get_charts_from_non_searchable_pdfs/)
 - [My functional programming library](https://www.reddit.com/r/Python/comments/1752jjf/my_functional_programming_library/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/17506lz/wednesday_daily_thread_beginner_questions/)
 - [cov-change: A Python package to evaluate the test coverage of code changes](https://www.reddit.com/r/Python/comments/174v95s/covchange_a_python_package_to_evaluate_the_test/)
 - [Mypy 1.6 Released](https://www.reddit.com/r/Python/comments/174tsqh/mypy_16_released/)
-- [I made cross-platform I2P Browser in pure Python](https://www.reddit.com/r/Python/comments/174scw6/i_made_crossplatform_i2p_browser_in_pure_python/)
 <!-- BLOG-POST-LIST:END -->
