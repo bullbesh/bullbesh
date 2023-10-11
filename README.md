@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Execute 1,000 Jobs in 54 Seconds Using Python &lpar;Performing Inner Join on 1 Million Rows&rpar;](https://www.reddit.com/r/Python/comments/175jf1l/execute_1000_jobs_in_54_seconds_using_python/)
+- [Several tips for better working with Python in Excel](https://www.reddit.com/r/Python/comments/175iqj1/several_tips_for_better_working_with_python_in/)
+- [ETFpy - library for working with scraped etf data from etfdb.com](https://www.reddit.com/r/Python/comments/175ifyx/etfpy_library_for_working_with_scraped_etf_data/)
 - [Duckie AI - interactive AI coding agent🐣](https://www.reddit.com/r/Python/comments/175i02h/duckie_ai_interactive_ai_coding_agent/)
 - [[Video] Python&#39;s Super&lpar;&rpar; Function in 2 Minutes. No Jargon Straightforward Explanation](https://www.reddit.com/r/Python/comments/175hiuh/video_pythons_super_function_in_2_minutes_no/)
-- [Want to Know About, Azure services in deep, check out this blog Post.](https://www.reddit.com/r/Python/comments/175g2l7/want_to_know_about_azure_services_in_deep_check/)
-- [Looking for an updated version of &quot;Obey the Testing Goat&quot;](https://www.reddit.com/r/Python/comments/175ee15/looking_for_an_updated_version_of_obey_the/)
-- [Which animal uses python?](https://www.reddit.com/r/Python/comments/175ajzx/which_animal_uses_python/)
 <!-- BLOG-POST-LIST:END -->
