@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pothole detection using YOLOv8](https://www.reddit.com/r/Python/comments/17546l5/pothole_detection_using_yolov8/)
 - [My functional programming library](https://www.reddit.com/r/Python/comments/1752jjf/my_functional_programming_library/)
-- [Programming](https://www.reddit.com/r/Python/comments/1751p04/programming/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/17506lz/wednesday_daily_thread_beginner_questions/)
 - [cov-change: A Python package to evaluate the test coverage of code changes](https://www.reddit.com/r/Python/comments/174v95s/covchange_a_python_package_to_evaluate_the_test/)
 - [Mypy 1.6 Released](https://www.reddit.com/r/Python/comments/174tsqh/mypy_16_released/)
