@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which animal uses python?](https://www.reddit.com/r/Python/comments/175ajzx/which_animal_uses_python/)
 - [How the Python Dataframe Interchange Protocol Makes Life Better](https://www.reddit.com/r/Python/comments/1757562/how_the_python_dataframe_interchange_protocol/)
 - [Get Charts From Non Searchable PDFs](https://www.reddit.com/r/Python/comments/1755uda/get_charts_from_non_searchable_pdfs/)
 - [My functional programming library](https://www.reddit.com/r/Python/comments/1752jjf/my_functional_programming_library/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/17506lz/wednesday_daily_thread_beginner_questions/)
-- [cov-change: A Python package to evaluate the test coverage of code changes](https://www.reddit.com/r/Python/comments/174v95s/covchange_a_python_package_to_evaluate_the_test/)
 <!-- BLOG-POST-LIST:END -->
