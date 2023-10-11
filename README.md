@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My functional programming library](https://www.reddit.com/r/Python/comments/1752jjf/my_functional_programming_library/)
+- [Programming](https://www.reddit.com/r/Python/comments/1751p04/programming/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/17506lz/wednesday_daily_thread_beginner_questions/)
 - [cov-change: A Python package to evaluate the test coverage of code changes](https://www.reddit.com/r/Python/comments/174v95s/covchange_a_python_package_to_evaluate_the_test/)
 - [Mypy 1.6 Released](https://www.reddit.com/r/Python/comments/174tsqh/mypy_16_released/)
-- [I made cross-platform I2P Browser in pure Python](https://www.reddit.com/r/Python/comments/174scw6/i_made_crossplatform_i2p_browser_in_pure_python/)
-- [How to perform real-time transcription in Python](https://www.reddit.com/r/Python/comments/174odis/how_to_perform_realtime_transcription_in_python/)
 <!-- BLOG-POST-LIST:END -->
