@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Libraries for ML](https://www.reddit.com/r/Python/comments/175jik7/python_libraries_for_ml/)
 - [Execute 1,000 Jobs in 54 Seconds Using Python &lpar;Performing Inner Join on 1 Million Rows&rpar;](https://www.reddit.com/r/Python/comments/175jf1l/execute_1000_jobs_in_54_seconds_using_python/)
 - [Several tips for better working with Python in Excel](https://www.reddit.com/r/Python/comments/175iqj1/several_tips_for_better_working_with_python_in/)
 - [ETFpy - library for working with scraped etf data from etfdb.com](https://www.reddit.com/r/Python/comments/175ifyx/etfpy_library_for_working_with_scraped_etf_data/)
 - [Duckie AI - interactive AI coding agent🐣](https://www.reddit.com/r/Python/comments/175i02h/duckie_ai_interactive_ai_coding_agent/)
-- [[Video] Python&#39;s Super&lpar;&rpar; Function in 2 Minutes. No Jargon Straightforward Explanation](https://www.reddit.com/r/Python/comments/175hiuh/video_pythons_super_function_in_2_minutes_no/)
 <!-- BLOG-POST-LIST:END -->
