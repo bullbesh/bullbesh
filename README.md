@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [BingChat Python Interface](https://www.reddit.com/r/Python/comments/176bxli/bingchat_python_interface/)
+- [Updating interactive_buttons v3.5.0](https://www.reddit.com/r/Python/comments/176b8oi/updating_interactive_buttons_v350/)
 - [Want to Know About, How To Get Jupyter Python Notebook On Azure, Check out this Amazing Blog Post.](https://www.reddit.com/r/Python/comments/1766dy6/want_to_know_about_how_to_get_jupyter_python/)
 - [Sharepoint and Snowflake Integration Python](https://www.reddit.com/r/Python/comments/1764vmh/sharepoint_and_snowflake_integration_python/)
 - [Unlocking Data Magic: Solara Steals the Spotlight from Streamlit](https://www.reddit.com/r/Python/comments/1764o5t/unlocking_data_magic_solara_steals_the_spotlight/)
-- [Python 3 backport to Python 2 - Commercial products](https://www.reddit.com/r/Python/comments/1764dny/python_3_backport_to_python_2_commercial_products/)
-- [What is a variable in Python? Mutable vs Immutable 🐍](https://www.reddit.com/r/Python/comments/1763f2i/what_is_a_variable_in_python_mutable_vs_immutable/)
 <!-- BLOG-POST-LIST:END -->
