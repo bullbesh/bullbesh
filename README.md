@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [First official repo and py project](https://www.reddit.com/r/Python/comments/176fglu/first_official_repo_and_py_project/)
 - [BingChat Python Interface](https://www.reddit.com/r/Python/comments/176bxli/bingchat_python_interface/)
 - [Updating interactive_buttons v3.5.0](https://www.reddit.com/r/Python/comments/176b8oi/updating_interactive_buttons_v350/)
 - [Want to Know About, How To Get Jupyter Python Notebook On Azure, Check out this Amazing Blog Post.](https://www.reddit.com/r/Python/comments/1766dy6/want_to_know_about_how_to_get_jupyter_python/)
 - [Sharepoint and Snowflake Integration Python](https://www.reddit.com/r/Python/comments/1764vmh/sharepoint_and_snowflake_integration_python/)
-- [Unlocking Data Magic: Solara Steals the Spotlight from Streamlit](https://www.reddit.com/r/Python/comments/1764o5t/unlocking_data_magic_solara_steals_the_spotlight/)
 <!-- BLOG-POST-LIST:END -->
