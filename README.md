@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [JSON Quote Remover](https://www.reddit.com/r/Python/comments/177704z/json_quote_remover/)
+- [How to Perform Monte Carlo Simulation on the Stock Market](https://www.reddit.com/r/Python/comments/1776zzk/how_to_perform_monte_carlo_simulation_on_the/)
 - [Pseudo First Person View](https://www.reddit.com/r/Python/comments/1773yvk/pseudo_first_person_view/)
 - [A packet catcher tool](https://www.reddit.com/r/Python/comments/1772k9m/a_packet_catcher_tool/)
 - [I made a Notepad alternative using PySide6 | ZenNotes](https://www.reddit.com/r/Python/comments/1772bst/i_made_a_notepad_alternative_using_pyside6/)
-- [Automate Python Script Generation with GPT-3 using the Abstract AI Module](https://www.reddit.com/r/Python/comments/1771hxk/automate_python_script_generation_with_gpt3_using/)
-- [New Package: simpleset &lpar;current:v0.4.0&rpar;](https://www.reddit.com/r/Python/comments/1770qft/new_package_simpleset_currentv040/)
 <!-- BLOG-POST-LIST:END -->
