@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A packet catcher tool](https://www.reddit.com/r/Python/comments/1772k9m/a_packet_catcher_tool/)
 - [I made a Notepad alternative using PySide6 | ZenNotes](https://www.reddit.com/r/Python/comments/1772bst/i_made_a_notepad_alternative_using_pyside6/)
 - [Automate Python Script Generation with GPT-3 using the Abstract AI Module](https://www.reddit.com/r/Python/comments/1771hxk/automate_python_script_generation_with_gpt3_using/)
 - [New Package: simpleset &lpar;current:v0.4.0&rpar;](https://www.reddit.com/r/Python/comments/1770qft/new_package_simpleset_currentv040/)
 - [JupyterChatbook | Python for Prediction](https://www.reddit.com/r/Python/comments/176zg0j/jupyterchatbook_python_for_prediction/)
-- [Python tutorial for absolute beginners - 8 hours - Part one](https://www.reddit.com/r/Python/comments/176yfae/python_tutorial_for_absolute_beginners_8_hours/)
 <!-- BLOG-POST-LIST:END -->
