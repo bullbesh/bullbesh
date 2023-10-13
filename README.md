@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python tutorial for absolute beginners - 8 hours - Part one](https://www.reddit.com/r/Python/comments/176yfae/python_tutorial_for_absolute_beginners_8_hours/)
+- [Automate Your Recipe Posts on Facebook Page with Python](https://www.reddit.com/r/Python/comments/176yc59/automate_your_recipe_posts_on_facebook_page_with/)
+- [Want to Know About, How to Install AI/ML Python Libraries and packages in Jupyter Notebook, Check out this Amazing Blog Post.](https://www.reddit.com/r/Python/comments/176xwtm/want_to_know_about_how_to_install_aiml_python/)
 - [Level up your HTTP&lpar;s&rpar; interactions without effort](https://www.reddit.com/r/Python/comments/176sbzi/level_up_your_https_interactions_without_effort/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/176lfkt/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Fractal Visualization: Math, Code, &amp; 2min Video](https://www.reddit.com/r/Python/comments/176je3o/fractal_visualization_math_code_2min_video/)
-- [Akarsu – New Generation Profiler Based on PEP669](https://www.reddit.com/r/Python/comments/176iyul/akarsu_new_generation_profiler_based_on_pep669/)
-- [I discovered that Python’s handy http.server module supports CGI scripts &lpar;say what?!&rpar;, so I made a little local-network file uploader utility](https://www.reddit.com/r/Python/comments/176h6zy/i_discovered_that_pythons_handy_httpserver_module/)
 <!-- BLOG-POST-LIST:END -->
