@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/176lfkt/friday_daily_thread_rpython_meta_and_freetalk/)
+- [Fractal Visualization: Math, Code, &amp; 2min Video](https://www.reddit.com/r/Python/comments/176je3o/fractal_visualization_math_code_2min_video/)
 - [Akarsu – New Generation Profiler Based on PEP669](https://www.reddit.com/r/Python/comments/176iyul/akarsu_new_generation_profiler_based_on_pep669/)
 - [I discovered that Python’s handy http.server module supports CGI scripts &lpar;say what?!&rpar;, so I made a little local-network file uploader utility](https://www.reddit.com/r/Python/comments/176h6zy/i_discovered_that_pythons_handy_httpserver_module/)
 - [First official repo and py project](https://www.reddit.com/r/Python/comments/176fglu/first_official_repo_and_py_project/)
-- [BingChat Python Interface](https://www.reddit.com/r/Python/comments/176bxli/bingchat_python_interface/)
-- [Updating interactive_buttons v3.5.0](https://www.reddit.com/r/Python/comments/176b8oi/updating_interactive_buttons_v350/)
 <!-- BLOG-POST-LIST:END -->
