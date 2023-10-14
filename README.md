@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I utilize PyO3 for the creation of Python bindings in my Rust DataFrame library](https://www.reddit.com/r/Python/comments/177l0qb/i_utilize_pyo3_for_the_creation_of_python/)
+- [Easy-to-use Python Interface for KoboldAI Horde](https://www.reddit.com/r/Python/comments/177kyk8/easytouse_python_interface_for_koboldai_horde/)
 - [EASILY Build Your Custom Data-Trained ChatGPT AI Chatbot in 5 Minutes](https://www.reddit.com/r/Python/comments/177jd2j/easily_build_your_custom_datatrained_chatgpt_ai/)
 - [PEP 731: C API Working Group Charter](https://www.reddit.com/r/Python/comments/177fxws/pep_731_c_api_working_group_charter/)
 - [hpy 0.9.0: Fourth public release](https://www.reddit.com/r/Python/comments/177fu4m/hpy_090_fourth_public_release/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/177chla/saturday_daily_thread_resource_request_and/)
-- [JSON Quote Remover](https://www.reddit.com/r/Python/comments/177704z/json_quote_remover/)
 <!-- BLOG-POST-LIST:END -->
