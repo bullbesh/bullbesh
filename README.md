@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [EASILY Build Your Custom Data-Trained ChatGPT AI Chatbot in 5 Minutes](https://www.reddit.com/r/Python/comments/177jd2j/easily_build_your_custom_datatrained_chatgpt_ai/)
 - [PEP 731: C API Working Group Charter](https://www.reddit.com/r/Python/comments/177fxws/pep_731_c_api_working_group_charter/)
 - [hpy 0.9.0: Fourth public release](https://www.reddit.com/r/Python/comments/177fu4m/hpy_090_fourth_public_release/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/177chla/saturday_daily_thread_resource_request_and/)
 - [JSON Quote Remover](https://www.reddit.com/r/Python/comments/177704z/json_quote_remover/)
-- [How to Perform Monte Carlo Simulation on the Stock Market](https://www.reddit.com/r/Python/comments/1776zzk/how_to_perform_monte_carlo_simulation_on_the/)
 <!-- BLOG-POST-LIST:END -->
