@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to automate operations on olive editor](https://www.reddit.com/r/Python/comments/178quv1/how_to_automate_operations_on_olive_editor/)
 - [Re-programming to Python of LLM- and Chatbook packages](https://www.reddit.com/r/Python/comments/178q8k2/reprogramming_to_python_of_llm_and_chatbook/)
 - [Setenvironment - Battle-tested / Cross platform way to set environmental variables, but without all the bugs](https://www.reddit.com/r/Python/comments/178p7fg/setenvironment_battletested_cross_platform_way_to/)
 - [ML Algorithms implemented from Scratch](https://www.reddit.com/r/Python/comments/178o281/ml_algorithms_implemented_from_scratch/)
 - [Python Exe Malware](https://www.reddit.com/r/Python/comments/178nfdc/python_exe_malware/)
-- [Python certification](https://www.reddit.com/r/Python/comments/178n2a4/python_certification/)
 <!-- BLOG-POST-LIST:END -->
