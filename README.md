@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - opengeos/leafmap: A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment](https://www.reddit.com/r/Python/comments/178ab1o/github_opengeosleafmap_a_python_package_for/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1782mwb/sunday_daily_thread_whats_everyone_working_on/)
 - [R2Connect: A Python API for Cloudflare&#39;s R2 services.](https://www.reddit.com/r/Python/comments/177xya3/r2connect_a_python_api_for_cloudflares_r2_services/)
 - [Has your company standardized the Python 3 version to be used across all projects?](https://www.reddit.com/r/Python/comments/177u229/has_your_company_standardized_the_python_3/)
 - [Memory management in Python: Interning &amp; Optimization](https://www.reddit.com/r/Python/comments/177rstj/memory_management_in_python_interning_optimization/)
-- [Hello Pythonistas &amp; Pythoneers It&#39;s Been A Minute, Just Uploaded My Cool Wuddz-Crypto Repo Go Check It Out](https://www.reddit.com/r/Python/comments/177p6zp/hello_pythonistas_pythoneers_its_been_a_minute/)
 <!-- BLOG-POST-LIST:END -->
