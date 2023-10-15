@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setenvironment - Battle-tested / Cross platform way to set environmental variables, but without all the bugs](https://www.reddit.com/r/Python/comments/178p7fg/setenvironment_battletested_cross_platform_way_to/)
+- [ML Algorithms implemented from Scratch](https://www.reddit.com/r/Python/comments/178o281/ml_algorithms_implemented_from_scratch/)
 - [Python Exe Malware](https://www.reddit.com/r/Python/comments/178nfdc/python_exe_malware/)
 - [Python certification](https://www.reddit.com/r/Python/comments/178n2a4/python_certification/)
 - [Github - epogrebnyak/abacus: run full double-entry accounting cycle with just five commands](https://www.reddit.com/r/Python/comments/178kgyu/github_epogrebnyakabacus_run_full_doubleentry/)
-- [Python &quot;magic&quot; methods &lpar;part 1&rpar;](https://www.reddit.com/r/Python/comments/178j2a8/python_magic_methods_part_1/)
-- [Introducing PivotPal: My First Package!](https://www.reddit.com/r/Python/comments/178ieis/introducing_pivotpal_my_first_package/)
 <!-- BLOG-POST-LIST:END -->
