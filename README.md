@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sanitising logs / telemetry](https://www.reddit.com/r/Python/comments/178i5wd/sanitising_logs_telemetry/)
+- [Starfyre - A reactive SSR Python Web Framework for Front-End Applications [v0.17.0 Update]](https://www.reddit.com/r/Python/comments/178hkip/starfyre_a_reactive_ssr_python_web_framework_for/)
 - [Pyscan: A command-line tool to detect security issues in your python dependencies.](https://www.reddit.com/r/Python/comments/178ests/pyscan_a_commandline_tool_to_detect_security/)
 - [Anyone over 40 Python get good at it, who *wasn&#39;t* a programmer in another language before?](https://www.reddit.com/r/Python/comments/178ccd6/anyone_over_40_python_get_good_at_it_who_wasnt_a/)
 - [NumPy 2.0 development status &amp; announcements: major C-API and Python API cleanup](https://www.reddit.com/r/Python/comments/178btr3/numpy_20_development_status_announcements_major/)
-- [GitHub - opengeos/leafmap: A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment](https://www.reddit.com/r/Python/comments/178ab1o/github_opengeosleafmap_a_python_package_for/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1782mwb/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
