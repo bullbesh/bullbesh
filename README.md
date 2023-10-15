@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Github - epogrebnyak/abacus: run full double-entry accounting cycle with just five commands](https://www.reddit.com/r/Python/comments/178kgyu/github_epogrebnyakabacus_run_full_doubleentry/)
-- [Is PCC a good book for a person who has never programmed in their entire life?](https://www.reddit.com/r/Python/comments/178jl1v/is_pcc_a_good_book_for_a_person_who_has_never/)
 - [Python &quot;magic&quot; methods &lpar;part 1&rpar;](https://www.reddit.com/r/Python/comments/178j2a8/python_magic_methods_part_1/)
+- [Introducing PivotPal: My First Package!](https://www.reddit.com/r/Python/comments/178ieis/introducing_pivotpal_my_first_package/)
 - [Sanitising logs / telemetry](https://www.reddit.com/r/Python/comments/178i5wd/sanitising_logs_telemetry/)
 - [Starfyre - A reactive SSR Python Web Framework for Front-End Applications [v0.17.0 Update]](https://www.reddit.com/r/Python/comments/178hkip/starfyre_a_reactive_ssr_python_web_framework_for/)
 <!-- BLOG-POST-LIST:END -->
