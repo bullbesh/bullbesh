@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need suggestions for generating reports](https://www.reddit.com/r/Python/comments/1792khi/need_suggestions_for_generating_reports/)
 - [3D library to drag/drop a handful of cuboids on and around the screen](https://www.reddit.com/r/Python/comments/1791jru/3d_library_to_dragdrop_a_handful_of_cuboids_on/)
 - [Oxen.ai: Blazing Fast Unstructured Data Version Control for Machine Learning, now in Python](https://www.reddit.com/r/Python/comments/178u8g8/oxenai_blazing_fast_unstructured_data_version/)
 - [How to Implement Pagination Using FastAPI in Python: Use fastapi-pagination library to paginate API responses](https://www.reddit.com/r/Python/comments/178twmz/how_to_implement_pagination_using_fastapi_in/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/178ssdt/monday_daily_thread_project_ideas/)
-- [Re-programming to Python of LLM- and Chatbook packages](https://www.reddit.com/r/Python/comments/178q8k2/reprogramming_to_python_of_llm_and_chatbook/)
 <!-- BLOG-POST-LIST:END -->
