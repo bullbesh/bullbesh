@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I share 3 Python Data Science videos &lpar;Tutorials, Courses and Projects&rpar; every week on YouTube](https://www.reddit.com/r/Python/comments/1798b1j/i_share_3_python_data_science_videos_tutorials/)
-- [GUI program freezes when paste long text into an input box.](https://www.reddit.com/r/Python/comments/179837y/gui_program_freezes_when_paste_long_text_into_an/)
-- [Restrict windows non admin users?](https://www.reddit.com/r/Python/comments/1797iz1/restrict_windows_non_admin_users/)
-- [Developing intuition for overhead costs in multiprocessing](https://www.reddit.com/r/Python/comments/1795n08/developing_intuition_for_overhead_costs_in/)
-- [Neinsum - A Named Einsum](https://www.reddit.com/r/Python/comments/1793itl/neinsum_a_named_einsum/)
+- [Textual has a new website](https://www.reddit.com/r/Python/comments/1799lbl/textual_has_a_new_website/)
+- [How to Scrape Dynamic and Static Websites in Python!](https://www.reddit.com/r/Python/comments/1799he6/how_to_scrape_dynamic_and_static_websites_in/)
+- [Genuine Curiosity about this.](https://www.reddit.com/r/Python/comments/1798osg/genuine_curiosity_about_this/)
+- [encant: Uber Simple Python Version Management](https://www.reddit.com/r/Python/comments/1798n08/encant_uber_simple_python_version_management/)
+- [just-pip-tools: An example of managing python dependencies as layered lock files with just and pip-tools](https://www.reddit.com/r/Python/comments/1798i23/justpiptools_an_example_of_managing_python/)
 <!-- BLOG-POST-LIST:END -->
