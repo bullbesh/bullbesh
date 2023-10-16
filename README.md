@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Oxen.ai: Blazing Fast Unstructured Data Version Control for Machine Learning, now in Python](https://www.reddit.com/r/Python/comments/178u8g8/oxenai_blazing_fast_unstructured_data_version/)
 - [How to Implement Pagination Using FastAPI in Python: Use fastapi-pagination library to paginate API responses](https://www.reddit.com/r/Python/comments/178twmz/how_to_implement_pagination_using_fastapi_in/)
-- [How would I go about creating a script that turn image to text in iMessage?](https://www.reddit.com/r/Python/comments/178tqyh/how_would_i_go_about_creating_a_script_that_turn/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/178ssdt/monday_daily_thread_project_ideas/)
-- [How to automate operations on olive editor](https://www.reddit.com/r/Python/comments/178quv1/how_to_automate_operations_on_olive_editor/)
 - [Re-programming to Python of LLM- and Chatbook packages](https://www.reddit.com/r/Python/comments/178q8k2/reprogramming_to_python_of_llm_and_chatbook/)
+- [Setenvironment - Battle-tested / Cross platform way to set environmental variables, but without all the bugs](https://www.reddit.com/r/Python/comments/178p7fg/setenvironment_battletested_cross_platform_way_to/)
 <!-- BLOG-POST-LIST:END -->
