@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Autoformatting?](https://www.reddit.com/r/Python/comments/179f0bx/autoformatting/)
 - [Python only certificates &lpar;MOOC&rpar;](https://www.reddit.com/r/Python/comments/179eljq/python_only_certificates_mooc/)
-- [Guys I&#39;m creating a bot project for a particular social media platfrom](https://www.reddit.com/r/Python/comments/179c9ws/guys_im_creating_a_bot_project_for_a_particular/)
 - [mCoding&#39;s impressions on the new features in Python 3.12](https://www.reddit.com/r/Python/comments/179bgoc/mcodings_impressions_on_the_new_features_in/)
 - [Sage Mode New OSINT Tool written in python](https://www.reddit.com/r/Python/comments/179aylh/sage_mode_new_osint_tool_written_in_python/)
+- [Textual has a new website](https://www.reddit.com/r/Python/comments/1799lbl/textual_has_a_new_website/)
 <!-- BLOG-POST-LIST:END -->
