@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Professor said I plagiarized](https://www.reddit.com/r/Python/comments/179pvt9/professor_said_i_plagiarized/)
 - [File organization for interfaces and implementations](https://www.reddit.com/r/Python/comments/179neho/file_organization_for_interfaces_and/)
 - [GenCode - Transformer based code completion model](https://www.reddit.com/r/Python/comments/179n5mo/gencode_transformer_based_code_completion_model/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/179kqsq/tuesday_daily_thread_advanced_questions/)
 - [Best Websites to use to practice Python](https://www.reddit.com/r/Python/comments/179j4pc/best_websites_to_use_to_practice_python/)
-- [Release: Wireup 0.5; Modern Dependency Injection for Python](https://www.reddit.com/r/Python/comments/179iabc/release_wireup_05_modern_dependency_injection_for/)
 <!-- BLOG-POST-LIST:END -->
