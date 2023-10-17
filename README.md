@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping Data Behind Authentication using Python &lpar;Bypass CSRF and WAF😉&rpar;](https://www.reddit.com/r/Python/comments/179tdgj/web_scraping_data_behind_authentication_using/)
 - [Professor said I plagiarized](https://www.reddit.com/r/Python/comments/179pvt9/professor_said_i_plagiarized/)
 - [File organization for interfaces and implementations](https://www.reddit.com/r/Python/comments/179neho/file_organization_for_interfaces_and/)
 - [GenCode - Transformer based code completion model](https://www.reddit.com/r/Python/comments/179n5mo/gencode_transformer_based_code_completion_model/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/179kqsq/tuesday_daily_thread_advanced_questions/)
-- [Best Websites to use to practice Python](https://www.reddit.com/r/Python/comments/179j4pc/best_websites_to_use_to_practice_python/)
 <!-- BLOG-POST-LIST:END -->
