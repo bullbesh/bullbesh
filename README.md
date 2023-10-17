@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Best DSA courses in Python](https://www.reddit.com/r/Python/comments/17a5lut/best_dsa_courses_in_python/)
-- [Reddit-DL, Simple Solution For Dowloading media from Reddit Accounts or Subs.](https://www.reddit.com/r/Python/comments/17a4hgb/redditdl_simple_solution_for_dowloading_media/)
-- [So, what is your favorite new feature in Python 3.12?](https://www.reddit.com/r/Python/comments/17a00xf/so_what_is_your_favorite_new_feature_in_python_312/)
-- [Importing methods in a class body!? Is this... okay?](https://www.reddit.com/r/Python/comments/179yms3/importing_methods_in_a_class_body_is_this_okay/)
-- [Node.js vs. Other Popular Backend Programming Languages: A Comparative Analysis](https://www.reddit.com/r/Python/comments/179xkjx/nodejs_vs_other_popular_backend_programming/)
+- [Introducing cert-hero, a Python Stand-alone Library to Download the SSL Certificate for Any Host](https://www.reddit.com/r/Python/comments/17a74ub/introducing_certhero_a_python_standalone_library/)
+- [Build a Blog From Scratch With Django – Real Python](https://www.reddit.com/r/Python/comments/17a73kn/build_a_blog_from_scratch_with_django_real_python/)
+- [Game creation tutorial](https://www.reddit.com/r/Python/comments/17a7240/game_creation_tutorial/)
+- [Twitter Api / Snscrape alternative](https://www.reddit.com/r/Python/comments/17a6th3/twitter_api_snscrape_alternative/)
+- [Make Your Ordinary Washing Machine Smart using Python | MQTT &amp; Zigbee | Home automation](https://www.reddit.com/r/Python/comments/17a6lgd/make_your_ordinary_washing_machine_smart_using/)
 <!-- BLOG-POST-LIST:END -->
