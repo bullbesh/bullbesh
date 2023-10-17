@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Redis-driven Dataflow for Clickstream Aggregation](https://www.reddit.com/r/Python/comments/17aaukx/redisdriven_dataflow_for_clickstream_aggregation/)
+- [Building a Japanese Kanji Flashcard App using GPT-4, Python and Langchain](https://www.reddit.com/r/Python/comments/17aamkf/building_a_japanese_kanji_flashcard_app_using/)
 - [logmerger - Text UI to view multiple log files with unified time scale](https://www.reddit.com/r/Python/comments/17a8070/logmerger_text_ui_to_view_multiple_log_files_with/)
 - [Introducing cert-hero, a Python Stand-alone Library to Download the SSL Certificate for Any Host](https://www.reddit.com/r/Python/comments/17a74ub/introducing_certhero_a_python_standalone_library/)
 - [Build a Blog From Scratch With Django – Real Python](https://www.reddit.com/r/Python/comments/17a73kn/build_a_blog_from_scratch_with_django_real_python/)
-- [Game creation tutorial](https://www.reddit.com/r/Python/comments/17a7240/game_creation_tutorial/)
-- [Twitter Api / Snscrape alternative](https://www.reddit.com/r/Python/comments/17a6th3/twitter_api_snscrape_alternative/)
 <!-- BLOG-POST-LIST:END -->
