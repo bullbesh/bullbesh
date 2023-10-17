@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/179kqsq/tuesday_daily_thread_advanced_questions/)
 - [Best Websites to use to practice Python](https://www.reddit.com/r/Python/comments/179j4pc/best_websites_to_use_to_practice_python/)
 - [Release: Wireup 0.5; Modern Dependency Injection for Python](https://www.reddit.com/r/Python/comments/179iabc/release_wireup_05_modern_dependency_injection_for/)
 - [Autoformatting?](https://www.reddit.com/r/Python/comments/179f0bx/autoformatting/)
 - [Python only certificates &lpar;MOOC&rpar;](https://www.reddit.com/r/Python/comments/179eljq/python_only_certificates_mooc/)
-- [mCoding&#39;s impressions on the new features in Python 3.12](https://www.reddit.com/r/Python/comments/179bgoc/mcodings_impressions_on_the_new_features_in/)
 <!-- BLOG-POST-LIST:END -->
