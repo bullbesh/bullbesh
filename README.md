@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Python 3rd party data structures library? Must have sorted containers at a minimum](https://www.reddit.com/r/Python/comments/17ae8db/best_python_3rd_party_data_structures_library/)
+- [Combine Playwright with Scrapy for Web Scraping](https://www.reddit.com/r/Python/comments/17adb4r/combine_playwright_with_scrapy_for_web_scraping/)
+- [Sweep - Python AI Assistant for automatically adding Typehints and Pytest Unit Tests](https://www.reddit.com/r/Python/comments/17ad7n8/sweep_python_ai_assistant_for_automatically/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/17acpe1/wednesday_daily_thread_beginner_questions/)
 - [Redis-driven Dataflow for Clickstream Aggregation](https://www.reddit.com/r/Python/comments/17aaukx/redisdriven_dataflow_for_clickstream_aggregation/)
-- [Building a Japanese Kanji Flashcard App using GPT-4, Python and Langchain](https://www.reddit.com/r/Python/comments/17aamkf/building_a_japanese_kanji_flashcard_app_using/)
-- [logmerger - Text UI to view multiple log files with unified time scale](https://www.reddit.com/r/Python/comments/17a8070/logmerger_text_ui_to_view_multiple_log_files_with/)
-- [Introducing cert-hero, a Python Stand-alone Library to Download the SSL Certificate for Any Host](https://www.reddit.com/r/Python/comments/17a74ub/introducing_certhero_a_python_standalone_library/)
-- [Build a Blog From Scratch With Django – Real Python](https://www.reddit.com/r/Python/comments/17a73kn/build_a_blog_from_scratch_with_django_real_python/)
 <!-- BLOG-POST-LIST:END -->
