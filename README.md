@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyUpdater is not maintained anymore... even if we integrate Python-TUF in it?](https://www.reddit.com/r/Python/comments/17at4ml/pyupdater_is_not_maintained_anymore_even_if_we/)
 - [I shared a Python Data Analysis project on YouTube](https://www.reddit.com/r/Python/comments/17aojt7/i_shared_a_python_data_analysis_project_on_youtube/)
 - [FlaskCon 2023 Call For Proposals](https://www.reddit.com/r/Python/comments/17ao2ho/flaskcon_2023_call_for_proposals/)
 - [Qt for Python 6.6 released](https://www.reddit.com/r/Python/comments/17ao0bb/qt_for_python_66_released/)
 - [A starter script to index custom data to the MacOS Spotlight index using Python](https://www.reddit.com/r/Python/comments/17andnj/a_starter_script_to_index_custom_data_to_the/)
-- [Automated Excel template filling app STUCK](https://www.reddit.com/r/Python/comments/17ame87/automated_excel_template_filling_app_stuck/)
 <!-- BLOG-POST-LIST:END -->
