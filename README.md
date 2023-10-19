@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Face, Your Anime: Move Together 💫 [project]](https://www.reddit.com/r/Python/comments/17bpjmw/your_face_your_anime_move_together_project/)
 - [PrettyPrintTree 2.0!](https://www.reddit.com/r/Python/comments/17bo5ro/prettyprinttree_20/)
 - [We Have To Talk About Flask](https://www.reddit.com/r/Python/comments/17bnmxp/we_have_to_talk_about_flask/)
 - [Ruff 0.1.0 released - fast aio solution&lpar;linter + formatter&rpar; to replace black, isort, flake8 and many more](https://www.reddit.com/r/Python/comments/17bmtnj/ruff_010_released_fast_aio_solutionlinter/)
 - [Network monitoring](https://www.reddit.com/r/Python/comments/17bmow9/network_monitoring/)
-- [Free fusing python with Rust workshop in London](https://www.reddit.com/r/Python/comments/17bldvy/free_fusing_python_with_rust_workshop_in_london/)
 <!-- BLOG-POST-LIST:END -->
