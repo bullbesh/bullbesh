@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django + Native app hybrid](https://www.reddit.com/r/Python/comments/17bitym/django_native_app_hybrid/)
+- [Competitive Python AI Programmer](https://www.reddit.com/r/Python/comments/17bi6vw/competitive_python_ai_programmer/)
 - [Web Crawling with Python &lpar;Build Your Own Web Crawler&rpar;](https://www.reddit.com/r/Python/comments/17bh3hm/web_crawling_with_python_build_your_own_web/)
 - [Python programming exercises website - feedback needed](https://www.reddit.com/r/Python/comments/17bfv53/python_programming_exercises_website_feedback/)
 - [Profiling Python and Ruby using eBPF](https://www.reddit.com/r/Python/comments/17bee8w/profiling_python_and_ruby_using_ebpf/)
-- [I&#39;m banned for life from advertising on Meta. Because I teach Python](https://www.reddit.com/r/Python/comments/17bdxxa/im_banned_for_life_from_advertising_on_meta/)
-- [The First of its kind coolmath games game asset Downloader](https://www.reddit.com/r/Python/comments/17bd92e/the_first_of_its_kind_coolmath_games_game_asset/)
 <!-- BLOG-POST-LIST:END -->
