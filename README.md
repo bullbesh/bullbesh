@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free fusing python with Rust workshop in London](https://www.reddit.com/r/Python/comments/17bldvy/free_fusing_python_with_rust_workshop_in_london/)
+- [rip – Rust crate to quickly resolve and install Python wheels](https://www.reddit.com/r/Python/comments/17bkzo2/rip_rust_crate_to_quickly_resolve_and_install/)
+- [What projects do you use python for except for AI?](https://www.reddit.com/r/Python/comments/17bkcgu/what_projects_do_you_use_python_for_except_for_ai/)
 - [Django + Native app hybrid](https://www.reddit.com/r/Python/comments/17bitym/django_native_app_hybrid/)
 - [Competitive Python AI Programmer](https://www.reddit.com/r/Python/comments/17bi6vw/competitive_python_ai_programmer/)
-- [Web Crawling with Python &lpar;Build Your Own Web Crawler&rpar;](https://www.reddit.com/r/Python/comments/17bh3hm/web_crawling_with_python_build_your_own_web/)
-- [Python programming exercises website - feedback needed](https://www.reddit.com/r/Python/comments/17bfv53/python_programming_exercises_website_feedback/)
-- [Profiling Python and Ruby using eBPF](https://www.reddit.com/r/Python/comments/17bee8w/profiling_python_and_ruby_using_ebpf/)
 <!-- BLOG-POST-LIST:END -->
