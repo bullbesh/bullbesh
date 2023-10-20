@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - gumyr/build123d: A python CAD programming library](https://www.reddit.com/r/Python/comments/17ceczl/github_gumyrbuild123d_a_python_cad_programming/)
 - [Speeding up Cython with SIMD](https://www.reddit.com/r/Python/comments/17ccpj0/speeding_up_cython_with_simd/)
 - [maison: a package that finds and parses configurations files e.g. pyproject.toml](https://www.reddit.com/r/Python/comments/17cbvf2/maison_a_package_that_finds_and_parses/)
 - [Generate Python Code with OpenAI Codex API](https://www.reddit.com/r/Python/comments/17c61ro/generate_python_code_with_openai_codex_api/)
 - [Python Developers: What Skills Matter Most? Insights from Industry Pros and Job Seekers](https://www.reddit.com/r/Python/comments/17c3rfm/python_developers_what_skills_matter_most/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/17bxm2g/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
