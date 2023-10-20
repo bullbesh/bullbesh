@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [100% Off Udemy Course - Outstanding | Python Programming with Examples in One Day](https://www.reddit.com/r/Python/comments/17cg6wy/100_off_udemy_course_outstanding_python/)
+- [I made a Python library to simplify the headache of relative paths &amp; imports [slushie]](https://www.reddit.com/r/Python/comments/17cfx7u/i_made_a_python_library_to_simplify_the_headache/)
 - [GitHub - gumyr/build123d: A python CAD programming library](https://www.reddit.com/r/Python/comments/17ceczl/github_gumyrbuild123d_a_python_cad_programming/)
 - [Speeding up Cython with SIMD](https://www.reddit.com/r/Python/comments/17ccpj0/speeding_up_cython_with_simd/)
 - [maison: a package that finds and parses configurations files e.g. pyproject.toml](https://www.reddit.com/r/Python/comments/17cbvf2/maison_a_package_that_finds_and_parses/)
-- [Generate Python Code with OpenAI Codex API](https://www.reddit.com/r/Python/comments/17c61ro/generate_python_code_with_openai_codex_api/)
-- [Python Developers: What Skills Matter Most? Insights from Industry Pros and Job Seekers](https://www.reddit.com/r/Python/comments/17c3rfm/python_developers_what_skills_matter_most/)
 <!-- BLOG-POST-LIST:END -->
