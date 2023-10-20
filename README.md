@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplify environment variable management](https://www.reddit.com/r/Python/comments/17clmxf/simplify_environment_variable_management/)
+- [This Twitter account tracks updates to Python Enhancement Proposals &lpar;PEPs&rpar;](https://www.reddit.com/r/Python/comments/17cl20o/this_twitter_account_tracks_updates_to_python/)
 - [Flask, its ecosystem, and backwards compatibility](https://www.reddit.com/r/Python/comments/17cj3hw/flask_its_ecosystem_and_backwards_compatibility/)
 - [Linux 500x faster than Windows](https://www.reddit.com/r/Python/comments/17chsqi/linux_500x_faster_than_windows/)
 - [Easy-to-Use Apple Vision wrapper for text extraction and clustering](https://www.reddit.com/r/Python/comments/17chjwh/easytouse_apple_vision_wrapper_for_text/)
-- [I made a Python library to simplify the headache of relative paths &amp; imports [slushie]](https://www.reddit.com/r/Python/comments/17cfx7u/i_made_a_python_library_to_simplify_the_headache/)
-- [GitHub - gumyr/build123d: A python CAD programming library](https://www.reddit.com/r/Python/comments/17ceczl/github_gumyrbuild123d_a_python_cad_programming/)
 <!-- BLOG-POST-LIST:END -->
