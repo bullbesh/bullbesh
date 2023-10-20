@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate Python Code with OpenAI Codex API](https://www.reddit.com/r/Python/comments/17c61ro/generate_python_code_with_openai_codex_api/)
 - [Python Developers: What Skills Matter Most? Insights from Industry Pros and Job Seekers](https://www.reddit.com/r/Python/comments/17c3rfm/python_developers_what_skills_matter_most/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/17bxm2g/friday_daily_thread_rpython_meta_and_freetalk/)
 - [I created a script to download subtitles from the new opensubtitles.com](https://www.reddit.com/r/Python/comments/17bvg3t/i_created_a_script_to_download_subtitles_from_the/)
 - [We got an AI developer to write unit tests, catch a bug, and fix the code!](https://www.reddit.com/r/Python/comments/17butg0/we_got_an_ai_developer_to_write_unit_tests_catch/)
-- [Python comes to Google Sheets](https://www.reddit.com/r/Python/comments/17brprq/python_comes_to_google_sheets/)
 <!-- BLOG-POST-LIST:END -->
