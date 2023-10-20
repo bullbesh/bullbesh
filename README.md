@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - is it good?](https://www.reddit.com/r/Python/comments/17cmjw1/github_is_it_good/)
+- [LangChain in 60 seconds](https://www.reddit.com/r/Python/comments/17clzb7/langchain_in_60_seconds/)
+- [VS or PC?](https://www.reddit.com/r/Python/comments/17clue2/vs_or_pc/)
 - [Simplify environment variable management](https://www.reddit.com/r/Python/comments/17clmxf/simplify_environment_variable_management/)
 - [This Twitter account tracks updates to Python Enhancement Proposals &lpar;PEPs&rpar;](https://www.reddit.com/r/Python/comments/17cl20o/this_twitter_account_tracks_updates_to_python/)
-- [Flask, its ecosystem, and backwards compatibility](https://www.reddit.com/r/Python/comments/17cj3hw/flask_its_ecosystem_and_backwards_compatibility/)
-- [Linux 500x faster than Windows](https://www.reddit.com/r/Python/comments/17chsqi/linux_500x_faster_than_windows/)
-- [Easy-to-Use Apple Vision wrapper for text extraction and clustering](https://www.reddit.com/r/Python/comments/17chjwh/easytouse_apple_vision_wrapper_for_text/)
 <!-- BLOG-POST-LIST:END -->
