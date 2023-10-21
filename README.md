@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python Implementation of The Hangman Game](https://www.reddit.com/r/Python/comments/17d99cg/a_python_implementation_of_the_hangman_game/)
+- [Python Implementation of The Hangman Game](https://www.reddit.com/r/Python/comments/17d97si/python_implementation_of_the_hangman_game/)
+- [Audio File Translator - Speech To Speech Translator](https://www.reddit.com/r/Python/comments/17d8zxw/audio_file_translator_speech_to_speech_translator/)
 - [RenderCV: Create an elegant CV as PDF from YAML data](https://www.reddit.com/r/Python/comments/17d7tui/rendercv_create_an_elegant_cv_as_pdf_from_yaml/)
 - [Social media Keyword data](https://www.reddit.com/r/Python/comments/17d66z2/social_media_keyword_data/)
-- [Can anyone get a job](https://www.reddit.com/r/Python/comments/17d5eil/can_anyone_get_a_job/)
-- [Data Engineering Interviews: Questions and Tips](https://www.reddit.com/r/Python/comments/17d508k/data_engineering_interviews_questions_and_tips/)
-- [Desktop App Development](https://www.reddit.com/r/Python/comments/17d3jxb/desktop_app_development/)
 <!-- BLOG-POST-LIST:END -->
