@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [RenderCV: Create an elegant CV as PDF from YAML data](https://www.reddit.com/r/Python/comments/17d7tui/rendercv_create_an_elegant_cv_as_pdf_from_yaml/)
 - [Social media Keyword data](https://www.reddit.com/r/Python/comments/17d66z2/social_media_keyword_data/)
 - [Can anyone get a job](https://www.reddit.com/r/Python/comments/17d5eil/can_anyone_get_a_job/)
 - [Data Engineering Interviews: Questions and Tips](https://www.reddit.com/r/Python/comments/17d508k/data_engineering_interviews_questions_and_tips/)
 - [Desktop App Development](https://www.reddit.com/r/Python/comments/17d3jxb/desktop_app_development/)
-- [How to reduce the size of your conda-based docker images](https://www.reddit.com/r/Python/comments/17d2p5l/how_to_reduce_the_size_of_your_condabased_docker/)
 <!-- BLOG-POST-LIST:END -->
