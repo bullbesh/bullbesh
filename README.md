@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Things that you can use python for automation](https://www.reddit.com/r/Python/comments/17csth7/things_that_you_can_use_python_for_automation/)
+- [DBT of APIs: Made a Python package for creating API endpoints with dynamic queries.](https://www.reddit.com/r/Python/comments/17cu5vi/dbt_of_apis_made_a_python_package_for_creating/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/17cpb5z/saturday_daily_thread_resource_request_and/)
 - [AMA I got a job at Dropbox coding in Python for 1y](https://www.reddit.com/r/Python/comments/17cogpg/ama_i_got_a_job_at_dropbox_coding_in_python_for_1y/)
 - [GitHub - is it good?](https://www.reddit.com/r/Python/comments/17cmjw1/github_is_it_good/)
