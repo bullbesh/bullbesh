@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to reduce the size of your conda-based docker images](https://www.reddit.com/r/Python/comments/17d2p5l/how_to_reduce_the_size_of_your_condabased_docker/)
+- [Is GitHub copilot better than GPT-4 for coding - Python?](https://www.reddit.com/r/Python/comments/17d2fx5/is_github_copilot_better_than_gpt4_for_coding/)
 - [Raku, Python, and Wolfram Language over LLM functionalities - Wolfram Community](https://www.reddit.com/r/Python/comments/17czs1u/raku_python_and_wolfram_language_over_llm/)
 - [RecoverPy 2.1.3: Python file recovery tool](https://www.reddit.com/r/Python/comments/17cy7mj/recoverpy_213_python_file_recovery_tool/)
 - [Instruction fine-tuning Large Language Models for tax practice using quantization and LoRA: a boilerplate](https://www.reddit.com/r/Python/comments/17cxs26/instruction_finetuning_large_language_models_for/)
-- [Is using pyenv the best python version management for Mac?](https://www.reddit.com/r/Python/comments/17cvsd2/is_using_pyenv_the_best_python_version_management/)
-- [DBT of APIs: Made a Python package for creating API endpoints with dynamic queries.](https://www.reddit.com/r/Python/comments/17cu5vi/dbt_of_apis_made_a_python_package_for_creating/)
 <!-- BLOG-POST-LIST:END -->
