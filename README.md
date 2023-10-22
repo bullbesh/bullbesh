@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Reflex VS Taipy ? &lpar;100% Python Web Frameworks&rpar;](https://www.reddit.com/r/Python/comments/17dxl5b/reflex_vs_taipy_100_python_web_frameworks/)
-- [Sushi Batch - Batch Subtitle Synchronization Tool](https://www.reddit.com/r/Python/comments/17dx11y/sushi_batch_batch_subtitle_synchronization_tool/)
-- [What Python code analysis tools are you using?](https://www.reddit.com/r/Python/comments/17drs3i/what_python_code_analysis_tools_are_you_using/)
-- [Are you using types in Python ?](https://www.reddit.com/r/Python/comments/17dpmll/are_you_using_types_in_python/)
-- [Featuretools](https://www.reddit.com/r/Python/comments/17dns6s/featuretools/)
+- [Dates And Times And Types](https://www.reddit.com/r/Python/comments/17dz8mb/dates_and_times_and_types/)
+- [Future of python development with AI](https://www.reddit.com/r/Python/comments/17dz8e0/future_of_python_development_with_ai/)
+- [Sourcery tool question](https://www.reddit.com/r/Python/comments/17dyjqy/sourcery_tool_question/)
+- [Python&#39;s &quot;magic&quot; methods - part 2](https://www.reddit.com/r/Python/comments/17dygkt/pythons_magic_methods_part_2/)
+- [Making a game in python but every bug I run a mile](https://www.reddit.com/r/Python/comments/17dy4ay/making_a_game_in_python_but_every_bug_i_run_a_mile/)
 <!-- BLOG-POST-LIST:END -->
