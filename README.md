@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is cloud mining and how to earn money at home with cloud mining. For Python programmers.](https://www.reddit.com/r/Python/comments/17djt2l/what_is_cloud_mining_and_how_to_earn_money_at/)
+- [When have you reach a Python limit ?](https://www.reddit.com/r/Python/comments/17dkshe/when_have_you_reach_a_python_limit/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/17dg6vj/sunday_daily_thread_whats_everyone_working_on/)
 - [Python project template](https://www.reddit.com/r/Python/comments/17ddq9o/python_project_template/)
 - [A Python Implementation of The Hangman Game](https://www.reddit.com/r/Python/comments/17d99cg/a_python_implementation_of_the_hangman_game/)
