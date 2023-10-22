@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reflex VS Taipy ? &lpar;100% Python Web Frameworks&rpar;](https://www.reddit.com/r/Python/comments/17dxl5b/reflex_vs_taipy_100_python_web_frameworks/)
+- [Sushi Batch - Batch Subtitle Synchronization Tool](https://www.reddit.com/r/Python/comments/17dx11y/sushi_batch_batch_subtitle_synchronization_tool/)
 - [What Python code analysis tools are you using?](https://www.reddit.com/r/Python/comments/17drs3i/what_python_code_analysis_tools_are_you_using/)
 - [Are you using types in Python ?](https://www.reddit.com/r/Python/comments/17dpmll/are_you_using_types_in_python/)
 - [Featuretools](https://www.reddit.com/r/Python/comments/17dns6s/featuretools/)
-- [List of Python projects with source code](https://www.reddit.com/r/Python/comments/17dnq6r/list_of_python_projects_with_source_code/)
-- [Python performance with Fastapi, sqlalchemy](https://www.reddit.com/r/Python/comments/17dmrz7/python_performance_with_fastapi_sqlalchemy/)
 <!-- BLOG-POST-LIST:END -->
