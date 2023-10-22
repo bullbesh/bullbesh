@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are you using types in Python ?](https://www.reddit.com/r/Python/comments/17dpmll/are_you_using_types_in_python/)
 - [Featuretools](https://www.reddit.com/r/Python/comments/17dns6s/featuretools/)
 - [List of Python projects with source code](https://www.reddit.com/r/Python/comments/17dnq6r/list_of_python_projects_with_source_code/)
 - [Python performance with Fastapi, sqlalchemy](https://www.reddit.com/r/Python/comments/17dmrz7/python_performance_with_fastapi_sqlalchemy/)
 - [When have you reach a Python limit ?](https://www.reddit.com/r/Python/comments/17dkshe/when_have_you_reach_a_python_limit/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/17dg6vj/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
