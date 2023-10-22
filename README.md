@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [duckargs 1.4.0 🦆 Supports generating C code!](https://www.reddit.com/r/Python/comments/17e4tkn/duckargs_140_supports_generating_c_code/)
+- [Are there any use-cases for a non-technical person to use Python?](https://www.reddit.com/r/Python/comments/17e3u62/are_there_any_usecases_for_a_nontechnical_person/)
 - [namespaces.py - No more stupid dots](https://www.reddit.com/r/Python/comments/17e370y/namespacespy_no_more_stupid_dots/)
 - [Dates And Times And Types](https://www.reddit.com/r/Python/comments/17dz8mb/dates_and_times_and_types/)
 - [Future of python development with AI](https://www.reddit.com/r/Python/comments/17dz8e0/future_of_python_development_with_ai/)
-- [Sourcery tool question](https://www.reddit.com/r/Python/comments/17dyjqy/sourcery_tool_question/)
-- [Python&#39;s &quot;magic&quot; methods - part 2](https://www.reddit.com/r/Python/comments/17dygkt/pythons_magic_methods_part_2/)
 <!-- BLOG-POST-LIST:END -->
