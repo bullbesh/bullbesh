@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/17dg6vj/sunday_daily_thread_whats_everyone_working_on/)
 - [Python project template](https://www.reddit.com/r/Python/comments/17ddq9o/python_project_template/)
 - [A Python Implementation of The Hangman Game](https://www.reddit.com/r/Python/comments/17d99cg/a_python_implementation_of_the_hangman_game/)
 - [Audio File Translator - Speech To Speech Translator](https://www.reddit.com/r/Python/comments/17d8zxw/audio_file_translator_speech_to_speech_translator/)
 - [RenderCV: Create an elegant CV as PDF from YAML data](https://www.reddit.com/r/Python/comments/17d7tui/rendercv_create_an_elegant_cv_as_pdf_from_yaml/)
-- [Social media Keyword data](https://www.reddit.com/r/Python/comments/17d66z2/social_media_keyword_data/)
 <!-- BLOG-POST-LIST:END -->
