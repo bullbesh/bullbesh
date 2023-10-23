@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Migration lib recommendation for flask + how to start with an existing DB?](https://www.reddit.com/r/Python/comments/17evr0k/migration_lib_recommendation_for_flask_how_to/)
 - [Coding the Big Bang with Python](https://www.reddit.com/r/Python/comments/17eupf2/coding_the_big_bang_with_python/)
 - [Suggestions for an audio-reactive led strip for music therapy &lpar;please read&rpar;](https://www.reddit.com/r/Python/comments/17et9kg/suggestions_for_an_audioreactive_led_strip_for/)
-- [What is the functionality of if __main__ == &quot;__main__&quot; :?](https://www.reddit.com/r/Python/comments/17esicg/what_is_the_functionality_of_if_main_main/)
 - [TIL that datetime.utcnow&lpar;&rpar; is faster than datetime.now&lpar;&rpar;](https://www.reddit.com/r/Python/comments/17eryl6/til_that_datetimeutcnow_is_faster_than_datetimenow/)
 - [What makes Python is so popular and Ruby died ?](https://www.reddit.com/r/Python/comments/17errkn/what_makes_python_is_so_popular_and_ruby_died/)
 <!-- BLOG-POST-LIST:END -->
