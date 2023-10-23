@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pure Foolery: The naughty playground of the web](https://www.reddit.com/r/Python/comments/17ehvh9/pure_foolery_the_naughty_playground_of_the_web/)
+- [Automatic Flame Graphs of Python code in the CI](https://www.reddit.com/r/Python/comments/17ehoba/automatic_flame_graphs_of_python_code_in_the_ci/)
+- [Django SAML2 Auth is downloaded 102k times! 🎉](https://www.reddit.com/r/Python/comments/17ehdgx/django_saml2_auth_is_downloaded_102k_times/)
 - [CSV2Notion Neo - Upload &amp; Merge CSV Data with Images to Notion Database.](https://www.reddit.com/r/Python/comments/17ean4b/csv2notion_neo_upload_merge_csv_data_with_images/)
 - [Docutron Toolkit: detection and segmentation analysis for legal data extraction over documents](https://www.reddit.com/r/Python/comments/17e8dth/docutron_toolkit_detection_and_segmentation/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/17e731y/monday_daily_thread_project_ideas/)
-- [duckargs 1.4.0 🦆 Supports generating C code!](https://www.reddit.com/r/Python/comments/17e4tkn/duckargs_140_supports_generating_c_code/)
-- [Are there any use-cases for a non-technical person to use Python?](https://www.reddit.com/r/Python/comments/17e3u62/are_there_any_usecases_for_a_nontechnical_person/)
 <!-- BLOG-POST-LIST:END -->
