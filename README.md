@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Never have I ever felt like an idiot](https://www.reddit.com/r/Python/comments/17enxzk/never_have_i_ever_felt_like_an_idiot/)
 - [How to orchestrate multiple AI agents to create a fully working app](https://www.reddit.com/r/Python/comments/17elvgt/how_to_orchestrate_multiple_ai_agents_to_create_a/)
 - [Short experiments with Python and SVG](https://www.reddit.com/r/Python/comments/17ekq7u/short_experiments_with_python_and_svg/)
 - [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe](https://www.reddit.com/r/Python/comments/17ek8um/the_python_on_microcontrollers_newsletter_a_free/)
 - [General Purpose Self Supervised ViT](https://www.reddit.com/r/Python/comments/17ek2yn/general_purpose_self_supervised_vit/)
-- [Implementing Role-Based Access Control &lpar;RBAC&rpar; in Django](https://www.reddit.com/r/Python/comments/17ejmc9/implementing_rolebased_access_control_rbac_in/)
 <!-- BLOG-POST-LIST:END -->
