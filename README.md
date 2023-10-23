@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [General Purpose Self Supervised ViT](https://www.reddit.com/r/Python/comments/17ek2yn/general_purpose_self_supervised_vit/)
+- [Implementing Role-Based Access Control &lpar;RBAC&rpar; in Django](https://www.reddit.com/r/Python/comments/17ejmc9/implementing_rolebased_access_control_rbac_in/)
+- [Security Tools in Python](https://www.reddit.com/r/Python/comments/17ejdsg/security_tools_in_python/)
 - [Automatic Flame Graphs of Python code in the CI](https://www.reddit.com/r/Python/comments/17ehoba/automatic_flame_graphs_of_python_code_in_the_ci/)
 - [Django SAML2 Auth is downloaded 102k times! 🎉](https://www.reddit.com/r/Python/comments/17ehdgx/django_saml2_auth_is_downloaded_102k_times/)
-- [CSV2Notion Neo - Upload &amp; Merge CSV Data with Images to Notion Database.](https://www.reddit.com/r/Python/comments/17ean4b/csv2notion_neo_upload_merge_csv_data_with_images/)
-- [Docutron Toolkit: detection and segmentation analysis for legal data extraction over documents](https://www.reddit.com/r/Python/comments/17e8dth/docutron_toolkit_detection_and_segmentation/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/17e731y/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
