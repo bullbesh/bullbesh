@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Never have I ever felt like an idiot](https://www.reddit.com/r/Python/comments/17enxzk/never_have_i_ever_felt_like_an_idiot/)
+- [TIL that datetime.utcnow&lpar;&rpar; is faster than datetime.now&lpar;&rpar;](https://www.reddit.com/r/Python/comments/17eryl6/til_that_datetimeutcnow_is_faster_than_datetimenow/)
+- [What makes Python is so popular and Ruby died ?](https://www.reddit.com/r/Python/comments/17errkn/what_makes_python_is_so_popular_and_ruby_died/)
+- [Is there a command to close the console ?](https://www.reddit.com/r/Python/comments/17ermkt/is_there_a_command_to_close_the_console/)
+- [MemGPT🧠 Transforms LLM into an Epic Operating System](https://www.reddit.com/r/Python/comments/17erh9k/memgpt_transforms_llm_into_an_epic_operating/)
 - [How to orchestrate multiple AI agents to create a fully working app](https://www.reddit.com/r/Python/comments/17elvgt/how_to_orchestrate_multiple_ai_agents_to_create_a/)
-- [Short experiments with Python and SVG](https://www.reddit.com/r/Python/comments/17ekq7u/short_experiments_with_python_and_svg/)
-- [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe](https://www.reddit.com/r/Python/comments/17ek8um/the_python_on_microcontrollers_newsletter_a_free/)
-- [General Purpose Self Supervised ViT](https://www.reddit.com/r/Python/comments/17ek2yn/general_purpose_self_supervised_vit/)
 <!-- BLOG-POST-LIST:END -->
