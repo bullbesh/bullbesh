@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Suggestions for an audio-reactive led strip for music therapy &lpar;please read&rpar;](https://www.reddit.com/r/Python/comments/17et9kg/suggestions_for_an_audioreactive_led_strip_for/)
+- [What is the functionality of if __main__ == &quot;__main__&quot; :?](https://www.reddit.com/r/Python/comments/17esicg/what_is_the_functionality_of_if_main_main/)
 - [TIL that datetime.utcnow&lpar;&rpar; is faster than datetime.now&lpar;&rpar;](https://www.reddit.com/r/Python/comments/17eryl6/til_that_datetimeutcnow_is_faster_than_datetimenow/)
 - [What makes Python is so popular and Ruby died ?](https://www.reddit.com/r/Python/comments/17errkn/what_makes_python_is_so_popular_and_ruby_died/)
 - [Is there a command to close the console ?](https://www.reddit.com/r/Python/comments/17ermkt/is_there_a_command_to_close_the_console/)
-- [MemGPT🧠 Transforms LLM into an Epic Operating System](https://www.reddit.com/r/Python/comments/17erh9k/memgpt_transforms_llm_into_an_epic_operating/)
-- [How to orchestrate multiple AI agents to create a fully working app](https://www.reddit.com/r/Python/comments/17elvgt/how_to_orchestrate_multiple_ai_agents_to_create_a/)
 <!-- BLOG-POST-LIST:END -->
