@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to build a geographical map in Python Altair](https://www.reddit.com/r/Python/comments/17f8kr9/how_to_build_a_geographical_map_in_python_altair/)
 - [Python Tenacity Source Code Location](https://www.reddit.com/r/Python/comments/17f50kp/python_tenacity_source_code_location/)
 - [I published my first python module, it controls the brightness of a Raspberry Pi LED screen](https://www.reddit.com/r/Python/comments/17f3r6p/i_published_my_first_python_module_it_controls/)
 - [A comprehensive guide to making and organizing custom exceptions in Python!](https://www.reddit.com/r/Python/comments/17f2n5y/a_comprehensive_guide_to_making_and_organizing/)
 - [Can a Python genetic algorithm run as fast as C?](https://www.reddit.com/r/Python/comments/17ezby4/can_a_python_genetic_algorithm_run_as_fast_as_c/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/17ez3np/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
