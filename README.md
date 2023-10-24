@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Training multiple ML algorithms on same X_Train a good idea?](https://www.reddit.com/r/Python/comments/17f9tfp/training_multiple_ml_algorithms_on_same_x_train_a/)
-- [How to build a geographical map in Python Altair](https://www.reddit.com/r/Python/comments/17f8kr9/how_to_build_a_geographical_map_in_python_altair/)
-- [Python Tenacity Source Code Location](https://www.reddit.com/r/Python/comments/17f50kp/python_tenacity_source_code_location/)
-- [I published my first python module, it controls the brightness of a Raspberry Pi LED screen](https://www.reddit.com/r/Python/comments/17f3r6p/i_published_my_first_python_module_it_controls/)
-- [A comprehensive guide to making and organizing custom exceptions in Python!](https://www.reddit.com/r/Python/comments/17f2n5y/a_comprehensive_guide_to_making_and_organizing/)
+- [Snowflake to acquire Ponder for enterprise Python capabilities](https://www.reddit.com/r/Python/comments/17fdh5q/snowflake_to_acquire_ponder_for_enterprise_python/)
+- [How to Generate Images from Text Prompts in 5 mins | Python | Streamlit](https://www.reddit.com/r/Python/comments/17fdbvs/how_to_generate_images_from_text_prompts_in_5/)
+- [Panda&#39;s powerful abstractions](https://www.reddit.com/r/Python/comments/17fdad9/pandas_powerful_abstractions/)
+- [Why Developers Shouldn&#39;t Write Mocks. Stubs are fine.](https://www.reddit.com/r/Python/comments/17fd9m0/why_developers_shouldnt_write_mocks_stubs_are_fine/)
+- [Day 18: N-Queens python coding problem [LeetCode]](https://www.reddit.com/r/Python/comments/17fd3br/day_18_nqueens_python_coding_problem_leetcode/)
 <!-- BLOG-POST-LIST:END -->
