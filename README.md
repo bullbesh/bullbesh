@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 703 &lpar;Making the Global Interpreter Lock Optional in CPython&rpar; acceptance](https://www.reddit.com/r/Python/comments/17frney/pep_703_making_the_global_interpreter_lock/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/17fregf/wednesday_daily_thread_beginner_questions/)
 - [Python script stops working after few hours?](https://www.reddit.com/r/Python/comments/17fn6jv/python_script_stops_working_after_few_hours/)
 - [Discussion](https://www.reddit.com/r/Python/comments/17fmtup/discussion/)
-- [For those of you who work with POS &lpar;Point of Sale&rpar; system, would it be possible to make a phone app that has a predetermined tip amount that automatically applies to the POS via NFC?](https://www.reddit.com/r/Python/comments/17flydo/for_those_of_you_who_work_with_pos_point_of_sale/)
 - [Python, Rust, Chumsky, Tree-sitter, and EdgeDB walk into a bar | EdgeDB Blog](https://www.reddit.com/r/Python/comments/17fk5ps/python_rust_chumsky_treesitter_and_edgedb_walk/)
-- [Resources for functional design patterns in Python?](https://www.reddit.com/r/Python/comments/17fk3k8/resources_for_functional_design_patterns_in_python/)
 <!-- BLOG-POST-LIST:END -->
