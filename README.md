@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any Book Recommendation for Apache Beam Python?](https://www.reddit.com/r/Python/comments/17g5is7/any_book_recommendation_for_apache_beam_python/)
 - [pypipe - A python command-line tool for pypeline processing](https://www.reddit.com/r/Python/comments/17g2ssn/pypipe_a_python_commandline_tool_for_pypeline/)
 - [Introducing polars expression plugins for python](https://www.reddit.com/r/Python/comments/17g163c/introducing_polars_expression_plugins_for_python/)
 - [Cassandra: Use Cases and Python CRUD Operations](https://www.reddit.com/r/Python/comments/17g0rxt/cassandra_use_cases_and_python_crud_operations/)
 - [PEP 703 &lpar;Making the Global Interpreter Lock Optional in CPython&rpar; acceptance](https://www.reddit.com/r/Python/comments/17frney/pep_703_making_the_global_interpreter_lock/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/17fregf/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
