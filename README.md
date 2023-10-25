@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linters](https://www.reddit.com/r/Python/comments/17gcf0n/linters/)
 - [Which book to choose for get know better Python?](https://www.reddit.com/r/Python/comments/17g9v63/which_book_to_choose_for_get_know_better_python/)
 - [Squeezing Water from Stone - Managing OpenAI Rate Limits with Request Prioritization](https://www.reddit.com/r/Python/comments/17g9utj/squeezing_water_from_stone_managing_openai_rate/)
 - [Data Structures in Python Web Development](https://www.reddit.com/r/Python/comments/17g9ebo/data_structures_in_python_web_development/)
 - [OSS project: Interactively explore 🤗 datasets with one line of code](https://www.reddit.com/r/Python/comments/17g73r9/oss_project_interactively_explore_datasets_with/)
-- [Any Book Recommendation for Apache Beam Python?](https://www.reddit.com/r/Python/comments/17g5is7/any_book_recommendation_for_apache_beam_python/)
 <!-- BLOG-POST-LIST:END -->
