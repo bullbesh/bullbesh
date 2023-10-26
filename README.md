@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your very own cursor, finally!](https://www.reddit.com/r/Python/comments/17h3w8d/your_very_own_cursor_finally/)
 - [Ruff now has a very fast black compatible Formatter](https://www.reddit.com/r/Python/comments/17h2u1o/ruff_now_has_a_very_fast_black_compatible/)
 - [What Python Courses does Industry actually care about?](https://www.reddit.com/r/Python/comments/17h2o72/what_python_courses_does_industry_actually_care/)
 - [μDjango &lpar;micro Django&rpar;](https://www.reddit.com/r/Python/comments/17h218z/μdjango_micro_django/)
 - [Logic Building and Programming using Python](https://www.reddit.com/r/Python/comments/17h1ags/logic_building_and_programming_using_python/)
-- [100% test coverage is not enough: Property-Based Testing in Python](https://www.reddit.com/r/Python/comments/17h1908/100_test_coverage_is_not_enough_propertybased/)
 <!-- BLOG-POST-LIST:END -->
