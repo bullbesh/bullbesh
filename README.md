@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python resources for Data Engineers](https://www.reddit.com/r/Python/comments/17gyvb1/python_resources_for_data_engineers/)
+- [Need Python Project Ideas for Technical Resume](https://www.reddit.com/r/Python/comments/17gyun4/need_python_project_ideas_for_technical_resume/)
 - [⭐ uniswap-universal-router-decoder v1.0.0 has just been packaged on PyPI! ⭐](https://www.reddit.com/r/Python/comments/17gy02x/uniswapuniversalrouterdecoder_v100_has_just_been/)
 - [Boost Your Coding Productivity With Ptpython](https://www.reddit.com/r/Python/comments/17gwx83/boost_your_coding_productivity_with_ptpython/)
 - [ELD: Efficient Language Detector. &lpar; First Python project &rpar;](https://www.reddit.com/r/Python/comments/17gwcnk/eld_efficient_language_detector_first_python/)
-- [Meeting transcription bot](https://www.reddit.com/r/Python/comments/17gwbv0/meeting_transcription_bot/)
-- [Made a tutorial regarding Pandas &lpar;package&rpar; in Python, Data Science, any advice or feedback ?](https://www.reddit.com/r/Python/comments/17gv2t8/made_a_tutorial_regarding_pandas_package_in/)
 <!-- BLOG-POST-LIST:END -->
