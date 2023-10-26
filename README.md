@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your Coding Productivity With Ptpython](https://www.reddit.com/r/Python/comments/17gwx83/boost_your_coding_productivity_with_ptpython/)
+- [ELD: Efficient Language Detector. &lpar; First Python project &rpar;](https://www.reddit.com/r/Python/comments/17gwcnk/eld_efficient_language_detector_first_python/)
 - [Meeting transcription bot](https://www.reddit.com/r/Python/comments/17gwbv0/meeting_transcription_bot/)
 - [Made a tutorial regarding Pandas &lpar;package&rpar; in Python, Data Science, any advice or feedback ?](https://www.reddit.com/r/Python/comments/17gv2t8/made_a_tutorial_regarding_pandas_package_in/)
 - [I wrote a System Tray app to monitor Logitech mouse battery levels.](https://www.reddit.com/r/Python/comments/17gu21j/i_wrote_a_system_tray_app_to_monitor_logitech/)
-- [ASR/STT/VRS ranking](https://www.reddit.com/r/Python/comments/17gu1au/asrsttvrs_ranking/)
-- [When to use pre-commit hook vs GitHub actions?](https://www.reddit.com/r/Python/comments/17gnspo/when_to_use_precommit_hook_vs_github_actions/)
 <!-- BLOG-POST-LIST:END -->
