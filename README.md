@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Convert visualization to audio explanation/ short summary in Python](https://www.reddit.com/r/Python/comments/17hxlkm/convert_visualization_to_audio_explanation_short/)
 - [Introducing SuperDuperDB: An Open source framework for the community to bring AI directly into you database 🔮](https://www.reddit.com/r/Python/comments/17hnzfe/introducing_superduperdb_an_open_source_framework/)
 - [🔮Great webinar on enabling and managing vector search in Mongodb Altas](https://www.reddit.com/r/Python/comments/17hnsvw/great_webinar_on_enabling_and_managing_vector/)
 - [Is using libraries cheating?](https://www.reddit.com/r/Python/comments/17hn3vb/is_using_libraries_cheating/)
 - [What does python professionals use to read.](https://www.reddit.com/r/Python/comments/17hibdd/what_does_python_professionals_use_to_read/)
-- [QualityScaler 2.8 - image/video AI upscaler app](https://www.reddit.com/r/Python/comments/17hhxwh/qualityscaler_28_imagevideo_ai_upscaler_app/)
 <!-- BLOG-POST-LIST:END -->
