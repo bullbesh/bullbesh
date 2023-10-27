@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is using libraries cheating?](https://www.reddit.com/r/Python/comments/17hn3vb/is_using_libraries_cheating/)
 - [What does python professionals use to read.](https://www.reddit.com/r/Python/comments/17hibdd/what_does_python_professionals_use_to_read/)
 - [QualityScaler 2.8 - image/video AI upscaler app](https://www.reddit.com/r/Python/comments/17hhxwh/qualityscaler_28_imagevideo_ai_upscaler_app/)
 - [You should know these f-string tricks](https://www.reddit.com/r/Python/comments/17hgu5o/you_should_know_these_fstring_tricks/)
 - [quaeso 🐍 -- python cli program to send requests](https://www.reddit.com/r/Python/comments/17hgfcj/quaeso_python_cli_program_to_send_requests/)
-- [what GUI admin for MySQL do Python coders use &lpar;e.g. phpMyAdmin&rpar;](https://www.reddit.com/r/Python/comments/17he3rf/what_gui_admin_for_mysql_do_python_coders_use_eg/)
 <!-- BLOG-POST-LIST:END -->
