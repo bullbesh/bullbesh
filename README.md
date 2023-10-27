@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyCon APAC Has Begun!](https://www.reddit.com/r/Python/comments/17hb4g4/pycon_apac_has_begun/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/17haitb/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Connecting Jupyter + DB + Streamlit locally, with Python client connections out-of-the-box](https://www.reddit.com/r/Python/comments/17h8ou4/connecting_jupyter_db_streamlit_locally_with/)
-- [Your very own cursor, finally!](https://www.reddit.com/r/Python/comments/17h3w8d/your_very_own_cursor_finally/)
-- [Ruff now has a very fast black compatible Formatter](https://www.reddit.com/r/Python/comments/17h2u1o/ruff_now_has_a_very_fast_black_compatible/)
-- [What Python Courses does Industry actually care about?](https://www.reddit.com/r/Python/comments/17h2o72/what_python_courses_does_industry_actually_care/)
-- [μDjango &lpar;micro Django&rpar;](https://www.reddit.com/r/Python/comments/17h218z/μdjango_micro_django/)
+- [Python tutorials for Network Engineers](https://www.reddit.com/r/Python/comments/17h74y1/python_tutorials_for_network_engineers/)
+- [Short example of sys.monitoring profiler with 3.12](https://www.reddit.com/r/Python/comments/17h70mx/short_example_of_sysmonitoring_profiler_with_312/)
 <!-- BLOG-POST-LIST:END -->
