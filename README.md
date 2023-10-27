@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [what GUI admin for MySQL do Python coders use &lpar;e.g. phpMyAdmin&rpar;](https://www.reddit.com/r/Python/comments/17he3rf/what_gui_admin_for_mysql_do_python_coders_use_eg/)
 - [PyCon APAC Has Begun!](https://www.reddit.com/r/Python/comments/17hb4g4/pycon_apac_has_begun/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/17haitb/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Connecting Jupyter + DB + Streamlit locally, with Python client connections out-of-the-box](https://www.reddit.com/r/Python/comments/17h8ou4/connecting_jupyter_db_streamlit_locally_with/)
 - [Python tutorials for Network Engineers](https://www.reddit.com/r/Python/comments/17h74y1/python_tutorials_for_network_engineers/)
-- [Short example of sys.monitoring profiler with 3.12](https://www.reddit.com/r/Python/comments/17h70mx/short_example_of_sysmonitoring_profiler_with_312/)
 <!-- BLOG-POST-LIST:END -->
