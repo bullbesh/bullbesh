@@ -11,6 +11,6 @@
 - [Easily Visualize your SQLAlchemy Data Models in a Nice SVG Diagram](https://www.reddit.com/r/Python/comments/17i2u7y/easily_visualize_your_sqlalchemy_data_models_in_a/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/17i17ls/saturday_daily_thread_resource_request_and/)
 - [Revolutionizing AI Interaction: A Unique Python Script for Efficient Data Processing](https://www.reddit.com/r/Python/comments/17i133d/revolutionizing_ai_interaction_a_unique_python/)
-- [Take your Streamlit apps to the next level with GPT-4](https://www.reddit.com/r/Python/comments/17hyb79/take_your_streamlit_apps_to_the_next_level_with/)
 - [Convert visualization to audio explanation/ short summary in Python](https://www.reddit.com/r/Python/comments/17hxlkm/convert_visualization_to_audio_explanation_short/)
+- [Introducing SuperDuperDB: An Open source framework for the community to bring AI directly into you database 🔮](https://www.reddit.com/r/Python/comments/17hnzfe/introducing_superduperdb_an_open_source_framework/)
 <!-- BLOG-POST-LIST:END -->
