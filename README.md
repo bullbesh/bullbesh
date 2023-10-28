@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [You should know these f-string tricks &lpar;Part 2&rpar;](https://www.reddit.com/r/Python/comments/17iaikb/you_should_know_these_fstring_tricks_part_2/)
+- [Automate Xiaomi Mi Scale 2 Weight Data Retrieval with Python](https://www.reddit.com/r/Python/comments/17ia7lc/automate_xiaomi_mi_scale_2_weight_data_retrieval/)
 - [If you enjoy Python - consider trying out Godot! &lpar;To make games&rpar;](https://www.reddit.com/r/Python/comments/17i7zkv/if_you_enjoy_python_consider_trying_out_godot_to/)
 - [Open-source Personalized email automation tool](https://www.reddit.com/r/Python/comments/17i7vk2/opensource_personalized_email_automation_tool/)
 - [Adding Strict MyPy to Legacy Projects?](https://www.reddit.com/r/Python/comments/17i68rv/adding_strict_mypy_to_legacy_projects/)
-- [ProxyNest a proxy management API, i would love your critiques.](https://www.reddit.com/r/Python/comments/17i572d/proxynest_a_proxy_management_api_i_would_love/)
-- [Easily Visualize your SQLAlchemy Data Models in a Nice SVG Diagram](https://www.reddit.com/r/Python/comments/17i2u7y/easily_visualize_your_sqlalchemy_data_models_in_a/)
 <!-- BLOG-POST-LIST:END -->
