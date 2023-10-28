@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [If you enjoy Python - consider trying out Godot! &lpar;To make games&rpar;](https://www.reddit.com/r/Python/comments/17i7zkv/if_you_enjoy_python_consider_trying_out_godot_to/)
+- [Open-source Personalized email automation tool](https://www.reddit.com/r/Python/comments/17i7vk2/opensource_personalized_email_automation_tool/)
+- [Adding Strict MyPy to Legacy Projects?](https://www.reddit.com/r/Python/comments/17i68rv/adding_strict_mypy_to_legacy_projects/)
+- [ProxyNest a proxy management API, i would love your critiques.](https://www.reddit.com/r/Python/comments/17i572d/proxynest_a_proxy_management_api_i_would_love/)
 - [Easily Visualize your SQLAlchemy Data Models in a Nice SVG Diagram](https://www.reddit.com/r/Python/comments/17i2u7y/easily_visualize_your_sqlalchemy_data_models_in_a/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/17i17ls/saturday_daily_thread_resource_request_and/)
-- [Revolutionizing AI Interaction: A Unique Python Script for Efficient Data Processing](https://www.reddit.com/r/Python/comments/17i133d/revolutionizing_ai_interaction_a_unique_python/)
-- [Convert visualization to audio explanation/ short summary in Python](https://www.reddit.com/r/Python/comments/17hxlkm/convert_visualization_to_audio_explanation_short/)
-- [Introducing SuperDuperDB: An Open source framework for the community to bring AI directly into you database 🔮](https://www.reddit.com/r/Python/comments/17hnzfe/introducing_superduperdb_an_open_source_framework/)
 <!-- BLOG-POST-LIST:END -->
