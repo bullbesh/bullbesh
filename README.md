@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Web Framework](https://www.reddit.com/r/Python/comments/17igspt/python_web_framework/)
+- [Which python cert](https://www.reddit.com/r/Python/comments/17ifxqj/which_python_cert/)
 - [Mandelbrot Set Using The Turtle Module.](https://www.reddit.com/r/Python/comments/17iegpn/mandelbrot_set_using_the_turtle_module/)
 - [Python - Halloween Prank - Make Them Think They Have a Virus!](https://www.reddit.com/r/Python/comments/17iefd4/python_halloween_prank_make_them_think_they_have/)
 - [I shared a Python Pandas course &lpar;1.5 Hrs&rpar; on YouTube](https://www.reddit.com/r/Python/comments/17ie0dy/i_shared_a_python_pandas_course_15_hrs_on_youtube/)
-- [Don’t Make These Mistakes with Try-Excepts in Python](https://www.reddit.com/r/Python/comments/17icmco/dont_make_these_mistakes_with_tryexcepts_in_python/)
-- [@decorators Hmm... prity cool](https://www.reddit.com/r/Python/comments/17ibkwz/decorators_hmm_prity_cool/)
 <!-- BLOG-POST-LIST:END -->
