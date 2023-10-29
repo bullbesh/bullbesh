@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Pandas: filtering, grouping and aggregation](https://www.reddit.com/r/Python/comments/17j8wk8/simple_pandas_filtering_grouping_and_aggregation/)
+- [Distinguishing aware and naive datetimes at the type level](https://www.reddit.com/r/Python/comments/17j8wb5/distinguishing_aware_and_naive_datetimes_at_the/)
+- [Feedback from calling Rust from Python](https://www.reddit.com/r/Python/comments/17j819o/feedback_from_calling_rust_from_python/)
+- [How to Create a WORDCLOUD in Python in 4 mins](https://www.reddit.com/r/Python/comments/17j80e9/how_to_create_a_wordcloud_in_python_in_4_mins/)
 - [Need suggestions regarding my IDE project](https://www.reddit.com/r/Python/comments/17j5am0/need_suggestions_regarding_my_ide_project/)
-- [Analyzing Data 170,000x Faster with Python](https://www.reddit.com/r/Python/comments/17j4pjh/analyzing_data_170000x_faster_with_python/)
-- [Hash Passwords Using bcrypt Library in Python](https://www.reddit.com/r/Python/comments/17j4lbz/hash_passwords_using_bcrypt_library_in_python/)
-- [Test language speed the best way](https://www.reddit.com/r/Python/comments/17j00bz/test_language_speed_the_best_way/)
-- [Importerror: attempted relative import with no known parent package](https://www.reddit.com/r/Python/comments/17izwl1/importerror_attempted_relative_import_with_no/)
 <!-- BLOG-POST-LIST:END -->
