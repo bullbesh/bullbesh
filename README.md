@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [So i made a small text based adventure game suggested by u/ dJingrain. What should i do next?](https://www.reddit.com/r/Python/comments/17jxwcw/so_i_made_a_small_text_based_adventure_game/)
+- [A lightweight cookiecutter template for Django - focused specifically on building APIs](https://www.reddit.com/r/Python/comments/17k0g04/a_lightweight_cookiecutter_template_for_django/)
 - [GitHub - MattEttler/python-bmp-generator: Generate Bitmap images using pythong.](https://www.reddit.com/r/Python/comments/17juuvh/github_mattettlerpythonbmpgenerator_generate/)
 - [Mastermind Board Game Using Kivy GUI](https://www.reddit.com/r/Python/comments/17jua4w/mastermind_board_game_using_kivy_gui/)
 - [Speeding up Cython with SIMD](https://www.reddit.com/r/Python/comments/17jtqbn/speeding_up_cython_with_simd/)
