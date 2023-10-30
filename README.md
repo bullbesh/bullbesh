@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Real-Time Image Processing using WebSockets and Flask in Python and JavaScript](https://www.reddit.com/r/Python/comments/17jjuzd/realtime_image_processing_using_websockets_and/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/17jgdfy/monday_daily_thread_project_ideas/)
 - [user-friendly password generator with a rich feature set](https://www.reddit.com/r/Python/comments/17jer8p/userfriendly_password_generator_with_a_rich/)
 - [Casio fx-CG50 calculator comes with Python built-in](https://www.reddit.com/r/Python/comments/17jegxt/casio_fxcg50_calculator_comes_with_python_builtin/)
 - [A fun experiment with functions](https://www.reddit.com/r/Python/comments/17jclvm/a_fun_experiment_with_functions/)
-- [Automatic translation of docstring styles using gpt4docstrings](https://www.reddit.com/r/Python/comments/17jccm6/automatic_translation_of_docstring_styles_using/)
 <!-- BLOG-POST-LIST:END -->
