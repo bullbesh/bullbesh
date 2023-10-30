@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Useful Pandas Functions for Data Analysts](https://www.reddit.com/r/Python/comments/17jntff/useful_pandas_functions_for_data_analysts/)
 - [Any suggestions for a simple speech to text recognition library?](https://www.reddit.com/r/Python/comments/17jlwre/any_suggestions_for_a_simple_speech_to_text/)
 - [Django blogging app tutorials](https://www.reddit.com/r/Python/comments/17jlh0q/django_blogging_app_tutorials/)
 - [Information Geometry &amp; Statistical Manifolds in Python](https://www.reddit.com/r/Python/comments/17jlacq/information_geometry_statistical_manifolds_in/)
 - [Real-Time Image Processing using WebSockets and Flask in Python and JavaScript](https://www.reddit.com/r/Python/comments/17jjuzd/realtime_image_processing_using_websockets_and/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/17jgdfy/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
