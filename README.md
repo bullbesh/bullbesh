@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Describe the analytics tool of your dreams…](https://www.reddit.com/r/Python/comments/17kvogk/describe_the_analytics_tool_of_your_dreams/)
 - [Introducing lato - an open-source microframework for building modular applications with Python.](https://www.reddit.com/r/Python/comments/17ksmh8/introducing_lato_an_opensource_microframework_for/)
 - [How to Use Type Hints for Multiple Return Types in Python](https://www.reddit.com/r/Python/comments/17kp6xg/how_to_use_type_hints_for_multiple_return_types/)
 - [Which scaffolding package should I use?](https://www.reddit.com/r/Python/comments/17koxto/which_scaffolding_package_should_i_use/)
 - [[Video] Understanding Python&#39;s seek&lpar;&rpar; and tell&lpar;&rpar; Functions for Navigating Files in Python](https://www.reddit.com/r/Python/comments/17knf5v/video_understanding_pythons_seek_and_tell/)
-- [How to build a LLM chat bot in Discord](https://www.reddit.com/r/Python/comments/17kn02r/how_to_build_a_llm_chat_bot_in_discord/)
 <!-- BLOG-POST-LIST:END -->
