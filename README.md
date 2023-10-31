@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [API framework of choice](https://www.reddit.com/r/Python/comments/17ko73i/api_framework_of_choice/)
+- [[Video] Understanding Python&#39;s seek&lpar;&rpar; and tell&lpar;&rpar; Functions for Navigating Files in Python](https://www.reddit.com/r/Python/comments/17knf5v/video_understanding_pythons_seek_and_tell/)
 - [How to build a LLM chat bot in Discord](https://www.reddit.com/r/Python/comments/17kn02r/how_to_build_a_llm_chat_bot_in_discord/)
 - [Why Python is Better than C++ for Algotrading](https://www.reddit.com/r/Python/comments/17kf1lr/why_python_is_better_than_c_for_algotrading/)
 - [autowired: My Minimalistic Approach to Dependency Injection in Python](https://www.reddit.com/r/Python/comments/17k9oai/autowired_my_minimalistic_approach_to_dependency/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/17k7nk0/tuesday_daily_thread_advanced_questions/)
-- [Quartz, a simple and completely extensible console chat written in Python](https://www.reddit.com/r/Python/comments/17k6men/quartz_a_simple_and_completely_extensible_console/)
 <!-- BLOG-POST-LIST:END -->
