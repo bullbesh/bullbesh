@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unable to save list data to a numpy file](https://www.reddit.com/r/Python/comments/17kgyq4/unable_to_save_list_data_to_a_numpy_file/)
 - [Why Python is Better than C++ for Algotrading](https://www.reddit.com/r/Python/comments/17kf1lr/why_python_is_better_than_c_for_algotrading/)
 - [autowired: My Minimalistic Approach to Dependency Injection in Python](https://www.reddit.com/r/Python/comments/17k9oai/autowired_my_minimalistic_approach_to_dependency/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/17k7nk0/tuesday_daily_thread_advanced_questions/)
 - [Quartz, a simple and completely extensible console chat written in Python](https://www.reddit.com/r/Python/comments/17k6men/quartz_a_simple_and_completely_extensible_console/)
-- [Letting Python play Nintendo DS Games](https://www.reddit.com/r/Python/comments/17k2kv0/letting_python_play_nintendo_ds_games/)
 <!-- BLOG-POST-LIST:END -->
