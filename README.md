@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/17k7nk0/tuesday_daily_thread_advanced_questions/)
 - [Letting Python play Nintendo DS Games](https://www.reddit.com/r/Python/comments/17k2kv0/letting_python_play_nintendo_ds_games/)
 - [A lightweight cookiecutter template for Django - focused specifically on building APIs](https://www.reddit.com/r/Python/comments/17k0g04/a_lightweight_cookiecutter_template_for_django/)
 - [Opvious - deploy optimization models with just a few lines of code](https://www.reddit.com/r/Python/comments/17jxrfv/opvious_deploy_optimization_models_with_just_a/)
 - [GitHub - MattEttler/python-bmp-generator: Generate Bitmap images using pythong.](https://www.reddit.com/r/Python/comments/17juuvh/github_mattettlerpythonbmpgenerator_generate/)
-- [Mastermind Board Game Using Kivy GUI](https://www.reddit.com/r/Python/comments/17jua4w/mastermind_board_game_using_kivy_gui/)
 <!-- BLOG-POST-LIST:END -->
