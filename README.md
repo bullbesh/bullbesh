@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is this real? anyone makes mistakes like this and waste hours?](https://www.reddit.com/r/Python/comments/17ljq2k/is_this_real_anyone_makes_mistakes_like_this_and/)
+- [Do you guys make mistakes like this and waste hours?](https://www.reddit.com/r/Python/comments/17lk79c/do_you_guys_make_mistakes_like_this_and_waste/)
+- [How to run a Jupyter notebook on a GPU](https://www.reddit.com/r/Python/comments/17ljrxz/how_to_run_a_jupyter_notebook_on_a_gpu/)
 - [Using Python to generate over 10,000 unique 8-bit lightsabers](https://www.reddit.com/r/Python/comments/17ljerr/using_python_to_generate_over_10000_unique_8bit/)
 - [What are you using to make dynamic diagrams these days?](https://www.reddit.com/r/Python/comments/17lhs3k/what_are_you_using_to_make_dynamic_diagrams_these/)
 - [Python Code Profiling with cProfile](https://www.reddit.com/r/Python/comments/17lfubm/python_code_profiling_with_cprofile/)
-- [Best free course with certification?](https://www.reddit.com/r/Python/comments/17lfr4m/best_free_course_with_certification/)
 <!-- BLOG-POST-LIST:END -->
