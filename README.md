@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Web Development Project ideas](https://www.reddit.com/r/Python/comments/17l1u8r/web_development_project_ideas/)
+- [Pyinstaller not bundling resources](https://www.reddit.com/r/Python/comments/17l4iyv/pyinstaller_not_bundling_resources/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/17kz6tz/wednesday_daily_thread_beginner_questions/)
 - [if anybody has trouble with malformed jsons, or simply finding a nested key or value, this function will h@lp](https://www.reddit.com/r/Python/comments/17ky8m4/if_anybody_has_trouble_with_malformed_jsons_or/)
 - [Describe the analytics tool of your dreams…](https://www.reddit.com/r/Python/comments/17kvogk/describe_the_analytics_tool_of_your_dreams/)
