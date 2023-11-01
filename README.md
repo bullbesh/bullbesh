@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Code Profiling with cProfile](https://www.reddit.com/r/Python/comments/17lfubm/python_code_profiling_with_cprofile/)
+- [Best free course with certification?](https://www.reddit.com/r/Python/comments/17lfr4m/best_free_course_with_certification/)
 - [Package development ideas](https://www.reddit.com/r/Python/comments/17lbas1/package_development_ideas/)
 - [Gregory Szorc&#39;s Digital Home | My User Experience Porting Off setup.py](https://www.reddit.com/r/Python/comments/17l9q92/gregory_szorcs_digital_home_my_user_experience/)
 - [Build Your First Guessing Game with Python](https://www.reddit.com/r/Python/comments/17l8phw/build_your_first_guessing_game_with_python/)
-- [Analyzing Data 170,000x Faster with Python](https://www.reddit.com/r/Python/comments/17l8lec/analyzing_data_170000x_faster_with_python/)
-- [I made a text based adventure game and i don&#39;t know what to do next.](https://www.reddit.com/r/Python/comments/17l7kxr/i_made_a_text_based_adventure_game_and_i_dont/)
 <!-- BLOG-POST-LIST:END -->
