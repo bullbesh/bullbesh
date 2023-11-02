@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I added Python editing to my browser editor aijs using pyodide](https://www.reddit.com/r/Python/comments/17mchrl/i_added_python_editing_to_my_browser_editor_aijs/)
 - [TIL that r/Python hates micro-optimization, so I&#39;m coming back with more](https://www.reddit.com/r/Python/comments/17maa9b/til_that_rpython_hates_microoptimization_so_im/)
 - [Corporate Finance and Python: Early Learnings](https://www.reddit.com/r/Python/comments/17m9h9i/corporate_finance_and_python_early_learnings/)
 - [I&#39;ve published my first Python package! PrintStream - A Debugging Aid](https://www.reddit.com/r/Python/comments/17m82q9/ive_published_my_first_python_package_printstream/)
 - [QUnfold: a Python module to perform the statistical unfolding by using quantum computing](https://www.reddit.com/r/Python/comments/17m6if1/qunfold_a_python_module_to_perform_the/)
-- [Seems like FastAPI has entered the big leagues](https://www.reddit.com/r/Python/comments/17m5hot/seems_like_fastapi_has_entered_the_big_leagues/)
 <!-- BLOG-POST-LIST:END -->
