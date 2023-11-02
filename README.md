@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Seems like FastAPI has entered the big leagues](https://www.reddit.com/r/Python/comments/17m5hot/seems_like_fastapi_has_entered_the_big_leagues/)
 - [[chkpkg.py] Python script to check if specified packages are installed and display a user-friendly confirmation dialog &lpar;requires tkinter&rpar;](https://www.reddit.com/r/Python/comments/17m42zt/chkpkgpy_python_script_to_check_if_specified/)
 - [GitHub - ageitgey/face_recognition: The world&#39;s simplest facial recognition api for Python and the command line](https://www.reddit.com/r/Python/comments/17m3tpu/github_ageitgeyface_recognition_the_worlds/)
 - [Connexion 3.0 released!](https://www.reddit.com/r/Python/comments/17m3cou/connexion_30_released/)
 - [Open-Source Email Automation tool](https://www.reddit.com/r/Python/comments/17lx2v5/opensource_email_automation_tool/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/17lq7s5/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
