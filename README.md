@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [LangTest: Deliver Safe &amp; Effective Language Models](https://www.reddit.com/r/Python/comments/17msjd9/langtest_deliver_safe_effective_language_models/)
 - [jockey: Generic Python library for running asynchronous workers. Useful for building event handlers, web frameworks, and alike. You write a simple adapter, and jockey handles registering handlers, routing events, running jobs concurrently, priorities, cancellation, back pressure, etc.](https://www.reddit.com/r/Python/comments/17mrso4/jockey_generic_python_library_for_running/)
 - [Why was the &quot;lambda&quot; keyword added for anonymous functions?](https://www.reddit.com/r/Python/comments/17mrpof/why_was_the_lambda_keyword_added_for_anonymous/)
 - [Learnings on logging Fast API service](https://www.reddit.com/r/Python/comments/17mprgb/learnings_on_logging_fast_api_service/)
 - [Python Multiprocessing: Complete Guide &lpar;24,000+ words&rpar;](https://www.reddit.com/r/Python/comments/17mmv78/python_multiprocessing_complete_guide_24000_words/)
-- [What fun side project are you working on right now?](https://www.reddit.com/r/Python/comments/17mmb4o/what_fun_side_project_are_you_working_on_right_now/)
 <!-- BLOG-POST-LIST:END -->
