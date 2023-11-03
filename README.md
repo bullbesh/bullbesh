@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Screwed am I for an interview....](https://www.reddit.com/r/Python/comments/17n2pry/how_screwed_am_i_for_an_interview/)
 - [Wikipedia Path Finder project](https://www.reddit.com/r/Python/comments/17mzxio/wikipedia_path_finder_project/)
 - [In Memoriam of Python 2](https://www.reddit.com/r/Python/comments/17mzm5w/in_memoriam_of_python_2/)
 - [transcribe-anything update: embed translations directly into videos!](https://www.reddit.com/r/Python/comments/17mzfrt/transcribeanything_update_embed_translations/)
 - [An unbiased evaluation of environment management and packaging tools](https://www.reddit.com/r/Python/comments/17mwpo4/an_unbiased_evaluation_of_environment_management/)
-- [PANIC: 50 small prank python programs for kids and adults](https://www.reddit.com/r/Python/comments/17mwmuw/panic_50_small_prank_python_programs_for_kids_and/)
 <!-- BLOG-POST-LIST:END -->
