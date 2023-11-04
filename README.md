@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setup a project with PDM, a Poetry alternative that closely follows standards](https://www.reddit.com/r/Python/comments/17noaln/setup_a_project_with_pdm_a_poetry_alternative/)
 - [Python Automation](https://www.reddit.com/r/Python/comments/17nncou/python_automation/)
 - [PyQt5 Project Ideas](https://www.reddit.com/r/Python/comments/17nmu25/pyqt5_project_ideas/)
 - [GitHub - jackmpcollins/magentic: Seamlessly integrate LLMs as Python functions](https://www.reddit.com/r/Python/comments/17niuwd/github_jackmpcollinsmagentic_seamlessly_integrate/)
 - [pyscript?](https://www.reddit.com/r/Python/comments/17nfvmb/pyscript/)
-- [Sneko!](https://www.reddit.com/r/Python/comments/17nfhe7/sneko/)
 <!-- BLOG-POST-LIST:END -->
