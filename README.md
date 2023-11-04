@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Automation](https://www.reddit.com/r/Python/comments/17nncou/python_automation/)
+- [PyQt5 Project Ideas](https://www.reddit.com/r/Python/comments/17nmu25/pyqt5_project_ideas/)
 - [GitHub - jackmpcollins/magentic: Seamlessly integrate LLMs as Python functions](https://www.reddit.com/r/Python/comments/17niuwd/github_jackmpcollinsmagentic_seamlessly_integrate/)
 - [pyscript?](https://www.reddit.com/r/Python/comments/17nfvmb/pyscript/)
 - [Sneko!](https://www.reddit.com/r/Python/comments/17nfhe7/sneko/)
-- [Fury Serialization Framework 0.3.0 released](https://www.reddit.com/r/Python/comments/17nesz3/fury_serialization_framework_030_released/)
-- [NServer: a high-level Python DNS Name Server Framework](https://www.reddit.com/r/Python/comments/17ndnbd/nserver_a_highlevel_python_dns_name_server/)
 <!-- BLOG-POST-LIST:END -->
