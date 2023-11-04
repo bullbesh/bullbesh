@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern Python for JavaScript Developers](https://www.reddit.com/r/Python/comments/17nwtod/modern_python_for_javascript_developers/)
 - [Introducing: a local realtime talkbot](https://www.reddit.com/r/Python/comments/17ntwhe/introducing_a_local_realtime_talkbot/)
 - [Are you comparing variables correctly in Python!? &#39;is&#39; vs &#39;==&#39;](https://www.reddit.com/r/Python/comments/17nr0hb/are_you_comparing_variables_correctly_in_python/)
 - [Why don&#39;t any programming languages let you create a function without having `&lpar;&rpar;` at the end](https://www.reddit.com/r/Python/comments/17nq4j0/why_dont_any_programming_languages_let_you_create/)
 - [Build a Hangman Game for the Command Line in Python](https://www.reddit.com/r/Python/comments/17npwl0/build_a_hangman_game_for_the_command_line_in/)
-- [How To Install SQL Server Management Studio 2022](https://www.reddit.com/r/Python/comments/17npw92/how_to_install_sql_server_management_studio_2022/)
 <!-- BLOG-POST-LIST:END -->
