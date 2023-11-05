@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PythonCourse](https://www.reddit.com/r/Python/comments/17omu33/pythoncourse/)
+- [new method of programming python called Shared Python - repost attempt 1](https://www.reddit.com/r/Python/comments/17om303/new_method_of_programming_python_called_shared/)
 - [Feedback on my open-source project](https://www.reddit.com/r/Python/comments/17ok7bh/feedback_on_my_opensource_project/)
-- [I made a 2-minute video that will show you how to export data from your Python editor into your own local computer! Hope you find it helpful!](https://www.reddit.com/r/Python/comments/17og906/i_made_a_2minute_video_that_will_show_you_how_to/)
+- [Side Project: Built a quick AI tutor site to practice python on your own](https://www.reddit.com/r/Python/comments/17oi5g9/side_project_built_a_quick_ai_tutor_site_to/)
 - [2,000 free sign ups available for the &quot;Automate the Boring Stuff with Python&quot; online course. &lpar;Nov 2023&rpar;](https://www.reddit.com/r/Python/comments/17offwd/2000_free_sign_ups_available_for_the_automate_the/)
-- [Real-Time ML Pipeline Structure](https://www.reddit.com/r/Python/comments/17oeqgz/realtime_ml_pipeline_structure/)
-- [I made an Expense Tracker with PyQt6](https://www.reddit.com/r/Python/comments/17od50a/i_made_an_expense_tracker_with_pyqt6/)
 <!-- BLOG-POST-LIST:END -->
