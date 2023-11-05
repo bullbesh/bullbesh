@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/17nz9ok/sunday_daily_thread_whats_everyone_working_on/)
 - [Python web app hosting economically?](https://www.reddit.com/r/Python/comments/17nxtps/python_web_app_hosting_economically/)
+- [State change validator for Django apps - &quot;dj_enum&quot;](https://www.reddit.com/r/Python/comments/17nx842/state_change_validator_for_django_apps_dj_enum/)
 - [Modern Python for JavaScript Developers](https://www.reddit.com/r/Python/comments/17nwtod/modern_python_for_javascript_developers/)
 - [Introducing: a local realtime talkbot](https://www.reddit.com/r/Python/comments/17ntwhe/introducing_a_local_realtime_talkbot/)
-- [Are you comparing variables correctly in Python!? &#39;is&#39; vs &#39;==&#39;](https://www.reddit.com/r/Python/comments/17nr0hb/are_you_comparing_variables_correctly_in_python/)
-- [Why don&#39;t any programming languages let you create a function without having `&lpar;&rpar;` at the end](https://www.reddit.com/r/Python/comments/17nq4j0/why_dont_any_programming_languages_let_you_create/)
 <!-- BLOG-POST-LIST:END -->
