@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A question regarding Singletons in Python](https://www.reddit.com/r/Python/comments/17o2070/a_question_regarding_singletons_in_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/17nz9ok/sunday_daily_thread_whats_everyone_working_on/)
 - [Python web app hosting economically?](https://www.reddit.com/r/Python/comments/17nxtps/python_web_app_hosting_economically/)
 - [State change validator for Django apps - &quot;dj_enum&quot;](https://www.reddit.com/r/Python/comments/17nx842/state_change_validator_for_django_apps_dj_enum/)
 - [Modern Python for JavaScript Developers](https://www.reddit.com/r/Python/comments/17nwtod/modern_python_for_javascript_developers/)
-- [Introducing: a local realtime talkbot](https://www.reddit.com/r/Python/comments/17ntwhe/introducing_a_local_realtime_talkbot/)
 <!-- BLOG-POST-LIST:END -->
