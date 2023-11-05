@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [I made a 2-minute video that will show you how to export data from your Python editor into your own local computer! Hope you find it helpful!](https://www.reddit.com/r/Python/comments/17og906/i_made_a_2minute_video_that_will_show_you_how_to/)
+- [2,000 free sign ups available for the &quot;Automate the Boring Stuff with Python&quot; online course. &lpar;Nov 2023&rpar;](https://www.reddit.com/r/Python/comments/17offwd/2000_free_sign_ups_available_for_the_automate_the/)
 - [Real-Time ML Pipeline Structure](https://www.reddit.com/r/Python/comments/17oeqgz/realtime_ml_pipeline_structure/)
 - [I made an Expense Tracker with PyQt6](https://www.reddit.com/r/Python/comments/17od50a/i_made_an_expense_tracker_with_pyqt6/)
 - [Finally got projection matrixes working!!](https://www.reddit.com/r/Python/comments/17oa3d8/finally_got_projection_matrixes_working/)
-- [Open Sourcing Llmtuner - An Experimental Framework for Finetuning Large Models Like Whisper and Llama with scikit-learn-inspired interface](https://www.reddit.com/r/Python/comments/17o93uq/open_sourcing_llmtuner_an_experimental_framework/)
 <!-- BLOG-POST-LIST:END -->
