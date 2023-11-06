@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Derive argument parsers with THIS simple lib](https://www.reddit.com/r/Python/comments/17otn1a/derive_argument_parsers_with_this_simple_lib/)
 - [Python Folium question &lpar;converting map object to HTML&rpar;](https://www.reddit.com/r/Python/comments/17os2e8/python_folium_question_converting_map_object_to/)
+- [What else can we teach you?](https://www.reddit.com/r/Python/comments/17ordw6/what_else_can_we_teach_you/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/17oply8/monday_daily_thread_project_ideas/)
 - [PythonCourse](https://www.reddit.com/r/Python/comments/17omu33/pythoncourse/)
-- [new method of programming python called Shared Python - repost attempt 1](https://www.reddit.com/r/Python/comments/17om303/new_method_of_programming_python_called_shared/)
-- [Feedback on my open-source project](https://www.reddit.com/r/Python/comments/17ok7bh/feedback_on_my_opensource_project/)
 <!-- BLOG-POST-LIST:END -->
