@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub - rajtilakjee/awesomelists: An awesome collection of links to all sorts of interesting tools, utilities, frameworks, and libraries.](https://www.reddit.com/r/Python/comments/17p6weg/github_rajtilakjeeawesomelists_an_awesome/)
-- [Coded a Data Analysis Assistant with Streamlit &amp; Semantic Kernel](https://www.reddit.com/r/Python/comments/17p3cpi/coded_a_data_analysis_assistant_with_streamlit/)
-- [How Python&#39;s Invoke Module Can Transform Your Development Workflow](https://www.reddit.com/r/Python/comments/17oz5rl/how_pythons_invoke_module_can_transform_your/)
-- [Creating LLM Apps with Semantic Kernel](https://www.reddit.com/r/Python/comments/17oxz7e/creating_llm_apps_with_semantic_kernel/)
-- [Semantic Kernel with Python in 7 minutes](https://www.reddit.com/r/Python/comments/17oxigr/semantic_kernel_with_python_in_7_minutes/)
+- [Where to host a terminal game that saves?](https://www.reddit.com/r/Python/comments/17p932q/where_to_host_a_terminal_game_that_saves/)
+- [What&#39;s up Python? iOS support, ruff gets black, flask 3.0...](https://www.reddit.com/r/Python/comments/17p8wk4/whats_up_python_ios_support_ruff_gets_black_flask/)
+- [Python exam assignment](https://www.reddit.com/r/Python/comments/17p8qe5/python_exam_assignment/)
+- [Wes McKinney - Joining Posit’s Polyglot Data Science Mission](https://www.reddit.com/r/Python/comments/17p8hc6/wes_mckinney_joining_posits_polyglot_data_science/)
+- [Extract the danceability of a song](https://www.reddit.com/r/Python/comments/17p8b9n/extract_the_danceability_of_a_song/)
 <!-- BLOG-POST-LIST:END -->
