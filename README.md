@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Folium question &lpar;converting map object to HTML&rpar;](https://www.reddit.com/r/Python/comments/17os2e8/python_folium_question_converting_map_object_to/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/17oply8/monday_daily_thread_project_ideas/)
 - [PythonCourse](https://www.reddit.com/r/Python/comments/17omu33/pythoncourse/)
 - [new method of programming python called Shared Python - repost attempt 1](https://www.reddit.com/r/Python/comments/17om303/new_method_of_programming_python_called_shared/)
 - [Feedback on my open-source project](https://www.reddit.com/r/Python/comments/17ok7bh/feedback_on_my_opensource_project/)
-- [Side Project: Built a quick AI tutor site to practice python on your own](https://www.reddit.com/r/Python/comments/17oi5g9/side_project_built_a_quick_ai_tutor_site_to/)
 <!-- BLOG-POST-LIST:END -->
