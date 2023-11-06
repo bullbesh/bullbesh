@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub - rajtilakjee/awesomelists: An awesome collection of links to all sorts of interesting tools, utilities, frameworks, and libraries.](https://www.reddit.com/r/Python/comments/17p6weg/github_rajtilakjeeawesomelists_an_awesome/)
 - [Coded a Data Analysis Assistant with Streamlit &amp; Semantic Kernel](https://www.reddit.com/r/Python/comments/17p3cpi/coded_a_data_analysis_assistant_with_streamlit/)
 - [How Python&#39;s Invoke Module Can Transform Your Development Workflow](https://www.reddit.com/r/Python/comments/17oz5rl/how_pythons_invoke_module_can_transform_your/)
 - [Creating LLM Apps with Semantic Kernel](https://www.reddit.com/r/Python/comments/17oxz7e/creating_llm_apps_with_semantic_kernel/)
 - [Semantic Kernel with Python in 7 minutes](https://www.reddit.com/r/Python/comments/17oxigr/semantic_kernel_with_python_in_7_minutes/)
-- [Derive argument parsers with THIS simple lib](https://www.reddit.com/r/Python/comments/17otn1a/derive_argument_parsers_with_this_simple_lib/)
 <!-- BLOG-POST-LIST:END -->
