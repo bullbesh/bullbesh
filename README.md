@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ECS in practice with python lib - ecs_pattern](https://www.reddit.com/r/Python/comments/17pt1ps/ecs_in_practice_with_python_lib_ecs_pattern/)
+- [Should asterisk operator &lpar;*&rpar; also unpack list comprehensions?](https://www.reddit.com/r/Python/comments/17psl2w/should_asterisk_operator_also_unpack_list/)
 - [How to Filter Outlook Emails With a Subject Using Python](https://www.reddit.com/r/Python/comments/17ppbe9/how_to_filter_outlook_emails_with_a_subject_using/)
 - [Use FastAPI and llama-cpp-python to Compute and Use Embeddings and Completions with Swiss Army Llama](https://www.reddit.com/r/Python/comments/17pje4k/use_fastapi_and_llamacpppython_to_compute_and_use/)
 - [FastHttp for Python &lpar;64k requests/s&rpar;](https://www.reddit.com/r/Python/comments/17phrf8/fasthttp_for_python_64k_requestss/)
-- [Python pandas creator Wes McKinney has joined data science company Posit as a principal architect, signaling the company&#39;s efforts to play a bigger role in the Python universe as well as the R ecosystem](https://www.reddit.com/r/Python/comments/17phbd9/python_pandas_creator_wes_mckinney_has_joined/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/17ph41k/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
