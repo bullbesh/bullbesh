@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python News: What&#39;s New From October 2023](https://www.reddit.com/r/Python/comments/17px8wo/python_news_whats_new_from_october_2023/)
+- [Spark, Dask, DuckDB, Polars: TPC-H Benchmarks at Scale](https://www.reddit.com/r/Python/comments/17pwxfn/spark_dask_duckdb_polars_tpch_benchmarks_at_scale/)
 - [Hey guys Hello from Django.](https://www.reddit.com/r/Python/comments/17pwh26/hey_guys_hello_from_django/)
 - [Tchat: chat application in terminal using curses](https://www.reddit.com/r/Python/comments/17ptfnj/tchat_chat_application_in_terminal_using_curses/)
 - [ECS in practice with python lib - ecs_pattern](https://www.reddit.com/r/Python/comments/17pt1ps/ecs_in_practice_with_python_lib_ecs_pattern/)
-- [Should asterisk operator &lpar;*&rpar; also unpack list comprehensions?](https://www.reddit.com/r/Python/comments/17psl2w/should_asterisk_operator_also_unpack_list/)
-- [How to Filter Outlook Emails With a Subject Using Python](https://www.reddit.com/r/Python/comments/17ppbe9/how_to_filter_outlook_emails_with_a_subject_using/)
 <!-- BLOG-POST-LIST:END -->
