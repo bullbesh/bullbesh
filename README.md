@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Guide to Finding Exoplanets: Python in Astronomy](https://www.reddit.com/r/Python/comments/17q2s25/your_guide_to_finding_exoplanets_python_in/)
+- [I built an AI chat app in pure python using Reflex](https://www.reddit.com/r/Python/comments/17q2dgh/i_built_an_ai_chat_app_in_pure_python_using_reflex/)
 - [Best practices for scheduling Python workloads?](https://www.reddit.com/r/Python/comments/17q1nte/best_practices_for_scheduling_python_workloads/)
 - [multirotor - Simulation of multi-rotor unmanned aerial vehicles &lpar;UAVs&rpar; in python.](https://www.reddit.com/r/Python/comments/17q0nsl/multirotor_simulation_of_multirotor_unmanned/)
-- [Does Python really sucks ?](https://www.reddit.com/r/Python/comments/17pzk0f/does_python_really_sucks/)
 - [Python News: What&#39;s New From October 2023](https://www.reddit.com/r/Python/comments/17px8wo/python_news_whats_new_from_october_2023/)
-- [Spark, Dask, DuckDB, Polars: TPC-H Benchmarks at Scale](https://www.reddit.com/r/Python/comments/17pwxfn/spark_dask_duckdb_polars_tpch_benchmarks_at_scale/)
 <!-- BLOG-POST-LIST:END -->
