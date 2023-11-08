@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [C++ to Python - pybind11 examples](https://www.reddit.com/r/Python/comments/17qv77j/c_to_python_pybind11_examples/)
 - [We wrote the OpenAI Wanderlust app in pure Python using Solara](https://www.reddit.com/r/Python/comments/17qu02u/we_wrote_the_openai_wanderlust_app_in_pure_python/)
 - [BlossomDNS - DNS / Subdomain Records Management; Designed for Clean User Experience while offering Admins a secure way to modify SQL and Cloudflare Data](https://www.reddit.com/r/Python/comments/17qp5xi/blossomdns_dns_subdomain_records_management/)
 - [GPT-4 Turbo assistant](https://www.reddit.com/r/Python/comments/17qp5p4/gpt4_turbo_assistant/)
 - [A Simple Python Application for Creating Custom Reddit Feeds](https://www.reddit.com/r/Python/comments/17qndhg/a_simple_python_application_for_creating_custom/)
-- [I wrote about my experience writing Rust bindings for my Python app!](https://www.reddit.com/r/Python/comments/17qmxjn/i_wrote_about_my_experience_writing_rust_bindings/)
 <!-- BLOG-POST-LIST:END -->
