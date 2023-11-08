@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [BlossomDNS - DNS / Subdomain Records Management; Designed for Clean User Experience while offering Admins a secure way to modify SQL and Cloudflare Data](https://www.reddit.com/r/Python/comments/17qp5xi/blossomdns_dns_subdomain_records_management/)
+- [GPT-4 Turbo assistant](https://www.reddit.com/r/Python/comments/17qp5p4/gpt4_turbo_assistant/)
 - [A Simple Python Application for Creating Custom Reddit Feeds](https://www.reddit.com/r/Python/comments/17qndhg/a_simple_python_application_for_creating_custom/)
 - [GitHub - deepsense-ai/ds-template: Template for professional data science and python applications made by deepsense.ai](https://www.reddit.com/r/Python/comments/17qm5q8/github_deepsenseaidstemplate_template_for/)
 - [A nasty Python package continues a trend of targeting developers](https://www.reddit.com/r/Python/comments/17qls9b/a_nasty_python_package_continues_a_trend_of/)
-- [Announcing: Dataclass-settings &lpar;A typed settings loading library for pydantic/dataclasses/attrs&rpar;](https://www.reddit.com/r/Python/comments/17qls0p/announcing_dataclasssettings_a_typed_settings/)
-- [Building Python Command-Line Interfaces with Click Package - Guide](https://www.reddit.com/r/Python/comments/17qlbyt/building_python_commandline_interfaces_with_click/)
 <!-- BLOG-POST-LIST:END -->
