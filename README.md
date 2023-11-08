@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Can Do With Python’s Bisect Module](https://www.reddit.com/r/Python/comments/17qgnj3/everything_you_can_do_with_pythons_bisect_module/)
 - [Bananalyzer 🍌: Open source evaluations for AI Agents in web tasks](https://www.reddit.com/r/Python/comments/17qfww7/bananalyzer_open_source_evaluations_for_ai_agents/)
 - [I built a soccer predictor and looking for enthusiasts who can make it better](https://www.reddit.com/r/Python/comments/17qez3p/i_built_a_soccer_predictor_and_looking_for/)
 - [An Opinionated Guide for Writing Awesome Python Scripts!](https://www.reddit.com/r/Python/comments/17qdgua/an_opinionated_guide_for_writing_awesome_python/)
 - [Best ways to integrate outbound call/SMS functionality](https://www.reddit.com/r/Python/comments/17qcuwi/best_ways_to_integrate_outbound_callsms/)
-- [tkinter.Menu subclass for simpler method of creating hierarchical menus.](https://www.reddit.com/r/Python/comments/17q8u8d/tkintermenu_subclass_for_simpler_method_of/)
 <!-- BLOG-POST-LIST:END -->
