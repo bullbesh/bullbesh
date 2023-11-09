@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is the stortest and most destructive script you can write?](https://www.reddit.com/r/Python/comments/17rc1eh/what_is_the_stortest_and_most_destructive_script/)
+- [The &#39;eu&#39; in eucatastrophe – Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://www.reddit.com/r/Python/comments/17rfyg8/the_eu_in_eucatastrophe_why_scipy_builds_for/)
+- [Python errors as values: Comparing useful patterns from Rust and Go](https://www.reddit.com/r/Python/comments/17rfxdz/python_errors_as_values_comparing_useful_patterns/)
+- [[Video] Understanding if __name__ == &#39;__main__&#39; in Python in 2 Minutes](https://www.reddit.com/r/Python/comments/17rflks/video_understanding_if_name_main_in_python_in_2/)
 - [Diving into PyPI package name squatting](https://www.reddit.com/r/Python/comments/17rbseg/diving_into_pypi_package_name_squatting/)
 - [Your favorite Python web framework?](https://www.reddit.com/r/Python/comments/17rayul/your_favorite_python_web_framework/)
-- [How to Deploy a Django 4 Project on a DreamHost Shared Hosting Space – a Neater Approach](https://www.reddit.com/r/Python/comments/17racij/how_to_deploy_a_django_4_project_on_a_dreamhost/)
-- [Any idea what happened to version specific logos?](https://www.reddit.com/r/Python/comments/17r2hew/any_idea_what_happened_to_version_specific_logos/)
 <!-- BLOG-POST-LIST:END -->
