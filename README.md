@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any idea what happened to version specific logos?](https://www.reddit.com/r/Python/comments/17r2hew/any_idea_what_happened_to_version_specific_logos/)
+- [2023 Python Developers Survey](https://www.reddit.com/r/Python/comments/17r2c4h/2023_python_developers_survey/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/17qzo98/thursday_daily_thread_python_careers_courses_and/)
 - [create-python-app for ultra fast new project setup](https://www.reddit.com/r/Python/comments/17qzcre/createpythonapp_for_ultra_fast_new_project_setup/)
 - [C++ to Python - pybind11 examples](https://www.reddit.com/r/Python/comments/17qv77j/c_to_python_pybind11_examples/)
-- [We wrote the OpenAI Wanderlust app in pure Python using Solara](https://www.reddit.com/r/Python/comments/17qu02u/we_wrote_the_openai_wanderlust_app_in_pure_python/)
-- [BlossomDNS - DNS / Subdomain Records Management; Designed for Clean User Experience while offering Admins a secure way to modify SQL and Cloudflare Data](https://www.reddit.com/r/Python/comments/17qp5xi/blossomdns_dns_subdomain_records_management/)
 <!-- BLOG-POST-LIST:END -->
