@@ -12,5 +12,5 @@
 - [2023 Python Developers Survey](https://www.reddit.com/r/Python/comments/17r2c4h/2023_python_developers_survey/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/17qzo98/thursday_daily_thread_python_careers_courses_and/)
 - [create-python-app for ultra fast new project setup](https://www.reddit.com/r/Python/comments/17qzcre/createpythonapp_for_ultra_fast_new_project_setup/)
-- [C++ to Python - pybind11 examples](https://www.reddit.com/r/Python/comments/17qv77j/c_to_python_pybind11_examples/)
+- [fbpg: File-Based password generator](https://www.reddit.com/r/Python/comments/17qw5ox/fbpg_filebased_password_generator/)
 <!-- BLOG-POST-LIST:END -->
