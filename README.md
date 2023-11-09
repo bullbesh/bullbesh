@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy a Django 4 Project on a DreamHost Shared Hosting Space – a Neater Approach](https://www.reddit.com/r/Python/comments/17racij/how_to_deploy_a_django_4_project_on_a_dreamhost/)
 - [Any idea what happened to version specific logos?](https://www.reddit.com/r/Python/comments/17r2hew/any_idea_what_happened_to_version_specific_logos/)
 - [2023 Python Developers Survey](https://www.reddit.com/r/Python/comments/17r2c4h/2023_python_developers_survey/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/17qzo98/thursday_daily_thread_python_careers_courses_and/)
 - [create-python-app for ultra fast new project setup](https://www.reddit.com/r/Python/comments/17qzcre/createpythonapp_for_ultra_fast_new_project_setup/)
-- [fbpg: File-Based password generator](https://www.reddit.com/r/Python/comments/17qw5ox/fbpg_filebased_password_generator/)
 <!-- BLOG-POST-LIST:END -->
