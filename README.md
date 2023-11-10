@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python](https://www.reddit.com/r/Python/comments/17sgg2v/python/)
+- [Interface de python](https://www.reddit.com/r/Python/comments/17sgbai/interface_de_python/)
 - [Python Project with astonishing UI. It&#39;s sick 🔥](https://www.reddit.com/r/Python/comments/17scp4j/python_project_with_astonishing_ui_its_sick/)
 - [debugging right and wrong](https://www.reddit.com/r/Python/comments/17sc4e7/debugging_right_and_wrong/)
 - [GitHub - blixhavn/memoizit](https://www.reddit.com/r/Python/comments/17sba6u/github_blixhavnmemoizit/)
-- [Fastest Way To Create NumPy Random Numbers](https://www.reddit.com/r/Python/comments/17sa07j/fastest_way_to_create_numpy_random_numbers/)
-- [Mypy 1.7 Released](https://www.reddit.com/r/Python/comments/17s7vtb/mypy_17_released/)
 <!-- BLOG-POST-LIST:END -->
