@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a package to sort your playlists like a DJ &amp; more.](https://www.reddit.com/r/Python/comments/17s6zz2/i_created_a_package_to_sort_your_playlists_like_a/)
 - [Understanding Linux cp Command and Implementing in Python](https://www.reddit.com/r/Python/comments/17s540d/understanding_linux_cp_command_and_implementing/)
 - [filequery - a CLI/TUI for querying files with SQL](https://www.reddit.com/r/Python/comments/17s3pnc/filequery_a_clitui_for_querying_files_with_sql/)
 - [How To Web Scrape Google Search Results Using Python &amp; Beautifulsoup](https://www.reddit.com/r/Python/comments/17s2hyz/how_to_web_scrape_google_search_results_using/)
 - [Enhancing Django Applications with a Custom Middleware](https://www.reddit.com/r/Python/comments/17s21en/enhancing_django_applications_with_a_custom/)
-- [Linting SQL statements in Python](https://www.reddit.com/r/Python/comments/17s0ab9/linting_sql_statements_in_python/)
 <!-- BLOG-POST-LIST:END -->
