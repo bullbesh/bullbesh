@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Project with astonishing UI. It&#39;s sick 🔥](https://www.reddit.com/r/Python/comments/17scp4j/python_project_with_astonishing_ui_its_sick/)
+- [debugging right and wrong](https://www.reddit.com/r/Python/comments/17sc4e7/debugging_right_and_wrong/)
 - [GitHub - blixhavn/memoizit](https://www.reddit.com/r/Python/comments/17sba6u/github_blixhavnmemoizit/)
 - [Fastest Way To Create NumPy Random Numbers](https://www.reddit.com/r/Python/comments/17sa07j/fastest_way_to_create_numpy_random_numbers/)
 - [Mypy 1.7 Released](https://www.reddit.com/r/Python/comments/17s7vtb/mypy_17_released/)
-- [How to Swap the Values of Two Variables Without a Temporary Variable in Python](https://www.reddit.com/r/Python/comments/17s7ol5/how_to_swap_the_values_of_two_variables_without_a/)
-- [I created a package to sort your playlists like a DJ &amp; more.](https://www.reddit.com/r/Python/comments/17s6zz2/i_created_a_package_to_sort_your_playlists_like_a/)
 <!-- BLOG-POST-LIST:END -->
