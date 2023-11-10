@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use MySQL 8.2 read/write splitting with Connector/Python](https://www.reddit.com/r/Python/comments/17rvr9d/how_to_use_mysql_82_readwrite_splitting_with/)
 - [Working with PDB files in Python](https://www.reddit.com/r/Python/comments/17rs3iz/working_with_pdb_files_in_python/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/17rqytt/friday_daily_thread_rpython_meta_and_freetalk/)
 - [The Python Show Podcast: Sanic](https://www.reddit.com/r/Python/comments/17roqi9/the_python_show_podcast_sanic/)
 - [C++ DataFrame vs. Polars](https://www.reddit.com/r/Python/comments/17rjedo/c_dataframe_vs_polars/)
-- [The &#39;eu&#39; in eucatastrophe – Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://www.reddit.com/r/Python/comments/17rfyg8/the_eu_in_eucatastrophe_why_scipy_builds_for/)
 <!-- BLOG-POST-LIST:END -->
