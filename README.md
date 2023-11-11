@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python](https://www.reddit.com/r/Python/comments/17sgg2v/python/)
+- [unix + vim + python + sql](https://www.reddit.com/r/Python/comments/17sk23c/unix_vim_python_sql/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/17shmqg/saturday_daily_thread_resource_request_and/)
 - [Interface de python](https://www.reddit.com/r/Python/comments/17sgbai/interface_de_python/)
 - [Python Project with astonishing UI. It&#39;s sick 🔥](https://www.reddit.com/r/Python/comments/17scp4j/python_project_with_astonishing_ui_its_sick/)
 - [debugging right and wrong](https://www.reddit.com/r/Python/comments/17sc4e7/debugging_right_and_wrong/)
-- [GitHub - blixhavn/memoizit](https://www.reddit.com/r/Python/comments/17sba6u/github_blixhavnmemoizit/)
 <!-- BLOG-POST-LIST:END -->
