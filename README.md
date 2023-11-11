@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python book for indermediate programmer](https://www.reddit.com/r/Python/comments/17squze/python_book_for_indermediate_programmer/)
+- [Python book for indermediate programmer](https://www.reddit.com/r/Python/comments/17squz9/python_book_for_indermediate_programmer/)
 - [neural networking](https://www.reddit.com/r/Python/comments/17sq034/neural_networking/)
 - [gptchain - Link multiple GPT prompts into a chain of responses](https://www.reddit.com/r/Python/comments/17spb18/gptchain_link_multiple_gpt_prompts_into_a_chain/)
 - [unix + vim + python + sql](https://www.reddit.com/r/Python/comments/17sk23c/unix_vim_python_sql/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/17shmqg/saturday_daily_thread_resource_request_and/)
-- [Interface de python](https://www.reddit.com/r/Python/comments/17sgbai/interface_de_python/)
 <!-- BLOG-POST-LIST:END -->
