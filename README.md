@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Door Cam with detection](https://www.reddit.com/r/Python/comments/17t0fn9/door_cam_with_detection/)
 - [Companies that assess Python pandas in interviews?](https://www.reddit.com/r/Python/comments/17sz8sn/companies_that_assess_python_pandas_in_interviews/)
 - [What the Heck Are Monads?!](https://www.reddit.com/r/Python/comments/17sxjdy/what_the_heck_are_monads/)
 - [Requests 3 news](https://www.reddit.com/r/Python/comments/17swe3a/requests_3_news/)
 - [Introducing my new Python package gpt_pdf_md: Transform PDFs to Markdown with GPT-4 Vision](https://www.reddit.com/r/Python/comments/17sroid/introducing_my_new_python_package_gpt_pdf_md/)
-- [Python book for indermediate programmer](https://www.reddit.com/r/Python/comments/17squze/python_book_for_indermediate_programmer/)
 <!-- BLOG-POST-LIST:END -->
