@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing my new Python package gpt_pdf_md: Transform PDFs to Markdown with GPT-4 Vision](https://www.reddit.com/r/Python/comments/17sroid/introducing_my_new_python_package_gpt_pdf_md/)
 - [Python book for indermediate programmer](https://www.reddit.com/r/Python/comments/17squze/python_book_for_indermediate_programmer/)
 - [Python book for indermediate programmer](https://www.reddit.com/r/Python/comments/17squz9/python_book_for_indermediate_programmer/)
 - [neural networking](https://www.reddit.com/r/Python/comments/17sq034/neural_networking/)
 - [gptchain - Link multiple GPT prompts into a chain of responses](https://www.reddit.com/r/Python/comments/17spb18/gptchain_link_multiple_gpt_prompts_into_a_chain/)
-- [unix + vim + python + sql](https://www.reddit.com/r/Python/comments/17sk23c/unix_vim_python_sql/)
 <!-- BLOG-POST-LIST:END -->
