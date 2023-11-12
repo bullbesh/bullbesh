@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Document Your Python Code and Projects With ChatGPT](https://www.reddit.com/r/Python/comments/17tq7av/document_your_python_code_and_projects_with/)
 - [I made a 5-minute video that will quickly show you the 4 main Join Types in Python Pandas. Hope you find it helpful!](https://www.reddit.com/r/Python/comments/17tpwy0/i_made_a_5minute_video_that_will_quickly_show_you/)
 - [Python Comes to Google Sheets](https://www.reddit.com/r/Python/comments/17to0gh/python_comes_to_google_sheets/)
 - [PEP 733 – An Evaluation of Python’s Public C API](https://www.reddit.com/r/Python/comments/17tmd8v/pep_733_an_evaluation_of_pythons_public_c_api/)
 - [phonautograph](https://www.reddit.com/r/Python/comments/17tkh5w/phonautograph/)
-- [I created python package to assist in ML](https://www.reddit.com/r/Python/comments/17tkb52/i_created_python_package_to_assist_in_ml/)
 <!-- BLOG-POST-LIST:END -->
