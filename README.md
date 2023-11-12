@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 733 – An Evaluation of Python’s Public C API](https://www.reddit.com/r/Python/comments/17tmd8v/pep_733_an_evaluation_of_pythons_public_c_api/)
 - [phonautograph](https://www.reddit.com/r/Python/comments/17tkh5w/phonautograph/)
 - [I created python package to assist in ML](https://www.reddit.com/r/Python/comments/17tkb52/i_created_python_package_to_assist_in_ml/)
 - [Haskell Typeclasses in Python](https://www.reddit.com/r/Python/comments/17ti5gi/haskell_typeclasses_in_python/)
 - [Code Optimization in Your Projects](https://www.reddit.com/r/Python/comments/17tg3g5/code_optimization_in_your_projects/)
-- [Third party private package hosting?](https://www.reddit.com/r/Python/comments/17tg1lk/third_party_private_package_hosting/)
 <!-- BLOG-POST-LIST:END -->
