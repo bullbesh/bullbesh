@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [phonautograph](https://www.reddit.com/r/Python/comments/17tkh5w/phonautograph/)
+- [I created python package to assist in ML](https://www.reddit.com/r/Python/comments/17tkb52/i_created_python_package_to_assist_in_ml/)
 - [Haskell Typeclasses in Python](https://www.reddit.com/r/Python/comments/17ti5gi/haskell_typeclasses_in_python/)
 - [Code Optimization in Your Projects](https://www.reddit.com/r/Python/comments/17tg3g5/code_optimization_in_your_projects/)
 - [Third party private package hosting?](https://www.reddit.com/r/Python/comments/17tg1lk/third_party_private_package_hosting/)
-- [[RANT] The more dependencies you have, the faster it RUNS!](https://www.reddit.com/r/Python/comments/17tc2ok/rant_the_more_dependencies_you_have_the_faster_it/)
-- [Bulk Creation of Transcripts from YouTube Playlists with Whisper](https://www.reddit.com/r/Python/comments/17t9lem/bulk_creation_of_transcripts_from_youtube/)
 <!-- BLOG-POST-LIST:END -->
