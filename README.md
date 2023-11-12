@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Sockets and Networking Framework](https://www.reddit.com/r/Python/comments/17th6mj/sockets_and_networking_framework/)
+- [Haskell Typeclasses in Python](https://www.reddit.com/r/Python/comments/17ti5gi/haskell_typeclasses_in_python/)
 - [Code Optimization in Your Projects](https://www.reddit.com/r/Python/comments/17tg3g5/code_optimization_in_your_projects/)
 - [Third party private package hosting?](https://www.reddit.com/r/Python/comments/17tg1lk/third_party_private_package_hosting/)
 - [[RANT] The more dependencies you have, the faster it RUNS!](https://www.reddit.com/r/Python/comments/17tc2ok/rant_the_more_dependencies_you_have_the_faster_it/)
