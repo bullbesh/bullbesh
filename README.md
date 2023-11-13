@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Graph Visualization in Python](https://www.reddit.com/r/Python/comments/17u6tbd/graph_visualization_in_python/)
 - [Converting audio waveforms to 3D meshes](https://www.reddit.com/r/Python/comments/17u5e3w/converting_audio_waveforms_to_3d_meshes/)
 - [Stock analysis.com financials table programming and data scraping](https://www.reddit.com/r/Python/comments/17txx3j/stock_analysiscom_financials_table_programming/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/17txnh4/monday_daily_thread_project_ideas/)
 - [Python Threading: 7-Day Crash Course](https://www.reddit.com/r/Python/comments/17tw12h/python_threading_7day_crash_course/)
-- [ast-grep and Python API: A tool for code structural search and rewrite](https://www.reddit.com/r/Python/comments/17tvm06/astgrep_and_python_api_a_tool_for_code_structural/)
 <!-- BLOG-POST-LIST:END -->
