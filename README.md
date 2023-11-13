@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Outlook junk issue - Using Resend with Python/Gmail](https://www.reddit.com/r/Python/comments/17ufgjm/outlook_junk_issue_using_resend_with_pythongmail/)
+- [Telegram bot to control chrome and more](https://www.reddit.com/r/Python/comments/17uf6d1/telegram_bot_to_control_chrome_and_more/)
 - [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe](https://www.reddit.com/r/Python/comments/17uc5qy/the_python_on_microcontrollers_newsletter_a_free/)
 - [I&#39;ve never developed a game before and only really comfortable with Python. Which 3D game engines can be used with python to program the game itself?](https://www.reddit.com/r/Python/comments/17ubaxy/ive_never_developed_a_game_before_and_only_really/)
 - [How to create your AI Assistant using Open AI Assistants API in 3 mins | Python](https://www.reddit.com/r/Python/comments/17uaunh/how_to_create_your_ai_assistant_using_open_ai/)
-- [Introducing Litestar-Users 1.0.0 - a user management plugin for the Litestar framework](https://www.reddit.com/r/Python/comments/17u9h4f/introducing_litestarusers_100_a_user_management/)
-- [Graph Visualization in Python](https://www.reddit.com/r/Python/comments/17u6tbd/graph_visualization_in_python/)
 <!-- BLOG-POST-LIST:END -->
