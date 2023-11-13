@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe](https://www.reddit.com/r/Python/comments/17uc5qy/the_python_on_microcontrollers_newsletter_a_free/)
 - [I&#39;ve never developed a game before and only really comfortable with Python. Which 3D game engines can be used with python to program the game itself?](https://www.reddit.com/r/Python/comments/17ubaxy/ive_never_developed_a_game_before_and_only_really/)
 - [How to create your AI Assistant using Open AI Assistants API in 3 mins | Python](https://www.reddit.com/r/Python/comments/17uaunh/how_to_create_your_ai_assistant_using_open_ai/)
 - [Revolutionizing DynamoDB with Python - PynamoDB Deep Dive](https://www.reddit.com/r/Python/comments/17u8fr2/revolutionizing_dynamodb_with_python_pynamodb/)
 - [Graph Visualization in Python](https://www.reddit.com/r/Python/comments/17u6tbd/graph_visualization_in_python/)
-- [Converting audio waveforms to 3D meshes](https://www.reddit.com/r/Python/comments/17u5e3w/converting_audio_waveforms_to_3d_meshes/)
 <!-- BLOG-POST-LIST:END -->
