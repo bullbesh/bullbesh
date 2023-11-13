@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hide your files inside images](https://www.reddit.com/r/Python/comments/17un2lx/hide_your_files_inside_images/)
 - [My code works and I don&#39;t know why](https://www.reddit.com/r/Python/comments/17ukn93/my_code_works_and_i_dont_know_why/)
 - [Difference between built-in types and types of module typing when you add an annotation](https://www.reddit.com/r/Python/comments/17uk1un/difference_between_builtin_types_and_types_of/)
 - [upwork](https://www.reddit.com/r/Python/comments/17ujq07/upwork/)
 - [Repo - DynamoDB with Python - PynamoDB Dive](https://www.reddit.com/r/Python/comments/17uggvc/repo_dynamodb_with_python_pynamodb_dive/)
-- [Outlook junk issue - Using Resend with Python/Gmail](https://www.reddit.com/r/Python/comments/17ufgjm/outlook_junk_issue_using_resend_with_pythongmail/)
 <!-- BLOG-POST-LIST:END -->
