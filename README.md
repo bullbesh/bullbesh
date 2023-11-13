@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My code works and I don&#39;t know why](https://www.reddit.com/r/Python/comments/17ukn93/my_code_works_and_i_dont_know_why/)
+- [Difference between built-in types and types of module typing when you add an annotation](https://www.reddit.com/r/Python/comments/17uk1un/difference_between_builtin_types_and_types_of/)
+- [upwork](https://www.reddit.com/r/Python/comments/17ujq07/upwork/)
 - [Repo - DynamoDB with Python - PynamoDB Dive](https://www.reddit.com/r/Python/comments/17uggvc/repo_dynamodb_with_python_pynamodb_dive/)
 - [Outlook junk issue - Using Resend with Python/Gmail](https://www.reddit.com/r/Python/comments/17ufgjm/outlook_junk_issue_using_resend_with_pythongmail/)
-- [Telegram bot to control chrome and more](https://www.reddit.com/r/Python/comments/17uf6d1/telegram_bot_to_control_chrome_and_more/)
-- [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe](https://www.reddit.com/r/Python/comments/17uc5qy/the_python_on_microcontrollers_newsletter_a_free/)
-- [I&#39;ve never developed a game before and only really comfortable with Python. Which 3D game engines can be used with python to program the game itself?](https://www.reddit.com/r/Python/comments/17ubaxy/ive_never_developed_a_game_before_and_only_really/)
 <!-- BLOG-POST-LIST:END -->
