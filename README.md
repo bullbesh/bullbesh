@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [25% less price](https://www.reddit.com/r/Python/comments/17uxu0a/25_less_price/)
 - [Python Decorators That Can Reduce Your Code By Half](https://www.reddit.com/r/Python/comments/17uvkdk/python_decorators_that_can_reduce_your_code_by/)
 - [[Tutorial] Implement Fine Grained Authorization Beyond Login with Python and ZITADEL](https://www.reddit.com/r/Python/comments/17utkm4/tutorial_implement_fine_grained_authorization/)
 - [What’s the coolest things you’ve done with python?](https://www.reddit.com/r/Python/comments/17upt2f/whats_the_coolest_things_youve_done_with_python/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/17uoxyu/tuesday_daily_thread_advanced_questions/)
-- [Hide your files inside images](https://www.reddit.com/r/Python/comments/17un2lx/hide_your_files_inside_images/)
 <!-- BLOG-POST-LIST:END -->
