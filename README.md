@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Predicting Stock Prices and Corporate Financials with Facebook Prophet Using Python](https://www.reddit.com/r/Python/comments/17vdaq6/predicting_stock_prices_and_corporate_financials/)
 - [ReprTraceback: Custom tracebacks with printed function arguments](https://www.reddit.com/r/Python/comments/17vc6je/reprtraceback_custom_tracebacks_with_printed/)
 - [what do clients typically pay you to do](https://www.reddit.com/r/Python/comments/17vb1j2/what_do_clients_typically_pay_you_to_do/)
 - [Can I automate a part of my job!?](https://www.reddit.com/r/Python/comments/17vapqz/can_i_automate_a_part_of_my_job/)
 - [how to get icecream to print full file paths that happen to have &quot;\\nc_something&quot; in them without inserting a bogus newline](https://www.reddit.com/r/Python/comments/17v9tsk/how_to_get_icecream_to_print_full_file_paths_that/)
-- [Beginners should use Django, not Flask](https://www.reddit.com/r/Python/comments/17v9695/beginners_should_use_django_not_flask/)
 <!-- BLOG-POST-LIST:END -->
