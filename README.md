@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Any thoughts on the Python crash course ?](https://www.reddit.com/r/Python/comments/17v323t/any_thoughts_on_the_python_crash_course/)
-- [Share this website around](https://www.reddit.com/r/Python/comments/17v2t3u/share_this_website_around/)
+- [PyPI has completed its first security audit](https://www.reddit.com/r/Python/comments/17v43pw/pypi_has_completed_its_first_security_audit/)
+- [Kaggle House Price Competition Low Scores](https://www.reddit.com/r/Python/comments/17v3l4c/kaggle_house_price_competition_low_scores/)
+- [Statically-typed API do FZF](https://www.reddit.com/r/Python/comments/17v3jw3/staticallytyped_api_do_fzf/)
 - [Serverless development experience for embedded computer vision](https://www.reddit.com/r/Python/comments/17v1x7v/serverless_development_experience_for_embedded/)
 - [33 line of code shortened to 9 lines of code](https://www.reddit.com/r/Python/comments/17v17z4/33_line_of_code_shortened_to_9_lines_of_code/)
-- [Open source data analysis software for vehicle data/telemetry - feedback and contributions welcome](https://www.reddit.com/r/Python/comments/17v0snj/open_source_data_analysis_software_for_vehicle/)
 <!-- BLOG-POST-LIST:END -->
