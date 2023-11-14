@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s the coolest things you’ve done with python?](https://www.reddit.com/r/Python/comments/17upt2f/whats_the_coolest_things_youve_done_with_python/)
+- [Pure Python web frameworks?](https://www.reddit.com/r/Python/comments/17upjak/pure_python_web_frameworks/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/17uoxyu/tuesday_daily_thread_advanced_questions/)
+- [Best Python Books for beginners to advanced to read](https://www.reddit.com/r/Python/comments/17uof1s/best_python_books_for_beginners_to_advanced_to/)
 - [Hide your files inside images](https://www.reddit.com/r/Python/comments/17un2lx/hide_your_files_inside_images/)
-- [My code works and I don&#39;t know why](https://www.reddit.com/r/Python/comments/17ukn93/my_code_works_and_i_dont_know_why/)
-- [Difference between built-in types and types of module typing when you add an annotation](https://www.reddit.com/r/Python/comments/17uk1un/difference_between_builtin_types_and_types_of/)
-- [upwork](https://www.reddit.com/r/Python/comments/17ujq07/upwork/)
-- [Repo - DynamoDB with Python - PynamoDB Dive](https://www.reddit.com/r/Python/comments/17uggvc/repo_dynamodb_with_python_pynamodb_dive/)
 <!-- BLOG-POST-LIST:END -->
