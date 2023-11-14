@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding if __name__ == ‘__main__’ in Python Programs](https://www.reddit.com/r/Python/comments/17v6npv/understanding_if_name_main_in_python_programs/)
+- [Instagram GPT AI Bot](https://www.reddit.com/r/Python/comments/17v6i6u/instagram_gpt_ai_bot/)
+- [How many Python core developers use type annotations?](https://www.reddit.com/r/Python/comments/17v5weu/how_many_python_core_developers_use_type/)
+- [Meet AnalystGPT – Your Go-To AI for All Things Data and Automation!](https://www.reddit.com/r/Python/comments/17v5v5i/meet_analystgpt_your_goto_ai_for_all_things_data/)
 - [Is there something Anaconda can do, that Python cant achieve?](https://www.reddit.com/r/Python/comments/17v5219/is_there_something_anaconda_can_do_that_python/)
-- [Automatically generating documentation in Github](https://www.reddit.com/r/Python/comments/17v4l2k/automatically_generating_documentation_in_github/)
-- [PyPI has completed its first security audit](https://www.reddit.com/r/Python/comments/17v43pw/pypi_has_completed_its_first_security_audit/)
-- [Kaggle House Price Competition Low Scores](https://www.reddit.com/r/Python/comments/17v3l4c/kaggle_house_price_competition_low_scores/)
-- [Statically-typed API do FZF](https://www.reddit.com/r/Python/comments/17v3jw3/staticallytyped_api_do_fzf/)
 <!-- BLOG-POST-LIST:END -->
