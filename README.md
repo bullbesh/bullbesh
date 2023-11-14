@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Serverless development experience for embedded computer vision](https://www.reddit.com/r/Python/comments/17v1x7v/serverless_development_experience_for_embedded/)
 - [33 line of code shortened to 9 lines of code](https://www.reddit.com/r/Python/comments/17v17z4/33_line_of_code_shortened_to_9_lines_of_code/)
 - [Open source data analysis software for vehicle data/telemetry - feedback and contributions welcome](https://www.reddit.com/r/Python/comments/17v0snj/open_source_data_analysis_software_for_vehicle/)
 - [25% less price](https://www.reddit.com/r/Python/comments/17uxu0a/25_less_price/)
 - [Python Decorators That Can Reduce Your Code By Half](https://www.reddit.com/r/Python/comments/17uvkdk/python_decorators_that_can_reduce_your_code_by/)
-- [[Tutorial] Implement Fine Grained Authorization Beyond Login with Python and ZITADEL](https://www.reddit.com/r/Python/comments/17utkm4/tutorial_implement_fine_grained_authorization/)
 <!-- BLOG-POST-LIST:END -->
