@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there something Anaconda can do, that Python cant achieve?](https://www.reddit.com/r/Python/comments/17v5219/is_there_something_anaconda_can_do_that_python/)
+- [Automatically generating documentation in Github](https://www.reddit.com/r/Python/comments/17v4l2k/automatically_generating_documentation_in_github/)
 - [PyPI has completed its first security audit](https://www.reddit.com/r/Python/comments/17v43pw/pypi_has_completed_its_first_security_audit/)
 - [Kaggle House Price Competition Low Scores](https://www.reddit.com/r/Python/comments/17v3l4c/kaggle_house_price_competition_low_scores/)
 - [Statically-typed API do FZF](https://www.reddit.com/r/Python/comments/17v3jw3/staticallytyped_api_do_fzf/)
-- [Serverless development experience for embedded computer vision](https://www.reddit.com/r/Python/comments/17v1x7v/serverless_development_experience_for_embedded/)
-- [33 line of code shortened to 9 lines of code](https://www.reddit.com/r/Python/comments/17v17z4/33_line_of_code_shortened_to_9_lines_of_code/)
 <!-- BLOG-POST-LIST:END -->
