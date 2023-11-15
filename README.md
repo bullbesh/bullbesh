@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Please give it a try to Automatic Documentation Generation Tool in Github - Snorkell.ai](https://www.reddit.com/r/Python/comments/17vmj43/please_give_it_a_try_to_automatic_documentation/)
 - [Connect to Exchange Online Mailbox of Outlook](https://www.reddit.com/r/Python/comments/17vju3o/connect_to_exchange_online_mailbox_of_outlook/)
 - [Made the same game &lpar;Mastermind&rpar; in Kivy and Pygame!](https://www.reddit.com/r/Python/comments/17vjitz/made_the_same_game_mastermind_in_kivy_and_pygame/)
 - [LogSearcher](https://www.reddit.com/r/Python/comments/17vhk60/logsearcher/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/17vg8xo/wednesday_daily_thread_beginner_questions/)
-- [Bash Script Python YouTube Downloader](https://www.reddit.com/r/Python/comments/17vfyph/bash_script_python_youtube_downloader/)
 <!-- BLOG-POST-LIST:END -->
