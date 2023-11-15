@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Predicting Stock Prices and Corporate Financials with Facebook Prophet Using Python](https://www.reddit.com/r/Python/comments/17vdaq6/predicting_stock_prices_and_corporate_financials/)
-- [ReprTraceback: Custom tracebacks with printed function arguments](https://www.reddit.com/r/Python/comments/17vc6je/reprtraceback_custom_tracebacks_with_printed/)
-- [what do clients typically pay you to do](https://www.reddit.com/r/Python/comments/17vb1j2/what_do_clients_typically_pay_you_to_do/)
-- [Can I automate a part of my job!?](https://www.reddit.com/r/Python/comments/17vapqz/can_i_automate_a_part_of_my_job/)
-- [how to get icecream to print full file paths that happen to have &quot;\\nc_something&quot; in them without inserting a bogus newline](https://www.reddit.com/r/Python/comments/17v9tsk/how_to_get_icecream_to_print_full_file_paths_that/)
+- [LogSearcher](https://www.reddit.com/r/Python/comments/17vhk60/logsearcher/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/17vg8xo/wednesday_daily_thread_beginner_questions/)
+- [Bash Script Python YouTube Downloader](https://www.reddit.com/r/Python/comments/17vfyph/bash_script_python_youtube_downloader/)
+- [urn: a terminal-based draw probability calculator, built with Lark and SymPy](https://www.reddit.com/r/Python/comments/17vfjxi/urn_a_terminalbased_draw_probability_calculator/)
+- [urn: a terminal-based draw probability calculator, built with Lark and SymPy](https://www.reddit.com/r/Python/comments/17vfhuq/urn_a_terminalbased_draw_probability_calculator/)
 <!-- BLOG-POST-LIST:END -->
