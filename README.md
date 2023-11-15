@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What do you enjoy/hate with your current project planning software?](https://www.reddit.com/r/Python/comments/17w1wwx/what_do_you_enjoyhate_with_your_current_project/)
 - [What is the twentieth one?](https://www.reddit.com/r/Python/comments/17vvic1/what_is_the_twentieth_one/)
 - [Build an Avatar Generator API with Python and FastAPI PART 1](https://www.reddit.com/r/Python/comments/17vvgup/build_an_avatar_generator_api_with_python_and/)
 - [#136 single number optimal solution](https://www.reddit.com/r/Python/comments/17vt2p8/136_single_number_optimal_solution/)
 - [Lingua 2.0.0: The most accurate natural language detection library for Python - Now as fast as Rust](https://www.reddit.com/r/Python/comments/17vrgng/lingua_200_the_most_accurate_natural_language/)
-- [Obfuscating Python](https://www.reddit.com/r/Python/comments/17vqhtg/obfuscating_python/)
 <!-- BLOG-POST-LIST:END -->
