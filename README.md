@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Connect to Exchange Online Mailbox of Outlook](https://www.reddit.com/r/Python/comments/17vju3o/connect_to_exchange_online_mailbox_of_outlook/)
+- [Made the same game &lpar;Mastermind&rpar; in Kivy and Pygame!](https://www.reddit.com/r/Python/comments/17vjitz/made_the_same_game_mastermind_in_kivy_and_pygame/)
 - [LogSearcher](https://www.reddit.com/r/Python/comments/17vhk60/logsearcher/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/17vg8xo/wednesday_daily_thread_beginner_questions/)
 - [Bash Script Python YouTube Downloader](https://www.reddit.com/r/Python/comments/17vfyph/bash_script_python_youtube_downloader/)
-- [urn: a terminal-based draw probability calculator, built with Lark and SymPy](https://www.reddit.com/r/Python/comments/17vfjxi/urn_a_terminalbased_draw_probability_calculator/)
-- [urn: a terminal-based draw probability calculator, built with Lark and SymPy](https://www.reddit.com/r/Python/comments/17vfhuq/urn_a_terminalbased_draw_probability_calculator/)
 <!-- BLOG-POST-LIST:END -->
