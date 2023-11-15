@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [This Webpage is worth to visit to Understand What is Python in One Day with Examples](https://www.reddit.com/r/Python/comments/17vucix/this_webpage_is_worth_to_visit_to_understand_what/)
+- [What is the twentieth one?](https://www.reddit.com/r/Python/comments/17vvic1/what_is_the_twentieth_one/)
+- [Build an Avatar Generator API with Python and FastAPI PART 1](https://www.reddit.com/r/Python/comments/17vvgup/build_an_avatar_generator_api_with_python_and/)
+- [Python extensions for JupyterLab](https://www.reddit.com/r/Python/comments/17vuoy7/python_extensions_for_jupyterlab/)
 - [#136 single number optimal solution](https://www.reddit.com/r/Python/comments/17vt2p8/136_single_number_optimal_solution/)
 - [Lingua 2.0.0: The most accurate natural language detection library for Python - Now as fast as Rust](https://www.reddit.com/r/Python/comments/17vrgng/lingua_200_the_most_accurate_natural_language/)
-- [Obfuscating Python](https://www.reddit.com/r/Python/comments/17vqhtg/obfuscating_python/)
-- [I made a Free Pycharm Plugin for Easier Object Oriented Python &lpar;similar to typescript&rpar;](https://www.reddit.com/r/Python/comments/17vpzyx/i_made_a_free_pycharm_plugin_for_easier_object/)
 <!-- BLOG-POST-LIST:END -->
