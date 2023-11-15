@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lingua 2.0.0: The most accurate natural language detection library for Python - Now as fast as Rust](https://www.reddit.com/r/Python/comments/17vrgng/lingua_200_the_most_accurate_natural_language/)
 - [Obfuscating Python](https://www.reddit.com/r/Python/comments/17vqhtg/obfuscating_python/)
 - [I made a Free Pycharm Plugin for Easier Object Oriented Python &lpar;similar to typescript&rpar;](https://www.reddit.com/r/Python/comments/17vpzyx/i_made_a_free_pycharm_plugin_for_easier_object/)
 - [I generated a video using python + pygame-ce + ffmpeg. Here is what I learnt...](https://www.reddit.com/r/Python/comments/17vpq40/i_generated_a_video_using_python_pygamece_ffmpeg/)
 - [Using python, what do clients typically pay you to do](https://www.reddit.com/r/Python/comments/17vovtf/using_python_what_do_clients_typically_pay_you_to/)
-- [Please give it a try to Automatic Documentation Generation Tool in Github - Snorkell.ai](https://www.reddit.com/r/Python/comments/17vmj43/please_give_it_a_try_to_automatic_documentation/)
 <!-- BLOG-POST-LIST:END -->
