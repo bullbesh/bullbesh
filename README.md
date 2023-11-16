@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Real-time intent detection + alerting via LLMs and open-source Pythonic frameworks](https://www.reddit.com/r/Python/comments/17wnf33/realtime_intent_detection_alerting_via_llms_and/)
+- [A Python Library for Using PostgreSQL as a Vector Database in AI Applications](https://www.reddit.com/r/Python/comments/17wnbzz/a_python_library_for_using_postgresql_as_a_vector/)
+- [Install and use different Python versions on the same machine?](https://www.reddit.com/r/Python/comments/17wn73w/install_and_use_different_python_versions_on_the/)
 - [File changes detector Detect new and deleted files using python](https://www.reddit.com/r/Python/comments/17wjeby/file_changes_detector_detect_new_and_deleted/)
 - [Exploring the World of Python Repositories: Introducing an Innovative Stats Project](https://www.reddit.com/r/Python/comments/17wjdvj/exploring_the_world_of_python_repositories/)
-- [what&#39;s after python?](https://www.reddit.com/r/Python/comments/17wjbvg/whats_after_python/)
-- [For Poetry users: I&#39;ve made a video explaining the TOML format](https://www.reddit.com/r/Python/comments/17wipzn/for_poetry_users_ive_made_a_video_explaining_the/)
-- [Notes](https://www.reddit.com/r/Python/comments/17wi0ob/notes/)
 <!-- BLOG-POST-LIST:END -->
