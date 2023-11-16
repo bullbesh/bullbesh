@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the World of Python Repositories: Introducing an Innovative Stats Project](https://www.reddit.com/r/Python/comments/17wjdvj/exploring_the_world_of_python_repositories/)
+- [what&#39;s after python?](https://www.reddit.com/r/Python/comments/17wjbvg/whats_after_python/)
+- [For Poetry users: I&#39;ve made a video explaining the TOML format](https://www.reddit.com/r/Python/comments/17wipzn/for_poetry_users_ive_made_a_video_explaining_the/)
 - [Notes](https://www.reddit.com/r/Python/comments/17wi0ob/notes/)
 - [Enhance Safety of Conveyor belt using OpenCV](https://www.reddit.com/r/Python/comments/17wh0pg/enhance_safety_of_conveyor_belt_using_opencv/)
-- [Is there a replacement for audioop?](https://www.reddit.com/r/Python/comments/17wf0y0/is_there_a_replacement_for_audioop/)
-- [Solve this error](https://www.reddit.com/r/Python/comments/17weulo/solve_this_error/)
-- [Solve this error](https://www.reddit.com/r/Python/comments/17weuhe/solve_this_error/)
 <!-- BLOG-POST-LIST:END -->
