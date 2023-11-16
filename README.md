@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [python code to find your most streamed song on spotify](https://www.reddit.com/r/Python/comments/17wtl4a/python_code_to_find_your_most_streamed_song_on/)
+- [Support Python &amp; the PSF in 2023 🎉](https://www.reddit.com/r/Python/comments/17wsox7/support_python_the_psf_in_2023/)
 - [Necesito ayuda de un programador de Python](https://www.reddit.com/r/Python/comments/17ws367/necesito_ayuda_de_un_programador_de_python/)
 - [Raycasting Game in Python and Pygame](https://www.reddit.com/r/Python/comments/17wqv0t/raycasting_game_in_python_and_pygame/)
-- [Real-time intent detection + alerting via LLMs and open-source Pythonic frameworks](https://www.reddit.com/r/Python/comments/17wnf33/realtime_intent_detection_alerting_via_llms_and/)
-- [A Python Library for Using PostgreSQL as a Vector Database in AI Applications](https://www.reddit.com/r/Python/comments/17wnbzz/a_python_library_for_using_postgresql_as_a_vector/)
-- [I hated wasting time on writing api tests, so I made AI do it quickly for me](https://www.reddit.com/r/Python/comments/17wn93z/i_hated_wasting_time_on_writing_api_tests_so_i/)
+- [Understanding Custom Encoders and Decoders in Python’s JSON Module](https://www.reddit.com/r/Python/comments/17wp0y6/understanding_custom_encoders_and_decoders_in/)
 <!-- BLOG-POST-LIST:END -->
