@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Real-time intent detection + alerting via LLMs and open-source Pythonic frameworks](https://www.reddit.com/r/Python/comments/17wnf33/realtime_intent_detection_alerting_via_llms_and/)
 - [A Python Library for Using PostgreSQL as a Vector Database in AI Applications](https://www.reddit.com/r/Python/comments/17wnbzz/a_python_library_for_using_postgresql_as_a_vector/)
+- [I hated wasting time on writing api tests, so I made AI do it quickly for me](https://www.reddit.com/r/Python/comments/17wn93z/i_hated_wasting_time_on_writing_api_tests_so_i/)
 - [Install and use different Python versions on the same machine?](https://www.reddit.com/r/Python/comments/17wn73w/install_and_use_different_python_versions_on_the/)
 - [File changes detector Detect new and deleted files using python](https://www.reddit.com/r/Python/comments/17wjeby/file_changes_detector_detect_new_and_deleted/)
-- [Exploring the World of Python Repositories: Introducing an Innovative Stats Project](https://www.reddit.com/r/Python/comments/17wjdvj/exploring_the_world_of_python_repositories/)
 <!-- BLOG-POST-LIST:END -->
