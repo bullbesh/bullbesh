@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Useful Coding App](https://www.reddit.com/r/Python/comments/17wb6xk/useful_coding_app/)
+- [What do you hate about Python with ChatGPT](https://www.reddit.com/r/Python/comments/17wb14l/what_do_you_hate_about_python_with_chatgpt/)
+- [Need raspberry pi alarm clock](https://www.reddit.com/r/Python/comments/17wal8j/need_raspberry_pi_alarm_clock/)
 - [Simple image recognition with pytorch](https://www.reddit.com/r/Python/comments/17w8vcs/simple_image_recognition_with_pytorch/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/17w84kp/thursday_daily_thread_python_careers_courses_and/)
-- [Infinity Run - A procedurally generated running game that takes player input from a webcam!](https://www.reddit.com/r/Python/comments/17w5ias/infinity_run_a_procedurally_generated_running/)
-- [What do you enjoy/hate with your current project planning software?](https://www.reddit.com/r/Python/comments/17w1wwx/what_do_you_enjoyhate_with_your_current_project/)
-- [What is the twentieth one?](https://www.reddit.com/r/Python/comments/17vvic1/what_is_the_twentieth_one/)
 <!-- BLOG-POST-LIST:END -->
