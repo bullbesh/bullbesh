@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes](https://www.reddit.com/r/Python/comments/17wi0ob/notes/)
 - [Enhance Safety of Conveyor belt using OpenCV](https://www.reddit.com/r/Python/comments/17wh0pg/enhance_safety_of_conveyor_belt_using_opencv/)
 - [Is there a replacement for audioop?](https://www.reddit.com/r/Python/comments/17wf0y0/is_there_a_replacement_for_audioop/)
 - [Solve this error](https://www.reddit.com/r/Python/comments/17weulo/solve_this_error/)
 - [Solve this error](https://www.reddit.com/r/Python/comments/17weuhe/solve_this_error/)
-- [Average salary for one year python bootcamp?](https://www.reddit.com/r/Python/comments/17we5dk/average_salary_for_one_year_python_bootcamp/)
 <!-- BLOG-POST-LIST:END -->
