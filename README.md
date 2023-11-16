@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open beta test of interactive &quot;Python for Programmers&quot; course](https://www.reddit.com/r/Python/comments/17wyxsn/open_beta_test_of_interactive_python_for/)
+- [In search of a user-friendly API for secure, remote data insertion into PostgreSQL from Python? Check out PostgREST!](https://www.reddit.com/r/Python/comments/17wygxb/in_search_of_a_userfriendly_api_for_secure_remote/)
+- [Python 3.13 alpha 1 contains breaking changes, what&#39;s the plan? - Core Development](https://www.reddit.com/r/Python/comments/17wxxcx/python_313_alpha_1_contains_breaking_changes/)
 - [Statically typed, purely functional algebraic effects in Python](https://www.reddit.com/r/Python/comments/17wxmnr/statically_typed_purely_functional_algebraic/)
 - [Easy yet comprehensive logging of Python scripts](https://www.reddit.com/r/Python/comments/17wusbm/easy_yet_comprehensive_logging_of_python_scripts/)
-- [python code to find your most streamed song on spotify](https://www.reddit.com/r/Python/comments/17wtl4a/python_code_to_find_your_most_streamed_song_on/)
-- [Support Python &amp; the PSF in 2023 🎉](https://www.reddit.com/r/Python/comments/17wsox7/support_python_the_psf_in_2023/)
-- [Raycasting Game in Python and Pygame](https://www.reddit.com/r/Python/comments/17wqv0t/raycasting_game_in_python_and_pygame/)
 <!-- BLOG-POST-LIST:END -->
