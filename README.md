@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Honeygain Auto Claimer, written in Python](https://www.reddit.com/r/Python/comments/17xryos/honeygain_auto_claimer_written_in_python/)
+- [TensorFlow and ... Visualizations??](https://www.reddit.com/r/Python/comments/17xrib7/tensorflow_and_visualizations/)
+- [pytest-patterns – a new plugin for testing longer strings, like CLI output, HTML and maybe more](https://www.reddit.com/r/Python/comments/17xrheu/pytestpatterns_a_new_plugin_for_testing_longer/)
 - [Can this algorithm be modified such that it can also split floats from letters in a string?](https://www.reddit.com/r/Python/comments/17xhdeh/can_this_algorithm_be_modified_such_that_it_can/)
 - [Venn Diagram in Python Programming - CodeSpeedy](https://www.reddit.com/r/Python/comments/17xgt70/venn_diagram_in_python_programming_codespeedy/)
-- [Chemics v23.11 is now available](https://www.reddit.com/r/Python/comments/17xghha/chemics_v2311_is_now_available/)
-- [Convert cURL commands to Python in one Click](https://www.reddit.com/r/Python/comments/17xgd3d/convert_curl_commands_to_python_in_one_click/)
-- [Learn how to build dataflows with larger than memory datasets.](https://www.reddit.com/r/Python/comments/17xgc0m/learn_how_to_build_dataflows_with_larger_than/)
 <!-- BLOG-POST-LIST:END -->
