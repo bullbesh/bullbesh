@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can this algorithm be modified such that it can also split floats from letters in a string?](https://www.reddit.com/r/Python/comments/17xhdeh/can_this_algorithm_be_modified_such_that_it_can/)
 - [Venn Diagram in Python Programming - CodeSpeedy](https://www.reddit.com/r/Python/comments/17xgt70/venn_diagram_in_python_programming_codespeedy/)
 - [Chemics v23.11 is now available](https://www.reddit.com/r/Python/comments/17xghha/chemics_v2311_is_now_available/)
 - [Convert cURL commands to Python in one Click](https://www.reddit.com/r/Python/comments/17xgd3d/convert_curl_commands_to_python_in_one_click/)
 - [Build a ufw &lpar;firewall&rpar; UI in Linux](https://www.reddit.com/r/Python/comments/17xbkub/build_a_ufw_firewall_ui_in_linux/)
-- [I built a library for cheap, fast and predictable LLM functions in Python](https://www.reddit.com/r/Python/comments/17xaigf/i_built_a_library_for_cheap_fast_and_predictable/)
 <!-- BLOG-POST-LIST:END -->
