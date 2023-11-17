@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Harmonizing Avro and Python: A Dance of Data Classes](https://www.reddit.com/r/Python/comments/17x30n2/harmonizing_avro_and_python_a_dance_of_data/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/17x1kec/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Open beta test of interactive &quot;Python for Programmers&quot; course](https://www.reddit.com/r/Python/comments/17wyxsn/open_beta_test_of_interactive_python_for/)
 - [In search of a user-friendly API for secure, remote data insertion into PostgreSQL from Python? Check out PostgREST!](https://www.reddit.com/r/Python/comments/17wygxb/in_search_of_a_userfriendly_api_for_secure_remote/)
 - [Python 3.13 alpha 1 contains breaking changes, what&#39;s the plan? - Core Development](https://www.reddit.com/r/Python/comments/17wxxcx/python_313_alpha_1_contains_breaking_changes/)
-- [Statically typed, purely functional algebraic effects in Python](https://www.reddit.com/r/Python/comments/17wxmnr/statically_typed_purely_functional_algebraic/)
-- [Easy yet comprehensive logging of Python scripts](https://www.reddit.com/r/Python/comments/17wusbm/easy_yet_comprehensive_logging_of_python_scripts/)
 <!-- BLOG-POST-LIST:END -->
