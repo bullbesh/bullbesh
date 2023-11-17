@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Venn Diagram in Python Programming - CodeSpeedy](https://www.reddit.com/r/Python/comments/17xgt70/venn_diagram_in_python_programming_codespeedy/)
+- [Chemics v23.11 is now available](https://www.reddit.com/r/Python/comments/17xghha/chemics_v2311_is_now_available/)
+- [Convert cURL commands to Python in one Click](https://www.reddit.com/r/Python/comments/17xgd3d/convert_curl_commands_to_python_in_one_click/)
 - [Build a ufw &lpar;firewall&rpar; UI in Linux](https://www.reddit.com/r/Python/comments/17xbkub/build_a_ufw_firewall_ui_in_linux/)
-- [Functional Web frameworks](https://www.reddit.com/r/Python/comments/17xbh19/functional_web_frameworks/)
 - [I built a library for cheap, fast and predictable LLM functions in Python](https://www.reddit.com/r/Python/comments/17xaigf/i_built_a_library_for_cheap_fast_and_predictable/)
-- [Type annotation for circular referencing objects](https://www.reddit.com/r/Python/comments/17x9yxx/type_annotation_for_circular_referencing_objects/)
-- [Need an approach for separating text and non-text pixels](https://www.reddit.com/r/Python/comments/17x8qev/need_an_approach_for_separating_text_and_nontext/)
 <!-- BLOG-POST-LIST:END -->
