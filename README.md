@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simulations in Python](https://www.reddit.com/r/Python/comments/17y61rd/simulations_in_python/)
 - [getML: The fastest open-source library for automated feature engineering on relational data and time series](https://www.reddit.com/r/Python/comments/17y4e8k/getml_the_fastest_opensource_library_for/)
 - [Is there a possibility to import standard modules at global level and use in all child modules without importing](https://www.reddit.com/r/Python/comments/17y3lfh/is_there_a_possibility_to_import_standard_modules/)
 - [Things I’ve learned about building CLI tools in Python](https://www.reddit.com/r/Python/comments/17y340z/things_ive_learned_about_building_cli_tools_in/)
 - [Python Trending Weekly #27](https://www.reddit.com/r/Python/comments/17y2skn/python_trending_weekly_27/)
-- [Django Ninja 1.0 Relased](https://www.reddit.com/r/Python/comments/17y1dw1/django_ninja_10_relased/)
 <!-- BLOG-POST-LIST:END -->
