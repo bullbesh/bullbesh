@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Embeddings and Vector Databases With ChromaDB](https://www.reddit.com/r/Python/comments/17y9ivv/embeddings_and_vector_databases_with_chromadb/)
 - [Gosper Curve with Python and Turtle Graphics 🐢](https://www.reddit.com/r/Python/comments/17y8c4f/gosper_curve_with_python_and_turtle_graphics/)
 - [Simulations in Python](https://www.reddit.com/r/Python/comments/17y61rd/simulations_in_python/)
 - [getML: The fastest open-source library for automated feature engineering on relational data and time series](https://www.reddit.com/r/Python/comments/17y4e8k/getml_the_fastest_opensource_library_for/)
 - [Is there a possibility to import standard modules at global level and use in all child modules without importing](https://www.reddit.com/r/Python/comments/17y3lfh/is_there_a_possibility_to_import_standard_modules/)
-- [Things I’ve learned about building CLI tools in Python](https://www.reddit.com/r/Python/comments/17y340z/things_ive_learned_about_building_cli_tools_in/)
 <!-- BLOG-POST-LIST:END -->
