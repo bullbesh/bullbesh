@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FlowC Automation Tool](https://www.reddit.com/r/Python/comments/17xyk2b/flowc_automation_tool/)
 - [An Easy Way to Use Selenium in Google Colab Notebooks!](https://www.reddit.com/r/Python/comments/17xvmm3/an_easy_way_to_use_selenium_in_google_colab/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/17xt1yn/saturday_daily_thread_resource_request_and/)
 - [Honeygain Auto Claimer, written in Python](https://www.reddit.com/r/Python/comments/17xryos/honeygain_auto_claimer_written_in_python/)
 - [TensorFlow and ... Visualizations??](https://www.reddit.com/r/Python/comments/17xrib7/tensorflow_and_visualizations/)
-- [pytest-patterns – a new plugin for testing longer strings, like CLI output, HTML and maybe more](https://www.reddit.com/r/Python/comments/17xrheu/pytestpatterns_a_new_plugin_for_testing_longer/)
 <!-- BLOG-POST-LIST:END -->
