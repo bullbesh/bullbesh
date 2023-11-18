@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/17xt1yn/saturday_daily_thread_resource_request_and/)
 - [Honeygain Auto Claimer, written in Python](https://www.reddit.com/r/Python/comments/17xryos/honeygain_auto_claimer_written_in_python/)
 - [TensorFlow and ... Visualizations??](https://www.reddit.com/r/Python/comments/17xrib7/tensorflow_and_visualizations/)
 - [pytest-patterns – a new plugin for testing longer strings, like CLI output, HTML and maybe more](https://www.reddit.com/r/Python/comments/17xrheu/pytestpatterns_a_new_plugin_for_testing_longer/)
-- [Can this algorithm be modified such that it can also split floats from letters in a string?](https://www.reddit.com/r/Python/comments/17xhdeh/can_this_algorithm_be_modified_such_that_it_can/)
-- [Venn Diagram in Python Programming - CodeSpeedy](https://www.reddit.com/r/Python/comments/17xgt70/venn_diagram_in_python_programming_codespeedy/)
+- [Vortex - Secure, Transport-Agnostic, E2EE Chat in Under 600 LOC](https://www.reddit.com/r/Python/comments/17xmxl4/vortex_secure_transportagnostic_e2ee_chat_in/)
 <!-- BLOG-POST-LIST:END -->
