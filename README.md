@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any Tools that use Python to program AV Systems?](https://www.reddit.com/r/Python/comments/17yidb5/any_tools_that_use_python_to_program_av_systems/)
 - [Teacher here: Looking to integrate algebra and HTML forms to Excel/database into my class. Which modules and tutorials would be best for beginners?](https://www.reddit.com/r/Python/comments/17ygdbh/teacher_here_looking_to_integrate_algebra_and/)
 - [My text editor open source project](https://www.reddit.com/r/Python/comments/17yerpp/my_text_editor_open_source_project/)
 - [Embeddings and Vector Databases With ChromaDB](https://www.reddit.com/r/Python/comments/17y9ivv/embeddings_and_vector_databases_with_chromadb/)
 - [Gosper Curve with Python and Turtle Graphics 🐢](https://www.reddit.com/r/Python/comments/17y8c4f/gosper_curve_with_python_and_turtle_graphics/)
-- [Simulations in Python](https://www.reddit.com/r/Python/comments/17y61rd/simulations_in_python/)
 <!-- BLOG-POST-LIST:END -->
