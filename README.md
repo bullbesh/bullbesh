@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hiding file inside images](https://www.reddit.com/r/Python/comments/17z3u1l/hiding_file_inside_images/)
 - [It&#39;s Time For A Change: datetime.utcnow&lpar;&rpar; Is Now Deprecated](https://www.reddit.com/r/Python/comments/17z0xr7/its_time_for_a_change_datetimeutcnow_is_now/)
 - [How to fix warnings on comments](https://www.reddit.com/r/Python/comments/17z072h/how_to_fix_warnings_on_comments/)
 - [Made a tab downloader for Songsterr](https://www.reddit.com/r/Python/comments/17yxc90/made_a_tab_downloader_for_songsterr/)
 - [Selectively download Youtube videos or entire channels](https://www.reddit.com/r/Python/comments/17yvoij/selectively_download_youtube_videos_or_entire/)
-- [Does anyone know whether function parameters are faster than using global variables?](https://www.reddit.com/r/Python/comments/17yvclr/does_anyone_know_whether_function_parameters_are/)
 <!-- BLOG-POST-LIST:END -->
