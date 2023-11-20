@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [EVKafka - a small framework for building microservices](https://www.reddit.com/r/Python/comments/17zw952/evkafka_a_small_framework_for_building/)
+- [If you work with multiple browser windows](https://www.reddit.com/r/Python/comments/17zw61x/if_you_work_with_multiple_browser_windows/)
+- [Seeking Collaborators for an Experimental LLM-based State Machine Project](https://www.reddit.com/r/Python/comments/17zv9x3/seeking_collaborators_for_an_experimental/)
 - [Is OOP/SOLID a valid approach to build Python applications in 2023?](https://www.reddit.com/r/Python/comments/17zt4g4/is_oopsolid_a_valid_approach_to_build_python/)
 - [Germany &amp; Switzerland IT Job Market Report: 12,500 Surveys, 6,300 Tech Salaries](https://www.reddit.com/r/Python/comments/17zsiaa/germany_switzerland_it_job_market_report_12500/)
-- [Raycasting Game in Python and Pygame Part 2](https://www.reddit.com/r/Python/comments/17zsegh/raycasting_game_in_python_and_pygame_part_2/)
-- [Starfyre -- A reactive, WASM-based SSR Python Web Framework for Front-End Applications](https://www.reddit.com/r/Python/comments/17zq1hk/starfyre_a_reactive_wasmbased_ssr_python_web/)
-- [Unveiling the Power of Plotly: 10 Essential Charts You Need to Know](https://www.reddit.com/r/Python/comments/17zpn5k/unveiling_the_power_of_plotly_10_essential_charts/)
 <!-- BLOG-POST-LIST:END -->
