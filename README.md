@@ -11,6 +11,6 @@
 - [Starfyre -- A reactive, WASM-based SSR Python Web Framework for Front-End Applications](https://www.reddit.com/r/Python/comments/17zq1hk/starfyre_a_reactive_wasmbased_ssr_python_web/)
 - [Unveiling the Power of Plotly: 10 Essential Charts You Need to Know](https://www.reddit.com/r/Python/comments/17zpn5k/unveiling_the_power_of_plotly_10_essential_charts/)
 - [One Liners Python Edition](https://www.reddit.com/r/Python/comments/17zlt3y/one_liners_python_edition/)
+- [A Python &amp; GitLab Twist to GitOps: Streamlining User Management](https://www.reddit.com/r/Python/comments/17zkjwm/a_python_gitlab_twist_to_gitops_streamlining_user/)
 - [Python Type Hints: pyastgrep case study](https://www.reddit.com/r/Python/comments/17zk3td/python_type_hints_pyastgrep_case_study/)
-- [Network Graphs: Creating Interactive Visualizations using Pyvis](https://www.reddit.com/r/Python/comments/17zi2is/network_graphs_creating_interactive/)
 <!-- BLOG-POST-LIST:END -->
