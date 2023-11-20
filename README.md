@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [CCTV Motion Server](https://www.reddit.com/r/Python/comments/1801abp/cctv_motion_server/)
 - [FastAPI with Redis stream](https://www.reddit.com/r/Python/comments/17zz90w/fastapi_with_redis_stream/)
 - [Comparing Documentation Between GitHub Copilot and Snorkell.ai](https://www.reddit.com/r/Python/comments/17zxj1e/comparing_documentation_between_github_copilot/)
 - [EVKafka - a small framework for building microservices](https://www.reddit.com/r/Python/comments/17zw952/evkafka_a_small_framework_for_building/)
 - [If you work with multiple browser windows](https://www.reddit.com/r/Python/comments/17zw61x/if_you_work_with_multiple_browser_windows/)
-- [Seeking Collaborators for an Experimental LLM-based State Machine Project](https://www.reddit.com/r/Python/comments/17zv9x3/seeking_collaborators_for_an_experimental/)
 <!-- BLOG-POST-LIST:END -->
