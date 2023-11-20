@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Asyncio: 7-Day Crash-Course](https://www.reddit.com/r/Python/comments/17z95tl/python_asyncio_7day_crashcourse/)
-- [Simulating Quantum Mechanics in Python](https://www.reddit.com/r/Python/comments/17z82hz/simulating_quantum_mechanics_in_python/)
-- [Package for astrology data](https://www.reddit.com/r/Python/comments/17z7i9k/package_for_astrology_data/)
-- [Hiding file inside images](https://www.reddit.com/r/Python/comments/17z3u1l/hiding_file_inside_images/)
-- [It&#39;s Time For A Change: datetime.utcnow&lpar;&rpar; Is Now Deprecated](https://www.reddit.com/r/Python/comments/17z0xr7/its_time_for_a_change_datetimeutcnow_is_now/)
+- [Baby programmer here](https://www.reddit.com/r/Python/comments/17zc1m3/baby_programmer_here/)
+- [Using Chat GPT-4 with Python &lpar;and Java&rpar; and am curious your experiences.](https://www.reddit.com/r/Python/comments/17zbmn8/using_chat_gpt4_with_python_and_java_and_am/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/17zayqt/monday_daily_thread_project_ideas/)
+- [Python career projectory?](https://www.reddit.com/r/Python/comments/17zahr5/python_career_projectory/)
+- [Cheap realtime inference of pretrained PyTorch models by using Modal Labs](https://www.reddit.com/r/Python/comments/17za3mk/cheap_realtime_inference_of_pretrained_pytorch/)
 <!-- BLOG-POST-LIST:END -->
