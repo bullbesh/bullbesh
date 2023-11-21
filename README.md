@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How often do you use algorithms in your work?](https://www.reddit.com/r/Python/comments/180752d/how_often_do_you_use_algorithms_in_your_work/)
+- [Programming in Python in Rstudio](https://www.reddit.com/r/Python/comments/1806r7y/programming_in_python_in_rstudio/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/18036yx/tuesday_daily_thread_advanced_questions/)
 - [CCTV Motion Server](https://www.reddit.com/r/Python/comments/1801abp/cctv_motion_server/)
 - [FastAPI with Redis stream](https://www.reddit.com/r/Python/comments/17zz90w/fastapi_with_redis_stream/)
-- [Comparing Documentation Between GitHub Copilot and Snorkell.ai](https://www.reddit.com/r/Python/comments/17zxj1e/comparing_documentation_between_github_copilot/)
-- [EVKafka - a small framework for building microservices](https://www.reddit.com/r/Python/comments/17zw952/evkafka_a_small_framework_for_building/)
 <!-- BLOG-POST-LIST:END -->
