@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scraping Amazon using Python &lpar;Extracting Price, Name, Images, Rating &amp; Specs&rpar;](https://www.reddit.com/r/Python/comments/180fiov/scraping_amazon_using_python_extracting_price/)
+- [For all the aspiring data analysts in the group - End to End project walkthrough tutorial](https://www.reddit.com/r/Python/comments/180f2n4/for_all_the_aspiring_data_analysts_in_the_group/)
 - [Sharpen Barcode Neural Network](https://www.reddit.com/r/Python/comments/180cmrx/sharpen_barcode_neural_network/)
 - [Enhance Your Python Coding Style with Ruff](https://www.reddit.com/r/Python/comments/180c9yq/enhance_your_python_coding_style_with_ruff/)
 - [Just finished my first game](https://www.reddit.com/r/Python/comments/180b87b/just_finished_my_first_game/)
-- [futurephysics: A Python package that enables you to create short stories within the scope of what is scientifically possible.](https://www.reddit.com/r/Python/comments/180b4f9/futurephysics_a_python_package_that_enables_you/)
-- [What&#39;s the best use-case you&#39;ve used/witnessed in Python Automation?](https://www.reddit.com/r/Python/comments/180akfb/whats_the_best_usecase_youve_usedwitnessed_in/)
 <!-- BLOG-POST-LIST:END -->
