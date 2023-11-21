@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Render Markdown in a Django Application](https://www.reddit.com/r/Python/comments/180gk77/how_to_render_markdown_in_a_django_application/)
 - [Scraping Amazon using Python &lpar;Extracting Price, Name, Images, Rating &amp; Specs&rpar;](https://www.reddit.com/r/Python/comments/180fiov/scraping_amazon_using_python_extracting_price/)
 - [For all the aspiring data analysts in the group - End to End project walkthrough tutorial](https://www.reddit.com/r/Python/comments/180f2n4/for_all_the_aspiring_data_analysts_in_the_group/)
 - [Sharpen Barcode Neural Network](https://www.reddit.com/r/Python/comments/180cmrx/sharpen_barcode_neural_network/)
 - [Enhance Your Python Coding Style with Ruff](https://www.reddit.com/r/Python/comments/180c9yq/enhance_your_python_coding_style_with_ruff/)
-- [Just finished my first game](https://www.reddit.com/r/Python/comments/180b87b/just_finished_my_first_game/)
 <!-- BLOG-POST-LIST:END -->
