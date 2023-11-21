@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just finished my first game](https://www.reddit.com/r/Python/comments/180b87b/just_finished_my_first_game/)
+- [futurephysics: A Python package that enables you to create short stories within the scope of what is scientifically possible.](https://www.reddit.com/r/Python/comments/180b4f9/futurephysics_a_python_package_that_enables_you/)
+- [What&#39;s the best use-case you&#39;ve used/witnessed in Python Automation?](https://www.reddit.com/r/Python/comments/180akfb/whats_the_best_usecase_youve_usedwitnessed_in/)
 - [A engineering calculation web app based on Pyodide, SymPy, and Plotly](https://www.reddit.com/r/Python/comments/1809zft/a_engineering_calculation_web_app_based_on/)
 - [How often do you use algorithms in your work?](https://www.reddit.com/r/Python/comments/180752d/how_often_do_you_use_algorithms_in_your_work/)
-- [Programming in Python in Rstudio](https://www.reddit.com/r/Python/comments/1806r7y/programming_in_python_in_rstudio/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/18036yx/tuesday_daily_thread_advanced_questions/)
-- [CCTV Motion Server](https://www.reddit.com/r/Python/comments/1801abp/cctv_motion_server/)
 <!-- BLOG-POST-LIST:END -->
