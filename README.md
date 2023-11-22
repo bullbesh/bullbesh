@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Drawing a Honeycomb with Python and Turtle Graphics 🐢 [ Keyboard Sounds ...](https://www.reddit.com/r/Python/comments/181icci/drawing_a_honeycomb_with_python_and_turtle/)
+- [Querying every file in every release on the Python Package Index using Ibis](https://www.reddit.com/r/Python/comments/181hb8a/querying_every_file_in_every_release_on_the/)
 - [Created a project to pull a pdf from CompTIA source and present flashcards based on the acronyms found.](https://www.reddit.com/r/Python/comments/181g47t/created_a_project_to_pull_a_pdf_from_comptia/)
 - [The Python Sofware Foundation receives the Wonderfully Welcoming Award from GitHub](https://www.reddit.com/r/Python/comments/181g29z/the_python_sofware_foundation_receives_the/)
 - [Tiny API Client: The easiest way to write an API client using the power of decorators](https://www.reddit.com/r/Python/comments/181f3y4/tiny_api_client_the_easiest_way_to_write_an_api/)
-- [Why not avoid OOP by using modules just like objects?](https://www.reddit.com/r/Python/comments/181avrn/why_not_avoid_oop_by_using_modules_just_like/)
-- [GitHub - anatoly-scherbakov/documented: Templated docstrings for Python classes](https://www.reddit.com/r/Python/comments/1815w71/github_anatolyscherbakovdocumented_templated/)
 <!-- BLOG-POST-LIST:END -->
