@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Secret Santa draw with Python](https://www.reddit.com/r/Python/comments/180w0e9/secret_santa_draw_with_python/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/180vjdl/wednesday_daily_thread_beginner_questions/)
+- [Python GPTs for data analysis](https://www.reddit.com/r/Python/comments/180uup0/python_gpts_for_data_analysis/)
 - [Asunto: Solicitud de Retroalimentación para Proyecto de Comercio Electrónico Agrícola](https://www.reddit.com/r/Python/comments/180t8b5/asunto_solicitud_de_retroalimentación_para/)
 - [The Categories of Bugs in Python Apps](https://www.reddit.com/r/Python/comments/180t77q/the_categories_of_bugs_in_python_apps/)
-- [Do you use internet for coding?](https://www.reddit.com/r/Python/comments/180r7ja/do_you_use_internet_for_coding/)
-- [Travis Oliphant - One of the greatest computer scientists/programmers of all time?](https://www.reddit.com/r/Python/comments/180r4bg/travis_oliphant_one_of_the_greatest_computer/)
-- [Cookiescope - a browser cookie scanner](https://www.reddit.com/r/Python/comments/180njcy/cookiescope_a_browser_cookie_scanner/)
 <!-- BLOG-POST-LIST:END -->
