@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why not avoid OOP by using modules just like objects?](https://www.reddit.com/r/Python/comments/181avrn/why_not_avoid_oop_by_using_modules_just_like/)
 - [Python + Power BI](https://www.reddit.com/r/Python/comments/1818ulp/python_power_bi/)
 - [GitHub - anatoly-scherbakov/documented: Templated docstrings for Python classes](https://www.reddit.com/r/Python/comments/1815w71/github_anatolyscherbakovdocumented_templated/)
 - [Best tools to teach python in a classroom](https://www.reddit.com/r/Python/comments/1815o8s/best_tools_to_teach_python_in_a_classroom/)
 - [Why Use `pip install --user`?](https://www.reddit.com/r/Python/comments/18128ut/why_use_pip_install_user/)
-- [Witness Selenium 2023 &lpar;AI Agent Applying for jobs for me &lpar;perhaps even making reddit posts&rpar;&rpar;](https://www.reddit.com/r/Python/comments/18125cb/witness_selenium_2023_ai_agent_applying_for_jobs/)
 <!-- BLOG-POST-LIST:END -->
