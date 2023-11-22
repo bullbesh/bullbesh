@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [[Video] Why __init__.py File is Used in Python Projects](https://www.reddit.com/r/Python/comments/181c7ac/video_why_init_py_file_is_used_in_python_projects/)
 - [Why not avoid OOP by using modules just like objects?](https://www.reddit.com/r/Python/comments/181avrn/why_not_avoid_oop_by_using_modules_just_like/)
 - [Python + Power BI](https://www.reddit.com/r/Python/comments/1818ulp/python_power_bi/)
 - [GitHub - anatoly-scherbakov/documented: Templated docstrings for Python classes](https://www.reddit.com/r/Python/comments/1815w71/github_anatolyscherbakovdocumented_templated/)
 - [Best tools to teach python in a classroom](https://www.reddit.com/r/Python/comments/1815o8s/best_tools_to_teach_python_in_a_classroom/)
+- [Why Use `pip install --user`?](https://www.reddit.com/r/Python/comments/18128ut/why_use_pip_install_user/)
 <!-- BLOG-POST-LIST:END -->
