@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Vector Art Drawings with Python &lpar;and a real plotter&rpar;](https://www.reddit.com/r/Python/comments/181wvqy/vector_art_drawings_with_python_and_a_real_plotter/)
+- [Dagster Tutorial: Building an Asset Graph](https://www.reddit.com/r/Python/comments/181ws5g/dagster_tutorial_building_an_asset_graph/)
 - [TranSummary: A Tool to Enhance YouTube Video Accessibility](https://www.reddit.com/r/Python/comments/181w88a/transummary_a_tool_to_enhance_youtube_video/)
 - [Understanding your own code](https://www.reddit.com/r/Python/comments/181uwlq/understanding_your_own_code/)
 - [Nodejs integration with Python](https://www.reddit.com/r/Python/comments/181tjaq/nodejs_integration_with_python/)
-- [Final Year Project](https://www.reddit.com/r/Python/comments/181tbfu/final_year_project/)
-- [Visual Explaination of Python NumPy library](https://www.reddit.com/r/Python/comments/181t6cv/visual_explaination_of_python_numpy_library/)
 <!-- BLOG-POST-LIST:END -->
