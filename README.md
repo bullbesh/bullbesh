@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Differences btw junior, senior , mid](https://www.reddit.com/r/Python/comments/182asou/differences_btw_junior_senior_mid/)
-- [Data Analysis Ideas](https://www.reddit.com/r/Python/comments/18275rk/data_analysis_ideas/)
-- [Setup Github Copilot in Visual Studio Code](https://www.reddit.com/r/Python/comments/1823wr7/setup_github_copilot_in_visual_studio_code/)
+- [Alternative to Sourcery](https://www.reddit.com/r/Python/comments/182c5jo/alternative_to_sourcery/)
+- [Curious about awesome-python and curated lists in Python](https://www.reddit.com/r/Python/comments/182c0ve/curious_about_awesomepython_and_curated_lists_in/)
+- [Android IDE](https://www.reddit.com/r/Python/comments/182bcua/android_ide/)
 - [Animated Data Visualizations in Python - CodeSpeedy](https://www.reddit.com/r/Python/comments/1822oqr/animated_data_visualizations_in_python_codespeedy/)
 - [for anybody interested, I have made abstract_ai pypi module and have been working on it for a few months. It has unique features, including itterative queries consisting of requests, prompt data and instructions. this was originally developed to facilitate large data multi level tiered query meths.](https://www.reddit.com/r/Python/comments/1820577/for_anybody_interested_i_have_made_abstract_ai/)
 <!-- BLOG-POST-LIST:END -->
