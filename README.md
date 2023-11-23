@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Check out my open source AI coding assistant project](https://www.reddit.com/r/Python/comments/181r09c/check_out_my_open_source_ai_coding_assistant/)
-- [PyData Global 2023 Schedule Released](https://www.reddit.com/r/Python/comments/181obm6/pydata_global_2023_schedule_released/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/181nqk8/thursday_daily_thread_python_careers_courses_and/)
-- [Running a Polars query in the cloud](https://www.reddit.com/r/Python/comments/181kkx9/running_a_polars_query_in_the_cloud/)
-- [Python in Finance](https://www.reddit.com/r/Python/comments/181kk4f/python_in_finance/)
+- [Nodejs integration with Python](https://www.reddit.com/r/Python/comments/181tjaq/nodejs_integration_with_python/)
+- [Final Year Project](https://www.reddit.com/r/Python/comments/181tbfu/final_year_project/)
+- [Visual Explaination of Python NumPy library](https://www.reddit.com/r/Python/comments/181t6cv/visual_explaination_of_python_numpy_library/)
+- [App web](https://www.reddit.com/r/Python/comments/181t41a/app_web/)
+- [Python Multiprocessing Pool: Complete API Guide](https://www.reddit.com/r/Python/comments/181srab/python_multiprocessing_pool_complete_api_guide/)
 <!-- BLOG-POST-LIST:END -->
