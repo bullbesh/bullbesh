@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can I post links to black friday deals for Python devs?](https://www.reddit.com/r/Python/comments/182sssi/can_i_post_links_to_black_friday_deals_for_python/)
+- [Why use enums?](https://www.reddit.com/r/Python/comments/182srxl/why_use_enums/)
+- [Python, Asyncio and Footguns](https://www.reddit.com/r/Python/comments/182s486/python_asyncio_and_footguns/)
+- [pip.wtf: Inline dependencies for small Python scripts.](https://www.reddit.com/r/Python/comments/182rys0/pipwtf_inline_dependencies_for_small_python/)
 - [CPython Object System Internals: Understanding the Role of PyObject](https://www.reddit.com/r/Python/comments/182racz/cpython_object_system_internals_understanding_the/)
-- [Paid python task, visit description for more!](https://www.reddit.com/r/Python/comments/182p48q/paid_python_task_visit_description_for_more/)
-- [Generate trading with RSI indicator using Ta-Lib](https://www.reddit.com/r/Python/comments/182p20o/generate_trading_with_rsi_indicator_using_talib/)
-- [How to remove image backgrounds using Python](https://www.reddit.com/r/Python/comments/182p15x/how_to_remove_image_backgrounds_using_python/)
-- [Introducing my new project Netleaf: a tool for scanning devices on the network](https://www.reddit.com/r/Python/comments/182m274/introducing_my_new_project_netleaf_a_tool_for/)
 <!-- BLOG-POST-LIST:END -->
