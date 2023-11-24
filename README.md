@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why not?](https://www.reddit.com/r/Python/comments/182uvzv/why_not/)
 - [Python Black Friday](https://www.reddit.com/r/Python/comments/182te8t/python_black_friday/)
-- [Why use enums?](https://www.reddit.com/r/Python/comments/182srxl/why_use_enums/)
 - [Python, Asyncio and Footguns](https://www.reddit.com/r/Python/comments/182s486/python_asyncio_and_footguns/)
 - [pip.wtf: Inline dependencies for small Python scripts.](https://www.reddit.com/r/Python/comments/182rys0/pipwtf_inline_dependencies_for_small_python/)
 - [CPython Object System Internals: Understanding the Role of PyObject](https://www.reddit.com/r/Python/comments/182racz/cpython_object_system_internals_understanding_the/)
