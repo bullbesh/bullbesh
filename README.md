@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Paid python task, visit description for more!](https://www.reddit.com/r/Python/comments/182p48q/paid_python_task_visit_description_for_more/)
 - [Generate trading with RSI indicator using Ta-Lib](https://www.reddit.com/r/Python/comments/182p20o/generate_trading_with_rsi_indicator_using_talib/)
 - [How to remove image backgrounds using Python](https://www.reddit.com/r/Python/comments/182p15x/how_to_remove_image_backgrounds_using_python/)
 - [Introducing my new project Netleaf: a tool for scanning devices on the network](https://www.reddit.com/r/Python/comments/182m274/introducing_my_new_project_netleaf_a_tool_for/)
 - [Python code written by a Java programmer](https://www.reddit.com/r/Python/comments/182lmu7/python_code_written_by_a_java_programmer/)
-- [Python List - Quick Reference](https://www.reddit.com/r/Python/comments/182ho6k/python_list_quick_reference/)
 <!-- BLOG-POST-LIST:END -->
