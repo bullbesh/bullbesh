@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can I post links to black friday deals for Python devs?](https://www.reddit.com/r/Python/comments/182sssi/can_i_post_links_to_black_friday_deals_for_python/)
+- [Python Black Friday](https://www.reddit.com/r/Python/comments/182te8t/python_black_friday/)
 - [Why use enums?](https://www.reddit.com/r/Python/comments/182srxl/why_use_enums/)
 - [Python, Asyncio and Footguns](https://www.reddit.com/r/Python/comments/182s486/python_asyncio_and_footguns/)
 - [pip.wtf: Inline dependencies for small Python scripts.](https://www.reddit.com/r/Python/comments/182rys0/pipwtf_inline_dependencies_for_small_python/)
