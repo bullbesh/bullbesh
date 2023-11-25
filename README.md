@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [semantic-release-pypi - Semantic Release plugin to publish Python packages](https://www.reddit.com/r/Python/comments/183rgkc/semanticreleasepypi_semantic_release_plugin_to/)
 - [Secure Command Line Chat with Python](https://www.reddit.com/r/Python/comments/183qrjm/secure_command_line_chat_with_python/)
 - [IDE made with PyQt6 and Python](https://www.reddit.com/r/Python/comments/183ivz2/ide_made_with_pyqt6_and_python/)
 - [CPython int implementation explained](https://www.reddit.com/r/Python/comments/183gaks/cpython_int_implementation_explained/)
 - [Asynchronous HTTP Requests in Python with aiohttp and asyncio](https://www.reddit.com/r/Python/comments/183fyq6/asynchronous_http_requests_in_python_with_aiohttp/)
-- [Linux users, I created a script to automatically install oh-my-zsh, conda, gpu drivers, cuda and more](https://www.reddit.com/r/Python/comments/18377pq/linux_users_i_created_a_script_to_automatically/)
 <!-- BLOG-POST-LIST:END -->
