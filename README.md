@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cleanlab](https://www.reddit.com/r/Python/comments/18474eh/cleanlab/)
 - [Python to C translater: free, open-source and online](https://www.reddit.com/r/Python/comments/1843qox/python_to_c_translater_free_opensource_and_online/)
 - [GitHub - 1kuzus/BilibiliSpider-iiiLab: 调用iiiLab接口的Bilibili视频爬虫](https://www.reddit.com/r/Python/comments/1841ysp/github_1kuzusbilibilispideriiilab/)
 - [Python weekly 28](https://www.reddit.com/r/Python/comments/1840tkd/python_weekly_28/)
 - [ZeroMQ or RabbitMQ - OpenCV for Video Analytics](https://www.reddit.com/r/Python/comments/183ye71/zeromq_or_rabbitmq_opencv_for_video_analytics/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/183xb5f/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
