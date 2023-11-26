@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Live reload CLI for the terminal as well as the browser](https://www.reddit.com/r/Python/comments/1848taa/live_reload_cli_for_the_terminal_as_well_as_the/)
 - [I made a CLI Python file that creates a template for a flask project. It creates all the folders and files plus databases and testing environment. Link to the GitHub repo in the description.](https://www.reddit.com/r/Python/comments/1848hpn/i_made_a_cli_python_file_that_creates_a_template/)
 - [Python data analytics end to end walkthrough integrating OpenAI ChatGPT API tutorial](https://www.reddit.com/r/Python/comments/1847ve7/python_data_analytics_end_to_end_walkthrough/)
 - [Cleanlab](https://www.reddit.com/r/Python/comments/18474eh/cleanlab/)
 - [Python to C translater: free, open-source and online](https://www.reddit.com/r/Python/comments/1843qox/python_to_c_translater_free_opensource_and_online/)
-- [GitHub - 1kuzus/BilibiliSpider-iiiLab: 调用iiiLab接口的Bilibili视频爬虫](https://www.reddit.com/r/Python/comments/1841ysp/github_1kuzusbilibilispideriiilab/)
 <!-- BLOG-POST-LIST:END -->
