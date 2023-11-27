@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Comprehensive Python Cheatsheet](https://www.reddit.com/r/Python/comments/184w9qu/comprehensive_python_cheatsheet/)
+- [WinUI 3 with Python](https://www.reddit.com/r/Python/comments/184vp8g/winui_3_with_python/)
+- [Library for Memory Scanning for Python 3 &lpar;with a GUI application&rpar;](https://www.reddit.com/r/Python/comments/184vbik/library_for_memory_scanning_for_python_3_with_a/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/184p0tr/monday_daily_thread_project_ideas/)
 - [What to do when a FOSS library&#39;s namespace is too generic? Is it worth signalling?](https://www.reddit.com/r/Python/comments/184oglu/what_to_do_when_a_foss_librarys_namespace_is_too/)
-- [Python Multiprocessing: 7-Day Crash Course](https://www.reddit.com/r/Python/comments/184njpn/python_multiprocessing_7day_crash_course/)
-- [Dependencies Belong in Version Control](https://www.reddit.com/r/Python/comments/184iyr4/dependencies_belong_in_version_control/)
-- [Thoughts on AWS Glue? I kinda hate it](https://www.reddit.com/r/Python/comments/184ey27/thoughts_on_aws_glue_i_kinda_hate_it/)
 <!-- BLOG-POST-LIST:END -->
