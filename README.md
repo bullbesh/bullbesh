@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Having An Idea Of Creating An Restful API](https://www.reddit.com/r/Python/comments/1852g5t/having_an_idea_of_creating_an_restful_api/)
 - [seeking advice for ML](https://www.reddit.com/r/Python/comments/184z2zo/seeking_advice_for_ml/)
 - [Universal hashbang script](https://www.reddit.com/r/Python/comments/184z2ww/universal_hashbang_script/)
 - [Comprehensive Python Cheatsheet](https://www.reddit.com/r/Python/comments/184w9qu/comprehensive_python_cheatsheet/)
 - [WinUI 3 with Python](https://www.reddit.com/r/Python/comments/184vp8g/winui_3_with_python/)
-- [Library for Memory Scanning for Python 3 &lpar;with a GUI application&rpar;](https://www.reddit.com/r/Python/comments/184vbik/library_for_memory_scanning_for_python_3_with_a/)
 <!-- BLOG-POST-LIST:END -->
