@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Having An Idea Of Creating An Restful API](https://www.reddit.com/r/Python/comments/1852g5t/having_an_idea_of_creating_an_restful_api/)
+- [GitHub - thuml/Time-Series-Library: A Library for Advanced Deep Time Series Models.](https://www.reddit.com/r/Python/comments/1853i26/github_thumltimeserieslibrary_a_library_for/)
 - [seeking advice for ML](https://www.reddit.com/r/Python/comments/184z2zo/seeking_advice_for_ml/)
 - [Universal hashbang script](https://www.reddit.com/r/Python/comments/184z2ww/universal_hashbang_script/)
 - [Comprehensive Python Cheatsheet](https://www.reddit.com/r/Python/comments/184w9qu/comprehensive_python_cheatsheet/)
