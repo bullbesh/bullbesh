@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [seeking advice for ML](https://www.reddit.com/r/Python/comments/184z2zo/seeking_advice_for_ml/)
+- [Universal hashbang script](https://www.reddit.com/r/Python/comments/184z2ww/universal_hashbang_script/)
 - [Comprehensive Python Cheatsheet](https://www.reddit.com/r/Python/comments/184w9qu/comprehensive_python_cheatsheet/)
 - [WinUI 3 with Python](https://www.reddit.com/r/Python/comments/184vp8g/winui_3_with_python/)
 - [Library for Memory Scanning for Python 3 &lpar;with a GUI application&rpar;](https://www.reddit.com/r/Python/comments/184vbik/library_for_memory_scanning_for_python_3_with_a/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/184p0tr/monday_daily_thread_project_ideas/)
-- [What to do when a FOSS library&#39;s namespace is too generic? Is it worth signalling?](https://www.reddit.com/r/Python/comments/184oglu/what_to_do_when_a_foss_librarys_namespace_is_too/)
 <!-- BLOG-POST-LIST:END -->
