@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Hottest New Apps from November to Transform Your Life](https://www.reddit.com/r/Python/comments/185bsou/10_hottest_new_apps_from_november_to_transform/)
-- [5 Must-Try ChatGPT Apps with Your OpenAI API Key](https://www.reddit.com/r/Python/comments/185brv6/5_musttry_chatgpt_apps_with_your_openai_api_key/)
+- [Create Your Own Snipping Tool in Python and PyQt5 in 10 minutes](https://www.reddit.com/r/Python/comments/185cpv7/create_your_own_snipping_tool_in_python_and_pyqt5/)
 - [Great Python Teacher has Cyber Monday Deal!](https://www.reddit.com/r/Python/comments/185bfg2/great_python_teacher_has_cyber_monday_deal/)
 - [miniloop: a minimal, pedagogical event loop implementation](https://www.reddit.com/r/Python/comments/1859c26/miniloop_a_minimal_pedagogical_event_loop/)
 - [math using CHATGPT](https://www.reddit.com/r/Python/comments/185920y/math_using_chatgpt/)
+- [Deepdiff vs Pandas for report generation.](https://www.reddit.com/r/Python/comments/1856wra/deepdiff_vs_pandas_for_report_generation/)
 <!-- BLOG-POST-LIST:END -->
