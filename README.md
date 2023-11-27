@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Hottest New Apps from November to Transform Your Life](https://www.reddit.com/r/Python/comments/185bsou/10_hottest_new_apps_from_november_to_transform/)
+- [5 Must-Try ChatGPT Apps with Your OpenAI API Key](https://www.reddit.com/r/Python/comments/185brv6/5_musttry_chatgpt_apps_with_your_openai_api_key/)
+- [Great Python Teacher has Cyber Monday Deal!](https://www.reddit.com/r/Python/comments/185bfg2/great_python_teacher_has_cyber_monday_deal/)
 - [miniloop: a minimal, pedagogical event loop implementation](https://www.reddit.com/r/Python/comments/1859c26/miniloop_a_minimal_pedagogical_event_loop/)
 - [math using CHATGPT](https://www.reddit.com/r/Python/comments/185920y/math_using_chatgpt/)
-- [math using CHATGPT](https://www.reddit.com/r/Python/comments/1859210/math_using_chatgpt/)
-- [Deepdiff vs Pandas for report generation.](https://www.reddit.com/r/Python/comments/1856wra/deepdiff_vs_pandas_for_report_generation/)
-- [I created a small demo that creates a &quot;Customer Sentiment Analysis&quot; report using ChatGPT and Webz.io. The report was generated automatically &lpar;cover image to title &amp; content&rpar;. If anyone wants to play with the code and dataset - they can find it here](https://www.reddit.com/r/Python/comments/1854d45/i_created_a_small_demo_that_creates_a_customer/)
 <!-- BLOG-POST-LIST:END -->
