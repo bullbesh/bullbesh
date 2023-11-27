@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a small demo that creates a &quot;Customer Sentiment Analysis&quot; report using ChatGPT and Webz.io. The report was generated automatically &lpar;cover image to title &amp; content&rpar;. If anyone wants to play with the code and dataset - they can find it here](https://www.reddit.com/r/Python/comments/1854d45/i_created_a_small_demo_that_creates_a_customer/)
 - [GitHub - thuml/Time-Series-Library: A Library for Advanced Deep Time Series Models.](https://www.reddit.com/r/Python/comments/1853i26/github_thumltimeserieslibrary_a_library_for/)
 - [seeking advice for ML](https://www.reddit.com/r/Python/comments/184z2zo/seeking_advice_for_ml/)
-- [Universal hashbang script](https://www.reddit.com/r/Python/comments/184z2ww/universal_hashbang_script/)
 - [Comprehensive Python Cheatsheet](https://www.reddit.com/r/Python/comments/184w9qu/comprehensive_python_cheatsheet/)
 - [WinUI 3 with Python](https://www.reddit.com/r/Python/comments/184vp8g/winui_3_with_python/)
 <!-- BLOG-POST-LIST:END -->
