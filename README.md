@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [RediPy: A multi-backend Redis library](https://www.reddit.com/r/Python/comments/1860luq/redipy_a_multibackend_redis_library/)
 - [Langchain package](https://www.reddit.com/r/Python/comments/185z840/langchain_package/)
 - [What are the best libraries to work with graphs?](https://www.reddit.com/r/Python/comments/185xexg/what_are_the_best_libraries_to_work_with_graphs/)
 - [The Python Rich Package: Unleash the Power of Console Text](https://www.reddit.com/r/Python/comments/185xcm7/the_python_rich_package_unleash_the_power_of/)
 - [Generate realistic dummy data in CSV and JSON format](https://www.reddit.com/r/Python/comments/185wcsn/generate_realistic_dummy_data_in_csv_and_json/)
-- [Seeking Income Tips: Proficient in Scala, Python, RiscV, and More!](https://www.reddit.com/r/Python/comments/185w0tz/seeking_income_tips_proficient_in_scala_python/)
 <!-- BLOG-POST-LIST:END -->
