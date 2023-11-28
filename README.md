@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MegaMock updated, new custom GPT for test generation](https://www.reddit.com/r/Python/comments/1869ope/megamock_updated_new_custom_gpt_for_test/)
 - [What&#39;s up Python? New args syntax, subinterpreters FastAPI and cuda pandas…](https://www.reddit.com/r/Python/comments/18676xd/whats_up_python_new_args_syntax_subinterpreters/)
 - [pytest parametrize vs highly repetitive code?](https://www.reddit.com/r/Python/comments/1866gj0/pytest_parametrize_vs_highly_repetitive_code/)
 - [RediPy: A multi-backend Redis library](https://www.reddit.com/r/Python/comments/1860luq/redipy_a_multibackend_redis_library/)
 - [What are the best libraries to work with graphs?](https://www.reddit.com/r/Python/comments/185xexg/what_are_the_best_libraries_to_work_with_graphs/)
-- [The Python Rich Package: Unleash the Power of Console Text](https://www.reddit.com/r/Python/comments/185xcm7/the_python_rich_package_unleash_the_power_of/)
 <!-- BLOG-POST-LIST:END -->
