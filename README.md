@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What tool specifically do you use for coding](https://www.reddit.com/r/Python/comments/1864frb/what_tool_specifically_do_you_use_for_coding/)
-- [PYPI Analytics](https://www.reddit.com/r/Python/comments/1864598/pypi_analytics/)
+- [pytest parametrize vs highly repetitive code?](https://www.reddit.com/r/Python/comments/1866gj0/pytest_parametrize_vs_highly_repetitive_code/)
+- [Midjourney API - anyone working on an unofficial tool for this?](https://www.reddit.com/r/Python/comments/1865yga/midjourney_api_anyone_working_on_an_unofficial/)
 - [RediPy: A multi-backend Redis library](https://www.reddit.com/r/Python/comments/1860luq/redipy_a_multibackend_redis_library/)
 - [What are the best libraries to work with graphs?](https://www.reddit.com/r/Python/comments/185xexg/what_are_the_best_libraries_to_work_with_graphs/)
 - [The Python Rich Package: Unleash the Power of Console Text](https://www.reddit.com/r/Python/comments/185xcm7/the_python_rich_package_unleash_the_power_of/)
