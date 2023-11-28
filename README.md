@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 734: Multiple Interpreters in the Stdlib](https://www.reddit.com/r/Python/comments/185pz99/pep_734_multiple_interpreters_in_the_stdlib/)
+- [Building a small REPL in Python](https://www.reddit.com/r/Python/comments/185pwca/building_a_small_repl_in_python/)
 - [aidebug now on PyPi](https://www.reddit.com/r/Python/comments/185mpgw/aidebug_now_on_pypi/)
-- [Recomendación cursos python](https://www.reddit.com/r/Python/comments/185ljhz/recomendación_cursos_python/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/185hzaf/tuesday_daily_thread_advanced_questions/)
-- [Create Your Own Snipping Tool in Python and PyQt5 in 10 minutes](https://www.reddit.com/r/Python/comments/185cpv7/create_your_own_snipping_tool_in_python_and_pyqt5/)
-- [miniloop: a minimal, pedagogical event loop implementation](https://www.reddit.com/r/Python/comments/1859c26/miniloop_a_minimal_pedagogical_event_loop/)
+- [An Atmospheric Visualization Tool](https://www.reddit.com/r/Python/comments/185li1n/an_atmospheric_visualization_tool/)
+- [Introducing OpenMic - A Python Karaoke App](https://www.reddit.com/r/Python/comments/185j42b/introducing_openmic_a_python_karaoke_app/)
 <!-- BLOG-POST-LIST:END -->
