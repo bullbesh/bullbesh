@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate realistic dummy data in CSV and JSON format](https://www.reddit.com/r/Python/comments/185wcsn/generate_realistic_dummy_data_in_csv_and_json/)
+- [Seeking Income Tips: Proficient in Scala, Python, RiscV, and More!](https://www.reddit.com/r/Python/comments/185w0tz/seeking_income_tips_proficient_in_scala_python/)
 - [Please dont tell me you are using standard Python logging without some sort of Pythonic overlay](https://www.reddit.com/r/Python/comments/185uw4x/please_dont_tell_me_you_are_using_standard_python/)
 - [PEP 734: Multiple Interpreters in the Stdlib](https://www.reddit.com/r/Python/comments/185pz99/pep_734_multiple_interpreters_in_the_stdlib/)
 - [Building a small REPL in Python](https://www.reddit.com/r/Python/comments/185pwca/building_a_small_repl_in_python/)
-- [aidebug now on PyPi](https://www.reddit.com/r/Python/comments/185mpgw/aidebug_now_on_pypi/)
-- [An Atmospheric Visualization Tool](https://www.reddit.com/r/Python/comments/185li1n/an_atmospheric_visualization_tool/)
 <!-- BLOG-POST-LIST:END -->
