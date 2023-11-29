@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python in prework part of MIT Applied Data Science program](https://www.reddit.com/r/Python/comments/186oy49/python_in_prework_part_of_mit_applied_data/)
 - [Introducing drf-api-action : Empowering Django REST Framework with Enhanced Functionality](https://www.reddit.com/r/Python/comments/186ob0a/introducing_drfapiaction_empowering_django_rest/)
 - [Suggestion](https://www.reddit.com/r/Python/comments/186m7hc/suggestion/)
 - [I create a crypto payment SDK in pywebview](https://www.reddit.com/r/Python/comments/186kszl/i_create_a_crypto_payment_sdk_in_pywebview/)
 - [Flask-Muck: Flask REST Framework that generates complete CRUD APIs for your SqlAlchemy models in as little as 9 lines of code.](https://www.reddit.com/r/Python/comments/186k0td/flaskmuck_flask_rest_framework_that_generates/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/186b1u1/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
