@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Single and Double Underscores in Python Names](https://www.reddit.com/r/Python/comments/187nvx3/single_and_double_underscores_in_python_names/)
+- [Defining a Dependency Management Policy](https://www.reddit.com/r/Python/comments/187nrdq/defining_a_dependency_management_policy/)
 - [Build, Visualize and Launch Big Data DAGs in Python](https://www.reddit.com/r/Python/comments/187m1g6/build_visualize_and_launch_big_data_dags_in_python/)
 - [Stateless vs stateful functions creating computer vision applications with Pipeless](https://www.reddit.com/r/Python/comments/187lxwl/stateless_vs_stateful_functions_creating_computer/)
 - [Using Polars in a Pandas world](https://www.reddit.com/r/Python/comments/187l96b/using_polars_in_a_pandas_world/)
-- [Qwikcrud - An AI-powered command-line tool that generates RESTful APIs and admin interfaces based on one-line requirement](https://www.reddit.com/r/Python/comments/187l534/qwikcrud_an_aipowered_commandline_tool_that/)
-- [If Python is built in C/C++, why can&#39;t it be built from source cross-platform?](https://www.reddit.com/r/Python/comments/187kr86/if_python_is_built_in_cc_why_cant_it_be_built/)
 <!-- BLOG-POST-LIST:END -->
