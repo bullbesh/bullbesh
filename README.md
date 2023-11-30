@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [If Python is built in C/C++, why can&#39;t it be built from source cross-platform?](https://www.reddit.com/r/Python/comments/187kr86/if_python_is_built_in_cc_why_cant_it_be_built/)
+- [How to use Open AI Text to Speech API in 3 mins | Text to Speech | OpenAI](https://www.reddit.com/r/Python/comments/187jjna/how_to_use_open_ai_text_to_speech_api_in_3_mins/)
 - [Discover exciting opportunities across diverse skillsets News](https://www.reddit.com/r/Python/comments/187jat7/discover_exciting_opportunities_across_diverse/)
 - [Say it again: values not expressions](https://www.reddit.com/r/Python/comments/187j0ai/say_it_again_values_not_expressions/)
 - [Serial Port Datalogging to a CSV &lpar;comma separated file&rpar; file on Linux using Arduino Uno and Python](https://www.reddit.com/r/Python/comments/187b85i/serial_port_datalogging_to_a_csv_comma_separated/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/18744bp/thursday_daily_thread_python_careers_courses_and/)
-- [Native PyPI support in Pixi &lpar;conda package manager written in Rust&rpar;](https://www.reddit.com/r/Python/comments/186rp72/native_pypi_support_in_pixi_conda_package_manager/)
 <!-- BLOG-POST-LIST:END -->
