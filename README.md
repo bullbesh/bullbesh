@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build, Visualize and Launch Big Data DAGs in Python](https://www.reddit.com/r/Python/comments/187m1g6/build_visualize_and_launch_big_data_dags_in_python/)
+- [Stateless vs stateful functions creating computer vision applications with Pipeless](https://www.reddit.com/r/Python/comments/187lxwl/stateless_vs_stateful_functions_creating_computer/)
+- [Using Polars in a Pandas world](https://www.reddit.com/r/Python/comments/187l96b/using_polars_in_a_pandas_world/)
+- [Qwikcrud - An AI-powered command-line tool that generates RESTful APIs and admin interfaces based on one-line requirement](https://www.reddit.com/r/Python/comments/187l534/qwikcrud_an_aipowered_commandline_tool_that/)
 - [If Python is built in C/C++, why can&#39;t it be built from source cross-platform?](https://www.reddit.com/r/Python/comments/187kr86/if_python_is_built_in_cc_why_cant_it_be_built/)
-- [How to use Open AI Text to Speech API in 3 mins | Text to Speech | OpenAI](https://www.reddit.com/r/Python/comments/187jjna/how_to_use_open_ai_text_to_speech_api_in_3_mins/)
-- [Discover exciting opportunities across diverse skillsets News](https://www.reddit.com/r/Python/comments/187jat7/discover_exciting_opportunities_across_diverse/)
-- [Say it again: values not expressions](https://www.reddit.com/r/Python/comments/187j0ai/say_it_again_values_not_expressions/)
-- [Serial Port Datalogging to a CSV &lpar;comma separated file&rpar; file on Linux using Arduino Uno and Python](https://www.reddit.com/r/Python/comments/187b85i/serial_port_datalogging_to_a_csv_comma_separated/)
 <!-- BLOG-POST-LIST:END -->
