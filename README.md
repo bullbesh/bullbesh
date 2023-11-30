@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/18744bp/thursday_daily_thread_python_careers_courses_and/)
 - [Python scripts for FanDuel and DraftKings](https://www.reddit.com/r/Python/comments/18704rx/python_scripts_for_fanduel_and_draftkings/)
-- [Python Class vs Mgspec](https://www.reddit.com/r/Python/comments/18702y5/python_class_vs_mgspec/)
-- [Judge your Resume with AI](https://www.reddit.com/r/Python/comments/186yarj/judge_your_resume_with_ai/)
-- [OCR Tips needed](https://www.reddit.com/r/Python/comments/186ufdi/ocr_tips_needed/)
 - [Native PyPI support in Pixi &lpar;conda package manager written in Rust&rpar;](https://www.reddit.com/r/Python/comments/186rp72/native_pypi_support_in_pixi_conda_package_manager/)
+- [I made a tool that generates template for you typed function like golang](https://www.reddit.com/r/Python/comments/186r0gt/i_made_a_tool_that_generates_template_for_you/)
+- [Easily implement parallel training.](https://www.reddit.com/r/Python/comments/186otvf/easily_implement_parallel_training/)
 <!-- BLOG-POST-LIST:END -->
