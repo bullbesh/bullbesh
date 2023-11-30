@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Josh hutcherson but every time it hits the borders it doubles](https://www.reddit.com/r/Python/comments/187pzcc/josh_hutcherson_but_every_time_it_hits_the/)
+- [[I Wrote] An autohotkey like program in Python](https://www.reddit.com/r/Python/comments/187pqm3/i_wrote_an_autohotkey_like_program_in_python/)
 - [Single and Double Underscores in Python Names](https://www.reddit.com/r/Python/comments/187nvx3/single_and_double_underscores_in_python_names/)
 - [Defining a Dependency Management Policy](https://www.reddit.com/r/Python/comments/187nrdq/defining_a_dependency_management_policy/)
 - [Build, Visualize and Launch Big Data DAGs in Python](https://www.reddit.com/r/Python/comments/187m1g6/build_visualize_and_launch_big_data_dags_in_python/)
-- [Stateless vs stateful functions creating computer vision applications with Pipeless](https://www.reddit.com/r/Python/comments/187lxwl/stateless_vs_stateful_functions_creating_computer/)
-- [Using Polars in a Pandas world](https://www.reddit.com/r/Python/comments/187l96b/using_polars_in_a_pandas_world/)
 <!-- BLOG-POST-LIST:END -->
