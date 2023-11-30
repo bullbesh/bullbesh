@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can you compile Python?](https://www.reddit.com/r/Python/comments/187rusq/can_you_compile_python/)
 - [Josh hutcherson but every time it hits the borders it doubles](https://www.reddit.com/r/Python/comments/187pzcc/josh_hutcherson_but_every_time_it_hits_the/)
 - [[I Wrote] An autohotkey like program in Python](https://www.reddit.com/r/Python/comments/187pqm3/i_wrote_an_autohotkey_like_program_in_python/)
-- [Single and Double Underscores in Python Names](https://www.reddit.com/r/Python/comments/187nvx3/single_and_double_underscores_in_python_names/)
 - [Defining a Dependency Management Policy](https://www.reddit.com/r/Python/comments/187nrdq/defining_a_dependency_management_policy/)
 - [Build, Visualize and Launch Big Data DAGs in Python](https://www.reddit.com/r/Python/comments/187m1g6/build_visualize_and_launch_big_data_dags_in_python/)
 <!-- BLOG-POST-LIST:END -->
