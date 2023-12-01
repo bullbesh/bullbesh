@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/187xdg6/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Pelican 4.9: classless Simple theme with semantic HTML](https://www.reddit.com/r/Python/comments/187u5lf/pelican_49_classless_simple_theme_with_semantic/)
 - [Advent of Code 2023 - r/Python Edition](https://www.reddit.com/r/Python/comments/187t9yq/advent_of_code_2023_rpython_edition/)
 - [Josh hutcherson but every time it hits the borders it doubles](https://www.reddit.com/r/Python/comments/187pzcc/josh_hutcherson_but_every_time_it_hits_the/)
 - [[I Wrote] An autohotkey like program in Python](https://www.reddit.com/r/Python/comments/187pqm3/i_wrote_an_autohotkey_like_program_in_python/)
-- [Defining a Dependency Management Policy](https://www.reddit.com/r/Python/comments/187nrdq/defining_a_dependency_management_policy/)
 <!-- BLOG-POST-LIST:END -->
