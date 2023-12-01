@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cast to cast enabled devices with Python... It&#39;s super easy!](https://www.reddit.com/r/Python/comments/188nrdt/cast_to_cast_enabled_devices_with_python_its/)
 - [2,000 free sign ups available for the &quot;Automate the Boring Stuff with Python&quot; online course. &lpar;Dec 2023&rpar;](https://www.reddit.com/r/Python/comments/188l3cu/2000_free_sign_ups_available_for_the_automate_the/)
 - [Python voice assistant with Siri like gui issues.](https://www.reddit.com/r/Python/comments/188fuu2/python_voice_assistant_with_siri_like_gui_issues/)
 - [What was for you the biggest thing that happened in the Python ecosystem in 2023?](https://www.reddit.com/r/Python/comments/188fo2w/what_was_for_you_the_biggest_thing_that_happened/)
 - [Untyped Python: The Python That Was](https://www.reddit.com/r/Python/comments/188eiud/untyped_python_the_python_that_was/)
-- [How To Implement Passkeys in Python Django Apps](https://www.reddit.com/r/Python/comments/188da1b/how_to_implement_passkeys_in_python_django_apps/)
 <!-- BLOG-POST-LIST:END -->
