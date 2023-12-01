@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Python voice assistant with Siri like gui issues.](https://www.reddit.com/r/Python/comments/188fuu2/python_voice_assistant_with_siri_like_gui_issues/)
-- [What was for you the biggest thing that happened in the Python ecosystem in 2023?](https://www.reddit.com/r/Python/comments/188fo2w/what_was_for_you_the_biggest_thing_that_happened/)
 - [Untyped Python: The Python That Was](https://www.reddit.com/r/Python/comments/188eiud/untyped_python_the_python_that_was/)
 - [How To Implement Passkeys in Python Django Apps](https://www.reddit.com/r/Python/comments/188da1b/how_to_implement_passkeys_in_python_django_apps/)
 - [Revolutionize localization with LangSync](https://www.reddit.com/r/Python/comments/188c1uf/revolutionize_localization_with_langsync/)
+- [Python’s standard logging API violates PEP-8 and this PEP proposes to fix this.](https://www.reddit.com/r/Python/comments/188bziq/pythons_standard_logging_api_violates_pep8_and/)
 <!-- BLOG-POST-LIST:END -->
