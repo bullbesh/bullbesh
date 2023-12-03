@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Framework-agnostic e-mail sending library](https://www.reddit.com/r/Python/comments/189r4z3/frameworkagnostic_email_sending_library/)
+- [Nigerian 4g Mobile Proxy Availble](https://www.reddit.com/r/Python/comments/189qyxm/nigerian_4g_mobile_proxy_availble/)
 - [Convert PowerPoint into pdf wihtout loosing quality using command line](https://www.reddit.com/r/Python/comments/189ptj9/convert_powerpoint_into_pdf_wihtout_loosing/)
 - [How often do you need to shrink multimedia files in your web projects?](https://www.reddit.com/r/Python/comments/189nepx/how_often_do_you_need_to_shrink_multimedia_files/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/189go42/sunday_daily_thread_whats_everyone_working_on/)
-- [Fast TTS library](https://www.reddit.com/r/Python/comments/189fme6/fast_tts_library/)
-- [Function composition in a different way](https://www.reddit.com/r/Python/comments/189fknz/function_composition_in_a_different_way/)
 <!-- BLOG-POST-LIST:END -->
