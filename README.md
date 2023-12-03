@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/189go42/sunday_daily_thread_whats_everyone_working_on/)
 - [Fast TTS library](https://www.reddit.com/r/Python/comments/189fme6/fast_tts_library/)
 - [Function composition in a different way](https://www.reddit.com/r/Python/comments/189fknz/function_composition_in_a_different_way/)
 - [Am I stupid because I don’t have a CS degree?](https://www.reddit.com/r/Python/comments/189es24/am_i_stupid_because_i_dont_have_a_cs_degree/)
 - [Thoughts Robust Python Write Clean and Maintainable Code](https://www.reddit.com/r/Python/comments/1898xjj/thoughts_robust_python_write_clean_and/)
-- [Just found a library for Rust-style errors in Python](https://www.reddit.com/r/Python/comments/1897m0y/just_found_a_library_for_ruststyle_errors_in/)
 <!-- BLOG-POST-LIST:END -->
