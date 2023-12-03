@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Dependency Injections in Robyn with a Twist!](https://www.reddit.com/r/Python/comments/18a4tpv/introducing_dependency_injections_in_robyn_with_a/)
 - [RMount allows you to create a file-system like connection to a cloud storage i.e. S3 or SSH server](https://www.reddit.com/r/Python/comments/18a2sn8/rmount_allows_you_to_create_a_filesystem_like/)
 - [Export Apple Notes to a PostgreSQL Database with Python and AppleScript](https://www.reddit.com/r/Python/comments/18a2cfh/export_apple_notes_to_a_postgresql_database_with/)
 - [Python gets its first community communications manager](https://www.reddit.com/r/Python/comments/189yek3/python_gets_its_first_community_communications/)
 - [Fastest Screen Capturing library for Python checkout windows-capture](https://www.reddit.com/r/Python/comments/189xeqy/fastest_screen_capturing_library_for_python/)
-- [Framework-agnostic e-mail sending library](https://www.reddit.com/r/Python/comments/189r4z3/frameworkagnostic_email_sending_library/)
 <!-- BLOG-POST-LIST:END -->
