@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is ´print´ not recommended in linters?](https://www.reddit.com/r/Python/comments/18aiy0v/why_is_print_not_recommended_in_linters/)
+- [Modern cookiecutter template for Python CLI apps](https://www.reddit.com/r/Python/comments/18aiwky/modern_cookiecutter_template_for_python_cli_apps/)
+- [Discover &#39;Moto&#39;: A Python Tool for Mocking AWS Services in Your Tests](https://www.reddit.com/r/Python/comments/18aitoc/discover_moto_a_python_tool_for_mocking_aws/)
+- [Introducing &#39;Python-GPT-PO&#39;: A Simple Yet Powerful Python Tool for Multilingual File Translation Using OpenAI&#39;s GPT Models](https://www.reddit.com/r/Python/comments/18ai3rn/introducing_pythongptpo_a_simple_yet_powerful/)
 - [map-nl: Quickly create PC4 maps of the Netherlands](https://www.reddit.com/r/Python/comments/18afn9r/mapnl_quickly_create_pc4_maps_of_the_netherlands/)
-- [Visual Explanation of Python Panda Library](https://www.reddit.com/r/Python/comments/18adyz9/visual_explanation_of_python_panda_library/)
-- [Python module that would operate computer like self operating computer using computer vision](https://www.reddit.com/r/Python/comments/18aaemr/python_module_that_would_operate_computer_like/)
-- [SSHaMan: A TUI for Managing SSH connections using Python &amp; Textual](https://www.reddit.com/r/Python/comments/18a9w1m/sshaman_a_tui_for_managing_ssh_connections_using/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/18a77w3/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
