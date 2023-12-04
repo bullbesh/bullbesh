@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Approximately how much time I’ll take to study python and get well paid job ?](https://www.reddit.com/r/Python/comments/18ard2r/approximately_how_much_time_ill_take_to_study/)
+- [Why OOP is a terrible idea for mathematical research? &lpar;SageMath, I am looking at you&rpar;](https://www.reddit.com/r/Python/comments/18au01e/why_oop_is_a_terrible_idea_for_mathematical/)
 - [I&#39;ve made a simple DSL inside Python to make patterns for matching in spaCy easier](https://www.reddit.com/r/Python/comments/18aq6bi/ive_made_a_simple_dsl_inside_python_to_make/)
 - [Program verification in Python based on 1980 congruence closure paper](https://www.reddit.com/r/Python/comments/18aopdb/program_verification_in_python_based_on_1980/)
 - [Tetris game in python and Pygame](https://www.reddit.com/r/Python/comments/18anw7j/tetris_game_in_python_and_pygame/)
-- [Why is ´print´ not recommended in linters?](https://www.reddit.com/r/Python/comments/18aiy0v/why_is_print_not_recommended_in_linters/)
+- [Request for comments: LLM FOO for easing OpenAI tool use.](https://www.reddit.com/r/Python/comments/18aku6p/request_for_comments_llm_foo_for_easing_openai/)
 <!-- BLOG-POST-LIST:END -->
