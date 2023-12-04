@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python module that would operate computer like self operating computer using computer vision](https://www.reddit.com/r/Python/comments/18aaemr/python_module_that_would_operate_computer_like/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/18a77w3/monday_daily_thread_project_ideas/)
 - [Node Editor options](https://www.reddit.com/r/Python/comments/18a67kc/node_editor_options/)
 - [Python ThreadPoolExecutor: 7-Day Crash Course](https://www.reddit.com/r/Python/comments/18a5ijp/python_threadpoolexecutor_7day_crash_course/)
 - [Introducing Dependency Injections in Robyn with a Twist!](https://www.reddit.com/r/Python/comments/18a4tpv/introducing_dependency_injections_in_robyn_with_a/)
-- [RMount allows you to create a file-system like connection to a cloud storage i.e. S3 or SSH server](https://www.reddit.com/r/Python/comments/18a2sn8/rmount_allows_you_to_create_a_filesystem_like/)
 <!-- BLOG-POST-LIST:END -->
