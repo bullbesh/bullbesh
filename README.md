@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open-Sourcing High-Frequency Trading and Market-Making Backtesting Tool](https://www.reddit.com/r/Python/comments/18bbtj6/opensourcing_highfrequency_trading_and/)
+- [What does this code do?](https://www.reddit.com/r/Python/comments/18bbh38/what_does_this_code_do/)
 - [Transforming Live Data Streams in Jupyter Notebooks: A Pythonic Approach to Trading Algorithms](https://www.reddit.com/r/Python/comments/18bavun/transforming_live_data_streams_in_jupyter/)
 - [Bring LLMs directly into your database!](https://www.reddit.com/r/Python/comments/18banrs/bring_llms_directly_into_your_database/)
 - [Beginning my Python Journey](https://www.reddit.com/r/Python/comments/18bacwv/beginning_my_python_journey/)
-- [Why is it not possible to use variables defined with the Walrus operator in the if statement of a list comprehension?](https://www.reddit.com/r/Python/comments/18b9fbk/why_is_it_not_possible_to_use_variables_defined/)
-- [Remote execution of code](https://www.reddit.com/r/Python/comments/18b8wtj/remote_execution_of_code/)
 <!-- BLOG-POST-LIST:END -->
