@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just completed this gift](https://www.reddit.com/r/Python/comments/18bm8ko/just_completed_this_gift/)
+- [Performance](https://www.reddit.com/r/Python/comments/18bldaz/performance/)
 - [It&#39;s Christmas day. You wake up, run to the tree, tear open the largest package with your name on it... FastAPI has added _____?](https://www.reddit.com/r/Python/comments/18bkywh/its_christmas_day_you_wake_up_run_to_the_tree/)
 - [Youtube voice exchange tool](https://www.reddit.com/r/Python/comments/18bkp29/youtube_voice_exchange_tool/)
 - [Pytest over Unittest](https://www.reddit.com/r/Python/comments/18bjv0y/pytest_over_unittest/)
-- [Python programmer revisits Perl after 20 years](https://www.reddit.com/r/Python/comments/18bjp4w/python_programmer_revisits_perl_after_20_years/)
-- [LLMs for Everyone: Running LangChain and a MistralAI 7B Model in Google Colab](https://www.reddit.com/r/Python/comments/18bjf8l/llms_for_everyone_running_langchain_and_a/)
 <!-- BLOG-POST-LIST:END -->
