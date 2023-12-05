@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Remote execution of code](https://www.reddit.com/r/Python/comments/18b8wtj/remote_execution_of_code/)
 - [automate your prompt queries. set up as many consecutive prompts as you want, input as much prompt data into those prompts as you want.](https://www.reddit.com/r/Python/comments/18b6jbg/automate_your_prompt_queries_set_up_as_many/)
 - [DataStack: The Fastest way to build apps in python](https://www.reddit.com/r/Python/comments/18b5qle/datastack_the_fastest_way_to_build_apps_in_python/)
 - [Will Pandas have streaming in Future??](https://www.reddit.com/r/Python/comments/18b5bsg/will_pandas_have_streaming_in_future/)
 - [Doing Sub Routing properly in FastAPI](https://www.reddit.com/r/Python/comments/18b0j5q/doing_sub_routing_properly_in_fastapi/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/18aybv2/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
