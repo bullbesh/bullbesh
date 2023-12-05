@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s Christmas day. You wake up, run to the tree, tear open the largest package with your name on it... FastAPI has added _____?](https://www.reddit.com/r/Python/comments/18bkywh/its_christmas_day_you_wake_up_run_to_the_tree/)
+- [Youtube voice exchange tool](https://www.reddit.com/r/Python/comments/18bkp29/youtube_voice_exchange_tool/)
+- [Pytest over Unittest](https://www.reddit.com/r/Python/comments/18bjv0y/pytest_over_unittest/)
+- [Python programmer revisits Perl after 20 years](https://www.reddit.com/r/Python/comments/18bjp4w/python_programmer_revisits_perl_after_20_years/)
 - [LLMs for Everyone: Running LangChain and a MistralAI 7B Model in Google Colab](https://www.reddit.com/r/Python/comments/18bjf8l/llms_for_everyone_running_langchain_and_a/)
-- [Introducing Great Tables](https://www.reddit.com/r/Python/comments/18biyrh/introducing_great_tables/)
-- [I made a Python Advent Calendar](https://www.reddit.com/r/Python/comments/18bhb81/i_made_a_python_advent_calendar/)
-- [[New Project]Speed Up Your LLM Native Application Development in Python](https://www.reddit.com/r/Python/comments/18bfupr/new_projectspeed_up_your_llm_native_application/)
-- [The worst recursive factorial function](https://www.reddit.com/r/Python/comments/18bew52/the_worst_recursive_factorial_function/)
 <!-- BLOG-POST-LIST:END -->
