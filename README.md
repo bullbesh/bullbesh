@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Doing Sub Routing properly in FastAPI](https://www.reddit.com/r/Python/comments/18b0j5q/doing_sub_routing_properly_in_fastapi/)
-- [How difficult to pick up Python if I already know PowerShell?](https://www.reddit.com/r/Python/comments/18az2eu/how_difficult_to_pick_up_python_if_i_already_know/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/18aybv2/tuesday_daily_thread_advanced_questions/)
 - [Python code using ChatGPT](https://www.reddit.com/r/Python/comments/18awu6l/python_code_using_chatgpt/)
 - [Great table library](https://www.reddit.com/r/Python/comments/18avcbg/great_table_library/)
+- [Why OOP is a terrible idea for mathematical research? &lpar;SageMath, I am looking at you&rpar;](https://www.reddit.com/r/Python/comments/18au01e/why_oop_is_a_terrible_idea_for_mathematical/)
 <!-- BLOG-POST-LIST:END -->
