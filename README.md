@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [LLMs for Everyone: Running LangChain and a MistralAI 7B Model in Google Colab](https://www.reddit.com/r/Python/comments/18bjf8l/llms_for_everyone_running_langchain_and_a/)
+- [Introducing Great Tables](https://www.reddit.com/r/Python/comments/18biyrh/introducing_great_tables/)
 - [I made a Python Advent Calendar](https://www.reddit.com/r/Python/comments/18bhb81/i_made_a_python_advent_calendar/)
-- [Why is this code repeating](https://www.reddit.com/r/Python/comments/18bgpyu/why_is_this_code_repeating/)
 - [[New Project]Speed Up Your LLM Native Application Development in Python](https://www.reddit.com/r/Python/comments/18bfupr/new_projectspeed_up_your_llm_native_application/)
 - [The worst recursive factorial function](https://www.reddit.com/r/Python/comments/18bew52/the_worst_recursive_factorial_function/)
-- [Django 5.0 released](https://www.reddit.com/r/Python/comments/18bev32/django_50_released/)
 <!-- BLOG-POST-LIST:END -->
