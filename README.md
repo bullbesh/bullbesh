@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Transforming Live Data Streams in Jupyter Notebooks: A Pythonic Approach to Trading Algorithms](https://www.reddit.com/r/Python/comments/18bavun/transforming_live_data_streams_in_jupyter/)
+- [Bring LLMs directly into your database!](https://www.reddit.com/r/Python/comments/18banrs/bring_llms_directly_into_your_database/)
+- [Beginning my Python Journey](https://www.reddit.com/r/Python/comments/18bacwv/beginning_my_python_journey/)
 - [Why is it not possible to use variables defined with the Walrus operator in the if statement of a list comprehension?](https://www.reddit.com/r/Python/comments/18b9fbk/why_is_it_not_possible_to_use_variables_defined/)
 - [Remote execution of code](https://www.reddit.com/r/Python/comments/18b8wtj/remote_execution_of_code/)
-- [automate your prompt queries. set up as many consecutive prompts as you want, input as much prompt data into those prompts as you want.](https://www.reddit.com/r/Python/comments/18b6jbg/automate_your_prompt_queries_set_up_as_many/)
-- [DataStack: The Fastest way to build apps in python](https://www.reddit.com/r/Python/comments/18b5qle/datastack_the_fastest_way_to_build_apps_in_python/)
-- [Will Pandas have streaming in Future??](https://www.reddit.com/r/Python/comments/18b5bsg/will_pandas_have_streaming_in_future/)
 <!-- BLOG-POST-LIST:END -->
