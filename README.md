@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [DataStack: The Fastest way to build apps in python](https://www.reddit.com/r/Python/comments/18b5qle/datastack_the_fastest_way_to_build_apps_in_python/)
 - [Will Pandas have streaming in Future??](https://www.reddit.com/r/Python/comments/18b5bsg/will_pandas_have_streaming_in_future/)
 - [Doing Sub Routing properly in FastAPI](https://www.reddit.com/r/Python/comments/18b0j5q/doing_sub_routing_properly_in_fastapi/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/18aybv2/tuesday_daily_thread_advanced_questions/)
 - [Great table library](https://www.reddit.com/r/Python/comments/18avcbg/great_table_library/)
-- [Why OOP is a terrible idea for mathematical research? &lpar;SageMath, I am looking at you&rpar;](https://www.reddit.com/r/Python/comments/18au01e/why_oop_is_a_terrible_idea_for_mathematical/)
 <!-- BLOG-POST-LIST:END -->
