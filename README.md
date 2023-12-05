@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The worst recursive factorial function](https://www.reddit.com/r/Python/comments/18bew52/the_worst_recursive_factorial_function/)
+- [Django 5.0 released](https://www.reddit.com/r/Python/comments/18bev32/django_50_released/)
+- [Python web app comparisons](https://www.reddit.com/r/Python/comments/18bes4q/python_web_app_comparisons/)
+- [Python Card Game, An Awesome Christmas Gift](https://www.reddit.com/r/Python/comments/18bei5w/python_card_game_an_awesome_christmas_gift/)
 - [How to use Open AI Vision API in 3 mins | Vision | OpenAI](https://www.reddit.com/r/Python/comments/18bd2gf/how_to_use_open_ai_vision_api_in_3_mins_vision/)
-- [Live Plotting and Transformations with Jupyter using Python](https://www.reddit.com/r/Python/comments/18bcce4/live_plotting_and_transformations_with_jupyter/)
-- [Optimizing python/django code](https://www.reddit.com/r/Python/comments/18bc4hn/optimizing_pythondjango_code/)
-- [Open-Sourcing High-Frequency Trading and Market-Making Backtesting Tool](https://www.reddit.com/r/Python/comments/18bbtj6/opensourcing_highfrequency_trading_and/)
-- [What does this code do?](https://www.reddit.com/r/Python/comments/18bbh38/what_does_this_code_do/)
 <!-- BLOG-POST-LIST:END -->
