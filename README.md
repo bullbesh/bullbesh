@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Live Plotting and Transformations with Jupyter using Python](https://www.reddit.com/r/Python/comments/18bcce4/live_plotting_and_transformations_with_jupyter/)
+- [Optimizing python/django code](https://www.reddit.com/r/Python/comments/18bc4hn/optimizing_pythondjango_code/)
 - [Open-Sourcing High-Frequency Trading and Market-Making Backtesting Tool](https://www.reddit.com/r/Python/comments/18bbtj6/opensourcing_highfrequency_trading_and/)
 - [What does this code do?](https://www.reddit.com/r/Python/comments/18bbh38/what_does_this_code_do/)
 - [Transforming Live Data Streams in Jupyter Notebooks: A Pythonic Approach to Trading Algorithms](https://www.reddit.com/r/Python/comments/18bavun/transforming_live_data_streams_in_jupyter/)
-- [Bring LLMs directly into your database!](https://www.reddit.com/r/Python/comments/18banrs/bring_llms_directly_into_your_database/)
-- [Beginning my Python Journey](https://www.reddit.com/r/Python/comments/18bacwv/beginning_my_python_journey/)
 <!-- BLOG-POST-LIST:END -->
