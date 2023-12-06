@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pytest to Test Python Code - Fixtures, Parametrization, Markers, and more](https://www.reddit.com/r/Python/comments/18c7th3/pytest_to_test_python_code_fixtures/)
 - [What’s New in PyCharm 2023.3](https://www.reddit.com/r/Python/comments/18c7btw/whats_new_in_pycharm_20233/)
 - [Deciding which functions/routes should be async](https://www.reddit.com/r/Python/comments/18c679a/deciding_which_functionsroutes_should_be_async/)
 - [How to Deploy a Python Flask app with Heroku](https://www.reddit.com/r/Python/comments/18c5oe0/how_to_deploy_a_python_flask_app_with_heroku/)
 - [Johnnydep &lpar;v1.20.4&rpar; Package Update](https://www.reddit.com/r/Python/comments/18bzixi/johnnydep_v1204_package_update/)
-- [A brand new Starlette+Svelte+Tailwind Python based webdev framework: Easy to use, fast, and responsive](https://www.reddit.com/r/Python/comments/18buivv/a_brand_new_starlettesveltetailwind_python_based/)
 <!-- BLOG-POST-LIST:END -->
