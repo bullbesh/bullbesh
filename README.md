@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Are `import ... as ...` and `from ... import ...` overused?](https://www.reddit.com/r/Python/comments/18bzzm9/are_import_as_and_from_import_overused/)
+- [How to Deploy a Python Flask app with Heroku](https://www.reddit.com/r/Python/comments/18c5oe0/how_to_deploy_a_python_flask_app_with_heroku/)
 - [Johnnydep &lpar;v1.20.4&rpar; Package Update](https://www.reddit.com/r/Python/comments/18bzixi/johnnydep_v1204_package_update/)
 - [A brand new Starlette+Svelte+Tailwind Python based webdev framework: Easy to use, fast, and responsive](https://www.reddit.com/r/Python/comments/18buivv/a_brand_new_starlettesveltetailwind_python_based/)
 - [OpenCV 5, Support Non-Profit Open Source CV &amp; AI](https://www.reddit.com/r/Python/comments/18brttk/opencv_5_support_nonprofit_open_source_cv_ai/)
