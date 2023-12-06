@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is this a bug in Python?](https://www.reddit.com/r/Python/comments/18c1h97/is_this_a_bug_in_python/)
 - [Are `import ... as ...` and `from ... import ...` overused?](https://www.reddit.com/r/Python/comments/18bzzm9/are_import_as_and_from_import_overused/)
 - [Johnnydep &lpar;v1.20.4&rpar; Package Update](https://www.reddit.com/r/Python/comments/18bzixi/johnnydep_v1204_package_update/)
 - [A brand new Starlette+Svelte+Tailwind Python based webdev framework: Easy to use, fast, and responsive](https://www.reddit.com/r/Python/comments/18buivv/a_brand_new_starlettesveltetailwind_python_based/)
 - [OpenCV 5, Support Non-Profit Open Source CV &amp; AI](https://www.reddit.com/r/Python/comments/18brttk/opencv_5_support_nonprofit_open_source_cv_ai/)
-- [Generate SQL from Natural Language according Meta Data of Database in Python using LLM in Very Few Codes](https://www.reddit.com/r/Python/comments/18brs71/generate_sql_from_natural_language_according_meta/)
 <!-- BLOG-POST-LIST:END -->
