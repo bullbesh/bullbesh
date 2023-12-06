@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jupyter Notebook Turtle Force Quitting Issue &lpar;for Max IOS&rpar;](https://www.reddit.com/r/Python/comments/18cdyw4/jupyter_notebook_turtle_force_quitting_issue_for/)
+- [Python o php](https://www.reddit.com/r/Python/comments/18cdv4v/python_o_php/)
 - [Python Projects](https://www.reddit.com/r/Python/comments/18cctzo/python_projects/)
 - [lockfiles for hatch projects](https://www.reddit.com/r/Python/comments/18cakmd/lockfiles_for_hatch_projects/)
 - [Python Release Python 3.11.7](https://www.reddit.com/r/Python/comments/18c9nyh/python_release_python_3117/)
-- [Simple and easy documentation Builder](https://www.reddit.com/r/Python/comments/18c8uqu/simple_and_easy_documentation_builder/)
-- [Pytest to Test Python Code - Fixtures, Parametrization, Markers, and more](https://www.reddit.com/r/Python/comments/18c7th3/pytest_to_test_python_code_fixtures/)
 <!-- BLOG-POST-LIST:END -->
