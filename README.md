@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Projects](https://www.reddit.com/r/Python/comments/18cctzo/python_projects/)
 - [lockfiles for hatch projects](https://www.reddit.com/r/Python/comments/18cakmd/lockfiles_for_hatch_projects/)
 - [Python Release Python 3.11.7](https://www.reddit.com/r/Python/comments/18c9nyh/python_release_python_3117/)
 - [Simple and easy documentation Builder](https://www.reddit.com/r/Python/comments/18c8uqu/simple_and_easy_documentation_builder/)
 - [Pytest to Test Python Code - Fixtures, Parametrization, Markers, and more](https://www.reddit.com/r/Python/comments/18c7th3/pytest_to_test_python_code_fixtures/)
-- [What’s New in PyCharm 2023.3](https://www.reddit.com/r/Python/comments/18c7btw/whats_new_in_pycharm_20233/)
 <!-- BLOG-POST-LIST:END -->
