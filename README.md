@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s New in PyCharm 2023.3](https://www.reddit.com/r/Python/comments/18c7btw/whats_new_in_pycharm_20233/)
+- [Deciding which functions/routes should be async](https://www.reddit.com/r/Python/comments/18c679a/deciding_which_functionsroutes_should_be_async/)
 - [How to Deploy a Python Flask app with Heroku](https://www.reddit.com/r/Python/comments/18c5oe0/how_to_deploy_a_python_flask_app_with_heroku/)
 - [Johnnydep &lpar;v1.20.4&rpar; Package Update](https://www.reddit.com/r/Python/comments/18bzixi/johnnydep_v1204_package_update/)
 - [A brand new Starlette+Svelte+Tailwind Python based webdev framework: Easy to use, fast, and responsive](https://www.reddit.com/r/Python/comments/18buivv/a_brand_new_starlettesveltetailwind_python_based/)
-- [OpenCV 5, Support Non-Profit Open Source CV &amp; AI](https://www.reddit.com/r/Python/comments/18brttk/opencv_5_support_nonprofit_open_source_cv_ai/)
-- [Generate SQL from Natural Language according Meta Data of Database in Python using LLM in Very Few Codes](https://www.reddit.com/r/Python/comments/18brs71/generate_sql_from_natural_language_according_meta/)
 <!-- BLOG-POST-LIST:END -->
