@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I finally have something worthy of posting on the Python Reddit. I present to you SavonPython!](https://www.reddit.com/r/Python/comments/18d6oyz/i_finally_have_something_worthy_of_posting_on_the/)
 - [Looking for contributors for my open-source AI security project](https://www.reddit.com/r/Python/comments/18d3rdq/looking_for_contributors_for_my_opensource_ai/)
 - [Pygolo 0.2.0: write Python extensions in Go!](https://www.reddit.com/r/Python/comments/18d3nt3/pygolo_020_write_python_extensions_in_go/)
 - [CPython Dynamic Dispatch Internals: What Happens When You do a + b?](https://www.reddit.com/r/Python/comments/18d0axx/cpython_dynamic_dispatch_internals_what_happens/)
 - [[Video] Explaining Floats Imprecision 🤖](https://www.reddit.com/r/Python/comments/18d05dh/video_explaining_floats_imprecision/)
-- [GitHub - eholic/pandaq: An easy pandas query-string builder.](https://www.reddit.com/r/Python/comments/18cwjo3/github_eholicpandaq_an_easy_pandas_querystring/)
 <!-- BLOG-POST-LIST:END -->
