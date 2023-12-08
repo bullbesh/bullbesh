@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built a Python script to get Spotify stats!](https://www.reddit.com/r/Python/comments/18dyf8o/built_a_python_script_to_get_spotify_stats/)
 - [Cirkus - Minimal electronic circuit simulator in Python](https://www.reddit.com/r/Python/comments/18dxmnk/cirkus_minimal_electronic_circuit_simulator_in/)
 - [Tkinter Real Time Video &amp; Audio Synced Widget.](https://www.reddit.com/r/Python/comments/18dxhoj/tkinter_real_time_video_audio_synced_widget/)
 - [Discord Server Cloner package](https://www.reddit.com/r/Python/comments/18dwmu7/discord_server_cloner_package/)
 - [TIL The backend of Meta Threads is built with Python 3.10](https://www.reddit.com/r/Python/comments/18dvsl9/til_the_backend_of_meta_threads_is_built_with/)
-- [uHTTP - Pythonic web development](https://www.reddit.com/r/Python/comments/18dpntc/uhttp_pythonic_web_development/)
 <!-- BLOG-POST-LIST:END -->
