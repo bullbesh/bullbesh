@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Do you use static typing?](https://www.reddit.com/r/Python/comments/18drg56/do_you_use_static_typing/)
+- [Made a Python script to get your Spotify stats](https://www.reddit.com/r/Python/comments/18dscdi/made_a_python_script_to_get_your_spotify_stats/)
 - [I&#39;m looking for a Python mentor](https://www.reddit.com/r/Python/comments/18dred9/im_looking_for_a_python_mentor/)
 - [uHTTP - Pythonic web development](https://www.reddit.com/r/Python/comments/18dpntc/uhttp_pythonic_web_development/)
 - [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe](https://www.reddit.com/r/Python/comments/18dodr9/the_python_on_microcontrollers_newsletter_a_free/)
