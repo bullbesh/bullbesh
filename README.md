@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you use static typing?](https://www.reddit.com/r/Python/comments/18drg56/do_you_use_static_typing/)
+- [I&#39;m looking for a Python mentor](https://www.reddit.com/r/Python/comments/18dred9/im_looking_for_a_python_mentor/)
 - [uHTTP - Pythonic web development](https://www.reddit.com/r/Python/comments/18dpntc/uhttp_pythonic_web_development/)
 - [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe](https://www.reddit.com/r/Python/comments/18dodr9/the_python_on_microcontrollers_newsletter_a_free/)
 - [Open-Source Python Game that uses Sorting Algorithms](https://www.reddit.com/r/Python/comments/18dllzq/opensource_python_game_that_uses_sorting/)
-- [share - Download resources from YouTube, Facebook, and Bilibili - web crawler for iiilab.com&#39;s API](https://www.reddit.com/r/Python/comments/18dk5oz/share_download_resources_from_youtube_facebook/)
-- [Python 3.12.1 Released](https://www.reddit.com/r/Python/comments/18dc796/python_3121_released/)
 <!-- BLOG-POST-LIST:END -->
