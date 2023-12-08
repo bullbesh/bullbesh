@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [NFL Odds API](https://www.reddit.com/r/Python/comments/18d9v73/nfl_odds_api/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/18d9i0f/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Number of syntax rules](https://www.reddit.com/r/Python/comments/18d7z4z/number_of_syntax_rules/)
 - [I finally have something worthy of posting on the Python Reddit. I present to you SavonPython!](https://www.reddit.com/r/Python/comments/18d6oyz/i_finally_have_something_worthy_of_posting_on_the/)
 - [Looking for contributors for my open-source AI security project](https://www.reddit.com/r/Python/comments/18d3rdq/looking_for_contributors_for_my_opensource_ai/)
-- [Pygolo 0.2.0: write Python extensions in Go!](https://www.reddit.com/r/Python/comments/18d3nt3/pygolo_020_write_python_extensions_in_go/)
-- [CPython Dynamic Dispatch Internals: What Happens When You do a + b?](https://www.reddit.com/r/Python/comments/18d0axx/cpython_dynamic_dispatch_internals_what_happens/)
 <!-- BLOG-POST-LIST:END -->
