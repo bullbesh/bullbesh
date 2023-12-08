@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [uHTTP - Pythonic web development](https://www.reddit.com/r/Python/comments/18dpntc/uhttp_pythonic_web_development/)
 - [The Python on Microcontrollers Newsletter, a free weekly news and project resource, please subscribe](https://www.reddit.com/r/Python/comments/18dodr9/the_python_on_microcontrollers_newsletter_a_free/)
 - [Open-Source Python Game that uses Sorting Algorithms](https://www.reddit.com/r/Python/comments/18dllzq/opensource_python_game_that_uses_sorting/)
 - [share - Download resources from YouTube, Facebook, and Bilibili - web crawler for iiilab.com&#39;s API](https://www.reddit.com/r/Python/comments/18dk5oz/share_download_resources_from_youtube_facebook/)
 - [Python 3.12.1 Released](https://www.reddit.com/r/Python/comments/18dc796/python_3121_released/)
-- [NFL Odds API](https://www.reddit.com/r/Python/comments/18d9v73/nfl_odds_api/)
 <!-- BLOG-POST-LIST:END -->
