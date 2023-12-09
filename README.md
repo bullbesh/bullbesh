@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python](https://www.reddit.com/r/Python/comments/18e4qaq/python/)
 - [The Dawn of Concurrency and Parallelism: Python 3.12 Starts to Support a Per-Interpreter GIL](https://www.reddit.com/r/Python/comments/18e0q7p/the_dawn_of_concurrency_and_parallelism_python/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/18e0fjt/saturday_daily_thread_resource_request_and/)
 - [Built a Python script to get Spotify stats!](https://www.reddit.com/r/Python/comments/18dyf8o/built_a_python_script_to_get_spotify_stats/)
 - [Cirkus - Minimal electronic circuit simulator in Python](https://www.reddit.com/r/Python/comments/18dxmnk/cirkus_minimal_electronic_circuit_simulator_in/)
-- [Tkinter Real Time Video &amp; Audio Synced Widget.](https://www.reddit.com/r/Python/comments/18dxhoj/tkinter_real_time_video_audio_synced_widget/)
 <!-- BLOG-POST-LIST:END -->
