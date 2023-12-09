@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Working on updating the PyDev debugger to use sys.monitoring... I just love my multi-monitor setup with LiClipse ;&rpar;](https://www.reddit.com/r/Python/comments/18eb2aq/working_on_updating_the_pydev_debugger_to_use/)
 - [GPL or Apache license for an upcoming PySide2 project?](https://www.reddit.com/r/Python/comments/18e9upe/gpl_or_apache_license_for_an_upcoming_pyside2/)
 - [QualityScaler 2.11 - image/video AI upscaler app](https://www.reddit.com/r/Python/comments/18e8ox1/qualityscaler_211_imagevideo_ai_upscaler_app/)
 - [Python](https://www.reddit.com/r/Python/comments/18e4qaq/python/)
 - [The Dawn of Concurrency and Parallelism: Python 3.12 Starts to Support a Per-Interpreter GIL](https://www.reddit.com/r/Python/comments/18e0q7p/the_dawn_of_concurrency_and_parallelism_python/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/18e0fjt/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
