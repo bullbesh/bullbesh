@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sliding Window Algorithm: Explained with Example](https://www.reddit.com/r/Python/comments/18ejvwb/sliding_window_algorithm_explained_with_example/)
 - [Create chat rooms and talk to other developers about programming and software development](https://www.reddit.com/r/Python/comments/18eiok8/create_chat_rooms_and_talk_to_other_developers/)
 - [I built a Reddit bot to create digest of top posts from your favorite subreddits!](https://www.reddit.com/r/Python/comments/18eg9vt/i_built_a_reddit_bot_to_create_digest_of_top/)
 - [Chat with ChatGPT for REAL - the Telegraph project](https://www.reddit.com/r/Python/comments/18eg4r2/chat_with_chatgpt_for_real_the_telegraph_project/)
 - [Authenticate against OAuth2 from your Python CLIs](https://www.reddit.com/r/Python/comments/18efjwe/authenticate_against_oauth2_from_your_python_clis/)
-- [share - Download resources from YouTube, Facebook, and Bilibili - web crawler for iiilab.com&#39;s API](https://www.reddit.com/r/Python/comments/18ef3qq/share_download_resources_from_youtube_facebook/)
 <!-- BLOG-POST-LIST:END -->
