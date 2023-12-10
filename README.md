@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made Arrest, a small utility to wrap your API calls from your Python application](https://www.reddit.com/r/Python/comments/18eys56/i_made_arrest_a_small_utility_to_wrap_your_api/)
 - [Kanban in the CLI with kanban-python](https://www.reddit.com/r/Python/comments/18es539/kanban_in_the_cli_with_kanbanpython/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/18eqnxv/sunday_daily_thread_whats_everyone_working_on/)
 - [Easily Access Gemini AI API Using Bard, Gemini, &amp; Python](https://www.reddit.com/r/Python/comments/18eorvl/easily_access_gemini_ai_api_using_bard_gemini/)
 - [NEA Pool Game Form Feedback](https://www.reddit.com/r/Python/comments/18ekx00/nea_pool_game_form_feedback/)
-- [Create chat rooms and talk to other developers about programming and software development](https://www.reddit.com/r/Python/comments/18eiok8/create_chat_rooms_and_talk_to_other_developers/)
 <!-- BLOG-POST-LIST:END -->
