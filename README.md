@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MastoLine - Mastodon in your terminal!](https://www.reddit.com/r/Python/comments/18fbx6j/mastoline_mastodon_in_your_terminal/)
+- [Botrax - Browsergame Bot](https://www.reddit.com/r/Python/comments/18fbnhb/botrax_browsergame_bot/)
 - [SCRABBLE IN TERMINAL](https://www.reddit.com/r/Python/comments/18f9tb6/scrabble_in_terminal/)
 - [sqlalchemy- processing the result set parallely- multiprocessing](https://www.reddit.com/r/Python/comments/18f8p9v/sqlalchemy_processing_the_result_set_parallely/)
 - [GPT helped me build a python tool to work with the API](https://www.reddit.com/r/Python/comments/18f8i0y/gpt_helped_me_build_a_python_tool_to_work_with/)
-- [Livestream PS5 or PC Gameplay into OpenCV](https://www.reddit.com/r/Python/comments/18f5vyy/livestream_ps5_or_pc_gameplay_into_opencv/)
-- [Inside Marker: A Guided Source Code Tour for an AI-powered PDF Layout Detection Engine](https://www.reddit.com/r/Python/comments/18f5bk1/inside_marker_a_guided_source_code_tour_for_an/)
 <!-- BLOG-POST-LIST:END -->
