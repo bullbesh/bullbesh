@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Cosmos in 3D: StarScholar3D &amp; StellarPhysicsHub Astronomy Projects](https://www.reddit.com/r/Python/comments/18g0knz/exploring_the_cosmos_in_3d_starscholar3d/)
 - [Data Structures With Python &lpar;Updated For 2023&rpar;](https://www.reddit.com/r/Python/comments/18fz3ji/data_structures_with_python_updated_for_2023/)
 - [How to use HTTPBin for Web Scraping in Python - A CheatSheet](https://www.reddit.com/r/Python/comments/18fykky/how_to_use_httpbin_for_web_scraping_in_python_a/)
 - [[Video} What is a Lambda Function &lpar;a.k.a. Anonymous Function&rpar; in Python?](https://www.reddit.com/r/Python/comments/18fy894/video_what_is_a_lambda_function_aka_anonymous/)
 - [Hatch v1.8.0 - binaries for every platform, Python management and static analysis backed by Ruff](https://www.reddit.com/r/Python/comments/18fx3f7/hatch_v180_binaries_for_every_platform_python/)
-- [Docs for pypng library are missing on readthedocs](https://www.reddit.com/r/Python/comments/18ft88r/docs_for_pypng_library_are_missing_on_readthedocs/)
 <!-- BLOG-POST-LIST:END -->
