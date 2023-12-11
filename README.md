@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/18fh603/monday_daily_thread_project_ideas/)
 - [Python + Ableton = ❤️](https://www.reddit.com/r/Python/comments/18fdrwl/python_ableton/)
 - [Python- using variable as input for function that requires a tuple](https://www.reddit.com/r/Python/comments/18fcmrq/python_using_variable_as_input_for_function_that/)
 - [MastoLine - Mastodon in your terminal!](https://www.reddit.com/r/Python/comments/18fbx6j/mastoline_mastodon_in_your_terminal/)
 - [Botrax - Browsergame Bot](https://www.reddit.com/r/Python/comments/18fbnhb/botrax_browsergame_bot/)
-- [SCRABBLE IN TERMINAL](https://www.reddit.com/r/Python/comments/18f9tb6/scrabble_in_terminal/)
 <!-- BLOG-POST-LIST:END -->
