@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [CLI tool &amp; library for real-time monitoring/filtering of all page edits across wikipedia](https://www.reddit.com/r/Python/comments/18ggkxp/cli_tool_library_for_realtime_monitoringfiltering/)
+- [Python 3D simulation library](https://www.reddit.com/r/Python/comments/18gggvi/python_3d_simulation_library/)
 - [Introducing UniDep: Unified Conda and Pip Dependency Management](https://www.reddit.com/r/Python/comments/18gdt83/introducing_unidep_unified_conda_and_pip/)
 - [Visualization Libraries for Polars](https://www.reddit.com/r/Python/comments/18gc8rn/visualization_libraries_for_polars/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/18g8a2m/tuesday_daily_thread_advanced_questions/)
-- [Blog: Ibis + DuckDB geospatial: a match made on Earth](https://www.reddit.com/r/Python/comments/18g7dwi/blog_ibis_duckdb_geospatial_a_match_made_on_earth/)
-- [First Ever marketplace for Python ETL plugins](https://www.reddit.com/r/Python/comments/18g44k9/first_ever_marketplace_for_python_etl_plugins/)
 <!-- BLOG-POST-LIST:END -->
