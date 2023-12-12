@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Programming Online Certification 2024](https://www.reddit.com/r/Python/comments/18gimat/python_programming_online_certification_2024/)
 - [CLI tool &amp; library for real-time monitoring/filtering of all page edits across wikipedia](https://www.reddit.com/r/Python/comments/18ggkxp/cli_tool_library_for_realtime_monitoringfiltering/)
 - [Python 3D simulation library](https://www.reddit.com/r/Python/comments/18gggvi/python_3d_simulation_library/)
 - [Introducing UniDep: Unified Conda and Pip Dependency Management](https://www.reddit.com/r/Python/comments/18gdt83/introducing_unidep_unified_conda_and_pip/)
 - [Visualization Libraries for Polars](https://www.reddit.com/r/Python/comments/18gc8rn/visualization_libraries_for_polars/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/18g8a2m/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
