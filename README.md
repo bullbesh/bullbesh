@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing UniDep: Unified Conda and Pip Dependency Management](https://www.reddit.com/r/Python/comments/18gdt83/introducing_unidep_unified_conda_and_pip/)
 - [Visualization Libraries for Polars](https://www.reddit.com/r/Python/comments/18gc8rn/visualization_libraries_for_polars/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/18g8a2m/tuesday_daily_thread_advanced_questions/)
 - [Blog: Ibis + DuckDB geospatial: a match made on Earth](https://www.reddit.com/r/Python/comments/18g7dwi/blog_ibis_duckdb_geospatial_a_match_made_on_earth/)
 - [First Ever marketplace for Python ETL plugins](https://www.reddit.com/r/Python/comments/18g44k9/first_ever_marketplace_for_python_etl_plugins/)
-- [I made a basic python client and ORM for XTDB](https://www.reddit.com/r/Python/comments/18g1xmc/i_made_a_basic_python_client_and_orm_for_xtdb/)
 <!-- BLOG-POST-LIST:END -->
