@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Magical Fibonacci Formulae](https://www.reddit.com/r/Python/comments/18gmfje/magical_fibonacci_formulae/)
+- [I just created a LLM Terminal App, Clara, which does literally everything for you](https://www.reddit.com/r/Python/comments/18gm5ry/i_just_created_a_llm_terminal_app_clara_which/)
 - [Resource share - Download resources from YouTube, Facebook, and Bilibili - Python web crawler for iiilab.com&#39;s API](https://www.reddit.com/r/Python/comments/18gkhou/resource_share_download_resources_from_youtube/)
 - [Lets create a short tutorial on how to connect, create a table and insert data in SQlite with Python](https://www.reddit.com/r/Python/comments/18gk9sp/lets_create_a_short_tutorial_on_how_to_connect/)
 - [Python Programming Online Certification 2024](https://www.reddit.com/r/Python/comments/18gimat/python_programming_online_certification_2024/)
-- [CLI tool &amp; library for real-time monitoring/filtering of all page edits across wikipedia](https://www.reddit.com/r/Python/comments/18ggkxp/cli_tool_library_for_realtime_monitoringfiltering/)
-- [Python 3D simulation library](https://www.reddit.com/r/Python/comments/18gggvi/python_3d_simulation_library/)
 <!-- BLOG-POST-LIST:END -->
