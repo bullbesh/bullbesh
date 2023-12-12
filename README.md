@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/18g8a2m/tuesday_daily_thread_advanced_questions/)
+- [Python Wrapper Alteryx](https://www.reddit.com/r/Python/comments/18g7sw0/python_wrapper_alteryx/)
+- [Blog: Ibis + DuckDB geospatial: a match made on Earth](https://www.reddit.com/r/Python/comments/18g7dwi/blog_ibis_duckdb_geospatial_a_match_made_on_earth/)
 - [First Ever marketplace for Python ETL plugins](https://www.reddit.com/r/Python/comments/18g44k9/first_ever_marketplace_for_python_etl_plugins/)
-- [Let&#39;s settle the debate. To pin or not to pin versions in requirements of a package?](https://www.reddit.com/r/Python/comments/18g3rgz/lets_settle_the_debate_to_pin_or_not_to_pin/)
 - [I made a basic python client and ORM for XTDB](https://www.reddit.com/r/Python/comments/18g1xmc/i_made_a_basic_python_client_and_orm_for_xtdb/)
-- [Running a Python script on an EC2 instance](https://www.reddit.com/r/Python/comments/18g1k93/running_a_python_script_on_an_ec2_instance/)
-- [Exploring the Cosmos in 3D: StarScholar3D &amp; StellarPhysicsHub Astronomy Projects](https://www.reddit.com/r/Python/comments/18g0knz/exploring_the_cosmos_in_3d_starscholar3d/)
 <!-- BLOG-POST-LIST:END -->
