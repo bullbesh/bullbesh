@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Where is the ho block?](https://www.reddit.com/r/Python/comments/18gql7o/where_is_the_ho_block/)
-- [T Rex runner game in python and Pygame](https://www.reddit.com/r/Python/comments/18gqjqg/t_rex_runner_game_in_python_and_pygame/)
-- [Python Charting: Taming Big Data Without Crashing](https://www.reddit.com/r/Python/comments/18goemj/python_charting_taming_big_data_without_crashing/)
-- [Perform Proper Financial Analysis with Python through the Finance Toolkit](https://www.reddit.com/r/Python/comments/18go3iw/perform_proper_financial_analysis_with_python/)
-- [Render and compose - spinning linear gradients in the terminal](https://www.reddit.com/r/Python/comments/18gnzk7/render_and_compose_spinning_linear_gradients_in/)
+- [First practice project](https://www.reddit.com/r/Python/comments/18o2bap/first_practice_project/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/18o19gc/friday_daily_thread_rpython_meta_and_freetalk/)
+- [What is a low overhead ETL pipeline?](https://www.reddit.com/r/Python/comments/18nyeki/what_is_a_low_overhead_etl_pipeline/)
+- [YAML, Python and the Holy Graal](https://www.reddit.com/r/Python/comments/18nwfou/yaml_python_and_the_holy_graal/)
+- [Some easy open source Python projects to contribute to?](https://www.reddit.com/r/Python/comments/18nrst3/some_easy_open_source_python_projects_to/)
 <!-- BLOG-POST-LIST:END -->
