@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ClimateTriage.com - Find your Good First Issue focused on climate technology and sustainability.](https://www.reddit.com/r/Python/comments/18oa8cs/climatetriagecom_find_your_good_first_issue/)
 - [Y•lp scraping and browser automation](https://www.reddit.com/r/Python/comments/18o9t3y/ylp_scraping_and_browser_automation/)
 - [Mypy 1.8 Released](https://www.reddit.com/r/Python/comments/18o8x7v/mypy_18_released/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/18o19gc/friday_daily_thread_rpython_meta_and_freetalk/)
 - [What is a low overhead ETL pipeline?](https://www.reddit.com/r/Python/comments/18nyeki/what_is_a_low_overhead_etl_pipeline/)
-- [YAML, Python and the Holy Graal](https://www.reddit.com/r/Python/comments/18nwfou/yaml_python_and_the_holy_graal/)
 <!-- BLOG-POST-LIST:END -->
