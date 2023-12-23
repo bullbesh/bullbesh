@@ -11,6 +11,6 @@
 - [Debugging dockerized Python apps in VSCode](https://www.reddit.com/r/Python/comments/18p5j92/debugging_dockerized_python_apps_in_vscode/)
 - [A simple game made with the graphics.py library](https://www.reddit.com/r/Python/comments/18p4j6h/a_simple_game_made_with_the_graphicspy_library/)
 - [How to Sort Unicode Strings Alphabetically in Python](https://www.reddit.com/r/Python/comments/18p2emc/how_to_sort_unicode_strings_alphabetically_in/)
-- [Answer?](https://www.reddit.com/r/Python/comments/18p0ud9/answer/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/18osm7b/saturday_daily_thread_resource_request_and/)
+- [Python client for txtai](https://www.reddit.com/r/Python/comments/18os7te/python_client_for_txtai/)
 <!-- BLOG-POST-LIST:END -->
