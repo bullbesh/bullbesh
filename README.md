@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/18osm7b/saturday_daily_thread_resource_request_and/)
+- [Python client for txtai](https://www.reddit.com/r/Python/comments/18os7te/python_client_for_txtai/)
 - [Why do so many online gambling sites sponsor PyDev?](https://www.reddit.com/r/Python/comments/18opjgt/why_do_so_many_online_gambling_sites_sponsor_pydev/)
 - [[wip] Automating with a Python-based BPM](https://www.reddit.com/r/Python/comments/18oi9gu/wip_automating_with_a_pythonbased_bpm/)
 - [Snake game in Python and Pygame](https://www.reddit.com/r/Python/comments/18oi4a6/snake_game_in_python_and_pygame/)
-- [A Weekend AI Project: Running a 7B Large Language Model in Python on a Nokia 9500 &lpar;article&rpar;](https://www.reddit.com/r/Python/comments/18oglva/a_weekend_ai_project_running_a_7b_large_language/)
-- [VT100 coloring logging utility](https://www.reddit.com/r/Python/comments/18og01h/vt100_coloring_logging_utility/)
 <!-- BLOG-POST-LIST:END -->
