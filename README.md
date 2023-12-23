@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [is it true there will be no python 4 because rust is getting popular?](https://www.reddit.com/r/Python/comments/18pez3t/is_it_true_there_will_be_no_python_4_because_rust/)
 - [A simple game made with the graphics.py library](https://www.reddit.com/r/Python/comments/18p91rg/a_simple_game_made_with_the_graphicspy_library/)
+- [Gymhero - FastAPI project example](https://www.reddit.com/r/Python/comments/18p6rox/gymhero_fastapi_project_example/)
 - [Debugging dockerized Python apps in VSCode](https://www.reddit.com/r/Python/comments/18p5j92/debugging_dockerized_python_apps_in_vscode/)
+- [Create a Secure Flask Login System Using Argon2 Hashing](https://www.reddit.com/r/Python/comments/18p4plt/create_a_secure_flask_login_system_using_argon2/)
 - [A simple game made with the graphics.py library](https://www.reddit.com/r/Python/comments/18p4j6h/a_simple_game_made_with_the_graphicspy_library/)
-- [How to Sort Unicode Strings Alphabetically in Python](https://www.reddit.com/r/Python/comments/18p2emc/how_to_sort_unicode_strings_alphabetically_in/)
 <!-- BLOG-POST-LIST:END -->
