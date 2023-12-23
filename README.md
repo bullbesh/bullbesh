@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Am I the only one who uses GPT to code..](https://www.reddit.com/r/Python/comments/18pdhw0/am_i_the_only_one_who_uses_gpt_to_code/)
+- [is it true there will be no python 4 because rust is getting popular?](https://www.reddit.com/r/Python/comments/18pez3t/is_it_true_there_will_be_no_python_4_because_rust/)
 - [A simple game made with the graphics.py library](https://www.reddit.com/r/Python/comments/18p91rg/a_simple_game_made_with_the_graphicspy_library/)
 - [Debugging dockerized Python apps in VSCode](https://www.reddit.com/r/Python/comments/18p5j92/debugging_dockerized_python_apps_in_vscode/)
 - [A simple game made with the graphics.py library](https://www.reddit.com/r/Python/comments/18p4j6h/a_simple_game_made_with_the_graphicspy_library/)
