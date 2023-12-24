@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing basicenum](https://www.reddit.com/r/Python/comments/18prnah/introducing_basicenum/)
+- [Python web development applications](https://www.reddit.com/r/Python/comments/18prkh0/python_web_development_applications/)
 - [Analyze your Amazon Data With Pandas - Data Analysis Tutorial](https://www.reddit.com/r/Python/comments/18ppn5f/analyze_your_amazon_data_with_pandas_data/)
 - [Driver&#39;s Attention Monitoring System:](https://www.reddit.com/r/Python/comments/18pjhk8/drivers_attention_monitoring_system/)
 - [Azure DevOps connection to Toggl](https://www.reddit.com/r/Python/comments/18pj4h4/azure_devops_connection_to_toggl/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/18pikkd/sunday_daily_thread_whats_everyone_working_on/)
-- [A simple game made with the graphics.py library](https://www.reddit.com/r/Python/comments/18p91rg/a_simple_game_made_with_the_graphicspy_library/)
 <!-- BLOG-POST-LIST:END -->
