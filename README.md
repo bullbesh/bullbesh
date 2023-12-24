@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Analyze your Amazon Data With Pandas - Data Analysis Tutorial](https://www.reddit.com/r/Python/comments/18ppn5f/analyze_your_amazon_data_with_pandas_data/)
 - [Driver&#39;s Attention Monitoring System:](https://www.reddit.com/r/Python/comments/18pjhk8/drivers_attention_monitoring_system/)
+- [Azure DevOps connection to Toggl](https://www.reddit.com/r/Python/comments/18pj4h4/azure_devops_connection_to_toggl/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/18pikkd/sunday_daily_thread_whats_everyone_working_on/)
 - [A simple game made with the graphics.py library](https://www.reddit.com/r/Python/comments/18p91rg/a_simple_game_made_with_the_graphicspy_library/)
-- [Gymhero - FastAPI project example](https://www.reddit.com/r/Python/comments/18p6rox/gymhero_fastapi_project_example/)
 <!-- BLOG-POST-LIST:END -->
