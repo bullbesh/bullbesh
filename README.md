@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Driver&#39;s Attention Monitoring System:](https://www.reddit.com/r/Python/comments/18pjhk8/drivers_attention_monitoring_system/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/18pikkd/sunday_daily_thread_whats_everyone_working_on/)
 - [A simple game made with the graphics.py library](https://www.reddit.com/r/Python/comments/18p91rg/a_simple_game_made_with_the_graphicspy_library/)
 - [Gymhero - FastAPI project example](https://www.reddit.com/r/Python/comments/18p6rox/gymhero_fastapi_project_example/)
 - [Debugging dockerized Python apps in VSCode](https://www.reddit.com/r/Python/comments/18p5j92/debugging_dockerized_python_apps_in_vscode/)
-- [Create a Secure Flask Login System Using Argon2 Hashing](https://www.reddit.com/r/Python/comments/18p4plt/create_a_secure_flask_login_system_using_argon2/)
-- [A simple game made with the graphics.py library](https://www.reddit.com/r/Python/comments/18p4j6h/a_simple_game_made_with_the_graphicspy_library/)
 <!-- BLOG-POST-LIST:END -->
