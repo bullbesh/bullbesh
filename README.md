@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Flask Authentication with Argon2 and Session Cookies!](https://www.reddit.com/r/Python/comments/18q0t52/implementing_flask_authentication_with_argon2_and/)
 - [Building a Japanese Kanji Flashcard App using GPT-4, Python and Langchain](https://www.reddit.com/r/Python/comments/18pxw1f/building_a_japanese_kanji_flashcard_app_using/)
 - [Anyone know of any CNNs that are compatible with 3.12?](https://www.reddit.com/r/Python/comments/18pvb4r/anyone_know_of_any_cnns_that_are_compatible_with/)
 - [Anyone know of any CNNs that are compatible with 3.12?](https://www.reddit.com/r/Python/comments/18pvb44/anyone_know_of_any_cnns_that_are_compatible_with/)
 - [did i do a good job?](https://www.reddit.com/r/Python/comments/18ptweb/did_i_do_a_good_job/)
-- [Automate Your Finance Blog with WordPress and Google Bard APIs in Python](https://www.reddit.com/r/Python/comments/18ptmif/automate_your_finance_blog_with_wordpress_and/)
 <!-- BLOG-POST-LIST:END -->
