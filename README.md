@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [did i do a good job?](https://www.reddit.com/r/Python/comments/18ptweb/did_i_do_a_good_job/)
+- [Automate Your Finance Blog with WordPress and Google Bard APIs in Python](https://www.reddit.com/r/Python/comments/18ptmif/automate_your_finance_blog_with_wordpress_and/)
+- [Xmas decoration, part 1](https://www.reddit.com/r/Python/comments/18ptix1/xmas_decoration_part_1/)
+- [I shared a Python Pandas &lpar;Data Analysis&rpar; course on YouTube](https://www.reddit.com/r/Python/comments/18ptbu0/i_shared_a_python_pandas_data_analysis_course_on/)
 - [Introducing basicenum](https://www.reddit.com/r/Python/comments/18prnah/introducing_basicenum/)
-- [Python web development applications](https://www.reddit.com/r/Python/comments/18prkh0/python_web_development_applications/)
-- [Analyze your Amazon Data With Pandas - Data Analysis Tutorial](https://www.reddit.com/r/Python/comments/18ppn5f/analyze_your_amazon_data_with_pandas_data/)
-- [Driver&#39;s Attention Monitoring System:](https://www.reddit.com/r/Python/comments/18pjhk8/drivers_attention_monitoring_system/)
-- [Azure DevOps connection to Toggl](https://www.reddit.com/r/Python/comments/18pj4h4/azure_devops_connection_to_toggl/)
 <!-- BLOG-POST-LIST:END -->
