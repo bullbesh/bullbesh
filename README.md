@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Trading Bot For Discord Crypto Alerts](https://www.reddit.com/r/Python/comments/18pojeh/trading_bot_for_discord_crypto_alerts/)
-- [I am looking to make a two or three dimensional sandbox game that is multiplayer and uses UDP. Where can I start with this?](https://www.reddit.com/r/Python/comments/18po8f1/i_am_looking_to_make_a_two_or_three_dimensional/)
+- [Analyze your Amazon Data With Pandas - Data Analysis Tutorial](https://www.reddit.com/r/Python/comments/18ppn5f/analyze_your_amazon_data_with_pandas_data/)
 - [Driver&#39;s Attention Monitoring System:](https://www.reddit.com/r/Python/comments/18pjhk8/drivers_attention_monitoring_system/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/18pikkd/sunday_daily_thread_whats_everyone_working_on/)
 - [A simple game made with the graphics.py library](https://www.reddit.com/r/Python/comments/18p91rg/a_simple_game_made_with_the_graphicspy_library/)
+- [Gymhero - FastAPI project example](https://www.reddit.com/r/Python/comments/18p6rox/gymhero_fastapi_project_example/)
 <!-- BLOG-POST-LIST:END -->
