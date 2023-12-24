@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anyone know of any CNNs that are compatible with 3.12?](https://www.reddit.com/r/Python/comments/18pvb4r/anyone_know_of_any_cnns_that_are_compatible_with/)
+- [Anyone know of any CNNs that are compatible with 3.12?](https://www.reddit.com/r/Python/comments/18pvb44/anyone_know_of_any_cnns_that_are_compatible_with/)
 - [did i do a good job?](https://www.reddit.com/r/Python/comments/18ptweb/did_i_do_a_good_job/)
 - [Automate Your Finance Blog with WordPress and Google Bard APIs in Python](https://www.reddit.com/r/Python/comments/18ptmif/automate_your_finance_blog_with_wordpress_and/)
 - [Xmas decoration, part 1](https://www.reddit.com/r/Python/comments/18ptix1/xmas_decoration_part_1/)
-- [I shared a Python Pandas &lpar;Data Analysis&rpar; course on YouTube](https://www.reddit.com/r/Python/comments/18ptbu0/i_shared_a_python_pandas_data_analysis_course_on/)
-- [Introducing basicenum](https://www.reddit.com/r/Python/comments/18prnah/introducing_basicenum/)
 <!-- BLOG-POST-LIST:END -->
