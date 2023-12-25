@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dataclassy - fixing dataclass inheritance hell](https://www.reddit.com/r/Python/comments/18q8w6v/dataclassy_fixing_dataclass_inheritance_hell/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/18q72ja/monday_daily_thread_project_ideas/)
 - [8 Levels of Using Structure Pattern Matching in Python](https://www.reddit.com/r/Python/comments/18q5mp1/8_levels_of_using_structure_pattern_matching_in/)
 - [Implementing Flask Authentication with Argon2 and Session Cookies!](https://www.reddit.com/r/Python/comments/18q0t52/implementing_flask_authentication_with_argon2_and/)
 - [Building a Japanese Kanji Flashcard App using GPT-4, Python and Langchain](https://www.reddit.com/r/Python/comments/18pxw1f/building_a_japanese_kanji_flashcard_app_using/)
-- [Xmas decoration, part 1](https://www.reddit.com/r/Python/comments/18ptix1/xmas_decoration_part_1/)
 <!-- BLOG-POST-LIST:END -->
