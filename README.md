@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best TTS API for Japanese in Python?](https://www.reddit.com/r/Python/comments/18qfj00/best_tts_api_for_japanese_in_python/)
 - [FireDucks - Compiler Accelerated DataFrame Library for Python with fully-compatible pandas API](https://www.reddit.com/r/Python/comments/18qb2ge/fireducks_compiler_accelerated_dataframe_library/)
 - [entertaining / informative youtube channels for keeping up with the nerds](https://www.reddit.com/r/Python/comments/18qb250/entertaining_informative_youtube_channels_for/)
 - [Dataclassy - fixing dataclass inheritance hell](https://www.reddit.com/r/Python/comments/18q8w6v/dataclassy_fixing_dataclass_inheritance_hell/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/18q72ja/monday_daily_thread_project_ideas/)
-- [8 Levels of Using Structure Pattern Matching in Python](https://www.reddit.com/r/Python/comments/18q5mp1/8_levels_of_using_structure_pattern_matching_in/)
 <!-- BLOG-POST-LIST:END -->
