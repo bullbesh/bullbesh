@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Async vs Threads vs Processes in Python](https://www.reddit.com/r/Python/comments/18qj9ju/async_vs_threads_vs_processes_in_python/)
+- [Scrape redfin.com using Python &amp; Download Data To CSV file](https://www.reddit.com/r/Python/comments/18qj553/scrape_redfincom_using_python_download_data_to/)
 - [PNLS: An offensive tool that captures and displays SSIDs from device&#39;s Preferred Network List in the nearby vicinity.](https://www.reddit.com/r/Python/comments/18qi3u0/pnls_an_offensive_tool_that_captures_and_displays/)
 - [Python in Visual Studio Code | Getting Started](https://www.reddit.com/r/Python/comments/18qh4ln/python_in_visual_studio_code_getting_started/)
 - [Building a decentralized key-value store on top of IRC &lpar;&gt;= Python 3.6&rpar;](https://www.reddit.com/r/Python/comments/18qg1rq/building_a_decentralized_keyvalue_store_on_top_of/)
-- [Best TTS API for Japanese in Python?](https://www.reddit.com/r/Python/comments/18qfj00/best_tts_api_for_japanese_in_python/)
-- [FireDucks - Compiler Accelerated DataFrame Library for Python with fully-compatible pandas API](https://www.reddit.com/r/Python/comments/18qb2ge/fireducks_compiler_accelerated_dataframe_library/)
 <!-- BLOG-POST-LIST:END -->
