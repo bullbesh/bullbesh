@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Snake game in python](https://www.reddit.com/r/Python/comments/18rapqc/snake_game_in_python/)
 - [Data Structures and Algorithms](https://www.reddit.com/r/Python/comments/18r9kw7/data_structures_and_algorithms/)
 - [Math quiz program in python hope everyone likes it](https://www.reddit.com/r/Python/comments/18r9643/math_quiz_program_in_python_hope_everyone_likes_it/)
 - [Seeking Suggestions for Enhancing my PyPI Package eagelview - Image Dataset Visualization](https://www.reddit.com/r/Python/comments/18r8y6d/seeking_suggestions_for_enhancing_my_pypi_package/)
 - [Increase details of videos &lpar;from 🌱 to 🪴&rpar;](https://www.reddit.com/r/Python/comments/18r7487/increase_details_of_videos_from_to/)
-- [A few questions and concerns about the dataclass PEP](https://www.reddit.com/r/Python/comments/18r6v5v/a_few_questions_and_concerns_about_the_dataclass/)
 <!-- BLOG-POST-LIST:END -->
