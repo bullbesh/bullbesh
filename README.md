@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Посещаю курсы программирования](https://www.reddit.com/r/Python/comments/18r5hc3/посещаю_курсы_программирования/)
+- [Increase details of videos &lpar;from 🌱 to 🪴&rpar;](https://www.reddit.com/r/Python/comments/18r7487/increase_details_of_videos_from_to/)
 - [Python Basic GUI calculator.](https://www.reddit.com/r/Python/comments/18r4qrw/python_basic_gui_calculator/)
 - [‘Python -m’: The Coolest Python Flag That &lpar;Seriously&rpar; Deserves Much More Attention](https://www.reddit.com/r/Python/comments/18r26cw/python_m_the_coolest_python_flag_that_seriously/)
 - [Financial-Analyzer CLI App: an argument for use](https://www.reddit.com/r/Python/comments/18qzi6d/financialanalyzer_cli_app_an_argument_for_use/)
