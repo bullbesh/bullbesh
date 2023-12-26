@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Commonwealth Bank of Australia async API client](https://www.reddit.com/r/Python/comments/18qwl38/commonwealth_bank_of_australia_async_api_client/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/18qujkd/tuesday_daily_thread_advanced_questions/)
 - [What is the optimal structure for a Python project?](https://www.reddit.com/r/Python/comments/18qkivr/what_is_the_optimal_structure_for_a_python_project/)
 - [Async vs Threads vs Processes in Python](https://www.reddit.com/r/Python/comments/18qj9ju/async_vs_threads_vs_processes_in_python/)
 - [Scrape redfin.com using Python &amp; Download Data To CSV file](https://www.reddit.com/r/Python/comments/18qj553/scrape_redfincom_using_python_download_data_to/)
-- [PNLS: An offensive tool that captures and displays SSIDs from device&#39;s Preferred Network List in the nearby vicinity.](https://www.reddit.com/r/Python/comments/18qi3u0/pnls_an_offensive_tool_that_captures_and_displays/)
 <!-- BLOG-POST-LIST:END -->
