@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Basic GUI calculator.](https://www.reddit.com/r/Python/comments/18r4qrw/python_basic_gui_calculator/)
 - [‘Python -m’: The Coolest Python Flag That &lpar;Seriously&rpar; Deserves Much More Attention](https://www.reddit.com/r/Python/comments/18r26cw/python_m_the_coolest_python_flag_that_seriously/)
 - [Financial-Analyzer CLI App: an argument for use](https://www.reddit.com/r/Python/comments/18qzi6d/financialanalyzer_cli_app_an_argument_for_use/)
 - [Commonwealth Bank of Australia async API client](https://www.reddit.com/r/Python/comments/18qwl38/commonwealth_bank_of_australia_async_api_client/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/18qujkd/tuesday_daily_thread_advanced_questions/)
-- [What is the optimal structure for a Python project?](https://www.reddit.com/r/Python/comments/18qkivr/what_is_the_optimal_structure_for_a_python_project/)
 <!-- BLOG-POST-LIST:END -->
