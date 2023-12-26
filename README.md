@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Structures and Algorithms](https://www.reddit.com/r/Python/comments/18r9kw7/data_structures_and_algorithms/)
+- [Math quiz program in python hope everyone likes it](https://www.reddit.com/r/Python/comments/18r9643/math_quiz_program_in_python_hope_everyone_likes_it/)
 - [Seeking Suggestions for Enhancing my PyPI Package eagelview - Image Dataset Visualization](https://www.reddit.com/r/Python/comments/18r8y6d/seeking_suggestions_for_enhancing_my_pypi_package/)
 - [Increase details of videos &lpar;from 🌱 to 🪴&rpar;](https://www.reddit.com/r/Python/comments/18r7487/increase_details_of_videos_from_to/)
-- [Python Basic GUI calculator.](https://www.reddit.com/r/Python/comments/18r4qrw/python_basic_gui_calculator/)
-- [‘Python -m’: The Coolest Python Flag That &lpar;Seriously&rpar; Deserves Much More Attention](https://www.reddit.com/r/Python/comments/18r26cw/python_m_the_coolest_python_flag_that_seriously/)
-- [Financial-Analyzer CLI App: an argument for use](https://www.reddit.com/r/Python/comments/18qzi6d/financialanalyzer_cli_app_an_argument_for_use/)
+- [A few questions and concerns about the dataclass PEP](https://www.reddit.com/r/Python/comments/18r6v5v/a_few_questions_and_concerns_about_the_dataclass/)
 <!-- BLOG-POST-LIST:END -->
