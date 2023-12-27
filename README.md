@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Error Handling in Python Programming](https://www.reddit.com/r/Python/comments/18s0mhw/error_handling_in_python_programming/)
 - [Looking for some packages similar to Laravel&#39;s Jetstream and Cashier for subscriptions](https://www.reddit.com/r/Python/comments/18s0d46/looking_for_some_packages_similar_to_laravels/)
 - [API Client for Google Map&#39;s location share](https://www.reddit.com/r/Python/comments/18rw38p/api_client_for_google_maps_location_share/)
 - [Refactor using SOLID principles amounted to good speedup](https://www.reddit.com/r/Python/comments/18rqeev/refactor_using_solid_principles_amounted_to_good/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/18rm8k7/wednesday_daily_thread_beginner_questions/)
-- [9 Subtle Tricks To Make Your Python Code Much Faster](https://www.reddit.com/r/Python/comments/18rjs9z/9_subtle_tricks_to_make_your_python_code_much/)
 <!-- BLOG-POST-LIST:END -->
