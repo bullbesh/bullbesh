@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/18rm8k7/wednesday_daily_thread_beginner_questions/)
 - [9 Subtle Tricks To Make Your Python Code Much Faster](https://www.reddit.com/r/Python/comments/18rjs9z/9_subtle_tricks_to_make_your_python_code_much/)
 - [A copy-and-patch JIT compiler for CPython](https://www.reddit.com/r/Python/comments/18rh34y/a_copyandpatch_jit_compiler_for_cpython/)
 - [Fastest way to build apps in python](https://www.reddit.com/r/Python/comments/18rc9zc/fastest_way_to_build_apps_in_python/)
 - [py-cachify - cache-based locks and handy caching decorators](https://www.reddit.com/r/Python/comments/18rc6e6/pycachify_cachebased_locks_and_handy_caching/)
-- [Snake game in python](https://www.reddit.com/r/Python/comments/18rapqc/snake_game_in_python/)
 <!-- BLOG-POST-LIST:END -->
