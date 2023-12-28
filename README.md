@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Download Python for Windows &lpar;Full Tutorial&rpar;](https://www.reddit.com/r/Python/comments/18sl3ln/download_python_for_windows_full_tutorial/)
 - [Blackline + Python](https://www.reddit.com/r/Python/comments/18sginp/blackline_python/)
 - [I made a Django webapp to create memorial pages quickly and easily](https://www.reddit.com/r/Python/comments/18sffil/i_made_a_django_webapp_to_create_memorial_pages/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/18sfbsg/thursday_daily_thread_python_careers_courses_and/)
 - [should i select this option see image](https://www.reddit.com/r/Python/comments/18sclnh/should_i_select_this_option_see_image/)
-- [Django python backend for a dating social app 🐍](https://www.reddit.com/r/Python/comments/18sbk1v/django_python_backend_for_a_dating_social_app/)
 <!-- BLOG-POST-LIST:END -->
