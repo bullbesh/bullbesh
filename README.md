@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python lib written in rust for fast bounding box manipulation](https://www.reddit.com/r/Python/comments/18t2nwe/python_lib_written_in_rust_for_fast_bounding_box/)
 - [An implementation of the Python turtle library in C++ using SDL2](https://www.reddit.com/r/Python/comments/18t1i5k/an_implementation_of_the_python_turtle_library_in/)
-- [Grammy and RIAA certification APIs](https://www.reddit.com/r/Python/comments/18t18c9/grammy_and_riaa_certification_apis/)
 - [Duotrigordle Practice](https://www.reddit.com/r/Python/comments/18szjwd/duotrigordle_practice/)
 - [pytest mock](https://www.reddit.com/r/Python/comments/18sxsig/pytest_mock/)
 - [Stockstir is a Python project that lets you get any company stock price instantly from any script at no cost.](https://www.reddit.com/r/Python/comments/18sxqsc/stockstir_is_a_python_project_that_lets_you_get/)
