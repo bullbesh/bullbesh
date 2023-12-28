@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ML Program using face recognition which analyze your face structure and measure how close it is to golden ratio](https://www.reddit.com/r/Python/comments/18swvoo/ml_program_using_face_recognition_which_analyze/)
 - [embuild - a small tool for embedded C/CMake project library management](https://www.reddit.com/r/Python/comments/18st51s/embuild_a_small_tool_for_embedded_ccmake_project/)
 - [Give a Side Quest to Code](https://www.reddit.com/r/Python/comments/18spsb8/give_a_side_quest_to_code/)
 - [Coverage.py with sys.monitoring](https://www.reddit.com/r/Python/comments/18sphyk/coveragepy_with_sysmonitoring/)
 - [Blackline + Python](https://www.reddit.com/r/Python/comments/18sginp/blackline_python/)
-- [I made a Django webapp to create memorial pages quickly and easily](https://www.reddit.com/r/Python/comments/18sffil/i_made_a_django_webapp_to_create_memorial_pages/)
 <!-- BLOG-POST-LIST:END -->
