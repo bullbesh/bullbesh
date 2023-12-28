@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Give a Side Quest to Code](https://www.reddit.com/r/Python/comments/18spsb8/give_a_side_quest_to_code/)
 - [Coverage.py with sys.monitoring](https://www.reddit.com/r/Python/comments/18sphyk/coveragepy_with_sysmonitoring/)
-- [Pipeline](https://www.reddit.com/r/Python/comments/18sntui/pipeline/)
 - [Blackline + Python](https://www.reddit.com/r/Python/comments/18sginp/blackline_python/)
 - [I made a Django webapp to create memorial pages quickly and easily](https://www.reddit.com/r/Python/comments/18sffil/i_made_a_django_webapp_to_create_memorial_pages/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/18sfbsg/thursday_daily_thread_python_careers_courses_and/)
