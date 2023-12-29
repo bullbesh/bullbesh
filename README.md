@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Better Way to Wrangle Figures Out of Jupyter Notebooks](https://www.reddit.com/r/Python/comments/18thcub/a_better_way_to_wrangle_figures_out_of_jupyter/)
 - [How to prevent python software from being reverse engineered or pirated?](https://www.reddit.com/r/Python/comments/18tdmiv/how_to_prevent_python_software_from_being_reverse/)
 - [Is there an easy way I can get access to RIAA Certification database / API?](https://www.reddit.com/r/Python/comments/18tar65/is_there_an_easy_way_i_can_get_access_to_riaa/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/18t8nwl/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Pure Recipe is a CLI app to save or view online recipes in well-formatted markdown. No more ads!](https://www.reddit.com/r/Python/comments/18t726b/pure_recipe_is_a_cli_app_to_save_or_view_online/)
-- [Python lib written in rust for fast bounding box manipulation](https://www.reddit.com/r/Python/comments/18t2nwe/python_lib_written_in_rust_for_fast_bounding_box/)
 <!-- BLOG-POST-LIST:END -->
