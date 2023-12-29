@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python monorepo template](https://www.reddit.com/r/Python/comments/18trmnq/a_python_monorepo_template/)
 - [CRAP - Clear Redundant Added Packages](https://www.reddit.com/r/Python/comments/18tqu9m/crap_clear_redundant_added_packages/)
 - [A Python implementation of Conway&#39;s Game of Life &lpar;Cellular Automaton&rpar;](https://www.reddit.com/r/Python/comments/18tq9ns/a_python_implementation_of_conways_game_of_life/)
 - [No formal schooling](https://www.reddit.com/r/Python/comments/18ton3n/no_formal_schooling/)
 - [The Python Mega Course is still free on Udemy](https://www.reddit.com/r/Python/comments/18tn8y0/the_python_mega_course_is_still_free_on_udemy/)
-- [Efficient Range Joins in Pandas](https://www.reddit.com/r/Python/comments/18tlpg0/efficient_range_joins_in_pandas/)
 <!-- BLOG-POST-LIST:END -->
