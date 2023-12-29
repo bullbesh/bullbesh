@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nur the AI empowered self actualizing documentation chat bot](https://www.reddit.com/r/Python/comments/18tx9fj/nur_the_ai_empowered_self_actualizing/)
+- [UniDep: Unified Conda and Pip dependency management via pyproject.toml](https://www.reddit.com/r/Python/comments/18tx3pm/unidep_unified_conda_and_pip_dependency/)
 - [Tastymap, create/customize matplotlib color palettes for your palate](https://www.reddit.com/r/Python/comments/18tvpdz/tastymap_createcustomize_matplotlib_color/)
 - [Voicebox: Python TTS lib with built-in audio effects](https://www.reddit.com/r/Python/comments/18tv650/voicebox_python_tts_lib_with_builtin_audio_effects/)
 - [Understanding Numeric Data Types in Python](https://www.reddit.com/r/Python/comments/18tuy3y/understanding_numeric_data_types_in_python/)
-- [A Python monorepo template](https://www.reddit.com/r/Python/comments/18trmnq/a_python_monorepo_template/)
-- [CRAP - Clear Redundant Added Packages](https://www.reddit.com/r/Python/comments/18tqu9m/crap_clear_redundant_added_packages/)
 <!-- BLOG-POST-LIST:END -->
