@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jake: A Free Alternative to Linktree Using GitHub Pages](https://www.reddit.com/r/Python/comments/18tkf7e/jake_a_free_alternative_to_linktree_using_github/)
 - [Populate template automatically from resumes](https://www.reddit.com/r/Python/comments/18tjccx/populate_template_automatically_from_resumes/)
 - [Oreiller: An image library for easy Pillow manipulations.](https://www.reddit.com/r/Python/comments/18til8l/oreiller_an_image_library_for_easy_pillow/)
 - [A Better Way to Wrangle Figures Out of Jupyter Notebooks](https://www.reddit.com/r/Python/comments/18thcub/a_better_way_to_wrangle_figures_out_of_jupyter/)
 - [How to prevent python software from being reverse engineered or pirated?](https://www.reddit.com/r/Python/comments/18tdmiv/how_to_prevent_python_software_from_being_reverse/)
-- [Is there an easy way I can get access to RIAA Certification database / API?](https://www.reddit.com/r/Python/comments/18tar65/is_there_an_easy_way_i_can_get_access_to_riaa/)
 <!-- BLOG-POST-LIST:END -->
