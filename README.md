@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/18t8nwl/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Pure Recipe is a CLI app to save or view online recipes in well-formatted markdown. No more ads!](https://www.reddit.com/r/Python/comments/18t726b/pure_recipe_is_a_cli_app_to_save_or_view_online/)
 - [Python lib written in rust for fast bounding box manipulation](https://www.reddit.com/r/Python/comments/18t2nwe/python_lib_written_in_rust_for_fast_bounding_box/)
 - [An implementation of the Python turtle library in C++ using SDL2](https://www.reddit.com/r/Python/comments/18t1i5k/an_implementation_of_the_python_turtle_library_in/)
 - [Duotrigordle Practice](https://www.reddit.com/r/Python/comments/18szjwd/duotrigordle_practice/)
-- [pytest mock](https://www.reddit.com/r/Python/comments/18sxsig/pytest_mock/)
 <!-- BLOG-POST-LIST:END -->
