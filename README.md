@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [RecoverPy 2.1.5: Python file recovery tool](https://www.reddit.com/r/Python/comments/18uknqm/recoverpy_215_python_file_recovery_tool/)
+- [Leapcell: Vercel Alternative for Python](https://www.reddit.com/r/Python/comments/18uknlx/leapcell_vercel_alternative_for_python/)
+- [New Database IDE](https://www.reddit.com/r/Python/comments/18uklf2/new_database_ide/)
 - [A Free AI Scribe Project I am Working on! Please Provide Feedback!](https://www.reddit.com/r/Python/comments/18ujbet/a_free_ai_scribe_project_i_am_working_on_please/)
 - [Coding year in review 2023!](https://www.reddit.com/r/Python/comments/18uhdfv/coding_year_in_review_2023/)
-- [CPython Type System Internals: Video Series](https://www.reddit.com/r/Python/comments/18uhack/cpython_type_system_internals_video_series/)
-- [Paracelsus: Visualize SQLAlchemy Databases using Mermaid or Dot Diagrams.](https://www.reddit.com/r/Python/comments/18uh43x/paracelsus_visualize_sqlalchemy_databases_using/)
-- [Curser, and other AI code editors](https://www.reddit.com/r/Python/comments/18ufktx/curser_and_other_ai_code_editors/)
 <!-- BLOG-POST-LIST:END -->
