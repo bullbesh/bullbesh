@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding year in review 2023!](https://www.reddit.com/r/Python/comments/18uhdfv/coding_year_in_review_2023/)
+- [CPython Type System Internals: Video Series](https://www.reddit.com/r/Python/comments/18uhack/cpython_type_system_internals_video_series/)
+- [Paracelsus: Visualize SQLAlchemy Databases using Mermaid or Dot Diagrams.](https://www.reddit.com/r/Python/comments/18uh43x/paracelsus_visualize_sqlalchemy_databases_using/)
 - [Curser, and other AI code editors](https://www.reddit.com/r/Python/comments/18ufktx/curser_and_other_ai_code_editors/)
 - [Grep over IPython output!](https://www.reddit.com/r/Python/comments/18ufgl3/grep_over_ipython_output/)
-- [Backend Framework for web and mobile based Business](https://www.reddit.com/r/Python/comments/18ueav5/backend_framework_for_web_and_mobile_based/)
-- [Give me a reason to use Django instead of NodeJs for backend](https://www.reddit.com/r/Python/comments/18ud4bv/give_me_a_reason_to_use_django_instead_of_nodejs/)
-- [Less is More? An Empirical Study on Configuration Issues in Python PyPI Ecosystem](https://www.reddit.com/r/Python/comments/18ubs0y/less_is_more_an_empirical_study_on_configuration/)
 <!-- BLOG-POST-LIST:END -->
