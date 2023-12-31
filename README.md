@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do You Ever del?](https://www.reddit.com/r/Python/comments/18vgrc9/do_you_ever_del/)
 - [DocFlow - Document Management API](https://www.reddit.com/r/Python/comments/18vcjrw/docflow_document_management_api/)
 - [I Created a game &lpar;kind of&rpar;](https://www.reddit.com/r/Python/comments/18vattd/i_created_a_game_kind_of/)
 - [BALanced Execution through Natural Activation : a human-computer interaction methodology for code running](https://www.reddit.com/r/Python/comments/18v4yqg/balanced_execution_through_natural_activation_a/)
 - [ChatGPT API Basics for Developers &lpar;in Python&rpar;](https://www.reddit.com/r/Python/comments/18v3v7n/chatgpt_api_basics_for_developers_in_python/)
-- [I shared a Python Course &lpar;1.5 hours&rpar; on YouTube](https://www.reddit.com/r/Python/comments/18v157k/i_shared_a_python_course_15_hours_on_youtube/)
 <!-- BLOG-POST-LIST:END -->
