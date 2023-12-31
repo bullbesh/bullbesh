@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT API Basics for Developers &lpar;in Python&rpar;](https://www.reddit.com/r/Python/comments/18v3v7n/chatgpt_api_basics_for_developers_in_python/)
+- [I Shared a Javascript Variables tutorial of latest on my page](https://www.reddit.com/r/Python/comments/18v3fnd/i_shared_a_javascript_variables_tutorial_of/)
 - [I shared a Python Course &lpar;1.5 hours&rpar; on YouTube](https://www.reddit.com/r/Python/comments/18v157k/i_shared_a_python_course_15_hours_on_youtube/)
 - [Stockstir is a tool written in Python that lets you get stock information from any script at no cost - Version 2 is officially out!](https://www.reddit.com/r/Python/comments/18uuyjr/stockstir_is_a_tool_written_in_python_that_lets/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/18utrn3/sunday_daily_thread_whats_everyone_working_on/)
-- [Transfer YouTube History from One Channel to Another Channel Using Python](https://www.reddit.com/r/Python/comments/18upgvh/transfer_youtube_history_from_one_channel_to/)
-- [RecoverPy 2.1.5: Python file recovery tool](https://www.reddit.com/r/Python/comments/18uknqm/recoverpy_215_python_file_recovery_tool/)
 <!-- BLOG-POST-LIST:END -->
