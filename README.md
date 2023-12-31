@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I need recommendations](https://www.reddit.com/r/Python/comments/18uzq13/i_need_recommendations/)
+- [I shared a Python Course &lpar;1.5 hours&rpar; on YouTube](https://www.reddit.com/r/Python/comments/18v157k/i_shared_a_python_course_15_hours_on_youtube/)
 - [Stockstir is a tool written in Python that lets you get stock information from any script at no cost - Version 2 is officially out!](https://www.reddit.com/r/Python/comments/18uuyjr/stockstir_is_a_tool_written_in_python_that_lets/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/18utrn3/sunday_daily_thread_whats_everyone_working_on/)
 - [Transfer YouTube History from One Channel to Another Channel Using Python](https://www.reddit.com/r/Python/comments/18upgvh/transfer_youtube_history_from_one_channel_to/)
