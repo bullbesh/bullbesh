@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python T-Shirt](https://www.reddit.com/r/Python/comments/18vjh19/python_tshirt/)
 - [Xmas decoration, part 2](https://www.reddit.com/r/Python/comments/18vi8wx/xmas_decoration_part_2/)
 - [HAPPY NEW YEAR](https://www.reddit.com/r/Python/comments/18vhuba/happy_new_year/)
 - [Do You Ever del?](https://www.reddit.com/r/Python/comments/18vgrc9/do_you_ever_del/)
 - [DocFlow - Document Management API](https://www.reddit.com/r/Python/comments/18vcjrw/docflow_document_management_api/)
-- [I Created a game &lpar;kind of&rpar;](https://www.reddit.com/r/Python/comments/18vattd/i_created_a_game_kind_of/)
 <!-- BLOG-POST-LIST:END -->
