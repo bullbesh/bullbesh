@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a program that solves mazes from images!](https://www.reddit.com/r/Python/comments/18vz81t/i_made_a_program_that_solves_mazes_from_images/)
 - [Hypercorn 0.16.0 released - a WSGI/ASGI server supporting HTTP 1, 2, 3 and Websockets](https://www.reddit.com/r/Python/comments/18vxfyu/hypercorn_0160_released_a_wsgiasgi_server/)
 - [🔥 Top AI Newsletters of 2024 on Substack](https://www.reddit.com/r/Python/comments/18vv84b/top_ai_newsletters_of_2024_on_substack/)
 - [What is SLOW_SUM in the CPython source code?](https://www.reddit.com/r/Python/comments/18vv3aa/what_is_slow_sum_in_the_cpython_source_code/)
 - [I made a video showcasing the projects in 2023 using Python and Pygame!](https://www.reddit.com/r/Python/comments/18vtkcs/i_made_a_video_showcasing_the_projects_in_2023/)
-- [Retro Maze Code with a problem](https://www.reddit.com/r/Python/comments/18vswb9/retro_maze_code_with_a_problem/)
 <!-- BLOG-POST-LIST:END -->
