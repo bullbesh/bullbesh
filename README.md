@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Yet another multidirectory/multirepository git runner.](https://www.reddit.com/r/Python/comments/18w4quj/yet_another_multidirectorymultirepository_git/)
+- [Best Paraphraser](https://www.reddit.com/r/Python/comments/18w4kw3/best_paraphraser/)
+- [PyPy has moved to GitHub](https://www.reddit.com/r/Python/comments/18w45u2/pypy_has_moved_to_github/)
 - [Get Surfline surf forecasts with python](https://www.reddit.com/r/Python/comments/18w31mr/get_surfline_surf_forecasts_with_python/)
 - [Revolucionando el Web Scraping con IA](https://www.reddit.com/r/Python/comments/18w30yz/revolucionando_el_web_scraping_con_ia/)
-- [Revolucionando el Web Scraping con IA](https://www.reddit.com/r/Python/comments/18w2y7c/revolucionando_el_web_scraping_con_ia/)
-- [Leetcode 455. Assign Cookies](https://www.reddit.com/r/Python/comments/18w24we/leetcode_455_assign_cookies/)
-- [6 different ways to clone or copy a list in python](https://www.reddit.com/r/Python/comments/18w1xco/6_different_ways_to_clone_or_copy_a_list_in_python/)
 <!-- BLOG-POST-LIST:END -->
