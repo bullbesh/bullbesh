@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [If Python F-strings are so cool, where are Python G-strings?](https://www.reddit.com/r/Python/comments/18w88tu/if_python_fstrings_are_so_cool_where_are_python/)
 - [PDFSyntax, a new Python API library to inspect and update PDF files](https://www.reddit.com/r/Python/comments/18w5zj3/pdfsyntax_a_new_python_api_library_to_inspect_and/)
 - [Yet another multidirectory/multirepository git runner.](https://www.reddit.com/r/Python/comments/18w4quj/yet_another_multidirectorymultirepository_git/)
 - [PyPy has moved to GitHub](https://www.reddit.com/r/Python/comments/18w45u2/pypy_has_moved_to_github/)
 - [Get Surfline surf forecasts with python](https://www.reddit.com/r/Python/comments/18w31mr/get_surfline_surf_forecasts_with_python/)
+- [Leetcode 455. Assign Cookies](https://www.reddit.com/r/Python/comments/18w24we/leetcode_455_assign_cookies/)
 <!-- BLOG-POST-LIST:END -->
