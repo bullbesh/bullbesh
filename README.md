@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Retro Maze Code with a problem](https://www.reddit.com/r/Python/comments/18vswb9/retro_maze_code_with_a_problem/)
 - [chrono24 - a simple API wrapper for watch enthusiasts 🕒](https://www.reddit.com/r/Python/comments/18vpdsd/chrono24_a_simple_api_wrapper_for_watch/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/18vkgtu/monday_daily_thread_project_ideas/)
 - [Xmas decoration, part 2](https://www.reddit.com/r/Python/comments/18vi8wx/xmas_decoration_part_2/)
 - [HAPPY NEW YEAR](https://www.reddit.com/r/Python/comments/18vhuba/happy_new_year/)
-- [Do You Ever del?](https://www.reddit.com/r/Python/comments/18vgrc9/do_you_ever_del/)
 <!-- BLOG-POST-LIST:END -->
