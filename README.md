@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PDFSyntax, a new Python API library to inspect and update PDF files](https://www.reddit.com/r/Python/comments/18w5zj3/pdfsyntax_a_new_python_api_library_to_inspect_and/)
+- [Transition to Python from Flutter](https://www.reddit.com/r/Python/comments/18w5lue/transition_to_python_from_flutter/)
 - [Yet another multidirectory/multirepository git runner.](https://www.reddit.com/r/Python/comments/18w4quj/yet_another_multidirectorymultirepository_git/)
-- [Best Paraphraser](https://www.reddit.com/r/Python/comments/18w4kw3/best_paraphraser/)
 - [PyPy has moved to GitHub](https://www.reddit.com/r/Python/comments/18w45u2/pypy_has_moved_to_github/)
 - [Get Surfline surf forecasts with python](https://www.reddit.com/r/Python/comments/18w31mr/get_surfline_surf_forecasts_with_python/)
-- [Revolucionando el Web Scraping con IA](https://www.reddit.com/r/Python/comments/18w30yz/revolucionando_el_web_scraping_con_ia/)
 <!-- BLOG-POST-LIST:END -->
