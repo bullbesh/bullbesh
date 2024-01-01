@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Get Surfline surf forecasts with python](https://www.reddit.com/r/Python/comments/18w31mr/get_surfline_surf_forecasts_with_python/)
+- [Revolucionando el Web Scraping con IA](https://www.reddit.com/r/Python/comments/18w30yz/revolucionando_el_web_scraping_con_ia/)
+- [Revolucionando el Web Scraping con IA](https://www.reddit.com/r/Python/comments/18w2y7c/revolucionando_el_web_scraping_con_ia/)
 - [Leetcode 455. Assign Cookies](https://www.reddit.com/r/Python/comments/18w24we/leetcode_455_assign_cookies/)
 - [6 different ways to clone or copy a list in python](https://www.reddit.com/r/Python/comments/18w1xco/6_different_ways_to_clone_or_copy_a_list_in_python/)
-- [I made a program that solves mazes from images!](https://www.reddit.com/r/Python/comments/18vz81t/i_made_a_program_that_solves_mazes_from_images/)
-- [Hypercorn 0.16.0 released - a WSGI/ASGI server supporting HTTP 1, 2, 3 and Websockets](https://www.reddit.com/r/Python/comments/18vxfyu/hypercorn_0160_released_a_wsgiasgi_server/)
-- [What is SLOW_SUM in the CPython source code?](https://www.reddit.com/r/Python/comments/18vv3aa/what_is_slow_sum_in_the_cpython_source_code/)
 <!-- BLOG-POST-LIST:END -->
