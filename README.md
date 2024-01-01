@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🔥 Top AI Newsletters of 2024 on Substack](https://www.reddit.com/r/Python/comments/18vv84b/top_ai_newsletters_of_2024_on_substack/)
+- [What is SLOW_SUM in the CPython source code?](https://www.reddit.com/r/Python/comments/18vv3aa/what_is_slow_sum_in_the_cpython_source_code/)
 - [I made a video showcasing the projects in 2023 using Python and Pygame!](https://www.reddit.com/r/Python/comments/18vtkcs/i_made_a_video_showcasing_the_projects_in_2023/)
 - [Retro Maze Code with a problem](https://www.reddit.com/r/Python/comments/18vswb9/retro_maze_code_with_a_problem/)
 - [chrono24 - a simple API wrapper for watch enthusiasts 🕒](https://www.reddit.com/r/Python/comments/18vpdsd/chrono24_a_simple_api_wrapper_for_watch/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/18vkgtu/monday_daily_thread_project_ideas/)
-- [Xmas decoration, part 2](https://www.reddit.com/r/Python/comments/18vi8wx/xmas_decoration_part_2/)
 <!-- BLOG-POST-LIST:END -->
