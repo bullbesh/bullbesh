@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [i made a ChatGPT bot for Telegram](https://www.reddit.com/r/Python/comments/18wq86m/i_made_a_chatgpt_bot_for_telegram/)
+- [🍀 How to Create Stunning Music Posters in Seconds: Introducing BeatPrints!](https://www.reddit.com/r/Python/comments/18wq7ru/how_to_create_stunning_music_posters_in_seconds/)
+- [Passed College Exam, Thank you!](https://www.reddit.com/r/Python/comments/18wpp43/passed_college_exam_thank_you/)
 - [Starting from nothing](https://www.reddit.com/r/Python/comments/18wovjl/starting_from_nothing/)
 - [New to coding](https://www.reddit.com/r/Python/comments/18worbd/new_to_coding/)
-- [What&#39;s your take on working in a tech company that doesn&#39;t use AWS/GCP/AZURE](https://www.reddit.com/r/Python/comments/18won1v/whats_your_take_on_working_in_a_tech_company_that/)
-- [Is there anyone who did restaurant application using Python classes and opencv](https://www.reddit.com/r/Python/comments/18wo3xn/is_there_anyone_who_did_restaurant_application/)
-- [I made a project to let Python engineers easily build Web GUI.](https://www.reddit.com/r/Python/comments/18wmujd/i_made_a_project_to_let_python_engineers_easily/)
 <!-- BLOG-POST-LIST:END -->
