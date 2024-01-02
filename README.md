@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hi, I am looking for a free service which can send SMS update to the users from my flask app. earlier i was using twillio, but it was a trial account worth only 14$ i guess, so i need a good alternative soon before that runs out. Thank you](https://www.reddit.com/r/Python/comments/18wrbgi/hi_i_am_looking_for_a_free_service_which_can_send/)
+- [I made an IDE using PyQt6 [UPDATE]](https://www.reddit.com/r/Python/comments/18wqxkm/i_made_an_ide_using_pyqt6_update/)
 - [i made a ChatGPT bot for Telegram](https://www.reddit.com/r/Python/comments/18wq86m/i_made_a_chatgpt_bot_for_telegram/)
 - [🍀 How to Create Stunning Music Posters in Seconds: Introducing BeatPrints!](https://www.reddit.com/r/Python/comments/18wq7ru/how_to_create_stunning_music_posters_in_seconds/)
 - [Passed College Exam, Thank you!](https://www.reddit.com/r/Python/comments/18wpp43/passed_college_exam_thank_you/)
-- [Starting from nothing](https://www.reddit.com/r/Python/comments/18wovjl/starting_from_nothing/)
-- [New to coding](https://www.reddit.com/r/Python/comments/18worbd/new_to_coding/)
 <!-- BLOG-POST-LIST:END -->
