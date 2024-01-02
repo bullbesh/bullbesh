@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Task](https://www.reddit.com/r/Python/comments/18wjum9/python_task/)
 - [Grasp the concept of list comprehension in python in detail](https://www.reddit.com/r/Python/comments/18wj41m/grasp_the_concept_of_list_comprehension_in_python/)
 - [Arrest v0.1.5 is released! Including a lot of new improvements based on the community feedback!](https://www.reddit.com/r/Python/comments/18whybi/arrest_v015_is_released_including_a_lot_of_new/)
 - [Hey Guys! Just went looking back at older projects and found this one, its a level editor/maker!](https://www.reddit.com/r/Python/comments/18wbx3k/hey_guys_just_went_looking_back_at_older_projects/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/18watqc/tuesday_daily_thread_advanced_questions/)
-- [Arezzo: Automatic polyphonic piano music transcription in Python](https://www.reddit.com/r/Python/comments/18wacbi/arezzo_automatic_polyphonic_piano_music/)
 <!-- BLOG-POST-LIST:END -->
