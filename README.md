@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a project to let Python engineers easily build Web GUI.](https://www.reddit.com/r/Python/comments/18wmujd/i_made_a_project_to_let_python_engineers_easily/)
+- [Method Chaining Technique with Python](https://www.reddit.com/r/Python/comments/18wmkzt/method_chaining_technique_with_python/)
+- [How to Create Stunning Music Posters in Seconds: Introducing BeatPrints! 🎨✨](https://www.reddit.com/r/Python/comments/18wmcjx/how_to_create_stunning_music_posters_in_seconds/)
 - [Leetcode 2610. Convert an Array Into a 2D Array With Conditions](https://www.reddit.com/r/Python/comments/18wlbmp/leetcode_2610_convert_an_array_into_a_2d_array/)
 - [Python Task](https://www.reddit.com/r/Python/comments/18wjum9/python_task/)
-- [Grasp the concept of list comprehension in python in detail](https://www.reddit.com/r/Python/comments/18wj41m/grasp_the_concept_of_list_comprehension_in_python/)
-- [Arrest v0.1.5 is released! Including a lot of new improvements based on the community feedback!](https://www.reddit.com/r/Python/comments/18whybi/arrest_v015_is_released_including_a_lot_of_new/)
-- [Hey Guys! Just went looking back at older projects and found this one, its a level editor/maker!](https://www.reddit.com/r/Python/comments/18wbx3k/hey_guys_just_went_looking_back_at_older_projects/)
 <!-- BLOG-POST-LIST:END -->
