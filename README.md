@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fastest Way to Read Excel in Python](https://www.reddit.com/r/Python/comments/18xitr3/fastest_way_to_read_excel_in_python/)
 - [Why developers prefer using python over other languages?](https://www.reddit.com/r/Python/comments/18xhjzj/why_developers_prefer_using_python_over_other/)
 - [How does the syntax of Python differ from Java?](https://www.reddit.com/r/Python/comments/18xgy6n/how_does_the_syntax_of_python_differ_from_java/)
 - [PyJigsaw: A Digital Jigsaw Puzzle Factory](https://www.reddit.com/r/Python/comments/18xglbx/pyjigsaw_a_digital_jigsaw_puzzle_factory/)
 - [Why Python is slower than Java?](https://www.reddit.com/r/Python/comments/18xfmq2/why_python_is_slower_than_java/)
-- [Python GUI framework for windows applications and embedded systems.](https://www.reddit.com/r/Python/comments/18xav2l/python_gui_framework_for_windows_applications_and/)
 <!-- BLOG-POST-LIST:END -->
