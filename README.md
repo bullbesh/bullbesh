@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Knuckledragger: Experimenting with a Python Proof Assistant](https://www.reddit.com/r/Python/comments/18xn6ne/knuckledragger_experimenting_with_a_python_proof/)
+- [Custom observer pattern or PyQt5 signals/slots?](https://www.reddit.com/r/Python/comments/18xn6m9/custom_observer_pattern_or_pyqt5_signalsslots/)
+- [Pickle Python Object Using the pickle Module](https://www.reddit.com/r/Python/comments/18xn2fz/pickle_python_object_using_the_pickle_module/)
 - [FIND Number of Laser Beams in a Bank - Leetcode 2125](https://www.reddit.com/r/Python/comments/18xktjm/find_number_of_laser_beams_in_a_bank_leetcode_2125/)
 - [llama.cpp GGUF inference in a couple lines of code](https://www.reddit.com/r/Python/comments/18xk9eo/llamacpp_gguf_inference_in_a_couple_lines_of_code/)
-- [I created a tool that helps Python engineers quickly build beautiful Web UIs.](https://www.reddit.com/r/Python/comments/18xjuqs/i_created_a_tool_that_helps_python_engineers/)
-- [Fastest Way to Read Excel in Python](https://www.reddit.com/r/Python/comments/18xitr3/fastest_way_to_read_excel_in_python/)
-- [Why developers prefer using python over other languages?](https://www.reddit.com/r/Python/comments/18xhjzj/why_developers_prefer_using_python_over_other/)
 <!-- BLOG-POST-LIST:END -->
