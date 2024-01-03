@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How does the syntax of Python differ from Java?](https://www.reddit.com/r/Python/comments/18xgy6n/how_does_the_syntax_of_python_differ_from_java/)
+- [PyJigsaw: A Digital Jigsaw Puzzle Factory](https://www.reddit.com/r/Python/comments/18xglbx/pyjigsaw_a_digital_jigsaw_puzzle_factory/)
 - [Why Python is slower than Java?](https://www.reddit.com/r/Python/comments/18xfmq2/why_python_is_slower_than_java/)
 - [Python GUI framework for windows applications and embedded systems.](https://www.reddit.com/r/Python/comments/18xav2l/python_gui_framework_for_windows_applications_and/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/18x4mfq/wednesday_daily_thread_beginner_questions/)
-- [Okay, I have this genuine question, why does Python allow hashing functions?](https://www.reddit.com/r/Python/comments/18x4kw6/okay_i_have_this_genuine_question_why_does_python/)
-- [I made an Educational Deep Learning Framework from scratch](https://www.reddit.com/r/Python/comments/18x097o/i_made_an_educational_deep_learning_framework/)
 <!-- BLOG-POST-LIST:END -->
