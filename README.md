@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [4 ways to convert a string to list of characters in python with examples](https://www.reddit.com/r/Python/comments/18xe1se/4_ways_to_convert_a_string_to_list_of_characters/)
+- [Why Python is slower than Java?](https://www.reddit.com/r/Python/comments/18xfmq2/why_python_is_slower_than_java/)
 - [Python GUI framework for windows applications and embedded systems.](https://www.reddit.com/r/Python/comments/18xav2l/python_gui_framework_for_windows_applications_and/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/18x4mfq/wednesday_daily_thread_beginner_questions/)
 - [Okay, I have this genuine question, why does Python allow hashing functions?](https://www.reddit.com/r/Python/comments/18x4kw6/okay_i_have_this_genuine_question_why_does_python/)
