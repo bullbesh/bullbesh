@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Check Out Flasknotes - A Flask Note-Taking Web App!](https://www.reddit.com/r/Python/comments/18y3x63/check_out_flasknotes_a_flask_notetaking_web_app/)
+- [Ezsynth -- Ebsynth Video Stylization as a Python Library.](https://www.reddit.com/r/Python/comments/18y13rv/ezsynth_ebsynth_video_stylization_as_a_python/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/18xydsg/thursday_daily_thread_python_careers_courses_and/)
 - [AWS Hosting Flask/Python Application on EC2 Instance](https://www.reddit.com/r/Python/comments/18xsn2l/aws_hosting_flaskpython_application_on_ec2/)
 - [Creating Financial Dashboards in Python with Solara](https://www.reddit.com/r/Python/comments/18xrg1n/creating_financial_dashboards_in_python_with/)
-- [Pydantic has too much deprecation, making it difficult to keep up with updates and maintaining the code. Lots of functionality has been renamed, and some are removed during v1→v2 transition. Even sample code from November 2023 is deprecated now! Are there better alternatives?](https://www.reddit.com/r/Python/comments/18xrc1y/pydantic_has_too_much_deprecation_making_it/)
-- [Fivetran API Client](https://www.reddit.com/r/Python/comments/18xozap/fivetran_api_client/)
 <!-- BLOG-POST-LIST:END -->
