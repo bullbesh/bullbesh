@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Clickstream Aggregation in Python with Redis](https://www.reddit.com/r/Python/comments/18yjjow/clickstream_aggregation_in_python_with_redis/)
+- [Will Code for Free](https://www.reddit.com/r/Python/comments/18yimj6/will_code_for_free/)
+- [GGUF LLAMA AI - Package for simplified text generation with Llama models quantized to GGUF format](https://www.reddit.com/r/Python/comments/18yijbp/gguf_llama_ai_package_for_simplified_text/)
 - [An AI Python Web app to analyze resumes](https://www.reddit.com/r/Python/comments/18yi41b/an_ai_python_web_app_to_analyze_resumes/)
 - [Statically enforcing frozen data classes in Python](https://www.reddit.com/r/Python/comments/18ybepc/statically_enforcing_frozen_data_classes_in_python/)
-- [Leetcode 2870. Minimum Number of Operations to Make Array Empty - Solutions](https://www.reddit.com/r/Python/comments/18y8wdx/leetcode_2870_minimum_number_of_operations_to/)
-- [Fast and secure routing development and OpenAPI bindings in sanic, flask, tornado, starlette](https://www.reddit.com/r/Python/comments/18y7t6j/fast_and_secure_routing_development_and_openapi/)
-- [Check Out Flasknotes - A Flask Note-Taking Web App!](https://www.reddit.com/r/Python/comments/18y3x63/check_out_flasknotes_a_flask_notetaking_web_app/)
 <!-- BLOG-POST-LIST:END -->
