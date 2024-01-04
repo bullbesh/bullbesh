@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Automated File Python Script](https://www.reddit.com/r/Python/comments/18yg1py/automated_file_python_script/)
+- [An AI Python Web app to analyze resumes](https://www.reddit.com/r/Python/comments/18yi41b/an_ai_python_web_app_to_analyze_resumes/)
 - [Statically enforcing frozen data classes in Python](https://www.reddit.com/r/Python/comments/18ybepc/statically_enforcing_frozen_data_classes_in_python/)
 - [Leetcode 2870. Minimum Number of Operations to Make Array Empty - Solutions](https://www.reddit.com/r/Python/comments/18y8wdx/leetcode_2870_minimum_number_of_operations_to/)
 - [Fast and secure routing development and OpenAPI bindings in sanic, flask, tornado, starlette](https://www.reddit.com/r/Python/comments/18y7t6j/fast_and_secure_routing_development_and_openapi/)
