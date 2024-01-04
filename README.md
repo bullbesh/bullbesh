@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automated File Python Script](https://www.reddit.com/r/Python/comments/18yg1py/automated_file_python_script/)
 - [Statically enforcing frozen data classes in Python](https://www.reddit.com/r/Python/comments/18ybepc/statically_enforcing_frozen_data_classes_in_python/)
 - [Leetcode 2870. Minimum Number of Operations to Make Array Empty - Solutions](https://www.reddit.com/r/Python/comments/18y8wdx/leetcode_2870_minimum_number_of_operations_to/)
 - [Fast and secure routing development and OpenAPI bindings in sanic, flask, tornado, starlette](https://www.reddit.com/r/Python/comments/18y7t6j/fast_and_secure_routing_development_and_openapi/)
 - [Check Out Flasknotes - A Flask Note-Taking Web App!](https://www.reddit.com/r/Python/comments/18y3x63/check_out_flasknotes_a_flask_notetaking_web_app/)
-- [Ezsynth -- Ebsynth Video Stylization as a Python Library.](https://www.reddit.com/r/Python/comments/18y13rv/ezsynth_ebsynth_video_stylization_as_a_python/)
 <!-- BLOG-POST-LIST:END -->
