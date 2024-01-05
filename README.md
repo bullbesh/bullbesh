@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [APIs are Expensive &lpar;and some of them suck&rpar;](https://www.reddit.com/r/Python/comments/18ze9i1/apis_are_expensive_and_some_of_them_suck/)
+- [Saving Metadata When Using Python Decorators | Jacob Padilla](https://www.reddit.com/r/Python/comments/18zexf0/saving_metadata_when_using_python_decorators/)
 - [SaaS app with Python ONLY &lpar;using Streamlit.io&rpar;!](https://www.reddit.com/r/Python/comments/18zd96g/saas_app_with_python_only_using_streamlitio/)
 - [Airport arrivals/departures - Handling the API data](https://www.reddit.com/r/Python/comments/18zb1fg/airport_arrivalsdepartures_handling_the_api_data/)
 - [MineSweeper Game in Python and Tkinter](https://www.reddit.com/r/Python/comments/18zaz6v/minesweeper_game_in_python_and_tkinter/)
