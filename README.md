@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Use case for virtual environments.](https://www.reddit.com/r/Python/comments/18z96vs/use_case_for_virtual_environments/)
+- [OpenAI playground as Discord bot](https://www.reddit.com/r/Python/comments/18z82ks/openai_playground_as_discord_bot/)
 - [Ask](https://www.reddit.com/r/Python/comments/18z7jk0/ask/)
 - [Why accessing python array from different perspective yield different runtime speed?](https://www.reddit.com/r/Python/comments/18z720s/why_accessing_python_array_from_different/)
 - [FIND Longest Increasing Subsequence - Leetcode 300 #dynamicprogramming](https://www.reddit.com/r/Python/comments/18z5rmq/find_longest_increasing_subsequence_leetcode_300/)
-- [Change text alignment in table header](https://www.reddit.com/r/Python/comments/18z5410/change_text_alignment_in_table_header/)
-- [Polars in Aggregate: A small subselection on what we have been working on.](https://www.reddit.com/r/Python/comments/18z2z8x/polars_in_aggregate_a_small_subselection_on_what/)
 <!-- BLOG-POST-LIST:END -->
