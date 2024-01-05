@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pyttsx3/pyPDF2 question.](https://www.reddit.com/r/Python/comments/18yu38n/pyttsx3pypdf2_question/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/18ys8mu/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Clickstream Aggregation in Python with Redis](https://www.reddit.com/r/Python/comments/18yjjow/clickstream_aggregation_in_python_with_redis/)
 - [Will Code for Free](https://www.reddit.com/r/Python/comments/18yimj6/will_code_for_free/)
 - [GGUF LLAMA AI - Package for simplified text generation with Llama models quantized to GGUF format](https://www.reddit.com/r/Python/comments/18yijbp/gguf_llama_ai_package_for_simplified_text/)
-- [An AI Python Web app to analyze resumes](https://www.reddit.com/r/Python/comments/18yi41b/an_ai_python_web_app_to_analyze_resumes/)
 <!-- BLOG-POST-LIST:END -->
