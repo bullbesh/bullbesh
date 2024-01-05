@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Airport arrivals/departures - Handling the API data](https://www.reddit.com/r/Python/comments/18zb1fg/airport_arrivalsdepartures_handling_the_api_data/)
+- [MineSweeper Game in Python and Tkinter](https://www.reddit.com/r/Python/comments/18zaz6v/minesweeper_game_in_python_and_tkinter/)
+- [Problems that haven&#39;t been solved](https://www.reddit.com/r/Python/comments/18zaw2h/problems_that_havent_been_solved/)
 - [Traktstats without premium](https://www.reddit.com/r/Python/comments/18zachx/traktstats_without_premium/)
 - [LLama.cpp AI reddit poster / commenter](https://www.reddit.com/r/Python/comments/18za06z/llamacpp_ai_reddit_poster_commenter/)
-- [Use case for virtual environments.](https://www.reddit.com/r/Python/comments/18z96vs/use_case_for_virtual_environments/)
-- [OpenAI playground as Discord bot](https://www.reddit.com/r/Python/comments/18z82ks/openai_playground_as_discord_bot/)
-- [Ask](https://www.reddit.com/r/Python/comments/18z7jk0/ask/)
 <!-- BLOG-POST-LIST:END -->
