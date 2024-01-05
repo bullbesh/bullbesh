@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Polars in Aggregate: A small subselection on what we have been working on.](https://www.reddit.com/r/Python/comments/18z2z8x/polars_in_aggregate_a_small_subselection_on_what/)
+- [Polars in Aggregate: A small subselection on where we have been working on.](https://www.reddit.com/r/Python/comments/18z2wp7/polars_in_aggregate_a_small_subselection_on_where/)
 - [Want to chat with AI using Google’s Gemini models? Check out this awesome Python template!](https://www.reddit.com/r/Python/comments/18z1ur4/want_to_chat_with_ai_using_googles_gemini_models/)
 - [Event Driven vs Loop Driven what&#39;s your preference?](https://www.reddit.com/r/Python/comments/18z08uh/event_driven_vs_loop_driven_whats_your_preference/)
 - [API Logic Server - Kafka Application Integration](https://www.reddit.com/r/Python/comments/18ywi8a/api_logic_server_kafka_application_integration/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/18ys8mu/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Clickstream Aggregation in Python with Redis](https://www.reddit.com/r/Python/comments/18yjjow/clickstream_aggregation_in_python_with_redis/)
 <!-- BLOG-POST-LIST:END -->
