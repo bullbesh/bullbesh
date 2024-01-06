@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Question for real devs](https://www.reddit.com/r/Python/comments/1906kh7/question_for_real_devs/)
 - [Astronomy / Space Science: Working on meteor data](https://www.reddit.com/r/Python/comments/1905n4g/astronomy_space_science_working_on_meteor_data/)
 - [MiniFirehose - A lightweight data buffering and delivery system](https://www.reddit.com/r/Python/comments/1900se3/minifirehose_a_lightweight_data_buffering_and/)
 - [Python Docker Monitor to test my skills](https://www.reddit.com/r/Python/comments/1900fxe/python_docker_monitor_to_test_my_skills/)
 - [FlaskyLMS - A Simple Leave Management System in Flask with Google Calendar Integration](https://www.reddit.com/r/Python/comments/18zy385/flaskylms_a_simple_leave_management_system_in/)
-- [How to write a python decorator &lpar;and why&rpar;](https://www.reddit.com/r/Python/comments/18zxxak/how_to_write_a_python_decorator_and_why/)
 <!-- BLOG-POST-LIST:END -->
