@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Explore protests in Berlin using python 🕊️](https://www.reddit.com/r/Python/comments/19111is/explore_protests_in_berlin_using_python/)
+- [DIY SaaS with Python &amp; Streamlit](https://www.reddit.com/r/Python/comments/1910de9/diy_saas_with_python_streamlit/)
 - [FIND Arithmetic Slices II - Subsequence - Leetcode 446 #dynamicprogramming](https://www.reddit.com/r/Python/comments/190qiuy/find_arithmetic_slices_ii_subsequence_leetcode/)
 - [gguf_modeldb - I&#39;ve created a package for handling llama2 gguf model data and models](https://www.reddit.com/r/Python/comments/190kbov/gguf_modeldb_ive_created_a_package_for_handling/)
 - [Summon a Genie🧞‍♂️ &lpar;Function Decorator&rpar; to Generate Agent Powered Function in Runtime](https://www.reddit.com/r/Python/comments/190j5le/summon_a_genie_function_decorator_to_generate/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/190e683/sunday_daily_thread_whats_everyone_working_on/)
-- [Astronomy / Space Science: Working on meteor data](https://www.reddit.com/r/Python/comments/1905n4g/astronomy_space_science_working_on_meteor_data/)
 <!-- BLOG-POST-LIST:END -->
