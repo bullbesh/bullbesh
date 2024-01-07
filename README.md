@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Engineering: The Definitive Step-By-Step How to Guide](https://www.reddit.com/r/Python/comments/1913y59/prompt_engineering_the_definitive_stepbystep_how/)
+- [BeautifulSoup Tutorial: Tennis Web Scraping Project](https://www.reddit.com/r/Python/comments/1913pwb/beautifulsoup_tutorial_tennis_web_scraping_project/)
 - [does PyCharm automatically save?](https://www.reddit.com/r/Python/comments/191290j/does_pycharm_automatically_save/)
 - [Explore protests in Berlin using python 🕊️](https://www.reddit.com/r/Python/comments/19111is/explore_protests_in_berlin_using_python/)
 - [DIY SaaS with Python &amp; Streamlit](https://www.reddit.com/r/Python/comments/1910de9/diy_saas_with_python_streamlit/)
-- [FIND Arithmetic Slices II - Subsequence - Leetcode 446 #dynamicprogramming](https://www.reddit.com/r/Python/comments/190qiuy/find_arithmetic_slices_ii_subsequence_leetcode/)
-- [gguf_modeldb - I&#39;ve created a package for handling llama2 gguf model data and models](https://www.reddit.com/r/Python/comments/190kbov/gguf_modeldb_ive_created_a_package_for_handling/)
 <!-- BLOG-POST-LIST:END -->
