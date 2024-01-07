@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [gguf_modeldb - I&#39;ve created a package for handling llama2 gguf model data and models](https://www.reddit.com/r/Python/comments/190kbov/gguf_modeldb_ive_created_a_package_for_handling/)
 - [Summon a Genie🧞‍♂️ &lpar;Function Decorator&rpar; to Generate Agent Powered Function in Runtime](https://www.reddit.com/r/Python/comments/190j5le/summon_a_genie_function_decorator_to_generate/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/190e683/sunday_daily_thread_whats_everyone_working_on/)
 - [Astronomy / Space Science: Working on meteor data](https://www.reddit.com/r/Python/comments/1905n4g/astronomy_space_science_working_on_meteor_data/)
 - [MiniFirehose - A lightweight data buffering and delivery system](https://www.reddit.com/r/Python/comments/1900se3/minifirehose_a_lightweight_data_buffering_and/)
-- [FlaskyLMS - A Simple Leave Management System in Flask with Google Calendar Integration](https://www.reddit.com/r/Python/comments/18zy385/flaskylms_a_simple_leave_management_system_in/)
 <!-- BLOG-POST-LIST:END -->
