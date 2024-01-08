@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking for contributions in Python code for the Smart Money Concept.](https://www.reddit.com/r/Python/comments/1918apq/looking_for_contributions_in_python_code_for_the/)
 - [did someone hit pycharm with a brick?](https://www.reddit.com/r/Python/comments/1917rxi/did_someone_hit_pycharm_with_a_brick/)
 - [Experience with Pycharm AI assistant? Is it worth the $?](https://www.reddit.com/r/Python/comments/19174cs/experience_with_pycharm_ai_assistant_is_it_worth/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1916taf/monday_daily_thread_project_ideas/)
 - [BeautifulSoup Tutorial: Tennis Web Scraping Project](https://www.reddit.com/r/Python/comments/1913pwb/beautifulsoup_tutorial_tennis_web_scraping_project/)
+- [DIY SaaS with Python &amp; Streamlit](https://www.reddit.com/r/Python/comments/1910de9/diy_saas_with_python_streamlit/)
 <!-- BLOG-POST-LIST:END -->
