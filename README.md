@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SQLAlchemy Migrations: Goodbye, Alembic. Hello, Atlas](https://www.reddit.com/r/Python/comments/191kuqx/sqlalchemy_migrations_goodbye_alembic_hello_atlas/)
 - [Reimagining Web APIs - Multilingual/ Rusty Web Servers ft Robyn](https://www.reddit.com/r/Python/comments/191js4v/reimagining_web_apis_multilingual_rusty_web/)
 - [network accessible relay controller library for raspi?](https://www.reddit.com/r/Python/comments/191ji1x/network_accessible_relay_controller_library_for/)
 - [FIND Range Sum of BST - Leetcode 938](https://www.reddit.com/r/Python/comments/191j60n/find_range_sum_of_bst_leetcode_938/)
 - [Advanced Magic Methods in Python To Customize Classes Conveniently](https://www.reddit.com/r/Python/comments/191h6ys/advanced_magic_methods_in_python_to_customize/)
-- [Why Python is slow and how to make it faster](https://www.reddit.com/r/Python/comments/191gmtm/why_python_is_slow_and_how_to_make_it_faster/)
 <!-- BLOG-POST-LIST:END -->
