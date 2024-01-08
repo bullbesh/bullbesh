@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Do people seriously use Flask for hosting a webapp/site](https://www.reddit.com/r/Python/comments/191vf73/do_people_seriously_use_flask_for_hosting_a/)
 - [How to deploy Flask to AWS?!](https://www.reddit.com/r/Python/comments/191omn8/how_to_deploy_flask_to_aws/)
 - [Build CLIs as wheels](https://www.reddit.com/r/Python/comments/191nvo1/build_clis_as_wheels/)
 - [SQLAlchemy Migrations: Goodbye, Alembic. Hello, Atlas](https://www.reddit.com/r/Python/comments/191kuqx/sqlalchemy_migrations_goodbye_alembic_hello_atlas/)
 - [Reimagining Web APIs - Multilingual/ Rusty Web Servers ft Robyn](https://www.reddit.com/r/Python/comments/191js4v/reimagining_web_apis_multilingual_rusty_web/)
+- [Reddit Realtime Streaming Pipeline](https://www.reddit.com/r/Python/comments/191j1vi/reddit_realtime_streaming_pipeline/)
 <!-- BLOG-POST-LIST:END -->
