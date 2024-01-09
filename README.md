@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [NumPy 2 is coming: preventing breakage, updating your code](https://www.reddit.com/r/Python/comments/192pccr/numpy_2_is_coming_preventing_breakage_updating/)
-- [Libs that people NEED to know about.](https://www.reddit.com/r/Python/comments/192p8nz/libs_that_people_need_to_know_about/)
-- [Is there a “best” random lib?](https://www.reddit.com/r/Python/comments/192nm2n/is_there_a_best_random_lib/)
+- [Visualizing Software Complexity with a 3D Force-Directed Graph](https://www.reddit.com/r/Python/comments/192ket2/visualizing_software_complexity_with_a_3d/)
 - [State pattern in Python in Todoist -&gt; Habitica One Way Sync app](https://www.reddit.com/r/Python/comments/192iz5b/state_pattern_in_python_in_todoist_habitica_one/)
 - [The biggest leap forward for HTTP clients in years](https://www.reddit.com/r/Python/comments/192g9bl/the_biggest_leap_forward_for_http_clients_in_years/)
+- [Python Web3 Development #1 - Building dApps with Python](https://www.reddit.com/r/Python/comments/192ewzp/python_web3_development_1_building_dapps_with/)
 <!-- BLOG-POST-LIST:END -->
