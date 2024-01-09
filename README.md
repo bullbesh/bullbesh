@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Structures and Information Retrieval](https://www.reddit.com/r/Python/comments/192c51v/data_structures_and_information_retrieval/)
 - [Breaking news: Python 3.13 gets a JIT compiler that will enable big optimizations in the future.](https://www.reddit.com/r/Python/comments/192b53m/breaking_news_python_313_gets_a_jit_compiler_that/)
 - [FIND Leaf-Similar Trees - Leetcode 872](https://www.reddit.com/r/Python/comments/192arqt/find_leafsimilar_trees_leetcode_872/)
 - [UltiBI quick and easy Pivot Tables UI](https://www.reddit.com/r/Python/comments/192aaxm/ultibi_quick_and_easy_pivot_tables_ui/)
 - [The Complete Python Requests Cheatsheet](https://www.reddit.com/r/Python/comments/1929b36/the_complete_python_requests_cheatsheet/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1920avu/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
