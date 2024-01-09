@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The biggest leap forward for HTTP clients in years](https://www.reddit.com/r/Python/comments/192g9bl/the_biggest_leap_forward_for_http_clients_in_years/)
 - [Python Web3 Development #1 - Building dApps with Python](https://www.reddit.com/r/Python/comments/192ewzp/python_web3_development_1_building_dapps_with/)
 - [Easiest Python Equivalent of MATLAB&#39;s App Designer?](https://www.reddit.com/r/Python/comments/192e0gj/easiest_python_equivalent_of_matlabs_app_designer/)
 - [Annotating args and kwargs in Python](https://www.reddit.com/r/Python/comments/192di4j/annotating_args_and_kwargs_in_python/)
 - [Polars now has a pola-rs/polars-xdt repository](https://www.reddit.com/r/Python/comments/192d6k5/polars_now_has_a_polarspolarsxdt_repository/)
-- [Data Structures and Information Retrieval](https://www.reddit.com/r/Python/comments/192c51v/data_structures_and_information_retrieval/)
 <!-- BLOG-POST-LIST:END -->
