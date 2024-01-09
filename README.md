@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Python Requests Cheatsheet](https://www.reddit.com/r/Python/comments/1929b36/the_complete_python_requests_cheatsheet/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1920avu/tuesday_daily_thread_advanced_questions/)
 - [[WIP] Pyglet Pen, a GUI extension for Pyglet &lpar;Feedback&rpar;](https://www.reddit.com/r/Python/comments/191zdx4/wip_pyglet_pen_a_gui_extension_for_pyglet_feedback/)
 - [How to deploy Flask to AWS?!](https://www.reddit.com/r/Python/comments/191omn8/how_to_deploy_flask_to_aws/)
 - [Build CLIs as wheels](https://www.reddit.com/r/Python/comments/191nvo1/build_clis_as_wheels/)
-- [SQLAlchemy Migrations: Goodbye, Alembic. Hello, Atlas](https://www.reddit.com/r/Python/comments/191kuqx/sqlalchemy_migrations_goodbye_alembic_hello_atlas/)
 <!-- BLOG-POST-LIST:END -->
