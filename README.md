@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Seeking Code Testers for New Python Package - CipherEngine](https://www.reddit.com/r/Python/comments/192vlil/seeking_code_testers_for_new_python_package/)
 - [Vine Archiver 2.0 [Python]](https://www.reddit.com/r/Python/comments/192u67e/vine_archiver_20_python/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/192tx0l/wednesday_daily_thread_beginner_questions/)
 - [NumPy 2 is coming: preventing breakage, updating your code](https://www.reddit.com/r/Python/comments/192pccr/numpy_2_is_coming_preventing_breakage_updating/)
 - [Visualizing Software Complexity with a 3D Force-Directed Graph](https://www.reddit.com/r/Python/comments/192ket2/visualizing_software_complexity_with_a_3d/)
+- [State pattern in Python in Todoist -&gt; Habitica One Way Sync app](https://www.reddit.com/r/Python/comments/192iz5b/state_pattern_in_python_in_todoist_habitica_one/)
 <!-- BLOG-POST-LIST:END -->
