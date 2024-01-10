@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built dashdeploy.io, an app to instantly turn your data scripts into web apps—just upload your script! No coding, servers, or setup required.](https://www.reddit.com/r/Python/comments/193i1qk/i_built_dashdeployio_an_app_to_instantly_turn/)
 - [Python mini game](https://www.reddit.com/r/Python/comments/193f7e8/python_mini_game/)
 - [dfllama - Access DeFi Analytics with the Defi Llama API Python Wrapper](https://www.reddit.com/r/Python/comments/193eyyo/dfllama_access_defi_analytics_with_the_defi_llama/)
 - [PEP 736 – Shorthand syntax for keyword arguments at invocation](https://www.reddit.com/r/Python/comments/1934p64/pep_736_shorthand_syntax_for_keyword_arguments_at/)
 - [Why hardware providers never provide APIs or code samples in Python?](https://www.reddit.com/r/Python/comments/1931p64/why_hardware_providers_never_provide_apis_or_code/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/192tx0l/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
