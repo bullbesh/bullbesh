@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [isolated-environment: Package Isolation Designed for AI app developers to prevent pytorch conflicts](https://www.reddit.com/r/Python/comments/194dd44/isolatedenvironment_package_isolation_designed/)
 - [Using epdb to debug distributed services](https://www.reddit.com/r/Python/comments/194bx2h/using_epdb_to_debug_distributed_services/)
 - [Any great PyTorch YouTube videos?](https://www.reddit.com/r/Python/comments/194bflw/any_great_pytorch_youtube_videos/)
 - [Draw2Img: draw on canvas to instantly create amazing graphics &amp; images](https://www.reddit.com/r/Python/comments/194a4z4/draw2img_draw_on_canvas_to_instantly_create/)
 - [The ideal REST API client in python](https://www.reddit.com/r/Python/comments/194789b/the_ideal_rest_api_client_in_python/)
-- [Anyone have examples of a Python visualisation package used to produce journalist-quality charts/infographics?](https://www.reddit.com/r/Python/comments/193y9wj/anyone_have_examples_of_a_python_visualisation/)
 <!-- BLOG-POST-LIST:END -->
