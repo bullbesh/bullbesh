@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI API Monitoring Strategies for Python Developers](https://www.reddit.com/r/Python/comments/193st7t/fastapi_api_monitoring_strategies_for_python/)
 - [Converting natural language prompts to python objects. Describe the desired format and prompt and it will automatically be generated. Use full for simplifying and automating lang-chain implementation. Please comment, or DM me feedback.](https://www.reddit.com/r/Python/comments/193ndxm/converting_natural_language_prompts_to_python/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/193ndb4/thursday_daily_thread_python_careers_courses_and/)
 - [Why are python dataclasses not JSON serializable?](https://www.reddit.com/r/Python/comments/193lp4s/why_are_python_dataclasses_not_json_serializable/)
 - [is reactive programming a thing in Python?](https://www.reddit.com/r/Python/comments/193jv0e/is_reactive_programming_a_thing_in_python/)
+- [GPT chat completion console app](https://www.reddit.com/r/Python/comments/193jpzf/gpt_chat_completion_console_app/)
 <!-- BLOG-POST-LIST:END -->
