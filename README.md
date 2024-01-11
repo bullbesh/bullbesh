@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [🌟 Embark on the Epic Quest for Eldoria - Join the Adventure Now! 🌟](https://www.reddit.com/r/Python/comments/1940t4c/embark_on_the_epic_quest_for_eldoria_join_the/)
+- [FastAPI Development GPT](https://www.reddit.com/r/Python/comments/194278l/fastapi_development_gpt/)
+- [Libraries/Packages for Blockchain/Defi](https://www.reddit.com/r/Python/comments/1941pbq/librariespackages_for_blockchaindefi/)
 - [Anyone have examples of a Python visualisation package used to produce journalist-quality charts/infographics?](https://www.reddit.com/r/Python/comments/193y9wj/anyone_have_examples_of_a_python_visualisation/)
 - [Converting natural language prompts to python objects. Describe the desired format and prompt and it will automatically be generated. Use full for simplifying and automating lang-chain implementation. Please comment, or DM me feedback.](https://www.reddit.com/r/Python/comments/193ndxm/converting_natural_language_prompts_to_python/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/193ndb4/thursday_daily_thread_python_careers_courses_and/)
-- [Why are python dataclasses not JSON serializable?](https://www.reddit.com/r/Python/comments/193lp4s/why_are_python_dataclasses_not_json_serializable/)
 <!-- BLOG-POST-LIST:END -->
