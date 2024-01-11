@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python if statement that will always run.](https://www.reddit.com/r/Python/comments/1945brh/python_if_statement_that_will_always_run/)
+- [[Video] Why Flask&lpar;__name__&rpar; is Used When Creating a Flask App?](https://www.reddit.com/r/Python/comments/1945nhw/video_why_flask_name_is_used_when_creating_a/)
 - [Libraries/Packages for Blockchain/Defi](https://www.reddit.com/r/Python/comments/1941pbq/librariespackages_for_blockchaindefi/)
 - [Anyone have examples of a Python visualisation package used to produce journalist-quality charts/infographics?](https://www.reddit.com/r/Python/comments/193y9wj/anyone_have_examples_of_a_python_visualisation/)
 - [Converting natural language prompts to python objects. Describe the desired format and prompt and it will automatically be generated. Use full for simplifying and automating lang-chain implementation. Please comment, or DM me feedback.](https://www.reddit.com/r/Python/comments/193ndxm/converting_natural_language_prompts_to_python/)
