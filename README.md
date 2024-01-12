@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What elements do I need to enhance my chances of securing a position as a Python/Django Developer?](https://www.reddit.com/r/Python/comments/194hoc8/what_elements_do_i_need_to_enhance_my_chances_of/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/194gpoz/friday_daily_thread_rpython_meta_and_freetalk/)
 - [isolated-environment: Package Isolation Designed for AI app developers to prevent pytorch conflicts](https://www.reddit.com/r/Python/comments/194dd44/isolatedenvironment_package_isolation_designed/)
 - [Using epdb to debug distributed services](https://www.reddit.com/r/Python/comments/194bx2h/using_epdb_to_debug_distributed_services/)
 - [Any great PyTorch YouTube videos?](https://www.reddit.com/r/Python/comments/194bflw/any_great_pytorch_youtube_videos/)
+- [Draw2Img: draw on canvas to instantly create amazing graphics &amp; images](https://www.reddit.com/r/Python/comments/194a4z4/draw2img_draw_on_canvas_to_instantly_create/)
 <!-- BLOG-POST-LIST:END -->
