@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Feedback Request: Confluent Kafka support added to FastStream v0.4.0rc0](https://www.reddit.com/r/Python/comments/194x95k/feedback_request_confluent_kafka_support_added_to/)
+- [Postgres vs. DynamoDB: Which Database to Choose for Your Python Applications](https://www.reddit.com/r/Python/comments/194wxaf/postgres_vs_dynamodb_which_database_to_choose_for/)
+- [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a free weekly news and project resource, please subscribe](https://www.reddit.com/r/Python/comments/194wkpl/the_python_on_microcontrollers_and_raspberry_pi/)
+- [Relative import error](https://www.reddit.com/r/Python/comments/194w4q6/relative_import_error/)
 - [Is there a library for discord user interface?](https://www.reddit.com/r/Python/comments/194vr7k/is_there_a_library_for_discord_user_interface/)
-- [Calling C Functions from Python](https://www.reddit.com/r/Python/comments/194uk9f/calling_c_functions_from_python/)
-- [Native mySQL/mariadb support](https://www.reddit.com/r/Python/comments/194tqgn/native_mysqlmariadb_support/)
-- [PEP 738: Adding Android as a supported platform](https://www.reddit.com/r/Python/comments/194t268/pep_738_adding_android_as_a_supported_platform/)
-- [QTCord: A Discord Client written in Python](https://www.reddit.com/r/Python/comments/194m81g/qtcord_a_discord_client_written_in_python/)
 <!-- BLOG-POST-LIST:END -->
