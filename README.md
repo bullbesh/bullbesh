@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Native mySQL/mariadb support](https://www.reddit.com/r/Python/comments/194tqgn/native_mysqlmariadb_support/)
+- [PEP 738: Adding Android as a supported platform](https://www.reddit.com/r/Python/comments/194t268/pep_738_adding_android_as_a_supported_platform/)
 - [QTCord: A Discord Client written in Python](https://www.reddit.com/r/Python/comments/194m81g/qtcord_a_discord_client_written_in_python/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/194gpoz/friday_daily_thread_rpython_meta_and_freetalk/)
 - [isolated-environment: Package Isolation Designed for AI app developers to prevent pytorch conflicts](https://www.reddit.com/r/Python/comments/194dd44/isolatedenvironment_package_isolation_designed/)
-- [Using epdb to debug distributed services](https://www.reddit.com/r/Python/comments/194bx2h/using_epdb_to_debug_distributed_services/)
-- [Draw2Img: draw on canvas to instantly create amazing graphics &amp; images](https://www.reddit.com/r/Python/comments/194a4z4/draw2img_draw_on_canvas_to_instantly_create/)
 <!-- BLOG-POST-LIST:END -->
