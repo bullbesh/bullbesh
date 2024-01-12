@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [what do you think of my password manager, do you think i should alter anything?](https://www.reddit.com/r/Python/comments/19571k2/what_do_you_think_of_my_password_manager_do_you/)
+- [When should and shouldn&#39;t I use np.frompyfunc&lpar;&rpar;?](https://www.reddit.com/r/Python/comments/1958o1l/when_should_and_shouldnt_i_use_npfrompyfunc/)
+- [PyVersionTracker Prject.](https://www.reddit.com/r/Python/comments/1957sse/pyversiontracker_prject/)
+- [Monads in Python](https://www.reddit.com/r/Python/comments/194zpmb/monads_in_python/)
 - [Which frontend framework?](https://www.reddit.com/r/Python/comments/194zasn/which_frontend_framework/)
 - [Maze generator in Python and Pygame](https://www.reddit.com/r/Python/comments/194ybxd/maze_generator_in_python_and_pygame/)
-- [Check out this cool video](https://www.reddit.com/r/Python/comments/194ybo5/check_out_this_cool_video/)
-- [Feedback Request: Confluent Kafka support added to FastStream v0.4.0rc0](https://www.reddit.com/r/Python/comments/194x95k/feedback_request_confluent_kafka_support_added_to/)
 <!-- BLOG-POST-LIST:END -->
