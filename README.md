@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Calling C Functions from Python](https://www.reddit.com/r/Python/comments/194uk9f/calling_c_functions_from_python/)
 - [Native mySQL/mariadb support](https://www.reddit.com/r/Python/comments/194tqgn/native_mysqlmariadb_support/)
 - [PEP 738: Adding Android as a supported platform](https://www.reddit.com/r/Python/comments/194t268/pep_738_adding_android_as_a_supported_platform/)
 - [QTCord: A Discord Client written in Python](https://www.reddit.com/r/Python/comments/194m81g/qtcord_a_discord_client_written_in_python/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/194gpoz/friday_daily_thread_rpython_meta_and_freetalk/)
-- [isolated-environment: Package Isolation Designed for AI app developers to prevent pytorch conflicts](https://www.reddit.com/r/Python/comments/194dd44/isolatedenvironment_package_isolation_designed/)
 <!-- BLOG-POST-LIST:END -->
