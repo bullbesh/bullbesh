@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Black in PSF](https://www.reddit.com/r/Python/comments/195jwde/why_black_in_psf/)
 - [What if we change a Streamlit Reactive approach to Event Driven approach?](https://www.reddit.com/r/Python/comments/195gl2s/what_if_we_change_a_streamlit_reactive_approach/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1959xjh/saturday_daily_thread_resource_request_and/)
 - [PyVersionTracker Prject.](https://www.reddit.com/r/Python/comments/1957sse/pyversiontracker_prject/)
 - [Monads in Python](https://www.reddit.com/r/Python/comments/194zpmb/monads_in_python/)
-- [Maze generator in Python and Pygame](https://www.reddit.com/r/Python/comments/194ybxd/maze_generator_in_python_and_pygame/)
 <!-- BLOG-POST-LIST:END -->
