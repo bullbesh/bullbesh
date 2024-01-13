@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Comparison Operators Explained Simply &lpar;Full Tutorial&rpar;](https://www.reddit.com/r/Python/comments/195wxfq/python_comparison_operators_explained_simply_full/)
 - [Do you prefer Mock or Dependency Injection when Unit Testing Functions in Python?](https://www.reddit.com/r/Python/comments/195uk6d/do_you_prefer_mock_or_dependency_injection_when/)
-- [Mastering Recursion: All Possible Full Binary Trees](https://www.reddit.com/r/Python/comments/195tcia/mastering_recursion_all_possible_full_binary_trees/)
 - [I made a D&amp;D point buy program in Python](https://www.reddit.com/r/Python/comments/195tbya/i_made_a_dd_point_buy_program_in_python/)
 - [I made a Ko-fi webhook wrapper](https://www.reddit.com/r/Python/comments/195sc8t/i_made_a_kofi_webhook_wrapper/)
 - [BQL - A Transpiler](https://www.reddit.com/r/Python/comments/195rxq3/bql_a_transpiler/)
