@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Recursion: All Possible Full Binary Trees](https://www.reddit.com/r/Python/comments/195tcia/mastering_recursion_all_possible_full_binary_trees/)
+- [I made a D&amp;D point buy program in Python](https://www.reddit.com/r/Python/comments/195tbya/i_made_a_dd_point_buy_program_in_python/)
 - [I made a Ko-fi webhook wrapper](https://www.reddit.com/r/Python/comments/195sc8t/i_made_a_kofi_webhook_wrapper/)
 - [BQL - A Transpiler](https://www.reddit.com/r/Python/comments/195rxq3/bql_a_transpiler/)
-- [I made an automatically updating overlay for league of legends streamers](https://www.reddit.com/r/Python/comments/195pep5/i_made_an_automatically_updating_overlay_for/)
 - [I shared a Python interview exercise video where I asked and solved coding interview questions](https://www.reddit.com/r/Python/comments/195pasm/i_shared_a_python_interview_exercise_video_where/)
-- [str split iterator. How to release](https://www.reddit.com/r/Python/comments/195pahw/str_split_iterator_how_to_release/)
 <!-- BLOG-POST-LIST:END -->
