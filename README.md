@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1959xjh/saturday_daily_thread_resource_request_and/)
 - [When should and shouldn&#39;t I use np.frompyfunc&lpar;&rpar;?](https://www.reddit.com/r/Python/comments/1958o1l/when_should_and_shouldnt_i_use_npfrompyfunc/)
 - [PyVersionTracker Prject.](https://www.reddit.com/r/Python/comments/1957sse/pyversiontracker_prject/)
 - [Monads in Python](https://www.reddit.com/r/Python/comments/194zpmb/monads_in_python/)
 - [Which frontend framework?](https://www.reddit.com/r/Python/comments/194zasn/which_frontend_framework/)
-- [Maze generator in Python and Pygame](https://www.reddit.com/r/Python/comments/194ybxd/maze_generator_in_python_and_pygame/)
 <!-- BLOG-POST-LIST:END -->
