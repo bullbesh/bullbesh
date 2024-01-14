@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Unleash the Power of Selenium: Dive into Chrome Options Configuration! 🐍✨ 🚀](https://www.reddit.com/r/Python/comments/196okhj/unleash_the_power_of_selenium_dive_into_chrome/)
 - [I made a Python Library for finding business e-mails and e-mail validation [MailScout]](https://www.reddit.com/r/Python/comments/196m3zx/i_made_a_python_library_for_finding_business/)
 - [Modern alternatives to Data Science Libraries like Polars with Pandas?](https://www.reddit.com/r/Python/comments/196jbms/modern_alternatives_to_data_science_libraries/)
 - [The LiteralString in Python 3.11](https://www.reddit.com/r/Python/comments/196i20a/the_literalstring_in_python_311/)
-- [HOW TO Determine if Two Strings Are Close - Leetcode 1657 - Leetcode Daily Challenge](https://www.reddit.com/r/Python/comments/196e1ma/how_to_determine_if_two_strings_are_close/)
 - [15 most watched talks from PyCon 2023 &lpar;US and AU&rpar;](https://www.reddit.com/r/Python/comments/196b3ak/15_most_watched_talks_from_pycon_2023_us_and_au/)
 <!-- BLOG-POST-LIST:END -->
