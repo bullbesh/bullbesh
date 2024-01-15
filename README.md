@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Project for Publish](https://www.reddit.com/r/Python/comments/1972iaa/python_project_for_publish/)
+- [Proxy and Mulithreading for Requests](https://www.reddit.com/r/Python/comments/19725k0/proxy_and_mulithreading_for_requests/)
 - [[Video] Configure Chrome Options | Selenium Tutorial for Beginners](https://www.reddit.com/r/Python/comments/196yitv/video_configure_chrome_options_selenium_tutorial/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/196ue84/monday_daily_thread_project_ideas/)
 - [Best practices for library configuration management](https://www.reddit.com/r/Python/comments/196sd4c/best_practices_for_library_configuration/)
-- [ConfigBase: A Typed, Compositional Configuration Library for ML](https://www.reddit.com/r/Python/comments/196q44g/configbase_a_typed_compositional_configuration/)
-- [I made a Python Library for finding business e-mails and e-mail validation [MailScout]](https://www.reddit.com/r/Python/comments/196m3zx/i_made_a_python_library_for_finding_business/)
 <!-- BLOG-POST-LIST:END -->
