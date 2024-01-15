@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Blog Template &lpar;Django + Bootstrap&rpar;](https://www.reddit.com/r/Python/comments/197b388/blog_template_django_bootstrap/)
 - [Memory Optimization Techniques for Python Developers](https://www.reddit.com/r/Python/comments/19789aq/memory_optimization_techniques_for_python/)
 - [Python library to convert photos into cartoon](https://www.reddit.com/r/Python/comments/1977jds/python_library_to_convert_photos_into_cartoon/)
 - [Input User in Python | input&lpar;&rpar; in Python](https://www.reddit.com/r/Python/comments/1977icm/input_user_in_python_input_in_python/)
 - [HOW TO Find Players With Zero or One Losses - Leetcode 2225](https://www.reddit.com/r/Python/comments/19774q9/how_to_find_players_with_zero_or_one_losses/)
-- [I&#39;m putting together a minimalist build system in Python, and this is the &quot;Hello World&quot; example. Thoughts?](https://www.reddit.com/r/Python/comments/1975xcu/im_putting_together_a_minimalist_build_system_in/)
 <!-- BLOG-POST-LIST:END -->
