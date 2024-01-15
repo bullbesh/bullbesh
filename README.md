@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python library to convert photos into cartoon](https://www.reddit.com/r/Python/comments/1977jds/python_library_to_convert_photos_into_cartoon/)
+- [Input User in Python | input&lpar;&rpar; in Python](https://www.reddit.com/r/Python/comments/1977icm/input_user_in_python_input_in_python/)
+- [HOW TO Find Players With Zero or One Losses - Leetcode 2225](https://www.reddit.com/r/Python/comments/19774q9/how_to_find_players_with_zero_or_one_losses/)
 - [I&#39;m putting together a minimalist build system in Python, and this is the &quot;Hello World&quot; example. Thoughts?](https://www.reddit.com/r/Python/comments/1975xcu/im_putting_together_a_minimalist_build_system_in/)
 - [Python Project for Publish](https://www.reddit.com/r/Python/comments/1972iaa/python_project_for_publish/)
-- [Proxy and Mulithreading for Requests](https://www.reddit.com/r/Python/comments/19725k0/proxy_and_mulithreading_for_requests/)
-- [[Video] Configure Chrome Options | Selenium Tutorial for Beginners](https://www.reddit.com/r/Python/comments/196yitv/video_configure_chrome_options_selenium_tutorial/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/196ue84/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
