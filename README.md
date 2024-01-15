@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing FishbowlPy: My first Open Source Project](https://www.reddit.com/r/Python/comments/197g56u/introducing_fishbowlpy_my_first_open_source/)
 - [Twitter Bot - NASA APOD Archive](https://www.reddit.com/r/Python/comments/197dfn8/twitter_bot_nasa_apod_archive/)
 - [Blog Template &lpar;Django + Bootstrap&rpar;](https://www.reddit.com/r/Python/comments/197b388/blog_template_django_bootstrap/)
 - [Memory Optimization Techniques for Python Developers](https://www.reddit.com/r/Python/comments/19789aq/memory_optimization_techniques_for_python/)
-- [I&#39;m putting together a minimalist build system in Python, and this is the &quot;Hello World&quot; example. Thoughts?](https://www.reddit.com/r/Python/comments/1975xcu/im_putting_together_a_minimalist_build_system_in/)
-- [Python Project for Publish](https://www.reddit.com/r/Python/comments/1972iaa/python_project_for_publish/)
+- [MadMath: GUI mental math trainer](https://www.reddit.com/r/Python/comments/1977xsi/madmath_gui_mental_math_trainer/)
 <!-- BLOG-POST-LIST:END -->
