@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a package to quickly serialise related data in Django Rest Framework.](https://www.reddit.com/r/Python/comments/198fyvc/i_wrote_a_package_to_quickly_serialise_related/)
 - [One billion row challenge - Dask vs. Spark](https://www.reddit.com/r/Python/comments/198f5vc/one_billion_row_challenge_dask_vs_spark/)
 - [Want a real-world example of recursion?](https://www.reddit.com/r/Python/comments/198dp2o/want_a_realworld_example_of_recursion/)
 - [Replicating a DuckDB Geospatial tutorial using the python library Ibis.](https://www.reddit.com/r/Python/comments/198ditm/replicating_a_duckdb_geospatial_tutorial_using/)
 - [Reflective Python library for composite data access and manipulation](https://www.reddit.com/r/Python/comments/198aiyo/reflective_python_library_for_composite_data/)
-- [Python Driver For Oracle Database Goes Asynchronous](https://www.reddit.com/r/Python/comments/1989miq/python_driver_for_oracle_database_goes/)
 <!-- BLOG-POST-LIST:END -->
