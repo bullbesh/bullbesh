@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Python good for game development?](https://www.reddit.com/r/Python/comments/1983qjt/is_python_good_for_game_development/)
+- [Hex Kolor my program](https://www.reddit.com/r/Python/comments/1983pex/hex_kolor_my_program/)
+- [symlink.py :- A simple symlinking tool similar to ln from gnu-coreutils but with more features](https://www.reddit.com/r/Python/comments/1983msh/symlinkpy_a_simple_symlinking_tool_similar_to_ln/)
+- [Can you use requests/sessions to log in to practically any website?](https://www.reddit.com/r/Python/comments/1983hg9/can_you_use_requestssessions_to_log_in_to/)
 - [Eschewing black box API calls](https://www.reddit.com/r/Python/comments/1981k6u/eschewing_black_box_api_calls/)
-- [Data Types in Python | Python Basic Course](https://www.reddit.com/r/Python/comments/197wtpr/data_types_in_python_python_basic_course/)
-- [https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/](https://www.reddit.com/r/Python/comments/197wrpx/httpschriswarrickcomblog20240115pythonpackagingone/)
-- [Getting it right with Python virtual environments](https://www.reddit.com/r/Python/comments/197wjnn/getting_it_right_with_python_virtual_environments/)
-- [isolated-environment 1.2.4 released - Internal venv management to fix AI dependency hell in python](https://www.reddit.com/r/Python/comments/197qnnz/isolatedenvironment_124_released_internal_venv/)
 <!-- BLOG-POST-LIST:END -->
