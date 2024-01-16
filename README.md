@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Driver For Oracle Database Goes Asynchronous](https://www.reddit.com/r/Python/comments/1989miq/python_driver_for_oracle_database_goes/)
 - [🐰 Bencher v0.4 Released: Continuous Benchmarking in Python](https://www.reddit.com/r/Python/comments/1987zgs/bencher_v04_released_continuous_benchmarking_in/)
 - [Cyclopts v2 released: A Typer-inspired CLI library, now with Groups, Pydantic support, and more!](https://www.reddit.com/r/Python/comments/1987cir/cyclopts_v2_released_a_typerinspired_cli_library/)
-- [BeautifulSoup: Getting content of page following requests.get&lpar;url&rpar;](https://www.reddit.com/r/Python/comments/19872th/beautifulsoup_getting_content_of_page_following/)
-- [Network route visualization using pyvista and osmnx](https://www.reddit.com/r/Python/comments/19866st/network_route_visualization_using_pyvista_and/)
-- [Image To TXT Converter](https://www.reddit.com/r/Python/comments/1985698/image_to_txt_converter/)
+- [Hex Kolor my program](https://www.reddit.com/r/Python/comments/1983pex/hex_kolor_my_program/)
+- [symlink.py :- A simple symlinking tool similar to ln from gnu-coreutils but with more features](https://www.reddit.com/r/Python/comments/1983msh/symlinkpy_a_simple_symlinking_tool_similar_to_ln/)
 <!-- BLOG-POST-LIST:END -->
