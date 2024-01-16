@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Types in Python | Python Basic Course](https://www.reddit.com/r/Python/comments/197wtpr/data_types_in_python_python_basic_course/)
+- [https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/](https://www.reddit.com/r/Python/comments/197wrpx/httpschriswarrickcomblog20240115pythonpackagingone/)
+- [Getting it right with Python virtual environments](https://www.reddit.com/r/Python/comments/197wjnn/getting_it_right_with_python_virtual_environments/)
 - [isolated-environment 1.2.4 released - Internal venv management to fix AI dependency hell in python](https://www.reddit.com/r/Python/comments/197qnnz/isolatedenvironment_124_released_internal_venv/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/197o9co/tuesday_daily_thread_advanced_questions/)
-- [Bluetooth in Python](https://www.reddit.com/r/Python/comments/197muzz/bluetooth_in_python/)
-- [SFTP Paramiko download to network share on Windows slow &lpar;solution&rpar;](https://www.reddit.com/r/Python/comments/197j8hc/sftp_paramiko_download_to_network_share_on/)
-- [Introducing FishbowlPy: My first Open Source Project](https://www.reddit.com/r/Python/comments/197g56u/introducing_fishbowlpy_my_first_open_source/)
 <!-- BLOG-POST-LIST:END -->
