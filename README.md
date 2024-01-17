@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Garbage collection in Python: things you need to know](https://www.reddit.com/r/Python/comments/199476l/garbage_collection_in_python_things_you_need_to/)
+- [AstraDB new API for data](https://www.reddit.com/r/Python/comments/1993up5/astradb_new_api_for_data/)
 - [PyCharm Community and Visual Studio Code for Python development tutorial](https://www.reddit.com/r/Python/comments/1991uw4/pycharm_community_and_visual_studio_code_for/)
 - [I completed Someone&#39;s decade year old github project while also improving it :&rpar;](https://www.reddit.com/r/Python/comments/1991qh8/i_completed_someones_decade_year_old_github/)
 - [Twitter Broadcast Downloader- Python](https://www.reddit.com/r/Python/comments/1990oc8/twitter_broadcast_downloader_python/)
-- [Python wrapper for free storage &amp; distribution api &lpar;gofile.io&rpar;](https://www.reddit.com/r/Python/comments/198z8ad/python_wrapper_for_free_storage_distribution_api/)
-- [Playing with 3D design/modelling in Python with a node-based interface - public domain Python node editor](https://www.reddit.com/r/Python/comments/198x5fk/playing_with_3d_designmodelling_in_python_with_a/)
 <!-- BLOG-POST-LIST:END -->
