@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Playing with 3D design/modelling in Python with a node-based interface - public domain Python node editor](https://www.reddit.com/r/Python/comments/198x5fk/playing_with_3d_designmodelling_in_python_with_a/)
+- [Pmml in Python](https://www.reddit.com/r/Python/comments/198wvfu/pmml_in_python/)
+- [Python Tool for Docx Tracked Change Comparisons](https://www.reddit.com/r/Python/comments/198wuja/python_tool_for_docx_tracked_change_comparisons/)
 - [Are local imports a good idea to speed up import time?](https://www.reddit.com/r/Python/comments/198vrtj/are_local_imports_a_good_idea_to_speed_up_import/)
 - [PriomptiPy - A python library to budget tokens and dynamically render prompts for LLMs](https://www.reddit.com/r/Python/comments/198v8fn/priomptipy_a_python_library_to_budget_tokens_and/)
-- [Caesar13 - A simple image stegongraphy tool written in Python 3](https://www.reddit.com/r/Python/comments/198v39a/caesar13_a_simple_image_stegongraphy_tool_written/)
-- [Secpass - A simple password manager written in Python 3](https://www.reddit.com/r/Python/comments/198v2sa/secpass_a_simple_password_manager_written_in/)
-- [Calling Python from .NET](https://www.reddit.com/r/Python/comments/198uguj/calling_python_from_net/)
 <!-- BLOG-POST-LIST:END -->
