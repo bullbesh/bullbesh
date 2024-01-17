@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyCharm Community and Visual Studio Code for Python development tutorial](https://www.reddit.com/r/Python/comments/1991uw4/pycharm_community_and_visual_studio_code_for/)
+- [I completed Someone&#39;s decade year old github project while also improving it :&rpar;](https://www.reddit.com/r/Python/comments/1991qh8/i_completed_someones_decade_year_old_github/)
+- [Twitter Broadcast Downloader- Python](https://www.reddit.com/r/Python/comments/1990oc8/twitter_broadcast_downloader_python/)
+- [Beware of misleading GPU vs CPU benchmarks](https://www.reddit.com/r/Python/comments/1990koe/beware_of_misleading_gpu_vs_cpu_benchmarks/)
 - [Python wrapper for free storage &amp; distribution api &lpar;gofile.io&rpar;](https://www.reddit.com/r/Python/comments/198z8ad/python_wrapper_for_free_storage_distribution_api/)
-- [Playing with 3D design/modelling in Python with a node-based interface - public domain Python node editor](https://www.reddit.com/r/Python/comments/198x5fk/playing_with_3d_designmodelling_in_python_with_a/)
-- [Python Tool for Docx Tracked Change Comparisons](https://www.reddit.com/r/Python/comments/198wuja/python_tool_for_docx_tracked_change_comparisons/)
-- [Are local imports a good idea to speed up import time?](https://www.reddit.com/r/Python/comments/198vrtj/are_local_imports_a_good_idea_to_speed_up_import/)
-- [PriomptiPy - A python library to budget tokens and dynamically render prompts for LLMs](https://www.reddit.com/r/Python/comments/198v8fn/priomptipy_a_python_library_to_budget_tokens_and/)
 <!-- BLOG-POST-LIST:END -->
