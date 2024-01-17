@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Showcase a generic transform library&lpar;https://github.com/finopsfoundation/focus_converters&rpar; written on top of polars.](https://www.reddit.com/r/Python/comments/198u4sa/showcase_a_generic_transform/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/198i643/wednesday_daily_thread_beginner_questions/)
 - [I wrote a package to quickly serialise related data in Django Rest Framework.](https://www.reddit.com/r/Python/comments/198fyvc/i_wrote_a_package_to_quickly_serialise_related/)
 - [One billion row challenge - Dask vs. Spark](https://www.reddit.com/r/Python/comments/198f5vc/one_billion_row_challenge_dask_vs_spark/)
 - [Want a real-world example of recursion?](https://www.reddit.com/r/Python/comments/198dp2o/want_a_realworld_example_of_recursion/)
-- [Replicating a DuckDB Geospatial tutorial using the python library Ibis.](https://www.reddit.com/r/Python/comments/198ditm/replicating_a_duckdb_geospatial_tutorial_using/)
 <!-- BLOG-POST-LIST:END -->
