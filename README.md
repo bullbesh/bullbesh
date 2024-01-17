@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are local imports a good idea to speed up import time?](https://www.reddit.com/r/Python/comments/198vrtj/are_local_imports_a_good_idea_to_speed_up_import/)
 - [PriomptiPy - A python library to budget tokens and dynamically render prompts for LLMs](https://www.reddit.com/r/Python/comments/198v8fn/priomptipy_a_python_library_to_budget_tokens_and/)
 - [Caesar13 - A simple image stegongraphy tool written in Python 3](https://www.reddit.com/r/Python/comments/198v39a/caesar13_a_simple_image_stegongraphy_tool_written/)
 - [Secpass - A simple password manager written in Python 3](https://www.reddit.com/r/Python/comments/198v2sa/secpass_a_simple_password_manager_written_in/)
 - [Calling Python from .NET](https://www.reddit.com/r/Python/comments/198uguj/calling_python_from_net/)
-- [Showcase a generic transform library&lpar;https://github.com/finopsfoundation/focus_converters&rpar; written on top of polars.](https://www.reddit.com/r/Python/comments/198u4sa/showcase_a_generic_transform/)
 <!-- BLOG-POST-LIST:END -->
