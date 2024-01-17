@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PriomptiPy - A python library to budget tokens and dynamically render prompts for LLMs](https://www.reddit.com/r/Python/comments/198v8fn/priomptipy_a_python_library_to_budget_tokens_and/)
+- [Caesar13 - A simple image stegongraphy tool written in Python 3](https://www.reddit.com/r/Python/comments/198v39a/caesar13_a_simple_image_stegongraphy_tool_written/)
+- [Secpass - A simple password manager written in Python 3](https://www.reddit.com/r/Python/comments/198v2sa/secpass_a_simple_password_manager_written_in/)
+- [Calling Python from .NET](https://www.reddit.com/r/Python/comments/198uguj/calling_python_from_net/)
 - [Showcase a generic transform library&lpar;https://github.com/finopsfoundation/focus_converters&rpar; written on top of polars.](https://www.reddit.com/r/Python/comments/198u4sa/showcase_a_generic_transform/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/198i643/wednesday_daily_thread_beginner_questions/)
-- [I wrote a package to quickly serialise related data in Django Rest Framework.](https://www.reddit.com/r/Python/comments/198fyvc/i_wrote_a_package_to_quickly_serialise_related/)
-- [One billion row challenge - Dask vs. Spark](https://www.reddit.com/r/Python/comments/198f5vc/one_billion_row_challenge_dask_vs_spark/)
-- [Want a real-world example of recursion?](https://www.reddit.com/r/Python/comments/198dp2o/want_a_realworld_example_of_recursion/)
 <!-- BLOG-POST-LIST:END -->
