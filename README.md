@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [👉 New Awesome Polars release! What&#39;s new in the world of Polars in the last weeks ? Let&#39;s find out! 🚀](https://www.reddit.com/r/Python/comments/1997v67/new_awesome_polars_release_whats_new_in_the_world/)
+- [I wrote mathler solver, here are my thoughts after](https://www.reddit.com/r/Python/comments/1997duh/i_wrote_mathler_solver_here_are_my_thoughts_after/)
 - [Stream a folder to YouTube Live](https://www.reddit.com/r/Python/comments/1995jej/stream_a_folder_to_youtube_live/)
 - [Garbage collection in Python: things you need to know](https://www.reddit.com/r/Python/comments/199476l/garbage_collection_in_python_things_you_need_to/)
 - [AstraDB new API for data](https://www.reddit.com/r/Python/comments/1993up5/astradb_new_api_for_data/)
-- [PyCharm Community and Visual Studio Code for Python development tutorial](https://www.reddit.com/r/Python/comments/1991uw4/pycharm_community_and_visual_studio_code_for/)
-- [I completed Someone&#39;s decade year old github project while also improving it :&rpar;](https://www.reddit.com/r/Python/comments/1991qh8/i_completed_someones_decade_year_old_github/)
 <!-- BLOG-POST-LIST:END -->
