@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building BLE web application with Python Flask and BleuIO](https://www.reddit.com/r/Python/comments/199lk6h/building_ble_web_application_with_python_flask/)
 - [VMware Honeypot - A Python Project 🛡️🐍](https://www.reddit.com/r/Python/comments/199cdol/vmware_honeypot_a_python_project/)
 - [A script to retrieve information about a domain passed as an argument](https://www.reddit.com/r/Python/comments/199c6pa/a_script_to_retrieve_information_about_a_domain/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/199bx4k/thursday_daily_thread_python_careers_courses_and/)
 - [I wrote mathler solver, here are my thoughts after](https://www.reddit.com/r/Python/comments/1997duh/i_wrote_mathler_solver_here_are_my_thoughts_after/)
-- [Stream a folder to YouTube Live](https://www.reddit.com/r/Python/comments/1995jej/stream_a_folder_to_youtube_live/)
 <!-- BLOG-POST-LIST:END -->
