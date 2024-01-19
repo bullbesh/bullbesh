@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dask Demo Day: Apache Beam on Dask, expressions for Dask Array, and 1BRC for Dask vs Spark](https://www.reddit.com/r/Python/comments/19a54s2/dask_demo_day_apache_beam_on_dask_expressions_for/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/19a50xv/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Python module to facilitate the generation of custom JSON API nodes for Node-RED](https://www.reddit.com/r/Python/comments/199pw6c/python_module_to_facilitate_the_generation_of/)
 - [Building BLE web application with Python Flask and BleuIO](https://www.reddit.com/r/Python/comments/199lk6h/building_ble_web_application_with_python_flask/)
 - [VMware Honeypot - A Python Project 🛡️🐍](https://www.reddit.com/r/Python/comments/199cdol/vmware_honeypot_a_python_project/)
-- [A script to retrieve information about a domain passed as an argument](https://www.reddit.com/r/Python/comments/199c6pa/a_script_to_retrieve_information_about_a_domain/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/199bx4k/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
