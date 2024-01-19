@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [In python everything&#39;s public, so I made a minimal `dir&lpar;&rpar;` to better see object&#39;s custom attributes.](https://www.reddit.com/r/Python/comments/19as0h5/in_python_everythings_public_so_i_made_a_minimal/)
 - [WebGPU in Python: YouTube Video Series &lpar;1&rpar;](https://www.reddit.com/r/Python/comments/19aqho5/webgpu_in_python_youtube_video_series_1/)
 - [PathFinding Visualizer in Python and Tkinter](https://www.reddit.com/r/Python/comments/19aoazk/pathfinding_visualizer_in_python_and_tkinter/)
 - [Made a color pretty printer which auto-generates a label before the value.](https://www.reddit.com/r/Python/comments/19altb9/made_a_color_pretty_printer_which_autogenerates_a/)
 - [I shared a Python &lpar;Pandas - Matplotlib - Seaborn&rpar; Data Analysis project on YouTube](https://www.reddit.com/r/Python/comments/19alocc/i_shared_a_python_pandas_matplotlib_seaborn_data/)
-- [Simple League of Legends solo queue simulator made in Python](https://www.reddit.com/r/Python/comments/19aljup/simple_league_of_legends_solo_queue_simulator/)
 <!-- BLOG-POST-LIST:END -->
