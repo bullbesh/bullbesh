@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why x[0:1] slice 0 index, not 0 AND 1th?](https://www.reddit.com/r/Python/comments/19amty6/why_x01_slice_0_index_not_0_and_1th/)
+- [How to Read and Remove Metadata from Your Photos With Python](https://www.reddit.com/r/Python/comments/19anv2r/how_to_read_and_remove_metadata_from_your_photos/)
 - [Made a color pretty printer which auto-generates a label before the value.](https://www.reddit.com/r/Python/comments/19altb9/made_a_color_pretty_printer_which_autogenerates_a/)
 - [I shared a Python &lpar;Pandas - Matplotlib - Seaborn&rpar; Data Analysis project on YouTube](https://www.reddit.com/r/Python/comments/19alocc/i_shared_a_python_pandas_matplotlib_seaborn_data/)
 - [Deploy Streamlit on a VPS and Proxy to Cloudflare Tunnels](https://www.reddit.com/r/Python/comments/19ahtsl/deploy_streamlit_on_a_vps_and_proxy_to_cloudflare/)
