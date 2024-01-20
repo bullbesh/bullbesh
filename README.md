@@ -12,5 +12,5 @@
 - [Fivetran API Client](https://www.reddit.com/r/Python/comments/19be0p2/fivetran_api_client/)
 - [Review on pyscript](https://www.reddit.com/r/Python/comments/19bab8p/review_on_pyscript/)
 - [A Weekend Python Project: Running Speech Recognition and a LLaMA-2 GPT on a Raspberry Pi](https://www.reddit.com/r/Python/comments/19b8s88/a_weekend_python_project_running_speech/)
-- [Stockstir, a tool to instantly gather any company stock price from any Python script at no cost, includes a new codebase in V2.1.0!](https://www.reddit.com/r/Python/comments/19b4tn8/stockstir_a_tool_to_instantly_gather_any_company/)
+- [SVM Classifier in Python using Numpy &lpar;Video &amp; GitHub&rpar;](https://www.reddit.com/r/Python/comments/19b7fua/svm_classifier_in_python_using_numpy_video_github/)
 <!-- BLOG-POST-LIST:END -->
