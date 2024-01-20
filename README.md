@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Markdown to simplify Python building web applications](https://www.reddit.com/r/Python/comments/19be6v4/using_markdown_to_simplify_python_building_web/)
 - [Fivetran API Client](https://www.reddit.com/r/Python/comments/19be0p2/fivetran_api_client/)
-- [Review on pyscript](https://www.reddit.com/r/Python/comments/19bab8p/review_on_pyscript/)
 - [A Weekend Python Project: Running Speech Recognition and a LLaMA-2 GPT on a Raspberry Pi](https://www.reddit.com/r/Python/comments/19b8s88/a_weekend_python_project_running_speech/)
 - [SVM Classifier in Python using Numpy &lpar;Video &amp; GitHub&rpar;](https://www.reddit.com/r/Python/comments/19b7fua/svm_classifier_in_python_using_numpy_video_github/)
+- [Project](https://www.reddit.com/r/Python/comments/19b4j33/project/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/19axwh4/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
