@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Join this discord to show off your projects!](https://www.reddit.com/r/Python/comments/19bq9og/join_this_discord_to_show_off_your_projects/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/19bpsou/sunday_daily_thread_whats_everyone_working_on/)
 - [Fivetran API Client](https://www.reddit.com/r/Python/comments/19be0p2/fivetran_api_client/)
 - [SVM Classifier in Python using Numpy &lpar;Video &amp; GitHub&rpar;](https://www.reddit.com/r/Python/comments/19b7fua/svm_classifier_in_python_using_numpy_video_github/)
 - [Project](https://www.reddit.com/r/Python/comments/19b4j33/project/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/19axwh4/saturday_daily_thread_resource_request_and/)
-- [In python everything&#39;s public, so I made a minimal `dir&lpar;&rpar;` to better see object&#39;s custom attributes.](https://www.reddit.com/r/Python/comments/19as0h5/in_python_everythings_public_so_i_made_a_minimal/)
 <!-- BLOG-POST-LIST:END -->
