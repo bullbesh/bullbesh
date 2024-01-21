@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploding multiple columns that have varying element lengths](https://www.reddit.com/r/Python/comments/19cdu8a/exploding_multiple_columns_that_have_varying/)
+- [Reddit activity confuser and auto import/export subreddits script](https://www.reddit.com/r/Python/comments/19cdgdh/reddit_activity_confuser_and_auto_importexport/)
 - [Showcasing a Flask like framework for uvicorn, Feedback needed](https://www.reddit.com/r/Python/comments/19c9vqd/showcasing_a_flask_like_framework_for_uvicorn/)
 - [Open Models - Revolutionizing AI Interaction with a Unique Twist](https://www.reddit.com/r/Python/comments/19c75x7/open_models_revolutionizing_ai_interaction_with_a/)
 - [Go to variable names?](https://www.reddit.com/r/Python/comments/19bzs8o/go_to_variable_names/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/19bpsou/sunday_daily_thread_whats_everyone_working_on/)
-- [Fivetran API Client](https://www.reddit.com/r/Python/comments/19be0p2/fivetran_api_client/)
 <!-- BLOG-POST-LIST:END -->
