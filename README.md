@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Showcasing my recent project. NHL-Tracker.](https://www.reddit.com/r/Python/comments/19cf91l/showcasing_my_recent_project_nhltracker/)
+- [toc - Generate a table of contents from the comments of a file](https://www.reddit.com/r/Python/comments/19cf55k/toc_generate_a_table_of_contents_from_the/)
+- [Should i do what my programing teacher is telling me to do in the asignment or do it different but so it dosent suck?](https://www.reddit.com/r/Python/comments/19ce1aq/should_i_do_what_my_programing_teacher_is_telling/)
 - [Exploding multiple columns that have varying element lengths](https://www.reddit.com/r/Python/comments/19cdu8a/exploding_multiple_columns_that_have_varying/)
 - [Reddit activity confuser and auto import/export subreddits script](https://www.reddit.com/r/Python/comments/19cdgdh/reddit_activity_confuser_and_auto_importexport/)
-- [Showcasing a Flask like framework for uvicorn, Feedback needed](https://www.reddit.com/r/Python/comments/19c9vqd/showcasing_a_flask_like_framework_for_uvicorn/)
-- [Open Models - Revolutionizing AI Interaction with a Unique Twist](https://www.reddit.com/r/Python/comments/19c75x7/open_models_revolutionizing_ai_interaction_with_a/)
-- [Go to variable names?](https://www.reddit.com/r/Python/comments/19bzs8o/go_to_variable_names/)
 <!-- BLOG-POST-LIST:END -->
