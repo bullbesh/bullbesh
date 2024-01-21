@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s he Worst Code You Seen](https://www.reddit.com/r/Python/comments/19bym28/whats_he_worst_code_you_seen/)
-- [For and while loops, please tell me what on earth I’m missing here](https://www.reddit.com/r/Python/comments/19bxrj9/for_and_while_loops_please_tell_me_what_on_earth/)
-- [Python librery for Garmin GPS .img maps](https://www.reddit.com/r/Python/comments/19busod/python_librery_for_garmin_gps_img_maps/)
-- [Join this discord to show off your projects!](https://www.reddit.com/r/Python/comments/19bq9og/join_this_discord_to_show_off_your_projects/)
+- [Go to variable names?](https://www.reddit.com/r/Python/comments/19bzs8o/go_to_variable_names/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/19bpsou/sunday_daily_thread_whats_everyone_working_on/)
+- [Fivetran API Client](https://www.reddit.com/r/Python/comments/19be0p2/fivetran_api_client/)
+- [SVM Classifier in Python using Numpy &lpar;Video &amp; GitHub&rpar;](https://www.reddit.com/r/Python/comments/19b7fua/svm_classifier_in_python_using_numpy_video_github/)
+- [Project](https://www.reddit.com/r/Python/comments/19b4j33/project/)
 <!-- BLOG-POST-LIST:END -->
