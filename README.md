@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Selenium secure?](https://www.reddit.com/r/Python/comments/19c27c2/is_selenium_secure/)
 - [Go to variable names?](https://www.reddit.com/r/Python/comments/19bzs8o/go_to_variable_names/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/19bpsou/sunday_daily_thread_whats_everyone_working_on/)
 - [Fivetran API Client](https://www.reddit.com/r/Python/comments/19be0p2/fivetran_api_client/)
 - [SVM Classifier in Python using Numpy &lpar;Video &amp; GitHub&rpar;](https://www.reddit.com/r/Python/comments/19b7fua/svm_classifier_in_python_using_numpy_video_github/)
-- [Project](https://www.reddit.com/r/Python/comments/19b4j33/project/)
 <!-- BLOG-POST-LIST:END -->
