@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My capstone project: Virtual agent &lpar;chatbot&rpar; using open Artificial Intelligence](https://www.reddit.com/r/Python/comments/19cpgoq/my_capstone_project_virtual_agent_chatbot_using/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/19chv16/monday_daily_thread_project_ideas/)
 - [Python plotting lib that plots into numpy array, vectorized &lpar;not a single loop&rpar;](https://www.reddit.com/r/Python/comments/19cfgei/python_plotting_lib_that_plots_into_numpy_array/)
 - [Showcasing my recent project. NHL-Tracker.](https://www.reddit.com/r/Python/comments/19cf91l/showcasing_my_recent_project_nhltracker/)
 - [toc - Generate a table of contents from the comments of a file](https://www.reddit.com/r/Python/comments/19cf55k/toc_generate_a_table_of_contents_from_the/)
-- [Reddit activity confuser and auto import/export subreddits script](https://www.reddit.com/r/Python/comments/19cdgdh/reddit_activity_confuser_and_auto_importexport/)
 <!-- BLOG-POST-LIST:END -->
