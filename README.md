@@ -11,6 +11,6 @@
 - [DotEnvHub - Terminal .env file manager using Textual](https://www.reddit.com/r/Python/comments/19dqkkz/dotenvhub_terminal_env_file_manager_using_textual/)
 - [I put together a simple python function to print a histogram as unicode text ▁▂▄█▆▃▁▁](https://www.reddit.com/r/Python/comments/19dpj61/i_put_together_a_simple_python_function_to_print/)
 - [Scrapping data from quora ?](https://www.reddit.com/r/Python/comments/19dpdx4/scrapping_data_from_quora/)
-- [Interesting Practical Challenges](https://www.reddit.com/r/Python/comments/19dp0su/interesting_practical_challenges/)
 - [Asyncio Event Hub - A library for creating event loops within Asyncio framework](https://www.reddit.com/r/Python/comments/19do7qg/asyncio_event_hub_a_library_for_creating_event/)
+- [Open Source OCR software](https://www.reddit.com/r/Python/comments/19dnrat/open_source_ocr_software/)
 <!-- BLOG-POST-LIST:END -->
