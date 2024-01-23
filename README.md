@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interesting Practical Challenges](https://www.reddit.com/r/Python/comments/19dp0su/interesting_practical_challenges/)
 - [Asyncio Event Hub - A library for creating event loops within Asyncio framework](https://www.reddit.com/r/Python/comments/19do7qg/asyncio_event_hub_a_library_for_creating_event/)
 - [Open Source OCR software](https://www.reddit.com/r/Python/comments/19dnrat/open_source_ocr_software/)
 - [How I debug Python code with a Time Travel Debugger](https://www.reddit.com/r/Python/comments/19dmyjz/how_i_debug_python_code_with_a_time_travel/)
 - [Mock interview practice questions for a Python developer role](https://www.reddit.com/r/Python/comments/19djqko/mock_interview_practice_questions_for_a_python/)
-- [Game Emulators in Python](https://www.reddit.com/r/Python/comments/19dit92/game_emulators_in_python/)
 <!-- BLOG-POST-LIST:END -->
