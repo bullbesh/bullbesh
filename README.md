@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mock interview practice questions for a Python developer role](https://www.reddit.com/r/Python/comments/19djqko/mock_interview_practice_questions_for_a_python/)
 - [Game Emulators in Python](https://www.reddit.com/r/Python/comments/19dit92/game_emulators_in_python/)
 - [Partition method of Python strings](https://www.reddit.com/r/Python/comments/19dh05n/partition_method_of_python_strings/)
 - [filequery 0.2.3 - query CSV, JSON and Parquet files with SQL](https://www.reddit.com/r/Python/comments/19dfvjk/filequery_023_query_csv_json_and_parquet_files/)
 - [finagg - a libary for aggregating free financial data](https://www.reddit.com/r/Python/comments/19de7e3/finagg_a_libary_for_aggregating_free_financial/)
-- [We created a script that will animate the hue of a still image across N frames](https://www.reddit.com/r/Python/comments/19dcjy8/we_created_a_script_that_will_animate_the_hue_of/)
 <!-- BLOG-POST-LIST:END -->
