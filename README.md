@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Upskill Yourself](https://www.reddit.com/r/Python/comments/19dne1t/upskill_yourself/)
+- [How I debug Python code with a Time Travel Debugger](https://www.reddit.com/r/Python/comments/19dmyjz/how_i_debug_python_code_with_a_time_travel/)
 - [Mock interview practice questions for a Python developer role](https://www.reddit.com/r/Python/comments/19djqko/mock_interview_practice_questions_for_a_python/)
 - [Game Emulators in Python](https://www.reddit.com/r/Python/comments/19dit92/game_emulators_in_python/)
 - [Partition method of Python strings](https://www.reddit.com/r/Python/comments/19dh05n/partition_method_of_python_strings/)
-- [filequery 0.2.3 - query CSV, JSON and Parquet files with SQL](https://www.reddit.com/r/Python/comments/19dfvjk/filequery_023_query_csv_json_and_parquet_files/)
-- [finagg - a libary for aggregating free financial data](https://www.reddit.com/r/Python/comments/19de7e3/finagg_a_libary_for_aggregating_free_financial/)
 <!-- BLOG-POST-LIST:END -->
