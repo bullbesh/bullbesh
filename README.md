@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Commenting Preferences](https://www.reddit.com/r/Python/comments/19ejd2s/commenting_preferences/)
+- [cfdp-py: A file transfer protocol for space applications](https://www.reddit.com/r/Python/comments/19ekhzo/cfdppy_a_file_transfer_protocol_for_space/)
+- [Scheduled Python Jobs with Prefect and Coiled](https://www.reddit.com/r/Python/comments/19ek2ws/scheduled_python_jobs_with_prefect_and_coiled/)
 - [A fully typed configparser implemented using dataclasses](https://www.reddit.com/r/Python/comments/19efyab/a_fully_typed_configparser_implemented_using/)
 - [New package: FastHX - FastAPI and HTMX the right way](https://www.reddit.com/r/Python/comments/19eeeh4/new_package_fasthx_fastapi_and_htmx_the_right_way/)
 - [A primer on vector search using Pinecone Serverless](https://www.reddit.com/r/Python/comments/19edx1c/a_primer_on_vector_search_using_pinecone/)
-- [Python-Type-Challenges: master Python typing &lpar;type hints&rpar; with online exercises](https://www.reddit.com/r/Python/comments/19ecfpm/pythontypechallenges_master_python_typing_type/)
 <!-- BLOG-POST-LIST:END -->
