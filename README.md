@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New package: FastHX - FastAPI and HTMX the right way](https://www.reddit.com/r/Python/comments/19eeeh4/new_package_fasthx_fastapi_and_htmx_the_right_way/)
+- [A primer on vector search using Pinecone Serverless](https://www.reddit.com/r/Python/comments/19edx1c/a_primer_on_vector_search_using_pinecone/)
 - [Python-Type-Challenges: master Python typing &lpar;type hints&rpar; with online exercises](https://www.reddit.com/r/Python/comments/19ecfpm/pythontypechallenges_master_python_typing_type/)
 - [A Google Docs HTML Cleaner In Python!](https://www.reddit.com/r/Python/comments/19e7ahr/a_google_docs_html_cleaner_in_python/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/19e3416/wednesday_daily_thread_beginner_questions/)
-- [Get Charts From Non Searchable PDFs - My API Is Up](https://www.reddit.com/r/Python/comments/19e2agm/get_charts_from_non_searchable_pdfs_my_api_is_up/)
-- [Made a project about Head Pose Estimation and had a lot of fun!](https://www.reddit.com/r/Python/comments/19dx2og/made_a_project_about_head_pose_estimation_and_had/)
 <!-- BLOG-POST-LIST:END -->
