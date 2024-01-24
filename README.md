@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Google Docs HTML Cleaner In Python!](https://www.reddit.com/r/Python/comments/19e7ahr/a_google_docs_html_cleaner_in_python/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/19e3416/wednesday_daily_thread_beginner_questions/)
 - [Get Charts From Non Searchable PDFs - My API Is Up](https://www.reddit.com/r/Python/comments/19e2agm/get_charts_from_non_searchable_pdfs_my_api_is_up/)
 - [Made a project about Head Pose Estimation and had a lot of fun!](https://www.reddit.com/r/Python/comments/19dx2og/made_a_project_about_head_pose_estimation_and_had/)
 - [Introducing Phidata: Build AI Assistants using LLM function calling](https://www.reddit.com/r/Python/comments/19dupn3/introducing_phidata_build_ai_assistants_using_llm/)
-- [DotEnvHub - Terminal .env file manager using Textual](https://www.reddit.com/r/Python/comments/19dqkkz/dotenvhub_terminal_env_file_manager_using_textual/)
 <!-- BLOG-POST-LIST:END -->
