@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Listen to YouTube music directly from your terminal!](https://www.reddit.com/r/Python/comments/19eu278/listen_to_youtube_music_directly_from_your/)
+- [Different index and value_counts output using 3.11 vs 3.10](https://www.reddit.com/r/Python/comments/19ety95/different_index_and_value_counts_output_using_311/)
+- [The Cowboy Coder&#39;s Handbook: Unlocking the Secrets to Job Security by Writing Code Only You Can Understand!](https://www.reddit.com/r/Python/comments/19etjtd/the_cowboy_coders_handbook_unlocking_the_secrets/)
 - [Collaborate with me on Ocotffers: Automate job search](https://www.reddit.com/r/Python/comments/19erd9u/collaborate_with_me_on_ocotffers_automate_job/)
 - [Selenium ActionChains send_keys can’t handle emojis](https://www.reddit.com/r/Python/comments/19eq5mk/selenium_actionchains_send_keys_cant_handle_emojis/)
-- [cfdp-py: A file transfer protocol for space applications](https://www.reddit.com/r/Python/comments/19ekhzo/cfdppy_a_file_transfer_protocol_for_space/)
-- [Scheduled Python Jobs with Prefect and Coiled](https://www.reddit.com/r/Python/comments/19ek2ws/scheduled_python_jobs_with_prefect_and_coiled/)
-- [A fully typed configparser implemented using dataclasses](https://www.reddit.com/r/Python/comments/19efyab/a_fully_typed_configparser_implemented_using/)
 <!-- BLOG-POST-LIST:END -->
