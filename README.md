@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Price for a script](https://www.reddit.com/r/Python/comments/19f2bne/price_for_a_script/)
+- [Report Emailing using GMAIL api in Python](https://www.reddit.com/r/Python/comments/19f1zqp/report_emailing_using_gmail_api_in_python/)
 - [Is this ordered chaos](https://www.reddit.com/r/Python/comments/19f1f1s/is_this_ordered_chaos/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/19evglz/thursday_daily_thread_python_careers_courses_and/)
 - [Listen to YouTube music directly from your terminal!](https://www.reddit.com/r/Python/comments/19eu278/listen_to_youtube_music_directly_from_your/)
-- [Different index and value_counts output using 3.11 vs 3.10](https://www.reddit.com/r/Python/comments/19ety95/different_index_and_value_counts_output_using_311/)
-- [The Cowboy Coder&#39;s Handbook: Unlocking the Secrets to Job Security by Writing Code Only You Can Understand!](https://www.reddit.com/r/Python/comments/19etjtd/the_cowboy_coders_handbook_unlocking_the_secrets/)
 <!-- BLOG-POST-LIST:END -->
