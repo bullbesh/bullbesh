@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ssebowa: An Open-Source Python Library for Generative AI](https://www.reddit.com/r/Python/comments/19f44nf/ssebowa_an_opensource_python_library_for/)
+- [Payload incomplete - Async](https://www.reddit.com/r/Python/comments/19f3pte/payload_incomplete_async/)
 - [Gen AI 75 Hard Challenge](https://www.reddit.com/r/Python/comments/19f3bd6/gen_ai_75_hard_challenge/)
 - [Price for a script](https://www.reddit.com/r/Python/comments/19f2bne/price_for_a_script/)
 - [Report Emailing using GMAIL api in Python](https://www.reddit.com/r/Python/comments/19f1zqp/report_emailing_using_gmail_api_in_python/)
-- [Is this ordered chaos](https://www.reddit.com/r/Python/comments/19f1f1s/is_this_ordered_chaos/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/19evglz/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
