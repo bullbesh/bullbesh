@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dockerize poetry applications](https://www.reddit.com/r/Python/comments/19faorm/dockerize_poetry_applications/)
+- [Resources for rusty professionals?](https://www.reddit.com/r/Python/comments/19famda/resources_for_rusty_professionals/)
 - [Quart-Schema 0.19 released with support for attrs, msgspec, and pydnatic.](https://www.reddit.com/r/Python/comments/19f82vv/quartschema_019_released_with_support_for_attrs/)
 - [Best exploratory data analysis platform/IDE for Python?](https://www.reddit.com/r/Python/comments/19f5mpg/best_exploratory_data_analysis_platformide_for/)
 - [Ssebowa: An Open-Source Python Library for Generative AI](https://www.reddit.com/r/Python/comments/19f44nf/ssebowa_an_opensource_python_library_for/)
-- [Gen AI 75 Hard Challenge](https://www.reddit.com/r/Python/comments/19f3bd6/gen_ai_75_hard_challenge/)
-- [Price for a script](https://www.reddit.com/r/Python/comments/19f2bne/price_for_a_script/)
 <!-- BLOG-POST-LIST:END -->
