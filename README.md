@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s talk about python 3.12&#39;s new Type Parameter Syntax.](https://www.reddit.com/r/Python/comments/1abeh3u/lets_talk_about_python_312s_new_type_parameter/)
 - [Small neat shell python imports utility - pyimps](https://www.reddit.com/r/Python/comments/1abacsy/small_neat_shell_python_imports_utility_pyimps/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/19fnsfg/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Json and dict handling lib - dictor](https://www.reddit.com/r/Python/comments/19fnb39/json_and_dict_handling_lib_dictor/)
 - [New tool: Zapy REST Client - A postman alternative made of Python technologies](https://www.reddit.com/r/Python/comments/19fd3j1/new_tool_zapy_rest_client_a_postman_alternative/)
-- [Dockerize poetry applications](https://www.reddit.com/r/Python/comments/19faorm/dockerize_poetry_applications/)
 <!-- BLOG-POST-LIST:END -->
