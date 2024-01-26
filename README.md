@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [If you are on Linux and work with virtual environments, consider adding this to your .bashrc](https://www.reddit.com/r/Python/comments/1abrb32/if_you_are_on_linux_and_work_with_virtual/)
-- [SaaS with ONLY python is now possible!](https://www.reddit.com/r/Python/comments/1abordf/saas_with_only_python_is_now_possible/)
 - [New Python Library: Ssebowa Provides Generative models](https://www.reddit.com/r/Python/comments/1abmqux/new_python_library_ssebowa_provides_generative/)
 - [I wrote mathler solver - this time it solves live version](https://www.reddit.com/r/Python/comments/1ablfbp/i_wrote_mathler_solver_this_time_it_solves_live/)
 - [This is not interview advice: a priority-expiry LRU cache without heaps or trees in Python](https://www.reddit.com/r/Python/comments/1abke3d/this_is_not_interview_advice_a_priorityexpiry_lru/)
+- [Classical vs. London schools of unit testing](https://www.reddit.com/r/Python/comments/1abg3vf/classical_vs_london_schools_of_unit_testing/)
 <!-- BLOG-POST-LIST:END -->
