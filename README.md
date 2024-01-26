@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Bacula](https://www.reddit.com/r/Python/comments/1abkgyh/bacula/)
+- [I wrote mathler solver - this time it solves live version](https://www.reddit.com/r/Python/comments/1ablfbp/i_wrote_mathler_solver_this_time_it_solves_live/)
 - [This is not interview advice: a priority-expiry LRU cache without heaps or trees in Python](https://www.reddit.com/r/Python/comments/1abke3d/this_is_not_interview_advice_a_priorityexpiry_lru/)
 - [Classical vs. London schools of unit testing](https://www.reddit.com/r/Python/comments/1abg3vf/classical_vs_london_schools_of_unit_testing/)
 - [Let&#39;s talk about python 3.12&#39;s new Type Parameter Syntax.](https://www.reddit.com/r/Python/comments/1abeh3u/lets_talk_about_python_312s_new_type_parameter/)
