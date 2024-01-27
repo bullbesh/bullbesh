@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Leapcell: A Better Alternative for Heroku + Airtable for Python](https://www.reddit.com/r/Python/comments/1acfzbi/leapcell_a_better_alternative_for_heroku_airtable/)
 - [Book recommendations for Python Best Practices?](https://www.reddit.com/r/Python/comments/1acdspu/book_recommendations_for_python_best_practices/)
 - [Apache OpenDAL™, a Rust library with Python-bindings for accessing data freely, is now graduated and in search for GSoC 2024 projects!](https://www.reddit.com/r/Python/comments/1acd650/apache_opendal_a_rust_library_with_pythonbindings/)
 - [Why Python’s “slowness” is not slowing anyone down](https://www.reddit.com/r/Python/comments/1acd5j0/why_pythons_slowness_is_not_slowing_anyone_down/)
 - [ezgpt - An easy and intuitive interface for OpenAI&#39;s GPT API](https://www.reddit.com/r/Python/comments/1accc3e/ezgpt_an_easy_and_intuitive_interface_for_openais/)
-- [Create an ai image generating app using Ssebowa](https://www.reddit.com/r/Python/comments/1ac8xsm/create_an_ai_image_generating_app_using_ssebowa/)
 <!-- BLOG-POST-LIST:END -->
