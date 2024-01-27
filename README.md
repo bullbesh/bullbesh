@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [If you are on Linux and work with virtual environments, consider adding this to your .bashrc](https://www.reddit.com/r/Python/comments/1abrb32/if_you_are_on_linux_and_work_with_virtual/)
-- [New Python Library: Ssebowa Provides Generative models](https://www.reddit.com/r/Python/comments/1abmqux/new_python_library_ssebowa_provides_generative/)
-- [I wrote mathler solver - this time it solves live version](https://www.reddit.com/r/Python/comments/1ablfbp/i_wrote_mathler_solver_this_time_it_solves_live/)
-- [This is not interview advice: a priority-expiry LRU cache without heaps or trees in Python](https://www.reddit.com/r/Python/comments/1abke3d/this_is_not_interview_advice_a_priorityexpiry_lru/)
-- [Classical vs. London schools of unit testing](https://www.reddit.com/r/Python/comments/1abg3vf/classical_vs_london_schools_of_unit_testing/)
+- [A django starter kit for python enthusiasts](https://www.reddit.com/r/Python/comments/1aby8gj/a_django_starter_kit_for_python_enthusiasts/)
+- [CoreAPI is a lightweight framework that runs on rust](https://www.reddit.com/r/Python/comments/1abxhux/coreapi_is_a_lightweight_framework_that_runs_on/)
+- [U](https://www.reddit.com/r/Python/comments/1abxejc/u/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1abwzoh/saturday_daily_thread_resource_request_and/)
+- [FastCRUD - Powerful CRUD methods and automatic endpoint creation for FastAPI](https://www.reddit.com/r/Python/comments/1abwqni/fastcrud_powerful_crud_methods_and_automatic/)
 <!-- BLOG-POST-LIST:END -->
