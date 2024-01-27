@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Book recommendations for Python Best Practices?](https://www.reddit.com/r/Python/comments/1acdspu/book_recommendations_for_python_best_practices/)
+- [Apache OpenDAL™, a Rust library with Python-bindings for accessing data freely, is now graduated and in search for GSoC 2024 projects!](https://www.reddit.com/r/Python/comments/1acd650/apache_opendal_a_rust_library_with_pythonbindings/)
+- [Why Python’s “slowness” is not slowing anyone down](https://www.reddit.com/r/Python/comments/1acd5j0/why_pythons_slowness_is_not_slowing_anyone_down/)
 - [ezgpt - An easy and intuitive interface for OpenAI&#39;s GPT API](https://www.reddit.com/r/Python/comments/1accc3e/ezgpt_an_easy_and_intuitive_interface_for_openais/)
-- [Apache OpenDAL™, a library for accessing data freely, is now graduated and in search for GSoC 2024 projects!](https://www.reddit.com/r/Python/comments/1aca2mk/apache_opendal_a_library_for_accessing_data/)
 - [Create an ai image generating app using Ssebowa](https://www.reddit.com/r/Python/comments/1ac8xsm/create_an_ai_image_generating_app_using_ssebowa/)
-- [there is a library, base class, reflection to not use the keyword self](https://www.reddit.com/r/Python/comments/1ac8sjq/there_is_a_library_base_class_reflection_to_not/)
-- [Playing around with Ultra HDR](https://www.reddit.com/r/Python/comments/1ac8ooy/playing_around_with_ultra_hdr/)
 <!-- BLOG-POST-LIST:END -->
