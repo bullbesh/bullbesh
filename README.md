@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Patching pydantic settings in pytest](https://www.reddit.com/r/Python/comments/1ac6aq2/patching_pydantic_settings_in_pytest/)
 - [PyCon Pakistan 24](https://www.reddit.com/r/Python/comments/1ac5yzp/pycon_pakistan_24/)
 - [Anyone used match case yet?](https://www.reddit.com/r/Python/comments/1ac5xnu/anyone_used_match_case_yet/)
 - [Python version of the endless &quot;brick breaker&quot; game](https://www.reddit.com/r/Python/comments/1abzri7/python_version_of_the_endless_brick_breaker_game/)
 - [CoreAPI is a lightweight framework that runs on rust](https://www.reddit.com/r/Python/comments/1abxhux/coreapi_is_a_lightweight_framework_that_runs_on/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1abwzoh/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
