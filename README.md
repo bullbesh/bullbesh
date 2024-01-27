@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache OpenDAL™, a library for accessing data freely, is now graduated and in search for GSoC 2024 projects!](https://www.reddit.com/r/Python/comments/1aca2mk/apache_opendal_a_library_for_accessing_data/)
 - [Create an ai image generating app using Ssebowa](https://www.reddit.com/r/Python/comments/1ac8xsm/create_an_ai_image_generating_app_using_ssebowa/)
 - [there is a library, base class, reflection to not use the keyword self](https://www.reddit.com/r/Python/comments/1ac8sjq/there_is_a_library_base_class_reflection_to_not/)
 - [Playing around with Ultra HDR](https://www.reddit.com/r/Python/comments/1ac8ooy/playing_around_with_ultra_hdr/)
 - [pathit - Just show me my PATH in way I can read it](https://www.reddit.com/r/Python/comments/1ac7fao/pathit_just_show_me_my_path_in_way_i_can_read_it/)
-- [Patching pydantic settings in pytest](https://www.reddit.com/r/Python/comments/1ac6aq2/patching_pydantic_settings_in_pytest/)
 <!-- BLOG-POST-LIST:END -->
