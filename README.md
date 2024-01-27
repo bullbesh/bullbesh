@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create an ai image generating app using Ssebowa](https://www.reddit.com/r/Python/comments/1ac8xsm/create_an_ai_image_generating_app_using_ssebowa/)
+- [there is a library, base class, reflection to not use the keyword self](https://www.reddit.com/r/Python/comments/1ac8sjq/there_is_a_library_base_class_reflection_to_not/)
+- [Playing around with Ultra HDR](https://www.reddit.com/r/Python/comments/1ac8ooy/playing_around_with_ultra_hdr/)
 - [pathit - Just show me my PATH in way I can read it](https://www.reddit.com/r/Python/comments/1ac7fao/pathit_just_show_me_my_path_in_way_i_can_read_it/)
 - [Patching pydantic settings in pytest](https://www.reddit.com/r/Python/comments/1ac6aq2/patching_pydantic_settings_in_pytest/)
-- [PyCon Pakistan 24](https://www.reddit.com/r/Python/comments/1ac5yzp/pycon_pakistan_24/)
-- [Anyone used match case yet?](https://www.reddit.com/r/Python/comments/1ac5xnu/anyone_used_match_case_yet/)
-- [Python version of the endless &quot;brick breaker&quot; game](https://www.reddit.com/r/Python/comments/1abzri7/python_version_of_the_endless_brick_breaker_game/)
 <!-- BLOG-POST-LIST:END -->
