@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Projecting Statewide Election with a Single County&#39;s Data](https://www.reddit.com/r/Python/comments/1adc583/projecting_statewide_election_with_a_single/)
 - [CoreAPI now supports pydantic validation as an optional requirement](https://www.reddit.com/r/Python/comments/1adb20a/coreapi_now_supports_pydantic_validation_as_an/)
 - [Flask-Muck v0.3.0 - Flask extension, OpenAPI/Swagger UI generation and Pydantic support](https://www.reddit.com/r/Python/comments/1ad7z6c/flaskmuck_v030_flask_extension_openapiswagger_ui/)
 - [I made a follow-up package, scikit-multilearn-ng, to the widely used scikit-multilearn package for multilabel et. al. classification](https://www.reddit.com/r/Python/comments/1ad4qnx/i_made_a_followup_package_scikitmultilearnng_to/)
 - [What are the coolest Python automaton projects that you know of?](https://www.reddit.com/r/Python/comments/1ad1stw/what_are_the_coolest_python_automaton_projects/)
-- [I made a SQL query builder in python](https://www.reddit.com/r/Python/comments/1acqoi0/i_made_a_sql_query_builder_in_python/)
 <!-- BLOG-POST-LIST:END -->
