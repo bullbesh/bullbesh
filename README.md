@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Flask-Muck v0.3.0 - Flask extension, OpenAPI/Swagger UI generation and Pydantic support](https://www.reddit.com/r/Python/comments/1ad7z6c/flaskmuck_v030_flask_extension_openapiswagger_ui/)
-- [Are there any AI tools recommendations for Python Automation Development &lpar;preferably using Pycharm&rpar;?](https://www.reddit.com/r/Python/comments/1ad63s1/are_there_any_ai_tools_recommendations_for_python/)
-- [I need suggestions](https://www.reddit.com/r/Python/comments/1ad4vrz/i_need_suggestions/)
 - [What are the coolest Python automaton projects that you know of?](https://www.reddit.com/r/Python/comments/1ad1stw/what_are_the_coolest_python_automaton_projects/)
 - [I made a SQL query builder in python](https://www.reddit.com/r/Python/comments/1acqoi0/i_made_a_sql_query_builder_in_python/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1acow4g/sunday_daily_thread_whats_everyone_working_on/)
+- [AbstractAPI Python SDK](https://www.reddit.com/r/Python/comments/1acnug5/abstractapi_python_sdk/)
 <!-- BLOG-POST-LIST:END -->
