@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Projecting Statewide Election with a Single County&#39;s Data](https://www.reddit.com/r/Python/comments/1adc583/projecting_statewide_election_with_a_single/)
+- [I bypass API Rate limiters with my self-made proxy relay](https://www.reddit.com/r/Python/comments/1adeibn/i_bypass_api_rate_limiters_with_my_selfmade_proxy/)
 - [CoreAPI now supports pydantic validation as an optional requirement](https://www.reddit.com/r/Python/comments/1adb20a/coreapi_now_supports_pydantic_validation_as_an/)
 - [Flask-Muck v0.3.0 - Flask extension, OpenAPI/Swagger UI generation and Pydantic support](https://www.reddit.com/r/Python/comments/1ad7z6c/flaskmuck_v030_flask_extension_openapiswagger_ui/)
 - [I made a follow-up package, scikit-multilearn-ng, to the widely used scikit-multilearn package for multilabel et. al. classification](https://www.reddit.com/r/Python/comments/1ad4qnx/i_made_a_followup_package_scikitmultilearnng_to/)
