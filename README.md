@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a SQL query builder in python](https://www.reddit.com/r/Python/comments/1acqoi0/i_made_a_sql_query_builder_in_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1acow4g/sunday_daily_thread_whats_everyone_working_on/)
 - [Leapcell: A Better Alternative for Heroku + Airtable for Python](https://www.reddit.com/r/Python/comments/1acfzbi/leapcell_a_better_alternative_for_heroku_airtable/)
 - [Apache OpenDAL™, a Rust library with Python-bindings for accessing data freely, is now graduated and in search for GSoC 2024 projects!](https://www.reddit.com/r/Python/comments/1acd650/apache_opendal_a_rust_library_with_pythonbindings/)
 - [Why Python’s “slowness” is not slowing anyone down](https://www.reddit.com/r/Python/comments/1acd5j0/why_pythons_slowness_is_not_slowing_anyone_down/)
-- [ezgpt - An easy and intuitive interface for OpenAI&#39;s GPT API](https://www.reddit.com/r/Python/comments/1accc3e/ezgpt_an_easy_and_intuitive_interface_for_openais/)
 <!-- BLOG-POST-LIST:END -->
