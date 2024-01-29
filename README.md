@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1adh77h/monday_daily_thread_project_ideas/)
+- [Tkinter-desinger alternatives](https://www.reddit.com/r/Python/comments/1adghgw/tkinterdesinger_alternatives/)
 - [I bypass API Rate limiters with my self-made proxy relay](https://www.reddit.com/r/Python/comments/1adeibn/i_bypass_api_rate_limiters_with_my_selfmade_proxy/)
 - [CoreAPI now supports pydantic validation as an optional requirement](https://www.reddit.com/r/Python/comments/1adb20a/coreapi_now_supports_pydantic_validation_as_an/)
 - [Flask-Muck v0.3.0 - Flask extension, OpenAPI/Swagger UI generation and Pydantic support](https://www.reddit.com/r/Python/comments/1ad7z6c/flaskmuck_v030_flask_extension_openapiswagger_ui/)
-- [I made a follow-up package, scikit-multilearn-ng, to the widely used scikit-multilearn package for multilabel et. al. classification](https://www.reddit.com/r/Python/comments/1ad4qnx/i_made_a_followup_package_scikitmultilearnng_to/)
-- [What are the coolest Python automaton projects that you know of?](https://www.reddit.com/r/Python/comments/1ad1stw/what_are_the_coolest_python_automaton_projects/)
 <!-- BLOG-POST-LIST:END -->
