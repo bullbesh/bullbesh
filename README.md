@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nederlandse hulp gevraagd](https://www.reddit.com/r/Python/comments/1ae3eow/nederlandse_hulp_gevraagd/)
+- [Conda now uses lib-mamba by default!](https://www.reddit.com/r/Python/comments/1ae2xie/conda_now_uses_libmamba_by_default/)
 - [Databases for Real-World Project Simulations](https://www.reddit.com/r/Python/comments/1ae1rxa/databases_for_realworld_project_simulations/)
 - [2048 Game in Python and Pygame.](https://www.reddit.com/r/Python/comments/1ae18ks/2048_game_in_python_and_pygame/)
 - [2048 Game in Python and Pygame](https://www.reddit.com/r/Python/comments/1ae11gn/2048_game_in_python_and_pygame/)
-- [Simple python exif sorting tool](https://www.reddit.com/r/Python/comments/1adu99d/simple_python_exif_sorting_tool/)
-- [Monitor input swapper &lpar;Virtual KVM&rpar;](https://www.reddit.com/r/Python/comments/1adtm5s/monitor_input_swapper_virtual_kvm/)
 <!-- BLOG-POST-LIST:END -->
