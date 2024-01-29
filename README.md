@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Databases for Real-World Project Simulations](https://www.reddit.com/r/Python/comments/1ae1rxa/databases_for_realworld_project_simulations/)
+- [2048 Game in Python and Pygame.](https://www.reddit.com/r/Python/comments/1ae18ks/2048_game_in_python_and_pygame/)
+- [2048 Game in Python and Pygame](https://www.reddit.com/r/Python/comments/1ae11gn/2048_game_in_python_and_pygame/)
 - [Simple python exif sorting tool](https://www.reddit.com/r/Python/comments/1adu99d/simple_python_exif_sorting_tool/)
 - [Monitor input swapper &lpar;Virtual KVM&rpar;](https://www.reddit.com/r/Python/comments/1adtm5s/monitor_input_swapper_virtual_kvm/)
-- [EasyGmail: A Lightweight, minimalistic Python Package for Sending Emails via Gmail](https://www.reddit.com/r/Python/comments/1adk1fp/easygmail_a_lightweight_minimalistic_python/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1adh77h/monday_daily_thread_project_ideas/)
-- [Flask-Muck v0.3.0 - Flask extension, OpenAPI/Swagger UI generation and Pydantic support](https://www.reddit.com/r/Python/comments/1ad7z6c/flaskmuck_v030_flask_extension_openapiswagger_ui/)
 <!-- BLOG-POST-LIST:END -->
