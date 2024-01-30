@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [first python project is all over my school :D](https://www.reddit.com/r/Python/comments/1af0xre/first_python_project_is_all_over_my_school_d/)
+- [Introducing WallpaperTime: A Wallpaper Scheduler for Windows](https://www.reddit.com/r/Python/comments/1af0nxg/introducing_wallpapertime_a_wallpaper_scheduler/)
+- [Image Snap: Effortless Photo Sorting and Organization on Windows](https://www.reddit.com/r/Python/comments/1af0n8v/image_snap_effortless_photo_sorting_and/)
 - [Arrest v0.1.8 is released with OpenAPI integration!](https://www.reddit.com/r/Python/comments/1aewwjo/arrest_v018_is_released_with_openapi_integration/)
 - [Enhance Your Images with GFPGAN: Low-Resolution Photo Restoration Tutorial 📸 [project]](https://www.reddit.com/r/Python/comments/1aeui1p/enhance_your_images_with_gfpgan_lowresolution/)
-- [Profiling your Numba code with Profila](https://www.reddit.com/r/Python/comments/1aetmad/profiling_your_numba_code_with_profila/)
-- [K Lars Lohn uses math and Python to triangulate the nighttime booms disturbing the sleep of his community.](https://www.reddit.com/r/Python/comments/1aerjpc/k_lars_lohn_uses_math_and_python_to_triangulate/)
-- [FastStream v0.4.0 Released: Introducing Confluent Kafka Integration with Async Support! 🚀](https://www.reddit.com/r/Python/comments/1aerhpf/faststream_v040_released_introducing_confluent/)
 <!-- BLOG-POST-LIST:END -->
