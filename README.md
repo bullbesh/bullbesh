@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Clean `PATH` of non-existent directories with justpath](https://www.reddit.com/r/Python/comments/1aehs4i/clean_path_of_nonexistent_directories_with/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1aeabl0/tuesday_daily_thread_advanced_questions/)
 - [BALanced Execution through Natural Activation : a human-computer interaction methodology for code running is now available on PyPI](https://www.reddit.com/r/Python/comments/1ae9gx1/balanced_execution_through_natural_activation_a/)
 - [Open-source SDK/Python library for Automatic 1111](https://www.reddit.com/r/Python/comments/1ae94ac/opensource_sdkpython_library_for_automatic_1111/)
 - [Scrat: disk memoization for expensive functions](https://www.reddit.com/r/Python/comments/1ae89zy/scrat_disk_memoization_for_expensive_functions/)
-- [How to host telegram bot scraper](https://www.reddit.com/r/Python/comments/1ae7tg5/how_to_host_telegram_bot_scraper/)
 <!-- BLOG-POST-LIST:END -->
