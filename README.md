@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best pdf/epub libs?](https://www.reddit.com/r/Python/comments/1afjrqk/best_pdfepub_libs/)
+- [nowpy -automatic venv set up and package installs](https://www.reddit.com/r/Python/comments/1afjhpr/nowpy_automatic_venv_set_up_and_package_installs/)
+- [Exploring Collaborative Role-Playing AI](https://www.reddit.com/r/Python/comments/1afj6ng/exploring_collaborative_roleplaying_ai/)
+- [pyside6 Qt for Python tutorial for Qt C++ developers](https://www.reddit.com/r/Python/comments/1afiwfy/pyside6_qt_for_python_tutorial_for_qt_c_developers/)
 - [Best site for Python Junior Devs](https://www.reddit.com/r/Python/comments/1afg30i/best_site_for_python_junior_devs/)
-- [Computer vision models](https://www.reddit.com/r/Python/comments/1affki6/computer_vision_models/)
-- [Streamlit vs Taipy: Which Tool is Better for Creating Web Apps from Python Scripts?](https://www.reddit.com/r/Python/comments/1afenoc/streamlit_vs_taipy_which_tool_is_better_for/)
-- [Any free alternative to spire](https://www.reddit.com/r/Python/comments/1afcgju/any_free_alternative_to_spire/)
-- [Make Python Project Instantly Hermetic, Autocorrect](https://www.reddit.com/r/Python/comments/1af502b/make_python_project_instantly_hermetic_autocorrect/)
 <!-- BLOG-POST-LIST:END -->
