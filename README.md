@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are there any framework written in C or rust?](https://www.reddit.com/r/Python/comments/1aftoi7/are_there_any_framework_written_in_c_or_rust/)
 - [I made a Windows Notepad Replacement Using PyQt6 [UPDATE]](https://www.reddit.com/r/Python/comments/1afosys/i_made_a_windows_notepad_replacement_using_pyqt6/)
 - [my python discord server](https://www.reddit.com/r/Python/comments/1afnxhp/my_python_discord_server/)
 - [I made a Buckshot Roulette game in python](https://www.reddit.com/r/Python/comments/1afndv7/i_made_a_buckshot_roulette_game_in_python/)
 - [Demystifying LLM-based Systems](https://www.reddit.com/r/Python/comments/1afndnd/demystifying_llmbased_systems/)
-- [Tired of using TKinter](https://www.reddit.com/r/Python/comments/1afm0yg/tired_of_using_tkinter/)
 <!-- BLOG-POST-LIST:END -->
