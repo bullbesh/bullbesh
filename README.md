@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Streamlit vs Taipy: Which Tool is Better for Creating Web Apps from Python Scripts?](https://www.reddit.com/r/Python/comments/1afenoc/streamlit_vs_taipy_which_tool_is_better_for/)
+- [Python is call by sharing](https://www.reddit.com/r/Python/comments/1afdzt1/python_is_call_by_sharing/)
 - [Any free alternative to spire](https://www.reddit.com/r/Python/comments/1afcgju/any_free_alternative_to_spire/)
 - [Make Python Project Instantly Hermetic, Autocorrect](https://www.reddit.com/r/Python/comments/1af502b/make_python_project_instantly_hermetic_autocorrect/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1af3kfu/wednesday_daily_thread_beginner_questions/)
-- [Image Snap: Effortless Photo Sorting and Organization on Windows](https://www.reddit.com/r/Python/comments/1af0n8v/image_snap_effortless_photo_sorting_and/)
-- [Arrest v0.1.8 is released with OpenAPI integration!](https://www.reddit.com/r/Python/comments/1aewwjo/arrest_v018_is_released_with_openapi_integration/)
 <!-- BLOG-POST-LIST:END -->
