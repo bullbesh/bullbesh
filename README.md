@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Projeto em python para buscar dados de API de GRAÇA](https://www.reddit.com/r/Python/comments/1afyov8/projeto_em_python_para_buscar_dados_de_api_de/)
-- [Flet](https://www.reddit.com/r/Python/comments/1afy61u/flet/)
+- [Iterable... but how many times?](https://www.reddit.com/r/Python/comments/1ag0wsk/iterable_but_how_many_times/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1afww1c/thursday_daily_thread_python_careers_courses_and/)
 - [I made a Windows Notepad Replacement Using PyQt6 [UPDATE]](https://www.reddit.com/r/Python/comments/1afosys/i_made_a_windows_notepad_replacement_using_pyqt6/)
 - [I made a Buckshot Roulette game in python](https://www.reddit.com/r/Python/comments/1afndv7/i_made_a_buckshot_roulette_game_in_python/)
+- [Tired of using TKinter](https://www.reddit.com/r/Python/comments/1afm0yg/tired_of_using_tkinter/)
 <!-- BLOG-POST-LIST:END -->
