@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Construction of Finite Fields and Applications](https://www.reddit.com/r/Python/comments/1agf3oq/construction_of_finite_fields_and_applications/)
+- [Python is often used in digital signal processing instead of Matlab. There is often a need to visualize audio signals. How to do it right with matplotlib? In this tutorial video I go step by step how to customize your figures for optimal readability and save it as a .png file😎](https://www.reddit.com/r/Python/comments/1aggorq/python_is_often_used_in_digital_signal_processing/)
 - [De4py: A toolkit for python reverse engineering](https://www.reddit.com/r/Python/comments/1agesgi/de4py_a_toolkit_for_python_reverse_engineering/)
 - [Apprise – A lightweight all-in-one notification solution now supports 100+ services!](https://www.reddit.com/r/Python/comments/1ag9juz/apprise_a_lightweight_allinone_notification/)
 - [Note’s computer vision model now supports fine-tuning.](https://www.reddit.com/r/Python/comments/1ag8c41/notes_computer_vision_model_now_supports/)
