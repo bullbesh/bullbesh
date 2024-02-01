@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [2024 what is best way to install and manage python](https://www.reddit.com/r/Python/comments/1agckwk/2024_what_is_best_way_to_install_and_manage_python/)
 - [Apprise – A lightweight all-in-one notification solution now supports 100+ services!](https://www.reddit.com/r/Python/comments/1ag9juz/apprise_a_lightweight_allinone_notification/)
 - [Note’s computer vision model now supports fine-tuning.](https://www.reddit.com/r/Python/comments/1ag8c41/notes_computer_vision_model_now_supports/)
 - [StateSight: Track State Changes in Your Python Classes.](https://www.reddit.com/r/Python/comments/1ag7ody/statesight_track_state_changes_in_your_python/)
-- [I need some grownup advice &lpar;about my jobless job&rpar;](https://www.reddit.com/r/Python/comments/1ag7gmm/i_need_some_grownup_advice_about_my_jobless_job/)
+- [I made an Expense Tracker using PyQt6 [UPDATE]](https://www.reddit.com/r/Python/comments/1ag75tr/i_made_an_expense_tracker_using_pyqt6_update/)
+- [Ten Python datetime pitfalls, and what libraries are &lpar;not&rpar; doing about it](https://www.reddit.com/r/Python/comments/1ag6uxc/ten_python_datetime_pitfalls_and_what_libraries/)
 <!-- BLOG-POST-LIST:END -->
