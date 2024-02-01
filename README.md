@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Directed Tree Visualization using Python](https://www.reddit.com/r/Python/comments/1ag6wth/directed_tree_visualization_using_python/)
+- [Ten Python datetime pitfalls, and what libraries are &lpar;not&rpar; doing about it](https://www.reddit.com/r/Python/comments/1ag6uxc/ten_python_datetime_pitfalls_and_what_libraries/)
 - [Feeder : Turn websites into RSS Feed](https://www.reddit.com/r/Python/comments/1ag519q/feeder_turn_websites_into_rss_feed/)
 - [Iterable... but how many times?](https://www.reddit.com/r/Python/comments/1ag0wsk/iterable_but_how_many_times/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1afww1c/thursday_daily_thread_python_careers_courses_and/)
-- [I made a Windows Notepad Replacement Using PyQt6 [UPDATE]](https://www.reddit.com/r/Python/comments/1afosys/i_made_a_windows_notepad_replacement_using_pyqt6/)
-- [I made a Buckshot Roulette game in python](https://www.reddit.com/r/Python/comments/1afndv7/i_made_a_buckshot_roulette_game_in_python/)
 <!-- BLOG-POST-LIST:END -->
