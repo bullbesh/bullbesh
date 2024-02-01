@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [StateSight: Track State Changes in Your Python Classes.](https://www.reddit.com/r/Python/comments/1ag7ody/statesight_track_state_changes_in_your_python/)
+- [I need some grownup advice &lpar;about my jobless job&rpar;](https://www.reddit.com/r/Python/comments/1ag7gmm/i_need_some_grownup_advice_about_my_jobless_job/)
+- [I made an Expense Tracker using PyQt6 [UPDATE]](https://www.reddit.com/r/Python/comments/1ag75tr/i_made_an_expense_tracker_using_pyqt6_update/)
+- [Am i that bad?](https://www.reddit.com/r/Python/comments/1ag716h/am_i_that_bad/)
 - [Directed Tree Visualization using Python](https://www.reddit.com/r/Python/comments/1ag6wth/directed_tree_visualization_using_python/)
-- [Ten Python datetime pitfalls, and what libraries are &lpar;not&rpar; doing about it](https://www.reddit.com/r/Python/comments/1ag6uxc/ten_python_datetime_pitfalls_and_what_libraries/)
-- [Feeder : Turn websites into RSS Feed](https://www.reddit.com/r/Python/comments/1ag519q/feeder_turn_websites_into_rss_feed/)
-- [Iterable... but how many times?](https://www.reddit.com/r/Python/comments/1ag0wsk/iterable_but_how_many_times/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1afww1c/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
