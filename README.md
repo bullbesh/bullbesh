@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [why is Java JDK so confusing to use?](https://www.reddit.com/r/Python/comments/1ahe12o/why_is_java_jdk_so_confusing_to_use/)
+- [TIL that `for x in 1, 2, 3:` is valid](https://www.reddit.com/r/Python/comments/1ahfue0/til_that_for_x_in_1_2_3_is_valid/)
 - [RasterioXYZ: A Python package for tiling georeferenced raster images according to the XYZ tiles standard](https://www.reddit.com/r/Python/comments/1ahbqmf/rasterioxyz_a_python_package_for_tiling/)
 - [Automated Dino Game using Pyautogui and Pillow](https://www.reddit.com/r/Python/comments/1ahag3p/automated_dino_game_using_pyautogui_and_pillow/)
 - [I made this app in customtkinter](https://www.reddit.com/r/Python/comments/1ah6ket/i_made_this_app_in_customtkinter/)
