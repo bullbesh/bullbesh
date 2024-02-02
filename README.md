@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1agprld/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Program](https://www.reddit.com/r/Python/comments/1aglkmf/program/)
 - [De4py: A toolkit for python reverse engineering](https://www.reddit.com/r/Python/comments/1agesgi/de4py_a_toolkit_for_python_reverse_engineering/)
 - [Apprise – A lightweight all-in-one notification solution now supports 100+ services!](https://www.reddit.com/r/Python/comments/1ag9juz/apprise_a_lightweight_allinone_notification/)
 - [Note’s computer vision model now supports fine-tuning.](https://www.reddit.com/r/Python/comments/1ag8c41/notes_computer_vision_model_now_supports/)
-- [StateSight: Track State Changes in Your Python Classes.](https://www.reddit.com/r/Python/comments/1ag7ody/statesight_track_state_changes_in_your_python/)
 <!-- BLOG-POST-LIST:END -->
