@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [RasterioXYZ: A Python package for tiling georeferenced raster images according to the XYZ tiles standard](https://www.reddit.com/r/Python/comments/1ahbqmf/rasterioxyz_a_python_package_for_tiling/)
 - [Automated Dino Game using Pyautogui and Pillow](https://www.reddit.com/r/Python/comments/1ahag3p/automated_dino_game_using_pyautogui_and_pillow/)
 - [I made this app in customtkinter](https://www.reddit.com/r/Python/comments/1ah6ket/i_made_this_app_in_customtkinter/)
 - [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource, subscribe for free](https://www.reddit.com/r/Python/comments/1ah5e6o/the_python_on_microcontrollers_and_raspberry_pi/)
 - [Article on Collaborative Role-Playing AI](https://www.reddit.com/r/Python/comments/1ah4mo0/article_on_collaborative_roleplaying_ai/)
-- [My first ever article: &quot;Finding the fastest Python JSON library on all Python versions &lpar;8 compared&rpar;&quot;](https://www.reddit.com/r/Python/comments/1ah4d2t/my_first_ever_article_finding_the_fastest_python/)
 <!-- BLOG-POST-LIST:END -->
