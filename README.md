@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource, subscribe for free](https://www.reddit.com/r/Python/comments/1ah5e6o/the_python_on_microcontrollers_and_raspberry_pi/)
 - [Article on Collaborative Role-Playing AI](https://www.reddit.com/r/Python/comments/1ah4mo0/article_on_collaborative_roleplaying_ai/)
 - [My first ever article: &quot;Finding the fastest Python JSON library on all Python versions &lpar;8 compared&rpar;&quot;](https://www.reddit.com/r/Python/comments/1ah4d2t/my_first_ever_article_finding_the_fastest_python/)
 - [Python twitter auto poster using tweepy and schedule](https://www.reddit.com/r/Python/comments/1ah1q1m/python_twitter_auto_poster_using_tweepy_and/)
 - [Hosting a Flask web app on pythonanywhere : extremely simple but some points to note..](https://www.reddit.com/r/Python/comments/1ah0fdi/hosting_a_flask_web_app_on_pythonanywhere/)
-- [Summary of major Python changes between versions](https://www.reddit.com/r/Python/comments/1ah05vt/summary_of_major_python_changes_between_versions/)
 <!-- BLOG-POST-LIST:END -->
