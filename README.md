@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python twitter auto poster using tweepy and schedule](https://www.reddit.com/r/Python/comments/1ah1q1m/python_twitter_auto_poster_using_tweepy_and/)
 - [Hosting a Flask web app on pythonanywhere : extremely simple but some points to note..](https://www.reddit.com/r/Python/comments/1ah0fdi/hosting_a_flask_web_app_on_pythonanywhere/)
 - [Summary of major Python changes between versions](https://www.reddit.com/r/Python/comments/1ah05vt/summary_of_major_python_changes_between_versions/)
 - [What do you think about chatgpt generating python scripts?](https://www.reddit.com/r/Python/comments/1agzkfy/what_do_you_think_about_chatgpt_generating_python/)
 - [PyPhotoCollage](https://www.reddit.com/r/Python/comments/1agvclm/pyphotocollage/)
-- [GPTAuthor: open-source CLI tool for writing long form, multi-chapter stories given a story outline](https://www.reddit.com/r/Python/comments/1ags1lr/gptauthor_opensource_cli_tool_for_writing_long/)
 <!-- BLOG-POST-LIST:END -->
