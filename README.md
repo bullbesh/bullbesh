@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [No module named _sqlite3](https://www.reddit.com/r/Python/comments/1ah6zv2/no_module_named_sqlite3/)
 - [I made this app in customtkinter](https://www.reddit.com/r/Python/comments/1ah6ket/i_made_this_app_in_customtkinter/)
 - [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource, subscribe for free](https://www.reddit.com/r/Python/comments/1ah5e6o/the_python_on_microcontrollers_and_raspberry_pi/)
 - [Article on Collaborative Role-Playing AI](https://www.reddit.com/r/Python/comments/1ah4mo0/article_on_collaborative_roleplaying_ai/)
 - [My first ever article: &quot;Finding the fastest Python JSON library on all Python versions &lpar;8 compared&rpar;&quot;](https://www.reddit.com/r/Python/comments/1ah4d2t/my_first_ever_article_finding_the_fastest_python/)
+- [Python twitter auto poster using tweepy and schedule](https://www.reddit.com/r/Python/comments/1ah1q1m/python_twitter_auto_poster_using_tweepy_and/)
 <!-- BLOG-POST-LIST:END -->
