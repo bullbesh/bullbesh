@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What do you think about chatgpt generating python scripts?](https://www.reddit.com/r/Python/comments/1agzkfy/what_do_you_think_about_chatgpt_generating_python/)
 - [PyPhotoCollage](https://www.reddit.com/r/Python/comments/1agvclm/pyphotocollage/)
 - [GPTAuthor: open-source CLI tool for writing long form, multi-chapter stories given a story outline](https://www.reddit.com/r/Python/comments/1ags1lr/gptauthor_opensource_cli_tool_for_writing_long/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1agprld/friday_daily_thread_rpython_meta_and_freetalk/)
 - [De4py: A toolkit for python reverse engineering](https://www.reddit.com/r/Python/comments/1agesgi/de4py_a_toolkit_for_python_reverse_engineering/)
-- [Apprise – A lightweight all-in-one notification solution now supports 100+ services!](https://www.reddit.com/r/Python/comments/1ag9juz/apprise_a_lightweight_allinone_notification/)
 <!-- BLOG-POST-LIST:END -->
