@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PDF Screen Scrape](https://www.reddit.com/r/Python/comments/1ahrcfn/pdf_screen_scrape/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ahib4a/saturday_daily_thread_resource_request_and/)
 - [Why the Assistants API is so Appealing for AI Beginners](https://www.reddit.com/r/Python/comments/1ahgtgm/why_the_assistants_api_is_so_appealing_for_ai/)
 - [TIL that `for x in 1, 2, 3:` is valid](https://www.reddit.com/r/Python/comments/1ahfue0/til_that_for_x_in_1_2_3_is_valid/)
 - [RasterioXYZ: A Python package for tiling georeferenced raster images according to the XYZ tiles standard](https://www.reddit.com/r/Python/comments/1ahbqmf/rasterioxyz_a_python_package_for_tiling/)
-- [Automated Dino Game using Pyautogui and Pillow](https://www.reddit.com/r/Python/comments/1ahag3p/automated_dino_game_using_pyautogui_and_pillow/)
 <!-- BLOG-POST-LIST:END -->
