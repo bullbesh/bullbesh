@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why most don&#39;t use map function?](https://www.reddit.com/r/Python/comments/1ahlnnw/why_most_dont_use_map_function/)
+- [A starter project idea discussion](https://www.reddit.com/r/Python/comments/1ahpe2d/a_starter_project_idea_discussion/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ahib4a/saturday_daily_thread_resource_request_and/)
 - [Why the Assistants API is so Appealing for AI Beginners](https://www.reddit.com/r/Python/comments/1ahgtgm/why_the_assistants_api_is_so_appealing_for_ai/)
 - [TIL that `for x in 1, 2, 3:` is valid](https://www.reddit.com/r/Python/comments/1ahfue0/til_that_for_x_in_1_2_3_is_valid/)
