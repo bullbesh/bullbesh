@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [EarQuiz Frequencies: My New OSS Application for Technical Ear Training on Equalization](https://www.reddit.com/r/Python/comments/1aimkc2/earquiz_frequencies_my_new_oss_application_for/)
+- [Tranformer-based Denoising AutoEncoder for Sentence Transformers Unsupervised pre-training](https://www.reddit.com/r/Python/comments/1aimi1j/tranformerbased_denoising_autoencoder_for/)
+- [PyDev Debugger and sys.monitoring &lpar;PEP 669&rpar; -- i.e.: really fast debugging for Python 3.12!](https://www.reddit.com/r/Python/comments/1aim35j/pydev_debugger_and_sysmonitoring_pep_669_ie/)
 - [100 Days Of Code](https://www.reddit.com/r/Python/comments/1aikk4m/100_days_of_code/)
 - [Improved apt show output](https://www.reddit.com/r/Python/comments/1aijhp4/improved_apt_show_output/)
-- [Renity: Pure Python Binary Protocol Buffer](https://www.reddit.com/r/Python/comments/1aihld8/renity_pure_python_binary_protocol_buffer/)
-- [Pytest-lock : Pytest plugin for &quot;locking&quot; tests](https://www.reddit.com/r/Python/comments/1aibjf6/pytestlock_pytest_plugin_for_locking_tests/)
-- [System Monitor for pc&#39;s with Nvidia GPU&#39;s](https://www.reddit.com/r/Python/comments/1aiauur/system_monitor_for_pcs_with_nvidia_gpus/)
 <!-- BLOG-POST-LIST:END -->
