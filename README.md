@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pytest-lock : Pytest plugin for &quot;locking&quot; tests](https://www.reddit.com/r/Python/comments/1aibjf6/pytestlock_pytest_plugin_for_locking_tests/)
+- [System Monitor for pc&#39;s with Nvidia GPU&#39;s](https://www.reddit.com/r/Python/comments/1aiauur/system_monitor_for_pcs_with_nvidia_gpus/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1aia42i/sunday_daily_thread_whats_everyone_working_on/)
+- [MakrellPy, a programming language that is embedded in Python](https://www.reddit.com/r/Python/comments/1ai9iep/makrellpy_a_programming_language_that_is_embedded/)
 - [I shared a Python Data Science Bootcamp &lpar;7+ Hours, 7 Courses and 3 Projects&rpar; on YouTube](https://www.reddit.com/r/Python/comments/1ai90tn/i_shared_a_python_data_science_bootcamp_7_hours_7/)
-- [TIL: `yield` inside a `try` followed by `finally` has some interesting behaviour.](https://www.reddit.com/r/Python/comments/1ai5okp/til_yield_inside_a_try_followed_by_finally_has/)
-- [&quot;En-Rich&quot; your Python Testing - Using Rich in pytest output](https://www.reddit.com/r/Python/comments/1ai0jcl/enrich_your_python_testing_using_rich_in_pytest/)
-- [Complex Discord Bot with Economy Game](https://www.reddit.com/r/Python/comments/1ai07xq/complex_discord_bot_with_economy_game/)
-- [rexi: A Terminal UI for Regex Testing Built in Python](https://www.reddit.com/r/Python/comments/1ahw7lj/rexi_a_terminal_ui_for_regex_testing_built_in/)
 <!-- BLOG-POST-LIST:END -->
