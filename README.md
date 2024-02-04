@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How many lines are there in your code?](https://www.reddit.com/r/Python/comments/1aiw8ex/how_many_lines_are_there_in_your_code/)
+- [What credible Python websites to cite from?](https://www.reddit.com/r/Python/comments/1aiw5ho/what_credible_python_websites_to_cite_from/)
 - [Can we use Local LLMs in PyCharm?](https://www.reddit.com/r/Python/comments/1aiqwir/can_we_use_local_llms_in_pycharm/)
 - [Key sounds when you press a keyboard button](https://www.reddit.com/r/Python/comments/1aiq81v/key_sounds_when_you_press_a_keyboard_button/)
 - [Simple-TOML-Configurator - A Python library for management of configuration settings in TOML format](https://www.reddit.com/r/Python/comments/1aiq27e/simpletomlconfigurator_a_python_library_for/)
-- [[OC] Smassh your Keyboard, TUI Edition!](https://www.reddit.com/r/Python/comments/1aipyyd/oc_smassh_your_keyboard_tui_edition/)
-- [EarQuiz Frequencies: My New OSS Application for Technical Ear Training on Equalization](https://www.reddit.com/r/Python/comments/1aimkc2/earquiz_frequencies_my_new_oss_application_for/)
 <!-- BLOG-POST-LIST:END -->
