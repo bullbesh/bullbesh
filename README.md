@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Factory and Repository Pattern with SQLAlchemy and Pydantic](https://www.reddit.com/r/Python/comments/1aiyken/factory_and_repository_pattern_with_sqlalchemy/)
+- [can you suggest some educational materials for computational linguistics using python?](https://www.reddit.com/r/Python/comments/1aixwg9/can_you_suggest_some_educational_materials_for/)
 - [How many lines are there in your code?](https://www.reddit.com/r/Python/comments/1aiw8ex/how_many_lines_are_there_in_your_code/)
 - [What credible Python websites to cite from?](https://www.reddit.com/r/Python/comments/1aiw5ho/what_credible_python_websites_to_cite_from/)
 - [Can we use Local LLMs in PyCharm?](https://www.reddit.com/r/Python/comments/1aiqwir/can_we_use_local_llms_in_pycharm/)
-- [Key sounds when you press a keyboard button](https://www.reddit.com/r/Python/comments/1aiq81v/key_sounds_when_you_press_a_keyboard_button/)
-- [Simple-TOML-Configurator - A Python library for management of configuration settings in TOML format](https://www.reddit.com/r/Python/comments/1aiq27e/simpletomlconfigurator_a_python_library_for/)
 <!-- BLOG-POST-LIST:END -->
