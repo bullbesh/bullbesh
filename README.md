@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can we use Local LLMs in PyCharm?](https://www.reddit.com/r/Python/comments/1aiqwir/can_we_use_local_llms_in_pycharm/)
+- [Key sounds when you press a keyboard button](https://www.reddit.com/r/Python/comments/1aiq81v/key_sounds_when_you_press_a_keyboard_button/)
 - [Simple-TOML-Configurator - A Python library for management of configuration settings in TOML format](https://www.reddit.com/r/Python/comments/1aiq27e/simpletomlconfigurator_a_python_library_for/)
 - [[OC] Smassh your Keyboard, TUI Edition!](https://www.reddit.com/r/Python/comments/1aipyyd/oc_smassh_your_keyboard_tui_edition/)
 - [EarQuiz Frequencies: My New OSS Application for Technical Ear Training on Equalization](https://www.reddit.com/r/Python/comments/1aimkc2/earquiz_frequencies_my_new_oss_application_for/)
-- [Tranformer-based Denoising AutoEncoder for Sentence Transformers Unsupervised pre-training](https://www.reddit.com/r/Python/comments/1aimi1j/tranformerbased_denoising_autoencoder_for/)
-- [PyDev Debugger and sys.monitoring &lpar;PEP 669&rpar; -- i.e.: really fast debugging for Python 3.12!](https://www.reddit.com/r/Python/comments/1aim35j/pydev_debugger_and_sysmonitoring_pep_669_ie/)
 <!-- BLOG-POST-LIST:END -->
