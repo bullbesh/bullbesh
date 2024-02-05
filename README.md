@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyPDFForm - A Python PDF Form Library](https://www.reddit.com/r/Python/comments/1ajhdrf/pypdfform_a_python_pdf_form_library/)
+- [Solitaire game - Made with curses &lpar;OSX and Linux&rpar;](https://www.reddit.com/r/Python/comments/1ajh6p0/solitaire_game_made_with_curses_osx_and_linux/)
+- [[Polars] Why we have rewritten our string/binary type](https://www.reddit.com/r/Python/comments/1ajft37/polars_why_we_have_rewritten_our_stringbinary_type/)
 - [Split multipage page single PDF file to single page multiple PDF file​s](https://www.reddit.com/r/Python/comments/1ajflhb/split_multipage_page_single_pdf_file_to_single/)
 - [Convert multiple CSV files into single Excel fille separate sheets using Pandas and xlsxwriter](https://www.reddit.com/r/Python/comments/1ajfkpm/convert_multiple_csv_files_into_single_excel/)
-- [Scheduled &lpar;cron&rpar; tasks in one line for Quart, with Quart-Tasks](https://www.reddit.com/r/Python/comments/1ajfhty/scheduled_cron_tasks_in_one_line_for_quart_with/)
-- [Surprising behavior of xml.etree](https://www.reddit.com/r/Python/comments/1ajcyvq/surprising_behavior_of_xmletree/)
-- [Music visualizer script needs some love, free for the community for use](https://www.reddit.com/r/Python/comments/1aj7343/music_visualizer_script_needs_some_love_free_for/)
 <!-- BLOG-POST-LIST:END -->
