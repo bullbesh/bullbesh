@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [IF/ELIF/ELSE statements](https://www.reddit.com/r/Python/comments/1ajf4cb/ifelifelse_statements/)
+- [Split multipage page single PDF file to single page multiple PDF file​s](https://www.reddit.com/r/Python/comments/1ajflhb/split_multipage_page_single_pdf_file_to_single/)
+- [Convert multiple CSV files into single Excel fille separate sheets using Pandas and xlsxwriter](https://www.reddit.com/r/Python/comments/1ajfkpm/convert_multiple_csv_files_into_single_excel/)
+- [Scheduled &lpar;cron&rpar; tasks in one line for Quart, with Quart-Tasks](https://www.reddit.com/r/Python/comments/1ajfhty/scheduled_cron_tasks_in_one_line_for_quart_with/)
 - [Surprising behavior of xml.etree](https://www.reddit.com/r/Python/comments/1ajcyvq/surprising_behavior_of_xmletree/)
 - [Music visualizer script needs some love, free for the community for use](https://www.reddit.com/r/Python/comments/1aj7343/music_visualizer_script_needs_some_love_free_for/)
-- [Library Python for web portfolio](https://www.reddit.com/r/Python/comments/1aj6y6a/library_python_for_web_portfolio/)
-- [ienv: brutalise your venvs by symlinking them all together!](https://www.reddit.com/r/Python/comments/1aj6ioz/ienv_brutalise_your_venvs_by_symlinking_them_all/)
 <!-- BLOG-POST-LIST:END -->
