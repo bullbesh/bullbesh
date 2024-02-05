@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter API Wrapper for Python without API Keys](https://www.reddit.com/r/Python/comments/1aj53tt/twitter_api_wrapper_for_python_without_api_keys/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1aj2l9e/monday_daily_thread_project_ideas/)
 - [skorche: a declarative task orchestration library in a very early stage](https://www.reddit.com/r/Python/comments/1aj1lyp/skorche_a_declarative_task_orchestration_library/)
 - [Automatic Tiktok Quiz Video Generator](https://www.reddit.com/r/Python/comments/1aizbqd/automatic_tiktok_quiz_video_generator/)
 - [Factory and Repository Pattern with SQLAlchemy and Pydantic](https://www.reddit.com/r/Python/comments/1aiyken/factory_and_repository_pattern_with_sqlalchemy/)
-- [can you suggest some educational materials for computational linguistics using python?](https://www.reddit.com/r/Python/comments/1aixwg9/can_you_suggest_some_educational_materials_for/)
 <!-- BLOG-POST-LIST:END -->
