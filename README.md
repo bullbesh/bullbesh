@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [rasterio file save](https://www.reddit.com/r/Python/comments/1ak20g0/rasterio_file_save/)
 - [r/Python Community Updates](https://www.reddit.com/r/Python/comments/1ak0ysc/rpython_community_updates/)
 - [How to fix a Deprecation Warning in pyqt5?](https://www.reddit.com/r/Python/comments/1ajy9s1/how_to_fix_a_deprecation_warning_in_pyqt5/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ajvs5v/tuesday_daily_thread_advanced_questions/)
 - [Python is weakly scoped](https://www.reddit.com/r/Python/comments/1ajvgli/python_is_weakly_scoped/)
+- [Redis Queue Dashboard | Fast API](https://www.reddit.com/r/Python/comments/1ajqsph/redis_queue_dashboard_fast_api/)
 <!-- BLOG-POST-LIST:END -->
