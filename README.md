@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [JOY OF PROGRAMMING: automate all kinds of machines, robots and drones in simulated environments.](https://www.reddit.com/r/Python/comments/1akaywl/joy_of_programming_automate_all_kinds_of_machines/)
 - [I wrote a minimalistic search engine in Python](https://www.reddit.com/r/Python/comments/1ak9lia/i_wrote_a_minimalistic_search_engine_in_python/)
 - [r/Python Community Updates](https://www.reddit.com/r/Python/comments/1ak0ysc/rpython_community_updates/)
 - [How to fix a Deprecation Warning in pyqt5?](https://www.reddit.com/r/Python/comments/1ajy9s1/how_to_fix_a_deprecation_warning_in_pyqt5/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ajvs5v/tuesday_daily_thread_advanced_questions/)
-- [Python is weakly scoped](https://www.reddit.com/r/Python/comments/1ajvgli/python_is_weakly_scoped/)
 <!-- BLOG-POST-LIST:END -->
