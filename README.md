@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Geppetto, an open source AI companion for your Slack teams written in Python](https://www.reddit.com/r/Python/comments/1akkcg1/geppetto_an_open_source_ai_companion_for_your/)
 - [Dear, Developers/engineers, What laptop do you use and what line of work do you do with it?](https://www.reddit.com/r/Python/comments/1akiqhs/dear_developersengineers_what_laptop_do_you_use/)
 - [Open Source Antivirus Project: Xylent](https://www.reddit.com/r/Python/comments/1akgy5l/open_source_antivirus_project_xylent/)
 - [Edgen: A Local, Open Source GenAI Server Alternative to OpenAI in Rust](https://www.reddit.com/r/Python/comments/1akgrql/edgen_a_local_open_source_genai_server/)
 - [Creative ways to load web data without the use of browser automation](https://www.reddit.com/r/Python/comments/1akd9x3/creative_ways_to_load_web_data_without_the_use_of/)
-- [Check Out IntelliPy - Simplify AI Workflows &lpar;Open Source, Seeking Contributors!&rpar;](https://www.reddit.com/r/Python/comments/1akcisw/check_out_intellipy_simplify_ai_workflows_open/)
 <!-- BLOG-POST-LIST:END -->
