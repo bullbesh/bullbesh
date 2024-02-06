@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to fix a Deprecation Warning in pyqt5?](https://www.reddit.com/r/Python/comments/1ajy9s1/how_to_fix_a_deprecation_warning_in_pyqt5/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ajvs5v/tuesday_daily_thread_advanced_questions/)
 - [Python is weakly scoped](https://www.reddit.com/r/Python/comments/1ajvgli/python_is_weakly_scoped/)
 - [Redis Queue Dashboard | Fast API](https://www.reddit.com/r/Python/comments/1ajqsph/redis_queue_dashboard_fast_api/)
 - [Question on making an app](https://www.reddit.com/r/Python/comments/1ajqrj1/question_on_making_an_app/)
-- [Do you know what is Durable Execution in Python?](https://www.reddit.com/r/Python/comments/1ajpeso/do_you_know_what_is_durable_execution_in_python/)
 <!-- BLOG-POST-LIST:END -->
