@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creative ways to load web data without the use of browser automation](https://www.reddit.com/r/Python/comments/1akd9x3/creative_ways_to_load_web_data_without_the_use_of/)
+- [Check Out IntelliPy - Simplify AI Workflows &lpar;Open Source, Seeking Contributors!&rpar;](https://www.reddit.com/r/Python/comments/1akcisw/check_out_intellipy_simplify_ai_workflows_open/)
 - [JOY OF PROGRAMMING: automate all kinds of machines, robots and drones in simulated environments.](https://www.reddit.com/r/Python/comments/1akaywl/joy_of_programming_automate_all_kinds_of_machines/)
 - [I wrote a minimalistic search engine in Python](https://www.reddit.com/r/Python/comments/1ak9lia/i_wrote_a_minimalistic_search_engine_in_python/)
 - [r/Python Community Updates](https://www.reddit.com/r/Python/comments/1ak0ysc/rpython_community_updates/)
-- [How to fix a Deprecation Warning in pyqt5?](https://www.reddit.com/r/Python/comments/1ajy9s1/how_to_fix_a_deprecation_warning_in_pyqt5/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ajvs5v/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
