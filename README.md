@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [One Trillion Row Challenge &lpar;1TRC&rpar;](https://www.reddit.com/r/Python/comments/1al7qs7/one_trillion_row_challenge_1trc/)
+- [I wrote some models that can be trained with TensorFlow](https://www.reddit.com/r/Python/comments/1al75m2/i_wrote_some_models_that_can_be_trained_with/)
 - [Hey all, need less space demanding options than anaconda for a portable python version.](https://www.reddit.com/r/Python/comments/1al276c/hey_all_need_less_space_demanding_options_than/)
 - [Video: AI Driven Automation for Microservices in Minutes](https://www.reddit.com/r/Python/comments/1akuaat/video_ai_driven_automation_for_microservices_in/)
 - [Python 3.12.2 and 3.11.8 released](https://www.reddit.com/r/Python/comments/1aksacb/python_3122_and_3118_released/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1akow3c/wednesday_daily_thread_beginner_questions/)
-- [Create an installer for your app using TkInstaller](https://www.reddit.com/r/Python/comments/1aklvx6/create_an_installer_for_your_app_using_tkinstaller/)
 <!-- BLOG-POST-LIST:END -->
