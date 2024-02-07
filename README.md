@@ -11,6 +11,6 @@
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1akow3c/wednesday_daily_thread_beginner_questions/)
 - [Create an installer for your app using TkInstaller](https://www.reddit.com/r/Python/comments/1aklvx6/create_an_installer_for_your_app_using_tkinstaller/)
 - [Geppetto, an open source AI companion for your Slack teams written in Python](https://www.reddit.com/r/Python/comments/1akkcg1/geppetto_an_open_source_ai_companion_for_your/)
-- [Check Out IntelliPy - Simplify AI Workflows &lpar;Open Source, Seeking Contributors!&rpar;](https://www.reddit.com/r/Python/comments/1akcisw/check_out_intellipy_simplify_ai_workflows_open/)
 - [JOY OF PROGRAMMING: automate all kinds of machines, robots and drones in simulated environments.](https://www.reddit.com/r/Python/comments/1akaywl/joy_of_programming_automate_all_kinds_of_machines/)
+- [I wrote a minimalistic search engine in Python](https://www.reddit.com/r/Python/comments/1ak9lia/i_wrote_a_minimalistic_search_engine_in_python/)
 <!-- BLOG-POST-LIST:END -->
