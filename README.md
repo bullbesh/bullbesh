@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Exam Questions](https://www.reddit.com/r/Python/comments/1alvupu/python_exam_questions/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1alhtj9/thursday_daily_thread_python_careers_courses_and/)
 - [ChessMaker: An easily extendible chess implementation designed to support any custom rule or feature](https://www.reddit.com/r/Python/comments/1alfgx2/chessmaker_an_easily_extendible_chess/)
 - [What are you going to do with latest python release](https://www.reddit.com/r/Python/comments/1al8nfp/what_are_you_going_to_do_with_latest_python/)
 - [One Trillion Row Challenge &lpar;1TRC&rpar;](https://www.reddit.com/r/Python/comments/1al7qs7/one_trillion_row_challenge_1trc/)
-- [Video: AI Driven Automation for Microservices in Minutes](https://www.reddit.com/r/Python/comments/1akuaat/video_ai_driven_automation_for_microservices_in/)
 <!-- BLOG-POST-LIST:END -->
