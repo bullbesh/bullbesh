@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why don&#39;t people monetize their scripts?](https://www.reddit.com/r/Python/comments/1an064f/why_dont_people_monetize_their_scripts/)
-- [I built a tool to generate human like code docstring for your entire Github repository](https://www.reddit.com/r/Python/comments/1amygpa/i_built_a_tool_to_generate_human_like_code/)
+- [Valaya: A new secure and customizable cloud storage system](https://www.reddit.com/r/Python/comments/1an0i4v/valaya_a_new_secure_and_customizable_cloud/)
 - [pyetfdb-scraper: free etf data retrieved data from etfdb.com](https://www.reddit.com/r/Python/comments/1amrqd9/pyetfdbscraper_free_etf_data_retrieved_data_from/)
 - [Building a low-code agent automation open-source project](https://www.reddit.com/r/Python/comments/1amrpya/building_a_lowcode_agent_automation_opensource/)
 - [Lagom - dependency injector](https://www.reddit.com/r/Python/comments/1amo8ph/lagom_dependency_injector/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1amaanj/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
