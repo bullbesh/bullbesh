@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Low-Code Multi-Agent Automation Framework on Python](https://www.reddit.com/r/Python/comments/1amodso/lowcode_multiagent_automation_framework_on_python/)
 - [Lagom - dependency injector](https://www.reddit.com/r/Python/comments/1amo8ph/lagom_dependency_injector/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1amaanj/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Counting CPU Instructions in Python](https://www.reddit.com/r/Python/comments/1am6j5w/counting_cpu_instructions_in_python/)
 - [CustomTkinter Snippets v3.0.0: Enhance Your Python GUI Workflow!](https://www.reddit.com/r/Python/comments/1am0hp0/customtkinter_snippets_v300_enhance_your_python/)
+- [IDE made with PyQt6 [UPDATE]](https://www.reddit.com/r/Python/comments/1alyd94/ide_made_with_pyqt6_update/)
 <!-- BLOG-POST-LIST:END -->
