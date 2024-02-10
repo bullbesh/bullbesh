@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Different Databases | Choosing The Right Database For your...](https://www.reddit.com/r/Python/comments/1anehge/understanding_different_databases_choosing_the/)
 - [Why is pandas not compiled with -o3 by deafualt?](https://www.reddit.com/r/Python/comments/1andqab/why_is_pandas_not_compiled_with_o3_by_deafualt/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1an2ls5/saturday_daily_thread_resource_request_and/)
 - [pyetfdb-scraper: free etf data retrieved data from etfdb.com](https://www.reddit.com/r/Python/comments/1amrqd9/pyetfdbscraper_free_etf_data_retrieved_data_from/)
 - [Building a low-code agent automation open-source project](https://www.reddit.com/r/Python/comments/1amrpya/building_a_lowcode_agent_automation_opensource/)
-- [Lagom - dependency injector](https://www.reddit.com/r/Python/comments/1amo8ph/lagom_dependency_injector/)
 <!-- BLOG-POST-LIST:END -->
