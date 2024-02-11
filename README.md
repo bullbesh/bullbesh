@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PIP Manager + PyPI Search](https://www.reddit.com/r/Python/comments/1anwfm4/pip_manager_pypi_search/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1anu96d/sunday_daily_thread_whats_everyone_working_on/)
 - [PReam-Team - a python TUI app for keeping track of open GH PRs for a set of people](https://www.reddit.com/r/Python/comments/1ans4tr/preamteam_a_python_tui_app_for_keeping_track_of/)
-- [What boring and menial tasks / parts of your work have you automated using Python?](https://www.reddit.com/r/Python/comments/1anov1o/what_boring_and_menial_tasks_parts_of_your_work/)
-- [Finite element modeling](https://www.reddit.com/r/Python/comments/1anoim6/finite_element_modeling/)
 - [What are your biggest challenges with Dependencies?](https://www.reddit.com/r/Python/comments/1ang2pu/what_are_your_biggest_challenges_with_dependencies/)
+- [Why is pandas not compiled with -o3 by deafualt?](https://www.reddit.com/r/Python/comments/1andqab/why_is_pandas_not_compiled_with_o3_by_deafualt/)
 <!-- BLOG-POST-LIST:END -->
