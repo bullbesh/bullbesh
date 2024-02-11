@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dissertation for my Data Science undergrad degree](https://www.reddit.com/r/Python/comments/1aohyv3/dissertation_for_my_data_science_undergrad_degree/)
 - [Setting up a robust python environment](https://www.reddit.com/r/Python/comments/1aogw6b/setting_up_a_robust_python_environment/)
 - [Writing Python like it&#39;s Elixir &lpar;or Erlang&rpar;](https://www.reddit.com/r/Python/comments/1aof7sx/writing_python_like_its_elixir_or_erlang/)
 - [Graphite. : Math Graphing Tool Inspired from GeoGebra](https://www.reddit.com/r/Python/comments/1aof7ac/graphite_math_graphing_tool_inspired_from_geogebra/)
-- [Image analysis confusion](https://www.reddit.com/r/Python/comments/1aodr3k/image_analysis_confusion/)
 - [Why does [d.values&lpar;&rpar;] behaves differently than list&lpar;d.values&lpar;&rpar;&rpar; ?](https://www.reddit.com/r/Python/comments/1aoc9yb/why_does_dvalues_behaves_differently_than/)
 <!-- BLOG-POST-LIST:END -->
