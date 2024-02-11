@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Toolong: A terminal app to view, tail, and search log files](https://www.reddit.com/r/Python/comments/1ao5mta/toolong_a_terminal_app_to_view_tail_and_search/)
+- [How are numpy.linalg.* functions built so that they use multiple cores out-of-the-box?](https://www.reddit.com/r/Python/comments/1ao5f74/how_are_numpylinalg_functions_built_so_that_they/)
+- [Seeking Buyers for Historical Sports Feeds Data](https://www.reddit.com/r/Python/comments/1ao5d3s/seeking_buyers_for_historical_sports_feeds_data/)
+- [Why Spyder does not highlight line where error &lpar;Traceback&rpar; occurs?](https://www.reddit.com/r/Python/comments/1ao5by4/why_spyder_does_not_highlight_line_where_error/)
 - [Is there a community organisation focussed on maintaining Python projects?](https://www.reddit.com/r/Python/comments/1ao1pkv/is_there_a_community_organisation_focussed_on/)
-- [Python Package for Free ETF Data](https://www.reddit.com/r/Python/comments/1anxfc5/python_package_for_free_etf_data/)
-- [PIP Manager + PyPI Search](https://www.reddit.com/r/Python/comments/1anwfm4/pip_manager_pypi_search/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1anu96d/sunday_daily_thread_whats_everyone_working_on/)
-- [PReam-Team - a python TUI app for keeping track of open GH PRs for a set of people](https://www.reddit.com/r/Python/comments/1ans4tr/preamteam_a_python_tui_app_for_keeping_track_of/)
 <!-- BLOG-POST-LIST:END -->
