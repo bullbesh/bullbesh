@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing Python like it&#39;s Elixir &lpar;or Erlang&rpar;](https://www.reddit.com/r/Python/comments/1aof7sx/writing_python_like_its_elixir_or_erlang/)
+- [Graphite. : Math Graphing Tool Inspired from GeoGebra](https://www.reddit.com/r/Python/comments/1aof7ac/graphite_math_graphing_tool_inspired_from_geogebra/)
 - [Image analysis confusion](https://www.reddit.com/r/Python/comments/1aodr3k/image_analysis_confusion/)
 - [Why does [d.values&lpar;&rpar;] behaves differently than list&lpar;d.values&lpar;&rpar;&rpar; ?](https://www.reddit.com/r/Python/comments/1aoc9yb/why_does_dvalues_behaves_differently_than/)
 - [Memory leak and Garbage collectors in python](https://www.reddit.com/r/Python/comments/1aoay02/memory_leak_and_garbage_collectors_in_python/)
-- [Twitter API and Python](https://www.reddit.com/r/Python/comments/1aoa9bd/twitter_api_and_python/)
-- [Filesystem magic with the Python standard library](https://www.reddit.com/r/Python/comments/1ao99i8/filesystem_magic_with_the_python_standard_library/)
 <!-- BLOG-POST-LIST:END -->
