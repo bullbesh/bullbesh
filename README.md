@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [List of Python projects, video tutorials and courses](https://www.reddit.com/r/Python/comments/1aouzi9/list_of_python_projects_video_tutorials_and/)
 - [Just a simple terminal based WebSocket client](https://www.reddit.com/r/Python/comments/1aotxbe/just_a_simple_terminal_based_websocket_client/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1aomgnx/monday_daily_thread_project_ideas/)
 - [Setting up a robust python environment](https://www.reddit.com/r/Python/comments/1aogw6b/setting_up_a_robust_python_environment/)
 - [Writing Python like it&#39;s Elixir &lpar;or Erlang&rpar;](https://www.reddit.com/r/Python/comments/1aof7sx/writing_python_like_its_elixir_or_erlang/)
-- [Graphite. : Math Graphing Tool Inspired from GeoGebra](https://www.reddit.com/r/Python/comments/1aof7ac/graphite_math_graphing_tool_inspired_from_geogebra/)
 <!-- BLOG-POST-LIST:END -->
