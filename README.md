@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [IKM assessment test](https://www.reddit.com/r/Python/comments/1apak2h/ikm_assessment_test/)
+- [Opinion Request](https://www.reddit.com/r/Python/comments/1apcebv/opinion_request/)
+- [Python Image Spectrum](https://www.reddit.com/r/Python/comments/1apbr8f/python_image_spectrum/)
+- [Genetic Algorithm &lpar;PyGAD&rpar; Paints Realistic Monalisa using 16 Brush Strokes + Source Code](https://www.reddit.com/r/Python/comments/1apbpml/genetic_algorithm_pygad_paints_realistic_monalisa/)
 - [I wnat to make beautiful custom user interface in python](https://www.reddit.com/r/Python/comments/1apaira/i_wnat_to_make_beautiful_custom_user_interface_in/)
 - [tunein-python: A highly experminetal Python TuneIn wrapper.](https://www.reddit.com/r/Python/comments/1ap7kr7/tuneinpython_a_highly_experminetal_python_tunein/)
-- [Airbnb scraper made pure in Python](https://www.reddit.com/r/Python/comments/1ap6snc/airbnb_scraper_made_pure_in_python/)
-- [I made a GeoGebra clone using PyQt6, Matplotlib and NumPy!](https://www.reddit.com/r/Python/comments/1ap4spd/i_made_a_geogebra_clone_using_pyqt6_matplotlib/)
 <!-- BLOG-POST-LIST:END -->
