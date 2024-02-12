@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My second article ever: &quot;The Guide to Making Your Django SaaS Business Worldwide &lpar;for free&rpar;&quot;.](https://www.reddit.com/r/Python/comments/1ap0avf/my_second_article_ever_the_guide_to_making_your/)
 - [Analyzing GPS files from sport watches](https://www.reddit.com/r/Python/comments/1aowriu/analyzing_gps_files_from_sport_watches/)
 - [Best Python books for beginners](https://www.reddit.com/r/Python/comments/1aovpo8/best_python_books_for_beginners/)
 - [CustomTkinter Snippets v4.0.0: New Features and Workflow Improvements!](https://www.reddit.com/r/Python/comments/1aovbaw/customtkinter_snippets_v400_new_features_and/)
 - [List of Python projects, video tutorials and courses](https://www.reddit.com/r/Python/comments/1aouzi9/list_of_python_projects_video_tutorials_and/)
-- [Just a simple terminal based WebSocket client](https://www.reddit.com/r/Python/comments/1aotxbe/just_a_simple_terminal_based_websocket_client/)
 <!-- BLOG-POST-LIST:END -->
