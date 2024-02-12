@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a GeoGebra clone using PyQt6, Matplotlib and NumPy!](https://www.reddit.com/r/Python/comments/1ap4spd/i_made_a_geogebra_clone_using_pyqt6_matplotlib/)
 - [I&#39;ve just released logot - a log testing library](https://www.reddit.com/r/Python/comments/1ap3qp7/ive_just_released_logot_a_log_testing_library/)
 - [Oregon Trail hunting mini-game with neural network AI](https://www.reddit.com/r/Python/comments/1ap1pz3/oregon_trail_hunting_minigame_with_neural_network/)
 - [Blog: Type Hints Are Great, Use Them!](https://www.reddit.com/r/Python/comments/1ap1l3o/blog_type_hints_are_great_use_them/)
 - [My second article ever: &quot;The Guide to Making Your Django SaaS Business Worldwide &lpar;for free&rpar;&quot;.](https://www.reddit.com/r/Python/comments/1ap0avf/my_second_article_ever_the_guide_to_making_your/)
-- [Analyzing GPS files from sport watches](https://www.reddit.com/r/Python/comments/1aowriu/analyzing_gps_files_from_sport_watches/)
 <!-- BLOG-POST-LIST:END -->
