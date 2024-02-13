@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Youtube Data API promoted video statistics](https://www.reddit.com/r/Python/comments/1apqsom/youtube_data_api_promoted_video_statistics/)
+- [Enhance logging](https://www.reddit.com/r/Python/comments/1apqjxq/enhance_logging/)
 - [any thing like Word Mail Merge to mox text with dynamic placeholders for data](https://www.reddit.com/r/Python/comments/1applpe/any_thing_like_word_mail_merge_to_mox_text_with/)
 - [Netflix Data Analysis with Python and Pandas](https://www.reddit.com/r/Python/comments/1app11a/netflix_data_analysis_with_python_and_pandas/)
 - [python in 6 weeks](https://www.reddit.com/r/Python/comments/1apnodv/python_in_6_weeks/)
-- [I made a python script that can download from yt and auto upload to Tiktok in one line of code!](https://www.reddit.com/r/Python/comments/1aphjy8/i_made_a_python_script_that_can_download_from_yt/)
-- [PrimeNote: superior sticky note-taking app for Windows and Linux](https://www.reddit.com/r/Python/comments/1aphale/primenote_superior_sticky_notetaking_app_for/)
 <!-- BLOG-POST-LIST:END -->
