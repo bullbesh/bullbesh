@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Spotify API Data](https://www.reddit.com/r/Python/comments/1aq6qt4/spotify_api_data/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1aq8qf2/wednesday_daily_thread_beginner_questions/)
 - [Simple Text Extraction Server with Python, Tika, MinIO](https://www.reddit.com/r/Python/comments/1aq5v2i/simple_text_extraction_server_with_python_tika/)
-- [Should i make a c function awaitble](https://www.reddit.com/r/Python/comments/1aq3su3/should_i_make_a_c_function_awaitble/)
 - [Automate labels and filters setup for gmail](https://www.reddit.com/r/Python/comments/1aq3qwd/automate_labels_and_filters_setup_for_gmail/)
 - [I made an app that adds subtitles to any video](https://www.reddit.com/r/Python/comments/1apzzvp/i_made_an_app_that_adds_subtitles_to_any_video/)
+- [Chino 🌸 - A CLI tool to interact with OpenAI GPT.](https://www.reddit.com/r/Python/comments/1apzmbf/chino_a_cli_tool_to_interact_with_openai_gpt/)
 <!-- BLOG-POST-LIST:END -->
