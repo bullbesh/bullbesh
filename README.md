@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [O que pra vocês é mais importante no aprendizado de Python?](https://www.reddit.com/r/Python/comments/1aquvq1/o_que_pra_vocês_é_mais_importante_no_aprendizado/)
 - [Process Engineering / Mass Balance](https://www.reddit.com/r/Python/comments/1aqumm3/process_engineering_mass_balance/)
 - [League of Legends &#39;mod&#39; where you lose an in-game spell if you answer a trivia question incorrectly!](https://www.reddit.com/r/Python/comments/1aqto8c/league_of_legends_mod_where_you_lose_an_ingame/)
 - [Modguard - a lightweight python tool for enforcing modular design](https://www.reddit.com/r/Python/comments/1aqtjyx/modguard_a_lightweight_python_tool_for_enforcing/)
 - [Why use Pycharm Pro in 2024?](https://www.reddit.com/r/Python/comments/1aqr39j/why_use_pycharm_pro_in_2024/)
+- [Cookiecutter hooks: who&#39;s using them and what for?](https://www.reddit.com/r/Python/comments/1aqp8ic/cookiecutter_hooks_whos_using_them_and_what_for/)
 <!-- BLOG-POST-LIST:END -->
