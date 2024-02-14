@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [League of Legends &#39;mod&#39; where you lose an in-game spell if you answer a trivia question incorrectly!](https://www.reddit.com/r/Python/comments/1aqto8c/league_of_legends_mod_where_you_lose_an_ingame/)
+- [Modguard - a lightweight python tool for enforcing modular design](https://www.reddit.com/r/Python/comments/1aqtjyx/modguard_a_lightweight_python_tool_for_enforcing/)
 - [Why use Pycharm Pro in 2024?](https://www.reddit.com/r/Python/comments/1aqr39j/why_use_pycharm_pro_in_2024/)
 - [Cookiecutter hooks: who&#39;s using them and what for?](https://www.reddit.com/r/Python/comments/1aqp8ic/cookiecutter_hooks_whos_using_them_and_what_for/)
 - [Handling Tasks in Asyncio Like a Pro | Jacob Padilla](https://www.reddit.com/r/Python/comments/1aqm0ht/handling_tasks_in_asyncio_like_a_pro_jacob_padilla/)
-- [OnePyece : Python package which provides various data from OnePiece Universe](https://www.reddit.com/r/Python/comments/1aqks23/onepyece_python_package_which_provides_various/)
-- [New styler for polars](https://www.reddit.com/r/Python/comments/1aqjyj6/new_styler_for_polars/)
 <!-- BLOG-POST-LIST:END -->
