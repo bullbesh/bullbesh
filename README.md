@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [LangChain &lpar;Generative AI framework&rpar; playlist for beginners &lpar;60 tutorials&rpar;](https://www.reddit.com/r/Python/comments/1aqfce7/langchain_generative_ai_framework_playlist_for/)
 - [I made a single and batch Universal File Converter for Audio and Video files. &lpar;With GUI&rpar;](https://www.reddit.com/r/Python/comments/1aqdo3z/i_made_a_single_and_batch_universal_file/)
 - [Spotify Developer API](https://www.reddit.com/r/Python/comments/1aqbjga/spotify_developer_api/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1aq8qf2/wednesday_daily_thread_beginner_questions/)
 - [Simple Text Extraction Server with Python, Tika, MinIO](https://www.reddit.com/r/Python/comments/1aq5v2i/simple_text_extraction_server_with_python_tika/)
-- [Automate labels and filters setup for gmail](https://www.reddit.com/r/Python/comments/1aq3qwd/automate_labels_and_filters_setup_for_gmail/)
 <!-- BLOG-POST-LIST:END -->
