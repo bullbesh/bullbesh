@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cookiecutter hooks: who&#39;s using them and what for?](https://www.reddit.com/r/Python/comments/1aqp8ic/cookiecutter_hooks_whos_using_them_and_what_for/)
 - [Handling Tasks in Asyncio Like a Pro | Jacob Padilla](https://www.reddit.com/r/Python/comments/1aqm0ht/handling_tasks_in_asyncio_like_a_pro_jacob_padilla/)
 - [OnePyece : Python package which provides various data from OnePiece Universe](https://www.reddit.com/r/Python/comments/1aqks23/onepyece_python_package_which_provides_various/)
 - [New styler for polars](https://www.reddit.com/r/Python/comments/1aqjyj6/new_styler_for_polars/)
 - [So long, Django Migrations! You were good to us.](https://www.reddit.com/r/Python/comments/1aqhdst/so_long_django_migrations_you_were_good_to_us/)
-- [I made a single and batch Universal File Converter for Audio and Video files. &lpar;With GUI&rpar;](https://www.reddit.com/r/Python/comments/1aqdo3z/i_made_a_single_and_batch_universal_file/)
 <!-- BLOG-POST-LIST:END -->
