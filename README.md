@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why use Pycharm Pro in 2024?](https://www.reddit.com/r/Python/comments/1aqr39j/why_use_pycharm_pro_in_2024/)
 - [Cookiecutter hooks: who&#39;s using them and what for?](https://www.reddit.com/r/Python/comments/1aqp8ic/cookiecutter_hooks_whos_using_them_and_what_for/)
 - [Handling Tasks in Asyncio Like a Pro | Jacob Padilla](https://www.reddit.com/r/Python/comments/1aqm0ht/handling_tasks_in_asyncio_like_a_pro_jacob_padilla/)
 - [OnePyece : Python package which provides various data from OnePiece Universe](https://www.reddit.com/r/Python/comments/1aqks23/onepyece_python_package_which_provides_various/)
 - [New styler for polars](https://www.reddit.com/r/Python/comments/1aqjyj6/new_styler_for_polars/)
-- [So long, Django Migrations! You were good to us.](https://www.reddit.com/r/Python/comments/1aqhdst/so_long_django_migrations_you_were_good_to_us/)
 <!-- BLOG-POST-LIST:END -->
