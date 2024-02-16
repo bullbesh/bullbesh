@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What happened to &quot;match case&quot; in v3.6?](https://www.reddit.com/r/Python/comments/1aslb0e/what_happened_to_match_case_in_v36/)
 - [Solve doubts on Time Series Reporting with Pandas &lpar;tutorials+interactive streaming&rpar;](https://www.reddit.com/r/Python/comments/1asjpn4/solve_doubts_on_time_series_reporting_with_pandas/)
 - [Recording and visualising the 20k system calls it takes to &quot;import seaborn&quot;](https://www.reddit.com/r/Python/comments/1asjcnm/recording_and_visualising_the_20k_system_calls_it/)
 - [how to make photos look like paintings [project]](https://www.reddit.com/r/Python/comments/1asbdy6/how_to_make_photos_look_like_paintings_project/)
 - [Anaconda Python Distribution Tutorials](https://www.reddit.com/r/Python/comments/1as4a3v/anaconda_python_distribution_tutorials/)
-- [Add Null Safety](https://www.reddit.com/r/Python/comments/1arzyr2/add_null_safety/)
 <!-- BLOG-POST-LIST:END -->
