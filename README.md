@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [BlackMarblePy: Python Package to Retrieve NASA Black Marble Data](https://www.reddit.com/r/Python/comments/1aruyaz/blackmarblepy_python_package_to_retrieve_nasa/)
+- [Python Website Scam?](https://www.reddit.com/r/Python/comments/1aruy0t/python_website_scam/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1aruezk/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Announcing uv: Python packaging in Rust](https://www.reddit.com/r/Python/comments/1aroork/announcing_uv_python_packaging_in_rust/)
 - [Hunting down n + 1 queries in your Django application code](https://www.reddit.com/r/Python/comments/1arb9zz/hunting_down_n_1_queries_in_your_django/)
-- [Magnus - a simplified workflow definition language which works in local to Argo without any change](https://www.reddit.com/r/Python/comments/1ar66d5/magnus_a_simplified_workflow_definition_language/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ar1uah/thursday_daily_thread_python_careers_courses_and/)
-- [pytest-bisect-tests - find test leaking state and breaking other tests](https://www.reddit.com/r/Python/comments/1aqzfqe/pytestbisecttests_find_test_leaking_state_and/)
 <!-- BLOG-POST-LIST:END -->
