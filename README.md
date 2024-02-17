@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python cool module ideas.](https://www.reddit.com/r/Python/comments/1at4au9/python_cool_module_ideas/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1asnql7/saturday_daily_thread_resource_request_and/)
 - [Solve doubts on Time Series Reporting with Pandas &lpar;tutorials+interactive streaming&rpar;](https://www.reddit.com/r/Python/comments/1asjpn4/solve_doubts_on_time_series_reporting_with_pandas/)
 - [Recording and visualising the 20k system calls it takes to &quot;import seaborn&quot;](https://www.reddit.com/r/Python/comments/1asjcnm/recording_and_visualising_the_20k_system_calls_it/)
 - [how to make photos look like paintings [project]](https://www.reddit.com/r/Python/comments/1asbdy6/how_to_make_photos_look_like_paintings_project/)
+- [Anaconda Python Distribution Tutorials](https://www.reddit.com/r/Python/comments/1as4a3v/anaconda_python_distribution_tutorials/)
 <!-- BLOG-POST-LIST:END -->
