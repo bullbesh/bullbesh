@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [periodic-table-cli: An interactive Periodic Table of Elements App for the Console! Now for Python!](https://www.reddit.com/r/Python/comments/1au2gmm/periodictablecli_an_interactive_periodic_table_of/)
 - [CLI tools hidden in the Python standard library](https://www.reddit.com/r/Python/comments/1au04o3/cli_tools_hidden_in_the_python_standard_library/)
 - [Thread Local Data in Python](https://www.reddit.com/r/Python/comments/1atz2mx/thread_local_data_in_python/)
 - [ADIX: Data Exploration Made Easy &amp; Colorful with themes you can customize &lpar;EDA&rpar;](https://www.reddit.com/r/Python/comments/1atqpun/adix_data_exploration_made_easy_colorful_with/)
 - [ugropy: Group detection for thermodynamic UNIFAC/Joback models in Python](https://www.reddit.com/r/Python/comments/1athvzl/ugropy_group_detection_for_thermodynamic/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1atgacs/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
