@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [CLI tools hidden in the Python standard library](https://www.reddit.com/r/Python/comments/1au04o3/cli_tools_hidden_in_the_python_standard_library/)
+- [Simplifying Kafka: Deploy and Run with Docker,](https://www.reddit.com/r/Python/comments/1atzkm1/simplifying_kafka_deploy_and_run_with_docker/)
 - [Thread Local Data in Python](https://www.reddit.com/r/Python/comments/1atz2mx/thread_local_data_in_python/)
 - [ADIX: Data Exploration Made Easy &amp; Colorful with themes you can customize &lpar;EDA&rpar;](https://www.reddit.com/r/Python/comments/1atqpun/adix_data_exploration_made_easy_colorful_with/)
 - [ugropy: Group detection for thermodynamic UNIFAC/Joback models in Python](https://www.reddit.com/r/Python/comments/1athvzl/ugropy_group_detection_for_thermodynamic/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1atgacs/sunday_daily_thread_whats_everyone_working_on/)
-- [Stockdex - simple package for extracting stocks financial data from yahoo finance](https://www.reddit.com/r/Python/comments/1atbm1h/stockdex_simple_package_for_extracting_stocks/)
 <!-- BLOG-POST-LIST:END -->
