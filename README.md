@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [schwab-api Jafer Haider python trading library](https://www.reddit.com/r/Python/comments/1au4k9x/schwabapi_jafer_haider_python_trading_library/)
+- [slow-learner — type generation from data](https://www.reddit.com/r/Python/comments/1au32je/slowlearner_type_generation_from_data/)
 - [periodic-table-cli: An interactive Periodic Table of Elements App for the Console! Now for Python!](https://www.reddit.com/r/Python/comments/1au2gmm/periodictablecli_an_interactive_periodic_table_of/)
 - [CLI tools hidden in the Python standard library](https://www.reddit.com/r/Python/comments/1au04o3/cli_tools_hidden_in_the_python_standard_library/)
 - [Thread Local Data in Python](https://www.reddit.com/r/Python/comments/1atz2mx/thread_local_data_in_python/)
-- [ADIX: Data Exploration Made Easy &amp; Colorful with themes you can customize &lpar;EDA&rpar;](https://www.reddit.com/r/Python/comments/1atqpun/adix_data_exploration_made_easy_colorful_with/)
 <!-- BLOG-POST-LIST:END -->
