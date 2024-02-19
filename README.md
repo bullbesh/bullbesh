@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why isn’t collections a C module?](https://www.reddit.com/r/Python/comments/1av02ad/why_isnt_collections_a_c_module/)
 - [Alto: CLI tool to run functions, scripts, and Jupyter notebooks in the cloud](https://www.reddit.com/r/Python/comments/1aupuzl/alto_cli_tool_to_run_functions_scripts_and/)
 - [A rich-text editor with PyQt6](https://www.reddit.com/r/Python/comments/1aui2lg/a_richtext_editor_with_pyqt6/)
 - [ADIX: Data Exploration Made Easy &amp; Colorful with themes you can customize &lpar;EDA&rpar;](https://www.reddit.com/r/Python/comments/1auhhvi/adix_data_exploration_made_easy_colorful_with/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1au92y9/monday_daily_thread_project_ideas/)
-- [file_unittest: a Python package to run unit tests based on text file results](https://www.reddit.com/r/Python/comments/1au77i3/file_unittest_a_python_package_to_run_unit_tests/)
 <!-- BLOG-POST-LIST:END -->
