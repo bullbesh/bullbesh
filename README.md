@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pysimplegui or pyside? For commercial use but don’t have money to pay.](https://www.reddit.com/r/Python/comments/1av8cgr/pysimplegui_or_pyside_for_commercial_use_but_dont/)
 - [quarto-pyodide: Quarto extension to embed interactive Python code cells in HTML documents](https://www.reddit.com/r/Python/comments/1av6i9j/quartopyodide_quarto_extension_to_embed/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1av32qn/tuesday_daily_thread_advanced_questions/)
 - [Alto: CLI tool to run functions, scripts, and Jupyter notebooks in the cloud](https://www.reddit.com/r/Python/comments/1aupuzl/alto_cli_tool_to_run_functions_scripts_and/)
 - [A rich-text editor with PyQt6](https://www.reddit.com/r/Python/comments/1aui2lg/a_richtext_editor_with_pyqt6/)
-- [ADIX: Data Exploration Made Easy &amp; Colorful with themes you can customize &lpar;EDA&rpar;](https://www.reddit.com/r/Python/comments/1auhhvi/adix_data_exploration_made_easy_colorful_with/)
 <!-- BLOG-POST-LIST:END -->
