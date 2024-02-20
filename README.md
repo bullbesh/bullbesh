@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is Python so annoying?](https://www.reddit.com/r/Python/comments/1avqtqg/why_is_python_so_annoying/)
 - [I am trying to recreate Open AI’s Sora with Python and some other tools](https://www.reddit.com/r/Python/comments/1avo4pe/i_am_trying_to_recreate_open_ais_sora_with_python/)
 - [Geospatial mapping : package to import layer style from qgis file to matplotlib](https://www.reddit.com/r/Python/comments/1avnlss/geospatial_mapping_package_to_import_layer_style/)
 - [Geospatial mapping : package to import layer style from qgis file to matplotlib](https://www.reddit.com/r/Python/comments/1avnlln/geospatial_mapping_package_to_import_layer_style/)
 - [Web Scraping in Python - The Complete Guide](https://www.reddit.com/r/Python/comments/1avjugf/web_scraping_in_python_the_complete_guide/)
-- [quarto-pyodide: Quarto extension to embed interactive Python code cells in HTML documents](https://www.reddit.com/r/Python/comments/1av6i9j/quartopyodide_quarto_extension_to_embed/)
 <!-- BLOG-POST-LIST:END -->
