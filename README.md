@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does anyone know some free text to 3d vertex transformer?](https://www.reddit.com/r/Python/comments/1aw47qr/does_anyone_know_some_free_text_to_3d_vertex/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1avx73m/wednesday_daily_thread_beginner_questions/)
+- [pySSV - Leverage the power of shader in Jupyter Notebooks](https://www.reddit.com/r/Python/comments/1avv8va/pyssv_leverage_the_power_of_shader_in_jupyter/)
 - [3D engine in Turtle](https://www.reddit.com/r/Python/comments/1avuklj/3d_engine_in_turtle/)
 - [typing-ex: Extended type checking and builtin types](https://www.reddit.com/r/Python/comments/1avsgj7/typingex_extended_type_checking_and_builtin_types/)
-- [I am trying to recreate Open AI’s Sora with Python and some other tools](https://www.reddit.com/r/Python/comments/1avo4pe/i_am_trying_to_recreate_open_ais_sora_with_python/)
-- [Geospatial mapping : package to import layer style from qgis file to matplotlib](https://www.reddit.com/r/Python/comments/1avnlss/geospatial_mapping_package_to_import_layer_style/)
 <!-- BLOG-POST-LIST:END -->
