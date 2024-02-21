@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Would it be possible to create a programme to view permanently closed locations on Google maps ?](https://www.reddit.com/r/Python/comments/1awov1a/would_it_be_possible_to_create_a_programme_to/)
 - [PGCacheWatch: Real-Time PostgreSQL Cache Invalidation in Python](https://www.reddit.com/r/Python/comments/1awmtqr/pgcachewatch_realtime_postgresql_cache/)
-- [.append&lpar;&rpar; and .insert&lpar;&rpar;](https://www.reddit.com/r/Python/comments/1awlh2g/append_and_insert/)
-- [Last day, I coded a loop in Jupiter notebook online.](https://www.reddit.com/r/Python/comments/1awkibx/last_day_i_coded_a_loop_in_jupiter_notebook_online/)
 - [copykitten: the missing clipboard library for Python](https://www.reddit.com/r/Python/comments/1awjuv9/copykitten_the_missing_clipboard_library_for/)
-- [Best place to find new programming jobs?](https://www.reddit.com/r/Python/comments/1awjaqk/best_place_to_find_new_programming_jobs/)
+- [Extracting information &lpar;Text, Tables, Layouts&rpar; from PDFs using OCR.](https://www.reddit.com/r/Python/comments/1awc0hh/extracting_information_text_tables_layouts_from/)
+- [Cry Baby: A Tool to Detect Baby Cries](https://www.reddit.com/r/Python/comments/1awbm1r/cry_baby_a_tool_to_detect_baby_cries/)
 <!-- BLOG-POST-LIST:END -->
