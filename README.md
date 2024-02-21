@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cry Baby: A Tool to Detect Baby Cries](https://www.reddit.com/r/Python/comments/1awbm1r/cry_baby_a_tool_to_detect_baby_cries/)
 - [Comparison of hosting platforms for Python app deployment](https://www.reddit.com/r/Python/comments/1aw83h9/comparison_of_hosting_platforms_for_python_app/)
 - [Python script to find your highest-quality images &lpar;for use on Windows WSL/2&rpar;](https://www.reddit.com/r/Python/comments/1aw7kxc/python_script_to_find_your_highestquality_images/)
 - [Typed FFmpeg: Type-Hinted Python Wrapper for Enhanced FFmpeg Integration](https://www.reddit.com/r/Python/comments/1aw5dqj/typed_ffmpeg_typehinted_python_wrapper_for/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1avx73m/wednesday_daily_thread_beginner_questions/)
-- [pySSV - Leverage the power of shader in Jupyter Notebooks](https://www.reddit.com/r/Python/comments/1avv8va/pyssv_leverage_the_power_of_shader_in_jupyter/)
 <!-- BLOG-POST-LIST:END -->
