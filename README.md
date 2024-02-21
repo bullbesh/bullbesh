@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Does anyone know some free text to 3d vertex transformer?](https://www.reddit.com/r/Python/comments/1aw47qr/does_anyone_know_some_free_text_to_3d_vertex/)
+- [Typed FFmpeg: Type-Hinted Python Wrapper for Enhanced FFmpeg Integration](https://www.reddit.com/r/Python/comments/1aw5dqj/typed_ffmpeg_typehinted_python_wrapper_for/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1avx73m/wednesday_daily_thread_beginner_questions/)
 - [pySSV - Leverage the power of shader in Jupyter Notebooks](https://www.reddit.com/r/Python/comments/1avv8va/pyssv_leverage_the_power_of_shader_in_jupyter/)
 - [3D engine in Turtle](https://www.reddit.com/r/Python/comments/1avuklj/3d_engine_in_turtle/)
