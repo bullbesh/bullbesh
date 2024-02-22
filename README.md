@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Would it be possible to create a programme to view permanently closed locations on Google maps ?](https://www.reddit.com/r/Python/comments/1awov1a/would_it_be_possible_to_create_a_programme_to/)
+- [python-compile - compile your python app for linux execution in Win/Mac/Linux using docker](https://www.reddit.com/r/Python/comments/1awt9sc/pythoncompile_compile_your_python_app_for_linux/)
+- [Squirrels v0.2.0 Now Released: Create Dynamic Data Analytics APIs!](https://www.reddit.com/r/Python/comments/1awsgld/squirrels_v020_now_released_create_dynamic_data/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1awrq2i/thursday_daily_thread_python_careers_courses_and/)
+- [Looking for a coding buddy](https://www.reddit.com/r/Python/comments/1awrnxy/looking_for_a_coding_buddy/)
 - [PGCacheWatch: Real-Time PostgreSQL Cache Invalidation in Python](https://www.reddit.com/r/Python/comments/1awmtqr/pgcachewatch_realtime_postgresql_cache/)
-- [copykitten: the missing clipboard library for Python](https://www.reddit.com/r/Python/comments/1awjuv9/copykitten_the_missing_clipboard_library_for/)
-- [Extracting information &lpar;Text, Tables, Layouts&rpar; from PDFs using OCR.](https://www.reddit.com/r/Python/comments/1awc0hh/extracting_information_text_tables_layouts_from/)
-- [Cry Baby: A Tool to Detect Baby Cries](https://www.reddit.com/r/Python/comments/1awbm1r/cry_baby_a_tool_to_detect_baby_cries/)
 <!-- BLOG-POST-LIST:END -->
