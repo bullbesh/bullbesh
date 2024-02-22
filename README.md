@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a Spotify downloader with Modern UI | PyQt6 | Fluent Design](https://www.reddit.com/r/Python/comments/1ax3099/i_made_a_spotify_downloader_with_modern_ui_pyqt6/)
+- [Why Choose Node.js over Ruby on Rails?](https://www.reddit.com/r/Python/comments/1ax2wje/why_choose_nodejs_over_ruby_on_rails/)
 - [Assistance needed with validity questions.](https://www.reddit.com/r/Python/comments/1ax1c00/assistance_needed_with_validity_questions/)
 - [marimo-wasm: a reactive Python notebook in the browser](https://www.reddit.com/r/Python/comments/1awvskr/marimowasm_a_reactive_python_notebook_in_the/)
 - [python-compile - compile your python app for linux execution in Win/Mac/Linux using docker](https://www.reddit.com/r/Python/comments/1awt9sc/pythoncompile_compile_your_python_app_for_linux/)
-- [Squirrels v0.2.0 Now Released: Create Dynamic Data Analytics APIs!](https://www.reddit.com/r/Python/comments/1awsgld/squirrels_v020_now_released_create_dynamic_data/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1awrq2i/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
