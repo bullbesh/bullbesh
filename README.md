@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Assistance needed with validity questions.](https://www.reddit.com/r/Python/comments/1ax1c00/assistance_needed_with_validity_questions/)
 - [marimo-wasm: a reactive Python notebook in the browser](https://www.reddit.com/r/Python/comments/1awvskr/marimowasm_a_reactive_python_notebook_in_the/)
 - [python-compile - compile your python app for linux execution in Win/Mac/Linux using docker](https://www.reddit.com/r/Python/comments/1awt9sc/pythoncompile_compile_your_python_app_for_linux/)
 - [Squirrels v0.2.0 Now Released: Create Dynamic Data Analytics APIs!](https://www.reddit.com/r/Python/comments/1awsgld/squirrels_v020_now_released_create_dynamic_data/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1awrq2i/thursday_daily_thread_python_careers_courses_and/)
-- [PGCacheWatch: Real-Time PostgreSQL Cache Invalidation in Python](https://www.reddit.com/r/Python/comments/1awmtqr/pgcachewatch_realtime_postgresql_cache/)
 <!-- BLOG-POST-LIST:END -->
