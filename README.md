@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Scrape a Website Using Python and BeautifulSoup](https://www.reddit.com/r/Python/comments/1ax9eel/scrape_a_website_using_python_and_beautifulsoup/)
-- [Posting for asking question](https://www.reddit.com/r/Python/comments/1ax3dxk/posting_for_asking_question/)
+- [Did you know a Python &quot;project&quot; mean you have to package it?](https://www.reddit.com/r/Python/comments/1axb5qz/did_you_know_a_python_project_mean_you_have_to/)
 - [I made a Spotify downloader with Modern UI | PyQt6 | Fluent Design](https://www.reddit.com/r/Python/comments/1ax3099/i_made_a_spotify_downloader_with_modern_ui_pyqt6/)
-- [Assistance needed with validity questions.](https://www.reddit.com/r/Python/comments/1ax1c00/assistance_needed_with_validity_questions/)
 - [marimo-wasm: a reactive Python notebook in the browser](https://www.reddit.com/r/Python/comments/1awvskr/marimowasm_a_reactive_python_notebook_in_the/)
+- [python-compile - compile your python app for linux execution in Win/Mac/Linux using docker](https://www.reddit.com/r/Python/comments/1awt9sc/pythoncompile_compile_your_python_app_for_linux/)
+- [Squirrels v0.2.0 Now Released: Create Dynamic Data Analytics APIs!](https://www.reddit.com/r/Python/comments/1awsgld/squirrels_v020_now_released_create_dynamic_data/)
 <!-- BLOG-POST-LIST:END -->
