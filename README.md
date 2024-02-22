@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [PyQuest: Python everything Cheatsheet and a Journey to the land of Python programming](https://www.reddit.com/r/Python/comments/1axcwjh/pyquest_python_everything_cheatsheet_and_a/)
 - [Did you know a Python &quot;project&quot; mean you have to package it?](https://www.reddit.com/r/Python/comments/1axb5qz/did_you_know_a_python_project_mean_you_have_to/)
 - [I made a Spotify downloader with Modern UI | PyQt6 | Fluent Design](https://www.reddit.com/r/Python/comments/1ax3099/i_made_a_spotify_downloader_with_modern_ui_pyqt6/)
 - [marimo-wasm: a reactive Python notebook in the browser](https://www.reddit.com/r/Python/comments/1awvskr/marimowasm_a_reactive_python_notebook_in_the/)
 - [python-compile - compile your python app for linux execution in Win/Mac/Linux using docker](https://www.reddit.com/r/Python/comments/1awt9sc/pythoncompile_compile_your_python_app_for_linux/)
+- [Squirrels v0.2.0 Now Released: Create Dynamic Data Analytics APIs!](https://www.reddit.com/r/Python/comments/1awsgld/squirrels_v020_now_released_create_dynamic_data/)
 <!-- BLOG-POST-LIST:END -->
