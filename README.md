@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [mswp, a decorator that clears temporary local variables upon function execution, preventing clutter](https://www.reddit.com/r/Python/comments/1axjwj3/mswp_a_decorator_that_clears_temporary_local/)
+- [Multiprocessing App hangs in the middle of a process despite start method set to spawn](https://www.reddit.com/r/Python/comments/1axnkbh/multiprocessing_app_hangs_in_the_middle_of_a/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1axm27l/friday_daily_thread_rpython_meta_and_freetalk/)
 - [New Package for Continued Fractions](https://www.reddit.com/r/Python/comments/1axhps1/new_package_for_continued_fractions/)
 - [Hyperdiv: Reactive web UI framework for Python](https://www.reddit.com/r/Python/comments/1axgbg6/hyperdiv_reactive_web_ui_framework_for_python/)
-- [Did you know a Python &quot;project&quot; mean you have to package it?](https://www.reddit.com/r/Python/comments/1axb5qz/did_you_know_a_python_project_mean_you_have_to/)
-- [I made a Spotify downloader with Modern UI | PyQt6 | Fluent Design](https://www.reddit.com/r/Python/comments/1ax3099/i_made_a_spotify_downloader_with_modern_ui_pyqt6/)
+- [PyQuest: Python everything Cheatsheet and a Journey to the land of Python programming](https://www.reddit.com/r/Python/comments/1axcwjh/pyquest_python_everything_cheatsheet_and_a/)
 <!-- BLOG-POST-LIST:END -->
