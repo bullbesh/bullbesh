@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Have any of you made a program independently and sold it to a client or company?](https://www.reddit.com/r/Python/comments/1ayatgf/have_any_of_you_made_a_program_independently_and/)
-- [Fast and efficient implementation of Monte Carlo Tree Search](https://www.reddit.com/r/Python/comments/1axz9sv/fast_and_efficient_implementation_of_monte_carlo/)
-- [Building PyPi distribution for multiple architectures?](https://www.reddit.com/r/Python/comments/1axyecf/building_pypi_distribution_for_multiple/)
+- [A Visual Basic for Applications precompiler written in python.](https://www.reddit.com/r/Python/comments/1ay6lt1/a_visual_basic_for_applications_precompiler/)
+- [Text retrieval and 3D visualization with python and Blender](https://www.reddit.com/r/Python/comments/1ay62ky/text_retrieval_and_3d_visualization_with_python/)
+- [Dispatch: Stateful Functions for Python](https://www.reddit.com/r/Python/comments/1axt0od/dispatch_stateful_functions_for_python/)
 - [KeyCraftsman Project](https://www.reddit.com/r/Python/comments/1axsf6h/keycraftsman_project/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1axm27l/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
