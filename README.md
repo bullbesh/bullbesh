@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Have any of you made a program independently and sold it to a client or company?](https://www.reddit.com/r/Python/comments/1ayatgf/have_any_of_you_made_a_program_independently_and/)
 - [Fast and efficient implementation of Monte Carlo Tree Search](https://www.reddit.com/r/Python/comments/1axz9sv/fast_and_efficient_implementation_of_monte_carlo/)
 - [Building PyPi distribution for multiple architectures?](https://www.reddit.com/r/Python/comments/1axyecf/building_pypi_distribution_for_multiple/)
 - [KeyCraftsman Project](https://www.reddit.com/r/Python/comments/1axsf6h/keycraftsman_project/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1axm27l/friday_daily_thread_rpython_meta_and_freetalk/)
-- [New Package for Continued Fractions](https://www.reddit.com/r/Python/comments/1axhps1/new_package_for_continued_fractions/)
 <!-- BLOG-POST-LIST:END -->
