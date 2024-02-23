@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fast and efficient implementation of Monte Carlo Tree Search](https://www.reddit.com/r/Python/comments/1axz9sv/fast_and_efficient_implementation_of_monte_carlo/)
+- [Building PyPi distribution for multiple architectures?](https://www.reddit.com/r/Python/comments/1axyecf/building_pypi_distribution_for_multiple/)
 - [KeyCraftsman Project](https://www.reddit.com/r/Python/comments/1axsf6h/keycraftsman_project/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1axm27l/friday_daily_thread_rpython_meta_and_freetalk/)
 - [New Package for Continued Fractions](https://www.reddit.com/r/Python/comments/1axhps1/new_package_for_continued_fractions/)
-- [Hyperdiv: Reactive web UI framework for Python](https://www.reddit.com/r/Python/comments/1axgbg6/hyperdiv_reactive_web_ui_framework_for_python/)
-- [PyQuest: Python everything Cheatsheet and a Journey to the land of Python programming](https://www.reddit.com/r/Python/comments/1axcwjh/pyquest_python_everything_cheatsheet_and_a/)
 <!-- BLOG-POST-LIST:END -->
