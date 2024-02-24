@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why does Programiz Python doesn&#39;t work anymore?](https://www.reddit.com/r/Python/comments/1ayvf5z/why_does_programiz_python_doesnt_work_anymore/)
 - [DataLoader - Dynamically load all files.](https://www.reddit.com/r/Python/comments/1ayng5h/dataloader_dynamically_load_all_files/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ayfz57/saturday_daily_thread_resource_request_and/)
 - [A Visual Basic for Applications precompiler written in python.](https://www.reddit.com/r/Python/comments/1ay6lt1/a_visual_basic_for_applications_precompiler/)
 - [Text retrieval and 3D visualization with python and Blender](https://www.reddit.com/r/Python/comments/1ay62ky/text_retrieval_and_3d_visualization_with_python/)
-- [Dispatch: Stateful Functions for Python](https://www.reddit.com/r/Python/comments/1axt0od/dispatch_stateful_functions_for_python/)
 <!-- BLOG-POST-LIST:END -->
