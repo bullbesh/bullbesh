@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing LIVA: Your Local Intelligent Voice Assistant](https://www.reddit.com/r/Python/comments/1aznktf/introducing_liva_your_local_intelligent_voice/)
+- [Dynamically download Images on Run](https://www.reddit.com/r/Python/comments/1azn5bu/dynamically_download_images_on_run/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1az9j86/sunday_daily_thread_whats_everyone_working_on/)
 - [Rybak 0.3 - library for generating directory trees](https://www.reddit.com/r/Python/comments/1az1ya2/rybak_03_library_for_generating_directory_trees/)
 - [A simple comic strip API wrapper](https://www.reddit.com/r/Python/comments/1az1ktw/a_simple_comic_strip_api_wrapper/)
-- [A python hacky script to scan rdp port 3389](https://www.reddit.com/r/Python/comments/1ayyzcp/a_python_hacky_script_to_scan_rdp_port_3389/)
-- [DataLoader - Dynamically load all files.](https://www.reddit.com/r/Python/comments/1ayng5h/dataloader_dynamically_load_all_files/)
 <!-- BLOG-POST-LIST:END -->
