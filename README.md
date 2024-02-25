@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an E-commerce Product Recommendation System with OpenAI Embeddings in Python](https://www.reddit.com/r/Python/comments/1azw2h5/building_an_ecommerce_product_recommendation/)
+- [RenderCV v1 is released! Create an elegant CV/resume from YAML.](https://www.reddit.com/r/Python/comments/1azvd85/rendercv_v1_is_released_create_an_elegant/)
 - [Introducing LIVA: Your Local Intelligent Voice Assistant](https://www.reddit.com/r/Python/comments/1aznktf/introducing_liva_your_local_intelligent_voice/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1az9j86/sunday_daily_thread_whats_everyone_working_on/)
 - [Rybak 0.3 - library for generating directory trees](https://www.reddit.com/r/Python/comments/1az1ya2/rybak_03_library_for_generating_directory_trees/)
-- [A simple comic strip API wrapper](https://www.reddit.com/r/Python/comments/1az1ktw/a_simple_comic_strip_api_wrapper/)
-- [A python hacky script to scan rdp port 3389](https://www.reddit.com/r/Python/comments/1ayyzcp/a_python_hacky_script_to_scan_rdp_port_3389/)
 <!-- BLOG-POST-LIST:END -->
