@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1az9j86/sunday_daily_thread_whats_everyone_working_on/)
-- [asdf vs pyenv with automatic virtualenv](https://www.reddit.com/r/Python/comments/1az6utz/asdf_vs_pyenv_with_automatic_virtualenv/)
 - [Rybak 0.3 - library for generating directory trees](https://www.reddit.com/r/Python/comments/1az1ya2/rybak_03_library_for_generating_directory_trees/)
 - [A simple comic strip API wrapper](https://www.reddit.com/r/Python/comments/1az1ktw/a_simple_comic_strip_api_wrapper/)
 - [A python hacky script to scan rdp port 3389](https://www.reddit.com/r/Python/comments/1ayyzcp/a_python_hacky_script_to_scan_rdp_port_3389/)
+- [DataLoader - Dynamically load all files.](https://www.reddit.com/r/Python/comments/1ayng5h/dataloader_dynamically_load_all_files/)
 <!-- BLOG-POST-LIST:END -->
