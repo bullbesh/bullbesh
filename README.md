@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Free Cloud Storage using Discord](https://www.reddit.com/r/Python/comments/1az7lae/free_cloud_storage_using_discord/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1az9j86/sunday_daily_thread_whats_everyone_working_on/)
 - [asdf vs pyenv with automatic virtualenv](https://www.reddit.com/r/Python/comments/1az6utz/asdf_vs_pyenv_with_automatic_virtualenv/)
 - [Rybak 0.3 - library for generating directory trees](https://www.reddit.com/r/Python/comments/1az1ya2/rybak_03_library_for_generating_directory_trees/)
 - [A simple comic strip API wrapper](https://www.reddit.com/r/Python/comments/1az1ktw/a_simple_comic_strip_api_wrapper/)
