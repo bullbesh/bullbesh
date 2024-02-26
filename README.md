@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [remoteio - A remote GPIO library for the Raspberry Pi](https://www.reddit.com/r/Python/comments/1b0cxwc/remoteio_a_remote_gpio_library_for_the_raspberry/)
 - [Pyright plugin for PyCharm](https://www.reddit.com/r/Python/comments/1b0b0cb/pyright_plugin_for_pycharm/)
 - [Tyche: Supercharge Your Hypothesis Testing](https://www.reddit.com/r/Python/comments/1b07iod/tyche_supercharge_your_hypothesis_testing/)
 - [Financial-Analyzer &lpar;Python CLI money analyzer / Mint alternative&rpar;](https://www.reddit.com/r/Python/comments/1b04vdj/financialanalyzer_python_cli_money_analyzer_mint/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1b0388v/monday_daily_thread_project_ideas/)
-- [RenderCV v1 is released! Create an elegant CV/resume from YAML.](https://www.reddit.com/r/Python/comments/1azvd85/rendercv_v1_is_released_create_an_elegant/)
 <!-- BLOG-POST-LIST:END -->
