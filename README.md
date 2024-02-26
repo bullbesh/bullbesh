@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why does the antivirus block a normal python file](https://www.reddit.com/r/Python/comments/1azxikq/why_does_the_antivirus_block_a_normal_python_file/)
-- [Fastest way to find minimal difference in a list of numbers](https://www.reddit.com/r/Python/comments/1azwx35/fastest_way_to_find_minimal_difference_in_a_list/)
-- [Building an E-commerce Product Recommendation System with OpenAI Embeddings in Python](https://www.reddit.com/r/Python/comments/1azw2h5/building_an_ecommerce_product_recommendation/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1b0388v/monday_daily_thread_project_ideas/)
 - [RenderCV v1 is released! Create an elegant CV/resume from YAML.](https://www.reddit.com/r/Python/comments/1azvd85/rendercv_v1_is_released_create_an_elegant/)
 - [Introducing LIVA: Your Local Intelligent Voice Assistant](https://www.reddit.com/r/Python/comments/1aznktf/introducing_liva_your_local_intelligent_voice/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1az9j86/sunday_daily_thread_whats_everyone_working_on/)
+- [Rybak 0.3 - library for generating directory trees](https://www.reddit.com/r/Python/comments/1az1ya2/rybak_03_library_for_generating_directory_trees/)
 <!-- BLOG-POST-LIST:END -->
