@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tyche: Supercharge Your Hypothesis Testing](https://www.reddit.com/r/Python/comments/1b07iod/tyche_supercharge_your_hypothesis_testing/)
 - [Financial-Analyzer &lpar;Python CLI money analyzer / Mint alternative&rpar;](https://www.reddit.com/r/Python/comments/1b04vdj/financialanalyzer_python_cli_money_analyzer_mint/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1b0388v/monday_daily_thread_project_ideas/)
 - [RenderCV v1 is released! Create an elegant CV/resume from YAML.](https://www.reddit.com/r/Python/comments/1azvd85/rendercv_v1_is_released_create_an_elegant/)
 - [Introducing LIVA: Your Local Intelligent Voice Assistant](https://www.reddit.com/r/Python/comments/1aznktf/introducing_liva_your_local_intelligent_voice/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1az9j86/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
