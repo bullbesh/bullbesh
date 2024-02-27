@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Insurance Program using quoting software api or without](https://www.reddit.com/r/Python/comments/1b11wur/insurance_program_using_quoting_software_api_or/)
 - [SuiteSpotAuth: A simple authentication wrapper for SuiteSpot](https://www.reddit.com/r/Python/comments/1b10yyd/suitespotauth_a_simple_authentication_wrapper_for/)
 - [I Remade Infinite Craft But In PySide6 And You Can Create Your Own Versions With it](https://www.reddit.com/r/Python/comments/1b0xxc1/i_remade_infinite_craft_but_in_pyside6_and_you/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1b0x5zm/tuesday_daily_thread_advanced_questions/)
 - [Online tool for visualizing regex matches in Python](https://www.reddit.com/r/Python/comments/1b0ubw5/online_tool_for_visualizing_regex_matches_in/)
+- [Balancing chemical equations with Python](https://www.reddit.com/r/Python/comments/1b0ty3g/balancing_chemical_equations_with_python/)
 <!-- BLOG-POST-LIST:END -->
