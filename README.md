@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Remade Infinite Craft But In PySide6 And You Can Create Your Own Versions With it](https://www.reddit.com/r/Python/comments/1b0xxc1/i_remade_infinite_craft_but_in_pyside6_and_you/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1b0x5zm/tuesday_daily_thread_advanced_questions/)
 - [Online tool for visualizing regex matches in Python](https://www.reddit.com/r/Python/comments/1b0ubw5/online_tool_for_visualizing_regex_matches_in/)
 - [Balancing chemical equations with Python](https://www.reddit.com/r/Python/comments/1b0ty3g/balancing_chemical_equations_with_python/)
-- [How to capture mouse clicks in terminal like htop does?](https://www.reddit.com/r/Python/comments/1b0rizx/how_to_capture_mouse_clicks_in_terminal_like_htop/)
 - [sqlcipher3-wheels: Wheels for sqlcipher3, 100% less pain during install &lpar;Windows, MacOS, Linux&rpar;](https://www.reddit.com/r/Python/comments/1b0dn1o/sqlcipher3wheels_wheels_for_sqlcipher3_100_less/)
-- [remoteio - A remote GPIO library for the Raspberry Pi](https://www.reddit.com/r/Python/comments/1b0cxwc/remoteio_a_remote_gpio_library_for_the_raspberry/)
 <!-- BLOG-POST-LIST:END -->
