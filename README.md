@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dealing with 💩 clients in software development](https://www.reddit.com/r/Python/comments/1b1ed6a/dealing_with_clients_in_software_development/)
 - [Python or other automation softwares.](https://www.reddit.com/r/Python/comments/1b1bt85/python_or_other_automation_softwares/)
 - [Pycharm SQLAlchemy Plugin adds typing support for Mapped columns](https://www.reddit.com/r/Python/comments/1b1b047/pycharm_sqlalchemy_plugin_adds_typing_support_for/)
 - [PySTAC Decoded: A Step-by-Step Tutorial](https://www.reddit.com/r/Python/comments/1b18m96/pystac_decoded_a_stepbystep_tutorial/)
 - [SuiteSpotAuth: A simple authentication wrapper for SuiteSpot](https://www.reddit.com/r/Python/comments/1b10yyd/suitespotauth_a_simple_authentication_wrapper_for/)
-- [I Remade Infinite Craft But In PySide6 And You Can Create Your Own Versions With it](https://www.reddit.com/r/Python/comments/1b0xxc1/i_remade_infinite_craft_but_in_pyside6_and_you/)
 <!-- BLOG-POST-LIST:END -->
