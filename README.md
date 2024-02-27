@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Dealing with 💩 clients in software development](https://www.reddit.com/r/Python/comments/1b1ed6a/dealing_with_clients_in_software_development/)
+- [Flask application for transcribing phone calls in real-time - full tutorial](https://www.reddit.com/r/Python/comments/1b1h7sm/flask_application_for_transcribing_phone_calls_in/)
 - [Python or other automation softwares.](https://www.reddit.com/r/Python/comments/1b1bt85/python_or_other_automation_softwares/)
 - [Pycharm SQLAlchemy Plugin adds typing support for Mapped columns](https://www.reddit.com/r/Python/comments/1b1b047/pycharm_sqlalchemy_plugin_adds_typing_support_for/)
 - [PySTAC Decoded: A Step-by-Step Tutorial](https://www.reddit.com/r/Python/comments/1b18m96/pystac_decoded_a_stepbystep_tutorial/)
