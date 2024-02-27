@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SuiteSpotAuth: A simple authentication wrapper for SuiteSpot](https://www.reddit.com/r/Python/comments/1b10yyd/suitespotauth_a_simple_authentication_wrapper_for/)
 - [Join the All Things Coding discord server!](https://www.reddit.com/r/Python/comments/1b0zurc/join_the_all_things_coding_discord_server/)
 - [Program education book for newish programers.](https://www.reddit.com/r/Python/comments/1b0zplx/program_education_book_for_newish_programers/)
 - [I Remade Infinite Craft But In PySide6 And You Can Create Your Own Versions With it](https://www.reddit.com/r/Python/comments/1b0xxc1/i_remade_infinite_craft_but_in_pyside6_and_you/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1b0x5zm/tuesday_daily_thread_advanced_questions/)
-- [Online tool for visualizing regex matches in Python](https://www.reddit.com/r/Python/comments/1b0ubw5/online_tool_for_visualizing_regex_matches_in/)
 <!-- BLOG-POST-LIST:END -->
