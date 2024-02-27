@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Join the All Things Coding discord server!](https://www.reddit.com/r/Python/comments/1b0zurc/join_the_all_things_coding_discord_server/)
+- [Program education book for newish programers.](https://www.reddit.com/r/Python/comments/1b0zplx/program_education_book_for_newish_programers/)
 - [I Remade Infinite Craft But In PySide6 And You Can Create Your Own Versions With it](https://www.reddit.com/r/Python/comments/1b0xxc1/i_remade_infinite_craft_but_in_pyside6_and_you/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1b0x5zm/tuesday_daily_thread_advanced_questions/)
 - [Online tool for visualizing regex matches in Python](https://www.reddit.com/r/Python/comments/1b0ubw5/online_tool_for_visualizing_regex_matches_in/)
-- [Balancing chemical equations with Python](https://www.reddit.com/r/Python/comments/1b0ty3g/balancing_chemical_equations_with_python/)
-- [sqlcipher3-wheels: Wheels for sqlcipher3, 100% less pain during install &lpar;Windows, MacOS, Linux&rpar;](https://www.reddit.com/r/Python/comments/1b0dn1o/sqlcipher3wheels_wheels_for_sqlcipher3_100_less/)
 <!-- BLOG-POST-LIST:END -->
