@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a CV Generator using PyQt6 and Python | Modern Design](https://www.reddit.com/r/Python/comments/1b2eerp/i_made_a_cv_generator_using_pyqt6_and_python/)
+- [Streaming Python ETL with Airbyte and Pathway](https://www.reddit.com/r/Python/comments/1b2e309/streaming_python_etl_with_airbyte_and_pathway/)
+- [clifunction - A minimal/simple way of building cli tools in python!](https://www.reddit.com/r/Python/comments/1b2d88q/clifunction_a_minimalsimple_way_of_building_cli/)
 - [Python Certification Guide- What should we include in it to make it super useful?](https://www.reddit.com/r/Python/comments/1b2263h/python_certification_guide_what_should_we_include/)
 - [hotpdf: Fast PDF Text Search and Extraction Library](https://www.reddit.com/r/Python/comments/1b216mz/hotpdf_fast_pdf_text_search_and_extraction_library/)
-- [Automatically Generate Python Docstrings with LLMs](https://www.reddit.com/r/Python/comments/1b2034r/automatically_generate_python_docstrings_with_llms/)
-- [Resource management rant: Current concepts not sufficient](https://www.reddit.com/r/Python/comments/1b1uv7f/resource_management_rant_current_concepts_not/)
-- [🐙 complexipy: An extremely fast Python library to calculate the cognitive complexity of python](https://www.reddit.com/r/Python/comments/1b1u70c/complexipy_an_extremely_fast_python_library_to/)
 <!-- BLOG-POST-LIST:END -->
