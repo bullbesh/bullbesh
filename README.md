@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Resource management rant: Current concepts not sufficient](https://www.reddit.com/r/Python/comments/1b1uv7f/resource_management_rant_current_concepts_not/)
-- [What do you using Python for?](https://www.reddit.com/r/Python/comments/1b1ujjm/what_do_you_using_python_for/)
 - [🐙 complexipy: An extremely fast Python library to calculate the cognitive complexity of python](https://www.reddit.com/r/Python/comments/1b1u70c/complexipy_an_extremely_fast_python_library_to/)
-- [Python selenium](https://www.reddit.com/r/Python/comments/1b1setd/python_selenium/)
 - [Advanced Python Web Scraping Techniques | Jacob Padilla](https://www.reddit.com/r/Python/comments/1b1sbzh/advanced_python_web_scraping_techniques_jacob/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1b1rd2f/wednesday_daily_thread_beginner_questions/)
+- [What all IDEs do you use? And why?](https://www.reddit.com/r/Python/comments/1b1r51t/what_all_ides_do_you_use_and_why/)
 <!-- BLOG-POST-LIST:END -->
