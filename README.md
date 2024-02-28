@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Journey to understand time-series forecasting](https://www.reddit.com/r/Python/comments/1b28j52/journey_to_understand_timeseries_forecasting/)
 - [What multi language tools are you using for code quality and best practices?](https://www.reddit.com/r/Python/comments/1b26b7n/what_multi_language_tools_are_you_using_for_code/)
 - [Solving a variant of the subset sum problem](https://www.reddit.com/r/Python/comments/1b22bxh/solving_a_variant_of_the_subset_sum_problem/)
 - [Python Certification Guide- What should we include in it to make it super useful?](https://www.reddit.com/r/Python/comments/1b2263h/python_certification_guide_what_should_we_include/)
 - [hotpdf: Fast PDF Text Search and Extraction Library](https://www.reddit.com/r/Python/comments/1b216mz/hotpdf_fast_pdf_text_search_and_extraction_library/)
-- [Automatically Generate Python Docstrings with LLMs](https://www.reddit.com/r/Python/comments/1b2034r/automatically_generate_python_docstrings_with_llms/)
 <!-- BLOG-POST-LIST:END -->
