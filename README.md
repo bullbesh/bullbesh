@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python selenium](https://www.reddit.com/r/Python/comments/1b1setd/python_selenium/)
+- [Advanced Python Web Scraping Techniques | Jacob Padilla](https://www.reddit.com/r/Python/comments/1b1sbzh/advanced_python_web_scraping_techniques_jacob/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1b1rd2f/wednesday_daily_thread_beginner_questions/)
+- [What all IDEs do you use? And why?](https://www.reddit.com/r/Python/comments/1b1r51t/what_all_ides_do_you_use_and_why/)
 - [Dive Into Key Generation: RSA and AES Performance](https://www.reddit.com/r/Python/comments/1b1nnw7/dive_into_key_generation_rsa_and_aes_performance/)
-- [Best embedded implementations](https://www.reddit.com/r/Python/comments/1b1jlqm/best_embedded_implementations/)
-- [Flask application for transcribing phone calls in real-time - full tutorial](https://www.reddit.com/r/Python/comments/1b1h7sm/flask_application_for_transcribing_phone_calls_in/)
-- [Python or other automation softwares.](https://www.reddit.com/r/Python/comments/1b1bt85/python_or_other_automation_softwares/)
-- [Pycharm SQLAlchemy Plugin adds typing support for Mapped columns](https://www.reddit.com/r/Python/comments/1b1b047/pycharm_sqlalchemy_plugin_adds_typing_support_for/)
 <!-- BLOG-POST-LIST:END -->
