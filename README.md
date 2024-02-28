@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [hotpdf: Fast PDF Text Search and Extraction Library](https://www.reddit.com/r/Python/comments/1b216mz/hotpdf_fast_pdf_text_search_and_extraction_library/)
 - [Automatically Generate Python Docstrings with LLMs](https://www.reddit.com/r/Python/comments/1b2034r/automatically_generate_python_docstrings_with_llms/)
 - [Resource management rant: Current concepts not sufficient](https://www.reddit.com/r/Python/comments/1b1uv7f/resource_management_rant_current_concepts_not/)
 - [🐙 complexipy: An extremely fast Python library to calculate the cognitive complexity of python](https://www.reddit.com/r/Python/comments/1b1u70c/complexipy_an_extremely_fast_python_library_to/)
 - [Advanced Python Web Scraping Techniques | Jacob Padilla](https://www.reddit.com/r/Python/comments/1b1sbzh/advanced_python_web_scraping_techniques_jacob/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1b1rd2f/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
