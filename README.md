@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [6 ways to improve the architecture of your Python project &lpar;using import-linter&rpar;](https://www.reddit.com/r/Python/comments/1b2z2g8/6_ways_to_improve_the_architecture_of_your_python/)
+- [MuAlphaZeroLibrary: simple usage and training of MuZero and AlphaZero type models](https://www.reddit.com/r/Python/comments/1b2xybq/mualphazerolibrary_simple_usage_and_training_of/)
 - [Persistent module variables](https://www.reddit.com/r/Python/comments/1b2xk0z/persistent_module_variables/)
-- [PYTHON ISN&#39;T REAL - IT&#39;S GLUE](https://www.reddit.com/r/Python/comments/1b2x2wc/python_isnt_real_its_glue/)
 - [Introducing Genie AI: Google&#39;s Revolutionary Tool for Generating Video Games from Text, Sketch, and](https://www.reddit.com/r/Python/comments/1b2vr9v/introducing_genie_ai_googles_revolutionary_tool/)
 - [What are the best libraries to create UIs that let you code &quot;infinite&quot; area of work kinda of thing?](https://www.reddit.com/r/Python/comments/1b2vq35/what_are_the_best_libraries_to_create_uis_that/)
-- [This is what a +60k git diff gives Pythonistas this year](https://www.reddit.com/r/Python/comments/1b2t6pd/this_is_what_a_60k_git_diff_gives_pythonistas/)
 <!-- BLOG-POST-LIST:END -->
