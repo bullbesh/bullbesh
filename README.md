@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python code to fit data to a sum of exponentials with arbitrary number of terms](https://www.reddit.com/r/Python/comments/1b3cot3/python_code_to_fit_data_to_a_sum_of_exponentials/)
 - [Ruff 0.3.0 - first stable version of ruff formatter](https://www.reddit.com/r/Python/comments/1b36z60/ruff_030_first_stable_version_of_ruff_formatter/)
 - [New python library for ELT](https://www.reddit.com/r/Python/comments/1b36wde/new_python_library_for_elt/)
 - [A Discord Bot to converse with documentation using GPT-4 + RAG](https://www.reddit.com/r/Python/comments/1b33vnk/a_discord_bot_to_converse_with_documentation/)
 - [pyCage: A VSCode extension to search and install popular Python packages from the command palette.](https://www.reddit.com/r/Python/comments/1b32suc/pycage_a_vscode_extension_to_search_and_install/)
-- [MuAlphaZeroLibrary: simple usage and training of MuZero and AlphaZero type models](https://www.reddit.com/r/Python/comments/1b2xybq/mualphazerolibrary_simple_usage_and_training_of/)
 <!-- BLOG-POST-LIST:END -->
