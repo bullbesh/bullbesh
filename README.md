@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [This is what a +60k git diff gives Pythonistas this year](https://www.reddit.com/r/Python/comments/1b2t6pd/this_is_what_a_60k_git_diff_gives_pythonistas/)
+- [403 Forbidden while streaming tweet with tweepy on basic tier subscription](https://www.reddit.com/r/Python/comments/1b2sgyp/403_forbidden_while_streaming_tweet_with_tweepy/)
 - [Is bun typescript faster than python?](https://www.reddit.com/r/Python/comments/1b2r5k4/is_bun_typescript_faster_than_python/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1b2ltwd/thursday_daily_thread_python_careers_courses_and/)
 - [Automate creating a virtual environment and upgrading pip [tutorial]](https://www.reddit.com/r/Python/comments/1b2ldnp/automate_creating_a_virtual_environment_and/)
-- [Starter template for Cython](https://www.reddit.com/r/Python/comments/1b2km3x/starter_template_for_cython/)
-- [Join the All Things Coding Discord server!](https://www.reddit.com/r/Python/comments/1b2kfso/join_the_all_things_coding_discord_server/)
 <!-- BLOG-POST-LIST:END -->
