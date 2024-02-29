@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [6 ways to improve the architecture of your Python project &lpar;using import-linter&rpar;](https://www.reddit.com/r/Python/comments/1b2z2g8/6_ways_to_improve_the_architecture_of_your_python/)
 - [MuAlphaZeroLibrary: simple usage and training of MuZero and AlphaZero type models](https://www.reddit.com/r/Python/comments/1b2xybq/mualphazerolibrary_simple_usage_and_training_of/)
-- [Persistent module variables](https://www.reddit.com/r/Python/comments/1b2xk0z/persistent_module_variables/)
-- [Introducing Genie AI: Google&#39;s Revolutionary Tool for Generating Video Games from Text, Sketch, and](https://www.reddit.com/r/Python/comments/1b2vr9v/introducing_genie_ai_googles_revolutionary_tool/)
 - [What are the best libraries to create UIs that let you code &quot;infinite&quot; area of work kinda of thing?](https://www.reddit.com/r/Python/comments/1b2vq35/what_are_the_best_libraries_to_create_uis_that/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1b2ltwd/thursday_daily_thread_python_careers_courses_and/)
+- [Automate creating a virtual environment and upgrading pip [tutorial]](https://www.reddit.com/r/Python/comments/1b2ldnp/automate_creating_a_virtual_environment_and/)
+- [Starter template for Cython](https://www.reddit.com/r/Python/comments/1b2km3x/starter_template_for_cython/)
 <!-- BLOG-POST-LIST:END -->
