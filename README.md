@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Chained variable assignments](https://www.reddit.com/r/Python/comments/1b3py42/chained_variable_assignments/)
+- [Unleash the Power of Pandas DataFrame: Your Go-To Resource for Python Data Analysis!](https://www.reddit.com/r/Python/comments/1b3rqj1/unleash_the_power_of_pandas_dataframe_your_goto/)
+- [Can I plot postcodes onto a map?](https://www.reddit.com/r/Python/comments/1b3rpmx/can_i_plot_postcodes_onto_a_map/)
 - [Use Firebase with Tkinter &lpar;Free Database &amp; Authentication&rpar;](https://www.reddit.com/r/Python/comments/1b3mkk3/use_firebase_with_tkinter_free_database/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1b3frba/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Real-time ingestion pipeline for RAG app in Python](https://www.reddit.com/r/Python/comments/1b3dit2/realtime_ingestion_pipeline_for_rag_app_in_python/)
-- [Python code to fit data to a sum of exponentials with arbitrary number of terms](https://www.reddit.com/r/Python/comments/1b3cot3/python_code_to_fit_data_to_a_sum_of_exponentials/)
 <!-- BLOG-POST-LIST:END -->
