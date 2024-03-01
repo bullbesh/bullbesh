@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Transactional outbox pattern animated](https://www.reddit.com/r/Python/comments/1b47984/transactional_outbox_pattern_animated/)
 - [Project to quantize/perfect/vectorize loose scribbles](https://www.reddit.com/r/Python/comments/1b3s3ti/project_to_quantizeperfectvectorize_loose/)
 - [Use Firebase with Tkinter &lpar;Free Database &amp; Authentication&rpar;](https://www.reddit.com/r/Python/comments/1b3mkk3/use_firebase_with_tkinter_free_database/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1b3frba/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Real-time ingestion pipeline for RAG app in Python](https://www.reddit.com/r/Python/comments/1b3dit2/realtime_ingestion_pipeline_for_rag_app_in_python/)
-- [Python code to fit data to a sum of exponentials with arbitrary number of terms](https://www.reddit.com/r/Python/comments/1b3cot3/python_code_to_fit_data_to_a_sum_of_exponentials/)
 <!-- BLOG-POST-LIST:END -->
