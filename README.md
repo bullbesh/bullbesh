@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [spellcheck multilingual](https://www.reddit.com/r/Python/comments/1b4kzxu/spellcheck_multilingual/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1b49uzk/saturday_daily_thread_resource_request_and/)
 - [Valid uses of eval&lpar;&rpar;?](https://www.reddit.com/r/Python/comments/1b49p6d/valid_uses_of_eval/)
 - [🐂 Oxen.ai 0.11.1 - Added python support for data diffs on csvs, parquet, jsonl etc](https://www.reddit.com/r/Python/comments/1b3wvrb/oxenai_0111_added_python_support_for_data_diffs/)
 - [Use Firebase with Tkinter &lpar;Free Database &amp; Authentication&rpar;](https://www.reddit.com/r/Python/comments/1b3mkk3/use_firebase_with_tkinter_free_database/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1b3frba/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
