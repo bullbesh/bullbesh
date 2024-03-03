@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [shavis - Visualize SHA256 and SHA1](https://www.reddit.com/r/Python/comments/1b5em7s/shavis_visualize_sha256_and_sha1/)
 - [I hate typing out every &#39;self.x = x&#39; line in an __init__ method. Is this alternative acceptable?](https://www.reddit.com/r/Python/comments/1b5bc8g/i_hate_typing_out_every_selfx_x_line_in_an_init/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1b52uds/sunday_daily_thread_whats_everyone_working_on/)
 - [Text-to-speech with python](https://www.reddit.com/r/Python/comments/1b51w2t/texttospeech_with_python/)
 - [An extremely modern and configurable Python project template](https://www.reddit.com/r/Python/comments/1b4qwds/an_extremely_modern_and_configurable_python/)
-- [sew: SQLite Extensions and Wrappers](https://www.reddit.com/r/Python/comments/1b4mn60/sew_sqlite_extensions_and_wrappers/)
 <!-- BLOG-POST-LIST:END -->
