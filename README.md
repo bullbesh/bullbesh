@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A simplified way to get SQL data into DataFrames for analysis](https://www.reddit.com/r/Python/comments/1b5wfr1/a_simplified_way_to_get_sql_data_into_dataframes/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1b5wbuu/monday_daily_thread_project_ideas/)
 - [Automatic wallpaper changer - Wallpapertime](https://www.reddit.com/r/Python/comments/1b5gsoh/automatic_wallpaper_changer_wallpapertime/)
 - [shavis - Visualize SHA256 and SHA1](https://www.reddit.com/r/Python/comments/1b5em7s/shavis_visualize_sha256_and_sha1/)
 - [I hate typing out every &#39;self.x = x&#39; line in an __init__ method. Is this alternative acceptable?](https://www.reddit.com/r/Python/comments/1b5bc8g/i_hate_typing_out_every_selfx_x_line_in_an_init/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1b52uds/sunday_daily_thread_whats_everyone_working_on/)
-- [Text-to-speech with python](https://www.reddit.com/r/Python/comments/1b51w2t/texttospeech_with_python/)
 <!-- BLOG-POST-LIST:END -->
