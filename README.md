@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What automated tasks have you created that you believe others would benefit from?](https://www.reddit.com/r/Python/comments/1b6ojw5/what_automated_tasks_have_you_created_that_you/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1b6qj7t/tuesday_daily_thread_advanced_questions/)
 - [I made a YouTube downloader with Modern UI | PyQt6 | PyTube | Fluent Design](https://www.reddit.com/r/Python/comments/1b66726/i_made_a_youtube_downloader_with_modern_ui_pyqt6/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1b5wbuu/monday_daily_thread_project_ideas/)
 - [shavis - Visualize SHA256 and SHA1](https://www.reddit.com/r/Python/comments/1b5em7s/shavis_visualize_sha256_and_sha1/)
