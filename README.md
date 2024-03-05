@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Seeking Recommendations for Open Source Projects for FastAPI](https://www.reddit.com/r/Python/comments/1b74rm3/seeking_recommendations_for_open_source_projects/)
+- [Proposal for a Team Dedicated to Discussing and Contributing to Daily Social Technology Requirements](https://www.reddit.com/r/Python/comments/1b743dm/proposal_for_a_team_dedicated_to_discussing_and/)
 - [Linked list and graphs](https://www.reddit.com/r/Python/comments/1b72wdl/linked_list_and_graphs/)
 - [Rookie of Python, what simple apps to develop can u suggest?](https://www.reddit.com/r/Python/comments/1b701b4/rookie_of_python_what_simple_apps_to_develop_can/)
 - [Sitcom Simulator: a tool for generating weird AI meme videos](https://www.reddit.com/r/Python/comments/1b6z27b/sitcom_simulator_a_tool_for_generating_weird_ai/)
-- [Looking for a project to contribute](https://www.reddit.com/r/Python/comments/1b6xxwk/looking_for_a_project_to_contribute/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1b6qj7t/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
