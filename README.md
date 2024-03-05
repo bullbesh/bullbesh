@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Multiple SSH Keys with Git using Namespaces](https://www.reddit.com/r/Python/comments/1b6snle/using_multiple_ssh_keys_with_git_using_namespaces/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1b6qj7t/tuesday_daily_thread_advanced_questions/)
 - [I made a YouTube downloader with Modern UI | PyQt6 | PyTube | Fluent Design](https://www.reddit.com/r/Python/comments/1b66726/i_made_a_youtube_downloader_with_modern_ui_pyqt6/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1b5wbuu/monday_daily_thread_project_ideas/)
 - [shavis - Visualize SHA256 and SHA1](https://www.reddit.com/r/Python/comments/1b5em7s/shavis_visualize_sha256_and_sha1/)
+- [I hate typing out every &#39;self.x = x&#39; line in an __init__ method. Is this alternative acceptable?](https://www.reddit.com/r/Python/comments/1b5bc8g/i_hate_typing_out_every_selfx_x_line_in_an_init/)
 <!-- BLOG-POST-LIST:END -->
