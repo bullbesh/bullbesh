@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anaconda 2024-02 Release Notes](https://www.reddit.com/r/Python/comments/1b77usx/anaconda_202402_release_notes/)
 - [Contribute to Python cybersecurity projects in GSoC 2024!](https://www.reddit.com/r/Python/comments/1b75dwk/contribute_to_python_cybersecurity_projects_in/)
 - [Sitcom Simulator: a tool for generating weird AI meme videos](https://www.reddit.com/r/Python/comments/1b6z27b/sitcom_simulator_a_tool_for_generating_weird_ai/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1b6qj7t/tuesday_daily_thread_advanced_questions/)
 - [I made a YouTube downloader with Modern UI | PyQt6 | PyTube | Fluent Design](https://www.reddit.com/r/Python/comments/1b66726/i_made_a_youtube_downloader_with_modern_ui_pyqt6/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1b5wbuu/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
