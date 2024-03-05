@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cadwyn: the most sophisticated Python API Versioning framework](https://www.reddit.com/r/Python/comments/1b7c3dp/cadwyn_the_most_sophisticated_python_api/)
+- [Reflex 0.4.0 - Web Apps in Pure Python](https://www.reddit.com/r/Python/comments/1b7bgwn/reflex_040_web_apps_in_pure_python/)
 - [Anaconda 2024-02 Release Notes](https://www.reddit.com/r/Python/comments/1b77usx/anaconda_202402_release_notes/)
 - [Contribute to Python cybersecurity projects in GSoC 2024!](https://www.reddit.com/r/Python/comments/1b75dwk/contribute_to_python_cybersecurity_projects_in/)
 - [Sitcom Simulator: a tool for generating weird AI meme videos](https://www.reddit.com/r/Python/comments/1b6z27b/sitcom_simulator_a_tool_for_generating_weird_ai/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1b6qj7t/tuesday_daily_thread_advanced_questions/)
-- [I made a YouTube downloader with Modern UI | PyQt6 | PyTube | Fluent Design](https://www.reddit.com/r/Python/comments/1b66726/i_made_a_youtube_downloader_with_modern_ui_pyqt6/)
 <!-- BLOG-POST-LIST:END -->
