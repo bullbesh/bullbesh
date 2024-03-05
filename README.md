@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sitcom Simulator: a tool for generating weird AI meme videos](https://www.reddit.com/r/Python/comments/1b6z27b/sitcom_simulator_a_tool_for_generating_weird_ai/)
 - [Looking for a project to contribute](https://www.reddit.com/r/Python/comments/1b6xxwk/looking_for_a_project_to_contribute/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1b6qj7t/tuesday_daily_thread_advanced_questions/)
 - [I made a YouTube downloader with Modern UI | PyQt6 | PyTube | Fluent Design](https://www.reddit.com/r/Python/comments/1b66726/i_made_a_youtube_downloader_with_modern_ui_pyqt6/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1b5wbuu/monday_daily_thread_project_ideas/)
-- [shavis - Visualize SHA256 and SHA1](https://www.reddit.com/r/Python/comments/1b5em7s/shavis_visualize_sha256_and_sha1/)
 <!-- BLOG-POST-LIST:END -->
