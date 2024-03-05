@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Contribute to Python cybersecurity projects in GSoC 2024!](https://www.reddit.com/r/Python/comments/1b75dwk/contribute_to_python_cybersecurity_projects_in/)
-- [Seeking Recommendations for Open Source Projects for FastAPI](https://www.reddit.com/r/Python/comments/1b74rm3/seeking_recommendations_for_open_source_projects/)
-- [Proposal for a Team Dedicated to Discussing and Contributing to Daily Social Technology Requirements](https://www.reddit.com/r/Python/comments/1b743dm/proposal_for_a_team_dedicated_to_discussing_and/)
-- [Linked list and graphs](https://www.reddit.com/r/Python/comments/1b72wdl/linked_list_and_graphs/)
-- [Rookie of Python, what simple apps to develop can u suggest?](https://www.reddit.com/r/Python/comments/1b701b4/rookie_of_python_what_simple_apps_to_develop_can/)
+- [Sitcom Simulator: a tool for generating weird AI meme videos](https://www.reddit.com/r/Python/comments/1b6z27b/sitcom_simulator_a_tool_for_generating_weird_ai/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1b6qj7t/tuesday_daily_thread_advanced_questions/)
+- [I made a YouTube downloader with Modern UI | PyQt6 | PyTube | Fluent Design](https://www.reddit.com/r/Python/comments/1b66726/i_made_a_youtube_downloader_with_modern_ui_pyqt6/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1b5wbuu/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
