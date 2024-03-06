@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sieve of Eratosthenes &lpar;Haskell VS Python&rpar;](https://www.reddit.com/r/Python/comments/1b7nev1/sieve_of_eratosthenes_haskell_vs_python/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1b7kxb8/wednesday_daily_thread_beginner_questions/)
 - [🧑‍💻 Open Interface - Operate your Computer Using LLMs - Built completely in Python](https://www.reddit.com/r/Python/comments/1b7cl4l/open_interface_operate_your_computer_using_llms/)
 - [Cadwyn: the most sophisticated Python API Versioning framework](https://www.reddit.com/r/Python/comments/1b7c3dp/cadwyn_the_most_sophisticated_python_api/)
 - [Reflex 0.4.0 - Web Apps in Pure Python](https://www.reddit.com/r/Python/comments/1b7bgwn/reflex_040_web_apps_in_pure_python/)
-- [Anaconda 2024-02 Release Notes](https://www.reddit.com/r/Python/comments/1b77usx/anaconda_202402_release_notes/)
 <!-- BLOG-POST-LIST:END -->
