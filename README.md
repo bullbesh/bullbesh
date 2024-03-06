@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Plotly map colour dominance](https://www.reddit.com/r/Python/comments/1b7wish/plotly_map_colour_dominance/)
 - [Open Source projects](https://www.reddit.com/r/Python/comments/1b7udzd/open_source_projects/)
 - [The First Annual Meeting of the Extraordinary League of Runtime Typers](https://www.reddit.com/r/Python/comments/1b7pzve/the_first_annual_meeting_of_the_extraordinary/)
 - [LLM Based NLP Library](https://www.reddit.com/r/Python/comments/1b7oxd6/llm_based_nlp_library/)
 - [Sieve of Eratosthenes &lpar;Haskell VS Python&rpar;](https://www.reddit.com/r/Python/comments/1b7nev1/sieve_of_eratosthenes_haskell_vs_python/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1b7kxb8/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
