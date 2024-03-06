@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The First Annual Meeting of the Extraordinary League of Runtime Typers](https://www.reddit.com/r/Python/comments/1b7pzve/the_first_annual_meeting_of_the_extraordinary/)
 - [LLM Based NLP Library](https://www.reddit.com/r/Python/comments/1b7oxd6/llm_based_nlp_library/)
 - [Sieve of Eratosthenes &lpar;Haskell VS Python&rpar;](https://www.reddit.com/r/Python/comments/1b7nev1/sieve_of_eratosthenes_haskell_vs_python/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1b7kxb8/wednesday_daily_thread_beginner_questions/)
 - [🧑‍💻 Open Interface - Operate your Computer Using LLMs - Built completely in Python](https://www.reddit.com/r/Python/comments/1b7cl4l/open_interface_operate_your_computer_using_llms/)
-- [Cadwyn: the most sophisticated Python API Versioning framework](https://www.reddit.com/r/Python/comments/1b7c3dp/cadwyn_the_most_sophisticated_python_api/)
 <!-- BLOG-POST-LIST:END -->
