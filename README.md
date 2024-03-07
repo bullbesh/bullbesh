@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [DukPy lightweight JS interpreter released for Python 3.12](https://www.reddit.com/r/Python/comments/1b8t6dg/dukpy_lightweight_js_interpreter_released_for/)
+- [Python course thru modeling / AI](https://www.reddit.com/r/Python/comments/1b8t37j/python_course_thru_modeling_ai/)
+- [Rocketgraph 0.4.0: Build AI Chatbots trained on your own documentation data](https://www.reddit.com/r/Python/comments/1b8sl5r/rocketgraph_040_build_ai_chatbots_trained_on_your/)
+- [🐙 complexipy 0.3.0](https://www.reddit.com/r/Python/comments/1b8scmu/complexipy_030/)
 - [Background jobs in Python using RQ &lpar;Redis Queue&rpar;](https://www.reddit.com/r/Python/comments/1b8rl0w/background_jobs_in_python_using_rq_redis_queue/)
-- [Introducing PyPixelStream: An Open-Source Streaming Tool for Low-Res LED Displays 🚀](https://www.reddit.com/r/Python/comments/1b8nr5s/introducing_pypixelstream_an_opensource_streaming/)
-- [Tutorial: Multi-tenant todo list with FastAPI and Postgres](https://www.reddit.com/r/Python/comments/1b8ilzf/tutorial_multitenant_todo_list_with_fastapi_and/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1b8fkvm/thursday_daily_thread_python_careers_courses_and/)
-- [The First Annual Meeting of the Extraordinary League of Runtime Typers](https://www.reddit.com/r/Python/comments/1b7pzve/the_first_annual_meeting_of_the_extraordinary/)
 <!-- BLOG-POST-LIST:END -->
