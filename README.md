@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Template Repository](https://www.reddit.com/r/Python/comments/1b8uhsd/python_template_repository/)
 - [IBMMQ as a celery broker](https://www.reddit.com/r/Python/comments/1b8u0v7/ibmmq_as_a_celery_broker/)
 - [DukPy lightweight JS interpreter released for Python 3.12](https://www.reddit.com/r/Python/comments/1b8t6dg/dukpy_lightweight_js_interpreter_released_for/)
 - [Python course thru modeling / AI](https://www.reddit.com/r/Python/comments/1b8t37j/python_course_thru_modeling_ai/)
 - [Rocketgraph 0.4.0: Build AI Chatbots trained on your own documentation data](https://www.reddit.com/r/Python/comments/1b8sl5r/rocketgraph_040_build_ai_chatbots_trained_on_your/)
-- [🐙 complexipy 0.3.0](https://www.reddit.com/r/Python/comments/1b8scmu/complexipy_030/)
 <!-- BLOG-POST-LIST:END -->
