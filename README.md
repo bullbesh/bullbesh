@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Tutorial: Multi-tenant todo list with FastAPI and Postgres](https://www.reddit.com/r/Python/comments/1b8ilzf/tutorial_multitenant_todo_list_with_fastapi_and/)
-- [¿Algún consejo para Python?](https://www.reddit.com/r/Python/comments/1b8iffd/algún_consejo_para_python/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1b8fkvm/thursday_daily_thread_python_careers_courses_and/)
 - [The First Annual Meeting of the Extraordinary League of Runtime Typers](https://www.reddit.com/r/Python/comments/1b7pzve/the_first_annual_meeting_of_the_extraordinary/)
 - [LLM Based NLP Library](https://www.reddit.com/r/Python/comments/1b7oxd6/llm_based_nlp_library/)
+- [Sieve of Eratosthenes &lpar;Haskell VS Python&rpar;](https://www.reddit.com/r/Python/comments/1b7nev1/sieve_of_eratosthenes_haskell_vs_python/)
 <!-- BLOG-POST-LIST:END -->
