@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1b99fi5/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Tests should have 100% coverage](https://www.reddit.com/r/Python/comments/1b95rg1/tests_should_have_100_coverage/)
 - [I made a really obfuscated way of doing FizzBuzz in python](https://www.reddit.com/r/Python/comments/1b91njq/i_made_a_really_obfuscated_way_of_doing_fizzbuzz/)
 - [DukPy lightweight JS interpreter released for Python 3.12](https://www.reddit.com/r/Python/comments/1b8t6dg/dukpy_lightweight_js_interpreter_released_for/)
 - [Introducing PyPixelStream: An Open-Source Streaming Tool for Low-Res LED Displays 🚀](https://www.reddit.com/r/Python/comments/1b8nr5s/introducing_pypixelstream_an_opensource_streaming/)
-- [Tutorial: Multi-tenant todo list with FastAPI and Postgres](https://www.reddit.com/r/Python/comments/1b8ilzf/tutorial_multitenant_todo_list_with_fastapi_and/)
 <!-- BLOG-POST-LIST:END -->
