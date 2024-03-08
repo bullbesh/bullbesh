@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [CSV to SQL database automated import.](https://www.reddit.com/r/Python/comments/1b9m12l/csv_to_sql_database_automated_import/)
+- [Introducing Ludic: web development with HTMX, async, components, templating with f-strings](https://www.reddit.com/r/Python/comments/1b9qbjt/introducing_ludic_web_development_with_htmx_async/)
+- [I shared a Python Time Series Analysis Course on YouTube](https://www.reddit.com/r/Python/comments/1b9q2pg/i_shared_a_python_time_series_analysis_course_on/)
+- [sdv: MIT created Python library for generating Synthetic Data](https://www.reddit.com/r/Python/comments/1b9pion/sdv_mit_created_python_library_for_generating/)
 - [Meet XposedOrNot: The Python Project Redefining How We Tackle Data Breaches](https://www.reddit.com/r/Python/comments/1b9gtpd/meet_xposedornot_the_python_project_redefining/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1b99fi5/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Tests should have 100% coverage](https://www.reddit.com/r/Python/comments/1b95rg1/tests_should_have_100_coverage/)
-- [I made a really obfuscated way of doing FizzBuzz in python](https://www.reddit.com/r/Python/comments/1b91njq/i_made_a_really_obfuscated_way_of_doing_fizzbuzz/)
 <!-- BLOG-POST-LIST:END -->
