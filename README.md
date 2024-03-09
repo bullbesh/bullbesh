@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyCon US 2024 Approaches](https://www.reddit.com/r/Python/comments/1babocy/pycon_us_2024_approaches/)
+- [Introducing thread: Extending the built-in threading module](https://www.reddit.com/r/Python/comments/1babd0r/introducing_thread_extending_the_builtin/)
+- [IDE made with PyQt6 and QScintilla](https://www.reddit.com/r/Python/comments/1bab91e/ide_made_with_pyqt6_and_qscintilla/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ba3hth/saturday_daily_thread_resource_request_and/)
 - [Stockdex: Python Package to Extract Financial Insights From Multiple Sources](https://www.reddit.com/r/Python/comments/1ba3h4w/stockdex_python_package_to_extract_financial/)
-- [typedtemplate: A Pydantic approach to text templates](https://www.reddit.com/r/Python/comments/1b9vg7y/typedtemplate_a_pydantic_approach_to_text/)
-- [Introducing Ludic: web development with HTMX, async, components, templating with f-strings](https://www.reddit.com/r/Python/comments/1b9qbjt/introducing_ludic_web_development_with_htmx_async/)
-- [sdv: MIT created Python library for generating Synthetic Data](https://www.reddit.com/r/Python/comments/1b9pion/sdv_mit_created_python_library_for_generating/)
 <!-- BLOG-POST-LIST:END -->
