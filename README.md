@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1baw84i/sunday_daily_thread_whats_everyone_working_on/)
+- [What is the combined size of your Python codebase?](https://www.reddit.com/r/Python/comments/1bansk5/what_is_the_combined_size_of_your_python_codebase/)
+- [How often do you find yourself ditching wrapper libraries?](https://www.reddit.com/r/Python/comments/1baibwe/how_often_do_you_find_yourself_ditching_wrapper/)
 - [PyCon US 2024 Approaches](https://www.reddit.com/r/Python/comments/1babocy/pycon_us_2024_approaches/)
 - [Introducing thread: Extending the built-in threading module](https://www.reddit.com/r/Python/comments/1babd0r/introducing_thread_extending_the_builtin/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ba3hth/saturday_daily_thread_resource_request_and/)
-- [Stockdex: Python Package to Extract Financial Insights From Multiple Sources](https://www.reddit.com/r/Python/comments/1ba3h4w/stockdex_python_package_to_extract_financial/)
 <!-- BLOG-POST-LIST:END -->
