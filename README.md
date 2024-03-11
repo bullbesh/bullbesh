@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1bbp7hp/monday_daily_thread_project_ideas/)
 - [Github Copilot Lies to me](https://www.reddit.com/r/Python/comments/1bbjjc9/github_copilot_lies_to_me/)
 - [I shared a Python Exploratory Data Analysis Project on YouTube](https://www.reddit.com/r/Python/comments/1bbcsbm/i_shared_a_python_exploratory_data_analysis/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1baw84i/sunday_daily_thread_whats_everyone_working_on/)
 - [What is the combined size of your Python codebase?](https://www.reddit.com/r/Python/comments/1bansk5/what_is_the_combined_size_of_your_python_codebase/)
-- [How often do you find yourself ditching wrapper libraries?](https://www.reddit.com/r/Python/comments/1baibwe/how_often_do_you_find_yourself_ditching_wrapper/)
 <!-- BLOG-POST-LIST:END -->
