@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Haystack 2.0 launch](https://www.reddit.com/r/Python/comments/1bc6dia/haystack_20_launch/)
 - [CTF-style Python Challenge](https://www.reddit.com/r/Python/comments/1bc1hxc/ctfstyle_python_challenge/)
 - [Fuzzy process matching](https://www.reddit.com/r/Python/comments/1bc0daw/fuzzy_process_matching/)
 - [I Built a Squaredle Bot](https://www.reddit.com/r/Python/comments/1bbxhun/i_built_a_squaredle_bot/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1bbp7hp/monday_daily_thread_project_ideas/)
-- [Github Copilot Lies to me](https://www.reddit.com/r/Python/comments/1bbjjc9/github_copilot_lies_to_me/)
 <!-- BLOG-POST-LIST:END -->
