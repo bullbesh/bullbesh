@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AYUDA! Consejos para mis prácticas y futuro trabajo en empresa de programación](https://www.reddit.com/r/Python/comments/1bck12k/ayuda_consejos_para_mis_prácticas_y_futuro/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1bciqxg/tuesday_daily_thread_advanced_questions/)
+- [Would you use Go / Rust style error handling in Python?](https://www.reddit.com/r/Python/comments/1bchpjl/would_you_use_go_rust_style_error_handling_in/)
 - [Centinela Digital](https://www.reddit.com/r/Python/comments/1bcgzor/centinela_digital/)
 - [Disabling the GIL option has been merged into Python.](https://www.reddit.com/r/Python/comments/1bcggx9/disabling_the_gil_option_has_been_merged_into/)
-- [Haystack 2.0 launch](https://www.reddit.com/r/Python/comments/1bc6dia/haystack_20_launch/)
-- [CTF-style Python Challenge](https://www.reddit.com/r/Python/comments/1bc1hxc/ctfstyle_python_challenge/)
-- [Fuzzy process matching](https://www.reddit.com/r/Python/comments/1bc0daw/fuzzy_process_matching/)
 <!-- BLOG-POST-LIST:END -->
