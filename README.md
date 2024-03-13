@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Workshop: Real-time streaming + analytics + visualization &lpar;Mar, 19&rpar;](https://www.reddit.com/r/Python/comments/1bdyv0o/virtual_workshop_realtime_streaming_analytics/)
+- [Book Recommendations for Practicing Python](https://www.reddit.com/r/Python/comments/1bdym2s/book_recommendations_for_practicing_python/)
 - [A custom logging library in python](https://www.reddit.com/r/Python/comments/1bdvvzd/a_custom_logging_library_in_python/)
 - [Email Testing with Python smtpd module](https://www.reddit.com/r/Python/comments/1bdvtv8/email_testing_with_python_smtpd_module/)
 - [PyCon US grants free booth space and conference passes to early-stage startups. Apply by Sunday 3/17](https://www.reddit.com/r/Python/comments/1bdvlce/pycon_us_grants_free_booth_space_and_conference/)
-- [Collecting Dask user quotes](https://www.reddit.com/r/Python/comments/1bduqcz/collecting_dask_user_quotes/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1bdcvo2/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
