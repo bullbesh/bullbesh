@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [ChromeDriver breaking Python script](https://www.reddit.com/r/Python/comments/1bec1wn/chromedriver_breaking_python_script/)
 - [Comparing hosts / providers for serverless cloud functions &lpar;FaaS&rpar; for Python](https://www.reddit.com/r/Python/comments/1be8p1v/comparing_hosts_providers_for_serverless_cloud/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1be73u2/thursday_daily_thread_python_careers_courses_and/)
 - [BrowserForge: Intelligent browser header and fingerprint generator](https://www.reddit.com/r/Python/comments/1be1d6p/browserforge_intelligent_browser_header_and/)
 - [Virtual Workshop: Real-time streaming + analytics + visualization &lpar;Mar, 19&rpar;](https://www.reddit.com/r/Python/comments/1bdyv0o/virtual_workshop_realtime_streaming_analytics/)
+- [Email Testing with Python smtpd module](https://www.reddit.com/r/Python/comments/1bdvtv8/email_testing_with_python_smtpd_module/)
 <!-- BLOG-POST-LIST:END -->
