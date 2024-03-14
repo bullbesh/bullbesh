@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1be73u2/thursday_daily_thread_python_careers_courses_and/)
 - [Matrix Bridge Bounties Offered by Beeper](https://www.reddit.com/r/Python/comments/1be47pz/matrix_bridge_bounties_offered_by_beeper/)
-- [Introducing `scanman` – a companion to navigate man pages](https://www.reddit.com/r/Python/comments/1be3f5q/introducing_scanman_a_companion_to_navigate_man/)
 - [python-oracledb 2.1 release](https://www.reddit.com/r/Python/comments/1be2qm5/pythonoracledb_21_release/)
 - [BrowserForge: Intelligent browser header and fingerprint generator](https://www.reddit.com/r/Python/comments/1be1d6p/browserforge_intelligent_browser_header_and/)
 - [Virtual Workshop: Real-time streaming + analytics + visualization &lpar;Mar, 19&rpar;](https://www.reddit.com/r/Python/comments/1bdyv0o/virtual_workshop_realtime_streaming_analytics/)
