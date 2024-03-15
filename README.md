@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Great ideia, intnx SAS converter to python.](https://www.reddit.com/r/Python/comments/1bfef4f/great_ideia_intnx_sas_converter_to_python/)
 - [DSPy: Programming—not prompting—Foundation Models](https://www.reddit.com/r/Python/comments/1bf9ttt/dspy_programmingnot_promptingfoundation_models/)
 - [SCHNOZ: Advanced packet sniffer/analyzer and IDS written in Python](https://www.reddit.com/r/Python/comments/1bf6q6e/schnoz_advanced_packet_snifferanalyzer_and_ids/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1bf06jq/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Python Devs, someone relating?](https://www.reddit.com/r/Python/comments/1bexsrx/python_devs_someone_relating/)
-- [Python CLI that converts boring text into mockery.](https://www.reddit.com/r/Python/comments/1bew7da/python_cli_that_converts_boring_text_into_mockery/)
 <!-- BLOG-POST-LIST:END -->
