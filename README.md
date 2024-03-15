@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [For python beginners..](https://www.reddit.com/r/Python/comments/1bf7e4o/for_python_beginners/)
 - [SCHNOZ: Advanced packet sniffer/analyzer and IDS written in Python](https://www.reddit.com/r/Python/comments/1bf6q6e/schnoz_advanced_packet_snifferanalyzer_and_ids/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1bf06jq/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Python Devs, someone relating?](https://www.reddit.com/r/Python/comments/1bexsrx/python_devs_someone_relating/)
 - [Python CLI that converts boring text into mockery.](https://www.reddit.com/r/Python/comments/1bew7da/python_cli_that_converts_boring_text_into_mockery/)
+- [I forked pyppeteer and revamped it into a new browser automation package: mokr.](https://www.reddit.com/r/Python/comments/1beun0u/i_forked_pyppeteer_and_revamped_it_into_a_new/)
 <!-- BLOG-POST-LIST:END -->
