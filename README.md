@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyYAML documentation and source code offline?](https://www.reddit.com/r/Python/comments/1bffm23/pyyaml_documentation_and_source_code_offline/)
+- [Ralf Gommers, leading maintainer of NumPy, on the release of NumPy 2.0](https://www.reddit.com/r/Python/comments/1bff8nc/ralf_gommers_leading_maintainer_of_numpy_on_the/)
+- [FuzzTypes: Pydantic Library for Auto-correcting Annotation Types](https://www.reddit.com/r/Python/comments/1bff8bm/fuzztypes_pydantic_library_for_autocorrecting/)
 - [Great ideia, intnx SAS converter to python.](https://www.reddit.com/r/Python/comments/1bfef4f/great_ideia_intnx_sas_converter_to_python/)
 - [DSPy: Programming—not prompting—Foundation Models](https://www.reddit.com/r/Python/comments/1bf9ttt/dspy_programmingnot_promptingfoundation_models/)
-- [SCHNOZ: Advanced packet sniffer/analyzer and IDS written in Python](https://www.reddit.com/r/Python/comments/1bf6q6e/schnoz_advanced_packet_snifferanalyzer_and_ids/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1bf06jq/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Python Devs, someone relating?](https://www.reddit.com/r/Python/comments/1bexsrx/python_devs_someone_relating/)
 <!-- BLOG-POST-LIST:END -->
