@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;best&quot; frameworks nowadays for building REST APIs](https://www.reddit.com/r/Python/comments/1bfpnc0/best_frameworks_nowadays_for_building_rest_apis/)
 - [Is backend development the most common career path](https://www.reddit.com/r/Python/comments/1bfn966/is_backend_development_the_most_common_career_path/)
 - [PyYAML documentation and source code offline?](https://www.reddit.com/r/Python/comments/1bffm23/pyyaml_documentation_and_source_code_offline/)
 - [Ralf Gommers, leading maintainer of NumPy, on the release of NumPy 2.0](https://www.reddit.com/r/Python/comments/1bff8nc/ralf_gommers_leading_maintainer_of_numpy_on_the/)
 - [FuzzTypes: Pydantic Library for Auto-correcting Annotation Types](https://www.reddit.com/r/Python/comments/1bff8bm/fuzztypes_pydantic_library_for_autocorrecting/)
-- [Great ideia, intnx SAS converter to python.](https://www.reddit.com/r/Python/comments/1bfef4f/great_ideia_intnx_sas_converter_to_python/)
 <!-- BLOG-POST-LIST:END -->
