@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Pointers, Why You Need Them - Go vs Python!](https://www.reddit.com/r/Python/comments/1bf0dx3/pointers_why_you_need_them_go_vs_python/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1bf06jq/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Python Devs, someone relating?](https://www.reddit.com/r/Python/comments/1bexsrx/python_devs_someone_relating/)
 - [Python CLI that converts boring text into mockery.](https://www.reddit.com/r/Python/comments/1bew7da/python_cli_that_converts_boring_text_into_mockery/)
 - [I forked pyppeteer and revamped it into a new browser automation package: mokr.](https://www.reddit.com/r/Python/comments/1beun0u/i_forked_pyppeteer_and_revamped_it_into_a_new/)
+- [Fast API code to create/manage Open AI assistants](https://www.reddit.com/r/Python/comments/1bepofg/fast_api_code_to_createmanage_open_ai_assistants/)
 <!-- BLOG-POST-LIST:END -->
