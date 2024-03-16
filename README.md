@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1bfshjs/saturday_daily_thread_resource_request_and/)
+- [JSON Serialization](https://www.reddit.com/r/Python/comments/1bfs8cy/json_serialization/)
 - [&quot;best&quot; frameworks nowadays for building REST APIs](https://www.reddit.com/r/Python/comments/1bfpnc0/best_frameworks_nowadays_for_building_rest_apis/)
 - [Is backend development the most common career path](https://www.reddit.com/r/Python/comments/1bfn966/is_backend_development_the_most_common_career_path/)
 - [PyYAML documentation and source code offline?](https://www.reddit.com/r/Python/comments/1bffm23/pyyaml_documentation_and_source_code_offline/)
-- [Ralf Gommers, leading maintainer of NumPy, on the release of NumPy 2.0](https://www.reddit.com/r/Python/comments/1bff8nc/ralf_gommers_leading_maintainer_of_numpy_on_the/)
-- [FuzzTypes: Pydantic Library for Auto-correcting Annotation Types](https://www.reddit.com/r/Python/comments/1bff8bm/fuzztypes_pydantic_library_for_autocorrecting/)
 <!-- BLOG-POST-LIST:END -->
