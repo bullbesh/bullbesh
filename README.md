@@ -11,6 +11,6 @@
 - [Prime Number Visualization](https://www.reddit.com/r/Python/comments/1bgvjrc/prime_number_visualization/)
 - [Match statement: wish list](https://www.reddit.com/r/Python/comments/1bgn0be/match_statement_wish_list/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1bgjvg9/sunday_daily_thread_whats_everyone_working_on/)
-- [First coding project; python tic-tac-toe, would love review](https://www.reddit.com/r/Python/comments/1bgid7e/first_coding_project_python_tictactoe_would_love/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1bfshjs/saturday_daily_thread_resource_request_and/)
+- [JSON Serialization](https://www.reddit.com/r/Python/comments/1bfs8cy/json_serialization/)
 <!-- BLOG-POST-LIST:END -->
