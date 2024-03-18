@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Vs Javascript](https://www.reddit.com/r/Python/comments/1bhy10b/python_vs_javascript/)
 - [Introducing ocrtoolkit: Your Go-To OCR Package](https://www.reddit.com/r/Python/comments/1bhx4es/introducing_ocrtoolkit_your_goto_ocr_package/)
 - [Type-safe &amp; fast embedded vector database for RAG | OasysDB v0.3.0](https://www.reddit.com/r/Python/comments/1bhwdj0/typesafe_fast_embedded_vector_database_for_rag/)
 - [What&#39;s the state of gradual typechecking in Python?](https://www.reddit.com/r/Python/comments/1bhvtvh/whats_the_state_of_gradual_typechecking_in_python/)
-- [I’m thinking of making an ai to fam berries in a game python](https://www.reddit.com/r/Python/comments/1bhuxdr/im_thinking_of_making_an_ai_to_fam_berries_in_a/)
 - [The Biggest Hurdle in Learning Python](https://www.reddit.com/r/Python/comments/1bhq37d/the_biggest_hurdle_in_learning_python/)
 <!-- BLOG-POST-LIST:END -->
