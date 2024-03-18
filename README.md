@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Redis Solved Our Dynamic Task Scheduling and Concurrent Execution Issues, here&#39;s how](https://www.reddit.com/r/Python/comments/1bhrkjw/redis_solved_our_dynamic_task_scheduling_and/)
+- [Ai farmer how long will this take with minimal experience](https://www.reddit.com/r/Python/comments/1bhuq6f/ai_farmer_how_long_will_this_take_with_minimal/)
+- [The Biggest Hurdle in Learning Python](https://www.reddit.com/r/Python/comments/1bhq37d/the_biggest_hurdle_in_learning_python/)
 - [Introducing, Taipy-Chess, A chess visualization tool, based on 20,000 games](https://www.reddit.com/r/Python/comments/1bhkxnb/introducing_taipychess_a_chess_visualization_tool/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1bhcvdr/monday_daily_thread_project_ideas/)
 - [retry-later: Retry your functions in the background without stopping the flow of execution](https://www.reddit.com/r/Python/comments/1bh3g2p/retrylater_retry_your_functions_in_the_background/)
-- [List of Python Libraries and Resources](https://www.reddit.com/r/Python/comments/1bh2cii/list_of_python_libraries_and_resources/)
 <!-- BLOG-POST-LIST:END -->
