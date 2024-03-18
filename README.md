@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Projects that failed](https://www.reddit.com/r/Python/comments/1bhk8rt/projects_that_failed/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1bhcvdr/monday_daily_thread_project_ideas/)
 - [retry-later: Retry your functions in the background without stopping the flow of execution](https://www.reddit.com/r/Python/comments/1bh3g2p/retrylater_retry_your_functions_in_the_background/)
 - [List of Python Libraries and Resources](https://www.reddit.com/r/Python/comments/1bh2cii/list_of_python_libraries_and_resources/)
 - [Prime Number Visualization](https://www.reddit.com/r/Python/comments/1bgvjrc/prime_number_visualization/)
-- [Match statement: wish list](https://www.reddit.com/r/Python/comments/1bgn0be/match_statement_wish_list/)
 <!-- BLOG-POST-LIST:END -->
