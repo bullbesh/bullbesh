@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stockstir - Instantly and easily gather real time stock data from any Python script at no cost](https://www.reddit.com/r/Python/comments/1bitpxp/stockstir_instantly_and_easily_gather_real_time/)
 - [Every dunder method in Python](https://www.reddit.com/r/Python/comments/1bioxer/every_dunder_method_in_python/)
 - [slack-progress-bar: A progress bar for your Slack Bots](https://www.reddit.com/r/Python/comments/1binyeq/slackprogressbar_a_progress_bar_for_your_slack/)
 - [Dask Demo Day: Dask on Databricks, scale embedding pipelines, and Prefect on the cloud](https://www.reddit.com/r/Python/comments/1bin430/dask_demo_day_dask_on_databricks_scale_embedding/)
 - [How To Add Multiple Pages to NiceGUI](https://www.reddit.com/r/Python/comments/1bijkcc/how_to_add_multiple_pages_to_nicegui/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1bi68oa/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
