@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scheduled job script doesnt find file.](https://www.reddit.com/r/Python/comments/1bikne7/scheduled_job_script_doesnt_find_file/)
 - [How To Add Multiple Pages to NiceGUI](https://www.reddit.com/r/Python/comments/1bijkcc/how_to_add_multiple_pages_to_nicegui/)
-- [Adding Earth Hour to Google Calendar](https://www.reddit.com/r/Python/comments/1biih09/adding_earth_hour_to_google_calendar/)
-- [Is there a way to use the style of google chart graphs in python?](https://www.reddit.com/r/Python/comments/1bigcuv/is_there_a_way_to_use_the_style_of_google_chart/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1bi68oa/tuesday_daily_thread_advanced_questions/)
 - [Introducing ocrtoolkit: Your Go-To OCR Package](https://www.reddit.com/r/Python/comments/1bhx4es/introducing_ocrtoolkit_your_goto_ocr_package/)
+- [Type-safe &amp; fast embedded vector database for RAG | OasysDB v0.3.0](https://www.reddit.com/r/Python/comments/1bhwdj0/typesafe_fast_embedded_vector_database_for_rag/)
 <!-- BLOG-POST-LIST:END -->
