@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Every dunder method in Python](https://www.reddit.com/r/Python/comments/1bioxer/every_dunder_method_in_python/)
+- [slack-progress-bar: A progress bar for your Slack Bots](https://www.reddit.com/r/Python/comments/1binyeq/slackprogressbar_a_progress_bar_for_your_slack/)
+- [Dask Demo Day: Dask on Databricks, scale embedding pipelines, and Prefect on the cloud](https://www.reddit.com/r/Python/comments/1bin430/dask_demo_day_dask_on_databricks_scale_embedding/)
 - [Scheduled job script doesnt find file.](https://www.reddit.com/r/Python/comments/1bikne7/scheduled_job_script_doesnt_find_file/)
 - [How To Add Multiple Pages to NiceGUI](https://www.reddit.com/r/Python/comments/1bijkcc/how_to_add_multiple_pages_to_nicegui/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1bi68oa/tuesday_daily_thread_advanced_questions/)
-- [Introducing ocrtoolkit: Your Go-To OCR Package](https://www.reddit.com/r/Python/comments/1bhx4es/introducing_ocrtoolkit_your_goto_ocr_package/)
-- [Type-safe &amp; fast embedded vector database for RAG | OasysDB v0.3.0](https://www.reddit.com/r/Python/comments/1bhwdj0/typesafe_fast_embedded_vector_database_for_rag/)
 <!-- BLOG-POST-LIST:END -->
