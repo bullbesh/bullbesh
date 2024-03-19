@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1bi68oa/tuesday_daily_thread_advanced_questions/)
-- [Quick overview and apply Python Developer with Data Background – c2c jobs in Philadelphia – Contract](https://www.reddit.com/r/Python/comments/1bi5ven/quick_overview_and_apply_python_developer_with/)
 - [Scraping Google Maps with Python](https://www.reddit.com/r/Python/comments/1bhzobd/scraping_google_maps_with_python/)
 - [Introducing ocrtoolkit: Your Go-To OCR Package](https://www.reddit.com/r/Python/comments/1bhx4es/introducing_ocrtoolkit_your_goto_ocr_package/)
 - [Type-safe &amp; fast embedded vector database for RAG | OasysDB v0.3.0](https://www.reddit.com/r/Python/comments/1bhwdj0/typesafe_fast_embedded_vector_database_for_rag/)
+- [What&#39;s the state of gradual typechecking in Python?](https://www.reddit.com/r/Python/comments/1bhvtvh/whats_the_state_of_gradual_typechecking_in_python/)
 <!-- BLOG-POST-LIST:END -->
