@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Resources for teaching OOP in Python for A Level &lpar;16 year olds&rpar;](https://www.reddit.com/r/Python/comments/1bjka2o/resources_for_teaching_oop_in_python_for_a_level/)
 - [I Shared a Python Data Science Bootcamp &lpar;7+ Hours, 7 Courses and 3 Projects&rpar; on YouTube](https://www.reddit.com/r/Python/comments/1bjd9af/i_shared_a_python_data_science_bootcamp_7_hours_7/)
 - [EOmaps v8.0 is here!](https://www.reddit.com/r/Python/comments/1bj8q10/eomaps_v80_is_here/)
 - [Grocery delivery with Python &lpar;Company Engineering blog post&rpar;](https://www.reddit.com/r/Python/comments/1bj8ck2/grocery_delivery_with_python_company_engineering/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1bizldh/wednesday_daily_thread_beginner_questions/)
+- [btstrm: Torrent Streaming Program for Linux](https://www.reddit.com/r/Python/comments/1biuvbn/btstrm_torrent_streaming_program_for_linux/)
 <!-- BLOG-POST-LIST:END -->
