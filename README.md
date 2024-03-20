@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is join more idiomatic than for loop for printing items of a list?](https://www.reddit.com/r/Python/comments/1bjf6v8/is_join_more_idiomatic_than_for_loop_for_printing/)
-- [A python refresher video](https://www.reddit.com/r/Python/comments/1bjexw7/a_python_refresher_video/)
 - [I Shared a Python Data Science Bootcamp &lpar;7+ Hours, 7 Courses and 3 Projects&rpar; on YouTube](https://www.reddit.com/r/Python/comments/1bjd9af/i_shared_a_python_data_science_bootcamp_7_hours_7/)
-- [How to solve this error Signature verification failed in fastapi?](https://www.reddit.com/r/Python/comments/1bjcb2c/how_to_solve_this_error_signature_verification/)
-- [Anyone using MidJourney in their projects?](https://www.reddit.com/r/Python/comments/1bj8ugt/anyone_using_midjourney_in_their_projects/)
+- [EOmaps v8.0 is here!](https://www.reddit.com/r/Python/comments/1bj8q10/eomaps_v80_is_here/)
+- [Grocery delivery with Python &lpar;Company Engineering blog post&rpar;](https://www.reddit.com/r/Python/comments/1bj8ck2/grocery_delivery_with_python_company_engineering/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1bizldh/wednesday_daily_thread_beginner_questions/)
+- [Django Alternative for ML &amp; AI Web Apps](https://www.reddit.com/r/Python/comments/1biuvcg/django_alternative_for_ml_ai_web_apps/)
 <!-- BLOG-POST-LIST:END -->
