@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anyone using MidJourney in their projects?](https://www.reddit.com/r/Python/comments/1bj8ugt/anyone_using_midjourney_in_their_projects/)
+- [EOmaps v8.0 is here!](https://www.reddit.com/r/Python/comments/1bj8q10/eomaps_v80_is_here/)
 - [Grocery delivery with Python &lpar;Company Engineering blog post&rpar;](https://www.reddit.com/r/Python/comments/1bj8ck2/grocery_delivery_with_python_company_engineering/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1bizldh/wednesday_daily_thread_beginner_questions/)
 - [Django Alternative for ML &amp; AI Web Apps](https://www.reddit.com/r/Python/comments/1biuvcg/django_alternative_for_ml_ai_web_apps/)
-- [btstrm: Torrent Streaming Program for Linux](https://www.reddit.com/r/Python/comments/1biuvbn/btstrm_torrent_streaming_program_for_linux/)
-- [Stockstir - Instantly and easily gather real time stock data from any Python script at no cost](https://www.reddit.com/r/Python/comments/1bitpxp/stockstir_instantly_and_easily_gather_real_time/)
 <!-- BLOG-POST-LIST:END -->
