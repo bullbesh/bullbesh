@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you like `def call&lpar;&rpar; -&gt; None: ...`](https://www.reddit.com/r/Python/comments/1bk8to3/do_you_like_def_call_none/)
 - [macos creating irc bot to control music application on a channel](https://www.reddit.com/r/Python/comments/1bk6wxc/macos_creating_irc_bot_to_control_music/)
 - [Simple scheduled Jupyter notebook using Google Sheets and NBFire](https://www.reddit.com/r/Python/comments/1bk6fko/simple_scheduled_jupyter_notebook_using_google/)
 - [🌈 StreamJoy turns your stream of images into animations, in parallel](https://www.reddit.com/r/Python/comments/1bjxvmu/streamjoy_turns_your_stream_of_images_into/)
 - [PyPI Support Specialist](https://www.reddit.com/r/Python/comments/1bjvuef/pypi_support_specialist/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1bjsm30/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
