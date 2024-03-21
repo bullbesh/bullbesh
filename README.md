@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Get your Jupyter Notebooks to play nicely with Google Sheets and then schedule them in the cloud](https://www.reddit.com/r/Python/comments/1bkaj92/get_your_jupyter_notebooks_to_play_nicely_with/)
 - [The wrong way to speed up your code with Numba](https://www.reddit.com/r/Python/comments/1bk9tav/the_wrong_way_to_speed_up_your_code_with_numba/)
 - [Do you like `def call&lpar;&rpar; -&gt; None: ...`](https://www.reddit.com/r/Python/comments/1bk8to3/do_you_like_def_call_none/)
-- [macos creating irc bot to control music application on a channel](https://www.reddit.com/r/Python/comments/1bk6wxc/macos_creating_irc_bot_to_control_music/)
 - [🌈 StreamJoy turns your stream of images into animations, in parallel](https://www.reddit.com/r/Python/comments/1bjxvmu/streamjoy_turns_your_stream_of_images_into/)
 - [PyPI Support Specialist](https://www.reddit.com/r/Python/comments/1bjvuef/pypi_support_specialist/)
 <!-- BLOG-POST-LIST:END -->
