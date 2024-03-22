@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to design architecture for multi-strategies trading bot in python?](https://www.reddit.com/r/Python/comments/1bkw96h/how_to_design_architecture_for_multistrategies/)
+- [Who&#39;s coming to PyCon Italia this year?](https://www.reddit.com/r/Python/comments/1bkw5ld/whos_coming_to_pycon_italia_this_year/)
 - [python notebook+ insightface + inswapper_128](https://www.reddit.com/r/Python/comments/1bkrumh/python_notebook_insightface_inswapper_128/)
 - [Alternative for FFmpeg](https://www.reddit.com/r/Python/comments/1bkquf8/alternative_for_ffmpeg/)
 - [Installing older python versions on Mac M2 chip](https://www.reddit.com/r/Python/comments/1bknwav/installing_older_python_versions_on_mac_m2_chip/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1bklmcj/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Leaping: Fix tests instantly with an omniscient debugger](https://www.reddit.com/r/Python/comments/1bkftjd/leaping_fix_tests_instantly_with_an_omniscient/)
 <!-- BLOG-POST-LIST:END -->
