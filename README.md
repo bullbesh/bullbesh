@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How much did your productivity increase with ChatGPT?](https://www.reddit.com/r/Python/comments/1blwqxs/how_much_did_your_productivity_increase_with/)
 - [Code type checks but then `TypeError`s](https://www.reddit.com/r/Python/comments/1bls4b3/code_type_checks_but_then_typeerrors/)
 - [strongmock - Stronger Mocking in Python. mock Functions, Imports, Integers, Booleans, Floats](https://www.reddit.com/r/Python/comments/1blogss/strongmock_stronger_mocking_in_python_mock/)
 - [Chat with your friends within your &lpar;Mac &amp; Linux&rpar; Terminal | Textual | Simple &amp; Easy to use](https://www.reddit.com/r/Python/comments/1blo65t/chat_with_your_friends_within_your_mac_linux/)
 - [Designing a Pure Python Web Framework](https://www.reddit.com/r/Python/comments/1blektf/designing_a_pure_python_web_framework/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ble8ox/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
