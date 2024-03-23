@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for a Object detection Library or Api for an image](https://www.reddit.com/r/Python/comments/1bliqad/looking_for_a_object_detection_library_or_api_for/)
 - [Designing a Pure Python Web Framework](https://www.reddit.com/r/Python/comments/1blektf/designing_a_pure_python_web_framework/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ble8ox/saturday_daily_thread_resource_request_and/)
 - [Understanding CSV files](https://www.reddit.com/r/Python/comments/1bl4iu5/understanding_csv_files/)
 - [I made a free easy-to-use toast notification library for PyQt and PySide](https://www.reddit.com/r/Python/comments/1bkx6uw/i_made_a_free_easytouse_toast_notification/)
-- [Who&#39;s coming to PyCon Italia this year?](https://www.reddit.com/r/Python/comments/1bkw5ld/whos_coming_to_pycon_italia_this_year/)
 <!-- BLOG-POST-LIST:END -->
