@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [question about getting logged](https://www.reddit.com/r/Python/comments/1bmr333/question_about_getting_logged/)
 - [Finite Element Analysis for Continuum Mechanics of Solid Bodies &lpar;FElupe&rpar;](https://www.reddit.com/r/Python/comments/1bmlkst/finite_element_analysis_for_continuum_mechanics/)
 - [Text extraction lib](https://www.reddit.com/r/Python/comments/1bmj870/text_extraction_lib/)
 - [PyBackport: Use instances from newer python releases](https://www.reddit.com/r/Python/comments/1bmg0hn/pybackport_use_instances_from_newer_python/)
 - [Distributing simple handy scripts for Windows - mouse-startable AND editable &lpar;the tricky one-liner&rpar;](https://www.reddit.com/r/Python/comments/1bmc972/distributing_simple_handy_scripts_for_windows/)
-- [What’s a script that you’ve written that you still use frequently?](https://www.reddit.com/r/Python/comments/1bm7xq4/whats_a_script_that_youve_written_that_you_still/)
 <!-- BLOG-POST-LIST:END -->
