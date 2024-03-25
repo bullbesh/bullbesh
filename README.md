@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing Python Malware found in an open-source project](https://www.reddit.com/r/Python/comments/1bngiqi/analyzing_python_malware_found_in_an_opensource/)
 - [🚀 Goprox: Simplify Google searches with automatic proxy handling and user-agent selection.](https://www.reddit.com/r/Python/comments/1bndrfv/goprox_simplify_google_searches_with_automatic/)
-- [How To Run Any Python App in Docker with Docker Compose](https://www.reddit.com/r/Python/comments/1bnbcmh/how_to_run_any_python_app_in_docker_with_docker/)
 - [Casting Spells using Computer Vision](https://www.reddit.com/r/Python/comments/1bn6djz/casting_spells_using_computer_vision/)
 - [Instantly publish and share your AI app &lpar; Looking for beta testers&rpar;](https://www.reddit.com/r/Python/comments/1bn37u2/instantly_publish_and_share_your_ai_app_looking/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1bmzmsa/monday_daily_thread_project_ideas/)
