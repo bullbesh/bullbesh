@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Instantly publish and share your AI app &lpar; Looking for beta testers&rpar;](https://www.reddit.com/r/Python/comments/1bn37u2/instantly_publish_and_share_your_ai_app_looking/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1bmzmsa/monday_daily_thread_project_ideas/)
+- [Alternative Queries: Typed and Reusable Handcrafted SQL](https://www.reddit.com/r/Python/comments/1bmxcwo/alternative_queries_typed_and_reusable/)
 - [I forked Newspaper3k, fixed bugs and improved its article parsing performance - Newspaper4k package](https://www.reddit.com/r/Python/comments/1bmtdy0/i_forked_newspaper3k_fixed_bugs_and_improved_its/)
-- [Finite Element Analysis for Continuum Mechanics of Solid Bodies &lpar;FElupe&rpar;](https://www.reddit.com/r/Python/comments/1bmlkst/finite_element_analysis_for_continuum_mechanics/)
-- [Text extraction lib](https://www.reddit.com/r/Python/comments/1bmj870/text_extraction_lib/)
-- [PyBackport: Use instances from newer python releases](https://www.reddit.com/r/Python/comments/1bmg0hn/pybackport_use_instances_from_newer_python/)
+- [Is this project worth the time and effort: Camera to Keyboard?](https://www.reddit.com/r/Python/comments/1bmqxyt/is_this_project_worth_the_time_and_effort_camera/)
 <!-- BLOG-POST-LIST:END -->
