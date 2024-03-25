@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Astrologers have announced the month of Python in Centrifugal Labs: real-time libraries and tutorial](https://www.reddit.com/r/Python/comments/1bnlllg/astrologers_have_announced_the_month_of_python_in/)
+- [What library and database to use for my simple Web app](https://www.reddit.com/r/Python/comments/1bnlhfn/what_library_and_database_to_use_for_my_simple/)
 - [Analyzing Python Malware found in an open-source project](https://www.reddit.com/r/Python/comments/1bngiqi/analyzing_python_malware_found_in_an_opensource/)
 - [🚀 Goprox: Simplify Google searches with automatic proxy handling and user-agent selection.](https://www.reddit.com/r/Python/comments/1bndrfv/goprox_simplify_google_searches_with_automatic/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1bmzmsa/monday_daily_thread_project_ideas/)
-- [Alternative Queries: Typed and Reusable Handcrafted SQL](https://www.reddit.com/r/Python/comments/1bmxcwo/alternative_queries_typed_and_reusable/)
-- [I forked Newspaper3k, fixed bugs and improved its article parsing performance - Newspaper4k package](https://www.reddit.com/r/Python/comments/1bmtdy0/i_forked_newspaper3k_fixed_bugs_and_improved_its/)
 <!-- BLOG-POST-LIST:END -->
