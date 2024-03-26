@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [We&#39;re building a Large Action Model &lpar;LAM&rpar; project that can do any task for you using Python!](https://www.reddit.com/r/Python/comments/1bo9z5f/were_building_a_large_action_model_lam_project/)
 - [[PS] PyCompatManager: Manage legacy Python package compatibility](https://www.reddit.com/r/Python/comments/1bo8hbo/ps_pycompatmanager_manage_legacy_python_package/)
 - [An Automated Bash Script for Python Virtual Environment Management](https://www.reddit.com/r/Python/comments/1bnzcfn/an_automated_bash_script_for_python_virtual/)
 - [ipython-sql has been forked](https://www.reddit.com/r/Python/comments/1bnxrux/ipythonsql_has_been_forked/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1bnter2/tuesday_daily_thread_advanced_questions/)
-- [Astrologers have announced the month of Python in Centrifugal Labs: real-time libraries and tutorial](https://www.reddit.com/r/Python/comments/1bnlllg/astrologers_have_announced_the_month_of_python_in/)
 <!-- BLOG-POST-LIST:END -->
