@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [does anyone know about an alternative to aeneas that works on python 3.12.1?](https://www.reddit.com/r/Python/comments/1bojukc/does_anyone_know_about_an_alternative_to_aeneas/)
 - [PyOhio CFP open through May 20](https://www.reddit.com/r/Python/comments/1bohs1c/pyohio_cfp_open_through_may_20/)
 - [I wrote an AI Assistant accessible via Command Line using Mistral-7B-Instruct-v0.2 for FREE!](https://www.reddit.com/r/Python/comments/1bog0on/i_wrote_an_ai_assistant_accessible_via_command/)
 - [We&#39;re building a Large Action Model &lpar;LAM&rpar; project that can do any task for you using Python!](https://www.reddit.com/r/Python/comments/1bo9z5f/were_building_a_large_action_model_lam_project/)
 - [[PS] PyCompatManager: Manage legacy Python package compatibility](https://www.reddit.com/r/Python/comments/1bo8hbo/ps_pycompatmanager_manage_legacy_python_package/)
-- [An Automated Bash Script for Python Virtual Environment Management](https://www.reddit.com/r/Python/comments/1bnzcfn/an_automated_bash_script_for_python_virtual/)
 <!-- BLOG-POST-LIST:END -->
