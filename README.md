@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is wrong with importing libraries at the function level?](https://www.reddit.com/r/Python/comments/1bo7jr7/what_is_wrong_with_importing_libraries_at_the/)
 - [Adobe Audition&#39;s remix feature in Python?](https://www.reddit.com/r/Python/comments/1bo495w/adobe_auditions_remix_feature_in_python/)
 - [An Automated Bash Script for Python Virtual Environment Management](https://www.reddit.com/r/Python/comments/1bnzcfn/an_automated_bash_script_for_python_virtual/)
 - [ipython-sql has been forked](https://www.reddit.com/r/Python/comments/1bnxrux/ipythonsql_has_been_forked/)
 - [Question about ASYNCIO…](https://www.reddit.com/r/Python/comments/1bnwd4b/question_about_asyncio/)
-- [How to change storage location for directories created by python libraries?](https://www.reddit.com/r/Python/comments/1bnu05l/how_to_change_storage_location_for_directories/)
 <!-- BLOG-POST-LIST:END -->
