@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Jupyter Notebooks in Kaggle? &lpar;from GitHub&rpar;](https://www.reddit.com/r/Python/comments/1bp3t4j/open_jupyter_notebooks_in_kaggle_from_github/)
 - [Type-Level Programming: a POC](https://www.reddit.com/r/Python/comments/1bozhqs/typelevel_programming_a_poc/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1bonik1/wednesday_daily_thread_beginner_questions/)
 - [does anyone know about an alternative to aeneas that works on python 3.12.1?](https://www.reddit.com/r/Python/comments/1bojukc/does_anyone_know_about_an_alternative_to_aeneas/)
 - [PyOhio CFP open through May 20](https://www.reddit.com/r/Python/comments/1bohs1c/pyohio_cfp_open_through_may_20/)
-- [We&#39;re building a Large Action Model &lpar;LAM&rpar; project that can do any task for you using Python!](https://www.reddit.com/r/Python/comments/1bo9z5f/were_building_a_large_action_model_lam_project/)
 <!-- BLOG-POST-LIST:END -->
