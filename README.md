@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Type-Level Programming: a POC](https://www.reddit.com/r/Python/comments/1bozhqs/typelevel_programming_a_poc/)
 - [externally-managed-environment!](https://www.reddit.com/r/Python/comments/1boos0f/externallymanagedenvironment/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1bonik1/wednesday_daily_thread_beginner_questions/)
 - [Pdflib developer using python](https://www.reddit.com/r/Python/comments/1boms5j/pdflib_developer_using_python/)
 - [does anyone know about an alternative to aeneas that works on python 3.12.1?](https://www.reddit.com/r/Python/comments/1bojukc/does_anyone_know_about_an_alternative_to_aeneas/)
-- [PyOhio CFP open through May 20](https://www.reddit.com/r/Python/comments/1bohs1c/pyohio_cfp_open_through_may_20/)
 <!-- BLOG-POST-LIST:END -->
