@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The 77 French legal codes are now available via Hugging Face&#39;s Datasets library with daily updates](https://www.reddit.com/r/Python/comments/1bppqlx/the_77_french_legal_codes_are_now_available_via/)
 - [Makefile Parser for Python](https://www.reddit.com/r/Python/comments/1bpkn75/makefile_parser_for_python/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1bph9qb/thursday_daily_thread_python_careers_courses_and/)
 - [Load Apple&#39;s .numbers Files into Pandas](https://www.reddit.com/r/Python/comments/1bpdzfp/load_apples_numbers_files_into_pandas/)
 - [Open Jupyter Notebooks in Kaggle? &lpar;from GitHub&rpar;](https://www.reddit.com/r/Python/comments/1bp3t4j/open_jupyter_notebooks_in_kaggle_from_github/)
-- [Type-Level Programming: a POC](https://www.reddit.com/r/Python/comments/1bozhqs/typelevel_programming_a_poc/)
 <!-- BLOG-POST-LIST:END -->
