@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [OTP messages flask application](https://www.reddit.com/r/Python/comments/1bq1vqq/otp_messages_flask_application/)
 - [Python state management](https://www.reddit.com/r/Python/comments/1bpzfcb/python_state_management/)
 - [Creating a GeoTIFF raster XYZ tile service in python with caching capability](https://www.reddit.com/r/Python/comments/1bpzcv7/creating_a_geotiff_raster_xyz_tile_service_in/)
 - [Automating Python with Google Cloud](https://www.reddit.com/r/Python/comments/1bpyduk/automating_python_with_google_cloud/)
 - [No More Cutting in Line: Crafting Fairness in Queues using RQ in Python](https://www.reddit.com/r/Python/comments/1bpuej9/no_more_cutting_in_line_crafting_fairness_in/)
-- [The 77 French legal codes are now available via Hugging Face&#39;s Datasets library with daily updates](https://www.reddit.com/r/Python/comments/1bppqlx/the_77_french_legal_codes_are_now_available_via/)
 <!-- BLOG-POST-LIST:END -->
