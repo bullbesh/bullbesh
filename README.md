@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python for iPad OS](https://www.reddit.com/r/Python/comments/1bqmoez/python_for_ipad_os/)
+- [MockMaster : A CLI tool to generate fake /dummy data using LLMs](https://www.reddit.com/r/Python/comments/1bqylmk/mockmaster_a_cli_tool_to_generate_fake_dummy_data/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1bqavv5/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Python state management](https://www.reddit.com/r/Python/comments/1bpzfcb/python_state_management/)
 - [Creating a GeoTIFF raster XYZ tile service in python with caching capability](https://www.reddit.com/r/Python/comments/1bpzcv7/creating_a_geotiff_raster_xyz_tile_service_in/)
