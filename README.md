@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1bqavv5/friday_daily_thread_rpython_meta_and_freetalk/)
+- [Is this a Python or NumPy bug?](https://www.reddit.com/r/Python/comments/1bqahx2/is_this_a_python_or_numpy_bug/)
 - [Anything similar to Kaggle&#39;s Datasets community?](https://www.reddit.com/r/Python/comments/1bq6gtx/anything_similar_to_kaggles_datasets_community/)
 - [OTP messages flask application](https://www.reddit.com/r/Python/comments/1bq1vqq/otp_messages_flask_application/)
 - [Python state management](https://www.reddit.com/r/Python/comments/1bpzfcb/python_state_management/)
-- [Creating a GeoTIFF raster XYZ tile service in python with caching capability](https://www.reddit.com/r/Python/comments/1bpzcv7/creating_a_geotiff_raster_xyz_tile_service_in/)
-- [Automating Python with Google Cloud](https://www.reddit.com/r/Python/comments/1bpyduk/automating_python_with_google_cloud/)
 <!-- BLOG-POST-LIST:END -->
