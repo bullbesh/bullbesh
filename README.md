@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [An alternative to postman or thunderclient](https://www.reddit.com/r/Python/comments/1brqw64/an_alternative_to_postman_or_thunderclient/)
 - [remove background from image using AI in just 5 lines of python code](https://www.reddit.com/r/Python/comments/1brl380/remove_background_from_image_using_ai_in_just_5/)
 - [Python for Everyday, Everyone and Everywhere: A community book for inspiration](https://www.reddit.com/r/Python/comments/1brh3zq/python_for_everyday_everyone_and_everywhere_a/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1br3mfb/saturday_daily_thread_resource_request_and/)
 - [SQLModel vs native SQL Alchemy ORM for a web backend?](https://www.reddit.com/r/Python/comments/1br19x3/sqlmodel_vs_native_sql_alchemy_orm_for_a_web/)
-- [MockMaster : A CLI tool to generate fake /dummy data using LLMs](https://www.reddit.com/r/Python/comments/1bqylmk/mockmaster_a_cli_tool_to_generate_fake_dummy_data/)
 <!-- BLOG-POST-LIST:END -->
