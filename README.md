@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trying to make sense of typing library](https://www.reddit.com/r/Python/comments/1bs8qpd/trying_to_make_sense_of_typing_library/)
 - [Does anyone actually use PyPy or Cython?](https://www.reddit.com/r/Python/comments/1bs7mv1/does_anyone_actually_use_pypy_or_cython/)
 - [Finding a sub-list within a list, in Python](https://www.reddit.com/r/Python/comments/1bs66pk/finding_a_sublist_within_a_list_in_python/)
 - [Is it considered wrong if a long script isn&#39;t importing modules?](https://www.reddit.com/r/Python/comments/1bs1h1n/is_it_considered_wrong_if_a_long_script_isnt/)
 - [Real Time Authentication System in Python](https://www.reddit.com/r/Python/comments/1brzaqg/real_time_authentication_system_in_python/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1brwdpt/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
