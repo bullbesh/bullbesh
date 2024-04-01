@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [would &quot;not obj&quot; diff from &quot;obj is None&quot;](https://www.reddit.com/r/Python/comments/1bti76a/would_not_obj_diff_from_obj_is_none/)
 - [Opinion: Python can adopt JS&#39; import system](https://www.reddit.com/r/Python/comments/1btchd1/opinion_python_can_adopt_js_import_system/)
 - [Why am I getting cannot unpack non iterable none type object error.](https://www.reddit.com/r/Python/comments/1btb7be/why_am_i_getting_cannot_unpack_non_iterable_none/)
 - [Portr: Open source self hosted ngrok alternative designed for teams](https://www.reddit.com/r/Python/comments/1bt9hyd/portr_open_source_self_hosted_ngrok_alternative/)
 - [pointers.py being added to the standard library!](https://www.reddit.com/r/Python/comments/1bt7rnw/pointerspy_being_added_to_the_standard_library/)
-- [Better PDF Layout Detection for LLM&#39;s + table support](https://www.reddit.com/r/Python/comments/1bt7ik3/better_pdf_layout_detection_for_llms_table_support/)
 <!-- BLOG-POST-LIST:END -->
