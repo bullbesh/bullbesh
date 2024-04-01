@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1bsp3gu/monday_daily_thread_project_ideas/)
+- [Wrote a Python script for downloading images/GIFs from subreddits in bulk.](https://www.reddit.com/r/Python/comments/1bso6rs/wrote_a_python_script_for_downloading_imagesgifs/)
 - [Futurama API written in async Python](https://www.reddit.com/r/Python/comments/1bsiht7/futurama_api_written_in_async_python/)
-- [Can Pythonista for iOS be used to fully interact with the Pocket API?](https://www.reddit.com/r/Python/comments/1bsgp2s/can_pythonista_for_ios_be_used_to_fully_interact/)
-- [I shared a Data Science playlist on YouTube &lpar;20+ full courses and projects&rpar;](https://www.reddit.com/r/Python/comments/1bsb8c7/i_shared_a_data_science_playlist_on_youtube_20/)
 - [Does anyone actually use PyPy or Cython?](https://www.reddit.com/r/Python/comments/1bs7mv1/does_anyone_actually_use_pypy_or_cython/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1brwdpt/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
