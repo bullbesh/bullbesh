@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Drawpyo: create Draw.io diagrams with Python](https://www.reddit.com/r/Python/comments/1bt5rx9/drawpyo_create_drawio_diagrams_with_python/)
+- [How to parallelize Pandas with Modin](https://www.reddit.com/r/Python/comments/1bt4w6z/how_to_parallelize_pandas_with_modin/)
 - [AnyPathLib - A unified PathLib-like API for cloud storages](https://www.reddit.com/r/Python/comments/1bsx1t5/anypathlib_a_unified_pathliblike_api_for_cloud/)
 - [How to pip3 install pycryptodome package so it&#39;s compatible with my iOS Python?](https://www.reddit.com/r/Python/comments/1bstnt9/how_to_pip3_install_pycryptodome_package_so_its/)
 - [The Best* Python Cheat Sheet](https://www.reddit.com/r/Python/comments/1bst810/the_best_python_cheat_sheet/)
-- [How to beat boredom?](https://www.reddit.com/r/Python/comments/1bssjh9/how_to_beat_boredom/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1bsp3gu/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
