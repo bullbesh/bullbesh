@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there a good image editor application written in python? gimp.py?](https://www.reddit.com/r/Python/comments/1bucqld/is_there_a_good_image_editor_application_written/)
+- [Who&#39;s going to PyCon US 2024?](https://www.reddit.com/r/Python/comments/1buc9ut/whos_going_to_pycon_us_2024/)
 - [Python Inner class feature](https://www.reddit.com/r/Python/comments/1bua0bg/python_inner_class_feature/)
 - [Serverless Python Support in Cloudflare Workers](https://www.reddit.com/r/Python/comments/1bu9r1f/serverless_python_support_in_cloudflare_workers/)
 - [Genuine question: Where should I share my opinion about Python language?](https://www.reddit.com/r/Python/comments/1bu7bs0/genuine_question_where_should_i_share_my_opinion/)
-- [Security Code Challenge for Developers &amp; Ethical Hackers - Damn Vulnerable RESTaurant API](https://www.reddit.com/r/Python/comments/1bu2ckl/security_code_challenge_for_developers_ethical/)
-- [geojson-shave: a command-line tool for reducing the file size of GeoJSON files](https://www.reddit.com/r/Python/comments/1btnm5b/geojsonshave_a_commandline_tool_for_reducing_the/)
 <!-- BLOG-POST-LIST:END -->
