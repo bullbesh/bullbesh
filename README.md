@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [geojson-shave: a command-line tool for reducing the file size of GeoJSON files](https://www.reddit.com/r/Python/comments/1btnm5b/geojsonshave_a_commandline_tool_for_reducing_the/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1btk4m5/tuesday_daily_thread_advanced_questions/)
-- [Why am I getting cannot unpack non iterable none type object error.](https://www.reddit.com/r/Python/comments/1btb7be/why_am_i_getting_cannot_unpack_non_iterable_none/)
+- [Python isn&#39;t dramatic enough](https://www.reddit.com/r/Python/comments/1btb20j/python_isnt_dramatic_enough/)
 - [Portr: Open source self hosted ngrok alternative designed for teams](https://www.reddit.com/r/Python/comments/1bt9hyd/portr_open_source_self_hosted_ngrok_alternative/)
 - [pointers.py being added to the standard library!](https://www.reddit.com/r/Python/comments/1bt7rnw/pointerspy_being_added_to_the_standard_library/)
 <!-- BLOG-POST-LIST:END -->
