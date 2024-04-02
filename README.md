@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Security Code Challenge for Developers &amp; Ethical Hackers - Damn Vulnerable RESTaurant API](https://www.reddit.com/r/Python/comments/1bu2ckl/security_code_challenge_for_developers_ethical/)
 - [geojson-shave: a command-line tool for reducing the file size of GeoJSON files](https://www.reddit.com/r/Python/comments/1btnm5b/geojsonshave_a_commandline_tool_for_reducing_the/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1btk4m5/tuesday_daily_thread_advanced_questions/)
 - [Python isn&#39;t dramatic enough](https://www.reddit.com/r/Python/comments/1btb20j/python_isnt_dramatic_enough/)
 - [Portr: Open source self hosted ngrok alternative designed for teams](https://www.reddit.com/r/Python/comments/1bt9hyd/portr_open_source_self_hosted_ngrok_alternative/)
-- [pointers.py being added to the standard library!](https://www.reddit.com/r/Python/comments/1bt7rnw/pointerspy_being_added_to_the_standard_library/)
 <!-- BLOG-POST-LIST:END -->
