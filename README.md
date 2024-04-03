@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Term Menu for Windows](https://www.reddit.com/r/Python/comments/1buqbjt/simple_term_menu_for_windows/)
 - [Jupyter labs widgets](https://www.reddit.com/r/Python/comments/1bufj9t/jupyter_labs_widgets/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1bue638/wednesday_daily_thread_beginner_questions/)
 - [Is there a good image editor application written in python? gimp.py?](https://www.reddit.com/r/Python/comments/1bucqld/is_there_a_good_image_editor_application_written/)
 - [Who&#39;s going to PyCon US 2024?](https://www.reddit.com/r/Python/comments/1buc9ut/whos_going_to_pycon_us_2024/)
-- [Python Inner class feature](https://www.reddit.com/r/Python/comments/1bua0bg/python_inner_class_feature/)
 <!-- BLOG-POST-LIST:END -->
