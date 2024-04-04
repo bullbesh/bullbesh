@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [UXsim 1.1.0 released: Network traffic flow simulator gets Multilane support](https://www.reddit.com/r/Python/comments/1bvxpgz/uxsim_110_released_network_traffic_flow_simulator/)
 - [Clean Code and Hexagonal architecture for Python](https://www.reddit.com/r/Python/comments/1bvw1ht/clean_code_and_hexagonal_architecture_for_python/)
 - [Do you make display-tables in Python? - &quot;The Design Philosophy of Great Tables&quot;](https://www.reddit.com/r/Python/comments/1bvvunv/do_you_make_displaytables_in_python_the_design/)
 - [Media-related scripts I wanted to share](https://www.reddit.com/r/Python/comments/1bvu76a/mediarelated_scripts_i_wanted_to_share/)
 - [Where are you getting your Python news? &lpar;besides right here, of course&rpar;](https://www.reddit.com/r/Python/comments/1bvp6vy/where_are_you_getting_your_python_news_besides/)
-- [Does it really matter what order you import modules in python?](https://www.reddit.com/r/Python/comments/1bv9of6/does_it_really_matter_what_order_you_import/)
 <!-- BLOG-POST-LIST:END -->
