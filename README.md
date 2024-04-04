@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Media-related scripts I wanted to share](https://www.reddit.com/r/Python/comments/1bvu76a/mediarelated_scripts_i_wanted_to_share/)
 - [Where are you getting your Python news? &lpar;besides right here, of course&rpar;](https://www.reddit.com/r/Python/comments/1bvp6vy/where_are_you_getting_your_python_news_besides/)
 - [Does it really matter what order you import modules in python?](https://www.reddit.com/r/Python/comments/1bv9of6/does_it_really_matter_what_order_you_import/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1bv8m0o/thursday_daily_thread_python_careers_courses_and/)
 - [XZ Vulnerability Anaconda](https://www.reddit.com/r/Python/comments/1bv2wt7/xz_vulnerability_anaconda/)
-- [Docx2Python 2.10.0 will now extract comments from Word files](https://www.reddit.com/r/Python/comments/1buwnrt/docx2python_2100_will_now_extract_comments_from/)
 <!-- BLOG-POST-LIST:END -->
