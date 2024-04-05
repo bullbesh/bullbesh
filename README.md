@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python open source Projects](https://www.reddit.com/r/Python/comments/1bw7eh8/python_open_source_projects/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1bw3byb/friday_daily_thread_rpython_meta_and_freetalk/)
 - [UXsim 1.1.0 released: Network traffic flow simulator gets Multilane support](https://www.reddit.com/r/Python/comments/1bvxpgz/uxsim_110_released_network_traffic_flow_simulator/)
 - [Do you make display-tables in Python? - &quot;The Design Philosophy of Great Tables&quot;](https://www.reddit.com/r/Python/comments/1bvvunv/do_you_make_displaytables_in_python_the_design/)
 - [Media-related scripts I wanted to share](https://www.reddit.com/r/Python/comments/1bvu76a/mediarelated_scripts_i_wanted_to_share/)
-- [Where are you getting your Python news? &lpar;besides right here, of course&rpar;](https://www.reddit.com/r/Python/comments/1bvp6vy/where_are_you_getting_your_python_news_besides/)
 <!-- BLOG-POST-LIST:END -->
