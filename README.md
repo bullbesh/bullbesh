@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jupyter included in most python courses](https://www.reddit.com/r/Python/comments/1bwho31/jupyter_included_in_most_python_courses/)
+- [Python environment](https://www.reddit.com/r/Python/comments/1bwhh0p/python_environment/)
 - [A solver of Le Compte Est Bon and Le Mot Le Plus Long](https://www.reddit.com/r/Python/comments/1bweu9x/a_solver_of_le_compte_est_bon_and_le_mot_le_plus/)
 - [PyCharm vs VS Code](https://www.reddit.com/r/Python/comments/1bwb9dw/pycharm_vs_vs_code/)
 - [Python open source Projects](https://www.reddit.com/r/Python/comments/1bw7eh8/python_open_source_projects/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1bw3byb/friday_daily_thread_rpython_meta_and_freetalk/)
-- [UXsim 1.1.0 released: Network traffic flow simulator gets Multilane support](https://www.reddit.com/r/Python/comments/1bvxpgz/uxsim_110_released_network_traffic_flow_simulator/)
 <!-- BLOG-POST-LIST:END -->
