@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tkinter GUI and running other parts of program](https://www.reddit.com/r/Python/comments/1bx8yss/tkinter_gui_and_running_other_parts_of_program/)
 - [PyPDFCompare PDF Comparison CLI Tool](https://www.reddit.com/r/Python/comments/1bx5ea3/pypdfcompare_pdf_comparison_cli_tool/)
 - [I created a way to connect your Python to LLM to provide it with debugger-level context &lpar;OpenSource&rpar;](https://www.reddit.com/r/Python/comments/1bwxkum/i_created_a_way_to_connect_your_python_to_llm_to/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1bwxb62/saturday_daily_thread_resource_request_and/)
 - [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter. Weekly news, subscribe for free](https://www.reddit.com/r/Python/comments/1bwpgkz/the_python_on_microcontrollers_and_raspberry_pi/)
-- [An efficient modeling interface for mathematical optimization: PyOptInterface](https://www.reddit.com/r/Python/comments/1bwky6l/an_efficient_modeling_interface_for_mathematical/)
 <!-- BLOG-POST-LIST:END -->
