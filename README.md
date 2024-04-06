@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Book Recommendations](https://www.reddit.com/r/Python/comments/1bxcnrb/book_recommendations/)
+- [Build and Publish Your Python Project](https://www.reddit.com/r/Python/comments/1bxi0ak/build_and_publish_your_python_project/)
+- [python-vlc switch output from directx](https://www.reddit.com/r/Python/comments/1bxhwdw/pythonvlc_switch_output_from_directx/)
+- [How much should I charge for this project?](https://www.reddit.com/r/Python/comments/1bxh0oo/how_much_should_i_charge_for_this_project/)
 - [How secure is PVM](https://www.reddit.com/r/Python/comments/1bxc3hb/how_secure_is_pvm/)
 - [Starting DSA and Competitive coding in Python. Lets discuss!](https://www.reddit.com/r/Python/comments/1bxb54m/starting_dsa_and_competitive_coding_in_python/)
-- [Tkinter GUI and running other parts of program](https://www.reddit.com/r/Python/comments/1bx8yss/tkinter_gui_and_running_other_parts_of_program/)
-- [PyPDFCompare PDF Comparison CLI Tool](https://www.reddit.com/r/Python/comments/1bx5ea3/pypdfcompare_pdf_comparison_cli_tool/)
 <!-- BLOG-POST-LIST:END -->
