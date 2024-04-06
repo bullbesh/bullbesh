@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Build and Publish Your Python Project](https://www.reddit.com/r/Python/comments/1bxi0ak/build_and_publish_your_python_project/)
-- [python-vlc switch output from directx](https://www.reddit.com/r/Python/comments/1bxhwdw/pythonvlc_switch_output_from_directx/)
-- [How much should I charge for this project?](https://www.reddit.com/r/Python/comments/1bxh0oo/how_much_should_i_charge_for_this_project/)
 - [How secure is PVM](https://www.reddit.com/r/Python/comments/1bxc3hb/how_secure_is_pvm/)
-- [Starting DSA and Competitive coding in Python. Lets discuss!](https://www.reddit.com/r/Python/comments/1bxb54m/starting_dsa_and_competitive_coding_in_python/)
+- [PyPDFCompare PDF Comparison CLI Tool](https://www.reddit.com/r/Python/comments/1bx5ea3/pypdfcompare_pdf_comparison_cli_tool/)
+- [I created a way to connect your Python to LLM to provide it with debugger-level context &lpar;OpenSource&rpar;](https://www.reddit.com/r/Python/comments/1bwxkum/i_created_a_way_to_connect_your_python_to_llm_to/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1bwxb62/saturday_daily_thread_resource_request_and/)
+- [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter. Weekly news, subscribe for free](https://www.reddit.com/r/Python/comments/1bwpgkz/the_python_on_microcontrollers_and_raspberry_pi/)
 <!-- BLOG-POST-LIST:END -->
