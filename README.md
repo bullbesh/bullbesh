@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Would there be general interest for a library that ensure external application API call safety?](https://www.reddit.com/r/Python/comments/1bye1tw/would_there_be_general_interest_for_a_library/)
 - [Things to consider when transitioning a C++ service to Python?](https://www.reddit.com/r/Python/comments/1bybwq2/things_to_consider_when_transitioning_a_c_service/)
 - [Gmail Filter Squasher project](https://www.reddit.com/r/Python/comments/1by2njk/gmail_filter_squasher_project/)
 - [basedmypy vs basedpyright vs mypy vs pyright for Python type checker](https://www.reddit.com/r/Python/comments/1by1jtf/basedmypy_vs_basedpyright_vs_mypy_vs_pyright_for/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1bxq7tt/sunday_daily_thread_whats_everyone_working_on/)
-- [I made my very first python library! It converts reddit posts to text format for feeding to LLM&#39;s!](https://www.reddit.com/r/Python/comments/1bxmsxd/i_made_my_very_first_python_library_it_converts/)
 <!-- BLOG-POST-LIST:END -->
