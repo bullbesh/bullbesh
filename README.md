@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [With the demise of open Pysimplegui is anyone interested in helping productionise this alternative?](https://www.reddit.com/r/Python/comments/1bygkmh/with_the_demise_of_open_pysimplegui_is_anyone/)
+- [Media pipe module not found error](https://www.reddit.com/r/Python/comments/1byfvk8/media_pipe_module_not_found_error/)
 - [Would there be general interest for a library that ensure external application API call safety?](https://www.reddit.com/r/Python/comments/1bye1tw/would_there_be_general_interest_for_a_library/)
 - [Gmail Filter Squasher project](https://www.reddit.com/r/Python/comments/1by2njk/gmail_filter_squasher_project/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1bxq7tt/sunday_daily_thread_whats_everyone_working_on/)
-- [I made my very first python library! It converts reddit posts to text format for feeding to LLM&#39;s!](https://www.reddit.com/r/Python/comments/1bxmsxd/i_made_my_very_first_python_library_it_converts/)
-- [PyPDFCompare PDF Comparison CLI Tool](https://www.reddit.com/r/Python/comments/1bx5ea3/pypdfcompare_pdf_comparison_cli_tool/)
 <!-- BLOG-POST-LIST:END -->
