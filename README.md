@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python has the most ugly syntax I have ever seen in any programming language](https://www.reddit.com/r/Python/comments/1bxyou5/python_has_the_most_ugly_syntax_i_have_ever_seen/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1bxq7tt/sunday_daily_thread_whats_everyone_working_on/)
 - [I made my very first python library! It converts reddit posts to text format for feeding to LLM&#39;s!](https://www.reddit.com/r/Python/comments/1bxmsxd/i_made_my_very_first_python_library_it_converts/)
 - [How secure is PVM](https://www.reddit.com/r/Python/comments/1bxc3hb/how_secure_is_pvm/)
 - [PyPDFCompare PDF Comparison CLI Tool](https://www.reddit.com/r/Python/comments/1bx5ea3/pypdfcompare_pdf_comparison_cli_tool/)
-- [I created a way to connect your Python to LLM to provide it with debugger-level context &lpar;OpenSource&rpar;](https://www.reddit.com/r/Python/comments/1bwxkum/i_created_a_way_to_connect_your_python_to_llm_to/)
 <!-- BLOG-POST-LIST:END -->
