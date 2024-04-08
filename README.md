@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Asyncio in Python: 5 Key Concepts](https://www.reddit.com/r/Python/comments/1byufih/understanding_asyncio_in_python_5_key_concepts/)
-- [I shared a 1+ hour Data Science Project on YouTube](https://www.reddit.com/r/Python/comments/1bytgbr/i_shared_a_1_hour_data_science_project_on_youtube/)
-- [Difference between Pandas and Numpy](https://www.reddit.com/r/Python/comments/1byphjz/difference_between_pandas_and_numpy/)
-- [Is it a good idea to put logging/metrics logic in the decorator ?](https://www.reddit.com/r/Python/comments/1byox8y/is_it_a_good_idea_to_put_loggingmetrics_logic_in/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1byji96/monday_daily_thread_project_ideas/)
+- [Do folks ever use Pandas when they should use SQL?](https://www.reddit.com/r/Python/comments/1byhpm7/do_folks_ever_use_pandas_when_they_should_use_sql/)
+- [With the demise of open Pysimplegui is anyone interested in helping productionise this alternative?](https://www.reddit.com/r/Python/comments/1bygkmh/with_the_demise_of_open_pysimplegui_is_anyone/)
+- [Would there be general interest for a library that ensure external application API call safety?](https://www.reddit.com/r/Python/comments/1bye1tw/would_there_be_general_interest_for_a_library/)
 <!-- BLOG-POST-LIST:END -->
