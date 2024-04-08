@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automatically extract phone call insights with LLMs - quick tutorial](https://www.reddit.com/r/Python/comments/1bz4y7d/automatically_extract_phone_call_insights_with/)
+- [magic-di: Dependency Injector with minimal boilerplate code, built-in support for FastAPI and Celery](https://www.reddit.com/r/Python/comments/1bz3tyq/magicdi_dependency_injector_with_minimal/)
 - [Understanding Asyncio in Python: 5 Key Concepts](https://www.reddit.com/r/Python/comments/1byufih/understanding_asyncio_in_python_5_key_concepts/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1byji96/monday_daily_thread_project_ideas/)
 - [Do folks ever use Pandas when they should use SQL?](https://www.reddit.com/r/Python/comments/1byhpm7/do_folks_ever_use_pandas_when_they_should_use_sql/)
-- [With the demise of open Pysimplegui is anyone interested in helping productionise this alternative?](https://www.reddit.com/r/Python/comments/1bygkmh/with_the_demise_of_open_pysimplegui_is_anyone/)
-- [Would there be general interest for a library that ensure external application API call safety?](https://www.reddit.com/r/Python/comments/1bye1tw/would_there_be_general_interest_for_a_library/)
 <!-- BLOG-POST-LIST:END -->
