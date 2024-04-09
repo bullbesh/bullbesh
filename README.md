@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which IDE&lpar;s&rpar; do you use for Python and why?](https://www.reddit.com/r/Python/comments/1bzmadk/which_ides_do_you_use_for_python_and_why/)
 - [automathon: A Python library for simulating and visualizing finite automata](https://www.reddit.com/r/Python/comments/1bzlkk4/automathon_a_python_library_for_simulating_and/)
 - [async_api_caller - simplifies asynchronous web API calling](https://www.reddit.com/r/Python/comments/1bzkfra/async_api_caller_simplifies_asynchronous_web_api/)
 - [Detecting figures with text in it in python](https://www.reddit.com/r/Python/comments/1bze0l8/detecting_figures_with_text_in_it_in_python/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1bzdqzx/tuesday_daily_thread_advanced_questions/)
-- [3-dimensional/ heatmap peak picking?](https://www.reddit.com/r/Python/comments/1bz6a5h/3dimensional_heatmap_peak_picking/)
 <!-- BLOG-POST-LIST:END -->
