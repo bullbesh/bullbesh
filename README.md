@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I need a technical cofounder to work on a Ai Music App to Dethrown Spotify.](https://www.reddit.com/r/Python/comments/1bzrtmy/i_need_a_technical_cofounder_to_work_on_a_ai/)
-- [Can we look up and edit the source code of an application?](https://www.reddit.com/r/Python/comments/1bzpt9r/can_we_look_up_and_edit_the_source_code_of_an/)
-- [Which IDE&lpar;s&rpar; do you use for Python and why?](https://www.reddit.com/r/Python/comments/1bzmadk/which_ides_do_you_use_for_python_and_why/)
 - [automathon: A Python library for simulating and visualizing finite automata](https://www.reddit.com/r/Python/comments/1bzlkk4/automathon_a_python_library_for_simulating_and/)
 - [async_api_caller - simplifies asynchronous web API calling](https://www.reddit.com/r/Python/comments/1bzkfra/async_api_caller_simplifies_asynchronous_web_api/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1bzdqzx/tuesday_daily_thread_advanced_questions/)
+- [3-dimensional/ heatmap peak picking?](https://www.reddit.com/r/Python/comments/1bz6a5h/3dimensional_heatmap_peak_picking/)
+- [Automatically extract phone call insights with LLMs - quick tutorial](https://www.reddit.com/r/Python/comments/1bz4y7d/automatically_extract_phone_call_insights_with/)
 <!-- BLOG-POST-LIST:END -->
