@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Jupyter Notebooks with Flox](https://www.reddit.com/r/Python/comments/1bzvlhq/using_jupyter_notebooks_with_flox/)
 - [automathon: A Python library for simulating and visualizing finite automata](https://www.reddit.com/r/Python/comments/1bzlkk4/automathon_a_python_library_for_simulating_and/)
 - [async_api_caller - simplifies asynchronous web API calling](https://www.reddit.com/r/Python/comments/1bzkfra/async_api_caller_simplifies_asynchronous_web_api/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1bzdqzx/tuesday_daily_thread_advanced_questions/)
 - [3-dimensional/ heatmap peak picking?](https://www.reddit.com/r/Python/comments/1bz6a5h/3dimensional_heatmap_peak_picking/)
-- [Automatically extract phone call insights with LLMs - quick tutorial](https://www.reddit.com/r/Python/comments/1bz4y7d/automatically_extract_phone_call_insights_with/)
 <!-- BLOG-POST-LIST:END -->
