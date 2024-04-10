@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does it matter what order I import modules in Python?](https://www.reddit.com/r/Python/comments/1c0c816/does_it_matter_what_order_i_import_modules_in/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1c07frh/wednesday_daily_thread_beginner_questions/)
 - [Career shifting](https://www.reddit.com/r/Python/comments/1c06x13/career_shifting/)
 - [Advanced Macro &amp; Calorie Calculator](https://www.reddit.com/r/Python/comments/1c06d6u/advanced_macro_calorie_calculator/)
 - [PGCacheWatch - Supercharge Your Caching Strategy](https://www.reddit.com/r/Python/comments/1bzx1na/pgcachewatch_supercharge_your_caching_strategy/)
-- [Using Jupyter Notebooks with Flox](https://www.reddit.com/r/Python/comments/1bzvlhq/using_jupyter_notebooks_with_flox/)
 <!-- BLOG-POST-LIST:END -->
