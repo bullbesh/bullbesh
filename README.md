@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Paid libraries may kill Python](https://www.reddit.com/r/Python/comments/1c0k7od/paid_libraries_may_kill_python/)
 - [Hello, I am a student of Psychology, I invite IT employees to complete a survey&lpar;Max 10 min&rpar;](https://www.reddit.com/r/Python/comments/1c0h9ag/hello_i_am_a_student_of_psychology_i_invite_it/)
 - [Does it matter what order I import modules in Python?](https://www.reddit.com/r/Python/comments/1c0c816/does_it_matter_what_order_i_import_modules_in/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1c07frh/wednesday_daily_thread_beginner_questions/)
 - [Career shifting](https://www.reddit.com/r/Python/comments/1c06x13/career_shifting/)
-- [Advanced Macro &amp; Calorie Calculator](https://www.reddit.com/r/Python/comments/1c06d6u/advanced_macro_calorie_calculator/)
 <!-- BLOG-POST-LIST:END -->
