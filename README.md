@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Invoking functions with generic return type?](https://www.reddit.com/r/Python/comments/1c0x71x/invoking_functions_with_generic_return_type/)
 - [&quot;Gracefully&quot; Implementing Graceful Shutdowns - FastApi | Kubernetes | WebSockets | Black | Ruff Show](https://www.reddit.com/r/Python/comments/1c0wdvw/gracefully_implementing_graceful_shutdowns/)
 - [Awesome Python Library: Tenacity](https://www.reddit.com/r/Python/comments/1c0s3ep/awesome_python_library_tenacity/)
 - [pwdgen - a simple password generator](https://www.reddit.com/r/Python/comments/1c0p8gc/pwdgen_a_simple_password_generator/)
 - [Build and Publish Your Python Project](https://www.reddit.com/r/Python/comments/1c0o6da/build_and_publish_your_python_project/)
-- [Python 3.12.3 Released](https://www.reddit.com/r/Python/comments/1c0lhz8/python_3123_released/)
 <!-- BLOG-POST-LIST:END -->
