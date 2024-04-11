@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [And so it begins - QTPYGUI, Yet another Pyside6 GUI Wrapper!!!](https://www.reddit.com/r/Python/comments/1c19kob/and_so_it_begins_qtpygui_yet_another_pyside6_gui/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1c10p5r/thursday_daily_thread_python_careers_courses_and/)
 - [&quot;Gracefully&quot; Implementing Graceful Shutdowns - FastApi | Kubernetes | WebSockets | Black | Ruff Show](https://www.reddit.com/r/Python/comments/1c0wdvw/gracefully_implementing_graceful_shutdowns/)
 - [Awesome Python Library: Tenacity](https://www.reddit.com/r/Python/comments/1c0s3ep/awesome_python_library_tenacity/)
 - [pwdgen - a simple password generator](https://www.reddit.com/r/Python/comments/1c0p8gc/pwdgen_a_simple_password_generator/)
+- [Build and Publish Your Python Project](https://www.reddit.com/r/Python/comments/1c0o6da/build_and_publish_your_python_project/)
 <!-- BLOG-POST-LIST:END -->
