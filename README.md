@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Example Data Pipeline with Prefect, Delta Lake, and Dask](https://www.reddit.com/r/Python/comments/1c1fg55/example_data_pipeline_with_prefect_delta_lake_and/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1c10p5r/thursday_daily_thread_python_careers_courses_and/)
 - [&quot;Gracefully&quot; Implementing Graceful Shutdowns - FastApi | Kubernetes | WebSockets | Black | Ruff Show](https://www.reddit.com/r/Python/comments/1c0wdvw/gracefully_implementing_graceful_shutdowns/)
 - [Awesome Python Library: Tenacity](https://www.reddit.com/r/Python/comments/1c0s3ep/awesome_python_library_tenacity/)
 - [pwdgen - a simple password generator](https://www.reddit.com/r/Python/comments/1c0p8gc/pwdgen_a_simple_password_generator/)
-- [Build and Publish Your Python Project](https://www.reddit.com/r/Python/comments/1c0o6da/build_and_publish_your_python_project/)
 <!-- BLOG-POST-LIST:END -->
