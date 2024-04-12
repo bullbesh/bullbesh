@@ -11,6 +11,6 @@
 - [Best way to organize a hackathon/competition geared towards python developers?](https://www.reddit.com/r/Python/comments/1c29gsa/best_way_to_organize_a_hackathoncompetition/)
 - [pydantic + dataloader = pydantic-resolve](https://www.reddit.com/r/Python/comments/1c29al1/pydantic_dataloader_pydanticresolve/)
 - [FaceOnLive Open KYC: Streamlining Identity Verification with AI](https://www.reddit.com/r/Python/comments/1c26aoq/faceonlive_open_kyc_streamlining_identity/)
+- [Sentinel - A digital forensics tool](https://www.reddit.com/r/Python/comments/1c20dcw/sentinel_a_digital_forensics_tool/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1c1um1g/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Example Data Pipeline with Prefect, Delta Lake, and Dask](https://www.reddit.com/r/Python/comments/1c1fg55/example_data_pipeline_with_prefect_delta_lake_and/)
 <!-- BLOG-POST-LIST:END -->
