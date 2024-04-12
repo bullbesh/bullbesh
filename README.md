@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best way to organize a hackathon/competition geared towards python developers?](https://www.reddit.com/r/Python/comments/1c29gsa/best_way_to_organize_a_hackathoncompetition/)
+- [pydantic + dataloader = pydantic-resolve](https://www.reddit.com/r/Python/comments/1c29al1/pydantic_dataloader_pydanticresolve/)
 - [FaceOnLive Open KYC: Streamlining Identity Verification with AI](https://www.reddit.com/r/Python/comments/1c26aoq/faceonlive_open_kyc_streamlining_identity/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1c1um1g/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Example Data Pipeline with Prefect, Delta Lake, and Dask](https://www.reddit.com/r/Python/comments/1c1fg55/example_data_pipeline_with_prefect_delta_lake_and/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1c10p5r/thursday_daily_thread_python_careers_courses_and/)
-- [&quot;Gracefully&quot; Implementing Graceful Shutdowns - FastApi | Kubernetes | WebSockets | Black | Ruff Show](https://www.reddit.com/r/Python/comments/1c0wdvw/gracefully_implementing_graceful_shutdowns/)
 <!-- BLOG-POST-LIST:END -->
