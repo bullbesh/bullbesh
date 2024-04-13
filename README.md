@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [anycrc - Python CRC computation library](https://www.reddit.com/r/Python/comments/1c37ofm/anycrc_python_crc_computation_library/)
 - [Demystifying list comprehensions in Python](https://www.reddit.com/r/Python/comments/1c36mvz/demystifying_list_comprehensions_in_python/)
 - [Pandas - value replacement or interpolation](https://www.reddit.com/r/Python/comments/1c34vk8/pandas_value_replacement_or_interpolation/)
 - [Using FastAPI REST along with RabbitMQ](https://www.reddit.com/r/Python/comments/1c33ku8/using_fastapi_rest_along_with_rabbitmq/)
 - [ChatGPT / Python](https://www.reddit.com/r/Python/comments/1c2us61/chatgpt_python/)
-- [resvg-py, safe bindings for resvg project](https://www.reddit.com/r/Python/comments/1c2tudb/resvgpy_safe_bindings_for_resvg_project/)
 <!-- BLOG-POST-LIST:END -->
