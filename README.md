@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [resvg-py, safe bindings for resvg project](https://www.reddit.com/r/Python/comments/1c2tudb/resvgpy_safe_bindings_for_resvg_project/)
 - [constable - automatically inject print statements into your functions for debugging variables](https://www.reddit.com/r/Python/comments/1c2qxk5/constable_automatically_inject_print_statements/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1c2oa6w/saturday_daily_thread_resource_request_and/)
 - [pydantic + dataloader = pydantic-resolve](https://www.reddit.com/r/Python/comments/1c29al1/pydantic_dataloader_pydanticresolve/)
 - [Sentinel - A digital forensics tool](https://www.reddit.com/r/Python/comments/1c20dcw/sentinel_a_digital_forensics_tool/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1c1um1g/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
