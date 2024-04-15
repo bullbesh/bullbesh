@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [calling C# in python using pythonnet](https://www.reddit.com/r/Python/comments/1c4d7vs/calling_c_in_python_using_pythonnet/)
 - [privates.py - Stop others from touching your privates!](https://www.reddit.com/r/Python/comments/1c48ww9/privatespy_stop_others_from_touching_your_privates/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1c486f4/monday_daily_thread_project_ideas/)
 - [Activate Python virtual environment automatically on iTerm2](https://www.reddit.com/r/Python/comments/1c47ca1/activate_python_virtual_environment_automatically/)
 - [Behavior of AttributeError in @property and __getattr__](https://www.reddit.com/r/Python/comments/1c435zw/behavior_of_attributeerror_in_property_and_getattr/)
-- [Failing POST Request to AMEX Login](https://www.reddit.com/r/Python/comments/1c41nap/failing_post_request_to_amex_login/)
 <!-- BLOG-POST-LIST:END -->
