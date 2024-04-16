@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1c51rs9/tuesday_daily_thread_advanced_questions/)
 - [float&lpar;&#39;inf&#39;&rpar; is bad practice](https://www.reddit.com/r/Python/comments/1c4x7b7/floatinf_is_bad_practice/)
-- [OpenFrame Free Front-End Bootcamp for Beginners](https://www.reddit.com/r/Python/comments/1c4wwfj/openframe_free_frontend_bootcamp_for_beginners/)
 - [Some days I really love python...](https://www.reddit.com/r/Python/comments/1c4wsmn/some_days_i_really_love_python/)
 - [Meta Used Monolithic Architecture Using Python to Ship Threads in Only Five Months](https://www.reddit.com/r/Python/comments/1c4u5ml/meta_used_monolithic_architecture_using_python_to/)
+- [zpy can now use uv as a backend to replace Python&#39;s venv module and pip-tools](https://www.reddit.com/r/Python/comments/1c4sarv/zpy_can_now_use_uv_as_a_backend_to_replace/)
 <!-- BLOG-POST-LIST:END -->
