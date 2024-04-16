@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [UXsim 1.1.1 released: Significantly increased performance for the network traffic flow simulator](https://www.reddit.com/r/Python/comments/1c5q36n/uxsim_111_released_significantly_increased/)
 - [bridge — automatic infrastructure for Django](https://www.reddit.com/r/Python/comments/1c5lw83/bridge_automatic_infrastructure_for_django/)
 - [Big O Cheat Sheet: the time complexities of operations Python&#39;s data structures](https://www.reddit.com/r/Python/comments/1c5l9px/big_o_cheat_sheet_the_time_complexities_of/)
 - [Question: Tool for editing figures in Python](https://www.reddit.com/r/Python/comments/1c5ixdz/question_tool_for_editing_figures_in_python/)
-- [Am I ready for a job?](https://www.reddit.com/r/Python/comments/1c5icyg/am_i_ready_for_a_job/)
 - [Using Pandas 2 and different datetime erros](https://www.reddit.com/r/Python/comments/1c5b5ky/using_pandas_2_and_different_datetime_erros/)
 <!-- BLOG-POST-LIST:END -->
