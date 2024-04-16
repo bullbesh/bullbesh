@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Question: Tool for editing figures in Python](https://www.reddit.com/r/Python/comments/1c5ixdz/question_tool_for_editing_figures_in_python/)
 - [Am I ready for a job?](https://www.reddit.com/r/Python/comments/1c5icyg/am_i_ready_for_a_job/)
 - [Using Pandas 2 and different datetime erros](https://www.reddit.com/r/Python/comments/1c5b5ky/using_pandas_2_and_different_datetime_erros/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1c51rs9/tuesday_daily_thread_advanced_questions/)
 - [float&lpar;&#39;inf&#39;&rpar; is bad practice](https://www.reddit.com/r/Python/comments/1c4x7b7/floatinf_is_bad_practice/)
-- [Some days I really love python...](https://www.reddit.com/r/Python/comments/1c4wsmn/some_days_i_really_love_python/)
 <!-- BLOG-POST-LIST:END -->
