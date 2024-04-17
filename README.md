@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Easily Manage Browser Cookies Across Chrome and Firefox with Python!](https://www.reddit.com/r/Python/comments/1c63d5g/easily_manage_browser_cookies_across_chrome_and/)
+- [How to detrend oscillating data?](https://www.reddit.com/r/Python/comments/1c6341a/how_to_detrend_oscillating_data/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1c5vh3q/wednesday_daily_thread_beginner_questions/)
 - [UXsim 1.1.1 released: Significantly increased performance for the network traffic flow simulator](https://www.reddit.com/r/Python/comments/1c5q36n/uxsim_111_released_significantly_increased/)
 - [bridge — automatic infrastructure for Django](https://www.reddit.com/r/Python/comments/1c5lw83/bridge_automatic_infrastructure_for_django/)
-- [Big O Cheat Sheet: the time complexities of operations Python&#39;s data structures](https://www.reddit.com/r/Python/comments/1c5l9px/big_o_cheat_sheet_the_time_complexities_of/)
-- [Question: Tool for editing figures in Python](https://www.reddit.com/r/Python/comments/1c5ixdz/question_tool_for_editing_figures_in_python/)
 <!-- BLOG-POST-LIST:END -->
