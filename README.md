@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows Chrome and Firefox Cookie Extractor](https://www.reddit.com/r/Python/comments/1c6n8sw/windows_chrome_and_firefox_cookie_extractor/)
 - [Handling of long-running processes with timeouts in Flask + Gunicorn API app](https://www.reddit.com/r/Python/comments/1c6ei5h/handling_of_longrunning_processes_with_timeouts/)
 - [Deploying Multi-Module Python Applications on GCP: Service Recommendations?](https://www.reddit.com/r/Python/comments/1c6b77i/deploying_multimodule_python_applications_on_gcp/)
 - [ScrumMD: A CLI Scrum tool written in Python](https://www.reddit.com/r/Python/comments/1c69jns/scrummd_a_cli_scrum_tool_written_in_python/)
 - [Reader - LLM-Friendly websites](https://www.reddit.com/r/Python/comments/1c69bjs/reader_llmfriendly_websites/)
-- [How to detrend oscillating data?](https://www.reddit.com/r/Python/comments/1c6341a/how_to_detrend_oscillating_data/)
 <!-- BLOG-POST-LIST:END -->
