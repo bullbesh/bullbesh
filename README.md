@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Comment blocks in python {Rant}](https://www.reddit.com/r/Python/comments/1c6wd9n/comment_blocks_in_python_rant/)
 - [Achieve true parallelism in Python 3.12](https://www.reddit.com/r/Python/comments/1c6sdyj/achieve_true_parallelism_in_python_312/)
 - [Monitoring asyncio ready queue in python](https://www.reddit.com/r/Python/comments/1c6qpbo/monitoring_asyncio_ready_queue_in_python/)
 - [Transforming Images to Art with Python: My Journey with Stable Diffusion](https://www.reddit.com/r/Python/comments/1c6qf8n/transforming_images_to_art_with_python_my_journey/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1c6pauh/thursday_daily_thread_python_careers_courses_and/)
-- [Windows Chrome and Firefox Cookie Extractor](https://www.reddit.com/r/Python/comments/1c6n8sw/windows_chrome_and_firefox_cookie_extractor/)
 <!-- BLOG-POST-LIST:END -->
