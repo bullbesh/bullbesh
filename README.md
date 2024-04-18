@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring asyncio ready queue in python](https://www.reddit.com/r/Python/comments/1c6qpbo/monitoring_asyncio_ready_queue_in_python/)
+- [Transforming Images to Art with Python: My Journey with Stable Diffusion](https://www.reddit.com/r/Python/comments/1c6qf8n/transforming_images_to_art_with_python_my_journey/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1c6pauh/thursday_daily_thread_python_careers_courses_and/)
 - [Windows Chrome and Firefox Cookie Extractor](https://www.reddit.com/r/Python/comments/1c6n8sw/windows_chrome_and_firefox_cookie_extractor/)
 - [Handling of long-running processes with timeouts in Flask + Gunicorn API app](https://www.reddit.com/r/Python/comments/1c6ei5h/handling_of_longrunning_processes_with_timeouts/)
-- [Deploying Multi-Module Python Applications on GCP: Service Recommendations?](https://www.reddit.com/r/Python/comments/1c6b77i/deploying_multimodule_python_applications_on_gcp/)
-- [ScrumMD: A CLI Scrum tool written in Python](https://www.reddit.com/r/Python/comments/1c69jns/scrummd_a_cli_scrum_tool_written_in_python/)
-- [Reader - LLM-Friendly websites](https://www.reddit.com/r/Python/comments/1c69bjs/reader_llmfriendly_websites/)
 <!-- BLOG-POST-LIST:END -->
