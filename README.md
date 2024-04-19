@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code for download video from YouTube](https://www.reddit.com/r/Python/comments/1c88ryr/code_for_download_video_from_youtube/)
+- [Coding interview goes wrong when you use ChatGPT to code and you are given text editor to code](https://www.reddit.com/r/Python/comments/1c88osy/coding_interview_goes_wrong_when_you_use_chatgpt/)
 - [Anaconda install taking a long time. Frozen?](https://www.reddit.com/r/Python/comments/1c88588/anaconda_install_taking_a_long_time_frozen/)
 - [Cython: Termux hanged while compiling big files.](https://www.reddit.com/r/Python/comments/1c84e56/cython_termux_hanged_while_compiling_big_files/)
 - [MPCode is a scripting programming language](https://www.reddit.com/r/Python/comments/1c837h6/mpcode_is_a_scripting_programming_language/)
-- [Ruff 0.4.0 just dropped, with a faster parser and a new language server](https://www.reddit.com/r/Python/comments/1c7v2ax/ruff_040_just_dropped_with_a_faster_parser_and_a/)
-- [Project: An Interactive Python Dashboard For Data Storytelling UN Food Security](https://www.reddit.com/r/Python/comments/1c7tkg1/project_an_interactive_python_dashboard_for_data/)
 <!-- BLOG-POST-LIST:END -->
