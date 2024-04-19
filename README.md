@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1c7ir92/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Python Wrapper For Meta AI &lpar;Llama 3&rpar;](https://www.reddit.com/r/Python/comments/1c7ftf6/python_wrapper_for_meta_ai_llama_3/)
 - [groupby in Python| Python Hacks you might now know.](https://www.reddit.com/r/Python/comments/1c7dyn0/groupby_in_python_python_hacks_you_might_now_know/)
 - [PyPDFForm now lets you create widgets without Acrobat](https://www.reddit.com/r/Python/comments/1c7aioh/pypdfform_now_lets_you_create_widgets_without/)
 - [chatpdb - gpt for your python debugger](https://www.reddit.com/r/Python/comments/1c7abe8/chatpdb_gpt_for_your_python_debugger/)
-- [Web API Security Champion: Broken Object Level Authorization &lpar;OWASP TOP 10&rpar; for Python Developers](https://www.reddit.com/r/Python/comments/1c77rcy/web_api_security_champion_broken_object_level/)
 <!-- BLOG-POST-LIST:END -->
