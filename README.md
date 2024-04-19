@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MPCode is a scripting programming language](https://www.reddit.com/r/Python/comments/1c837h6/mpcode_is_a_scripting_programming_language/)
 - [Ruff 0.4.0 just dropped, with a faster parser and a new language server](https://www.reddit.com/r/Python/comments/1c7v2ax/ruff_040_just_dropped_with_a_faster_parser_and_a/)
 - [Project: An Interactive Python Dashboard For Data Storytelling UN Food Security](https://www.reddit.com/r/Python/comments/1c7tkg1/project_an_interactive_python_dashboard_for_data/)
 - [Import pdf into python GUI and measure length within PDF](https://www.reddit.com/r/Python/comments/1c7r9at/import_pdf_into_python_gui_and_measure_length/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1c7ir92/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Python Wrapper For Meta AI &lpar;Llama 3&rpar;](https://www.reddit.com/r/Python/comments/1c7ftf6/python_wrapper_for_meta_ai_llama_3/)
 <!-- BLOG-POST-LIST:END -->
