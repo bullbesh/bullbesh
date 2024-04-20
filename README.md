@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Job Title: OpenAI API - Assistant/Chat with UI Deployment Specialists](https://www.reddit.com/r/Python/comments/1c8luyv/job_title_openai_api_assistantchat_with_ui/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1c8bxz5/saturday_daily_thread_resource_request_and/)
 - [Understanding State Machines in Python Through a Practical Example](https://www.reddit.com/r/Python/comments/1c89uzp/understanding_state_machines_in_python_through_a/)
 - [Coding interview goes wrong when you use ChatGPT to code and you are given text editor to code](https://www.reddit.com/r/Python/comments/1c88osy/coding_interview_goes_wrong_when_you_use_chatgpt/)
 - [MPCode is a scripting programming language](https://www.reddit.com/r/Python/comments/1c837h6/mpcode_is_a_scripting_programming_language/)
-- [Ruff 0.4.0 just dropped, with a faster parser and a new language server](https://www.reddit.com/r/Python/comments/1c7v2ax/ruff_040_just_dropped_with_a_faster_parser_and_a/)
 <!-- BLOG-POST-LIST:END -->
