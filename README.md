@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1c8bxz5/saturday_daily_thread_resource_request_and/)
 - [Understanding State Machines in Python Through a Practical Example](https://www.reddit.com/r/Python/comments/1c89uzp/understanding_state_machines_in_python_through_a/)
-- [Code for download video from YouTube](https://www.reddit.com/r/Python/comments/1c88ryr/code_for_download_video_from_youtube/)
 - [Coding interview goes wrong when you use ChatGPT to code and you are given text editor to code](https://www.reddit.com/r/Python/comments/1c88osy/coding_interview_goes_wrong_when_you_use_chatgpt/)
 - [Anaconda install taking a long time. Frozen?](https://www.reddit.com/r/Python/comments/1c88588/anaconda_install_taking_a_long_time_frozen/)
 - [Cython: Termux hanged while compiling big files.](https://www.reddit.com/r/Python/comments/1c84e56/cython_termux_hanged_while_compiling_big_files/)
