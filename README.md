@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Anycrc - Python CRC computation library](https://www.reddit.com/r/Python/comments/1c9h6u6/anycrc_python_crc_computation_library/)
 - [Should I use pydantic for all my classes?](https://www.reddit.com/r/Python/comments/1c9h0mh/should_i_use_pydantic_for_all_my_classes/)
-- [Matlab to Python](https://www.reddit.com/r/Python/comments/1c9cjtl/matlab_to_python/)
 - [Why different ouputs for sort before vs enumerate](https://www.reddit.com/r/Python/comments/1c99e23/why_different_ouputs_for_sort_before_vs_enumerate/)
 - [My latest TILs about Python](https://www.reddit.com/r/Python/comments/1c97glg/my_latest_tils_about_python/)
+- [Alternative data managment tool to replace the need to use Jupyter Notebook for Python](https://www.reddit.com/r/Python/comments/1c97av9/alternative_data_managment_tool_to_replace_the/)
 <!-- BLOG-POST-LIST:END -->
