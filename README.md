@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Tkinter Variable class C/Python garbage collection mismatch](https://www.reddit.com/r/Python/comments/1ca1en9/tkinter_variable_class_cpython_garbage_collection/)
-- [Could someone code a website similar to the Yeezy website? Please post your code along with the time](https://www.reddit.com/r/Python/comments/1ca12rz/could_someone_code_a_website_similar_to_the_yeezy/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1c9wo8r/monday_daily_thread_project_ideas/)
 - [Jobs that utilize Jupyter Notebook?](https://www.reddit.com/r/Python/comments/1c9u0qf/jobs_that_utilize_jupyter_notebook/)
 - [A word search game generator](https://www.reddit.com/r/Python/comments/1c9naa6/a_word_search_game_generator/)
+- [Anycrc - Python CRC computation library](https://www.reddit.com/r/Python/comments/1c9h6u6/anycrc_python_crc_computation_library/)
 <!-- BLOG-POST-LIST:END -->
