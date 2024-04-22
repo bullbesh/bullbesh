@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [STARTING MY LEETCODE JOUNEY](https://www.reddit.com/r/Python/comments/1cai9ub/starting_my_leetcode_jouney/)
 - [I now know again why I stopped using mamba / conda for setting up virtual environments](https://www.reddit.com/r/Python/comments/1caflkr/i_now_know_again_why_i_stopped_using_mamba_conda/)
 - [rusttypes-py - The Power of Rust-types implemented Python](https://www.reddit.com/r/Python/comments/1cacs35/rusttypespy_the_power_of_rusttypes_implemented/)
 - [I made a team of AI manage my YouTube channel and my work with Python based framework CrewAI](https://www.reddit.com/r/Python/comments/1cac7pm/i_made_a_team_of_ai_manage_my_youtube_channel_and/)
 - [Most-watched PyData conference &amp; meetup talks from 2023](https://www.reddit.com/r/Python/comments/1caaitf/mostwatched_pydata_conference_meetup_talks_from/)
-- [Announcing The Python Logging Book &amp; Course Kickstarter](https://www.reddit.com/r/Python/comments/1caaapb/announcing_the_python_logging_book_course/)
 <!-- BLOG-POST-LIST:END -->
