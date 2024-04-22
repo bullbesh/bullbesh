@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Mods here are a joke.](https://www.reddit.com/r/Python/comments/1c9vnv6/the_mods_here_are_a_joke/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1c9wo8r/monday_daily_thread_project_ideas/)
 - [Jobs that utilize Jupyter Notebook?](https://www.reddit.com/r/Python/comments/1c9u0qf/jobs_that_utilize_jupyter_notebook/)
 - [Project Ideas for personal development](https://www.reddit.com/r/Python/comments/1c9nz7l/project_ideas_for_personal_development/)
 - [A word search game generator](https://www.reddit.com/r/Python/comments/1c9naa6/a_word_search_game_generator/)
