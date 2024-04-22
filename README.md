@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [rusttypes-py - The Power of Rust-types implemented Python](https://www.reddit.com/r/Python/comments/1cacs35/rusttypespy_the_power_of_rusttypes_implemented/)
+- [I made a team of AI manage my YouTube channel and my work with Python based framework CrewAI](https://www.reddit.com/r/Python/comments/1cac7pm/i_made_a_team_of_ai_manage_my_youtube_channel_and/)
 - [Most-watched PyData conference &amp; meetup talks from 2023](https://www.reddit.com/r/Python/comments/1caaitf/mostwatched_pydata_conference_meetup_talks_from/)
 - [Is Pythonista &lpar;Python for iOS/iPadOS&rpar; no longer with active development and support?](https://www.reddit.com/r/Python/comments/1ca9x6h/is_pythonista_python_for_iosipados_no_longer_with/)
 - [I made Cria - Run LLMs &lpar;AI&rpar; locally and programmatically with as little friction as possible](https://www.reddit.com/r/Python/comments/1ca966u/i_made_cria_run_llms_ai_locally_and/)
-- [Ray on Golem MVP Launch: the Best Way of Running Python Code on the Golem Network](https://www.reddit.com/r/Python/comments/1ca7do7/ray_on_golem_mvp_launch_the_best_way_of_running/)
-- [Single file, hot reloading python server with raw websockets and inotify](https://www.reddit.com/r/Python/comments/1ca6lyv/single_file_hot_reloading_python_server_with_raw/)
 <!-- BLOG-POST-LIST:END -->
