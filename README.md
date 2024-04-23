@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Remote Machine to Run Python](https://www.reddit.com/r/Python/comments/1cb6vj0/using_remote_machine_to_run_python/)
+- [Runtime type checking performance](https://www.reddit.com/r/Python/comments/1cb689x/runtime_type_checking_performance/)
 - [Practice for over the summer](https://www.reddit.com/r/Python/comments/1cb2u5v/practice_for_over_the_summer/)
 - [Py2wasm: A Python to Wasm compiler 3x faster than pyiodide](https://www.reddit.com/r/Python/comments/1cb0l1i/py2wasm_a_python_to_wasm_compiler_3x_faster_than/)
 - [Python minesweeper bot](https://www.reddit.com/r/Python/comments/1caxzrq/python_minesweeper_bot/)
-- [Does FastAPI make sense for internal services vs Thrift?](https://www.reddit.com/r/Python/comments/1caxm0d/does_fastapi_make_sense_for_internal_services_vs/)
-- [Sentiment analysis app using python](https://www.reddit.com/r/Python/comments/1cavdfu/sentiment_analysis_app_using_python/)
 <!-- BLOG-POST-LIST:END -->
