@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python minesweeper bot](https://www.reddit.com/r/Python/comments/1caxzrq/python_minesweeper_bot/)
+- [Does FastAPI make sense for internal services vs Thrift?](https://www.reddit.com/r/Python/comments/1caxm0d/does_fastapi_make_sense_for_internal_services_vs/)
 - [Sentiment analysis app using python](https://www.reddit.com/r/Python/comments/1cavdfu/sentiment_analysis_app_using_python/)
 - [Pandas Python Introduction](https://www.reddit.com/r/Python/comments/1cau3wk/pandas_python_introduction/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1caq9bh/tuesday_daily_thread_advanced_questions/)
-- [[tutorial] Data imputation on real-time data source](https://www.reddit.com/r/Python/comments/1cakgj6/tutorial_data_imputation_on_realtime_data_source/)
-- [I now know again why I stopped using mamba / conda for setting up virtual environments](https://www.reddit.com/r/Python/comments/1caflkr/i_now_know_again_why_i_stopped_using_mamba_conda/)
 <!-- BLOG-POST-LIST:END -->
