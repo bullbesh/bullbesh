@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Remote Machine to Run Python](https://www.reddit.com/r/Python/comments/1cb6vj0/using_remote_machine_to_run_python/)
+- [Inline templating engine](https://www.reddit.com/r/Python/comments/1cb8kfa/inline_templating_engine/)
+- [A Python Intelligence Config Manager. Superset of hydra+pydantic+lsp](https://www.reddit.com/r/Python/comments/1cb8272/a_python_intelligence_config_manager_superset_of/)
 - [Runtime type checking performance](https://www.reddit.com/r/Python/comments/1cb689x/runtime_type_checking_performance/)
 - [Practice for over the summer](https://www.reddit.com/r/Python/comments/1cb2u5v/practice_for_over_the_summer/)
 - [Py2wasm: A Python to Wasm compiler 3x faster than pyiodide](https://www.reddit.com/r/Python/comments/1cb0l1i/py2wasm_a_python_to_wasm_compiler_3x_faster_than/)
-- [Python minesweeper bot](https://www.reddit.com/r/Python/comments/1caxzrq/python_minesweeper_bot/)
 <!-- BLOG-POST-LIST:END -->
