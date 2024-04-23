@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Pylance bug at Visual Studio Code? reportArgumentType, reportCallIssue, reportOptionalSubscript](https://www.reddit.com/r/Python/comments/1cbd2xc/pylance_bug_at_visual_studio_code/)
+- [Python project](https://www.reddit.com/r/Python/comments/1cbdouh/python_project/)
 - [Exercises and/or projects](https://www.reddit.com/r/Python/comments/1cbbh4q/exercises_andor_projects/)
 - [Inline templating engine](https://www.reddit.com/r/Python/comments/1cb8kfa/inline_templating_engine/)
 - [Runtime type checking performance](https://www.reddit.com/r/Python/comments/1cb689x/runtime_type_checking_performance/)
