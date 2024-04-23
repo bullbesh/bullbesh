@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python project](https://www.reddit.com/r/Python/comments/1cbdouh/python_project/)
 - [Exercises and/or projects](https://www.reddit.com/r/Python/comments/1cbbh4q/exercises_andor_projects/)
 - [Inline templating engine](https://www.reddit.com/r/Python/comments/1cb8kfa/inline_templating_engine/)
 - [Runtime type checking performance](https://www.reddit.com/r/Python/comments/1cb689x/runtime_type_checking_performance/)
 - [Py2wasm: A Python to Wasm compiler 3x faster than pyiodide](https://www.reddit.com/r/Python/comments/1cb0l1i/py2wasm_a_python_to_wasm_compiler_3x_faster_than/)
+- [Pandas Python Introduction](https://www.reddit.com/r/Python/comments/1cau3wk/pandas_python_introduction/)
 <!-- BLOG-POST-LIST:END -->
