@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [find_where - my first Python package published to PyPi](https://www.reddit.com/r/Python/comments/1cbr1fz/find_where_my_first_python_package_published_to/)
 - [Zillow scraper made pure in Python](https://www.reddit.com/r/Python/comments/1cblimn/zillow_scraper_made_pure_in_python/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1cbk37r/wednesday_daily_thread_beginner_questions/)
 - [Inline templating engine](https://www.reddit.com/r/Python/comments/1cb8kfa/inline_templating_engine/)
 - [Runtime type checking performance](https://www.reddit.com/r/Python/comments/1cb689x/runtime_type_checking_performance/)
-- [Py2wasm: A Python to Wasm compiler 3x faster than pyiodide](https://www.reddit.com/r/Python/comments/1cb0l1i/py2wasm_a_python_to_wasm_compiler_3x_faster_than/)
 <!-- BLOG-POST-LIST:END -->
