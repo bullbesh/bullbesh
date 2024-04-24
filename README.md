@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anyone know why I’m getting this error?](https://www.reddit.com/r/Python/comments/1cbsejs/anyone_know_why_im_getting_this_error/)
 - [find_where - my first Python package published to PyPi](https://www.reddit.com/r/Python/comments/1cbr1fz/find_where_my_first_python_package_published_to/)
 - [Zillow scraper made pure in Python](https://www.reddit.com/r/Python/comments/1cblimn/zillow_scraper_made_pure_in_python/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1cbk37r/wednesday_daily_thread_beginner_questions/)
 - [Inline templating engine](https://www.reddit.com/r/Python/comments/1cb8kfa/inline_templating_engine/)
-- [Runtime type checking performance](https://www.reddit.com/r/Python/comments/1cb689x/runtime_type_checking_performance/)
 <!-- BLOG-POST-LIST:END -->
