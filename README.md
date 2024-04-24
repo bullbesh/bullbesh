@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PSA: New IDE just dropped](https://www.reddit.com/r/Python/comments/1cc118a/psa_new_ide_just_dropped/)
 - [Best way to grade Jupyter-Notebooks?](https://www.reddit.com/r/Python/comments/1cbxubs/best_way_to_grade_jupyternotebooks/)
 - [Which Newsletters you use ? For staying update in dev aspects ?](https://www.reddit.com/r/Python/comments/1cbuvbg/which_newsletters_you_use_for_staying_update_in/)
 - [Created Netlify DNS Manager: CLI Tool for uploading zone Files to Netlify or exporting Netlify DNS](https://www.reddit.com/r/Python/comments/1cbuape/created_netlify_dns_manager_cli_tool_for/)
 - [Anyone know why I’m getting this error?](https://www.reddit.com/r/Python/comments/1cbsejs/anyone_know_why_im_getting_this_error/)
-- [find_where - my first Python package published to PyPi](https://www.reddit.com/r/Python/comments/1cbr1fz/find_where_my_first_python_package_published_to/)
 <!-- BLOG-POST-LIST:END -->
