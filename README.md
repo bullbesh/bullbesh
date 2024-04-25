@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [streamlit error](https://www.reddit.com/r/Python/comments/1ccoiev/streamlit_error/)
+- [Python Test 219: Building Django Apps &amp; SaaS Pegasus - Cory Zue](https://www.reddit.com/r/Python/comments/1cctlon/python_test_219_building_django_apps_saas_pegasus/)
 - [🔭 OpenTelemetry Architecture: Python SDK Overview](https://www.reddit.com/r/Python/comments/1ccn8vf/opentelemetry_architecture_python_sdk_overview/)
 - [UXsim 1.2.0 released with support for &lpar;self-driving&rpar; taxis and shared mobility](https://www.reddit.com/r/Python/comments/1ccmzr8/uxsim_120_released_with_support_for_selfdriving/)
 - [Python Interview Cheat Sheet Website!](https://www.reddit.com/r/Python/comments/1cckeip/python_interview_cheat_sheet_website/)
