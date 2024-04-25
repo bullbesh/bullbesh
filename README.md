@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Request for Creative suggestion on : alternate syntaxes for python3 decorators.](https://www.reddit.com/r/Python/comments/1ccoziu/request_for_creative_suggestion_on_alternate/)
 - [streamlit error](https://www.reddit.com/r/Python/comments/1ccoiev/streamlit_error/)
 - [🔭 OpenTelemetry Architecture: Python SDK Overview](https://www.reddit.com/r/Python/comments/1ccn8vf/opentelemetry_architecture_python_sdk_overview/)
 - [UXsim 1.2.0 released with support for &lpar;self-driving&rpar; taxis and shared mobility](https://www.reddit.com/r/Python/comments/1ccmzr8/uxsim_120_released_with_support_for_selfdriving/)
 - [Python Interview Cheat Sheet Website!](https://www.reddit.com/r/Python/comments/1cckeip/python_interview_cheat_sheet_website/)
+- [How to use Google&#39;s Free Python Programming Environment, Google Colab](https://www.reddit.com/r/Python/comments/1ccjn7f/how_to_use_googles_free_python_programming/)
 <!-- BLOG-POST-LIST:END -->
