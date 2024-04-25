@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Interview Cheat Sheet Website!](https://www.reddit.com/r/Python/comments/1cckeip/python_interview_cheat_sheet_website/)
 - [How to use Google&#39;s Free Python Programming Environment, Google Colab](https://www.reddit.com/r/Python/comments/1ccjn7f/how_to_use_googles_free_python_programming/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ccdo2r/thursday_daily_thread_python_careers_courses_and/)
 - [What are your favourite pre-commit hooks and why?](https://www.reddit.com/r/Python/comments/1cc9wtr/what_are_your_favourite_precommit_hooks_and_why/)
 - [pwdgen v2 -a simple password generator](https://www.reddit.com/r/Python/comments/1cc300n/pwdgen_v2_a_simple_password_generator/)
-- [Best way to grade Jupyter-Notebooks?](https://www.reddit.com/r/Python/comments/1cbxubs/best_way_to_grade_jupyternotebooks/)
 <!-- BLOG-POST-LIST:END -->
