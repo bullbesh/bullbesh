@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ccdo2r/thursday_daily_thread_python_careers_courses_and/)
 - [What are your favourite pre-commit hooks and why?](https://www.reddit.com/r/Python/comments/1cc9wtr/what_are_your_favourite_precommit_hooks_and_why/)
 - [pwdgen v2 -a simple password generator](https://www.reddit.com/r/Python/comments/1cc300n/pwdgen_v2_a_simple_password_generator/)
 - [Best way to grade Jupyter-Notebooks?](https://www.reddit.com/r/Python/comments/1cbxubs/best_way_to_grade_jupyternotebooks/)
 - [Created Netlify DNS Manager: CLI Tool for uploading zone Files to Netlify or exporting Netlify DNS](https://www.reddit.com/r/Python/comments/1cbuape/created_netlify_dns_manager_cli_tool_for/)
-- [find_where - my first Python package published to PyPi](https://www.reddit.com/r/Python/comments/1cbr1fz/find_where_my_first_python_package_published_to/)
 <!-- BLOG-POST-LIST:END -->
