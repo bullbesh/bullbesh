@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a Python app that turns your Figma design into code](https://www.reddit.com/r/Python/comments/1cdo8uj/i_made_a_python_app_that_turns_your_figma_design/)
 - [Python Quality Standards](https://www.reddit.com/r/Python/comments/1cdmls1/python_quality_standards/)
 - [How To Build a Social Media Sentiment Analysis Pipeline With FastAPI And Generative AI](https://www.reddit.com/r/Python/comments/1cdgodr/how_to_build_a_social_media_sentiment_analysis/)
 - [What&#39;s the best thing you&#39;ve automated?](https://www.reddit.com/r/Python/comments/1cdctvv/whats_the_best_thing_youve_automated/)
 - [Python for backend? Please enlighten me](https://www.reddit.com/r/Python/comments/1cdc65u/python_for_backend_please_enlighten_me/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1cd6xa3/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
