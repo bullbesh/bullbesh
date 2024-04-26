@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I have applied for a company for the fresher python developer job and….](https://www.reddit.com/r/Python/comments/1cdgsct/i_have_applied_for_a_company_for_the_fresher/)
 - [How To Build a Social Media Sentiment Analysis Pipeline With FastAPI And Generative AI](https://www.reddit.com/r/Python/comments/1cdgodr/how_to_build_a_social_media_sentiment_analysis/)
 - [What&#39;s the best thing you&#39;ve automated?](https://www.reddit.com/r/Python/comments/1cdctvv/whats_the_best_thing_youve_automated/)
 - [Python for backend? Please enlighten me](https://www.reddit.com/r/Python/comments/1cdc65u/python_for_backend_please_enlighten_me/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1cd6xa3/friday_daily_thread_rpython_meta_and_freetalk/)
+- [How to create a Discord Bot to launch a Minecraft server automatically](https://www.reddit.com/r/Python/comments/1ccxvg0/how_to_create_a_discord_bot_to_launch_a_minecraft/)
 <!-- BLOG-POST-LIST:END -->
