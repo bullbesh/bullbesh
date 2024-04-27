@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [milkcow - first python project](https://www.reddit.com/r/Python/comments/1cebrta/milkcow_first_python_project/)
+- [RDD lookup operation performing weirdly](https://www.reddit.com/r/Python/comments/1cecl7d/rdd_lookup_operation_performing_weirdly/)
+- [While creating a webscrapping project that scrapes job listing of simply hired.](https://www.reddit.com/r/Python/comments/1cecfsu/while_creating_a_webscrapping_project_that/)
+- [milkcow - First package/library](https://www.reddit.com/r/Python/comments/1cecfnn/milkcow_first_packagelibrary/)
+- [Anyone know the answer to this?](https://www.reddit.com/r/Python/comments/1cec43q/anyone_know_the_answer_to_this/)
 - [ASCII plot backend package for matplotlib](https://www.reddit.com/r/Python/comments/1ce9a2t/ascii_plot_backend_package_for_matplotlib/)
-- [Ideas required for a dataset I&#39;ve gathered.](https://www.reddit.com/r/Python/comments/1ce7qii/ideas_required_for_a_dataset_ive_gathered/)
-- [American Airlines scraper made in Python with only http requests](https://www.reddit.com/r/Python/comments/1ce1qi4/american_airlines_scraper_made_in_python_with/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ce0l10/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
