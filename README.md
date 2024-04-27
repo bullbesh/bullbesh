@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cross platform python3 shebang](https://www.reddit.com/r/Python/comments/1celpzi/cross_platform_python3_shebang/)
 - [In what way do you try out small things when developing?](https://www.reddit.com/r/Python/comments/1cegl14/in_what_way_do_you_try_out_small_things_when/)
 - [I made an easy and secure data lake for Pandas](https://www.reddit.com/r/Python/comments/1cedln6/i_made_an_easy_and_secure_data_lake_for_pandas/)
 - [RDD lookup operation performing weirdly](https://www.reddit.com/r/Python/comments/1cecl7d/rdd_lookup_operation_performing_weirdly/)
 - [milkcow - First package/library](https://www.reddit.com/r/Python/comments/1cecfnn/milkcow_first_packagelibrary/)
-- [ASCII plot backend package for matplotlib](https://www.reddit.com/r/Python/comments/1ce9a2t/ascii_plot_backend_package_for_matplotlib/)
 <!-- BLOG-POST-LIST:END -->
