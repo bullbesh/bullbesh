@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Script to crawl data of Facebook Ads](https://www.reddit.com/r/Python/comments/1cf3e9n/python_script_to_crawl_data_of_facebook_ads/)
 - [I’m making a lightweight python framework for AI App publishing](https://www.reddit.com/r/Python/comments/1cf2f77/im_making_a_lightweight_python_framework_for_ai/)
 - [TypeIs does what I thought TypeGuard would do in Python](https://www.reddit.com/r/Python/comments/1cewujz/typeis_does_what_i_thought_typeguard_would_do_in/)
 - [Share Proejct: NLLB-200 Distill 350M en-ko](https://www.reddit.com/r/Python/comments/1ceus7p/share_proejct_nllb200_distill_350m_enko/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1cestbe/sunday_daily_thread_whats_everyone_working_on/)
-- [Are PEP 744 goals very modest?](https://www.reddit.com/r/Python/comments/1ceow5j/are_pep_744_goals_very_modest/)
 <!-- BLOG-POST-LIST:END -->
