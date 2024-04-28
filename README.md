@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Python finished?](https://www.reddit.com/r/Python/comments/1cevh2k/is_python_finished/)
+- [Share Proejct: NLLB-200 Distill 350M en-ko](https://www.reddit.com/r/Python/comments/1ceus7p/share_proejct_nllb200_distill_350m_enko/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1cestbe/sunday_daily_thread_whats_everyone_working_on/)
 - [Are PEP 744 goals very modest?](https://www.reddit.com/r/Python/comments/1ceow5j/are_pep_744_goals_very_modest/)
 - [ArchiveFile: Unified interface for tar, zip, sevenzip, and rar files](https://www.reddit.com/r/Python/comments/1censu3/archivefile_unified_interface_for_tar_zip/)
-- [Pure Python Physics Engine](https://www.reddit.com/r/Python/comments/1cemmxv/pure_python_physics_engine/)
-- [Cross platform python3 shebang](https://www.reddit.com/r/Python/comments/1celpzi/cross_platform_python3_shebang/)
 <!-- BLOG-POST-LIST:END -->
