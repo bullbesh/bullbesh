@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [TypeIs does what I thought TypeGuard would do in Python](https://www.reddit.com/r/Python/comments/1cewujz/typeis_does_what_i_thought_typeguard_would_do_in/)
 - [Framework/Tool to build a simple app connected to snowflake](https://www.reddit.com/r/Python/comments/1cew4zl/frameworktool_to_build_a_simple_app_connected_to/)
-- [Is Python finished?](https://www.reddit.com/r/Python/comments/1cevh2k/is_python_finished/)
 - [Share Proejct: NLLB-200 Distill 350M en-ko](https://www.reddit.com/r/Python/comments/1ceus7p/share_proejct_nllb200_distill_350m_enko/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1cestbe/sunday_daily_thread_whats_everyone_working_on/)
+- [Are PEP 744 goals very modest?](https://www.reddit.com/r/Python/comments/1ceow5j/are_pep_744_goals_very_modest/)
 <!-- BLOG-POST-LIST:END -->
