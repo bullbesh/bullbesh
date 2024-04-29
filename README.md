@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Medical imaging Python jobs](https://www.reddit.com/r/Python/comments/1cfx0qe/medical_imaging_python_jobs/)
-- [Any project to make a Windows PC&#39;s touchpad control like a joystick?](https://www.reddit.com/r/Python/comments/1cfwexc/any_project_to_make_a_windows_pcs_touchpad/)
 - [Using vobject with vCard version 4.0](https://www.reddit.com/r/Python/comments/1cfv7po/using_vobject_with_vcard_version_40/)
 - [tab-pal: a TUI for adding and editing custom colour palettes in Tableau](https://www.reddit.com/r/Python/comments/1cftm37/tabpal_a_tui_for_adding_and_editing_custom_colour/)
 - [I shared a Python Data Science Bootcamp &lpar;7+ Hours, 7 Courses and 3 Projects&rpar; on YouTube](https://www.reddit.com/r/Python/comments/1cfqi3g/i_shared_a_python_data_science_bootcamp_7_hours_7/)
+- [I made a Python CLI Tools for Competitive Programming](https://www.reddit.com/r/Python/comments/1cfmoye/i_made_a_python_cli_tools_for_competitive/)
 <!-- BLOG-POST-LIST:END -->
