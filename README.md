@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [NFL API with Live Stats - recommendation](https://www.reddit.com/r/Python/comments/1cg6v2k/nfl_api_with_live_stats_recommendation/)
+- [Strip several items from a single string into several different ones](https://www.reddit.com/r/Python/comments/1cg6ob7/strip_several_items_from_a_single_string_into/)
 - [Google laysoff Python maintainer team](https://www.reddit.com/r/Python/comments/1cg4st4/google_laysoff_python_maintainer_team/)
 - [Feed files / webpages / youtubes / github into GPT-4 w/ Vision](https://www.reddit.com/r/Python/comments/1cg0j5a/feed_files_webpages_youtubes_github_into_gpt4_w/)
 - [Medical imaging Python jobs](https://www.reddit.com/r/Python/comments/1cfx0qe/medical_imaging_python_jobs/)
-- [tab-pal: a TUI for adding and editing custom colour palettes in Tableau](https://www.reddit.com/r/Python/comments/1cftm37/tabpal_a_tui_for_adding_and_editing_custom_colour/)
-- [I made a Python CLI Tools for Competitive Programming](https://www.reddit.com/r/Python/comments/1cfmoye/i_made_a_python_cli_tools_for_competitive/)
 <!-- BLOG-POST-LIST:END -->
