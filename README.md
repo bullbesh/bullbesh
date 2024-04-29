@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a Python CLI Tools for Competitive Programming](https://www.reddit.com/r/Python/comments/1cfmoye/i_made_a_python_cli_tools_for_competitive/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1cfl2sg/monday_daily_thread_project_ideas/)
 - [Meteor Science using Python - Creating a &quot;weird&quot; coordinate system](https://www.reddit.com/r/Python/comments/1cfbezg/meteor_science_using_python_creating_a_weird/)
 - [SecretScraper: highly configurable web crawler/scraper for extracting sensitive data from websites](https://www.reddit.com/r/Python/comments/1cfa97o/secretscraper_highly_configurable_web/)
 - [I made a Tkinter &quot;DevTools&quot; to inspect and modify widgets in your running app in real-time](https://www.reddit.com/r/Python/comments/1cf8fsp/i_made_a_tkinter_devtools_to_inspect_and_modify/)
-- [TypeIs does what I thought TypeGuard would do in Python](https://www.reddit.com/r/Python/comments/1cewujz/typeis_does_what_i_thought_typeguard_would_do_in/)
 <!-- BLOG-POST-LIST:END -->
