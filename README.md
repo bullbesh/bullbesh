@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [python irl in london england](https://www.reddit.com/r/Python/comments/1cgsxff/python_irl_in_london_england/)
+- [tach - a Python tool to enforce modular design](https://www.reddit.com/r/Python/comments/1cgsopt/tach_a_python_tool_to_enforce_modular_design/)
 - [Analyzing Python Compression Libraries: zlib, LZ4, Brotli, and Zstandard](https://www.reddit.com/r/Python/comments/1cgk4xi/analyzing_python_compression_libraries_zlib_lz4/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1cgem9q/tuesday_daily_thread_advanced_questions/)
 - [A Free GPT-Powered Financial Analysis Tool](https://www.reddit.com/r/Python/comments/1cgdkcs/a_free_gptpowered_financial_analysis_tool/)
-- [Google laysoff Python maintainer team](https://www.reddit.com/r/Python/comments/1cg4st4/google_laysoff_python_maintainer_team/)
-- [I wrote a book on Python Regular Expressions - and made it free!](https://www.reddit.com/r/Python/comments/1cg054p/i_wrote_a_book_on_python_regular_expressions_and/)
 <!-- BLOG-POST-LIST:END -->
