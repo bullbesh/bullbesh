@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [New python library to deploy LLM chat bots fast using cycls](https://www.reddit.com/r/Python/comments/1ch16tc/new_python_library_to_deploy_llm_chat_bots_fast/)
 - [pyrseus - concurrent.futures extensions for easier troubleshooting](https://www.reddit.com/r/Python/comments/1cgx1qp/pyrseus_concurrentfutures_extensions_for_easier/)
-- [How Malicious Python Code Gains Execution](https://www.reddit.com/r/Python/comments/1cgw1y2/how_malicious_python_code_gains_execution/)
 - [python irl in london england](https://www.reddit.com/r/Python/comments/1cgsxff/python_irl_in_london_england/)
 - [tach - a Python tool to enforce modular design](https://www.reddit.com/r/Python/comments/1cgsopt/tach_a_python_tool_to_enforce_modular_design/)
+- [Analyzing Python Compression Libraries: zlib, LZ4, Brotli, and Zstandard](https://www.reddit.com/r/Python/comments/1cgk4xi/analyzing_python_compression_libraries_zlib_lz4/)
 <!-- BLOG-POST-LIST:END -->
