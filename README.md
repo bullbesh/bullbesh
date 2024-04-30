@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Legality of Scraping Public Data](https://www.reddit.com/r/Python/comments/1ch64d5/legality_of_scraping_public_data/)
 - [pytest-ndb - debugging pytest tests in a notebook](https://www.reddit.com/r/Python/comments/1ch5e3g/pytestndb_debugging_pytest_tests_in_a_notebook/)
-- [New python library to deploy LLM chat bots fast using cycls](https://www.reddit.com/r/Python/comments/1ch16tc/new_python_library_to_deploy_llm_chat_bots_fast/)
 - [pyrseus - concurrent.futures extensions for easier troubleshooting](https://www.reddit.com/r/Python/comments/1cgx1qp/pyrseus_concurrentfutures_extensions_for_easier/)
-- [python irl in london england](https://www.reddit.com/r/Python/comments/1cgsxff/python_irl_in_london_england/)
-- [tach - a Python tool to enforce modular design](https://www.reddit.com/r/Python/comments/1cgsopt/tach_a_python_tool_to_enforce_modular_design/)
+- [How Malicious Python Code Gains Execution](https://www.reddit.com/r/Python/comments/1cgw1y2/how_malicious_python_code_gains_execution/)
+- [Just an Appreciation Post for the Python Standard Library](https://www.reddit.com/r/Python/comments/1cguoiy/just_an_appreciation_post_for_the_python_standard/)
 <!-- BLOG-POST-LIST:END -->
