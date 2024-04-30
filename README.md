@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1cgem9q/tuesday_daily_thread_advanced_questions/)
 - [A Free GPT-Powered Financial Analysis Tool](https://www.reddit.com/r/Python/comments/1cgdkcs/a_free_gptpowered_financial_analysis_tool/)
 - [SOS calendar for private network](https://www.reddit.com/r/Python/comments/1cg9tst/sos_calendar_for_private_network/)
-- [Strip several items from a single string into several different ones](https://www.reddit.com/r/Python/comments/1cg6ob7/strip_several_items_from_a_single_string_into/)
 - [Google laysoff Python maintainer team](https://www.reddit.com/r/Python/comments/1cg4st4/google_laysoff_python_maintainer_team/)
 - [Feed files / webpages / youtubes / github into GPT-4 w/ Vision](https://www.reddit.com/r/Python/comments/1cg0j5a/feed_files_webpages_youtubes_github_into_gpt4_w/)
 <!-- BLOG-POST-LIST:END -->
