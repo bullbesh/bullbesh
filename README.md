@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A new Python package for handling raw data](https://www.reddit.com/r/Python/comments/1chs38a/a_new_python_package_for_handling_raw_data/)
+- [Best python games for beginners](https://www.reddit.com/r/Python/comments/1chrxla/best_python_games_for_beginners/)
+- [MeerkatIO - Personal notification tool for developers](https://www.reddit.com/r/Python/comments/1chrv5h/meerkatio_personal_notification_tool_for/)
+- [Lean how to create architecture diagrams in Jupyter Notebook from Python code in few minutes](https://www.reddit.com/r/Python/comments/1chrsu8/lean_how_to_create_architecture_diagrams_in/)
 - [Screen Scraping from a Video Game](https://www.reddit.com/r/Python/comments/1chqf5g/screen_scraping_from_a_video_game/)
-- [Automated Polygon Splitting Using Voronoi Diagrams and Clustering](https://www.reddit.com/r/Python/comments/1chl9if/automated_polygon_splitting_using_voronoi/)
-- [ConfigClass - simple dataclass inspired configuration](https://www.reddit.com/r/Python/comments/1chhm8x/configclass_simple_dataclass_inspired/)
-- [Best book for GUI development in Python](https://www.reddit.com/r/Python/comments/1chdeym/best_book_for_gui_development_in_python/)
-- [ext-message: Send files over Discord direct messages](https://www.reddit.com/r/Python/comments/1cha1qy/extmessage_send_files_over_discord_direct_messages/)
 <!-- BLOG-POST-LIST:END -->
