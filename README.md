@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I just don&#39;t understanding the bytes and bytearray concept!!](https://www.reddit.com/r/Python/comments/1chidhe/i_just_dont_understanding_the_bytes_and_bytearray/)
+- [Automated Polygon Splitting Using Voronoi Diagrams and Clustering](https://www.reddit.com/r/Python/comments/1chl9if/automated_polygon_splitting_using_voronoi/)
 - [ConfigClass - simple dataclass inspired configuration](https://www.reddit.com/r/Python/comments/1chhm8x/configclass_simple_dataclass_inspired/)
 - [Best book for GUI development in Python](https://www.reddit.com/r/Python/comments/1chdeym/best_book_for_gui_development_in_python/)
 - [ext-message: Send files over Discord direct messages](https://www.reddit.com/r/Python/comments/1cha1qy/extmessage_send_files_over_discord_direct_messages/)
