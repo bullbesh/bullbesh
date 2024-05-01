@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to auto-instrument Python servers w/ OpenTelemetry for performance &amp; error monitoring](https://www.reddit.com/r/Python/comments/1chtmle/how_to_autoinstrument_python_servers_w/)
 - [A new Python package for handling raw data](https://www.reddit.com/r/Python/comments/1chs38a/a_new_python_package_for_handling_raw_data/)
-- [Best python games for beginners](https://www.reddit.com/r/Python/comments/1chrxla/best_python_games_for_beginners/)
-- [MeerkatIO - Personal notification tool for developers](https://www.reddit.com/r/Python/comments/1chrv5h/meerkatio_personal_notification_tool_for/)
 - [Lean how to create architecture diagrams in Jupyter Notebook from Python code in few minutes](https://www.reddit.com/r/Python/comments/1chrsu8/lean_how_to_create_architecture_diagrams_in/)
+- [Screen Scraping from a Video Game](https://www.reddit.com/r/Python/comments/1chqf5g/screen_scraping_from_a_video_game/)
+- [Automated Polygon Splitting Using Voronoi Diagrams and Clustering](https://www.reddit.com/r/Python/comments/1chl9if/automated_polygon_splitting_using_voronoi/)
 <!-- BLOG-POST-LIST:END -->
