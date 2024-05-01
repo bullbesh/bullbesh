@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Legality of Scraping Public Data](https://www.reddit.com/r/Python/comments/1ch64d5/legality_of_scraping_public_data/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1ch7whw/wednesday_daily_thread_beginner_questions/)
+- [Pillow working weird on Mac m1](https://www.reddit.com/r/Python/comments/1ch7rq0/pillow_working_weird_on_mac_m1/)
 - [pytest-ndb - debugging pytest tests in a notebook](https://www.reddit.com/r/Python/comments/1ch5e3g/pytestndb_debugging_pytest_tests_in_a_notebook/)
 - [pyrseus - concurrent.futures extensions for easier troubleshooting](https://www.reddit.com/r/Python/comments/1cgx1qp/pyrseus_concurrentfutures_extensions_for_easier/)
 - [How Malicious Python Code Gains Execution](https://www.reddit.com/r/Python/comments/1cgw1y2/how_malicious_python_code_gains_execution/)
-- [Just an Appreciation Post for the Python Standard Library](https://www.reddit.com/r/Python/comments/1cguoiy/just_an_appreciation_post_for_the_python_standard/)
 <!-- BLOG-POST-LIST:END -->
