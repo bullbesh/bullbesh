@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just don&#39;t understanding the bytes and bytearray concept!!](https://www.reddit.com/r/Python/comments/1chidhe/i_just_dont_understanding_the_bytes_and_bytearray/)
 - [ConfigClass - simple dataclass inspired configuration](https://www.reddit.com/r/Python/comments/1chhm8x/configclass_simple_dataclass_inspired/)
 - [Best book for GUI development in Python](https://www.reddit.com/r/Python/comments/1chdeym/best_book_for_gui_development_in_python/)
 - [ext-message: Send files over Discord direct messages](https://www.reddit.com/r/Python/comments/1cha1qy/extmessage_send_files_over_discord_direct_messages/)
 - [Running LLM locally with GGUF files](https://www.reddit.com/r/Python/comments/1ch9p84/running_llm_locally_with_gguf_files/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1ch7whw/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
