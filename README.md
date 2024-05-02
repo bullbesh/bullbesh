@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating in Python](https://www.reddit.com/r/Python/comments/1cih3li/automating_in_python/)
 - [Hatch v1.10.0 - UV support, new test command and built-in script runner](https://www.reddit.com/r/Python/comments/1cigfix/hatch_v1100_uv_support_new_test_command_and/)
 - [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1cigewi/the_python_on_microcontrollers_and_raspberry_pi/)
 - [What does your python development setup look like?](https://www.reddit.com/r/Python/comments/1cib6to/what_does_your_python_development_setup_look_like/)
 - [Windows service for python script in 2024](https://www.reddit.com/r/Python/comments/1ciar59/windows_service_for_python_script_in_2024/)
-- [Suggestions for a self-hosted authentication as a service?](https://www.reddit.com/r/Python/comments/1ci9ijz/suggestions_for_a_selfhosted_authentication_as_a/)
 <!-- BLOG-POST-LIST:END -->
