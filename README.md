@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Suggestions for a self-hosted authentication as a service?](https://www.reddit.com/r/Python/comments/1ci9ijz/suggestions_for_a_selfhosted_authentication_as_a/)
 - [One pytest marker to track the performance of your tests](https://www.reddit.com/r/Python/comments/1ci7m95/one_pytest_marker_to_track_the_performance_of/)
 - [PkgInspect - Inspect Local/External Python Packages](https://www.reddit.com/r/Python/comments/1ci4zd5/pkginspect_inspect_localexternal_python_packages/)
 - [How to create architecture diagrams from code in Jupyter Notebook](https://www.reddit.com/r/Python/comments/1ci4l9t/how_to_create_architecture_diagrams_from_code_in/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ci1f9v/thursday_daily_thread_python_careers_courses_and/)
-- [How to auto-instrument Python servers w/ OpenTelemetry for performance &amp; error monitoring](https://www.reddit.com/r/Python/comments/1chtmle/how_to_autoinstrument_python_servers_w/)
 <!-- BLOG-POST-LIST:END -->
