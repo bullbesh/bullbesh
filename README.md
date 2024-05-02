@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial on Building a Server-to-Server Zoom App with Python](https://www.reddit.com/r/Python/comments/1cinnql/tutorial_on_building_a_servertoserver_zoom_app/)
+- [Starter Code for a LLM-based AI Assistant](https://www.reddit.com/r/Python/comments/1cinjg9/starter_code_for_a_llmbased_ai_assistant/)
 - [k8sAI - my open-source GPT CLI tool for Kubernetes!](https://www.reddit.com/r/Python/comments/1cij4mp/k8sai_my_opensource_gpt_cli_tool_for_kubernetes/)
 - [Multipart File Uploads to S3 with Python](https://www.reddit.com/r/Python/comments/1ciiim4/multipart_file_uploads_to_s3_with_python/)
 - [Hatch v1.10.0 - UV support, new test command and built-in script runner](https://www.reddit.com/r/Python/comments/1cigfix/hatch_v1100_uv_support_new_test_command_and/)
-- [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1cigewi/the_python_on_microcontrollers_and_raspberry_pi/)
-- [Suggestions for a self-hosted authentication as a service?](https://www.reddit.com/r/Python/comments/1ci9ijz/suggestions_for_a_selfhosted_authentication_as_a/)
 <!-- BLOG-POST-LIST:END -->
