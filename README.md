@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ci1f9v/thursday_daily_thread_python_careers_courses_and/)
 - [How to auto-instrument Python servers w/ OpenTelemetry for performance &amp; error monitoring](https://www.reddit.com/r/Python/comments/1chtmle/how_to_autoinstrument_python_servers_w/)
-- [A new Python package for handling raw data](https://www.reddit.com/r/Python/comments/1chs38a/a_new_python_package_for_handling_raw_data/)
-- [Lean how to create architecture diagrams in Jupyter Notebook from Python code in few minutes](https://www.reddit.com/r/Python/comments/1chrsu8/lean_how_to_create_architecture_diagrams_in/)
 - [Screen Scraping from a Video Game](https://www.reddit.com/r/Python/comments/1chqf5g/screen_scraping_from_a_video_game/)
-- [Automated Polygon Splitting Using Voronoi Diagrams and Clustering](https://www.reddit.com/r/Python/comments/1chl9if/automated_polygon_splitting_using_voronoi/)
+- [ConfigClass - simple dataclass inspired configuration](https://www.reddit.com/r/Python/comments/1chhm8x/configclass_simple_dataclass_inspired/)
+- [Best book for GUI development in Python](https://www.reddit.com/r/Python/comments/1chdeym/best_book_for_gui_development_in_python/)
 <!-- BLOG-POST-LIST:END -->
