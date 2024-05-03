@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Want to know how to leverage the capabilities of kdb+ using Python?](https://www.reddit.com/r/Python/comments/1cj3xke/want_to_know_how_to_leverage_the_capabilities_of/)
 - [typedattr: Autocompletion and typechecking for CLI script arguments, using standard argparse syntax](https://www.reddit.com/r/Python/comments/1cj2ztk/typedattr_autocompletion_and_typechecking_for_cli/)
 - [fetching a class variable conditionally](https://www.reddit.com/r/Python/comments/1cj2ypp/fetching_a_class_variable_conditionally/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ciuske/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Dash vs Reflex vs Others](https://www.reddit.com/r/Python/comments/1citedj/dash_vs_reflex_vs_others/)
-- [I made a python package that can parse Excel Formula Strings into dictionary structures!](https://www.reddit.com/r/Python/comments/1cipq2f/i_made_a_python_package_that_can_parse_excel/)
 <!-- BLOG-POST-LIST:END -->
