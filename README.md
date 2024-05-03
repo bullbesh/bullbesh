@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python onto a website.](https://www.reddit.com/r/Python/comments/1cituy4/python_onto_a_website/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ciuske/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Dash vs Reflex vs Others](https://www.reddit.com/r/Python/comments/1citedj/dash_vs_reflex_vs_others/)
 - [I made a python package that can parse Excel Formula Strings into dictionary structures!](https://www.reddit.com/r/Python/comments/1cipq2f/i_made_a_python_package_that_can_parse_excel/)
 - [Tutorial on Building a Server-to-Server Zoom App with Python](https://www.reddit.com/r/Python/comments/1cinnql/tutorial_on_building_a_servertoserver_zoom_app/)
