@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Call by value vs call by reference](https://www.reddit.com/r/Python/comments/1ck6xsv/call_by_value_vs_call_by_reference/)
 - [Reboot Your Router with a Python Script](https://www.reddit.com/r/Python/comments/1ck452a/reboot_your_router_with_a_python_script/)
 - [image2grid: Cli tool for generating grid-like images/gifs in your Github Profile page](https://www.reddit.com/r/Python/comments/1cjz9d8/image2grid_cli_tool_for_generating_gridlike/)
 - [Suggestions for python libraries to contribute to](https://www.reddit.com/r/Python/comments/1cjt02h/suggestions_for_python_libraries_to_contribute_to/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1cjmysm/saturday_daily_thread_resource_request_and/)
+- [New book! The Quick Python Book, Fourth Edition by Naomi Ceder](https://www.reddit.com/r/Python/comments/1cj8zp2/new_book_the_quick_python_book_fourth_edition_by/)
 <!-- BLOG-POST-LIST:END -->
