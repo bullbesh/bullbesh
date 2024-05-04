@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need ideas for Final Year Project!](https://www.reddit.com/r/Python/comments/1cjy00j/need_ideas_for_final_year_project/)
 - [I just saved myself $7!](https://www.reddit.com/r/Python/comments/1cjxopd/i_just_saved_myself_7/)
 - [Suggestions for python libraries to contribute to](https://www.reddit.com/r/Python/comments/1cjt02h/suggestions_for_python_libraries_to_contribute_to/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1cjmysm/saturday_daily_thread_resource_request_and/)
 - [New book! The Quick Python Book, Fourth Edition by Naomi Ceder](https://www.reddit.com/r/Python/comments/1cj8zp2/new_book_the_quick_python_book_fourth_edition_by/)
-- [Project: Simple Interactive Python Streamlit Maps With NASA GIS Data](https://www.reddit.com/r/Python/comments/1cj57lw/project_simple_interactive_python_streamlit_maps/)
 <!-- BLOG-POST-LIST:END -->
