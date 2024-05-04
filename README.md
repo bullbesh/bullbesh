@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Suggestions for python libraries to contribute to](https://www.reddit.com/r/Python/comments/1cjt02h/suggestions_for_python_libraries_to_contribute_to/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1cjmysm/saturday_daily_thread_resource_request_and/)
 - [Understanding imports](https://www.reddit.com/r/Python/comments/1cjmmvv/understanding_imports/)
 - [Stumbling my way through](https://www.reddit.com/r/Python/comments/1cjjj51/stumbling_my_way_through/)
 - [Migrate data from one MongoDB cluster to another MongoDB cluster using Python](https://www.reddit.com/r/Python/comments/1cjf4io/migrate_data_from_one_mongodb_cluster_to_another/)
-- [New book! The Quick Python Book, Fourth Edition by Naomi Ceder](https://www.reddit.com/r/Python/comments/1cj8zp2/new_book_the_quick_python_book_fourth_edition_by/)
 <!-- BLOG-POST-LIST:END -->
