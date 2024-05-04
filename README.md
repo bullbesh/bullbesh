@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Using Notepad in App Development](https://www.reddit.com/r/Python/comments/1ck04yv/the_art_of_using_notepad_in_app_development/)
 - [image2grid: Cli tool for generating grid-like images/gifs in your Github Profile page](https://www.reddit.com/r/Python/comments/1cjz9d8/image2grid_cli_tool_for_generating_gridlike/)
 - [Need ideas for Final Year Project!](https://www.reddit.com/r/Python/comments/1cjy00j/need_ideas_for_final_year_project/)
 - [I just saved myself $7!](https://www.reddit.com/r/Python/comments/1cjxopd/i_just_saved_myself_7/)
 - [Suggestions for python libraries to contribute to](https://www.reddit.com/r/Python/comments/1cjt02h/suggestions_for_python_libraries_to_contribute_to/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1cjmysm/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
