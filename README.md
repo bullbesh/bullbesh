@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Opening sublime text editor with python.](https://www.reddit.com/r/Python/comments/1ckce4y/opening_sublime_text_editor_with_python/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1cke7cp/sunday_daily_thread_whats_everyone_working_on/)
 - [Python Test 220: Getting the most out of PyCon, including juggling - Rob Ludwick](https://www.reddit.com/r/Python/comments/1ckc18e/python_test_220_getting_the_most_out_of_pycon/)
 - [Reboot Your Router with a Python Script](https://www.reddit.com/r/Python/comments/1ck452a/reboot_your_router_with_a_python_script/)
 - [image2grid: Cli tool for generating grid-like images/gifs in your Github Profile page](https://www.reddit.com/r/Python/comments/1cjz9d8/image2grid_cli_tool_for_generating_gridlike/)
