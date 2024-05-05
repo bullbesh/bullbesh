@@ -11,6 +11,6 @@
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1cke7cp/sunday_daily_thread_whats_everyone_working_on/)
 - [Python Test 220: Getting the most out of PyCon, including juggling - Rob Ludwick](https://www.reddit.com/r/Python/comments/1ckc18e/python_test_220_getting_the_most_out_of_pycon/)
 - [Reboot Your Router with a Python Script](https://www.reddit.com/r/Python/comments/1ck452a/reboot_your_router_with_a_python_script/)
-- [image2grid: Cli tool for generating grid-like images/gifs in your Github Profile page](https://www.reddit.com/r/Python/comments/1cjz9d8/image2grid_cli_tool_for_generating_gridlike/)
 - [Suggestions for python libraries to contribute to](https://www.reddit.com/r/Python/comments/1cjt02h/suggestions_for_python_libraries_to_contribute_to/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1cjmysm/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
