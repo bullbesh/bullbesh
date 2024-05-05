@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing PgQueuer: A Minimalist Python Job Queue Built on PostgreSQL](https://www.reddit.com/r/Python/comments/1ckrmog/introducing_pgqueuer_a_minimalist_python_job/)
+- [Project: Python program for gathering detailed hardware and software information on Windows 🖥️🔍](https://www.reddit.com/r/Python/comments/1ckr551/project_python_program_for_gathering_detailed/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1cke7cp/sunday_daily_thread_whats_everyone_working_on/)
 - [Python Test 220: Getting the most out of PyCon, including juggling - Rob Ludwick](https://www.reddit.com/r/Python/comments/1ckc18e/python_test_220_getting_the_most_out_of_pycon/)
 - [Reboot Your Router with a Python Script](https://www.reddit.com/r/Python/comments/1ck452a/reboot_your_router_with_a_python_script/)
-- [Suggestions for python libraries to contribute to](https://www.reddit.com/r/Python/comments/1cjt02h/suggestions_for_python_libraries_to_contribute_to/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1cjmysm/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
