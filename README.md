@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the best web/book to study LOGIC?](https://www.reddit.com/r/Python/comments/1cl8a4x/whats_the_best_webbook_to_study_logic/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1cl5cl2/monday_daily_thread_project_ideas/)
 - [Introducing PgQueuer: A Minimalist Python Job Queue Built on PostgreSQL](https://www.reddit.com/r/Python/comments/1ckrmog/introducing_pgqueuer_a_minimalist_python_job/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1cke7cp/sunday_daily_thread_whats_everyone_working_on/)
 - [Python Test 220: Getting the most out of PyCon, including juggling - Rob Ludwick](https://www.reddit.com/r/Python/comments/1ckc18e/python_test_220_getting_the_most_out_of_pycon/)
+- [Reboot Your Router with a Python Script](https://www.reddit.com/r/Python/comments/1ck452a/reboot_your_router_with_a_python_script/)
 <!-- BLOG-POST-LIST:END -->
