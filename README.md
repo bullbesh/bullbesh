@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pip 24.1 beta released, and it&#39;s a big one](https://www.reddit.com/r/Python/comments/1clx454/pip_241_beta_released_and_its_a_big_one/)
+- [Let OpenAI&#39;s new GPT-4-Vision see PDFs, URLs, Images, and Video with one line of Python](https://www.reddit.com/r/Python/comments/1clx1g9/let_openais_new_gpt4vision_see_pdfs_urls_images/)
 - [relax-py - Web framework for htmx with hot module replacement](https://www.reddit.com/r/Python/comments/1clrnce/relaxpy_web_framework_for_htmx_with_hot_module/)
 - [I&#39;ve started writing Python bindings for lexertl](https://www.reddit.com/r/Python/comments/1clpq5l/ive_started_writing_python_bindings_for_lexertl/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1cl5cl2/monday_daily_thread_project_ideas/)
-- [Introducing PgQueuer: A Minimalist Python Job Queue Built on PostgreSQL](https://www.reddit.com/r/Python/comments/1ckrmog/introducing_pgqueuer_a_minimalist_python_job/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1cke7cp/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
