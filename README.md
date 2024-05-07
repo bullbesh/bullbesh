@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web App Deployment](https://www.reddit.com/r/Python/comments/1cmmgu9/web_app_deployment/)
 - [Build tool support for PySide / PyQt](https://www.reddit.com/r/Python/comments/1cmg5fv/build_tool_support_for_pyside_pyqt/)
-- [Automating Dell Command Update](https://www.reddit.com/r/Python/comments/1cmg4lw/automating_dell_command_update/)
 - [List of Sites that Packages Need to Connect to?](https://www.reddit.com/r/Python/comments/1cmdfvy/list_of_sites_that_packages_need_to_connect_to/)
-- [Python utility to track peak resource usage](https://www.reddit.com/r/Python/comments/1cmd1zi/python_utility_to_track_peak_resource_usage/)
 - [Rethinking String Encoding: a 37.5% space efficient string encoding than UTF-8 in Apache Fury](https://www.reddit.com/r/Python/comments/1cmcy3y/rethinking_string_encoding_a_375_space_efficient/)
+- [Python script to convert Spotify Artists to Playlists](https://www.reddit.com/r/Python/comments/1cm8s6f/python_script_to_convert_spotify_artists_to/)
 <!-- BLOG-POST-LIST:END -->
