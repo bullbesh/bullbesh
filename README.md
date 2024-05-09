@@ -11,6 +11,6 @@
 - [InterProcessPyObjects: Fast IPC for Sharing and Modifying Objects Across Processes](https://www.reddit.com/r/Python/comments/1cnlumy/interprocesspyobjects_fast_ipc_for_sharing_and/)
 - [Crypto payment system some tips and pointers](https://www.reddit.com/r/Python/comments/1cnlk9g/crypto_payment_system_some_tips_and_pointers/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1cnjfub/thursday_daily_thread_python_careers_courses_and/)
-- [python with watchdog libary](https://www.reddit.com/r/Python/comments/1cnj70d/python_with_watchdog_libary/)
 - [Vendor or Open Source Products to coerce csv/tabular input to nested/hierarchical schema?](https://www.reddit.com/r/Python/comments/1cnihes/vendor_or_open_source_products_to_coerce/)
+- [I connected LLM to Python runtime and generated unit-tests &lpar;OpenSource&rpar;](https://www.reddit.com/r/Python/comments/1cnhzmy/i_connected_llm_to_python_runtime_and_generated/)
 <!-- BLOG-POST-LIST:END -->
