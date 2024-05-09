@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AzuracastPy: An Unofficial Python Wrapper for the Azuracast API.](https://www.reddit.com/r/Python/comments/1cnsoz5/azuracastpy_an_unofficial_python_wrapper_for_the/)
 - [Calculating Virtual Cycling Power With Python](https://www.reddit.com/r/Python/comments/1cnr0g3/calculating_virtual_cycling_power_with_python/)
 - [InterProcessPyObjects: Fast IPC for Sharing and Modifying Objects Across Processes](https://www.reddit.com/r/Python/comments/1cnlumy/interprocesspyobjects_fast_ipc_for_sharing_and/)
 - [Crypto payment system some tips and pointers](https://www.reddit.com/r/Python/comments/1cnlk9g/crypto_payment_system_some_tips_and_pointers/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1cnjfub/thursday_daily_thread_python_careers_courses_and/)
-- [Vendor or Open Source Products to coerce csv/tabular input to nested/hierarchical schema?](https://www.reddit.com/r/Python/comments/1cnihes/vendor_or_open_source_products_to_coerce/)
 <!-- BLOG-POST-LIST:END -->
