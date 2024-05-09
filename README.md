@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Best Python IDE for Android?](https://www.reddit.com/r/Python/comments/1cnvs3i/best_python_ide_for_android/)
 - [AzuracastPy: An Unofficial Python Wrapper for the Azuracast API.](https://www.reddit.com/r/Python/comments/1cnsoz5/azuracastpy_an_unofficial_python_wrapper_for_the/)
 - [Calculating Virtual Cycling Power With Python](https://www.reddit.com/r/Python/comments/1cnr0g3/calculating_virtual_cycling_power_with_python/)
 - [InterProcessPyObjects: Fast IPC for Sharing and Modifying Objects Across Processes](https://www.reddit.com/r/Python/comments/1cnlumy/interprocesspyobjects_fast_ipc_for_sharing_and/)
-- [Crypto payment system some tips and pointers](https://www.reddit.com/r/Python/comments/1cnlk9g/crypto_payment_system_some_tips_and_pointers/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1cnjfub/thursday_daily_thread_python_careers_courses_and/)
+- [I connected LLM to Python runtime and generated unit-tests &lpar;OpenSource&rpar;](https://www.reddit.com/r/Python/comments/1cnhzmy/i_connected_llm_to_python_runtime_and_generated/)
 <!-- BLOG-POST-LIST:END -->
