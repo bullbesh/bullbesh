@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1cnjfub/thursday_daily_thread_python_careers_courses_and/)
+- [python with watchdog libary](https://www.reddit.com/r/Python/comments/1cnj70d/python_with_watchdog_libary/)
 - [Vendor or Open Source Products to coerce csv/tabular input to nested/hierarchical schema?](https://www.reddit.com/r/Python/comments/1cnihes/vendor_or_open_source_products_to_coerce/)
 - [I connected LLM to Python runtime and generated unit-tests &lpar;OpenSource&rpar;](https://www.reddit.com/r/Python/comments/1cnhzmy/i_connected_llm_to_python_runtime_and_generated/)
 - [The new REPL in Python 3.13.0 beta 1](https://www.reddit.com/r/Python/comments/1cnf0p5/the_new_repl_in_python_3130_beta_1/)
-- [Who is using quart framework for microservices?](https://www.reddit.com/r/Python/comments/1cn8zg3/who_is_using_quart_framework_for_microservices/)
-- [Tutorial on Creating Useful Data Visuals with Python seaborn and matplotlib libraries](https://www.reddit.com/r/Python/comments/1cn24ar/tutorial_on_creating_useful_data_visuals_with/)
 <!-- BLOG-POST-LIST:END -->
