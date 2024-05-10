@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can I give someone a python code that they can run for me?](https://www.reddit.com/r/Python/comments/1coyw7k/can_i_give_someone_a_python_code_that_they_can/)
+- [Python framework as easy as nocode](https://www.reddit.com/r/Python/comments/1coz3hy/python_framework_as_easy_as_nocode/)
 - [What about creating a new templating engine using Rust for Python with a similar syntax to Jinja2?](https://www.reddit.com/r/Python/comments/1cotthm/what_about_creating_a_new_templating_engine_using/)
 - [Pre-commit hook to keep coverage badge in README up to date](https://www.reddit.com/r/Python/comments/1cotppy/precommit_hook_to_keep_coverage_badge_in_readme/)
 - [Interactive plots in the terminal](https://www.reddit.com/r/Python/comments/1cor562/interactive_plots_in_the_terminal/)
