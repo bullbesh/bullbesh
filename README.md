@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate Code Maintenance](https://www.reddit.com/r/Python/comments/1cosw0n/automate_code_maintenance/)
 - [Interactive plots in the terminal](https://www.reddit.com/r/Python/comments/1cor562/interactive_plots_in_the_terminal/)
 - [S.T.A.R.K — The First Voice Assistant&#39;s Framework](https://www.reddit.com/r/Python/comments/1coqi9d/stark_the_first_voice_assistants_framework/)
 - [IP subnet or IP calculator tool need feedback](https://www.reddit.com/r/Python/comments/1comgeg/ip_subnet_or_ip_calculator_tool_need_feedback/)
 - [Python Streamlit Spotlight Tutorial: an Interactive Dashboard using UNHCR Refugee Data](https://www.reddit.com/r/Python/comments/1com0mh/python_streamlit_spotlight_tutorial_an/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1coby3c/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
