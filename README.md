@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Streamlit Spotlight Tutorial: an Interactive Dashboard using UNHCR Refugee Data](https://www.reddit.com/r/Python/comments/1com0mh/python_streamlit_spotlight_tutorial_an/)
 - [I am becoming too reliant on AI, am I the only one?](https://www.reddit.com/r/Python/comments/1cokgnt/i_am_becoming_too_reliant_on_ai_am_i_the_only_one/)
 - [Is there a fully gdb python debugger?](https://www.reddit.com/r/Python/comments/1cojizh/is_there_a_fully_gdb_python_debugger/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1coby3c/friday_daily_thread_rpython_meta_and_freetalk/)
 - [AzuracastPy: An Unofficial Python Wrapper for the Azuracast API.](https://www.reddit.com/r/Python/comments/1cnsoz5/azuracastpy_an_unofficial_python_wrapper_for_the/)
-- [Calculating Virtual Cycling Power With Python](https://www.reddit.com/r/Python/comments/1cnr0g3/calculating_virtual_cycling_power_with_python/)
 <!-- BLOG-POST-LIST:END -->
