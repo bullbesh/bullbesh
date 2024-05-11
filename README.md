@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advice on a simple workflow\job framework in python?](https://www.reddit.com/r/Python/comments/1cpjq4b/advice_on_a_simple_workflowjob_framework_in_python/)
+- [APScheduler vs Schedule package](https://www.reddit.com/r/Python/comments/1cpj8ra/apscheduler_vs_schedule_package/)
 - [I made a Python text to speech library - Pyt2s](https://www.reddit.com/r/Python/comments/1cpbn3u/i_made_a_python_text_to_speech_library_pyt2s/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1cp43wy/saturday_daily_thread_resource_request_and/)
 - [Pre-commit hook to keep coverage badge in README up to date](https://www.reddit.com/r/Python/comments/1cotppy/precommit_hook_to_keep_coverage_badge_in_readme/)
-- [Interactive plots in the terminal](https://www.reddit.com/r/Python/comments/1cor562/interactive_plots_in_the_terminal/)
-- [IP subnet or IP calculator tool need feedback](https://www.reddit.com/r/Python/comments/1comgeg/ip_subnet_or_ip_calculator_tool_need_feedback/)
 <!-- BLOG-POST-LIST:END -->
