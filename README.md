@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Manipulating image before uploading to database](https://www.reddit.com/r/Python/comments/1cq88gy/manipulating_image_before_uploading_to_database/)
-- [I shared a crash course about Polars library of Python &lpar;Great library for big data&rpar; on YouTube](https://www.reddit.com/r/Python/comments/1cq68z6/i_shared_a_crash_course_about_polars_library_of/)
 - [Reviewing Dataframe Changes? Looking for Your Preferred Methods!](https://www.reddit.com/r/Python/comments/1cpyem9/reviewing_dataframe_changes_looking_for_your/)
 - [I&#39;ve developed a library for send metrics to zabbix asynchronously](https://www.reddit.com/r/Python/comments/1cpw67l/ive_developed_a_library_for_send_metrics_to/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1cputlh/sunday_daily_thread_whats_everyone_working_on/)
+- [Library for automatic Cython 3.0 code annotations generation.](https://www.reddit.com/r/Python/comments/1cpqh34/library_for_automatic_cython_30_code_annotations/)
 <!-- BLOG-POST-LIST:END -->
