@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Examples from new programming languages for Python](https://www.reddit.com/r/Python/comments/1cprx9g/examples_from_new_programming_languages_for_python/)
+- [I&#39;ve developed a library for send metrics to zabbix asynchronously](https://www.reddit.com/r/Python/comments/1cpw67l/ive_developed_a_library_for_send_metrics_to/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1cputlh/sunday_daily_thread_whats_everyone_working_on/)
 - [Library for automatic Cython 3.0 code annotations generation.](https://www.reddit.com/r/Python/comments/1cpqh34/library_for_automatic_cython_30_code_annotations/)
 - [2,000 lines of Python code to make this scrolling ASCII art animation: &quot;The Forbidden Zone&quot;](https://www.reddit.com/r/Python/comments/1cpq2d9/2000_lines_of_python_code_to_make_this_scrolling/)
-- [Logging with specific features](https://www.reddit.com/r/Python/comments/1cpohpj/logging_with_specific_features/)
 - [APScheduler vs Schedule package](https://www.reddit.com/r/Python/comments/1cpj8ra/apscheduler_vs_schedule_package/)
 <!-- BLOG-POST-LIST:END -->
