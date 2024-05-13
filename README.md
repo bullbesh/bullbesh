@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [UXsim 1.3.0 released with vehicle tracking and improved vehicle routing](https://www.reddit.com/r/Python/comments/1cqstyd/uxsim_130_released_with_vehicle_tracking_and/)
 - [Frame - a new language for programming state machines in Python](https://www.reddit.com/r/Python/comments/1cqoyuq/frame_a_new_language_for_programming_state/)
 - [CLI to embed code snippets in your README, from actual &lpar;testable&rpar; code](https://www.reddit.com/r/Python/comments/1cqlvgt/cli_to_embed_code_snippets_in_your_readme_from/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1cqlqq7/monday_daily_thread_project_ideas/)
 - [map_plotter - abstracts complexity of creating intensity plots overlaid onto global map](https://www.reddit.com/r/Python/comments/1cqjpft/map_plotter_abstracts_complexity_of_creating/)
-- [Reviewing Dataframe Changes? Looking for Your Preferred Methods!](https://www.reddit.com/r/Python/comments/1cpyem9/reviewing_dataframe_changes_looking_for_your/)
 <!-- BLOG-POST-LIST:END -->
