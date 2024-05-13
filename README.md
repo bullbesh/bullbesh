@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How telegram user bots work under the hood](https://www.reddit.com/r/Python/comments/1cqmlsp/how_telegram_user_bots_work_under_the_hood/)
+- [CLI to embed code snippets in your README, from actual &lpar;testable&rpar; code](https://www.reddit.com/r/Python/comments/1cqlvgt/cli_to_embed_code_snippets_in_your_readme_from/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1cqlqq7/monday_daily_thread_project_ideas/)
 - [map_plotter - abstracts complexity of creating intensity plots overlaid onto global map](https://www.reddit.com/r/Python/comments/1cqjpft/map_plotter_abstracts_complexity_of_creating/)
 - [New to webScraping and confused on how to extract information from nested tags](https://www.reddit.com/r/Python/comments/1cqhxj4/new_to_webscraping_and_confused_on_how_to_extract/)
-- [For the needy - Coursera Plus worth $430 at $20&lpar;Few invites only&rpar;](https://www.reddit.com/r/Python/comments/1cqdyrc/for_the_needy_coursera_plus_worth_430_at_20few/)
-- [Reviewing Dataframe Changes? Looking for Your Preferred Methods!](https://www.reddit.com/r/Python/comments/1cpyem9/reviewing_dataframe_changes_looking_for_your/)
-- [I&#39;ve developed a library for send metrics to zabbix asynchronously](https://www.reddit.com/r/Python/comments/1cpw67l/ive_developed_a_library_for_send_metrics_to/)
 <!-- BLOG-POST-LIST:END -->
