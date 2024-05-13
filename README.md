@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automatic face registration using python and face_recognition library.](https://www.reddit.com/r/Python/comments/1cr5ggr/automatic_face_registration_using_python_and_face/)
 - [SQLPage - a Python library to add string token based pagination easily](https://www.reddit.com/r/Python/comments/1cqzf6o/sqlpage_a_python_library_to_add_string_token/)
 - [Resume Screening Chatbot using RAG Fusion](https://www.reddit.com/r/Python/comments/1cqwcap/resume_screening_chatbot_using_rag_fusion/)
 - [Giving New Life to JModelica: Bringing Powerful Modelica Simulations to Python](https://www.reddit.com/r/Python/comments/1cqvyyf/giving_new_life_to_jmodelica_bringing_powerful/)
 - [UXsim 1.3.0 released with vehicle tracking and improved vehicle routing](https://www.reddit.com/r/Python/comments/1cqstyd/uxsim_130_released_with_vehicle_tracking_and/)
-- [Frame - a new language for programming state machines in Python](https://www.reddit.com/r/Python/comments/1cqoyuq/frame_a_new_language_for_programming_state/)
 <!-- BLOG-POST-LIST:END -->
