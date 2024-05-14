@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Manage Your Squid Proxy Server Efficiently with This Python Script](https://www.reddit.com/r/Python/comments/1crzgrr/manage_your_squid_proxy_server_efficiently_with/)
 - [Declarative GUI Slint v1.6 released with Design Mode &lpar;WYSIWYG&rpar; Improvements](https://www.reddit.com/r/Python/comments/1crsmbe/declarative_gui_slint_v16_released_with_design/)
 - [Is PyGame still alive?](https://www.reddit.com/r/Python/comments/1crsktg/is_pygame_still_alive/)
 - [modern_colorthief - Modified Median Cut Quantization algorithm in rust + python](https://www.reddit.com/r/Python/comments/1crouri/modern_colorthief_modified_median_cut/)
 - [Framework to use for backend](https://www.reddit.com/r/Python/comments/1croj1r/framework_to_use_for_backend/)
-- [Implementing your own pypi clone](https://www.reddit.com/r/Python/comments/1crksf7/implementing_your_own_pypi_clone/)
 <!-- BLOG-POST-LIST:END -->
