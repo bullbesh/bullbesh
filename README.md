@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Talk to Your Computer With Python and OpenAI’s Whisper Running on Your Personal Machine](https://www.reddit.com/r/Python/comments/1cshdzu/how_to_talk_to_your_computer_with_python_and/)
 - [Production grade AI Web apps, just using python ?](https://www.reddit.com/r/Python/comments/1csfimo/production_grade_ai_web_apps_just_using_python/)
 - [I made a python bot that plays minesweeper](https://www.reddit.com/r/Python/comments/1csd77f/i_made_a_python_bot_that_plays_minesweeper/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1cs75gc/wednesday_daily_thread_beginner_questions/)
 - [Manage Your Squid Proxy Server Efficiently with This Python Script](https://www.reddit.com/r/Python/comments/1crzgrr/manage_your_squid_proxy_server_efficiently_with/)
-- [Declarative GUI Slint v1.6 released with Design Mode &lpar;WYSIWYG&rpar; Improvements](https://www.reddit.com/r/Python/comments/1crsmbe/declarative_gui_slint_v16_released_with_design/)
 <!-- BLOG-POST-LIST:END -->
