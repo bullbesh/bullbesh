@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I love Python. Thank you Python.](https://www.reddit.com/r/Python/comments/1cuawsg/i_love_python_thank_you_python/)
 - [I made a Mandelbrot Zoom using Python](https://www.reddit.com/r/Python/comments/1cu9jz1/i_made_a_mandelbrot_zoom_using_python/)
 - [The best Python CLI library, arguably.](https://www.reddit.com/r/Python/comments/1cu6toc/the_best_python_cli_library_arguably/)
 - [First Unit Tests](https://www.reddit.com/r/Python/comments/1cu5n5s/first_unit_tests/)
 - [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1cu5m68/the_python_on_microcontrollers_and_raspberry_pi/)
-- [Auto Data Analysis python packages to know](https://www.reddit.com/r/Python/comments/1cu5476/auto_data_analysis_python_packages_to_know/)
 <!-- BLOG-POST-LIST:END -->
