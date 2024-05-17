@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [First Unit Tests](https://www.reddit.com/r/Python/comments/1cu5n5s/first_unit_tests/)
+- [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1cu5m68/the_python_on_microcontrollers_and_raspberry_pi/)
+- [Auto Data Analysis python packages to know](https://www.reddit.com/r/Python/comments/1cu5476/auto_data_analysis_python_packages_to_know/)
 - [sjvisualizer: a python package to animate time-series data](https://www.reddit.com/r/Python/comments/1cu4epm/sjvisualizer_a_python_package_to_animate/)
 - [Homoiconic Python Code](https://www.reddit.com/r/Python/comments/1cu2bpv/homoiconic_python_code/)
-- [this.s and this.d](https://www.reddit.com/r/Python/comments/1cu26mq/thiss_and_thisd/)
-- [GeoEntropy: A Python Package for Computing Spatial/Geometric Entropy](https://www.reddit.com/r/Python/comments/1cty1zx/geoentropy_a_python_package_for_computing/)
-- [What changes needs to be done when I change the version of Wergzeug from 2.3.8 to 3.0.0 ?](https://www.reddit.com/r/Python/comments/1ctxzhj/what_changes_needs_to_be_done_when_i_change_the/)
 <!-- BLOG-POST-LIST:END -->
