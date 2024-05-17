@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ctrpwz/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Kenneth Reitz has a new project](https://www.reddit.com/r/Python/comments/1ctpuet/kenneth_reitz_has_a_new_project/)
 - [Langchain using llama3 to build recommendation system](https://www.reddit.com/r/Python/comments/1ctnxa4/langchain_using_llama3_to_build_recommendation/)
 - [sqlalchemy-sessionmanager](https://www.reddit.com/r/Python/comments/1cth1by/sqlalchemysessionmanager/)
 - [pip time machine](https://www.reddit.com/r/Python/comments/1cte019/pip_time_machine/)
-- [PyCon US 2024 is here!](https://www.reddit.com/r/Python/comments/1ct1tnh/pycon_us_2024_is_here/)
 <!-- BLOG-POST-LIST:END -->
