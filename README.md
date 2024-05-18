@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How people would solve this problem before Llm ? Matching name problem](https://www.reddit.com/r/Python/comments/1cv1rxm/how_people_would_solve_this_problem_before_llm/)
 - [Picodi - Simplifying Dependency Injection in Python](https://www.reddit.com/r/Python/comments/1cuz4kw/picodi_simplifying_dependency_injection_in_python/)
 - [Tutorial: Simple Pretty Maps That Will Improve Your Python Streamlit Skills](https://www.reddit.com/r/Python/comments/1cuyivc/tutorial_simple_pretty_maps_that_will_improve/)
 - [FastAPI Backend Template for SaaS products](https://www.reddit.com/r/Python/comments/1cuxatg/fastapi_backend_template_for_saas_products/)
-- [Python for NDVI](https://www.reddit.com/r/Python/comments/1cuqyzl/python_for_ndvi/)
+- [Mastering Python: 7 Strategies for Writing Clear, Organized, and Efficient Code](https://www.reddit.com/r/Python/comments/1cuqmmh/mastering_python_7_strategies_for_writing_clear/)
+- [LinkedIn-Learning-Downloader v1.1](https://www.reddit.com/r/Python/comments/1culpl3/linkedinlearningdownloader_v11/)
 <!-- BLOG-POST-LIST:END -->
