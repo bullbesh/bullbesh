@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1cuk3zp/saturday_daily_thread_resource_request_and/)
+- [Paying gig: need someone to write a python script for a public art project.](https://www.reddit.com/r/Python/comments/1cujgwk/paying_gig_need_someone_to_write_a_python_script/)
 - [I made a Mandelbrot Zoom using Python](https://www.reddit.com/r/Python/comments/1cu9jz1/i_made_a_mandelbrot_zoom_using_python/)
 - [The best Python CLI library, arguably.](https://www.reddit.com/r/Python/comments/1cu6toc/the_best_python_cli_library_arguably/)
 - [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1cu5m68/the_python_on_microcontrollers_and_raspberry_pi/)
-- [Auto Data Analysis python packages to know](https://www.reddit.com/r/Python/comments/1cu5476/auto_data_analysis_python_packages_to_know/)
-- [sjvisualizer: a python package to animate time-series data](https://www.reddit.com/r/Python/comments/1cu4epm/sjvisualizer_a_python_package_to_animate/)
 <!-- BLOG-POST-LIST:END -->
