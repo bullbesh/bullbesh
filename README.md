@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Picodi - Simplifying Dependency Injection in Python](https://www.reddit.com/r/Python/comments/1cuz4kw/picodi_simplifying_dependency_injection_in_python/)
+- [Tutorial: Simple Pretty Maps That Will Improve Your Python Streamlit Skills](https://www.reddit.com/r/Python/comments/1cuyivc/tutorial_simple_pretty_maps_that_will_improve/)
 - [FastAPI Backend Template for SaaS products](https://www.reddit.com/r/Python/comments/1cuxatg/fastapi_backend_template_for_saas_products/)
 - [Python for NDVI](https://www.reddit.com/r/Python/comments/1cuqyzl/python_for_ndvi/)
 - [Mastering Python: 7 Strategies for Writing Clear, Organized, and Efficient Code](https://www.reddit.com/r/Python/comments/1cuqmmh/mastering_python_7_strategies_for_writing_clear/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1cuk3zp/saturday_daily_thread_resource_request_and/)
-- [Paying gig: need someone to write a python script for a public art project.](https://www.reddit.com/r/Python/comments/1cujgwk/paying_gig_need_someone_to_write_a_python_script/)
 <!-- BLOG-POST-LIST:END -->
