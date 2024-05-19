@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [My Selenium Python code works for navigating to chess.com but doesn&#39;t show search results after ENTR](https://www.reddit.com/r/Python/comments/1cvmuxw/my_selenium_python_code_works_for_navigating_to/)
+- [IconMatch - find icons and letters positions from images!](https://www.reddit.com/r/Python/comments/1cvp53v/iconmatch_find_icons_and_letters_positions_from/)
 - [You should only use licensed version of python](https://www.reddit.com/r/Python/comments/1cvhi1m/you_should_only_use_licensed_version_of_python/)
-- [Would this work?](https://www.reddit.com/r/Python/comments/1cvgnut/would_this_work/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1cvay3b/sunday_daily_thread_whats_everyone_working_on/)
 - [Picodi - Simplifying Dependency Injection in Python](https://www.reddit.com/r/Python/comments/1cuz4kw/picodi_simplifying_dependency_injection_in_python/)
+- [Tutorial: Simple Pretty Maps That Will Improve Your Python Streamlit Skills](https://www.reddit.com/r/Python/comments/1cuyivc/tutorial_simple_pretty_maps_that_will_improve/)
 <!-- BLOG-POST-LIST:END -->
