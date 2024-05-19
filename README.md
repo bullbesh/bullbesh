@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Would this work?](https://www.reddit.com/r/Python/comments/1cvgnut/would_this_work/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1cvay3b/sunday_daily_thread_whats_everyone_working_on/)
 - [Picodi - Simplifying Dependency Injection in Python](https://www.reddit.com/r/Python/comments/1cuz4kw/picodi_simplifying_dependency_injection_in_python/)
 - [Tutorial: Simple Pretty Maps That Will Improve Your Python Streamlit Skills](https://www.reddit.com/r/Python/comments/1cuyivc/tutorial_simple_pretty_maps_that_will_improve/)
 - [FastAPI Backend Template for SaaS products](https://www.reddit.com/r/Python/comments/1cuxatg/fastapi_backend_template_for_saas_products/)
-- [Mastering Python: 7 Strategies for Writing Clear, Organized, and Efficient Code](https://www.reddit.com/r/Python/comments/1cuqmmh/mastering_python_7_strategies_for_writing_clear/)
 <!-- BLOG-POST-LIST:END -->
