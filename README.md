@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reactive programming for Python with live-cells-py](https://www.reddit.com/r/Python/comments/1cwcm7f/reactive_programming_for_python_with_livecellspy/)
 - [How I improved my python code Performance by 371%!](https://www.reddit.com/r/Python/comments/1cwaap9/how_i_improved_my_python_code_performance_by_371/)
 - [Dash Pip Components](https://www.reddit.com/r/Python/comments/1cw486p/dash_pip_components/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1cw25ip/monday_daily_thread_project_ideas/)
 - [HS-transform, python package for hyperbolic S-transform in signal processing](https://www.reddit.com/r/Python/comments/1cvzidl/hstransform_python_package_for_hyperbolic/)
-- [The possibility to build Android apps with python professionally is here and needs your support.](https://www.reddit.com/r/Python/comments/1cvvy36/the_possibility_to_build_android_apps_with_python/)
 <!-- BLOG-POST-LIST:END -->
