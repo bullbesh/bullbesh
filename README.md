@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [import smtplib - Error I don&#39;t understand](https://www.reddit.com/r/Python/comments/1cwg8gs/import_smtplib_error_i_dont_understand/)
+- [Good code that just flows](https://www.reddit.com/r/Python/comments/1cwm4dk/good_code_that_just_flows/)
 - [Reactive programming for Python with live-cells-py](https://www.reddit.com/r/Python/comments/1cwcm7f/reactive_programming_for_python_with_livecellspy/)
-- [How I improved my python code Performance by 371%!](https://www.reddit.com/r/Python/comments/1cwaap9/how_i_improved_my_python_code_performance_by_371/)
 - [Dash Pip Components](https://www.reddit.com/r/Python/comments/1cw486p/dash_pip_components/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1cw25ip/monday_daily_thread_project_ideas/)
+- [HS-transform, python package for hyperbolic S-transform in signal processing](https://www.reddit.com/r/Python/comments/1cvzidl/hstransform_python_package_for_hyperbolic/)
 <!-- BLOG-POST-LIST:END -->
