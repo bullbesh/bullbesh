@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1cw25ip/monday_daily_thread_project_ideas/)
 - [HS-transform, python package for hyperbolic S-transform in signal processing](https://www.reddit.com/r/Python/comments/1cvzidl/hstransform_python_package_for_hyperbolic/)
 - [The possibility to build Android apps with python professionally is here and needs your support.](https://www.reddit.com/r/Python/comments/1cvvy36/the_possibility_to_build_android_apps_with_python/)
 - [I made a cheatsheet for pydash](https://www.reddit.com/r/Python/comments/1cvu4wb/i_made_a_cheatsheet_for_pydash/)
 - [IconMatch - find icons and letters positions from images!](https://www.reddit.com/r/Python/comments/1cvp53v/iconmatch_find_icons_and_letters_positions_from/)
-- [You should only use licensed version of python](https://www.reddit.com/r/Python/comments/1cvhi1m/you_should_only_use_licensed_version_of_python/)
 <!-- BLOG-POST-LIST:END -->
