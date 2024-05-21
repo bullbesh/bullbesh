@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [New post 254 for](https://www.reddit.com/r/Python/comments/1cx7gtt/new_post_254_for/)
 - [pyautogui fails to recognize special characters such as &quot;á, é, í, ó and ú&quot;](https://www.reddit.com/r/Python/comments/1cx4z4t/pyautogui_fails_to_recognize_special_characters/)
 - [try... except... finally!](https://www.reddit.com/r/Python/comments/1cx0dh4/try_except_finally/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1cwuc7k/tuesday_daily_thread_advanced_questions/)
 - [Dive into DevOps ebook Humble Bundle supporting the Python Software Foundation](https://www.reddit.com/r/Python/comments/1cwqkx7/dive_into_devops_ebook_humble_bundle_supporting/)
+- [A Beginner&#39;s Guide to Unit Testing with Pytest](https://www.reddit.com/r/Python/comments/1cwm734/a_beginners_guide_to_unit_testing_with_pytest/)
 <!-- BLOG-POST-LIST:END -->
