@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Speed improvements in Polars over Pandas](https://www.reddit.com/r/Python/comments/1cy9vpt/speed_improvements_in_polars_over_pandas/)
 - [GeoEntropy: A Python Package for Computing Spatial/Geometric Entropy](https://www.reddit.com/r/Python/comments/1cxyvn2/geoentropy_a_python_package_for_computing/)
 - [Programmable Semantics &lpar;Eval, Semicolon, Assignment&rpar; for Python](https://www.reddit.com/r/Python/comments/1cxp7qe/programmable_semantics_eval_semicolon_assignment/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1cxmpeo/wednesday_daily_thread_beginner_questions/)
 - [I made a Traversible Tree in Python](https://www.reddit.com/r/Python/comments/1cxfaph/i_made_a_traversible_tree_in_python/)
-- [Durable Python - Infrastructure failures should not stop the process](https://www.reddit.com/r/Python/comments/1cxbyf6/durable_python_infrastructure_failures_should_not/)
 <!-- BLOG-POST-LIST:END -->
