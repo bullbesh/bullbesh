@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [TPC-H Cloud Benchmarks: Spark, Dask, DuckDB, Polars](https://www.reddit.com/r/Python/comments/1cyqj6c/tpch_cloud_benchmarks_spark_dask_duckdb_polars/)
 - [Interfacing Custom USB endpoints using Python!](https://www.reddit.com/r/Python/comments/1cyq6rb/interfacing_custom_usb_endpoints_using_python/)
 - [Mystique: Sparse data matching for Python tests](https://www.reddit.com/r/Python/comments/1cykaol/mystique_sparse_data_matching_for_python_tests/)
 - [How to publish a Python package with GitHub Actions using Poetry](https://www.reddit.com/r/Python/comments/1cyj6w6/how_to_publish_a_python_package_with_github/)
 - [Reforger Whitelist Py](https://www.reddit.com/r/Python/comments/1cyfsas/reforger_whitelist_py/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1cyf892/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
