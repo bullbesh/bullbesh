@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reforger Whitelist Py](https://www.reddit.com/r/Python/comments/1cyfsas/reforger_whitelist_py/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1cyf892/thursday_daily_thread_python_careers_courses_and/)
 - [Guide resources for freelancers](https://www.reddit.com/r/Python/comments/1cydf79/guide_resources_for_freelancers/)
 - [Thank You PyConUS 2024 !!!](https://www.reddit.com/r/Python/comments/1cyceoq/thank_you_pyconus_2024/)
 - [Speed improvements in Polars over Pandas](https://www.reddit.com/r/Python/comments/1cy9vpt/speed_improvements_in_polars_over_pandas/)
-- [GeoEntropy: A Python Package for Computing Spatial/Geometric Entropy](https://www.reddit.com/r/Python/comments/1cxyvn2/geoentropy_a_python_package_for_computing/)
-- [Programmable Semantics &lpar;Eval, Semicolon, Assignment&rpar; for Python](https://www.reddit.com/r/Python/comments/1cxp7qe/programmable_semantics_eval_semicolon_assignment/)
 <!-- BLOG-POST-LIST:END -->
