@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [We built open-source SDK for adding custom code interpreters to AI apps](https://www.reddit.com/r/Python/comments/1czr85u/we_built_opensource_sdk_for_adding_custom_code/)
 - [I made a desktop chat app :&rpar;](https://www.reddit.com/r/Python/comments/1cznlay/i_made_a_desktop_chat_app/)
 - [Tutorial: Sure Fire Streamlit - A Sidebar And Multi-visual Layout You&#39;ll Love](https://www.reddit.com/r/Python/comments/1czkfo7/tutorial_sure_fire_streamlit_a_sidebar_and/)
 - [JSX Syntax inside Python files. &lpar;Packed&rpar;](https://www.reddit.com/r/Python/comments/1czbu57/jsx_syntax_inside_python_files_packed/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1cz7jo9/friday_daily_thread_rpython_meta_and_freetalk/)
-- [I made a small Python script that uses NASA&#39;S APOD API to set cool backgrounds on a Windows machine](https://www.reddit.com/r/Python/comments/1cz43o6/i_made_a_small_python_script_that_uses_nasas_apod/)
 <!-- BLOG-POST-LIST:END -->
