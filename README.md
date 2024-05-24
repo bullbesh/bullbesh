@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Search vulnerabilities in Python packages](https://www.reddit.com/r/Python/comments/1czmg2p/search_vulnerabilities_in_python_packages/)
 - [Tutorial: Sure Fire Streamlit - A Sidebar And Multi-visual Layout You&#39;ll Love](https://www.reddit.com/r/Python/comments/1czkfo7/tutorial_sure_fire_streamlit_a_sidebar_and/)
 - [JSX Syntax inside Python files. &lpar;Packed&rpar;](https://www.reddit.com/r/Python/comments/1czbu57/jsx_syntax_inside_python_files_packed/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1cz7jo9/friday_daily_thread_rpython_meta_and_freetalk/)
 - [I made a small Python script that uses NASA&#39;S APOD API to set cool backgrounds on a Windows machine](https://www.reddit.com/r/Python/comments/1cz43o6/i_made_a_small_python_script_that_uses_nasas_apod/)
-- [MyTimer v1.3: A Geeky Timer for Terminal Enthusiasts](https://www.reddit.com/r/Python/comments/1cz2uyd/mytimer_v13_a_geeky_timer_for_terminal_enthusiasts/)
 <!-- BLOG-POST-LIST:END -->
