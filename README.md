@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Developing Apps On A Custom Stack &lpar;Zero-JavaScript&rpar;](https://www.reddit.com/r/Python/comments/1czb2lp/developing_apps_on_a_custom_stack_zerojavascript/)
+- [JSX Syntax inside Python files. &lpar;Packed&rpar;](https://www.reddit.com/r/Python/comments/1czbu57/jsx_syntax_inside_python_files_packed/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1cz7jo9/friday_daily_thread_rpython_meta_and_freetalk/)
 - [I made a small Python script that uses NASA&#39;S APOD API to set cool backgrounds on a Windows machine](https://www.reddit.com/r/Python/comments/1cz43o6/i_made_a_small_python_script_that_uses_nasas_apod/)
 - [MyTimer v1.3: A Geeky Timer for Terminal Enthusiasts](https://www.reddit.com/r/Python/comments/1cz2uyd/mytimer_v13_a_geeky_timer_for_terminal_enthusiasts/)
