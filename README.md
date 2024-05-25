@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1czz465/saturday_daily_thread_resource_request_and/)
 - [PyPods: A lightweight solution to execute Python dependencies in an isolated fashion.](https://www.reddit.com/r/Python/comments/1czxc2a/pypods_a_lightweight_solution_to_execute_python/)
+- [Rye-Tui, a Text-based User Interface &lpar;TUI&rpar; to manage rye projects](https://www.reddit.com/r/Python/comments/1czvlns/ryetui_a_textbased_user_interface_tui_to_manage/)
 - [We built open-source SDK for adding custom code interpreters to AI apps](https://www.reddit.com/r/Python/comments/1czr85u/we_built_opensource_sdk_for_adding_custom_code/)
 - [I made a desktop chat app :&rpar;](https://www.reddit.com/r/Python/comments/1cznlay/i_made_a_desktop_chat_app/)
-- [Tutorial: Sure Fire Streamlit - A Sidebar And Multi-visual Layout You&#39;ll Love](https://www.reddit.com/r/Python/comments/1czkfo7/tutorial_sure_fire_streamlit_a_sidebar_and/)
-- [JSX Syntax inside Python files. &lpar;Packed&rpar;](https://www.reddit.com/r/Python/comments/1czbu57/jsx_syntax_inside_python_files_packed/)
 <!-- BLOG-POST-LIST:END -->
