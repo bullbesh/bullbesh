@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1d0p0iv/sunday_daily_thread_whats_everyone_working_on/)
 - [Spotify Lyrics visualizer](https://www.reddit.com/r/Python/comments/1d0nb3k/spotify_lyrics_visualizer/)
 - [Q: How much to quote in salary negotiation](https://www.reddit.com/r/Python/comments/1d0jxcv/q_how_much_to_quote_in_salary_negotiation/)
 - [Xenharmlib - An advanced music theory library that supports microtonality](https://www.reddit.com/r/Python/comments/1d0gots/xenharmlib_an_advanced_music_theory_library_that/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1czz465/saturday_daily_thread_resource_request_and/)
-- [PyPods: A lightweight solution to execute Python dependencies in an isolated fashion.](https://www.reddit.com/r/Python/comments/1czxc2a/pypods_a_lightweight_solution_to_execute_python/)
 <!-- BLOG-POST-LIST:END -->
