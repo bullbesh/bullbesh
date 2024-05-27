@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [SH1106 OLED Screen App Framework for Raspberry Pi - Now on PyPI](https://www.reddit.com/r/Python/comments/1d1fdqb/sh1106_oled_screen_app_framework_for_raspberry_pi/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1d1eqao/monday_daily_thread_project_ideas/)
-- [Flow &lpar;To-Do Manager&rpar;](https://www.reddit.com/r/Python/comments/1d1e22k/flow_todo_manager/)
 - [Yet Another REST Client](https://www.reddit.com/r/Python/comments/1d16s91/yet_another_rest_client/)
 - [An IDE with the same step by step functionality as in Matlab](https://www.reddit.com/r/Python/comments/1d15leb/an_ide_with_the_same_step_by_step_functionality/)
+- [AI planner: AI tool for efficient event scheduling in Google Calendar.](https://www.reddit.com/r/Python/comments/1d11nfg/ai_planner_ai_tool_for_efficient_event_scheduling/)
 <!-- BLOG-POST-LIST:END -->
