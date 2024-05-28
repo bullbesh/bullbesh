@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Preferred method to run python in VS Code](https://www.reddit.com/r/Python/comments/1d28wkf/preferred_method_to_run_python_in_vs_code/)
-- [Having a bit of trouble](https://www.reddit.com/r/Python/comments/1d28qq5/having_a_bit_of_trouble/)
 - [TerminalTextEffects &lpar;TTE&rpar; - A terminal visual effects engine, application, and library.](https://www.reddit.com/r/Python/comments/1d28djq/terminaltexteffects_tte_a_terminal_visual_effects/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1d2632j/tuesday_daily_thread_advanced_questions/)
 - [Gloe: A lightweight lib to create readable and type-safe pipelines](https://www.reddit.com/r/Python/comments/1d200hx/gloe_a_lightweight_lib_to_create_readable_and/)
+- [Crowbar - Package Management without Venv](https://www.reddit.com/r/Python/comments/1d1umwg/crowbar_package_management_without_venv/)
 <!-- BLOG-POST-LIST:END -->
