@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1d2ykxl/wednesday_daily_thread_beginner_questions/)
 - [Web API Security Champion Part III: Broken Object Property Level Authorization](https://www.reddit.com/r/Python/comments/1d2vrds/web_api_security_champion_part_iii_broken_object/)
 - [Monitoring a website](https://www.reddit.com/r/Python/comments/1d2td5n/monitoring_a_website/)
 - [From poetry to docker - easy way](https://www.reddit.com/r/Python/comments/1d2rnor/from_poetry_to_docker_easy_way/)
 - [A &quot;new&quot; Object &amp; Vector Database for Python](https://www.reddit.com/r/Python/comments/1d2iq74/a_new_object_vector_database_for_python/)
-- [Choosing between dash and react](https://www.reddit.com/r/Python/comments/1d2djln/choosing_between_dash_and_react/)
 <!-- BLOG-POST-LIST:END -->
