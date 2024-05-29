@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Looks amazing! Iroh P2P](https://www.reddit.com/r/Python/comments/1d3a6g9/looks_amazing_iroh_p2p/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1d2ykxl/wednesday_daily_thread_beginner_questions/)
 - [From poetry to docker - easy way](https://www.reddit.com/r/Python/comments/1d2rnor/from_poetry_to_docker_easy_way/)
 - [A &quot;new&quot; Object &amp; Vector Database for Python](https://www.reddit.com/r/Python/comments/1d2iq74/a_new_object_vector_database_for_python/)
 - [Choosing between dash and react](https://www.reddit.com/r/Python/comments/1d2djln/choosing_between_dash_and_react/)
+- [Preferred method to run python in VS Code](https://www.reddit.com/r/Python/comments/1d28wkf/preferred_method_to_run_python_in_vs_code/)
 <!-- BLOG-POST-LIST:END -->
