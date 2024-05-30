@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hexagonal Architecture in python..](https://www.reddit.com/r/Python/comments/1d3ruqu/hexagonal_architecture_in_python/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1d3qk18/thursday_daily_thread_python_careers_courses_and/)
 - [Zango - New python framework for building enterprise ready business apps. Salesforce alternative.](https://www.reddit.com/r/Python/comments/1d3m6do/zango_new_python_framework_for_building/)
 - [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1d3k0jh/the_python_on_microcontrollers_and_raspberry_pi/)
 - [pyDSLR: Easy-to-use wrapper around libgphoto2 to control your DSLR/DSLM from Linux/MacOS](https://www.reddit.com/r/Python/comments/1d3jdnf/pydslr_easytouse_wrapper_around_libgphoto2_to/)
+- [musicnotes: Python module for playing musical instruments!](https://www.reddit.com/r/Python/comments/1d31sj6/musicnotes_python_module_for_playing_musical/)
 <!-- BLOG-POST-LIST:END -->
