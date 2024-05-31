@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Voice Assistant using on-device LLM, STT, TTS and Wake Word tech](https://www.reddit.com/r/Python/comments/1d4y99t/ai_voice_assistant_using_ondevice_llm_stt_tts_and/)
 - [AndroidWorld — Build and test AI agents on Android](https://www.reddit.com/r/Python/comments/1d4we3f/androidworld_build_and_test_ai_agents_on_android/)
 - [RAGFlow: Deep document understanding RAG engine](https://www.reddit.com/r/Python/comments/1d4ou3k/ragflow_deep_document_understanding_rag_engine/)
 - [2024 StackOverflow Survey](https://www.reddit.com/r/Python/comments/1d4nvou/2024_stackoverflow_survey/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1d4i6xx/friday_daily_thread_rpython_meta_and_freetalk/)
-- [cachebox: The fastest caching library written in Rust](https://www.reddit.com/r/Python/comments/1d45x7f/cachebox_the_fastest_caching_library_written_in/)
 <!-- BLOG-POST-LIST:END -->
