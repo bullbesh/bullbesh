@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I tried to copy my commit history from bitbucket to GitHub using this repo but it does not work](https://www.reddit.com/r/Python/comments/1d4rhvp/i_tried_to_copy_my_commit_history_from_bitbucket/)
 - [Semantic Search With Sentence Transformers For A RAG Application](https://www.reddit.com/r/Python/comments/1d4rdhl/semantic_search_with_sentence_transformers_for_a/)
 - [RAGFlow: Deep document understanding RAG engine](https://www.reddit.com/r/Python/comments/1d4ou3k/ragflow_deep_document_understanding_rag_engine/)
 - [2024 StackOverflow Survey](https://www.reddit.com/r/Python/comments/1d4nvou/2024_stackoverflow_survey/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1d4i6xx/friday_daily_thread_rpython_meta_and_freetalk/)
-- [wuddz-lit: An efficient literotica.com story downloader.](https://www.reddit.com/r/Python/comments/1d4dpak/wuddzlit_an_efficient_literoticacom_story/)
 <!-- BLOG-POST-LIST:END -->
