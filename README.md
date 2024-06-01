@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Please im about to go crazy with this loop with &quot;try&quot;](https://www.reddit.com/r/Python/comments/1d5ogcb/please_im_about_to_go_crazy_with_this_loop_with/)
 - [ReqFlow - Simplifying API Testing with Python](https://www.reddit.com/r/Python/comments/1d5k2ty/reqflow_simplifying_api_testing_with_python/)
 - [PDF Reports for SonarQube Analysis &lpar; Community Edition &rpar;](https://www.reddit.com/r/Python/comments/1d5j23c/pdf_reports_for_sonarqube_analysis_community/)
 - [I just shared a Python Pandas Data Cleaning video on YouTube](https://www.reddit.com/r/Python/comments/1d5j213/i_just_shared_a_python_pandas_data_cleaning_video/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1d59yfj/saturday_daily_thread_resource_request_and/)
-- [NEW RELEASE: Lightweight Python ORM Library](https://www.reddit.com/r/Python/comments/1d56fsr/new_release_lightweight_python_orm_library/)
 <!-- BLOG-POST-LIST:END -->
