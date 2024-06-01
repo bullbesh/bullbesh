@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PDF Reports for SonarQube Analysis &lpar; Community Edition &rpar;](https://www.reddit.com/r/Python/comments/1d5j23c/pdf_reports_for_sonarqube_analysis_community/)
+- [I just shared a Python Pandas Data Cleaning video on YouTube](https://www.reddit.com/r/Python/comments/1d5j213/i_just_shared_a_python_pandas_data_cleaning_video/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1d59yfj/saturday_daily_thread_resource_request_and/)
 - [NEW RELEASE: Lightweight Python ORM Library](https://www.reddit.com/r/Python/comments/1d56fsr/new_release_lightweight_python_orm_library/)
 - [Circler imports in Observer design pattern in Python](https://www.reddit.com/r/Python/comments/1d50age/circler_imports_in_observer_design_pattern_in/)
-- [AI Voice Assistant using on-device LLM, STT, TTS and Wake Word tech](https://www.reddit.com/r/Python/comments/1d4y99t/ai_voice_assistant_using_ondevice_llm_stt_tts_and/)
-- [AndroidWorld — Build and test AI agents on Android](https://www.reddit.com/r/Python/comments/1d4we3f/androidworld_build_and_test_ai_agents_on_android/)
 <!-- BLOG-POST-LIST:END -->
