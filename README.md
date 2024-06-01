@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Keep system awake &lpar;prevent sleep&rpar; using python: wakepy](https://www.reddit.com/r/Python/comments/1d5ya3k/keep_system_awake_prevent_sleep_using_python/)
 - [Calculator without eval&lpar;&rpar;](https://www.reddit.com/r/Python/comments/1d5wz32/calculator_without_eval/)
 - [NiimPrintX: A desktop app for NiimBot Label Printers developed in Python](https://www.reddit.com/r/Python/comments/1d5lkew/niimprintx_a_desktop_app_for_niimbot_label/)
 - [ReqFlow - Simplifying API Testing with Python](https://www.reddit.com/r/Python/comments/1d5k2ty/reqflow_simplifying_api_testing_with_python/)
 - [New project: A blend of Rust and Python: speeding up Python encryption](https://www.reddit.com/r/Python/comments/1d5jv4i/new_project_a_blend_of_rust_and_python_speeding/)
-- [A blend of Rust and Python: speeding up Python encryption](https://www.reddit.com/r/Python/comments/1d5jt6n/a_blend_of_rust_and_python_speeding_up_python/)
 <!-- BLOG-POST-LIST:END -->
