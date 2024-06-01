@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Thoughts on this amazing piece of code](https://www.reddit.com/r/Python/comments/1d5tkc7/thoughts_on_this_amazing_piece_of_code/)
-- [Frontend with python](https://www.reddit.com/r/Python/comments/1d5r9zy/frontend_with_python/)
+- [Calculator without eval&lpar;&rpar;](https://www.reddit.com/r/Python/comments/1d5wz32/calculator_without_eval/)
+- [NiimPrintX: A desktop app for NiimBot Label Printers developed in Python](https://www.reddit.com/r/Python/comments/1d5lkew/niimprintx_a_desktop_app_for_niimbot_label/)
 - [ReqFlow - Simplifying API Testing with Python](https://www.reddit.com/r/Python/comments/1d5k2ty/reqflow_simplifying_api_testing_with_python/)
-- [PDF Reports for SonarQube Analysis &lpar; Community Edition &rpar;](https://www.reddit.com/r/Python/comments/1d5j23c/pdf_reports_for_sonarqube_analysis_community/)
-- [I just shared a Python Pandas Data Cleaning video on YouTube](https://www.reddit.com/r/Python/comments/1d5j213/i_just_shared_a_python_pandas_data_cleaning_video/)
+- [New project: A blend of Rust and Python: speeding up Python encryption](https://www.reddit.com/r/Python/comments/1d5jv4i/new_project_a_blend_of_rust_and_python_speeding/)
+- [A blend of Rust and Python: speeding up Python encryption](https://www.reddit.com/r/Python/comments/1d5jt6n/a_blend_of_rust_and_python_speeding_up_python/)
 <!-- BLOG-POST-LIST:END -->
