@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Community Insights on PgQueuer](https://www.reddit.com/r/Python/comments/1d6csmw/community_insights_on_pgqueuer/)
-- [How to wreck your computer using sys and Python:-](https://www.reddit.com/r/Python/comments/1d66fe5/how_to_wreck_your_computer_using_sys_and_python/)
 - [A blend of Rust and Python: a faster encryption for Python](https://www.reddit.com/r/Python/comments/1d628t4/a_blend_of_rust_and_python_a_faster_encryption/)
 - [zeroize: Securely clear secrets from memory](https://www.reddit.com/r/Python/comments/1d620fk/zeroize_securely_clear_secrets_from_memory/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1d60h2g/sunday_daily_thread_whats_everyone_working_on/)
+- [Keep system awake &lpar;prevent sleep&rpar; using python: wakepy](https://www.reddit.com/r/Python/comments/1d5ya3k/keep_system_awake_prevent_sleep_using_python/)
 <!-- BLOG-POST-LIST:END -->
