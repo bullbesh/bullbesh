@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Self updating spreadsheet with popular questions from Ask Reddit and summarized answers using OpenAI](https://www.reddit.com/r/Python/comments/1d7fatn/self_updating_spreadsheet_with_popular_questions/)
 - [Python&#39;s many command-line utilities](https://www.reddit.com/r/Python/comments/1d7a1ql/pythons_many_commandline_utilities/)
 - [Tutorial on Surprisingly Simple Python Streamlit Dashboards](https://www.reddit.com/r/Python/comments/1d73q7e/tutorial_on_surprisingly_simple_python_streamlit/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1d6r5fc/monday_daily_thread_project_ideas/)
 - [Community Insights on PgQueuer](https://www.reddit.com/r/Python/comments/1d6csmw/community_insights_on_pgqueuer/)
-- [A blend of Rust and Python: a faster encryption for Python](https://www.reddit.com/r/Python/comments/1d628t4/a_blend_of_rust_and_python_a_faster_encryption/)
 <!-- BLOG-POST-LIST:END -->
