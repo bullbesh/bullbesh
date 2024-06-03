@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Voice integrated music application](https://www.reddit.com/r/Python/comments/1d71iqt/voice_integrated_music_application/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1d6r5fc/monday_daily_thread_project_ideas/)
 - [Community Insights on PgQueuer](https://www.reddit.com/r/Python/comments/1d6csmw/community_insights_on_pgqueuer/)
 - [A blend of Rust and Python: a faster encryption for Python](https://www.reddit.com/r/Python/comments/1d628t4/a_blend_of_rust_and_python_a_faster_encryption/)
 - [zeroize: Securely clear secrets from memory](https://www.reddit.com/r/Python/comments/1d620fk/zeroize_securely_clear_secrets_from_memory/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1d60h2g/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
