@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Input Armor Python package](https://www.reddit.com/r/Python/comments/1d77pu2/input_armor_python_package/)
 - [Tutorial on Surprisingly Simple Python Streamlit Dashboards](https://www.reddit.com/r/Python/comments/1d73q7e/tutorial_on_surprisingly_simple_python_streamlit/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1d6r5fc/monday_daily_thread_project_ideas/)
 - [Community Insights on PgQueuer](https://www.reddit.com/r/Python/comments/1d6csmw/community_insights_on_pgqueuer/)
 - [A blend of Rust and Python: a faster encryption for Python](https://www.reddit.com/r/Python/comments/1d628t4/a_blend_of_rust_and_python_a_faster_encryption/)
-- [zeroize: Securely clear secrets from memory](https://www.reddit.com/r/Python/comments/1d620fk/zeroize_securely_clear_secrets_from_memory/)
 <!-- BLOG-POST-LIST:END -->
