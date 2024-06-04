@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Revising for 13 weeks worth of contents for a python exam](https://www.reddit.com/r/Python/comments/1d80j99/revising_for_13_weeks_worth_of_contents_for_a/)
 - [What quantifiable metrics do you consider when deeming good code?](https://www.reddit.com/r/Python/comments/1d7ytts/what_quantifiable_metrics_do_you_consider_when/)
 - [Dask DataFrame is Fast Now!](https://www.reddit.com/r/Python/comments/1d7w21f/dask_dataframe_is_fast_now/)
 - [Notion2Pandas: A new python package to import Notion Database into Pandas framework and viceversa](https://www.reddit.com/r/Python/comments/1d7vc3k/notion2pandas_a_new_python_package_to_import/)
 - [Ludic Update: Web Apps in pure Python with HTMX, Themes, Component Catalog, new Documentation](https://www.reddit.com/r/Python/comments/1d7sl6k/ludic_update_web_apps_in_pure_python_with_htmx/)
-- [Rate Limiting + Multiprocessing = Nightmare? But I think I&#39;ve found one nice way to do it 🤞](https://www.reddit.com/r/Python/comments/1d7rvd2/rate_limiting_multiprocessing_nightmare_but_i/)
 <!-- BLOG-POST-LIST:END -->
