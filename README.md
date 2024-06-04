@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Free api for Instagram](https://www.reddit.com/r/Python/comments/1d7hws6/free_api_for_instagram/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1d7jhlf/tuesday_daily_thread_advanced_questions/)
 - [Self updating spreadsheet with popular questions from Ask Reddit and summarized answers using OpenAI](https://www.reddit.com/r/Python/comments/1d7fatn/self_updating_spreadsheet_with_popular_questions/)
 - [Python&#39;s many command-line utilities](https://www.reddit.com/r/Python/comments/1d7a1ql/pythons_many_commandline_utilities/)
 - [Tutorial on Surprisingly Simple Python Streamlit Dashboards](https://www.reddit.com/r/Python/comments/1d73q7e/tutorial_on_surprisingly_simple_python_streamlit/)
