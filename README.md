@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Social Media Content Generation Bot](https://www.reddit.com/r/Python/comments/1d89b03/social_media_content_generation_bot/)
 - [My little ChatGPT-Multimodal Server Starter](https://www.reddit.com/r/Python/comments/1d8754q/my_little_chatgptmultimodal_server_starter/)
 - [mamba.np: pure NumPy implementation of Mamba](https://www.reddit.com/r/Python/comments/1d843tj/mambanp_pure_numpy_implementation_of_mamba/)
 - [Dask DataFrame is Fast Now!](https://www.reddit.com/r/Python/comments/1d7w21f/dask_dataframe_is_fast_now/)
 - [Notion2Pandas: A new python package to import Notion Database into Pandas framework and viceversa](https://www.reddit.com/r/Python/comments/1d7vc3k/notion2pandas_a_new_python_package_to_import/)
-- [Ludic Update: Web Apps in pure Python with HTMX, Themes, Component Catalog, new Documentation](https://www.reddit.com/r/Python/comments/1d7sl6k/ludic_update_web_apps_in_pure_python_with_htmx/)
 <!-- BLOG-POST-LIST:END -->
