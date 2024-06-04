@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to download a online pdf via &quot;vpn&quot; using python?](https://www.reddit.com/r/Python/comments/1d7to6d/how_to_download_a_online_pdf_via_vpn_using_python/)
 - [Ludic Update: Web Apps in pure Python with HTMX, Themes, Component Catalog, new Documentation](https://www.reddit.com/r/Python/comments/1d7sl6k/ludic_update_web_apps_in_pure_python_with_htmx/)
 - [I need you guys on this one](https://www.reddit.com/r/Python/comments/1d7s9j4/i_need_you_guys_on_this_one/)
 - [Granian 1.4 is out](https://www.reddit.com/r/Python/comments/1d7rh4z/granian_14_is_out/)
 - [Python Automation Possibility](https://www.reddit.com/r/Python/comments/1d7ot1e/python_automation_possibility/)
-- [Values dropped after merging data frames](https://www.reddit.com/r/Python/comments/1d7orc5/values_dropped_after_merging_data_frames/)
 <!-- BLOG-POST-LIST:END -->
