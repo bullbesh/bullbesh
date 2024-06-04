@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Granian 1.4 is out](https://www.reddit.com/r/Python/comments/1d7rh4z/granian_14_is_out/)
 - [Python Automation Possibility](https://www.reddit.com/r/Python/comments/1d7ot1e/python_automation_possibility/)
 - [Values dropped after merging data frames](https://www.reddit.com/r/Python/comments/1d7orc5/values_dropped_after_merging_data_frames/)
 - [PyODMongo an ODM for MongoDB](https://www.reddit.com/r/Python/comments/1d7mhrr/pyodmongo_an_odm_for_mongodb/)
 - [Using python for static typing benefits](https://www.reddit.com/r/Python/comments/1d7lgh7/using_python_for_static_typing_benefits/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1d7jhlf/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
