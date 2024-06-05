@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Way to Obfuscate Codebase?](https://www.reddit.com/r/Python/comments/1d8xuqj/best_way_to_obfuscate_codebase/)
 - [Bayesian bandits item pricing in a simplified Moonlighter shop simulation using Python and SQLite](https://www.reddit.com/r/Python/comments/1d8uex2/bayesian_bandits_item_pricing_in_a_simplified/)
 - [Tach - enforce module boundaries + deps, now in Rust 🦀](https://www.reddit.com/r/Python/comments/1d8sgbp/tach_enforce_module_boundaries_deps_now_in_rust/)
 - [Automate your WordPress new-page creation with Python](https://www.reddit.com/r/Python/comments/1d8r2nx/automate_your_wordpress_newpage_creation_with/)
 - [Polars news: Faster CSV writer, dead expr elimination optimization, hiring engineers.](https://www.reddit.com/r/Python/comments/1d8mv0a/polars_news_faster_csv_writer_dead_expr/)
-- [Mesop, open-source Python UI framework used at Google to quickly build delightful web apps](https://www.reddit.com/r/Python/comments/1d8g19p/mesop_opensource_python_ui_framework_used_at/)
 <!-- BLOG-POST-LIST:END -->
