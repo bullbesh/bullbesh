@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bayesian bandits item pricing in a simplified Moonlighter shop simulation using Python and SQLite](https://www.reddit.com/r/Python/comments/1d8uex2/bayesian_bandits_item_pricing_in_a_simplified/)
 - [Tach - enforce module boundaries + deps, now in Rust 🦀](https://www.reddit.com/r/Python/comments/1d8sgbp/tach_enforce_module_boundaries_deps_now_in_rust/)
 - [Automate your WordPress new-page creation with Python](https://www.reddit.com/r/Python/comments/1d8r2nx/automate_your_wordpress_newpage_creation_with/)
 - [Polars news: Faster CSV writer, dead expr elimination optimization, hiring engineers.](https://www.reddit.com/r/Python/comments/1d8mv0a/polars_news_faster_csv_writer_dead_expr/)
 - [PSA: PySimpleGUI has deleted [almost] all old LGPL versions from PyPI; update your dependencies](https://www.reddit.com/r/Python/comments/1d8d4iv/psa_pysimplegui_has_deleted_almost_all_old_lgpl/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1d8c6yw/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
