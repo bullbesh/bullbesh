@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PSA: PySimpleGUI has deleted [almost] all old LGPL versions from PyPI; update your dependencies](https://www.reddit.com/r/Python/comments/1d8d4iv/psa_pysimplegui_has_deleted_almost_all_old_lgpl/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1d8c6yw/wednesday_daily_thread_beginner_questions/)
 - [Social Media Content Generation Bot](https://www.reddit.com/r/Python/comments/1d89b03/social_media_content_generation_bot/)
 - [My little ChatGPT-Multimodal Server Starter](https://www.reddit.com/r/Python/comments/1d8754q/my_little_chatgptmultimodal_server_starter/)
 - [mamba.np: pure NumPy implementation of Mamba](https://www.reddit.com/r/Python/comments/1d843tj/mambanp_pure_numpy_implementation_of_mamba/)
-- [Dask DataFrame is Fast Now!](https://www.reddit.com/r/Python/comments/1d7w21f/dask_dataframe_is_fast_now/)
-- [Notion2Pandas: A new python package to import Notion Database into Pandas framework and viceversa](https://www.reddit.com/r/Python/comments/1d7vc3k/notion2pandas_a_new_python_package_to_import/)
 <!-- BLOG-POST-LIST:END -->
