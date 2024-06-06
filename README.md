@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a video on why you should be careful when using Python dictionaries as function parameter](https://www.reddit.com/r/Python/comments/1d9upsj/i_created_a_video_on_why_you_should_be_careful/)
 - [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1d9rg5b/the_python_on_microcontrollers_and_raspberry_pi/)
 - [What are the best Python projects you&#39;ve worked on?](https://www.reddit.com/r/Python/comments/1d9r9xa/what_are_the_best_python_projects_youve_worked_on/)
 - [bulk mailman list creation](https://www.reddit.com/r/Python/comments/1d9pwgh/bulk_mailman_list_creation/)
 - [Tutorial: How To Create Professional Python Shiny Dashboards In A Jiffy](https://www.reddit.com/r/Python/comments/1d9lsgd/tutorial_how_to_create_professional_python_shiny/)
-- [Problem with Python Interpreter on VS Code](https://www.reddit.com/r/Python/comments/1d9jn1t/problem_with_python_interpreter_on_vs_code/)
 <!-- BLOG-POST-LIST:END -->
