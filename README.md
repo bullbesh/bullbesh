@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I learned several tools for data annotation. Is anyone interested in assigning me some tasks?](https://www.reddit.com/r/Python/comments/1d9j1s7/i_learned_several_tools_for_data_annotation_is/)
+- [Bot con python y flask](https://www.reddit.com/r/Python/comments/1d9iwpt/bot_con_python_y_flask/)
+- [RESTful API Hosting](https://www.reddit.com/r/Python/comments/1d9ieqm/restful_api_hosting/)
 - [Lightning-Fast Text Classification with LLM Embeddings on CPU](https://www.reddit.com/r/Python/comments/1d9g7qz/lightningfast_text_classification_with_llm/)
 - [Beginer Python code](https://www.reddit.com/r/Python/comments/1d9ejva/beginer_python_code/)
-- [Tuples Are Underrated! List vs Tuple 🐍](https://www.reddit.com/r/Python/comments/1d9cfxq/tuples_are_underrated_list_vs_tuple/)
-- [Request for Collaboration on Equinox Architecture for LLM , code in python](https://www.reddit.com/r/Python/comments/1d9b91w/request_for_collaboration_on_equinox_architecture/)
-- [Fields and class properties should be sorted alphabetically?](https://www.reddit.com/r/Python/comments/1d9awdu/fields_and_class_properties_should_be_sorted/)
 <!-- BLOG-POST-LIST:END -->
