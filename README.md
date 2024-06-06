@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [anyone is here to discuss how can we make a youtube view bot with python..??](https://www.reddit.com/r/Python/comments/1d9abwq/anyone_is_here_to_discuss_how_can_we_make_a/)
 - [GUI based crypto currency clipper malware builder](https://www.reddit.com/r/Python/comments/1d96cel/gui_based_crypto_currency_clipper_malware_builder/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1d94r90/thursday_daily_thread_python_careers_courses_and/)
 - [Wave Equation Solver in Python](https://www.reddit.com/r/Python/comments/1d91ylf/wave_equation_solver_in_python/)
 - [Code review for my simple project](https://www.reddit.com/r/Python/comments/1d91hsb/code_review_for_my_simple_project/)
-- [Bayesian bandits item pricing in a simplified Moonlighter shop simulation using Python and SQLite](https://www.reddit.com/r/Python/comments/1d8uex2/bayesian_bandits_item_pricing_in_a_simplified/)
 <!-- BLOG-POST-LIST:END -->
