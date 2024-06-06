@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Problem with Python Interpreter on VS Code](https://www.reddit.com/r/Python/comments/1d9jn1t/problem_with_python_interpreter_on_vs_code/)
 - [I learned several tools for data annotation. Is anyone interested in assigning me some tasks?](https://www.reddit.com/r/Python/comments/1d9j1s7/i_learned_several_tools_for_data_annotation_is/)
 - [Bot con python y flask](https://www.reddit.com/r/Python/comments/1d9iwpt/bot_con_python_y_flask/)
 - [RESTful API Hosting](https://www.reddit.com/r/Python/comments/1d9ieqm/restful_api_hosting/)
 - [Lightning-Fast Text Classification with LLM Embeddings on CPU](https://www.reddit.com/r/Python/comments/1d9g7qz/lightningfast_text_classification_with_llm/)
-- [Beginer Python code](https://www.reddit.com/r/Python/comments/1d9ejva/beginer_python_code/)
 <!-- BLOG-POST-LIST:END -->
