@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Excel to Python: I made a tool that reads your Excel file and translates it to a Python script](https://www.reddit.com/r/Python/comments/1da8z0i/excel_to_python_i_made_a_tool_that_reads_your/)
 - [Instant Python pipeline from OpenAPI spec](https://www.reddit.com/r/Python/comments/1da5uvv/instant_python_pipeline_from_openapi_spec/)
 - [Password protect Pdf using python](https://www.reddit.com/r/Python/comments/1da5fpo/password_protect_pdf_using_python/)
 - [Python script to automate Bing searches for reward generation](https://www.reddit.com/r/Python/comments/1da3dys/python_script_to_automate_bing_searches_for/)
 - [Matplotlib: Updating plot slow with canvas.draw&lpar;&rpar;, fast with plt.draw&lpar;&rpar;, why?](https://www.reddit.com/r/Python/comments/1da35su/matplotlib_updating_plot_slow_with_canvasdraw/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1d9x34c/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
