@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Automated YouTube and IG with Python](https://www.reddit.com/r/Python/comments/1dad1na/automated_youtube_and_ig_with_python/)
+- [Ideas needed - segmentation project](https://www.reddit.com/r/Python/comments/1daedn8/ideas_needed_segmentation_project/)
 - [YouTube playlist with 100 most-watched Python 2023 conference talks](https://www.reddit.com/r/Python/comments/1dab3m7/youtube_playlist_with_100_mostwatched_python_2023/)
 - [WARNING TO EVERYONE USING AUTO PY TO EXE](https://www.reddit.com/r/Python/comments/1daaer2/warning_to_everyone_using_auto_py_to_exe/)
 - [Excel to Python: I made a tool that reads your Excel file and translates it to a Python script](https://www.reddit.com/r/Python/comments/1da8z0i/excel_to_python_i_made_a_tool_that_reads_your/)
