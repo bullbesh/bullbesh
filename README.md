@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Used &quot;Py To EXE&quot; and It Showed a i assumed a false positive on a script i wrote &quot;i assumed...&quot;](https://www.reddit.com/r/Python/comments/1da3ouy/used_py_to_exe_and_it_showed_a_i_assumed_a_false/)
+- [Python script to automate Bing searches for reward generation](https://www.reddit.com/r/Python/comments/1da3dys/python_script_to_automate_bing_searches_for/)
+- [Matplotlib: Updating plot slow with canvas.draw&lpar;&rpar;, fast with plt.draw&lpar;&rpar;, why?](https://www.reddit.com/r/Python/comments/1da35su/matplotlib_updating_plot_slow_with_canvasdraw/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1d9x34c/friday_daily_thread_rpython_meta_and_freetalk/)
 - [I created a video on why you should be careful when using Python dictionaries as function parameter](https://www.reddit.com/r/Python/comments/1d9upsj/i_created_a_video_on_why_you_should_be_careful/)
-- [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1d9rg5b/the_python_on_microcontrollers_and_raspberry_pi/)
-- [What are the best Python projects you&#39;ve worked on?](https://www.reddit.com/r/Python/comments/1d9r9xa/what_are_the_best_python_projects_youve_worked_on/)
-- [Tutorial: How To Create Professional Python Shiny Dashboards In A Jiffy](https://www.reddit.com/r/Python/comments/1d9lsgd/tutorial_how_to_create_professional_python_shiny/)
 <!-- BLOG-POST-LIST:END -->
