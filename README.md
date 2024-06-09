@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Request to journalists: no snakes](https://www.reddit.com/r/Python/comments/1dbm916/request_to_journalists_no_snakes/)
 - [Just released my first Python package: Melodica Notes 🎶](https://www.reddit.com/r/Python/comments/1dblgl3/just_released_my_first_python_package_melodica/)
 - [Flappy Berd in PyQt](https://www.reddit.com/r/Python/comments/1dbinqz/flappy_berd_in_pyqt/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1dbggp6/sunday_daily_thread_whats_everyone_working_on/)
-- [Esoteric programming language](https://www.reddit.com/r/Python/comments/1dbb4v8/esoteric_programming_language/)
 - [Async Python adoption?](https://www.reddit.com/r/Python/comments/1dbasxr/async_python_adoption/)
 <!-- BLOG-POST-LIST:END -->
