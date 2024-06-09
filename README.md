@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flappy Berd in PyQt](https://www.reddit.com/r/Python/comments/1dbinqz/flappy_berd_in_pyqt/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1dbggp6/sunday_daily_thread_whats_everyone_working_on/)
 - [Esoteric programming language](https://www.reddit.com/r/Python/comments/1dbb4v8/esoteric_programming_language/)
 - [Async Python adoption?](https://www.reddit.com/r/Python/comments/1dbasxr/async_python_adoption/)
 - [Seeking Feedback: Should Robyn&lpar;Web Framework&rpar; Support ASGI?](https://www.reddit.com/r/Python/comments/1db64l2/seeking_feedback_should_robynweb_framework/)
-- [Archand: Control your mouse entirely using hand gestures.](https://www.reddit.com/r/Python/comments/1db05gm/archand_control_your_mouse_entirely_using_hand/)
 <!-- BLOG-POST-LIST:END -->
