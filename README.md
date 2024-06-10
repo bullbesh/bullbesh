@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kivy School - Crowdfunding Update](https://www.reddit.com/r/Python/comments/1dcky9z/kivy_school_crowdfunding_update/)
 - [ChatGPT hallucinated a plugin called pytest-edit. So I created it.](https://www.reddit.com/r/Python/comments/1dchk4g/chatgpt_hallucinated_a_plugin_called_pytestedit/)
 - [Understanding Python Decorators](https://www.reddit.com/r/Python/comments/1dcfzo8/understanding_python_decorators/)
-- [How to run IO bound operations concurrently](https://www.reddit.com/r/Python/comments/1dcf0af/how_to_run_io_bound_operations_concurrently/)
 - [Why would anyone use pyqt if pyside exists](https://www.reddit.com/r/Python/comments/1dcedjb/why_would_anyone_use_pyqt_if_pyside_exists/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1dc82nr/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
