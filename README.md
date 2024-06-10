@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Problems with Celery](https://www.reddit.com/r/Python/comments/1dcntpa/the_problems_with_celery/)
-- [I have made an open source library for logging errors / messages :&rpar;](https://www.reddit.com/r/Python/comments/1dcnr8p/i_have_made_an_open_source_library_for_logging/)
-- [Kivy School - Crowdfunding Update](https://www.reddit.com/r/Python/comments/1dcky9z/kivy_school_crowdfunding_update/)
-- [ChatGPT hallucinated a plugin called pytest-edit. So I created it.](https://www.reddit.com/r/Python/comments/1dchk4g/chatgpt_hallucinated_a_plugin_called_pytestedit/)
-- [Understanding Python Decorators](https://www.reddit.com/r/Python/comments/1dcfzo8/understanding_python_decorators/)
+- [How to convert text file into Excel file using python pandas?](https://www.reddit.com/r/Python/comments/1dcv7q0/how_to_convert_text_file_into_excel_file_using/)
+- [TIL that selenium has opt out telemetry. what other common packages do this / similar experiences?](https://www.reddit.com/r/Python/comments/1dcuv0y/til_that_selenium_has_opt_out_telemetry_what/)
+- [I need this book: Python For Data Science](https://www.reddit.com/r/Python/comments/1dcu76c/i_need_this_book_python_for_data_science/)
+- [Python and django or data analytics](https://www.reddit.com/r/Python/comments/1dct75c/python_and_django_or_data_analytics/)
+- [open source CLI tool for finding out how programs work](https://www.reddit.com/r/Python/comments/1dcqw42/open_source_cli_tool_for_finding_out_how_programs/)
 <!-- BLOG-POST-LIST:END -->
