@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Python Decorators](https://www.reddit.com/r/Python/comments/1dcfzo8/understanding_python_decorators/)
 - [How to run IO bound operations concurrently](https://www.reddit.com/r/Python/comments/1dcf0af/how_to_run_io_bound_operations_concurrently/)
 - [Why would anyone use pyqt if pyside exists](https://www.reddit.com/r/Python/comments/1dcedjb/why_would_anyone_use_pyqt_if_pyside_exists/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1dc82nr/monday_daily_thread_project_ideas/)
 - [CopySave - And easy to use clipboard manager](https://www.reddit.com/r/Python/comments/1dbz3o0/copysave_and_easy_to_use_clipboard_manager/)
-- [steer - An interactive CLI tool to write json and yaml file from JSON schemas](https://www.reddit.com/r/Python/comments/1dbyrs2/steer_an_interactive_cli_tool_to_write_json_and/)
 <!-- BLOG-POST-LIST:END -->
