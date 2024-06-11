@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Python workshops](https://www.reddit.com/r/Python/comments/1dd9b6e/virtual_python_workshops/)
 - [Building an HTTP Server in Python](https://www.reddit.com/r/Python/comments/1dd6tud/building_an_http_server_in_python/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1dd0jsu/tuesday_daily_thread_advanced_questions/)
 - [EFT - A file extension for implementing user created themes](https://www.reddit.com/r/Python/comments/1dcwu86/eft_a_file_extension_for_implementing_user/)
 - [TIL that selenium has opt out telemetry. what other common packages do this / similar experiences?](https://www.reddit.com/r/Python/comments/1dcuv0y/til_that_selenium_has_opt_out_telemetry_what/)
-- [open source CLI tool for finding out how programs work](https://www.reddit.com/r/Python/comments/1dcqw42/open_source_cli_tool_for_finding_out_how_programs/)
 <!-- BLOG-POST-LIST:END -->
