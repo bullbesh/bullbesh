@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open-source AI shorts generator in python](https://www.reddit.com/r/Python/comments/1de8hji/opensource_ai_shorts_generator_in_python/)
 - [My Thoughts on Python in Excel](https://www.reddit.com/r/Python/comments/1de2hkw/my_thoughts_on_python_in_excel/)
 - [Tiny Python for x64 Server 2022?](https://www.reddit.com/r/Python/comments/1ddyod5/tiny_python_for_x64_server_2022/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1ddt1vh/wednesday_daily_thread_beginner_questions/)
 - [Made a Minimalistic Router for Uvicorn](https://www.reddit.com/r/Python/comments/1ddqqab/made_a_minimalistic_router_for_uvicorn/)
-- [Kwargs appreciation thread](https://www.reddit.com/r/Python/comments/1ddnokn/kwargs_appreciation_thread/)
 <!-- BLOG-POST-LIST:END -->
