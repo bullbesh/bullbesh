@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1ddt1vh/wednesday_daily_thread_beginner_questions/)
 - [Made a Minimalistic Router for Uvicorn](https://www.reddit.com/r/Python/comments/1ddqqab/made_a_minimalistic_router_for_uvicorn/)
 - [Kwargs appreciation thread](https://www.reddit.com/r/Python/comments/1ddnokn/kwargs_appreciation_thread/)
 - [Textchat: TUI Single Server IRC Client](https://www.reddit.com/r/Python/comments/1ddnhs7/textchat_tui_single_server_irc_client/)
 - [Python CLIs becoming too slow.](https://www.reddit.com/r/Python/comments/1ddlzyr/python_clis_becoming_too_slow/)
-- [Python Open-CV Tool-Chip Contact Length Calculation](https://www.reddit.com/r/Python/comments/1ddcyun/python_opencv_toolchip_contact_length_calculation/)
 <!-- BLOG-POST-LIST:END -->
