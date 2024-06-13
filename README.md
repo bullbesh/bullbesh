@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pathway - Build Mission Critical ETL and RAG in Python &lpar;used by NATO, F1&rpar;](https://www.reddit.com/r/Python/comments/1dezxa3/pathway_build_mission_critical_etl_and_rag_in/)
+- [Building AI Text-to-Video Model From Scratch](https://www.reddit.com/r/Python/comments/1dez1ru/building_ai_texttovideo_model_from_scratch/)
 - [Developing long-running reliable workflows in just a few lines of code](https://www.reddit.com/r/Python/comments/1dev9p8/developing_longrunning_reliable_workflows_in_just/)
 - [uv added experimental commands for `uv add/remove`](https://www.reddit.com/r/Python/comments/1desxf4/uv_added_experimental_commands_for_uv_addremove/)
 - [Try PyCharm &lpar;30% off!&rpar; and they donate 100% to the Django Software Foundation](https://www.reddit.com/r/Python/comments/1delqyn/try_pycharm_30_off_and_they_donate_100_to_the/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1delgo1/thursday_daily_thread_python_careers_courses_and/)
-- [Question about pyton](https://www.reddit.com/r/Python/comments/1defj77/question_about_pyton/)
 <!-- BLOG-POST-LIST:END -->
