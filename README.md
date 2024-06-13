@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [a new version of ultimateultimateguitar](https://www.reddit.com/r/Python/comments/1df7w7f/a_new_version_of_ultimateultimateguitar/)
+- [Anyone can explain the error Contract execution failed: &lpar;&#39;0x15e26ff3&#39;, &#39;0x15e26ff3&#39;&rpar; to me?](https://www.reddit.com/r/Python/comments/1df7cke/anyone_can_explain_the_error_contract_execution/)
 - [Vedo or PyVista?](https://www.reddit.com/r/Python/comments/1df1546/vedo_or_pyvista/)
 - [Pathway - Build Mission Critical ETL and RAG in Python &lpar;used by NATO, F1&rpar;](https://www.reddit.com/r/Python/comments/1dezxa3/pathway_build_mission_critical_etl_and_rag_in/)
 - [Building AI Text-to-Video Model From Scratch](https://www.reddit.com/r/Python/comments/1dez1ru/building_ai_texttovideo_model_from_scratch/)
-- [uv added experimental commands for `uv add/remove`](https://www.reddit.com/r/Python/comments/1desxf4/uv_added_experimental_commands_for_uv_addremove/)
-- [Try PyCharm &lpar;30% off!&rpar; and they donate 100% to the Django Software Foundation](https://www.reddit.com/r/Python/comments/1delqyn/try_pycharm_30_off_and_they_donate_100_to_the/)
 <!-- BLOG-POST-LIST:END -->
