@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Rust-based regex port for Python3 to get faster performance. 👾](https://www.reddit.com/r/Python/comments/1dfttvw/a_rustbased_regex_port_for_python3_to_get_faster/)
+- [Problem details for FastAPI applications &lpar;RFC9457&rpar;](https://www.reddit.com/r/Python/comments/1dftrbu/problem_details_for_fastapi_applications_rfc9457/)
+- [I made an MMORPG with Python &amp; Telegram in 4 weeks](https://www.reddit.com/r/Python/comments/1dftgrl/i_made_an_mmorpg_with_python_telegram_in_4_weeks/)
 - [My first Python package, D1py: A very simple library to interact with Cloudflare D1 Database API](https://www.reddit.com/r/Python/comments/1dft2qf/my_first_python_package_d1py_a_very_simple/)
 - [Perpetual - a self-generalizing, hyperparameter-free gradient boosting machine](https://www.reddit.com/r/Python/comments/1dfrpzk/perpetual_a_selfgeneralizing_hyperparameterfree/)
-- [I ported Rust&#39;s Regex Library To Python, but the time taken by the compile parameter was high.](https://www.reddit.com/r/Python/comments/1dfl5ja/i_ported_rusts_regex_library_to_python_but_the/)
-- [Regarding re.match&lpar;&rpar; and match keyword.](https://www.reddit.com/r/Python/comments/1dfk5mj/regarding_rematch_and_match_keyword/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1dfdinp/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
