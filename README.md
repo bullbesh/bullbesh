@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Databricks error &#39;list not callable&#39;](https://www.reddit.com/r/Python/comments/1dgqdq1/databricks_error_list_not_callable/)
+- [I made a cool calendar app with PyQt6](https://www.reddit.com/r/Python/comments/1dgpg4g/i_made_a_cool_calendar_app_with_pyqt6/)
 - [Sending SMS through GoIP GSM gateway using HTTP API](https://www.reddit.com/r/Python/comments/1dgo671/sending_sms_through_goip_gsm_gateway_using_http/)
 - [Trying to obtain the key associated with the max value from a dictionary](https://www.reddit.com/r/Python/comments/1dgni1f/trying_to_obtain_the_key_associated_with_the_max/)
 - [Better-OrderedMultiDict - a fast pure-pyton implementation of an ordered multi-valued dictionary.](https://www.reddit.com/r/Python/comments/1dgmtbx/betterorderedmultidict_a_fast_purepyton/)
-- [Global Silent Disco Live Broadcasting app](https://www.reddit.com/r/Python/comments/1dgmcdo/global_silent_disco_live_broadcasting_app/)
-- [Cant decide between flask, django ninja or fastAPI for sideproject](https://www.reddit.com/r/Python/comments/1dgbq1e/cant_decide_between_flask_django_ninja_or_fastapi/)
 <!-- BLOG-POST-LIST:END -->
