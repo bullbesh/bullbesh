@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sending SMS through GoIP GSM gateway using HTTP API](https://www.reddit.com/r/Python/comments/1dgo671/sending_sms_through_goip_gsm_gateway_using_http/)
+- [Trying to obtain the key associated with the max value from a dictionary](https://www.reddit.com/r/Python/comments/1dgni1f/trying_to_obtain_the_key_associated_with_the_max/)
+- [Better-OrderedMultiDict - a fast pure-pyton implementation of an ordered multi-valued dictionary.](https://www.reddit.com/r/Python/comments/1dgmtbx/betterorderedmultidict_a_fast_purepyton/)
 - [Global Silent Disco Live Broadcasting app](https://www.reddit.com/r/Python/comments/1dgmcdo/global_silent_disco_live_broadcasting_app/)
-- [My honest opinions about Typer.](https://www.reddit.com/r/Python/comments/1dglfxf/my_honest_opinions_about_typer/)
 - [Cant decide between flask, django ninja or fastAPI for sideproject](https://www.reddit.com/r/Python/comments/1dgbq1e/cant_decide_between_flask_django_ninja_or_fastapi/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1dg4zxe/saturday_daily_thread_resource_request_and/)
-- [Introducing Temporal Adjusters: Simplify Time Series Adjustments in Python!](https://www.reddit.com/r/Python/comments/1dg4fkv/introducing_temporal_adjusters_simplify_time/)
 <!-- BLOG-POST-LIST:END -->
