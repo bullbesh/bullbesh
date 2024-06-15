@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cant decide between flask, django ninja or fastAPI for sideproject](https://www.reddit.com/r/Python/comments/1dgbq1e/cant_decide_between_flask_django_ninja_or_fastapi/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1dg4zxe/saturday_daily_thread_resource_request_and/)
 - [Introducing Temporal Adjusters: Simplify Time Series Adjustments in Python!](https://www.reddit.com/r/Python/comments/1dg4fkv/introducing_temporal_adjusters_simplify_time/)
 - [Python automation ideas](https://www.reddit.com/r/Python/comments/1dg4cof/python_automation_ideas/)
 - [Created an Api for APKpure](https://www.reddit.com/r/Python/comments/1dg2crg/created_an_api_for_apkpure/)
-- [Need to generate Oromo subtitle. Also translate into English if possible.](https://www.reddit.com/r/Python/comments/1dfvnuc/need_to_generate_oromo_subtitle_also_translate/)
 <!-- BLOG-POST-LIST:END -->
