@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial: A Timely Python Multi-page Streamlit Application on Olympic Medal Winning Countries](https://www.reddit.com/r/Python/comments/1dh2o89/tutorial_a_timely_python_multipage_streamlit/)
 - [Built a RAG &lpar;Relative Argumented Generation&rpar; model using Gemini Api](https://www.reddit.com/r/Python/comments/1dh23r2/built_a_rag_relative_argumented_generation_model/)
 - [Have anyone tried google/mesop](https://www.reddit.com/r/Python/comments/1dh1uu1/have_anyone_tried_googlemesop/)
 - [Learning Python coming from a JVM background](https://www.reddit.com/r/Python/comments/1dgye28/learning_python_coming_from_a_jvm_background/)
 - [Malicious VSCode Extensions Uncovered: Beware my fellow programmers](https://www.reddit.com/r/Python/comments/1dgy8s7/malicious_vscode_extensions_uncovered_beware_my/)
-- [An ugly spot of the Python language?](https://www.reddit.com/r/Python/comments/1dgvofi/an_ugly_spot_of_the_python_language/)
 <!-- BLOG-POST-LIST:END -->
