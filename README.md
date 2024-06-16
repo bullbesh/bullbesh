@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built a RAG &lpar;Relative Argumented Generation&rpar; model using Gemini Api](https://www.reddit.com/r/Python/comments/1dh23r2/built_a_rag_relative_argumented_generation_model/)
+- [Have anyone tried google/mesop](https://www.reddit.com/r/Python/comments/1dh1uu1/have_anyone_tried_googlemesop/)
 - [Learning Python coming from a JVM background](https://www.reddit.com/r/Python/comments/1dgye28/learning_python_coming_from_a_jvm_background/)
 - [Malicious VSCode Extensions Uncovered: Beware my fellow programmers](https://www.reddit.com/r/Python/comments/1dgy8s7/malicious_vscode_extensions_uncovered_beware_my/)
 - [An ugly spot of the Python language?](https://www.reddit.com/r/Python/comments/1dgvofi/an_ugly_spot_of_the_python_language/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1dgv2s3/sunday_daily_thread_whats_everyone_working_on/)
-- [Tutoring school backend FastApi -Google Calendar Review](https://www.reddit.com/r/Python/comments/1dgtohu/tutoring_school_backend_fastapi_google_calendar/)
 <!-- BLOG-POST-LIST:END -->
