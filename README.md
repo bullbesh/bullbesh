@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a script to automatically patch revanced](https://www.reddit.com/r/Python/comments/1dhfnl6/i_created_a_script_to_automatically_patch_revanced/)
 - [abstract-factories - a simple framework for content creation pipelines](https://www.reddit.com/r/Python/comments/1dhcdre/abstractfactories_a_simple_framework_for_content/)
 - [Api for odds and results on prop bets?](https://www.reddit.com/r/Python/comments/1dh8qmb/api_for_odds_and_results_on_prop_bets/)
 - [LLM Observability and RAG in just 10 lines of Code](https://www.reddit.com/r/Python/comments/1dh7s76/llm_observability_and_rag_in_just_10_lines_of_code/)
 - [Video / Image acquisition from microscope](https://www.reddit.com/r/Python/comments/1dh7ntt/video_image_acquisition_from_microscope/)
-- [Have you tried the LogiTyme package on PyPI?](https://www.reddit.com/r/Python/comments/1dh71gw/have_you_tried_the_logityme_package_on_pypi/)
 <!-- BLOG-POST-LIST:END -->
