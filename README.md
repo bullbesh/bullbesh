@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trying out my Stock Trading Strategy with Historical Data!](https://www.reddit.com/r/Python/comments/1dhik04/trying_out_my_stock_trading_strategy_with/)
+- [Showcase: pdf-to-podcast.com -- Convert PDF&#39;s to podcast episodes. Free and open-source :&rpar;](https://www.reddit.com/r/Python/comments/1dhii88/showcase_pdftopodcastcom_convert_pdfs_to_podcast/)
+- [Efficient Resource Management in Python: A Guide to Using Context Managers](https://www.reddit.com/r/Python/comments/1dhi86n/efficient_resource_management_in_python_a_guide/)
+- [pieshell: python for shell scripting and as an interactive shell](https://www.reddit.com/r/Python/comments/1dhhohd/pieshell_python_for_shell_scripting_and_as_an/)
 - [I created a script to automatically patch revanced](https://www.reddit.com/r/Python/comments/1dhfnl6/i_created_a_script_to_automatically_patch_revanced/)
-- [abstract-factories - a simple framework for content creation pipelines](https://www.reddit.com/r/Python/comments/1dhcdre/abstractfactories_a_simple_framework_for_content/)
-- [Api for odds and results on prop bets?](https://www.reddit.com/r/Python/comments/1dh8qmb/api_for_odds_and_results_on_prop_bets/)
-- [LLM Observability and RAG in just 10 lines of Code](https://www.reddit.com/r/Python/comments/1dh7s76/llm_observability_and_rag_in_just_10_lines_of_code/)
-- [Video / Image acquisition from microscope](https://www.reddit.com/r/Python/comments/1dh7ntt/video_image_acquisition_from_microscope/)
 <!-- BLOG-POST-LIST:END -->
