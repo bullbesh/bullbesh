@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open source Python projects with great software design that is worth studying](https://www.reddit.com/r/Python/comments/1di5sfy/open_source_python_projects_with_great_software/)
+- [Aurora: An extensible Python static site generator](https://www.reddit.com/r/Python/comments/1di1v8c/aurora_an_extensible_python_static_site_generator/)
 - [Privacy-first natural language to SQL + charting + editing app](https://www.reddit.com/r/Python/comments/1dhzt9o/privacyfirst_natural_language_to_sql_charting/)
 - [Advise on choosing UI technology with Python](https://www.reddit.com/r/Python/comments/1dhyr23/advise_on_choosing_ui_technology_with_python/)
-- [Advice for creating 3D modelling program](https://www.reddit.com/r/Python/comments/1dhudt2/advice_for_creating_3d_modelling_program/)
-- [NumPy 2.0.0 is the first major release since 2006.](https://www.reddit.com/r/Python/comments/1dhtifv/numpy_200_is_the_first_major_release_since_2006/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1dhkxbq/monday_daily_thread_project_ideas/)
+- [PyPI Scout - Searching for Python packages on PyPI using vector embeddings](https://www.reddit.com/r/Python/comments/1dhylia/pypi_scout_searching_for_python_packages_on_pypi/)
 <!-- BLOG-POST-LIST:END -->
