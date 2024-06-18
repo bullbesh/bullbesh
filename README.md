@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrapegraph AI Tutorial; Scrape Websites Easily With LLaMA AI](https://www.reddit.com/r/Python/comments/1dip146/scrapegraph_ai_tutorial_scrape_websites_easily/)
+- [I just made my first API wrapper: beachwatch](https://www.reddit.com/r/Python/comments/1diovo8/i_just_made_my_first_api_wrapper_beachwatch/)
 - [How does Python earn money? What would have been their business model?](https://www.reddit.com/r/Python/comments/1dimpim/how_does_python_earn_money_what_would_have_been/)
 - [rug 0.10.4 released](https://www.reddit.com/r/Python/comments/1dilsv3/rug_0104_released/)
 - [Load Tests Python Task Queues](https://www.reddit.com/r/Python/comments/1digyfg/load_tests_python_task_queues/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1dicxw6/tuesday_daily_thread_advanced_questions/)
-- [Aurora: An extensible Python static site generator](https://www.reddit.com/r/Python/comments/1di1v8c/aurora_an_extensible_python_static_site_generator/)
 <!-- BLOG-POST-LIST:END -->
