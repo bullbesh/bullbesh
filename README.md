@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [rug 0.10.4 released](https://www.reddit.com/r/Python/comments/1dilsv3/rug_0104_released/)
 - [Load Tests Python Task Queues](https://www.reddit.com/r/Python/comments/1digyfg/load_tests_python_task_queues/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1dicxw6/tuesday_daily_thread_advanced_questions/)
 - [Aurora: An extensible Python static site generator](https://www.reddit.com/r/Python/comments/1di1v8c/aurora_an_extensible_python_static_site_generator/)
 - [Privacy-first natural language to SQL + charting + editing app](https://www.reddit.com/r/Python/comments/1dhzt9o/privacyfirst_natural_language_to_sql_charting/)
-- [Advise on choosing UI technology with Python](https://www.reddit.com/r/Python/comments/1dhyr23/advise_on_choosing_ui_technology_with_python/)
 <!-- BLOG-POST-LIST:END -->
