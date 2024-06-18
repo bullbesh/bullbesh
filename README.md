@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Error trying to use functions from custom module](https://www.reddit.com/r/Python/comments/1dixhxj/error_trying_to_use_functions_from_custom_module/)
+- [Progress bar when interating list of strings](https://www.reddit.com/r/Python/comments/1diy4k6/progress_bar_when_interating_list_of_strings/)
 - [Unrestricted Resource Consumption API Vulnerability Class](https://www.reddit.com/r/Python/comments/1divkx6/unrestricted_resource_consumption_api/)
 - [Parsing Python ASTs 20x faster with Rust](https://www.reddit.com/r/Python/comments/1div2e8/parsing_python_asts_20x_faster_with_rust/)
 - [Ruff: A Modern Python Linter for Error-Free and Maintainable Code](https://www.reddit.com/r/Python/comments/1disz53/ruff_a_modern_python_linter_for_errorfree_and/)
