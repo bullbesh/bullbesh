@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The worst Python-Django backend refactoring mission of all time?](https://www.reddit.com/r/Python/comments/1djcdhf/the_worst_pythondjango_backend_refactoring/)
 - [Trying to find this package](https://www.reddit.com/r/Python/comments/1dj6q3w/trying_to_find_this_package/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1dj5f2u/wednesday_daily_thread_beginner_questions/)
 - [Looking to learn Tkinter](https://www.reddit.com/r/Python/comments/1dj4gp0/looking_to_learn_tkinter/)
 - [Parsing Python ASTs 20x faster with Rust](https://www.reddit.com/r/Python/comments/1div2e8/parsing_python_asts_20x_faster_with_rust/)
-- [Ruff: A Modern Python Linter for Error-Free and Maintainable Code](https://www.reddit.com/r/Python/comments/1disz53/ruff_a_modern_python_linter_for_errorfree_and/)
 <!-- BLOG-POST-LIST:END -->
