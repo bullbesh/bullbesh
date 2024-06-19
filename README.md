@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [hashmap for ineterviews](https://www.reddit.com/r/Python/comments/1djegr4/hashmap_for_ineterviews/)
 - [A JIT compiler for CPython](https://www.reddit.com/r/Python/comments/1djdy0z/a_jit_compiler_for_cpython/)
 - [Suggestion: make ray.io a part of Python&#39;s std lib](https://www.reddit.com/r/Python/comments/1djdl3q/suggestion_make_rayio_a_part_of_pythons_std_lib/)
 - [Trying to find this package](https://www.reddit.com/r/Python/comments/1dj6q3w/trying_to_find_this_package/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1dj5f2u/wednesday_daily_thread_beginner_questions/)
-- [Looking to learn Tkinter](https://www.reddit.com/r/Python/comments/1dj4gp0/looking_to_learn_tkinter/)
 <!-- BLOG-POST-LIST:END -->
