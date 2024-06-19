@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are the hardware requirements in a laptop to run Python + Future AI based projects?](https://www.reddit.com/r/Python/comments/1djfqwx/what_are_the_hardware_requirements_in_a_laptop_to/)
 - [Lol I&#39;m f*cked up in my Python exam](https://www.reddit.com/r/Python/comments/1djfb00/lol_im_fcked_up_in_my_python_exam/)
 - [hashmap for ineterviews](https://www.reddit.com/r/Python/comments/1djegr4/hashmap_for_ineterviews/)
 - [A JIT compiler for CPython](https://www.reddit.com/r/Python/comments/1djdy0z/a_jit_compiler_for_cpython/)
 - [Suggestion: make ray.io a part of Python&#39;s std lib](https://www.reddit.com/r/Python/comments/1djdl3q/suggestion_make_rayio_a_part_of_pythons_std_lib/)
-- [Trying to find this package](https://www.reddit.com/r/Python/comments/1dj6q3w/trying_to_find_this_package/)
 <!-- BLOG-POST-LIST:END -->
