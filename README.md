@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am Nominating Myself for PSF Board of Directors](https://www.reddit.com/r/Python/comments/1djunb5/i_am_nominating_myself_for_psf_board_of_directors/)
 - [Python on ARM laptops](https://www.reddit.com/r/Python/comments/1djtma4/python_on_arm_laptops/)
 - [Conway&#39;s game of life. can you find an optimization?](https://www.reddit.com/r/Python/comments/1djta0v/conways_game_of_life_can_you_find_an_optimization/)
 - [Experimental Python Wheels for Windows on ARM64](https://www.reddit.com/r/Python/comments/1djpj8t/experimental_python_wheels_for_windows_on_arm64/)
 - [Python Project Management Primer](https://www.reddit.com/r/Python/comments/1djp1gw/python_project_management_primer/)
-- [json3pdf : Batch OCR for high quality document archiving.](https://www.reddit.com/r/Python/comments/1djlr6e/json3pdf_batch_ocr_for_high_quality_document/)
 <!-- BLOG-POST-LIST:END -->
