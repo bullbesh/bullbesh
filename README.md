@@ -11,6 +11,6 @@
 - [Trying to find this package](https://www.reddit.com/r/Python/comments/1dj6q3w/trying_to_find_this_package/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1dj5f2u/wednesday_daily_thread_beginner_questions/)
 - [Looking to learn Tkinter](https://www.reddit.com/r/Python/comments/1dj4gp0/looking_to_learn_tkinter/)
-- [Is it a new Kenneth Reitz?](https://www.reddit.com/r/Python/comments/1dj3yf8/is_it_a_new_kenneth_reitz/)
 - [Unrestricted Resource Consumption API Vulnerability Class](https://www.reddit.com/r/Python/comments/1divkx6/unrestricted_resource_consumption_api/)
+- [Parsing Python ASTs 20x faster with Rust](https://www.reddit.com/r/Python/comments/1div2e8/parsing_python_asts_20x_faster_with_rust/)
 <!-- BLOG-POST-LIST:END -->
