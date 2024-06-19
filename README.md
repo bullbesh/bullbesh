@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Textual Serve - Serve TUIs in the browser](https://www.reddit.com/r/Python/comments/1djk6u8/textual_serve_serve_tuis_in_the_browser/)
+- [Techniques to remove duplicates from a python list](https://www.reddit.com/r/Python/comments/1djj91h/techniques_to_remove_duplicates_from_a_python_list/)
 - [CherrySaaS 🌸: Build your SaaS today. Ship it the next day. &lpar;Python SaaS Template WIP&rpar;](https://www.reddit.com/r/Python/comments/1djhm6a/cherrysaas_build_your_saas_today_ship_it_the_next/)
-- [I&#39;m looking for a comparison with a Python developer ITA.](https://www.reddit.com/r/Python/comments/1djh9ri/im_looking_for_a_comparison_with_a_python/)
 - [What are the hardware requirements in a laptop to run Python + Future AI based projects?](https://www.reddit.com/r/Python/comments/1djfqwx/what_are_the_hardware_requirements_in_a_laptop_to/)
 - [hashmap for ineterviews](https://www.reddit.com/r/Python/comments/1djegr4/hashmap_for_ineterviews/)
-- [A JIT compiler for CPython](https://www.reddit.com/r/Python/comments/1djdy0z/a_jit_compiler_for_cpython/)
 <!-- BLOG-POST-LIST:END -->
