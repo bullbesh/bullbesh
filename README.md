@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web scraper for protein prices](https://www.reddit.com/r/Python/comments/1dkmwzy/web_scraper_for_protein_prices/)
 - [Mirascope-Python&#39;s Alternative To Langchain](https://www.reddit.com/r/Python/comments/1dkhmpa/mirascopepythons_alternative_to_langchain/)
 - [Python on Cloud GPUs](https://www.reddit.com/r/Python/comments/1dketsw/python_on_cloud_gpus/)
 - [I made a simple python script which can evaluate a mathematical expression from a string](https://www.reddit.com/r/Python/comments/1dkb2m9/i_made_a_simple_python_script_which_can_evaluate/)
 - [karpet 0.5 released](https://www.reddit.com/r/Python/comments/1dk7vic/karpet_05_released/)
-- [a new mime detect library](https://www.reddit.com/r/Python/comments/1dk5xwu/a_new_mime_detect_library/)
 <!-- BLOG-POST-LIST:END -->
