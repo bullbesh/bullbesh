@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [NumPy 2.0: an evolutionary milestone](https://www.reddit.com/r/Python/comments/1dkdpi3/numpy_20_an_evolutionary_milestone/)
+- [Anyone have experience using Vercel to host Python projects?](https://www.reddit.com/r/Python/comments/1dkdgez/anyone_have_experience_using_vercel_to_host/)
 - [I made a simple python script which can evaluate a mathematical expression from a string](https://www.reddit.com/r/Python/comments/1dkb2m9/i_made_a_simple_python_script_which_can_evaluate/)
 - [karpet 0.5 released](https://www.reddit.com/r/Python/comments/1dk7vic/karpet_05_released/)
 - [a new mime detect library](https://www.reddit.com/r/Python/comments/1dk5xwu/a_new_mime_detect_library/)
-- [CherrySaaS [WIP 🚧]: An open-source SaaS template for Reflex. 🌸](https://www.reddit.com/r/Python/comments/1dk5k52/cherrysaas_wip_an_opensource_saas_template_for/)
-- [Give me an idea for my project &lpar;telegram bot&rpar; in python.](https://www.reddit.com/r/Python/comments/1dk571f/give_me_an_idea_for_my_project_telegram_bot_in/)
 <!-- BLOG-POST-LIST:END -->
