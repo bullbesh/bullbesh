@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Mirascope-Python&#39;s Alternative To Langchain](https://www.reddit.com/r/Python/comments/1dkhmpa/mirascopepythons_alternative_to_langchain/)
-- [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1dkh09i/the_python_on_microcontrollers_and_raspberry_pi/)
-- [Get confused with starting python on VS code](https://www.reddit.com/r/Python/comments/1dkgo4o/get_confused_with_starting_python_on_vs_code/)
-- [Hosting GUI in local server](https://www.reddit.com/r/Python/comments/1dkgclb/hosting_gui_in_local_server/)
-- [NumPy 2.0: an evolutionary milestone](https://www.reddit.com/r/Python/comments/1dkdpi3/numpy_20_an_evolutionary_milestone/)
+- [Python on Cloud GPUs](https://www.reddit.com/r/Python/comments/1dketsw/python_on_cloud_gpus/)
+- [I made a simple python script which can evaluate a mathematical expression from a string](https://www.reddit.com/r/Python/comments/1dkb2m9/i_made_a_simple_python_script_which_can_evaluate/)
+- [karpet 0.5 released](https://www.reddit.com/r/Python/comments/1dk7vic/karpet_05_released/)
+- [a new mime detect library](https://www.reddit.com/r/Python/comments/1dk5xwu/a_new_mime_detect_library/)
 <!-- BLOG-POST-LIST:END -->
