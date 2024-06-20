@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Video Quality Ranker](https://www.reddit.com/r/Python/comments/1dk0ru7/video_quality_ranker/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1djxyyw/thursday_daily_thread_python_careers_courses_and/)
 - [Should all Python projects have type hinting?](https://www.reddit.com/r/Python/comments/1djxqnp/should_all_python_projects_have_type_hinting/)
 - [I am Nominating Myself for PSF Board of Directors](https://www.reddit.com/r/Python/comments/1djunb5/i_am_nominating_myself_for_psf_board_of_directors/)
 - [Python on ARM laptops](https://www.reddit.com/r/Python/comments/1djtma4/python_on_arm_laptops/)
-- [Conway&#39;s game of life. can you find an optimization?](https://www.reddit.com/r/Python/comments/1djta0v/conways_game_of_life_can_you_find_an_optimization/)
 <!-- BLOG-POST-LIST:END -->
