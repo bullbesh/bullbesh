@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve created a book which contains everything you need to know about Python](https://www.reddit.com/r/Python/comments/1dlewme/ive_created_a_book_which_contains_everything_you/)
+- [What are your opinions on mutation testing code using AI?](https://www.reddit.com/r/Python/comments/1dlemi8/what_are_your_opinions_on_mutation_testing_code/)
 - [Basic based turtle drawing language.](https://www.reddit.com/r/Python/comments/1dld1uv/basic_based_turtle_drawing_language/)
 - [Running Python in Web Browsers](https://www.reddit.com/r/Python/comments/1dl8stp/running_python_in_web_browsers/)
 - [Log Monitoring with Kafka ETL using Python via Docker and Pathway](https://www.reddit.com/r/Python/comments/1dl7c60/log_monitoring_with_kafka_etl_using_python_via/)
-- [Robogram - Minimal Wrapper for Telegram Bot API in Python](https://www.reddit.com/r/Python/comments/1dl4d2r/robogram_minimal_wrapper_for_telegram_bot_api_in/)
-- [Python community in Amsterdam, The Netherlands](https://www.reddit.com/r/Python/comments/1dl0f8b/python_community_in_amsterdam_the_netherlands/)
 <!-- BLOG-POST-LIST:END -->
