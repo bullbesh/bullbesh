@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Python in Web Browsers](https://www.reddit.com/r/Python/comments/1dl8stp/running_python_in_web_browsers/)
 - [Log Monitoring with Kafka ETL using Python via Docker and Pathway](https://www.reddit.com/r/Python/comments/1dl7c60/log_monitoring_with_kafka_etl_using_python_via/)
 - [Robogram - Minimal Wrapper for Telegram Bot API in Python](https://www.reddit.com/r/Python/comments/1dl4d2r/robogram_minimal_wrapper_for_telegram_bot_api_in/)
 - [Python community in Amsterdam, The Netherlands](https://www.reddit.com/r/Python/comments/1dl0f8b/python_community_in_amsterdam_the_netherlands/)
 - [localslackirc - bridge slack and IRC](https://www.reddit.com/r/Python/comments/1dl064e/localslackirc_bridge_slack_and_irc/)
-- [I made a little Python quiz for interns and new Python developers at my company](https://www.reddit.com/r/Python/comments/1dkz4gv/i_made_a_little_python_quiz_for_interns_and_new/)
 <!-- BLOG-POST-LIST:END -->
