@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [what can i do to make this code...? It&#39;s for skinned mesh vertex calculation...](https://www.reddit.com/r/Python/comments/1dl3mdk/what_can_i_do_to_make_this_code_its_for_skinned/)
 - [Tutorial: Comparing Python Streamlit vs Plotly Dash - Which is Better?](https://www.reddit.com/r/Python/comments/1dl1qlr/tutorial_comparing_python_streamlit_vs_plotly/)
 - [Challenge! Improve this function.](https://www.reddit.com/r/Python/comments/1dl1d15/challenge_improve_this_function/)
-- [Python editor choice ?](https://www.reddit.com/r/Python/comments/1dl0vty/python_editor_choice/)
 - [Python community in Amsterdam, The Netherlands](https://www.reddit.com/r/Python/comments/1dl0f8b/python_community_in_amsterdam_the_netherlands/)
 - [localslackirc - bridge slack and IRC](https://www.reddit.com/r/Python/comments/1dl064e/localslackirc_bridge_slack_and_irc/)
 <!-- BLOG-POST-LIST:END -->
