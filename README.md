@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Challenge! Improve this function.](https://www.reddit.com/r/Python/comments/1dl1d15/challenge_improve_this_function/)
+- [Python editor choice ?](https://www.reddit.com/r/Python/comments/1dl0vty/python_editor_choice/)
 - [Python community in Amsterdam, The Netherlands](https://www.reddit.com/r/Python/comments/1dl0f8b/python_community_in_amsterdam_the_netherlands/)
 - [localslackirc - bridge slack and IRC](https://www.reddit.com/r/Python/comments/1dl064e/localslackirc_bridge_slack_and_irc/)
 - [I made a little Python quiz for interns and new Python developers at my company](https://www.reddit.com/r/Python/comments/1dkz4gv/i_made_a_little_python_quiz_for_interns_and_new/)
-- [Eventum: Flexible event generator](https://www.reddit.com/r/Python/comments/1dkvsmy/eventum_flexible_event_generator/)
-- [downloaded Python from Microsoft Store, any difference?](https://www.reddit.com/r/Python/comments/1dkttob/downloaded_python_from_microsoft_store_any/)
 <!-- BLOG-POST-LIST:END -->
