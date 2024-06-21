@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial: Comparing Python Streamlit vs Plotly Dash - Which is Better?](https://www.reddit.com/r/Python/comments/1dl1qlr/tutorial_comparing_python_streamlit_vs_plotly/)
 - [Challenge! Improve this function.](https://www.reddit.com/r/Python/comments/1dl1d15/challenge_improve_this_function/)
 - [Python editor choice ?](https://www.reddit.com/r/Python/comments/1dl0vty/python_editor_choice/)
 - [Python community in Amsterdam, The Netherlands](https://www.reddit.com/r/Python/comments/1dl0f8b/python_community_in_amsterdam_the_netherlands/)
 - [localslackirc - bridge slack and IRC](https://www.reddit.com/r/Python/comments/1dl064e/localslackirc_bridge_slack_and_irc/)
-- [I made a little Python quiz for interns and new Python developers at my company](https://www.reddit.com/r/Python/comments/1dkz4gv/i_made_a_little_python_quiz_for_interns_and_new/)
 <!-- BLOG-POST-LIST:END -->
