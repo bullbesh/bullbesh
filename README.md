@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Web scraper for protein prices](https://www.reddit.com/r/Python/comments/1dkmwzy/web_scraper_for_protein_prices/)
-- [Mirascope-Python&#39;s Alternative To Langchain](https://www.reddit.com/r/Python/comments/1dkhmpa/mirascopepythons_alternative_to_langchain/)
-- [Python on Cloud GPUs](https://www.reddit.com/r/Python/comments/1dketsw/python_on_cloud_gpus/)
-- [I made a simple python script which can evaluate a mathematical expression from a string](https://www.reddit.com/r/Python/comments/1dkb2m9/i_made_a_simple_python_script_which_can_evaluate/)
-- [karpet 0.5 released](https://www.reddit.com/r/Python/comments/1dk7vic/karpet_05_released/)
+- [Open source Python projects with good software design that is worth studying](https://www.reddit.com/r/Python/comments/1dkrfgh/open_source_python_projects_with_good_software/)
+- [Helios - A thin wrapper for training networks using PyTorch](https://www.reddit.com/r/Python/comments/1dkreob/helios_a_thin_wrapper_for_training_networks_using/)
+- [Am I the only one who finds AI to be a super helpful coding assistant?](https://www.reddit.com/r/Python/comments/1dkrder/am_i_the_only_one_who_finds_ai_to_be_a_super/)
+- [Discord python ticket bot](https://www.reddit.com/r/Python/comments/1dkqllc/discord_python_ticket_bot/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1dkqdsg/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
