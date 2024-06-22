@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1dlig0j/saturday_daily_thread_resource_request_and/)
-- [Object Oriented Programming Simplified](https://www.reddit.com/r/Python/comments/1dlhdyq/object_oriented_programming_simplified/)
 - [Introducing Lambda Forge: Simplifying AWS Lambda Deployment and Development!](https://www.reddit.com/r/Python/comments/1dlfj8o/introducing_lambda_forge_simplifying_aws_lambda/)
 - [A simple website scraper script](https://www.reddit.com/r/Python/comments/1dlfge9/a_simple_website_scraper_script/)
-- [Basic based turtle drawing language.](https://www.reddit.com/r/Python/comments/1dld1uv/basic_based_turtle_drawing_language/)
+- [Running Python in Web Browsers](https://www.reddit.com/r/Python/comments/1dl8stp/running_python_in_web_browsers/)
+- [Log Monitoring with Kafka ETL using Python via Docker and Pathway](https://www.reddit.com/r/Python/comments/1dl7c60/log_monitoring_with_kafka_etl_using_python_via/)
 <!-- BLOG-POST-LIST:END -->
