@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is anyone here looking for a developer to contribute to your personal projects?](https://www.reddit.com/r/Python/comments/1dm4h72/is_anyone_here_looking_for_a_developer_to/)
 - [discover-plugins - track which plugins are installed into your python environment](https://www.reddit.com/r/Python/comments/1dm01o1/discoverplugins_track_which_plugins_are_installed/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1dlig0j/saturday_daily_thread_resource_request_and/)
 - [Introducing Lambda Forge: Simplifying AWS Lambda Deployment and Development!](https://www.reddit.com/r/Python/comments/1dlfj8o/introducing_lambda_forge_simplifying_aws_lambda/)
 - [A simple website scraper script](https://www.reddit.com/r/Python/comments/1dlfge9/a_simple_website_scraper_script/)
-- [Running Python in Web Browsers](https://www.reddit.com/r/Python/comments/1dl8stp/running_python_in_web_browsers/)
 <!-- BLOG-POST-LIST:END -->
