@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SSL Error while running Python Script on Network](https://www.reddit.com/r/Python/comments/1dltwvf/ssl_error_while_running_python_script_on_network/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1dlig0j/saturday_daily_thread_resource_request_and/)
 - [Object Oriented Programming Simplified](https://www.reddit.com/r/Python/comments/1dlhdyq/object_oriented_programming_simplified/)
 - [Introducing Lambda Forge: Simplifying AWS Lambda Deployment and Development!](https://www.reddit.com/r/Python/comments/1dlfj8o/introducing_lambda_forge_simplifying_aws_lambda/)
 - [A simple website scraper script](https://www.reddit.com/r/Python/comments/1dlfge9/a_simple_website_scraper_script/)
-- [What are your opinions on mutation testing code using AI?](https://www.reddit.com/r/Python/comments/1dlemi8/what_are_your_opinions_on_mutation_testing_code/)
 <!-- BLOG-POST-LIST:END -->
