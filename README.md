@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pico, Fermi, Bagels logical analysis!](https://www.reddit.com/r/Python/comments/1dlkgz2/pico_fermi_bagels_logical_analysis/)
 - [Which python should I start with?](https://www.reddit.com/r/Python/comments/1dlj4zu/which_python_should_i_start_with/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1dlig0j/saturday_daily_thread_resource_request_and/)
 - [Object Oriented Programming Simplified](https://www.reddit.com/r/Python/comments/1dlhdyq/object_oriented_programming_simplified/)
 - [Introducing Lambda Forge: Simplifying AWS Lambda Deployment and Development!](https://www.reddit.com/r/Python/comments/1dlfj8o/introducing_lambda_forge_simplifying_aws_lambda/)
-- [A simple website scraper script](https://www.reddit.com/r/Python/comments/1dlfge9/a_simple_website_scraper_script/)
 <!-- BLOG-POST-LIST:END -->
