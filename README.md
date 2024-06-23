@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a simple web analytics app using Fast API](https://www.reddit.com/r/Python/comments/1dmiprt/i_made_a_simple_web_analytics_app_using_fast_api/)
 - [Python 3.12 docs include built-in support for themes, including a dark theme!](https://www.reddit.com/r/Python/comments/1dmhjii/python_312_docs_include_builtin_support_for/)
 - [My library VidGear `v0.3.3` - brings libcamera API Support to python.](https://www.reddit.com/r/Python/comments/1dmfnzv/my_library_vidgear_v033_brings_libcamera_api/)
 - [cool tool made with python](https://www.reddit.com/r/Python/comments/1dmf01w/cool_tool_made_with_python/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1dm9767/sunday_daily_thread_whats_everyone_working_on/)
-- [Is anyone here looking for a developer to contribute to your personal projects?](https://www.reddit.com/r/Python/comments/1dm4h72/is_anyone_here_looking_for_a_developer_to/)
+- [The winget and Windows Store distributions of Python are non-standardized](https://www.reddit.com/r/Python/comments/1dmb49s/the_winget_and_windows_store_distributions_of/)
 <!-- BLOG-POST-LIST:END -->
