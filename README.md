@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern YouTube Downloader using PyQt6 [UPDATE] | Youtility](https://www.reddit.com/r/Python/comments/1dmsfjx/modern_youtube_downloader_using_pyqt6_update/)
 - [[Tutorial] A Complete Guide to Pytest Fixtures](https://www.reddit.com/r/Python/comments/1dmpwl0/tutorial_a_complete_guide_to_pytest_fixtures/)
 - [A simple and small python program launcher.](https://www.reddit.com/r/Python/comments/1dmooql/a_simple_and_small_python_program_launcher/)
 - [Python Polars 1.0.0-rc.1 released](https://www.reddit.com/r/Python/comments/1dmmqmn/python_polars_100rc1_released/)
 - [Linting Python Monorepo with Bazel and Ruff](https://www.reddit.com/r/Python/comments/1dmk3i5/linting_python_monorepo_with_bazel_and_ruff/)
-- [I made a simple web analytics app using Fast API](https://www.reddit.com/r/Python/comments/1dmiprt/i_made_a_simple_web_analytics_app_using_fast_api/)
 <!-- BLOG-POST-LIST:END -->
