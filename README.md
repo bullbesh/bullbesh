@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Polars 1.0.0-rc.1 released](https://www.reddit.com/r/Python/comments/1dmmqmn/python_polars_100rc1_released/)
+- [How to add chart in django tinymce text field](https://www.reddit.com/r/Python/comments/1dmm28q/how_to_add_chart_in_django_tinymce_text_field/)
 - [Linting Python Monorepo with Bazel and Ruff](https://www.reddit.com/r/Python/comments/1dmk3i5/linting_python_monorepo_with_bazel_and_ruff/)
 - [How to detect &lpar;modified|headless&rpar; Chrome instrumented with Selenium &lpar;2024 edition&rpar;](https://www.reddit.com/r/Python/comments/1dmjmyb/how_to_detect_modifiedheadless_chrome/)
 - [I made a simple web analytics app using Fast API](https://www.reddit.com/r/Python/comments/1dmiprt/i_made_a_simple_web_analytics_app_using_fast_api/)
-- [Python 3.12 docs include built-in support for themes, including a dark theme!](https://www.reddit.com/r/Python/comments/1dmhjii/python_312_docs_include_builtin_support_for/)
-- [My library VidGear `v0.3.3` - brings libcamera API Support to python.](https://www.reddit.com/r/Python/comments/1dmfnzv/my_library_vidgear_v033_brings_libcamera_api/)
 <!-- BLOG-POST-LIST:END -->
