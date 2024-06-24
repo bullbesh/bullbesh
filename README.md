@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python script to solve cross math puzzles, but can’t do negative integers](https://www.reddit.com/r/Python/comments/1dni98b/python_script_to_solve_cross_math_puzzles_but/)
 - [Naruto Hands Seals Detection &lpar;Python project&rpar;](https://www.reddit.com/r/Python/comments/1dng3t3/naruto_hands_seals_detection_python_project/)
 - [changelog_gen: Conventional commits + bump version](https://www.reddit.com/r/Python/comments/1dndyxb/changelog_gen_conventional_commits_bump_version/)
 - [Reladiff - High-performance diffing of large datasets across databases](https://www.reddit.com/r/Python/comments/1dncta4/reladiff_highperformance_diffing_of_large/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1dmzzup/monday_daily_thread_project_ideas/)
+- [BM25 for Python: Achieving high performance while simplifying dependencies with BM25S](https://www.reddit.com/r/Python/comments/1dmwfbf/bm25_for_python_achieving_high_performance_while/)
 <!-- BLOG-POST-LIST:END -->
