@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reladiff - High-performance diffing of large datasets across databases](https://www.reddit.com/r/Python/comments/1dncta4/reladiff_highperformance_diffing_of_large/)
+- [Spaghetti Code](https://www.reddit.com/r/Python/comments/1dncjkj/spaghetti_code/)
 - [advice needed on a task :&rpar;](https://www.reddit.com/r/Python/comments/1dnai7j/advice_needed_on_a_task/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1dmzzup/monday_daily_thread_project_ideas/)
 - [BM25 for Python: Achieving high performance while simplifying dependencies with BM25S](https://www.reddit.com/r/Python/comments/1dmwfbf/bm25_for_python_achieving_high_performance_while/)
-- [Extending an Isolated Embedded Interpreter in C++](https://www.reddit.com/r/Python/comments/1dmvqc4/extending_an_isolated_embedded_interpreter_in_c/)
-- [Pythonista iOS Platformer using Scene](https://www.reddit.com/r/Python/comments/1dmtv6t/pythonista_ios_platformer_using_scene/)
 <!-- BLOG-POST-LIST:END -->
