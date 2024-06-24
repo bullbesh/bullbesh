@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can I jump right into learning python for datascience without knowing the basics of python?](https://www.reddit.com/r/Python/comments/1dnq07p/can_i_jump_right_into_learning_python_for/)
+- [Scraping with scanned pdf](https://www.reddit.com/r/Python/comments/1dnqc3e/scraping_with_scanned_pdf/)
 - [Announcement: PyData Yerevan Open Source pandas Sprint &lpar;June 25&rpar;](https://www.reddit.com/r/Python/comments/1dnq01p/announcement_pydata_yerevan_open_source_pandas/)
 - [Naruto Hands Seals Detection &lpar;Python project&rpar;](https://www.reddit.com/r/Python/comments/1dng3t3/naruto_hands_seals_detection_python_project/)
 - [changelog_gen: Conventional commits + bump version](https://www.reddit.com/r/Python/comments/1dndyxb/changelog_gen_conventional_commits_bump_version/)
