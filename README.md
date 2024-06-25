@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1dnsczh/tuesday_daily_thread_advanced_questions/)
 - [Scraping with scanned pdf](https://www.reddit.com/r/Python/comments/1dnqc3e/scraping_with_scanned_pdf/)
 - [Announcement: PyData Yerevan Open Source pandas Sprint &lpar;June 25&rpar;](https://www.reddit.com/r/Python/comments/1dnq01p/announcement_pydata_yerevan_open_source_pandas/)
 - [Naruto Hands Seals Detection &lpar;Python project&rpar;](https://www.reddit.com/r/Python/comments/1dng3t3/naruto_hands_seals_detection_python_project/)
 - [changelog_gen: Conventional commits + bump version](https://www.reddit.com/r/Python/comments/1dndyxb/changelog_gen_conventional_commits_bump_version/)
-- [Reladiff - High-performance diffing of large datasets across databases](https://www.reddit.com/r/Python/comments/1dncta4/reladiff_highperformance_diffing_of_large/)
 <!-- BLOG-POST-LIST:END -->
