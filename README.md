@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What should I do next?](https://www.reddit.com/r/Python/comments/1do4bb6/what_should_i_do_next/)
+- [Modern Notepad using PyQt6 [UPDATE] | ZenNotes](https://www.reddit.com/r/Python/comments/1do46ez/modern_notepad_using_pyqt6_update_zennotes/)
 - [scamming the scammers with python](https://www.reddit.com/r/Python/comments/1do3dd2/scamming_the_scammers_with_python/)
 - [I made a Python wrapper for getting space data from Australia&#39;s official weather service](https://www.reddit.com/r/Python/comments/1do332s/i_made_a_python_wrapper_for_getting_space_data/)
 - [A Guide to Python’s Weak References Using the weakref Module](https://www.reddit.com/r/Python/comments/1do2mmz/a_guide_to_pythons_weak_references_using_the/)
-- [SciPy 1.14 released](https://www.reddit.com/r/Python/comments/1dnzpx5/scipy_114_released/)
-- [How To See Twitter Likes](https://www.reddit.com/r/Python/comments/1dnyevn/how_to_see_twitter_likes/)
 <!-- BLOG-POST-LIST:END -->
