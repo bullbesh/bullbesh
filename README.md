@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To See Twitter Likes](https://www.reddit.com/r/Python/comments/1dnyevn/how_to_see_twitter_likes/)
 - [Automating telemetry capture using Python bytecode](https://www.reddit.com/r/Python/comments/1dnu0po/automating_telemetry_capture_using_python_bytecode/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1dnsczh/tuesday_daily_thread_advanced_questions/)
 - [Announcement: PyData Yerevan Open Source pandas Sprint &lpar;June 25&rpar;](https://www.reddit.com/r/Python/comments/1dnq01p/announcement_pydata_yerevan_open_source_pandas/)
 - [Naruto Hands Seals Detection &lpar;Python project&rpar;](https://www.reddit.com/r/Python/comments/1dng3t3/naruto_hands_seals_detection_python_project/)
-- [changelog_gen: Conventional commits + bump version](https://www.reddit.com/r/Python/comments/1dndyxb/changelog_gen_conventional_commits_bump_version/)
 <!-- BLOG-POST-LIST:END -->
