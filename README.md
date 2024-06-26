@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hastebin API bugged](https://www.reddit.com/r/Python/comments/1dp84v8/hastebin_api_bugged/)
 - [Speech to Text using Python, anyone?](https://www.reddit.com/r/Python/comments/1dp632p/speech_to_text_using_python_anyone/)
 - [Share your ruff config.](https://www.reddit.com/r/Python/comments/1dp4jrm/share_your_ruff_config/)
 - [Looking Under the Hood of Python&#39;s Set Data Structure](https://www.reddit.com/r/Python/comments/1dowa49/looking_under_the_hood_of_pythons_set_data/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1doks2x/wednesday_daily_thread_beginner_questions/)
-- [FleetTrack - A vehicle fleet tracking application. &lpar;FastAPI, Kafka, Metabase&rpar;](https://www.reddit.com/r/Python/comments/1dobox5/fleettrack_a_vehicle_fleet_tracking_application/)
 <!-- BLOG-POST-LIST:END -->
