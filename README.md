@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python is really large it always feel new to me](https://www.reddit.com/r/Python/comments/1dp2nlb/python_is_really_large_it_always_feel_new_to_me/)
 - [Convert PNG to TIFF without 3rd party libraries](https://www.reddit.com/r/Python/comments/1dp044y/convert_png_to_tiff_without_3rd_party_libraries/)
 - [Does it take months or even years to actually become good at coding?](https://www.reddit.com/r/Python/comments/1dp03kx/does_it_take_months_or_even_years_to_actually/)
 - [Win a WeAreDevelopers World Congress 2024 ticket](https://www.reddit.com/r/Python/comments/1dp01jq/win_a_wearedevelopers_world_congress_2024_ticket/)
 - [Looking Under the Hood of Python&#39;s Set Data Structure](https://www.reddit.com/r/Python/comments/1dowa49/looking_under_the_hood_of_pythons_set_data/)
-- [🚀 Unleash the Power of Automation with My Naukri.com Job Apply Bot! 🖥️💼 | Boost Your Job Search E](https://www.reddit.com/r/Python/comments/1dopju4/unleash_the_power_of_automation_with_my_naukricom/)
 <!-- BLOG-POST-LIST:END -->
