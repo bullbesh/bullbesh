@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fetch data from anilist API using Flask framework](https://www.reddit.com/r/Python/comments/1dpndow/fetch_data_from_anilist_api_using_flask_framework/)
+- [Those dicts you probably needed at some point](https://www.reddit.com/r/Python/comments/1dpnc09/those_dicts_you_probably_needed_at_some_point/)
+- [Just released: Episode 1 of &quot;Introduction to Programming&quot;!](https://www.reddit.com/r/Python/comments/1dpn503/just_released_episode_1_of_introduction_to/)
+- [Automate SAP without SAPscript engine](https://www.reddit.com/r/Python/comments/1dpn2z3/automate_sap_without_sapscript_engine/)
 - [AI for the average Python developer](https://www.reddit.com/r/Python/comments/1dpmw9m/ai_for_the_average_python_developer/)
-- [Best way to deploy Python API on Windows server](https://www.reddit.com/r/Python/comments/1dpmbvx/best_way_to_deploy_python_api_on_windows_server/)
-- [Powerful Video editing packages?](https://www.reddit.com/r/Python/comments/1dpk1ty/powerful_video_editing_packages/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1dpdhpn/thursday_daily_thread_python_careers_courses_and/)
-- [Share your ruff config.](https://www.reddit.com/r/Python/comments/1dp4jrm/share_your_ruff_config/)
 <!-- BLOG-POST-LIST:END -->
