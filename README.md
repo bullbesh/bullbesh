@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Asking Technical Interview Question in Python](https://www.reddit.com/r/Python/comments/1dqoxh5/asking_technical_interview_question_in_python/)
 - [Newly uploaded Python talks from Pycon Sweden 2024 and Pydata London 2024](https://www.reddit.com/r/Python/comments/1dqnhfv/newly_uploaded_python_talks_from_pycon_sweden/)
-- [Refresh the external API](https://www.reddit.com/r/Python/comments/1dqn9wg/refresh_the_external_api/)
 - [Atollas - a column level type system for pandas](https://www.reddit.com/r/Python/comments/1dqm1y4/atollas_a_column_level_type_system_for_pandas/)
 - [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1dqkmj1/the_python_on_microcontrollers_and_raspberry_pi/)
 - [What&#39;s better memorizing codes or understanding them deeply?](https://www.reddit.com/r/Python/comments/1dqivtw/whats_better_memorizing_codes_or_understanding/)
