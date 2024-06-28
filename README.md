@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s better memorizing codes or understanding them deeply?](https://www.reddit.com/r/Python/comments/1dqivtw/whats_better_memorizing_codes_or_understanding/)
 - [Scraping Ecommerce Platforms Using Python](https://www.reddit.com/r/Python/comments/1dqgxds/scraping_ecommerce_platforms_using_python/)
 - [obfupy -- Python source code obfuscator aiming to produce correct and functional code](https://www.reddit.com/r/Python/comments/1dq8qfy/obfupy_python_source_code_obfuscator_aiming_to/)
 - [FastCRUD - powerful CRUD methods and automatic endpoint creation for FastAPI](https://www.reddit.com/r/Python/comments/1dq7af3/fastcrud_powerful_crud_methods_and_automatic/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1dq60v8/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Python still surprises](https://www.reddit.com/r/Python/comments/1dq1jn2/python_still_surprises/)
 <!-- BLOG-POST-LIST:END -->
