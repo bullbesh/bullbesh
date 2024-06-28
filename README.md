@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1dqkmj1/the_python_on_microcontrollers_and_raspberry_pi/)
+- [Use python script to add 2fa verification code to ssh server](https://www.reddit.com/r/Python/comments/1dqjr9l/use_python_script_to_add_2fa_verification_code_to/)
 - [What&#39;s better memorizing codes or understanding them deeply?](https://www.reddit.com/r/Python/comments/1dqivtw/whats_better_memorizing_codes_or_understanding/)
 - [Scraping Ecommerce Platforms Using Python](https://www.reddit.com/r/Python/comments/1dqgxds/scraping_ecommerce_platforms_using_python/)
 - [obfupy -- Python source code obfuscator aiming to produce correct and functional code](https://www.reddit.com/r/Python/comments/1dq8qfy/obfupy_python_source_code_obfuscator_aiming_to/)
-- [FastCRUD - powerful CRUD methods and automatic endpoint creation for FastAPI](https://www.reddit.com/r/Python/comments/1dq7af3/fastcrud_powerful_crud_methods_and_automatic/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1dq60v8/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
