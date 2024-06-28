@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastCRUD - powerful CRUD methods and automatic endpoint creation for FastAPI](https://www.reddit.com/r/Python/comments/1dq7af3/fastcrud_powerful_crud_methods_and_automatic/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1dq60v8/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Python still surprises](https://www.reddit.com/r/Python/comments/1dq1jn2/python_still_surprises/)
 - [Check for Open Ports using Python](https://www.reddit.com/r/Python/comments/1dptsb5/check_for_open_ports_using_python/)
 - [Those dicts you probably needed at some point](https://www.reddit.com/r/Python/comments/1dpnc09/those_dicts_you_probably_needed_at_some_point/)
-- [Made improvements in piptrends.com search](https://www.reddit.com/r/Python/comments/1dpm6bb/made_improvements_in_piptrendscom_search/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1dpdhpn/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
