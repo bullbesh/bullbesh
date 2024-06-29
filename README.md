@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Text?&rpar;books for learning Python](https://www.reddit.com/r/Python/comments/1dra4au/textbooks_for_learning_python/)
 - [PuePy - Reactive Frontend Framework](https://www.reddit.com/r/Python/comments/1dr7xfu/puepy_reactive_frontend_framework/)
 - [Type Annotation talk at PyCon Ireland 2023](https://www.reddit.com/r/Python/comments/1dr7em3/type_annotation_talk_at_pycon_ireland_2023/)
 - [Lack of TreeMap equivalent in Python](https://www.reddit.com/r/Python/comments/1dr6svo/lack_of_treemap_equivalent_in_python/)
 - [Need opinions on a project regarding exporting Matplotlib plots to 3D .obj](https://www.reddit.com/r/Python/comments/1dr6gmh/need_opinions_on_a_project_regarding_exporting/)
-- [Filtering using Python](https://www.reddit.com/r/Python/comments/1dr3qfo/filtering_using_python/)
 <!-- BLOG-POST-LIST:END -->
