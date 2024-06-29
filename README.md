@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lack of TreeMap equivalent in Python](https://www.reddit.com/r/Python/comments/1dr6svo/lack_of_treemap_equivalent_in_python/)
 - [Need opinions on a project regarding exporting Matplotlib plots to 3D .obj](https://www.reddit.com/r/Python/comments/1dr6gmh/need_opinions_on_a_project_regarding_exporting/)
 - [Filtering using Python](https://www.reddit.com/r/Python/comments/1dr3qfo/filtering_using_python/)
 - [PSQLPy - Asynchronous Python PostgreSQL driver written in Rust](https://www.reddit.com/r/Python/comments/1dqybfa/psqlpy_asynchronous_python_postgresql_driver/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1dqy1qp/saturday_daily_thread_resource_request_and/)
-- [PyDefender Making Reverse Engineers Life Harder.](https://www.reddit.com/r/Python/comments/1dqwyws/pydefender_making_reverse_engineers_life_harder/)
 <!-- BLOG-POST-LIST:END -->
