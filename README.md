@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PSQLPy - Asynchronous Python PostgreSQL driver written in Rust](https://www.reddit.com/r/Python/comments/1dqybfa/psqlpy_asynchronous_python_postgresql_driver/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1dqy1qp/saturday_daily_thread_resource_request_and/)
 - [PyDefender Making Reverse Engineers Life Harder.](https://www.reddit.com/r/Python/comments/1dqwyws/pydefender_making_reverse_engineers_life_harder/)
 - [I had many interviews and I failed all of them because of python coding.](https://www.reddit.com/r/Python/comments/1dqtmm1/i_had_many_interviews_and_i_failed_all_of_them/)
 - [Thoughts on Teaching Python to Children](https://www.reddit.com/r/Python/comments/1dqstt2/thoughts_on_teaching_python_to_children/)
-- [Project: Command Line Pomodoro Method](https://www.reddit.com/r/Python/comments/1dqs5x2/project_command_line_pomodoro_method/)
-- [Asking Technical Interview Question in Python](https://www.reddit.com/r/Python/comments/1dqoxh5/asking_technical_interview_question_in_python/)
 <!-- BLOG-POST-LIST:END -->
