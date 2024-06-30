@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python plus plus](https://www.reddit.com/r/Python/comments/1ds7w44/python_plus_plus/)
+- [Possibility of Integration as a local web app using FastAPI and Tauri](https://www.reddit.com/r/Python/comments/1ds7q2l/possibility_of_integration_as_a_local_web_app/)
 - [Recommendation for table extraction](https://www.reddit.com/r/Python/comments/1ds4s89/recommendation_for_table_extraction/)
 - [Python Network Share Manager](https://www.reddit.com/r/Python/comments/1ds4cva/python_network_share_manager/)
 - [Building AI tools should be simple](https://www.reddit.com/r/Python/comments/1ds3xlk/building_ai_tools_should_be_simple/)
-- [Stockdex: Python Package to Extract Financial data From Multiple Sources](https://www.reddit.com/r/Python/comments/1ds33vs/stockdex_python_package_to_extract_financial_data/)
-- [A Twitter bot that posts about public domain science fiction books](https://www.reddit.com/r/Python/comments/1ds1xs7/a_twitter_bot_that_posts_about_public_domain/)
 <!-- BLOG-POST-LIST:END -->
