@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI contextualization for scraping](https://www.reddit.com/r/Python/comments/1ds0r50/ai_contextualization_for_scraping/)
 - [Things you dont like about python package manager](https://www.reddit.com/r/Python/comments/1drznbg/things_you_dont_like_about_python_package_manager/)
 - [Discord trading bot](https://www.reddit.com/r/Python/comments/1drx7qr/discord_trading_bot/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1dromws/sunday_daily_thread_whats_everyone_working_on/)
 - [Sonos Moments - A simple web app to control Sonos speakers](https://www.reddit.com/r/Python/comments/1drczng/sonos_moments_a_simple_web_app_to_control_sonos/)
-- [PuePy - Reactive Frontend Framework](https://www.reddit.com/r/Python/comments/1dr7xfu/puepy_reactive_frontend_framework/)
 <!-- BLOG-POST-LIST:END -->
