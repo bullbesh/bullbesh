@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which solution is more Pythonic?](https://www.reddit.com/r/Python/comments/1dt5far/which_solution_is_more_pythonic/)
+- [most reliable, tested bitcoin library](https://www.reddit.com/r/Python/comments/1dt4z4d/most_reliable_tested_bitcoin_library/)
 - [Minecraft using python](https://www.reddit.com/r/Python/comments/1dt4ang/minecraft_using_python/)
 - [What are your &quot;glad to have met you&quot; packages?](https://www.reddit.com/r/Python/comments/1dsyi19/what_are_your_glad_to_have_met_you_packages/)
 - [From Inspiration to Creation: Grapycal, Your Human-Friendly Innovation Tool.](https://www.reddit.com/r/Python/comments/1dsxwj1/from_inspiration_to_creation_grapycal_your/)
-- [IT-Support utility menu, written in PyQt6](https://www.reddit.com/r/Python/comments/1dswjt6/itsupport_utility_menu_written_in_pyqt6/)
-- [Open-source free video editing tools in Python](https://www.reddit.com/r/Python/comments/1dsv69t/opensource_free_video_editing_tools_in_python/)
 <!-- BLOG-POST-LIST:END -->
