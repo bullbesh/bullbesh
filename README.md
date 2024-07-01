@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🐍 Python Scoping - A Topic You Must Master!](https://www.reddit.com/r/Python/comments/1dstodo/python_scoping_a_topic_you_must_master/)
+- [matplotloom: Weave your frames into matplotlib animations, simply and quickly!](https://www.reddit.com/r/Python/comments/1dssy32/matplotloom_weave_your_frames_into_matplotlib/)
 - [From Inspiration to Creation: Grapycal, Your Human-Friendly Innovation Tool.](https://www.reddit.com/r/Python/comments/1dssr4e/from_inspiration_to_creation_grapycal_your/)
-- [From Inspiration to Creation: Grapycal, Your Human-Friendly Innovation Tool.](https://www.reddit.com/r/Python/comments/1dsspp6/from_inspiration_to_creation_grapycal_your/)
-- [geojson-shave, a command-line tool to reduce the size of GeoJSON files.](https://www.reddit.com/r/Python/comments/1dss1tc/geojsonshave_a_commandline_tool_to_reduce_the/)
 - [Python Polars 1.0 released](https://www.reddit.com/r/Python/comments/1dspxnn/python_polars_10_released/)
 - [GitVis -- visualize your git commits locally](https://www.reddit.com/r/Python/comments/1dso9ao/gitvis_visualize_your_git_commits_locally/)
 <!-- BLOG-POST-LIST:END -->
