@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [G-Scraper: a GUI Web Scraper written in Python](https://www.reddit.com/r/Python/comments/1dsn27o/gscraper_a_gui_web_scraper_written_in_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1dsfboc/monday_daily_thread_project_ideas/)
 - [Add a GUI or not?](https://www.reddit.com/r/Python/comments/1dsebb8/add_a_gui_or_not/)
 - [Looking for some react libraries that I would wrap react in Reflex.](https://www.reddit.com/r/Python/comments/1ds8385/looking_for_some_react_libraries_that_i_would/)
 - [Possibility of Integration as a local web app using FastAPI and Tauri](https://www.reddit.com/r/Python/comments/1ds7q2l/possibility_of_integration_as_a_local_web_app/)
-- [Building AI tools should be simple](https://www.reddit.com/r/Python/comments/1ds3xlk/building_ai_tools_should_be_simple/)
 <!-- BLOG-POST-LIST:END -->
