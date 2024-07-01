@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [IT-Support utility menu, written in PyQt6](https://www.reddit.com/r/Python/comments/1dswjt6/itsupport_utility_menu_written_in_pyqt6/)
 - [Open-source free video editing tools in Python](https://www.reddit.com/r/Python/comments/1dsv69t/opensource_free_video_editing_tools_in_python/)
-- [limited 1000 free copun of Udemy R and Python Programming](https://www.reddit.com/r/Python/comments/1dsv4g3/limited_1000_free_copun_of_udemy_r_and_python/)
 - [🐍 Python Scoping - A Topic You Must Master!](https://www.reddit.com/r/Python/comments/1dstodo/python_scoping_a_topic_you_must_master/)
 - [matplotloom: Weave your frames into matplotlib animations, simply and quickly!](https://www.reddit.com/r/Python/comments/1dssy32/matplotloom_weave_your_frames_into_matplotlib/)
-- [From Inspiration to Creation: Grapycal, Your Human-Friendly Innovation Tool.](https://www.reddit.com/r/Python/comments/1dssr4e/from_inspiration_to_creation_grapycal_your/)
+- [Python Polars 1.0 released](https://www.reddit.com/r/Python/comments/1dspxnn/python_polars_10_released/)
 <!-- BLOG-POST-LIST:END -->
