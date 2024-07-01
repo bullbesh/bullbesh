@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is access modifiers in python are joke?](https://www.reddit.com/r/Python/comments/1dsy5yn/is_access_modifiers_in_python_are_joke/)
+- [What are your &quot;glad to have met you&quot; packages?](https://www.reddit.com/r/Python/comments/1dsyi19/what_are_your_glad_to_have_met_you_packages/)
 - [From Inspiration to Creation: Grapycal, Your Human-Friendly Innovation Tool.](https://www.reddit.com/r/Python/comments/1dsxwj1/from_inspiration_to_creation_grapycal_your/)
 - [IT-Support utility menu, written in PyQt6](https://www.reddit.com/r/Python/comments/1dswjt6/itsupport_utility_menu_written_in_pyqt6/)
 - [Open-source free video editing tools in Python](https://www.reddit.com/r/Python/comments/1dsv69t/opensource_free_video_editing_tools_in_python/)
-- [🐍 Python Scoping - A Topic You Must Master!](https://www.reddit.com/r/Python/comments/1dstodo/python_scoping_a_topic_you_must_master/)
+- [matplotloom: Weave your frames into matplotlib animations, simply and quickly!](https://www.reddit.com/r/Python/comments/1dssy32/matplotloom_weave_your_frames_into_matplotlib/)
 <!-- BLOG-POST-LIST:END -->
