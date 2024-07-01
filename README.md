@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [From Inspiration to Creation: Grapycal, Your Human-Friendly Innovation Tool.](https://www.reddit.com/r/Python/comments/1dssr4e/from_inspiration_to_creation_grapycal_your/)
+- [From Inspiration to Creation: Grapycal, Your Human-Friendly Innovation Tool.](https://www.reddit.com/r/Python/comments/1dsspp6/from_inspiration_to_creation_grapycal_your/)
+- [geojson-shave, a command-line tool to reduce the size of GeoJSON files.](https://www.reddit.com/r/Python/comments/1dss1tc/geojsonshave_a_commandline_tool_to_reduce_the/)
 - [Python Polars 1.0 released](https://www.reddit.com/r/Python/comments/1dspxnn/python_polars_10_released/)
 - [GitVis -- visualize your git commits locally](https://www.reddit.com/r/Python/comments/1dso9ao/gitvis_visualize_your_git_commits_locally/)
-- [G-Scraper: a GUI Web Scraper written in Python](https://www.reddit.com/r/Python/comments/1dsn27o/gscraper_a_gui_web_scraper_written_in_python/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1dsfboc/monday_daily_thread_project_ideas/)
-- [Add a GUI or not?](https://www.reddit.com/r/Python/comments/1dsebb8/add_a_gui_or_not/)
 <!-- BLOG-POST-LIST:END -->
