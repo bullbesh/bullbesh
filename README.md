@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Can I create an FTP App](https://www.reddit.com/r/Python/comments/1dthxos/can_i_create_an_ftp_app/)
 - [Oneliner for printing versions of all imported libraries](https://www.reddit.com/r/Python/comments/1dthvud/oneliner_for_printing_versions_of_all_imported/)
-- [Which one and why](https://www.reddit.com/r/Python/comments/1dthioa/which_one_and_why/)
 - [Are all vulnerability scanners commercial products?](https://www.reddit.com/r/Python/comments/1dthgun/are_all_vulnerability_scanners_commercial_products/)
 - [Is there a python static binary available for android?](https://www.reddit.com/r/Python/comments/1dte3t3/is_there_a_python_static_binary_available_for/)
+- [Solution for pyttsx3 error on Mac systems](https://www.reddit.com/r/Python/comments/1dtalal/solution_for_pyttsx3_error_on_mac_systems/)
 <!-- BLOG-POST-LIST:END -->
