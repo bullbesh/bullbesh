@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [python-fiddle.com: a website to write, run, and share python code and data visualizations](https://www.reddit.com/r/Python/comments/1dttjsb/pythonfiddlecom_a_website_to_write_run_and_share/)
+- [Feasibility of Transpiling Python to Svelte with Kivy for Web, Desktop, and Mobile Apps](https://www.reddit.com/r/Python/comments/1dttfu5/feasibility_of_transpiling_python_to_svelte_with/)
 - [Bite -a sqlite viewer made in python](https://www.reddit.com/r/Python/comments/1dtrm1f/bite_a_sqlite_viewer_made_in_python/)
 - [Python not recognizes](https://www.reddit.com/r/Python/comments/1dtq6xz/python_not_recognizes/)
 - [How to replicate Photoshop&#39;s transform warp tool in Python?](https://www.reddit.com/r/Python/comments/1dtp0yj/how_to_replicate_photoshops_transform_warp_tool/)
-- [pypiscout.com – A search engine for Python packages based on vector embeddings](https://www.reddit.com/r/Python/comments/1dtov0u/pypiscoutcom_a_search_engine_for_python_packages/)
-- [Would you say Piccolo ORM is production ready in 2024?](https://www.reddit.com/r/Python/comments/1dtnr96/would_you_say_piccolo_orm_is_production_ready_in/)
 <!-- BLOG-POST-LIST:END -->
