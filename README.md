@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Which solution is more Pythonic?](https://www.reddit.com/r/Python/comments/1dt5far/which_solution_is_more_pythonic/)
-- [most reliable, tested bitcoin library](https://www.reddit.com/r/Python/comments/1dt4z4d/most_reliable_tested_bitcoin_library/)
-- [Minecraft using python](https://www.reddit.com/r/Python/comments/1dt4ang/minecraft_using_python/)
-- [What are your &quot;glad to have met you&quot; packages?](https://www.reddit.com/r/Python/comments/1dsyi19/what_are_your_glad_to_have_met_you_packages/)
-- [From Inspiration to Creation: Grapycal, Your Human-Friendly Innovation Tool.](https://www.reddit.com/r/Python/comments/1dsxwj1/from_inspiration_to_creation_grapycal_your/)
+- [I made a quiz about my favourite module in the Python standard library: Asyncio](https://www.reddit.com/r/Python/comments/1dt97sg/i_made_a_quiz_about_my_favourite_module_in_the/)
+- [What are your &quot;wish I hadn&#39;t met you&quot; packages?](https://www.reddit.com/r/Python/comments/1dt95io/what_are_your_wish_i_hadnt_met_you_packages/)
+- [Looking for folks to try my LLM based mutation testing tool](https://www.reddit.com/r/Python/comments/1dt8wfb/looking_for_folks_to_try_my_llm_based_mutation/)
+- [Is it just me, or does Django sometimes feel a bit... bland?](https://www.reddit.com/r/Python/comments/1dt82hu/is_it_just_me_or_does_django_sometimes_feel_a_bit/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1dt8170/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
