@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyCon US 2024 | All recorded content now available!](https://www.reddit.com/r/Python/comments/1dtxqph/pycon_us_2024_all_recorded_content_now_available/)
 - [python-fiddle.com: a website to write, run, and share python code and data visualizations](https://www.reddit.com/r/Python/comments/1dttjsb/pythonfiddlecom_a_website_to_write_run_and_share/)
 - [Feasibility of Transpiling Python to Svelte with Kivy for Web, Desktop, and Mobile Apps](https://www.reddit.com/r/Python/comments/1dttfu5/feasibility_of_transpiling_python_to_svelte_with/)
 - [Bite -a sqlite viewer made in python](https://www.reddit.com/r/Python/comments/1dtrm1f/bite_a_sqlite_viewer_made_in_python/)
 - [Python not recognizes](https://www.reddit.com/r/Python/comments/1dtq6xz/python_not_recognizes/)
-- [How to replicate Photoshop&#39;s transform warp tool in Python?](https://www.reddit.com/r/Python/comments/1dtp0yj/how_to_replicate_photoshops_transform_warp_tool/)
 <!-- BLOG-POST-LIST:END -->
