@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to replicate Photoshop&#39;s transform warp tool in Python?](https://www.reddit.com/r/Python/comments/1dtp0yj/how_to_replicate_photoshops_transform_warp_tool/)
+- [pypiscout.com – A search engine for Python packages based on vector embeddings](https://www.reddit.com/r/Python/comments/1dtov0u/pypiscoutcom_a_search_engine_for_python_packages/)
 - [Would you say Piccolo ORM is production ready in 2024?](https://www.reddit.com/r/Python/comments/1dtnr96/would_you_say_piccolo_orm_is_production_ready_in/)
-- [make an Impact](https://www.reddit.com/r/Python/comments/1dtnptk/make_an_impact/)
 - [Can I create an FTP App](https://www.reddit.com/r/Python/comments/1dthxos/can_i_create_an_ftp_app/)
 - [Oneliner for printing versions of all imported libraries](https://www.reddit.com/r/Python/comments/1dthvud/oneliner_for_printing_versions_of_all_imported/)
-- [Is there a python static binary available for android?](https://www.reddit.com/r/Python/comments/1dte3t3/is_there_a_python_static_binary_available_for/)
 <!-- BLOG-POST-LIST:END -->
