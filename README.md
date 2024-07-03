@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [dudes! I made an unofficial free API for ChatGPT called FreeGPTAPI](https://www.reddit.com/r/Python/comments/1duf9un/dudes_i_made_an_unofficial_free_api_for_chatgpt/)
+- [I made a game it&#39;s a rouge like inspired by balatro](https://www.reddit.com/r/Python/comments/1duf1g2/i_made_a_game_its_a_rouge_like_inspired_by_balatro/)
 - [What change in Python 3.12 is so hard for deep learning frameworks to support?](https://www.reddit.com/r/Python/comments/1du7myj/what_change_in_python_312_is_so_hard_for_deep/)
 - [Made my own web browser](https://www.reddit.com/r/Python/comments/1du4xq9/made_my_own_web_browser/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1du0k5r/wednesday_daily_thread_beginner_questions/)
-- [Caught between Reflex and the traditional approach &lpar;Django/Next.js&rpar;](https://www.reddit.com/r/Python/comments/1dtzb9f/caught_between_reflex_and_the_traditional/)
-- [TGNLP - A Three-Graph Natural Language Processing Library](https://www.reddit.com/r/Python/comments/1dtycly/tgnlp_a_threegraph_natural_language_processing/)
 <!-- BLOG-POST-LIST:END -->
