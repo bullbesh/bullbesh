@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Alibaba cli scrapper ... My first python package](https://www.reddit.com/r/Python/comments/1duoolv/alibaba_cli_scrapper_my_first_python_package/)
 - [Class for GenAI worflows &lpar;builder pattern&rpar;](https://www.reddit.com/r/Python/comments/1duli9l/class_for_genai_worflows_builder_pattern/)
-- [How to Visualize your Python Project’s Dependency Graph](https://www.reddit.com/r/Python/comments/1dui8pr/how_to_visualize_your_python_projects_dependency/)
 - [Suggestions for dependency injection / IoC container libraries](https://www.reddit.com/r/Python/comments/1dufilw/suggestions_for_dependency_injection_ioc/)
-- [dudes! I made an unofficial free API for ChatGPT called FreeGPTAPI](https://www.reddit.com/r/Python/comments/1duf9un/dudes_i_made_an_unofficial_free_api_for_chatgpt/)
-- [I made a game it&#39;s a rouge like inspired by balatro](https://www.reddit.com/r/Python/comments/1duf1g2/i_made_a_game_its_a_rouge_like_inspired_by_balatro/)
+- [Made my own web browser](https://www.reddit.com/r/Python/comments/1du4xq9/made_my_own_web_browser/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1du0k5r/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
