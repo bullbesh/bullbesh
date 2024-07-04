@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Self Promotion] AI for Web Devs 3: Custom Offline LLM Chat Memory and Summarization](https://www.reddit.com/r/Python/comments/1dvjbnb/self_promotion_ai_for_web_devs_3_custom_offline/)
 - [Weather.com web scraper with Python](https://www.reddit.com/r/Python/comments/1dvf418/weathercom_web_scraper_with_python/)
 - [pydantic_argify: Easily build ArgumentParser from pydantic](https://www.reddit.com/r/Python/comments/1dv9c72/pydantic_argify_easily_build_argumentparser_from/)
 - [Computing Saturn&#39;s &quot;rise time&quot;](https://www.reddit.com/r/Python/comments/1dv995o/computing_saturns_rise_time/)
 - [flpc: Probably the fastest regex library for Python. Made with Rust 🦀 and PyO3](https://www.reddit.com/r/Python/comments/1dv811q/flpc_probably_the_fastest_regex_library_for/)
-- [Implementing MultiModal RAG Projects for PDFs with Critical Information in Tables](https://www.reddit.com/r/Python/comments/1dv7quy/implementing_multimodal_rag_projects_for_pdfs/)
 <!-- BLOG-POST-LIST:END -->
