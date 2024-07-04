@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exception handling approach](https://www.reddit.com/r/Python/comments/1dv6p1c/exception_handling_approach/)
 - [What 2D graphics engine would you prefer a game engine be written for? &lpar;x-post r/gamedev&rpar;](https://www.reddit.com/r/Python/comments/1dv1qr1/what_2d_graphics_engine_would_you_prefer_a_game/)
 - [how much python is too much python?](https://www.reddit.com/r/Python/comments/1dv18ew/how_much_python_is_too_much_python/)
 - [Which Python GUI Framework do you prefer?](https://www.reddit.com/r/Python/comments/1duzrky/which_python_gui_framework_do_you_prefer/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1dut3lp/thursday_daily_thread_python_careers_courses_and/)
-- [Suggestions for adding a static status bar to python terminal output](https://www.reddit.com/r/Python/comments/1duq0r7/suggestions_for_adding_a_static_status_bar_to/)
 <!-- BLOG-POST-LIST:END -->
