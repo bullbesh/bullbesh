@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which Python GUI Framework do you prefer?](https://www.reddit.com/r/Python/comments/1duzrky/which_python_gui_framework_do_you_prefer/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1dut3lp/thursday_daily_thread_python_careers_courses_and/)
 - [Suggestions for adding a static status bar to python terminal output](https://www.reddit.com/r/Python/comments/1duq0r7/suggestions_for_adding_a_static_status_bar_to/)
 - [Alibaba cli scrapper ... My first python package](https://www.reddit.com/r/Python/comments/1duoolv/alibaba_cli_scrapper_my_first_python_package/)
 - [Class for GenAI worflows &lpar;builder pattern&rpar;](https://www.reddit.com/r/Python/comments/1duli9l/class_for_genai_worflows_builder_pattern/)
-- [Suggestions for dependency injection / IoC container libraries](https://www.reddit.com/r/Python/comments/1dufilw/suggestions_for_dependency_injection_ioc/)
 <!-- BLOG-POST-LIST:END -->
