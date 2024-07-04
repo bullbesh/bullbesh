@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing MultiModal RAG Projects for PDFs with Critical Information in Tables](https://www.reddit.com/r/Python/comments/1dv7quy/implementing_multimodal_rag_projects_for_pdfs/)
+- [Irritate through text in PDF and replace.](https://www.reddit.com/r/Python/comments/1dv7il8/irritate_through_text_in_pdf_and_replace/)
+- [[Week 27] Newly uploaded Python talks from PyCon US 2024 and PyCon Sweden 2024](https://www.reddit.com/r/Python/comments/1dv7572/week_27_newly_uploaded_python_talks_from_pycon_us/)
 - [Exception handling approach](https://www.reddit.com/r/Python/comments/1dv6p1c/exception_handling_approach/)
 - [What 2D graphics engine would you prefer a game engine be written for? &lpar;x-post r/gamedev&rpar;](https://www.reddit.com/r/Python/comments/1dv1qr1/what_2d_graphics_engine_would_you_prefer_a_game/)
-- [how much python is too much python?](https://www.reddit.com/r/Python/comments/1dv18ew/how_much_python_is_too_much_python/)
-- [Which Python GUI Framework do you prefer?](https://www.reddit.com/r/Python/comments/1duzrky/which_python_gui_framework_do_you_prefer/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1dut3lp/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
