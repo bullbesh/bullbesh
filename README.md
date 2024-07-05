@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Alternatives to running exe from Pyinstall](https://www.reddit.com/r/Python/comments/1dw6i87/alternatives_to_running_exe_from_pyinstall/)
+- [Django AI Assistant - Open-source Lib Launch](https://www.reddit.com/r/Python/comments/1dw8gs1/django_ai_assistant_opensource_lib_launch/)
 - [[Coming Soon] PypeScript](https://www.reddit.com/r/Python/comments/1dw61vd/coming_soon_pypescript/)
 - [Made a tool for retrieving the path of strings in complex JSON structures](https://www.reddit.com/r/Python/comments/1dw4z0c/made_a_tool_for_retrieving_the_path_of_strings_in/)
 - [New Alterative to rustscan or nmap](https://www.reddit.com/r/Python/comments/1dw4e57/new_alterative_to_rustscan_or_nmap/)
