@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made a tool for retrieving the path of strings in complex JSON structures](https://www.reddit.com/r/Python/comments/1dw4z0c/made_a_tool_for_retrieving_the_path_of_strings_in/)
 - [New Alterative to rustscan or nmap](https://www.reddit.com/r/Python/comments/1dw4e57/new_alterative_to_rustscan_or_nmap/)
 - [sql-compare: package to compare SQL schemas](https://www.reddit.com/r/Python/comments/1dvsqk7/sqlcompare_package_to_compare_sql_schemas/)
 - [Reactive Notebook for Python - An Alternative to Jupyter Notebook](https://www.reddit.com/r/Python/comments/1dvs2d6/reactive_notebook_for_python_an_alternative_to/)
 - [Emotion classification &amp; Analysis](https://www.reddit.com/r/Python/comments/1dvrl6s/emotion_classification_analysis/)
-- [My first gui app &lpar;youtube to mp3&rpar;](https://www.reddit.com/r/Python/comments/1dvltza/my_first_gui_app_youtube_to_mp3/)
 <!-- BLOG-POST-LIST:END -->
