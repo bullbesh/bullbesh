@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for recommendation of simple python web server library](https://www.reddit.com/r/Python/comments/1dvmh3v/looking_for_recommendation_of_simple_python_web/)
 - [My first gui app &lpar;youtube to mp3&rpar;](https://www.reddit.com/r/Python/comments/1dvltza/my_first_gui_app_youtube_to_mp3/)
-- [Best Python All-In-Solution: Rye vs Hatch vs Other?](https://www.reddit.com/r/Python/comments/1dvlll2/best_python_allinsolution_rye_vs_hatch_vs_other/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1dvkvjp/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Weather.com web scraper with Python](https://www.reddit.com/r/Python/comments/1dvf418/weathercom_web_scraper_with_python/)
 - [pydantic_argify: Easily build ArgumentParser from pydantic](https://www.reddit.com/r/Python/comments/1dv9c72/pydantic_argify_easily_build_argumentparser_from/)
