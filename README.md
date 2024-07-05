@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [sql-compare: package to compare SQL schemas](https://www.reddit.com/r/Python/comments/1dvsqk7/sqlcompare_package_to_compare_sql_schemas/)
 - [Reactive Notebook for Python - An Alternative to Jupyter Notebook](https://www.reddit.com/r/Python/comments/1dvs2d6/reactive_notebook_for_python_an_alternative_to/)
 - [Made a benchmarking tool to measure your e-peen..](https://www.reddit.com/r/Python/comments/1dvruk7/made_a_benchmarking_tool_to_measure_your_epeen/)
 - [Emotion classification &amp; Analysis](https://www.reddit.com/r/Python/comments/1dvrl6s/emotion_classification_analysis/)
 - [Looking for recommendation of simple python web server library](https://www.reddit.com/r/Python/comments/1dvmh3v/looking_for_recommendation_of_simple_python_web/)
-- [My first gui app &lpar;youtube to mp3&rpar;](https://www.reddit.com/r/Python/comments/1dvltza/my_first_gui_app_youtube_to_mp3/)
 <!-- BLOG-POST-LIST:END -->
