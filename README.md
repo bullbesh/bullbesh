@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m a Python Backend Developer, How to Create a Modern and Fast Frontend?](https://www.reddit.com/r/Python/comments/1dwf2sh/im_a_python_backend_developer_how_to_create_a/)
+- [Free Machine Learning Fundamentals Course: Covers Regression, Pandas, SciKit-Learn, and More](https://www.reddit.com/r/Python/comments/1dwew67/free_machine_learning_fundamentals_course_covers/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1dwcc4t/saturday_daily_thread_resource_request_and/)
-- [Is it worth starting with backend to end up as machine learning?](https://www.reddit.com/r/Python/comments/1dwbzsj/is_it_worth_starting_with_backend_to_end_up_as/)
 - [Any challenge in python ?](https://www.reddit.com/r/Python/comments/1dwbuu0/any_challenge_in_python/)
 - [Django AI Assistant - Open-source Lib Launch](https://www.reddit.com/r/Python/comments/1dw8gs1/django_ai_assistant_opensource_lib_launch/)
-- [[Coming Soon] PypeScript](https://www.reddit.com/r/Python/comments/1dw61vd/coming_soon_pypescript/)
 <!-- BLOG-POST-LIST:END -->
