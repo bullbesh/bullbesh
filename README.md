@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Shed Skin restricted-Python-to-C++-compiler 0.9.9](https://www.reddit.com/r/Python/comments/1dwkz20/shed_skin_restrictedpythontoccompiler_099/)
 - [Any python website or tips to learn the info better or faster.](https://www.reddit.com/r/Python/comments/1dwkqew/any_python_website_or_tips_to_learn_the_info/)
 - [I&#39;m a Python Backend Developer, How to Create a Modern and Fast Frontend?](https://www.reddit.com/r/Python/comments/1dwf2sh/im_a_python_backend_developer_how_to_create_a/)
 - [Free Machine Learning Fundamentals Course: Covers Regression, Pandas, SciKit-Learn, and More](https://www.reddit.com/r/Python/comments/1dwew67/free_machine_learning_fundamentals_course_covers/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1dwcc4t/saturday_daily_thread_resource_request_and/)
-- [Any challenge in python ?](https://www.reddit.com/r/Python/comments/1dwbuu0/any_challenge_in_python/)
 <!-- BLOG-POST-LIST:END -->
