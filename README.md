@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [logger.debug&lpar;&quot;Waiting for uboot prompt&quot;&rpar; reader.expect&lpar;&quot;=&gt; &quot;&rpar;](https://www.reddit.com/r/Python/comments/1dwb3cx/loggerdebugwaiting_for_uboot_prompt_readerexpect/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1dwcc4t/saturday_daily_thread_resource_request_and/)
+- [Is it worth starting with backend to end up as machine learning?](https://www.reddit.com/r/Python/comments/1dwbzsj/is_it_worth_starting_with_backend_to_end_up_as/)
+- [Any challenge in python ?](https://www.reddit.com/r/Python/comments/1dwbuu0/any_challenge_in_python/)
 - [Django AI Assistant - Open-source Lib Launch](https://www.reddit.com/r/Python/comments/1dw8gs1/django_ai_assistant_opensource_lib_launch/)
 - [[Coming Soon] PypeScript](https://www.reddit.com/r/Python/comments/1dw61vd/coming_soon_pypescript/)
-- [Made a tool for retrieving the path of strings in complex JSON structures](https://www.reddit.com/r/Python/comments/1dw4z0c/made_a_tool_for_retrieving_the_path_of_strings_in/)
-- [New Alterative to rustscan or nmap](https://www.reddit.com/r/Python/comments/1dw4e57/new_alterative_to_rustscan_or_nmap/)
 <!-- BLOG-POST-LIST:END -->
