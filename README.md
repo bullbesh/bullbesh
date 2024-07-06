@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building simple pastebin service in Python](https://www.reddit.com/r/Python/comments/1dwvicn/building_simple_pastebin_service_in_python/)
 - [Python packages with &quot;Rust Editions&quot;-level of backwards compatibility?](https://www.reddit.com/r/Python/comments/1dwpyke/python_packages_with_rust_editionslevel_of/)
 - [Similar Movie Prediction model using the Scikit-learn library in Python](https://www.reddit.com/r/Python/comments/1dwpot5/similar_movie_prediction_model_using_the/)
 - [FPDF2 Layout for newspaper](https://www.reddit.com/r/Python/comments/1dwlvhq/fpdf2_layout_for_newspaper/)
 - [Shed Skin restricted-Python-to-C++-compiler 0.9.9](https://www.reddit.com/r/Python/comments/1dwkz20/shed_skin_restrictedpythontoccompiler_099/)
-- [I&#39;m a Python Backend Developer, How to Create a Modern and Fast Frontend?](https://www.reddit.com/r/Python/comments/1dwf2sh/im_a_python_backend_developer_how_to_create_a/)
 <!-- BLOG-POST-LIST:END -->
