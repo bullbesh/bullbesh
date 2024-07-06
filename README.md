@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do not know how to speedup your code? Just distribute!](https://www.reddit.com/r/Python/comments/1dwzx4j/do_not_know_how_to_speedup_your_code_just/)
 - [Can universal decorators be useful?](https://www.reddit.com/r/Python/comments/1dwzkv9/can_universal_decorators_be_useful/)
 - [I made a Python library to plot chemical trends | Plotium](https://www.reddit.com/r/Python/comments/1dwy0bg/i_made_a_python_library_to_plot_chemical_trends/)
 - [Turn Your GitHub Contributions into a Tetris GIF! 🎮](https://www.reddit.com/r/Python/comments/1dwwaoe/turn_your_github_contributions_into_a_tetris_gif/)
 - [Building simple pastebin service in Python](https://www.reddit.com/r/Python/comments/1dwvicn/building_simple_pastebin_service_in_python/)
-- [Python packages with &quot;Rust Editions&quot;-level of backwards compatibility?](https://www.reddit.com/r/Python/comments/1dwpyke/python_packages_with_rust_editionslevel_of/)
 <!-- BLOG-POST-LIST:END -->
