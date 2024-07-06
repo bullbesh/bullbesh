@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Junior Python Developer Interview Questions?](https://www.reddit.com/r/Python/comments/1dwqkfz/junior_python_developer_interview_questions/)
+- [Similar Movie Prediction model using the Scikit-learn library in Python](https://www.reddit.com/r/Python/comments/1dwpot5/similar_movie_prediction_model_using_the/)
+- [Sharing small programs, that doesn&#39;t require q login](https://www.reddit.com/r/Python/comments/1dwpkzj/sharing_small_programs_that_doesnt_require_q_login/)
 - [What to do next?](https://www.reddit.com/r/Python/comments/1dwm2tz/what_to_do_next/)
 - [FPDF2 Layout for newspaper](https://www.reddit.com/r/Python/comments/1dwlvhq/fpdf2_layout_for_newspaper/)
-- [Shed Skin restricted-Python-to-C++-compiler 0.9.9](https://www.reddit.com/r/Python/comments/1dwkz20/shed_skin_restrictedpythontoccompiler_099/)
-- [Any python website or tips to learn the info better or faster.](https://www.reddit.com/r/Python/comments/1dwkqew/any_python_website_or_tips_to_learn_the_info/)
-- [I&#39;m a Python Backend Developer, How to Create a Modern and Fast Frontend?](https://www.reddit.com/r/Python/comments/1dwf2sh/im_a_python_backend_developer_how_to_create_a/)
 <!-- BLOG-POST-LIST:END -->
