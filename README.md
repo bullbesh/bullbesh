@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [YAML/JSON file for if this , then that or Flow Orchestration](https://www.reddit.com/r/Python/comments/1dxjjaw/yamljson_file_for_if_this_then_that_or_flow/)
 - [I wrote a program that checks the activity of domain names given in bulk and saves them regularly in](https://www.reddit.com/r/Python/comments/1dxgqkc/i_wrote_a_program_that_checks_the_activity_of/)
 - [Computing Saturn&#39;s tilting rings](https://www.reddit.com/r/Python/comments/1dxddhg/computing_saturns_tilting_rings/)
 - [Flask, Django, or FastAPI?](https://www.reddit.com/r/Python/comments/1dxcdiy/flask_django_or_fastapi/)
 - [Is python GUI acually slow](https://www.reddit.com/r/Python/comments/1dxaade/is_python_gui_acually_slow/)
-- [For licensing reasons, I cannot continue using Anaconda python. What does it take to remove it?](https://www.reddit.com/r/Python/comments/1dx9jbh/for_licensing_reasons_i_cannot_continue_using/)
 <!-- BLOG-POST-LIST:END -->
