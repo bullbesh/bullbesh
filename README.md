@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are you going to earn a living?](https://www.reddit.com/r/Python/comments/1dxfpof/what_are_you_going_to_earn_a_living/)
 - [Computing Saturn&#39;s tilting rings](https://www.reddit.com/r/Python/comments/1dxddhg/computing_saturns_tilting_rings/)
 - [Flask, Django, or FastAPI?](https://www.reddit.com/r/Python/comments/1dxcdiy/flask_django_or_fastapi/)
 - [Is python GUI acually slow](https://www.reddit.com/r/Python/comments/1dxaade/is_python_gui_acually_slow/)
 - [For licensing reasons, I cannot continue using Anaconda python. What does it take to remove it?](https://www.reddit.com/r/Python/comments/1dx9jbh/for_licensing_reasons_i_cannot_continue_using/)
-- [Node.js equivalent in python](https://www.reddit.com/r/Python/comments/1dx90es/nodejs_equivalent_in_python/)
 <!-- BLOG-POST-LIST:END -->
