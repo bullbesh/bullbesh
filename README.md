@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flask, Django, or FastAPI?](https://www.reddit.com/r/Python/comments/1dxcdiy/flask_django_or_fastapi/)
 - [Is python GUI acually slow](https://www.reddit.com/r/Python/comments/1dxaade/is_python_gui_acually_slow/)
 - [For licensing reasons, I cannot continue using Anaconda python. What does it take to remove it?](https://www.reddit.com/r/Python/comments/1dx9jbh/for_licensing_reasons_i_cannot_continue_using/)
 - [Node.js equivalent in python](https://www.reddit.com/r/Python/comments/1dx90es/nodejs_equivalent_in_python/)
 - [Lazy Reverse Method in O&lpar;1&rpar; Time](https://www.reddit.com/r/Python/comments/1dx885o/lazy_reverse_method_in_o1_time/)
-- [Introducing Expedite - A simple encrypted file transfer service for humans](https://www.reddit.com/r/Python/comments/1dx7qqb/introducing_expedite_a_simple_encrypted_file/)
 <!-- BLOG-POST-LIST:END -->
