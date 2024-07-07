@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing GraphingLib: A New Python Library for Object-Oriented Visualization](https://www.reddit.com/r/Python/comments/1dx4h1b/introducing_graphinglib_a_new_python_library_for/)
+- [I made a Tiktok View Booster with captcha bypass!](https://www.reddit.com/r/Python/comments/1dx46ip/i_made_a_tiktok_view_booster_with_captcha_bypass/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1dx3ae2/sunday_daily_thread_whats_everyone_working_on/)
 - [Implementation of a subscription system on a website with key verification](https://www.reddit.com/r/Python/comments/1dx1lce/implementation_of_a_subscription_system_on_a/)
 - [Do not know how to speedup your code? Just distribute!](https://www.reddit.com/r/Python/comments/1dwzx4j/do_not_know_how_to_speedup_your_code_just/)
-- [Can universal decorators be useful?](https://www.reddit.com/r/Python/comments/1dwzkv9/can_universal_decorators_be_useful/)
-- [I made a Python library to plot chemical trends | Plotium](https://www.reddit.com/r/Python/comments/1dwy0bg/i_made_a_python_library_to_plot_chemical_trends/)
-- [Turn Your GitHub Contributions into a Tetris GIF! 🎮](https://www.reddit.com/r/Python/comments/1dwwaoe/turn_your_github_contributions_into_a_tetris_gif/)
 <!-- BLOG-POST-LIST:END -->
