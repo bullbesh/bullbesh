@@ -11,6 +11,6 @@
 - [NVIDIA Graphics Card Update Check](https://www.reddit.com/r/Python/comments/1dxwahg/nvidia_graphics_card_update_check/)
 - [Self-hosted webscraper](https://www.reddit.com/r/Python/comments/1dxw3r8/selfhosted_webscraper/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1dxuucj/monday_daily_thread_project_ideas/)
-- [Best way to self teach Python](https://www.reddit.com/r/Python/comments/1dxtp0w/best_way_to_self_teach_python/)
 - [Introducing Pixy, a JSX inspired embedded component language for Python.](https://www.reddit.com/r/Python/comments/1dxqrs4/introducing_pixy_a_jsx_inspired_embedded/)
+- [How much data validation is healthy?](https://www.reddit.com/r/Python/comments/1dxmp46/how_much_data_validation_is_healthy/)
 <!-- BLOG-POST-LIST:END -->
