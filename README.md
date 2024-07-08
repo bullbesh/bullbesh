@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Streaming Chatbot with Burr, FastAPI, and React](https://www.reddit.com/r/Python/comments/1dyeqj2/streaming_chatbot_with_burr_fastapi_and_react/)
 - [Creating a simple 3D platformer for my Computing coursework using UE5 or any other game engine](https://www.reddit.com/r/Python/comments/1dydt35/creating_a_simple_3d_platformer_for_my_computing/)
 - [AutoKitteh - developer-first, open-source platform for durable workflow automation](https://www.reddit.com/r/Python/comments/1dyd5ne/autokitteh_developerfirst_opensource_platform_for/)
 - [Whenever: a modern datetime library for Python, written in Rust](https://www.reddit.com/r/Python/comments/1dyb8gn/whenever_a_modern_datetime_library_for_python/)
 - [typed_argparser: CLI argument parsing and validation using type hints.](https://www.reddit.com/r/Python/comments/1dyabhz/typed_argparser_cli_argument_parsing_and/)
-- [AutoKitteh - developer-first, open-source platform for durable workflow automation](https://www.reddit.com/r/Python/comments/1dya7z9/autokitteh_developerfirst_opensource_platform_for/)
 <!-- BLOG-POST-LIST:END -->
