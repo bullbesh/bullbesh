@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with llama](https://www.reddit.com/r/Python/comments/1dy08cu/working_with_llama/)
+- [Can I message someone on GitHub?](https://www.reddit.com/r/Python/comments/1dy01wr/can_i_message_someone_on_github/)
 - [NVIDIA Graphics Card Update Check](https://www.reddit.com/r/Python/comments/1dxwahg/nvidia_graphics_card_update_check/)
 - [Self-hosted webscraper](https://www.reddit.com/r/Python/comments/1dxw3r8/selfhosted_webscraper/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1dxuucj/monday_daily_thread_project_ideas/)
-- [Introducing Pixy, a JSX inspired embedded component language for Python.](https://www.reddit.com/r/Python/comments/1dxqrs4/introducing_pixy_a_jsx_inspired_embedded/)
-- [How much data validation is healthy?](https://www.reddit.com/r/Python/comments/1dxmp46/how_much_data_validation_is_healthy/)
 <!-- BLOG-POST-LIST:END -->
