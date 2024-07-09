@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [On Walrus Operators, List Comprehensions and Fibonacci sequences](https://www.reddit.com/r/Python/comments/1dypvkr/on_walrus_operators_list_comprehensions_and/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1dyo8uq/tuesday_daily_thread_advanced_questions/)
 - [Semantic Router &lpar;SemRoute&rpar;](https://www.reddit.com/r/Python/comments/1dyhhcd/semantic_router_semroute/)
 - [Streaming Chatbot with Burr, FastAPI, and React](https://www.reddit.com/r/Python/comments/1dyeqj2/streaming_chatbot_with_burr_fastapi_and_react/)
 - [Creating a simple 3D platformer for my Computing coursework using UE5 or any other game engine](https://www.reddit.com/r/Python/comments/1dydt35/creating_a_simple_3d_platformer_for_my_computing/)
-- [AutoKitteh - developer-first, open-source platform for durable workflow automation](https://www.reddit.com/r/Python/comments/1dyd5ne/autokitteh_developerfirst_opensource_platform_for/)
-- [Whenever: a modern datetime library for Python, written in Rust](https://www.reddit.com/r/Python/comments/1dyb8gn/whenever_a_modern_datetime_library_for_python/)
 <!-- BLOG-POST-LIST:END -->
