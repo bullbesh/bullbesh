@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Robyn v0.57.0 update - adds QueryParams in the WebSocket interface](https://www.reddit.com/r/Python/comments/1dzf4ys/robyn_v0570_update_adds_queryparams_in_the/)
-- [Python Principles Course for Udemy for FREE!](https://www.reddit.com/r/Python/comments/1dzeqm6/python_principles_course_for_udemy_for_free/)
 - [I made Qtmonkeytype a cross-platform desktop clone of the original website | PySide6](https://www.reddit.com/r/Python/comments/1dzeovs/i_made_qtmonkeytype_a_crossplatform_desktop_clone/)
 - [Maelstrom: Maelstrom – A Hermetic, Clustered Test Runner for Python and Rust](https://www.reddit.com/r/Python/comments/1dzc7k1/maelstrom_maelstrom_a_hermetic_clustered_test/)
 - [Unofficial Reddit API](https://www.reddit.com/r/Python/comments/1dz9qhl/unofficial_reddit_api/)
+- [Posting - the modern HTTP client that lives in your terminal](https://www.reddit.com/r/Python/comments/1dz775b/posting_the_modern_http_client_that_lives_in_your/)
+- [Syscall Showdown: Python vs. Ruby](https://www.reddit.com/r/Python/comments/1dz5nh4/syscall_showdown_python_vs_ruby/)
 <!-- BLOG-POST-LIST:END -->
