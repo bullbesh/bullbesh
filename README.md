@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Posting - the modern HTTP client that lives in your terminal](https://www.reddit.com/r/Python/comments/1dz775b/posting_the_modern_http_client_that_lives_in_your/)
+- [Question on HackerRank Python problems](https://www.reddit.com/r/Python/comments/1dz6qf3/question_on_hackerrank_python_problems/)
 - [Syscall Showdown: Python vs. Ruby](https://www.reddit.com/r/Python/comments/1dz5nh4/syscall_showdown_python_vs_ruby/)
 - [Looking for a python tutor](https://www.reddit.com/r/Python/comments/1dz4vch/looking_for_a_python_tutor/)
 - [Forgot to buy my Pycon 2024 tickets.... Pls its my first time and i wanna attend real bad.](https://www.reddit.com/r/Python/comments/1dz2q4u/forgot_to_buy_my_pycon_2024_tickets_pls_its_my/)
-- [DataFrame now has much improved documentation](https://www.reddit.com/r/Python/comments/1dz1xuw/dataframe_now_has_much_improved_documentation/)
-- [Crawlee for Python is LIVE 👏](https://www.reddit.com/r/Python/comments/1dyyaky/crawlee_for_python_is_live/)
 <!-- BLOG-POST-LIST:END -->
