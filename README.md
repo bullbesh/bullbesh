@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Crawlee for Python is LIVE 👏](https://www.reddit.com/r/Python/comments/1dyyaky/crawlee_for_python_is_live/)
 - [Thinking of pivoting &lpar; INDIA &rpar;](https://www.reddit.com/r/Python/comments/1dyv1cy/thinking_of_pivoting_india/)
 - [On Walrus Operators, List Comprehensions and Fibonacci sequences](https://www.reddit.com/r/Python/comments/1dypvkr/on_walrus_operators_list_comprehensions_and/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1dyo8uq/tuesday_daily_thread_advanced_questions/)
 - [Semantic Router &lpar;SemRoute&rpar;](https://www.reddit.com/r/Python/comments/1dyhhcd/semantic_router_semroute/)
-- [Streaming Chatbot with Burr, FastAPI, and React](https://www.reddit.com/r/Python/comments/1dyeqj2/streaming_chatbot_with_burr_fastapi_and_react/)
 <!-- BLOG-POST-LIST:END -->
