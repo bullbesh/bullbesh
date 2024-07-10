@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pytube still working?](https://www.reddit.com/r/Python/comments/1dzlpg2/pytube_still_working/)
 - [I wrote a quit smoking tracker website in Flask](https://www.reddit.com/r/Python/comments/1dzij6s/i_wrote_a_quit_smoking_tracker_website_in_flask/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1dzhlys/wednesday_daily_thread_beginner_questions/)
 - [I made Qtmonkeytype a cross-platform desktop clone of the original website | PySide6](https://www.reddit.com/r/Python/comments/1dzeovs/i_made_qtmonkeytype_a_crossplatform_desktop_clone/)
 - [Maelstrom: Maelstrom – A Hermetic, Clustered Test Runner for Python and Rust](https://www.reddit.com/r/Python/comments/1dzc7k1/maelstrom_maelstrom_a_hermetic_clustered_test/)
-- [Posting - the modern HTTP client that lives in your terminal](https://www.reddit.com/r/Python/comments/1dz775b/posting_the_modern_http_client_that_lives_in_your/)
 <!-- BLOG-POST-LIST:END -->
