@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Photoshop API - Read and Write PSD files with Python and C++](https://www.reddit.com/r/Python/comments/1dzq8qk/photoshop_api_read_and_write_psd_files_with/)
 - [Streamlit Logout Button](https://www.reddit.com/r/Python/comments/1dzp9zk/streamlit_logout_button/)
 - [Resources For Learning/Using Python?](https://www.reddit.com/r/Python/comments/1dzmy70/resources_for_learningusing_python/)
 - [pytube still working?](https://www.reddit.com/r/Python/comments/1dzlpg2/pytube_still_working/)
 - [I wrote a quit smoking tracker website in Flask](https://www.reddit.com/r/Python/comments/1dzij6s/i_wrote_a_quit_smoking_tracker_website_in_flask/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1dzhlys/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
