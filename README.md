@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dishka - cute DI-framework with scopes and control](https://www.reddit.com/r/Python/comments/1e02ay9/dishka_cute_diframework_with_scopes_and_control/)
 - [MultiModal Slide Search with GPT-4o &amp; Pathway &lpar;a Python framework&rpar; for Extraction &amp; Hybrid Indexing](https://www.reddit.com/r/Python/comments/1e015cp/multimodal_slide_search_with_gpt4o_pathway_a/)
 - [Build a password manager in python](https://www.reddit.com/r/Python/comments/1e005sq/build_a_password_manager_in_python/)
 - [Opensource HeyGen or D-ID alternative?](https://www.reddit.com/r/Python/comments/1dzyfg4/opensource_heygen_or_did_alternative/)
 - [Which packages or libraries that you always wanted to be existed?](https://www.reddit.com/r/Python/comments/1dzxusz/which_packages_or_libraries_that_you_always/)
-- [Open-source AI YouTube Shorts Generator in Python](https://www.reddit.com/r/Python/comments/1dzxnts/opensource_ai_youtube_shorts_generator_in_python/)
 <!-- BLOG-POST-LIST:END -->
