@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MultiModal Slide Search with GPT-4o &amp; Pathway &lpar;a Python framework&rpar; for Extraction &amp; Hybrid Indexing](https://www.reddit.com/r/Python/comments/1e015cp/multimodal_slide_search_with_gpt4o_pathway_a/)
+- [Build a password manager in python](https://www.reddit.com/r/Python/comments/1e005sq/build_a_password_manager_in_python/)
 - [Opensource HeyGen or D-ID alternative?](https://www.reddit.com/r/Python/comments/1dzyfg4/opensource_heygen_or_did_alternative/)
 - [Which packages or libraries that you always wanted to be existed?](https://www.reddit.com/r/Python/comments/1dzxusz/which_packages_or_libraries_that_you_always/)
 - [Open-source AI YouTube Shorts Generator in Python](https://www.reddit.com/r/Python/comments/1dzxnts/opensource_ai_youtube_shorts_generator_in_python/)
-- [Creating exam question without solving with ChatGPT](https://www.reddit.com/r/Python/comments/1dzx6e8/creating_exam_question_without_solving_with/)
-- [Photoshop API - Read and Write PSD files with Python and C++](https://www.reddit.com/r/Python/comments/1dzq8qk/photoshop_api_read_and_write_psd_files_with/)
 <!-- BLOG-POST-LIST:END -->
