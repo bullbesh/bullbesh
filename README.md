@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project idea for any sort of coding](https://www.reddit.com/r/Python/comments/1e0zvcf/project_idea_for_any_sort_of_coding/)
+- [An independent, &quot;self-aware&quot; LLM Agent under 100 lines of Python](https://www.reddit.com/r/Python/comments/1e0ypgo/an_independent_selfaware_llm_agent_under_100/)
 - [Installed applications and a dashboard](https://www.reddit.com/r/Python/comments/1e0r0tz/installed_applications_and_a_dashboard/)
 - [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1e0pxe8/the_python_on_microcontrollers_and_raspberry_pi/)
 - [AI Music trained on own dataset](https://www.reddit.com/r/Python/comments/1e0bn66/ai_music_trained_on_own_dataset/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1e0b18d/thursday_daily_thread_python_careers_courses_and/)
-- [Dishka - cute DI-framework with scopes and control](https://www.reddit.com/r/Python/comments/1e02ay9/dishka_cute_diframework_with_scopes_and_control/)
 <!-- BLOG-POST-LIST:END -->
