@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interested in learning](https://www.reddit.com/r/Python/comments/1e1uz3i/interested_in_learning/)
 - [First python project](https://www.reddit.com/r/Python/comments/1e1twdj/first_python_project/)
-- [Lightweight Pandas alternative with C-order numpy support?](https://www.reddit.com/r/Python/comments/1e1sutt/lightweight_pandas_alternative_with_corder_numpy/)
 - [Free-threaded CPython is ready to experiment with!](https://www.reddit.com/r/Python/comments/1e1s08n/freethreaded_cpython_is_ready_to_experiment_with/)
 - [Python Machine Learning Library](https://www.reddit.com/r/Python/comments/1e1reu6/python_machine_learning_library/)
-- [Python Principles Course on Udemy!](https://www.reddit.com/r/Python/comments/1e1oczh/python_principles_course_on_udemy/)
+- [Is pytorch faster than numpy on a single CPU?](https://www.reddit.com/r/Python/comments/1e1cfpt/is_pytorch_faster_than_numpy_on_a_single_cpu/)
 <!-- BLOG-POST-LIST:END -->
