@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Batch Notification System with MongoDB, Django, Celery, and SendGrid](https://www.reddit.com/r/Python/comments/1e1irk7/building_a_batch_notification_system_with_mongodb/)
+- [How many of y&#39;all knew &quot;async with&quot; was a thing?](https://www.reddit.com/r/Python/comments/1e1imr1/how_many_of_yall_knew_async_with_was_a_thing/)
 - [advanced Screen recorder with GUI &lpar;sends notifications&rpar;](https://www.reddit.com/r/Python/comments/1e1gfub/advanced_screen_recorder_with_gui_sends/)
 - [Is pytorch faster than numpy on a single CPU?](https://www.reddit.com/r/Python/comments/1e1cfpt/is_pytorch_faster_than_numpy_on_a_single_cpu/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1e13kw8/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Growth mixture modeling in python?](https://www.reddit.com/r/Python/comments/1e13jk7/growth_mixture_modeling_in_python/)
-- [I&#39;ve created a celebrity trivia game in Flask that uses information from their Wiki page as clues](https://www.reddit.com/r/Python/comments/1e11nom/ive_created_a_celebrity_trivia_game_in_flask_that/)
 <!-- BLOG-POST-LIST:END -->
