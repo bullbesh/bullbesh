@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Website to find Django &lpar;Python&rpar; remote jobs](https://www.reddit.com/r/Python/comments/1e1k6j0/website_to_find_django_python_remote_jobs/)
+- [Python project request: auto-survey](https://www.reddit.com/r/Python/comments/1e1k2ku/python_project_request_autosurvey/)
+- [Will Python be replaced by AI?](https://www.reddit.com/r/Python/comments/1e1k1es/will_python_be_replaced_by_ai/)
 - [Building a Batch Notification System with MongoDB, Django, Celery, and SendGrid](https://www.reddit.com/r/Python/comments/1e1irk7/building_a_batch_notification_system_with_mongodb/)
 - [How many of y&#39;all knew &quot;async with&quot; was a thing?](https://www.reddit.com/r/Python/comments/1e1imr1/how_many_of_yall_knew_async_with_was_a_thing/)
-- [advanced Screen recorder with GUI &lpar;sends notifications&rpar;](https://www.reddit.com/r/Python/comments/1e1gfub/advanced_screen_recorder_with_gui_sends/)
-- [Is pytorch faster than numpy on a single CPU?](https://www.reddit.com/r/Python/comments/1e1cfpt/is_pytorch_faster_than_numpy_on_a_single_cpu/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1e13kw8/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
