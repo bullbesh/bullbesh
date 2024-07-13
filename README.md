@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Computers are fast [Python perf quiz]](https://www.reddit.com/r/Python/comments/1e2cvwb/computers_are_fast_python_perf_quiz/)
 - [Why do people want to obduscate python code?](https://www.reddit.com/r/Python/comments/1e29hy8/why_do_people_want_to_obduscate_python_code/)
 - [Vectorlite: a fast vector search extension for SQLite](https://www.reddit.com/r/Python/comments/1e26xsm/vectorlite_a_fast_vector_search_extension_for/)
 - [Screen Recorder with Intuitive GUI Using Python and Tkinter](https://www.reddit.com/r/Python/comments/1e23pdy/screen_recorder_with_intuitive_gui_using_python/)
 - [My Python project to batch convert excel files to csv/txt](https://www.reddit.com/r/Python/comments/1e212c2/my_python_project_to_batch_convert_excel_files_to/)
-- [Anybody interested in a nextjs-like framework but with HTMX and Jinja?](https://www.reddit.com/r/Python/comments/1e1y1hb/anybody_interested_in_a_nextjslike_framework_but/)
 <!-- BLOG-POST-LIST:END -->
