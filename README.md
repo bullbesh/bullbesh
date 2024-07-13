@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Interested in learning](https://www.reddit.com/r/Python/comments/1e1uz3i/interested_in_learning/)
+- [Anybody interested in a nextjs-like framework but with HTMX and Jinja?](https://www.reddit.com/r/Python/comments/1e1y1hb/anybody_interested_in_a_nextjslike_framework_but/)
+- [Terminal Webmail - GMail in the Linux Terminal](https://www.reddit.com/r/Python/comments/1e1x3n7/terminal_webmail_gmail_in_the_linux_terminal/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1e1wj7h/saturday_daily_thread_resource_request_and/)
 - [First python project](https://www.reddit.com/r/Python/comments/1e1twdj/first_python_project/)
 - [Free-threaded CPython is ready to experiment with!](https://www.reddit.com/r/Python/comments/1e1s08n/freethreaded_cpython_is_ready_to_experiment_with/)
-- [Python Machine Learning Library](https://www.reddit.com/r/Python/comments/1e1reu6/python_machine_learning_library/)
-- [Is pytorch faster than numpy on a single CPU?](https://www.reddit.com/r/Python/comments/1e1cfpt/is_pytorch_faster_than_numpy_on_a_single_cpu/)
 <!-- BLOG-POST-LIST:END -->
