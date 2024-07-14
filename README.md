@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What i need to know about ptlython for internanhsip in finance](https://www.reddit.com/r/Python/comments/1e2m9hd/what_i_need_to_know_about_ptlython_for/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1e2om1j/sunday_daily_thread_whats_everyone_working_on/)
 - [SEC Parsers: parse sec filings section by section into xml](https://www.reddit.com/r/Python/comments/1e2lw9o/sec_parsers_parse_sec_filings_section_by_section/)
 - [The Blaze Star - soon a visible Nova in the night sky](https://www.reddit.com/r/Python/comments/1e2hhvg/the_blaze_star_soon_a_visible_nova_in_the_night/)
 - [Computers are fast [Python perf quiz]](https://www.reddit.com/r/Python/comments/1e2cvwb/computers_are_fast_python_perf_quiz/)
