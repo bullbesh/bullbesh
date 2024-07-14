@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Using Python.org documents for learning](https://www.reddit.com/r/Python/comments/1e39b5k/using_pythonorg_documents_for_learning/)
 - [Typing Speed Analyzer](https://www.reddit.com/r/Python/comments/1e35h3u/typing_speed_analyzer/)
 - [Is common best practice in python to use assert for business logic?](https://www.reddit.com/r/Python/comments/1e33nuh/is_common_best_practice_in_python_to_use_assert/)
 - [[Showcase] G-Scraper - a GUI web scraper written completely in Python](https://www.reddit.com/r/Python/comments/1e2z7n7/showcase_gscraper_a_gui_web_scraper_written/)
 - [Textchat: The SSL and SASL update](https://www.reddit.com/r/Python/comments/1e2rmta/textchat_the_ssl_and_sasl_update/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1e2om1j/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
