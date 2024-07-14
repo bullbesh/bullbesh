@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Textchat: The SSL and SASL update](https://www.reddit.com/r/Python/comments/1e2rmta/textchat_the_ssl_and_sasl_update/)
-- [Kafka - Python](https://www.reddit.com/r/Python/comments/1e2qufh/kafka_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1e2om1j/sunday_daily_thread_whats_everyone_working_on/)
 - [SEC Parsers: parse sec filings section by section into xml](https://www.reddit.com/r/Python/comments/1e2lw9o/sec_parsers_parse_sec_filings_section_by_section/)
 - [The Blaze Star - soon a visible Nova in the night sky](https://www.reddit.com/r/Python/comments/1e2hhvg/the_blaze_star_soon_a_visible_nova_in_the_night/)
+- [Computers are fast [Python perf quiz]](https://www.reddit.com/r/Python/comments/1e2cvwb/computers_are_fast_python_perf_quiz/)
 <!-- BLOG-POST-LIST:END -->
