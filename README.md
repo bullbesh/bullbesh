@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting error in site packages in python](https://www.reddit.com/r/Python/comments/1e3x7wo/getting_error_in_site_packages_in_python/)
 - [&quot;Go to definition&quot; in your interactive session using srcview.open&lpar;func&rpar;](https://www.reddit.com/r/Python/comments/1e3quog/go_to_definition_in_your_interactive_session/)
 - [Netleaf - Simple Python Network Scanner](https://www.reddit.com/r/Python/comments/1e3qepd/netleaf_simple_python_network_scanner/)
 - [VCWatcher - Automatic version control commit message generator](https://www.reddit.com/r/Python/comments/1e3q3uv/vcwatcher_automatic_version_control_commit/)
 - [I made GestureFlow to improve my productivity!](https://www.reddit.com/r/Python/comments/1e3jye6/i_made_gestureflow_to_improve_my_productivity/)
-- [Draw line on image which measures dimension](https://www.reddit.com/r/Python/comments/1e3i80c/draw_line_on_image_which_measures_dimension/)
 <!-- BLOG-POST-LIST:END -->
