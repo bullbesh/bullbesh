@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made GestureFlow to improve my productivity!](https://www.reddit.com/r/Python/comments/1e3jye6/i_made_gestureflow_to_improve_my_productivity/)
 - [Draw line on image which measures dimension](https://www.reddit.com/r/Python/comments/1e3i80c/draw_line_on_image_which_measures_dimension/)
 - [VIDEO2ASCII CONVERTOR](https://www.reddit.com/r/Python/comments/1e3hbk3/video2ascii_convertor/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1e3gu3z/monday_daily_thread_project_ideas/)
 - [betterconf: minimalistic Python library for your configs.](https://www.reddit.com/r/Python/comments/1e3fojy/betterconf_minimalistic_python_library_for_your/)
-- [low barrier-to-entry constraint satisfaction?](https://www.reddit.com/r/Python/comments/1e3d69u/low_barriertoentry_constraint_satisfaction/)
 <!-- BLOG-POST-LIST:END -->
