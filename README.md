@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Go to definition&quot; in your interactive session using srcview.open&lpar;func&rpar;](https://www.reddit.com/r/Python/comments/1e3quog/go_to_definition_in_your_interactive_session/)
 - [VCWatcher - Automatic version control commit message generator](https://www.reddit.com/r/Python/comments/1e3q3uv/vcwatcher_automatic_version_control_commit/)
 - [What variation is better](https://www.reddit.com/r/Python/comments/1e3mzvf/what_variation_is_better/)
 - [I made GestureFlow to improve my productivity!](https://www.reddit.com/r/Python/comments/1e3jye6/i_made_gestureflow_to_improve_my_productivity/)
 - [Draw line on image which measures dimension](https://www.reddit.com/r/Python/comments/1e3i80c/draw_line_on_image_which_measures_dimension/)
-- [VIDEO2ASCII CONVERTOR](https://www.reddit.com/r/Python/comments/1e3hbk3/video2ascii_convertor/)
 <!-- BLOG-POST-LIST:END -->
