@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Best 8 Python/JS frameworks for Mobile Development &amp; How To Use Them](https://www.reddit.com/r/Python/comments/1e4ppk5/the_best_8_pythonjs_frameworks_for_mobile/)
-- [Can’t live without functions/libraries?](https://www.reddit.com/r/Python/comments/1e4p32p/cant_live_without_functionslibraries/)
+- [Python script to automatically setup MySQL database?](https://www.reddit.com/r/Python/comments/1e4tdxd/python_script_to_automatically_setup_mysql/)
 - [Finance Toolkit - Calculate 200+ Financial Metrics for Any Company](https://www.reddit.com/r/Python/comments/1e4ntif/finance_toolkit_calculate_200_financial_metrics/)
-- [Captcha bypass using TESSERACT in python!](https://www.reddit.com/r/Python/comments/1e4l14y/captcha_bypass_using_tesseract_in_python/)
-- [how could i make my python code faster?](https://www.reddit.com/r/Python/comments/1e4god9/how_could_i_make_my_python_code_faster/)
+- [Best IDE for teaching Python &lpar;task creation&rpar;?](https://www.reddit.com/r/Python/comments/1e4bc2g/best_ide_for_teaching_python_task_creation/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1e4abe5/tuesday_daily_thread_advanced_questions/)
+- [Does the Gaussian mixture modeling package from sklearn require normalization?](https://www.reddit.com/r/Python/comments/1e4a2e0/does_the_gaussian_mixture_modeling_package_from/)
 <!-- BLOG-POST-LIST:END -->
