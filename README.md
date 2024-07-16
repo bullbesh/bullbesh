@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for a buddy to learn ml](https://www.reddit.com/r/Python/comments/1e4yjfg/looking_for_a_buddy_to_learn_ml/)
 - [Chunkit: Convert URLs into LLM-friendly markdown chunks for your RAG projects](https://www.reddit.com/r/Python/comments/1e4v0sw/chunkit_convert_urls_into_llmfriendly_markdown/)
 - [Finance Toolkit - Calculate 200+ Financial Metrics for Any Company](https://www.reddit.com/r/Python/comments/1e4ntif/finance_toolkit_calculate_200_financial_metrics/)
 - [Best IDE for teaching Python &lpar;task creation&rpar;?](https://www.reddit.com/r/Python/comments/1e4bc2g/best_ide_for_teaching_python_task_creation/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1e4abe5/tuesday_daily_thread_advanced_questions/)
-- [Does the Gaussian mixture modeling package from sklearn require normalization?](https://www.reddit.com/r/Python/comments/1e4a2e0/does_the_gaussian_mixture_modeling_package_from/)
 <!-- BLOG-POST-LIST:END -->
