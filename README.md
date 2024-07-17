@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1e53wm4/wednesday_daily_thread_beginner_questions/)
 - [Are PyPI Trove Classifiers worthwhile to maintain?](https://www.reddit.com/r/Python/comments/1e51adb/are_pypi_trove_classifiers_worthwhile_to_maintain/)
 - [Looking for a buddy to learn ml](https://www.reddit.com/r/Python/comments/1e4yjfg/looking_for_a_buddy_to_learn_ml/)
 - [Chunkit: Convert URLs into LLM-friendly markdown chunks for your RAG projects](https://www.reddit.com/r/Python/comments/1e4v0sw/chunkit_convert_urls_into_llmfriendly_markdown/)
 - [Finance Toolkit - Calculate 200+ Financial Metrics for Any Company](https://www.reddit.com/r/Python/comments/1e4ntif/finance_toolkit_calculate_200_financial_metrics/)
-- [Best IDE for teaching Python &lpar;task creation&rpar;?](https://www.reddit.com/r/Python/comments/1e4bc2g/best_ide_for_teaching_python_task_creation/)
 <!-- BLOG-POST-LIST:END -->
