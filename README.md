@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Add data and visualizations to your profile via github actions &lpar;Project&rpar;](https://www.reddit.com/r/Python/comments/1e5tgii/add_data_and_visualizations_to_your_profile_via/)
 - [PySAPRPA: Automate SAP Processes Effortlessly with Python](https://www.reddit.com/r/Python/comments/1e5ssrt/pysaprpa_automate_sap_processes_effortlessly_with/)
-- [Pagination Tutorial with Python, Next.js , TanStack and Axios | Step-by-Step Guide](https://www.reddit.com/r/Python/comments/1e5s4as/pagination_tutorial_with_python_nextjs_tanstack/)
 - [ReadingBricks - Flask app for searching personal Zettelkasten-like knowledge base](https://www.reddit.com/r/Python/comments/1e5j8f3/readingbricks_flask_app_for_searching_personal/)
 - [Pic2Pix: A script to turn pictures and drawings into sprites usable in 2d game engines.](https://www.reddit.com/r/Python/comments/1e5fn4c/pic2pix_a_script_to_turn_pictures_and_drawings/)
+- [AWS Lambda Tutorial: Using Selenium with Chromedriver in Python](https://www.reddit.com/r/Python/comments/1e5cc8g/aws_lambda_tutorial_using_selenium_with/)
 <!-- BLOG-POST-LIST:END -->
