@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [So much funny when coding datetime](https://www.reddit.com/r/Python/comments/1e5bxh8/so_much_funny_when_coding_datetime/)
 - [I created an AI-Powered quiz generator based on files you upload](https://www.reddit.com/r/Python/comments/1e586jm/i_created_an_aipowered_quiz_generator_based_on/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1e53wm4/wednesday_daily_thread_beginner_questions/)
 - [Are PyPI Trove Classifiers worthwhile to maintain?](https://www.reddit.com/r/Python/comments/1e51adb/are_pypi_trove_classifiers_worthwhile_to_maintain/)
 - [Looking for a buddy to learn ml](https://www.reddit.com/r/Python/comments/1e4yjfg/looking_for_a_buddy_to_learn_ml/)
-- [Chunkit: Convert URLs into LLM-friendly markdown chunks for your RAG projects](https://www.reddit.com/r/Python/comments/1e4v0sw/chunkit_convert_urls_into_llmfriendly_markdown/)
 <!-- BLOG-POST-LIST:END -->
