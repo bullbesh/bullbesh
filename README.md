@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New to programming](https://www.reddit.com/r/Python/comments/1e5ev6g/new_to_programming/)
 - [Documentation of a personal project](https://www.reddit.com/r/Python/comments/1e5dnes/documentation_of_a_personal_project/)
 - [NLP vs. LLM on long sentences](https://www.reddit.com/r/Python/comments/1e5ccyr/nlp_vs_llm_on_long_sentences/)
 - [AWS Lambda Tutorial: Using Selenium with Chromedriver in Python](https://www.reddit.com/r/Python/comments/1e5cc8g/aws_lambda_tutorial_using_selenium_with/)
 - [So much funny when coding datetime](https://www.reddit.com/r/Python/comments/1e5bxh8/so_much_funny_when_coding_datetime/)
-- [I created an AI-Powered quiz generator based on files you upload](https://www.reddit.com/r/Python/comments/1e586jm/i_created_an_aipowered_quiz_generator_based_on/)
 <!-- BLOG-POST-LIST:END -->
