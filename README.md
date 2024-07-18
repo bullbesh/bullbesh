@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python REPL to make the development process faster &lpar;a prototype&rpar;](https://www.reddit.com/r/Python/comments/1e6mps0/a_python_repl_to_make_the_development_process/)
 - [Use Python to get Pydantic models and Python types from your LLM responses.](https://www.reddit.com/r/Python/comments/1e6l3qp/use_python_to_get_pydantic_models_and_python/)
 - [Compact state machine class for µPython, PyBricks, and regular Python](https://www.reddit.com/r/Python/comments/1e6id9v/compact_state_machine_class_for_µpython_pybricks/)
 - [Dynamic Enterprise RAG project utilizing Microsoft SharePoint as a data source](https://www.reddit.com/r/Python/comments/1e6alk8/dynamic_enterprise_rag_project_utilizing/)
 - [Is there an aiohttp-based reusable api client?](https://www.reddit.com/r/Python/comments/1e64tuy/is_there_an_aiohttpbased_reusable_api_client/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1e5xg1b/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
