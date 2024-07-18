@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Archead: Control your computer entirely using head movements and facial expressions.](https://www.reddit.com/r/Python/comments/1e65flg/archead_control_your_computer_entirely_using_head/)
 - [Is there an aiohttp-based reusable api client?](https://www.reddit.com/r/Python/comments/1e64tuy/is_there_an_aiohttpbased_reusable_api_client/)
 - [in Maya Autodesk&gt;&gt;trouble with Exec &lpar; &rpar; with the error &quot;name is not defined&quot;](https://www.reddit.com/r/Python/comments/1e621n7/in_maya_autodesktrouble_with_exec_with_the_error/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1e5xg1b/thursday_daily_thread_python_careers_courses_and/)
 - [Add data and visualizations to your profile via github actions &lpar;Project&rpar;](https://www.reddit.com/r/Python/comments/1e5tgii/add_data_and_visualizations_to_your_profile_via/)
-- [PySAPRPA: Automate SAP Processes Effortlessly with Python](https://www.reddit.com/r/Python/comments/1e5ssrt/pysaprpa_automate_sap_processes_effortlessly_with/)
 <!-- BLOG-POST-LIST:END -->
