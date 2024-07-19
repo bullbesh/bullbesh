@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I found a great alternative to the iHeartRadio app/site.](https://www.reddit.com/r/Python/comments/1e729xd/i_found_a_great_alternative_to_the_iheartradio/)
+- [Returning a list returns half-modified list](https://www.reddit.com/r/Python/comments/1e72909/returning_a_list_returns_halfmodified_list/)
 - [ClaudeSync: A Python Tool for Syncing Local Files with Claude.ai Projects](https://www.reddit.com/r/Python/comments/1e70fpk/claudesync_a_python_tool_for_syncing_local_files/)
 - [Dodecaphony: Algorithmic Composition of Modern Classical Music](https://www.reddit.com/r/Python/comments/1e6zh24/dodecaphony_algorithmic_composition_of_modern/)
 - [Dictionary-based API extractor for loading api data to DB/parquet on storage.](https://www.reddit.com/r/Python/comments/1e6y80m/dictionarybased_api_extractor_for_loading_api/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1e6q1qs/friday_daily_thread_rpython_meta_and_freetalk/)
-- [A Python REPL to make the development process faster &lpar;a prototype&rpar;](https://www.reddit.com/r/Python/comments/1e6mps0/a_python_repl_to_make_the_development_process/)
 <!-- BLOG-POST-LIST:END -->
