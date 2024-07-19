@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ClaudeSync: A Python Tool for Syncing Local Files with Claude.ai Projects](https://www.reddit.com/r/Python/comments/1e70fpk/claudesync_a_python_tool_for_syncing_local_files/)
 - [Dodecaphony: Algorithmic Composition of Modern Classical Music](https://www.reddit.com/r/Python/comments/1e6zh24/dodecaphony_algorithmic_composition_of_modern/)
 - [Dictionary-based API extractor for loading api data to DB/parquet on storage.](https://www.reddit.com/r/Python/comments/1e6y80m/dictionarybased_api_extractor_for_loading_api/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1e6q1qs/friday_daily_thread_rpython_meta_and_freetalk/)
 - [A Python REPL to make the development process faster &lpar;a prototype&rpar;](https://www.reddit.com/r/Python/comments/1e6mps0/a_python_repl_to_make_the_development_process/)
-- [Use Python to get Pydantic models and Python types from your LLM responses.](https://www.reddit.com/r/Python/comments/1e6l3qp/use_python_to_get_pydantic_models_and_python/)
 <!-- BLOG-POST-LIST:END -->
