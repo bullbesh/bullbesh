@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Accepting Bitcoin payments with Python, Rust and PyO3](https://www.reddit.com/r/Python/comments/1e7cadv/accepting_bitcoin_payments_with_python_rust_and/)
 - [Fix for &quot;workon&quot; not activating any virtual environment in windows PowerShell.](https://www.reddit.com/r/Python/comments/1e7bofu/fix_for_workon_not_activating_any_virtual/)
 - [Data classes as lightweight ORM](https://www.reddit.com/r/Python/comments/1e79g9y/data_classes_as_lightweight_orm/)
 - [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1e74rab/the_python_on_microcontrollers_and_raspberry_pi/)
 - [I created a Telegram bot for downloading forwarded videos](https://www.reddit.com/r/Python/comments/1e73i3f/i_created_a_telegram_bot_for_downloading/)
-- [I found a great alternative to the iHeartRadio app/site.](https://www.reddit.com/r/Python/comments/1e729xd/i_found_a_great_alternative_to_the_iheartradio/)
 <!-- BLOG-POST-LIST:END -->
