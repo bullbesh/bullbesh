@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Blog Post] Manage Python dependencies with pip-tools](https://www.reddit.com/r/Python/comments/1e7s9nr/blog_post_manage_python_dependencies_with_piptools/)
 - [I made another Instagram bot](https://www.reddit.com/r/Python/comments/1e7qhr1/i_made_another_instagram_bot/)
 - [FileBaker / A binary file converter that works with discord limits.](https://www.reddit.com/r/Python/comments/1e7lxhk/filebaker_a_binary_file_converter_that_works_with/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1e7ibci/saturday_daily_thread_resource_request_and/)
 - [Stateful Objects and Data Types in Python: Pyliven](https://www.reddit.com/r/Python/comments/1e7dg1h/stateful_objects_and_data_types_in_python_pyliven/)
-- [Accepting Bitcoin payments with Python, Rust and PyO3](https://www.reddit.com/r/Python/comments/1e7cadv/accepting_bitcoin_payments_with_python_rust_and/)
 <!-- BLOG-POST-LIST:END -->
