@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[100% Off] Complete Python and Machine Learning in Financial Analysis](https://www.reddit.com/r/Python/comments/1e86vls/100_off_complete_python_and_machine_learning_in/)
 - [I created a datestamp tool to add datestamps to your photos from metadata](https://www.reddit.com/r/Python/comments/1e82dqq/i_created_a_datestamp_tool_to_add_datestamps_to/)
 - [django-asyncapi - AsyncAPI documentation in django via pydantic models](https://www.reddit.com/r/Python/comments/1e81k0t/djangoasyncapi_asyncapi_documentation_in_django/)
 - [Pygolo v0.3.0 is out!](https://www.reddit.com/r/Python/comments/1e80kd6/pygolo_v030_is_out/)
 - [How to open ipynb links in VS Code &lpar;website for portfolio&rpar;](https://www.reddit.com/r/Python/comments/1e7zoen/how_to_open_ipynb_links_in_vs_code_website_for/)
-- [[100% FREE] Certified Artificial Intelligence Developer Program &lpar;CAID&rpar;](https://www.reddit.com/r/Python/comments/1e7ym9m/100_free_certified_artificial_intelligence/)
 <!-- BLOG-POST-LIST:END -->
