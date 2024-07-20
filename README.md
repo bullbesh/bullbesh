@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [django-asyncapi - AsyncAPI documentation in django via pydantic models](https://www.reddit.com/r/Python/comments/1e81k0t/djangoasyncapi_asyncapi_documentation_in_django/)
 - [Pygolo v0.3.0 is out!](https://www.reddit.com/r/Python/comments/1e80kd6/pygolo_v030_is_out/)
 - [How to open ipynb links in VS Code &lpar;website for portfolio&rpar;](https://www.reddit.com/r/Python/comments/1e7zoen/how_to_open_ipynb_links_in_vs_code_website_for/)
 - [[100% FREE] Certified Artificial Intelligence Developer Program &lpar;CAID&rpar;](https://www.reddit.com/r/Python/comments/1e7ym9m/100_free_certified_artificial_intelligence/)
 - [pycountries lib compatible with pydantic from scratch, supports amount normalization and much more](https://www.reddit.com/r/Python/comments/1e7y003/pycountries_lib_compatible_with_pydantic_from/)
-- [Gajim 1.9.2 has been released - Python XMPP/Jabber Chat Client - Communication](https://www.reddit.com/r/Python/comments/1e7sttb/gajim_192_has_been_released_python_xmppjabber/)
 <!-- BLOG-POST-LIST:END -->
