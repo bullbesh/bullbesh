@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python developers is it so difficult to answers? 3 months without answers into stackoverflow and git](https://www.reddit.com/r/Python/comments/1e8tdk0/python_developers_is_it_so_difficult_to_answers_3/)
 - [500+ Python Questions Quiz](https://www.reddit.com/r/Python/comments/1e8ry4p/500_python_questions_quiz/)
 - [Built and deployed a tiny yet effective Vanilla JS-based Python Online Compiler](https://www.reddit.com/r/Python/comments/1e8qoxa/built_and_deployed_a_tiny_yet_effective_vanilla/)
 - [Pilgram, a texting based idle MMO RPG](https://www.reddit.com/r/Python/comments/1e8pt2b/pilgram_a_texting_based_idle_mmo_rpg/)
 - [Wrote some absolutely atrocious code and Im kinda proud of it.](https://www.reddit.com/r/Python/comments/1e8p16u/wrote_some_absolutely_atrocious_code_and_im_kinda/)
-- [odex - python object index for fast, declarative retrieval](https://www.reddit.com/r/Python/comments/1e8o4jg/odex_python_object_index_for_fast_declarative/)
 <!-- BLOG-POST-LIST:END -->
