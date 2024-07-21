@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built and deployed a tiny yet effective Vanilla JS-based Python Online Compiler](https://www.reddit.com/r/Python/comments/1e8qoxa/built_and_deployed_a_tiny_yet_effective_vanilla/)
 - [Pilgram, a texting based idle MMO RPG](https://www.reddit.com/r/Python/comments/1e8pt2b/pilgram_a_texting_based_idle_mmo_rpg/)
 - [Wrote some absolutely atrocious code and Im kinda proud of it.](https://www.reddit.com/r/Python/comments/1e8p16u/wrote_some_absolutely_atrocious_code_and_im_kinda/)
 - [odex - python object index for fast, declarative retrieval](https://www.reddit.com/r/Python/comments/1e8o4jg/odex_python_object_index_for_fast_declarative/)
 - [Extracting data from &lpar;tricky&rpar; PDFs for Excel using Python &lpar;both API and DIY&rpar;](https://www.reddit.com/r/Python/comments/1e8m8l2/extracting_data_from_tricky_pdfs_for_excel_using/)
-- [how to center a stamp image in PYPDF2?](https://www.reddit.com/r/Python/comments/1e8jx7q/how_to_center_a_stamp_image_in_pypdf2/)
 <!-- BLOG-POST-LIST:END -->
