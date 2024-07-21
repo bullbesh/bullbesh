@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Artificial Intelligence Program!](https://www.reddit.com/r/Python/comments/1e8f283/announcing_artificial_intelligence_program/)
 - [I’m thrilled to announce the release of my new Django package](https://www.reddit.com/r/Python/comments/1e8e3hh/im_thrilled_to_announce_the_release_of_my_new/)
-- [Building AI Chatbot with PyTorch, NumPy, MongoDB, and Next.js - Complete Tutorial in 2024](https://www.reddit.com/r/Python/comments/1e8ccm4/building_ai_chatbot_with_pytorch_numpy_mongodb/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1e89aai/sunday_daily_thread_whats_everyone_working_on/)
 - [I created a datestamp tool to add datestamps to your photos from metadata](https://www.reddit.com/r/Python/comments/1e82dqq/i_created_a_datestamp_tool_to_add_datestamps_to/)
+- [django-asyncapi - AsyncAPI documentation in django via pydantic models](https://www.reddit.com/r/Python/comments/1e81k0t/djangoasyncapi_asyncapi_documentation_in_django/)
+- [Pygolo v0.3.0 is out!](https://www.reddit.com/r/Python/comments/1e80kd6/pygolo_v030_is_out/)
 <!-- BLOG-POST-LIST:END -->
