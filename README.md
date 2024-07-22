@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Docker Images for Python Production Services](https://www.reddit.com/r/Python/comments/1e9ik84/optimizing_docker_images_for_python_production/)
 - [Mypy 1.11 Released](https://www.reddit.com/r/Python/comments/1e9fh4r/mypy_111_released/)
 - [Defining a Custom Unknown Type in Python](https://www.reddit.com/r/Python/comments/1e942fx/defining_a_custom_unknown_type_in_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1e90f3e/monday_daily_thread_project_ideas/)
 - [I created a script that predicts Premier League football &lpar;soccer&rpar; results](https://www.reddit.com/r/Python/comments/1e8ym80/i_created_a_script_that_predicts_premier_league/)
-- [Protean - Opensource DDD/CQRS/ES Python Framework](https://www.reddit.com/r/Python/comments/1e8v29e/protean_opensource_dddcqrses_python_framework/)
 <!-- BLOG-POST-LIST:END -->
