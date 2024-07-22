@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1e90f3e/monday_daily_thread_project_ideas/)
 - [I created a script that predicts Premier League football &lpar;soccer&rpar; results](https://www.reddit.com/r/Python/comments/1e8ym80/i_created_a_script_that_predicts_premier_league/)
 - [Protean - Opensource DDD/CQRS/ES Python Framework](https://www.reddit.com/r/Python/comments/1e8v29e/protean_opensource_dddcqrses_python_framework/)
 - [500+ Python Questions Quiz](https://www.reddit.com/r/Python/comments/1e8ry4p/500_python_questions_quiz/)
 - [Pilgram, a texting based idle MMO RPG](https://www.reddit.com/r/Python/comments/1e8pt2b/pilgram_a_texting_based_idle_mmo_rpg/)
-- [Wrote some absolutely atrocious code and Im kinda proud of it.](https://www.reddit.com/r/Python/comments/1e8p16u/wrote_some_absolutely_atrocious_code_and_im_kinda/)
 <!-- BLOG-POST-LIST:END -->
