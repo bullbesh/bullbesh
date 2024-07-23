@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Programming for Kids and Beginners: Learn to Code in Python](https://www.reddit.com/r/Python/comments/1e9uzpp/programming_for_kids_and_beginners_learn_to_code/)
+- [What linters do you use in a new project?](https://www.reddit.com/r/Python/comments/1e9uq61/what_linters_do_you_use_in_a_new_project/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1e9tk2t/tuesday_daily_thread_advanced_questions/)
 - [Browser based text rpg games with python](https://www.reddit.com/r/Python/comments/1e9rwhn/browser_based_text_rpg_games_with_python/)
 - [How to organize multiple pytest.mark.parametrize decorators into a helper file?](https://www.reddit.com/r/Python/comments/1e9po3z/how_to_organize_multiple_pytestmarkparametrize/)
-- [What skills do you need to become a Junior Developer today?](https://www.reddit.com/r/Python/comments/1e9mr91/what_skills_do_you_need_to_become_a_junior/)
-- [Optimizing Docker Images for Python Production Services](https://www.reddit.com/r/Python/comments/1e9ik84/optimizing_docker_images_for_python_production/)
-- [Mypy 1.11 Released](https://www.reddit.com/r/Python/comments/1e9fh4r/mypy_111_released/)
 <!-- BLOG-POST-LIST:END -->
