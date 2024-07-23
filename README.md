@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Do you prefer black over ruff for code formatting? Why?](https://www.reddit.com/r/Python/comments/1eag9u3/do_you_prefer_black_over_ruff_for_code_formatting/)
+- [Deep Python #2: ... and Master of None](https://www.reddit.com/r/Python/comments/1eajldn/deep_python_2_and_master_of_none/)
 - [Store Product Management, SPM &lpar;My project in python&rpar;](https://www.reddit.com/r/Python/comments/1eae015/store_product_management_spm_my_project_in_python/)
 - [`itertools` combinatorial iterators explained with ice-cream](https://www.reddit.com/r/Python/comments/1eaarah/itertools_combinatorial_iterators_explained_with/)
 - [Introducing textscope: A Python Library for Text Analysis 🔍📚💡🛠️](https://www.reddit.com/r/Python/comments/1eaanlr/introducing_textscope_a_python_library_for_text/)
