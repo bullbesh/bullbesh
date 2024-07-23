@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to isolate a Python module with Tach](https://www.reddit.com/r/Python/comments/1ea9lh7/how_to_isolate_a_python_module_with_tach/)
 - [Taught 100+ aspiring Data Scientists Python, now I&#39;m doing it again for FREE](https://www.reddit.com/r/Python/comments/1ea7421/taught_100_aspiring_data_scientists_python_now_im/)
 - [txtai: Open-source vector search and RAG for minimalists](https://www.reddit.com/r/Python/comments/1ea6t89/txtai_opensource_vector_search_and_rag_for/)
 - [Explore Cassette, an automated short video generator for Instagram reels and YouTube shorts](https://www.reddit.com/r/Python/comments/1ea5bk0/explore_cassette_an_automated_short_video/)
 - [Introducing Expedite Bridge - A simple encrypted file transfer utility for humans](https://www.reddit.com/r/Python/comments/1ea5av1/introducing_expedite_bridge_a_simple_encrypted/)
-- [How&#39;s Python doing in C++? It&#39;s all sad!](https://www.reddit.com/r/Python/comments/1ea48lj/hows_python_doing_in_c_its_all_sad/)
 <!-- BLOG-POST-LIST:END -->
