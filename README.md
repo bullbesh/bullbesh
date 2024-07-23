@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How&#39;s Python doing in C++? It&#39;s all sad!](https://www.reddit.com/r/Python/comments/1ea48lj/hows_python_doing_in_c_its_all_sad/)
 - [How to calculate percentage change between values using pandas](https://www.reddit.com/r/Python/comments/1ea2qkn/how_to_calculate_percentage_change_between_values/)
 - [Pydfy: PDF Reporting Made Easy](https://www.reddit.com/r/Python/comments/1ea1tqd/pydfy_pdf_reporting_made_easy/)
 - [Lightweight python DAG framework](https://www.reddit.com/r/Python/comments/1e9wrve/lightweight_python_dag_framework/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1e9tk2t/tuesday_daily_thread_advanced_questions/)
-- [Optimizing Docker Images for Python Production Services](https://www.reddit.com/r/Python/comments/1e9ik84/optimizing_docker_images_for_python_production/)
 <!-- BLOG-POST-LIST:END -->
