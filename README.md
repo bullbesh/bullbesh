@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a chess opening explorer site in Flask which shows you pages from the wiki for each opening](https://www.reddit.com/r/Python/comments/1ealzuv/i_made_a_chess_opening_explorer_site_in_flask/)
 - [Deep Python #2: ... and Master of None](https://www.reddit.com/r/Python/comments/1eajldn/deep_python_2_and_master_of_none/)
 - [Store Product Management, SPM &lpar;My project in python&rpar;](https://www.reddit.com/r/Python/comments/1eae015/store_product_management_spm_my_project_in_python/)
 - [`itertools` combinatorial iterators explained with ice-cream](https://www.reddit.com/r/Python/comments/1eaarah/itertools_combinatorial_iterators_explained_with/)
 - [Introducing textscope: A Python Library for Text Analysis 🔍📚💡🛠️](https://www.reddit.com/r/Python/comments/1eaanlr/introducing_textscope_a_python_library_for_text/)
-- [How to isolate a Python module with Tach](https://www.reddit.com/r/Python/comments/1ea9lh7/how_to_isolate_a_python_module_with_tach/)
 <!-- BLOG-POST-LIST:END -->
