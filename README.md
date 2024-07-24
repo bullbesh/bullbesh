@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rio: WebApps in pure Python – Technical Description](https://www.reddit.com/r/Python/comments/1eb2cta/rio_webapps_in_pure_python_technical_description/)
+- [How to upload a compressed file &lpar;.gz&rpar; to the swift object storage using Python swift client?](https://www.reddit.com/r/Python/comments/1eb29we/how_to_upload_a_compressed_file_gz_to_the_swift/)
 - [Resources to learn Django Rest Framework.](https://www.reddit.com/r/Python/comments/1eb16hw/resources_to_learn_django_rest_framework/)
 - [Extending Zero Trust Network Access to a Private S3 Bucket using Boto3 and OpenZiti &lpar;both Python&rpar;](https://www.reddit.com/r/Python/comments/1eaz71k/extending_zero_trust_network_access_to_a_private/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1ean7a2/wednesday_daily_thread_beginner_questions/)
-- [I made a chess opening explorer site in Flask which shows you pages from the wiki for each opening](https://www.reddit.com/r/Python/comments/1ealzuv/i_made_a_chess_opening_explorer_site_in_flask/)
-- [Store Product Management, SPM &lpar;My project in python&rpar;](https://www.reddit.com/r/Python/comments/1eae015/store_product_management_spm_my_project_in_python/)
 <!-- BLOG-POST-LIST:END -->
