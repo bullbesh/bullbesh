@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AJUDA COM PYTHON](https://www.reddit.com/r/Python/comments/1ebeqv7/ajuda_com_python/)
 - [Exciting AI Learning Resources in Python](https://www.reddit.com/r/Python/comments/1eb9q41/exciting_ai_learning_resources_in_python/)
 - [Why does type&lpar;my_list&rpar; work but my_list.type&lpar;&rpar; does not?](https://www.reddit.com/r/Python/comments/1eb4kc9/why_does_typemy_list_work_but_my_listtype_does_not/)
 - [How to draw a mandala art with python turtle](https://www.reddit.com/r/Python/comments/1eb3xcz/how_to_draw_a_mandala_art_with_python_turtle/)
 - [PuppySignal - An open source Pet&#39;s QR Tag](https://www.reddit.com/r/Python/comments/1eb3lam/puppysignal_an_open_source_pets_qr_tag/)
-- [Rio: WebApps in pure Python – Technical Description](https://www.reddit.com/r/Python/comments/1eb2cta/rio_webapps_in_pure_python_technical_description/)
 <!-- BLOG-POST-LIST:END -->
