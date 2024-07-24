@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Streamlit or grade.io for Python web project](https://www.reddit.com/r/Python/comments/1eaxr6w/streamlit_or_gradeio_for_python_web_project/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1ean7a2/wednesday_daily_thread_beginner_questions/)
 - [I made a chess opening explorer site in Flask which shows you pages from the wiki for each opening](https://www.reddit.com/r/Python/comments/1ealzuv/i_made_a_chess_opening_explorer_site_in_flask/)
 - [Store Product Management, SPM &lpar;My project in python&rpar;](https://www.reddit.com/r/Python/comments/1eae015/store_product_management_spm_my_project_in_python/)
 - [`itertools` combinatorial iterators explained with ice-cream](https://www.reddit.com/r/Python/comments/1eaarah/itertools_combinatorial_iterators_explained_with/)
-- [Introducing textscope: A Python Library for Text Analysis 🔍📚💡🛠️](https://www.reddit.com/r/Python/comments/1eaanlr/introducing_textscope_a_python_library_for_text/)
 <!-- BLOG-POST-LIST:END -->
