@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [?יש כאן מתכנתי פיתון ישראלים](https://www.reddit.com/r/Python/comments/1ebqel3/יש_כאן_מתכנתי_פיתון_ישראלים/)
+- [A simple Python script that sorts your ~/Downloads folder by file extensions](https://www.reddit.com/r/Python/comments/1ebq2b3/a_simple_python_script_that_sorts_your_downloads/)
 - [Introducing Lambda Forge: Simplify Your AWS Lambda Development](https://www.reddit.com/r/Python/comments/1ebkzfd/introducing_lambda_forge_simplify_your_aws_lambda/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ebgo2f/thursday_daily_thread_python_careers_courses_and/)
 - [Funny Value error](https://www.reddit.com/r/Python/comments/1ebgeas/funny_value_error/)
-- [Exciting AI Learning Resources in Python](https://www.reddit.com/r/Python/comments/1eb9q41/exciting_ai_learning_resources_in_python/)
-- [Why does type&lpar;my_list&rpar; work but my_list.type&lpar;&rpar; does not?](https://www.reddit.com/r/Python/comments/1eb4kc9/why_does_typemy_list_work_but_my_listtype_does_not/)
 <!-- BLOG-POST-LIST:END -->
