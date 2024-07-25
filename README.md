@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [WAT - Deep inspection of Python objects](https://www.reddit.com/r/Python/comments/1ebzeh2/wat_deep_inspection_of_python_objects/)
 - [pgmq-sqlalchemy - Postgres Message Queue Python client that using SQLAlchemy ORM](https://www.reddit.com/r/Python/comments/1ebvafo/pgmqsqlalchemy_postgres_message_queue_python/)
 - [A simple Python script that sorts your ~/Downloads folder by file extensions](https://www.reddit.com/r/Python/comments/1ebq2b3/a_simple_python_script_that_sorts_your_downloads/)
 - [Introducing Lambda Forge: Simplify Your AWS Lambda Development](https://www.reddit.com/r/Python/comments/1ebkzfd/introducing_lambda_forge_simplify_your_aws_lambda/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ebgo2f/thursday_daily_thread_python_careers_courses_and/)
-- [Funny Value error](https://www.reddit.com/r/Python/comments/1ebgeas/funny_value_error/)
 <!-- BLOG-POST-LIST:END -->
