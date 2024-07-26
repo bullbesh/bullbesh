@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free asynchronous coding course](https://www.reddit.com/r/Python/comments/1eczbhg/free_asynchronous_coding_course/)
 - [BitZoo: My first Python project.](https://www.reddit.com/r/Python/comments/1ecwe3o/bitzoo_my_first_python_project/)
 - [Built a new package to alert you if your Python program crashes during runtime](https://www.reddit.com/r/Python/comments/1ectin6/built_a_new_package_to_alert_you_if_your_python/)
 - [Using swagger-ui with flask but *not* with flask-restplus?](https://www.reddit.com/r/Python/comments/1ecrtwm/using_swaggerui_with_flask_but_not_with/)
 - [Is the damage psf/Black has done to the community reversible?](https://www.reddit.com/r/Python/comments/1econ4s/is_the_damage_psfblack_has_done_to_the_community/)
-- [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1ecofho/the_python_on_microcontrollers_and_raspberry_pi/)
 <!-- BLOG-POST-LIST:END -->
