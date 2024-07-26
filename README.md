@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built a new package to alert you if your Python program crashes during runtime](https://www.reddit.com/r/Python/comments/1ectin6/built_a_new_package_to_alert_you_if_your_python/)
 - [Using swagger-ui with flask but *not* with flask-restplus?](https://www.reddit.com/r/Python/comments/1ecrtwm/using_swaggerui_with_flask_but_not_with/)
 - [Is the damage psf/Black has done to the community reversible?](https://www.reddit.com/r/Python/comments/1econ4s/is_the_damage_psfblack_has_done_to_the_community/)
 - [The Python on Microcontrollers &lpar;and Raspberry Pi&rpar; Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1ecofho/the_python_on_microcontrollers_and_raspberry_pi/)
 - [I made a command-line tool that gives you granular control over bulk deleting your Github gists](https://www.reddit.com/r/Python/comments/1eclzmr/i_made_a_commandline_tool_that_gives_you_granular/)
-- [[Project] Termatus: A TUI system informatics viewer, written in Python](https://www.reddit.com/r/Python/comments/1eci1y2/project_termatus_a_tui_system_informatics_viewer/)
 <!-- BLOG-POST-LIST:END -->
