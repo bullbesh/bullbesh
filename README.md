@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I asked chatGPT and it couldn’t find the bug. Why is the last assertion failing?](https://www.reddit.com/r/Python/comments/1eccjsf/i_asked_chatgpt_and_it_couldnt_find_the_bug_why/)
+- [After 4 years of python programming, my thoughts on Django](https://www.reddit.com/r/Python/comments/1eceld9/after_4_years_of_python_programming_my_thoughts/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1eca0qf/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Moderate LLM Inputs with Meta&#39;s Prompt Guard using Python](https://www.reddit.com/r/Python/comments/1ec7s8d/moderate_llm_inputs_with_metas_prompt_guard_using/)
 - [Monthly Data Engineering Python Newsletter](https://www.reddit.com/r/Python/comments/1ec132n/monthly_data_engineering_python_newsletter/)
 - [WAT - Deep inspection of Python objects](https://www.reddit.com/r/Python/comments/1ebzeh2/wat_deep_inspection_of_python_objects/)
+- [pgmq-sqlalchemy - Postgres Message Queue Python client that using SQLAlchemy ORM](https://www.reddit.com/r/Python/comments/1ebvafo/pgmqsqlalchemy_postgres_message_queue_python/)
 <!-- BLOG-POST-LIST:END -->
