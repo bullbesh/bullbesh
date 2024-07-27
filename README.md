@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Where to find scapy Documentation?](https://www.reddit.com/r/Python/comments/1ed5j9a/where_to_find_scapy_documentation/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ed2too/saturday_daily_thread_resource_request_and/)
 - [I&#39;ve made some big improvements to my chess openings explorer &lpar;Python+Flask&rpar;](https://www.reddit.com/r/Python/comments/1ed2gy3/ive_made_some_big_improvements_to_my_chess/)
 - [Free asynchronous coding course](https://www.reddit.com/r/Python/comments/1eczbhg/free_asynchronous_coding_course/)
 - [BitZoo: My first Python project.](https://www.reddit.com/r/Python/comments/1ecwe3o/bitzoo_my_first_python_project/)
-- [Built a new package to alert you if your Python program crashes during runtime](https://www.reddit.com/r/Python/comments/1ectin6/built_a_new_package_to_alert_you_if_your_python/)
 <!-- BLOG-POST-LIST:END -->
