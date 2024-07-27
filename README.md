@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Webdriver Crash](https://www.reddit.com/r/Python/comments/1edsh2k/webdriver_crash/)
 - [My first ever project! Any suggestions would be appreciated.](https://www.reddit.com/r/Python/comments/1edrv44/my_first_ever_project_any_suggestions_would_be/)
 - [What UI library do you recommend?](https://www.reddit.com/r/Python/comments/1edqp8l/what_ui_library_do_you_recommend/)
 - [Pythonic HTTP compatible data acquisition &amp; control system for scientific/engineering applications](https://www.reddit.com/r/Python/comments/1edpc1u/pythonic_http_compatible_data_acquisition_control/)
 - [Introducing Hexagonal Grid Text Encryption: A Approach to Data Security](https://www.reddit.com/r/Python/comments/1edhwx9/introducing_hexagonal_grid_text_encryption_a/)
-- [I made a tool to increment the version of Poetry projects](https://www.reddit.com/r/Python/comments/1edffk9/i_made_a_tool_to_increment_the_version_of_poetry/)
 <!-- BLOG-POST-LIST:END -->
