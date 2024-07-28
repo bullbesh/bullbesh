@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interface and Dependency Injection](https://www.reddit.com/r/Python/comments/1ee6mwx/interface_and_dependency_injection/)
 - [developing a project management interactive dashboard](https://www.reddit.com/r/Python/comments/1ee51yz/developing_a_project_management_interactive/)
 - [Can I use flask in production?](https://www.reddit.com/r/Python/comments/1ee2r83/can_i_use_flask_in_production/)
 - [How to you guys sharpen your coding skills?](https://www.reddit.com/r/Python/comments/1eduua5/how_to_you_guys_sharpen_your_coding_skills/)
 - [Can you really return multiple values?](https://www.reddit.com/r/Python/comments/1eduhtc/can_you_really_return_multiple_values/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1edud5n/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
