@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [find elements that always occur simultaneously in one list in a group of lists in python?](https://www.reddit.com/r/Python/comments/1ee7ivw/find_elements_that_always_occur_simultaneously_in/)
 - [Cli scraper Dedicated to Alibaba v0.2.0](https://www.reddit.com/r/Python/comments/1ee79hd/cli_scraper_dedicated_to_alibaba_v020/)
-- [Interface and Dependency Injection](https://www.reddit.com/r/Python/comments/1ee6mwx/interface_and_dependency_injection/)
-- [developing a project management interactive dashboard](https://www.reddit.com/r/Python/comments/1ee51yz/developing_a_project_management_interactive/)
-- [Can I use flask in production?](https://www.reddit.com/r/Python/comments/1ee2r83/can_i_use_flask_in_production/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1edud5n/sunday_daily_thread_whats_everyone_working_on/)
+- [My first ever project! Any suggestions would be appreciated.](https://www.reddit.com/r/Python/comments/1edrv44/my_first_ever_project_any_suggestions_would_be/)
+- [What UI library do you recommend?](https://www.reddit.com/r/Python/comments/1edqp8l/what_ui_library_do_you_recommend/)
+- [Pythonic HTTP compatible data acquisition &amp; control system for scientific/engineering applications](https://www.reddit.com/r/Python/comments/1edpc1u/pythonic_http_compatible_data_acquisition_control/)
 <!-- BLOG-POST-LIST:END -->
