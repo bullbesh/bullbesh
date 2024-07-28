@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [find elements that always occur simultaneously in one list in a group of lists in python?](https://www.reddit.com/r/Python/comments/1ee7ivw/find_elements_that_always_occur_simultaneously_in/)
+- [Cli scraper Dedicated to Alibaba v0.2.0](https://www.reddit.com/r/Python/comments/1ee79hd/cli_scraper_dedicated_to_alibaba_v020/)
 - [Interface and Dependency Injection](https://www.reddit.com/r/Python/comments/1ee6mwx/interface_and_dependency_injection/)
 - [developing a project management interactive dashboard](https://www.reddit.com/r/Python/comments/1ee51yz/developing_a_project_management_interactive/)
 - [Can I use flask in production?](https://www.reddit.com/r/Python/comments/1ee2r83/can_i_use_flask_in_production/)
-- [How to you guys sharpen your coding skills?](https://www.reddit.com/r/Python/comments/1eduua5/how_to_you_guys_sharpen_your_coding_skills/)
-- [Can you really return multiple values?](https://www.reddit.com/r/Python/comments/1eduhtc/can_you_really_return_multiple_values/)
 <!-- BLOG-POST-LIST:END -->
