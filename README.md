@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data structures](https://www.reddit.com/r/Python/comments/1ef3h8a/data_structures/)
+- [Training and Inferencing Using a LayoutLM model &lpar;any version&rpar;](https://www.reddit.com/r/Python/comments/1ef3cay/training_and_inferencing_using_a_layoutlm_model/)
 - [Do you feel like Python&#39;s type hinting got &quot;stable&quot;?](https://www.reddit.com/r/Python/comments/1ef1ym0/do_you_feel_like_pythons_type_hinting_got_stable/)
-- [Anonymous Text Messaging](https://www.reddit.com/r/Python/comments/1ef1kk8/anonymous_text_messaging/)
 - [🐶 immunipy: Find vulnerable dependencies in your Python projects](https://www.reddit.com/r/Python/comments/1ef02hg/immunipy_find_vulnerable_dependencies_in_your/)
 - [Thoughts on using Figma/Webflow with FastAPI](https://www.reddit.com/r/Python/comments/1eeqqtq/thoughts_on_using_figmawebflow_with_fastapi/)
-- [PigPig-discord-LLM-bot](https://www.reddit.com/r/Python/comments/1eenv45/pigpigdiscordllmbot/)
 <!-- BLOG-POST-LIST:END -->
