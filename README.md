@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Online Hackathon on Discord](https://www.reddit.com/r/Python/comments/1eg1lwk/online_hackathon_on_discord/)
+- [a tutorial on data cleaning](https://www.reddit.com/r/Python/comments/1eg39bf/a_tutorial_on_data_cleaning/)
+- [ArchiveFile: Unified interface for tar, zip, sevenzip, and rar files](https://www.reddit.com/r/Python/comments/1eg35qy/archivefile_unified_interface_for_tar_zip/)
 - [Maelstrom 0.11.0 – Clustered Test Runner, Now with Improved UI and Golang Support](https://www.reddit.com/r/Python/comments/1eg13wn/maelstrom_0110_clustered_test_runner_now_with/)
-- [@classmethod to return other class object](https://www.reddit.com/r/Python/comments/1eg0pw0/classmethod_to_return_other_class_object/)
-- [A NO/LOW Code CLI based auto updation assistant tool for desktop applications](https://www.reddit.com/r/Python/comments/1efx3pq/a_nolow_code_cli_based_auto_updation_assistant/)
 - [I built a memory framework for LLMs and Agents](https://www.reddit.com/r/Python/comments/1efsjgy/i_built_a_memory_framework_for_llms_and_agents/)
+- [Whatever happened to &quot;explicit is better than implicit&quot;?](https://www.reddit.com/r/Python/comments/1efrusl/whatever_happened_to_explicit_is_better_than/)
 <!-- BLOG-POST-LIST:END -->
