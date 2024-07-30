@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [ChromeDriverManager sudden error](https://www.reddit.com/r/Python/comments/1efn463/chromedrivermanager_sudden_error/)
+- [UXsim 1.4.0 released, with a ~20x speedup over 1.3.0 for large scale traffic scenarios](https://www.reddit.com/r/Python/comments/1efnuau/uxsim_140_released_with_a_20x_speedup_over_130/)
+- [Python-first data platform engineers: Who they are, what they do and why](https://www.reddit.com/r/Python/comments/1efndj1/pythonfirst_data_platform_engineers_who_they_are/)
 - [Run TypeScript or Office script using Python on Excel files](https://www.reddit.com/r/Python/comments/1eflrmt/run_typescript_or_office_script_using_python_on/)
 - [15 New and Impressive Components for Plotly Dash Applications](https://www.reddit.com/r/Python/comments/1effrss/15_new_and_impressive_components_for_plotly_dash/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1eff15m/tuesday_daily_thread_advanced_questions/)
-- [Do you feel like Python&#39;s type hinting got &quot;stable&quot;?](https://www.reddit.com/r/Python/comments/1ef1ym0/do_you_feel_like_pythons_type_hinting_got_stable/)
 <!-- BLOG-POST-LIST:END -->
