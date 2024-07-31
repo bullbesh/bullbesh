@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jeremy Howard, co-founder of fast.ai, released FastHTML, for Modern web applications in Pure Python](https://www.reddit.com/r/Python/comments/1eghskf/jeremy_howard_cofounder_of_fastai_released/)
+- [Error while running the falsk app on development server](https://www.reddit.com/r/Python/comments/1egh9u6/error_while_running_the_falsk_app_on_development/)
+- [Llamaindex - Usage Patterns | Meme Version](https://www.reddit.com/r/Python/comments/1egh3c0/llamaindex_usage_patterns_meme_version/)
 - [What are some unusual but useful Python libraries you&#39;ve discovered?](https://www.reddit.com/r/Python/comments/1egg99j/what_are_some_unusual_but_useful_python_libraries/)
 - [An interesting pattern, with dataloader](https://www.reddit.com/r/Python/comments/1egcxwb/an_interesting_pattern_with_dataloader/)
-- [Registries 1.0: Easy dynamic object registration and lookup for extensible Python code](https://www.reddit.com/r/Python/comments/1eg9y6s/registries_10_easy_dynamic_object_registration/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1eg8uu9/wednesday_daily_thread_beginner_questions/)
-- [I made a solver for a complex puzzle game when I was 15!](https://www.reddit.com/r/Python/comments/1eg3zah/i_made_a_solver_for_a_complex_puzzle_game_when_i/)
 <!-- BLOG-POST-LIST:END -->
