@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [An interesting pattern, with dataloader](https://www.reddit.com/r/Python/comments/1egcxwb/an_interesting_pattern_with_dataloader/)
 - [Registries 1.0: Easy dynamic object registration and lookup for extensible Python code](https://www.reddit.com/r/Python/comments/1eg9y6s/registries_10_easy_dynamic_object_registration/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1eg8uu9/wednesday_daily_thread_beginner_questions/)
 - [I made a solver for a complex puzzle game when I was 15!](https://www.reddit.com/r/Python/comments/1eg3zah/i_made_a_solver_for_a_complex_puzzle_game_when_i/)
 - [ArchiveFile: Unified interface for tar, zip, sevenzip, and rar files](https://www.reddit.com/r/Python/comments/1eg35qy/archivefile_unified_interface_for_tar_zip/)
-- [Maelstrom 0.11.0 – Clustered Test Runner, Now with Improved UI and Golang Support](https://www.reddit.com/r/Python/comments/1eg13wn/maelstrom_0110_clustered_test_runner_now_with/)
 <!-- BLOG-POST-LIST:END -->
