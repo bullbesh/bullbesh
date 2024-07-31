@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best way to create pdf report?](https://www.reddit.com/r/Python/comments/1eglne7/best_way_to_create_pdf_report/)
 - [Fully automated data analysis library?](https://www.reddit.com/r/Python/comments/1egkh6v/fully_automated_data_analysis_library/)
-- [What is your thought about Python 3.13 with JIT compiler?](https://www.reddit.com/r/Python/comments/1egjj92/what_is_your_thought_about_python_313_with_jit/)
 - [Jeremy Howard, co-founder of fast.ai, released FastHTML, for Modern web applications in Pure Python](https://www.reddit.com/r/Python/comments/1eghskf/jeremy_howard_cofounder_of_fastai_released/)
 - [Error while running the falsk app on development server](https://www.reddit.com/r/Python/comments/1egh9u6/error_while_running_the_falsk_app_on_development/)
 - [Llamaindex - Usage Patterns | Meme Version](https://www.reddit.com/r/Python/comments/1egh3c0/llamaindex_usage_patterns_meme_version/)
