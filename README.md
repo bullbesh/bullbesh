@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Python for eBay RESTful APIs.](https://www.reddit.com/r/Python/comments/1egt8ds/python_for_ebay_restful_apis/)
-- [Need Python, Selenium and OpenCV on iPhone. No Mac No PC](https://www.reddit.com/r/Python/comments/1egt76d/need_python_selenium_and_opencv_on_iphone_no_mac/)
 - [Jeremy Howard, co-founder of fast.ai, released FastHTML, for Modern web applications in Pure Python](https://www.reddit.com/r/Python/comments/1eghskf/jeremy_howard_cofounder_of_fastai_released/)
 - [What are some unusual but useful Python libraries you&#39;ve discovered?](https://www.reddit.com/r/Python/comments/1egg99j/what_are_some_unusual_but_useful_python_libraries/)
 - [YAML Testing Framework - Low/No Code Unit Testing Solution](https://www.reddit.com/r/Python/comments/1ege0kr/yaml_testing_framework_lowno_code_unit_testing/)
+- [An interesting pattern, with dataloader](https://www.reddit.com/r/Python/comments/1egcxwb/an_interesting_pattern_with_dataloader/)
 <!-- BLOG-POST-LIST:END -->
