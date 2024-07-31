@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need some recommendation to test web pages with canva](https://www.reddit.com/r/Python/comments/1egmfc9/need_some_recommendation_to_test_web_pages_with/)
 - [Best way to create pdf report?](https://www.reddit.com/r/Python/comments/1eglne7/best_way_to_create_pdf_report/)
 - [Fully automated data analysis library?](https://www.reddit.com/r/Python/comments/1egkh6v/fully_automated_data_analysis_library/)
 - [Jeremy Howard, co-founder of fast.ai, released FastHTML, for Modern web applications in Pure Python](https://www.reddit.com/r/Python/comments/1eghskf/jeremy_howard_cofounder_of_fastai_released/)
 - [Error while running the falsk app on development server](https://www.reddit.com/r/Python/comments/1egh9u6/error_while_running_the_falsk_app_on_development/)
-- [Llamaindex - Usage Patterns | Meme Version](https://www.reddit.com/r/Python/comments/1egh3c0/llamaindex_usage_patterns_meme_version/)
 <!-- BLOG-POST-LIST:END -->
