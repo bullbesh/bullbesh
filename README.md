@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Jeremy Howard, co-founder of fast.ai, released FastHTML, for Modern web applications in Pure Python](https://www.reddit.com/r/Python/comments/1eghskf/jeremy_howard_cofounder_of_fastai_released/)
 - [What are some unusual but useful Python libraries you&#39;ve discovered?](https://www.reddit.com/r/Python/comments/1egg99j/what_are_some_unusual_but_useful_python_libraries/)
+- [YAML Testing Framework - Low/No Code Unit Testing Solution](https://www.reddit.com/r/Python/comments/1ege0kr/yaml_testing_framework_lowno_code_unit_testing/)
 - [An interesting pattern, with dataloader](https://www.reddit.com/r/Python/comments/1egcxwb/an_interesting_pattern_with_dataloader/)
-- [Registries 1.0: Easy dynamic object registration and lookup for extensible Python code](https://www.reddit.com/r/Python/comments/1eg9y6s/registries_10_easy_dynamic_object_registration/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1eg8uu9/wednesday_daily_thread_beginner_questions/)
+- [A NO/LOW Code CLI-based Auto-Updater Tool for Desktop Applications developed in python](https://www.reddit.com/r/Python/comments/1egasez/a_nolow_code_clibased_autoupdater_tool_for/)
 <!-- BLOG-POST-LIST:END -->
