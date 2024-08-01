@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Which is better, Python or C++?](https://www.reddit.com/r/Python/comments/1ehk3ns/which_is_better_python_or_c/)
 - [The trouble with __all__](https://www.reddit.com/r/Python/comments/1ehjy9g/the_trouble_with_all/)
 - [Running GLSL Shaders](https://www.reddit.com/r/Python/comments/1ehjkyz/running_glsl_shaders/)
 - [Made an open-source python Google Photo frame/slideshow](https://www.reddit.com/r/Python/comments/1ehh9va/made_an_opensource_python_google_photo/)
 - [I wrote a webserver with raw sockets in Python](https://www.reddit.com/r/Python/comments/1eha3cj/i_wrote_a_webserver_with_raw_sockets_in_python/)
+- [Anyone know of any communities dedicated to software toys?](https://www.reddit.com/r/Python/comments/1eh7rlg/anyone_know_of_any_communities_dedicated_to/)
 <!-- BLOG-POST-LIST:END -->
