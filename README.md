@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python GUI options](https://www.reddit.com/r/Python/comments/1ehtg3y/python_gui_options/)
+- [Autoserializing JSON strings](https://www.reddit.com/r/Python/comments/1ehsu0o/autoserializing_json_strings/)
+- [The history behind why &quot;python -m json&quot; doesn&#39;t work but &quot;python -m json.tool&quot; does](https://www.reddit.com/r/Python/comments/1ehsdpz/the_history_behind_why_python_m_json_doesnt_work/)
 - [Your fav Framework over all](https://www.reddit.com/r/Python/comments/1ehqgwj/your_fav_framework_over_all/)
 - [Multiplayer trivia game with AI generated questions in Python](https://www.reddit.com/r/Python/comments/1ehqf5c/multiplayer_trivia_game_with_ai_generated/)
-- [ENVKEY Shutting Down - Alternatives for secrets / keys?](https://www.reddit.com/r/Python/comments/1ehny2x/envkey_shutting_down_alternatives_for_secrets_keys/)
-- [New in Docx2Python 3.0](https://www.reddit.com/r/Python/comments/1ehmhws/new_in_docx2python_30/)
-- [The trouble with __all__](https://www.reddit.com/r/Python/comments/1ehjy9g/the_trouble_with_all/)
 <!-- BLOG-POST-LIST:END -->
