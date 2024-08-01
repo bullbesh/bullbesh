@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your fav Framework over all](https://www.reddit.com/r/Python/comments/1ehqgwj/your_fav_framework_over_all/)
+- [Multiplayer trivia game with AI generated questions in Python](https://www.reddit.com/r/Python/comments/1ehqf5c/multiplayer_trivia_game_with_ai_generated/)
 - [ENVKEY Shutting Down - Alternatives for secrets / keys?](https://www.reddit.com/r/Python/comments/1ehny2x/envkey_shutting_down_alternatives_for_secrets_keys/)
 - [New in Docx2Python 3.0](https://www.reddit.com/r/Python/comments/1ehmhws/new_in_docx2python_30/)
 - [The trouble with __all__](https://www.reddit.com/r/Python/comments/1ehjy9g/the_trouble_with_all/)
-- [Running GLSL Shaders](https://www.reddit.com/r/Python/comments/1ehjkyz/running_glsl_shaders/)
-- [Made an open-source python Google Photo frame/slideshow](https://www.reddit.com/r/Python/comments/1ehh9va/made_an_opensource_python_google_photo/)
 <!-- BLOG-POST-LIST:END -->
