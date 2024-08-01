@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ENVKEY Shutting Down - Alternatives for secrets / keys?](https://www.reddit.com/r/Python/comments/1ehny2x/envkey_shutting_down_alternatives_for_secrets_keys/)
 - [New in Docx2Python 3.0](https://www.reddit.com/r/Python/comments/1ehmhws/new_in_docx2python_30/)
 - [The trouble with __all__](https://www.reddit.com/r/Python/comments/1ehjy9g/the_trouble_with_all/)
 - [Running GLSL Shaders](https://www.reddit.com/r/Python/comments/1ehjkyz/running_glsl_shaders/)
 - [Made an open-source python Google Photo frame/slideshow](https://www.reddit.com/r/Python/comments/1ehh9va/made_an_opensource_python_google_photo/)
-- [I wrote a webserver with raw sockets in Python](https://www.reddit.com/r/Python/comments/1eha3cj/i_wrote_a_webserver_with_raw_sockets_in_python/)
 <!-- BLOG-POST-LIST:END -->
