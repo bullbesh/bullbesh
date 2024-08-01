@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1eh2h8o/thursday_daily_thread_python_careers_courses_and/)
 - [New Python Tool: Generate Comprehensive Exception Reports with snap4frame](https://www.reddit.com/r/Python/comments/1egwfur/new_python_tool_generate_comprehensive_exception/)
 - [Jeremy Howard, co-founder of fast.ai, released FastHTML, for Modern web applications in Pure Python](https://www.reddit.com/r/Python/comments/1eghskf/jeremy_howard_cofounder_of_fastai_released/)
 - [What are some unusual but useful Python libraries you&#39;ve discovered?](https://www.reddit.com/r/Python/comments/1egg99j/what_are_some_unusual_but_useful_python_libraries/)
 - [YAML Testing Framework - Low/No Code Unit Testing Solution](https://www.reddit.com/r/Python/comments/1ege0kr/yaml_testing_framework_lowno_code_unit_testing/)
-- [An interesting pattern, with dataloader](https://www.reddit.com/r/Python/comments/1egcxwb/an_interesting_pattern_with_dataloader/)
 <!-- BLOG-POST-LIST:END -->
