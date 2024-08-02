@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Pastebin Command Line App | PasteCMD](https://www.reddit.com/r/Python/comments/1eifw9u/pastebin_command_line_app_pastecmd/)
-- [Why must I always guess which python version to leverage when setting up github repos?](https://www.reddit.com/r/Python/comments/1eiebdi/why_must_i_always_guess_which_python_version_to/)
 - [The Python on Microcontrollers Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1eiamdm/the_python_on_microcontrollers_newsletter_a/)
 - [Compress JSON: the missing Python utility to read and write compressed JSONs.](https://www.reddit.com/r/Python/comments/1ei8vl9/compress_json_the_missing_python_utility_to_read/)
 - [BevyFrame, all native Python web framework](https://www.reddit.com/r/Python/comments/1ei70as/bevyframe_all_native_python_web_framework/)
+- [A Toy Project for Python Package Management](https://www.reddit.com/r/Python/comments/1ei6dn4/a_toy_project_for_python_package_management/)
 <!-- BLOG-POST-LIST:END -->
