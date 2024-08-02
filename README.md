@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [An AI worker automating digital marketing for your side hustles](https://www.reddit.com/r/Python/comments/1eilw86/an_ai_worker_automating_digital_marketing_for/)
 - [dir-assistant: Chat with your current directory&#39;s files using a local or API LLM.](https://www.reddit.com/r/Python/comments/1eihaif/dirassistant_chat_with_your_current_directorys/)
 - [Pastebin Command Line App | PasteCMD](https://www.reddit.com/r/Python/comments/1eifw9u/pastebin_command_line_app_pastecmd/)
 - [The Python on Microcontrollers Newsletter, a weekly news and project resource](https://www.reddit.com/r/Python/comments/1eiamdm/the_python_on_microcontrollers_newsletter_a/)
 - [Compress JSON: the missing Python utility to read and write compressed JSONs.](https://www.reddit.com/r/Python/comments/1ei8vl9/compress_json_the_missing_python_utility_to_read/)
-- [BevyFrame, all native Python web framework](https://www.reddit.com/r/Python/comments/1ei70as/bevyframe_all_native_python_web_framework/)
 <!-- BLOG-POST-LIST:END -->
