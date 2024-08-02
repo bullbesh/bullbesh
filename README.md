@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [BevyFrame, all native Python web framework](https://www.reddit.com/r/Python/comments/1ei70as/bevyframe_all_native_python_web_framework/)
 - [A Toy Project for Python Package Management](https://www.reddit.com/r/Python/comments/1ei6dn4/a_toy_project_for_python_package_management/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ehvu5t/friday_daily_thread_rpython_meta_and_freetalk/)
 - [A Neural Network from Scratch in Python](https://www.reddit.com/r/Python/comments/1ehufk6/a_neural_network_from_scratch_in_python/)
 - [Autoserializing JSON strings](https://www.reddit.com/r/Python/comments/1ehsu0o/autoserializing_json_strings/)
-- [The history behind why &quot;python -m json&quot; doesn&#39;t work but &quot;python -m json.tool&quot; does](https://www.reddit.com/r/Python/comments/1ehsdpz/the_history_behind_why_python_m_json_doesnt_work/)
 <!-- BLOG-POST-LIST:END -->
