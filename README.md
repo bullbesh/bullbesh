@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Would an AI Assistant for API Docs Enhance Your Coding Experience?](https://www.reddit.com/r/Python/comments/1ej5cf4/would_an_ai_assistant_for_api_docs_enhance_your/)
 - [A script to batch convert media with ffmpeg](https://www.reddit.com/r/Python/comments/1eiywug/a_script_to_batch_convert_media_with_ffmpeg/)
 - [open source project for backend developer](https://www.reddit.com/r/Python/comments/1eixh17/open_source_project_for_backend_developer/)
 - [socket POC where tasks are triggered by the client and responses are sent as pickled Python objects.](https://www.reddit.com/r/Python/comments/1eivr7n/socket_poc_where_tasks_are_triggered_by_the/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1eip7i1/saturday_daily_thread_resource_request_and/)
-- [dir-assistant: Chat with your current directory&#39;s files using a local or API LLM.](https://www.reddit.com/r/Python/comments/1eihaif/dirassistant_chat_with_your_current_directorys/)
 <!-- BLOG-POST-LIST:END -->
