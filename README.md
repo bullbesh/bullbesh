@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Any Free Alternatives to Huggingface and Streamlit.io for Hosting Streamlit Apps?](https://www.reddit.com/r/Python/comments/1eirgeh/any_free_alternatives_to_huggingface_and/)
+- [socket POC where tasks are triggered by the client and responses are sent as pickled Python objects.](https://www.reddit.com/r/Python/comments/1eivr7n/socket_poc_where_tasks_are_triggered_by_the/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1eip7i1/saturday_daily_thread_resource_request_and/)
-- [An AI worker automating digital marketing for your side hustles](https://www.reddit.com/r/Python/comments/1eilw86/an_ai_worker_automating_digital_marketing_for/)
 - [dir-assistant: Chat with your current directory&#39;s files using a local or API LLM.](https://www.reddit.com/r/Python/comments/1eihaif/dirassistant_chat_with_your_current_directorys/)
 - [Pastebin Command Line App | PasteCMD](https://www.reddit.com/r/Python/comments/1eifw9u/pastebin_command_line_app_pastecmd/)
+- [Compress JSON: the missing Python utility to read and write compressed JSONs.](https://www.reddit.com/r/Python/comments/1ei8vl9/compress_json_the_missing_python_utility_to_read/)
 <!-- BLOG-POST-LIST:END -->
