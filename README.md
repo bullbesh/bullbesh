@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Limitations of `subprocess`?](https://www.reddit.com/r/Python/comments/1ek3vxc/limitations_of_subprocess/)
 - [App review save](https://www.reddit.com/r/Python/comments/1ek36zk/app_review_save/)
 - [Generating Docx file](https://www.reddit.com/r/Python/comments/1ejzy2l/generating_docx_file/)
 - [Why is no one using full-stack python for web development? Has no one heard of the FHBH stack ??](https://www.reddit.com/r/Python/comments/1ejympc/why_is_no_one_using_fullstack_python_for_web/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ejhq9s/sunday_daily_thread_whats_everyone_working_on/)
-- [Website To Easily Develop Tkinter GUIs](https://www.reddit.com/r/Python/comments/1ejcbhe/website_to_easily_develop_tkinter_guis/)
 <!-- BLOG-POST-LIST:END -->
