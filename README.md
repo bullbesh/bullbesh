@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why does the python website use semicolons on their about page?](https://www.reddit.com/r/Python/comments/1ejw8yl/why_does_the_python_website_use_semicolons_on/)
-- [ChatGPT-4 or GitHub Copilot Chat](https://www.reddit.com/r/Python/comments/1ejt9oc/chatgpt4_or_github_copilot_chat/)
-- [Python Skills for AWS](https://www.reddit.com/r/Python/comments/1ejplk8/python_skills_for_aws/)
-- [Working on sequence data types in this week](https://www.reddit.com/r/Python/comments/1ejp9d9/working_on_sequence_data_types_in_this_week/)
+- [Why is no one using full-stack python for web development? Has no one heard of the FHBH stack ??](https://www.reddit.com/r/Python/comments/1ejympc/why_is_no_one_using_fullstack_python_for_web/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ejhq9s/sunday_daily_thread_whats_everyone_working_on/)
+- [Website To Easily Develop Tkinter GUIs](https://www.reddit.com/r/Python/comments/1ejcbhe/website_to_easily_develop_tkinter_guis/)
+- [PyData Turkiye Announcement](https://www.reddit.com/r/Python/comments/1ejbx6q/pydata_turkiye_announcement/)
+- [Sideways Shooter game in Python. Python Crash Course, 3nd Edition.](https://www.reddit.com/r/Python/comments/1ejbvpj/sideways_shooter_game_in_python_python_crash/)
 <!-- BLOG-POST-LIST:END -->
