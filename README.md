@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Blackjack Game](https://www.reddit.com/r/Python/comments/1eksnzy/creating_a_blackjack_game/)
 - [Direct Preference Optimization &lpar;DPO&rpar; for LLM Alignment coded in Python &amp; PyTorch from scratch](https://www.reddit.com/r/Python/comments/1ekpr18/direct_preference_optimization_dpo_for_llm/)
 - [PyAwaitable: An ideal way to define asynchronous logic in C extensions](https://www.reddit.com/r/Python/comments/1ekpk4c/pyawaitable_an_ideal_way_to_define_asynchronous/)
 - [ValKey-Glide - an OSS multilingual ValKey/Redis-OSS client - Python stable is out!](https://www.reddit.com/r/Python/comments/1ekkqe7/valkeyglide_an_oss_multilingual_valkeyredisoss/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1ek9spq/monday_daily_thread_project_ideas/)
-- [Limitations of `subprocess`?](https://www.reddit.com/r/Python/comments/1ek3vxc/limitations_of_subprocess/)
 <!-- BLOG-POST-LIST:END -->
