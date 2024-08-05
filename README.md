@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Node Demonstrator - tool to create graphs and show standard algorithms](https://www.reddit.com/r/Python/comments/1ekyqvz/node_demonstrator_tool_to_create_graphs_and_show/)
 - [Tool: quickly find the strptime/strftime format code for your date](https://www.reddit.com/r/Python/comments/1ekv35s/tool_quickly_find_the_strptimestrftime_format/)
 - [Direct Preference Optimization &lpar;DPO&rpar; for LLM Alignment coded in Python &amp; PyTorch from scratch](https://www.reddit.com/r/Python/comments/1ekpr18/direct_preference_optimization_dpo_for_llm/)
 - [PyAwaitable: An ideal way to define asynchronous logic in C extensions](https://www.reddit.com/r/Python/comments/1ekpk4c/pyawaitable_an_ideal_way_to_define_asynchronous/)
 - [ValKey-Glide - an OSS multilingual ValKey/Redis-OSS client - Python stable is out!](https://www.reddit.com/r/Python/comments/1ekkqe7/valkeyglide_an_oss_multilingual_valkeyredisoss/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1ek9spq/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
