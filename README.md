@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ValKey-Glide - an OSS multilingual ValKey/Redis-OSS client - Python stable is out!](https://www.reddit.com/r/Python/comments/1ekkqe7/valkeyglide_an_oss_multilingual_valkeyredisoss/)
 - [Tkinter machine learning UI](https://www.reddit.com/r/Python/comments/1ekjqpq/tkinter_machine_learning_ui/)
 - [What Python skills are in demand?](https://www.reddit.com/r/Python/comments/1ekhfp4/what_python_skills_are_in_demand/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1ek9spq/monday_daily_thread_project_ideas/)
 - [Limitations of `subprocess`?](https://www.reddit.com/r/Python/comments/1ek3vxc/limitations_of_subprocess/)
-- [Why is no one using full-stack python for web development? Has no one heard of the FHBH stack ??](https://www.reddit.com/r/Python/comments/1ejympc/why_is_no_one_using_fullstack_python_for_web/)
 <!-- BLOG-POST-LIST:END -->
