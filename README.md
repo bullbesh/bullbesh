@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1el3al8/tuesday_daily_thread_advanced_questions/)
 - [flashcard generator](https://www.reddit.com/r/Python/comments/1el23eu/flashcard_generator/)
 - [Visual A* pathfinding and maze generation in Python](https://www.reddit.com/r/Python/comments/1el1amr/visual_a_pathfinding_and_maze_generation_in_python/)
 - [Node Demonstrator - tool to create graphs and show standard algorithms](https://www.reddit.com/r/Python/comments/1ekyqvz/node_demonstrator_tool_to_create_graphs_and_show/)
 - [Tool: quickly find the strptime/strftime format code for your date](https://www.reddit.com/r/Python/comments/1ekv35s/tool_quickly_find_the_strptimestrftime_format/)
-- [Direct Preference Optimization &lpar;DPO&rpar; for LLM Alignment coded in Python &amp; PyTorch from scratch](https://www.reddit.com/r/Python/comments/1ekpr18/direct_preference_optimization_dpo_for_llm/)
 <!-- BLOG-POST-LIST:END -->
