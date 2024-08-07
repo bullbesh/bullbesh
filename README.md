@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [rootchecker: Check for unprivileged root access and Magisk in Android](https://www.reddit.com/r/Python/comments/1emlzm2/rootchecker_check_for_unprivileged_root_access/)
+- [Daily Tips for Skill Development](https://www.reddit.com/r/Python/comments/1emlark/daily_tips_for_skill_development/)
+- [Aspiring Software Developer](https://www.reddit.com/r/Python/comments/1eml6at/aspiring_software_developer/)
 - [Using AI to handle some of the backend logic](https://www.reddit.com/r/Python/comments/1emjx9g/using_ai_to_handle_some_of_the_backend_logic/)
 - [Python extensions should be lazy](https://www.reddit.com/r/Python/comments/1emh7ja/python_extensions_should_be_lazy/)
-- [Compile your Python code to Pycache on Upsun 📄✨](https://www.reddit.com/r/Python/comments/1emgmfj/compile_your_python_code_to_pycache_on_upsun/)
-- [I present crychat! A terminal based encrypted chat program.](https://www.reddit.com/r/Python/comments/1emdqgq/i_present_crychat_a_terminal_based_encrypted_chat/)
-- [Chip&#39;s Ocean Game: A Software Toy/Experiment That Simulates a Crew of NPCs Exploring an Ocean](https://www.reddit.com/r/Python/comments/1em0woz/chips_ocean_game_a_software_toyexperiment_that/)
 <!-- BLOG-POST-LIST:END -->
