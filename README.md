@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Standard on repos that train and package DL/ML projects](https://www.reddit.com/r/Python/comments/1ely4gd/standard_on_repos_that_train_and_package_dlml/)
+- [What “enchants” you about Python?](https://www.reddit.com/r/Python/comments/1em0heb/what_enchants_you_about_python/)
+- [why ever use int instead of float?](https://www.reddit.com/r/Python/comments/1em05hj/why_ever_use_int_instead_of_float/)
+- [My First Python Project &lpar;game&rpar; 3 days experience](https://www.reddit.com/r/Python/comments/1em0179/my_first_python_project_game_3_days_experience/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1elxc34/wednesday_daily_thread_beginner_questions/)
 - [Useful automations using Slack, GitHub, Jira, Google tools and more](https://www.reddit.com/r/Python/comments/1elttxs/useful_automations_using_slack_github_jira_google/)
-- [[New Tool] Easily Convert YouTube Videos to MP!](https://www.reddit.com/r/Python/comments/1elh7nr/new_tool_easily_convert_youtube_videos_to_mp/)
-- [A Simple sync FastAPI Boilerplate with minimal overhead](https://www.reddit.com/r/Python/comments/1eldpb3/a_simple_sync_fastapi_boilerplate_with_minimal/)
 <!-- BLOG-POST-LIST:END -->
