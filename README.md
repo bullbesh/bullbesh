@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [quarto-live: an official WASM backend for Quarto that supports both R and Python interactive cells](https://www.reddit.com/r/Python/comments/1end2sx/quartolive_an_official_wasm_backend_for_quarto/)
 - [emval: validating email addresses at 1000x the speed.](https://www.reddit.com/r/Python/comments/1enbm7r/emval_validating_email_addresses_at_1000x_the/)
-- [Python Typing Survey 2024](https://www.reddit.com/r/Python/comments/1enb4dq/python_typing_survey_2024/)
 - [new graphql client library wrapped around pydantic](https://www.reddit.com/r/Python/comments/1en9er8/new_graphql_client_library_wrapped_around_pydantic/)
 - [bad programming skills](https://www.reddit.com/r/Python/comments/1en9d0y/bad_programming_skills/)
+- [Computing Option Greeks in real time using Pathway and Databento](https://www.reddit.com/r/Python/comments/1en3ocp/computing_option_greeks_in_real_time_using/)
 <!-- BLOG-POST-LIST:END -->
