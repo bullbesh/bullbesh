@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spotify batch import script](https://www.reddit.com/r/Python/comments/1enp91w/spotify_batch_import_script/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1enldf3/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Anyone else sick of seeing &quot;blazing fast&quot; so often?](https://www.reddit.com/r/Python/comments/1enjb9a/anyone_else_sick_of_seeing_blazing_fast_so_often/)
 - [quarto-live: an official WASM backend for Quarto that supports both R and Python interactive cells](https://www.reddit.com/r/Python/comments/1end2sx/quartolive_an_official_wasm_backend_for_quarto/)
 - [emval: validating email addresses at 1000x the speed.](https://www.reddit.com/r/Python/comments/1enbm7r/emval_validating_email_addresses_at_1000x_the/)
 - [new graphql client library wrapped around pydantic](https://www.reddit.com/r/Python/comments/1en9er8/new_graphql_client_library_wrapped_around_pydantic/)
