@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing PUFAnalytics: A Python Library for Analyzing Physically Unclonable Function](https://www.reddit.com/r/Python/comments/1eo4xs8/introducing_pufanalytics_a_python_library_for/)
 - [Crawling Pages with Infinite Scroll using Scrapy and Playwright](https://www.reddit.com/r/Python/comments/1eo2yry/crawling_pages_with_infinite_scroll_using_scrapy/)
 - [Add examples to Sphinx docs automatically](https://www.reddit.com/r/Python/comments/1eo0yie/add_examples_to_sphinx_docs_automatically/)
 - [Architecture for model deployed with Streamlit](https://www.reddit.com/r/Python/comments/1enxk11/architecture_for_model_deployed_with_streamlit/)
 - [Not understanding topics while self teaching.](https://www.reddit.com/r/Python/comments/1ensz5h/not_understanding_topics_while_self_teaching/)
-- [Spotify batch import script](https://www.reddit.com/r/Python/comments/1enp91w/spotify_batch_import_script/)
 <!-- BLOG-POST-LIST:END -->
