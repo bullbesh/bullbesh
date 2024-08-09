@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Not understanding topics while self teaching.](https://www.reddit.com/r/Python/comments/1ensz5h/not_understanding_topics_while_self_teaching/)
 - [Spotify batch import script](https://www.reddit.com/r/Python/comments/1enp91w/spotify_batch_import_script/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1enldf3/friday_daily_thread_rpython_meta_and_freetalk/)
 - [quarto-live: an official WASM backend for Quarto that supports both R and Python interactive cells](https://www.reddit.com/r/Python/comments/1end2sx/quartolive_an_official_wasm_backend_for_quarto/)
 - [emval: validating email addresses at 1000x the speed.](https://www.reddit.com/r/Python/comments/1enbm7r/emval_validating_email_addresses_at_1000x_the/)
-- [new graphql client library wrapped around pydantic](https://www.reddit.com/r/Python/comments/1en9er8/new_graphql_client_library_wrapped_around_pydantic/)
 <!-- BLOG-POST-LIST:END -->
