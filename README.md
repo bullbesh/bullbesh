@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Robyn&#39;s Architecture Documentation Now Available! &lpar;Seeking Feedback&rpar;](https://www.reddit.com/r/Python/comments/1eotvcx/robyns_architecture_documentation_now_available/)
 - [Python only as a freelancer](https://www.reddit.com/r/Python/comments/1eorg1o/python_only_as_a_freelancer/)
 - [A Slick n Lightweight screen recorder for linux! With some cool features :]](https://www.reddit.com/r/Python/comments/1eoptj5/a_slick_n_lightweight_screen_recorder_for_linux/)
 - [Will companies consider FastAPI exp and Python exp?](https://www.reddit.com/r/Python/comments/1eok4bm/will_companies_consider_fastapi_exp_and_python_exp/)
 - [Flake8 Import Guard: Automate Import Restriction Checks in Python Projects](https://www.reddit.com/r/Python/comments/1eoip79/flake8_import_guard_automate_import_restriction/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1eof43a/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
