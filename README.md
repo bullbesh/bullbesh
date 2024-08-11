@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [cambd: cli dictionary app with suggestions feature on misspelt words](https://www.reddit.com/r/Python/comments/1epe9oa/cambd_cli_dictionary_app_with_suggestions_feature/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ep73kv/sunday_daily_thread_whats_everyone_working_on/)
 - [Swaggerspect: JSON schema for python API:s](https://www.reddit.com/r/Python/comments/1ep5i78/swaggerspect_json_schema_for_python_apis/)
 - [Is my FS-web app,really just a CMS with Models? what is best Approach in Flask / Python ?](https://www.reddit.com/r/Python/comments/1ep0rzr/is_my_fsweb_appreally_just_a_cms_with_models_what/)
 - [Sharing what I would consider as a win](https://www.reddit.com/r/Python/comments/1eouavj/sharing_what_i_would_consider_as_a_win/)
-- [Robyn&#39;s Architecture Documentation Now Available! &lpar;Seeking Feedback&rpar;](https://www.reddit.com/r/Python/comments/1eotvcx/robyns_architecture_documentation_now_available/)
 <!-- BLOG-POST-LIST:END -->
