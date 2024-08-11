@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Feeback On Project to see if its resume worthy or not](https://www.reddit.com/r/Python/comments/1epxjiy/feeback_on_project_to_see_if_its_resume_worthy_or/)
 - [I created my own autoclicker using Customtkinter](https://www.reddit.com/r/Python/comments/1epurz2/i_created_my_own_autoclicker_using_customtkinter/)
 - [Python debugger: properties of a protobuf generated class are not showing](https://www.reddit.com/r/Python/comments/1epspma/python_debugger_properties_of_a_protobuf/)
 - [I created my own Python Framework](https://www.reddit.com/r/Python/comments/1epml72/i_created_my_own_python_framework/)
 - [The contextvars and the chain of asyncio tasks in Python](https://www.reddit.com/r/Python/comments/1ephl0g/the_contextvars_and_the_chain_of_asyncio_tasks_in/)
-- [cambd: cli dictionary app with suggestions feature on misspelt words](https://www.reddit.com/r/Python/comments/1epe9oa/cambd_cli_dictionary_app_with_suggestions_feature/)
 <!-- BLOG-POST-LIST:END -->
