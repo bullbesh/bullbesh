@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [FastAPI without ORMs: Setup, Migrations, Testing](https://www.reddit.com/r/Python/comments/1eqftsl/fastapi_without_orms_setup_migrations_testing/)
-- [Linter to catch calling uncallable](https://www.reddit.com/r/Python/comments/1eqfpqw/linter_to_catch_calling_uncallable/)
 - [LLM Aided Transcription Improvement in Python](https://www.reddit.com/r/Python/comments/1eqfdls/llm_aided_transcription_improvement_in_python/)
 - [Boilerplate for new projects with Pixi, Flask, Jupyter Notebook, and Docker](https://www.reddit.com/r/Python/comments/1eqchvx/boilerplate_for_new_projects_with_pixi_flask/)
-- [Poor Man’s GitHub Copilot X CLI, works without any API Key.](https://www.reddit.com/r/Python/comments/1eq9okl/poor_mans_github_copilot_x_cli_works_without_any/)
+- [I created free AI API](https://www.reddit.com/r/Python/comments/1eq884h/i_created_free_ai_api/)
+- [Another static site generator in Python?](https://www.reddit.com/r/Python/comments/1eq6j7o/another_static_site_generator_in_python/)
 <!-- BLOG-POST-LIST:END -->
