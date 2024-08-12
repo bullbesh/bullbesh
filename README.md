@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Another static site generator in Python?](https://www.reddit.com/r/Python/comments/1eq6j7o/another_static_site_generator_in_python/)
+- [RAGoon is now available on PyPI, GitHub, and as a Space on HF for batched embeddings generation](https://www.reddit.com/r/Python/comments/1eq5wh0/ragoon_is_now_available_on_pypi_github_and_as_a/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1epzext/monday_daily_thread_project_ideas/)
 - [Feeback On Project to see if its resume worthy or not](https://www.reddit.com/r/Python/comments/1epxjiy/feeback_on_project_to_see_if_its_resume_worthy_or/)
 - [I created my own autoclicker using Customtkinter](https://www.reddit.com/r/Python/comments/1epurz2/i_created_my_own_autoclicker_using_customtkinter/)
-- [Python debugger: properties of a protobuf generated class are not showing](https://www.reddit.com/r/Python/comments/1epspma/python_debugger_properties_of_a_protobuf/)
-- [I created my own Python Framework](https://www.reddit.com/r/Python/comments/1epml72/i_created_my_own_python_framework/)
 <!-- BLOG-POST-LIST:END -->
