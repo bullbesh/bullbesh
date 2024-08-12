@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Tim Peters &lpar;creator of timsort&rpar; has been suspended.](https://www.reddit.com/r/Python/comments/1eqn8z7/tim_peters_creator_of_timsort_has_been_suspended/)
+- [AI planner: tool for creating calendar events from long descriptions](https://www.reddit.com/r/Python/comments/1eqon6k/ai_planner_tool_for_creating_calendar_events_from/)
 - [JSON based Markup Language](https://www.reddit.com/r/Python/comments/1eqmvq9/json_based_markup_language/)
 - [I’m a medical doctor, just began learning Python. My world is changed. Anyone else?](https://www.reddit.com/r/Python/comments/1eqm7he/im_a_medical_doctor_just_began_learning_python_my/)
 - [deltadb: a sqlite alternative powered by polars and deltalake](https://www.reddit.com/r/Python/comments/1eqlgvw/deltadb_a_sqlite_alternative_powered_by_polars/)
