@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python CL to Web command game](https://www.reddit.com/r/Python/comments/1er91jo/python_cl_to_web_command_game/)
+- [AI Secretary: I built an AI Secretary that Manages Calendar Events from Emails](https://www.reddit.com/r/Python/comments/1erbiqr/ai_secretary_i_built_an_ai_secretary_that_manages/)
 - [An extensive open source collection of RAG implementations with many different strategies](https://www.reddit.com/r/Python/comments/1er86xt/an_extensive_open_source_collection_of_rag/)
 - [cachemethod, python&#39;s missing cache functionality](https://www.reddit.com/r/Python/comments/1er2oxd/cachemethod_pythons_missing_cache_functionality/)
 - [PEP 750 – Tag Strings For Writing Domain-Specific Languages](https://www.reddit.com/r/Python/comments/1equd6q/pep_750_tag_strings_for_writing_domainspecific/)
