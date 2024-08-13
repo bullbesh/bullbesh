@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Secretary: I built an AI Secretary that Manages Calendar Events from Emails](https://www.reddit.com/r/Python/comments/1erbiqr/ai_secretary_i_built_an_ai_secretary_that_manages/)
+- [Wipeout - Savable debug sessions from exceptions](https://www.reddit.com/r/Python/comments/1erc9hu/wipeout_savable_debug_sessions_from_exceptions/)
 - [An extensive open source collection of RAG implementations with many different strategies](https://www.reddit.com/r/Python/comments/1er86xt/an_extensive_open_source_collection_of_rag/)
 - [cachemethod, python&#39;s missing cache functionality](https://www.reddit.com/r/Python/comments/1er2oxd/cachemethod_pythons_missing_cache_functionality/)
+- [Simplified Open-Source Agent toolkit](https://www.reddit.com/r/Python/comments/1er0nco/simplified_opensource_agent_toolkit/)
 - [PEP 750 – Tag Strings For Writing Domain-Specific Languages](https://www.reddit.com/r/Python/comments/1equd6q/pep_750_tag_strings_for_writing_domainspecific/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1eqthqn/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
