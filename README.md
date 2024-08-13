@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python 3 Programming Specialization on Runescape](https://www.reddit.com/r/Python/comments/1erexp3/python_3_programming_specialization_on_runescape/)
+- [I&#39;ve just used Python for the first time and I&#39;m hooked](https://www.reddit.com/r/Python/comments/1eretbp/ive_just_used_python_for_the_first_time_and_im/)
+- [Is Cython OOP much faster than Python?](https://www.reddit.com/r/Python/comments/1erdlr9/is_cython_oop_much_faster_than_python/)
 - [Wipeout - Savable debug sessions from exceptions](https://www.reddit.com/r/Python/comments/1erc9hu/wipeout_savable_debug_sessions_from_exceptions/)
 - [An extensive open source collection of RAG implementations with many different strategies](https://www.reddit.com/r/Python/comments/1er86xt/an_extensive_open_source_collection_of_rag/)
-- [cachemethod, python&#39;s missing cache functionality](https://www.reddit.com/r/Python/comments/1er2oxd/cachemethod_pythons_missing_cache_functionality/)
-- [Simplified Open-Source Agent toolkit](https://www.reddit.com/r/Python/comments/1er0nco/simplified_opensource_agent_toolkit/)
-- [PEP 750 – Tag Strings For Writing Domain-Specific Languages](https://www.reddit.com/r/Python/comments/1equd6q/pep_750_tag_strings_for_writing_domainspecific/)
 <!-- BLOG-POST-LIST:END -->
