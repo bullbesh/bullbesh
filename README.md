@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for Finance, where to start learning?](https://www.reddit.com/r/Python/comments/1erhjd1/python_for_finance_where_to_start_learning/)
+- [Astronomy projects](https://www.reddit.com/r/Python/comments/1erhihg/astronomy_projects/)
+- [SysIdentPy: NARMAX Methods For System Identification and Time series Forecasting](https://www.reddit.com/r/Python/comments/1erh82l/sysidentpy_narmax_methods_for_system/)
+- [I have a whiteboard interview, what should I expect?](https://www.reddit.com/r/Python/comments/1erh1if/i_have_a_whiteboard_interview_what_should_i_expect/)
 - [Python 3 Programming Specialization on Runescape](https://www.reddit.com/r/Python/comments/1erexp3/python_3_programming_specialization_on_runescape/)
-- [I&#39;ve just used Python for the first time and I&#39;m hooked](https://www.reddit.com/r/Python/comments/1eretbp/ive_just_used_python_for_the_first_time_and_im/)
-- [Is Cython OOP much faster than Python?](https://www.reddit.com/r/Python/comments/1erdlr9/is_cython_oop_much_faster_than_python/)
-- [Wipeout - Savable debug sessions from exceptions](https://www.reddit.com/r/Python/comments/1erc9hu/wipeout_savable_debug_sessions_from_exceptions/)
-- [An extensive open source collection of RAG implementations with many different strategies](https://www.reddit.com/r/Python/comments/1er86xt/an_extensive_open_source_collection_of_rag/)
 <!-- BLOG-POST-LIST:END -->
