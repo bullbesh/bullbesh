@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Experiences with python pahomqtt + rabbitmq](https://www.reddit.com/r/Python/comments/1erw9xq/experiences_with_python_pahomqtt_rabbitmq/)
 - [Manage and share data extracted from websites?](https://www.reddit.com/r/Python/comments/1ers0ge/manage_and_share_data_extracted_from_websites/)
 - [MediaWiki client library mwclient 0.11 has released!](https://www.reddit.com/r/Python/comments/1eroy8d/mediawiki_client_library_mwclient_011_has_released/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1ern23g/wednesday_daily_thread_beginner_questions/)
 - [SysIdentPy: NARMAX Methods For System Identification and Time series Forecasting](https://www.reddit.com/r/Python/comments/1erh82l/sysidentpy_narmax_methods_for_system/)
-- [I have a whiteboard interview, what should I expect?](https://www.reddit.com/r/Python/comments/1erh1if/i_have_a_whiteboard_interview_what_should_i_expect/)
 <!-- BLOG-POST-LIST:END -->
