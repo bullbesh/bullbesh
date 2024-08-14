@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sharing what I would consider as a win &lpar;part 2&rpar;](https://www.reddit.com/r/Python/comments/1esbd8n/sharing_what_i_would_consider_as_a_win_part_2/)
 - [Saving Scrapy Crawl Stats to PostgreSQL with a Custom Extension and SQLAlchemy](https://www.reddit.com/r/Python/comments/1es1wsb/saving_scrapy_crawl_stats_to_postgresql_with_a/)
 - [PyData Amsterdam Conference on September 18-20](https://www.reddit.com/r/Python/comments/1erycy0/pydata_amsterdam_conference_on_september_1820/)
 - [Introducing DishAdvisor: Discover the Best Dishes based on user reviews &lpar;Open Source Project&rpar;](https://www.reddit.com/r/Python/comments/1erxk9r/introducing_dishadvisor_discover_the_best_dishes/)
 - [FPGA Visual Builder &lpar;Visual Editor&rpar; first release](https://www.reddit.com/r/Python/comments/1erwafa/fpga_visual_builder_visual_editor_first_release/)
-- [MediaWiki client library mwclient 0.11 has released!](https://www.reddit.com/r/Python/comments/1eroy8d/mediawiki_client_library_mwclient_011_has_released/)
 <!-- BLOG-POST-LIST:END -->
