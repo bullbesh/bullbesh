@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MediaWiki client library mwclient 0.11 has released!](https://www.reddit.com/r/Python/comments/1eroy8d/mediawiki_client_library_mwclient_011_has_released/)
 - [I&#39;m making a git client.](https://www.reddit.com/r/Python/comments/1erorfc/im_making_a_git_client/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1ern23g/wednesday_daily_thread_beginner_questions/)
 - [SysIdentPy: NARMAX Methods For System Identification and Time series Forecasting](https://www.reddit.com/r/Python/comments/1erh82l/sysidentpy_narmax_methods_for_system/)
 - [I have a whiteboard interview, what should I expect?](https://www.reddit.com/r/Python/comments/1erh1if/i_have_a_whiteboard_interview_what_should_i_expect/)
-- [Python 3 Programming Specialization on Runescape](https://www.reddit.com/r/Python/comments/1erexp3/python_3_programming_specialization_on_runescape/)
 <!-- BLOG-POST-LIST:END -->
