@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing DishAdvisor: Discover the Best Dishes based on user reviews &lpar;Open Source Project&rpar;](https://www.reddit.com/r/Python/comments/1erxk9r/introducing_dishadvisor_discover_the_best_dishes/)
+- [Basically “puppet warp”](https://www.reddit.com/r/Python/comments/1erx7rl/basically_puppet_warp/)
 - [FPGA Visual Builder &lpar;Visual Editor&rpar; first release](https://www.reddit.com/r/Python/comments/1erwafa/fpga_visual_builder_visual_editor_first_release/)
 - [Experiences with python pahomqtt + rabbitmq](https://www.reddit.com/r/Python/comments/1erw9xq/experiences_with_python_pahomqtt_rabbitmq/)
 - [Manage and share data extracted from websites?](https://www.reddit.com/r/Python/comments/1ers0ge/manage_and_share_data_extracted_from_websites/)
-- [MediaWiki client library mwclient 0.11 has released!](https://www.reddit.com/r/Python/comments/1eroy8d/mediawiki_client_library_mwclient_011_has_released/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1ern23g/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
