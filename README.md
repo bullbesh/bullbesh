@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1etajo2/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Recommendation for Python Courses](https://www.reddit.com/r/Python/comments/1eta73j/recommendation_for_python_courses/)
-- [I created a free AI tool to adapt your resume to any job description!](https://www.reddit.com/r/Python/comments/1et4zpr/i_created_a_free_ai_tool_to_adapt_your_resume_to/)
 - [ESPythoNOW: Python implementation of ESP-NOW protocol](https://www.reddit.com/r/Python/comments/1et4k7p/espythonow_python_implementation_of_espnow/)
 - [Personal highlights from PyCon US 2024?](https://www.reddit.com/r/Python/comments/1et20on/personal_highlights_from_pycon_us_2024/)
+- [SurfSense A Brain for your Web Browsing Sessions. Never Forget anything you see on Internet](https://www.reddit.com/r/Python/comments/1esm0io/surfsense_a_brain_for_your_web_browsing_sessions/)
+- [Use cases where a mutable default argument is warranted?](https://www.reddit.com/r/Python/comments/1eskrri/use_cases_where_a_mutable_default_argument_is/)
 <!-- BLOG-POST-LIST:END -->
