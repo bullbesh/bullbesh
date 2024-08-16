@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [i am getting error &quot;greenlet_spawn has not been called; can&#39;t call await_only&lpar;&rpar; here. Was IO attemp&quot;](https://www.reddit.com/r/Python/comments/1ett29a/i_am_getting_error_greenlet_spawn_has_not_been/)
+- [Package for engaging video captions](https://www.reddit.com/r/Python/comments/1etrj3m/package_for_engaging_video_captions/)
 - [confession wall](https://www.reddit.com/r/Python/comments/1etrcqs/confession_wall/)
-- [Some python books](https://www.reddit.com/r/Python/comments/1etqd9j/some_python_books/)
 - [Note_rl: Reinforcement learning library for Keras and PyTorch.](https://www.reddit.com/r/Python/comments/1etn26h/note_rl_reinforcement_learning_library_for_keras/)
 - [SpotAPI: Spotify API without the hassle!](https://www.reddit.com/r/Python/comments/1etgwc9/spotapi_spotify_api_without_the_hassle/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1etajo2/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
