@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Black-Scholes model calculator](https://www.reddit.com/r/Python/comments/1etz65g/blackscholes_model_calculator/)
 - [Python based parser generator that you have used](https://www.reddit.com/r/Python/comments/1etx11n/python_based_parser_generator_that_you_have_used/)
 - [confession wall](https://www.reddit.com/r/Python/comments/1etrcqs/confession_wall/)
 - [Note_rl: Reinforcement learning library for Keras and PyTorch.](https://www.reddit.com/r/Python/comments/1etn26h/note_rl_reinforcement_learning_library_for_keras/)
 - [SpotAPI: Spotify API without the hassle!](https://www.reddit.com/r/Python/comments/1etgwc9/spotapi_spotify_api_without_the_hassle/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1etajo2/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
