@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python based parser generator that you have used](https://www.reddit.com/r/Python/comments/1etx11n/python_based_parser_generator_that_you_have_used/)
 - [Anyone hear of this?](https://www.reddit.com/r/Python/comments/1etvstu/anyone_hear_of_this/)
 - [Package for engaging video captions](https://www.reddit.com/r/Python/comments/1etrj3m/package_for_engaging_video_captions/)
 - [confession wall](https://www.reddit.com/r/Python/comments/1etrcqs/confession_wall/)
 - [Note_rl: Reinforcement learning library for Keras and PyTorch.](https://www.reddit.com/r/Python/comments/1etn26h/note_rl_reinforcement_learning_library_for_keras/)
-- [SpotAPI: Spotify API without the hassle!](https://www.reddit.com/r/Python/comments/1etgwc9/spotapi_spotify_api_without_the_hassle/)
 <!-- BLOG-POST-LIST:END -->
