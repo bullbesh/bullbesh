@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Back/Front solutions](https://www.reddit.com/r/Python/comments/1eufzz0/python_backfront_solutions/)
+- [Joining group in fastapi](https://www.reddit.com/r/Python/comments/1eufbj4/joining_group_in_fastapi/)
 - [I just built with Django in 30 minutes what took me a ton of hours with FastAPI](https://www.reddit.com/r/Python/comments/1eucunn/i_just_built_with_django_in_30_minutes_what_took/)
 - [GuardAI: Code Security Analysis Made Easy](https://www.reddit.com/r/Python/comments/1euamj9/guardai_code_security_analysis_made_easy/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1eu3yfn/saturday_daily_thread_resource_request_and/)
-- [Python Data Layer](https://www.reddit.com/r/Python/comments/1eu1ggr/python_data_layer/)
-- [Python 3.14 on Pi Day 💡](https://www.reddit.com/r/Python/comments/1eu1e8d/python_314_on_pi_day/)
 <!-- BLOG-POST-LIST:END -->
