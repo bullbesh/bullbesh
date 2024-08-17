@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [try this very very cool turtle drawing on python](https://www.reddit.com/r/Python/comments/1eusv3u/try_this_very_very_cool_turtle_drawing_on_python/)
 - [I made an Anime Finder GUI for Anilist API | AnimeSnap](https://www.reddit.com/r/Python/comments/1euqj71/i_made_an_anime_finder_gui_for_anilist_api/)
 - [Standalone GUI app that executes python scripts: Run py scripts without any installations*](https://www.reddit.com/r/Python/comments/1eujibn/standalone_gui_app_that_executes_python_scripts/)
 - [I just built with Django in 30 minutes what took me a ton of hours with FastAPI](https://www.reddit.com/r/Python/comments/1eucunn/i_just_built_with_django_in_30_minutes_what_took/)
 - [GuardAI: Code Security Analysis Made Easy](https://www.reddit.com/r/Python/comments/1euamj9/guardai_code_security_analysis_made_easy/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1eu3yfn/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
