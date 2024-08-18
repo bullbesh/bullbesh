@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Codingbat dot com](https://www.reddit.com/r/Python/comments/1ev9xfl/codingbat_dot_com/)
+- [I made a Spotify Genre Tracker with the goal of broadening my music taste.](https://www.reddit.com/r/Python/comments/1evbgzb/i_made_a_spotify_genre_tracker_with_the_goal_of/)
+- [I made a simple CLI time tracker](https://www.reddit.com/r/Python/comments/1evaak9/i_made_a_simple_cli_time_tracker/)
 - [Building Blocks of ML: Tiny Machine Learning Framework for Learners](https://www.reddit.com/r/Python/comments/1ev5l0r/building_blocks_of_ml_tiny_machine_learning/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1euvt6o/sunday_daily_thread_whats_everyone_working_on/)
 - [I made an Anime Finder GUI for Anilist API | AnimeSnap](https://www.reddit.com/r/Python/comments/1euqj71/i_made_an_anime_finder_gui_for_anilist_api/)
-- [Standalone GUI app that executes python scripts: Run py scripts without any installations*](https://www.reddit.com/r/Python/comments/1eujibn/standalone_gui_app_that_executes_python_scripts/)
 <!-- BLOG-POST-LIST:END -->
