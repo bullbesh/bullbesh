@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Poker game against computer?](https://www.reddit.com/r/Python/comments/1ewfgg6/poker_game_against_computer/)
 - [I built a nix-packaged python CLI for syncing BBC Radio songs with Spotify.](https://www.reddit.com/r/Python/comments/1ewdlxz/i_built_a_nixpackaged_python_cli_for_syncing_bbc/)
 - [The most upvoted open issue on matplotlib: &quot;plot and scatter should allow marker to be a list&quot;](https://www.reddit.com/r/Python/comments/1ewdf88/the_most_upvoted_open_issue_on_matplotlib_plot/)
 - [Another look at Dependency Graphs](https://www.reddit.com/r/Python/comments/1ew8w08/another_look_at_dependency_graphs/)
 - [tea-tasting: a Python package for the statistical analysis of A/B tests](https://www.reddit.com/r/Python/comments/1ew4ixg/teatasting_a_python_package_for_the_statistical/)
-- [Has there ever been a proposal for a zero-argument form of `slice&lpar;&rpar;`?](https://www.reddit.com/r/Python/comments/1ew3kvm/has_there_ever_been_a_proposal_for_a_zeroargument/)
 <!-- BLOG-POST-LIST:END -->
