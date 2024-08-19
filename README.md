@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is datacamp worth it?](https://www.reddit.com/r/Python/comments/1evqxma/is_datacamp_worth_it/)
+- [I made a script that automatically searches and win microsoft rewards points](https://www.reddit.com/r/Python/comments/1evqpgt/i_made_a_script_that_automatically_searches_and/)
 - [Pro tips for matplotlib figures to really feel right in LaTeX publications](https://www.reddit.com/r/Python/comments/1evp7ip/pro_tips_for_matplotlib_figures_to_really_feel/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1evnvtp/monday_daily_thread_project_ideas/)
 - [I Created the Definitive AUTOMATIC Shiny Hunter for Pokémon BDSP in Python](https://www.reddit.com/r/Python/comments/1evng2g/i_created_the_definitive_automatic_shiny_hunter/)
-- [Use your database for queuing with Queupy](https://www.reddit.com/r/Python/comments/1evcbny/use_your_database_for_queuing_with_queupy/)
-- [I made a Spotify Genre Tracker with the goal of broadening my music taste.](https://www.reddit.com/r/Python/comments/1evbgzb/i_made_a_spotify_genre_tracker_with_the_goal_of/)
 <!-- BLOG-POST-LIST:END -->
