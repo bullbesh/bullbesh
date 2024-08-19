@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The most upvoted open issue on matplotlib: &quot;plot and scatter should allow marker to be a list&quot;](https://www.reddit.com/r/Python/comments/1ewdf88/the_most_upvoted_open_issue_on_matplotlib_plot/)
 - [Another look at Dependency Graphs](https://www.reddit.com/r/Python/comments/1ew8w08/another_look_at_dependency_graphs/)
 - [tea-tasting: a Python package for the statistical analysis of A/B tests](https://www.reddit.com/r/Python/comments/1ew4ixg/teatasting_a_python_package_for_the_statistical/)
 - [Has there ever been a proposal for a zero-argument form of `slice&lpar;&rpar;`?](https://www.reddit.com/r/Python/comments/1ew3kvm/has_there_ever_been_a_proposal_for_a_zeroargument/)
 - [I built a Python Front End Framework](https://www.reddit.com/r/Python/comments/1evuzem/i_built_a_python_front_end_framework/)
-- [Pro tips for matplotlib figures to really feel right in LaTeX publications](https://www.reddit.com/r/Python/comments/1evp7ip/pro_tips_for_matplotlib_figures_to_really_feel/)
 <!-- BLOG-POST-LIST:END -->
