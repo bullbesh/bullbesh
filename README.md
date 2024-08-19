@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Failed coursera assignment](https://www.reddit.com/r/Python/comments/1evz63x/failed_coursera_assignment/)
 - [Pdf parsing - PDF to CSV](https://www.reddit.com/r/Python/comments/1evyyk4/pdf_parsing_pdf_to_csv/)
 - [Making a windows desktop app using pygame: how bad of an idea is it?](https://www.reddit.com/r/Python/comments/1evv8no/making_a_windows_desktop_app_using_pygame_how_bad/)
 - [I built a Python Front End Framework](https://www.reddit.com/r/Python/comments/1evuzem/i_built_a_python_front_end_framework/)
 - [Pro tips for matplotlib figures to really feel right in LaTeX publications](https://www.reddit.com/r/Python/comments/1evp7ip/pro_tips_for_matplotlib_figures_to_really_feel/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1evnvtp/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
