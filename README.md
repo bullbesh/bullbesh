@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for a 3D library](https://www.reddit.com/r/Python/comments/1ewveft/looking_for_a_3d_library/)
 - [Python Meets Rust: My CPU-Based Raytracing Library with PyO3](https://www.reddit.com/r/Python/comments/1ewudl2/python_meets_rust_my_cpubased_raytracing_library/)
 - [Instant Form Generator with Text Prompts using OpenAI structured Outputs and FastHTML](https://www.reddit.com/r/Python/comments/1ewts4v/instant_form_generator_with_text_prompts_using/)
 - [Python&#39;s Preprocessor - a deep dive into custom codecs](https://www.reddit.com/r/Python/comments/1ewqecv/pythons_preprocessor_a_deep_dive_into_custom/)
 - [Troubleshooting Cloudflare Interception and API Request Failures in Python](https://www.reddit.com/r/Python/comments/1ewoldw/troubleshooting_cloudflare_interception_and_api/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ewh8fl/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
