@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [uv: Unified Python packaging](https://www.reddit.com/r/Python/comments/1ex6n9k/uv_unified_python_packaging/)
 - [A keyboard only CLI pixel art editor](https://www.reddit.com/r/Python/comments/1ex5l15/a_keyboard_only_cli_pixel_art_editor/)
 - [Interview with Sean Law, creator of STUMPY](https://www.reddit.com/r/Python/comments/1ex34ec/interview_with_sean_law_creator_of_stumpy/)
 - [Mu own first library](https://www.reddit.com/r/Python/comments/1ewyzi2/mu_own_first_library/)
 - [Looking for a 3D library](https://www.reddit.com/r/Python/comments/1ewveft/looking_for_a_3d_library/)
-- [Python Meets Rust: My CPU-Based Raytracing Library with PyO3](https://www.reddit.com/r/Python/comments/1ewudl2/python_meets_rust_my_cpubased_raytracing_library/)
 <!-- BLOG-POST-LIST:END -->
