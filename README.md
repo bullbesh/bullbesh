@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SpotAPI: Enjoy Spotify Playback API Without Premium!](https://www.reddit.com/r/Python/comments/1ewn7np/spotapi_enjoy_spotify_playback_api_without_premium/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ewh8fl/tuesday_daily_thread_advanced_questions/)
 - [Poker game against computer?](https://www.reddit.com/r/Python/comments/1ewfgg6/poker_game_against_computer/)
 - [I built a nix-packaged python CLI for syncing BBC Radio songs with Spotify.](https://www.reddit.com/r/Python/comments/1ewdlxz/i_built_a_nixpackaged_python_cli_for_syncing_bbc/)
 - [The most upvoted open issue on matplotlib: &quot;plot and scatter should allow marker to be a list&quot;](https://www.reddit.com/r/Python/comments/1ewdf88/the_most_upvoted_open_issue_on_matplotlib_plot/)
-- [Another look at Dependency Graphs](https://www.reddit.com/r/Python/comments/1ew8w08/another_look_at_dependency_graphs/)
 <!-- BLOG-POST-LIST:END -->
