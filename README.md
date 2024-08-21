@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Typing Survey 2024](https://www.reddit.com/r/Python/comments/1exmrx7/python_typing_survey_2024/)
 - [Ugly CSV Generator: Stress-Test Your Data Pipelines with Real-World Ugliness! 🐍💣](https://www.reddit.com/r/Python/comments/1exkxm8/ugly_csv_generator_stresstest_your_data_pipelines/)
 - [Made a Simple Python Tool to Work with Photoshop TPL Files](https://www.reddit.com/r/Python/comments/1exhj37/made_a_simple_python_tool_to_work_with_photoshop/)
 - [inject xss to me](https://www.reddit.com/r/Python/comments/1exg513/inject_xss_to_me/)
 - [Library for testing python dataframes](https://www.reddit.com/r/Python/comments/1exfseq/library_for_testing_python_dataframes/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1exb4w8/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
