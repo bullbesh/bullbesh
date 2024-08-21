@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential Terminal Commands Every Developer Should Know](https://www.reddit.com/r/Python/comments/1exqqkl/10_essential_terminal_commands_every_developer/)
 - [Simplify Tool Definition and Usage with LLM APIs](https://www.reddit.com/r/Python/comments/1exq9kj/simplify_tool_definition_and_usage_with_llm_apis/)
 - [UXsim 1.5.0 released: Full deterministic mode added to network traffic flow simulator](https://www.reddit.com/r/Python/comments/1exq4xg/uxsim_150_released_full_deterministic_mode_added/)
 - [How I hacked together GPT4 and government data](https://www.reddit.com/r/Python/comments/1exp952/how_i_hacked_together_gpt4_and_government_data/)
 - [Rye and uv: August is Harvest Season for Python Packaging](https://www.reddit.com/r/Python/comments/1exnyiy/rye_and_uv_august_is_harvest_season_for_python/)
+- [Python Typing Survey 2024](https://www.reddit.com/r/Python/comments/1exmrx7/python_typing_survey_2024/)
 <!-- BLOG-POST-LIST:END -->
