@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made a Simple Python Tool to Work with Photoshop TPL Files](https://www.reddit.com/r/Python/comments/1exhj37/made_a_simple_python_tool_to_work_with_photoshop/)
 - [inject xss to me](https://www.reddit.com/r/Python/comments/1exg513/inject_xss_to_me/)
 - [Library for testing python dataframes](https://www.reddit.com/r/Python/comments/1exfseq/library_for_testing_python_dataframes/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1exb4w8/wednesday_daily_thread_beginner_questions/)
 - [Alternatives to `pytest-steps`](https://www.reddit.com/r/Python/comments/1ex97l1/alternatives_to_pyteststeps/)
-- [Multidirectory git commands runner](https://www.reddit.com/r/Python/comments/1ex84wg/multidirectory_git_commands_runner/)
 <!-- BLOG-POST-LIST:END -->
