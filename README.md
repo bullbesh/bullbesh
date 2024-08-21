@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [inject xss to me](https://www.reddit.com/r/Python/comments/1exg513/inject_xss_to_me/)
+- [Library for testing python dataframes](https://www.reddit.com/r/Python/comments/1exfseq/library_for_testing_python_dataframes/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1exb4w8/wednesday_daily_thread_beginner_questions/)
 - [Alternatives to `pytest-steps`](https://www.reddit.com/r/Python/comments/1ex97l1/alternatives_to_pyteststeps/)
 - [Multidirectory git commands runner](https://www.reddit.com/r/Python/comments/1ex84wg/multidirectory_git_commands_runner/)
-- [uv: Unified Python packaging](https://www.reddit.com/r/Python/comments/1ex6n9k/uv_unified_python_packaging/)
-- [A keyboard only CLI pixel art editor](https://www.reddit.com/r/Python/comments/1ex5l15/a_keyboard_only_cli_pixel_art_editor/)
 <!-- BLOG-POST-LIST:END -->
