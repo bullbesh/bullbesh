@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sharing my FREE Python for Data Science Course so that you can get started with Data Science](https://www.reddit.com/r/Python/comments/1exwp9r/sharing_my_free_python_for_data_science_course_so/)
+- [Ereddicator: A Python Tool for Wiping Your Reddit History](https://www.reddit.com/r/Python/comments/1exvn21/ereddicator_a_python_tool_for_wiping_your_reddit/)
 - [Pare: Simple Serverless Python](https://www.reddit.com/r/Python/comments/1ext0wg/pare_simple_serverless_python/)
 - [llmio: A Lightweight Library for LLM I/O](https://www.reddit.com/r/Python/comments/1exsm6z/llmio_a_lightweight_library_for_llm_io/)
 - [UXsim 1.5.0 released: Full deterministic mode added to network traffic flow simulator](https://www.reddit.com/r/Python/comments/1exq4xg/uxsim_150_released_full_deterministic_mode_added/)
-- [How I hacked together GPT4 and government data](https://www.reddit.com/r/Python/comments/1exp952/how_i_hacked_together_gpt4_and_government_data/)
-- [Rye and uv: August is Harvest Season for Python Packaging](https://www.reddit.com/r/Python/comments/1exnyiy/rye_and_uv_august_is_harvest_season_for_python/)
 <!-- BLOG-POST-LIST:END -->
