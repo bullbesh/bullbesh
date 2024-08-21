@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Features in Coconut that I wish were in Python](https://www.reddit.com/r/Python/comments/1exxllm/features_in_coconut_that_i_wish_were_in_python/)
 - [Sharing my FREE Python for Data Science Course so that you can get started with Data Science](https://www.reddit.com/r/Python/comments/1exwp9r/sharing_my_free_python_for_data_science_course_so/)
 - [Ereddicator: A Python Tool for Wiping Your Reddit History](https://www.reddit.com/r/Python/comments/1exvn21/ereddicator_a_python_tool_for_wiping_your_reddit/)
 - [Pare: Simple Serverless Python](https://www.reddit.com/r/Python/comments/1ext0wg/pare_simple_serverless_python/)
 - [llmio: A Lightweight Library for LLM I/O](https://www.reddit.com/r/Python/comments/1exsm6z/llmio_a_lightweight_library_for_llm_io/)
+- [UXsim 1.5.0 released: Full deterministic mode added to network traffic flow simulator](https://www.reddit.com/r/Python/comments/1exq4xg/uxsim_150_released_full_deterministic_mode_added/)
 <!-- BLOG-POST-LIST:END -->
