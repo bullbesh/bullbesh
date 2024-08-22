@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a python wrapper for SDL3.](https://www.reddit.com/r/Python/comments/1ey7fxk/i_wrote_a_python_wrapper_for_sdl3/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ey52d1/thursday_daily_thread_python_careers_courses_and/)
 - [Sharing my FREE Python for Data Science Course so that you can get started with Data Science](https://www.reddit.com/r/Python/comments/1exwp9r/sharing_my_free_python_for_data_science_course_so/)
 - [Ereddicator: A Python Tool for Wiping Your Reddit History](https://www.reddit.com/r/Python/comments/1exvn21/ereddicator_a_python_tool_for_wiping_your_reddit/)
 - [Pare: Simple Serverless Python](https://www.reddit.com/r/Python/comments/1ext0wg/pare_simple_serverless_python/)
-- [llmio: A Lightweight Library for LLM I/O](https://www.reddit.com/r/Python/comments/1exsm6z/llmio_a_lightweight_library_for_llm_io/)
 <!-- BLOG-POST-LIST:END -->
