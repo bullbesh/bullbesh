@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which difflib implementation should I use for a key-based code compositor?](https://www.reddit.com/r/Python/comments/1eynco7/which_difflib_implementation_should_i_use_for_a/)
+- [Master the python logging module](https://www.reddit.com/r/Python/comments/1eyn4n7/master_the_python_logging_module/)
 - [Sauron Vision Project](https://www.reddit.com/r/Python/comments/1eygt5i/sauron_vision_project/)
 - [Tools that implement PEP 723 inline script metadata?](https://www.reddit.com/r/Python/comments/1ey9c80/tools_that_implement_pep_723_inline_script/)
 - [I wrote a python wrapper for SDL3.](https://www.reddit.com/r/Python/comments/1ey7fxk/i_wrote_a_python_wrapper_for_sdl3/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ey52d1/thursday_daily_thread_python_careers_courses_and/)
-- [Ereddicator: A Python Tool for Wiping Your Reddit History](https://www.reddit.com/r/Python/comments/1exvn21/ereddicator_a_python_tool_for_wiping_your_reddit/)
 <!-- BLOG-POST-LIST:END -->
