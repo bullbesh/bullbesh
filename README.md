@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tetris in Python - Tutorial](https://www.reddit.com/r/Python/comments/1ezjm77/tetris_in_python_tutorial/)
+- [vectorized CIE distance in basic_colormath 3.0](https://www.reddit.com/r/Python/comments/1ezjfx2/vectorized_cie_distance_in_basic_colormath_30/)
 - [Affinity: well-annotated datasets from vector data](https://www.reddit.com/r/Python/comments/1ezfuyn/affinity_wellannotated_datasets_from_vector_data/)
 - [opencv based ttf rendering](https://www.reddit.com/r/Python/comments/1ez8w02/opencv_based_ttf_rendering/)
 - [I wrote a scrapper, for a furry site.](https://www.reddit.com/r/Python/comments/1ez6c0z/i_wrote_a_scrapper_for_a_furry_site/)
-- [New Django Library: Django Action Triggers](https://www.reddit.com/r/Python/comments/1eyz2pp/new_django_library_django_action_triggers/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1eyykga/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
