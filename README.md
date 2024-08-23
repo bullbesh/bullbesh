@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Django Library: Django Action Triggers](https://www.reddit.com/r/Python/comments/1eyz2pp/new_django_library_django_action_triggers/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1eyykga/friday_daily_thread_rpython_meta_and_freetalk/)
+- [🚀 Introducing MicroRabbit: A Lightweight Asynchronous Python Framework for RabbitMQ 🚀](https://www.reddit.com/r/Python/comments/1eyxyx7/introducing_microrabbit_a_lightweight/)
 - [Showcase: A scraper that uses AI to summarize it &lpar;Encyclopedias and News only currently&rpar;](https://www.reddit.com/r/Python/comments/1eyusaf/showcase_a_scraper_that_uses_ai_to_summarize_it/)
 - [Python SDK uses AI to extract data from websites](https://www.reddit.com/r/Python/comments/1eyqlfe/python_sdk_uses_ai_to_extract_data_from_websites/)
-- [A.I., Python, and Tech News Scraper](https://www.reddit.com/r/Python/comments/1eyq3fy/ai_python_and_tech_news_scraper/)
-- [Build your first Nextcloud app with Python &lpar;free workshop&rpar;](https://www.reddit.com/r/Python/comments/1eyomup/build_your_first_nextcloud_app_with_python_free/)
-- [Master the python logging module](https://www.reddit.com/r/Python/comments/1eyn4n7/master_the_python_logging_module/)
 <!-- BLOG-POST-LIST:END -->
