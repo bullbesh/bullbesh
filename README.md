@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I switched from full stack to streamlit/python and it reduced my development time to 2 weeks !](https://www.reddit.com/r/Python/comments/1f07c7d/i_switched_from_full_stack_to_streamlitpython_and/)
+- [A Dead Simple Work Queue Using SQLite](https://www.reddit.com/r/Python/comments/1f06ft5/a_dead_simple_work_queue_using_sqlite/)
 - [Automate your Weight Measurements with Python!](https://www.reddit.com/r/Python/comments/1f064k2/automate_your_weight_measurements_with_python/)
-- [Python code from ChatGPT or Claude](https://www.reddit.com/r/Python/comments/1f04yk6/python_code_from_chatgpt_or_claude/)
 - [Okrolearn a machine learning library which is for powerful analzys and training while being light](https://www.reddit.com/r/Python/comments/1f02lho/okrolearn_a_machine_learning_library_which_is_for/)
 - [Make-like task runner in Python](https://www.reddit.com/r/Python/comments/1f028a6/makelike_task_runner_in_python/)
-- [No vote of non-confidence as a result of recent events](https://www.reddit.com/r/Python/comments/1f00qdo/no_vote_of_nonconfidence_as_a_result_of_recent/)
 <!-- BLOG-POST-LIST:END -->
