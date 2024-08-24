@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python code from ChatGPT or Claude](https://www.reddit.com/r/Python/comments/1f04yk6/python_code_from_chatgpt_or_claude/)
 - [Okrolearn a machine learning library which is for powerful analzys and training while being light](https://www.reddit.com/r/Python/comments/1f02lho/okrolearn_a_machine_learning_library_which_is_for/)
 - [Make-like task runner in Python](https://www.reddit.com/r/Python/comments/1f028a6/makelike_task_runner_in_python/)
 - [No vote of non-confidence as a result of recent events](https://www.reddit.com/r/Python/comments/1f00qdo/no_vote_of_nonconfidence_as_a_result_of_recent/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ezrsav/saturday_daily_thread_resource_request_and/)
-- [Pursuer AI Chatbot Python Program](https://www.reddit.com/r/Python/comments/1ezopky/pursuer_ai_chatbot_python_program/)
 <!-- BLOG-POST-LIST:END -->
