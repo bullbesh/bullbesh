@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Neutrino: Secure and event-driven low-level encrypted UDP protocol](https://www.reddit.com/r/Python/comments/1f0eaho/neutrino_secure_and_eventdriven_lowlevel/)
+- [Project in python.](https://www.reddit.com/r/Python/comments/1f0dx18/project_in_python/)
+- [Elixir notes for Pythonistas](https://www.reddit.com/r/Python/comments/1f0duj3/elixir_notes_for_pythonistas/)
+- [Chatbot App Made with Flask](https://www.reddit.com/r/Python/comments/1f0d7e7/chatbot_app_made_with_flask/)
 - [compgraph2txt: A tiny library for pretty-printing computation graphs](https://www.reddit.com/r/Python/comments/1f0cj7z/compgraph2txt_a_tiny_library_for_prettyprinting/)
-- [SpotAPI: Enjoy Spotify Playback API Without Premium!](https://www.reddit.com/r/Python/comments/1f0bpby/spotapi_enjoy_spotify_playback_api_without_premium/)
-- [I switched from full stack to streamlit/python and it reduced my development time to 2 weeks !](https://www.reddit.com/r/Python/comments/1f07c7d/i_switched_from_full_stack_to_streamlitpython_and/)
-- [A Dead Simple Work Queue Using SQLite](https://www.reddit.com/r/Python/comments/1f06ft5/a_dead_simple_work_queue_using_sqlite/)
-- [Automate your Weight Measurements with Python!](https://www.reddit.com/r/Python/comments/1f064k2/automate_your_weight_measurements_with_python/)
 <!-- BLOG-POST-LIST:END -->
