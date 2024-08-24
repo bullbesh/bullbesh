@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [compgraph2txt: A tiny library for pretty-printing computation graphs](https://www.reddit.com/r/Python/comments/1f0cj7z/compgraph2txt_a_tiny_library_for_prettyprinting/)
 - [SpotAPI: Enjoy Spotify Playback API Without Premium!](https://www.reddit.com/r/Python/comments/1f0bpby/spotapi_enjoy_spotify_playback_api_without_premium/)
 - [I switched from full stack to streamlit/python and it reduced my development time to 2 weeks !](https://www.reddit.com/r/Python/comments/1f07c7d/i_switched_from_full_stack_to_streamlitpython_and/)
 - [A Dead Simple Work Queue Using SQLite](https://www.reddit.com/r/Python/comments/1f06ft5/a_dead_simple_work_queue_using_sqlite/)
 - [Automate your Weight Measurements with Python!](https://www.reddit.com/r/Python/comments/1f064k2/automate_your_weight_measurements_with_python/)
-- [Okrolearn a machine learning library which is for powerful analzys and training while being light](https://www.reddit.com/r/Python/comments/1f02lho/okrolearn_a_machine_learning_library_which_is_for/)
 <!-- BLOG-POST-LIST:END -->
