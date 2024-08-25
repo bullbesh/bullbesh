@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to elegantly use pydantic to parse YAML files containing rust enum types ?](https://www.reddit.com/r/Python/comments/1f0oud5/how_to_elegantly_use_pydantic_to_parse_yaml_files/)
 - [Google News Scraping](https://www.reddit.com/r/Python/comments/1f0mvhl/google_news_scraping/)
 - [Looking for a dataset example on what social media companies collect.](https://www.reddit.com/r/Python/comments/1f0jy3c/looking_for_a_dataset_example_on_what_social/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1f0jb7c/sunday_daily_thread_whats_everyone_working_on/)
 - [Web Views for niche website](https://www.reddit.com/r/Python/comments/1f0ih0q/web_views_for_niche_website/)
-- [need assistance with importing pytorch](https://www.reddit.com/r/Python/comments/1f0fjbb/need_assistance_with_importing_pytorch/)
 <!-- BLOG-POST-LIST:END -->
