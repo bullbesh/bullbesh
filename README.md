@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ Hands-On with llmio: Let&#39;s Build an AI Task Manager 🤩](https://www.reddit.com/r/Python/comments/1f0upad/handson_with_llmio_lets_build_an_ai_task_manager/)
+- [🛠️ A Hands-on Tutorial with llmio](https://www.reddit.com/r/Python/comments/1f0wjep/a_handson_tutorial_with_llmio/)
 - [I already installed sld2 but it still says no module named pygame.mixer](https://www.reddit.com/r/Python/comments/1f0sodn/i_already_installed_sld2_but_it_still_says_no/)
 - [How to elegantly use pydantic to parse YAML files containing rust enum types ?](https://www.reddit.com/r/Python/comments/1f0oud5/how_to_elegantly_use_pydantic_to_parse_yaml_files/)
 - [Google News Scraping](https://www.reddit.com/r/Python/comments/1f0mvhl/google_news_scraping/)
