@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [bufsuccubus: ever wanted to have your AMD GPU undervolted by a succubus? i made one anyways-](https://www.reddit.com/r/Python/comments/1f15lqu/bufsuccubus_ever_wanted_to_have_your_amd_gpu/)
+- [Wanna learn code](https://www.reddit.com/r/Python/comments/1f16yp7/wanna_learn_code/)
 - [Build a Online Python Compiler with Flask](https://www.reddit.com/r/Python/comments/1f0z7hg/build_a_online_python_compiler_with_flask/)
 - [Let&#39;s write FizzBuzz in a functional style for no good reason](https://www.reddit.com/r/Python/comments/1f0ywkp/lets_write_fizzbuzz_in_a_functional_style_for_no/)
 - [I already installed sld2 but it still says no module named pygame.mixer](https://www.reddit.com/r/Python/comments/1f0sodn/i_already_installed_sld2_but_it_still_says_no/)
