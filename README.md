@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wave Function with arbitrary precision.](https://www.reddit.com/r/Python/comments/1f1xy3d/wave_function_with_arbitrary_precision/)
 - [Our pre-commits enforce single-quotes. Is that horrible or is it just me?](https://www.reddit.com/r/Python/comments/1f1mica/our_precommits_enforce_singlequotes_is_that/)
 - [I love the Python community](https://www.reddit.com/r/Python/comments/1f1kjpl/i_love_the_python_community/)
 - [picows: Fast websocket client and server for asyncio](https://www.reddit.com/r/Python/comments/1f1eydk/picows_fast_websocket_client_and_server_for/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1f1anh6/monday_daily_thread_project_ideas/)
-- [Let&#39;s write FizzBuzz in a functional style for no good reason](https://www.reddit.com/r/Python/comments/1f0ywkp/lets_write_fizzbuzz_in_a_functional_style_for_no/)
 <!-- BLOG-POST-LIST:END -->
