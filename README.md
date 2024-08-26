@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [picows: Fast websocket client and server for asyncio](https://www.reddit.com/r/Python/comments/1f1eydk/picows_fast_websocket_client_and_server_for/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1f1anh6/monday_daily_thread_project_ideas/)
 - [Let&#39;s write FizzBuzz in a functional style for no good reason](https://www.reddit.com/r/Python/comments/1f0ywkp/lets_write_fizzbuzz_in_a_functional_style_for_no/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1f0jb7c/sunday_daily_thread_whats_everyone_working_on/)
 - [Neutrino: Secure and event-driven low-level encrypted UDP protocol](https://www.reddit.com/r/Python/comments/1f0eaho/neutrino_secure_and_eventdriven_lowlevel/)
-- [Elixir notes for Pythonistas](https://www.reddit.com/r/Python/comments/1f0duj3/elixir_notes_for_pythonistas/)
 <!-- BLOG-POST-LIST:END -->
