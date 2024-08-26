@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1f1anh6/monday_daily_thread_project_ideas/)
-- [Build a Online Python Compiler with Flask](https://www.reddit.com/r/Python/comments/1f0z7hg/build_a_online_python_compiler_with_flask/)
 - [Let&#39;s write FizzBuzz in a functional style for no good reason](https://www.reddit.com/r/Python/comments/1f0ywkp/lets_write_fizzbuzz_in_a_functional_style_for_no/)
-- [I already installed sld2 but it still says no module named pygame.mixer](https://www.reddit.com/r/Python/comments/1f0sodn/i_already_installed_sld2_but_it_still_says_no/)
-- [How to elegantly use pydantic to parse YAML files containing rust enum types ?](https://www.reddit.com/r/Python/comments/1f0oud5/how_to_elegantly_use_pydantic_to_parse_yaml_files/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1f0jb7c/sunday_daily_thread_whats_everyone_working_on/)
+- [Neutrino: Secure and event-driven low-level encrypted UDP protocol](https://www.reddit.com/r/Python/comments/1f0eaho/neutrino_secure_and_eventdriven_lowlevel/)
+- [Elixir notes for Pythonistas](https://www.reddit.com/r/Python/comments/1f0duj3/elixir_notes_for_pythonistas/)
 <!-- BLOG-POST-LIST:END -->
