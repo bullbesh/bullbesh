@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Showcase: Python AI Apps for Subtitles, Summarization, and Image Processing](https://www.reddit.com/r/Python/comments/1f2d7u9/showcase_python_ai_apps_for_subtitles/)
+- [Modules that perform JIT at runtime](https://www.reddit.com/r/Python/comments/1f2csus/modules_that_perform_jit_at_runtime/)
 - [🐍✂️ CSV Trimming: a one-line to clean up &lpar;most&rpar; messy CSVs! ✂️🐍](https://www.reddit.com/r/Python/comments/1f2bwx5/csv_trimming_a_oneline_to_clean_up_most_messy_csvs/)
 - [Vectorlite v0.2.0 released: Fast, SQL powered, in-process vector search for any language with an SQL](https://www.reddit.com/r/Python/comments/1f2bidf/vectorlite_v020_released_fast_sql_powered/)
 - [Used Python to create public-domain US maps that can serve as desktop backgrounds](https://www.reddit.com/r/Python/comments/1f29mo0/used_python_to_create_publicdomain_us_maps_that/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1f237eq/tuesday_daily_thread_advanced_questions/)
-- [Looking for feedback on rpaudio—a Rust Python binding for audio playback!](https://www.reddit.com/r/Python/comments/1f21efd/looking_for_feedback_on_rpaudioa_rust_python/)
 <!-- BLOG-POST-LIST:END -->
