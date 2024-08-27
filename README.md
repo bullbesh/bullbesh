@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🐍✂️ CSV Trimming: a one-line to clean up &lpar;most&rpar; messy CSVs! ✂️🐍](https://www.reddit.com/r/Python/comments/1f2bwx5/csv_trimming_a_oneline_to_clean_up_most_messy_csvs/)
+- [Vectorlite v0.2.0 released: Fast, SQL powered, in-process vector search for any language with an SQL](https://www.reddit.com/r/Python/comments/1f2bidf/vectorlite_v020_released_fast_sql_powered/)
 - [Used Python to create public-domain US maps that can serve as desktop backgrounds](https://www.reddit.com/r/Python/comments/1f29mo0/used_python_to_create_publicdomain_us_maps_that/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1f237eq/tuesday_daily_thread_advanced_questions/)
 - [Looking for feedback on rpaudio—a Rust Python binding for audio playback!](https://www.reddit.com/r/Python/comments/1f21efd/looking_for_feedback_on_rpaudioa_rust_python/)
-- [I updated the scraper for my Rockbusters game and went from 311 clues to 5,200 clues.](https://www.reddit.com/r/Python/comments/1f210q0/i_updated_the_scraper_for_my_rockbusters_game_and/)
-- [Wave Function with arbitrary precision.](https://www.reddit.com/r/Python/comments/1f1xy3d/wave_function_with_arbitrary_precision/)
 <!-- BLOG-POST-LIST:END -->
