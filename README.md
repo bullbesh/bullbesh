@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Alguem sabe fazer esse codigo em python, usando busca binaria?](https://www.reddit.com/r/Python/comments/1f2s1vu/alguem_sabe_fazer_esse_codigo_em_python_usando/)
 - [Slowstore - Live JSON Store for your objects](https://www.reddit.com/r/Python/comments/1f2lf7n/slowstore_live_json_store_for_your_objects/)
 - [cs nea survey for building a coding project](https://www.reddit.com/r/Python/comments/1f2f54h/cs_nea_survey_for_building_a_coding_project/)
 - [Showcase: Python AI Apps for Subtitles, Summarization, and Image Processing](https://www.reddit.com/r/Python/comments/1f2d7u9/showcase_python_ai_apps_for_subtitles/)
 - [Modules that perform JIT at runtime](https://www.reddit.com/r/Python/comments/1f2csus/modules_that_perform_jit_at_runtime/)
+- [🐍✂️ CSV Trimming: a one-line to clean up &lpar;most&rpar; messy CSVs! ✂️🐍](https://www.reddit.com/r/Python/comments/1f2bwx5/csv_trimming_a_oneline_to_clean_up_most_messy_csvs/)
 <!-- BLOG-POST-LIST:END -->
