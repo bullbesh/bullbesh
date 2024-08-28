@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyRoboCOP: Python-Based Robotic Control and Optimization Package](https://www.reddit.com/r/Python/comments/1f3cv8i/pyrobocop_pythonbased_robotic_control_and/)
+- [Alternatives to Anvil.works](https://www.reddit.com/r/Python/comments/1f3cs18/alternatives_to_anvilworks/)
+- [Ask questions or tell the PSF what you think: Introducing monthly PSF Board Office Hours!](https://www.reddit.com/r/Python/comments/1f3bze6/ask_questions_or_tell_the_psf_what_you_think/)
 - [Coding Tests for Python??](https://www.reddit.com/r/Python/comments/1f3adx6/coding_tests_for_python/)
 - [Python deserves a good in-memory cache library &lpar;Part II&rpar;](https://www.reddit.com/r/Python/comments/1f38twi/python_deserves_a_good_inmemory_cache_library/)
-- [booktest - Review driven testing tool for ML and LLM software](https://www.reddit.com/r/Python/comments/1f37d4t/booktest_review_driven_testing_tool_for_ml_and/)
-- [Improved QLineEdit for PyQt and PySide](https://www.reddit.com/r/Python/comments/1f374p3/improved_qlineedit_for_pyqt_and_pyside/)
-- [PyPy 7.3.17 is out, with python2.7 and 3.10](https://www.reddit.com/r/Python/comments/1f34sxy/pypy_7317_is_out_with_python27_and_310/)
 <!-- BLOG-POST-LIST:END -->
