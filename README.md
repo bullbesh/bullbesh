@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python deserves a good in-memory cache library &lpar;Part II&rpar;](https://www.reddit.com/r/Python/comments/1f38twi/python_deserves_a_good_inmemory_cache_library/)
 - [booktest - Review driven testing tool for ML and LLM software](https://www.reddit.com/r/Python/comments/1f37d4t/booktest_review_driven_testing_tool_for_ml_and/)
 - [Improved QLineEdit for PyQt and PySide](https://www.reddit.com/r/Python/comments/1f374p3/improved_qlineedit_for_pyqt_and_pyside/)
 - [PyPy 7.3.17 is out, with python2.7 and 3.10](https://www.reddit.com/r/Python/comments/1f34sxy/pypy_7317_is_out_with_python27_and_310/)
 - [httpout - allows you to execute your Python script from a web URL](https://www.reddit.com/r/Python/comments/1f32mvq/httpout_allows_you_to_execute_your_python_script/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1f2w8b8/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
