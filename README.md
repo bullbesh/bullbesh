@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ibis: Farewell pandas, and thanks for all the fish.](https://www.reddit.com/r/Python/comments/1f41ol2/ibis_farewell_pandas_and_thanks_for_all_the_fish/)
 - [Python Automation for Ad-Hoc Room Reservations through Slack](https://www.reddit.com/r/Python/comments/1f40uxd/python_automation_for_adhoc_room_reservations/)
-- [Building a Custom Paint Store: Time and Cost Estimation for Advanced Color Matching API Development](https://www.reddit.com/r/Python/comments/1f3z83t/building_a_custom_paint_store_time_and_cost/)
-- [joining multiple tables](https://www.reddit.com/r/Python/comments/1f3xe7p/joining_multiple_tables/)
 - [Python Zen and implications](https://www.reddit.com/r/Python/comments/1f3pbet/python_zen_and_implications/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1f3ojlk/thursday_daily_thread_python_careers_courses_and/)
+- [Anaconda Blues anyone else?](https://www.reddit.com/r/Python/comments/1f3mfsk/anaconda_blues_anyone_else/)
 <!-- BLOG-POST-LIST:END -->
