@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Zen and implications](https://www.reddit.com/r/Python/comments/1f3pbet/python_zen_and_implications/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1f3ojlk/thursday_daily_thread_python_careers_courses_and/)
 - [Anaconda Blues anyone else?](https://www.reddit.com/r/Python/comments/1f3mfsk/anaconda_blues_anyone_else/)
 - [pytest-shared-session-scope - pytest session scoped fixture that Just Works™ with xdist](https://www.reddit.com/r/Python/comments/1f3icze/pytestsharedsessionscope_pytest_session_scoped/)
 - [We just open sourced! Launch websites, APIs, and workers to AWS / GCP with Python](https://www.reddit.com/r/Python/comments/1f3hexb/we_just_open_sourced_launch_websites_apis_and/)
-- [Host GraphQL backed Python functions on Hasura&#39;s Data Delivery Network](https://www.reddit.com/r/Python/comments/1f3doz9/host_graphql_backed_python_functions_on_hasuras/)
-- [Alternatives to Anvil.works](https://www.reddit.com/r/Python/comments/1f3cs18/alternatives_to_anvilworks/)
 <!-- BLOG-POST-LIST:END -->
