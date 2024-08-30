@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python AI/ML - Applying machine learning principles to a dataset to perform sentiment analysis](https://www.reddit.com/r/Python/comments/1f58jff/python_aiml_applying_machine_learning_principles/)
+- [Introducing pipefunc: Simplify Your Python Function Pipelines](https://www.reddit.com/r/Python/comments/1f583cp/introducing_pipefunc_simplify_your_python/)
 - [Interpol Wanted Persons Data Downloader with an Interactive Dashboard](https://www.reddit.com/r/Python/comments/1f57h6m/interpol_wanted_persons_data_downloader_with_an/)
 - [Build plugins in marimo with anywidget](https://www.reddit.com/r/Python/comments/1f56lj9/build_plugins_in_marimo_with_anywidget/)
 - [Semver range/set operations](https://www.reddit.com/r/Python/comments/1f52vl5/semver_rangeset_operations/)
-- [Kazam 2.0 is released: screen recording, broadcasting, capturing and OCR in Linux](https://www.reddit.com/r/Python/comments/1f4xjxh/kazam_20_is_released_screen_recording/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1f4hgd2/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
