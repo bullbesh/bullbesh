@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python code error](https://www.reddit.com/r/Python/comments/1f4qyjf/python_code_error/)
+- [How to use functions?](https://www.reddit.com/r/Python/comments/1f4tp83/how_to_use_functions/)
 - [[FREE] Certified Artificial Intelligence Developer program](https://www.reddit.com/r/Python/comments/1f4n277/free_certified_artificial_intelligence_developer/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1f4hgd2/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Battleship TUI: a terminal-based multiplayer game](https://www.reddit.com/r/Python/comments/1f4flrj/battleship_tui_a_terminalbased_multiplayer_game/)
