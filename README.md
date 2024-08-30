@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to use functions?](https://www.reddit.com/r/Python/comments/1f4tp83/how_to_use_functions/)
-- [[FREE] Certified Artificial Intelligence Developer program](https://www.reddit.com/r/Python/comments/1f4n277/free_certified_artificial_intelligence_developer/)
+- [Kazam 2.0 is published](https://www.reddit.com/r/Python/comments/1f4wcmz/kazam_20_is_published/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1f4hgd2/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Battleship TUI: a terminal-based multiplayer game](https://www.reddit.com/r/Python/comments/1f4flrj/battleship_tui_a_terminalbased_multiplayer_game/)
 - [2023 Python Developers Survey Results](https://www.reddit.com/r/Python/comments/1f43acl/2023_python_developers_survey_results/)
+- [Multiple Processes in a Single Docker Container](https://www.reddit.com/r/Python/comments/1f432fi/multiple_processes_in_a_single_docker_container/)
 <!-- BLOG-POST-LIST:END -->
