@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1f4hgd2/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Battleship TUI: a terminal-based multiplayer game](https://www.reddit.com/r/Python/comments/1f4flrj/battleship_tui_a_terminalbased_multiplayer_game/)
 - [2023 Python Developers Survey Results](https://www.reddit.com/r/Python/comments/1f43acl/2023_python_developers_survey_results/)
 - [Multiple Processes in a Single Docker Container](https://www.reddit.com/r/Python/comments/1f432fi/multiple_processes_in_a_single_docker_container/)
 - [Ibis: Farewell pandas, and thanks for all the fish.](https://www.reddit.com/r/Python/comments/1f41ol2/ibis_farewell_pandas_and_thanks_for_all_the_fish/)
-- [Python Automation for Ad-Hoc Room Reservations through Slack](https://www.reddit.com/r/Python/comments/1f40uxd/python_automation_for_adhoc_room_reservations/)
 <!-- BLOG-POST-LIST:END -->
