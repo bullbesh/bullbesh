@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interpol Wanted Persons Data Downloader with an Interactive Dashboard](https://www.reddit.com/r/Python/comments/1f57h6m/interpol_wanted_persons_data_downloader_with_an/)
+- [Build plugins in marimo with anywidget](https://www.reddit.com/r/Python/comments/1f56lj9/build_plugins_in_marimo_with_anywidget/)
 - [Semver range/set operations](https://www.reddit.com/r/Python/comments/1f52vl5/semver_rangeset_operations/)
 - [Kazam 2.0 is released: screen recording, broadcasting, capturing and OCR in Linux](https://www.reddit.com/r/Python/comments/1f4xjxh/kazam_20_is_released_screen_recording/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1f4hgd2/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Battleship TUI: a terminal-based multiplayer game](https://www.reddit.com/r/Python/comments/1f4flrj/battleship_tui_a_terminalbased_multiplayer_game/)
-- [Python2Desktop: Turning Python Code into Full-Featured Desktop Apps - Thoughts on Business Idea](https://www.reddit.com/r/Python/comments/1f44fct/python2desktop_turning_python_code_into/)
 <!-- BLOG-POST-LIST:END -->
