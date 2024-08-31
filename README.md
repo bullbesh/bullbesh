@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is My CI Pipeline for my Python Library Overkill?](https://www.reddit.com/r/Python/comments/1f5qlui/is_my_ci_pipeline_for_my_python_library_overkill/)
 - [Automate Your Reddit Saved Post Backups with Context Using Reddit Stash](https://www.reddit.com/r/Python/comments/1f5n53a/automate_your_reddit_saved_post_backups_with/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1f5a0qh/saturday_daily_thread_resource_request_and/)
 - [Introducing pipefunc: Simplify Your Python Function Pipelines](https://www.reddit.com/r/Python/comments/1f583cp/introducing_pipefunc_simplify_your_python/)
 - [Interpol Wanted Persons Data Downloader with an Interactive Dashboard](https://www.reddit.com/r/Python/comments/1f57h6m/interpol_wanted_persons_data_downloader_with_an/)
-- [Build plugins in marimo with anywidget](https://www.reddit.com/r/Python/comments/1f56lj9/build_plugins_in_marimo_with_anywidget/)
 <!-- BLOG-POST-LIST:END -->
