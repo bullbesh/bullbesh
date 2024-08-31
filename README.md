@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I need a python life raft](https://www.reddit.com/r/Python/comments/1f5eddj/i_need_a_python_life_raft/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1f5a0qh/saturday_daily_thread_resource_request_and/)
 - [Python AI/ML - Applying machine learning principles to a dataset to perform sentiment analysis](https://www.reddit.com/r/Python/comments/1f58jff/python_aiml_applying_machine_learning_principles/)
 - [Introducing pipefunc: Simplify Your Python Function Pipelines](https://www.reddit.com/r/Python/comments/1f583cp/introducing_pipefunc_simplify_your_python/)
 - [Interpol Wanted Persons Data Downloader with an Interactive Dashboard](https://www.reddit.com/r/Python/comments/1f57h6m/interpol_wanted_persons_data_downloader_with_an/)
+- [Build plugins in marimo with anywidget](https://www.reddit.com/r/Python/comments/1f56lj9/build_plugins_in_marimo_with_anywidget/)
 <!-- BLOG-POST-LIST:END -->
