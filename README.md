@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What AI Agents Do You Recommend for Handling Lengthy Code Files?](https://www.reddit.com/r/Python/comments/1f6llfg/what_ai_agents_do_you_recommend_for_handling/)
 - [QCut, a quantum circuit-knitting python package](https://www.reddit.com/r/Python/comments/1f6j2pm/qcut_a_quantum_circuitknitting_python_package/)
 - [Github-dlr: Download individual files and folders from Github recursively.](https://www.reddit.com/r/Python/comments/1f6gwks/githubdlr_download_individual_files_and_folders/)
 - [I am sharing Python Data Science courses and projects on YouTube](https://www.reddit.com/r/Python/comments/1f6gt56/i_am_sharing_python_data_science_courses_and/)
 - [Scribo - A simple, efficient and content-first static site generator &lpar;SSG&rpar;](https://www.reddit.com/r/Python/comments/1f6f6g3/scribo_a_simple_efficient_and_contentfirst_static/)
-- [Discover Esmerald: A New Player in the Developer Ecosystem](https://www.reddit.com/r/Python/comments/1f6bw3y/discover_esmerald_a_new_player_in_the_developer/)
 <!-- BLOG-POST-LIST:END -->
