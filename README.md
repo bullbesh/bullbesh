@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Discover Esmerald: A New Player in the Developer Ecosystem](https://www.reddit.com/r/Python/comments/1f6bw3y/discover_esmerald_a_new_player_in_the_developer/)
 - [Python Environment variables](https://www.reddit.com/r/Python/comments/1f676s2/python_environment_variables/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1f617a7/sunday_daily_thread_whats_everyone_working_on/)
 - [Is My CI Pipeline for my Python Library Overkill?](https://www.reddit.com/r/Python/comments/1f5qlui/is_my_ci_pipeline_for_my_python_library_overkill/)
 - [Automate Your Reddit Saved Post Backups with Context Using Reddit Stash](https://www.reddit.com/r/Python/comments/1f5n53a/automate_your_reddit_saved_post_backups_with/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1f5a0qh/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
