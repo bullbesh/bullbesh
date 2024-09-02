@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Alguien que me tire una mano para poder hacer proyectos para mí portafolio de data analytics?](https://www.reddit.com/r/Python/comments/1f7b8xd/alguien_que_me_tire_una_mano_para_poder_hacer/)
 - [Anatomy of a Textual User Interface](https://www.reddit.com/r/Python/comments/1f79kwq/anatomy_of_a_textual_user_interface/)
 - [Deta space is getting shut down. most my projects are deployed there. any free alternative](https://www.reddit.com/r/Python/comments/1f77jf7/deta_space_is_getting_shut_down_most_my_projects/)
 - [Deta Space is shutting down.](https://www.reddit.com/r/Python/comments/1f775pr/deta_space_is_shutting_down/)
-- [&quot;AI&quot; - is the hype real or is this the new tech scam](https://www.reddit.com/r/Python/comments/1f76bag/ai_is_the_hype_real_or_is_this_the_new_tech_scam/)
 - [Smartcut: Super fast cutting and trimming of videos](https://www.reddit.com/r/Python/comments/1f767df/smartcut_super_fast_cutting_and_trimming_of_videos/)
 <!-- BLOG-POST-LIST:END -->
