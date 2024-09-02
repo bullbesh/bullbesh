@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1f6syvh/monday_daily_thread_project_ideas/)
 - [Introducing fastapi-gae-logging](https://www.reddit.com/r/Python/comments/1f6s12z/introducing_fastapigaelogging/)
 - [A Minimal ASGI Server](https://www.reddit.com/r/Python/comments/1f6rh51/a_minimal_asgi_server/)
 - [Task Tracker from roadmap.sh](https://www.reddit.com/r/Python/comments/1f6qjdj/task_tracker_from_roadmapsh/)
 - [High School Class](https://www.reddit.com/r/Python/comments/1f6p0ks/high_school_class/)
-- [Introducing Fincept Investments Terminal: A Free Bloomberg Alternative!](https://www.reddit.com/r/Python/comments/1f6of48/introducing_fincept_investments_terminal_a_free/)
 <!-- BLOG-POST-LIST:END -->
