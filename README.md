@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deta space is getting shut down. most my projects are deployed there. any free alternative](https://www.reddit.com/r/Python/comments/1f77jf7/deta_space_is_getting_shut_down_most_my_projects/)
+- [Deta Space is shutting down.](https://www.reddit.com/r/Python/comments/1f775pr/deta_space_is_shutting_down/)
 - [&quot;AI&quot; - is the hype real or is this the new tech scam](https://www.reddit.com/r/Python/comments/1f76bag/ai_is_the_hype_real_or_is_this_the_new_tech_scam/)
 - [Smartcut: Super fast cutting and trimming of videos](https://www.reddit.com/r/Python/comments/1f767df/smartcut_super_fast_cutting_and_trimming_of_videos/)
 - [Use python -m http.server in SSL](https://www.reddit.com/r/Python/comments/1f75ga9/use_python_m_httpserver_in_ssl/)
-- [Error &quot;returned non-zero exit status 4294967274&quot;... Do you know what it could be?](https://www.reddit.com/r/Python/comments/1f74tcw/error_returned_nonzero_exit_status_4294967274_do/)
-- [Why PHP prevais over Python when it comes to website niche](https://www.reddit.com/r/Python/comments/1f73lgh/why_php_prevais_over_python_when_it_comes_to/)
 <!-- BLOG-POST-LIST:END -->
