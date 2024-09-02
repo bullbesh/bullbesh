@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Logging insanity in FastAPI on Google App Engine? I Built a Custom Solution!](https://www.reddit.com/r/Python/comments/1f70wpp/logging_insanity_in_fastapi_on_google_app_engine/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1f6syvh/monday_daily_thread_project_ideas/)
 - [Introducing fastapi-gae-logging](https://www.reddit.com/r/Python/comments/1f6s12z/introducing_fastapigaelogging/)
 - [A Minimal ASGI Server](https://www.reddit.com/r/Python/comments/1f6rh51/a_minimal_asgi_server/)
 - [Task Tracker from roadmap.sh](https://www.reddit.com/r/Python/comments/1f6qjdj/task_tracker_from_roadmapsh/)
-- [High School Class](https://www.reddit.com/r/Python/comments/1f6p0ks/high_school_class/)
 <!-- BLOG-POST-LIST:END -->
