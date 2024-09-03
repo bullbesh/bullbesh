@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Snappea: A Simple Task Queue for Python](https://www.reddit.com/r/Python/comments/1f8a152/snappea_a_simple_task_queue_for_python/)
 - [cookiecutter-uv: A modern template for quickly starting Python projects with uv](https://www.reddit.com/r/Python/comments/1f85wak/cookiecutteruv_a_modern_template_for_quickly/)
 - [Module Found - Generate missing modules on the fly](https://www.reddit.com/r/Python/comments/1f83l3f/module_found_generate_missing_modules_on_the_fly/)
 - [Check missing dependencies won&#39;t break your package with pytest-missing-modules](https://www.reddit.com/r/Python/comments/1f8218j/check_missing_dependencies_wont_break_your/)
 - [PixelLens for PyCharm: Visualize Numpy, PyTorch,TensorFlow and Pillow data right from the debugger](https://www.reddit.com/r/Python/comments/1f812xx/pixellens_for_pycharm_visualize_numpy/)
-- [Can we post in reddit subreddit with Praw library?](https://www.reddit.com/r/Python/comments/1f80pvx/can_we_post_in_reddit_subreddit_with_praw_library/)
 <!-- BLOG-POST-LIST:END -->
