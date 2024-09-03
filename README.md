@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Module Found - Generate missing modules on the fly](https://www.reddit.com/r/Python/comments/1f83l3f/module_found_generate_missing_modules_on_the_fly/)
 - [Check missing dependencies won&#39;t break your package with pytest-missing-modules](https://www.reddit.com/r/Python/comments/1f8218j/check_missing_dependencies_wont_break_your/)
 - [PixelLens for PyCharm: Visualize Numpy, PyTorch,TensorFlow and Pillow data right from the debugger](https://www.reddit.com/r/Python/comments/1f812xx/pixellens_for_pycharm_visualize_numpy/)
 - [Can we post in reddit subreddit with Praw library?](https://www.reddit.com/r/Python/comments/1f80pvx/can_we_post_in_reddit_subreddit_with_praw_library/)
 - [Generators underused in corporate settings?](https://www.reddit.com/r/Python/comments/1f7zh22/generators_underused_in_corporate_settings/)
-- [pdf-nupper: n-up &lpar;combine&rpar; pages in PDF files](https://www.reddit.com/r/Python/comments/1f7xfpq/pdfnupper_nup_combine_pages_in_pdf_files/)
 <!-- BLOG-POST-LIST:END -->
