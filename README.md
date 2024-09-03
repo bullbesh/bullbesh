@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Textchat: click to PM](https://www.reddit.com/r/Python/comments/1f7n449/textchat_click_to_pm/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1f7lwin/tuesday_daily_thread_advanced_questions/)
 - [I wrote a simple batch script for compiling &lpar;with or without venv&rpar; to make your life easier](https://www.reddit.com/r/Python/comments/1f7jlxr/i_wrote_a_simple_batch_script_for_compiling_with/)
 - [Why not just get your plots in numpy?!](https://www.reddit.com/r/Python/comments/1f7jfgd/why_not_just_get_your_plots_in_numpy/)
 - [Web scraping with GPT-4o: powerful but expensive](https://www.reddit.com/r/Python/comments/1f7g0t9/web_scraping_with_gpt4o_powerful_but_expensive/)
-- [Synchronize tasks with Windows&#39; Task Manager](https://www.reddit.com/r/Python/comments/1f7fmj7/synchronize_tasks_with_windows_task_manager/)
-- [Anatomy of a Textual User Interface](https://www.reddit.com/r/Python/comments/1f79kwq/anatomy_of_a_textual_user_interface/)
 <!-- BLOG-POST-LIST:END -->
