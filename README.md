@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP695 Migration Tool](https://www.reddit.com/r/Python/comments/1f9uai8/pep695_migration_tool/)
 - [I&#39;ve been tracking Python, Django, NumPy and several other frameworks in job listings this year](https://www.reddit.com/r/Python/comments/1f9l9zt/ive_been_tracking_python_django_numpy_and_several/)
 - [Yet another 12 factor configuration helper : python-direnv](https://www.reddit.com/r/Python/comments/1f9jfgv/yet_another_12_factor_configuration_helper/)
 - [I couldn&#39;t find a guide to get hourly Wikipedia views so I wrote one myself](https://www.reddit.com/r/Python/comments/1f9hcb7/i_couldnt_find_a_guide_to_get_hourly_wikipedia/)
 - [Python Libraries to Extract Table from PDF](https://www.reddit.com/r/Python/comments/1f9fv7y/python_libraries_to_extract_table_from_pdf/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1f98kuz/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
