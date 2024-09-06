@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [optimized proximity matrices in basic_colormath 0.4.0](https://www.reddit.com/r/Python/comments/1fajezz/optimized_proximity_matrices_in_basic_colormath/)
 - [protatoquests: Proxy Rotation Requests](https://www.reddit.com/r/Python/comments/1faas67/protatoquests_proxy_rotation_requests/)
 - [Python package for working with LLM&#39;s over voice](https://www.reddit.com/r/Python/comments/1fa92qm/python_package_for_working_with_llms_over_voice/)
 - [Is kivy worth it?](https://www.reddit.com/r/Python/comments/1fa34m5/is_kivy_worth_it/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1fa1gk2/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Best Practices for Production PyPi CLI tool deployments](https://www.reddit.com/r/Python/comments/1f9xduf/best_practices_for_production_pypi_cli_tool/)
 <!-- BLOG-POST-LIST:END -->
