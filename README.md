@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Interesting Python Facts That Will Blow Your Mind &lpar;Easter Eggs&rpar;](https://www.reddit.com/r/Python/comments/1fb52bv/8_interesting_python_facts_that_will_blow_your/)
 - [Audio Book Reader: Read .epub, .rtf, and .txt as audio books!](https://www.reddit.com/r/Python/comments/1fb3f8p/audio_book_reader_read_epub_rtf_and_txt_as_audio/)
 - [Native bit size, Arbitrary-Precision Arithmetic](https://www.reddit.com/r/Python/comments/1fb1yg5/native_bit_size_arbitraryprecision_arithmetic/)
 - [My first framework, please judge me](https://www.reddit.com/r/Python/comments/1fayfdi/my_first_framework_please_judge_me/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1fatupz/saturday_daily_thread_resource_request_and/)
-- [Shape the Future of Database Education: Share Your Insights in a 10-Minute Survey for ITiCSE!](https://www.reddit.com/r/Python/comments/1fat7fh/shape_the_future_of_database_education_share_your/)
 <!-- BLOG-POST-LIST:END -->
