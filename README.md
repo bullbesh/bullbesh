@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Loom, python library to animate visualizations](https://www.reddit.com/r/Python/comments/1fbr7n7/loom_python_library_to_animate_visualizations/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1fbku4v/sunday_daily_thread_whats_everyone_working_on/)
 - [new python http requests library](https://www.reddit.com/r/Python/comments/1fbcdza/new_python_http_requests_library/)
 - [Python 3.13 RC2 Available Today - Python 3.13 available October 1st](https://www.reddit.com/r/Python/comments/1fbb4qw/python_313_rc2_available_today_python_313/)
 - [ndetectable text on the picture QUESTION / ideas](https://www.reddit.com/r/Python/comments/1fbaubt/ndetectable_text_on_the_picture_question_ideas/)
-- [Astral.sh &lpar;the company behind uv&rpar; paid product: is it going to be a Heroku replacement?](https://www.reddit.com/r/Python/comments/1fbabmr/astralsh_the_company_behind_uv_paid_product_is_it/)
 <!-- BLOG-POST-LIST:END -->
