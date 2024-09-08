@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [VitePress vs. Material for MkDocs](https://www.reddit.com/r/Python/comments/1fbs772/vitepress_vs_material_for_mkdocs/)
+- [global installations or project-specific environments](https://www.reddit.com/r/Python/comments/1fbs3ge/global_installations_or_projectspecific/)
 - [Loom, python library to animate visualizations](https://www.reddit.com/r/Python/comments/1fbr7n7/loom_python_library_to_animate_visualizations/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1fbku4v/sunday_daily_thread_whats_everyone_working_on/)
 - [new python http requests library](https://www.reddit.com/r/Python/comments/1fbcdza/new_python_http_requests_library/)
-- [Python 3.13 RC2 Available Today - Python 3.13 available October 1st](https://www.reddit.com/r/Python/comments/1fbb4qw/python_313_rc2_available_today_python_313/)
-- [ndetectable text on the picture QUESTION / ideas](https://www.reddit.com/r/Python/comments/1fbaubt/ndetectable_text_on_the_picture_question_ideas/)
 <!-- BLOG-POST-LIST:END -->
