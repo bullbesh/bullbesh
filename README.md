@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just Released Version 0.4.0 of Django Action Triggers!](https://www.reddit.com/r/Python/comments/1fc2t9a/just_released_version_040_of_django_action/)
 - [winaccent - A Python module for getting Windows&#39; accent color or a shade of it](https://www.reddit.com/r/Python/comments/1fbvhmr/winaccent_a_python_module_for_getting_windows/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1fbku4v/sunday_daily_thread_whats_everyone_working_on/)
 - [new python http requests library](https://www.reddit.com/r/Python/comments/1fbcdza/new_python_http_requests_library/)
 - [Python 3.13 RC2 Available Today - Python 3.13 available October 1st](https://www.reddit.com/r/Python/comments/1fbb4qw/python_313_rc2_available_today_python_313/)
-- [ndetectable text on the picture QUESTION / ideas](https://www.reddit.com/r/Python/comments/1fbaubt/ndetectable_text_on_the_picture_question_ideas/)
 <!-- BLOG-POST-LIST:END -->
