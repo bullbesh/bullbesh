@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Library for generating REST API clients using methods annotated with type hints](https://www.reddit.com/r/Python/comments/1fcz4bd/library_for_generating_rest_api_clients_using/)
+- [Show: created a precached route calculation for the US](https://www.reddit.com/r/Python/comments/1fcz1ck/show_created_a_precached_route_calculation_for/)
 - [Build web applications with wwwpy: For backend developers looking to minimize frontend headaches](https://www.reddit.com/r/Python/comments/1fcwvuk/build_web_applications_with_wwwpy_for_backend/)
 - [Reasoning About ML Workflows](https://www.reddit.com/r/Python/comments/1fcvhpa/reasoning_about_ml_workflows/)
 - [Introducing django-py-reverse, based on django-js-reverse package](https://www.reddit.com/r/Python/comments/1fct755/introducing_djangopyreverse_based_on/)
-- [Spell check library recommendations pls](https://www.reddit.com/r/Python/comments/1fcsr69/spell_check_library_recommendations_pls/)
-- [Opinion: maintenance means upgrading your package](https://www.reddit.com/r/Python/comments/1fcrtj2/opinion_maintenance_means_upgrading_your_package/)
 <!-- BLOG-POST-LIST:END -->
