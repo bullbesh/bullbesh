@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Am I passing python clients around correctly &lpar; in a thread safe and efficient way&rpar;?](https://www.reddit.com/r/Python/comments/1fd25gu/am_i_passing_python_clients_around_correctly_in_a/)
 - [Library for generating REST API clients using methods annotated with type hints](https://www.reddit.com/r/Python/comments/1fcz4bd/library_for_generating_rest_api_clients_using/)
 - [Show: created a precached route calculation for the US](https://www.reddit.com/r/Python/comments/1fcz1ck/show_created_a_precached_route_calculation_for/)
 - [Build web applications with wwwpy: For backend developers looking to minimize frontend headaches](https://www.reddit.com/r/Python/comments/1fcwvuk/build_web_applications_with_wwwpy_for_backend/)
 - [Reasoning About ML Workflows](https://www.reddit.com/r/Python/comments/1fcvhpa/reasoning_about_ml_workflows/)
-- [Introducing django-py-reverse, based on django-js-reverse package](https://www.reddit.com/r/Python/comments/1fct755/introducing_djangopyreverse_based_on/)
 <!-- BLOG-POST-LIST:END -->
