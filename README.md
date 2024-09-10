@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Straight-Science](https://www.reddit.com/r/Python/comments/1fdpmcl/straightscience/)
 - [Fight against bot followers on Github!](https://www.reddit.com/r/Python/comments/1fdmde7/fight_against_bot_followers_on_github/)
 - [Prepare your Python PCAP Certification with realistic Mock Tests!](https://www.reddit.com/r/Python/comments/1fdkzrq/prepare_your_python_pcap_certification_with/)
 - [Dict Hash: Efficient Hashing for Python Dictionaries](https://www.reddit.com/r/Python/comments/1fdkpkz/dict_hash_efficient_hashing_for_python/)
 - [Injecting syscall faults in Python and Ruby](https://www.reddit.com/r/Python/comments/1fdjv06/injecting_syscall_faults_in_python_and_ruby/)
-- [A web UI for SQLAlchemy to integrate into your web apps](https://www.reddit.com/r/Python/comments/1fdje37/a_web_ui_for_sqlalchemy_to_integrate_into_your/)
 <!-- BLOG-POST-LIST:END -->
