@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom code to remove password from pdf in power automate](https://www.reddit.com/r/Python/comments/1fdcnlc/custom_code_to_remove_password_from_pdf_in_power/)
 - [Computational Collision Physics](https://www.reddit.com/r/Python/comments/1fd9k40/computational_collision_physics/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1fd4fhr/tuesday_daily_thread_advanced_questions/)
 - [Library for generating REST API clients using methods annotated with type hints](https://www.reddit.com/r/Python/comments/1fcz4bd/library_for_generating_rest_api_clients_using/)
 - [Show: created a precached route calculation for the US](https://www.reddit.com/r/Python/comments/1fcz1ck/show_created_a_precached_route_calculation_for/)
-- [Build web applications with wwwpy: For backend developers looking to minimize frontend headaches](https://www.reddit.com/r/Python/comments/1fcwvuk/build_web_applications_with_wwwpy_for_backend/)
 <!-- BLOG-POST-LIST:END -->
