@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Need feedback &amp; contribution on my AI project](https://www.reddit.com/r/Python/comments/1fdgebx/need_feedback_contribution_on_my_ai_project/)
+- [Web Scraping: AMA](https://www.reddit.com/r/Python/comments/1fdiksu/web_scraping_ama/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1fd4fhr/tuesday_daily_thread_advanced_questions/)
 - [Library for generating REST API clients using methods annotated with type hints](https://www.reddit.com/r/Python/comments/1fcz4bd/library_for_generating_rest_api_clients_using/)
 - [Show: created a precached route calculation for the US](https://www.reddit.com/r/Python/comments/1fcz1ck/show_created_a_precached_route_calculation_for/)
