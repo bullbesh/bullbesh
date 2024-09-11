@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Python Bindings for Dust DDS with PyO3](https://www.reddit.com/r/Python/comments/1fe4w3m/implementing_python_bindings_for_dust_dds_with/)
 - [First Website/Tool using Python as backend language](https://www.reddit.com/r/Python/comments/1fdztpi/first_websitetool_using_python_as_backend_language/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1fdwqji/wednesday_daily_thread_beginner_questions/)
 - [An Extensive Open-Source Collection of AI Agent Implementations with Multiple Use Cases and Levels](https://www.reddit.com/r/Python/comments/1fds4ad/an_extensive_opensource_collection_of_ai_agent/)
 - [Fight against bot followers on Github!](https://www.reddit.com/r/Python/comments/1fdmde7/fight_against_bot_followers_on_github/)
-- [Dict Hash: Efficient Hashing for Python Dictionaries](https://www.reddit.com/r/Python/comments/1fdkpkz/dict_hash_efficient_hashing_for_python/)
 <!-- BLOG-POST-LIST:END -->
