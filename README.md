@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [First Website/Tool using Python as backend language](https://www.reddit.com/r/Python/comments/1fdztpi/first_websitetool_using_python_as_backend_language/)
-- [Data structures and algorithms &lpar; recommendations &rpar;](https://www.reddit.com/r/Python/comments/1fdxmyx/data_structures_and_algorithms_recommendations/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1fdwqji/wednesday_daily_thread_beginner_questions/)
 - [An Extensive Open-Source Collection of AI Agent Implementations with Multiple Use Cases and Levels](https://www.reddit.com/r/Python/comments/1fds4ad/an_extensive_opensource_collection_of_ai_agent/)
-- [Straight-Science](https://www.reddit.com/r/Python/comments/1fdpmcl/straightscience/)
+- [Fight against bot followers on Github!](https://www.reddit.com/r/Python/comments/1fdmde7/fight_against_bot_followers_on_github/)
+- [Dict Hash: Efficient Hashing for Python Dictionaries](https://www.reddit.com/r/Python/comments/1fdkpkz/dict_hash_efficient_hashing_for_python/)
 <!-- BLOG-POST-LIST:END -->
