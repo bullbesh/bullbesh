@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking for free technical skills screening platform &lpar;TestGorilla, Coderpad etc.&rpar;](https://www.reddit.com/r/Python/comments/1feb3l7/looking_for_free_technical_skills_screening/)
+- [My first open-source project built with Python to inspect databases through CLI fast](https://www.reddit.com/r/Python/comments/1febbx0/my_first_opensource_project_built_with_python_to/)
 - [Jetmaker&lpar;Re-posted&rpar;: Python framework to build distributed systems](https://www.reddit.com/r/Python/comments/1feacla/jetmakerreposted_python_framework_to_build/)
 - [Live polling App using flask](https://www.reddit.com/r/Python/comments/1fe89j4/live_polling_app_using_flask/)
 - [Implementing Python Bindings for Dust DDS with PyO3](https://www.reddit.com/r/Python/comments/1fe4w3m/implementing_python_bindings_for_dust_dds_with/)
