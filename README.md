@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [My first open-source project built with Python to inspect databases through CLI fast](https://www.reddit.com/r/Python/comments/1febbx0/my_first_opensource_project_built_with_python_to/)
 - [Jetmaker&lpar;Re-posted&rpar;: Python framework to build distributed systems](https://www.reddit.com/r/Python/comments/1feacla/jetmakerreposted_python_framework_to_build/)
-- [Live polling App using flask](https://www.reddit.com/r/Python/comments/1fe89j4/live_polling_app_using_flask/)
 - [Implementing Python Bindings for Dust DDS with PyO3](https://www.reddit.com/r/Python/comments/1fe4w3m/implementing_python_bindings_for_dust_dds_with/)
 - [First Website/Tool using Python as backend language](https://www.reddit.com/r/Python/comments/1fdztpi/first_websitetool_using_python_as_backend_language/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1fdwqji/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
