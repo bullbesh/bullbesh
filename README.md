@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [A machine learning algorithm to replace text in a video and replace it](https://www.reddit.com/r/Python/comments/1ff6z1s/a_machine_learning_algorithm_to_replace_text_in_a/)
-- [I have created an open source &lpar;No Code&rpar; Unit Testing Testing Tool - Identity Server - For Python](https://www.reddit.com/r/Python/comments/1ff50cn/i_have_created_an_open_source_no_code_unit/)
-- [Semantix : Non Pydantic, Non JSON Schema Structured Outputs using LLMs](https://www.reddit.com/r/Python/comments/1ff2ghv/semantix_non_pydantic_non_json_schema_structured/)
-- [Which Python libraries would be most suitable for Time Series Forecasts and Multilinear Regression?](https://www.reddit.com/r/Python/comments/1fexk8e/which_python_libraries_would_be_most_suitable_for/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1fep0y6/thursday_daily_thread_python_careers_courses_and/)
+- [Introducing Dust DDS - A Data Distribution Service &lpar;DDS&rpar; middleware implementation for Python](https://www.reddit.com/r/Python/comments/1ff9eyw/introducing_dust_dds_a_data_distribution_service/)
+- [Blink code search - source code indexer and instant search tool v1.10.0 released](https://www.reddit.com/r/Python/comments/1ff8l2t/blink_code_search_source_code_indexer_and_instant/)
+- [Looking for someone to build biomechanics program](https://www.reddit.com/r/Python/comments/1ff85xk/looking_for_someone_to_build_biomechanics_program/)
+- [The a absolute high you get when you solve a coding problem.](https://www.reddit.com/r/Python/comments/1ff847f/the_a_absolute_high_you_get_when_you_solve_a/)
+- [DBOS-Transact: An Ultra-Lightweight Durable Execution Library](https://www.reddit.com/r/Python/comments/1ff8257/dbostransact_an_ultralightweight_durable/)
 <!-- BLOG-POST-LIST:END -->
