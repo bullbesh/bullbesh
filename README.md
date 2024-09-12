@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Semantix : Non Pydantic, Non JSON Schema Structured Outputs using LLMs](https://www.reddit.com/r/Python/comments/1ff2ghv/semantix_non_pydantic_non_json_schema_structured/)
 - [Which Python libraries would be most suitable for Time Series Forecasts and Multilinear Regression?](https://www.reddit.com/r/Python/comments/1fexk8e/which_python_libraries_would_be_most_suitable_for/)
 - [Advice for Building a Data Consultancy Website with No-Code/Low-Code Tools](https://www.reddit.com/r/Python/comments/1fev38t/advice_for_building_a_data_consultancy_website/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1fep0y6/thursday_daily_thread_python_careers_courses_and/)
 - [What is the most popular game made in pygame &lpar;or game made completely using python&rpar; ever made?](https://www.reddit.com/r/Python/comments/1feoiw4/what_is_the_most_popular_game_made_in_pygame_or/)
-- [How to Easily Send HTTP Requests That Mimic a Browser](https://www.reddit.com/r/Python/comments/1feo3jo/how_to_easily_send_http_requests_that_mimic_a/)
 <!-- BLOG-POST-LIST:END -->
