@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Two downloads occurred yesterday without my knowledge](https://www.reddit.com/r/Python/comments/1ffl09g/two_downloads_occurred_yesterday_without_my/)
+- [GPT5 &lpar;GPT-o1&rpar; scores 89 percentile on codeforces](https://www.reddit.com/r/Python/comments/1fflyqw/gpt5_gpto1_scores_89_percentile_on_codeforces/)
 - [OneDev - a Python Code Aware Git Server](https://www.reddit.com/r/Python/comments/1ffjap0/onedev_a_python_code_aware_git_server/)
 - [maestro, a command-line music player](https://www.reddit.com/r/Python/comments/1ffiezv/maestro_a_commandline_music_player/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ffh7id/friday_daily_thread_rpython_meta_and_freetalk/)
