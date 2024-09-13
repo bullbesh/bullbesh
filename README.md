@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Push notifications using pushover api](https://www.reddit.com/r/Python/comments/1fg66r6/push_notifications_using_pushover_api/)
 - [It&#39;s time to stop using Python 3.8](https://www.reddit.com/r/Python/comments/1fg57kt/its_time_to_stop_using_python_38/)
-- [Chatbot UI for hosting Llama3](https://www.reddit.com/r/Python/comments/1fg4oy4/chatbot_ui_for_hosting_llama3/)
-- [Psycopg2 vs Psycopg2 Binary](https://www.reddit.com/r/Python/comments/1fg1oea/psycopg2_vs_psycopg2_binary/)
-- [&quot;Python Basics for Beginners: Examples and Best Practices&quot;](https://www.reddit.com/r/Python/comments/1ffyzuk/python_basics_for_beginners_examples_and_best/)
-- [Whisper realtime hallucinations using Python...Open AI and .CPP models.](https://www.reddit.com/r/Python/comments/1ffy7h6/whisper_realtime_hallucinations_using_pythonopen/)
+- [Kopipasta: pypi package to create LLM prompts](https://www.reddit.com/r/Python/comments/1ffx8qn/kopipasta_pypi_package_to_create_llm_prompts/)
+- [pyrtls: rustls-based modern TLS for Python](https://www.reddit.com/r/Python/comments/1ffwu5l/pyrtls_rustlsbased_modern_tls_for_python/)
+- [I wrote a tool for efficiently storing btrfs backups in S3. I&#39;d really appreciate feedback!](https://www.reddit.com/r/Python/comments/1fftfm9/i_wrote_a_tool_for_efficiently_storing_btrfs/)
 <!-- BLOG-POST-LIST:END -->
