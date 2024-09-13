@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [maestro, a command-line music player](https://www.reddit.com/r/Python/comments/1ffiezv/maestro_a_commandline_music_player/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ffh7id/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Passtrue or Passtrue data](https://www.reddit.com/r/Python/comments/1ffcwxx/passtrue_or_passtrue_data/)
 - [Introducing Dust DDS - A Data Distribution Service &lpar;DDS&rpar; middleware implementation for Python](https://www.reddit.com/r/Python/comments/1ff9eyw/introducing_dust_dds_a_data_distribution_service/)
 - [Blink code search - source code indexer and instant search tool v1.10.0 released](https://www.reddit.com/r/Python/comments/1ff8l2t/blink_code_search_source_code_indexer_and_instant/)
-- [Looking for someone to build biomechanics program](https://www.reddit.com/r/Python/comments/1ff85xk/looking_for_someone_to_build_biomechanics_program/)
-- [The a absolute high you get when you solve a coding problem.](https://www.reddit.com/r/Python/comments/1ff847f/the_a_absolute_high_you_get_when_you_solve_a/)
 <!-- BLOG-POST-LIST:END -->
