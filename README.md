@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Whisper realtime hallucinations using Python...Open AI and .CPP models.](https://www.reddit.com/r/Python/comments/1ffy7h6/whisper_realtime_hallucinations_using_pythonopen/)
 - [Kopipasta: pypi package to create LLM prompts](https://www.reddit.com/r/Python/comments/1ffx8qn/kopipasta_pypi_package_to_create_llm_prompts/)
 - [pyrtls: rustls-based modern TLS for Python](https://www.reddit.com/r/Python/comments/1ffwu5l/pyrtls_rustlsbased_modern_tls_for_python/)
 - [I wrote a tool for efficiently storing btrfs backups in S3. I&#39;d really appreciate feedback!](https://www.reddit.com/r/Python/comments/1fftfm9/i_wrote_a_tool_for_efficiently_storing_btrfs/)
 - [MPPT: A Modern Python Package Template](https://www.reddit.com/r/Python/comments/1ffr5ku/mppt_a_modern_python_package_template/)
-- [Looking for an audio wave form visualizer/player library](https://www.reddit.com/r/Python/comments/1ffqlcu/looking_for_an_audio_wave_form_visualizerplayer/)
 <!-- BLOG-POST-LIST:END -->
