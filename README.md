@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1fg99we/saturday_daily_thread_resource_request_and/)
 - [Push notifications using pushover api](https://www.reddit.com/r/Python/comments/1fg66r6/push_notifications_using_pushover_api/)
 - [It&#39;s time to stop using Python 3.8](https://www.reddit.com/r/Python/comments/1fg57kt/its_time_to_stop_using_python_38/)
 - [Kopipasta: pypi package to create LLM prompts](https://www.reddit.com/r/Python/comments/1ffx8qn/kopipasta_pypi_package_to_create_llm_prompts/)
 - [pyrtls: rustls-based modern TLS for Python](https://www.reddit.com/r/Python/comments/1ffwu5l/pyrtls_rustlsbased_modern_tls_for_python/)
-- [I wrote a tool for efficiently storing btrfs backups in S3. I&#39;d really appreciate feedback!](https://www.reddit.com/r/Python/comments/1fftfm9/i_wrote_a_tool_for_efficiently_storing_btrfs/)
 <!-- BLOG-POST-LIST:END -->
