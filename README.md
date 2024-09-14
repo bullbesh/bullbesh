@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can i be a &lpar;jr&rpar; programmer/developer?](https://www.reddit.com/r/Python/comments/1fgo78v/can_i_be_a_jr_programmerdeveloper/)
 - [Reading Serial data and deploying it on FLASK](https://www.reddit.com/r/Python/comments/1fgkxdo/reading_serial_data_and_deploying_it_on_flask/)
 - [I built a Multithreaded HTTP Server in Python](https://www.reddit.com/r/Python/comments/1fggfx9/i_built_a_multithreaded_http_server_in_python/)
 - [Can we talk about Numpy multi-core?](https://www.reddit.com/r/Python/comments/1fgdhvo/can_we_talk_about_numpy_multicore/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1fg99we/saturday_daily_thread_resource_request_and/)
-- [Push notifications using pushover api](https://www.reddit.com/r/Python/comments/1fg66r6/push_notifications_using_pushover_api/)
 <!-- BLOG-POST-LIST:END -->
