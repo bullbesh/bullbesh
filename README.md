@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a Multithreaded HTTP Server in Python](https://www.reddit.com/r/Python/comments/1fggfx9/i_built_a_multithreaded_http_server_in_python/)
 - [Can we talk about Numpy multi-core?](https://www.reddit.com/r/Python/comments/1fgdhvo/can_we_talk_about_numpy_multicore/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1fg99we/saturday_daily_thread_resource_request_and/)
 - [Push notifications using pushover api](https://www.reddit.com/r/Python/comments/1fg66r6/push_notifications_using_pushover_api/)
 - [It&#39;s time to stop using Python 3.8](https://www.reddit.com/r/Python/comments/1fg57kt/its_time_to_stop_using_python_38/)
-- [Kopipasta: pypi package to create LLM prompts](https://www.reddit.com/r/Python/comments/1ffx8qn/kopipasta_pypi_package_to_create_llm_prompts/)
 <!-- BLOG-POST-LIST:END -->
