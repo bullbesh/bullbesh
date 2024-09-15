@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create new python module named proxyaudit](https://www.reddit.com/r/Python/comments/1fhciw6/create_new_python_module_named_proxyaudit/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1fgzlru/sunday_daily_thread_whats_everyone_working_on/)
 - [matplotlib tutorial - Spyder 6 IDE](https://www.reddit.com/r/Python/comments/1fgwh2z/matplotlib_tutorial_spyder_6_ide/)
 - [Can we talk about Numpy multi-core?](https://www.reddit.com/r/Python/comments/1fgdhvo/can_we_talk_about_numpy_multicore/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1fg99we/saturday_daily_thread_resource_request_and/)
-- [Push notifications using pushover api](https://www.reddit.com/r/Python/comments/1fg66r6/push_notifications_using_pushover_api/)
 <!-- BLOG-POST-LIST:END -->
