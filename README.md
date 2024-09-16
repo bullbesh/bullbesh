@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Formatron: a high-performance constrained decoding library](https://www.reddit.com/r/Python/comments/1fhs4t8/formatron_a_highperformance_constrained_decoding/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1fhr1ij/monday_daily_thread_project_ideas/)
 - [Data Science Learning Resources](https://www.reddit.com/r/Python/comments/1fhjqlh/data_science_learning_resources/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1fgzlru/sunday_daily_thread_whats_everyone_working_on/)
 - [matplotlib tutorial - Spyder 6 IDE](https://www.reddit.com/r/Python/comments/1fgwh2z/matplotlib_tutorial_spyder_6_ide/)
-- [Can we talk about Numpy multi-core?](https://www.reddit.com/r/Python/comments/1fgdhvo/can_we_talk_about_numpy_multicore/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1fg99we/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
