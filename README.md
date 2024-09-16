@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [feather-test: a multiprocess unit testing framework with event driven reporting](https://www.reddit.com/r/Python/comments/1fi7ds5/feathertest_a_multiprocess_unit_testing_framework/)
 - [Using Wikipedia views to build an alternative to the deprecated Google Correlate](https://www.reddit.com/r/Python/comments/1fi6hlq/using_wikipedia_views_to_build_an_alternative_to/)
 - [Boston University&#39;s Introduction to Data Science with Python](https://www.reddit.com/r/Python/comments/1fi20o5/boston_universitys_introduction_to_data_science/)
 - [Formatron: a high-performance constrained decoding library](https://www.reddit.com/r/Python/comments/1fhs4t8/formatron_a_highperformance_constrained_decoding/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1fhr1ij/monday_daily_thread_project_ideas/)
-- [Data Science Learning Resources](https://www.reddit.com/r/Python/comments/1fhjqlh/data_science_learning_resources/)
 <!-- BLOG-POST-LIST:END -->
