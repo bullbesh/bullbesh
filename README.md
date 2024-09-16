@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Avoid redundant calculations in VS Code Python Jupyter Notebooks](https://www.reddit.com/r/Python/comments/1fibre9/avoid_redundant_calculations_in_vs_code_python/)
-- [What are your thoughts on the dictionary dispatch method?](https://www.reddit.com/r/Python/comments/1fiasju/what_are_your_thoughts_on_the_dictionary_dispatch/)
 - [Tiny BASIC in Python](https://www.reddit.com/r/Python/comments/1fiad74/tiny_basic_in_python/)
 - [feather-test: a multiprocess unit testing framework with event driven reporting](https://www.reddit.com/r/Python/comments/1fi7ds5/feathertest_a_multiprocess_unit_testing_framework/)
 - [Using Wikipedia views to build an alternative to the deprecated Google Correlate](https://www.reddit.com/r/Python/comments/1fi6hlq/using_wikipedia_views_to_build_an_alternative_to/)
+- [Boston University&#39;s Introduction to Data Science with Python](https://www.reddit.com/r/Python/comments/1fi20o5/boston_universitys_introduction_to_data_science/)
 <!-- BLOG-POST-LIST:END -->
