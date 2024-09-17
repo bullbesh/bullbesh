@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python deployment discussion.](https://www.reddit.com/r/Python/comments/1fipel3/python_deployment_discussion/)
+- [Python organizer](https://www.reddit.com/r/Python/comments/1fis2x0/python_organizer/)
 - [Build scipy on x64](https://www.reddit.com/r/Python/comments/1fiomcp/build_scipy_on_x64/)
 - [I made a python program that gives LLMs running locally the power to search the internet for LLMs ru](https://www.reddit.com/r/Python/comments/1finmdu/i_made_a_python_program_that_gives_llms_running/)
 - [Application Server for python apps](https://www.reddit.com/r/Python/comments/1fin86k/application_server_for_python_apps/)
