@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing CuttApi: Simplifying URL Shortening for Python Developers!](https://www.reddit.com/r/Python/comments/1fj17pz/introducing_cuttapi_simplifying_url_shortening/)
+- [I created a modern and customizable tooltip library for PyQt and PySide](https://www.reddit.com/r/Python/comments/1fj3bbg/i_created_a_modern_and_customizable_tooltip/)
+- [Understanding the h​e​ lp​&lpar;&rpar; function](https://www.reddit.com/r/Python/comments/1fj2lqo/understanding_the_he_lp_function/)
 - [GPU acceleration released in Polars](https://www.reddit.com/r/Python/comments/1fj0kfi/gpu_acceleration_released_in_polars/)
-- [Anime Recommendation Profile](https://www.reddit.com/r/Python/comments/1fixweu/anime_recommendation_profile/)
 - [Need feedback on Generating boilerplate python code](https://www.reddit.com/r/Python/comments/1fivb5y/need_feedback_on_generating_boilerplate_python/)
 - [Kivy&#39;s Android Webview implementation Experiment Using OpenGL Texture.](https://www.reddit.com/r/Python/comments/1fitg1k/kivys_android_webview_implementation_experiment/)
 <!-- BLOG-POST-LIST:END -->
