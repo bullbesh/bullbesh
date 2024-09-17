@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a python program that gives LLMs running locally the power to search the internet for LLMs ru](https://www.reddit.com/r/Python/comments/1finmdu/i_made_a_python_program_that_gives_llms_running/)
 - [Application Server for python apps](https://www.reddit.com/r/Python/comments/1fin86k/application_server_for_python_apps/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1fik7f7/tuesday_daily_thread_advanced_questions/)
 - [Package reproducibility in Python notebooks using uv isolated environments](https://www.reddit.com/r/Python/comments/1fijqy9/package_reproducibility_in_python_notebooks_using/)
 - [Avoid redundant calculations in VS Code Python Jupyter Notebooks](https://www.reddit.com/r/Python/comments/1fibre9/avoid_redundant_calculations_in_vs_code_python/)
-- [Tiny BASIC in Python](https://www.reddit.com/r/Python/comments/1fiad74/tiny_basic_in_python/)
 <!-- BLOG-POST-LIST:END -->
