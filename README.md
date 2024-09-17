@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Application Server for python apps](https://www.reddit.com/r/Python/comments/1fin86k/application_server_for_python_apps/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1fik7f7/tuesday_daily_thread_advanced_questions/)
 - [Package reproducibility in Python notebooks using uv isolated environments](https://www.reddit.com/r/Python/comments/1fijqy9/package_reproducibility_in_python_notebooks_using/)
 - [Avoid redundant calculations in VS Code Python Jupyter Notebooks](https://www.reddit.com/r/Python/comments/1fibre9/avoid_redundant_calculations_in_vs_code_python/)
 - [Tiny BASIC in Python](https://www.reddit.com/r/Python/comments/1fiad74/tiny_basic_in_python/)
-- [feather-test: a multiprocess unit testing framework with event driven reporting](https://www.reddit.com/r/Python/comments/1fi7ds5/feathertest_a_multiprocess_unit_testing_framework/)
 <!-- BLOG-POST-LIST:END -->
