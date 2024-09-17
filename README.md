@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing CuttApi: Simplifying URL Shortening for Python Developers!](https://www.reddit.com/r/Python/comments/1fj17pz/introducing_cuttapi_simplifying_url_shortening/)
+- [GPU acceleration released in Polars](https://www.reddit.com/r/Python/comments/1fj0kfi/gpu_acceleration_released_in_polars/)
 - [Anime Recommendation Profile](https://www.reddit.com/r/Python/comments/1fixweu/anime_recommendation_profile/)
 - [Need feedback on Generating boilerplate python code](https://www.reddit.com/r/Python/comments/1fivb5y/need_feedback_on_generating_boilerplate_python/)
 - [Kivy&#39;s Android Webview implementation Experiment Using OpenGL Texture.](https://www.reddit.com/r/Python/comments/1fitg1k/kivys_android_webview_implementation_experiment/)
-- [Python organizer](https://www.reddit.com/r/Python/comments/1fis2x0/python_organizer/)
-- [I made a python program that gives LLMs running locally the power to search the internet for LLMs ru](https://www.reddit.com/r/Python/comments/1finmdu/i_made_a_python_program_that_gives_llms_running/)
 <!-- BLOG-POST-LIST:END -->
