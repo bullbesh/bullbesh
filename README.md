@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a simple chat application for Ollama](https://www.reddit.com/r/Python/comments/1fjisdd/i_built_a_simple_chat_application_for_ollama/)
+- [Place to get practice questions and scenarios](https://www.reddit.com/r/Python/comments/1fjirli/place_to_get_practice_questions_and_scenarios/)
 - [Best library for creating graphic PDF documents?](https://www.reddit.com/r/Python/comments/1fjftmt/best_library_for_creating_graphic_pdf_documents/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1fjf36s/wednesday_daily_thread_beginner_questions/)
 - [Template for Python Development with CUDA in Dev Containers](https://www.reddit.com/r/Python/comments/1fjb3ur/template_for_python_development_with_cuda_in_dev/)
-- [OPAL - Fine Grained Authorization Service](https://www.reddit.com/r/Python/comments/1fj6d87/opal_fine_grained_authorization_service/)
-- [Maelstrom 0.12.0: Isolate your tests, and run them fast.](https://www.reddit.com/r/Python/comments/1fj4618/maelstrom_0120_isolate_your_tests_and_run_them/)
 <!-- BLOG-POST-LIST:END -->
