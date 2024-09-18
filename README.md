@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [DIY reverse proxy using python and fastAPI &lpar;found on stackoverflow&rpar;](https://www.reddit.com/r/Python/comments/1fjng4i/diy_reverse_proxy_using_python_and_fastapi_found/)
+- [Machine Learning](https://www.reddit.com/r/Python/comments/1fjn2z2/machine_learning/)
 - [New things updated to JetMaker - Python framework to build distributed systems](https://www.reddit.com/r/Python/comments/1fjkdvo/new_things_updated_to_jetmaker_python_framework/)
 - [Open-source Dash app that features dashboards with varying levels of complexity](https://www.reddit.com/r/Python/comments/1fjk4x8/opensource_dash_app_that_features_dashboards_with/)
 - [Edifice is like React, but with Python instead of JavaScript, and Qt Widgets instead of the HTML DOM](https://www.reddit.com/r/Python/comments/1fjjjy0/edifice_is_like_react_but_with_python_instead_of/)
-- [Place to get practice questions and scenarios](https://www.reddit.com/r/Python/comments/1fjirli/place_to_get_practice_questions_and_scenarios/)
-- [Best library for creating graphic PDF documents?](https://www.reddit.com/r/Python/comments/1fjftmt/best_library_for_creating_graphic_pdf_documents/)
 <!-- BLOG-POST-LIST:END -->
