@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python version of rdrr.io?](https://www.reddit.com/r/Python/comments/1fjssqe/python_version_of_rdrrio/)
 - [Introducing FastAgency: the fastest way to deploy a console or web app from your AutoGen workflow](https://www.reddit.com/r/Python/comments/1fjrqui/introducing_fastagency_the_fastest_way_to_deploy/)
 - [Django-Routify for routing your views in classic Django](https://www.reddit.com/r/Python/comments/1fjqrvn/djangoroutify_for_routing_your_views_in_classic/)
 - [Augmenting Human Actions with Machine Learning Assistance](https://www.reddit.com/r/Python/comments/1fjpncn/augmenting_human_actions_with_machine_learning/)
-- [web scraping: how to deal with dynamic classes?](https://www.reddit.com/r/Python/comments/1fjp8zb/web_scraping_how_to_deal_with_dynamic_classes/)
+- [New things updated to JetMaker - Python framework to build distributed systems](https://www.reddit.com/r/Python/comments/1fjkdvo/new_things_updated_to_jetmaker_python_framework/)
+- [Open-source Dash app that features dashboards with varying levels of complexity](https://www.reddit.com/r/Python/comments/1fjk4x8/opensource_dash_app_that_features_dashboards_with/)
 <!-- BLOG-POST-LIST:END -->
