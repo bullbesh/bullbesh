@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Kingcheikhsy1222%](https://www.reddit.com/r/Python/comments/1fjpdh9/kingcheikhsy1222/)
+- [Augmenting Human Actions with Machine Learning Assistance](https://www.reddit.com/r/Python/comments/1fjpncn/augmenting_human_actions_with_machine_learning/)
+- [Looking for API creators](https://www.reddit.com/r/Python/comments/1fjpelp/looking_for_api_creators/)
 - [web scraping: how to deal with dynamic classes?](https://www.reddit.com/r/Python/comments/1fjp8zb/web_scraping_how_to_deal_with_dynamic_classes/)
 - [Best libraries for Sentiment Analysis on social media?](https://www.reddit.com/r/Python/comments/1fjofol/best_libraries_for_sentiment_analysis_on_social/)
 - [DIY reverse proxy using python and fastAPI &lpar;found on stackoverflow&rpar;](https://www.reddit.com/r/Python/comments/1fjng4i/diy_reverse_proxy_using_python_and_fastapi_found/)
-- [Machine Learning](https://www.reddit.com/r/Python/comments/1fjn2z2/machine_learning/)
 <!-- BLOG-POST-LIST:END -->
