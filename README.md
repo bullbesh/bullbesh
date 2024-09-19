@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Txtify: Like Whisper but with Easy Deployment—Transcribe and Translate Audio and Video Effortlessly](https://www.reddit.com/r/Python/comments/1fksqva/txtify_like_whisper_but_with_easy/)
+- [Best libraries to generatee a PDF with Python?](https://www.reddit.com/r/Python/comments/1fksae1/best_libraries_to_generatee_a_pdf_with_python/)
 - [Best Practices for JSON Conversion](https://www.reddit.com/r/Python/comments/1fko3dn/best_practices_for_json_conversion/)
 - [Simple protocol for typing PySide6 Signals](https://www.reddit.com/r/Python/comments/1fknj7s/simple_protocol_for_typing_pyside6_signals/)
 - [Phantom: a simple ARP scanner for IoT devices.](https://www.reddit.com/r/Python/comments/1fkni2b/phantom_a_simple_arp_scanner_for_iot_devices/)
-- [Blog Post: Setup FastAPI Project with Async SQLAlchemy 2, Alembic and Docker](https://www.reddit.com/r/Python/comments/1fklgz7/blog_post_setup_fastapi_project_with_async/)
-- [Plotly Tutorial: 47 Different Graphs](https://www.reddit.com/r/Python/comments/1fkkv3p/plotly_tutorial_47_different_graphs/)
 <!-- BLOG-POST-LIST:END -->
