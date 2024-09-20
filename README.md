@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyOCI: Publish and install &lpar;private&rpar; python packages using OCI &lpar;docker&rpar; registries](https://www.reddit.com/r/Python/comments/1flbkn7/pyoci_publish_and_install_private_python_packages/)
+- [Researching on PythonCE for WindowsCE/WindowsMobile/PocketPC](https://www.reddit.com/r/Python/comments/1flb0su/researching_on_pythonce_for/)
 - [Simple Automation Script For Extracting Zip Files](https://www.reddit.com/r/Python/comments/1fl6n3u/simple_automation_script_for_extracting_zip_files/)
 - [Looking for mentor](https://www.reddit.com/r/Python/comments/1fl4ra3/looking_for_mentor/)
 - [Tips on structuring modern python apps &lpar;e.g. a web api&rpar; that uses types, typeddict, pydantic, etc?](https://www.reddit.com/r/Python/comments/1fkz1cb/tips_on_structuring_modern_python_apps_eg_a_web/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1fkyw3m/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Txtify: Like Whisper but with Easy Deployment—Transcribe and Translate Audio and Video Effortlessly](https://www.reddit.com/r/Python/comments/1fksqva/txtify_like_whisper_but_with_easy/)
 <!-- BLOG-POST-LIST:END -->
