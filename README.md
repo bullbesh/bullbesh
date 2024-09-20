@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dive into Machine Learning: Free Python Tutorials &amp; Downloadable Markdown Files!](https://www.reddit.com/r/Python/comments/1fleulk/dive_into_machine_learning_free_python_tutorials/)
 - [2024 Guide to the Top RAG Frameworks](https://www.reddit.com/r/Python/comments/1fld4p9/2024_guide_to_the_top_rag_frameworks/)
 - [PyOCI: Publish and install &lpar;private&rpar; python packages using OCI &lpar;docker&rpar; registries](https://www.reddit.com/r/Python/comments/1flbkn7/pyoci_publish_and_install_private_python_packages/)
 - [Researching on PythonCE for WindowsCE/WindowsMobile/PocketPC](https://www.reddit.com/r/Python/comments/1flb0su/researching_on_pythonce_for/)
 - [Simple Automation Script For Extracting Zip Files](https://www.reddit.com/r/Python/comments/1fl6n3u/simple_automation_script_for_extracting_zip_files/)
-- [Looking for mentor](https://www.reddit.com/r/Python/comments/1fl4ra3/looking_for_mentor/)
 <!-- BLOG-POST-LIST:END -->
