@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for mentor](https://www.reddit.com/r/Python/comments/1fl4ra3/looking_for_mentor/)
 - [Tips on structuring modern python apps &lpar;e.g. a web api&rpar; that uses types, typeddict, pydantic, etc?](https://www.reddit.com/r/Python/comments/1fkz1cb/tips_on_structuring_modern_python_apps_eg_a_web/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1fkyw3m/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Txtify: Like Whisper but with Easy Deployment—Transcribe and Translate Audio and Video Effortlessly](https://www.reddit.com/r/Python/comments/1fksqva/txtify_like_whisper_but_with_easy/)
 - [Best Practices for JSON Conversion](https://www.reddit.com/r/Python/comments/1fko3dn/best_practices_for_json_conversion/)
-- [Simple protocol for typing PySide6 Signals](https://www.reddit.com/r/Python/comments/1fknj7s/simple_protocol_for_typing_pyside6_signals/)
 <!-- BLOG-POST-LIST:END -->
