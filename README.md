@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Internal architecture &amp; working of python pickle module](https://www.reddit.com/r/Python/comments/1fm2z3b/internal_architecture_working_of_python_pickle/)
 - [PerpetualBooster: improved multi-threading and quantile regression support](https://www.reddit.com/r/Python/comments/1flzryh/perpetualbooster_improved_multithreading_and/)
 - [ParLlama v0.3.8 released. Now supports Ollama, OpenAI, GoogleAI, Anthropic, Groq](https://www.reddit.com/r/Python/comments/1fltdi8/parllama_v038_released_now_supports_ollama_openai/)
 - [Ereddicator v3.1: A Python-based Reddit Content Removal Tool](https://www.reddit.com/r/Python/comments/1flrphi/ereddicator_v31_a_pythonbased_reddit_content/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1flq8cn/saturday_daily_thread_resource_request_and/)
-- [Get clean markdown from any data source using vision-language models in Python](https://www.reddit.com/r/Python/comments/1fllewz/get_clean_markdown_from_any_data_source_using/)
 <!-- BLOG-POST-LIST:END -->
