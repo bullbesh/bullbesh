@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Where&#39;s the Error? I&#39;m Stumped](https://www.reddit.com/r/Python/comments/1fmwgye/wheres_the_error_im_stumped/)
+- [SQLAlchemy Helper &lpar;For VS Code&rpar;](https://www.reddit.com/r/Python/comments/1fmw77x/sqlalchemy_helper_for_vs_code/)
+- [Learning by video right now](https://www.reddit.com/r/Python/comments/1fmvxh7/learning_by_video_right_now/)
 - [Hy 1.0.0, the Lisp dialect for Python, has been released](https://www.reddit.com/r/Python/comments/1fmur2b/hy_100_the_lisp_dialect_for_python_has_been/)
 - [QuickApiClient: Create fully typed and declarative API clients easily](https://www.reddit.com/r/Python/comments/1fmqq70/quickapiclient_create_fully_typed_and_declarative/)
-- [Introducing FileWizardAi: Organizes your Files with AI-Powered Sorting and Search](https://www.reddit.com/r/Python/comments/1fmqp4a/introducing_filewizardai_organizes_your_files/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1fmgft6/sunday_daily_thread_whats_everyone_working_on/)
-- [Automated Import of Holdings to Google Finance from Excel](https://www.reddit.com/r/Python/comments/1fma2vq/automated_import_of_holdings_to_google_finance/)
 <!-- BLOG-POST-LIST:END -->
