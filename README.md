@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ComiQ: Comic-Focused Hybrid OCR Library](https://www.reddit.com/r/Python/comments/1fnchtz/comiq_comicfocused_hybrid_ocr_library/)
 - [PyTrilogy adds typing and a semantic layer to SQL](https://www.reddit.com/r/Python/comments/1fn9bxp/pytrilogy_adds_typing_and_a_semantic_layer_to_sql/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1fn7daq/monday_daily_thread_project_ideas/)
 - [Python Library to Validate Tax ID Numbers for Over 100 Countries](https://www.reddit.com/r/Python/comments/1fmxt7p/python_library_to_validate_tax_id_numbers_for/)
 - [SQLAlchemy Helper &lpar;For VS Code&rpar;](https://www.reddit.com/r/Python/comments/1fmw77x/sqlalchemy_helper_for_vs_code/)
-- [Hy 1.0.0, the Lisp dialect for Python, has been released](https://www.reddit.com/r/Python/comments/1fmur2b/hy_100_the_lisp_dialect_for_python_has_been/)
 <!-- BLOG-POST-LIST:END -->
