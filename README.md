@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [stupid question about booleans](https://www.reddit.com/r/Python/comments/1fnegrn/stupid_question_about_booleans/)
 - [ComiQ: Comic-Focused Hybrid OCR Library](https://www.reddit.com/r/Python/comments/1fnchtz/comiq_comicfocused_hybrid_ocr_library/)
 - [PyTrilogy adds typing and a semantic layer to SQL](https://www.reddit.com/r/Python/comments/1fn9bxp/pytrilogy_adds_typing_and_a_semantic_layer_to_sql/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1fn7daq/monday_daily_thread_project_ideas/)
 - [Python Library to Validate Tax ID Numbers for Over 100 Countries](https://www.reddit.com/r/Python/comments/1fmxt7p/python_library_to_validate_tax_id_numbers_for/)
-- [SQLAlchemy Helper &lpar;For VS Code&rpar;](https://www.reddit.com/r/Python/comments/1fmw77x/sqlalchemy_helper_for_vs_code/)
 <!-- BLOG-POST-LIST:END -->
