@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [AUTOMATICALLY APPLIED 1000 JOBS in 24h and got 50 INTERVIEWS!](https://www.reddit.com/r/Python/comments/1fnohgi/automatically_applied_1000_jobs_in_24h_and_got_50/)
+- [Fantasy Premier League - Mini-League History](https://www.reddit.com/r/Python/comments/1fnolxe/fantasy_premier_league_minileague_history/)
 - [A PyQt TodoMVC cross-OS desktop app](https://www.reddit.com/r/Python/comments/1fnl415/a_pyqt_todomvc_crossos_desktop_app/)
 - [ComiQ: Comic-Focused Hybrid OCR Library](https://www.reddit.com/r/Python/comments/1fnchtz/comiq_comicfocused_hybrid_ocr_library/)
 - [PyTrilogy adds typing and a semantic layer to SQL](https://www.reddit.com/r/Python/comments/1fn9bxp/pytrilogy_adds_typing_and_a_semantic_layer_to_sql/)
