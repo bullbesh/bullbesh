@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Arbitrary-precision expression evaluator written entirely by Microsoft Copilot](https://www.reddit.com/r/Python/comments/1fnaxf0/arbitraryprecision_expression_evaluator_written/)
 - [PyTrilogy adds typing and a semantic layer to SQL](https://www.reddit.com/r/Python/comments/1fn9bxp/pytrilogy_adds_typing_and_a_semantic_layer_to_sql/)
 - [What are some fully 100% Python web development frameworks](https://www.reddit.com/r/Python/comments/1fn8wyf/what_are_some_fully_100_python_web_development/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1fn7daq/monday_daily_thread_project_ideas/)
 - [Python Library to Validate Tax ID Numbers for Over 100 Countries](https://www.reddit.com/r/Python/comments/1fmxt7p/python_library_to_validate_tax_id_numbers_for/)
-- [SQLAlchemy Helper &lpar;For VS Code&rpar;](https://www.reddit.com/r/Python/comments/1fmw77x/sqlalchemy_helper_for_vs_code/)
 <!-- BLOG-POST-LIST:END -->
