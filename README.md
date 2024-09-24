@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just made my own game!](https://www.reddit.com/r/Python/comments/1fnzvwg/i_just_made_my_own_game/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1fnz87u/tuesday_daily_thread_advanced_questions/)
 - [Open-sourced FastAPI reference architecture](https://www.reddit.com/r/Python/comments/1fnwxxy/opensourced_fastapi_reference_architecture/)
 - [Best Python Libraries for AI/ML: Which Ones Deserve More Attention?](https://www.reddit.com/r/Python/comments/1fnt66a/best_python_libraries_for_aiml_which_ones_deserve/)
 - [A PyQt TodoMVC cross-OS desktop app](https://www.reddit.com/r/Python/comments/1fnl415/a_pyqt_todomvc_crossos_desktop_app/)
-- [ComiQ: Comic-Focused Hybrid OCR Library](https://www.reddit.com/r/Python/comments/1fnchtz/comiq_comicfocused_hybrid_ocr_library/)
-- [PyTrilogy adds typing and a semantic layer to SQL](https://www.reddit.com/r/Python/comments/1fn9bxp/pytrilogy_adds_typing_and_a_semantic_layer_to_sql/)
 <!-- BLOG-POST-LIST:END -->
