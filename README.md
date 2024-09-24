@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Free Online Python REPLs](https://www.reddit.com/r/Python/comments/1foovfr/7_free_online_python_repls/)
 - [Optimal solution for the Number of Kobon Triangles with Eleven Lines](https://www.reddit.com/r/Python/comments/1fon7hb/optimal_solution_for_the_number_of_kobon/)
 - [Event Driven Architecture](https://www.reddit.com/r/Python/comments/1folpvx/event_driven_architecture/)
 - [Some thoughts on omegaconf and hydra](https://www.reddit.com/r/Python/comments/1fokrl9/some_thoughts_on_omegaconf_and_hydra/)
 - [Worth while to use PythonAnywhere for a family member...](https://www.reddit.com/r/Python/comments/1fojvi6/worth_while_to_use_pythonanywhere_for_a_family/)
-- [Connor: Fast and fully local NLP file organizer that organizes files based on their textual content](https://www.reddit.com/r/Python/comments/1fohm7y/connor_fast_and_fully_local_nlp_file_organizer/)
 <!-- BLOG-POST-LIST:END -->
