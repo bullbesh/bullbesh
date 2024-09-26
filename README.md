@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [API Integration](https://www.reddit.com/r/Python/comments/1fpqnmz/api_integration/)
 - [Script to download just the audio from Reddit Videos](https://www.reddit.com/r/Python/comments/1fppcu4/script_to_download_just_the_audio_from_reddit/)
 - [Recomendaciones](https://www.reddit.com/r/Python/comments/1fpm7u5/recomendaciones/)
 - [Non-drifting Scheduler](https://www.reddit.com/r/Python/comments/1fplo2y/nondrifting_scheduler/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1fpj37t/thursday_daily_thread_python_careers_courses_and/)
-- [[Article] The Essential Guide to Large Language Model’s Structured Output, and Function Calling](https://www.reddit.com/r/Python/comments/1fpiod8/article_the_essential_guide_to_large_language/)
 <!-- BLOG-POST-LIST:END -->
