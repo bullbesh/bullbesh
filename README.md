@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1fpj37t/thursday_daily_thread_python_careers_courses_and/)
+- [[Article] The Essential Guide to Large Language Model’s Structured Output, and Function Calling](https://www.reddit.com/r/Python/comments/1fpiod8/article_the_essential_guide_to_large_language/)
+- [Running pypi server on air gapped network](https://www.reddit.com/r/Python/comments/1fpikiz/running_pypi_server_on_air_gapped_network/)
 - [SurfSense - Personal AI Assistant for Internet Surfers.](https://www.reddit.com/r/Python/comments/1fpgwfi/surfsense_personal_ai_assistant_for_internet/)
 - [Reflex v0.6.0 - Frontend. Backend. Pure Python](https://www.reddit.com/r/Python/comments/1fpf1lx/reflex_v060_frontend_backend_pure_python/)
-- [MAD &lpar;Machine Learning, AI, Data&rpar; Map for real-time Python](https://www.reddit.com/r/Python/comments/1fpd2nv/mad_machine_learning_ai_data_map_for_realtime/)
-- [Practical Applications of Emerging Tech in Data Science](https://www.reddit.com/r/Python/comments/1fpb1m7/practical_applications_of_emerging_tech_in_data/)
-- [changing log levels without deploying / restarting](https://www.reddit.com/r/Python/comments/1fpa5m3/changing_log_levels_without_deploying_restarting/)
 <!-- BLOG-POST-LIST:END -->
