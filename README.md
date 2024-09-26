@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python scraper extracts data from any website](https://www.reddit.com/r/Python/comments/1fq98yw/python_scraper_extracts_data_from_any_website/)
+- [Reshape Data in Polars Efficiently from Wide to Long Form](https://www.reddit.com/r/Python/comments/1fq8rf0/reshape_data_in_polars_efficiently_from_wide_to/)
 - [Adding non-python dependencies with uv](https://www.reddit.com/r/Python/comments/1fq8dz7/adding_nonpython_dependencies_with_uv/)
 - [Looking for volunteers to take my Python course and give feedback](https://www.reddit.com/r/Python/comments/1fq5567/looking_for_volunteers_to_take_my_python_course/)
 - [show: 200 line pygame hotreloader](https://www.reddit.com/r/Python/comments/1fq3ola/show_200_line_pygame_hotreloader/)
-- [[D] Has anyone moved over to numpy2.0? What are some cool magic&lpar;s&rpar; that you have learned so far?](https://www.reddit.com/r/Python/comments/1fq35j1/d_has_anyone_moved_over_to_numpy20_what_are_some/)
-- [Opik: Open source LLM evaluation framework](https://www.reddit.com/r/Python/comments/1fq33rw/opik_open_source_llm_evaluation_framework/)
 <!-- BLOG-POST-LIST:END -->
