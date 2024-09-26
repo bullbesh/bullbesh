@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [show: 200 line pygame hotreloader](https://www.reddit.com/r/Python/comments/1fq3ola/show_200_line_pygame_hotreloader/)
 - [[D] Has anyone moved over to numpy2.0? What are some cool magic&lpar;s&rpar; that you have learned so far?](https://www.reddit.com/r/Python/comments/1fq35j1/d_has_anyone_moved_over_to_numpy20_what_are_some/)
 - [Opik: Open source LLM evaluation framework](https://www.reddit.com/r/Python/comments/1fq33rw/opik_open_source_llm_evaluation_framework/)
 - [what are some real use cases for the modulo operator in python?](https://www.reddit.com/r/Python/comments/1fq2ywi/what_are_some_real_use_cases_for_the_modulo/)
 - [Monthly Python Data Engineerig September issue and How Data Platforms Work free book](https://www.reddit.com/r/Python/comments/1fq0qoc/monthly_python_data_engineerig_september_issue/)
-- [FileSystemPro 1.0.4.0](https://www.reddit.com/r/Python/comments/1fpy0hm/filesystempro_1040/)
 <!-- BLOG-POST-LIST:END -->
