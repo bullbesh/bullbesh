@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can you advise me to think of some strategies for continuing my coding studies in the future?](https://www.reddit.com/r/Python/comments/1fqhsul/can_you_advise_me_to_think_of_some_strategies_for/)
+- [First Python Project: Minecraft Cloud Synchronization](https://www.reddit.com/r/Python/comments/1fqhocd/first_python_project_minecraft_cloud/)
 - [Different timezone in CI/CD tests](https://www.reddit.com/r/Python/comments/1fqfxg1/different_timezone_in_cicd_tests/)
 - [My python program now lets LLMs running on both Ollama and Llama.cpp search the internet!](https://www.reddit.com/r/Python/comments/1fqf96f/my_python_program_now_lets_llms_running_on_both/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1fqar0b/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Reshape Data in Polars Efficiently from Wide to Long Form](https://www.reddit.com/r/Python/comments/1fq8rf0/reshape_data_in_polars_efficiently_from_wide_to/)
-- [Adding non-python dependencies with uv](https://www.reddit.com/r/Python/comments/1fq8dz7/adding_nonpython_dependencies_with_uv/)
 <!-- BLOG-POST-LIST:END -->
