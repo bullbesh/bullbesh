@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Riccardo &lpar;Fourier&rpar; transform](https://www.reddit.com/r/Python/comments/1fr0of4/the_riccardo_fourier_transform/)
 - [Can anybody make an online Python-based SubscribeStar scraper?](https://www.reddit.com/r/Python/comments/1fqzjm6/can_anybody_make_an_online_pythonbased/)
+- [Search YouTube Comments: Raw and with GeminiAI](https://www.reddit.com/r/Python/comments/1fquhxm/search_youtube_comments_raw_and_with_geminiai/)
 - [Formulaire Python](https://www.reddit.com/r/Python/comments/1fqrz6p/formulaire_python/)
 - [Problem with the raspberry](https://www.reddit.com/r/Python/comments/1fqrmqt/problem_with_the_raspberry/)
-- [LangDict : Build complex LLM Applications with Python Dictionary](https://www.reddit.com/r/Python/comments/1fqre92/langdict_build_complex_llm_applications_with/)
-- [What are some of Pydantic&#39;s most annoying aspects / limitations?](https://www.reddit.com/r/Python/comments/1fqovy7/what_are_some_of_pydantics_most_annoying_aspects/)
 <!-- BLOG-POST-LIST:END -->
