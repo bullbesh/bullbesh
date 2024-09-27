@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1fqar0b/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Python scraper extracts data from any website](https://www.reddit.com/r/Python/comments/1fq98yw/python_scraper_extracts_data_from_any_website/)
 - [Reshape Data in Polars Efficiently from Wide to Long Form](https://www.reddit.com/r/Python/comments/1fq8rf0/reshape_data_in_polars_efficiently_from_wide_to/)
 - [Adding non-python dependencies with uv](https://www.reddit.com/r/Python/comments/1fq8dz7/adding_nonpython_dependencies_with_uv/)
 - [Looking for volunteers to take my Python course and give feedback](https://www.reddit.com/r/Python/comments/1fq5567/looking_for_volunteers_to_take_my_python_course/)
-- [show: 200 line pygame hotreloader](https://www.reddit.com/r/Python/comments/1fq3ola/show_200_line_pygame_hotreloader/)
 <!-- BLOG-POST-LIST:END -->
