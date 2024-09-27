@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [pass statement?](https://www.reddit.com/r/Python/comments/1fqxwx6/pass_statement/)
+- [Can anybody make an online Python-based SubscribeStar scraper?](https://www.reddit.com/r/Python/comments/1fqzjm6/can_anybody_make_an_online_pythonbased/)
 - [Formulaire Python](https://www.reddit.com/r/Python/comments/1fqrz6p/formulaire_python/)
 - [Problem with the raspberry](https://www.reddit.com/r/Python/comments/1fqrmqt/problem_with_the_raspberry/)
 - [LangDict : Build complex LLM Applications with Python Dictionary](https://www.reddit.com/r/Python/comments/1fqre92/langdict_build_complex_llm_applications_with/)
