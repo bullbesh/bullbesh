@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Django Models](https://www.reddit.com/r/Python/comments/1fr7kp9/understanding_django_models/)
 - [How to automatically post responses on Reddit using Python?](https://www.reddit.com/r/Python/comments/1fr7kam/how_to_automatically_post_responses_on_reddit/)
-- [I am here to take your mock interview.](https://www.reddit.com/r/Python/comments/1fr7cri/i_am_here_to_take_your_mock_interview/)
 - [WTF is ASGI and WSGI in python apps? - A writeup](https://www.reddit.com/r/Python/comments/1fr59e2/wtf_is_asgi_and_wsgi_in_python_apps_a_writeup/)
 - [Understanding Django Models](https://www.reddit.com/r/Python/comments/1fr2t0q/understanding_django_models/)
+- [Django ninja aio crud - Rest Framework](https://www.reddit.com/r/Python/comments/1fr1z92/django_ninja_aio_crud_rest_framework/)
 <!-- BLOG-POST-LIST:END -->
