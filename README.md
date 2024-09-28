@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [WTF is ASGI and WSGI in python apps? - A writeup](https://www.reddit.com/r/Python/comments/1fr59e2/wtf_is_asgi_and_wsgi_in_python_apps_a_writeup/)
 - [Flet recommendation](https://www.reddit.com/r/Python/comments/1fr3v8r/flet_recommendation/)
 - [Understanding Django Models](https://www.reddit.com/r/Python/comments/1fr2t0q/understanding_django_models/)
 - [Django ninja aio crud - Rest Framework](https://www.reddit.com/r/Python/comments/1fr1z92/django_ninja_aio_crud_rest_framework/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1fr1qjk/saturday_daily_thread_resource_request_and/)
-- [The Riccardo &lpar;Fourier&rpar; transform](https://www.reddit.com/r/Python/comments/1fr0of4/the_riccardo_fourier_transform/)
 <!-- BLOG-POST-LIST:END -->
