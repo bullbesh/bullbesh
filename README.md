@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Join the Bot Battle: Create Your Own!](https://www.reddit.com/r/Python/comments/1frfor2/join_the_bot_battle_create_your_own/)
+- [PeepDB v0.1.4 - Support for MongoDB and SQLite added , GUI next time](https://www.reddit.com/r/Python/comments/1frffq2/peepdb_v014_support_for_mongodb_and_sqlite_added/)
 - [what they use in openai , mistral , gemini etc ?](https://www.reddit.com/r/Python/comments/1frbezc/what_they_use_in_openai_mistral_gemini_etc/)
 - [Understanding Django Models](https://www.reddit.com/r/Python/comments/1fr7kp9/understanding_django_models/)
 - [How to automatically post responses on Reddit using Python?](https://www.reddit.com/r/Python/comments/1fr7kam/how_to_automatically_post_responses_on_reddit/)
-- [WTF is ASGI and WSGI in python apps? - A writeup](https://www.reddit.com/r/Python/comments/1fr59e2/wtf_is_asgi_and_wsgi_in_python_apps_a_writeup/)
-- [Understanding Django Models](https://www.reddit.com/r/Python/comments/1fr2t0q/understanding_django_models/)
 <!-- BLOG-POST-LIST:END -->
