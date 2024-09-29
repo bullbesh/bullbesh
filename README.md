@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Best AI model &lpar;free&rpar; for coding : Qwen2.5](https://www.reddit.com/r/Python/comments/1frvkmk/best_ai_model_free_for_coding_qwen25/)
 - [How does sleep work under the hood in python](https://www.reddit.com/r/Python/comments/1frry07/how_does_sleep_work_under_the_hood_in_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1frro25/sunday_daily_thread_whats_everyone_working_on/)
 - [Tips for Learning](https://www.reddit.com/r/Python/comments/1frm0k3/tips_for_learning/)
 - [Learning a language other than Python?](https://www.reddit.com/r/Python/comments/1fribvi/learning_a_language_other_than_python/)
+- [Collision Physics in Python](https://www.reddit.com/r/Python/comments/1frhfcr/collision_physics_in_python/)
 <!-- BLOG-POST-LIST:END -->
