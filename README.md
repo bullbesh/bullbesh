@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Train a GPT model from scratch to generate Shakespearean text](https://www.reddit.com/r/Python/comments/1fsbtxr/train_a_gpt_model_from_scratch_to_generate/)
 - [How does sleep work under the hood in python](https://www.reddit.com/r/Python/comments/1frry07/how_does_sleep_work_under_the_hood_in_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1frro25/sunday_daily_thread_whats_everyone_working_on/)
 - [Learning a language other than Python?](https://www.reddit.com/r/Python/comments/1fribvi/learning_a_language_other_than_python/)
 - [Join the Bot Battle: Create Your Own!](https://www.reddit.com/r/Python/comments/1frh5u8/join_the_bot_battle_create_your_own/)
-- [Join the Bot Battle: Create Your Own!](https://www.reddit.com/r/Python/comments/1frfor2/join_the_bot_battle_create_your_own/)
 <!-- BLOG-POST-LIST:END -->
