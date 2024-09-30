@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate free python advanced course](https://www.reddit.com/r/Python/comments/1ft5efv/ultimate_free_python_advanced_course/)
+- [Why do functions need to be implemented async for them to work with the Event Loop?](https://www.reddit.com/r/Python/comments/1ft56pe/why_do_functions_need_to_be_implemented_async_for/)
+- [Tutorial on type hinting any matrix with Protocol &lpar;compatible with numpy and nested lists&rpar;](https://www.reddit.com/r/Python/comments/1ft3yar/tutorial_on_type_hinting_any_matrix_with_protocol/)
 - [I made some Python applications that may be useful for those interested in the self hosted world](https://www.reddit.com/r/Python/comments/1ft3i1o/i_made_some_python_applications_that_may_be/)
 - [Anyone interested in building a job application bot with me?](https://www.reddit.com/r/Python/comments/1ft26y0/anyone_interested_in_building_a_job_application/)
-- [Introducing ZipNN: A Python Library for lossless Compressing tailored for AI Models](https://www.reddit.com/r/Python/comments/1fsxvcr/introducing_zipnn_a_python_library_for_lossless/)
-- [&lpar;Almost&rpar; Pure Python Webapp](https://www.reddit.com/r/Python/comments/1fswzlg/almost_pure_python_webapp/)
-- [[Release] secure.py – Simplify HTTP Security Headers in Python Web Frameworks &lpar;Major Update&rpar;](https://www.reddit.com/r/Python/comments/1fsrxts/release_securepy_simplify_http_security_headers/)
 <!-- BLOG-POST-LIST:END -->
