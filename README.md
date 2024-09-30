@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [A lightweight library for parsing typed LLM outputs](https://www.reddit.com/r/Python/comments/1ft5y5y/a_lightweight_library_for_parsing_typed_llm/)
+- [My Open-Source Tool for Instant Audio Transcription to Clipboard 🎙️✍️](https://www.reddit.com/r/Python/comments/1ft7d5q/my_opensource_tool_for_instant_audio/)
 - [Ultimate free python advanced course](https://www.reddit.com/r/Python/comments/1ft5efv/ultimate_free_python_advanced_course/)
-- [Why do functions need to be implemented async for them to work with the Event Loop?](https://www.reddit.com/r/Python/comments/1ft56pe/why_do_functions_need_to_be_implemented_async_for/)
 - [Tutorial on type hinting any matrix with Protocol &lpar;compatible with numpy and nested lists&rpar;](https://www.reddit.com/r/Python/comments/1ft3yar/tutorial_on_type_hinting_any_matrix_with_protocol/)
 - [I made some Python applications that may be useful for those interested in the self hosted world](https://www.reddit.com/r/Python/comments/1ft3i1o/i_made_some_python_applications_that_may_be/)
+- [Introducing ZipNN: A Python Library for lossless Compressing tailored for AI Models](https://www.reddit.com/r/Python/comments/1fsxvcr/introducing_zipnn_a_python_library_for_lossless/)
 <!-- BLOG-POST-LIST:END -->
