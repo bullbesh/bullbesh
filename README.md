@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing ZipNN: A Python Library for lossless Compressing tailored for AI Models](https://www.reddit.com/r/Python/comments/1fsxvcr/introducing_zipnn_a_python_library_for_lossless/)
+- [python subprocess issue nginx](https://www.reddit.com/r/Python/comments/1fsxnqr/python_subprocess_issue_nginx/)
+- [&lpar;Almost&rpar; Pure Python Webapp](https://www.reddit.com/r/Python/comments/1fswzlg/almost_pure_python_webapp/)
+- [ayuda con python - scapy](https://www.reddit.com/r/Python/comments/1fsws9r/ayuda_con_python_scapy/)
 - [[Release] secure.py – Simplify HTTP Security Headers in Python Web Frameworks &lpar;Major Update&rpar;](https://www.reddit.com/r/Python/comments/1fsrxts/release_securepy_simplify_http_security_headers/)
-- [Paramorator – Simplify Parametrized Decorators, Make Type Checkers Happy ✅](https://www.reddit.com/r/Python/comments/1fsqybd/paramorator_simplify_parametrized_decorators_make/)
-- [deltabase: manage delta tables in both local and cloud environments with ease](https://www.reddit.com/r/Python/comments/1fsjqpf/deltabase_manage_delta_tables_in_both_local_and/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1fsif9y/monday_daily_thread_project_ideas/)
-- [Software Engineer Jobs database 9/25: Weekly posts of recently posted software engineer roles](https://www.reddit.com/r/Python/comments/1fsguoi/software_engineer_jobs_database_925_weekly_posts/)
 <!-- BLOG-POST-LIST:END -->
