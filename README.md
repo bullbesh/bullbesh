@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I am a Python developer seeking a business partner with similar expertise.](https://www.reddit.com/r/Python/comments/1fso08m/i_am_a_python_developer_seeking_a_business/)
 - [deltabase: manage delta tables in both local and cloud environments with ease](https://www.reddit.com/r/Python/comments/1fsjqpf/deltabase_manage_delta_tables_in_both_local_and/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1fsif9y/monday_daily_thread_project_ideas/)
 - [Software Engineer Jobs database 9/25: Weekly posts of recently posted software engineer roles](https://www.reddit.com/r/Python/comments/1fsguoi/software_engineer_jobs_database_925_weekly_posts/)
 - [How does sleep work under the hood in python](https://www.reddit.com/r/Python/comments/1frry07/how_does_sleep_work_under_the_hood_in_python/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1frro25/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
