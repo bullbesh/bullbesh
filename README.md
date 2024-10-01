@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyUiBuilder: The only Python GUI builder you&#39;ll ever need.](https://www.reddit.com/r/Python/comments/1ftlhvy/pyuibuilder_the_only_python_gui_builder_youll/)
+- [Rant of the Day](https://www.reddit.com/r/Python/comments/1ftl52n/rant_of_the_day/)
 - [I developed a suite of Python Applications - There’s Something Here for Everyone! 😜](https://www.reddit.com/r/Python/comments/1ftkppb/i_developed_a_suite_of_python_applications_theres/)
 - [Python Video libary, with a twist](https://www.reddit.com/r/Python/comments/1ftigu7/python_video_libary_with_a_twist/)
 - [Ban Transparency from Tim Peters](https://www.reddit.com/r/Python/comments/1ftbjt8/ban_transparency_from_tim_peters/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ftak55/tuesday_daily_thread_advanced_questions/)
-- [Stroke Width Transfor w/Parallel Processing](https://www.reddit.com/r/Python/comments/1ft8xja/stroke_width_transfor_wparallel_processing/)
 <!-- BLOG-POST-LIST:END -->
