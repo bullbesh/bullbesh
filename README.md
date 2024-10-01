@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ryp: R inside Python](https://www.reddit.com/r/Python/comments/1ftuqhj/ryp_r_inside_python/)
+- [Compaqt - A new serializer!](https://www.reddit.com/r/Python/comments/1ftszay/compaqt_a_new_serializer/)
 - [Any state machine fans​ out there?​ Got any fun/awful stories?](https://www.reddit.com/r/Python/comments/1ftndij/any_state_machine_fans_out_there_got_any_funawful/)
 - [Real time RAG in Python](https://www.reddit.com/r/Python/comments/1ftmh8a/real_time_rag_in_python/)
 - [PyUiBuilder: The only Python GUI builder you&#39;ll ever need.](https://www.reddit.com/r/Python/comments/1ftlhvy/pyuibuilder_the_only_python_gui_builder_youll/)
-- [Rant of the Day](https://www.reddit.com/r/Python/comments/1ftl52n/rant_of_the_day/)
-- [I developed a suite of Python Applications - There’s Something Here for Everyone! 😜](https://www.reddit.com/r/Python/comments/1ftkppb/i_developed_a_suite_of_python_applications_theres/)
 <!-- BLOG-POST-LIST:END -->
