@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [DAY TO DAY TASK AS PYTHON DEVELOPER](https://www.reddit.com/r/Python/comments/1ftyztr/day_to_day_task_as_python_developer/)
 - [Get clean markdown from any data source using vision-language models in Python](https://www.reddit.com/r/Python/comments/1ftwu2p/get_clean_markdown_from_any_data_source_using/)
 - [ryp: R inside Python](https://www.reddit.com/r/Python/comments/1ftuqhj/ryp_r_inside_python/)
 - [Compaqt - A new serializer!](https://www.reddit.com/r/Python/comments/1ftszay/compaqt_a_new_serializer/)
 - [Any state machine fans​ out there?​ Got any fun/awful stories?](https://www.reddit.com/r/Python/comments/1ftndij/any_state_machine_fans_out_there_got_any_funawful/)
-- [Real time RAG in Python](https://www.reddit.com/r/Python/comments/1ftmh8a/real_time_rag_in_python/)
 <!-- BLOG-POST-LIST:END -->
