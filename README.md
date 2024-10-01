@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Check out my project - LinguaDoc 🚀](https://www.reddit.com/r/Python/comments/1ftjrlj/check_out_my_project_linguadoc/)
+- [I developed a suite of Python Applications - There’s Something Here for Everyone! 😜](https://www.reddit.com/r/Python/comments/1ftkppb/i_developed_a_suite_of_python_applications_theres/)
 - [Python Video libary, with a twist](https://www.reddit.com/r/Python/comments/1ftigu7/python_video_libary_with_a_twist/)
 - [Ban Transparency from Tim Peters](https://www.reddit.com/r/Python/comments/1ftbjt8/ban_transparency_from_tim_peters/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ftak55/tuesday_daily_thread_advanced_questions/)
