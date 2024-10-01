@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ban Transparency from Tim Peters](https://www.reddit.com/r/Python/comments/1ftbjt8/ban_transparency_from_tim_peters/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ftak55/tuesday_daily_thread_advanced_questions/)
+- [QR code generator](https://www.reddit.com/r/Python/comments/1ftacyx/qr_code_generator/)
 - [Data Mapping in FastAPI](https://www.reddit.com/r/Python/comments/1ft94uy/data_mapping_in_fastapi/)
 - [Stroke Width Transfor w/Parallel Processing](https://www.reddit.com/r/Python/comments/1ft8xja/stroke_width_transfor_wparallel_processing/)
-- [My Open-Source Tool for Instant Audio Transcription to Clipboard 🎙️✍️](https://www.reddit.com/r/Python/comments/1ft7d5q/my_opensource_tool_for_instant_audio/)
-- [Ultimate free python advanced course](https://www.reddit.com/r/Python/comments/1ft5efv/ultimate_free_python_advanced_course/)
-- [Tutorial on type hinting any matrix with Protocol &lpar;compatible with numpy and nested lists&rpar;](https://www.reddit.com/r/Python/comments/1ft3yar/tutorial_on_type_hinting_any_matrix_with_protocol/)
 <!-- BLOG-POST-LIST:END -->
