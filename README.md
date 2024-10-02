@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [CLI tool to clean up virtual environments.](https://www.reddit.com/r/Python/comments/1fu3dz8/cli_tool_to_clean_up_virtual_environments/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1fu2yo4/wednesday_daily_thread_beginner_questions/)
 - [DAY TO DAY TASK AS PYTHON DEVELOPER](https://www.reddit.com/r/Python/comments/1ftyztr/day_to_day_task_as_python_developer/)
 - [Get clean markdown from any data source using vision-language models in Python](https://www.reddit.com/r/Python/comments/1ftwu2p/get_clean_markdown_from_any_data_source_using/)
 - [ryp: R inside Python](https://www.reddit.com/r/Python/comments/1ftuqhj/ryp_r_inside_python/)
-- [Compaqt - A new serializer!](https://www.reddit.com/r/Python/comments/1ftszay/compaqt_a_new_serializer/)
-- [Any state machine fans​ out there?​ Got any fun/awful stories?](https://www.reddit.com/r/Python/comments/1ftndij/any_state_machine_fans_out_there_got_any_funawful/)
 <!-- BLOG-POST-LIST:END -->
