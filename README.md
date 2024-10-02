@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What GUI tools for my project should I use?](https://www.reddit.com/r/Python/comments/1fupokp/what_gui_tools_for_my_project_should_i_use/)
 - [HammerPy - Real-time artwork retrieval and price estimation game](https://www.reddit.com/r/Python/comments/1fuoeld/hammerpy_realtime_artwork_retrieval_and_price/)
 - [Whisper 🤫: LLM&#39;s in your terminal.](https://www.reddit.com/r/Python/comments/1fuoc8f/whisper_llms_in_your_terminal/)
 - [Losing my mind trying to make a QTE!](https://www.reddit.com/r/Python/comments/1fum55z/losing_my_mind_trying_to_make_a_qte/)
 - [Compaqt - a new Python serializer!](https://www.reddit.com/r/Python/comments/1fulsg4/compaqt_a_new_python_serializer/)
-- [proyecto con un Orange Pi 5 MAX y Esp32, la programación la voy a realizar en Python](https://www.reddit.com/r/Python/comments/1fukwvc/proyecto_con_un_orange_pi_5_max_y_esp32_la/)
 <!-- BLOG-POST-LIST:END -->
