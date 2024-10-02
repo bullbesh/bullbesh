@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best way to implement authentication for FastAPI?](https://www.reddit.com/r/Python/comments/1fuq53i/best_way_to_implement_authentication_for_fastapi/)
 - [What GUI tools for my project should I use?](https://www.reddit.com/r/Python/comments/1fupokp/what_gui_tools_for_my_project_should_i_use/)
 - [HammerPy - Real-time artwork retrieval and price estimation game](https://www.reddit.com/r/Python/comments/1fuoeld/hammerpy_realtime_artwork_retrieval_and_price/)
 - [Whisper 🤫: LLM&#39;s in your terminal.](https://www.reddit.com/r/Python/comments/1fuoc8f/whisper_llms_in_your_terminal/)
 - [Losing my mind trying to make a QTE!](https://www.reddit.com/r/Python/comments/1fum55z/losing_my_mind_trying_to_make_a_qte/)
-- [Compaqt - a new Python serializer!](https://www.reddit.com/r/Python/comments/1fulsg4/compaqt_a_new_python_serializer/)
 <!-- BLOG-POST-LIST:END -->
