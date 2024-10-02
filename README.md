@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [4chan scraper does not work anymore](https://www.reddit.com/r/Python/comments/1fuaos8/4chan_scraper_does_not_work_anymore/)
 - [Yami - A music player made with Tkinter](https://www.reddit.com/r/Python/comments/1fu9kox/yami_a_music_player_made_with_tkinter/)
 - [How to build and optimize a library in python using C++](https://www.reddit.com/r/Python/comments/1fu54qp/how_to_build_and_optimize_a_library_in_python/)
 - [CLI tool to clean up virtual environments.](https://www.reddit.com/r/Python/comments/1fu3dz8/cli_tool_to_clean_up_virtual_environments/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1fu2yo4/wednesday_daily_thread_beginner_questions/)
-- [Get clean markdown from any data source using vision-language models in Python](https://www.reddit.com/r/Python/comments/1ftwu2p/get_clean_markdown_from_any_data_source_using/)
 <!-- BLOG-POST-LIST:END -->
