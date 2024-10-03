@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyTraceToIX - expression tracer for debugging lambdas, comprehensions, method chaining, and expr.](https://www.reddit.com/r/Python/comments/1fvh1wq/pytracetoix_expression_tracer_for_debugging/)
 - [Django AI Assistant for VS Code](https://www.reddit.com/r/Python/comments/1fvdca4/django_ai_assistant_for_vs_code/)
 - [A Simple and Reliable Python Wrapper for Chrono24](https://www.reddit.com/r/Python/comments/1fvakix/a_simple_and_reliable_python_wrapper_for_chrono24/)
 - [Copy right for pandas syntax?](https://www.reddit.com/r/Python/comments/1fvaeng/copy_right_for_pandas_syntax/)
 - [Custom keymaps in Textual](https://www.reddit.com/r/Python/comments/1fv4fqa/custom_keymaps_in_textual/)
-- [Livestream Today: Python 3.13 Features with Łukasz Langa and Tania Allard](https://www.reddit.com/r/Python/comments/1fv3rcd/livestream_today_python_313_features_with_łukasz/)
 <!-- BLOG-POST-LIST:END -->
