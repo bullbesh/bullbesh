@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [man im so lost im typing my type hints](https://www.reddit.com/r/Python/comments/1fvi1ke/man_im_so_lost_im_typing_my_type_hints/)
+- [70+ Python Leetcode Problems solved in 5+hours &lpar;every data structure&rpar;](https://www.reddit.com/r/Python/comments/1fvjnhz/70_python_leetcode_problems_solved_in_5hours/)
 - [AG Grid in Reflex for Data Tables in your Python Web Apps](https://www.reddit.com/r/Python/comments/1fvhgol/ag_grid_in_reflex_for_data_tables_in_your_python/)
 - [PyTraceToIX - expression tracer for debugging lambdas, comprehensions, method chaining, and expr.](https://www.reddit.com/r/Python/comments/1fvh1wq/pytracetoix_expression_tracer_for_debugging/)
 - [Django AI Assistant for VS Code](https://www.reddit.com/r/Python/comments/1fvdca4/django_ai_assistant_for_vs_code/)
