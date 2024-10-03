@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Simple and Reliable Python Wrapper for Chrono24](https://www.reddit.com/r/Python/comments/1fvakix/a_simple_and_reliable_python_wrapper_for_chrono24/)
+- [Copy right for pandas syntax?](https://www.reddit.com/r/Python/comments/1fvaeng/copy_right_for_pandas_syntax/)
 - [Custom keymaps in Textual](https://www.reddit.com/r/Python/comments/1fv4fqa/custom_keymaps_in_textual/)
 - [Livestream Today: Python 3.13 Features with Łukasz Langa and Tania Allard](https://www.reddit.com/r/Python/comments/1fv3rcd/livestream_today_python_313_features_with_łukasz/)
 - [I wrote a library that adds a @depends&lpar;&rpar; decorator for FastAPI endpoints](https://www.reddit.com/r/Python/comments/1fv3hbs/i_wrote_a_library_that_adds_a_depends_decorator/)
-- [v8serialize – Read/write JavaScript values from Python using V8&#39;s serialization format](https://www.reddit.com/r/Python/comments/1fv305d/v8serialize_readwrite_javascript_values_from/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1fuuq86/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
