@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing My Text-to-Reels Generator: Create Engaging Video Content Effortlessly!](https://www.reddit.com/r/Python/comments/1fvo0lg/introducing_my_texttoreels_generator_create/)
 - [PEP 758 – Allow `except` and `except*` expressions without parentheses](https://www.reddit.com/r/Python/comments/1fvnlol/pep_758_allow_except_and_except_expressions/)
 - [Learn How to Use JSON as a Small Database for Your Py Projects by Building a Hotel Accounting System](https://www.reddit.com/r/Python/comments/1fvmvlj/learn_how_to_use_json_as_a_small_database_for/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1fvm1no/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Introducing DelugeWebClient](https://www.reddit.com/r/Python/comments/1fvkya3/introducing_delugewebclient/)
-- [70+ Python Leetcode Problems solved in 5+hours &lpar;every data structure&rpar;](https://www.reddit.com/r/Python/comments/1fvjnhz/70_python_leetcode_problems_solved_in_5hours/)
 <!-- BLOG-POST-LIST:END -->
