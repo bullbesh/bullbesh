@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lazywarden: Automate your Bitwarden Backups and Imports with Total Security! ☁️🔐🖥️](https://www.reddit.com/r/Python/comments/1fvw58w/lazywarden_automate_your_bitwarden_backups_and/)
 - [htmy: Async, pure-Python HTML rendering library](https://www.reddit.com/r/Python/comments/1fvv11p/htmy_async_purepython_html_rendering_library/)
 - [could anyone ever get the scalene profiler to work from inside their python code?](https://www.reddit.com/r/Python/comments/1fvuyz4/could_anyone_ever_get_the_scalene_profiler_to/)
 - [Basic FP in Python](https://www.reddit.com/r/Python/comments/1fvummw/basic_fp_in_python/)
 - [Introducing My Text-to-Reels Generator: Create Engaging Video Content Effortlessly!](https://www.reddit.com/r/Python/comments/1fvo0lg/introducing_my_texttoreels_generator_create/)
-- [PEP 758 – Allow `except` and `except*` expressions without parentheses](https://www.reddit.com/r/Python/comments/1fvnlol/pep_758_allow_except_and_except_expressions/)
 <!-- BLOG-POST-LIST:END -->
