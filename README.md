@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I never realized how complicated slice assignments are in Python...](https://www.reddit.com/r/Python/comments/1fvyu8b/i_never_realized_how_complicated_slice/)
 - [I made a dumb simple GMAIL client... only for sending emails from gmail.](https://www.reddit.com/r/Python/comments/1fvxpkj/i_made_a_dumb_simple_gmail_client_only_for/)
 - [Lazywarden: Automate your Bitwarden Backups and Imports with Total Security! ☁️🔐🖥️](https://www.reddit.com/r/Python/comments/1fvw58w/lazywarden_automate_your_bitwarden_backups_and/)
 - [htmy: Async, pure-Python HTML rendering library](https://www.reddit.com/r/Python/comments/1fvv11p/htmy_async_purepython_html_rendering_library/)
 - [could anyone ever get the scalene profiler to work from inside their python code?](https://www.reddit.com/r/Python/comments/1fvuyz4/could_anyone_ever_get_the_scalene_profiler_to/)
-- [Basic FP in Python](https://www.reddit.com/r/Python/comments/1fvummw/basic_fp_in_python/)
 <!-- BLOG-POST-LIST:END -->
