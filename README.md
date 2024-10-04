@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What Python feature made you a better developer?](https://www.reddit.com/r/Python/comments/1fwab0s/what_python_feature_made_you_a_better_developer/)
+- [Stake&#39;s Popular Plinko with Python](https://www.reddit.com/r/Python/comments/1fwa6uc/stakes_popular_plinko_with_python/)
 - [The benefit of no safety net?](https://www.reddit.com/r/Python/comments/1fw6ews/the_benefit_of_no_safety_net/)
 - [smtplib: Authentication unsuccessful, basic authentication is disabled](https://www.reddit.com/r/Python/comments/1fw5iza/smtplib_authentication_unsuccessful_basic/)
 - [My TLS wrapper reached 3k downloads/mo](https://www.reddit.com/r/Python/comments/1fw2mfk/my_tls_wrapper_reached_3k_downloadsmo/)
-- [I never realized how complicated slice assignments are in Python...](https://www.reddit.com/r/Python/comments/1fvyu8b/i_never_realized_how_complicated_slice/)
-- [I made a dumb simple GMAIL client... only for sending emails from gmail.](https://www.reddit.com/r/Python/comments/1fvxpkj/i_made_a_dumb_simple_gmail_client_only_for/)
 <!-- BLOG-POST-LIST:END -->
