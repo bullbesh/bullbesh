@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Segregate By Date: Sort your photos into year and month folders based on filename and EXIF metadata](https://www.reddit.com/r/Python/comments/1fwo463/segregate_by_date_sort_your_photos_into_year_and/)
 - [I&#39;d like to introduce Peeks.](https://www.reddit.com/r/Python/comments/1fwjqmh/id_like_to_introduce_peeks/)
 - [3.13 JIT compiler VS Numba](https://www.reddit.com/r/Python/comments/1fwewvg/313_jit_compiler_vs_numba/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1fwdjon/saturday_daily_thread_resource_request_and/)
 - [ovld - fast and featureful multiple dispatch](https://www.reddit.com/r/Python/comments/1fwdgal/ovld_fast_and_featureful_multiple_dispatch/)
-- [OpenSource, Drones and Python?](https://www.reddit.com/r/Python/comments/1fwcy4z/opensource_drones_and_python/)
 <!-- BLOG-POST-LIST:END -->
