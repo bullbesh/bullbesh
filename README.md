@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reintroducing Peeks! &lpar;Git version&rpar; :&rpar;](https://www.reddit.com/r/Python/comments/1fww4sw/reintroducing_peeks_git_version/)
+- [Searching for Aim Assist and Auto Shooting Software for Roblox Rivals](https://www.reddit.com/r/Python/comments/1fww3g7/searching_for_aim_assist_and_auto_shooting/)
+- [Hello Python Gang - Security Update.](https://www.reddit.com/r/Python/comments/1fwvvrj/hello_python_gang_security_update/)
 - [Free Python Learning with Literal Baby Steps](https://www.reddit.com/r/Python/comments/1fwun6b/free_python_learning_with_literal_baby_steps/)
 - [Terminal Anime Browsing redefined](https://www.reddit.com/r/Python/comments/1fwt65b/terminal_anime_browsing_redefined/)
-- [Segregate By Date: Sort your photos into year and month folders based on filename and EXIF metadata](https://www.reddit.com/r/Python/comments/1fwo463/segregate_by_date_sort_your_photos_into_year_and/)
-- [3.13 JIT compiler VS Numba](https://www.reddit.com/r/Python/comments/1fwewvg/313_jit_compiler_vs_numba/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1fwdjon/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
