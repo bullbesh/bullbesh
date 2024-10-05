@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [3.13 JIT compiler VS Numba](https://www.reddit.com/r/Python/comments/1fwewvg/313_jit_compiler_vs_numba/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1fwdjon/saturday_daily_thread_resource_request_and/)
+- [ovld - fast and featureful multiple dispatch](https://www.reddit.com/r/Python/comments/1fwdgal/ovld_fast_and_featureful_multiple_dispatch/)
+- [OpenSource, Drones and Python?](https://www.reddit.com/r/Python/comments/1fwcy4z/opensource_drones_and_python/)
 - [What Python feature made you a better developer?](https://www.reddit.com/r/Python/comments/1fwab0s/what_python_feature_made_you_a_better_developer/)
-- [Stake&#39;s Popular Plinko with Python](https://www.reddit.com/r/Python/comments/1fwa6uc/stakes_popular_plinko_with_python/)
-- [The benefit of no safety net?](https://www.reddit.com/r/Python/comments/1fw6ews/the_benefit_of_no_safety_net/)
-- [smtplib: Authentication unsuccessful, basic authentication is disabled](https://www.reddit.com/r/Python/comments/1fw5iza/smtplib_authentication_unsuccessful_basic/)
-- [My TLS wrapper reached 3k downloads/mo](https://www.reddit.com/r/Python/comments/1fw2mfk/my_tls_wrapper_reached_3k_downloadsmo/)
 <!-- BLOG-POST-LIST:END -->
