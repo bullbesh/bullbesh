@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1fx3vfc/sunday_daily_thread_whats_everyone_working_on/)
 - [Python 3 Reduction of privileges in code - problem &lpar;Windows&rpar;](https://www.reddit.com/r/Python/comments/1fwze07/python_3_reduction_of_privileges_in_code_problem/)
 - [Way of carreer and development](https://www.reddit.com/r/Python/comments/1fwxg23/way_of_carreer_and_development/)
-- [Reintroducing Peeks! &lpar;Git version&rpar; :&rpar;](https://www.reddit.com/r/Python/comments/1fww4sw/reintroducing_peeks_git_version/)
 - [Hello Python Gang - Security Update.](https://www.reddit.com/r/Python/comments/1fwvvrj/hello_python_gang_security_update/)
 - [Free Python Learning with Literal Baby Steps](https://www.reddit.com/r/Python/comments/1fwun6b/free_python_learning_with_literal_baby_steps/)
 <!-- BLOG-POST-LIST:END -->
