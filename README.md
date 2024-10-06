@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fortnite Api statistiques](https://www.reddit.com/r/Python/comments/1fxejyc/fortnite_api_statistiques/)
+- [Complete Reddit Backup- A BDFR enhancement: Archive reddit saved posts periodically](https://www.reddit.com/r/Python/comments/1fxeglk/complete_reddit_backup_a_bdfr_enhancement_archive/)
 - [I wanna create something fun and useful in Python](https://www.reddit.com/r/Python/comments/1fxd8g3/i_wanna_create_something_fun_and_useful_in_python/)
 - [Are there any DX standards for building API in a Python library that works with dataframes?](https://www.reddit.com/r/Python/comments/1fxbf9o/are_there_any_dx_standards_for_building_api_in_a/)
 - [How to measure python coroutine context switch time?](https://www.reddit.com/r/Python/comments/1fx9tgr/how_to_measure_python_coroutine_context_switch/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1fx3vfc/sunday_daily_thread_whats_everyone_working_on/)
-- [Python 3 Reduction of privileges in code - problem &lpar;Windows&rpar;](https://www.reddit.com/r/Python/comments/1fwze07/python_3_reduction_of_privileges_in_code_problem/)
 <!-- BLOG-POST-LIST:END -->
