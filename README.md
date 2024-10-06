@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [EPIC Game API Fortnite](https://www.reddit.com/r/Python/comments/1fxmip1/epic_game_api_fortnite/)
 - [Best Free course for data analyst?](https://www.reddit.com/r/Python/comments/1fxkces/best_free_course_for_data_analyst/)
 - [Python is awesome! Speed up Pandas point queries by 100x or even 1000x times.](https://www.reddit.com/r/Python/comments/1fxgkj6/python_is_awesome_speed_up_pandas_point_queries/)
 - [Complete Reddit Backup- A BDFR enhancement: Archive reddit saved posts periodically](https://www.reddit.com/r/Python/comments/1fxeglk/complete_reddit_backup_a_bdfr_enhancement_archive/)
 - [I wanna create something fun and useful in Python](https://www.reddit.com/r/Python/comments/1fxd8g3/i_wanna_create_something_fun_and_useful_in_python/)
-- [Are there any DX standards for building API in a Python library that works with dataframes?](https://www.reddit.com/r/Python/comments/1fxbf9o/are_there_any_dx_standards_for_building_api_in_a/)
 <!-- BLOG-POST-LIST:END -->
