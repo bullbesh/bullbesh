@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flashcards from the command line](https://www.reddit.com/r/Python/comments/1fyepk5/flashcards_from_the_command_line/)
+- [Python 3.13&#39;s best new features](https://www.reddit.com/r/Python/comments/1fyeo1g/python_313s_best_new_features/)
+- [Best Markdown Tools &amp; Services?](https://www.reddit.com/r/Python/comments/1fydvmz/best_markdown_tools_services/)
 - [Python 3.13 released](https://www.reddit.com/r/Python/comments/1fybncq/python_313_released/)
-- [What’s New In Python 3.13](https://www.reddit.com/r/Python/comments/1fybmy7/whats_new_in_python_313/)
 - [what&#39;s it&#39;s like being a library developer?](https://www.reddit.com/r/Python/comments/1fy7wty/whats_its_like_being_a_library_developer/)
-- [Python versus Wolfram Language: Is there anything like Wolfram Notebook with Python?](https://www.reddit.com/r/Python/comments/1fy72d2/python_versus_wolfram_language_is_there_anything/)
-- [numpy tutorial - Spyder 6 IDE](https://www.reddit.com/r/Python/comments/1fy5vp3/numpy_tutorial_spyder_6_ide/)
 <!-- BLOG-POST-LIST:END -->
