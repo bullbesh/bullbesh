@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ZMAG &lpar;ZeroMQ &amp; GraphQL&rpar;](https://www.reddit.com/r/Python/comments/1fykybi/zmag_zeromq_graphql/)
 - [openai-gradio, Python package for making web apps with Open AI API](https://www.reddit.com/r/Python/comments/1fykcvz/openaigradio_python_package_for_making_web_apps/)
 - [🎙️ Podcastfy: An Open Source Python Package to Transform Text into an AI-Powered Podcast](https://www.reddit.com/r/Python/comments/1fyk3dy/podcastfy_an_open_source_python_package_to/)
 - [Flashcards from the command line](https://www.reddit.com/r/Python/comments/1fyepk5/flashcards_from_the_command_line/)
 - [Python 3.13&#39;s best new features](https://www.reddit.com/r/Python/comments/1fyeo1g/python_313s_best_new_features/)
-- [Python 3.13 released](https://www.reddit.com/r/Python/comments/1fybncq/python_313_released/)
 <!-- BLOG-POST-LIST:END -->
