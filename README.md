@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.13 released](https://www.reddit.com/r/Python/comments/1fybncq/python_313_released/)
+- [What’s New In Python 3.13](https://www.reddit.com/r/Python/comments/1fybmy7/whats_new_in_python_313/)
 - [what&#39;s it&#39;s like being a library developer?](https://www.reddit.com/r/Python/comments/1fy7wty/whats_its_like_being_a_library_developer/)
 - [Python versus Wolfram Language: Is there anything like Wolfram Notebook with Python?](https://www.reddit.com/r/Python/comments/1fy72d2/python_versus_wolfram_language_is_there_anything/)
 - [numpy tutorial - Spyder 6 IDE](https://www.reddit.com/r/Python/comments/1fy5vp3/numpy_tutorial_spyder_6_ide/)
-- [How significant is the impact of different base case values in Strassen Matrix Multiplication Method](https://www.reddit.com/r/Python/comments/1fy502i/how_significant_is_the_impact_of_different_base/)
-- [gs-batch-pdf: a cli for compressing, converting to pdf/a multiple pdfs in parallel](https://www.reddit.com/r/Python/comments/1fy4zec/gsbatchpdf_a_cli_for_compressing_converting_to/)
 <!-- BLOG-POST-LIST:END -->
