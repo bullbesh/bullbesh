@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bleak and Kivy, somebody can share a working example for Android?](https://www.reddit.com/r/Python/comments/1fxx23a/bleak_and_kivy_somebody_can_share_a_working/)
 - [Helios: a light-weight system for training AI networks using PyTorch](https://www.reddit.com/r/Python/comments/1fxuqid/helios_a_lightweight_system_for_training_ai/)
 - [Arakawa: Build data reports in 100% Python &lpar;a fork of Datapane&rpar;](https://www.reddit.com/r/Python/comments/1fxuqh5/arakawa_build_data_reports_in_100_python_a_fork/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1fxukcp/monday_daily_thread_project_ideas/)
 - [EPIC Game API Fortnite](https://www.reddit.com/r/Python/comments/1fxmip1/epic_game_api_fortnite/)
-- [Best Free course for data analyst?](https://www.reddit.com/r/Python/comments/1fxkces/best_free_course_for_data_analyst/)
 <!-- BLOG-POST-LIST:END -->
