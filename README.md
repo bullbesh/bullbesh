@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [WHAT DOES RANDN&lpar;&rpar; ACTUALLY MEAN THO](https://www.reddit.com/r/Python/comments/1fxsfhr/what_does_randn_actually_mean_tho/)
+- [Helios: a light-weight system for training AI networks using PyTorch](https://www.reddit.com/r/Python/comments/1fxuqid/helios_a_lightweight_system_for_training_ai/)
+- [Arakawa: Build data reports in 100% Python &lpar;a fork of Datapane&rpar;](https://www.reddit.com/r/Python/comments/1fxuqh5/arakawa_build_data_reports_in_100_python_a_fork/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1fxukcp/monday_daily_thread_project_ideas/)
 - [EPIC Game API Fortnite](https://www.reddit.com/r/Python/comments/1fxmip1/epic_game_api_fortnite/)
 - [Best Free course for data analyst?](https://www.reddit.com/r/Python/comments/1fxkces/best_free_course_for_data_analyst/)
-- [Python is awesome! Speed up Pandas point queries by 100x or even 1000x times.](https://www.reddit.com/r/Python/comments/1fxgkj6/python_is_awesome_speed_up_pandas_point_queries/)
-- [Complete Reddit Backup- A BDFR enhancement: Archive reddit saved posts periodically](https://www.reddit.com/r/Python/comments/1fxeglk/complete_reddit_backup_a_bdfr_enhancement_archive/)
 <!-- BLOG-POST-LIST:END -->
