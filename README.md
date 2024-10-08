@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [2024 Python Developers Survey](https://www.reddit.com/r/Python/comments/1fz1siq/2024_python_developers_survey/)
 - [Loading private key of a certificate in local windows machine store](https://www.reddit.com/r/Python/comments/1fz0ud0/loading_private_key_of_a_certificate_in_local/)
 - [Niquests v3.9.0 Released](https://www.reddit.com/r/Python/comments/1fyv8uh/niquests_v390_released/)
 - [ZMAG &lpar;ZeroMQ &amp; GraphQL&rpar;](https://www.reddit.com/r/Python/comments/1fyu9v6/zmag_zeromq_graphql/)
 - [Pylon: A Web-Based GUI Library for Desktop Applications](https://www.reddit.com/r/Python/comments/1fysjpn/pylon_a_webbased_gui_library_for_desktop/)
-- [LlamaSim: Simulate election polling using LLMs](https://www.reddit.com/r/Python/comments/1fynpq7/llamasim_simulate_election_polling_using_llms/)
 <!-- BLOG-POST-LIST:END -->
