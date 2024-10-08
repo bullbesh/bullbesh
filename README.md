@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Loading private key of a certificate in local windows machine store](https://www.reddit.com/r/Python/comments/1fz0ud0/loading_private_key_of_a_certificate_in_local/)
 - [Niquests v3.9.0 Released](https://www.reddit.com/r/Python/comments/1fyv8uh/niquests_v390_released/)
 - [ZMAG &lpar;ZeroMQ &amp; GraphQL&rpar;](https://www.reddit.com/r/Python/comments/1fyu9v6/zmag_zeromq_graphql/)
 - [Pylon: A Web-Based GUI Library for Desktop Applications](https://www.reddit.com/r/Python/comments/1fysjpn/pylon_a_webbased_gui_library_for_desktop/)
 - [LlamaSim: Simulate election polling using LLMs](https://www.reddit.com/r/Python/comments/1fynpq7/llamasim_simulate_election_polling_using_llms/)
-- [Just Released Version 0.5.0 of Django Action Triggers!](https://www.reddit.com/r/Python/comments/1fyn04j/just_released_version_050_of_django_action/)
 <!-- BLOG-POST-LIST:END -->
