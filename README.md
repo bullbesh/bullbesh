@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Recording and Detecting Faces](https://www.reddit.com/r/Python/comments/1fyo16d/recording_and_detecting_faces/)
+- [Pylon: A Web-Based GUI Library for Desktop Applications](https://www.reddit.com/r/Python/comments/1fysjpn/pylon_a_webbased_gui_library_for_desktop/)
 - [LlamaSim: Simulate election polling using LLMs](https://www.reddit.com/r/Python/comments/1fynpq7/llamasim_simulate_election_polling_using_llms/)
 - [Just Released Version 0.5.0 of Django Action Triggers!](https://www.reddit.com/r/Python/comments/1fyn04j/just_released_version_050_of_django_action/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1fymjo9/tuesday_daily_thread_advanced_questions/)
-- [ZMAG &lpar;ZeroMQ &amp; GraphQL&rpar;](https://www.reddit.com/r/Python/comments/1fykybi/zmag_zeromq_graphql/)
+- [openai-gradio, Python package for making web apps with Open AI API](https://www.reddit.com/r/Python/comments/1fykcvz/openaigradio_python_package_for_making_web_apps/)
 <!-- BLOG-POST-LIST:END -->
