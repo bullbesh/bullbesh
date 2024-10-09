@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What to use instead of callbacks?](https://www.reddit.com/r/Python/comments/1g02dtg/what_to_use_instead_of_callbacks/)
 - [Interfacing a separate service in my Django Backend](https://www.reddit.com/r/Python/comments/1g0123u/interfacing_a_separate_service_in_my_django/)
 - [[blog post] Hugging Face + Dask for parallel data processing and model inference](https://www.reddit.com/r/Python/comments/1fzyh7x/blog_post_hugging_face_dask_for_parallel_data/)
 - [PEP 760 – No More Bare Excepts](https://www.reddit.com/r/Python/comments/1fzxwj3/pep_760_no_more_bare_excepts/)
 - [What personal challenges have you solved using Python? Any interesting projects or automations?](https://www.reddit.com/r/Python/comments/1fzupwm/what_personal_challenges_have_you_solved_using/)
-- [Speeding up unit tests in CI/CD](https://www.reddit.com/r/Python/comments/1fzreee/speeding_up_unit_tests_in_cicd/)
 <!-- BLOG-POST-LIST:END -->
