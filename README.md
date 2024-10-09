@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimization Based Customer Segmentation](https://www.reddit.com/r/Python/comments/1fzolb1/optimization_based_customer_segmentation/)
+- [UXsim 1.7.0 released: Network traffic flow simulator reduces memory usage by ~50%](https://www.reddit.com/r/Python/comments/1fzobvk/uxsim_170_released_network_traffic_flow_simulator/)
 - [Python Image Library question &lpar;colors changed after PNG to JPG conversion&rpar;](https://www.reddit.com/r/Python/comments/1fzm95n/python_image_library_question_colors_changed/)
 - [Generate Python CRUD APIs using GenAI](https://www.reddit.com/r/Python/comments/1fzkxzn/generate_python_crud_apis_using_genai/)
 - [I Made Spotify Premium, But This Time It&#39;s Free](https://www.reddit.com/r/Python/comments/1fzidjo/i_made_spotify_premium_but_this_time_its_free/)
-- [Releasing TorchImager: A lightweight library for visualizing PyTorch tensors directly on GPU](https://www.reddit.com/r/Python/comments/1fzg8q6/releasing_torchimager_a_lightweight_library_for/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1fzeenv/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
