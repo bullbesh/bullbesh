@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Made Spotify Premium, But This Time It&#39;s Free](https://www.reddit.com/r/Python/comments/1fzidjo/i_made_spotify_premium_but_this_time_its_free/)
 - [Releasing TorchImager: A lightweight library for visualizing PyTorch tensors directly on GPU](https://www.reddit.com/r/Python/comments/1fzg8q6/releasing_torchimager_a_lightweight_library_for/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1fzeenv/wednesday_daily_thread_beginner_questions/)
 - [Webcurses Roguelike - the quest to minimize screen update size](https://www.reddit.com/r/Python/comments/1fzdb8d/webcurses_roguelike_the_quest_to_minimize_screen/)
 - [ebay pokemon deal finder pokemon](https://www.reddit.com/r/Python/comments/1fzc3l2/ebay_pokemon_deal_finder_pokemon/)
-- [I make a python library for use as wrapper and transform a pdf in html without lose format](https://www.reddit.com/r/Python/comments/1fz9ynu/i_make_a_python_library_for_use_as_wrapper_and/)
 <!-- BLOG-POST-LIST:END -->
