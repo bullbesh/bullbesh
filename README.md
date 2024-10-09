@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 760 – No More Bare Excepts](https://www.reddit.com/r/Python/comments/1fzxwj3/pep_760_no_more_bare_excepts/)
 - [Python Password](https://www.reddit.com/r/Python/comments/1fzwigk/python_password/)
 - [finding stock tickers from article headling](https://www.reddit.com/r/Python/comments/1fzw8b5/finding_stock_tickers_from_article_headling/)
 - [What personal challenges have you solved using Python? Any interesting projects or automations?](https://www.reddit.com/r/Python/comments/1fzupwm/what_personal_challenges_have_you_solved_using/)
 - [Speeding up unit tests in CI/CD](https://www.reddit.com/r/Python/comments/1fzreee/speeding_up_unit_tests_in_cicd/)
-- [Created a Script for myself, thought others might need it as well. Python Env Cleaner](https://www.reddit.com/r/Python/comments/1fzr4sj/created_a_script_for_myself_thought_others_might/)
 <!-- BLOG-POST-LIST:END -->
