@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A FREE goldmine of tutorials about Prompt Engineering!](https://www.reddit.com/r/Python/comments/1g0qhxc/a_free_goldmine_of_tutorials_about_prompt/)
+- [Introducing Eventum ASGI, a Python framework simplifying the creation of WebSocket-based apps](https://www.reddit.com/r/Python/comments/1g0px5z/introducing_eventum_asgi_a_python_framework/)
 - [My first Python package, for creating queries using including Pydantic/SqlAlchemy.](https://www.reddit.com/r/Python/comments/1g0mzvh/my_first_python_package_for_creating_queries/)
 - [What I Learned from Making the Python Back End for My New Webapp](https://www.reddit.com/r/Python/comments/1g0jybv/what_i_learned_from_making_the_python_back_end/)
 - [PEP 735 Dependency Groups is accepted](https://www.reddit.com/r/Python/comments/1g0iqfr/pep_735_dependency_groups_is_accepted/)
-- [PSA: If you&#39;re starting a new project, try astral/uv!](https://www.reddit.com/r/Python/comments/1g0imjf/psa_if_youre_starting_a_new_project_try_astraluv/)
-- [folder-organization script](https://www.reddit.com/r/Python/comments/1g0f1vv/folderorganization_script/)
 <!-- BLOG-POST-LIST:END -->
