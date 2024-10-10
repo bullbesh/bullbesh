@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m working on an Automated PS4 Controller using Python!](https://www.reddit.com/r/Python/comments/1g0s0h7/im_working_on_an_automated_ps4_controller_using/)
+- [Hey dudes, Im programmer and I have 3 no questions](https://www.reddit.com/r/Python/comments/1g0rx9g/hey_dudes_im_programmer_and_i_have_3_no_questions/)
 - [A FREE goldmine of tutorials about Prompt Engineering!](https://www.reddit.com/r/Python/comments/1g0qhxc/a_free_goldmine_of_tutorials_about_prompt/)
 - [Introducing Eventum ASGI, a Python framework simplifying the creation of WebSocket-based apps](https://www.reddit.com/r/Python/comments/1g0px5z/introducing_eventum_asgi_a_python_framework/)
 - [My first Python package, for creating queries using including Pydantic/SqlAlchemy.](https://www.reddit.com/r/Python/comments/1g0mzvh/my_first_python_package_for_creating_queries/)
-- [What I Learned from Making the Python Back End for My New Webapp](https://www.reddit.com/r/Python/comments/1g0jybv/what_i_learned_from_making_the_python_back_end/)
-- [PEP 735 Dependency Groups is accepted](https://www.reddit.com/r/Python/comments/1g0iqfr/pep_735_dependency_groups_is_accepted/)
 <!-- BLOG-POST-LIST:END -->
