@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 735 Dependency Groups is accepted](https://www.reddit.com/r/Python/comments/1g0iqfr/pep_735_dependency_groups_is_accepted/)
+- [Libraries &amp; Frameworks](https://www.reddit.com/r/Python/comments/1g0ipj5/libraries_frameworks/)
+- [PSA: If you&#39;re starting a new project, try astral/uv!](https://www.reddit.com/r/Python/comments/1g0imjf/psa_if_youre_starting_a_new_project_try_astraluv/)
 - [folder-organization script](https://www.reddit.com/r/Python/comments/1g0f1vv/folderorganization_script/)
 - [requests.get sends keep-alive but we don&#39;t reuse the connection](https://www.reddit.com/r/Python/comments/1g0ey78/requestsget_sends_keepalive_but_we_dont_reuse_the/)
-- [AI Agents in 40 minutes](https://www.reddit.com/r/Python/comments/1g0e7ms/ai_agents_in_40_minutes/)
-- [Petition for Python 3.14 to be called &#39;PiThon or &#39;πthon&#39;](https://www.reddit.com/r/Python/comments/1g0a94c/petition_for_python_314_to_be_called_pithon_or/)
-- [ParScrape v0.4.6 Released](https://www.reddit.com/r/Python/comments/1g06arb/parscrape_v046_released/)
 <!-- BLOG-POST-LIST:END -->
