@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Unofficial Python client for Grok models &lpar;xAI&rpar; with your X account](https://www.reddit.com/r/Python/comments/1g0u7w2/unofficial_python_client_for_grok_models_xai_with/)
+- [send post requests to submit shopify checkout in python ?](https://www.reddit.com/r/Python/comments/1g0v0fm/send_post_requests_to_submit_shopify_checkout_in/)
 - [I&#39;m working on an Automated PS4 Controller using Python!](https://www.reddit.com/r/Python/comments/1g0s0h7/im_working_on_an_automated_ps4_controller_using/)
 - [Introducing Eventum ASGI, a Python framework simplifying the creation of WebSocket-based apps](https://www.reddit.com/r/Python/comments/1g0px5z/introducing_eventum_asgi_a_python_framework/)
 - [My first Python package, for creating queries using including Pydantic/SqlAlchemy.](https://www.reddit.com/r/Python/comments/1g0mzvh/my_first_python_package_for_creating_queries/)
