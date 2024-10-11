@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python.org stylesheet 404 - Is it just me?](https://www.reddit.com/r/Python/comments/1g1ajjy/pythonorg_stylesheet_404_is_it_just_me/)
 - [Secure Password Manager](https://www.reddit.com/r/Python/comments/1g196r4/secure_password_manager/)
 - [Hi everyone! Argy Java dev trying to enter this world](https://www.reddit.com/r/Python/comments/1g1950h/hi_everyone_argy_java_dev_trying_to_enter_this/)
 - [Automatic Flowcharts](https://www.reddit.com/r/Python/comments/1g190dl/automatic_flowcharts/)
 - [Want to learn on the go. Any good mobile apps?](https://www.reddit.com/r/Python/comments/1g18qt0/want_to_learn_on_the_go_any_good_mobile_apps/)
-- [Tkinter based package for sending GUI alerts / notifications, named tk-alert](https://www.reddit.com/r/Python/comments/1g17jeq/tkinter_based_package_for_sending_gui_alerts/)
 <!-- BLOG-POST-LIST:END -->
