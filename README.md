@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Secure Password Manager](https://www.reddit.com/r/Python/comments/1g196r4/secure_password_manager/)
+- [Hi everyone! Argy Java dev trying to enter this world](https://www.reddit.com/r/Python/comments/1g1950h/hi_everyone_argy_java_dev_trying_to_enter_this/)
+- [Automatic Flowcharts](https://www.reddit.com/r/Python/comments/1g190dl/automatic_flowcharts/)
 - [Want to learn on the go. Any good mobile apps?](https://www.reddit.com/r/Python/comments/1g18qt0/want_to_learn_on_the_go_any_good_mobile_apps/)
 - [Tkinter based package for sending GUI alerts / notifications, named tk-alert](https://www.reddit.com/r/Python/comments/1g17jeq/tkinter_based_package_for_sending_gui_alerts/)
-- [Wont let me input keras.layers into my script and I am not sure why](https://www.reddit.com/r/Python/comments/1g15w1g/wont_let_me_input_keraslayers_into_my_script_and/)
-- [[Updated] Summary of Major Changes Between Python Versions](https://www.reddit.com/r/Python/comments/1g15i7n/updated_summary_of_major_changes_between_python/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1g0ww31/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
