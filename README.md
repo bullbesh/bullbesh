@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Courses or resources for someone self-taught](https://www.reddit.com/r/Python/comments/1g1b4tv/courses_or_resources_for_someone_selftaught/)
+- [Pyinstrument v5.0 - flamegraphs for Python!](https://www.reddit.com/r/Python/comments/1g1az6i/pyinstrument_v50_flamegraphs_for_python/)
 - [Python.org stylesheet 404 - Is it just me?](https://www.reddit.com/r/Python/comments/1g1ajjy/pythonorg_stylesheet_404_is_it_just_me/)
 - [Secure Password Manager](https://www.reddit.com/r/Python/comments/1g196r4/secure_password_manager/)
 - [Hi everyone! Argy Java dev trying to enter this world](https://www.reddit.com/r/Python/comments/1g1950h/hi_everyone_argy_java_dev_trying_to_enter_this/)
-- [Automatic Flowcharts](https://www.reddit.com/r/Python/comments/1g190dl/automatic_flowcharts/)
-- [Want to learn on the go. Any good mobile apps?](https://www.reddit.com/r/Python/comments/1g18qt0/want_to_learn_on_the_go_any_good_mobile_apps/)
 <!-- BLOG-POST-LIST:END -->
