@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A new take on dependency injection in Python](https://www.reddit.com/r/Python/comments/1g1dp8i/a_new_take_on_dependency_injection_in_python/)
+- [Opinions on Inclusive / Exclusive Upper Bounds](https://www.reddit.com/r/Python/comments/1g1cx5i/opinions_on_inclusive_exclusive_upper_bounds/)
 - [Courses or resources for someone self-taught](https://www.reddit.com/r/Python/comments/1g1b4tv/courses_or_resources_for_someone_selftaught/)
 - [Pyinstrument v5.0 - flamegraphs for Python!](https://www.reddit.com/r/Python/comments/1g1az6i/pyinstrument_v50_flamegraphs_for_python/)
 - [Python.org stylesheet 404 - Is it just me?](https://www.reddit.com/r/Python/comments/1g1ajjy/pythonorg_stylesheet_404_is_it_just_me/)
-- [Secure Password Manager](https://www.reddit.com/r/Python/comments/1g196r4/secure_password_manager/)
-- [Hi everyone! Argy Java dev trying to enter this world](https://www.reddit.com/r/Python/comments/1g1950h/hi_everyone_argy_java_dev_trying_to_enter_this/)
 <!-- BLOG-POST-LIST:END -->
