@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1g0ww31/friday_daily_thread_rpython_meta_and_freetalk/)
 - [send post requests to submit shopify checkout in python ?](https://www.reddit.com/r/Python/comments/1g0v0fm/send_post_requests_to_submit_shopify_checkout_in/)
-- [I&#39;m working on an Automated PS4 Controller using Python!](https://www.reddit.com/r/Python/comments/1g0s0h7/im_working_on_an_automated_ps4_controller_using/)
 - [Introducing Eventum ASGI, a Python framework simplifying the creation of WebSocket-based apps](https://www.reddit.com/r/Python/comments/1g0px5z/introducing_eventum_asgi_a_python_framework/)
 - [My first Python package, for creating queries using including Pydantic/SqlAlchemy.](https://www.reddit.com/r/Python/comments/1g0mzvh/my_first_python_package_for_creating_queries/)
 - [What I Learned from Making the Python Back End for My New Webapp](https://www.reddit.com/r/Python/comments/1g0jybv/what_i_learned_from_making_the_python_back_end/)
