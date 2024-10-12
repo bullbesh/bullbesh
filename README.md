@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What should i learn fter learning python and all the syntax and most of the data that it holds.](https://www.reddit.com/r/Python/comments/1g200fc/what_should_i_learn_fter_learning_python_and_all/)
 - [Formula for calculating monthly loan payment error](https://www.reddit.com/r/Python/comments/1g1yow8/formula_for_calculating_monthly_loan_payment_error/)
 - [Pyloid: A Web-Based GUI Library for Desktop Applications - v0.11.0 Released](https://www.reddit.com/r/Python/comments/1g1w3ox/pyloid_a_webbased_gui_library_for_desktop/)
 - [I Understand Machine Learning with Numpy and PyTorch Better Since I Started Focusing on the Basics](https://www.reddit.com/r/Python/comments/1g1uuyc/i_understand_machine_learning_with_numpy_and/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1g1npyb/saturday_daily_thread_resource_request_and/)
-- [rye in production?](https://www.reddit.com/r/Python/comments/1g1mi1f/rye_in_production/)
 <!-- BLOG-POST-LIST:END -->
