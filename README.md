@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1g1npyb/saturday_daily_thread_resource_request_and/)
 - [rye in production?](https://www.reddit.com/r/Python/comments/1g1mi1f/rye_in_production/)
-- [&#39;screen&#39; is not defined](https://www.reddit.com/r/Python/comments/1g1j2p7/screen_is_not_defined/)
 - [Default netrc entry causes requests module to spam your password to the world?](https://www.reddit.com/r/Python/comments/1g1gdvw/default_netrc_entry_causes_requests_module_to/)
 - [Random context generator - RaCoGen &lpar;provisional name&rpar;](https://www.reddit.com/r/Python/comments/1g1e7as/random_context_generator_racogen_provisional_name/)
+- [A new take on dependency injection in Python](https://www.reddit.com/r/Python/comments/1g1dp8i/a_new_take_on_dependency_injection_in_python/)
 <!-- BLOG-POST-LIST:END -->
