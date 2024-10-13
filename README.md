@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why pandas transpose keys from exel provides RangeIndex while only keys provides List](https://www.reddit.com/r/Python/comments/1g2iztz/why_pandas_transpose_keys_from_exel_provides/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1g2d9f2/sunday_daily_thread_whats_everyone_working_on/)
 - [I&#39;m making a periodic table on python.](https://www.reddit.com/r/Python/comments/1g2af5p/im_making_a_periodic_table_on_python/)
 - [Pyloid: A Web-Based GUI Library for Desktop Applications - v0.11.0 Released](https://www.reddit.com/r/Python/comments/1g1w3ox/pyloid_a_webbased_gui_library_for_desktop/)
 - [I Understand Machine Learning with Numpy and PyTorch Better Since I Started Focusing on the Basics](https://www.reddit.com/r/Python/comments/1g1uuyc/i_understand_machine_learning_with_numpy_and/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1g1npyb/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
