@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [RaCoGen 2.0 &lpar;new release&rpar;.](https://www.reddit.com/r/Python/comments/1g2uf9n/racogen_20_new_release/)
 - [I shared a 1+ Hour Streamlit Course on YouTube - Learn to Create Python Data/Web Apps Easily](https://www.reddit.com/r/Python/comments/1g2sip1/i_shared_a_1_hour_streamlit_course_on_youtube/)
 - [Environments Utils - Detect Your &lpar;quirky&rpar; Python Runtime Environment](https://www.reddit.com/r/Python/comments/1g2lh97/environments_utils_detect_your_quirky_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1g2d9f2/sunday_daily_thread_whats_everyone_working_on/)
 - [I&#39;m making a periodic table on python.](https://www.reddit.com/r/Python/comments/1g2af5p/im_making_a_periodic_table_on_python/)
-- [Pyloid: A Web-Based GUI Library for Desktop Applications - v0.11.0 Released](https://www.reddit.com/r/Python/comments/1g1w3ox/pyloid_a_webbased_gui_library_for_desktop/)
 <!-- BLOG-POST-LIST:END -->
