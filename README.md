@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Teaching the world&#39;s largest programming lesson](https://www.reddit.com/r/Python/comments/1g3loz8/teaching_the_worlds_largest_programming_lesson/)
 - [Build an intuitive CLI app with Python argparse](https://www.reddit.com/r/Python/comments/1g3l5ro/build_an_intuitive_cli_app_with_python_argparse/)
 - [Which libraries have the best docs?](https://www.reddit.com/r/Python/comments/1g3hrkl/which_libraries_have_the_best_docs/)
 - [Flexible Array Operations / Urluna](https://www.reddit.com/r/Python/comments/1g3h4n9/flexible_array_operations_urluna/)
 - [My first python package got 844 downloads 😭😭](https://www.reddit.com/r/Python/comments/1g3gcz9/my_first_python_package_got_844_downloads/)
-- [Python 3.12 vs Python 3.13 – performance testing](https://www.reddit.com/r/Python/comments/1g3gb73/python_312_vs_python_313_performance_testing/)
 <!-- BLOG-POST-LIST:END -->
