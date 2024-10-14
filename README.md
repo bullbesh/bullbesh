@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first python package got 844 downloads 😭😭](https://www.reddit.com/r/Python/comments/1g3gcz9/my_first_python_package_got_844_downloads/)
+- [Python 3.12 vs Python 3.13 – performance testing](https://www.reddit.com/r/Python/comments/1g3gb73/python_312_vs_python_313_performance_testing/)
+- [Emmett55 is now available](https://www.reddit.com/r/Python/comments/1g3fy1e/emmett55_is_now_available/)
 - [How to benchmark with pytest-benchmark](https://www.reddit.com/r/Python/comments/1g3cgtm/how_to_benchmark_with_pytestbenchmark/)
 - [Reading CAN Bus signals from and mf4 file.](https://www.reddit.com/r/Python/comments/1g3bsdn/reading_can_bus_signals_from_and_mf4_file/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1g33d10/monday_daily_thread_project_ideas/)
-- [Old school 2000s mouse accessory: Particles following your mouse! Get color under cursor! And more!](https://www.reddit.com/r/Python/comments/1g32kaw/old_school_2000s_mouse_accessory_particles/)
-- [Xenharmlib 0.2.0 released - Advanced music theory library](https://www.reddit.com/r/Python/comments/1g2xyjj/xenharmlib_020_released_advanced_music_theory/)
 <!-- BLOG-POST-LIST:END -->
