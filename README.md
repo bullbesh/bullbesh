@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kanban-Tui, Moving Cards around in the Terminal](https://www.reddit.com/r/Python/comments/1g4huyp/kanbantui_moving_cards_around_in_the_terminal/)
 - [Local host python server](https://www.reddit.com/r/Python/comments/1g4eqi8/local_host_python_server/)
 - [Tips for Command Line Project](https://www.reddit.com/r/Python/comments/1g4dzuy/tips_for_command_line_project/)
 - [Pyro5 and other similar packages](https://www.reddit.com/r/Python/comments/1g4d554/pyro5_and_other_similar_packages/)
 - [Annoying shade of tex field | tkinter](https://www.reddit.com/r/Python/comments/1g4cga9/annoying_shade_of_tex_field_tkinter/)
-- [Qtcord - A lightweight, native Discord client for Windows and Linux](https://www.reddit.com/r/Python/comments/1g3xw7g/qtcord_a_lightweight_native_discord_client_for/)
 <!-- BLOG-POST-LIST:END -->
