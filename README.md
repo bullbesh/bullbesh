@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1g3uko4/tuesday_daily_thread_advanced_questions/)
 - [Need assistance with my lead generation scrape](https://www.reddit.com/r/Python/comments/1g3rnwb/need_assistance_with_my_lead_generation_scrape/)
-- [Gradio 5 - Building a Quick Chatbot UI for LangChain in python tutorial on Youtube](https://www.reddit.com/r/Python/comments/1g3pac0/gradio_5_building_a_quick_chatbot_ui_for/)
 - [Speeding up PyTest by removing big libraries](https://www.reddit.com/r/Python/comments/1g3o5tw/speeding_up_pytest_by_removing_big_libraries/)
 - [Lockdown Your FastAPI Endpoints with Armasec](https://www.reddit.com/r/Python/comments/1g3n9a2/lockdown_your_fastapi_endpoints_with_armasec/)
 - [Python support in KDE](https://www.reddit.com/r/Python/comments/1g3n643/python_support_in_kde/)
