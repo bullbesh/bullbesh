@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Support on Github](https://www.reddit.com/r/Python/comments/1g434ni/support_on_github/)
+- [my first progarmming language](https://www.reddit.com/r/Python/comments/1g4b1fn/my_first_progarmming_language/)
 - [Qtcord - A lightweight, native Discord client for Windows and Linux](https://www.reddit.com/r/Python/comments/1g3xw7g/qtcord_a_lightweight_native_discord_client_for/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1g3uko4/tuesday_daily_thread_advanced_questions/)
 - [Need assistance with my lead generation scrape](https://www.reddit.com/r/Python/comments/1g3rnwb/need_assistance_with_my_lead_generation_scrape/)
