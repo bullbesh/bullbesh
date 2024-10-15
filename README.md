@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[FOR HIRE] Python development](https://www.reddit.com/r/Python/comments/1g4e5lu/for_hire_python_development/)
+- [Tips for Command Line Project](https://www.reddit.com/r/Python/comments/1g4dzuy/tips_for_command_line_project/)
+- [Pyro5 and other similar packages](https://www.reddit.com/r/Python/comments/1g4d554/pyro5_and_other_similar_packages/)
 - [Annoying shade of tex field | tkinter](https://www.reddit.com/r/Python/comments/1g4cga9/annoying_shade_of_tex_field_tkinter/)
-- [my first progarmming language](https://www.reddit.com/r/Python/comments/1g4b1fn/my_first_progarmming_language/)
 - [Qtcord - A lightweight, native Discord client for Windows and Linux](https://www.reddit.com/r/Python/comments/1g3xw7g/qtcord_a_lightweight_native_discord_client_for/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1g3uko4/tuesday_daily_thread_advanced_questions/)
-- [Speeding up PyTest by removing big libraries](https://www.reddit.com/r/Python/comments/1g3o5tw/speeding_up_pytest_by_removing_big_libraries/)
 <!-- BLOG-POST-LIST:END -->
