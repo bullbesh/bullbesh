@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Arizona coders/programers wanted](https://www.reddit.com/r/Python/comments/1g54wj1/arizona_codersprogramers_wanted/)
 - [Why do widely used frameworks in python use strings instead of enums for parameters?](https://www.reddit.com/r/Python/comments/1g52103/why_do_widely_used_frameworks_in_python_use/)
-- [Suggestions for cloud databases?](https://www.reddit.com/r/Python/comments/1g4up88/suggestions_for_cloud_databases/)
 - [Censor words in audio using python](https://www.reddit.com/r/Python/comments/1g4ud6e/censor_words_in_audio_using_python/)
 - [Parsera - website data extraction with minimal code](https://www.reddit.com/r/Python/comments/1g4ubg4/parsera_website_data_extraction_with_minimal_code/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1g4m6wp/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
