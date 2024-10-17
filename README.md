@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built an open-source AI-driven Code Review app for GitHub repos](https://www.reddit.com/r/Python/comments/1g63rs4/i_built_an_opensource_aidriven_code_review_app/)
+- [Anyone developed python SDK that works with decorator](https://www.reddit.com/r/Python/comments/1g63nhl/anyone_developed_python_sdk_that_works_with/)
 - [Advanced python tips, libraries or best practices from experts?](https://www.reddit.com/r/Python/comments/1g5xswk/advanced_python_tips_libraries_or_best_practices/)
 - [[Project] Automatically detecting optimal cuda device](https://www.reddit.com/r/Python/comments/1g5wv6n/project_automatically_detecting_optimal_cuda/)
 - [Latest release of FastAgency makes building web, REST or streaming apps with AI agents a breeze](https://www.reddit.com/r/Python/comments/1g5vlip/latest_release_of_fastagency_makes_building_web/)
-- [Durable OpenAI Swarm - Reliable Multi-Agent Orchestration with OAI’s Swarm](https://www.reddit.com/r/Python/comments/1g5uuuo/durable_openai_swarm_reliable_multiagent/)
-- [Explore &lpar;almost&rpar; any python codebase interactively](https://www.reddit.com/r/Python/comments/1g5sxez/explore_almost_any_python_codebase_interactively/)
 <!-- BLOG-POST-LIST:END -->
