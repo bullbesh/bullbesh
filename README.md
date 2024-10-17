@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made my computer go &quot;Cha Ching!&quot; every time my website makes money](https://www.reddit.com/r/Python/comments/1g5f73k/i_made_my_computer_go_cha_ching_every_time_my/)
+- [Text/Terminal-based games for project-based learning](https://www.reddit.com/r/Python/comments/1g5e4mw/textterminalbased_games_for_projectbased_learning/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1g5dt6z/thursday_daily_thread_python_careers_courses_and/)
 - [Vim Plugin for Incremental Programming &lpar;SLIME&rpar; with Python](https://www.reddit.com/r/Python/comments/1g5byo7/vim_plugin_for_incremental_programming_slime_with/)
 - [Arizona coders/programers wanted](https://www.reddit.com/r/Python/comments/1g54wj1/arizona_codersprogramers_wanted/)
-- [Why do widely used frameworks in python use strings instead of enums for parameters?](https://www.reddit.com/r/Python/comments/1g52103/why_do_widely_used_frameworks_in_python_use/)
-- [Censor words in audio using python](https://www.reddit.com/r/Python/comments/1g4ud6e/censor_words_in_audio_using_python/)
-- [Parsera - website data extraction with minimal code](https://www.reddit.com/r/Python/comments/1g4ubg4/parsera_website_data_extraction_with_minimal_code/)
 <!-- BLOG-POST-LIST:END -->
