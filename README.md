@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [LLM Static Assert: Using LLMs for more expressive static analysis](https://www.reddit.com/r/Python/comments/1g6mwtc/llm_static_assert_using_llms_for_more_expressive/)
 - [I built an open-source AI-driven Code Review app for GitHub repos](https://www.reddit.com/r/Python/comments/1g6m2mb/i_built_an_opensource_aidriven_code_review_app/)
 - [Conceptual optimization, would a custom byte checking function be faster than len&lpar;list&lpar;object&rpar;&rpar; &gt;0?](https://www.reddit.com/r/Python/comments/1g6fr6o/conceptual_optimization_would_a_custom_byte/)
 - [PyTraceToIX - Debugging Jinja2 template, Flask web apps without breaking the design or code changes](https://www.reddit.com/r/Python/comments/1g6fd28/pytracetoix_debugging_jinja2_template_flask_web/)
 - [Pruning a CNN model](https://www.reddit.com/r/Python/comments/1g6d5ri/pruning_a_cnn_model/)
-- [PyQt best option for commercial use?](https://www.reddit.com/r/Python/comments/1g6brra/pyqt_best_option_for_commercial_use/)
 <!-- BLOG-POST-LIST:END -->
