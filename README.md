@@ -11,6 +11,6 @@
 - [Pruning a CNN model](https://www.reddit.com/r/Python/comments/1g6d5ri/pruning_a_cnn_model/)
 - [PyQt best option for commercial use?](https://www.reddit.com/r/Python/comments/1g6brra/pyqt_best_option_for_commercial_use/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1g654oy/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Transaction collector that stores bank transactions for analysis](https://www.reddit.com/r/Python/comments/1g64qxz/transaction_collector_that_stores_bank/)
 - [Advanced python tips, libraries or best practices from experts?](https://www.reddit.com/r/Python/comments/1g5xswk/advanced_python_tips_libraries_or_best_practices/)
+- [[Project] Automatically detecting optimal cuda device](https://www.reddit.com/r/Python/comments/1g5wv6n/project_automatically_detecting_optimal_cuda/)
 <!-- BLOG-POST-LIST:END -->
