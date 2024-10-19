@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Python Resources for Experienced Programmer](https://www.reddit.com/r/Python/comments/1g7h2zv/best_python_resources_for_experienced_programmer/)
+- [I wanted to speed-up a Python lib with Rust, but i created a whole lib by using ChatGPT o1-preview!](https://www.reddit.com/r/Python/comments/1g7gcjg/i_wanted_to_speedup_a_python_lib_with_rust_but_i/)
 - [Incorporate long strings painlessly, beautifully into Python code.](https://www.reddit.com/r/Python/comments/1g7ea20/incorporate_long_strings_painlessly_beautifully/)
 - [Real-time YouTube Comment Sentiment Analysis with Kafka, Spark, Docker, and Streamlit](https://www.reddit.com/r/Python/comments/1g7cs5l/realtime_youtube_comment_sentiment_analysis_with/)
 - [filefrag - library and executable to explore file fragmentation](https://www.reddit.com/r/Python/comments/1g70lqb/filefrag_library_and_executable_to_explore_file/)
-- [Aid with using anaconda to load fashion_mnist](https://www.reddit.com/r/Python/comments/1g6wjqj/aid_with_using_anaconda_to_load_fashion_mnist/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1g6wbs0/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
