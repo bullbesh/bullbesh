@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python script for Maya that will import .objs from a folder and replace the existing objects.](https://www.reddit.com/r/Python/comments/1g6xs2y/python_script_for_maya_that_will_import_objs_from/)
+- [Aid with using anaconda to load fashion_mnist](https://www.reddit.com/r/Python/comments/1g6wjqj/aid_with_using_anaconda_to_load_fashion_mnist/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1g6wbs0/saturday_daily_thread_resource_request_and/)
+- [python project to encrypt passwords to put in github repos](https://www.reddit.com/r/Python/comments/1g6vst5/python_project_to_encrypt_passwords_to_put_in/)
 - [Drop o1 Preview, Try This Alternative](https://www.reddit.com/r/Python/comments/1g6qeh9/drop_o1_preview_try_this_alternative/)
-- [Développeur du soir ?](https://www.reddit.com/r/Python/comments/1g6pg1d/développeur_du_soir/)
-- [FriendlyDateParser, just another Python module for date parsing!](https://www.reddit.com/r/Python/comments/1g6nwca/friendlydateparser_just_another_python_module_for/)
-- [LLM Static Assert: Using LLMs for more expressive static analysis](https://www.reddit.com/r/Python/comments/1g6mwtc/llm_static_assert_using_llms_for_more_expressive/)
-- [I built an open-source AI-driven Code Review app for GitHub repos](https://www.reddit.com/r/Python/comments/1g6m2mb/i_built_an_opensource_aidriven_code_review_app/)
 <!-- BLOG-POST-LIST:END -->
