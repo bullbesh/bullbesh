@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why I can&#39;t run my list.count&lpar;&rpar; method on list with numeric element](https://www.reddit.com/r/Python/comments/1g7cjbr/why_i_cant_run_my_listcount_method_on_list_with/)
+- [Real-time YouTube Comment Sentiment Analysis with Kafka, Spark, Docker, and Streamlit](https://www.reddit.com/r/Python/comments/1g7cs5l/realtime_youtube_comment_sentiment_analysis_with/)
 - [filefrag - library and executable to explore file fragmentation](https://www.reddit.com/r/Python/comments/1g70lqb/filefrag_library_and_executable_to_explore_file/)
 - [Python script for Maya that will import .objs from a folder and replace the existing objects.](https://www.reddit.com/r/Python/comments/1g6xs2y/python_script_for_maya_that_will_import_objs_from/)
 - [Aid with using anaconda to load fashion_mnist](https://www.reddit.com/r/Python/comments/1g6wjqj/aid_with_using_anaconda_to_load_fashion_mnist/)
