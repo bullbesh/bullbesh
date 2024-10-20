@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why are cursor objects required for MySQL connections?](https://www.reddit.com/r/Python/comments/1g7va2e/why_are_cursor_objects_required_for_mysql/)
 - [Are all the scientific python subreddits dead?](https://www.reddit.com/r/Python/comments/1g7t726/are_all_the_scientific_python_subreddits_dead/)
 - [Stuck with Selenium on Php](https://www.reddit.com/r/Python/comments/1g7sm34/stuck_with_selenium_on_php/)
 - [Does poor code actually save jobs](https://www.reddit.com/r/Python/comments/1g7rs0s/does_poor_code_actually_save_jobs/)
 - [I Built a simple demo of PyFiglet inside of Textual](https://www.reddit.com/r/Python/comments/1g7pew6/i_built_a_simple_demo_of_pyfiglet_inside_of/)
-- [Which is the best engine?](https://www.reddit.com/r/Python/comments/1g7nh4j/which_is_the_best_engine/)
 <!-- BLOG-POST-LIST:END -->
