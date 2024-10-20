@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Password Manager](https://www.reddit.com/r/Python/comments/1g86brj/password_manager/)
-- [Will pay for assistance with python homework](https://www.reddit.com/r/Python/comments/1g858n0/will_pay_for_assistance_with_python_homework/)
 - [Why people still using flask after fastapi release](https://www.reddit.com/r/Python/comments/1g83rjr/why_people_still_using_flask_after_fastapi_release/)
 - [Mutmut 3 released](https://www.reddit.com/r/Python/comments/1g806h6/mutmut_3_released/)
 - [YouTube/DJ tracklist downloader](https://www.reddit.com/r/Python/comments/1g7zzt7/youtubedj_tracklist_downloader/)
+- [library table which to use](https://www.reddit.com/r/Python/comments/1g7wdr5/library_table_which_to_use/)
 <!-- BLOG-POST-LIST:END -->
