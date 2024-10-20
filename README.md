@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Get Ip Address and Port From server using Consul](https://www.reddit.com/r/Python/comments/1g80mi0/how_get_ip_address_and_port_from_server_using/)
+- [Mutmut 3 released](https://www.reddit.com/r/Python/comments/1g806h6/mutmut_3_released/)
+- [YouTube/DJ tracklist downloader](https://www.reddit.com/r/Python/comments/1g7zzt7/youtubedj_tracklist_downloader/)
 - [library table which to use](https://www.reddit.com/r/Python/comments/1g7wdr5/library_table_which_to_use/)
 - [modulus&lpar;%&rpar; vs bitwise and&lpar;&amp;&rpar; timing](https://www.reddit.com/r/Python/comments/1g7w7mh/modulus_vs_bitwise_and_timing/)
-- [Why are cursor objects required for MySQL connections?](https://www.reddit.com/r/Python/comments/1g7va2e/why_are_cursor_objects_required_for_mysql/)
-- [Are all the scientific python subreddits dead?](https://www.reddit.com/r/Python/comments/1g7t726/are_all_the_scientific_python_subreddits_dead/)
-- [Stuck with Selenium on Php](https://www.reddit.com/r/Python/comments/1g7sm34/stuck_with_selenium_on_php/)
 <!-- BLOG-POST-LIST:END -->
