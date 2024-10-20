@@ -12,5 +12,5 @@
 - [Mutmut 3 released](https://www.reddit.com/r/Python/comments/1g806h6/mutmut_3_released/)
 - [YouTube/DJ tracklist downloader](https://www.reddit.com/r/Python/comments/1g7zzt7/youtubedj_tracklist_downloader/)
 - [library table which to use](https://www.reddit.com/r/Python/comments/1g7wdr5/library_table_which_to_use/)
-- [modulus&lpar;%&rpar; vs bitwise and&lpar;&amp;&rpar; timing](https://www.reddit.com/r/Python/comments/1g7w7mh/modulus_vs_bitwise_and_timing/)
+- [Are all the scientific python subreddits dead?](https://www.reddit.com/r/Python/comments/1g7t726/are_all_the_scientific_python_subreddits_dead/)
 <!-- BLOG-POST-LIST:END -->
