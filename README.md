@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Whats a good way to get started in AI?](https://www.reddit.com/r/Python/comments/1g8pb6v/whats_a_good_way_to_get_started_in_ai/)
 - [temporals - A time, date and datetime periods support](https://www.reddit.com/r/Python/comments/1g8nu9s/temporals_a_time_date_and_datetime_periods_support/)
 - [What do you do when you are frustrated?](https://www.reddit.com/r/Python/comments/1g8jrmd/what_do_you_do_when_you_are_frustrated/)
 - [Good for portfolio?](https://www.reddit.com/r/Python/comments/1g8gtvn/good_for_portfolio/)
 - [Puzzle: Determine actual cost basis given list of transactions](https://www.reddit.com/r/Python/comments/1g8ebzh/puzzle_determine_actual_cost_basis_given_list_of/)
-- [Asynchronous framework for working with RabbitMQ](https://www.reddit.com/r/Python/comments/1g8dt16/asynchronous_framework_for_working_with_rabbitmq/)
 <!-- BLOG-POST-LIST:END -->
