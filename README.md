@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Puzzle: Determine actual cost basis given list of transactions](https://www.reddit.com/r/Python/comments/1g8ebzh/puzzle_determine_actual_cost_basis_given_list_of/)
+- [Asynchronous framework for working with RabbitMQ](https://www.reddit.com/r/Python/comments/1g8dt16/asynchronous_framework_for_working_with_rabbitmq/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1g8cr07/monday_daily_thread_project_ideas/)
 - [Password Manager](https://www.reddit.com/r/Python/comments/1g86brj/password_manager/)
 - [Why people still using flask after fastapi release](https://www.reddit.com/r/Python/comments/1g83rjr/why_people_still_using_flask_after_fastapi_release/)
-- [Mutmut 3 released](https://www.reddit.com/r/Python/comments/1g806h6/mutmut_3_released/)
-- [YouTube/DJ tracklist downloader](https://www.reddit.com/r/Python/comments/1g7zzt7/youtubedj_tracklist_downloader/)
-- [library table which to use](https://www.reddit.com/r/Python/comments/1g7wdr5/library_table_which_to_use/)
 <!-- BLOG-POST-LIST:END -->
