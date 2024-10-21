@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made an app to lock your keyboard/mouse &lpar;Free + Open-source&rpar;](https://www.reddit.com/r/Python/comments/1g8w7mc/i_made_an_app_to_lock_your_keyboardmouse_free/)
 - [Easily make and share GIFs of your favorite YouTube moments &lpar;using Python + Whisper Turbo&rpar;](https://www.reddit.com/r/Python/comments/1g8u0nu/easily_make_and_share_gifs_of_your_favorite/)
 - [temporals - A time, date and datetime periods support](https://www.reddit.com/r/Python/comments/1g8nu9s/temporals_a_time_date_and_datetime_periods_support/)
 - [Puzzle: Determine actual cost basis given list of transactions](https://www.reddit.com/r/Python/comments/1g8ebzh/puzzle_determine_actual_cost_basis_given_list_of/)
 - [Asynchronous framework for working with RabbitMQ](https://www.reddit.com/r/Python/comments/1g8dt16/asynchronous_framework_for_working_with_rabbitmq/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1g8cr07/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
