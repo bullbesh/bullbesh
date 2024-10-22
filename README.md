@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [i cannot compile my C coding in Visual Studio and other IDEs, how to FIX??](https://www.reddit.com/r/Python/comments/1g9el39/i_cannot_compile_my_c_coding_in_visual_studio_and/)
 - [I built a high frequency trading platform for ToS / Charles Schwab](https://www.reddit.com/r/Python/comments/1g99obv/i_built_a_high_frequency_trading_platform_for_tos/)
 - [PAR YT2Text v0.2.0 Released](https://www.reddit.com/r/Python/comments/1g94r46/par_yt2text_v020_released/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1g94p5f/tuesday_daily_thread_advanced_questions/)
 - [A search engine for all your memes - written in Python.](https://www.reddit.com/r/Python/comments/1g93yyw/a_search_engine_for_all_your_memes_written_in/)
-- [web_python: A web-based Python interpreter with optional static type checking](https://www.reddit.com/r/Python/comments/1g93k9z/web_python_a_webbased_python_interpreter_with/)
 <!-- BLOG-POST-LIST:END -->
