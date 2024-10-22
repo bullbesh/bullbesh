@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PAR YT2Text v0.2.0 Released](https://www.reddit.com/r/Python/comments/1g94r46/par_yt2text_v020_released/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1g94p5f/tuesday_daily_thread_advanced_questions/)
+- [A search engine for all your memes - written in Python.](https://www.reddit.com/r/Python/comments/1g93yyw/a_search_engine_for_all_your_memes_written_in/)
 - [web_python: A web-based Python interpreter with optional static type checking](https://www.reddit.com/r/Python/comments/1g93k9z/web_python_a_webbased_python_interpreter_with/)
 - [Looking for motivation :&lpar;](https://www.reddit.com/r/Python/comments/1g90448/looking_for_motivation/)
-- [Introducing Amphi, Visual Data Transformation based on Python](https://www.reddit.com/r/Python/comments/1g8znm0/introducing_amphi_visual_data_transformation/)
-- [I made an app to lock your keyboard/mouse &lpar;Free + Open-source&rpar;](https://www.reddit.com/r/Python/comments/1g8w7mc/i_made_an_app_to_lock_your_keyboardmouse_free/)
-- [Easily make and share GIFs of your favorite YouTube moments &lpar;using Python + Whisper Turbo&rpar;](https://www.reddit.com/r/Python/comments/1g8u0nu/easily_make_and_share_gifs_of_your_favorite/)
 <!-- BLOG-POST-LIST:END -->
