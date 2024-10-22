@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Computer That Built Jupyter](https://www.reddit.com/r/Python/comments/1g9qpgq/the_computer_that_built_jupyter/)
 - [From jupyter to vscode](https://www.reddit.com/r/Python/comments/1g9p2tj/from_jupyter_to_vscode/)
 - [Bank Project using pyqt5](https://www.reddit.com/r/Python/comments/1g9nrrg/bank_project_using_pyqt5/)
 - [BugGPT: a GPT powered vulnerable web app generator for bug bounty practice](https://www.reddit.com/r/Python/comments/1g9mvni/buggpt_a_gpt_powered_vulnerable_web_app_generator/)
 - [Build a Flask API for Whisper speech-to-text on GPU for free](https://www.reddit.com/r/Python/comments/1g9m5u6/build_a_flask_api_for_whisper_speechtotext_on_gpu/)
-- [Python Wheels publication](https://www.reddit.com/r/Python/comments/1g9loun/python_wheels_publication/)
 <!-- BLOG-POST-LIST:END -->
