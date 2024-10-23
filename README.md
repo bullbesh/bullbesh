@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Bringing Droids into Business processes and Enterprise Systems](https://www.reddit.com/r/Python/comments/1gaa3ol/bringing_droids_into_business_processes_and/)
 - [Talks from PyData Amsterdam 2024 now on YouTube](https://www.reddit.com/r/Python/comments/1ga9frr/talks_from_pydata_amsterdam_2024_now_on_youtube/)
 - [Convert your Figma design into Python code](https://www.reddit.com/r/Python/comments/1ga7vew/convert_your_figma_design_into_python_code/)
 - [SongPi - Continuous song recognition app using Python](https://www.reddit.com/r/Python/comments/1ga7dnr/songpi_continuous_song_recognition_app_using/)
 - [Dynamic Inputs: A way to break standard input limitations.](https://www.reddit.com/r/Python/comments/1ga79jf/dynamic_inputs_a_way_to_break_standard_input/)
+- [Python web-based classroom IDE for online teacher](https://www.reddit.com/r/Python/comments/1ga66i8/python_webbased_classroom_ide_for_online_teacher/)
 <!-- BLOG-POST-LIST:END -->
