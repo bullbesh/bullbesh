@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The simplest way to determine which web framework to use.](https://www.reddit.com/r/Python/comments/1ga3ym8/the_simplest_way_to_determine_which_web_framework/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1g9wxn3/wednesday_daily_thread_beginner_questions/)
 - [[Project] Export Amazon wishlist to JSON](https://www.reddit.com/r/Python/comments/1g9wp7l/project_export_amazon_wishlist_to_json/)
 - [Pipip - A tiny pip extension to address a tiny inconvenience](https://www.reddit.com/r/Python/comments/1g9sk7p/pipip_a_tiny_pip_extension_to_address_a_tiny/)
 - [Script Python to extract data](https://www.reddit.com/r/Python/comments/1g9sia3/script_python_to_extract_data/)
-- [The Computer That Built Jupyter](https://www.reddit.com/r/Python/comments/1g9qpgq/the_computer_that_built_jupyter/)
 <!-- BLOG-POST-LIST:END -->
