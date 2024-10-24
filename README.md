@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [cstructpy- Python package designed for binary serialization and deserialization of structured data](https://www.reddit.com/r/Python/comments/1gb0o3f/cstructpy_python_package_designed_for_binary/)
 - [Hatch or uv for a new project?](https://www.reddit.com/r/Python/comments/1gaz3tm/hatch_or_uv_for_a_new_project/)
 - [Anyone here going to PyCon Australia next month?](https://www.reddit.com/r/Python/comments/1gav220/anyone_here_going_to_pycon_australia_next_month/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1gap9r6/thursday_daily_thread_python_careers_courses_and/)
 - [Monoranger: A poetry plugin for managing monorepos](https://www.reddit.com/r/Python/comments/1gak200/monoranger_a_poetry_plugin_for_managing_monorepos/)
-- [3Domain: a 3D visualization tool for subdomain relationships](https://www.reddit.com/r/Python/comments/1gahcdl/3domain_a_3d_visualization_tool_for_subdomain/)
 <!-- BLOG-POST-LIST:END -->
