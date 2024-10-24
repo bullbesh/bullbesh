@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1gap9r6/thursday_daily_thread_python_careers_courses_and/)
 - [Monoranger: A poetry plugin for managing monorepos](https://www.reddit.com/r/Python/comments/1gak200/monoranger_a_poetry_plugin_for_managing_monorepos/)
 - [3Domain: a 3D visualization tool for subdomain relationships](https://www.reddit.com/r/Python/comments/1gahcdl/3domain_a_3d_visualization_tool_for_subdomain/)
 - [Python script to loop through all 4 AWS accounts](https://www.reddit.com/r/Python/comments/1gah45u/python_script_to_loop_through_all_4_aws_accounts/)
 - [How marimo notebooks bring Altair charts to life](https://www.reddit.com/r/Python/comments/1gafpql/how_marimo_notebooks_bring_altair_charts_to_life/)
-- [Talks from PyData Amsterdam 2024 now on YouTube](https://www.reddit.com/r/Python/comments/1ga9frr/talks_from_pydata_amsterdam_2024_now_on_youtube/)
 <!-- BLOG-POST-LIST:END -->
