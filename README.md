@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pixel-map: A Python CLI tool for plotting geo files in the terminal](https://www.reddit.com/r/Python/comments/1gc3a1k/pixelmap_a_python_cli_tool_for_plotting_geo_files/)
+- [Every unicode character can be a variable name in globals and locals](https://www.reddit.com/r/Python/comments/1gc2gmg/every_unicode_character_can_be_a_variable_name_in/)
 - [Posting 2 - the HTTP client TUI, now supports Python scripting, custom keymaps, and more!](https://www.reddit.com/r/Python/comments/1gc0tiu/posting_2_the_http_client_tui_now_supports_python/)
 - [Anyone working on or with a great but little-known test framework?](https://www.reddit.com/r/Python/comments/1gbxrho/anyone_working_on_or_with_a_great_but_littleknown/)
 - [This is now valid syntax in Python 3.13!](https://www.reddit.com/r/Python/comments/1gbu1g0/this_is_now_valid_syntax_in_python_313/)
-- [Python Tips Thread 🐍](https://www.reddit.com/r/Python/comments/1gbr6ms/python_tips_thread/)
-- [Single line turns the dataclass into a GUI/TUI &amp; CLI application](https://www.reddit.com/r/Python/comments/1gbprvv/single_line_turns_the_dataclass_into_a_guitui_cli/)
 <!-- BLOG-POST-LIST:END -->
