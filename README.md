@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [طورت أدوات لأمن الشبكات باستخدام بايثون، أود مشاركتها معكم](https://www.reddit.com/r/Python/comments/1gc65n2/طورت_أدوات_لأمن_الشبكات_باستخدام_بايثون_أود/)
 - [I don&#39;t want to r/learnpython I&#39;m just pretty sure 0 is an integer](https://www.reddit.com/r/Python/comments/1gc4qk6/i_dont_want_to_rlearnpython_im_just_pretty_sure_0/)
 - [Pixel-map: A Python CLI tool for plotting geo files in the terminal](https://www.reddit.com/r/Python/comments/1gc3a1k/pixelmap_a_python_cli_tool_for_plotting_geo_files/)
 - [Every unicode character can be a variable name in globals and locals](https://www.reddit.com/r/Python/comments/1gc2gmg/every_unicode_character_can_be_a_variable_name_in/)
 - [Posting 2 - the HTTP client TUI, now supports Python scripting, custom keymaps, and more!](https://www.reddit.com/r/Python/comments/1gc0tiu/posting_2_the_http_client_tui_now_supports_python/)
-- [Anyone working on or with a great but little-known test framework?](https://www.reddit.com/r/Python/comments/1gbxrho/anyone_working_on_or_with_a_great_but_littleknown/)
 <!-- BLOG-POST-LIST:END -->
