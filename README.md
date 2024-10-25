@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [This is now valid syntax in Python 3.13!](https://www.reddit.com/r/Python/comments/1gbu1g0/this_is_now_valid_syntax_in_python_313/)
+- [Refferal Needed](https://www.reddit.com/r/Python/comments/1gbtfs3/refferal_needed/)
 - [Python Tips Thread 🐍](https://www.reddit.com/r/Python/comments/1gbr6ms/python_tips_thread/)
 - [Single line turns the dataclass into a GUI/TUI &amp; CLI application](https://www.reddit.com/r/Python/comments/1gbprvv/single_line_turns_the_dataclass_into_a_guitui_cli/)
 - [PyGenTree: A Simple Yet Powerful Python Package for Generating ASCII Directory Trees](https://www.reddit.com/r/Python/comments/1gbnnbu/pygentree_a_simple_yet_powerful_python_package/)
-- [Manim : package for maths animation](https://www.reddit.com/r/Python/comments/1gbldgk/manim_package_for_maths_animation/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1gbh5k3/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
