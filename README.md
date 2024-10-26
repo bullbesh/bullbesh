@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How did you first learn about Python?](https://www.reddit.com/r/Python/comments/1gcwcex/how_did_you_first_learn_about_python/)
 - [Is this calculator too simple?](https://www.reddit.com/r/Python/comments/1gcur7z/is_this_calculator_too_simple/)
 - [Code Promo Exclusif : 50% de Réduction sur le Cours Udemy !](https://www.reddit.com/r/Python/comments/1gcsb02/code_promo_exclusif_50_de_réduction_sur_le_cours/)
 - [What Practical Applications Can My Python Script Be Used For?](https://www.reddit.com/r/Python/comments/1gcs4hw/what_practical_applications_can_my_python_script/)
 - [Should I start Microservice](https://www.reddit.com/r/Python/comments/1gcqhp2/should_i_start_microservice/)
-- [Configuration format](https://www.reddit.com/r/Python/comments/1gcq5rg/configuration_format/)
 <!-- BLOG-POST-LIST:END -->
