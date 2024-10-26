@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A fun use of itertools in gamedev](https://www.reddit.com/r/Python/comments/1gch0qm/a_fun_use_of_itertools_in_gamedev/)
 - [Memorial Date Algorithm for JWs](https://www.reddit.com/r/Python/comments/1gced47/memorial_date_algorithm_for_jws/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1gc8ekm/saturday_daily_thread_resource_request_and/)
 - [datamule: download, parse, and construct structured datasets from SEC filings](https://www.reddit.com/r/Python/comments/1gc7yac/datamule_download_parse_and_construct_structured/)
 - [I don&#39;t want to r/learnpython I&#39;m just pretty sure 0 is an integer](https://www.reddit.com/r/Python/comments/1gc4qk6/i_dont_want_to_rlearnpython_im_just_pretty_sure_0/)
-- [Pixel-map: A Python CLI tool for plotting geo files in the terminal](https://www.reddit.com/r/Python/comments/1gc3a1k/pixelmap_a_python_cli_tool_for_plotting_geo_files/)
 <!-- BLOG-POST-LIST:END -->
