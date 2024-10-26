@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code Promo Exclusif : 50% de Réduction sur le Cours Udemy !](https://www.reddit.com/r/Python/comments/1gcsb02/code_promo_exclusif_50_de_réduction_sur_le_cours/)
+- [What Practical Applications Can My Python Script Be Used For?](https://www.reddit.com/r/Python/comments/1gcs4hw/what_practical_applications_can_my_python_script/)
 - [Should I start Microservice](https://www.reddit.com/r/Python/comments/1gcqhp2/should_i_start_microservice/)
 - [Configuration format](https://www.reddit.com/r/Python/comments/1gcq5rg/configuration_format/)
 - [Effortlessly Monitor and Manage Concurrent Functions in Python with functionmonitor](https://www.reddit.com/r/Python/comments/1gcob89/effortlessly_monitor_and_manage_concurrent/)
-- [I created a Django rest framework package for MFA/2FA](https://www.reddit.com/r/Python/comments/1gcl0hk/i_created_a_django_rest_framework_package_for/)
-- [A fun use of itertools in gamedev](https://www.reddit.com/r/Python/comments/1gch0qm/a_fun_use_of_itertools_in_gamedev/)
 <!-- BLOG-POST-LIST:END -->
