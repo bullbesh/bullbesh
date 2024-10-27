@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AKS primality test](https://www.reddit.com/r/Python/comments/1gd18w8/aks_primality_test/)
+- [problem with matplotlib and vscode. Online fixes haven&#39;t worked.](https://www.reddit.com/r/Python/comments/1gd17dz/problem_with_matplotlib_and_vscode_online_fixes/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1gcygl6/sunday_daily_thread_whats_everyone_working_on/)
 - [How did you first learn about Python?](https://www.reddit.com/r/Python/comments/1gcwcex/how_did_you_first_learn_about_python/)
 - [Is this calculator too simple?](https://www.reddit.com/r/Python/comments/1gcur7z/is_this_calculator_too_simple/)
-- [Code Promo Exclusif : 50% de Réduction sur le Cours Udemy !](https://www.reddit.com/r/Python/comments/1gcsb02/code_promo_exclusif_50_de_réduction_sur_le_cours/)
-- [What Practical Applications Can My Python Script Be Used For?](https://www.reddit.com/r/Python/comments/1gcs4hw/what_practical_applications_can_my_python_script/)
 <!-- BLOG-POST-LIST:END -->
