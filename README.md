@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open-source Python desktop app that lets an AI agent control your computer!](https://www.reddit.com/r/Python/comments/1gdkhcb/opensource_python_desktop_app_that_lets_an_ai/)
 - [SmartProfiler: The All-in-One Solution for Python Performance Insights](https://www.reddit.com/r/Python/comments/1gdjz16/smartprofiler_the_allinone_solution_for_python/)
 - [CPython Software Bill Of Materials](https://www.reddit.com/r/Python/comments/1gdhvnr/cpython_software_bill_of_materials/)
 - [🔮Blackjack Strategy Simulator: The Most Comprehensive Open-Source Tool for Blackjack Analysis! 🔮](https://www.reddit.com/r/Python/comments/1gdg3e9/blackjack_strategy_simulator_the_most/)
 - [CS 1 Books in Python that discuss references, memory allocation, etc?](https://www.reddit.com/r/Python/comments/1gdfhho/cs_1_books_in_python_that_discuss_references/)
-- [Fast Prime calculating program](https://www.reddit.com/r/Python/comments/1gde4a0/fast_prime_calculating_program/)
 <!-- BLOG-POST-LIST:END -->
