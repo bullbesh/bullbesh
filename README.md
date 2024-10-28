@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Joining 2 csv files using common column](https://www.reddit.com/r/Python/comments/1gdsjha/joining_2_csv_files_using_common_column/)
 - [I need some tips with a password entry program for the 1602 lcd screen on a raspberry 4](https://www.reddit.com/r/Python/comments/1gdqbty/i_need_some_tips_with_a_password_entry_program/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1gdoyr5/monday_daily_thread_project_ideas/)
 - [Open-source Python desktop app that lets an AI agent control your computer!](https://www.reddit.com/r/Python/comments/1gdkhcb/opensource_python_desktop_app_that_lets_an_ai/)
 - [SmartProfiler: The All-in-One Solution for Python Performance Insights](https://www.reddit.com/r/Python/comments/1gdjz16/smartprofiler_the_allinone_solution_for_python/)
+- [CPython Software Bill Of Materials](https://www.reddit.com/r/Python/comments/1gdhvnr/cpython_software_bill_of_materials/)
 <!-- BLOG-POST-LIST:END -->
