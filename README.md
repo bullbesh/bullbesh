@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Copilot hallucinations wanted!](https://www.reddit.com/r/Python/comments/1gee1hx/copilot_hallucinations_wanted/)
 - [Slot Machine Game](https://www.reddit.com/r/Python/comments/1gedf2z/slot_machine_game/)
 - [PyCon 2025 web site missing](https://www.reddit.com/r/Python/comments/1ged6kl/pycon_2025_web_site_missing/)
 - [I made a reactive programming library for Python](https://www.reddit.com/r/Python/comments/1gealvf/i_made_a_reactive_programming_library_for_python/)
 - [Adding keyboard shortcuts to the Python REPL](https://www.reddit.com/r/Python/comments/1ge9c66/adding_keyboard_shortcuts_to_the_python_repl/)
-- [Looking for Python workshop &lpar;3-5 days&rpar;](https://www.reddit.com/r/Python/comments/1ge6b2j/looking_for_python_workshop_35_days/)
 <!-- BLOG-POST-LIST:END -->
