@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple GUI directory contents extraction for chatbot submission](https://www.reddit.com/r/Python/comments/1gey27a/simple_gui_directory_contents_extraction_for/)
+- [PyBay 2024 conference talk videos are now online!](https://www.reddit.com/r/Python/comments/1gexoow/pybay_2024_conference_talk_videos_are_now_online/)
 - [FastStream: a powerful and easy-to-use library for building services with event streams](https://www.reddit.com/r/Python/comments/1gewobs/faststream_a_powerful_and_easytouse_library_for/)
 - [Customizable CAPTCHA widget for PyQt and PySide](https://www.reddit.com/r/Python/comments/1gewap4/customizable_captcha_widget_for_pyqt_and_pyside/)
 - [Python pipeline flow visual scripting, auto-convert functions to nodes for fast, tweakable demos](https://www.reddit.com/r/Python/comments/1geuljm/python_pipeline_flow_visual_scripting_autoconvert/)
-- [Introducing OpenExcept: the first automatic exception grouping engine](https://www.reddit.com/r/Python/comments/1geo7m7/introducing_openexcept_the_first_automatic/)
-- [Log4View: Transform Your Logs into Insightful Network Graphs](https://www.reddit.com/r/Python/comments/1gej7go/log4view_transform_your_logs_into_insightful/)
 <!-- BLOG-POST-LIST:END -->
