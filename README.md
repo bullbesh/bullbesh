@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python pipeline flow visual scripting, auto-convert functions to nodes for fast, tweakable demos](https://www.reddit.com/r/Python/comments/1geuljm/python_pipeline_flow_visual_scripting_autoconvert/)
 - [Introducing OpenExcept: the first automatic exception grouping engine](https://www.reddit.com/r/Python/comments/1geo7m7/introducing_openexcept_the_first_automatic/)
 - [Log4View: Transform Your Logs into Insightful Network Graphs](https://www.reddit.com/r/Python/comments/1gej7go/log4view_transform_your_logs_into_insightful/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1geh79w/tuesday_daily_thread_advanced_questions/)
 - [Library to speed up developments in your scripts](https://www.reddit.com/r/Python/comments/1gefl8s/library_to_speed_up_developments_in_your_scripts/)
-- [Copilot hallucinations wanted!](https://www.reddit.com/r/Python/comments/1gee1hx/copilot_hallucinations_wanted/)
 <!-- BLOG-POST-LIST:END -->
