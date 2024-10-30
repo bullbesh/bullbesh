@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Should We Use REST or Switch to GraphQL for Our Project?](https://www.reddit.com/r/Python/comments/1gfxlu4/should_we_use_rest_or_switch_to_graphql_for_our/)
+- [Video Sub Extractor - A program for extracting hard-coded subtitles from a video.](https://www.reddit.com/r/Python/comments/1gfyew8/video_sub_extractor_a_program_for_extracting/)
 - [What do you think about module-level descriptors?](https://www.reddit.com/r/Python/comments/1gfuj60/what_do_you_think_about_modulelevel_descriptors/)
 - [A new Streamlit online editor &lpar;powered by WebAssembly&rpar;](https://www.reddit.com/r/Python/comments/1gftest/a_new_streamlit_online_editor_powered_by/)
 - [Just made a quick script for multi-launching programs!](https://www.reddit.com/r/Python/comments/1gft9ao/just_made_a_quick_script_for_multilaunching/)
