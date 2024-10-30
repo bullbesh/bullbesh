@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [futurepool - async/await worker pool](https://www.reddit.com/r/Python/comments/1gfmvis/futurepool_asyncawait_worker_pool/)
 - [Cappa v0.24.0: A declarative command line parsing library](https://www.reddit.com/r/Python/comments/1gflw8o/cappa_v0240_a_declarative_command_line_parsing/)
 - [Took the Leap and Built My First App Using ChatGPT + Python Here’s What I Learned.](https://www.reddit.com/r/Python/comments/1gfjx7d/took_the_leap_and_built_my_first_app_using/)
 - [Wimsey- lightweight, flexible data contracts for Polars, Pandas, Dask &amp; Modin](https://www.reddit.com/r/Python/comments/1gfju1e/wimsey_lightweight_flexible_data_contracts_for/)
 - [BLE Connectivity Testing script using python &lpar;source code available&rpar;](https://www.reddit.com/r/Python/comments/1gfjila/ble_connectivity_testing_script_using_python/)
-- [Package for encrypting SQLite DB](https://www.reddit.com/r/Python/comments/1gfj3cg/package_for_encrypting_sqlite_db/)
 <!-- BLOG-POST-LIST:END -->
