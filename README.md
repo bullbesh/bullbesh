@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick quiz on your knowledge](https://www.reddit.com/r/Python/comments/1gfqa0j/quick_quiz_on_your_knowledge/)
+- [Exploring Solvable and Unsolvable Equations with SymPy](https://www.reddit.com/r/Python/comments/1gfpycw/exploring_solvable_and_unsolvable_equations_with/)
+- [Can&#39;t Create a 1-Page PDF from HTML](https://www.reddit.com/r/Python/comments/1gfpmvg/cant_create_a_1page_pdf_from_html/)
 - [Best gui for local client app?](https://www.reddit.com/r/Python/comments/1gfopgm/best_gui_for_local_client_app/)
-- [Unexpected indent](https://www.reddit.com/r/Python/comments/1gfo0ri/unexpected_indent/)
 - [futurepool - async/await worker pool](https://www.reddit.com/r/Python/comments/1gfmvis/futurepool_asyncawait_worker_pool/)
-- [Cappa v0.24.0: A declarative command line parsing library](https://www.reddit.com/r/Python/comments/1gflw8o/cappa_v0240_a_declarative_command_line_parsing/)
-- [Took the Leap and Built My First App Using ChatGPT + Python Here’s What I Learned.](https://www.reddit.com/r/Python/comments/1gfjx7d/took_the_leap_and_built_my_first_app_using/)
 <!-- BLOG-POST-LIST:END -->
