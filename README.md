@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it worth it to take Coursera course?](https://www.reddit.com/r/Python/comments/1gfhfij/is_it_worth_it_to_take_coursera_course/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1gf9e74/wednesday_daily_thread_beginner_questions/)
 - [Simple GUI directory contents extraction for chatbot submission](https://www.reddit.com/r/Python/comments/1gey27a/simple_gui_directory_contents_extraction_for/)
 - [PyBay 2024 conference talk videos are now online!](https://www.reddit.com/r/Python/comments/1gexoow/pybay_2024_conference_talk_videos_are_now_online/)
 - [FastStream: a powerful and easy-to-use library for building services with event streams](https://www.reddit.com/r/Python/comments/1gewobs/faststream_a_powerful_and_easytouse_library_for/)
-- [Customizable CAPTCHA widget for PyQt and PySide](https://www.reddit.com/r/Python/comments/1gewap4/customizable_captcha_widget_for_pyqt_and_pyside/)
 <!-- BLOG-POST-LIST:END -->
