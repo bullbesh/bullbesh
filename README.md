@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Did you ever see someone adding two numbers like this? &lpar;Yes it works.&rpar;](https://www.reddit.com/r/Python/comments/1gfqo4j/did_you_ever_see_someone_adding_two_numbers_like/)
-- [Quick quiz on your knowledge](https://www.reddit.com/r/Python/comments/1gfqa0j/quick_quiz_on_your_knowledge/)
+- [A new Streamlit online editor &lpar;powered by WebAssembly&rpar;](https://www.reddit.com/r/Python/comments/1gftest/a_new_streamlit_online_editor_powered_by/)
+- [Just made a quick script for multi-launching programs!](https://www.reddit.com/r/Python/comments/1gft9ao/just_made_a_quick_script_for_multilaunching/)
+- [Quick quiz on your knowledge](https://www.reddit.com/r/Python/comments/1gfs0ee/quick_quiz_on_your_knowledge/)
 - [Exploring Solvable and Unsolvable Equations with SymPy](https://www.reddit.com/r/Python/comments/1gfpycw/exploring_solvable_and_unsolvable_equations_with/)
 - [Can&#39;t Create a 1-Page PDF from HTML](https://www.reddit.com/r/Python/comments/1gfpmvg/cant_create_a_1page_pdf_from_html/)
-- [Best gui for local client app?](https://www.reddit.com/r/Python/comments/1gfopgm/best_gui_for_local_client_app/)
 <!-- BLOG-POST-LIST:END -->
