@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Package for encrypting SQLite DB](https://www.reddit.com/r/Python/comments/1gfj3cg/package_for_encrypting_sqlite_db/)
 - [I have £750 to spend on a course](https://www.reddit.com/r/Python/comments/1gfi7gv/i_have_750_to_spend_on_a_course/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1gf9e74/wednesday_daily_thread_beginner_questions/)
 - [Simple GUI directory contents extraction for chatbot submission](https://www.reddit.com/r/Python/comments/1gey27a/simple_gui_directory_contents_extraction_for/)
 - [PyBay 2024 conference talk videos are now online!](https://www.reddit.com/r/Python/comments/1gexoow/pybay_2024_conference_talk_videos_are_now_online/)
-- [FastStream: a powerful and easy-to-use library for building services with event streams](https://www.reddit.com/r/Python/comments/1gewobs/faststream_a_powerful_and_easytouse_library_for/)
 <!-- BLOG-POST-LIST:END -->
