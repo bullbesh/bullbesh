@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Took the Leap and Built My First App Using ChatGPT + Python Here’s What I Learned.](https://www.reddit.com/r/Python/comments/1gfjx7d/took_the_leap_and_built_my_first_app_using/)
+- [Wimsey- lightweight, flexible data contracts for Polars, Pandas, Dask &amp; Modin](https://www.reddit.com/r/Python/comments/1gfju1e/wimsey_lightweight_flexible_data_contracts_for/)
+- [BLE Connectivity Testing script using python &lpar;source code available&rpar;](https://www.reddit.com/r/Python/comments/1gfjila/ble_connectivity_testing_script_using_python/)
 - [Package for encrypting SQLite DB](https://www.reddit.com/r/Python/comments/1gfj3cg/package_for_encrypting_sqlite_db/)
 - [I have £750 to spend on a course](https://www.reddit.com/r/Python/comments/1gfi7gv/i_have_750_to_spend_on_a_course/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1gf9e74/wednesday_daily_thread_beginner_questions/)
-- [Simple GUI directory contents extraction for chatbot submission](https://www.reddit.com/r/Python/comments/1gey27a/simple_gui_directory_contents_extraction_for/)
-- [PyBay 2024 conference talk videos are now online!](https://www.reddit.com/r/Python/comments/1gexoow/pybay_2024_conference_talk_videos_are_now_online/)
 <!-- BLOG-POST-LIST:END -->
