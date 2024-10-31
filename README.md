@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrunkly - Stupidly simple script runner](https://www.reddit.com/r/Python/comments/1ggi2el/scrunkly_stupidly_simple_script_runner/)
+- [Tutorial: Versioning for APIs with Cadwyn using Python &amp; FastAPI](https://www.reddit.com/r/Python/comments/1gghbg7/tutorial_versioning_for_apis_with_cadwyn_using/)
 - [Generate programming language files from YAML](https://www.reddit.com/r/Python/comments/1ggepxe/generate_programming_language_files_from_yaml/)
-- [XtremePython 2024](https://www.reddit.com/r/Python/comments/1ggcyft/xtremepython_2024/)
 - [PyExifTool problems](https://www.reddit.com/r/Python/comments/1ggcq7g/pyexiftool_problems/)
 - [Running a million empty tests](https://www.reddit.com/r/Python/comments/1gg8gdc/running_a_million_empty_tests/)
-- [Seeking Advice on Best Stack for UI in a Multi-Tenant Web App](https://www.reddit.com/r/Python/comments/1gg6mjm/seeking_advice_on_best_stack_for_ui_in_a/)
 <!-- BLOG-POST-LIST:END -->
