@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How about a GUI based on Rust&#39;s Iced for your Python projects](https://www.reddit.com/r/Python/comments/1gg2har/how_about_a_gui_based_on_rusts_iced_for_your/)
+- [Structural Pattern Matching in Python](https://www.reddit.com/r/Python/comments/1gg27dt/structural_pattern_matching_in_python/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1gg1913/thursday_daily_thread_python_careers_courses_and/)
 - [Video Sub Extractor - A program for extracting hard-coded subtitles from a video.](https://www.reddit.com/r/Python/comments/1gfyew8/video_sub_extractor_a_program_for_extracting/)
 - [What do you think about module-level descriptors?](https://www.reddit.com/r/Python/comments/1gfuj60/what_do_you_think_about_modulelevel_descriptors/)
-- [A new Streamlit online editor &lpar;powered by WebAssembly&rpar;](https://www.reddit.com/r/Python/comments/1gftest/a_new_streamlit_online_editor_powered_by/)
-- [Just made a quick script for multi-launching programs!](https://www.reddit.com/r/Python/comments/1gft9ao/just_made_a_quick_script_for_multilaunching/)
-- [Quick quiz on your knowledge](https://www.reddit.com/r/Python/comments/1gfs0ee/quick_quiz_on_your_knowledge/)
 <!-- BLOG-POST-LIST:END -->
