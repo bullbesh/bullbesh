@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Incoming in matplotlib 3.10: Dark-mode diverging colormaps](https://www.reddit.com/r/Python/comments/1gh094o/incoming_in_matplotlib_310_darkmode_diverging/)
 - [PymuPDF licensing requirements for other dependencies](https://www.reddit.com/r/Python/comments/1ggz3d3/pymupdf_licensing_requirements_for_other/)
 - [File Path Validation Library](https://www.reddit.com/r/Python/comments/1ggw9id/file_path_validation_library/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ggsqvj/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Internal streamlit app expanding, whats next?](https://www.reddit.com/r/Python/comments/1ggp5h0/internal_streamlit_app_expanding_whats_next/)
-- [Bot Development - growth and engagement](https://www.reddit.com/r/Python/comments/1ggp51w/bot_development_growth_and_engagement/)
 <!-- BLOG-POST-LIST:END -->
