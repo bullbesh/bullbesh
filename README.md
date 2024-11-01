@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Log4View: Log Visualization Tool](https://www.reddit.com/r/Python/comments/1ghhcab/log4view_log_visualization_tool/)
+- [pg_mooncake: run python on your Postgres tables](https://www.reddit.com/r/Python/comments/1ghgmmq/pg_mooncake_run_python_on_your_postgres_tables/)
+- [Breaking apart jupyter scripts](https://www.reddit.com/r/Python/comments/1ghgf4h/breaking_apart_jupyter_scripts/)
 - [PyCon US 2025 Site Launches, CFP Live!](https://www.reddit.com/r/Python/comments/1ghdnfr/pycon_us_2025_site_launches_cfp_live/)
 - [Generate, edit, and deploy FastAPI apps in your browser](https://www.reddit.com/r/Python/comments/1ghbjv4/generate_edit_and_deploy_fastapi_apps_in_your/)
-- [CleanMail: a open source tool written with streamlit to get rid of all the cruft in your email](https://www.reddit.com/r/Python/comments/1gh7x39/cleanmail_a_open_source_tool_written_with/)
-- [Best visualization library for clean SVG exports?](https://www.reddit.com/r/Python/comments/1gh5y83/best_visualization_library_for_clean_svg_exports/)
-- [Thank you r/Python - I&#39;d like to give something back](https://www.reddit.com/r/Python/comments/1gh1svl/thank_you_rpython_id_like_to_give_something_back/)
 <!-- BLOG-POST-LIST:END -->
