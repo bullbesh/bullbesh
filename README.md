@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [State of the Art Python in 2024](https://www.reddit.com/r/Python/comments/1ghiln0/state_of_the_art_python_in_2024/)
 - [Log4View: Log Visualization Tool](https://www.reddit.com/r/Python/comments/1ghhcab/log4view_log_visualization_tool/)
 - [pg_mooncake: run python on your Postgres tables](https://www.reddit.com/r/Python/comments/1ghgmmq/pg_mooncake_run_python_on_your_postgres_tables/)
 - [Breaking apart jupyter scripts](https://www.reddit.com/r/Python/comments/1ghgf4h/breaking_apart_jupyter_scripts/)
 - [PyCon US 2025 Site Launches, CFP Live!](https://www.reddit.com/r/Python/comments/1ghdnfr/pycon_us_2025_site_launches_cfp_live/)
-- [Generate, edit, and deploy FastAPI apps in your browser](https://www.reddit.com/r/Python/comments/1ghbjv4/generate_edit_and_deploy_fastapi_apps_in_your/)
 <!-- BLOG-POST-LIST:END -->
