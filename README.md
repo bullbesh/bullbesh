@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [File Path Validation Library](https://www.reddit.com/r/Python/comments/1ggw9id/file_path_validation_library/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ggsqvj/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Internal streamlit app expanding, whats next?](https://www.reddit.com/r/Python/comments/1ggp5h0/internal_streamlit_app_expanding_whats_next/)
 - [Bot Development - growth and engagement](https://www.reddit.com/r/Python/comments/1ggp51w/bot_development_growth_and_engagement/)
 - [Support with Python Rich Write Library](https://www.reddit.com/r/Python/comments/1ggknpe/support_with_python_rich_write_library/)
-- [Scrunkly - Stupidly simple script runner](https://www.reddit.com/r/Python/comments/1ggi2el/scrunkly_stupidly_simple_script_runner/)
 <!-- BLOG-POST-LIST:END -->
