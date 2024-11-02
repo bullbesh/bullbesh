@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [10 nooby python habits u gotta ditch](https://www.reddit.com/r/Python/comments/1ghq88n/10_nooby_python_habits_u_gotta_ditch/)
 - [I am looking for developers good in Manim/MoviePy or any other animation libraries](https://www.reddit.com/r/Python/comments/1ghp6gu/i_am_looking_for_developers_good_in_manimmoviepy/)
 - [Python use cases to work on](https://www.reddit.com/r/Python/comments/1ghmzs5/python_use_cases_to_work_on/)
 - [I have finally released a new version for my package, Arrest 0.1.10](https://www.reddit.com/r/Python/comments/1ghjt23/i_have_finally_released_a_new_version_for_my/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ghjow6/saturday_daily_thread_resource_request_and/)
-- [State of the Art Python in 2024](https://www.reddit.com/r/Python/comments/1ghiln0/state_of_the_art_python_in_2024/)
 <!-- BLOG-POST-LIST:END -->
