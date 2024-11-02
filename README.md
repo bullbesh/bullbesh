@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A filesystem navigator for the terminal](https://www.reddit.com/r/Python/comments/1gi3tqo/a_filesystem_navigator_for_the_terminal/)
+- [yapper-tts: text to speech library](https://www.reddit.com/r/Python/comments/1gi2xmj/yappertts_text_to_speech_library/)
 - [What would Enaml 2.0 look like? | nucleic/enaml | Declarative UI](https://www.reddit.com/r/Python/comments/1gi2vwa/what_would_enaml_20_look_like_nucleicenaml/)
 - [Thoughts on increasing use of camel case in the python world](https://www.reddit.com/r/Python/comments/1ghvpe3/thoughts_on_increasing_use_of_camel_case_in_the/)
 - [10 nooby python habits u gotta ditch](https://www.reddit.com/r/Python/comments/1ghq88n/10_nooby_python_habits_u_gotta_ditch/)
-- [I am looking for developers good in Manim/MoviePy or any other animation libraries](https://www.reddit.com/r/Python/comments/1ghp6gu/i_am_looking_for_developers_good_in_manimmoviepy/)
-- [Python use cases to work on](https://www.reddit.com/r/Python/comments/1ghmzs5/python_use_cases_to_work_on/)
 <!-- BLOG-POST-LIST:END -->
