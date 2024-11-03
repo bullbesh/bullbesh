@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A selfhosted web app built with plain Python](https://www.reddit.com/r/Python/comments/1giizja/a_selfhosted_web_app_built_with_plain_python/)
 - [Python Institute Certs: Automation Track = Networking?](https://www.reddit.com/r/Python/comments/1gigwbg/python_institute_certs_automation_track_networking/)
 - [Project showcase: Rocket Model](https://www.reddit.com/r/Python/comments/1gifc2t/project_showcase_rocket_model/)
 - [Robyn finally supports OpenAPI/Swagger](https://www.reddit.com/r/Python/comments/1gieai3/robyn_finally_supports_openapiswagger/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1gia4ox/sunday_daily_thread_whats_everyone_working_on/)
-- [Simple Object Archive for Python - Providing a single decorator to persist object data and relations](https://www.reddit.com/r/Python/comments/1gi8m82/simple_object_archive_for_python_providing_a/)
 <!-- BLOG-POST-LIST:END -->
