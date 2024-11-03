@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spec to run python](https://www.reddit.com/r/Python/comments/1gizxqd/spec_to_run_python/)
 - [Introducing OpenSceneSense: AI-Powered Video Analysis&lpar;Video input for Current LLMs&rpar;](https://www.reddit.com/r/Python/comments/1giyxep/introducing_openscenesense_aipowered_video/)
 - [I made a Faranheit to Celsius and vice versa project, any improvements i should make?](https://www.reddit.com/r/Python/comments/1giu9v6/i_made_a_faranheit_to_celsius_and_vice_versa/)
 - [A new webview binding for python call 4 test](https://www.reddit.com/r/Python/comments/1giru7y/a_new_webview_binding_for_python_call_4_test/)
 - [Loadouts for Genshin Impact v0.1.1 is OUT NOW](https://www.reddit.com/r/Python/comments/1gire30/loadouts_for_genshin_impact_v011_is_out_now/)
-- [I Wrote a Guide to Simulation in Python with SimPy](https://www.reddit.com/r/Python/comments/1gipp8a/i_wrote_a_guide_to_simulation_in_python_with_simpy/)
 <!-- BLOG-POST-LIST:END -->
