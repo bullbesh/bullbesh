@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lightweight Model Serving](https://www.reddit.com/r/Python/comments/1gjlwxx/lightweight_model_serving/)
+- [cicada: share your music and play your music on multiple devices in sync](https://www.reddit.com/r/Python/comments/1gjlkip/cicada_share_your_music_and_play_your_music_on/)
 - [Rio: WebApps in pure Python – A fresh Layouting System](https://www.reddit.com/r/Python/comments/1gjgcsf/rio_webapps_in_pure_python_a_fresh_layouting/)
 - [The encryption &amp; decryption manager from heaven](https://www.reddit.com/r/Python/comments/1gjfwbq/the_encryption_decryption_manager_from_heaven/)
 - [New Deep Learning Framework; Zephyr is on early release; active development](https://www.reddit.com/r/Python/comments/1gjdq6y/new_deep_learning_framework_zephyr_is_on_early/)
-- [I implemented a Python package to process DateOnly values, slightly faster](https://www.reddit.com/r/Python/comments/1gjb09u/i_implemented_a_python_package_to_process/)
-- [Python SDK for CoinGecko.com API](https://www.reddit.com/r/Python/comments/1gj9q8r/python_sdk_for_coingeckocom_api/)
 <!-- BLOG-POST-LIST:END -->
