@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Kew: A Modern Async Task Queue Built for FastAPI and Modern Python](https://www.reddit.com/r/Python/comments/1gjozxb/introducing_kew_a_modern_async_task_queue_built/)
 - [Check out the Closeread Prize - data-driven Scrollytelling documents in Python](https://www.reddit.com/r/Python/comments/1gjo081/check_out_the_closeread_prize_datadriven/)
 - [Python debugging like Alteryx](https://www.reddit.com/r/Python/comments/1gjn3ku/python_debugging_like_alteryx/)
 - [Lightweight Model Serving](https://www.reddit.com/r/Python/comments/1gjlwxx/lightweight_model_serving/)
 - [cicada: share your music and play your music on multiple devices in sync](https://www.reddit.com/r/Python/comments/1gjlkip/cicada_share_your_music_and_play_your_music_on/)
-- [Rio: WebApps in pure Python – A fresh Layouting System](https://www.reddit.com/r/Python/comments/1gjgcsf/rio_webapps_in_pure_python_a_fresh_layouting/)
 <!-- BLOG-POST-LIST:END -->
