@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Blog Post: State of Python 3.13 Performance: Free-Threading](https://www.reddit.com/r/Python/comments/1gk6azd/blog_post_state_of_python_313_performance/)
 - [What Free Host Providers do you Use for deploying RESTful API ?](https://www.reddit.com/r/Python/comments/1gk5ayh/what_free_host_providers_do_you_use_for_deploying/)
 - [Python Async Networking Tutorials: Clarity, Concurrency and Load Management](https://www.reddit.com/r/Python/comments/1gjv650/python_async_networking_tutorials_clarity/)
 - [Python Airbnb scraper made](https://www.reddit.com/r/Python/comments/1gjun8o/python_airbnb_scraper_made/)
 - [Video Input for your local LLMS](https://www.reddit.com/r/Python/comments/1gjua54/video_input_for_your_local_llms/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1gjtaue/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
