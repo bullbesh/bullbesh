@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dataglasses: easy creation of dataclasses from JSON, and JSON schemas from dataclasses](https://www.reddit.com/r/Python/comments/1gky5tr/dataglasses_easy_creation_of_dataclasses_from/)
 - [Just published an article to understand Python Project Management and Packaging, illustrated with uv](https://www.reddit.com/r/Python/comments/1gkmrsg/just_published_an_article_to_understand_python/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1gkl9r8/wednesday_daily_thread_beginner_questions/)
 - [Opposite of Cloud Native Is?](https://www.reddit.com/r/Python/comments/1gkiiws/opposite_of_cloud_native_is/)
 - [ParScrape v0.4.7 Released](https://www.reddit.com/r/Python/comments/1gkhl3c/parscrape_v047_released/)
-- [Dendrite: Interact with websites with natural language instead of using css selectors](https://www.reddit.com/r/Python/comments/1gkg23q/dendrite_interact_with_websites_with_natural/)
 <!-- BLOG-POST-LIST:END -->
