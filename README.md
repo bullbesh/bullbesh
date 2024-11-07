@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Deploying a Django Project Manually on a Linux Server with uWSGI and Nginx](https://www.reddit.com/r/Python/comments/1gluq8u/deploying_a_django_project_manually_on_a_linux/)
 - [Doubt about indentation.](https://www.reddit.com/r/Python/comments/1gltqnj/doubt_about_indentation/)
 - [Enterprise-Grade Security for LLM with Langflow and Fine-Grained Authorization](https://www.reddit.com/r/Python/comments/1glsz3s/enterprisegrade_security_for_llm_with_langflow/)
 - [Easily Customize LLM Pipelines with YAML templates.](https://www.reddit.com/r/Python/comments/1glq4jd/easily_customize_llm_pipelines_with_yaml_templates/)
 - [Keeping a thread alive](https://www.reddit.com/r/Python/comments/1glpfj5/keeping_a_thread_alive/)
-- [openpyxl data validation not applying in cell dropdown even when showdropdown is set true.](https://www.reddit.com/r/Python/comments/1glnyjc/openpyxl_data_validation_not_applying_in_cell/)
 <!-- BLOG-POST-LIST:END -->
