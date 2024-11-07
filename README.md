@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [First time trying to run a python script.](https://www.reddit.com/r/Python/comments/1glf1je/first_time_trying_to_run_a_python_script/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1gld3ic/thursday_daily_thread_python_careers_courses_and/)
 - [Meerkat: Monitor data sources and track changes over time from the terminal](https://www.reddit.com/r/Python/comments/1glbo1o/meerkat_monitor_data_sources_and_track_changes/)
 - [Anyone have experience using Python for Simplified TS files for the FDA?](https://www.reddit.com/r/Python/comments/1gl8i3q/anyone_have_experience_using_python_for/)
 - [Build Limitless Automations in Python &lpar;open for Beta users&rpar;](https://www.reddit.com/r/Python/comments/1gl3kcl/build_limitless_automations_in_python_open_for/)
-- [Keep your code snippets in README up-to-date!](https://www.reddit.com/r/Python/comments/1gl1hla/keep_your_code_snippets_in_readme_uptodate/)
-- [Curly braces in Python](https://www.reddit.com/r/Python/comments/1gl1d8y/curly_braces_in_python/)
 <!-- BLOG-POST-LIST:END -->
