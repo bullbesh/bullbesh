@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Talk Python has moved to Hetzner](https://www.reddit.com/r/Python/comments/1glixwh/talk_python_has_moved_to_hetzner/)
 - [A Python script to gain remote access to Metasploitable.](https://www.reddit.com/r/Python/comments/1glgg9x/a_python_script_to_gain_remote_access_to/)
 - [First time trying to run a python script.](https://www.reddit.com/r/Python/comments/1glf1je/first_time_trying_to_run_a_python_script/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1gld3ic/thursday_daily_thread_python_careers_courses_and/)
 - [Meerkat: Monitor data sources and track changes over time from the terminal](https://www.reddit.com/r/Python/comments/1glbo1o/meerkat_monitor_data_sources_and_track_changes/)
-- [Anyone have experience using Python for Simplified TS files for the FDA?](https://www.reddit.com/r/Python/comments/1gl8i3q/anyone_have_experience_using_python_for/)
 <!-- BLOG-POST-LIST:END -->
