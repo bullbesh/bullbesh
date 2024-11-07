@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [openpyxl data validation not applying in cell dropdown even when showdropdown is set true.](https://www.reddit.com/r/Python/comments/1glnyjc/openpyxl_data_validation_not_applying_in_cell/)
 - [Understanding Retrieval-Augmented Generation &lpar;RAG&rpar; with OpenAI](https://www.reddit.com/r/Python/comments/1gljss4/understanding_retrievalaugmented_generation_rag/)
 - [Whispr: A multi-vault secret injection tool completely written in Python](https://www.reddit.com/r/Python/comments/1gljize/whispr_a_multivault_secret_injection_tool/)
 - [Talk Python has moved to Hetzner](https://www.reddit.com/r/Python/comments/1glixwh/talk_python_has_moved_to_hetzner/)
 - [A Python script to gain remote access to Metasploitable.](https://www.reddit.com/r/Python/comments/1glgg9x/a_python_script_to_gain_remote_access_to/)
-- [First time trying to run a python script.](https://www.reddit.com/r/Python/comments/1glf1je/first_time_trying_to_run_a_python_script/)
 <!-- BLOG-POST-LIST:END -->
