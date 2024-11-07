@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Affinity - pythonic DDL for well-documented datasets](https://www.reddit.com/r/Python/comments/1glxvkg/affinity_pythonic_ddl_for_welldocumented_datasets/)
 - [Thank you again r/Python - I&#39;m opening up my Python course for those who missed it before](https://www.reddit.com/r/Python/comments/1glxbrj/thank_you_again_rpython_im_opening_up_my_python/)
 - [🚀 Deploying a Django Project Manually on a Linux Server with uWSGI and Nginx](https://www.reddit.com/r/Python/comments/1gluq8u/deploying_a_django_project_manually_on_a_linux/)
 - [Doubt about indentation.](https://www.reddit.com/r/Python/comments/1gltqnj/doubt_about_indentation/)
 - [Enterprise-Grade Security for LLM with Langflow and Fine-Grained Authorization](https://www.reddit.com/r/Python/comments/1glsz3s/enterprisegrade_security_for_llm_with_langflow/)
-- [Easily Customize LLM Pipelines with YAML templates.](https://www.reddit.com/r/Python/comments/1glq4jd/easily_customize_llm_pipelines_with_yaml_templates/)
 <!-- BLOG-POST-LIST:END -->
