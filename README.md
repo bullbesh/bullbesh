@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Oracle forms builder alternate](https://www.reddit.com/r/Python/comments/1gm6hp1/oracle_forms_builder_alternate/)
+- [PyJudo - Another dependency injection library...](https://www.reddit.com/r/Python/comments/1gm6bdf/pyjudo_another_dependency_injection_library/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1gm53zx/friday_daily_thread_rpython_meta_and_freetalk/)
 - [weft 🪢 - a vim-styled terminal reader that lets you chat with your books](https://www.reddit.com/r/Python/comments/1gm2mmx/weft_a_vimstyled_terminal_reader_that_lets_you/)
 - [9x model serving performance without changing hardware](https://www.reddit.com/r/Python/comments/1gm0flj/9x_model_serving_performance_without_changing/)
-- [Affinity - pythonic DDL for well-documented datasets](https://www.reddit.com/r/Python/comments/1glxvkg/affinity_pythonic_ddl_for_welldocumented_datasets/)
-- [Thank you again r/Python - I&#39;m opening up my Python course for those who missed it before](https://www.reddit.com/r/Python/comments/1glxbrj/thank_you_again_rpython_im_opening_up_my_python/)
-- [🚀 Deploying a Django Project Manually on a Linux Server with uWSGI and Nginx](https://www.reddit.com/r/Python/comments/1gluq8u/deploying_a_django_project_manually_on_a_linux/)
 <!-- BLOG-POST-LIST:END -->
