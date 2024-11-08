@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Divulgação de canal](https://www.reddit.com/r/Python/comments/1gmp4wk/divulgação_de_canal/)
 - [Rpaudio: A Lightweight, Non-Blocking Python Audio Library](https://www.reddit.com/r/Python/comments/1gml0rh/rpaudio_a_lightweight_nonblocking_python_audio/)
 - [A search engine for all your memes &lpar;v2.0 updates&rpar;](https://www.reddit.com/r/Python/comments/1gmkv55/a_search_engine_for_all_your_memes_v20_updates/)
 - [I finally found a currently-maintained version of Whoosh, a text search library](https://www.reddit.com/r/Python/comments/1gm8ovf/i_finally_found_a_currentlymaintained_version_of/)
 - [Oracle forms builder alternate](https://www.reddit.com/r/Python/comments/1gm6hp1/oracle_forms_builder_alternate/)
-- [PyJudo - Another dependency injection library...](https://www.reddit.com/r/Python/comments/1gm6bdf/pyjudo_another_dependency_injection_library/)
 <!-- BLOG-POST-LIST:END -->
