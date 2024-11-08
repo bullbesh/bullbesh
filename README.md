@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I finally found a currently-maintained version of Whoosh, a text search library](https://www.reddit.com/r/Python/comments/1gm8ovf/i_finally_found_a_currentlymaintained_version_of/)
 - [Oracle forms builder alternate](https://www.reddit.com/r/Python/comments/1gm6hp1/oracle_forms_builder_alternate/)
 - [PyJudo - Another dependency injection library...](https://www.reddit.com/r/Python/comments/1gm6bdf/pyjudo_another_dependency_injection_library/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1gm53zx/friday_daily_thread_rpython_meta_and_freetalk/)
 - [weft 🪢 - a vim-styled terminal reader that lets you chat with your books](https://www.reddit.com/r/Python/comments/1gm2mmx/weft_a_vimstyled_terminal_reader_that_lets_you/)
-- [9x model serving performance without changing hardware](https://www.reddit.com/r/Python/comments/1gm0flj/9x_model_serving_performance_without_changing/)
 <!-- BLOG-POST-LIST:END -->
