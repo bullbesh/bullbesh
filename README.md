@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [#Predicting Outcomes of Gambling Games Like Crash and Thimble in Python](https://www.reddit.com/r/Python/comments/1gmcvc7/predicting_outcomes_of_gambling_games_like_crash/)
 - [Data labels to a plot using openpyxl](https://www.reddit.com/r/Python/comments/1gmbjp5/data_labels_to_a_plot_using_openpyxl/)
 - [I finally found a currently-maintained version of Whoosh, a text search library](https://www.reddit.com/r/Python/comments/1gm8ovf/i_finally_found_a_currentlymaintained_version_of/)
 - [Oracle forms builder alternate](https://www.reddit.com/r/Python/comments/1gm6hp1/oracle_forms_builder_alternate/)
 - [PyJudo - Another dependency injection library...](https://www.reddit.com/r/Python/comments/1gm6bdf/pyjudo_another_dependency_injection_library/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1gm53zx/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
