@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created Pi-Two, a Python Web Framework!](https://www.reddit.com/r/Python/comments/1gmg0ue/i_created_pitwo_a_python_web_framework/)
 - [Using pyinstrument](https://www.reddit.com/r/Python/comments/1gmdsy3/using_pyinstrument/)
 - [#Predicting Outcomes of Gambling Games Like Crash and Thimble in Python](https://www.reddit.com/r/Python/comments/1gmcvc7/predicting_outcomes_of_gambling_games_like_crash/)
 - [Data labels to a plot using openpyxl](https://www.reddit.com/r/Python/comments/1gmbjp5/data_labels_to_a_plot_using_openpyxl/)
 - [I finally found a currently-maintained version of Whoosh, a text search library](https://www.reddit.com/r/Python/comments/1gm8ovf/i_finally_found_a_currentlymaintained_version_of/)
-- [Oracle forms builder alternate](https://www.reddit.com/r/Python/comments/1gm6hp1/oracle_forms_builder_alternate/)
 <!-- BLOG-POST-LIST:END -->
