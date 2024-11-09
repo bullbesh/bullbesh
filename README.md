@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing screenman, a tool to setup the screen layout depending on the connected screens](https://www.reddit.com/r/Python/comments/1gngim6/introducing_screenman_a_tool_to_setup_the_screen/)
 - [Beating the Dino Game with ML](https://www.reddit.com/r/Python/comments/1gnakqp/beating_the_dino_game_with_ml/)
 - [Separating music into notes and instruments &lpar;audio source separation&rpar;](https://www.reddit.com/r/Python/comments/1gnajj6/separating_music_into_notes_and_instruments_audio/)
 - [Open source drone localization](https://www.reddit.com/r/Python/comments/1gnagm8/open_source_drone_localization/)
 - [Need to set PYTHONPATH in order to make modules get detected.](https://www.reddit.com/r/Python/comments/1gn61an/need_to_set_pythonpath_in_order_to_make_modules/)
-- [Mesa 3.0: A major update to Python&#39;s Agent-Based Modeling library 🎉](https://www.reddit.com/r/Python/comments/1gn5q8z/mesa_30_a_major_update_to_pythons_agentbased/)
 <!-- BLOG-POST-LIST:END -->
