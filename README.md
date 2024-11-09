@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need to set PYTHONPATH in order to make modules get detected.](https://www.reddit.com/r/Python/comments/1gn61an/need_to_set_pythonpath_in_order_to_make_modules/)
+- [Mesa 3.0: A major update to Python&#39;s Agent-Based Modeling library 🎉](https://www.reddit.com/r/Python/comments/1gn5q8z/mesa_30_a_major_update_to_pythons_agentbased/)
 - [Ididi, dependency injection, in a single line of code](https://www.reddit.com/r/Python/comments/1gn5erp/ididi_dependency_injection_in_a_single_line_of/)
 - [Discogs Based Vinyl Recommender System](https://www.reddit.com/r/Python/comments/1gmxu1i/discogs_based_vinyl_recommender_system/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1gmwz92/saturday_daily_thread_resource_request_and/)
-- [Human Approval Layer to Monitor LLM Agent in Production | Phantasm](https://www.reddit.com/r/Python/comments/1gmvfav/human_approval_layer_to_monitor_llm_agent_in/)
-- [Divulgação de canal](https://www.reddit.com/r/Python/comments/1gmp4wk/divulgação_de_canal/)
 <!-- BLOG-POST-LIST:END -->
