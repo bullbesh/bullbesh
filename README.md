@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beating the Dino Game with ML](https://www.reddit.com/r/Python/comments/1gnakqp/beating_the_dino_game_with_ml/)
+- [Separating music into notes and instruments &lpar;audio source separation&rpar;](https://www.reddit.com/r/Python/comments/1gnajj6/separating_music_into_notes_and_instruments_audio/)
+- [Open source drone localization](https://www.reddit.com/r/Python/comments/1gnagm8/open_source_drone_localization/)
 - [Need to set PYTHONPATH in order to make modules get detected.](https://www.reddit.com/r/Python/comments/1gn61an/need_to_set_pythonpath_in_order_to_make_modules/)
 - [Mesa 3.0: A major update to Python&#39;s Agent-Based Modeling library 🎉](https://www.reddit.com/r/Python/comments/1gn5q8z/mesa_30_a_major_update_to_pythons_agentbased/)
-- [Ididi, dependency injection, in a single line of code](https://www.reddit.com/r/Python/comments/1gn5erp/ididi_dependency_injection_in_a_single_line_of/)
-- [Discogs Based Vinyl Recommender System](https://www.reddit.com/r/Python/comments/1gmxu1i/discogs_based_vinyl_recommender_system/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1gmwz92/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
