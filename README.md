@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1gnnmv7/sunday_daily_thread_whats_everyone_working_on/)
-- [Conflicts with variable and import](https://www.reddit.com/r/Python/comments/1gniccl/conflicts_with_variable_and_import/)
 - [Introducing screenman, a tool to setup the screen layout depending on the connected screens](https://www.reddit.com/r/Python/comments/1gngim6/introducing_screenman_a_tool_to_setup_the_screen/)
 - [Beating the Dino Game with ML](https://www.reddit.com/r/Python/comments/1gnakqp/beating_the_dino_game_with_ml/)
 - [Separating music into notes and instruments &lpar;audio source separation&rpar;](https://www.reddit.com/r/Python/comments/1gnajj6/separating_music_into_notes_and_instruments_audio/)
+- [Open source drone localization](https://www.reddit.com/r/Python/comments/1gnagm8/open_source_drone_localization/)
 <!-- BLOG-POST-LIST:END -->
