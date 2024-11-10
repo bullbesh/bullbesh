@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Rendering an .OBJ file](https://www.reddit.com/r/Python/comments/1go77z2/rendering_an_obj_file/)
+- [pyzzles | python puzzles](https://www.reddit.com/r/Python/comments/1go9zri/pyzzles_python_puzzles/)
 - [pipe-operator: Elixir&#39;s pipe operator in Python](https://www.reddit.com/r/Python/comments/1go69ha/pipeoperator_elixirs_pipe_operator_in_python/)
 - [Escaping from Anaconda](https://www.reddit.com/r/Python/comments/1go58y5/escaping_from_anaconda/)
 - [Built this over the weekend - Netflix Subtitle Translator](https://www.reddit.com/r/Python/comments/1gny0ew/built_this_over_the_weekend_netflix_subtitle/)
