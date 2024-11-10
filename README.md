@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pipe-operator: Elixir&#39;s pipe operator in Python](https://www.reddit.com/r/Python/comments/1go69ha/pipeoperator_elixirs_pipe_operator_in_python/)
 - [Escaping from Anaconda](https://www.reddit.com/r/Python/comments/1go58y5/escaping_from_anaconda/)
 - [Built this over the weekend - Netflix Subtitle Translator](https://www.reddit.com/r/Python/comments/1gny0ew/built_this_over_the_weekend_netflix_subtitle/)
 - [I made this while I was bored - It&#39;s a iHeartRadio Station Recorder in Python](https://www.reddit.com/r/Python/comments/1gnvyi6/i_made_this_while_i_was_bored_its_a_iheartradio/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1gnnmv7/sunday_daily_thread_whats_everyone_working_on/)
-- [Introducing screenman, a tool to setup the screen layout depending on the connected screens](https://www.reddit.com/r/Python/comments/1gngim6/introducing_screenman_a_tool_to_setup_the_screen/)
 <!-- BLOG-POST-LIST:END -->
