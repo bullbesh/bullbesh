@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Programming from your phone: has anyone actually managed to do it?](https://www.reddit.com/r/Python/comments/1gp2zw4/programming_from_your_phone_has_anyone_actually/)
+- [Why I cannot post here?](https://www.reddit.com/r/Python/comments/1gp2lw1/why_i_cannot_post_here/)
+- [Checking availability of a package name](https://www.reddit.com/r/Python/comments/1gp2jec/checking_availability_of_a_package_name/)
+- [Checking availability of a package name on PyPI](https://www.reddit.com/r/Python/comments/1gp2gwo/checking_availability_of_a_package_name_on_pypi/)
 - [Search Instagram API via latitude and longitude?](https://www.reddit.com/r/Python/comments/1gp1flu/search_instagram_api_via_latitude_and_longitude/)
-- [[PGQueuer v0.15.0 Release] Now with Recurring Job Scheduling!](https://www.reddit.com/r/Python/comments/1gp19no/pgqueuer_v0150_release_now_with_recurring_job/)
-- [FastAPI, Alembic and database migrations failing because table doesn&#39;t exist](https://www.reddit.com/r/Python/comments/1gox7v3/fastapi_alembic_and_database_migrations_failing/)
-- [Introducing wordgradient - a minimal CLI tool to create a language frequency map](https://www.reddit.com/r/Python/comments/1gosu3p/introducing_wordgradient_a_minimal_cli_tool_to/)
-- [UK: Python Developer job market? Is it worth it?](https://www.reddit.com/r/Python/comments/1gos2hg/uk_python_developer_job_market_is_it_worth_it/)
 <!-- BLOG-POST-LIST:END -->
