@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Projects](https://www.reddit.com/r/Python/comments/1goiked/python_projects/)
+- [Flask app returning 404 bad request for body with &quot;\&quot;](https://www.reddit.com/r/Python/comments/1gojsdp/flask_app_returning_404_bad_request_for_body_with/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1goetbj/monday_daily_thread_project_ideas/)
 - [PyCharm, which version is best for beginners? the professional or community version?](https://www.reddit.com/r/Python/comments/1goempy/pycharm_which_version_is_best_for_beginners_the/)
 - [PrintsCharming: A Python Terminal Toolkit for Powerful Styling, Printing, Frames, Tables, and More!](https://www.reddit.com/r/Python/comments/1gobb51/printscharming_a_python_terminal_toolkit_for/)
