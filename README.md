@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [UK: Python Developer job market? Is it worth it?](https://www.reddit.com/r/Python/comments/1gos2hg/uk_python_developer_job_market_is_it_worth_it/)
 - [Open Source Project open for contributions](https://www.reddit.com/r/Python/comments/1gop6oh/open_source_project_open_for_contributions/)
 - [Flask app returning 404 bad request for body with &quot;\&quot;](https://www.reddit.com/r/Python/comments/1gojsdp/flask_app_returning_404_bad_request_for_body_with/)
 - [Looking for full pypi spec](https://www.reddit.com/r/Python/comments/1gog1zi/looking_for_full_pypi_spec/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1goetbj/monday_daily_thread_project_ideas/)
-- [PyCharm, which version is best for beginners? the professional or community version?](https://www.reddit.com/r/Python/comments/1goempy/pycharm_which_version_is_best_for_beginners_the/)
 <!-- BLOG-POST-LIST:END -->
