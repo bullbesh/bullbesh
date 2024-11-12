@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Sending cross-email-client-compatible emails with MJML and Python](https://www.reddit.com/r/Python/comments/1gpus46/sending_crossemailclientcompatible_emails_with/)
-- [Hand Drawing AI program using OpenCV, MediaPipe, PyTorch and Tkinter](https://www.reddit.com/r/Python/comments/1gpqrt9/hand_drawing_ai_program_using_opencv_mediapipe/)
 - [Python for R users](https://www.reddit.com/r/Python/comments/1gpqqox/python_for_r_users/)
 - [Waiting for Geopolars](https://www.reddit.com/r/Python/comments/1gpkev1/waiting_for_geopolars/)
 - [A complete-ish guide to dependency management in Python](https://www.reddit.com/r/Python/comments/1gphzn2/a_completeish_guide_to_dependency_management_in/)
+- [pyinapp_purchase: Verify In-app Purchase](https://www.reddit.com/r/Python/comments/1gphajd/pyinapp_purchase_verify_inapp_purchase/)
 <!-- BLOG-POST-LIST:END -->
