@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Waiting for Geopolars](https://www.reddit.com/r/Python/comments/1gpkev1/waiting_for_geopolars/)
+- [Visualize data structure](https://www.reddit.com/r/Python/comments/1gpkd5u/visualize_data_structure/)
+- [Build AI Applications with Marqo&#39;s New Ecommerce Models &lpar;Outperform Amazon by 88%&rpar;](https://www.reddit.com/r/Python/comments/1gpjuay/build_ai_applications_with_marqos_new_ecommerce/)
 - [A complete-ish guide to dependency management in Python](https://www.reddit.com/r/Python/comments/1gphzn2/a_completeish_guide_to_dependency_management_in/)
 - [pyinapp_purchase: Verify In-app Purchase](https://www.reddit.com/r/Python/comments/1gphajd/pyinapp_purchase_verify_inapp_purchase/)
-- [Introducing SelfHeal: A framework to make all code self healing](https://www.reddit.com/r/Python/comments/1gpegv1/introducing_selfheal_a_framework_to_make_all_code/)
-- [How to Get CIP Service Using DPKT Package](https://www.reddit.com/r/Python/comments/1gpaqim/how_to_get_cip_service_using_dpkt_package/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1gp7a3y/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
