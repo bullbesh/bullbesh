@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1gpzgm9/wednesday_daily_thread_beginner_questions/)
 - [Sending cross-email-client-compatible emails with MJML and Python](https://www.reddit.com/r/Python/comments/1gpus46/sending_crossemailclientcompatible_emails_with/)
 - [pyTermTk - Self contained TUI library - v0.41.0a released](https://www.reddit.com/r/Python/comments/1gpry54/pytermtk_self_contained_tui_library_v0410a/)
 - [Python for R users](https://www.reddit.com/r/Python/comments/1gpqqox/python_for_r_users/)
 - [Hands-On Python: Beginner-Friendly Projects to Kickstart Your Coding](https://www.reddit.com/r/Python/comments/1gpqm6o/handson_python_beginnerfriendly_projects_to/)
-- [Waiting for Geopolars](https://www.reddit.com/r/Python/comments/1gpkev1/waiting_for_geopolars/)
 <!-- BLOG-POST-LIST:END -->
