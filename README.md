@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Excel Workbook Refresh Automation](https://www.reddit.com/r/Python/comments/1gq4aum/excel_workbook_refresh_automation/)
 - [How to prevent python software from being reverse engineered or pirated?](https://www.reddit.com/r/Python/comments/1gq2v3p/how_to_prevent_python_software_from_being_reverse/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1gpzgm9/wednesday_daily_thread_beginner_questions/)
 - [Sending cross-email-client-compatible emails with MJML and Python](https://www.reddit.com/r/Python/comments/1gpus46/sending_crossemailclientcompatible_emails_with/)
 - [pyTermTk - Self contained TUI library - v0.41.0a released](https://www.reddit.com/r/Python/comments/1gpry54/pytermtk_self_contained_tui_library_v0410a/)
-- [Python for R users](https://www.reddit.com/r/Python/comments/1gpqqox/python_for_r_users/)
 <!-- BLOG-POST-LIST:END -->
