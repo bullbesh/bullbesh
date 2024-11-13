@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finding the full path of a specific folder with a partial path and root using the &#39;os&#39; library](https://www.reddit.com/r/Python/comments/1gqlsda/finding_the_full_path_of_a_specific_folder_with_a/)
+- [[AXM] A simple &quot;Assembly&quot;-like interpreter](https://www.reddit.com/r/Python/comments/1gqkzbt/axm_a_simple_assemblylike_interpreter/)
 - [Flask 3.1.0 Released](https://www.reddit.com/r/Python/comments/1gqjytv/flask_310_released/)
 - [extractous - fast data extraction with a rust core + tika native libs compiled through graalvm](https://www.reddit.com/r/Python/comments/1gqi6bg/extractous_fast_data_extraction_with_a_rust_core/)
 - [What is the better programme to Learn](https://www.reddit.com/r/Python/comments/1gqi4tv/what_is_the_better_programme_to_learn/)
-- [uv after 0.5.0 - might be worth replacing Poetry/pyenv/pipx](https://www.reddit.com/r/Python/comments/1gqh4te/uv_after_050_might_be_worth_replacing/)
-- [Is async django ready for prime time? Our async django production experience](https://www.reddit.com/r/Python/comments/1gqg8q2/is_async_django_ready_for_prime_time_our_async/)
 <!-- BLOG-POST-LIST:END -->
