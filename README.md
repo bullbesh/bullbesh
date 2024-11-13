@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project Ideas needed for mathematics major.](https://www.reddit.com/r/Python/comments/1gqp02i/project_ideas_needed_for_mathematics_major/)
 - [Searching for a coder expert on instagram bot](https://www.reddit.com/r/Python/comments/1gqmlz7/searching_for_a_coder_expert_on_instagram_bot/)
 - [Finding the full path of a specific folder with a partial path and root using the &#39;os&#39; library](https://www.reddit.com/r/Python/comments/1gqlsda/finding_the_full_path_of_a_specific_folder_with_a/)
 - [[AXM] A simple &quot;Assembly&quot;-like interpreter](https://www.reddit.com/r/Python/comments/1gqkzbt/axm_a_simple_assemblylike_interpreter/)
 - [Flask 3.1.0 Released](https://www.reddit.com/r/Python/comments/1gqjytv/flask_310_released/)
-- [extractous - fast data extraction with a rust core + tika native libs compiled through graalvm](https://www.reddit.com/r/Python/comments/1gqi6bg/extractous_fast_data_extraction_with_a_rust_core/)
 <!-- BLOG-POST-LIST:END -->
