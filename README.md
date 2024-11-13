@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [extractous - fast data extraction with a rust core + tika native libs compiled through graalvm](https://www.reddit.com/r/Python/comments/1gqi6bg/extractous_fast_data_extraction_with_a_rust_core/)
+- [What is the better programme to Learn](https://www.reddit.com/r/Python/comments/1gqi4tv/what_is_the_better_programme_to_learn/)
 - [uv after 0.5.0 - might be worth replacing Poetry/pyenv/pipx](https://www.reddit.com/r/Python/comments/1gqh4te/uv_after_050_might_be_worth_replacing/)
 - [Is async django ready for prime time? Our async django production experience](https://www.reddit.com/r/Python/comments/1gqg8q2/is_async_django_ready_for_prime_time_our_async/)
 - [Netflix Subtitle Translator: The XPath Solution - Refined Around Office Hours](https://www.reddit.com/r/Python/comments/1gqfcbh/netflix_subtitle_translator_the_xpath_solution/)
-- [Expedite v0.1.0 is out now on PyPI](https://www.reddit.com/r/Python/comments/1gqeqqb/expedite_v010_is_out_now_on_pypi/)
-- [Roast my personal data engineering project](https://www.reddit.com/r/Python/comments/1gq8u2u/roast_my_personal_data_engineering_project/)
 <!-- BLOG-POST-LIST:END -->
