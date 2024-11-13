@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Question for the pros](https://www.reddit.com/r/Python/comments/1gq9qe2/question_for_the_pros/)
 - [Roast my personal data engineering project](https://www.reddit.com/r/Python/comments/1gq8u2u/roast_my_personal_data_engineering_project/)
 - [Question about libraries](https://www.reddit.com/r/Python/comments/1gq8qj3/question_about_libraries/)
 - [BeamerQT: PyQt application to create LaTeX presentations - v 0.1](https://www.reddit.com/r/Python/comments/1gq77j0/beamerqt_pyqt_application_to_create_latex/)
 - [The Mill build tool is looking for people to collaborate with on adding Python support](https://www.reddit.com/r/Python/comments/1gq6d3e/the_mill_build_tool_is_looking_for_people_to/)
+- [Excel Workbook Refresh Automation](https://www.reddit.com/r/Python/comments/1gq4aum/excel_workbook_refresh_automation/)
 <!-- BLOG-POST-LIST:END -->
