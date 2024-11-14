@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1gqriuc/thursday_daily_thread_python_careers_courses_and/)
 - [PyPIM is a new method to execute Python code directly in RAM](https://www.reddit.com/r/Python/comments/1gqpl0s/pypim_is_a_new_method_to_execute_python_code/)
 - [Project Ideas needed for mathematics major.](https://www.reddit.com/r/Python/comments/1gqp02i/project_ideas_needed_for_mathematics_major/)
-- [Searching for a coder expert on instagram bot](https://www.reddit.com/r/Python/comments/1gqmlz7/searching_for_a_coder_expert_on_instagram_bot/)
 - [Finding the full path of a specific folder with a partial path and root using the &#39;os&#39; library](https://www.reddit.com/r/Python/comments/1gqlsda/finding_the_full_path_of_a_specific_folder_with_a/)
 - [[AXM] A simple &quot;Assembly&quot;-like interpreter](https://www.reddit.com/r/Python/comments/1gqkzbt/axm_a_simple_assemblylike_interpreter/)
 <!-- BLOG-POST-LIST:END -->
