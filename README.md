@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1grj5d8/friday_daily_thread_rpython_meta_and_freetalk/)
 - [What caused Saturn&#39;s rings?](https://www.reddit.com/r/Python/comments/1grgnhr/what_caused_saturns_rings/)
 - [How can we iterate 10000 websites efficiently?](https://www.reddit.com/r/Python/comments/1gremg1/how_can_we_iterate_10000_websites_efficiently/)
 - [Would a Pandas-compatible API powered by Polars be useful?](https://www.reddit.com/r/Python/comments/1grdh7n/would_a_pandascompatible_api_powered_by_polars_be/)
 - [SqueakyCleanText: A Modular Text Processing Library with Advanced NER](https://www.reddit.com/r/Python/comments/1grc5bi/squeakycleantext_a_modular_text_processing/)
-- [Can you solve this Python riddle I made for my colleagues?](https://www.reddit.com/r/Python/comments/1grbkg3/can_you_solve_this_python_riddle_i_made_for_my/)
 <!-- BLOG-POST-LIST:END -->
