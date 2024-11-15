@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyPI now has attestation. Thanks I hate it.](https://www.reddit.com/r/Python/comments/1gs05hm/pypi_now_has_attestation_thanks_i_hate_it/)
+- [Yami - A music player made with Tkinter Now on pypi!](https://www.reddit.com/r/Python/comments/1grzxre/yami_a_music_player_made_with_tkinter_now_on_pypi/)
 - [What is wrong with face_recognition](https://www.reddit.com/r/Python/comments/1gryiw1/what_is_wrong_with_face_recognition/)
 - [http://awakenerd.com/2024/11/15/puzzles-to-improve-python/](https://www.reddit.com/r/Python/comments/1gryf3z/httpawakenerdcom20241115puzzlestoimprovepython/)
 - [Need project Idea](https://www.reddit.com/r/Python/comments/1grul1v/need_project_idea/)
-- [fxgui: Collection of Python Classes and Utilities designed for Building Qt-based UIs in VFX](https://www.reddit.com/r/Python/comments/1gru93h/fxgui_collection_of_python_classes_and_utilities/)
-- [Dispatchery: Type-aware, multi-arg function dispatch for complex and nested Python types](https://www.reddit.com/r/Python/comments/1grszm2/dispatchery_typeaware_multiarg_function_dispatch/)
 <!-- BLOG-POST-LIST:END -->
