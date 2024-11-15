@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I played a minute-long video in Windows Terminal](https://www.reddit.com/r/Python/comments/1gro3kl/i_played_a_minutelong_video_in_windows_terminal/)
+- [I shared a Python Data Science Bootcamp &lpar;7+ Hours, 7 Courses and 3 Projects&rpar; on YouTube](https://www.reddit.com/r/Python/comments/1grnwh7/i_shared_a_python_data_science_bootcamp_7_hours_7/)
 - [Cloudflare turnstyle](https://www.reddit.com/r/Python/comments/1grln93/cloudflare_turnstyle/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1grj5d8/friday_daily_thread_rpython_meta_and_freetalk/)
 - [What caused Saturn&#39;s rings?](https://www.reddit.com/r/Python/comments/1grgnhr/what_caused_saturns_rings/)
-- [How can we iterate 10000 websites efficiently?](https://www.reddit.com/r/Python/comments/1gremg1/how_can_we_iterate_10000_websites_efficiently/)
-- [Would a Pandas-compatible API powered by Polars be useful?](https://www.reddit.com/r/Python/comments/1grdh7n/would_a_pandascompatible_api_powered_by_polars_be/)
 <!-- BLOG-POST-LIST:END -->
