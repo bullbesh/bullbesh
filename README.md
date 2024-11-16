@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Write good tests](https://www.reddit.com/r/Python/comments/1gspitz/write_good_tests/)
 - [What cookiecutter templates do you use?](https://www.reddit.com/r/Python/comments/1gsohk7/what_cookiecutter_templates_do_you_use/)
 - [Finally Completed : A Personal Project built over the weekend&lpar;s&rpar; - Netflix Subtitle Translator](https://www.reddit.com/r/Python/comments/1gsm1kp/finally_completed_a_personal_project_built_over/)
 - [Power Automate Application Hosted on the Windows server with IIS. Python watchdog too.](https://www.reddit.com/r/Python/comments/1gsj8he/power_automate_application_hosted_on_the_windows/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1gsaiu7/saturday_daily_thread_resource_request_and/)
-- [Game 987, Like 2048 but Fibonacci &lpar;Made in Python&rpar;](https://www.reddit.com/r/Python/comments/1gs56f7/game_987_like_2048_but_fibonacci_made_in_python/)
 <!-- BLOG-POST-LIST:END -->
