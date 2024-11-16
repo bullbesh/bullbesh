@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Power Automate Application Hosted on the Windows server with IIS. Python watchdog too.](https://www.reddit.com/r/Python/comments/1gsj8he/power_automate_application_hosted_on_the_windows/)
-- [Would you catch this &lpar;Malware Example&rpar;?](https://www.reddit.com/r/Python/comments/1gsionl/would_you_catch_this_malware_example/)
 - [Hidden Trigger: Unlock Python’s Built-in Debugging Superpower with PDB](https://www.reddit.com/r/Python/comments/1gsdcj8/hidden_trigger_unlock_pythons_builtin_debugging/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1gsaiu7/saturday_daily_thread_resource_request_and/)
 - [Game 987, Like 2048 but Fibonacci &lpar;Made in Python&rpar;](https://www.reddit.com/r/Python/comments/1gs56f7/game_987_like_2048_but_fibonacci_made_in_python/)
+- [PyPI now has attestation. Thanks I hate it.](https://www.reddit.com/r/Python/comments/1gs05hm/pypi_now_has_attestation_thanks_i_hate_it/)
 <!-- BLOG-POST-LIST:END -->
