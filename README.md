@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can I code a PyPi service on my own?](https://www.reddit.com/r/Python/comments/1gsgpst/can_i_code_a_pypi_service_on_my_own/)
+- [Would you catch this &lpar;Malware Example&rpar;?](https://www.reddit.com/r/Python/comments/1gsionl/would_you_catch_this_malware_example/)
 - [Hidden Trigger: Unlock Python’s Built-in Debugging Superpower with PDB](https://www.reddit.com/r/Python/comments/1gsdcj8/hidden_trigger_unlock_pythons_builtin_debugging/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1gsaiu7/saturday_daily_thread_resource_request_and/)
 - [Game 987, Like 2048 but Fibonacci &lpar;Made in Python&rpar;](https://www.reddit.com/r/Python/comments/1gs56f7/game_987_like_2048_but_fibonacci_made_in_python/)
