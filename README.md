@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1gsaiu7/saturday_daily_thread_resource_request_and/)
 - [Game 987, Like 2048 but Fibonacci &lpar;Made in Python&rpar;](https://www.reddit.com/r/Python/comments/1gs56f7/game_987_like_2048_but_fibonacci_made_in_python/)
-- [Which frontend tool to use](https://www.reddit.com/r/Python/comments/1gs17du/which_frontend_tool_to_use/)
 - [PyPI now has attestation. Thanks I hate it.](https://www.reddit.com/r/Python/comments/1gs05hm/pypi_now_has_attestation_thanks_i_hate_it/)
 - [Yami - A music player made with Tkinter Now on pypi!](https://www.reddit.com/r/Python/comments/1grzxre/yami_a_music_player_made_with_tkinter_now_on_pypi/)
 - [What is wrong with face_recognition](https://www.reddit.com/r/Python/comments/1gryiw1/what_is_wrong_with_face_recognition/)
