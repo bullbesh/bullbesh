@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Im trying to make an image overlay tool that matches the code below but Im having a hard time](https://www.reddit.com/r/Python/comments/1gtafeg/im_trying_to_make_an_image_overlay_tool_that/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1gt0n9f/sunday_daily_thread_whats_everyone_working_on/)
 - [Write any Python script in 30 characters &lpar;plus an ungodly amount of whitespace&rpar;](https://www.reddit.com/r/Python/comments/1gsyls8/write_any_python_script_in_30_characters_plus_an/)
 - [Write good tests](https://www.reddit.com/r/Python/comments/1gspitz/write_good_tests/)
 - [What cookiecutter templates do you use?](https://www.reddit.com/r/Python/comments/1gsohk7/what_cookiecutter_templates_do_you_use/)
-- [Finally Completed : A Personal Project built over the weekend&lpar;s&rpar; - Netflix Subtitle Translator](https://www.reddit.com/r/Python/comments/1gsm1kp/finally_completed_a_personal_project_built_over/)
 <!-- BLOG-POST-LIST:END -->
