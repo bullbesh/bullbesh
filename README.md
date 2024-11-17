@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best current practises for mysql and python](https://www.reddit.com/r/Python/comments/1gtp6r2/best_current_practises_for_mysql_and_python/)
+- [How I Doubled My Sales in 1 Week with Python Automation](https://www.reddit.com/r/Python/comments/1gtojam/how_i_doubled_my_sales_in_1_week_with_python/)
 - [I started implementing an AsyncIO event loop in Rust](https://www.reddit.com/r/Python/comments/1gtmvdb/i_started_implementing_an_asyncio_event_loop_in/)
 - [Script combines project files and directory structure into 1 txt file for AI chat context](https://www.reddit.com/r/Python/comments/1gtkkby/script_combines_project_files_and_directory/)
 - [treemind: Simplifying Gradient Boosting Model Analysis](https://www.reddit.com/r/Python/comments/1gtki6f/treemind_simplifying_gradient_boosting_model/)
-- [Python poker program &lpar;base/basic intermediate level&rpar; to have a better understanding of fundamentals](https://www.reddit.com/r/Python/comments/1gtkbvf/python_poker_program_basebasic_intermediate_level/)
-- [Using SQLite in production](https://www.reddit.com/r/Python/comments/1gtjgg0/using_sqlite_in_production/)
 <!-- BLOG-POST-LIST:END -->
