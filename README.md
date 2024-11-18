@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Python&#39;s pathlib module](https://www.reddit.com/r/Python/comments/1guhphv/using_pythons_pathlib_module/)
 - [If you use uv, what are your use cases for uvx?](https://www.reddit.com/r/Python/comments/1guf2fh/if_you_use_uv_what_are_your_use_cases_for_uvx/)
 - [Basic Components: Server-Side UI Components for Python Web Apps &lpar;Feedback Appreciated&rpar;](https://www.reddit.com/r/Python/comments/1gue0s5/basic_components_serverside_ui_components_for/)
 - [python code visual studio code issue](https://www.reddit.com/r/Python/comments/1gudzh3/python_code_visual_studio_code_issue/)
 - [.env safely share](https://www.reddit.com/r/Python/comments/1gud1h9/env_safely_share/)
-- [Raspberry Pi camera modules, machine vision and astro cameras in Python](https://www.reddit.com/r/Python/comments/1gucbvz/raspberry_pi_camera_modules_machine_vision_and/)
 <!-- BLOG-POST-LIST:END -->
