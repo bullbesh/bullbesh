@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [I Understand Machine Learning Models Better by Combining Python Libraries](https://www.reddit.com/r/Python/comments/1gtyh9o/i_understand_machine_learning_models_better_by/)
+- [AuthSphere: The Ultimate FastAPI Authentication Package](https://www.reddit.com/r/Python/comments/1gtyfts/authsphere_the_ultimate_fastapi_authentication/)
+- [AuthSphere: The Ultimate FastAPI Authentication Package](https://www.reddit.com/r/Python/comments/1gtyd4z/authsphere_the_ultimate_fastapi_authentication/)
 - [ansiplot: Pretty &lpar;and legible&rpar; small console plots.](https://www.reddit.com/r/Python/comments/1gtvy3o/ansiplot_pretty_and_legible_small_console_plots/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1gtrhgb/monday_daily_thread_project_ideas/)
-- [There&#39;s the easy way...](https://www.reddit.com/r/Python/comments/1gtrfsr/theres_the_easy_way/)
-- [SQLModel vs SQLAlchemy for production](https://www.reddit.com/r/Python/comments/1gtrfpf/sqlmodel_vs_sqlalchemy_for_production/)
 <!-- BLOG-POST-LIST:END -->
