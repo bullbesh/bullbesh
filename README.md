@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Made a tool to prevent blue screens](https://www.reddit.com/r/Python/comments/1gtu7eb/made_a_tool_to_prevent_blue_screens/)
+- [ansiplot: Pretty &lpar;and legible&rpar; small console plots.](https://www.reddit.com/r/Python/comments/1gtvy3o/ansiplot_pretty_and_legible_small_console_plots/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1gtrhgb/monday_daily_thread_project_ideas/)
 - [There&#39;s the easy way...](https://www.reddit.com/r/Python/comments/1gtrfsr/theres_the_easy_way/)
 - [SQLModel vs SQLAlchemy for production](https://www.reddit.com/r/Python/comments/1gtrfpf/sqlmodel_vs_sqlalchemy_for_production/)
