@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Difference between Full Stack Web Developer and Software Engineer? Who am I?](https://www.reddit.com/r/Python/comments/1gv1lo9/difference_between_full_stack_web_developer_and/)
+- [Build a Crypto Market-Making Bot with Python &lpar;Live Demo in London&rpar;](https://www.reddit.com/r/Python/comments/1gv1cfe/build_a_crypto_marketmaking_bot_with_python_live/)
 - [Where should I start?](https://www.reddit.com/r/Python/comments/1gv034r/where_should_i_start/)
 - [Python @classmethod: examples emphasizing use cases in bioinformatics-related problems.](https://www.reddit.com/r/Python/comments/1guzcuf/python_classmethod_examples_emphasizing_use_cases/)
 - [Build a fraud detection app with AI](https://www.reddit.com/r/Python/comments/1gux1d4/build_a_fraud_detection_app_with_ai/)
-- [Data Visualization Project.](https://www.reddit.com/r/Python/comments/1guws6z/data_visualization_project/)
-- [Speaker Diarization](https://www.reddit.com/r/Python/comments/1guthu3/speaker_diarization/)
 <!-- BLOG-POST-LIST:END -->
