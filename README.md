@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1gujmbz/tuesday_daily_thread_advanced_questions/)
+- [easytz - Batch Time Zone Conversions Made Easy](https://www.reddit.com/r/Python/comments/1guja7k/easytz_batch_time_zone_conversions_made_easy/)
 - [Using Python&#39;s pathlib module](https://www.reddit.com/r/Python/comments/1guhphv/using_pythons_pathlib_module/)
 - [If you use uv, what are your use cases for uvx?](https://www.reddit.com/r/Python/comments/1guf2fh/if_you_use_uv_what_are_your_use_cases_for_uvx/)
 - [Basic Components: Server-Side UI Components for Python Web Apps &lpar;Feedback Appreciated&rpar;](https://www.reddit.com/r/Python/comments/1gue0s5/basic_components_serverside_ui_components_for/)
-- [python code visual studio code issue](https://www.reddit.com/r/Python/comments/1gudzh3/python_code_visual_studio_code_issue/)
-- [.env safely share](https://www.reddit.com/r/Python/comments/1gud1h9/env_safely_share/)
 <!-- BLOG-POST-LIST:END -->
