@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is it normal to be unable to understand the lambda function?](https://www.reddit.com/r/Python/comments/1gvmeti/is_it_normal_to_be_unable_to_understand_the/)
+- [Why threads in backend development might be good.](https://www.reddit.com/r/Python/comments/1gvmqji/why_threads_in_backend_development_might_be_good/)
 - [Created an AI Research Assistant that actually DOES research! one query FULL document of knowledge!](https://www.reddit.com/r/Python/comments/1gvlzax/created_an_ai_research_assistant_that_actually/)
 - [I&#39;m stucking in installing numpy](https://www.reddit.com/r/Python/comments/1gvkpbm/im_stucking_in_installing_numpy/)
 - [Boiler plate for flask back end.](https://www.reddit.com/r/Python/comments/1gvjp8p/boiler_plate_for_flask_back_end/)
