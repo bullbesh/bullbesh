@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am thinking of making a tool script that makes it easier for linux admins](https://www.reddit.com/r/Python/comments/1gvhb2h/i_am_thinking_of_making_a_tool_script_that_makes/)
+- [Autocomplete IDE and Py](https://www.reddit.com/r/Python/comments/1gvgskk/autocomplete_ide_and_py/)
 - [Library Analyzer](https://www.reddit.com/r/Python/comments/1gvdukw/library_analyzer/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1gvbziu/wednesday_daily_thread_beginner_questions/)
 - [Retro Terminal Chatbot &lpar;GLaDOS&rpar;](https://www.reddit.com/r/Python/comments/1gv92l4/retro_terminal_chatbot_glados/)
-- [Difference between Full Stack Web Developer and Software Engineer? Who am I?](https://www.reddit.com/r/Python/comments/1gv1lo9/difference_between_full_stack_web_developer_and/)
-- [Build a Crypto Market-Making Bot with Python &lpar;Live Demo in London&rpar;](https://www.reddit.com/r/Python/comments/1gv1cfe/build_a_crypto_marketmaking_bot_with_python_live/)
 <!-- BLOG-POST-LIST:END -->
