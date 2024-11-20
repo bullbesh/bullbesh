@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [UPDATE: How I Doubled My Sales in 1 Week with Python Automation](https://www.reddit.com/r/Python/comments/1gvoz0p/update_how_i_doubled_my_sales_in_1_week_with/)
 - [Looking for High-End Face Recognition Systems for Low-Resolution Feeds](https://www.reddit.com/r/Python/comments/1gvoh92/looking_for_highend_face_recognition_systems_for/)
 - [moka-py: A high performance caching library for Python written in Rust with TTL/TTI support](https://www.reddit.com/r/Python/comments/1gvnsoh/mokapy_a_high_performance_caching_library_for/)
 - [Migrating from black and flake8 to ruff](https://www.reddit.com/r/Python/comments/1gvnfvi/migrating_from_black_and_flake8_to_ruff/)
 - [Why threads in backend development might be good.](https://www.reddit.com/r/Python/comments/1gvmqji/why_threads_in_backend_development_might_be_good/)
-- [Created an AI Research Assistant that actually DOES research! one query FULL document of knowledge!](https://www.reddit.com/r/Python/comments/1gvlzax/created_an_ai_research_assistant_that_actually/)
 <!-- BLOG-POST-LIST:END -->
