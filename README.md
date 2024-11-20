@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m stucking in installing numpy](https://www.reddit.com/r/Python/comments/1gvkpbm/im_stucking_in_installing_numpy/)
 - [Boiler plate for flask back end.](https://www.reddit.com/r/Python/comments/1gvjp8p/boiler_plate_for_flask_back_end/)
 - [Much faster than pandas for simple cases? Leopards...](https://www.reddit.com/r/Python/comments/1gvhsz1/much_faster_than_pandas_for_simple_cases_leopards/)
 - [I am thinking of making a tool script that makes it easier for linux admins](https://www.reddit.com/r/Python/comments/1gvhb2h/i_am_thinking_of_making_a_tool_script_that_makes/)
 - [Autocomplete IDE and Py](https://www.reddit.com/r/Python/comments/1gvgskk/autocomplete_ide_and_py/)
-- [Library Analyzer](https://www.reddit.com/r/Python/comments/1gvdukw/library_analyzer/)
 <!-- BLOG-POST-LIST:END -->
