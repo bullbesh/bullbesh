@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for High-End Face Recognition Systems for Low-Resolution Feeds](https://www.reddit.com/r/Python/comments/1gvoh92/looking_for_highend_face_recognition_systems_for/)
+- [moka-py: A high performance caching library for Python written in Rust with TTL/TTI support](https://www.reddit.com/r/Python/comments/1gvnsoh/mokapy_a_high_performance_caching_library_for/)
+- [Migrating from black and flake8 to ruff](https://www.reddit.com/r/Python/comments/1gvnfvi/migrating_from_black_and_flake8_to_ruff/)
 - [Why threads in backend development might be good.](https://www.reddit.com/r/Python/comments/1gvmqji/why_threads_in_backend_development_might_be_good/)
 - [Created an AI Research Assistant that actually DOES research! one query FULL document of knowledge!](https://www.reddit.com/r/Python/comments/1gvlzax/created_an_ai_research_assistant_that_actually/)
-- [I&#39;m stucking in installing numpy](https://www.reddit.com/r/Python/comments/1gvkpbm/im_stucking_in_installing_numpy/)
-- [Boiler plate for flask back end.](https://www.reddit.com/r/Python/comments/1gvjp8p/boiler_plate_for_flask_back_end/)
-- [Much faster than pandas for simple cases? Leopards...](https://www.reddit.com/r/Python/comments/1gvhsz1/much_faster_than_pandas_for_simple_cases_leopards/)
 <!-- BLOG-POST-LIST:END -->
