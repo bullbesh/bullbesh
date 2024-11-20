@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I DID IT, 3D RENDERER IN PYTHON](https://www.reddit.com/r/Python/comments/1gvylyh/i_did_it_3d_renderer_in_python/)
 - [Spelunking in Comments and Documentation for Security Footguns](https://www.reddit.com/r/Python/comments/1gvxlrz/spelunking_in_comments_and_documentation_for/)
 - [my computer tried to calculate paths 9.33×10^157 times.](https://www.reddit.com/r/Python/comments/1gvunjh/my_computer_tried_to_calculate_paths_93310157/)
 - [Running 24/7 chromedriver python script](https://www.reddit.com/r/Python/comments/1gvq8z2/running_247_chromedriver_python_script/)
 - [UPDATE: How I Doubled My Sales in 1 Week with Python Automation](https://www.reddit.com/r/Python/comments/1gvoz0p/update_how_i_doubled_my_sales_in_1_week_with/)
-- [Looking for High-End Face Recognition Systems for Low-Resolution Feeds](https://www.reddit.com/r/Python/comments/1gvoh92/looking_for_highend_face_recognition_systems_for/)
 <!-- BLOG-POST-LIST:END -->
