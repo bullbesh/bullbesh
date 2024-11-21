@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MetaDataScraper: A Python Package for scraping Facebook page data with ease!](https://www.reddit.com/r/Python/comments/1gwn9yd/metadatascraper_a_python_package_for_scraping/)
+- [I&#39;m cooked. You&#39;ll know why after reading this.](https://www.reddit.com/r/Python/comments/1gwmo14/im_cooked_youll_know_why_after_reading_this/)
 - [apscheduler question, or bug.](https://www.reddit.com/r/Python/comments/1gwk4ue/apscheduler_question_or_bug/)
 - [HPC-Style Job Scripts in the Cloud](https://www.reddit.com/r/Python/comments/1gwj7e6/hpcstyle_job_scripts_in_the_cloud/)
 - [Creating a Python System to Turn All PostgreSQL Servers into Masters with Auto-Recovery and Sync – N](https://www.reddit.com/r/Python/comments/1gwghji/creating_a_python_system_to_turn_all_postgresql/)
-- [Use python to build mk Converter](https://www.reddit.com/r/Python/comments/1gwfscj/use_python_to_build_mk_converter/)
-- [Generate Realistic Podcast Sessions Programmatically](https://www.reddit.com/r/Python/comments/1gw5j21/generate_realistic_podcast_sessions/)
 <!-- BLOG-POST-LIST:END -->
