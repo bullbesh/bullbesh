@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What cryptography module is everyone using for Python &lpar;2024 edition&rpar;?](https://www.reddit.com/r/Python/comments/1gxs1su/what_cryptography_module_is_everyone_using_for/)
 - [Now updated my Python Automated AI Research Assistant to work with OpenAI endpoints and Ollama!](https://www.reddit.com/r/Python/comments/1gxotms/now_updated_my_python_automated_ai_research/)
 - [The most disappointing project i ever done](https://www.reddit.com/r/Python/comments/1gxnaei/the_most_disappointing_project_i_ever_done/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1gxm8u3/saturday_daily_thread_resource_request_and/)
 - [Python isn&#39;t just glue, it&#39;s an implicit JIT ecosystem](https://www.reddit.com/r/Python/comments/1gxlogn/python_isnt_just_glue_its_an_implicit_jit/)
-- [pydantic-resolve, a lightweight library based on pydantic which greatly helps on building data.](https://www.reddit.com/r/Python/comments/1gx9uyn/pydanticresolve_a_lightweight_library_based_on/)
 <!-- BLOG-POST-LIST:END -->
