@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Benchmark: DuckDB, Polars, Pandas, Arrow, SQLite, NanoCube on filtering / point queryies](https://www.reddit.com/r/Python/comments/1gyoi7n/benchmark_duckdb_polars_pandas_arrow_sqlite/)
 - [Open Source Discord Bot for Live Football Tracking Across 75+ Leagues](https://www.reddit.com/r/Python/comments/1gynfso/open_source_discord_bot_for_live_football/)
 - [GitHub Projects for begginers](https://www.reddit.com/r/Python/comments/1gyklzq/github_projects_for_begginers/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1gydn91/sunday_daily_thread_whats_everyone_working_on/)
 - [Steganography tool + algo in python](https://www.reddit.com/r/Python/comments/1gyagru/steganography_tool_algo_in_python/)
-- [Advice please on python](https://www.reddit.com/r/Python/comments/1gyaa58/advice_please_on_python/)
 <!-- BLOG-POST-LIST:END -->
