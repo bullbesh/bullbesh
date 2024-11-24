@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Wrote a Guide to Simulation in Python with SimPy](https://www.reddit.com/r/Python/comments/1gz3bgp/i_wrote_a_guide_to_simulation_in_python_with_simpy/)
 - [I made a Spotify → YouTube Music converter that doesn&#39;t need API keys! [GUI]](https://www.reddit.com/r/Python/comments/1gz2vhf/i_made_a_spotify_youtube_music_converter_that/)
 - [Pythonic API for POSIX Named Semaphores](https://www.reddit.com/r/Python/comments/1gz2fcn/pythonic_api_for_posix_named_semaphores/)
 - [Dungeons and Dragon&#39;s Character Generator Code](https://www.reddit.com/r/Python/comments/1gyv85s/dungeons_and_dragons_character_generator_code/)
 - [Sparx maths python bot](https://www.reddit.com/r/Python/comments/1gyueei/sparx_maths_python_bot/)
-- [[OC] &lpar;Dooit V3&rpar; A very customizable TUI Todo Manager!](https://www.reddit.com/r/Python/comments/1gysoo4/oc_dooit_v3_a_very_customizable_tui_todo_manager/)
 <!-- BLOG-POST-LIST:END -->
