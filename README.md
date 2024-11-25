@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I cant find the logic error in my code](https://www.reddit.com/r/Python/comments/1gzbkmr/i_cant_find_the_logic_error_in_my_code/)
 - [Command to tile X windows in dwm fashion](https://www.reddit.com/r/Python/comments/1gz7225/command_to_tile_x_windows_in_dwm_fashion/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1gz5fou/monday_daily_thread_project_ideas/)
 - [Multipython: Python 2.7 and 3.5 to 3.14 multi-version Docker image for Tox tests and CI/CD](https://www.reddit.com/r/Python/comments/1gz3pkh/multipython_python_27_and_35_to_314_multiversion/)
 - [I Wrote a Guide to Simulation in Python with SimPy](https://www.reddit.com/r/Python/comments/1gz3bgp/i_wrote_a_guide_to_simulation_in_python_with_simpy/)
-- [I made a Spotify → YouTube Music converter that doesn&#39;t need API keys! [GUI]](https://www.reddit.com/r/Python/comments/1gz2vhf/i_made_a_spotify_youtube_music_converter_that/)
 <!-- BLOG-POST-LIST:END -->
