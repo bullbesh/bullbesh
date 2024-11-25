@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Command to tile X windows in dwm fashion](https://www.reddit.com/r/Python/comments/1gz7225/command_to_tile_x_windows_in_dwm_fashion/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1gz5fou/monday_daily_thread_project_ideas/)
+- [Multipython: Python 2.7 and 3.5 to 3.14 multi-version Docker image for Tox tests and CI/CD](https://www.reddit.com/r/Python/comments/1gz3pkh/multipython_python_27_and_35_to_314_multiversion/)
 - [I Wrote a Guide to Simulation in Python with SimPy](https://www.reddit.com/r/Python/comments/1gz3bgp/i_wrote_a_guide_to_simulation_in_python_with_simpy/)
 - [I made a Spotify → YouTube Music converter that doesn&#39;t need API keys! [GUI]](https://www.reddit.com/r/Python/comments/1gz2vhf/i_made_a_spotify_youtube_music_converter_that/)
-- [Pythonic API for POSIX Named Semaphores](https://www.reddit.com/r/Python/comments/1gz2fcn/pythonic_api_for_posix_named_semaphores/)
-- [Dungeons and Dragon&#39;s Character Generator Code](https://www.reddit.com/r/Python/comments/1gyv85s/dungeons_and_dragons_character_generator_code/)
-- [Sparx maths python bot](https://www.reddit.com/r/Python/comments/1gyueei/sparx_maths_python_bot/)
 <!-- BLOG-POST-LIST:END -->
