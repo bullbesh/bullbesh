@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Improving GroupBy.map with Dask and Xarray](https://www.reddit.com/r/Python/comments/1gznukm/improving_groupbymap_with_dask_and_xarray/)
+- [What do you think of front-end python libraries such as Reflex &lpar;old Pynecone&rpar;?](https://www.reddit.com/r/Python/comments/1gznoub/what_do_you_think_of_frontend_python_libraries/)
+- [What do you think is the most visually appealing or &#39;good-looking&#39; Python GUI library, and why?](https://www.reddit.com/r/Python/comments/1gzmv9p/what_do_you_think_is_the_most_visually_appealing/)
 - [Make your log spark joy with a single line](https://www.reddit.com/r/Python/comments/1gzjft6/make_your_log_spark_joy_with_a_single_line/)
 - [File poller app](https://www.reddit.com/r/Python/comments/1gzigsw/file_poller_app/)
-- [Python scrip to standalone GUI .exe dependency issues. Tried several modules.](https://www.reddit.com/r/Python/comments/1gzh717/python_scrip_to_standalone_gui_exe_dependency/)
-- [Best Android Python IDE](https://www.reddit.com/r/Python/comments/1gzfxw5/best_android_python_ide/)
-- [Inviting contributors to an open source project - AI Dashboard Builder](https://www.reddit.com/r/Python/comments/1gzflho/inviting_contributors_to_an_open_source_project/)
 <!-- BLOG-POST-LIST:END -->
