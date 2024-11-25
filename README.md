@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Android Python IDE](https://www.reddit.com/r/Python/comments/1gzfxw5/best_android_python_ide/)
 - [Inviting contributors to an open source project - AI Dashboard Builder](https://www.reddit.com/r/Python/comments/1gzflho/inviting_contributors_to_an_open_source_project/)
 - [Generate a gradient between 2 colors in python.](https://www.reddit.com/r/Python/comments/1gzdra0/generate_a_gradient_between_2_colors_in_python/)
 - [I cant find the logic error in my code](https://www.reddit.com/r/Python/comments/1gzbkmr/i_cant_find_the_logic_error_in_my_code/)
 - [Command to tile X windows in dwm fashion](https://www.reddit.com/r/Python/comments/1gz7225/command_to_tile_x_windows_in_dwm_fashion/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1gz5fou/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
