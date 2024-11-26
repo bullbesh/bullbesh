@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Promptic: &quot;requests&quot; for LLMs](https://www.reddit.com/r/Python/comments/1h0lmbk/promptic_requests_for_llms/)
+- [Built a research automation API that replaces messy web scraping scripts](https://www.reddit.com/r/Python/comments/1h0kph4/built_a_research_automation_api_that_replaces/)
+- [How important is software testing to you as a Python developer? 🐍🤔](https://www.reddit.com/r/Python/comments/1h0kjcy/how_important_is_software_testing_to_you_as_a/)
 - [Readability of compound boolean expressions](https://www.reddit.com/r/Python/comments/1h0jbbi/readability_of_compound_boolean_expressions/)
 - [What do you guys think of this Python course?](https://www.reddit.com/r/Python/comments/1h0ij26/what_do_you_guys_think_of_this_python_course/)
-- [I made a Report Generation and Project Management Tool [Django Rest]](https://www.reddit.com/r/Python/comments/1h0g0us/i_made_a_report_generation_and_project_management/)
-- [Sou iniciante n mundo da progrmação](https://www.reddit.com/r/Python/comments/1h0aomx/sou_iniciante_n_mundo_da_progrmação/)
-- [Goal Screener &lpar;my first python app&rpar;](https://www.reddit.com/r/Python/comments/1h064ct/goal_screener_my_first_python_app/)
 <!-- BLOG-POST-LIST:END -->
