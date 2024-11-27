@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [OCR for product labels](https://www.reddit.com/r/Python/comments/1h160xt/ocr_for_product_labels/)
 - [I made a Python signal/slot library that works like Qt but without Qt dependency](https://www.reddit.com/r/Python/comments/1h115dx/i_made_a_python_signalslot_library_that_works/)
 - [Is there life beyond PyUnit/PyTest?](https://www.reddit.com/r/Python/comments/1h0yg58/is_there_life_beyond_pyunitpytest/)
 - [error: use of undeclared identifier &#39;BPF_SK_LOOKUP&#39;; did you mean &#39;BPF_F_LOCK&#39;?](https://www.reddit.com/r/Python/comments/1h0ukew/error_use_of_undeclared_identifier_bpf_sk_lookup/)
 - [Stock Etf Tracker](https://www.reddit.com/r/Python/comments/1h0tr0k/stock_etf_tracker/)
-- [Interface programming using abs in Python](https://www.reddit.com/r/Python/comments/1h0rkmn/interface_programming_using_abs_in_python/)
 <!-- BLOG-POST-LIST:END -->
