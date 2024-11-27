@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My side project has gotten 420k downloads and 69 GitHub stars &lpar;noice!&rpar;](https://www.reddit.com/r/Python/comments/1h1ccfu/my_side_project_has_gotten_420k_downloads_and_69/)
 - [Django Protego - A Flexible and Dynamic Circuit Breaker](https://www.reddit.com/r/Python/comments/1h1924d/django_protego_a_flexible_and_dynamic_circuit/)
 - [Python Imports... just why! 🥶](https://www.reddit.com/r/Python/comments/1h17dpb/python_imports_just_why/)
 - [OCR for product labels](https://www.reddit.com/r/Python/comments/1h160xt/ocr_for_product_labels/)
 - [I made a Python signal/slot library that works like Qt but without Qt dependency](https://www.reddit.com/r/Python/comments/1h115dx/i_made_a_python_signalslot_library_that_works/)
-- [Is there life beyond PyUnit/PyTest?](https://www.reddit.com/r/Python/comments/1h0yg58/is_there_life_beyond_pyunitpytest/)
 <!-- BLOG-POST-LIST:END -->
