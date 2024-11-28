@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python and GoHigh Level Integration](https://www.reddit.com/r/Python/comments/1h1pq0x/python_and_gohigh_level_integration/)
+- [ASCII tree generator package](https://www.reddit.com/r/Python/comments/1h1pmbh/ascii_tree_generator_package/)
+- [PixelPurge: Game Cleanup Tool](https://www.reddit.com/r/Python/comments/1h1plj9/pixelpurge_game_cleanup_tool/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1h1isdo/thursday_daily_thread_python_careers_courses_and/)
 - [opennb: Open Jupyter notebooks from GitHub with dependencies, instantly &lpar;with uv&rpar;!](https://www.reddit.com/r/Python/comments/1h1ecw7/opennb_open_jupyter_notebooks_from_github_with/)
-- [Update on pgcrud: CRUD operations for PostgreSQL](https://www.reddit.com/r/Python/comments/1h1di9u/update_on_pgcrud_crud_operations_for_postgresql/)
-- [My side project has gotten 420k downloads and 69 GitHub stars &lpar;noice!&rpar;](https://www.reddit.com/r/Python/comments/1h1ccfu/my_side_project_has_gotten_420k_downloads_and_69/)
-- [Django Protego - A Flexible and Dynamic Circuit Breaker](https://www.reddit.com/r/Python/comments/1h1924d/django_protego_a_flexible_and_dynamic_circuit/)
 <!-- BLOG-POST-LIST:END -->
