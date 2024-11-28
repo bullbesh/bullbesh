@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built an AI tool that post tweets and retweets on my behalf and save my time](https://www.reddit.com/r/Python/comments/1h20ipv/i_built_an_ai_tool_that_post_tweets_and_retweets/)
 - [Creating an AI-powered Image Generation API Service with FLUX, Python, and Diffusers](https://www.reddit.com/r/Python/comments/1h1tx73/creating_an_aipowered_image_generation_api/)
 - [Stormchaser: A Python program that collects and animates Western Pacific typhoon data.](https://www.reddit.com/r/Python/comments/1h1rk2c/stormchaser_a_python_program_that_collects_and/)
 - [Conversational RAG on local files &lpar;on-premises usage&rpar;](https://www.reddit.com/r/Python/comments/1h1qzds/conversational_rag_on_local_files_onpremises_usage/)
 - [What are you all-time favorite Python talks?](https://www.reddit.com/r/Python/comments/1h1qun7/what_are_you_alltime_favorite_python_talks/)
-- [Python and GoHigh Level Integration](https://www.reddit.com/r/Python/comments/1h1pq0x/python_and_gohigh_level_integration/)
 <!-- BLOG-POST-LIST:END -->
