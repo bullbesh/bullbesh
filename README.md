@@ -12,5 +12,5 @@
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1h293f6/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Open-Source AI tool for Production Engineers](https://www.reddit.com/r/Python/comments/1h26mn2/opensource_ai_tool_for_production_engineers/)
 - [Neurosintesis mapping EEG brain data into sound waves](https://www.reddit.com/r/Python/comments/1h25tgi/neurosintesis_mapping_eeg_brain_data_into_sound/)
-- [A Python library to extract information from a website in a JSON format of your choice](https://www.reddit.com/r/Python/comments/1h24dac/a_python_library_to_extract_information_from_a/)
+- [I built an AI tool that post tweets and retweets on my behalf and save my time](https://www.reddit.com/r/Python/comments/1h20ipv/i_built_an_ai_tool_that_post_tweets_and_retweets/)
 <!-- BLOG-POST-LIST:END -->
