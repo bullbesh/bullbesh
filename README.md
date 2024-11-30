@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best way to pull text from a picture of a table?](https://www.reddit.com/r/Python/comments/1h314gl/best_way_to_pull_text_from_a_picture_of_a_table/)
+- [Short-Circuiting in Python](https://www.reddit.com/r/Python/comments/1h30nsp/shortcircuiting_in_python/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1h2zjp4/saturday_daily_thread_resource_request_and/)
 - [YTSage: A Modern YouTube Downloader with a Stunning PyQt6 Interface!](https://www.reddit.com/r/Python/comments/1h2ta56/ytsage_a_modern_youtube_downloader_with_a/)
-- [Yay i&#39;m on track](https://www.reddit.com/r/Python/comments/1h2snqa/yay_im_on_track/)
 - [Python Online IDE](https://www.reddit.com/r/Python/comments/1h2rmkt/python_online_ide/)
-- [What are some really awesome projects/channels you have encountered so far in YouTube?](https://www.reddit.com/r/Python/comments/1h2quqa/what_are_some_really_awesome_projectschannels_you/)
-- [Web Scraping Social Media Profiles [ X, Instagram, Tiktok, Youtube ]](https://www.reddit.com/r/Python/comments/1h2o2n5/web_scraping_social_media_profiles_x_instagram/)
 <!-- BLOG-POST-LIST:END -->
