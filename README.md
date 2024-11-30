@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there such CP for NumPy?](https://www.reddit.com/r/Python/comments/1h3fa20/is_there_such_cp_for_numpy/)
 - [Generate Rust code for SymPy expressions with Symars.](https://www.reddit.com/r/Python/comments/1h3bn1n/generate_rust_code_for_sympy_expressions_with/)
 - [Tech Events @ Europe](https://www.reddit.com/r/Python/comments/1h3bhgl/tech_events_europe/)
-- [spyder for macbook](https://www.reddit.com/r/Python/comments/1h38a61/spyder_for_macbook/)
-- [Any channel or playlist that offers the same kinda content as this.](https://www.reddit.com/r/Python/comments/1h34xb7/any_channel_or_playlist_that_offers_the_same/)
-- [A tutorial on how to create Web Apps using only Python](https://www.reddit.com/r/Python/comments/1h32v2g/a_tutorial_on_how_to_create_web_apps_using_only/)
+- [Short-Circuiting in Python](https://www.reddit.com/r/Python/comments/1h30nsp/shortcircuiting_in_python/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1h2zjp4/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
