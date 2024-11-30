@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A tutorial on how to create Web Apps using only Python](https://www.reddit.com/r/Python/comments/1h32v2g/a_tutorial_on_how_to_create_web_apps_using_only/)
 - [Best way to pull text from a picture of a table?](https://www.reddit.com/r/Python/comments/1h314gl/best_way_to_pull_text_from_a_picture_of_a_table/)
 - [Short-Circuiting in Python](https://www.reddit.com/r/Python/comments/1h30nsp/shortcircuiting_in_python/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1h2zjp4/saturday_daily_thread_resource_request_and/)
 - [YTSage: A Modern YouTube Downloader with a Stunning PyQt6 Interface!](https://www.reddit.com/r/Python/comments/1h2ta56/ytsage_a_modern_youtube_downloader_with_a/)
-- [Python Online IDE](https://www.reddit.com/r/Python/comments/1h2rmkt/python_online_ide/)
 <!-- BLOG-POST-LIST:END -->
