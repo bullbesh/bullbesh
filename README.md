@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [[Project] pygrad: a lightweight differentiation engine written in Python](https://www.reddit.com/r/Python/comments/1h3gm4u/project_pygrad_a_lightweight_differentiation/)
 - [Is there such CP for NumPy?](https://www.reddit.com/r/Python/comments/1h3fa20/is_there_such_cp_for_numpy/)
 - [Generate Rust code for SymPy expressions with Symars.](https://www.reddit.com/r/Python/comments/1h3bn1n/generate_rust_code_for_sympy_expressions_with/)
 - [Tech Events @ Europe](https://www.reddit.com/r/Python/comments/1h3bhgl/tech_events_europe/)
 - [Short-Circuiting in Python](https://www.reddit.com/r/Python/comments/1h30nsp/shortcircuiting_in_python/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1h2zjp4/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
