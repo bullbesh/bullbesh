@@ -12,5 +12,5 @@
 - [Project collaboration](https://www.reddit.com/r/Python/comments/1h44g99/project_collaboration/)
 - [Kitten Mixer: A Fun Tool to Combine Cat Images with AI](https://www.reddit.com/r/Python/comments/1h43i92/kitten_mixer_a_fun_tool_to_combine_cat_images/)
 - [Enhance Your Python Logging with Pretty Pie Log: Colorized, Structured, and Thread-Safe!](https://www.reddit.com/r/Python/comments/1h42kmi/enhance_your_python_logging_with_pretty_pie_log/)
-- [[Discussion] Advice needed in building a chatbot like this](https://www.reddit.com/r/Python/comments/1h3yfrb/discussion_advice_needed_in_building_a_chatbot/)
+- [CntxtPY: Smarter Python Context Management for LLMs &lpar;Open Source, MIT&rpar;](https://www.reddit.com/r/Python/comments/1h3x04k/cntxtpy_smarter_python_context_management_for/)
 <!-- BLOG-POST-LIST:END -->
