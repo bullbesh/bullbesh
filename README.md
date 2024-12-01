@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Code 2024!](https://www.reddit.com/r/Python/comments/1h47nhs/advent_of_code_2024/)
 - [Advanced Python Development Workflow in Emacs](https://www.reddit.com/r/Python/comments/1h45hl7/advanced_python_development_workflow_in_emacs/)
 - [Project collaboration](https://www.reddit.com/r/Python/comments/1h44g99/project_collaboration/)
 - [Kitten Mixer: A Fun Tool to Combine Cat Images with AI](https://www.reddit.com/r/Python/comments/1h43i92/kitten_mixer_a_fun_tool_to_combine_cat_images/)
 - [Enhance Your Python Logging with Pretty Pie Log: Colorized, Structured, and Thread-Safe!](https://www.reddit.com/r/Python/comments/1h42kmi/enhance_your_python_logging_with_pretty_pie_log/)
-- [CntxtPY: Smarter Python Context Management for LLMs &lpar;Open Source, MIT&rpar;](https://www.reddit.com/r/Python/comments/1h3x04k/cntxtpy_smarter_python_context_management_for/)
 <!-- BLOG-POST-LIST:END -->
