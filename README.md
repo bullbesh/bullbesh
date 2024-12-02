@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thanks to this Community for Helping Me Build an Udemy Python Course](https://www.reddit.com/r/Python/comments/1h4jccs/thanks_to_this_community_for_helping_me_build_an/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1h4hhn4/monday_daily_thread_project_ideas/)
 - [kanban-tui , customizable cross platform kanban/task manager in your terminal](https://www.reddit.com/r/Python/comments/1h4aagg/kanbantui_customizable_cross_platform_kanbantask/)
 - [I made a Python Script that Shows up current playing song lyrics synced as discord activity.](https://www.reddit.com/r/Python/comments/1h48722/i_made_a_python_script_that_shows_up_current/)
 - [Advent of Code 2024!](https://www.reddit.com/r/Python/comments/1h47nhs/advent_of_code_2024/)
-- [Advanced Python Development Workflow in Emacs](https://www.reddit.com/r/Python/comments/1h45hl7/advanced_python_development_workflow_in_emacs/)
-- [Project collaboration](https://www.reddit.com/r/Python/comments/1h44g99/project_collaboration/)
 <!-- BLOG-POST-LIST:END -->
