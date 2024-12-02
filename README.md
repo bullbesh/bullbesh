@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Iris Templates: A Modern Python Templating Engine Inspired by Laravel Blade](https://www.reddit.com/r/Python/comments/1h4zfnr/iris_templates_a_modern_python_templating_engine/)
 - [a code that deletes system unless you guess the number](https://www.reddit.com/r/Python/comments/1h4y6ba/a_code_that_deletes_system_unless_you_guess_the/)
 - [Trying PyInstaller and PyWebView with Django](https://www.reddit.com/r/Python/comments/1h4wyqk/trying_pyinstaller_and_pywebview_with_django/)
 - [Goodbye Make and Shell, Hello... Python?](https://www.reddit.com/r/Python/comments/1h4wvzy/goodbye_make_and_shell_hello_python/)
 - [Optimization-Based Rule Learning for Scalable and Interpretable Classification](https://www.reddit.com/r/Python/comments/1h4tvzd/optimizationbased_rule_learning_for_scalable_and/)
-- [ComputeLite - A true serverless tool](https://www.reddit.com/r/Python/comments/1h4spi7/computelite_a_true_serverless_tool/)
 <!-- BLOG-POST-LIST:END -->
