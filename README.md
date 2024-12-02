@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trying PyInstaller and PyWebView with Django](https://www.reddit.com/r/Python/comments/1h4wyqk/trying_pyinstaller_and_pywebview_with_django/)
+- [Goodbye Make and Shell, Hello... Python?](https://www.reddit.com/r/Python/comments/1h4wvzy/goodbye_make_and_shell_hello_python/)
 - [Optimization-Based Rule Learning for Scalable and Interpretable Classification](https://www.reddit.com/r/Python/comments/1h4tvzd/optimizationbased_rule_learning_for_scalable_and/)
 - [ComputeLite - A true serverless tool](https://www.reddit.com/r/Python/comments/1h4spi7/computelite_a_true_serverless_tool/)
 - [Books for data science](https://www.reddit.com/r/Python/comments/1h4s0xe/books_for_data_science/)
-- [Best PDF library for extracting text from structured templates](https://www.reddit.com/r/Python/comments/1h4pqqh/best_pdf_library_for_extracting_text_from/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1h4hhn4/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
