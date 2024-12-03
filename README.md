@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Curly brackets in python!](https://www.reddit.com/r/Python/comments/1h5skiu/curly_brackets_in_python/)
-- [Dink: a command line notifier](https://www.reddit.com/r/Python/comments/1h5qv5d/dink_a_command_line_notifier/)
-- [Melon Python library](https://www.reddit.com/r/Python/comments/1h5n8xn/melon_python_library/)
-- [Created a tool to check circular imports](https://www.reddit.com/r/Python/comments/1h5n3du/created_a_tool_to_check_circular_imports/)
-- [I had to touch Jython for a project I&#39;m working on.](https://www.reddit.com/r/Python/comments/1h5igmd/i_had_to_touch_jython_for_a_project_im_working_on/)
+- [What do you think are the most underrated security topics?](https://www.reddit.com/r/Python/comments/1h5veuo/what_do_you_think_are_the_most_underrated/)
+- [Introducing Security Testing Skills in Our Open-Source Testing Agent](https://www.reddit.com/r/Python/comments/1h5v877/introducing_security_testing_skills_in_our/)
+- [Fine-grained open source authorization solution &lpar;SDK for Python&rpar;](https://www.reddit.com/r/Python/comments/1h5v7n7/finegrained_open_source_authorization_solution/)
+- [I just launched a page dedicated to curating awesome programming tips and tricks. Take a look! 0x3d](https://www.reddit.com/r/Python/comments/1h5v1lw/i_just_launched_a_page_dedicated_to_curating/)
+- [PyCon Austria 2025](https://www.reddit.com/r/Python/comments/1h5ubiu/pycon_austria_2025/)
 <!-- BLOG-POST-LIST:END -->
