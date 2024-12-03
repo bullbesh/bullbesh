@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building native Python desktop application with Pyloid and Gradio](https://www.reddit.com/r/Python/comments/1h5a26x/building_native_python_desktop_application_with/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1h59v6z/tuesday_daily_thread_advanced_questions/)
+- [Feedback for project creating conversational agents using a Finite State Machine &lpar;FSM&rpar; and LLMs](https://www.reddit.com/r/Python/comments/1h594wc/feedback_for_project_creating_conversational/)
 - [Need advice on Python-based web hosting and development](https://www.reddit.com/r/Python/comments/1h56gdv/need_advice_on_pythonbased_web_hosting_and/)
 - [PerpetualBooster outperforms AutoGluon on AutoML benchmark](https://www.reddit.com/r/Python/comments/1h532c8/perpetualbooster_outperforms_autogluon_on_automl/)
-- [Iris Templates: A Modern Python Templating Engine Inspired by Laravel Blade](https://www.reddit.com/r/Python/comments/1h4zfnr/iris_templates_a_modern_python_templating_engine/)
-- [Trying PyInstaller and PyWebView with Django](https://www.reddit.com/r/Python/comments/1h4wyqk/trying_pyinstaller_and_pywebview_with_django/)
-- [Goodbye Make and Shell, Hello... Python?](https://www.reddit.com/r/Python/comments/1h4wvzy/goodbye_make_and_shell_hello_python/)
 <!-- BLOG-POST-LIST:END -->
