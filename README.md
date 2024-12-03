@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyBox: A Browser-Based Python IDE for Coding Anytime, Anywhere](https://www.reddit.com/r/Python/comments/1h5hjmg/pybox_a_browserbased_python_ide_for_coding/)
+- [What&#39;s the cheapest way to host a python script?](https://www.reddit.com/r/Python/comments/1h5hikf/whats_the_cheapest_way_to_host_a_python_script/)
 - [Mobile Apps with practice questions?](https://www.reddit.com/r/Python/comments/1h5cijv/mobile_apps_with_practice_questions/)
 - [How I Automated My Tech Job Applications Using Python, Apify, and AI](https://www.reddit.com/r/Python/comments/1h5cajf/how_i_automated_my_tech_job_applications_using/)
 - [Building native Python desktop application with Pyloid and Gradio](https://www.reddit.com/r/Python/comments/1h5a26x/building_native_python_desktop_application_with/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1h59v6z/tuesday_daily_thread_advanced_questions/)
-- [Feedback for project creating conversational agents using a Finite State Machine &lpar;FSM&rpar; and LLMs](https://www.reddit.com/r/Python/comments/1h594wc/feedback_for_project_creating_conversational/)
 <!-- BLOG-POST-LIST:END -->
