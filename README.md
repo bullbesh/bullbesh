@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mobile Apps with practice questions?](https://www.reddit.com/r/Python/comments/1h5cijv/mobile_apps_with_practice_questions/)
+- [How I Automated My Tech Job Applications Using Python, Apify, and AI](https://www.reddit.com/r/Python/comments/1h5cajf/how_i_automated_my_tech_job_applications_using/)
 - [Building native Python desktop application with Pyloid and Gradio](https://www.reddit.com/r/Python/comments/1h5a26x/building_native_python_desktop_application_with/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1h59v6z/tuesday_daily_thread_advanced_questions/)
 - [Feedback for project creating conversational agents using a Finite State Machine &lpar;FSM&rpar; and LLMs](https://www.reddit.com/r/Python/comments/1h594wc/feedback_for_project_creating_conversational/)
-- [Need advice on Python-based web hosting and development](https://www.reddit.com/r/Python/comments/1h56gdv/need_advice_on_pythonbased_web_hosting_and/)
-- [PerpetualBooster outperforms AutoGluon on AutoML benchmark](https://www.reddit.com/r/Python/comments/1h532c8/perpetualbooster_outperforms_autogluon_on_automl/)
 <!-- BLOG-POST-LIST:END -->
