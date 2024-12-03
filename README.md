@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Melon Python library](https://www.reddit.com/r/Python/comments/1h5n8xn/melon_python_library/)
+- [Created a tool to check circular imports](https://www.reddit.com/r/Python/comments/1h5n3du/created_a_tool_to_check_circular_imports/)
 - [I had to touch Jython for a project I&#39;m working on.](https://www.reddit.com/r/Python/comments/1h5igmd/i_had_to_touch_jython_for_a_project_im_working_on/)
 - [PyBox: A Browser-Based Python IDE for Coding Anytime, Anywhere](https://www.reddit.com/r/Python/comments/1h5hjmg/pybox_a_browserbased_python_ide_for_coding/)
 - [What&#39;s the cheapest way to host a python script?](https://www.reddit.com/r/Python/comments/1h5hikf/whats_the_cheapest_way_to_host_a_python_script/)
-- [Mobile Apps with practice questions?](https://www.reddit.com/r/Python/comments/1h5cijv/mobile_apps_with_practice_questions/)
-- [How I Automated My Tech Job Applications Using Python, Apify, and AI](https://www.reddit.com/r/Python/comments/1h5cajf/how_i_automated_my_tech_job_applications_using/)
 <!-- BLOG-POST-LIST:END -->
