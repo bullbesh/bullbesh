@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How did FastAPI gain so much traction?](https://www.reddit.com/r/Python/comments/1h5x5m3/how_did_fastapi_gain_so_much_traction/)
-- [What do you think are the most underrated security topics?](https://www.reddit.com/r/Python/comments/1h5veuo/what_do_you_think_are_the_most_underrated/)
 - [Introducing Security Testing Skills in Our Open-Source Testing Agent](https://www.reddit.com/r/Python/comments/1h5v877/introducing_security_testing_skills_in_our/)
 - [Fine-grained open source authorization solution &lpar;SDK for Python&rpar;](https://www.reddit.com/r/Python/comments/1h5v7n7/finegrained_open_source_authorization_solution/)
 - [PyCon Austria 2025](https://www.reddit.com/r/Python/comments/1h5ubiu/pycon_austria_2025/)
+- [Curly brackets in python!](https://www.reddit.com/r/Python/comments/1h5skiu/curly_brackets_in_python/)
+- [Dink: a command line notifier](https://www.reddit.com/r/Python/comments/1h5qv5d/dink_a_command_line_notifier/)
 <!-- BLOG-POST-LIST:END -->
