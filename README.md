@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Relationships in SQLAlchemy models worth it?](https://www.reddit.com/r/Python/comments/1h6ij7r/relationships_in_sqlalchemy_models_worth_it/)
 - [ProgressPal &lpar;an alternative/iteration to tqdm&rpar;](https://www.reddit.com/r/Python/comments/1h6hu9s/progresspal_an_alternativeiteration_to_tqdm/)
+- [Nefertiti for Sphinx](https://www.reddit.com/r/Python/comments/1h6hq7i/nefertiti_for_sphinx/)
 - [doc2exam - Full Self-Driving for exam prep and certs](https://www.reddit.com/r/Python/comments/1h6f71a/doc2exam_full_selfdriving_for_exam_prep_and_certs/)
 - [Using Pyjokes in Other Programming Languages](https://www.reddit.com/r/Python/comments/1h6f3j4/using_pyjokes_in_other_programming_languages/)
-- [Algorithmic Portfolio Rebalancer Bot &lpar;4.5% USD interest&rpar; for DeFi](https://www.reddit.com/r/Python/comments/1h65lsy/algorithmic_portfolio_rebalancer_bot_45_usd/)
 <!-- BLOG-POST-LIST:END -->
