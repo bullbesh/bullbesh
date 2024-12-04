@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [doc2exam - Full Self-Driving for exam prep and certs](https://www.reddit.com/r/Python/comments/1h6f71a/doc2exam_full_selfdriving_for_exam_prep_and_certs/)
 - [Using Pyjokes in Other Programming Languages](https://www.reddit.com/r/Python/comments/1h6f3j4/using_pyjokes_in_other_programming_languages/)
 - [Perplexity Pro 1 Year Vouchers &lpar;activate then pay&rpar;](https://www.reddit.com/r/Python/comments/1h6e2i7/perplexity_pro_1_year_vouchers_activate_then_pay/)
 - [Looking for python ide recommendation](https://www.reddit.com/r/Python/comments/1h6b0rn/looking_for_python_ide_recommendation/)
-- [What’s your go-to database migration tool in Python, and why?](https://www.reddit.com/r/Python/comments/1h68rzt/whats_your_goto_database_migration_tool_in_python/)
 - [Algorithmic Portfolio Rebalancer Bot &lpar;4.5% USD interest&rpar; for DeFi](https://www.reddit.com/r/Python/comments/1h65lsy/algorithmic_portfolio_rebalancer_bot_45_usd/)
 <!-- BLOG-POST-LIST:END -->
