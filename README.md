@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Algorithmic Portfolio Rebalancer Bot &lpar;4.5% USD interest&rpar; for DeFi](https://www.reddit.com/r/Python/comments/1h65lsy/algorithmic_portfolio_rebalancer_bot_45_usd/)
+- [Sqrt Random faster than Max double Random?](https://www.reddit.com/r/Python/comments/1h64pm0/sqrt_random_faster_than_max_double_random/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1h629va/wednesday_daily_thread_beginner_questions/)
 - [In-memory processing using Python promises faster and more efficient computing by skipping the CPU](https://www.reddit.com/r/Python/comments/1h5ze3s/inmemory_processing_using_python_promises_faster/)
 - [Introducing Security Testing Skills in Our Open-Source Testing Agent](https://www.reddit.com/r/Python/comments/1h5v877/introducing_security_testing_skills_in_our/)
-- [Fine-grained open source authorization solution &lpar;SDK for Python&rpar;](https://www.reddit.com/r/Python/comments/1h5v7n7/finegrained_open_source_authorization_solution/)
-- [PyCon Austria 2025](https://www.reddit.com/r/Python/comments/1h5ubiu/pycon_austria_2025/)
 <!-- BLOG-POST-LIST:END -->
