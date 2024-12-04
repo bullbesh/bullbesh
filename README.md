@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Relationships in SQLAlchemy models worth it?](https://www.reddit.com/r/Python/comments/1h6ij7r/relationships_in_sqlalchemy_models_worth_it/)
+- [need to work with someone for free to learn dev environment](https://www.reddit.com/r/Python/comments/1h6n48d/need_to_work_with_someone_for_free_to_learn_dev/)
 - [ProgressPal &lpar;an alternative/iteration to tqdm&rpar;](https://www.reddit.com/r/Python/comments/1h6hu9s/progresspal_an_alternativeiteration_to_tqdm/)
 - [Nefertiti for Sphinx](https://www.reddit.com/r/Python/comments/1h6hq7i/nefertiti_for_sphinx/)
 - [doc2exam - Full Self-Driving for exam prep and certs](https://www.reddit.com/r/Python/comments/1h6f71a/doc2exam_full_selfdriving_for_exam_prep_and_certs/)
