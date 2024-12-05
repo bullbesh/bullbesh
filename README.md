@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [💥 Tech Talks Weekly #40: newly uploaded videos from PyCon AU 2024](https://www.reddit.com/r/Python/comments/1h75wv7/tech_talks_weekly_40_newly_uploaded_videos_from/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1h6vb5l/thursday_daily_thread_python_careers_courses_and/)
 - [Agent-Based Modeling library Mesa releases version 3.1](https://www.reddit.com/r/Python/comments/1h6pwdn/agentbased_modeling_library_mesa_releases_version/)
 - [need to work with someone for free to learn dev environment](https://www.reddit.com/r/Python/comments/1h6n48d/need_to_work_with_someone_for_free_to_learn_dev/)
 - [ProgressPal &lpar;an alternative/iteration to tqdm&rpar;](https://www.reddit.com/r/Python/comments/1h6hu9s/progresspal_an_alternativeiteration_to_tqdm/)
-- [Nefertiti for Sphinx](https://www.reddit.com/r/Python/comments/1h6hq7i/nefertiti_for_sphinx/)
 <!-- BLOG-POST-LIST:END -->
