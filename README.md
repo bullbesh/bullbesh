@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built a tool to step through LeetCode Python solutions—feedback welcome! 🐛✨](https://www.reddit.com/r/Python/comments/1h79tdf/built_a_tool_to_step_through_leetcode_python/)
 - [Python binary which runs everwhere](https://www.reddit.com/r/Python/comments/1h78av5/python_binary_which_runs_everwhere/)
 - [Looking at Investing in Quantum processing, Python Question.](https://www.reddit.com/r/Python/comments/1h781xt/looking_at_investing_in_quantum_processing_python/)
 - [BAD PYTHON wrong calc](https://www.reddit.com/r/Python/comments/1h773ym/bad_python_wrong_calc/)
 - [What are dataclasses so famous?](https://www.reddit.com/r/Python/comments/1h76er3/what_are_dataclasses_so_famous/)
-- [💥 Tech Talks Weekly #40: newly uploaded videos from PyCon AU 2024](https://www.reddit.com/r/Python/comments/1h75wv7/tech_talks_weekly_40_newly_uploaded_videos_from/)
 <!-- BLOG-POST-LIST:END -->
