@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I got it figured out](https://www.reddit.com/r/Python/comments/1h8bbvr/i_got_it_figured_out/)
 - [Directory for AI Python libraries](https://www.reddit.com/r/Python/comments/1h89nwg/directory_for_ai_python_libraries/)
 - [PyCon US 2025 Registration Opens](https://www.reddit.com/r/Python/comments/1h89mmg/pycon_us_2025_registration_opens/)
 - [VCAT: Video Transcriber and Translator](https://www.reddit.com/r/Python/comments/1h85e6v/vcat_video_transcriber_and_translator/)
 - [pytest-fixture-forms - A new plugin to simplify testing parameter variations](https://www.reddit.com/r/Python/comments/1h7ztqd/pytestfixtureforms_a_new_plugin_to_simplify/)
-- [How we made Celery tasks bulletproof](https://www.reddit.com/r/Python/comments/1h7xr6s/how_we_made_celery_tasks_bulletproof/)
 <!-- BLOG-POST-LIST:END -->
