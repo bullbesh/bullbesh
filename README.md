@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pytest-fixture-forms - A new plugin to simplify testing parameter variations](https://www.reddit.com/r/Python/comments/1h7ztqd/pytestfixtureforms_a_new_plugin_to_simplify/)
 - [How we made Celery tasks bulletproof](https://www.reddit.com/r/Python/comments/1h7xr6s/how_we_made_celery_tasks_bulletproof/)
 - [Is a TypeScript-like language for Python possible and desirable?](https://www.reddit.com/r/Python/comments/1h7uyiz/is_a_typescriptlike_language_for_python_possible/)
 - [Is a TypeScript-like language for Python possible and desirable?](https://www.reddit.com/r/Python/comments/1h7uyic/is_a_typescriptlike_language_for_python_possible/)
 - [ML Trading Bot that uses Ranked Ensemble Learning](https://www.reddit.com/r/Python/comments/1h7qtzs/ml_trading_bot_that_uses_ranked_ensemble_learning/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1h7nue4/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
