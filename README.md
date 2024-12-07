@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python .gitignore](https://www.reddit.com/r/Python/comments/1h8rc4g/python_gitignore/)
+- [Astral &lpar;uv/ruff&rpar; will be taking stewardship of python-build-standalone](https://www.reddit.com/r/Python/comments/1h8qoxl/astral_uvruff_will_be_taking_stewardship_of/)
 - [Flet vs Streamlit PWA and conceptual questions](https://www.reddit.com/r/Python/comments/1h8nzyy/flet_vs_streamlit_pwa_and_conceptual_questions/)
 - [Accenture interview experience 2024 | I got selected | I used to python to ace the coding round](https://www.reddit.com/r/Python/comments/1h8jkfc/accenture_interview_experience_2024_i_got/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1h8fj53/saturday_daily_thread_resource_request_and/)
-- [Directory for AI Python libraries](https://www.reddit.com/r/Python/comments/1h89nwg/directory_for_ai_python_libraries/)
-- [PyCon US 2025 Registration Opens](https://www.reddit.com/r/Python/comments/1h89mmg/pycon_us_2025_registration_opens/)
 <!-- BLOG-POST-LIST:END -->
