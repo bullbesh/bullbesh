@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [RedSage is a terminal-based pair programming assistant that integrates with LLMs. Opensource.](https://www.reddit.com/r/Python/comments/1h9jd21/redsage_is_a_terminalbased_pair_programming/)
 - [Programming language for future.](https://www.reddit.com/r/Python/comments/1h9fjsc/programming_language_for_future/)
 - [How to learn Web development.](https://www.reddit.com/r/Python/comments/1h9fiuy/how_to_learn_web_development/)
 - [Python Quiz for Beginners and Experts](https://www.reddit.com/r/Python/comments/1h9fg6x/python_quiz_for_beginners_and_experts/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1h95vc3/sunday_daily_thread_whats_everyone_working_on/)
-- [Python .gitignore](https://www.reddit.com/r/Python/comments/1h8rc4g/python_gitignore/)
 <!-- BLOG-POST-LIST:END -->
