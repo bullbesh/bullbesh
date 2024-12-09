@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I CAN&#39;T TAKE IT ANYMORE](https://www.reddit.com/r/Python/comments/1hakuet/i_cant_take_it_anymore/)
 - [My first decent Python project: Tic Tac Toe using Turtle](https://www.reddit.com/r/Python/comments/1hajhin/my_first_decent_python_project_tic_tac_toe_using/)
 - [New android app project called AndroidFetch](https://www.reddit.com/r/Python/comments/1hahglk/new_android_app_project_called_androidfetch/)
 - [Looking to Transition from Web Development to Python – Seeking Tips and Insights](https://www.reddit.com/r/Python/comments/1hagupi/looking_to_transition_from_web_development_to/)
 - [DNS server written in Python](https://www.reddit.com/r/Python/comments/1hagkql/dns_server_written_in_python/)
-- [Create a complete WORD SEARCH BOOK with a single click.](https://www.reddit.com/r/Python/comments/1ha82ex/create_a_complete_word_search_book_with_a_single/)
 <!-- BLOG-POST-LIST:END -->
