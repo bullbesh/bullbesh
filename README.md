@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New android app project called AndroidFetch](https://www.reddit.com/r/Python/comments/1hahglk/new_android_app_project_called_androidfetch/)
+- [Looking to Transition from Web Development to Python – Seeking Tips and Insights](https://www.reddit.com/r/Python/comments/1hagupi/looking_to_transition_from_web_development_to/)
 - [DNS server written in Python](https://www.reddit.com/r/Python/comments/1hagkql/dns_server_written_in_python/)
 - [Create a complete WORD SEARCH BOOK with a single click.](https://www.reddit.com/r/Python/comments/1ha82ex/create_a_complete_word_search_book_with_a_single/)
 - [Introducing PyKick: A Python Project Generator for PowerShell](https://www.reddit.com/r/Python/comments/1ha65l9/introducing_pykick_a_python_project_generator_for/)
-- [Convert Figma design into Python code](https://www.reddit.com/r/Python/comments/1ha47wt/convert_figma_design_into_python_code/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1h9wkuk/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
