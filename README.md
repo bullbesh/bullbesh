@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1h9wkuk/monday_daily_thread_project_ideas/)
 - [Sharing Smoke Simulation Project I have Been Working On](https://www.reddit.com/r/Python/comments/1h9t8r7/sharing_smoke_simulation_project_i_have_been/)
 - [Deply 0.5.1 Released: New Collectors, 10x Performance Boost, and Stronger Architectural Rules](https://www.reddit.com/r/Python/comments/1h9qjjj/deply_051_released_new_collectors_10x_performance/)
 - [ARM Native Python execution time higher than x64 Python?](https://www.reddit.com/r/Python/comments/1h9o1ed/arm_native_python_execution_time_higher_than_x64/)
 - [RedSage is a terminal-based pair programming assistant that integrates with LLMs. Opensource.](https://www.reddit.com/r/Python/comments/1h9jd21/redsage_is_a_terminalbased_pair_programming/)
-- [Python Quiz for Beginners and Experts](https://www.reddit.com/r/Python/comments/1h9fg6x/python_quiz_for_beginners_and_experts/)
 <!-- BLOG-POST-LIST:END -->
