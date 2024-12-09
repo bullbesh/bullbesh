@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Perplexity AI Pro 1-YEAR Coupon - Only $25 &lpar;€23&rpar; | Subscribe then Pay!](https://www.reddit.com/r/Python/comments/1haesg6/perplexity_ai_pro_1year_coupon_only_25_23/)
+- [DNS server written in Python](https://www.reddit.com/r/Python/comments/1hagkql/dns_server_written_in_python/)
 - [Create a complete WORD SEARCH BOOK with a single click.](https://www.reddit.com/r/Python/comments/1ha82ex/create_a_complete_word_search_book_with_a_single/)
 - [Introducing PyKick: A Python Project Generator for PowerShell](https://www.reddit.com/r/Python/comments/1ha65l9/introducing_pykick_a_python_project_generator_for/)
 - [Convert Figma design into Python code](https://www.reddit.com/r/Python/comments/1ha47wt/convert_figma_design_into_python_code/)
