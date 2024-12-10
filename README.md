@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nodriver - The next step in web scraping](https://www.reddit.com/r/Python/comments/1hbea0n/nodriver_the_next_step_in_web_scraping/)
 - [Need to run selenium on databricks](https://www.reddit.com/r/Python/comments/1hbbpf9/need_to_run_selenium_on_databricks/)
 - [Looking for a mid-ish level web project in django or flash more info below](https://www.reddit.com/r/Python/comments/1hb8f7h/looking_for_a_midish_level_web_project_in_django/)
 - [decision records with mkdocs made easy](https://www.reddit.com/r/Python/comments/1hb7qk9/decision_records_with_mkdocs_made_easy/)
 - [Need assistance for reviewing a python project! ASAP.](https://www.reddit.com/r/Python/comments/1hb6udr/need_assistance_for_reviewing_a_python_project/)
-- [Pype - Python Desktop App Framework](https://www.reddit.com/r/Python/comments/1hb0jr4/pype_python_desktop_app_framework/)
 <!-- BLOG-POST-LIST:END -->
