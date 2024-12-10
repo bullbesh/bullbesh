@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for a mid-ish level web project in django or flash more info below](https://www.reddit.com/r/Python/comments/1hb8f7h/looking_for_a_midish_level_web_project_in_django/)
+- [decision records with mkdocs made easy](https://www.reddit.com/r/Python/comments/1hb7qk9/decision_records_with_mkdocs_made_easy/)
 - [Need assistance for reviewing a python project! ASAP.](https://www.reddit.com/r/Python/comments/1hb6udr/need_assistance_for_reviewing_a_python_project/)
 - [Pype - Python Desktop App Framework](https://www.reddit.com/r/Python/comments/1hb0jr4/pype_python_desktop_app_framework/)
 - [tui-network: another TUI for the wifi on Linux](https://www.reddit.com/r/Python/comments/1haxvtn/tuinetwork_another_tui_for_the_wifi_on_linux/)
-- [I build PdfDing with Python](https://www.reddit.com/r/Python/comments/1haxeb7/i_build_pdfding_with_python/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1haod3g/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
