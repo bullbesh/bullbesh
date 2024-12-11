@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Feedback for project creating conversational agents using a Finite State Machine &lpar;FSM&rpar; and LLMs](https://www.reddit.com/r/Python/comments/1hbjvh7/feedback_for_project_creating_conversational/)
 - [Brushless Motor with Circuit python and ESC](https://www.reddit.com/r/Python/comments/1hbgx14/brushless_motor_with_circuit_python_and_esc/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1hbg7qh/wednesday_daily_thread_beginner_questions/)
 - [Nodriver - The next step in web scraping](https://www.reddit.com/r/Python/comments/1hbea0n/nodriver_the_next_step_in_web_scraping/)
 - [Need to run selenium on databricks](https://www.reddit.com/r/Python/comments/1hbbpf9/need_to_run_selenium_on_databricks/)
-- [Looking for a mid-ish level web project in django or flash more info below](https://www.reddit.com/r/Python/comments/1hb8f7h/looking_for_a_midish_level_web_project_in_django/)
 <!-- BLOG-POST-LIST:END -->
