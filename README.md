@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing My New Favicon Extraction Tool](https://www.reddit.com/r/Python/comments/1hbtf03/introducing_my_new_favicon_extraction_tool/)
 - [The hand-picked selection of the best Python libraries and tools of 2024 – 10th edition!](https://www.reddit.com/r/Python/comments/1hbs4t8/the_handpicked_selection_of_the_best_python/)
-- [The hand-picked selection of the best Python libraries and tools of 2024 – 10th edition!](https://www.reddit.com/r/Python/comments/1hbs38g/the_handpicked_selection_of_the_best_python/)
 - [Proof of PCAP Certification?](https://www.reddit.com/r/Python/comments/1hbq85s/proof_of_pcap_certification/)
 - [Starting off in Python](https://www.reddit.com/r/Python/comments/1hbq122/starting_off_in_python/)
 - [Did an open source tool for code exploration](https://www.reddit.com/r/Python/comments/1hbnasw/did_an_open_source_tool_for_code_exploration/)
