@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Keyboard input daemon in python](https://www.reddit.com/r/Python/comments/1hc56pb/keyboard_input_daemon_in_python/)
 - [Looking to start a python bootcamp in IL around Schaumburg.](https://www.reddit.com/r/Python/comments/1hc2wti/looking_to_start_a_python_bootcamp_in_il_around/)
 - [Polars, I&#39;m confused](https://www.reddit.com/r/Python/comments/1hbxwtl/polars_im_confused/)
 - [My first program I coded with Python!](https://www.reddit.com/r/Python/comments/1hbxnsx/my_first_program_i_coded_with_python/)
 - [How did you finally understand classes in python? 🧐](https://www.reddit.com/r/Python/comments/1hbvebc/how_did_you_finally_understand_classes_in_python/)
-- [Introducing My New Favicon Extraction Tool](https://www.reddit.com/r/Python/comments/1hbtf03/introducing_my_new_favicon_extraction_tool/)
 <!-- BLOG-POST-LIST:END -->
