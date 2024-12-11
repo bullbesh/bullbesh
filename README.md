@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The hand-picked selection of the best Python libraries and tools of 2024 – 10th edition!](https://www.reddit.com/r/Python/comments/1hbs4t8/the_handpicked_selection_of_the_best_python/)
+- [The hand-picked selection of the best Python libraries and tools of 2024 – 10th edition!](https://www.reddit.com/r/Python/comments/1hbs38g/the_handpicked_selection_of_the_best_python/)
 - [Proof of PCAP Certification?](https://www.reddit.com/r/Python/comments/1hbq85s/proof_of_pcap_certification/)
 - [Starting off in Python](https://www.reddit.com/r/Python/comments/1hbq122/starting_off_in_python/)
 - [Did an open source tool for code exploration](https://www.reddit.com/r/Python/comments/1hbnasw/did_an_open_source_tool_for_code_exploration/)
-- [Feedback for project creating conversational agents using a Finite State Machine &lpar;FSM&rpar; and LLMs](https://www.reddit.com/r/Python/comments/1hbjvh7/feedback_for_project_creating_conversational/)
-- [Brushless Motor with Circuit python and ESC](https://www.reddit.com/r/Python/comments/1hbgx14/brushless_motor_with_circuit_python_and_esc/)
 <!-- BLOG-POST-LIST:END -->
