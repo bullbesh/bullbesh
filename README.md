@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open-source Python Time-wasters](https://www.reddit.com/r/Python/comments/1hcgtrz/opensource_python_timewasters/)
+- [Python OCR for each element/section reading multiple details of multiple objects](https://www.reddit.com/r/Python/comments/1hcgtlr/python_ocr_for_each_elementsection_reading/)
+- [is it wrong to use chatgpt to improve your code?](https://www.reddit.com/r/Python/comments/1hcgov7/is_it_wrong_to_use_chatgpt_to_improve_your_code/)
 - [Python telegram bot](https://www.reddit.com/r/Python/comments/1hcfw8q/python_telegram_bot/)
 - [Open-source Python Uno shuffler](https://www.reddit.com/r/Python/comments/1hcbfp7/opensource_python_uno_shuffler/)
-- [Can ya suggest small-yet-serious webscraping portfolio project ideas?](https://www.reddit.com/r/Python/comments/1hc82by/can_ya_suggest_smallyetserious_webscraping/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1hc7z1a/thursday_daily_thread_python_careers_courses_and/)
-- [Looking to start a python bootcamp in IL around Schaumburg.](https://www.reddit.com/r/Python/comments/1hc2wti/looking_to_start_a_python_bootcamp_in_il_around/)
 <!-- BLOG-POST-LIST:END -->
