@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mon interpréteur Python ne peut pas lire les .pyi](https://www.reddit.com/r/Python/comments/1hcmt1d/mon_interpréteur_python_ne_peut_pas_lire_les_pyi/)
 - [python-json-logger has changed hands](https://www.reddit.com/r/Python/comments/1hcm2rr/pythonjsonlogger_has_changed_hands/)
 - [My First Python Project: URL to NDEF Converter! 🎉](https://www.reddit.com/r/Python/comments/1hcjdg9/my_first_python_project_url_to_ndef_converter/)
 - [Free Python IDE for Android with Pypi](https://www.reddit.com/r/Python/comments/1hcj48d/free_python_ide_for_android_with_pypi/)
 - [Just started a course and am starting to learn. Need a small clarification.](https://www.reddit.com/r/Python/comments/1hcj3d3/just_started_a_course_and_am_starting_to_learn/)
-- [Programming languages that compile to Python?](https://www.reddit.com/r/Python/comments/1hchwjd/programming_languages_that_compile_to_python/)
 <!-- BLOG-POST-LIST:END -->
