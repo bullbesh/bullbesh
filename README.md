@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open-source Python Uno shuffler](https://www.reddit.com/r/Python/comments/1hcbfp7/opensource_python_uno_shuffler/)
 - [Can ya suggest small-yet-serious webscraping portfolio project ideas?](https://www.reddit.com/r/Python/comments/1hc82by/can_ya_suggest_smallyetserious_webscraping/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1hc7z1a/thursday_daily_thread_python_careers_courses_and/)
 - [Looking to start a python bootcamp in IL around Schaumburg.](https://www.reddit.com/r/Python/comments/1hc2wti/looking_to_start_a_python_bootcamp_in_il_around/)
 - [Polars, I&#39;m confused](https://www.reddit.com/r/Python/comments/1hbxwtl/polars_im_confused/)
-- [My first program I coded with Python!](https://www.reddit.com/r/Python/comments/1hbxnsx/my_first_program_i_coded_with_python/)
 <!-- BLOG-POST-LIST:END -->
