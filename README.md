@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My First Python Project: URL to NDEF Converter! 🎉](https://www.reddit.com/r/Python/comments/1hcjdg9/my_first_python_project_url_to_ndef_converter/)
+- [Free Python IDE for Android with Pypi](https://www.reddit.com/r/Python/comments/1hcj48d/free_python_ide_for_android_with_pypi/)
+- [Just started a course and am starting to learn. Need a small clarification.](https://www.reddit.com/r/Python/comments/1hcj3d3/just_started_a_course_and_am_starting_to_learn/)
 - [Programming languages that compile to Python?](https://www.reddit.com/r/Python/comments/1hchwjd/programming_languages_that_compile_to_python/)
 - [Open-source Python Time-wasters](https://www.reddit.com/r/Python/comments/1hcgtrz/opensource_python_timewasters/)
-- [Python OCR for each element/section reading multiple details of multiple objects](https://www.reddit.com/r/Python/comments/1hcgtlr/python_ocr_for_each_elementsection_reading/)
-- [is it wrong to use chatgpt to improve your code?](https://www.reddit.com/r/Python/comments/1hcgov7/is_it_wrong_to_use_chatgpt_to_improve_your_code/)
-- [Python telegram bot](https://www.reddit.com/r/Python/comments/1hcfw8q/python_telegram_bot/)
 <!-- BLOG-POST-LIST:END -->
