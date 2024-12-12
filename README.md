@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Programming languages that compile to Python?](https://www.reddit.com/r/Python/comments/1hchwjd/programming_languages_that_compile_to_python/)
+- [Python IDE for Android](https://www.reddit.com/r/Python/comments/1hchsy7/python_ide_for_android/)
 - [Open-source Python Time-wasters](https://www.reddit.com/r/Python/comments/1hcgtrz/opensource_python_timewasters/)
 - [Python OCR for each element/section reading multiple details of multiple objects](https://www.reddit.com/r/Python/comments/1hcgtlr/python_ocr_for_each_elementsection_reading/)
 - [is it wrong to use chatgpt to improve your code?](https://www.reddit.com/r/Python/comments/1hcgov7/is_it_wrong_to_use_chatgpt_to_improve_your_code/)
-- [Python telegram bot](https://www.reddit.com/r/Python/comments/1hcfw8q/python_telegram_bot/)
-- [Open-source Python Uno shuffler](https://www.reddit.com/r/Python/comments/1hcbfp7/opensource_python_uno_shuffler/)
 <!-- BLOG-POST-LIST:END -->
