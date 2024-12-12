@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Universe Creation Code, your thoughts](https://www.reddit.com/r/Python/comments/1hcu1id/universe_creation_code_your_thoughts/)
 - [As a programmer, do you prefer professional, tech-heavy content or unprofessional, casual ones?](https://www.reddit.com/r/Python/comments/1hcs281/as_a_programmer_do_you_prefer_professional/)
 - [News Article Scrapper - Telegram automation](https://www.reddit.com/r/Python/comments/1hcnhnv/news_article_scrapper_telegram_automation/)
 - [Mon interpréteur Python ne peut pas lire les .pyi](https://www.reddit.com/r/Python/comments/1hcmt1d/mon_interpréteur_python_ne_peut_pas_lire_les_pyi/)
 - [python-json-logger has changed hands](https://www.reddit.com/r/Python/comments/1hcm2rr/pythonjsonlogger_has_changed_hands/)
-- [My First Python Project: URL to NDEF Converter! 🎉](https://www.reddit.com/r/Python/comments/1hcjdg9/my_first_python_project_url_to_ndef_converter/)
 <!-- BLOG-POST-LIST:END -->
