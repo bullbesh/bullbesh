@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn automation](https://www.reddit.com/r/Python/comments/1hddv2e/linkedin_automation/)
+- [Cloud-Based Python Libraries: Does This Exist Already?](https://www.reddit.com/r/Python/comments/1hddjx5/cloudbased_python_libraries_does_this_exist/)
 - [Essential Python web security](https://www.reddit.com/r/Python/comments/1hdd76m/essential_python_web_security/)
 - [Free Python IDE for Android 🤩](https://www.reddit.com/r/Python/comments/1hd69vj/free_python_ide_for_android/)
 - [Is full stack django or full stack fastapi better startup web apps?](https://www.reddit.com/r/Python/comments/1hd3vvm/is_full_stack_django_or_full_stack_fastapi_better/)
-- [Need Python contributors for an open-source top-down survival game with rogue lite/like elements.](https://www.reddit.com/r/Python/comments/1hd3pnu/need_python_contributors_for_an_opensource/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1hcz7n3/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
