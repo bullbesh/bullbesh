@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn automation](https://www.reddit.com/r/Python/comments/1hddv2e/linkedin_automation/)
+- [Master Pragramming ?](https://www.reddit.com/r/Python/comments/1hdfyg8/master_pragramming/)
 - [Cloud-Based Python Libraries: Does This Exist Already?](https://www.reddit.com/r/Python/comments/1hddjx5/cloudbased_python_libraries_does_this_exist/)
 - [Essential Python web security](https://www.reddit.com/r/Python/comments/1hdd76m/essential_python_web_security/)
 - [Free Python IDE for Android 🤩](https://www.reddit.com/r/Python/comments/1hd69vj/free_python_ide_for_android/)
