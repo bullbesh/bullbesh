@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gravity Modelling Fast Multiple Method - Request for Assistance](https://www.reddit.com/r/Python/comments/1hdubjp/gravity_modelling_fast_multiple_method_request/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1hdq183/saturday_daily_thread_resource_request_and/)
 - [I created Musync - a python CLI tool for syncing playlists between music streaming services](https://www.reddit.com/r/Python/comments/1hdg7v8/i_created_musync_a_python_cli_tool_for_syncing/)
 - [Free Python IDE for Android 🤩](https://www.reddit.com/r/Python/comments/1hd69vj/free_python_ide_for_android/)
 - [Is full stack django or full stack fastapi better startup web apps?](https://www.reddit.com/r/Python/comments/1hd3vvm/is_full_stack_django_or_full_stack_fastapi_better/)
-- [Need Python contributors for an open-source top-down survival game with rogue lite/like elements.](https://www.reddit.com/r/Python/comments/1hd3pnu/need_python_contributors_for_an_opensource/)
 <!-- BLOG-POST-LIST:END -->
