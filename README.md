@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [iFetch: A Python Tool for Bulk iCloud Drive Downloads](https://www.reddit.com/r/Python/comments/1hedqgp/ifetch_a_python_tool_for_bulk_icloud_drive/)
+- [H3LP Needed!!!!!](https://www.reddit.com/r/Python/comments/1hed3fv/h3lp_needed/)
 - [Which one would you prefer: to read a book or to watch a video course about functional programming?](https://www.reddit.com/r/Python/comments/1heck0w/which_one_would_you_prefer_to_read_a_book_or_to/)
 - [CuttlePy: Typed Wrapper for Python Requests IMPersontation &lpar;PRIMP&rpar;](https://www.reddit.com/r/Python/comments/1heat1p/cuttlepy_typed_wrapper_for_python_requests/)
 - [Practice Probs is awesome!](https://www.reddit.com/r/Python/comments/1heasge/practice_probs_is_awesome/)
-- [My River Cleanup Game Built in Pygame! Feedback and Tips Appreciated](https://www.reddit.com/r/Python/comments/1he8hbj/my_river_cleanup_game_built_in_pygame_feedback/)
-- [Mesa 3.1.1: Agent-based modeling; now with model speed control in the visualisation!](https://www.reddit.com/r/Python/comments/1he6leu/mesa_311_agentbased_modeling_now_with_model_speed/)
 <!-- BLOG-POST-LIST:END -->
