@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [django-ngrok: One command to run your Django development server and tunnel to it with ngrok](https://www.reddit.com/r/Python/comments/1hf0ci6/djangongrok_one_command_to_run_your_django/)
+- [guabaman game i edited](https://www.reddit.com/r/Python/comments/1hf096n/guabaman_game_i_edited/)
 - [Summarized how the CIA writes Python](https://www.reddit.com/r/Python/comments/1hez6qa/summarized_how_the_cia_writes_python/)
 - [Documenting my First 30 Days Of Programming Python](https://www.reddit.com/r/Python/comments/1hewn0k/documenting_my_first_30_days_of_programming_python/)
 - [PyGyat, What is everyone&#39;s thoughts on it](https://www.reddit.com/r/Python/comments/1heo8ps/pygyat_what_is_everyones_thoughts_on_it/)
-- [Python comments](https://www.reddit.com/r/Python/comments/1heo2nz/python_comments/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1heg422/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
