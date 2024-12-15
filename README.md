@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1heg422/sunday_daily_thread_whats_everyone_working_on/)
+- [How does Celery Curb the GIL issue?](https://www.reddit.com/r/Python/comments/1hefw75/how_does_celery_curb_the_gil_issue/)
 - [sqlite-worker: A Thread-Safe Python Library for Simplifying SQLite Operations in Multi-Threaded Appl](https://www.reddit.com/r/Python/comments/1heekh6/sqliteworker_a_threadsafe_python_library_for/)
 - [iFetch: A Python Tool for Bulk iCloud Drive Downloads](https://www.reddit.com/r/Python/comments/1hedqgp/ifetch_a_python_tool_for_bulk_icloud_drive/)
 - [H3LP Needed!!!!!](https://www.reddit.com/r/Python/comments/1hed3fv/h3lp_needed/)
-- [Which one would you prefer: to read a book or to watch a video course about functional programming?](https://www.reddit.com/r/Python/comments/1heck0w/which_one_would_you_prefer_to_read_a_book_or_to/)
-- [CuttlePy: Typed Wrapper for Python Requests IMPersontation &lpar;PRIMP&rpar;](https://www.reddit.com/r/Python/comments/1heat1p/cuttlepy_typed_wrapper_for_python_requests/)
 <!-- BLOG-POST-LIST:END -->
