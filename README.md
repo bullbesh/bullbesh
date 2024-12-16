@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does celery works with Async functions](https://www.reddit.com/r/Python/comments/1hfqwme/does_celery_works_with_async_functions/)
 - [Stockstir is a Python library that lets you get stock information from any script at no cost](https://www.reddit.com/r/Python/comments/1hfmmm5/stockstir_is_a_python_library_that_lets_you_get/)
 - [Python Subprocess BlockingIOError](https://www.reddit.com/r/Python/comments/1hfgjj2/python_subprocess_blockingioerror/)
 - [A Satirical &quot;Enterprise-Grade&quot; Birthday Wishing Bot](https://www.reddit.com/r/Python/comments/1hfaswv/a_satirical_enterprisegrade_birthday_wishing_bot/)
 - [Replicating the MATLAB Workspace in Python?](https://www.reddit.com/r/Python/comments/1hf6uem/replicating_the_matlab_workspace_in_python/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1hf62db/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
