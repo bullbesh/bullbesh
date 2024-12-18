@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1hgon88/wednesday_daily_thread_beginner_questions/)
 - [Spotify data visualizations](https://www.reddit.com/r/Python/comments/1hgn2bu/spotify_data_visualizations/)
+- [Escape From Castle Black and the EverRogue game engine](https://www.reddit.com/r/Python/comments/1hgml8m/escape_from_castle_black_and_the_everrogue_game/)
 - [Default parameters and objects...](https://www.reddit.com/r/Python/comments/1hge5ee/default_parameters_and_objects/)
 - [Event sourcing using Python](https://www.reddit.com/r/Python/comments/1hganhj/event_sourcing_using_python/)
-- [TypeScribe: A Python GUI App for organic Handwritten Text Generation with Machine Learning](https://www.reddit.com/r/Python/comments/1hg682r/typescribe_a_python_gui_app_for_organic/)
-- [Roast my python conventions](https://www.reddit.com/r/Python/comments/1hg1w9z/roast_my_python_conventions/)
 <!-- BLOG-POST-LIST:END -->
