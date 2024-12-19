@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [which courses in the university should i combine with python?](https://www.reddit.com/r/Python/comments/1hi1cbz/which_courses_in_the_university_should_i_combine/)
 - [Python in Finance/Controlling](https://www.reddit.com/r/Python/comments/1hi0jhp/python_in_financecontrolling/)
 - [Build a real-time speech-to-text agent for a Livekit app with Python](https://www.reddit.com/r/Python/comments/1hhx9d5/build_a_realtime_speechtotext_agent_for_a_livekit/)
 - [Building a mental model for async programs](https://www.reddit.com/r/Python/comments/1hhwgqv/building_a_mental_model_for_async_programs/)
 - [Master the Fundamentals of Python - Free Course - Videos, text, projects, exercises and solutions](https://www.reddit.com/r/Python/comments/1hhvja2/master_the_fundamentals_of_python_free_course/)
-- [A LLM generation programming lib to code Chain of though, Reflexion and more!](https://www.reddit.com/r/Python/comments/1hhv2pp/a_llm_generation_programming_lib_to_code_chain_of/)
 <!-- BLOG-POST-LIST:END -->
