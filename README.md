@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ideas for Standout Data Analyst Projects for My Resume?](https://www.reddit.com/r/Python/comments/1hhsnpv/ideas_for_standout_data_analyst_projects_for_my/)
 - [Implementing Retrieval-Augmented Generation with LangChain, Pgvector and OpenAI](https://www.reddit.com/r/Python/comments/1hhlg8x/implementing_retrievalaugmented_generation_with/)
 - [How useful is ChatGPT with Coding?](https://www.reddit.com/r/Python/comments/1hhgh2n/how_useful_is_chatgpt_with_coding/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1hhfmi6/thursday_daily_thread_python_careers_courses_and/)
-- [Ubuntu 24.04 and Python Virtual Environments](https://www.reddit.com/r/Python/comments/1hh9ewf/ubuntu_2404_and_python_virtual_environments/)
 - [I made an open source, self hostable, AI meeting Copilot](https://www.reddit.com/r/Python/comments/1hh89i3/i_made_an_open_source_self_hostable_ai_meeting/)
 <!-- BLOG-POST-LIST:END -->
