@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pytask Queue - Simple Job/Task Management](https://www.reddit.com/r/Python/comments/1hi52fe/pytask_queue_simple_jobtask_management/)
+- [Top Python Web Development Frameworks in 2025](https://www.reddit.com/r/Python/comments/1hi4yop/top_python_web_development_frameworks_in_2025/)
+- [any other alternative to selenium wire?](https://www.reddit.com/r/Python/comments/1hi4scf/any_other_alternative_to_selenium_wire/)
 - [which courses in the university should i combine with python?](https://www.reddit.com/r/Python/comments/1hi1cbz/which_courses_in_the_university_should_i_combine/)
 - [Python in Finance/Controlling](https://www.reddit.com/r/Python/comments/1hi0jhp/python_in_financecontrolling/)
-- [Build a real-time speech-to-text agent for a Livekit app with Python](https://www.reddit.com/r/Python/comments/1hhx9d5/build_a_realtime_speechtotext_agent_for_a_livekit/)
-- [Building a mental model for async programs](https://www.reddit.com/r/Python/comments/1hhwgqv/building_a_mental_model_for_async_programs/)
-- [Master the Fundamentals of Python - Free Course - Videos, text, projects, exercises and solutions](https://www.reddit.com/r/Python/comments/1hhvja2/master_the_fundamentals_of_python_free_course/)
 <!-- BLOG-POST-LIST:END -->
