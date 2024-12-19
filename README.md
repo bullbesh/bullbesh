@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a mental model for async programs](https://www.reddit.com/r/Python/comments/1hhwgqv/building_a_mental_model_for_async_programs/)
+- [Master the Fundamentals of Python - Free Course - Videos, text, projects, exercises and solutions](https://www.reddit.com/r/Python/comments/1hhvja2/master_the_fundamentals_of_python_free_course/)
 - [A LLM generation programming lib to code Chain of though, Reflexion and more!](https://www.reddit.com/r/Python/comments/1hhv2pp/a_llm_generation_programming_lib_to_code_chain_of/)
 - [Ideas for Standout Data Analyst Projects for My Resume?](https://www.reddit.com/r/Python/comments/1hhsnpv/ideas_for_standout_data_analyst_projects_for_my/)
 - [Implementing Retrieval-Augmented Generation with LangChain, Pgvector and OpenAI](https://www.reddit.com/r/Python/comments/1hhlg8x/implementing_retrievalaugmented_generation_with/)
-- [How useful is ChatGPT with Coding?](https://www.reddit.com/r/Python/comments/1hhgh2n/how_useful_is_chatgpt_with_coding/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1hhfmi6/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
