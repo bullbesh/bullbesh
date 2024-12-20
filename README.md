@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m unable to install colorgram.py package. Need your attention !!](https://www.reddit.com/r/Python/comments/1hihkfq/im_unable_to_install_colorgrampy_package_need/)
+- [I made a Project that fetches avatar from libravatar&lpar;gravatar&rpar; and sets it as gnome user profile](https://www.reddit.com/r/Python/comments/1hih5n2/i_made_a_project_that_fetches_avatar_from/)
 - [First Interpreter Project — Finally Clicked after 3 unsuccessful attempts.](https://www.reddit.com/r/Python/comments/1hifbg5/first_interpreter_project_finally_clicked_after_3/)
 - [Whose building on Python NoGIL?](https://www.reddit.com/r/Python/comments/1hid4xn/whose_building_on_python_nogil/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1hi6vlj/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Pytask Queue - Simple Job/Task Management](https://www.reddit.com/r/Python/comments/1hi52fe/pytask_queue_simple_jobtask_management/)
-- [any other alternative to selenium wire?](https://www.reddit.com/r/Python/comments/1hi4scf/any_other_alternative_to_selenium_wire/)
 <!-- BLOG-POST-LIST:END -->
