@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1hi6vlj/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Pytask Queue - Simple Job/Task Management](https://www.reddit.com/r/Python/comments/1hi52fe/pytask_queue_simple_jobtask_management/)
-- [Top Python Web Development Frameworks in 2025](https://www.reddit.com/r/Python/comments/1hi4yop/top_python_web_development_frameworks_in_2025/)
 - [any other alternative to selenium wire?](https://www.reddit.com/r/Python/comments/1hi4scf/any_other_alternative_to_selenium_wire/)
 - [which courses in the university should i combine with python?](https://www.reddit.com/r/Python/comments/1hi1cbz/which_courses_in_the_university_should_i_combine/)
+- [Python in Finance/Controlling](https://www.reddit.com/r/Python/comments/1hi0jhp/python_in_financecontrolling/)
 <!-- BLOG-POST-LIST:END -->
