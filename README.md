@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [First Interpreter Project — Finally Clicked after 3 unsuccessful attempts.](https://www.reddit.com/r/Python/comments/1hifbg5/first_interpreter_project_finally_clicked_after_3/)
 - [Whose building on Python NoGIL?](https://www.reddit.com/r/Python/comments/1hid4xn/whose_building_on_python_nogil/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1hi6vlj/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Pytask Queue - Simple Job/Task Management](https://www.reddit.com/r/Python/comments/1hi52fe/pytask_queue_simple_jobtask_management/)
 - [any other alternative to selenium wire?](https://www.reddit.com/r/Python/comments/1hi4scf/any_other_alternative_to_selenium_wire/)
-- [which courses in the university should i combine with python?](https://www.reddit.com/r/Python/comments/1hi1cbz/which_courses_in_the_university_should_i_combine/)
 <!-- BLOG-POST-LIST:END -->
