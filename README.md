@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI o3 and o3-mini : Equivalent to 175th coder &lpar;codeforces&rpar; 🫠](https://www.reddit.com/r/Python/comments/1hiro4f/openai_o3_and_o3mini_equivalent_to_175th_coder/)
+- [ShortMoji: Emoji Shortcuts Made Easy for Your Keyboard! 🧑‍💻✨](https://www.reddit.com/r/Python/comments/1hiuasv/shortmoji_emoji_shortcuts_made_easy_for_your/)
 - [bnap4000 - A simple music player made in made with true randomness in mind.](https://www.reddit.com/r/Python/comments/1hiqw7l/bnap4000_a_simple_music_player_made_in_made_with/)
 - [I made wut – a CLI that explains the output of your last command with an LLM](https://www.reddit.com/r/Python/comments/1hiqbhh/i_made_wut_a_cli_that_explains_the_output_of_your/)
 - [Finding common words between two texts](https://www.reddit.com/r/Python/comments/1hine46/finding_common_words_between_two_texts/)
