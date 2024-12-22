@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AndroidSecretary - Your personal, context-aware AI SMS secretary for Android](https://www.reddit.com/r/Python/comments/1hk6mjr/androidsecretary_your_personal_contextaware_ai/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1hjmlmy/sunday_daily_thread_whats_everyone_working_on/)
 - [Spotipy - has anyone used it before?](https://www.reddit.com/r/Python/comments/1hjkpex/spotipy_has_anyone_used_it_before/)
 - [PyMo - Python Motion Visualizer CLI](https://www.reddit.com/r/Python/comments/1hjjson/pymo_python_motion_visualizer_cli/)
 - [Creating my own password manager bc I can](https://www.reddit.com/r/Python/comments/1hjjkrx/creating_my_own_password_manager_bc_i_can/)
-- [New Youtube Series: 1 Hour of Coding in 1 Minute - Feedback Welcomed!](https://www.reddit.com/r/Python/comments/1hje5pt/new_youtube_series_1_hour_of_coding_in_1_minute/)
 <!-- BLOG-POST-LIST:END -->
