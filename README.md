@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Pydantic - Create Pydantic Models Dynamically](https://www.reddit.com/r/Python/comments/1hjo7sn/dynamic_pydantic_create_pydantic_models/)
+- [Suggestions for features for my cool tool for debugging and exceptions.](https://www.reddit.com/r/Python/comments/1hjqob9/suggestions_for_features_for_my_cool_tool_for/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1hjmlmy/sunday_daily_thread_whats_everyone_working_on/)
 - [Spotipy - has anyone used it before?](https://www.reddit.com/r/Python/comments/1hjkpex/spotipy_has_anyone_used_it_before/)
 - [PyMo - Python Motion Visualizer CLI](https://www.reddit.com/r/Python/comments/1hjjson/pymo_python_motion_visualizer_cli/)
