@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I have A question about my code in python](https://www.reddit.com/r/Python/comments/1hm3k5p/i_have_a_question_about_my_code_in_python/)
 - [Relative Date DSL similar to Grafanas Date Picker shortcuts](https://www.reddit.com/r/Python/comments/1hlws4a/relative_date_dsl_similar_to_grafanas_date_picker/)
-- [looking for a co-learner to touch on all algo](https://www.reddit.com/r/Python/comments/1hlwa0d/looking_for_a_colearner_to_touch_on_all_algo/)
 - [Constructors: __init__, __new__, both, neither?](https://www.reddit.com/r/Python/comments/1hlrtm0/constructors_init_new_both_neither/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1hlpmma/wednesday_daily_thread_beginner_questions/)
 - [Puppy: best friend for your 2025 python projects](https://www.reddit.com/r/Python/comments/1hllr3j/puppy_best_friend_for_your_2025_python_projects/)
