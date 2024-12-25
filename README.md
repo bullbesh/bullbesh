@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🐍 Modern, Minimalistic and Scalable Python FastAPI Template🚀](https://www.reddit.com/r/Python/comments/1hmbg24/modern_minimalistic_and_scalable_python_fastapi/)
 - [Language for fast Python API, similar to numpy](https://www.reddit.com/r/Python/comments/1hma1c1/language_for_fast_python_api_similar_to_numpy/)
 - [Relative Date DSL similar to Grafanas Date Picker shortcuts](https://www.reddit.com/r/Python/comments/1hlws4a/relative_date_dsl_similar_to_grafanas_date_picker/)
 - [Constructors: __init__, __new__, both, neither?](https://www.reddit.com/r/Python/comments/1hlrtm0/constructors_init_new_both_neither/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1hlpmma/wednesday_daily_thread_beginner_questions/)
-- [Puppy: best friend for your 2025 python projects](https://www.reddit.com/r/Python/comments/1hllr3j/puppy_best_friend_for_your_2025_python_projects/)
 <!-- BLOG-POST-LIST:END -->
