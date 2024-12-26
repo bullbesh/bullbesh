@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ChilliMark - Templateless Multiple Choice Marker &lpar;for IBDP and IGCSE&rpar;](https://www.reddit.com/r/Python/comments/1hmlym3/chillimark_templateless_multiple_choice_marker/)
+- [A lightweight Python wrapper for the Strava API that makes authentication painless](https://www.reddit.com/r/Python/comments/1hmlsys/a_lightweight_python_wrapper_for_the_strava_api/)
 - [🎄 YTSage v2.0.0: New Release with Enhanced YouTube Download Features](https://www.reddit.com/r/Python/comments/1hmlagu/ytsage_v200_new_release_with_enhanced_youtube/)
 - [Is Odoo nice to work with?](https://www.reddit.com/r/Python/comments/1hmkoe7/is_odoo_nice_to_work_with/)
 - [🎄 &quot;Packt&#39;s Christmas eBook Extravaganza: Everything for $9.99!&quot; 🎄](https://www.reddit.com/r/Python/comments/1hmjto6/packts_christmas_ebook_extravaganza_everything/)
-- [I’m adding Python Plugin support to my app! Here&#39;s why I decided to do it 🚀](https://www.reddit.com/r/Python/comments/1hmixyo/im_adding_python_plugin_support_to_my_app_heres/)
-- [🌀 Interstice: The Zero-Player Game Simulator](https://www.reddit.com/r/Python/comments/1hmiata/interstice_the_zeroplayer_game_simulator/)
 <!-- BLOG-POST-LIST:END -->
