@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [python için yardım](https://www.reddit.com/r/Python/comments/1hmv322/python_için_yardım/)
 - [A Modular Framework for Custom Rock-Paper-Scissors games](https://www.reddit.com/r/Python/comments/1hmq6ym/a_modular_framework_for_custom_rockpaperscissors/)
 - [A pytest plugin to run async tests &#39;concurrently&#39;](https://www.reddit.com/r/Python/comments/1hmots3/a_pytest_plugin_to_run_async_tests_concurrently/)
 - [A library for manipulating Regular Expressions?](https://www.reddit.com/r/Python/comments/1hmokea/a_library_for_manipulating_regular_expressions/)
 - [YTMASC, take your YouTube music library to anywhere!](https://www.reddit.com/r/Python/comments/1hmnzg9/ytmasc_take_your_youtube_music_library_to_anywhere/)
-- [ChilliMark - Templateless Multiple Choice Marker &lpar;for IBDP and IGCSE&rpar;](https://www.reddit.com/r/Python/comments/1hmlym3/chillimark_templateless_multiple_choice_marker/)
 <!-- BLOG-POST-LIST:END -->
