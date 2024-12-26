@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A pytest plugin to run async tests &#39;concurrently&#39;](https://www.reddit.com/r/Python/comments/1hmots3/a_pytest_plugin_to_run_async_tests_concurrently/)
+- [A library for manipulating Regular Expressions?](https://www.reddit.com/r/Python/comments/1hmokea/a_library_for_manipulating_regular_expressions/)
 - [YTMASC, take your YouTube music library to anywhere!](https://www.reddit.com/r/Python/comments/1hmnzg9/ytmasc_take_your_youtube_music_library_to_anywhere/)
 - [ChilliMark - Templateless Multiple Choice Marker &lpar;for IBDP and IGCSE&rpar;](https://www.reddit.com/r/Python/comments/1hmlym3/chillimark_templateless_multiple_choice_marker/)
 - [A lightweight Python wrapper for the Strava API that makes authentication painless](https://www.reddit.com/r/Python/comments/1hmlsys/a_lightweight_python_wrapper_for_the_strava_api/)
-- [🎄 YTSage v2.0.0: New Release with Enhanced YouTube Download Features](https://www.reddit.com/r/Python/comments/1hmlagu/ytsage_v200_new_release_with_enhanced_youtube/)
-- [Is Odoo nice to work with?](https://www.reddit.com/r/Python/comments/1hmkoe7/is_odoo_nice_to_work_with/)
 <!-- BLOG-POST-LIST:END -->
