@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1hn1s3d/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Spotify Scheduler - Easily schedule your Spotify playlists to play at a specific time!](https://www.reddit.com/r/Python/comments/1hn0rbo/spotify_scheduler_easily_schedule_your_spotify/)
-- [python için yardım](https://www.reddit.com/r/Python/comments/1hmv322/python_için_yardım/)
 - [A Modular Framework for Custom Rock-Paper-Scissors games](https://www.reddit.com/r/Python/comments/1hmq6ym/a_modular_framework_for_custom_rockpaperscissors/)
 - [A pytest plugin to run async tests &#39;concurrently&#39;](https://www.reddit.com/r/Python/comments/1hmots3/a_pytest_plugin_to_run_async_tests_concurrently/)
 - [A library for manipulating Regular Expressions?](https://www.reddit.com/r/Python/comments/1hmokea/a_library_for_manipulating_regular_expressions/)
