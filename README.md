@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Clipper for Cryptocurrencies](https://www.reddit.com/r/Python/comments/1ho27rp/a_clipper_for_cryptocurrencies/)
 - [local_bgrem: YOLOv8 Segmentation based Photo Background Remover | Fast and Offline](https://www.reddit.com/r/Python/comments/1ho1ukg/local_bgrem_yolov8_segmentation_based_photo/)
 - [InfoStealer written in Python](https://www.reddit.com/r/Python/comments/1ho1rwu/infostealer_written_in_python/)
 - [Power of pandas to handle CSV files](https://www.reddit.com/r/Python/comments/1hnzm5f/power_of_pandas_to_handle_csv_files/)
 - [Made a watcher so I don&#39;t have to run my script manually when coding](https://www.reddit.com/r/Python/comments/1hnus8y/made_a_watcher_so_i_dont_have_to_run_my_script/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1hnsrdc/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
