@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1hnsrdc/saturday_daily_thread_resource_request_and/)
+- [Textual CSS Neovim Plugin - Syntax Highlighting, Indentation, Folding, etc.](https://www.reddit.com/r/Python/comments/1hnrxs8/textual_css_neovim_plugin_syntax_highlighting/)
 - [Euchre Simulation and Winning Chances](https://www.reddit.com/r/Python/comments/1hnof8x/euchre_simulation_and_winning_chances/)
 - [Machine Learning](https://www.reddit.com/r/Python/comments/1hnitjv/machine_learning/)
 - [VSCode non-Pylance Configuration](https://www.reddit.com/r/Python/comments/1hnil16/vscode_nonpylance_configuration/)
-- [I wrote a Turing complete language / interpreter on top of Python.](https://www.reddit.com/r/Python/comments/1hnfqhi/i_wrote_a_turing_complete_language_interpreter_on/)
-- [I am attempting to print text when I click the right mouse button, but nothing is appearing in the c](https://www.reddit.com/r/Python/comments/1hncxv8/i_am_attempting_to_print_text_when_i_click_the/)
 <!-- BLOG-POST-LIST:END -->
