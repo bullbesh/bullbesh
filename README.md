@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Enrolling in Bootcamp, job expectations?](https://www.reddit.com/r/Python/comments/1hoxyem/enrolling_in_bootcamp_job_expectations/)
 - [Why uv installing pedantic-core i asked for requests Library](https://www.reddit.com/r/Python/comments/1houfs4/why_uv_installing_pedanticcore_i_asked_for/)
 - [POS Tagging and NER](https://www.reddit.com/r/Python/comments/1hosqul/pos_tagging_and_ner/)
 - [Complete Guide to Gemini LLM API in Python](https://www.reddit.com/r/Python/comments/1horvtc/complete_guide_to_gemini_llm_api_in_python/)
 - [Automated Dataset Generation for Object Detection](https://www.reddit.com/r/Python/comments/1hop3tn/automated_dataset_generation_for_object_detection/)
-- [Robyn&lpar;Web Framework&rpar; is deprecating views](https://www.reddit.com/r/Python/comments/1hok999/robynweb_framework_is_deprecating_views/)
 <!-- BLOG-POST-LIST:END -->
