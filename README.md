@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What does this code print?](https://www.reddit.com/r/Python/comments/1hp5k2f/what_does_this_code_print/)
+- [I made a sprint capacity calculator with BambooHR integration](https://www.reddit.com/r/Python/comments/1hp5gaf/i_made_a_sprint_capacity_calculator_with_bamboohr/)
 - [I made an AI-powered IPython REPL](https://www.reddit.com/r/Python/comments/1hp4a8z/i_made_an_aipowered_ipython_repl/)
 - [blogging system &#39;gresiblos&#39; released](https://www.reddit.com/r/Python/comments/1hp3vqu/blogging_system_gresiblos_released/)
 - [I coded a vs code extension to track productivity](https://www.reddit.com/r/Python/comments/1hp09ko/i_coded_a_vs_code_extension_to_track_productivity/)
-- [Basilico: Build HTML Components in Python](https://www.reddit.com/r/Python/comments/1hoz38l/basilico_build_html_components_in_python/)
-- [Enrolling in Bootcamp, job expectations?](https://www.reddit.com/r/Python/comments/1hoxyem/enrolling_in_bootcamp_job_expectations/)
 <!-- BLOG-POST-LIST:END -->
