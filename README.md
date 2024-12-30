@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python &quot;guiding principles&quot;](https://www.reddit.com/r/Python/comments/1hpz4vp/python_guiding_principles/)
+- [Looking for recommendations about documents management](https://www.reddit.com/r/Python/comments/1hpyw10/looking_for_recommendations_about_documents/)
 - [Air Pollution Tracker Project](https://www.reddit.com/r/Python/comments/1hpwhzt/air_pollution_tracker_project/)
 - [I made a CLI that generates terminal UIs from simple text prompts](https://www.reddit.com/r/Python/comments/1hpuh0o/i_made_a_cli_that_generates_terminal_uis_from/)
 - [JIT Compiler in Python?](https://www.reddit.com/r/Python/comments/1hptstf/jit_compiler_in_python/)
-- [ppd &lpar;A xxd clone in Python&rpar;](https://www.reddit.com/r/Python/comments/1hprl2y/ppd_a_xxd_clone_in_python/)
-- [Project for dark theme friendly plotting in Matplotlib and Seaborn in VSCode](https://www.reddit.com/r/Python/comments/1hpocw5/project_for_dark_theme_friendly_plotting_in/)
 <!-- BLOG-POST-LIST:END -->
