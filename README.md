@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1hp9p8c/monday_daily_thread_project_ideas/)
 - [DragDropTK: Tkinter GUI design tool](https://www.reddit.com/r/Python/comments/1hp6tqe/dragdroptk_tkinter_gui_design_tool/)
-- [What does this code print?](https://www.reddit.com/r/Python/comments/1hp5k2f/what_does_this_code_print/)
 - [I made a sprint capacity calculator with BambooHR integration](https://www.reddit.com/r/Python/comments/1hp5gaf/i_made_a_sprint_capacity_calculator_with_bamboohr/)
 - [I made an AI-powered IPython REPL](https://www.reddit.com/r/Python/comments/1hp4a8z/i_made_an_aipowered_ipython_repl/)
 - [blogging system &#39;gresiblos&#39; released](https://www.reddit.com/r/Python/comments/1hp3vqu/blogging_system_gresiblos_released/)
