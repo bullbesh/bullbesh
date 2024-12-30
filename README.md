@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a CLI that generates terminal UIs from simple text prompts](https://www.reddit.com/r/Python/comments/1hpuh0o/i_made_a_cli_that_generates_terminal_uis_from/)
+- [JIT Compiler in Python?](https://www.reddit.com/r/Python/comments/1hptstf/jit_compiler_in_python/)
 - [ppd &lpar;A xxd clone in Python&rpar;](https://www.reddit.com/r/Python/comments/1hprl2y/ppd_a_xxd_clone_in_python/)
 - [Project for dark theme friendly plotting in Matplotlib and Seaborn in VSCode](https://www.reddit.com/r/Python/comments/1hpocw5/project_for_dark_theme_friendly_plotting_in/)
 - [New to freelancing](https://www.reddit.com/r/Python/comments/1hpo5zz/new_to_freelancing/)
-- [Pull request proposed for pandas overflow with timestamp normalize](https://www.reddit.com/r/Python/comments/1hpnox7/pull_request_proposed_for_pandas_overflow_with/)
-- [Near real time speech to text, right from the mic](https://www.reddit.com/r/Python/comments/1hpnotw/near_real_time_speech_to_text_right_from_the_mic/)
 <!-- BLOG-POST-LIST:END -->
