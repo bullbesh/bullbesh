@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project for dark theme friendly plotting in Matplotlib and Seaborn in VSCode](https://www.reddit.com/r/Python/comments/1hpocw5/project_for_dark_theme_friendly_plotting_in/)
+- [New to freelancing](https://www.reddit.com/r/Python/comments/1hpo5zz/new_to_freelancing/)
 - [Pull request proposed for pandas overflow with timestamp normalize](https://www.reddit.com/r/Python/comments/1hpnox7/pull_request_proposed_for_pandas_overflow_with/)
 - [Near real time speech to text, right from the mic](https://www.reddit.com/r/Python/comments/1hpnotw/near_real_time_speech_to_text_right_from_the_mic/)
 - [pybit7z: a wrapper from bit7z](https://www.reddit.com/r/Python/comments/1hpju7u/pybit7z_a_wrapper_from_bit7z/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1hp9p8c/monday_daily_thread_project_ideas/)
-- [DragDropTK: Tkinter GUI design tool](https://www.reddit.com/r/Python/comments/1hp6tqe/dragdroptk_tkinter_gui_design_tool/)
 <!-- BLOG-POST-LIST:END -->
