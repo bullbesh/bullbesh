@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pybit7z: a wrapper from bit7z](https://www.reddit.com/r/Python/comments/1hq8tx8/pybit7z_a_wrapper_from_bit7z/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1hq1fjw/tuesday_daily_thread_advanced_questions/)
 - [Wanting to learn](https://www.reddit.com/r/Python/comments/1hq0irg/wanting_to_learn/)
 - [Python &quot;guiding principles&quot;](https://www.reddit.com/r/Python/comments/1hpz4vp/python_guiding_principles/)
 - [Looking for recommendations about documents management](https://www.reddit.com/r/Python/comments/1hpyw10/looking_for_recommendations_about_documents/)
-- [Air Pollution Tracker Project](https://www.reddit.com/r/Python/comments/1hpwhzt/air_pollution_tracker_project/)
 <!-- BLOG-POST-LIST:END -->
