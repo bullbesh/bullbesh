@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [IDE for Python on Android for free! So every student can code even if they don&#39;t have a laptop](https://www.reddit.com/r/Python/comments/1hq7kj9/ide_for_python_on_android_for_free_so_every/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1hq1fjw/tuesday_daily_thread_advanced_questions/)
 - [Wanting to learn](https://www.reddit.com/r/Python/comments/1hq0irg/wanting_to_learn/)
 - [Python &quot;guiding principles&quot;](https://www.reddit.com/r/Python/comments/1hpz4vp/python_guiding_principles/)
 - [Looking for recommendations about documents management](https://www.reddit.com/r/Python/comments/1hpyw10/looking_for_recommendations_about_documents/)
-- [Air Pollution Tracker Project](https://www.reddit.com/r/Python/comments/1hpwhzt/air_pollution_tracker_project/)
 <!-- BLOG-POST-LIST:END -->
