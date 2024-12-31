@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve made a video showcase of my Python &amp; Pygame 2024 projects](https://www.reddit.com/r/Python/comments/1hqc5rx/ive_made_a_video_showcase_of_my_python_pygame/)
 - [Dsa buddy in Python](https://www.reddit.com/r/Python/comments/1hqbs05/dsa_buddy_in_python/)
 - [Python Model for PDF table extraction](https://www.reddit.com/r/Python/comments/1hqbfm5/python_model_for_pdf_table_extraction/)
 - [pybit7z: a wrapper from bit7z](https://www.reddit.com/r/Python/comments/1hq8tx8/pybit7z_a_wrapper_from_bit7z/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1hq1fjw/tuesday_daily_thread_advanced_questions/)
-- [Wanting to learn](https://www.reddit.com/r/Python/comments/1hq0irg/wanting_to_learn/)
 <!-- BLOG-POST-LIST:END -->
