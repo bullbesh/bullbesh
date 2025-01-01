@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turn your desktop into your todo list](https://www.reddit.com/r/Python/comments/1hr9bah/turn_your_desktop_into_your_todo_list/)
+- [An alternative to port forwarding for multiplayer functionalities](https://www.reddit.com/r/Python/comments/1hr8xlo/an_alternative_to_port_forwarding_for_multiplayer/)
 - [I build a tool that automates testing of a product against its documentation](https://www.reddit.com/r/Python/comments/1hr4dnu/i_build_a_tool_that_automates_testing_of_a/)
 - [Python / Computer Science Local to my area.](https://www.reddit.com/r/Python/comments/1hqwtif/python_computer_science_local_to_my_area/)
 - [kenobiDB 3.0 made public, pickleDB replacement?](https://www.reddit.com/r/Python/comments/1hqvrd6/kenobidb_30_made_public_pickledb_replacement/)
-- [static-npm: Run your npm tools from python](https://www.reddit.com/r/Python/comments/1hqts33/staticnpm_run_your_npm_tools_from_python/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1hqr98f/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
