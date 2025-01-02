@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Appropriate framework for thesis](https://www.reddit.com/r/Python/comments/1hrko7z/appropriate_framework_for_thesis/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1hrgc7f/thursday_daily_thread_python_careers_courses_and/)
 - [Quart-Schema 0.21.0 released](https://www.reddit.com/r/Python/comments/1hrd8w0/quartschema_0210_released/)
 - [Useful and fun Bash commands](https://www.reddit.com/r/Python/comments/1hrbroi/useful_and_fun_bash_commands/)
 - [Wow. pypa.dev, the domain, is available for purchase.](https://www.reddit.com/r/Python/comments/1hrb5zt/wow_pypadev_the_domain_is_available_for_purchase/)
-- [Python Golf: How few installations/versions do you have?](https://www.reddit.com/r/Python/comments/1hrb0vx/python_golf_how_few_installationsversions_do_you/)
 <!-- BLOG-POST-LIST:END -->
