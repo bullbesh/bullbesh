@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlock Python&#39;s AI Power in .NET with PyTorch! 🧠💻](https://www.reddit.com/r/Python/comments/1hskz3f/unlock_pythons_ai_power_in_net_with_pytorch/)
 - [I made a script to find audio transcription jobs on Google and put them into a spreadsheet](https://www.reddit.com/r/Python/comments/1hse1yf/i_made_a_script_to_find_audio_transcription_jobs/)
 - [COOL GAME - BUILDING IN PUBLIC](https://www.reddit.com/r/Python/comments/1hsbaoe/cool_game_building_in_public/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1hs8l05/friday_daily_thread_rpython_meta_and_freetalk/)
 - [RoomConnect: Simplified Networking for Pygame Games 🚀](https://www.reddit.com/r/Python/comments/1hs1muw/roomconnect_simplified_networking_for_pygame_games/)
-- [A library for multi-objective community detection](https://www.reddit.com/r/Python/comments/1hrzj5e/a_library_for_multiobjective_community_detection/)
 <!-- BLOG-POST-LIST:END -->
