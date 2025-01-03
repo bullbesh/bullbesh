@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1hs8l05/friday_daily_thread_rpython_meta_and_freetalk/)
 - [RoomConnect: Simplified Networking for Pygame Games 🚀](https://www.reddit.com/r/Python/comments/1hs1muw/roomconnect_simplified_networking_for_pygame_games/)
 - [A library for multi-objective community detection](https://www.reddit.com/r/Python/comments/1hrzj5e/a_library_for_multiobjective_community_detection/)
 - [MusicBrainz2Notion: Synchronizing Notion Databases with MusicBrainz](https://www.reddit.com/r/Python/comments/1hrvd6r/musicbrainz2notion_synchronizing_notion_databases/)
 - [Ask Reddit: Has anyone used the Frappe Framework?](https://www.reddit.com/r/Python/comments/1hrq8qn/ask_reddit_has_anyone_used_the_frappe_framework/)
-- [BLIP CAM: Live Image Captioning - Real-Time Video Stream Description Using AI](https://www.reddit.com/r/Python/comments/1hrnv69/blip_cam_live_image_captioning_realtime_video/)
 <!-- BLOG-POST-LIST:END -->
