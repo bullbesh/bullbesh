@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [No natively implemented bidirectional maps?](https://www.reddit.com/r/Python/comments/1ht8ixw/no_natively_implemented_bidirectional_maps/)
 - [Pycamo: Camouflage Pattern Generator](https://www.reddit.com/r/Python/comments/1ht68e9/pycamo_camouflage_pattern_generator/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ht11yp/saturday_daily_thread_resource_request_and/)
 - [Interactive Image Background Remover &lpar;open source Photoroom Alternative&rpar;](https://www.reddit.com/r/Python/comments/1hsx9ok/interactive_image_background_remover_open_source/)
 - [Loadouts for Genshin Impact v0.1.4 is OUT NOW with support for Genshin Impact v5.3 Phase 1](https://www.reddit.com/r/Python/comments/1hsvey1/loadouts_for_genshin_impact_v014_is_out_now_with/)
-- [Spyder vs. Pythonista](https://www.reddit.com/r/Python/comments/1hsu5x9/spyder_vs_pythonista/)
 <!-- BLOG-POST-LIST:END -->
