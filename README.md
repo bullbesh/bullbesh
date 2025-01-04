@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Block Blast Calculator](https://www.reddit.com/r/Python/comments/1htn5m9/block_blast_calculator/)
 - [My first python package - MathSpell. Convert numbers to words contextually.](https://www.reddit.com/r/Python/comments/1htjhrt/my_first_python_package_mathspell_convert_numbers/)
 - [simple project python languange](https://www.reddit.com/r/Python/comments/1hth83d/simple_project_python_languange/)
 - [Dataclass Wizard: V1 Opt-in Out Now!](https://www.reddit.com/r/Python/comments/1htey5l/dataclass_wizard_v1_optin_out_now/)
 - [Motor Control Simulator in Python](https://www.reddit.com/r/Python/comments/1hted1s/motor_control_simulator_in_python/)
-- [No natively implemented bidirectional maps?](https://www.reddit.com/r/Python/comments/1ht8ixw/no_natively_implemented_bidirectional_maps/)
 <!-- BLOG-POST-LIST:END -->
