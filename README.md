@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [simple project python languange](https://www.reddit.com/r/Python/comments/1hth83d/simple_project_python_languange/)
 - [Dataclass Wizard: V1 Opt-in Out Now!](https://www.reddit.com/r/Python/comments/1htey5l/dataclass_wizard_v1_optin_out_now/)
 - [Motor Control Simulator in Python](https://www.reddit.com/r/Python/comments/1hted1s/motor_control_simulator_in_python/)
 - [No natively implemented bidirectional maps?](https://www.reddit.com/r/Python/comments/1ht8ixw/no_natively_implemented_bidirectional_maps/)
 - [Pycamo: Camouflage Pattern Generator](https://www.reddit.com/r/Python/comments/1ht68e9/pycamo_camouflage_pattern_generator/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ht11yp/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
