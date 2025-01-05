@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Chatbot with Django](https://www.reddit.com/r/Python/comments/1hu39g1/ai_chatbot_with_django/)
+- [Which game library in Python should I choose?](https://www.reddit.com/r/Python/comments/1hu35pl/which_game_library_in_python_should_i_choose/)
 - [I made another project template, but for a python package &lpar;python, uv, pytest and more&rpar;](https://www.reddit.com/r/Python/comments/1hu0ojq/i_made_another_project_template_but_for_a_python/)
 - [Introcuding kokoro-onnx TTS](https://www.reddit.com/r/Python/comments/1htwitw/introcuding_kokoroonnx_tts/)
 - [im absolutely panicking](https://www.reddit.com/r/Python/comments/1htvlh2/im_absolutely_panicking/)
-- [Sorting Algorithm Visualizations! &lpar;with sound&rpar; &lpar;+ some DSA implementations&rpar;](https://www.reddit.com/r/Python/comments/1htuwqi/sorting_algorithm_visualizations_with_sound_some/)
-- [What kind of libraries or frameworks would you like to have?](https://www.reddit.com/r/Python/comments/1htt6da/what_kind_of_libraries_or_frameworks_would_you/)
 <!-- BLOG-POST-LIST:END -->
