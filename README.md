@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [im absolutely panicking](https://www.reddit.com/r/Python/comments/1htvlh2/im_absolutely_panicking/)
+- [Sorting Algorithm Visualizations! &lpar;with sound&rpar; &lpar;+ some DSA implementations&rpar;](https://www.reddit.com/r/Python/comments/1htuwqi/sorting_algorithm_visualizations_with_sound_some/)
 - [What kind of libraries or frameworks would you like to have?](https://www.reddit.com/r/Python/comments/1htt6da/what_kind_of_libraries_or_frameworks_would_you/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1hts9ju/sunday_daily_thread_whats_everyone_working_on/)
 - [Block Blast Calculator](https://www.reddit.com/r/Python/comments/1htn5m9/block_blast_calculator/)
-- [My first python package - MathSpell. Convert numbers to words contextually.](https://www.reddit.com/r/Python/comments/1htjhrt/my_first_python_package_mathspell_convert_numbers/)
-- [simple project python languange](https://www.reddit.com/r/Python/comments/1hth83d/simple_project_python_languange/)
 <!-- BLOG-POST-LIST:END -->
