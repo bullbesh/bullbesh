@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Potato - A Lightweight Tool for Debugging and Testing Python Code](https://www.reddit.com/r/Python/comments/1huiq1y/potato_a_lightweight_tool_for_debugging_and/)
 - [CMD Python problem](https://www.reddit.com/r/Python/comments/1hu7dfv/cmd_python_problem/)
 - [Should PyPI allow 2 projects to have the same name for importing](https://www.reddit.com/r/Python/comments/1hu7d17/should_pypi_allow_2_projects_to_have_the_same/)
 - [What are some good IDEs for Python?](https://www.reddit.com/r/Python/comments/1hu51tc/what_are_some_good_ides_for_python/)
 - [ShortMoji: Emoji Shortcuts Made Easy for Your Keyboard !](https://www.reddit.com/r/Python/comments/1hu4pgo/shortmoji_emoji_shortcuts_made_easy_for_your/)
-- [Chainmock - Mocking library for Python and pytest](https://www.reddit.com/r/Python/comments/1hu44o4/chainmock_mocking_library_for_python_and_pytest/)
 <!-- BLOG-POST-LIST:END -->
