@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New features in Python 3.13](https://www.reddit.com/r/Python/comments/1hurapg/new_features_in_python_313/)
 - [Tuitorial - I built a terminal-based tool for code presentations because PowerPoint was too painful](https://www.reddit.com/r/Python/comments/1huqhvc/tuitorial_i_built_a_terminalbased_tool_for_code/)
 - [LLM Catcher: Debug Smarter with AI-Powered Exception Handling](https://www.reddit.com/r/Python/comments/1huoeev/llm_catcher_debug_smarter_with_aipowered/)
 - [SPENDWISE - Expense Tracker Application 💼📊](https://www.reddit.com/r/Python/comments/1hunj21/spendwise_expense_tracker_application/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1huld8j/monday_daily_thread_project_ideas/)
-- [Ticked - Terminal based productivity app | built in code editor with vim motions and Spotify access](https://www.reddit.com/r/Python/comments/1huk10s/ticked_terminal_based_productivity_app_built_in/)
 <!-- BLOG-POST-LIST:END -->
