@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How does one know when to use modules?](https://www.reddit.com/r/Python/comments/1huph4k/how_does_one_know_when_to_use_modules/)
+- [Tuitorial - I built a terminal-based tool for code presentations because PowerPoint was too painful](https://www.reddit.com/r/Python/comments/1huqhvc/tuitorial_i_built_a_terminalbased_tool_for_code/)
 - [LLM Catcher: Debug Smarter with AI-Powered Exception Handling](https://www.reddit.com/r/Python/comments/1huoeev/llm_catcher_debug_smarter_with_aipowered/)
 - [SPENDWISE - Expense Tracker Application 💼📊](https://www.reddit.com/r/Python/comments/1hunj21/spendwise_expense_tracker_application/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1huld8j/monday_daily_thread_project_ideas/)
