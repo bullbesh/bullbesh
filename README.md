@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kompressor, a cli to compress, convert, resize, trim, and slugify images.](https://www.reddit.com/r/Python/comments/1hvbfpk/kompressor_a_cli_to_compress_convert_resize_trim/)
+- [Introducing dsnrun: Ad-Hoc Error Tracking for Python Scripts](https://www.reddit.com/r/Python/comments/1hvaklw/introducing_dsnrun_adhoc_error_tracking_for/)
 - [Preferences in/breaking formatting rules](https://www.reddit.com/r/Python/comments/1hv8jh1/preferences_inbreaking_formatting_rules/)
 - [I created a lightweight, keyboard-driven TUI feed reader. &lpar;vim keybindings included&rpar;](https://www.reddit.com/r/Python/comments/1hv632l/i_created_a_lightweight_keyboarddriven_tui_feed/)
 - [I Built an NPZ Viewer – A Tool to Visualize .npz/npy files](https://www.reddit.com/r/Python/comments/1hv3981/i_built_an_npz_viewer_a_tool_to_visualize_npznpy/)
-- [uv-migrator: A New Tool to Easily Migrate Your Python Projects to UV Package Manager](https://www.reddit.com/r/Python/comments/1hv33ks/uvmigrator_a_new_tool_to_easily_migrate_your/)
-- [I built my own PyTorch from scratch over the last 5 months in C and modern Python.](https://www.reddit.com/r/Python/comments/1hv14tt/i_built_my_own_pytorch_from_scratch_over_the_last/)
 <!-- BLOG-POST-LIST:END -->
