@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Super Simple Uptime Robot in Python 🚀](https://www.reddit.com/r/Python/comments/1husrqc/super_simple_uptime_robot_in_python/)
+- [A new framework looking for developers feedback](https://www.reddit.com/r/Python/comments/1husdtt/a_new_framework_looking_for_developers_feedback/)
+- [Remote Ramdisk &lpar;Based on NBD&rpar;](https://www.reddit.com/r/Python/comments/1hus3mk/remote_ramdisk_based_on_nbd/)
 - [New features in Python 3.13](https://www.reddit.com/r/Python/comments/1hurapg/new_features_in_python_313/)
 - [Tuitorial - I built a terminal-based tool for code presentations because PowerPoint was too painful](https://www.reddit.com/r/Python/comments/1huqhvc/tuitorial_i_built_a_terminalbased_tool_for_code/)
-- [LLM Catcher: Debug Smarter with AI-Powered Exception Handling](https://www.reddit.com/r/Python/comments/1huoeev/llm_catcher_debug_smarter_with_aipowered/)
-- [SPENDWISE - Expense Tracker Application 💼📊](https://www.reddit.com/r/Python/comments/1hunj21/spendwise_expense_tracker_application/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1huld8j/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
