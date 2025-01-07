@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built Grid Coordinate System for PDF&#39;s](https://www.reddit.com/r/Python/comments/1hvm5hv/i_built_grid_coordinate_system_for_pdfs/)
 - [How I failed amazon SDE 1 internship interview | Used python to ace coding tests](https://www.reddit.com/r/Python/comments/1hvk8tj/how_i_failed_amazon_sde_1_internship_interview/)
 - [How are you using Python in Credit Analysis?](https://www.reddit.com/r/Python/comments/1hvk8ga/how_are_you_using_python_in_credit_analysis/)
 - [Creating a Tiny Text to Video Model From Scratch](https://www.reddit.com/r/Python/comments/1hvifli/creating_a_tiny_text_to_video_model_from_scratch/)
 - [Pyftrace: open source lightweight Python function tracing tool](https://www.reddit.com/r/Python/comments/1hvgv1q/pyftrace_open_source_lightweight_python_function/)
-- [trying to write a simple program - Python](https://www.reddit.com/r/Python/comments/1hvg48x/trying_to_write_a_simple_program_python/)
 <!-- BLOG-POST-LIST:END -->
