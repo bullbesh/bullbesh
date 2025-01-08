@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Combining ThreadPoolExecutor and threading.Thread in the same python application](https://www.reddit.com/r/Python/comments/1hwk104/combining_threadpoolexecutor_and_threadingthread/)
+- [LLM is faster than me in writing a matplotlib code](https://www.reddit.com/r/Python/comments/1hwkltt/llm_is_faster_than_me_in_writing_a_matplotlib_code/)
 - [has anyone build integration of user interface and an online platform for seamless user experience.](https://www.reddit.com/r/Python/comments/1hwjl88/has_anyone_build_integration_of_user_interface/)
 - [Flowkeeper -- a PySide6 &lpar;Python + Qt6&rpar; application](https://www.reddit.com/r/Python/comments/1hwhvns/flowkeeper_a_pyside6_python_qt6_application/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1hw61sj/wednesday_daily_thread_beginner_questions/)
