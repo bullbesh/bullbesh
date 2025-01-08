@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1hw61sj/wednesday_daily_thread_beginner_questions/)
-- [Different values in group by columns before and after group by in pandas dataframe](https://www.reddit.com/r/Python/comments/1hw24sf/different_values_in_group_by_columns_before_and/)
 - [Vision, PDF reading and Python](https://www.reddit.com/r/Python/comments/1hvy2ty/vision_pdf_reading_and_python/)
 - [Open sourcing our python browser SDK that allows you use LLMs to automate tasks on any website](https://www.reddit.com/r/Python/comments/1hvs9hw/open_sourcing_our_python_browser_sdk_that_allows/)
 - [Built a Drag-and-Drop GUI Builder for CustomTkinter – Check It Out and Share Your Thoughts!](https://www.reddit.com/r/Python/comments/1hvnyxn/built_a_draganddrop_gui_builder_for_customtkinter/)
+- [I Built Grid Coordinate System for PDF&#39;s](https://www.reddit.com/r/Python/comments/1hvm5hv/i_built_grid_coordinate_system_for_pdfs/)
 <!-- BLOG-POST-LIST:END -->
