@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Combining ThreadPoolExecutor and threading.Thread in the same python application](https://www.reddit.com/r/Python/comments/1hwk104/combining_threadpoolexecutor_and_threadingthread/)
+- [has anyone build integration of user interface and an online platform for seamless user experience.](https://www.reddit.com/r/Python/comments/1hwjl88/has_anyone_build_integration_of_user_interface/)
 - [Flowkeeper -- a PySide6 &lpar;Python + Qt6&rpar; application](https://www.reddit.com/r/Python/comments/1hwhvns/flowkeeper_a_pyside6_python_qt6_application/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1hw61sj/wednesday_daily_thread_beginner_questions/)
 - [Vision, PDF reading and Python](https://www.reddit.com/r/Python/comments/1hvy2ty/vision_pdf_reading_and_python/)
-- [Open sourcing our python browser SDK that allows you use LLMs to automate tasks on any website](https://www.reddit.com/r/Python/comments/1hvs9hw/open_sourcing_our_python_browser_sdk_that_allows/)
-- [Built a Drag-and-Drop GUI Builder for CustomTkinter – Check It Out and Share Your Thoughts!](https://www.reddit.com/r/Python/comments/1hvnyxn/built_a_draganddrop_gui_builder_for_customtkinter/)
 <!-- BLOG-POST-LIST:END -->
