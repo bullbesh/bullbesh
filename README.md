@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate full docstrings for all your methods with a single command!](https://www.reddit.com/r/Python/comments/1hwy287/generate_full_docstrings_for_all_your_methods/)
+- [Introducing pdf2csv – A PDF to csv/xlsx convertor CLI and python library](https://www.reddit.com/r/Python/comments/1hwx488/introducing_pdf2csv_a_pdf_to_csvxlsx_convertor/)
+- [Arch Gateway - an open source intelligent gateway for AI agents - focus on business logic of agents](https://www.reddit.com/r/Python/comments/1hwwy5w/arch_gateway_an_open_source_intelligent_gateway/)
 - [Python users, how did you move on from basics to more complex coding?](https://www.reddit.com/r/Python/comments/1hwsv6i/python_users_how_did_you_move_on_from_basics_to/)
 - [Legal Technology Project](https://www.reddit.com/r/Python/comments/1hwn5be/legal_technology_project/)
-- [LLM is faster than me in writing a matplotlib code](https://www.reddit.com/r/Python/comments/1hwkltt/llm_is_faster_than_me_in_writing_a_matplotlib_code/)
-- [has anyone build integration of user interface and an online platform for seamless user experience.](https://www.reddit.com/r/Python/comments/1hwjl88/has_anyone_build_integration_of_user_interface/)
-- [Flowkeeper -- a PySide6 &lpar;Python + Qt6&rpar; application](https://www.reddit.com/r/Python/comments/1hwhvns/flowkeeper_a_pyside6_python_qt6_application/)
 <!-- BLOG-POST-LIST:END -->
