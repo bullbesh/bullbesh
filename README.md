@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Arch Gateway - an open source intelligent gateway for AI agents - focus on business logic of agents](https://www.reddit.com/r/Python/comments/1hx0hz0/arch_gateway_an_open_source_intelligent_gateway/)
+- [PEP 769 – Add a ‘default’ keyword argument to ‘attrgetter’ and ‘itemgetter’](https://www.reddit.com/r/Python/comments/1hx06a9/pep_769_add_a_default_keyword_argument_to/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1hwz5go/thursday_daily_thread_python_careers_courses_and/)
 - [Generate full docstrings for all your methods with a single command!](https://www.reddit.com/r/Python/comments/1hwy287/generate_full_docstrings_for_all_your_methods/)
 - [Introducing pdf2csv – A PDF to csv/xlsx convertor CLI and python library](https://www.reddit.com/r/Python/comments/1hwx488/introducing_pdf2csv_a_pdf_to_csvxlsx_convertor/)
-- [Arch Gateway - an open source intelligent gateway for AI agents - focus on business logic of agents](https://www.reddit.com/r/Python/comments/1hwwy5w/arch_gateway_an_open_source_intelligent_gateway/)
-- [Python users, how did you move on from basics to more complex coding?](https://www.reddit.com/r/Python/comments/1hwsv6i/python_users_how_did_you_move_on_from_basics_to/)
-- [Legal Technology Project](https://www.reddit.com/r/Python/comments/1hwn5be/legal_technology_project/)
 <!-- BLOG-POST-LIST:END -->
