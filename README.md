@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep dive into Python on a plane](https://www.reddit.com/r/Python/comments/1hxlm9s/deep_dive_into_python_on_a_plane/)
 - [Python in DevOps: My Favorite Tools](https://www.reddit.com/r/Python/comments/1hxjv2o/python_in_devops_my_favorite_tools/)
 - [Homemade LLM Hosting with Two-Way Voice Support using Python, Transformers, Qwen, and Bark](https://www.reddit.com/r/Python/comments/1hxcg8k/homemade_llm_hosting_with_twoway_voice_support/)
 - [Cyantic - build complex objects from simple blueprints using pydantic](https://www.reddit.com/r/Python/comments/1hxbarx/cyantic_build_complex_objects_from_simple/)
 - [obliquetree: Advanced Decision Tree Implementation](https://www.reddit.com/r/Python/comments/1hxaa85/obliquetree_advanced_decision_tree_implementation/)
-- [We made an open source web-app to self-host your documents and interact with them using LLMs](https://www.reddit.com/r/Python/comments/1hx3qcl/we_made_an_open_source_webapp_to_selfhost_your/)
 <!-- BLOG-POST-LIST:END -->
