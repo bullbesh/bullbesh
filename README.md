@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I added a prediction results page to my Python football &lpar;Premier League soccer&rpar; prediction page.](https://www.reddit.com/r/Python/comments/1hxtc13/i_added_a_prediction_results_page_to_my_python/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1hxr7g3/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Automating video reframing in python](https://www.reddit.com/r/Python/comments/1hxnpki/automating_video_reframing_in_python/)
 - [Python in DevOps: My Favorite Tools](https://www.reddit.com/r/Python/comments/1hxjv2o/python_in_devops_my_favorite_tools/)
 - [Homemade LLM Hosting with Two-Way Voice Support using Python, Transformers, Qwen, and Bark](https://www.reddit.com/r/Python/comments/1hxcg8k/homemade_llm_hosting_with_twoway_voice_support/)
-- [Cyantic - build complex objects from simple blueprints using pydantic](https://www.reddit.com/r/Python/comments/1hxbarx/cyantic_build_complex_objects_from_simple/)
 <!-- BLOG-POST-LIST:END -->
