@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any notable moments while teaching Python?](https://www.reddit.com/r/Python/comments/1hy37v2/any_notable_moments_while_teaching_python/)
+- [Extending the ArgumentParser to accept arbitrary conditional arguments](https://www.reddit.com/r/Python/comments/1hy2ggg/extending_the_argumentparser_to_accept_arbitrary/)
+- [Can anyone fix this issue I keep getting?](https://www.reddit.com/r/Python/comments/1hy2fsc/can_anyone_fix_this_issue_i_keep_getting/)
 - [I created a linter for your dependencies &lpar;requirements.txt file!&rpar;](https://www.reddit.com/r/Python/comments/1hy1q3n/i_created_a_linter_for_your_dependencies/)
 - [Collaboration for python beginners](https://www.reddit.com/r/Python/comments/1hy0584/collaboration_for_python_beginners/)
-- [I added a prediction results page to my Python football &lpar;Premier League soccer&rpar; prediction page.](https://www.reddit.com/r/Python/comments/1hxtc13/i_added_a_prediction_results_page_to_my_python/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1hxr7g3/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Automating video reframing in python](https://www.reddit.com/r/Python/comments/1hxnpki/automating_video_reframing_in_python/)
 <!-- BLOG-POST-LIST:END -->
