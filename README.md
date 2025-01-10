@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a linter for your dependencies &lpar;requirements.txt file!&rpar;](https://www.reddit.com/r/Python/comments/1hy1q3n/i_created_a_linter_for_your_dependencies/)
 - [Collaboration for python beginners](https://www.reddit.com/r/Python/comments/1hy0584/collaboration_for_python_beginners/)
 - [I added a prediction results page to my Python football &lpar;Premier League soccer&rpar; prediction page.](https://www.reddit.com/r/Python/comments/1hxtc13/i_added_a_prediction_results_page_to_my_python/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1hxr7g3/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Automating video reframing in python](https://www.reddit.com/r/Python/comments/1hxnpki/automating_video_reframing_in_python/)
-- [Python in DevOps: My Favorite Tools](https://www.reddit.com/r/Python/comments/1hxjv2o/python_in_devops_my_favorite_tools/)
 <!-- BLOG-POST-LIST:END -->
