@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Transact durable compute library now supports asyncio and coroutines](https://www.reddit.com/r/Python/comments/1hydxxn/transact_durable_compute_library_now_supports/)
 - [PCAP examination](https://www.reddit.com/r/Python/comments/1hycpld/pcap_examination/)
 - [Estimate Package Reliability Programmatically](https://www.reddit.com/r/Python/comments/1hyavui/estimate_package_reliability_programmatically/)
 - [txtai 8.2 released: Simplified LLM messages, Graph RAG attribute filters and multi-CPU/GPU encoding](https://www.reddit.com/r/Python/comments/1hy60oj/txtai_82_released_simplified_llm_messages_graph/)
 - [Any notable moments while teaching Python?](https://www.reddit.com/r/Python/comments/1hy37v2/any_notable_moments_while_teaching_python/)
-- [Extending the ArgumentParser to accept arbitrary conditional arguments](https://www.reddit.com/r/Python/comments/1hy2ggg/extending_the_argumentparser_to_accept_arbitrary/)
 <!-- BLOG-POST-LIST:END -->
