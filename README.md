@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are there any actual use cases of Python in Excel?](https://www.reddit.com/r/Python/comments/1hylc50/are_there_any_actual_use_cases_of_python_in_excel/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1hyivpf/saturday_daily_thread_resource_request_and/)
 - [Test &amp; Code Season 2 - pytest plugins](https://www.reddit.com/r/Python/comments/1hygwow/test_code_season_2_pytest_plugins/)
 - [Transact durable compute library now supports asyncio and coroutines](https://www.reddit.com/r/Python/comments/1hydxxn/transact_durable_compute_library_now_supports/)
 - [Estimate Package Reliability Programmatically](https://www.reddit.com/r/Python/comments/1hyavui/estimate_package_reliability_programmatically/)
-- [txtai 8.2 released: Simplified LLM messages, Graph RAG attribute filters and multi-CPU/GPU encoding](https://www.reddit.com/r/Python/comments/1hy60oj/txtai_82_released_simplified_llm_messages_graph/)
 <!-- BLOG-POST-LIST:END -->
