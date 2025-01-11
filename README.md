@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AYUDA CON PYTHON](https://www.reddit.com/r/Python/comments/1hz1vog/ayuda_con_python/)
+- [AYUDA CON PYTHON](https://www.reddit.com/r/Python/comments/1hz1vnv/ayuda_con_python/)
+- [How are European Python/AI devs landing US remote jobs? Just curious](https://www.reddit.com/r/Python/comments/1hz1u57/how_are_european_pythonai_devs_landing_us_remote/)
 - [Txtify v1.0.0: FREE AI-Powered Transcription &amp; Translation 🚀](https://www.reddit.com/r/Python/comments/1hz002h/txtify_v100_free_aipowered_transcription/)
 - [all Coding languages support discord group for helping , learning, and sharing code!](https://www.reddit.com/r/Python/comments/1hyxvfe/all_coding_languages_support_discord_group_for/)
-- [PyGAD 3.4.0 Released: Python library for optimization using the genetic algorithm.](https://www.reddit.com/r/Python/comments/1hyxjqi/pygad_340_released_python_library_for/)
-- [Multi Tanent Package](https://www.reddit.com/r/Python/comments/1hyx1wr/multi_tanent_package/)
-- [Recovering cleared globals, builtins and modules](https://www.reddit.com/r/Python/comments/1hytjwd/recovering_cleared_globals_builtins_and_modules/)
 <!-- BLOG-POST-LIST:END -->
