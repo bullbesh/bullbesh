@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recovering cleared globals, builtins and modules](https://www.reddit.com/r/Python/comments/1hytjwd/recovering_cleared_globals_builtins_and_modules/)
+- [A To-Do app in Python with Dash plotly](https://www.reddit.com/r/Python/comments/1hytgdn/a_todo_app_in_python_with_dash_plotly/)
 - [how to create a doubt engine like doubtnut in python?](https://www.reddit.com/r/Python/comments/1hyr77h/how_to_create_a_doubt_engine_like_doubtnut_in/)
 - [New and in experienced but only know Python 3](https://www.reddit.com/r/Python/comments/1hypgam/new_and_in_experienced_but_only_know_python_3/)
 - [Are there any actual use cases of Python in Excel?](https://www.reddit.com/r/Python/comments/1hylc50/are_there_any_actual_use_cases_of_python_in_excel/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1hyivpf/saturday_daily_thread_resource_request_and/)
-- [Test &amp; Code Season 2 - pytest plugins](https://www.reddit.com/r/Python/comments/1hygwow/test_code_season_2_pytest_plugins/)
 <!-- BLOG-POST-LIST:END -->
