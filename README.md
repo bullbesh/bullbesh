@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How CoderLegion is Helping Developers Share Knowledge and Grow](https://www.reddit.com/r/Python/comments/1hz6u6f/how_coderlegion_is_helping_developers_share/)
 - [AYUDA CON PYTHON](https://www.reddit.com/r/Python/comments/1hz1vog/ayuda_con_python/)
 - [AYUDA CON PYTHON](https://www.reddit.com/r/Python/comments/1hz1vnv/ayuda_con_python/)
 - [How are European Python/AI devs landing US remote jobs? Just curious](https://www.reddit.com/r/Python/comments/1hz1u57/how_are_european_pythonai_devs_landing_us_remote/)
 - [Txtify v1.0.0: FREE AI-Powered Transcription &amp; Translation 🚀](https://www.reddit.com/r/Python/comments/1hz002h/txtify_v100_free_aipowered_transcription/)
-- [all Coding languages support discord group for helping , learning, and sharing code!](https://www.reddit.com/r/Python/comments/1hyxvfe/all_coding_languages_support_discord_group_for/)
 <!-- BLOG-POST-LIST:END -->
