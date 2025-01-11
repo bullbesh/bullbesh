@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Do most people start their coding journey with python?](https://www.reddit.com/r/Python/comments/1hyzfrz/do_most_people_start_their_coding_journey_with/)
+- [Txtify v1.0.0: FREE AI-Powered Transcription &amp; Translation 🚀](https://www.reddit.com/r/Python/comments/1hz002h/txtify_v100_free_aipowered_transcription/)
 - [all Coding languages support discord group for helping , learning, and sharing code!](https://www.reddit.com/r/Python/comments/1hyxvfe/all_coding_languages_support_discord_group_for/)
 - [PyGAD 3.4.0 Released: Python library for optimization using the genetic algorithm.](https://www.reddit.com/r/Python/comments/1hyxjqi/pygad_340_released_python_library_for/)
 - [Multi Tanent Package](https://www.reddit.com/r/Python/comments/1hyx1wr/multi_tanent_package/)
