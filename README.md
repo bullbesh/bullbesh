@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Suggest some project ideas](https://www.reddit.com/r/Python/comments/1hzq1kl/suggest_some_project_ideas/)
+- [FuzzyAI - Jailbreak your favorite LLM](https://www.reddit.com/r/Python/comments/1hzpqxu/fuzzyai_jailbreak_your_favorite_llm/)
+- [Built My First Document Scanning and OCR App – Would Love to Hear Your Thoughts!](https://www.reddit.com/r/Python/comments/1hzpohx/built_my_first_document_scanning_and_ocr_app/)
 - [Versioning Your LLM Prompts the i18n Way](https://www.reddit.com/r/Python/comments/1hzoj3n/versioning_your_llm_prompts_the_i18n_way/)
 - [30-Day Python Programming Challenge](https://www.reddit.com/r/Python/comments/1hzko2n/30day_python_programming_challenge/)
-- [Python with type hints and Mypy: regret for not using statically typed lang?](https://www.reddit.com/r/Python/comments/1hzk4vb/python_with_type_hints_and_mypy_regret_for_not/)
-- [Train an LLM from Scratch](https://www.reddit.com/r/Python/comments/1hzg5fh/train_an_llm_from_scratch/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1hz9oaq/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
