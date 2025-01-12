@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python with type hints and Mypy: regret for not using statically typed lang?](https://www.reddit.com/r/Python/comments/1hzk4vb/python_with_type_hints_and_mypy_regret_for_not/)
 - [Train an LLM from Scratch](https://www.reddit.com/r/Python/comments/1hzg5fh/train_an_llm_from_scratch/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1hz9oaq/sunday_daily_thread_whats_everyone_working_on/)
 - [AWS S3 data ingestion and augmentation patterns using DuckDB and Python](https://www.reddit.com/r/Python/comments/1hz9krl/aws_s3_data_ingestion_and_augmentation_patterns/)
 - [How are European Python/AI devs landing US remote jobs? Just curious](https://www.reddit.com/r/Python/comments/1hz1u57/how_are_european_pythonai_devs_landing_us_remote/)
-- [Txtify v1.0.0: FREE AI-Powered Transcription &amp; Translation 🚀](https://www.reddit.com/r/Python/comments/1hz002h/txtify_v100_free_aipowered_transcription/)
 <!-- BLOG-POST-LIST:END -->
