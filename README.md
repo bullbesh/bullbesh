@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Stuck with my degree](https://www.reddit.com/r/Python/comments/1hzn2kw/stuck_with_my_degree/)
+- [Versioning Your LLM Prompts the i18n Way](https://www.reddit.com/r/Python/comments/1hzoj3n/versioning_your_llm_prompts_the_i18n_way/)
 - [30-Day Python Programming Challenge](https://www.reddit.com/r/Python/comments/1hzko2n/30day_python_programming_challenge/)
 - [Python with type hints and Mypy: regret for not using statically typed lang?](https://www.reddit.com/r/Python/comments/1hzk4vb/python_with_type_hints_and_mypy_regret_for_not/)
 - [Train an LLM from Scratch](https://www.reddit.com/r/Python/comments/1hzg5fh/train_an_llm_from_scratch/)
