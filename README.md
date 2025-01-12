@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need a Python expert Squirrel.py](https://www.reddit.com/r/Python/comments/1hzr17d/need_a_python_expert_squirrelpy/)
+- [Which of these is a better way of writing code ?](https://www.reddit.com/r/Python/comments/1hzqze1/which_of_these_is_a_better_way_of_writing_code/)
+- [I made a Blood Analysis Tool because I&#39;m a True Crime junkie](https://www.reddit.com/r/Python/comments/1hzqc40/i_made_a_blood_analysis_tool_because_im_a_true/)
 - [Suggest some project ideas](https://www.reddit.com/r/Python/comments/1hzq1kl/suggest_some_project_ideas/)
 - [FuzzyAI - Jailbreak your favorite LLM](https://www.reddit.com/r/Python/comments/1hzpqxu/fuzzyai_jailbreak_your_favorite_llm/)
-- [Built My First Document Scanning and OCR App – Would Love to Hear Your Thoughts!](https://www.reddit.com/r/Python/comments/1hzpohx/built_my_first_document_scanning_and_ocr_app/)
-- [Versioning Your LLM Prompts the i18n Way](https://www.reddit.com/r/Python/comments/1hzoj3n/versioning_your_llm_prompts_the_i18n_way/)
-- [30-Day Python Programming Challenge](https://www.reddit.com/r/Python/comments/1hzko2n/30day_python_programming_challenge/)
 <!-- BLOG-POST-LIST:END -->
