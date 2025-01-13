@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Indentation-based syntax for Clojure](https://www.reddit.com/r/Python/comments/1i0k96j/indentationbased_syntax_for_clojure/)
 - [ParrotFlume: Use LLMs on the CLI, pipe data through them, or use them in bash scripts.](https://www.reddit.com/r/Python/comments/1i0cham/parrotflume_use_llms_on_the_cli_pipe_data_through/)
 - [I Created A Search Engine Using Python. You do It in just 5 min.](https://www.reddit.com/r/Python/comments/1i0azui/i_created_a_search_engine_using_python_you_do_it/)
 - [BLIP CAM:Self Hosted Live Image Captioning with Real-Time Video Stream 🎥](https://www.reddit.com/r/Python/comments/1i0a0q7/blip_camself_hosted_live_image_captioning_with/)
 - [depthviz - Python CLI tool for generating depth tracking overlays for freediving videos](https://www.reddit.com/r/Python/comments/1i09qro/depthviz_python_cli_tool_for_generating_depth/)
-- [Niquests 3.12 — What&#39;s new in 2025](https://www.reddit.com/r/Python/comments/1i09ip9/niquests_312_whats_new_in_2025/)
 <!-- BLOG-POST-LIST:END -->
