@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [DataBridge: Open-source local multimodal modular RAG system using Python](https://www.reddit.com/r/Python/comments/1i07szz/databridge_opensource_local_multimodal_modular/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1i00vbq/monday_daily_thread_project_ideas/)
 - [Idée et partenariat python](https://www.reddit.com/r/Python/comments/1hzvhdd/idée_et_partenariat_python/)
 - [spss syntax to pandas](https://www.reddit.com/r/Python/comments/1hzszu4/spss_syntax_to_pandas/)
 - [Need a Python expert Squirrel.py](https://www.reddit.com/r/Python/comments/1hzr17d/need_a_python_expert_squirrelpy/)
-- [I made a Blood Analysis Tool because I&#39;m a True Crime junkie](https://www.reddit.com/r/Python/comments/1hzqc40/i_made_a_blood_analysis_tool_because_im_a_true/)
 <!-- BLOG-POST-LIST:END -->
