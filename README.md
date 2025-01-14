@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Company base frappe framework or Custom?](https://www.reddit.com/r/Python/comments/1i0ywzo/company_base_frappe_framework_or_custom/)
 - [Leviathan: A Simple, Ultra-Fast EventLoop for Python asyncio](https://www.reddit.com/r/Python/comments/1i0yb1m/leviathan_a_simple_ultrafast_eventloop_for_python/)
 - [Looking for colab on simple animation program](https://www.reddit.com/r/Python/comments/1i0u5lj/looking_for_colab_on_simple_animation_program/)
 - [Kitten Mixer: Generating Adorable Kittens with Variational Autoencoders](https://www.reddit.com/r/Python/comments/1i0t5zy/kitten_mixer_generating_adorable_kittens_with/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1i0snf0/tuesday_daily_thread_advanced_questions/)
-- [What will happen in this try except?](https://www.reddit.com/r/Python/comments/1i0nlsh/what_will_happen_in_this_try_except/)
 <!-- BLOG-POST-LIST:END -->
