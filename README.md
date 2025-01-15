@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I rewrote my programming language from Python into Go to see the speed up.](https://www.reddit.com/r/Python/comments/1i1ppr7/i_rewrote_my_programming_language_from_python/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1i1kdk3/wednesday_daily_thread_beginner_questions/)
 - [I made a Twitter bot that offers YT timestamps](https://www.reddit.com/r/Python/comments/1i1b7ry/i_made_a_twitter_bot_that_offers_yt_timestamps/)
 - [Good Resume Projects for first job?](https://www.reddit.com/r/Python/comments/1i17slh/good_resume_projects_for_first_job/)
 - [Shellphone - Terraria Player File Editor TUI](https://www.reddit.com/r/Python/comments/1i16yuj/shellphone_terraria_player_file_editor_tui/)
-- [Develop web applications with wwwpy, which is scalable, customizable, and developer-friendly 🚀](https://www.reddit.com/r/Python/comments/1i12yib/develop_web_applications_with_wwwpy_which_is/)
 <!-- BLOG-POST-LIST:END -->
