@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AutoResearch: A Pure-Python open-source LLM-driven research automation tool](https://www.reddit.com/r/Python/comments/1i2lw4i/autoresearch_a_purepython_opensource_llmdriven/)
 - [DeepEval: The Open-Source LLM Evaluation Framework](https://www.reddit.com/r/Python/comments/1i2kafp/deepeval_the_opensource_llm_evaluation_framework/)
 - [Import Error while I run python3 Modulename and no error when I run python3 -m Modulename](https://www.reddit.com/r/Python/comments/1i2jr4u/import_error_while_i_run_python3_modulename_and/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1i2botq/thursday_daily_thread_python_careers_courses_and/)
 - [Robyn &lpar;Web Framework&rpar; is looking for PR reviews on Chinese translation](https://www.reddit.com/r/Python/comments/1i2ahv1/robyn_web_framework_is_looking_for_pr_reviews_on/)
-- [WASM-powered codespaces for Python notebooks on GitHub](https://www.reddit.com/r/Python/comments/1i270co/wasmpowered_codespaces_for_python_notebooks_on/)
 <!-- BLOG-POST-LIST:END -->
