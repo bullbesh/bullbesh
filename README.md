@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Machine Learning Model from Scratch in Python](https://www.reddit.com/r/Python/comments/1i2z59j/building_a_machine_learning_model_from_scratch_in/)
 - [fruitstand: A Library for Regression Testing LLMs](https://www.reddit.com/r/Python/comments/1i2u3nh/fruitstand_a_library_for_regression_testing_llms/)
 - [I wrote optimizers for TensorFlow and Keras](https://www.reddit.com/r/Python/comments/1i2r7z0/i_wrote_optimizers_for_tensorflow_and_keras/)
 - [AutoResearch: A Pure-Python open-source LLM-driven research automation tool](https://www.reddit.com/r/Python/comments/1i2lw4i/autoresearch_a_purepython_opensource_llmdriven/)
 - [DeepEval: The Open-Source LLM Evaluation Framework](https://www.reddit.com/r/Python/comments/1i2kafp/deepeval_the_opensource_llm_evaluation_framework/)
-- [Import Error while I run python3 Modulename and no error when I run python3 -m Modulename](https://www.reddit.com/r/Python/comments/1i2jr4u/import_error_while_i_run_python3_modulename_and/)
 <!-- BLOG-POST-LIST:END -->
