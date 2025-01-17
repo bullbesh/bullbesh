@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1i338dp/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Prevent accidentally running python scripts with missing or incorrect shebang](https://www.reddit.com/r/Python/comments/1i328xc/prevent_accidentally_running_python_scripts_with/)
 - [Every OOP term](https://www.reddit.com/r/Python/comments/1i30cxv/every_oop_term/)
 - [Building a Machine Learning Model from Scratch in Python](https://www.reddit.com/r/Python/comments/1i2z59j/building_a_machine_learning_model_from_scratch_in/)
 - [fruitstand: A Library for Regression Testing LLMs](https://www.reddit.com/r/Python/comments/1i2u3nh/fruitstand_a_library_for_regression_testing_llms/)
-- [I wrote optimizers for TensorFlow and Keras](https://www.reddit.com/r/Python/comments/1i2r7z0/i_wrote_optimizers_for_tensorflow_and_keras/)
 <!-- BLOG-POST-LIST:END -->
