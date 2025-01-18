@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking for NLP Expert to Develop Open-Source LLM](https://www.reddit.com/r/Python/comments/1i4atrk/looking_for_nlp_expert_to_develop_opensource_llm/)
+- [Ticked 0.2.1 Major Release- A terminal based productivity hub built over Textual](https://www.reddit.com/r/Python/comments/1i4dq4w/ticked_021_major_release_a_terminal_based/)
 - [Testified Documentation - a Python developer&#39;s perspective on Specification by Example](https://www.reddit.com/r/Python/comments/1i4ao8k/testified_documentation_a_python_developers/)
 - [I am working on open-source module to calculate various physical parameters of 3D &amp; 2D shapes.](https://www.reddit.com/r/Python/comments/1i4ah74/i_am_working_on_opensource_module_to_calculate/)
 - [Why is this code faster than the other?](https://www.reddit.com/r/Python/comments/1i4967t/why_is_this_code_faster_than_the_other/)
