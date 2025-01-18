@@ -12,5 +12,5 @@
 - [I Built a Tool Automatically Detect and Censor Human Faces in Images and Videos with YOLO](https://www.reddit.com/r/Python/comments/1i3yh1g/i_built_a_tool_automatically_detect_and_censor/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1i3ukpa/saturday_daily_thread_resource_request_and/)
 - [txt2dataset: convert text into data for analysis](https://www.reddit.com/r/Python/comments/1i3qvoy/txt2dataset_convert_text_into_data_for_analysis/)
-- [Does anyone want a program](https://www.reddit.com/r/Python/comments/1i3ohb5/does_anyone_want_a_program/)
+- [AnonChat - Anonymous chat application](https://www.reddit.com/r/Python/comments/1i3ob10/anonchat_anonymous_chat_application/)
 <!-- BLOG-POST-LIST:END -->
