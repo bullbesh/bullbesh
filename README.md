@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for NLP Expert to Develop Open-Source LLM](https://www.reddit.com/r/Python/comments/1i4atrk/looking_for_nlp_expert_to_develop_opensource_llm/)
+- [Testified Documentation - a Python developer&#39;s perspective on Specification by Example](https://www.reddit.com/r/Python/comments/1i4ao8k/testified_documentation_a_python_developers/)
+- [I am working on open-source module to calculate various physical parameters of 3D &amp; 2D shapes.](https://www.reddit.com/r/Python/comments/1i4ah74/i_am_working_on_opensource_module_to_calculate/)
 - [Why is this code faster than the other?](https://www.reddit.com/r/Python/comments/1i4967t/why_is_this_code_faster_than_the_other/)
 - [Figmaflet: Convert your Figma designs to Flet Code](https://www.reddit.com/r/Python/comments/1i452xa/figmaflet_convert_your_figma_designs_to_flet_code/)
-- [Huggingface smolagents : Code centric AI Agent framework, easiest framework for AI Agent creation](https://www.reddit.com/r/Python/comments/1i3zdn4/huggingface_smolagents_code_centric_ai_agent/)
-- [I Built a Tool Automatically Detect and Censor Human Faces in Images and Videos with YOLO](https://www.reddit.com/r/Python/comments/1i3yh1g/i_built_a_tool_automatically_detect_and_censor/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1i3ukpa/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
