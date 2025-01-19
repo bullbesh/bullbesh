@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [OSS billing library based in SQL and Python](https://www.reddit.com/r/Python/comments/1i53m5k/oss_billing_library_based_in_sql_and_python/)
 - [Video Editing with Python for Subtitles](https://www.reddit.com/r/Python/comments/1i51o3d/video_editing_with_python_for_subtitles/)
 - [uv ill like uv - My first blog post](https://www.reddit.com/r/Python/comments/1i50f7i/uv_ill_like_uv_my_first_blog_post/)
 - [Most common Python linter, formatter?](https://www.reddit.com/r/Python/comments/1i4t28v/most_common_python_linter_formatter/)
 - [Port FastAPI apps to agentic LLM apps. Who wants a guide?](https://www.reddit.com/r/Python/comments/1i4p8s1/port_fastapi_apps_to_agentic_llm_apps_who_wants_a/)
-- [I Made a VR Shooter in Python](https://www.reddit.com/r/Python/comments/1i4o1g2/i_made_a_vr_shooter_in_python/)
 <!-- BLOG-POST-LIST:END -->
