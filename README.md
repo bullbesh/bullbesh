@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I Automated Youtube Kids With Python And Went Viral](https://www.reddit.com/r/Python/comments/1i4stfi/i_automated_youtube_kids_with_python_and_went/)
+- [Most common Python linter, formatter?](https://www.reddit.com/r/Python/comments/1i4t28v/most_common_python_linter_formatter/)
 - [Port FastAPI apps to agentic LLM apps. Who wants a guide?](https://www.reddit.com/r/Python/comments/1i4p8s1/port_fastapi_apps_to_agentic_llm_apps_who_wants_a/)
 - [I Made a VR Shooter in Python](https://www.reddit.com/r/Python/comments/1i4o1g2/i_made_a_vr_shooter_in_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1i4l38y/sunday_daily_thread_whats_everyone_working_on/)
