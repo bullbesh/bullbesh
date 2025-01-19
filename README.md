@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1i4l38y/sunday_daily_thread_whats_everyone_working_on/)
 - [Ticked 0.2.1 Major Release- A terminal based productivity hub built over Textual](https://www.reddit.com/r/Python/comments/1i4dq4w/ticked_021_major_release_a_terminal_based/)
 - [Testified Documentation - a Python developer&#39;s perspective on Specification by Example](https://www.reddit.com/r/Python/comments/1i4ao8k/testified_documentation_a_python_developers/)
-- [Why is this code faster than the other?](https://www.reddit.com/r/Python/comments/1i4967t/why_is_this_code_faster_than_the_other/)
 - [Figmaflet: Convert your Figma designs to Flet Code](https://www.reddit.com/r/Python/comments/1i452xa/figmaflet_convert_your_figma_designs_to_flet_code/)
 - [Huggingface smolagents : Code centric AI Agent framework, easiest framework for AI Agent creation](https://www.reddit.com/r/Python/comments/1i3zdn4/huggingface_smolagents_code_centric_ai_agent/)
 <!-- BLOG-POST-LIST:END -->
