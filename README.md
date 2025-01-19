@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GLIBC &gt;=2.39 python container?](https://www.reddit.com/r/Python/comments/1i58rhl/glibc_239_python_container/)
 - [My first steps with Playwright](https://www.reddit.com/r/Python/comments/1i55qc9/my_first_steps_with_playwright/)
 - [OSS billing library based in SQL and Python](https://www.reddit.com/r/Python/comments/1i53m5k/oss_billing_library_based_in_sql_and_python/)
 - [Video Editing with Python for Subtitles](https://www.reddit.com/r/Python/comments/1i51o3d/video_editing_with_python_for_subtitles/)
 - [uv ill like uv - My first blog post](https://www.reddit.com/r/Python/comments/1i50f7i/uv_ill_like_uv_my_first_blog_post/)
-- [Most common Python linter, formatter?](https://www.reddit.com/r/Python/comments/1i4t28v/most_common_python_linter_formatter/)
 <!-- BLOG-POST-LIST:END -->
