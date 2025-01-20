@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a fast, customizable Flask-based news website about: Linux, AI, Covid](https://www.reddit.com/r/Python/comments/1i61869/i_created_a_fast_customizable_flaskbased_news/)
 - [KodeKloud&#39;s Python Course?](https://www.reddit.com/r/Python/comments/1i5z7fg/kodeklouds_python_course/)
 - [&lpar;Python+Flask&rpar; I&#39;ve made a website where you can play against 118 different chess engines](https://www.reddit.com/r/Python/comments/1i5y8zg/pythonflask_ive_made_a_website_where_you_can_play/)
 - [Dragster - Utility to drag&#39;n&#39;drop text/files and perform actions in PyQt5](https://www.reddit.com/r/Python/comments/1i5x9qr/dragster_utility_to_dragndrop_textfiles_and/)
 - [Dragster - Drag&#39;n&#39;drop utility to perform custom functions/actions in PyQt5](https://www.reddit.com/r/Python/comments/1i5x0gq/dragster_dragndrop_utility_to_perform_custom/)
-- [🌈 I created a modern Python logging utility: Tamga](https://www.reddit.com/r/Python/comments/1i5uncl/i_created_a_modern_python_logging_utility_tamga/)
 <!-- BLOG-POST-LIST:END -->
