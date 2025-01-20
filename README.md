@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dragster - Drag&#39;n&#39;drop utility to perform custom functions/actions in PyQt5](https://www.reddit.com/r/Python/comments/1i5x0gq/dragster_dragndrop_utility_to_perform_custom/)
 - [🌈 I created a modern Python logging utility: Tamga](https://www.reddit.com/r/Python/comments/1i5uncl/i_created_a_modern_python_logging_utility_tamga/)
-- [use api to get customer sentiment?](https://www.reddit.com/r/Python/comments/1i5p86x/use_api_to_get_customer_sentiment/)
 - [Boosts AI LLMs For Multilingual And Multimodal Tasks](https://www.reddit.com/r/Python/comments/1i5m9jd/boosts_ai_llms_for_multilingual_and_multimodal/)
 - [I created a simple mailing program; pymailer](https://www.reddit.com/r/Python/comments/1i5l8j5/i_created_a_simple_mailing_program_pymailer/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1i5d1ag/monday_daily_thread_project_ideas/)
