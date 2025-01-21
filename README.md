@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a fix for googlesearch-python &lpar;scraping lib&rpar;](https://www.reddit.com/r/Python/comments/1i6v8lp/i_made_a_fix_for_googlesearchpython_scraping_lib/)
 - [“Google docs” for Jupyter notebooks…](https://www.reddit.com/r/Python/comments/1i6tj4d/google_docs_for_jupyter_notebooks/)
 - [PhotoshopAPI - bulk read/write PSD files without Photoshop App](https://www.reddit.com/r/Python/comments/1i6t9l7/photoshopapi_bulk_readwrite_psd_files_without/)
 - [[Project] CloudCoil - A Modern, Type-Safe Kubernetes Client for Python](https://www.reddit.com/r/Python/comments/1i6t41y/project_cloudcoil_a_modern_typesafe_kubernetes/)
 - [A tool to auto-generate different resume versions &lpar;for different jobs&rpar;](https://www.reddit.com/r/Python/comments/1i6sniw/a_tool_to_autogenerate_different_resume_versions/)
-- [Is it best practise to have a one-to-many relationship between unit test and source file?](https://www.reddit.com/r/Python/comments/1i6r6l2/is_it_best_practise_to_have_a_onetomany/)
 <!-- BLOG-POST-LIST:END -->
