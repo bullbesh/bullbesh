@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it best practise to have a one-to-many relationship between unit test and source file?](https://www.reddit.com/r/Python/comments/1i6r6l2/is_it_best_practise_to_have_a_onetomany/)
 - [Python Fixed-Point Converter](https://www.reddit.com/r/Python/comments/1i6qeh7/python_fixedpoint_converter/)
 - [Dev Dotnet Primeira vez programando em Python, o que utilizar para programar, debugar etc...](https://www.reddit.com/r/Python/comments/1i6pt1x/dev_dotnet_primeira_vez_programando_em_python_o/)
 - [why are there 4 type of arrays in python?](https://www.reddit.com/r/Python/comments/1i6n49d/why_are_there_4_type_of_arrays_in_python/)
 - [How to Visualize your Project&#39;s Dependency Graph](https://www.reddit.com/r/Python/comments/1i6n3zl/how_to_visualize_your_projects_dependency_graph/)
-- [Manually deque message from SQS](https://www.reddit.com/r/Python/comments/1i6jyod/manually_deque_message_from_sqs/)
 <!-- BLOG-POST-LIST:END -->
