@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Fixed-Point Converter](https://www.reddit.com/r/Python/comments/1i6qeh7/python_fixedpoint_converter/)
+- [Dev Dotnet Primeira vez programando em Python, o que utilizar para programar, debugar etc...](https://www.reddit.com/r/Python/comments/1i6pt1x/dev_dotnet_primeira_vez_programando_em_python_o/)
 - [why are there 4 type of arrays in python?](https://www.reddit.com/r/Python/comments/1i6n49d/why_are_there_4_type_of_arrays_in_python/)
 - [How to Visualize your Project&#39;s Dependency Graph](https://www.reddit.com/r/Python/comments/1i6n3zl/how_to_visualize_your_projects_dependency_graph/)
 - [Manually deque message from SQS](https://www.reddit.com/r/Python/comments/1i6jyod/manually_deque_message_from_sqs/)
-- [How much would you guys charge for this? &lpar;My first paid gig&rpar;](https://www.reddit.com/r/Python/comments/1i6iubh/how_much_would_you_guys_charge_for_this_my_first/)
-- [Python Development Tools You Must Leverage For Productivity](https://www.reddit.com/r/Python/comments/1i6auar/python_development_tools_you_must_leverage_for/)
 <!-- BLOG-POST-LIST:END -->
