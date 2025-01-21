@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Julia the Future of Data Science, or Does Python Still Reign Supreme?](https://www.reddit.com/r/Python/comments/1i6baj6/is_julia_the_future_of_data_science_or_does/)
+- [Python Development Tools You Must Leverage For Productivity](https://www.reddit.com/r/Python/comments/1i6auar/python_development_tools_you_must_leverage_for/)
 - [We made a Go - No Go stimulus based inhibition task](https://www.reddit.com/r/Python/comments/1i68fgr/we_made_a_go_no_go_stimulus_based_inhibition_task/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1i656sb/tuesday_daily_thread_advanced_questions/)
 - [Magnetron is a minimalist machine learning framework built entirely from scratch.](https://www.reddit.com/r/Python/comments/1i63rmk/magnetron_is_a_minimalist_machine_learning/)
-- [I created a fast, customizable Flask-based news website about: Linux, AI, Covid](https://www.reddit.com/r/Python/comments/1i61869/i_created_a_fast_customizable_flaskbased_news/)
-- [KodeKloud&#39;s Python Course?](https://www.reddit.com/r/Python/comments/1i5z7fg/kodeklouds_python_course/)
 <!-- BLOG-POST-LIST:END -->
