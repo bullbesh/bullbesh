@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [why are there 4 type of arrays in python?](https://www.reddit.com/r/Python/comments/1i6n49d/why_are_there_4_type_of_arrays_in_python/)
+- [How to Visualize your Project&#39;s Dependency Graph](https://www.reddit.com/r/Python/comments/1i6n3zl/how_to_visualize_your_projects_dependency_graph/)
 - [Manually deque message from SQS](https://www.reddit.com/r/Python/comments/1i6jyod/manually_deque_message_from_sqs/)
 - [How much would you guys charge for this? &lpar;My first paid gig&rpar;](https://www.reddit.com/r/Python/comments/1i6iubh/how_much_would_you_guys_charge_for_this_my_first/)
 - [Python Development Tools You Must Leverage For Productivity](https://www.reddit.com/r/Python/comments/1i6auar/python_development_tools_you_must_leverage_for/)
-- [We made a Go - No Go stimulus based inhibition task](https://www.reddit.com/r/Python/comments/1i68fgr/we_made_a_go_no_go_stimulus_based_inhibition_task/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1i656sb/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
