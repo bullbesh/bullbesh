@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [“Google docs” for Jupyter notebooks…](https://www.reddit.com/r/Python/comments/1i6tj4d/google_docs_for_jupyter_notebooks/)
+- [PhotoshopAPI - bulk read/write PSD files without Photoshop App](https://www.reddit.com/r/Python/comments/1i6t9l7/photoshopapi_bulk_readwrite_psd_files_without/)
+- [[Project] CloudCoil - A Modern, Type-Safe Kubernetes Client for Python](https://www.reddit.com/r/Python/comments/1i6t41y/project_cloudcoil_a_modern_typesafe_kubernetes/)
+- [A tool to auto-generate different resume versions &lpar;for different jobs&rpar;](https://www.reddit.com/r/Python/comments/1i6sniw/a_tool_to_autogenerate_different_resume_versions/)
 - [Is it best practise to have a one-to-many relationship between unit test and source file?](https://www.reddit.com/r/Python/comments/1i6r6l2/is_it_best_practise_to_have_a_onetomany/)
-- [Python Fixed-Point Converter](https://www.reddit.com/r/Python/comments/1i6qeh7/python_fixedpoint_converter/)
-- [Dev Dotnet Primeira vez programando em Python, o que utilizar para programar, debugar etc...](https://www.reddit.com/r/Python/comments/1i6pt1x/dev_dotnet_primeira_vez_programando_em_python_o/)
-- [why are there 4 type of arrays in python?](https://www.reddit.com/r/Python/comments/1i6n49d/why_are_there_4_type_of_arrays_in_python/)
-- [How to Visualize your Project&#39;s Dependency Graph](https://www.reddit.com/r/Python/comments/1i6n3zl/how_to_visualize_your_projects_dependency_graph/)
 <!-- BLOG-POST-LIST:END -->
