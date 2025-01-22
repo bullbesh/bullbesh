@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating 3D models](https://www.reddit.com/r/Python/comments/1i7j36f/creating_3d_models/)
 - [Infinite AI Debugger Loop](https://www.reddit.com/r/Python/comments/1i7h2b2/infinite_ai_debugger_loop/)
 - [Recently graduated](https://www.reddit.com/r/Python/comments/1i7g04g/recently_graduated/)
 - [I made a cli for linux that tracks crypto prices, news, and more.](https://www.reddit.com/r/Python/comments/1i7f649/i_made_a_cli_for_linux_that_tracks_crypto_prices/)
 - [I&#39;m building an Interactive proof assistant called Knuckledragger](https://www.reddit.com/r/Python/comments/1i7cd8m/im_building_an_interactive_proof_assistant_called/)
-- [Coagent: An open-source framework for building monolithic or distributed agentic systems.](https://www.reddit.com/r/Python/comments/1i78qu0/coagent_an_opensource_framework_for_building/)
 <!-- BLOG-POST-LIST:END -->
