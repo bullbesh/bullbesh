@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [C stdlib isn’t threadsafe and even safe Rust didn’t save us](https://www.reddit.com/r/Python/comments/1i7kelt/c_stdlib_isnt_threadsafe_and_even_safe_rust_didnt/)
+- [Using pywallet on a windows 10 in 2025](https://www.reddit.com/r/Python/comments/1i7k7cq/using_pywallet_on_a_windows_10_in_2025/)
+- [TIL: `uv pip install` doesn&#39;t compile bytecode installation](https://www.reddit.com/r/Python/comments/1i7jz7c/til_uv_pip_install_doesnt_compile_bytecode/)
+- [Django request logger: see your requests in form of graphs &amp; charts](https://www.reddit.com/r/Python/comments/1i7jj87/django_request_logger_see_your_requests_in_form/)
 - [Creating 3D models](https://www.reddit.com/r/Python/comments/1i7j36f/creating_3d_models/)
-- [Infinite AI Debugger Loop](https://www.reddit.com/r/Python/comments/1i7h2b2/infinite_ai_debugger_loop/)
-- [Recently graduated](https://www.reddit.com/r/Python/comments/1i7g04g/recently_graduated/)
-- [I made a cli for linux that tracks crypto prices, news, and more.](https://www.reddit.com/r/Python/comments/1i7f649/i_made_a_cli_for_linux_that_tracks_crypto_prices/)
-- [I&#39;m building an Interactive proof assistant called Knuckledragger](https://www.reddit.com/r/Python/comments/1i7cd8m/im_building_an_interactive_proof_assistant_called/)
 <!-- BLOG-POST-LIST:END -->
