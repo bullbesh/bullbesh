@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a CLI tool for transcribing, translating and embedding subtitles in videos using Gemini AI](https://www.reddit.com/r/Python/comments/1i73v8d/i_created_a_cli_tool_for_transcribing_translating/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1i6xdhu/wednesday_daily_thread_beginner_questions/)
 - [I made a fix for googlesearch-python &lpar;scraping lib&rpar;](https://www.reddit.com/r/Python/comments/1i6v8lp/i_made_a_fix_for_googlesearchpython_scraping_lib/)
 - [“Google docs” for Jupyter notebooks…](https://www.reddit.com/r/Python/comments/1i6tj4d/google_docs_for_jupyter_notebooks/)
 - [PhotoshopAPI - bulk read/write PSD files without Photoshop App](https://www.reddit.com/r/Python/comments/1i6t9l7/photoshopapi_bulk_readwrite_psd_files_without/)
-- [[Project] CloudCoil - A Modern, Type-Safe Kubernetes Client for Python](https://www.reddit.com/r/Python/comments/1i6t41y/project_cloudcoil_a_modern_typesafe_kubernetes/)
 <!-- BLOG-POST-LIST:END -->
