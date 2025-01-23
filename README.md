@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [deidentification - A Python tool for removing personal information from text using NLP](https://www.reddit.com/r/Python/comments/1i8377d/deidentification_a_python_tool_for_removing/)
 - [FuzzyAI - Jailbreaking LLMs, Discord Community](https://www.reddit.com/r/Python/comments/1i81x5j/fuzzyai_jailbreaking_llms_discord_community/)
 - [Improve Python code quality!](https://www.reddit.com/r/Python/comments/1i7wus6/improve_python_code_quality/)
 - [I built a print-less debugging library](https://www.reddit.com/r/Python/comments/1i7rs8t/i_built_a_printless_debugging_library/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1i7q0kh/thursday_daily_thread_python_careers_courses_and/)
-- [AnonChat 1.2.0 - Anonymous Chat application](https://www.reddit.com/r/Python/comments/1i7nql9/anonchat_120_anonymous_chat_application/)
 <!-- BLOG-POST-LIST:END -->
