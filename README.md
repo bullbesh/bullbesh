@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [WeTube: Open Source Video App for Everyone](https://www.reddit.com/r/Python/comments/1i8141g/wetube_open_source_video_app_for_everyone/)
+- [FuzzyAI - Jailbreaking LLMs, Discord Community](https://www.reddit.com/r/Python/comments/1i81x5j/fuzzyai_jailbreaking_llms_discord_community/)
 - [Improve Python code quality!](https://www.reddit.com/r/Python/comments/1i7wus6/improve_python_code_quality/)
 - [I built a print-less debugging library](https://www.reddit.com/r/Python/comments/1i7rs8t/i_built_a_printless_debugging_library/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1i7q0kh/thursday_daily_thread_python_careers_courses_and/)
