@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [blackjack from 100 days of python code.](https://www.reddit.com/r/Python/comments/1i8xqld/blackjack_from_100_days_of_python_code/)
+- [Bagels v0.3 update! Expense tracker that lives in your terminal.](https://www.reddit.com/r/Python/comments/1i8xjry/bagels_v03_update_expense_tracker_that_lives_in/)
+- [Open Source Load Testing with Locust: 13 years, 60 million downloads later](https://www.reddit.com/r/Python/comments/1i8xdsb/open_source_load_testing_with_locust_13_years_60/)
 - [ExtractThinker - Document Intelligence for LLMs](https://www.reddit.com/r/Python/comments/1i8ss6o/extractthinker_document_intelligence_for_llms/)
 - [Showcase: Ostrich algorithm package](https://www.reddit.com/r/Python/comments/1i8qhel/showcase_ostrich_algorithm_package/)
-- [Any reason to NOT use Pyright?](https://www.reddit.com/r/Python/comments/1i8pm2f/any_reason_to_not_use_pyright/)
-- [A Python wrapper for Conviva&#39;s Metrics API](https://www.reddit.com/r/Python/comments/1i8p7zc/a_python_wrapper_for_convivas_metrics_api/)
-- [How to install MicroPython on ESP32](https://www.reddit.com/r/Python/comments/1i8ojnn/how_to_install_micropython_on_esp32/)
 <!-- BLOG-POST-LIST:END -->
