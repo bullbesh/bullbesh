@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Question about snowflake worksheets](https://www.reddit.com/r/Python/comments/1i8il7u/question_about_snowflake_worksheets/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1i8i144/friday_daily_thread_rpython_meta_and_freetalk/)
 - [I Built an Open-Source RAG API for Docs, GitHub Issues and READMEs](https://www.reddit.com/r/Python/comments/1i89px9/i_built_an_opensource_rag_api_for_docs_github/)
 - [Properly connecting to and using an RDS style database with FastAPI, SQLA2.x, and asyncpg](https://www.reddit.com/r/Python/comments/1i86i4c/properly_connecting_to_and_using_an_rds_style/)
 - [I made a script for youtube channels to archive twitch streamers automated](https://www.reddit.com/r/Python/comments/1i863ml/i_made_a_script_for_youtube_channels_to_archive/)
-- [deidentification - A Python tool for removing personal information from text using NLP](https://www.reddit.com/r/Python/comments/1i8377d/deidentification_a_python_tool_for_removing/)
-- [FuzzyAI - Jailbreaking LLMs, Discord Community](https://www.reddit.com/r/Python/comments/1i81x5j/fuzzyai_jailbreaking_llms_discord_community/)
 <!-- BLOG-POST-LIST:END -->
