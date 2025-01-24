@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ExtractThinker - Document Intelligence for LLMs](https://www.reddit.com/r/Python/comments/1i8ss6o/extractthinker_document_intelligence_for_llms/)
 - [Showcase: Ostrich algorithm package](https://www.reddit.com/r/Python/comments/1i8qhel/showcase_ostrich_algorithm_package/)
 - [Any reason to NOT use Pyright?](https://www.reddit.com/r/Python/comments/1i8pm2f/any_reason_to_not_use_pyright/)
 - [A Python wrapper for Conviva&#39;s Metrics API](https://www.reddit.com/r/Python/comments/1i8p7zc/a_python_wrapper_for_convivas_metrics_api/)
 - [How to install MicroPython on ESP32](https://www.reddit.com/r/Python/comments/1i8ojnn/how_to_install_micropython_on_esp32/)
-- [Test &amp; Code. Why is pytest-cov the number 1 pytest plugin? Here&#39;s my take on it.](https://www.reddit.com/r/Python/comments/1i8kys9/test_code_why_is_pytestcov_the_number_1_pytest/)
 <!-- BLOG-POST-LIST:END -->
