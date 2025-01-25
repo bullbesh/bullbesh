@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Preferred/Best LLM Assistant?](https://www.reddit.com/r/Python/comments/1i961d6/preferredbest_llm_assistant/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1i99x7w/saturday_daily_thread_resource_request_and/)
 - [blackjack from 100 days of python code.](https://www.reddit.com/r/Python/comments/1i8xqld/blackjack_from_100_days_of_python_code/)
 - [Bagels v0.3 update! Expense tracker that lives in your terminal.](https://www.reddit.com/r/Python/comments/1i8xjry/bagels_v03_update_expense_tracker_that_lives_in/)
 - [Open Source Load Testing with Locust: 13 years, 60 million downloads later](https://www.reddit.com/r/Python/comments/1i8xdsb/open_source_load_testing_with_locust_13_years_60/)
