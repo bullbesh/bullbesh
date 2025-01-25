@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Delcom Beacon](https://www.reddit.com/r/Python/comments/1i9xef3/python_delcom_beacon/)
 - [For my Textual users! Neovim plugin to support Textual CSS Syntax Highlighting](https://www.reddit.com/r/Python/comments/1i9stwk/for_my_textual_users_neovim_plugin_to_support/)
 - [Currex - Pythonic currency calculator with exchange rates](https://www.reddit.com/r/Python/comments/1i9sn69/currex_pythonic_currency_calculator_with_exchange/)
 - [Looking for Coders to Join My AI Project](https://www.reddit.com/r/Python/comments/1i9jh83/looking_for_coders_to_join_my_ai_project/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1i99x7w/saturday_daily_thread_resource_request_and/)
-- [blackjack from 100 days of python code.](https://www.reddit.com/r/Python/comments/1i8xqld/blackjack_from_100_days_of_python_code/)
 <!-- BLOG-POST-LIST:END -->
