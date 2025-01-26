@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MicroPie - An ultra-micro web framework that gets out of your way!](https://www.reddit.com/r/Python/comments/1iamc1x/micropie_an_ultramicro_web_framework_that_gets/)
 - [Best AI for python programming?](https://www.reddit.com/r/Python/comments/1iabwj1/best_ai_for_python_programming/)
 - [A technical intro to Ibis: The portable Python DataFrame library](https://www.reddit.com/r/Python/comments/1ia1gjx/a_technical_intro_to_ibis_the_portable_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ia0tm7/sunday_daily_thread_whats_everyone_working_on/)
 - [For my Textual users! Neovim plugin to support Textual CSS Syntax Highlighting](https://www.reddit.com/r/Python/comments/1i9stwk/for_my_textual_users_neovim_plugin_to_support/)
-- [Currex - Pythonic currency calculator with exchange rates](https://www.reddit.com/r/Python/comments/1i9sn69/currex_pythonic_currency_calculator_with_exchange/)
 <!-- BLOG-POST-LIST:END -->
