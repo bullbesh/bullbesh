@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mordernized Notepad](https://www.reddit.com/r/Python/comments/1iat9yg/mordernized_notepad/)
+- [RenderCV v2 is released! Write your CV/resume as YAML.](https://www.reddit.com/r/Python/comments/1ias711/rendercv_v2_is_released_write_your_cvresume_as/)
 - [Is it just me or have pandas and numpy turned into a mess?](https://www.reddit.com/r/Python/comments/1iaqdjo/is_it_just_me_or_have_pandas_and_numpy_turned/)
 - [🚀 Announcing swiftshadow v2.0.0: A Faster, Smarter Proxy Rotator for Python &lpar;100+ Stars!&rpar; 🚀](https://www.reddit.com/r/Python/comments/1iap0yz/announcing_swiftshadow_v200_a_faster_smarter/)
 - [MicroPie - An ultra-micro web framework that gets out of your way!](https://www.reddit.com/r/Python/comments/1iamc1x/micropie_an_ultramicro_web_framework_that_gets/)
-- [Best AI for python programming?](https://www.reddit.com/r/Python/comments/1iabwj1/best_ai_for_python_programming/)
-- [A technical intro to Ibis: The portable Python DataFrame library](https://www.reddit.com/r/Python/comments/1ia1gjx/a_technical_intro_to_ibis_the_portable_python/)
 <!-- BLOG-POST-LIST:END -->
