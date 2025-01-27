@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Access Office365 Graph API](https://www.reddit.com/r/Python/comments/1ib9s49/access_office365_graph_api/)
 - [Validoopsie: Data Validation Made Effortless!](https://www.reddit.com/r/Python/comments/1ib7rd0/validoopsie_data_validation_made_effortless/)
 - [Buying Python Projects](https://www.reddit.com/r/Python/comments/1ib7ddx/buying_python_projects/)
 - [Best Matrix analysis library](https://www.reddit.com/r/Python/comments/1ib45p9/best_matrix_analysis_library/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1iaug3w/monday_daily_thread_project_ideas/)
-- [Mordernized Notepad](https://www.reddit.com/r/Python/comments/1iat9yg/mordernized_notepad/)
 <!-- BLOG-POST-LIST:END -->
