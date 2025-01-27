@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Classify text in 10 lines of code](https://www.reddit.com/r/Python/comments/1ibkzi1/classify_text_in_10_lines_of_code/)
 - [Métodos Estudos](https://www.reddit.com/r/Python/comments/1ibh1le/métodos_estudos/)
 - [Spend lots of time and effort with this python project. I hope this can be of use to anyone.](https://www.reddit.com/r/Python/comments/1ibg5co/spend_lots_of_time_and_effort_with_this_python/)
 - [A little, crawler, downloer.py I have used with good luck...](https://www.reddit.com/r/Python/comments/1ibf4xk/a_little_crawler_downloerpy_i_have_used_with_good/)
 - [Multicharting + Live Streaming Tool for IBKR](https://www.reddit.com/r/Python/comments/1ibbbib/multicharting_live_streaming_tool_for_ibkr/)
-- [Access Office365 Graph API](https://www.reddit.com/r/Python/comments/1ib9s49/access_office365_graph_api/)
 <!-- BLOG-POST-LIST:END -->
