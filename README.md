@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Validoopsie: Data Validation Made Effortless!](https://www.reddit.com/r/Python/comments/1ib7rd0/validoopsie_data_validation_made_effortless/)
+- [Buying Python Projects](https://www.reddit.com/r/Python/comments/1ib7ddx/buying_python_projects/)
 - [Best Matrix analysis library](https://www.reddit.com/r/Python/comments/1ib45p9/best_matrix_analysis_library/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1iaug3w/monday_daily_thread_project_ideas/)
 - [Mordernized Notepad](https://www.reddit.com/r/Python/comments/1iat9yg/mordernized_notepad/)
-- [RenderCV v2 is released! Write your CV/resume as YAML.](https://www.reddit.com/r/Python/comments/1ias711/rendercv_v2_is_released_write_your_cvresume_as/)
-- [Is it just me or have pandas and numpy turned into a mess?](https://www.reddit.com/r/Python/comments/1iaqdjo/is_it_just_me_or_have_pandas_and_numpy_turned/)
 <!-- BLOG-POST-LIST:END -->
