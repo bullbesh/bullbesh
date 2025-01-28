@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Search introduced JavaScript](https://www.reddit.com/r/Python/comments/1ibu91r/google_search_introduced_javascript/)
 - [Super Simple Python From Anywhere Task Runner](https://www.reddit.com/r/Python/comments/1ibq4jx/super_simple_python_from_anywhere_task_runner/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ibo7qe/tuesday_daily_thread_advanced_questions/)
 - [Classify text in 10 lines of code](https://www.reddit.com/r/Python/comments/1ibkzi1/classify_text_in_10_lines_of_code/)
 - [Métodos Estudos](https://www.reddit.com/r/Python/comments/1ibh1le/métodos_estudos/)
-- [Spend lots of time and effort with this python project. I hope this can be of use to anyone.](https://www.reddit.com/r/Python/comments/1ibg5co/spend_lots_of_time_and_effort_with_this_python/)
 <!-- BLOG-POST-LIST:END -->
