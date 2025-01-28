@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyPI security funding in limbo as Trump executive order pauses NSF grant reviews](https://www.reddit.com/r/Python/comments/1iccu2q/pypi_security_funding_in_limbo_as_trump_executive/)
 - [etl4py - Beautiful, whiteboard-style, typesafe dataflows for Python](https://www.reddit.com/r/Python/comments/1ic9b2m/etl4py_beautiful_whiteboardstyle_typesafe/)
 - [Created a cool python pattern generator parser](https://www.reddit.com/r/Python/comments/1ic4j5b/created_a_cool_python_pattern_generator_parser/)
 - [Python 1.0.0, released 31 years ago today](https://www.reddit.com/r/Python/comments/1ibxols/python_100_released_31_years_ago_today/)
 - [What do you do to ensure that the python installation on your device does not become security risk?](https://www.reddit.com/r/Python/comments/1ibr92a/what_do_you_do_to_ensure_that_the_python/)
-- [Super Simple Python From Anywhere Task Runner](https://www.reddit.com/r/Python/comments/1ibq4jx/super_simple_python_from_anywhere_task_runner/)
 <!-- BLOG-POST-LIST:END -->
