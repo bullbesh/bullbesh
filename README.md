@@ -11,6 +11,6 @@
 - [Terminal based Python debuggers](https://www.reddit.com/r/Python/comments/1iby62a/terminal_based_python_debuggers/)
 - [Python 1.0.0, released 31 years ago today](https://www.reddit.com/r/Python/comments/1ibxols/python_100_released_31_years_ago_today/)
 - [Google Search introduced JavaScript](https://www.reddit.com/r/Python/comments/1ibu91r/google_search_introduced_javascript/)
+- [What do you do to ensure that the python installation on your device does not become security risk?](https://www.reddit.com/r/Python/comments/1ibr92a/what_do_you_do_to_ensure_that_the_python/)
 - [Super Simple Python From Anywhere Task Runner](https://www.reddit.com/r/Python/comments/1ibq4jx/super_simple_python_from_anywhere_task_runner/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ibo7qe/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
