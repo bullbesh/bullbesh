@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Train Tiny Sora](https://www.reddit.com/r/Python/comments/1icr6s8/train_tiny_sora/)
+- [Host your Python app for $1.28 a month](https://www.reddit.com/r/Python/comments/1ics9vi/host_your_python_app_for_128_a_month/)
+- [Train a Tiny Text2Video Model from Scratch](https://www.reddit.com/r/Python/comments/1ics0ah/train_a_tiny_text2video_model_from_scratch/)
 - [DeepSeek Infinite Context Window](https://www.reddit.com/r/Python/comments/1icpk3z/deepseek_infinite_context_window/)
 - [Extract text with Complex tables from pdf resume &lpar;Not our because it is machine text based&rpar;](https://www.reddit.com/r/Python/comments/1icjp7l/extract_text_with_complex_tables_from_pdf_resume/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1icge4n/wednesday_daily_thread_beginner_questions/)
-- [OSEG - OpenAPI SDK Example Generator - Generate example snippets for OpenAPI](https://www.reddit.com/r/Python/comments/1icg4gi/oseg_openapi_sdk_example_generator_generate/)
 <!-- BLOG-POST-LIST:END -->
