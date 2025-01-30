@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PSA: PyPI now supports project archival](https://www.reddit.com/r/Python/comments/1idv6ql/psa_pypi_now_supports_project_archival/)
 - [Pytorch deprecatea official Anaconda channel](https://www.reddit.com/r/Python/comments/1idsbj7/pytorch_deprecatea_official_anaconda_channel/)
 - [Accurate Geometry Extraction and Preservation in PDF to XML Conversion](https://www.reddit.com/r/Python/comments/1idrfuo/accurate_geometry_extraction_and_preservation_in/)
 - [Building AR apps using Python?](https://www.reddit.com/r/Python/comments/1idr0hn/building_ar_apps_using_python/)
 - [Reactive Signals for Python with Async Support - inspired by Angular’s reactivity model](https://www.reddit.com/r/Python/comments/1idpb2h/reactive_signals_for_python_with_async_support/)
-- [Orange intelligence: a Python open source alternative to Apple Intelligence](https://www.reddit.com/r/Python/comments/1idms5k/orange_intelligence_a_python_open_source/)
 <!-- BLOG-POST-LIST:END -->
