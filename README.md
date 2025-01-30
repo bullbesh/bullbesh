@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [dataclasses + pydantic using one decorator](https://www.reddit.com/r/Python/comments/1ida34a/dataclasses_pydantic_using_one_decorator/)
+- [Object oriented programming with python](https://www.reddit.com/r/Python/comments/1id8t6d/object_oriented_programming_with_python/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1id8oap/thursday_daily_thread_python_careers_courses_and/)
 - [Performance Benchmarks for ASGI Frameworks](https://www.reddit.com/r/Python/comments/1id4vt7/performance_benchmarks_for_asgi_frameworks/)
 - [Build a Data Dashboard using Python and Streamlit](https://www.reddit.com/r/Python/comments/1id2msz/build_a_data_dashboard_using_python_and_streamlit/)
-- [venv-manager: A simple CLI to manage Python virtual environments with zero dependencies and one-comm](https://www.reddit.com/r/Python/comments/1icz12a/venvmanager_a_simple_cli_to_manage_python_virtual/)
-- [Built a GUI for Random Variable Analysis](https://www.reddit.com/r/Python/comments/1icykid/built_a_gui_for_random_variable_analysis/)
-- [Wrote a Python lib to scrape Amazon product data](https://www.reddit.com/r/Python/comments/1icxykp/wrote_a_python_lib_to_scrape_amazon_product_data/)
 <!-- BLOG-POST-LIST:END -->
