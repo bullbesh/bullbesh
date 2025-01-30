@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Auth0 Authentication with FastAPI](https://www.reddit.com/r/Python/comments/1idj45y/auth0_authentication_with_fastapi/)
 - [Python Virtual Environment tutorial for beginners](https://www.reddit.com/r/Python/comments/1idfmfq/python_virtual_environment_tutorial_for_beginners/)
 - [Created my first Streamlit application](https://www.reddit.com/r/Python/comments/1idf6op/created_my_first_streamlit_application/)
 - [dataclasses + pydantic using one decorator](https://www.reddit.com/r/Python/comments/1ida34a/dataclasses_pydantic_using_one_decorator/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1id8oap/thursday_daily_thread_python_careers_courses_and/)
-- [Performance Benchmarks for ASGI Frameworks](https://www.reddit.com/r/Python/comments/1id4vt7/performance_benchmarks_for_asgi_frameworks/)
 <!-- BLOG-POST-LIST:END -->
