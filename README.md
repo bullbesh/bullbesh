@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SimplePyBLE - Cross-platform Bluetooth library that just works](https://www.reddit.com/r/Python/comments/1ie2rpx/simplepyble_crossplatform_bluetooth_library_that/)
+- [SmolModels – A Python framework for generating ML models from descriptions &lpar;Alpha&rpar;](https://www.reddit.com/r/Python/comments/1ie1rvk/smolmodels_a_python_framework_for_generating_ml/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ie1jei/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Creating a website](https://www.reddit.com/r/Python/comments/1ie06nn/creating_a_website/)
 - [Create an Adaptive Customer Behavior Analytics Dashboard with Claude AI and Python](https://www.reddit.com/r/Python/comments/1idy3z4/create_an_adaptive_customer_behavior_analytics/)
-- [What else could use a Rust rewrite?](https://www.reddit.com/r/Python/comments/1idx0vt/what_else_could_use_a_rust_rewrite/)
-- [PSA: PyPI now supports project archival](https://www.reddit.com/r/Python/comments/1idv6ql/psa_pypi_now_supports_project_archival/)
-- [Pytorch deprecatea official Anaconda channel](https://www.reddit.com/r/Python/comments/1idsbj7/pytorch_deprecatea_official_anaconda_channel/)
 <!-- BLOG-POST-LIST:END -->
