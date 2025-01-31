@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a website to encrypt python so that you can secure your Python code](https://www.reddit.com/r/Python/comments/1ieabih/i_created_a_website_to_encrypt_python_so_that_you/)
 - [HTML files such as yahoo do not allow me to extract data.](https://www.reddit.com/r/Python/comments/1ie9vog/html_files_such_as_yahoo_do_not_allow_me_to/)
 - [SecSgml: Lightweight python library to parse SEC SGML](https://www.reddit.com/r/Python/comments/1ie7515/secsgml_lightweight_python_library_to_parse_sec/)
 - [Data performance management and Observability](https://www.reddit.com/r/Python/comments/1ie6u7q/data_performance_management_and_observability/)
 - [SimplePyBLE - Cross-platform Bluetooth library that just works](https://www.reddit.com/r/Python/comments/1ie2rpx/simplepyble_crossplatform_bluetooth_library_that/)
-- [SmolModels – A Python framework for generating ML models from descriptions &lpar;Alpha&rpar;](https://www.reddit.com/r/Python/comments/1ie1rvk/smolmodels_a_python_framework_for_generating_ml/)
 <!-- BLOG-POST-LIST:END -->
