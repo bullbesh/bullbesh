@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Michael Foord has passed away recently](https://www.reddit.com/r/Python/comments/1iern75/michael_foord_has_passed_away_recently/)
 - [My First Python code on NFL Data Visualization](https://www.reddit.com/r/Python/comments/1ieq2sn/my_first_python_code_on_nfl_data_visualization/)
 - [Alpha Readers for Python Fiction Novel](https://www.reddit.com/r/Python/comments/1ienkcp/alpha_readers_for_python_fiction_novel/)
 - [Introducing &#39;aasetpy&#39;](https://www.reddit.com/r/Python/comments/1ieh6rt/introducing_aasetpy/)
 - [I made LLMs work like scikit-learn](https://www.reddit.com/r/Python/comments/1iegszm/i_made_llms_work_like_scikitlearn/)
-- [Datatrees; for Complex Class Composition in Python](https://www.reddit.com/r/Python/comments/1iebxmn/datatrees_for_complex_class_composition_in_python/)
 <!-- BLOG-POST-LIST:END -->
