@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What are some reputable certifications for Python?](https://www.reddit.com/r/Python/comments/1ie5u5w/what_are_some_reputable_certifications_for_python/)
+- [SecSgml: Lightweight python library to parse SEC SGML](https://www.reddit.com/r/Python/comments/1ie7515/secsgml_lightweight_python_library_to_parse_sec/)
+- [Data performance management and Observability](https://www.reddit.com/r/Python/comments/1ie6u7q/data_performance_management_and_observability/)
 - [SimplePyBLE - Cross-platform Bluetooth library that just works](https://www.reddit.com/r/Python/comments/1ie2rpx/simplepyble_crossplatform_bluetooth_library_that/)
 - [SmolModels – A Python framework for generating ML models from descriptions &lpar;Alpha&rpar;](https://www.reddit.com/r/Python/comments/1ie1rvk/smolmodels_a_python_framework_for_generating_ml/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ie1jei/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Creating a website](https://www.reddit.com/r/Python/comments/1ie06nn/creating_a_website/)
 <!-- BLOG-POST-LIST:END -->
