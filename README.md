@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bioformats to process LIF files](https://www.reddit.com/r/Python/comments/1if4izs/bioformats_to_process_lif_files/)
 - [Introducing Kreuzberg: A Simple, Modern Library for PDF and Document Text Extraction in Python](https://www.reddit.com/r/Python/comments/1if3axy/introducing_kreuzberg_a_simple_modern_library_for/)
 - [Do you use GitHub Gists?](https://www.reddit.com/r/Python/comments/1if2vm7/do_you_use_github_gists/)
 - [So what are some cool uses for python?](https://www.reddit.com/r/Python/comments/1if131x/so_what_are_some_cool_uses_for_python/)
 - [A.I. Chat with your Backend Server &lpar;Every Backend Servers can be Super A.I. Chatbot&rpar;](https://www.reddit.com/r/Python/comments/1if0gj3/ai_chat_with_your_backend_server_every_backend/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ietb0n/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
