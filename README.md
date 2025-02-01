@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A.I. Chat with your Backend Server &lpar;Every Backend Servers can be Super A.I. Chatbot&rpar;](https://www.reddit.com/r/Python/comments/1if0gj3/ai_chat_with_your_backend_server_every_backend/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ietb0n/saturday_daily_thread_resource_request_and/)
 - [Michael Foord has passed away recently](https://www.reddit.com/r/Python/comments/1iern75/michael_foord_has_passed_away_recently/)
 - [My First Python code on NFL Data Visualization](https://www.reddit.com/r/Python/comments/1ieq2sn/my_first_python_code_on_nfl_data_visualization/)
 - [Introducing &#39;aasetpy&#39;](https://www.reddit.com/r/Python/comments/1ieh6rt/introducing_aasetpy/)
-- [I made LLMs work like scikit-learn](https://www.reddit.com/r/Python/comments/1iegszm/i_made_llms_work_like_scikitlearn/)
 <!-- BLOG-POST-LIST:END -->
