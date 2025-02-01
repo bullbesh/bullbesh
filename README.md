@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Automation Framework for Python](https://www.reddit.com/r/Python/comments/1if6nk0/automation_framework_for_python/)
-- [Most simple way to make android games?](https://www.reddit.com/r/Python/comments/1if6m7s/most_simple_way_to_make_android_games/)
 - [We made an open source testing agent for UI, API, Vision, Accessibility and Security testing](https://www.reddit.com/r/Python/comments/1if5jb5/we_made_an_open_source_testing_agent_for_ui_api/)
 - [Next time you hear that Python is slow, show this](https://www.reddit.com/r/Python/comments/1if5gys/next_time_you_hear_that_python_is_slow_show_this/)
 - [Bioformats to process LIF files](https://www.reddit.com/r/Python/comments/1if4izs/bioformats_to_process_lif_files/)
+- [Introducing Kreuzberg: A Simple, Modern Library for PDF and Document Text Extraction in Python](https://www.reddit.com/r/Python/comments/1if3axy/introducing_kreuzberg_a_simple_modern_library_for/)
 <!-- BLOG-POST-LIST:END -->
