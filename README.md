@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pinkmess - A minimal Python CLI for markdown notes with AI-powered metadata](https://www.reddit.com/r/Python/comments/1ifkdav/pinkmess_a_minimal_python_cli_for_markdown_notes/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ifk63x/sunday_daily_thread_whats_everyone_working_on/)
 - [Automation Framework for Python](https://www.reddit.com/r/Python/comments/1if6nk0/automation_framework_for_python/)
 - [We made an open source testing agent for UI, API, Vision, Accessibility and Security testing](https://www.reddit.com/r/Python/comments/1if5jb5/we_made_an_open_source_testing_agent_for_ui_api/)
 - [Next time you hear that Python is slow, show this](https://www.reddit.com/r/Python/comments/1if5gys/next_time_you_hear_that_python_is_slow_show_this/)
-- [Bioformats to process LIF files](https://www.reddit.com/r/Python/comments/1if4izs/bioformats_to_process_lif_files/)
-- [Introducing Kreuzberg: A Simple, Modern Library for PDF and Document Text Extraction in Python](https://www.reddit.com/r/Python/comments/1if3axy/introducing_kreuzberg_a_simple_modern_library_for/)
 <!-- BLOG-POST-LIST:END -->
