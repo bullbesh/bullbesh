@@ -12,5 +12,5 @@
 - [Erro de permissão ao executar o chromedriver no Pydroid3 no Android.](https://www.reddit.com/r/Python/comments/1igfs28/erro_de_permissão_ao_executar_o_chromedriver_no/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1igbnik/monday_daily_thread_project_ideas/)
 - [Tour of Python v0.01](https://www.reddit.com/r/Python/comments/1igagau/tour_of_python_v001/)
-- [Pyttings – A Minimalist Python Settings Manager Inspired by Django](https://www.reddit.com/r/Python/comments/1iga8kx/pyttings_a_minimalist_python_settings_manager/)
+- [Open Source Customizable Timer: KEGOMODORO! ⏳](https://www.reddit.com/r/Python/comments/1ig4kqe/open_source_customizable_timer_kegomodoro/)
 <!-- BLOG-POST-LIST:END -->
