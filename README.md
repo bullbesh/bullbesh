@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made an LLM/ AI app to make image editing stupidly simple—check out EasyEdit](https://www.reddit.com/r/Python/comments/1ihap2b/i_made_an_llm_ai_app_to_make_image_editing/)
 - [Introducing ElixirDB - Simplified SQLAlchemy Engine management - with extras.](https://www.reddit.com/r/Python/comments/1ih6bo6/introducing_elixirdb_simplified_sqlalchemy_engine/)
 - [Difference between Introduction to Algorithms CLSR &amp; Fluent Python?](https://www.reddit.com/r/Python/comments/1ih6b8w/difference_between_introduction_to_algorithms/)
 - [pytest-mock : Mocking in pytest - Test &amp; Code](https://www.reddit.com/r/Python/comments/1ih5238/pytestmock_mocking_in_pytest_test_code/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ih454j/tuesday_daily_thread_advanced_questions/)
-- [Scraping TikTok using Python &lpar;Selenium, web driver&rpar;](https://www.reddit.com/r/Python/comments/1ih4451/scraping_tiktok_using_python_selenium_web_driver/)
 <!-- BLOG-POST-LIST:END -->
