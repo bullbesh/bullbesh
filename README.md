@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Removing PII data with Presidio](https://www.reddit.com/r/Python/comments/1ihn6s8/removing_pii_data_with_presidio/)
+- [Secure and simple role based authorization in python Flask apps with Keycloak](https://www.reddit.com/r/Python/comments/1ihn067/secure_and_simple_role_based_authorization_in/)
 - [Tach - A Python tool to enforce dependencies](https://www.reddit.com/r/Python/comments/1ihl5fy/tach_a_python_tool_to_enforce_dependencies/)
 - [I Built a Bot to Fake My GitHub Activity and Land a $500K Job -- My Weekend Shenanigans](https://www.reddit.com/r/Python/comments/1ihgbes/i_built_a_bot_to_fake_my_github_activity_and_land/)
 - [Started Python A Few Months Ago](https://www.reddit.com/r/Python/comments/1ihf27m/started_python_a_few_months_ago/)
-- [Integrating Python’s Folium into Node.js – A Startup’s Experiment](https://www.reddit.com/r/Python/comments/1ihdiid/integrating_pythons_folium_into_nodejs_a_startups/)
-- [I made an LLM/ AI app to make image editing stupidly simple—check out EasyEdit](https://www.reddit.com/r/Python/comments/1ihap2b/i_made_an_llm_ai_app_to_make_image_editing/)
 <!-- BLOG-POST-LIST:END -->
