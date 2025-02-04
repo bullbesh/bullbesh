@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Fast JSON merging library](https://www.reddit.com/r/Python/comments/1ih1vp3/fast_json_merging_library/)
-- [🚀 html-to-markdown 1.2: Modern HTML to Markdown Converter for Python](https://www.reddit.com/r/Python/comments/1igtrtp/htmltomarkdown_12_modern_html_to_markdown/)
-- [Minimal AI browser agent example for everyone](https://www.reddit.com/r/Python/comments/1igryn7/minimal_ai_browser_agent_example_for_everyone/)
-- [Import json file in python and use pandas to create a dataframe](https://www.reddit.com/r/Python/comments/1igrs25/import_json_file_in_python_and_use_pandas_to/)
-- [Numpy.random.normal](https://www.reddit.com/r/Python/comments/1igpct0/numpyrandomnormal/)
+- [Introducing ElixirDB - Simplified SQLAlchemy engine management with extras.](https://www.reddit.com/r/Python/comments/1ih68on/introducing_elixirdb_simplified_sqlalchemy_engine/)
+- [pytest-mock : Mocking in pytest - Test &amp; Code](https://www.reddit.com/r/Python/comments/1ih5238/pytestmock_mocking_in_pytest_test_code/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ih454j/tuesday_daily_thread_advanced_questions/)
+- [Scraping TikTok using Python &lpar;Selenium, web driver&rpar;](https://www.reddit.com/r/Python/comments/1ih4451/scraping_tiktok_using_python_selenium_web_driver/)
+- [gifpgn: Chess GIF generator with engine analysis](https://www.reddit.com/r/Python/comments/1ih3x2a/gifpgn_chess_gif_generator_with_engine_analysis/)
 <!-- BLOG-POST-LIST:END -->
