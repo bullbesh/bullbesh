@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pyi file generation for IDEs and linters based on Qt Designer &quot;.ui&quot; project files](https://www.reddit.com/r/Python/comments/1ihq9ml/pyi_file_generation_for_ides_and_linters_based_on/)
+- [Smolmodels: a library that generates ML models based on natural language task descriptions](https://www.reddit.com/r/Python/comments/1ihpjzx/smolmodels_a_library_that_generates_ml_models/)
 - [Removing PII data with Presidio](https://www.reddit.com/r/Python/comments/1ihn6s8/removing_pii_data_with_presidio/)
 - [Secure and simple role based authorization in python Flask apps with Keycloak](https://www.reddit.com/r/Python/comments/1ihn067/secure_and_simple_role_based_authorization_in/)
 - [Tach - A Python tool to enforce dependencies](https://www.reddit.com/r/Python/comments/1ihl5fy/tach_a_python_tool_to_enforce_dependencies/)
-- [I Built a Bot to Fake My GitHub Activity and Land a $500K Job -- My Weekend Shenanigans](https://www.reddit.com/r/Python/comments/1ihgbes/i_built_a_bot_to_fake_my_github_activity_and_land/)
-- [Started Python A Few Months Ago](https://www.reddit.com/r/Python/comments/1ihf27m/started_python_a_few_months_ago/)
 <!-- BLOG-POST-LIST:END -->
