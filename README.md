@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Curious about if I could create a python script or maybe even a code to play some games I have](https://www.reddit.com/r/Python/comments/1iidngx/curious_about_if_i_could_create_a_python_script/)
+- [I Built a Crowdsourced Site to Track Public WiFi Speeds](https://www.reddit.com/r/Python/comments/1iidnde/i_built_a_crowdsourced_site_to_track_public_wifi/)
+- [fastplotlib, a new GPU-accelerated fast and interactive plotting library that leverages WGPU](https://www.reddit.com/r/Python/comments/1iidlui/fastplotlib_a_new_gpuaccelerated_fast_and/)
 - [What do you like more](https://www.reddit.com/r/Python/comments/1iic6m0/what_do_you_like_more/)
 - [Not just another GoF design patterns resource: Functional, Reactive, Architectural, Concurrency, ...](https://www.reddit.com/r/Python/comments/1iia3x7/not_just_another_gof_design_patterns_resource/)
-- [Python PCPP2 &lpar;Exam PCPP-32-201&rpar; Mock Exams, Free Coupon](https://www.reddit.com/r/Python/comments/1ii9nbx/python_pcpp2_exam_pcpp32201_mock_exams_free_coupon/)
-- [Python node editor featured in a 80.lv article](https://www.reddit.com/r/Python/comments/1ii8v1e/python_node_editor_featured_in_a_80lv_article/)
-- [Large application template](https://www.reddit.com/r/Python/comments/1ii7b0s/large_application_template/)
 <!-- BLOG-POST-LIST:END -->
