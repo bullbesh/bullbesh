@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Up a Payment Gateway in Python Without Registering as a Business or Freelancer?](https://www.reddit.com/r/Python/comments/1iimcbo/how_to_set_up_a_payment_gateway_in_python_without/)
 - [PyConUS 2025 acceptances?](https://www.reddit.com/r/Python/comments/1iikyp4/pyconus_2025_acceptances/)
 - [Carpet Python Enclosure Requirements](https://www.reddit.com/r/Python/comments/1iig3fg/carpet_python_enclosure_requirements/)
 - [Must know Python libraries, new and old?](https://www.reddit.com/r/Python/comments/1iif99x/must_know_python_libraries_new_and_old/)
 - [Curious about if I could create a python script or maybe even a code to play some games I have](https://www.reddit.com/r/Python/comments/1iidngx/curious_about_if_i_could_create_a_python_script/)
-- [I Built a Crowdsourced Site to Track Public WiFi Speeds](https://www.reddit.com/r/Python/comments/1iidnde/i_built_a_crowdsourced_site_to_track_public_wifi/)
 <!-- BLOG-POST-LIST:END -->
