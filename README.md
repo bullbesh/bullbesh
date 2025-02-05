@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [typed-ffmpeg 2.X released with New Command Validation Feature](https://www.reddit.com/r/Python/comments/1ii2tqh/typedffmpeg_2x_released_with_new_command/)
 - [How frequently do you use parallel processing at work?](https://www.reddit.com/r/Python/comments/1ii1i6z/how_frequently_do_you_use_parallel_processing_at/)
 - [Write-up for pip 25.0: SPDX License support, build env bugfixes &amp; package collection optimizations](https://www.reddit.com/r/Python/comments/1ii169g/writeup_for_pip_250_spdx_license_support_build/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1ihwk3k/wednesday_daily_thread_beginner_questions/)
 - [Python 3.13.2 Released](https://www.reddit.com/r/Python/comments/1ihsezp/python_3132_released/)
-- [pyi file generation for IDEs and linters based on Qt Designer &quot;.ui&quot; project files](https://www.reddit.com/r/Python/comments/1ihq9ml/pyi_file_generation_for_ides_and_linters_based_on/)
 <!-- BLOG-POST-LIST:END -->
