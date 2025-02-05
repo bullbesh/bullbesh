@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Rust is quietly taking over the Python ecosystem](https://www.reddit.com/r/Python/comments/1ii64gp/how_rust_is_quietly_taking_over_the_python/)
 - [datatrees v0.1.9 released - deduce Node argument from type annotation](https://www.reddit.com/r/Python/comments/1ii37uj/datatrees_v019_released_deduce_node_argument_from/)
 - [typed-ffmpeg 2.X released with New Command Validation Feature](https://www.reddit.com/r/Python/comments/1ii2tqh/typedffmpeg_2x_released_with_new_command/)
 - [How frequently do you use parallel processing at work?](https://www.reddit.com/r/Python/comments/1ii1i6z/how_frequently_do_you_use_parallel_processing_at/)
 - [Write-up for pip 25.0: SPDX License support, build env bugfixes &amp; package collection optimizations](https://www.reddit.com/r/Python/comments/1ii169g/writeup_for_pip_250_spdx_license_support_build/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1ihwk3k/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
