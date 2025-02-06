@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [DjangoMatrix.com - A community driven project](https://www.reddit.com/r/Python/comments/1ij22r7/djangomatrixcom_a_community_driven_project/)
-- [Fastest Accurate Coding Agent?](https://www.reddit.com/r/Python/comments/1ij1pta/fastest_accurate_coding_agent/)
 - [semantic-chunker v0.2.0: Type-Safe, Structure-Preserving Semantic Chunking](https://www.reddit.com/r/Python/comments/1ij1fk7/semanticchunker_v020_typesafe_structurepreserving/)
 - [How to Detect When a VoIP Call Starts on PC?](https://www.reddit.com/r/Python/comments/1ij0is6/how_to_detect_when_a_voip_call_starts_on_pc/)
 - [Using type hints/annotation to create functional code: Bad or Good practice?](https://www.reddit.com/r/Python/comments/1iiya1h/using_type_hintsannotation_to_create_functional/)
+- [🚀 tree-sitter-language-pack 0.3.0: A Comprehensive Collection of Pre-built Tree-sitter Languages](https://www.reddit.com/r/Python/comments/1iivt9i/treesitterlanguagepack_030_a_comprehensive/)
 <!-- BLOG-POST-LIST:END -->
