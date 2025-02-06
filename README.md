@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a double-pendulum physics simulation using the pygame library! Open-source.](https://www.reddit.com/r/Python/comments/1ijc5gm/i_made_a_doublependulum_physics_simulation_using/)
 - [ISO Python Machine Learning Meme](https://www.reddit.com/r/Python/comments/1ija7bh/iso_python_machine_learning_meme/)
 - [Creating music with Python](https://www.reddit.com/r/Python/comments/1ij8utg/creating_music_with_python/)
 - [Unexpected type deductions for custom binary operators](https://www.reddit.com/r/Python/comments/1ij304g/unexpected_type_deductions_for_custom_binary/)
 - [DjangoMatrix.com - A community driven project](https://www.reddit.com/r/Python/comments/1ij22r7/djangomatrixcom_a_community_driven_project/)
-- [semantic-chunker v0.2.0: Type-Safe, Structure-Preserving Semantic Chunking](https://www.reddit.com/r/Python/comments/1ij1fk7/semanticchunker_v020_typesafe_structurepreserving/)
 <!-- BLOG-POST-LIST:END -->
