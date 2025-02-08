@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PomdAPI: Declarative API Clients with Tag-Based Caching &lpar;HTTP/JSON-RPC&rpar; - Seeking Community](https://www.reddit.com/r/Python/comments/1ikjs2s/pomdapi_declarative_api_clients_with_tagbased/)
 - [A Lightweight Camera SDK for Windows, macOS, and Linux](https://www.reddit.com/r/Python/comments/1ikizbe/a_lightweight_camera_sdk_for_windows_macos_and/)
 - [Terminal Task Manager Using Python](https://www.reddit.com/r/Python/comments/1ikipwh/terminal_task_manager_using_python/)
 - [I have published FastSQLA - an SQLAlchemy extension to FastAPI](https://www.reddit.com/r/Python/comments/1ikhmtd/i_have_published_fastsqla_an_sqlalchemy_extension/)
 - [How Python Developers Can Use SalaryScript to Maximize Their Salary and Negotiation Skills](https://www.reddit.com/r/Python/comments/1ikewvw/how_python_developers_can_use_salaryscript_to/)
-- [TikTock: TikTok Video Downloader](https://www.reddit.com/r/Python/comments/1iketok/tiktock_tiktok_video_downloader/)
 <!-- BLOG-POST-LIST:END -->
