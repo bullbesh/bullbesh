@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ik9pae/saturday_daily_thread_resource_request_and/)
+- [Time out error on web scraping data](https://www.reddit.com/r/Python/comments/1ik9mfd/time_out_error_on_web_scraping_data/)
 - [Creating an arpeggiator in Python](https://www.reddit.com/r/Python/comments/1ik71ix/creating_an_arpeggiator_in_python/)
 - [PerpetualBooster outperformed AutoGluon on 10 out of 10 classification tasks](https://www.reddit.com/r/Python/comments/1ik1wmk/perpetualbooster_outperformed_autogluon_on_10_out/)
 - [Best way to get better at practical Python coding](https://www.reddit.com/r/Python/comments/1ik0tw7/best_way_to_get_better_at_practical_python_coding/)
-- [Pycon2025 in person only?](https://www.reddit.com/r/Python/comments/1ijyybq/pycon2025_in_person_only/)
-- [Looking for a simple 24/7 hosting platform like Google Colab for my Telegram bots](https://www.reddit.com/r/Python/comments/1ijyrjd/looking_for_a_simple_247_hosting_platform_like/)
 <!-- BLOG-POST-LIST:END -->
