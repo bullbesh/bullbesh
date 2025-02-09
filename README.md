@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [IntentGuard - verify code properties using natural language assertions](https://www.reddit.com/r/Python/comments/1ilfqtm/intentguard_verify_code_properties_using_natural/)
 - [Sync clipboard across guest and host with both running on wayland](https://www.reddit.com/r/Python/comments/1il8lcd/sync_clipboard_across_guest_and_host_with_both/)
 - [ParLlama v0.3.15 released. Supports Ollama, OpenAI, GoogleAI, Anthropic, Groq, Bedrock, OpenRouter](https://www.reddit.com/r/Python/comments/1il7vim/parllama_v0315_released_supports_ollama_openai/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1il1iwf/sunday_daily_thread_whats_everyone_working_on/)
 - [What is this blank box on the left ? this is on the documentation page of python](https://www.reddit.com/r/Python/comments/1ikwb6i/what_is_this_blank_box_on_the_left_this_is_on_the/)
-- [A new type of interpreter has been added to Python 3.14 with much better performance](https://www.reddit.com/r/Python/comments/1iks79k/a_new_type_of_interpreter_has_been_added_to/)
 <!-- BLOG-POST-LIST:END -->
