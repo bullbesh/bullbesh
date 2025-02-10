@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [lsp-types Package Debut](https://www.reddit.com/r/Python/comments/1im3ukf/lsptypes_package_debut/)
 - [Looking for contributions](https://www.reddit.com/r/Python/comments/1im2a56/looking_for_contributions/)
 - [I made Versioneer work with Hatchling and pdm build backends](https://www.reddit.com/r/Python/comments/1im12r8/i_made_versioneer_work_with_hatchling_and_pdm/)
 - [Python ms learn gone ?](https://www.reddit.com/r/Python/comments/1im0fk7/python_ms_learn_gone/)
 - [Inviting Collaborators for a Differentiable Geometric Loss Function Library](https://www.reddit.com/r/Python/comments/1ilzsly/inviting_collaborators_for_a_differentiable/)
-- [Novice Project: Texas Hold&#39;em Poker. Roast my code](https://www.reddit.com/r/Python/comments/1ilxqiy/novice_project_texas_holdem_poker_roast_my_code/)
 <!-- BLOG-POST-LIST:END -->
