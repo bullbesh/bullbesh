@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Modern Python Repository Template with UV and Just](https://www.reddit.com/r/Python/comments/1ime8ja/a_modern_python_repository_template_with_uv_and/)
 - [Who did it best? Me or chat GPT?](https://www.reddit.com/r/Python/comments/1imc9th/who_did_it_best_me_or_chat_gpt/)
 - [Someone talk me down from using Yamale](https://www.reddit.com/r/Python/comments/1imc4we/someone_talk_me_down_from_using_yamale/)
 - [A new arpeggiator, and a discussion of clocks in Supriya](https://www.reddit.com/r/Python/comments/1im7bt2/a_new_arpeggiator_and_a_discussion_of_clocks_in/)
 - [Which package makes the console/terminal error messages legible?](https://www.reddit.com/r/Python/comments/1im76ny/which_package_makes_the_consoleterminal_error/)
-- [The Hidden Bias of Alembic and Django Migrations &lpar;and when to consider alternatives&rpar;](https://www.reddit.com/r/Python/comments/1im66lu/the_hidden_bias_of_alembic_and_django_migrations/)
 <!-- BLOG-POST-LIST:END -->
