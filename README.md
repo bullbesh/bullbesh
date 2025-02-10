@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python ms learn gone ?](https://www.reddit.com/r/Python/comments/1im0fk7/python_ms_learn_gone/)
 - [Inviting Collaborators for a Differentiable Geometric Loss Function Library](https://www.reddit.com/r/Python/comments/1ilzsly/inviting_collaborators_for_a_differentiable/)
 - [Novice Project: Texas Hold&#39;em Poker. Roast my code](https://www.reddit.com/r/Python/comments/1ilxqiy/novice_project_texas_holdem_poker_roast_my_code/)
 - [Data analyst or Devops](https://www.reddit.com/r/Python/comments/1ilwtbr/data_analyst_or_devops/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1ilt1is/monday_daily_thread_project_ideas/)
-- [An Assgoblin&#39;s Guide to taming python with UV](https://www.reddit.com/r/Python/comments/1iljn0o/an_assgoblins_guide_to_taming_python_with_uv/)
 <!-- BLOG-POST-LIST:END -->
