@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Controlling mouse with hand gesture. What are your thoughts.!](https://www.reddit.com/r/Python/comments/1imwemv/controlling_mouse_with_hand_gesture_what_are_your/)
 - [Very simple challenge 😈](https://www.reddit.com/r/Python/comments/1imp94m/very_simple_challenge/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1iml55r/tuesday_daily_thread_advanced_questions/)
 - [Inherit from &quot;dict&quot; or &quot;UserDict&quot;?](https://www.reddit.com/r/Python/comments/1imhrqa/inherit_from_dict_or_userdict/)
 - [Coursera Guided Project: Build a Data Science Web App with Streamlit and Python](https://www.reddit.com/r/Python/comments/1imh7nw/coursera_guided_project_build_a_data_science_web/)
-- [A Modern Python Repository Template with UV and Just](https://www.reddit.com/r/Python/comments/1ime8ja/a_modern_python_repository_template_with_uv_and/)
 <!-- BLOG-POST-LIST:END -->
