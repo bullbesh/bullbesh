@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Very simple challenge 😈](https://www.reddit.com/r/Python/comments/1imp94m/very_simple_challenge/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1iml55r/tuesday_daily_thread_advanced_questions/)
 - [Inherit from &quot;dict&quot; or &quot;UserDict&quot;?](https://www.reddit.com/r/Python/comments/1imhrqa/inherit_from_dict_or_userdict/)
 - [A Modern Python Repository Template with UV and Just](https://www.reddit.com/r/Python/comments/1ime8ja/a_modern_python_repository_template_with_uv_and/)
 - [Who did it best? Me or chat GPT?](https://www.reddit.com/r/Python/comments/1imc9th/who_did_it_best_me_or_chat_gpt/)
-- [Someone talk me down from using Yamale](https://www.reddit.com/r/Python/comments/1imc4we/someone_talk_me_down_from_using_yamale/)
 <!-- BLOG-POST-LIST:END -->
