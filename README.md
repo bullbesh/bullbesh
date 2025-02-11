@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Boolean search query generator](https://www.reddit.com/r/Python/comments/1in2fbu/boolean_search_query_generator/)
 - [Open-source AI influencer in Python](https://www.reddit.com/r/Python/comments/1in0zhc/opensource_ai_influencer_in_python/)
+- [Plutus Is a Command Line Income and Expense Tracker](https://www.reddit.com/r/Python/comments/1imydyo/plutus_is_a_command_line_income_and_expense/)
 - [Controlling mouse with hand gesture. What are your thoughts.!](https://www.reddit.com/r/Python/comments/1imwemv/controlling_mouse_with_hand_gesture_what_are_your/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1iml55r/tuesday_daily_thread_advanced_questions/)
-- [Inherit from &quot;dict&quot; or &quot;UserDict&quot;?](https://www.reddit.com/r/Python/comments/1imhrqa/inherit_from_dict_or_userdict/)
 <!-- BLOG-POST-LIST:END -->
