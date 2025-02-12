@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Script em Python para IQ Option fecha após sinais sem erro no console. Como corrigir?](https://www.reddit.com/r/Python/comments/1inbv3m/script_em_python_para_iq_option_fecha_após_sinais/)
-- [Request for Comprehensive Documentation of Bytecode and .pyc File Structure](https://www.reddit.com/r/Python/comments/1inbn05/request_for_comprehensive_documentation_of/)
-- [Boolean search query generator](https://www.reddit.com/r/Python/comments/1in2fbu/boolean_search_query_generator/)
-- [Open-source AI influencer in Python](https://www.reddit.com/r/Python/comments/1in0zhc/opensource_ai_influencer_in_python/)
-- [Plutus Is a Command Line Income and Expense Tracker](https://www.reddit.com/r/Python/comments/1imydyo/plutus_is_a_command_line_income_and_expense/)
+- [Novice—trouble w/ python in VS](https://www.reddit.com/r/Python/comments/1ineqx9/novicetrouble_w_python_in_vs/)
+- [Opinions on match-case?](https://www.reddit.com/r/Python/comments/1ineet6/opinions_on_matchcase/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1indhda/wednesday_daily_thread_beginner_questions/)
+- [Analyzing OpenAI API calls from smolagents](https://www.reddit.com/r/Python/comments/1indexo/analyzing_openai_api_calls_from_smolagents/)
+- [Preswald: A full-stack Python SDK for building and deploying interactive data apps](https://www.reddit.com/r/Python/comments/1ind8kn/preswald_a_fullstack_python_sdk_for_building_and/)
 <!-- BLOG-POST-LIST:END -->
