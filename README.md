@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [jupad - Python Notepad](https://www.reddit.com/r/Python/comments/1inlq7x/jupad_python_notepad/)
+- [Suggestions for websites scrapping](https://www.reddit.com/r/Python/comments/1inlmbw/suggestions_for_websites_scrapping/)
 - [why there is no option like community edition jasper report whit report designer in python](https://www.reddit.com/r/Python/comments/1inkoli/why_there_is_no_option_like_community_edition/)
 - [ParScrape v0.5.1 Released](https://www.reddit.com/r/Python/comments/1inj8if/parscrape_v051_released/)
-- [need sm1 to look at my script cause it aint working](https://www.reddit.com/r/Python/comments/1inhk3x/need_sm1_to_look_at_my_script_cause_it_aint/)
 - [Getting told “PL/SQL is a better option compare to Python” on Report Automation](https://www.reddit.com/r/Python/comments/1inhere/getting_told_plsql_is_a_better_option_compare_to/)
-- [Opinions on match-case?](https://www.reddit.com/r/Python/comments/1ineet6/opinions_on_matchcase/)
 <!-- BLOG-POST-LIST:END -->
