@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [School Children NFC](https://www.reddit.com/r/Python/comments/1innetw/school_children_nfc/)
 - [Pykomodo: A python chunker for LLMs](https://www.reddit.com/r/Python/comments/1inn3fl/pykomodo_a_python_chunker_for_llms/)
 - [jupad - Python Notepad](https://www.reddit.com/r/Python/comments/1inlq7x/jupad_python_notepad/)
 - [Suggestions for websites scrapping](https://www.reddit.com/r/Python/comments/1inlmbw/suggestions_for_websites_scrapping/)
 - [why there is no option like community edition jasper report whit report designer in python](https://www.reddit.com/r/Python/comments/1inkoli/why_there_is_no_option_like_community_edition/)
-- [ParScrape v0.5.1 Released](https://www.reddit.com/r/Python/comments/1inj8if/parscrape_v051_released/)
 <!-- BLOG-POST-LIST:END -->
