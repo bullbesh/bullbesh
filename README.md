@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [need sm1 to look at my script cause it aint working](https://www.reddit.com/r/Python/comments/1inhk3x/need_sm1_to_look_at_my_script_cause_it_aint/)
+- [Getting told “PL/SQL is a better option compare to Python” on Report Automation](https://www.reddit.com/r/Python/comments/1inhere/getting_told_plsql_is_a_better_option_compare_to/)
 - [Novice—trouble w/ python in VS](https://www.reddit.com/r/Python/comments/1ineqx9/novicetrouble_w_python_in_vs/)
 - [Opinions on match-case?](https://www.reddit.com/r/Python/comments/1ineet6/opinions_on_matchcase/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1indhda/wednesday_daily_thread_beginner_questions/)
-- [Analyzing OpenAI API calls from smolagents](https://www.reddit.com/r/Python/comments/1indexo/analyzing_openai_api_calls_from_smolagents/)
-- [Preswald: A full-stack Python SDK for building and deploying interactive data apps](https://www.reddit.com/r/Python/comments/1ind8kn/preswald_a_fullstack_python_sdk_for_building_and/)
 <!-- BLOG-POST-LIST:END -->
