@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Programming in the ai era](https://www.reddit.com/r/Python/comments/1ioibrt/programming_in_the_ai_era/)
 - [A polyphonic MIDI synth in less than 100 lines of code](https://www.reddit.com/r/Python/comments/1ioh2jq/a_polyphonic_midi_synth_in_less_than_100_lines_of/)
 - [A new arpeggiator, and a discussion of clocks in Supriya](https://www.reddit.com/r/Python/comments/1iogyzy/a_new_arpeggiator_and_a_discussion_of_clocks_in/)
 - [Floating point is an optimization, not a major datatype to use in a programming language](https://www.reddit.com/r/Python/comments/1iogw9y/floating_point_is_an_optimization_not_a_major/)
 - [Why Do Programmers Always Want to Rewrite Old Code? 🤔💻](https://www.reddit.com/r/Python/comments/1iobil7/why_do_programmers_always_want_to_rewrite_old_code/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1io5ruy/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
