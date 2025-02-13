@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A polyphonic MIDI synth in less than 100 lines of code](https://www.reddit.com/r/Python/comments/1ioh2jq/a_polyphonic_midi_synth_in_less_than_100_lines_of/)
+- [A new arpeggiator, and a discussion of clocks in Supriya](https://www.reddit.com/r/Python/comments/1iogyzy/a_new_arpeggiator_and_a_discussion_of_clocks_in/)
+- [Floating point is an optimization, not a major datatype to use in a programming language](https://www.reddit.com/r/Python/comments/1iogw9y/floating_point_is_an_optimization_not_a_major/)
 - [Why Do Programmers Always Want to Rewrite Old Code? 🤔💻](https://www.reddit.com/r/Python/comments/1iobil7/why_do_programmers_always_want_to_rewrite_old_code/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1io5ruy/thursday_daily_thread_python_careers_courses_and/)
-- [i made a script &lpar;my first&rpar; using ai](https://www.reddit.com/r/Python/comments/1io3c2a/i_made_a_script_my_first_using_ai/)
-- [Segment anything UI: Segmentation / object detection annotation made the easy way](https://www.reddit.com/r/Python/comments/1io2ohv/segment_anything_ui_segmentation_object_detection/)
-- [Pykomodo: A python chunker for LLMs](https://www.reddit.com/r/Python/comments/1inn3fl/pykomodo_a_python_chunker_for_llms/)
 <!-- BLOG-POST-LIST:END -->
