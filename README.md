@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FlashLearn - Integrate LLMs into ETL pipelines](https://www.reddit.com/r/Python/comments/1ionj0a/flashlearn_integrate_llms_into_etl_pipelines/)
+- [A new sorting algorithm for 2025, faster than Powersort!](https://www.reddit.com/r/Python/comments/1iondou/a_new_sorting_algorithm_for_2025_faster_than/)
 - [Time to stop using filter&lpar;&rpar;?](https://www.reddit.com/r/Python/comments/1iojoef/time_to_stop_using_filter/)
 - [localgit: Manage git repositories simultaneously](https://www.reddit.com/r/Python/comments/1ioj6pt/localgit_manage_git_repositories_simultaneously/)
 - [Volleyball tracking](https://www.reddit.com/r/Python/comments/1ioj6cz/volleyball_tracking/)
-- [Programming in the ai era](https://www.reddit.com/r/Python/comments/1ioibrt/programming_in_the_ai_era/)
-- [A polyphonic MIDI synth in less than 100 lines of code](https://www.reddit.com/r/Python/comments/1ioh2jq/a_polyphonic_midi_synth_in_less_than_100_lines_of/)
 <!-- BLOG-POST-LIST:END -->
