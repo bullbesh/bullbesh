@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MagicPrompt: Stupid simple &lpar;and powerful&rpar; CLI user interaction](https://www.reddit.com/r/Python/comments/1ioscee/magicprompt_stupid_simple_and_powerful_cli_user/)
 - [Online Python events between Feb 13-Feb-22](https://www.reddit.com/r/Python/comments/1ioqji5/online_python_events_between_feb_13feb22/)
 - [A useful class for the moondream AI vision model](https://www.reddit.com/r/Python/comments/1iop5ij/a_useful_class_for_the_moondream_ai_vision_model/)
 - [Completely novice in this area](https://www.reddit.com/r/Python/comments/1iop240/completely_novice_in_this_area/)
 - [Bulletproof wakeword/keyword spotting](https://www.reddit.com/r/Python/comments/1ioo4yd/bulletproof_wakewordkeyword_spotting/)
-- [FlashLearn - Integrate LLMs into ETL pipelines](https://www.reddit.com/r/Python/comments/1ionj0a/flashlearn_integrate_llms_into_etl_pipelines/)
 <!-- BLOG-POST-LIST:END -->
