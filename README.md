@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [RawSocket: A python implementation of a raw socket for sending Ethernet frames on BSD systems](https://www.reddit.com/r/Python/comments/1iq600d/rawsocket_a_python_implementation_of_a_raw_socket/)
+- [Inviting contributions to a open source Django chat web app !](https://www.reddit.com/r/Python/comments/1iq5jlz/inviting_contributions_to_a_open_source_django/)
 - [Signal routing, effects, and MIDI Control Change messages in Supriya](https://www.reddit.com/r/Python/comments/1ipzhtl/signal_routing_effects_and_midi_control_change/)
 - [I published my third open-source python package to pypi](https://www.reddit.com/r/Python/comments/1ipxhsk/i_published_my_third_opensource_python_package_to/)
 - [Introducing Kreuzberg V2.0: An Optimized Text Extraction Library](https://www.reddit.com/r/Python/comments/1ipxf6t/introducing_kreuzberg_v20_an_optimized_text/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ipornd/saturday_daily_thread_resource_request_and/)
-- [DjangoCongress JP 2025 livestreaming for free in 7 days - Django &amp; FastAPI](https://www.reddit.com/r/Python/comments/1ipmjr4/djangocongress_jp_2025_livestreaming_for_free_in/)
 <!-- BLOG-POST-LIST:END -->
