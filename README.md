@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I built Jarvis so you all can become Iron Man](https://www.reddit.com/r/Python/comments/1ipywcj/i_built_jarvis_so_you_all_can_become_iron_man/)
+- [Signal routing, effects, and MIDI Control Change messages in Supriya](https://www.reddit.com/r/Python/comments/1ipzhtl/signal_routing_effects_and_midi_control_change/)
 - [I published my third open-source python package to pypi](https://www.reddit.com/r/Python/comments/1ipxhsk/i_published_my_third_opensource_python_package_to/)
 - [Introducing Kreuzberg V2.0: An Optimized Text Extraction Library](https://www.reddit.com/r/Python/comments/1ipxf6t/introducing_kreuzberg_v20_an_optimized_text/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ipornd/saturday_daily_thread_resource_request_and/)
