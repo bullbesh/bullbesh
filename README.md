@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built Jarvis so you all can become Iron Man](https://www.reddit.com/r/Python/comments/1ipywcj/i_built_jarvis_so_you_all_can_become_iron_man/)
 - [I published my third open-source python package to pypi](https://www.reddit.com/r/Python/comments/1ipxhsk/i_published_my_third_opensource_python_package_to/)
 - [Introducing Kreuzberg V2.0: An Optimized Text Extraction Library](https://www.reddit.com/r/Python/comments/1ipxf6t/introducing_kreuzberg_v20_an_optimized_text/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ipornd/saturday_daily_thread_resource_request_and/)
 - [DjangoCongress JP 2025 livestreaming for free in 7 days - Django &amp; FastAPI](https://www.reddit.com/r/Python/comments/1ipmjr4/djangocongress_jp_2025_livestreaming_for_free_in/)
-- [Faster Pythonic data apps with MotherDuck &amp; Preswald](https://www.reddit.com/r/Python/comments/1iphqn1/faster_pythonic_data_apps_with_motherduck_preswald/)
 <!-- BLOG-POST-LIST:END -->
