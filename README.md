@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ipornd/saturday_daily_thread_resource_request_and/)
 - [DjangoCongress JP 2025 livestreaming for free in 7 days - Django &amp; FastAPI](https://www.reddit.com/r/Python/comments/1ipmjr4/djangocongress_jp_2025_livestreaming_for_free_in/)
 - [Faster Pythonic data apps with MotherDuck &amp; Preswald](https://www.reddit.com/r/Python/comments/1iphqn1/faster_pythonic_data_apps_with_motherduck_preswald/)
 - [Docullim: AI-Powered Python Documentation](https://www.reddit.com/r/Python/comments/1ipfgme/docullim_aipowered_python_documentation/)
-- [memfile: Python library to store files in RAM](https://www.reddit.com/r/Python/comments/1ipei7z/memfile_python_library_to_store_files_in_ram/)
 - [Building DeepSeek R1 from Scratch](https://www.reddit.com/r/Python/comments/1ipc9p1/building_deepseek_r1_from_scratch/)
 <!-- BLOG-POST-LIST:END -->
