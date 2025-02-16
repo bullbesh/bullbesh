@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to automatically comment on a daily Reddit thread at 3 AM?](https://www.reddit.com/r/Python/comments/1ir04ow/how_to_automatically_comment_on_a_daily_reddit/)
 - [Python Type Hints and why you should use them.](https://www.reddit.com/r/Python/comments/1iqytkf/python_type_hints_and_why_you_should_use_them/)
 - [Looking for a famous video about Python](https://www.reddit.com/r/Python/comments/1iqvcec/looking_for_a_famous_video_about_python/)
 - [Arkalos - Modern Python Framework for AI &amp; Data Artisans](https://www.reddit.com/r/Python/comments/1iqumjr/arkalos_modern_python_framework_for_ai_data/)
 - [JASON.py - minimalist NoSQL db for your MVP with only two methods - load and save](https://www.reddit.com/r/Python/comments/1iqsrl2/jasonpy_minimalist_nosql_db_for_your_mvp_with/)
-- [RedCoffee: A Personal PyPi Project That Crossed 6K+ Downloads](https://www.reddit.com/r/Python/comments/1iqsb0k/redcoffee_a_personal_pypi_project_that_crossed_6k/)
 <!-- BLOG-POST-LIST:END -->
