@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [i compiled python2 for new ubuntu](https://www.reddit.com/r/Python/comments/1irunii/i_compiled_python2_for_new_ubuntu/)
+- [Any awesome code profiler tool](https://www.reddit.com/r/Python/comments/1irtzv3/any_awesome_code_profiler_tool/)
 - [school break homework](https://www.reddit.com/r/Python/comments/1irq4ej/school_break_homework/)
 - [prompt-string: treat prompt as a special string subclass.](https://www.reddit.com/r/Python/comments/1irpfo8/promptstring_treat_prompt_as_a_special_string/)
 - [boto3-refresh-session: A simple Python package for refreshing boto3 sessions automatically](https://www.reddit.com/r/Python/comments/1irlw3s/boto3refreshsession_a_simple_python_package_for/)
-- [Efficient Python Programming: A Guide to Threads and Multiprocessing](https://www.reddit.com/r/Python/comments/1irl4ap/efficient_python_programming_a_guide_to_threads/)
-- [I dunno how to navigate through this](https://www.reddit.com/r/Python/comments/1ircv5p/i_dunno_how_to_navigate_through_this/)
 <!-- BLOG-POST-LIST:END -->
