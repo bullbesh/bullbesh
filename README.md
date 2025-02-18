@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [#Python #OpenCV , you can control calculator with just a few lines of code!&quot;.. :&rpar;](https://www.reddit.com/r/Python/comments/1is9ad6/python_opencv_you_can_control_calculator_with/)
+- [Controlling MIXAMO hashtag#3D objects using HandGesture. :&rpar; 🤚](https://www.reddit.com/r/Python/comments/1is98zq/controlling_mixamo_hashtag3d_objects_using/)
 - [Greenlets in a post GIL world](https://www.reddit.com/r/Python/comments/1is6amk/greenlets_in_a_post_gil_world/)
 - [An opencv project. :&rpar;](https://www.reddit.com/r/Python/comments/1is5ye1/an_opencv_project/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1iryz2j/tuesday_daily_thread_advanced_questions/)
-- [I created a Python Price Tracker](https://www.reddit.com/r/Python/comments/1irye5t/i_created_a_python_price_tracker/)
-- [Link Reaper v0.8.3 - clean your awesome lists](https://www.reddit.com/r/Python/comments/1iry0nb/link_reaper_v083_clean_your_awesome_lists/)
 <!-- BLOG-POST-LIST:END -->
