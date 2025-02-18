@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [does pyinstaller work as a standard user in windows 10?](https://www.reddit.com/r/Python/comments/1isa4lk/does_pyinstaller_work_as_a_standard_user_in/)
 - [#Python #OpenCV , you can control calculator with just a few lines of code!&quot;.. :&rpar;](https://www.reddit.com/r/Python/comments/1is9ad6/python_opencv_you_can_control_calculator_with/)
 - [Controlling MIXAMO hashtag#3D objects using HandGesture. :&rpar; 🤚](https://www.reddit.com/r/Python/comments/1is98zq/controlling_mixamo_hashtag3d_objects_using/)
 - [Greenlets in a post GIL world](https://www.reddit.com/r/Python/comments/1is6amk/greenlets_in_a_post_gil_world/)
 - [An opencv project. :&rpar;](https://www.reddit.com/r/Python/comments/1is5ye1/an_opencv_project/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1iryz2j/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
