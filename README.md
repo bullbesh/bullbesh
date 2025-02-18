@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Greenlets in a post GIL world](https://www.reddit.com/r/Python/comments/1is6amk/greenlets_in_a_post_gil_world/)
+- [An opencv project. :&rpar;](https://www.reddit.com/r/Python/comments/1is5ye1/an_opencv_project/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1iryz2j/tuesday_daily_thread_advanced_questions/)
 - [I created a Python Price Tracker](https://www.reddit.com/r/Python/comments/1irye5t/i_created_a_python_price_tracker/)
 - [Link Reaper v0.8.3 - clean your awesome lists](https://www.reddit.com/r/Python/comments/1iry0nb/link_reaper_v083_clean_your_awesome_lists/)
-- [prompt-string: treat prompt as a special string subclass.](https://www.reddit.com/r/Python/comments/1irpfo8/promptstring_treat_prompt_as_a_special_string/)
-- [boto3-refresh-session: A simple Python package for refreshing boto3 sessions automatically](https://www.reddit.com/r/Python/comments/1irlw3s/boto3refreshsession_a_simple_python_package_for/)
 <!-- BLOG-POST-LIST:END -->
