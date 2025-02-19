@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [programming buddy](https://www.reddit.com/r/Python/comments/1isw93f/programming_buddy/)
 - [Is UV package manager taking over?](https://www.reddit.com/r/Python/comments/1isv37n/is_uv_package_manager_taking_over/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1isrcry/wednesday_daily_thread_beginner_questions/)
 - [**New version** FastAPI Guard + Redis - A FastAPI extension to secure your APIs](https://www.reddit.com/r/Python/comments/1isqf8y/new_version_fastapi_guard_redis_a_fastapi/)
 - [MicroPie 0.9.9.3 Released](https://www.reddit.com/r/Python/comments/1iso1bl/micropie_0993_released/)
-- [Online events: Python in English &lpar;Feb 18-Feb 28&rpar;](https://www.reddit.com/r/Python/comments/1isjyfw/online_events_python_in_english_feb_18feb_28/)
 <!-- BLOG-POST-LIST:END -->
