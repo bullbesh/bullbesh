@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built RegexRewriter – A Customizable Text Transformer Based On Regex](https://www.reddit.com/r/Python/comments/1ith6u3/i_built_regexrewriter_a_customizable_text/)
 - [Initial alpha release: sphinx-fediverse](https://www.reddit.com/r/Python/comments/1itgesm/initial_alpha_release_sphinxfediverse/)
 - [PyStructType 0.2.0 - Auto-magically create python classes to interface with c structs!](https://www.reddit.com/r/Python/comments/1itbo0s/pystructtype_020_automagically_create_python/)
 - [scikit-fingerprints - Python library for computing molecular fingerprints and molecular ML](https://www.reddit.com/r/Python/comments/1itaz7b/scikitfingerprints_python_library_for_computing/)
 - [Loadouts for Genshin Impact v0.1.6 is OUT NOW with support for Genshin Impact v5.4 Phase 1](https://www.reddit.com/r/Python/comments/1it8amc/loadouts_for_genshin_impact_v016_is_out_now_with/)
-- [Jupyter Package Manager – easy Python Package Management in JupyterLab](https://www.reddit.com/r/Python/comments/1it2bsg/jupyter_package_manager_easy_python_package/)
 <!-- BLOG-POST-LIST:END -->
