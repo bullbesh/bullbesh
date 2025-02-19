@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jupyter Package Manager – easy Python Package Management in JupyterLab](https://www.reddit.com/r/Python/comments/1it2bsg/jupyter_package_manager_easy_python_package/)
 - [logging.getLevelName&lpar;&rpar;: Are you serious?](https://www.reddit.com/r/Python/comments/1it29oi/logginggetlevelname_are_you_serious/)
 - [Python e java, py4j, GraalVM e JEP – Java Embedded Python.](https://www.reddit.com/r/Python/comments/1isymo7/python_e_java_py4j_graalvm_e_jep_java_embedded/)
 - [programming buddy](https://www.reddit.com/r/Python/comments/1isw93f/programming_buddy/)
 - [Is UV package manager taking over?](https://www.reddit.com/r/Python/comments/1isv37n/is_uv_package_manager_taking_over/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1isrcry/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
