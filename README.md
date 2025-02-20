@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Ever-Expanding Python &amp; Django Notes](https://www.reddit.com/r/Python/comments/1itzsnz/my_everexpanding_python_django_notes/)
 - [What the hell is going on with type hinting these days](https://www.reddit.com/r/Python/comments/1itzac1/what_the_hell_is_going_on_with_type_hinting_these/)
 - [Analyzing PPP Loan Fraud with Advanced Python Data Analysis](https://www.reddit.com/r/Python/comments/1itv05x/analyzing_ppp_loan_fraud_with_advanced_python/)
 - [Happy Birthday, Python! 🎉🐍](https://www.reddit.com/r/Python/comments/1itu5mn/happy_birthday_python/)
 - [Wikipedia scraper](https://www.reddit.com/r/Python/comments/1itsgd2/wikipedia_scraper/)
-- [Server or web for run code python every day &lpar;FREE&rpar;](https://www.reddit.com/r/Python/comments/1itlo9b/server_or_web_for_run_code_python_every_day_free/)
 <!-- BLOG-POST-LIST:END -->
