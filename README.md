@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyCharm YAML issue](https://www.reddit.com/r/Python/comments/1iuabyo/pycharm_yaml_issue/)
 - [thoughts on hatch?](https://www.reddit.com/r/Python/comments/1iu95zq/thoughts_on_hatch/)
 - [Documentation chatbot &gt; Documentation?](https://www.reddit.com/r/Python/comments/1iu6tih/documentation_chatbot_documentation/)
 - [Currency classes for Python](https://www.reddit.com/r/Python/comments/1iu4nzo/currency_classes_for_python/)
 - [My Ever-Expanding Python &amp; Django Notes](https://www.reddit.com/r/Python/comments/1itzsnz/my_everexpanding_python_django_notes/)
-- [What the hell is going on with type hinting these days](https://www.reddit.com/r/Python/comments/1itzac1/what_the_hell_is_going_on_with_type_hinting_these/)
 <!-- BLOG-POST-LIST:END -->
