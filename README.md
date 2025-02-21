@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you find good uses for Golang as Python developer](https://www.reddit.com/r/Python/comments/1iumszd/do_you_find_good_uses_for_golang_as_python/)
+- [Appreciation post for PyCharm](https://www.reddit.com/r/Python/comments/1iume26/appreciation_post_for_pycharm/)
 - [Enforcing Access Control in AI Agents with PydanticAI](https://www.reddit.com/r/Python/comments/1iuizhk/enforcing_access_control_in_ai_agents_with/)
 - [Any collaborative online IDEs for class](https://www.reddit.com/r/Python/comments/1iuimuc/any_collaborative_online_ides_for_class/)
 - [PAR Infinite Minesweeper TUI v0.2.10 released](https://www.reddit.com/r/Python/comments/1iuf3yp/par_infinite_minesweeper_tui_v0210_released/)
-- [In 2025 will there be a viable freelance market for Python developers other than Fiver or UpWork](https://www.reddit.com/r/Python/comments/1iudwva/in_2025_will_there_be_a_viable_freelance_market/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1iudeoy/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
