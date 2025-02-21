@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FrameSVG: Convert animated GIFs to animated SVGs](https://www.reddit.com/r/Python/comments/1iuta8b/framesvg_convert_animated_gifs_to_animated_svgs/)
 - [NEW! Time travel debugger for python](https://www.reddit.com/r/Python/comments/1iurwd3/new_time_travel_debugger_for_python/)
 - [Follow the yearly PyCon if you want to get better at using Python](https://www.reddit.com/r/Python/comments/1iurnjd/follow_the_yearly_pycon_if_you_want_to_get_better/)
 - [🔴 redpoint - Python library for converting climbing grades between different grading systems](https://www.reddit.com/r/Python/comments/1iura9d/redpoint_python_library_for_converting_climbing/)
 - [&lpar;Updates&rpar; A search engine for all your memes - written in Python.](https://www.reddit.com/r/Python/comments/1iuq0fy/updates_a_search_engine_for_all_your_memes/)
-- [What&#39;s new in the Polars ecosystem in the last few months ?](https://www.reddit.com/r/Python/comments/1iuni1r/whats_new_in_the_polars_ecosystem_in_the_last_few/)
 <!-- BLOG-POST-LIST:END -->
