@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PAR Infinite Minesweeper TUI v0.2.10 released](https://www.reddit.com/r/Python/comments/1iuf3yp/par_infinite_minesweeper_tui_v0210_released/)
+- [In 2025 will there be a viable freelance market for Python developers other than Fiver or UpWork](https://www.reddit.com/r/Python/comments/1iudwva/in_2025_will_there_be_a_viable_freelance_market/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1iudeoy/friday_daily_thread_rpython_meta_and_freetalk/)
+- [The Death of SaaS, and Business Logic Agents](https://www.reddit.com/r/Python/comments/1iuckyj/the_death_of_saas_and_business_logic_agents/)
 - [PyCharm YAML issue](https://www.reddit.com/r/Python/comments/1iuabyo/pycharm_yaml_issue/)
-- [thoughts on hatch?](https://www.reddit.com/r/Python/comments/1iu95zq/thoughts_on_hatch/)
-- [Documentation chatbot &gt; Documentation?](https://www.reddit.com/r/Python/comments/1iu6tih/documentation_chatbot_documentation/)
-- [Currency classes for Python](https://www.reddit.com/r/Python/comments/1iu4nzo/currency_classes_for_python/)
-- [My Ever-Expanding Python &amp; Django Notes](https://www.reddit.com/r/Python/comments/1itzsnz/my_everexpanding_python_django_notes/)
 <!-- BLOG-POST-LIST:END -->
