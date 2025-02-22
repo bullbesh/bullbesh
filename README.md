@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tinyprogress 1.0.1 released](https://www.reddit.com/r/Python/comments/1ivclq9/tinyprogress_101_released/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1iv5pd3/saturday_daily_thread_resource_request_and/)
 - [Would you expect a web framework parse all errors or stop at the first one](https://www.reddit.com/r/Python/comments/1iv1q3p/would_you_expect_a_web_framework_parse_all_errors/)
 - [New to coding. Is it always this difficult?](https://www.reddit.com/r/Python/comments/1iuyt0y/new_to_coding_is_it_always_this_difficult/)
 - [ParScrape v0.6.0 Released](https://www.reddit.com/r/Python/comments/1iuyk4q/parscrape_v060_released/)
-- [Hello, I made a small webapp with Streamlit, FastAPI and docker to convert my images to PDFs](https://www.reddit.com/r/Python/comments/1iuy6kg/hello_i_made_a_small_webapp_with_streamlit/)
 <!-- BLOG-POST-LIST:END -->
