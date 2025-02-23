@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are DataLemur Python Problems Enough for Data Science Interviews?](https://www.reddit.com/r/Python/comments/1iw6ks8/are_datalemur_python_problems_enough_for_data/)
 - [SuperLWE encryption](https://www.reddit.com/r/Python/comments/1iw5vq6/superlwe_encryption/)
 - [I made a Python app that turns your Figma design into code](https://www.reddit.com/r/Python/comments/1iw3lnu/i_made_a_python_app_that_turns_your_figma_design/)
 - [A Simple Computer Use AI Agent](https://www.reddit.com/r/Python/comments/1iw2b2v/a_simple_computer_use_ai_agent/)
 - [I wrote a faster alternative to autoenv](https://www.reddit.com/r/Python/comments/1iw14i7/i_wrote_a_faster_alternative_to_autoenv/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ivwtvk/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
