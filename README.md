@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [RedCoffee for GitHub Actions: A Practical Solution for CI/CD SonarQube Reporting](https://www.reddit.com/r/Python/comments/1iwa63q/redcoffee_for_github_actions_a_practical_solution/)
+- [Looking for Contributors to an Open Source, Non-Profit Python Game!](https://www.reddit.com/r/Python/comments/1iwa546/looking_for_contributors_to_an_open_source/)
 - [The pitfalls of benchmarking your package like numpy does](https://www.reddit.com/r/Python/comments/1iw96ed/the_pitfalls_of_benchmarking_your_package_like/)
 - [Python Package for Effortless Unit Handling and Conversion - unitsnet-py](https://www.reddit.com/r/Python/comments/1iw8inb/python_package_for_effortless_unit_handling_and/)
 - [Are DataLemur Python Problems Enough for Data Science Interviews?](https://www.reddit.com/r/Python/comments/1iw6ks8/are_datalemur_python_problems_enough_for_data/)
-- [SuperLWE encryption](https://www.reddit.com/r/Python/comments/1iw5vq6/superlwe_encryption/)
-- [I made a Python app that turns your Figma design into code](https://www.reddit.com/r/Python/comments/1iw3lnu/i_made_a_python_app_that_turns_your_figma_design/)
 <!-- BLOG-POST-LIST:END -->
