@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a faster alternative to autoenv](https://www.reddit.com/r/Python/comments/1iw14i7/i_wrote_a_faster_alternative_to_autoenv/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ivwtvk/sunday_daily_thread_whats_everyone_working_on/)
 - [Livedocs – a modern, real-time collaborative Python notebook. Improving ergonomics for Python](https://www.reddit.com/r/Python/comments/1ivt2df/livedocs_a_modern_realtime_collaborative_python/)
 - [Pykomodo – A Parallel Code Chunker](https://www.reddit.com/r/Python/comments/1ivlrys/pykomodo_a_parallel_code_chunker/)
 - [Pixerise v0.12 Released: Introducing Ray Casting and Improved Rendering Features](https://www.reddit.com/r/Python/comments/1ivdslk/pixerise_v012_released_introducing_ray_casting/)
-- [Tinyprogress 1.0.1 released](https://www.reddit.com/r/Python/comments/1ivclq9/tinyprogress_101_released/)
 <!-- BLOG-POST-LIST:END -->
