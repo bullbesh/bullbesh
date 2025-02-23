@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a Python app that turns your Figma design into code](https://www.reddit.com/r/Python/comments/1iw3lnu/i_made_a_python_app_that_turns_your_figma_design/)
+- [Bite of python to me](https://www.reddit.com/r/Python/comments/1iw3frx/bite_of_python_to_me/)
 - [A Simple Computer Use AI Agent](https://www.reddit.com/r/Python/comments/1iw2b2v/a_simple_computer_use_ai_agent/)
 - [I wrote a faster alternative to autoenv](https://www.reddit.com/r/Python/comments/1iw14i7/i_wrote_a_faster_alternative_to_autoenv/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ivwtvk/sunday_daily_thread_whats_everyone_working_on/)
-- [Livedocs – a modern, real-time collaborative Python notebook. Improving ergonomics for Python](https://www.reddit.com/r/Python/comments/1ivt2df/livedocs_a_modern_realtime_collaborative_python/)
-- [Pykomodo – A Parallel Code Chunker](https://www.reddit.com/r/Python/comments/1ivlrys/pykomodo_a_parallel_code_chunker/)
 <!-- BLOG-POST-LIST:END -->
