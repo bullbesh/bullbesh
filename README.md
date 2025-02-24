@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Shareable product or platform to demonstrate coding project skills?](https://www.reddit.com/r/Python/comments/1iwwcjk/shareable_product_or_platform_to_demonstrate/)
 - [Open-Source MICT AI Ethics Toolkit: Practical Examples for Mitigating Bias and Hallucinations](https://www.reddit.com/r/Python/comments/1iwunjl/opensource_mict_ai_ethics_toolkit_practical/)
-- [Pyttings: Lightweight Python Settings Management with Namespacing and Modular Files](https://www.reddit.com/r/Python/comments/1iwp8ya/pyttings_lightweight_python_settings_management/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1iwogfe/monday_daily_thread_project_ideas/)
 - [Made a Python library for simulating the combined effect of different time-series patterns](https://www.reddit.com/r/Python/comments/1iwk95c/made_a_python_library_for_simulating_the_combined/)
+- [I finally implemented auto-complete in my terminal based productivity managers code editor, Ticked!](https://www.reddit.com/r/Python/comments/1iwghxb/i_finally_implemented_autocomplete_in_my_terminal/)
 <!-- BLOG-POST-LIST:END -->
