@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My 2025 uv-based Python Project Layout for Production Apps &lpar;Hynek Schlawack&rpar;](https://www.reddit.com/r/Python/comments/1ixrj89/my_2025_uvbased_python_project_layout_for/)
 - [I made a module for read and write spreadsheets](https://www.reddit.com/r/Python/comments/1ixqzzm/i_made_a_module_for_read_and_write_spreadsheets/)
 - [I made a script to download Spotify playlists without login](https://www.reddit.com/r/Python/comments/1ixlsux/i_made_a_script_to_download_spotify_playlists/)
 - [CapeBase – Enhance FastAPI with real-time features, auto-generated APIs, and granular permissions](https://www.reddit.com/r/Python/comments/1ixl3jp/capebase_enhance_fastapi_with_realtime_features/)
 - [Data Analyst Looking For A Job! &lpar;More on the Technical Side&rpar;.](https://www.reddit.com/r/Python/comments/1ixkt1j/data_analyst_looking_for_a_job_more_on_the/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ixh4qh/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
