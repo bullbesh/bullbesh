@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A small windows app to schedule a shutdown for your computer](https://www.reddit.com/r/Python/comments/1iy0a2l/a_small_windows_app_to_schedule_a_shutdown_for/)
+- [Tach - Visualize + Untangle your Codebase](https://www.reddit.com/r/Python/comments/1ixz0tk/tach_visualize_untangle_your_codebase/)
 - [The MakrellPy programming language v0.9.1](https://www.reddit.com/r/Python/comments/1ixwr1i/the_makrellpy_programming_language_v091/)
 - [Why isn&#39;t my code working?](https://www.reddit.com/r/Python/comments/1ixvt58/why_isnt_my_code_working/)
 - [How I Built a Crazy Fast Image Similarity Search Tool with Python](https://www.reddit.com/r/Python/comments/1ixvhxu/how_i_built_a_crazy_fast_image_similarity_search/)
-- [Anyone used UV package manager in production](https://www.reddit.com/r/Python/comments/1ixryec/anyone_used_uv_package_manager_in_production/)
-- [My 2025 uv-based Python Project Layout for Production Apps &lpar;Hynek Schlawack&rpar;](https://www.reddit.com/r/Python/comments/1ixrj89/my_2025_uvbased_python_project_layout_for/)
 <!-- BLOG-POST-LIST:END -->
