@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why isn&#39;t my code working?](https://www.reddit.com/r/Python/comments/1ixvt58/why_isnt_my_code_working/)
+- [How I Built a Crazy Fast Image Similarity Search Tool with Python](https://www.reddit.com/r/Python/comments/1ixvhxu/how_i_built_a_crazy_fast_image_similarity_search/)
 - [Anyone used UV package manager in production](https://www.reddit.com/r/Python/comments/1ixryec/anyone_used_uv_package_manager_in_production/)
 - [My 2025 uv-based Python Project Layout for Production Apps &lpar;Hynek Schlawack&rpar;](https://www.reddit.com/r/Python/comments/1ixrj89/my_2025_uvbased_python_project_layout_for/)
 - [I made a module for read and write spreadsheets](https://www.reddit.com/r/Python/comments/1ixqzzm/i_made_a_module_for_read_and_write_spreadsheets/)
-- [I made a script to download Spotify playlists without login](https://www.reddit.com/r/Python/comments/1ixlsux/i_made_a_script_to_download_spotify_playlists/)
-- [CapeBase – Enhance FastAPI with real-time features, auto-generated APIs, and granular permissions](https://www.reddit.com/r/Python/comments/1ixl3jp/capebase_enhance_fastapi_with_realtime_features/)
 <!-- BLOG-POST-LIST:END -->
