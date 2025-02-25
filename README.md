@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built my first Python Package called yamllm-core](https://www.reddit.com/r/Python/comments/1iy35x1/i_built_my_first_python_package_called_yamllmcore/)
+- [GitHubParser - Parse GitHubAPI v3](https://www.reddit.com/r/Python/comments/1iy2en0/githubparser_parse_githubapi_v3/)
 - [Codegen - Manipulate Codebases with Python](https://www.reddit.com/r/Python/comments/1iy0i35/codegen_manipulate_codebases_with_python/)
 - [A small windows app to schedule a shutdown for your computer](https://www.reddit.com/r/Python/comments/1iy0a2l/a_small_windows_app_to_schedule_a_shutdown_for/)
 - [Tach - Visualize + Untangle your Codebase](https://www.reddit.com/r/Python/comments/1ixz0tk/tach_visualize_untangle_your_codebase/)
-- [The MakrellPy programming language v0.9.1](https://www.reddit.com/r/Python/comments/1ixwr1i/the_makrellpy_programming_language_v091/)
-- [Why isn&#39;t my code working?](https://www.reddit.com/r/Python/comments/1ixvt58/why_isnt_my_code_working/)
 <!-- BLOG-POST-LIST:END -->
