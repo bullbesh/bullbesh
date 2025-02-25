@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Codegen - Manipulate Codebases with Python](https://www.reddit.com/r/Python/comments/1iy0i35/codegen_manipulate_codebases_with_python/)
 - [A small windows app to schedule a shutdown for your computer](https://www.reddit.com/r/Python/comments/1iy0a2l/a_small_windows_app_to_schedule_a_shutdown_for/)
 - [Tach - Visualize + Untangle your Codebase](https://www.reddit.com/r/Python/comments/1ixz0tk/tach_visualize_untangle_your_codebase/)
 - [The MakrellPy programming language v0.9.1](https://www.reddit.com/r/Python/comments/1ixwr1i/the_makrellpy_programming_language_v091/)
 - [Why isn&#39;t my code working?](https://www.reddit.com/r/Python/comments/1ixvt58/why_isnt_my_code_working/)
-- [How I Built a Crazy Fast Image Similarity Search Tool with Python](https://www.reddit.com/r/Python/comments/1ixvhxu/how_i_built_a_crazy_fast_image_similarity_search/)
 <!-- BLOG-POST-LIST:END -->
