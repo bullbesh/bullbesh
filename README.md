@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ixh4qh/tuesday_daily_thread_advanced_questions/)
 - [I just got RickRolled by Codeium in VS Code](https://www.reddit.com/r/Python/comments/1ixblib/i_just_got_rickrolled_by_codeium_in_vs_code/)
 - [Python + Frappe + MariaDB](https://www.reddit.com/r/Python/comments/1ixaomj/python_frappe_mariadb/)
 - [🚀 Making AI Faster with Bhumi – A High-Performance LLM Client &lpar;Rust + Python&rpar;](https://www.reddit.com/r/Python/comments/1ix7pg4/making_ai_faster_with_bhumi_a_highperformance_llm/)
 - [Sparx automation hacks](https://www.reddit.com/r/Python/comments/1ix77t8/sparx_automation_hacks/)
-- [Open-source reverse proxy to remove sensitive data from OpenAI API calls](https://www.reddit.com/r/Python/comments/1ix4m99/opensource_reverse_proxy_to_remove_sensitive_data/)
 <!-- BLOG-POST-LIST:END -->
