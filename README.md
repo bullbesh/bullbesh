@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Run your own free ChatGPT alternative locally on your own computer!](https://www.reddit.com/r/Python/comments/1iyidnw/run_your_own_free_chatgpt_alternative_locally_on/)
 - [Performance impact of native interop](https://www.reddit.com/r/Python/comments/1iyhq7a/performance_impact_of_native_interop/)
 - [Kreuzberg: Next Steps](https://www.reddit.com/r/Python/comments/1iyhjax/kreuzberg_next_steps/)
 - [Excel formulas to python code using LLM’s ?](https://www.reddit.com/r/Python/comments/1iyc8qb/excel_formulas_to_python_code_using_llms/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1iy9wct/wednesday_daily_thread_beginner_questions/)
-- [BacktestAI - No-code backtesting for stocks](https://www.reddit.com/r/Python/comments/1iy9ro6/backtestai_nocode_backtesting_for_stocks/)
 <!-- BLOG-POST-LIST:END -->
