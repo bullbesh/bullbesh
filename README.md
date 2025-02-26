@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Over the clouds: CPython, Pyodide and SPy](https://www.reddit.com/r/Python/comments/1iz0vf1/over_the_clouds_cpython_pyodide_and_spy/)
+- [Why not just plot everything in numpy?! P.2.](https://www.reddit.com/r/Python/comments/1iz0qxe/why_not_just_plot_everything_in_numpy_p2/)
 - [Workflow automation for Python developers](https://www.reddit.com/r/Python/comments/1iyzp2m/workflow_automation_for_python_developers/)
 - [Handy use of walrus operator -- test a single for-loop iteration](https://www.reddit.com/r/Python/comments/1iyvgku/handy_use_of_walrus_operator_test_a_single/)
 - [How much of Fluent Python is outdated with the release of Python 3.13](https://www.reddit.com/r/Python/comments/1iyv3vp/how_much_of_fluent_python_is_outdated_with_the/)
-- [i cant remove text](https://www.reddit.com/r/Python/comments/1iyu167/i_cant_remove_text/)
-- [Cursed decorators](https://www.reddit.com/r/Python/comments/1iyt9vz/cursed_decorators/)
 <!-- BLOG-POST-LIST:END -->
