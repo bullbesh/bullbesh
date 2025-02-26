@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Handy use of walrus operator -- test a single for-loop iteration](https://www.reddit.com/r/Python/comments/1iyvgku/handy_use_of_walrus_operator_test_a_single/)
+- [How much of Fluent Python is outdated with the release of Python 3.13](https://www.reddit.com/r/Python/comments/1iyv3vp/how_much_of_fluent_python_is_outdated_with_the/)
 - [i cant remove text](https://www.reddit.com/r/Python/comments/1iyu167/i_cant_remove_text/)
 - [Cursed decorators](https://www.reddit.com/r/Python/comments/1iyt9vz/cursed_decorators/)
 - [Mindmap Generator – Marshalling LLMs for Hierarchical Document Analysis](https://www.reddit.com/r/Python/comments/1iyqcse/mindmap_generator_marshalling_llms_for/)
-- [Seeking Feedback on a Gateway Library to Decouple API Management from ASGI web servers &lpar;FastAPI&rpar;](https://www.reddit.com/r/Python/comments/1iyq6dl/seeking_feedback_on_a_gateway_library_to_decouple/)
-- [Python gave me the chance to finally execute a personal project for something I actually needed](https://www.reddit.com/r/Python/comments/1iyorr7/python_gave_me_the_chance_to_finally_execute_a/)
 <!-- BLOG-POST-LIST:END -->
