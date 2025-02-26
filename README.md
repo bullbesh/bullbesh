@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why not just get your plots in NumPy?! Part. 2](https://www.reddit.com/r/Python/comments/1iyg29d/why_not_just_get_your_plots_in_numpy_part_2/)
 - [Excel formulas to python code using LLM’s ?](https://www.reddit.com/r/Python/comments/1iyc8qb/excel_formulas_to_python_code_using_llms/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1iy9wct/wednesday_daily_thread_beginner_questions/)
 - [BacktestAI - No-code backtesting for stocks](https://www.reddit.com/r/Python/comments/1iy9ro6/backtestai_nocode_backtesting_for_stocks/)
 - [Built an ORM: A Minimal Asynchronous ORM for Python and PostgreSQL](https://www.reddit.com/r/Python/comments/1iy9q5f/built_an_orm_a_minimal_asynchronous_orm_for/)
-- [High Level Web Scraping Library for Python](https://www.reddit.com/r/Python/comments/1iy78rw/high_level_web_scraping_library_for_python/)
 <!-- BLOG-POST-LIST:END -->
