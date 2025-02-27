@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Simple Yet Effective SMS Spam Classifier Without Neural Networks](https://www.reddit.com/r/Python/comments/1izepi6/i_built_a_simple_yet_effective_sms_spam/)
 - [Using selenium for the first time for scrapping](https://www.reddit.com/r/Python/comments/1iz7q5i/using_selenium_for_the_first_time_for_scrapping/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1iz29bk/thursday_daily_thread_python_careers_courses_and/)
 - [Over the clouds: CPython, Pyodide and SPy](https://www.reddit.com/r/Python/comments/1iz0vf1/over_the_clouds_cpython_pyodide_and_spy/)
 - [Why not just plot everything in numpy?! P.2.](https://www.reddit.com/r/Python/comments/1iz0qxe/why_not_just_plot_everything_in_numpy_p2/)
-- [Workflow automation for Python developers](https://www.reddit.com/r/Python/comments/1iyzp2m/workflow_automation_for_python_developers/)
 <!-- BLOG-POST-LIST:END -->
