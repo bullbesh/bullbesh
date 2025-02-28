@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [snakeHDL: A simple tool for creating digital logic circuits in Python](https://www.reddit.com/r/Python/comments/1j0geal/snakehdl_a_simple_tool_for_creating_digital_logic/)
 - [Python for JS Developer: Recommendations for Learning Path or Resources?](https://www.reddit.com/r/Python/comments/1j0b0tl/python_for_js_developer_recommendations_for/)
 - [Want To Know About Python AI development?](https://www.reddit.com/r/Python/comments/1j06g6x/want_to_know_about_python_ai_development/)
 - [PyKomodo – Codebase/PDF Processing and Chunking for Python](https://www.reddit.com/r/Python/comments/1j03kbm/pykomodo_codebasepdf_processing_and_chunking_for/)
 - [FanBase-apui released](https://www.reddit.com/r/Python/comments/1j02hnp/fanbaseapui_released/)
-- [Introducing AirDoodle – I built an application to make presentations with Hand Gestures! 👌#python](https://www.reddit.com/r/Python/comments/1izzw4t/introducing_airdoodle_i_built_an_application_to/)
 <!-- BLOG-POST-LIST:END -->
