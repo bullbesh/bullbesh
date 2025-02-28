@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Is there an LSP or other tool that works well with pytest?](https://www.reddit.com/r/Python/comments/1izwg6r/is_there_an_lsp_or_other_tool_that_works_well/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1izueaz/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Dependancy hell](https://www.reddit.com/r/Python/comments/1izr0q9/dependancy_hell/)
 - [Python developer looking for freelance work.](https://www.reddit.com/r/Python/comments/1izqu1a/python_developer_looking_for_freelance_work/)
 - [Spider: Distributed Web Crawler Built with Async Python](https://www.reddit.com/r/Python/comments/1izqk1x/spider_distributed_web_crawler_built_with_async/)
+- [if you have a nested loop but didnt use i for the outer loop, should the inner loop use i or j](https://www.reddit.com/r/Python/comments/1izo3at/if_you_have_a_nested_loop_but_didnt_use_i_for_the/)
 <!-- BLOG-POST-LIST:END -->
