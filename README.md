@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyKomodo – Codebase/PDF Processing and Chunking for Python](https://www.reddit.com/r/Python/comments/1j03kbm/pykomodo_codebasepdf_processing_and_chunking_for/)
 - [FanBase-apui released](https://www.reddit.com/r/Python/comments/1j02hnp/fanbaseapui_released/)
 - [Introducing AirDoodle – I built an application to make presentations with Hand Gestures! 👌#python](https://www.reddit.com/r/Python/comments/1izzw4t/introducing_airdoodle_i_built_an_application_to/)
 - [Is there an LSP or other tool that works well with pytest?](https://www.reddit.com/r/Python/comments/1izwg6r/is_there_an_lsp_or_other_tool_that_works_well/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1izueaz/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Spider: Distributed Web Crawler Built with Async Python](https://www.reddit.com/r/Python/comments/1izqk1x/spider_distributed_web_crawler_built_with_async/)
 <!-- BLOG-POST-LIST:END -->
