@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [anybody wanna collaborate on a python project](https://www.reddit.com/r/Python/comments/1j19xt6/anybody_wanna_collaborate_on_a_python_project/)
+- [Building a trading bot](https://www.reddit.com/r/Python/comments/1j19ua3/building_a_trading_bot/)
 - [PhotoFF a CUDA-accelerated image processing library](https://www.reddit.com/r/Python/comments/1j13hm4/photoff_a_cudaaccelerated_image_processing_library/)
 - [Hey Folks, Try My Windows Wallpaper Changer Script – Fresh Vibes Daily! 🌟](https://www.reddit.com/r/Python/comments/1j0w7us/hey_folks_try_my_windows_wallpaper_changer_script/)
 - [marsopt: Mixed Adaptive Random Search for Optimization](https://www.reddit.com/r/Python/comments/1j0vwru/marsopt_mixed_adaptive_random_search_for/)
-- [I got tired of writing cover letters, so I had Python and OpenAI do the boring stuff](https://www.reddit.com/r/Python/comments/1j0nbfd/i_got_tired_of_writing_cover_letters_so_i_had/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1j0m7aq/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
