@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [TIL you can use else with a while loop](https://www.reddit.com/r/Python/comments/1j1axht/til_you_can_use_else_with_a_while_loop/)
 - [Career Path / Advice](https://www.reddit.com/r/Python/comments/1j1ao45/career_path_advice/)
-- [anybody wanna collaborate on a python project](https://www.reddit.com/r/Python/comments/1j19xt6/anybody_wanna_collaborate_on_a_python_project/)
 - [PhotoFF a CUDA-accelerated image processing library](https://www.reddit.com/r/Python/comments/1j13hm4/photoff_a_cudaaccelerated_image_processing_library/)
 - [Hey Folks, Try My Windows Wallpaper Changer Script – Fresh Vibes Daily! 🌟](https://www.reddit.com/r/Python/comments/1j0w7us/hey_folks_try_my_windows_wallpaper_changer_script/)
+- [marsopt: Mixed Adaptive Random Search for Optimization](https://www.reddit.com/r/Python/comments/1j0vwru/marsopt_mixed_adaptive_random_search_for/)
 <!-- BLOG-POST-LIST:END -->
