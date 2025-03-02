@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [reCaptcha for visually disable people](https://www.reddit.com/r/Python/comments/1j1nad3/recaptcha_for_visually_disable_people/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1j1dkk8/sunday_daily_thread_whats_everyone_working_on/)
 - [A python implementation of a raw socket for sending Ethernet frames on BSD systems &lpar;Update&rpar;](https://www.reddit.com/r/Python/comments/1j1dgyl/a_python_implementation_of_a_raw_socket_for/)
 - [TIL you can use else with a while loop](https://www.reddit.com/r/Python/comments/1j1axht/til_you_can_use_else_with_a_while_loop/)
 - [Career Path / Advice](https://www.reddit.com/r/Python/comments/1j1ao45/career_path_advice/)
-- [PhotoFF a CUDA-accelerated image processing library](https://www.reddit.com/r/Python/comments/1j13hm4/photoff_a_cudaaccelerated_image_processing_library/)
 <!-- BLOG-POST-LIST:END -->
