@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A small VS Code extension to tidy up requirements.txt files](https://www.reddit.com/r/Python/comments/1j1o47r/a_small_vs_code_extension_to_tidy_up/)
+- [Why isnt Python the leading code when it comes to malware](https://www.reddit.com/r/Python/comments/1j1o23r/why_isnt_python_the_leading_code_when_it_comes_to/)
 - [reCaptcha for visually disable people](https://www.reddit.com/r/Python/comments/1j1nad3/recaptcha_for_visually_disable_people/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1j1dkk8/sunday_daily_thread_whats_everyone_working_on/)
 - [A python implementation of a raw socket for sending Ethernet frames on BSD systems &lpar;Update&rpar;](https://www.reddit.com/r/Python/comments/1j1dgyl/a_python_implementation_of_a_raw_socket_for/)
-- [TIL you can use else with a while loop](https://www.reddit.com/r/Python/comments/1j1axht/til_you_can_use_else_with_a_while_loop/)
-- [Career Path / Advice](https://www.reddit.com/r/Python/comments/1j1ao45/career_path_advice/)
 <!-- BLOG-POST-LIST:END -->
