@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [From 0 to 8K Downloads: How RedCoffee Grew from a Side Project &amp; What’s New in v2.2](https://www.reddit.com/r/Python/comments/1j1pc2i/from_0_to_8k_downloads_how_redcoffee_grew_from_a/)
 - [A small VS Code extension to tidy up requirements.txt files](https://www.reddit.com/r/Python/comments/1j1o47r/a_small_vs_code_extension_to_tidy_up/)
 - [Why isnt Python the leading code when it comes to malware](https://www.reddit.com/r/Python/comments/1j1o23r/why_isnt_python_the_leading_code_when_it_comes_to/)
 - [reCaptcha for visually disable people](https://www.reddit.com/r/Python/comments/1j1nad3/recaptcha_for_visually_disable_people/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1j1dkk8/sunday_daily_thread_whats_everyone_working_on/)
-- [A python implementation of a raw socket for sending Ethernet frames on BSD systems &lpar;Update&rpar;](https://www.reddit.com/r/Python/comments/1j1dgyl/a_python_implementation_of_a_raw_socket_for/)
 <!-- BLOG-POST-LIST:END -->
