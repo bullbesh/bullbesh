@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FuncNodes – A Visual Python Workflow Framework for interactive Analytics &amp; Automation &lpar;Open Source&rpar;](https://www.reddit.com/r/Python/comments/1j2mug8/funcnodes_a_visual_python_workflow_framework_for/)
 - [What Are Your Favorite Python Repositories?](https://www.reddit.com/r/Python/comments/1j2ev5f/what_are_your_favorite_python_repositories/)
 - [Microsoft Copilot Image Downloader](https://www.reddit.com/r/Python/comments/1j2a8pq/microsoft_copilot_image_downloader/)
 - [Finished CS50P &amp; Built My First Program – Simple Expense Tracker!](https://www.reddit.com/r/Python/comments/1j27t72/finished_cs50p_built_my_first_program_simple/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1j25eaj/monday_daily_thread_project_ideas/)
-- [Revolutionizing Dash UI: Introducing new Components DashPlanet and DashDock](https://www.reddit.com/r/Python/comments/1j20s6l/revolutionizing_dash_ui_introducing_new/)
 <!-- BLOG-POST-LIST:END -->
