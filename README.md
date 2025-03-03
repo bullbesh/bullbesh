@@ -12,5 +12,5 @@
 - [Microsoft Copilot Image Downloader](https://www.reddit.com/r/Python/comments/1j2a8pq/microsoft_copilot_image_downloader/)
 - [Finished CS50P &amp; Built My First Program – Simple Expense Tracker!](https://www.reddit.com/r/Python/comments/1j27t72/finished_cs50p_built_my_first_program_simple/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1j25eaj/monday_daily_thread_project_ideas/)
-- [Should I publish this as a library ?](https://www.reddit.com/r/Python/comments/1j21loy/should_i_publish_this_as_a_library/)
+- [Revolutionizing Dash UI: Introducing new Components DashPlanet and DashDock](https://www.reddit.com/r/Python/comments/1j20s6l/revolutionizing_dash_ui_introducing_new/)
 <!-- BLOG-POST-LIST:END -->
