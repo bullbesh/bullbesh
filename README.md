@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Idea for an open source tool](https://www.reddit.com/r/Python/comments/1j36qx0/idea_for_an_open_source_tool/)
+- [I Got Tired of &quot;AI Shorts&quot; Scams - So I Built My Own Free &amp; Local Shorts Creator Tool!🎬](https://www.reddit.com/r/Python/comments/1j36d7a/i_got_tired_of_ai_shorts_scams_so_i_built_my_own/)
 - [clypi - Your all-in-one for beautiful, lightweight, prod-ready CLIs](https://www.reddit.com/r/Python/comments/1j33r7f/clypi_your_allinone_for_beautiful_lightweight/)
 - [Python for Data Engineers](https://www.reddit.com/r/Python/comments/1j33oq2/python_for_data_engineers/)
 - [Do you use runtime type checking in Python?](https://www.reddit.com/r/Python/comments/1j318u1/do_you_use_runtime_type_checking_in_python/)
-- [I don&#39;t like webp, so I made a tool that automatically converts webp files to other formats](https://www.reddit.com/r/Python/comments/1j2z92t/i_dont_like_webp_so_i_made_a_tool_that/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1j2xevt/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
