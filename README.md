@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made a Tool That Tracks &amp; Downloads Every Song you Hear](https://www.reddit.com/r/Python/comments/1j38x4r/made_a_tool_that_tracks_downloads_every_song_you/)
 - [Python bitwise function challenge](https://www.reddit.com/r/Python/comments/1j37b03/python_bitwise_function_challenge/)
 - [Usage of context manager with map](https://www.reddit.com/r/Python/comments/1j378qx/usage_of_context_manager_with_map/)
 - [Idea for an open source tool](https://www.reddit.com/r/Python/comments/1j36qx0/idea_for_an_open_source_tool/)
 - [I Got Tired of &quot;AI Shorts&quot; Scams - So I Built My Own Free &amp; Local Shorts Creator Tool!🎬](https://www.reddit.com/r/Python/comments/1j36d7a/i_got_tired_of_ai_shorts_scams_so_i_built_my_own/)
-- [clypi - Your all-in-one for beautiful, lightweight, prod-ready CLIs](https://www.reddit.com/r/Python/comments/1j33r7f/clypi_your_allinone_for_beautiful_lightweight/)
 <!-- BLOG-POST-LIST:END -->
