@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pyodide lets you run Python right in the browser](https://www.reddit.com/r/Python/comments/1j3ont4/pyodide_lets_you_run_python_right_in_the_browser/)
+- [AlgoFresco: Bring Your Algorithms and Data Structures to Life with Animations](https://www.reddit.com/r/Python/comments/1j3nxkh/algofresco_bring_your_algorithms_and_data/)
 - [Python Analytics Package](https://www.reddit.com/r/Python/comments/1j3jjkf/python_analytics_package/)
 - [Added a package that wraps virtual staging / interior design functionality](https://www.reddit.com/r/Python/comments/1j3fufl/added_a_package_that_wraps_virtual_staging/)
 - [Evaluating LLM Attacks Detection Methods: New FuzzyAI Notebook](https://www.reddit.com/r/Python/comments/1j3fp8x/evaluating_llm_attacks_detection_methods_new/)
-- [Finance Toolkit - Analyse your Portfolio with 200+ Financial Metrics](https://www.reddit.com/r/Python/comments/1j3c41y/finance_toolkit_analyse_your_portfolio_with_200/)
-- [Blueconda: Python Code Editor For New Coders](https://www.reddit.com/r/Python/comments/1j3apof/blueconda_python_code_editor_for_new_coders/)
 <!-- BLOG-POST-LIST:END -->
