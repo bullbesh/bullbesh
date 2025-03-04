@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [clypi - Your all-in-one for beautiful, lightweight, prod-ready CLIs](https://www.reddit.com/r/Python/comments/1j33r7f/clypi_your_allinone_for_beautiful_lightweight/)
+- [Python for Data Engineers](https://www.reddit.com/r/Python/comments/1j33oq2/python_for_data_engineers/)
 - [Do you use runtime type checking in Python?](https://www.reddit.com/r/Python/comments/1j318u1/do_you_use_runtime_type_checking_in_python/)
 - [I don&#39;t like webp, so I made a tool that automatically converts webp files to other formats](https://www.reddit.com/r/Python/comments/1j2z92t/i_dont_like_webp_so_i_made_a_tool_that/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1j2xevt/tuesday_daily_thread_advanced_questions/)
-- [Terraforming Tracks: Automating Spotify Listening History Collection with AWS](https://www.reddit.com/r/Python/comments/1j2wnpq/terraforming_tracks_automating_spotify_listening/)
-- [Python-oracledb 3.0 supports dataframes, AQ in thin mode, SPARSE vectors, and more](https://www.reddit.com/r/Python/comments/1j2w1gs/pythonoracledb_30_supports_dataframes_aq_in_thin/)
 <!-- BLOG-POST-LIST:END -->
