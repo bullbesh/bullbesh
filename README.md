@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PAR Infinite Minesweeper TUI v0.3.0 released](https://www.reddit.com/r/Python/comments/1j3vclw/par_infinite_minesweeper_tui_v030_released/)
 - [Anyone making money creating bots for crypto users?](https://www.reddit.com/r/Python/comments/1j3t548/anyone_making_money_creating_bots_for_crypto_users/)
 - [OpenArc v1.0.1: openai endpoints, gradio dashboard, faster inference on intel CPUs, GPUs and NPUs](https://www.reddit.com/r/Python/comments/1j3rmo5/openarc_v101_openai_endpoints_gradio_dashboard/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1j3plxg/wednesday_daily_thread_beginner_questions/)
 - [Pyodide lets you run Python right in the browser](https://www.reddit.com/r/Python/comments/1j3ont4/pyodide_lets_you_run_python_right_in_the_browser/)
-- [AlgoFresco: Bring Your Algorithms and Data Structures to Life with Animations](https://www.reddit.com/r/Python/comments/1j3nxkh/algofresco_bring_your_algorithms_and_data/)
 <!-- BLOG-POST-LIST:END -->
