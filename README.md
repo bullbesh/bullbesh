@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The New Ranag Project](https://www.reddit.com/r/Python/comments/1j48xnp/the_new_ranag_project/)
 - [Forking and Modernizing Libraries](https://www.reddit.com/r/Python/comments/1j47hp4/forking_and_modernizing_libraries/)
 - [Self-hosted RSS/ATOM reader with LLM-generated tags, scoring, filtering, and sorting](https://www.reddit.com/r/Python/comments/1j472bj/selfhosted_rssatom_reader_with_llmgenerated_tags/)
 - [The features of Python&#39;s h*lp&lpar;&rpar; function](https://www.reddit.com/r/Python/comments/1j43yho/the_features_of_pythons_hlp_function/)
 - [Petition to rename Python 3.14 to Pithon!](https://www.reddit.com/r/Python/comments/1j43aar/petition_to_rename_python_314_to_pithon/)
-- [if anyone want partecipate.](https://www.reddit.com/r/Python/comments/1j42o03/if_anyone_want_partecipate/)
 <!-- BLOG-POST-LIST:END -->
