@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ISLP Library Documentation](https://www.reddit.com/r/Python/comments/1j4dfmd/islp_library_documentation/)
 - [Serverless desktop python example](https://www.reddit.com/r/Python/comments/1j4c0mj/serverless_desktop_python_example/)
 - [The New Ranag Project](https://www.reddit.com/r/Python/comments/1j48xnp/the_new_ranag_project/)
 - [Forking and Modernizing Libraries](https://www.reddit.com/r/Python/comments/1j47hp4/forking_and_modernizing_libraries/)
 - [Self-hosted RSS/ATOM reader with LLM-generated tags, scoring, filtering, and sorting](https://www.reddit.com/r/Python/comments/1j472bj/selfhosted_rssatom_reader_with_llmgenerated_tags/)
-- [The features of Python&#39;s h*lp&lpar;&rpar; function](https://www.reddit.com/r/Python/comments/1j43yho/the_features_of_pythons_hlp_function/)
 <!-- BLOG-POST-LIST:END -->
