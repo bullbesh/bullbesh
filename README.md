@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [if anyone want partecipate.](https://www.reddit.com/r/Python/comments/1j42o03/if_anyone_want_partecipate/)
 - [Created Code that Converts 3D Pose Outputs from Body Space to World Space](https://www.reddit.com/r/Python/comments/1j3x6u4/created_code_that_converts_3d_pose_outputs_from/)
 - [MODIN creates new partition if we add new column to dataframe](https://www.reddit.com/r/Python/comments/1j3vvxt/modin_creates_new_partition_if_we_add_new_column/)
 - [PAR Infinite Minesweeper TUI v0.3.0 released](https://www.reddit.com/r/Python/comments/1j3vclw/par_infinite_minesweeper_tui_v030_released/)
 - [Anyone making money creating bots for crypto users?](https://www.reddit.com/r/Python/comments/1j3t548/anyone_making_money_creating_bots_for_crypto_users/)
-- [OpenArc v1.0.1: openai endpoints, gradio dashboard, faster inference on intel CPUs, GPUs and NPUs](https://www.reddit.com/r/Python/comments/1j3rmo5/openarc_v101_openai_endpoints_gradio_dashboard/)
 <!-- BLOG-POST-LIST:END -->
