@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are There Any Tools for Detecting Unhandled Exceptions or Hidden Asynchronous Calls in Python?](https://www.reddit.com/r/Python/comments/1j5pged/are_there_any_tools_for_detecting_unhandled/)
 - [Rio Hits 100K Downloads &amp; 2K GitHub Stars – Open Source Python Web Apps](https://www.reddit.com/r/Python/comments/1j5ofdj/rio_hits_100k_downloads_2k_github_stars_open/)
 - [Detecting the Engulfing Pattern Using pandas-ta](https://www.reddit.com/r/Python/comments/1j5hjsb/detecting_the_engulfing_pattern_using_pandasta/)
 - [Python IDE on Android - code locally and run the program over a hosted runtime or offline. Opinions?](https://www.reddit.com/r/Python/comments/1j5etsa/python_ide_on_android_code_locally_and_run_the/)
 - [Python for Engineers and Scientists](https://www.reddit.com/r/Python/comments/1j5ae5m/python_for_engineers_and_scientists/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1j5a404/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
