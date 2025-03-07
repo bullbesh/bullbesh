@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python IDE on Android - code locally and run the program over a hosted runtime or offline. Opinions?](https://www.reddit.com/r/Python/comments/1j5etsa/python_ide_on_android_code_locally_and_run_the/)
 - [Python for Engineers and Scientists](https://www.reddit.com/r/Python/comments/1j5ae5m/python_for_engineers_and_scientists/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1j5a404/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Should I be using more data structures?](https://www.reddit.com/r/Python/comments/1j57nj3/should_i_be_using_more_data_structures/)
 - [Python coding camp for high schoolers - remote and free](https://www.reddit.com/r/Python/comments/1j577mp/python_coding_camp_for_high_schoolers_remote_and/)
-- [minRTOS: A Real-Time Operating System with Advanced Scheduling and Inter-Task Communication](https://www.reddit.com/r/Python/comments/1j56n9h/minrtos_a_realtime_operating_system_with_advanced/)
 <!-- BLOG-POST-LIST:END -->
