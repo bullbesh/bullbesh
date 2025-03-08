@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [RedCoffee v2.5: How Sentry helped me fix Protocol handling issues](https://www.reddit.com/r/Python/comments/1j6fqit/redcoffee_v25_how_sentry_helped_me_fix_protocol/)
+- [Self destructive code question](https://www.reddit.com/r/Python/comments/1j6fhig/self_destructive_code_question/)
 - [I&#39;ve built templates for Sphinx documentation and themes](https://www.reddit.com/r/Python/comments/1j6e4jb/ive_built_templates_for_sphinx_documentation_and/)
 - [Introducing uncomment](https://www.reddit.com/r/Python/comments/1j6dx0e/introducing_uncomment/)
 - [Python is big in Europe](https://www.reddit.com/r/Python/comments/1j6d2wo/python_is_big_in_europe/)
-- [Stuck in data fetching process](https://www.reddit.com/r/Python/comments/1j68h6c/stuck_in_data_fetching_process/)
-- [I built a python library for realistic web scraping and captcha bypass](https://www.reddit.com/r/Python/comments/1j689ag/i_built_a_python_library_for_realistic_web/)
 <!-- BLOG-POST-LIST:END -->
