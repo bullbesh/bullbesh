@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Quote from email body to csv](https://www.reddit.com/r/Python/comments/1j6ksja/quote_from_email_body_to_csv/)
+- [Introducing SithLSP: An Experimental Python Language Server Written in Rust](https://www.reddit.com/r/Python/comments/1j6rmdf/introducing_sithlsp_an_experimental_python/)
 - [New quest for developers by developers](https://www.reddit.com/r/Python/comments/1j6grvg/new_quest_for_developers_by_developers/)
 - [RedCoffee v2.5: How Sentry helped me fix Protocol handling issues](https://www.reddit.com/r/Python/comments/1j6fqit/redcoffee_v25_how_sentry_helped_me_fix_protocol/)
 - [I&#39;ve built templates for Sphinx documentation and themes](https://www.reddit.com/r/Python/comments/1j6e4jb/ive_built_templates_for_sphinx_documentation_and/)
