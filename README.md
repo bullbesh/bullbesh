@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve built templates for Sphinx documentation and themes](https://www.reddit.com/r/Python/comments/1j6e4jb/ive_built_templates_for_sphinx_documentation_and/)
+- [Introducing uncomment](https://www.reddit.com/r/Python/comments/1j6dx0e/introducing_uncomment/)
 - [Python is big in Europe](https://www.reddit.com/r/Python/comments/1j6d2wo/python_is_big_in_europe/)
 - [Stuck in data fetching process](https://www.reddit.com/r/Python/comments/1j68h6c/stuck_in_data_fetching_process/)
 - [I built a python library for realistic web scraping and captcha bypass](https://www.reddit.com/r/Python/comments/1j689ag/i_built_a_python_library_for_realistic_web/)
-- [EasyMenu3—a simple way to create interactive CLI menus in Python](https://www.reddit.com/r/Python/comments/1j66qdk/easymenu3a_simple_way_to_create_interactive_cli/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1j645mw/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
