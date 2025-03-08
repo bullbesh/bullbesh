@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [New quest for developers by developers](https://www.reddit.com/r/Python/comments/1j6grvg/new_quest_for_developers_by_developers/)
 - [RedCoffee v2.5: How Sentry helped me fix Protocol handling issues](https://www.reddit.com/r/Python/comments/1j6fqit/redcoffee_v25_how_sentry_helped_me_fix_protocol/)
-- [Self destructive code question](https://www.reddit.com/r/Python/comments/1j6fhig/self_destructive_code_question/)
 - [I&#39;ve built templates for Sphinx documentation and themes](https://www.reddit.com/r/Python/comments/1j6e4jb/ive_built_templates_for_sphinx_documentation_and/)
 - [Introducing uncomment](https://www.reddit.com/r/Python/comments/1j6dx0e/introducing_uncomment/)
+- [Python is big in Europe](https://www.reddit.com/r/Python/comments/1j6d2wo/python_is_big_in_europe/)
 <!-- BLOG-POST-LIST:END -->
