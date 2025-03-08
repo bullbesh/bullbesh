@@ -12,5 +12,5 @@
 - [I built a python library for realistic web scraping and captcha bypass](https://www.reddit.com/r/Python/comments/1j689ag/i_built_a_python_library_for_realistic_web/)
 - [EasyMenu3—a simple way to create interactive CLI menus in Python](https://www.reddit.com/r/Python/comments/1j66qdk/easymenu3a_simple_way_to_create_interactive_cli/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1j645mw/saturday_daily_thread_resource_request_and/)
-- [Polars Cloud; the distributed Cloud Architecture to run Polars anywhere](https://www.reddit.com/r/Python/comments/1j61i82/polars_cloud_the_distributed_cloud_architecture/)
+- [Pydantic is a Bloated Disaster](https://www.reddit.com/r/Python/comments/1j63ojn/pydantic_is_a_bloated_disaster/)
 <!-- BLOG-POST-LIST:END -->
