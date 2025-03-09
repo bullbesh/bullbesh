@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1j6upf0/sunday_daily_thread_whats_everyone_working_on/)
+- [[Project] I made an AI companion that simulates emotions and remembers your conversations](https://www.reddit.com/r/Python/comments/1j6tzrz/project_i_made_an_ai_companion_that_simulates/)
 - [Introducing SithLSP: An Experimental Python Language Server Written in Rust](https://www.reddit.com/r/Python/comments/1j6rmdf/introducing_sithlsp_an_experimental_python/)
 - [New quest for developers by developers](https://www.reddit.com/r/Python/comments/1j6grvg/new_quest_for_developers_by_developers/)
 - [RedCoffee v2.5: How Sentry helped me fix Protocol handling issues](https://www.reddit.com/r/Python/comments/1j6fqit/redcoffee_v25_how_sentry_helped_me_fix_protocol/)
-- [I&#39;ve built templates for Sphinx documentation and themes](https://www.reddit.com/r/Python/comments/1j6e4jb/ive_built_templates_for_sphinx_documentation_and/)
-- [Introducing uncomment](https://www.reddit.com/r/Python/comments/1j6dx0e/introducing_uncomment/)
 <!-- BLOG-POST-LIST:END -->
