@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a sampler, mixer, and recording audio to disk in Python](https://www.reddit.com/r/Python/comments/1j78nqr/creating_a_sampler_mixer_and_recording_audio_to/)
 - [Vehicle application charts and combining them accurately and easily](https://www.reddit.com/r/Python/comments/1j780he/vehicle_application_charts_and_combining_them/)
 - [Python Projects for SDE roles](https://www.reddit.com/r/Python/comments/1j7792v/python_projects_for_sde_roles/)
 - [A feature-rich Telegram support bot &lpar;open source&rpar;](https://www.reddit.com/r/Python/comments/1j7774b/a_featurerich_telegram_support_bot_open_source/)
 - [What&#39;s the best way to tell number of downloads from pypi - is https://pepy.tech downloads real?](https://www.reddit.com/r/Python/comments/1j719o6/whats_the_best_way_to_tell_number_of_downloads/)
-- [Example data repository using Async Postgres, SQLAlchemy, Pydantic](https://www.reddit.com/r/Python/comments/1j6zwrh/example_data_repository_using_async_postgres/)
 <!-- BLOG-POST-LIST:END -->
