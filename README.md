@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Loglite: a lightweight logging service for IoT Edge devices](https://www.reddit.com/r/Python/comments/1j6ycbl/loglite_a_lightweight_logging_service_for_iot/)
 - [Granian: Among the Highest-Performance Python Frameworks](https://www.reddit.com/r/Python/comments/1j6x7dm/granian_among_the_highestperformance_python/)
-- [Python senior developer role technical assessment. Question 1](https://www.reddit.com/r/Python/comments/1j6x6h7/python_senior_developer_role_technical_assessment/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1j6upf0/sunday_daily_thread_whats_everyone_working_on/)
 - [[Project] I made an AI companion that simulates emotions and remembers your conversations](https://www.reddit.com/r/Python/comments/1j6tzrz/project_i_made_an_ai_companion_that_simulates/)
 - [Introducing SithLSP: An Experimental Python Language Server Written in Rust](https://www.reddit.com/r/Python/comments/1j6rmdf/introducing_sithlsp_an_experimental_python/)
