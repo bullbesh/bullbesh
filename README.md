@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Projects for SDE roles](https://www.reddit.com/r/Python/comments/1j7792v/python_projects_for_sde_roles/)
+- [A feature-rich Telegram support bot &lpar;open source&rpar;](https://www.reddit.com/r/Python/comments/1j7774b/a_featurerich_telegram_support_bot_open_source/)
 - [What&#39;s the best way to tell number of downloads from pypi - is https://pepy.tech downloads real?](https://www.reddit.com/r/Python/comments/1j719o6/whats_the_best_way_to_tell_number_of_downloads/)
 - [Example data repository using Async Postgres, SQLAlchemy, Pydantic](https://www.reddit.com/r/Python/comments/1j6zwrh/example_data_repository_using_async_postgres/)
 - [Meet Jonq: The jq wrapper that makes JSON Querying feel easier](https://www.reddit.com/r/Python/comments/1j6ykrs/meet_jonq_the_jq_wrapper_that_makes_json_querying/)
-- [Loglite: a lightweight logging service for IoT Edge devices](https://www.reddit.com/r/Python/comments/1j6ycbl/loglite_a_lightweight_logging_service_for_iot/)
-- [Granian: Among the Highest-Performance Python Frameworks](https://www.reddit.com/r/Python/comments/1j6x7dm/granian_among_the_highestperformance_python/)
 <!-- BLOG-POST-LIST:END -->
