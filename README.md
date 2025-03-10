@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [print&lpar;&#39;Sorry, you are not in acceptable range &lpar;0 -10&rpar;&#39;&rpar; - is not getting displayed even after i give](https://www.reddit.com/r/Python/comments/1j7tqlq/printsorry_you_are_not_in_acceptable_range_0_10/)
+- [I built Lightweight &amp; Flexible AI Agent Manager](https://www.reddit.com/r/Python/comments/1j7td2q/i_built_lightweight_flexible_ai_agent_manager/)
 - [Implemented 20 RAG Techniques in a Simpler Way](https://www.reddit.com/r/Python/comments/1j7rl6o/implemented_20_rag_techniques_in_a_simpler_way/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1j7lij0/monday_daily_thread_project_ideas/)
 - [Convert python to execute file](https://www.reddit.com/r/Python/comments/1j7iiz6/convert_python_to_execute_file/)
-- [[Project] mkdocs-typer2: Automatic documentation for Typer CLI applications](https://www.reddit.com/r/Python/comments/1j7d34e/project_mkdocstyper2_automatic_documentation_for/)
-- [Creating a sampler, mixer, and recording audio to disk in Python](https://www.reddit.com/r/Python/comments/1j78nqr/creating_a_sampler_mixer_and_recording_audio_to/)
 <!-- BLOG-POST-LIST:END -->
