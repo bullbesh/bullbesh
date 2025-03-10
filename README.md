@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Implemented 20 RAG Techniques in a Simpler Way](https://www.reddit.com/r/Python/comments/1j7rl6o/implemented_20_rag_techniques_in_a_simpler_way/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1j7lij0/monday_daily_thread_project_ideas/)
 - [Convert python to execute file](https://www.reddit.com/r/Python/comments/1j7iiz6/convert_python_to_execute_file/)
 - [[Project] mkdocs-typer2: Automatic documentation for Typer CLI applications](https://www.reddit.com/r/Python/comments/1j7d34e/project_mkdocstyper2_automatic_documentation_for/)
 - [Creating a sampler, mixer, and recording audio to disk in Python](https://www.reddit.com/r/Python/comments/1j78nqr/creating_a_sampler_mixer_and_recording_audio_to/)
-- [Vehicle application charts and combining them accurately and easily](https://www.reddit.com/r/Python/comments/1j780he/vehicle_application_charts_and_combining_them/)
 <!-- BLOG-POST-LIST:END -->
