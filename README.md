@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turtle.py app to demo RGB color values](https://www.reddit.com/r/Python/comments/1j8yyc0/turtlepy_app_to_demo_rgb_color_values/)
 - [I built a simple Terminal UI for pytest, feedback welcome!](https://www.reddit.com/r/Python/comments/1j8qdqa/i_built_a_simple_terminal_ui_for_pytest_feedback/)
 - [Selling My Python Automation Software – Need Advice](https://www.reddit.com/r/Python/comments/1j8pgcn/selling_my_python_automation_software_need_advice/)
 - [Javascript and python interfacing examples](https://www.reddit.com/r/Python/comments/1j8fq15/javascript_and_python_interfacing_examples/)
 - [Waveshare e-paper &amp; Raspberry Pi &lpar;With Python3&rpar;](https://www.reddit.com/r/Python/comments/1j8f1ed/waveshare_epaper_raspberry_pi_with_python3/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1j8dhis/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
