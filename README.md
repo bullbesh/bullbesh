@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a simple Terminal UI for pytest, feedback welcome!](https://www.reddit.com/r/Python/comments/1j8qdqa/i_built_a_simple_terminal_ui_for_pytest_feedback/)
 - [Selling My Python Automation Software – Need Advice](https://www.reddit.com/r/Python/comments/1j8pgcn/selling_my_python_automation_software_need_advice/)
 - [Javascript and python interfacing examples](https://www.reddit.com/r/Python/comments/1j8fq15/javascript_and_python_interfacing_examples/)
 - [Waveshare e-paper &amp; Raspberry Pi &lpar;With Python3&rpar;](https://www.reddit.com/r/Python/comments/1j8f1ed/waveshare_epaper_raspberry_pi_with_python3/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1j8dhis/tuesday_daily_thread_advanced_questions/)
-- [What are the best linters and language servers for python?](https://www.reddit.com/r/Python/comments/1j8bd2n/what_are_the_best_linters_and_language_servers/)
 <!-- BLOG-POST-LIST:END -->
