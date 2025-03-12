@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Day2 well what i need on this day for my startup who is buiding on public](https://www.reddit.com/r/Python/comments/1j9we4c/day2_well_what_i_need_on_this_day_for_my_startup/)
 - [Will switching to importlib.metadata give performance improvements compared to importlib_metadata?](https://www.reddit.com/r/Python/comments/1j9w3ek/will_switching_to_importlibmetadata_give/)
-- [Website near completion](https://www.reddit.com/r/Python/comments/1j9ome8/website_near_completion/)
 - [ZipNN: High-Speed Compression for AI Models](https://www.reddit.com/r/Python/comments/1j9hype/zipnn_highspeed_compression_for_ai_models/)
 - [Playsmart: Put a end to writing unmaintainable E2E tests with Playwright](https://www.reddit.com/r/Python/comments/1j9g5r2/playsmart_put_a_end_to_writing_unmaintainable_e2e/)
+- [UV or PyEnv for student python teaching / python installs &lpar;linux&rpar;](https://www.reddit.com/r/Python/comments/1j9g0ii/uv_or_pyenv_for_student_python_teaching_python/)
+- [LambdaLabs: Create HTTP routes, lambdas and databases in runtime.](https://www.reddit.com/r/Python/comments/1j9fqu1/lambdalabs_create_http_routes_lambdas_and/)
 <!-- BLOG-POST-LIST:END -->
