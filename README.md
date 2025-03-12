@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ZipNN: High-Speed Compression for AI Models](https://www.reddit.com/r/Python/comments/1j9hype/zipnn_highspeed_compression_for_ai_models/)
 - [Playsmart: Put a end to writing unmaintainable E2E tests with Playwright](https://www.reddit.com/r/Python/comments/1j9g5r2/playsmart_put_a_end_to_writing_unmaintainable_e2e/)
 - [UV or PyEnv for student python teaching / python installs &lpar;linux&rpar;](https://www.reddit.com/r/Python/comments/1j9g0ii/uv_or_pyenv_for_student_python_teaching_python/)
 - [LambdaLabs: Create HTTP routes, lambdas and databases in runtime.](https://www.reddit.com/r/Python/comments/1j9fqu1/lambdalabs_create_http_routes_lambdas_and/)
 - [We launched a serverless hosting option for Python apps.](https://www.reddit.com/r/Python/comments/1j9ffai/we_launched_a_serverless_hosting_option_for/)
-- [Dbseeker project](https://www.reddit.com/r/Python/comments/1j9dg3w/dbseeker_project/)
 <!-- BLOG-POST-LIST:END -->
