@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ascii Video Player](https://www.reddit.com/r/Python/comments/1j96mku/ascii_video_player/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1j95o1i/wednesday_daily_thread_beginner_questions/)
+- [cool little dice roller i made](https://www.reddit.com/r/Python/comments/1j95n6y/cool_little_dice_roller_i_made/)
 - [I didn&#39;t want to go, but PyCharm finally drove me into the arms of VSCode, after 5+ years.](https://www.reddit.com/r/Python/comments/1j9196v/i_didnt_want_to_go_but_pycharm_finally_drove_me/)
 - [Turtle.py app to demo RGB color values](https://www.reddit.com/r/Python/comments/1j8yyc0/turtlepy_app_to_demo_rgb_color_values/)
-- [I built a simple Terminal UI for pytest, feedback welcome!](https://www.reddit.com/r/Python/comments/1j8qdqa/i_built_a_simple_terminal_ui_for_pytest_feedback/)
-- [Javascript and python interfacing examples](https://www.reddit.com/r/Python/comments/1j8fq15/javascript_and_python_interfacing_examples/)
-- [Waveshare e-paper &amp; Raspberry Pi &lpar;With Python3&rpar;](https://www.reddit.com/r/Python/comments/1j8f1ed/waveshare_epaper_raspberry_pi_with_python3/)
 <!-- BLOG-POST-LIST:END -->
