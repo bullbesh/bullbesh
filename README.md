@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [UV or PyEnv for student python teaching / python installs &lpar;linux&rpar;](https://www.reddit.com/r/Python/comments/1j9g0ii/uv_or_pyenv_for_student_python_teaching_python/)
+- [LambdaLabs: Create HTTP routes, lambdas and databases in runtime.](https://www.reddit.com/r/Python/comments/1j9fqu1/lambdalabs_create_http_routes_lambdas_and/)
+- [We launched a serverless hosting option for Python apps.](https://www.reddit.com/r/Python/comments/1j9ffai/we_launched_a_serverless_hosting_option_for/)
 - [Dbseeker project](https://www.reddit.com/r/Python/comments/1j9dg3w/dbseeker_project/)
 - [ParLlama v0.3.21 released. Now with better support for thinking models.](https://www.reddit.com/r/Python/comments/1j9azkz/parllama_v0321_released_now_with_better_support/)
-- [MVP code Structure suggestion for CLOUDWISE](https://www.reddit.com/r/Python/comments/1j987r2/mvp_code_structure_suggestion_for_cloudwise/)
-- [Ascii Video Player](https://www.reddit.com/r/Python/comments/1j96mku/ascii_video_player/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1j95o1i/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
