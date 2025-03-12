@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dbseeker project](https://www.reddit.com/r/Python/comments/1j9dg3w/dbseeker_project/)
 - [ParLlama v0.3.21 released. Now with better support for thinking models.](https://www.reddit.com/r/Python/comments/1j9azkz/parllama_v0321_released_now_with_better_support/)
 - [MVP code Structure suggestion for CLOUDWISE](https://www.reddit.com/r/Python/comments/1j987r2/mvp_code_structure_suggestion_for_cloudwise/)
 - [Ascii Video Player](https://www.reddit.com/r/Python/comments/1j96mku/ascii_video_player/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1j95o1i/wednesday_daily_thread_beginner_questions/)
-- [cool little dice roller i made](https://www.reddit.com/r/Python/comments/1j95n6y/cool_little_dice_roller_i_made/)
 <!-- BLOG-POST-LIST:END -->
