@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a job board aggregator that uses LLMs to find Python jobs with your exact stack](https://www.reddit.com/r/Python/comments/1jae3rp/i_made_a_job_board_aggregator_that_uses_llms_to/)
 - [InProgress: A Library based on the Curses Library that lives up to the name. Any thoughts?](https://www.reddit.com/r/Python/comments/1jacy4v/inprogress_a_library_based_on_the_curses_library/)
 - [Selenium time.sleep vs implicitly_wait](https://www.reddit.com/r/Python/comments/1jab6lc/selenium_timesleep_vs_implicitly_wait/)
 - [A python program that Searches, Plays Music from YouTube Directly](https://www.reddit.com/r/Python/comments/1ja8m8t/a_python_program_that_searches_plays_music_from/)
 - [Spotify Api Recommender System](https://www.reddit.com/r/Python/comments/1ja6glq/spotify_api_recommender_system/)
-- [Will you use a RAG library?](https://www.reddit.com/r/Python/comments/1ja5mlc/will_you_use_a_rag_library/)
 <!-- BLOG-POST-LIST:END -->
