@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Convert Voice to Text](https://www.reddit.com/r/Python/comments/1jappop/convert_voice_to_text/)
+- [🚀 Level-up in Python from Scratch – Ongoing Free Course on YouTube! 🐍✨](https://www.reddit.com/r/Python/comments/1japka0/levelup_in_python_from_scratch_ongoing_free/)
+- [Python Steering Council rejects PEP 736 – Shorthand syntax for keyword arguments at invocation](https://www.reddit.com/r/Python/comments/1jaorm1/python_steering_council_rejects_pep_736_shorthand/)
 - [Quest for devs interested in Python &amp; AI &amp; blockchain](https://www.reddit.com/r/Python/comments/1jao9tc/quest_for_devs_interested_in_python_ai_blockchain/)
 - [Contributing - Good First Issue](https://www.reddit.com/r/Python/comments/1jamu4e/contributing_good_first_issue/)
-- [[Project] Rusty Graph: Python Library for Knowledge Graphs from SQL Data](https://www.reddit.com/r/Python/comments/1jamelh/project_rusty_graph_python_library_for_knowledge/)
-- [I am building a technical debt quantification tool for Python frameworks -- looking for feedback](https://www.reddit.com/r/Python/comments/1jamcog/i_am_building_a_technical_debt_quantification/)
-- [Multithreaded zip compression](https://www.reddit.com/r/Python/comments/1jakf5c/multithreaded_zip_compression/)
 <!-- BLOG-POST-LIST:END -->
