@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MCP Tool Kit: The Secure Agentic Abstraction Layer &amp; Tool Kit For Building Vertical AI Agents](https://www.reddit.com/r/Python/comments/1ja01kh/mcp_tool_kit_the_secure_agentic_abstraction_layer/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1j9yry8/thursday_daily_thread_python_careers_courses_and/)
 - [Will switching to importlib.metadata give performance improvements compared to importlib_metadata?](https://www.reddit.com/r/Python/comments/1j9w3ek/will_switching_to_importlibmetadata_give/)
 - [ZipNN: High-Speed Compression for AI Models](https://www.reddit.com/r/Python/comments/1j9hype/zipnn_highspeed_compression_for_ai_models/)
 - [Playsmart: Put a end to writing unmaintainable E2E tests with Playwright](https://www.reddit.com/r/Python/comments/1j9g5r2/playsmart_put_a_end_to_writing_unmaintainable_e2e/)
-- [UV or PyEnv for student python teaching / python installs &lpar;linux&rpar;](https://www.reddit.com/r/Python/comments/1j9g0ii/uv_or_pyenv_for_student_python_teaching_python/)
-- [LambdaLabs: Create HTTP routes, lambdas and databases in runtime.](https://www.reddit.com/r/Python/comments/1j9fqu1/lambdalabs_create_http_routes_lambdas_and/)
 <!-- BLOG-POST-LIST:END -->
