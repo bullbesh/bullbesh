@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Quest for devs interested in Python &amp; AI &amp; blockchain](https://www.reddit.com/r/Python/comments/1jao9tc/quest_for_devs_interested_in_python_ai_blockchain/)
 - [Contributing - Good First Issue](https://www.reddit.com/r/Python/comments/1jamu4e/contributing_good_first_issue/)
 - [[Project] Rusty Graph: Python Library for Knowledge Graphs from SQL Data](https://www.reddit.com/r/Python/comments/1jamelh/project_rusty_graph_python_library_for_knowledge/)
 - [I am building a technical debt quantification tool for Python frameworks -- looking for feedback](https://www.reddit.com/r/Python/comments/1jamcog/i_am_building_a_technical_debt_quantification/)
 - [Multithreaded zip compression](https://www.reddit.com/r/Python/comments/1jakf5c/multithreaded_zip_compression/)
-- [Network Connector Program](https://www.reddit.com/r/Python/comments/1jaf0wa/network_connector_program/)
 <!-- BLOG-POST-LIST:END -->
