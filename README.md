@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project architecure for streamlit/Data Apps](https://www.reddit.com/r/Python/comments/1jb880y/project_architecure_for_streamlitdata_apps/)
+- [Python IPFS Demo](https://www.reddit.com/r/Python/comments/1jb82rn/python_ipfs_demo/)
 - [CocoIndex: Open source ETL to index fresh data for AI, like LEGO](https://www.reddit.com/r/Python/comments/1jb7oya/cocoindex_open_source_etl_to_index_fresh_data_for/)
 - [Programmatore Python](https://www.reddit.com/r/Python/comments/1jb6txd/programmatore_python/)
 - [Programmatore Python](https://www.reddit.com/r/Python/comments/1jb6rw0/programmatore_python/)
-- [How to reset Spyder settings from outside?](https://www.reddit.com/r/Python/comments/1jb51k5/how_to_reset_spyder_settings_from_outside/)
-- [Rate my program](https://www.reddit.com/r/Python/comments/1jb4255/rate_my_program/)
 <!-- BLOG-POST-LIST:END -->
