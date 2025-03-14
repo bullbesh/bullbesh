@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [.csv file truncates data no matter what](https://www.reddit.com/r/Python/comments/1jbemnx/csv_file_truncates_data_no_matter_what/)
 - [Server-side rendering: FastAPI, HTMX, no Jinja](https://www.reddit.com/r/Python/comments/1jbagf6/serverside_rendering_fastapi_htmx_no_jinja/)
 - [Project architecure for streamlit/Data Apps](https://www.reddit.com/r/Python/comments/1jb880y/project_architecure_for_streamlitdata_apps/)
 - [Python IPFS Demo](https://www.reddit.com/r/Python/comments/1jb82rn/python_ipfs_demo/)
 - [CocoIndex: Open source ETL to index fresh data for AI, like LEGO](https://www.reddit.com/r/Python/comments/1jb7oya/cocoindex_open_source_etl_to_index_fresh_data_for/)
-- [Programmatore Python](https://www.reddit.com/r/Python/comments/1jb6txd/programmatore_python/)
 <!-- BLOG-POST-LIST:END -->
