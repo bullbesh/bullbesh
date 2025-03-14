@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1jaqpdq/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Convert Voice to Text](https://www.reddit.com/r/Python/comments/1jappop/convert_voice_to_text/)
 - [🚀 Level-up in Python from Scratch – Ongoing Free Course on YouTube! 🐍✨](https://www.reddit.com/r/Python/comments/1japka0/levelup_in_python_from_scratch_ongoing_free/)
 - [Python Steering Council rejects PEP 736 – Shorthand syntax for keyword arguments at invocation](https://www.reddit.com/r/Python/comments/1jaorm1/python_steering_council_rejects_pep_736_shorthand/)
 - [Quest for devs interested in Python &amp; AI &amp; blockchain](https://www.reddit.com/r/Python/comments/1jao9tc/quest_for_devs_interested_in_python_ai_blockchain/)
-- [Contributing - Good First Issue](https://www.reddit.com/r/Python/comments/1jamu4e/contributing_good_first_issue/)
 <!-- BLOG-POST-LIST:END -->
