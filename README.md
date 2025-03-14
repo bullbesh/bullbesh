@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [CocoIndex: Open source ETL to index fresh data for AI, like LEGO](https://www.reddit.com/r/Python/comments/1jb7oya/cocoindex_open_source_etl_to_index_fresh_data_for/)
+- [Programmatore Python](https://www.reddit.com/r/Python/comments/1jb6txd/programmatore_python/)
+- [Programmatore Python](https://www.reddit.com/r/Python/comments/1jb6rw0/programmatore_python/)
 - [How to reset Spyder settings from outside?](https://www.reddit.com/r/Python/comments/1jb51k5/how_to_reset_spyder_settings_from_outside/)
 - [Rate my program](https://www.reddit.com/r/Python/comments/1jb4255/rate_my_program/)
-- [Matlab&#39;s variable explorer is amazing. What&#39;s pythons closest?](https://www.reddit.com/r/Python/comments/1jb1gzp/matlabs_variable_explorer_is_amazing_whats/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1jaqpdq/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Convert Voice to Text](https://www.reddit.com/r/Python/comments/1jappop/convert_voice_to_text/)
 <!-- BLOG-POST-LIST:END -->
