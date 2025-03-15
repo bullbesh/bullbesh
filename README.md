@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Malicious PyPI Packages Target Users—Cloud Tokens Stolen](https://www.reddit.com/r/Python/comments/1jbxvsw/malicious_pypi_packages_target_userscloud_tokens/)
+- [VS Code vs PyCharm](https://www.reddit.com/r/Python/comments/1jbxjux/vs_code_vs_pycharm/)
 - [Which ML packages would you recommend for the year 2025?](https://www.reddit.com/r/Python/comments/1jbwom9/which_ml_packages_would_you_recommend_for_the/)
 - [Byte Clicker - Free incremental game &lpar;Full source&rpar;](https://www.reddit.com/r/Python/comments/1jbwgwz/byte_clicker_free_incremental_game_full_source/)
 - [An Open-Source AI Assistant for Chatting with Your Developer Docs](https://www.reddit.com/r/Python/comments/1jbvk0u/an_opensource_ai_assistant_for_chatting_with_your/)
-- [Unvibe: Generate code that passes Unit-Tests](https://www.reddit.com/r/Python/comments/1jbv74v/unvibe_generate_code_that_passes_unittests/)
-- [Trying to package my appliation with pyside6-deploy](https://www.reddit.com/r/Python/comments/1jbqsio/trying_to_package_my_appliation_with_pyside6deploy/)
 <!-- BLOG-POST-LIST:END -->
