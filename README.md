@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python file handling | module 6](https://www.reddit.com/r/Python/comments/1jbpdtc/python_file_handling_module_6/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1jbi7gc/saturday_daily_thread_resource_request_and/)
 - [Python Stock Search: Gemini, Cloud, or GPT – Which One Works Best?](https://www.reddit.com/r/Python/comments/1jbf9qt/python_stock_search_gemini_cloud_or_gpt_which_one/)
 - [Server-side rendering: FastAPI, HTMX, no Jinja](https://www.reddit.com/r/Python/comments/1jbagf6/serverside_rendering_fastapi_htmx_no_jinja/)
 - [CocoIndex: Open source ETL to index fresh data for AI, like LEGO](https://www.reddit.com/r/Python/comments/1jb7oya/cocoindex_open_source_etl_to_index_fresh_data_for/)
-- [Programmatore Python](https://www.reddit.com/r/Python/comments/1jb6txd/programmatore_python/)
 <!-- BLOG-POST-LIST:END -->
