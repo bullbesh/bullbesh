@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Eventure: A Powerful Event-Driven Framework for Python](https://www.reddit.com/r/Python/comments/1jchkuc/introducing_eventure_a_powerful_eventdriven/)
 - [A Very Early Play With Astral&#39;s Red Knot Static Type Checker](https://www.reddit.com/r/Python/comments/1jcgh0o/a_very_early_play_with_astrals_red_knot_static/)
 - [Stereo-Hands: Stereo panning on the basis of hand gestures &lpar; Hand control music in 3D &rpar;](https://www.reddit.com/r/Python/comments/1jcean2/stereohands_stereo_panning_on_the_basis_of_hand/)
 - [Driver Fatigue Monitoring](https://www.reddit.com/r/Python/comments/1jca2ny/driver_fatigue_monitoring/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1jc8qu4/sunday_daily_thread_whats_everyone_working_on/)
-- [I built a pytes plugin that compile Gherkin scenario to AST and run them.](https://www.reddit.com/r/Python/comments/1jc6mac/i_built_a_pytes_plugin_that_compile_gherkin/)
 <!-- BLOG-POST-LIST:END -->
