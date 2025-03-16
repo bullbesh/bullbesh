@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Release] tkinter-embed: Install Tkinter for Windows Embedded Python via pip](https://www.reddit.com/r/Python/comments/1jcnbtx/release_tkinterembed_install_tkinter_for_windows/)
 - [Polars Plugin for List-type utils and signal processing](https://www.reddit.com/r/Python/comments/1jci6px/polars_plugin_for_listtype_utils_and_signal/)
 - [Reminder that you can use the filesystem as a temp datastore for your API](https://www.reddit.com/r/Python/comments/1jchquh/reminder_that_you_can_use_the_filesystem_as_a/)
 - [Introducing Eventure: A Powerful Event-Driven Framework for Python](https://www.reddit.com/r/Python/comments/1jchkuc/introducing_eventure_a_powerful_eventdriven/)
 - [A Very Early Play With Astral&#39;s Red Knot Static Type Checker](https://www.reddit.com/r/Python/comments/1jcgh0o/a_very_early_play_with_astrals_red_knot_static/)
-- [Stereo-Hands: Stereo panning on the basis of hand gestures &lpar; Hand control music in 3D &rpar;](https://www.reddit.com/r/Python/comments/1jcean2/stereohands_stereo_panning_on_the_basis_of_hand/)
 <!-- BLOG-POST-LIST:END -->
