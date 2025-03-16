@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Lihil — a web framework created to promote Python as a first choice enterprise web development](https://www.reddit.com/r/Python/comments/1jcoryg/lihil_a_web_framework_created_to_promote_python/)
+- [Lihil — a web framework created to promote Python as a first choice enterprise web development](https://www.reddit.com/r/Python/comments/1jcppj0/lihil_a_web_framework_created_to_promote_python/)
 - [[Release] tkinter-embed: Install Tkinter for Windows Embedded Python via pip](https://www.reddit.com/r/Python/comments/1jcnbtx/release_tkinterembed_install_tkinter_for_windows/)
 - [Polars Plugin for List-type utils and signal processing](https://www.reddit.com/r/Python/comments/1jci6px/polars_plugin_for_listtype_utils_and_signal/)
 - [Reminder that you can use the filesystem as a temp datastore for your API](https://www.reddit.com/r/Python/comments/1jchquh/reminder_that_you_can_use_the_filesystem_as_a/)
