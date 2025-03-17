@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ETL completa com Python: Validando Dados e Planilhas de Excel para BI &lpar;Projeto end-to-end!&rpar;](https://www.reddit.com/r/Python/comments/1jdkn65/etl_completa_com_python_validando_dados_e/)
 - [Python for Crypto Trading Automation](https://www.reddit.com/r/Python/comments/1jdghvv/python_for_crypto_trading_automation/)
 - [Are there any free websites that let you run Python and keep the session for FREE?](https://www.reddit.com/r/Python/comments/1jde9ej/are_there_any_free_websites_that_let_you_run/)
 - [Best practices for handling third-party API credentials](https://www.reddit.com/r/Python/comments/1jdb9fu/best_practices_for_handling_thirdparty_api/)
 - [Astrophysics - Earth&#39;s gravitational influence](https://www.reddit.com/r/Python/comments/1jd9vp0/astrophysics_earths_gravitational_influence/)
-- [PCEP cert for college applications](https://www.reddit.com/r/Python/comments/1jd9jpm/pcep_cert_for_college_applications/)
 <!-- BLOG-POST-LIST:END -->
