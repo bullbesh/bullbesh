@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [uv starting to overtake Poetry in package download](https://www.reddit.com/r/Python/comments/1jd7nhh/uv_starting_to_overtake_poetry_in_package_download/)
 - [Doubt in alphabet shifting code](https://www.reddit.com/r/Python/comments/1jd70p6/doubt_in_alphabet_shifting_code/)
 - [Introducing Aurras - A Fast, Feature-Rich Terminal Music Player &lpar;Spotify, YouTube, Offline, TUI/CLI&rpar;](https://www.reddit.com/r/Python/comments/1jd5o5s/introducing_aurras_a_fast_featurerich_terminal/)
 - [Managing local vs cloud LLMs in Python – my solution &amp; looking for feedback](https://www.reddit.com/r/Python/comments/1jd3io0/managing_local_vs_cloud_llms_in_python_my/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1jczjes/monday_daily_thread_project_ideas/)
-- [Basic Memory: A Python-based Local-First Knowledge Graph for LLMs](https://www.reddit.com/r/Python/comments/1jctt1v/basic_memory_a_pythonbased_localfirst_knowledge/)
 <!-- BLOG-POST-LIST:END -->
