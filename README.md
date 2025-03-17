@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best practices for handling third-party API credentials](https://www.reddit.com/r/Python/comments/1jdb9fu/best_practices_for_handling_thirdparty_api/)
 - [Astrophysics - Earth&#39;s gravitational influence](https://www.reddit.com/r/Python/comments/1jd9vp0/astrophysics_earths_gravitational_influence/)
 - [PCEP cert for college applications](https://www.reddit.com/r/Python/comments/1jd9jpm/pcep_cert_for_college_applications/)
 - [Which is the best platform to learn coding and get certificate and practice?](https://www.reddit.com/r/Python/comments/1jd89g1/which_is_the_best_platform_to_learn_coding_and/)
 - [uv starting to overtake Poetry in package download](https://www.reddit.com/r/Python/comments/1jd7nhh/uv_starting_to_overtake_poetry_in_package_download/)
-- [Doubt in alphabet shifting code](https://www.reddit.com/r/Python/comments/1jd70p6/doubt_in_alphabet_shifting_code/)
 <!-- BLOG-POST-LIST:END -->
