@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Regex for user-friendly timedelta parsing](https://www.reddit.com/r/Python/comments/1je0ely/regex_for_userfriendly_timedelta_parsing/)
+- [Looking to work in a project as a Dev](https://www.reddit.com/r/Python/comments/1je0am0/looking_to_work_in_a_project_as_a_dev/)
 - [What is the convention for __ and _ when it comes to OOP?](https://www.reddit.com/r/Python/comments/1jdtab6/what_is_the_convention_for_and_when_it_comes_to/)
 - [I wrote a script to simulate this years March Madness](https://www.reddit.com/r/Python/comments/1jdsi9u/i_wrote_a_script_to_simulate_this_years_march/)
 - [str2speech: A wrapper for all the new TTS models being released](https://www.reddit.com/r/Python/comments/1jdrvwy/str2speech_a_wrapper_for_all_the_new_tts_models/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1jdrtck/tuesday_daily_thread_advanced_questions/)
-- [What are the benefits of uninstalling python packages from your system](https://www.reddit.com/r/Python/comments/1jdqfql/what_are_the_benefits_of_uninstalling_python/)
 <!-- BLOG-POST-LIST:END -->
