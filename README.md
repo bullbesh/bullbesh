@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the convention for __ and _ when it comes to OOP?](https://www.reddit.com/r/Python/comments/1jdtab6/what_is_the_convention_for_and_when_it_comes_to/)
+- [I wrote a script to simulate this years March Madness](https://www.reddit.com/r/Python/comments/1jdsi9u/i_wrote_a_script_to_simulate_this_years_march/)
+- [str2speech: A wrapper for all the new TTS models being released](https://www.reddit.com/r/Python/comments/1jdrvwy/str2speech_a_wrapper_for_all_the_new_tts_models/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1jdrtck/tuesday_daily_thread_advanced_questions/)
 - [What are the benefits of uninstalling python packages from your system](https://www.reddit.com/r/Python/comments/1jdqfql/what_are_the_benefits_of_uninstalling_python/)
-- [Create WebAssembly-powered Python notebooks](https://www.reddit.com/r/Python/comments/1jdpqah/create_webassemblypowered_python_notebooks/)
-- [I built a pre-commit hook that enforces code coverage thresholds](https://www.reddit.com/r/Python/comments/1jdmrez/i_built_a_precommit_hook_that_enforces_code/)
-- [ETL completa com Python: Validando Dados e Planilhas de Excel para BI &lpar;Projeto end-to-end!&rpar;](https://www.reddit.com/r/Python/comments/1jdkn65/etl_completa_com_python_validando_dados_e/)
-- [Python for Crypto Trading Automation](https://www.reddit.com/r/Python/comments/1jdghvv/python_for_crypto_trading_automation/)
 <!-- BLOG-POST-LIST:END -->
