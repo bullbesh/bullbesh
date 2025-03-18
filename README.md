@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sprite Toolz - Sprite sheet manipulation tool suite](https://www.reddit.com/r/Python/comments/1jec1ag/sprite_toolz_sprite_sheet_manipulation_tool_suite/)
 - [Python Quirks I Secretly Like](https://www.reddit.com/r/Python/comments/1je98cv/python_quirks_i_secretly_like/)
 - [PySide6 + Nuitka is very impressive &lpar;some numbers and feedback inside&rpar;](https://www.reddit.com/r/Python/comments/1je94cf/pyside6_nuitka_is_very_impressive_some_numbers/)
 - [🏆 100 Most Watched Python Talks Of 2024](https://www.reddit.com/r/Python/comments/1je8yd0/100_most_watched_python_talks_of_2024/)
 - [Frustrating anaconda !!!](https://www.reddit.com/r/Python/comments/1je8c84/frustrating_anaconda/)
-- [Tool for managing X11 Compose key sequences &lpar;+ a very extensive .XCompose file&rpar;](https://www.reddit.com/r/Python/comments/1je613a/tool_for_managing_x11_compose_key_sequences_a/)
 <!-- BLOG-POST-LIST:END -->
