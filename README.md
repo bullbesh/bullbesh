@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Anki browse not working](https://www.reddit.com/r/Python/comments/1jerzir/anki_browse_not_working/)
-- [A Task classification and Target extraction tool using spacy and FAISS](https://www.reddit.com/r/Python/comments/1jeqqhw/a_task_classification_and_target_extraction_tool/)
-- [Run a local copy of IMDB](https://www.reddit.com/r/Python/comments/1jendxu/run_a_local_copy_of_imdb/)
-- [Class vs Instance Variable Madness](https://www.reddit.com/r/Python/comments/1jem189/class_vs_instance_variable_madness/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1jejwwv/wednesday_daily_thread_beginner_questions/)
+- [Looking for a Coding Partner 🐍](https://www.reddit.com/r/Python/comments/1jesxfl/looking_for_a_coding_partner/)
+- [Triton &lpar;V3.2.0&rpar; Windows Native Build – NVIDIA Exclusive](https://www.reddit.com/r/Python/comments/1jessx4/triton_v320_windows_native_build_nvidia_exclusive/)
+- [PowerShellPython - Bolster Python building and installing and in general](https://www.reddit.com/r/Python/comments/1jeskjr/powershellpython_bolster_python_building_and/)
+- [Searching for a Coding Partner](https://www.reddit.com/r/Python/comments/1jesga2/searching_for_a_coding_partner/)
+- [🚀 PowerShellPython: Overcoming CMD’s Context Length Limits for Flash-Attn &amp; XFormers Installs!](https://www.reddit.com/r/Python/comments/1jese5y/powershellpython_overcoming_cmds_context_length/)
 <!-- BLOG-POST-LIST:END -->
