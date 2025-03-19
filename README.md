@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project] OrChat: A CLI tool for chatting with AI models through OpenRouter](https://www.reddit.com/r/Python/comments/1jevd6v/project_orchat_a_cli_tool_for_chatting_with_ai/)
 - [Looking for a Coding Partner 🐍](https://www.reddit.com/r/Python/comments/1jesxfl/looking_for_a_coding_partner/)
 - [Triton &lpar;V3.2.0&rpar; Windows Native Build – NVIDIA Exclusive](https://www.reddit.com/r/Python/comments/1jessx4/triton_v320_windows_native_build_nvidia_exclusive/)
 - [PowerShellPython - Bolster Python building and installing and in general](https://www.reddit.com/r/Python/comments/1jeskjr/powershellpython_bolster_python_building_and/)
 - [Searching for a Coding Partner](https://www.reddit.com/r/Python/comments/1jesga2/searching_for_a_coding_partner/)
-- [🚀 PowerShellPython: Overcoming CMD’s Context Length Limits for Flash-Attn &amp; XFormers Installs!](https://www.reddit.com/r/Python/comments/1jese5y/powershellpython_overcoming_cmds_context_length/)
 <!-- BLOG-POST-LIST:END -->
