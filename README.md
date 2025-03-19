@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Class vs Instance Variable Madness](https://www.reddit.com/r/Python/comments/1jem189/class_vs_instance_variable_madness/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1jejwwv/wednesday_daily_thread_beginner_questions/)
+- [playsound3 - multi-platform library to play sounds &lpar;more reliably!&rpar;](https://www.reddit.com/r/Python/comments/1jejl4y/playsound3_multiplatform_library_to_play_sounds/)
 - [Sprite Toolz - Sprite sheet manipulation tool suite](https://www.reddit.com/r/Python/comments/1jec1ag/sprite_toolz_sprite_sheet_manipulation_tool_suite/)
 - [Python Quirks I Secretly Like](https://www.reddit.com/r/Python/comments/1je98cv/python_quirks_i_secretly_like/)
-- [PySide6 + Nuitka is very impressive &lpar;some numbers and feedback inside&rpar;](https://www.reddit.com/r/Python/comments/1je94cf/pyside6_nuitka_is_very_impressive_some_numbers/)
-- [🏆 100 Most Watched Python Talks Of 2024](https://www.reddit.com/r/Python/comments/1je8yd0/100_most_watched_python_talks_of_2024/)
-- [Frustrating anaconda !!!](https://www.reddit.com/r/Python/comments/1je8c84/frustrating_anaconda/)
 <!-- BLOG-POST-LIST:END -->
