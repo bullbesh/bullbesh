@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do NOT Use Udemy, Please](https://www.reddit.com/r/Python/comments/1jfy35s/do_not_use_udemy_please/)
+- [Janito, an open source code assistance](https://www.reddit.com/r/Python/comments/1jfxnr9/janito_an_open_source_code_assistance/)
 - [pnorm: A Simple, Explicit Way to Interact with Postgres](https://www.reddit.com/r/Python/comments/1jfuqab/pnorm_a_simple_explicit_way_to_interact_with/)
 - [How to Use Async Agnostic Decorators in Python](https://www.reddit.com/r/Python/comments/1jfpt7q/how_to_use_async_agnostic_decorators_in_python/)
 - [Playa PDF: A strong pdfminer successor](https://www.reddit.com/r/Python/comments/1jfk466/playa_pdf_a_strong_pdfminer_successor/)
-- [My discord bot crashes Idk why. I&#39;ve been working on it 15 hours already, please.](https://www.reddit.com/r/Python/comments/1jfk16j/my_discord_bot_crashes_idk_why_ive_been_working/)
-- [Interactive Python Learning Series: From Numbers to Exceptions](https://www.reddit.com/r/Python/comments/1jfjmf3/interactive_python_learning_series_from_numbers/)
 <!-- BLOG-POST-LIST:END -->
