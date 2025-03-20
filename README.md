@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1jfbrhk/thursday_daily_thread_python_careers_courses_and/)
+- [Python multi-threaded downloader for faster large file downloads](https://www.reddit.com/r/Python/comments/1jfbkb2/python_multithreaded_downloader_for_faster_large/)
 - [A Feature-rich Flask Web Application Template](https://www.reddit.com/r/Python/comments/1jf9ovo/a_featurerich_flask_web_application_template/)
 - [Satisfiability problem solver in pure Python](https://www.reddit.com/r/Python/comments/1jf8e5c/satisfiability_problem_solver_in_pure_python/)
 - [Any good Python resume projects that AREN&#39;T machine learning?](https://www.reddit.com/r/Python/comments/1jf4ce2/any_good_python_resume_projects_that_arent/)
-- [Is there something better than exceptions?](https://www.reddit.com/r/Python/comments/1jf3p1y/is_there_something_better_than_exceptions/)
-- [AutoML , what are your thoughts about it wanted to learn more about the same](https://www.reddit.com/r/Python/comments/1jf1r1a/automl_what_are_your_thoughts_about_it_wanted_to/)
 <!-- BLOG-POST-LIST:END -->
