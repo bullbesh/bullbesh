@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Playa PDF: A strong pdfminer successor](https://www.reddit.com/r/Python/comments/1jfk466/playa_pdf_a_strong_pdfminer_successor/)
+- [My discord bot crashes Idk why. I&#39;ve been working on it 15 hours already, please.](https://www.reddit.com/r/Python/comments/1jfk16j/my_discord_bot_crashes_idk_why_ive_been_working/)
+- [Interactive Python Learning Series: From Numbers to Exceptions](https://www.reddit.com/r/Python/comments/1jfjmf3/interactive_python_learning_series_from_numbers/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1jfbrhk/thursday_daily_thread_python_careers_courses_and/)
 - [A Feature-rich Flask Web Application Template](https://www.reddit.com/r/Python/comments/1jf9ovo/a_featurerich_flask_web_application_template/)
-- [Satisfiability problem solver in pure Python](https://www.reddit.com/r/Python/comments/1jf8e5c/satisfiability_problem_solver_in_pure_python/)
-- [Any good Python resume projects that AREN&#39;T machine learning?](https://www.reddit.com/r/Python/comments/1jf4ce2/any_good_python_resume_projects_that_arent/)
-- [Is there something better than exceptions?](https://www.reddit.com/r/Python/comments/1jf3p1y/is_there_something_better_than_exceptions/)
 <!-- BLOG-POST-LIST:END -->
