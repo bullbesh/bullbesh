@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fast Python ASCII Player can use webcam, local video and stream youtube directly into your terminal!](https://www.reddit.com/r/Python/comments/1jhb1k7/fast_python_ascii_player_can_use_webcam_local/)
 - [&lpar;Update&rpar; Generative AI project template &lpar;it now includes Ollama&rpar;](https://www.reddit.com/r/Python/comments/1jhanvp/update_generative_ai_project_template_it_now/)
 - [After yesterday confusion, here is the URL of a file that solves perfectly the knapsack problem.](https://www.reddit.com/r/Python/comments/1jh8q9y/after_yesterday_confusion_here_is_the_url_of_a/)
 - [Python Data model and Data Science Tutorials](https://www.reddit.com/r/Python/comments/1jh6tux/python_data_model_and_data_science_tutorials/)
 - [Lihil — a high performance modern web framework for enterprise web development in python](https://www.reddit.com/r/Python/comments/1jh6rt4/lihil_a_high_performance_modern_web_framework_for/)
-- [reaktiv: the reactive programming lib I wish I had 5 years ago](https://www.reddit.com/r/Python/comments/1jh6ghl/reaktiv_the_reactive_programming_lib_i_wish_i_had/)
 <!-- BLOG-POST-LIST:END -->
