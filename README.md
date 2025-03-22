@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Module 7 is out guys!!](https://www.reddit.com/r/Python/comments/1jheuwr/module_7_is_out_guys/)
+- [Mobile Application](https://www.reddit.com/r/Python/comments/1jhef4w/mobile_application/)
+- [XCode &amp; Python? vs Anaconda w/ Jupyter Notebook](https://www.reddit.com/r/Python/comments/1jheeuw/xcode_python_vs_anaconda_w_jupyter_notebook/)
+- [Introducing markupy: generating HTML in pure Python](https://www.reddit.com/r/Python/comments/1jhe21l/introducing_markupy_generating_html_in_pure_python/)
 - [Fast Python ASCII Player can use webcam, local video and stream youtube directly into your terminal!](https://www.reddit.com/r/Python/comments/1jhb1k7/fast_python_ascii_player_can_use_webcam_local/)
-- [&lpar;Update&rpar; Generative AI project template &lpar;it now includes Ollama&rpar;](https://www.reddit.com/r/Python/comments/1jhanvp/update_generative_ai_project_template_it_now/)
-- [After yesterday confusion, here is the URL of a file that solves perfectly the knapsack problem.](https://www.reddit.com/r/Python/comments/1jh8q9y/after_yesterday_confusion_here_is_the_url_of_a/)
-- [Python Data model and Data Science Tutorials](https://www.reddit.com/r/Python/comments/1jh6tux/python_data_model_and_data_science_tutorials/)
-- [Lihil — a high performance modern web framework for enterprise web development in python](https://www.reddit.com/r/Python/comments/1jh6rt4/lihil_a_high_performance_modern_web_framework_for/)
 <!-- BLOG-POST-LIST:END -->
