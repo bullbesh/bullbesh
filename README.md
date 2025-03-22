@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MyPy, BasedMypy, Pyright, BasedPyright and IDE support](https://www.reddit.com/r/Python/comments/1jhiwne/mypy_basedmypy_pyright_basedpyright_and_ide/)
 - [Module 7 is out guys!!](https://www.reddit.com/r/Python/comments/1jheuwr/module_7_is_out_guys/)
 - [Mobile Application](https://www.reddit.com/r/Python/comments/1jhef4w/mobile_application/)
 - [XCode &amp; Python? vs Anaconda w/ Jupyter Notebook](https://www.reddit.com/r/Python/comments/1jheeuw/xcode_python_vs_anaconda_w_jupyter_notebook/)
 - [Introducing markupy: generating HTML in pure Python](https://www.reddit.com/r/Python/comments/1jhe21l/introducing_markupy_generating_html_in_pure_python/)
-- [Fast Python ASCII Player can use webcam, local video and stream youtube directly into your terminal!](https://www.reddit.com/r/Python/comments/1jhb1k7/fast_python_ascii_player_can_use_webcam_local/)
 <!-- BLOG-POST-LIST:END -->
