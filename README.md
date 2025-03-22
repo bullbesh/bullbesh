@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Little h*elp needed, thanks](https://www.reddit.com/r/Python/comments/1jgysat/little_help_needed_thanks/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1jgveqp/saturday_daily_thread_resource_request_and/)
 - [Turtle graphics not working with Mac Sequoia. Running Python 3.12.9](https://www.reddit.com/r/Python/comments/1jgvbsc/turtle_graphics_not_working_with_mac_sequoia/)
 - [Using Polars as a Vector Store - Can a Dataframe library compete?](https://www.reddit.com/r/Python/comments/1jgtjnr/using_polars_as_a_vector_store_can_a_dataframe/)
 - [Need advice building an app](https://www.reddit.com/r/Python/comments/1jgm232/need_advice_building_an_app/)
-- [knapsack solver](https://www.reddit.com/r/Python/comments/1jgkuye/knapsack_solver/)
 <!-- BLOG-POST-LIST:END -->
