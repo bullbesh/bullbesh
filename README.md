@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best way to handle concurrency in Python for a micro-benchmark ? &lpar;not threading&rpar;](https://www.reddit.com/r/Python/comments/1jhn4fo/best_way_to_handle_concurrency_in_python_for_a/)
+- [Is this python project good for my resume or for college](https://www.reddit.com/r/Python/comments/1jhmk75/is_this_python_project_good_for_my_resume_or_for/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1jhmdi1/sunday_daily_thread_whats_everyone_working_on/)
 - [Efficient Python Programming: A Guide to Threads and Multiprocessing](https://www.reddit.com/r/Python/comments/1jhkhq5/efficient_python_programming_a_guide_to_threads/)
 - [MyPy, BasedMypy, Pyright, BasedPyright and IDE support](https://www.reddit.com/r/Python/comments/1jhiwne/mypy_basedmypy_pyright_basedpyright_and_ide/)
-- [Module 7 is out guys!!](https://www.reddit.com/r/Python/comments/1jheuwr/module_7_is_out_guys/)
-- [Mobile Application](https://www.reddit.com/r/Python/comments/1jhef4w/mobile_application/)
-- [XCode &amp; Python? vs Anaconda w/ Jupyter Notebook](https://www.reddit.com/r/Python/comments/1jheeuw/xcode_python_vs_anaconda_w_jupyter_notebook/)
 <!-- BLOG-POST-LIST:END -->
