@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Machine Learning is Shaking Up Finance?](https://www.reddit.com/r/Python/comments/1jijgm2/why_machine_learning_is_shaking_up_finance/)
 - [Arkalos Beta 3 with Google Extractor is Released - Modern Python Framework](https://www.reddit.com/r/Python/comments/1jidoz9/arkalos_beta_3_with_google_extractor_is_released/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1jidmi9/monday_daily_thread_project_ideas/)
 - [Created an application that can automatically create clips from videos](https://www.reddit.com/r/Python/comments/1jicj6c/created_an_application_that_can_automatically/)
 - [Problem: &quot;Give a largest subset of students without enemy in the subset&quot; solver](https://www.reddit.com/r/Python/comments/1jiaaie/problem_give_a_largest_subset_of_students_without/)
+- [Announcing Kreuzberg V3.0.0](https://www.reddit.com/r/Python/comments/1ji2x08/announcing_kreuzberg_v300/)
 <!-- BLOG-POST-LIST:END -->
