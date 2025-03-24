@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setuptools 78.0.1 breaks the internet](https://www.reddit.com/r/Python/comments/1jiy2sm/setuptools_7801_breaks_the_internet/)
 - [Find all substrings](https://www.reddit.com/r/Python/comments/1jiur3r/find_all_substrings/)
 - [Cocommit: A Copilot for Git commit command](https://www.reddit.com/r/Python/comments/1jiplpp/cocommit_a_copilot_for_git_commit_command/)
 - [safe-result: A Rust-inspired Result type for Python to handle errors without try/catch](https://www.reddit.com/r/Python/comments/1jimiz0/saferesult_a_rustinspired_result_type_for_python/)
 - [Wireup 1.0 Released - Performant, concise and type-safe Dependency Injection for Modern Python 🚀](https://www.reddit.com/r/Python/comments/1jimec9/wireup_10_released_performant_concise_and/)
-- [Issue with Automating ChatGPT – Second Prompt Not Responding Until I Am Not Clicking Chrome On Tab](https://www.reddit.com/r/Python/comments/1jilmvc/issue_with_automating_chatgpt_second_prompt_not/)
 <!-- BLOG-POST-LIST:END -->
