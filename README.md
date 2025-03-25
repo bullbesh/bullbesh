@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beesistant- a talking identification key](https://www.reddit.com/r/Python/comments/1jjv04p/beesistant_a_talking_identification_key/)
 - [DRF + Next.js Web App](https://www.reddit.com/r/Python/comments/1jjsbw2/drf_nextjs_web_app/)
 - [New project - D&amp;D AI powered game](https://www.reddit.com/r/Python/comments/1jjrq8d/new_project_dd_ai_powered_game/)
 - [Building an ATS Resume Scanner with FastAPI and Angular - &lt;FrontBackGeek/&gt;](https://www.reddit.com/r/Python/comments/1jjnco9/building_an_ats_resume_scanner_with_fastapi_and/)
 - [Should I take aspose.words or any other alternatives ?](https://www.reddit.com/r/Python/comments/1jjmat0/should_i_take_asposewords_or_any_other/)
-- [Bugsink: Self-Hosted Error Tracking &lpar;written in Python&rpar;](https://www.reddit.com/r/Python/comments/1jjeaxg/bugsink_selfhosted_error_tracking_written_in/)
 <!-- BLOG-POST-LIST:END -->
