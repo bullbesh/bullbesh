@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [WinSTT – Portable, Fast &amp; Accurate Desktop Speech-to-Text Tool for Windows 🎤💻](https://www.reddit.com/r/Python/comments/1jj95re/winstt_portable_fast_accurate_desktop/)
+- [odmantic-fernet-field-type 0.0.2. - EncryptedString Field Type with Fernet encryption](https://www.reddit.com/r/Python/comments/1jj8kic/odmanticfernetfieldtype_002_encryptedstring_field/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1jj6387/tuesday_daily_thread_advanced_questions/)
 - [datamule-python: process securities and exchanges commission data at scale](https://www.reddit.com/r/Python/comments/1jj231k/datamulepython_process_securities_and_exchanges/)
 - [Setuptools 78.0.1 breaks the internet](https://www.reddit.com/r/Python/comments/1jiy2sm/setuptools_7801_breaks_the_internet/)
-- [Find all substrings](https://www.reddit.com/r/Python/comments/1jiur3r/find_all_substrings/)
-- [Cocommit: A Copilot for Git commit command](https://www.reddit.com/r/Python/comments/1jiplpp/cocommit_a_copilot_for_git_commit_command/)
 <!-- BLOG-POST-LIST:END -->
