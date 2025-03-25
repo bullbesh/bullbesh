@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Just released a CLI tool to convert messy Apple/iCloud/Outlook vCards to CSV — handles much](https://www.reddit.com/r/Python/comments/1jjeb4g/just_released_a_cli_tool_to_convert_messy/)
 - [Bugsink: Self-Hosted Error Tracking &lpar;written in Python&rpar;](https://www.reddit.com/r/Python/comments/1jjeaxg/bugsink_selfhosted_error_tracking_written_in/)
 - [WinSTT – Portable, Fast &amp; Accurate Desktop Speech-to-Text Tool for Windows 🎤💻](https://www.reddit.com/r/Python/comments/1jj95re/winstt_portable_fast_accurate_desktop/)
 - [odmantic-fernet-field-type 0.0.2. - EncryptedString Field Type with Fernet encryption](https://www.reddit.com/r/Python/comments/1jj8kic/odmanticfernetfieldtype_002_encryptedstring_field/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1jj6387/tuesday_daily_thread_advanced_questions/)
+- [datamule-python: process securities and exchanges commission data at scale](https://www.reddit.com/r/Python/comments/1jj231k/datamulepython_process_securities_and_exchanges/)
 <!-- BLOG-POST-LIST:END -->
