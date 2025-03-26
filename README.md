@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the place to learn everything there is to need to learn about robot framework automation?](https://www.reddit.com/r/Python/comments/1jkpegt/what_is_the_place_to_learn_everything_there_is_to/)
 - [excel-serializer: dump/load nested Python data to/from Excel without flattening](https://www.reddit.com/r/Python/comments/1jkkjvw/excelserializer_dumpload_nested_python_data/)
 - [Selenium automatization](https://www.reddit.com/r/Python/comments/1jkihhi/selenium_automatization/)
 - [Python in a Minute](https://www.reddit.com/r/Python/comments/1jkhrcj/python_in_a_minute/)
 - [Automatic X reply bot?](https://www.reddit.com/r/Python/comments/1jkb33q/automatic_x_reply_bot/)
-- [Volga - Real-Time Data Processing Engine for AI/ML](https://www.reddit.com/r/Python/comments/1jk9zsu/volga_realtime_data_processing_engine_for_aiml/)
 <!-- BLOG-POST-LIST:END -->
