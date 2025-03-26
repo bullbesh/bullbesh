@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Selenium automatization](https://www.reddit.com/r/Python/comments/1jkihhi/selenium_automatization/)
+- [Python in a Minute](https://www.reddit.com/r/Python/comments/1jkhrcj/python_in_a_minute/)
 - [Automatic X reply bot?](https://www.reddit.com/r/Python/comments/1jkb33q/automatic_x_reply_bot/)
 - [Volga - Real-Time Data Processing Engine for AI/ML](https://www.reddit.com/r/Python/comments/1jk9zsu/volga_realtime_data_processing_engine_for_aiml/)
 - [Do you want some BUTTER?&lpar;tkbutter package&rpar;](https://www.reddit.com/r/Python/comments/1jk9job/do_you_want_some_buttertkbutter_package/)
-- [[UPDATE] safe-result 3.0: Now with Pattern Matching, Type Guards, and Way Better API Design](https://www.reddit.com/r/Python/comments/1jk6rex/update_saferesult_30_now_with_pattern_matching/)
-- [Safeguards for the AI Brain - Now Open Source, Free and Self-hostable!](https://www.reddit.com/r/Python/comments/1jk696d/safeguards_for_the_ai_brain_now_open_source_free/)
 <!-- BLOG-POST-LIST:END -->
