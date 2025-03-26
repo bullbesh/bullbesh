@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [DocDog: MCP wrapper for documentation](https://www.reddit.com/r/Python/comments/1jk144z/docdog_mcp_wrapper_for_documentation/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1jjyfqx/wednesday_daily_thread_beginner_questions/)
 - [Python releases are so fast.](https://www.reddit.com/r/Python/comments/1jjxrxk/python_releases_are_so_fast/)
 - [Beesistant- a talking identification key](https://www.reddit.com/r/Python/comments/1jjv04p/beesistant_a_talking_identification_key/)
 - [DRF + Next.js Web App](https://www.reddit.com/r/Python/comments/1jjsbw2/drf_nextjs_web_app/)
-- [New project - D&amp;D AI powered game](https://www.reddit.com/r/Python/comments/1jjrq8d/new_project_dd_ai_powered_game/)
 <!-- BLOG-POST-LIST:END -->
