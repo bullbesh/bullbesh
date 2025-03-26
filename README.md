@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pandas python function that contains entries simultaneously based on both criteria](https://www.reddit.com/r/Python/comments/1jkle00/pandas_python_function_that_contains_entries/)
+- [excel-serializer: dump/load nested Python data to/from Excel without flattening](https://www.reddit.com/r/Python/comments/1jkkjvw/excelserializer_dumpload_nested_python_data/)
 - [Selenium automatization](https://www.reddit.com/r/Python/comments/1jkihhi/selenium_automatization/)
 - [Python in a Minute](https://www.reddit.com/r/Python/comments/1jkhrcj/python_in_a_minute/)
 - [Automatic X reply bot?](https://www.reddit.com/r/Python/comments/1jkb33q/automatic_x_reply_bot/)
-- [Volga - Real-Time Data Processing Engine for AI/ML](https://www.reddit.com/r/Python/comments/1jk9zsu/volga_realtime_data_processing_engine_for_aiml/)
-- [Do you want some BUTTER?&lpar;tkbutter package&rpar;](https://www.reddit.com/r/Python/comments/1jk9job/do_you_want_some_buttertkbutter_package/)
 <!-- BLOG-POST-LIST:END -->
