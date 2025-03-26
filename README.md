@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data presentation](https://www.reddit.com/r/Python/comments/1jk5xqn/data_presentation/)
 - [Konda - The Easiest Way to Use Conda in Google Colab 🚀🐍](https://www.reddit.com/r/Python/comments/1jk2ugp/konda_the_easiest_way_to_use_conda_in_google_colab/)
 - [DocDog: MCP wrapper for documentation](https://www.reddit.com/r/Python/comments/1jk144z/docdog_mcp_wrapper_for_documentation/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1jjyfqx/wednesday_daily_thread_beginner_questions/)
 - [Python releases are so fast.](https://www.reddit.com/r/Python/comments/1jjxrxk/python_releases_are_so_fast/)
-- [Beesistant- a talking identification key](https://www.reddit.com/r/Python/comments/1jjv04p/beesistant_a_talking_identification_key/)
 <!-- BLOG-POST-LIST:END -->
