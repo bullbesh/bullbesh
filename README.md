@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get started in 2025 on a Win11 machine? &lpar;Environment META&rpar;](https://www.reddit.com/r/Python/comments/1jk7nnn/how_to_get_started_in_2025_on_a_win11_machine/)
 - [[UPDATE] safe-result 3.0: Now with Pattern Matching, Type Guards, and Way Better API Design](https://www.reddit.com/r/Python/comments/1jk6rex/update_saferesult_30_now_with_pattern_matching/)
 - [Safeguards for the AI Brain - Now Open Source, Free and Self-hostable!](https://www.reddit.com/r/Python/comments/1jk696d/safeguards_for_the_ai_brain_now_open_source_free/)
 - [Data presentation](https://www.reddit.com/r/Python/comments/1jk5xqn/data_presentation/)
 - [Konda - The Easiest Way to Use Conda in Google Colab 🚀🐍](https://www.reddit.com/r/Python/comments/1jk2ugp/konda_the_easiest_way_to_use_conda_in_google_colab/)
-- [DocDog: MCP wrapper for documentation](https://www.reddit.com/r/Python/comments/1jk144z/docdog_mcp_wrapper_for_documentation/)
 <!-- BLOG-POST-LIST:END -->
