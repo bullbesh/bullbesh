@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SOLANA NETWORK NEW COIN SCAN &amp; FILTER PROJECT](https://www.reddit.com/r/Python/comments/1jl1g9a/solana_network_new_coin_scan_filter_project/)
 - [MOOC basic programming exam results](https://www.reddit.com/r/Python/comments/1jkxgf3/mooc_basic_programming_exam_results/)
 - [Recursion Tree Visualizer with Ipywidgets and Graphviz](https://www.reddit.com/r/Python/comments/1jkv95a/recursion_tree_visualizer_with_ipywidgets_and/)
 - [Python Dependency Management](https://www.reddit.com/r/Python/comments/1jktjip/python_dependency_management/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1jkqpgl/thursday_daily_thread_python_careers_courses_and/)
-- [Working on better PDF APIs at Foxit. Python folks, what would you actually want?](https://www.reddit.com/r/Python/comments/1jkpvsz/working_on_better_pdf_apis_at_foxit_python_folks/)
 <!-- BLOG-POST-LIST:END -->
