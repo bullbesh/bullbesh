@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [3 python incremental clicker games with full sources, audio and graphics](https://www.reddit.com/r/Python/comments/1jlakty/3_python_incremental_clicker_games_with_full/)
 - [Hot Module Replacement in Python](https://www.reddit.com/r/Python/comments/1jl8azv/hot_module_replacement_in_python/)
 - [When Python is on LSD](https://www.reddit.com/r/Python/comments/1jl6vyn/when_python_is_on_lsd/)
 - [Any &amp; All functions python guide](https://www.reddit.com/r/Python/comments/1jl52wu/any_all_functions_python_guide/)
 - [Building Agentic Application Using Streamlit and Langchain](https://www.reddit.com/r/Python/comments/1jl2slo/building_agentic_application_using_streamlit_and/)
-- [What&#39;s the output of this python program?](https://www.reddit.com/r/Python/comments/1jl1wc2/whats_the_output_of_this_python_program/)
 <!-- BLOG-POST-LIST:END -->
