@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MOOC basic programming exam results](https://www.reddit.com/r/Python/comments/1jkxgf3/mooc_basic_programming_exam_results/)
 - [Recursion Tree Visualizer with Ipywidgets and Graphviz](https://www.reddit.com/r/Python/comments/1jkv95a/recursion_tree_visualizer_with_ipywidgets_and/)
 - [Python Dependency Management](https://www.reddit.com/r/Python/comments/1jktjip/python_dependency_management/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1jkqpgl/thursday_daily_thread_python_careers_courses_and/)
 - [Working on better PDF APIs at Foxit. Python folks, what would you actually want?](https://www.reddit.com/r/Python/comments/1jkpvsz/working_on_better_pdf_apis_at_foxit_python_folks/)
-- [What is the place to learn everything there is to need to learn about robot framework automation?](https://www.reddit.com/r/Python/comments/1jkpegt/what_is_the_place_to_learn_everything_there_is_to/)
 <!-- BLOG-POST-LIST:END -->
