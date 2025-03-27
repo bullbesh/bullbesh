@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any &amp; All functions python guide](https://www.reddit.com/r/Python/comments/1jl52wu/any_all_functions_python_guide/)
 - [Building Agentic Application Using Streamlit and Langchain](https://www.reddit.com/r/Python/comments/1jl2slo/building_agentic_application_using_streamlit_and/)
 - [What&#39;s the output of this python program?](https://www.reddit.com/r/Python/comments/1jl1wc2/whats_the_output_of_this_python_program/)
 - [MOOC basic programming exam results](https://www.reddit.com/r/Python/comments/1jkxgf3/mooc_basic_programming_exam_results/)
 - [Recursion Tree Visualizer with Ipywidgets and Graphviz](https://www.reddit.com/r/Python/comments/1jkv95a/recursion_tree_visualizer_with_ipywidgets_and/)
-- [Python Dependency Management](https://www.reddit.com/r/Python/comments/1jktjip/python_dependency_management/)
 <!-- BLOG-POST-LIST:END -->
