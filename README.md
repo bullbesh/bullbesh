@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built pattern_kit: a lightweight Python library of reusable software design patterns](https://www.reddit.com/r/Python/comments/1jm1w5u/i_built_pattern_kit_a_lightweight_python_library/)
+- [dotbins: Easily Manage &amp; Version-Control CLI Tools in Your Dotfiles](https://www.reddit.com/r/Python/comments/1jm0otm/dotbins_easily_manage_versioncontrol_cli_tools_in/)
 - [Railway reservation](https://www.reddit.com/r/Python/comments/1jlz1sx/railway_reservation/)
 - [Partial Solar Eclipse on 29.03.2025](https://www.reddit.com/r/Python/comments/1jlxopz/partial_solar_eclipse_on_29032025/)
 - [OpenTelemetry logging in python](https://www.reddit.com/r/Python/comments/1jlxeck/opentelemetry_logging_in_python/)
-- [Library to dockerize Python apps with no config](https://www.reddit.com/r/Python/comments/1jlwhnl/library_to_dockerize_python_apps_with_no_config/)
-- [async-dag - A tiny library for running complex DAGs of async tasks](https://www.reddit.com/r/Python/comments/1jls3ad/asyncdag_a_tiny_library_for_running_complex_dags/)
 <!-- BLOG-POST-LIST:END -->
