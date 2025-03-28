@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [On Artificial Intelligence](https://www.reddit.com/r/Python/comments/1jlz27s/on_artificial_intelligence/)
+- [Railway reservation](https://www.reddit.com/r/Python/comments/1jlz1sx/railway_reservation/)
+- [Partial Solar Eclipse on 29.03.2025](https://www.reddit.com/r/Python/comments/1jlxopz/partial_solar_eclipse_on_29032025/)
 - [OpenTelemetry logging in python](https://www.reddit.com/r/Python/comments/1jlxeck/opentelemetry_logging_in_python/)
 - [Library to dockerize Python apps with no config](https://www.reddit.com/r/Python/comments/1jlwhnl/library_to_dockerize_python_apps_with_no_config/)
-- [async-dag - A tiny library for running complex DAGs of async tasks](https://www.reddit.com/r/Python/comments/1jls3ad/asyncdag_a_tiny_library_for_running_complex_dags/)
-- [I wrote a Python script that lets you Bulk DELETE, ENCRYPT /DECRYPT your Reddit Post/Comment History](https://www.reddit.com/r/Python/comments/1jlrsk2/i_wrote_a_python_script_that_lets_you_bulk_delete/)
-- [Kreuzberg v3.1 brings Table Extraction](https://www.reddit.com/r/Python/comments/1jlr4da/kreuzberg_v31_brings_table_extraction/)
 <!-- BLOG-POST-LIST:END -->
