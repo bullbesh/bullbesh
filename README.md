@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [jsonyx - Customizable JSON Library for Python 3.8+](https://www.reddit.com/r/Python/comments/1jlqa0p/jsonyx_customizable_json_library_for_python_38/)
+- [Edifice v3 Declarative GUI framework for Python and Qt](https://www.reddit.com/r/Python/comments/1jlq8qg/edifice_v3_declarative_gui_framework_for_python/)
 - [FastAPI code deployment issues](https://www.reddit.com/r/Python/comments/1jlmmty/fastapi_code_deployment_issues/)
 - [Position of functions](https://www.reddit.com/r/Python/comments/1jlml4i/position_of_functions/)
 - [Varalyze: Cyber threat intelligence tool suite](https://www.reddit.com/r/Python/comments/1jlifi2/varalyze_cyber_threat_intelligence_tool_suite/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1jlht4t/friday_daily_thread_rpython_meta_and_freetalk/)
-- [I wrote a wrapper that let&#39;s you swap automated browser engines without rewriting your code.](https://www.reddit.com/r/Python/comments/1jlfld5/i_wrote_a_wrapper_that_lets_you_swap_automated/)
 <!-- BLOG-POST-LIST:END -->
