@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Should I use Python to create a convolutional neural network &lpar;CNN&rpar;?](https://www.reddit.com/r/Python/comments/1jmm44t/should_i_use_python_to_create_a_convolutional/)
 - [Checkpoint of my coding projects](https://www.reddit.com/r/Python/comments/1jmjo4n/checkpoint_of_my_coding_projects/)
 - [Made Exhaustive DynamoDB Unittests Less Exhausting](https://www.reddit.com/r/Python/comments/1jmhb5u/made_exhaustive_dynamodb_unittests_less_exhausting/)
 - [clypi - Your all-in-one beautiful, lightweight, type-safe, &lpar;and now&rpar; prod-ready CLIs](https://www.reddit.com/r/Python/comments/1jmee0s/clypi_your_allinone_beautiful_lightweight/)
 - [We need BUTTER!!&lpar;tkbutter package patch](https://www.reddit.com/r/Python/comments/1jmdaly/we_need_buttertkbutter_package_patch/)
-- [[linux] yt-mpv: play YouTube videos without ads while archiving them](https://www.reddit.com/r/Python/comments/1jmd90n/linux_ytmpv_play_youtube_videos_without_ads_while/)
 <!-- BLOG-POST-LIST:END -->
