@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is mjml the best way to posh my email?](https://www.reddit.com/r/Python/comments/1jmwhcb/is_mjml_the_best_way_to_posh_my_email/)
+- [Self-contained Python scripts with uv](https://www.reddit.com/r/Python/comments/1jmyip9/selfcontained_python_scripts_with_uv/)
 - [Marcel: A Pythonic shell](https://www.reddit.com/r/Python/comments/1jmub2d/marcel_a_pythonic_shell/)
 - [Random Number Generator](https://www.reddit.com/r/Python/comments/1jms31i/random_number_generator/)
 - [Ask me to build you something](https://www.reddit.com/r/Python/comments/1jmomi0/ask_me_to_build_you_something/)
