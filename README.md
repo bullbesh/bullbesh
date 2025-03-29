@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Usage of ISLP Library for Python/ML](https://www.reddit.com/r/Python/comments/1jmob5q/usage_of_islp_library_for_pythonml/)
+- [Error messages in json versus jsonyx](https://www.reddit.com/r/Python/comments/1jmno3w/error_messages_in_json_versus_jsonyx/)
+- [I Compared the Top Python Data Science Libraries: Pandas vs Polars vs PySpark](https://www.reddit.com/r/Python/comments/1jmndxs/i_compared_the_top_python_data_science_libraries/)
 - [Should I use Python to create a convolutional neural network &lpar;CNN&rpar;?](https://www.reddit.com/r/Python/comments/1jmm44t/should_i_use_python_to_create_a_convolutional/)
 - [Checkpoint of my coding projects](https://www.reddit.com/r/Python/comments/1jmjo4n/checkpoint_of_my_coding_projects/)
-- [Made Exhaustive DynamoDB Unittests Less Exhausting](https://www.reddit.com/r/Python/comments/1jmhb5u/made_exhaustive_dynamodb_unittests_less_exhausting/)
-- [clypi - Your all-in-one beautiful, lightweight, type-safe, &lpar;and now&rpar; prod-ready CLIs](https://www.reddit.com/r/Python/comments/1jmee0s/clypi_your_allinone_beautiful_lightweight/)
-- [We need BUTTER!!&lpar;tkbutter package patch](https://www.reddit.com/r/Python/comments/1jmdaly/we_need_buttertkbutter_package_patch/)
 <!-- BLOG-POST-LIST:END -->
