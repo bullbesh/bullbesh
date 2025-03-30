@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pos-json-decoder: JSON decoder with document position info](https://www.reddit.com/r/Python/comments/1jnm9cb/posjsondecoder_json_decoder_with_document/)
+- [I benchmarked Python&#39;s top HTTP clients &lpar;requests, httpx, aiohttp, etc.&rpar; and open sourced it](https://www.reddit.com/r/Python/comments/1jnlrdl/i_benchmarked_pythons_top_http_clients_requests/)
 - [Midi integration](https://www.reddit.com/r/Python/comments/1jnlg5t/midi_integration/)
 - [PyAwaitable 2.0.0 Released - Call Asynchronous Code From An Extension Module](https://www.reddit.com/r/Python/comments/1jnl2e8/pyawaitable_200_released_call_asynchronous_code/)
 - [Get package versions from a given date - time machine!](https://www.reddit.com/r/Python/comments/1jnjzep/get_package_versions_from_a_given_date_time/)
-- [I Automated GPT 4o Image Generation](https://www.reddit.com/r/Python/comments/1jnjuxy/i_automated_gpt_4o_image_generation/)
-- [Implemented 18 RL Algorithms in a Simpler Way](https://www.reddit.com/r/Python/comments/1jnduby/implemented_18_rl_algorithms_in_a_simpler_way/)
 <!-- BLOG-POST-LIST:END -->
