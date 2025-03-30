@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made airDrop2 with 3.11.3 and Flask.](https://www.reddit.com/r/Python/comments/1jn7ohc/i_made_airdrop2_with_3113_and_flask/)
 - [Guide for CPython](https://www.reddit.com/r/Python/comments/1jn6znc/guide_for_cpython/)
 - [[TOOL] CVE-Dash: Open Source Python CLI Tool for Vulnerability Research](https://www.reddit.com/r/Python/comments/1jn4z72/tool_cvedash_open_source_python_cli_tool_for/)
 - [Implementing ReBAC, ABAC, and RBAC in Python without making it a nightmare](https://www.reddit.com/r/Python/comments/1jn16cu/implementing_rebac_abac_and_rbac_in_python/)
 - [Integrated python in excel 365](https://www.reddit.com/r/Python/comments/1jn0li3/integrated_python_in_excel_365/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1jmzwh4/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
