@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing ReBAC, ABAC, and RBAC in Python without making it a nightmare](https://www.reddit.com/r/Python/comments/1jn16cu/implementing_rebac_abac_and_rbac_in_python/)
+- [Integrated python in excel 365](https://www.reddit.com/r/Python/comments/1jn0li3/integrated_python_in_excel_365/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1jmzwh4/sunday_daily_thread_whats_everyone_working_on/)
+- [selectlib: Efficiently Find the Kth Smallest Element in an Unsorted List](https://www.reddit.com/r/Python/comments/1jmz31u/selectlib_efficiently_find_the_kth_smallest/)
 - [Self-contained Python scripts with uv](https://www.reddit.com/r/Python/comments/1jmyip9/selfcontained_python_scripts_with_uv/)
-- [Marcel: A Pythonic shell](https://www.reddit.com/r/Python/comments/1jmub2d/marcel_a_pythonic_shell/)
-- [Random Number Generator](https://www.reddit.com/r/Python/comments/1jms31i/random_number_generator/)
-- [Ask me to build you something](https://www.reddit.com/r/Python/comments/1jmomi0/ask_me_to_build_you_something/)
-- [Usage of ISLP Library for Python/ML](https://www.reddit.com/r/Python/comments/1jmob5q/usage_of_islp_library_for_pythonml/)
 <!-- BLOG-POST-LIST:END -->
