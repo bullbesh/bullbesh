@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Publishing from GitHub to PyPI and Test-PyPI](https://www.reddit.com/r/Python/comments/1jnhug2/publishing_from_github_to_pypi_and_testpypi/)
-- [Set up job/task queue ?](https://www.reddit.com/r/Python/comments/1jngtwg/set_up_jobtask_queue/)
-- [Using Python to Solve Real-World Problems – My Latest Project](https://www.reddit.com/r/Python/comments/1jnf8c4/using_python_to_solve_realworld_problems_my/)
+- [Get package versions from a given date - time machine!](https://www.reddit.com/r/Python/comments/1jnjzep/get_package_versions_from_a_given_date_time/)
+- [I Automated GPT 4o Image Generation](https://www.reddit.com/r/Python/comments/1jnjuxy/i_automated_gpt_4o_image_generation/)
 - [Implemented 18 RL Algorithms in a Simpler Way](https://www.reddit.com/r/Python/comments/1jnduby/implemented_18_rl_algorithms_in_a_simpler_way/)
 - [Python ASCII-TOOL](https://www.reddit.com/r/Python/comments/1jnb269/python_asciitool/)
+- [The AI Hype: Why Developers Aren&#39;t Going Anywhere](https://www.reddit.com/r/Python/comments/1jnar94/the_ai_hype_why_developers_arent_going_anywhere/)
 <!-- BLOG-POST-LIST:END -->
