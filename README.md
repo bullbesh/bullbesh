@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interview Corvus: AI Coding FREE Open Source alternative for interview-coder](https://www.reddit.com/r/Python/comments/1jo8ud2/interview_corvus_ai_coding_free_open_source/)
 - [PEP 751 &lpar;a standardized lockfile for Python&rpar; is accepted!](https://www.reddit.com/r/Python/comments/1jo8gvx/pep_751_a_standardized_lockfile_for_python_is/)
-- [HexCompiler &lpar;DnD Coder&rpar; Update](https://www.reddit.com/r/Python/comments/1jo5joo/hexcompiler_dnd_coder_update/)
-- [Roadmap advice...](https://www.reddit.com/r/Python/comments/1jo3wne/roadmap_advice/)
-- [Migrate effortlessly from Pandas to Polars](https://www.reddit.com/r/Python/comments/1jo31nu/migrate_effortlessly_from_pandas_to_polars/)
-- [Multiprocessing &amp; Threading Guide In Python 🚀](https://www.reddit.com/r/Python/comments/1jo2or8/multiprocessing_threading_guide_in_python/)
+- [New Open-Source Python Package, EncypherAI: Verifiable Metadata for AI-generated text](https://www.reddit.com/r/Python/comments/1jo1tr3/new_opensource_python_package_encypherai/)
+- [RFC: Spikard - a universal LLM client](https://www.reddit.com/r/Python/comments/1jo0g9i/rfc_spikard_a_universal_llm_client/)
+- [I built xlwings Lite as an alternative to Python in Excel](https://www.reddit.com/r/Python/comments/1jnzepx/i_built_xlwings_lite_as_an_alternative_to_python/)
 <!-- BLOG-POST-LIST:END -->
