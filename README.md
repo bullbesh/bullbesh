@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wi-Fi Controlled Robot Using Python](https://www.reddit.com/r/Python/comments/1jobaz3/wifi_controlled_robot_using_python/)
 - [Interview Corvus: AI Coding FREE Open Source alternative for interview-coder](https://www.reddit.com/r/Python/comments/1jo8ud2/interview_corvus_ai_coding_free_open_source/)
 - [PEP 751 &lpar;a standardized lockfile for Python&rpar; is accepted!](https://www.reddit.com/r/Python/comments/1jo8gvx/pep_751_a_standardized_lockfile_for_python_is/)
 - [New Open-Source Python Package, EncypherAI: Verifiable Metadata for AI-generated text](https://www.reddit.com/r/Python/comments/1jo1tr3/new_opensource_python_package_encypherai/)
 - [RFC: Spikard - a universal LLM client](https://www.reddit.com/r/Python/comments/1jo0g9i/rfc_spikard_a_universal_llm_client/)
-- [I built xlwings Lite as an alternative to Python in Excel](https://www.reddit.com/r/Python/comments/1jnzepx/i_built_xlwings_lite_as_an_alternative_to_python/)
 <!-- BLOG-POST-LIST:END -->
