@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 751 &lpar;a standardized lockfile for Python&rpar; is accepted!](https://www.reddit.com/r/Python/comments/1jo8gvx/pep_751_a_standardized_lockfile_for_python_is/)
 - [HexCompiler &lpar;DnD Coder&rpar; Update](https://www.reddit.com/r/Python/comments/1jo5joo/hexcompiler_dnd_coder_update/)
 - [Roadmap advice...](https://www.reddit.com/r/Python/comments/1jo3wne/roadmap_advice/)
 - [Migrate effortlessly from Pandas to Polars](https://www.reddit.com/r/Python/comments/1jo31nu/migrate_effortlessly_from_pandas_to_polars/)
 - [Multiprocessing &amp; Threading Guide In Python 🚀](https://www.reddit.com/r/Python/comments/1jo2or8/multiprocessing_threading_guide_in_python/)
-- [New Open-Source Python Package, EncypherAI: Verifiable Metadata for AI-generated text](https://www.reddit.com/r/Python/comments/1jo1tr3/new_opensource_python_package_encypherai/)
 <!-- BLOG-POST-LIST:END -->
