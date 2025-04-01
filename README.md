@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [xorq: new open source framework simplifies multi-engine ML pipelines](https://www.reddit.com/r/Python/comments/1joxycb/xorq_new_open_source_framework_simplifies/)
+- [Breaking news: Guido van Rossum back as Python&#39;s Benevolent Dictator for Life &lpar;BDFL&rpar;!](https://www.reddit.com/r/Python/comments/1jowzs2/breaking_news_guido_van_rossum_back_as_pythons/)
 - [Multiprocessing &amp; Threading Guide In Python 🚀](https://www.reddit.com/r/Python/comments/1jov7lm/multiprocessing_threading_guide_in_python/)
 - [Script to stream webcam over VLC works locally but not in remote Desktop instance.](https://www.reddit.com/r/Python/comments/1joutqc/script_to_stream_webcam_over_vlc_works_locally/)
 - [What are some features of professional tier Data Scrapers that genericaly coded scrapers don&#39;t have?](https://www.reddit.com/r/Python/comments/1jou1ab/what_are_some_features_of_professional_tier_data/)
-- [What are your biggest pain points with SonarQube or similar code analysis tools?](https://www.reddit.com/r/Python/comments/1joszcx/what_are_your_biggest_pain_points_with_sonarqube/)
-- [Is OpenAI’s API the future of backend development?](https://www.reddit.com/r/Python/comments/1joqx39/is_openais_api_the_future_of_backend_development/)
 <!-- BLOG-POST-LIST:END -->
