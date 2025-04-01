@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Wi-Fi Controlled Robot Using Python](https://www.reddit.com/r/Python/comments/1jobaz3/wifi_controlled_robot_using_python/)
-- [Interview Corvus: AI Coding FREE Open Source alternative for interview-coder](https://www.reddit.com/r/Python/comments/1jo8ud2/interview_corvus_ai_coding_free_open_source/)
-- [PEP 751 &lpar;a standardized lockfile for Python&rpar; is accepted!](https://www.reddit.com/r/Python/comments/1jo8gvx/pep_751_a_standardized_lockfile_for_python_is/)
-- [New Open-Source Python Package, EncypherAI: Verifiable Metadata for AI-generated text](https://www.reddit.com/r/Python/comments/1jo1tr3/new_opensource_python_package_encypherai/)
-- [RFC: Spikard - a universal LLM client](https://www.reddit.com/r/Python/comments/1jo0g9i/rfc_spikard_a_universal_llm_client/)
+- [[Code Review Request] Capstone Project - Streamlit App for Box Office Prediction](https://www.reddit.com/r/Python/comments/1jojd8e/code_review_request_capstone_project_streamlit/)
+- [Excel-native formula for &#39;root solving&#39; by numerical analysis](https://www.reddit.com/r/Python/comments/1jojbyq/excelnative_formula_for_root_solving_by_numerical/)
+- [What python bot that you wrote made you successful? Or generated you profit?](https://www.reddit.com/r/Python/comments/1joj33o/what_python_bot_that_you_wrote_made_you/)
+- [I built an open-source ChatGPT for coding... in Python](https://www.reddit.com/r/Python/comments/1joizb4/i_built_an_opensource_chatgpt_for_coding_in_python/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1joi4lc/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
