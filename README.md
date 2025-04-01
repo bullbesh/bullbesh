@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pigpio watchdog under Python](https://www.reddit.com/r/Python/comments/1jp6ri4/pigpio_watchdog_under_python/)
+- [media player using qt5 and qt6](https://www.reddit.com/r/Python/comments/1jp6a88/media_player_using_qt5_and_qt6/)
 - [command line library that calls class methods](https://www.reddit.com/r/Python/comments/1jp46aa/command_line_library_that_calls_class_methods/)
 - [Book recommendations](https://www.reddit.com/r/Python/comments/1jp2dp5/book_recommendations/)
 - [xorq: new open source framework simplifies multi-engine ML pipelines](https://www.reddit.com/r/Python/comments/1joxycb/xorq_new_open_source_framework_simplifies/)
-- [Breaking news: Guido van Rossum back as Python&#39;s Benevolent Dictator for Life &lpar;BDFL&rpar;!](https://www.reddit.com/r/Python/comments/1jowzs2/breaking_news_guido_van_rossum_back_as_pythons/)
-- [docdog: open source generating docs using claude](https://www.reddit.com/r/Python/comments/1joq5x3/docdog_open_source_generating_docs_using_claude/)
 <!-- BLOG-POST-LIST:END -->
