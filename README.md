@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free local &quot;code context&quot; MCP](https://www.reddit.com/r/Python/comments/1jpu0gr/free_local_code_context_mcp/)
+- [Python for Engineers and Scientists](https://www.reddit.com/r/Python/comments/1jptkff/python_for_engineers_and_scientists/)
 - [Python Libraries?](https://www.reddit.com/r/Python/comments/1jposxj/python_libraries/)
 - [Trying to create a code that sorts personal saved Spotify tracks based on their album&#39;s cover color](https://www.reddit.com/r/Python/comments/1jponsw/trying_to_create_a_code_that_sorts_personal_saved/)
 - [I built an open-source AI-powered library for web testing](https://www.reddit.com/r/Python/comments/1jpo96u/i_built_an_opensource_aipowered_library_for_web/)
-- [ContextGem: Easier and faster way to build LLM extraction workflows through powerful abstractions](https://www.reddit.com/r/Python/comments/1jpnd8y/contextgem_easier_and_faster_way_to_build_llm/)
-- [My most ambitious project yet!](https://www.reddit.com/r/Python/comments/1jpkhkv/my_most_ambitious_project_yet/)
 <!-- BLOG-POST-LIST:END -->
