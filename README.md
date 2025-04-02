@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pykomodo: chunking tool for whatever you want](https://www.reddit.com/r/Python/comments/1jpfwez/pykomodo_chunking_tool_for_whatever_you_want/)
+- [Just Another Kahoot Bot – A Scalable WebSocket-Based Kahoot Bot &lpar;Developers Needed!&rpar;](https://www.reddit.com/r/Python/comments/1jpftrx/just_another_kahoot_bot_a_scalable_websocketbased/)
 - [Tips for a pythom exam](https://www.reddit.com/r/Python/comments/1jpc8pl/tips_for_a_pythom_exam/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1jpavl3/wednesday_daily_thread_beginner_questions/)
 - [Hard vs easy python](https://www.reddit.com/r/Python/comments/1jp81ud/hard_vs_easy_python/)
-- [media player using qt5 and qt6](https://www.reddit.com/r/Python/comments/1jp6a88/media_player_using_qt5_and_qt6/)
-- [command line library that calls class methods](https://www.reddit.com/r/Python/comments/1jp46aa/command_line_library_that_calls_class_methods/)
 <!-- BLOG-POST-LIST:END -->
