@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Libraries?](https://www.reddit.com/r/Python/comments/1jposxj/python_libraries/)
+- [Trying to create a code that sorts personal saved Spotify tracks based on their album&#39;s cover color](https://www.reddit.com/r/Python/comments/1jponsw/trying_to_create_a_code_that_sorts_personal_saved/)
 - [I built an open-source AI-powered library for web testing](https://www.reddit.com/r/Python/comments/1jpo96u/i_built_an_opensource_aipowered_library_for_web/)
 - [ContextGem: Easier and faster way to build LLM extraction workflows through powerful abstractions](https://www.reddit.com/r/Python/comments/1jpnd8y/contextgem_easier_and_faster_way_to_build_llm/)
 - [My most ambitious project yet!](https://www.reddit.com/r/Python/comments/1jpkhkv/my_most_ambitious_project_yet/)
-- [pykomodo: chunking tool for whatever you want](https://www.reddit.com/r/Python/comments/1jpfwez/pykomodo_chunking_tool_for_whatever_you_want/)
-- [Just Another Kahoot Bot – A Scalable WebSocket-Based Kahoot Bot &lpar;Developers Needed!&rpar;](https://www.reddit.com/r/Python/comments/1jpftrx/just_another_kahoot_bot_a_scalable_websocketbased/)
 <!-- BLOG-POST-LIST:END -->
