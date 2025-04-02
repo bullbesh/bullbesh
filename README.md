@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Module 8 is out guys!!](https://www.reddit.com/r/Python/comments/1jp8nfj/module_8_is_out_guys/)
+- [Tips for a pythom exam](https://www.reddit.com/r/Python/comments/1jpc8pl/tips_for_a_pythom_exam/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1jpavl3/wednesday_daily_thread_beginner_questions/)
 - [Hard vs easy python](https://www.reddit.com/r/Python/comments/1jp81ud/hard_vs_easy_python/)
-- [pigpio watchdog under Python](https://www.reddit.com/r/Python/comments/1jp6ri4/pigpio_watchdog_under_python/)
 - [media player using qt5 and qt6](https://www.reddit.com/r/Python/comments/1jp6a88/media_player_using_qt5_and_qt6/)
 - [command line library that calls class methods](https://www.reddit.com/r/Python/comments/1jp46aa/command_line_library_that_calls_class_methods/)
 <!-- BLOG-POST-LIST:END -->
