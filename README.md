@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1jq3vwj/thursday_daily_thread_python_careers_courses_and/)
 - [Project ideas: Find all acronyms in a project](https://www.reddit.com/r/Python/comments/1jpx7v8/project_ideas_find_all_acronyms_in_a_project/)
-- [Made First Automated Script for work, feels good!](https://www.reddit.com/r/Python/comments/1jpwwbc/made_first_automated_script_for_work_feels_good/)
-- [💻 Made a Python Keylogger — Logs Keystrokes &amp; Emails Reports Automatically &lpar;Educational Use Only&rpar;](https://www.reddit.com/r/Python/comments/1jpwc4c/made_a_python_keylogger_logs_keystrokes_emails/)
-- [good python unit test framework for data engineering](https://www.reddit.com/r/Python/comments/1jpve7s/good_python_unit_test_framework_for_data/)
 - [Free local &quot;code context&quot; MCP](https://www.reddit.com/r/Python/comments/1jpu0gr/free_local_code_context_mcp/)
+- [Python for Engineers and Scientists](https://www.reddit.com/r/Python/comments/1jptkff/python_for_engineers_and_scientists/)
+- [Python Libraries?](https://www.reddit.com/r/Python/comments/1jposxj/python_libraries/)
 <!-- BLOG-POST-LIST:END -->
