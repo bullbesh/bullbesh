@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Real-Time Speech-to-Speech Chatbot: Whisper, Llama 3.1, Kokoro, and Silero VAD](https://www.reddit.com/r/Python/comments/1jqepyv/realtime_speechtospeech_chatbot_whisper_llama_31/)
+- [[UPDATE] safe-result 4.0: Better memory usage, chain operations, 100% test coverage](https://www.reddit.com/r/Python/comments/1jqe33f/update_saferesult_40_better_memory_usage_chain/)
 - [yt-stats-wrangler - I Created a Python Package for collecting data from YouTube API V3](https://www.reddit.com/r/Python/comments/1jqdcby/ytstatswrangler_i_created_a_python_package_for/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1jq3vwj/thursday_daily_thread_python_careers_courses_and/)
 - [Project ideas: Find all acronyms in a project](https://www.reddit.com/r/Python/comments/1jpx7v8/project_ideas_find_all_acronyms_in_a_project/)
-- [Free local &quot;code context&quot; MCP](https://www.reddit.com/r/Python/comments/1jpu0gr/free_local_code_context_mcp/)
-- [Python for Engineers and Scientists](https://www.reddit.com/r/Python/comments/1jptkff/python_for_engineers_and_scientists/)
 <!-- BLOG-POST-LIST:END -->
