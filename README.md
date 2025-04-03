@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Debit/Credit in concurrent environment in Python. Is this code thread safe?](https://www.reddit.com/r/Python/comments/1jqgi83/debitcredit_in_concurrent_environment_in_python/)
 - [Real-Time Speech-to-Speech Chatbot: Whisper, Llama 3.1, Kokoro, and Silero VAD](https://www.reddit.com/r/Python/comments/1jqf5zq/realtime_speechtospeech_chatbot_whisper_llama_31/)
 - [Best online free python course](https://www.reddit.com/r/Python/comments/1jqf0yo/best_online_free_python_course/)
 - [[UPDATE] safe-result 4.0: Better memory usage, chain operations, 100% test coverage](https://www.reddit.com/r/Python/comments/1jqe33f/update_saferesult_40_better_memory_usage_chain/)
 - [yt-stats-wrangler - I Created a Python Package for collecting data from YouTube API V3](https://www.reddit.com/r/Python/comments/1jqdcby/ytstatswrangler_i_created_a_python_package_for/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1jq3vwj/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
