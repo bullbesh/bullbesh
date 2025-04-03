@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Humbug - a GUI-based AI development tool with an integrated prompt compiler](https://www.reddit.com/r/Python/comments/1jqqzh8/humbug_a_guibased_ai_development_tool_with_an/)
 - [I wrote on post on why you should start using polars in 2025 based on personal experiences](https://www.reddit.com/r/Python/comments/1jqntn9/i_wrote_on_post_on_why_you_should_start_using/)
 - [Easily share Python scripts with dependencies &lpar;uv + PEP 723&rpar;](https://www.reddit.com/r/Python/comments/1jqj0fq/easily_share_python_scripts_with_dependencies_uv/)
 - [Real-Time Speech-to-Speech Chatbot: Whisper, Llama 3.1, Kokoro, and Silero VAD](https://www.reddit.com/r/Python/comments/1jqf5zq/realtime_speechtospeech_chatbot_whisper_llama_31/)
 - [[UPDATE] safe-result 4.0: Better memory usage, chain operations, 100% test coverage](https://www.reddit.com/r/Python/comments/1jqe33f/update_saferesult_40_better_memory_usage_chain/)
-- [yt-stats-wrangler - I Created a Python Package for collecting data from YouTube API V3](https://www.reddit.com/r/Python/comments/1jqdcby/ytstatswrangler_i_created_a_python_package_for/)
 <!-- BLOG-POST-LIST:END -->
