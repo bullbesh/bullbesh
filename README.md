@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to add Python to your system path with uv](https://www.reddit.com/r/Python/comments/1jrnwty/how_to_add_python_to_your_system_path_with_uv/)
+- [[Showcase] A tarot reading app built in Python with Flask, SQL, and OpenAI — each reading is dynamic](https://www.reddit.com/r/Python/comments/1jrnu4h/showcase_a_tarot_reading_app_built_in_python_with/)
 - [Recommended way to manage several installed versions of Python &lpar;macOS&rpar;](https://www.reddit.com/r/Python/comments/1jrcqok/recommended_way_to_manage_several_installed/)
 - [Python Application for Stock Market Investing](https://www.reddit.com/r/Python/comments/1jrcas7/python_application_for_stock_market_investing/)
 - [Compress-py: A CLI to compress files with multiple algorithms](https://www.reddit.com/r/Python/comments/1jrc7jk/compresspy_a_cli_to_compress_files_with_multiple/)
-- [Project - StegH](https://www.reddit.com/r/Python/comments/1jqzmh5/project_stegh/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1jqyaw2/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
