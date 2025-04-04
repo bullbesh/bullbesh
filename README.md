@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Isn&#39;t it&#39;s hilarious that Guido van Rossum has a brother named Just van Rossum?](https://www.reddit.com/r/Python/comments/1jr612f/isnt_its_hilarious_that_guido_van_rossum_has_a/)
 - [Project - StegH](https://www.reddit.com/r/Python/comments/1jqzmh5/project_stegh/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1jqyaw2/friday_daily_thread_rpython_meta_and_freetalk/)
 - [AI for malware detection](https://www.reddit.com/r/Python/comments/1jqy25p/ai_for_malware_detection/)
 - [List of Dictionaries...](https://www.reddit.com/r/Python/comments/1jqv7ik/list_of_dictionaries/)
-- [Humbug - a GUI-based AI development tool with an integrated prompt compiler](https://www.reddit.com/r/Python/comments/1jqqzh8/humbug_a_guibased_ai_development_tool_with_an/)
 <!-- BLOG-POST-LIST:END -->
