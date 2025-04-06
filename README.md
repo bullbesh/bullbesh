@@ -11,6 +11,6 @@
 - [Alkindi – Lightweight Post-Quantum Cryptography Library](https://www.reddit.com/r/Python/comments/1jslzz8/alkindi_lightweight_postquantum_cryptography/)
 - [Price-scraper: Automated product web scraping framework with discord notifications](https://www.reddit.com/r/Python/comments/1jshbx4/pricescraper_automated_product_web_scraping/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1jshakh/sunday_daily_thread_whats_everyone_working_on/)
-- [Can&#39;t fullscreen on Youtube PyQt6 Pure Python Web Browser](https://www.reddit.com/r/Python/comments/1jscdh8/cant_fullscreen_on_youtube_pyqt6_pure_python_web/)
 - [I&#39;m looking for ideas for my pipeline library using generators](https://www.reddit.com/r/Python/comments/1jsccgv/im_looking_for_ideas_for_my_pipeline_library/)
+- [I have no goal.](https://www.reddit.com/r/Python/comments/1jsc6oe/i_have_no_goal/)
 <!-- BLOG-POST-LIST:END -->
