@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing ForgeCode: A Python Library for Dynamic Code Generation Using GPT](https://www.reddit.com/r/Python/comments/1jsv3nc/introducing_forgecode_a_python_library_for/)
+- [Your experiences with asyncio, trio, and AnyIO in production?](https://www.reddit.com/r/Python/comments/1jsue6b/your_experiences_with_asyncio_trio_and_anyio_in/)
 - [To advance in my accounting career I need better grip on data analysis.](https://www.reddit.com/r/Python/comments/1jsr5l2/to_advance_in_my_accounting_career_i_need_better/)
 - [Txtify: Local Whisper with Easy Deployment - Transcribe and Translate Audio and Video Effortlessly](https://www.reddit.com/r/Python/comments/1jsqmpe/txtify_local_whisper_with_easy_deployment/)
 - [Memo - Manage your Apple Notes and Reminders from the terminal](https://www.reddit.com/r/Python/comments/1jspmga/memo_manage_your_apple_notes_and_reminders_from/)
-- [Maintainer of Empyrebase &lpar;Python Firebase wrapper&rpar; – What features would you like to see?](https://www.reddit.com/r/Python/comments/1jsp54c/maintainer_of_empyrebase_python_firebase_wrapper/)
-- [agentwatch – free open-source Runtime Observability framework for Agentic AI](https://www.reddit.com/r/Python/comments/1jsp41m/agentwatch_free_opensource_runtime_observability/)
 <!-- BLOG-POST-LIST:END -->
