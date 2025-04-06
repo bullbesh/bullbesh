@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What defines a junior from a senior &lpar;pls read entire post&rpar;](https://www.reddit.com/r/Python/comments/1jsj8w3/what_defines_a_junior_from_a_senior_pls_read/)
+- [Price-scraper: Automated product web scraping framework with discord notifications](https://www.reddit.com/r/Python/comments/1jshbx4/pricescraper_automated_product_web_scraping/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1jshakh/sunday_daily_thread_whats_everyone_working_on/)
 - [Can&#39;t fullscreen on Youtube PyQt6 Pure Python Web Browser](https://www.reddit.com/r/Python/comments/1jscdh8/cant_fullscreen_on_youtube_pyqt6_pure_python_web/)
 - [I&#39;m looking for ideas for my pipeline library using generators](https://www.reddit.com/r/Python/comments/1jsccgv/im_looking_for_ideas_for_my_pipeline_library/)
-- [I have no goal.](https://www.reddit.com/r/Python/comments/1jsc6oe/i_have_no_goal/)
-- [Standardized development directory structure methodology site](https://www.reddit.com/r/Python/comments/1jsa6zi/standardized_development_directory_structure/)
-- [Orpheus: YouTube Music Downloader and Synchronizer](https://www.reddit.com/r/Python/comments/1js8b7w/orpheus_youtube_music_downloader_and_synchronizer/)
 <!-- BLOG-POST-LIST:END -->
