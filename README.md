@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Memo - Manage your Apple Notes and Reminders from the terminal](https://www.reddit.com/r/Python/comments/1jspmga/memo_manage_your_apple_notes_and_reminders_from/)
 - [Maintainer of Empyrebase &lpar;Python Firebase wrapper&rpar; – What features would you like to see?](https://www.reddit.com/r/Python/comments/1jsp54c/maintainer_of_empyrebase_python_firebase_wrapper/)
 - [agentwatch – free open-source Runtime Observability framework for Agentic AI](https://www.reddit.com/r/Python/comments/1jsp41m/agentwatch_free_opensource_runtime_observability/)
 - [Loadouts for Genshin Impact v0.1.7 is OUT NOW with support for Genshin Impact v5.5 Phase 1](https://www.reddit.com/r/Python/comments/1jsp3s5/loadouts_for_genshin_impact_v017_is_out_now_with/)
 - [Alkindi – Lightweight Post-Quantum Cryptography Library](https://www.reddit.com/r/Python/comments/1jslzz8/alkindi_lightweight_postquantum_cryptography/)
-- [Price-scraper: Automated product web scraping framework with discord notifications](https://www.reddit.com/r/Python/comments/1jshbx4/pricescraper_automated_product_web_scraping/)
 <!-- BLOG-POST-LIST:END -->
