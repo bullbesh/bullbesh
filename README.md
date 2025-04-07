@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python - scrappage google map](https://www.reddit.com/r/Python/comments/1jtg3ak/python_scrappage_google_map/)
 - [snooper-ai: Python debugger that sends your execution trace to an LLM](https://www.reddit.com/r/Python/comments/1jt8udg/snooperai_python_debugger_that_sends_your/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1jt84zi/monday_daily_thread_project_ideas/)
 - [Bootstrapping Python projects with copier](https://www.reddit.com/r/Python/comments/1jt5gil/bootstrapping_python_projects_with_copier/)
 - [kernel stuck with no end when running jupyter code cell](https://www.reddit.com/r/Python/comments/1jt40n1/kernel_stuck_with_no_end_when_running_jupyter/)
-- [Does anyone wanna be a part in programming the face for my Cyn animatronic from Murder Drones?](https://www.reddit.com/r/Python/comments/1jt340o/does_anyone_wanna_be_a_part_in_programming_the/)
 <!-- BLOG-POST-LIST:END -->
