@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Algolia search problem](https://www.reddit.com/r/Python/comments/1jts6y9/algolia_search_problem/)
+- [Multiprocessing &amp; Threading Guide In Python](https://www.reddit.com/r/Python/comments/1jtrc1s/multiprocessing_threading_guide_in_python/)
 - [Running shell commands in Python](https://www.reddit.com/r/Python/comments/1jtl8lw/running_shell_commands_in_python/)
 - [Purview Data Map classified data export.](https://www.reddit.com/r/Python/comments/1jtirrg/purview_data_map_classified_data_export/)
 - [Custom Excepthook with Enhancement](https://www.reddit.com/r/Python/comments/1jtij4p/custom_excepthook_with_enhancement/)
-- [What type database replication is better for django?](https://www.reddit.com/r/Python/comments/1jti89r/what_type_database_replication_is_better_for/)
-- [If you work on freelance platforms like UpWork how should we show it in our Resume/CV?](https://www.reddit.com/r/Python/comments/1jth8xd/if_you_work_on_freelance_platforms_like_upwork/)
 <!-- BLOG-POST-LIST:END -->
