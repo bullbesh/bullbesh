@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [If you work on freelance platforms like UpWork how should we show it in our Resume/CV?](https://www.reddit.com/r/Python/comments/1jth8xd/if_you_work_on_freelance_platforms_like_upwork/)
 - [Python - scrappage google map](https://www.reddit.com/r/Python/comments/1jtg3ak/python_scrappage_google_map/)
 - [snooper-ai: Python debugger that sends your execution trace to an LLM](https://www.reddit.com/r/Python/comments/1jt8udg/snooperai_python_debugger_that_sends_your/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1jt84zi/monday_daily_thread_project_ideas/)
 - [Bootstrapping Python projects with copier](https://www.reddit.com/r/Python/comments/1jt5gil/bootstrapping_python_projects_with_copier/)
-- [kernel stuck with no end when running jupyter code cell](https://www.reddit.com/r/Python/comments/1jt40n1/kernel_stuck_with_no_end_when_running_jupyter/)
 <!-- BLOG-POST-LIST:END -->
