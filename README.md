@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Purview Data Map classified data export.](https://www.reddit.com/r/Python/comments/1jtirrg/purview_data_map_classified_data_export/)
+- [Custom Excepthook with Enhancement](https://www.reddit.com/r/Python/comments/1jtij4p/custom_excepthook_with_enhancement/)
+- [What type database replication is better for django?](https://www.reddit.com/r/Python/comments/1jti89r/what_type_database_replication_is_better_for/)
 - [If you work on freelance platforms like UpWork how should we show it in our Resume/CV?](https://www.reddit.com/r/Python/comments/1jth8xd/if_you_work_on_freelance_platforms_like_upwork/)
 - [Python - scrappage google map](https://www.reddit.com/r/Python/comments/1jtg3ak/python_scrappage_google_map/)
-- [snooper-ai: Python debugger that sends your execution trace to an LLM](https://www.reddit.com/r/Python/comments/1jt8udg/snooperai_python_debugger_that_sends_your/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1jt84zi/monday_daily_thread_project_ideas/)
-- [Bootstrapping Python projects with copier](https://www.reddit.com/r/Python/comments/1jt5gil/bootstrapping_python_projects_with_copier/)
 <!-- BLOG-POST-LIST:END -->
