@@ -12,5 +12,5 @@
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ju06p1/tuesday_daily_thread_advanced_questions/)
 - [virtual-fs: work with local or remote files with the same api](https://www.reddit.com/r/Python/comments/1jtyw41/virtualfs_work_with_local_or_remote_files_with/)
 - [Django ninja aio crud - rest framework](https://www.reddit.com/r/Python/comments/1jtuplx/django_ninja_aio_crud_rest_framework/)
-- [Algolia search problem](https://www.reddit.com/r/Python/comments/1jts6y9/algolia_search_problem/)
+- [Purview Data Map classified data export.](https://www.reddit.com/r/Python/comments/1jtirrg/purview_data_map_classified_data_export/)
 <!-- BLOG-POST-LIST:END -->
