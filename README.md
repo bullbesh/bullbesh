@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python course on udemy](https://www.reddit.com/r/Python/comments/1jue7qs/python_course_on_udemy/)
+- [Biggest headaches with Python and machine learning?](https://www.reddit.com/r/Python/comments/1jue6l5/biggest_headaches_with_python_and_machine_learning/)
+- [A simple REPL for the C programming language](https://www.reddit.com/r/Python/comments/1jue0a5/a_simple_repl_for_the_c_programming_language/)
 - [Semantic Versioning - should &lt;this&gt; be a major, minor, or patch release?](https://www.reddit.com/r/Python/comments/1ju7p17/semantic_versioning_should_this_be_a_major_minor/)
 - [Past exams or classroom-style problem sets](https://www.reddit.com/r/Python/comments/1ju43tp/past_exams_or_classroomstyle_problem_sets/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ju06p1/tuesday_daily_thread_advanced_questions/)
-- [virtual-fs: work with local or remote files with the same api](https://www.reddit.com/r/Python/comments/1jtyw41/virtualfs_work_with_local_or_remote_files_with/)
-- [Django ninja aio crud - rest framework](https://www.reddit.com/r/Python/comments/1jtuplx/django_ninja_aio_crud_rest_framework/)
 <!-- BLOG-POST-LIST:END -->
