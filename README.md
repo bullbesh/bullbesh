@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimize your Python Program for Slowness](https://www.reddit.com/r/Python/comments/1jug97f/optimize_your_python_program_for_slowness/)
 - [Python course on udemy](https://www.reddit.com/r/Python/comments/1jue7qs/python_course_on_udemy/)
 - [Biggest headaches with Python and machine learning?](https://www.reddit.com/r/Python/comments/1jue6l5/biggest_headaches_with_python_and_machine_learning/)
 - [A simple REPL for the C programming language](https://www.reddit.com/r/Python/comments/1jue0a5/a_simple_repl_for_the_c_programming_language/)
 - [Semantic Versioning - should &lt;this&gt; be a major, minor, or patch release?](https://www.reddit.com/r/Python/comments/1ju7p17/semantic_versioning_should_this_be_a_major_minor/)
-- [Past exams or classroom-style problem sets](https://www.reddit.com/r/Python/comments/1ju43tp/past_exams_or_classroomstyle_problem_sets/)
 <!-- BLOG-POST-LIST:END -->
