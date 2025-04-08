@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Past exams or classroom-style problem sets](https://www.reddit.com/r/Python/comments/1ju43tp/past_exams_or_classroomstyle_problem_sets/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ju06p1/tuesday_daily_thread_advanced_questions/)
 - [virtual-fs: work with local or remote files with the same api](https://www.reddit.com/r/Python/comments/1jtyw41/virtualfs_work_with_local_or_remote_files_with/)
 - [Django ninja aio crud - rest framework](https://www.reddit.com/r/Python/comments/1jtuplx/django_ninja_aio_crud_rest_framework/)
 - [Algolia search problem](https://www.reddit.com/r/Python/comments/1jts6y9/algolia_search_problem/)
-- [Running shell commands in Python](https://www.reddit.com/r/Python/comments/1jtl8lw/running_shell_commands_in_python/)
 <!-- BLOG-POST-LIST:END -->
