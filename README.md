@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A year of uv: pros, cons, and should you migrate](https://www.reddit.com/r/Python/comments/1jv3t1e/a_year_of_uv_pros_cons_and_should_you_migrate/)
 - [Lemone-API: OSS solution for French tax law and embeddings computation and classification](https://www.reddit.com/r/Python/comments/1jv340b/lemoneapi_oss_solution_for_french_tax_law_and/)
 - [Self-built YouTube / local media player](https://www.reddit.com/r/Python/comments/1jv1ils/selfbuilt_youtube_local_media_player/)
 - [🧱 InsertBuilder — SQL INSERT Statement Generator](https://www.reddit.com/r/Python/comments/1juw7so/insertbuilder_sql_insert_statement_generator/)
 - [uvx uvinit: The fastest possible way to start a modern Python project?](https://www.reddit.com/r/Python/comments/1jusx5z/uvx_uvinit_the_fastest_possible_way_to_start_a/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1jusf3y/wednesday_daily_thread_beginner_questions/)
 <!-- BLOG-POST-LIST:END -->
