@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Prompt engineering with Python &lpar;Phi 1.5&rpar;](https://www.reddit.com/r/Python/comments/1jv62qk/prompt_engineering_with_python_phi_15/)
 - [Does anyone knows good DSA in Python course or book?&lpar;paid or free&rpar;](https://www.reddit.com/r/Python/comments/1jv5gtb/does_anyone_knows_good_dsa_in_python_course_or/)
 - [A year of uv: pros, cons, and should you migrate](https://www.reddit.com/r/Python/comments/1jv3t1e/a_year_of_uv_pros_cons_and_should_you_migrate/)
 - [Lemone-API: OSS solution for French tax law and embeddings computation and classification](https://www.reddit.com/r/Python/comments/1jv340b/lemoneapi_oss_solution_for_french_tax_law_and/)
 - [Self-built YouTube / local media player](https://www.reddit.com/r/Python/comments/1jv1ils/selfbuilt_youtube_local_media_player/)
-- [🧱 InsertBuilder — SQL INSERT Statement Generator](https://www.reddit.com/r/Python/comments/1juw7so/insertbuilder_sql_insert_statement_generator/)
 <!-- BLOG-POST-LIST:END -->
