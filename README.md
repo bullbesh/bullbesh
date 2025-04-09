@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🧱 InsertBuilder — SQL INSERT Statement Generator](https://www.reddit.com/r/Python/comments/1juw7so/insertbuilder_sql_insert_statement_generator/)
 - [uvx uvinit: The fastest possible way to start a modern Python project?](https://www.reddit.com/r/Python/comments/1jusx5z/uvx_uvinit_the_fastest_possible_way_to_start_a/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1jusf3y/wednesday_daily_thread_beginner_questions/)
 - [Modern replacements for Textract](https://www.reddit.com/r/Python/comments/1jukvhh/modern_replacements_for_textract/)
 - [I&#39;m stuck on this part](https://www.reddit.com/r/Python/comments/1jujp1c/im_stuck_on_this_part/)
-- [Sphinx vs mkdocs vs &lpar;your favorite Pythonic Doc Tool&rpar;](https://www.reddit.com/r/Python/comments/1juie2r/sphinx_vs_mkdocs_vs_your_favorite_pythonic_doc/)
 <!-- BLOG-POST-LIST:END -->
