@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Readability vs Efficiency](https://www.reddit.com/r/Python/comments/1jwmuqo/readability_vs_efficiency/)
 - [when i load that script, the button &#39;iniciar chat&#39; dont load](https://www.reddit.com/r/Python/comments/1jwehxf/when_i_load_that_script_the_button_iniciar_chat/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1jwclny/friday_daily_thread_rpython_meta_and_freetalk/)
 - [PSA: You should remove &quot;wheel&quot; from your build-system.requires](https://www.reddit.com/r/Python/comments/1jwbymm/psa_you_should_remove_wheel_from_your/)
 - [SecureML: A Python Library for Privacy-Preserving Machine Learning with TensorFlow &amp; PyTorch](https://www.reddit.com/r/Python/comments/1jw7ud6/secureml_a_python_library_for_privacypreserving/)
-- [Python library for making complex projections, and analyzing the result](https://www.reddit.com/r/Python/comments/1jw7a04/python_library_for_making_complex_projections_and/)
 <!-- BLOG-POST-LIST:END -->
