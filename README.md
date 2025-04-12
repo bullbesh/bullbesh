@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Text extraction from PDF, Images, Office Documents and more](https://www.reddit.com/r/Python/comments/1jxqyzv/text_extraction_from_pdf_images_office_documents/)
 - [Arch. The AI-native proxy server that handles the low-level application logic for agents](https://www.reddit.com/r/Python/comments/1jxnk99/arch_the_ainative_proxy_server_that_handles_the/)
 - [minihtml - Yet another library to generate HTML from Python](https://www.reddit.com/r/Python/comments/1jxkkb8/minihtml_yet_another_library_to_generate_html/)
 - [Does is actually matter that Python is a simple language?](https://www.reddit.com/r/Python/comments/1jxjrky/does_is_actually_matter_that_python_is_a_simple/)
 - [Implemented python asyncio guest mode, made asyncas work with all UI frameworks like Win32, QT, TK](https://www.reddit.com/r/Python/comments/1jxb8xj/implemented_python_asyncio_guest_mode_made/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1jx4cik/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
