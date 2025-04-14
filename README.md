@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A new powerful tool for video creation](https://www.reddit.com/r/Python/comments/1jyphgr/a_new_powerful_tool_for_video_creation/)
+- [How to scrape specific data from MRFs?links in JSON format?](https://www.reddit.com/r/Python/comments/1jyp5mv/how_to_scrape_specific_data_from_mrfslinks_in/)
 - [Beginning My Coding Journey – Open to Advice](https://www.reddit.com/r/Python/comments/1jym38b/beginning_my_coding_journey_open_to_advice/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1jyloc8/monday_daily_thread_project_ideas/)
 - [Every Python Built-in Method Explained](https://www.reddit.com/r/Python/comments/1jy6iqc/every_python_builtin_method_explained/)
-- [I have almost no knowledge in Python or AI stuff, will starting with something AI related be vice?](https://www.reddit.com/r/Python/comments/1jy4bg3/i_have_almost_no_knowledge_in_python_or_ai_stuff/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1jxuxur/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
