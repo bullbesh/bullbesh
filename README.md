@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Getting Your r/Python posts removed: This Tool Guarantees Showcase Compliance](https://www.reddit.com/r/Python/comments/1jys3ym/stop_getting_your_rpython_posts_removed_this_tool/)
+- [Maps with Django⁽³⁾: GeoDjango, Pillow &amp; GPS](https://www.reddit.com/r/Python/comments/1jys085/maps_with_django³_geodjango_pillow_gps/)
 - [A new powerful tool for video creation](https://www.reddit.com/r/Python/comments/1jyphgr/a_new_powerful_tool_for_video_creation/)
 - [How to scrape specific data from MRFs?links in JSON format?](https://www.reddit.com/r/Python/comments/1jyp5mv/how_to_scrape_specific_data_from_mrfslinks_in/)
 - [Beginning My Coding Journey – Open to Advice](https://www.reddit.com/r/Python/comments/1jym38b/beginning_my_coding_journey_open_to_advice/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1jyloc8/monday_daily_thread_project_ideas/)
-- [Every Python Built-in Method Explained](https://www.reddit.com/r/Python/comments/1jy6iqc/every_python_builtin_method_explained/)
 <!-- BLOG-POST-LIST:END -->
