@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New release of Encryptor](https://www.reddit.com/r/Python/comments/1jzahdi/new_release_of_encryptor/)
 - [New security tools repository](https://www.reddit.com/r/Python/comments/1jz6cg3/new_security_tools_repository/)
 - [Basic Caesar cipher](https://www.reddit.com/r/Python/comments/1jz62tb/basic_caesar_cipher/)
 - [Opsmate - A LLM Powered SRE Assistant](https://www.reddit.com/r/Python/comments/1jz27f4/opsmate_a_llm_powered_sre_assistant/)
 - [Open Source projects open for contribution for beginners](https://www.reddit.com/r/Python/comments/1jz015y/open_source_projects_open_for_contribution_for/)
-- [I have launched over 10 SaaS MVPs . The Most successful was my Streamlit app 😂 Simplicity wins](https://www.reddit.com/r/Python/comments/1jyysqg/i_have_launched_over_10_saas_mvps_the_most/)
 <!-- BLOG-POST-LIST:END -->
