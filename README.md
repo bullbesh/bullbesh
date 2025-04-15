@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🌷 Pygame Community Spring Jam 2025 🌸](https://www.reddit.com/r/Python/comments/1jzevu4/pygame_community_spring_jam_2025/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1jzdwrh/tuesday_daily_thread_advanced_questions/)
+- [pycaption - create iFunny captions in Python &lpar;again&rpar;](https://www.reddit.com/r/Python/comments/1jzdqeh/pycaption_create_ifunny_captions_in_python_again/)
 - [New security tools repository](https://www.reddit.com/r/Python/comments/1jz6cg3/new_security_tools_repository/)
 - [Basic Caesar cipher](https://www.reddit.com/r/Python/comments/1jz62tb/basic_caesar_cipher/)
-- [Opsmate - A LLM Powered SRE Assistant](https://www.reddit.com/r/Python/comments/1jz27f4/opsmate_a_llm_powered_sre_assistant/)
-- [Open Source projects open for contribution for beginners](https://www.reddit.com/r/Python/comments/1jz015y/open_source_projects_open_for_contribution_for/)
-- [I have launched over 10 SaaS MVPs . The Most successful was my Streamlit app 😂 Simplicity wins](https://www.reddit.com/r/Python/comments/1jyysqg/i_have_launched_over_10_saas_mvps_the_most/)
 <!-- BLOG-POST-LIST:END -->
