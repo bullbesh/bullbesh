@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m so pissed. I don&#39;t know why I cant have this Jpeg appear as the background of my application.](https://www.reddit.com/r/Python/comments/1jzzk1o/im_so_pissed_i_dont_know_why_i_cant_have_this/)
+- [I made a YouTube video creator with Python &lpar;moviePy, requests, Pandas, and more&rpar;](https://www.reddit.com/r/Python/comments/1k00ixd/i_made_a_youtube_video_creator_with_python/)
 - [Best Ai tool to code python projects .](https://www.reddit.com/r/Python/comments/1jzyiju/best_ai_tool_to_code_python_projects/)
 - [Your module, your rules – enforce import-time contracts with ImportSpy](https://www.reddit.com/r/Python/comments/1jzxu8m/your_module_your_rules_enforce_importtime/)
 - [Providing my basic python projects](https://www.reddit.com/r/Python/comments/1jzt4g6/providing_my_basic_python_projects/)
