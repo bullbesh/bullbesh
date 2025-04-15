@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Analysis, Analytics and Coding &quot;Cheat Sheet&quot; Guides](https://www.reddit.com/r/Python/comments/1k04yo3/data_analysis_analytics_and_coding_cheat_sheet/)
 - [Hatchet - a task queue for modern Python apps](https://www.reddit.com/r/Python/comments/1k045yv/hatchet_a_task_queue_for_modern_python_apps/)
 - [Do I need to make pyinstaller executable separately for different linux platforms?](https://www.reddit.com/r/Python/comments/1k03fwx/do_i_need_to_make_pyinstaller_executable/)
 - [Python in SAS out](https://www.reddit.com/r/Python/comments/1k02ryl/python_in_sas_out/)
 - [I made a YouTube video creator with Python &lpar;moviePy, requests, Pandas, and more&rpar;](https://www.reddit.com/r/Python/comments/1k00ixd/i_made_a_youtube_video_creator_with_python/)
-- [Best Ai tool to code python projects .](https://www.reddit.com/r/Python/comments/1jzyiju/best_ai_tool_to_code_python_projects/)
 <!-- BLOG-POST-LIST:END -->
