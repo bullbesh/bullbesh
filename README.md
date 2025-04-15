@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [There&#39;s gotta be a better way to QA in Python](https://www.reddit.com/r/Python/comments/1jzrhwe/theres_gotta_be_a_better_way_to_qa_in_python/)
+- [[PLAYTESTERS WANTED]: A game that *secretly* teaches you Python](https://www.reddit.com/r/Python/comments/1jzrb38/playtesters_wanted_a_game_that_secretly_teaches/)
 - [Looking for Some Cloud Server Rental Recommendations!](https://www.reddit.com/r/Python/comments/1jzqgbn/looking_for_some_cloud_server_rental/)
 - [Python job market analytics for developers / technology popularity](https://www.reddit.com/r/Python/comments/1jzphbe/python_job_market_analytics_for_developers/)
 - [Matching names &amp; addresses techniques recommendations](https://www.reddit.com/r/Python/comments/1jzockh/matching_names_addresses_techniques/)
-- [Machine Learning project pipeline - Python](https://www.reddit.com/r/Python/comments/1jzibs9/machine_learning_project_pipeline_python/)
-- [🌷 Pygame Community Spring Jam 2025 🌸](https://www.reddit.com/r/Python/comments/1jzevu4/pygame_community_spring_jam_2025/)
 <!-- BLOG-POST-LIST:END -->
