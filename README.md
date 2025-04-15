@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Ai tool to code python projects .](https://www.reddit.com/r/Python/comments/1jzyiju/best_ai_tool_to_code_python_projects/)
+- [Your module, your rules – enforce import-time contracts with ImportSpy](https://www.reddit.com/r/Python/comments/1jzxu8m/your_module_your_rules_enforce_importtime/)
 - [Providing my basic python projects](https://www.reddit.com/r/Python/comments/1jzt4g6/providing_my_basic_python_projects/)
 - [Running AI Agents on Client Side](https://www.reddit.com/r/Python/comments/1jzswfg/running_ai_agents_on_client_side/)
 - [There&#39;s gotta be a better way to QA in Python](https://www.reddit.com/r/Python/comments/1jzrhwe/theres_gotta_be_a_better_way_to_qa_in_python/)
-- [[PLAYTESTERS WANTED]: A game that *secretly* teaches you Python](https://www.reddit.com/r/Python/comments/1jzrb38/playtesters_wanted_a_game_that_secretly_teaches/)
-- [Looking for Some Cloud Server Rental Recommendations!](https://www.reddit.com/r/Python/comments/1jzqgbn/looking_for_some_cloud_server_rental/)
 <!-- BLOG-POST-LIST:END -->
