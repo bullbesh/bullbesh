@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for Some Cloud Server Rental Recommendations!](https://www.reddit.com/r/Python/comments/1jzqgbn/looking_for_some_cloud_server_rental/)
+- [Python job market analytics for developers / technology popularity](https://www.reddit.com/r/Python/comments/1jzphbe/python_job_market_analytics_for_developers/)
 - [Matching names &amp; addresses techniques recommendations](https://www.reddit.com/r/Python/comments/1jzockh/matching_names_addresses_techniques/)
 - [Machine Learning project pipeline - Python](https://www.reddit.com/r/Python/comments/1jzibs9/machine_learning_project_pipeline_python/)
 - [🌷 Pygame Community Spring Jam 2025 🌸](https://www.reddit.com/r/Python/comments/1jzevu4/pygame_community_spring_jam_2025/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1jzdwrh/tuesday_daily_thread_advanced_questions/)
-- [pycaption - create iFunny captions in Python &lpar;again&rpar;](https://www.reddit.com/r/Python/comments/1jzdqeh/pycaption_create_ifunny_captions_in_python_again/)
 <!-- BLOG-POST-LIST:END -->
