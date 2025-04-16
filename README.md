@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What stack or architecture would you recommend for multi-threaded/message queue batch tasks?](https://www.reddit.com/r/Python/comments/1k0f9v6/what_stack_or_architecture_would_you_recommend/)
+- [Say hello to our new Sorting Algorithm, Phoenix Sort!](https://www.reddit.com/r/Python/comments/1k0f2qr/say_hello_to_our_new_sorting_algorithm_phoenix/)
 - [The Ultimate Roadmap to Learn Software Testing – for Developers 🧪](https://www.reddit.com/r/Python/comments/1k0da93/the_ultimate_roadmap_to_learn_software_testing/)
 - [Are junior data analyst roles disappearing? Where are the analyst jobs now?](https://www.reddit.com/r/Python/comments/1k0d98x/are_junior_data_analyst_roles_disappearing_where/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1k06xer/wednesday_daily_thread_beginner_questions/)
-- [Hatchet - a task queue for modern Python apps](https://www.reddit.com/r/Python/comments/1k045yv/hatchet_a_task_queue_for_modern_python_apps/)
-- [Do I need to make pyinstaller executable separately for different linux platforms?](https://www.reddit.com/r/Python/comments/1k03fwx/do_i_need_to_make_pyinstaller_executable/)
 <!-- BLOG-POST-LIST:END -->
