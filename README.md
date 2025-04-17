@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [convert-markdown - Package for converting markdown to polished PDF, HTML or PPT report &lpar;with charts&rpar;](https://www.reddit.com/r/Python/comments/1k1jyqk/convertmarkdown_package_for_converting_markdown/)
 - [Opinion on CS50P? Recently started watching the online Harvard course](https://www.reddit.com/r/Python/comments/1k1h3sy/opinion_on_cs50p_recently_started_watching_the/)
 - [Which are the most frequently asked python interview questions ?](https://www.reddit.com/r/Python/comments/1k1fay3/which_are_the_most_frequently_asked_python/)
 - [Python for Modbus TCP read/write](https://www.reddit.com/r/Python/comments/1k1c8aw/python_for_modbus_tcp_readwrite/)
 - [New Python Project: UV always the solution?](https://www.reddit.com/r/Python/comments/1k108g3/new_python_project_uv_always_the_solution/)
-- [Pycharm 2025.1: More AI, New&lpar;er&rpar; terminal, PreCommit Tests, Hatch Support, SQLAlchemy Types and more](https://www.reddit.com/r/Python/comments/1k100f4/pycharm_20251_more_ai_newer_terminal_precommit/)
 <!-- BLOG-POST-LIST:END -->
