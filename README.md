@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Python Project: UV always the solution?](https://www.reddit.com/r/Python/comments/1k108g3/new_python_project_uv_always_the_solution/)
+- [Pycharm 2025.1: More AI, New&lpar;er&rpar; terminal, PreCommit Tests, Hatch Support, SQLAlchemy Types and more](https://www.reddit.com/r/Python/comments/1k100f4/pycharm_20251_more_ai_newer_terminal_precommit/)
+- [Python dev environment on ubuntu via remote deskop connection](https://www.reddit.com/r/Python/comments/1k0zdf2/python_dev_environment_on_ubuntu_via_remote/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1k0zbhu/thursday_daily_thread_python_careers_courses_and/)
 - [🚀 PyCargo: The Fastest All-in-One Python Project Bootstrapper for Data Professionals](https://www.reddit.com/r/Python/comments/1k0tf0x/pycargo_the_fastest_allinone_python_project/)
-- [Getting &#39;Account not authorized&#39; error with OAuth 2.0 password grant type in Python script](https://www.reddit.com/r/Python/comments/1k0n5v5/getting_account_not_authorized_error_with_oauth/)
-- [DF Embedder - A high-performance library for embedding dataframes into local vector db](https://www.reddit.com/r/Python/comments/1k0mpke/df_embedder_a_highperformance_library_for/)
-- [Python-Based Framework for Verifiable Synthetic Data in Logic, Math, and Graph Theory &lpar;Loong 🐉&rpar;](https://www.reddit.com/r/Python/comments/1k0in78/pythonbased_framework_for_verifiable_synthetic/)
-- [What we can learn from Python docs analytics](https://www.reddit.com/r/Python/comments/1k0icer/what_we_can_learn_from_python_docs_analytics/)
 <!-- BLOG-POST-LIST:END -->
