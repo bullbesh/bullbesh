@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python for Modbus TCP read/write](https://www.reddit.com/r/Python/comments/1k1c8aw/python_for_modbus_tcp_readwrite/)
 - [New Python Project: UV always the solution?](https://www.reddit.com/r/Python/comments/1k108g3/new_python_project_uv_always_the_solution/)
 - [Pycharm 2025.1: More AI, New&lpar;er&rpar; terminal, PreCommit Tests, Hatch Support, SQLAlchemy Types and more](https://www.reddit.com/r/Python/comments/1k100f4/pycharm_20251_more_ai_newer_terminal_precommit/)
 - [Python dev environment on ubuntu via remote deskop connection](https://www.reddit.com/r/Python/comments/1k0zdf2/python_dev_environment_on_ubuntu_via_remote/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1k0zbhu/thursday_daily_thread_python_careers_courses_and/)
-- [🚀 PyCargo: The Fastest All-in-One Python Project Bootstrapper for Data Professionals](https://www.reddit.com/r/Python/comments/1k0tf0x/pycargo_the_fastest_allinone_python_project/)
 <!-- BLOG-POST-LIST:END -->
