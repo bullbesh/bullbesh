@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Package to 3D visualize a confidence interval](https://www.reddit.com/r/Python/comments/1k2622m/package_to_3d_visualize_a_confidence_interval/)
 - [My solution for solving for Palindromes seems so much different than provided answers on leetcode](https://www.reddit.com/r/Python/comments/1k24p26/my_solution_for_solving_for_palindromes_seems_so/)
 - [Packaging Python CLI apps with uv](https://www.reddit.com/r/Python/comments/1k24bpt/packaging_python_cli_apps_with_uv/)
 - [I fine-tuned LLM on 300K git commits to write high quality messages](https://www.reddit.com/r/Python/comments/1k21ss9/i_finetuned_llm_on_300k_git_commits_to_write_high/)
 - [Seeking Feedback on a Simple Offline File Encryption Tool Built with Python](https://www.reddit.com/r/Python/comments/1k1zkfs/seeking_feedback_on_a_simple_offline_file/)
-- [So I just made yet another video to slides converter](https://www.reddit.com/r/Python/comments/1k1z0gl/so_i_just_made_yet_another_video_to_slides/)
 <!-- BLOG-POST-LIST:END -->
