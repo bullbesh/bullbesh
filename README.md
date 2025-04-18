@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Codecademy to learn?](https://www.reddit.com/r/Python/comments/1k2i1pj/codecademy_to_learn/)
+- [Generate on-the-fly MCP servers from any OpenAPI spec](https://www.reddit.com/r/Python/comments/1k2hpqp/generate_onthefly_mcp_servers_from_any_openapi/)
+- [🚀 Introducing kodmatik.org – A New Python Learning Resource! 🚀](https://www.reddit.com/r/Python/comments/1k2hloz/introducing_kodmatikorg_a_new_python_learning/)
 - [Matsuoka CPG library](https://www.reddit.com/r/Python/comments/1k2gk9i/matsuoka_cpg_library/)
-- [I’m stuck on a machine learning test and need assistance](https://www.reddit.com/r/Python/comments/1k2g9nb/im_stuck_on_a_machine_learning_test_and_need/)
 - [Every Python Decorator Explained](https://www.reddit.com/r/Python/comments/1k2ervp/every_python_decorator_explained/)
-- [Multiprocessing &amp; Threading Guide In Python](https://www.reddit.com/r/Python/comments/1k2e2cb/multiprocessing_threading_guide_in_python/)
-- [Yahi a log parser and dataviz software](https://www.reddit.com/r/Python/comments/1k2bwtq/yahi_a_log_parser_and_dataviz_software/)
 <!-- BLOG-POST-LIST:END -->
