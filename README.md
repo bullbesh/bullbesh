@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Matsuoka CPG library](https://www.reddit.com/r/Python/comments/1k2gk9i/matsuoka_cpg_library/)
+- [I’m stuck on a machine learning test and need assistance](https://www.reddit.com/r/Python/comments/1k2g9nb/im_stuck_on_a_machine_learning_test_and_need/)
 - [Every Python Decorator Explained](https://www.reddit.com/r/Python/comments/1k2ervp/every_python_decorator_explained/)
 - [Multiprocessing &amp; Threading Guide In Python](https://www.reddit.com/r/Python/comments/1k2e2cb/multiprocessing_threading_guide_in_python/)
 - [Yahi a log parser and dataviz software](https://www.reddit.com/r/Python/comments/1k2bwtq/yahi_a_log_parser_and_dataviz_software/)
-- [TimePlanner - An API to get organized](https://www.reddit.com/r/Python/comments/1k29675/timeplanner_an_api_to_get_organized/)
-- [Choosing the right Python task queue](https://www.reddit.com/r/Python/comments/1k28gq0/choosing_the_right_python_task_queue/)
 <!-- BLOG-POST-LIST:END -->
