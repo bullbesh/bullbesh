@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [TimePlanner - An API to get organized](https://www.reddit.com/r/Python/comments/1k29675/timeplanner_an_api_to_get_organized/)
 - [Choosing the right Python task queue](https://www.reddit.com/r/Python/comments/1k28gq0/choosing_the_right_python_task_queue/)
 - [Package to 3D visualize a confidence interval](https://www.reddit.com/r/Python/comments/1k2622m/package_to_3d_visualize_a_confidence_interval/)
 - [My solution for solving for Palindromes seems so much different than provided answers on leetcode](https://www.reddit.com/r/Python/comments/1k24p26/my_solution_for_solving_for_palindromes_seems_so/)
 - [Packaging Python CLI apps with uv](https://www.reddit.com/r/Python/comments/1k24bpt/packaging_python_cli_apps_with_uv/)
-- [I fine-tuned LLM on 300K git commits to write high quality messages](https://www.reddit.com/r/Python/comments/1k21ss9/i_finetuned_llm_on_300k_git_commits_to_write_high/)
 <!-- BLOG-POST-LIST:END -->
