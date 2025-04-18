@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Every Python Decorator Explained](https://www.reddit.com/r/Python/comments/1k2ervp/every_python_decorator_explained/)
 - [Multiprocessing &amp; Threading Guide In Python](https://www.reddit.com/r/Python/comments/1k2e2cb/multiprocessing_threading_guide_in_python/)
 - [Yahi a log parser and dataviz software](https://www.reddit.com/r/Python/comments/1k2bwtq/yahi_a_log_parser_and_dataviz_software/)
 - [TimePlanner - An API to get organized](https://www.reddit.com/r/Python/comments/1k29675/timeplanner_an_api_to_get_organized/)
 - [Choosing the right Python task queue](https://www.reddit.com/r/Python/comments/1k28gq0/choosing_the_right_python_task_queue/)
-- [Package to 3D visualize a confidence interval](https://www.reddit.com/r/Python/comments/1k2622m/package_to_3d_visualize_a_confidence_interval/)
 <!-- BLOG-POST-LIST:END -->
