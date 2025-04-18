@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What type of projects have you guys made/making in Python?](https://www.reddit.com/r/Python/comments/1k1ybo9/what_type_of_projects_have_you_guys_mademaking_in/)
+- [Asynchronous initialization logic](https://www.reddit.com/r/Python/comments/1k1y782/asynchronous_initialization_logic/)
 - [Python data cleaning](https://www.reddit.com/r/Python/comments/1k1wgq9/python_data_cleaning/)
 - [pydebugviz – A time-travel debugger for Python &lpar;works in CLI, Jupyter, and IDEs&rpar;](https://www.reddit.com/r/Python/comments/1k1tnqz/pydebugviz_a_timetravel_debugger_for_python_works/)
 - [Someone Please Assist!](https://www.reddit.com/r/Python/comments/1k1smke/someone_please_assist/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1k1ri3c/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Curious about Python-powered content management? We got a demo session in May](https://www.reddit.com/r/Python/comments/1k1ra9z/curious_about_pythonpowered_content_management_we/)
 <!-- BLOG-POST-LIST:END -->
