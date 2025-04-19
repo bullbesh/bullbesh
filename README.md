@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you use Python mainly for work, or for personal use?](https://www.reddit.com/r/Python/comments/1k2pc6m/do_you_use_python_mainly_for_work_or_for_personal/)
 - [Tic-Tac-Toe AI in a single line of code](https://www.reddit.com/r/Python/comments/1k2noev/tictactoe_ai_in_a_single_line_of_code/)
 - [Startle: Instantly start a CLI from a function, functions, or a class](https://www.reddit.com/r/Python/comments/1k2kxgv/startle_instantly_start_a_cli_from_a_function/)
 - [Model Viewer - Embed interactive 3D &lpar;AR&rpar; models directly into your Dash applications](https://www.reddit.com/r/Python/comments/1k2jdyd/model_viewer_embed_interactive_3d_ar_models/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1k2jc12/saturday_daily_thread_resource_request_and/)
-- [Generate on-the-fly MCP servers from any OpenAPI spec](https://www.reddit.com/r/Python/comments/1k2hpqp/generate_onthefly_mcp_servers_from_any_openapi/)
 <!-- BLOG-POST-LIST:END -->
