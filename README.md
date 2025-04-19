@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Django better for monolithic or microservices if I want low latency and high performance?](https://www.reddit.com/r/Python/comments/1k2y3l8/is_django_better_for_monolithic_or_microservices/)
+- [Fast stringcase library](https://www.reddit.com/r/Python/comments/1k2xx29/fast_stringcase_library/)
 - [A simple app that lets you visualise and analyse pip packages installed on your system](https://www.reddit.com/r/Python/comments/1k2w14y/a_simple_app_that_lets_you_visualise_and_analyse/)
-- [How much do you use AI to write your code?](https://www.reddit.com/r/Python/comments/1k2vqr0/how_much_do_you_use_ai_to_write_your_code/)
-- [I finished Automate The Boring Stuff, what now ?](https://www.reddit.com/r/Python/comments/1k2vgx9/i_finished_automate_the_boring_stuff_what_now/)
 - [Large application template](https://www.reddit.com/r/Python/comments/1k2tlnp/large_application_template/)
-- [Primitive Data Types in Python – The Building Blocks of Your Code!](https://www.reddit.com/r/Python/comments/1k2qp7a/primitive_data_types_in_python_the_building/)
+- [Python automation](https://www.reddit.com/r/Python/comments/1k2qo39/python_automation/)
 <!-- BLOG-POST-LIST:END -->
