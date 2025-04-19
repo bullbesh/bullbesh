@@ -11,6 +11,6 @@
 - [Startle: Instantly start a CLI from a function, functions, or a class](https://www.reddit.com/r/Python/comments/1k2kxgv/startle_instantly_start_a_cli_from_a_function/)
 - [Model Viewer - Embed interactive 3D &lpar;AR&rpar; models directly into your Dash applications](https://www.reddit.com/r/Python/comments/1k2jdyd/model_viewer_embed_interactive_3d_ar_models/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1k2jc12/saturday_daily_thread_resource_request_and/)
-- [Codecademy to learn?](https://www.reddit.com/r/Python/comments/1k2i1pj/codecademy_to_learn/)
 - [Generate on-the-fly MCP servers from any OpenAPI spec](https://www.reddit.com/r/Python/comments/1k2hpqp/generate_onthefly_mcp_servers_from_any_openapi/)
+- [Matsuoka CPG library](https://www.reddit.com/r/Python/comments/1k2gk9i/matsuoka_cpg_library/)
 <!-- BLOG-POST-LIST:END -->
