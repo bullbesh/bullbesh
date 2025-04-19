@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A simple app that lets you visualise and analyse pip packages installed on your system](https://www.reddit.com/r/Python/comments/1k2w14y/a_simple_app_that_lets_you_visualise_and_analyse/)
+- [How much do you use AI to write your code?](https://www.reddit.com/r/Python/comments/1k2vqr0/how_much_do_you_use_ai_to_write_your_code/)
+- [I finished Automate The Boring Stuff, what now ?](https://www.reddit.com/r/Python/comments/1k2vgx9/i_finished_automate_the_boring_stuff_what_now/)
 - [Large application template](https://www.reddit.com/r/Python/comments/1k2tlnp/large_application_template/)
 - [Primitive Data Types in Python – The Building Blocks of Your Code!](https://www.reddit.com/r/Python/comments/1k2qp7a/primitive_data_types_in_python_the_building/)
-- [Python automation](https://www.reddit.com/r/Python/comments/1k2qo39/python_automation/)
-- [Do you use Python mainly for work, or for personal use?](https://www.reddit.com/r/Python/comments/1k2pc6m/do_you_use_python_mainly_for_work_or_for_personal/)
-- [Tic-Tac-Toe AI in a single line of code](https://www.reddit.com/r/Python/comments/1k2noev/tictactoe_ai_in_a_single_line_of_code/)
 <!-- BLOG-POST-LIST:END -->
