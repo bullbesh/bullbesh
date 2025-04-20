@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [lets discuss about comprehensions](https://www.reddit.com/r/Python/comments/1k3i5q6/lets_discuss_about_comprehensions/)
 - [Notes running Python in production](https://www.reddit.com/r/Python/comments/1k3fase/notes_running_python_in_production/)
 - [Model Context Protocol - Proof of Concept](https://www.reddit.com/r/Python/comments/1k3e8pa/model_context_protocol_proof_of_concept/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1k39vt8/sunday_daily_thread_whats_everyone_working_on/)
 - [Code folding is the best UI. PEP 8 line-spacing sucks. Right?](https://www.reddit.com/r/Python/comments/1k38x65/code_folding_is_the_best_ui_pep_8_linespacing/)
-- [Your thoughts on continuation backslashes? Best practices?](https://www.reddit.com/r/Python/comments/1k376gg/your_thoughts_on_continuation_backslashes_best/)
 <!-- BLOG-POST-LIST:END -->
