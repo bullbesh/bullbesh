@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [glyphx: A Better Alternative to matplotlib.pyplot – Fully SVG-Based and Interactive](https://www.reddit.com/r/Python/comments/1k3yoq5/glyphx_a_better_alternative_to_matplotlibpyplot/)
 - [CineDor Bot V3 – A Telegram bot to explore movies and TV shows with ease](https://www.reddit.com/r/Python/comments/1k3y1di/cinedor_bot_v3_a_telegram_bot_to_explore_movies/)
 - [The Complete Flask Rest Api Python Guide](https://www.reddit.com/r/Python/comments/1k3xrke/the_complete_flask_rest_api_python_guide/)
 - [Pandas library vs amd x3d processor family performance.](https://www.reddit.com/r/Python/comments/1k3u7aj/pandas_library_vs_amd_x3d_processor_family/)
 - [GhostHub – Flask media server with real-time chat, swipe nav, and one-click sharing](https://www.reddit.com/r/Python/comments/1k3t942/ghosthub_flask_media_server_with_realtime_chat/)
-- [A methodical and optimal approach to enforce and validate type- and value-checking](https://www.reddit.com/r/Python/comments/1k3s4ph/a_methodical_and_optimal_approach_to_enforce_and/)
 <!-- BLOG-POST-LIST:END -->
