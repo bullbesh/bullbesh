@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas library vs amd x3d processor family performance.](https://www.reddit.com/r/Python/comments/1k3u7aj/pandas_library_vs_amd_x3d_processor_family/)
+- [GhostHub – Flask media server with real-time chat, swipe nav, and one-click sharing](https://www.reddit.com/r/Python/comments/1k3t942/ghosthub_flask_media_server_with_realtime_chat/)
 - [The Complete Flask Rest Api Python Guide](https://www.reddit.com/r/Python/comments/1k3szln/the_complete_flask_rest_api_python_guide/)
 - [A methodical and optimal approach to enforce and validate type- and value-checking](https://www.reddit.com/r/Python/comments/1k3s4ph/a_methodical_and_optimal_approach_to_enforce_and/)
 - [lets discuss about comprehensions](https://www.reddit.com/r/Python/comments/1k3i5q6/lets_discuss_about_comprehensions/)
-- [Notes running Python in production](https://www.reddit.com/r/Python/comments/1k3fase/notes_running_python_in_production/)
-- [Model Context Protocol - Proof of Concept](https://www.reddit.com/r/Python/comments/1k3e8pa/model_context_protocol_proof_of_concept/)
 <!-- BLOG-POST-LIST:END -->
