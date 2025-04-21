@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [scam a mind mapper/markdown tool for authoring books in pdf/html with a LaTex rendering](https://www.reddit.com/r/Python/comments/1k4aq5o/scam_a_mind_mappermarkdown_tool_for_authoring/)
 - [msad cli for interacting with Active Directory from Linux and MacOs](https://www.reddit.com/r/Python/comments/1k48gvr/msad_cli_for_interacting_with_active_directory/)
 - [HlsKit-Py: A Python Library for HLS Video Processing 🚀](https://www.reddit.com/r/Python/comments/1k4457m/hlskitpy_a_python_library_for_hls_video_processing/)
 - [Should I rewrite Python 1.0?](https://www.reddit.com/r/Python/comments/1k41cmf/should_i_rewrite_python_10/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1k404cv/monday_daily_thread_project_ideas/)
-- [[OC] Anirra, a self-hosted, anime watchlist, search, and recommendations app](https://www.reddit.com/r/Python/comments/1k3zzph/oc_anirra_a_selfhosted_anime_watchlist_search_and/)
 <!-- BLOG-POST-LIST:END -->
