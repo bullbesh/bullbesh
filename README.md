@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [1,000 Python exercises](https://www.reddit.com/r/Python/comments/1k56mio/1000_python_exercises/)
 - [FastAPI Boilerplate User Login, User Registration, User Levels, Request Validation, etc.](https://www.reddit.com/r/Python/comments/1k55nbl/fastapi_boilerplate_user_login_user_registration/)
 - [FastAPI Forge: Visually Design &amp; Generate Full FastAPI Backends](https://www.reddit.com/r/Python/comments/1k52709/fastapi_forge_visually_design_generate_full/)
 - [Need assistance python coding!](https://www.reddit.com/r/Python/comments/1k4vtdz/need_assistance_python_coding/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1k4sm06/tuesday_daily_thread_advanced_questions/)
-- [Make your module faster in benchmarks by using tariffs on competing modules!](https://www.reddit.com/r/Python/comments/1k4qhdd/make_your_module_faster_in_benchmarks_by_using/)
 <!-- BLOG-POST-LIST:END -->
