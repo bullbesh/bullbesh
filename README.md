@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1k4sm06/tuesday_daily_thread_advanced_questions/)
 - [Make your module faster in benchmarks by using tariffs on competing modules!](https://www.reddit.com/r/Python/comments/1k4qhdd/make_your_module_faster_in_benchmarks_by_using/)
 - [Looking for a python programmer &lpar; paid service&rpar;](https://www.reddit.com/r/Python/comments/1k4ov12/looking_for_a_python_programmer_paid_service/)
 - [Made a Python Mod That Forces You to Be Happy in League of Legends 😁](https://www.reddit.com/r/Python/comments/1k4kx23/made_a_python_mod_that_forces_you_to_be_happy_in/)
-- [Anyone still using twisted in 2025.](https://www.reddit.com/r/Python/comments/1k4en05/anyone_still_using_twisted_in_2025/)
-- [Why was multithreading faster than multiprocessing?](https://www.reddit.com/r/Python/comments/1k4cwbm/why_was_multithreading_faster_than_multiprocessing/)
+- [FadeTop: real-time in-terminal stack trace visualiser for python processes](https://www.reddit.com/r/Python/comments/1k4jmuu/fadetop_realtime_interminal_stack_trace/)
 <!-- BLOG-POST-LIST:END -->
