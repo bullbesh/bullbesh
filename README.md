@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Would a set class that can hold mutable objects be useful?](https://www.reddit.com/r/Python/comments/1k5c8dk/would_a_set_class_that_can_hold_mutable_objects/)
+- [DisCard: Notes that don&#39;t overstay their welcome.](https://www.reddit.com/r/Python/comments/1k5b06y/discard_notes_that_dont_overstay_their_welcome/)
+- [My first python project: Static-DI. A type-based dependency injection library](https://www.reddit.com/r/Python/comments/1k5azpf/my_first_python_project_staticdi_a_typebased/)
 - [Work offering to pay for a python course. Any recommendations on courses?](https://www.reddit.com/r/Python/comments/1k5awlb/work_offering_to_pay_for_a_python_course_any/)
 - [1,000 Python exercises](https://www.reddit.com/r/Python/comments/1k56mio/1000_python_exercises/)
-- [FastAPI Boilerplate User Login, User Registration, User Levels, Request Validation, etc.](https://www.reddit.com/r/Python/comments/1k55nbl/fastapi_boilerplate_user_login_user_registration/)
-- [FastAPI Forge: Visually Design &amp; Generate Full FastAPI Backends](https://www.reddit.com/r/Python/comments/1k52709/fastapi_forge_visually_design_generate_full/)
-- [Need assistance python coding!](https://www.reddit.com/r/Python/comments/1k4vtdz/need_assistance_python_coding/)
 <!-- BLOG-POST-LIST:END -->
