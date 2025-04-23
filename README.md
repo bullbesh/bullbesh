@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [HsdPy: A Python Library for Vector Similarity with SIMD Acceleration](https://www.reddit.com/r/Python/comments/1k60ci8/hsdpy_a_python_library_for_vector_similarity_with/)
 - [Advanced Alchemy 1.0 - A framework agnostic library for SQLAlchemy](https://www.reddit.com/r/Python/comments/1k5z534/advanced_alchemy_10_a_framework_agnostic_library/)
 - [Pandas Error: “Columns must be same length as key” when using apply to split data into multiple colu](https://www.reddit.com/r/Python/comments/1k5yeua/pandas_error_columns_must_be_same_length_as_key/)
 - [Declarative GUI toolkit - Slint 1.11 upgrades Python Bindings to Beta 🚀](https://www.reddit.com/r/Python/comments/1k5wqpr/declarative_gui_toolkit_slint_111_upgrades_python/)
 - [How to extract data from Wikipedia for a specific category?](https://www.reddit.com/r/Python/comments/1k5w65s/how_to_extract_data_from_wikipedia_for_a_specific/)
-- [Less magic alternative to pytest?](https://www.reddit.com/r/Python/comments/1k5q6og/less_magic_alternative_to_pytest/)
 <!-- BLOG-POST-LIST:END -->
