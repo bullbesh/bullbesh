@@ -11,6 +11,6 @@
 - [&lpar;Qiskit&rpar; - Quantum Scheduler: Optimize Dependent Workflows Using Variational Quantum Algorithms](https://www.reddit.com/r/Python/comments/1k6788l/qiskit_quantum_scheduler_optimize_dependent/)
 - [Goombay: For all your sequence alignment needs](https://www.reddit.com/r/Python/comments/1k6259g/goombay_for_all_your_sequence_alignment_needs/)
 - [HsdPy: A Python Library for Vector Similarity with SIMD Acceleration](https://www.reddit.com/r/Python/comments/1k60ci8/hsdpy_a_python_library_for_vector_similarity_with/)
+- [First release of NeXosim-py front-end for discrete-event simulation and spacecraft digital-twinning](https://www.reddit.com/r/Python/comments/1k603oy/first_release_of_nexosimpy_frontend_for/)
 - [Advanced Alchemy 1.0 - A framework agnostic library for SQLAlchemy](https://www.reddit.com/r/Python/comments/1k5z534/advanced_alchemy_10_a_framework_agnostic_library/)
-- [Pandas Error: “Columns must be same length as key” when using apply to split data into multiple colu](https://www.reddit.com/r/Python/comments/1k5yeua/pandas_error_columns_must_be_same_length_as_key/)
 <!-- BLOG-POST-LIST:END -->
