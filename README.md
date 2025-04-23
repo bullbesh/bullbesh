@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1k5lh9f/wednesday_daily_thread_beginner_questions/)
 - [lsoph - a TUI for viewing file access by a process](https://www.reddit.com/r/Python/comments/1k5kj23/lsoph_a_tui_for_viewing_file_access_by_a_process/)
 - [faceit-python: Strongly Typed Python Client for the FACEIT API](https://www.reddit.com/r/Python/comments/1k5idmt/faceitpython_strongly_typed_python_client_for_the/)
 - [TypedDict type is not giving any error despite using extra keys and using different datatype for a d](https://www.reddit.com/r/Python/comments/1k5dy6x/typeddict_type_is_not_giving_any_error_despite/)
 - [Would a set class that can hold mutable objects be useful?](https://www.reddit.com/r/Python/comments/1k5c8dk/would_a_set_class_that_can_hold_mutable_objects/)
-- [DisCard: Notes that don&#39;t overstay their welcome.](https://www.reddit.com/r/Python/comments/1k5b06y/discard_notes_that_dont_overstay_their_welcome/)
 <!-- BLOG-POST-LIST:END -->
