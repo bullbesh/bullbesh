@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Amplification of transfer function with python](https://www.reddit.com/r/Python/comments/1k5v8lw/amplification_of_transfer_function_with_python/)
+- [How to extract data from Wikipedia for a specific category?](https://www.reddit.com/r/Python/comments/1k5w65s/how_to_extract_data_from_wikipedia_for_a_specific/)
 - [Less magic alternative to pytest?](https://www.reddit.com/r/Python/comments/1k5q6og/less_magic_alternative_to_pytest/)
 - [CPython&#39;s optimization for doubly linked lists in deque &lpar;amortizes 200% link memory overhead&rpar;](https://www.reddit.com/r/Python/comments/1k5nxvt/cpythons_optimization_for_doubly_linked_lists_in/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1k5lh9f/wednesday_daily_thread_beginner_questions/)
