@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bought this Engine and love this](https://www.reddit.com/r/Python/comments/1k6f25r/bought_this_engine_and_love_this/)
+- [Jonq! Your python wrapper for jq thats readable](https://www.reddit.com/r/Python/comments/1k6es7d/jonq_your_python_wrapper_for_jq_thats_readable/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1k6ecup/thursday_daily_thread_python_careers_courses_and/)
 - [&lpar;Qiskit&rpar; - Quantum Scheduler: Optimize Dependent Workflows Using Variational Quantum Algorithms](https://www.reddit.com/r/Python/comments/1k6788l/qiskit_quantum_scheduler_optimize_dependent/)
 - [Goombay: For all your sequence alignment needs](https://www.reddit.com/r/Python/comments/1k6259g/goombay_for_all_your_sequence_alignment_needs/)
-- [HsdPy: A Python Library for Vector Similarity with SIMD Acceleration](https://www.reddit.com/r/Python/comments/1k60ci8/hsdpy_a_python_library_for_vector_similarity_with/)
-- [First release of NeXosim-py front-end for discrete-event simulation and spacecraft digital-twinning](https://www.reddit.com/r/Python/comments/1k603oy/first_release_of_nexosimpy_frontend_for/)
-- [Advanced Alchemy 1.0 - A framework agnostic library for SQLAlchemy](https://www.reddit.com/r/Python/comments/1k5z534/advanced_alchemy_10_a_framework_agnostic_library/)
 <!-- BLOG-POST-LIST:END -->
