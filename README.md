@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can any one suggest me major projects idea for end semester in python full stack?](https://www.reddit.com/r/Python/comments/1k6irr4/can_any_one_suggest_me_major_projects_idea_for/)
+- [iFetch v2.0: A Python Tool for Bulk iCloud Drive Downloads](https://www.reddit.com/r/Python/comments/1k6ipim/ifetch_v20_a_python_tool_for_bulk_icloud_drive/)
 - [Bought this Engine and love this](https://www.reddit.com/r/Python/comments/1k6f25r/bought_this_engine_and_love_this/)
 - [Jonq! Your python wrapper for jq thats readable](https://www.reddit.com/r/Python/comments/1k6es7d/jonq_your_python_wrapper_for_jq_thats_readable/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1k6ecup/thursday_daily_thread_python_careers_courses_and/)
-- [&lpar;Qiskit&rpar; - Quantum Scheduler: Optimize Dependent Workflows Using Variational Quantum Algorithms](https://www.reddit.com/r/Python/comments/1k6788l/qiskit_quantum_scheduler_optimize_dependent/)
-- [Goombay: For all your sequence alignment needs](https://www.reddit.com/r/Python/comments/1k6259g/goombay_for_all_your_sequence_alignment_needs/)
 <!-- BLOG-POST-LIST:END -->
