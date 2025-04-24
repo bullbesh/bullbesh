@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [yahi a log aggregator based on regexp spewing &quot;all in one page&quot; visualisation](https://www.reddit.com/r/Python/comments/1k70ao5/yahi_a_log_aggregator_based_on_regexp_spewing_all/)
 - [A Simple AI-Powered Markdown Notepad for Your Terminal](https://www.reddit.com/r/Python/comments/1k6ywwz/a_simple_aipowered_markdown_notepad_for_your/)
 - [I built a Python framework for testing, stealth, and CAPTCHA-bypass](https://www.reddit.com/r/Python/comments/1k6wmmh/i_built_a_python_framework_for_testing_stealth/)
 - [Most optimized Python package for Taboo Search?](https://www.reddit.com/r/Python/comments/1k6vd4j/most_optimized_python_package_for_taboo_search/)
 - [How should I teach someone coming from Stata?](https://www.reddit.com/r/Python/comments/1k6unrd/how_should_i_teach_someone_coming_from_stata/)
-- [Taming async events: Backend uses for pairwise, filter, debounce, throttle in `reaktiv`](https://www.reddit.com/r/Python/comments/1k6relk/taming_async_events_backend_uses_for_pairwise/)
 <!-- BLOG-POST-LIST:END -->
