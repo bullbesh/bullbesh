@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI developer experience Idea Validation](https://www.reddit.com/r/Python/comments/1k7qyqx/ai_developer_experience_idea_validation/)
+- [Using ScraperAPI to bypass Cloudflare in Python](https://www.reddit.com/r/Python/comments/1k7qkax/using_scraperapi_to_bypass_cloudflare_in_python/)
 - [Junie vs AI chat in Pycharm](https://www.reddit.com/r/Python/comments/1k7q05y/junie_vs_ai_chat_in_pycharm/)
 - [Getting started](https://www.reddit.com/r/Python/comments/1k7piof/getting_started/)
 - [My own programming language](https://www.reddit.com/r/Python/comments/1k7ogiz/my_own_programming_language/)
-- [Turtle Art Pattern using Turtle in pyhon](https://www.reddit.com/r/Python/comments/1k7mk6z/turtle_art_pattern_using_turtle_in_pyhon/)
-- [Signal-based State Management in Python: How I Brought Angular&#39;s Best Feature to Backend Code](https://www.reddit.com/r/Python/comments/1k7kt89/signalbased_state_management_in_python_how_i/)
 <!-- BLOG-POST-LIST:END -->
