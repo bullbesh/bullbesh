@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built ErrorTrace Pro — Make Python errors visual, easier to understand, and log to the cloud](https://www.reddit.com/r/Python/comments/1k95s2g/i_built_errortrace_pro_make_python_errors_visual/)
+- [Explain the working of decorator](https://www.reddit.com/r/Python/comments/1k95el3/explain_the_working_of_decorator/)
 - [Imgui with pygame and mgl?](https://www.reddit.com/r/Python/comments/1k90xb7/imgui_with_pygame_and_mgl/)
 - [I have some free time...](https://www.reddit.com/r/Python/comments/1k8zwp3/i_have_some_free_time/)
 - [How does Python 3.13 perform vs 3.11 in single-threaded mode?](https://www.reddit.com/r/Python/comments/1k8zcdi/how_does_python_313_perform_vs_311_in/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1k8qtm2/sunday_daily_thread_whats_everyone_working_on/)
-- [Pip 25.1 is here - install dependency groups and output lock files!](https://www.reddit.com/r/Python/comments/1k8lav8/pip_251_is_here_install_dependency_groups_and/)
 <!-- BLOG-POST-LIST:END -->
