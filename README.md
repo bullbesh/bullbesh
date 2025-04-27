@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m new to programming and I&#39;m starting with Python that they recommend](https://www.reddit.com/r/Python/comments/1k9fhjp/im_new_to_programming_and_im_starting_with_python/)
+- [How does NGINX Unit perform vs Uvicorn in production for FastAPI / Litestar deployments?](https://www.reddit.com/r/Python/comments/1k9gf7w/how_does_nginx_unit_perform_vs_uvicorn_in/)
 - [Debugging Python f-string errors](https://www.reddit.com/r/Python/comments/1k97u9w/debugging_python_fstring_errors/)
 - [injected: A library for FastAPI-style dependency injection &lpar;and resolution&rpar;](https://www.reddit.com/r/Python/comments/1k96opn/injected_a_library_for_fastapistyle_dependency/)
 - [I built ErrorTrace Pro — Make Python errors visual, easier to understand, and log to the cloud](https://www.reddit.com/r/Python/comments/1k95s2g/i_built_errortrace_pro_make_python_errors_visual/)
