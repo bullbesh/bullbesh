@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pokemon Bot Setup Guide](https://www.reddit.com/r/Python/comments/1k8t3yg/pokemon_bot_setup_guide/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1k8qtm2/sunday_daily_thread_whats_everyone_working_on/)
 - [Pip 25.1 is here - install dependency groups and output lock files!](https://www.reddit.com/r/Python/comments/1k8lav8/pip_251_is_here_install_dependency_groups_and/)
 - [Global private functions? Is this &quot;good practice&quot; in any setting?](https://www.reddit.com/r/Python/comments/1k8kkaq/global_private_functions_is_this_good_practice_in/)
 - [Can AI play a role in creating automated software tests?](https://www.reddit.com/r/Python/comments/1k8glge/can_ai_play_a_role_in_creating_automated_software/)
-- [Does any one need job support struck in the task dm me. I will provide free support.](https://www.reddit.com/r/Python/comments/1k8djt8/does_any_one_need_job_support_struck_in_the_task/)
 <!-- BLOG-POST-LIST:END -->
