@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [CyCompile: Democratizing Performance — Easy Function-Level Optimization with Cython](https://www.reddit.com/r/Python/comments/1ka0m88/cycompile_democratizing_performance_easy/)
 - [How should I simplify this mess](https://www.reddit.com/r/Python/comments/1k9yfqk/how_should_i_simplify_this_mess/)
 - [What are some unique Python-related questions you have encountered in an interview?](https://www.reddit.com/r/Python/comments/1k9x4kw/what_are_some_unique_pythonrelated_questions_you/)
 - [[REQUEST] Free &lpar;or ~50 images/day&rpar; Text-to-Image API for Python?](https://www.reddit.com/r/Python/comments/1k9wx1f/request_free_or_50_imagesday_texttoimage_api_for/)
 - [Garmin Grafana Dashboard : Visualize your health metrics from your Garmin with Python](https://www.reddit.com/r/Python/comments/1k9txqf/garmin_grafana_dashboard_visualize_your_health/)
-- [Advice needed!!](https://www.reddit.com/r/Python/comments/1k9tkdx/advice_needed/)
 <!-- BLOG-POST-LIST:END -->
