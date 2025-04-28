@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What I found to the the problem with Raspberry PI&#39;s AI Camera and opencv&#39;s VideoCapture class.](https://www.reddit.com/r/Python/comments/1ka85bo/what_i_found_to_the_the_problem_with_raspberry/)
+- [lblprof: Easily see your python code’s performance, Line by Line](https://www.reddit.com/r/Python/comments/1ka71qs/lblprof_easily_see_your_python_codes_performance/)
 - [CyCompile: Democratizing Performance — Easy Function-Level Optimization with Cython](https://www.reddit.com/r/Python/comments/1ka0m88/cycompile_democratizing_performance_easy/)
 - [How should I simplify this mess](https://www.reddit.com/r/Python/comments/1k9yfqk/how_should_i_simplify_this_mess/)
 - [What are some unique Python-related questions you have encountered in an interview?](https://www.reddit.com/r/Python/comments/1k9x4kw/what_are_some_unique_pythonrelated_questions_you/)
-- [[REQUEST] Free &lpar;or ~50 images/day&rpar; Text-to-Image API for Python?](https://www.reddit.com/r/Python/comments/1k9wx1f/request_free_or_50_imagesday_texttoimage_api_for/)
-- [Garmin Grafana Dashboard : Visualize your health metrics from your Garmin with Python](https://www.reddit.com/r/Python/comments/1k9txqf/garmin_grafana_dashboard_visualize_your_health/)
 <!-- BLOG-POST-LIST:END -->
