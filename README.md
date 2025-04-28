@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are some unique Python-related questions you have encountered in an interview?](https://www.reddit.com/r/Python/comments/1k9x4kw/what_are_some_unique_pythonrelated_questions_you/)
+- [[REQUEST] Free &lpar;or ~50 images/day&rpar; Text-to-Image API for Python?](https://www.reddit.com/r/Python/comments/1k9wx1f/request_free_or_50_imagesday_texttoimage_api_for/)
 - [Garmin Grafana Dashboard : Visualize your health metrics from your Garmin with Python](https://www.reddit.com/r/Python/comments/1k9txqf/garmin_grafana_dashboard_visualize_your_health/)
 - [Advice needed!!](https://www.reddit.com/r/Python/comments/1k9tkdx/advice_needed/)
 - [I am a Teacher looking for a career change. Is knowing Python enough to land me a job?](https://www.reddit.com/r/Python/comments/1k9sftq/i_am_a_teacher_looking_for_a_career_change_is/)
-- [[R] Work in Progress: Advanced Conformal Prediction – Practical Machine Learning](https://www.reddit.com/r/Python/comments/1k9qm5z/r_work_in_progress_advanced_conformal_prediction/)
-- [Does anyone have a method to find the &quot;sum&quot; of data in Python?](https://www.reddit.com/r/Python/comments/1k9oh77/does_anyone_have_a_method_to_find_the_sum_of_data/)
 <!-- BLOG-POST-LIST:END -->
