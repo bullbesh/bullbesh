@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does anyone have a method to find the &quot;sum&quot; of data in Python?](https://www.reddit.com/r/Python/comments/1k9oh77/does_anyone_have_a_method_to_find_the_sum_of_data/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1k9i87u/monday_daily_thread_project_ideas/)
 - [How does NGINX Unit perform vs Uvicorn in production for FastAPI / Litestar deployments?](https://www.reddit.com/r/Python/comments/1k9gf7w/how_does_nginx_unit_perform_vs_uvicorn_in/)
 - [Debugging Python f-string errors](https://www.reddit.com/r/Python/comments/1k97u9w/debugging_python_fstring_errors/)
 - [injected: A library for FastAPI-style dependency injection &lpar;and resolution&rpar;](https://www.reddit.com/r/Python/comments/1k96opn/injected_a_library_for_fastapistyle_dependency/)
-- [I built ErrorTrace Pro — Make Python errors visual, easier to understand, and log to the cloud](https://www.reddit.com/r/Python/comments/1k95s2g/i_built_errortrace_pro_make_python_errors_visual/)
 <!-- BLOG-POST-LIST:END -->
