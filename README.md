@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Crypto google trends](https://www.reddit.com/r/Python/comments/1kb06mo/crypto_google_trends/)
+- [I love it when random gives a number outside the settings](https://www.reddit.com/r/Python/comments/1kazyox/i_love_it_when_random_gives_a_number_outside_the/)
 - [Are the CS50 Courses on YouTube actually helpful?](https://www.reddit.com/r/Python/comments/1kaxyu6/are_the_cs50_courses_on_youtube_actually_helpful/)
 - [What to Do When HTTP Status Codes Don’t Fit Your Business Error](https://www.reddit.com/r/Python/comments/1katmkr/what_to_do_when_http_status_codes_dont_fit_your/)
 - [Python projects for beginners](https://www.reddit.com/r/Python/comments/1kat5bh/python_projects_for_beginners/)
-- [Python for Engineers and Scientists](https://www.reddit.com/r/Python/comments/1kasj6r/python_for_engineers_and_scientists/)
-- [Bring Python 3.10’s match/case to 3.7+ with patterna](https://www.reddit.com/r/Python/comments/1kardx9/bring_python_310s_matchcase_to_37_with_patterna/)
 <!-- BLOG-POST-LIST:END -->
