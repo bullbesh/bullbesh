@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bring Python 3.10’s match/case to 3.7+ with patterna](https://www.reddit.com/r/Python/comments/1kardx9/bring_python_310s_matchcase_to_37_with_patterna/)
+- [Using type signatures with libCST](https://www.reddit.com/r/Python/comments/1kar0qa/using_type_signatures_with_libcst/)
 - [Lexy - CLI tool that fetches programming tutorials from &quot;Learn X in Y Minutes&quot;](https://www.reddit.com/r/Python/comments/1kaq4sm/lexy_cli_tool_that_fetches_programming_tutorials/)
 - [Descriptive statistics in Python](https://www.reddit.com/r/Python/comments/1kao9lg/descriptive_statistics_in_python/)
 - [Convert ChatGPT Shared Links to Formatted DOCX – With GUI + EXE Version](https://www.reddit.com/r/Python/comments/1kanwuf/convert_chatgpt_shared_links_to_formatted_docx/)
-- [Trying to Boost My Course - Reviews and Feedback Needed Please](https://www.reddit.com/r/Python/comments/1kam52d/trying_to_boost_my_course_reviews_and_feedback/)
-- [RYLR: Python Library for Lora uart modules](https://www.reddit.com/r/Python/comments/1kak4r7/rylr_python_library_for_lora_uart_modules/)
 <!-- BLOG-POST-LIST:END -->
