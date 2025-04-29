@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lexy - CLI tool that fetches programming tutorials from &quot;Learn X in Y Minutes&quot;](https://www.reddit.com/r/Python/comments/1kaq4sm/lexy_cli_tool_that_fetches_programming_tutorials/)
 - [Descriptive statistics in Python](https://www.reddit.com/r/Python/comments/1kao9lg/descriptive_statistics_in_python/)
-- [Offline Automation Magic: Python Scripts to Make Your Life Easier](https://www.reddit.com/r/Python/comments/1kao3k6/offline_automation_magic_python_scripts_to_make/)
 - [Convert ChatGPT Shared Links to Formatted DOCX – With GUI + EXE Version](https://www.reddit.com/r/Python/comments/1kanwuf/convert_chatgpt_shared_links_to_formatted_docx/)
 - [Trying to Boost My Course - Reviews and Feedback Needed Please](https://www.reddit.com/r/Python/comments/1kam52d/trying_to_boost_my_course_reviews_and_feedback/)
 - [RYLR: Python Library for Lora uart modules](https://www.reddit.com/r/Python/comments/1kak4r7/rylr_python_library_for_lora_uart_modules/)
