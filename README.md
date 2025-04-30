@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [My Python code heavily needs internet](https://www.reddit.com/r/Python/comments/1kbiqa7/my_python_code_heavily_needs_internet/)
+- [JobSpy Docker API - A FastAPI-based Job Search API](https://www.reddit.com/r/Python/comments/1kbjvtr/jobspy_docker_api_a_fastapibased_job_search_api/)
 - [My python Series](https://www.reddit.com/r/Python/comments/1kbhc7r/my_python_series/)
 - [Best framework to learn? Flask, Django, or Fast API](https://www.reddit.com/r/Python/comments/1kbcz7a/best_framework_to_learn_flask_django_or_fast_api/)
 - [Matplotlib pcolormesh doesnt show Z coordinate](https://www.reddit.com/r/Python/comments/1kbctt2/matplotlib_pcolormesh_doesnt_show_z_coordinate/)
