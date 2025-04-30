@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1kb2vim/wednesday_daily_thread_beginner_questions/)
+- [Been creating a script to donwload my Letterboxd watchlist](https://www.reddit.com/r/Python/comments/1kb2n71/been_creating_a_script_to_donwload_my_letterboxd/)
 - [Crypto google trends](https://www.reddit.com/r/Python/comments/1kb06mo/crypto_google_trends/)
 - [I love it when random gives a number outside the settings](https://www.reddit.com/r/Python/comments/1kazyox/i_love_it_when_random_gives_a_number_outside_the/)
 - [Are the CS50 Courses on YouTube actually helpful?](https://www.reddit.com/r/Python/comments/1kaxyu6/are_the_cs50_courses_on_youtube_actually_helpful/)
-- [What to Do When HTTP Status Codes Don’t Fit Your Business Error](https://www.reddit.com/r/Python/comments/1katmkr/what_to_do_when_http_status_codes_dont_fit_your/)
-- [Python projects for beginners](https://www.reddit.com/r/Python/comments/1kat5bh/python_projects_for_beginners/)
 <!-- BLOG-POST-LIST:END -->
