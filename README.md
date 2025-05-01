@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trying to edit script](https://www.reddit.com/r/Python/comments/1kbyvfv/trying_to_edit_script/)
 - [PEP 790 – Python 3.15 Release Schedule](https://www.reddit.com/r/Python/comments/1kbvpr4/pep_790_python_315_release_schedule/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1kbv9e0/thursday_daily_thread_python_careers_courses_and/)
 - [I created a logging module for python, feedback/idea are welcome !](https://www.reddit.com/r/Python/comments/1kbsvyq/i_created_a_logging_module_for_python/)
 - [Guys i&#39;m new to pyhton and i&#39;m even struguling to properly download it](https://www.reddit.com/r/Python/comments/1kbpebb/guys_im_new_to_pyhton_and_im_even_struguling_to/)
-- [inline - function &amp; method inliner &lpar;by ast&rpar;](https://www.reddit.com/r/Python/comments/1kboqlu/inline_function_method_inliner_by_ast/)
 <!-- BLOG-POST-LIST:END -->
