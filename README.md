@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Page login with per-click token genaration?](https://www.reddit.com/r/Python/comments/1kcjk90/web_page_login_with_perclick_token_genaration/)
 - [What is you method of designing/creating a python script &lpar;top -&gt; bottom or bottom-&gt; top &rpar;](https://www.reddit.com/r/Python/comments/1kci456/what_is_you_method_of_designingcreating_a_python/)
 - [Template strings in Python 3.14: an useful new feature or just an extra syntax?](https://www.reddit.com/r/Python/comments/1kch7hf/template_strings_in_python_314_an_useful_new/)
 - [Pytocpp: A toy transpiler from a subset of Python to C++](https://www.reddit.com/r/Python/comments/1kcbepg/pytocpp_a_toy_transpiler_from_a_subset_of_python/)
 - [Anyone aware of redbaron or Rope MCPs?](https://www.reddit.com/r/Python/comments/1kc6ymy/anyone_aware_of_redbaron_or_rope_mcps/)
-- [Creating &amp; Programming Modern Themed Tables in Python using ttkbootstrap Library](https://www.reddit.com/r/Python/comments/1kc60ih/creating_programming_modern_themed_tables_in/)
 <!-- BLOG-POST-LIST:END -->
