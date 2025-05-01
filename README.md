@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anyone aware of redbaron or Rope MCPs?](https://www.reddit.com/r/Python/comments/1kc6ymy/anyone_aware_of_redbaron_or_rope_mcps/)
 - [Creating &amp; Programming Modern Themed Tables in Python using ttkbootstrap Library](https://www.reddit.com/r/Python/comments/1kc60ih/creating_programming_modern_themed_tables_in/)
 - [Simulink open source alternative bdedit and bdsim....and better alternative?](https://www.reddit.com/r/Python/comments/1kc527j/simulink_open_source_alternative_bdedit_and/)
 - [Syd: A package for making GUIs in python easy peasy](https://www.reddit.com/r/Python/comments/1kc3vk6/syd_a_package_for_making_guis_in_python_easy_peasy/)
 - [Trying to edit script](https://www.reddit.com/r/Python/comments/1kbyvfv/trying_to_edit_script/)
-- [PEP 790 – Python 3.15 Release Schedule](https://www.reddit.com/r/Python/comments/1kbvpr4/pep_790_python_315_release_schedule/)
 <!-- BLOG-POST-LIST:END -->
