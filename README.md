@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python para Análise de Dados em Redes de Computadores](https://www.reddit.com/r/Python/comments/1kcot13/python_para_análise_de_dados_em_redes_de/)
+- [Changing my current script](https://www.reddit.com/r/Python/comments/1kco6oq/changing_my_current_script/)
+- [Looking for intermediate/advanced level python courses for data analytics](https://www.reddit.com/r/Python/comments/1kco45y/looking_for_intermediateadvanced_level_python/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1kcnhrk/friday_daily_thread_rpython_meta_and_freetalk/)
 - [I Made AI Powered Bulk Background Remover](https://www.reddit.com/r/Python/comments/1kclan0/i_made_ai_powered_bulk_background_remover/)
-- [Web Page login with per-click token genaration?](https://www.reddit.com/r/Python/comments/1kcjk90/web_page_login_with_perclick_token_genaration/)
-- [What is you method of designing/creating a python script &lpar;top -&gt; bottom or bottom-&gt; top &rpar;](https://www.reddit.com/r/Python/comments/1kci456/what_is_you_method_of_designingcreating_a_python/)
-- [Template strings in Python 3.14: an useful new feature or just an extra syntax?](https://www.reddit.com/r/Python/comments/1kch7hf/template_strings_in_python_314_an_useful_new/)
-- [Pytocpp: A toy transpiler from a subset of Python to C++](https://www.reddit.com/r/Python/comments/1kcbepg/pytocpp_a_toy_transpiler_from_a_subset_of_python/)
 <!-- BLOG-POST-LIST:END -->
