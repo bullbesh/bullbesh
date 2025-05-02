@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PgQueuer – PostgreSQL-native job &amp; schedule queue, gathering ideas for 1.0 🎯](https://www.reddit.com/r/Python/comments/1kd6ci0/pgqueuer_postgresqlnative_job_schedule_queue/)
 - [ETL template with clean architecture](https://www.reddit.com/r/Python/comments/1kd4aib/etl_template_with_clean_architecture/)
 - [Upgrading Python 3.10 to 3.14](https://www.reddit.com/r/Python/comments/1kd3w42/upgrading_python_310_to_314/)
 - [I just published an update for my articles on Python packaging &lpar;PEP 751&rpar; and some remaining issues](https://www.reddit.com/r/Python/comments/1kcumjf/i_just_published_an_update_for_my_articles_on/)
 - [RunCE &lpar;Run Once Process Manager&rpar;](https://www.reddit.com/r/Python/comments/1kcspp7/runce_run_once_process_manager/)
-- [Python para Análise de Dados em Redes de Computadores](https://www.reddit.com/r/Python/comments/1kcot13/python_para_análise_de_dados_em_redes_de/)
 <!-- BLOG-POST-LIST:END -->
