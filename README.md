@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python learning App - 1,000 Exercises &lpar;UPDATE&rpar;](https://www.reddit.com/r/Python/comments/1ke5tcr/python_learning_app_1000_exercises_update/)
+- [Adding Reactivity to Jupyter Notebooks with reaktiv](https://www.reddit.com/r/Python/comments/1ke56y7/adding_reactivity_to_jupyter_notebooks_with/)
 - [Battle of the AI Code Assistants: Who Writes the Best Python Integration Code?](https://www.reddit.com/r/Python/comments/1kdzyq5/battle_of_the_ai_code_assistants_who_writes_the/)
 - [I´d like to read your experience](https://www.reddit.com/r/Python/comments/1kdyje1/id_like_to_read_your_experience/)
 - [How is python pronounced in british english?](https://www.reddit.com/r/Python/comments/1kdxnlh/how_is_python_pronounced_in_british_english/)
-- [Arkalos Beta 5 - Dashboards, JSONL Logs, Crawling, Deployment, Fullstack FastAPI+React framework](https://www.reddit.com/r/Python/comments/1kdx45g/arkalos_beta_5_dashboards_jsonl_logs_crawling/)
-- [After #ruff and #uv, #astral announced their next tool for the python ecosystem](https://www.reddit.com/r/Python/comments/1kdui8w/after_ruff_and_uv_astral_announced_their_next/)
 <!-- BLOG-POST-LIST:END -->
