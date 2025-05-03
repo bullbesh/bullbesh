@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 FlaskGuard – Plug-and-Play Firewall for Flask Apps &lpar;Open Source&rpar;](https://www.reddit.com/r/Python/comments/1kdq1zy/flaskguard_plugandplay_firewall_for_flask_apps/)
 - [I built a PySpark data validation framework to replace PyDeequ — feedback welcome](https://www.reddit.com/r/Python/comments/1kdgumc/i_built_a_pyspark_data_validation_framework_to/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1kdfo8x/saturday_daily_thread_resource_request_and/)
 - [Built a Private AI Assistant Using Mistral + Ollama — Runs Offline, Fully Customizable](https://www.reddit.com/r/Python/comments/1kdbtgq/built_a_private_ai_assistant_using_mistral_ollama/)
 - [Long-form, technical content on Stack Overflow? Survey from Stack Overflow](https://www.reddit.com/r/Python/comments/1kd7dg1/longform_technical_content_on_stack_overflow/)
-- [PgQueuer – PostgreSQL-native job &amp; schedule queue, gathering ideas for 1.0 🎯](https://www.reddit.com/r/Python/comments/1kd6ci0/pgqueuer_postgresqlnative_job_schedule_queue/)
 <!-- BLOG-POST-LIST:END -->
