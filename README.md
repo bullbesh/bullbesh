@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ke6s0y/sunday_daily_thread_whats_everyone_working_on/)
 - [Python learning App - 1,000 Exercises &lpar;UPDATE&rpar;](https://www.reddit.com/r/Python/comments/1ke5tcr/python_learning_app_1000_exercises_update/)
 - [Adding Reactivity to Jupyter Notebooks with reaktiv](https://www.reddit.com/r/Python/comments/1ke56y7/adding_reactivity_to_jupyter_notebooks_with/)
 - [Battle of the AI Code Assistants: Who Writes the Best Python Integration Code?](https://www.reddit.com/r/Python/comments/1kdzyq5/battle_of_the_ai_code_assistants_who_writes_the/)
 - [I´d like to read your experience](https://www.reddit.com/r/Python/comments/1kdyje1/id_like_to_read_your_experience/)
-- [How is python pronounced in british english?](https://www.reddit.com/r/Python/comments/1kdxnlh/how_is_python_pronounced_in_british_english/)
 <!-- BLOG-POST-LIST:END -->
