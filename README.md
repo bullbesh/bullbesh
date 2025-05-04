@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Introducing TkRouter — Declarative Routing for Tkinter](https://www.reddit.com/r/Python/comments/1kew6fz/introducing_tkrouter_declarative_routing_for/)
 - [Manim Layout Manager Ideas](https://www.reddit.com/r/Python/comments/1kemn5p/manim_layout_manager_ideas/)
 - [Django firefly tasks - simple and easy to use background tasks in Django](https://www.reddit.com/r/Python/comments/1kei45r/django_firefly_tasks_simple_and_easy_to_use/)
 - [AsyncMQ – Async-native task queue for Python with Redis, retries, TTL, job events, and CLI support](https://www.reddit.com/r/Python/comments/1kefrsj/asyncmq_asyncnative_task_queue_for_python_with/)
 - [DVD Bouncing Animation](https://www.reddit.com/r/Python/comments/1keblmk/dvd_bouncing_animation/)
-- [Best way to install python package with all its dependencies on an offline pc.](https://www.reddit.com/r/Python/comments/1keaeft/best_way_to_install_python_package_with_all_its/)
 <!-- BLOG-POST-LIST:END -->
