@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Logfire-callback: observability for Hugging Face Transformers training](https://www.reddit.com/r/Python/comments/1kfk2i8/logfirecallback_observability_for_hugging_face/)
 - [uv-version-bumper – Simple version bumping &amp; tagging for Python projects using uv](https://www.reddit.com/r/Python/comments/1kfinsq/uvversionbumper_simple_version_bumping_tagging/)
 - [Are python backend developers paid good in india?](https://www.reddit.com/r/Python/comments/1kfalrw/are_python_backend_developers_paid_good_in_india/)
 - [Asyncio for network](https://www.reddit.com/r/Python/comments/1kf94k7/asyncio_for_network/)
 - [Data Structure Algorithm in python](https://www.reddit.com/r/Python/comments/1kf66ct/data_structure_algorithm_in_python/)
-- [Read pdf as html](https://www.reddit.com/r/Python/comments/1kf641m/read_pdf_as_html/)
 <!-- BLOG-POST-LIST:END -->
