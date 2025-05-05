@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any repo on learning pywebview bundling for Mac](https://www.reddit.com/r/Python/comments/1kf4rlf/any_repo_on_learning_pywebview_bundling_for_mac/)
 - [Apk for sports forecasts](https://www.reddit.com/r/Python/comments/1kf29oy/apk_for_sports_forecasts/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1key6k7/monday_daily_thread_project_ideas/)
 - [🚀 Introducing TkRouter — Declarative Routing for Tkinter](https://www.reddit.com/r/Python/comments/1kew6fz/introducing_tkrouter_declarative_routing_for/)
 - [Manim Layout Manager Ideas](https://www.reddit.com/r/Python/comments/1kemn5p/manim_layout_manager_ideas/)
-- [Django firefly tasks - simple and easy to use background tasks in Django](https://www.reddit.com/r/Python/comments/1kei45r/django_firefly_tasks_simple_and_easy_to_use/)
 <!-- BLOG-POST-LIST:END -->
