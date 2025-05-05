@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are python backend developers paid good in india?](https://www.reddit.com/r/Python/comments/1kfalrw/are_python_backend_developers_paid_good_in_india/)
+- [Asyncio for network](https://www.reddit.com/r/Python/comments/1kf94k7/asyncio_for_network/)
 - [Data Structure Algorithm in python](https://www.reddit.com/r/Python/comments/1kf66ct/data_structure_algorithm_in_python/)
 - [Read pdf as html](https://www.reddit.com/r/Python/comments/1kf641m/read_pdf_as_html/)
 - [Read pdf as html](https://www.reddit.com/r/Python/comments/1kf640j/read_pdf_as_html/)
-- [Any repo on learning pywebview bundling for Mac](https://www.reddit.com/r/Python/comments/1kf4rlf/any_repo_on_learning_pywebview_bundling_for_mac/)
-- [Apk for sports forecasts](https://www.reddit.com/r/Python/comments/1kf29oy/apk_for_sports_forecasts/)
 <!-- BLOG-POST-LIST:END -->
