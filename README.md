@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built my own asyncio to understand how async I/O works under the hood](https://www.reddit.com/r/Python/comments/1kg9q8b/i_built_my_own_asyncio_to_understand_how_async_io/)
+- [jstreams Python framework](https://www.reddit.com/r/Python/comments/1kg99nr/jstreams_python_framework/)
 - [pysnmp UdpTransportTarget when set the particular nic does not work](https://www.reddit.com/r/Python/comments/1kg7yrd/pysnmp_udptransporttarget_when_set_the_particular/)
-- [Ethical variable labeling](https://www.reddit.com/r/Python/comments/1kg7eng/ethical_variable_labeling/)
 - [PyCon US 2025 is next week!](https://www.reddit.com/r/Python/comments/1kg5xvh/pycon_us_2025_is_next_week/)
 - [Introducing SQL-tString; a t-string based SQL builder](https://www.reddit.com/r/Python/comments/1kg3c2v/introducing_sqltstring_a_tstring_based_sql_builder/)
-- [🎯 New Telegram Channel for Python Job Seekers — @talentojobs &lpar;Worldwide, Remote, Onsite&rpar;](https://www.reddit.com/r/Python/comments/1kg2ycg/new_telegram_channel_for_python_job_seekers/)
 <!-- BLOG-POST-LIST:END -->
