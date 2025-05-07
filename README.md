@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The future of Textualize](https://www.reddit.com/r/Python/comments/1kh0xh1/the_future_of_textualize/)
+- [Orbital for Python released](https://www.reddit.com/r/Python/comments/1kh0lbr/orbital_for_python_released/)
+- [I wrote a lightweight image classification library for local ML datasets](https://www.reddit.com/r/Python/comments/1kh0l0w/i_wrote_a_lightweight_image_classification/)
 - [Ty: An extremely fast Python type checker and language server, written in Rust.](https://www.reddit.com/r/Python/comments/1kgzxs0/ty_an_extremely_fast_python_type_checker_and/)
-- [GIT Error &lpar;win7&rpar;](https://www.reddit.com/r/Python/comments/1kgzmae/git_error_win7/)
 - [What&#39;s the most common Python error you run into? &lpar;posted without being sleep deprived now&rpar;](https://www.reddit.com/r/Python/comments/1kgzdc7/whats_the_most_common_python_error_you_run_into/)
-- [Your Daily Helper?](https://www.reddit.com/r/Python/comments/1kgyn0z/your_daily_helper/)
-- [What are your favorite Python libraries for quick &amp; clean visualizations?](https://www.reddit.com/r/Python/comments/1kgxv1x/what_are_your_favorite_python_libraries_for_quick/)
 <!-- BLOG-POST-LIST:END -->
