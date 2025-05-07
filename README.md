@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I made a stupid thing.](https://www.reddit.com/r/Python/comments/1kh8hv0/i_made_a_stupid_thing/)
 - [Need to review my code](https://www.reddit.com/r/Python/comments/1kh4sxn/need_to_review_my_code/)
 - [I actually used Python practically the first time today!](https://www.reddit.com/r/Python/comments/1kh3uz7/i_actually_used_python_practically_the_first_time/)
 - [The future of Textualize](https://www.reddit.com/r/Python/comments/1kh0xh1/the_future_of_textualize/)
 - [Orbital for Python released](https://www.reddit.com/r/Python/comments/1kh0lbr/orbital_for_python_released/)
+- [I wrote a lightweight image classification library for local ML datasets](https://www.reddit.com/r/Python/comments/1kh0l0w/i_wrote_a_lightweight_image_classification/)
 <!-- BLOG-POST-LIST:END -->
