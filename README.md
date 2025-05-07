@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ty: An extremely fast Python type checker and language server, written in Rust.](https://www.reddit.com/r/Python/comments/1kgzxs0/ty_an_extremely_fast_python_type_checker_and/)
+- [GIT Error &lpar;win7&rpar;](https://www.reddit.com/r/Python/comments/1kgzmae/git_error_win7/)
+- [What&#39;s the most common Python error you run into? &lpar;posted without being sleep deprived now&rpar;](https://www.reddit.com/r/Python/comments/1kgzdc7/whats_the_most_common_python_error_you_run_into/)
+- [Your Daily Helper?](https://www.reddit.com/r/Python/comments/1kgyn0z/your_daily_helper/)
 - [What are your favorite Python libraries for quick &amp; clean visualizations?](https://www.reddit.com/r/Python/comments/1kgxv1x/what_are_your_favorite_python_libraries_for_quick/)
-- [most errors you get &lpar;for researech purposes&rpar;](https://www.reddit.com/r/Python/comments/1kgww14/most_errors_you_get_for_researech_purposes/)
-- [Building a text editor called Textra - With tabs, themes, customization and more](https://www.reddit.com/r/Python/comments/1kgvt41/building_a_text_editor_called_textra_with_tabs/)
-- [Why did Python 3.14.0b1 did not release?](https://www.reddit.com/r/Python/comments/1kgte01/why_did_python_3140b1_did_not_release/)
-- [I built a simple Python runner for beginners – run code in chunks and learn step by step](https://www.reddit.com/r/Python/comments/1kgqjzb/i_built_a_simple_python_runner_for_beginners_run/)
 <!-- BLOG-POST-LIST:END -->
