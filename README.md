@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [About some communication app with friendly api](https://www.reddit.com/r/Python/comments/1kh2fch/about_some_communication_app_with_friendly_api/)
 - [The future of Textualize](https://www.reddit.com/r/Python/comments/1kh0xh1/the_future_of_textualize/)
 - [Orbital for Python released](https://www.reddit.com/r/Python/comments/1kh0lbr/orbital_for_python_released/)
 - [I wrote a lightweight image classification library for local ML datasets](https://www.reddit.com/r/Python/comments/1kh0l0w/i_wrote_a_lightweight_image_classification/)
 - [Ty: An extremely fast Python type checker and language server, written in Rust.](https://www.reddit.com/r/Python/comments/1kgzxs0/ty_an_extremely_fast_python_type_checker_and/)
-- [What&#39;s the most common Python error you run into? &lpar;posted without being sleep deprived now&rpar;](https://www.reddit.com/r/Python/comments/1kgzdc7/whats_the_most_common_python_error_you_run_into/)
 <!-- BLOG-POST-LIST:END -->
