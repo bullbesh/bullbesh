@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [TIL that a function with &#39;yield&#39; will return a generator, even if the &#39;yield&#39; is conditional](https://www.reddit.com/r/Python/comments/1ki1qem/til_that_a_function_with_yield_will_return_a/)
 - [I made a Automation Program using Python and I don&#39;t know what to do with it?](https://www.reddit.com/r/Python/comments/1ki0fr2/i_made_a_automation_program_using_python_and_i/)
 - [Vehicle dynamics](https://www.reddit.com/r/Python/comments/1khm3u6/vehicle_dynamics/)
 - [Background removal fine tuned for profile pictures](https://www.reddit.com/r/Python/comments/1khkp3h/background_removal_fine_tuned_for_profile_pictures/)
 - [simplesi - a units-aware package for engineers](https://www.reddit.com/r/Python/comments/1khjfmo/simplesi_a_unitsaware_package_for_engineers/)
-- [need ur kind advice pythonistsss](https://www.reddit.com/r/Python/comments/1khj0kc/need_ur_kind_advice_pythonistsss/)
 <!-- BLOG-POST-LIST:END -->
