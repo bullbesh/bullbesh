@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains will no longer provide binary builds of PyCharm Community Edition after version 2025.2](https://www.reddit.com/r/Python/comments/1kitdld/jetbrains_will_no_longer_provide_binary_builds_of/)
+- [I made a Vim Game in Python](https://www.reddit.com/r/Python/comments/1kiseo7/i_made_a_vim_game_in_python/)
 - [You Were Starting Python Today, What Advice Would You Give Yourself?](https://www.reddit.com/r/Python/comments/1kisb58/you_were_starting_python_today_what_advice_would/)
 - [Easiest way to determine in Python that a string represents a valid TCL code?](https://www.reddit.com/r/Python/comments/1kipwie/easiest_way_to_determine_in_python_that_a_string/)
 - [I Made a YouTube Playlist Timer](https://www.reddit.com/r/Python/comments/1kikit4/i_made_a_youtube_playlist_timer/)
-- [Is there an open source Python code available for Background Removal from Images?](https://www.reddit.com/r/Python/comments/1kijxt2/is_there_an_open_source_python_code_available_for/)
-- [I made Youtube Comment Scraper With Selenium &lpar;Undetected Webdriver&rpar;](https://www.reddit.com/r/Python/comments/1kijlje/i_made_youtube_comment_scraper_with_selenium/)
 <!-- BLOG-POST-LIST:END -->
