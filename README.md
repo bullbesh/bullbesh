@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Made a YouTube Playlist Timer](https://www.reddit.com/r/Python/comments/1kikit4/i_made_a_youtube_playlist_timer/)
+- [Is there an open source Python code available for Background Removal from Images?](https://www.reddit.com/r/Python/comments/1kijxt2/is_there_an_open_source_python_code_available_for/)
 - [I made Youtube Comment Scraper With Selenium &lpar;Undetected Webdriver&rpar;](https://www.reddit.com/r/Python/comments/1kijlje/i_made_youtube_comment_scraper_with_selenium/)
 - [I published a Python package to clean and validate emojis from messy user input – feedback welcome!](https://www.reddit.com/r/Python/comments/1kii2iw/i_published_a_python_package_to_clean_and/)
 - [Should I switch to PyCharm Pro now that it has Jupyter Notebook support and Junie the coding agent?](https://www.reddit.com/r/Python/comments/1kih2m4/should_i_switch_to_pycharm_pro_now_that_it_has/)
-- [I feel stuck, books recommendations?](https://www.reddit.com/r/Python/comments/1kif0pz/i_feel_stuck_books_recommendations/)
-- [Every script can become a web app with no effort.](https://www.reddit.com/r/Python/comments/1kie6uw/every_script_can_become_a_web_app_with_no_effort/)
 <!-- BLOG-POST-LIST:END -->
