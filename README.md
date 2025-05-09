@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Should I switch to PyCharm Pro now that it has Jupyter Notebook support and Junie the coding agent?](https://www.reddit.com/r/Python/comments/1kih2m4/should_i_switch_to_pycharm_pro_now_that_it_has/)
 - [I feel stuck, books recommendations?](https://www.reddit.com/r/Python/comments/1kif0pz/i_feel_stuck_books_recommendations/)
 - [Every script can become a web app with no effort.](https://www.reddit.com/r/Python/comments/1kie6uw/every_script_can_become_a_web_app_with_no_effort/)
 - [I built cutieAPI, a Python CLI tool for interactive API testing with a Rich TUI.](https://www.reddit.com/r/Python/comments/1kie6tn/i_built_cutieapi_a_python_cli_tool_for/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ki537m/friday_daily_thread_rpython_meta_and_freetalk/)
-- [TIL that a function with &#39;yield&#39; will return a generator, even if the &#39;yield&#39; is conditional](https://www.reddit.com/r/Python/comments/1ki1qem/til_that_a_function_with_yield_will_return_a/)
 <!-- BLOG-POST-LIST:END -->
