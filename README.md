@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [WASIC - Pyvisa integration with streamlit](https://www.reddit.com/r/Python/comments/1kj77lt/wasic_pyvisa_integration_with_streamlit/)
+- [Created a Ping Pong game and would love feedback](https://www.reddit.com/r/Python/comments/1kj74a3/created_a_ping_pong_game_and_would_love_feedback/)
 - [Signalwörter Textaufgabe zu Code/ Sprache zu Code](https://www.reddit.com/r/Python/comments/1kj4vk4/signalwörter_textaufgabe_zu_code_sprache_zu_code/)
 - [Recommend me please](https://www.reddit.com/r/Python/comments/1kj3z3i/recommend_me_please/)
 - [Codigo: a programming language repository](https://www.reddit.com/r/Python/comments/1kj27wa/codigo_a_programming_language_repository/)
-- [Introducing Score Margins in OpenSkill MMR](https://www.reddit.com/r/Python/comments/1kj0bq0/introducing_score_margins_in_openskill_mmr/)
-- [Switching languages](https://www.reddit.com/r/Python/comments/1kizu36/switching_languages/)
 <!-- BLOG-POST-LIST:END -->
