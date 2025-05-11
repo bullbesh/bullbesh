@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Is python safe to bug 2038 on 32bit Raspberry Pi OS?](https://www.reddit.com/r/Python/comments/1kk8uts/is_python_safe_to_bug_2038_on_32bit_raspberry_pi/)
-- [Turtle crossing game using Turtle](https://www.reddit.com/r/Python/comments/1kk4yvl/turtle_crossing_game_using_turtle/)
 - [Streamlit Alternatives with better State Management](https://www.reddit.com/r/Python/comments/1kk3xtn/streamlit_alternatives_with_better_state/)
 - [I Shared 290+ Python Data Science Videos on YouTube &lpar;Tutorials, Projects and Full-Courses&rpar;](https://www.reddit.com/r/Python/comments/1kk1hx5/i_shared_290_python_data_science_videos_on/)
 - [SmolML: Machine Learning from scratch, explained!](https://www.reddit.com/r/Python/comments/1kjznn4/smolml_machine_learning_from_scratch_explained/)
+- [cybersecurity project using python](https://www.reddit.com/r/Python/comments/1kjvs81/cybersecurity_project_using_python/)
 <!-- BLOG-POST-LIST:END -->
