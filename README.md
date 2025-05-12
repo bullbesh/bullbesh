@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hands on machine learning with sickit learn.](https://www.reddit.com/r/Python/comments/1kkktef/hands_on_machine_learning_with_sickit_learn/)
 - [Make a portable version of GPT_SoVITS and torch-gpu program on github ci [zundamon-speech-webui]](https://www.reddit.com/r/Python/comments/1kkhp8k/make_a_portable_version_of_gpt_sovits_and/)
 - [Nom-Py, a parser combinator library inspired by Rust&#39;s Nom](https://www.reddit.com/r/Python/comments/1kkfuiu/nompy_a_parser_combinator_library_inspired_by/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1kkezzz/monday_daily_thread_project_ideas/)
 - [Is python safe to bug 2038 on 32bit Raspberry Pi OS?](https://www.reddit.com/r/Python/comments/1kk8uts/is_python_safe_to_bug_2038_on_32bit_raspberry_pi/)
-- [Streamlit Alternatives with better State Management](https://www.reddit.com/r/Python/comments/1kk3xtn/streamlit_alternatives_with_better_state/)
 <!-- BLOG-POST-LIST:END -->
