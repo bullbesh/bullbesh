@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Threads and Multiprocessing: The Complete Guide](https://www.reddit.com/r/Python/comments/1kl73hn/threads_and_multiprocessing_the_complete_guide/)
+- [MayAgentAI: Exploring AI-Powered Interaction with Files](https://www.reddit.com/r/Python/comments/1kl72gs/mayagentai_exploring_aipowered_interaction_with/)
 - [Reflex Build - V0/Lovable for Python Devs](https://www.reddit.com/r/Python/comments/1kl28iq/reflex_build_v0lovable_for_python_devs/)
 - [Anyone using python on AIX?](https://www.reddit.com/r/Python/comments/1kkzgfl/anyone_using_python_on_aix/)
 - [Looking for contributors &amp; ideas](https://www.reddit.com/r/Python/comments/1kkzfy8/looking_for_contributors_ideas/)
-- [Clyde: A modern, type-hinted Python library for seamless interaction with the Discord Webhook API](https://www.reddit.com/r/Python/comments/1kkyfme/clyde_a_modern_typehinted_python_library_for/)
-- [I tried to faithfully recreate C-style data structures in Python 3.12.3, what do you think?](https://www.reddit.com/r/Python/comments/1kkuagn/i_tried_to_faithfully_recreate_cstyle_data/)
 <!-- BLOG-POST-LIST:END -->
