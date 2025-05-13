@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Model Context Protocol &lpar;MCP&rpar; Server to Let LLMs Insert &amp; Query PostgreSQL Using Just Natur](https://www.reddit.com/r/Python/comments/1klj6h8/i_built_a_model_context_protocol_mcp_server_to/)
+- [Free &amp; Open-Source Continuous AI Localization Tool | I wonder your thoughts](https://www.reddit.com/r/Python/comments/1klilrs/free_opensource_continuous_ai_localization_tool_i/)
+- [extract data from pdf](https://www.reddit.com/r/Python/comments/1klihrm/extract_data_from_pdf/)
 - [Machine learning beginners team learn together work together on projects we are already 6 people.](https://www.reddit.com/r/Python/comments/1klhdn8/machine_learning_beginners_team_learn_together/)
 - [Which Python libraries do you think will be most critical for AI and IoT development in 2030?](https://www.reddit.com/r/Python/comments/1klg8o9/which_python_libraries_do_you_think_will_be_most/)
-- [Async SqlAlchemy template](https://www.reddit.com/r/Python/comments/1klfi2c/async_sqlalchemy_template/)
-- [Building a Radial GUI Gauge Meter in Python with Tkinter and ttkbootstrap framework](https://www.reddit.com/r/Python/comments/1klexqo/building_a_radial_gui_gauge_meter_in_python_with/)
-- [Making a team of beginners who wants to learn machine learning.](https://www.reddit.com/r/Python/comments/1kldhyv/making_a_team_of_beginners_who_wants_to_learn/)
 <!-- BLOG-POST-LIST:END -->
