@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Typesafety vs Performance Trade-Off - Looking for Middle Ground Solution](https://www.reddit.com/r/Python/comments/1klsydh/typesafety_vs_performance_tradeoff_looking_for/)
+- [Built a CLI tool to run commands &amp; transfer files over SSH across multiple servers](https://www.reddit.com/r/Python/comments/1klsfe8/built_a_cli_tool_to_run_commands_transfer_files/)
 - [Introducing Typerdrive: Develop API-Connected Typer Apps at Lightspeed](https://www.reddit.com/r/Python/comments/1klq6pt/introducing_typerdrive_develop_apiconnected_typer/)
 - [Querying 10M rows in 11 seconds: Benchmarking ConnectorX, Asyncpg and Psycopg vs QuestDB](https://www.reddit.com/r/Python/comments/1klke8k/querying_10m_rows_in_11_seconds_benchmarking/)
 - [Machine learning beginners team learn together work together on projects we are already 13 people.](https://www.reddit.com/r/Python/comments/1klk3x0/machine_learning_beginners_team_learn_together/)
-- [I Built a Model Context Protocol &lpar;MCP&rpar; Server to Let LLMs Insert &amp; Query PostgreSQL Using Just Natur](https://www.reddit.com/r/Python/comments/1klj6h8/i_built_a_model_context_protocol_mcp_server_to/)
-- [Machine learning beginners team learn together work together on projects we are already 6 people.](https://www.reddit.com/r/Python/comments/1klhdn8/machine_learning_beginners_team_learn_together/)
 <!-- BLOG-POST-LIST:END -->
