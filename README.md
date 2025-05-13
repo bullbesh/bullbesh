@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which Python libraries do you think will be most critical for AI and IoT development in 2030?](https://www.reddit.com/r/Python/comments/1klg8o9/which_python_libraries_do_you_think_will_be_most/)
 - [Async SqlAlchemy template](https://www.reddit.com/r/Python/comments/1klfi2c/async_sqlalchemy_template/)
 - [Building a Radial GUI Gauge Meter in Python with Tkinter and ttkbootstrap framework](https://www.reddit.com/r/Python/comments/1klexqo/building_a_radial_gui_gauge_meter_in_python_with/)
 - [Making a team of beginners who wants to learn machine learning.](https://www.reddit.com/r/Python/comments/1kldhyv/making_a_team_of_beginners_who_wants_to_learn/)
 - [Android style app folders for Windows desktop &lpar; python + pygame &rpar;](https://www.reddit.com/r/Python/comments/1kla0r2/android_style_app_folders_for_windows_desktop/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1kl7zw6/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
