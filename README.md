@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [sqlalchemy-memory: a pure‑Python in‑RAM dialect for SQLAlchemy 2.0](https://www.reddit.com/r/Python/comments/1kmg3db/sqlalchemymemory_a_purepython_inram_dialect_for/)
+- [Visualising Premier League xG Stats with Python ⚽️👨‍💻](https://www.reddit.com/r/Python/comments/1kmfzrp/visualising_premier_league_xg_stats_with_python/)
+- [Distributing command line tools for macOS](https://www.reddit.com/r/Python/comments/1kmfels/distributing_command_line_tools_for_macos/)
 - [Small Propositional Logic Proof Assistant](https://www.reddit.com/r/Python/comments/1kmf7pe/small_propositional_logic_proof_assistant/)
 - [Best Alternatives to OpenCV for Computer Vision](https://www.reddit.com/r/Python/comments/1kmf4e0/best_alternatives_to_opencv_for_computer_vision/)
-- [Love fixtures? You&#39;ll love this!](https://www.reddit.com/r/Python/comments/1kmckt0/love_fixtures_youll_love_this/)
-- [Subtitle formatting app](https://www.reddit.com/r/Python/comments/1kmasti/subtitle_formatting_app/)
-- [I open source my desktop app is multi platform built on pyqt6 and supabase](https://www.reddit.com/r/Python/comments/1kmai1m/i_open_source_my_desktop_app_is_multi_platform/)
 <!-- BLOG-POST-LIST:END -->
