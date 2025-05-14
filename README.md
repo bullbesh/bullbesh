@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Paid Bug Fix Opportunity for LBRY Project &lpar;USD&rpar; — Python Developers Wanted](https://www.reddit.com/r/Python/comments/1kmrd8o/paid_bug_fix_opportunity_for_lbry_project_usd/)
 - [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1kmlvoe/parallel_and_concurrent_programming_in_python_a/)
 - [Beam Pod - Run Cloud Containers from Python](https://www.reddit.com/r/Python/comments/1kmlmvo/beam_pod_run_cloud_containers_from_python/)
 - [DBOS - Lightweight Durable Python Workflows](https://www.reddit.com/r/Python/comments/1kml2h9/dbos_lightweight_durable_python_workflows/)
 - [Universal Edit Distance: A faster ASR metrics library](https://www.reddit.com/r/Python/comments/1kmki6z/universal_edit_distance_a_faster_asr_metrics/)
-- [Building my own Python NumPy/PyTorch/JAX libraries in the browser, with ML compilers](https://www.reddit.com/r/Python/comments/1kmhk41/building_my_own_python_numpypytorchjax_libraries/)
 <!-- BLOG-POST-LIST:END -->
