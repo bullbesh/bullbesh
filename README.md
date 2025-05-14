@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Subtitle formatting app](https://www.reddit.com/r/Python/comments/1kmasti/subtitle_formatting_app/)
+- [I open source my desktop app is multi platform built on pyqt6 and supabase](https://www.reddit.com/r/Python/comments/1kmai1m/i_open_source_my_desktop_app_is_multi_platform/)
+- [Tacz- The local command line helper to assist you in remembering commands](https://www.reddit.com/r/Python/comments/1kmae4m/tacz_the_local_command_line_helper_to_assist_you/)
 - [Global Variables in 2 Minutes - Guide](https://www.reddit.com/r/Python/comments/1km9ptm/global_variables_in_2_minutes_guide/)
 - [FastApi vs Django Ninja vs Django for API only backend](https://www.reddit.com/r/Python/comments/1km6goh/fastapi_vs_django_ninja_vs_django_for_api_only/)
-- [Setup for EMOCA](https://www.reddit.com/r/Python/comments/1km1g2c/setup_for_emoca/)
-- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1km1dwe/wednesday_daily_thread_beginner_questions/)
-- [Loggingutil: Simple alternative to built-in logging module with async and external stream support](https://www.reddit.com/r/Python/comments/1klzrfi/loggingutil_simple_alternative_to_builtin_logging/)
 <!-- BLOG-POST-LIST:END -->
