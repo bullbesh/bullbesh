@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Query and Eval for Python Polars](https://www.reddit.com/r/Python/comments/1kmy3xm/query_and_eval_for_python_polars/)
+- [Had to settle an argument about the Monty Hall Problem](https://www.reddit.com/r/Python/comments/1kmxdml/had_to_settle_an_argument_about_the_monty_hall/)
+- [Blame as a Service: Open-source for Blaming Others](https://www.reddit.com/r/Python/comments/1kmxawf/blame_as_a_service_opensource_for_blaming_others/)
 - [Microsoft layoffs hit Faster CPython team - including the Technical Lead, Mark Shannon](https://www.reddit.com/r/Python/comments/1kmwdbu/microsoft_layoffs_hit_faster_cpython_team/)
 - [Polars gives wrong results with unique&lpar;&rpar;](https://www.reddit.com/r/Python/comments/1kmvez4/polars_gives_wrong_results_with_unique/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1kmufcq/thursday_daily_thread_python_careers_courses_and/)
-- [Paid Bug Fix Opportunity for LBRY Project &lpar;USD&rpar; — Python Developers Wanted](https://www.reddit.com/r/Python/comments/1kmrd8o/paid_bug_fix_opportunity_for_lbry_project_usd/)
-- [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1kmlvoe/parallel_and_concurrent_programming_in_python_a/)
 <!-- BLOG-POST-LIST:END -->
