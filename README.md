@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft layoffs hit Faster CPython team - including the Technical Lead, Mark Shannon](https://www.reddit.com/r/Python/comments/1kmwdbu/microsoft_layoffs_hit_faster_cpython_team/)
+- [Polars gives wrong results with unique&lpar;&rpar;](https://www.reddit.com/r/Python/comments/1kmvez4/polars_gives_wrong_results_with_unique/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1kmufcq/thursday_daily_thread_python_careers_courses_and/)
 - [Paid Bug Fix Opportunity for LBRY Project &lpar;USD&rpar; — Python Developers Wanted](https://www.reddit.com/r/Python/comments/1kmrd8o/paid_bug_fix_opportunity_for_lbry_project_usd/)
 - [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1kmlvoe/parallel_and_concurrent_programming_in_python_a/)
-- [Beam Pod - Run Cloud Containers from Python](https://www.reddit.com/r/Python/comments/1kmlmvo/beam_pod_run_cloud_containers_from_python/)
-- [DBOS - Lightweight Durable Python Workflows](https://www.reddit.com/r/Python/comments/1kml2h9/dbos_lightweight_durable_python_workflows/)
-- [Universal Edit Distance: A faster ASR metrics library](https://www.reddit.com/r/Python/comments/1kmki6z/universal_edit_distance_a_faster_asr_metrics/)
 <!-- BLOG-POST-LIST:END -->
