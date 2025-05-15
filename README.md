@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built an Interactive reStructuredText Tutorial that runs entirely in your browser](https://www.reddit.com/r/Python/comments/1kn6ysa/i_built_an_interactive_restructuredtext_tutorial/)
+- [BioStarsGPT – Fine-tuning LLMs on Bioinformatics Q&amp;A Data](https://www.reddit.com/r/Python/comments/1kn6ha8/biostarsgpt_finetuning_llms_on_bioinformatics_qa/)
 - [Refinedoc - Little text processing lib](https://www.reddit.com/r/Python/comments/1kn4lfx/refinedoc_little_text_processing_lib/)
 - [PyTorch vs. Keras/Tensorflow [D]](https://www.reddit.com/r/Python/comments/1kn4132/pytorch_vs_kerastensorflow_d/)
 - [Query and Eval for Python Polars](https://www.reddit.com/r/Python/comments/1kmy3xm/query_and_eval_for_python_polars/)
-- [Had to settle an argument about the Monty Hall Problem](https://www.reddit.com/r/Python/comments/1kmxdml/had_to_settle_an_argument_about_the_monty_hall/)
-- [Blame as a Service: Open-source for Blaming Others](https://www.reddit.com/r/Python/comments/1kmxawf/blame_as_a_service_opensource_for_blaming_others/)
 <!-- BLOG-POST-LIST:END -->
