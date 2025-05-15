@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Refinedoc - Little text processing lib](https://www.reddit.com/r/Python/comments/1kn4lfx/refinedoc_little_text_processing_lib/)
+- [PyTorch vs. Keras/Tensorflow [D]](https://www.reddit.com/r/Python/comments/1kn4132/pytorch_vs_kerastensorflow_d/)
 - [Query and Eval for Python Polars](https://www.reddit.com/r/Python/comments/1kmy3xm/query_and_eval_for_python_polars/)
 - [Had to settle an argument about the Monty Hall Problem](https://www.reddit.com/r/Python/comments/1kmxdml/had_to_settle_an_argument_about_the_monty_hall/)
 - [Blame as a Service: Open-source for Blaming Others](https://www.reddit.com/r/Python/comments/1kmxawf/blame_as_a_service_opensource_for_blaming_others/)
-- [Microsoft layoffs hit Faster CPython team - including the Technical Lead, Mark Shannon](https://www.reddit.com/r/Python/comments/1kmwdbu/microsoft_layoffs_hit_faster_cpython_team/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1kmufcq/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
