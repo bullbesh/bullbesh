@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which library would you choose Pygame or Arcade?](https://www.reddit.com/r/Python/comments/1knwiyt/which_library_would_you_choose_pygame_or_arcade/)
+- [RouteSage - Documentation of FastAPI made easy](https://www.reddit.com/r/Python/comments/1knw6ie/routesage_documentation_of_fastapi_made_easy/)
+- [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1knvz1a/parallel_and_concurrent_programming_in_python_a/)
 - [What network/data analysis projects are you building in Python?](https://www.reddit.com/r/Python/comments/1knvl0u/what_networkdata_analysis_projects_are_you/)
 - [🚀 Just launched EnvGuard! Type-safe environment variable validation for Python &lpar;Pydantic&rpar;](https://www.reddit.com/r/Python/comments/1knt3lt/just_launched_envguard_typesafe_environment/)
-- [python.analysis.typeCheckingMode](https://www.reddit.com/r/Python/comments/1knre8m/pythonanalysistypecheckingmode/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1knn8l8/friday_daily_thread_rpython_meta_and_freetalk/)
-- [I built a smart WhatsApp AI chatbot using Python and free Gemini AI &lpar;open source&rpar;](https://www.reddit.com/r/Python/comments/1knm7bw/i_built_a_smart_whatsapp_ai_chatbot_using_python/)
 <!-- BLOG-POST-LIST:END -->
