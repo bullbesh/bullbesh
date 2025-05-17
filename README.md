@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What CPython Layoffs Taught Me About the Real Value of Expertise](https://www.reddit.com/r/Python/comments/1kok2e1/what_cpython_layoffs_taught_me_about_the_real/)
+- [Python Django Multi Language support](https://www.reddit.com/r/Python/comments/1kojfnv/python_django_multi_language_support/)
 - [Skylos: Another dead code finder, but its better and faster. Source, Trust me bro.](https://www.reddit.com/r/Python/comments/1koi4fo/skylos_another_dead_code_finder_but_its_better/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1kofmtf/saturday_daily_thread_resource_request_and/)
 - [Microsoft Fired Faster CPython Team](https://www.reddit.com/r/Python/comments/1koev5c/microsoft_fired_faster_cpython_team/)
-- [Python en español?](https://www.reddit.com/r/Python/comments/1koer4h/python_en_español/)
-- [Mastering Python Decorators and Closures: Become Python Expert](https://www.reddit.com/r/Python/comments/1koav2n/mastering_python_decorators_and_closures_become/)
 <!-- BLOG-POST-LIST:END -->
