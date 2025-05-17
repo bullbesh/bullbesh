@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best way to train AI for C++ &lpar;via TensorFlow &amp; Pytorch&rpar;](https://www.reddit.com/r/Python/comments/1kony7k/best_way_to_train_ai_for_c_via_tensorflow_pytorch/)
 - [What CPython Layoffs Taught Me About the Real Value of Expertise](https://www.reddit.com/r/Python/comments/1kok2e1/what_cpython_layoffs_taught_me_about_the_real/)
 - [Python Django Multi Language support](https://www.reddit.com/r/Python/comments/1kojfnv/python_django_multi_language_support/)
 - [Skylos: Another dead code finder, but its better and faster. Source, Trust me bro.](https://www.reddit.com/r/Python/comments/1koi4fo/skylos_another_dead_code_finder_but_its_better/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1kofmtf/saturday_daily_thread_resource_request_and/)
-- [Microsoft Fired Faster CPython Team](https://www.reddit.com/r/Python/comments/1koev5c/microsoft_fired_faster_cpython_team/)
 <!-- BLOG-POST-LIST:END -->
