@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a simple markdown-based note-taking app: kurup](https://www.reddit.com/r/Python/comments/1kp492b/i_built_a_simple_markdownbased_notetaking_app/)
 - [How to upload images on this sub? &lpar;see Rule 4&rpar;](https://www.reddit.com/r/Python/comments/1kp30yf/how_to_upload_images_on_this_sub_see_rule_4/)
 - [FlowFrame: Python code that generates visual ETL pipelines](https://www.reddit.com/r/Python/comments/1kp0er9/flowframe_python_code_that_generates_visual_etl/)
 - [What are the newest technologies/libraries/methods in ETL Pipelines?](https://www.reddit.com/r/Python/comments/1kozqgo/what_are_the_newest_technologieslibrariesmethods/)
 - [[clace] Application server for deploying Python webapps](https://www.reddit.com/r/Python/comments/1kozmks/clace_application_server_for_deploying_python/)
-- [Introducing stenv: a decorator for generating meaningfully type-safe environment variable accessors](https://www.reddit.com/r/Python/comments/1kozdkk/introducing_stenv_a_decorator_for_generating/)
 <!-- BLOG-POST-LIST:END -->
