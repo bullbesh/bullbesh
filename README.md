@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python documentary](https://www.reddit.com/r/Python/comments/1kptz7o/python_documentary/)
+- [Anyone using clerk.dev in python for auth?](https://www.reddit.com/r/Python/comments/1kptynl/anyone_using_clerkdev_in_python_for_auth/)
 - [State of AI adoption in Python community](https://www.reddit.com/r/Python/comments/1kprv02/state_of_ai_adoption_in_python_community/)
 - [Best SMS API for a Side Project](https://www.reddit.com/r/Python/comments/1kpqixj/best_sms_api_for_a_side_project/)
 - [audiobackend - Python library for advanced audio playback with custom buffering and resampling](https://www.reddit.com/r/Python/comments/1kpprn7/audiobackend_python_library_for_advanced_audio/)
-- [Qual a versão de Python com maior compatibilidade de libs?](https://www.reddit.com/r/Python/comments/1kpobno/qual_a_versão_de_python_com_maior_compatibilidade/)
-- [Automated Python CLI Tool for Converting PDFs to Kindle-Compatible eBooks and Sending via USB/Email](https://www.reddit.com/r/Python/comments/1kpn02i/automated_python_cli_tool_for_converting_pdfs_to/)
 <!-- BLOG-POST-LIST:END -->
