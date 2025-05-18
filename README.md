@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI + React Front - Auth0, build from scratch?](https://www.reddit.com/r/Python/comments/1kpby44/fastapi_react_front_auth0_build_from_scratch/)
 - [Python coding Tips](https://www.reddit.com/r/Python/comments/1kp7x5l/python_coding_tips/)
 - [[clace] AppServer for hosting multiple webapps easily](https://www.reddit.com/r/Python/comments/1kp7kg9/clace_appserver_for_hosting_multiple_webapps/)
 - [Anyone interested in getting Maschine Mk1 working in Ableton Lite?](https://www.reddit.com/r/Python/comments/1kp72uh/anyone_interested_in_getting_maschine_mk1_working/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1kp6wqf/sunday_daily_thread_whats_everyone_working_on/)
-- [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1kp6eha/parallel_and_concurrent_programming_in_python_a/)
 <!-- BLOG-POST-LIST:END -->
