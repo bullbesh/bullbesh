@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best GUI library with fast rendering times for data visualization](https://www.reddit.com/r/Python/comments/1kpivim/best_gui_library_with_fast_rendering_times_for/)
+- [I built Reaktiv: React/Angular-style Signals for Python Backend](https://www.reddit.com/r/Python/comments/1kphwkx/i_built_reaktiv_reactangularstyle_signals_for/)
+- [Lazy load and toggle conda](https://www.reddit.com/r/Python/comments/1kphv6j/lazy_load_and_toggle_conda/)
 - [Mirror the Entire PyPI Repository with Bash](https://www.reddit.com/r/Python/comments/1kpgyah/mirror_the_entire_pypi_repository_with_bash/)
 - [Lets make visualizations of 3D images in Notebooks just as simple as for 2D images](https://www.reddit.com/r/Python/comments/1kpfnrc/lets_make_visualizations_of_3d_images_in/)
-- [FastAPI + React Front - Auth0, build from scratch?](https://www.reddit.com/r/Python/comments/1kpby44/fastapi_react_front_auth0_build_from_scratch/)
-- [Python coding Tips](https://www.reddit.com/r/Python/comments/1kp7x5l/python_coding_tips/)
-- [[clace] AppServer for hosting multiple webapps easily](https://www.reddit.com/r/Python/comments/1kp7kg9/clace_appserver_for_hosting_multiple_webapps/)
 <!-- BLOG-POST-LIST:END -->
