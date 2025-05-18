@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mirror the Entire PyPI Repository with Bash](https://www.reddit.com/r/Python/comments/1kpgyah/mirror_the_entire_pypi_repository_with_bash/)
 - [Lets make visualizations of 3D images in Notebooks just as simple as for 2D images](https://www.reddit.com/r/Python/comments/1kpfnrc/lets_make_visualizations_of_3d_images_in/)
 - [FastAPI + React Front - Auth0, build from scratch?](https://www.reddit.com/r/Python/comments/1kpby44/fastapi_react_front_auth0_build_from_scratch/)
 - [Python coding Tips](https://www.reddit.com/r/Python/comments/1kp7x5l/python_coding_tips/)
 - [[clace] AppServer for hosting multiple webapps easily](https://www.reddit.com/r/Python/comments/1kp7kg9/clace_appserver_for_hosting_multiple_webapps/)
-- [Anyone interested in getting Maschine Mk1 working in Ableton Lite?](https://www.reddit.com/r/Python/comments/1kp72uh/anyone_interested_in_getting_maschine_mk1_working/)
 <!-- BLOG-POST-LIST:END -->
