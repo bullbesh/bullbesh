@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Translate Fortran to C++ with AI and RAG](https://www.reddit.com/r/Python/comments/1kqllag/translate_fortran_to_c_with_ai_and_rag/)
 - [Template Strings in Python 3.14: Structured Interpolation](https://www.reddit.com/r/Python/comments/1kql93c/template_strings_in_python_314_structured/)
 - [Movie and web series data collector using pandas](https://www.reddit.com/r/Python/comments/1kqbh6o/movie_and_web_series_data_collector_using_pandas/)
 - [Phase Modulation Synthesis in Python](https://www.reddit.com/r/Python/comments/1kq7c5e/phase_modulation_synthesis_in_python/)
 - [I made a excelize module updates for read and write spreadsheets](https://www.reddit.com/r/Python/comments/1kq0cvs/i_made_a_excelize_module_updates_for_read_and/)
+- [I Built a Smart WhatsApp AI Bot in Python That Earned Me $2,500 and Here’s How](https://www.reddit.com/r/Python/comments/1kq0ccp/i_built_a_smart_whatsapp_ai_bot_in_python_that/)
 <!-- BLOG-POST-LIST:END -->
