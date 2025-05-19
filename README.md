@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a excelize module updates for read and write spreadsheets](https://www.reddit.com/r/Python/comments/1kq0cvs/i_made_a_excelize_module_updates_for_read_and/)
+- [I Built a Smart WhatsApp AI Bot in Python That Earned Me $2,500 and Here’s How](https://www.reddit.com/r/Python/comments/1kq0ccp/i_built_a_smart_whatsapp_ai_bot_in_python_that/)
+- [[Project Share] Whisper for Windows - Audio-to-Text Transcription Tool with CUDA Acceleration](https://www.reddit.com/r/Python/comments/1kpzhi6/project_share_whisper_for_windows_audiototext/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1kpy6bo/monday_daily_thread_project_ideas/)
 - [What is the most library-compatible Python version?](https://www.reddit.com/r/Python/comments/1kpvr2s/what_is_the_most_librarycompatible_python_version/)
-- [IO library just improves the read from file time](https://www.reddit.com/r/Python/comments/1kpvkzb/io_library_just_improves_the_read_from_file_time/)
-- [Python documentary](https://www.reddit.com/r/Python/comments/1kptz7o/python_documentary/)
-- [Anyone using clerk.dev in python for auth?](https://www.reddit.com/r/Python/comments/1kptynl/anyone_using_clerkdev_in_python_for_auth/)
-- [State of AI adoption in Python community](https://www.reddit.com/r/Python/comments/1kprv02/state_of_ai_adoption_in_python_community/)
 <!-- BLOG-POST-LIST:END -->
