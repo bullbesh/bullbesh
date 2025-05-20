@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code Python!!!!!](https://www.reddit.com/r/Python/comments/1kr0j2t/code_python/)
+- [What Feature Do You *Wish* Python Had?](https://www.reddit.com/r/Python/comments/1kr0dnr/what_feature_do_you_wish_python_had/)
 - [I am developing a flutter app and don’t know what python backend to use.](https://www.reddit.com/r/Python/comments/1kqxl4r/i_am_developing_a_flutter_app_and_dont_know_what/)
 - [I&#39;m about to be a freshman and I wanna start ahead](https://www.reddit.com/r/Python/comments/1kqsq9g/im_about_to_be_a_freshman_and_i_wanna_start_ahead/)
 - [PEP 791 – imath — module for integer-specific mathematics functions](https://www.reddit.com/r/Python/comments/1kqrqgb/pep_791_imath_module_for_integerspecific/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1kqr53x/tuesday_daily_thread_advanced_questions/)
-- [Movie and web series data collector using pandas](https://www.reddit.com/r/Python/comments/1kqbh6o/movie_and_web_series_data_collector_using_pandas/)
 <!-- BLOG-POST-LIST:END -->
