@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern Python Boilerplate - good package basic structure](https://www.reddit.com/r/Python/comments/1krsxut/modern_python_boilerplate_good_package_basic/)
 - [Collective Consciousness Simulator](https://www.reddit.com/r/Python/comments/1krovxg/collective_consciousness_simulator/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1krk3ef/wednesday_daily_thread_beginner_questions/)
 - [Best website to learn coding](https://www.reddit.com/r/Python/comments/1krj7l6/best_website_to_learn_coding/)
 - [I published my first official Python package RIDE-CLI that lets you analyze your CSV in the terminal](https://www.reddit.com/r/Python/comments/1kri32f/i_published_my_first_official_python_package/)
-- [Recommended resources for experienced developer to refresh on python syntax](https://www.reddit.com/r/Python/comments/1krhp16/recommended_resources_for_experienced_developer/)
 <!-- BLOG-POST-LIST:END -->
