@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [doc2dict: parse documents into dictionaries fast](https://www.reddit.com/r/Python/comments/1ksgnmb/doc2dict_parse_documents_into_dictionaries_fast/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ksd1ba/thursday_daily_thread_python_careers_courses_and/)
 - [Scraipe &lpar;AI scraping &amp; analysis framework&rpar; for Reddit](https://www.reddit.com/r/Python/comments/1ksbljy/scraipe_ai_scraping_analysis_framework_for_reddit/)
 - [Just launched Davia — like Lovable, but wired straight into your Python FastAPI backend](https://www.reddit.com/r/Python/comments/1ks1gck/just_launched_davia_like_lovable_but_wired/)
 - [Meet OctaProbe - Yet another security assessment tool](https://www.reddit.com/r/Python/comments/1ks0gs4/meet_octaprobe_yet_another_security_assessment/)
-- [How to use type checking dynamically](https://www.reddit.com/r/Python/comments/1krzwc5/how_to_use_type_checking_dynamically/)
 <!-- BLOG-POST-LIST:END -->
