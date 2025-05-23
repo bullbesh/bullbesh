@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python microservices for realtime ETA predictions in production | Deployed by La Poste](https://www.reddit.com/r/Python/comments/1ktg8g2/python_microservices_for_realtime_eta_predictions/)
+- [Announcing &quot;samps&quot;, a type-safe python library for serial port I/O access](https://www.reddit.com/r/Python/comments/1ktg7z1/announcing_samps_a_typesafe_python_library_for/)
+- [Microsandbox - A self-hosted alternative to AWS Lambda, E2B. Run AI code in fast lightweight VMs](https://www.reddit.com/r/Python/comments/1ktg6mm/microsandbox_a_selfhosted_alternative_to_aws/)
 - [PyRegexBuilder: Build regular expressions swiftly in Python](https://www.reddit.com/r/Python/comments/1ktdjg0/pyregexbuilder_build_regular_expressions_swiftly/)
 - [🦎 Pykomodo: Built a Web UI for Code Chunking - No More Command Line Headaches](https://www.reddit.com/r/Python/comments/1kt9s05/pykomodo_built_a_web_ui_for_code_chunking_no_more/)
-- [PyCon US 2025: Keynote Speaker - Cory Doctorow on Enshitification](https://www.reddit.com/r/Python/comments/1kt8kxd/pycon_us_2025_keynote_speaker_cory_doctorow_on/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1kt5ud7/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Aperture Convert: A simple GUI based image converter](https://www.reddit.com/r/Python/comments/1ksx55v/aperture_convert_a_simple_gui_based_image/)
 <!-- BLOG-POST-LIST:END -->
