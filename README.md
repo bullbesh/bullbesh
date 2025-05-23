@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyCon US 2025: Keynote Speaker - Cory Doctorow on Enshitification](https://www.reddit.com/r/Python/comments/1kt8kxd/pycon_us_2025_keynote_speaker_cory_doctorow_on/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1kt5ud7/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Aperture Convert: A simple GUI based image converter](https://www.reddit.com/r/Python/comments/1ksx55v/aperture_convert_a_simple_gui_based_image/)
 - [The Simplest Possible AI Web App](https://www.reddit.com/r/Python/comments/1kswy08/the_simplest_possible_ai_web_app/)
 - [Snapchat Snapscore Booster](https://www.reddit.com/r/Python/comments/1kst9ap/snapchat_snapscore_booster/)
-- [[Hiring] [Remote] [India] – Sr. AI/ML Engineer](https://www.reddit.com/r/Python/comments/1ksp1mx/hiring_remote_india_sr_aiml_engineer/)
 <!-- BLOG-POST-LIST:END -->
