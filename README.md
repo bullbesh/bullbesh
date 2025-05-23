@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1kt5ud7/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Aperture Convert: A simple GUI based image converter](https://www.reddit.com/r/Python/comments/1ksx55v/aperture_convert_a_simple_gui_based_image/)
 - [The Simplest Possible AI Web App](https://www.reddit.com/r/Python/comments/1kswy08/the_simplest_possible_ai_web_app/)
 - [Snapchat Snapscore Booster](https://www.reddit.com/r/Python/comments/1kst9ap/snapchat_snapscore_booster/)
 - [[Hiring] [Remote] [India] – Sr. AI/ML Engineer](https://www.reddit.com/r/Python/comments/1ksp1mx/hiring_remote_india_sr_aiml_engineer/)
-- [appending Pivot tables side by side using Excelwriter without deleting existing sheets](https://www.reddit.com/r/Python/comments/1ksnzm2/appending_pivot_tables_side_by_side_using/)
 <!-- BLOG-POST-LIST:END -->
