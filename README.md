@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Um RPG em Python — direto do terminal!](https://www.reddit.com/r/Python/comments/1ktn13y/um_rpg_em_python_direto_do_terminal/)
-- [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1ktkxne/parallel_and_concurrent_programming_in_python_a/)
 - [Python microservices for realtime ETA predictions in production | Deployed by La Poste](https://www.reddit.com/r/Python/comments/1ktg8g2/python_microservices_for_realtime_eta_predictions/)
 - [Announcing &quot;samps&quot;, a type-safe python library for serial port I/O access](https://www.reddit.com/r/Python/comments/1ktg7z1/announcing_samps_a_typesafe_python_library_for/)
 - [Microsandbox - A self-hosted alternative to AWS Lambda, E2B. Run AI code in fast lightweight VMs](https://www.reddit.com/r/Python/comments/1ktg6mm/microsandbox_a_selfhosted_alternative_to_aws/)
+- [PyRegexBuilder: Build regular expressions swiftly in Python](https://www.reddit.com/r/Python/comments/1ktdjg0/pyregexbuilder_build_regular_expressions_swiftly/)
 <!-- BLOG-POST-LIST:END -->
