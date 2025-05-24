@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Cloud Storage for Managing and Editing Word, Excel, and PDF Documents in a Python Web App?](https://www.reddit.com/r/Python/comments/1ku8enh/best_cloud_storage_for_managing_and_editing_word/)
 - [Composer-Inspired Python Web Project Scaffolding Tool](https://www.reddit.com/r/Python/comments/1ku81ia/composerinspired_python_web_project_scaffolding/)
 - [Which useful Python libraries did you learn on the job, which you may otherwise not have discovered?](https://www.reddit.com/r/Python/comments/1ku6th8/which_useful_python_libraries_did_you_learn_on/)
 - [Python code for automation without the use of Webdriver.](https://www.reddit.com/r/Python/comments/1ku2dxd/python_code_for_automation_without_the_use_of/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ktybrg/saturday_daily_thread_resource_request_and/)
-- [Has AI been helpful to you in commenting your code?](https://www.reddit.com/r/Python/comments/1ktwdcn/has_ai_been_helpful_to_you_in_commenting_your_code/)
 <!-- BLOG-POST-LIST:END -->
