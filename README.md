@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Skylos - Reborn again, dead code detector](https://www.reddit.com/r/Python/comments/1ku2xto/skylos_reborn_again_dead_code_detector/)
 - [Python code for automation without the use of Webdriver.](https://www.reddit.com/r/Python/comments/1ku2dxd/python_code_for_automation_without_the_use_of/)
 - [Would you use a platform that ranks lesser-known, fast-growing open-source projects?](https://www.reddit.com/r/Python/comments/1ku1axp/would_you_use_a_platform_that_ranks_lesserknown/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ktybrg/saturday_daily_thread_resource_request_and/)
 - [Has AI been helpful to you in commenting your code?](https://www.reddit.com/r/Python/comments/1ktwdcn/has_ai_been_helpful_to_you_in_commenting_your_code/)
+- [Financial Risk Management Projects](https://www.reddit.com/r/Python/comments/1ktv4t8/financial_risk_management_projects/)
 <!-- BLOG-POST-LIST:END -->
