@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Has anyone worked with a proprietary python web framework before? How common is it?](https://www.reddit.com/r/Python/comments/1kunsod/has_anyone_worked_with_a_proprietary_python_web/)
 - [Script or extension that removes duplicate functions or methods? Makes using ChatGPT, etc easier](https://www.reddit.com/r/Python/comments/1kulxa1/script_or_extension_that_removes_duplicate/)
 - [Testing in Python Memes and wisdom request](https://www.reddit.com/r/Python/comments/1kukqdy/testing_in_python_memes_and_wisdom_request/)
 - [[Showcase] Windows Power Toolkit](https://www.reddit.com/r/Python/comments/1kugs4a/showcase_windows_power_toolkit/)
 - [Advanced TMDB Wallpapers](https://www.reddit.com/r/Python/comments/1kugai9/advanced_tmdb_wallpapers/)
-- [Is python sufficient](https://www.reddit.com/r/Python/comments/1kubhq0/is_python_sufficient/)
 <!-- BLOG-POST-LIST:END -->
