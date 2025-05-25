@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web-based tournament management using Django](https://www.reddit.com/r/Python/comments/1kvf63y/webbased_tournament_management_using_django/)
 - [Just a reminder to never blindly trust a github repo](https://www.reddit.com/r/Python/comments/1kvdgqa/just_a_reminder_to_never_blindly_trust_a_github/)
 - [Organizing fonts with Python script?](https://www.reddit.com/r/Python/comments/1kvcz7b/organizing_fonts_with_python_script/)
 - [46K downloads on a project I shared here -- thank you!](https://www.reddit.com/r/Python/comments/1kvbe3k/46k_downloads_on_a_project_i_shared_here_thank_you/)
 - [What to do with free Cloud Resources](https://www.reddit.com/r/Python/comments/1kvb7g8/what_to_do_with_free_cloud_resources/)
-- [Consigli per imparare Python](https://www.reddit.com/r/Python/comments/1kv92e9/consigli_per_imparare_python/)
 <!-- BLOG-POST-LIST:END -->
