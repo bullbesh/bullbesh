@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dedent multiline string literal &lpar;a.k.a. triple quoted string literal&rpar;](https://www.reddit.com/r/Python/comments/1kuuzqn/dedent_multiline_string_literal_aka_triple_quoted/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1kupen2/sunday_daily_thread_whats_everyone_working_on/)
 - [Has anyone worked with a proprietary python web framework before? How common is it?](https://www.reddit.com/r/Python/comments/1kunsod/has_anyone_worked_with_a_proprietary_python_web/)
 - [Script or extension that removes duplicate functions or methods? Makes using ChatGPT, etc easier](https://www.reddit.com/r/Python/comments/1kulxa1/script_or_extension_that_removes_duplicate/)
 - [Testing in Python Memes and wisdom request](https://www.reddit.com/r/Python/comments/1kukqdy/testing_in_python_memes_and_wisdom_request/)
-- [[Showcase] Windows Power Toolkit](https://www.reddit.com/r/Python/comments/1kugs4a/showcase_windows_power_toolkit/)
 <!-- BLOG-POST-LIST:END -->
