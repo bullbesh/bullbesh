@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Consigli per imparare Python](https://www.reddit.com/r/Python/comments/1kv92e9/consigli_per_imparare_python/)
 - [🧠 Visualizing Python&#39;s Data Model: References, Mutability, and Copying Made Clear](https://www.reddit.com/r/Python/comments/1kv2y0n/visualizing_pythons_data_model_references/)
 - [Have we all been &quot;free handing&quot; memory management? Really?](https://www.reddit.com/r/Python/comments/1kv2tm8/have_we_all_been_free_handing_memory_management/)
 - [Python cant wont play the sound file](https://www.reddit.com/r/Python/comments/1kuwwmu/python_cant_wont_play_the_sound_file/)
 - [I made a FOSS project to automatically setup your PC for Python AI development on Mac Windows Linux](https://www.reddit.com/r/Python/comments/1kuwc5g/i_made_a_foss_project_to_automatically_setup_your/)
-- [Dedent multiline string literal &lpar;a.k.a. triple quoted string literal&rpar;](https://www.reddit.com/r/Python/comments/1kuuzqn/dedent_multiline_string_literal_aka_triple_quoted/)
 <!-- BLOG-POST-LIST:END -->
