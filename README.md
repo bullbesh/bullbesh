@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [46K downloads on a project I shared here -- thank you!](https://www.reddit.com/r/Python/comments/1kvbe3k/46k_downloads_on_a_project_i_shared_here_thank_you/)
+- [What to do with free Cloud Resources](https://www.reddit.com/r/Python/comments/1kvb7g8/what_to_do_with_free_cloud_resources/)
 - [Consigli per imparare Python](https://www.reddit.com/r/Python/comments/1kv92e9/consigli_per_imparare_python/)
 - [🧠 Visualizing Python&#39;s Data Model: References, Mutability, and Copying Made Clear](https://www.reddit.com/r/Python/comments/1kv2y0n/visualizing_pythons_data_model_references/)
 - [Have we all been &quot;free handing&quot; memory management? Really?](https://www.reddit.com/r/Python/comments/1kv2tm8/have_we_all_been_free_handing_memory_management/)
-- [Python cant wont play the sound file](https://www.reddit.com/r/Python/comments/1kuwwmu/python_cant_wont_play_the_sound_file/)
-- [I made a FOSS project to automatically setup your PC for Python AI development on Mac Windows Linux](https://www.reddit.com/r/Python/comments/1kuwc5g/i_made_a_foss_project_to_automatically_setup_your/)
 <!-- BLOG-POST-LIST:END -->
