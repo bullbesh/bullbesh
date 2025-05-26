@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Send WhatsApp messages with just 3 lines of Python, Here’s how.](https://www.reddit.com/r/Python/comments/1kw0uvg/send_whatsapp_messages_with_just_3_lines_of/)
 - [Single process, multiple interpreters, no GIL contention - pre-Python3.12](https://www.reddit.com/r/Python/comments/1kvy7nf/single_process_multiple_interpreters_no_gil/)
 - [Kreuzberg v4 Roadmap - Looking for Community Input!](https://www.reddit.com/r/Python/comments/1kvm8ul/kreuzberg_v4_roadmap_looking_for_community_input/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1kvgq43/monday_daily_thread_project_ideas/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1kvgq3l/monday_daily_thread_project_ideas/)
-- [Web-based tournament management using Django](https://www.reddit.com/r/Python/comments/1kvf63y/webbased_tournament_management_using_django/)
 <!-- BLOG-POST-LIST:END -->
