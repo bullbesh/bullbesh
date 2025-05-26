@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Is anyone familiar with moviepy?](https://www.reddit.com/r/Python/comments/1kvsn42/is_anyone_familiar_with_moviepy/)
 - [Kreuzberg v4 Roadmap - Looking for Community Input!](https://www.reddit.com/r/Python/comments/1kvm8ul/kreuzberg_v4_roadmap_looking_for_community_input/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1kvgq43/monday_daily_thread_project_ideas/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1kvgq3l/monday_daily_thread_project_ideas/)
 - [Web-based tournament management using Django](https://www.reddit.com/r/Python/comments/1kvf63y/webbased_tournament_management_using_django/)
+- [Just a reminder to never blindly trust a github repo](https://www.reddit.com/r/Python/comments/1kvdgqa/just_a_reminder_to_never_blindly_trust_a_github/)
 <!-- BLOG-POST-LIST:END -->
