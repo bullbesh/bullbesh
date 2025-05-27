@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Skylos- Another dead code sniffer &lpar;but hear me out&rpar;](https://www.reddit.com/r/Python/comments/1kwakjj/skylos_another_dead_code_sniffer_but_hear_me_out/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1kw9et4/tuesday_daily_thread_advanced_questions/)
 - [API/Website Recommendation](https://www.reddit.com/r/Python/comments/1kw7jrx/apiwebsite_recommendation/)
 - [Screenshot in UWP protected apps using PYTHON](https://www.reddit.com/r/Python/comments/1kw2nyt/screenshot_in_uwp_protected_apps_using_python/)
 - [new Markup language - looking for feedback](https://www.reddit.com/r/Python/comments/1kw21dr/new_markup_language_looking_for_feedback/)
-- [Single process, multiple interpreters, no GIL contention - pre-Python3.12](https://www.reddit.com/r/Python/comments/1kvy7nf/single_process_multiple_interpreters_no_gil/)
-- [Kreuzberg v4 Roadmap - Looking for Community Input!](https://www.reddit.com/r/Python/comments/1kvm8ul/kreuzberg_v4_roadmap_looking_for_community_input/)
 <!-- BLOG-POST-LIST:END -->
