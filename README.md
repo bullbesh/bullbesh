@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am writing a JSX like template engine, feedback appreciated](https://www.reddit.com/r/Python/comments/1kwg5i7/i_am_writing_a_jsx_like_template_engine_feedback/)
+- [Set Up User Authentication in Minutes — With or Without Managing a User Database](https://www.reddit.com/r/Python/comments/1kwftsz/set_up_user_authentication_in_minutes_with_or/)
 - [MicroPie &lpar;ultra thin ASGI framework&rpar; version 0.9.9.8 Released](https://www.reddit.com/r/Python/comments/1kwd9ml/micropie_ultra_thin_asgi_framework_version_0998/)
 - [Skylos- Another dead code sniffer &lpar;but hear me out&rpar;](https://www.reddit.com/r/Python/comments/1kwakjj/skylos_another_dead_code_sniffer_but_hear_me_out/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1kw9et4/tuesday_daily_thread_advanced_questions/)
-- [API/Website Recommendation](https://www.reddit.com/r/Python/comments/1kw7jrx/apiwebsite_recommendation/)
-- [Screenshot in UWP protected apps using PYTHON](https://www.reddit.com/r/Python/comments/1kw2nyt/screenshot_in_uwp_protected_apps_using_python/)
 <!-- BLOG-POST-LIST:END -->
