@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [WOW, python is GREAT!](https://www.reddit.com/r/Python/comments/1kxc0fv/wow_python_is_great/)
 - [timelength - A flexible duration parser designed for human readable lengths of time.](https://www.reddit.com/r/Python/comments/1kx7x7c/timelength_a_flexible_duration_parser_designed/)
 - [I Built a Python Bot That Automatically Cleans Up Your Apple Music Library](https://www.reddit.com/r/Python/comments/1kx426z/i_built_a_python_bot_that_automatically_cleans_up/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1kx2vcc/wednesday_daily_thread_beginner_questions/)
 - [OpenTelementry, Grafana, Promethues, Loki and Tempo and Frappe](https://www.reddit.com/r/Python/comments/1kx2ti4/opentelementry_grafana_promethues_loki_and_tempo/)
-- [...so I decided to create yet another user config library](https://www.reddit.com/r/Python/comments/1kwzf8n/so_i_decided_to_create_yet_another_user_config/)
 <!-- BLOG-POST-LIST:END -->
