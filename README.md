@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Has anyone else used Python descriptors in PageObject patterns? Here’s how I did it](https://www.reddit.com/r/Python/comments/1kxmdhw/has_anyone_else_used_python_descriptors_in/)
+- [Syftr: Using Bayesian Optimization to find the best RAG configuration](https://www.reddit.com/r/Python/comments/1kxm0h1/syftr_using_bayesian_optimization_to_find_the/)
 - [I created a free Business Management Tool for Generating Quotes and Invoices, Managing Clients etc.](https://www.reddit.com/r/Python/comments/1kxghp8/i_created_a_free_business_management_tool_for/)
 - [Should I drop pandas and move to polars/duckdb or go?](https://www.reddit.com/r/Python/comments/1kxd97o/should_i_drop_pandas_and_move_to_polarsduckdb_or/)
 - [WOW, python is GREAT!](https://www.reddit.com/r/Python/comments/1kxc0fv/wow_python_is_great/)
-- [timelength - A flexible duration parser designed for human readable lengths of time.](https://www.reddit.com/r/Python/comments/1kx7x7c/timelength_a_flexible_duration_parser_designed/)
-- [I Built a Python Bot That Automatically Cleans Up Your Apple Music Library](https://www.reddit.com/r/Python/comments/1kx426z/i_built_a_python_bot_that_automatically_cleans_up/)
 <!-- BLOG-POST-LIST:END -->
