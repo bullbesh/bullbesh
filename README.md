@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Loops is confusing](https://www.reddit.com/r/Python/comments/1kx4qrf/loops_is_confusing/)
+- [I Built a Python Bot That Automatically Cleans Up Your Apple Music Library](https://www.reddit.com/r/Python/comments/1kx426z/i_built_a_python_bot_that_automatically_cleans_up/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1kx2vcc/wednesday_daily_thread_beginner_questions/)
+- [OpenTelementry, Grafana, Promethues, Loki and Tempo and Frappe](https://www.reddit.com/r/Python/comments/1kx2ti4/opentelementry_grafana_promethues_loki_and_tempo/)
 - [...so I decided to create yet another user config library](https://www.reddit.com/r/Python/comments/1kwzf8n/so_i_decided_to_create_yet_another_user_config/)
-- [Looking for a Web Scraper](https://www.reddit.com/r/Python/comments/1kwv8uj/looking_for_a_web_scraper/)
-- [Proposal: A finally-like block for if/elif chains &lpar;w/Github Issue&rpar;](https://www.reddit.com/r/Python/comments/1kwv5k8/proposal_a_finallylike_block_for_ifelif_chains/)
-- [SearchAI – Open Source Web Searching Tool With Filters &amp; LLM-Ready Outputs](https://www.reddit.com/r/Python/comments/1kwt4sa/searchai_open_source_web_searching_tool_with/)
-- [New meaty chapter on SimPy Architecture &amp; Patterns – Stop simulations looking like a dog&#39;s dinner!](https://www.reddit.com/r/Python/comments/1kwsgkw/new_meaty_chapter_on_simpy_architecture_patterns/)
 <!-- BLOG-POST-LIST:END -->
