@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pyreadstat library question](https://www.reddit.com/r/Python/comments/1kyanyd/pyreadstat_library_question/)
+- [I tried to debbug an file on pycharm but i got this error &lpar;with every file&rpar;, i can&#39;t fix it](https://www.reddit.com/r/Python/comments/1kyaa24/i_tried_to_debbug_an_file_on_pycharm_but_i_got/)
+- [DTC - CLI tool to dump telegram channels.](https://www.reddit.com/r/Python/comments/1kya1xc/dtc_cli_tool_to_dump_telegram_channels/)
 - [Recent Noteworthy Package Releases](https://www.reddit.com/r/Python/comments/1ky8o84/recent_noteworthy_package_releases/)
 - [Decorators and Functional programming](https://www.reddit.com/r/Python/comments/1ky73mz/decorators_and_functional_programming/)
-- [use gdscript and wanna Iearn python, can i use it for game dev? at least for beginners](https://www.reddit.com/r/Python/comments/1ky6mi3/use_gdscript_and_wanna_iearn_python_can_i_use_it/)
-- [Architecture and code for a Python RAG API using LangChain, FastAPI, and pgvector](https://www.reddit.com/r/Python/comments/1ky5bgs/architecture_and_code_for_a_python_rag_api_using/)
-- [I got tired of writing sleep&lpar;30&rpar; in my SSH scripts, so I built an open source Selenium for terminals](https://www.reddit.com/r/Python/comments/1ky4r69/i_got_tired_of_writing_sleep30_in_my_ssh_scripts/)
 <!-- BLOG-POST-LIST:END -->
