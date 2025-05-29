@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a template for FastAPI apps with React frontends using Nginx Unit](https://www.reddit.com/r/Python/comments/1ky1bwq/i_built_a_template_for_fastapi_apps_with_react/)
+- [Python 3.14 highlights](https://www.reddit.com/r/Python/comments/1ky0p5r/python_314_highlights/)
 - [Integer Interning showing wrong output in some cases.](https://www.reddit.com/r/Python/comments/1ky0ftg/integer_interning_showing_wrong_output_in_some/)
 - [Python timezone conversion gotcha &lpar;zoneinfo vs pytz&rpar;](https://www.reddit.com/r/Python/comments/1kxxgf9/python_timezone_conversion_gotcha_zoneinfo_vs_pytz/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1kxwlna/thursday_daily_thread_python_careers_courses_and/)
-- [AI teaching me how to code AI](https://www.reddit.com/r/Python/comments/1kxw74u/ai_teaching_me_how_to_code_ai/)
-- [I built a local, live-metrics dashboard for Android system metrics using Python and ADB : Droic](https://www.reddit.com/r/Python/comments/1kxv6cr/i_built_a_local_livemetrics_dashboard_for_android/)
 <!-- BLOG-POST-LIST:END -->
