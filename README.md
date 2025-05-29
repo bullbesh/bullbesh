@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I accidentally built a vector database using video compression](https://www.reddit.com/r/Python/comments/1ky24a0/i_accidentally_built_a_vector_database_using/)
 - [I built a template for FastAPI apps with React frontends using Nginx Unit](https://www.reddit.com/r/Python/comments/1ky1bwq/i_built_a_template_for_fastapi_apps_with_react/)
 - [Python 3.14 highlights](https://www.reddit.com/r/Python/comments/1ky0p5r/python_314_highlights/)
 - [Integer Interning showing wrong output in some cases.](https://www.reddit.com/r/Python/comments/1ky0ftg/integer_interning_showing_wrong_output_in_some/)
 - [Python timezone conversion gotcha &lpar;zoneinfo vs pytz&rpar;](https://www.reddit.com/r/Python/comments/1kxxgf9/python_timezone_conversion_gotcha_zoneinfo_vs_pytz/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1kxwlna/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
