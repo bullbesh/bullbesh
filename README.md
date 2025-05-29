@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m thinking of building a SaaS app.](https://www.reddit.com/r/Python/comments/1kyghck/im_thinking_of_building_a_saas_app/)
+- [Connect to saved query in databricks](https://www.reddit.com/r/Python/comments/1kyfdgd/connect_to_saved_query_in_databricks/)
 - [Looking for a backend dev to join us as a founding engineer &lpar;CLM, legal tech&rpar;](https://www.reddit.com/r/Python/comments/1kybk77/looking_for_a_backend_dev_to_join_us_as_a/)
 - [pyreadstat library question](https://www.reddit.com/r/Python/comments/1kyanyd/pyreadstat_library_question/)
 - [DTC - CLI tool to dump telegram channels.](https://www.reddit.com/r/Python/comments/1kya1xc/dtc_cli_tool_to_dump_telegram_channels/)
-- [Recent Noteworthy Package Releases](https://www.reddit.com/r/Python/comments/1ky8o84/recent_noteworthy_package_releases/)
-- [Decorators and Functional programming](https://www.reddit.com/r/Python/comments/1ky73mz/decorators_and_functional_programming/)
 <!-- BLOG-POST-LIST:END -->
