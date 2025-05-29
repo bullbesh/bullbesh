@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python timezone conversion gotcha &lpar;zoneinfo vs pytz&rpar;](https://www.reddit.com/r/Python/comments/1kxxgf9/python_timezone_conversion_gotcha_zoneinfo_vs_pytz/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1kxwlna/thursday_daily_thread_python_careers_courses_and/)
+- [AI teaching me how to code AI](https://www.reddit.com/r/Python/comments/1kxw74u/ai_teaching_me_how_to_code_ai/)
 - [I built a local, live-metrics dashboard for Android system metrics using Python and ADB : Droic](https://www.reddit.com/r/Python/comments/1kxv6cr/i_built_a_local_livemetrics_dashboard_for_android/)
 - [Repurposed an Old Laptop into a Headless SMS Notification Server — Here&#39;s How](https://www.reddit.com/r/Python/comments/1kxs9b0/repurposed_an_old_laptop_into_a_headless_sms/)
-- [Does typing suck the fun out of python for anyone else?](https://www.reddit.com/r/Python/comments/1kxn7f7/does_typing_suck_the_fun_out_of_python_for_anyone/)
-- [Syftr: Using Bayesian Optimization to find the best RAG configuration](https://www.reddit.com/r/Python/comments/1kxm0h1/syftr_using_bayesian_optimization_to_find_the/)
-- [I created a free Business Management Tool for Generating Quotes and Invoices, Managing Clients etc.](https://www.reddit.com/r/Python/comments/1kxghp8/i_created_a_free_business_management_tool_for/)
 <!-- BLOG-POST-LIST:END -->
