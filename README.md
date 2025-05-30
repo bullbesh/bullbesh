@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Can Python auto-generate videos using stock clips and custom font text based on an Excel input?](https://www.reddit.com/r/Python/comments/1kzejn1/can_python_autogenerate_videos_using_stock_clips/)
 - [Windows Task Scheduler &amp; Simple Python Scripts](https://www.reddit.com/r/Python/comments/1kzcj8w/windows_task_scheduler_simple_python_scripts/)
 - [Rant of seasoned python dev](https://www.reddit.com/r/Python/comments/1kz7x2t/rant_of_seasoned_python_dev/)
 - [Functional programming concepts that actually work in Python](https://www.reddit.com/r/Python/comments/1kz6kx3/functional_programming_concepts_that_actually/)
 - [Granular synthesis in Python](https://www.reddit.com/r/Python/comments/1kz436h/granular_synthesis_in_python/)
-- [gvtop: 🎮 Material You TUI for monitoring NVIDIA GPUs](https://www.reddit.com/r/Python/comments/1kz3eqk/gvtop_material_you_tui_for_monitoring_nvidia_gpus/)
 <!-- BLOG-POST-LIST:END -->
