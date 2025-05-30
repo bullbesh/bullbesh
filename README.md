@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🎉 Introducing TurboDRF - Auto Generate CRUD APIs from your django models](https://www.reddit.com/r/Python/comments/1kyywn0/introducing_turbodrf_auto_generate_crud_apis_from/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1kyq5i2/friday_daily_thread_rpython_meta_and_freetalk/)
 - [bulletchess, A high performance chess library](https://www.reddit.com/r/Python/comments/1kyoyds/bulletchess_a_high_performance_chess_library/)
 - [ml3-drift: Easy-to-embed drift detection for ML pipelines](https://www.reddit.com/r/Python/comments/1kyoldp/ml3drift_easytoembed_drift_detection_for_ml/)
 - [How I accelerated my development cycle for containerized python apps](https://www.reddit.com/r/Python/comments/1kyjsiz/how_i_accelerated_my_development_cycle_for/)
-- [Open-source AI-powered test automation library for mobile and web](https://www.reddit.com/r/Python/comments/1kyjmwl/opensource_aipowered_test_automation_library_for/)
 <!-- BLOG-POST-LIST:END -->
