@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rant of seasoned python dev](https://www.reddit.com/r/Python/comments/1kz7x2t/rant_of_seasoned_python_dev/)
 - [Functional programming concepts that actually work in Python](https://www.reddit.com/r/Python/comments/1kz6kx3/functional_programming_concepts_that_actually/)
 - [Granular synthesis in Python](https://www.reddit.com/r/Python/comments/1kz436h/granular_synthesis_in_python/)
 - [gvtop: 🎮 Material You TUI for monitoring NVIDIA GPUs](https://www.reddit.com/r/Python/comments/1kz3eqk/gvtop_material_you_tui_for_monitoring_nvidia_gpus/)
 - [What is the true point of Comments?](https://www.reddit.com/r/Python/comments/1kz3d1z/what_is_the_true_point_of_comments/)
-- [MigrateIt, A database migration tool](https://www.reddit.com/r/Python/comments/1kz30mk/migrateit_a_database_migration_tool/)
 <!-- BLOG-POST-LIST:END -->
