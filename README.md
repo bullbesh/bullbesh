@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Twilio Manager: Simplified Command-Line and Interactive Management for Your Twilio Account](https://www.reddit.com/r/Python/comments/1l051e1/twilio_manager_simplified_commandline_and/)
+- [Free VPS need advice](https://www.reddit.com/r/Python/comments/1l05xny/free_vps_need_advice/)
+- [Twilio Manager: Simplified Command-Line and Interactive Management for Your Twilio Account](https://www.reddit.com/r/Python/comments/1l05c7t/twilio_manager_simplified_commandline_and/)
 - [string.Template and string.templatelib.Template](https://www.reddit.com/r/Python/comments/1l04wxu/stringtemplate_and_stringtemplatelibtemplate/)
 - [DoCrypto Network](https://www.reddit.com/r/Python/comments/1l03l4p/docrypto_network/)
 - [Industrial instrumentation library](https://www.reddit.com/r/Python/comments/1kzwwgd/industrial_instrumentation_library/)
-- [Has anyone else used Python descriptors in PageObject patterns? Here’s how I did it](https://www.reddit.com/r/Python/comments/1kzs9g2/has_anyone_else_used_python_descriptors_in/)
 <!-- BLOG-POST-LIST:END -->
