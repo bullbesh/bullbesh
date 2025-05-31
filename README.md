@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Industrial instrumentation library](https://www.reddit.com/r/Python/comments/1kzwwgd/industrial_instrumentation_library/)
-- [Looking for 2 tech partners to join as co-founders for RideIndia. DM if interested. Serious minds on](https://www.reddit.com/r/Python/comments/1kzvcd7/looking_for_2_tech_partners_to_join_as_cofounders/)
 - [Has anyone else used Python descriptors in PageObject patterns? Here’s how I did it](https://www.reddit.com/r/Python/comments/1kzs9g2/has_anyone_else_used_python_descriptors_in/)
 - [Tired of tracing code by hand?](https://www.reddit.com/r/Python/comments/1kzq9vi/tired_of_tracing_code_by_hand/)
 - [Bundle python + 3rd party packages to macOS app](https://www.reddit.com/r/Python/comments/1kzkmtl/bundle_python_3rd_party_packages_to_macos_app/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1kzjfrf/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
