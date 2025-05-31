@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating python libraries](https://www.reddit.com/r/Python/comments/1l09fq5/creating_python_libraries/)
 - [Free VPS need advice](https://www.reddit.com/r/Python/comments/1l05xny/free_vps_need_advice/)
 - [Twilio Manager: Simplified Command-Line and Interactive Management for Your Twilio Account](https://www.reddit.com/r/Python/comments/1l05c7t/twilio_manager_simplified_commandline_and/)
 - [string.Template and string.templatelib.Template](https://www.reddit.com/r/Python/comments/1l04wxu/stringtemplate_and_stringtemplatelibtemplate/)
-- [DoCrypto Network](https://www.reddit.com/r/Python/comments/1l03l4p/docrypto_network/)
 - [Industrial instrumentation library](https://www.reddit.com/r/Python/comments/1kzwwgd/industrial_instrumentation_library/)
 <!-- BLOG-POST-LIST:END -->
