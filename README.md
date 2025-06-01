@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking Tech Volunteers for community Driven project](https://www.reddit.com/r/Python/comments/1l101by/looking_tech_volunteers_for_community_driven/)
+- [Forum python en français](https://www.reddit.com/r/Python/comments/1l0zswd/forum_python_en_français/)
 - [ayu - a pytest plugin to run your tests interactively](https://www.reddit.com/r/Python/comments/1l0wgq3/ayu_a_pytest_plugin_to_run_your_tests/)
 - [🔍 Built a Python Plagiarism Detection Tool - Combining AST Analysis &amp; TF-IDF](https://www.reddit.com/r/Python/comments/1l0ta0q/built_a_python_plagiarism_detection_tool/)
 - [audio file to grayscale image](https://www.reddit.com/r/Python/comments/1l0fses/audio_file_to_grayscale_image/)
-- [Python Object Indexer](https://www.reddit.com/r/Python/comments/1l0dum0/python_object_indexer/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1l0bcrd/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
