@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How local variables work in Python bytecode](https://www.reddit.com/r/Python/comments/1l1ilq0/how_local_variables_work_in_python_bytecode/)
 - [Hot take for Python](https://www.reddit.com/r/Python/comments/1l1b18s/hot_take_for_python/)
 - [Introducing MEINE 🌒: A TUI-Based File Manager &amp; Command Console Built with Python](https://www.reddit.com/r/Python/comments/1l18f3h/introducing_meine_a_tuibased_file_manager_command/)
 - [Open Source Photo Quality Analyzer: Get Technical Scores for Your Images &lpar;Python, YOLO, OpenCV CLI&rpar;](https://www.reddit.com/r/Python/comments/1l1472u/open_source_photo_quality_analyzer_get_technical/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1l13tl7/monday_daily_thread_project_ideas/)
-- [Forum python en français](https://www.reddit.com/r/Python/comments/1l0zswd/forum_python_en_français/)
 <!-- BLOG-POST-LIST:END -->
