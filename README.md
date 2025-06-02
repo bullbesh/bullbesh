@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Photo Quality Analyzer: Get Technical Scores for Your Images &lpar;Python, YOLO, OpenCV CLI&rpar;](https://www.reddit.com/r/Python/comments/1l1472u/open_source_photo_quality_analyzer_get_technical/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1l13tl7/monday_daily_thread_project_ideas/)
 - [Forum python en français](https://www.reddit.com/r/Python/comments/1l0zswd/forum_python_en_français/)
 - [ayu - a pytest plugin to run your tests interactively](https://www.reddit.com/r/Python/comments/1l0wgq3/ayu_a_pytest_plugin_to_run_your_tests/)
 - [🔍 Built a Python Plagiarism Detection Tool - Combining AST Analysis &amp; TF-IDF](https://www.reddit.com/r/Python/comments/1l0ta0q/built_a_python_plagiarism_detection_tool/)
-- [audio file to grayscale image](https://www.reddit.com/r/Python/comments/1l0fses/audio_file_to_grayscale_image/)
-- [Python Object Indexer](https://www.reddit.com/r/Python/comments/1l0dum0/python_object_indexer/)
 <!-- BLOG-POST-LIST:END -->
