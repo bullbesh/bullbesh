@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [So tired of python](https://www.reddit.com/r/Python/comments/1l22v73/so_tired_of_python/)
+- [Positive Python obsession](https://www.reddit.com/r/Python/comments/1l228jt/positive_python_obsession/)
 - [No more exit&lpar;&rpar;? Yay for exit!](https://www.reddit.com/r/Python/comments/1l1zeib/no_more_exit_yay_for_exit/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1l1xqmw/tuesday_daily_thread_advanced_questions/)
 - [💥 Introducing AtomixCore — An open-source forge for strange, fast, and rebellious software](https://www.reddit.com/r/Python/comments/1l1tos9/introducing_atomixcore_an_opensource_forge_for/)
-- [Open source CLI tool for CodeAct agents](https://www.reddit.com/r/Python/comments/1l1quel/open_source_cli_tool_for_codeact_agents/)
-- [New Open Source Project Gemini-Engineer](https://www.reddit.com/r/Python/comments/1l1mqjy/new_open_source_project_geminiengineer/)
 <!-- BLOG-POST-LIST:END -->
