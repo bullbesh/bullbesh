@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a live scoreboard in using Python.](https://www.reddit.com/r/Python/comments/1l2hn9e/creating_a_live_scoreboard_in_using_python/)
 - [Jarvis/Operator for MacOS](https://www.reddit.com/r/Python/comments/1l2flje/jarvisoperator_for_macos/)
 - [FastAPI + Supabase Auth Template](https://www.reddit.com/r/Python/comments/1l2bm0g/fastapi_supabase_auth_template/)
 - [Top 7 Python Frameworks for AI Agents](https://www.reddit.com/r/Python/comments/1l2b7t4/top_7_python_frameworks_for_ai_agents/)
 - [What is the best way to send/share a Jupyter notebook from itself?](https://www.reddit.com/r/Python/comments/1l2aosj/what_is_the_best_way_to_sendshare_a_jupyter/)
-- [CustomTkinter error on Raspberry Pi OS](https://www.reddit.com/r/Python/comments/1l29dwa/customtkinter_error_on_raspberry_pi_os/)
 <!-- BLOG-POST-LIST:END -->
