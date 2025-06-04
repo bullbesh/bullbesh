@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Want to make a Python learning group &lpar;just need friends&rpar;](https://www.reddit.com/r/Python/comments/1l2tf2g/want_to_make_a_python_learning_group_just_need/)
+- [Python for Good - Registration is Open!!!](https://www.reddit.com/r/Python/comments/1l2swqe/python_for_good_registration_is_open/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1l2rfyx/wednesday_daily_thread_beginner_questions/)
 - [Use of phones camera for barcode scanner](https://www.reddit.com/r/Python/comments/1l2iop3/use_of_phones_camera_for_barcode_scanner/)
 - [lgtm - open source AI powered code review companion](https://www.reddit.com/r/Python/comments/1l2i7iv/lgtm_open_source_ai_powered_code_review_companion/)
-- [Creating a live scoreboard in using Python.](https://www.reddit.com/r/Python/comments/1l2hn9e/creating_a_live_scoreboard_in_using_python/)
-- [FastAPI + Supabase Auth Template](https://www.reddit.com/r/Python/comments/1l2bm0g/fastapi_supabase_auth_template/)
-- [Top 7 Python Frameworks for AI Agents](https://www.reddit.com/r/Python/comments/1l2b7t4/top_7_python_frameworks_for_ai_agents/)
 <!-- BLOG-POST-LIST:END -->
