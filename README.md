@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anyone here using web scraping for price intelligence?](https://www.reddit.com/r/Python/comments/1l33pr6/anyone_here_using_web_scraping_for_price/)
+- [Quick Examples on using Python + ChatGPT + DeepSeek APIs](https://www.reddit.com/r/Python/comments/1l339m7/quick_examples_on_using_python_chatgpt_deepseek/)
 - [This Python class offers a multiprocessing-powered Pool for experience replay data](https://www.reddit.com/r/Python/comments/1l32c72/this_python_class_offers_a_multiprocessingpowered/)
 - [pyleak - detect leaked asyncio tasks, threads, and event loop blocking in Python](https://www.reddit.com/r/Python/comments/1l2y5rz/pyleak_detect_leaked_asyncio_tasks_threads_and/)
 - [CarbonKivy - IBM&#39;s Carbon Design Components for Kivy](https://www.reddit.com/r/Python/comments/1l2wwmp/carbonkivy_ibms_carbon_design_components_for_kivy/)
-- [Want to make a Python learning group &lpar;just need friends&rpar;](https://www.reddit.com/r/Python/comments/1l2tf2g/want_to_make_a_python_learning_group_just_need/)
-- [Python for Good - Registration is Open!!!](https://www.reddit.com/r/Python/comments/1l2swqe/python_for_good_registration_is_open/)
 <!-- BLOG-POST-LIST:END -->
