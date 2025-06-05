@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are you using great expectations or other lib to run quality checks on data?](https://www.reddit.com/r/Python/comments/1l46a8a/are_you_using_great_expectations_or_other_lib_to/)
 - [What are your favorite modern libraries or tooling for Python?](https://www.reddit.com/r/Python/comments/1l43i8z/what_are_your_favorite_modern_libraries_or/)
 - [Database, Data Warehouse Migrations &amp; DuckDB Warehouse with sqlglot and ibis](https://www.reddit.com/r/Python/comments/1l42v34/database_data_warehouse_migrations_duckdb/)
 - [p99.chat - quickly measure and compare the performance of Python snippets in your browser](https://www.reddit.com/r/Python/comments/1l3zzn4/p99chat_quickly_measure_and_compare_the/)
 - [Python work about time series of BTC and the analysis](https://www.reddit.com/r/Python/comments/1l3zfq8/python_work_about_time_series_of_btc_and_the/)
-- [[OC] SQLAIAgent-Ollama – Open-source AI SQL Agent with Local Ollama &amp; OpenAI Support](https://www.reddit.com/r/Python/comments/1l3z9h6/oc_sqlaiagentollama_opensource_ai_sql_agent_with/)
 <!-- BLOG-POST-LIST:END -->
