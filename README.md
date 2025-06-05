@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[OC] SQLAIAgent-Ollama – Open-source AI SQL Agent with Local Ollama &amp; OpenAI Support](https://www.reddit.com/r/Python/comments/1l3z9h6/oc_sqlaiagentollama_opensource_ai_sql_agent_with/)
+- [We just open-sourced ragbits v1.0.0 + create-ragbits-app - spin up a python RAG project in minutes](https://www.reddit.com/r/Python/comments/1l3yx48/we_just_opensourced_ragbits_v100_createragbitsapp/)
 - [A lightweight utility for training multiple Keras models in parallel](https://www.reddit.com/r/Python/comments/1l3vmpo/a_lightweight_utility_for_training_multiple_keras/)
 - [OpenGrammar &lpar;Open Source&rpar;](https://www.reddit.com/r/Python/comments/1l3vhc6/opengrammar_open_source/)
 - [Just Published genai-scaffold. A Simple CLI Tool to Scaffold Production-Ready GenAI Projects](https://www.reddit.com/r/Python/comments/1l3teb2/just_published_genaiscaffold_a_simple_cli_tool_to/)
-- [MCGA: A ridiculous Python package that chickens out of tariffs when it&#39;s too high](https://www.reddit.com/r/Python/comments/1l3sssl/mcga_a_ridiculous_python_package_that_chickens/)
-- [CBSAnalyzer - Analyze Chase Bank Statement Files](https://www.reddit.com/r/Python/comments/1l3nc2u/cbsanalyzer_analyze_chase_bank_statement_files/)
 <!-- BLOG-POST-LIST:END -->
