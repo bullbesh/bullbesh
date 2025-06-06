@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tell me some good books on python](https://www.reddit.com/r/Python/comments/1l4mtme/tell_me_some_good_books_on_python/)
 - [A comprehensive description of Python?](https://www.reddit.com/r/Python/comments/1l4m732/a_comprehensive_description_of_python/)
 - [Why uptime monitors are ridiculously priced?](https://www.reddit.com/r/Python/comments/1l4lod7/why_uptime_monitors_are_ridiculously_priced/)
 - [Tired of bloated requirements.txt files? Meet genreq](https://www.reddit.com/r/Python/comments/1l4j96h/tired_of_bloated_requirementstxt_files_meet_genreq/)
 - [Confessions of an AI Dev: My Epic Battle Migrating to Google&#39;s google-genai](https://www.reddit.com/r/Python/comments/1l4h5jx/confessions_of_an_ai_dev_my_epic_battle_migrating/)
-- [after learning this flask todo app, what is my next step to upgrade my programming level](https://www.reddit.com/r/Python/comments/1l4el4a/after_learning_this_flask_todo_app_what_is_my/)
 <!-- BLOG-POST-LIST:END -->
