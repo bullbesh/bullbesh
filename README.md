@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python typing challenge](https://www.reddit.com/r/Python/comments/1l5lkg6/a_python_typing_challenge/)
+- [manga-sp : A simple manga scrapper](https://www.reddit.com/r/Python/comments/1l5ky4h/mangasp_a_simple_manga_scrapper/)
 - [Released real-random 0.1.1 – A module for true randomness generation based on ambient sound.](https://www.reddit.com/r/Python/comments/1l5eocl/released_realrandom_011_a_module_for_true/)
 - [Code gave object error](https://www.reddit.com/r/Python/comments/1l5d5h4/code_gave_object_error/)
 - [bitssh: Terminal user interface for SSH. It uses ~/.ssh/config to list and connect to hosts.](https://www.reddit.com/r/Python/comments/1l5csaa/bitssh_terminal_user_interface_for_ssh_it_uses/)
-- [An app for Mid/Senior developers who are asked to do a coding test | An App that draws a p*nis.](https://www.reddit.com/r/Python/comments/1l5cegs/an_app_for_midsenior_developers_who_are_asked_to/)
-- [A simple file-sharing app built in Python with GUI, host discovery, drag-and-drop.](https://www.reddit.com/r/Python/comments/1l5bjyr/a_simple_filesharing_app_built_in_python_with_gui/)
 <!-- BLOG-POST-LIST:END -->
