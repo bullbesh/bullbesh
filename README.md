@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s the most badass CS student Python project you’ve seen that actually got someone hired?](https://www.reddit.com/r/Python/comments/1l6o2hn/whats_the_most_badass_cs_student_python_project/)
 - [Pyright &gt; Pylance](https://www.reddit.com/r/Python/comments/1l6ktgv/pyright_pylance/)
-- [cmdcapture: A Python library that makes running terminal commands actually enjoyable](https://www.reddit.com/r/Python/comments/1l6klgf/cmdcapture_a_python_library_that_makes_running/)
 - [Armin Ronacher &lpar;Flask Creator&rpar; on AI and ‘Vibe Coding’](https://www.reddit.com/r/Python/comments/1l6jx0p/armin_ronacher_flask_creator_on_ai_and_vibe_coding/)
 - [Real world flask projects](https://www.reddit.com/r/Python/comments/1l6g3eg/real_world_flask_projects/)
 - [Why is there no python auto-instrument module for open telemetry ?](https://www.reddit.com/r/Python/comments/1l6crs2/why_is_there_no_python_autoinstrument_module_for/)
