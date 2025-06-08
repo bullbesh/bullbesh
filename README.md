@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Real world flask projects](https://www.reddit.com/r/Python/comments/1l6g3eg/real_world_flask_projects/)
 - [Why is there no python auto-instrument module for open telemetry ?](https://www.reddit.com/r/Python/comments/1l6crs2/why_is_there_no_python_autoinstrument_module_for/)
 - [[Project] RCPTelegram – A Telegram Bot to Remotely Control Remotely your PC](https://www.reddit.com/r/Python/comments/1l69934/project_rcptelegram_a_telegram_bot_to_remotely/)
 - [Astonishing discovery by computer scientist: how to squeeze space into time](https://www.reddit.com/r/Python/comments/1l63xae/astonishing_discovery_by_computer_scientist_how/)
 - [building my own chemical AI safety prod](https://www.reddit.com/r/Python/comments/1l62y6r/building_my_own_chemical_ai_safety_prod/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1l5yvhd/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
