@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Project] RCPTelegram – A Telegram Bot to Remotely Control Remotely your PC](https://www.reddit.com/r/Python/comments/1l69934/project_rcptelegram_a_telegram_bot_to_remotely/)
 - [Astonishing discovery by computer scientist: how to squeeze space into time](https://www.reddit.com/r/Python/comments/1l63xae/astonishing_discovery_by_computer_scientist_how/)
 - [building my own chemical AI safety prod](https://www.reddit.com/r/Python/comments/1l62y6r/building_my_own_chemical_ai_safety_prod/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1l5yvhd/sunday_daily_thread_whats_everyone_working_on/)
 - [Audited SSS &lpar;shamir shared secret&rpar; code?](https://www.reddit.com/r/Python/comments/1l5xtz5/audited_sss_shamir_shared_secret_code/)
-- [I built epub-utils: a CLI tool and Python library for inspecting EPUB files](https://www.reddit.com/r/Python/comments/1l5ufkj/i_built_epubutils_a_cli_tool_and_python_library/)
 <!-- BLOG-POST-LIST:END -->
