@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [building my own chemical AI safety prod](https://www.reddit.com/r/Python/comments/1l62y6r/building_my_own_chemical_ai_safety_prod/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1l5yvhd/sunday_daily_thread_whats_everyone_working_on/)
 - [Audited SSS &lpar;shamir shared secret&rpar; code?](https://www.reddit.com/r/Python/comments/1l5xtz5/audited_sss_shamir_shared_secret_code/)
 - [I built epub-utils: a CLI tool and Python library for inspecting EPUB files](https://www.reddit.com/r/Python/comments/1l5ufkj/i_built_epubutils_a_cli_tool_and_python_library/)
 - [Python on tablet?](https://www.reddit.com/r/Python/comments/1l5tscy/python_on_tablet/)
-- [Game Developer X Gamer community Assets/Community/Events/ Coding and Game Writing Challenges!! +more](https://www.reddit.com/r/Python/comments/1l5s5d5/game_developer_x_gamer_community/)
 <!-- BLOG-POST-LIST:END -->
