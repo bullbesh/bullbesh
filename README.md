@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Football Tournament Maker V1.0](https://www.reddit.com/r/Python/comments/1l72ucz/football_tournament_maker_v10/)
 - [Library for composable predicates in Python](https://www.reddit.com/r/Python/comments/1l71r6i/library_for_composable_predicates_in_python/)
 - [Next version of python &lpar;3.14&rpar; should be code named pithon Lol](https://www.reddit.com/r/Python/comments/1l71ltm/next_version_of_python_314_should_be_code_named/)
 - [Looking to purchase fluent python book](https://www.reddit.com/r/Python/comments/1l6zuzr/looking_to_purchase_fluent_python_book/)
 - [Robyn &lpar;finally&rpar; supports Python 3.13 🎉](https://www.reddit.com/r/Python/comments/1l6ww94/robyn_finally_supports_python_313/)
-- [Looking for senior python API developer](https://www.reddit.com/r/Python/comments/1l6u1ig/looking_for_senior_python_api_developer/)
 <!-- BLOG-POST-LIST:END -->
