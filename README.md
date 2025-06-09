@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pyfuze 2.0.2 – A New Cross-Platform Packaging Tool for Python](https://www.reddit.com/r/Python/comments/1l7dwei/pyfuze_202_a_new_crossplatform_packaging_tool_for/)
 - [Cloud Multi Query &lpar;CMQ&rpar; - List AWS resources simultaneusly from multiple accounts](https://www.reddit.com/r/Python/comments/1l7d9rl/cloud_multi_query_cmq_list_aws_resources/)
 - [Flowfile: Code-to-Visual. Now also Visual-to-Code: Generate polars code based on a visually](https://www.reddit.com/r/Python/comments/1l78ud9/flowfile_codetovisual_now_also_visualtocode/)
 - [Building a Modern Python API with FastAPI and Azure Cosmos DB – 5-Part Video Series](https://www.reddit.com/r/Python/comments/1l76m04/building_a_modern_python_api_with_fastapi_and/)
 - [Football Tournament Maker V1.0](https://www.reddit.com/r/Python/comments/1l72ucz/football_tournament_maker_v10/)
-- [Library for composable predicates in Python](https://www.reddit.com/r/Python/comments/1l71r6i/library_for_composable_predicates_in_python/)
 <!-- BLOG-POST-LIST:END -->
