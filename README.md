@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking to purchase fluent python book](https://www.reddit.com/r/Python/comments/1l6zuzr/looking_to_purchase_fluent_python_book/)
 - [Robyn &lpar;finally&rpar; supports Python 3.13 🎉](https://www.reddit.com/r/Python/comments/1l6ww94/robyn_finally_supports_python_313/)
 - [Looking for senior python API developer](https://www.reddit.com/r/Python/comments/1l6u1ig/looking_for_senior_python_api_developer/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1l6qq6d/monday_daily_thread_project_ideas/)
 - [Pyright &gt; Pylance](https://www.reddit.com/r/Python/comments/1l6ktgv/pyright_pylance/)
-- [Armin Ronacher &lpar;Flask Creator&rpar; on AI and ‘Vibe Coding’](https://www.reddit.com/r/Python/comments/1l6jx0p/armin_ronacher_flask_creator_on_ai_and_vibe_coding/)
 <!-- BLOG-POST-LIST:END -->
