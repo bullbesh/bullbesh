@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Academic study on code debugging](https://www.reddit.com/r/Python/comments/1l81fjc/academic_study_on_code_debugging/)
+- [GUI - tkinter - writing most universal UI with support of system tray](https://www.reddit.com/r/Python/comments/1l81ehp/gui_tkinter_writing_most_universal_ui_with/)
 - [Traceback package for lazies](https://www.reddit.com/r/Python/comments/1l7zz59/traceback_package_for_lazies/)
 - [How many tests?](https://www.reddit.com/r/Python/comments/1l7zmqh/how_many_tests/)
 - [pyleak: pytest-plugin to detect event loop blocking and asyncio task leaks](https://www.reddit.com/r/Python/comments/1l7ym7y/pyleak_pytestplugin_to_detect_event_loop_blocking/)
-- [Yet Another Video thumbnail Generator But It&#39;s GIF](https://www.reddit.com/r/Python/comments/1l7y8fh/yet_another_video_thumbnail_generator_but_its_gif/)
-- [I turned a thermodynamics principle into a learning algorithm - and it lands a moonlander](https://www.reddit.com/r/Python/comments/1l7y0zh/i_turned_a_thermodynamics_principle_into_a/)
 <!-- BLOG-POST-LIST:END -->
