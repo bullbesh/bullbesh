@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cerno - local-first AI deep research workspace](https://www.reddit.com/r/Python/comments/1l7wwxm/cerno_localfirst_ai_deep_research_workspace/)
 - [If you serve Python ASGI and/or WSGI web apps, but you don&#39;t use Granian: why?](https://www.reddit.com/r/Python/comments/1l7usfq/if_you_serve_python_asgi_andor_wsgi_web_apps_but/)
 - [Stockstir is a Python library to get stock information from any script at no cost [CLI released!]](https://www.reddit.com/r/Python/comments/1l7l0a7/stockstir_is_a_python_library_to_get_stock/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1l7kkp8/tuesday_daily_thread_advanced_questions/)
 - [A Python library to reliably detect captive portals and TLS interception &lpar;Man in the middle&rpar; attacks](https://www.reddit.com/r/Python/comments/1l7howq/a_python_library_to_reliably_detect_captive/)
-- [pyfuze 2.0.2 – A New Cross-Platform Packaging Tool for Python](https://www.reddit.com/r/Python/comments/1l7dwei/pyfuze_202_a_new_crossplatform_packaging_tool_for/)
 <!-- BLOG-POST-LIST:END -->
