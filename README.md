@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Traceback package for lazies](https://www.reddit.com/r/Python/comments/1l7zz59/traceback_package_for_lazies/)
+- [How many tests?](https://www.reddit.com/r/Python/comments/1l7zmqh/how_many_tests/)
 - [pyleak: pytest-plugin to detect event loop blocking and asyncio task leaks](https://www.reddit.com/r/Python/comments/1l7ym7y/pyleak_pytestplugin_to_detect_event_loop_blocking/)
 - [Yet Another Video thumbnail Generator But It&#39;s GIF](https://www.reddit.com/r/Python/comments/1l7y8fh/yet_another_video_thumbnail_generator_but_its_gif/)
 - [I turned a thermodynamics principle into a learning algorithm - and it lands a moonlander](https://www.reddit.com/r/Python/comments/1l7y0zh/i_turned_a_thermodynamics_principle_into_a/)
-- [Cerno - local-first AI deep research workspace](https://www.reddit.com/r/Python/comments/1l7wwxm/cerno_localfirst_ai_deep_research_workspace/)
-- [If you serve Python ASGI and/or WSGI web apps, but you don&#39;t use Granian: why?](https://www.reddit.com/r/Python/comments/1l7usfq/if_you_serve_python_asgi_andor_wsgi_web_apps_but/)
 <!-- BLOG-POST-LIST:END -->
