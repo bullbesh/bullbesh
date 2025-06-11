@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Python really important for cybersecurity?](https://www.reddit.com/r/Python/comments/1l95skp/is_python_really_important_for_cybersecurity/)
+- [[Project] I built an Open-Source WhatsApp Chatbot using Python and the Gemini AI API.](https://www.reddit.com/r/Python/comments/1l94mr0/project_i_built_an_opensource_whatsapp_chatbot/)
 - [Ugh.. truthiness. Are there other footguns to be aware of? Insight to be had?](https://www.reddit.com/r/Python/comments/1l8yhx5/ugh_truthiness_are_there_other_footguns_to_be/)
 - [Juvio - UV Kernel for Jupyter](https://www.reddit.com/r/Python/comments/1l8xwsc/juvio_uv_kernel_for_jupyter/)
 - [I built a Code Agent that writes python code and then live-debugs using pytests tests.](https://www.reddit.com/r/Python/comments/1l8ws23/i_built_a_code_agent_that_writes_python_code_and/)
-- [Pyodbc to SQL Server using executemany or TVP?](https://www.reddit.com/r/Python/comments/1l8mq91/pyodbc_to_sql_server_using_executemany_or_tvp/)
-- [Flowguard: A minimal rate-limiting library for Python &lpar;sync + async&rpar; -- Feedback welcome!](https://www.reddit.com/r/Python/comments/1l8kqsg/flowguard_a_minimal_ratelimiting_library_for/)
 <!-- BLOG-POST-LIST:END -->
