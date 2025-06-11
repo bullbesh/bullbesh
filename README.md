@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is uvloop still faster than asyncio&#39;s event loop in python3.13?](https://www.reddit.com/r/Python/comments/1l8fwu1/is_uvloop_still_faster_than_asyncios_event_loop/)
+- [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1l8egg6/wednesday_daily_thread_beginner_questions/)
 - [What version do you all use at work?](https://www.reddit.com/r/Python/comments/1l8chj0/what_version_do_you_all_use_at_work/)
 - [Streamlabs Python CLI](https://www.reddit.com/r/Python/comments/1l8atti/streamlabs_python_cli/)
 - [Template string `repr` doesn&#39;t reconstruct template?](https://www.reddit.com/r/Python/comments/1l8af2k/template_string_repr_doesnt_reconstruct_template/)
-- [Pilgram 4.0, an infinite texting based idle game / MMO RPG](https://www.reddit.com/r/Python/comments/1l8a1c6/pilgram_40_an_infinite_texting_based_idle_game/)
-- [[Project] FileVault – A Secure File Storage CLI Tool &lpar;Compression + Encryption + TUI&rpar;](https://www.reddit.com/r/Python/comments/1l872q5/project_filevault_a_secure_file_storage_cli_tool/)
 <!-- BLOG-POST-LIST:END -->
