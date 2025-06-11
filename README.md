@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Project] Generate Beautiful Chessboard Images from FEN Strings 🧠♟️](https://www.reddit.com/r/Python/comments/1l8hdwz/project_generate_beautiful_chessboard_images_from/)
+- [Using Pandas for the first time](https://www.reddit.com/r/Python/comments/1l8hdw8/using_pandas_for_the_first_time/)
 - [Is uvloop still faster than asyncio&#39;s event loop in python3.13?](https://www.reddit.com/r/Python/comments/1l8fwu1/is_uvloop_still_faster_than_asyncios_event_loop/)
 - [Wednesday Daily Thread: Beginner questions](https://www.reddit.com/r/Python/comments/1l8egg6/wednesday_daily_thread_beginner_questions/)
 - [What version do you all use at work?](https://www.reddit.com/r/Python/comments/1l8chj0/what_version_do_you_all_use_at_work/)
-- [Streamlabs Python CLI](https://www.reddit.com/r/Python/comments/1l8atti/streamlabs_python_cli/)
-- [Template string `repr` doesn&#39;t reconstruct template?](https://www.reddit.com/r/Python/comments/1l8af2k/template_string_repr_doesnt_reconstruct_template/)
 <!-- BLOG-POST-LIST:END -->
