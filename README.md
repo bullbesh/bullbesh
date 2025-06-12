@@ -11,6 +11,6 @@
 - [Productivity Tracker CLI](https://www.reddit.com/r/Python/comments/1l9re6v/productivity_tracker_cli/)
 - [I built a fullstack solopreneur project template with free cloud hosting and detailed tutorials](https://www.reddit.com/r/Python/comments/1l9q16q/i_built_a_fullstack_solopreneur_project_template/)
 - [I cannot be the only one that hates Flask](https://www.reddit.com/r/Python/comments/1l9n1pf/i_cannot_be_the_only_one_that_hates_flask/)
-- [Mastering Modern Time Series Forecasting: A Python Guide to Statistical, ML &amp; Deep Learning Methods](https://www.reddit.com/r/Python/comments/1l9gdhu/mastering_modern_time_series_forecasting_a_python/)
 - [What ever happened to &quot;Zope&quot;?!](https://www.reddit.com/r/Python/comments/1l9furl/what_ever_happened_to_zope/)
+- [SimplePyQ - Queueing tasks in Python doesn&#39;t have to be complicated](https://www.reddit.com/r/Python/comments/1l9frz7/simplepyq_queueing_tasks_in_python_doesnt_have_to/)
 <!-- BLOG-POST-LIST:END -->
