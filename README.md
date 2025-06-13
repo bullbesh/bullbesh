@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built a video on creating a free AI agent for beginners &lpar; Open source and Free to Try&rpar;!](https://www.reddit.com/r/Python/comments/1la3n57/built_a_video_on_creating_a_free_ai_agent_for/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1la1w5g/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Do you think AI has Python usage growing or slowing?](https://www.reddit.com/r/Python/comments/1l9vnnt/do_you_think_ai_has_python_usage_growing_or/)
 - [Website version of Christopher Manson&#39;s 1985 puzzle book, &quot;Maze&quot;](https://www.reddit.com/r/Python/comments/1l9urle/website_version_of_christopher_mansons_1985/)
 - [Productivity Tracker CLI](https://www.reddit.com/r/Python/comments/1l9re6v/productivity_tracker_cli/)
-- [I built a fullstack solopreneur project template with free cloud hosting and detailed tutorials](https://www.reddit.com/r/Python/comments/1l9q16q/i_built_a_fullstack_solopreneur_project_template/)
-- [I cannot be the only one that hates Flask](https://www.reddit.com/r/Python/comments/1l9n1pf/i_cannot_be_the_only_one_that_hates_flask/)
 <!-- BLOG-POST-LIST:END -->
