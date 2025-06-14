@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New in coding world. Need recommendations of tutorials for python in finance.](https://www.reddit.com/r/Python/comments/1lb5dtg/new_in_coding_world_need_recommendations_of/)
+- [Premier: Instantly Turn Your ASGI App into an API Gateway](https://www.reddit.com/r/Python/comments/1lb52n0/premier_instantly_turn_your_asgi_app_into_an_api/)
+- [Data Science Practice Resource](https://www.reddit.com/r/Python/comments/1lb511h/data_science_practice_resource/)
 - [Py to EXE Compiler](https://www.reddit.com/r/Python/comments/1lb3t95/py_to_exe_compiler/)
 - [MCPGex - MCP server for finding, testing and refining regex patterns](https://www.reddit.com/r/Python/comments/1lav4s8/mcpgex_mcp_server_for_finding_testing_and/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1lauzll/saturday_daily_thread_resource_request_and/)
-- [My HDR Photo Maker](https://www.reddit.com/r/Python/comments/1laqarr/my_hdr_photo_maker/)
-- [I built &quot;Submind&quot; – a beautiful PyQt6 app to batch transcribe and auto-translate subtitles](https://www.reddit.com/r/Python/comments/1lap8mz/i_built_submind_a_beautiful_pyqt6_app_to_batch/)
 <!-- BLOG-POST-LIST:END -->
