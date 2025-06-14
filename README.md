@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My First Project With Python [FeedBacks]](https://www.reddit.com/r/Python/comments/1lbi5uc/my_first_project_with_python_feedbacks/)
 - [🔄 support for automating daily stock check &amp; WhatsApp alert using Python](https://www.reddit.com/r/Python/comments/1lbcezz/support_for_automating_daily_stock_check_whatsapp/)
 - [Local LLM Memorization – A fully local memory system for long-term recall and visualization](https://www.reddit.com/r/Python/comments/1lb9fcr/local_llm_memorization_a_fully_local_memory/)
 - [Building an ERP: ready-made platforms vs custom development](https://www.reddit.com/r/Python/comments/1lb5jk5/building_an_erp_readymade_platforms_vs_custom/)
 - [New in coding world. Need recommendations of tutorials for python in finance.](https://www.reddit.com/r/Python/comments/1lb5dtg/new_in_coding_world_need_recommendations_of/)
-- [Premier: Instantly Turn Your ASGI App into an API Gateway](https://www.reddit.com/r/Python/comments/1lb52n0/premier_instantly_turn_your_asgi_app_into_an_api/)
 <!-- BLOG-POST-LIST:END -->
