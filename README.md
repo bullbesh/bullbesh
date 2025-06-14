@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an ERP: ready-made platforms vs custom development](https://www.reddit.com/r/Python/comments/1lb5jk5/building_an_erp_readymade_platforms_vs_custom/)
 - [New in coding world. Need recommendations of tutorials for python in finance.](https://www.reddit.com/r/Python/comments/1lb5dtg/new_in_coding_world_need_recommendations_of/)
 - [Premier: Instantly Turn Your ASGI App into an API Gateway](https://www.reddit.com/r/Python/comments/1lb52n0/premier_instantly_turn_your_asgi_app_into_an_api/)
 - [Data Science Practice Resource](https://www.reddit.com/r/Python/comments/1lb511h/data_science_practice_resource/)
 - [Py to EXE Compiler](https://www.reddit.com/r/Python/comments/1lb3t95/py_to_exe_compiler/)
-- [MCPGex - MCP server for finding, testing and refining regex patterns](https://www.reddit.com/r/Python/comments/1lav4s8/mcpgex_mcp_server_for_finding_testing_and/)
 <!-- BLOG-POST-LIST:END -->
