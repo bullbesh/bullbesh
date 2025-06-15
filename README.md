@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1lbmt5u/sunday_daily_thread_whats_everyone_working_on/)
 - [True SDR to HDR video converter](https://www.reddit.com/r/Python/comments/1lbm1m4/true_sdr_to_hdr_video_converter/)
 - [Issues with memory_profiler and guis](https://www.reddit.com/r/Python/comments/1lblqqu/issues_with_memory_profiler_and_guis/)
 - [Podcasts? Inspiration?](https://www.reddit.com/r/Python/comments/1lblfyp/podcasts_inspiration/)
 - [My First Project With Python [FeedBacks]](https://www.reddit.com/r/Python/comments/1lbi5uc/my_first_project_with_python_feedbacks/)
-- [🔄 support for automating daily stock check &amp; WhatsApp alert using Python](https://www.reddit.com/r/Python/comments/1lbcezz/support_for_automating_daily_stock_check_whatsapp/)
 <!-- BLOG-POST-LIST:END -->
