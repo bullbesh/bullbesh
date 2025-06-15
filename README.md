@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built an English Speech Accent Recognizer with MFCCs - 98% Accuracy!](https://www.reddit.com/r/Python/comments/1lbyneb/i_built_an_english_speech_accent_recognizer_with/)
+- [I&#39;m a front-end developer &lpar;HTML/CSS&rpar;, and for a client, I need to build a GUI using Python.](https://www.reddit.com/r/Python/comments/1lbyfss/im_a_frontend_developer_htmlcss_and_for_a_client/)
 - [NLP full course using NLTK](https://www.reddit.com/r/Python/comments/1lbwmfy/nlp_full_course_using_nltk/)
 - [Comment on my open source project](https://www.reddit.com/r/Python/comments/1lbt08y/comment_on_my_open_source_project/)
 - [Open Source Unsiloed AI Chunker &lpar;EF2024&rpar;](https://www.reddit.com/r/Python/comments/1lbqd5n/open_source_unsiloed_ai_chunker_ef2024/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1lbmt5u/sunday_daily_thread_whats_everyone_working_on/)
-- [True SDR to HDR video converter](https://www.reddit.com/r/Python/comments/1lbm1m4/true_sdr_to_hdr_video_converter/)
 <!-- BLOG-POST-LIST:END -->
