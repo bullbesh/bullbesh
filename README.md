@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Unsiloed AI Chunker &lpar;EF2024&rpar;](https://www.reddit.com/r/Python/comments/1lbqd5n/open_source_unsiloed_ai_chunker_ef2024/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1lbmt5u/sunday_daily_thread_whats_everyone_working_on/)
 - [True SDR to HDR video converter](https://www.reddit.com/r/Python/comments/1lbm1m4/true_sdr_to_hdr_video_converter/)
 - [Issues with memory_profiler and guis](https://www.reddit.com/r/Python/comments/1lblqqu/issues_with_memory_profiler_and_guis/)
 - [Podcasts? Inspiration?](https://www.reddit.com/r/Python/comments/1lblfyp/podcasts_inspiration/)
-- [My First Project With Python [FeedBacks]](https://www.reddit.com/r/Python/comments/1lbi5uc/my_first_project_with_python_feedbacks/)
 <!-- BLOG-POST-LIST:END -->
