@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advice for a Business Administration student](https://www.reddit.com/r/Python/comments/1lccfw3/advice_for_a_business_administration_student/)
+- [The GIL is actually going away — Have you tried a no-GIL Python?](https://www.reddit.com/r/Python/comments/1lccbj2/the_gil_is_actually_going_away_have_you_tried_a/)
+- [Updated my SDR to HDR video converter.](https://www.reddit.com/r/Python/comments/1lcc3a9/updated_my_sdr_to_hdr_video_converter/)
 - [Trylon Gateway – a FastAPI “LLM firewall” you can self-host to block prompt injections &amp; PII leaks](https://www.reddit.com/r/Python/comments/1lc5m1v/trylon_gateway_a_fastapi_llm_firewall_you_can/)
 - [Consistencia continua](https://www.reddit.com/r/Python/comments/1lc5472/consistencia_continua/)
-- [PySpring - A Python web framework inspired by Spring Boot.](https://www.reddit.com/r/Python/comments/1lc3s8t/pyspring_a_python_web_framework_inspired_by/)
-- [I Built an English Speech Accent Recognizer with MFCCs - 98% Accuracy!](https://www.reddit.com/r/Python/comments/1lbyneb/i_built_an_english_speech_accent_recognizer_with/)
-- [I&#39;m a front-end developer &lpar;HTML/CSS&rpar;, and for a client, I need to build a GUI using Python.](https://www.reddit.com/r/Python/comments/1lbyfss/im_a_frontend_developer_htmlcss_and_for_a_client/)
 <!-- BLOG-POST-LIST:END -->
