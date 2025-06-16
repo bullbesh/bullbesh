@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [complexipy v3.0.0: A fast Python cognitive complexity checker](https://www.reddit.com/r/Python/comments/1lcime6/complexipy_v300_a_fast_python_cognitive/)
+- [🕰️ MyDoro: I made a gorgeous terminal-based Pomodoro timer that doesn&#39;t suck](https://www.reddit.com/r/Python/comments/1lci92f/mydoro_i_made_a_gorgeous_terminalbased_pomodoro/)
+- [I’m building a startup and need talent](https://www.reddit.com/r/Python/comments/1lchkx2/im_building_a_startup_and_need_talent/)
 - [Chralassistant first release](https://www.reddit.com/r/Python/comments/1lcf37o/chralassistant_first_release/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1lcesq1/monday_daily_thread_project_ideas/)
-- [Built a hybrid AI + rule-based binary options trading bot in Python. Would love feedback](https://www.reddit.com/r/Python/comments/1lcebbr/built_a_hybrid_ai_rulebased_binary_options/)
-- [Create GUI interface/Loader for PyGame](https://www.reddit.com/r/Python/comments/1lcd36b/create_gui_interfaceloader_for_pygame/)
-- [Advice for a Business Administration student](https://www.reddit.com/r/Python/comments/1lccfw3/advice_for_a_business_administration_student/)
 <!-- BLOG-POST-LIST:END -->
