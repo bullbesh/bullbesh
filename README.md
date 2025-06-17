@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Has anyone applied quantum computing in a real case?](https://www.reddit.com/r/Python/comments/1ldde6n/has_anyone_applied_quantum_computing_in_a_real/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ld8te6/tuesday_daily_thread_advanced_questions/)
 - [Monkey Patching in Python: A Powerful Tool &lpar;That You Should Use Cautiously&rpar;](https://www.reddit.com/r/Python/comments/1ld03of/monkey_patching_in_python_a_powerful_tool_that/)
 - [A modern Python Project Cookiecutter Template, with all the batteries included.](https://www.reddit.com/r/Python/comments/1lcz532/a_modern_python_project_cookiecutter_template/)
 - [Community Python DevJam - A Collaborative Event for Python Builders &lpar;Beginners Welcome&rpar;](https://www.reddit.com/r/Python/comments/1lcz1dy/community_python_devjam_a_collaborative_event_for/)
-- [How global variables work in Python bytecode](https://www.reddit.com/r/Python/comments/1lctpba/how_global_variables_work_in_python_bytecode/)
 <!-- BLOG-POST-LIST:END -->
