@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A simple dictionary validator lib with cli](https://www.reddit.com/r/Python/comments/1ldfqhu/a_simple_dictionary_validator_lib_with_cli/)
 - [Pytest plugin — not just prettier reports, but a full report companion](https://www.reddit.com/r/Python/comments/1ldewbe/pytest_plugin_not_just_prettier_reports_but_a/)
 - [Has anyone applied quantum computing in a real case?](https://www.reddit.com/r/Python/comments/1ldde6n/has_anyone_applied_quantum_computing_in_a_real/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ld8te6/tuesday_daily_thread_advanced_questions/)
 - [Monkey Patching in Python: A Powerful Tool &lpar;That You Should Use Cautiously&rpar;](https://www.reddit.com/r/Python/comments/1ld03of/monkey_patching_in_python_a_powerful_tool_that/)
-- [A modern Python Project Cookiecutter Template, with all the batteries included.](https://www.reddit.com/r/Python/comments/1lcz532/a_modern_python_project_cookiecutter_template/)
 <!-- BLOG-POST-LIST:END -->
