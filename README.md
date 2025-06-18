@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python SDK for Fider.io API](https://www.reddit.com/r/Python/comments/1le2gp4/python_sdk_for_fiderio_api/)
+- [Need a programmer ! $$$](https://www.reddit.com/r/Python/comments/1le2dx6/need_a_programmer/)
 - [Industry standard for implementing and enforcing Design-by-Contract](https://www.reddit.com/r/Python/comments/1ldursk/industry_standard_for_implementing_and_enforcing/)
 - [Pythonic way of unpacking 5D list...](https://www.reddit.com/r/Python/comments/1ldqk6j/pythonic_way_of_unpacking_5d_list/)
 - [Yet another Python framework 😅](https://www.reddit.com/r/Python/comments/1ldpb5j/yet_another_python_framework/)
-- [Original and creative IT-themed reel ideas](https://www.reddit.com/r/Python/comments/1ldop3r/original_and_creative_itthemed_reel_ideas/)
-- [Built a Python solver for dynamic mathematical expressions stored in databases](https://www.reddit.com/r/Python/comments/1ldk6dr/built_a_python_solver_for_dynamic_mathematical/)
 <!-- BLOG-POST-LIST:END -->
