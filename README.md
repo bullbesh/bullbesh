@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anyone Tried Using Perplexity AI for Web Scraping in Python?](https://www.reddit.com/r/Python/comments/1lebv93/anyone_tried_using_perplexity_ai_for_web_scraping/)
+- [I built a free self-hosted application for effortless video transcription and translation](https://www.reddit.com/r/Python/comments/1lebqvx/i_built_a_free_selfhosted_application_for/)
+- [My open source project gets 1100+ monthly downloads](https://www.reddit.com/r/Python/comments/1leazx1/my_open_source_project_gets_1100_monthly_downloads/)
 - [I made Termly: that lets you share collaborative terminals over the web](https://www.reddit.com/r/Python/comments/1leanua/i_made_termly_that_lets_you_share_collaborative/)
 - [Python SDK for Fider.io API](https://www.reddit.com/r/Python/comments/1le2gp4/python_sdk_for_fiderio_api/)
-- [Need a programmer ! $$$](https://www.reddit.com/r/Python/comments/1le2dx6/need_a_programmer/)
-- [Industry standard for implementing and enforcing Design-by-Contract](https://www.reddit.com/r/Python/comments/1ldursk/industry_standard_for_implementing_and_enforcing/)
-- [Pythonic way of unpacking 5D list...](https://www.reddit.com/r/Python/comments/1ldqk6j/pythonic_way_of_unpacking_5d_list/)
 <!-- BLOG-POST-LIST:END -->
