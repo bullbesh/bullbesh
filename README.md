@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a custom RAG chatbot traind on Stanford Encyclopedia of Philosophy articles.](https://www.reddit.com/r/Python/comments/1lecbux/i_made_a_custom_rag_chatbot_traind_on_stanford/)
 - [Anyone Tried Using Perplexity AI for Web Scraping in Python?](https://www.reddit.com/r/Python/comments/1lebv93/anyone_tried_using_perplexity_ai_for_web_scraping/)
 - [I built a free self-hosted application for effortless video transcription and translation](https://www.reddit.com/r/Python/comments/1lebqvx/i_built_a_free_selfhosted_application_for/)
 - [My open source project gets 1100+ monthly downloads](https://www.reddit.com/r/Python/comments/1leazx1/my_open_source_project_gets_1100_monthly_downloads/)
 - [I made Termly: that lets you share collaborative terminals over the web](https://www.reddit.com/r/Python/comments/1leanua/i_made_termly_that_lets_you_share_collaborative/)
-- [Python SDK for Fider.io API](https://www.reddit.com/r/Python/comments/1le2gp4/python_sdk_for_fiderio_api/)
 <!-- BLOG-POST-LIST:END -->
