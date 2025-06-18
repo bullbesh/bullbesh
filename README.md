@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [opentemplate - FOSS Python template focused on developer experience, security and SOTA tooling](https://www.reddit.com/r/Python/comments/1lelh8a/opentemplate_foss_python_template_focused_on/)
 - [mcp‑kit: a toolkit for building, mocking and optimizing AI agents](https://www.reddit.com/r/Python/comments/1lei393/mcpkit_a_toolkit_for_building_mocking_and/)
 - [Looking for Real-World Problems Faced by Students &lpar;Startup/Project Ideas&rpar;](https://www.reddit.com/r/Python/comments/1leg4uj/looking_for_realworld_problems_faced_by_students/)
 - [Kavari - dealing with Kafka easy way](https://www.reddit.com/r/Python/comments/1lefnzf/kavari_dealing_with_kafka_easy_way/)
 - [Build a Wikipedia Search Engine in Python | Full Project with Gensim, TF-IDF, and Flask](https://www.reddit.com/r/Python/comments/1lef3py/build_a_wikipedia_search_engine_in_python_full/)
-- [Hey Pythonistas!](https://www.reddit.com/r/Python/comments/1ledq2m/hey_pythonistas/)
 <!-- BLOG-POST-LIST:END -->
