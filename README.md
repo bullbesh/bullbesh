@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Design Patterns You Should Unlearn in Python-Part1](https://www.reddit.com/r/Python/comments/1lfcmky/design_patterns_you_should_unlearn_in_pythonpart1/)
 - [Electron/Tauri Like GUI Desktop Library based on PySide6 &lpar;Components, DB, LIve Hot Reload, State&rpar;](https://www.reddit.com/r/Python/comments/1lf8cs1/electrontauri_like_gui_desktop_library_based_on/)
 - [PyBox - the fake Virutalbox](https://www.reddit.com/r/Python/comments/1lf6zow/pybox_the_fake_virutalbox/)
 - [Concurrency in Python](https://www.reddit.com/r/Python/comments/1lf6o1p/concurrency_in_python/)
 - [better_exchook: semi-intelligently print variables in stack traces](https://www.reddit.com/r/Python/comments/1lf5thc/better_exchook_semiintelligently_print_variables/)
-- [I need ideas for a project](https://www.reddit.com/r/Python/comments/1lf5gv2/i_need_ideas_for_a_project/)
 <!-- BLOG-POST-LIST:END -->
