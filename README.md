@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I need ideas for a project](https://www.reddit.com/r/Python/comments/1lf5gv2/i_need_ideas_for_a_project/)
 - [Built a Python script to automate YouTube Shorts — looking for feedback on my media rendering pipeli](https://www.reddit.com/r/Python/comments/1lf4ezr/built_a_python_script_to_automate_youtube_shorts/)
 - [Modelling Vasculature through BARWs](https://www.reddit.com/r/Python/comments/1lf4djo/modelling_vasculature_through_barws/)
 - [Here is my resume any suggestion where should i and how should i apply i want internship](https://www.reddit.com/r/Python/comments/1lf0591/here_is_my_resume_any_suggestion_where_should_i/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1lewl21/thursday_daily_thread_python_careers_courses_and/)
-- [NanoTS - Lightning fast, embedded time series database, now with Python bindings!](https://www.reddit.com/r/Python/comments/1lew5ve/nanots_lightning_fast_embedded_time_series/)
 <!-- BLOG-POST-LIST:END -->
