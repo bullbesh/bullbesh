@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1lewl21/thursday_daily_thread_python_careers_courses_and/)
+- [NanoTS - Lightning fast, embedded time series database, now with Python bindings!](https://www.reddit.com/r/Python/comments/1lew5ve/nanots_lightning_fast_embedded_time_series/)
+- [I made an AI using Groq and some other cool features!](https://www.reddit.com/r/Python/comments/1levsjv/i_made_an_ai_using_groq_and_some_other_cool/)
 - [A free goldmine of tutorials for the components you need to create production-level agents](https://www.reddit.com/r/Python/comments/1leue2k/a_free_goldmine_of_tutorials_for_the_components/)
 - [How to continue my python journey again](https://www.reddit.com/r/Python/comments/1lep22h/how_to_continue_my_python_journey_again/)
-- [gst-python-ml: Python-powered ML analytics for GStreamer pipelines](https://www.reddit.com/r/Python/comments/1leoorm/gstpythonml_pythonpowered_ml_analytics_for/)
-- [opentemplate - FOSS Python template focused on developer experience, security and SOTA tooling](https://www.reddit.com/r/Python/comments/1lelh8a/opentemplate_foss_python_template_focused_on/)
-- [mcp‑kit: a toolkit for building, mocking and optimizing AI agents](https://www.reddit.com/r/Python/comments/1lei393/mcpkit_a_toolkit_for_building_mocking_and/)
 <!-- BLOG-POST-LIST:END -->
