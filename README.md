@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Electron/Tauri Like GUI Desktop Library based on PySide6 &lpar;Components, DB, LIve Hot Reload, State&rpar;](https://www.reddit.com/r/Python/comments/1lf8cs1/electrontauri_like_gui_desktop_library_based_on/)
 - [PyBox - the fake Virutalbox](https://www.reddit.com/r/Python/comments/1lf6zow/pybox_the_fake_virutalbox/)
 - [Concurrency in Python](https://www.reddit.com/r/Python/comments/1lf6o1p/concurrency_in_python/)
 - [better_exchook: semi-intelligently print variables in stack traces](https://www.reddit.com/r/Python/comments/1lf5thc/better_exchook_semiintelligently_print_variables/)
 - [I need ideas for a project](https://www.reddit.com/r/Python/comments/1lf5gv2/i_need_ideas_for_a_project/)
-- [Built a Python script to automate YouTube Shorts — looking for feedback on my media rendering pipeli](https://www.reddit.com/r/Python/comments/1lf4ezr/built_a_python_script_to_automate_youtube_shorts/)
 <!-- BLOG-POST-LIST:END -->
