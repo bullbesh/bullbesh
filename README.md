@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What Python GUI Lib do you like the most?](https://www.reddit.com/r/Python/comments/1lffudq/what_python_gui_lib_do_you_like_the_most/)
+- [Certification Tosa](https://www.reddit.com/r/Python/comments/1lffg26/certification_tosa/)
+- [pymsi: pure Python library to read &amp; extract Windows MSI files](https://www.reddit.com/r/Python/comments/1lff90t/pymsi_pure_python_library_to_read_extract_windows/)
 - [Design Patterns You Should Unlearn in Python-Part1](https://www.reddit.com/r/Python/comments/1lfcmky/design_patterns_you_should_unlearn_in_pythonpart1/)
 - [PyBox - the fake Virutalbox](https://www.reddit.com/r/Python/comments/1lf6zow/pybox_the_fake_virutalbox/)
-- [Concurrency in Python](https://www.reddit.com/r/Python/comments/1lf6o1p/concurrency_in_python/)
-- [better_exchook: semi-intelligently print variables in stack traces](https://www.reddit.com/r/Python/comments/1lf5thc/better_exchook_semiintelligently_print_variables/)
-- [I need ideas for a project](https://www.reddit.com/r/Python/comments/1lf5gv2/i_need_ideas_for_a_project/)
 <!-- BLOG-POST-LIST:END -->
