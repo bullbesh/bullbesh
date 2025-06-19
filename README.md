@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyBox - the fake Virutalbox](https://www.reddit.com/r/Python/comments/1lf6zow/pybox_the_fake_virutalbox/)
+- [Concurrency in Python](https://www.reddit.com/r/Python/comments/1lf6o1p/concurrency_in_python/)
 - [better_exchook: semi-intelligently print variables in stack traces](https://www.reddit.com/r/Python/comments/1lf5thc/better_exchook_semiintelligently_print_variables/)
 - [I need ideas for a project](https://www.reddit.com/r/Python/comments/1lf5gv2/i_need_ideas_for_a_project/)
 - [Built a Python script to automate YouTube Shorts — looking for feedback on my media rendering pipeli](https://www.reddit.com/r/Python/comments/1lf4ezr/built_a_python_script_to_automate_youtube_shorts/)
-- [Modelling Vasculature through BARWs](https://www.reddit.com/r/Python/comments/1lf4djo/modelling_vasculature_through_barws/)
-- [Here is my resume any suggestion where should i and how should i apply i want internship](https://www.reddit.com/r/Python/comments/1lf0591/here_is_my_resume_any_suggestion_where_should_i/)
 <!-- BLOG-POST-LIST:END -->
