@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1lfpxzq/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Free University Course: Python](https://www.reddit.com/r/Python/comments/1lflhjk/free_university_course_python/)
 - [An approach to Projects](https://www.reddit.com/r/Python/comments/1lfld2q/an_approach_to_projects/)
 - [Bottleneck type stubs](https://www.reddit.com/r/Python/comments/1lfhih7/bottleneck_type_stubs/)
 - [What Python GUI Lib do you like the most?](https://www.reddit.com/r/Python/comments/1lffudq/what_python_gui_lib_do_you_like_the_most/)
-- [Certification Tosa](https://www.reddit.com/r/Python/comments/1lffg26/certification_tosa/)
 <!-- BLOG-POST-LIST:END -->
