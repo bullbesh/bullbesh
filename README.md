@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [24/7 free python host?](https://www.reddit.com/r/Python/comments/1lg0i8e/247_free_python_host/)
+- [Recent Noteworthy Package Releases](https://www.reddit.com/r/Python/comments/1lg0hkc/recent_noteworthy_package_releases/)
 - [client for Leboncoin API](https://www.reddit.com/r/Python/comments/1lfxjbb/client_for_leboncoin_api/)
 - [Inheritance is weird](https://www.reddit.com/r/Python/comments/1lfw97r/inheritance_is_weird/)
 - [Looking for Chemistry Enthusiasts for NeurIPS Open Polymer Prediction 2025 &lpar;Kaggle&rpar;](https://www.reddit.com/r/Python/comments/1lfvj92/looking_for_chemistry_enthusiasts_for_neurips/)
-- [Mom Java is eating my AI lunch](https://www.reddit.com/r/Python/comments/1lft5u2/mom_java_is_eating_my_ai_lunch/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1lfpxzq/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
