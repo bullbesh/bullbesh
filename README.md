@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [package-ui.nvim now supports pip/python](https://www.reddit.com/r/Python/comments/1lg3ngd/packageuinvim_now_supports_pippython/)
 - [Looking for Chemistry Enthusiasts for NeurIPS Open Polymer Prediction 2025 &lpar;Kaggle&rpar;](https://www.reddit.com/r/Python/comments/1lg1m6g/looking_for_chemistry_enthusiasts_for_neurips/)
 - [What topics are considered “hard” in Python?](https://www.reddit.com/r/Python/comments/1lg0sli/what_topics_are_considered_hard_in_python/)
 - [24/7 free python host?](https://www.reddit.com/r/Python/comments/1lg0i8e/247_free_python_host/)
 - [Recent Noteworthy Package Releases](https://www.reddit.com/r/Python/comments/1lg0hkc/recent_noteworthy_package_releases/)
-- [client for Leboncoin API](https://www.reddit.com/r/Python/comments/1lfxjbb/client_for_leboncoin_api/)
 <!-- BLOG-POST-LIST:END -->
