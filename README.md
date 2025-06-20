@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Sandbox is running a 3-year-old version of Python](https://www.reddit.com/r/Python/comments/1lgbj34/chatgpt_sandbox_is_running_a_3yearold_version_of/)
 - [New fastest HTML parser](https://www.reddit.com/r/Python/comments/1lganqg/new_fastest_html_parser/)
 - [I’m trying to do an assignment](https://www.reddit.com/r/Python/comments/1lg82y2/im_trying_to_do_an_assignment/)
 - [💯 Free Resources for Python - Grab Now](https://www.reddit.com/r/Python/comments/1lg74j0/free_resources_for_python_grab_now/)
 - [package-ui.nvim now supports pip/python](https://www.reddit.com/r/Python/comments/1lg3ngd/packageuinvim_now_supports_pippython/)
-- [Looking for Chemistry Enthusiasts for NeurIPS Open Polymer Prediction 2025 &lpar;Kaggle&rpar;](https://www.reddit.com/r/Python/comments/1lg1m6g/looking_for_chemistry_enthusiasts_for_neurips/)
 <!-- BLOG-POST-LIST:END -->
