@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for Chemistry Enthusiasts for NeurIPS Open Polymer Prediction 2025 &lpar;Kaggle&rpar;](https://www.reddit.com/r/Python/comments/1lfvj92/looking_for_chemistry_enthusiasts_for_neurips/)
 - [Mom Java is eating my AI lunch](https://www.reddit.com/r/Python/comments/1lft5u2/mom_java_is_eating_my_ai_lunch/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1lfpxzq/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Free University Course: Python](https://www.reddit.com/r/Python/comments/1lflhjk/free_university_course_python/)
 - [An approach to Projects](https://www.reddit.com/r/Python/comments/1lfld2q/an_approach_to_projects/)
-- [Bottleneck type stubs](https://www.reddit.com/r/Python/comments/1lfhih7/bottleneck_type_stubs/)
 <!-- BLOG-POST-LIST:END -->
