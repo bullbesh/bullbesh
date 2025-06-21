@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wavetable synthesis in Python](https://www.reddit.com/r/Python/comments/1lgtqgx/wavetable_synthesis_in_python/)
 - [Open Source Unsiloed AI Chunker &lpar;EF2024&rpar;](https://www.reddit.com/r/Python/comments/1lgt7zj/open_source_unsiloed_ai_chunker_ef2024/)
 - [Design Patterns You Should Unlearn in Python-Part2](https://www.reddit.com/r/Python/comments/1lgrlza/design_patterns_you_should_unlearn_in_pythonpart2/)
 - [An ML wrapper for PyTorch](https://www.reddit.com/r/Python/comments/1lgqnvv/an_ml_wrapper_for_pytorch/)
 - [Wrote an MIT-licensed book that teaches nonprofits how to use Python to analyze and visualize data](https://www.reddit.com/r/Python/comments/1lgmr2b/wrote_an_mitlicensed_book_that_teaches_nonprofits/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1lgiy3h/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
