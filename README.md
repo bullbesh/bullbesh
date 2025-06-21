@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Design Patterns You Should Unlearn in Python-Part2](https://www.reddit.com/r/Python/comments/1lgrlza/design_patterns_you_should_unlearn_in_pythonpart2/)
 - [An ML wrapper for PyTorch](https://www.reddit.com/r/Python/comments/1lgqnvv/an_ml_wrapper_for_pytorch/)
 - [Wrote an MIT-licensed book that teaches nonprofits how to use Python to analyze and visualize data](https://www.reddit.com/r/Python/comments/1lgmr2b/wrote_an_mitlicensed_book_that_teaches_nonprofits/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1lgiy3h/saturday_daily_thread_resource_request_and/)
 - [I just built the fastest Python-based SSG in the world](https://www.reddit.com/r/Python/comments/1lgerm1/i_just_built_the_fastest_pythonbased_ssg_in_the/)
-- [ChatGPT Sandbox is running a 3-year-old version of Python](https://www.reddit.com/r/Python/comments/1lgbj34/chatgpt_sandbox_is_running_a_3yearold_version_of/)
 <!-- BLOG-POST-LIST:END -->
