@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Electron/Tauri React-Like Python GUI Lib &lpar;Components, State, Routing, Hot Reload, UI&rpar; BasedOn PySide](https://www.reddit.com/r/Python/comments/1lh12rc/electrontauri_reactlike_python_gui_lib_components/)
 - [Ty: Finally, a Good Type Checker in Python](https://www.reddit.com/r/Python/comments/1lgyz22/ty_finally_a_good_type_checker_in_python/)
 - [🚀 Built a terminal chat OS with AI, music, file sharing — AERO‑V10 by YOCRRZ](https://www.reddit.com/r/Python/comments/1lgy5iy/built_a_terminal_chat_os_with_ai_music_file/)
 - [Amen-Cli Release v0.9.0](https://www.reddit.com/r/Python/comments/1lgxvxr/amencli_release_v090/)
 - [Lost, advice appreciated.](https://www.reddit.com/r/Python/comments/1lgx1vs/lost_advice_appreciated/)
-- [hi guys, i bought a script and it was claiming to be a username changer and i think i got scammed](https://www.reddit.com/r/Python/comments/1lgwewp/hi_guys_i_bought_a_script_and_it_was_claiming_to/)
 <!-- BLOG-POST-LIST:END -->
