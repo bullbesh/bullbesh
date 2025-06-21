@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wrote an MIT-licensed book that teaches nonprofits how to use Python to analyze and visualize data](https://www.reddit.com/r/Python/comments/1lgmr2b/wrote_an_mitlicensed_book_that_teaches_nonprofits/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1lgiy3h/saturday_daily_thread_resource_request_and/)
 - [I just built the fastest Python-based SSG in the world](https://www.reddit.com/r/Python/comments/1lgerm1/i_just_built_the_fastest_pythonbased_ssg_in_the/)
 - [ChatGPT Sandbox is running a 3-year-old version of Python](https://www.reddit.com/r/Python/comments/1lgbj34/chatgpt_sandbox_is_running_a_3yearold_version_of/)
 - [New fastest HTML parser](https://www.reddit.com/r/Python/comments/1lganqg/new_fastest_html_parser/)
-- [I’m trying to do an assignment](https://www.reddit.com/r/Python/comments/1lg82y2/im_trying_to_do_an_assignment/)
 <!-- BLOG-POST-LIST:END -->
