@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built FlowState CLI: a free open source productivity tool for devs who want less noise](https://www.reddit.com/r/Python/comments/1lhlbul/i_built_flowstate_cli_a_free_open_source/)
 - [Project] DiscoverLastfm: Automated music discovery using Last.fm API](https://www.reddit.com/r/Python/comments/1lhkbz6/project_discoverlastfm_automated_music_discovery/)
 - [Inviting people to work on AIrFlask](https://www.reddit.com/r/Python/comments/1lhi2ew/inviting_people_to_work_on_airflask/)
 - [A file-sharing tool that uses random codes instead of URLs or accounts.](https://www.reddit.com/r/Python/comments/1lhhlpn/a_filesharing_tool_that_uses_random_codes_instead/)
 - [🐕 Just build Doggo CLI with Python - search your files with plain English](https://www.reddit.com/r/Python/comments/1lhhglo/just_build_doggo_cli_with_python_search_your/)
-- [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1lhgxek/parallel_and_concurrent_programming_in_python_a/)
 <!-- BLOG-POST-LIST:END -->
