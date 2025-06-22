@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pandas/python functions &lpar;pushing and calling dataframe&rpar;](https://www.reddit.com/r/Python/comments/1lhyni4/pandaspython_functions_pushing_and_calling/)
+- [FastAPI Guard v3.0 - Now with Security Decorators and AI-like Behavior Analysis](https://www.reddit.com/r/Python/comments/1lhxwee/fastapi_guard_v30_now_with_security_decorators/)
 - [Fully python quantum algorithms](https://www.reddit.com/r/Python/comments/1lhquzn/fully_python_quantum_algorithms/)
 - [I built FlowState CLI: a free open source productivity tool for devs who want less noise](https://www.reddit.com/r/Python/comments/1lhlbul/i_built_flowstate_cli_a_free_open_source/)
 - [Project] DiscoverLastfm: Automated music discovery using Last.fm API](https://www.reddit.com/r/Python/comments/1lhkbz6/project_discoverlastfm_automated_music_discovery/)
-- [Inviting people to work on AIrFlask](https://www.reddit.com/r/Python/comments/1lhi2ew/inviting_people_to_work_on_airflask/)
-- [A file-sharing tool that uses random codes instead of URLs or accounts.](https://www.reddit.com/r/Python/comments/1lhhlpn/a_filesharing_tool_that_uses_random_codes_instead/)
 <!-- BLOG-POST-LIST:END -->
