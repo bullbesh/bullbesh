@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fenix: I built an algorithmic trading bot with CrewAI, Ollama, and Pandas.](https://www.reddit.com/r/Python/comments/1li8id5/fenix_i_built_an_algorithmic_trading_bot_with/)
 - [sodalite - an open source media downloader with a pure python backend](https://www.reddit.com/r/Python/comments/1li6ek4/sodalite_an_open_source_media_downloader_with_a/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1li2gwg/monday_daily_thread_project_ideas/)
 - [pandas/python functions &lpar;pushing and calling dataframe&rpar;](https://www.reddit.com/r/Python/comments/1lhyni4/pandaspython_functions_pushing_and_calling/)
 - [FastAPI Guard v3.0 - Now with Security Decorators and AI-like Behavior Analysis](https://www.reddit.com/r/Python/comments/1lhxwee/fastapi_guard_v30_now_with_security_decorators/)
-- [Fully python quantum algorithms](https://www.reddit.com/r/Python/comments/1lhquzn/fully_python_quantum_algorithms/)
 <!-- BLOG-POST-LIST:END -->
