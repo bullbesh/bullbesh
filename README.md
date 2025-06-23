@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PandasBench - The first benchmark for the Pandas API](https://www.reddit.com/r/Python/comments/1liumm2/pandasbench_the_first_benchmark_for_the_pandas_api/)
 - [What kind of Technical interview should I expect for a Python junior role?](https://www.reddit.com/r/Python/comments/1lipfcu/what_kind_of_technical_interview_should_i_expect/)
 - [Django Product Review App](https://www.reddit.com/r/Python/comments/1limw2z/django_product_review_app/)
 - [I made a FOSS feature rich Python template with SOTA tools, security, CI/CD, yet easy to use](https://www.reddit.com/r/Python/comments/1lim6fb/i_made_a_foss_feature_rich_python_template_with/)
 - [I built a tool to add CSS-styled subtitles for videos](https://www.reddit.com/r/Python/comments/1lilnty/i_built_a_tool_to_add_cssstyled_subtitles_for/)
-- [python book for beginners](https://www.reddit.com/r/Python/comments/1lil7qd/python_book_for_beginners/)
 <!-- BLOG-POST-LIST:END -->
