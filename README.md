@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyEnumerable: Implementation of .NET&#39;s IEnumerable interface in python W/ support for generics](https://www.reddit.com/r/Python/comments/1ljftef/pyenumerable_implementation_of_nets_ienumerable/)
 - [MicroPie 0.13 is here, websocket support now included.](https://www.reddit.com/r/Python/comments/1ljeutg/micropie_013_is_here_websocket_support_now/)
 - [Best WebSocket Library](https://www.reddit.com/r/Python/comments/1ljdlmw/best_websocket_library/)
 - [Scraping Login-Protected Pages with Python: Session Cookies + JS Handling](https://www.reddit.com/r/Python/comments/1ljblcs/scraping_loginprotected_pages_with_python_session/)
 - [PyPDFForm v3.0.0 has released](https://www.reddit.com/r/Python/comments/1ljas6t/pypdfform_v300_has_released/)
-- [Looking for Collab - Minecraft Server manager](https://www.reddit.com/r/Python/comments/1lj9znz/looking_for_collab_minecraft_server_manager/)
 <!-- BLOG-POST-LIST:END -->
