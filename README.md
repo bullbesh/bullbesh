@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for Collab - Minecraft Server manager](https://www.reddit.com/r/Python/comments/1lj9znz/looking_for_collab_minecraft_server_manager/)
+- [Built a PySide6 GUI for solid state tight binding calculations](https://www.reddit.com/r/Python/comments/1lj8r6w/built_a_pyside6_gui_for_solid_state_tight_binding/)
 - [Solution to visualize a Car&#39;s Motion](https://www.reddit.com/r/Python/comments/1lj7dg4/solution_to_visualize_a_cars_motion/)
 - [pAPI - A modular addon-based micro-framework built on FastAPI](https://www.reddit.com/r/Python/comments/1lj55cw/papi_a_modular_addonbased_microframework_built_on/)
 - [Python LangGraph implementation: solving ReAct agent reliability issues](https://www.reddit.com/r/Python/comments/1lj4pvk/python_langgraph_implementation_solving_react/)
-- [npcpy: an extensible AI agent framework and command-line toolkit](https://www.reddit.com/r/Python/comments/1lj0tuy/npcpy_an_extensible_ai_agent_framework_and/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1liwla2/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
