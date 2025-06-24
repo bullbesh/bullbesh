@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the best alternative to Streamlit?](https://www.reddit.com/r/Python/comments/1ljltyv/whats_the_best_alternative_to_streamlit/)
-- [Python for Engineers and Scientists](https://www.reddit.com/r/Python/comments/1ljkic5/python_for_engineers_and_scientists/)
+- [Ranking Alternatives to Streamlit](https://www.reddit.com/r/Python/comments/1ljn5t8/ranking_alternatives_to_streamlit/)
+- [using older python versions](https://www.reddit.com/r/Python/comments/1ljm0v4/using_older_python_versions/)
 - [Conflict Insight — A Python-Powered Dashboard for Sentiment Analysis, Disinformation Detection...](https://www.reddit.com/r/Python/comments/1ljj263/conflict_insight_a_pythonpowered_dashboard_for/)
 - [My project is finally done!](https://www.reddit.com/r/Python/comments/1ljihsb/my_project_is_finally_done/)
-- [🛡️ pmg – Scan Python packages before installing them with pip](https://www.reddit.com/r/Python/comments/1ljidwy/pmg_scan_python_packages_before_installing_them/)
+- [MicroPie 0.13 is here, websocket support now included.](https://www.reddit.com/r/Python/comments/1ljeutg/micropie_013_is_here_websocket_support_now/)
 <!-- BLOG-POST-LIST:END -->
