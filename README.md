@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python web development](https://www.reddit.com/r/Python/comments/1ljchdt/python_web_development/)
+- [Best WebSocket Library](https://www.reddit.com/r/Python/comments/1ljdlmw/best_websocket_library/)
 - [Scraping Login-Protected Pages with Python: Session Cookies + JS Handling](https://www.reddit.com/r/Python/comments/1ljblcs/scraping_loginprotected_pages_with_python_session/)
 - [PyPDFForm v3.0.0 has released](https://www.reddit.com/r/Python/comments/1ljas6t/pypdfform_v300_has_released/)
 - [Looking for Collab - Minecraft Server manager](https://www.reddit.com/r/Python/comments/1lj9znz/looking_for_collab_minecraft_server_manager/)
