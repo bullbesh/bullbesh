@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Python GUI libraries?](https://www.reddit.com/r/Python/comments/1lke8vm/best_python_gui_libraries/)
 - [How python knows what you are importing? sys.env + venv + site packages](https://www.reddit.com/r/Python/comments/1lkb4i2/how_python_knows_what_you_are_importing_sysenv/)
 - [Large number library](https://www.reddit.com/r/Python/comments/1lkax4i/large_number_library/)
 - [My response to Tim Peters: The Zen of Spite](https://www.reddit.com/r/Python/comments/1lkabe1/my_response_to_tim_peters_the_zen_of_spite/)
 - [docker-pybuild: Embed Dockerfiles directly in your Python scripts](https://www.reddit.com/r/Python/comments/1lk3jst/dockerpybuild_embed_dockerfiles_directly_in_your/)
-- [django-bootyprint: A django pdf rendering app for WeasyPrint with a CSS companion](https://www.reddit.com/r/Python/comments/1lk38ov/djangobootyprint_a_django_pdf_rendering_app_for/)
 <!-- BLOG-POST-LIST:END -->
