@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python advice UK](https://www.reddit.com/r/Python/comments/1lk2c1g/python_advice_uk/)
 - [I built rgSQL, a Python test suite for building databases](https://www.reddit.com/r/Python/comments/1lk1pba/i_built_rgsql_a_python_test_suite_for_building/)
 - [AI-Rulez: A Universal Configuration Tool for Managing AI Coding Rules 🤖](https://www.reddit.com/r/Python/comments/1lk1821/airulez_a_universal_configuration_tool_for/)
 - [how inefficient am I being here?](https://www.reddit.com/r/Python/comments/1lk17h9/how_inefficient_am_i_being_here/)
 - [Blazing fast Rust tool to remove comments from your code - now available on PyPi](https://www.reddit.com/r/Python/comments/1ljyqdf/blazing_fast_rust_tool_to_remove_comments_from/)
-- [TemplatePpptx - PowerPoint Templating Library](https://www.reddit.com/r/Python/comments/1lju8bn/templateppptx_powerpoint_templating_library/)
 <!-- BLOG-POST-LIST:END -->
