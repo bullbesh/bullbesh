@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate Sprite Studio](https://www.reddit.com/r/Python/comments/1lkkmvy/ultimate_sprite_studio/)
 - [Procedurally Generating a Tic-Tac-Toe Zine with Python](https://www.reddit.com/r/Python/comments/1lki0z0/procedurally_generating_a_tictactoe_zine_with/)
 - [I Shared 300+ Free Python Data Science Videos on YouTube &lpar;Tutorials, Projects and Full-Courses&rpar;](https://www.reddit.com/r/Python/comments/1lkhe9n/i_shared_300_free_python_data_science_videos_on/)
 - [Subdomain render](https://www.reddit.com/r/Python/comments/1lkg27h/subdomain_render/)
 - [PyLine - terminal based text editor &lpar;Linux, WSL, MacOS&rpar;](https://www.reddit.com/r/Python/comments/1lkf8pm/pyline_terminal_based_text_editor_linux_wsl_macos/)
-- [Best Python GUI libraries?](https://www.reddit.com/r/Python/comments/1lke8vm/best_python_gui_libraries/)
 <!-- BLOG-POST-LIST:END -->
