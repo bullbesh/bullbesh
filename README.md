@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [TemplatePpptx - PowerPoint Templating Library](https://www.reddit.com/r/Python/comments/1lju8bn/templateppptx_powerpoint_templating_library/)
 - [Any leads towards a ppp loan dataset?](https://www.reddit.com/r/Python/comments/1ljtbh7/any_leads_towards_a_ppp_loan_dataset/)
 - [Logging initialisation and imports order](https://www.reddit.com/r/Python/comments/1ljrtcf/logging_initialisation_and_imports_order/)
 - [FastAPI is usually the right choice](https://www.reddit.com/r/Python/comments/1ljrsti/fastapi_is_usually_the_right_choice/)
 - [Please tell me I am not the only one who has done this...](https://www.reddit.com/r/Python/comments/1ljrgr6/please_tell_me_i_am_not_the_only_one_who_has_done/)
-- [Ranking Alternatives to Streamlit](https://www.reddit.com/r/Python/comments/1ljn5t8/ranking_alternatives_to_streamlit/)
 <!-- BLOG-POST-LIST:END -->
