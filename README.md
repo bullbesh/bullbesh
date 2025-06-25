@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Need solution in making a custom Speech to text for my project](https://www.reddit.com/r/Python/comments/1lk5bmy/need_solution_in_making_a_custom_speech_to_text/)
+- [I Shared 300+ Python Data Science Videos on YouTube &lpar;Tutorials, Projects and Full-Courses&rpar;](https://www.reddit.com/r/Python/comments/1lk8f52/i_shared_300_python_data_science_videos_on/)
 - [docker-pybuild: Embed Dockerfiles directly in your Python scripts](https://www.reddit.com/r/Python/comments/1lk3jst/dockerpybuild_embed_dockerfiles_directly_in_your/)
 - [django-bootyprint: A django pdf rendering app for WeasyPrint with a CSS companion](https://www.reddit.com/r/Python/comments/1lk38ov/djangobootyprint_a_django_pdf_rendering_app_for/)
 - [Python advice UK](https://www.reddit.com/r/Python/comments/1lk2c1g/python_advice_uk/)
