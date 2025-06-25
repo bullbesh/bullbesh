@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Shared 300+ Free Python Data Science Videos on YouTube &lpar;Tutorials, Projects and Full-Courses&rpar;](https://www.reddit.com/r/Python/comments/1lkhe9n/i_shared_300_free_python_data_science_videos_on/)
 - [Subdomain render](https://www.reddit.com/r/Python/comments/1lkg27h/subdomain_render/)
 - [PyLine - terminal based text editor &lpar;Linux, WSL, MacOS&rpar;](https://www.reddit.com/r/Python/comments/1lkf8pm/pyline_terminal_based_text_editor_linux_wsl_macos/)
 - [Best Python GUI libraries?](https://www.reddit.com/r/Python/comments/1lke8vm/best_python_gui_libraries/)
 - [How python knows what you are importing? sys.env + venv + site packages](https://www.reddit.com/r/Python/comments/1lkb4i2/how_python_knows_what_you_are_importing_sysenv/)
-- [Large number library](https://www.reddit.com/r/Python/comments/1lkax4i/large_number_library/)
 <!-- BLOG-POST-LIST:END -->
