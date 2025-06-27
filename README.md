@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a swipeable video feed for immersing yourself in topics like python](https://www.reddit.com/r/Python/comments/1lm3bvd/i_made_a_swipeable_video_feed_for_immersing/)
+- [First Python Project - Deleting Temp Files with a GUI](https://www.reddit.com/r/Python/comments/1lm2q7y/first_python_project_deleting_temp_files_with_a/)
 - [dowhen: Run arbitrary code in 3rd party libraries](https://www.reddit.com/r/Python/comments/1lm11po/dowhen_run_arbitrary_code_in_3rd_party_libraries/)
 - [What data serialization formats do you use most often at work/personally?](https://www.reddit.com/r/Python/comments/1llzmha/what_data_serialization_formats_do_you_use_most/)
 - [Trying to understand the evenodd feature on pdfCropMargins](https://www.reddit.com/r/Python/comments/1llxvv4/trying_to_understand_the_evenodd_feature_on/)
-- [[veld-fm] I Built a Terminal File Manager with Tiling Panels](https://www.reddit.com/r/Python/comments/1llxep9/veldfm_i_built_a_terminal_file_manager_with/)
-- [I have created PowerEdit: a code editor](https://www.reddit.com/r/Python/comments/1llx4jd/i_have_created_poweredit_a_code_editor/)
 <!-- BLOG-POST-LIST:END -->
