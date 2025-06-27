@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trying to understand the evenodd feature on pdfCropMargins](https://www.reddit.com/r/Python/comments/1llxvv4/trying_to_understand_the_evenodd_feature_on/)
+- [[veld-fm] I Built a Terminal File Manager with Tiling Panels](https://www.reddit.com/r/Python/comments/1llxep9/veldfm_i_built_a_terminal_file_manager_with/)
+- [I have created PowerEdit: a code editor](https://www.reddit.com/r/Python/comments/1llx4jd/i_have_created_poweredit_a_code_editor/)
 - [Where are people hosting their Python web apps?](https://www.reddit.com/r/Python/comments/1llwhzr/where_are_people_hosting_their_python_web_apps/)
 - [I think I solved caching in Python with ~40 lines of code](https://www.reddit.com/r/Python/comments/1llurix/i_think_i_solved_caching_in_python_with_40_lines/)
-- [I built a python syntax extension for live scripting !](https://www.reddit.com/r/Python/comments/1llsorf/i_built_a_python_syntax_extension_for_live/)
-- [Recent Noteworthy Package Releases](https://www.reddit.com/r/Python/comments/1llr1ix/recent_noteworthy_package_releases/)
-- [Optimal design for threading with gunicorn and flask apps..](https://www.reddit.com/r/Python/comments/1llqmh1/optimal_design_for_threading_with_gunicorn_and/)
 <!-- BLOG-POST-LIST:END -->
