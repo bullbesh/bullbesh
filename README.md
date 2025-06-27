@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recent Noteworthy Package Releases](https://www.reddit.com/r/Python/comments/1llr1ix/recent_noteworthy_package_releases/)
+- [Optimal design for threading with gunicorn and flask apps..](https://www.reddit.com/r/Python/comments/1llqmh1/optimal_design_for_threading_with_gunicorn_and/)
 - [Created an MCP to clean up generated python code](https://www.reddit.com/r/Python/comments/1llp9vv/created_an_mcp_to_clean_up_generated_python_code/)
 - [ai-rulez: autogenerate rule files &lpar;.cursorrules, CLAUDE.md etc.&rpar; from yaml](https://www.reddit.com/r/Python/comments/1llnlqa/airulez_autogenerate_rule_files_cursorrules/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1llfp2q/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Functioneer - Do advanced eng/sci analysis in &lt;5 lines of code](https://www.reddit.com/r/Python/comments/1llermk/functioneer_do_advanced_engsci_analysis_in_5/)
-- [Robyn &lpar;v0.70.0&rpar; - A Batteries-Included Web Framework for AI](https://www.reddit.com/r/Python/comments/1ll79ge/robyn_v0700_a_batteriesincluded_web_framework_for/)
 <!-- BLOG-POST-LIST:END -->
