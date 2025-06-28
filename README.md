@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pobshell: A Bash-like shell for live Python objects](https://www.reddit.com/r/Python/comments/1lmn348/pobshell_a_bashlike_shell_for_live_python_objects/)
+- [Ending all Circular Imports Forever?](https://www.reddit.com/r/Python/comments/1lmmypt/ending_all_circular_imports_forever/)
 - [Third time using Python, Any tips?](https://www.reddit.com/r/Python/comments/1lmbb2a/third_time_using_python_any_tips/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1lm91sf/saturday_daily_thread_resource_request_and/)
 - [I made a swipeable video feed for immersing yourself in topics like python](https://www.reddit.com/r/Python/comments/1lm3bvd/i_made_a_swipeable_video_feed_for_immersing/)
-- [First Python Project - Deleting Temp Files with a GUI](https://www.reddit.com/r/Python/comments/1lm2q7y/first_python_project_deleting_temp_files_with_a/)
-- [dowhen: Run arbitrary code in 3rd party libraries](https://www.reddit.com/r/Python/comments/1lm11po/dowhen_run_arbitrary_code_in_3rd_party_libraries/)
 <!-- BLOG-POST-LIST:END -->
