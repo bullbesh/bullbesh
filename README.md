@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Power Editor v1.0.3 BETA](https://www.reddit.com/r/Python/comments/1lnmw5t/power_editor_v103_beta/)
 - [New Learner for Python](https://www.reddit.com/r/Python/comments/1lnlmf6/new_learner_for_python/)
 - [Switching to Python from C++](https://www.reddit.com/r/Python/comments/1lnlhwp/switching_to_python_from_c/)
 - [Starting Over at 40: How Solo Python Freelancing Let Me Trade Burnout for a Zero-Stress, Profitable](https://www.reddit.com/r/Python/comments/1lnkxko/starting_over_at_40_how_solo_python_freelancing/)
 - [I wonder what kind of 10x engineer decided to make the &quot;-&gt; type&quot; in functions a suggestion](https://www.reddit.com/r/Python/comments/1lnijsf/i_wonder_what_kind_of_10x_engineer_decided_to/)
-- [CarthageAI AI terminal assistant &lpar;CLI&rpar; – Open Source!](https://www.reddit.com/r/Python/comments/1lnijck/carthageai_ai_terminal_assistant_cli_open_source/)
 <!-- BLOG-POST-LIST:END -->
