@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Beautiful Python Desktop Apps with WinUp GUI — Hot Reload, Reactive Data, etc built on PySide6](https://www.reddit.com/r/Python/comments/1lnnwzz/build_beautiful_python_desktop_apps_with_winup/)
+- [Need to manage accounts in a Python app, what&#39;s the best solution for security?](https://www.reddit.com/r/Python/comments/1lnnrjj/need_to_manage_accounts_in_a_python_app_whats_the/)
 - [Power Editor v1.0.3 BETA](https://www.reddit.com/r/Python/comments/1lnmw5t/power_editor_v103_beta/)
 - [New Learner for Python](https://www.reddit.com/r/Python/comments/1lnlmf6/new_learner_for_python/)
 - [Switching to Python from C++](https://www.reddit.com/r/Python/comments/1lnlhwp/switching_to_python_from_c/)
-- [Starting Over at 40: How Solo Python Freelancing Let Me Trade Burnout for a Zero-Stress, Profitable](https://www.reddit.com/r/Python/comments/1lnkxko/starting_over_at_40_how_solo_python_freelancing/)
-- [I wonder what kind of 10x engineer decided to make the &quot;-&gt; type&quot; in functions a suggestion](https://www.reddit.com/r/Python/comments/1lnijsf/i_wonder_what_kind_of_10x_engineer_decided_to/)
 <!-- BLOG-POST-LIST:END -->
