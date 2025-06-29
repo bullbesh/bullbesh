@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Learner for Python](https://www.reddit.com/r/Python/comments/1lnlmf6/new_learner_for_python/)
+- [Switching to Python from C++](https://www.reddit.com/r/Python/comments/1lnlhwp/switching_to_python_from_c/)
+- [Starting Over at 40: How Solo Python Freelancing Let Me Trade Burnout for a Zero-Stress, Profitable](https://www.reddit.com/r/Python/comments/1lnkxko/starting_over_at_40_how_solo_python_freelancing/)
 - [I wonder what kind of 10x engineer decided to make the &quot;-&gt; type&quot; in functions a suggestion](https://www.reddit.com/r/Python/comments/1lnijsf/i_wonder_what_kind_of_10x_engineer_decided_to/)
 - [CarthageAI AI terminal assistant &lpar;CLI&rpar; – Open Source!](https://www.reddit.com/r/Python/comments/1lnijck/carthageai_ai_terminal_assistant_cli_open_source/)
-- [Migrating from Vertex AI SDK to Google GenAI SDK? Service account auth is broken in the official doc](https://www.reddit.com/r/Python/comments/1lnhgvi/migrating_from_vertex_ai_sdk_to_google_genai_sdk/)
-- [I built a new python package to reorder OCR bounding boxes even with folds and distortions](https://www.reddit.com/r/Python/comments/1lnf9f6/i_built_a_new_python_package_to_reorder_ocr/)
-- [I built a Python playground with Pyodide and the Ace editor in ~100 lines of JS](https://www.reddit.com/r/Python/comments/1lnautw/i_built_a_python_playground_with_pyodide_and_the/)
 <!-- BLOG-POST-LIST:END -->
