@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a new python package to reorder OCR bounding boxes even with folds and distortions](https://www.reddit.com/r/Python/comments/1lnf9f6/i_built_a_new_python_package_to_reorder_ocr/)
 - [I built a Python playground with Pyodide and the Ace editor in ~100 lines of JS](https://www.reddit.com/r/Python/comments/1lnautw/i_built_a_python_playground_with_pyodide_and_the/)
 - [[ Feedback Required ] : RedCoffee - A CLI tool to generate PDF reports for SonarQube Code Analysis](https://www.reddit.com/r/Python/comments/1lnabbu/feedback_required_redcoffee_a_cli_tool_to/)
 - [Generating Buy/Sell Signals with Moving Averages Using pandas-ta](https://www.reddit.com/r/Python/comments/1ln81h1/generating_buysell_signals_with_moving_averages/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ln12ce/sunday_daily_thread_whats_everyone_working_on/)
-- [Are there many of you on here who do all their Python development inside a container?](https://www.reddit.com/r/Python/comments/1lmztd5/are_there_many_of_you_on_here_who_do_all_their/)
 <!-- BLOG-POST-LIST:END -->
