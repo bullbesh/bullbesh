@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Difference Between removesuffix&lpar;&rpar; and rstrip&lpar;&rpar; in Python](https://www.reddit.com/r/Python/comments/1log89x/understanding_the_difference_between_removesuffix/)
 - [tomlkit-extras - A tomlkit extension](https://www.reddit.com/r/Python/comments/1lodwog/tomlkitextras_a_tomlkit_extension/)
 - [Please review my Mississippi Stub simulator](https://www.reddit.com/r/Python/comments/1loddz5/please_review_my_mississippi_stub_simulator/)
 - [Cogeol - align projects with supported Python versions - automated with endoflife.date](https://www.reddit.com/r/Python/comments/1lobsxz/cogeol_align_projects_with_supported_python/)
 - [AI-data warehouse for transforming and analyzing unstructured data - DataChain](https://www.reddit.com/r/Python/comments/1lobcks/aidata_warehouse_for_transforming_and_analyzing/)
-- [An open-source alternative to Yahoo Finance&#39;s market data python APIs with higher reliability.](https://www.reddit.com/r/Python/comments/1loaj1q/an_opensource_alternative_to_yahoo_finances/)
 <!-- BLOG-POST-LIST:END -->
