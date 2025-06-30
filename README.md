@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [augmented reality with python](https://www.reddit.com/r/Python/comments/1lokze6/augmented_reality_with_python/)
+- [Pls fix my DNS proxy code :&lpar;](https://www.reddit.com/r/Python/comments/1lokqpj/pls_fix_my_dns_proxy_code/)
 - [toycrypto: Some toy cryptographic modules and related tools](https://www.reddit.com/r/Python/comments/1loighk/toycrypto_some_toy_cryptographic_modules_and/)
 - [Understanding the Difference Between removesuffix&lpar;&rpar; and rstrip&lpar;&rpar; in Python](https://www.reddit.com/r/Python/comments/1log89x/understanding_the_difference_between_removesuffix/)
 - [Please review my Mississippi Stub simulator](https://www.reddit.com/r/Python/comments/1loddz5/please_review_my_mississippi_stub_simulator/)
-- [Cogeol - align projects with supported Python versions - automated with endoflife.date](https://www.reddit.com/r/Python/comments/1lobsxz/cogeol_align_projects_with_supported_python/)
-- [AI-data warehouse for transforming and analyzing unstructured data - DataChain](https://www.reddit.com/r/Python/comments/1lobcks/aidata_warehouse_for_transforming_and_analyzing/)
 <!-- BLOG-POST-LIST:END -->
