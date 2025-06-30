@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cogeol - align projects with supported Python versions - automated with endoflife.date](https://www.reddit.com/r/Python/comments/1lobsxz/cogeol_align_projects_with_supported_python/)
+- [AI-data warehouse for transforming and analyzing unstructured data - DataChain](https://www.reddit.com/r/Python/comments/1lobcks/aidata_warehouse_for_transforming_and_analyzing/)
+- [An open-source alternative to Yahoo Finance&#39;s market data python APIs with higher reliability.](https://www.reddit.com/r/Python/comments/1loaj1q/an_opensource_alternative_to_yahoo_finances/)
 - [Virtual Environment](https://www.reddit.com/r/Python/comments/1loadin/virtual_environment/)
 - [Molabel: add labels to data from your Python notebook](https://www.reddit.com/r/Python/comments/1loacvj/molabel_add_labels_to_data_from_your_python/)
-- [How is PySide6 as a GUI development option?](https://www.reddit.com/r/Python/comments/1lo9132/how_is_pyside6_as_a_gui_development_option/)
-- [Best Way to Split Scientific PDF Text into Paragraphs?](https://www.reddit.com/r/Python/comments/1lo60gv/best_way_to_split_scientific_pdf_text_into/)
-- [Datasets of Chilli Disease](https://www.reddit.com/r/Python/comments/1lo104z/datasets_of_chilli_disease/)
 <!-- BLOG-POST-LIST:END -->
