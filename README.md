@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Environment](https://www.reddit.com/r/Python/comments/1loadin/virtual_environment/)
+- [Molabel: add labels to data from your Python notebook](https://www.reddit.com/r/Python/comments/1loacvj/molabel_add_labels_to_data_from_your_python/)
+- [How is PySide6 as a GUI development option?](https://www.reddit.com/r/Python/comments/1lo9132/how_is_pyside6_as_a_gui_development_option/)
 - [Best Way to Split Scientific PDF Text into Paragraphs?](https://www.reddit.com/r/Python/comments/1lo60gv/best_way_to_split_scientific_pdf_text_into/)
 - [Datasets of Chilli Disease](https://www.reddit.com/r/Python/comments/1lo104z/datasets_of_chilli_disease/)
-- [What can I do with python?](https://www.reddit.com/r/Python/comments/1lo0a3r/what_can_i_do_with_python/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1lntgli/monday_daily_thread_project_ideas/)
-- [Build Beautiful Python Desktop Apps with WinUp GUI — Hot Reload, Reactive Data, etc built on PySide6](https://www.reddit.com/r/Python/comments/1lnnwzz/build_beautiful_python_desktop_apps_with_winup/)
 <!-- BLOG-POST-LIST:END -->
