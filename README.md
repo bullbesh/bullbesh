@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Way to Split Scientific PDF Text into Paragraphs?](https://www.reddit.com/r/Python/comments/1lo60gv/best_way_to_split_scientific_pdf_text_into/)
 - [Datasets of Chilli Disease](https://www.reddit.com/r/Python/comments/1lo104z/datasets_of_chilli_disease/)
 - [What can I do with python?](https://www.reddit.com/r/Python/comments/1lo0a3r/what_can_i_do_with_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1lntgli/monday_daily_thread_project_ideas/)
 - [Build Beautiful Python Desktop Apps with WinUp GUI — Hot Reload, Reactive Data, etc built on PySide6](https://www.reddit.com/r/Python/comments/1lnnwzz/build_beautiful_python_desktop_apps_with_winup/)
-- [Need to manage accounts in a Python app, what&#39;s the best solution for security?](https://www.reddit.com/r/Python/comments/1lnnrjj/need_to_manage_accounts_in_a_python_app_whats_the/)
 <!-- BLOG-POST-LIST:END -->
