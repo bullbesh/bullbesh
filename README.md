@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🇹🇬 First Ever PyCon Togo, We Need Your Support 💙🐍](https://www.reddit.com/r/Python/comments/1lpf6n7/first_ever_pycon_togo_we_need_your_support/)
 - [Making a Simple HTTP Server with Asyncio Protocols](https://www.reddit.com/r/Python/comments/1lpcaec/making_a_simple_http_server_with_asyncio_protocols/)
 - [AI Job Applier/Finder agent&lpar;kinda, not really&rpar; according to your CV over 65k or 70k+ companies](https://www.reddit.com/r/Python/comments/1lpatl1/ai_job_applierfinder_agentkinda_not_really/)
 - [Ciw Package Video Tutorials](https://www.reddit.com/r/Python/comments/1lp4fky/ciw_package_video_tutorials/)
 - [Built a CLI tool that bridges multiple Python backtesting libraries to live APIs!](https://www.reddit.com/r/Python/comments/1lp470w/built_a_cli_tool_that_bridges_multiple_python/)
-- [Best alternatives to Django?](https://www.reddit.com/r/Python/comments/1lp3r3j/best_alternatives_to_django/)
 <!-- BLOG-POST-LIST:END -->
