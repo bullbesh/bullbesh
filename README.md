@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ViewORM for SQLAlchemy](https://www.reddit.com/r/Python/comments/1loweun/vieworm_for_sqlalchemy/)
 - [Is anybody interested in testing out my small python app ? For free ?](https://www.reddit.com/r/Python/comments/1loun6m/is_anybody_interested_in_testing_out_my_small/)
 - [Tuple type hints?](https://www.reddit.com/r/Python/comments/1loubmy/tuple_type_hints/)
 - [What’s your approach to organizing Python projects for readability and scalability?](https://www.reddit.com/r/Python/comments/1lotna6/whats_your_approach_to_organizing_python_projects/)
 - [Python script to batch-download YouTube playlists in any audio format/bitrate &lpar;w/ metadata support&rpar;](https://www.reddit.com/r/Python/comments/1lot7nn/python_script_to_batchdownload_youtube_playlists/)
-- [Your Data Needs Discipline — Try Pydantic](https://www.reddit.com/r/Python/comments/1lorjlu/your_data_needs_discipline_try_pydantic/)
 <!-- BLOG-POST-LIST:END -->
