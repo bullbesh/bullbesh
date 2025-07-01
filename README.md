@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Blog] Understand how Python works using daily koans](https://www.reddit.com/r/Python/comments/1loq064/blog_understand_how_python_works_using_daily_koans/)
+- [Practice resources](https://www.reddit.com/r/Python/comments/1lonjvb/practice_resources/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1loncju/tuesday_daily_thread_advanced_questions/)
 - [🧰 [Python Package] Ciw: Discrete Event Simulation for Queueing Networks &lpar;with r/CiwPython Community](https://www.reddit.com/r/Python/comments/1lomczs/python_package_ciw_discrete_event_simulation_for/)
 - [augmented reality with python](https://www.reddit.com/r/Python/comments/1lokze6/augmented_reality_with_python/)
-- [Pls fix my DNS proxy code :&lpar;](https://www.reddit.com/r/Python/comments/1lokqpj/pls_fix_my_dns_proxy_code/)
-- [toycrypto: Some toy cryptographic modules and related tools](https://www.reddit.com/r/Python/comments/1loighk/toycrypto_some_toy_cryptographic_modules_and/)
-- [Understanding the Difference Between removesuffix&lpar;&rpar; and rstrip&lpar;&rpar; in Python](https://www.reddit.com/r/Python/comments/1log89x/understanding_the_difference_between_removesuffix/)
 <!-- BLOG-POST-LIST:END -->
