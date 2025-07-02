@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Used ChatGPT + Python to Build a Functional Web Scraper in 2025](https://www.reddit.com/r/Python/comments/1lq3igj/how_i_used_chatgpt_python_to_build_a_functional/)
+- [500× faster: Four different ways to speed up your code](https://www.reddit.com/r/Python/comments/1lq3ejm/500_faster_four_different_ways_to_speed_up_your/)
+- [The logging module is from 2002. Here&#39;s how to use it in 2025](https://www.reddit.com/r/Python/comments/1lq2zq0/the_logging_module_is_from_2002_heres_how_to_use/)
 - [Jupyter Ai , is anyone using it on their notebooks?](https://www.reddit.com/r/Python/comments/1lq1k2f/jupyter_ai_is_anyone_using_it_on_their_notebooks/)
 - [Are there any python tutorials that get to the point and aren’t stupidly simple?](https://www.reddit.com/r/Python/comments/1lq1ggd/are_there_any_python_tutorials_that_get_to_the/)
-- [async_rithmic: a fully async Rithmic gateway for algorithmic trading](https://www.reddit.com/r/Python/comments/1lpvht5/async_rithmic_a_fully_async_rithmic_gateway_for/)
-- [This simple CPU benchmark tool is my first Python project.](https://www.reddit.com/r/Python/comments/1lpvh4u/this_simple_cpu_benchmark_tool_is_my_first_python/)
-- [Want Funding to Build Your Dream Project? $300K Hackathon Open Now &lpar;AI/Web3&rpar;](https://www.reddit.com/r/Python/comments/1lplen5/want_funding_to_build_your_dream_project_300k/)
 <!-- BLOG-POST-LIST:END -->
