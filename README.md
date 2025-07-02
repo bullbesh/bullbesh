@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PSF site backend written in PHP](https://www.reddit.com/r/Python/comments/1lq8gh7/psf_site_backend_written_in_php/)
+- [Released my first advanced project please critique me!](https://www.reddit.com/r/Python/comments/1lq88of/released_my_first_advanced_project_please/)
 - [The one FastAPI boilerplate to rule them all](https://www.reddit.com/r/Python/comments/1lq5ccm/the_one_fastapi_boilerplate_to_rule_them_all/)
 - [Looking for beginning programmers &lpar;to chat with&rpar;](https://www.reddit.com/r/Python/comments/1lq3syz/looking_for_beginning_programmers_to_chat_with/)
 - [How I Used ChatGPT + Python to Build a Functional Web Scraper in 2025](https://www.reddit.com/r/Python/comments/1lq3igj/how_i_used_chatgpt_python_to_build_a_functional/)
-- [500× faster: Four different ways to speed up your code](https://www.reddit.com/r/Python/comments/1lq3ejm/500_faster_four_different_ways_to_speed_up_your/)
-- [The logging module is from 2002. Here&#39;s how to use it in 2025](https://www.reddit.com/r/Python/comments/1lq2zq0/the_logging_module_is_from_2002_heres_how_to_use/)
 <!-- BLOG-POST-LIST:END -->
