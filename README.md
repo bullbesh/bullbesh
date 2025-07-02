@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple beginners guide](https://www.reddit.com/r/Python/comments/1lphzws/simple_beginners_guide/)
 - [Code Sharing and Execution Platform Security Risks?](https://www.reddit.com/r/Python/comments/1lpflqb/code_sharing_and_execution_platform_security_risks/)
 - [pyfiq -- Minimal Redis-backed FIFO queues for Python](https://www.reddit.com/r/Python/comments/1lpfkei/pyfiq_minimal_redisbacked_fifo_queues_for_python/)
 - [Making a Simple HTTP Server with Asyncio Protocols](https://www.reddit.com/r/Python/comments/1lpcaec/making_a_simple_http_server_with_asyncio_protocols/)
 - [AI Job Applier/Finder agent&lpar;kinda, not really&rpar; according to your CV over 65k or 70k+ companies](https://www.reddit.com/r/Python/comments/1lpatl1/ai_job_applierfinder_agentkinda_not_really/)
-- [Ciw Package Video Tutorials](https://www.reddit.com/r/Python/comments/1lp4fky/ciw_package_video_tutorials/)
 <!-- BLOG-POST-LIST:END -->
