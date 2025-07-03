@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django devs: Your app is probably slow because of these 5 mistakes &lpar;with fixes&rpar;](https://www.reddit.com/r/Python/comments/1lqly55/django_devs_your_app_is_probably_slow_because_of/)
 - [Cool FNaF Python Programm](https://www.reddit.com/r/Python/comments/1lqku3g/cool_fnaf_python_programm/)
 - [Co Debug AI - VS Code extension for enhanced Go debugging context &lpar;seeking feedback&rpar;](https://www.reddit.com/r/Python/comments/1lqip7x/co_debug_ai_vs_code_extension_for_enhanced_go/)
 - [A Python-Powered Desktop App Framework Using HTML, CSS &amp; Python &lpar;Alpha&rpar;](https://www.reddit.com/r/Python/comments/1lqi4xa/a_pythonpowered_desktop_app_framework_using_html/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1lqbbv9/thursday_daily_thread_python_careers_courses_and/)
-- [PSF site backend written in PHP](https://www.reddit.com/r/Python/comments/1lq8gh7/psf_site_backend_written_in_php/)
 <!-- BLOG-POST-LIST:END -->
