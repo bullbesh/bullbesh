@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB Schema Validation: A Practical Guide with Examples](https://www.reddit.com/r/Python/comments/1lqs9qs/mongodb_schema_validation_a_practical_guide_with/)
+- [Guide: How to Benchmark Python Code?](https://www.reddit.com/r/Python/comments/1lqrmyi/guide_how_to_benchmark_python_code/)
 - [Django devs: Your app is probably slow because of these 5 mistakes &lpar;with fixes&rpar;](https://www.reddit.com/r/Python/comments/1lqly55/django_devs_your_app_is_probably_slow_because_of/)
 - [Cool FNaF Python Programm](https://www.reddit.com/r/Python/comments/1lqku3g/cool_fnaf_python_programm/)
 - [Co Debug AI - VS Code extension for enhanced Go debugging context &lpar;seeking feedback&rpar;](https://www.reddit.com/r/Python/comments/1lqip7x/co_debug_ai_vs_code_extension_for_enhanced_go/)
-- [A Python-Powered Desktop App Framework Using HTML, CSS &amp; Python &lpar;Alpha&rpar;](https://www.reddit.com/r/Python/comments/1lqi4xa/a_pythonpowered_desktop_app_framework_using_html/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1lqbbv9/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
