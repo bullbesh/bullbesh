@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Free &amp; Unlimited&rpar; Image Enhancer / Background Remover / OCR / Colorizer](https://www.reddit.com/r/Python/comments/1lrc6zn/free_unlimited_image_enhancer_background_remover/)
+- [pyleak: pytest-plugin to detect asyncio event loop blocking and task leaks](https://www.reddit.com/r/Python/comments/1lrc6je/pyleak_pytestplugin_to_detect_asyncio_event_loop/)
 - [WebPath: Yes yet another another url library but hear me out](https://www.reddit.com/r/Python/comments/1lr8d7t/webpath_yes_yet_another_another_url_library_but/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1lr4qhi/friday_daily_thread_rpython_meta_and_freetalk/)
 - [What is Jython and is it still relevant?](https://www.reddit.com/r/Python/comments/1lr4o0b/what_is_jython_and_is_it_still_relevant/)
-- [One simple way to run tests with random input in Pytest.](https://www.reddit.com/r/Python/comments/1lqy5fn/one_simple_way_to_run_tests_with_random_input_in/)
-- [TurtleSC - Shortcuts for quickly coding turtle.py art](https://www.reddit.com/r/Python/comments/1lqv6nw/turtlesc_shortcuts_for_quickly_coding_turtlepy_art/)
 <!-- BLOG-POST-LIST:END -->
