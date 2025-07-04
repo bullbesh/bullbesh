@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PhotoshopAPI: 20× Faster Headless PSD Automation &amp; Full Smart Object Control &lpar;No Photoshop Required&rpar;](https://www.reddit.com/r/Python/comments/1lre64q/photoshopapi_20_faster_headless_psd_automation/)
 - [&lpar;Free &amp; Unlimited&rpar; Image Enhancer / Background Remover / OCR / Colorizer](https://www.reddit.com/r/Python/comments/1lrc6zn/free_unlimited_image_enhancer_background_remover/)
 - [pyleak: pytest-plugin to detect asyncio event loop blocking and task leaks](https://www.reddit.com/r/Python/comments/1lrc6je/pyleak_pytestplugin_to_detect_asyncio_event_loop/)
 - [WebPath: Yes yet another another url library but hear me out](https://www.reddit.com/r/Python/comments/1lr8d7t/webpath_yes_yet_another_another_url_library_but/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1lr4qhi/friday_daily_thread_rpython_meta_and_freetalk/)
-- [What is Jython and is it still relevant?](https://www.reddit.com/r/Python/comments/1lr4o0b/what_is_jython_and_is_it_still_relevant/)
 <!-- BLOG-POST-LIST:END -->
