@@ -11,6 +11,6 @@
 - [Generating Synthetic Data for Your ML Models](https://www.reddit.com/r/Python/comments/1lrkjvc/generating_synthetic_data_for_your_ml_models/)
 - [Desto: A Web-Based tmux Session Manager for Bash/Python Scripts](https://www.reddit.com/r/Python/comments/1lrk2l8/desto_a_webbased_tmux_session_manager_for/)
 - [If you could delete one Python feature forever…](https://www.reddit.com/r/Python/comments/1lrhjhb/if_you_could_delete_one_python_feature_forever/)
-- [Recent Noteworthy Package Releases](https://www.reddit.com/r/Python/comments/1lrgrs6/recent_noteworthy_package_releases/)
 - [Would you pay for a micro-testing API? Looking for honest feedback](https://www.reddit.com/r/Python/comments/1lrf8kv/would_you_pay_for_a_microtesting_api_looking_for/)
+- [PhotoshopAPI: 20× Faster Headless PSD Automation &amp; Full Smart Object Control &lpar;No Photoshop Required&rpar;](https://www.reddit.com/r/Python/comments/1lre64q/photoshopapi_20_faster_headless_psd_automation/)
 <!-- BLOG-POST-LIST:END -->
