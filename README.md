@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I benchmarked 4 Python text extraction libraries so you don&#39;t have to &lpar;2025 results&rpar;](https://www.reddit.com/r/Python/comments/1ls6hj5/i_benchmarked_4_python_text_extraction_libraries/)
 - [Skylos: The python dead code finder &lpar;Updated&rpar;](https://www.reddit.com/r/Python/comments/1lrxr7b/skylos_the_python_dead_code_finder_updated/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1lrwxkg/saturday_daily_thread_resource_request_and/)
 - [Generating Synthetic Data for Your ML Models](https://www.reddit.com/r/Python/comments/1lrkjvc/generating_synthetic_data_for_your_ml_models/)
 - [Desto: A Web-Based tmux Session Manager for Bash/Python Scripts](https://www.reddit.com/r/Python/comments/1lrk2l8/desto_a_webbased_tmux_session_manager_for/)
-- [If you could delete one Python feature forever…](https://www.reddit.com/r/Python/comments/1lrhjhb/if_you_could_delete_one_python_feature_forever/)
 <!-- BLOG-POST-LIST:END -->
