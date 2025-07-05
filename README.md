@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Skylos: The python dead code finder &lpar;Updated&rpar;](https://www.reddit.com/r/Python/comments/1lrxr7b/skylos_the_python_dead_code_finder_updated/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1lrwxkg/saturday_daily_thread_resource_request_and/)
 - [Generating Synthetic Data for Your ML Models](https://www.reddit.com/r/Python/comments/1lrkjvc/generating_synthetic_data_for_your_ml_models/)
 - [Desto: A Web-Based tmux Session Manager for Bash/Python Scripts](https://www.reddit.com/r/Python/comments/1lrk2l8/desto_a_webbased_tmux_session_manager_for/)
 - [If you could delete one Python feature forever…](https://www.reddit.com/r/Python/comments/1lrhjhb/if_you_could_delete_one_python_feature_forever/)
-- [PhotoshopAPI: 20× Faster Headless PSD Automation &amp; Full Smart Object Control &lpar;No Photoshop Required&rpar;](https://www.reddit.com/r/Python/comments/1lre64q/photoshopapi_20_faster_headless_psd_automation/)
-- [&lpar;Free &amp; Unlimited&rpar; Image Enhancer / Background Remover / OCR / Colorizer](https://www.reddit.com/r/Python/comments/1lrc6zn/free_unlimited_image_enhancer_background_remover/)
 <!-- BLOG-POST-LIST:END -->
