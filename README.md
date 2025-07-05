@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I got tired of paying $$ for app translations, so I built this OpenSource tool instead with Python🚀](https://www.reddit.com/r/Python/comments/1ls96a1/i_got_tired_of_paying_for_app_translations_so_i/)
 - [Robyn now supports Server Sent Events](https://www.reddit.com/r/Python/comments/1ls89sy/robyn_now_supports_server_sent_events/)
-- [How Common is __slots__ in Python Software Design?](https://www.reddit.com/r/Python/comments/1ls7l60/how_common_is_slots_in_python_software_design/)
 - [I benchmarked 4 Python text extraction libraries so you don&#39;t have to &lpar;2025 results&rpar;](https://www.reddit.com/r/Python/comments/1ls6hj5/i_benchmarked_4_python_text_extraction_libraries/)
 - [Skylos: The python dead code finder &lpar;Updated&rpar;](https://www.reddit.com/r/Python/comments/1lrxr7b/skylos_the_python_dead_code_finder_updated/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1lrwxkg/saturday_daily_thread_resource_request_and/)
