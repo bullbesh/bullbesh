@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built a Python-based floating HUD for developers.](https://www.reddit.com/r/Python/comments/1lt1tav/built_a_pythonbased_floating_hud_for_developers/)
 - [Detecting boulder on the moon](https://www.reddit.com/r/Python/comments/1lszu4d/detecting_boulder_on_the_moon/)
 - [warmwind quick replacement ?](https://www.reddit.com/r/Python/comments/1lsz3i2/warmwind_quick_replacement/)
 - [We built an AI-agent with a state machine instead of a giant prompt](https://www.reddit.com/r/Python/comments/1lsw6ka/we_built_an_aiagent_with_a_state_machine_instead/)
 - [Solving Wordle using uv&#39;s dependency resolver](https://www.reddit.com/r/Python/comments/1lsuqis/solving_wordle_using_uvs_dependency_resolver/)
-- [Python as essentially a cross-platform shell script?](https://www.reddit.com/r/Python/comments/1lss8mg/python_as_essentially_a_crossplatform_shell_script/)
 <!-- BLOG-POST-LIST:END -->
