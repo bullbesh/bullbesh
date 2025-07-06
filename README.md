@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I was so tired of &quot;watch later&quot; youtube playlist, so i made a script to delete all saved videos](https://www.reddit.com/r/Python/comments/1lsqw8n/i_was_so_tired_of_watch_later_youtube_playlist_so/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1lsnrbz/sunday_daily_thread_whats_everyone_working_on/)
-- [&lpar;Updated&rpar; All‑in‑One Generative AI Template: Frontend, Backend, Docker, Docs &amp; CI/CD](https://www.reddit.com/r/Python/comments/1lsjx1p/updated_allinone_generative_ai_template_frontend/)
 - [For running Python scripts on schedule or as APIs, what do you use?](https://www.reddit.com/r/Python/comments/1lsgsqn/for_running_python_scripts_on_schedule_or_as_apis/)
 - [Image to ASCII converter](https://www.reddit.com/r/Python/comments/1lsftgm/image_to_ascii_converter/)
 - [Building a custom shell in Python — is this a good project?](https://www.reddit.com/r/Python/comments/1lsfd7c/building_a_custom_shell_in_python_is_this_a_good/)
