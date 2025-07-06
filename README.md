@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Solving Wordle using uv&#39;s dependency resolver](https://www.reddit.com/r/Python/comments/1lsuqis/solving_wordle_using_uvs_dependency_resolver/)
 - [Python as essentially a cross-platform shell script?](https://www.reddit.com/r/Python/comments/1lss8mg/python_as_essentially_a_crossplatform_shell_script/)
 - [I was so tired of &quot;watch later&quot; youtube playlist, so i made a script to delete all saved videos](https://www.reddit.com/r/Python/comments/1lsqw8n/i_was_so_tired_of_watch_later_youtube_playlist_so/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1lsnrbz/sunday_daily_thread_whats_everyone_working_on/)
 - [For running Python scripts on schedule or as APIs, what do you use?](https://www.reddit.com/r/Python/comments/1lsgsqn/for_running_python_scripts_on_schedule_or_as_apis/)
-- [Image to ASCII converter](https://www.reddit.com/r/Python/comments/1lsftgm/image_to_ascii_converter/)
 <!-- BLOG-POST-LIST:END -->
