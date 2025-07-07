@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python-Powered Desktop App Framework Using HTML, CSS &amp; Python that supports React, Tailwind, etc.](https://www.reddit.com/r/Python/comments/1ltktz1/a_pythonpowered_desktop_app_framework_using_html/)
 - [There is such a thing as &quot;too much TQDM&quot;](https://www.reddit.com/r/Python/comments/1lthva4/there_is_such_a_thing_as_too_much_tqdm/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1ltfxpq/monday_daily_thread_project_ideas/)
 - [A tool For Complete Beginners](https://www.reddit.com/r/Python/comments/1ltfwxf/a_tool_for_complete_beginners/)
 - [uvtarget - a helpful utility to manage Python in CMake, powered by uv](https://www.reddit.com/r/Python/comments/1ltflgx/uvtarget_a_helpful_utility_to_manage_python_in/)
-- [ImGui Bundle: &lpar;web&rpar; apps in pure Python](https://www.reddit.com/r/Python/comments/1ltalg4/imgui_bundle_web_apps_in_pure_python/)
 <!-- BLOG-POST-LIST:END -->
