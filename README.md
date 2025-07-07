@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Radiate - evolutionary/genetic algorithm engine](https://www.reddit.com/r/Python/comments/1lu8wvp/radiate_evolutionarygenetic_algorithm_engine/)
+- [Data scientist learning path,](https://www.reddit.com/r/Python/comments/1lu8lpc/data_scientist_learning_path/)
 - [Telegram bot to scrape, analyze and visualize listings &lpar;e.g. Leboncoin&rpar;](https://www.reddit.com/r/Python/comments/1lu6564/telegram_bot_to_scrape_analyze_and_visualize/)
 - [Training AI to Learn Chinese](https://www.reddit.com/r/Python/comments/1lu15fz/training_ai_to_learn_chinese/)
 - [Need an algorithmic solution for this coding challenge](https://www.reddit.com/r/Python/comments/1lu0zsg/need_an_algorithmic_solution_for_this_coding/)
-- [Tkinter- What are some alternatives?](https://www.reddit.com/r/Python/comments/1lu043l/tkinter_what_are_some_alternatives/)
-- [Statements below finally block, are they executed?](https://www.reddit.com/r/Python/comments/1ltzxuy/statements_below_finally_block_are_they_executed/)
 <!-- BLOG-POST-LIST:END -->
