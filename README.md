@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tkinter- What are some alternatives?](https://www.reddit.com/r/Python/comments/1lu043l/tkinter_what_are_some_alternatives/)
+- [Statements below finally block, are they executed?](https://www.reddit.com/r/Python/comments/1ltzxuy/statements_below_finally_block_are_they_executed/)
 - [Casual learning](https://www.reddit.com/r/Python/comments/1ltxv90/casual_learning/)
 - [Importing purely for a type hint?](https://www.reddit.com/r/Python/comments/1ltveo7/importing_purely_for_a_type_hint/)
 - [Any fun python projects you guys would like to suggest instead of watching tutorials?](https://www.reddit.com/r/Python/comments/1ltu6mv/any_fun_python_projects_you_guys_would_like_to/)
-- [How are you using just &lpar;Justfile&rpar; local workflows for Python projects?](https://www.reddit.com/r/Python/comments/1ltr3n1/how_are_you_using_just_justfile_local_workflows/)
-- [Is using raw SQL for get only Flask app bad practice?](https://www.reddit.com/r/Python/comments/1ltnzxs/is_using_raw_sql_for_get_only_flask_app_bad/)
 <!-- BLOG-POST-LIST:END -->
