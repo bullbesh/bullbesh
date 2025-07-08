@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need teammates to code with](https://www.reddit.com/r/Python/comments/1luzo8a/need_teammates_to_code_with/)
 - [Python prep for Amazon Data Analyst role - essential topics for someone who knows basics but limited](https://www.reddit.com/r/Python/comments/1luyw1x/python_prep_for_amazon_data_analyst_role/)
 - [Tracking a function call](https://www.reddit.com/r/Python/comments/1luyqmo/tracking_a_function_call/)
 - [Wordninja-Enhanced - Split your merged words](https://www.reddit.com/r/Python/comments/1luxo2k/wordninjaenhanced_split_your_merged_words/)
 - [Questions Regarding ChatGPT](https://www.reddit.com/r/Python/comments/1lux6dh/questions_regarding_chatgpt/)
-- [Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams](https://www.reddit.com/r/Python/comments/1luv77k/lost_chapter_of_automate_the_boring_stuff_audio/)
 <!-- BLOG-POST-LIST:END -->
