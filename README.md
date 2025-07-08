@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Questions Regarding ChatGPT](https://www.reddit.com/r/Python/comments/1lux6dh/questions_regarding_chatgpt/)
 - [Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams](https://www.reddit.com/r/Python/comments/1luv77k/lost_chapter_of_automate_the_boring_stuff_audio/)
 - [Looking to Press Enter On All Open Google Chrome Tabs At Once?](https://www.reddit.com/r/Python/comments/1lutl6h/looking_to_press_enter_on_all_open_google_chrome/)
 - [A tad bit proud of myself today!!](https://www.reddit.com/r/Python/comments/1lupse7/a_tad_bit_proud_of_myself_today/)
 - [Unpopular Opinion: Python is a humorous language](https://www.reddit.com/r/Python/comments/1lumxkq/unpopular_opinion_python_is_a_humorous_language/)
-- [Run Python Scripts With No Dependency Install with UV](https://www.reddit.com/r/Python/comments/1lulh7u/run_python_scripts_with_no_dependency_install/)
 <!-- BLOG-POST-LIST:END -->
