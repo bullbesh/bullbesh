@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [lark-dbml: DBML parser backed by Lark](https://www.reddit.com/r/Python/comments/1lv64ok/larkdbml_dbml_parser_backed_by_lark/)
+- [I&#39;ve written a post about async/await. Could someone with deep knowledge check the Python sections?](https://www.reddit.com/r/Python/comments/1lv3u6i/ive_written_a_post_about_asyncawait_could_someone/)
 - [Need teammates to code with](https://www.reddit.com/r/Python/comments/1luzo8a/need_teammates_to_code_with/)
 - [Python prep for Amazon Data Analyst role - essential topics for someone who knows basics but limited](https://www.reddit.com/r/Python/comments/1luyw1x/python_prep_for_amazon_data_analyst_role/)
 - [Tracking a function call](https://www.reddit.com/r/Python/comments/1luyqmo/tracking_a_function_call/)
-- [Wordninja-Enhanced - Split your merged words](https://www.reddit.com/r/Python/comments/1luxo2k/wordninjaenhanced_split_your_merged_words/)
-- [Questions Regarding ChatGPT](https://www.reddit.com/r/Python/comments/1lux6dh/questions_regarding_chatgpt/)
 <!-- BLOG-POST-LIST:END -->
