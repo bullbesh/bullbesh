@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free-threaded &lpar;multicore, parallel&rpar; Python will be fully supported starting Python 3.14!](https://www.reddit.com/r/Python/comments/1lvjrgj/freethreaded_multicore_parallel_python_will_be/)
 - [I&#39;ve built a library for automation of video content creation, aka AI-slop generation](https://www.reddit.com/r/Python/comments/1lvhpuz/ive_built_a_library_for_automation_of_video/)
 - [PyChunks – A no-setup Python tool for beginners &lpar;and a new landing page!&rpar;](https://www.reddit.com/r/Python/comments/1lvgykq/pychunks_a_nosetup_python_tool_for_beginners_and/)
 - [What terminal is recommended?](https://www.reddit.com/r/Python/comments/1lvdaj6/what_terminal_is_recommended/)
 - [Local labs for real-time data streaming with Python &lpar;Kafka, PySpark, PyFlink&rpar;](https://www.reddit.com/r/Python/comments/1lvbdd4/local_labs_for_realtime_data_streaming_with/)
-- [Is anyone using Venmo business rules in their project?](https://www.reddit.com/r/Python/comments/1lva73l/is_anyone_using_venmo_business_rules_in_their/)
 <!-- BLOG-POST-LIST:END -->
