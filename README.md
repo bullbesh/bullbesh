@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1lvyekp/thursday_daily_thread_python_careers_courses_and/)
+- [[Benchmark] PyPy + Socketify Benchmark Shows 2x–9x Performance Gains vs Uvicorn Single Worker](https://www.reddit.com/r/Python/comments/1lvxtn3/benchmark_pypy_socketify_benchmark_shows_2x9x/)
 - [Medical application](https://www.reddit.com/r/Python/comments/1lvwjqg/medical_application/)
 - [📈 Track stocks, crypto, and market news — all from your terminal &lpar;built with Textual&rpar;](https://www.reddit.com/r/Python/comments/1lvw19i/track_stocks_crypto_and_market_news_all_from_your/)
 - [CNC Laser software for MacOS - Built because I needed one!](https://www.reddit.com/r/Python/comments/1lvs3f6/cnc_laser_software_for_macos_built_because_i/)
-- [Using OOP interfaces in Python](https://www.reddit.com/r/Python/comments/1lvrkpg/using_oop_interfaces_in_python/)
-- [Free-threaded &lpar;multicore, parallel&rpar; Python will be fully supported starting Python 3.14!](https://www.reddit.com/r/Python/comments/1lvjrgj/freethreaded_multicore_parallel_python_will_be/)
 <!-- BLOG-POST-LIST:END -->
