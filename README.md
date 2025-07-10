@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Weather CLI Tool &lpar;Day 1/100 of #100Days100Repos Challenge&rpar;](https://www.reddit.com/r/Python/comments/1lwhvuh/weather_cli_tool_day_1100_of_100days100repos/)
+- [Index academic papers and extract metadata with LLMs &lpar;in Python&rpar;](https://www.reddit.com/r/Python/comments/1lwhr81/index_academic_papers_and_extract_metadata_with/)
 - [A Python-Powered Desktop App Framework Using HTML, CSS &amp; Python that supports React, Tailwind, etc.](https://www.reddit.com/r/Python/comments/1lwdbkc/a_pythonpowered_desktop_app_framework_using_html/)
 - [torrra: A Python tool that lets you find and download torrents without leaving your CLI](https://www.reddit.com/r/Python/comments/1lwark0/torrra_a_python_tool_that_lets_you_find_and/)
 - [Dispytch — a lightweight, async-first Python framework for building event-driven services.](https://www.reddit.com/r/Python/comments/1lw9nw6/dispytch_a_lightweight_asyncfirst_python/)
-- [PrintGuard - SOTA Open-Source 3D print failure detector](https://www.reddit.com/r/Python/comments/1lw89hq/printguard_sota_opensource_3d_print_failure/)
-- [I built a minimal, type-safe dependency injection container for Python](https://www.reddit.com/r/Python/comments/1lw78pn/i_built_a_minimal_typesafe_dependency_injection/)
 <!-- BLOG-POST-LIST:END -->
