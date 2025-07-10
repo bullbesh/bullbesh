@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [torrra: A Python tool that lets you find and download torrents without leaving your CLI](https://www.reddit.com/r/Python/comments/1lwark0/torrra_a_python_tool_that_lets_you_find_and/)
 - [Dispytch — a lightweight, async-first Python framework for building event-driven services.](https://www.reddit.com/r/Python/comments/1lw9nw6/dispytch_a_lightweight_asyncfirst_python/)
 - [PrintGuard - SOTA Open-Source 3D print failure detector](https://www.reddit.com/r/Python/comments/1lw89hq/printguard_sota_opensource_3d_print_failure/)
 - [I built a minimal, type-safe dependency injection container for Python](https://www.reddit.com/r/Python/comments/1lw78pn/i_built_a_minimal_typesafe_dependency_injection/)
 - [Checking if 20K URLs are indexed on Google &lpar;Python + proxies not working&rpar;](https://www.reddit.com/r/Python/comments/1lw710p/checking_if_20k_urls_are_indexed_on_google_python/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1lvyekp/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
