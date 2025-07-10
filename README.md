@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PicTex, a Python library to easily create stylized text images](https://www.reddit.com/r/Python/comments/1lwjsar/pictex_a_python_library_to_easily_create_stylized/)
+- [Advice on how to learn about r@ts and malw@re some book in python](https://www.reddit.com/r/Python/comments/1lwjlt2/advice_on_how_to_learn_about_rts_and_malwre_some/)
+- [What&#39;s the coolest python project you are willing to share?](https://www.reddit.com/r/Python/comments/1lwipat/whats_the_coolest_python_project_you_are_willing/)
 - [Weather CLI Tool &lpar;Day 1/100 of #100Days100Repos Challenge&rpar;](https://www.reddit.com/r/Python/comments/1lwhvuh/weather_cli_tool_day_1100_of_100days100repos/)
 - [Index academic papers and extract metadata with LLMs &lpar;in Python&rpar;](https://www.reddit.com/r/Python/comments/1lwhr81/index_academic_papers_and_extract_metadata_with/)
-- [A Python-Powered Desktop App Framework Using HTML, CSS &amp; Python that supports React, Tailwind, etc.](https://www.reddit.com/r/Python/comments/1lwdbkc/a_pythonpowered_desktop_app_framework_using_html/)
-- [torrra: A Python tool that lets you find and download torrents without leaving your CLI](https://www.reddit.com/r/Python/comments/1lwark0/torrra_a_python_tool_that_lets_you_find_and/)
-- [Dispytch — a lightweight, async-first Python framework for building event-driven services.](https://www.reddit.com/r/Python/comments/1lw9nw6/dispytch_a_lightweight_asyncfirst_python/)
 <!-- BLOG-POST-LIST:END -->
