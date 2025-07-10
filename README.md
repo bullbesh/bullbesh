@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Presento IPM: empaquetador modular con formatos propios .ifp y .ifb, mejor que cualquier app.](https://www.reddit.com/r/Python/comments/1lwrgba/presento_ipm_empaquetador_modular_con_formatos/)
+- [flowmark: A better auto-formatter for Markdown](https://www.reddit.com/r/Python/comments/1lwr4g1/flowmark_a_better_autoformatter_for_markdown/)
 - [Hello to the world of coding and my very first project! Day 1 of #Replit100DaysOfCode #100DaysOfCode](https://www.reddit.com/r/Python/comments/1lwoyhe/hello_to_the_world_of_coding_and_my_very_first/)
 - [Easy tested Deployment tool for chatbot](https://www.reddit.com/r/Python/comments/1lwo7wv/easy_tested_deployment_tool_for_chatbot/)
 - [Ferramentas de Automações para o Whatsapp](https://www.reddit.com/r/Python/comments/1lwnip0/ferramentas_de_automações_para_o_whatsapp/)
-- [PicTex, a Python library to easily create stylized text images](https://www.reddit.com/r/Python/comments/1lwjsar/pictex_a_python_library_to_easily_create_stylized/)
-- [Advice on how to learn about r@ts and malw@re some book in python](https://www.reddit.com/r/Python/comments/1lwjlt2/advice_on_how_to_learn_about_rts_and_malwre_some/)
 <!-- BLOG-POST-LIST:END -->
