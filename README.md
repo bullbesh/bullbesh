@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Because some of us like to track the market and stay in the terminal](https://www.reddit.com/r/Python/comments/1lxeehx/because_some_of_us_like_to_track_the_market_and/)
+- [PyGAD 3.5.0 Released // Genetic Algorithm Library in Python](https://www.reddit.com/r/Python/comments/1lxe2bm/pygad_350_released_genetic_algorithm_library_in/)
 - [How NumPy Actually Works](https://www.reddit.com/r/Python/comments/1lxcqme/how_numpy_actually_works/)
 - [🚀 Beautiful Cross Platform Web + Desktop Framework for building Apps with PySide6 + FastAPI](https://www.reddit.com/r/Python/comments/1lxcoqz/beautiful_cross_platform_web_desktop_framework/)
 - [I made a Spotify-powered Discord bot that manages community playlists, polls, and artwork](https://www.reddit.com/r/Python/comments/1lxbnt1/i_made_a_spotifypowered_discord_bot_that_manages/)
-- [What’s the coolest financial app you have created?](https://www.reddit.com/r/Python/comments/1lx8tu5/whats_the_coolest_financial_app_you_have_created/)
-- [Announcing Panel-Material-UI: Modern Components for Panel Data Apps](https://www.reddit.com/r/Python/comments/1lx84ef/announcing_panelmaterialui_modern_components_for/)
 <!-- BLOG-POST-LIST:END -->
