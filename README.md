@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MinimalPDF Compress - Ghostscript &amp; Pikepdf frontend](https://www.reddit.com/r/Python/comments/1lwy1wf/minimalpdf_compress_ghostscript_pikepdf_frontend/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1lwscnp/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Presento IPM: empaquetador modular con formatos propios .ifp y .ifb, mejor que cualquier app.](https://www.reddit.com/r/Python/comments/1lwrgba/presento_ipm_empaquetador_modular_con_formatos/)
 - [flowmark: A better auto-formatter for Markdown](https://www.reddit.com/r/Python/comments/1lwr4g1/flowmark_a_better_autoformatter_for_markdown/)
 - [Hello to the world of coding and my very first project! Day 1 of #Replit100DaysOfCode #100DaysOfCode](https://www.reddit.com/r/Python/comments/1lwoyhe/hello_to_the_world_of_coding_and_my_very_first/)
-- [Easy tested Deployment tool for chatbot](https://www.reddit.com/r/Python/comments/1lwo7wv/easy_tested_deployment_tool_for_chatbot/)
 <!-- BLOG-POST-LIST:END -->
