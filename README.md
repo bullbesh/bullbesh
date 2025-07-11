@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1lwscnp/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Presento IPM: empaquetador modular con formatos propios .ifp y .ifb, mejor que cualquier app.](https://www.reddit.com/r/Python/comments/1lwrgba/presento_ipm_empaquetador_modular_con_formatos/)
 - [flowmark: A better auto-formatter for Markdown](https://www.reddit.com/r/Python/comments/1lwr4g1/flowmark_a_better_autoformatter_for_markdown/)
 - [Hello to the world of coding and my very first project! Day 1 of #Replit100DaysOfCode #100DaysOfCode](https://www.reddit.com/r/Python/comments/1lwoyhe/hello_to_the_world_of_coding_and_my_very_first/)
 - [Easy tested Deployment tool for chatbot](https://www.reddit.com/r/Python/comments/1lwo7wv/easy_tested_deployment_tool_for_chatbot/)
-- [Ferramentas de Automações para o Whatsapp](https://www.reddit.com/r/Python/comments/1lwnip0/ferramentas_de_automações_para_o_whatsapp/)
 <!-- BLOG-POST-LIST:END -->
