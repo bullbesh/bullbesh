@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How NumPy Actually Works](https://www.reddit.com/r/Python/comments/1lxcqme/how_numpy_actually_works/)
+- [🚀 Beautiful Cross Platform Web + Desktop Framework for building Apps with PySide6 + FastAPI](https://www.reddit.com/r/Python/comments/1lxcoqz/beautiful_cross_platform_web_desktop_framework/)
+- [I made a Spotify-powered Discord bot that manages community playlists, polls, and artwork](https://www.reddit.com/r/Python/comments/1lxbnt1/i_made_a_spotifypowered_discord_bot_that_manages/)
 - [What’s the coolest financial app you have created?](https://www.reddit.com/r/Python/comments/1lx8tu5/whats_the_coolest_financial_app_you_have_created/)
 - [Announcing Panel-Material-UI: Modern Components for Panel Data Apps](https://www.reddit.com/r/Python/comments/1lx84ef/announcing_panelmaterialui_modern_components_for/)
-- [PyData Amsterdam 2025 &lpar;Sep 24-26&rpar; Program is LIVE](https://www.reddit.com/r/Python/comments/1lx64eg/pydata_amsterdam_2025_sep_2426_program_is_live/)
-- [🛠️caelum-sys: a plugin-based Python library for running system commands with plain language](https://www.reddit.com/r/Python/comments/1lx5v4p/caelumsys_a_pluginbased_python_library_for/)
-- [Samsung Galaxy tab s10+ as my pc complementary?](https://www.reddit.com/r/Python/comments/1lx5tp8/samsung_galaxy_tab_s10_as_my_pc_complementary/)
 <!-- BLOG-POST-LIST:END -->
