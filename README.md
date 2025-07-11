@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyData Amsterdam 2025 &lpar;Sep 24-26&rpar; Program is LIVE](https://www.reddit.com/r/Python/comments/1lx64eg/pydata_amsterdam_2025_sep_2426_program_is_live/)
 - [🛠️caelum-sys: a plugin-based Python library for running system commands with plain language](https://www.reddit.com/r/Python/comments/1lx5v4p/caelumsys_a_pluginbased_python_library_for/)
 - [Samsung Galaxy tab s10+ as my pc complementary?](https://www.reddit.com/r/Python/comments/1lx5tp8/samsung_galaxy_tab_s10_as_my_pc_complementary/)
 - [aiosqlitepool - SQLite async connection pool for high-performance](https://www.reddit.com/r/Python/comments/1lx3njh/aiosqlitepool_sqlite_async_connection_pool_for/)
 - [Python code Understanding through Visualization](https://www.reddit.com/r/Python/comments/1lx367g/python_code_understanding_through_visualization/)
-- [Pure Python cryptographic tool for long-term secret storage - Shamir&#39;s Secret Sharing + AES-256-GCM](https://www.reddit.com/r/Python/comments/1lx2cz9/pure_python_cryptographic_tool_for_longterm/)
 <!-- BLOG-POST-LIST:END -->
