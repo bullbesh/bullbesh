@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [resources for kids to code or the basics. &lpar;7 year old&rpar;](https://www.reddit.com/r/Python/comments/1ly8mzg/resources_for_kids_to_code_or_the_basics_7_year/)
+- [Exercise 6 of my python](https://www.reddit.com/r/Python/comments/1ly8inc/exercise_6_of_my_python/)
+- [Is there even entry-level jobs with python.](https://www.reddit.com/r/Python/comments/1ly81vm/is_there_even_entrylevel_jobs_with_python/)
 - [Textual 4.0 released - streaming markdown support](https://www.reddit.com/r/Python/comments/1ly3ll4/textual_40_released_streaming_markdown_support/)
 - [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1ly2iik/parallel_and_concurrent_programming_in_python_a/)
-- [AI-coded Streamlit dashboards: migrating from Looker Studio &lpar;free 30-page guide&rpar;](https://www.reddit.com/r/Python/comments/1ly11os/aicoded_streamlit_dashboards_migrating_from/)
-- [Any new shiny devex tools ?](https://www.reddit.com/r/Python/comments/1lxxsen/any_new_shiny_devex_tools/)
-- [I made an AUTO-CLICKER program for Minecraft Bedwars &lpar;Bypasses Watchdog&rpar;](https://www.reddit.com/r/Python/comments/1lxwjnl/i_made_an_autoclicker_program_for_minecraft/)
 <!-- BLOG-POST-LIST:END -->
