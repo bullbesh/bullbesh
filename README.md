@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Textual 4.0 released - streaming markdown support](https://www.reddit.com/r/Python/comments/1ly3ll4/textual_40_released_streaming_markdown_support/)
 - [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1ly2iik/parallel_and_concurrent_programming_in_python_a/)
 - [AI-coded Streamlit dashboards: migrating from Looker Studio &lpar;free 30-page guide&rpar;](https://www.reddit.com/r/Python/comments/1ly11os/aicoded_streamlit_dashboards_migrating_from/)
 - [Any new shiny devex tools ?](https://www.reddit.com/r/Python/comments/1lxxsen/any_new_shiny_devex_tools/)
 - [I made an AUTO-CLICKER program for Minecraft Bedwars &lpar;Bypasses Watchdog&rpar;](https://www.reddit.com/r/Python/comments/1lxwjnl/i_made_an_autoclicker_program_for_minecraft/)
-- [Built a Flask app that uses Gemini to generate ad copy from real-time product data](https://www.reddit.com/r/Python/comments/1lxuon7/built_a_flask_app_that_uses_gemini_to_generate_ad/)
 <!-- BLOG-POST-LIST:END -->
