@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any new shiny devex tools ?](https://www.reddit.com/r/Python/comments/1lxxsen/any_new_shiny_devex_tools/)
 - [I made an AUTO-CLICKER program for Minecraft Bedwars &lpar;Bypasses Watchdog&rpar;](https://www.reddit.com/r/Python/comments/1lxwjnl/i_made_an_autoclicker_program_for_minecraft/)
 - [Built a Flask app that uses Gemini to generate ad copy from real-time product data](https://www.reddit.com/r/Python/comments/1lxuon7/built_a_flask_app_that_uses_gemini_to_generate_ad/)
 - [[P] rowdump - A Modern Library for Streaming Table Output](https://www.reddit.com/r/Python/comments/1lxnh49/p_rowdump_a_modern_library_for_streaming_table/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1lxmdny/saturday_daily_thread_resource_request_and/)
-- [🎬 SubTextHighlight – Effortless Subtitle Creation, Styling &amp; Burn-In!](https://www.reddit.com/r/Python/comments/1lxhjaf/subtexthighlight_effortless_subtitle_creation/)
 <!-- BLOG-POST-LIST:END -->
