@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[P] rowdump - A Modern Library for Streaming Table Output](https://www.reddit.com/r/Python/comments/1lxnh49/p_rowdump_a_modern_library_for_streaming_table/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1lxmdny/saturday_daily_thread_resource_request_and/)
 - [🎬 SubTextHighlight – Effortless Subtitle Creation, Styling &amp; Burn-In!](https://www.reddit.com/r/Python/comments/1lxhjaf/subtexthighlight_effortless_subtitle_creation/)
 - [Apache Kafka: How-to set offsets to a fixed time](https://www.reddit.com/r/Python/comments/1lxhepe/apache_kafka_howto_set_offsets_to_a_fixed_time/)
 - [Finding a job as a python dev](https://www.reddit.com/r/Python/comments/1lxf44q/finding_a_job_as_a_python_dev/)
-- [Because some of us like to track the market and stay in the terminal](https://www.reddit.com/r/Python/comments/1lxeehx/because_some_of_us_like_to_track_the_market_and/)
-- [PyGAD 3.5.0 Released // Genetic Algorithm Library in Python](https://www.reddit.com/r/Python/comments/1lxe2bm/pygad_350_released_genetic_algorithm_library_in/)
 <!-- BLOG-POST-LIST:END -->
