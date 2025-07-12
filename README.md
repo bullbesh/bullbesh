@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [shenzi: A greedy python standalone bundler](https://www.reddit.com/r/Python/comments/1lybxrk/shenzi_a_greedy_python_standalone_bundler/)
+- [Mentoring a junior developer](https://www.reddit.com/r/Python/comments/1lybwgi/mentoring_a_junior_developer/)
+- [Extracting Stock Picks from YouTube with LLMs and MLLMs &lpar;Full Pipeline + Dataset + Backtesting&rpar;](https://www.reddit.com/r/Python/comments/1lybpk1/extracting_stock_picks_from_youtube_with_llms_and/)
 - [resources for kids to code or the basics. &lpar;7 year old&rpar;](https://www.reddit.com/r/Python/comments/1ly8mzg/resources_for_kids_to_code_or_the_basics_7_year/)
 - [Exercise 6 of my python](https://www.reddit.com/r/Python/comments/1ly8inc/exercise_6_of_my_python/)
-- [Is there even entry-level jobs with python.](https://www.reddit.com/r/Python/comments/1ly81vm/is_there_even_entrylevel_jobs_with_python/)
-- [Textual 4.0 released - streaming markdown support](https://www.reddit.com/r/Python/comments/1ly3ll4/textual_40_released_streaming_markdown_support/)
-- [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1ly2iik/parallel_and_concurrent_programming_in_python_a/)
 <!-- BLOG-POST-LIST:END -->
