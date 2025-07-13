@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MatrixTransformer – A Unified Framework for Matrix Transformations &lpar;GitHub + Research Paper&rpar;](https://www.reddit.com/r/Python/comments/1lyu44k/matrixtransformer_a_unified_framework_for_matrix/)
 - [Need Suggestions](https://www.reddit.com/r/Python/comments/1lyt883/need_suggestions/)
 - [Target Propagation: A Biologically Plausible Neural Network Training Algorithm](https://www.reddit.com/r/Python/comments/1lysa6q/target_propagation_a_biologically_plausible/)
 - [nuclear-calculator program: emcalc](https://www.reddit.com/r/Python/comments/1lyq4en/nuclearcalculator_program_emcalc/)
 - [Master Modern Backend Development: Python, SQL &amp; PostgreSQL From Scratch &lpar;limited time&rpar;](https://www.reddit.com/r/Python/comments/1lymoz7/master_modern_backend_development_python_sql/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1lyevp5/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
