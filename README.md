@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Master Modern Backend Development: Python, SQL &amp; PostgreSQL From Scratch &lpar;limited time&rpar;](https://www.reddit.com/r/Python/comments/1lyzoly/master_modern_backend_development_python_sql/)
+- [I hate Microsoft Store](https://www.reddit.com/r/Python/comments/1lyz5f6/i_hate_microsoft_store/)
+- [Made ghostenv – test Python packages without the mess](https://www.reddit.com/r/Python/comments/1lyylyk/made_ghostenv_test_python_packages_without_the/)
 - [Built a 3D rotating cube in Python using Pygame over a weekend](https://www.reddit.com/r/Python/comments/1lyx18w/built_a_3d_rotating_cube_in_python_using_pygame/)
 - [🚀 Just released Snorq — an async URL sniffer &amp; uptime monitor built with Python, aiohttp, and async](https://www.reddit.com/r/Python/comments/1lywy5l/just_released_snorq_an_async_url_sniffer_uptime/)
-- [Python&#39;s concurrency options seem inadequate for my project](https://www.reddit.com/r/Python/comments/1lyw6dy/pythons_concurrency_options_seem_inadequate_for/)
-- [New To The Programming World](https://www.reddit.com/r/Python/comments/1lyvspk/new_to_the_programming_world/)
-- [MatrixTransformer – A Unified Framework for Matrix Transformations &lpar;GitHub + Research Paper&rpar;](https://www.reddit.com/r/Python/comments/1lyu44k/matrixtransformer_a_unified_framework_for_matrix/)
 <!-- BLOG-POST-LIST:END -->
