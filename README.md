@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need Suggestions](https://www.reddit.com/r/Python/comments/1lyt883/need_suggestions/)
 - [Target Propagation: A Biologically Plausible Neural Network Training Algorithm](https://www.reddit.com/r/Python/comments/1lysa6q/target_propagation_a_biologically_plausible/)
 - [nuclear-calculator program: emcalc](https://www.reddit.com/r/Python/comments/1lyq4en/nuclearcalculator_program_emcalc/)
 - [Master Modern Backend Development: Python, SQL &amp; PostgreSQL From Scratch &lpar;limited time&rpar;](https://www.reddit.com/r/Python/comments/1lymoz7/master_modern_backend_development_python_sql/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1lyevp5/sunday_daily_thread_whats_everyone_working_on/)
-- [shenzi: A greedy python standalone bundler](https://www.reddit.com/r/Python/comments/1lybxrk/shenzi_a_greedy_python_standalone_bundler/)
 <!-- BLOG-POST-LIST:END -->
