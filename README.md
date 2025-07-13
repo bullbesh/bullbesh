@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Seeking 2 Technical Co-Founders &lpar;Equity&rpar; - Build AI Navigation for Africa’s Cities](https://www.reddit.com/r/Python/comments/1lyomyb/seeking_2_technical_cofounders_equity_build_ai/)
 - [Master Modern Backend Development: Python, SQL &amp; PostgreSQL From Scratch &lpar;limited time&rpar;](https://www.reddit.com/r/Python/comments/1lymoz7/master_modern_backend_development_python_sql/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1lyevp5/sunday_daily_thread_whats_everyone_working_on/)
 - [shenzi: A greedy python standalone bundler](https://www.reddit.com/r/Python/comments/1lybxrk/shenzi_a_greedy_python_standalone_bundler/)
 - [Mentoring a junior developer](https://www.reddit.com/r/Python/comments/1lybwgi/mentoring_a_junior_developer/)
-- [Extracting Stock Picks from YouTube with LLMs and MLLMs &lpar;Full Pipeline + Dataset + Backtesting&rpar;](https://www.reddit.com/r/Python/comments/1lybpk1/extracting_stock_picks_from_youtube_with_llms_and/)
 <!-- BLOG-POST-LIST:END -->
