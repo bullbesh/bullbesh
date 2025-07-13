@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built a 3D rotating cube in Python using Pygame over a weekend](https://www.reddit.com/r/Python/comments/1lyx18w/built_a_3d_rotating_cube_in_python_using_pygame/)
+- [🚀 Just released Snorq — an async URL sniffer &amp; uptime monitor built with Python, aiohttp, and async](https://www.reddit.com/r/Python/comments/1lywy5l/just_released_snorq_an_async_url_sniffer_uptime/)
+- [Python&#39;s concurrency options seem inadequate for my project](https://www.reddit.com/r/Python/comments/1lyw6dy/pythons_concurrency_options_seem_inadequate_for/)
+- [New To The Programming World](https://www.reddit.com/r/Python/comments/1lyvspk/new_to_the_programming_world/)
 - [MatrixTransformer – A Unified Framework for Matrix Transformations &lpar;GitHub + Research Paper&rpar;](https://www.reddit.com/r/Python/comments/1lyu44k/matrixtransformer_a_unified_framework_for_matrix/)
-- [Need Suggestions](https://www.reddit.com/r/Python/comments/1lyt883/need_suggestions/)
-- [Target Propagation: A Biologically Plausible Neural Network Training Algorithm](https://www.reddit.com/r/Python/comments/1lysa6q/target_propagation_a_biologically_plausible/)
-- [nuclear-calculator program: emcalc](https://www.reddit.com/r/Python/comments/1lyq4en/nuclearcalculator_program_emcalc/)
-- [Master Modern Backend Development: Python, SQL &amp; PostgreSQL From Scratch &lpar;limited time&rpar;](https://www.reddit.com/r/Python/comments/1lymoz7/master_modern_backend_development_python_sql/)
 <!-- BLOG-POST-LIST:END -->
