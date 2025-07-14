@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a Python tool that exports speedrun.com leaderboards to CSV/JSON](https://www.reddit.com/r/Python/comments/1lzvtnk/i_built_a_python_tool_that_exports_speedruncom/)
 - [A Flexbox Style Layout Manager for py5 &lpar;Processing for python&rpar;](https://www.reddit.com/r/Python/comments/1lzubo6/a_flexbox_style_layout_manager_for_py5_processing/)
 - [loadfig - One-liner pyproject.toml config loader. Lightweight, simple, and VCS-aware &lpar;git, hg, svn&rpar;](https://www.reddit.com/r/Python/comments/1lzr991/loadfig_oneliner_pyprojecttoml_config_loader/)
 - [MeineRE v2.0.0 is out — Regex CLI tool with new dynamic widgets and a cleaner terminal experience.](https://www.reddit.com/r/Python/comments/1lzo7o1/meinere_v200_is_out_regex_cli_tool_with_new/)
 - [Yet another AI protocol 😅](https://www.reddit.com/r/Python/comments/1lzky85/yet_another_ai_protocol/)
-- [🖥️ KumaTray - A native Uptime Kuma monitor for your Windows System Tray &lpar;forget the browser&rpar;.](https://www.reddit.com/r/Python/comments/1lzjre4/kumatray_a_native_uptime_kuma_monitor_for_your/)
 <!-- BLOG-POST-LIST:END -->
