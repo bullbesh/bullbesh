@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [loadfig - One-liner pyproject.toml config loader. Lightweight, simple, and VCS-aware &lpar;git, hg, svn&rpar;](https://www.reddit.com/r/Python/comments/1lzr991/loadfig_oneliner_pyprojecttoml_config_loader/)
 - [MeineRE v2.0.0 is out — Regex CLI tool with new dynamic widgets and a cleaner terminal experience.](https://www.reddit.com/r/Python/comments/1lzo7o1/meinere_v200_is_out_regex_cli_tool_with_new/)
 - [Yet another AI protocol 😅](https://www.reddit.com/r/Python/comments/1lzky85/yet_another_ai_protocol/)
 - [🖥️ KumaTray - A native Uptime Kuma monitor for your Windows System Tray &lpar;forget the browser&rpar;.](https://www.reddit.com/r/Python/comments/1lzjre4/kumatray_a_native_uptime_kuma_monitor_for_your/)
 - [Updated Document Intelligence Framework Benchmarks](https://www.reddit.com/r/Python/comments/1lzfz3o/updated_document_intelligence_framework_benchmarks/)
-- [what are the basic training for Python?](https://www.reddit.com/r/Python/comments/1lzec8r/what_are_the_basic_training_for_python/)
 <!-- BLOG-POST-LIST:END -->
