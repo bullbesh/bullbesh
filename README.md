@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [NuCS: blazing fast constraint solving in pure Python !](https://www.reddit.com/r/Python/comments/1m0ko63/nucs_blazing_fast_constraint_solving_in_pure/)
+- [Window management application &lpar;mainly&rpar; for ultrawide monitors](https://www.reddit.com/r/Python/comments/1m0j7k9/window_management_application_mainly_for/)
 - [Rackmail - Rackspace Hosted Email API Tool](https://www.reddit.com/r/Python/comments/1m0izse/rackmail_rackspace_hosted_email_api_tool/)
 - [🚀 Django Smart Ratelimit v0.7.0 - The Only Rate Limiting Library You&#39;ll Ever Need](https://www.reddit.com/r/Python/comments/1m0iuoh/django_smart_ratelimit_v070_the_only_rate/)
 - [Showcasing projects looking for opinions](https://www.reddit.com/r/Python/comments/1m0f5o5/showcasing_projects_looking_for_opinions/)
-- [Commodities Forecasting](https://www.reddit.com/r/Python/comments/1m0e7us/commodities_forecasting/)
-- [Creating an Open source platform for students as a project want team or any random peoples.](https://www.reddit.com/r/Python/comments/1m0aqop/creating_an_open_source_platform_for_students_as/)
 <!-- BLOG-POST-LIST:END -->
