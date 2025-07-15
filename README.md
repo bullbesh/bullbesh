@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Tired of forgetting local git changes? now gits-statuses is also on pypi!!](https://www.reddit.com/r/Python/comments/1m0mkvh/tired_of_forgetting_local_git_changes_now/)
+- [What&#39;s with this random surge in vibe coded OSS shared in this sub?](https://www.reddit.com/r/Python/comments/1m0srzd/whats_with_this_random_surge_in_vibe_coded_oss/)
+- [Vulcan 1.2 Released: AI-Hybrid Rules Engine now with Explainability Reports](https://www.reddit.com/r/Python/comments/1m0red6/vulcan_12_released_aihybrid_rules_engine_now_with/)
+- [Modern Python Tooling &lpar;How I intend to teach python next year&rpar;.](https://www.reddit.com/r/Python/comments/1m0rdy1/modern_python_tooling_how_i_intend_to_teach/)
 - [Python rpg dragons lair title/graphics pending](https://www.reddit.com/r/Python/comments/1m0m6v4/python_rpg_dragons_lair_titlegraphics_pending/)
 - [NuCS: blazing fast constraint solving in pure Python !](https://www.reddit.com/r/Python/comments/1m0ko63/nucs_blazing_fast_constraint_solving_in_pure/)
-- [Window management application &lpar;mainly&rpar; for ultrawide monitors](https://www.reddit.com/r/Python/comments/1m0j7k9/window_management_application_mainly_for/)
-- [Rackmail - Rackspace Hosted Email API Tool](https://www.reddit.com/r/Python/comments/1m0izse/rackmail_rackspace_hosted_email_api_tool/)
 <!-- BLOG-POST-LIST:END -->
