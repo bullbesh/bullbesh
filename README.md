@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tired of forgetting local git changes? now gits-statuses is also on pypi!!](https://www.reddit.com/r/Python/comments/1m0mkvh/tired_of_forgetting_local_git_changes_now/)
 - [Python rpg dragons lair title/graphics pending](https://www.reddit.com/r/Python/comments/1m0m6v4/python_rpg_dragons_lair_titlegraphics_pending/)
 - [NuCS: blazing fast constraint solving in pure Python !](https://www.reddit.com/r/Python/comments/1m0ko63/nucs_blazing_fast_constraint_solving_in_pure/)
 - [Window management application &lpar;mainly&rpar; for ultrawide monitors](https://www.reddit.com/r/Python/comments/1m0j7k9/window_management_application_mainly_for/)
 - [Rackmail - Rackspace Hosted Email API Tool](https://www.reddit.com/r/Python/comments/1m0izse/rackmail_rackspace_hosted_email_api_tool/)
-- [🚀 Django Smart Ratelimit v0.7.0 - The Only Rate Limiting Library You&#39;ll Ever Need](https://www.reddit.com/r/Python/comments/1m0iuoh/django_smart_ratelimit_v070_the_only_rate/)
 <!-- BLOG-POST-LIST:END -->
