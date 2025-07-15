@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My python app is slow, Any tips for optimizing it?](https://www.reddit.com/r/Python/comments/1m0ekg2/my_python_app_is_slow_any_tips_for_optimizing_it/)
+- [Commodities Forecasting](https://www.reddit.com/r/Python/comments/1m0e7us/commodities_forecasting/)
 - [Creating an Open source platform for students as a project want team or any random peoples.](https://www.reddit.com/r/Python/comments/1m0aqop/creating_an_open_source_platform_for_students_as/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1m02uac/tuesday_daily_thread_advanced_questions/)
 - [Type hints helped my job interview](https://www.reddit.com/r/Python/comments/1m01h82/type_hints_helped_my_job_interview/)
-- [I built a Python tool that exports speedrun.com leaderboards to CSV/JSON](https://www.reddit.com/r/Python/comments/1lzvtnk/i_built_a_python_tool_that_exports_speedruncom/)
-- [A Flexbox Style Layout Manager for py5 &lpar;Processing for python&rpar;](https://www.reddit.com/r/Python/comments/1lzubo6/a_flexbox_style_layout_manager_for_py5_processing/)
 <!-- BLOG-POST-LIST:END -->
