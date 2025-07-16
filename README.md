@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling Race Conditions in Python Without Inbuilt Libraries &lpar;DSA Interview&rpar;](https://www.reddit.com/r/Python/comments/1m130ur/handling_race_conditions_in_python_without/)
 - [Why do engineers still prefer MATLAB over Python?](https://www.reddit.com/r/Python/comments/1m0tg55/why_do_engineers_still_prefer_matlab_over_python/)
 - [What&#39;s with this random surge in vibe coded OSS shared in this sub?](https://www.reddit.com/r/Python/comments/1m0srzd/whats_with_this_random_surge_in_vibe_coded_oss/)
 - [Vulcan 1.2 Released: AI-Hybrid Rules Engine now with Explainability Reports](https://www.reddit.com/r/Python/comments/1m0red6/vulcan_12_released_aihybrid_rules_engine_now_with/)
 - [Modern Python Tooling &lpar;How I intend to teach python next year&rpar;.](https://www.reddit.com/r/Python/comments/1m0rdy1/modern_python_tooling_how_i_intend_to_teach/)
-- [Python rpg dragons lair title/graphics pending](https://www.reddit.com/r/Python/comments/1m0m6v4/python_rpg_dragons_lair_titlegraphics_pending/)
 <!-- BLOG-POST-LIST:END -->
