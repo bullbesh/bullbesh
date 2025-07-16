@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Concurrent and Parallel in Python – Guide with Real Examples](https://www.reddit.com/r/Python/comments/1m17kxd/concurrent_and_parallel_in_python_guide_with_real/)
 - [[Discussion] Advanced Web scraping Bypass techniques](https://www.reddit.com/r/Python/comments/1m1429i/discussion_advanced_web_scraping_bypass_techniques/)
 - [Handling Race Conditions in Python Without Inbuilt Libraries &lpar;DSA Interview&rpar;](https://www.reddit.com/r/Python/comments/1m130ur/handling_race_conditions_in_python_without/)
 - [Why do engineers still prefer MATLAB over Python?](https://www.reddit.com/r/Python/comments/1m0tg55/why_do_engineers_still_prefer_matlab_over_python/)
 - [What&#39;s with this random surge in vibe coded OSS shared in this sub?](https://www.reddit.com/r/Python/comments/1m0srzd/whats_with_this_random_surge_in_vibe_coded_oss/)
-- [Vulcan 1.2 Released: AI-Hybrid Rules Engine now with Explainability Reports](https://www.reddit.com/r/Python/comments/1m0red6/vulcan_12_released_aihybrid_rules_engine_now_with/)
 <!-- BLOG-POST-LIST:END -->
