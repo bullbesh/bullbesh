@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [finqual: get financial data and conduct comparable company analysis &lpar;no restrictions!&rpar;](https://www.reddit.com/r/Python/comments/1m1rea2/finqual_get_financial_data_and_conduct_comparable/)
 - [Why the hell you write Python packages for free?](https://www.reddit.com/r/Python/comments/1m1ochs/why_the_hell_you_write_python_packages_for_free/)
 - [Introducing Anytype: local and collaborative database with API and MCP server](https://www.reddit.com/r/Python/comments/1m1e0p7/introducing_anytype_local_and_collaborative/)
 - [[Discussion] Advanced Web scraping Bypass techniques](https://www.reddit.com/r/Python/comments/1m1429i/discussion_advanced_web_scraping_bypass_techniques/)
 - [Handling Race Conditions in Python Without Inbuilt Libraries &lpar;DSA Interview&rpar;](https://www.reddit.com/r/Python/comments/1m130ur/handling_race_conditions_in_python_without/)
-- [Why do engineers still prefer MATLAB over Python?](https://www.reddit.com/r/Python/comments/1m0tg55/why_do_engineers_still_prefer_matlab_over_python/)
 <!-- BLOG-POST-LIST:END -->
