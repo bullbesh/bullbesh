@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Uber Eats Account Generator Showcase &lpar;requested based, asyncio + curl_cffi&rpar;](https://www.reddit.com/r/Python/comments/1m24tsg/uber_eats_account_generator_showcase_requested/)
 - [Give me some guide to start refactoring existing&lpar;spring&rpar; project to Django](https://www.reddit.com/r/Python/comments/1m21a3k/give_me_some_guide_to_start_refactoring/)
 - [Electronics organizer label maker for brother p-touch printers](https://www.reddit.com/r/Python/comments/1m1wbrv/electronics_organizer_label_maker_for_brother/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1m1sqda/thursday_daily_thread_python_careers_courses_and/)
 - [APandasAI - cloud processing, advice](https://www.reddit.com/r/Python/comments/1m1skqx/apandasai_cloud_processing_advice/)
-- [finqual: get financial data and conduct comparable company analysis &lpar;no restrictions!&rpar;](https://www.reddit.com/r/Python/comments/1m1rea2/finqual_get_financial_data_and_conduct_comparable/)
 <!-- BLOG-POST-LIST:END -->
