@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Benchstreet: the stock prediction model benchmark.](https://www.reddit.com/r/Python/comments/1m3eylm/benchstreet_the_stock_prediction_model_benchmark/)
 - [Showcase: Recursive Functions To Piss Off Your CS Professor](https://www.reddit.com/r/Python/comments/1m3bowq/showcase_recursive_functions_to_piss_off_your_cs/)
 - [🦊 Framefox - Second Round of Improvements on our Framework !](https://www.reddit.com/r/Python/comments/1m376zc/framefox_second_round_of_improvements_on_our/)
 - [The % string formatting is faster?](https://www.reddit.com/r/Python/comments/1m34s6e/the_string_formatting_is_faster/)
 - [Project visualization tool](https://www.reddit.com/r/Python/comments/1m33676/project_visualization_tool/)
-- [[OC] Project Infinity: A script to procedurally generate TTRPG worlds for an AI Game Master.](https://www.reddit.com/r/Python/comments/1m31ipy/oc_project_infinity_a_script_to_procedurally/)
 <!-- BLOG-POST-LIST:END -->
