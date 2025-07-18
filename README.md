@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s a good visualization library with Jupiter notebooks](https://www.reddit.com/r/Python/comments/1m3g2cp/whats_a_good_visualization_library_with_jupiter/)
 - [Benchstreet: the stock prediction model benchmark.](https://www.reddit.com/r/Python/comments/1m3eylm/benchstreet_the_stock_prediction_model_benchmark/)
 - [Showcase: Recursive Functions To Piss Off Your CS Professor](https://www.reddit.com/r/Python/comments/1m3bowq/showcase_recursive_functions_to_piss_off_your_cs/)
 - [🦊 Framefox - Second Round of Improvements on our Framework !](https://www.reddit.com/r/Python/comments/1m376zc/framefox_second_round_of_improvements_on_our/)
 - [The % string formatting is faster?](https://www.reddit.com/r/Python/comments/1m34s6e/the_string_formatting_is_faster/)
-- [Project visualization tool](https://www.reddit.com/r/Python/comments/1m33676/project_visualization_tool/)
 <!-- BLOG-POST-LIST:END -->
