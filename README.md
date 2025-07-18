@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1m2nhdx/friday_daily_thread_rpython_meta_and_freetalk/)
+- [NLP Recommendations](https://www.reddit.com/r/Python/comments/1m2mrzu/nlp_recommendations/)
 - [[Showcase] UTCP: a safer, more scalable tool-calling alternative to MCP](https://www.reddit.com/r/Python/comments/1m2kpet/showcase_utcp_a_safer_more_scalable_toolcalling/)
 - [Would a tool that auto-translates all strings in your Python project &lpar;via ZIP upload&rpar; be useful?](https://www.reddit.com/r/Python/comments/1m2iflb/would_a_tool_that_autotranslates_all_strings_in/)
 - [🧠 Using Python + Web Scraping + ChatGPT to Summarize and Visualize Data](https://www.reddit.com/r/Python/comments/1m2eb3m/using_python_web_scraping_chatgpt_to_summarize/)
-- [XPINN Toolkit - Project](https://www.reddit.com/r/Python/comments/1m2d9s0/xpinn_toolkit_project/)
-- [Use UV to manage things on google colab](https://www.reddit.com/r/Python/comments/1m2ch9h/use_uv_to_manage_things_on_google_colab/)
 <!-- BLOG-POST-LIST:END -->
