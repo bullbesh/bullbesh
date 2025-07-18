@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Just released v1.0.0 of my DataProcessor! &lpar;GUI &amp; more!&rpar;](https://www.reddit.com/r/Python/comments/1m2xw90/just_released_v100_of_my_dataprocessor_gui_more/)
+- [[OC] Project Infinity: A script to procedurally generate TTRPG worlds for an AI Game Master.](https://www.reddit.com/r/Python/comments/1m31ipy/oc_project_infinity_a_script_to_procedurally/)
+- [New Python Dependency Injection &amp; AOP &amp; Microservice Framework Aspyx](https://www.reddit.com/r/Python/comments/1m319je/new_python_dependency_injection_aop_microservice/)
+- [Hands-On BCI Projects with MATLAB &amp; Python – Real EEG Signal Processing + Code Examples](https://www.reddit.com/r/Python/comments/1m30sxo/handson_bci_projects_with_matlab_python_real_eeg/)
 - [How to get live F1 Data?](https://www.reddit.com/r/Python/comments/1m2w516/how_to_get_live_f1_data/)
 - [What is the most elegant python code you have seen?](https://www.reddit.com/r/Python/comments/1m2uuzs/what_is_the_most_elegant_python_code_you_have_seen/)
-- [🚀 iFetch v3.0 – Bulk download your iCloud Drive files and folders with a simple command line tool](https://www.reddit.com/r/Python/comments/1m2rbiw/ifetch_v30_bulk_download_your_icloud_drive_files/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1m2nhdx/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
