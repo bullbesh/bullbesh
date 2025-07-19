@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[News] Artificial Intelligence Media Festival Accepting Python-Powered Creative Submissions](https://www.reddit.com/r/Python/comments/1m43rsx/news_artificial_intelligence_media_festival/)
 - [Making Abstract Function without ABC. Is this right approach ? what am i lagging?](https://www.reddit.com/r/Python/comments/1m3zo6n/making_abstract_function_without_abc_is_this/)
 - [Web x Desktop Python Lib with Routing, Theming, Components, LifecycleHooks made with Pyside6 FastAPI](https://www.reddit.com/r/Python/comments/1m3yo65/web_x_desktop_python_lib_with_routing_theming/)
 - [What’s one Python package you discovered recently that instantly made your life easier?](https://www.reddit.com/r/Python/comments/1m3wk5e/whats_one_python_package_you_discovered_recently/)
 - [Suggest Projects](https://www.reddit.com/r/Python/comments/1m3txd3/suggest_projects/)
-- [Test your knowledge of f-strings](https://www.reddit.com/r/Python/comments/1m3tmro/test_your_knowledge_of_fstrings/)
 <!-- BLOG-POST-LIST:END -->
