@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Test your knowledge of f-strings](https://www.reddit.com/r/Python/comments/1m3tmro/test_your_knowledge_of_fstrings/)
+- [My journey to scale a Python service to handle dozens of thousands rps](https://www.reddit.com/r/Python/comments/1m3t5dv/my_journey_to_scale_a_python_service_to_handle/)
 - [cA2A: A command-line utility for interacting with A2A agents.](https://www.reddit.com/r/Python/comments/1m3pca6/ca2a_a_commandline_utility_for_interacting_with/)
 - [Streamline ‘realtime’ dashboard](https://www.reddit.com/r/Python/comments/1m3o8q5/streamline_realtime_dashboard/)
 - [Hello everyone....](https://www.reddit.com/r/Python/comments/1m3lgss/hello_everyone/)
-- [My first experience with Python](https://www.reddit.com/r/Python/comments/1m3l6hf/my_first_experience_with_python/)
-- [Type annotated parser combinator package with dataclass integration &lpar;Parmancer&rpar;](https://www.reddit.com/r/Python/comments/1m3l5y1/type_annotated_parser_combinator_package_with/)
 <!-- BLOG-POST-LIST:END -->
