@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello everyone....](https://www.reddit.com/r/Python/comments/1m3lgss/hello_everyone/)
+- [My first experience with Python](https://www.reddit.com/r/Python/comments/1m3l6hf/my_first_experience_with_python/)
+- [Type annotated parser combinator package with dataclass integration &lpar;Parmancer&rpar;](https://www.reddit.com/r/Python/comments/1m3l5y1/type_annotated_parser_combinator_package_with/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1m3i04u/saturday_daily_thread_resource_request_and/)
 - [[Quiz] How well do you know f-strings? &lpar;made by Armin Ronacher&rpar;](https://www.reddit.com/r/Python/comments/1m3hei1/quiz_how_well_do_you_know_fstrings_made_by_armin/)
-- [What&#39;s a good visualization library with Jupiter notebooks](https://www.reddit.com/r/Python/comments/1m3g2cp/whats_a_good_visualization_library_with_jupiter/)
-- [Benchstreet: the stock prediction model benchmark.](https://www.reddit.com/r/Python/comments/1m3eylm/benchstreet_the_stock_prediction_model_benchmark/)
-- [Showcase: Recursive Functions To Piss Off Your CS Professor](https://www.reddit.com/r/Python/comments/1m3bowq/showcase_recursive_functions_to_piss_off_your_cs/)
 <!-- BLOG-POST-LIST:END -->
