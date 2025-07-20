@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [UA-Extract - Easy way to keep user-agent parsing updated](https://www.reddit.com/r/Python/comments/1m5157j/uaextract_easy_way_to_keep_useragent_parsing/)
 - [I need information](https://www.reddit.com/r/Python/comments/1m4yczu/i_need_information/)
 - [Anyone interested](https://www.reddit.com/r/Python/comments/1m4rk7w/anyone_interested/)
 - [Using asyncio for cooperative concurrency](https://www.reddit.com/r/Python/comments/1m4qz35/using_asyncio_for_cooperative_concurrency/)
 - [Is type hints as valuable / expected in py as typescript?](https://www.reddit.com/r/Python/comments/1m4ofoe/is_type_hints_as_valuable_expected_in_py_as/)
-- [How AI is Sharpening My Python Skills: Beyond Basic Code Generation for Real Problems](https://www.reddit.com/r/Python/comments/1m4o31x/how_ai_is_sharpening_my_python_skills_beyond/)
 <!-- BLOG-POST-LIST:END -->
