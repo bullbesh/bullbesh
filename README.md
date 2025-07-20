@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Detect LLM hallucinations using state-of-the-art uncertainty quantification techniques with UQLM](https://www.reddit.com/r/Python/comments/1m4bawg/detect_llm_hallucinations_using_stateoftheart/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1m4avkf/sunday_daily_thread_whats_everyone_working_on/)
+- [Function Coaster: A pygame based graphing game](https://www.reddit.com/r/Python/comments/1m4ahyj/function_coaster_a_pygame_based_graphing_game/)
 - [What are some libraries i should learn to use?](https://www.reddit.com/r/Python/comments/1m46zf1/what_are_some_libraries_i_should_learn_to_use/)
 - [PyCharm IDE problems](https://www.reddit.com/r/Python/comments/1m45ekc/pycharm_ide_problems/)
-- [[News] Artificial Intelligence Media Festival Accepting Python-Powered Creative Submissions](https://www.reddit.com/r/Python/comments/1m43rsx/news_artificial_intelligence_media_festival/)
-- [Making Abstract Function without ABC. Is this right approach ? what am i lagging?](https://www.reddit.com/r/Python/comments/1m3zo6n/making_abstract_function_without_abc_is_this/)
-- [Web x Desktop Python Lib with Routing, Theming, Components, LifecycleHooks made with Pyside6 FastAPI](https://www.reddit.com/r/Python/comments/1m3yo65/web_x_desktop_python_lib_with_routing_theming/)
 <!-- BLOG-POST-LIST:END -->
