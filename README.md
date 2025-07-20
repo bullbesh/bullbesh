@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is type hints as valuable / expected in py as typescript?](https://www.reddit.com/r/Python/comments/1m4ofoe/is_type_hints_as_valuable_expected_in_py_as/)
 - [How AI is Sharpening My Python Skills: Beyond Basic Code Generation for Real Problems](https://www.reddit.com/r/Python/comments/1m4o31x/how_ai_is_sharpening_my_python_skills_beyond/)
 - [KvDeveloper Client – Expo Go for Kivy on Android](https://www.reddit.com/r/Python/comments/1m4nul8/kvdeveloper_client_expo_go_for_kivy_on_android/)
 - [Integrated my RSI strategy into an automated system and finally seeing consistent results in India](https://www.reddit.com/r/Python/comments/1m4kwdf/integrated_my_rsi_strategy_into_an_automated/)
 - [Building Indian algo strategies inspired by lesser-known quant books—anyone else tried this path?](https://www.reddit.com/r/Python/comments/1m4ksex/building_indian_algo_strategies_inspired_by/)
-- [Trying out a new approach in Indian algo trading—what do you think?](https://www.reddit.com/r/Python/comments/1m4kofv/trying_out_a_new_approach_in_indian_algo/)
 <!-- BLOG-POST-LIST:END -->
