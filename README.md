@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🚨 Update on Dispytch: Just Got Dynamic Topics — Event Handling Leveled Up](https://www.reddit.com/r/Python/comments/1m5ri4n/update_on_dispytch_just_got_dynamic_topics_event/)
 - [I turned my Git workflow into a little RPG with levels and achievements](https://www.reddit.com/r/Python/comments/1m5q8ao/i_turned_my_git_workflow_into_a_little_rpg_with/)
 - [Which is better for a text cleaning pipeline in Python: unified function signatures vs. custom ones?](https://www.reddit.com/r/Python/comments/1m5m4gz/which_is_better_for_a_text_cleaning_pipeline_in/)
 - [Is it ok to use Pandas in Production code?](https://www.reddit.com/r/Python/comments/1m5lm8e/is_it_ok_to_use_pandas_in_production_code/)
 - [Prefered way to structure polars expressions in large project?](https://www.reddit.com/r/Python/comments/1m5jcot/prefered_way_to_structure_polars_expressions_in/)
-- [Looking for a volume breakout stocks scanner for Indian algo trading—any recommendations or tips?](https://www.reddit.com/r/Python/comments/1m5e2i7/looking_for_a_volume_breakout_stocks_scanner_for/)
 <!-- BLOG-POST-LIST:END -->
