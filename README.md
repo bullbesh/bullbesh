@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sifaka: Simple AI text improvement using research-backed critique &lpar;open source&rpar;](https://www.reddit.com/r/Python/comments/1m59s5f/sifaka_simple_ai_text_improvement_using/)
 - [Timder Bot Swipe and Bumble](https://www.reddit.com/r/Python/comments/1m55jmj/timder_bot_swipe_and_bumble/)
 - [Introducing async_obj: a minimalist way to make any function asynchronous](https://www.reddit.com/r/Python/comments/1m54hyp/introducing_async_obj_a_minimalist_way_to_make/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1m543e5/monday_daily_thread_project_ideas/)
 - [UA-Extract - Easy way to keep user-agent parsing updated](https://www.reddit.com/r/Python/comments/1m5157j/uaextract_easy_way_to_keep_useragent_parsing/)
-- [I need information](https://www.reddit.com/r/Python/comments/1m4yczu/i_need_information/)
 <!-- BLOG-POST-LIST:END -->
