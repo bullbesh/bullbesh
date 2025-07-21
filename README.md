@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Timder Bot Swipe and Bumble](https://www.reddit.com/r/Python/comments/1m55jmj/timder_bot_swipe_and_bumble/)
+- [Introducing async_obj: a minimalist way to make any function asynchronous](https://www.reddit.com/r/Python/comments/1m54hyp/introducing_async_obj_a_minimalist_way_to_make/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1m543e5/monday_daily_thread_project_ideas/)
 - [UA-Extract - Easy way to keep user-agent parsing updated](https://www.reddit.com/r/Python/comments/1m5157j/uaextract_easy_way_to_keep_useragent_parsing/)
 - [I need information](https://www.reddit.com/r/Python/comments/1m4yczu/i_need_information/)
-- [Anyone interested](https://www.reddit.com/r/Python/comments/1m4rk7w/anyone_interested/)
-- [Using asyncio for cooperative concurrency](https://www.reddit.com/r/Python/comments/1m4qz35/using_asyncio_for_cooperative_concurrency/)
-- [Is type hints as valuable / expected in py as typescript?](https://www.reddit.com/r/Python/comments/1m4ofoe/is_type_hints_as_valuable_expected_in_py_as/)
 <!-- BLOG-POST-LIST:END -->
