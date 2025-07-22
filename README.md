@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ever got that feeling?](https://www.reddit.com/r/Python/comments/1m69kf8/ever_got_that_feeling/)
 - [Should i improve my code](https://www.reddit.com/r/Python/comments/1m69iwl/should_i_improve_my_code/)
 - [Check a Python Project for Unused or Duplicate Imports with py-check-imports](https://www.reddit.com/r/Python/comments/1m68lqi/check_a_python_project_for_unused_or_duplicate/)
 - [My company finally got Claude-Code!](https://www.reddit.com/r/Python/comments/1m6773a/my_company_finally_got_claudecode/)
 - [I just finished building Boron, a CLI-based schema-bound JSON manager. Please check it out! Thanks!](https://www.reddit.com/r/Python/comments/1m64xh8/i_just_finished_building_boron_a_clibased/)
-- [PEP 798 – Unpacking in Comprehensions](https://www.reddit.com/r/Python/comments/1m607oi/pep_798_unpacking_in_comprehensions/)
 <!-- BLOG-POST-LIST:END -->
