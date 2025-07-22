@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Showcase]: RunPy: A Python playground for Mac, Windows and Linux](https://www.reddit.com/r/Python/comments/1m6ec0b/showcase_runpy_a_python_playground_for_mac/)
+- [Avoiding boilerplate by using immutable default arguments](https://www.reddit.com/r/Python/comments/1m6drdk/avoiding_boilerplate_by_using_immutable_default/)
 - [KWRepr: Customizable Keyword-Style __repr__ Generator for Python Classes](https://www.reddit.com/r/Python/comments/1m6bzol/kwrepr_customizable_keywordstyle_repr_generator/)
 - [Automated a NIFTY breakout strategy after months of manual trading](https://www.reddit.com/r/Python/comments/1m6brgz/automated_a_nifty_breakout_strategy_after_months/)
 - [Basic SLAM with LiDAR](https://www.reddit.com/r/Python/comments/1m6bdzl/basic_slam_with_lidar/)
-- [Ever got that feeling?](https://www.reddit.com/r/Python/comments/1m69kf8/ever_got_that_feeling/)
-- [Check a Python Project for Unused or Duplicate Imports with py-check-imports](https://www.reddit.com/r/Python/comments/1m68lqi/check_a_python_project_for_unused_or_duplicate/)
 <!-- BLOG-POST-LIST:END -->
