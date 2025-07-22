@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Wii tanks made in Python](https://www.reddit.com/r/Python/comments/1m6lzvk/wii_tanks_made_in_python/)
 - [[Tool] virtual-uv: Make `uv` respect your conda/venv environments with zero configuration](https://www.reddit.com/r/Python/comments/1m6jucz/tool_virtualuv_make_uv_respect_your_condavenv/)
 - [minify-tw-html: Easier minification of HTML/CSS/JS and optionally Tailwind v4](https://www.reddit.com/r/Python/comments/1m6j9bs/minifytwhtml_easier_minification_of_htmlcssjs_and/)
 - [Using Python to get on the leaderboard of The Farmer Was Replaced](https://www.reddit.com/r/Python/comments/1m6hzcb/using_python_to_get_on_the_leaderboard_of_the/)
 - [Extracting clean web data with Parsel + Python – here’s how I’m doing it &lpar;and why I’m sticki](https://www.reddit.com/r/Python/comments/1m6gzko/extracting_clean_web_data_with_parsel_python/)
-- [Anyone else doing production Python at a C++ company? Here&#39;s how we won hearts and minds.](https://www.reddit.com/r/Python/comments/1m6g0jx/anyone_else_doing_production_python_at_a_c/)
 <!-- BLOG-POST-LIST:END -->
