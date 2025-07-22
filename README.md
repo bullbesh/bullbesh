@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Python to get on the leaderboard of The Farmer Was Replaced](https://www.reddit.com/r/Python/comments/1m6hzcb/using_python_to_get_on_the_leaderboard_of_the/)
 - [Extracting clean web data with Parsel + Python – here’s how I’m doing it &lpar;and why I’m sticki](https://www.reddit.com/r/Python/comments/1m6gzko/extracting_clean_web_data_with_parsel_python/)
 - [Anyone else doing production Python at a C++ company? Here&#39;s how we won hearts and minds.](https://www.reddit.com/r/Python/comments/1m6g0jx/anyone_else_doing_production_python_at_a_c/)
 - [[Showcase] Time tracker built with Python + CustomTkinter - lives in system tray &amp; logs to Excel](https://www.reddit.com/r/Python/comments/1m6fgwk/showcase_time_tracker_built_with_python/)
 - [[Showcase]: RunPy: A Python playground for Mac, Windows and Linux](https://www.reddit.com/r/Python/comments/1m6ec0b/showcase_runpy_a_python_playground_for_mac/)
-- [Avoiding boilerplate by using immutable default arguments](https://www.reddit.com/r/Python/comments/1m6drdk/avoiding_boilerplate_by_using_immutable_default/)
 <!-- BLOG-POST-LIST:END -->
