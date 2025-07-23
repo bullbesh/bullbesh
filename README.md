@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django or Flash for backend](https://www.reddit.com/r/Python/comments/1m76i1b/django_or_flash_for_backend/)
 - [Rule-based execution keeps my trades consistent and emotion-free in Indian markets.](https://www.reddit.com/r/Python/comments/1m731l5/rulebased_execution_keeps_my_trades_consistent/)
 - [London: Looking for Python devs to join competitive trading algo teams](https://www.reddit.com/r/Python/comments/1m72jwl/london_looking_for_python_devs_to_join/)
 - [Lumocards-One: Information System](https://www.reddit.com/r/Python/comments/1m6yuj0/lumocardsone_information_system/)
 - [uvhow: Get uv upgrade instructions for your uv install](https://www.reddit.com/r/Python/comments/1m6vqel/uvhow_get_uv_upgrade_instructions_for_your_uv/)
-- [Superfunctions: solving the problem of duplication of the Python ecosystem into sync and async halve](https://www.reddit.com/r/Python/comments/1m6rzqv/superfunctions_solving_the_problem_of_duplication/)
 <!-- BLOG-POST-LIST:END -->
