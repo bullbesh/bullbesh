@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Showcase] Resk llm secure your LLM Against Prompt Injection](https://www.reddit.com/r/Python/comments/1m7djw7/showcase_resk_llm_secure_your_llm_against_prompt/)
+- [Built a simple license API for software protection - would love feedback/contributions!](https://www.reddit.com/r/Python/comments/1m7cib1/built_a_simple_license_api_for_software/)
 - [Fun Project Ideas for GitHub’s &quot;For the Love of Code&quot; Hackathon?](https://www.reddit.com/r/Python/comments/1m7ag36/fun_project_ideas_for_githubs_for_the_love_of/)
 - [Rule-based execution keeps my trades consistent and emotion-free in Indian markets.](https://www.reddit.com/r/Python/comments/1m731l5/rulebased_execution_keeps_my_trades_consistent/)
 - [London: Looking for Python devs to join competitive trading algo teams](https://www.reddit.com/r/Python/comments/1m72jwl/london_looking_for_python_devs_to_join/)
-- [Lumocards-One: Information System](https://www.reddit.com/r/Python/comments/1m6yuj0/lumocardsone_information_system/)
-- [uvhow: Get uv upgrade instructions for your uv install](https://www.reddit.com/r/Python/comments/1m6vqel/uvhow_get_uv_upgrade_instructions_for_your_uv/)
 <!-- BLOG-POST-LIST:END -->
