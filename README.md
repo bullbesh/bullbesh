@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [uvhow: Get uv upgrade instructions for your uv install](https://www.reddit.com/r/Python/comments/1m6vqel/uvhow_get_uv_upgrade_instructions_for_your_uv/)
 - [Superfunctions: solving the problem of duplication of the Python ecosystem into sync and async halve](https://www.reddit.com/r/Python/comments/1m6rzqv/superfunctions_solving_the_problem_of_duplication/)
 - [Advice needed on coding project!](https://www.reddit.com/r/Python/comments/1m6ow2y/advice_needed_on_coding_project/)
 - [Wii tanks made in Python](https://www.reddit.com/r/Python/comments/1m6lzvk/wii_tanks_made_in_python/)
 - [[Tool] virtual-uv: Make `uv` respect your conda/venv environments with zero configuration](https://www.reddit.com/r/Python/comments/1m6jucz/tool_virtualuv_make_uv_respect_your_condavenv/)
-- [minify-tw-html: Easier minification of HTML/CSS/JS and optionally Tailwind v4](https://www.reddit.com/r/Python/comments/1m6j9bs/minifytwhtml_easier_minification_of_htmlcssjs_and/)
 <!-- BLOG-POST-LIST:END -->
