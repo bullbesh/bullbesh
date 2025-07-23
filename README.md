@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [İlk ve Tek Programım : KeyTester](https://www.reddit.com/r/Python/comments/1m7liln/ilk_ve_tek_programım_keytester/)
 - [[Hiring] Senior Data Analyst | Remote &lpar;Canada&rpar;](https://www.reddit.com/r/Python/comments/1m7j7se/hiring_senior_data_analyst_remote_canada/)
 - [Do you save your code written for your job / working hours in your own GitHub repo?](https://www.reddit.com/r/Python/comments/1m7j432/do_you_save_your_code_written_for_your_job/)
 - [treemind: A High-Performance Library for Explaining Tree-Based Models](https://www.reddit.com/r/Python/comments/1m7i7ie/treemind_a_highperformance_library_for_explaining/)
 - [Microsoft Defender Flagging uvx as Suspicious on Work PC](https://www.reddit.com/r/Python/comments/1m7hypm/microsoft_defender_flagging_uvx_as_suspicious_on/)
-- [Spectre - record and visualise radio frequency spectrograms](https://www.reddit.com/r/Python/comments/1m7e6kb/spectre_record_and_visualise_radio_frequency/)
 <!-- BLOG-POST-LIST:END -->
