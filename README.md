@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spectre - record and visualise radio frequency spectrograms](https://www.reddit.com/r/Python/comments/1m7e6kb/spectre_record_and_visualise_radio_frequency/)
 - [[Showcase] Resk llm secure your LLM Against Prompt Injection](https://www.reddit.com/r/Python/comments/1m7djw7/showcase_resk_llm_secure_your_llm_against_prompt/)
 - [Built a simple license API for software protection - would love feedback/contributions!](https://www.reddit.com/r/Python/comments/1m7cib1/built_a_simple_license_api_for_software/)
 - [Fun Project Ideas for GitHub’s &quot;For the Love of Code&quot; Hackathon?](https://www.reddit.com/r/Python/comments/1m7ag36/fun_project_ideas_for_githubs_for_the_love_of/)
 - [Rule-based execution keeps my trades consistent and emotion-free in Indian markets.](https://www.reddit.com/r/Python/comments/1m731l5/rulebased_execution_keeps_my_trades_consistent/)
-- [London: Looking for Python devs to join competitive trading algo teams](https://www.reddit.com/r/Python/comments/1m72jwl/london_looking_for_python_devs_to_join/)
 <!-- BLOG-POST-LIST:END -->
