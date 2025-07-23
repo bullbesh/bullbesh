@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [treemind: A High-Performance Library for Explaining Tree-Based Models](https://www.reddit.com/r/Python/comments/1m7i7ie/treemind_a_highperformance_library_for_explaining/)
+- [Microsoft Defender Flagging uvx as Suspicious on Work PC](https://www.reddit.com/r/Python/comments/1m7hypm/microsoft_defender_flagging_uvx_as_suspicious_on/)
 - [# 🌍 Grid9: Revolutionary 9-Character Coordinate System Now Available in 6 Programming Languages](https://www.reddit.com/r/Python/comments/1m7gzag/grid9_revolutionary_9character_coordinate_system/)
 - [Spectre - record and visualise radio frequency spectrograms](https://www.reddit.com/r/Python/comments/1m7e6kb/spectre_record_and_visualise_radio_frequency/)
 - [[Showcase] Resk llm secure your LLM Against Prompt Injection](https://www.reddit.com/r/Python/comments/1m7djw7/showcase_resk_llm_secure_your_llm_against_prompt/)
-- [Built a simple license API for software protection - would love feedback/contributions!](https://www.reddit.com/r/Python/comments/1m7cib1/built_a_simple_license_api_for_software/)
-- [Fun Project Ideas for GitHub’s &quot;For the Love of Code&quot; Hackathon?](https://www.reddit.com/r/Python/comments/1m7ag36/fun_project_ideas_for_githubs_for_the_love_of/)
 <!-- BLOG-POST-LIST:END -->
