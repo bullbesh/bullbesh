@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Faster Hash Tables](https://www.reddit.com/r/Python/comments/1m80qml/faster_hash_tables/)
+- [Scalar product with lists as coordinates](https://www.reddit.com/r/Python/comments/1m7zw86/scalar_product_with_lists_as_coordinates/)
 - [SAP Consultant looking for career advice](https://www.reddit.com/r/Python/comments/1m7z9c2/sap_consultant_looking_for_career_advice/)
 - [Installation problems with dlib](https://www.reddit.com/r/Python/comments/1m7xyvx/installation_problems_with_dlib/)
 - [Sharing my package for LLM context maker/helper, installs with pipx &lpar;which is fabulous btw&rpar;](https://www.reddit.com/r/Python/comments/1m7vnie/sharing_my_package_for_llm_context_makerhelper/)
-- [Python versions in AWS Lambda vs Lambda Layers](https://www.reddit.com/r/Python/comments/1m7pphe/python_versions_in_aws_lambda_vs_lambda_layers/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1m7pfb4/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
