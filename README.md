@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a very modular framework for RAG setup in some lines of code](https://www.reddit.com/r/Python/comments/1m83lc7/i_built_a_very_modular_framework_for_rag_setup_in/)
+- [Flask-Nova – A Lightweight Extension to Modernize Flask API Development](https://www.reddit.com/r/Python/comments/1m82flz/flasknova_a_lightweight_extension_to_modernize/)
 - [Does it have a name? Weird spiral shape I made with the turtle module in Python](https://www.reddit.com/r/Python/comments/1m81n93/does_it_have_a_name_weird_spiral_shape_i_made/)
 - [Open-source Python library for explicit entropic bias correction in measurement – feedback welcome](https://www.reddit.com/r/Python/comments/1m80zeb/opensource_python_library_for_explicit_entropic/)
 - [Scalar product with lists as coordinates](https://www.reddit.com/r/Python/comments/1m7zw86/scalar_product_with_lists_as_coordinates/)
-- [SAP Consultant looking for career advice](https://www.reddit.com/r/Python/comments/1m7z9c2/sap_consultant_looking_for_career_advice/)
-- [Installation problems with dlib](https://www.reddit.com/r/Python/comments/1m7xyvx/installation_problems_with_dlib/)
 <!-- BLOG-POST-LIST:END -->
