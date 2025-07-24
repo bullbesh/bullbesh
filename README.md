@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Faster Hash Tables](https://www.reddit.com/r/Python/comments/1m80qml/faster_hash_tables/)
+- [Does it have a name? Weird spiral shape I made with the turtle module in Python](https://www.reddit.com/r/Python/comments/1m81n93/does_it_have_a_name_weird_spiral_shape_i_made/)
+- [Open-source Python library for explicit entropic bias correction in measurement – feedback welcome](https://www.reddit.com/r/Python/comments/1m80zeb/opensource_python_library_for_explicit_entropic/)
 - [Scalar product with lists as coordinates](https://www.reddit.com/r/Python/comments/1m7zw86/scalar_product_with_lists_as_coordinates/)
 - [SAP Consultant looking for career advice](https://www.reddit.com/r/Python/comments/1m7z9c2/sap_consultant_looking_for_career_advice/)
 - [Installation problems with dlib](https://www.reddit.com/r/Python/comments/1m7xyvx/installation_problems_with_dlib/)
-- [Sharing my package for LLM context maker/helper, installs with pipx &lpar;which is fabulous btw&rpar;](https://www.reddit.com/r/Python/comments/1m7vnie/sharing_my_package_for_llm_context_makerhelper/)
 <!-- BLOG-POST-LIST:END -->
