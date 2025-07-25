@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1m8kf09/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Thoughts on Cinder, performance-oriented version of Python powering Instagram](https://www.reddit.com/r/Python/comments/1m8ir4e/thoughts_on_cinder_performanceoriented_version_of/)
 - [spamfilter: The super easy, yet highly advanced all-rounder for spam filtering](https://www.reddit.com/r/Python/comments/1m8gqr9/spamfilter_the_super_easy_yet_highly_advanced/)
 - [I&#39;m building an &quot;API as a service&quot; and want to know how to overcome some challenges.](https://www.reddit.com/r/Python/comments/1m8f2v4/im_building_an_api_as_a_service_and_want_to_know/)
 - [[linux] sh2mp4 - record videos of arbitrary shell scripts](https://www.reddit.com/r/Python/comments/1m8at15/linux_sh2mp4_record_videos_of_arbitrary_shell/)
-- [bad hello world program &lpar;swear world in github link&rpar;, prints &quot;hello, world&quot;](https://www.reddit.com/r/Python/comments/1m8anrk/bad_hello_world_program_swear_world_in_github/)
 <!-- BLOG-POST-LIST:END -->
