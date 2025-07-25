@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Seniority level](https://www.reddit.com/r/Python/comments/1m9808e/seniority_level/)
+- [File configuration question](https://www.reddit.com/r/Python/comments/1m97gzz/file_configuration_question/)
 - [&quot;Edit chart&quot; button in plotly chart studio graphs](https://www.reddit.com/r/Python/comments/1m96z4e/edit_chart_button_in_plotly_chart_studio_graphs/)
 - [Stop trying to catch exceptions when its ok to let your program crash](https://www.reddit.com/r/Python/comments/1m96wmi/stop_trying_to_catch_exceptions_when_its_ok_to/)
 - [Do you document your HTTPExceptions in FastAPI ? If yes how ?](https://www.reddit.com/r/Python/comments/1m96c36/do_you_document_your_httpexceptions_in_fastapi_if/)
-- [MassGen – an open-source multi-agent scaling and orchestration framework](https://www.reddit.com/r/Python/comments/1m95n3w/massgen_an_opensource_multiagent_scaling_and/)
-- [Hello, I have just started my Python journey](https://www.reddit.com/r/Python/comments/1m910ha/hello_i_have_just_started_my_python_journey/)
 <!-- BLOG-POST-LIST:END -->
