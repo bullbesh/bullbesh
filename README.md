@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thinking of making a game in Python | JOIN DISCORD FOR MORE](https://www.reddit.com/r/Python/comments/1m9cc2s/thinking_of_making_a_game_in_python_join_discord/)
 - [Is Tortoise ORM production-ready?](https://www.reddit.com/r/Python/comments/1m9abys/is_tortoise_orm_productionready/)
 - [File configuration question](https://www.reddit.com/r/Python/comments/1m97gzz/file_configuration_question/)
 - [&quot;Edit chart&quot; button in plotly chart studio graphs](https://www.reddit.com/r/Python/comments/1m96z4e/edit_chart_button_in_plotly_chart_studio_graphs/)
 - [Stop trying to catch exceptions when its ok to let your program crash](https://www.reddit.com/r/Python/comments/1m96wmi/stop_trying_to_catch_exceptions_when_its_ok_to/)
-- [Do you document your HTTPExceptions in FastAPI ? If yes how ?](https://www.reddit.com/r/Python/comments/1m96c36/do_you_document_your_httpexceptions_in_fastapi_if/)
 <!-- BLOG-POST-LIST:END -->
