@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [$200 to “Build Machine Learning Systems Using Python”? What Are They Really Teaching?](https://www.reddit.com/r/Python/comments/1m8xaqz/200_to_build_machine_learning_systems_using/)
+- [We Just Open Sourced NeuralAgent: The AI Agent That Lives On Your Desktop and Uses It Like You Do!](https://www.reddit.com/r/Python/comments/1m8wpw2/we_just_open_sourced_neuralagent_the_ai_agent/)
 - [Saw All Those Idle PCs—So I Made a Tool to Use Them](https://www.reddit.com/r/Python/comments/1m8tdi1/saw_all_those_idle_pcsso_i_made_a_tool_to_use_them/)
 - [Pytest.nvim - Neovim plugin to run pytest inside a Docker container &lpar;or outside of it&rpar;](https://www.reddit.com/r/Python/comments/1m8pbus/pytestnvim_neovim_plugin_to_run_pytest_inside_a/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1m8kf09/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Thoughts on Cinder, performance-oriented version of Python powering Instagram](https://www.reddit.com/r/Python/comments/1m8ir4e/thoughts_on_cinder_performanceoriented_version_of/)
-- [spamfilter: The super easy, yet highly advanced all-rounder for spam filtering](https://www.reddit.com/r/Python/comments/1m8gqr9/spamfilter_the_super_easy_yet_highly_advanced/)
 <!-- BLOG-POST-LIST:END -->
