@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Erys: A Terminal Interface for Jupyter Notebooks](https://www.reddit.com/r/Python/comments/1ma0852/erys_a_terminal_interface_for_jupyter_notebooks/)
+- [Karaoke maker python project](https://www.reddit.com/r/Python/comments/1m9zwfh/karaoke_maker_python_project/)
 - [🧠 Maze of Me – A CLI game where your own Google &amp; Spotify data generate emotional rooms and AI NPCs](https://www.reddit.com/r/Python/comments/1m9ypdz/maze_of_me_a_cli_game_where_your_own_google/)
 - [I made a CLI game that pulls your Spotify &amp; Google data to generate emotional rooms and AI NPCs](https://www.reddit.com/r/Python/comments/1m9yj6e/i_made_a_cli_game_that_pulls_your_spotify_google/)
 - [Polylith: a Monorepo Architecture](https://www.reddit.com/r/Python/comments/1m9so08/polylith_a_monorepo_architecture/)
-- [SharedPubSub - A templated library to share data/objects in shared memory accross C++/Python/NodeJS](https://www.reddit.com/r/Python/comments/1m9sn5f/sharedpubsub_a_templated_library_to_share/)
-- [The Only Python Cheat Sheet You Will Ever Need](https://www.reddit.com/r/Python/comments/1m9o70r/the_only_python_cheat_sheet_you_will_ever_need/)
 <!-- BLOG-POST-LIST:END -->
