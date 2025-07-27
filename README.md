@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PAR MCP Inspector TUI v0.2.0 released.](https://www.reddit.com/r/Python/comments/1mapwjr/par_mcp_inspector_tui_v020_released/)
 - [robinzhon: a library for fast and concurrent S3 object downloads](https://www.reddit.com/r/Python/comments/1maocfk/robinzhon_a_library_for_fast_and_concurrent_s3/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ma85ub/sunday_daily_thread_whats_everyone_working_on/)
 - [Is it time for Python 3.26, &lpar;calendar versioning&rpar;?](https://www.reddit.com/r/Python/comments/1ma7h5v/is_it_time_for_python_326_calendar_versioning/)
 - [Any good pygame tutorials?](https://www.reddit.com/r/Python/comments/1ma72k4/any_good_pygame_tutorials/)
-- [Python 3.14: time for a release name?](https://www.reddit.com/r/Python/comments/1ma6dbd/python_314_time_for_a_release_name/)
 <!-- BLOG-POST-LIST:END -->
