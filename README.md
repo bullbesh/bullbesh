@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Como injetar meu projetos python em uma área que eu desejo que meu código atue?](https://www.reddit.com/r/Python/comments/1maaa97/como_injetar_meu_projetos_python_em_uma_área_que/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ma85ub/sunday_daily_thread_whats_everyone_working_on/)
+- [Is it time for Python 3.26, &lpar;calendar versioning&rpar;?](https://www.reddit.com/r/Python/comments/1ma7h5v/is_it_time_for_python_326_calendar_versioning/)
 - [Any good pygame tutorials?](https://www.reddit.com/r/Python/comments/1ma72k4/any_good_pygame_tutorials/)
 - [Python 3.14: time for a release name?](https://www.reddit.com/r/Python/comments/1ma6dbd/python_314_time_for_a_release_name/)
-- [VideoConviction: A Python Codebase for Multimodal Stock Analysis from YouTube Financial Influencers](https://www.reddit.com/r/Python/comments/1ma5vaz/videoconviction_a_python_codebase_for_multimodal/)
-- [Erys: A Terminal Interface for Jupyter Notebooks](https://www.reddit.com/r/Python/comments/1ma0852/erys_a_terminal_interface_for_jupyter_notebooks/)
-- [Karaoke maker python project](https://www.reddit.com/r/Python/comments/1m9zwfh/karaoke_maker_python_project/)
 <!-- BLOG-POST-LIST:END -->
