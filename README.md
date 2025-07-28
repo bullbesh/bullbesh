@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python GUI Framework with Graphs, Animations, Theming, State Binding &amp; Hot Reload built on PySide6](https://www.reddit.com/r/Python/comments/1mbcs0a/a_python_gui_framework_with_graphs_animations/)
 - [IDMUI – Identity Management User Interface for OpenStack Keystone](https://www.reddit.com/r/Python/comments/1mb9c2t/idmui_identity_management_user_interface_for/)
 - [Notepad: Python - A &quot;&quot;&quot;fun&quot;&quot;&quot; coding challenge](https://www.reddit.com/r/Python/comments/1mb7bye/notepad_python_a_fun_coding_challenge/)
 - [I built a Python library to detect AI prompt threats](https://www.reddit.com/r/Python/comments/1mb751j/i_built_a_python_library_to_detect_ai_prompt/)
 - [Looking for advice](https://www.reddit.com/r/Python/comments/1mb2367/looking_for_advice/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1mb1j12/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
