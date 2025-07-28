@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Notepad: Python - A &quot;&quot;&quot;fun&quot;&quot;&quot; coding challenge](https://www.reddit.com/r/Python/comments/1mb7bye/notepad_python_a_fun_coding_challenge/)
 - [I built a Python library to detect AI prompt threats](https://www.reddit.com/r/Python/comments/1mb751j/i_built_a_python_library_to_detect_ai_prompt/)
-- [Need Ideas- Want to build a package that would be ACTUALLY useful for somebody out there](https://www.reddit.com/r/Python/comments/1mb6662/need_ideas_want_to_build_a_package_that_would_be/)
 - [Looking for advice](https://www.reddit.com/r/Python/comments/1mb2367/looking_for_advice/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1mb1j12/monday_daily_thread_project_ideas/)
+- [infinite-craft-gemini: an open source version of Infinite Craft using the Gemini API](https://www.reddit.com/r/Python/comments/1matqbx/infinitecraftgemini_an_open_source_version_of/)
 <!-- BLOG-POST-LIST:END -->
