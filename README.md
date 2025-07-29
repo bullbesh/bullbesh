@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [tinyio: A tiny &lpar;~200 lines&rpar; event loop for Python](https://www.reddit.com/r/Python/comments/1mck8h3/tinyio_a_tiny_200_lines_event_loop_for_python/)
+- [Copyparty - local content sharing / FTP/SFTP/SMB etc](https://www.reddit.com/r/Python/comments/1mcjr34/copyparty_local_content_sharing_ftpsftpsmb_etc/)
 - [BlockDL - Visual neural network builder with instant Python code generation and shape checking](https://www.reddit.com/r/Python/comments/1mcjag3/blockdl_visual_neural_network_builder_with/)
 - [Swanky Python: Jupyter Notebook/Smalltalk/Lisp inspired interactive development](https://www.reddit.com/r/Python/comments/1mchd1i/swanky_python_jupyter_notebooksmalltalklisp/)
 - [program to convert text to MIDI](https://www.reddit.com/r/Python/comments/1mcgwgp/program_to_convert_text_to_midi/)
-- [UV is helping me slowly get rid of bad practices and improve company’s internal tooling.](https://www.reddit.com/r/Python/comments/1mcgsxr/uv_is_helping_me_slowly_get_rid_of_bad_practices/)
-- [Gooey, but with an html frontend](https://www.reddit.com/r/Python/comments/1mcfisa/gooey_but_with_an_html_frontend/)
 <!-- BLOG-POST-LIST:END -->
