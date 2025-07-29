@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python - Looking for a solid online course &lpar;I have basic HTML/CSS/JS knowledge&rpar;](https://www.reddit.com/r/Python/comments/1mcocw9/python_looking_for_a_solid_online_course_i_have/)
+- [Introducing new RAGLight Library feature : chat CLI powered by LangChain! 💬](https://www.reddit.com/r/Python/comments/1mco7pw/introducing_new_raglight_library_feature_chat_cli/)
+- [throttlekit – A Simple Async Rate Limiter for Python](https://www.reddit.com/r/Python/comments/1mco5mk/throttlekit_a_simple_async_rate_limiter_for_python/)
 - [What name do you prefer when importing pyspark.sql.functions?](https://www.reddit.com/r/Python/comments/1mcnjtz/what_name_do_you_prefer_when_importing/)
 - [Celux: Insanely Fast Decoding, Addressing Critiques + Owning my Part](https://www.reddit.com/r/Python/comments/1mcmlgd/celux_insanely_fast_decoding_addressing_critiques/)
-- [Tutorial Recommendation: Building an MCP Server in Python, full stack &lpar;auth, databases, etc...&rpar;](https://www.reddit.com/r/Python/comments/1mcmfhp/tutorial_recommendation_building_an_mcp_server_in/)
-- [tinyio: A tiny &lpar;~200 lines&rpar; event loop for Python](https://www.reddit.com/r/Python/comments/1mck8h3/tinyio_a_tiny_200_lines_event_loop_for_python/)
-- [Copyparty - local content sharing / FTP/SFTP/SMB etc](https://www.reddit.com/r/Python/comments/1mcjr34/copyparty_local_content_sharing_ftpsftpsmb_etc/)
 <!-- BLOG-POST-LIST:END -->
