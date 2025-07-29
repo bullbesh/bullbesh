@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What name do you prefer when importing pyspark.sql.functions?](https://www.reddit.com/r/Python/comments/1mcnjtz/what_name_do_you_prefer_when_importing/)
+- [Celux: Insanely Fast Decoding, Addressing Critiques + Owning my Part](https://www.reddit.com/r/Python/comments/1mcmlgd/celux_insanely_fast_decoding_addressing_critiques/)
 - [Tutorial Recommendation: Building an MCP Server in Python, full stack &lpar;auth, databases, etc...&rpar;](https://www.reddit.com/r/Python/comments/1mcmfhp/tutorial_recommendation_building_an_mcp_server_in/)
 - [tinyio: A tiny &lpar;~200 lines&rpar; event loop for Python](https://www.reddit.com/r/Python/comments/1mck8h3/tinyio_a_tiny_200_lines_event_loop_for_python/)
 - [Copyparty - local content sharing / FTP/SFTP/SMB etc](https://www.reddit.com/r/Python/comments/1mcjr34/copyparty_local_content_sharing_ftpsftpsmb_etc/)
-- [BlockDL - Visual neural network builder with instant Python code generation and shape checking](https://www.reddit.com/r/Python/comments/1mcjag3/blockdl_visual_neural_network_builder_with/)
-- [Swanky Python: Jupyter Notebook/Smalltalk/Lisp inspired interactive development](https://www.reddit.com/r/Python/comments/1mchd1i/swanky_python_jupyter_notebooksmalltalklisp/)
 <!-- BLOG-POST-LIST:END -->
