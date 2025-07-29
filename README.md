@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [BlockDL - Visual neural network builder with instant Python code generation and shape checking](https://www.reddit.com/r/Python/comments/1mcjag3/blockdl_visual_neural_network_builder_with/)
 - [Swanky Python: Jupyter Notebook/Smalltalk/Lisp inspired interactive development](https://www.reddit.com/r/Python/comments/1mchd1i/swanky_python_jupyter_notebooksmalltalklisp/)
 - [program to convert text to MIDI](https://www.reddit.com/r/Python/comments/1mcgwgp/program_to_convert_text_to_midi/)
 - [UV is helping me slowly get rid of bad practices and improve company’s internal tooling.](https://www.reddit.com/r/Python/comments/1mcgsxr/uv_is_helping_me_slowly_get_rid_of_bad_practices/)
 - [Gooey, but with an html frontend](https://www.reddit.com/r/Python/comments/1mcfisa/gooey_but_with_an_html_frontend/)
-- [Just joined a free Santander course that teaches Python](https://www.reddit.com/r/Python/comments/1mc7b5v/just_joined_a_free_santander_course_that_teaches/)
 <!-- BLOG-POST-LIST:END -->
