@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [FastLaunchAPI – A production-ready FastAPI starter with auth, Stripe, background jobs, and more](https://www.reddit.com/r/Python/comments/1mbvb6l/fastlaunchapi_a_productionready_fastapi_starter/)
-- [Infinite python project ideas pool! Free](https://www.reddit.com/r/Python/comments/1mbqsdb/infinite_python_project_ideas_pool_free/)
+- [Run Python scripts on the cloud with uv and Coiled](https://www.reddit.com/r/Python/comments/1mbwnvx/run_python_scripts_on_the_cloud_with_uv_and_coiled/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1mbwkux/tuesday_daily_thread_advanced_questions/)
 - [Be careful on suspicious projects like this](https://www.reddit.com/r/Python/comments/1mbopcc/be_careful_on_suspicious_projects_like_this/)
 - [Ever Wanted to VPN Like in the Movies? Chain Multiple WireGuard Hops Around the World Multi-Hop Wire](https://www.reddit.com/r/Python/comments/1mbkwbn/ever_wanted_to_vpn_like_in_the_movies_chain/)
 - [I&#39;ve created a lightweight tool called &quot;venv-stack&quot; to make it easier to deal with PEP 668](https://www.reddit.com/r/Python/comments/1mbj5ph/ive_created_a_lightweight_tool_called_venvstack/)
