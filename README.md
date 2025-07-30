@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Flask still one of the best options for integrating APIs for AI models?](https://www.reddit.com/r/Python/comments/1mct7ds/is_flask_still_one_of_the_best_options_for/)
+- [Training a &quot;Tab Tab&quot; Code Completion Model for Marimo Notebooks](https://www.reddit.com/r/Python/comments/1mcrj71/training_a_tab_tab_code_completion_model_for/)
+- [Archivey - unified interface for ZIP, TAR, RAR, 7z and more](https://www.reddit.com/r/Python/comments/1mcrerl/archivey_unified_interface_for_zip_tar_rar_7z_and/)
 - [Python - Looking for a solid online course &lpar;I have basic HTML/CSS/JS knowledge&rpar;](https://www.reddit.com/r/Python/comments/1mcocw9/python_looking_for_a_solid_online_course_i_have/)
 - [Introducing new RAGLight Library feature : chat CLI powered by LangChain! 💬](https://www.reddit.com/r/Python/comments/1mco7pw/introducing_new_raglight_library_feature_chat_cli/)
-- [throttlekit – A Simple Async Rate Limiter for Python](https://www.reddit.com/r/Python/comments/1mco5mk/throttlekit_a_simple_async_rate_limiter_for_python/)
-- [What name do you prefer when importing pyspark.sql.functions?](https://www.reddit.com/r/Python/comments/1mcnjtz/what_name_do_you_prefer_when_importing/)
-- [Celux: Insanely Fast Decoding, Addressing Critiques + Owning my Part](https://www.reddit.com/r/Python/comments/1mcmlgd/celux_insanely_fast_decoding_addressing_critiques/)
 <!-- BLOG-POST-LIST:END -->
