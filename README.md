@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [how to run codes more beautiful](https://www.reddit.com/r/Python/comments/1md3jg9/how_to_run_codes_more_beautiful/)
 - [Python Data Engineers: Meet Elusion v3.12.5 - Rust DataFrame Library with Familiar Syntax](https://www.reddit.com/r/Python/comments/1md030c/python_data_engineers_meet_elusion_v3125_rust/)
 - [If you want to use vibe coding, make sure you fully understand the whole project](https://www.reddit.com/r/Python/comments/1md01j6/if_you_want_to_use_vibe_coding_make_sure_you/)
 - [Azure interactions](https://www.reddit.com/r/Python/comments/1mczicz/azure_interactions/)
 - [Is Flask still one of the best options for integrating APIs for AI models?](https://www.reddit.com/r/Python/comments/1mct7ds/is_flask_still_one_of_the_best_options_for/)
-- [Training a &quot;Tab Tab&quot; Code Completion Model for Marimo Notebooks](https://www.reddit.com/r/Python/comments/1mcrj71/training_a_tab_tab_code_completion_model_for/)
 <!-- BLOG-POST-LIST:END -->
