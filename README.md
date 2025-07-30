@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hash table resizing is slow &lpar;O&lpar;n&rpar;&rpar;, so I ran an experiment to see if it&#39;s a bigger problem than hash](https://www.reddit.com/r/Python/comments/1md9iki/hash_table_resizing_is_slow_on_so_i_ran_an/)
+- [`tokenize`: a tip and a trap](https://www.reddit.com/r/Python/comments/1mdag10/tokenize_a_tip_and_a_trap/)
+- [replit &lpar;this guy being able to control hosted accs or smth&rpar;?](https://www.reddit.com/r/Python/comments/1mdaf3c/replit_this_guy_being_able_to_control_hosted_accs/)
 - [Resources to improve Python skills](https://www.reddit.com/r/Python/comments/1md88uh/resources_to_improve_python_skills/)
 - [Introduction to MCP Servers and writing one in Python](https://www.reddit.com/r/Python/comments/1md7brl/introduction_to_mcp_servers_and_writing_one_in/)
 - [AI-Powered Dynamic Rocket Trajectory Planner — Ongoing Open Source Project!](https://www.reddit.com/r/Python/comments/1md70te/aipowered_dynamic_rocket_trajectory_planner/)
-- [Lessons Learned While Trying to Scrape Google Search Results With Python](https://www.reddit.com/r/Python/comments/1md4zmu/lessons_learned_while_trying_to_scrape_google/)
 <!-- BLOG-POST-LIST:END -->
