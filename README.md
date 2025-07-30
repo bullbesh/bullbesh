@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to MCP Servers and writing one in Python](https://www.reddit.com/r/Python/comments/1md7brl/introduction_to_mcp_servers_and_writing_one_in/)
+- [AI-Powered Dynamic Rocket Trajectory Planner — Ongoing Open Source Project!](https://www.reddit.com/r/Python/comments/1md70te/aipowered_dynamic_rocket_trajectory_planner/)
 - [Lessons Learned While Trying to Scrape Google Search Results With Python](https://www.reddit.com/r/Python/comments/1md4zmu/lessons_learned_while_trying_to_scrape_google/)
 - [Export certificate from windows cert store as .pfx](https://www.reddit.com/r/Python/comments/1md48we/export_certificate_from_windows_cert_store_as_pfx/)
 - [how to run codes more beautiful](https://www.reddit.com/r/Python/comments/1md3jg9/how_to_run_codes_more_beautiful/)
-- [Python Data Engineers: Meet Elusion v3.12.5 - Rust DataFrame Library with Familiar Syntax](https://www.reddit.com/r/Python/comments/1md030c/python_data_engineers_meet_elusion_v3125_rust/)
-- [If you want to use vibe coding, make sure you fully understand the whole project](https://www.reddit.com/r/Python/comments/1md01j6/if_you_want_to_use_vibe_coding_make_sure_you/)
 <!-- BLOG-POST-LIST:END -->
