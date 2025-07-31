@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [comver: Commit-only semantic versioning - highly configurable &lpar;path/author filtering&rpar; and tag-free](https://www.reddit.com/r/Python/comments/1me9egq/comver_commitonly_semantic_versioning_highly/)
+- [My DJ style audio thumbnailer is now open source: Xochi Thumbnailer](https://www.reddit.com/r/Python/comments/1me95d2/my_dj_style_audio_thumbnailer_is_now_open_source/)
+- [What is the value of Python over SQL/SAS?](https://www.reddit.com/r/Python/comments/1me8zv2/what_is_the_value_of_python_over_sqlsas/)
 - [YouTube Channel Scraper with ViewStats](https://www.reddit.com/r/Python/comments/1me7h8x/youtube_channel_scraper_with_viewstats/)
 - [Understanding Python&#39;s Data Model](https://www.reddit.com/r/Python/comments/1me3iio/understanding_pythons_data_model/)
-- [Useful django-page-resolver library has been released!](https://www.reddit.com/r/Python/comments/1me2p2c/useful_djangopageresolver_library_has_been/)
-- [datatrees &amp; xdatatrees Release: Improved Forward Reference Handling and New XML Field Types](https://www.reddit.com/r/Python/comments/1mdzcyf/datatrees_xdatatrees_release_improved_forward/)
-- [Real‑world ML course with personalized gamified challenges—feedback wanted on structure &amp; format! 🎓](https://www.reddit.com/r/Python/comments/1mdvynt/realworld_ml_course_with_personalized_gamified/)
 <!-- BLOG-POST-LIST:END -->
