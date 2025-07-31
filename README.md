@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Channel Scraper with ViewStats](https://www.reddit.com/r/Python/comments/1me7h8x/youtube_channel_scraper_with_viewstats/)
 - [Understanding Python&#39;s Data Model](https://www.reddit.com/r/Python/comments/1me3iio/understanding_pythons_data_model/)
 - [Useful django-page-resolver library has been released!](https://www.reddit.com/r/Python/comments/1me2p2c/useful_djangopageresolver_library_has_been/)
 - [datatrees &amp; xdatatrees Release: Improved Forward Reference Handling and New XML Field Types](https://www.reddit.com/r/Python/comments/1mdzcyf/datatrees_xdatatrees_release_improved_forward/)
 - [Real‑world ML course with personalized gamified challenges—feedback wanted on structure &amp; format! 🎓](https://www.reddit.com/r/Python/comments/1mdvynt/realworld_ml_course_with_personalized_gamified/)
-- [Proxy for using LSP in a Docker container](https://www.reddit.com/r/Python/comments/1mdq489/proxy_for_using_lsp_in_a_docker_container/)
 <!-- BLOG-POST-LIST:END -->
