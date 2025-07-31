@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [We have witnessed the last generation of good developers and vibe coding has ruined us](https://www.reddit.com/r/Python/comments/1meftkn/we_have_witnessed_the_last_generation_of_good/)
 - [Compilation vs Bundling: The Real Differences Between Nuitka and PyInstaller](https://www.reddit.com/r/Python/comments/1meeftd/compilation_vs_bundling_the_real_differences/)
 - [comver: Commit-only semantic versioning - highly configurable &lpar;path/author filtering&rpar; and tag-free](https://www.reddit.com/r/Python/comments/1me9egq/comver_commitonly_semantic_versioning_highly/)
 - [My DJ style audio thumbnailer is now open source: Xochi Thumbnailer](https://www.reddit.com/r/Python/comments/1me95d2/my_dj_style_audio_thumbnailer_is_now_open_source/)
 - [What is the value of Python over SQL/SAS?](https://www.reddit.com/r/Python/comments/1me8zv2/what_is_the_value_of_python_over_sqlsas/)
-- [YouTube Channel Scraper with ViewStats](https://www.reddit.com/r/Python/comments/1me7h8x/youtube_channel_scraper_with_viewstats/)
 <!-- BLOG-POST-LIST:END -->
