@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Proxy for using LSP in a Docker container](https://www.reddit.com/r/Python/comments/1mdq489/proxy_for_using_lsp_in_a_docker_container/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1mdmo51/thursday_daily_thread_python_careers_courses_and/)
 - [using the not operation in a python if statement](https://www.reddit.com/r/Python/comments/1mdlsqx/using_the_not_operation_in_a_python_if_statement/)
 - [Step-by-step guide to deploy your FastAPI app using Railway, Dokku on a VPS, or AWS EC2 — with real](https://www.reddit.com/r/Python/comments/1mdkmvd/stepbystep_guide_to_deploy_your_fastapi_app_using/)
 - [Granian 2.5 is out](https://www.reddit.com/r/Python/comments/1mdi14s/granian_25_is_out/)
-- [CLI Tool For Quickly Navigating Your File System &lpar;Arch Linux&rpar;](https://www.reddit.com/r/Python/comments/1mdfeh3/cli_tool_for_quickly_navigating_your_file_system/)
 <!-- BLOG-POST-LIST:END -->
