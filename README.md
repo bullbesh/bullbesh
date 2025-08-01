@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Facial recognition fail](https://www.reddit.com/r/Python/comments/1meputs/facial_recognition_fail/)
+- [is learning flet a python wrapper for flutter a smart move in 2025](https://www.reddit.com/r/Python/comments/1mendp9/is_learning_flet_a_python_wrapper_for_flutter_a/)
 - [Why Python&#39;s deepcopy&lpar;&rpar; is surprisingly slow &lpar;and better alternatives&rpar;](https://www.reddit.com/r/Python/comments/1mehrc0/why_pythons_deepcopy_is_surprisingly_slow_and/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1mehndi/friday_daily_thread_rpython_meta_and_freetalk/)
 - [We have witnessed the last generation of good developers and vibe coding has ruined us](https://www.reddit.com/r/Python/comments/1meftkn/we_have_witnessed_the_last_generation_of_good/)
-- [Compilation vs Bundling: The Real Differences Between Nuitka and PyInstaller](https://www.reddit.com/r/Python/comments/1meeftd/compilation_vs_bundling_the_real_differences/)
-- [comver: Commit-only semantic versioning - highly configurable &lpar;path/author filtering&rpar; and tag-free](https://www.reddit.com/r/Python/comments/1me9egq/comver_commitonly_semantic_versioning_highly/)
 <!-- BLOG-POST-LIST:END -->
