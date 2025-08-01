@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best resources to master Django !](https://www.reddit.com/r/Python/comments/1mf7edh/best_resources_to_master_django/)
 - [Problem with Fastly CDN serving PyPi packages?](https://www.reddit.com/r/Python/comments/1mf6agb/problem_with_fastly_cdn_serving_pypi_packages/)
 - [Pip 25.2: Resumable Downloads By Default](https://www.reddit.com/r/Python/comments/1mf0cnh/pip_252_resumable_downloads_by_default/)
 - [MCP-Agent - Python Open Source Framework for building AI agents with native MCP support](https://www.reddit.com/r/Python/comments/1mf0cih/mcpagent_python_open_source_framework_for/)
 - [Forget metaclasses; Python’s `__init_subclass__` is all you really need](https://www.reddit.com/r/Python/comments/1mevs3i/forget_metaclasses_pythons_init_subclass_is_all/)
-- [I built an open-source code visualizer](https://www.reddit.com/r/Python/comments/1mesqaj/i_built_an_opensource_code_visualizer/)
 <!-- BLOG-POST-LIST:END -->
