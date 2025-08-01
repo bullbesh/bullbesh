@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How we can create voice bot using free API,s ,](https://www.reddit.com/r/Python/comments/1mevi1s/how_we_can_create_voice_bot_using_free_apis/)
 - [I built an open-source code visualizer](https://www.reddit.com/r/Python/comments/1mesqaj/i_built_an_opensource_code_visualizer/)
 - [Facial recognition fail](https://www.reddit.com/r/Python/comments/1meputs/facial_recognition_fail/)
 - [is learning flet a python wrapper for flutter a smart move in 2025](https://www.reddit.com/r/Python/comments/1mendp9/is_learning_flet_a_python_wrapper_for_flutter_a/)
 - [Why Python&#39;s deepcopy&lpar;&rpar; is surprisingly slow &lpar;and better alternatives&rpar;](https://www.reddit.com/r/Python/comments/1mehrc0/why_pythons_deepcopy_is_surprisingly_slow_and/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1mehndi/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
