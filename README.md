@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Showcase] A Fast, File-Based Blog Template Built with Python 3.13 + NiceGUI](https://www.reddit.com/r/Python/comments/1mfve6s/showcase_a_fast_filebased_blog_template_built/)
 - [Http server from scratch on python.](https://www.reddit.com/r/Python/comments/1mfpy4d/http_server_from_scratch_on_python/)
 - [gh-action: mkdocs gh-deploy: Default for --use-directory-urls changed?!](https://www.reddit.com/r/Python/comments/1mfp8iu/ghaction_mkdocs_ghdeploy_default_for/)
 - [Sleek blog engine where posts are written in Markdown &lpar;Flask, markdown, dominate, etc.&rpar;](https://www.reddit.com/r/Python/comments/1mfgydy/sleek_blog_engine_where_posts_are_written_in/)
 - [Cool Python threading library &lpar;coil&rpar;](https://www.reddit.com/r/Python/comments/1mfer0g/cool_python_threading_library_coil/)
-- [What do you test for SQLAlchemy models and Alembic migrations?](https://www.reddit.com/r/Python/comments/1mfdy1m/what_do_you_test_for_sqlalchemy_models_and/)
 <!-- BLOG-POST-LIST:END -->
