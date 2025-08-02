@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Http server from scratch on python.](https://www.reddit.com/r/Python/comments/1mfpy4d/http_server_from_scratch_on_python/)
 - [gh-action: mkdocs gh-deploy: Default for --use-directory-urls changed?!](https://www.reddit.com/r/Python/comments/1mfp8iu/ghaction_mkdocs_ghdeploy_default_for/)
 - [Sleek blog engine where posts are written in Markdown &lpar;Flask, markdown, dominate, etc.&rpar;](https://www.reddit.com/r/Python/comments/1mfgydy/sleek_blog_engine_where_posts_are_written_in/)
 - [Cool Python threading library &lpar;coil&rpar;](https://www.reddit.com/r/Python/comments/1mfer0g/cool_python_threading_library_coil/)
 - [What do you test for SQLAlchemy models and Alembic migrations?](https://www.reddit.com/r/Python/comments/1mfdy1m/what_do_you_test_for_sqlalchemy_models_and/)
-- [But really, why use ‘uv’?](https://www.reddit.com/r/Python/comments/1mfd3ww/but_really_why_use_uv/)
 <!-- BLOG-POST-LIST:END -->
