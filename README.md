@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cool Python threading library &lpar;coil&rpar;](https://www.reddit.com/r/Python/comments/1mfer0g/cool_python_threading_library_coil/)
+- [What do you test for SQLAlchemy models and Alembic migrations?](https://www.reddit.com/r/Python/comments/1mfdy1m/what_do_you_test_for_sqlalchemy_models_and/)
+- [But really, why use ‘uv’?](https://www.reddit.com/r/Python/comments/1mfd3ww/but_really_why_use_uv/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1mfc9h3/saturday_daily_thread_resource_request_and/)
 - [Best resources to master Django !](https://www.reddit.com/r/Python/comments/1mf7edh/best_resources_to_master_django/)
-- [Problem with Fastly CDN serving PyPi packages?](https://www.reddit.com/r/Python/comments/1mf6agb/problem_with_fastly_cdn_serving_pypi_packages/)
-- [Pip 25.2: Resumable Downloads By Default](https://www.reddit.com/r/Python/comments/1mf0cnh/pip_252_resumable_downloads_by_default/)
-- [MCP-Agent - Python Open Source Framework for building AI agents with native MCP support](https://www.reddit.com/r/Python/comments/1mf0cih/mcpagent_python_open_source_framework_for/)
-- [Forget metaclasses; Python’s `__init_subclass__` is all you really need](https://www.reddit.com/r/Python/comments/1mevs3i/forget_metaclasses_pythons_init_subclass_is_all/)
 <!-- BLOG-POST-LIST:END -->
