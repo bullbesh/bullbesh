@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Hex &lt;-&gt; Decimal](https://www.reddit.com/r/Python/comments/1mfxrnn/python_hex_decimal/)
+- [Python Hex to Decimal](https://www.reddit.com/r/Python/comments/1mfy2ba/python_hex_to_decimal/)
 - [Elusion🦎 v3.13.2 is ready to read ALL files from folders 📁 &lpar;Local and SharePoint&rpar;](https://www.reddit.com/r/Python/comments/1mfxk21/elusion_v3132_is_ready_to_read_all_files_from/)
 - [[Showcase] A Fast, File-Based Blog Template Built with Python 3.13 + NiceGUI](https://www.reddit.com/r/Python/comments/1mfve6s/showcase_a_fast_filebased_blog_template_built/)
 - [Http server from scratch on python.](https://www.reddit.com/r/Python/comments/1mfpy4d/http_server_from_scratch_on_python/)
