@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [autopep723: Run Python scripts with automatic dependency management](https://www.reddit.com/r/Python/comments/1mg8thr/autopep723_run_python_scripts_with_automatic/)
-- [Smart Notes - AI-powered note-taking app with Google Gemini integration**](https://www.reddit.com/r/Python/comments/1mg79rn/smart_notes_aipowered_notetaking_app_with_google/)
-- [Built Fixie: AI Agent Debugger using LangChain + Ollama](https://www.reddit.com/r/Python/comments/1mg6cew/built_fixie_ai_agent_debugger_using_langchain/)
-- [I built webpath to eliminate API boilerplate](https://www.reddit.com/r/Python/comments/1mg61fl/i_built_webpath_to_eliminate_api_boilerplate/)
-- [Why python got so popular despite being slow?](https://www.reddit.com/r/Python/comments/1mg5wxg/why_python_got_so_popular_despite_being_slow/)
+- [Introduce DateTime Wrapper to streamline some DateTime features.](https://www.reddit.com/r/Python/comments/1mgiq4w/introduce_datetime_wrapper_to_streamline_some/)
+- [Injectipy: Python DI with explicit scopes instead of global state](https://www.reddit.com/r/Python/comments/1mgi3nx/injectipy_python_di_with_explicit_scopes_instead/)
+- [Python Package Design: API, Dependency and Code Structure](https://www.reddit.com/r/Python/comments/1mggf1e/python_package_design_api_dependency_and_code/)
+- [I used Python for both data generation and UI in a real-time Kafka/Flink analytics project](https://www.reddit.com/r/Python/comments/1mgg0lc/i_used_python_for_both_data_generation_and_ui_in/)
+- [Snob: Only run tests that matter, saving time and resources.](https://www.reddit.com/r/Python/comments/1mgf5mu/snob_only_run_tests_that_matter_saving_time_and/)
 <!-- BLOG-POST-LIST:END -->
