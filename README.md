@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [autopep723: Run Python scripts with automatic dependency management](https://www.reddit.com/r/Python/comments/1mg8thr/autopep723_run_python_scripts_with_automatic/)
 - [Smart Notes - AI-powered note-taking app with Google Gemini integration**](https://www.reddit.com/r/Python/comments/1mg79rn/smart_notes_aipowered_notetaking_app_with_google/)
 - [Built Fixie: AI Agent Debugger using LangChain + Ollama](https://www.reddit.com/r/Python/comments/1mg6cew/built_fixie_ai_agent_debugger_using_langchain/)
 - [I built webpath to eliminate API boilerplate](https://www.reddit.com/r/Python/comments/1mg61fl/i_built_webpath_to_eliminate_api_boilerplate/)
 - [Why python got so popular despite being slow?](https://www.reddit.com/r/Python/comments/1mg5wxg/why_python_got_so_popular_despite_being_slow/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1mg53kt/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
