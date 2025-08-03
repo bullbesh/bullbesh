@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built an Agent Protocol server with FastAPI - open-source LangGraph Platform alternative](https://www.reddit.com/r/Python/comments/1mgoi0f/built_an_agent_protocol_server_with_fastapi/)
 - [How I Spent Hours Cleaning Scraped Data With Pandas &lpar;And What I’d Do Differently Next Time&rpar;](https://www.reddit.com/r/Python/comments/1mgld00/how_i_spent_hours_cleaning_scraped_data_with/)
 - [Would you recommend Litestar or FastAPI for building large scale api in 2025](https://www.reddit.com/r/Python/comments/1mgkwmn/would_you_recommend_litestar_or_fastapi_for/)
 - [Introduce DateTime Wrapper to streamline some DateTime features.](https://www.reddit.com/r/Python/comments/1mgiq4w/introduce_datetime_wrapper_to_streamline_some/)
 - [Injectipy: Python DI with explicit scopes instead of global state](https://www.reddit.com/r/Python/comments/1mgi3nx/injectipy_python_di_with_explicit_scopes_instead/)
-- [Python Package Design: API, Dependency and Code Structure](https://www.reddit.com/r/Python/comments/1mggf1e/python_package_design_api_dependency_and_code/)
 <!-- BLOG-POST-LIST:END -->
