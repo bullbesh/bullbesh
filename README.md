@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [show map made on python](https://www.reddit.com/r/Python/comments/1mg3vl3/show_map_made_on_python/)
-- [Organizicate – A smart Python/Tkinter file organizer app &lpar;fast, open-source, advanced.&rpar;](https://www.reddit.com/r/Python/comments/1mg2abc/organizicate_a_smart_pythontkinter_file_organizer/)
-- [Elusion🦎 v3.13.2 is ready to read ALL files from folders 📁 &lpar;Local and SharePoint&rpar;](https://www.reddit.com/r/Python/comments/1mfxk21/elusion_v3132_is_ready_to_read_all_files_from/)
-- [[Showcase] A Fast, File-Based Blog Template Built with Python 3.13 + NiceGUI](https://www.reddit.com/r/Python/comments/1mfve6s/showcase_a_fast_filebased_blog_template_built/)
-- [Http server from scratch on python.](https://www.reddit.com/r/Python/comments/1mfpy4d/http_server_from_scratch_on_python/)
+- [Smart Notes - AI-powered note-taking app with Google Gemini integration**](https://www.reddit.com/r/Python/comments/1mg79rn/smart_notes_aipowered_notetaking_app_with_google/)
+- [Built Fixie: AI Agent Debugger using LangChain + Ollama](https://www.reddit.com/r/Python/comments/1mg6cew/built_fixie_ai_agent_debugger_using_langchain/)
+- [I built webpath to eliminate API boilerplate](https://www.reddit.com/r/Python/comments/1mg61fl/i_built_webpath_to_eliminate_api_boilerplate/)
+- [Why python got so popular despite being slow?](https://www.reddit.com/r/Python/comments/1mg5wxg/why_python_got_so_popular_despite_being_slow/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1mg53kt/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
