@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Spent Hours Cleaning Scraped Data With Pandas &lpar;And What I’d Do Differently Next Time&rpar;](https://www.reddit.com/r/Python/comments/1mgld00/how_i_spent_hours_cleaning_scraped_data_with/)
+- [Would you recommend Litestar or FastAPI for building large scale api in 2025](https://www.reddit.com/r/Python/comments/1mgkwmn/would_you_recommend_litestar_or_fastapi_for/)
 - [Introduce DateTime Wrapper to streamline some DateTime features.](https://www.reddit.com/r/Python/comments/1mgiq4w/introduce_datetime_wrapper_to_streamline_some/)
 - [Injectipy: Python DI with explicit scopes instead of global state](https://www.reddit.com/r/Python/comments/1mgi3nx/injectipy_python_di_with_explicit_scopes_instead/)
 - [Python Package Design: API, Dependency and Code Structure](https://www.reddit.com/r/Python/comments/1mggf1e/python_package_design_api_dependency_and_code/)
-- [I used Python for both data generation and UI in a real-time Kafka/Flink analytics project](https://www.reddit.com/r/Python/comments/1mgg0lc/i_used_python_for_both_data_generation_and_ui_in/)
-- [Snob: Only run tests that matter, saving time and resources.](https://www.reddit.com/r/Python/comments/1mgf5mu/snob_only_run_tests_that_matter_saving_time_and/)
 <!-- BLOG-POST-LIST:END -->
