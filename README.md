@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ajudinha pra começar python](https://www.reddit.com/r/Python/comments/1mhjoye/ajudinha_pra_começar_python/)
 - [A free goldmine of tutorials for the components you need to create production-level agents Extensive](https://www.reddit.com/r/Python/comments/1mhgs5b/a_free_goldmine_of_tutorials_for_the_components/)
 - [Easy PostgreSQL ORM](https://www.reddit.com/r/Python/comments/1mhg4hr/easy_postgresql_orm/)
 - [Is mutating the iterable of a list comprehension during comprehension intended?](https://www.reddit.com/r/Python/comments/1mhdjdc/is_mutating_the_iterable_of_a_list_comprehension/)
 - [PicTex v1.0 is here: a declarative layout engine for creating images in Python](https://www.reddit.com/r/Python/comments/1mhdbcf/pictex_v10_is_here_a_declarative_layout_engine/)
-- [TELEGRAM PYTHON SIGN-UP](https://www.reddit.com/r/Python/comments/1mhbbk9/telegram_python_signup/)
 <!-- BLOG-POST-LIST:END -->
