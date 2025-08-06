@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Working .py scripts to make my job easier](https://www.reddit.com/r/Python/comments/1mj4zl4/working_py_scripts_to_make_my_job_easier/)
+- [Looking for a reliable way to extract structured data from messy PDFs ?](https://www.reddit.com/r/Python/comments/1mj459n/looking_for_a_reliable_way_to_extract_structured/)
 - [My first cli project](https://www.reddit.com/r/Python/comments/1mj3f0m/my_first_cli_project/)
 - [Pybotchi: Lightweight Intent-Based Agent Builder](https://www.reddit.com/r/Python/comments/1miw2jm/pybotchi_lightweight_intentbased_agent_builder/)
 - [Reading older books](https://www.reddit.com/r/Python/comments/1miw1t9/reading_older_books/)
-- [*Noobie* Created my first &quot;app&quot; today!](https://www.reddit.com/r/Python/comments/1miuohk/noobie_created_my_first_app_today/)
-- [How to build a Google Shopping scraper that actually works](https://www.reddit.com/r/Python/comments/1miljrm/how_to_build_a_google_shopping_scraper_that/)
 <!-- BLOG-POST-LIST:END -->
