@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using AI to convert Perl Power Tools to Python](https://www.reddit.com/r/Python/comments/1mjanx3/using_ai_to_convert_perl_power_tools_to_python/)
+- [I Need a python library that can interact with Google](https://www.reddit.com/r/Python/comments/1mjalk2/i_need_a_python_library_that_can_interact_with/)
 - [I finish my first app with Python/Kivy](https://www.reddit.com/r/Python/comments/1mj5atd/i_finish_my_first_app_with_pythonkivy/)
 - [Working .py scripts to make my job easier](https://www.reddit.com/r/Python/comments/1mj4zl4/working_py_scripts_to_make_my_job_easier/)
 - [Looking for a reliable way to extract structured data from messy PDFs ?](https://www.reddit.com/r/Python/comments/1mj459n/looking_for_a_reliable_way_to_extract_structured/)
-- [Pybotchi: Lightweight Intent-Based Agent Builder](https://www.reddit.com/r/Python/comments/1miw2jm/pybotchi_lightweight_intentbased_agent_builder/)
-- [Reading older books](https://www.reddit.com/r/Python/comments/1miw1t9/reading_older_books/)
 <!-- BLOG-POST-LIST:END -->
