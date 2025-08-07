@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Preventing ZIP parser confusion attacks on Python package installers](https://www.reddit.com/r/Python/comments/1mk5uio/preventing_zip_parser_confusion_attacks_on_python/)
+- [What packages should intermediate Devs know like the back of their hand?](https://www.reddit.com/r/Python/comments/1mk5sk8/what_packages_should_intermediate_devs_know_like/)
 - [Which is better for a new API, FastAPI or Django REST Framework?](https://www.reddit.com/r/Python/comments/1mk2vx5/which_is_better_for_a_new_api_fastapi_or_django/)
 - [pyhnsw = small, fast nearest neighbor embeddings search](https://www.reddit.com/r/Python/comments/1mk2rds/pyhnsw_small_fast_nearest_neighbor_embeddings/)
 - [BLE Beacons in gesture system - recommendations](https://www.reddit.com/r/Python/comments/1mk2huf/ble_beacons_in_gesture_system_recommendations/)
-- [Where do enterprises run analytic python code?](https://www.reddit.com/r/Python/comments/1mk1vc7/where_do_enterprises_run_analytic_python_code/)
-- [Python implementation: Making unreliable AI APIs reliable with asyncio and PostgreSQL](https://www.reddit.com/r/Python/comments/1mk0zr9/python_implementation_making_unreliable_ai_apis/)
 <!-- BLOG-POST-LIST:END -->
