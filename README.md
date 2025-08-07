@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How can you install evt_0 to rstudio ?](https://www.reddit.com/r/Python/comments/1mjlh8x/how_can_you_install_evt_0_to_rstudio/)
 - [Illnesses or Conditions Among Programmers](https://www.reddit.com/r/Python/comments/1mjl843/illnesses_or_conditions_among_programmers/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1mjkyyw/thursday_daily_thread_python_careers_courses_and/)
 - [Why Is It So Difficult to Auto-Upload Videos to TikTok?](https://www.reddit.com/r/Python/comments/1mjfm6o/why_is_it_so_difficult_to_autoupload_videos_to/)
 - [Using AI to convert Perl Power Tools to Python](https://www.reddit.com/r/Python/comments/1mjanx3/using_ai_to_convert_perl_power_tools_to_python/)
+- [I Need a python library that can interact with Google](https://www.reddit.com/r/Python/comments/1mjalk2/i_need_a_python_library_that_can_interact_with/)
 <!-- BLOG-POST-LIST:END -->
