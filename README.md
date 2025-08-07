@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which is better for a new API, FastAPI or Django REST Framework?](https://www.reddit.com/r/Python/comments/1mk2vx5/which_is_better_for_a_new_api_fastapi_or_django/)
+- [pyhnsw = small, fast nearest neighbor embeddings search](https://www.reddit.com/r/Python/comments/1mk2rds/pyhnsw_small_fast_nearest_neighbor_embeddings/)
+- [BLE Beacons in gesture system - recommendations](https://www.reddit.com/r/Python/comments/1mk2huf/ble_beacons_in_gesture_system_recommendations/)
+- [Where do enterprises run analytic python code?](https://www.reddit.com/r/Python/comments/1mk1vc7/where_do_enterprises_run_analytic_python_code/)
 - [Python implementation: Making unreliable AI APIs reliable with asyncio and PostgreSQL](https://www.reddit.com/r/Python/comments/1mk0zr9/python_implementation_making_unreliable_ai_apis/)
-- [Easily Visualize Recursive Function Calls in the Console](https://www.reddit.com/r/Python/comments/1mk0psk/easily_visualize_recursive_function_calls_in_the/)
-- [What python based game engine would you recommend?](https://www.reddit.com/r/Python/comments/1mjw40b/what_python_based_game_engine_would_you_recommend/)
-- [Bytecode for multiple Python versions](https://www.reddit.com/r/Python/comments/1mjw1y0/bytecode_for_multiple_python_versions/)
-- [Illnesses or Conditions Among Programmers](https://www.reddit.com/r/Python/comments/1mjl843/illnesses_or_conditions_among_programmers/)
 <!-- BLOG-POST-LIST:END -->
