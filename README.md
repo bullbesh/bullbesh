@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are the benefits of UV&#39;s build backend?](https://www.reddit.com/r/Python/comments/1mkkoj8/what_are_the_benefits_of_uvs_build_backend/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1mkg85s/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Converting FunctionTrace &lpar;python profiler&rpar; from C to Rust](https://www.reddit.com/r/Python/comments/1mkcspm/converting_functiontrace_python_profiler_from_c/)
 - [Synchrotron - a pure python live audio engine!](https://www.reddit.com/r/Python/comments/1mkaf83/synchrotron_a_pure_python_live_audio_engine/)
 - [Decision paralysis](https://www.reddit.com/r/Python/comments/1mk8u9u/decision_paralysis/)
-- [Preventing ZIP parser confusion attacks on Python package installers](https://www.reddit.com/r/Python/comments/1mk5uio/preventing_zip_parser_confusion_attacks_on_python/)
 <!-- BLOG-POST-LIST:END -->
