@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [BS4 vs Selenium](https://www.reddit.com/r/Python/comments/1mlquvv/bs4_vs_selenium/)
 - [Build a Website Analyzer Using GPT-5 and FastAPI](https://www.reddit.com/r/Python/comments/1mlq781/build_a_website_analyzer_using_gpt5_and_fastapi/)
 - [drf-shapeless-serializers: Escape Django&#39;s Serializer Hell with Dynamic Runtime Magic](https://www.reddit.com/r/Python/comments/1mloud2/drfshapelessserializers_escape_djangos_serializer/)
 - [Turso python API &lpar;SQL API&rpar;](https://www.reddit.com/r/Python/comments/1mlma2a/turso_python_api_sql_api/)
 - [Any youtubers who teach python by creating engaging projects?](https://www.reddit.com/r/Python/comments/1mlk2gm/any_youtubers_who_teach_python_by_creating/)
-- [How to safely run python code in a container so it respects cgroup limits?](https://www.reddit.com/r/Python/comments/1mlj7ce/how_to_safely_run_python_code_in_a_container_so/)
 <!-- BLOG-POST-LIST:END -->
