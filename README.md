@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a lightweight dataset versioning library for Python. I would really appreciate any feedback!](https://www.reddit.com/r/Python/comments/1mlh6g3/i_made_a_lightweight_dataset_versioning_library/)
 - [How weird was your first interaction with Python? I learned Python while writing a C++ module.](https://www.reddit.com/r/Python/comments/1mldov3/how_weird_was_your_first_interaction_with_python/)
 - [Updates on a project I am passionate about- Darnahi](https://www.reddit.com/r/Python/comments/1mlcjsn/updates_on_a_project_i_am_passionate_about_darnahi/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1mlb4if/saturday_daily_thread_resource_request_and/)
 - [Best Python Automation Framework Design courses](https://www.reddit.com/r/Python/comments/1ml6bba/best_python_automation_framework_design_courses/)
-- [Problems scraping Amazon](https://www.reddit.com/r/Python/comments/1mkyegh/problems_scraping_amazon/)
 <!-- BLOG-POST-LIST:END -->
