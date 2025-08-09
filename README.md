@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Recursive Leap of Faith, Explained &lpar;with examples in Python&rpar;](https://www.reddit.com/r/Python/comments/1mlys26/the_recursive_leap_of_faith_explained_with/)
 - [BS4 vs Selenium](https://www.reddit.com/r/Python/comments/1mlquvv/bs4_vs_selenium/)
 - [Build a Website Analyzer Using GPT-5 and FastAPI](https://www.reddit.com/r/Python/comments/1mlq781/build_a_website_analyzer_using_gpt5_and_fastapi/)
 - [drf-shapeless-serializers: Escape Django&#39;s Serializer Hell with Dynamic Runtime Magic](https://www.reddit.com/r/Python/comments/1mloud2/drfshapelessserializers_escape_djangos_serializer/)
 - [Turso python API &lpar;SQL API&rpar;](https://www.reddit.com/r/Python/comments/1mlma2a/turso_python_api_sql_api/)
-- [Any youtubers who teach python by creating engaging projects?](https://www.reddit.com/r/Python/comments/1mlk2gm/any_youtubers_who_teach_python_by_creating/)
 <!-- BLOG-POST-LIST:END -->
