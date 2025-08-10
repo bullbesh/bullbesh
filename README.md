@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go Deh Celebrqations!](https://www.reddit.com/r/Python/comments/1mmmxp1/go_deh_celebrqations/)
+- [Minimal Python secp256k1 + ECDSA implementation](https://www.reddit.com/r/Python/comments/1mmmozq/minimal_python_secp256k1_ecdsa_implementation/)
+- [Using Python + MCP + AI to Access and Process Real-Time Web Data](https://www.reddit.com/r/Python/comments/1mmldxy/using_python_mcp_ai_to_access_and_process/)
 - [Transfer article or note from anywhere to Anki by just copying the content](https://www.reddit.com/r/Python/comments/1mmi5px/transfer_article_or_note_from_anywhere_to_anki_by/)
 - [Simple tool : ImageDraw&lpar;&rpar; UI helper - draw shapes and get x0y0](https://www.reddit.com/r/Python/comments/1mmh9gl/simple_tool_imagedraw_ui_helper_draw_shapes_and/)
-- [Limekit – Build cross-platform GUIs in lua with PySide6](https://www.reddit.com/r/Python/comments/1mmea2j/limekit_build_crossplatform_guis_in_lua_with/)
-- [A puzzling Python program](https://www.reddit.com/r/Python/comments/1mmdyf7/a_puzzling_python_program/)
-- [Kreuzberg v3.11: the ultimate Python text extraction library](https://www.reddit.com/r/Python/comments/1mmcufh/kreuzberg_v311_the_ultimate_python_text/)
 <!-- BLOG-POST-LIST:END -->
