@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyWine - Containerized Wine with Python to test project under Windows environment](https://www.reddit.com/r/Python/comments/1mmow8a/pywine_containerized_wine_with_python_to_test/)
 - [Pybotchi 101: Simple MCP Integration](https://www.reddit.com/r/Python/comments/1mmo3gx/pybotchi_101_simple_mcp_integration/)
 - [Minimal Python secp256k1 + ECDSA implementation](https://www.reddit.com/r/Python/comments/1mmmozq/minimal_python_secp256k1_ecdsa_implementation/)
 - [Using Python + MCP + AI to Access and Process Real-Time Web Data](https://www.reddit.com/r/Python/comments/1mmldxy/using_python_mcp_ai_to_access_and_process/)
 - [Transfer article or note from anywhere to Anki by just copying the content](https://www.reddit.com/r/Python/comments/1mmi5px/transfer_article_or_note_from_anywhere_to_anki_by/)
-- [Simple tool : ImageDraw&lpar;&rpar; UI helper - draw shapes and get x0y0](https://www.reddit.com/r/Python/comments/1mmh9gl/simple_tool_imagedraw_ui_helper_draw_shapes_and/)
 <!-- BLOG-POST-LIST:END -->
