@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Rulez: now also supporting subagents](https://www.reddit.com/r/Python/comments/1mn7b06/airulez_now_also_supporting_subagents/)
 - [SMTP internal server error in fastapi](https://www.reddit.com/r/Python/comments/1mn5ukj/smtp_internal_server_error_in_fastapi/)
 - [I think I messed up badly](https://www.reddit.com/r/Python/comments/1mn1qsn/i_think_i_messed_up_badly/)
 - [VectorDB - In-memory vector database with swappable indexing](https://www.reddit.com/r/Python/comments/1mn0ig1/vectordb_inmemory_vector_database_with_swappable/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1mmy5dl/monday_daily_thread_project_ideas/)
-- [Made a Python technical Document for my FreeCodeCamp html/css task](https://www.reddit.com/r/Python/comments/1mmwps0/made_a_python_technical_document_for_my/)
 <!-- BLOG-POST-LIST:END -->
