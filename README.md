@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tilf - a Pixel Art Editor written with PySide6](https://www.reddit.com/r/Python/comments/1mno2u4/tilf_a_pixel_art_editor_written_with_pyside6/)
 - [I built a tool that uses the &#39;ast&#39; module to auto-generate interactive flowcharts from any Python.](https://www.reddit.com/r/Python/comments/1mngei8/i_built_a_tool_that_uses_the_ast_module_to/)
 - [APIException &lpar;#3 in r/FastAPI pip package flair&rpar; – Fixes Messy JSON Responses &lpar;+0.72 ms&rpar;](https://www.reddit.com/r/Python/comments/1mnf7ss/apiexception_3_in_rfastapi_pip_package_flair/)
 - [So, what happened to pypistats?](https://www.reddit.com/r/Python/comments/1mnaren/so_what_happened_to_pypistats/)
 - [AI-Rulez: now also supporting subagents](https://www.reddit.com/r/Python/comments/1mn7b06/airulez_now_also_supporting_subagents/)
-- [SMTP internal server error in fastapi](https://www.reddit.com/r/Python/comments/1mn5ukj/smtp_internal_server_error_in_fastapi/)
 <!-- BLOG-POST-LIST:END -->
