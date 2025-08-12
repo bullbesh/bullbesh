@@ -12,5 +12,5 @@
 - [pyflowkit-pipeline in one command](https://www.reddit.com/r/Python/comments/1moghs4/pyflowkitpipeline_in_one_command/)
 - [I made a trackpad using python for pc/laptop. Check it out on my channel. #meteorplays](https://www.reddit.com/r/Python/comments/1moe4w2/i_made_a_trackpad_using_python_for_pclaptop_check/)
 - [Bug in Python 3.13 wave module? getnchannels&lpar;&rpar; error on cleanup.](https://www.reddit.com/r/Python/comments/1modnfw/bug_in_python_313_wave_module_getnchannels_error/)
-- [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1modh99/parallel_and_concurrent_programming_in_python_a/)
+- [Subsets of dictionaries should be accessible through multi-key bracket notation.](https://www.reddit.com/r/Python/comments/1moa8dx/subsets_of_dictionaries_should_be_accessible/)
 <!-- BLOG-POST-LIST:END -->
