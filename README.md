@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 802 – Display Syntax for the Empty Set](https://www.reddit.com/r/Python/comments/1mnuan1/pep_802_display_syntax_for_the_empty_set/)
+- [Type hints for variable first mentions - yes/no/sometimes&lpar;when?&rpar;?](https://www.reddit.com/r/Python/comments/1mntk24/type_hints_for_variable_first_mentions/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1mnthov/tuesday_daily_thread_advanced_questions/)
+- [Utilizing CoPilot with Visual Studio](https://www.reddit.com/r/Python/comments/1mnsu70/utilizing_copilot_with_visual_studio/)
 - [I built a tool to auto-transcribe and translate China&#39;s CCTV News](https://www.reddit.com/r/Python/comments/1mnp1st/i_built_a_tool_to_autotranscribe_and_translate/)
-- [JOB RECOMMENDATION](https://www.reddit.com/r/Python/comments/1mnoeqx/job_recommendation/)
-- [Tilf - a Pixel Art Editor written with PySide6](https://www.reddit.com/r/Python/comments/1mno2u4/tilf_a_pixel_art_editor_written_with_pyside6/)
-- [I built a tool that uses the &#39;ast&#39; module to auto-generate interactive flowcharts from any Python.](https://www.reddit.com/r/Python/comments/1mngei8/i_built_a_tool_that_uses_the_ast_module_to/)
-- [APIException &lpar;#3 in r/FastAPI pip package flair&rpar; – Fixes Messy JSON Responses &lpar;+0.72 ms&rpar;](https://www.reddit.com/r/Python/comments/1mnf7ss/apiexception_3_in_rfastapi_pip_package_flair/)
 <!-- BLOG-POST-LIST:END -->
