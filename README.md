@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m creating pythonsaga.dev - A python fantasy learning companion. What do you think?](https://www.reddit.com/r/Python/comments/1mojgpf/im_creating_pythonsagadev_a_python_fantasy/)
 - [pyflowkit-pipeline in one command](https://www.reddit.com/r/Python/comments/1moghs4/pyflowkitpipeline_in_one_command/)
 - [I made a trackpad using python for pc/laptop. Check it out on my channel. #meteorplays](https://www.reddit.com/r/Python/comments/1moe4w2/i_made_a_trackpad_using_python_for_pclaptop_check/)
 - [Bug in Python 3.13 wave module? getnchannels&lpar;&rpar; error on cleanup.](https://www.reddit.com/r/Python/comments/1modnfw/bug_in_python_313_wave_module_getnchannels_error/)
 - [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1modh99/parallel_and_concurrent_programming_in_python_a/)
-- [Can you guess what I&#39;m doing?](https://www.reddit.com/r/Python/comments/1mocutm/can_you_guess_what_im_doing/)
 <!-- BLOG-POST-LIST:END -->
