@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Execute Python Scripts via BLE using your mobile phone](https://www.reddit.com/r/Python/comments/1mpeugb/execute_python_scripts_via_ble_using_your_mobile/)
+- [Astral&#39;s first paid offering announced - pyx, a private package registry and pypi frontend](https://www.reddit.com/r/Python/comments/1mperw4/astrals_first_paid_offering_announced_pyx_a/)
 - [Made a CLI tool - pingsweeper](https://www.reddit.com/r/Python/comments/1mpdlvv/made_a_cli_tool_pingsweeper/)
 - [Master Modern Backend Development: Python, SQL &amp; PostgreSQL From Scratch &lpar;limited time&rpar;](https://www.reddit.com/r/Python/comments/1mpb4ri/master_modern_backend_development_python_sql/)
 - [Potty - A CLI tool to download Spotify and youtube music using yt-dlp](https://www.reddit.com/r/Python/comments/1mp7nd1/potty_a_cli_tool_to_download_spotify_and_youtube/)
-- [FT8Decoder - A Library for the Parsing and Enrichment of FT8 Radio Messages](https://www.reddit.com/r/Python/comments/1mp4w8k/ft8decoder_a_library_for_the_parsing_and/)
-- [How Python Is Powering the Next Wave of Data Freelancing &amp; AI Work](https://www.reddit.com/r/Python/comments/1movwtt/how_python_is_powering_the_next_wave_of_data/)
 <!-- BLOG-POST-LIST:END -->
