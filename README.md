@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [DataCompose: Bringing shadcn&#39;s copy-to-own pattern to data engineering](https://www.reddit.com/r/Python/comments/1mq0v3w/datacompose_bringing_shadcns_copytoown_pattern_to/)
+- [LLMs love Python so much. It‘s not necessarily a good thing.](https://www.reddit.com/r/Python/comments/1mq38ht/llms_love_python_so_much_its_not_necessarily_a/)
+- [Tasklin - A single CLI to experiment with multiple AI models](https://www.reddit.com/r/Python/comments/1mq324g/tasklin_a_single_cli_to_experiment_with_multiple/)
 - [Master Modern Backend Development: Python, SQL &amp; PostgreSQL From Scratch &lpar;limited time&rpar;](https://www.reddit.com/r/Python/comments/1mpvy6p/master_modern_backend_development_python_sql/)
 - [Tool that converts assembly code into Minecraft command blocks](https://www.reddit.com/r/Python/comments/1mptj7m/tool_that_converts_assembly_code_into_minecraft/)
 - [Python 3.13 REPL keyboard mappings/shortcuts/bindings](https://www.reddit.com/r/Python/comments/1mplowa/python_313_repl_keyboard_mappingsshortcutsbindings/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1mpkzoc/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
