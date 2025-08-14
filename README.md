@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [We rewrote our ingest pipeline from Python to Go — here’s what we learned](https://www.reddit.com/r/Python/comments/1mqf3e6/we_rewrote_our_ingest_pipeline_from_python_to_go/)
+- [Compiled Python Questions into a Quiz](https://www.reddit.com/r/Python/comments/1mqej2w/compiled_python_questions_into_a_quiz/)
 - [I built a terminal-based BitTorrent client in Python — Torrcli](https://www.reddit.com/r/Python/comments/1mq5r48/i_built_a_terminalbased_bittorrent_client_in/)
 - [LLMs love Python so much. It‘s not necessarily a good thing.](https://www.reddit.com/r/Python/comments/1mq38ht/llms_love_python_so_much_its_not_necessarily_a/)
 - [Tasklin - A single CLI to experiment with multiple AI models](https://www.reddit.com/r/Python/comments/1mq324g/tasklin_a_single_cli_to_experiment_with_multiple/)
-- [Tool that converts assembly code into Minecraft command blocks](https://www.reddit.com/r/Python/comments/1mptj7m/tool_that_converts_assembly_code_into_minecraft/)
-- [Python 3.13 REPL keyboard mappings/shortcuts/bindings](https://www.reddit.com/r/Python/comments/1mplowa/python_313_repl_keyboard_mappingsshortcutsbindings/)
 <!-- BLOG-POST-LIST:END -->
