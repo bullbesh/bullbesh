@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Master Modern Backend Development: Python, SQL &amp; PostgreSQL From Scratch &lpar;limited time&rpar;](https://www.reddit.com/r/Python/comments/1mpvy6p/master_modern_backend_development_python_sql/)
 - [Tool that converts assembly code into Minecraft command blocks](https://www.reddit.com/r/Python/comments/1mptj7m/tool_that_converts_assembly_code_into_minecraft/)
 - [Just released gupsup – a secure, terminal-based real-time chat app. Feedback welcome!](https://www.reddit.com/r/Python/comments/1mpsnmt/just_released_gupsup_a_secure_terminalbased/)
 - [Python 3.13 REPL keyboard mappings/shortcuts/bindings](https://www.reddit.com/r/Python/comments/1mplowa/python_313_repl_keyboard_mappingsshortcutsbindings/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1mpkzoc/thursday_daily_thread_python_careers_courses_and/)
-- [AskOra - one CLI to talk to OpenAI, Ollama, and more &lpar;without losing your mind&rpar;](https://www.reddit.com/r/Python/comments/1mphhr2/askora_one_cli_to_talk_to_openai_ollama_and_more/)
 <!-- BLOG-POST-LIST:END -->
