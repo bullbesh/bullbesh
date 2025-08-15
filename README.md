@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MicroPie version 0.20 released &lpar;ultra micro asgi framework&rpar;](https://www.reddit.com/r/Python/comments/1mqnd7u/micropie_version_020_released_ultra_micro_asgi/)
 - [Python CLI to run multiple AI models, what would you add to make it even more dev-friendly?](https://www.reddit.com/r/Python/comments/1mqixg2/python_cli_to_run_multiple_ai_models_what_would/)
 - [Anyone using VSCode and Behave &lpar;BDD/Cucumber&rpar; test framework?](https://www.reddit.com/r/Python/comments/1mqiucj/anyone_using_vscode_and_behave_bddcucumber_test/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1mqhp24/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Create Music with Wolframs Cellular Automata Rule 30!](https://www.reddit.com/r/Python/comments/1mqh3g5/create_music_with_wolframs_cellular_automata_rule/)
-- [We rewrote our ingest pipeline from Python to Go — here’s what we learned](https://www.reddit.com/r/Python/comments/1mqf3e6/we_rewrote_our_ingest_pipeline_from_python_to_go/)
 <!-- BLOG-POST-LIST:END -->
