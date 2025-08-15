@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [made a python script that connects with League&#39;s Game Client API!](https://www.reddit.com/r/Python/comments/1mr4f7t/made_a_python_script_that_connects_with_leagues/)
 - [What do you expect from a Python build backend in 2025?](https://www.reddit.com/r/Python/comments/1mr3xef/what_do_you_expect_from_a_python_build_backend_in/)
 - [Python library that shrinks text for LLMs by up to 80%](https://www.reddit.com/r/Python/comments/1mr35nv/python_library_that_shrinks_text_for_llms_by_up/)
 - [Counter Strike 2 investment tracker](https://www.reddit.com/r/Python/comments/1mr2yss/counter_strike_2_investment_tracker/)
 - [🌊 PySurf v1.2.0 – Lightweight Python Browser](https://www.reddit.com/r/Python/comments/1mr1vlw/pysurf_v120_lightweight_python_browser/)
-- [Could Python ever get something like C++’s constexpr?](https://www.reddit.com/r/Python/comments/1mqzamk/could_python_ever_get_something_like_cs_constexpr/)
 <!-- BLOG-POST-LIST:END -->
