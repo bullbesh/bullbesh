@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python CLI to run multiple AI models, what would you add to make it even more dev-friendly?](https://www.reddit.com/r/Python/comments/1mqixg2/python_cli_to_run_multiple_ai_models_what_would/)
+- [Anyone using VSCode and Behave &lpar;BDD/Cucumber&rpar; test framework?](https://www.reddit.com/r/Python/comments/1mqiucj/anyone_using_vscode_and_behave_bddcucumber_test/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1mqhp24/friday_daily_thread_rpython_meta_and_freetalk/)
+- [Create Music with Wolframs Cellular Automata Rule 30!](https://www.reddit.com/r/Python/comments/1mqh3g5/create_music_with_wolframs_cellular_automata_rule/)
 - [We rewrote our ingest pipeline from Python to Go — here’s what we learned](https://www.reddit.com/r/Python/comments/1mqf3e6/we_rewrote_our_ingest_pipeline_from_python_to_go/)
-- [Compiled Python Questions into a Quiz](https://www.reddit.com/r/Python/comments/1mqej2w/compiled_python_questions_into_a_quiz/)
-- [I built a terminal-based BitTorrent client in Python — Torrcli](https://www.reddit.com/r/Python/comments/1mq5r48/i_built_a_terminalbased_bittorrent_client_in/)
-- [LLMs love Python so much. It‘s not necessarily a good thing.](https://www.reddit.com/r/Python/comments/1mq38ht/llms_love_python_so_much_its_not_necessarily_a/)
-- [Tasklin - A single CLI to experiment with multiple AI models](https://www.reddit.com/r/Python/comments/1mq324g/tasklin_a_single_cli_to_experiment_with_multiple/)
 <!-- BLOG-POST-LIST:END -->
