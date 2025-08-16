@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1mretmg/saturday_daily_thread_resource_request_and/)
 - [Anyone finished the book Introduction to Computation and Programming using Python?](https://www.reddit.com/r/Python/comments/1mr9cub/anyone_finished_the_book_introduction_to/)
 - [I built harvest-code – package your codebase for LLMs, RAG, massive-context search &amp; visualization](https://www.reddit.com/r/Python/comments/1mr74ad/i_built_harvestcode_package_your_codebase_for/)
 - [made a python script that connects with League&#39;s Game Client API!](https://www.reddit.com/r/Python/comments/1mr4f7t/made_a_python_script_that_connects_with_leagues/)
 - [What do you expect from a Python build backend in 2025?](https://www.reddit.com/r/Python/comments/1mr3xef/what_do_you_expect_from_a_python_build_backend_in/)
-- [🌊 PySurf v1.2.0 – Lightweight Python Browser](https://www.reddit.com/r/Python/comments/1mr1vlw/pysurf_v120_lightweight_python_browser/)
 <!-- BLOG-POST-LIST:END -->
