@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [30 Days of Python, now web!](https://www.reddit.com/r/Python/comments/1mry1bi/30_days_of_python_now_web/)
+- [Why are all the task libraries and frameworks I see so heavy?](https://www.reddit.com/r/Python/comments/1mrxbxc/why_are_all_the_task_libraries_and_frameworks_i/)
 - [Minimal Python Environment Variable Validator – Built Without AI](https://www.reddit.com/r/Python/comments/1mrvawd/minimal_python_environment_variable_validator/)
 - [Knowing a little C, goes a long way in Python](https://www.reddit.com/r/Python/comments/1mrutnf/knowing_a_little_c_goes_a_long_way_in_python/)
 - [pytex - looking for reviews, comments, PRs and/or any criticism](https://www.reddit.com/r/Python/comments/1mruhax/pytex_looking_for_reviews_comments_prs_andor_any/)
-- [HAL 9000 local voice-controlled AI assistant](https://www.reddit.com/r/Python/comments/1mru089/hal_9000_local_voicecontrolled_ai_assistant/)
-- [Python readline completer and command line parser](https://www.reddit.com/r/Python/comments/1mrsylb/python_readline_completer_and_command_line_parser/)
 <!-- BLOG-POST-LIST:END -->
