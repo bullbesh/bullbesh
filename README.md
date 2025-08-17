@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What theme and IDE are you using for Python development?](https://www.reddit.com/r/Python/comments/1mshy89/what_theme_and_ide_are_you_using_for_python/)
 - [Who is building Python tools to support CAD techs or engineers in design?](https://www.reddit.com/r/Python/comments/1mshhu8/who_is_building_python_tools_to_support_cad_techs/)
 - [Meerschaum v3.0 released](https://www.reddit.com/r/Python/comments/1msgnpe/meerschaum_v30_released/)
 - [FxDC&lpar;FedxD Data Container&rpar;](https://www.reddit.com/r/Python/comments/1msgblf/fxdcfedxd_data_container/)
 - [cMCP v0.3.0 released &lpar;A command-line utility for interacting with MCP servers&rpar;](https://www.reddit.com/r/Python/comments/1msgb8u/cmcp_v030_released_a_commandline_utility_for/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1msc4g4/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
