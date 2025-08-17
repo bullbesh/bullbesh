@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Envyte v1.0.0 | A library for using environment variables](https://www.reddit.com/r/Python/comments/1msvufl/envyte_v100_a_library_for_using_environment/)
 - [Am I Fried or Just Overthinking Python?](https://www.reddit.com/r/Python/comments/1msq617/am_i_fried_or_just_overthinking_python/)
 - [Orientación al respecto con que se puede hacer con python](https://www.reddit.com/r/Python/comments/1msozcg/orientación_al_respecto_con_que_se_puede_hacer/)
 - [CDC with Debezium on Real-Time theLook eCommerce Data](https://www.reddit.com/r/Python/comments/1msoeam/cdc_with_debezium_on_realtime_thelook_ecommerce/)
-- [Joma Tech - Where is he now?](https://www.reddit.com/r/Python/comments/1msmun8/joma_tech_where_is_he_now/)
 - [Creating a web application using Python](https://www.reddit.com/r/Python/comments/1msmalu/creating_a_web_application_using_python/)
 <!-- BLOG-POST-LIST:END -->
