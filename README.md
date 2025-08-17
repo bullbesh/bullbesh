@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [D&amp;D twitch bot!](https://www.reddit.com/r/Python/comments/1mt2srw/dd_twitch_bot/)
 - [Sorting Quicker then science allowed: O&lpar;n&rpar;Sort](https://www.reddit.com/r/Python/comments/1mszr6v/sorting_quicker_then_science_allowed_onsort/)
 - [why do people say python is slow but it still powers most of ai and data science](https://www.reddit.com/r/Python/comments/1msyh5h/why_do_people_say_python_is_slow_but_it_still/)
 - [Envyte v1.0.0 | A library for using environment variables](https://www.reddit.com/r/Python/comments/1msvufl/envyte_v100_a_library_for_using_environment/)
 - [Am I Fried or Just Overthinking Python?](https://www.reddit.com/r/Python/comments/1msq617/am_i_fried_or_just_overthinking_python/)
-- [Orientación al respecto con que se puede hacer con python](https://www.reddit.com/r/Python/comments/1msozcg/orientación_al_respecto_con_que_se_puede_hacer/)
 <!-- BLOG-POST-LIST:END -->
