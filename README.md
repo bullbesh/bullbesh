@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meerschaum v3.0 released](https://www.reddit.com/r/Python/comments/1msgnpe/meerschaum_v30_released/)
+- [Open-source Space Exploration Companion](https://www.reddit.com/r/Python/comments/1msgf0m/opensource_space_exploration_companion/)
+- [FxDC&lpar;FedxD Data Container&rpar;](https://www.reddit.com/r/Python/comments/1msgblf/fxdcfedxd_data_container/)
+- [cMCP v0.3.0 released &lpar;A command-line utility for interacting with MCP servers&rpar;](https://www.reddit.com/r/Python/comments/1msgb8u/cmcp_v030_released_a_commandline_utility_for/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1msc4g4/sunday_daily_thread_whats_everyone_working_on/)
-- [Automating GitHub PR merges with Python &lpar;for Pull Shark badge 🦈&rpar;](https://www.reddit.com/r/Python/comments/1msa8tn/automating_github_pr_merges_with_python_for_pull/)
-- [Best way to share SQL/Python query results with external users?](https://www.reddit.com/r/Python/comments/1ms6u7y/best_way_to_share_sqlpython_query_results_with/)
-- [I built a lightweight functional programming toolkit for Python.](https://www.reddit.com/r/Python/comments/1ms54hv/i_built_a_lightweight_functional_programming/)
-- [PySurf v1.3.0 release - A new lightweight open-source Python browser](https://www.reddit.com/r/Python/comments/1ms4m9e/pysurf_v130_release_a_new_lightweight_opensource/)
 <!-- BLOG-POST-LIST:END -->
