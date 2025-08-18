@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [UV python image building does not seem to be completely in sync with python releases](https://www.reddit.com/r/Python/comments/1mtgpa3/uv_python_image_building_does_not_seem_to_be/)
 - [Tuitka - A TUI for Nuitka](https://www.reddit.com/r/Python/comments/1mteev1/tuitka_a_tui_for_nuitka/)
 - [Regarding Sets in Algorithmic thinking](https://www.reddit.com/r/Python/comments/1mtcqe4/regarding_sets_in_algorithmic_thinking/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1mt6qhc/monday_daily_thread_project_ideas/)
 - [What is a Python thing you slept on too long?](https://www.reddit.com/r/Python/comments/1mt5hun/what_is_a_python_thing_you_slept_on_too_long/)
-- [D&amp;D twitch bot!](https://www.reddit.com/r/Python/comments/1mt2srw/dd_twitch_bot/)
 <!-- BLOG-POST-LIST:END -->
