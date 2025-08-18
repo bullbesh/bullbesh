@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-based Synology Photos &quot;lost folder&quot; Thumbnails Generator](https://www.reddit.com/r/Python/comments/1mtr07d/aibased_synology_photos_lost_folder_thumbnails/)
+- [How to tell if this repository is malicious?](https://www.reddit.com/r/Python/comments/1mtqvl6/how_to_tell_if_this_repository_is_malicious/)
 - [A high-level Cloudflare Queues consumer library for Python](https://www.reddit.com/r/Python/comments/1mtivrf/a_highlevel_cloudflare_queues_consumer_library/)
 - [PyNDS: A Python Wrapper for the Nintendo DS Emulator](https://www.reddit.com/r/Python/comments/1mtiihx/pynds_a_python_wrapper_for_the_nintendo_ds/)
 - [UV python image building does not seem to be completely in sync with python releases](https://www.reddit.com/r/Python/comments/1mtgpa3/uv_python_image_building_does_not_seem_to_be/)
-- [Tuitka - A TUI for Nuitka](https://www.reddit.com/r/Python/comments/1mteev1/tuitka_a_tui_for_nuitka/)
-- [Regarding Sets in Algorithmic thinking](https://www.reddit.com/r/Python/comments/1mtcqe4/regarding_sets_in_algorithmic_thinking/)
 <!-- BLOG-POST-LIST:END -->
