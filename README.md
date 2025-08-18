@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;𐑒𐑳𐑥𐑐𐑲𐑤&rpar; / Cumpyl - Python binary analysis and rewriting framework &lpar;Unlicense&rpar;](https://www.reddit.com/r/Python/comments/1mtxd3l/𐑒𐑳𐑥𐑐𐑲𐑤_cumpyl_python_binary_analysis_and/)
+- [I winged a Python SDE role and got it](https://www.reddit.com/r/Python/comments/1mtwt9g/i_winged_a_python_sde_role_and_got_it/)
 - [*Noobie* My Second Project?](https://www.reddit.com/r/Python/comments/1mttoh3/noobie_my_second_project/)
 - [Stockdex: introduce new release](https://www.reddit.com/r/Python/comments/1mtsrl0/stockdex_introduce_new_release/)
 - [AI-based Synology Photos &quot;lost folder&quot; Thumbnails Generator](https://www.reddit.com/r/Python/comments/1mtr07d/aibased_synology_photos_lost_folder_thumbnails/)
-- [How to tell if this repository is malicious?](https://www.reddit.com/r/Python/comments/1mtqvl6/how_to_tell_if_this_repository_is_malicious/)
-- [A high-level Cloudflare Queues consumer library for Python](https://www.reddit.com/r/Python/comments/1mtivrf/a_highlevel_cloudflare_queues_consumer_library/)
 <!-- BLOG-POST-LIST:END -->
