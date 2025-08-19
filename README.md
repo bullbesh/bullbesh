@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PAR CLI TTS v0.2.0 released! 🎉 Major update!](https://www.reddit.com/r/Python/comments/1mulosh/par_cli_tts_v020_released_major_update/)
 - [My first open-source package: feedunify, a tool for fetching and standardizing data feeds.](https://www.reddit.com/r/Python/comments/1mukriv/my_first_opensource_package_feedunify_a_tool_for/)
 - [Swizzle: flexible multi-attribute access in Python](https://www.reddit.com/r/Python/comments/1muhw70/swizzle_flexible_multiattribute_access_in_python/)
 - [UVForge – Interactive Python project generator using uv package manager &lpar;just answer prompts!&rpar;](https://www.reddit.com/r/Python/comments/1mugoi2/uvforge_interactive_python_project_generator/)
 - [PySurf v1.4.1 - Lightweight Python web browser](https://www.reddit.com/r/Python/comments/1mud571/pysurf_v141_lightweight_python_web_browser/)
-- [Substack scraper](https://www.reddit.com/r/Python/comments/1mu9cv8/substack_scraper/)
 <!-- BLOG-POST-LIST:END -->
