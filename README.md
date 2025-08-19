@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [UVForge – Interactive Python project generator using uv package manager &lpar;just answer prompts!&rpar;](https://www.reddit.com/r/Python/comments/1mugoi2/uvforge_interactive_python_project_generator/)
 - [PySurf v1.4.1 - Lightweight Python web browser](https://www.reddit.com/r/Python/comments/1mud571/pysurf_v141_lightweight_python_web_browser/)
 - [Substack scraper](https://www.reddit.com/r/Python/comments/1mu9cv8/substack_scraper/)
 - [Can I make games with python?](https://www.reddit.com/r/Python/comments/1mu8pqh/can_i_make_games_with_python/)
 - [[Release] Syda – Open Source Synthetic Data Generator with AI + SQLAlchemy Support](https://www.reddit.com/r/Python/comments/1mu76pd/release_syda_open_source_synthetic_data_generator/)
-- [M.I.L.O - My Financial Analysis Tool](https://www.reddit.com/r/Python/comments/1mu3v7x/milo_my_financial_analysis_tool/)
 <!-- BLOG-POST-LIST:END -->
