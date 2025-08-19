@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Going 10x faster with Python DataFrames for Analysis and AI with Oracle Database](https://www.reddit.com/r/Python/comments/1muy2z2/going_10x_faster_with_python_dataframes_for/)
 - [Take Stack Overflow’s Survey on Sub-Communities - Option to be Entered into Raffle as a Thank you!](https://www.reddit.com/r/Python/comments/1muwj8j/take_stack_overflows_survey_on_subcommunities/)
 - [Vehicle Routing Problem](https://www.reddit.com/r/Python/comments/1muw4ci/vehicle_routing_problem/)
 - [Software architecture humblebundle](https://www.reddit.com/r/Python/comments/1musaqj/software_architecture_humblebundle/)
 - [I&#39;m building Python for the browser in only ~230 KB &lpar;JS runtime size&rpar;… with built-in AI agents](https://www.reddit.com/r/Python/comments/1murchu/im_building_python_for_the_browser_in_only_230_kb/)
-- [UVE - conda like environment management based on UV](https://www.reddit.com/r/Python/comments/1muqq1i/uve_conda_like_environment_management_based_on_uv/)
 <!-- BLOG-POST-LIST:END -->
