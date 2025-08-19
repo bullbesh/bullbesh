@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Swizzle: flexible multi-attribute access in Python](https://www.reddit.com/r/Python/comments/1muhw70/swizzle_flexible_multiattribute_access_in_python/)
+- [Python Web Template with NiceGUI &amp; UV – Component-Based Boilerplate for Modern Apps](https://www.reddit.com/r/Python/comments/1muhiuz/python_web_template_with_nicegui_uv/)
 - [UVForge – Interactive Python project generator using uv package manager &lpar;just answer prompts!&rpar;](https://www.reddit.com/r/Python/comments/1mugoi2/uvforge_interactive_python_project_generator/)
 - [PySurf v1.4.1 - Lightweight Python web browser](https://www.reddit.com/r/Python/comments/1mud571/pysurf_v141_lightweight_python_web_browser/)
 - [Substack scraper](https://www.reddit.com/r/Python/comments/1mu9cv8/substack_scraper/)
-- [Can I make games with python?](https://www.reddit.com/r/Python/comments/1mu8pqh/can_i_make_games_with_python/)
-- [[Release] Syda – Open Source Synthetic Data Generator with AI + SQLAlchemy Support](https://www.reddit.com/r/Python/comments/1mu76pd/release_syda_open_source_synthetic_data_generator/)
 <!-- BLOG-POST-LIST:END -->
