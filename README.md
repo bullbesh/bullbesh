@@ -12,5 +12,5 @@
 - [Substack scraper](https://www.reddit.com/r/Python/comments/1mu9cv8/substack_scraper/)
 - [Can I make games with python?](https://www.reddit.com/r/Python/comments/1mu8pqh/can_i_make_games_with_python/)
 - [[Release] Syda – Open Source Synthetic Data Generator with AI + SQLAlchemy Support](https://www.reddit.com/r/Python/comments/1mu76pd/release_syda_open_source_synthetic_data_generator/)
-- [Asking for Ideas](https://www.reddit.com/r/Python/comments/1mu5tug/asking_for_ideas/)
+- [M.I.L.O - My Financial Analysis Tool](https://www.reddit.com/r/Python/comments/1mu3v7x/milo_my_financial_analysis_tool/)
 <!-- BLOG-POST-LIST:END -->
