@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python workflows for efficient text data labeling in NLP projects?](https://www.reddit.com/r/Python/comments/1mvhq51/python_workflows_for_efficient_text_data_labeling/)
+- [Backend Data Retrieval System - FastAPI, Flask, or Django?](https://www.reddit.com/r/Python/comments/1mvgztr/backend_data_retrieval_system_fastapi_flask_or/)
 - [Modelling Stock Markets using python](https://www.reddit.com/r/Python/comments/1mvcevc/modelling_stock_markets_using_python/)
 - [FastAPI vs Django REST Framework?](https://www.reddit.com/r/Python/comments/1mvbivi/fastapi_vs_django_rest_framework/)
 - [Any recommendations for Python skill-building + certifications?](https://www.reddit.com/r/Python/comments/1mv92uw/any_recommendations_for_python_skillbuilding/)
-- [Wove: Beautiful Python async](https://www.reddit.com/r/Python/comments/1mv4tyb/wove_beautiful_python_async/)
-- [What tech stack would you use to build something like Armory Crate?](https://www.reddit.com/r/Python/comments/1mv4pv3/what_tech_stack_would_you_use_to_build_something/)
 <!-- BLOG-POST-LIST:END -->
