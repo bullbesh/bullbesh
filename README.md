@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Customizing your IPython shell in Docker and Docker Compose](https://www.reddit.com/r/Python/comments/1mv2wut/customizing_your_ipython_shell_in_docker_and/)
 - [Your opinion about my project](https://www.reddit.com/r/Python/comments/1mv1evo/your_opinion_about_my_project/)
 - [Hexora – static analysis tool for malicious Python scripts](https://www.reddit.com/r/Python/comments/1muyltn/hexora_static_analysis_tool_for_malicious_python/)
 - [Going 10x faster with Python DataFrames for Analysis and AI with Oracle Database](https://www.reddit.com/r/Python/comments/1muy2z2/going_10x_faster_with_python_dataframes_for/)
 - [Take Stack Overflow’s Survey on Sub-Communities - Option to be Entered into Raffle as a Thank you!](https://www.reddit.com/r/Python/comments/1muwj8j/take_stack_overflows_survey_on_subcommunities/)
-- [Vehicle Routing Problem](https://www.reddit.com/r/Python/comments/1muw4ci/vehicle_routing_problem/)
 <!-- BLOG-POST-LIST:END -->
