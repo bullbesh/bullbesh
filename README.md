@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [DSA IN PYTHON OR NOT??](https://www.reddit.com/r/Python/comments/1mw7vux/dsa_in_python_or_not/)
 - [Monkesearch: open source, offline natural language query for local files, with temporal awareness](https://www.reddit.com/r/Python/comments/1mw776v/monkesearch_open_source_offline_natural_language/)
 - [Python freelancing For College](https://www.reddit.com/r/Python/comments/1mw65r2/python_freelancing_for_college/)
-- [Libraries used for DSA in python](https://www.reddit.com/r/Python/comments/1mw2r0r/libraries_used_for_dsa_in_python/)
-- [Customizable PePY badges](https://www.reddit.com/r/Python/comments/1mw1bh0/customizable_pepy_badges/)
+- [I’m creating a UI framework in Python that exports to HTML, CSS, and JavaScript.](https://www.reddit.com/r/Python/comments/1mw0clf/im_creating_a_ui_framework_in_python_that_exports/)
+- [python_sri - A Subresource Integrity hash generator](https://www.reddit.com/r/Python/comments/1mvylz9/python_sri_a_subresource_integrity_hash_generator/)
+- [The last supported Python version for Pytype will be 3.12](https://www.reddit.com/r/Python/comments/1mvxmi5/the_last_supported_python_version_for_pytype_will/)
 <!-- BLOG-POST-LIST:END -->
