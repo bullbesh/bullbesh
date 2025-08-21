@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Day 1 of building an AI debugging tool - tired of cryptic error messages&quot;](https://www.reddit.com/r/Python/comments/1mwdf5g/day_1_of_building_an_ai_debugging_tool_tired_of/)
 - [simple-html 3.0.0 - improved ergonomics and 2x speedup](https://www.reddit.com/r/Python/comments/1mwc0to/simplehtml_300_improved_ergonomics_and_2x_speedup/)
 - [Why are all LLMs consistently wrong on this simple Python function?](https://www.reddit.com/r/Python/comments/1mwbtxr/why_are_all_llms_consistently_wrong_on_this/)
 - [Monkesearch: open source, offline natural language query for local files, with temporal awareness](https://www.reddit.com/r/Python/comments/1mw776v/monkesearch_open_source_offline_natural_language/)
 - [Python freelancing For College](https://www.reddit.com/r/Python/comments/1mw65r2/python_freelancing_for_college/)
-- [I’m creating a UI framework in Python that exports to HTML, CSS, and JavaScript.](https://www.reddit.com/r/Python/comments/1mw0clf/im_creating_a_ui_framework_in_python_that_exports/)
 <!-- BLOG-POST-LIST:END -->
