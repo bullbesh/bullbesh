@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [rovr: a modern, customizable, and aesthetically pleasing terminal file explorer.](https://www.reddit.com/r/Python/comments/1mx7zzj/rovr_a_modern_customizable_and_aesthetically/)
 - [Automatically document SQLAlchemy Databases with Diagrams created with Paracelsus](https://www.reddit.com/r/Python/comments/1mx5xfp/automatically_document_sqlalchemy_databases_with/)
 - [Examples of using UV](https://www.reddit.com/r/Python/comments/1mx53x9/examples_of_using_uv/)
 - [pluau: Python bindings for Luau using PyO3/maturin.](https://www.reddit.com/r/Python/comments/1mx3tlj/pluau_python_bindings_for_luau_using_pyo3maturin/)
 - [I built a car price prediction app with Python + C#](https://www.reddit.com/r/Python/comments/1mx2aqc/i_built_a_car_price_prediction_app_with_python_c/)
-- [[Release] Syda – Open Source Synthetic Data Generator with Referential Integrity](https://www.reddit.com/r/Python/comments/1mww3tj/release_syda_open_source_synthetic_data_generator/)
 <!-- BLOG-POST-LIST:END -->
