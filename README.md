@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pypistats.org is back online!](https://www.reddit.com/r/Python/comments/1mxjbt7/pypistatsorg_is_back_online/)
+- [Glyph.Flow: a minimalist project and task manager](https://www.reddit.com/r/Python/comments/1mxj62r/glyphflow_a_minimalist_project_and_task_manager/)
 - [Looking for Python/Excel App Testers](https://www.reddit.com/r/Python/comments/1mxepz6/looking_for_pythonexcel_app_testers/)
 - [[Hiring][Remote] Mercor is hiring ML professionals &lpar;$75-$125 per hour&rpar;](https://www.reddit.com/r/Python/comments/1mxc3i0/hiringremote_mercor_is_hiring_ml_professionals/)
 - [complexipy v4.0: cognitive complexity analysis for Python](https://www.reddit.com/r/Python/comments/1mxbp9i/complexipy_v40_cognitive_complexity_analysis_for/)
-- [Complete Python Learning Guide](https://www.reddit.com/r/Python/comments/1mxaxzv/complete_python_learning_guide/)
-- [rovr: a modern, customizable, and aesthetically pleasing terminal file explorer.](https://www.reddit.com/r/Python/comments/1mx7zzj/rovr_a_modern_customizable_and_aesthetically/)
 <!-- BLOG-POST-LIST:END -->
