@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Hiring][Remote] Mercor is hiring ML professionals &lpar;$75-$125 per hour&rpar;](https://www.reddit.com/r/Python/comments/1mxc3i0/hiringremote_mercor_is_hiring_ml_professionals/)
+- [complexipy v4.0: cognitive complexity analysis for Python](https://www.reddit.com/r/Python/comments/1mxbp9i/complexipy_v40_cognitive_complexity_analysis_for/)
 - [Complete Python Learning Guide](https://www.reddit.com/r/Python/comments/1mxaxzv/complete_python_learning_guide/)
 - [rovr: a modern, customizable, and aesthetically pleasing terminal file explorer.](https://www.reddit.com/r/Python/comments/1mx7zzj/rovr_a_modern_customizable_and_aesthetically/)
 - [Automatically document SQLAlchemy Databases with Diagrams created with Paracelsus](https://www.reddit.com/r/Python/comments/1mx5xfp/automatically_document_sqlalchemy_databases_with/)
-- [Examples of using UV](https://www.reddit.com/r/Python/comments/1mx53x9/examples_of_using_uv/)
-- [pluau: Python bindings for Luau using PyO3/maturin.](https://www.reddit.com/r/Python/comments/1mx3tlj/pluau_python_bindings_for_luau_using_pyo3maturin/)
 <!-- BLOG-POST-LIST:END -->
