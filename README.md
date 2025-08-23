@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m starting a series on Python performance optimizations, Looking for real-world use cases!](https://www.reddit.com/r/Python/comments/1my65vc/im_starting_a_series_on_python_performance/)
 - [Agex: An agent framework that integrates with libraries &lpar;tools optional&rpar;](https://www.reddit.com/r/Python/comments/1my5d0x/agex_an_agent_framework_that_integrates_with/)
 - [SmartRun: A Python runner that auto-installs imports &lpar;even with mismatched names&rpar; 🚀](https://www.reddit.com/r/Python/comments/1my1qcf/smartrun_a_python_runner_that_autoinstalls/)
 - [Python devs, what’s the feature you still can’t live without after years of coding?](https://www.reddit.com/r/Python/comments/1mxxrvn/python_devs_whats_the_feature_you_still_cant_live/)
 - [AI Database : OctaneDB](https://www.reddit.com/r/Python/comments/1mxwbn4/ai_database_octanedb/)
-- [Looking for ppl to Collaborate with!!!](https://www.reddit.com/r/Python/comments/1mxvre9/looking_for_ppl_to_collaborate_with/)
 <!-- BLOG-POST-LIST:END -->
