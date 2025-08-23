@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Simple TUI SSH Manager](https://www.reddit.com/r/Python/comments/1mxtbt1/a_simple_tui_ssh_manager/)
 - [Dark mode coming to my browser!](https://www.reddit.com/r/Python/comments/1mxsiqi/dark_mode_coming_to_my_browser/)
 - [Skylos - another dead code finder for python &lpar;updated!&rpar;](https://www.reddit.com/r/Python/comments/1mxp7cs/skylos_another_dead_code_finder_for_python_updated/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1mxmm6l/saturday_daily_thread_resource_request_and/)
 - [Pypistats.org is back online!](https://www.reddit.com/r/Python/comments/1mxjbt7/pypistatsorg_is_back_online/)
-- [Glyph.Flow: a minimalist project and task manager](https://www.reddit.com/r/Python/comments/1mxj62r/glyphflow_a_minimalist_project_and_task_manager/)
 <!-- BLOG-POST-LIST:END -->
