@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Skylos - another dead code finder for python &lpar;updated!&rpar;](https://www.reddit.com/r/Python/comments/1mxp7cs/skylos_another_dead_code_finder_for_python_updated/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1mxmm6l/saturday_daily_thread_resource_request_and/)
 - [Pypistats.org is back online!](https://www.reddit.com/r/Python/comments/1mxjbt7/pypistatsorg_is_back_online/)
 - [Glyph.Flow: a minimalist project and task manager](https://www.reddit.com/r/Python/comments/1mxj62r/glyphflow_a_minimalist_project_and_task_manager/)
 - [Looking for Python/Excel App Testers](https://www.reddit.com/r/Python/comments/1mxepz6/looking_for_pythonexcel_app_testers/)
-- [[Hiring][Remote] Mercor is hiring ML professionals &lpar;$75-$125 per hour&rpar;](https://www.reddit.com/r/Python/comments/1mxc3i0/hiringremote_mercor_is_hiring_ml_professionals/)
 <!-- BLOG-POST-LIST:END -->
