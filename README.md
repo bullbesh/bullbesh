@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a MkDocs plugin to embed interactive jupyter notebooks in your docs via jupyterlite.](https://www.reddit.com/r/Python/comments/1myfkuw/i_made_a_mkdocs_plugin_to_embed_interactive/)
 - [I wrote a guide on Layered Reward Architecture &lpar;LRA&rpar; to fix the &quot;single-reward fallacy&quot; in](https://www.reddit.com/r/Python/comments/1mydedk/i_wrote_a_guide_on_layered_reward_architecture/)
 - [I’m starting a series on Python performance optimizations, Looking for real-world use cases!](https://www.reddit.com/r/Python/comments/1my65vc/im_starting_a_series_on_python_performance/)
 - [Agex: An agent framework that integrates with libraries &lpar;tools optional&rpar;](https://www.reddit.com/r/Python/comments/1my5d0x/agex_an_agent_framework_that_integrates_with/)
 - [SmartRun: A Python runner that auto-installs imports &lpar;even with mismatched names&rpar; 🚀](https://www.reddit.com/r/Python/comments/1my1qcf/smartrun_a_python_runner_that_autoinstalls/)
-- [AI Database : OctaneDB](https://www.reddit.com/r/Python/comments/1mxwbn4/ai_database_octanedb/)
 <!-- BLOG-POST-LIST:END -->
