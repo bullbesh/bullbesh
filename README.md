@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI-Powered Compliance Monitoring System on Google Cloud &lpar;SOC 2 &amp; HIPAA&rpar;](https://www.reddit.com/r/Python/comments/1mz8x7s/building_an_aipowered_compliance_monitoring/)
 - [Secure P2P Messenger.](https://www.reddit.com/r/Python/comments/1mz2o6w/secure_p2p_messenger/)
 - [I hate that my university&#39;s computer science INTRO classes use C++ instead of Python. Why use C++?](https://www.reddit.com/r/Python/comments/1myz5ir/i_hate_that_my_universitys_computer_science_intro/)
 - [What&#39;s the worst Python feature you&#39;ve ever encountered in programs?](https://www.reddit.com/r/Python/comments/1myytuq/whats_the_worst_python_feature_youve_ever/)
 - [I created a 5 hour free tutorial on creating your own git from scratch using Python](https://www.reddit.com/r/Python/comments/1myvz9i/i_created_a_5_hour_free_tutorial_on_creating_your/)
-- [AsyncFlow: Open-source simulator for async backends &lpar;built on SimPy&rpar;](https://www.reddit.com/r/Python/comments/1myuda8/asyncflow_opensource_simulator_for_async_backends/)
 <!-- BLOG-POST-LIST:END -->
