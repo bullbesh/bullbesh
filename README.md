@@ -12,5 +12,5 @@
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1mzbnhm/monday_daily_thread_project_ideas/)
 - [I built a Python Prisoner&#39;s Dilemma Simulator](https://www.reddit.com/r/Python/comments/1mzbj8n/i_built_a_python_prisoners_dilemma_simulator/)
 - [Learning Django &lpar;with zero python knowledge&rpar; using LLMs](https://www.reddit.com/r/Python/comments/1mzaud9/learning_django_with_zero_python_knowledge_using/)
-- [Building an AI-Powered Compliance Monitoring System on Google Cloud &lpar;SOC 2 &amp; HIPAA&rpar;](https://www.reddit.com/r/Python/comments/1mz8x7s/building_an_aipowered_compliance_monitoring/)
+- [Clipipe – Pipe command output between machines, even behind NAT](https://www.reddit.com/r/Python/comments/1mz83yx/clipipe_pipe_command_output_between_machines_even/)
 <!-- BLOG-POST-LIST:END -->
