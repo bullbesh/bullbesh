@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a competitive local LLM server in Python](https://www.reddit.com/r/Python/comments/1n027ew/building_a_competitive_local_llm_server_in_python/)
 - [Learning bots with python](https://www.reddit.com/r/Python/comments/1n00eqa/learning_bots_with_python/)
 - [take an existing excel invoice template and makes a .py easily modifies it with simple inputs](https://www.reddit.com/r/Python/comments/1n001ny/take_an_existing_excel_invoice_template_and_makes/)
 - [Expectations for Junior dev?](https://www.reddit.com/r/Python/comments/1mzzbrj/expectations_for_junior_dev/)
 - [I created this polygon screenshot tool for myself, I must say it may be useful to others!](https://www.reddit.com/r/Python/comments/1mzxbia/i_created_this_polygon_screenshot_tool_for_myself/)
-- [16 лет учусь самоучка](https://www.reddit.com/r/Python/comments/1mzv2v2/16_лет_учусь_самоучка/)
 <!-- BLOG-POST-LIST:END -->
