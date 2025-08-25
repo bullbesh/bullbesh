@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created this polygon screenshot tool for myself, I must say it may be useful to others!](https://www.reddit.com/r/Python/comments/1mzxbia/i_created_this_polygon_screenshot_tool_for_myself/)
 - [16 лет учусь самоучка](https://www.reddit.com/r/Python/comments/1mzv2v2/16_лет_учусь_самоучка/)
 - [are there any good completely free/open source agentic AI models?](https://www.reddit.com/r/Python/comments/1mzn9jm/are_there_any_good_completely_freeopen_source/)
 - [[R] Advanced Conformal Prediction – A Complete Resource from First Principles to Real-World](https://www.reddit.com/r/Python/comments/1mzmaj1/r_advanced_conformal_prediction_a_complete/)
 - [Adding asyncio.sleep&lpar;0&rpar; made my data pipeline &lpar;150 ms&rpar; not spike to &lpar;5500 ms&rpar;](https://www.reddit.com/r/Python/comments/1mzcxyc/adding_asynciosleep0_made_my_data_pipeline_150_ms/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1mzbnhm/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
