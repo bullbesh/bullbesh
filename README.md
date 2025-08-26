@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python as a desktop background](https://www.reddit.com/r/Python/comments/1n0ln2g/python_as_a_desktop_background/)
+- [Linden: A lightweight Python framework for AI agents](https://www.reddit.com/r/Python/comments/1n0lcmf/linden_a_lightweight_python_framework_for_ai/)
 - [💻 I’ll build you any custom Python script &lpar;automation, bots, scrapers&rpar; for cheap](https://www.reddit.com/r/Python/comments/1n0j608/ill_build_you_any_custom_python_script_automation/)
 - [I built an open-source learning platform for ethical hacking, programming, and related tools](https://www.reddit.com/r/Python/comments/1n0hpjs/i_built_an_opensource_learning_platform_for/)
 - [Need someone for python practise](https://www.reddit.com/r/Python/comments/1n0dpnm/need_someone_for_python_practise/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1n06wx9/tuesday_daily_thread_advanced_questions/)
-- [[Project] Weekend project: System Monitor in Python with PyQt5](https://www.reddit.com/r/Python/comments/1n03s8h/project_weekend_project_system_monitor_in_python/)
 <!-- BLOG-POST-LIST:END -->
