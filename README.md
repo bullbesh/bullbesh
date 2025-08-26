@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a microservice system for real-time appliance monitoring](https://www.reddit.com/r/Python/comments/1n0n55h/i_created_a_microservice_system_for_realtime/)
+- [Memory Graph Web Debugger](https://www.reddit.com/r/Python/comments/1n0mgbv/memory_graph_web_debugger/)
+- [Polars Expressions Vs Series](https://www.reddit.com/r/Python/comments/1n0mc2y/polars_expressions_vs_series/)
 - [Python as a desktop background](https://www.reddit.com/r/Python/comments/1n0ln2g/python_as_a_desktop_background/)
 - [Linden: A lightweight Python framework for AI agents](https://www.reddit.com/r/Python/comments/1n0lcmf/linden_a_lightweight_python_framework_for_ai/)
-- [💻 I’ll build you any custom Python script &lpar;automation, bots, scrapers&rpar; for cheap](https://www.reddit.com/r/Python/comments/1n0j608/ill_build_you_any_custom_python_script_automation/)
-- [I built an open-source learning platform for ethical hacking, programming, and related tools](https://www.reddit.com/r/Python/comments/1n0hpjs/i_built_an_opensource_learning_platform_for/)
-- [Need someone for python practise](https://www.reddit.com/r/Python/comments/1n0dpnm/need_someone_for_python_practise/)
 <!-- BLOG-POST-LIST:END -->
