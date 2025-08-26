@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Whats your favorite Python trick or lesser known feature?](https://www.reddit.com/r/Python/comments/1n0ng7f/whats_your_favorite_python_trick_or_lesser_known/)
 - [I created a microservice system for real-time appliance monitoring](https://www.reddit.com/r/Python/comments/1n0n55h/i_created_a_microservice_system_for_realtime/)
 - [Memory Graph Web Debugger](https://www.reddit.com/r/Python/comments/1n0mgbv/memory_graph_web_debugger/)
 - [Polars Expressions Vs Series](https://www.reddit.com/r/Python/comments/1n0mc2y/polars_expressions_vs_series/)
 - [Python as a desktop background](https://www.reddit.com/r/Python/comments/1n0ln2g/python_as_a_desktop_background/)
-- [Linden: A lightweight Python framework for AI agents](https://www.reddit.com/r/Python/comments/1n0lcmf/linden_a_lightweight_python_framework_for_ai/)
 <!-- BLOG-POST-LIST:END -->
