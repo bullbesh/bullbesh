@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Just released Sagebox - a procedural GUI library for Python &lpar;Initial Beta&rpar;](https://www.reddit.com/r/Python/comments/1n0wemp/i_just_released_sagebox_a_procedural_gui_library/)
 - [PyWire-eel, a lightweight Python library like eel](https://www.reddit.com/r/Python/comments/1n0ufg0/pywireeel_a_lightweight_python_library_like_eel/)
 - [Apple Notes MCP Server – Connect your Apple Notes with LLMs.](https://www.reddit.com/r/Python/comments/1n0tlht/apple_notes_mcp_server_connect_your_apple_notes/)
 - [Would a &quot;venv&quot; wrapper around multiprocessing be useful? &lpar;hardware-aware pools, NUMA, GPU, etc.&rpar;](https://www.reddit.com/r/Python/comments/1n0tgja/would_a_venv_wrapper_around_multiprocessing_be/)
 - [GenEC v1.0.0 - A Python data extraction and comparison tool](https://www.reddit.com/r/Python/comments/1n0t07s/genec_v100_a_python_data_extraction_and/)
-- [刚学 Python，想知道你们当初是怎么入门的？](https://www.reddit.com/r/Python/comments/1n0sbdm/刚学_python想知道你们当初是怎么入门的/)
 <!-- BLOG-POST-LIST:END -->
