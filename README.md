@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Strategic approach for mechanical engineering student](https://www.reddit.com/r/Python/comments/1n1mkj5/strategic_approach_for_mechanical_engineering/)
+- [need support. LITTLE BRO TOOK PICTURES.](https://www.reddit.com/r/Python/comments/1n1lwch/need_support_little_bro_took_pictures/)
 - [Python: The Documentary premieres on YouTube in a few hours](https://www.reddit.com/r/Python/comments/1n1k42a/python_the_documentary_premieres_on_youtube_in_a/)
 - [I bundled my common Python utilities into a library &lpar;alx-common&rpar; – feedback welcome](https://www.reddit.com/r/Python/comments/1n1hkls/i_bundled_my_common_python_utilities_into_a/)
 - [I built prompttest - a testing framework for LLMs. It&#39;s like pytest, but for prompts.](https://www.reddit.com/r/Python/comments/1n1dsqh/i_built_prompttest_a_testing_framework_for_llms/)
-- [Python package for NCAA Baseball &amp; MLB Draft stats](https://www.reddit.com/r/Python/comments/1n16al4/python_package_for_ncaa_baseball_mlb_draft_stats/)
-- [jupytercad-mcp: Control JupyterCAD using LLMs/natural language.](https://www.reddit.com/r/Python/comments/1n10c30/jupytercadmcp_control_jupytercad_using/)
 <!-- BLOG-POST-LIST:END -->
