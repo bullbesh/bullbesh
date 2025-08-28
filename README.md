@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [We created an open-source Agentic AI framework and gathering feedback](https://www.reddit.com/r/Python/comments/1n22kbc/we_created_an_opensource_agentic_ai_framework_and/)
+- [built a clash of clans bot after a day and a half of learnin python](https://www.reddit.com/r/Python/comments/1n21i61/built_a_clash_of_clans_bot_after_a_day_and_a_half/)
 - [[Looking for a Collaborator] Python Programmer to finish betting bot on Telegram](https://www.reddit.com/r/Python/comments/1n1xjmq/looking_for_a_collaborator_python_programmer_to/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1n1xczy/thursday_daily_thread_python_careers_courses_and/)
 - [Is it normal for a package to overwrite/add files of another already installed package?](https://www.reddit.com/r/Python/comments/1n1t36y/is_it_normal_for_a_package_to_overwriteadd_files/)
-- [Alternative of RNNs in Real Life](https://www.reddit.com/r/Python/comments/1n1p4ho/alternative_of_rnns_in_real_life/)
-- [Strategic approach for mechanical engineering student](https://www.reddit.com/r/Python/comments/1n1mkj5/strategic_approach_for_mechanical_engineering/)
 <!-- BLOG-POST-LIST:END -->
