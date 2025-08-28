@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Node Gunner Poem](https://www.reddit.com/r/Python/comments/1n2bkx7/node_gunner_poem/)
 - [what&#39;s the best way to organize your code app.py](https://www.reddit.com/r/Python/comments/1n28x84/whats_the_best_way_to_organize_your_code_apppy/)
 - [pd.col: Expressions are coming to pandas](https://www.reddit.com/r/Python/comments/1n26zm9/pdcol_expressions_are_coming_to_pandas/)
 - [Student mental health analysis using python and SQL](https://www.reddit.com/r/Python/comments/1n25l46/student_mental_health_analysis_using_python_and/)
 - [Need someone to guide me on my Audio to text script](https://www.reddit.com/r/Python/comments/1n24hu3/need_someone_to_guide_me_on_my_audio_to_text/)
-- [We created an open-source Agentic AI framework and gathering feedback](https://www.reddit.com/r/Python/comments/1n22kbc/we_created_an_opensource_agentic_ai_framework_and/)
 <!-- BLOG-POST-LIST:END -->
