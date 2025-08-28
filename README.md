@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A declarative fake data generator for sqlalchemy ORM](https://www.reddit.com/r/Python/comments/1n2h87o/a_declarative_fake_data_generator_for_sqlalchemy/)
 - [I Built a tool that auto-syncs pre-commit hook versions with `uv.lock`](https://www.reddit.com/r/Python/comments/1n2gypa/i_built_a_tool_that_autosyncs_precommit_hook/)
 - [Lightweight Statistical Forecasting &lpar;Own Model Design&rpar;](https://www.reddit.com/r/Python/comments/1n2ekkm/lightweight_statistical_forecasting_own_model/)
 - [what&#39;s the best way to organize your code app.py](https://www.reddit.com/r/Python/comments/1n28x84/whats_the_best_way_to_organize_your_code_apppy/)
 - [pd.col: Expressions are coming to pandas](https://www.reddit.com/r/Python/comments/1n26zm9/pdcol_expressions_are_coming_to_pandas/)
-- [Student mental health analysis using python and SQL](https://www.reddit.com/r/Python/comments/1n25l46/student_mental_health_analysis_using_python_and/)
 <!-- BLOG-POST-LIST:END -->
