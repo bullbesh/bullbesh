@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are your tips to find the newest libraries/tools?](https://www.reddit.com/r/Python/comments/1n39ov5/what_are_your_tips_to_find_the_newest/)
+- [Python e-commerce store](https://www.reddit.com/r/Python/comments/1n38w1w/python_ecommerce_store/)
 - [Handwritten image to text.](https://www.reddit.com/r/Python/comments/1n38glw/handwritten_image_to_text/)
 - [Abstracting a script for general use](https://www.reddit.com/r/Python/comments/1n37c65/abstracting_a_script_for_general_use/)
-- [Python - The Documentary](https://www.reddit.com/r/Python/comments/1n372yt/python_the_documentary/)
 - [Phicode Runtime Engine &lpar;Open-Source&rpar;](https://www.reddit.com/r/Python/comments/1n36mcu/phicode_runtime_engine_opensource/)
-- [Python: The Documentary | An origin story](https://www.reddit.com/r/Python/comments/1n34vq8/python_the_documentary_an_origin_story/)
 <!-- BLOG-POST-LIST:END -->
