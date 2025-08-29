@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python: The Documentary | An origin story](https://www.reddit.com/r/Python/comments/1n34vq8/python_the_documentary_an_origin_story/)
 - [Can I get some feedback on the documentation of jsonyx?](https://www.reddit.com/r/Python/comments/1n32lxf/can_i_get_some_feedback_on_the_documentation_of/)
 - [Python feels easy… until it doesn’t. What was your first real struggle?](https://www.reddit.com/r/Python/comments/1n324wb/python_feels_easy_until_it_doesnt_what_was_your/)
 - [Streamlit alternative solution](https://www.reddit.com/r/Python/comments/1n31grs/streamlit_alternative_solution/)
-- [Make LLM structured output way cheaper, faster and less error prone!](https://www.reddit.com/r/Python/comments/1n2zdsy/make_llm_structured_output_way_cheaper_faster_and/)
 - [AIpowered desktop app for content summarization and chat &lpar;PDF/YouTube/audio processing with PySide6&rpar;](https://www.reddit.com/r/Python/comments/1n2y5ch/aipowered_desktop_app_for_content_summarization/)
 <!-- BLOG-POST-LIST:END -->
