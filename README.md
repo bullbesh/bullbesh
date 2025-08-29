@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 I built a Regex &amp; Grok Tester tool &lpar;UPYNG&rpar; – Feedback welcome!](https://www.reddit.com/r/Python/comments/1n2wr1n/i_built_a_regex_grok_tester_tool_upyng_feedback/)
 - [D&amp;D twitch bot update 1!](https://www.reddit.com/r/Python/comments/1n2uol6/dd_twitch_bot_update_1/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1n2sexh/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Python from scratch how to start?](https://www.reddit.com/r/Python/comments/1n2pmih/python_from_scratch_how_to_start/)
 - [Python: The Documentary | An origin story](https://www.reddit.com/r/Python/comments/1n2l08n/python_the_documentary_an_origin_story/)
-- [AI devlopement And learning to make one](https://www.reddit.com/r/Python/comments/1n2khld/ai_devlopement_and_learning_to_make_one/)
 <!-- BLOG-POST-LIST:END -->
