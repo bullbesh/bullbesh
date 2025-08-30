@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s Learn Together&lt;3](https://www.reddit.com/r/Python/comments/1n3un64/lets_learn_together3/)
+- [Python-Based Magic: The Gathering Commander Deck Builder](https://www.reddit.com/r/Python/comments/1n3ne68/pythonbased_magic_the_gathering_commander_deck/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1n3nauu/saturday_daily_thread_resource_request_and/)
 - [PyStructs Utils – Functional utilities for nested Python data structures](https://www.reddit.com/r/Python/comments/1n3ienr/pystructs_utils_functional_utilities_for_nested/)
 - [Feedback on my daily python newsletter](https://www.reddit.com/r/Python/comments/1n3i9r3/feedback_on_my_daily_python_newsletter/)
-- [PyData Seattle Tickets Labor Day Sale: 25% Off This Weekend Only!](https://www.reddit.com/r/Python/comments/1n3gmbr/pydata_seattle_tickets_labor_day_sale_25_off_this/)
-- [What are your tips to find the newest libraries/tools?](https://www.reddit.com/r/Python/comments/1n39ov5/what_are_your_tips_to_find_the_newest/)
-- [Python e-commerce store](https://www.reddit.com/r/Python/comments/1n38w1w/python_ecommerce_store/)
 <!-- BLOG-POST-LIST:END -->
