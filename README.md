@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mac vs Windows for Data Science – need advice](https://www.reddit.com/r/Python/comments/1n45ut6/mac_vs_windows_for_data_science_need_advice/)
+- [Newly Released Python Documentary](https://www.reddit.com/r/Python/comments/1n4590g/newly_released_python_documentary/)
+- [Looking for observations on TalkPython -Up and Running with Git: A GUI-based Approach Course](https://www.reddit.com/r/Python/comments/1n41sw4/looking_for_observations_on_talkpython_up_and/)
+- [I built my own torch in the last two weeks!](https://www.reddit.com/r/Python/comments/1n40rht/i_built_my_own_torch_in_the_last_two_weeks/)
 - [Let&#39;s Learn Together&lt;3](https://www.reddit.com/r/Python/comments/1n3un64/lets_learn_together3/)
-- [Python-Based Magic: The Gathering Commander Deck Builder](https://www.reddit.com/r/Python/comments/1n3ne68/pythonbased_magic_the_gathering_commander_deck/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1n3nauu/saturday_daily_thread_resource_request_and/)
-- [PyStructs Utils – Functional utilities for nested Python data structures](https://www.reddit.com/r/Python/comments/1n3ienr/pystructs_utils_functional_utilities_for_nested/)
-- [Feedback on my daily python newsletter](https://www.reddit.com/r/Python/comments/1n3i9r3/feedback_on_my_daily_python_newsletter/)
 <!-- BLOG-POST-LIST:END -->
