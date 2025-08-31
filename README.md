@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking for Python Learning Resources](https://www.reddit.com/r/Python/comments/1n4jxqa/looking_for_python_learning_resources/)
+- [My python mini project](https://www.reddit.com/r/Python/comments/1n4nhbk/my_python_mini_project/)
+- [SecBrowser: A simple visual interface for SEC Filings](https://www.reddit.com/r/Python/comments/1n4mipq/secbrowser_a_simple_visual_interface_for_sec/)
 - [PySimpleGUI Hobbyist License Canceled](https://www.reddit.com/r/Python/comments/1n4ilwx/pysimplegui_hobbyist_license_canceled/)
 - [Python type system](https://www.reddit.com/r/Python/comments/1n4hc9e/python_type_system/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1n4gdyj/sunday_daily_thread_whats_everyone_working_on/)
-- [Looking for observations on TalkPython -Up and Running with Git: A GUI-based Approach Course](https://www.reddit.com/r/Python/comments/1n41sw4/looking_for_observations_on_talkpython_up_and/)
 <!-- BLOG-POST-LIST:END -->
