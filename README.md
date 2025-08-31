@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [My python mini project](https://www.reddit.com/r/Python/comments/1n4nhbk/my_python_mini_project/)
-- [SecBrowser: A simple visual interface for SEC Filings](https://www.reddit.com/r/Python/comments/1n4mipq/secbrowser_a_simple_visual_interface_for_sec/)
-- [PySimpleGUI Hobbyist License Canceled](https://www.reddit.com/r/Python/comments/1n4ilwx/pysimplegui_hobbyist_license_canceled/)
-- [Python type system](https://www.reddit.com/r/Python/comments/1n4hc9e/python_type_system/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1n4gdyj/sunday_daily_thread_whats_everyone_working_on/)
+- [gen-dual: Python library for high-order partial derivatives with dual numbers](https://www.reddit.com/r/Python/comments/1n4v2zm/gendual_python_library_for_highorder_partial/)
+- [[UPDATE] DocStrange - Structured data extraction from images/pdfs/docs](https://www.reddit.com/r/Python/comments/1n4ryzz/update_docstrange_structured_data_extraction_from/)
+- [MIDI Scripter - a framework for scripting MIDI, OSC, keyboard and mouse input and output](https://www.reddit.com/r/Python/comments/1n4ri23/midi_scripter_a_framework_for_scripting_midi_osc/)
+- [Just built: pydantic-gsheets to bring Google Sheets and Pydantic together](https://www.reddit.com/r/Python/comments/1n4rahf/just_built_pydanticgsheets_to_bring_google_sheets/)
+- [Introducing NeoSQLite](https://www.reddit.com/r/Python/comments/1n4qygz/introducing_neosqlite/)
 <!-- BLOG-POST-LIST:END -->
