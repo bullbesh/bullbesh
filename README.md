@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first kinda complicated code &lpar;started like a month ago&rpar;](https://www.reddit.com/r/Python/comments/1n562vq/my_first_kinda_complicated_code_started_like_a/)
+- [Django vs FastAPI for SaaS with heavy transactions + AI integrations?](https://www.reddit.com/r/Python/comments/1n54kbx/django_vs_fastapi_for_saas_with_heavy/)
+- [How is Python 4 ever going to reach critical mass once everyone is using AI to write code?](https://www.reddit.com/r/Python/comments/1n5229t/how_is_python_4_ever_going_to_reach_critical_mass/)
 - [gen-dual: Python library for high-order partial derivatives with dual numbers](https://www.reddit.com/r/Python/comments/1n4v2zm/gendual_python_library_for_highorder_partial/)
 - [[UPDATE] DocStrange - Structured data extraction from images/pdfs/docs](https://www.reddit.com/r/Python/comments/1n4ryzz/update_docstrange_structured_data_extraction_from/)
-- [MIDI Scripter - a framework for scripting MIDI, OSC, keyboard and mouse input and output](https://www.reddit.com/r/Python/comments/1n4ri23/midi_scripter_a_framework_for_scripting_midi_osc/)
-- [Just built: pydantic-gsheets to bring Google Sheets and Pydantic together](https://www.reddit.com/r/Python/comments/1n4rahf/just_built_pydanticgsheets_to_bring_google_sheets/)
-- [Introducing NeoSQLite](https://www.reddit.com/r/Python/comments/1n4qygz/introducing_neosqlite/)
 <!-- BLOG-POST-LIST:END -->
