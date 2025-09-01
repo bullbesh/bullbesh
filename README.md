@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Pacchetto Python docx suggerimento sulle funzionalità e cosa ti permette di fare?](https://www.reddit.com/r/Python/comments/1n5nip8/pacchetto_python_docx_suggerimento_sulle/)
 - [[UPDATE] DocStrange - Structured data extraction from images/pdfs/docs](https://www.reddit.com/r/Python/comments/1n5jjnl/update_docstrange_structured_data_extraction_from/)
 - [Omni-LPR: A multi-interface server for automatic license plate recognition in Python](https://www.reddit.com/r/Python/comments/1n5idvx/omnilpr_a_multiinterface_server_for_automatic/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1n59zyk/monday_daily_thread_project_ideas/)
 - [My first kinda complicated code &lpar;started like a month ago&rpar;](https://www.reddit.com/r/Python/comments/1n562vq/my_first_kinda_complicated_code_started_like_a/)
+- [Django vs FastAPI for SaaS with heavy transactions + AI integrations?](https://www.reddit.com/r/Python/comments/1n54kbx/django_vs_fastapi_for_saas_with_heavy/)
 <!-- BLOG-POST-LIST:END -->
