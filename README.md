@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Job application requirement](https://www.reddit.com/r/Python/comments/1n5yppn/job_application_requirement/)
+- [Python + OCR: Automatically analyze Dota 2 player stats 👀](https://www.reddit.com/r/Python/comments/1n5ux0w/python_ocr_automatically_analyze_dota_2_player/)
+- [Looking for a study buddy in Angela Yu&quot;s 100 Days of Python, day 32](https://www.reddit.com/r/Python/comments/1n5sf57/looking_for_a_study_buddy_in_angela_yus_100_days/)
+- [Introducing DLType, an ultra-fast runtime type and shape checking library for deep learning tensors!](https://www.reddit.com/r/Python/comments/1n5q8n0/introducing_dltype_an_ultrafast_runtime_type_and/)
 - [[UPDATE] DocStrange - Structured data extraction from images/pdfs/docs](https://www.reddit.com/r/Python/comments/1n5jjnl/update_docstrange_structured_data_extraction_from/)
-- [Omni-LPR: A multi-interface server for automatic license plate recognition in Python](https://www.reddit.com/r/Python/comments/1n5idvx/omnilpr_a_multiinterface_server_for_automatic/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1n59zyk/monday_daily_thread_project_ideas/)
-- [My first kinda complicated code &lpar;started like a month ago&rpar;](https://www.reddit.com/r/Python/comments/1n562vq/my_first_kinda_complicated_code_started_like_a/)
-- [Django vs FastAPI for SaaS with heavy transactions + AI integrations?](https://www.reddit.com/r/Python/comments/1n54kbx/django_vs_fastapi_for_saas_with_heavy/)
 <!-- BLOG-POST-LIST:END -->
