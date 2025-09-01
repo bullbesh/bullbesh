@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Bump pre-commit hooks with pre-commit using pre-commit-bump](https://www.reddit.com/r/Python/comments/1n5ixei/bump_precommit_hooks_with_precommit_using/)
+- [[UPDATE] DocStrange - Structured data extraction from images/pdfs/docs](https://www.reddit.com/r/Python/comments/1n5jjnl/update_docstrange_structured_data_extraction_from/)
 - [Omni-LPR: A multi-interface server for automatic license plate recognition in Python](https://www.reddit.com/r/Python/comments/1n5idvx/omnilpr_a_multiinterface_server_for_automatic/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1n59zyk/monday_daily_thread_project_ideas/)
 - [My first kinda complicated code &lpar;started like a month ago&rpar;](https://www.reddit.com/r/Python/comments/1n562vq/my_first_kinda_complicated_code_started_like_a/)
