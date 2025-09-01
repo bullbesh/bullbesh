@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [The outer loop vs. the inner loop of agents. A simple mental model to evolve the stack quickly](https://www.reddit.com/r/Python/comments/1n56tuv/the_outer_loop_vs_the_inner_loop_of_agents_a/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1n59zyk/monday_daily_thread_project_ideas/)
 - [My first kinda complicated code &lpar;started like a month ago&rpar;](https://www.reddit.com/r/Python/comments/1n562vq/my_first_kinda_complicated_code_started_like_a/)
 - [Django vs FastAPI for SaaS with heavy transactions + AI integrations?](https://www.reddit.com/r/Python/comments/1n54kbx/django_vs_fastapi_for_saas_with_heavy/)
 - [How is Python 4 ever going to reach critical mass once everyone is using AI to write code?](https://www.reddit.com/r/Python/comments/1n5229t/how_is_python_4_ever_going_to_reach_critical_mass/)
