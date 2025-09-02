@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Vacancy for a python tutor](https://www.reddit.com/r/Python/comments/1n6o0x8/vacancy_for_a_python_tutor/)
+- [I built a CLI tool for database migration](https://www.reddit.com/r/Python/comments/1n6jfon/i_built_a_cli_tool_for_database_migration/)
 - [I built a Python bot that automatically finds remote jobs and sends them to Telegram.](https://www.reddit.com/r/Python/comments/1n6fm1w/i_built_a_python_bot_that_automatically_finds/)
 - [Python OOP is clever](https://www.reddit.com/r/Python/comments/1n6fgah/python_oop_is_clever/)
 - [[ANN] tblkit — Swiss-army CLI for tabular data &lpar;CSV/TSV&rpar;](https://www.reddit.com/r/Python/comments/1n6aos0/ann_tblkit_swissarmy_cli_for_tabular_data_csvtsv/)
-- [I created a playground to my python UI framework DARS](https://www.reddit.com/r/Python/comments/1n69tas/i_created_a_playground_to_my_python_ui_framework/)
-- [Prédire un match virtuel FIFA sur un bookmakers comme 1xbet](https://www.reddit.com/r/Python/comments/1n65ef0/prédire_un_match_virtuel_fifa_sur_un_bookmakers/)
 <!-- BLOG-POST-LIST:END -->
