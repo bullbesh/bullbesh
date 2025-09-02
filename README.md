@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a playground to my python UI framework DARS](https://www.reddit.com/r/Python/comments/1n69tas/i_created_a_playground_to_my_python_ui_framework/)
 - [Prédire un match virtuel FIFA sur un bookmakers comme 1xbet](https://www.reddit.com/r/Python/comments/1n65ef0/prédire_un_match_virtuel_fifa_sur_un_bookmakers/)
 - [Is it a good idea to teach students Python but using an old version?](https://www.reddit.com/r/Python/comments/1n658es/is_it_a_good_idea_to_teach_students_python_but/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1n64s7q/tuesday_daily_thread_advanced_questions/)
 - [I built a simple, open-source Windows wallpaper changer because the built-in one kept failing.](https://www.reddit.com/r/Python/comments/1n64bla/i_built_a_simple_opensource_windows_wallpaper/)
-- [Job application requirement](https://www.reddit.com/r/Python/comments/1n5yppn/job_application_requirement/)
 <!-- BLOG-POST-LIST:END -->
