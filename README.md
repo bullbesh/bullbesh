@@ -12,5 +12,5 @@
 - [A Python package that makes cloud objects tagging at scale easier](https://www.reddit.com/r/Python/comments/1n764xi/a_python_package_that_makes_cloud_objects_tagging/)
 - [contribution of python to the world is underrated…](https://www.reddit.com/r/Python/comments/1n75r76/contribution_of_python_to_the_world_is_underrated/)
 - [Working with MCP and tired of boilerplate? You might like what we’re launching](https://www.reddit.com/r/Python/comments/1n717ga/working_with_mcp_and_tired_of_boilerplate_you/)
-- [I built XenonaAI: A free desktop app that brings Llama 3.3 70B to your PC](https://www.reddit.com/r/Python/comments/1n6zns1/i_built_xenonaai_a_free_desktop_app_that_brings/)
+- [Meet THOAD, High Order Derivatives for PyTorch Graphs](https://www.reddit.com/r/Python/comments/1n6xw8z/meet_thoad_high_order_derivatives_for_pytorch/)
 <!-- BLOG-POST-LIST:END -->
