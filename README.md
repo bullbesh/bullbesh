@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Streamledge - Launch YouTube and Twitch Videos in a Minimal Browser Window](https://www.reddit.com/r/Python/comments/1n7neyq/streamledge_launch_youtube_and_twitch_videos_in_a/)
 - [DINOv3-CLIP Adapter](https://www.reddit.com/r/Python/comments/1n7ibkk/dinov3clip_adapter/)
 - [Doc2Image:0.0.1 - Turn any document into ready-to-use AI image prompts.](https://www.reddit.com/r/Python/comments/1n7epjm/doc2image001_turn_any_document_into_readytouse_ai/)
 - [Zuban is now Open Source](https://www.reddit.com/r/Python/comments/1n7e1oa/zuban_is_now_open_source/)
 - [PySurf is now Quantum!](https://www.reddit.com/r/Python/comments/1n7cwjq/pysurf_is_now_quantum/)
-- [I built a Python library for working with LLMs — would love your feedback](https://www.reddit.com/r/Python/comments/1n77jvv/i_built_a_python_library_for_working_with_llms/)
 <!-- BLOG-POST-LIST:END -->
