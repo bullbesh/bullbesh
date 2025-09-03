@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with MCP and tired of boilerplate? You might like what we’re launching](https://www.reddit.com/r/Python/comments/1n717ga/working_with_mcp_and_tired_of_boilerplate_you/)
+- [I built XenonaAI: A free desktop app that brings Llama 3.3 70B to your PC](https://www.reddit.com/r/Python/comments/1n6zns1/i_built_xenonaai_a_free_desktop_app_that_brings/)
 - [Meet THOAD, High Order Derivatives for PyTorch Graphs](https://www.reddit.com/r/Python/comments/1n6xw8z/meet_thoad_high_order_derivatives_for_pytorch/)
 - [algúien tiene proyectos de programación inconclusos que pueda compartir?](https://www.reddit.com/r/Python/comments/1n6xqjn/algúien_tiene_proyectos_de_programación/)
 - [PyLine Update - terminal based text editor &lpar;Linux, WSL, MacOS&rpar; &lpar;New Feats&rpar;](https://www.reddit.com/r/Python/comments/1n6v3tl/pyline_update_terminal_based_text_editor_linux/)
-- [Feedback Wanted: GUI App to Convert Python Scripts to .exe Files](https://www.reddit.com/r/Python/comments/1n6sa5a/feedback_wanted_gui_app_to_convert_python_scripts/)
-- [Vacancy for a python tutor](https://www.reddit.com/r/Python/comments/1n6o0x8/vacancy_for_a_python_tutor/)
 <!-- BLOG-POST-LIST:END -->
