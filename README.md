@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open source project](https://www.reddit.com/r/Python/comments/1n8740z/open_source_project/)
+- [automating creation of github repository](https://www.reddit.com/r/Python/comments/1n86p54/automating_creation_of_github_repository/)
+- [I made a script that identifies graded Pokemon cards with OCR](https://www.reddit.com/r/Python/comments/1n86hnz/i_made_a_script_that_identifies_graded_pokemon/)
 - [flattening elements from a nested list](https://www.reddit.com/r/Python/comments/1n85395/flattening_elements_from_a_nested_list/)
 - [Typewriter sound program](https://www.reddit.com/r/Python/comments/1n85285/typewriter_sound_program/)
-- [Newsletters/people to follow and read](https://www.reddit.com/r/Python/comments/1n84tr5/newsletterspeople_to_follow_and_read/)
-- [Showcase: ecma426: Source Maps in Pure Python](https://www.reddit.com/r/Python/comments/1n84top/showcase_ecma426_source_maps_in_pure_python/)
-- [# How to train a AI in windows &lpar;easy&rpar;](https://www.reddit.com/r/Python/comments/1n84q1m/how_to_train_a_ai_in_windows_easy/)
 <!-- BLOG-POST-LIST:END -->
