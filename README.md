@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rant: use that second expression in `assert`!](https://www.reddit.com/r/Python/comments/1n87g91/rant_use_that_second_expression_in_assert/)
 - [Open source project](https://www.reddit.com/r/Python/comments/1n8740z/open_source_project/)
 - [automating creation of github repository](https://www.reddit.com/r/Python/comments/1n86p54/automating_creation_of_github_repository/)
 - [I made a script that identifies graded Pokemon cards with OCR](https://www.reddit.com/r/Python/comments/1n86hnz/i_made_a_script_that_identifies_graded_pokemon/)
 - [flattening elements from a nested list](https://www.reddit.com/r/Python/comments/1n85395/flattening_elements_from_a_nested_list/)
-- [Typewriter sound program](https://www.reddit.com/r/Python/comments/1n85285/typewriter_sound_program/)
 <!-- BLOG-POST-LIST:END -->
