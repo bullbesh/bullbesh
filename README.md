@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating LinkedIn connections with Python](https://www.reddit.com/r/Python/comments/1n8d0j3/automating_linkedin_connections_with_python/)
+- [FileSweep, a fast duplicate &amp; clutter file cleaner](https://www.reddit.com/r/Python/comments/1n8c4ou/filesweep_a_fast_duplicate_clutter_file_cleaner/)
+- [Looking for a tutor](https://www.reddit.com/r/Python/comments/1n8c0yq/looking_for_a_tutor/)
 - [I built a Python library to simplify complex SQLAlchemy queries with a clean architecture.](https://www.reddit.com/r/Python/comments/1n8b41e/i_built_a_python_library_to_simplify_complex/)
 - [Rant: use that second expression in `assert`!](https://www.reddit.com/r/Python/comments/1n87g91/rant_use_that_second_expression_in_assert/)
-- [Open source project](https://www.reddit.com/r/Python/comments/1n8740z/open_source_project/)
-- [automating creation of github repository](https://www.reddit.com/r/Python/comments/1n86p54/automating_creation_of_github_repository/)
-- [I made a script that identifies graded Pokemon cards with OCR](https://www.reddit.com/r/Python/comments/1n86hnz/i_made_a_script_that_identifies_graded_pokemon/)
 <!-- BLOG-POST-LIST:END -->
