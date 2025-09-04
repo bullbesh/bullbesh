@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [PyconFR at Lyon &lpar;France&rpar;](https://www.reddit.com/r/Python/comments/1n84hjt/pyconfr_at_lyon_france/)
-- [I made a chat program](https://www.reddit.com/r/Python/comments/1n802wo/i_made_a_chat_program/)
-- [Airfoil Optimizer.](https://www.reddit.com/r/Python/comments/1n800hy/airfoil_optimizer/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1n7v62y/thursday_daily_thread_python_careers_courses_and/)
-- [Why does ProcessPoolExecutor mark some tasks as &quot;running&quot; even though all workers are busy?](https://www.reddit.com/r/Python/comments/1n7sr1x/why_does_processpoolexecutor_mark_some_tasks_as/)
+- [flattening elements from a nested list](https://www.reddit.com/r/Python/comments/1n85395/flattening_elements_from_a_nested_list/)
+- [Typewriter sound program](https://www.reddit.com/r/Python/comments/1n85285/typewriter_sound_program/)
+- [Newsletters/people to follow and read](https://www.reddit.com/r/Python/comments/1n84tr5/newsletterspeople_to_follow_and_read/)
+- [Showcase: ecma426: Source Maps in Pure Python](https://www.reddit.com/r/Python/comments/1n84top/showcase_ecma426_source_maps_in_pure_python/)
+- [# How to train a AI in windows &lpar;easy&rpar;](https://www.reddit.com/r/Python/comments/1n84q1m/how_to_train_a_ai_in_windows_easy/)
 <!-- BLOG-POST-LIST:END -->
