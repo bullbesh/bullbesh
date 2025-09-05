@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Showcase: I co-created dlt, an open-source Python library that lets you build data pipelines in minu](https://www.reddit.com/r/Python/comments/1n91acl/showcase_i_cocreated_dlt_an_opensource_python/)
+- [Sphinx Docs Translation: tutorial and template](https://www.reddit.com/r/Python/comments/1n90ss5/sphinx_docs_translation_tutorial_and_template/)
 - [Textbook Available for Free](https://www.reddit.com/r/Python/comments/1n8zzi8/textbook_available_for_free/)
 - [Highly relevant moderation rant](https://www.reddit.com/r/Python/comments/1n8ryo5/highly_relevant_moderation_rant/)
 - [What Server to use for YOLOv11.](https://www.reddit.com/r/Python/comments/1n8roey/what_server_to_use_for_yolov11/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1n8qcam/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Notes for Python](https://www.reddit.com/r/Python/comments/1n8lp06/notes_for_python/)
 <!-- BLOG-POST-LIST:END -->
