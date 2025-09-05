@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Помогите решить задание из учебника.](https://www.reddit.com/r/Python/comments/1n9i3v4/помогите_решить_задание_из_учебника/)
 - [Giving up on coding for the third time.](https://www.reddit.com/r/Python/comments/1n9fb2a/giving_up_on_coding_for_the_third_time/)
 - [am i slow at coding ? should i afraid ?](https://www.reddit.com/r/Python/comments/1n9ew7e/am_i_slow_at_coding_should_i_afraid/)
 - [I thought I&#39;d give away my Python eBook &lpar;pdf&rpar; for free.](https://www.reddit.com/r/Python/comments/1n9d8oj/i_thought_id_give_away_my_python_ebook_pdf_for/)
 - [Winion: a Linux-like command interpreter for Windows with built-in package manager &lpar;Coming September](https://www.reddit.com/r/Python/comments/1n98zq3/winion_a_linuxlike_command_interpreter_for/)
-- [Python API Developer – Remote](https://www.reddit.com/r/Python/comments/1n981nf/python_api_developer_remote/)
 <!-- BLOG-POST-LIST:END -->
