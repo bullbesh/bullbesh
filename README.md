@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Textbook Available for Free](https://www.reddit.com/r/Python/comments/1n8zzi8/textbook_available_for_free/)
 - [Highly relevant moderation rant](https://www.reddit.com/r/Python/comments/1n8ryo5/highly_relevant_moderation_rant/)
 - [What Server to use for YOLOv11.](https://www.reddit.com/r/Python/comments/1n8roey/what_server_to_use_for_yolov11/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1n8qcam/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Notes for Python](https://www.reddit.com/r/Python/comments/1n8lp06/notes_for_python/)
-- [I&#39;m building local, open-source, fast minimal, and extendible python RAG library and CLI tool](https://www.reddit.com/r/Python/comments/1n8jasr/im_building_local_opensource_fast_minimal_and/)
 <!-- BLOG-POST-LIST:END -->
