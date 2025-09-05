@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a visual component library for instrumentation](https://www.reddit.com/r/Python/comments/1n9267v/i_built_a_visual_component_library_for/)
-- [Showcase: I co-created dlt, an open-source Python library that lets you build data pipelines in minu](https://www.reddit.com/r/Python/comments/1n91acl/showcase_i_cocreated_dlt_an_opensource_python/)
-- [Sphinx Docs Translation: tutorial and template](https://www.reddit.com/r/Python/comments/1n90ss5/sphinx_docs_translation_tutorial_and_template/)
-- [Textbook Available for Free](https://www.reddit.com/r/Python/comments/1n8zzi8/textbook_available_for_free/)
-- [Highly relevant moderation rant](https://www.reddit.com/r/Python/comments/1n8ryo5/highly_relevant_moderation_rant/)
+- [Giving up on coding for the third time.](https://www.reddit.com/r/Python/comments/1n9fb2a/giving_up_on_coding_for_the_third_time/)
+- [am i slow at coding ? should i afraid ?](https://www.reddit.com/r/Python/comments/1n9ew7e/am_i_slow_at_coding_should_i_afraid/)
+- [I thought I&#39;d give away my Python eBook &lpar;pdf&rpar; for free.](https://www.reddit.com/r/Python/comments/1n9d8oj/i_thought_id_give_away_my_python_ebook_pdf_for/)
+- [Winion: a Linux-like command interpreter for Windows with built-in package manager &lpar;Coming September](https://www.reddit.com/r/Python/comments/1n98zq3/winion_a_linuxlike_command_interpreter_for/)
+- [Python API Developer – Remote](https://www.reddit.com/r/Python/comments/1n981nf/python_api_developer_remote/)
 <!-- BLOG-POST-LIST:END -->
