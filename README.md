@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [python program.](https://www.reddit.com/r/Python/comments/1n9yidg/python_program/)
+- [JollyRadio - A web based radio](https://www.reddit.com/r/Python/comments/1na21zu/jollyradio_a_web_based_radio/)
 - [Automating Power Supply Measurements with PyVisa &amp; Pytest](https://www.reddit.com/r/Python/comments/1n9urtc/automating_power_supply_measurements_with_pyvisa/)
 - [What are some non-AI tools/extensions which have really boosted your work life or made life easier?](https://www.reddit.com/r/Python/comments/1n9qlkv/what_are_some_nonai_toolsextensions_which_have/)
 - [Python IDLE&#39;s practical upgrade: file tree, tabbed editing, console view using only stdlib+tkinter.](https://www.reddit.com/r/Python/comments/1n9q2p1/python_idles_practical_upgrade_file_tree_tabbed/)
