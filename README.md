@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Keyboard Count Tracker](https://www.reddit.com/r/Python/comments/1na6xqg/simple_keyboard_count_tracker/)
 - [Ducky, my open-source networking &amp; security toolkit for Network Engineers, Sysadmins, and Pentester](https://www.reddit.com/r/Python/comments/1na61l2/ducky_my_opensource_networking_security_toolkit/)
 - [From Stress to Success: Load Testing Python Apps – Open Source Example](https://www.reddit.com/r/Python/comments/1na5fk2/from_stress_to_success_load_testing_python_apps/)
 - [A tool to create a database of all the items of a directory](https://www.reddit.com/r/Python/comments/1na5fiq/a_tool_to_create_a_database_of_all_the_items_of_a/)
 - [JollyRadio - A web based radio](https://www.reddit.com/r/Python/comments/1na21zu/jollyradio_a_web_based_radio/)
-- [Automating Power Supply Measurements with PyVisa &amp; Pytest](https://www.reddit.com/r/Python/comments/1n9urtc/automating_power_supply_measurements_with_pyvisa/)
 <!-- BLOG-POST-LIST:END -->
