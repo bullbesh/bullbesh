@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I used Python and pdfplumber to build an agentic system for analyzing arXiv papers](https://www.reddit.com/r/Python/comments/1na9zkr/i_used_python_and_pdfplumber_to_build_an_agentic/)
 - [Built a free VS Code extension for Python dependencies - no more PyPI tab switching](https://www.reddit.com/r/Python/comments/1na9od6/built_a_free_vs_code_extension_for_python/)
 - [Simple Keyboard Count Tracker](https://www.reddit.com/r/Python/comments/1na6xqg/simple_keyboard_count_tracker/)
 - [Ducky, my open-source networking &amp; security toolkit for Network Engineers, Sysadmins, and Pentester](https://www.reddit.com/r/Python/comments/1na61l2/ducky_my_opensource_networking_security_toolkit/)
 - [From Stress to Success: Load Testing Python Apps – Open Source Example](https://www.reddit.com/r/Python/comments/1na5fk2/from_stress_to_success_load_testing_python_apps/)
-- [A tool to create a database of all the items of a directory](https://www.reddit.com/r/Python/comments/1na5fiq/a_tool_to_create_a_database_of_all_the_items_of_a/)
 <!-- BLOG-POST-LIST:END -->
