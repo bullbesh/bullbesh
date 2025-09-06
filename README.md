@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Помогите решить задание из учебника.](https://www.reddit.com/r/Python/comments/1n9i3v4/помогите_решить_задание_из_учебника/)
-- [Giving up on coding for the third time.](https://www.reddit.com/r/Python/comments/1n9fb2a/giving_up_on_coding_for_the_third_time/)
-- [am i slow at coding ? should i afraid ?](https://www.reddit.com/r/Python/comments/1n9ew7e/am_i_slow_at_coding_should_i_afraid/)
-- [I thought I&#39;d give away my Python eBook &lpar;pdf&rpar; for free.](https://www.reddit.com/r/Python/comments/1n9d8oj/i_thought_id_give_away_my_python_ebook_pdf_for/)
-- [Winion: a Linux-like command interpreter for Windows with built-in package manager &lpar;Coming September](https://www.reddit.com/r/Python/comments/1n98zq3/winion_a_linuxlike_command_interpreter_for/)
+- [What are some non-AI tools/extensions which have really boosted your work life or made life easier?](https://www.reddit.com/r/Python/comments/1n9qlkv/what_are_some_nonai_toolsextensions_which_have/)
+- [Python IDLE&#39;s practical upgrade: file tree, tabbed editing, console view using only stdlib+tkinter.](https://www.reddit.com/r/Python/comments/1n9q2p1/python_idles_practical_upgrade_file_tree_tabbed/)
+- [Simple Python expression that does complex things?](https://www.reddit.com/r/Python/comments/1n9ov57/simple_python_expression_that_does_complex_things/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1n9l3dr/saturday_daily_thread_resource_request_and/)
+- [Python Type System and Tooling Survey 2025 &lpar;From Meta &amp; JetBrains&rpar;](https://www.reddit.com/r/Python/comments/1n9kste/python_type_system_and_tooling_survey_2025_from/)
 <!-- BLOG-POST-LIST:END -->
