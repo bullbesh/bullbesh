@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ducky, my open-source networking &amp; security toolkit for Network Engineers, Sysadmins, and Pentester](https://www.reddit.com/r/Python/comments/1na61l2/ducky_my_opensource_networking_security_toolkit/)
+- [From Stress to Success: Load Testing Python Apps – Open Source Example](https://www.reddit.com/r/Python/comments/1na5fk2/from_stress_to_success_load_testing_python_apps/)
+- [A tool to create a database of all the items of a directory](https://www.reddit.com/r/Python/comments/1na5fiq/a_tool_to_create_a_database_of_all_the_items_of_a/)
 - [JollyRadio - A web based radio](https://www.reddit.com/r/Python/comments/1na21zu/jollyradio_a_web_based_radio/)
 - [Automating Power Supply Measurements with PyVisa &amp; Pytest](https://www.reddit.com/r/Python/comments/1n9urtc/automating_power_supply_measurements_with_pyvisa/)
-- [What are some non-AI tools/extensions which have really boosted your work life or made life easier?](https://www.reddit.com/r/Python/comments/1n9qlkv/what_are_some_nonai_toolsextensions_which_have/)
-- [Python IDLE&#39;s practical upgrade: file tree, tabbed editing, console view using only stdlib+tkinter.](https://www.reddit.com/r/Python/comments/1n9q2p1/python_idles_practical_upgrade_file_tree_tabbed/)
-- [Simple Python expression that does complex things?](https://www.reddit.com/r/Python/comments/1n9ov57/simple_python_expression_that_does_complex_things/)
 <!-- BLOG-POST-LIST:END -->
