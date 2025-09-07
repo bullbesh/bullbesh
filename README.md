@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [TempoCut — Broadcast-style audio/video time compression in Python](https://www.reddit.com/r/Python/comments/1nagdcd/tempocut_broadcaststyle_audiovideo_time/)
+- [ensures: simple Design by Contract](https://www.reddit.com/r/Python/comments/1nag19u/ensures_simple_design_by_contract/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1naeqh3/sunday_daily_thread_whats_everyone_working_on/)
+- [Another free Python 3 Tkinter Book](https://www.reddit.com/r/Python/comments/1naeauz/another_free_python_3_tkinter_book/)
 - [I used Python and pdfplumber to build an agentic system for analyzing arXiv papers](https://www.reddit.com/r/Python/comments/1na9zkr/i_used_python_and_pdfplumber_to_build_an_agentic/)
-- [Built a free VS Code extension for Python dependencies - no more PyPI tab switching](https://www.reddit.com/r/Python/comments/1na9od6/built_a_free_vs_code_extension_for_python/)
-- [Simple Keyboard Count Tracker](https://www.reddit.com/r/Python/comments/1na6xqg/simple_keyboard_count_tracker/)
-- [Ducky, my open-source networking &amp; security toolkit for Network Engineers, Sysadmins, and Pentester](https://www.reddit.com/r/Python/comments/1na61l2/ducky_my_opensource_networking_security_toolkit/)
-- [From Stress to Success: Load Testing Python Apps – Open Source Example](https://www.reddit.com/r/Python/comments/1na5fk2/from_stress_to_success_load_testing_python_apps/)
 <!-- BLOG-POST-LIST:END -->
