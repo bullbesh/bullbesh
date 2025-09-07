@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Free Python PDF Libraries You Should Know in 2025](https://www.reddit.com/r/Python/comments/1naohtd/7_free_python_pdf_libraries_you_should_know_in/)
-- [Need advice with low-level disk wiping &lpar;HPA/DCO, device detection&rpar;](https://www.reddit.com/r/Python/comments/1nalqfh/need_advice_with_lowlevel_disk_wiping_hpadco/)
-- [Python-JSON-Logger v4.0.0.rc1 Released](https://www.reddit.com/r/Python/comments/1nakbd6/pythonjsonlogger_v400rc1_released/)
-- [TempoCut — Broadcast-style audio/video time compression in Python](https://www.reddit.com/r/Python/comments/1nagdcd/tempocut_broadcaststyle_audiovideo_time/)
-- [ensures: simple Design by Contract](https://www.reddit.com/r/Python/comments/1nag19u/ensures_simple_design_by_contract/)
+- [lilpipe: a tiny, typed pipeline engine &lpar;not a DAG&rpar;](https://www.reddit.com/r/Python/comments/1nb5rhw/lilpipe_a_tiny_typed_pipeline_engine_not_a_dag/)
+- [Prompt components - a better library for managing LLM prompts](https://www.reddit.com/r/Python/comments/1nb05ab/prompt_components_a_better_library_for_managing/)
+- [Class type parameters that actually do something](https://www.reddit.com/r/Python/comments/1nazumb/class_type_parameters_that_actually_do_something/)
+- [ML Data Pipeline pain points](https://www.reddit.com/r/Python/comments/1nax88a/ml_data_pipeline_pain_points/)
+- [Does any body have problems with the openai agents library?](https://www.reddit.com/r/Python/comments/1navllc/does_any_body_have_problems_with_the_openai/)
 <!-- BLOG-POST-LIST:END -->
