@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need advice with low-level disk wiping &lpar;HPA/DCO, device detection&rpar;](https://www.reddit.com/r/Python/comments/1nalqfh/need_advice_with_lowlevel_disk_wiping_hpadco/)
+- [Python-JSON-Logger v4.0.0.rc1 Released](https://www.reddit.com/r/Python/comments/1nakbd6/pythonjsonlogger_v400rc1_released/)
 - [TempoCut — Broadcast-style audio/video time compression in Python](https://www.reddit.com/r/Python/comments/1nagdcd/tempocut_broadcaststyle_audiovideo_time/)
 - [ensures: simple Design by Contract](https://www.reddit.com/r/Python/comments/1nag19u/ensures_simple_design_by_contract/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1naeqh3/sunday_daily_thread_whats_everyone_working_on/)
-- [Another free Python 3 Tkinter Book](https://www.reddit.com/r/Python/comments/1naeauz/another_free_python_3_tkinter_book/)
-- [I used Python and pdfplumber to build an agentic system for analyzing arXiv papers](https://www.reddit.com/r/Python/comments/1na9zkr/i_used_python_and_pdfplumber_to_build_an_agentic/)
 <!-- BLOG-POST-LIST:END -->
