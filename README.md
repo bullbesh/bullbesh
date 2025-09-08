@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1nb8x34/monday_daily_thread_project_ideas/)
+- [My Python library to create images from simple layouts](https://www.reddit.com/r/Python/comments/1nb8bdn/my_python_library_to_create_images_from_simple/)
 - [lilpipe: a tiny, typed pipeline engine &lpar;not a DAG&rpar;](https://www.reddit.com/r/Python/comments/1nb5rhw/lilpipe_a_tiny_typed_pipeline_engine_not_a_dag/)
 - [Prompt components - a better library for managing LLM prompts](https://www.reddit.com/r/Python/comments/1nb05ab/prompt_components_a_better_library_for_managing/)
 - [Class type parameters that actually do something](https://www.reddit.com/r/Python/comments/1nazumb/class_type_parameters_that_actually_do_something/)
-- [ML Data Pipeline pain points](https://www.reddit.com/r/Python/comments/1nax88a/ml_data_pipeline_pain_points/)
-- [Does any body have problems with the openai agents library?](https://www.reddit.com/r/Python/comments/1navllc/does_any_body_have_problems_with_the_openai/)
 <!-- BLOG-POST-LIST:END -->
