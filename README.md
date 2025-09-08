@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [what are some concepts i need to know to build a mini &quot;FASTAPI&quot;](https://www.reddit.com/r/Python/comments/1nbh74t/what_are_some_concepts_i_need_to_know_to_build_a/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1nb8x34/monday_daily_thread_project_ideas/)
-- [My Python library to create images from simple layouts](https://www.reddit.com/r/Python/comments/1nb8bdn/my_python_library_to_create_images_from_simple/)
-- [lilpipe: a tiny, typed pipeline engine &lpar;not a DAG&rpar;](https://www.reddit.com/r/Python/comments/1nb5rhw/lilpipe_a_tiny_typed_pipeline_engine_not_a_dag/)
-- [Prompt components - a better library for managing LLM prompts](https://www.reddit.com/r/Python/comments/1nb05ab/prompt_components_a_better_library_for_managing/)
+- [Questions for interview on OOPs concept.](https://www.reddit.com/r/Python/comments/1nbnqh7/questions_for_interview_on_oops_concept/)
+- [Aicontextator - A CLI tool to safely bundle your project&#39;s code for LLMs](https://www.reddit.com/r/Python/comments/1nbmdj7/aicontextator_a_cli_tool_to_safely_bundle_your/)
+- [Webscraping twitter or any](https://www.reddit.com/r/Python/comments/1nblyt6/webscraping_twitter_or_any/)
+- [Stop building UI frameworks in Python](https://www.reddit.com/r/Python/comments/1nbkych/stop_building_ui_frameworks_in_python/)
+- [I built a programming language interpreted in Python!](https://www.reddit.com/r/Python/comments/1nbkguo/i_built_a_programming_language_interpreted_in/)
 <!-- BLOG-POST-LIST:END -->
