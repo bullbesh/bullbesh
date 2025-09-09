@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the best framework for working with data from remote devices and applying it to the web?](https://www.reddit.com/r/Python/comments/1nc7tpm/what_is_the_best_framework_for_working_with_data/)
+- [Python Type System and Tooling Survey 2025](https://www.reddit.com/r/Python/comments/1nc7r45/python_type_system_and_tooling_survey_2025/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1nc41wf/tuesday_daily_thread_advanced_questions/)
 - [Just LSPDock v0.1.3 &lpar;before named LSProxy&rpar; released, multi-lsp handling feature](https://www.reddit.com/r/Python/comments/1nc3glf/just_lspdock_v013_before_named_lsproxy_released/)
 - [Interactive PID and H2 Optimal Controller](https://www.reddit.com/r/Python/comments/1nc1xel/interactive_pid_and_h2_optimal_controller/)
-- [Baba is you, learning games](https://www.reddit.com/r/Python/comments/1nc0etx/baba_is_you_learning_games/)
-- [cython for coding a game engine?](https://www.reddit.com/r/Python/comments/1nbx7l6/cython_for_coding_a_game_engine/)
 <!-- BLOG-POST-LIST:END -->
