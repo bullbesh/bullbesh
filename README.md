@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Just finished my Python book – learn coding step by step!](https://www.reddit.com/r/Python/comments/1ncby70/just_finished_my_python_book_learn_coding_step_by/)
+- [cosine=0.91 but answer is wrong. a tiny python MRE for “semantic ≠ embedding” and before/after fix](https://www.reddit.com/r/Python/comments/1ncdmvb/cosine091_but_answer_is_wrong_a_tiny_python_mre/)
 - [I built a Django job scraper that saves listings directly into Google Sheets](https://www.reddit.com/r/Python/comments/1ncbh1t/i_built_a_django_job_scraper_that_saves_listings/)
 - [trying to find old rtmidi module](https://www.reddit.com/r/Python/comments/1ncaaqa/trying_to_find_old_rtmidi_module/)
 - [What is the best framework for working with data from remote devices and applying it to the web?](https://www.reddit.com/r/Python/comments/1nc7tpm/what_is_the_best_framework_for_working_with_data/)
