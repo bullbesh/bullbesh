@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kryypto: New Release](https://www.reddit.com/r/Python/comments/1neiod8/kryypto_new_release/)
+- [Early Trial: Using uv for Env Management in Clustered ML Training &lpar;Need Advice&rpar;](https://www.reddit.com/r/Python/comments/1nefnct/early_trial_using_uv_for_env_management_in/)
+- [Dynamic Agent-Generated UI via NiceGUI &lpar;w/o tooling&rpar;](https://www.reddit.com/r/Python/comments/1neet2h/dynamic_agentgenerated_ui_via_nicegui_wo_tooling/)
 - [A Python module for AI-powered web scraping with customizable field extraction using 100+ LLMs](https://www.reddit.com/r/Python/comments/1ne77z7/a_python_module_for_aipowered_web_scraping_with/)
 - [How to Build Your Own Bluetooth Scriptable Sniffer using python for Under $25](https://www.reddit.com/r/Python/comments/1ne4z4b/how_to_build_your_own_bluetooth_scriptable/)
-- [detroit: Python implementation of d3js](https://www.reddit.com/r/Python/comments/1ne4t1d/detroit_python_implementation_of_d3js/)
-- [Python VS Power BI](https://www.reddit.com/r/Python/comments/1ne2g15/python_vs_power_bi/)
-- [Python code that can remove &quot;*-#&quot; from your word document in the blink of eye.](https://www.reddit.com/r/Python/comments/1ndz093/python_code_that_can_remove_from_your_word/)
 <!-- BLOG-POST-LIST:END -->
