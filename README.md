@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [fp-style pattern matching implemented in python](https://www.reddit.com/r/Python/comments/1nem1ty/fpstyle_pattern_matching_implemented_in_python/)
 - [Kryypto: New Release](https://www.reddit.com/r/Python/comments/1neiod8/kryypto_new_release/)
 - [Early Trial: Using uv for Env Management in Clustered ML Training &lpar;Need Advice&rpar;](https://www.reddit.com/r/Python/comments/1nefnct/early_trial_using_uv_for_env_management_in/)
 - [Dynamic Agent-Generated UI via NiceGUI &lpar;w/o tooling&rpar;](https://www.reddit.com/r/Python/comments/1neet2h/dynamic_agentgenerated_ui_via_nicegui_wo_tooling/)
 - [A Python module for AI-powered web scraping with customizable field extraction using 100+ LLMs](https://www.reddit.com/r/Python/comments/1ne77z7/a_python_module_for_aipowered_web_scraping_with/)
-- [How to Build Your Own Bluetooth Scriptable Sniffer using python for Under $25](https://www.reddit.com/r/Python/comments/1ne4z4b/how_to_build_your_own_bluetooth_scriptable/)
 <!-- BLOG-POST-LIST:END -->
