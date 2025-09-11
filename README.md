@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python code that can remove &quot;*-#&quot; from your word document in the blink of eye.](https://www.reddit.com/r/Python/comments/1ndz093/python_code_that_can_remove_from_your_word/)
+- [From Code to Python: Gentle Guide for Programmers &amp; Learners](https://www.reddit.com/r/Python/comments/1ndy9gv/from_code_to_python_gentle_guide_for_programmers/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ndua5j/thursday_daily_thread_python_careers_courses_and/)
 - [Streamlit for python apps](https://www.reddit.com/r/Python/comments/1ndsuud/streamlit_for_python_apps/)
 - [[ANNOUNCEMENT] pychub: A new way to ship your Python wheels + deps + extras](https://www.reddit.com/r/Python/comments/1nds31l/announcement_pychub_a_new_way_to_ship_your_python/)
-- [I am going to suggest two ideas for python, what are your thoughts?](https://www.reddit.com/r/Python/comments/1ndpzmo/i_am_going_to_suggest_two_ideas_for_python_what/)
-- [&quot;I wanted to learn Scripting In python&quot; any one want to join !!](https://www.reddit.com/r/Python/comments/1ndo680/i_wanted_to_learn_scripting_in_python_any_one/)
 <!-- BLOG-POST-LIST:END -->
