@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python module for AI-powered web scraping with customizable field extraction using 100+ LLMs](https://www.reddit.com/r/Python/comments/1ne77z7/a_python_module_for_aipowered_web_scraping_with/)
 - [How to Build Your Own Bluetooth Scriptable Sniffer using python for Under $25](https://www.reddit.com/r/Python/comments/1ne4z4b/how_to_build_your_own_bluetooth_scriptable/)
 - [detroit: Python implementation of d3js](https://www.reddit.com/r/Python/comments/1ne4t1d/detroit_python_implementation_of_d3js/)
 - [Python VS Power BI](https://www.reddit.com/r/Python/comments/1ne2g15/python_vs_power_bi/)
 - [Python code that can remove &quot;*-#&quot; from your word document in the blink of eye.](https://www.reddit.com/r/Python/comments/1ndz093/python_code_that_can_remove_from_your_word/)
-- [From Code to Python: Gentle Guide for Programmers &amp; Learners](https://www.reddit.com/r/Python/comments/1ndy9gv/from_code_to_python_gentle_guide_for_programmers/)
 <!-- BLOG-POST-LIST:END -->
