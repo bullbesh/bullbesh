@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flowfile - An open-source visual ETL tool, now with a Pydantic-based node designer.](https://www.reddit.com/r/Python/comments/1nff4dw/flowfile_an_opensource_visual_etl_tool_now_with_a/)
+- [I Used Python and Bayes to Build a Smart Cybersecurity System](https://www.reddit.com/r/Python/comments/1nfe1uq/i_used_python_and_bayes_to_build_a_smart/)
 - [Learning machine learning](https://www.reddit.com/r/Python/comments/1nfdlmq/learning_machine_learning/)
 - [Thanks r/Python community for reviewing my project Ducky all in one networking tool!](https://www.reddit.com/r/Python/comments/1nfdhlu/thanks_rpython_community_for_reviewing_my_project/)
 - [What is 0 to the power of 0? &lpar;lim x→0⁺ of x^x = 1&rpar;](https://www.reddit.com/r/Python/comments/1nf79qg/what_is_0_to_the_power_of_0_lim_x0_of_xx_1/)
-- [Update: Should I give away my app to my employer for free?](https://www.reddit.com/r/Python/comments/1nf57hb/update_should_i_give_away_my_app_to_my_employer/)
-- [Real-world experiences with AI coding agents &lpar;Devin, SWE-agent, Aider, Cursor, etc.&rpar; – which one is](https://www.reddit.com/r/Python/comments/1nf1lmm/realworld_experiences_with_ai_coding_agents_devin/)
 <!-- BLOG-POST-LIST:END -->
