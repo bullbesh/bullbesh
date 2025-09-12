@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a from-scratch Python package for classic Numerical Methods &lpar;no NumPy/SciPy required!&rpar;](https://www.reddit.com/r/Python/comments/1nexoe8/i_built_a_fromscratch_python_package_for_classic/)
+- [Building with Litestar and AI Agents](https://www.reddit.com/r/Python/comments/1new8g8/building_with_litestar_and_ai_agents/)
+- [html2pic: transform basic html&amp;css to image, without a browser &lpar;experimental&rpar;](https://www.reddit.com/r/Python/comments/1neuyit/html2pic_transform_basic_htmlcss_to_image_without/)
 - [💻 [Showcase] MotionSaver: A Python-based Dynamic Video Lockscreen &amp; Screensaver for Windows](https://www.reddit.com/r/Python/comments/1neu7bv/showcase_motionsaver_a_pythonbased_dynamic_video/)
 - [Best way to install python package with all its dependencies on an offline pc. -- Part 2](https://www.reddit.com/r/Python/comments/1ner9mj/best_way_to_install_python_package_with_all_its/)
-- [I Found a Game-Changing Tool for Extracting Hard Subtitles from Videos – Open Source &amp; Super Fast!](https://www.reddit.com/r/Python/comments/1neqpor/i_found_a_gamechanging_tool_for_extracting_hard/)
-- [Tips for Sprite Collisions in Platformer](https://www.reddit.com/r/Python/comments/1neosd8/tips_for_sprite_collisions_in_platformer/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1neoksd/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
