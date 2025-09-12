@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best way to install python package with all its dependencies on an offline pc. -- Part 2](https://www.reddit.com/r/Python/comments/1ner9mj/best_way_to_install_python_package_with_all_its/)
+- [I Found a Game-Changing Tool for Extracting Hard Subtitles from Videos – Open Source &amp; Super Fast!](https://www.reddit.com/r/Python/comments/1neqpor/i_found_a_gamechanging_tool_for_extracting_hard/)
 - [Tips for Sprite Collisions in Platformer](https://www.reddit.com/r/Python/comments/1neosd8/tips_for_sprite_collisions_in_platformer/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1neoksd/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Why does my program only work in vsc?](https://www.reddit.com/r/Python/comments/1nenw34/why_does_my_program_only_work_in_vsc/)
-- [What is the quickest and easiest way to fix indentation errors?](https://www.reddit.com/r/Python/comments/1neno5h/what_is_the_quickest_and_easiest_way_to_fix/)
-- [fp-style pattern matching implemented in python](https://www.reddit.com/r/Python/comments/1nem1ty/fpstyle_pattern_matching_implemented_in_python/)
 <!-- BLOG-POST-LIST:END -->
