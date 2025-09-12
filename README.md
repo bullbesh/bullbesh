@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tips for Sprite Collisions in Platformer](https://www.reddit.com/r/Python/comments/1neosd8/tips_for_sprite_collisions_in_platformer/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1neoksd/friday_daily_thread_rpython_meta_and_freetalk/)
+- [Why does my program only work in vsc?](https://www.reddit.com/r/Python/comments/1nenw34/why_does_my_program_only_work_in_vsc/)
 - [What is the quickest and easiest way to fix indentation errors?](https://www.reddit.com/r/Python/comments/1neno5h/what_is_the_quickest_and_easiest_way_to_fix/)
 - [fp-style pattern matching implemented in python](https://www.reddit.com/r/Python/comments/1nem1ty/fpstyle_pattern_matching_implemented_in_python/)
-- [Kryypto: New Release](https://www.reddit.com/r/Python/comments/1neiod8/kryypto_new_release/)
-- [Early Trial: Using uv for Env Management in Clustered ML Training &lpar;Need Advice&rpar;](https://www.reddit.com/r/Python/comments/1nefnct/early_trial_using_uv_for_env_management_in/)
-- [Dynamic Agent-Generated UI via NiceGUI &lpar;w/o tooling&rpar;](https://www.reddit.com/r/Python/comments/1neet2h/dynamic_agentgenerated_ui_via_nicegui_wo_tooling/)
 <!-- BLOG-POST-LIST:END -->
