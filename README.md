@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tea Tasting: t-testing library alternatives?](https://www.reddit.com/r/Python/comments/1ng8qg0/tea_tasting_ttesting_library_alternatives/)
 - [Bot de Instagram](https://www.reddit.com/r/Python/comments/1ng6vhs/bot_de_instagram/)
 - [Gute Ideen gesucht!](https://www.reddit.com/r/Python/comments/1ng65fg/gute_ideen_gesucht/)
 - [SplitterMR: a modular library for splitting &amp; parsing documents](https://www.reddit.com/r/Python/comments/1ng2h8x/splittermr_a_modular_library_for_splitting/)
 - [The best object notation?](https://www.reddit.com/r/Python/comments/1ng10wr/the_best_object_notation/)
-- [MathFlow: an easy-to-use math library for python](https://www.reddit.com/r/Python/comments/1nfyq8o/mathflow_an_easytouse_math_library_for_python/)
 <!-- BLOG-POST-LIST:END -->
