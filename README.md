@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing iceoryx2 v0.7: Fast and Robust Inter-Process Communication &lpar;IPC&rpar; Library](https://www.reddit.com/r/Python/comments/1nfvo8y/announcing_iceoryx2_v07_fast_and_robust/)
 - [I built QRPorter — local Wi-Fi file transfer via QR &lpar;PC ↔ Mobile&rpar;](https://www.reddit.com/r/Python/comments/1nfupw4/i_built_qrporter_local_wifi_file_transfer_via_qr/)
 - [Every Python Built-In Function Explained](https://www.reddit.com/r/Python/comments/1nfphsi/every_python_builtin_function_explained/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1nfiys8/saturday_daily_thread_resource_request_and/)
 - [Flowfile - An open-source visual ETL tool, now with a Pydantic-based node designer.](https://www.reddit.com/r/Python/comments/1nff4dw/flowfile_an_opensource_visual_etl_tool_now_with_a/)
-- [I Used Python and Bayes to Build a Smart Cybersecurity System](https://www.reddit.com/r/Python/comments/1nfe1uq/i_used_python_and_bayes_to_build_a_smart/)
 <!-- BLOG-POST-LIST:END -->
