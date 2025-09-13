@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bot de Instagram](https://www.reddit.com/r/Python/comments/1ng6vhs/bot_de_instagram/)
+- [Gute Ideen gesucht!](https://www.reddit.com/r/Python/comments/1ng65fg/gute_ideen_gesucht/)
 - [SplitterMR: a modular library for splitting &amp; parsing documents](https://www.reddit.com/r/Python/comments/1ng2h8x/splittermr_a_modular_library_for_splitting/)
 - [The best object notation?](https://www.reddit.com/r/Python/comments/1ng10wr/the_best_object_notation/)
 - [MathFlow: an easy-to-use math library for python](https://www.reddit.com/r/Python/comments/1nfyq8o/mathflow_an_easytouse_math_library_for_python/)
-- [Announcing iceoryx2 v0.7: Fast and Robust Inter-Process Communication &lpar;IPC&rpar; Library](https://www.reddit.com/r/Python/comments/1nfvo8y/announcing_iceoryx2_v07_fast_and_robust/)
-- [I built QRPorter — local Wi-Fi file transfer via QR &lpar;PC ↔ Mobile&rpar;](https://www.reddit.com/r/Python/comments/1nfupw4/i_built_qrporter_local_wifi_file_transfer_via_qr/)
 <!-- BLOG-POST-LIST:END -->
