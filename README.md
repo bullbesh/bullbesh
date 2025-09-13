@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The best object notation?](https://www.reddit.com/r/Python/comments/1ng10wr/the_best_object_notation/)
 - [MathFlow: an easy-to-use math library for python](https://www.reddit.com/r/Python/comments/1nfyq8o/mathflow_an_easytouse_math_library_for_python/)
 - [Announcing iceoryx2 v0.7: Fast and Robust Inter-Process Communication &lpar;IPC&rpar; Library](https://www.reddit.com/r/Python/comments/1nfvo8y/announcing_iceoryx2_v07_fast_and_robust/)
 - [I built QRPorter — local Wi-Fi file transfer via QR &lpar;PC ↔ Mobile&rpar;](https://www.reddit.com/r/Python/comments/1nfupw4/i_built_qrporter_local_wifi_file_transfer_via_qr/)
 - [Every Python Built-In Function Explained](https://www.reddit.com/r/Python/comments/1nfphsi/every_python_builtin_function_explained/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1nfiys8/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
