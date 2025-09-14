@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Interview Questions: From Basics to Advanced](https://www.reddit.com/r/Python/comments/1nh1lj2/python_interview_questions_from_basics_to_advanced/)
 - [Another free Python 3 book - Files and Directories](https://www.reddit.com/r/Python/comments/1ngy2ha/another_free_python_3_book_files_and_directories/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ngcnn7/sunday_daily_thread_whats_everyone_working_on/)
 - [midi-visualiser: A real-time MIDI player and visualiser.](https://www.reddit.com/r/Python/comments/1ng9en6/midivisualiser_a_realtime_midi_player_and/)
 - [What is the best way of developing an Agent in Python to support a Go backend?](https://www.reddit.com/r/Python/comments/1ng926f/what_is_the_best_way_of_developing_an_agent_in/)
-- [Tea Tasting: t-testing library alternatives?](https://www.reddit.com/r/Python/comments/1ng8qg0/tea_tasting_ttesting_library_alternatives/)
 <!-- BLOG-POST-LIST:END -->
