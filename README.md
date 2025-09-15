@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [3 months in Python, I made my first proper 2D game](https://www.reddit.com/r/Python/comments/1nhfhcs/3_months_in_python_i_made_my_first_proper_2d_game/)
-- [I made a terminal-based game that uses LLMs -- Among LLMs: You are the Impostor](https://www.reddit.com/r/Python/comments/1nhdt04/i_made_a_terminalbased_game_that_uses_llms_among/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1nh6ydt/monday_daily_thread_project_ideas/)
-- [I was terrible at studying so I made a Chrome extension that forces you to learn programming.](https://www.reddit.com/r/Python/comments/1nh3rlv/i_was_terrible_at_studying_so_i_made_a_chrome/)
-- [Python Interview Questions: From Basics to Advanced](https://www.reddit.com/r/Python/comments/1nh1lj2/python_interview_questions_from_basics_to_advanced/)
+- [Check out and maybe buy my python projects](https://www.reddit.com/r/Python/comments/1nhyx8n/check_out_and_maybe_buy_my_python_projects/)
+- [Wanting a project - What do yall need?](https://www.reddit.com/r/Python/comments/1nhulk7/wanting_a_project_what_do_yall_need/)
+- [Created python library for time series projections. E.g. combining income, inflation, dividends, etc](https://www.reddit.com/r/Python/comments/1nhuk7r/created_python_library_for_time_series/)
+- [I made a vs code extension that insults you if you copy &amp; paste AI generated code](https://www.reddit.com/r/Python/comments/1nhtowu/i_made_a_vs_code_extension_that_insults_you_if/)
+- [[Dúvida] - Serial Number para venda de um projeto](https://www.reddit.com/r/Python/comments/1nhs5rm/dúvida_serial_number_para_venda_de_um_projeto/)
 <!-- BLOG-POST-LIST:END -->
