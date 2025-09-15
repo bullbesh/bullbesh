@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [3 months in Python, I made my first proper 2D game](https://www.reddit.com/r/Python/comments/1nhfhcs/3_months_in_python_i_made_my_first_proper_2d_game/)
 - [I made a terminal-based game that uses LLMs -- Among LLMs: You are the Impostor](https://www.reddit.com/r/Python/comments/1nhdt04/i_made_a_terminalbased_game_that_uses_llms_among/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1nh6ydt/monday_daily_thread_project_ideas/)
 - [I was terrible at studying so I made a Chrome extension that forces you to learn programming.](https://www.reddit.com/r/Python/comments/1nh3rlv/i_was_terrible_at_studying_so_i_made_a_chrome/)
 - [Python Interview Questions: From Basics to Advanced](https://www.reddit.com/r/Python/comments/1nh1lj2/python_interview_questions_from_basics_to_advanced/)
-- [Another free Python 3 book - Files and Directories](https://www.reddit.com/r/Python/comments/1ngy2ha/another_free_python_3_book_files_and_directories/)
 <!-- BLOG-POST-LIST:END -->
