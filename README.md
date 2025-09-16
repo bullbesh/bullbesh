@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Built a Python tool to auto-organize messy folders — one command, done 🚀](https://www.reddit.com/r/Python/comments/1nia5bi/built_a_python_tool_to_autoorganize_messy_folders/)
-- [What’s the one Python feature you wish you discovered earlier?](https://www.reddit.com/r/Python/comments/1ni9puj/whats_the_one_python_feature_you_wish_you/)
-- [ImportError: /opt/render/project/src/.venv/lib/python3.13/site-packages/psycopg2/_psycopg.cpython-31](https://www.reddit.com/r/Python/comments/1ni9kd3/importerror/)
-- [Has Anyone Been Using Pyrefly?](https://www.reddit.com/r/Python/comments/1ni81px/has_anyone_been_using_pyrefly/)
-- [Want to run the python project &lpar;Chatbot&rpar; on Xampp local server](https://www.reddit.com/r/Python/comments/1ni74c4/want_to_run_the_python_project_chatbot_on_xampp/)
+- [Can fine-grained memory management be achieved in Python?](https://www.reddit.com/r/Python/comments/1nii4as/can_finegrained_memory_management_be_achieved_in/)
+- [Taming wild JSON in Python: lessons from AI/Agentic Conversations exports](https://www.reddit.com/r/Python/comments/1nihwt2/taming_wild_json_in_python_lessons_from_aiagentic/)
+- [Some tips for beginners &lpar;Things you probably wish you knew when you first started&rpar;](https://www.reddit.com/r/Python/comments/1nifogm/some_tips_for_beginners_things_you_probably_wish/)
+- [Fast weighted selection using digit-bin-index](https://www.reddit.com/r/Python/comments/1nickil/fast_weighted_selection_using_digitbinindex/)
+- [Mogami: VS Code Extension for Managing Python Dependencies](https://www.reddit.com/r/Python/comments/1nic529/mogami_vs_code_extension_for_managing_python/)
 <!-- BLOG-POST-LIST:END -->
