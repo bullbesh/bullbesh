@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Algumas dicas para iniciantes&lpar;Que você provavelmente queria saber quando começou&rpar;](https://www.reddit.com/r/Python/comments/1ni3kyj/algumas_dicas_para_iniciantesque_você/)
+- [RepoGif: Generate GIF previews for your GitHub repos automatically 🎥⭐](https://www.reddit.com/r/Python/comments/1ni3j6b/repogif_generate_gif_previews_for_your_github/)
+- [Starplot - Star charts and maps of the sky](https://www.reddit.com/r/Python/comments/1ni2k4t/starplot_star_charts_and_maps_of_the_sky/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ni2d07/tuesday_daily_thread_advanced_questions/)
 - [Check out and maybe buy my python projects](https://www.reddit.com/r/Python/comments/1nhyx8n/check_out_and_maybe_buy_my_python_projects/)
-- [Wanting a project - What do yall need?](https://www.reddit.com/r/Python/comments/1nhulk7/wanting_a_project_what_do_yall_need/)
-- [Created python library for time series projections. E.g. combining income, inflation, dividends, etc](https://www.reddit.com/r/Python/comments/1nhuk7r/created_python_library_for_time_series/)
-- [I made a vs code extension that insults you if you copy &amp; paste AI generated code](https://www.reddit.com/r/Python/comments/1nhtowu/i_made_a_vs_code_extension_that_insults_you_if/)
-- [[Dúvida] - Serial Number para venda de um projeto](https://www.reddit.com/r/Python/comments/1nhs5rm/dúvida_serial_number_para_venda_de_um_projeto/)
 <!-- BLOG-POST-LIST:END -->
