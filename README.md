@@ -12,5 +12,5 @@
 - [RepoGif: Generate GIF previews for your GitHub repos automatically 🎥⭐](https://www.reddit.com/r/Python/comments/1ni3j6b/repogif_generate_gif_previews_for_your_github/)
 - [Starplot - Star charts and maps of the sky](https://www.reddit.com/r/Python/comments/1ni2k4t/starplot_star_charts_and_maps_of_the_sky/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ni2d07/tuesday_daily_thread_advanced_questions/)
-- [Check out and maybe buy my python projects](https://www.reddit.com/r/Python/comments/1nhyx8n/check_out_and_maybe_buy_my_python_projects/)
+- [Wanting a project - What do yall need?](https://www.reddit.com/r/Python/comments/1nhulk7/wanting_a_project_what_do_yall_need/)
 <!-- BLOG-POST-LIST:END -->
