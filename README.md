@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Let your Python agents play an MMO: Agent-to-Agent protocol + SDK](https://www.reddit.com/r/Python/comments/1niqudg/let_your_python_agents_play_an_mmo_agenttoagent/)
+- [Anyone willing to collaborate on a new chess bot called Ou7 &lpar;already has a Github page&rpar;](https://www.reddit.com/r/Python/comments/1niqqg2/anyone_willing_to_collaborate_on_a_new_chess_bot/)
 - [Can fine-grained memory management be achieved in Python?](https://www.reddit.com/r/Python/comments/1nii4as/can_finegrained_memory_management_be_achieved_in/)
 - [Taming wild JSON in Python: lessons from AI/Agentic Conversations exports](https://www.reddit.com/r/Python/comments/1nihwt2/taming_wild_json_in_python_lessons_from_aiagentic/)
 - [Some tips for beginners &lpar;Things you probably wish you knew when you first started&rpar;](https://www.reddit.com/r/Python/comments/1nifogm/some_tips_for_beginners_things_you_probably_wish/)
-- [Fast weighted selection using digit-bin-index](https://www.reddit.com/r/Python/comments/1nickil/fast_weighted_selection_using_digitbinindex/)
-- [Mogami: VS Code Extension for Managing Python Dependencies](https://www.reddit.com/r/Python/comments/1nic529/mogami_vs_code_extension_for_managing_python/)
 <!-- BLOG-POST-LIST:END -->
