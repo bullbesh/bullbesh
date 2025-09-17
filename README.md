@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Good platform to deploy python scripts with triggers &amp; scheduling](https://www.reddit.com/r/Python/comments/1njhu32/good_platform_to_deploy_python_scripts_with/)
 - [Turning any Data into 3D Cube Space &lpar;Sol LeWitt Technique&rpar; + source](https://www.reddit.com/r/Python/comments/1njbrcj/turning_any_data_into_3d_cube_space_sol_lewitt/)
 - [Built a small PyPI Package for explainable preprocessing](https://www.reddit.com/r/Python/comments/1njb946/built_a_small_pypi_package_for_explainable/)
 - [Master Roshi AI Chatbot - Train with the Turtle Hermit](https://www.reddit.com/r/Python/comments/1nj8l0y/master_roshi_ai_chatbot_train_with_the_turtle/)
 - [Python&#39;s role in the AI infrastructure stack – sharing lessons from building production AI systems](https://www.reddit.com/r/Python/comments/1nj7y99/pythons_role_in_the_ai_infrastructure_stack/)
-- [Datalore vs Deepnote?](https://www.reddit.com/r/Python/comments/1nj7agh/datalore_vs_deepnote/)
 <!-- BLOG-POST-LIST:END -->
