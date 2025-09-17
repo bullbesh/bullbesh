@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning any Data into 3D Cube Space &lpar;Sol LeWitt Technique&rpar; + source](https://www.reddit.com/r/Python/comments/1njbrcj/turning_any_data_into_3d_cube_space_sol_lewitt/)
+- [Built a small PyPI Package for explainable preprocessing](https://www.reddit.com/r/Python/comments/1njb946/built_a_small_pypi_package_for_explainable/)
 - [Master Roshi AI Chatbot - Train with the Turtle Hermit](https://www.reddit.com/r/Python/comments/1nj8l0y/master_roshi_ai_chatbot_train_with_the_turtle/)
 - [Python&#39;s role in the AI infrastructure stack – sharing lessons from building production AI systems](https://www.reddit.com/r/Python/comments/1nj7y99/pythons_role_in_the_ai_infrastructure_stack/)
 - [Datalore vs Deepnote?](https://www.reddit.com/r/Python/comments/1nj7agh/datalore_vs_deepnote/)
-- [Do you prefer sticking to the standard library or pulling in external packages?](https://www.reddit.com/r/Python/comments/1nj12yr/do_you_prefer_sticking_to_the_standard_library_or/)
-- [Can i use candyserver together with gunicorn?](https://www.reddit.com/r/Python/comments/1nj0bd4/can_i_use_candyserver_together_with_gunicorn/)
 <!-- BLOG-POST-LIST:END -->
