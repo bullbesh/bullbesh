@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve created an cross platform app called `PyEnvManager` to make managing python virtual envs easy](https://www.reddit.com/r/Python/comments/1nixhum/ive_created_an_cross_platform_app_called/)
 - [Advanced RAG Techniques: Self-RAG and the Knowledge Gap in Agentic AI Systems](https://www.reddit.com/r/Python/comments/1niwefe/advanced_rag_techniques_selfrag_and_the_knowledge/)
 - [List of 87 Programming Ideas for Beginners &lpar;with Python implementations&rpar;](https://www.reddit.com/r/Python/comments/1nitzoz/list_of_87_programming_ideas_for_beginners_with/)
 - [An open source internal tools platform for Python programs](https://www.reddit.com/r/Python/comments/1nirump/an_open_source_internal_tools_platform_for_python/)
 - [Any python meetups/talks in the NY/NJ area coming up? What do you use to find events like this?](https://www.reddit.com/r/Python/comments/1nirju1/any_python_meetupstalks_in_the_nynj_area_coming/)
-- [Let your Python agents play an MMO: Agent-to-Agent protocol + SDK](https://www.reddit.com/r/Python/comments/1niqudg/let_your_python_agents_play_an_mmo_agenttoagent/)
 <!-- BLOG-POST-LIST:END -->
