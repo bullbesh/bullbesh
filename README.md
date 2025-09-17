@@ -11,6 +11,6 @@
 - [Do you prefer sticking to the standard library or pulling in external packages?](https://www.reddit.com/r/Python/comments/1nj12yr/do_you_prefer_sticking_to_the_standard_library_or/)
 - [Can i use candyserver together with gunicorn?](https://www.reddit.com/r/Python/comments/1nj0bd4/can_i_use_candyserver_together_with_gunicorn/)
 - [I&#39;ve created an cross platform app called `PyEnvManager` to make managing python virtual envs easy](https://www.reddit.com/r/Python/comments/1nixhum/ive_created_an_cross_platform_app_called/)
-- [Advanced RAG Techniques: Self-RAG and the Knowledge Gap in Agentic AI Systems](https://www.reddit.com/r/Python/comments/1niwefe/advanced_rag_techniques_selfrag_and_the_knowledge/)
 - [List of 87 Programming Ideas for Beginners &lpar;with Python implementations&rpar;](https://www.reddit.com/r/Python/comments/1nitzoz/list_of_87_programming_ideas_for_beginners_with/)
+- [An open source internal tools platform for Python programs](https://www.reddit.com/r/Python/comments/1nirump/an_open_source_internal_tools_platform_for_python/)
 <!-- BLOG-POST-LIST:END -->
