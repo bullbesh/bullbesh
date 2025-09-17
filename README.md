@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Where&#39;s a good place to find people to talk about projects?](https://www.reddit.com/r/Python/comments/1njo1k2/wheres_a_good_place_to_find_people_to_talk_about/)
+- [Is JetBrains really able to collect data from my code files through its AI service?](https://www.reddit.com/r/Python/comments/1njmvk2/is_jetbrains_really_able_to_collect_data_from_my/)
 - [Could this be an &#39;Apex&#39; AGI/Ai? been working on this for months and I made it open source.](https://www.reddit.com/r/Python/comments/1njlm4v/could_this_be_an_apex_agiai_been_working_on_this/)
 - [Fast-Channels: WebSocket + Layer Utility Port/Based on Django Channels](https://www.reddit.com/r/Python/comments/1njkn7a/fastchannels_websocket_layer_utility_portbased_on/)
 - [BS4 vs xml.etree.ElementTree](https://www.reddit.com/r/Python/comments/1njiy79/bs4_vs_xmletreeelementtree/)
-- [user auth in azure table storage using python](https://www.reddit.com/r/Python/comments/1nji3b8/user_auth_in_azure_table_storage_using_python/)
-- [Good platform to deploy python scripts with triggers &amp; scheduling](https://www.reddit.com/r/Python/comments/1njhu32/good_platform_to_deploy_python_scripts_with/)
 <!-- BLOG-POST-LIST:END -->
