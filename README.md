@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What yall need? &lpar;I need a project&rpar;](https://www.reddit.com/r/Python/comments/1njzusk/what_yall_need_i_need_a_project/)
 - [[Project] LeetCode Practice Environment Generator for Python](https://www.reddit.com/r/Python/comments/1njwgo0/project_leetcode_practice_environment_generator/)
 - [Proto-agent : an AI Agent Framework and CLI!](https://www.reddit.com/r/Python/comments/1njvpzm/protoagent_an_ai_agent_framework_and_cli/)
 - [Python DBMS based on dictionarys](https://www.reddit.com/r/Python/comments/1njtzt4/python_dbms_based_on_dictionarys/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1njtelc/thursday_daily_thread_python_careers_courses_and/)
-- [Where&#39;s a good place to find people to talk about projects?](https://www.reddit.com/r/Python/comments/1njo1k2/wheres_a_good_place_to_find_people_to_talk_about/)
 <!-- BLOG-POST-LIST:END -->
