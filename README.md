@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Streaming BLE Sensor Data into Microsoft Power BI using Python](https://www.reddit.com/r/Python/comments/1nkiwc3/streaming_ble_sensor_data_into_microsoft_power_bi/)
+- [Dou you use jit compilation with numba?](https://www.reddit.com/r/Python/comments/1nkit7n/dou_you_use_jit_compilation_with_numba/)
+- [Openports is live .... Try it out guys](https://www.reddit.com/r/Python/comments/1nkigxw/openports_is_live_try_it_out_guys/)
+- [Today I learned that Python doesn&#39;t care about how many spaces you indent as long as it&#39;s consistent](https://www.reddit.com/r/Python/comments/1nkidxq/today_i_learned_that_python_doesnt_care_about_how/)
 - [🚀 Dispytch — async Python framework for building event-driven services](https://www.reddit.com/r/Python/comments/1nkfla2/dispytch_async_python_framework_for_building/)
-- [Favorite Modern Async Task Processing Solution for FastAPI service and why?](https://www.reddit.com/r/Python/comments/1nkfhmy/favorite_modern_async_task_processing_solution/)
-- [prek a fast &lpar;rust and uv powered&rpar; drop in replacement for pre-commit with monorepo support!](https://www.reddit.com/r/Python/comments/1nkc512/prek_a_fast_rust_and_uv_powered_drop_in/)
-- [Looking for feedback: Making Python Deployments Easy](https://www.reddit.com/r/Python/comments/1nk9v3h/looking_for_feedback_making_python_deployments/)
-- [Prompture: Get reliable JSON from LLMs with validation + usage tracking](https://www.reddit.com/r/Python/comments/1nk7bet/prompture_get_reliable_json_from_llms_with/)
 <!-- BLOG-POST-LIST:END -->
