@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [T-Strings: What will you do?](https://www.reddit.com/r/Python/comments/1nkq8pt/tstrings_what_will_you_do/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1nkohvq/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Free eBook - Working with Files in Python 3](https://www.reddit.com/r/Python/comments/1nknfji/free_ebook_working_with_files_in_python_3/)
 - [Streaming BLE Sensor Data into Microsoft Power BI using Python](https://www.reddit.com/r/Python/comments/1nkiwc3/streaming_ble_sensor_data_into_microsoft_power_bi/)
 - [Dou you use jit compilation with numba?](https://www.reddit.com/r/Python/comments/1nkit7n/dou_you_use_jit_compilation_with_numba/)
-- [Today I learned that Python doesn&#39;t care about how many spaces you indent as long as it&#39;s consistent](https://www.reddit.com/r/Python/comments/1nkidxq/today_i_learned_that_python_doesnt_care_about_how/)
-- [🚀 Dispytch — async Python framework for building event-driven services](https://www.reddit.com/r/Python/comments/1nkfla2/dispytch_async_python_framework_for_building/)
 <!-- BLOG-POST-LIST:END -->
