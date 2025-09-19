@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [StampDB – A tiny C++ Time Series Database with a NumPy-native Python API](https://www.reddit.com/r/Python/comments/1nkvz9d/stampdb_a_tiny_c_time_series_database_with_a/)
-- [Python script to .exe - is this still a thing?](https://www.reddit.com/r/Python/comments/1nkttgm/python_script_to_exe_is_this_still_a_thing/)
-- [enso: A functional programming framework for Python](https://www.reddit.com/r/Python/comments/1nksvm0/enso_a_functional_programming_framework_for_python/)
-- [T-Strings: What will you do?](https://www.reddit.com/r/Python/comments/1nkq8pt/tstrings_what_will_you_do/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1nkohvq/friday_daily_thread_rpython_meta_and_freetalk/)
+- [Introducing &#39;Drawn&#39; - A super simple text-to-diagram tool](https://www.reddit.com/r/Python/comments/1nl5x5g/introducing_drawn_a_super_simple_texttodiagram/)
+- [Pips/Dominoes Solver](https://www.reddit.com/r/Python/comments/1nl5l83/pipsdominoes_solver/)
+- [A script to get songs from a playlist with matching total length](https://www.reddit.com/r/Python/comments/1nl4bxv/a_script_to_get_songs_from_a_playlist_with/)
+- [Published my first PyPI package: cohens-d-effect-size - Cohen&#39;s d effect size calculator](https://www.reddit.com/r/Python/comments/1nl300g/published_my_first_pypi_package_cohensdeffectsize/)
+- [Why isn’t there a full Flet course yet?](https://www.reddit.com/r/Python/comments/1nl2dm0/why_isnt_there_a_full_flet_course_yet/)
 <!-- BLOG-POST-LIST:END -->
