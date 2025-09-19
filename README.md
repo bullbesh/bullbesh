@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python script to .exe - is this still a thing?](https://www.reddit.com/r/Python/comments/1nkttgm/python_script_to_exe_is_this_still_a_thing/)
+- [enso: A functional programming framework for Python](https://www.reddit.com/r/Python/comments/1nksvm0/enso_a_functional_programming_framework_for_python/)
 - [T-Strings: What will you do?](https://www.reddit.com/r/Python/comments/1nkq8pt/tstrings_what_will_you_do/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1nkohvq/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Free eBook - Working with Files in Python 3](https://www.reddit.com/r/Python/comments/1nknfji/free_ebook_working_with_files_in_python_3/)
-- [Streaming BLE Sensor Data into Microsoft Power BI using Python](https://www.reddit.com/r/Python/comments/1nkiwc3/streaming_ble_sensor_data_into_microsoft_power_bi/)
-- [Dou you use jit compilation with numba?](https://www.reddit.com/r/Python/comments/1nkit7n/dou_you_use_jit_compilation_with_numba/)
 <!-- BLOG-POST-LIST:END -->
