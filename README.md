@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [StampDB – A tiny C++ Time Series Database with a NumPy-native Python API](https://www.reddit.com/r/Python/comments/1nkvz9d/stampdb_a_tiny_c_time_series_database_with_a/)
 - [Python script to .exe - is this still a thing?](https://www.reddit.com/r/Python/comments/1nkttgm/python_script_to_exe_is_this_still_a_thing/)
 - [enso: A functional programming framework for Python](https://www.reddit.com/r/Python/comments/1nksvm0/enso_a_functional_programming_framework_for_python/)
 - [T-Strings: What will you do?](https://www.reddit.com/r/Python/comments/1nkq8pt/tstrings_what_will_you_do/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1nkohvq/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Free eBook - Working with Files in Python 3](https://www.reddit.com/r/Python/comments/1nknfji/free_ebook_working_with_files_in_python_3/)
 <!-- BLOG-POST-LIST:END -->
