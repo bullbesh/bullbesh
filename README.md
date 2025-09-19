@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing &#39;Drawn&#39; - A super simple text-to-diagram tool](https://www.reddit.com/r/Python/comments/1nl5x5g/introducing_drawn_a_super_simple_texttodiagram/)
-- [Pips/Dominoes Solver](https://www.reddit.com/r/Python/comments/1nl5l83/pipsdominoes_solver/)
-- [A script to get songs from a playlist with matching total length](https://www.reddit.com/r/Python/comments/1nl4bxv/a_script_to_get_songs_from_a_playlist_with/)
-- [Published my first PyPI package: cohens-d-effect-size - Cohen&#39;s d effect size calculator](https://www.reddit.com/r/Python/comments/1nl300g/published_my_first_pypi_package_cohensdeffectsize/)
-- [Why isn’t there a full Flet course yet?](https://www.reddit.com/r/Python/comments/1nl2dm0/why_isnt_there_a_full_flet_course_yet/)
+- [Python Context Managers 101](https://www.reddit.com/r/Python/comments/1nld9qx/python_context_managers_101/)
+- [Python async services for Adobe Creative Cloud automation + ML license forecasting](https://www.reddit.com/r/Python/comments/1nld16q/python_async_services_for_adobe_creative_cloud/)
+- [What do you need to know to make a simple text adventure game, or just a text game in Python ???](https://www.reddit.com/r/Python/comments/1nlaq8e/what_do_you_need_to_know_to_make_a_simple_text/)
+- [I have a very important question.](https://www.reddit.com/r/Python/comments/1nlaekl/i_have_a_very_important_question/)
+- [BleScope - Like a telescope for Bluetooth Low energy devices 🔭](https://www.reddit.com/r/Python/comments/1nl9tk6/blescope_like_a_telescope_for_bluetooth_low/)
 <!-- BLOG-POST-LIST:END -->
