@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1nljibj/saturday_daily_thread_resource_request_and/)
 - [Python Context Managers 101](https://www.reddit.com/r/Python/comments/1nld9qx/python_context_managers_101/)
 - [Python async services for Adobe Creative Cloud automation + ML license forecasting](https://www.reddit.com/r/Python/comments/1nld16q/python_async_services_for_adobe_creative_cloud/)
 - [What do you need to know to make a simple text adventure game, or just a text game in Python ???](https://www.reddit.com/r/Python/comments/1nlaq8e/what_do_you_need_to_know_to_make_a_simple_text/)
 - [I have a very important question.](https://www.reddit.com/r/Python/comments/1nlaekl/i_have_a_very_important_question/)
-- [BleScope - Like a telescope for Bluetooth Low energy devices 🔭](https://www.reddit.com/r/Python/comments/1nl9tk6/blescope_like_a_telescope_for_bluetooth_low/)
 <!-- BLOG-POST-LIST:END -->
