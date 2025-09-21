@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Mass delete discord messages](https://www.reddit.com/r/Python/comments/1nmp3h7/mass_delete_discord_messages/)
+- [Introducing UTL - universal template language](https://www.reddit.com/r/Python/comments/1nmqifr/introducing_utl_universal_template_language/)
+- [Licensing Platform for Fintech Software Website Sync?](https://www.reddit.com/r/Python/comments/1nmq30k/licensing_platform_for_fintech_software_website/)
 - [pyya - integrate YAML configurations with your code easily](https://www.reddit.com/r/Python/comments/1nmo8hl/pyya_integrate_yaml_configurations_with_your_code/)
 - [duvc-ctl Windows library for UVC camera control and Property control](https://www.reddit.com/r/Python/comments/1nmio5b/duvcctl_windows_library_for_uvc_camera_control/)
 - [VaultBuddy - CLI secrets manager with Argon2id + AES-256-GCM &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/1nmhcm7/vaultbuddy_cli_secrets_manager_with_argon2id/)
-- [super lightweight stateful flow](https://www.reddit.com/r/Python/comments/1nmgr3q/super_lightweight_stateful_flow/)
 <!-- BLOG-POST-LIST:END -->
