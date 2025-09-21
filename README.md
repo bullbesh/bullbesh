@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [duvc-ctl Windows library for UVC camera control and Property control](https://www.reddit.com/r/Python/comments/1nmio5b/duvcctl_windows_library_for_uvc_camera_control/)
 - [VaultBuddy - CLI secrets manager with Argon2id + AES-256-GCM &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/1nmhcm7/vaultbuddy_cli_secrets_manager_with_argon2id/)
 - [super lightweight stateful flow](https://www.reddit.com/r/Python/comments/1nmgr3q/super_lightweight_stateful_flow/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1nmdhrp/sunday_daily_thread_whats_everyone_working_on/)
 - [DBMS based on python dictionarys](https://www.reddit.com/r/Python/comments/1nm3in3/dbms_based_on_python_dictionarys/)
-- [Cosmic Django: Architecture Patterns](https://www.reddit.com/r/Python/comments/1nm04o4/cosmic_django_architecture_patterns/)
 <!-- BLOG-POST-LIST:END -->
