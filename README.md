@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [super lightweight stateful flow](https://www.reddit.com/r/Python/comments/1nmgr3q/super_lightweight_stateful_flow/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1nmdhrp/sunday_daily_thread_whats_everyone_working_on/)
 - [DBMS based on python dictionarys](https://www.reddit.com/r/Python/comments/1nm3in3/dbms_based_on_python_dictionarys/)
 - [Cosmic Django: Architecture Patterns](https://www.reddit.com/r/Python/comments/1nm04o4/cosmic_django_architecture_patterns/)
 - [Tines API Wrapper](https://www.reddit.com/r/Python/comments/1nlze8r/tines_api_wrapper/)
-- [Fake OS - Worth making?](https://www.reddit.com/r/Python/comments/1nlwpe8/fake_os_worth_making/)
 <!-- BLOG-POST-LIST:END -->
