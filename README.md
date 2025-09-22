@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A new type of AI created by me. Apex AI compared to LLM be design.](https://www.reddit.com/r/Python/comments/1nnarlj/a_new_type_of_ai_created_by_me_apex_ai_compared/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1nn7o0l/monday_daily_thread_project_ideas/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1nn7o08/monday_daily_thread_project_ideas/)
 - [Best Jupyter TUI](https://www.reddit.com/r/Python/comments/1nn2o95/best_jupyter_tui/)
 - [Do you find it helpful to run Sphinx reStructuredText/Markdown in a browser?](https://www.reddit.com/r/Python/comments/1nmycfj/do_you_find_it_helpful_to_run_sphinx/)
-- [Python 3.13 is 10% slower than 3.12 for my file parser](https://www.reddit.com/r/Python/comments/1nmuy7t/python_313_is_10_slower_than_312_for_my_file/)
-- [senior junior talks](https://www.reddit.com/r/Python/comments/1nmu5pn/senior_junior_talks/)
 <!-- BLOG-POST-LIST:END -->
