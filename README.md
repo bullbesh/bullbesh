@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [We just launched Leapcell, deploy 20 Python websites for free](https://www.reddit.com/r/Python/comments/1nnh6g0/we_just_launched_leapcell_deploy_20_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1nn7o0l/monday_daily_thread_project_ideas/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1nn7o08/monday_daily_thread_project_ideas/)
 - [Best Jupyter TUI](https://www.reddit.com/r/Python/comments/1nn2o95/best_jupyter_tui/)
 - [Do you find it helpful to run Sphinx reStructuredText/Markdown in a browser?](https://www.reddit.com/r/Python/comments/1nmycfj/do_you_find_it_helpful_to_run_sphinx/)
-- [Python 3.13 is 10% slower than 3.12 for my file parser](https://www.reddit.com/r/Python/comments/1nmuy7t/python_313_is_10_slower_than_312_for_my_file/)
 <!-- BLOG-POST-LIST:END -->
