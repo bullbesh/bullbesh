@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [python-cq — Lightweight CQRS package for async Python projects](https://www.reddit.com/r/Python/comments/1nnimms/pythoncq_lightweight_cqrs_package_for_async/)
 - [We just launched Leapcell, deploy 20 Python websites for free](https://www.reddit.com/r/Python/comments/1nnh6g0/we_just_launched_leapcell_deploy_20_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1nn7o0l/monday_daily_thread_project_ideas/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1nn7o08/monday_daily_thread_project_ideas/)
 - [Best Jupyter TUI](https://www.reddit.com/r/Python/comments/1nn2o95/best_jupyter_tui/)
-- [Do you find it helpful to run Sphinx reStructuredText/Markdown in a browser?](https://www.reddit.com/r/Python/comments/1nmycfj/do_you_find_it_helpful_to_run_sphinx/)
 <!-- BLOG-POST-LIST:END -->
