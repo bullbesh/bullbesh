@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.14 – What you need to know](https://www.reddit.com/r/Python/comments/1noegsu/python_314_what_you_need_to_know/)
+- [Why is Spyder so slow](https://www.reddit.com/r/Python/comments/1noebrx/why_is_spyder_so_slow/)
+- [Python Recursion Made Simple](https://www.reddit.com/r/Python/comments/1nodyna/python_recursion_made_simple/)
+- [Python Sanity Check](https://www.reddit.com/r/Python/comments/1nodt93/python_sanity_check/)
 - [I nee a fix which i cant able to solve till today](https://www.reddit.com/r/Python/comments/1nodcg2/i_nee_a_fix_which_i_cant_able_to_solve_till_today/)
-- [StringWa.rs: Which Libs Make Python Strings 2-10× Faster?](https://www.reddit.com/r/Python/comments/1nocyn3/stringwars_which_libs_make_python_strings_210/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1no2n2e/tuesday_daily_thread_advanced_questions/)
-- [D&amp;D Twitch bot: Update 2!](https://www.reddit.com/r/Python/comments/1nnwn2h/dd_twitch_bot_update_2/)
-- [Which Tech role will be in demand at most in 2026?](https://www.reddit.com/r/Python/comments/1nnqaor/which_tech_role_will_be_in_demand_at_most_in_2026/)
 <!-- BLOG-POST-LIST:END -->
