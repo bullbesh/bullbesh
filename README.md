@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trouble with deploying Python programs as internal tools?](https://www.reddit.com/r/Python/comments/1nomupo/trouble_with_deploying_python_programs_as/)
 - [Why does Python refuse to slice a list with negative step?](https://www.reddit.com/r/Python/comments/1nokfcc/why_does_python_refuse_to_slice_a_list_with/)
 - [Skylos dead code detector](https://www.reddit.com/r/Python/comments/1noj6sr/skylos_dead_code_detector/)
 - [Real-Time BLE Air Quality data into Adafruit IO using python](https://www.reddit.com/r/Python/comments/1nohze7/realtime_ble_air_quality_data_into_adafruit_io/)
 - [Python 3.14 – What you need to know](https://www.reddit.com/r/Python/comments/1noegsu/python_314_what_you_need_to_know/)
-- [Why is Spyder so slow](https://www.reddit.com/r/Python/comments/1noebrx/why_is_spyder_so_slow/)
 <!-- BLOG-POST-LIST:END -->
