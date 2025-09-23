@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Skylos - Now comes with a VSC plugin!](https://www.reddit.com/r/Python/comments/1nog8kk/skylos_now_comes_with_a_vsc_plugin/)
 - [Python 3.14 – What you need to know](https://www.reddit.com/r/Python/comments/1noegsu/python_314_what_you_need_to_know/)
 - [Why is Spyder so slow](https://www.reddit.com/r/Python/comments/1noebrx/why_is_spyder_so_slow/)
 - [Python Recursion Made Simple](https://www.reddit.com/r/Python/comments/1nodyna/python_recursion_made_simple/)
 - [Python Sanity Check](https://www.reddit.com/r/Python/comments/1nodt93/python_sanity_check/)
-- [I nee a fix which i cant able to solve till today](https://www.reddit.com/r/Python/comments/1nodcg2/i_nee_a_fix_which_i_cant_able_to_solve_till_today/)
 <!-- BLOG-POST-LIST:END -->
