@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Real-Time BLE Air Quality data into Adafruit IO using python](https://www.reddit.com/r/Python/comments/1nohze7/realtime_ble_air_quality_data_into_adafruit_io/)
 - [Skylos - Now comes with a VSC plugin!](https://www.reddit.com/r/Python/comments/1nog8kk/skylos_now_comes_with_a_vsc_plugin/)
 - [Python 3.14 – What you need to know](https://www.reddit.com/r/Python/comments/1noegsu/python_314_what_you_need_to_know/)
 - [Why is Spyder so slow](https://www.reddit.com/r/Python/comments/1noebrx/why_is_spyder_so_slow/)
 - [Python Recursion Made Simple](https://www.reddit.com/r/Python/comments/1nodyna/python_recursion_made_simple/)
-- [Python Sanity Check](https://www.reddit.com/r/Python/comments/1nodt93/python_sanity_check/)
 <!-- BLOG-POST-LIST:END -->
