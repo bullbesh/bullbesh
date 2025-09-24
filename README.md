@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Signal Trading Strategy with RSI and Moving Averages](https://www.reddit.com/r/Python/comments/1np6xet/multisignal_trading_strategy_with_rsi_and_moving/)
 - [Should every FastAPI route be async def?](https://www.reddit.com/r/Python/comments/1np3jz8/should_every_fastapi_route_be_async_def/)
 - [Plot Twist: After Years of Compiling Python, I’m Now Using AI to Speed It Up](https://www.reddit.com/r/Python/comments/1np0ijo/plot_twist_after_years_of_compiling_python_im_now/)
 - [Trouble with deploying Python programs as internal tools?](https://www.reddit.com/r/Python/comments/1nomupo/trouble_with_deploying_python_programs_as/)
 - [Skylos dead code detector](https://www.reddit.com/r/Python/comments/1noj6sr/skylos_dead_code_detector/)
-- [Real-Time BLE Air Quality data into Adafruit IO using python](https://www.reddit.com/r/Python/comments/1nohze7/realtime_ble_air_quality_data_into_adafruit_io/)
 <!-- BLOG-POST-LIST:END -->
