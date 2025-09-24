@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [ConfOpt: Hyperparameter Tuning That Works](https://www.reddit.com/r/Python/comments/1npb0ks/confopt_hyperparameter_tuning_that_works/)
-- [I built a Python program that fetches random quotes](https://www.reddit.com/r/Python/comments/1npb0iu/i_built_a_python_program_that_fetches_random/)
 - [[ Removed by Reddit ]](https://www.reddit.com/r/Python/comments/1npb00n/removed_by_reddit/)
 - [Pyrefly &amp; Instagram - A Case Study on the Pain of Slow Code Navigation](https://www.reddit.com/r/Python/comments/1np9d42/pyrefly_instagram_a_case_study_on_the_pain_of/)
-- [Want to stand out in tech? Master the stuff most people ignore....](https://www.reddit.com/r/Python/comments/1np95fj/want_to_stand_out_in_tech_master_the_stuff_most/)
+- [Need Suggestions](https://www.reddit.com/r/Python/comments/1np8y4w/need_suggestions/)
+- [Made a FastAPI Project Starter](https://www.reddit.com/r/Python/comments/1np8iyh/made_a_fastapi_project_starter/)
 <!-- BLOG-POST-LIST:END -->
