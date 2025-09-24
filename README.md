@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tired of manually timing functions? Meet time-my-func!](https://www.reddit.com/r/Python/comments/1npoyza/tired_of_manually_timing_functions_meet_timemyfunc/)
 - [Teaching my wife python!](https://www.reddit.com/r/Python/comments/1nplhop/teaching_my_wife_python/)
 - [Python Data Model Exercise](https://www.reddit.com/r/Python/comments/1npheag/python_data_model_exercise/)
 - [Fast API better option than Django?](https://www.reddit.com/r/Python/comments/1npercr/fast_api_better_option_than_django/)
 - [ConfOpt: Hyperparameter Tuning That Works](https://www.reddit.com/r/Python/comments/1npb0ks/confopt_hyperparameter_tuning_that_works/)
-- [[ Removed by Reddit ]](https://www.reddit.com/r/Python/comments/1npb00n/removed_by_reddit/)
 <!-- BLOG-POST-LIST:END -->
