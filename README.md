@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fast API better option than Django?](https://www.reddit.com/r/Python/comments/1npercr/fast_api_better_option_than_django/)
+- [Introducing SIDS 🎉 – Python + TailwindCSS framework to build UIs anywhere &lpar;Flask, Tkinter, Jupyter](https://www.reddit.com/r/Python/comments/1npdhyw/introducing_sids_python_tailwindcss_framework_to/)
 - [ConfOpt: Hyperparameter Tuning That Works](https://www.reddit.com/r/Python/comments/1npb0ks/confopt_hyperparameter_tuning_that_works/)
 - [[ Removed by Reddit ]](https://www.reddit.com/r/Python/comments/1npb00n/removed_by_reddit/)
 - [Pyrefly &amp; Instagram - A Case Study on the Pain of Slow Code Navigation](https://www.reddit.com/r/Python/comments/1np9d42/pyrefly_instagram_a_case_study_on_the_pain_of/)
-- [Need Suggestions](https://www.reddit.com/r/Python/comments/1np8y4w/need_suggestions/)
-- [Made a FastAPI Project Starter](https://www.reddit.com/r/Python/comments/1np8iyh/made_a_fastapi_project_starter/)
 <!-- BLOG-POST-LIST:END -->
