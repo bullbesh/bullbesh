@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best approach to modernize a Python + PyQt5 desktop app &lpar;EXE, Windows, offline&rpar;?](https://www.reddit.com/r/Python/comments/1nq3azn/best_approach_to_modernize_a_python_pyqt5_desktop/)
 - [What small Python automation projects turned out to be the most useful for you?](https://www.reddit.com/r/Python/comments/1nq1588/what_small_python_automation_projects_turned_out/)
 - [Please give your input 🤔](https://www.reddit.com/r/Python/comments/1nq0xnm/please_give_your_input/)
 - [I tried combinning similar youtube comments.](https://www.reddit.com/r/Python/comments/1nq0n2r/i_tried_combinning_similar_youtube_comments/)
 - [Typing of functions returns : type hints vs pyright &lpar;or similar&rpar; inference](https://www.reddit.com/r/Python/comments/1npztrj/typing_of_functions_returns_type_hints_vs_pyright/)
-- [Helios-ml: A PyTorch based training system](https://www.reddit.com/r/Python/comments/1nptdms/heliosml_a_pytorch_based_training_system/)
 <!-- BLOG-POST-LIST:END -->
