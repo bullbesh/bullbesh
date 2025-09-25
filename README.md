@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Typing of functions returns : type hints vs pyright &lpar;or similar&rpar; inference](https://www.reddit.com/r/Python/comments/1npztrj/typing_of_functions_returns_type_hints_vs_pyright/)
 - [Helios-ml: A PyTorch based training system](https://www.reddit.com/r/Python/comments/1nptdms/heliosml_a_pytorch_based_training_system/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1nps3nn/thursday_daily_thread_python_careers_courses_and/)
 - [ANACONDA ON OLD MAC](https://www.reddit.com/r/Python/comments/1nprv1g/anaconda_on_old_mac/)
 - [Durable Vibe Automation Platform for Python Developers](https://www.reddit.com/r/Python/comments/1npq2nz/durable_vibe_automation_platform_for_python/)
-- [Tired of manually timing functions? Meet time-my-func!](https://www.reddit.com/r/Python/comments/1npoyza/tired_of_manually_timing_functions_meet_timemyfunc/)
 <!-- BLOG-POST-LIST:END -->
