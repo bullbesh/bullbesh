@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Material 3 Design Comes To Slint GUI Toolkit](https://www.reddit.com/r/Python/comments/1nqvsvd/material_3_design_comes_to_slint_gui_toolkit/)
+- [Re-define or wrap exceptions from external libraries?](https://www.reddit.com/r/Python/comments/1nqv24k/redefine_or_wrap_exceptions_from_external/)
 - [Which Python package manager makes automation easiest in 2025?](https://www.reddit.com/r/Python/comments/1nqudfd/which_python_package_manager_makes_automation/)
 - [Show r/Python: PyWebTransport – The canonical, async-native WebTransport stack for Python.](https://www.reddit.com/r/Python/comments/1nqrmrd/show_rpython_pywebtransport_the_canonical/)
 - [PEP 806 – Mixed sync/async context managers with precise async marking](https://www.reddit.com/r/Python/comments/1nqnm44/pep_806_mixed_syncasync_context_managers_with/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1nqmont/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Want to use FastAPI with an AI SDK frontend? I built this](https://www.reddit.com/r/Python/comments/1nqkyzg/want_to_use_fastapi_with_an_ai_sdk_frontend_i/)
 <!-- BLOG-POST-LIST:END -->
