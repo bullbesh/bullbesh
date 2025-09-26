@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Show r/Python: PyWebTransport – The canonical, async-native WebTransport stack for Python.](https://www.reddit.com/r/Python/comments/1nqrmrd/show_rpython_pywebtransport_the_canonical/)
 - [PEP 806 – Mixed sync/async context managers with precise async marking](https://www.reddit.com/r/Python/comments/1nqnm44/pep_806_mixed_syncasync_context_managers_with/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1nqmont/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Want to use FastAPI with an AI SDK frontend? I built this](https://www.reddit.com/r/Python/comments/1nqkyzg/want_to_use_fastapi_with_an_ai_sdk_frontend_i/)
 - [An Empirical Study of Type-Related Defects in Python Projects [pdf]](https://www.reddit.com/r/Python/comments/1nqko2g/an_empirical_study_of_typerelated_defects_in/)
-- [AISP - Artificial Immune Systems Package](https://www.reddit.com/r/Python/comments/1nqknrt/aisp_artificial_immune_systems_package/)
 <!-- BLOG-POST-LIST:END -->
