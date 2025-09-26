@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [PyCon AU 2025 talks are all up!](https://www.reddit.com/r/Python/comments/1nq5x1b/pycon_au_2025_talks_are_all_up/)
-- [migrating from django to FastAPI](https://www.reddit.com/r/Python/comments/1nq45ep/migrating_from_django_to_fastapi/)
-- [Best approach to modernize a Python + PyQt5 desktop app &lpar;EXE, Windows, offline&rpar;?](https://www.reddit.com/r/Python/comments/1nq3azn/best_approach_to_modernize_a_python_pyqt5_desktop/)
-- [What small Python automation projects turned out to be the most useful for you?](https://www.reddit.com/r/Python/comments/1nq1588/what_small_python_automation_projects_turned_out/)
-- [Please give your input 🤔](https://www.reddit.com/r/Python/comments/1nq0xnm/please_give_your_input/)
+- [PEP 806 – Mixed sync/async context managers with precise async marking](https://www.reddit.com/r/Python/comments/1nqnm44/pep_806_mixed_syncasync_context_managers_with/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1nqmont/friday_daily_thread_rpython_meta_and_freetalk/)
+- [Want to use FastAPI with an AI SDK frontend? I built this](https://www.reddit.com/r/Python/comments/1nqkyzg/want_to_use_fastapi_with_an_ai_sdk_frontend_i/)
+- [An Empirical Study of Type-Related Defects in Python Projects [pdf]](https://www.reddit.com/r/Python/comments/1nqko2g/an_empirical_study_of_typerelated_defects_in/)
+- [AISP - Artificial Immune Systems Package](https://www.reddit.com/r/Python/comments/1nqknrt/aisp_artificial_immune_systems_package/)
 <!-- BLOG-POST-LIST:END -->
