@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python program needed &lpar;Paid&rpar;](https://www.reddit.com/r/Python/comments/1nr0ol7/python_program_needed_paid/)
+- [How pytest fixtures screwed me over](https://www.reddit.com/r/Python/comments/1nr2kmn/how_pytest_fixtures_screwed_me_over/)
+- [Feeling guilty using Bootstrap while learning Flask](https://www.reddit.com/r/Python/comments/1nr26fk/feeling_guilty_using_bootstrap_while_learning/)
 - [What&#39;s the use case for `argparse.ArgumentParser.add_argument&lpar;action=&quot;store_false&quot;&rpar;`?](https://www.reddit.com/r/Python/comments/1nqxumj/whats_the_use_case_for_argparseargumentparseradd/)
 - [Material 3 Design Comes To Slint GUI Toolkit](https://www.reddit.com/r/Python/comments/1nqvsvd/material_3_design_comes_to_slint_gui_toolkit/)
 - [Re-define or wrap exceptions from external libraries?](https://www.reddit.com/r/Python/comments/1nqv24k/redefine_or_wrap_exceptions_from_external/)
-- [Which Python package manager makes automation easiest in 2025?](https://www.reddit.com/r/Python/comments/1nqudfd/which_python_package_manager_makes_automation/)
 <!-- BLOG-POST-LIST:END -->
