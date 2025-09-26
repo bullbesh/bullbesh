@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Realtime support added to Inngest &lpar;durable workflows&rpar; Python SDK](https://www.reddit.com/r/Python/comments/1nrb0eg/realtime_support_added_to_inngest_durable/)
+- [Haiku Validator: a simple Flask web app to write haikus!](https://www.reddit.com/r/Python/comments/1nrade3/haiku_validator_a_simple_flask_web_app_to_write/)
 - [PAR LLAMA v0.7.0 Released - Enhanced Security &amp; Execution Experience](https://www.reddit.com/r/Python/comments/1nra2ps/par_llama_v070_released_enhanced_security/)
 - [Rock Paper Scissors Arena simulator with tkinter](https://www.reddit.com/r/Python/comments/1nr7ozl/rock_paper_scissors_arena_simulator_with_tkinter/)
 - [AI Pothole Detector LIVE – Testing on Varthur-Gunjur Road, Bangalore 🚧](https://www.reddit.com/r/Python/comments/1nr49v6/ai_pothole_detector_live_testing_on_varthurgunjur/)
-- [city2graph: Geospatial Dataset → Graphs &lpar;Networks&rpar;](https://www.reddit.com/r/Python/comments/1nr32ff/city2graph_geospatial_dataset_graphs_networks/)
-- [Python Data Model Exercise](https://www.reddit.com/r/Python/comments/1nr2v3j/python_data_model_exercise/)
 <!-- BLOG-POST-LIST:END -->
