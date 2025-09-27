@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PySide vs. Avalonia: Which for a Solo Dev Building an Electrical Panel Designer ?](https://www.reddit.com/r/Python/comments/1nruwa7/pyside_vs_avalonia_which_for_a_solo_dev_building/)
+- [pytest-results — Regression testing plugin for pytest](https://www.reddit.com/r/Python/comments/1nrtgzf/pytestresults_regression_testing_plugin_for_pytest/)
+- [Would open-sourcing my OCR-to-HTML document reconstruction tool be useful?](https://www.reddit.com/r/Python/comments/1nrsa7l/would_opensourcing_my_ocrtohtml_document/)
+- [I tried to refactor my Python code using ChatGPT...](https://www.reddit.com/r/Python/comments/1nrrpq2/i_tried_to_refactor_my_python_code_using_chatgpt/)
 - [Python script to download Reddit posts/comments with media](https://www.reddit.com/r/Python/comments/1nroxvz/python_script_to_download_reddit_postscomments/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1nrgwpe/saturday_daily_thread_resource_request_and/)
-- [Sphinx extension to fix broken GitHub links in your docs](https://www.reddit.com/r/Python/comments/1nrgunj/sphinx_extension_to_fix_broken_github_links_in/)
-- [Realtime support added to Inngest &lpar;durable workflows&rpar; Python SDK](https://www.reddit.com/r/Python/comments/1nrb0eg/realtime_support_added_to_inngest_durable/)
-- [Haiku Validator: a simple Flask web app to write haikus!](https://www.reddit.com/r/Python/comments/1nrade3/haiku_validator_a_simple_flask_web_app_to_write/)
 <!-- BLOG-POST-LIST:END -->
