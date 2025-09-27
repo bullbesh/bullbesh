@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python script to download Reddit posts/comments with media](https://www.reddit.com/r/Python/comments/1nroxvz/python_script_to_download_reddit_postscomments/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1nrgwpe/saturday_daily_thread_resource_request_and/)
+- [Sphinx extension to fix broken GitHub links in your docs](https://www.reddit.com/r/Python/comments/1nrgunj/sphinx_extension_to_fix_broken_github_links_in/)
 - [Realtime support added to Inngest &lpar;durable workflows&rpar; Python SDK](https://www.reddit.com/r/Python/comments/1nrb0eg/realtime_support_added_to_inngest_durable/)
 - [Haiku Validator: a simple Flask web app to write haikus!](https://www.reddit.com/r/Python/comments/1nrade3/haiku_validator_a_simple_flask_web_app_to_write/)
-- [PAR LLAMA v0.7.0 Released - Enhanced Security &amp; Execution Experience](https://www.reddit.com/r/Python/comments/1nra2ps/par_llama_v070_released_enhanced_security/)
-- [Rock Paper Scissors Arena simulator with tkinter](https://www.reddit.com/r/Python/comments/1nr7ozl/rock_paper_scissors_arena_simulator_with_tkinter/)
 <!-- BLOG-POST-LIST:END -->
