@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Args vs Kwargs guide in Python, simply explained](https://www.reddit.com/r/Python/comments/1nstjy2/args_vs_kwargs_guide_in_python_simply_explained/)
+- [Stop uploading your code to sketchy “online obfuscators” like freecodingtools.org](https://www.reddit.com/r/Python/comments/1nstje8/stop_uploading_your_code_to_sketchy_online/)
+- [AI-powered CCTV using YOLOv8 for detection and ChatGPT for classification](https://www.reddit.com/r/Python/comments/1nssyap/aipowered_cctv_using_yolov8_for_detection_and/)
 - [Are the Xcode command line tools required for the precompiled Python from python.org?](https://www.reddit.com/r/Python/comments/1nsj68m/are_the_xcode_command_line_tools_required_for_the/)
 - [Ducky: A free, open-source, all-in-one networking &amp; security toolkit for Windows.](https://www.reddit.com/r/Python/comments/1nsj4cy/ducky_a_free_opensource_allinone_networking/)
-- [Python library without external imports only built in](https://www.reddit.com/r/Python/comments/1nsiw9i/python_library_without_external_imports_only/)
-- [NiceGUI Component-Based Boilerplate: A scalable architecture for complex Python web UIs](https://www.reddit.com/r/Python/comments/1nsi5sh/nicegui_componentbased_boilerplate_a_scalable/)
-- [Choosing a C++ to Python wrapper: Boost.Python vs pybind11?](https://www.reddit.com/r/Python/comments/1nsceni/choosing_a_c_to_python_wrapper_boostpython_vs/)
 <!-- BLOG-POST-LIST:END -->
