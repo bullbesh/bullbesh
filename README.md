@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python library without external imports only built in](https://www.reddit.com/r/Python/comments/1nsiw9i/python_library_without_external_imports_only/)
+- [NiceGUI Component-Based Boilerplate: A scalable architecture for complex Python web UIs](https://www.reddit.com/r/Python/comments/1nsi5sh/nicegui_componentbased_boilerplate_a_scalable/)
 - [Choosing a C++ to Python wrapper: Boost.Python vs pybind11?](https://www.reddit.com/r/Python/comments/1nsceni/choosing_a_c_to_python_wrapper_boostpython_vs/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1nsa5ae/sunday_daily_thread_whats_everyone_working_on/)
 - [Python Data Model Exercise](https://www.reddit.com/r/Python/comments/1ns79ep/python_data_model_exercise/)
-- [Python in ChemE](https://www.reddit.com/r/Python/comments/1ns6wst/python_in_cheme/)
-- [Catch Code Changes as Git Diffs, Not Test Failures](https://www.reddit.com/r/Python/comments/1ns6jea/catch_code_changes_as_git_diffs_not_test_failures/)
 <!-- BLOG-POST-LIST:END -->
