@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1nsa5ae/sunday_daily_thread_whats_everyone_working_on/)
 - [Python Data Model Exercise](https://www.reddit.com/r/Python/comments/1ns79ep/python_data_model_exercise/)
 - [Python in ChemE](https://www.reddit.com/r/Python/comments/1ns6wst/python_in_cheme/)
 - [Catch Code Changes as Git Diffs, Not Test Failures](https://www.reddit.com/r/Python/comments/1ns6jea/catch_code_changes_as_git_diffs_not_test_failures/)
 - [StaticNews &amp; Twodo - Python Productivity Apps](https://www.reddit.com/r/Python/comments/1ns5mar/staticnews_twodo_python_productivity_apps/)
-- [Saruph: A pixel-based terminal snake game](https://www.reddit.com/r/Python/comments/1ns3v4y/saruph_a_pixelbased_terminal_snake_game/)
 <!-- BLOG-POST-LIST:END -->
