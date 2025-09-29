@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [holm: Next.js developer experience in Python, without JS, built on FastAPI](https://www.reddit.com/r/Python/comments/1ntc5rg/holm_nextjs_developer_experience_in_python/)
+- [Playing Penney&#39;s Game Using Python](https://www.reddit.com/r/Python/comments/1ntb4a5/playing_penneys_game_using_python/)
 - [🎵 TikTock Video Downloader](https://www.reddit.com/r/Python/comments/1nt6u36/tiktock_video_downloader/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1nt3lqa/monday_daily_thread_project_ideas/)
 - [Showcase: Adaptive - open-source intelligent LLM router](https://www.reddit.com/r/Python/comments/1nstx1o/showcase_adaptive_opensource_intelligent_llm/)
-- [Args vs Kwargs guide in Python, simply explained](https://www.reddit.com/r/Python/comments/1nstjy2/args_vs_kwargs_guide_in_python_simply_explained/)
-- [Stop uploading your code to sketchy “online obfuscators” like freecodingtools.org](https://www.reddit.com/r/Python/comments/1nstje8/stop_uploading_your_code_to_sketchy_online/)
 <!-- BLOG-POST-LIST:END -->
