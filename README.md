@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Please review my projects and tell me if they are strong enough to get a job.](https://www.reddit.com/r/Python/comments/1ntexpa/please_review_my_projects_and_tell_me_if_they_are/)
 - [holm: Next.js developer experience in Python, without JS, built on FastAPI](https://www.reddit.com/r/Python/comments/1ntc5rg/holm_nextjs_developer_experience_in_python/)
 - [Playing Penney&#39;s Game Using Python](https://www.reddit.com/r/Python/comments/1ntb4a5/playing_penneys_game_using_python/)
 - [🎵 TikTock Video Downloader](https://www.reddit.com/r/Python/comments/1nt6u36/tiktock_video_downloader/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1nt3lqa/monday_daily_thread_project_ideas/)
-- [Showcase: Adaptive - open-source intelligent LLM router](https://www.reddit.com/r/Python/comments/1nstx1o/showcase_adaptive_opensource_intelligent_llm/)
 <!-- BLOG-POST-LIST:END -->
