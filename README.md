@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made: Dungeon Brawl ⚔️ – Text-based Python battle game with attacks, specials, and healing](https://www.reddit.com/r/Python/comments/1nuc9fy/i_made_dungeon_brawl_textbased_python_battle_game/)
+- [Stories from running a workflow engine, e.g., Hatchet, in Production](https://www.reddit.com/r/Python/comments/1nuaqe8/stories_from_running_a_workflow_engine_eg_hatchet/)
+- [Telelog: A high-performance diagnostic &amp; visualization tool for Python, powered by Rust](https://www.reddit.com/r/Python/comments/1nu9n4l/telelog_a_highperformance_diagnostic/)
+- [Crawlee for Python v1.0 is LIVE!](https://www.reddit.com/r/Python/comments/1nu8tt6/crawlee_for_python_v10_is_live/)
 - [Anthropic: Claude Sonnet 4.5 is the best coding model in the world.](https://www.reddit.com/r/Python/comments/1nu22gk/anthropic_claude_sonnet_45_is_the_best_coding/)
-- [sparkenforce: Type Annotations &amp; Runtime Schema Validation for PySpark DataFrames](https://www.reddit.com/r/Python/comments/1nu118l/sparkenforce_type_annotations_runtime_schema/)
-- [Pandas 2.3.3 released with Python 3.14 support](https://www.reddit.com/r/Python/comments/1nu0gdd/pandas_233_released_with_python_314_support/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1nty93i/tuesday_daily_thread_advanced_questions/)
-- [Best editor/IDE for starting Python in a portfolio management class?](https://www.reddit.com/r/Python/comments/1ntwkn1/best_editoride_for_starting_python_in_a_portfolio/)
 <!-- BLOG-POST-LIST:END -->
