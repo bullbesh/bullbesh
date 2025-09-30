@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pandas 2.3.3 released with Python 3.14 support](https://www.reddit.com/r/Python/comments/1nu0gdd/pandas_233_released_with_python_314_support/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1nty93i/tuesday_daily_thread_advanced_questions/)
 - [Best editor/IDE for starting Python in a portfolio management class?](https://www.reddit.com/r/Python/comments/1ntwkn1/best_editoride_for_starting_python_in_a_portfolio/)
+- [Scroll Art &lpar;animated ASCII art, for beginner programmers and hobbyists&rpar;](https://www.reddit.com/r/Python/comments/1ntvcta/scroll_art_animated_ascii_art_for_beginner/)
 - [uv-ship: a CLI tool for shipping with uv](https://www.reddit.com/r/Python/comments/1ntnbgn/uvship_a_cli_tool_for_shipping_with_uv/)
-- [Why would I not use Visual Studio code](https://www.reddit.com/r/Python/comments/1ntmao7/why_would_i_not_use_visual_studio_code/)
-- [Git Deployer &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/1ntiovm/git_deployer_python/)
-- [Why Today&#39;s Python Developers are Embracing Type Hints](https://www.reddit.com/r/Python/comments/1nti5ar/why_todays_python_developers_are_embracing_type/)
 <!-- BLOG-POST-LIST:END -->
