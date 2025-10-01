@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Logly 🚀 — a Rust-powered, super fast, and simple logging library for Python](https://www.reddit.com/r/Python/comments/1nv3tgp/logly_a_rustpowered_super_fast_and_simple_logging/)
-- [I built Poottu — an offline, privacy-first password manager in Python](https://www.reddit.com/r/Python/comments/1nv01qm/i_built_poottu_an_offline_privacyfirst_password/)
-- [Watch out for your commas!!!](https://www.reddit.com/r/Python/comments/1nuw799/watch_out_for_your_commas/)
-- [New Online IDE - no logjn](https://www.reddit.com/r/Python/comments/1nuo0vb/new_online_ide_no_logjn/)
-- [I got tired of manually searching for dev jobs, so I started building OrionJobs AI!](https://www.reddit.com/r/Python/comments/1nukocw/i_got_tired_of_manually_searching_for_dev_jobs_so/)
+- [Typing the test suite](https://www.reddit.com/r/Python/comments/1nv72oz/typing_the_test_suite/)
+- [I built a boring-on-purpose indie web framework to ship startups daily](https://www.reddit.com/r/Python/comments/1nv6uyh/i_built_a_boringonpurpose_indie_web_framework_to/)
+- [Just built a tool that turns any Python app into a native windows service](https://www.reddit.com/r/Python/comments/1nv696e/just_built_a_tool_that_turns_any_python_app_into/)
+- [Seeking Free Python Certification Courses - Anyone Know Reputable Ones?](https://www.reddit.com/r/Python/comments/1nv68ds/seeking_free_python_certification_courses_anyone/)
+- [py-capnweb - A Python implementation of Cap&#39;n Web&#39;s RPC protocol](https://www.reddit.com/r/Python/comments/1nv5lcw/pycapnweb_a_python_implementation_of_capn_webs/)
 <!-- BLOG-POST-LIST:END -->
