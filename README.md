@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Logly 🚀 — a Rust-powered, super fast, and simple logging library for Python](https://www.reddit.com/r/Python/comments/1nv3tgp/logly_a_rustpowered_super_fast_and_simple_logging/)
 - [I built Poottu — an offline, privacy-first password manager in Python](https://www.reddit.com/r/Python/comments/1nv01qm/i_built_poottu_an_offline_privacyfirst_password/)
 - [Watch out for your commas!!!](https://www.reddit.com/r/Python/comments/1nuw799/watch_out_for_your_commas/)
 - [New Online IDE - no logjn](https://www.reddit.com/r/Python/comments/1nuo0vb/new_online_ide_no_logjn/)
 - [I got tired of manually searching for dev jobs, so I started building OrionJobs AI!](https://www.reddit.com/r/Python/comments/1nukocw/i_got_tired_of_manually_searching_for_dev_jobs_so/)
-- [Running rust code in python](https://www.reddit.com/r/Python/comments/1nuk8hi/running_rust_code_in_python/)
 <!-- BLOG-POST-LIST:END -->
