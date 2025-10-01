@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🔍RAISearcher v.1.0 - A Super-Fast Files &amp; Folder searching tool for Windows](https://www.reddit.com/r/Python/comments/1nv928s/raisearcher_v10_a_superfast_files_folder/)
 - [Typing the test suite](https://www.reddit.com/r/Python/comments/1nv72oz/typing_the_test_suite/)
-- [I built a boring-on-purpose indie web framework to ship startups daily](https://www.reddit.com/r/Python/comments/1nv6uyh/i_built_a_boringonpurpose_indie_web_framework_to/)
 - [Just built a tool that turns any Python app into a native windows service](https://www.reddit.com/r/Python/comments/1nv696e/just_built_a_tool_that_turns_any_python_app_into/)
 - [Seeking Free Python Certification Courses - Anyone Know Reputable Ones?](https://www.reddit.com/r/Python/comments/1nv68ds/seeking_free_python_certification_courses_anyone/)
 - [py-capnweb - A Python implementation of Cap&#39;n Web&#39;s RPC protocol](https://www.reddit.com/r/Python/comments/1nv5lcw/pycapnweb_a_python_implementation_of_capn_webs/)
