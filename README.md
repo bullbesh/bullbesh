@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [14-year-old here teaching Python basics on YouTube – made this course for students like me](https://www.reddit.com/r/Python/comments/1nvjy1e/14yearold_here_teaching_python_basics_on_youtube/)
 - [14-year-old here teaching Python basics on YouTube – made this course for students like me](https://www.reddit.com/r/Python/comments/1nvjw17/14yearold_here_teaching_python_basics_on_youtube/)
 - [Free Release - Vanity-S.E.T.](https://www.reddit.com/r/Python/comments/1nviqak/free_release_vanityset/)
 - [🔍RAISearcher v.1.0 - A Super-Fast Files &amp; Folder searching tool for Windows](https://www.reddit.com/r/Python/comments/1nv928s/raisearcher_v10_a_superfast_files_folder/)
 - [Typing the test suite](https://www.reddit.com/r/Python/comments/1nv72oz/typing_the_test_suite/)
+- [Just built a tool that turns any Python app into a native windows service](https://www.reddit.com/r/Python/comments/1nv696e/just_built_a_tool_that_turns_any_python_app_into/)
 <!-- BLOG-POST-LIST:END -->
