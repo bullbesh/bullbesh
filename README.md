@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Watch out for your commas!!!](https://www.reddit.com/r/Python/comments/1nuw799/watch_out_for_your_commas/)
 - [New Online IDE - no logjn](https://www.reddit.com/r/Python/comments/1nuo0vb/new_online_ide_no_logjn/)
 - [I got tired of manually searching for dev jobs, so I started building OrionJobs AI!](https://www.reddit.com/r/Python/comments/1nukocw/i_got_tired_of_manually_searching_for_dev_jobs_so/)
 - [Running rust code in python](https://www.reddit.com/r/Python/comments/1nuk8hi/running_rust_code_in_python/)
 - [I made: Dungeon Brawl ⚔️ – Text-based Python battle game with attacks, specials, and healing](https://www.reddit.com/r/Python/comments/1nuc9fy/i_made_dungeon_brawl_textbased_python_battle_game/)
-- [Stories from running a workflow engine, e.g., Hatchet, in Production](https://www.reddit.com/r/Python/comments/1nuaqe8/stories_from_running_a_workflow_engine_eg_hatchet/)
 <!-- BLOG-POST-LIST:END -->
