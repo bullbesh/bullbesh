@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Real-time crypto pattern recognition dashboard built with Python + Dash](https://www.reddit.com/r/Python/comments/1nwb0fy/realtime_crypto_pattern_recognition_dashboard/)
+- [Hello! I’m very new in tech industry and right now I went to learn. Which language should I learn?](https://www.reddit.com/r/Python/comments/1nwa9zx/hello_im_very_new_in_tech_industry_and_right_now/)
 - [Released Agent Builder project. Looking for feedback!](https://www.reddit.com/r/Python/comments/1nw7gah/released_agent_builder_project_looking_for/)
 - [Alimentar un asistente de GPT](https://www.reddit.com/r/Python/comments/1nw694f/alimentar_un_asistente_de_gpt/)
 - [The list `awesome polars` close to 1,000 stars 🤩](https://www.reddit.com/r/Python/comments/1nw3xsy/the_list_awesome_polars_close_to_1000_stars/)
-- [Finished my second FastAPI project. Looking for feedback!](https://www.reddit.com/r/Python/comments/1nw3lkt/finished_my_second_fastapi_project_looking_for/)
-- [A Telegram Bot for Finding Perfume &amp; Clones](https://www.reddit.com/r/Python/comments/1nw0ib3/a_telegram_bot_for_finding_perfume_clones/)
 <!-- BLOG-POST-LIST:END -->
