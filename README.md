@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Telegram Bot for Finding Perfume &amp; Clones](https://www.reddit.com/r/Python/comments/1nw0ib3/a_telegram_bot_for_finding_perfume_clones/)
+- [Exercises to Build the Right Mental Model for Python Data](https://www.reddit.com/r/Python/comments/1nw0gy6/exercises_to_build_the_right_mental_model_for/)
 - [Local image and video classification tool using Google&#39;s sigLIP 2 So400m &lpar;naflex&rpar;](https://www.reddit.com/r/Python/comments/1nvy1iv/local_image_and_video_classification_tool_using/)
 - [OneCode — Python library to turn scripts into deployable apps](https://www.reddit.com/r/Python/comments/1nvvsub/onecode_python_library_to_turn_scripts_into/)
 - [Does Python Getting Faster or Slower What do u Guys Think?](https://www.reddit.com/r/Python/comments/1nvvl2a/does_python_getting_faster_or_slower_what_do_u/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1nvoqx0/thursday_daily_thread_python_careers_courses_and/)
-- [Open Source Google Maps Street View Panorama Scraper.](https://www.reddit.com/r/Python/comments/1nvnyjr/open_source_google_maps_street_view_panorama/)
 <!-- BLOG-POST-LIST:END -->
