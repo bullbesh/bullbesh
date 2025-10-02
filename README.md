@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [An interesting open-source tool for turning LLM prompts into testable, version-controlled artifacts.](https://www.reddit.com/r/Python/comments/1nwhu1f/an_interesting_opensource_tool_for_turning_llm/)
+- [Snakebar — a tqdm-style progress bar that snakes across your terminal](https://www.reddit.com/r/Python/comments/1nwhdmt/snakebar_a_tqdmstyle_progress_bar_that_snakes/)
 - [BuildLog: a simple tool to track and version your Python builds](https://www.reddit.com/r/Python/comments/1nweuv0/buildlog_a_simple_tool_to_track_and_version_your/)
 - [Python code for battleship game](https://www.reddit.com/r/Python/comments/1nweioo/python_code_for_battleship_game/)
 - [My new package in pypi](https://www.reddit.com/r/Python/comments/1nwd03c/my_new_package_in_pypi/)
-- [Real-time crypto pattern recognition dashboard built with Python + Dash](https://www.reddit.com/r/Python/comments/1nwb0fy/realtime_crypto_pattern_recognition_dashboard/)
-- [Hello! I’m very new in tech industry and right now I went to learn. Which language should I learn?](https://www.reddit.com/r/Python/comments/1nwa9zx/hello_im_very_new_in_tech_industry_and_right_now/)
 <!-- BLOG-POST-LIST:END -->
