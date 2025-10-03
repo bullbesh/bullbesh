@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Show &amp; Tell] PyClue/Cluedo-style deduction game in Python &lpar;pygame&rpar;](https://www.reddit.com/r/Python/comments/1nx3hkg/show_tell_pycluecluedostyle_deduction_game_in/)
+- [Amundsen&#39;s maxim in practice](https://www.reddit.com/r/Python/comments/1nx2a0u/amundsens_maxim_in_practice/)
 - [How to Level Up Your Python Logs with Structlog](https://www.reddit.com/r/Python/comments/1nx12sv/how_to_level_up_your_python_logs_with_structlog/)
 - [PEP 810 – Explicit lazy imports](https://www.reddit.com/r/Python/comments/1nx0oxk/pep_810_explicit_lazy_imports/)
 - [Simulate Apache Spark Workloads Without a Cluster using FauxSpark](https://www.reddit.com/r/Python/comments/1nwxqad/simulate_apache_spark_workloads_without_a_cluster/)
-- [Real-time Air Quality Monitoring with Python, BLE, and Ubidots](https://www.reddit.com/r/Python/comments/1nwxo9z/realtime_air_quality_monitoring_with_python_ble/)
-- [pyya - Simple tool that converts YAML/TOML configuration files to Python objects](https://www.reddit.com/r/Python/comments/1nwv8re/pyya_simple_tool_that_converts_yamltoml/)
 <!-- BLOG-POST-LIST:END -->
