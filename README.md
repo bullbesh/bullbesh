@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pyya - Simple tool that converts YAML/TOML configuration files to Python objects](https://www.reddit.com/r/Python/comments/1nwv8re/pyya_simple_tool_that_converts_yamltoml/)
 - [PyThermite - Rust backed object indexer](https://www.reddit.com/r/Python/comments/1nwnr98/pythermite_rust_backed_object_indexer/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1nwk7ps/friday_daily_thread_rpython_meta_and_freetalk/)
 - [PyCharm Pro Gift Code | 1-Year FREE](https://www.reddit.com/r/Python/comments/1nwi0jd/pycharm_pro_gift_code_1year_free/)
 - [An interesting open-source tool for turning LLM prompts into testable, version-controlled artifacts.](https://www.reddit.com/r/Python/comments/1nwhu1f/an_interesting_opensource_tool_for_turning_llm/)
-- [Snakebar — a tqdm-style progress bar that snakes across your terminal](https://www.reddit.com/r/Python/comments/1nwhdmt/snakebar_a_tqdmstyle_progress_bar_that_snakes/)
 <!-- BLOG-POST-LIST:END -->
