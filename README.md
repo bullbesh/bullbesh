@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simulate Apache Spark Workloads Without a Cluster using FauxSpark](https://www.reddit.com/r/Python/comments/1nwxqad/simulate_apache_spark_workloads_without_a_cluster/)
+- [Real-time Air Quality Monitoring with Python, BLE, and Ubidots](https://www.reddit.com/r/Python/comments/1nwxo9z/realtime_air_quality_monitoring_with_python_ble/)
 - [pyya - Simple tool that converts YAML/TOML configuration files to Python objects](https://www.reddit.com/r/Python/comments/1nwv8re/pyya_simple_tool_that_converts_yamltoml/)
 - [PyThermite - Rust backed object indexer](https://www.reddit.com/r/Python/comments/1nwnr98/pythermite_rust_backed_object_indexer/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1nwk7ps/friday_daily_thread_rpython_meta_and_freetalk/)
-- [PyCharm Pro Gift Code | 1-Year FREE](https://www.reddit.com/r/Python/comments/1nwi0jd/pycharm_pro_gift_code_1year_free/)
-- [An interesting open-source tool for turning LLM prompts into testable, version-controlled artifacts.](https://www.reddit.com/r/Python/comments/1nwhu1f/an_interesting_opensource_tool_for_turning_llm/)
 <!-- BLOG-POST-LIST:END -->
