@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you let linters modify code in your CI/CD pipeline?](https://www.reddit.com/r/Python/comments/1nxtuvm/do_you_let_linters_modify_code_in_your_cicd/)
+- [I created a framework for turning PyTorch training scripts into event driven systems.](https://www.reddit.com/r/Python/comments/1nxtj9r/i_created_a_framework_for_turning_pytorch/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1nxf9sn/saturday_daily_thread_resource_request_and/)
 - [My journey from PyCon Accra 2024 to preparing for PyCon Africa 2025 in South Africa](https://www.reddit.com/r/Python/comments/1nx8bzo/my_journey_from_pycon_accra_2024_to_preparing_for/)
-- [Fetch Thousands of YouTube Videos with Structured Transcripts &amp; Metadata in Python](https://www.reddit.com/r/Python/comments/1nx44ym/fetch_thousands_of_youtube_videos_with_structured/)
 - [[Show &amp; Tell] PyClue/Cluedo-style deduction game in Python &lpar;pygame&rpar;](https://www.reddit.com/r/Python/comments/1nx3hkg/show_tell_pycluecluedostyle_deduction_game_in/)
-- [How to Level Up Your Python Logs with Structlog](https://www.reddit.com/r/Python/comments/1nx12sv/how_to_level_up_your_python_logs_with_structlog/)
 <!-- BLOG-POST-LIST:END -->
