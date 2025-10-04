@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [TorchSystem: Event driven systems with PyTorch](https://www.reddit.com/r/Python/comments/1nxcxox/torchsystem_event_driven_systems_with_pytorch/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1nxf9sn/saturday_daily_thread_resource_request_and/)
 - [My journey from PyCon Accra 2024 to preparing for PyCon Africa 2025 in South Africa](https://www.reddit.com/r/Python/comments/1nx8bzo/my_journey_from_pycon_accra_2024_to_preparing_for/)
 - [Fetch Thousands of YouTube Videos with Structured Transcripts &amp; Metadata in Python](https://www.reddit.com/r/Python/comments/1nx44ym/fetch_thousands_of_youtube_videos_with_structured/)
 - [[Show &amp; Tell] PyClue/Cluedo-style deduction game in Python &lpar;pygame&rpar;](https://www.reddit.com/r/Python/comments/1nx3hkg/show_tell_pycluecluedostyle_deduction_game_in/)
