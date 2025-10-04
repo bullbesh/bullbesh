@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Complete Python Cheat Sheet: From Start to End 🐍✨](https://www.reddit.com/r/Python/comments/1nxy2et/complete_python_cheat_sheet_from_start_to_end/)
+- [I made PyPIPlus.com — a faster way to see all dependencies of any Python package](https://www.reddit.com/r/Python/comments/1ny6svl/i_made_pypipluscom_a_faster_way_to_see_all/)
+- [Is zfill&lpar;&rpar; useless in Python?](https://www.reddit.com/r/Python/comments/1ny2zk8/is_zfill_useless_in_python/)
 - [AnvPy — Run &amp; Build Python Apps Natively on Android](https://www.reddit.com/r/Python/comments/1nxy1nj/anvpy_run_build_python_apps_natively_on_android/)
 - [Do you let linters modify code in your CI/CD pipeline?](https://www.reddit.com/r/Python/comments/1nxtuvm/do_you_let_linters_modify_code_in_your_cicd/)
 - [I created a framework for turning PyTorch training scripts into event driven systems.](https://www.reddit.com/r/Python/comments/1nxtj9r/i_created_a_framework_for_turning_pytorch/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1nxf9sn/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
