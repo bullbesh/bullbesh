@@ -12,5 +12,5 @@
 - [My journey from PyCon Accra 2024 to preparing for PyCon Africa 2025 in South Africa](https://www.reddit.com/r/Python/comments/1nx8bzo/my_journey_from_pycon_accra_2024_to_preparing_for/)
 - [Fetch Thousands of YouTube Videos with Structured Transcripts &amp; Metadata in Python](https://www.reddit.com/r/Python/comments/1nx44ym/fetch_thousands_of_youtube_videos_with_structured/)
 - [[Show &amp; Tell] PyClue/Cluedo-style deduction game in Python &lpar;pygame&rpar;](https://www.reddit.com/r/Python/comments/1nx3hkg/show_tell_pycluecluedostyle_deduction_game_in/)
-- [Amundsen&#39;s maxim in practice](https://www.reddit.com/r/Python/comments/1nx2a0u/amundsens_maxim_in_practice/)
+- [How to Level Up Your Python Logs with Structlog](https://www.reddit.com/r/Python/comments/1nx12sv/how_to_level_up_your_python_logs_with_structlog/)
 <!-- BLOG-POST-LIST:END -->
