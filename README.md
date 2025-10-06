@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Como resolver Hcaptchar](https://www.reddit.com/r/Python/comments/1nzscis/como_resolver_hcaptchar/)
+- [Crank.py - Build web UIs with async/generator functions, powered by Crank.js/PyScript.](https://www.reddit.com/r/Python/comments/1nzr2bv/crankpy_build_web_uis_with_asyncgenerator/)
+- [Why is Python type hinting so maddening compared to other implementations?](https://www.reddit.com/r/Python/comments/1nzl1nj/why_is_python_type_hinting_so_maddening_compared/)
+- [fastquadtree: a Rust-powered quadtree for Python that is ~14x faster than PyQtree](https://www.reddit.com/r/Python/comments/1nzkswp/fastquadtree_a_rustpowered_quadtree_for_python/)
 - [FineTuned IBM Granite-4 with Python and Unsloth🚀](https://www.reddit.com/r/Python/comments/1nzkeo0/finetuned_ibm_granite4_with_python_and_unsloth/)
-- [uv overtakes pip in CI &lpar;for Wagtail &amp; FastAPI&rpar;](https://www.reddit.com/r/Python/comments/1nzib8m/uv_overtakes_pip_in_ci_for_wagtail_fastapi/)
-- [NiceGUI 3.0: Write web interfaces in Python. The nice way.](https://www.reddit.com/r/Python/comments/1nzhs1s/nicegui_30_write_web_interfaces_in_python_the/)
-- [🚀 [Release] py-github-analyzer - High-performance async GitHub repo analyzer for AI/ML workflows](https://www.reddit.com/r/Python/comments/1nze1oo/release_pygithubanalyzer_highperformance_async/)
-- [Edazer — Fast EDA Toolkit &lpar;pandas + polars compatible](https://www.reddit.com/r/Python/comments/1nz9vl6/edazer_fast_eda_toolkit_pandas_polars_compatible/)
 <!-- BLOG-POST-LIST:END -->
