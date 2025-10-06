@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Edazer — Fast EDA Toolkit &lpar;pandas + polars compatible](https://www.reddit.com/r/Python/comments/1nz9vl6/edazer_fast_eda_toolkit_pandas_polars_compatible/)
-- [I made PyPiPlus.com - a faster way to see all dependencies of any Python package UPDATE#1](https://www.reddit.com/r/Python/comments/1nz76dg/i_made_pypipluscom_a_faster_way_to_see_all/)
 - [Sometimes regressing your Python version is the way. Use pyenv to manage multiple versions of Python](https://www.reddit.com/r/Python/comments/1nz6lku/sometimes_regressing_your_python_version_is_the/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1nz4695/monday_daily_thread_project_ideas/)
 - [Turns Python functions into web UIs](https://www.reddit.com/r/Python/comments/1nz2qwk/turns_python_functions_into_web_uis/)
+- [Python Violates PEP 8](https://www.reddit.com/r/Python/comments/1nys8rb/python_violates_pep_8/)
 <!-- BLOG-POST-LIST:END -->
