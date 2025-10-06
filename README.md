@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1nz4695/monday_daily_thread_project_ideas/)
 - [Turns Python functions into web UIs](https://www.reddit.com/r/Python/comments/1nz2qwk/turns_python_functions_into_web_uis/)
 - [Python Violates PEP 8](https://www.reddit.com/r/Python/comments/1nys8rb/python_violates_pep_8/)
 - [For VScode users: What&#39;s your opinion on Github Copilot&#39;s autocompletion feature?](https://www.reddit.com/r/Python/comments/1nyrenf/for_vscode_users_whats_your_opinion_on_github/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ny9jqm/sunday_daily_thread_whats_everyone_working_on/)
-- [I made PyPIPlus.com — a faster way to see all dependencies of any Python package](https://www.reddit.com/r/Python/comments/1ny6svl/i_made_pypipluscom_a_faster_way_to_see_all/)
 <!-- BLOG-POST-LIST:END -->
