@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [uv overtakes pip in CI &lpar;for Wagtail &amp; FastAPI&rpar;](https://www.reddit.com/r/Python/comments/1nzib8m/uv_overtakes_pip_in_ci_for_wagtail_fastapi/)
 - [NiceGUI 3.0: Write web interfaces in Python. The nice way.](https://www.reddit.com/r/Python/comments/1nzhs1s/nicegui_30_write_web_interfaces_in_python_the/)
 - [🚀 [Release] py-github-analyzer - High-performance async GitHub repo analyzer for AI/ML workflows](https://www.reddit.com/r/Python/comments/1nze1oo/release_pygithubanalyzer_highperformance_async/)
 - [Edazer — Fast EDA Toolkit &lpar;pandas + polars compatible](https://www.reddit.com/r/Python/comments/1nz9vl6/edazer_fast_eda_toolkit_pandas_polars_compatible/)
 - [Sometimes regressing your Python version is the way. Use pyenv to manage multiple versions of Python](https://www.reddit.com/r/Python/comments/1nz6lku/sometimes_regressing_your_python_version_is_the/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1nz4695/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
