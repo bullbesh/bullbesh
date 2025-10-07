@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built an Instagram checker with smart anti-ban logic &amp; multi-threading. Open for feedback!](https://www.reddit.com/r/Python/comments/1o0hk15/i_built_an_instagram_checker_with_smart_antiban/)
+- [A Telegram Bot for Finding Perfume &amp; Clones](https://www.reddit.com/r/Python/comments/1o0h25y/a_telegram_bot_for_finding_perfume_clones/)
+- [Python 3.14 Released](https://www.reddit.com/r/Python/comments/1o0gfp1/python_314_released/)
+- [Otary now includes 17 image binarization methods](https://www.reddit.com/r/Python/comments/1o0gdex/otary_now_includes_17_image_binarization_methods/)
 - [Bringing NumPy&#39;s type-completeness score to nearly 90%](https://www.reddit.com/r/Python/comments/1o0echb/bringing_numpys_typecompleteness_score_to_nearly/)
-- [Is hello world that complicated?](https://www.reddit.com/r/Python/comments/1o0cyz4/is_hello_world_that_complicated/)
-- [I pushed Python to 20,000 requests sent/second. Here&#39;s the code and kernel tuning I used.](https://www.reddit.com/r/Python/comments/1o085tj/i_pushed_python_to_20000_requests_sentsecond/)
-- [I benchmarked 5 different FastAPI file upload methods &lpar;1KB to 1GB&rpar;](https://www.reddit.com/r/Python/comments/1o04g6v/i_benchmarked_5_different_fastapi_file_upload/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1nzznk3/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
