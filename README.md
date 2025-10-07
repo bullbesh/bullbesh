@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [gain reach? Amazing](https://www.reddit.com/r/Python/comments/1o0kzfn/gain_reach_amazing/)
+- [Tired of Messy WebSockets? I Built Chanx to End the If/Else Hell in Real-Time Python App](https://www.reddit.com/r/Python/comments/1o0m9yt/tired_of_messy_websockets_i_built_chanx_to_end/)
 - [Instrument AI PDF Splitter – Split full orchestral PDFs into per-instrument parts](https://www.reddit.com/r/Python/comments/1o0jw4w/instrument_ai_pdf_splitter_split_full_orchestral/)
 - [My favorite new features in Python 3.14](https://www.reddit.com/r/Python/comments/1o0jr55/my_favorite_new_features_in_python_314/)
 - [Built a BLE Proximity Alert System in Python](https://www.reddit.com/r/Python/comments/1o0j06z/built_a_ble_proximity_alert_system_in_python/)
