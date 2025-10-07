@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [gain reach? Amazing](https://www.reddit.com/r/Python/comments/1o0kzfn/gain_reach_amazing/)
+- [Instrument AI PDF Splitter – Split full orchestral PDFs into per-instrument parts](https://www.reddit.com/r/Python/comments/1o0jw4w/instrument_ai_pdf_splitter_split_full_orchestral/)
+- [My favorite new features in Python 3.14](https://www.reddit.com/r/Python/comments/1o0jr55/my_favorite_new_features_in_python_314/)
 - [Built a BLE Proximity Alert System in Python](https://www.reddit.com/r/Python/comments/1o0j06z/built_a_ble_proximity_alert_system_in_python/)
 - [I made a multiplayer Tic Tac Toe game in Python using sockets](https://www.reddit.com/r/Python/comments/1o0iu40/i_made_a_multiplayer_tic_tac_toe_game_in_python/)
-- [dirstree: an another library for iterating through the contents of a directory](https://www.reddit.com/r/Python/comments/1o0is69/dirstree_an_another_library_for_iterating_through/)
-- [I built an Instagram checker with smart anti-ban logic &amp; multi-threading. Open for feedback!](https://www.reddit.com/r/Python/comments/1o0hk15/i_built_an_instagram_checker_with_smart_antiban/)
-- [A Telegram Bot for Finding Perfume &amp; Clones](https://www.reddit.com/r/Python/comments/1o0h25y/a_telegram_bot_for_finding_perfume_clones/)
 <!-- BLOG-POST-LIST:END -->
