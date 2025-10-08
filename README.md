@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI Quick Template – Start Your API or SaaS Project Faster](https://www.reddit.com/r/Python/comments/1o1q7tz/fastapi_quick_template_start_your_api_or_saas/)
+- [Craziest python projects you know?](https://www.reddit.com/r/Python/comments/1o1pqgf/craziest_python_projects_you_know/)
 - [Building SimpleGrad: A Deep Learning Framework Between Tinygrad and PyTorch](https://www.reddit.com/r/Python/comments/1o1kd5j/building_simplegrad_a_deep_learning_framework/)
 - [My project to learn descriptors, rich comparison functions, asyncio, and type hinting](https://www.reddit.com/r/Python/comments/1o1j2b3/my_project_to_learn_descriptors_rich_comparison/)
 - [Good SQLBuilder for Python?](https://www.reddit.com/r/Python/comments/1o1ixgu/good_sqlbuilder_for_python/)
-- [Pydantic v2.12 release &lpar;Python 3.14&rpar;](https://www.reddit.com/r/Python/comments/1o1ipfo/pydantic_v212_release_python_314/)
-- [Software to tell me when an item is available at best buy for in store purchase?](https://www.reddit.com/r/Python/comments/1o1gdhe/software_to_tell_me_when_an_item_is_available_at/)
 <!-- BLOG-POST-LIST:END -->
