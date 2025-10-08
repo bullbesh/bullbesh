@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Software to tell me when an item is available at best buy for in store purchase?](https://www.reddit.com/r/Python/comments/1o1gdhe/software_to_tell_me_when_an_item_is_available_at/)
 - [Leetcode- partner](https://www.reddit.com/r/Python/comments/1o1et9m/leetcode_partner/)
 - [Python server for beginners](https://www.reddit.com/r/Python/comments/1o1e3hh/python_server_for_beginners/)
 - [Feature Store Summit - 2025 - Free and Online.](https://www.reddit.com/r/Python/comments/1o18p3a/feature_store_summit_2025_free_and_online/)
 - [TOML marries Argparse](https://www.reddit.com/r/Python/comments/1o17ogm/toml_marries_argparse/)
-- [Interesting discussion to shift Apache&#39;s Arrow release cycle forward to align with Python&#39;s release](https://www.reddit.com/r/Python/comments/1o17iwq/interesting_discussion_to_shift_apaches_arrow/)
 <!-- BLOG-POST-LIST:END -->
