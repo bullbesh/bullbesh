@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interesting discussion to shift Apache&#39;s Arrow release cycle forward to align with Python&#39;s release](https://www.reddit.com/r/Python/comments/1o17iwq/interesting_discussion_to_shift_apaches_arrow/)
 - [Use uv with Python 3.14 and IIS sites](https://www.reddit.com/r/Python/comments/1o150hi/use_uv_with_python_314_and_iis_sites/)
 - [Pyloid: Electron for Python Developer • Modern Web-based desktop app framework](https://www.reddit.com/r/Python/comments/1o0zsa2/pyloid_electron_for_python_developer_modern/)
 - [T-Strings: Worth using for SQL in Python 3.14?](https://www.reddit.com/r/Python/comments/1o0wajw/tstrings_worth_using_for_sql_in_python_314/)
 - [Is there conventional terminology for &quot;non-callable attribute&quot;](https://www.reddit.com/r/Python/comments/1o0u0ts/is_there_conventional_terminology_for_noncallable/)
-- [Crawlee for Python team AMA](https://www.reddit.com/r/Python/comments/1o0tdmf/crawlee_for_python_team_ama/)
 <!-- BLOG-POST-LIST:END -->
