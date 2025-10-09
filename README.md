@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for *free* library or API to track market index](https://www.reddit.com/r/Python/comments/1o2gptj/looking_for_free_library_or_api_to_track_market/)
+- [[Release] PyCopyX — a Windows GUI around robocopy with precise selection, smart excludes](https://www.reddit.com/r/Python/comments/1o2frc2/release_pycopyx_a_windows_gui_around_robocopy/)
 - [Choosing a programming language.](https://www.reddit.com/r/Python/comments/1o2cfog/choosing_a_programming_language/)
 - [Single Source of Truth - Generating ORM, REST, GQL, MCP, SDK and Tests from Pydantic](https://www.reddit.com/r/Python/comments/1o29byq/single_source_of_truth_generating_orm_rest_gql/)
-- [Automation code quality, performance and security](https://www.reddit.com/r/Python/comments/1o286bq/automation_code_quality_performance_and_security/)
 - [T Strings - Why there is no built in string rendering?](https://www.reddit.com/r/Python/comments/1o24iwv/t_strings_why_there_is_no_built_in_string/)
-- [Blogpost: Python’s Funniest Features: A Developer’s Field Guide](https://www.reddit.com/r/Python/comments/1o211ed/blogpost_pythons_funniest_features_a_developers/)
 <!-- BLOG-POST-LIST:END -->
