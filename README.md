@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Choosing a programming language.](https://www.reddit.com/r/Python/comments/1o2cfog/choosing_a_programming_language/)
+- [Single Source of Truth - Generating ORM, REST, GQL, MCP, SDK and Tests from Pydantic](https://www.reddit.com/r/Python/comments/1o29byq/single_source_of_truth_generating_orm_rest_gql/)
+- [Automation code quality, performance and security](https://www.reddit.com/r/Python/comments/1o286bq/automation_code_quality_performance_and_security/)
+- [T Strings - Why there is no built in string rendering?](https://www.reddit.com/r/Python/comments/1o24iwv/t_strings_why_there_is_no_built_in_string/)
 - [Blogpost: Python’s Funniest Features: A Developer’s Field Guide](https://www.reddit.com/r/Python/comments/1o211ed/blogpost_pythons_funniest_features_a_developers/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1o1rea5/thursday_daily_thread_python_careers_courses_and/)
-- [Just launched a data dashboard showing when and how I take photos](https://www.reddit.com/r/Python/comments/1o1qqhu/just_launched_a_data_dashboard_showing_when_and/)
-- [FastAPI Quick Template – Start Your API or SaaS Project Faster](https://www.reddit.com/r/Python/comments/1o1q7tz/fastapi_quick_template_start_your_api_or_saas/)
-- [Craziest python projects you know?](https://www.reddit.com/r/Python/comments/1o1pqgf/craziest_python_projects_you_know/)
 <!-- BLOG-POST-LIST:END -->
