@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1o1rea5/thursday_daily_thread_python_careers_courses_and/)
+- [Just launched a data dashboard showing when and how I take photos](https://www.reddit.com/r/Python/comments/1o1qqhu/just_launched_a_data_dashboard_showing_when_and/)
 - [FastAPI Quick Template – Start Your API or SaaS Project Faster](https://www.reddit.com/r/Python/comments/1o1q7tz/fastapi_quick_template_start_your_api_or_saas/)
 - [Craziest python projects you know?](https://www.reddit.com/r/Python/comments/1o1pqgf/craziest_python_projects_you_know/)
 - [Building SimpleGrad: A Deep Learning Framework Between Tinygrad and PyTorch](https://www.reddit.com/r/Python/comments/1o1kd5j/building_simplegrad_a_deep_learning_framework/)
-- [My project to learn descriptors, rich comparison functions, asyncio, and type hinting](https://www.reddit.com/r/Python/comments/1o1j2b3/my_project_to_learn_descriptors_rich_comparison/)
-- [Good SQLBuilder for Python?](https://www.reddit.com/r/Python/comments/1o1ixgu/good_sqlbuilder_for_python/)
 <!-- BLOG-POST-LIST:END -->
