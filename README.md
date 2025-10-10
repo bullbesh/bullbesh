@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Loadouts for Genshin Impact v0.1.11 is OUT NOW with support for Genshin Impact v6.0 Phase 2](https://www.reddit.com/r/Python/comments/1o2uzxf/loadouts_for_genshin_impact_v0111_is_out_now_with/)
 - [Fiatlight: Instantly turn Python functions into interactive GUI apps or workflows](https://www.reddit.com/r/Python/comments/1o2u6gy/fiatlight_instantly_turn_python_functions_into/)
 - [aiar: A pypi CLI tool for managing self-extracting archives suited to LLMs](https://www.reddit.com/r/Python/comments/1o2t7zq/aiar_a_pypi_cli_tool_for_managing_selfextracting/)
 - [pytrends not working, anyone same?](https://www.reddit.com/r/Python/comments/1o2pcg8/pytrends_not_working_anyone_same/)
 - [Ergonomic Concurrency](https://www.reddit.com/r/Python/comments/1o2n119/ergonomic_concurrency/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1o2lz3l/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
