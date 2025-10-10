@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [aiar: A pypi CLI tool for managing self-extracting archives suited to LLMs](https://www.reddit.com/r/Python/comments/1o2t7zq/aiar_a_pypi_cli_tool_for_managing_selfextracting/)
 - [pytrends not working, anyone same?](https://www.reddit.com/r/Python/comments/1o2pcg8/pytrends_not_working_anyone_same/)
 - [Ergonomic Concurrency](https://www.reddit.com/r/Python/comments/1o2n119/ergonomic_concurrency/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1o2lz3l/friday_daily_thread_rpython_meta_and_freetalk/)
 - [New Stockdex release](https://www.reddit.com/r/Python/comments/1o2j714/new_stockdex_release/)
-- [Looking for *free* library or API to track market index](https://www.reddit.com/r/Python/comments/1o2gptj/looking_for_free_library_or_api_to_track_market/)
 <!-- BLOG-POST-LIST:END -->
