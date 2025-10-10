@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reflex Build Free Tier Is Back!](https://www.reddit.com/r/Python/comments/1o34d3a/reflex_build_free_tier_is_back/)
 - [PipeFunc: Build Lightning-Fast Pipelines with Python: DAGs Made Easy](https://www.reddit.com/r/Python/comments/1o3323m/pipefunc_build_lightningfast_pipelines_with/)
 - [Vision Agents 0.1](https://www.reddit.com/r/Python/comments/1o2yh3k/vision_agents_01/)
 - [uv cheatsheet with most common/useful commands](https://www.reddit.com/r/Python/comments/1o2viq3/uv_cheatsheet_with_most_commonuseful_commands/)
 - [Loadouts for Genshin Impact v0.1.11 is OUT NOW with support for Genshin Impact v6.0 Phase 2](https://www.reddit.com/r/Python/comments/1o2uzxf/loadouts_for_genshin_impact_v0111_is_out_now_with/)
-- [Fiatlight: Instantly turn Python functions into interactive GUI apps or workflows](https://www.reddit.com/r/Python/comments/1o2u6gy/fiatlight_instantly_turn_python_functions_into/)
 <!-- BLOG-POST-LIST:END -->
