@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for a Python developer to port a stable Perl CGI project](https://www.reddit.com/r/Python/comments/1o3qxle/looking_for_a_python_developer_to_port_a_stable/)
+- [UV on termux Debian &lpar;android&rpar;](https://www.reddit.com/r/Python/comments/1o3qk1p/uv_on_termux_debian_android/)
 - [Best practices for using Python &amp; uv inside Docker](https://www.reddit.com/r/Python/comments/1o3p4bf/best_practices_for_using_python_uv_inside_docker/)
 - [Neend some career advice](https://www.reddit.com/r/Python/comments/1o3otup/neend_some_career_advice/)
 - [Here is a python code i made with for a self creatable quiz .](https://www.reddit.com/r/Python/comments/1o3mg5x/here_is_a_python_code_i_made_with_for_a_self/)
-- [Automating the Upgrade to Python 3.14](https://www.reddit.com/r/Python/comments/1o3luxp/automating_the_upgrade_to_python_314/)
-- [How much Python do I really need to know to land my first dev job?](https://www.reddit.com/r/Python/comments/1o3ijyt/how_much_python_do_i_really_need_to_know_to_land/)
 <!-- BLOG-POST-LIST:END -->
