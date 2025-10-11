@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How much Python do I really need to know to land my first dev job?](https://www.reddit.com/r/Python/comments/1o3ijyt/how_much_python_do_i_really_need_to_know_to_land/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1o3h3uy/saturday_daily_thread_resource_request_and/)
 - [SPDL - Scalable and Performant Data Loading](https://www.reddit.com/r/Python/comments/1o396tf/spdl_scalable_and_performant_data_loading/)
 - [EPUBLib - New python library for creating and editing EPUB3 files](https://www.reddit.com/r/Python/comments/1o35xlh/epublib_new_python_library_for_creating_and/)
 - [Reflex Build Free Tier Is Back!](https://www.reddit.com/r/Python/comments/1o34d3a/reflex_build_free_tier_is_back/)
-- [PipeFunc: Build Lightning-Fast Pipelines with Python: DAGs Made Easy](https://www.reddit.com/r/Python/comments/1o3323m/pipefunc_build_lightningfast_pipelines_with/)
-- [Vision Agents 0.1](https://www.reddit.com/r/Python/comments/1o2yh3k/vision_agents_01/)
 <!-- BLOG-POST-LIST:END -->
