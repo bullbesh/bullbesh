@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dont worry guys.](https://www.reddit.com/r/Python/comments/1o3zved/dont_worry_guys/)
 - [Budgeting app that automatically parses PDF bank statements and visualizes spending](https://www.reddit.com/r/Python/comments/1o3w7n6/budgeting_app_that_automatically_parses_pdf_bank/)
 - [sdax - an API for asyncio for handling parallel tasks declaratively](https://www.reddit.com/r/Python/comments/1o3vzbm/sdax_an_api_for_asyncio_for_handling_parallel/)
 - [I made a game that is teaching you Python! :&rpar; After more than three years, I finally released it!](https://www.reddit.com/r/Python/comments/1o3voso/i_made_a_game_that_is_teaching_you_python_after/)
 - [Built an automated GitHub-RAG pipeline system with incremental sync](https://www.reddit.com/r/Python/comments/1o3v4cs/built_an_automated_githubrag_pipeline_system_with/)
-- [I made a Better Notepad alternative using PySide6](https://www.reddit.com/r/Python/comments/1o3uy4y/i_made_a_better_notepad_alternative_using_pyside6/)
 <!-- BLOG-POST-LIST:END -->
