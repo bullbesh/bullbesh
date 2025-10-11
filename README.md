@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing html-to-markdown v2: Rust rewrite, full CommonMark 1.2 compliance, and hOCR support](https://www.reddit.com/r/Python/comments/1o3sqqz/announcing_htmltomarkdown_v2_rust_rewrite_full/)
+- [Feedback Request for API Key Management Library for FastAPI](https://www.reddit.com/r/Python/comments/1o3s3yj/feedback_request_for_api_key_management_library/)
 - [Intermediate-level project suggestions](https://www.reddit.com/r/Python/comments/1o3ru8r/intermediatelevel_project_suggestions/)
 - [I shared 300+ Python Data Science Videos on YouTube &lpar;Tutorials, Projects and Full Courses&rpar;](https://www.reddit.com/r/Python/comments/1o3r5tp/i_shared_300_python_data_science_videos_on/)
 - [Looking for a Python developer to port a stable Perl CGI project](https://www.reddit.com/r/Python/comments/1o3qxle/looking_for_a_python_developer_to_port_a_stable/)
-- [UV on termux Debian &lpar;android&rpar;](https://www.reddit.com/r/Python/comments/1o3qk1p/uv_on_termux_debian_android/)
-- [Best practices for using Python &amp; uv inside Docker](https://www.reddit.com/r/Python/comments/1o3p4bf/best_practices_for_using_python_uv_inside_docker/)
 <!-- BLOG-POST-LIST:END -->
