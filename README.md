@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built an automated GitHub-RAG pipeline system with incremental sync](https://www.reddit.com/r/Python/comments/1o3v4cs/built_an_automated_githubrag_pipeline_system_with/)
+- [I made a Better Notepad alternative using PySide6](https://www.reddit.com/r/Python/comments/1o3uy4y/i_made_a_better_notepad_alternative_using_pyside6/)
 - [Announcing html-to-markdown v2: Rust rewrite, full CommonMark 1.2 compliance, and hOCR support](https://www.reddit.com/r/Python/comments/1o3sqqz/announcing_htmltomarkdown_v2_rust_rewrite_full/)
 - [Feedback Request for API Key Management Library for FastAPI](https://www.reddit.com/r/Python/comments/1o3s3yj/feedback_request_for_api_key_management_library/)
 - [Intermediate-level project suggestions](https://www.reddit.com/r/Python/comments/1o3ru8r/intermediatelevel_project_suggestions/)
-- [I shared 300+ Python Data Science Videos on YouTube &lpar;Tutorials, Projects and Full Courses&rpar;](https://www.reddit.com/r/Python/comments/1o3r5tp/i_shared_300_python_data_science_videos_on/)
-- [Looking for a Python developer to port a stable Perl CGI project](https://www.reddit.com/r/Python/comments/1o3qxle/looking_for_a_python_developer_to_port_a_stable/)
 <!-- BLOG-POST-LIST:END -->
