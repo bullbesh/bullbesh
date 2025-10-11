@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Budgeting app that automatically parses PDF bank statements and visualizes spending](https://www.reddit.com/r/Python/comments/1o3w7n6/budgeting_app_that_automatically_parses_pdf_bank/)
+- [sdax - an API for asyncio for handling parallel tasks declaratively](https://www.reddit.com/r/Python/comments/1o3vzbm/sdax_an_api_for_asyncio_for_handling_parallel/)
+- [I made a game that is teaching you Python! :&rpar; After more than three years, I finally released it!](https://www.reddit.com/r/Python/comments/1o3voso/i_made_a_game_that_is_teaching_you_python_after/)
 - [Built an automated GitHub-RAG pipeline system with incremental sync](https://www.reddit.com/r/Python/comments/1o3v4cs/built_an_automated_githubrag_pipeline_system_with/)
 - [I made a Better Notepad alternative using PySide6](https://www.reddit.com/r/Python/comments/1o3uy4y/i_made_a_better_notepad_alternative_using_pyside6/)
-- [Announcing html-to-markdown v2: Rust rewrite, full CommonMark 1.2 compliance, and hOCR support](https://www.reddit.com/r/Python/comments/1o3sqqz/announcing_htmltomarkdown_v2_rust_rewrite_full/)
-- [Feedback Request for API Key Management Library for FastAPI](https://www.reddit.com/r/Python/comments/1o3s3yj/feedback_request_for_api_key_management_library/)
-- [Intermediate-level project suggestions](https://www.reddit.com/r/Python/comments/1o3ru8r/intermediatelevel_project_suggestions/)
 <!-- BLOG-POST-LIST:END -->
