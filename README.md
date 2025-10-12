@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [rovr v0.4.0: an update to the modern terminal file explorer](https://www.reddit.com/r/Python/comments/1o4q4vt/rovr_v040_an_update_to_the_modern_terminal_file/)
+- [Comet 3I/Atlas - Some calculations](https://www.reddit.com/r/Python/comments/1o4p7rj/comet_3iatlas_some_calculations/)
 - [My first medium blog on GIL](https://www.reddit.com/r/Python/comments/1o4oozb/my_first_medium_blog_on_gil/)
 - [I made a Python Server does anyone want to join?](https://www.reddit.com/r/Python/comments/1o4m4xf/i_made_a_python_server_does_anyone_want_to_join/)
 - [Cronboard - A terminal-based dashboard for managing cron jobs](https://www.reddit.com/r/Python/comments/1o4jul0/cronboard_a_terminalbased_dashboard_for_managing/)
-- [Those who have managed to get into IT in the last couple of years, please share your experiences!](https://www.reddit.com/r/Python/comments/1o4hjl6/those_who_have_managed_to_get_into_it_in_the_last/)
-- [I built dataspot to find fraud patterns automatically [Open Source]](https://www.reddit.com/r/Python/comments/1o4gvj5/i_built_dataspot_to_find_fraud_patterns/)
 <!-- BLOG-POST-LIST:END -->
