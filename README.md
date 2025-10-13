@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PCAT - Materials to study](https://www.reddit.com/r/Python/comments/1o5cajj/pcat_materials_to_study/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1o54sdj/monday_daily_thread_project_ideas/)
 - [I built an ultra-strict typing setup in Python &lpar;FastAPI + LangGraph + Pydantic + Pyright + Ruff&rpar; 🚀](https://www.reddit.com/r/Python/comments/1o53ave/i_built_an_ultrastrict_typing_setup_in_python/)
 - [HIRING: Scrape 300,000 PDFs and Archive to 128 GB VERBATIM Discs](https://www.reddit.com/r/Python/comments/1o4yx19/hiring_scrape_300000_pdfs_and_archive_to_128_gb/)
 - [Pyautogui não manipula o gerenciador de domínios do Windows por que?](https://www.reddit.com/r/Python/comments/1o4wjlr/pyautogui_não_manipula_o_gerenciador_de_domínios/)
-- [What&#39;s the highest # of open source libraries you&#39;ve ever packaged into a single application?](https://www.reddit.com/r/Python/comments/1o4vn5m/whats_the_highest_of_open_source_libraries_youve/)
-- [Advice on logging libraries: Logfire, Loguru, or just Python&#39;s built-in logging?](https://www.reddit.com/r/Python/comments/1o4uyrv/advice_on_logging_libraries_logfire_loguru_or/)
 <!-- BLOG-POST-LIST:END -->
