@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Parsegument! - Argument Parsing and function routing](https://www.reddit.com/r/Python/comments/1o5jkb9/parsegument_argument_parsing_and_function_routing/)
+- [Erdos: data science open-source AI IDE](https://www.reddit.com/r/Python/comments/1o5jej5/erdos_data_science_opensource_ai_ide/)
 - [What is the best Python learning course?](https://www.reddit.com/r/Python/comments/1o5i5rg/what_is_the_best_python_learning_course/)
 - [Need advice on simulating real time bus movement and eta predictions](https://www.reddit.com/r/Python/comments/1o5gurz/need_advice_on_simulating_real_time_bus_movement/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1o54sdj/monday_daily_thread_project_ideas/)
-- [I built an ultra-strict typing setup in Python &lpar;FastAPI + LangGraph + Pydantic + Pyright + Ruff&rpar; 🚀](https://www.reddit.com/r/Python/comments/1o53ave/i_built_an_ultrastrict_typing_setup_in_python/)
-- [HIRING: Scrape 300,000 PDFs and Archive to 128 GB VERBATIM Discs](https://www.reddit.com/r/Python/comments/1o4yx19/hiring_scrape_300000_pdfs_and_archive_to_128_gb/)
 <!-- BLOG-POST-LIST:END -->
