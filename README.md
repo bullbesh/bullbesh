@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web package documentation](https://www.reddit.com/r/Python/comments/1o5w6re/web_package_documentation/)
+- [Jinx: a toy interpreter for the J programming language](https://www.reddit.com/r/Python/comments/1o5vt9d/jinx_a_toy_interpreter_for_the_j_programming/)
 - [ChanX: Type-Safe WebSocket Framework for Django and FastAPI](https://www.reddit.com/r/Python/comments/1o5ro8i/chanx_typesafe_websocket_framework_for_django_and/)
 - [Cool project idea &lpar;master&#39;s degree final project&rpar;](https://www.reddit.com/r/Python/comments/1o5p1hi/cool_project_idea_masters_degree_final_project/)
 - [Proxy parser / formatter for Python - proxyutils](https://www.reddit.com/r/Python/comments/1o5ofkq/proxy_parser_formatter_for_python_proxyutils/)
-- [Guess The Output](https://www.reddit.com/r/Python/comments/1o5oeo6/guess_the_output/)
-- [The Key Python 3.14 Updates To Make Your Coding Easier, Faster, and Better](https://www.reddit.com/r/Python/comments/1o5lsbv/the_key_python_314_updates_to_make_your_coding/)
 <!-- BLOG-POST-LIST:END -->
