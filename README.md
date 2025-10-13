@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cool project idea &lpar;master&#39;s degree final project&rpar;](https://www.reddit.com/r/Python/comments/1o5p1hi/cool_project_idea_masters_degree_final_project/)
+- [Proxy parser / formatter for Python - proxyutils](https://www.reddit.com/r/Python/comments/1o5ofkq/proxy_parser_formatter_for_python_proxyutils/)
+- [Guess The Output](https://www.reddit.com/r/Python/comments/1o5oeo6/guess_the_output/)
+- [The Key Python 3.14 Updates To Make Your Coding Easier, Faster, and Better](https://www.reddit.com/r/Python/comments/1o5lsbv/the_key_python_314_updates_to_make_your_coding/)
 - [gRPC: Client side vs Server side load balancing, which one to choose?](https://www.reddit.com/r/Python/comments/1o5kwve/grpc_client_side_vs_server_side_load_balancing/)
-- [Parsegument! - Argument Parsing and function routing](https://www.reddit.com/r/Python/comments/1o5jkb9/parsegument_argument_parsing_and_function_routing/)
-- [Erdos: data science open-source AI IDE](https://www.reddit.com/r/Python/comments/1o5jej5/erdos_data_science_opensource_ai_ide/)
-- [What is the best Python learning course?](https://www.reddit.com/r/Python/comments/1o5i5rg/what_is_the_best_python_learning_course/)
-- [Need advice on simulating real time bus movement and eta predictions](https://www.reddit.com/r/Python/comments/1o5gurz/need_advice_on_simulating_real_time_bus_movement/)
 <!-- BLOG-POST-LIST:END -->
