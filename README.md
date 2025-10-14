@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gave up on C++ and just went with Python](https://www.reddit.com/r/Python/comments/1o6u9cg/gave_up_on_c_and_just_went_with_python/)
+- [[Hiring] A experienced python coder that is very experienced with discord bots/ocr extractions.](https://www.reddit.com/r/Python/comments/1o6tx7x/hiring_a_experienced_python_coder_that_is_very/)
 - [An open source access logs analytics script to block Bot attacks](https://www.reddit.com/r/Python/comments/1o6rtc1/an_open_source_access_logs_analytics_script_to/)
 - [Improved projects](https://www.reddit.com/r/Python/comments/1o6q53q/improved_projects/)
 - [Python humble bundle, opinions?](https://www.reddit.com/r/Python/comments/1o6q3dq/python_humble_bundle_opinions/)
-- [[Project] Plugboard - A framework for complex process modelling](https://www.reddit.com/r/Python/comments/1o6mv11/project_plugboard_a_framework_for_complex_process/)
-- [ButtonPad, a simple GUI framework built on tkinter](https://www.reddit.com/r/Python/comments/1o6muzv/buttonpad_a_simple_gui_framework_built_on_tkinter/)
 <!-- BLOG-POST-LIST:END -->
