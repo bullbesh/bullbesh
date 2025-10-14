@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Project] Plugboard - A framework for complex process modelling](https://www.reddit.com/r/Python/comments/1o6mv11/project_plugboard_a_framework_for_complex_process/)
+- [ButtonPad, a simple GUI framework built on tkinter](https://www.reddit.com/r/Python/comments/1o6muzv/buttonpad_a_simple_gui_framework_built_on_tkinter/)
 - [Python 3.15 Alpha Released](https://www.reddit.com/r/Python/comments/1o6jivj/python_315_alpha_released/)
 - [[Project] Antback - A Tiny, Transparent Backtesting Library](https://www.reddit.com/r/Python/comments/1o6bxx5/project_antback_a_tiny_transparent_backtesting/)
 - [White pop up in Terminal](https://www.reddit.com/r/Python/comments/1o6bpjq/white_pop_up_in_terminal/)
-- [extend operation of list is threading safe in no-gil version??](https://www.reddit.com/r/Python/comments/1o6arym/extend_operation_of_list_is_threading_safe_in/)
-- [Exercise to Build the Right Mental Model for Python Data](https://www.reddit.com/r/Python/comments/1o6agzo/exercise_to_build_the_right_mental_model_for/)
 <!-- BLOG-POST-LIST:END -->
