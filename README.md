@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Pyrefly eats CPU like nobodies business.](https://www.reddit.com/r/Python/comments/1o66tho/pyrefly_eats_cpu_like_nobodies_business/)
-- [[Beta] Django + PostgreSQL Anonymizer - DB-level masking for realistic dev/test datasets](https://www.reddit.com/r/Python/comments/1o66c21/beta_django_postgresql_anonymizer_dblevel_masking/)
-- [Bluetooth beacon and raspberry Pi](https://www.reddit.com/r/Python/comments/1o654sz/bluetooth_beacon_and_raspberry_pi/)
-- [Switch from Python to C++ Tips](https://www.reddit.com/r/Python/comments/1o61cb7/switch_from_python_to_c_tips/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1o60ghk/tuesday_daily_thread_advanced_questions/)
+- [White pop up in Terminal](https://www.reddit.com/r/Python/comments/1o6bpjq/white_pop_up_in_terminal/)
+- [extend operation of list is threading safe in no-gil version??](https://www.reddit.com/r/Python/comments/1o6arym/extend_operation_of_list_is_threading_safe_in/)
+- [Exercise to Build the Right Mental Model for Python Data](https://www.reddit.com/r/Python/comments/1o6agzo/exercise_to_build_the_right_mental_model_for/)
+- [How to Design a Searchable PDF Database Archived on Verbatim 128 GB Discs?](https://www.reddit.com/r/Python/comments/1o6agbj/how_to_design_a_searchable_pdf_database_archived/)
+- [I built JSONxplode a complex json flattener](https://www.reddit.com/r/Python/comments/1o69cvi/i_built_jsonxplode_a_complex_json_flattener/)
 <!-- BLOG-POST-LIST:END -->
