@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pyrefly eats CPU like nobodies business.](https://www.reddit.com/r/Python/comments/1o66tho/pyrefly_eats_cpu_like_nobodies_business/)
+- [[Beta] Django + PostgreSQL Anonymizer - DB-level masking for realistic dev/test datasets](https://www.reddit.com/r/Python/comments/1o66c21/beta_django_postgresql_anonymizer_dblevel_masking/)
 - [Bluetooth beacon and raspberry Pi](https://www.reddit.com/r/Python/comments/1o654sz/bluetooth_beacon_and_raspberry_pi/)
 - [Switch from Python to C++ Tips](https://www.reddit.com/r/Python/comments/1o61cb7/switch_from_python_to_c_tips/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1o60ghk/tuesday_daily_thread_advanced_questions/)
-- [Let&#39;s Build a Quant Trading Strategy: Part 1 - ML Model in PyTorch](https://www.reddit.com/r/Python/comments/1o5ymks/lets_build_a_quant_trading_strategy_part_1_ml/)
-- [Web package documentation](https://www.reddit.com/r/Python/comments/1o5w6re/web_package_documentation/)
 <!-- BLOG-POST-LIST:END -->
