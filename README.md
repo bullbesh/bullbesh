@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting back into Python](https://www.reddit.com/r/Python/comments/1o7paue/getting_back_into_python/)
 - [OpenJlang BetaV0.1 &quot;Verna&quot; is here!](https://www.reddit.com/r/Python/comments/1o7nwyp/openjlang_betav01_verna_is_here/)
 - [Completely rewrote Buridan UI](https://www.reddit.com/r/Python/comments/1o7k3y6/completely_rewrote_buridan_ui/)
 - [Stop deployment failures from bad configs](https://www.reddit.com/r/Python/comments/1o7hl6s/stop_deployment_failures_from_bad_configs/)
 - [I built a classic &quot;Crack the Code&quot; console game in Python: Digit Detective 🕵️‍♀️](https://www.reddit.com/r/Python/comments/1o7fcvo/i_built_a_classic_crack_the_code_console_game_in/)
-- [Nyxelf: An Unreliable Dynamic Analysis Toolkit.](https://www.reddit.com/r/Python/comments/1o7dqre/nyxelf_an_unreliable_dynamic_analysis_toolkit/)
 <!-- BLOG-POST-LIST:END -->
