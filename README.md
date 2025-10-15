@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [💡 Your Python scripts deserve better than Jupyter notebooks.](https://www.reddit.com/r/Python/comments/1o7709o/your_python_scripts_deserve_better_than_jupyter/)
 - [I built a modern async Python SDK for Expo Push Notifications &lpar;with full type hints!&rpar;](https://www.reddit.com/r/Python/comments/1o74arl/i_built_a_modern_async_python_sdk_for_expo_push/)
 - [GIL free and thread safety](https://www.reddit.com/r/Python/comments/1o71ejn/gil_free_and_thread_safety/)
 - [I wrote a short tutorial on how to kill the GIL in Python 3.14](https://www.reddit.com/r/Python/comments/1o6v4fb/i_wrote_a_short_tutorial_on_how_to_kill_the_gil/)
 - [Gave up on C++ and just went with Python](https://www.reddit.com/r/Python/comments/1o6u9cg/gave_up_on_c_and_just_went_with_python/)
-- [[Hiring] A experienced python coder that is very experienced with discord bots/ocr extractions.](https://www.reddit.com/r/Python/comments/1o6tx7x/hiring_a_experienced_python_coder_that_is_very/)
 <!-- BLOG-POST-LIST:END -->
