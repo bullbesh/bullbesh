@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GIL free and thread safety](https://www.reddit.com/r/Python/comments/1o71ejn/gil_free_and_thread_safety/)
 - [Polymorphic ToDo App](https://www.reddit.com/r/Python/comments/1o6xmvi/polymorphic_todo_app/)
 - [I wrote a short tutorial on how to kill the GIL in Python 3.14](https://www.reddit.com/r/Python/comments/1o6v4fb/i_wrote_a_short_tutorial_on_how_to_kill_the_gil/)
 - [Gave up on C++ and just went with Python](https://www.reddit.com/r/Python/comments/1o6u9cg/gave_up_on_c_and_just_went_with_python/)
 - [[Hiring] A experienced python coder that is very experienced with discord bots/ocr extractions.](https://www.reddit.com/r/Python/comments/1o6tx7x/hiring_a_experienced_python_coder_that_is_very/)
-- [An open source access logs analytics script to block Bot attacks](https://www.reddit.com/r/Python/comments/1o6rtc1/an_open_source_access_logs_analytics_script_to/)
 <!-- BLOG-POST-LIST:END -->
