@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Built a Tool to Sync GitHub Issues to Linear – Feedback Welcome!](https://www.reddit.com/r/Python/comments/1o77t5h/built_a_tool_to_sync_github_issues_to_linear/)
 - [Recommending `prek` - the necessary Rust rewrite of `pre-commit`](https://www.reddit.com/r/Python/comments/1o77mip/recommending_prek_the_necessary_rust_rewrite_of/)
-- [💡 Your Python scripts deserve better than Jupyter notebooks.](https://www.reddit.com/r/Python/comments/1o7709o/your_python_scripts_deserve_better_than_jupyter/)
 - [I built a modern async Python SDK for Expo Push Notifications &lpar;with full type hints!&rpar;](https://www.reddit.com/r/Python/comments/1o74arl/i_built_a_modern_async_python_sdk_for_expo_push/)
 - [GIL free and thread safety](https://www.reddit.com/r/Python/comments/1o71ejn/gil_free_and_thread_safety/)
+- [I wrote a short tutorial on how to kill the GIL in Python 3.14](https://www.reddit.com/r/Python/comments/1o6v4fb/i_wrote_a_short_tutorial_on_how_to_kill_the_gil/)
 <!-- BLOG-POST-LIST:END -->
