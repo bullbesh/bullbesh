@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nyxelf: An Unreliable Dynamic Analysis Toolkit.](https://www.reddit.com/r/Python/comments/1o7dqre/nyxelf_an_unreliable_dynamic_analysis_toolkit/)
 - [Zuban - A Python Language Server / Typechecker - Beta Release](https://www.reddit.com/r/Python/comments/1o7bat4/zuban_a_python_language_server_typechecker_beta/)
 - [Built a Tool to Sync GitHub Issues to Linear – Feedback Welcome!](https://www.reddit.com/r/Python/comments/1o77t5h/built_a_tool_to_sync_github_issues_to_linear/)
 - [Recommending `prek` - the necessary Rust rewrite of `pre-commit`](https://www.reddit.com/r/Python/comments/1o77mip/recommending_prek_the_necessary_rust_rewrite_of/)
 - [I built a modern async Python SDK for Expo Push Notifications &lpar;with full type hints!&rpar;](https://www.reddit.com/r/Python/comments/1o74arl/i_built_a_modern_async_python_sdk_for_expo_push/)
-- [GIL free and thread safety](https://www.reddit.com/r/Python/comments/1o71ejn/gil_free_and_thread_safety/)
 <!-- BLOG-POST-LIST:END -->
