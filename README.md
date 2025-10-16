@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [InfoLens - A python based GUI dashboard](https://www.reddit.com/r/Python/comments/1o86n2t/infolens_a_python_based_gui_dashboard/)
+- [Automating your heating with Octopus Energy AGILE tariff](https://www.reddit.com/r/Python/comments/1o86j5t/automating_your_heating_with_octopus_energy_agile/)
 - [[Project] doespythonhaveit: a semantic search engine for Python libraries](https://www.reddit.com/r/Python/comments/1o80g8o/project_doespythonhaveit_a_semantic_search_engine/)
 - [Interactive HMTL](https://www.reddit.com/r/Python/comments/1o7u9q1/interactive_hmtl/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1o7rffb/thursday_daily_thread_python_careers_courses_and/)
-- [Getting back into Python](https://www.reddit.com/r/Python/comments/1o7paue/getting_back_into_python/)
-- [OpenJlang BetaV0.1 &quot;Verna&quot; is here!](https://www.reddit.com/r/Python/comments/1o7nwyp/openjlang_betav01_verna_is_here/)
 <!-- BLOG-POST-LIST:END -->
