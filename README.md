@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom hostname instead of IP address](https://www.reddit.com/r/Python/comments/1o7yh3t/custom_hostname_instead_of_ip_address/)
 - [Interactive HMTL](https://www.reddit.com/r/Python/comments/1o7u9q1/interactive_hmtl/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1o7rffb/thursday_daily_thread_python_careers_courses_and/)
 - [Getting back into Python](https://www.reddit.com/r/Python/comments/1o7paue/getting_back_into_python/)
 - [OpenJlang BetaV0.1 &quot;Verna&quot; is here!](https://www.reddit.com/r/Python/comments/1o7nwyp/openjlang_betav01_verna_is_here/)
-- [Completely rewrote Buridan UI](https://www.reddit.com/r/Python/comments/1o7k3y6/completely_rewrote_buridan_ui/)
 <!-- BLOG-POST-LIST:END -->
