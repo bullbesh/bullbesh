@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Threads And Processes In Python, The Practical Guide](https://www.reddit.com/r/Python/comments/1o91096/threads_and_processes_in_python_the_practical/)
+- [Free-threaded Python on GitHub Actions](https://www.reddit.com/r/Python/comments/1o90fan/freethreaded_python_on_github_actions/)
+- [Talk Python Podcast Ep 523 – Pyrefly: Fast, IDE-Friendly Typing for Python](https://www.reddit.com/r/Python/comments/1o907tp/talk_python_podcast_ep_523_pyrefly_fast/)
 - [Turn on Wi-Fi via browser in 7 lines?](https://www.reddit.com/r/Python/comments/1o8yhuk/turn_on_wifi_via_browser_in_7_lines/)
 - [Made an encryption tool in Python &lpar;and use of some C&rpar;](https://www.reddit.com/r/Python/comments/1o8yfb5/made_an_encryption_tool_in_python_and_use_of_some/)
-- [What is the easiest neural network project to someone who is just starting with AI/ML and python](https://www.reddit.com/r/Python/comments/1o8wuhr/what_is_the_easiest_neural_network_project_to/)
-- [Sanguine — Local Semantic Code Search, No Cloud, No APIs](https://www.reddit.com/r/Python/comments/1o8un9r/sanguine_local_semantic_code_search_no_cloud_no/)
-- [gitfluff: Commit Message Linter &lpar;Conventional Commits + AI signature cleanup&rpar;](https://www.reddit.com/r/Python/comments/1o8uh8d/gitfluff_commit_message_linter_conventional/)
 <!-- BLOG-POST-LIST:END -->
