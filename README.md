@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turn on Wi-Fi via browser in 7 lines?](https://www.reddit.com/r/Python/comments/1o8yhuk/turn_on_wifi_via_browser_in_7_lines/)
+- [Made an encryption tool in Python &lpar;and use of some C&rpar;](https://www.reddit.com/r/Python/comments/1o8yfb5/made_an_encryption_tool_in_python_and_use_of_some/)
 - [What is the easiest neural network project to someone who is just starting with AI/ML and python](https://www.reddit.com/r/Python/comments/1o8wuhr/what_is_the_easiest_neural_network_project_to/)
 - [Sanguine — Local Semantic Code Search, No Cloud, No APIs](https://www.reddit.com/r/Python/comments/1o8un9r/sanguine_local_semantic_code_search_no_cloud_no/)
 - [gitfluff: Commit Message Linter &lpar;Conventional Commits + AI signature cleanup&rpar;](https://www.reddit.com/r/Python/comments/1o8uh8d/gitfluff_commit_message_linter_conventional/)
-- [How to profile django backend + celery worker app?](https://www.reddit.com/r/Python/comments/1o8sxlx/how_to_profile_django_backend_celery_worker_app/)
-- [Made A Video Media Player that Plays Multi-Track Audio with Python](https://www.reddit.com/r/Python/comments/1o8pn4t/made_a_video_media_player_that_plays_multitrack/)
 <!-- BLOG-POST-LIST:END -->
