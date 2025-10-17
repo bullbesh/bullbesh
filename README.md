@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made A Video Media Player that Plays Multi-Track Audio with Python](https://www.reddit.com/r/Python/comments/1o8pn4t/made_a_video_media_player_that_plays_multitrack/)
+- [TOML is great, and after diving deep into designing a config format, here&#39;s why I think that&#39;s true](https://www.reddit.com/r/Python/comments/1o8ors4/toml_is_great_and_after_diving_deep_into/)
 - [Made a simple encryption app with Python](https://www.reddit.com/r/Python/comments/1o8nomg/made_a_simple_encryption_app_with_python/)
 - [New to Coding in Python](https://www.reddit.com/r/Python/comments/1o8niqf/new_to_coding_in_python/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1o8meso/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Python is better than Rust and I can prove it.](https://www.reddit.com/r/Python/comments/1o8kz6b/python_is_better_than_rust_and_i_can_prove_it/)
-- [Python as a Configuration Language Using Starlark](https://www.reddit.com/r/Python/comments/1o8gd22/python_as_a_configuration_language_using_starlark/)
 <!-- BLOG-POST-LIST:END -->
