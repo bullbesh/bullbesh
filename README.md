@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Resources from Intermediate - Advanced for decently experienced dev to upskill?](https://www.reddit.com/r/Python/comments/1o9bqks/resources_from_intermediate_advanced_for_decently/)
+- [React Native with Python Backend Developer](https://www.reddit.com/r/Python/comments/1o9bk6z/react_native_with_python_backend_developer/)
+- [Pygls v2.0.0 released: a library for building custom LSP servers](https://www.reddit.com/r/Python/comments/1o9axeo/pygls_v200_released_a_library_for_building_custom/)
+- [De-emojifying scripts - setting yourself apart from LLMs](https://www.reddit.com/r/Python/comments/1o9ar5b/deemojifying_scripts_setting_yourself_apart_from/)
 - [invert PDF colors](https://www.reddit.com/r/Python/comments/1o9a3f0/invert_pdf_colors/)
-- [If starting from scratch, what would you change in Python. And bringing back an old discussion.](https://www.reddit.com/r/Python/comments/1o98n90/if_starting_from_scratch_what_would_you_change_in/)
-- [I built a tool to run Python in a full Linux environment, instantly, in your browser.](https://www.reddit.com/r/Python/comments/1o97fxh/i_built_a_tool_to_run_python_in_a_full_linux/)
-- [I was tired of writing CREATE TABLE statements for my Pydantic models, so I built PydSQL to automate](https://www.reddit.com/r/Python/comments/1o9756d/i_was_tired_of_writing_create_table_statements/)
-- [Threads And Processes In Python, The Practical Guide](https://www.reddit.com/r/Python/comments/1o91096/threads_and_processes_in_python_the_practical/)
 <!-- BLOG-POST-LIST:END -->
