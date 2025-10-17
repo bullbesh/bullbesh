@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made a simple encryption app with Python](https://www.reddit.com/r/Python/comments/1o8nomg/made_a_simple_encryption_app_with_python/)
+- [New to Coding in Python](https://www.reddit.com/r/Python/comments/1o8niqf/new_to_coding_in_python/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1o8meso/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Python is better than Rust and I can prove it.](https://www.reddit.com/r/Python/comments/1o8kz6b/python_is_better_than_rust_and_i_can_prove_it/)
 - [Python as a Configuration Language Using Starlark](https://www.reddit.com/r/Python/comments/1o8gd22/python_as_a_configuration_language_using_starlark/)
-- [I built a VS Code extension for uv integration and PEP 723 scripts](https://www.reddit.com/r/Python/comments/1o8fz6j/i_built_a_vs_code_extension_for_uv_integration/)
-- [searching for job by preparing my own](https://www.reddit.com/r/Python/comments/1o8e955/searching_for_job_by_preparing_my_own/)
-- [[Project] mini language based on Python: Montyp](https://www.reddit.com/r/Python/comments/1o8apus/project_mini_language_based_on_python_montyp/)
 <!-- BLOG-POST-LIST:END -->
