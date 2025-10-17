@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just released PyPIPlus.com 2.0 offline-ready package bundles, reverse deps, license data, and more](https://www.reddit.com/r/Python/comments/1o9dey5/i_just_released_pypipluscom_20_offlineready/)
+- [[Project] git2mind — Summarize your repo for AI models in seconds](https://www.reddit.com/r/Python/comments/1o9ctmg/project_git2mind_summarize_your_repo_for_ai/)
 - [Resources from Intermediate - Advanced for decently experienced dev to upskill?](https://www.reddit.com/r/Python/comments/1o9bqks/resources_from_intermediate_advanced_for_decently/)
 - [React Native with Python Backend Developer](https://www.reddit.com/r/Python/comments/1o9bk6z/react_native_with_python_backend_developer/)
 - [Pygls v2.0.0 released: a library for building custom LSP servers](https://www.reddit.com/r/Python/comments/1o9axeo/pygls_v200_released_a_library_for_building_custom/)
-- [De-emojifying scripts - setting yourself apart from LLMs](https://www.reddit.com/r/Python/comments/1o9ar5b/deemojifying_scripts_setting_yourself_apart_from/)
-- [invert PDF colors](https://www.reddit.com/r/Python/comments/1o9a3f0/invert_pdf_colors/)
 <!-- BLOG-POST-LIST:END -->
