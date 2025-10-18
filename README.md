@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need a function to get the average of two colours](https://www.reddit.com/r/Python/comments/1o9oqao/need_a_function_to_get_the_average_of_two_colours/)
 - [Guido knew better than his boss](https://www.reddit.com/r/Python/comments/1o9o3f5/guido_knew_better_than_his_boss/)
 - [Python question about dictionaries](https://www.reddit.com/r/Python/comments/1o9o13e/python_question_about_dictionaries/)
 - [Am I allowed to ask whether anyone has PandasGUI working with 3.14 here?](https://www.reddit.com/r/Python/comments/1o9m98i/am_i_allowed_to_ask_whether_anyone_has_pandasgui/)
 - [Private Package Hosting + Vetted Packatges / Security Auditing](https://www.reddit.com/r/Python/comments/1o9ldg2/private_package_hosting_vetted_packatges_security/)
-- [Uber Eats Account Generator Showcase, and ethical concerns?](https://www.reddit.com/r/Python/comments/1o9i7p0/uber_eats_account_generator_showcase_and_ethical/)
 <!-- BLOG-POST-LIST:END -->
