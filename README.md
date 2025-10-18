@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which language is similar to Python?](https://www.reddit.com/r/Python/comments/1o9tvtc/which_language_is_similar_to_python/)
 - [Passive SDR Radar with KrakenSDR: DVB-T2 for Drone/Target Detection](https://www.reddit.com/r/Python/comments/1o9s17w/passive_sdr_radar_with_krakensdr_dvbt2_for/)
 - [Need a function to get the average of two colours](https://www.reddit.com/r/Python/comments/1o9oqao/need_a_function_to_get_the_average_of_two_colours/)
 - [Guido knew better than his boss](https://www.reddit.com/r/Python/comments/1o9o3f5/guido_knew_better_than_his_boss/)
 - [Python question about dictionaries](https://www.reddit.com/r/Python/comments/1o9o13e/python_question_about_dictionaries/)
-- [Am I allowed to ask whether anyone has PandasGUI working with 3.14 here?](https://www.reddit.com/r/Python/comments/1o9m98i/am_i_allowed_to_ask_whether_anyone_has_pandasgui/)
 <!-- BLOG-POST-LIST:END -->
