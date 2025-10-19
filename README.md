@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Trio - Should I move to a more popular async framework?](https://www.reddit.com/r/Python/comments/1oah08y/trio_should_i_move_to_a_more_popular_async/)
 - [I am not able to start with GUI in Python.](https://www.reddit.com/r/Python/comments/1oael9w/i_am_not_able_to_start_with_gui_in_python/)
 - [Skylos- Expanded capabilities](https://www.reddit.com/r/Python/comments/1oad5wv/skylos_expanded_capabilities/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1oabdtm/sunday_daily_thread_whats_everyone_working_on/)
 - [Google Tasks TUI](https://www.reddit.com/r/Python/comments/1oaaddg/google_tasks_tui/)
-- [Showcase: I wrote a GitHub Action to Summarize uv.lock Changes](https://www.reddit.com/r/Python/comments/1oa9e3c/showcase_i_wrote_a_github_action_to_summarize/)
 <!-- BLOG-POST-LIST:END -->
