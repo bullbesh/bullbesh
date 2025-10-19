@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Skylos- Expanded capabilities](https://www.reddit.com/r/Python/comments/1oad5wv/skylos_expanded_capabilities/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1oabdtm/sunday_daily_thread_whats_everyone_working_on/)
 - [Google Tasks TUI](https://www.reddit.com/r/Python/comments/1oaaddg/google_tasks_tui/)
 - [Showcase: I wrote a GitHub Action to Summarize uv.lock Changes](https://www.reddit.com/r/Python/comments/1oa9e3c/showcase_i_wrote_a_github_action_to_summarize/)
 - [New package: gnosis-dispatch](https://www.reddit.com/r/Python/comments/1oa8cwj/new_package_gnosisdispatch/)
-- [Saving Memory with Polars &lpar;over Pandas&rpar;](https://www.reddit.com/r/Python/comments/1oa4r54/saving_memory_with_polars_over_pandas/)
-- [Hot take: list comprehensions are almost always a bad idea](https://www.reddit.com/r/Python/comments/1oa3n4x/hot_take_list_comprehensions_are_almost_always_a/)
 <!-- BLOG-POST-LIST:END -->
