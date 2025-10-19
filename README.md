@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What should be the design and functionality of an agent framework like Langchain?](https://www.reddit.com/r/Python/comments/1oaski5/what_should_be_the_design_and_functionality_of_an/)
 - [EEG WIP. Can you do better than Claude?](https://www.reddit.com/r/Python/comments/1oarf25/eeg_wip_can_you_do_better_than_claude/)
 - [CTkSidebar: a customizable sidebar navigation control for CustomTkinter](https://www.reddit.com/r/Python/comments/1oar9y1/ctksidebar_a_customizable_sidebar_navigation/)
 - [For those who miss terminal animations...](https://www.reddit.com/r/Python/comments/1oalj6u/for_those_who_miss_terminal_animations/)
 - [Trio - Should I move to a more popular async framework?](https://www.reddit.com/r/Python/comments/1oah08y/trio_should_i_move_to_a_more_popular_async/)
-- [I am not able to start with GUI in Python.](https://www.reddit.com/r/Python/comments/1oael9w/i_am_not_able_to_start_with_gui_in_python/)
 <!-- BLOG-POST-LIST:END -->
