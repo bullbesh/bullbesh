@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Production-ready FastAPI template with CI/CD and Docker releases](https://www.reddit.com/r/Python/comments/1ob3xmq/productionready_fastapi_template_with_cicd_and/)
+- [I built a tool that tells you how hard a website is to scrape](https://www.reddit.com/r/Python/comments/1ob3na1/i_built_a_tool_that_tells_you_how_hard_a_website/)
 - [friendly PyTorch book — here’s what I learned about explaining machine learning simply 👇](https://www.reddit.com/r/Python/comments/1ob2vp3/friendly_pytorch_book_heres_what_i_learned_about/)
 - [gs-batch-pdf v0.6.0: Parallel PDF processing with Ghostscript](https://www.reddit.com/r/Python/comments/1ob1kxr/gsbatchpdf_v060_parallel_pdf_processing_with/)
 - [🧪 Promethium — The Offline Chemistry Toolkit for Python](https://www.reddit.com/r/Python/comments/1ob0jk7/promethium_the_offline_chemistry_toolkit_for/)
-- [URL Shortener with FastAPI - Deployed to Leapcell](https://www.reddit.com/r/Python/comments/1oayl0a/url_shortener_with_fastapi_deployed_to_leapcell/)
-- [[Fun project] UV scripts, but for functions.](https://www.reddit.com/r/Python/comments/1oavf1l/fun_project_uv_scripts_but_for_functions/)
 <!-- BLOG-POST-LIST:END -->
