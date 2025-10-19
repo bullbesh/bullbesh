@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [BackEnd Python Developer With 16 years is a good idea?](https://www.reddit.com/r/Python/comments/1ob00jm/backend_python_developer_with_16_years_is_a_good/)
+- [🧪 Promethium — The Offline Chemistry Toolkit for Python](https://www.reddit.com/r/Python/comments/1ob0jk7/promethium_the_offline_chemistry_toolkit_for/)
 - [URL Shortener with FastAPI - Deployed to Leapcell](https://www.reddit.com/r/Python/comments/1oayl0a/url_shortener_with_fastapi_deployed_to_leapcell/)
 - [[Fun project] UV scripts, but for functions.](https://www.reddit.com/r/Python/comments/1oavf1l/fun_project_uv_scripts_but_for_functions/)
 - [Ищу человека с которым можно окунуться в IT, направление Python.](https://www.reddit.com/r/Python/comments/1oav08x/ищу_человека_с_которым_можно_окунуться_в_it/)
