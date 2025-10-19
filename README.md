@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [BackEnd Python Developer With 16 years is a good idea?](https://www.reddit.com/r/Python/comments/1ob00jm/backend_python_developer_with_16_years_is_a_good/)
+- [URL Shortener with FastAPI - Deployed to Leapcell](https://www.reddit.com/r/Python/comments/1oayl0a/url_shortener_with_fastapi_deployed_to_leapcell/)
 - [[Fun project] UV scripts, but for functions.](https://www.reddit.com/r/Python/comments/1oavf1l/fun_project_uv_scripts_but_for_functions/)
 - [Ищу человека с которым можно окунуться в IT, направление Python.](https://www.reddit.com/r/Python/comments/1oav08x/ищу_человека_с_которым_можно_окунуться_в_it/)
 - [What should be the design and functionality of an agent framework like Langchain?](https://www.reddit.com/r/Python/comments/1oaski5/what_should_be_the_design_and_functionality_of_an/)
-- [EEG WIP. Can you do better than Claude?](https://www.reddit.com/r/Python/comments/1oarf25/eeg_wip_can_you_do_better_than_claude/)
-- [CTkSidebar: a customizable sidebar navigation control for CustomTkinter](https://www.reddit.com/r/Python/comments/1oar9y1/ctksidebar_a_customizable_sidebar_navigation/)
 <!-- BLOG-POST-LIST:END -->
