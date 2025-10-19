@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [friendly PyTorch book — here’s what I learned about explaining machine learning simply 👇](https://www.reddit.com/r/Python/comments/1ob2vp3/friendly_pytorch_book_heres_what_i_learned_about/)
+- [gs-batch-pdf v0.6.0: Parallel PDF processing with Ghostscript](https://www.reddit.com/r/Python/comments/1ob1kxr/gsbatchpdf_v060_parallel_pdf_processing_with/)
 - [🧪 Promethium — The Offline Chemistry Toolkit for Python](https://www.reddit.com/r/Python/comments/1ob0jk7/promethium_the_offline_chemistry_toolkit_for/)
 - [URL Shortener with FastAPI - Deployed to Leapcell](https://www.reddit.com/r/Python/comments/1oayl0a/url_shortener_with_fastapi_deployed_to_leapcell/)
 - [[Fun project] UV scripts, but for functions.](https://www.reddit.com/r/Python/comments/1oavf1l/fun_project_uv_scripts_but_for_functions/)
-- [Ищу человека с которым можно окунуться в IT, направление Python.](https://www.reddit.com/r/Python/comments/1oav08x/ищу_человека_с_которым_можно_окунуться_в_it/)
-- [What should be the design and functionality of an agent framework like Langchain?](https://www.reddit.com/r/Python/comments/1oaski5/what_should_be_the_design_and_functionality_of_an/)
 <!-- BLOG-POST-LIST:END -->
