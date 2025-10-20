@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Has any library emerged as the replacement for Poliastro?](https://www.reddit.com/r/Python/comments/1obqtmz/has_any_library_emerged_as_the_replacement_for/)
+- [Building an open-source observability tool for multi-agent systems - looking for feedback](https://www.reddit.com/r/Python/comments/1obprx2/building_an_opensource_observability_tool_for/)
 - [i built a tool that runs your python function on 10k vms in parallel with one line of code.](https://www.reddit.com/r/Python/comments/1obpjnf/i_built_a_tool_that_runs_your_python_function_on/)
 - [I made a Python bot that turns your text &amp; images into diagrams right in Telegram.](https://www.reddit.com/r/Python/comments/1oborpj/i_made_a_python_bot_that_turns_your_text_images/)
 - [I built a Persistent KV Store in Pure Python](https://www.reddit.com/r/Python/comments/1oborib/i_built_a_persistent_kv_store_in_pure_python/)
-- [Kryypto an open source python text editor.](https://www.reddit.com/r/Python/comments/1obo3rg/kryypto_an_open_source_python_text_editor/)
-- [Forgetting Python](https://www.reddit.com/r/Python/comments/1obo0ze/forgetting_python/)
 <!-- BLOG-POST-LIST:END -->
