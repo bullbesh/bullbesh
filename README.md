@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What could be tips and tricks to get ranked in top 10 in Luna Prompts?](https://www.reddit.com/r/Python/comments/1obcfl4/what_could_be_tips_and_tricks_to_get_ranked_in/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1ob573h/monday_daily_thread_project_ideas/)
-- [Production-ready FastAPI template with CI/CD and Docker releases](https://www.reddit.com/r/Python/comments/1ob3xmq/productionready_fastapi_template_with_cicd_and/)
-- [I built a tool that tells you how hard a website is to scrape](https://www.reddit.com/r/Python/comments/1ob3na1/i_built_a_tool_that_tells_you_how_hard_a_website/)
-- [friendly PyTorch book — here’s what I learned about explaining machine learning simply 👇](https://www.reddit.com/r/Python/comments/1ob2vp3/friendly_pytorch_book_heres_what_i_learned_about/)
+- [i built a tool that runs your python function on 10k vms in parallel with one line of code.](https://www.reddit.com/r/Python/comments/1obpjnf/i_built_a_tool_that_runs_your_python_function_on/)
+- [I made a Python bot that turns your text &amp; images into diagrams right in Telegram.](https://www.reddit.com/r/Python/comments/1oborpj/i_made_a_python_bot_that_turns_your_text_images/)
+- [I built a Persistent KV Store in Pure Python](https://www.reddit.com/r/Python/comments/1oborib/i_built_a_persistent_kv_store_in_pure_python/)
+- [Kryypto an open source python text editor.](https://www.reddit.com/r/Python/comments/1obo3rg/kryypto_an_open_source_python_text_editor/)
+- [Forgetting Python](https://www.reddit.com/r/Python/comments/1obo0ze/forgetting_python/)
 <!-- BLOG-POST-LIST:END -->
