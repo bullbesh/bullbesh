@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What could be tips and tricks to get ranked in top 10 in Luna Prompts?](https://www.reddit.com/r/Python/comments/1obcfl4/what_could_be_tips_and_tricks_to_get_ranked_in/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1ob573h/monday_daily_thread_project_ideas/)
 - [Production-ready FastAPI template with CI/CD and Docker releases](https://www.reddit.com/r/Python/comments/1ob3xmq/productionready_fastapi_template_with_cicd_and/)
 - [I built a tool that tells you how hard a website is to scrape](https://www.reddit.com/r/Python/comments/1ob3na1/i_built_a_tool_that_tells_you_how_hard_a_website/)
 - [friendly PyTorch book — here’s what I learned about explaining machine learning simply 👇](https://www.reddit.com/r/Python/comments/1ob2vp3/friendly_pytorch_book_heres_what_i_learned_about/)
-- [gs-batch-pdf v0.6.0: Parallel PDF processing with Ghostscript](https://www.reddit.com/r/Python/comments/1ob1kxr/gsbatchpdf_v060_parallel_pdf_processing_with/)
 <!-- BLOG-POST-LIST:END -->
