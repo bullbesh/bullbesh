@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a Riot API library for python](https://www.reddit.com/r/Python/comments/1ocib9b/i_created_a_riot_api_library_for_python/)
+- [IDS Project in Python](https://www.reddit.com/r/Python/comments/1ochltx/ids_project_in_python/)
+- [New UV Gitlab Component](https://www.reddit.com/r/Python/comments/1ocgcqh/new_uv_gitlab_component/)
+- [Python Pest - A port of Rust&#39;s pest](https://www.reddit.com/r/Python/comments/1ocg3p5/python_pest_a_port_of_rusts_pest/)
 - [GUI Toolkit Slint 1.14 released with universal transforms, asyncio and a unified text engine](https://www.reddit.com/r/Python/comments/1ocdw2j/gui_toolkit_slint_114_released_with_universal/)
-- [Advice for a Javascript/Typescript dev getting into the python ecosystem](https://www.reddit.com/r/Python/comments/1ocd9i4/advice_for_a_javascripttypescript_dev_getting/)
-- [NamedTuples are a PITA](https://www.reddit.com/r/Python/comments/1occzel/namedtuples_are_a_pita/)
-- [T-Strings: Python&#39;s Fifth String Formatting Technique?](https://www.reddit.com/r/Python/comments/1occonw/tstrings_pythons_fifth_string_formatting_technique/)
-- [Sprechstimme python library](https://www.reddit.com/r/Python/comments/1oc9sm4/sprechstimme_python_library/)
 <!-- BLOG-POST-LIST:END -->
