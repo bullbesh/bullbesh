@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [NamedTuples are a PITA](https://www.reddit.com/r/Python/comments/1occzel/namedtuples_are_a_pita/)
+- [T-Strings: Python&#39;s Fifth String Formatting Technique?](https://www.reddit.com/r/Python/comments/1occonw/tstrings_pythons_fifth_string_formatting_technique/)
 - [Sprechstimme python library](https://www.reddit.com/r/Python/comments/1oc9sm4/sprechstimme_python_library/)
 - [We are automating the mobile apps via our agent](https://www.reddit.com/r/Python/comments/1oc59ki/we_are_automating_the_mobile_apps_via_our_agent/)
 - [NGXSMK GameNet Optimizer: A Python-Powered, Privacy-First System and Network Optimization](https://www.reddit.com/r/Python/comments/1oc4122/ngxsmk_gamenet_optimizer_a_pythonpowered/)
-- [About Me &lpar;and the order i code in&rpar;](https://www.reddit.com/r/Python/comments/1obzlam/about_me_and_the_order_i_code_in/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1obxzya/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
