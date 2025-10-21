@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hi introducing python, CLI Tool called evilwaf most powerful firewall bypass V2.2 was released](https://www.reddit.com/r/Python/comments/1ocq03z/hi_introducing_python_cli_tool_called_evilwaf/)
 - [I created a Riot API library for python](https://www.reddit.com/r/Python/comments/1ocib9b/i_created_a_riot_api_library_for_python/)
 - [IDS Project in Python](https://www.reddit.com/r/Python/comments/1ochltx/ids_project_in_python/)
 - [New UV Gitlab Component](https://www.reddit.com/r/Python/comments/1ocgcqh/new_uv_gitlab_component/)
 - [Python Pest - A port of Rust&#39;s pest](https://www.reddit.com/r/Python/comments/1ocg3p5/python_pest_a_port_of_rusts_pest/)
-- [GUI Toolkit Slint 1.14 released with universal transforms, asyncio and a unified text engine](https://www.reddit.com/r/Python/comments/1ocdw2j/gui_toolkit_slint_114_released_with_universal/)
 <!-- BLOG-POST-LIST:END -->
