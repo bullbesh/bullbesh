@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GUI Toolkit Slint 1.14 released with universal transforms, asyncio and a unified text engine](https://www.reddit.com/r/Python/comments/1ocdw2j/gui_toolkit_slint_114_released_with_universal/)
+- [Advice for a Javascript/Typescript dev getting into the python ecosystem](https://www.reddit.com/r/Python/comments/1ocd9i4/advice_for_a_javascripttypescript_dev_getting/)
 - [NamedTuples are a PITA](https://www.reddit.com/r/Python/comments/1occzel/namedtuples_are_a_pita/)
 - [T-Strings: Python&#39;s Fifth String Formatting Technique?](https://www.reddit.com/r/Python/comments/1occonw/tstrings_pythons_fifth_string_formatting_technique/)
 - [Sprechstimme python library](https://www.reddit.com/r/Python/comments/1oc9sm4/sprechstimme_python_library/)
-- [We are automating the mobile apps via our agent](https://www.reddit.com/r/Python/comments/1oc59ki/we_are_automating_the_mobile_apps_via_our_agent/)
-- [NGXSMK GameNet Optimizer: A Python-Powered, Privacy-First System and Network Optimization](https://www.reddit.com/r/Python/comments/1oc4122/ngxsmk_gamenet_optimizer_a_pythonpowered/)
 <!-- BLOG-POST-LIST:END -->
