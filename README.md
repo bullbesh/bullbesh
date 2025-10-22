@@ -12,5 +12,5 @@
 - [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1od1vup/parallel_and_concurrent_programming_in_python_a/)
 - [Is my code horrible](https://www.reddit.com/r/Python/comments/1ocucv4/is_my_code_horrible/)
 - [Hi introducing python, CLI Tool called evilwaf most powerful firewall bypass V2.2 was released](https://www.reddit.com/r/Python/comments/1ocq03z/hi_introducing_python_cli_tool_called_evilwaf/)
-- [I created a Riot API library for python](https://www.reddit.com/r/Python/comments/1ocib9b/i_created_a_riot_api_library_for_python/)
+- [FastAPI Preset - A beginner-friendly starter template for personal projects](https://www.reddit.com/r/Python/comments/1ocnrz9/fastapi_preset_a_beginnerfriendly_starter/)
 <!-- BLOG-POST-LIST:END -->
