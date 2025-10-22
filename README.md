@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How common is Pydantic now?](https://www.reddit.com/r/Python/comments/1odk7pl/how_common_is_pydantic_now/)
 - [You need some advanced decorator patterns](https://www.reddit.com/r/Python/comments/1odf3fk/you_need_some_advanced_decorator_patterns/)
 - [Heap/Priority Queue that supports removing arbitrary items and frequency tracking](https://www.reddit.com/r/Python/comments/1od9sxp/heappriority_queue_that_supports_removing/)
 - [Converter PNG e JPG para WEBP com Python &lpar;Script Completo&rpar; 2025](https://www.reddit.com/r/Python/comments/1od8vne/converter_png_e_jpg_para_webp_com_python_script/)
 - [I built a Go-like channel package for Python asyncio](https://www.reddit.com/r/Python/comments/1od4jpv/i_built_a_golike_channel_package_for_python/)
-- [Process Memory manipulator in Python. &lpar;Windows x64&rpar;](https://www.reddit.com/r/Python/comments/1od374z/process_memory_manipulator_in_python_windows_x64/)
 <!-- BLOG-POST-LIST:END -->
