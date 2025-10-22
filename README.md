@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [You need some advanced decorator patterns](https://www.reddit.com/r/Python/comments/1odf3fk/you_need_some_advanced_decorator_patterns/)
+- [Heap/Priority Queue that supports removing arbitrary items and frequency tracking](https://www.reddit.com/r/Python/comments/1od9sxp/heappriority_queue_that_supports_removing/)
+- [Converter PNG e JPG para WEBP com Python &lpar;Script Completo&rpar; 2025](https://www.reddit.com/r/Python/comments/1od8vne/converter_png_e_jpg_para_webp_com_python_script/)
+- [I built a Go-like channel package for Python asyncio](https://www.reddit.com/r/Python/comments/1od4jpv/i_built_a_golike_channel_package_for_python/)
 - [Process Memory manipulator in Python. &lpar;Windows x64&rpar;](https://www.reddit.com/r/Python/comments/1od374z/process_memory_manipulator_in_python_windows_x64/)
-- [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1od1vup/parallel_and_concurrent_programming_in_python_a/)
-- [Is my code horrible](https://www.reddit.com/r/Python/comments/1ocucv4/is_my_code_horrible/)
-- [Hi introducing python, CLI Tool called evilwaf most powerful firewall bypass V2.2 was released](https://www.reddit.com/r/Python/comments/1ocq03z/hi_introducing_python_cli_tool_called_evilwaf/)
-- [FastAPI Preset - A beginner-friendly starter template for personal projects](https://www.reddit.com/r/Python/comments/1ocnrz9/fastapi_preset_a_beginnerfriendly_starter/)
 <!-- BLOG-POST-LIST:END -->
