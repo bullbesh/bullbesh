@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1od1vup/parallel_and_concurrent_programming_in_python_a/)
 - [Is my code horrible](https://www.reddit.com/r/Python/comments/1ocucv4/is_my_code_horrible/)
 - [Hi introducing python, CLI Tool called evilwaf most powerful firewall bypass V2.2 was released](https://www.reddit.com/r/Python/comments/1ocq03z/hi_introducing_python_cli_tool_called_evilwaf/)
 - [I created a Riot API library for python](https://www.reddit.com/r/Python/comments/1ocib9b/i_created_a_riot_api_library_for_python/)
 - [IDS Project in Python](https://www.reddit.com/r/Python/comments/1ochltx/ids_project_in_python/)
-- [New UV Gitlab Component](https://www.reddit.com/r/Python/comments/1ocgcqh/new_uv_gitlab_component/)
 <!-- BLOG-POST-LIST:END -->
