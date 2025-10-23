@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1odomzr/thursday_daily_thread_python_careers_courses_and/)
 - [What&#39;s the best package manager for python in your opinion?](https://www.reddit.com/r/Python/comments/1odnnrv/whats_the_best_package_manager_for_python_in_your/)
 - [How common is Pydantic now?](https://www.reddit.com/r/Python/comments/1odk7pl/how_common_is_pydantic_now/)
 - [You need some advanced decorator patterns](https://www.reddit.com/r/Python/comments/1odf3fk/you_need_some_advanced_decorator_patterns/)
 - [Heap/Priority Queue that supports removing arbitrary items and frequency tracking](https://www.reddit.com/r/Python/comments/1od9sxp/heappriority_queue_that_supports_removing/)
-- [Converter PNG e JPG para WEBP com Python &lpar;Script Completo&rpar; 2025](https://www.reddit.com/r/Python/comments/1od8vne/converter_png_e_jpg_para_webp_com_python_script/)
 <!-- BLOG-POST-LIST:END -->
