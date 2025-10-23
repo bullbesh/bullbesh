@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pyochain: method chaining on iterators and dictionnaries](https://www.reddit.com/r/Python/comments/1oe4n7h/pyochain_method_chaining_on_iterators_and/)
 - [Python Mutability](https://www.reddit.com/r/Python/comments/1oe36b0/python_mutability/)
 - [Work has banned python use for automatising admin. Can I hide my use of it?](https://www.reddit.com/r/Python/comments/1oe27lj/work_has_banned_python_use_for_automatising_admin/)
 - [Building an browser automation framework in python](https://www.reddit.com/r/Python/comments/1oe1k8s/building_an_browser_automation_framework_in_python/)
 - [Anyone having difficulty to learn embedded programming because of python background?](https://www.reddit.com/r/Python/comments/1oe01g5/anyone_having_difficulty_to_learn_embedded/)
-- [Log Real-Time BLE Air Quality Data from to Google Sheets using python](https://www.reddit.com/r/Python/comments/1odzpr5/log_realtime_ble_air_quality_data_from_to_google/)
 <!-- BLOG-POST-LIST:END -->
