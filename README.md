@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Faster Jupyter Notebooks with the Zuban Language Server](https://www.reddit.com/r/Python/comments/1oet078/faster_jupyter_notebooks_with_the_zuban_language/)
 - [sdax 0.5.0 — Run complex async tasks with automatic cleanup](https://www.reddit.com/r/Python/comments/1oem2vj/sdax_050_run_complex_async_tasks_with_automatic/)
 - [KickNoSub: A CLI Tool for Extracting Stream URLs from Kick VODs &lpar;for Educational Use&rpar;](https://www.reddit.com/r/Python/comments/1oejm1a/kicknosub_a_cli_tool_for_extracting_stream_urls/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1oej7tv/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Wove 1.0.0 Release Announcement - Beautiful Python Async](https://www.reddit.com/r/Python/comments/1oei7fa/wove_100_release_announcement_beautiful_python/)
-- [Nyno &lpar;open-source n8n alternative using YAML&rpar; now supports Python for high performing Workflows](https://www.reddit.com/r/Python/comments/1oeg83l/nyno_opensource_n8n_alternative_using_yaml_now/)
 <!-- BLOG-POST-LIST:END -->
