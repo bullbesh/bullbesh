@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A very simple native dataclass JSON serialization library](https://www.reddit.com/r/Python/comments/1ofqmg6/a_very_simple_native_dataclass_json_serialization/)
 - [Thermal Monitoring for S25+](https://www.reddit.com/r/Python/comments/1ofk1vx/thermal_monitoring_for_s25/)
 - [Skylos: Dead code + Vibe code security flaws detector](https://www.reddit.com/r/Python/comments/1ofevmc/skylos_dead_code_vibe_code_security_flaws_detector/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ofdbzk/saturday_daily_thread_resource_request_and/)
 - [SimplePrompts - Simple way to create prompts from within python &lpar;no jinja2 or prompt stitching&rpar;](https://www.reddit.com/r/Python/comments/1of6v3c/simpleprompts_simple_way_to_create_prompts_from/)
-- [Faster Jupyter Notebooks with the Zuban Language Server](https://www.reddit.com/r/Python/comments/1oet078/faster_jupyter_notebooks_with_the_zuban_language/)
 <!-- BLOG-POST-LIST:END -->
