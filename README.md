@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Caddy Snake Plugin](https://www.reddit.com/r/Python/comments/1ofv37e/caddy_snake_plugin/)
+- [Created a music for coders soundtrack for my latest course](https://www.reddit.com/r/Python/comments/1ofuh7m/created_a_music_for_coders_soundtrack_for_my/)
 - [Python 3.14t free-threading &lpar;GIL disabled&rpar; in Termux on Android](https://www.reddit.com/r/Python/comments/1ofu5t2/python_314t_freethreading_gil_disabled_in_termux/)
 - [Python script I wrote for generating an ASCII folder tree with flags and README.md integration](https://www.reddit.com/r/Python/comments/1oftnnx/python_script_i_wrote_for_generating_an_ascii/)
 - [[P] SpeechAlgo: Open-Source Speech Processing Library for Audio Pipelines](https://www.reddit.com/r/Python/comments/1oft27o/p_speechalgo_opensource_speech_processing_library/)
-- [Flask-Admin 2.0.0 — Admin Interfaces for Flask](https://www.reddit.com/r/Python/comments/1ofswpq/flaskadmin_200_admin_interfaces_for_flask/)
-- [[Release] Quantium 0.1.0 — Building toward a Physics-Aware Units Library for Python](https://www.reddit.com/r/Python/comments/1ofsfoz/release_quantium_010_building_toward_a/)
 <!-- BLOG-POST-LIST:END -->
