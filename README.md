@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [URL Shortener with FastAPI](https://www.reddit.com/r/Python/comments/1ogf6ft/url_shortener_with_fastapi/)
+- [My Python based open-source project PdfDing is receiving a grant](https://www.reddit.com/r/Python/comments/1ogf2iw/my_python_based_opensource_project_pdfding_is/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1og6hlr/sunday_daily_thread_whats_everyone_working_on/)
 - [Pip 25.3 - build constraints and PEP 517 builds only!](https://www.reddit.com/r/Python/comments/1og1yzs/pip_253_build_constraints_and_pep_517_builds_only/)
 - [Caddy Snake Plugin](https://www.reddit.com/r/Python/comments/1ofv37e/caddy_snake_plugin/)
-- [Created a music for coders soundtrack for my latest course](https://www.reddit.com/r/Python/comments/1ofuh7m/created_a_music_for_coders_soundtrack_for_my/)
-- [Python 3.14t free-threading &lpar;GIL disabled&rpar; in Termux on Android](https://www.reddit.com/r/Python/comments/1ofu5t2/python_314t_freethreading_gil_disabled_in_termux/)
 <!-- BLOG-POST-LIST:END -->
