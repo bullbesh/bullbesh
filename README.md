@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [# 🎉 Release v1.0.0 of ttkbootstrap‑icons -- easy icon sets for tkinter &amp; ttkbootstrap!](https://www.reddit.com/r/Python/comments/1oglk47/release_v100_of_ttkbootstrapicons_easy_icon_sets/)
+- [I built AgentHelm: Production-grade orchestration for AI agents [Open Source]](https://www.reddit.com/r/Python/comments/1ogkw8r/i_built_agenthelm_productiongrade_orchestration/)
 - [Python package for getting bulk transcripts and metadata from any Youtube channel.](https://www.reddit.com/r/Python/comments/1ogjt7h/python_package_for_getting_bulk_transcripts_and/)
 - [I built a Python tool to debug HTTP request performance step-by-step](https://www.reddit.com/r/Python/comments/1ogjjrl/i_built_a_python_tool_to_debug_http_request/)
 - [Proxy parser and formatter for Python - proxyutils](https://www.reddit.com/r/Python/comments/1ogigib/proxy_parser_and_formatter_for_python_proxyutils/)
-- [Does this need to be a breaking change? A plea to library maintainers.](https://www.reddit.com/r/Python/comments/1oggfn8/does_this_need_to_be_a_breaking_change_a_plea_to/)
-- [URL Shortener with FastAPI](https://www.reddit.com/r/Python/comments/1ogf6ft/url_shortener_with_fastapi/)
 <!-- BLOG-POST-LIST:END -->
