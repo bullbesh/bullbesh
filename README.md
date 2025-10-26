@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a Python tool to debug HTTP request performance step-by-step](https://www.reddit.com/r/Python/comments/1ogjjrl/i_built_a_python_tool_to_debug_http_request/)
+- [Proxy parser and formatter for Python - proxyutils](https://www.reddit.com/r/Python/comments/1ogigib/proxy_parser_and_formatter_for_python_proxyutils/)
 - [Does this need to be a breaking change? A plea to library maintainers.](https://www.reddit.com/r/Python/comments/1oggfn8/does_this_need_to_be_a_breaking_change_a_plea_to/)
 - [URL Shortener with FastAPI](https://www.reddit.com/r/Python/comments/1ogf6ft/url_shortener_with_fastapi/)
 - [My Python based open-source project PdfDing is receiving a grant](https://www.reddit.com/r/Python/comments/1ogf2iw/my_python_based_opensource_project_pdfding_is/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1og6hlr/sunday_daily_thread_whats_everyone_working_on/)
-- [Pip 25.3 - build constraints and PEP 517 builds only!](https://www.reddit.com/r/Python/comments/1og1yzs/pip_253_build_constraints_and_pep_517_builds_only/)
 <!-- BLOG-POST-LIST:END -->
