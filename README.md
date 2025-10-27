@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Retry manager for arbitrary code block](https://www.reddit.com/r/Python/comments/1ohczpq/retry_manager_for_arbitrary_code_block/)
+- [Duron - Durable async runtime for Python](https://www.reddit.com/r/Python/comments/1ohbuhl/duron_durable_async_runtime_for_python/)
 - [Lightweight Python Implementation of Shamir&#39;s Secret Sharing with Verifiable Shares](https://www.reddit.com/r/Python/comments/1oh8yh4/lightweight_python_implementation_of_shamirs/)
 - [human-errors: a nice way to show errors in config files](https://www.reddit.com/r/Python/comments/1oh86zh/humanerrors_a_nice_way_to_show_errors_in_config/)
 - [Downloads Folder Organizer: My first full Python project to clean up your messy Downloads folder](https://www.reddit.com/r/Python/comments/1oh6xmz/downloads_folder_organizer_my_first_full_python/)
-- [ttkbootstrap-icons 2.0 supports 8 new icon sets! material, font-awesome, remix, fluent, etc...](https://www.reddit.com/r/Python/comments/1oh3x1p/ttkbootstrapicons_20_supports_8_new_icon_sets/)
-- [Seeking Recommendations for Online Python Courses Focused on Robotics for Mechatronics Students](https://www.reddit.com/r/Python/comments/1oh2saj/seeking_recommendations_for_online_python_courses/)
 <!-- BLOG-POST-LIST:END -->
