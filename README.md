@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The HTTP caching Python deserves](https://www.reddit.com/r/Python/comments/1oilkc1/the_http_caching_python_deserves/)
 - [plt is the new matplotlib.pyplot](https://www.reddit.com/r/Python/comments/1oihp4r/plt_is_the_new_matplotlibpyplot/)
 - [What is the best computer or programming language to learn the basics then the more advanced stuff?](https://www.reddit.com/r/Python/comments/1oigffx/what_is_the_best_computer_or_programming_language/)
 - [gvit - Automatic Python virtual environment setup for every Git repo](https://www.reddit.com/r/Python/comments/1oig9i0/gvit_automatic_python_virtual_environment_setup/)
 - [Introducing Kanchi - Free Open Source Celery Monitoring](https://www.reddit.com/r/Python/comments/1oidpl8/introducing_kanchi_free_open_source_celery/)
-- [pyeasydeploy – Simple Python deployment for VPS/local servers](https://www.reddit.com/r/Python/comments/1oici7a/pyeasydeploy_simple_python_deployment_for/)
 <!-- BLOG-POST-LIST:END -->
