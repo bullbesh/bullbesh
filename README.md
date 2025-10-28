@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [NLP Search Algorithm Optimization](https://www.reddit.com/r/Python/comments/1ohw03o/nlp_search_algorithm_optimization/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ohusug/tuesday_daily_thread_advanced_questions/)
+- [Python mobile app](https://www.reddit.com/r/Python/comments/1ohuito/python_mobile_app/)
+- [zipstream-ai : A Python package for streaming and querying zipped datasets using LLMs](https://www.reddit.com/r/Python/comments/1ohufub/zipstreamai_a_python_package_for_streaming_and/)
 - [Python Foundation goes ride or DEI, rejects government grant with strings attached](https://www.reddit.com/r/Python/comments/1ohqqgc/python_foundation_goes_ride_or_dei_rejects/)
-- [Build datasets larger than GPT-1 &amp; GPT-2 with ~200 lines of Python](https://www.reddit.com/r/Python/comments/1ohn0fy/build_datasets_larger_than_gpt1_gpt2_with_200/)
-- [Best opensource quad remesher](https://www.reddit.com/r/Python/comments/1ohjw99/best_opensource_quad_remesher/)
-- [Frist chess openings library](https://www.reddit.com/r/Python/comments/1ohiwaw/frist_chess_openings_library/)
-- [The PSF has withdrawn $1.5 million proposal to US government grant program](https://www.reddit.com/r/Python/comments/1ohh6v2/the_psf_has_withdrawn_15_million_proposal_to_us/)
 <!-- BLOG-POST-LIST:END -->
