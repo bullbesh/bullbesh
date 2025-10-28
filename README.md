@@ -12,5 +12,5 @@
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ohusug/tuesday_daily_thread_advanced_questions/)
 - [Python mobile app](https://www.reddit.com/r/Python/comments/1ohuito/python_mobile_app/)
 - [zipstream-ai : A Python package for streaming and querying zipped datasets using LLMs](https://www.reddit.com/r/Python/comments/1ohufub/zipstreamai_a_python_package_for_streaming_and/)
-- [Python Foundation goes ride or DEI, rejects government grant with strings attached](https://www.reddit.com/r/Python/comments/1ohqqgc/python_foundation_goes_ride_or_dei_rejects/)
+- [Build datasets larger than GPT-1 &amp; GPT-2 with ~200 lines of Python](https://www.reddit.com/r/Python/comments/1ohn0fy/build_datasets_larger_than_gpt1_gpt2_with_200/)
 <!-- BLOG-POST-LIST:END -->
