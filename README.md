@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pylint 4 changes what&#39;s considered a constant. Does a use case exist?](https://www.reddit.com/r/Python/comments/1oj4mcr/pylint_4_changes_whats_considered_a_constant_does/)
+- [SHDL: A Minimal Hardware Description Language Built With ONLY Logic Gates - seeking contributors!](https://www.reddit.com/r/Python/comments/1oj420o/shdl_a_minimal_hardware_description_language/)
 - [Best courses Python and Django X](https://www.reddit.com/r/Python/comments/1oj294x/best_courses_python_and_django_x/)
-- [[hiring] AI Training Engineer &lpar;Software Engineer&rpar;](https://www.reddit.com/r/Python/comments/1oj1lhp/hiring_ai_training_engineer_software_engineer/)
 - [Why does this function not work, even though I tried fixing it multiple times throughout the book](https://www.reddit.com/r/Python/comments/1oj0x41/why_does_this_function_not_work_even_though_i/)
 - [Pyfory: Drop‑in replacement serialization for pickle/cloudpickle — faster, smaller, safer](https://www.reddit.com/r/Python/comments/1oj0ogq/pyfory_dropin_replacement_serialization_for/)
-- [Why doesn&#39;t for-loop have it&#39;s own scope?](https://www.reddit.com/r/Python/comments/1oiwxt5/why_doesnt_forloop_have_its_own_scope/)
 <!-- BLOG-POST-LIST:END -->
