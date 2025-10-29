@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why doesn&#39;t for-loop have it&#39;s own scope?](https://www.reddit.com/r/Python/comments/1oiwxt5/why_doesnt_forloop_have_its_own_scope/)
 - [A new easy way on Windows to pip install GDAL and other tricky geospatial Python packages](https://www.reddit.com/r/Python/comments/1oiufp2/a_new_easy_way_on_windows_to_pip_install_gdal_and/)
 - [Blank page paralysis](https://www.reddit.com/r/Python/comments/1oiqata/blank_page_paralysis/)
 - [I made 2 helper powershell functions for uv.](https://www.reddit.com/r/Python/comments/1oiq0e4/i_made_2_helper_powershell_functions_for_uv/)
 - [I made a YouTube to mp4 Converter!](https://www.reddit.com/r/Python/comments/1oio83q/i_made_a_youtube_to_mp4_converter/)
-- [The HTTP caching Python deserves](https://www.reddit.com/r/Python/comments/1oilkc1/the_http_caching_python_deserves/)
 <!-- BLOG-POST-LIST:END -->
