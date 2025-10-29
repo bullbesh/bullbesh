@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bivariate analysis in python](https://www.reddit.com/r/Python/comments/1ojauq1/bivariate_analysis_in_python/)
 - [python from scratch](https://www.reddit.com/r/Python/comments/1ojad13/python_from_scratch/)
 - [Python screenshot library](https://www.reddit.com/r/Python/comments/1oj8uxy/python_screenshot_library/)
 - [New Release: cookiecutter-uv-gitlab - A Targeted Migration for GitLab](https://www.reddit.com/r/Python/comments/1oj8s6y/new_release_cookiecutteruvgitlab_a_targeted/)
 - [Pylint 4 changes what&#39;s considered a constant. Does a use case exist?](https://www.reddit.com/r/Python/comments/1oj4mcr/pylint_4_changes_whats_considered_a_constant_does/)
-- [SHDL: A Minimal Hardware Description Language Built With ONLY Logic Gates - seeking contributors!](https://www.reddit.com/r/Python/comments/1oj420o/shdl_a_minimal_hardware_description_language/)
 <!-- BLOG-POST-LIST:END -->
