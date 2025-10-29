@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Blank page paralysis](https://www.reddit.com/r/Python/comments/1oiqata/blank_page_paralysis/)
+- [I made 2 helper powershell functions for uv.](https://www.reddit.com/r/Python/comments/1oiq0e4/i_made_2_helper_powershell_functions_for_uv/)
 - [I made a YouTube to mp4 Converter!](https://www.reddit.com/r/Python/comments/1oio83q/i_made_a_youtube_to_mp4_converter/)
 - [The HTTP caching Python deserves](https://www.reddit.com/r/Python/comments/1oilkc1/the_http_caching_python_deserves/)
 - [plt is the new matplotlib.pyplot](https://www.reddit.com/r/Python/comments/1oihp4r/plt_is_the_new_matplotlibpyplot/)
-- [What is the best computer or programming language to learn the basics then the more advanced stuff?](https://www.reddit.com/r/Python/comments/1oigffx/what_is_the_best_computer_or_programming_language/)
-- [gvit - Automatic Python virtual environment setup for every Git repo](https://www.reddit.com/r/Python/comments/1oig9i0/gvit_automatic_python_virtual_environment_setup/)
 <!-- BLOG-POST-LIST:END -->
