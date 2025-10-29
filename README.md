@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Released httptap 0.2.0 — a Python CLI tool to debug HTTP requests &lpar;with skip TLS &amp; proxy support&rpar;](https://www.reddit.com/r/Python/comments/1ojjnwu/released_httptap_020_a_python_cli_tool_to_debug/)
 - [PathQL: A Declarative SQL Like Layer For Pathlib](https://www.reddit.com/r/Python/comments/1ojgqmr/pathql_a_declarative_sql_like_layer_for_pathlib/)
 - [What&#39;s this sub&#39;s opinion on panda3d/interrogate?](https://www.reddit.com/r/Python/comments/1ojgkmz/whats_this_subs_opinion_on_panda3dinterrogate/)
 - [Bivariate analysis in python](https://www.reddit.com/r/Python/comments/1ojauq1/bivariate_analysis_in_python/)
 - [python from scratch](https://www.reddit.com/r/Python/comments/1ojad13/python_from_scratch/)
-- [Python screenshot library](https://www.reddit.com/r/Python/comments/1oj8uxy/python_screenshot_library/)
 <!-- BLOG-POST-LIST:END -->
