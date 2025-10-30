@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyCalc Pro v1.0 – My Python CLI Calculator for Math Nerds](https://www.reddit.com/r/Python/comments/1ojz871/pycalc_pro_v10_my_python_cli_calculator_for_math/)
 - [Semester 1 Project](https://www.reddit.com/r/Python/comments/1ojy37d/semester_1_project/)
 - [Python performance: 3.14 vs 3.13 / 3.12 / 3.11 / 3.10](https://www.reddit.com/r/Python/comments/1ojx3ws/python_performance_314_vs_313_312_311_310/)
 - [Reinventing the wheel?](https://www.reddit.com/r/Python/comments/1ojv8h5/reinventing_the_wheel/)
 - [I built a Voice Assistant System using NLP + SBERT + LLM](https://www.reddit.com/r/Python/comments/1ojut7e/i_built_a_voice_assistant_system_using_nlp_sbert/)
-- [[Project] I built YaraDB, Document DB &lpar;FastAPI&rpar; with built-in Optimistic Locking and Data Integrity](https://www.reddit.com/r/Python/comments/1ojup70/project_i_built_yaradb_document_db_fastapi_with/)
 <!-- BLOG-POST-LIST:END -->
