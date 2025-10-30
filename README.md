@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python lehnt Millionenförderung durch Trump-Regierung wegen Anti-Diversitäts-Auflagen ab](https://www.reddit.com/r/Python/comments/1ok7tes/python_lehnt_millionenförderung_durch/)
 - [Installing Xformers with UV not even works??](https://www.reddit.com/r/Python/comments/1ok754r/installing_xformers_with_uv_not_even_works/)
 - [Should I continue Dr. Angela Yu’s Python course if I’m learning Data Science?](https://www.reddit.com/r/Python/comments/1ok74lx/should_i_continue_dr_angela_yus_python_course_if/)
 - [&lpar;Free &amp; Unlimited&rpar; Image Enhancer / Background Remover / OCR / Colorizer](https://www.reddit.com/r/Python/comments/1ok5ng0/free_unlimited_image_enhancer_background_remover/)
 - [Can you break our pickle sandbox? Blog + exploit challenge inside](https://www.reddit.com/r/Python/comments/1ok548a/can_you_break_our_pickle_sandbox_blog_exploit/)
-- [Fixing Pylance Compatibility on Cursor 2.0 &lpar;Temporary Solution&rpar;](https://www.reddit.com/r/Python/comments/1ok4i17/fixing_pylance_compatibility_on_cursor_20/)
 <!-- BLOG-POST-LIST:END -->
