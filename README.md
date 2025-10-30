@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [i am creating a basic python pkg is it worth it ??](https://www.reddit.com/r/Python/comments/1ok1nqi/i_am_creating_a_basic_python_pkg_is_it_worth_it/)
 - [PyCalc Pro v1.0 – My Python CLI Calculator for Math Nerds](https://www.reddit.com/r/Python/comments/1ojz871/pycalc_pro_v10_my_python_cli_calculator_for_math/)
 - [Python performance: 3.14 vs 3.13 / 3.12 / 3.11 / 3.10](https://www.reddit.com/r/Python/comments/1ojx3ws/python_performance_314_vs_313_312_311_310/)
 - [Reinventing the wheel?](https://www.reddit.com/r/Python/comments/1ojv8h5/reinventing_the_wheel/)
 - [Curious to know how you guys think about this](https://www.reddit.com/r/Python/comments/1ojuk8e/curious_to_know_how_you_guys_think_about_this/)
-- [I used Python &lpar;w/ Unsloth &amp; Colab&rpar; to fine-tune Llama 3.1 to speak my rare Spanish dialect](https://www.reddit.com/r/Python/comments/1oju1vf/i_used_python_w_unsloth_colab_to_finetune_llama/)
 <!-- BLOG-POST-LIST:END -->
