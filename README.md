@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a Python debugging tool that uses Semantic Analysis to determine what and where the issue is](https://www.reddit.com/r/Python/comments/1oktdez/i_built_a_python_debugging_tool_that_uses/)
 - [For Streamlit&#39;ers: Customize theme and components with st_yled to build unique apps](https://www.reddit.com/r/Python/comments/1okojvr/for_streamliters_customize_theme_and_components/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1okfus7/friday_daily_thread_rpython_meta_and_freetalk/)
 - [[Python] Introducing Pyxe, a simple GUI for the PyInstaller module to compile your Python projects!](https://www.reddit.com/r/Python/comments/1okcm3a/python_introducing_pyxe_a_simple_gui_for_the/)
 - [Installing Xformers with UV not even works??](https://www.reddit.com/r/Python/comments/1ok754r/installing_xformers_with_uv_not_even_works/)
-- [&lpar;Free &amp; Unlimited&rpar; Image Enhancer / Background Remover / OCR / Colorizer](https://www.reddit.com/r/Python/comments/1ok5ng0/free_unlimited_image_enhancer_background_remover/)
 <!-- BLOG-POST-LIST:END -->
