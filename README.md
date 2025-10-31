@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source X Scraper in Python with AI Analysis](https://www.reddit.com/r/Python/comments/1okz57u/open_source_x_scraper_in_python_with_ai_analysis/)
+- [My type-safe asyncio lib and the fingerprinting guide it spawned](https://www.reddit.com/r/Python/comments/1okypr5/my_typesafe_asyncio_lib_and_the_fingerprinting/)
+- [Data Science Project](https://www.reddit.com/r/Python/comments/1okxuyj/data_science_project/)
 - [grasp-agents: a minimalist framework for working with LLMs.](https://www.reddit.com/r/Python/comments/1okumdi/graspagents_a_minimalist_framework_for_working/)
 - [TreeThinkerAgent, an open-source reasoning agent using LLMs + tools](https://www.reddit.com/r/Python/comments/1oktt6w/treethinkeragent_an_opensource_reasoning_agent/)
-- [I built a Python debugging tool that uses Semantic Analysis to determine what and where the issue is](https://www.reddit.com/r/Python/comments/1oktdez/i_built_a_python_debugging_tool_that_uses/)
-- [For Streamlit&#39;ers: Customize theme and components with st_yled to build unique apps](https://www.reddit.com/r/Python/comments/1okojvr/for_streamliters_customize_theme_and_components/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1okfus7/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
