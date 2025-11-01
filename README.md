@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyCalc Pro v1.1.0 – Optimization Update](https://www.reddit.com/r/Python/comments/1olmzek/pycalc_pro_v110_optimization_update/)
 - [What&#39;s the best Python version to download if u want everything to run without any issues?](https://www.reddit.com/r/Python/comments/1oljwh2/whats_the_best_python_version_to_download_if_u/)
 - [Email processing project for work](https://www.reddit.com/r/Python/comments/1olfmu9/email_processing_project_for_work/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ola3n2/saturday_daily_thread_resource_request_and/)
 - [TelegramCLIBot - Control your server via Telegram from anywhere](https://www.reddit.com/r/Python/comments/1ol96ne/telegramclibot_control_your_server_via_telegram/)
-- [Preference as a user: do your want your security tokens in keyring or in plain text?](https://www.reddit.com/r/Python/comments/1ol3aop/preference_as_a_user_do_your_want_your_security/)
 <!-- BLOG-POST-LIST:END -->
