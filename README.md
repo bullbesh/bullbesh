@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ola3n2/saturday_daily_thread_resource_request_and/)
 - [TelegramCLIBot - Control your server via Telegram from anywhere](https://www.reddit.com/r/Python/comments/1ol96ne/telegramclibot_control_your_server_via_telegram/)
 - [Preference as a user: do your want your security tokens in keyring or in plain text?](https://www.reddit.com/r/Python/comments/1ol3aop/preference_as_a_user_do_your_want_your_security/)
 - [State of Django 2025 from JetBrains](https://www.reddit.com/r/Python/comments/1ol145x/state_of_django_2025_from_jetbrains/)
 - [My type-safe asyncio lib and the fingerprinting guide it spawned](https://www.reddit.com/r/Python/comments/1okypr5/my_typesafe_asyncio_lib_and_the_fingerprinting/)
-- [Data Science Project](https://www.reddit.com/r/Python/comments/1okxuyj/data_science_project/)
 <!-- BLOG-POST-LIST:END -->
