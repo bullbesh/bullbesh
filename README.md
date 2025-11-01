@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reduino v1.0.0: Write Arduino projects entirely in Python and run transpiled C++ directly on Arduino](https://www.reddit.com/r/Python/comments/1olvisc/reduino_v100_write_arduino_projects_entirely_in/)
 - [Solvex - An open source FastAPI + SciPy API I&#39;m building to learn optimization algorithms](https://www.reddit.com/r/Python/comments/1ols60g/solvex_an_open_source_fastapi_scipy_api_im/)
 - [Just launched CrossTray](https://www.reddit.com/r/Python/comments/1olqab2/just_launched_crosstray/)
 - [Virus generando .exe con pyinstaller](https://www.reddit.com/r/Python/comments/1olpxa7/virus_generando_exe_con_pyinstaller/)
 - [CVE scanner for requirements.txt and pyproject.toml](https://www.reddit.com/r/Python/comments/1olpew7/cve_scanner_for_requirementstxt_and_pyprojecttoml/)
-- [PyCalc Pro v1.1.0 – Optimization Update](https://www.reddit.com/r/Python/comments/1olmzek/pycalc_pro_v110_optimization_update/)
 <!-- BLOG-POST-LIST:END -->
