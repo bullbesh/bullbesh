@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Demo link for a Python based and focused code visualizer](https://www.reddit.com/r/Python/comments/1omoq1q/demo_link_for_a_python_based_and_focused_code/)
 - [I’m learning JavaScript at school and want to make my handwritten Python script more Pythonic.](https://www.reddit.com/r/Python/comments/1ommzfg/im_learning_javascript_at_school_and_want_to_make/)
 - [New Code obfuscator approach](https://www.reddit.com/r/Python/comments/1ommty3/new_code_obfuscator_approach/)
 - [My first AI Agent Researcher with Python + LangChain + Ollama](https://www.reddit.com/r/Python/comments/1omak5t/my_first_ai_agent_researcher_with_python/)
 - [🆕 ttkbootstrap-icons v3.0.0 — More icon sets for Tkinter 🎨](https://www.reddit.com/r/Python/comments/1omacx3/ttkbootstrapicons_v300_more_icon_sets_for_tkinter/)
-- [pygitzen - a pure Python based Git client with terminal user interface inspired by LazyGit!](https://www.reddit.com/r/Python/comments/1oma4yc/pygitzen_a_pure_python_based_git_client_with/)
 <!-- BLOG-POST-LIST:END -->
