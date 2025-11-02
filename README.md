@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m learning JavaScript at school and want to make my handwritten Python script more Pythonic.](https://www.reddit.com/r/Python/comments/1ommzfg/im_learning_javascript_at_school_and_want_to_make/)
+- [New Code obfuscator approach](https://www.reddit.com/r/Python/comments/1ommty3/new_code_obfuscator_approach/)
 - [My first AI Agent Researcher with Python + LangChain + Ollama](https://www.reddit.com/r/Python/comments/1omak5t/my_first_ai_agent_researcher_with_python/)
 - [🆕 ttkbootstrap-icons v3.0.0 — More icon sets for Tkinter 🎨](https://www.reddit.com/r/Python/comments/1omacx3/ttkbootstrapicons_v300_more_icon_sets_for_tkinter/)
 - [pygitzen - a pure Python based Git client with terminal user interface inspired by LazyGit!](https://www.reddit.com/r/Python/comments/1oma4yc/pygitzen_a_pure_python_based_git_client_with/)
-- [How to make a eptrichoid &lpar;for the rotary inside&rpar;](https://www.reddit.com/r/Python/comments/1om71r1/how_to_make_a_eptrichoid_for_the_rotary_inside/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1om313b/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
