@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why is it so hard for me to think like a programmer?](https://www.reddit.com/r/Python/comments/1om3nsq/why_is_it_so_hard_for_me_to_think_like_a/)
+- [How to make a eptrichoid &lpar;for the rotary inside&rpar;](https://www.reddit.com/r/Python/comments/1om71r1/how_to_make_a_eptrichoid_for_the_rotary_inside/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1om313b/sunday_daily_thread_whats_everyone_working_on/)
 - [Discogs Recommender API](https://www.reddit.com/r/Python/comments/1om2nwm/discogs_recommender_api/)
 - [🌟 Myfy: a modular Python framework with a built-in frontend](https://www.reddit.com/r/Python/comments/1olyidq/myfy_a_modular_python_framework_with_a_builtin/)
