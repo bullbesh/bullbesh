@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is it so hard for me to think like a programmer?](https://www.reddit.com/r/Python/comments/1om3nsq/why_is_it_so_hard_for_me_to_think_like_a/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1om313b/sunday_daily_thread_whats_everyone_working_on/)
+- [Discogs Recommender API](https://www.reddit.com/r/Python/comments/1om2nwm/discogs_recommender_api/)
 - [🌟 Myfy: a modular Python framework with a built-in frontend](https://www.reddit.com/r/Python/comments/1olyidq/myfy_a_modular_python_framework_with_a_builtin/)
 - [Reduino v1.0.0: Write Arduino projects entirely in Python and run transpiled C++ directly on Arduino](https://www.reddit.com/r/Python/comments/1olvisc/reduino_v100_write_arduino_projects_entirely_in/)
-- [Solvex - An open source FastAPI + SciPy API I&#39;m building to learn optimization algorithms](https://www.reddit.com/r/Python/comments/1ols60g/solvex_an_open_source_fastapi_scipy_api_im/)
-- [Just launched CrossTray](https://www.reddit.com/r/Python/comments/1olqab2/just_launched_crosstray/)
-- [Virus generando .exe con pyinstaller](https://www.reddit.com/r/Python/comments/1olpxa7/virus_generando_exe_con_pyinstaller/)
 <!-- BLOG-POST-LIST:END -->
