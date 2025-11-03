@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [fastapi-async-storages: Async Cloud Storage Backends for FastAPI apps](https://www.reddit.com/r/Python/comments/1on3ta4/fastapiasyncstorages_async_cloud_storage_backends/)
 - [🆕 ttkbootstrap-icons 3.1 — Stateful Icons at Your Fingertips 🎨💡](https://www.reddit.com/r/Python/comments/1on22u9/ttkbootstrapicons_31_stateful_icons_at_your/)
 - [What’s your dream scRNA-seq package?](https://www.reddit.com/r/Python/comments/1omy90e/whats_your_dream_scrnaseq_package/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1omx03o/monday_daily_thread_project_ideas/)
 - [Need a transliteration library](https://www.reddit.com/r/Python/comments/1omv4m1/need_a_transliteration_library/)
-- [FTS-Tool: Fast Peer-to-Peer LAN File Transfers &amp; Chat](https://www.reddit.com/r/Python/comments/1omqcem/ftstool_fast_peertopeer_lan_file_transfers_chat/)
 <!-- BLOG-POST-LIST:END -->
