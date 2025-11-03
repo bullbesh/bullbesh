@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Title: TripWire - Python library for managing environment variables with validation](https://www.reddit.com/r/Python/comments/1ond0j4/title_tripwire_python_library_for_managing/)
+- [Pyrefly: Type Checking 1.8 Million Lines of Python Per Second](https://www.reddit.com/r/Python/comments/1oncd2l/pyrefly_type_checking_18_million_lines_of_python/)
 - [Debugging live code with CPython 3.14](https://www.reddit.com/r/Python/comments/1on9xtt/debugging_live_code_with_cpython_314/)
 - [Non VS Code dev setups](https://www.reddit.com/r/Python/comments/1on90sr/non_vs_code_dev_setups/)
 - [gibr - a plugin-based Python CLI to automate Git branch naming integrating with issue trackers](https://www.reddit.com/r/Python/comments/1on6pz3/gibr_a_pluginbased_python_cli_to_automate_git/)
-- [fastapi-async-storages: Async Cloud Storage Backends for FastAPI apps](https://www.reddit.com/r/Python/comments/1on3ta4/fastapiasyncstorages_async_cloud_storage_backends/)
-- [🆕 ttkbootstrap-icons 3.1 — Stateful Icons at Your Fingertips 🎨💡](https://www.reddit.com/r/Python/comments/1on22u9/ttkbootstrapicons_31_stateful_icons_at_your/)
 <!-- BLOG-POST-LIST:END -->
