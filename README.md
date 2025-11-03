@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s your dream scRNA-seq package?](https://www.reddit.com/r/Python/comments/1omy90e/whats_your_dream_scrnaseq_package/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1omx03o/monday_daily_thread_project_ideas/)
 - [Need a transliteration library](https://www.reddit.com/r/Python/comments/1omv4m1/need_a_transliteration_library/)
 - [FTS-Tool: Fast Peer-to-Peer LAN File Transfers &amp; Chat](https://www.reddit.com/r/Python/comments/1omqcem/ftstool_fast_peertopeer_lan_file_transfers_chat/)
 - [Demo link for a Python based and focused code visualizer](https://www.reddit.com/r/Python/comments/1omoq1q/demo_link_for_a_python_based_and_focused_code/)
-- [I’m learning JavaScript at school and want to make my handwritten Python script more Pythonic.](https://www.reddit.com/r/Python/comments/1ommzfg/im_learning_javascript_at_school_and_want_to_make/)
-- [New Code obfuscator approach](https://www.reddit.com/r/Python/comments/1ommty3/new_code_obfuscator_approach/)
 <!-- BLOG-POST-LIST:END -->
