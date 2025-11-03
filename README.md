@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging live code with CPython 3.14](https://www.reddit.com/r/Python/comments/1on9xtt/debugging_live_code_with_cpython_314/)
 - [Non VS Code dev setups](https://www.reddit.com/r/Python/comments/1on90sr/non_vs_code_dev_setups/)
 - [gibr - a plugin-based Python CLI to automate Git branch naming integrating with issue trackers](https://www.reddit.com/r/Python/comments/1on6pz3/gibr_a_pluginbased_python_cli_to_automate_git/)
 - [fastapi-async-storages: Async Cloud Storage Backends for FastAPI apps](https://www.reddit.com/r/Python/comments/1on3ta4/fastapiasyncstorages_async_cloud_storage_backends/)
 - [🆕 ttkbootstrap-icons 3.1 — Stateful Icons at Your Fingertips 🎨💡](https://www.reddit.com/r/Python/comments/1on22u9/ttkbootstrapicons_31_stateful_icons_at_your/)
-- [What’s your dream scRNA-seq package?](https://www.reddit.com/r/Python/comments/1omy90e/whats_your_dream_scrnaseq_package/)
 <!-- BLOG-POST-LIST:END -->
