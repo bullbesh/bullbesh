@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Py ↔ Ipynb converter for folders/subfolders](https://www.reddit.com/r/Python/comments/1oociik/py_ipynb_converter_for_folderssubfolders/)
 - [CoreSpecViewer: An open-source hyperspectral core scanning platform](https://www.reddit.com/r/Python/comments/1oo8lpf/corespecviewer_an_opensource_hyperspectral_core/)
 - [[Showcase] trendspyg - Python library for Google Trends data &lpar;pytrends replacement&rpar;](https://www.reddit.com/r/Python/comments/1oo8fka/showcase_trendspyg_python_library_for_google/)
 - [pyro-mysql v0.1.8: a fast MySQL client library](https://www.reddit.com/r/Python/comments/1oo4uuk/pyromysql_v018_a_fast_mysql_client_library/)
 - [Pipelex: DSL and Python runtime for declarative AI workflows with MCP support &lpar;MIT&rpar;](https://www.reddit.com/r/Python/comments/1oo4bdj/pipelex_dsl_and_python_runtime_for_declarative_ai/)
-- [NextMCP - Production-grade MCP server toolkit with minimal boilerplate](https://www.reddit.com/r/Python/comments/1onsgqd/nextmcp_productiongrade_mcp_server_toolkit_with/)
 <!-- BLOG-POST-LIST:END -->
