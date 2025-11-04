@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m just learnt today what vibe coding means and I feel so stupid.](https://www.reddit.com/r/Python/comments/1oojlj6/im_just_learnt_today_what_vibe_coding_means_and_i/)
+- [Type safe, coroutine based, purely functional algebraic effects in Python.](https://www.reddit.com/r/Python/comments/1oolq4o/type_safe_coroutine_based_purely_functional/)
+- [Real time execution?](https://www.reddit.com/r/Python/comments/1oolpva/real_time_execution/)
 - [File extension change?](https://www.reddit.com/r/Python/comments/1ooj7dm/file_extension_change/)
 - [Weak Incentives &lpar;Py3.12+&rpar; — typed, stdlib‑only agent toolkit](https://www.reddit.com/r/Python/comments/1oohs41/weak_incentives_py312_typed_stdlibonly_agent/)
 - [How often does Python allocate?](https://www.reddit.com/r/Python/comments/1ooe0g4/how_often_does_python_allocate/)
-- [Py ↔ Ipynb converter for folders/subfolders](https://www.reddit.com/r/Python/comments/1oociik/py_ipynb_converter_for_folderssubfolders/)
 <!-- BLOG-POST-LIST:END -->
