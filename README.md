@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m just learnt today what vibe coding means and I feel so stupid.](https://www.reddit.com/r/Python/comments/1oojlj6/im_just_learnt_today_what_vibe_coding_means_and_i/)
+- [File extension change?](https://www.reddit.com/r/Python/comments/1ooj7dm/file_extension_change/)
 - [Weak Incentives &lpar;Py3.12+&rpar; — typed, stdlib‑only agent toolkit](https://www.reddit.com/r/Python/comments/1oohs41/weak_incentives_py312_typed_stdlibonly_agent/)
 - [How often does Python allocate?](https://www.reddit.com/r/Python/comments/1ooe0g4/how_often_does_python_allocate/)
 - [Py ↔ Ipynb converter for folders/subfolders](https://www.reddit.com/r/Python/comments/1oociik/py_ipynb_converter_for_folderssubfolders/)
-- [CoreSpecViewer: An open-source hyperspectral core scanning platform](https://www.reddit.com/r/Python/comments/1oo8lpf/corespecviewer_an_opensource_hyperspectral_core/)
-- [[Showcase] trendspyg - Python library for Google Trends data &lpar;pytrends replacement&rpar;](https://www.reddit.com/r/Python/comments/1oo8fka/showcase_trendspyg_python_library_for_google/)
 <!-- BLOG-POST-LIST:END -->
