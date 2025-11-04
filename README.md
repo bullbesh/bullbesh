@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [NextMCP - Production-grade MCP server toolkit with minimal boilerplate](https://www.reddit.com/r/Python/comments/1onsgqd/nextmcp_productiongrade_mcp_server_toolkit_with/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1onsfns/tuesday_daily_thread_advanced_questions/)
 - [🐍 yaradb-client: The official Python client for YaraDB is here!](https://www.reddit.com/r/Python/comments/1onpsfk/yaradbclient_the_official_python_client_for/)
 - [Intercom — Open-Source WebRTC Audio &amp; Video Intercom System in Python](https://www.reddit.com/r/Python/comments/1onnwlx/intercom_opensource_webrtc_audio_video_intercom/)
 - [I made some Jupyter notebooks to run any AI models &lpar;Vision, LLM, Audio&rpar; locally — CPU, GPU, or NPU](https://www.reddit.com/r/Python/comments/1onjhyo/i_made_some_jupyter_notebooks_to_run_any_ai/)
-- [Approved: PEP 798: Unpacking in Comprehensions &amp; PEP 810: Explicit lazy imports](https://www.reddit.com/r/Python/comments/1ongpc9/approved_pep_798_unpacking_in_comprehensions_pep/)
-- [Best Python Notebooks out there](https://www.reddit.com/r/Python/comments/1oneky5/best_python_notebooks_out_there/)
 <!-- BLOG-POST-LIST:END -->
