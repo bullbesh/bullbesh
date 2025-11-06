@@ -12,5 +12,5 @@
 - [VERTEX &lpar;beta&rpar; | Tree‑sitter‑Powered VS Code Extension for Python Projects](https://www.reddit.com/r/Python/comments/1oq24pz/vertex_beta_treesitterpowered_vs_code_extension/)
 - [Support for Python OCC](https://www.reddit.com/r/Python/comments/1oq1isg/support_for_python_occ/)
 - [edge-tts suddenly stopped working on Ubuntu &lpar;NoAudioReceived error&rpar;, but works fine on Windows](https://www.reddit.com/r/Python/comments/1oq1hvw/edgetts_suddenly_stopped_working_on_ubuntu/)
-- [Looking for a Machine Learning / Deep Learning Practice Partner or Group 🤝](https://www.reddit.com/r/Python/comments/1opvbpd/looking_for_a_machine_learning_deep_learning/)
+- [Single-stock analysis tool with Python, including ratios, news analysis, Ollama and LSTM forecast](https://www.reddit.com/r/Python/comments/1opwbhi/singlestock_analysis_tool_with_python_including/)
 <!-- BLOG-POST-LIST:END -->
