@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Secure Python Libraries](https://www.reddit.com/r/Python/comments/1oqcst6/secure_python_libraries/)
+- [Best books to be a good Python Dev?](https://www.reddit.com/r/Python/comments/1oqbwtg/best_books_to_be_a_good_python_dev/)
+- [This week Everybody Codes has started &lpar;challange similar to Advent Of Code&rpar;](https://www.reddit.com/r/Python/comments/1oqbg2q/this_week_everybody_codes_has_started_challange/)
 - [python streamlit ideas](https://www.reddit.com/r/Python/comments/1oq3332/python_streamlit_ideas/)
 - [Support for Python OCC](https://www.reddit.com/r/Python/comments/1oq1isg/support_for_python_occ/)
-- [edge-tts suddenly stopped working on Ubuntu &lpar;NoAudioReceived error&rpar;, but works fine on Windows](https://www.reddit.com/r/Python/comments/1oq1hvw/edgetts_suddenly_stopped_working_on_ubuntu/)
-- [Single-stock analysis tool with Python, including ratios, news analysis, Ollama and LSTM forecast](https://www.reddit.com/r/Python/comments/1opwbhi/singlestock_analysis_tool_with_python_including/)
-- [Looking for a Machine Learning / Deep Learning Practice Partner or Group 🤝](https://www.reddit.com/r/Python/comments/1opvbpd/looking_for_a_machine_learning_deep_learning/)
 <!-- BLOG-POST-LIST:END -->
