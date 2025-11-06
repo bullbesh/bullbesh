@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Would this kill a man? If a human ran python](https://www.reddit.com/r/Python/comments/1oqe0fm/would_this_kill_a_man_if_a_human_ran_python/)
 - [Secure Python Libraries](https://www.reddit.com/r/Python/comments/1oqcst6/secure_python_libraries/)
 - [Best books to be a good Python Dev?](https://www.reddit.com/r/Python/comments/1oqbwtg/best_books_to_be_a_good_python_dev/)
 - [This week Everybody Codes has started &lpar;challange similar to Advent Of Code&rpar;](https://www.reddit.com/r/Python/comments/1oqbg2q/this_week_everybody_codes_has_started_challange/)
 - [python streamlit ideas](https://www.reddit.com/r/Python/comments/1oq3332/python_streamlit_ideas/)
-- [Support for Python OCC](https://www.reddit.com/r/Python/comments/1oq1isg/support_for_python_occ/)
 <!-- BLOG-POST-LIST:END -->
