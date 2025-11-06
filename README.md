@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [python streamlit ideas](https://www.reddit.com/r/Python/comments/1oq3332/python_streamlit_ideas/)
+- [VERTEX &lpar;beta&rpar; | Tree‑sitter‑Powered VS Code Extension for Python Projects](https://www.reddit.com/r/Python/comments/1oq24pz/vertex_beta_treesitterpowered_vs_code_extension/)
 - [Support for Python OCC](https://www.reddit.com/r/Python/comments/1oq1isg/support_for_python_occ/)
 - [edge-tts suddenly stopped working on Ubuntu &lpar;NoAudioReceived error&rpar;, but works fine on Windows](https://www.reddit.com/r/Python/comments/1oq1hvw/edgetts_suddenly_stopped_working_on_ubuntu/)
-- [FApi / new command line tool for FastAPI!](https://www.reddit.com/r/Python/comments/1oq1epc/fapi_new_command_line_tool_for_fastapi/)
 - [Looking for a Machine Learning / Deep Learning Practice Partner or Group 🤝](https://www.reddit.com/r/Python/comments/1opvbpd/looking_for_a_machine_learning_deep_learning/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1opjo5c/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
