@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Python package to convert doc files to HTML?](https://www.reddit.com/r/Python/comments/1oqldnq/best_python_package_to_convert_doc_files_to_html/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1oqfalr/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Would this kill a man? If a human ran python](https://www.reddit.com/r/Python/comments/1oqe0fm/would_this_kill_a_man_if_a_human_ran_python/)
 - [Secure Python Libraries](https://www.reddit.com/r/Python/comments/1oqcst6/secure_python_libraries/)
 - [Best books to be a good Python Dev?](https://www.reddit.com/r/Python/comments/1oqbwtg/best_books_to_be_a_good_python_dev/)
-- [This week Everybody Codes has started &lpar;challange similar to Advent Of Code&rpar;](https://www.reddit.com/r/Python/comments/1oqbg2q/this_week_everybody_codes_has_started_challange/)
 <!-- BLOG-POST-LIST:END -->
