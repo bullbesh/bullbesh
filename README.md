@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SystemCtl - Simplifying Linux Service Management](https://www.reddit.com/r/Python/comments/1oqqjhv/systemctl_simplifying_linux_service_management/)
 - [How Big is the GIL Update?](https://www.reddit.com/r/Python/comments/1oqn305/how_big_is_the_gil_update/)
 - [Tutorial on Creating and Configuring the venv environment on Linux and Windows Sytems](https://www.reddit.com/r/Python/comments/1oqmh8s/tutorial_on_creating_and_configuring_the_venv/)
 - [Best Python package to convert doc files to HTML?](https://www.reddit.com/r/Python/comments/1oqldnq/best_python_package_to_convert_doc_files_to_html/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1oqfalr/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Would this kill a man? If a human ran python](https://www.reddit.com/r/Python/comments/1oqe0fm/would_this_kill_a_man_if_a_human_ran_python/)
 <!-- BLOG-POST-LIST:END -->
