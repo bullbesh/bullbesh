@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing PyDepM v1.1.2 — a modern, developer-friendly dependency manager for Python](https://www.reddit.com/r/Python/comments/1orvo6v/introducing_pydepm_v112_a_modern/)
+- [Clean execution of python by chatgpt](https://www.reddit.com/r/Python/comments/1orv8e4/clean_execution_of_python_by_chatgpt/)
 - [ArgMan — Lightweight CLI argument manager](https://www.reddit.com/r/Python/comments/1orsvie/argman_lightweight_cli_argument_manager/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1orajp0/saturday_daily_thread_resource_request_and/)
 - [venv-rs: Virtual Environment Manager TUI](https://www.reddit.com/r/Python/comments/1or92do/venvrs_virtual_environment_manager_tui/)
-- [Quick Python Project to Build a Private AI News Agent in Minutes on NPU/GPU/CPU](https://www.reddit.com/r/Python/comments/1or7ybp/quick_python_project_to_build_a_private_ai_news/)
-- [httpmorph - HTTP client with Chrome 142 fingerprinting, HTTP/2, and async support](https://www.reddit.com/r/Python/comments/1or564a/httpmorph_http_client_with_chrome_142/)
 <!-- BLOG-POST-LIST:END -->
