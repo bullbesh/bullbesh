@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Which book is good for practice on your python skills, project and application based books?](https://www.reddit.com/r/Python/comments/1orixke/which_book_is_good_for_practice_on_your_python/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1orajp0/saturday_daily_thread_resource_request_and/)
 - [Quick Python Project to Build a Private AI News Agent in Minutes on NPU/GPU/CPU](https://www.reddit.com/r/Python/comments/1or7ybp/quick_python_project_to_build_a_private_ai_news/)
 - [httpmorph - HTTP client with Chrome 142 fingerprinting, HTTP/2, and async support](https://www.reddit.com/r/Python/comments/1or564a/httpmorph_http_client_with_chrome_142/)
 - [multi_Threading in python](https://www.reddit.com/r/Python/comments/1or5327/multi_threading_in_python/)
-- [Alexy Khrabrov interviews Guido on AI, Functional Programming, and Vibe Coding](https://www.reddit.com/r/Python/comments/1or2vxm/alexy_khrabrov_interviews_guido_on_ai_functional/)
 <!-- BLOG-POST-LIST:END -->
