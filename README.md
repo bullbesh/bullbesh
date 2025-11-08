@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Created a Scrapy project but can’t see it in VS Code Explorer 😩](https://www.reddit.com/r/Python/comments/1os2lqa/created_a_scrapy_project_but_cant_see_it_in_vs/)
 - [New here and confused about something.](https://www.reddit.com/r/Python/comments/1orzrcu/new_here_and_confused_about_something/)
 - [I built a tool that turns any website into JSON &lpar;feedback, please!&rpar;](https://www.reddit.com/r/Python/comments/1orwwsh/i_built_a_tool_that_turns_any_website_into_json/)
 - [Clean execution of python by chatgpt](https://www.reddit.com/r/Python/comments/1orv8e4/clean_execution_of_python_by_chatgpt/)
 - [ArgMan — Lightweight CLI argument manager](https://www.reddit.com/r/Python/comments/1orsvie/argman_lightweight_cli_argument_manager/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1orajp0/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
