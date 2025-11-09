@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote up a Python app and GUI for my mini thermal printer](https://www.reddit.com/r/Python/comments/1ost6e1/i_wrote_up_a_python_app_and_gui_for_my_mini/)
+- [Demande d’aide pour amélioration du Bot de trading](https://www.reddit.com/r/Python/comments/1ossqpv/demande_daide_pour_amélioration_du_bot_de_trading/)
+- [Visually distinguishing between class and instance methods](https://www.reddit.com/r/Python/comments/1oss6hu/visually_distinguishing_between_class_and/)
 - [OpenPorts — Tiny Python package to instantly list open ports](https://www.reddit.com/r/Python/comments/1ospjlw/openports_tiny_python_package_to_instantly_list/)
 - [Where did go freepybox...](https://www.reddit.com/r/Python/comments/1osoys2/where_did_go_freepybox/)
-- [MainyDB: MongoDB-style embedded database for Python](https://www.reddit.com/r/Python/comments/1osknpl/mainydb_mongodbstyle_embedded_database_for_python/)
-- [Display Your Live Spotify Track on Your GitHub Profile using Python/Flask!](https://www.reddit.com/r/Python/comments/1osjpd6/display_your_live_spotify_track_on_your_github/)
-- [Create real-time Python web apps](https://www.reddit.com/r/Python/comments/1osh77h/create_realtime_python_web_apps/)
 <!-- BLOG-POST-LIST:END -->
