@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Can you explain to me the basics of GitHub and how to use a simple repository?](https://www.reddit.com/r/Python/comments/1oscwsb/can_you_explain_to_me_the_basics_of_github_and/)
 - [Built pandas-smartcols: painless pandas column manipulation helper](https://www.reddit.com/r/Python/comments/1os4p38/built_pandassmartcols_painless_pandas_column/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1os4iv3/sunday_daily_thread_whats_everyone_working_on/)
 - [Created a Scrapy project but can’t see it in VS Code Explorer 😩](https://www.reddit.com/r/Python/comments/1os2lqa/created_a_scrapy_project_but_cant_see_it_in_vs/)
 - [New here and confused about something.](https://www.reddit.com/r/Python/comments/1orzrcu/new_here_and_confused_about_something/)
+- [I built a tool that turns any website into JSON &lpar;feedback, please!&rpar;](https://www.reddit.com/r/Python/comments/1orwwsh/i_built_a_tool_that_turns_any_website_into_json/)
 <!-- BLOG-POST-LIST:END -->
