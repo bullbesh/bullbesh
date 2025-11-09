@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [📊 klyne.dev - python package usage stats &lpar;for maintaners&rpar;](https://www.reddit.com/r/Python/comments/1osup55/klynedev_python_package_usage_stats_for_maintaners/)
+- [Python course from scratch for Mac.](https://www.reddit.com/r/Python/comments/1osuce8/python_course_from_scratch_for_mac/)
 - [I wrote up a Python app and GUI for my mini thermal printer](https://www.reddit.com/r/Python/comments/1ost6e1/i_wrote_up_a_python_app_and_gui_for_my_mini/)
 - [Demande d’aide pour amélioration du Bot de trading](https://www.reddit.com/r/Python/comments/1ossqpv/demande_daide_pour_amélioration_du_bot_de_trading/)
 - [Visually distinguishing between class and instance methods](https://www.reddit.com/r/Python/comments/1oss6hu/visually_distinguishing_between_class_and/)
-- [OpenPorts — Tiny Python package to instantly list open ports](https://www.reddit.com/r/Python/comments/1ospjlw/openports_tiny_python_package_to_instantly_list/)
-- [Where did go freepybox...](https://www.reddit.com/r/Python/comments/1osoys2/where_did_go_freepybox/)
 <!-- BLOG-POST-LIST:END -->
