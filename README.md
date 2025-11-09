@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create real-time Python web apps](https://www.reddit.com/r/Python/comments/1osh77h/create_realtime_python_web_apps/)
+- [PyCalc Pro v2.0.2 - A Math and Physics Engine With Optional GPU Acceleration For AI Integration](https://www.reddit.com/r/Python/comments/1osh41c/pycalc_pro_v202_a_math_and_physics_engine_with/)
 - [Built pandas-smartcols: painless pandas column manipulation helper](https://www.reddit.com/r/Python/comments/1os4p38/built_pandassmartcols_painless_pandas_column/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1os4iv3/sunday_daily_thread_whats_everyone_working_on/)
-- [Created a Scrapy project but can’t see it in VS Code Explorer 😩](https://www.reddit.com/r/Python/comments/1os2lqa/created_a_scrapy_project_but_cant_see_it_in_vs/)
 - [New here and confused about something.](https://www.reddit.com/r/Python/comments/1orzrcu/new_here_and_confused_about_something/)
-- [Clean execution of python by chatgpt](https://www.reddit.com/r/Python/comments/1orv8e4/clean_execution_of_python_by_chatgpt/)
 <!-- BLOG-POST-LIST:END -->
