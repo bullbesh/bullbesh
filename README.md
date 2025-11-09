@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a GUI framework for Python!](https://www.reddit.com/r/Python/comments/1osxjsk/i_made_a_gui_framework_for_python/)
 - [Selectively download videos, channels, playlists &lpar;YouTube and more&rpar;](https://www.reddit.com/r/Python/comments/1osve44/selectively_download_videos_channels_playlists/)
 - [📊 klyne.dev - python package usage stats &lpar;for maintaners&rpar;](https://www.reddit.com/r/Python/comments/1osup55/klynedev_python_package_usage_stats_for_maintaners/)
 - [Python course from scratch for Mac.](https://www.reddit.com/r/Python/comments/1osuce8/python_course_from_scratch_for_mac/)
 - [I wrote up a Python app and GUI for my mini thermal printer](https://www.reddit.com/r/Python/comments/1ost6e1/i_wrote_up_a_python_app_and_gui_for_my_mini/)
-- [Demande d’aide pour amélioration du Bot de trading](https://www.reddit.com/r/Python/comments/1ossqpv/demande_daide_pour_amélioration_du_bot_de_trading/)
 <!-- BLOG-POST-LIST:END -->
