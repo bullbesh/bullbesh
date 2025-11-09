@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MainyDB: MongoDB-style embedded database for Python](https://www.reddit.com/r/Python/comments/1osknpl/mainydb_mongodbstyle_embedded_database_for_python/)
 - [Display Your Live Spotify Track on Your GitHub Profile using Python/Flask!](https://www.reddit.com/r/Python/comments/1osjpd6/display_your_live_spotify_track_on_your_github/)
 - [Create real-time Python web apps](https://www.reddit.com/r/Python/comments/1osh77h/create_realtime_python_web_apps/)
 - [PyCalc Pro v2.0.2 - A Math and Physics Engine With Optional GPU Acceleration For AI Integration](https://www.reddit.com/r/Python/comments/1osh41c/pycalc_pro_v202_a_math_and_physics_engine_with/)
 - [Built pandas-smartcols: painless pandas column manipulation helper](https://www.reddit.com/r/Python/comments/1os4p38/built_pandassmartcols_painless_pandas_column/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1os4iv3/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
