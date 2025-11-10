@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just published my first ever Python library on PyPI....](https://www.reddit.com/r/Python/comments/1otjuu4/i_just_published_my_first_ever_python_library_on/)
 - [Looking for Best GUI reccomendation](https://www.reddit.com/r/Python/comments/1otg5az/looking_for_best_gui_reccomendation/)
 - [Looking for a mid level &lpar;full remote&rpar; developer aligned with European timezones](https://www.reddit.com/r/Python/comments/1otb8bd/looking_for_a_mid_level_full_remote_developer/)
 - [Python dependencies states managed via uv&lpar;illustrated&rpar;](https://www.reddit.com/r/Python/comments/1ot86md/python_dependencies_states_managed_via/)
 - [Linux chromedriver auto-downloader](https://www.reddit.com/r/Python/comments/1ot7h4n/linux_chromedriver_autodownloader/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1osyz5r/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
