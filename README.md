@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for a mid level &lpar;full remote&rpar; developer aligned with European timezones](https://www.reddit.com/r/Python/comments/1otb8bd/looking_for_a_mid_level_full_remote_developer/)
+- [Python dependencies states managed via uv&lpar;illustrated&rpar;](https://www.reddit.com/r/Python/comments/1ot86md/python_dependencies_states_managed_via/)
+- [Linux chromedriver auto-downloader](https://www.reddit.com/r/Python/comments/1ot7h4n/linux_chromedriver_autodownloader/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1osyz5r/monday_daily_thread_project_ideas/)
 - [I made a GUI framework for Python!](https://www.reddit.com/r/Python/comments/1osxjsk/i_made_a_gui_framework_for_python/)
-- [Selectively download videos, channels, playlists &lpar;YouTube and more&rpar;](https://www.reddit.com/r/Python/comments/1osve44/selectively_download_videos_channels_playlists/)
-- [📊 klyne.dev - python package usage stats &lpar;for maintaners&rpar;](https://www.reddit.com/r/Python/comments/1osup55/klynedev_python_package_usage_stats_for_maintaners/)
-- [Python course from scratch for Mac.](https://www.reddit.com/r/Python/comments/1osuce8/python_course_from_scratch_for_mac/)
-- [I wrote up a Python app and GUI for my mini thermal printer](https://www.reddit.com/r/Python/comments/1ost6e1/i_wrote_up_a_python_app_and_gui_for_my_mini/)
 <!-- BLOG-POST-LIST:END -->
