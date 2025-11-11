@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Python module: thermocouples, voltage-temperature conversion and Seebeck data](https://www.reddit.com/r/Python/comments/1ou5ry0/new_python_module_thermocouples/)
 - [Running a python app on a tablet or phone](https://www.reddit.com/r/Python/comments/1ou3w26/running_a_python_app_on_a_tablet_or_phone/)
 - [A collection of type-safe, async friendly, and unopinionated enhancements to SQLAlchemy Core](https://www.reddit.com/r/Python/comments/1otx8aa/a_collection_of_typesafe_async_friendly_and/)
 - [Python for AEC &lpar;AutoCAD, Revit, Civil 3D&rpar; - Seeking knowledgeable individuals](https://www.reddit.com/r/Python/comments/1otwhaj/python_for_aec_autocad_revit_civil_3d_seeking/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1otue4f/tuesday_daily_thread_advanced_questions/)
-- [1o1 template for a clean OLS &lpar;tutorial for beginners for a clean OLS&rpar;](https://www.reddit.com/r/Python/comments/1ottpp3/1o1_template_for_a_clean_ols_tutorial_for/)
 <!-- BLOG-POST-LIST:END -->
