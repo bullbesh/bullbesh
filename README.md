@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How JAX makes high-performance economics accessible](https://www.reddit.com/r/Python/comments/1oumucr/how_jax_makes_highperformance_economics_accessible/)
 - [I built Nexload, a terminal-based tool that lets you download videos or music from platforms](https://www.reddit.com/r/Python/comments/1ouka0k/i_built_nexload_a_terminalbased_tool_that_lets/)
 - [&quot;Поколение Python&quot;: курс для профессионалов слив](https://www.reddit.com/r/Python/comments/1oujmsk/поколение_python_курс_для_профессионалов_слив/)
 - [Making an Interpreter- Need Assistance](https://www.reddit.com/r/Python/comments/1ouix5a/making_an_interpreter_need_assistance/)
 - [A Python 2.7 to 3.14 conversion. Existential angst.](https://www.reddit.com/r/Python/comments/1ouihlq/a_python_27_to_314_conversion_existential_angst/)
-- [For anyone with the skills](https://www.reddit.com/r/Python/comments/1ougmfu/for_anyone_with_the_skills/)
 <!-- BLOG-POST-LIST:END -->
