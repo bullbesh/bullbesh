@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [From n8n to Python: How we scale a workflow 10x without limitations﻿⚠️](https://www.reddit.com/r/Python/comments/1oucxxq/from_n8n_to_python_how_we_scale_a_workflow_10x/)
 - [Decorators are great!](https://www.reddit.com/r/Python/comments/1oubbk3/decorators_are_great/)
 - [pywinselect - Get Selected Files and Folders in Windows](https://www.reddit.com/r/Python/comments/1ou9cb7/pywinselect_get_selected_files_and_folders_in/)
 - [Can anyone sharing a word.docx parser to HTML?](https://www.reddit.com/r/Python/comments/1ou88ss/can_anyone_sharing_a_worddocx_parser_to_html/)
 - [Building a Python version of Spring Batch — need opinions on Easier-Batch architecture](https://www.reddit.com/r/Python/comments/1ou66xa/building_a_python_version_of_spring_batch_need/)
-- [New Python module: thermocouples, voltage-temperature conversion and Seebeck data](https://www.reddit.com/r/Python/comments/1ou5ry0/new_python_module_thermocouples/)
 <!-- BLOG-POST-LIST:END -->
