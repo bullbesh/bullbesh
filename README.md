@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built Nexload, a terminal-based tool that lets you download videos or music from platforms](https://www.reddit.com/r/Python/comments/1ouka0k/i_built_nexload_a_terminalbased_tool_that_lets/)
+- [I got tired of editing Shorts manually, so I built an AI &quot;Factory&quot; in Python to do it for me!](https://www.reddit.com/r/Python/comments/1ouk9a1/i_got_tired_of_editing_shorts_manually_so_i_built/)
+- [&quot;Поколение Python&quot;: курс для профессионалов слив](https://www.reddit.com/r/Python/comments/1oujmsk/поколение_python_курс_для_профессионалов_слив/)
+- [Making an Interpreter- Need Assistance](https://www.reddit.com/r/Python/comments/1ouix5a/making_an_interpreter_need_assistance/)
 - [A Python 2.7 to 3.14 conversion. Existential angst.](https://www.reddit.com/r/Python/comments/1ouihlq/a_python_27_to_314_conversion_existential_angst/)
-- [For anyone with the skills](https://www.reddit.com/r/Python/comments/1ougmfu/for_anyone_with_the_skills/)
-- [I built an HTTP client in Python, C, C++, and Rust. The Python version is 3-6x faster than requests.](https://www.reddit.com/r/Python/comments/1ouevow/i_built_an_http_client_in_python_c_c_and_rust_the/)
-- [I made a number-guessing game… but it lies to you.](https://www.reddit.com/r/Python/comments/1oue9x9/i_made_a_numberguessing_game_but_it_lies_to_you/)
-- [From n8n to Python: How we scale a workflow 10x without limitations﻿⚠️](https://www.reddit.com/r/Python/comments/1oucxxq/from_n8n_to_python_how_we_scale_a_workflow_10x/)
 <!-- BLOG-POST-LIST:END -->
