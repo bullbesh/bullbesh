@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A collection of type-safe, async friendly, and unopinionated enhancements to SQLAlchemy Core](https://www.reddit.com/r/Python/comments/1otx8aa/a_collection_of_typesafe_async_friendly_and/)
 - [Python for AEC &lpar;AutoCAD, Revit, Civil 3D&rpar; - Seeking knowledgeable individuals](https://www.reddit.com/r/Python/comments/1otwhaj/python_for_aec_autocad_revit_civil_3d_seeking/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1otue4f/tuesday_daily_thread_advanced_questions/)
 - [1o1 template for a clean OLS &lpar;tutorial for beginners for a clean OLS&rpar;](https://www.reddit.com/r/Python/comments/1ottpp3/1o1_template_for_a_clean_ols_tutorial_for/)
 - [Feedback request: API Key library update &lpar;scopes, cache, env, library and docs online, diagram&rpar;](https://www.reddit.com/r/Python/comments/1otrupf/feedback_request_api_key_library_update_scopes/)
-- [python 3.14 !!!](https://www.reddit.com/r/Python/comments/1otp66a/python_314/)
 <!-- BLOG-POST-LIST:END -->
