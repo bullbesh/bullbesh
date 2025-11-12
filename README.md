@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [notify? noti-py! customizable desktop notification assistant that alerts you at your scheduled time](https://www.reddit.com/r/Python/comments/1ouv4jc/notify_notipy_customizable_desktop_notification/)
+- [basic_colormath 1.1](https://www.reddit.com/r/Python/comments/1ouv1l3/basic_colormath_11/)
+- [从PDF中抽取文本/大语言模型](https://www.reddit.com/r/Python/comments/1ouuw4q/从pdf中抽取文本大语言模型/)
 - [Why is nobody doing this??](https://www.reddit.com/r/Python/comments/1outon5/why_is_nobody_doing_this/)
 - [Can I create PDF infographics/reports using Python?](https://www.reddit.com/r/Python/comments/1our6fw/can_i_create_pdf_infographicsreports_using_python/)
-- [How JAX makes high-performance economics accessible](https://www.reddit.com/r/Python/comments/1oumucr/how_jax_makes_highperformance_economics_accessible/)
-- [I built Nexload, a terminal-based tool that lets you download videos or music from platforms](https://www.reddit.com/r/Python/comments/1ouka0k/i_built_nexload_a_terminalbased_tool_that_lets/)
-- [&quot;Поколение Python&quot;: курс для профессионалов слив](https://www.reddit.com/r/Python/comments/1oujmsk/поколение_python_курс_для_профессионалов_слив/)
 <!-- BLOG-POST-LIST:END -->
