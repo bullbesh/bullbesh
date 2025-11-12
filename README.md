@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Webcam Rubik&#39;s Cube Solver GUI App [PySide6 / OpenGL / OpenCV]](https://www.reddit.com/r/Python/comments/1ouwa42/webcam_rubiks_cube_solver_gui_app_pyside6_opengl/)
 - [notify? noti-py! customizable desktop notification assistant that alerts you at your scheduled time](https://www.reddit.com/r/Python/comments/1ouv4jc/notify_notipy_customizable_desktop_notification/)
 - [basic_colormath 1.1](https://www.reddit.com/r/Python/comments/1ouv1l3/basic_colormath_11/)
 - [从PDF中抽取文本/大语言模型](https://www.reddit.com/r/Python/comments/1ouuw4q/从pdf中抽取文本大语言模型/)
 - [Why is nobody doing this??](https://www.reddit.com/r/Python/comments/1outon5/why_is_nobody_doing_this/)
-- [Can I create PDF infographics/reports using Python?](https://www.reddit.com/r/Python/comments/1our6fw/can_i_create_pdf_infographicsreports_using_python/)
 <!-- BLOG-POST-LIST:END -->
