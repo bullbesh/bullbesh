@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What Are the Most Effective Python Libraries for Data Visualization in 2023?](https://www.reddit.com/r/Python/comments/1ov4028/what_are_the_most_effective_python_libraries_for/)
 - [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1ov25lx/parallel_and_concurrent_programming_in_python_a/)
 - [I just inherited a repo with 150k lines. It&#39;s absolutely infested with &quot;master&quot; and &quot;slave&quot;.](https://www.reddit.com/r/Python/comments/1ouyetw/i_just_inherited_a_repo_with_150k_lines_its/)
 - [Simple Resume: Generate PDF, HTML, and LaTeX resumes from a simple YAML config file](https://www.reddit.com/r/Python/comments/1ouxq8q/simple_resume_generate_pdf_html_and_latex_resumes/)
 - [Webcam Rubik&#39;s Cube Solver GUI App [PySide6 / OpenGL / OpenCV]](https://www.reddit.com/r/Python/comments/1ouwa42/webcam_rubiks_cube_solver_gui_app_pyside6_opengl/)
+- [basic_colormath 1.1](https://www.reddit.com/r/Python/comments/1ouv1l3/basic_colormath_11/)
 <!-- BLOG-POST-LIST:END -->
