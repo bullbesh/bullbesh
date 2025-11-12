@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is nobody doing this??](https://www.reddit.com/r/Python/comments/1outon5/why_is_nobody_doing_this/)
 - [Can I create PDF infographics/reports using Python?](https://www.reddit.com/r/Python/comments/1our6fw/can_i_create_pdf_infographicsreports_using_python/)
-- [1o1 template for a clean logistic regression &lpar;tutorial for beginners for a clean logistic regressi&rpar;](https://www.reddit.com/r/Python/comments/1ouql34/1o1_template_for_a_clean_logistic_regression/)
 - [How JAX makes high-performance economics accessible](https://www.reddit.com/r/Python/comments/1oumucr/how_jax_makes_highperformance_economics_accessible/)
 - [I built Nexload, a terminal-based tool that lets you download videos or music from platforms](https://www.reddit.com/r/Python/comments/1ouka0k/i_built_nexload_a_terminalbased_tool_that_lets/)
 - [&quot;Поколение Python&quot;: курс для профессионалов слив](https://www.reddit.com/r/Python/comments/1oujmsk/поколение_python_курс_для_профессионалов_слив/)
