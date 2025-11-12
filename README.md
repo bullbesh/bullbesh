@@ -11,6 +11,6 @@
 - [I just inherited a repo with 150k lines. It&#39;s absolutely infested with &quot;master&quot; and &quot;slave&quot;.](https://www.reddit.com/r/Python/comments/1ouyetw/i_just_inherited_a_repo_with_150k_lines_its/)
 - [Simple Resume: Generate PDF, HTML, and LaTeX resumes from a simple YAML config file](https://www.reddit.com/r/Python/comments/1ouxq8q/simple_resume_generate_pdf_html_and_latex_resumes/)
 - [Webcam Rubik&#39;s Cube Solver GUI App [PySide6 / OpenGL / OpenCV]](https://www.reddit.com/r/Python/comments/1ouwa42/webcam_rubiks_cube_solver_gui_app_pyside6_opengl/)
-- [notify? noti-py! customizable desktop notification assistant that alerts you at your scheduled time](https://www.reddit.com/r/Python/comments/1ouv4jc/notify_notipy_customizable_desktop_notification/)
 - [basic_colormath 1.1](https://www.reddit.com/r/Python/comments/1ouv1l3/basic_colormath_11/)
+- [从PDF中抽取文本/大语言模型](https://www.reddit.com/r/Python/comments/1ouuw4q/从pdf中抽取文本大语言模型/)
 <!-- BLOG-POST-LIST:END -->
