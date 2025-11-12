@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I found a 14x cloud cost bug in Airbyte&#39;s S3 connector. Here&#39;s the full technical breakdown.](https://www.reddit.com/r/Python/comments/1ove9is/i_found_a_14x_cloud_cost_bug_in_airbytes_s3/)
 - [&quot;Slippery ZIPs and Sticky tar-pits&quot; from Python&#39;s Security Dev Seth Larson](https://www.reddit.com/r/Python/comments/1ovc9mh/slippery_zips_and_sticky_tarpits_from_pythons/)
 - [I built a small project bookmarking CLI: recall](https://www.reddit.com/r/Python/comments/1ovay0m/i_built_a_small_project_bookmarking_cli_recall/)
 - [I just inherited a repo with 150k lines. It&#39;s absolutely infested with &quot;master&quot; and &quot;slave&quot;.](https://www.reddit.com/r/Python/comments/1ouyetw/i_just_inherited_a_repo_with_150k_lines_its/)
 - [Simple Resume: Generate PDF, HTML, and LaTeX resumes from a simple YAML config file](https://www.reddit.com/r/Python/comments/1ouxq8q/simple_resume_generate_pdf_html_and_latex_resumes/)
-- [Webcam Rubik&#39;s Cube Solver GUI App [PySide6 / OpenGL / OpenCV]](https://www.reddit.com/r/Python/comments/1ouwa42/webcam_rubiks_cube_solver_gui_app_pyside6_opengl/)
 <!-- BLOG-POST-LIST:END -->
