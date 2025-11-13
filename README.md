@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [PyType – Type support and runtime fixes for Python&lpar;Python Project&rpar;](https://www.reddit.com/r/Python/comments/1ovns7m/pytype_type_support_and_runtime_fixes_for/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ovlxtw/thursday_daily_thread_python_careers_courses_and/)
 - [MyPy vs Pyright](https://www.reddit.com/r/Python/comments/1ovivvs/mypy_vs_pyright/)
 - [Keylogger and Full stack API security scanner &lpar;FastAPI - React TS&rpar;](https://www.reddit.com/r/Python/comments/1ovgdzp/keylogger_and_full_stack_api_security_scanner/)
 - [&quot;Slippery ZIPs and Sticky tar-pits&quot; from Python&#39;s Security Dev Seth Larson](https://www.reddit.com/r/Python/comments/1ovc9mh/slippery_zips_and_sticky_tarpits_from_pythons/)
+- [I built a small project bookmarking CLI: recall](https://www.reddit.com/r/Python/comments/1ovay0m/i_built_a_small_project_bookmarking_cli_recall/)
 <!-- BLOG-POST-LIST:END -->
