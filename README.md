@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [TweetCapturePlus: Open Source Python-Based Tweet Capture](https://www.reddit.com/r/Python/comments/1ovxy6l/tweetcaptureplus_open_source_pythonbased_tweet/)
+- [should I use AWS Lambda or a web framework like FASTAPI for my background job?](https://www.reddit.com/r/Python/comments/1ovxuif/should_i_use_aws_lambda_or_a_web_framework_like/)
 - [PyOctoMap, Sparse Octrees 3D mapping in Python using OctoMap](https://www.reddit.com/r/Python/comments/1ovw9rd/pyoctomap_sparse_octrees_3d_mapping_in_python/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ovlxtw/thursday_daily_thread_python_careers_courses_and/)
 - [MyPy vs Pyright](https://www.reddit.com/r/Python/comments/1ovivvs/mypy_vs_pyright/)
-- [Keylogger and Full stack API security scanner &lpar;FastAPI - React TS&rpar;](https://www.reddit.com/r/Python/comments/1ovgdzp/keylogger_and_full_stack_api_security_scanner/)
-- [&quot;Slippery ZIPs and Sticky tar-pits&quot; from Python&#39;s Security Dev Seth Larson](https://www.reddit.com/r/Python/comments/1ovc9mh/slippery_zips_and_sticky_tarpits_from_pythons/)
 <!-- BLOG-POST-LIST:END -->
