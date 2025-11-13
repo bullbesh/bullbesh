@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MCP Microsoft SQL Server Developed with Python!](https://www.reddit.com/r/Python/comments/1owg12b/mcp_microsoft_sql_server_developed_with_python/)
+- [Which llm ai is best suited for writing scripts for pythonista 3 from plain English prompts?](https://www.reddit.com/r/Python/comments/1owfo1m/which_llm_ai_is_best_suited_for_writing_scripts/)
 - [Accounting + Python](https://www.reddit.com/r/Python/comments/1owedv4/accounting_python/)
 - [A1: Agent-to-Code JIT compiler for optimizing faster &amp; safer AI](https://www.reddit.com/r/Python/comments/1owb7f8/a1_agenttocode_jit_compiler_for_optimizing_faster/)
 - [twitter client mcp server](https://www.reddit.com/r/Python/comments/1owakdy/twitter_client_mcp_server/)
-- [Install a python library](https://www.reddit.com/r/Python/comments/1ow7alr/install_a_python_library/)
-- [Qwerty Auto Player](https://www.reddit.com/r/Python/comments/1ow74i0/qwerty_auto_player/)
 <!-- BLOG-POST-LIST:END -->
