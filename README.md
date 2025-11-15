@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I took a break from data science to build my first CLI tool, whai](https://www.reddit.com/r/Python/comments/1oxz29u/i_took_a_break_from_data_science_to_build_my/)
+- [I made a CLI tool that deletes half your files](https://www.reddit.com/r/Python/comments/1oxypjo/i_made_a_cli_tool_that_deletes_half_your_files/)
 - [Added python support for my VSCode extension to see your code on an infinite canvas](https://www.reddit.com/r/Python/comments/1oxw0gf/added_python_support_for_my_vscode_extension_to/)
 - [TS/Go --&gt; Python](https://www.reddit.com/r/Python/comments/1oxnmeq/tsgo_python/)
 - [Python Editor I Developed](https://www.reddit.com/r/Python/comments/1oxhljr/python_editor_i_developed/)
-- [The great leap forward: Python 2.7 -&gt; 3.12, Django 1.11 -&gt; 5.2](https://www.reddit.com/r/Python/comments/1oxhjj7/the_great_leap_forward_python_27_312_django_111_52/)
-- [Kroma: a powerful and simple module for terminal output in Python](https://www.reddit.com/r/Python/comments/1oxeb6l/kroma_a_powerful_and_simple_module_for_terminal/)
 <!-- BLOG-POST-LIST:END -->
