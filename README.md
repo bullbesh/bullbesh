@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SmartRSS-RSS parser and Reader in Python](https://www.reddit.com/r/Python/comments/1oy83pa/smartrssrss_parser_and_reader_in_python/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1oy6wuf/sunday_daily_thread_whats_everyone_working_on/)
 - [can 390 pages plain text book be 39MB](https://www.reddit.com/r/Python/comments/1oy1qrv/can_390_pages_plain_text_book_be_39mb/)
 - [I took a break from data science to build my first CLI tool, whai](https://www.reddit.com/r/Python/comments/1oxz29u/i_took_a_break_from_data_science_to_build_my/)
 - [I made a CLI tool that deletes half your files](https://www.reddit.com/r/Python/comments/1oxypjo/i_made_a_cli_tool_that_deletes_half_your_files/)
-- [Added python support for my VSCode extension to see your code on an infinite canvas](https://www.reddit.com/r/Python/comments/1oxw0gf/added_python_support_for_my_vscode_extension_to/)
-- [TS/Go --&gt; Python](https://www.reddit.com/r/Python/comments/1oxnmeq/tsgo_python/)
 <!-- BLOG-POST-LIST:END -->
