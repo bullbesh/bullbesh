@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pycharm plugin for colorizing string prefixes](https://www.reddit.com/r/Python/comments/1oydb0t/pycharm_plugin_for_colorizing_string_prefixes/)
 - [Fresh to Python, Made a Basic Number Game](https://www.reddit.com/r/Python/comments/1oyaxe8/fresh_to_python_made_a_basic_number_game/)
 - [SmartRSS-RSS parser and Reader in Python](https://www.reddit.com/r/Python/comments/1oy83pa/smartrssrss_parser_and_reader_in_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1oy6wuf/sunday_daily_thread_whats_everyone_working_on/)
 - [can 390 pages plain text book be 39MB](https://www.reddit.com/r/Python/comments/1oy1qrv/can_390_pages_plain_text_book_be_39mb/)
-- [I took a break from data science to build my first CLI tool, whai](https://www.reddit.com/r/Python/comments/1oxz29u/i_took_a_break_from_data_science_to_build_my/)
 <!-- BLOG-POST-LIST:END -->
