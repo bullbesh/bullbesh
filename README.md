@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MkSlides: easily turn Markdown files into beautiful slides using a workflow similar to MkDocs!](https://www.reddit.com/r/Python/comments/1oyriug/mkslides_easily_turn_markdown_files_into/)
 - [SmartRSS- A new was to consume RSS](https://www.reddit.com/r/Python/comments/1oyngqx/smartrss_a_new_was_to_consume_rss/)
 - [I built a program that predicts League game outcomes from drafts with 56% accuracy, thoughts on what](https://www.reddit.com/r/Python/comments/1oyhies/i_built_a_program_that_predicts_league_game/)
 - [Transforming a pair of lists into a dictionary in Python](https://www.reddit.com/r/Python/comments/1oyf7ep/transforming_a_pair_of_lists_into_a_dictionary_in/)
 - [Python list append time complexity — unexpected discrete levels?](https://www.reddit.com/r/Python/comments/1oyezcq/python_list_append_time_complexity_unexpected/)
-- [Pycharm plugin for colorizing string prefixes](https://www.reddit.com/r/Python/comments/1oydb0t/pycharm_plugin_for_colorizing_string_prefixes/)
 <!-- BLOG-POST-LIST:END -->
