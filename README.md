@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a program that predicts League game outcomes from drafts with 56% accuracy, thoughts on what](https://www.reddit.com/r/Python/comments/1oyhies/i_built_a_program_that_predicts_league_game/)
 - [Transforming a pair of lists into a dictionary in Python](https://www.reddit.com/r/Python/comments/1oyf7ep/transforming_a_pair_of_lists_into_a_dictionary_in/)
 - [Python list append time complexity — unexpected discrete levels?](https://www.reddit.com/r/Python/comments/1oyezcq/python_list_append_time_complexity_unexpected/)
 - [Pycharm plugin for colorizing string prefixes](https://www.reddit.com/r/Python/comments/1oydb0t/pycharm_plugin_for_colorizing_string_prefixes/)
 - [Fresh to Python, Made a Basic Number Game](https://www.reddit.com/r/Python/comments/1oyaxe8/fresh_to_python_made_a_basic_number_game/)
-- [SmartRSS-RSS parser and Reader in Python](https://www.reddit.com/r/Python/comments/1oy83pa/smartrssrss_parser_and_reader_in_python/)
 <!-- BLOG-POST-LIST:END -->
