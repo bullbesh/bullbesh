@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Guys! Any suggestions on learning the GO language?](https://www.reddit.com/r/Python/comments/1oz5s47/guys_any_suggestions_on_learning_the_go_language/)
 - [I made a fast, structured PDF extractor for RAG](https://www.reddit.com/r/Python/comments/1oz5grb/i_made_a_fast_structured_pdf_extractor_for_rag/)
 - [Ultra-strict Python template v2 &lpar;uv + ruff + basedpyright&rpar;](https://www.reddit.com/r/Python/comments/1oz4x0f/ultrastrict_python_template_v2_uv_ruff/)
 - [best way to avoid getting rusty with Python?](https://www.reddit.com/r/Python/comments/1oz3zqn/best_way_to_avoid_getting_rusty_with_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1oz1c67/monday_daily_thread_project_ideas/)
-- [Python create doc](https://www.reddit.com/r/Python/comments/1oz0jnb/python_create_doc/)
 <!-- BLOG-POST-LIST:END -->
