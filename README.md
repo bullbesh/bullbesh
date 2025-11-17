@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a fast, structured PDF extractor for RAG](https://www.reddit.com/r/Python/comments/1oz5grb/i_made_a_fast_structured_pdf_extractor_for_rag/)
+- [Ultra-strict Python template v2 &lpar;uv + ruff + basedpyright&rpar;](https://www.reddit.com/r/Python/comments/1oz4x0f/ultrastrict_python_template_v2_uv_ruff/)
+- [best way to avoid getting rusty with Python?](https://www.reddit.com/r/Python/comments/1oz3zqn/best_way_to_avoid_getting_rusty_with_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1oz1c67/monday_daily_thread_project_ideas/)
 - [Python create doc](https://www.reddit.com/r/Python/comments/1oz0jnb/python_create_doc/)
-- [Hack Review - A PR Review tool for Hack Clubbers](https://www.reddit.com/r/Python/comments/1oz0auo/hack_review_a_pr_review_tool_for_hack_clubbers/)
-- [is bro code python 12 hour video a good first to start at ?](https://www.reddit.com/r/Python/comments/1oyyd1d/is_bro_code_python_12_hour_video_a_good_first_to/)
-- [MkSlides: easily turn Markdown files into beautiful slides using a workflow similar to MkDocs!](https://www.reddit.com/r/Python/comments/1oyriug/mkslides_easily_turn_markdown_files_into/)
 <!-- BLOG-POST-LIST:END -->
