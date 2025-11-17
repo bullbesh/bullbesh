@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a Discord API wrapper in under 4,000 lines &lpar;&lt;100 lines for core&rpar; you can understand](https://www.reddit.com/r/Python/comments/1ozlhvx/i_built_a_discord_api_wrapper_in_under_4000_lines/)
+- [What happened to mCoding?](https://www.reddit.com/r/Python/comments/1ozkzsb/what_happened_to_mcoding/)
 - [How to Benchmark your Python Code](https://www.reddit.com/r/Python/comments/1ozhv03/how_to_benchmark_your_python_code/)
 - [Does anyone else in ML hate PyTorch for its ABI?](https://www.reddit.com/r/Python/comments/1ozhgfa/does_anyone_else_in_ml_hate_pytorch_for_its_abi/)
 - [Vocalance: Hands Free Computing](https://www.reddit.com/r/Python/comments/1ozfam2/vocalance_hands_free_computing/)
-- [[Project] virtualshell - keep a long-lived PowerShell session inside Python](https://www.reddit.com/r/Python/comments/1ozf67i/project_virtualshell_keep_a_longlived_powershell/)
-- [Created a complete Python 3.14 reference with hands-on examples &lpar;GitHub repo included&rpar;](https://www.reddit.com/r/Python/comments/1ozdi7j/created_a_complete_python_314_reference_with/)
 <!-- BLOG-POST-LIST:END -->
