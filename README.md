@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [&#39; &quot; &quot;&quot;&quot; So, what do you use when? &quot;&quot;&quot; &quot; &#39;](https://www.reddit.com/r/Python/comments/1ozr7d7/so_what_do_you_use_when/)
+- [I love Competitive Programming &lpar;and simple languages like Python&rpar; but I hate Programming](https://www.reddit.com/r/Python/comments/1ozr4c9/i_love_competitive_programming_and_simple/)
 - [A simple python game for beginners](https://www.reddit.com/r/Python/comments/1oznafr/a_simple_python_game_for_beginners/)
 - [I built a Discord API wrapper in under 4,000 lines &lpar;&lt;100 lines for core&rpar; you can understand](https://www.reddit.com/r/Python/comments/1ozlhvx/i_built_a_discord_api_wrapper_in_under_4000_lines/)
 - [What happened to mCoding?](https://www.reddit.com/r/Python/comments/1ozkzsb/what_happened_to_mcoding/)
-- [How to Benchmark your Python Code](https://www.reddit.com/r/Python/comments/1ozhv03/how_to_benchmark_your_python_code/)
-- [Does anyone else in ML hate PyTorch for its ABI?](https://www.reddit.com/r/Python/comments/1ozhgfa/does_anyone_else_in_ml_hate_pytorch_for_its_abi/)
 <!-- BLOG-POST-LIST:END -->
