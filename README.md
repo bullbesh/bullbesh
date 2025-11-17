@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Created a complete Python 3.14 reference with hands-on examples &lpar;GitHub repo included&rpar;](https://www.reddit.com/r/Python/comments/1ozdi7j/created_a_complete_python_314_reference_with/)
 - [I built MemLayer, a Python package that gives LLMs persistent long-term memory &lpar;open-source&rpar;](https://www.reddit.com/r/Python/comments/1ozbx8b/i_built_memlayer_a_python_package_that_gives_llms/)
 - [📦 mcp-cookie-cutter: Generate MCP Servers from OpenAPI/Swagger Specs](https://www.reddit.com/r/Python/comments/1ozbkas/mcpcookiecutter_generate_mcp_servers_from/)
 - [How to integrate Rust into Django project properly?](https://www.reddit.com/r/Python/comments/1oz8942/how_to_integrate_rust_into_django_project_properly/)
 - [Guys! Any suggestions on learning the GO language?](https://www.reddit.com/r/Python/comments/1oz5s47/guys_any_suggestions_on_learning_the_go_language/)
-- [I made a fast, structured PDF extractor for RAG](https://www.reddit.com/r/Python/comments/1oz5grb/i_made_a_fast_structured_pdf_extractor_for_rag/)
 <!-- BLOG-POST-LIST:END -->
