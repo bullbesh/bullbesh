@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1oz1c67/monday_daily_thread_project_ideas/)
+- [Python create doc](https://www.reddit.com/r/Python/comments/1oz0jnb/python_create_doc/)
 - [Hack Review - A PR Review tool for Hack Clubbers](https://www.reddit.com/r/Python/comments/1oz0auo/hack_review_a_pr_review_tool_for_hack_clubbers/)
 - [is bro code python 12 hour video a good first to start at ?](https://www.reddit.com/r/Python/comments/1oyyd1d/is_bro_code_python_12_hour_video_a_good_first_to/)
 - [MkSlides: easily turn Markdown files into beautiful slides using a workflow similar to MkDocs!](https://www.reddit.com/r/Python/comments/1oyriug/mkslides_easily_turn_markdown_files_into/)
-- [SmartRSS- A new was to consume RSS](https://www.reddit.com/r/Python/comments/1oyngqx/smartrss_a_new_was_to_consume_rss/)
-- [I built a program that predicts League game outcomes from drafts with 56% accuracy, thoughts on what](https://www.reddit.com/r/Python/comments/1oyhies/i_built_a_program_that_predicts_league_game/)
 <!-- BLOG-POST-LIST:END -->
