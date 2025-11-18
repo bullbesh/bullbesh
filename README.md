@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FastAPI-NiceGUI-Template: A full-stack project starter for Python developers to avoid JS overhead.](https://www.reddit.com/r/Python/comments/1p04iie/fastapiniceguitemplate_a_fullstack_project/)
 - [Lacuna – High-performance sparse matrices for Python, Rust backend](https://www.reddit.com/r/Python/comments/1p02oi1/lacuna_highperformance_sparse_matrices_for_python/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ozwrmm/tuesday_daily_thread_advanced_questions/)
 - [Good online python host for simple codes?](https://www.reddit.com/r/Python/comments/1ozwr7t/good_online_python_host_for_simple_codes/)
 - [Co-locating multiple jobs on GPUs with deterministic performance for a 2-3x increase in GPU Util](https://www.reddit.com/r/Python/comments/1ozwc0s/colocating_multiple_jobs_on_gpus_with/)
-- [New and fastest prime factorisation for RSA grade phyton code. 10ms for 74 digits .](https://www.reddit.com/r/Python/comments/1ozwbma/new_and_fastest_prime_factorisation_for_rsa_grade/)
 <!-- BLOG-POST-LIST:END -->
