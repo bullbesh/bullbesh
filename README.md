@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zuban supports Autoimports now](https://www.reddit.com/r/Python/comments/1p074c8/zuban_supports_autoimports_now/)
+- [ferreus_rbf - a fast, memory efficient global radial basis function &lpar;RBF&rpar; interpolation library](https://www.reddit.com/r/Python/comments/1p06stb/ferreus_rbf_a_fast_memory_efficient_global_radial/)
 - [Skelet: Minimalist, Thread-Safe Config Management for Python](https://www.reddit.com/r/Python/comments/1p06k4v/skelet_minimalist_threadsafe_config_management/)
 - [FastAPI-NiceGUI-Template: A full-stack project starter for Python developers to avoid JS overhead.](https://www.reddit.com/r/Python/comments/1p04iie/fastapiniceguitemplate_a_fullstack_project/)
 - [Lacuna – High-performance sparse matrices for Python, Rust backend](https://www.reddit.com/r/Python/comments/1p02oi1/lacuna_highperformance_sparse_matrices_for_python/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ozwrmm/tuesday_daily_thread_advanced_questions/)
-- [Good online python host for simple codes?](https://www.reddit.com/r/Python/comments/1ozwr7t/good_online_python_host_for_simple_codes/)
 <!-- BLOG-POST-LIST:END -->
