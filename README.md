@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [nest-asyncio2: Patch asyncio to allow nested event loops](https://www.reddit.com/r/Python/comments/1p0hurt/nestasyncio2_patch_asyncio_to_allow_nested_event/)
+- [Telosys ver 4.3.0 with Python type hints](https://www.reddit.com/r/Python/comments/1p0hqa8/telosys_ver_430_with_python_type_hints/)
+- [Toon Plus - my simplified implementation of toon](https://www.reddit.com/r/Python/comments/1p0h05q/toon_plus_my_simplified_implementation_of_toon/)
 - [Export Function in Python](https://www.reddit.com/r/Python/comments/1p0g80u/export_function_in_python/)
 - [Pre-PEP: Rust for CPython](https://www.reddit.com/r/Python/comments/1p0e1yj/prepep_rust_for_cpython/)
-- [Focus: Background Removal Library with Improved Edge Detection](https://www.reddit.com/r/Python/comments/1p0d27g/focus_background_removal_library_with_improved/)
-- [Zuban supports Autoimports now](https://www.reddit.com/r/Python/comments/1p074c8/zuban_supports_autoimports_now/)
-- [ferreus_rbf - a fast, memory efficient global radial basis function &lpar;RBF&rpar; interpolation library](https://www.reddit.com/r/Python/comments/1p06stb/ferreus_rbf_a_fast_memory_efficient_global_radial/)
 <!-- BLOG-POST-LIST:END -->
