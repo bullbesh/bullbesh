@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [distil-localdoc.py - local SLM assistant for writing Python documentation](https://www.reddit.com/r/Python/comments/1p1j4nz/distillocaldocpy_local_slm_assistant_for_writing/)
 - [vlrdevapi - VLRgg data usage in python library](https://www.reddit.com/r/Python/comments/1p1f8pc/vlrdevapi_vlrgg_data_usage_in_python_library/)
 - [Combinatorial Interview Problems with Backtracking Solutions - from Procedural to Functional ...](https://www.reddit.com/r/Python/comments/1p1ey3a/combinatorial_interview_problems_with/)
 - [Twenty years of Django releases](https://www.reddit.com/r/Python/comments/1p1euh3/twenty_years_of_django_releases/)
 - [Your AI returns broken JSON? Put this in between](https://www.reddit.com/r/Python/comments/1p1eeea/your_ai_returns_broken_json_put_this_in_between/)
-- [Easy-bbox: A fast and easy Bounding Box manipulation package.](https://www.reddit.com/r/Python/comments/1p1ee0a/easybbox_a_fast_and_easy_bounding_box/)
 <!-- BLOG-POST-LIST:END -->
