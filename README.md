@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Project] Released ev - An open source, model agnostic agent eval CLI](https://www.reddit.com/r/Python/comments/1p19ayu/project_released_ev_an_open_source_model_agnostic/)
 - [What hosting platform do you use?](https://www.reddit.com/r/Python/comments/1p14sys/what_hosting_platform_do_you_use/)
 - [Simple Python module for converting Graphviz .dot files into svg or png views](https://www.reddit.com/r/Python/comments/1p1472y/simple_python_module_for_converting_graphviz_dot/)
 - [[Project] I got tired of manually creating project folders… so I built tree2fs &lpar;turns tree tex](https://www.reddit.com/r/Python/comments/1p12b7g/project_i_got_tired_of_manually_creating_project/)
 - [What salary should I expect as a Python Developer in India after 2 years of experience?](https://www.reddit.com/r/Python/comments/1p10kbr/what_salary_should_i_expect_as_a_python_developer/)
-- [Skylos: Code quality library](https://www.reddit.com/r/Python/comments/1p0wck6/skylos_code_quality_library/)
 <!-- BLOG-POST-LIST:END -->
