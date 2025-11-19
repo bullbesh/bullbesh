@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Freelancing para iniciantes](https://www.reddit.com/r/Python/comments/1p1myg9/freelancing_para_iniciantes/)
+- [Freelancing para iniciantes](https://www.reddit.com/r/Python/comments/1p1mybx/freelancing_para_iniciantes/)
 - [Parallel and Concurrent Programming in Python: A Practical Guide](https://www.reddit.com/r/Python/comments/1p1kvni/parallel_and_concurrent_programming_in_python_a/)
-- [Python library that watches your code &amp; auto runs tasks to keep your code quality high](https://www.reddit.com/r/Python/comments/1p1ktl1/python_library_that_watches_your_code_auto_runs/)
 - [My first real project in python](https://www.reddit.com/r/Python/comments/1p1khap/my_first_real_project_in_python/)
 - [distil-localdoc.py - local SLM assistant for writing Python documentation](https://www.reddit.com/r/Python/comments/1p1j4nz/distillocaldocpy_local_slm_assistant_for_writing/)
-- [vlrdevapi - VLRgg data usage in python library](https://www.reddit.com/r/Python/comments/1p1f8pc/vlrdevapi_vlrgg_data_usage_in_python_library/)
 <!-- BLOG-POST-LIST:END -->
