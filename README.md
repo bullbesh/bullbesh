@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Project: pydantic-open-inference](https://www.reddit.com/r/Python/comments/1p1djcs/project_pydanticopeninference/)
-- [Pyrefly Beta Release &lpar;fast language server &amp; type checker&rpar;](https://www.reddit.com/r/Python/comments/1p1axnq/pyrefly_beta_release_fast_language_server_type/)
-- [Open Python Directory -- Libraries for the Public Sector](https://www.reddit.com/r/Python/comments/1p1avym/open_python_directory_libraries_for_the_public/)
-- [[Project] Released ev - An open source, model agnostic agent eval CLI](https://www.reddit.com/r/Python/comments/1p19ayu/project_released_ev_an_open_source_model_agnostic/)
-- [What hosting platform do you use?](https://www.reddit.com/r/Python/comments/1p14sys/what_hosting_platform_do_you_use/)
+- [vlrdevapi - VLRgg data usage in python library](https://www.reddit.com/r/Python/comments/1p1f8pc/vlrdevapi_vlrgg_data_usage_in_python_library/)
+- [Combinatorial Interview Problems with Backtracking Solutions - from Procedural to Functional ...](https://www.reddit.com/r/Python/comments/1p1ey3a/combinatorial_interview_problems_with/)
+- [Twenty years of Django releases](https://www.reddit.com/r/Python/comments/1p1euh3/twenty_years_of_django_releases/)
+- [Your AI returns broken JSON? Put this in between](https://www.reddit.com/r/Python/comments/1p1eeea/your_ai_returns_broken_json_put_this_in_between/)
+- [Easy-bbox: A fast and easy Bounding Box manipulation package.](https://www.reddit.com/r/Python/comments/1p1ee0a/easybbox_a_fast_and_easy_bounding_box/)
 <!-- BLOG-POST-LIST:END -->
