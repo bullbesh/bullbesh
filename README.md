@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Showcase: Simple CLI chatbot for Ollama &lpar;model switching + saved context&rpar;](https://www.reddit.com/r/Python/comments/1p258ah/showcase_simple_cli_chatbot_for_ollama_model/)
 - [Latest Python Podcasts &amp; Conference Talks &lpar;week 47, 2025&rpar;](https://www.reddit.com/r/Python/comments/1p23zun/latest_python_podcasts_conference_talks_week_47/)
 - [An Open-Source Agent Foundation Model with Interactive Scaling！MiroThinker V1.0 just launched!](https://www.reddit.com/r/Python/comments/1p22dzx/an_opensource_agent_foundation_model_with/)
 - [A small Python CLI tool I built: generates git commit messages directly from the diff &lpar;OpenAI-powere](https://www.reddit.com/r/Python/comments/1p21bv3/a_small_python_cli_tool_i_built_generates_git/)
 - [Real-time Discord STT Bot using Multiprocessing &amp; Faster-Whisper](https://www.reddit.com/r/Python/comments/1p211nn/realtime_discord_stt_bot_using_multiprocessing/)
-- [how obvious is this retry logic bug to you?](https://www.reddit.com/r/Python/comments/1p1yzzd/how_obvious_is_this_retry_logic_bug_to_you/)
 <!-- BLOG-POST-LIST:END -->
