@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [how obvious is this retry logic bug to you?](https://www.reddit.com/r/Python/comments/1p1yzzd/how_obvious_is_this_retry_logic_bug_to_you/)
 - [Stop writing boilerplate WebRTC code for your Python transcription apps](https://www.reddit.com/r/Python/comments/1p1xvum/stop_writing_boilerplate_webrtc_code_for_your/)
 - [Python Courses on Udemy with Black Friday?](https://www.reddit.com/r/Python/comments/1p1w7pw/python_courses_on_udemy_with_black_friday/)
 - [whereproc: a small CLI that tells you where a running process’s executable actually lives](https://www.reddit.com/r/Python/comments/1p1p990/whereproc_a_small_cli_that_tells_you_where_a/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1p1o6zl/thursday_daily_thread_python_careers_courses_and/)
-- [Python library that watches your code &amp; auto runs tasks to keep your code quality high](https://www.reddit.com/r/Python/comments/1p1nbp6/python_library_that_watches_your_code_auto_runs/)
 <!-- BLOG-POST-LIST:END -->
