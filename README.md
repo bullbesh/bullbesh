@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scripta - Open source transcription tool using Google Cloud Vision.](https://www.reddit.com/r/Python/comments/1p2g97a/scripta_open_source_transcription_tool_using/)
+- [TerminalTextEffects &lpar;TTE&rpar; version 0.13.0](https://www.reddit.com/r/Python/comments/1p2fnvs/terminaltexteffects_tte_version_0130/)
 - [Encrypted IRC Client](https://www.reddit.com/r/Python/comments/1p2cg3b/encrypted_irc_client/)
 - [[Tutorial] Processing 10K events/sec with Python WebSockets and time-series storage](https://www.reddit.com/r/Python/comments/1p2ca9x/tutorial_processing_10k_eventssec_with_python/)
 - [Why do we repeat type hints in docstrings?](https://www.reddit.com/r/Python/comments/1p2c50c/why_do_we_repeat_type_hints_in_docstrings/)
-- [Python Utility Flasher &lpar; with Ventoy CLI Support &rpar;](https://www.reddit.com/r/Python/comments/1p29bl8/python_utility_flasher_with_ventoy_cli_support/)
-- [Showcase: Keepr - A Secure and Offline Open Source Password Manager CLI](https://www.reddit.com/r/Python/comments/1p28ci5/showcase_keepr_a_secure_and_offline_open_source/)
 <!-- BLOG-POST-LIST:END -->
