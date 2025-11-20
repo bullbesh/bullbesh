@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A small Python CLI tool I built: generates git commit messages directly from the diff &lpar;OpenAI-powere](https://www.reddit.com/r/Python/comments/1p21bv3/a_small_python_cli_tool_i_built_generates_git/)
+- [Real-time Discord STT Bot using Multiprocessing &amp; Faster-Whisper](https://www.reddit.com/r/Python/comments/1p211nn/realtime_discord_stt_bot_using_multiprocessing/)
 - [how obvious is this retry logic bug to you?](https://www.reddit.com/r/Python/comments/1p1yzzd/how_obvious_is_this_retry_logic_bug_to_you/)
 - [Stop writing boilerplate WebRTC code for your Python transcription apps](https://www.reddit.com/r/Python/comments/1p1xvum/stop_writing_boilerplate_webrtc_code_for_your/)
 - [Python Courses on Udemy with Black Friday?](https://www.reddit.com/r/Python/comments/1p1w7pw/python_courses_on_udemy_with_black_friday/)
-- [whereproc: a small CLI that tells you where a running process’s executable actually lives](https://www.reddit.com/r/Python/comments/1p1p990/whereproc_a_small_cli_that_tells_you_where_a/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1p1o6zl/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
