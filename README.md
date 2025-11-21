@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Scripta - Open source transcription tool using Google Cloud Vision.](https://www.reddit.com/r/Python/comments/1p2g97a/scripta_open_source_transcription_tool_using/)
-- [TerminalTextEffects &lpar;TTE&rpar; version 0.13.0](https://www.reddit.com/r/Python/comments/1p2fnvs/terminaltexteffects_tte_version_0130/)
-- [Encrypted IRC Client](https://www.reddit.com/r/Python/comments/1p2cg3b/encrypted_irc_client/)
-- [[Tutorial] Processing 10K events/sec with Python WebSockets and time-series storage](https://www.reddit.com/r/Python/comments/1p2ca9x/tutorial_processing_10k_eventssec_with_python/)
-- [Why do we repeat type hints in docstrings?](https://www.reddit.com/r/Python/comments/1p2c50c/why_do_we_repeat_type_hints_in_docstrings/)
+- [PyTogether - Google Docs for Python &lpar;free and open-source, real-time browser IDE&rpar;](https://www.reddit.com/r/Python/comments/1p2ld03/pytogether_google_docs_for_python_free_and/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1p2jgiv/friday_daily_thread_rpython_meta_and_freetalk/)
+- [What’s the best Python library for creating interactive graphs?](https://www.reddit.com/r/Python/comments/1p2jdj9/whats_the_best_python_library_for_creating/)
+- [Paya - A flexible and performant rest client powered by rust](https://www.reddit.com/r/Python/comments/1p2iv84/paya_a_flexible_and_performant_rest_client/)
+- [Are type hints actually helping your team, or just adding ceremony?](https://www.reddit.com/r/Python/comments/1p2iox7/are_type_hints_actually_helping_your_team_or_just/)
 <!-- BLOG-POST-LIST:END -->
