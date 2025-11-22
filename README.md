@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why do devs prefer / use PyInstaller over Nuitka?](https://www.reddit.com/r/Python/comments/1p46onk/why_do_devs_prefer_use_pyinstaller_over_nuitka/)
+- [Built free interview prep repo for AI agents, tool-calling and best production-grade practices](https://www.reddit.com/r/Python/comments/1p469il/built_free_interview_prep_repo_for_ai_agents/)
+- [Python Mutable Defaults or the Second Thing I Hate Most About Python](https://www.reddit.com/r/Python/comments/1p469fk/python_mutable_defaults_or_the_second_thing_i/)
 - [Python - Numerical Evidence - max PSLQ to 4000 Digits for Clay Millennium Problem &lpar;Hodge Conjecture&rpar;](https://www.reddit.com/r/Python/comments/1p44cr8/python_numerical_evidence_max_pslq_to_4000_digits/)
 - [I built PyVer, a lightweight Python version manager for Windows](https://www.reddit.com/r/Python/comments/1p42dua/i_built_pyver_a_lightweight_python_version/)
-- [Onlymaps, a Python micro-ORM](https://www.reddit.com/r/Python/comments/1p3us1n/onlymaps_a_python_microorm/)
-- [I’m building a Python-native frontend framework that runs in the browser &lpar;Evolve&rpar;](https://www.reddit.com/r/Python/comments/1p3p00u/im_building_a_pythonnative_frontend_framework/)
-- [If one python selling point is data-science and friends, why it discourages map and filter?](https://www.reddit.com/r/Python/comments/1p3mjlc/if_one_python_selling_point_is_datascience_and/)
 <!-- BLOG-POST-LIST:END -->
