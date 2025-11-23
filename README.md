@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code-Mode MCP for Python: Save &gt;60% in tokens by executing MCP tools via code execution](https://www.reddit.com/r/Python/comments/1p4okow/codemode_mcp_for_python_save_60_in_tokens_by/)
 - [Interactive visualisations of the floodfill algorithm in Python and PyScript](https://www.reddit.com/r/Python/comments/1p4nn86/interactive_visualisations_of_the_floodfill/)
 - [I built a local Reddit scraper using ‘requests’ and ‘reportlab’ to map engineering career paths](https://www.reddit.com/r/Python/comments/1p4ngsz/i_built_a_local_reddit_scraper_using_requests_and/)
 - [Seeking developer for TradingView bot &lpar;highs, lows, trendlines&rpar;](https://www.reddit.com/r/Python/comments/1p4n4ux/seeking_developer_for_tradingview_bot_highs_lows/)
 - [I built a &quot;Universal Language Runner&quot; in Python to fix dev setup on Windows &lpar;wraps uv, Zig, &amp; Node&rpar;](https://www.reddit.com/r/Python/comments/1p4mh20/i_built_a_universal_language_runner_in_python_to/)
-- [Announcing Spikard: TypeScript + Ruby + Rust + WASM&rpar;](https://www.reddit.com/r/Python/comments/1p4m5be/announcing_spikard_typescript_ruby_rust_wasm/)
 <!-- BLOG-POST-LIST:END -->
