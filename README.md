@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [💡 Quick Python exercises for those who want to practice and have fun](https://www.reddit.com/r/Python/comments/1p4yyc6/quick_python_exercises_for_those_who_want_to/)
 - [🚀 Introducing MacToast: Lightweight, customizable toast notifications for macOS](https://www.reddit.com/r/Python/comments/1p4x3zt/introducing_mactoast_lightweight_customizable/)
 - [Developed a Flask-based Python chatbot whose personality evolves from long-term interaction data](https://www.reddit.com/r/Python/comments/1p4tooz/developed_a_flaskbased_python_chatbot_whose/)
 - [[Showcase] An experimental Hexagonal Architecture framework for any platform](https://www.reddit.com/r/Python/comments/1p4r5h6/showcase_an_experimental_hexagonal_architecture/)
 - [Code-Mode MCP for Python: Save &gt;60% in tokens by executing MCP tools via code execution](https://www.reddit.com/r/Python/comments/1p4okow/codemode_mcp_for_python_save_60_in_tokens_by/)
-- [Interactive visualisations of the floodfill algorithm in Python and PyScript](https://www.reddit.com/r/Python/comments/1p4nn86/interactive_visualisations_of_the_floodfill/)
 <!-- BLOG-POST-LIST:END -->
