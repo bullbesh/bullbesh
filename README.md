@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python collection](https://www.reddit.com/r/Python/comments/1p4v73p/python_collection/)
 - [Developed a Flask-based Python chatbot whose personality evolves from long-term interaction data](https://www.reddit.com/r/Python/comments/1p4tooz/developed_a_flaskbased_python_chatbot_whose/)
 - [[Showcase] An experimental Hexagonal Architecture framework for any platform](https://www.reddit.com/r/Python/comments/1p4r5h6/showcase_an_experimental_hexagonal_architecture/)
 - [Code-Mode MCP for Python: Save &gt;60% in tokens by executing MCP tools via code execution](https://www.reddit.com/r/Python/comments/1p4okow/codemode_mcp_for_python_save_60_in_tokens_by/)
 - [Interactive visualisations of the floodfill algorithm in Python and PyScript](https://www.reddit.com/r/Python/comments/1p4nn86/interactive_visualisations_of_the_floodfill/)
-- [I built a local Reddit scraper using ‘requests’ and ‘reportlab’ to map engineering career paths](https://www.reddit.com/r/Python/comments/1p4ngsz/i_built_a_local_reddit_scraper_using_requests_and/)
 <!-- BLOG-POST-LIST:END -->
