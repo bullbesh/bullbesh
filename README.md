@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made a free, open-source trading bot that actually works - thought you guys might find it useful](https://www.reddit.com/r/Python/comments/1p5649f/made_a_free_opensource_trading_bot_that_actually/)
 - [🚀 ORRIVN — A Modern Media Hub Built Entirely in Python + Flask](https://www.reddit.com/r/Python/comments/1p54gh8/orrivn_a_modern_media_hub_built_entirely_in/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1p5239o/monday_daily_thread_project_ideas/)
 - [PYTHON FOR MOBILE APP DEVELIPMENT?](https://www.reddit.com/r/Python/comments/1p51ygb/python_for_mobile_app_develipment/)
 - [If you keep forgetting to run uv pip install or uv add instead of pip install, this is for you](https://www.reddit.com/r/Python/comments/1p5054f/if_you_keep_forgetting_to_run_uv_pip_install_or/)
-- [💡 Quick Python exercises for those who want to practice and have fun](https://www.reddit.com/r/Python/comments/1p4yyc6/quick_python_exercises_for_those_who_want_to/)
 <!-- BLOG-POST-LIST:END -->
