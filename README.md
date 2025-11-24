@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [archgw 0.3.20 - 500MBs of python dependencies gutted out - faster, leaner proxy server for agents.](https://www.reddit.com/r/Python/comments/1p5vpul/archgw_0320_500mbs_of_python_dependencies_gutted/)
+- [MovieLite: A MoviePy alternative for video editing that is up to 4x faster](https://www.reddit.com/r/Python/comments/1p5vkia/movielite_a_moviepy_alternative_for_video_editing/)
 - [Bedrock Server Manager - Milestones Achieved!](https://www.reddit.com/r/Python/comments/1p5u7n8/bedrock_server_manager_milestones_achieved/)
 - [I created a keys tracking system in Python without any libraries or built-ins.](https://www.reddit.com/r/Python/comments/1p5rt0j/i_created_a_keys_tracking_system_in_python/)
 - [local host and pywebview](https://www.reddit.com/r/Python/comments/1p5mpeb/local_host_and_pywebview/)
-- [PSF Fundraising: Grab PyCharm Pro for 30% off](https://www.reddit.com/r/Python/comments/1p5mgn8/psf_fundraising_grab_pycharm_pro_for_30_off/)
-- [GeoPolars is unblocked and moving forward](https://www.reddit.com/r/Python/comments/1p5dtvn/geopolars_is_unblocked_and_moving_forward/)
 <!-- BLOG-POST-LIST:END -->
