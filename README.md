@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 ORRIVN — A Modern Media Hub Built Entirely in Python + Flask](https://www.reddit.com/r/Python/comments/1p54gh8/orrivn_a_modern_media_hub_built_entirely_in/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1p5239o/monday_daily_thread_project_ideas/)
+- [PYTHON FOR MOBILE APP DEVELIPMENT?](https://www.reddit.com/r/Python/comments/1p51ygb/python_for_mobile_app_develipment/)
 - [If you keep forgetting to run uv pip install or uv add instead of pip install, this is for you](https://www.reddit.com/r/Python/comments/1p5054f/if_you_keep_forgetting_to_run_uv_pip_install_or/)
 - [💡 Quick Python exercises for those who want to practice and have fun](https://www.reddit.com/r/Python/comments/1p4yyc6/quick_python_exercises_for_those_who_want_to/)
-- [🚀 Introducing MacToast: Lightweight, customizable toast notifications for macOS](https://www.reddit.com/r/Python/comments/1p4x3zt/introducing_mactoast_lightweight_customizable/)
-- [Developed a Flask-based Python chatbot whose personality evolves from long-term interaction data](https://www.reddit.com/r/Python/comments/1p4tooz/developed_a_flaskbased_python_chatbot_whose/)
-- [[Showcase] An experimental Hexagonal Architecture framework for any platform](https://www.reddit.com/r/Python/comments/1p4r5h6/showcase_an_experimental_hexagonal_architecture/)
 <!-- BLOG-POST-LIST:END -->
