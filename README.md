@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a keys tracking system in Python without any libraries or built-ins.](https://www.reddit.com/r/Python/comments/1p5rt0j/i_created_a_keys_tracking_system_in_python/)
+- [local host and pywebview](https://www.reddit.com/r/Python/comments/1p5mpeb/local_host_and_pywebview/)
+- [PSF Fundraising: Grab PyCharm Pro for 30% off](https://www.reddit.com/r/Python/comments/1p5mgn8/psf_fundraising_grab_pycharm_pro_for_30_off/)
 - [GeoPolars is unblocked and moving forward](https://www.reddit.com/r/Python/comments/1p5dtvn/geopolars_is_unblocked_and_moving_forward/)
 - [Python package to generate LaTeX code for lewis structure](https://www.reddit.com/r/Python/comments/1p5ctew/python_package_to_generate_latex_code_for_lewis/)
-- [Day 1 of the 15 Days Senior Python Quiz Challenge](https://www.reddit.com/r/Python/comments/1p5c260/day_1_of_the_15_days_senior_python_quiz_challenge/)
-- [Made a free, open-source trading bot that actually works - thought you guys might find it useful](https://www.reddit.com/r/Python/comments/1p5649f/made_a_free_opensource_trading_bot_that_actually/)
-- [🚀 ORRIVN — A Modern Media Hub Built Entirely in Python + Flask](https://www.reddit.com/r/Python/comments/1p54gh8/orrivn_a_modern_media_hub_built_entirely_in/)
 <!-- BLOG-POST-LIST:END -->
