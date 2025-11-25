@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is R better for people pursuing machine learning/AI engineering compared to python](https://www.reddit.com/r/Python/comments/1p6h35l/is_r_better_for_people_pursuing_machine/)
+- [pytest-inject: A plugin to inject arguments and parameters into tests via CLI](https://www.reddit.com/r/Python/comments/1p6gbpw/pytestinject_a_plugin_to_inject_arguments_and/)
 - [Django vs FastAPI in 2025 - My experience after using both in production](https://www.reddit.com/r/Python/comments/1p6bk27/django_vs_fastapi_in_2025_my_experience_after/)
 - [uvlink – A CLI to keep .venv in a centralized cache for uv](https://www.reddit.com/r/Python/comments/1p662t0/uvlink_a_cli_to_keep_venv_in_a_centralized_cache/)
 - [How good can NumPy get?](https://www.reddit.com/r/Python/comments/1p65vcm/how_good_can_numpy_get/)
-- [I put together a printed journal with a Python puzzler on every page](https://www.reddit.com/r/Python/comments/1p65slx/i_put_together_a_printed_journal_with_a_python/)
-- [Anyone here with experience in Pytorch ?](https://www.reddit.com/r/Python/comments/1p63js9/anyone_here_with_experience_in_pytorch/)
 <!-- BLOG-POST-LIST:END -->
