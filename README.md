@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python3.14 version name pun!](https://www.reddit.com/r/Python/comments/1p6phde/python314_version_name_pun/)
 - [My first Flask extension: passwordless “magic link” auth &lpar;flask-pass0&rpar;. Feedback most welcome.](https://www.reddit.com/r/Python/comments/1p6og1b/my_first_flask_extension_passwordless_magic_link/)
 - [Made a script to change the Windows lock screen on non-activated Windows 😅](https://www.reddit.com/r/Python/comments/1p6oemp/made_a_script_to_change_the_windows_lock_screen/)
 - [PyCharm: plugin that hides your secrets, API keys, etc](https://www.reddit.com/r/Python/comments/1p6kplt/pycharm_plugin_that_hides_your_secrets_api_keys/)
 - [Bifurcated sorting](https://www.reddit.com/r/Python/comments/1p6ioy1/bifurcated_sorting/)
-- [Is R better for people pursuing machine learning/AI engineering compared to python](https://www.reddit.com/r/Python/comments/1p6h35l/is_r_better_for_people_pursuing_machine/)
 <!-- BLOG-POST-LIST:END -->
