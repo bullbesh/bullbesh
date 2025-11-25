@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first Flask extension: passwordless “magic link” auth &lpar;flask-pass0&rpar;. Feedback most welcome.](https://www.reddit.com/r/Python/comments/1p6og1b/my_first_flask_extension_passwordless_magic_link/)
+- [Made a script to change the Windows lock screen on non-activated Windows 😅](https://www.reddit.com/r/Python/comments/1p6oemp/made_a_script_to_change_the_windows_lock_screen/)
 - [PyCharm: plugin that hides your secrets, API keys, etc](https://www.reddit.com/r/Python/comments/1p6kplt/pycharm_plugin_that_hides_your_secrets_api_keys/)
 - [Bifurcated sorting](https://www.reddit.com/r/Python/comments/1p6ioy1/bifurcated_sorting/)
 - [Is R better for people pursuing machine learning/AI engineering compared to python](https://www.reddit.com/r/Python/comments/1p6h35l/is_r_better_for_people_pursuing_machine/)
-- [pytest-inject: A plugin to inject arguments and parameters into tests via CLI](https://www.reddit.com/r/Python/comments/1p6gbpw/pytestinject_a_plugin_to_inject_arguments_and/)
-- [Django vs FastAPI in 2025 - My experience after using both in production](https://www.reddit.com/r/Python/comments/1p6bk27/django_vs_fastapi_in_2025_my_experience_after/)
 <!-- BLOG-POST-LIST:END -->
