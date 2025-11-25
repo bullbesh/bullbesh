@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Django vs FastAPI in 2025 - My experience after using both in production](https://www.reddit.com/r/Python/comments/1p6bk27/django_vs_fastapi_in_2025_my_experience_after/)
 - [uvlink – A CLI to keep .venv in a centralized cache for uv](https://www.reddit.com/r/Python/comments/1p662t0/uvlink_a_cli_to_keep_venv_in_a_centralized_cache/)
 - [How good can NumPy get?](https://www.reddit.com/r/Python/comments/1p65vcm/how_good_can_numpy_get/)
 - [I put together a printed journal with a Python puzzler on every page](https://www.reddit.com/r/Python/comments/1p65slx/i_put_together_a_printed_journal_with_a_python/)
 - [Anyone here with experience in Pytorch ?](https://www.reddit.com/r/Python/comments/1p63js9/anyone_here_with_experience_in_pytorch/)
-- [opencv python wont install](https://www.reddit.com/r/Python/comments/1p617kr/opencv_python_wont_install/)
 <!-- BLOG-POST-LIST:END -->
