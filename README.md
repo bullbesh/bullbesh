@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [opencv python wont install](https://www.reddit.com/r/Python/comments/1p617kr/opencv_python_wont_install/)
 - [Plot Limits / Allowances Equation &amp; Pattern Algebra Parities = self-governing algebraic universe .py](https://www.reddit.com/r/Python/comments/1p5z1nx/plot_limits_allowances_equation_pattern_algebra/)
 - [python -m venv fails on Tahoe 26.1](https://www.reddit.com/r/Python/comments/1p5y7fi/python_m_venv_fails_on_tahoe_261/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1p5xih6/tuesday_daily_thread_advanced_questions/)
 - [archgw 0.3.20 - 500MBs of python dependencies gutted out - faster, leaner proxy server for agents.](https://www.reddit.com/r/Python/comments/1p5vpul/archgw_0320_500mbs_of_python_dependencies_gutted/)
-- [MovieLite: A MoviePy alternative for video editing that is up to 4x faster](https://www.reddit.com/r/Python/comments/1p5vkia/movielite_a_moviepy_alternative_for_video_editing/)
 <!-- BLOG-POST-LIST:END -->
