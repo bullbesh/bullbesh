@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made the code generation tool that didn&#39;t exist for Python](https://www.reddit.com/r/Python/comments/1p7fgj4/i_made_the_code_generation_tool_that_didnt_exist/)
+- [Senior devs: Python AI projects clean, simple, and scalable &lpar;without LLM over-engineering&rpar;?](https://www.reddit.com/r/Python/comments/1p7ez3u/senior_devs_python_ai_projects_clean_simple_and/)
+- [pyproject - A linter and language server for `pyproject.toml` files](https://www.reddit.com/r/Python/comments/1p7enzr/pyproject_a_linter_and_language_server_for/)
+- [Thinking about a Python-native frontend - feedback?](https://www.reddit.com/r/Python/comments/1p7ec8z/thinking_about_a_pythonnative_frontend_feedback/)
 - [AgentSudo - Permission system for AI agents &lpar;launched on PH today&rpar;!](https://www.reddit.com/r/Python/comments/1p7ckwi/agentsudo_permission_system_for_ai_agents/)
-- [if i was making scripts to solve annoying tasks in your life, what would they be?](https://www.reddit.com/r/Python/comments/1p7cids/if_i_was_making_scripts_to_solve_annoying_tasks/)
-- [I made Farmore: A Python CLI to backup GitHub repos, issues, wikis, and releases &lpar;beyond just git cl](https://www.reddit.com/r/Python/comments/1p7b7cr/i_made_farmore_a_python_cli_to_backup_github/)
-- [Handling multiple Alembic migrations with a full team of developers?](https://www.reddit.com/r/Python/comments/1p7api3/handling_multiple_alembic_migrations_with_a_full/)
-- [Building Data Visualisations in Python in Minutes • Kris Jenkins](https://www.reddit.com/r/Python/comments/1p780k4/building_data_visualisations_in_python_in_minutes/)
 <!-- BLOG-POST-LIST:END -->
