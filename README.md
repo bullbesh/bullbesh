@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [python apps for mobile](https://www.reddit.com/r/Python/comments/1p6vgvr/python_apps_for_mobile/)
 - [python-st3215: easy Python library for Waveshare ST3215 servos](https://www.reddit.com/r/Python/comments/1p6t46i/pythonst3215_easy_python_library_for_waveshare/)
 - [Py problem source](https://www.reddit.com/r/Python/comments/1p6r9ww/py_problem_source/)
 - [Spent a bunch of time choosing between Loguru, Structlog and native logging](https://www.reddit.com/r/Python/comments/1p6qy1e/spent_a_bunch_of_time_choosing_between_loguru/)
 - [Python3.14 version name pun!](https://www.reddit.com/r/Python/comments/1p6phde/python314_version_name_pun/)
-- [My first Flask extension: passwordless “magic link” auth &lpar;flask-pass0&rpar;. Feedback most welcome.](https://www.reddit.com/r/Python/comments/1p6og1b/my_first_flask_extension_passwordless_magic_link/)
 <!-- BLOG-POST-LIST:END -->
