@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built a tool that converts any REST API spec into an MCP server](https://www.reddit.com/r/Python/comments/1p7x3i8/built_a_tool_that_converts_any_rest_api_spec_into/)
 - [[poll] The level you use AI in editor &lpar;Python ver&rpar;](https://www.reddit.com/r/Python/comments/1p7v3qx/poll_the_level_you_use_ai_in_editor_python_ver/)
 - [I got roasted for my code yesterday. So I rewrote it completely.](https://www.reddit.com/r/Python/comments/1p7pb5z/i_got_roasted_for_my_code_yesterday_so_i_rewrote/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1p7nn45/thursday_daily_thread_python_careers_courses_and/)
 - [RayPy, a Python interface to the RayforceDB columnar database reaches beta](https://www.reddit.com/r/Python/comments/1p7mltu/raypy_a_python_interface_to_the_rayforcedb/)
-- [complexipy 5.0.0, cognitive complexity tool](https://www.reddit.com/r/Python/comments/1p7fqbo/complexipy_500_cognitive_complexity_tool/)
 <!-- BLOG-POST-LIST:END -->
