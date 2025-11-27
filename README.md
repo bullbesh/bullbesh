@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [gvit 1.0.0 - Now with uv support, improved logging, and many other new features](https://www.reddit.com/r/Python/comments/1p83rvv/gvit_100_now_with_uv_support_improved_logging_and/)
 - [Need a suggestion](https://www.reddit.com/r/Python/comments/1p8155t/need_a_suggestion/)
 - [AI desktop agent that controls your OS &lpar;opensource, crossplatform&rpar;](https://www.reddit.com/r/Python/comments/1p80ijy/ai_desktop_agent_that_controls_your_os_opensource/)
-- [15 most-watched Python conference talks of 2025 &lpar;so far&rpar;](https://www.reddit.com/r/Python/comments/1p7xod0/15_mostwatched_python_conference_talks_of_2025_so/)
 - [Built a tool that converts any REST API spec into an MCP server](https://www.reddit.com/r/Python/comments/1p7x3i8/built_a_tool_that_converts_any_rest_api_spec_into/)
 - [[poll] The level you use AI in editor &lpar;Python ver&rpar;](https://www.reddit.com/r/Python/comments/1p7v3qx/poll_the_level_you_use_ai_in_editor_python_ver/)
 <!-- BLOG-POST-LIST:END -->
