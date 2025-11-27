@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Podcasts &amp; Conference Talks &lpar;week 48, 2025&rpar;](https://www.reddit.com/r/Python/comments/1p8ad8c/python_podcasts_conference_talks_week_48_2025/)
 - [Hatch v1.16.0 - workspaces, dependency groups and SBOMs](https://www.reddit.com/r/Python/comments/1p898zg/hatch_v1160_workspaces_dependency_groups_and_sboms/)
 - [gvit 1.0.0 - Now with uv support, improved logging, and many other new features](https://www.reddit.com/r/Python/comments/1p83rvv/gvit_100_now_with_uv_support_improved_logging_and/)
 - [Need a suggestion](https://www.reddit.com/r/Python/comments/1p8155t/need_a_suggestion/)
 - [AI desktop agent that controls your OS &lpar;opensource, crossplatform&rpar;](https://www.reddit.com/r/Python/comments/1p80ijy/ai_desktop_agent_that_controls_your_os_opensource/)
-- [Built a tool that converts any REST API spec into an MCP server](https://www.reddit.com/r/Python/comments/1p7x3i8/built_a_tool_that_converts_any_rest_api_spec_into/)
 <!-- BLOG-POST-LIST:END -->
