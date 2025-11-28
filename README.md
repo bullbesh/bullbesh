@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pmp - a tool to manage your prompts locally](https://www.reddit.com/r/Python/comments/1p97p3h/pmp_a_tool_to_manage_your_prompts_locally/)
 - [Unloading a Telegram bot](https://www.reddit.com/r/Python/comments/1p95wos/unloading_a_telegram_bot/)
 - [Where am i going wrong here?](https://www.reddit.com/r/Python/comments/1p94cqo/where_am_i_going_wrong_here/)
 - [DSA IN PYTHON NEED YOUR attention!](https://www.reddit.com/r/Python/comments/1p8zn98/dsa_in_python_need_your_attention/)
 - [Topics you want to hear on Talk Python To Me](https://www.reddit.com/r/Python/comments/1p8ziy3/topics_you_want_to_hear_on_talk_python_to_me/)
-- [People looking for Tensorflow tutorial](https://www.reddit.com/r/Python/comments/1p8wsqa/people_looking_for_tensorflow_tutorial/)
 <!-- BLOG-POST-LIST:END -->
