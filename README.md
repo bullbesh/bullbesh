@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Alternative to Python executable application for all types of env](https://www.reddit.com/r/Python/comments/1p8li2q/alternative_to_python_executable_application_for/)
+- [HumanMint - Normalizing &amp; Cleaning Government Contact Data](https://www.reddit.com/r/Python/comments/1p8idyf/humanmint_normalizing_cleaning_government_contact/)
+- [Opinion on Libraries](https://www.reddit.com/r/Python/comments/1p8gpns/opinion_on_libraries/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1p8gniu/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Python Podcasts &amp; Conference Talks &lpar;week 48, 2025&rpar;](https://www.reddit.com/r/Python/comments/1p8ad8c/python_podcasts_conference_talks_week_48_2025/)
-- [Hatch v1.16.0 - workspaces, dependency groups and SBOMs](https://www.reddit.com/r/Python/comments/1p898zg/hatch_v1160_workspaces_dependency_groups_and_sboms/)
-- [gvit 1.0.0 - Now with uv support, improved logging, and many other new features](https://www.reddit.com/r/Python/comments/1p83rvv/gvit_100_now_with_uv_support_improved_logging_and/)
-- [Need a suggestion](https://www.reddit.com/r/Python/comments/1p8155t/need_a_suggestion/)
-- [AI desktop agent that controls your OS &lpar;opensource, crossplatform&rpar;](https://www.reddit.com/r/Python/comments/1p80ijy/ai_desktop_agent_that_controls_your_os_opensource/)
 <!-- BLOG-POST-LIST:END -->
