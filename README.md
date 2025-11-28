@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [DSA IN PYTHON NEED YOUR attention!](https://www.reddit.com/r/Python/comments/1p8zn98/dsa_in_python_need_your_attention/)
+- [Topics you want to hear on Talk Python To Me](https://www.reddit.com/r/Python/comments/1p8ziy3/topics_you_want_to_hear_on_talk_python_to_me/)
 - [People looking for Tensorflow tutorial](https://www.reddit.com/r/Python/comments/1p8wsqa/people_looking_for_tensorflow_tutorial/)
 - [The Pocket Computer: 0.375°C Battery Accuracy Across 19 Hours of Cold, Heat, and Stress](https://www.reddit.com/r/Python/comments/1p8tf8e/the_pocket_computer_0375c_battery_accuracy_across/)
 - [I built a deterministic engine to analyze 8th-century Arabic Poetry meters &lpar;Arud&rpar; with Python](https://www.reddit.com/r/Python/comments/1p8t4a8/i_built_a_deterministic_engine_to_analyze/)
-- [Has anyone successfully used Camoufox recently?](https://www.reddit.com/r/Python/comments/1p8slxf/has_anyone_successfully_used_camoufox_recently/)
-- [accidentally built a leaky bucket instead of a token bucket &lpar;my scraper was 10x too slow&rpar;](https://www.reddit.com/r/Python/comments/1p8qohu/accidentally_built_a_leaky_bucket_instead_of_a/)
 <!-- BLOG-POST-LIST:END -->
