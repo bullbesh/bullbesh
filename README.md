@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Pocket Computer: 0.375°C Battery Accuracy Across 19 Hours of Cold, Heat, and Stress](https://www.reddit.com/r/Python/comments/1p8tf8e/the_pocket_computer_0375c_battery_accuracy_across/)
+- [I built a deterministic engine to analyze 8th-century Arabic Poetry meters &lpar;Arud&rpar; with Python](https://www.reddit.com/r/Python/comments/1p8t4a8/i_built_a_deterministic_engine_to_analyze/)
+- [Has anyone successfully used Camoufox recently?](https://www.reddit.com/r/Python/comments/1p8slxf/has_anyone_successfully_used_camoufox_recently/)
 - [accidentally built a leaky bucket instead of a token bucket &lpar;my scraper was 10x too slow&rpar;](https://www.reddit.com/r/Python/comments/1p8qohu/accidentally_built_a_leaky_bucket_instead_of_a/)
 - [Recently Released a New Python Package for AutoML.](https://www.reddit.com/r/Python/comments/1p8n6jv/recently_released_a_new_python_package_for_automl/)
-- [I built a tool that automatically cleans unused dependencies from Python projects.](https://www.reddit.com/r/Python/comments/1p8muey/i_built_a_tool_that_automatically_cleans_unused/)
-- [Alternative to Python executable application for all types of env](https://www.reddit.com/r/Python/comments/1p8li2q/alternative_to_python_executable_application_for/)
-- [HumanMint - Normalizing &amp; Cleaning Government Contact Data](https://www.reddit.com/r/Python/comments/1p8idyf/humanmint_normalizing_cleaning_government_contact/)
 <!-- BLOG-POST-LIST:END -->
