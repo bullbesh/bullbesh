@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Where am i going wrong here?](https://www.reddit.com/r/Python/comments/1p94cqo/where_am_i_going_wrong_here/)
 - [DSA IN PYTHON NEED YOUR attention!](https://www.reddit.com/r/Python/comments/1p8zn98/dsa_in_python_need_your_attention/)
 - [Topics you want to hear on Talk Python To Me](https://www.reddit.com/r/Python/comments/1p8ziy3/topics_you_want_to_hear_on_talk_python_to_me/)
 - [People looking for Tensorflow tutorial](https://www.reddit.com/r/Python/comments/1p8wsqa/people_looking_for_tensorflow_tutorial/)
 - [The Pocket Computer: 0.375°C Battery Accuracy Across 19 Hours of Cold, Heat, and Stress](https://www.reddit.com/r/Python/comments/1p8tf8e/the_pocket_computer_0375c_battery_accuracy_across/)
-- [I built a deterministic engine to analyze 8th-century Arabic Poetry meters &lpar;Arud&rpar; with Python](https://www.reddit.com/r/Python/comments/1p8t4a8/i_built_a_deterministic_engine_to_analyze/)
 <!-- BLOG-POST-LIST:END -->
