@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyPermission: A Python native RBAC authorization library!](https://www.reddit.com/r/Python/comments/1p9ebul/pypermission_a_python_native_rbac_authorization/)
 - [Built a small open-source tool &lpar;fasthook&rpar; to quickly create local webhook endpoints](https://www.reddit.com/r/Python/comments/1p9cnqq/built_a_small_opensource_tool_fasthook_to_quickly/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1p9a5ab/saturday_daily_thread_resource_request_and/)
 - [pmp - a tool to manage your prompts locally](https://www.reddit.com/r/Python/comments/1p97p3h/pmp_a_tool_to_manage_your_prompts_locally/)
 - [Unloading a Telegram bot](https://www.reddit.com/r/Python/comments/1p95wos/unloading_a_telegram_bot/)
-- [DSA IN PYTHON NEED YOUR attention!](https://www.reddit.com/r/Python/comments/1p8zn98/dsa_in_python_need_your_attention/)
 <!-- BLOG-POST-LIST:END -->
