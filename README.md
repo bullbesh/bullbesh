@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a Django-style boilerplate for FastAPI](https://www.reddit.com/r/Python/comments/1p9pvlk/i_built_a_djangostyle_boilerplate_for_fastapi/)
 - [[P] Built a Python SDK for commodity price data - handling retries, rate limits, and async properly](https://www.reddit.com/r/Python/comments/1p9mvhd/p_built_a_python_sdk_for_commodity_price_data/)
 - [I automated the &quot;Validation Loop&quot; for PDF extraction so I never have to write regex again.](https://www.reddit.com/r/Python/comments/1p9jtvl/i_automated_the_validation_loop_for_pdf/)
 - [Computing and data science](https://www.reddit.com/r/Python/comments/1p9ftgh/computing_and_data_science/)
 - [PyPermission: A Python native RBAC authorization library!](https://www.reddit.com/r/Python/comments/1p9ebul/pypermission_a_python_native_rbac_authorization/)
-- [Built a small open-source tool &lpar;fasthook&rpar; to quickly create local webhook endpoints](https://www.reddit.com/r/Python/comments/1p9cnqq/built_a_small_opensource_tool_fasthook_to_quickly/)
 <!-- BLOG-POST-LIST:END -->
