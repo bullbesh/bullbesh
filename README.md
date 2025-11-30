@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a fast Advent of Code helper CLI for Python called elf](https://www.reddit.com/r/Python/comments/1paj821/i_built_a_fast_advent_of_code_helper_cli_for/)
 - [Multi-Crypto Payments Gateway](https://www.reddit.com/r/Python/comments/1paflhd/multicrypto_payments_gateway/)
 - [Birds Vs Bats - A Python Shell Game](https://www.reddit.com/r/Python/comments/1padhh7/birds_vs_bats_a_python_shell_game/)
 - [What should be the license of a library created by me using LLMs?](https://www.reddit.com/r/Python/comments/1pac4x0/what_should_be_the_license_of_a_library_created/)
 - [I built SentinelNav, a zero-dependency binary file visualization tool to map file structure](https://www.reddit.com/r/Python/comments/1pa91j5/i_built_sentinelnav_a_zerodependency_binary_file/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1pa3qvx/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
