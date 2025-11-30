@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What should be the license of a library created by me using LLMs?](https://www.reddit.com/r/Python/comments/1pac4x0/what_should_be_the_license_of_a_library_created/)
 - [I built SentinelNav, a zero-dependency binary file visualization tool to map file structure](https://www.reddit.com/r/Python/comments/1pa91j5/i_built_sentinelnav_a_zerodependency_binary_file/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1pa3qvx/sunday_daily_thread_whats_everyone_working_on/)
 - [I created my own Homehub in Python &lpar;D_Ei_Why_Hub&rpar;](https://www.reddit.com/r/Python/comments/1pa1lbt/i_created_my_own_homehub_in_python_d_ei_why_hub/)
 - [Is anyone else choosing not to use AI for programming?](https://www.reddit.com/r/Python/comments/1p9wluw/is_anyone_else_choosing_not_to_use_ai_for/)
-- [I built a tool that converts your Python script into a shareable web app](https://www.reddit.com/r/Python/comments/1p9wkbi/i_built_a_tool_that_converts_your_python_script/)
 <!-- BLOG-POST-LIST:END -->
