@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [A Python tool I built for generating realistic random datetimes, looking for feedback](https://www.reddit.com/r/Python/comments/1patrgz/a_python_tool_i_built_for_generating_realistic/)
 - [Advanced, Overlooked Python Typing](https://www.reddit.com/r/Python/comments/1paocj5/advanced_overlooked_python_typing/)
 - [context-async-sqlalchemy - The best way to use sqlalchemy in an async python application](https://www.reddit.com/r/Python/comments/1pamid8/contextasyncsqlalchemy_the_best_way_to_use/)
 - [I built a fast Advent of Code helper CLI for Python called elf](https://www.reddit.com/r/Python/comments/1paj821/i_built_a_fast_advent_of_code_helper_cli_for/)
 - [Multi-Crypto Payments Gateway](https://www.reddit.com/r/Python/comments/1paflhd/multicrypto_payments_gateway/)
+- [Birds Vs Bats - A Python Shell Game](https://www.reddit.com/r/Python/comments/1padhh7/birds_vs_bats_a_python_shell_game/)
 <!-- BLOG-POST-LIST:END -->
