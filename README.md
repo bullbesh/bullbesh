@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [i built a key-value DB in python with a small tcp server](https://www.reddit.com/r/Python/comments/1pbpb8w/i_built_a_keyvalue_db_in_python_with_a_small_tcp/)
 - [Want to ship a native-like launcher for your Python app? Meet PyAppExec](https://www.reddit.com/r/Python/comments/1pbp679/want_to_ship_a_nativelike_launcher_for_your/)
 - [Loggrep: Zero external deps Python script to search logs for multiple keywords easily](https://www.reddit.com/r/Python/comments/1pbnh58/loggrep_zero_external_deps_python_script_to/)
 - [Mp4-To-Srv3 - Convert Video Into Colored-Braille Subtitles For YouTube](https://www.reddit.com/r/Python/comments/1pblbal/mp4tosrv3_convert_video_into_coloredbraille/)
 - [Show &amp; Tell: Python lib to track logging costs by file:line &lpar;find expensive statements in production](https://www.reddit.com/r/Python/comments/1pblatk/show_tell_python_lib_to_track_logging_costs_by/)
-- [Introducing NetSnap - Linux net/route/neigh cfg &amp; stats -&gt; python without hardcoded kernel constants](https://www.reddit.com/r/Python/comments/1pbkih2/introducing_netsnap_linux_netrouteneigh_cfg_stats/)
 <!-- BLOG-POST-LIST:END -->
