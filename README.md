@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anyone here looking to get referral as a Senior/Staff Code Review Expert position | $40 to $125 / H](https://www.reddit.com/r/Python/comments/1pb83nq/anyone_here_looking_to_get_referral_as_a/)
 - [I built a desktop automation tool because I was too lazy to manually delete 5,000 Watch Later videos](https://www.reddit.com/r/Python/comments/1pb5hcp/i_built_a_desktop_automation_tool_because_i_was/)
 - [mcputil 0.6.0: Enable code execution with MCP for you.](https://www.reddit.com/r/Python/comments/1pb4wjg/mcputil_060_enable_code_execution_with_mcp_for_you/)
 - [Join the Advent of Code Challenge with Python!](https://www.reddit.com/r/Python/comments/1pb2jch/join_the_advent_of_code_challenge_with_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1paxlzf/monday_daily_thread_project_ideas/)
-- [Advanced, Overlooked Python Typing](https://www.reddit.com/r/Python/comments/1paocj5/advanced_overlooked_python_typing/)
 <!-- BLOG-POST-LIST:END -->
