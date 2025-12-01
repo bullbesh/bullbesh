@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Join the Advent of Code Challenge with Python!](https://www.reddit.com/r/Python/comments/1pb2jch/join_the_advent_of_code_challenge_with_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1paxlzf/monday_daily_thread_project_ideas/)
 - [Advanced, Overlooked Python Typing](https://www.reddit.com/r/Python/comments/1paocj5/advanced_overlooked_python_typing/)
 - [context-async-sqlalchemy - The best way to use sqlalchemy in an async python application](https://www.reddit.com/r/Python/comments/1pamid8/contextasyncsqlalchemy_the_best_way_to_use/)
 - [I built a fast Advent of Code helper CLI for Python called elf](https://www.reddit.com/r/Python/comments/1paj821/i_built_a_fast_advent_of_code_helper_cli_for/)
-- [Multi-Crypto Payments Gateway](https://www.reddit.com/r/Python/comments/1paflhd/multicrypto_payments_gateway/)
 <!-- BLOG-POST-LIST:END -->
