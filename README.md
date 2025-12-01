@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Loggrep: Zero external deps Python script to search logs for multiple keywords easily](https://www.reddit.com/r/Python/comments/1pbnh58/loggrep_zero_external_deps_python_script_to/)
 - [Mp4-To-Srv3 - Convert Video Into Colored-Braille Subtitles For YouTube](https://www.reddit.com/r/Python/comments/1pblbal/mp4tosrv3_convert_video_into_coloredbraille/)
 - [Show &amp; Tell: Python lib to track logging costs by file:line &lpar;find expensive statements in production](https://www.reddit.com/r/Python/comments/1pblatk/show_tell_python_lib_to_track_logging_costs_by/)
 - [Introducing NetSnap - Linux net/route/neigh cfg &amp; stats -&gt; python without hardcoded kernel constants](https://www.reddit.com/r/Python/comments/1pbkih2/introducing_netsnap_linux_netrouteneigh_cfg_stats/)
 - [Introducing Typhon: statically-typed, compiled Python](https://www.reddit.com/r/Python/comments/1pbiyud/introducing_typhon_staticallytyped_compiled_python/)
-- [Tired of static reports? I built a CLI War Room for live C2 tracking.](https://www.reddit.com/r/Python/comments/1pbcpbj/tired_of_static_reports_i_built_a_cli_war_room/)
 <!-- BLOG-POST-LIST:END -->
