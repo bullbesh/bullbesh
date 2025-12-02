@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Data Science Handbook](https://www.reddit.com/r/Python/comments/1pcgo3l/python_data_science_handbook/)
 - [Debugging multi-agent systems: traces show too much detail](https://www.reddit.com/r/Python/comments/1pcfl19/debugging_multiagent_systems_traces_show_too_much/)
 - [Turn Github into an RPG game with Github Heroes](https://www.reddit.com/r/Python/comments/1pcdijq/turn_github_into_an_rpg_game_with_github_heroes/)
 - [PyImageCUDA - GPU-accelerated image compositing for Python](https://www.reddit.com/r/Python/comments/1pcce1w/pyimagecuda_gpuaccelerated_image_compositing_for/)
 - [Structure Large Python Projects for Maintainability](https://www.reddit.com/r/Python/comments/1pccbk4/structure_large_python_projects_for/)
-- [I built an open-source &quot;Reliability Layer&quot; for AI Agents using decorators and Pydantic.](https://www.reddit.com/r/Python/comments/1pcbkqw/i_built_an_opensource_reliability_layer_for_ai/)
 <!-- BLOG-POST-LIST:END -->
