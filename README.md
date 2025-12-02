@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turn Github into an RPG game with Github Heroes](https://www.reddit.com/r/Python/comments/1pcdijq/turn_github_into_an_rpg_game_with_github_heroes/)
 - [PyImageCUDA - GPU-accelerated image compositing for Python](https://www.reddit.com/r/Python/comments/1pcce1w/pyimagecuda_gpuaccelerated_image_compositing_for/)
 - [Structure Large Python Projects for Maintainability](https://www.reddit.com/r/Python/comments/1pccbk4/structure_large_python_projects_for/)
 - [I built an open-source &quot;Reliability Layer&quot; for AI Agents using decorators and Pydantic.](https://www.reddit.com/r/Python/comments/1pcbkqw/i_built_an_opensource_reliability_layer_for_ai/)
 - [win32api SendMessage/PostMessage not sending keys to minimized window in Windows 11?](https://www.reddit.com/r/Python/comments/1pcab48/win32api_sendmessagepostmessage_not_sending_keys/)
-- [I built a type-safe wrapper for LLM API calls with automatic validation and self-correction](https://www.reddit.com/r/Python/comments/1pc8fu1/i_built_a_typesafe_wrapper_for_llm_api_calls_with/)
 <!-- BLOG-POST-LIST:END -->
