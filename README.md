@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [OSS Research Project in Legacy Code Modernization](https://www.reddit.com/r/Python/comments/1pcj23t/oss_research_project_in_legacy_code_modernization/)
+- [Pyriodic Backend - The Backend for the Small Web](https://www.reddit.com/r/Python/comments/1pchkfi/pyriodic_backend_the_backend_for_the_small_web/)
 - [Python Data Science Handbook](https://www.reddit.com/r/Python/comments/1pcgo3l/python_data_science_handbook/)
 - [Debugging multi-agent systems: traces show too much detail](https://www.reddit.com/r/Python/comments/1pcfl19/debugging_multiagent_systems_traces_show_too_much/)
 - [Turn Github into an RPG game with Github Heroes](https://www.reddit.com/r/Python/comments/1pcdijq/turn_github_into_an_rpg_game_with_github_heroes/)
-- [PyImageCUDA - GPU-accelerated image compositing for Python](https://www.reddit.com/r/Python/comments/1pcce1w/pyimagecuda_gpuaccelerated_image_compositing_for/)
-- [Structure Large Python Projects for Maintainability](https://www.reddit.com/r/Python/comments/1pccbk4/structure_large_python_projects_for/)
 <!-- BLOG-POST-LIST:END -->
