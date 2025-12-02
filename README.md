@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyImageCUDA - GPU-accelerated image compositing for Python](https://www.reddit.com/r/Python/comments/1pcce1w/pyimagecuda_gpuaccelerated_image_compositing_for/)
+- [Structure Large Python Projects for Maintainability](https://www.reddit.com/r/Python/comments/1pccbk4/structure_large_python_projects_for/)
+- [I built an open-source &quot;Reliability Layer&quot; for AI Agents using decorators and Pydantic.](https://www.reddit.com/r/Python/comments/1pcbkqw/i_built_an_opensource_reliability_layer_for_ai/)
 - [win32api SendMessage/PostMessage not sending keys to minimized window in Windows 11?](https://www.reddit.com/r/Python/comments/1pcab48/win32api_sendmessagepostmessage_not_sending_keys/)
 - [I built a type-safe wrapper for LLM API calls with automatic validation and self-correction](https://www.reddit.com/r/Python/comments/1pc8fu1/i_built_a_typesafe_wrapper_for_llm_api_calls_with/)
-- [Handling Firestore’s 1 MB Limit: Custom Text Chunking vs. textwrap](https://www.reddit.com/r/Python/comments/1pc7xrm/handling_firestores_1_mb_limit_custom_text/)
-- [I spent 2 years building a dead-simple Dependency Injection package for Python](https://www.reddit.com/r/Python/comments/1pc77j2/i_spent_2_years_building_a_deadsimple_dependency/)
-- [Loguru Python logging library](https://www.reddit.com/r/Python/comments/1pc6xai/loguru_python_logging_library/)
 <!-- BLOG-POST-LIST:END -->
