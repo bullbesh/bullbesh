@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pyrefly now has built-in support for Pydantic](https://www.reddit.com/r/Python/comments/1pdbw37/pyrefly_now_has_builtin_support_for_pydantic/)
+- [Pandas 3.0 release candidate tagged](https://www.reddit.com/r/Python/comments/1pdb5u2/pandas_30_release_candidate_tagged/)
+- [How I built a Python tool that treats AI prompts as version-controlled code](https://www.reddit.com/r/Python/comments/1pdb1gi/how_i_built_a_python_tool_that_treats_ai_prompts/)
+- [Is building Python modules in other languages generally so difficult?](https://www.reddit.com/r/Python/comments/1pdaw0c/is_building_python_modules_in_other_languages/)
 - [Testing at Scale: When Does Coverage Stop Being Worth It?](https://www.reddit.com/r/Python/comments/1pd8ubr/testing_at_scale_when_does_coverage_stop_being/)
-- [How FaceSeek ideas ended up inspiring a small Python experiment of mine](https://www.reddit.com/r/Python/comments/1pd6k9x/how_faceseek_ideas_ended_up_inspiring_a_small/)
-- [Latency Profiling in Python: From Code Bottlenecks to Observability](https://www.reddit.com/r/Python/comments/1pd68oz/latency_profiling_in_python_from_code_bottlenecks/)
-- [Wake-on-LAN web service &lpar;uvicorn + FastAPI&rpar;](https://www.reddit.com/r/Python/comments/1pd60nr/wakeonlan_web_service_uvicorn_fastapi/)
-- [Got tired of MP4 to MP3 sites, so I built a tiny local converter &lpar;OpenSource&rpar;](https://www.reddit.com/r/Python/comments/1pd5jhf/got_tired_of_mp4_to_mp3_sites_so_i_built_a_tiny/)
 <!-- BLOG-POST-LIST:END -->
