@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python-native mocking of realistic datasets by defining schemas for prototyping, testing, and demos](https://www.reddit.com/r/Python/comments/1pcrbn4/pythonnative_mocking_of_realistic_datasets_by/)
+- [Common annoyances with Python&#39;s stdlib logging, and how I solved them](https://www.reddit.com/r/Python/comments/1pcphqi/common_annoyances_with_pythons_stdlib_logging_and/)
 - [PeachBtcApiWrapper - A Python wrapper for the Peach Bitcoin P2P platform](https://www.reddit.com/r/Python/comments/1pcnz8s/peachbtcapiwrapper_a_python_wrapper_for_the_peach/)
 - [Problem solving](https://www.reddit.com/r/Python/comments/1pcnlg7/problem_solving/)
 - [[Project] RedLightDL &lpar;ph-shorts&rpar;: A CLI tool to download videos from adult websites&rpar;](https://www.reddit.com/r/Python/comments/1pcltvg/project_redlightdl_phshorts_a_cli_tool_to/)
-- [OSS Research Project in Legacy Code Modernization](https://www.reddit.com/r/Python/comments/1pcj23t/oss_research_project_in_legacy_code_modernization/)
-- [Pyriodic Backend - The Backend for the Small Web](https://www.reddit.com/r/Python/comments/1pchkfi/pyriodic_backend_the_backend_for_the_small_web/)
 <!-- BLOG-POST-LIST:END -->
