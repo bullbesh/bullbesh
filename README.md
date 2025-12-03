@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python-native mocking of realistic datasets by defining schemas for prototyping, testing, and demos](https://www.reddit.com/r/Python/comments/1pcrbn4/pythonnative_mocking_of_realistic_datasets_by/)
-- [Common annoyances with Python&#39;s stdlib logging, and how I solved them](https://www.reddit.com/r/Python/comments/1pcphqi/common_annoyances_with_pythons_stdlib_logging_and/)
-- [PeachBtcApiWrapper - A Python wrapper for the Peach Bitcoin P2P platform](https://www.reddit.com/r/Python/comments/1pcnz8s/peachbtcapiwrapper_a_python_wrapper_for_the_peach/)
-- [Problem solving](https://www.reddit.com/r/Python/comments/1pcnlg7/problem_solving/)
-- [[Project] RedLightDL &lpar;ph-shorts&rpar;: A CLI tool to download videos from adult websites&rpar;](https://www.reddit.com/r/Python/comments/1pcltvg/project_redlightdl_phshorts_a_cli_tool_to/)
+- [Work-Stealing event loop in Python](https://www.reddit.com/r/Python/comments/1pd3l1m/workstealing_event_loop_in_python/)
+- [I built a small Python library that turns any function into a dataflow graph — feedback welcome](https://www.reddit.com/r/Python/comments/1pd2q33/i_built_a_small_python_library_that_turns_any/)
+- [I listened to your feedback on my &quot;Thanos&quot; CLI. It’s now a proper Chaos Engineering tool.](https://www.reddit.com/r/Python/comments/1pd2cgw/i_listened_to_your_feedback_on_my_thanos_cli_its/)
+- [I built a tiny helper to make pydantic-settings errors actually readable &lpar;pyenvalid&rpar;](https://www.reddit.com/r/Python/comments/1pd241f/i_built_a_tiny_helper_to_make_pydanticsettings/)
+- [My wife was manually copying YouTube comments, so I built this tool](https://www.reddit.com/r/Python/comments/1pd1g30/my_wife_was_manually_copying_youtube_comments_so/)
 <!-- BLOG-POST-LIST:END -->
