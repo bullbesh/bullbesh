@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python-Based Email Triggered Service Restart System](https://www.reddit.com/r/Python/comments/1pe696m/pythonbased_email_triggered_service_restart_system/)
+- [Python-Based Email Triggered Service Restart System](https://www.reddit.com/r/Python/comments/1pe62ae/pythonbased_email_triggered_service_restart_system/)
 - [Python tool to handle the complex 48-team World Cup draw constraints &lpar;Backtracking/Lookahead&rpar;.](https://www.reddit.com/r/Python/comments/1pe4vy9/python_tool_to_handle_the_complex_48team_world/)
 - [The RGE-256 toolkit](https://www.reddit.com/r/Python/comments/1pe3fz4/the_rge256_toolkit/)
 - [MicroPie &lpar;Micro ASGI Framework&rpar; v0.24 Released](https://www.reddit.com/r/Python/comments/1pe2fe1/micropie_micro_asgi_framework_v024_released/)
-- [Built an open-source app to convert LinkedIn -&gt; Personal portfolio generator using FastAPI backend](https://www.reddit.com/r/Python/comments/1pe1cm1/built_an_opensource_app_to_convert_linkedin/)
-- [Anyone here experimented with Python for generating music?](https://www.reddit.com/r/Python/comments/1pe0zjh/anyone_here_experimented_with_python_for/)
 <!-- BLOG-POST-LIST:END -->
