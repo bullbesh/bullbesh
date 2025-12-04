@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built an automated court scraper because finding a good lawyer shouldn&#39;t be a guessing game](https://www.reddit.com/r/Python/comments/1peelsy/i_built_an_automated_court_scraper_because/)
 - [def, assigned lambda, and PEP8](https://www.reddit.com/r/Python/comments/1pec27h/def_assigned_lambda_and_pep8/)
 - [I can’t seem to implement my thoughts](https://www.reddit.com/r/Python/comments/1pebovd/i_cant_seem_to_implement_my_thoughts/)
 - [str actually means &#39;struct&#39; instead of string??!!](https://www.reddit.com/r/Python/comments/1pebmsu/str_actually_means_struct_instead_of_string/)
 - [Python-Based Email Triggered Service Restart System](https://www.reddit.com/r/Python/comments/1pe696m/pythonbased_email_triggered_service_restart_system/)
-- [Python-Based Email Triggered Service Restart System](https://www.reddit.com/r/Python/comments/1pe62ae/pythonbased_email_triggered_service_restart_system/)
 <!-- BLOG-POST-LIST:END -->
