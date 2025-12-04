@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [def, assigned lambda, and PEP8](https://www.reddit.com/r/Python/comments/1pec27h/def_assigned_lambda_and_pep8/)
+- [I can’t seem to implement my thoughts](https://www.reddit.com/r/Python/comments/1pebovd/i_cant_seem_to_implement_my_thoughts/)
+- [str actually means &#39;struct&#39; instead of string??!!](https://www.reddit.com/r/Python/comments/1pebmsu/str_actually_means_struct_instead_of_string/)
 - [Python-Based Email Triggered Service Restart System](https://www.reddit.com/r/Python/comments/1pe696m/pythonbased_email_triggered_service_restart_system/)
 - [Python-Based Email Triggered Service Restart System](https://www.reddit.com/r/Python/comments/1pe62ae/pythonbased_email_triggered_service_restart_system/)
-- [Python tool to handle the complex 48-team World Cup draw constraints &lpar;Backtracking/Lookahead&rpar;.](https://www.reddit.com/r/Python/comments/1pe4vy9/python_tool_to_handle_the_complex_48team_world/)
-- [The RGE-256 toolkit](https://www.reddit.com/r/Python/comments/1pe3fz4/the_rge256_toolkit/)
-- [MicroPie &lpar;Micro ASGI Framework&rpar; v0.24 Released](https://www.reddit.com/r/Python/comments/1pe2fe1/micropie_micro_asgi_framework_v024_released/)
 <!-- BLOG-POST-LIST:END -->
