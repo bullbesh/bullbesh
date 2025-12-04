@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Enterprise level website in python. Advantages?](https://www.reddit.com/r/Python/comments/1pdv9a1/enterprise_level_website_in_python_advantages/)
 - [Simple End-2-End Encryption](https://www.reddit.com/r/Python/comments/1pduior/simple_end2end_encryption/)
 - [anyID: A tiny library to generate any ID you might need](https://www.reddit.com/r/Python/comments/1pdtpyx/anyid_a_tiny_library_to_generate_any_id_you_might/)
 - [Introducing docu-crawler: A lightweight library for crwaling Documentation, with CLI support](https://www.reddit.com/r/Python/comments/1pdsvon/introducing_docucrawler_a_lightweight_library_for/)
 - [Apart from a job or freelancing have you made any money from Python skills or products/knowldge?](https://www.reddit.com/r/Python/comments/1pdph35/apart_from_a_job_or_freelancing_have_you_made_any/)
-- [CALL FOR STUDY RESPONDENTS!!](https://www.reddit.com/r/Python/comments/1pdnxzu/call_for_study_respondents/)
 <!-- BLOG-POST-LIST:END -->
