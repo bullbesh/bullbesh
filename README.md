@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing docu-crawler: A lightweight library for crwaling Documentation, with CLI support](https://www.reddit.com/r/Python/comments/1pdsvon/introducing_docucrawler_a_lightweight_library_for/)
 - [Apart from a job or freelancing have you made any money from Python skills or products/knowldge?](https://www.reddit.com/r/Python/comments/1pdph35/apart_from_a_job_or_freelancing_have_you_made_any/)
 - [CALL FOR STUDY RESPONDENTS!!](https://www.reddit.com/r/Python/comments/1pdnxzu/call_for_study_respondents/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1pdkuig/thursday_daily_thread_python_careers_courses_and/)
 - [JustHTML: A pure Python HTML5 parser that just works.](https://www.reddit.com/r/Python/comments/1pdgpmk/justhtml_a_pure_python_html5_parser_that_just/)
-- [My first Python game project - a text basketball sim to settle the &quot;96 Bulls vs modern teams&quot; debate](https://www.reddit.com/r/Python/comments/1pdd7qa/my_first_python_game_project_a_text_basketball/)
 <!-- BLOG-POST-LIST:END -->
