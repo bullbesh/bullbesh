@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Released a small Python package to stabilize multi-step reasoning in local LLMs. MRS-Scaffold.](https://www.reddit.com/r/Python/comments/1pf129l/released_a_small_python_package_to_stabilize/)
 - [A new companion tool: MRS-Inspector. A lightweight, pip installable, reasoning diagnostic.](https://www.reddit.com/r/Python/comments/1pezngs/a_new_companion_tool_mrsinspector_a_lightweight/)
+- [Built a legislature tracker featuring a state machine, adaptive parser pipeline, and ruleset engine](https://www.reddit.com/r/Python/comments/1pevr3n/built_a_legislature_tracker_featuring_a_state/)
 - [[Project] I built a Distributed Orchestrator Architecture using LLM to replace Search Indexing](https://www.reddit.com/r/Python/comments/1peutz7/project_i_built_a_distributed_orchestrator/)
 - [We open-sourced kubesdk - a fully typed, async-first Python client for Kubernetes.](https://www.reddit.com/r/Python/comments/1pet9mi/we_opensourced_kubesdk_a_fully_typed_asyncfirst/)
-- [Built NanoIdp: a tiny local Identity Provider for testing OAuth2/OIDC + SAML](https://www.reddit.com/r/Python/comments/1pesvub/built_nanoidp_a_tiny_local_identity_provider_for/)
-- [I built a distributed music recognition backend with REST API support.](https://www.reddit.com/r/Python/comments/1pesfdz/i_built_a_distributed_music_recognition_backend/)
 <!-- BLOG-POST-LIST:END -->
