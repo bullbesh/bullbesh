@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [We open-sourced kubesdk - a fully typed, async-first Python client for Kubernetes.](https://www.reddit.com/r/Python/comments/1pet9mi/we_opensourced_kubesdk_a_fully_typed_asyncfirst/)
+- [Built NanoIdp: a tiny local Identity Provider for testing OAuth2/OIDC + SAML](https://www.reddit.com/r/Python/comments/1pesvub/built_nanoidp_a_tiny_local_identity_provider_for/)
 - [I built a distributed music recognition backend with REST API support.](https://www.reddit.com/r/Python/comments/1pesfdz/i_built_a_distributed_music_recognition_backend/)
 - [A new community for FastAPI &amp; async Python — r/FastAPIShare is now open!](https://www.reddit.com/r/Python/comments/1pepr8r/a_new_community_for_fastapi_async_python/)
 - [Distributing software that require PyPI libraries with proprietary licenses. How to do it correctly?](https://www.reddit.com/r/Python/comments/1pekkgm/distributing_software_that_require_pypi_libraries/)
-- [Is the 79-character limit still in actual &lpar;with modern displays&rpar;?](https://www.reddit.com/r/Python/comments/1pejhny/is_the_79character_limit_still_in_actual_with/)
-- [New Virtual Environment Manager](https://www.reddit.com/r/Python/comments/1pehup6/new_virtual_environment_manager/)
 <!-- BLOG-POST-LIST:END -->
