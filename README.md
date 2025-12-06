@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Важна ли корочка для поступления на работу?](https://www.reddit.com/r/Python/comments/1pfshhz/важна_ли_корочка_для_поступления_на_работу/)
+- [WinCord - Keep Your Windows Picture in Sync with Discord](https://www.reddit.com/r/Python/comments/1pfuj6n/wincord_keep_your_windows_picture_in_sync_with/)
+- [Curious how people feel about the current state of Python development workflow](https://www.reddit.com/r/Python/comments/1pfu4kr/curious_how_people_feel_about_the_current_state/)
 - [PyKimix 0.3.8 – Run Pygame Inside Kivy With A Library](https://www.reddit.com/r/Python/comments/1pfol1d/pykimix_038_run_pygame_inside_kivy_with_a_library/)
 - [qCrawl — an async high-performance crawler framework](https://www.reddit.com/r/Python/comments/1pfofmq/qcrawl_an_async_highperformance_crawler_framework/)
 - [I developed my first python app, TidyBit - a simple file organizer tool.](https://www.reddit.com/r/Python/comments/1pfo7r8/i_developed_my_first_python_app_tidybit_a_simple/)
-- [ERROR: Error loading ASGI app. Could not import module &quot;main&quot;.](https://www.reddit.com/r/Python/comments/1pfnekb/error_error_loading_asgi_app_could_not_import/)
 <!-- BLOG-POST-LIST:END -->
