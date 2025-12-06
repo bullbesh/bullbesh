@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s your biggest bottleneck with AI agents right now?](https://www.reddit.com/r/Python/comments/1pfhi0x/whats_your_biggest_bottleneck_with_ai_agents/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1pfau1c/saturday_daily_thread_resource_request_and/)
 - [I built a linter specifically for AI-generated code](https://www.reddit.com/r/Python/comments/1pf7vj8/i_built_a_linter_specifically_for_aigenerated_code/)
 - [A utility package for managing directories in python Showcase](https://www.reddit.com/r/Python/comments/1pf549c/a_utility_package_for_managing_directories_in/)
 - [Released a small Python package to stabilize multi-step reasoning in local LLMs. MRS-Scaffold.](https://www.reddit.com/r/Python/comments/1pf129l/released_a_small_python_package_to_stabilize/)
-- [A new companion tool: MRS-Inspector. A lightweight, pip installable, reasoning diagnostic.](https://www.reddit.com/r/Python/comments/1pezngs/a_new_companion_tool_mrsinspector_a_lightweight/)
 <!-- BLOG-POST-LIST:END -->
