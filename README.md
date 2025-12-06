@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyKimix 0.3.8 – Run Pygame Inside Kivy With A Library](https://www.reddit.com/r/Python/comments/1pfol1d/pykimix_038_run_pygame_inside_kivy_with_a_library/)
 - [qCrawl — an async high-performance crawler framework](https://www.reddit.com/r/Python/comments/1pfofmq/qcrawl_an_async_highperformance_crawler_framework/)
 - [I developed my first python app, TidyBit - a simple file organizer tool.](https://www.reddit.com/r/Python/comments/1pfo7r8/i_developed_my_first_python_app_tidybit_a_simple/)
 - [ERROR: Error loading ASGI app. Could not import module &quot;main&quot;.](https://www.reddit.com/r/Python/comments/1pfnekb/error_error_loading_asgi_app_could_not_import/)
 - [Built an open-source mock payment gateway in Python &lpar;no more Stripe test limits&rpar;](https://www.reddit.com/r/Python/comments/1pfl8ln/built_an_opensource_mock_payment_gateway_in/)
-- [Level up your interview prep - Practice LeetCode with real software development practices](https://www.reddit.com/r/Python/comments/1pfjelr/level_up_your_interview_prep_practice_leetcode/)
 <!-- BLOG-POST-LIST:END -->
