@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [fastapi-api-key: a backend-agnostic, production-ready API key management system](https://www.reddit.com/r/Python/comments/1pgwr7m/fastapiapikey_a_backendagnostic_productionready/)
+- [Please ROAST My FastAPI Template](https://www.reddit.com/r/Python/comments/1pgvpw1/please_roast_my_fastapi_template/)
 - [A nearly useless word operator I wish I had](https://www.reddit.com/r/Python/comments/1pgsukh/a_nearly_useless_word_operator_i_wish_i_had/)
 - [SPELLCURE - python library](https://www.reddit.com/r/Python/comments/1pgrcys/spellcure_python_library/)
 - [[Update] RedLightDL v1.0.14: Resume support, Auto-retry logic, and CLI Config added](https://www.reddit.com/r/Python/comments/1pgnyb6/update_redlightdl_v1014_resume_support_autoretry/)
-- [Built a lil webapp for generating customized LGBTQIA+ themed flairs to any pfps/icons 🌈](https://www.reddit.com/r/Python/comments/1pgnd7m/built_a_lil_webapp_for_generating_customized/)
-- [Code Buddy - Extend Claude Desktop with 23+ development tools via MCP](https://www.reddit.com/r/Python/comments/1pgmfun/code_buddy_extend_claude_desktop_with_23/)
 <!-- BLOG-POST-LIST:END -->
