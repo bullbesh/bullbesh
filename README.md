@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Update] RedLightDL v1.0.14: Resume support, Auto-retry logic, and CLI Config added](https://www.reddit.com/r/Python/comments/1pgnyb6/update_redlightdl_v1014_resume_support_autoretry/)
 - [Built a lil webapp for generating customized LGBTQIA+ themed flairs to any pfps/icons 🌈](https://www.reddit.com/r/Python/comments/1pgnd7m/built_a_lil_webapp_for_generating_customized/)
-- [What do you guys think of this Youtube video](https://www.reddit.com/r/Python/comments/1pgmg1r/what_do_you_guys_think_of_this_youtube_video/)
 - [Code Buddy - Extend Claude Desktop with 23+ development tools via MCP](https://www.reddit.com/r/Python/comments/1pgmfun/code_buddy_extend_claude_desktop_with_23/)
 - [I am spending every minute of my time to fight open-source malware. Here my latest util: malwi-box](https://www.reddit.com/r/Python/comments/1pgm6nl/i_am_spending_every_minute_of_my_time_to_fight/)
 - [Extracting financial data from 10-K and 10-Q reports](https://www.reddit.com/r/Python/comments/1pglwm4/extracting_financial_data_from_10k_and_10q_reports/)
