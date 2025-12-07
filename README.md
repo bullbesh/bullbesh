@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made an alarm that will sound once your steam game has finished downloading](https://www.reddit.com/r/Python/comments/1pgctqs/i_made_an_alarm_that_will_sound_once_your_steam/)
 - [RFC: Bringing AI to PyFlunt &lpar;Fluent Validation&rpar; - Need Community Feedback](https://www.reddit.com/r/Python/comments/1pg4lay/rfc_bringing_ai_to_pyflunt_fluent_validation_need/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1pg3xoh/sunday_daily_thread_whats_everyone_working_on/)
 - [Strengthening Requirements Coverage in Python](https://www.reddit.com/r/Python/comments/1pg3prw/strengthening_requirements_coverage_in_python/)
 - [How Have You Integrated Python into Your DevOps Workflow?](https://www.reddit.com/r/Python/comments/1pg1ybb/how_have_you_integrated_python_into_your_devops/)
-- [A small modern Python project template I&#39;m using for new repos](https://www.reddit.com/r/Python/comments/1pg10u3/a_small_modern_python_project_template_im_using/)
 <!-- BLOG-POST-LIST:END -->
