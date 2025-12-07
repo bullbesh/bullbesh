@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Polars in Python | Kernel error : Generic LocalFileSystem error: Unable to Convert URL &quot;file://Delta](https://www.reddit.com/r/Python/comments/1pgelz3/polars_in_python_kernel_error_generic/)
-- [I made an alarm that will sound once your steam game has finished downloading](https://www.reddit.com/r/Python/comments/1pgctqs/i_made_an_alarm_that_will_sound_once_your_steam/)
-- [RFC: Bringing AI to PyFlunt &lpar;Fluent Validation&rpar; - Need Community Feedback](https://www.reddit.com/r/Python/comments/1pg4lay/rfc_bringing_ai_to_pyflunt_fluent_validation_need/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1pg3xoh/sunday_daily_thread_whats_everyone_working_on/)
-- [Strengthening Requirements Coverage in Python](https://www.reddit.com/r/Python/comments/1pg3prw/strengthening_requirements_coverage_in_python/)
+- [What do you guys think of this Youtube video](https://www.reddit.com/r/Python/comments/1pgmg1r/what_do_you_guys_think_of_this_youtube_video/)
+- [Code Buddy - Extend Claude Desktop with 23+ development tools via MCP](https://www.reddit.com/r/Python/comments/1pgmfun/code_buddy_extend_claude_desktop_with_23/)
+- [I am spending every minute of my time to fight open-source malware. Here my latest util: malwi-box](https://www.reddit.com/r/Python/comments/1pgm6nl/i_am_spending_every_minute_of_my_time_to_fight/)
+- [Extracting financial data from 10-K and 10-Q reports](https://www.reddit.com/r/Python/comments/1pglwm4/extracting_financial_data_from_10k_and_10q_reports/)
+- [The Perfect Christmas Gift for Pythonistas [Book] &lpar;and your suggestions?&rpar;](https://www.reddit.com/r/Python/comments/1pgl3mc/the_perfect_christmas_gift_for_pythonistas_book/)
 <!-- BLOG-POST-LIST:END -->
