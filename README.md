@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Opinion on using pyinfra](https://www.reddit.com/r/Python/comments/1phgso7/opinion_on_using_pyinfra/)
+- [Built a SaaS Starter Kit with FastAPI &lpar;Auth + Billing + Celery + Stripe&rpar; — Looking for feedback!](https://www.reddit.com/r/Python/comments/1phg3x5/built_a_saas_starter_kit_with_fastapi_auth/)
 - [I built an open-source &quot;Codebase Analyst&quot; using LangGraph and Pydantic &lpar;No spaghetti chains&rpar;.](https://www.reddit.com/r/Python/comments/1phda3n/i_built_an_opensource_codebase_analyst_using/)
 - [Production-ready AI Telegram agent with LLM-First architecture, RAG, and MCP tools integration](https://www.reddit.com/r/Python/comments/1phbg9b/productionready_ai_telegram_agent_with_llmfirst/)
 - [Wrote a program that sends out message templates for estate agents so I don’t have to](https://www.reddit.com/r/Python/comments/1phbe3d/wrote_a_program_that_sends_out_message_templates/)
-- [I built a document extraction framework using a Plugin Architecture &lpar;ABCs + Decorators&rpar;](https://www.reddit.com/r/Python/comments/1ph8221/i_built_a_document_extraction_framework_using_a/)
-- [I built botoease: A unified wrapper to switch between Local Storage and AWS S3 without changing code](https://www.reddit.com/r/Python/comments/1ph7vzw/i_built_botoease_a_unified_wrapper_to_switch/)
 <!-- BLOG-POST-LIST:END -->
