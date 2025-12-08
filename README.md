@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Production-ready AI Telegram agent with LLM-First architecture, RAG, and MCP tools integration](https://www.reddit.com/r/Python/comments/1phbg9b/productionready_ai_telegram_agent_with_llmfirst/)
+- [Wrote a program that sends out message templates for estate agents so I don’t have to](https://www.reddit.com/r/Python/comments/1phbe3d/wrote_a_program_that_sends_out_message_templates/)
 - [I built a document extraction framework using a Plugin Architecture &lpar;ABCs + Decorators&rpar;](https://www.reddit.com/r/Python/comments/1ph8221/i_built_a_document_extraction_framework_using_a/)
 - [I built botoease: A unified wrapper to switch between Local Storage and AWS S3 without changing code](https://www.reddit.com/r/Python/comments/1ph7vzw/i_built_botoease_a_unified_wrapper_to_switch/)
 - [Building a community resource: Python&#39;s most deceptive silent bugs](https://www.reddit.com/r/Python/comments/1ph705y/building_a_community_resource_pythons_most/)
-- [KeyNeg: Negative Sentiment Extraction using Sentence Transformers](https://www.reddit.com/r/Python/comments/1ph4ffw/keyneg_negative_sentiment_extraction_using/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1pgxoda/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
