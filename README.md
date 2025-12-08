@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A high-level graph library for Python](https://www.reddit.com/r/Python/comments/1phhv8f/a_highlevel_graph_library_for_python/)
+- [python compiler for linux mint](https://www.reddit.com/r/Python/comments/1phhbci/python_compiler_for_linux_mint/)
 - [Opinion on using pyinfra](https://www.reddit.com/r/Python/comments/1phgso7/opinion_on_using_pyinfra/)
 - [Built a SaaS Starter Kit with FastAPI &lpar;Auth + Billing + Celery + Stripe&rpar; — Looking for feedback!](https://www.reddit.com/r/Python/comments/1phg3x5/built_a_saas_starter_kit_with_fastapi_auth/)
 - [I built an open-source &quot;Codebase Analyst&quot; using LangGraph and Pydantic &lpar;No spaghetti chains&rpar;.](https://www.reddit.com/r/Python/comments/1phda3n/i_built_an_opensource_codebase_analyst_using/)
-- [Production-ready AI Telegram agent with LLM-First architecture, RAG, and MCP tools integration](https://www.reddit.com/r/Python/comments/1phbg9b/productionready_ai_telegram_agent_with_llmfirst/)
-- [Wrote a program that sends out message templates for estate agents so I don’t have to](https://www.reddit.com/r/Python/comments/1phbe3d/wrote_a_program_that_sends_out_message_templates/)
 <!-- BLOG-POST-LIST:END -->
