@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ultra-Strict Python Template v3 — now with pre-commit automation](https://www.reddit.com/r/Python/comments/1phipk6/ultrastrict_python_template_v3_now_with_precommit/)
+- [Need honest opinion](https://www.reddit.com/r/Python/comments/1phijtp/need_honest_opinion/)
+- [PyCharm 2025.3 released](https://www.reddit.com/r/Python/comments/1phifp4/pycharm_20253_released/)
 - [A high-level graph library for Python](https://www.reddit.com/r/Python/comments/1phhv8f/a_highlevel_graph_library_for_python/)
 - [python compiler for linux mint](https://www.reddit.com/r/Python/comments/1phhbci/python_compiler_for_linux_mint/)
-- [Opinion on using pyinfra](https://www.reddit.com/r/Python/comments/1phgso7/opinion_on_using_pyinfra/)
-- [Built a SaaS Starter Kit with FastAPI &lpar;Auth + Billing + Celery + Stripe&rpar; — Looking for feedback!](https://www.reddit.com/r/Python/comments/1phg3x5/built_a_saas_starter_kit_with_fastapi_auth/)
-- [I built an open-source &quot;Codebase Analyst&quot; using LangGraph and Pydantic &lpar;No spaghetti chains&rpar;.](https://www.reddit.com/r/Python/comments/1phda3n/i_built_an_opensource_codebase_analyst_using/)
 <!-- BLOG-POST-LIST:END -->
