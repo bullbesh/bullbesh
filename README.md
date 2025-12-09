@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AmazonScraper Pro : Un scraper Amazon asynchrone et robuste avec Crawl4AI](https://www.reddit.com/r/Python/comments/1pifj84/amazonscraper_pro_un_scraper_amazon_asynchrone_et/)
 - [I built a Python script to compile natural language into commands for local LLMs.](https://www.reddit.com/r/Python/comments/1pie7b3/i_built_a_python_script_to_compile_natural/)
 - [Finished My Agentic RAG Tutorial - Everything in Python, Fully Local](https://www.reddit.com/r/Python/comments/1picui1/finished_my_agentic_rag_tutorial_everything_in/)
-- [Python Excel Dynamic Arrays](https://www.reddit.com/r/Python/comments/1pic1yk/python_excel_dynamic_arrays/)
 - [How Pyrefly Works With Pydantic &lpar;Video&rpar;](https://www.reddit.com/r/Python/comments/1piabju/how_pyrefly_works_with_pydantic_video/)
 - [TIL Python’s random.seed&lpar;&rpar; ignores the sign of integer seeds](https://www.reddit.com/r/Python/comments/1pi7aso/til_pythons_randomseed_ignores_the_sign_of/)
 <!-- BLOG-POST-LIST:END -->
