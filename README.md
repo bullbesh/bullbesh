@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Template repo with uv, ruff, pyright, pytest &lpar;with TDD support&rpar; + CI and QoL Makefile](https://www.reddit.com/r/Python/comments/1pi4rmg/template_repo_with_uv_ruff_pyright_pytest_with/)
 - [Engineering at Kogan](https://www.reddit.com/r/Python/comments/1pi30dz/engineering_at_kogan/)
 - [The Biggest of All Time Phrase Counter - A Tiny RewindOS Prototype](https://www.reddit.com/r/Python/comments/1phxas7/the_biggest_of_all_time_phrase_counter_a_tiny/)
 - [Fenix v2.0 — Local-first, multi-agent algorithmic crypto trading &lpar;LangGraph, ReasoningBank, Ollama +](https://www.reddit.com/r/Python/comments/1phtuks/fenix_v20_localfirst_multiagent_algorithmic/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1phsmy3/tuesday_daily_thread_advanced_questions/)
-- [RunIT CLI Tool showcase](https://www.reddit.com/r/Python/comments/1phsgn0/runit_cli_tool_showcase/)
 <!-- BLOG-POST-LIST:END -->
