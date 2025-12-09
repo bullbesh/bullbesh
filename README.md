@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the marker of a project root for uv to create the .venv there?](https://www.reddit.com/r/Python/comments/1pij98g/what_is_the_marker_of_a_project_root_for_uv_to/)
+- [Tasks Managements, Test Runner, Documentation Hub and Time Tracking VSCode/Cursor Extension](https://www.reddit.com/r/Python/comments/1piiyzr/tasks_managements_test_runner_documentation_hub/)
+- [I was firstly creating classic RPGs then turned it into py recon scripts](https://www.reddit.com/r/Python/comments/1piipsx/i_was_firstly_creating_classic_rpgs_then_turned/)
+- [I built a local first tool that uses AST Parsing + Shannon Entropy to sanitize code for AI](https://www.reddit.com/r/Python/comments/1piick8/i_built_a_local_first_tool_that_uses_ast_parsing/)
 - [AmazonScraper Pro : Un scraper Amazon asynchrone et robuste avec Crawl4AI](https://www.reddit.com/r/Python/comments/1pifj84/amazonscraper_pro_un_scraper_amazon_asynchrone_et/)
-- [I built a Python script to compile natural language into commands for local LLMs.](https://www.reddit.com/r/Python/comments/1pie7b3/i_built_a_python_script_to_compile_natural/)
-- [Finished My Agentic RAG Tutorial - Everything in Python, Fully Local](https://www.reddit.com/r/Python/comments/1picui1/finished_my_agentic_rag_tutorial_everything_in/)
-- [How Pyrefly Works With Pydantic &lpar;Video&rpar;](https://www.reddit.com/r/Python/comments/1piabju/how_pyrefly_works_with_pydantic_video/)
-- [TIL Python’s random.seed&lpar;&rpar; ignores the sign of integer seeds](https://www.reddit.com/r/Python/comments/1pi7aso/til_pythons_randomseed_ignores_the_sign_of/)
 <!-- BLOG-POST-LIST:END -->
