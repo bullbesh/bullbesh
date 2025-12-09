@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finished My Agentic RAG Tutorial - Everything in Python, Fully Local](https://www.reddit.com/r/Python/comments/1picui1/finished_my_agentic_rag_tutorial_everything_in/)
+- [Python Excel Dynamic Arrays](https://www.reddit.com/r/Python/comments/1pic1yk/python_excel_dynamic_arrays/)
 - [How Pyrefly Works With Pydantic &lpar;Video&rpar;](https://www.reddit.com/r/Python/comments/1piabju/how_pyrefly_works_with_pydantic_video/)
 - [TIL Python’s random.seed&lpar;&rpar; ignores the sign of integer seeds](https://www.reddit.com/r/Python/comments/1pi7aso/til_pythons_randomseed_ignores_the_sign_of/)
 - [Template repo with uv, ruff, pyright, pytest &lpar;with TDD support&rpar; + CI and QoL Makefile](https://www.reddit.com/r/Python/comments/1pi4rmg/template_repo_with_uv_ruff_pyright_pytest_with/)
-- [The Biggest of All Time Phrase Counter - A Tiny RewindOS Prototype](https://www.reddit.com/r/Python/comments/1phxas7/the_biggest_of_all_time_phrase_counter_a_tiny/)
-- [Fenix v2.0 — Local-first, multi-agent algorithmic crypto trading &lpar;LangGraph, ReasoningBank, Ollama +](https://www.reddit.com/r/Python/comments/1phtuks/fenix_v20_localfirst_multiagent_algorithmic/)
 <!-- BLOG-POST-LIST:END -->
