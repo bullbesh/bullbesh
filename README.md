@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [We open-sourced 3 Python packages for shipping production apps in days instead of months](https://www.reddit.com/r/Python/comments/1pj5hh4/we_opensourced_3_python_packages_for_shipping/)
-- [I built a memory-efficient CLI tool to understand Generators properly. Feedback welcome!](https://www.reddit.com/r/Python/comments/1pj4ml6/i_built_a_memoryefficient_cli_tool_to_understand/)
-- [pq-age: age-compatible encryption with hybrid post-quantum ML-KEM + X25519](https://www.reddit.com/r/Python/comments/1pj3xcu/pqage_agecompatible_encryption_with_hybrid/)
-- [Where’s the line between learning and copying in Python?”](https://www.reddit.com/r/Python/comments/1pj14hc/wheres_the_line_between_learning_and_copying_in/)
-- [why AI is best for python ?](https://www.reddit.com/r/Python/comments/1pivn8y/why_ai_is_best_for_python/)
+- [Embar: an ORM for Python, strongly typed, SQL-esque, inspired by Drizzle](https://www.reddit.com/r/Python/comments/1pj6im3/embar_an_orm_for_python_strongly_typed_sqlesque/)
+- [We open-sourced 3 packages after getting tired of rewriting auth, jobs, and webhooks for every proje](https://www.reddit.com/r/Python/comments/1pj6f4e/we_opensourced_3_packages_after_getting_tired_of/)
+- [FastAPI Lifespan Events: The Right Way to Handle Startup &amp; Shutdown](https://www.reddit.com/r/Python/comments/1pj6cz6/fastapi_lifespan_events_the_right_way_to_handle/)
+- [Embedding folium choropleth map](https://www.reddit.com/r/Python/comments/1pj603w/embedding_folium_choropleth_map/)
+- [Introducing Serif: a zero-dependency, vector-first data library for Python](https://www.reddit.com/r/Python/comments/1pj5wdb/introducing_serif_a_zerodependency_vectorfirst/)
 <!-- BLOG-POST-LIST:END -->
