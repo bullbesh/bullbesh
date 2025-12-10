@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Roadmap for AIML from scratch !!](https://www.reddit.com/r/Python/comments/1piwygn/a_roadmap_for_aiml_from_scratch/)
 - [why AI is best for python ?](https://www.reddit.com/r/Python/comments/1pivn8y/why_ai_is_best_for_python/)
 - [DTOs or classes with objects and methods](https://www.reddit.com/r/Python/comments/1piug7a/dtos_or_classes_with_objects_and_methods/)
 - [Metacode: The new standard for machine-readable comments for Python](https://www.reddit.com/r/Python/comments/1pilhi2/metacode_the_new_standard_for_machinereadable/)
 - [What is the marker of a project root for uv to create the .venv there?](https://www.reddit.com/r/Python/comments/1pij98g/what_is_the_marker_of_a_project_root_for_uv_to/)
-- [Tasks Managements, Test Runner, Documentation Hub and Time Tracking VSCode/Cursor Extension](https://www.reddit.com/r/Python/comments/1piiyzr/tasks_managements_test_runner_documentation_hub/)
 <!-- BLOG-POST-LIST:END -->
