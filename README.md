@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [We open-sourced 3 Python packages for shipping production apps in days instead of months](https://www.reddit.com/r/Python/comments/1pj5hh4/we_opensourced_3_python_packages_for_shipping/)
+- [I built a memory-efficient CLI tool to understand Generators properly. Feedback welcome!](https://www.reddit.com/r/Python/comments/1pj4ml6/i_built_a_memoryefficient_cli_tool_to_understand/)
 - [pq-age: age-compatible encryption with hybrid post-quantum ML-KEM + X25519](https://www.reddit.com/r/Python/comments/1pj3xcu/pqage_agecompatible_encryption_with_hybrid/)
 - [Where’s the line between learning and copying in Python?”](https://www.reddit.com/r/Python/comments/1pj14hc/wheres_the_line_between_learning_and_copying_in/)
 - [why AI is best for python ?](https://www.reddit.com/r/Python/comments/1pivn8y/why_ai_is_best_for_python/)
-- [DTOs or classes with objects and methods](https://www.reddit.com/r/Python/comments/1piug7a/dtos_or_classes_with_objects_and_methods/)
-- [Frist: Property base age, calendar windows and business calendar ages/windows using properties.](https://www.reddit.com/r/Python/comments/1pilirz/frist_property_base_age_calendar_windows_and/)
 <!-- BLOG-POST-LIST:END -->
