@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hi for my carrer. What should i do](https://www.reddit.com/r/Python/comments/1pjpevz/hi_for_my_carrer_what_should_i_do/)
 - [I built a unified API for Ins/TikTok/Twitter/Facebook/LinkedIn – same interface for all platforms](https://www.reddit.com/r/Python/comments/1pjo9s2/i_built_a_unified_api_for/)
 - [Python tool to quickly create a nicely animated .gif out of an .stl for communicating ideas wout cad](https://www.reddit.com/r/Python/comments/1pjklha/python_tool_to_quickly_create_a_nicely_animated/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1pjisyw/thursday_daily_thread_python_careers_courses_and/)
 - [I built a Recursive Math Crawler &lpar;crawl4ai&rpar; with a Weighted BM25 search engine](https://www.reddit.com/r/Python/comments/1pjd210/i_built_a_recursive_math_crawler_crawl4ai_with_a/)
-- [Python script to make Resume from YAML](https://www.reddit.com/r/Python/comments/1pjbmwd/python_script_to_make_resume_from_yaml/)
 <!-- BLOG-POST-LIST:END -->
