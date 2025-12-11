@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turn any long webpage/document into one infinite vertical screenshot](https://www.reddit.com/r/Python/comments/1pju0d0/turn_any_long_webpagedocument_into_one_infinite/)
+- [Built a package to audit my data warehouse tables](https://www.reddit.com/r/Python/comments/1pjtfn2/built_a_package_to_audit_my_data_warehouse_tables/)
 - [Хочу повторить команды. Помогите](https://www.reddit.com/r/Python/comments/1pjs23q/хочу_повторить_команды_помогите/)
 - [Python Podcasts &amp; Conference Talks &lpar;week 50, 2025&rpar;](https://www.reddit.com/r/Python/comments/1pjqp11/python_podcasts_conference_talks_week_50_2025/)
 - [Hi for my carrer. What should i do](https://www.reddit.com/r/Python/comments/1pjpevz/hi_for_my_carrer_what_should_i_do/)
-- [I built a unified API for Ins/TikTok/Twitter/Facebook/LinkedIn – same interface for all platforms](https://www.reddit.com/r/Python/comments/1pjo9s2/i_built_a_unified_api_for/)
-- [Python tool to quickly create a nicely animated .gif out of an .stl for communicating ideas wout cad](https://www.reddit.com/r/Python/comments/1pjklha/python_tool_to_quickly_create_a_nicely_animated/)
 <!-- BLOG-POST-LIST:END -->
