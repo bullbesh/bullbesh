@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just created a css utility class generator for my admin panel](https://www.reddit.com/r/Python/comments/1pk6ij4/just_created_a_css_utility_class_generator_for_my/)
+- [Just had the weirdest bug today](https://www.reddit.com/r/Python/comments/1pk5hnv/just_had_the_weirdest_bug_today/)
+- [I built a layered configuration library for Python](https://www.reddit.com/r/Python/comments/1pk4nnh/i_built_a_layered_configuration_library_for_python/)
 - [mkvDB - A tiny key-value store wrapper around MongoDB](https://www.reddit.com/r/Python/comments/1pk11us/mkvdb_a_tiny_keyvalue_store_wrapper_around_mongodb/)
 - [With Numba/NoGIL and LLMs, is the performance trade-off for compiled languages still worth it?](https://www.reddit.com/r/Python/comments/1pjxxd7/with_numbanogil_and_llms_is_the_performance/)
-- [Has writing matplot code been completely off-shored to AI?](https://www.reddit.com/r/Python/comments/1pjvo3v/has_writing_matplot_code_been_completely/)
-- [Turn any long webpage/document into one infinite vertical screenshot](https://www.reddit.com/r/Python/comments/1pju0d0/turn_any_long_webpagedocument_into_one_infinite/)
-- [Built a package to audit my data warehouse tables](https://www.reddit.com/r/Python/comments/1pjtfn2/built_a_package_to_audit_my_data_warehouse_tables/)
 <!-- BLOG-POST-LIST:END -->
