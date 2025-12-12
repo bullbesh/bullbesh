@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Thiele Machine: Pure Python demo beats quantum on CHSH. S=3.2&gt;2.828 Coq-verified](https://www.reddit.com/r/Python/comments/1pkrqtm/thiele_machine_pure_python_demo_beats_quantum_on/)
 - [A Python tool to diagnose how functions behave when inputs are missing &lpar;None / NaN&rpar;](https://www.reddit.com/r/Python/comments/1pkqz8u/a_python_tool_to_diagnose_how_functions_behave/)
-- [I created a 6 hour free tutorial on building your own regex engine from scratch using Python](https://www.reddit.com/r/Python/comments/1pkqura/i_created_a_6_hour_free_tutorial_on_building_your/)
 - [[Project] RedLightDL v2.1:Video Downloader &lpar;Python Core + C#/JS UI&rpar;. Now supports GUI, CLI, and API](https://www.reddit.com/r/Python/comments/1pkqga1/project_redlightdl_v21video_downloader_python/)
 - [Maan: A Real-Time Collaborative Coding Platform Built with Python](https://www.reddit.com/r/Python/comments/1pkqfm1/maan_a_realtime_collaborative_coding_platform/)
+- [I built JobHelper to stop manually managing Slurm job](https://www.reddit.com/r/Python/comments/1pkpdbg/i_built_jobhelper_to_stop_manually_managing_slurm/)
 <!-- BLOG-POST-LIST:END -->
