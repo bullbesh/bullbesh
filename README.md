@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built JobHelper to stop manually managing Slurm job](https://www.reddit.com/r/Python/comments/1pkpdbg/i_built_jobhelper_to_stop_manually_managing_slurm/)
+- [Python version 𝛑](https://www.reddit.com/r/Python/comments/1pkp8m8/python_version_𝛑/)
 - [Drop SQLite: Ship Postgres in your Python App with Zero External Dependencies &lpar;pg0 - embedded pg&rpar;](https://www.reddit.com/r/Python/comments/1pko75x/drop_sqlite_ship_postgres_in_your_python_app_with/)
 - [From Excel to python transition](https://www.reddit.com/r/Python/comments/1pknn99/from_excel_to_python_transition/)
 - [Democratizing Python: a transpiler for non‑English communities &lpar;and for kids&rpar;](https://www.reddit.com/r/Python/comments/1pkk4ff/democratizing_python_a_transpiler_for_nonenglish/)
-- [FIXED - SSL connection broken, certificate verification error, unable to get local issuer certificat](https://www.reddit.com/r/Python/comments/1pkewoj/fixed_ssl_connection_broken_certificate/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1pkd3is/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
