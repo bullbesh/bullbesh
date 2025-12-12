@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Drop SQLite: Ship Postgres in your Python App with Zero External Dependencies &lpar;pg0 - embedded pg&rpar;](https://www.reddit.com/r/Python/comments/1pko75x/drop_sqlite_ship_postgres_in_your_python_app_with/)
 - [From Excel to python transition](https://www.reddit.com/r/Python/comments/1pknn99/from_excel_to_python_transition/)
 - [Democratizing Python: a transpiler for non‑English communities &lpar;and for kids&rpar;](https://www.reddit.com/r/Python/comments/1pkk4ff/democratizing_python_a_transpiler_for_nonenglish/)
 - [FIXED - SSL connection broken, certificate verification error, unable to get local issuer certificat](https://www.reddit.com/r/Python/comments/1pkewoj/fixed_ssl_connection_broken_certificate/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1pkd3is/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Just published a code similarity tool to PyPI](https://www.reddit.com/r/Python/comments/1pk9sm8/just_published_a_code_similarity_tool_to_pypi/)
 <!-- BLOG-POST-LIST:END -->
