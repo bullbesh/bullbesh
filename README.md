@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Python tool to diagnose how functions behave when inputs are missing &lpar;None / NaN&rpar;](https://www.reddit.com/r/Python/comments/1pkqz8u/a_python_tool_to_diagnose_how_functions_behave/)
+- [I created a 6 hour free tutorial on building your own regex engine from scratch using Python](https://www.reddit.com/r/Python/comments/1pkqura/i_created_a_6_hour_free_tutorial_on_building_your/)
+- [[Project] RedLightDL v2.1:Video Downloader &lpar;Python Core + C#/JS UI&rpar;. Now supports GUI, CLI, and API](https://www.reddit.com/r/Python/comments/1pkqga1/project_redlightdl_v21video_downloader_python/)
+- [Maan: A Real-Time Collaborative Coding Platform Built with Python](https://www.reddit.com/r/Python/comments/1pkqfm1/maan_a_realtime_collaborative_coding_platform/)
 - [I built JobHelper to stop manually managing Slurm job](https://www.reddit.com/r/Python/comments/1pkpdbg/i_built_jobhelper_to_stop_manually_managing_slurm/)
-- [Python version 𝛑](https://www.reddit.com/r/Python/comments/1pkp8m8/python_version_𝛑/)
-- [Drop SQLite: Ship Postgres in your Python App with Zero External Dependencies &lpar;pg0 - embedded pg&rpar;](https://www.reddit.com/r/Python/comments/1pko75x/drop_sqlite_ship_postgres_in_your_python_app_with/)
-- [From Excel to python transition](https://www.reddit.com/r/Python/comments/1pknn99/from_excel_to_python_transition/)
-- [Democratizing Python: a transpiler for non‑English communities &lpar;and for kids&rpar;](https://www.reddit.com/r/Python/comments/1pkk4ff/democratizing_python_a_transpiler_for_nonenglish/)
 <!-- BLOG-POST-LIST:END -->
