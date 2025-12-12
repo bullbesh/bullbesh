@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [FIXED - SSL connection broken, certificate verification error, unable to get local issuer certificat](https://www.reddit.com/r/Python/comments/1pkewoj/fixed_ssl_connection_broken_certificate/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1pkd3is/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Just published a code similarity tool to PyPI](https://www.reddit.com/r/Python/comments/1pk9sm8/just_published_a_code_similarity_tool_to_pypi/)
 - [Pygame in 3D. Discussion on the topic](https://www.reddit.com/r/Python/comments/1pk9rz3/pygame_in_3d_discussion_on_the_topic/)
 - [Boredom is killing me](https://www.reddit.com/r/Python/comments/1pk9p46/boredom_is_killing_me/)
-- [Just created a css utility class generator for my admin panel](https://www.reddit.com/r/Python/comments/1pk6ij4/just_created_a_css_utility_class_generator_for_my/)
-- [Just had the weirdest bug today](https://www.reddit.com/r/Python/comments/1pk5hnv/just_had_the_weirdest_bug_today/)
 <!-- BLOG-POST-LIST:END -->
