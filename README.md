@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python scraper for Valorant stats from VLR.gg &lpar;career or tournament-based&rpar;](https://www.reddit.com/r/Python/comments/1pl8o0v/python_scraper_for_valorant_stats_from_vlrgg/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1pl76y8/saturday_daily_thread_resource_request_and/)
+- [I kept bouncing between GUI frameworks and Electron, so I tried building something in between](https://www.reddit.com/r/Python/comments/1pl76qm/i_kept_bouncing_between_gui_frameworks_and/)
 - [PyPulsar — a Python-based Electron-like framework for desktop apps](https://www.reddit.com/r/Python/comments/1pl2qso/pypulsar_a_pythonbased_electronlike_framework_for/)
 - [pyTuber - a super fast YT downloader](https://www.reddit.com/r/Python/comments/1pl14ol/pytuber_a_super_fast_yt_downloader/)
-- [Open-sourcing my “boring auth” defaults for FastAPI services](https://www.reddit.com/r/Python/comments/1pkto7d/opensourcing_my_boring_auth_defaults_for_fastapi/)
-- [How much typing is Pythonic?](https://www.reddit.com/r/Python/comments/1pkt94z/how_much_typing_is_pythonic/)
-- [Thiele Machine: Pure Python demo beats quantum on CHSH. S=3.2&gt;2.828 Coq-verified](https://www.reddit.com/r/Python/comments/1pkrqtm/thiele_machine_pure_python_demo_beats_quantum_on/)
 <!-- BLOG-POST-LIST:END -->
