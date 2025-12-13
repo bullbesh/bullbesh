@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What do you use python mainly for? what are stuffs you have built using that?](https://www.reddit.com/r/Python/comments/1pleikn/what_do_you_use_python_mainly_for_what_are_stuffs/)
 - [Python scraper for Valorant stats from VLR.gg &lpar;career or tournament-based&rpar;](https://www.reddit.com/r/Python/comments/1pl8o0v/python_scraper_for_valorant_stats_from_vlrgg/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1pl76y8/saturday_daily_thread_resource_request_and/)
 - [I kept bouncing between GUI frameworks and Electron, so I tried building something in between](https://www.reddit.com/r/Python/comments/1pl76qm/i_kept_bouncing_between_gui_frameworks_and/)
 - [PyPulsar — a Python-based Electron-like framework for desktop apps](https://www.reddit.com/r/Python/comments/1pl2qso/pypulsar_a_pythonbased_electronlike_framework_for/)
-- [pyTuber - a super fast YT downloader](https://www.reddit.com/r/Python/comments/1pl14ol/pytuber_a_super_fast_yt_downloader/)
 <!-- BLOG-POST-LIST:END -->
