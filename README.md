@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Showcase] Hyperparameter — a small CLI + runtime config layer for Python functions](https://www.reddit.com/r/Python/comments/1pmhq3d/showcase_hyperparameter_a_small_cli_runtime/)
 - [n8n vs Nyno for Python Code Execution: The Benchmarks and why Nyno is much faster.](https://www.reddit.com/r/Python/comments/1pmf2n8/n8n_vs_nyno_for_python_code_execution_the/)
 - [Made a tool to easily generate single executable for every platforms without system dependencies](https://www.reddit.com/r/Python/comments/1pmeuiv/made_a_tool_to_easily_generate_single_executable/)
 - [Maintaining a separate async API](https://www.reddit.com/r/Python/comments/1pme2nx/maintaining_a_separate_async_api/)
 - [The Geminids Meteors &amp; The active Asteroids Phaethon - space science coding](https://www.reddit.com/r/Python/comments/1pmdshy/the_geminids_meteors_the_active_asteroids/)
-- [I made a small Selenium wrapper to reduce bot detection](https://www.reddit.com/r/Python/comments/1pmc71t/i_made_a_small_selenium_wrapper_to_reduce_bot/)
 <!-- BLOG-POST-LIST:END -->
