@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Maintaining a separate async API](https://www.reddit.com/r/Python/comments/1pme2nx/maintaining_a_separate_async_api/)
+- [The Geminids Meteors &amp; The active Asteroids Phaethon - space science coding](https://www.reddit.com/r/Python/comments/1pmdshy/the_geminids_meteors_the_active_asteroids/)
 - [I made a small Selenium wrapper to reduce bot detection](https://www.reddit.com/r/Python/comments/1pmc71t/i_made_a_small_selenium_wrapper_to_reduce_bot/)
 - [None vs falsy: a deliberately explicit Python check](https://www.reddit.com/r/Python/comments/1pmc2pm/none_vs_falsy_a_deliberately_explicit_python_check/)
 - [Pydantic-DeepAgents: Autonomous Agents with Planning, File Ops, and More in Python](https://www.reddit.com/r/Python/comments/1pm6pu5/pydanticdeepagents_autonomous_agents_with/)
-- [Implemented 17 Agentic Architectures in a Simpler way](https://www.reddit.com/r/Python/comments/1pm4qsu/implemented_17_agentic_architectures_in_a_simpler/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1plzvku/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
