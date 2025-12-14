@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does anyone else spend more time writing equations than solving them?](https://www.reddit.com/r/Python/comments/1pmpqra/does_anyone_else_spend_more_time_writing/)
 - [🚀 Introducing MacToast: Modern, customizable toast notifications for MacOS!](https://www.reddit.com/r/Python/comments/1pmlq1r/introducing_mactoast_modern_customizable_toast/)
 - [I built a small CLI tool to understand and safely upgrade Python dependencies](https://www.reddit.com/r/Python/comments/1pmj7c7/i_built_a_small_cli_tool_to_understand_and_safely/)
 - [[Showcase] Hyperparameter — a small CLI + runtime config layer for Python functions](https://www.reddit.com/r/Python/comments/1pmhq3d/showcase_hyperparameter_a_small_cli_runtime/)
 - [n8n vs Nyno for Python Code Execution: The Benchmarks and why Nyno is much faster.](https://www.reddit.com/r/Python/comments/1pmf2n8/n8n_vs_nyno_for_python_code_execution_the/)
-- [Made a tool to easily generate single executable for every platforms without system dependencies](https://www.reddit.com/r/Python/comments/1pmeuiv/made_a_tool_to_easily_generate_single_executable/)
 <!-- BLOG-POST-LIST:END -->
