@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sharing my Python packages in case they can be useful to you](https://www.reddit.com/r/Python/comments/1pmz30b/sharing_my_python_packages_in_case_they_can_be/)
 - [Any good platform to practise python form the beginning](https://www.reddit.com/r/Python/comments/1pmvctx/any_good_platform_to_practise_python_form_the/)
 - [im making a webview from scratch](https://www.reddit.com/r/Python/comments/1pmt128/im_making_a_webview_from_scratch/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1pmt0u0/monday_daily_thread_project_ideas/)
 - [Released dataclass-wizard 0.36.0: v1 dumpers, new DataclassWizard class, and performance cleanup](https://www.reddit.com/r/Python/comments/1pmsj0n/released_dataclasswizard_0360_v1_dumpers_new/)
-- [Does anyone else spend more time writing equations than solving them?](https://www.reddit.com/r/Python/comments/1pmpqra/does_anyone_else_spend_more_time_writing/)
 <!-- BLOG-POST-LIST:END -->
