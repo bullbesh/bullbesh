@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Sharing my Python packages in case they can be useful to you](https://www.reddit.com/r/Python/comments/1pmz30b/sharing_my_python_packages_in_case_they_can_be/)
-- [Any good platform to practise python form the beginning](https://www.reddit.com/r/Python/comments/1pmvctx/any_good_platform_to_practise_python_form_the/)
-- [im making a webview from scratch](https://www.reddit.com/r/Python/comments/1pmt128/im_making_a_webview_from_scratch/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1pmt0u0/monday_daily_thread_project_ideas/)
-- [Released dataclass-wizard 0.36.0: v1 dumpers, new DataclassWizard class, and performance cleanup](https://www.reddit.com/r/Python/comments/1pmsj0n/released_dataclasswizard_0360_v1_dumpers_new/)
+- [Kreuzberg v4.0.0-rc.8 is available](https://www.reddit.com/r/Python/comments/1pn2a3t/kreuzberg_v400rc8_is_available/)
+- [I made an application that keeps track your personal information &lpar;names, contacts, education&rpar;](https://www.reddit.com/r/Python/comments/1pn207n/i_made_an_application_that_keeps_track_your/)
+- [I made a simple and useful image conversion and compression desktop application](https://www.reddit.com/r/Python/comments/1pn1kqe/i_made_a_simple_and_useful_image_conversion_and/)
+- [Resources to practice NumPy, Pandas &amp; PyTorch problems](https://www.reddit.com/r/Python/comments/1pn1kni/resources_to_practice_numpy_pandas_pytorch/)
+- [random ass python code &lpar;ai generated&rpar;](https://www.reddit.com/r/Python/comments/1pn1j6m/random_ass_python_code_ai_generated/)
 <!-- BLOG-POST-LIST:END -->
