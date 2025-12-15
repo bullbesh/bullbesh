@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a local only double-entry accounting app using PySimpleGUI and SQLite.](https://www.reddit.com/r/Python/comments/1pn6epk/i_wrote_a_local_only_doubleentry_accounting_app/)
+- [My First C Extension](https://www.reddit.com/r/Python/comments/1pn51h1/my_first_c_extension/)
 - [Python Threads: GIL vs Free-Threading](https://www.reddit.com/r/Python/comments/1pn3nwu/python_threads_gil_vs_freethreading/)
 - [Kreuzberg v4.0.0-rc.8 is available](https://www.reddit.com/r/Python/comments/1pn2a3t/kreuzberg_v400rc8_is_available/)
 - [I made an application that keeps track your personal information &lpar;names, contacts, education&rpar;](https://www.reddit.com/r/Python/comments/1pn207n/i_made_an_application_that_keeps_track_your/)
-- [I made a simple and useful image conversion and compression desktop application](https://www.reddit.com/r/Python/comments/1pn1kqe/i_made_a_simple_and_useful_image_conversion_and/)
-- [Resources to practice NumPy, Pandas &amp; PyTorch problems](https://www.reddit.com/r/Python/comments/1pn1kni/resources_to_practice_numpy_pandas_pytorch/)
 <!-- BLOG-POST-LIST:END -->
