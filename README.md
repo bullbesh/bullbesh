@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [PyPI funding campaign - python is for everyone, apart from maybe white men](https://www.reddit.com/r/Python/comments/1pnklkz/pypi_funding_campaign_python_is_for_everyone/)
 - [I built PyGHA: Write GitHub Actions in Python, not YAML &lpar;Type-safe CI/CD&rpar;](https://www.reddit.com/r/Python/comments/1pni2se/i_built_pygha_write_github_actions_in_python_not/)
 - [I built my first open source project, a Desktop GUI for the Pixela habit tracker using Python &amp; CTk](https://www.reddit.com/r/Python/comments/1pnglwg/i_built_my_first_open_source_project_a_desktop/)
 - [prime-uve: External venv management for uv](https://www.reddit.com/r/Python/comments/1png7vr/primeuve_external_venv_management_for_uv/)
 - [I built a TUI to visualize RAG chunking algorithms using Textual &lpar;supports custom strategies&rpar;](https://www.reddit.com/r/Python/comments/1pnccx3/i_built_a_tui_to_visualize_rag_chunking/)
+- [Building the Fastest Python CI](https://www.reddit.com/r/Python/comments/1pnbze0/building_the_fastest_python_ci/)
 <!-- BLOG-POST-LIST:END -->
