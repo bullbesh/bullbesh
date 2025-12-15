@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [PSET - A tiny encryption tool for your personal data](https://www.reddit.com/r/Python/comments/1pms0gb/pset_a_tiny_encryption_tool_for_your_personal_data/)
+- [Any good platform to practise python form the beginning](https://www.reddit.com/r/Python/comments/1pmvctx/any_good_platform_to_practise_python_form_the/)
+- [im making a webview from scratch](https://www.reddit.com/r/Python/comments/1pmt128/im_making_a_webview_from_scratch/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1pmt0u0/monday_daily_thread_project_ideas/)
+- [Released dataclass-wizard 0.36.0: v1 dumpers, new DataclassWizard class, and performance cleanup](https://www.reddit.com/r/Python/comments/1pmsj0n/released_dataclasswizard_0360_v1_dumpers_new/)
 - [Does anyone else spend more time writing equations than solving them?](https://www.reddit.com/r/Python/comments/1pmpqra/does_anyone_else_spend_more_time_writing/)
-- [🚀 Introducing MacToast: Modern, customizable toast notifications for MacOS!](https://www.reddit.com/r/Python/comments/1pmlq1r/introducing_mactoast_modern_customizable_toast/)
-- [I built a small CLI tool to understand and safely upgrade Python dependencies](https://www.reddit.com/r/Python/comments/1pmj7c7/i_built_a_small_cli_tool_to_understand_and_safely/)
-- [[Showcase] Hyperparameter — a small CLI + runtime config layer for Python functions](https://www.reddit.com/r/Python/comments/1pmhq3d/showcase_hyperparameter_a_small_cli_runtime/)
 <!-- BLOG-POST-LIST:END -->
