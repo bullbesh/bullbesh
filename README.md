@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building the Fastest Python CI](https://www.reddit.com/r/Python/comments/1pnbze0/building_the_fastest_python_ci/)
 - [Looking for mainteiners in a project based on subsonic api/navidrome](https://www.reddit.com/r/Python/comments/1pn94nb/looking_for_mainteiners_in_a_project_based_on/)
 - [I build my first open source project](https://www.reddit.com/r/Python/comments/1pn8nke/i_build_my_first_open_source_project/)
 - [I wrote a local only double-entry accounting app using PySimpleGUI and SQLite.](https://www.reddit.com/r/Python/comments/1pn6epk/i_wrote_a_local_only_doubleentry_accounting_app/)
 - [My First C Extension](https://www.reddit.com/r/Python/comments/1pn51h1/my_first_c_extension/)
-- [Python Threads: GIL vs Free-Threading](https://www.reddit.com/r/Python/comments/1pn3nwu/python_threads_gil_vs_freethreading/)
 <!-- BLOG-POST-LIST:END -->
