@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🖥️ How the Python Runner Web Template Works, 🌐 What Is the Python Runner...](https://www.reddit.com/r/Python/comments/1po3x6b/how_the_python_runner_web_template_works_what_is/)
+- [Hindsight: Python OSS Memory for AI Agents - SOTA &lpar;91.4% on LongMemEval&rpar;](https://www.reddit.com/r/Python/comments/1po3kev/hindsight_python_oss_memory_for_ai_agents_sota/)
+- [Fly through data validation with Pyrefly’s new Pydantic integration](https://www.reddit.com/r/Python/comments/1po3kbe/fly_through_data_validation_with_pyreflys_new/)
+- [Wingfoil-Python-get the ultra-low latency data streaming performance of Rust while working in Python](https://www.reddit.com/r/Python/comments/1po37y2/wingfoilpythonget_the_ultralow_latency_data/)
 - [Tool for splitting sports highlight videos into individual clips](https://www.reddit.com/r/Python/comments/1pnznd9/tool_for_splitting_sports_highlight_videos_into/)
-- [[P] Built semantic PDF search with sentence-transformers + DuckDB - benchmarked chunking approaches](https://www.reddit.com/r/Python/comments/1pnvuhf/p_built_semantic_pdf_search_with/)
-- [I&#39;ve got a USB receipt printer, looking for some fun scripts to run on it](https://www.reddit.com/r/Python/comments/1pnq8rc/ive_got_a_usb_receipt_printer_looking_for_some/)
-- [Introducing ker-parser: A lightweight Python parser for .ker config files](https://www.reddit.com/r/Python/comments/1pno3ak/introducing_kerparser_a_lightweight_python_parser/)
-- [Why don&#39;t `dataclasses` or `attrs` derive from a base class?](https://www.reddit.com/r/Python/comments/1pnne6l/why_dont_dataclasses_or_attrs_derive_from_a_base/)
 <!-- BLOG-POST-LIST:END -->
