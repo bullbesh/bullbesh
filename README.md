@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [🖥️ How the Python Runner Web Template Works, 🌐 What Is the Python Runner...](https://www.reddit.com/r/Python/comments/1po3x6b/how_the_python_runner_web_template_works_what_is/)
+- [I built an Open Source MCP Server &lpar;Graph RAG&rpar; for Deterministic Code Analysis](https://www.reddit.com/r/Python/comments/1po5be7/i_built_an_open_source_mcp_server_graph_rag_for/)
 - [Hindsight: Python OSS Memory for AI Agents - SOTA &lpar;91.4% on LongMemEval&rpar;](https://www.reddit.com/r/Python/comments/1po3kev/hindsight_python_oss_memory_for_ai_agents_sota/)
 - [Fly through data validation with Pyrefly’s new Pydantic integration](https://www.reddit.com/r/Python/comments/1po3kbe/fly_through_data_validation_with_pyreflys_new/)
 - [Wingfoil-Python-get the ultra-low latency data streaming performance of Rust while working in Python](https://www.reddit.com/r/Python/comments/1po37y2/wingfoilpythonget_the_ultralow_latency_data/)
