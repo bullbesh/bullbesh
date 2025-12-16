@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;ve got a USB receipt printer, looking for some fun scripts to run on it](https://www.reddit.com/r/Python/comments/1pnq8rc/ive_got_a_usb_receipt_printer_looking_for_some/)
 - [Introducing ker-parser: A lightweight Python parser for .ker config files](https://www.reddit.com/r/Python/comments/1pno3ak/introducing_kerparser_a_lightweight_python_parser/)
 - [Why don&#39;t `dataclasses` or `attrs` derive from a base class?](https://www.reddit.com/r/Python/comments/1pnne6l/why_dont_dataclasses_or_attrs_derive_from_a_base/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1pnn7xm/tuesday_daily_thread_advanced_questions/)
 - [I built PyGHA: Write GitHub Actions in Python, not YAML &lpar;Type-safe CI/CD&rpar;](https://www.reddit.com/r/Python/comments/1pni2se/i_built_pygha_write_github_actions_in_python_not/)
-- [I built my first open source project, a Desktop GUI for the Pixela habit tracker using Python &amp; CTk](https://www.reddit.com/r/Python/comments/1pnglwg/i_built_my_first_open_source_project_a_desktop/)
 <!-- BLOG-POST-LIST:END -->
