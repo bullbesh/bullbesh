@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp Wrapped with Polars &amp; Plotly: Analyze chat history locally](https://www.reddit.com/r/Python/comments/1po9n17/whatsapp_wrapped_with_polars_plotly_analyze_chat/)
 - [I built an Open Source MCP Server &lpar;Graph RAG&rpar; for Deterministic Code Analysis](https://www.reddit.com/r/Python/comments/1po5be7/i_built_an_open_source_mcp_server_graph_rag_for/)
 - [Hindsight: Python OSS Memory for AI Agents - SOTA &lpar;91.4% on LongMemEval&rpar;](https://www.reddit.com/r/Python/comments/1po3kev/hindsight_python_oss_memory_for_ai_agents_sota/)
 - [Fly through data validation with Pyrefly’s new Pydantic integration](https://www.reddit.com/r/Python/comments/1po3kbe/fly_through_data_validation_with_pyreflys_new/)
 - [Wingfoil-Python-get the ultra-low latency data streaming performance of Rust while working in Python](https://www.reddit.com/r/Python/comments/1po37y2/wingfoilpythonget_the_ultralow_latency_data/)
-- [Tool for splitting sports highlight videos into individual clips](https://www.reddit.com/r/Python/comments/1pnznd9/tool_for_splitting_sports_highlight_videos_into/)
 <!-- BLOG-POST-LIST:END -->
