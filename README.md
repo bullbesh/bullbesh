@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made my “default FastAPI stack” into a package because I was tired of rewriting it](https://www.reddit.com/r/Python/comments/1poyyn2/i_made_my_default_fastapi_stack_into_a_package/)
 - [Rust and OCaml-style exhaustive error and None handling for Python](https://www.reddit.com/r/Python/comments/1povyby/rust_and_ocamlstyle_exhaustive_error_and_none/)
 - [I built a lazygit-style SQL client TUI with Textual](https://www.reddit.com/r/Python/comments/1pouds2/i_built_a_lazygitstyle_sql_client_tui_with_textual/)
 - [UI dashboard tool for tracking updates to your development stack](https://www.reddit.com/r/Python/comments/1porokb/ui_dashboard_tool_for_tracking_updates_to_your/)
 - [Spark can spill to disk why do OOM errors still happen](https://www.reddit.com/r/Python/comments/1poqgba/spark_can_spill_to_disk_why_do_oom_errors_still/)
-- [Netrun Systems releases 10 Open Source interconnected Python packages for FastAPI](https://www.reddit.com/r/Python/comments/1pok6jr/netrun_systems_releases_10_open_source/)
 <!-- BLOG-POST-LIST:END -->
