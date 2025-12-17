@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Podcasts &amp; Conference Talks &lpar;week 51, 2025&rpar;](https://www.reddit.com/r/Python/comments/1pp3i0g/python_podcasts_conference_talks_week_51_2025/)
+- [High-performance Wavelet Matrix for Python &lpar;Rust backend&rpar;](https://www.reddit.com/r/Python/comments/1pp6d2k/highperformance_wavelet_matrix_for_python_rust/)
 - [Any sites that I can used to make API requests for the positions of planets in the solar system](https://www.reddit.com/r/Python/comments/1pp0bzi/any_sites_that_i_can_used_to_make_api_requests/)
 - [I built a wrapper to standardize Local and S3 storage operations &lpar;rsync sync, dry-runs, ignore file&rpar;](https://www.reddit.com/r/Python/comments/1pp08bo/i_built_a_wrapper_to_standardize_local_and_s3/)
 - [Resources for OOPS in python](https://www.reddit.com/r/Python/comments/1poznrh/resources_for_oops_in_python/)
