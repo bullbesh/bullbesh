@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Netrun Systems releases 10 Open Source interconnected Python packages for FastAPI](https://www.reddit.com/r/Python/comments/1pok6jr/netrun_systems_releases_10_open_source/)
+- [Interesting or innovative Python tools/libs you’ve started using recently](https://www.reddit.com/r/Python/comments/1pojsm0/interesting_or_innovative_python_toolslibs_youve/)
+- [Best approach for background job workers in a puzzle generation app?](https://www.reddit.com/r/Python/comments/1pojd6d/best_approach_for_background_job_workers_in_a/)
+- [I made FastAPI Clean CLI – Production-ready scaffolding with Clean Architecture](https://www.reddit.com/r/Python/comments/1poh525/i_made_fastapi_clean_cli_productionready/)
 - [NES Zelda Walking Tour](https://www.reddit.com/r/Python/comments/1poea1w/nes_zelda_walking_tour/)
-- [Beta release of ty - an extremely fast Python type checker and language server](https://www.reddit.com/r/Python/comments/1podix2/beta_release_of_ty_an_extremely_fast_python_type/)
-- [PyPulsar v0.1.2 released — CLI plugin management, multi-window support, and plugin registry](https://www.reddit.com/r/Python/comments/1pocgeh/pypulsar_v012_released_cli_plugin_management/)
-- [My experimantal procedural 2d noise generator](https://www.reddit.com/r/Python/comments/1poahct/my_experimantal_procedural_2d_noise_generator/)
-- [WhatsApp Wrapped with Polars &amp; Plotly: Analyze chat history locally](https://www.reddit.com/r/Python/comments/1po9n17/whatsapp_wrapped_with_polars_plotly_analyze_chat/)
 <!-- BLOG-POST-LIST:END -->
