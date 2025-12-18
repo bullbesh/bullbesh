@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are some free uwsgi alternatives that have a similar set of features?](https://www.reddit.com/r/Python/comments/1ppov9c/what_are_some_free_uwsgi_alternatives_that_have_a/)
 - [What do you guys think of this block of codes?](https://www.reddit.com/r/Python/comments/1ppnmnj/what_do_you_guys_think_of_this_block_of_codes/)
 - [Hey! Maybe I&#39;m stupid but can you personalize your python?](https://www.reddit.com/r/Python/comments/1ppn4fk/hey_maybe_im_stupid_but_can_you_personalize_your/)
 - [I built an AI vs. AI Cyber Range. The Attacker learned to bypass my &quot;Honey Tokens&quot; in 5 rounds.](https://www.reddit.com/r/Python/comments/1ppmqm6/i_built_an_ai_vs_ai_cyber_range_the_attacker/)
 - [Released datasetiq: Python client for millions of economic datasets – pandas-ready](https://www.reddit.com/r/Python/comments/1ppgd7n/released_datasetiq_python_client_for_millions_of/)
-- [Introducing KeyNeg MCP Server: The first general-purpose sentiment analysis tool for your agents.](https://www.reddit.com/r/Python/comments/1ppg6c6/introducing_keyneg_mcp_server_the_first/)
 <!-- BLOG-POST-LIST:END -->
