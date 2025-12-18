@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Every Python Feature Explained](https://www.reddit.com/r/Python/comments/1ppvvqp/every_python_feature_explained/)
-- [Call Teams Translator](https://www.reddit.com/r/Python/comments/1ppuk72/call_teams_translator/)
 - [Top Python Libraries of 2025 &lpar;11th Edition&rpar;](https://www.reddit.com/r/Python/comments/1pptnyc/top_python_libraries_of_2025_11th_edition/)
 - [I implemented a complete automation setup &lpar;invoicing, secure downloads, emails&rpar; on a simple shared h](https://www.reddit.com/r/Python/comments/1ppt7ub/i_implemented_a_complete_automation_setup/)
 - [Clean Architecture with Python • Sam Keen &amp; Max Kirchoff](https://www.reddit.com/r/Python/comments/1pprsg3/clean_architecture_with_python_sam_keen_max/)
+- [NobodyWho: the simplest way to run local LLMs in python](https://www.reddit.com/r/Python/comments/1ppqz7m/nobodywho_the_simplest_way_to_run_local_llms_in/)
 <!-- BLOG-POST-LIST:END -->
