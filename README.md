@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing a new python library OYEMI and Oyemi-mcp For AI agent](https://www.reddit.com/r/Python/comments/1pqb6dh/introducing_a_new_python_library_oyemi_and/)
 - [Possible to build a drone on Python/MicroPython?](https://www.reddit.com/r/Python/comments/1pq6ejq/possible_to_build_a_drone_on_pythonmicropython/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1pq6egw/friday_daily_thread_rpython_meta_and_freetalk/)
 - [What if there was a Python CLI tool to automate workflows](https://www.reddit.com/r/Python/comments/1pq47cv/what_if_there_was_a_python_cli_tool_to_automate/)
-- [Every Python Feature Explained](https://www.reddit.com/r/Python/comments/1ppvvqp/every_python_feature_explained/)
 - [Top Python Libraries of 2025 &lpar;11th Edition&rpar;](https://www.reddit.com/r/Python/comments/1pptnyc/top_python_libraries_of_2025_11th_edition/)
 <!-- BLOG-POST-LIST:END -->
