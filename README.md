@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [uv update recommendations](https://www.reddit.com/r/Python/comments/1pqyzse/uv_update_recommendations/)
 - [We have str.format&lpar;&rpar;, so where is str.template&lpar;&rpar;?](https://www.reddit.com/r/Python/comments/1pqvzq1/we_have_strformat_so_where_is_strtemplate/)
 - [Helix — I built an AI mock API server because I&#39;m lazy &lpar;and json-server wasn&#39;t cutting it&rpar;](https://www.reddit.com/r/Python/comments/1pquzqp/helix_i_built_an_ai_mock_api_server_because_im/)
 - [Would you use this instead of Electron for a real project? &lpar;Python desktop GUI&rpar;](https://www.reddit.com/r/Python/comments/1pqu2wu/would_you_use_this_instead_of_electron_for_a_real/)
 - [Accelerating Tree-Based Models in SQL with Orbital](https://www.reddit.com/r/Python/comments/1pqnxm5/accelerating_treebased_models_in_sql_with_orbital/)
-- [[Project] I built a privacy-first Data Cleaning engine using Polars LazyFrame and FAISS. 100% Local](https://www.reddit.com/r/Python/comments/1pqmfku/project_i_built_a_privacyfirst_data_cleaning/)
 <!-- BLOG-POST-LIST:END -->
