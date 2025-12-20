@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [VAT &lpar;UID Stufe 2&rpar; Check via Finanz Online Webservices &lpar;Austria&rpar;](https://www.reddit.com/r/Python/comments/1proywi/vat_uid_stufe_2_check_via_finanz_online/)
+- [Django Test Manager – A VS Code extension that brings a full test runner experience to Django.](https://www.reddit.com/r/Python/comments/1prj82s/django_test_manager_a_vs_code_extension_that/)
 - [Internship &lpar;Bachelors Degree&rpar;](https://www.reddit.com/r/Python/comments/1pri95o/internship_bachelors_degree/)
 - [Monkey Patching is hell. So I built a Mixin/Harmony-style Runtime AST Injector for Python.](https://www.reddit.com/r/Python/comments/1prf4zd/monkey_patching_is_hell_so_i_built_a/)
 - [fdir: Command-line utility to list, filter, and sort files in a directory.](https://www.reddit.com/r/Python/comments/1prf1ko/fdir_commandline_utility_to_list_filter_and_sort/)
-- [Vrdndi: A local context-aware productivity-focused recommendation system](https://www.reddit.com/r/Python/comments/1prdst8/vrdndi_a_local_contextaware_productivityfocused/)
-- [[Project] Pyrium – A Server-Side Meta-Loader &amp; VM: Script your server in Python](https://www.reddit.com/r/Python/comments/1prasf0/project_pyrium_a_serverside_metaloader_vm_script/)
 <!-- BLOG-POST-LIST:END -->
