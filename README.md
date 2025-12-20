@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The offline geo-coder we all wanted](https://www.reddit.com/r/Python/comments/1pr3bih/the_offline_geocoder_we_all_wanted/)
+- [Migration guide from mypy to yy](https://www.reddit.com/r/Python/comments/1pr2ucc/migration_guide_from_mypy_to_yy/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1pr052n/saturday_daily_thread_resource_request_and/)
 - [uv update recommendations](https://www.reddit.com/r/Python/comments/1pqyzse/uv_update_recommendations/)
 - [We have str.format&lpar;&rpar;, so where is str.template&lpar;&rpar;?](https://www.reddit.com/r/Python/comments/1pqvzq1/we_have_strformat_so_where_is_strtemplate/)
-- [Helix — I built an AI mock API server because I&#39;m lazy &lpar;and json-server wasn&#39;t cutting it&rpar;](https://www.reddit.com/r/Python/comments/1pquzqp/helix_i_built_an_ai_mock_api_server_because_im/)
-- [Would you use this instead of Electron for a real project? &lpar;Python desktop GUI&rpar;](https://www.reddit.com/r/Python/comments/1pqu2wu/would_you_use_this_instead_of_electron_for_a_real/)
 <!-- BLOG-POST-LIST:END -->
