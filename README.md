@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Chameleon Cache - A variance-aware cache replacement policy that adapts to your workload](https://www.reddit.com/r/Python/comments/1psd5md/chameleon_cache_a_varianceaware_cache_replacement/)
+- [[Project] Misata: An open source hybrid synthetic data engine &lpar;LLM + Vectorized NumPy&rpar;](https://www.reddit.com/r/Python/comments/1pscs0a/project_misata_an_open_source_hybrid_synthetic/)
+- [rug 0.13.0 released](https://www.reddit.com/r/Python/comments/1psbzod/rug_0130_released/)
 - [I built a terminal-native SQL playground to understand DBMS internals better](https://www.reddit.com/r/Python/comments/1psb6fh/i_built_a_terminalnative_sql_playground_to/)
 - [I built a Python bytecode decompiler covering Python 1.0–3.14, runs on Node.js](https://www.reddit.com/r/Python/comments/1psab2c/i_built_a_python_bytecode_decompiler_covering/)
-- [What&#39;s stopping us from having full static validation of Python code?](https://www.reddit.com/r/Python/comments/1ps7gs4/whats_stopping_us_from_having_full_static/)
-- [How far into a learning project do you go](https://www.reddit.com/r/Python/comments/1ps39bq/how_far_into_a_learning_project_do_you_go/)
-- [I built a desktop app with Python&#39;s &quot;batteries included&quot; - Tkinter, SQLite, and minor soldering](https://www.reddit.com/r/Python/comments/1ps1ab5/i_built_a_desktop_app_with_pythons_batteries/)
 <!-- BLOG-POST-LIST:END -->
