@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1prshdx/sunday_daily_thread_whats_everyone_working_on/)
+- [I will pay you 50$cad to make this program work on my pc.](https://www.reddit.com/r/Python/comments/1prryda/i_will_pay_you_50cad_to_make_this_program_work_on/)
+- [Solving SettingWithCopyWarning](https://www.reddit.com/r/Python/comments/1prrpmh/solving_settingwithcopywarning/)
 - [yk your sleepy af when...](https://www.reddit.com/r/Python/comments/1prqh48/yk_your_sleepy_af_when/)
 - [VAT &lpar;UID Stufe 2&rpar; Check via Finanz Online Webservices &lpar;Austria&rpar;](https://www.reddit.com/r/Python/comments/1proywi/vat_uid_stufe_2_check_via_finanz_online/)
-- [Django Test Manager – A VS Code extension that brings a full test runner experience to Django.](https://www.reddit.com/r/Python/comments/1prj82s/django_test_manager_a_vs_code_extension_that/)
-- [Internship &lpar;Bachelors Degree&rpar;](https://www.reddit.com/r/Python/comments/1pri95o/internship_bachelors_degree/)
-- [Monkey Patching is hell. So I built a Mixin/Harmony-style Runtime AST Injector for Python.](https://www.reddit.com/r/Python/comments/1prf4zd/monkey_patching_is_hell_so_i_built_a/)
 <!-- BLOG-POST-LIST:END -->
