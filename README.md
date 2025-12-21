@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a Python bytecode decompiler covering Python 1.0–3.14, runs on Node.js](https://www.reddit.com/r/Python/comments/1psab2c/i_built_a_python_bytecode_decompiler_covering/)
 - [What&#39;s stopping us from having full static validation of Python code?](https://www.reddit.com/r/Python/comments/1ps7gs4/whats_stopping_us_from_having_full_static/)
 - [How far into a learning project do you go](https://www.reddit.com/r/Python/comments/1ps39bq/how_far_into_a_learning_project_do_you_go/)
 - [I built a desktop app with Python&#39;s &quot;batteries included&quot; - Tkinter, SQLite, and minor soldering](https://www.reddit.com/r/Python/comments/1ps1ab5/i_built_a_desktop_app_with_pythons_batteries/)
 - [The resume-aware LinkedIn job applier I wanted](https://www.reddit.com/r/Python/comments/1ps0aku/the_resumeaware_linkedin_job_applier_i_wanted/)
-- [Showcase: Full-Stack FastAPI + Next.js Template for AI/LLM Apps – Production-Ready Generator with 20](https://www.reddit.com/r/Python/comments/1prxad8/showcase_fullstack_fastapi_nextjs_template_for/)
 <!-- BLOG-POST-LIST:END -->
