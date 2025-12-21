@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The resume-aware LinkedIn job applier I wanted](https://www.reddit.com/r/Python/comments/1ps0aku/the_resumeaware_linkedin_job_applier_i_wanted/)
 - [Showcase: Full-Stack FastAPI + Next.js Template for AI/LLM Apps – Production-Ready Generator with 20](https://www.reddit.com/r/Python/comments/1prxad8/showcase_fullstack_fastapi_nextjs_template_for/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1prshdx/sunday_daily_thread_whats_everyone_working_on/)
 - [I will pay you 50$cad to make this program work on my pc.](https://www.reddit.com/r/Python/comments/1prryda/i_will_pay_you_50cad_to_make_this_program_work_on/)
 - [Solving SettingWithCopyWarning](https://www.reddit.com/r/Python/comments/1prrpmh/solving_settingwithcopywarning/)
-- [yk your sleepy af when...](https://www.reddit.com/r/Python/comments/1prqh48/yk_your_sleepy_af_when/)
 <!-- BLOG-POST-LIST:END -->
