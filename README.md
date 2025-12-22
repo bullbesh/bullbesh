@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a small Python library to make simulations reproducible and audit-ready](https://www.reddit.com/r/Python/comments/1psvsrq/i_built_a_small_python_library_to_make/)
+- [[Showcase] fastapi-fullstack v0.1.6 – Python-centric full-stack AI template with multi-LLM providers](https://www.reddit.com/r/Python/comments/1psvivm/showcase_fastapifullstack_v016_pythoncentric/)
 - [Spikard v0.5.0 Released](https://www.reddit.com/r/Python/comments/1psv340/spikard_v050_released/)
 - [What is the coolest/ most interesting thing you have built with the use of LLMs?](https://www.reddit.com/r/Python/comments/1psq1de/what_is_the_coolest_most_interesting_thing_you/)
 - [[Project] RAX-HES – A branch-free execution model for ultra-fast, deterministic VMs](https://www.reddit.com/r/Python/comments/1pslvex/project_raxhes_a_branchfree_execution_model_for/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1pskzo4/monday_daily_thread_project_ideas/)
-- [aiologic &amp; culsans: a way to make multithreaded asyncio safe](https://www.reddit.com/r/Python/comments/1psjsnu/aiologic_culsans_a_way_to_make_multithreaded/)
 <!-- BLOG-POST-LIST:END -->
