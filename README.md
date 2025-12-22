@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Project] RAX-HES – A branch-free execution model for ultra-fast, deterministic VMs](https://www.reddit.com/r/Python/comments/1pslvex/project_raxhes_a_branchfree_execution_model_for/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1pskzo4/monday_daily_thread_project_ideas/)
+- [aiologic &amp; culsans: a way to make multithreaded asyncio safe](https://www.reddit.com/r/Python/comments/1psjsnu/aiologic_culsans_a_way_to_make_multithreaded/)
 - [Stinkiest code you&#39;ve ever written?](https://www.reddit.com/r/Python/comments/1psekfi/stinkiest_code_youve_ever_written/)
 - [Best Python Frontend Library 2026?](https://www.reddit.com/r/Python/comments/1pse64e/best_python_frontend_library_2026/)
-- [Chameleon Cache - A variance-aware cache replacement policy that adapts to your workload](https://www.reddit.com/r/Python/comments/1psd5md/chameleon_cache_a_varianceaware_cache_replacement/)
-- [[Project] Misata: An open source hybrid synthetic data engine &lpar;LLM + Vectorized NumPy&rpar;](https://www.reddit.com/r/Python/comments/1pscs0a/project_misata_an_open_source_hybrid_synthetic/)
-- [rug 0.13.0 released](https://www.reddit.com/r/Python/comments/1psbzod/rug_0130_released/)
 <!-- BLOG-POST-LIST:END -->
