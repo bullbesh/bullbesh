@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why does my price always gets smaller?](https://www.reddit.com/r/Python/comments/1ptboo4/why_does_my_price_always_gets_smaller/)
 - [What’s the slowest Python script you’re dealing with right now?](https://www.reddit.com/r/Python/comments/1pta1k7/whats_the_slowest_python_script_youre_dealing/)
 - [An easy way to break an email or url into its component parts: Pyrolysate](https://www.reddit.com/r/Python/comments/1pt8h37/an_easy_way_to_break_an_email_or_url_into_its/)
 - [Built a terminal-based encrypted vault in Python &lpar;learning project&rpar;: PassFX](https://www.reddit.com/r/Python/comments/1pt6be5/built_a_terminalbased_encrypted_vault_in_python/)
 - [Looking for a collaborators for a side project](https://www.reddit.com/r/Python/comments/1pt40u3/looking_for_a_collaborators_for_a_side_project/)
-- [RepoAnalyzer &lpar; A Github Project - with Python Code &rpar;](https://www.reddit.com/r/Python/comments/1pt2cqu/repoanalyzer_a_github_project_with_python_code/)
 <!-- BLOG-POST-LIST:END -->
