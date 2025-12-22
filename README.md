@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Servy 4.3 released, Turn any Python app into a native Windows service](https://www.reddit.com/r/Python/comments/1psxub1/servy_43_released_turn_any_python_app_into_a/)
 - [pyreqwest: An extremely fast, GIL-free, feature-rich HTTP client for Python, fully written in Rust](https://www.reddit.com/r/Python/comments/1pswh1o/pyreqwest_an_extremely_fast_gilfree_featurerich/)
 - [I built a small Python library to make simulations reproducible and audit-ready](https://www.reddit.com/r/Python/comments/1psvsrq/i_built_a_small_python_library_to_make/)
 - [[Showcase] fastapi-fullstack v0.1.6 – Python-centric full-stack AI template with multi-LLM providers](https://www.reddit.com/r/Python/comments/1psvivm/showcase_fastapifullstack_v016_pythoncentric/)
 - [Spikard v0.5.0 Released](https://www.reddit.com/r/Python/comments/1psv340/spikard_v050_released/)
-- [What is the coolest/ most interesting thing you have built with the use of LLMs?](https://www.reddit.com/r/Python/comments/1psq1de/what_is_the_coolest_most_interesting_thing_you/)
 <!-- BLOG-POST-LIST:END -->
