@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Zero Knowledge Key Manager](https://www.reddit.com/r/Python/comments/1pt6mz1/zero_knowledge_key_manager/)
+- [I built a lightweight Windows file search utility with Python](https://www.reddit.com/r/Python/comments/1pt8axs/i_built_a_lightweight_windows_file_search_utility/)
 - [Built a terminal-based encrypted vault in Python &lpar;learning project&rpar;: PassFX](https://www.reddit.com/r/Python/comments/1pt6be5/built_a_terminalbased_encrypted_vault_in_python/)
 - [Looking for a collaborators for a side project](https://www.reddit.com/r/Python/comments/1pt40u3/looking_for_a_collaborators_for_a_side_project/)
 - [RepoAnalyzer &lpar; A Github Project - with Python Code &rpar;](https://www.reddit.com/r/Python/comments/1pt2cqu/repoanalyzer_a_github_project_with_python_code/)
