@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [I released my first PyPI package: CineCLI &lpar;Typer-based CLI movie browser&rpar;](https://www.reddit.com/r/Python/comments/1ptl7xs/i_released_my_first_pypi_package_cinecli/)
 - [Cordon: find log anomalies by semantic meaning, not keyword matching](https://www.reddit.com/r/Python/comments/1ptkec1/cordon_find_log_anomalies_by_semantic_meaning_not/)
-- [STOP USING FREECODINGTOOLS.ORG!](https://www.reddit.com/r/Python/comments/1ptjb52/stop_using_freecodingtoolsorg/)
 - [Skylos — find unused code + basic security smells + quality issues, runs in pre-commit](https://www.reddit.com/r/Python/comments/1pthg7m/skylos_find_unused_code_basic_security_smells/)
 - [Job Market For Remote Engine/Python Developer](https://www.reddit.com/r/Python/comments/1ptgbbu/job_market_for_remote_enginepython_developer/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ptf3gn/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
