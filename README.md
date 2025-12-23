@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [iceoryx2 v0.8 released](https://www.reddit.com/r/Python/comments/1ptyyiw/iceoryx2_v08_released/)
 - [khaos – simulating Kafka traffic and failure scenarios via CLI](https://www.reddit.com/r/Python/comments/1ptr126/khaos_simulating_kafka_traffic_and_failure/)
-- [I released my first PyPI package: CineCLI &lpar;Typer-based CLI movie browser&rpar;](https://www.reddit.com/r/Python/comments/1ptl7xs/i_released_my_first_pypi_package_cinecli/)
 - [Cordon: find log anomalies by semantic meaning, not keyword matching](https://www.reddit.com/r/Python/comments/1ptkec1/cordon_find_log_anomalies_by_semantic_meaning_not/)
 - [Skylos — find unused code + basic security smells + quality issues, runs in pre-commit](https://www.reddit.com/r/Python/comments/1pthg7m/skylos_find_unused_code_basic_security_smells/)
 - [Job Market For Remote Engine/Python Developer](https://www.reddit.com/r/Python/comments/1ptgbbu/job_market_for_remote_enginepython_developer/)
