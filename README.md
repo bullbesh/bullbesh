@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Skylos — find unused code + basic security smells + quality issues, runs in pre-commit](https://www.reddit.com/r/Python/comments/1pthg7m/skylos_find_unused_code_basic_security_smells/)
+- [[Project] HardFlow — a Python‑native execution model that compiles programs into hardware](https://www.reddit.com/r/Python/comments/1ptgrmy/project_hardflow_a_pythonnative_execution_model/)
+- [Job Market For Remote Engine/Python Developer](https://www.reddit.com/r/Python/comments/1ptgbbu/job_market_for_remote_enginepython_developer/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ptf3gn/tuesday_daily_thread_advanced_questions/)
 - [Why does my price always gets smaller?](https://www.reddit.com/r/Python/comments/1ptboo4/why_does_my_price_always_gets_smaller/)
-- [What’s the slowest Python script you’re dealing with right now?](https://www.reddit.com/r/Python/comments/1pta1k7/whats_the_slowest_python_script_youre_dealing/)
-- [An easy way to break an email or url into its component parts: Pyrolysate](https://www.reddit.com/r/Python/comments/1pt8h37/an_easy_way_to_break_an_email_or_url_into_its/)
-- [Built a terminal-based encrypted vault in Python &lpar;learning project&rpar;: PassFX](https://www.reddit.com/r/Python/comments/1pt6be5/built_a_terminalbased_encrypted_vault_in_python/)
-- [Looking for a collaborators for a side project](https://www.reddit.com/r/Python/comments/1pt40u3/looking_for_a_collaborators_for_a_side_project/)
 <!-- BLOG-POST-LIST:END -->
