@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I created a script that processes 100 million nodes in 3 minutes](https://www.reddit.com/r/Python/comments/1puqz3f/i_created_a_script_that_processes_100_million/)
+- [Detect memory leaks of C extensions with psutil + psleak](https://www.reddit.com/r/Python/comments/1puqgfg/detect_memory_leaks_of_c_extensions_with_psutil/)
 - [Bundling reusable Python scripts with Anthropic Skills for data cleaning](https://www.reddit.com/r/Python/comments/1pupkcr/bundling_reusable_python_scripts_with_anthropic/)
 - [Anyone Pyqt5 developer here ?](https://www.reddit.com/r/Python/comments/1pun1iz/anyone_pyqt5_developer_here/)
-- [telegram bot parser](https://www.reddit.com/r/Python/comments/1pulnsg/telegram_bot_parser/)
 - [Developing a materials engineering software, am I being unrealistic?](https://www.reddit.com/r/Python/comments/1pub2f3/developing_a_materials_engineering_software_am_i/)
-- [Built a molecule generator using PyTorch : Chempleter](https://www.reddit.com/r/Python/comments/1puap2b/built_a_molecule_generator_using_pytorch/)
 <!-- BLOG-POST-LIST:END -->
