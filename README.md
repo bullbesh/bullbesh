@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Developing a materials engineering software, am I being unrealistic?](https://www.reddit.com/r/Python/comments/1pub2f3/developing_a_materials_engineering_software_am_i/)
+- [Built a molecule generator using PyTorch : Chempleter](https://www.reddit.com/r/Python/comments/1puap2b/built_a_molecule_generator_using_pytorch/)
 - [Supabase vs Neon vs PlanetScale](https://www.reddit.com/r/Python/comments/1pu6aj2/supabase_vs_neon_vs_planetscale/)
 - [Built a small Python tool to automate Laravel project setup](https://www.reddit.com/r/Python/comments/1pu5ykz/built_a_small_python_tool_to_automate_laravel/)
 - [iceoryx2 v0.8 released](https://www.reddit.com/r/Python/comments/1ptyyiw/iceoryx2_v08_released/)
-- [khaos – simulating Kafka traffic and failure scenarios via CLI](https://www.reddit.com/r/Python/comments/1ptr126/khaos_simulating_kafka_traffic_and_failure/)
-- [Cordon: find log anomalies by semantic meaning, not keyword matching](https://www.reddit.com/r/Python/comments/1ptkec1/cordon_find_log_anomalies_by_semantic_meaning_not/)
 <!-- BLOG-POST-LIST:END -->
