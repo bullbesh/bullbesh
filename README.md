@@ -11,6 +11,6 @@
 - [Mesa 3.4.0: Agent-based modeling; now with universal time tracking and improved reproducibility!](https://www.reddit.com/r/Python/comments/1puriem/mesa_340_agentbased_modeling_now_with_universal/)
 - [Detect memory leaks of C extensions with psutil + psleak](https://www.reddit.com/r/Python/comments/1puqgfg/detect_memory_leaks_of_c_extensions_with_psutil/)
 - [Bundling reusable Python scripts with Anthropic Skills for data cleaning](https://www.reddit.com/r/Python/comments/1pupkcr/bundling_reusable_python_scripts_with_anthropic/)
-- [Anyone Pyqt5 developer here ?](https://www.reddit.com/r/Python/comments/1pun1iz/anyone_pyqt5_developer_here/)
-- [Developing a materials engineering software, am I being unrealistic?](https://www.reddit.com/r/Python/comments/1pub2f3/developing_a_materials_engineering_software_am_i/)
+- [Built a molecule generator using PyTorch : Chempleter](https://www.reddit.com/r/Python/comments/1puap2b/built_a_molecule_generator_using_pytorch/)
+- [Built a small Python tool to automate Laravel project setup](https://www.reddit.com/r/Python/comments/1pu5ykz/built_a_small_python_tool_to_automate_laravel/)
 <!-- BLOG-POST-LIST:END -->
