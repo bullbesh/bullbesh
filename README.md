@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bundling reusable Python scripts with Anthropic Skills for data cleaning](https://www.reddit.com/r/Python/comments/1pupkcr/bundling_reusable_python_scripts_with_anthropic/)
 - [Anyone Pyqt5 developer here ?](https://www.reddit.com/r/Python/comments/1pun1iz/anyone_pyqt5_developer_here/)
 - [telegram bot parser](https://www.reddit.com/r/Python/comments/1pulnsg/telegram_bot_parser/)
 - [Developing a materials engineering software, am I being unrealistic?](https://www.reddit.com/r/Python/comments/1pub2f3/developing_a_materials_engineering_software_am_i/)
 - [Built a molecule generator using PyTorch : Chempleter](https://www.reddit.com/r/Python/comments/1puap2b/built_a_molecule_generator_using_pytorch/)
-- [Supabase vs Neon vs PlanetScale](https://www.reddit.com/r/Python/comments/1pu6aj2/supabase_vs_neon_vs_planetscale/)
 <!-- BLOG-POST-LIST:END -->
