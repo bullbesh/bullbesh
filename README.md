@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I created a script that processes 100 million nodes in 3 minutes](https://www.reddit.com/r/Python/comments/1puqz3f/i_created_a_script_that_processes_100_million/)
+- [Mesa 3.4.0: Agent-based modeling; now with universal time tracking and improved reproducibility!](https://www.reddit.com/r/Python/comments/1puriem/mesa_340_agentbased_modeling_now_with_universal/)
 - [Detect memory leaks of C extensions with psutil + psleak](https://www.reddit.com/r/Python/comments/1puqgfg/detect_memory_leaks_of_c_extensions_with_psutil/)
 - [Bundling reusable Python scripts with Anthropic Skills for data cleaning](https://www.reddit.com/r/Python/comments/1pupkcr/bundling_reusable_python_scripts_with_anthropic/)
 - [Anyone Pyqt5 developer here ?](https://www.reddit.com/r/Python/comments/1pun1iz/anyone_pyqt5_developer_here/)
