@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [telegram bot parser](https://www.reddit.com/r/Python/comments/1pulnsg/telegram_bot_parser/)
 - [Developing a materials engineering software, am I being unrealistic?](https://www.reddit.com/r/Python/comments/1pub2f3/developing_a_materials_engineering_software_am_i/)
 - [Built a molecule generator using PyTorch : Chempleter](https://www.reddit.com/r/Python/comments/1puap2b/built_a_molecule_generator_using_pytorch/)
 - [Supabase vs Neon vs PlanetScale](https://www.reddit.com/r/Python/comments/1pu6aj2/supabase_vs_neon_vs_planetscale/)
 - [Built a small Python tool to automate Laravel project setup](https://www.reddit.com/r/Python/comments/1pu5ykz/built_a_small_python_tool_to_automate_laravel/)
-- [iceoryx2 v0.8 released](https://www.reddit.com/r/Python/comments/1ptyyiw/iceoryx2_v08_released/)
 <!-- BLOG-POST-LIST:END -->
