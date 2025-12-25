@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Windsurf plugin vs Sweep AI for larger Python projects](https://www.reddit.com/r/Python/comments/1pvl8lv/windsurf_plugin_vs_sweep_ai_for_larger_python/)
 - [I built a library that brings autocomplete back to pytest mocks](https://www.reddit.com/r/Python/comments/1pvbs25/i_built_a_library_that_brings_autocomplete_back/)
 - [Released new version of my python app: TidyBit. Now available on Microsoft Store and Snap Store](https://www.reddit.com/r/Python/comments/1pvb83i/released_new_version_of_my_python_app_tidybit_now/)
 - [Close Enough Code](https://www.reddit.com/r/Python/comments/1pv7i8x/close_enough_code/)
 - [Python and LifeAsia](https://www.reddit.com/r/Python/comments/1pv6dk2/python_and_lifeasia/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1pv0pkf/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
