@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [PyAsync - Async Without the Headache](https://www.reddit.com/r/Python/comments/1pv1x7v/pyasync_async_without_the_headache/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1pv0pkf/thursday_daily_thread_python_careers_courses_and/)
 - [Strutex – Extract structured JSON from PDFs/Excel/Images using LLMs](https://www.reddit.com/r/Python/comments/1pv0hnq/strutex_extract_structured_json_from/)
 - [Mesa 3.4.0: Agent-based modeling; now with universal time tracking and improved reproducibility!](https://www.reddit.com/r/Python/comments/1puriem/mesa_340_agentbased_modeling_now_with_universal/)
 - [Detect memory leaks of C extensions with psutil + psleak](https://www.reddit.com/r/Python/comments/1puqgfg/detect_memory_leaks_of_c_extensions_with_psutil/)
+- [Bundling reusable Python scripts with Anthropic Skills for data cleaning](https://www.reddit.com/r/Python/comments/1pupkcr/bundling_reusable_python_scripts_with_anthropic/)
 <!-- BLOG-POST-LIST:END -->
