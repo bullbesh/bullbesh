@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a library that brings autocomplete back to pytest mocks](https://www.reddit.com/r/Python/comments/1pvbs25/i_built_a_library_that_brings_autocomplete_back/)
 - [Released new version of my python app: TidyBit. Now available on Microsoft Store and Snap Store](https://www.reddit.com/r/Python/comments/1pvb83i/released_new_version_of_my_python_app_tidybit_now/)
 - [Close Enough Code](https://www.reddit.com/r/Python/comments/1pv7i8x/close_enough_code/)
 - [Python and LifeAsia](https://www.reddit.com/r/Python/comments/1pv6dk2/python_and_lifeasia/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1pv0pkf/thursday_daily_thread_python_careers_courses_and/)
-- [Strutex – Extract structured JSON from PDFs/Excel/Images using LLMs](https://www.reddit.com/r/Python/comments/1pv0hnq/strutex_extract_structured_json_from/)
 <!-- BLOG-POST-LIST:END -->
