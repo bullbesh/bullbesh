@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [yastrider: a small toolkit for string tidying and normalization](https://www.reddit.com/r/Python/comments/1pwexmp/yastrider_a_small_toolkit_for_string_tidying_and/)
+- [empathy-framework v3.3.0: Enterprise-ready AI workflows with formatted reports](https://www.reddit.com/r/Python/comments/1pwd01r/empathyframework_v330_enterpriseready_ai/)
 - [: “I have a Python scraper using Requests and BeautifulSoup that kept getting blocked by a target si](https://www.reddit.com/r/Python/comments/1pwbvu8/i_have_a_python_scraper_using_requests_and/)
 - [GPU-accelerated node editor for images with Python automation API](https://www.reddit.com/r/Python/comments/1pwbvi5/gpuaccelerated_node_editor_for_images_with_python/)
 - [Python-native text extraction from legacy and modern Office files &lpar;as found in Sharepoints&rpar;](https://www.reddit.com/r/Python/comments/1pwbhqf/pythonnative_text_extraction_from_legacy_and/)
-- [px: Immutable Python environments &lpar;alpha&rpar;](https://www.reddit.com/r/Python/comments/1pwatba/px_immutable_python_environments_alpha/)
-- [A tool to never worry about PIP again!](https://www.reddit.com/r/Python/comments/1pwai3p/a_tool_to_never_worry_about_pip_again/)
 <!-- BLOG-POST-LIST:END -->
