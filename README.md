@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beautiful reprs](https://www.reddit.com/r/Python/comments/1pw1ko7/beautiful_reprs/)
 - [I built a WebSocket stability helper for FastAPI + clients – fastapi-websocket-stabilizer](https://www.reddit.com/r/Python/comments/1pvymde/i_built_a_websocket_stability_helper_for_fastapi/)
 - [Idea of Python interpreter with seamlessly integrated type checker](https://www.reddit.com/r/Python/comments/1pvuwi5/idea_of_python_interpreter_with_seamlessly/)
 - [Built a small Python-based lead research project as a learning experiment](https://www.reddit.com/r/Python/comments/1pvqo56/built_a_small_pythonbased_lead_research_project/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1pvqd2b/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Best places to post Python articles and documentations?](https://www.reddit.com/r/Python/comments/1pvo1fe/best_places_to_post_python_articles_and/)
 <!-- BLOG-POST-LIST:END -->
