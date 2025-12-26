@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Idea of Python interpreter with seamlessly integrated type checker](https://www.reddit.com/r/Python/comments/1pvuwi5/idea_of_python_interpreter_with_seamlessly/)
+- [Built a small Python-based lead research project as a learning experiment](https://www.reddit.com/r/Python/comments/1pvqo56/built_a_small_pythonbased_lead_research_project/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1pvqd2b/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Best places to post Python articles and documentations?](https://www.reddit.com/r/Python/comments/1pvo1fe/best_places_to_post_python_articles_and/)
 - [I built a small thing to make IDs explainable, curious what others think :&rpar;](https://www.reddit.com/r/Python/comments/1pvnctn/i_built_a_small_thing_to_make_ids_explainable/)
-- [Windsurf plugin vs Sweep AI for larger Python projects](https://www.reddit.com/r/Python/comments/1pvl8lv/windsurf_plugin_vs_sweep_ai_for_larger_python/)
-- [I built a library that brings autocomplete back to pytest mocks](https://www.reddit.com/r/Python/comments/1pvbs25/i_built_a_library_that_brings_autocomplete_back/)
-- [Released new version of my python app: TidyBit. Now available on Microsoft Store and Snap Store](https://www.reddit.com/r/Python/comments/1pvb83i/released_new_version_of_my_python_app_tidybit_now/)
 <!-- BLOG-POST-LIST:END -->
