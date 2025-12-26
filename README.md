@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simulation source code - testable](https://www.reddit.com/r/Python/comments/1pw3m9k/simulation_source_code_testable/)
 - [PyCrucible - fast and robust PyInstaller alternative](https://www.reddit.com/r/Python/comments/1pw2vqv/pycrucible_fast_and_robust_pyinstaller_alternative/)
 - [Free-Threading Python vs Multiprocessing: Overhead, Memory, and the Shared-Set Meltdown](https://www.reddit.com/r/Python/comments/1pw2hve/freethreading_python_vs_multiprocessing_overhead/)
 - [PyCompyle – A raw Python compiler for building standalone executables](https://www.reddit.com/r/Python/comments/1pw2buf/pycompyle_a_raw_python_compiler_for_building/)
 - [Beautiful reprs](https://www.reddit.com/r/Python/comments/1pw1ko7/beautiful_reprs/)
-- [I built a WebSocket stability helper for FastAPI + clients – fastapi-websocket-stabilizer](https://www.reddit.com/r/Python/comments/1pvymde/i_built_a_websocket_stability_helper_for_fastapi/)
 <!-- BLOG-POST-LIST:END -->
