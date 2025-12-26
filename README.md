@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [px: Immutable Python environments &lpar;alpha&rpar;](https://www.reddit.com/r/Python/comments/1pwatba/px_immutable_python_environments_alpha/)
+- [A tool to never worry about PIP again!](https://www.reddit.com/r/Python/comments/1pwai3p/a_tool_to_never_worry_about_pip_again/)
+- [nyno 1.0.0 Release: Create Workflows with GUI, Run inside Any Python Project &lpar;Nyno Python Driver&rpar;](https://www.reddit.com/r/Python/comments/1pw9olb/nyno_100_release_create_workflows_with_gui_run/)
 - [I connected Claude to my local Obsidian and a custom Python tool using the new Docker MCP Toolkit](https://www.reddit.com/r/Python/comments/1pw9jct/i_connected_claude_to_my_local_obsidian_and_a/)
 - [I learned BFS and DFS from Grokking Algorithms and accidentally made a terminal maze generator](https://www.reddit.com/r/Python/comments/1pw7n4r/i_learned_bfs_and_dfs_from_grokking_algorithms/)
-- [I made a CLI to convert Markdown to GitHub-styled PDFs](https://www.reddit.com/r/Python/comments/1pw5s18/i_made_a_cli_to_convert_markdown_to_githubstyled/)
-- [vresto: Python toolkit for searching, downloading and analyzing Satellite Data](https://www.reddit.com/r/Python/comments/1pw4q8b/vresto_python_toolkit_for_searching_downloading/)
-- [PyCrucible - fast and robust PyInstaller alternative](https://www.reddit.com/r/Python/comments/1pw2vqv/pycrucible_fast_and_robust_pyinstaller_alternative/)
 <!-- BLOG-POST-LIST:END -->
