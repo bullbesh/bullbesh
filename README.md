@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Making Python GUIs faster?](https://www.reddit.com/r/Python/comments/1pwmvwo/making_python_guis_faster/)
 - [Chanx: Type-safe WebSocket framework for FastAPI &amp; Django](https://www.reddit.com/r/Python/comments/1pwlcht/chanx_typesafe_websocket_framework_for_fastapi/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1pwj260/saturday_daily_thread_resource_request_and/)
 - [yastrider: a small toolkit for string tidying and normalization](https://www.reddit.com/r/Python/comments/1pwexmp/yastrider_a_small_toolkit_for_string_tidying_and/)
 - [empathy-framework v3.3.0: Enterprise-ready AI workflows with formatted reports](https://www.reddit.com/r/Python/comments/1pwd01r/empathyframework_v330_enterpriseready_ai/)
-- [: “I have a Python scraper using Requests and BeautifulSoup that kept getting blocked by a target si](https://www.reddit.com/r/Python/comments/1pwbvu8/i_have_a_python_scraper_using_requests_and/)
 <!-- BLOG-POST-LIST:END -->
