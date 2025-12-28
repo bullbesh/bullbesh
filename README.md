@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Released: A modern replacement for PyAutoGUI](https://www.reddit.com/r/Python/comments/1py070g/released_a_modern_replacement_for_pyautogui/)
 - [Would this be useful for people distributing Python libraries? Looking for honest feedback](https://www.reddit.com/r/Python/comments/1pxyjjd/would_this_be_useful_for_people_distributing/)
 - [&quot;Why Python Is Removing The GIL&quot; &lpar;13.5 minutes by Core Dumped&rpar; -- good explainer on threads](https://www.reddit.com/r/Python/comments/1pxxket/why_python_is_removing_the_gil_135_minutes_by/)
 - [🧠🤓 Quiz time! Test your knowledge and hopefully learn something new...](https://www.reddit.com/r/Python/comments/1pxwylm/quiz_time_test_your_knowledge_and_hopefully_learn/)
 - [Infinite while loop in iterative flow calculation using Cantera &lpar;density / cp coupling&rpar;](https://www.reddit.com/r/Python/comments/1pxwhec/infinite_while_loop_in_iterative_flow_calculation/)
-- [I built a Python terminal tool with P2P sharing and GUI automation &lpar;v7.1&rpar;](https://www.reddit.com/r/Python/comments/1pxwdfe/i_built_a_python_terminal_tool_with_p2p_sharing/)
 <!-- BLOG-POST-LIST:END -->
