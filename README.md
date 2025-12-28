@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Strutex: A Python library for structured, schema-driven extraction from PDFs, Excel, and images](https://www.reddit.com/r/Python/comments/1pxtdd3/strutex_a_python_library_for_structured/)
-- [Control your PC with phone browser](https://www.reddit.com/r/Python/comments/1pxrfgh/control_your_pc_with_phone_browser/)
-- [My first Python project, a web scraping library with async support &lpar;EasyScrape v0.1.0&rpar;](https://www.reddit.com/r/Python/comments/1pxpano/my_first_python_project_a_web_scraping_library/)
-- [Pyrethrin now has a new feature - shields. There are three new shields for pandas, numpy and fastapi](https://www.reddit.com/r/Python/comments/1pxdykw/pyrethrin_now_has_a_new_feature_shields_there_are/)
-- [A side project that i think you may find useful as its open source](https://www.reddit.com/r/Python/comments/1pxdaf4/a_side_project_that_i_think_you_may_find_useful/)
+- [Infinite while loop in iterative flow calculation using Cantera &lpar;density / cp coupling&rpar;](https://www.reddit.com/r/Python/comments/1pxwhec/infinite_while_loop_in_iterative_flow_calculation/)
+- [I built a Python terminal tool with P2P sharing and GUI automation &lpar;v7.1&rpar;](https://www.reddit.com/r/Python/comments/1pxwdfe/i_built_a_python_terminal_tool_with_p2p_sharing/)
+- [Youtube to multi-media](https://www.reddit.com/r/Python/comments/1pxwda8/youtube_to_multimedia/)
+- [Has anyone built an audio-reactive lightshow using Python?](https://www.reddit.com/r/Python/comments/1pxw945/has_anyone_built_an_audioreactive_lightshow_using/)
+- [CytoScnPy: Python Dead Code Detection](https://www.reddit.com/r/Python/comments/1pxvo40/cytoscnpy_python_dead_code_detection/)
 <!-- BLOG-POST-LIST:END -->
