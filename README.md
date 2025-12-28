@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Compounding Engineering: Local-First DSPy Agent That Learns From Your Entire Codebase](https://www.reddit.com/r/Python/comments/1py5m43/compounding_engineering_localfirst_dspy_agent/)
+- [Intro to Bioinformatics with Python](https://www.reddit.com/r/Python/comments/1py53ra/intro_to_bioinformatics_with_python/)
 - [I can’t call a function before defining it and that feels like technology paternalism](https://www.reddit.com/r/Python/comments/1py358p/i_cant_call_a_function_before_defining_it_and/)
 - [Released: A modern replacement for PyAutoGUI](https://www.reddit.com/r/Python/comments/1py070g/released_a_modern_replacement_for_pyautogui/)
 - [Would this be useful for people distributing Python libraries? Looking for honest feedback](https://www.reddit.com/r/Python/comments/1pxyjjd/would_this_be_useful_for_people_distributing/)
-- [&quot;Why Python Is Removing The GIL&quot; &lpar;13.5 minutes by Core Dumped&rpar; -- good explainer on threads](https://www.reddit.com/r/Python/comments/1pxxket/why_python_is_removing_the_gil_135_minutes_by/)
-- [🧠🤓 Quiz time! Test your knowledge and hopefully learn something new...](https://www.reddit.com/r/Python/comments/1pxwylm/quiz_time_test_your_knowledge_and_hopefully_learn/)
 <!-- BLOG-POST-LIST:END -->
