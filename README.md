@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Strutex: A Python library for structured, schema-driven extraction from PDFs, Excel, and images](https://www.reddit.com/r/Python/comments/1pxtdd3/strutex_a_python_library_for_structured/)
 - [Control your PC with phone browser](https://www.reddit.com/r/Python/comments/1pxrfgh/control_your_pc_with_phone_browser/)
 - [My first Python project, a web scraping library with async support &lpar;EasyScrape v0.1.0&rpar;](https://www.reddit.com/r/Python/comments/1pxpano/my_first_python_project_a_web_scraping_library/)
 - [Pyrethrin now has a new feature - shields. There are three new shields for pandas, numpy and fastapi](https://www.reddit.com/r/Python/comments/1pxdykw/pyrethrin_now_has_a_new_feature_shields_there_are/)
 - [A side project that i think you may find useful as its open source](https://www.reddit.com/r/Python/comments/1pxdaf4/a_side_project_that_i_think_you_may_find_useful/)
-- [Why are not many more Projects using PyInstaller?](https://www.reddit.com/r/Python/comments/1pxd4hj/why_are_not_many_more_projects_using_pyinstaller/)
 <!-- BLOG-POST-LIST:END -->
