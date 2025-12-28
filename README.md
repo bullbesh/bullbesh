@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I build automation systems that save businesses time and scale operations 24/7](https://www.reddit.com/r/Python/comments/1pxenox/i_build_automation_systems_that_save_businesses/)
 - [Pyrethrin now has a new feature - shields. There are three new shields for pandas, numpy and fastapi](https://www.reddit.com/r/Python/comments/1pxdykw/pyrethrin_now_has_a_new_feature_shields_there_are/)
 - [A side project that i think you may find useful as its open source](https://www.reddit.com/r/Python/comments/1pxdaf4/a_side_project_that_i_think_you_may_find_useful/)
 - [Why are not many more Projects using PyInstaller?](https://www.reddit.com/r/Python/comments/1pxd4hj/why_are_not_many_more_projects_using_pyinstaller/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1pxck5u/sunday_daily_thread_whats_everyone_working_on/)
+- [Inspect and extract files from MSI installers directly in your browser with pymsi](https://www.reddit.com/r/Python/comments/1px67mn/inspect_and_extract_files_from_msi_installers/)
 <!-- BLOG-POST-LIST:END -->
