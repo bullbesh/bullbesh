@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Updates: DataSetIQ Python client for economic datasets now supports one-line feature engineering](https://www.reddit.com/r/Python/comments/1pyzqcm/updates_datasetiq_python_client_for_economic/)
 - [I built an automated Git documentation tool using Watchdog and Groq to maintain a &quot;flow state&quot; histo](https://www.reddit.com/r/Python/comments/1pyly13/i_built_an_automated_git_documentation_tool_using/)
 - [​I made a deterministic, 100% reversible Korean Romanization library &lpar;No dictionary, pure logic&rpar;](https://www.reddit.com/r/Python/comments/1pycqch/i_made_a_deterministic_100_reversible_korean/)
 - [What helped you actually understand Python internals &lpar;not just syntax&rpar;?](https://www.reddit.com/r/Python/comments/1pycfnm/what_helped_you_actually_understand_python/)
 - [The GIL Was Your Lock](https://www.reddit.com/r/Python/comments/1py9ctf/the_gil_was_your_lock/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1py6pez/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
