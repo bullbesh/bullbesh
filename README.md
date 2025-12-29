@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [​I made a deterministic, 100% reversible Korean Romanization library &lpar;No dictionary, pure logic&rpar;](https://www.reddit.com/r/Python/comments/1pycqch/i_made_a_deterministic_100_reversible_korean/)
+- [What helped you actually understand Python internals &lpar;not just syntax&rpar;?](https://www.reddit.com/r/Python/comments/1pycfnm/what_helped_you_actually_understand_python/)
 - [The GIL Was Your Lock](https://www.reddit.com/r/Python/comments/1py9ctf/the_gil_was_your_lock/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1py6pez/monday_daily_thread_project_ideas/)
 - [Compounding Engineering: Local-First DSPy Agent That Learns From Your Entire Codebase](https://www.reddit.com/r/Python/comments/1py5m43/compounding_engineering_localfirst_dspy_agent/)
-- [Intro to Bioinformatics with Python](https://www.reddit.com/r/Python/comments/1py53ra/intro_to_bioinformatics_with_python/)
-- [I can’t call a function before defining it and that feels like technology paternalism](https://www.reddit.com/r/Python/comments/1py358p/i_cant_call_a_function_before_defining_it_and/)
 <!-- BLOG-POST-LIST:END -->
