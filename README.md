@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your backend system in a few lines not thousands](https://www.reddit.com/r/Python/comments/1pzjuhf/your_backend_system_in_a_few_lines_not_thousands/)
 - [lic — a minimal Python CLI to generate LICENSE files cleanly &lpar;Homebrew release&rpar;](https://www.reddit.com/r/Python/comments/1pze5ro/lic_a_minimal_python_cli_to_generate_license/)
 - [[Update] Netrun FastAPI Building Blocks - 4 New Packages + RBAC v3 with Tenant Isolation Testing](https://www.reddit.com/r/Python/comments/1pz9stm/update_netrun_fastapi_building_blocks_4_new/)
 - [Email Bulk Attachment Downloader](https://www.reddit.com/r/Python/comments/1pz9pqf/email_bulk_attachment_downloader/)
 - [XR Play -- Desktop and VR video player written in python &lpar;+cuda&rpar;](https://www.reddit.com/r/Python/comments/1pz2wqm/xr_play_desktop_and_vr_video_player_written_in/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1pz2ibf/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
