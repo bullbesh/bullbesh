@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [critique on a small, boring LLM abstraction &lpar;alpha&rpar;](https://www.reddit.com/r/Python/comments/1pzpxux/critique_on_a_small_boring_llm_abstraction_alpha/)
+- [Is it bad practice to type-annotate every variable assignment?](https://www.reddit.com/r/Python/comments/1pzpsb0/is_it_bad_practice_to_typeannotate_every_variable/)
 - [Please explain what a modular system is.](https://www.reddit.com/r/Python/comments/1pzmxo3/please_explain_what_a_modular_system_is/)
 - [Made a tiny CLI to turn YAML or XML into JSON — figured someone else might find it handy](https://www.reddit.com/r/Python/comments/1pzm8tx/made_a_tiny_cli_to_turn_yaml_or_xml_into_json/)
 - [I created OrbitCopy a GUI interface to use ssh to copy files onto devices](https://www.reddit.com/r/Python/comments/1pzl05e/i_created_orbitcopy_a_gui_interface_to_use_ssh_to/)
-- [Your backend system in a few lines not thousands](https://www.reddit.com/r/Python/comments/1pzjuhf/your_backend_system_in_a_few_lines_not_thousands/)
-- [lic — a minimal Python CLI to generate LICENSE files cleanly &lpar;Homebrew release&rpar;](https://www.reddit.com/r/Python/comments/1pze5ro/lic_a_minimal_python_cli_to_generate_license/)
 <!-- BLOG-POST-LIST:END -->
