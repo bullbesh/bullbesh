@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Using lookalike search to analyze a person-recognition knowledge base &lpar;not just identify new images&rpar;](https://www.reddit.com/r/Python/comments/1q0dvs8/using_lookalike_search_to_analyze_a/)
-- [Can anyone write step by step things to learn in Python for Data Analyst?](https://www.reddit.com/r/Python/comments/1q0bmo1/can_anyone_write_step_by_step_things_to_learn_in/)
-- [Built a web-based SQLite explorer with cross-table filtering with SQLAlchemy - feedback welcome!](https://www.reddit.com/r/Python/comments/1q0814c/built_a_webbased_sqlite_explorer_with_crosstable/)
-- [Interview Preparation](https://www.reddit.com/r/Python/comments/1q0733d/interview_preparation/)
-- [The Transtractor: A PDF Bank Statement Parser](https://www.reddit.com/r/Python/comments/1q02h93/the_transtractor_a_pdf_bank_statement_parser/)
+- [Tessera — Schema Registry for Dbt](https://www.reddit.com/r/Python/comments/1q0jzwl/tessera_schema_registry_for_dbt/)
+- [Neuronum: A webserver to self-host AI models as callable backends](https://www.reddit.com/r/Python/comments/1q0jx8m/neuronum_a_webserver_to_selfhost_ai_models_as/)
+- [advice regarding OOPS and learning in general](https://www.reddit.com/r/Python/comments/1q0i1xn/advice_regarding_oops_and_learning_in_general/)
+- [Anyone want to code together?](https://www.reddit.com/r/Python/comments/1q0horc/anyone_want_to_code_together/)
+- [What Unique Python Projects Have You Built to Solve Everyday Problems?](https://www.reddit.com/r/Python/comments/1q0h45r/what_unique_python_projects_have_you_built_to/)
 <!-- BLOG-POST-LIST:END -->
