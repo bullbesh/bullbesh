@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using lookalike search to analyze a person-recognition knowledge base &lpar;not just identify new images&rpar;](https://www.reddit.com/r/Python/comments/1q0dvs8/using_lookalike_search_to_analyze_a/)
 - [Can anyone write step by step things to learn in Python for Data Analyst?](https://www.reddit.com/r/Python/comments/1q0bmo1/can_anyone_write_step_by_step_things_to_learn_in/)
 - [Built a web-based SQLite explorer with cross-table filtering with SQLAlchemy - feedback welcome!](https://www.reddit.com/r/Python/comments/1q0814c/built_a_webbased_sqlite_explorer_with_crosstable/)
 - [Interview Preparation](https://www.reddit.com/r/Python/comments/1q0733d/interview_preparation/)
 - [The Transtractor: A PDF Bank Statement Parser](https://www.reddit.com/r/Python/comments/1q02h93/the_transtractor_a_pdf_bank_statement_parser/)
-- [Cada: A build plugin for publishing interdependent libraries from uv workspaces](https://www.reddit.com/r/Python/comments/1q01ayz/cada_a_build_plugin_for_publishing_interdependent/)
 <!-- BLOG-POST-LIST:END -->
