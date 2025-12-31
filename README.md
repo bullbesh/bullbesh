@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [nPhoneCLI – GPLv3 Python library for automating Android device interactions &lpar;PyPI&rpar;](https://www.reddit.com/r/Python/comments/1q0msf4/nphonecli_gplv3_python_library_for_automating/)
 - [Tessera — Schema Registry for Dbt](https://www.reddit.com/r/Python/comments/1q0jzwl/tessera_schema_registry_for_dbt/)
 - [advice regarding OOPS and learning in general](https://www.reddit.com/r/Python/comments/1q0i1xn/advice_regarding_oops_and_learning_in_general/)
 - [Anyone want to code together?](https://www.reddit.com/r/Python/comments/1q0horc/anyone_want_to_code_together/)
 - [What Unique Python Projects Have You Built to Solve Everyday Problems?](https://www.reddit.com/r/Python/comments/1q0h45r/what_unique_python_projects_have_you_built_to/)
-- [Python Programming Roadmap](https://www.reddit.com/r/Python/comments/1q0gdw6/python_programming_roadmap/)
 <!-- BLOG-POST-LIST:END -->
