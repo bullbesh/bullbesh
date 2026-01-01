@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [graphqlite - Add graph database features to SQLite with Cypher queries](https://www.reddit.com/r/Python/comments/1q0sgvs/graphqlite_add_graph_database_features_to_sqlite/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1q0qvbq/thursday_daily_thread_python_careers_courses_and/)
 - [nPhoneCLI – GPLv3 Python library for automating Android device interactions &lpar;PyPI&rpar;](https://www.reddit.com/r/Python/comments/1q0msf4/nphonecli_gplv3_python_library_for_automating/)
 - [Tessera — Schema Registry for Dbt](https://www.reddit.com/r/Python/comments/1q0jzwl/tessera_schema_registry_for_dbt/)
 - [advice regarding OOPS and learning in general](https://www.reddit.com/r/Python/comments/1q0i1xn/advice_regarding_oops_and_learning_in_general/)
-- [Anyone want to code together?](https://www.reddit.com/r/Python/comments/1q0horc/anyone_want_to_code_together/)
-- [What Unique Python Projects Have You Built to Solve Everyday Problems?](https://www.reddit.com/r/Python/comments/1q0h45r/what_unique_python_projects_have_you_built_to/)
 <!-- BLOG-POST-LIST:END -->
