@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 PyO3 Hint Transpiler — Rust → Python Type Hints &lpar;Automatically&rpar;](https://www.reddit.com/r/Python/comments/1q1of57/pyo3_hint_transpiler_rust_python_type_hints/)
 - [Just released dataclass-wizard 0.39.0 — last minor before v1, would love feedback](https://www.reddit.com/r/Python/comments/1q1jkz7/just_released_dataclasswizard_0390_last_minor/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1q1jb0u/friday_daily_thread_rpython_meta_and_freetalk/)
 - [The fastest http library](https://www.reddit.com/r/Python/comments/1q1b45z/the_fastest_http_library/)
 - [I built a desktop weather widget for Windows using Python and PyQt5](https://www.reddit.com/r/Python/comments/1q1atp2/i_built_a_desktop_weather_widget_for_windows/)
-- [I built a drop-in Scikit-Learn replacement for SVD/PCA that automatically selects the optimal rank](https://www.reddit.com/r/Python/comments/1q16o9o/i_built_a_dropin_scikitlearn_replacement_for/)
 <!-- BLOG-POST-LIST:END -->
