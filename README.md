@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [podcast filler word remover app](https://www.reddit.com/r/Python/comments/1q1yg3x/podcast_filler_word_remover_app/)
+- [I got tired of paying for clipping tools, so I coded my own AI for Shorts with Python](https://www.reddit.com/r/Python/comments/1q1yalc/i_got_tired_of_paying_for_clipping_tools_so_i/)
 - [Filebot alternative or its license.pcm bypass](https://www.reddit.com/r/Python/comments/1q1wui5/filebot_alternative_or_its_licensepcm_bypass/)
 - [Any good Python patterns for collecting API uptime and error stats?](https://www.reddit.com/r/Python/comments/1q1v8xt/any_good_python_patterns_for_collecting_api/)
 - [Blog post: A different way to think about Python API Clients](https://www.reddit.com/r/Python/comments/1q1udpj/blog_post_a_different_way_to_think_about_python/)
-- [Just released dataclass-wizard 0.39.0 — last minor before v1, would love feedback](https://www.reddit.com/r/Python/comments/1q1jkz7/just_released_dataclasswizard_0390_last_minor/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1q1jb0u/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
