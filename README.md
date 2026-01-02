@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just released dataclass-wizard 0.39.0 — last minor before v1, would love feedback](https://www.reddit.com/r/Python/comments/1q1jkz7/just_released_dataclasswizard_0390_last_minor/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1q1jb0u/friday_daily_thread_rpython_meta_and_freetalk/)
 - [The fastest http library](https://www.reddit.com/r/Python/comments/1q1b45z/the_fastest_http_library/)
 - [I built a desktop weather widget for Windows using Python and PyQt5](https://www.reddit.com/r/Python/comments/1q1atp2/i_built_a_desktop_weather_widget_for_windows/)
 - [I built a drop-in Scikit-Learn replacement for SVD/PCA that automatically selects the optimal rank](https://www.reddit.com/r/Python/comments/1q16o9o/i_built_a_dropin_scikitlearn_replacement_for/)
-- [sharepoint-to-text: Pure Python text extraction for Office &lpar;doc/docx/xls/xlsx/ppt/pptx&rpar;, PDF, mails](https://www.reddit.com/r/Python/comments/1q130ln/sharepointtotext_pure_python_text_extraction_for/)
-- [I built a toolkit to post-process Snapchat Memories using Python](https://www.reddit.com/r/Python/comments/1q12x31/i_built_a_toolkit_to_postprocess_snapchat/)
 <!-- BLOG-POST-LIST:END -->
