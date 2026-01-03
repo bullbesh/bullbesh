@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built calgebra – set algebra for calendars in Python](https://www.reddit.com/r/Python/comments/1q2gkde/i_built_calgebra_set_algebra_for_calendars_in/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1q2eyxc/saturday_daily_thread_resource_request_and/)
 - [Released envcheck-cli v1.0.0 — a CI-first tool to validate .env files with schema enforcement](https://www.reddit.com/r/Python/comments/1q29k7d/released_envcheckcli_v100_a_cifirst_tool_to/)
 - [Bypass reCAPTCHA / Cloudflare captcha and etc](https://www.reddit.com/r/Python/comments/1q21jd0/bypass_recaptcha_cloudflare_captcha_and_etc/)
 - [Tetris-playing AI the Polylith way with Python and Clojure - Part 1](https://www.reddit.com/r/Python/comments/1q208xn/tetrisplaying_ai_the_polylith_way_with_python_and/)
-- [How are you guy&#39;s teach themself to python ?](https://www.reddit.com/r/Python/comments/1q1z8xf/how_are_you_guys_teach_themself_to_python/)
-- [podcast filler word remover app](https://www.reddit.com/r/Python/comments/1q1yg3x/podcast_filler_word_remover_app/)
 <!-- BLOG-POST-LIST:END -->
