@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [stubtester - run doctests from pyi files](https://www.reddit.com/r/Python/comments/1q2w477/stubtester_run_doctests_from_pyi_files/)
 - [I shared a free course on Python fundamentals for data science and AI &lpar;7 parts&rpar;](https://www.reddit.com/r/Python/comments/1q2ufia/i_shared_a_free_course_on_python_fundamentals_for/)
 - [ZIRCON - Railway signaling automation](https://www.reddit.com/r/Python/comments/1q2tyua/zircon_railway_signaling_automation/)
 - [Favorite DB tools](https://www.reddit.com/r/Python/comments/1q2thqn/favorite_db_tools/)
 - [gtasks-terminal – Google Tasks power-tool for the terminal](https://www.reddit.com/r/Python/comments/1q2takw/gtasksterminal_google_tasks_powertool_for_the/)
-- [GithubMQ -&gt; github as a message queue](https://www.reddit.com/r/Python/comments/1q2pbfw/githubmq_github_as_a_message_queue/)
 <!-- BLOG-POST-LIST:END -->
