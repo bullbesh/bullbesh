@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Favorite DB tools](https://www.reddit.com/r/Python/comments/1q2thqn/favorite_db_tools/)
+- [gtasks-terminal – Google Tasks power-tool for the terminal](https://www.reddit.com/r/Python/comments/1q2takw/gtasksterminal_google_tasks_powertool_for_the/)
 - [GithubMQ -&gt; github as a message queue](https://www.reddit.com/r/Python/comments/1q2pbfw/githubmq_github_as_a_message_queue/)
 - [Which tech stack should I choose to build a full-fledged billing app?](https://www.reddit.com/r/Python/comments/1q2oy11/which_tech_stack_should_i_choose_to_build_a/)
 - [I built calgebra – set algebra for calendars in Python](https://www.reddit.com/r/Python/comments/1q2gkde/i_built_calgebra_set_algebra_for_calendars_in/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1q2eyxc/saturday_daily_thread_resource_request_and/)
-- [Released envcheck-cli v1.0.0 — a CI-first tool to validate .env files with schema enforcement](https://www.reddit.com/r/Python/comments/1q29k7d/released_envcheckcli_v100_a_cifirst_tool_to/)
 <!-- BLOG-POST-LIST:END -->
