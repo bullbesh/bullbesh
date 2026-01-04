@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pygame on resume](https://www.reddit.com/r/Python/comments/1q3yo9b/pygame_on_resume/)
 - [Making a better client-side experience for python](https://www.reddit.com/r/Python/comments/1q3xahl/making_a_better_clientside_experience_for_python/)
 - [I built a TUI Process Manager that uses a Local LLM to classify and &quot;roast&quot; background processes](https://www.reddit.com/r/Python/comments/1q3oxk3/i_built_a_tui_process_manager_that_uses_a_local/)
 - [Pool-Line-Detector: Real-time CV overlay to extend aiming lines](https://www.reddit.com/r/Python/comments/1q3el70/poollinedetector_realtime_cv_overlay_to_extend/)
 - [Generating graphs and jsons with vlrgg tournaments](https://www.reddit.com/r/Python/comments/1q3ecap/generating_graphs_and_jsons_with_vlrgg_tournaments/)
-- [GitHub - raghav4882/TerminallyQuick v4.0: Fast, user-friendly image processing tool [Open Source]](https://www.reddit.com/r/Python/comments/1q3dm9t/github_raghav4882terminallyquick_v40_fast/)
 <!-- BLOG-POST-LIST:END -->
