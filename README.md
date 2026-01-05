@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [iso8583sim - Python library for ISO 8583 financial message parsing/building &lpar;180k+ TPS, Cython&rpar;](https://www.reddit.com/r/Python/comments/1q4wv6j/iso8583sim_python_library_for_iso_8583_financial/)
-- [Understanding multithreading &amp; multiprocessing in Python](https://www.reddit.com/r/Python/comments/1q4vsnn/understanding_multithreading_multiprocessing_in/)
-- [Snapchat Memories Downloader](https://www.reddit.com/r/Python/comments/1q4tz1h/snapchat_memories_downloader/)
-- [fdir v2.0.0: Command-line utility to list, filter, and sort files in a directory.](https://www.reddit.com/r/Python/comments/1q4tugs/fdir_v200_commandline_utility_to_list_filter_and/)
-- [How my open-source project ACCIDENTALLY went viral](https://www.reddit.com/r/Python/comments/1q4tg3f/how_my_opensource_project_accidentally_went_viral/)
+- [Brilliance Admin – a general-purpose admin panel framework built on FastAPI](https://www.reddit.com/r/Python/comments/1q4ye06/brilliance_admin_a_generalpurpose_admin_panel/)
+- [Tech stack advice for a MVP web app](https://www.reddit.com/r/Python/comments/1q4yatj/tech_stack_advice_for_a_mvp_web_app/)
+- [I built a 3D Acoustic Camera using Python &lpar;OpenCV + NumPy&rpar; and a Raspberry Pi with DMA timing](https://www.reddit.com/r/Python/comments/1q4y0j3/i_built_a_3d_acoustic_camera_using_python_opencv/)
+- [CogDB - Micro Graph Database for Python Applications](https://www.reddit.com/r/Python/comments/1q4xtbx/cogdb_micro_graph_database_for_python_applications/)
+- [pydynox: DynamoDB ORM with Rust core](https://www.reddit.com/r/Python/comments/1q4xei1/pydynox_dynamodb_orm_with_rust_core/)
 <!-- BLOG-POST-LIST:END -->
