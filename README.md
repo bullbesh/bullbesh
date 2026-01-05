@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [iso8583sim - Python library for ISO 8583 financial message parsing/building &lpar;180k+ TPS, Cython&rpar;](https://www.reddit.com/r/Python/comments/1q4wv6j/iso8583sim_python_library_for_iso_8583_financial/)
+- [Understanding multithreading &amp; multiprocessing in Python](https://www.reddit.com/r/Python/comments/1q4vsnn/understanding_multithreading_multiprocessing_in/)
 - [Snapchat Memories Downloader](https://www.reddit.com/r/Python/comments/1q4tz1h/snapchat_memories_downloader/)
 - [fdir v2.0.0: Command-line utility to list, filter, and sort files in a directory.](https://www.reddit.com/r/Python/comments/1q4tugs/fdir_v200_commandline_utility_to_list_filter_and/)
 - [How my open-source project ACCIDENTALLY went viral](https://www.reddit.com/r/Python/comments/1q4tg3f/how_my_opensource_project_accidentally_went_viral/)
-- [CLI to scrape full YouTube channel metadata &lpar;subs, videos, shorts, links&rpar; — no API key](https://www.reddit.com/r/Python/comments/1q4qt5l/cli_to_scrape_full_youtube_channel_metadata_subs/)
-- [lazyregistry: A lightweight Python library for lazy-loading registries with namespace support](https://www.reddit.com/r/Python/comments/1q4qnii/lazyregistry_a_lightweight_python_library_for/)
 <!-- BLOG-POST-LIST:END -->
