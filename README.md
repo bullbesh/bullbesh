@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate OpenAI Embeddings with embedding-adapters library locally &lpar; 70x speed increase&amp;cost saving&rpar;](https://www.reddit.com/r/Python/comments/1q4cud0/generate_openai_embeddings_with_embeddingadapters/)
 - [Python format string visualizer](https://www.reddit.com/r/Python/comments/1q48yxl/python_format_string_visualizer/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1q45xx1/monday_daily_thread_project_ideas/)
 - [Pygame on resume](https://www.reddit.com/r/Python/comments/1q3yo9b/pygame_on_resume/)
 - [Making a better client-side experience for python](https://www.reddit.com/r/Python/comments/1q3xahl/making_a_better_clientside_experience_for_python/)
-- [I built a TUI Process Manager that uses a Local LLM to classify and &quot;roast&quot; background processes](https://www.reddit.com/r/Python/comments/1q3oxk3/i_built_a_tui_process_manager_that_uses_a_local/)
 <!-- BLOG-POST-LIST:END -->
