@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tv Launcher for Windows and Linux made with Python PyQt](https://www.reddit.com/r/Python/comments/1q4n3ha/tv_launcher_for_windows_and_linux_made_with/)
+- [Why Educators and Students Prefer Online Compilers](https://www.reddit.com/r/Python/comments/1q4n29e/why_educators_and_students_prefer_online_compilers/)
+- [So do you like my shape?](https://www.reddit.com/r/Python/comments/1q4mcc1/so_do_you_like_my_shape/)
+- [Filo - Python Project: Folder Organizer &lpar;CLI Tool&rpar;](https://www.reddit.com/r/Python/comments/1q4m6j7/filo_python_project_folder_organizer_cli_tool/)
 - [AmzPy: An Amazon Scraper born out of API frustration &lpar;uses curl_cffi for TLS fingerprinting&rpar;](https://www.reddit.com/r/Python/comments/1q4i3yu/amzpy_an_amazon_scraper_born_out_of_api/)
-- [Built a CLI tool for extracting financial data from PDFs and CSVs using AI](https://www.reddit.com/r/Python/comments/1q4i2he/built_a_cli_tool_for_extracting_financial_data/)
-- [I made a fast, structured PDF extractor for Python; 300 pages a second](https://www.reddit.com/r/Python/comments/1q4ht1h/i_made_a_fast_structured_pdf_extractor_for_python/)
-- [drift-free asyncio-friendly timers](https://www.reddit.com/r/Python/comments/1q4g5ge/driftfree_asynciofriendly_timers/)
-- [Is anyone playing with face matching using Python?](https://www.reddit.com/r/Python/comments/1q4dqiy/is_anyone_playing_with_face_matching_using_python/)
 <!-- BLOG-POST-LIST:END -->
