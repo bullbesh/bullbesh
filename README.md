@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AmzPy: An Amazon Scraper born out of API frustration &lpar;uses curl_cffi for TLS fingerprinting&rpar;](https://www.reddit.com/r/Python/comments/1q4i3yu/amzpy_an_amazon_scraper_born_out_of_api/)
+- [Built a CLI tool for extracting financial data from PDFs and CSVs using AI](https://www.reddit.com/r/Python/comments/1q4i2he/built_a_cli_tool_for_extracting_financial_data/)
+- [I made a fast, structured PDF extractor for Python; 300 pages a second](https://www.reddit.com/r/Python/comments/1q4ht1h/i_made_a_fast_structured_pdf_extractor_for_python/)
 - [drift-free asyncio-friendly timers](https://www.reddit.com/r/Python/comments/1q4g5ge/driftfree_asynciofriendly_timers/)
 - [Is anyone playing with face matching using Python?](https://www.reddit.com/r/Python/comments/1q4dqiy/is_anyone_playing_with_face_matching_using_python/)
-- [Generate OpenAI Embeddings with embedding-adapters library locally &lpar; 70x speed increase&amp;cost saving&rpar;](https://www.reddit.com/r/Python/comments/1q4cud0/generate_openai_embeddings_with_embeddingadapters/)
-- [Python format string visualizer](https://www.reddit.com/r/Python/comments/1q48yxl/python_format_string_visualizer/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1q45xx1/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
