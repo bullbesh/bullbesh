@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [drift-free asyncio-friendly timers](https://www.reddit.com/r/Python/comments/1q4g5ge/driftfree_asynciofriendly_timers/)
 - [Is anyone playing with face matching using Python?](https://www.reddit.com/r/Python/comments/1q4dqiy/is_anyone_playing_with_face_matching_using_python/)
 - [Generate OpenAI Embeddings with embedding-adapters library locally &lpar; 70x speed increase&amp;cost saving&rpar;](https://www.reddit.com/r/Python/comments/1q4cud0/generate_openai_embeddings_with_embeddingadapters/)
 - [Python format string visualizer](https://www.reddit.com/r/Python/comments/1q48yxl/python_format_string_visualizer/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1q45xx1/monday_daily_thread_project_ideas/)
-- [Pygame on resume](https://www.reddit.com/r/Python/comments/1q3yo9b/pygame_on_resume/)
 <!-- BLOG-POST-LIST:END -->
