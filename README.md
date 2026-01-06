@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Open Source] I built an Agent that audits code like a Senior Engineer &lpar;AST-Aware + DeepSeek V3&rpar;. It](https://www.reddit.com/r/Python/comments/1q55t0i/open_source_i_built_an_agent_that_audits_code/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1q52md8/tuesday_daily_thread_advanced_questions/)
 - [Brilliance Admin – a general-purpose admin panel framework built on FastAPI](https://www.reddit.com/r/Python/comments/1q4ye06/brilliance_admin_a_generalpurpose_admin_panel/)
 - [Tech stack advice for a MVP web app](https://www.reddit.com/r/Python/comments/1q4yatj/tech_stack_advice_for_a_mvp_web_app/)
 - [I built a 3D Acoustic Camera using Python &lpar;OpenCV + NumPy&rpar; and a Raspberry Pi with DMA timing](https://www.reddit.com/r/Python/comments/1q4y0j3/i_built_a_3d_acoustic_camera_using_python_opencv/)
-- [CogDB - Micro Graph Database for Python Applications](https://www.reddit.com/r/Python/comments/1q4xtbx/cogdb_micro_graph_database_for_python_applications/)
 <!-- BLOG-POST-LIST:END -->
