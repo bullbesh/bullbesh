@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Grok Wrote me a code. it is legit?](https://www.reddit.com/r/Python/comments/1q5jw2m/grok_wrote_me_a_code_it_is_legit/)
+- [Python 3.14 uv with pyside6 be like:](https://www.reddit.com/r/Python/comments/1q5k43y/python_314_uv_with_pyside6_be_like/)
 - [cf-taskpool: A concurrent.futures-style pool for async tasks](https://www.reddit.com/r/Python/comments/1q5jual/cftaskpool_a_concurrentfuturesstyle_pool_for/)
 - [oClip - Copy Text From Image Directly](https://www.reddit.com/r/Python/comments/1q5ia6n/oclip_copy_text_from_image_directly/)
 - [[Project] RedLightDL: a Python adult content downloader &lpar;CLI + API + GUI &rpar;](https://www.reddit.com/r/Python/comments/1q5i8qi/project_redlightdl_a_python_adult_content/)
