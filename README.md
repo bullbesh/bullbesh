@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kothonic - a library that bridges the syntatic gap between Kotlin and Python](https://www.reddit.com/r/Python/comments/1q5dfeg/kothonic_a_library_that_bridges_the_syntatic_gap/)
 - [Built transformer framework &lpar;RAT&rpar; &amp; architecture for building Language Models and open-sourced it](https://www.reddit.com/r/Python/comments/1q5c28b/built_transformer_framework_rat_architecture_for/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1q52md8/tuesday_daily_thread_advanced_questions/)
 - [Brilliance Admin – a general-purpose admin panel framework built on FastAPI](https://www.reddit.com/r/Python/comments/1q4ye06/brilliance_admin_a_generalpurpose_admin_panel/)
 - [Tech stack advice for a MVP web app](https://www.reddit.com/r/Python/comments/1q4yatj/tech_stack_advice_for_a_mvp_web_app/)
-- [I built a 3D Acoustic Camera using Python &lpar;OpenCV + NumPy&rpar; and a Raspberry Pi with DMA timing](https://www.reddit.com/r/Python/comments/1q4y0j3/i_built_a_3d_acoustic_camera_using_python_opencv/)
 <!-- BLOG-POST-LIST:END -->
