@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I made a fast, structured PDF extractor for RAG; 300 pages a second](https://www.reddit.com/r/Python/comments/1q5a5ya/i_made_a_fast_structured_pdf_extractor_for_rag/)
+- [Built transformer framework &lpar;RAT&rpar; &amp; architecture for building Language Models and open-sourced it](https://www.reddit.com/r/Python/comments/1q5c28b/built_transformer_framework_rat_architecture_for/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1q52md8/tuesday_daily_thread_advanced_questions/)
 - [Brilliance Admin – a general-purpose admin panel framework built on FastAPI](https://www.reddit.com/r/Python/comments/1q4ye06/brilliance_admin_a_generalpurpose_admin_panel/)
 - [Tech stack advice for a MVP web app](https://www.reddit.com/r/Python/comments/1q4yatj/tech_stack_advice_for_a_mvp_web_app/)
