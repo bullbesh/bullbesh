@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built a CLI tool for extracting financial data from PDFs and CSVs using AI](https://www.reddit.com/r/Python/comments/1q6qw55/built_a_cli_tool_for_extracting_financial_data/)
 - [Unit testing the performance of your code](https://www.reddit.com/r/Python/comments/1q6q9hj/unit_testing_the_performance_of_your_code/)
 - [I made a CLI word puzzle creator/player in python.](https://www.reddit.com/r/Python/comments/1q6p0kl/i_made_a_cli_word_puzzle_creatorplayer_in_python/)
 - [[Update] I listened to what you guys said!](https://www.reddit.com/r/Python/comments/1q6oaff/update_i_listened_to_what_you_guys_said/)
 - [PSI-COMMIT: Pure Python Cryptographic Commitment Scheme](https://www.reddit.com/r/Python/comments/1q6lhu0/psicommit_pure_python_cryptographic_commitment/)
-- [Turn Your Repo Into a Self-Improving DSPy Agent &lpar;v0.1.3 - Local-First Python AI Engineering&rpar;](https://www.reddit.com/r/Python/comments/1q6gunj/turn_your_repo_into_a_selfimproving_dspy_agent/)
 <!-- BLOG-POST-LIST:END -->
