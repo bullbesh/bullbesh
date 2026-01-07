@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Git is PAINFUL to use](https://www.reddit.com/r/Python/comments/1q6mtl9/git_is_painful_to_use/)
+- [[Update] I listened to what you guys said!](https://www.reddit.com/r/Python/comments/1q6oaff/update_i_listened_to_what_you_guys_said/)
 - [PSI-COMMIT: Pure Python Cryptographic Commitment Scheme](https://www.reddit.com/r/Python/comments/1q6lhu0/psicommit_pure_python_cryptographic_commitment/)
 - [Turn Your Repo Into a Self-Improving DSPy Agent &lpar;v0.1.3 - Local-First Python AI Engineering&rpar;](https://www.reddit.com/r/Python/comments/1q6gunj/turn_your_repo_into_a_selfimproving_dspy_agent/)
 - [Python Web Application Hosting Options](https://www.reddit.com/r/Python/comments/1q6g3cn/python_web_application_hosting_options/)
