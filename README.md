@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [mini game with python](https://www.reddit.com/r/Python/comments/1q5y8o8/mini_game_with_python/)
-- [I built a small Python library to make numeric failures explicit &lpar;no silent NaN&rpar;](https://www.reddit.com/r/Python/comments/1q5wgkl/i_built_a_small_python_library_to_make_numeric/)
-- [CensorUp, a simple project to censor whatever unwanted words from any audio/video.](https://www.reddit.com/r/Python/comments/1q5ukmj/censorup_a_simple_project_to_censor_whatever/)
-- [Put me into the road of backend &lpar;python&rpar; and AI so that I can land a job ASAP](https://www.reddit.com/r/Python/comments/1q5raot/put_me_into_the_road_of_backend_python_and_ai_so/)
-- [pfst: High-level Python AST/CST manipulation that preserves formatting](https://www.reddit.com/r/Python/comments/1q5q8m7/pfst_highlevel_python_astcst_manipulation_that/)
+- [Created a Python program that converts picture/video geotags into static and interactive maps](https://www.reddit.com/r/Python/comments/1q64kzu/created_a_python_program_that_converts/)
+- [Python Fire isn’t bad](https://www.reddit.com/r/Python/comments/1q64ew5/python_fire_isnt_bad/)
+- [I made a free python tool that connects Cursor/ Claude to any API](https://www.reddit.com/r/Python/comments/1q62bdl/i_made_a_free_python_tool_that_connects_cursor/)
+- [Frankenstyle is a build-less Tailwind CSS alternative.](https://www.reddit.com/r/Python/comments/1q61tq1/frankenstyle_is_a_buildless_tailwind_css/)
+- [What Are Your Favorite Python Frameworks for Web Development and Why?](https://www.reddit.com/r/Python/comments/1q61hzg/what_are_your_favorite_python_frameworks_for_web/)
 <!-- BLOG-POST-LIST:END -->
