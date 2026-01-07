@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pgmq-sqlalchemy 0.2.0 — Transaction-Friendly `op` Is Now Supported](https://www.reddit.com/r/Python/comments/1q6fk62/pgmqsqlalchemy_020_transactionfriendly_op_is_now/)
+- [Python brought me joy back on building web apps](https://www.reddit.com/r/Python/comments/1q6f59a/python_brought_me_joy_back_on_building_web_apps/)
 - [mlship – Zero-config ML model serving across frameworks](https://www.reddit.com/r/Python/comments/1q6d3qd/mlship_zeroconfig_ml_model_serving_across/)
 - [Niquests 3.16 — Bringing &#39;uv-like&#39; performance leaps to Python HTTP](https://www.reddit.com/r/Python/comments/1q6d1k5/niquests_316_bringing_uvlike_performance_leaps_to/)
 - [I built Embex: A Universal Vector Database ORM with a Rust core for 2-3x faster vector operations](https://www.reddit.com/r/Python/comments/1q6aukm/i_built_embex_a_universal_vector_database_orm/)
-- [Created a Python program that converts picture/video geotags into static and interactive maps](https://www.reddit.com/r/Python/comments/1q64kzu/created_a_python_program_that_converts/)
-- [Python Fire isn’t bad](https://www.reddit.com/r/Python/comments/1q64ew5/python_fire_isnt_bad/)
 <!-- BLOG-POST-LIST:END -->
