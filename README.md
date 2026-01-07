@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built Embex: A Universal Vector Database ORM with a Rust core for 2-3x faster vector operations](https://www.reddit.com/r/Python/comments/1q6aukm/i_built_embex_a_universal_vector_database_orm/)
 - [Created a Python program that converts picture/video geotags into static and interactive maps](https://www.reddit.com/r/Python/comments/1q64kzu/created_a_python_program_that_converts/)
 - [Python Fire isn’t bad](https://www.reddit.com/r/Python/comments/1q64ew5/python_fire_isnt_bad/)
 - [I made a free python tool that connects Cursor/ Claude to any API](https://www.reddit.com/r/Python/comments/1q62bdl/i_made_a_free_python_tool_that_connects_cursor/)
 - [What Are Your Favorite Python Frameworks for Web Development and Why?](https://www.reddit.com/r/Python/comments/1q61hzg/what_are_your_favorite_python_frameworks_for_web/)
-- [pyochain - Rust-like Iterator, Result and Option in Python- Release 0.1.6.80](https://www.reddit.com/r/Python/comments/1q61bzg/pyochain_rustlike_iterator_result_and_option_in/)
 <!-- BLOG-POST-LIST:END -->
