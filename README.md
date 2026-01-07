@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unit testing the performance of your code](https://www.reddit.com/r/Python/comments/1q6q9hj/unit_testing_the_performance_of_your_code/)
+- [I made a CLI word puzzle creator/player in python.](https://www.reddit.com/r/Python/comments/1q6p0kl/i_made_a_cli_word_puzzle_creatorplayer_in_python/)
 - [[Update] I listened to what you guys said!](https://www.reddit.com/r/Python/comments/1q6oaff/update_i_listened_to_what_you_guys_said/)
 - [PSI-COMMIT: Pure Python Cryptographic Commitment Scheme](https://www.reddit.com/r/Python/comments/1q6lhu0/psicommit_pure_python_cryptographic_commitment/)
 - [Turn Your Repo Into a Self-Improving DSPy Agent &lpar;v0.1.3 - Local-First Python AI Engineering&rpar;](https://www.reddit.com/r/Python/comments/1q6gunj/turn_your_repo_into_a_selfimproving_dspy_agent/)
-- [Python Web Application Hosting Options](https://www.reddit.com/r/Python/comments/1q6g3cn/python_web_application_hosting_options/)
-- [pgmq-sqlalchemy 0.2.0 — Transaction-Friendly `op` Is Now Supported](https://www.reddit.com/r/Python/comments/1q6fk62/pgmqsqlalchemy_020_transactionfriendly_op_is_now/)
 <!-- BLOG-POST-LIST:END -->
