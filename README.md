@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turn Your Repo Into a Self-Improving DSPy Agent &lpar;v0.1.3 - Local-First Python AI Engineering&rpar;](https://www.reddit.com/r/Python/comments/1q6gunj/turn_your_repo_into_a_selfimproving_dspy_agent/)
 - [Python Web Application Hosting Options](https://www.reddit.com/r/Python/comments/1q6g3cn/python_web_application_hosting_options/)
 - [pgmq-sqlalchemy 0.2.0 — Transaction-Friendly `op` Is Now Supported](https://www.reddit.com/r/Python/comments/1q6fk62/pgmqsqlalchemy_020_transactionfriendly_op_is_now/)
 - [Python brought me joy back on building web apps](https://www.reddit.com/r/Python/comments/1q6f59a/python_brought_me_joy_back_on_building_web_apps/)
 - [mlship – Zero-config ML model serving across frameworks](https://www.reddit.com/r/Python/comments/1q6d3qd/mlship_zeroconfig_ml_model_serving_across/)
-- [Niquests 3.16 — Bringing &#39;uv-like&#39; performance leaps to Python HTTP](https://www.reddit.com/r/Python/comments/1q6d1k5/niquests_316_bringing_uvlike_performance_leaps_to/)
 <!-- BLOG-POST-LIST:END -->
