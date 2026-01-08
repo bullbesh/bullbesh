@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Showcase: flowimds — Open-source Python library for reusable batch image processing pipelines](https://www.reddit.com/r/Python/comments/1q7as0n/showcase_flowimds_opensource_python_library_for/)
+- [seapie: a REPL-first debugger &gt;&gt;&gt;](https://www.reddit.com/r/Python/comments/1q7aalx/seapie_a_replfirst_debugger/)
 - [Built an HTTP client that matches Chrome&#39;s JA4/Akamai fingerprint](https://www.reddit.com/r/Python/comments/1q77abp/built_an_http_client_that_matches_chromes/)
 - [Html to Pdf library suggestions](https://www.reddit.com/r/Python/comments/1q74ivt/html_to_pdf_library_suggestions/)
 - [Organizing my research Python code for others - where to start?](https://www.reddit.com/r/Python/comments/1q6z728/organizing_my_research_python_code_for_others/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1q6w5ic/thursday_daily_thread_python_careers_courses_and/)
-- [Can Python be the blueprint for AI in Finance?](https://www.reddit.com/r/Python/comments/1q6vjvp/can_python_be_the_blueprint_for_ai_in_finance/)
 <!-- BLOG-POST-LIST:END -->
