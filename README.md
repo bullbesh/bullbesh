@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1q6w5ic/thursday_daily_thread_python_careers_courses_and/)
+- [Can Python be the blueprint for AI in Finance?](https://www.reddit.com/r/Python/comments/1q6vjvp/can_python_be_the_blueprint_for_ai_in_finance/)
 - [funcai, functional langchain alternative](https://www.reddit.com/r/Python/comments/1q6v8c8/funcai_functional_langchain_alternative/)
 - [Built a CLI tool for extracting financial data from PDFs and CSVs using AI](https://www.reddit.com/r/Python/comments/1q6qw55/built_a_cli_tool_for_extracting_financial_data/)
 - [Unit testing the performance of your code](https://www.reddit.com/r/Python/comments/1q6q9hj/unit_testing_the_performance_of_your_code/)
-- [I made a CLI word puzzle creator/player in python.](https://www.reddit.com/r/Python/comments/1q6p0kl/i_made_a_cli_word_puzzle_creatorplayer_in_python/)
-- [[Update] I listened to what you guys said!](https://www.reddit.com/r/Python/comments/1q6oaff/update_i_listened_to_what_you_guys_said/)
 <!-- BLOG-POST-LIST:END -->
