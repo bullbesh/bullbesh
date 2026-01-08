@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Omega Infinity v4.1: A Meta-Recursive Markov Chain Compressor that achieves 2.40x on random binaries](https://www.reddit.com/r/Python/comments/1q7lkfw/omega_infinity_v41_a_metarecursive_markov_chain/)
 - [Database Migrations](https://www.reddit.com/r/Python/comments/1q7ixsf/database_migrations/)
 - [State Machine Frameworks?](https://www.reddit.com/r/Python/comments/1q7it2g/state_machine_frameworks/)
 - [I am working on a weight&lpar;cost&rpar; based Rate Limiter](https://www.reddit.com/r/Python/comments/1q7e0tp/i_am_working_on_a_weightcost_based_rate_limiter/)
 - [My first python problem](https://www.reddit.com/r/Python/comments/1q7dqrw/my_first_python_problem/)
-- [Python Typing Survey 2025: Code Quality and Flexibility As Top Reasons for Typing Adoption](https://www.reddit.com/r/Python/comments/1q7cyz4/python_typing_survey_2025_code_quality_and/)
 <!-- BLOG-POST-LIST:END -->
