@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [q2sfx – Create self-extracting executables from PyInstaller Python apps](https://www.reddit.com/r/Python/comments/1q85pue/q2sfx_create_selfextracting_executables_from/)
 - [Its been 3 years now... your thoughts about trusted publisher on pypi](https://www.reddit.com/r/Python/comments/1q83kij/its_been_3_years_now_your_thoughts_about_trusted/)
 - [Showcase: pathgenerator — A library for generating non-deterministic mouse movements](https://www.reddit.com/r/Python/comments/1q82rs5/showcase_pathgenerator_a_library_for_generating/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1q7sjgb/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Database Migrations](https://www.reddit.com/r/Python/comments/1q7ixsf/database_migrations/)
-- [State Machine Frameworks?](https://www.reddit.com/r/Python/comments/1q7it2g/state_machine_frameworks/)
 <!-- BLOG-POST-LIST:END -->
