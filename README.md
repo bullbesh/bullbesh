@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A practical 2026 roadmap for modern AI search &amp; RAG systems](https://www.reddit.com/r/Python/comments/1q87x4t/a_practical_2026_roadmap_for_modern_ai_search_rag/)
+- [I built a wrapper to get unlimited free access to GPT-4o, Gemini 2.5, and Llama 3 &lpar;16k+ reqs/day&rpar;](https://www.reddit.com/r/Python/comments/1q87ngh/i_built_a_wrapper_to_get_unlimited_free_access_to/)
 - [19 Hour Free YouTube course on building your own AI Coding agent from scratch!](https://www.reddit.com/r/Python/comments/1q87fkl/19_hour_free_youtube_course_on_building_your_own/)
 - [I benchmarked GraphRAG on Groq vs Ollama. Groq is 90x faster.](https://www.reddit.com/r/Python/comments/1q871ox/i_benchmarked_graphrag_on_groq_vs_ollama_groq_is/)
 - [q2sfx – Create self-extracting executables from PyInstaller Python apps](https://www.reddit.com/r/Python/comments/1q85pue/q2sfx_create_selfextracting_executables_from/)
-- [Its been 3 years now... your thoughts about trusted publisher on pypi](https://www.reddit.com/r/Python/comments/1q83kij/its_been_3_years_now_your_thoughts_about_trusted/)
-- [Showcase: pathgenerator — A library for generating non-deterministic mouse movements](https://www.reddit.com/r/Python/comments/1q82rs5/showcase_pathgenerator_a_library_for_generating/)
 <!-- BLOG-POST-LIST:END -->
