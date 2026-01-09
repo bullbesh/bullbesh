@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Page Document Object Model Probe](https://www.reddit.com/r/Python/comments/1q8kc15/web_page_document_object_model_probe/)
 - [Looking for coding buddies](https://www.reddit.com/r/Python/comments/1q8hkh1/looking_for_coding_buddies/)
 - [Built 3 production applications using ACE-Step: Game Audio Middleware, DMCA-Free Music Generator](https://www.reddit.com/r/Python/comments/1q8dzhz/built_3_production_applications_using_acestep/)
 - [Released a tiny vector-field + attractor visualization tool &lpar;fieldviz-mini&rpar;](https://www.reddit.com/r/Python/comments/1q8c0q4/released_a_tiny_vectorfield_attractor/)
 - [A practical 2026 roadmap for modern AI search &amp; RAG systems](https://www.reddit.com/r/Python/comments/1q87x4t/a_practical_2026_roadmap_for_modern_ai_search_rag/)
-- [I built a wrapper to get unlimited free access to GPT-4o, Gemini 2.5, and Llama 3 &lpar;16k+ reqs/day&rpar;](https://www.reddit.com/r/Python/comments/1q87ngh/i_built_a_wrapper_to_get_unlimited_free_access_to/)
 <!-- BLOG-POST-LIST:END -->
