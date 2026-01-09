@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Showcase: pathgenerator — A library for generating non-deterministic mouse movements](https://www.reddit.com/r/Python/comments/1q82rs5/showcase_pathgenerator_a_library_for_generating/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1q7sjgb/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Database Migrations](https://www.reddit.com/r/Python/comments/1q7ixsf/database_migrations/)
 - [State Machine Frameworks?](https://www.reddit.com/r/Python/comments/1q7it2g/state_machine_frameworks/)
 - [I am working on a weight&lpar;cost&rpar; based Rate Limiter](https://www.reddit.com/r/Python/comments/1q7e0tp/i_am_working_on_a_weightcost_based_rate_limiter/)
-- [Python Typing Survey 2025: Code Quality and Flexibility As Top Reasons for Typing Adoption](https://www.reddit.com/r/Python/comments/1q7cyz4/python_typing_survey_2025_code_quality_and/)
 <!-- BLOG-POST-LIST:END -->
