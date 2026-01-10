@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Career Transition Advice: ERP Consultant Moving to AI/ML or DevOps](https://www.reddit.com/r/Python/comments/1q8twa5/career_transition_advice_erp_consultant_moving_to/)
 - [A folder-native photo manager in Python/Qt optimized for TB-scale libraries](https://www.reddit.com/r/Python/comments/1q8owrl/a_foldernative_photo_manager_in_pythonqt/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1q8oob4/saturday_daily_thread_resource_request_and/)
 - [Introducing EktuPy](https://www.reddit.com/r/Python/comments/1q8ob3a/introducing_ektupy/)
 - [Why is the KeyboardInterrupt hotkey Control + C?](https://www.reddit.com/r/Python/comments/1q8lv1l/why_is_the_keyboardinterrupt_hotkey_control_c/)
-- [Web Page Document Object Model Probe](https://www.reddit.com/r/Python/comments/1q8kc15/web_page_document_object_model_probe/)
 <!-- BLOG-POST-LIST:END -->
