@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Servy 4.9 released, Turn any Python app into a native Windows service](https://www.reddit.com/r/Python/comments/1q90qxq/servy_49_released_turn_any_python_app_into_a/)
+- [Grantflow.AI codebase is now public](https://www.reddit.com/r/Python/comments/1q8zwvf/grantflowai_codebase_is_now_public/)
 - [img2tensor:Custom tensors creation library to simply image to tensors creation and management.](https://www.reddit.com/r/Python/comments/1q8zkhs/img2tensorcustom_tensors_creation_library_to/)
 - [Issue in translating logic to code](https://www.reddit.com/r/Python/comments/1q8xji7/issue_in_translating_logic_to_code/)
 - [Career Transition Advice: ERP Consultant Moving to AI/ML or DevOps](https://www.reddit.com/r/Python/comments/1q8twa5/career_transition_advice_erp_consultant_moving_to/)
-- [A folder-native photo manager in Python/Qt optimized for TB-scale libraries](https://www.reddit.com/r/Python/comments/1q8owrl/a_foldernative_photo_manager_in_pythonqt/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1q8oob4/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
