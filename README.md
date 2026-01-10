@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A correctness-first self-improving loop for Python code optimization](https://www.reddit.com/r/Python/comments/1q9j1tr/a_correctnessfirst_selfimproving_loop_for_python/)
 - [PyPI and GitHub package stats dashboard](https://www.reddit.com/r/Python/comments/1q9dpui/pypi_and_github_package_stats_dashboard/)
 - [How I stopped hardcoding cookies in my Python automation scripts](https://www.reddit.com/r/Python/comments/1q9bdcg/how_i_stopped_hardcoding_cookies_in_my_python/)
 - [packaging 26.0rc1 is out for testing and is multiple times faster](https://www.reddit.com/r/Python/comments/1q95suk/packaging_260rc1_is_out_for_testing_and_is/)
 - [New Python SDK for the Product Hunt API](https://www.reddit.com/r/Python/comments/1q94jdp/new_python_sdk_for_the_product_hunt_api/)
-- [Servy 4.9 released, Turn any Python app into a native Windows service](https://www.reddit.com/r/Python/comments/1q90qxq/servy_49_released_turn_any_python_app_into_a/)
 <!-- BLOG-POST-LIST:END -->
