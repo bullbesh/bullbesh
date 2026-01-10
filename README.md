@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A folder-native photo manager in Python/Qt optimized for TB-scale libraries](https://www.reddit.com/r/Python/comments/1q8owrl/a_foldernative_photo_manager_in_pythonqt/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1q8oob4/saturday_daily_thread_resource_request_and/)
+- [Introducing EktuPy](https://www.reddit.com/r/Python/comments/1q8ob3a/introducing_ektupy/)
 - [Why is the KeyboardInterrupt hotkey Control + C?](https://www.reddit.com/r/Python/comments/1q8lv1l/why_is_the_keyboardinterrupt_hotkey_control_c/)
 - [Web Page Document Object Model Probe](https://www.reddit.com/r/Python/comments/1q8kc15/web_page_document_object_model_probe/)
-- [Looking for coding buddies](https://www.reddit.com/r/Python/comments/1q8hkh1/looking_for_coding_buddies/)
-- [Built 3 production applications using ACE-Step: Game Audio Middleware, DMCA-Free Music Generator](https://www.reddit.com/r/Python/comments/1q8dzhz/built_3_production_applications_using_acestep/)
-- [Released a tiny vector-field + attractor visualization tool &lpar;fieldviz-mini&rpar;](https://www.reddit.com/r/Python/comments/1q8c0q4/released_a_tiny_vectorfield_attractor/)
 <!-- BLOG-POST-LIST:END -->
