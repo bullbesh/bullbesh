@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB database - Worth learning in 2026?](https://www.reddit.com/r/Python/comments/1qa726b/mongodb_database_worth_learning_in_2026/)
+- [CLI-first RAG management: useful or overengineering?](https://www.reddit.com/r/Python/comments/1qa63ej/clifirst_rag_management_useful_or_overengineering/)
 - [I built a local RAG visualizer to see exactly what nodes my GraphRAG retrieves](https://www.reddit.com/r/Python/comments/1qa4egt/i_built_a_local_rag_visualizer_to_see_exactly/)
 - [Grok access free](https://www.reddit.com/r/Python/comments/1qa4bg3/grok_access_free/)
 - [Ditto Interview Process](https://www.reddit.com/r/Python/comments/1qa3ulv/ditto_interview_process/)
-- [I built a Smart Ride-Pooling Simulation using Google OR-Tools, NetworkX and Random Forest.](https://www.reddit.com/r/Python/comments/1qa1h85/i_built_a_smart_ridepooling_simulation_using/)
-- [Onlymaps v0.2.0 has been released!](https://www.reddit.com/r/Python/comments/1qa19gh/onlymaps_v020_has_been_released/)
 <!-- BLOG-POST-LIST:END -->
