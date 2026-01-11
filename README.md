@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a Smart Ride-Pooling Simulation using Google OR-Tools, NetworkX and Random Forest.](https://www.reddit.com/r/Python/comments/1qa1h85/i_built_a_smart_ridepooling_simulation_using/)
+- [Onlymaps v0.2.0 has been released!](https://www.reddit.com/r/Python/comments/1qa19gh/onlymaps_v020_has_been_released/)
+- [Detecting sync code blocking asyncio event loop &lpar;with stack traces&rpar;](https://www.reddit.com/r/Python/comments/1qa0zyq/detecting_sync_code_blocking_asyncio_event_loop/)
 - [Python can encode meaning directly not represent it, embody it.](https://www.reddit.com/r/Python/comments/1q9ym9v/python_can_encode_meaning_directly_not_represent/)
 - [First project on GitHub, open to being told it’s shit](https://www.reddit.com/r/Python/comments/1q9wq4s/first_project_on_github_open_to_being_told_its/)
-- [Announcing Kreuzberg v4](https://www.reddit.com/r/Python/comments/1q9spbw/announcing_kreuzberg_v4/)
-- [Pygame is capable of true 3D rendering](https://www.reddit.com/r/Python/comments/1q9n723/pygame_is_capable_of_true_3d_rendering/)
-- [The Python Lesson - a song for my son](https://www.reddit.com/r/Python/comments/1q9l6ct/the_python_lesson_a_song_for_my_son/)
 <!-- BLOG-POST-LIST:END -->
