@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [First project on GitHub, open to being told it’s shit](https://www.reddit.com/r/Python/comments/1q9wq4s/first_project_on_github_open_to_being_told_its/)
 - [Announcing Kreuzberg v4](https://www.reddit.com/r/Python/comments/1q9spbw/announcing_kreuzberg_v4/)
 - [Pygame is capable of true 3D rendering](https://www.reddit.com/r/Python/comments/1q9n723/pygame_is_capable_of_true_3d_rendering/)
 - [The Python Lesson - a song for my son](https://www.reddit.com/r/Python/comments/1q9l6ct/the_python_lesson_a_song_for_my_son/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1q9jxqs/sunday_daily_thread_whats_everyone_working_on/)
-- [Possible supply-chain attack waiting to happen on Django projects?](https://www.reddit.com/r/Python/comments/1q9jnhj/possible_supplychain_attack_waiting_to_happen_on/)
 <!-- BLOG-POST-LIST:END -->
