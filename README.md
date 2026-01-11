@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [A correctness-first self-improving loop for Python code optimization](https://www.reddit.com/r/Python/comments/1q9j1tr/a_correctnessfirst_selfimproving_loop_for_python/)
-- [PyPI and GitHub package stats dashboard](https://www.reddit.com/r/Python/comments/1q9dpui/pypi_and_github_package_stats_dashboard/)
-- [How I stopped hardcoding cookies in my Python automation scripts](https://www.reddit.com/r/Python/comments/1q9bdcg/how_i_stopped_hardcoding_cookies_in_my_python/)
-- [packaging 26.0rc1 is out for testing and is multiple times faster](https://www.reddit.com/r/Python/comments/1q95suk/packaging_260rc1_is_out_for_testing_and_is/)
-- [New Python SDK for the Product Hunt API](https://www.reddit.com/r/Python/comments/1q94jdp/new_python_sdk_for_the_product_hunt_api/)
+- [Pygame is capable of true 3D rendering](https://www.reddit.com/r/Python/comments/1q9n723/pygame_is_capable_of_true_3d_rendering/)
+- [The Python Lesson - a song for my son](https://www.reddit.com/r/Python/comments/1q9l6ct/the_python_lesson_a_song_for_my_son/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1q9jxqs/sunday_daily_thread_whats_everyone_working_on/)
+- [Possible supply-chain attack waiting to happen on Django projects?](https://www.reddit.com/r/Python/comments/1q9jnhj/possible_supplychain_attack_waiting_to_happen_on/)
+- [&quot;I built a maintenance dispatch system for my factory using Flask - here&#39;s what I learned&quot;](https://www.reddit.com/r/Python/comments/1q9j7qx/i_built_a_maintenance_dispatch_system_for_my/)
 <!-- BLOG-POST-LIST:END -->
