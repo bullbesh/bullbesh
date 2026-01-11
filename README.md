@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a local RAG visualizer to see exactly what nodes my GraphRAG retrieves](https://www.reddit.com/r/Python/comments/1qa4egt/i_built_a_local_rag_visualizer_to_see_exactly/)
+- [Grok access free](https://www.reddit.com/r/Python/comments/1qa4bg3/grok_access_free/)
+- [Ditto Interview Process](https://www.reddit.com/r/Python/comments/1qa3ulv/ditto_interview_process/)
 - [I built a Smart Ride-Pooling Simulation using Google OR-Tools, NetworkX and Random Forest.](https://www.reddit.com/r/Python/comments/1qa1h85/i_built_a_smart_ridepooling_simulation_using/)
 - [Onlymaps v0.2.0 has been released!](https://www.reddit.com/r/Python/comments/1qa19gh/onlymaps_v020_has_been_released/)
-- [Detecting sync code blocking asyncio event loop &lpar;with stack traces&rpar;](https://www.reddit.com/r/Python/comments/1qa0zyq/detecting_sync_code_blocking_asyncio_event_loop/)
-- [Python can encode meaning directly not represent it, embody it.](https://www.reddit.com/r/Python/comments/1q9ym9v/python_can_encode_meaning_directly_not_represent/)
-- [First project on GitHub, open to being told it’s shit](https://www.reddit.com/r/Python/comments/1q9wq4s/first_project_on_github_open_to_being_told_its/)
 <!-- BLOG-POST-LIST:END -->
