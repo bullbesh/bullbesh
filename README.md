@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a small local-first embedded database in Python &lpar;hvpdb&rpar;](https://www.reddit.com/r/Python/comments/1qambtr/i_made_a_small_localfirst_embedded_database_in/)
+- [Just launched Plano v0.4 - a unified data plane supporting polyglot AI development](https://www.reddit.com/r/Python/comments/1qal0mz/just_launched_plano_v04_a_unified_data_plane/)
 - [My First Shipped Project: BMI Calculator with Flexible Units &amp; History Tracking&quot; + link + &quot;Feedback](https://www.reddit.com/r/Python/comments/1qaka1l/my_first_shipped_project_bmi_calculator_with/)
 - [Released Tapi v0.2.0](https://www.reddit.com/r/Python/comments/1qagmwm/released_tapi_v020/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1qafedy/monday_daily_thread_project_ideas/)
-- [ServiceGraph-py. Dependency Injection For the .NET convert!](https://www.reddit.com/r/Python/comments/1qaekll/servicegraphpy_dependency_injection_for_the_net/)
-- [Released another tiny &lpar;&lt;200 lines&rpar; Python tool for detecting drift + regime shifts in time-series](https://www.reddit.com/r/Python/comments/1qaei36/released_another_tiny_200_lines_python_tool_for/)
 <!-- BLOG-POST-LIST:END -->
