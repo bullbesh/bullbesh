@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Project] llm-chunker: A semantic text splitter that finds logical boundaries instead of cutting mid](https://www.reddit.com/r/Python/comments/1qas9lq/project_llmchunker_a_semantic_text_splitter_that/)
+- [python-mlb-statsapi - a Python wrapper for the MLB Stats API](https://www.reddit.com/r/Python/comments/1qas451/pythonmlbstatsapi_a_python_wrapper_for_the_mlb/)
 - [MONICA: A Python interactive CLI that wraps FFmpeg into a keyboard-driven media workflow](https://www.reddit.com/r/Python/comments/1qar754/monica_a_python_interactive_cli_that_wraps_ffmpeg/)
 - [I open-sourced feishu-docx: A tool to bridge Feishu/Lark cloud documents with AI Agents](https://www.reddit.com/r/Python/comments/1qap4v8/i_opensourced_feishudocx_a_tool_to_bridge/)
 - [mcp server lelo mcp server lelo free mein mcp server lelo](https://www.reddit.com/r/Python/comments/1qampzw/mcp_server_lelo_mcp_server_lelo_free_mein_mcp/)
-- [I made a small local-first embedded database in Python &lpar;hvpdb&rpar;](https://www.reddit.com/r/Python/comments/1qambtr/i_made_a_small_localfirst_embedded_database_in/)
-- [Just launched Plano v0.4 - a unified data plane supporting polyglot AI development](https://www.reddit.com/r/Python/comments/1qal0mz/just_launched_plano_v04_a_unified_data_plane/)
 <!-- BLOG-POST-LIST:END -->
