@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My First Shipped Project: BMI Calculator with Flexible Units &amp; History Tracking&quot; + link + &quot;Feedback](https://www.reddit.com/r/Python/comments/1qaka1l/my_first_shipped_project_bmi_calculator_with/)
 - [Released Tapi v0.2.0](https://www.reddit.com/r/Python/comments/1qagmwm/released_tapi_v020/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1qafedy/monday_daily_thread_project_ideas/)
 - [ServiceGraph-py. Dependency Injection For the .NET convert!](https://www.reddit.com/r/Python/comments/1qaekll/servicegraphpy_dependency_injection_for_the_net/)
 - [Released another tiny &lpar;&lt;200 lines&rpar; Python tool for detecting drift + regime shifts in time-series](https://www.reddit.com/r/Python/comments/1qaei36/released_another_tiny_200_lines_python_tool_for/)
-- [Is &quot;python fir everybody&quot; still a relevant course?](https://www.reddit.com/r/Python/comments/1qaaxwm/is_python_fir_everybody_still_a_relevant_course/)
 <!-- BLOG-POST-LIST:END -->
