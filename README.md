@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MONICA: A Python interactive CLI that wraps FFmpeg into a keyboard-driven media workflow](https://www.reddit.com/r/Python/comments/1qar754/monica_a_python_interactive_cli_that_wraps_ffmpeg/)
 - [I open-sourced feishu-docx: A tool to bridge Feishu/Lark cloud documents with AI Agents](https://www.reddit.com/r/Python/comments/1qap4v8/i_opensourced_feishudocx_a_tool_to_bridge/)
 - [mcp server lelo mcp server lelo free mein mcp server lelo](https://www.reddit.com/r/Python/comments/1qampzw/mcp_server_lelo_mcp_server_lelo_free_mein_mcp/)
 - [I made a small local-first embedded database in Python &lpar;hvpdb&rpar;](https://www.reddit.com/r/Python/comments/1qambtr/i_made_a_small_localfirst_embedded_database_in/)
 - [Just launched Plano v0.4 - a unified data plane supporting polyglot AI development](https://www.reddit.com/r/Python/comments/1qal0mz/just_launched_plano_v04_a_unified_data_plane/)
-- [My First Shipped Project: BMI Calculator with Flexible Units &amp; History Tracking&quot; + link + &quot;Feedback](https://www.reddit.com/r/Python/comments/1qaka1l/my_first_shipped_project_bmi_calculator_with/)
 <!-- BLOG-POST-LIST:END -->
