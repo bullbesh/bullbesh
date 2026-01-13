@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1qbbrc2/tuesday_daily_thread_advanced_questions/)
+- [Sampo — Automate changelogs, versioning, and publishing](https://www.reddit.com/r/Python/comments/1qbblti/sampo_automate_changelogs_versioning_and/)
+- [I built SnippHub: a community-driven code snippet hub &lpar;multilanguage&rpar; — looking for feedback](https://www.reddit.com/r/Python/comments/1qbbcq3/i_built_snipphub_a_communitydriven_code_snippet/)
 - [Pato - Query, Summarize, and Transform files on the command line with SQL](https://www.reddit.com/r/Python/comments/1qban32/pato_query_summarize_and_transform_files_on_the/)
 - [Time for Tk to update its terminology](https://www.reddit.com/r/Python/comments/1qb5zz3/time_for_tk_to_update_its_terminology/)
-- [Shuuten v0.2 – Get Slack &amp; Email alerts when Python Lambdas / ECS tasks fail](https://www.reddit.com/r/Python/comments/1qb1nds/shuuten_v02_get_slack_email_alerts_when_python/)
-- [Pypi Down Is Costing Me Tokens](https://www.reddit.com/r/Python/comments/1qb0box/pypi_down_is_costing_me_tokens/)
-- [I built a decorator-first task scheduler because I was tired of setting up Celery for cron jobs](https://www.reddit.com/r/Python/comments/1qaxl4q/i_built_a_decoratorfirst_task_scheduler_because_i/)
 <!-- BLOG-POST-LIST:END -->
