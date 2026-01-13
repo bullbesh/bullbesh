@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ssrJSON: faster than the fastest JSON, SIMD-accelerated CPython JSON with a json-compatible API](https://www.reddit.com/r/Python/comments/1qbw4xa/ssrjson_faster_than_the_fastest_json/)
+- [Anthropic invests $1.5 million in the Python Software Foundation and open source security](https://www.reddit.com/r/Python/comments/1qbvx2s/anthropic_invests_15_million_in_the_python/)
+- [People skeptical about the use of LLM.](https://www.reddit.com/r/Python/comments/1qbvmce/people_skeptical_about_the_use_of_llm/)
+- [Why I stopped trying to build a &quot;Smart&quot; Python compiler and switched to a &quot;Dumb&quot; one.](https://www.reddit.com/r/Python/comments/1qbviqd/why_i_stopped_trying_to_build_a_smart_python/)
 - [Looking for convenient Python prompts on Windows](https://www.reddit.com/r/Python/comments/1qbtlhz/looking_for_convenient_python_prompts_on_windows/)
-- [I mapped Google NotebookLM&#39;s internal RPC protocol to build a Python Library](https://www.reddit.com/r/Python/comments/1qbtgws/i_mapped_google_notebooklms_internal_rpc_protocol/)
-- [do you refactor Python without missing hidden dependencies?](https://www.reddit.com/r/Python/comments/1qbs5tk/do_you_refactor_python_without_missing_hidden/)
-- [📈 stocksTUI - terminal-based market + macro data app built with Textual &lpar;now with FRED&rpar;](https://www.reddit.com/r/Python/comments/1qbrm6s/stockstui_terminalbased_market_macro_data_app/)
-- [Polars vs Pandas in 2025 — have you fully migrated yet?](https://www.reddit.com/r/Python/comments/1qbrioj/polars_vs_pandas_in_2025_have_you_fully_migrated/)
 <!-- BLOG-POST-LIST:END -->
