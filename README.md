@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [📈 stocksTUI - terminal-based market + macro data app built with Textual &lpar;now with FRED&rpar;](https://www.reddit.com/r/Python/comments/1qbrm6s/stockstui_terminalbased_market_macro_data_app/)
+- [Polars vs Pandas in 2025 — have you fully migrated yet?](https://www.reddit.com/r/Python/comments/1qbrioj/polars_vs_pandas_in_2025_have_you_fully_migrated/)
 - [Built an app that helps you manage your installed Python packages](https://www.reddit.com/r/Python/comments/1qbnv2s/built_an_app_that_helps_you_manage_your_installed/)
 - [&lpar;RANT&rpar; Keep Binary Numbers in your Head](https://www.reddit.com/r/Python/comments/1qblg7b/rant_keep_binary_numbers_in_your_head/)
 - [I built a modern Windows Optimizer using PySide6 &lpar;Qt&rpar; and Python. Looking for feedback on the code!](https://www.reddit.com/r/Python/comments/1qbjj8j/i_built_a_modern_windows_optimizer_using_pyside6/)
-- [I built a desktop music player with Python because I was tired of bloated apps and compressed music](https://www.reddit.com/r/Python/comments/1qbhmeb/i_built_a_desktop_music_player_with_python/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1qbbrc2/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
