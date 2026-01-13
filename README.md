@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Looking for convenient Python prompts on Windows](https://www.reddit.com/r/Python/comments/1qbtlhz/looking_for_convenient_python_prompts_on_windows/)
+- [I mapped Google NotebookLM&#39;s internal RPC protocol to build a Python Library](https://www.reddit.com/r/Python/comments/1qbtgws/i_mapped_google_notebooklms_internal_rpc_protocol/)
 - [do you refactor Python without missing hidden dependencies?](https://www.reddit.com/r/Python/comments/1qbs5tk/do_you_refactor_python_without_missing_hidden/)
 - [📈 stocksTUI - terminal-based market + macro data app built with Textual &lpar;now with FRED&rpar;](https://www.reddit.com/r/Python/comments/1qbrm6s/stockstui_terminalbased_market_macro_data_app/)
 - [Polars vs Pandas in 2025 — have you fully migrated yet?](https://www.reddit.com/r/Python/comments/1qbrioj/polars_vs_pandas_in_2025_have_you_fully_migrated/)
-- [Built an app that helps you manage your installed Python packages](https://www.reddit.com/r/Python/comments/1qbnv2s/built_an_app_that_helps_you_manage_your_installed/)
-- [&lpar;RANT&rpar; Keep Binary Numbers in your Head](https://www.reddit.com/r/Python/comments/1qblg7b/rant_keep_binary_numbers_in_your_head/)
 <!-- BLOG-POST-LIST:END -->
