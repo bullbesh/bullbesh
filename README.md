@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [A Dead-Simple Reservation Web App Framework Abusing Mkdocs](https://www.reddit.com/r/Python/comments/1qcfa2a/a_deadsimple_reservation_web_app_framework/)
+- [LibMGE: a lightweight SDL2-based 2D graphics &amp; game library in Python &lpar;looking for feedback&rpar;](https://www.reddit.com/r/Python/comments/1qca58a/libmge_a_lightweight_sdl2based_2d_graphics_game/)
 - [agent-kit: A small Python runtime + UI layer on top of Anthropic Agents SDK](https://www.reddit.com/r/Python/comments/1qc9yp3/agentkit_a_small_python_runtime_ui_layer_on_top/)
 - [Jetbase - A Modern Python Database Migration Tool &lpar;Alembic alternative&rpar;](https://www.reddit.com/r/Python/comments/1qc7wxe/jetbase_a_modern_python_database_migration_tool/)
 - [Releasing an open-source structural dynamics engine for emergent pattern formation](https://www.reddit.com/r/Python/comments/1qc6b5z/releasing_an_opensource_structural_dynamics/)
-- [Dakar 2026 Realtime Stage Visualizer in Python](https://www.reddit.com/r/Python/comments/1qc3fue/dakar_2026_realtime_stage_visualizer_in_python/)
 <!-- BLOG-POST-LIST:END -->
