@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Polars vs Pandas in 2025 — have you fully migrated yet?](https://www.reddit.com/r/Python/comments/1qcati8/polars_vs_pandas_in_2025_have_you_fully_migrated/)
+- [agent-kit: A small Python runtime + UI layer on top of Anthropic Agents SDK](https://www.reddit.com/r/Python/comments/1qc9yp3/agentkit_a_small_python_runtime_ui_layer_on_top/)
+- [Jetbase - A Modern Python Database Migration Tool &lpar;Alembic alternative&rpar;](https://www.reddit.com/r/Python/comments/1qc7wxe/jetbase_a_modern_python_database_migration_tool/)
 - [Releasing an open-source structural dynamics engine for emergent pattern formation](https://www.reddit.com/r/Python/comments/1qc6b5z/releasing_an_opensource_structural_dynamics/)
-- [FixitPy - A Python interface with iFixit&#39;s API](https://www.reddit.com/r/Python/comments/1qc3a28/fixitpy_a_python_interface_with_ifixits_api/)
-- [I replaced FastAPI with Pyodide: My visual ETL tool now runs 100% in-browser](https://www.reddit.com/r/Python/comments/1qbxkde/i_replaced_fastapi_with_pyodide_my_visual_etl/)
-- [ssrJSON: faster than the fastest JSON, SIMD-accelerated CPython JSON with a json-compatible API](https://www.reddit.com/r/Python/comments/1qbw4xa/ssrjson_faster_than_the_fastest_json/)
-- [Anthropic invests $1.5 million in the Python Software Foundation and open source security](https://www.reddit.com/r/Python/comments/1qbvx2s/anthropic_invests_15_million_in_the_python/)
+- [Dakar 2026 Realtime Stage Visualizer in Python](https://www.reddit.com/r/Python/comments/1qc3fue/dakar_2026_realtime_stage_visualizer_in_python/)
 <!-- BLOG-POST-LIST:END -->
