@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Email-Management: A Python Library for Smarter IMAP/SMTP + LLM Workflows](https://www.reddit.com/r/Python/comments/1qcmm05/introducing_emailmanagement_a_python_library_for/)
+- [I’ve published a new audio DSP/Synthesis package to PyPI](https://www.reddit.com/r/Python/comments/1qcmi4t/ive_published_a_new_audio_dspsynthesis_package_to/)
+- [We’re Launching the ThingsBoard Gateway &amp; SDKs Discord Server!](https://www.reddit.com/r/Python/comments/1qcll7x/were_launching_the_thingsboard_gateway_sdks/)
+- [I built a modern, type-safe rate limiter for Django with Async support &lpar;v1.0.1&rpar;](https://www.reddit.com/r/Python/comments/1qcl64a/i_built_a_modern_typesafe_rate_limiter_for_django/)
 - [Ever Tried a Control Layer for LLM APIs? Meet TensorW](https://www.reddit.com/r/Python/comments/1qcjy2o/ever_tried_a_control_layer_for_llm_apis_meet/)
-- [Licenses on PyPI](https://www.reddit.com/r/Python/comments/1qch5cv/licenses_on_pypi/)
-- [A Dead-Simple Reservation Web App Framework Abusing Mkdocs](https://www.reddit.com/r/Python/comments/1qcfa2a/a_deadsimple_reservation_web_app_framework/)
-- [LibMGE: a lightweight SDL2-based 2D graphics &amp; game library in Python &lpar;looking for feedback&rpar;](https://www.reddit.com/r/Python/comments/1qca58a/libmge_a_lightweight_sdl2based_2d_graphics_game/)
-- [agent-kit: A small Python runtime + UI layer on top of Anthropic Agents SDK](https://www.reddit.com/r/Python/comments/1qc9yp3/agentkit_a_small_python_runtime_ui_layer_on_top/)
 <!-- BLOG-POST-LIST:END -->
