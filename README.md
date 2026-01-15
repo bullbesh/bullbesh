@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2024-12718 Python Tarfile module how to mitigate on 3.14.2](https://www.reddit.com/r/Python/comments/1qdjdjw/cve202412718_python_tarfile_module_how_to/)
-- [Tired of catching N+1 queries in production?](https://www.reddit.com/r/Python/comments/1qdj4ya/tired_of_catching_n1_queries_in_production/)
-- [Modularity in bigger applications](https://www.reddit.com/r/Python/comments/1qdi3j7/modularity_in_bigger_applications/)
-- [Made a small Python tool to scan repos for secrets/junk + install a pre-commit hook](https://www.reddit.com/r/Python/comments/1qdhkwv/made_a_small_python_tool_to_scan_repos_for/)
-- [Any suggestions for Python development classes in Thane?](https://www.reddit.com/r/Python/comments/1qdeshn/any_suggestions_for_python_development_classes_in/)
+- [Please recommend a front-end framework/package](https://www.reddit.com/r/Python/comments/1qdz1qu/please_recommend_a_frontend_frameworkpackage/)
+- [[For Hire] Python Bug Fixes – Crashes, Infinite Loops, Errors &lpar;Available Today&rpar;](https://www.reddit.com/r/Python/comments/1qdwcsf/for_hire_python_bug_fixes_crashes_infinite_loops/)
+- [ChatGPT vs. Python for a Web-Scraping &lpar;and Beyond&rpar; Task](https://www.reddit.com/r/Python/comments/1qdsjwz/chatgpt_vs_python_for_a_webscraping_and_beyond/)
+- [Stale Code and what to do about it](https://www.reddit.com/r/Python/comments/1qdoxmu/stale_code_and_what_to_do_about_it/)
+- [[Showcase] ReFlow - Open-Source Local AI Pipeline for Video Dubbing &lpar;Python/CustomTkinter&rpar;](https://www.reddit.com/r/Python/comments/1qdo7v1/showcase_reflow_opensource_local_ai_pipeline_for/)
 <!-- BLOG-POST-LIST:END -->
