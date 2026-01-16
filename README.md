@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why was the &quot;Edit with IDLE&quot; option removed after 3.14 update?](https://www.reddit.com/r/Python/comments/1qejuch/why_was_the_edit_with_idle_option_removed_after/)
+- [DVDfab Python issue](https://www.reddit.com/r/Python/comments/1qeo4sj/dvdfab_python_issue/)
 - [print&lpar; &#39;Hello World&#39;&rpar;](https://www.reddit.com/r/Python/comments/1qegdrs/print_hello_world/)
 - [Finally automated my PDF-to-Excel workflow using Python, Shared the core logic!](https://www.reddit.com/r/Python/comments/1qectxu/finally_automated_my_pdftoexcel_workflow_using/)
 - [Is python Development Course in Thane Suitable for Freshers?](https://www.reddit.com/r/Python/comments/1qec53f/is_python_development_course_in_thane_suitable/)
