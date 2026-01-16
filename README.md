@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Please recommend a front-end framework/package](https://www.reddit.com/r/Python/comments/1qdz1qu/please_recommend_a_frontend_frameworkpackage/)
-- [[For Hire] Python Bug Fixes – Crashes, Infinite Loops, Errors &lpar;Available Today&rpar;](https://www.reddit.com/r/Python/comments/1qdwcsf/for_hire_python_bug_fixes_crashes_infinite_loops/)
-- [ChatGPT vs. Python for a Web-Scraping &lpar;and Beyond&rpar; Task](https://www.reddit.com/r/Python/comments/1qdsjwz/chatgpt_vs_python_for_a_webscraping_and_beyond/)
-- [Stale Code and what to do about it](https://www.reddit.com/r/Python/comments/1qdoxmu/stale_code_and_what_to_do_about_it/)
-- [[Showcase] ReFlow - Open-Source Local AI Pipeline for Video Dubbing &lpar;Python/CustomTkinter&rpar;](https://www.reddit.com/r/Python/comments/1qdo7v1/showcase_reflow_opensource_local_ai_pipeline_for/)
+- [PDC Struct: Pydantic-Powered Binary Serialization for Python](https://www.reddit.com/r/Python/comments/1qe2hfx/pdc_struct_pydanticpowered_binary_serialization/)
+- [TypedUUID - Type-safe UUIDs with prefixes for Python](https://www.reddit.com/r/Python/comments/1qe1wsh/typeduuid_typesafe_uuids_with_prefixes_for_python/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1qe0a84/friday_daily_thread_rpython_meta_and_freetalk/)
+- [Audit Python packages for indirect platform-specific dependencies and subprocess/system calls](https://www.reddit.com/r/Python/comments/1qe03a4/audit_python_packages_for_indirect/)
+- [Zero-setup Python execution with Pyodide &lpar;client-side&rpar; and Binder execution environments](https://www.reddit.com/r/Python/comments/1qdzt0o/zerosetup_python_execution_with_pyodide/)
 <!-- BLOG-POST-LIST:END -->
