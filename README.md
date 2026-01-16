@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [DVDfab Python issue](https://www.reddit.com/r/Python/comments/1qeo4sj/dvdfab_python_issue/)
+- [What Python Tools Do You Use for Data Visualization and Why?](https://www.reddit.com/r/Python/comments/1qeq7c7/what_python_tools_do_you_use_for_data/)
+- [PyBotchi 3.1.2: Scalable &amp; Distributed AI Agent Orchestration](https://www.reddit.com/r/Python/comments/1qeq2kq/pybotchi_312_scalable_distributed_ai_agent/)
+- [[Framework] I had some circular imports, so I built a lightweight Registry. Now things are cool..](https://www.reddit.com/r/Python/comments/1qep76i/framework_i_had_some_circular_imports_so_i_built/)
+- [Audio to video generator](https://www.reddit.com/r/Python/comments/1qeoppx/audio_to_video_generator/)
 - [print&lpar; &#39;Hello World&#39;&rpar;](https://www.reddit.com/r/Python/comments/1qegdrs/print_hello_world/)
-- [Finally automated my PDF-to-Excel workflow using Python, Shared the core logic!](https://www.reddit.com/r/Python/comments/1qectxu/finally_automated_my_pdftoexcel_workflow_using/)
-- [Is python Development Course in Thane Suitable for Freshers?](https://www.reddit.com/r/Python/comments/1qec53f/is_python_development_course_in_thane_suitable/)
-- [I got humbled so baaddd](https://www.reddit.com/r/Python/comments/1qec0cv/i_got_humbled_so_baaddd/)
 <!-- BLOG-POST-LIST:END -->
