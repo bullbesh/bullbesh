@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why was the &quot;Edit with IDLE&quot; option removed after 3.14 update?](https://www.reddit.com/r/Python/comments/1qejuch/why_was_the_edit_with_idle_option_removed_after/)
+- [print&lpar; &#39;Hello World&#39;&rpar;](https://www.reddit.com/r/Python/comments/1qegdrs/print_hello_world/)
 - [Finally automated my PDF-to-Excel workflow using Python, Shared the core logic!](https://www.reddit.com/r/Python/comments/1qectxu/finally_automated_my_pdftoexcel_workflow_using/)
 - [Is python Development Course in Thane Suitable for Freshers?](https://www.reddit.com/r/Python/comments/1qec53f/is_python_development_course_in_thane_suitable/)
 - [I got humbled so baaddd](https://www.reddit.com/r/Python/comments/1qec0cv/i_got_humbled_so_baaddd/)
-- [Introducing flask-gae-logging, for a better DX when building Flask apps in Google AppEngine](https://www.reddit.com/r/Python/comments/1qebmcw/introducing_flaskgaelogging_for_a_better_dx_when/)
-- [What’s one Python data tool you ignored for too long?](https://www.reddit.com/r/Python/comments/1qe9vo9/whats_one_python_data_tool_you_ignored_for_too/)
 <!-- BLOG-POST-LIST:END -->
