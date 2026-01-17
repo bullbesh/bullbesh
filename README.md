@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I fixed my rhomboid muscle pain from sitting all day at the desk](https://www.reddit.com/r/Python/comments/1qezdae/how_i_fixed_my_rhomboid_muscle_pain_from_sitting/)
+- [What&#39;s your usual strategy to handle messy CSV / JSON data before processing?](https://www.reddit.com/r/Python/comments/1qexoxm/whats_your_usual_strategy_to_handle_messy_csv/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1qewu9l/saturday_daily_thread_resource_request_and/)
+- [Wiktionary UI-improved Application I made! &lpar;Open Source and Free to use&rpar;](https://www.reddit.com/r/Python/comments/1qewu8a/wiktionary_uiimproved_application_i_made_open/)
 - [Do you prefer manually written or generated API types/classes? &lpar;RPC, OpenAPI, Swagger, etc.&rpar;](https://www.reddit.com/r/Python/comments/1qetxz1/do_you_prefer_manually_written_or_generated_api/)
-- [When to start over](https://www.reddit.com/r/Python/comments/1qerlgz/when_to_start_over/)
-- [What Python Tools Do You Use for Data Visualization and Why?](https://www.reddit.com/r/Python/comments/1qeq7c7/what_python_tools_do_you_use_for_data/)
-- [PyBotchi 3.1.2: Scalable &amp; Distributed AI Agent Orchestration](https://www.reddit.com/r/Python/comments/1qeq2kq/pybotchi_312_scalable_distributed_ai_agent/)
-- [[Framework] I had some circular imports, so I built a lightweight Registry. Now things are cool..](https://www.reddit.com/r/Python/comments/1qep76i/framework_i_had_some_circular_imports_so_i_built/)
 <!-- BLOG-POST-LIST:END -->
