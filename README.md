@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [How I fixed my rhomboid muscle pain from sitting all day at the desk](https://www.reddit.com/r/Python/comments/1qezdae/how_i_fixed_my_rhomboid_muscle_pain_from_sitting/)
+- [Constant dull ache and stiffness in the Rhomboid area &lpar;between shoulder blade and spine&rpar;](https://www.reddit.com/r/Python/comments/1qf1zox/constant_dull_ache_and_stiffness_in_the_rhomboid/)
 - [What&#39;s your usual strategy to handle messy CSV / JSON data before processing?](https://www.reddit.com/r/Python/comments/1qexoxm/whats_your_usual_strategy_to_handle_messy_csv/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1qewu9l/saturday_daily_thread_resource_request_and/)
-- [Wiktionary UI-improved Application I made! &lpar;Open Source and Free to use&rpar;](https://www.reddit.com/r/Python/comments/1qewu8a/wiktionary_uiimproved_application_i_made_open/)
 - [Do you prefer manually written or generated API types/classes? &lpar;RPC, OpenAPI, Swagger, etc.&rpar;](https://www.reddit.com/r/Python/comments/1qetxz1/do_you_prefer_manually_written_or_generated_api/)
+- [When to start over](https://www.reddit.com/r/Python/comments/1qerlgz/when_to_start_over/)
 <!-- BLOG-POST-LIST:END -->
