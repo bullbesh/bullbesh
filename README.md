@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [When did you start caring more about code structure in Python?](https://www.reddit.com/r/Python/comments/1qf5tdj/when_did_you_start_caring_more_about_code/)
-- [Python Script Ranking All 262,143 Possible Pokemon Type Combinations](https://www.reddit.com/r/Python/comments/1qf56jo/python_script_ranking_all_262143_possible_pokemon/)
-- [What&#39;s your usual strategy to handle messy CSV / JSON data before processing?](https://www.reddit.com/r/Python/comments/1qexoxm/whats_your_usual_strategy_to_handle_messy_csv/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1qewu9l/saturday_daily_thread_resource_request_and/)
-- [Do you prefer manually written or generated API types/classes? &lpar;RPC, OpenAPI, Swagger, etc.&rpar;](https://www.reddit.com/r/Python/comments/1qetxz1/do_you_prefer_manually_written_or_generated_api/)
+- [I built TimeTracer, record/replay API calls locally + dashboard](https://www.reddit.com/r/Python/comments/1qflvmi/i_built_timetracer_recordreplay_api_calls_locally/)
+- [Built a Typer CLI to Run Ralph Loops in a Given Folder &lpar;and a function to improve those plans&rpar;](https://www.reddit.com/r/Python/comments/1qflkuh/built_a_typer_cli_to_run_ralph_loops_in_a_given/)
+- [Python stack for web apps](https://www.reddit.com/r/Python/comments/1qfjxhs/python_stack_for_web_apps/)
+- [Why it&#39;s so hard to find python job?](https://www.reddit.com/r/Python/comments/1qfjczm/why_its_so_hard_to_find_python_job/)
+- [Which is better for desktop applications, Flat or QT?](https://www.reddit.com/r/Python/comments/1qfgocp/which_is_better_for_desktop_applications_flat_or/)
 <!-- BLOG-POST-LIST:END -->
