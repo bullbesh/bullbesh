@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a dead-simple LLM TCO calculator because we were drowning in cost spreadsheets every week](https://www.reddit.com/r/Python/comments/1qfuhy3/i_built_a_deadsimple_llm_tco_calculator_because/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1qft1ma/sunday_daily_thread_whats_everyone_working_on/)
 - [pypecdp - a fully async python driver for chrome using pipes](https://www.reddit.com/r/Python/comments/1qfmaq0/pypecdp_a_fully_async_python_driver_for_chrome/)
 - [I built TimeTracer, record/replay API calls locally + dashboard](https://www.reddit.com/r/Python/comments/1qflvmi/i_built_timetracer_recordreplay_api_calls_locally/)
 - [Built a Typer CLI to Run Ralph Loops in a Given Folder &lpar;and a function to improve those plans&rpar;](https://www.reddit.com/r/Python/comments/1qflkuh/built_a_typer_cli_to_run_ralph_loops_in_a_given/)
-- [Why it&#39;s so hard to find python job?](https://www.reddit.com/r/Python/comments/1qfjczm/why_its_so_hard_to_find_python_job/)
-- [Which is better for desktop applications, Flat or QT?](https://www.reddit.com/r/Python/comments/1qfgocp/which_is_better_for_desktop_applications_flat_or/)
 <!-- BLOG-POST-LIST:END -->
