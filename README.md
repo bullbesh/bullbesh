@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [MetaXuda: pip install → Native Metal GPU for Numba on Apple Silicon &lpar;93% util&rpar;](https://www.reddit.com/r/Python/comments/1qgd1e0/metaxuda_pip_install_native_metal_gpu_for_numba/)
+- [Inquirer library based on Textual](https://www.reddit.com/r/Python/comments/1qgcwjx/inquirer_library_based_on_textual/)
+- [fdir - find and organize anything on your system &lpar;v3.1.0&rpar;](https://www.reddit.com/r/Python/comments/1qgblie/fdir_find_and_organize_anything_on_your_system/)
 - [Robyn &lpar;finally&rpar; supports Python 3.14 🎉](https://www.reddit.com/r/Python/comments/1qgai08/robyn_finally_supports_python_314/)
 - [I built event2vector, a scikit‑style library for event sequence embeddings in Python&rpar;](https://www.reddit.com/r/Python/comments/1qgaac2/i_built_event2vector_a_scikitstyle_library_for/)
-- [I built a dead-simple LLM TCO calculator because we were drowning in cost spreadsheets every week](https://www.reddit.com/r/Python/comments/1qfuhy3/i_built_a_deadsimple_llm_tco_calculator_because/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1qft1ma/sunday_daily_thread_whats_everyone_working_on/)
-- [pypecdp - a fully async python driver for chrome using pipes](https://www.reddit.com/r/Python/comments/1qfmaq0/pypecdp_a_fully_async_python_driver_for_chrome/)
 <!-- BLOG-POST-LIST:END -->
