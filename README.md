@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pyauto_desktop: Benchmarks, window controls, OCR](https://www.reddit.com/r/Python/comments/1qgjcsk/pyauto_desktop_benchmarks_window_controls_ocr/)
 - [MetaXuda: pip install → Native Metal GPU for Numba on Apple Silicon &lpar;93% util&rpar;](https://www.reddit.com/r/Python/comments/1qgd1e0/metaxuda_pip_install_native_metal_gpu_for_numba/)
 - [Inquirer library based on Textual](https://www.reddit.com/r/Python/comments/1qgcwjx/inquirer_library_based_on_textual/)
 - [fdir - find and organize anything on your system &lpar;v3.1.0&rpar;](https://www.reddit.com/r/Python/comments/1qgblie/fdir_find_and_organize_anything_on_your_system/)
 - [Robyn &lpar;finally&rpar; supports Python 3.14 🎉](https://www.reddit.com/r/Python/comments/1qgai08/robyn_finally_supports_python_314/)
-- [I built event2vector, a scikit‑style library for event sequence embeddings in Python&rpar;](https://www.reddit.com/r/Python/comments/1qgaac2/i_built_event2vector_a_scikitstyle_library_for/)
 <!-- BLOG-POST-LIST:END -->
