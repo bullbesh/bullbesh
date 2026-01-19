@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Version in Production ?](https://www.reddit.com/r/Python/comments/1qgt083/python_version_in_production/)
+- [What physical hurdle is stopping you from coding all day ?](https://www.reddit.com/r/Python/comments/1qgsu2z/what_physical_hurdle_is_stopping_you_from_coding/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1qgoj8c/monday_daily_thread_project_ideas/)
 - [[Project] Moosey CMS: A drop-in, database-free Markdown CMS for FastAPI with Hot Reloading](https://www.reddit.com/r/Python/comments/1qglduj/project_moosey_cms_a_dropin_databasefree_markdown/)
 - [pyauto_desktop: Benchmarks, window controls, OCR](https://www.reddit.com/r/Python/comments/1qgjcsk/pyauto_desktop_benchmarks_window_controls_ocr/)
-- [MetaXuda: pip install → Native Metal GPU for Numba on Apple Silicon &lpar;93% util&rpar;](https://www.reddit.com/r/Python/comments/1qgd1e0/metaxuda_pip_install_native_metal_gpu_for_numba/)
-- [Inquirer library based on Textual](https://www.reddit.com/r/Python/comments/1qgcwjx/inquirer_library_based_on_textual/)
 <!-- BLOG-POST-LIST:END -->
