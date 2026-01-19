@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[release] 0.13.1 rug released](https://www.reddit.com/r/Python/comments/1qh0biq/release_0131_rug_released/)
 - [PKsinew: Python-powered Pokemon save manager with embedded emulator,tracking,achievements &amp; rewards](https://www.reddit.com/r/Python/comments/1qgydi3/pksinew_pythonpowered_pokemon_save_manager_with/)
 - [Python Version in Production ?](https://www.reddit.com/r/Python/comments/1qgt083/python_version_in_production/)
 - [What physical hurdle is stopping you from coding all day ?](https://www.reddit.com/r/Python/comments/1qgsu2z/what_physical_hurdle_is_stopping_you_from_coding/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1qgoj8c/monday_daily_thread_project_ideas/)
-- [[Project] Moosey CMS: A drop-in, database-free Markdown CMS for FastAPI with Hot Reloading](https://www.reddit.com/r/Python/comments/1qglduj/project_moosey_cms_a_dropin_databasefree_markdown/)
 <!-- BLOG-POST-LIST:END -->
