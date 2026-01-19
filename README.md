@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a Python UI framework inspired by Streamlit, but with O&lpar;1&rpar; state updates](https://www.reddit.com/r/Python/comments/1qh6733/i_built_a_python_ui_framework_inspired_by/)
 - [I built an tool for ethical hacking in Python.](https://www.reddit.com/r/Python/comments/1qh30lv/i_built_an_tool_for_ethical_hacking_in_python/)
 - [async for IO-bound components only?](https://www.reddit.com/r/Python/comments/1qh22sc/async_for_iobound_components_only/)
 - [unwrappy: Rust-inspired Result and Option types with lazy async chaining for Python](https://www.reddit.com/r/Python/comments/1qh1ros/unwrappy_rustinspired_result_and_option_types/)
 - [I built bytes.replace&lpar;&rpar; for CUDA - process multi-GB files without leaving the GPU](https://www.reddit.com/r/Python/comments/1qh1ekg/i_built_bytesreplace_for_cuda_process_multigb/)
-- [[release] 0.13.1 rug released](https://www.reddit.com/r/Python/comments/1qh0biq/release_0131_rug_released/)
 <!-- BLOG-POST-LIST:END -->
