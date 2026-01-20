@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Built an open-source Streamlit app to visualize confusion matrices](https://www.reddit.com/r/Python/comments/1qhq6a9/built_an_opensource_streamlit_app_to_visualize/)
-- [AI-powered analysis system for forestry and cattle management](https://www.reddit.com/r/Python/comments/1qhmobh/aipowered_analysis_system_for_forestry_and_cattle/)
-- [This is a code about Library Catalog](https://www.reddit.com/r/Python/comments/1qhlyck/this_is_a_code_about_library_catalog/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1qhl8b3/tuesday_daily_thread_advanced_questions/)
-- [Opticol: memory optimized python collections](https://www.reddit.com/r/Python/comments/1qhl2o2/opticol_memory_optimized_python_collections/)
+- [Python, Is It Being Killed by Incremental Improvements?](https://www.reddit.com/r/Python/comments/1qi30gx/python_is_it_being_killed_by_incremental/)
+- [Who should I interview about the state of Python in 2026?](https://www.reddit.com/r/Python/comments/1qi2w4m/who_should_i_interview_about_the_state_of_python/)
+- [Python&#39;s four Copies](https://www.reddit.com/r/Python/comments/1qhzgu2/pythons_four_copies/)
+- [I built a Python DSL for creating C4 models and diagrams](https://www.reddit.com/r/Python/comments/1qhxsad/i_built_a_python_dsl_for_creating_c4_models_and/)
+- [I built an open-source CLI for AI agent experimentation to avoid vendor lock-in](https://www.reddit.com/r/Python/comments/1qhry6i/i_built_an_opensource_cli_for_ai_agent/)
 <!-- BLOG-POST-LIST:END -->
