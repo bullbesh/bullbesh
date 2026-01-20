@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [CondaNest: A native GTK4 GUI to manage and clean Conda environments](https://www.reddit.com/r/Python/comments/1qi6j52/condanest_a_native_gtk4_gui_to_manage_and_clean/)
 - [plissken - Documentation generator for Rust/Python hybrid projects](https://www.reddit.com/r/Python/comments/1qi4pi5/plissken_documentation_generator_for_rustpython/)
 - [Network monitoring dashboard built with Flask, scapy, and nmap](https://www.reddit.com/r/Python/comments/1qi4o7p/network_monitoring_dashboard_built_with_flask/)
 - [I built a local-first file metadata extraction library with a CLI &lpar;Python + Pydantic + Typer&rpar;](https://www.reddit.com/r/Python/comments/1qi3zwa/i_built_a_localfirst_file_metadata_extraction/)
 - [Python, Is It Being Killed by Incremental Improvements?](https://www.reddit.com/r/Python/comments/1qi30gx/python_is_it_being_killed_by_incremental/)
-- [Who should I interview about the state of Python in 2026?](https://www.reddit.com/r/Python/comments/1qi2w4m/who_should_i_interview_about_the_state_of_python/)
 <!-- BLOG-POST-LIST:END -->
