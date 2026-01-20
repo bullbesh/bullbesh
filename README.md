@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Requesting feedback on &quot;serve your graph over network&quot; feature in my Python graph DB project](https://www.reddit.com/r/Python/comments/1qhefyv/requesting_feedback_on_serve_your_graph_over/)
-- [This is a code for Library](https://www.reddit.com/r/Python/comments/1qhe11v/this_is_a_code_for_library/)
-- [When did destructive criticism become normalized on this sub?](https://www.reddit.com/r/Python/comments/1qhdssm/when_did_destructive_criticism_become_normalized/)
-- [TimeTracer v1.4 update: Django support + pytest integration + aiohttp + dashboard](https://www.reddit.com/r/Python/comments/1qhclqs/timetracer_v14_update_django_support_pytest/)
-- [I built a Python UI framework inspired by Streamlit, but with O&lpar;1&rpar; state updates](https://www.reddit.com/r/Python/comments/1qh6733/i_built_a_python_ui_framework_inspired_by/)
+- [Built an open-source Streamlit app to visualize confusion matrices](https://www.reddit.com/r/Python/comments/1qhq6a9/built_an_opensource_streamlit_app_to_visualize/)
+- [AI-powered analysis system for forestry and cattle management](https://www.reddit.com/r/Python/comments/1qhmobh/aipowered_analysis_system_for_forestry_and_cattle/)
+- [This is a code about Library Catalog](https://www.reddit.com/r/Python/comments/1qhlyck/this_is_a_code_about_library_catalog/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1qhl8b3/tuesday_daily_thread_advanced_questions/)
+- [Opticol: memory optimized python collections](https://www.reddit.com/r/Python/comments/1qhl2o2/opticol_memory_optimized_python_collections/)
 <!-- BLOG-POST-LIST:END -->
