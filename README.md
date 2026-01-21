@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [AstrolaDB: Schema-first tooling for databases, APIs, and types](https://www.reddit.com/r/Python/comments/1qj6sz5/astroladb_schemafirst_tooling_for_databases_apis/)
+- [Python Podcasts &amp; Conference Talks &lpar;week 4, 2025&rpar;](https://www.reddit.com/r/Python/comments/1qj5sfi/python_podcasts_conference_talks_week_4_2025/)
 - [Pandas 3.0.0 is there](https://www.reddit.com/r/Python/comments/1qj27sg/pandas_300_is_there/)
 - [A refactor-safety tool for Python projects – Arbor v1.4 adds a GUI](https://www.reddit.com/r/Python/comments/1qj0xw1/a_refactorsafety_tool_for_python_projects_arbor/)
 - [dltype v0.9.0 now with jax support](https://www.reddit.com/r/Python/comments/1qiyz2a/dltype_v090_now_with_jax_support/)
-- [Deb Nicholson of PSF on Funding Python&#39;s Future](https://www.reddit.com/r/Python/comments/1qiyp3g/deb_nicholson_of_psf_on_funding_pythons_future/)
-- [chithi-dev,an Encrypted file sharing platform with zero trust server mindset](https://www.reddit.com/r/Python/comments/1qiykd3/chithidevan_encrypted_file_sharing_platform_with/)
 <!-- BLOG-POST-LIST:END -->
