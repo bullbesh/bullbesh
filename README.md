@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Tracking 13,000 satellites in under 3 seconds from Python](https://www.reddit.com/r/Python/comments/1qif5o1/tracking_13000_satellites_in_under_3_seconds_from/)
-- [hololinked: pythonic beginner friendly IoT and data acquisition runtime written fully in python](https://www.reddit.com/r/Python/comments/1qian41/hololinked_pythonic_beginner_friendly_iot_and/)
-- [Ty setup for pyright mimic](https://www.reddit.com/r/Python/comments/1qi7s0t/ty_setup_for_pyright_mimic/)
-- [CondaNest: A native GTK4 GUI to manage and clean Conda environments](https://www.reddit.com/r/Python/comments/1qi6j52/condanest_a_native_gtk4_gui_to_manage_and_clean/)
-- [plissken - Documentation generator for Rust/Python hybrid projects](https://www.reddit.com/r/Python/comments/1qi4pi5/plissken_documentation_generator_for_rustpython/)
+- [Pandas 3.0.0 is there](https://www.reddit.com/r/Python/comments/1qj27sg/pandas_300_is_there/)
+- [A refactor-safety tool for Python projects – Arbor v1.4 adds a GUI](https://www.reddit.com/r/Python/comments/1qj0xw1/a_refactorsafety_tool_for_python_projects_arbor/)
+- [dltype v0.9.0 now with jax support](https://www.reddit.com/r/Python/comments/1qiyz2a/dltype_v090_now_with_jax_support/)
+- [Deb Nicholson of PSF on Funding Python&#39;s Future](https://www.reddit.com/r/Python/comments/1qiyp3g/deb_nicholson_of_psf_on_funding_pythons_future/)
+- [chithi-dev,an Encrypted file sharing platform with zero trust server mindset](https://www.reddit.com/r/Python/comments/1qiykd3/chithidevan_encrypted_file_sharing_platform_with/)
 <!-- BLOG-POST-LIST:END -->
