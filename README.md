@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pingram – A Minimalist Telegram Messaging Framework for Python](https://www.reddit.com/r/Python/comments/1qjajdc/pingram_a_minimalist_telegram_messaging_framework/)
+- [AI code reviewer](https://www.reddit.com/r/Python/comments/1qja13v/ai_code_reviewer/)
 - [Which framework to stick with](https://www.reddit.com/r/Python/comments/1qj9bcg/which_framework_to_stick_with/)
 - [A lightweight Python text-to-speech library: pyt2s](https://www.reddit.com/r/Python/comments/1qj98ry/a_lightweight_python_texttospeech_library_pyt2s/)
 - [Built a file search engine that understands your documents &lpar;with OCR and Semantic Search&rpar;](https://www.reddit.com/r/Python/comments/1qj8n2g/built_a_file_search_engine_that_understands_your/)
-- [AstrolaDB: Schema-first tooling for databases, APIs, and types](https://www.reddit.com/r/Python/comments/1qj6sz5/astroladb_schemafirst_tooling_for_databases_apis/)
-- [Python Podcasts &amp; Conference Talks &lpar;week 4, 2025&rpar;](https://www.reddit.com/r/Python/comments/1qj5sfi/python_podcasts_conference_talks_week_4_2025/)
 <!-- BLOG-POST-LIST:END -->
