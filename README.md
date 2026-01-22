@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I built wxpath: a declarative web crawler where crawling/scraping is one XPath expression](https://www.reddit.com/r/Python/comments/1qctxjw/i_built_wxpath_a_declarative_web_crawler_where/)
-- [What ai tools are out there for jupyter notebooks rn?](https://www.reddit.com/r/Python/comments/1qcq0vb/what_ai_tools_are_out_there_for_jupyter_notebooks/)
-- [Introducing Email-Management: A Python Library for Smarter IMAP/SMTP + LLM Workflows](https://www.reddit.com/r/Python/comments/1qcmm05/introducing_emailmanagement_a_python_library_for/)
-- [I built a modern, type-safe rate limiter for Django with Async support &lpar;v1.0.1&rpar;](https://www.reddit.com/r/Python/comments/1qcl64a/i_built_a_modern_typesafe_rate_limiter_for_django/)
-- [Licenses on PyPI](https://www.reddit.com/r/Python/comments/1qch5cv/licenses_on_pypi/)
+- [Is it a bad idea to learn a programming language without writing notes?](https://www.reddit.com/r/Python/comments/1qjw11o/is_it_a_bad_idea_to_learn_a_programming_language/)
+- [Streamlit Community: CSS-free styling of components &lpar;border, background, ....&rpar; with st_yled package](https://www.reddit.com/r/Python/comments/1qjslhf/streamlit_community_cssfree_styling_of_components/)
+- [Atlantic - Automated Data Preprocessing Framework for Supervised Machine Learning](https://www.reddit.com/r/Python/comments/1qjrcdh/atlantic_automated_data_preprocessing_framework/)
+- [I brought &quot;Resource&quot; primitives to Python for better async state management &lpar;reaktiv v0.21.0&rpar;](https://www.reddit.com/r/Python/comments/1qjpymj/i_brought_resource_primitives_to_python_for/)
+- [mdsync: CLI tool to sync markdown files to Notion](https://www.reddit.com/r/Python/comments/1qjpxs1/mdsync_cli_tool_to_sync_markdown_files_to_notion/)
 <!-- BLOG-POST-LIST:END -->
