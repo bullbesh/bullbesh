@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Packaging - Library - Directory structure when using uv or src approach](https://www.reddit.com/r/Python/comments/1qjk4ip/python_packaging_library_directory_structure_when/)
+- [Advice for elevating PySide6 GUI beyond basic MVC?](https://www.reddit.com/r/Python/comments/1qjjmxt/advice_for_elevating_pyside6_gui_beyond_basic_mvc/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1qjet0y/thursday_daily_thread_python_careers_courses_and/)
 - [Pingram – A Minimalist Telegram Messaging Framework for Python](https://www.reddit.com/r/Python/comments/1qjajdc/pingram_a_minimalist_telegram_messaging_framework/)
 - [Which framework to stick with](https://www.reddit.com/r/Python/comments/1qj9bcg/which_framework_to_stick_with/)
-- [A lightweight Python text-to-speech library: pyt2s](https://www.reddit.com/r/Python/comments/1qj98ry/a_lightweight_python_texttospeech_library_pyt2s/)
-- [Built a file search engine that understands your documents &lpar;with OCR and Semantic Search&rpar;](https://www.reddit.com/r/Python/comments/1qj8n2g/built_a_file_search_engine_that_understands_your/)
 <!-- BLOG-POST-LIST:END -->
