@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Atlantic - Automated Data Preprocessing Framework for Supervised Machine Learning](https://www.reddit.com/r/Python/comments/1qjrcdh/atlantic_automated_data_preprocessing_framework/)
 - [I brought &quot;Resource&quot; primitives to Python for better async state management &lpar;reaktiv v0.21.0&rpar;](https://www.reddit.com/r/Python/comments/1qjpymj/i_brought_resource_primitives_to_python_for/)
 - [mdsync: CLI tool to sync markdown files to Notion](https://www.reddit.com/r/Python/comments/1qjpxs1/mdsync_cli_tool_to_sync_markdown_files_to_notion/)
 - [Understanding Python’s typing system &lpar;draft guide, 3.14&rpar;](https://www.reddit.com/r/Python/comments/1qjkwnx/understanding_pythons_typing_system_draft_guide/)
 - [Python Packaging - Library - Directory structure when using uv or src approach](https://www.reddit.com/r/Python/comments/1qjk4ip/python_packaging_library_directory_structure_when/)
-- [Advice for elevating PySide6 GUI beyond basic MVC?](https://www.reddit.com/r/Python/comments/1qjjmxt/advice_for_elevating_pyside6_gui_beyond_basic_mvc/)
 <!-- BLOG-POST-LIST:END -->
