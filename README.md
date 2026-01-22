@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Notebook.link: Create, share, and run Jupyter notebooks instantly in your browser!](https://www.reddit.com/r/Python/comments/1qk0t4u/notebooklink_create_share_and_run_jupyter/)
 - [I am building a Python debugging Skill for Claude Code because it debugs like a junior](https://www.reddit.com/r/Python/comments/1qjy1u5/i_am_building_a_python_debugging_skill_for_claude/)
 - [Is it a bad idea to learn a programming language without writing notes?](https://www.reddit.com/r/Python/comments/1qjw11o/is_it_a_bad_idea_to_learn_a_programming_language/)
 - [Streamlit Community: CSS-free styling of components &lpar;border, background, ....&rpar; with st_yled package](https://www.reddit.com/r/Python/comments/1qjslhf/streamlit_community_cssfree_styling_of_components/)
 - [Atlantic - Automated Data Preprocessing Framework for Supervised Machine Learning](https://www.reddit.com/r/Python/comments/1qjrcdh/atlantic_automated_data_preprocessing_framework/)
-- [I brought &quot;Resource&quot; primitives to Python for better async state management &lpar;reaktiv v0.21.0&rpar;](https://www.reddit.com/r/Python/comments/1qjpymj/i_brought_resource_primitives_to_python_for/)
 <!-- BLOG-POST-LIST:END -->
