@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [SudoAgent: runtime guardrails for “dangerous” function calls &lpar;policy + approval + audit&rpar;](https://www.reddit.com/r/Python/comments/1qkv53a/sudoagent_runtime_guardrails_for_dangerous/)
 - [Spotify Ad Blocker](https://www.reddit.com/r/Python/comments/1qkqpgw/spotify_ad_blocker/)
 - [[R] New Book: &quot;Mastering Modern Time Series Forecasting&quot; – A Hands-On Guide to Statistical, ML, and](https://www.reddit.com/r/Python/comments/1qkq0u3/r_new_book_mastering_modern_time_series/)
 - [Your floating point is lying to you. Lean4 mathematically proven bounds, in Python. Just pip install](https://www.reddit.com/r/Python/comments/1qkoyxf/your_floating_point_is_lying_to_you_lean4/)
 - [Getting distracted constantly while coding looking for advice](https://www.reddit.com/r/Python/comments/1qknt6c/getting_distracted_constantly_while_coding/)
-- [TimeTracer v1.6 Update: Record &amp; Replay debugging now supports Starlette + Dashboard Improvements](https://www.reddit.com/r/Python/comments/1qkjcns/timetracer_v16_update_record_replay_debugging_now/)
 <!-- BLOG-POST-LIST:END -->
