@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting distracted constantly while coding looking for advice](https://www.reddit.com/r/Python/comments/1qknt6c/getting_distracted_constantly_while_coding/)
 - [TimeTracer v1.6 Update: Record &amp; Replay debugging now supports Starlette + Dashboard Improvements](https://www.reddit.com/r/Python/comments/1qkjcns/timetracer_v16_update_record_replay_debugging_now/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1qkb4qf/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Measuring Reddit discussion activity with a lightweight Python script](https://www.reddit.com/r/Python/comments/1qk28cp/measuring_reddit_discussion_activity_with_a/)
 - [Notebook.link: Create, share, and run Jupyter notebooks instantly in your browser!](https://www.reddit.com/r/Python/comments/1qk0t4u/notebooklink_create_share_and_run_jupyter/)
-- [Is it a bad idea to learn a programming language without writing notes?](https://www.reddit.com/r/Python/comments/1qjw11o/is_it_a_bad_idea_to_learn_a_programming_language/)
 <!-- BLOG-POST-LIST:END -->
