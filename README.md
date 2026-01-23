@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Parallelizing your code without really trying, using Darl](https://www.reddit.com/r/Python/comments/1qkew6u/parallelizing_your_code_without_really_trying/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1qkb4qf/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Parallelizing your code without really trying, using Darl](https://www.reddit.com/r/Python/comments/1qk8vge/parallelizing_your_code_without_really_trying/)
-- [Spotify Ad Skipper](https://www.reddit.com/r/Python/comments/1qk7clg/spotify_ad_skipper/)
-- [[article] Streamable log in browser](https://www.reddit.com/r/Python/comments/1qk3io4/article_streamable_log_in_browser/)
 - [Measuring Reddit discussion activity with a lightweight Python script](https://www.reddit.com/r/Python/comments/1qk28cp/measuring_reddit_discussion_activity_with_a/)
+- [Notebook.link: Create, share, and run Jupyter notebooks instantly in your browser!](https://www.reddit.com/r/Python/comments/1qk0t4u/notebooklink_create_share_and_run_jupyter/)
+- [I am building a Python debugging Skill for Claude Code because it debugs like a junior](https://www.reddit.com/r/Python/comments/1qjy1u5/i_am_building_a_python_debugging_skill_for_claude/)
 <!-- BLOG-POST-LIST:END -->
