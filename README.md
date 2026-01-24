@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyVq: A vector quantization library for Python](https://www.reddit.com/r/Python/comments/1qlm4hf/pyvq_a_vector_quantization_library_for_python/)
+- [Python API Framework Benchmark: FastAPI vs Django vs Litestar - Real Database Workloads](https://www.reddit.com/r/Python/comments/1qllryp/python_api_framework_benchmark_fastapi_vs_django/)
 - [I built a CLI that turns websites into real Playwright scrapers](https://www.reddit.com/r/Python/comments/1qlh0bl/i_built_a_cli_that_turns_websites_into_real/)
 - [i make my first project! | я сделал свой первый проект!](https://www.reddit.com/r/Python/comments/1qlg5w7/i_make_my_first_project_я_сделал_свой_первый/)
 - [i made this cool dvd thing with pygame](https://www.reddit.com/r/Python/comments/1qla40c/i_made_this_cool_dvd_thing_with_pygame/)
-- [I built a Python MCP server that lets Claude Code inspect real production systems](https://www.reddit.com/r/Python/comments/1ql91jj/i_built_a_python_mcp_server_that_lets_claude_code/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ql7beg/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
