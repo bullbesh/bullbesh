@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [i made this cool dvd thing with pygame](https://www.reddit.com/r/Python/comments/1qla40c/i_made_this_cool_dvd_thing_with_pygame/)
+- [I built a Python MCP server that lets Claude Code inspect real production systems](https://www.reddit.com/r/Python/comments/1ql91jj/i_built_a_python_mcp_server_that_lets_claude_code/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ql7beg/saturday_daily_thread_resource_request_and/)
 - [Do Pythons hate Windows?](https://www.reddit.com/r/Python/comments/1ql3a3m/do_pythons_hate_windows/)
 - [SudoAgent: runtime guardrails for “dangerous” function calls &lpar;policy + approval + audit&rpar;](https://www.reddit.com/r/Python/comments/1qkv53a/sudoagent_runtime_guardrails_for_dangerous/)
-- [Spotify Ad Blocker](https://www.reddit.com/r/Python/comments/1qkqpgw/spotify_ad_blocker/)
-- [[R] New Book: &quot;Mastering Modern Time Series Forecasting&quot; – A Hands-On Guide to Statistical, ML, and](https://www.reddit.com/r/Python/comments/1qkq0u3/r_new_book_mastering_modern_time_series/)
-- [Getting distracted constantly while coding looking for advice](https://www.reddit.com/r/Python/comments/1qknt6c/getting_distracted_constantly_while_coding/)
 <!-- BLOG-POST-LIST:END -->
