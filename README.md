@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Am I using Twilio inbound webhooks correctly for agent call routing &lpar;backend-only system&rpar;?](https://www.reddit.com/r/Python/comments/1qlnnrk/am_i_using_twilio_inbound_webhooks_correctly_for/)
+- [Drift isn’t just a tool, it’s your 2026 productivity hack now featuring 75+ agent skills](https://www.reddit.com/r/Python/comments/1qln3zm/drift_isnt_just_a_tool_its_your_2026_productivity/)
 - [PyVq: A vector quantization library for Python](https://www.reddit.com/r/Python/comments/1qlm4hf/pyvq_a_vector_quantization_library_for_python/)
 - [Python API Framework Benchmark: FastAPI vs Django vs Litestar - Real Database Workloads](https://www.reddit.com/r/Python/comments/1qllryp/python_api_framework_benchmark_fastapi_vs_django/)
 - [I built a CLI that turns websites into real Playwright scrapers](https://www.reddit.com/r/Python/comments/1qlh0bl/i_built_a_cli_that_turns_websites_into_real/)
-- [i make my first project! | я сделал свой первый проект!](https://www.reddit.com/r/Python/comments/1qlg5w7/i_make_my_first_project_я_сделал_свой_первый/)
-- [i made this cool dvd thing with pygame](https://www.reddit.com/r/Python/comments/1qla40c/i_made_this_cool_dvd_thing_with_pygame/)
 <!-- BLOG-POST-LIST:END -->
