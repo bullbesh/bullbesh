@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [i make my first project! | я сделал свой первый проект!](https://www.reddit.com/r/Python/comments/1qlg5w7/i_make_my_first_project_я_сделал_свой_первый/)
 - [i made this cool dvd thing with pygame](https://www.reddit.com/r/Python/comments/1qla40c/i_made_this_cool_dvd_thing_with_pygame/)
 - [I built a Python MCP server that lets Claude Code inspect real production systems](https://www.reddit.com/r/Python/comments/1ql91jj/i_built_a_python_mcp_server_that_lets_claude_code/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ql7beg/saturday_daily_thread_resource_request_and/)
 - [Do Pythons hate Windows?](https://www.reddit.com/r/Python/comments/1ql3a3m/do_pythons_hate_windows/)
-- [SudoAgent: runtime guardrails for “dangerous” function calls &lpar;policy + approval + audit&rpar;](https://www.reddit.com/r/Python/comments/1qkv53a/sudoagent_runtime_guardrails_for_dangerous/)
 <!-- BLOG-POST-LIST:END -->
