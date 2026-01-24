@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a CLI to make reverse-engineering APIs easier](https://www.reddit.com/r/Python/comments/1qlxsy9/i_built_a_cli_to_make_reverseengineering_apis/)
+- [Generate OpenAI Embeddings Locally with MiniLM &lpar; 70x Cost Saving / Speed Improvement &rpar;](https://www.reddit.com/r/Python/comments/1qlx02c/generate_openai_embeddings_locally_with_minilm/)
 - [mdrefcheck: a simple cli tool to validate local references in markdown files](https://www.reddit.com/r/Python/comments/1qlp6k6/mdrefcheck_a_simple_cli_tool_to_validate_local/)
 - [Am I using Twilio inbound webhooks correctly for agent call routing &lpar;backend-only system&rpar;?](https://www.reddit.com/r/Python/comments/1qlnnrk/am_i_using_twilio_inbound_webhooks_correctly_for/)
 - [Drift isn’t just a tool, it’s your 2026 productivity hack now featuring 75+ agent skills](https://www.reddit.com/r/Python/comments/1qln3zm/drift_isnt_just_a_tool_its_your_2026_productivity/)
-- [PyVq: A vector quantization library for Python](https://www.reddit.com/r/Python/comments/1qlm4hf/pyvq_a_vector_quantization_library_for_python/)
-- [Python API Framework Benchmark: FastAPI vs Django vs Litestar - Real Database Workloads](https://www.reddit.com/r/Python/comments/1qllryp/python_api_framework_benchmark_fastapi_vs_django/)
 <!-- BLOG-POST-LIST:END -->
