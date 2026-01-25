@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Leaving the Roblox bubble: Just built my first Python automation tool to organize files!](https://www.reddit.com/r/Python/comments/1qm59cc/leaving_the_roblox_bubble_just_built_my_first/)
-- [Darl: Incremental compute, scenario analysis, parallelization, static-ish typing, code replay &amp; more](https://www.reddit.com/r/Python/comments/1qm3rlx/darl_incremental_compute_scenario_analysis/)
-- [I built a tool that &quot;learns&quot; your codebase patterns. Plot twist: zero AI involved. Just AST parsing](https://www.reddit.com/r/Python/comments/1qm3ags/i_built_a_tool_that_learns_your_codebase_patterns/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1qm39sf/sunday_daily_thread_whats_everyone_working_on/)
-- [argspec: a succinct, type-safe, declarative command line argument parser](https://www.reddit.com/r/Python/comments/1qm2gl5/argspec_a_succinct_typesafe_declarative_command/)
+- [[Project] Music Renamer CLI - A standalone tool to auto-rename audio files using Shazam](https://www.reddit.com/r/Python/comments/1qmr22w/project_music_renamer_cli_a_standalone_tool_to/)
+- [ESPythoNOW - Send/Receive messages between Linux and ESP32/8266 devices. Now supports ESP-NOW V2.0!](https://www.reddit.com/r/Python/comments/1qmpou0/espythonow_sendreceive_messages_between_linux_and/)
+- [ELSE to which IF in example](https://www.reddit.com/r/Python/comments/1qmpn82/else_to_which_if_in_example/)
+- [Are we trading coding freedom for AI dependence, and handing all our creations to Big Tech?](https://www.reddit.com/r/Python/comments/1qmox29/are_we_trading_coding_freedom_for_ai_dependence/)
+- [Darl: Incremental compute, scenario analysis, parallelization, static-ish typing, code replay &amp; more](https://www.reddit.com/r/Python/comments/1qmn6rs/darl_incremental_compute_scenario_analysis/)
 <!-- BLOG-POST-LIST:END -->
