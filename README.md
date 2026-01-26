@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Prototyping a Real-Time Product Recommender using Contextual Bandits](https://www.reddit.com/r/Python/comments/1qncckp/prototyping_a_realtime_product_recommender_using/)
-- [Project Showcase: Reflow Studio v0.5 - A local, open-source GUI for RVC and Wav2Lip.](https://www.reddit.com/r/Python/comments/1qna2n0/project_showcase_reflow_studio_v05_a_local/)
-- [Python modules: retry framework, OpenSSH client w/ fast conn pooling, and parallel task-tree schedul](https://www.reddit.com/r/Python/comments/1qn3wfi/python_modules_retry_framework_openssh_client_w/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1qmzzj1/monday_daily_thread_project_ideas/)
-- [I built Sentinel: A Zero-Trust Governance Layer for AI Agents &lpar;with a Dashboard&rpar;](https://www.reddit.com/r/Python/comments/1qmw2s6/i_built_sentinel_a_zerotrust_governance_layer_for/)
+- [Python Digg Community](https://www.reddit.com/r/Python/comments/1qno886/python_digg_community/)
+- [GoPdfSuit v4.0.0: A high-performance PDF engine for Python devs &lpar;No Go knowledge required&rpar;](https://www.reddit.com/r/Python/comments/1qno6hj/gopdfsuit_v400_a_highperformance_pdf_engine_for/)
+- [[Project] Student-made Fishing Bot for GTA 5 using OpenCV &amp; OCR &lpar;97% Success Rate&rpar;](https://www.reddit.com/r/Python/comments/1qnn9o5/project_studentmade_fishing_bot_for_gta_5_using/)
+- [A new Sphinx documentation theme](https://www.reddit.com/r/Python/comments/1qnm348/a_new_sphinx_documentation_theme/)
+- [2026 Python Developers Survey](https://www.reddit.com/r/Python/comments/1qnju6d/2026_python_developers_survey/)
 <!-- BLOG-POST-LIST:END -->
