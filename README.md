@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project Showcase: Reflow Studio v0.5 - A local, open-source GUI for RVC and Wav2Lip.](https://www.reddit.com/r/Python/comments/1qna2n0/project_showcase_reflow_studio_v05_a_local/)
 - [Python modules: retry framework, OpenSSH client w/ fast conn pooling, and parallel task-tree schedul](https://www.reddit.com/r/Python/comments/1qn3wfi/python_modules_retry_framework_openssh_client_w/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1qmzzj1/monday_daily_thread_project_ideas/)
 - [I built Sentinel: A Zero-Trust Governance Layer for AI Agents &lpar;with a Dashboard&rpar;](https://www.reddit.com/r/Python/comments/1qmw2s6/i_built_sentinel_a_zerotrust_governance_layer_for/)
 - [[Showcase] Qwen2.5 runs on my own ML framework &lpar;Magnetron&rpar;](https://www.reddit.com/r/Python/comments/1qmq6e3/showcase_qwen25_runs_on_my_own_ml_framework/)
-- [ESPythoNOW - Send/Receive messages between Linux and ESP32/8266 devices. Now supports ESP-NOW V2.0!](https://www.reddit.com/r/Python/comments/1qmpou0/espythonow_sendreceive_messages_between_linux_and/)
 <!-- BLOG-POST-LIST:END -->
