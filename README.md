@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built monkmode, a minimalistic focus app using PySide6](https://www.reddit.com/r/Python/comments/1qoeun0/i_built_monkmode_a_minimalistic_focus_app_using/)
+- [PyPI repository on iPhone](https://www.reddit.com/r/Python/comments/1qoetnf/pypi_repository_on_iphone/)
+- [WebRockets: High-performance WebSocket server for Python, powered by Rust](https://www.reddit.com/r/Python/comments/1qodxmv/webrockets_highperformance_websocket_server_for/)
+- [Does Python code tend to be more explicit than other alternatives?](https://www.reddit.com/r/Python/comments/1qod6qk/does_python_code_tend_to_be_more_explicit_than/)
 - [pandas 3 is the most significant release in 10 years](https://www.reddit.com/r/Python/comments/1qo7oe6/pandas_3_is_the_most_significant_release_in_10/)
-- [Am I cheating if I understand the logic but still need to look up the implementation?](https://www.reddit.com/r/Python/comments/1qo7ibn/am_i_cheating_if_i_understand_the_logic_but_still/)
-- [Your codebase has conventions nobody documented. I built a tool that finds them automatically](https://www.reddit.com/r/Python/comments/1qo4h75/your_codebase_has_conventions_nobody_documented_i/)
-- [Should I start learning DSA now or build more Python projects first?](https://www.reddit.com/r/Python/comments/1qo49co/should_i_start_learning_dsa_now_or_build_more/)
-- [Web browser automation](https://www.reddit.com/r/Python/comments/1qo09rj/web_browser_automation/)
 <!-- BLOG-POST-LIST:END -->
