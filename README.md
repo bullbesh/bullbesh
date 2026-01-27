@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing AsyncFast](https://www.reddit.com/r/Python/comments/1qojixw/introducing_asyncfast/)
+- [Portfolio Analytics Lab: Reconstructing TWRR/MWRR using NumPy and SciPy](https://www.reddit.com/r/Python/comments/1qojdli/portfolio_analytics_lab_reconstructing_twrrmwrr/)
+- [I built a Python package manager in Rust that&#39;s 10-100x faster than Poetry](https://www.reddit.com/r/Python/comments/1qoj0yy/i_built_a_python_package_manager_in_rust_thats/)
 - [I built monkmode, a minimalistic focus app using PySide6](https://www.reddit.com/r/Python/comments/1qoeun0/i_built_monkmode_a_minimalistic_focus_app_using/)
 - [PyPI repository on iPhone](https://www.reddit.com/r/Python/comments/1qoetnf/pypi_repository_on_iphone/)
-- [WebRockets: High-performance WebSocket server for Python, powered by Rust](https://www.reddit.com/r/Python/comments/1qodxmv/webrockets_highperformance_websocket_server_for/)
-- [Does Python code tend to be more explicit than other alternatives?](https://www.reddit.com/r/Python/comments/1qod6qk/does_python_code_tend_to_be_more_explicit_than/)
-- [pandas 3 is the most significant release in 10 years](https://www.reddit.com/r/Python/comments/1qo7oe6/pandas_3_is_the_most_significant_release_in_10/)
 <!-- BLOG-POST-LIST:END -->
