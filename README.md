@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Embedded MySQL 5.5 for portable Windows Python apps &lpar;no installer, no admin rights&rpar;](https://www.reddit.com/r/Python/comments/1qnrqy4/embedded_mysql_55_for_portable_windows_python/)
-- [fdir now supports external commands via `--exec`](https://www.reddit.com/r/Python/comments/1qnp5ks/fdir_now_supports_external_commands_via_exec/)
-- [Python Digg Community](https://www.reddit.com/r/Python/comments/1qno886/python_digg_community/)
-- [GoPdfSuit v4.0.0: A high-performance PDF engine for Python devs &lpar;No Go knowledge required&rpar;](https://www.reddit.com/r/Python/comments/1qno6hj/gopdfsuit_v400_a_highperformance_pdf_engine_for/)
-- [[Project] Student-made Fishing Bot for GTA 5 using OpenCV &amp; OCR &lpar;97% Success Rate&rpar;](https://www.reddit.com/r/Python/comments/1qnn9o5/project_studentmade_fishing_bot_for_gta_5_using/)
+- [Web browser automation](https://www.reddit.com/r/Python/comments/1qo09rj/web_browser_automation/)
+- [Is it normal to forget some very trivial, and repetitive stuff?](https://www.reddit.com/r/Python/comments/1qny27q/is_it_normal_to_forget_some_very_trivial_and/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1qnxmb4/tuesday_daily_thread_advanced_questions/)
+- [Why do all the codes run and not the current line](https://www.reddit.com/r/Python/comments/1qnwdyd/why_do_all_the_codes_run_and_not_the_current_line/)
+- [I Built a Tool to Version and Analyze Software Architecture](https://www.reddit.com/r/Python/comments/1qnw9c7/i_built_a_tool_to_version_and_analyze_software/)
 <!-- BLOG-POST-LIST:END -->
