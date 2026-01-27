@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Pyrefly Type Narrowing Patterns that make Type Checking more Intuitive](https://www.reddit.com/r/Python/comments/1qolit2/4_pyrefly_type_narrowing_patterns_that_make_type/)
+- [What are people using instead of Anaconda these days?](https://www.reddit.com/r/Python/comments/1qokvh5/what_are_people_using_instead_of_anaconda_these/)
+- [Python Syntax Error reqierments.txt](https://www.reddit.com/r/Python/comments/1qokoe9/python_syntax_error_reqiermentstxt/)
 - [Introducing AsyncFast](https://www.reddit.com/r/Python/comments/1qojixw/introducing_asyncfast/)
 - [Portfolio Analytics Lab: Reconstructing TWRR/MWRR using NumPy and SciPy](https://www.reddit.com/r/Python/comments/1qojdli/portfolio_analytics_lab_reconstructing_twrrmwrr/)
-- [I built a Python package manager in Rust that&#39;s 10-100x faster than Poetry](https://www.reddit.com/r/Python/comments/1qoj0yy/i_built_a_python_package_manager_in_rust_thats/)
-- [I built monkmode, a minimalistic focus app using PySide6](https://www.reddit.com/r/Python/comments/1qoeun0/i_built_monkmode_a_minimalistic_focus_app_using/)
-- [PyPI repository on iPhone](https://www.reddit.com/r/Python/comments/1qoetnf/pypi_repository_on_iphone/)
 <!-- BLOG-POST-LIST:END -->
