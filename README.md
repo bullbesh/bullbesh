@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A cool syntax hack I thought of](https://www.reddit.com/r/Python/comments/1qpel11/a_cool_syntax_hack_i_thought_of/)
+- [UV + FastAPI + Tortoise ORM template](https://www.reddit.com/r/Python/comments/1qpdnxn/uv_fastapi_tortoise_orm_template/)
 - [Best practices while testing, benchmarking a library involving sparse linear algebra?](https://www.reddit.com/r/Python/comments/1qpb1ln/best_practices_while_testing_benchmarking_a/)
 - [Python + AI — practical use cases?](https://www.reddit.com/r/Python/comments/1qp98e8/python_ai_practical_use_cases/)
 - [I built a Python IDE that runs completely in your browser &lpar;no login, fully local&rpar;](https://www.reddit.com/r/Python/comments/1qp6smf/i_built_a_python_ide_that_runs_completely_in_your/)
-- [Large simulation performance: objects vs matrices](https://www.reddit.com/r/Python/comments/1qp59it/large_simulation_performance_objects_vs_matrices/)
-- [Looking for a Python Programmer for a Pokémon-style game No Story Yet, Free-to-Play](https://www.reddit.com/r/Python/comments/1qoykui/looking_for_a_python_programmer_for_a/)
 <!-- BLOG-POST-LIST:END -->
