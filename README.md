@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Large simulation performance: objects vs matrices](https://www.reddit.com/r/Python/comments/1qp59it/large_simulation_performance_objects_vs_matrices/)
 - [Looking for a Python Programmer for a Pokémon-style game No Story Yet, Free-to-Play](https://www.reddit.com/r/Python/comments/1qoykui/looking_for_a_python_programmer_for_a/)
 - [AxiomCore/rod: The Write-Once, Validate-Anywhere Schema Library.](https://www.reddit.com/r/Python/comments/1qoqt77/axiomcorerod_the_writeonce_validateanywhere/)
 - [Python 1.0 came out exactly 32 years ago](https://www.reddit.com/r/Python/comments/1qoqm3z/python_10_came_out_exactly_32_years_ago/)
 - [Need advice: Cybersecurity, AI, or Full-Stack Development?](https://www.reddit.com/r/Python/comments/1qopazl/need_advice_cybersecurity_ai_or_fullstack/)
-- [Converting from Pandas to Polars - Ressources](https://www.reddit.com/r/Python/comments/1qoo8ka/converting_from_pandas_to_polars_ressources/)
 <!-- BLOG-POST-LIST:END -->
