@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why uv is fast ?](https://www.reddit.com/r/Python/comments/1qq1hwu/why_uv_is_fast/)
+- [Show &amp; Tell: InvestorMate - AI-powered stock analysis package](https://www.reddit.com/r/Python/comments/1qq225s/show_tell_investormate_aipowered_stock_analysis/)
+- [Python Podcasts &amp; Conference Talks &lpar;week 5, 2025&rpar;](https://www.reddit.com/r/Python/comments/1qq1xss/python_podcasts_conference_talks_week_5_2025/)
+- [OpenAI just announced “Prism.” Our project is Prismer, so we’re open-sourcing everything now](https://www.reddit.com/r/Python/comments/1qq1u91/openai_just_announced_prism_our_project_is/)
 - [pip-weigh: A CLI tool to check the disk size of Python packages including their dependencies.](https://www.reddit.com/r/Python/comments/1qpxwk1/pipweigh_a_cli_tool_to_check_the_disk_size_of/)
 - [I’m scared, should I switch to mechanical engineering?](https://www.reddit.com/r/Python/comments/1qpx9ny/im_scared_should_i_switch_to_mechanical/)
-- [Discrepancy between Python rankings and Job Description](https://www.reddit.com/r/Python/comments/1qpvnvd/discrepancy_between_python_rankings_and_job/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1qpsi0z/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
