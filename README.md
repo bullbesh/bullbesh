@@ -12,5 +12,5 @@
 - [Python Podcasts &amp; Conference Talks &lpar;week 5, 2025&rpar;](https://www.reddit.com/r/Python/comments/1qq1xss/python_podcasts_conference_talks_week_5_2025/)
 - [OpenAI just announced “Prism.” Our project is Prismer, so we’re open-sourcing everything now](https://www.reddit.com/r/Python/comments/1qq1u91/openai_just_announced_prism_our_project_is/)
 - [pip-weigh: A CLI tool to check the disk size of Python packages including their dependencies.](https://www.reddit.com/r/Python/comments/1qpxwk1/pipweigh_a_cli_tool_to_check_the_disk_size_of/)
-- [I’m scared, should I switch to mechanical engineering?](https://www.reddit.com/r/Python/comments/1qpx9ny/im_scared_should_i_switch_to_mechanical/)
+- [Discrepancy between Python rankings and Job Description](https://www.reddit.com/r/Python/comments/1qpvnvd/discrepancy_between_python_rankings_and_job/)
 <!-- BLOG-POST-LIST:END -->
