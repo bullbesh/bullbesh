@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Oxyde: async type-safe Pydantic-centric Python ORM](https://www.reddit.com/r/Python/comments/1qpm140/oxyde_async_typesafe_pydanticcentric_python_orm/)
-- [Introducing the mkdocs-editor-notes plugin](https://www.reddit.com/r/Python/comments/1qpln9j/introducing_the_mkdocseditornotes_plugin/)
-- [River library for online learning](https://www.reddit.com/r/Python/comments/1qpjhdd/river_library_for_online_learning/)
-- [Oban, the job processing framework from Elixir, has finally come to Python](https://www.reddit.com/r/Python/comments/1qpg5f9/oban_the_job_processing_framework_from_elixir_has/)
-- [A cool syntax hack I thought of](https://www.reddit.com/r/Python/comments/1qpel11/a_cool_syntax_hack_i_thought_of/)
+- [Discrepancy between Python rankings and Job Description](https://www.reddit.com/r/Python/comments/1qpvnvd/discrepancy_between_python_rankings_and_job/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1qpsi0z/thursday_daily_thread_python_careers_courses_and/)
+- [Spectrograms: A high-performance toolkit for audio and image analysis](https://www.reddit.com/r/Python/comments/1qps4e7/spectrograms_a_highperformance_toolkit_for_audio/)
+- [Cree una api para resolver reCapchas](https://www.reddit.com/r/Python/comments/1qprjwr/cree_una_api_para_resolver_recapchas/)
+- [&lpar;Rant&rpar; AI is killing programming and the Python community](https://www.reddit.com/r/Python/comments/1qpq3cc/rant_ai_is_killing_programming_and_the_python/)
 <!-- BLOG-POST-LIST:END -->
