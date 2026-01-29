@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Those who have had success with LLM assisted software development](https://www.reddit.com/r/Python/comments/1qq66d3/those_who_have_had_success_with_llm_assisted/)
 - [Show &amp; Tell: InvestorMate - AI-powered stock analysis package](https://www.reddit.com/r/Python/comments/1qq225s/show_tell_investormate_aipowered_stock_analysis/)
 - [Python Podcasts &amp; Conference Talks &lpar;week 5, 2025&rpar;](https://www.reddit.com/r/Python/comments/1qq1xss/python_podcasts_conference_talks_week_5_2025/)
 - [OpenAI just announced “Prism.” Our project is Prismer, so we’re open-sourcing everything now](https://www.reddit.com/r/Python/comments/1qq1u91/openai_just_announced_prism_our_project_is/)
 - [pip-weigh: A CLI tool to check the disk size of Python packages including their dependencies.](https://www.reddit.com/r/Python/comments/1qpxwk1/pipweigh_a_cli_tool_to_check_the_disk_size_of/)
-- [Discrepancy between Python rankings and Job Description](https://www.reddit.com/r/Python/comments/1qpvnvd/discrepancy_between_python_rankings_and_job/)
 <!-- BLOG-POST-LIST:END -->
