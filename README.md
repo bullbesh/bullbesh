@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PyCon US grants free booth space and conference passes to early-stage startups. Apply by Feb 1](https://www.reddit.com/r/Python/comments/1qqjbep/pycon_us_grants_free_booth_space_and_conference/)
+- [Rethinking the IDE: Moving from text files to a graph-based IDE](https://www.reddit.com/r/Python/comments/1qqj5vd/rethinking_the_ide_moving_from_text_files_to_a/)
 - [Retries and circuit breakers as failure policies in Python](https://www.reddit.com/r/Python/comments/1qqh7yb/retries_and_circuit_breakers_as_failure_policies/)
 - [Built a tool that rewrites your code when upgrading dependencies - looking for feedback](https://www.reddit.com/r/Python/comments/1qqesv3/built_a_tool_that_rewrites_your_code_when/)
 - [Showcase: Embedded multi-model database for Python &lpar;tables + graph + vector&rpar;, no server](https://www.reddit.com/r/Python/comments/1qqd9e4/showcase_embedded_multimodel_database_for_python/)
-- [Getting deeper into Web Scraping.](https://www.reddit.com/r/Python/comments/1qq8txh/getting_deeper_into_web_scraping/)
-- [Fake Browser for Windows: Copy links instead of opening them automatically](https://www.reddit.com/r/Python/comments/1qq75sw/fake_browser_for_windows_copy_links_instead_of/)
 <!-- BLOG-POST-LIST:END -->
