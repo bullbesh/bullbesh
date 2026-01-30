@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any projects to break out of the oop structure?](https://www.reddit.com/r/Python/comments/1qrjdxc/any_projects_to_break_out_of_the_oop_structure/)
+- [best books about artificial coupling and refactoring strategies?](https://www.reddit.com/r/Python/comments/1qrj68l/best_books_about_artificial_coupling_and/)
 - [How much time do you actually spend fixing CI failures that aren’t real bugs?](https://www.reddit.com/r/Python/comments/1qri8i7/how_much_time_do_you_actually_spend_fixing_ci/)
 - [Is it reliable to run lab equipment on Python?](https://www.reddit.com/r/Python/comments/1qrguk2/is_it_reliable_to_run_lab_equipment_on_python/)
 - [Real-time Face Distance Estimation: Sub-400ms inference using FastAPI + InsightFace &lpar;SCRFD&rpar; on CPU](https://www.reddit.com/r/Python/comments/1qrees2/realtime_face_distance_estimation_sub400ms/)
-- [Does anyone feel like IntelliJ/PyCharm Github Co-Pilot integration is a joke?](https://www.reddit.com/r/Python/comments/1qrc7lh/does_anyone_feel_like_intellijpycharm_github/)
-- [denial: when None is no longer sufficient](https://www.reddit.com/r/Python/comments/1qraodv/denial_when_none_is_no_longer_sufficient/)
 <!-- BLOG-POST-LIST:END -->
