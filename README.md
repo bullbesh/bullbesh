@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [denial: when None is no longer sufficient](https://www.reddit.com/r/Python/comments/1qraodv/denial_when_none_is_no_longer_sufficient/)
+- [SQLAlchemy, but everything is a DataFrame now](https://www.reddit.com/r/Python/comments/1qr98o7/sqlalchemy_but_everything_is_a_dataframe_now/)
 - [Release feedback: lightweight DI container for Python &lpar;diwire&rpar;](https://www.reddit.com/r/Python/comments/1qr5l4g/release_feedback_lightweight_di_container_for/)
 - [trueform: Real-time geometric processing for Python. NumPy in, NumPy out.](https://www.reddit.com/r/Python/comments/1qr2w5b/trueform_realtime_geometric_processing_for_python/)
 - [aiogram Test Framework](https://www.reddit.com/r/Python/comments/1qr1j0b/aiogram_test_framework/)
-- [An open-source pythin package for stock analysis with - fundamentals, screening, and AI insights](https://www.reddit.com/r/Python/comments/1qr0hn2/an_opensource_pythin_package_for_stock_analysis/)
-- [I built a Free Python GUI Designer!](https://www.reddit.com/r/Python/comments/1qqvp29/i_built_a_free_python_gui_designer/)
 <!-- BLOG-POST-LIST:END -->
