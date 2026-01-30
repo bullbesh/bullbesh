@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Real-time Face Distance Estimation: Sub-400ms inference using FastAPI + InsightFace &lpar;SCRFD&rpar; on CPU](https://www.reddit.com/r/Python/comments/1qrees2/realtime_face_distance_estimation_sub400ms/)
 - [Does anyone feel like IntelliJ/PyCharm Github Co-Pilot integration is a joke?](https://www.reddit.com/r/Python/comments/1qrc7lh/does_anyone_feel_like_intellijpycharm_github/)
 - [denial: when None is no longer sufficient](https://www.reddit.com/r/Python/comments/1qraodv/denial_when_none_is_no_longer_sufficient/)
 - [SQLAlchemy, but everything is a DataFrame now](https://www.reddit.com/r/Python/comments/1qr98o7/sqlalchemy_but_everything_is_a_dataframe_now/)
 - [Release feedback: lightweight DI container for Python &lpar;diwire&rpar;](https://www.reddit.com/r/Python/comments/1qr5l4g/release_feedback_lightweight_di_container_for/)
-- [trueform: Real-time geometric processing for Python. NumPy in, NumPy out.](https://www.reddit.com/r/Python/comments/1qr2w5b/trueform_realtime_geometric_processing_for_python/)
 <!-- BLOG-POST-LIST:END -->
