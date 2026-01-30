@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just released Servy 5.9, Real-Time Console, Pre-Stop and Post-Stop hooks, and Bug fixes](https://www.reddit.com/r/Python/comments/1qrkcpz/just_released_servy_59_realtime_console_prestop/)
 - [Any projects to break out of the oop structure?](https://www.reddit.com/r/Python/comments/1qrjdxc/any_projects_to_break_out_of_the_oop_structure/)
 - [best books about artificial coupling and refactoring strategies?](https://www.reddit.com/r/Python/comments/1qrj68l/best_books_about_artificial_coupling_and/)
 - [How much time do you actually spend fixing CI failures that aren’t real bugs?](https://www.reddit.com/r/Python/comments/1qri8i7/how_much_time_do_you_actually_spend_fixing_ci/)
 - [Is it reliable to run lab equipment on Python?](https://www.reddit.com/r/Python/comments/1qrguk2/is_it_reliable_to_run_lab_equipment_on_python/)
-- [Real-time Face Distance Estimation: Sub-400ms inference using FastAPI + InsightFace &lpar;SCRFD&rpar; on CPU](https://www.reddit.com/r/Python/comments/1qrees2/realtime_face_distance_estimation_sub400ms/)
 <!-- BLOG-POST-LIST:END -->
