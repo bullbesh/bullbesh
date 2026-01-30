@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [trueform: Real-time geometric processing for Python. NumPy in, NumPy out.](https://www.reddit.com/r/Python/comments/1qr2w5b/trueform_realtime_geometric_processing_for_python/)
 - [aiogram Test Framework](https://www.reddit.com/r/Python/comments/1qr1j0b/aiogram_test_framework/)
 - [An open-source pythin package for stock analysis with - fundamentals, screening, and AI insights](https://www.reddit.com/r/Python/comments/1qr0hn2/an_opensource_pythin_package_for_stock_analysis/)
 - [How is the best way of learning code using AI without depending too much?](https://www.reddit.com/r/Python/comments/1qqydp0/how_is_the_best_way_of_learning_code_using_ai/)
 - [I built a Free Python GUI Designer!](https://www.reddit.com/r/Python/comments/1qqvp29/i_built_a_free_python_gui_designer/)
-- [A creative Git interface that turns your repo into a garden](https://www.reddit.com/r/Python/comments/1qqrdsb/a_creative_git_interface_that_turns_your_repo/)
 <!-- BLOG-POST-LIST:END -->
