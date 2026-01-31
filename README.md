@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just released Servy 5.9 - Turn Any Python App into a Native Windows Service](https://www.reddit.com/r/Python/comments/1qrwfkg/just_released_servy_59_turn_any_python_app_into_a/)
+- [Python backend jobs](https://www.reddit.com/r/Python/comments/1qrwcsp/python_backend_jobs/)
 - [pip 26.0 - pre-release and upload-time filtering](https://www.reddit.com/r/Python/comments/1qrq1mh/pip_260_prerelease_and_uploadtime_filtering/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1qrmirg/saturday_daily_thread_resource_request_and/)
-- [Just released Servy 5.9, Real-Time Console, Pre-Stop and Post-Stop hooks, and Bug fixes](https://www.reddit.com/r/Python/comments/1qrkcpz/just_released_servy_59_realtime_console_prestop/)
 - [I built a standalone, offline OCR tool because existing wrappers couldn&#39;t handle High-DPI screens](https://www.reddit.com/r/Python/comments/1qrk7s2/i_built_a_standalone_offline_ocr_tool_because/)
-- [Any projects to break out of the oop structure?](https://www.reddit.com/r/Python/comments/1qrjdxc/any_projects_to_break_out_of_the_oop_structure/)
 <!-- BLOG-POST-LIST:END -->
