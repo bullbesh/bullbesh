@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python tool that analyzes your system&#39;s hardware and determines which AI models you can run locally.](https://www.reddit.com/r/Python/comments/1qsfhg6/python_tool_that_analyzes_your_systems_hardware/)
+- [[Project] Built an MCP server for AI image generation workflows](https://www.reddit.com/r/Python/comments/1qsf1zw/project_built_an_mcp_server_for_ai_image/)
 - [Typedkafka - A typed Kafka wrapper to make my own life easier](https://www.reddit.com/r/Python/comments/1qsdsit/typedkafka_a_typed_kafka_wrapper_to_make_my_own/)
 - [Announcing MCPHero - a Python package that maps MCP servers with native OpenAI clients.](https://www.reddit.com/r/Python/comments/1qsdj5a/announcing_mcphero_a_python_package_that_maps_mcp/)
 - [I built a library for safe nested dict traversal with pattern matching](https://www.reddit.com/r/Python/comments/1qsdbph/i_built_a_library_for_safe_nested_dict_traversal/)
-- [copier-astral: Modern Python project scaffolding with the entire Astral ecosystem](https://www.reddit.com/r/Python/comments/1qsd7bn/copierastral_modern_python_project_scaffolding/)
-- [[Bug Fix] Connection pool exhaustion in httpcore when TLS handshake fails over HTTP proxy](https://www.reddit.com/r/Python/comments/1qs7crk/bug_fix_connection_pool_exhaustion_in_httpcore/)
 <!-- BLOG-POST-LIST:END -->
