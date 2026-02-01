@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Visualize your Discord friends network as an interactive graph](https://www.reddit.com/r/Python/comments/1qtd16e/visualize_your_discord_friends_network_as_an/)
 - [Finally making a Speedtest client that doesn&#39;t hide everything.](https://www.reddit.com/r/Python/comments/1qtcre0/finally_making_a_speedtest_client_that_doesnt/)
 - [Pure Python Multi Method Reinforcement Learning Pipeline in one file and Optimization tools](https://www.reddit.com/r/Python/comments/1qtaryo/pure_python_multi_method_reinforcement_learning/)
 - [pdql: write sql queries using pandas-like syntax](https://www.reddit.com/r/Python/comments/1qt9fh6/pdql_write_sql_queries_using_pandaslike_syntax/)
 - [How to Stream video files from pc to internet with low quality using python?](https://www.reddit.com/r/Python/comments/1qt8ay4/how_to_stream_video_files_from_pc_to_internet/)
-- [GoPdfSuit v4.2.0: High-Performance PDF Engine &amp; Package for Python &lpar;Native Go Speed, No Layout Code&rpar;](https://www.reddit.com/r/Python/comments/1qt49ev/gopdfsuit_v420_highperformance_pdf_engine_package/)
 <!-- BLOG-POST-LIST:END -->
