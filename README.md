@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I’ve been working on a Python automation tool and wanted to share it](https://www.reddit.com/r/Python/comments/1qsqvjk/ive_been_working_on_a_python_automation_tool_and/)
+- [Open-sourced Autonomous Brain - self-monitoring AI with 15 subsystems](https://www.reddit.com/r/Python/comments/1qsqqy9/opensourced_autonomous_brain_selfmonitoring_ai/)
+- [369 problems for &quot;109 Python Problems&quot; completed](https://www.reddit.com/r/Python/comments/1qspmhx/369_problems_for_109_python_problems_completed/)
 - [Saturday Showcase: What are you building with Python? 🐍](https://www.reddit.com/r/Python/comments/1qsns9r/saturday_showcase_what_are_you_building_with/)
 - [[Project] We built an open-source CLI tool that curates your Git history automatically.](https://www.reddit.com/r/Python/comments/1qsm0r3/project_we_built_an_opensource_cli_tool_that/)
-- [NumThy: computational number theory in pure Python](https://www.reddit.com/r/Python/comments/1qsl2hx/numthy_computational_number_theory_in_pure_python/)
-- [EZThrottle &lpar;Python&rpar;: Coordinating requests instead of retrying under rate limits](https://www.reddit.com/r/Python/comments/1qsjy4i/ezthrottle_python_coordinating_requests_instead/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1qsikyv/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
