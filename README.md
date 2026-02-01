@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pure Python Multi Method Reinforcement Learning Pipeline in one file and Optimization tools](https://www.reddit.com/r/Python/comments/1qtaryo/pure_python_multi_method_reinforcement_learning/)
+- [pdql: write sql queries using pandas-like syntax](https://www.reddit.com/r/Python/comments/1qt9fh6/pdql_write_sql_queries_using_pandaslike_syntax/)
+- [How to Stream video files from pc to internet with low quality using python?](https://www.reddit.com/r/Python/comments/1qt8ay4/how_to_stream_video_files_from_pc_to_internet/)
+- [GoPdfSuit v4.2.0: High-Performance PDF Engine &amp; Package for Python &lpar;Native Go Speed, No Layout Code&rpar;](https://www.reddit.com/r/Python/comments/1qt49ev/gopdfsuit_v420_highperformance_pdf_engine_package/)
 - [Learn NumPy indexing with our little game: NumPy Ducky](https://www.reddit.com/r/Python/comments/1qt0niz/learn_numpy_indexing_with_our_little_game_numpy/)
-- [KORE: A new systems language with Python syntax, Actor concurrency, and LLVM/SPIR-V output](https://www.reddit.com/r/Python/comments/1qsxie3/kore_a_new_systems_language_with_python_syntax/)
-- [I added &quot;Run code&quot; option to the Python DI docs &lpar;no setup&rpar;. Looking for feedback :&rpar;](https://www.reddit.com/r/Python/comments/1qsx2mq/i_added_run_code_option_to_the_python_di_docs_no/)
-- [I built a Flask app with OpenAI CLIP to semantically search and deduplicate 50,000 local photos](https://www.reddit.com/r/Python/comments/1qsunao/i_built_a_flask_app_with_openai_clip_to/)
-- [Built a small open-source tool &lpar;fasthook&rpar; to quickly create local webhook endpoints](https://www.reddit.com/r/Python/comments/1qssmes/built_a_small_opensource_tool_fasthook_to_quickly/)
 <!-- BLOG-POST-LIST:END -->
