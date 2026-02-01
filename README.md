@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Project] We built an open-source CLI tool that curates your Git history automatically.](https://www.reddit.com/r/Python/comments/1qsm0r3/project_we_built_an_opensource_cli_tool_that/)
+- [NumThy: computational number theory in pure Python](https://www.reddit.com/r/Python/comments/1qsl2hx/numthy_computational_number_theory_in_pure_python/)
+- [EZThrottle &lpar;Python&rpar;: Coordinating requests instead of retrying under rate limits](https://www.reddit.com/r/Python/comments/1qsjy4i/ezthrottle_python_coordinating_requests_instead/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1qsikyv/sunday_daily_thread_whats_everyone_working_on/)
 - [Python tool that analyzes your system&#39;s hardware and determines which AI models you can run locally.](https://www.reddit.com/r/Python/comments/1qsfhg6/python_tool_that_analyzes_your_systems_hardware/)
-- [[Project] Built an MCP server for AI image generation workflows](https://www.reddit.com/r/Python/comments/1qsf1zw/project_built_an_mcp_server_for_ai_image/)
-- [Typedkafka - A typed Kafka wrapper to make my own life easier](https://www.reddit.com/r/Python/comments/1qsdsit/typedkafka_a_typed_kafka_wrapper_to_make_my_own/)
-- [Announcing MCPHero - a Python package that maps MCP servers with native OpenAI clients.](https://www.reddit.com/r/Python/comments/1qsdj5a/announcing_mcphero_a_python_package_that_maps_mcp/)
-- [I built a library for safe nested dict traversal with pattern matching](https://www.reddit.com/r/Python/comments/1qsdbph/i_built_a_library_for_safe_nested_dict_traversal/)
 <!-- BLOG-POST-LIST:END -->
