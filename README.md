@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [awesome-python-rs: Curated list of Python libraries and tools powered by Rust](https://www.reddit.com/r/Python/comments/1qty5z0/awesomepythonrs_curated_list_of_python_libraries/)
+- [[Showcase] AgentSwarm: A framework that treats AI agents as strongly typed functions](https://www.reddit.com/r/Python/comments/1qtxusk/showcase_agentswarm_a_framework_that_treats_ai/)
 - [Python Concert Finder](https://www.reddit.com/r/Python/comments/1qtwp26/python_concert_finder/)
 - [I built Fixpoint: A deterministic security auto-patcher for Python PRs &lpar;No AI / Open Source&rpar;](https://www.reddit.com/r/Python/comments/1qtrnkx/i_built_fixpoint_a_deterministic_security/)
 - [What is the best platform to practie numpy and pandas library](https://www.reddit.com/r/Python/comments/1qtmef8/what_is_the_best_platform_to_practie_numpy_and/)
-- [[Project] My first complete GUI app - File organizer with duplicate detection](https://www.reddit.com/r/Python/comments/1qtjk1e/project_my_first_complete_gui_app_file_organizer/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1qtf7jo/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
