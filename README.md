@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the best platform to practie numpy and pandas library](https://www.reddit.com/r/Python/comments/1qtmef8/what_is_the_best_platform_to_practie_numpy_and/)
 - [[Project] My first complete GUI app - File organizer with duplicate detection](https://www.reddit.com/r/Python/comments/1qtjk1e/project_my_first_complete_gui_app_file_organizer/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1qtf7jo/monday_daily_thread_project_ideas/)
 - [Visualize your Discord friends network as an interactive graph](https://www.reddit.com/r/Python/comments/1qtd16e/visualize_your_discord_friends_network_as_an/)
 - [Finally making a Speedtest client that doesn&#39;t hide everything.](https://www.reddit.com/r/Python/comments/1qtcre0/finally_making_a_speedtest_client_that_doesnt/)
-- [Pure Python Multi Method Reinforcement Learning Pipeline in one file and Optimization tools](https://www.reddit.com/r/Python/comments/1qtaryo/pure_python_multi_method_reinforcement_learning/)
 <!-- BLOG-POST-LIST:END -->
