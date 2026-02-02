@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Was there a situation at work where a compiler for python would have been a game changer for you?](https://www.reddit.com/r/Python/comments/1qu1c5q/was_there_a_situation_at_work_where_a_compiler/)
-- [diwire - type-driven dependency injection for Python &lpar;fast, async-first, zero boilerplate&rpar;](https://www.reddit.com/r/Python/comments/1qu16ie/diwire_typedriven_dependency_injection_for_python/)
-- [Stelvio: Ship Python to AWS](https://www.reddit.com/r/Python/comments/1qtylzk/stelvio_ship_python_to_aws/)
-- [awesome-python-rs: Curated list of Python libraries and tools powered by Rust](https://www.reddit.com/r/Python/comments/1qty5z0/awesomepythonrs_curated_list_of_python_libraries/)
-- [[Showcase] AgentSwarm: A framework that treats AI agents as strongly typed functions](https://www.reddit.com/r/Python/comments/1qtxusk/showcase_agentswarm_a_framework_that_treats_ai/)
+- [RevoDraw - Draw custom images on Revolut card designs using ADB and OpenCV](https://www.reddit.com/r/Python/comments/1qubf75/revodraw_draw_custom_images_on_revolut_card/)
+- [Looking for copper, found gold: a 3D renderer in pure Python + NumPy](https://www.reddit.com/r/Python/comments/1qu9okh/looking_for_copper_found_gold_a_3d_renderer_in/)
+- [Python 3 the comprehensive guide](https://www.reddit.com/r/Python/comments/1qu7jax/python_3_the_comprehensive_guide/)
+- [Yet another HttpServer Library build in Rust](https://www.reddit.com/r/Python/comments/1qu5pox/yet_another_httpserver_library_build_in_rust/)
+- [Be honest: how often do you actually write Python from scratch now?](https://www.reddit.com/r/Python/comments/1qu5my0/be_honest_how_often_do_you_actually_write_python/)
 <!-- BLOG-POST-LIST:END -->
