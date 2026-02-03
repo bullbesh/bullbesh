@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [q2-short – a complete GUI + SQLite + CRUD app in ~40 lines of Python](https://www.reddit.com/r/Python/comments/1qunrlb/q2short_a_complete_gui_sqlite_crud_app_in_40/)
-- [How to create fun, interactive games using box2d and ipycanvas in Project Jupyter](https://www.reddit.com/r/Python/comments/1qun848/how_to_create_fun_interactive_games_using_box2d/)
-- [Node.js insists on launching missing binary instead of connecting to running Python TCP server](https://www.reddit.com/r/Python/comments/1qulp9p/nodejs_insists_on_launching_missing_binary/)
-- [Django Orbit: Full-stack &quot;Satellite&quot; Observability for Django &lpar;SQL, Celery, Redis, and more&rpar;](https://www.reddit.com/r/Python/comments/1qufa1x/django_orbit_fullstack_satellite_observability/)
-- [Axiomeer: Open-source marketplace protocol for AI agents &lpar;FastAPI + SQLAlchemy + Ollama&rpar;](https://www.reddit.com/r/Python/comments/1qucvkm/axiomeer_opensource_marketplace_protocol_for_ai/)
+- [I made a vocal assistant named Biscotte &lpar;Biscuit in english&rpar;](https://www.reddit.com/r/Python/comments/1qv5o0u/i_made_a_vocal_assistant_named_biscotte_biscuit/)
+- [Piou - CLI Tool, now with built-in TUI](https://www.reddit.com/r/Python/comments/1qv3fyp/piou_cli_tool_now_with_builtin_tui/)
+- [Architecture breakdown: Processing 2GB+ of docs for RAG without OOM errors &lpar;Python + Generators&rpar;](https://www.reddit.com/r/Python/comments/1qv2lnm/architecture_breakdown_processing_2gb_of_docs_for/)
+- [Mf4 Plotter Python GUI](https://www.reddit.com/r/Python/comments/1qv2571/mf4_plotter_python_gui/)
+- [rustdash: Lodash-style utilities for Python, Rust-powered &lpar;10-100x faster on complex ops&rpar;](https://www.reddit.com/r/Python/comments/1qv1dnj/rustdash_lodashstyle_utilities_for_python/)
 <!-- BLOG-POST-LIST:END -->
