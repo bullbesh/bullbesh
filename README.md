@@ -12,5 +12,5 @@
 - [atlas: A Python tool to quickly understand large GitHub repositories &lpar;v0.1&rpar;](https://www.reddit.com/r/Python/comments/1qw6fuw/atlas_a_python_tool_to_quickly_understand_large/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1qw5gvm/thursday_daily_thread_python_careers_courses_and/)
 - [Python 3.14.3 and 3.13.12 are now available!](https://www.reddit.com/r/Python/comments/1qw3qri/python_3143_and_31312_are_now_available/)
-- [I implemented Thomas Aquinas&#39;s &quot;Theory of Mind&quot; in Python to orchestrate LLM Agents &lpar;SAFi&rpar;](https://www.reddit.com/r/Python/comments/1qw2zju/i_implemented_thomas_aquinass_theory_of_mind_in/)
+- [A Modern Python Stack for Data Projects : uv, ruff, ty, Marimo, Polars](https://www.reddit.com/r/Python/comments/1qw1jmw/a_modern_python_stack_for_data_projects_uv_ruff/)
 <!-- BLOG-POST-LIST:END -->
