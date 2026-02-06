@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1qx21x5/friday_daily_thread_rpython_meta_and_freetalk/)
 - [ZooCache – Distributed semantic cache for Python with smart invalidation &lpar;Rust core&rpar;](https://www.reddit.com/r/Python/comments/1qx07uo/zoocache_distributed_semantic_cache_for_python/)
 - [Estoy creando un juego con evennia, agradecería mucho cualquier idea o consejo](https://www.reddit.com/r/Python/comments/1qwzv4u/estoy_creando_un_juego_con_evennia_agradecería/)
 - [I built a multi-agent orchestration framework based on 13th-century philosophy &lpar;SAFi&rpar;](https://www.reddit.com/r/Python/comments/1qwyoq3/i_built_a_multiagent_orchestration_framework/)
 - [Introducing Expanse: a modern and elegant web application framework](https://www.reddit.com/r/Python/comments/1qwsza7/introducing_expanse_a_modern_and_elegant_web/)
-- [Python Podcasts &amp; Conference Talks &lpar;week 6, 2025&rpar;](https://www.reddit.com/r/Python/comments/1qwp79p/python_podcasts_conference_talks_week_6_2025/)
 <!-- BLOG-POST-LIST:END -->
