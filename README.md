@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I ported PyMuPDF4LLM to Go/C, and made it 100x faster &lpar;literally&rpar;, while keeping comparable quality](https://www.reddit.com/r/Python/comments/1qxb67f/i_ported_pymupdf4llm_to_goc_and_made_it_100x/)
-- [Unopposed - Track Elections Without Opposition](https://www.reddit.com/r/Python/comments/1qx68ly/unopposed_track_elections_without_opposition/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1qx21x5/friday_daily_thread_rpython_meta_and_freetalk/)
-- [ZooCache – Distributed semantic cache for Python with smart invalidation &lpar;Rust core&rpar;](https://www.reddit.com/r/Python/comments/1qx07uo/zoocache_distributed_semantic_cache_for_python/)
-- [Estoy creando un juego con evennia, agradecería mucho cualquier idea o consejo](https://www.reddit.com/r/Python/comments/1qwzv4u/estoy_creando_un_juego_con_evennia_agradecería/)
+- [dynapydantic: Dynamic tracking of pydantic models and polymorphic validation](https://www.reddit.com/r/Python/comments/1qxo6m7/dynapydantic_dynamic_tracking_of_pydantic_models/)
+- [Calculator&lpar;after 80 days of learning&rpar;](https://www.reddit.com/r/Python/comments/1qxmdcg/calculatorafter_80_days_of_learning/)
+- [RoomKit: Multi-channel conversation framework for Python](https://www.reddit.com/r/Python/comments/1qxm40a/roomkit_multichannel_conversation_framework_for/)
+- [Lazy Python String](https://www.reddit.com/r/Python/comments/1qxjllv/lazy_python_string/)
+- [EasyGradients - High Quality Gradient Texts](https://www.reddit.com/r/Python/comments/1qxj0tp/easygradients_high_quality_gradient_texts/)
 <!-- BLOG-POST-LIST:END -->
