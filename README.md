@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Grab it tool from matlab in Python?](https://www.reddit.com/r/Python/comments/1qym0ub/grab_it_tool_from_matlab_in_python/)
+- [Why I chose Python for IaC and how I built re-usable AWS infra for ML using it](https://www.reddit.com/r/Python/comments/1qylo6y/why_i_chose_python_for_iac_and_how_i_built/)
+- [Python AST Visualizer / Codebase Mapper](https://www.reddit.com/r/Python/comments/1qyjgjl/python_ast_visualizer_codebase_mapper/)
+- [FluxQueue: a lightweight task queue for Python written in Rust](https://www.reddit.com/r/Python/comments/1qygjlc/fluxqueue_a_lightweight_task_queue_for_python/)
 - [I updated my web app scaffolding tool &lpar;v0.11.4&rpar;](https://www.reddit.com/r/Python/comments/1qyaeyf/i_updated_my_web_app_scaffolding_tool_v0114/)
-- [bakefile - An OOP Task Runner in Python](https://www.reddit.com/r/Python/comments/1qy7ek0/bakefile_an_oop_task_runner_in_python/)
-- [Remote Paid Swiss Fellowship: Automation, Business, Investment - Worldwide](https://www.reddit.com/r/Python/comments/1qy750q/remote_paid_swiss_fellowship_automation_business/)
-- [Built a runtime that lets Python and JavaScript call each other&#39;s functions directly](https://www.reddit.com/r/Python/comments/1qy0gbl/built_a_runtime_that_lets_python_and_javascript/)
-- [Async file I/O powered by Libuv](https://www.reddit.com/r/Python/comments/1qy036y/async_file_io_powered_by_libuv/)
 <!-- BLOG-POST-LIST:END -->
