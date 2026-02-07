@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python as you&#39;ve never seen it before](https://www.reddit.com/r/Python/comments/1qxohhp/python_as_youve_never_seen_it_before/)
-- [dynapydantic: Dynamic tracking of pydantic models and polymorphic validation](https://www.reddit.com/r/Python/comments/1qxo6m7/dynapydantic_dynamic_tracking_of_pydantic_models/)
-- [Calculator&lpar;after 80 days of learning&rpar;](https://www.reddit.com/r/Python/comments/1qxmdcg/calculatorafter_80_days_of_learning/)
-- [RoomKit: Multi-channel conversation framework for Python](https://www.reddit.com/r/Python/comments/1qxm40a/roomkit_multichannel_conversation_framework_for/)
-- [Lazy Python String](https://www.reddit.com/r/Python/comments/1qxjllv/lazy_python_string/)
+- [Built a runtime that lets Python and JavaScript call each other&#39;s functions directly](https://www.reddit.com/r/Python/comments/1qy0gbl/built_a_runtime_that_lets_python_and_javascript/)
+- [Async file I/O powered by Libuv](https://www.reddit.com/r/Python/comments/1qy036y/async_file_io_powered_by_libuv/)
+- [Skylos: Python SAST, Dead Code Detection &amp; Security Auditor &lpar;Benchmark against Vulture&rpar;](https://www.reddit.com/r/Python/comments/1qxzdz1/skylos_python_sast_dead_code_detection_security/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1qxybfr/saturday_daily_thread_resource_request_and/)
+- [[Project] NshDownload - Modern YouTube Downloader &lpar;1st Year Student Project&rpar;](https://www.reddit.com/r/Python/comments/1qxsirw/project_nshdownload_modern_youtube_downloader_1st/)
 <!-- BLOG-POST-LIST:END -->
