@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Holy Grail: Open Source Autonomous Development Agent](https://www.reddit.com/r/Python/comments/1qysy1k/holy_grail_open_source_autonomous_development/)
+- [I built a Playwright Scraper with a built-in &quot;Auto-Setup&quot;.](https://www.reddit.com/r/Python/comments/1qys0ed/i_built_a_playwright_scraper_with_a_builtin/)
+- [PyPulsar v0.1.3 released – React + Vite template, improved CLI, dynamic plugins &amp; architecture clean](https://www.reddit.com/r/Python/comments/1qyqy1e/pypulsar_v013_released_react_vite_template/)
+- [How I built a legaltech for Singaporian act and laws with RAG architecture](https://www.reddit.com/r/Python/comments/1qyo6so/how_i_built_a_legaltech_for_singaporian_act_and/)
 - [Grab it tool from matlab in Python?](https://www.reddit.com/r/Python/comments/1qym0ub/grab_it_tool_from_matlab_in_python/)
-- [Why I chose Python for IaC and how I built re-usable AWS infra for ML using it](https://www.reddit.com/r/Python/comments/1qylo6y/why_i_chose_python_for_iac_and_how_i_built/)
-- [Python AST Visualizer / Codebase Mapper](https://www.reddit.com/r/Python/comments/1qyjgjl/python_ast_visualizer_codebase_mapper/)
-- [FluxQueue: a lightweight task queue for Python written in Rust](https://www.reddit.com/r/Python/comments/1qygjlc/fluxqueue_a_lightweight_task_queue_for_python/)
-- [I updated my web app scaffolding tool &lpar;v0.11.4&rpar;](https://www.reddit.com/r/Python/comments/1qyaeyf/i_updated_my_web_app_scaffolding_tool_v0114/)
 <!-- BLOG-POST-LIST:END -->
