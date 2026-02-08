@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I upgraded my Python automation for daily AI/ML news collection](https://www.reddit.com/r/Python/comments/1qz51fy/i_upgraded_my_python_automation_for_daily_aiml/)
 - [Blockie - a general-purpose template engine](https://www.reddit.com/r/Python/comments/1qz4pje/blockie_a_generalpurpose_template_engine/)
 - [Pure Python Web Development using Antioch](https://www.reddit.com/r/Python/comments/1qz1yvl/pure_python_web_development_using_antioch/)
 - [I built an open source prediction tracking framework: pip install signal-tracker](https://www.reddit.com/r/Python/comments/1qz04mw/i_built_an_open_source_prediction_tracking/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1qytlzm/sunday_daily_thread_whats_everyone_working_on/)
-- [Holy Grail: Open Source Autonomous Development Agent](https://www.reddit.com/r/Python/comments/1qysy1k/holy_grail_open_source_autonomous_development/)
 <!-- BLOG-POST-LIST:END -->
