@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any GIS-Python Experts in the World Chat???](https://www.reddit.com/r/Python/comments/1qzbt32/any_gispython_experts_in_the_world_chat/)
 - [Poketerm: A Pokemon collection terminal tool](https://www.reddit.com/r/Python/comments/1qz7b9k/poketerm_a_pokemon_collection_terminal_tool/)
 - [Randcraft: Object-oriented random variables](https://www.reddit.com/r/Python/comments/1qz6xck/randcraft_objectoriented_random_variables/)
 - [Bench-top Instruments Automation in ctkinter GUI](https://www.reddit.com/r/Python/comments/1qz6ey3/benchtop_instruments_automation_in_ctkinter_gui/)
 - [I upgraded my Python automation for daily AI/ML news collection](https://www.reddit.com/r/Python/comments/1qz51fy/i_upgraded_my_python_automation_for_daily_aiml/)
-- [Blockie - a general-purpose template engine](https://www.reddit.com/r/Python/comments/1qz4pje/blockie_a_generalpurpose_template_engine/)
 <!-- BLOG-POST-LIST:END -->
