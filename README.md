@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How FastAPI test client works](https://www.reddit.com/r/Python/comments/1qzja91/how_fastapi_test_client_works/)
+- [What would you like to see in Python type checker?](https://www.reddit.com/r/Python/comments/1qzijgu/what_would_you_like_to_see_in_python_type_checker/)
 - [made a network checker](https://www.reddit.com/r/Python/comments/1qzgif2/made_a_network_checker/)
 - [Does Python have a GIL per process?](https://www.reddit.com/r/Python/comments/1qzfyoz/does_python_have_a_gil_per_process/)
 - [I built a Python framework for creating native macOS menu bar apps](https://www.reddit.com/r/Python/comments/1qzfnee/i_built_a_python_framework_for_creating_native/)
-- [My biggest achievement so far](https://www.reddit.com/r/Python/comments/1qzf241/my_biggest_achievement_so_far/)
-- [Spectrograms V1.0](https://www.reddit.com/r/Python/comments/1qzd30x/spectrograms_v10/)
 <!-- BLOG-POST-LIST:END -->
