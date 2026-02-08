@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Any GIS-Python Experts in the World Chat???](https://www.reddit.com/r/Python/comments/1qzbt32/any_gispython_experts_in_the_world_chat/)
+- [Any Python-GIS Experts In The World Chat?](https://www.reddit.com/r/Python/comments/1qzdkt7/any_pythongis_experts_in_the_world_chat/)
+- [Spectrograms V1.0](https://www.reddit.com/r/Python/comments/1qzd30x/spectrograms_v10/)
+- [iPhotron v4.0.0 — Major Update: MVVM Rewrite + Advanced Color Grading &lpar;PySide + OpenGL&rpar;](https://www.reddit.com/r/Python/comments/1qzclea/iphotron_v400_major_update_mvvm_rewrite_advanced/)
 - [Poketerm: A Pokemon collection terminal tool](https://www.reddit.com/r/Python/comments/1qz7b9k/poketerm_a_pokemon_collection_terminal_tool/)
 - [Randcraft: Object-oriented random variables](https://www.reddit.com/r/Python/comments/1qz6xck/randcraft_objectoriented_random_variables/)
-- [Bench-top Instruments Automation in ctkinter GUI](https://www.reddit.com/r/Python/comments/1qz6ey3/benchtop_instruments_automation_in_ctkinter_gui/)
-- [I upgraded my Python automation for daily AI/ML news collection](https://www.reddit.com/r/Python/comments/1qz51fy/i_upgraded_my_python_automation_for_daily_aiml/)
 <!-- BLOG-POST-LIST:END -->
