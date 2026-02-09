@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anyone using DTQ&lpar;Distributed Task Queue&rpar; for AI workloads? Feels too minimal — what did you hit?](https://www.reddit.com/r/Python/comments/1r04n7r/anyone_using_dtqdistributed_task_queue_for_ai/)
 - [Tortoise ORM 1.0 release &lpar;with migrations support&rpar;](https://www.reddit.com/r/Python/comments/1qzzdws/tortoise_orm_10_release_with_migrations_support/)
 - [Production-grade Full Python Neural System Router and Memory System](https://www.reddit.com/r/Python/comments/1qzxrpc/productiongrade_full_python_neural_system_router/)
 - [Dumb question- Why can’t Python be used to make native Android apps ?](https://www.reddit.com/r/Python/comments/1qzwdvl/dumb_question_why_cant_python_be_used_to_make/)
 - [I built a library to execute Python functions on Slurm clusters just like local functions](https://www.reddit.com/r/Python/comments/1qzui8a/i_built_a_library_to_execute_python_functions_on/)
-- [A helper for external Python debugging on Linux as non-root](https://www.reddit.com/r/Python/comments/1qzrwpa/a_helper_for_external_python_debugging_on_linux/)
 <!-- BLOG-POST-LIST:END -->
