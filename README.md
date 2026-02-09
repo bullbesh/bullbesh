@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Production-grade Full Python Neural System Router and Memory System](https://www.reddit.com/r/Python/comments/1qzxrpc/productiongrade_full_python_neural_system_router/)
 - [Dumb question- Why can’t Python be used to make native Android apps ?](https://www.reddit.com/r/Python/comments/1qzwdvl/dumb_question_why_cant_python_be_used_to_make/)
 - [I built a library to execute Python functions on Slurm clusters just like local functions](https://www.reddit.com/r/Python/comments/1qzui8a/i_built_a_library_to_execute_python_functions_on/)
 - [A helper for external Python debugging on Linux as non-root](https://www.reddit.com/r/Python/comments/1qzrwpa/a_helper_for_external_python_debugging_on_linux/)
 - [ZGram - JIT compile PEG parser generator for Python.](https://www.reddit.com/r/Python/comments/1qzqsqk/zgram_jit_compile_peg_parser_generator_for_python/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1qzp0ul/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
