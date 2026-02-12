@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Anyone using DTQ&lpar;Distributed Task Queue&rpar; for AI workloads? Feels too minimal — what did you hit?](https://www.reddit.com/r/Python/comments/1r04n7r/anyone_using_dtqdistributed_task_queue_for_ai/)
-- [Tortoise ORM 1.0 release &lpar;with migrations support&rpar;](https://www.reddit.com/r/Python/comments/1qzzdws/tortoise_orm_10_release_with_migrations_support/)
-- [Production-grade Full Python Neural System Router and Memory System](https://www.reddit.com/r/Python/comments/1qzxrpc/productiongrade_full_python_neural_system_router/)
-- [Dumb question- Why can’t Python be used to make native Android apps ?](https://www.reddit.com/r/Python/comments/1qzwdvl/dumb_question_why_cant_python_be_used_to_make/)
-- [I built a library to execute Python functions on Slurm clusters just like local functions](https://www.reddit.com/r/Python/comments/1qzui8a/i_built_a_library_to_execute_python_functions_on/)
+- [Kreuzberg v4.3.0 and benchmarks](https://www.reddit.com/r/Python/comments/1r2mnow/kreuzberg_v430_and_benchmarks/)
+- [Technical Report Generator – Convert Jupyter Notebooks into Structured DOCX/PDF Reports](https://www.reddit.com/r/Python/comments/1r2k0ad/technical_report_generator_convert_jupyter/)
+- [Anyone else have pain points with new REPL in Python3.14? Specifically with send line integrations](https://www.reddit.com/r/Python/comments/1r2gxuz/anyone_else_have_pain_points_with_new_repl_in/)
+- [Polars + uv + marimo &lpar;glazing post - feel free to ignore&rpar;.](https://www.reddit.com/r/Python/comments/1r2e3sa/polars_uv_marimo_glazing_post_feel_free_to_ignore/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1r2e2ox/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
