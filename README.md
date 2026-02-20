@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Kreuzberg v4.3.0 and benchmarks](https://www.reddit.com/r/Python/comments/1r2mnow/kreuzberg_v430_and_benchmarks/)
-- [Technical Report Generator – Convert Jupyter Notebooks into Structured DOCX/PDF Reports](https://www.reddit.com/r/Python/comments/1r2k0ad/technical_report_generator_convert_jupyter/)
-- [Anyone else have pain points with new REPL in Python3.14? Specifically with send line integrations](https://www.reddit.com/r/Python/comments/1r2gxuz/anyone_else_have_pain_points_with_new_repl_in/)
-- [Polars + uv + marimo &lpar;glazing post - feel free to ignore&rpar;.](https://www.reddit.com/r/Python/comments/1r2e3sa/polars_uv_marimo_glazing_post_feel_free_to_ignore/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1r2e2ox/thursday_daily_thread_python_careers_courses_and/)
+- [Why Python still dominates in 2026 despite performance criticisms ?](https://www.reddit.com/r/Python/comments/1ra2yt2/why_python_still_dominates_in_2026_despite/)
+- [expectllm: An “expect”-style framework for scripting LLM conversations &lpar;365 lines&rpar;](https://www.reddit.com/r/Python/comments/1ra00n7/expectllm_an_expectstyle_framework_for_scripting/)
+- [emergent — write the domain, derive the rest. One Python dataclass → HTTP + CLI + Telegram.](https://www.reddit.com/r/Python/comments/1r9zhbp/emergent_write_the_domain_derive_the_rest_one/)
+- [PEP 747 – Annotating Type Forms is accepted](https://www.reddit.com/r/Python/comments/1r9zfpt/pep_747_annotating_type_forms_is_accepted/)
+- [I built a full PostScript Level 2 interpreter in Python — PostForge](https://www.reddit.com/r/Python/comments/1r9ykjw/i_built_a_full_postscript_level_2_interpreter_in/)
 <!-- BLOG-POST-LIST:END -->
