@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a Python tool to automate finding privacy contacts for account deletion requests](https://www.reddit.com/r/Python/comments/1ra5yko/i_built_a_python_tool_to_automate_finding_privacy/)
 - [pytest‑difftest — a pytest plugin to run only tests affected by code changes](https://www.reddit.com/r/Python/comments/1ra4yeg/pytestdifftest_a_pytest_plugin_to_run_only_tests/)
 - [Why Python still dominates in 2026 despite performance criticisms ?](https://www.reddit.com/r/Python/comments/1ra2yt2/why_python_still_dominates_in_2026_despite/)
 - [expectllm: An “expect”-style framework for scripting LLM conversations &lpar;365 lines&rpar;](https://www.reddit.com/r/Python/comments/1ra00n7/expectllm_an_expectstyle_framework_for_scripting/)
 - [emergent — write the domain, derive the rest. One Python dataclass → HTTP + CLI + Telegram.](https://www.reddit.com/r/Python/comments/1r9zhbp/emergent_write_the_domain_derive_the_rest_one/)
-- [PEP 747 – Annotating Type Forms is accepted](https://www.reddit.com/r/Python/comments/1r9zfpt/pep_747_annotating_type_forms_is_accepted/)
 <!-- BLOG-POST-LIST:END -->
