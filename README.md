@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a CLI tool to find good first issues in projects you actually care about](https://www.reddit.com/r/Python/comments/1ra7r1t/i_built_a_cli_tool_to_find_good_first_issues_in/)
-- [[Project] LogSnap — CLI log analyzer built in Python](https://www.reddit.com/r/Python/comments/1ra7ksm/project_logsnap_cli_log_analyzer_built_in_python/)
-- [I built a Python tool to automate finding privacy contacts for account deletion requests](https://www.reddit.com/r/Python/comments/1ra5yko/i_built_a_python_tool_to_automate_finding_privacy/)
-- [pytest‑difftest — a pytest plugin to run only tests affected by code changes](https://www.reddit.com/r/Python/comments/1ra4yeg/pytestdifftest_a_pytest_plugin_to_run_only_tests/)
-- [Why Python still dominates in 2026 despite performance criticisms ?](https://www.reddit.com/r/Python/comments/1ra2yt2/why_python_still_dominates_in_2026_despite/)
+- [Can anyone advise me on how to figure out the analytical system?](https://www.reddit.com/r/Python/comments/1ramuav/can_anyone_advise_me_on_how_to_figure_out_the/)
+- [sharepoint-to-text: pure-Python text + structure extraction for “real” SharePoint document estates](https://www.reddit.com/r/Python/comments/1rali0u/sharepointtotext_purepython_text_structure/)
+- [Memory-Snap – Automatically download your Snapchat Memories from JSON export](https://www.reddit.com/r/Python/comments/1rahuj5/memorysnap_automatically_download_your_snapchat/)
+- [I built a small CLI tool to convert relative imports to absolute imports during a large refactoring](https://www.reddit.com/r/Python/comments/1ragli8/i_built_a_small_cli_tool_to_convert_relative/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1rabwqq/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
