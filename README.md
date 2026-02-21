@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built an async Vinted scraper](https://www.reddit.com/r/Python/comments/1rax01a/built_an_async_vinted_scraper/)
+- [I built a small library to version and compare LLM prompts &lpar;because Git wasn’t enough&rpar;](https://www.reddit.com/r/Python/comments/1rawdaj/i_built_a_small_library_to_version_and_compare/)
+- [One missing feature and a truthiness bug. My agent never mentioned this when the 53 tests passed.](https://www.reddit.com/r/Python/comments/1ravaom/one_missing_feature_and_a_truthiness_bug_my_agent/)
+- [TokenWise: Budget-enforced LLM routing with tiered escalation and OpenAI-compatible proxy](https://www.reddit.com/r/Python/comments/1ratn2m/tokenwise_budgetenforced_llm_routing_with_tiered/)
 - [Python + Modbus TCP: Mapping guide for HNC PLCs in the works. Anything specific you&#39;d like to see?](https://www.reddit.com/r/Python/comments/1ranoij/python_modbus_tcp_mapping_guide_for_hnc_plcs_in/)
-- [Drakeling — a local AI companion creature for your terminal](https://www.reddit.com/r/Python/comments/1ran0ww/drakeling_a_local_ai_companion_creature_for_your/)
-- [Can anyone advise me on how to figure out the analytical system?](https://www.reddit.com/r/Python/comments/1ramuav/can_anyone_advise_me_on_how_to_figure_out_the/)
-- [sharepoint-to-text: pure-Python text + structure extraction for “real” SharePoint document estates](https://www.reddit.com/r/Python/comments/1rali0u/sharepointtotext_purepython_text_structure/)
-- [Memory-Snap – Automatically download your Snapchat Memories from JSON export](https://www.reddit.com/r/Python/comments/1rahuj5/memorysnap_automatically_download_your_snapchat/)
 <!-- BLOG-POST-LIST:END -->
