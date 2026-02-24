@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Built an async Vinted scraper](https://www.reddit.com/r/Python/comments/1rax01a/built_an_async_vinted_scraper/)
-- [I built a small library to version and compare LLM prompts &lpar;because Git wasn’t enough&rpar;](https://www.reddit.com/r/Python/comments/1rawdaj/i_built_a_small_library_to_version_and_compare/)
-- [One missing feature and a truthiness bug. My agent never mentioned this when the 53 tests passed.](https://www.reddit.com/r/Python/comments/1ravaom/one_missing_feature_and_a_truthiness_bug_my_agent/)
-- [TokenWise: Budget-enforced LLM routing with tiered escalation and OpenAI-compatible proxy](https://www.reddit.com/r/Python/comments/1ratn2m/tokenwise_budgetenforced_llm_routing_with_tiered/)
-- [Python + Modbus TCP: Mapping guide for HNC PLCs in the works. Anything specific you&#39;d like to see?](https://www.reddit.com/r/Python/comments/1ranoij/python_modbus_tcp_mapping_guide_for_hnc_plcs_in/)
+- [OscilloScope art generator on python](https://www.reddit.com/r/Python/comments/1rdow87/oscilloscope_art_generator_on_python/)
+- [MAP v1.0 - Deterministic identity for structured data. Zero deps, 483-line frozen spec, MIT](https://www.reddit.com/r/Python/comments/1rdluk7/map_v10_deterministic_identity_for_structured/)
+- [anthropic-compat - drop-in fix for a Claude API breaking change](https://www.reddit.com/r/Python/comments/1rdlpif/anthropiccompat_dropin_fix_for_a_claude_api/)
+- [Introducing Windows Auto-venv tool: CDV 🎉 !](https://www.reddit.com/r/Python/comments/1rdhu1n/introducing_windows_autovenv_tool_cdv/)
+- [Built a tiny decorator-based execution gate in Python](https://www.reddit.com/r/Python/comments/1rdgol8/built_a_tiny_decoratorbased_execution_gate_in/)
 <!-- BLOG-POST-LIST:END -->
